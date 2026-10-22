@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:419984:por
+title: Decreto-Lei n.º 276/87
+short_title: null
+summary: Introduz uma maior flexibilidade no regime de aprovação das tarifas de transporte aéreo regular
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 276/87
+official_date: null
+publication_date: '1987-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/1987, Série I de 1987-07-04
+  number: '151'
+  series: I
+  supplement: null
+  pages: 2618 - 2620
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15100/26182620.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '419984'
+  dre_path: /dr/detalhe/decreto-lei/276-1987-419984
+  internal: pt:dre:419984:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1987-419984
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1987-419984
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-08-17T00:00:00Z'
+integrity:
+  source_sha256: 28d0df0e2ddbcea607edef1a4ae14381c3e74829978e3434feb5c3a896433a43
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-276-419984.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:674434:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 276/87
+
+de 4 de Julho
+
+A política de preços é um dos aspectos em que estão em gestação profundas mutações ao nível internacional, no âmbito da reformulação da política de transporte aéreo em curso, designadamente ao nível comunitário.
+
+Há, portanto, que desde já dar às empresas portuguesas condições para uma melhor adaptação às condições dos mercados, limitando a intervenção da Administração aos serviços de maior incidência social.
+
+Como é óbvio, desta orientação resultam automaticamente importantes ganhos em termos de desburocratização e simplificação.
+
+São estes os objectivos essenciais do presente diploma, em que se procede igualmente a uma redefinição do sistema sancionatório, introduzindo-se o regime das contra-ordenações.
+
+Nestes termos, após consulta aos órgãos de governo próprio das Regiões Autónomas da Madeira e dos Açores, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Para efeitos deste diploma, considera-se:
+
+a) Transporte aéreo regular - séries de voos comerciais abertos ao público e operados para transporte entre dois ou mais pontos, com uma frequência regular conforme com um horário estabelecido e publicado;
+
+b) Tarifa - preço do transporte de passageiros, bagagens e mercadorias e as condições em que se aplica, assim como os preços e condições referentes aos serviços de agência e outros serviços auxiliares, com excepção, todavia, das remunerações e condições relativas ao transporte de correio.
+
+Considera-se ainda englobada no conceito de tarifa a concessão ao passageiro de quaisquer benefícios com fins promocionais;
+
+c) Tarifa normal de classe económica - tarifa sem restrições específicas quanto à sua utilização, aplicável a viagens no compartimento de uma aeronave destinada a classe de serviço económico ou turística.
+
+###### Art. 2.º - 1 - Dependem de aprovação do ministro que tenha a seu cargo o sector dos transportes as tarifas de transporte aéreo regular a aplicar em serviços:
+
+a) Internacionais envolvendo o território nacional;
+
+b) Domésticos entre o continente e as Regiões Autónomas da Madeira e dos Açores ou entre estas Regiões, no que respeita a tarifas de nível superior à tarifa normal de classe económica.
+
+2 - São aprovadas por portaria, nos termos dos Decretos-Leis n.os [329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e [75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, as tarifas entre o continente e as regiões Autónomas e entre estas regiões não abrangidas pelo disposto na alínea b) do número anterior.
+
+3 - A aprovação das tarifas a aplicar nos serviços aéreos regulares dentro de cada região autónoma é da competência do respectivo governo regional, que regulamentará os procedimentos a adoptar para o efeito.
+
+4 - As tarifas a aplicar nos serviços não abrangidos pelos números anteriores são fixadas pelos transportadores, devendo ser previamente comunicadas à Direcção-Geral da Aviação Civil (DGAC) com uma antecedência mínima de quinze dias relativamente à data da sua entrada em vigor.
+
+5 - A competência referida no n.º 1 relativamente a tarifas aplicáveis em serviços que não sejam objecto de indemnizações compensatórias por parte do Estado poderá ser delegada no director-geral da Aviação Civil.
+
+###### Art. 3.º As propostas tarifárias serão apresentadas pelos transportadores aéreos para aprovação na DGAC, individualmente ou após consulta a outras transportadoras aéreas.
+
+###### Art. 4.º - 1 - As propostas para aprovação das tarifas internacionais serão apresentadas na DGAC nos prazos estabelecidos nos acordos e convenções de que Portugal é parte.
+
+2 - No caso de tarifas domésticas, ou de tarifas internacionais em que não haja lugar à aplicação do número anterior, a apresentação das propostas far-se-á:
+
+a) Até 45 dias antes da data prevista para a sua entrada em vigor, para as tarifas internacionais;
+
+b) Até 90 dias antes da data prevista para a sua entrada em vigor, para as tarifas relativas a serviços entre o continente e as regiões autónomas ou entre estas regiões.
+
+3 - Em casos devidamente justificados, poderão ser aceites propostas fora dos prazos estabelecidos no número anterior.
+
+###### Art. 5.º - 1 - Sem prejuízo do disposto no número seguinte, as propostas relativas a tarifas internacionais serão consideradas aprovadas se no prazo de 30 dias após a data da sua recepção não for comunicado despacho de não aprovação.
+
+2 - Se, para avaliação da proposta, a DGAC tiver necessidade de informação adicional por parte da empresa ou associação proponente, o prazo referido no número anterior só contará a partir da data em que esses elementos forem entregues na DGAC.
+
+###### Art. 6.º - 1 - As tarifas submetidas a aprovação devem ser devidamente fundamentadas pelos proponentes.
+
+2 - A DGAC poderá solicitar às empresas transportadoras todos os elementos que considere úteis à correcta avaliação das tarifas propostas.
+
+###### Art. 7.º A DGAC poderá emitir instruções sobre a forma de apresentação das propostas tarifárias e sua fundamentação.
+
+###### Art. 8.º As propostas tarifárias serão apreciadas tendo em conta a economia de exploração dos serviços, os interesses dos utentes, as características do mercado e um desenvolvimento são e ordenado da indústria do transporte aéreo.
+
+###### Art. 9.º Em caso de não aprovação de propostas relativas a tarifas internacionais, funcionarão as regras previstas nos acordos internacionais aplicáveis.
+
+###### Art. 10.º - 1 - O ministro que tem a seu cargo o sector dos transportes poderá, de acordo com os critérios referidos no artigo 8.º, estabelecer tarifas em caso de:
+
+a) Desaprovação de propostas tarifárias às quais não se aplica o disposto no artigo 9.º;
+
+b) Inexistência de propostas tarifárias por parte dos transportadores autorizados a operar o serviço em causa.
+
+2 - Em circunstâncias especiais, o director-geral da Aviação Civil poderá, relativamente a determinadas categorias de tráfego ou de utilizadores, autorizar a prática de tarifas com níveis de preços ou condições de aplicação distintas das aprovadas para o público em geral.
+
+###### Art. 11.º Quando a prática internacional o aconselhe ou por força de compromissos internacionais assumidos por Portugal, as entidades competentes para aprovar ou fixar tarifas nos termos do presente diploma poderão autorizar o estabelecimento de zonas de flexibilidade em torno de uma tarifa aprovada ou de um valor teórico fixado, no interior das quais e mediante condições os transportadores poderão praticar algumas variações relativamente à tarifa base.
+
+###### Art. 12.º Nenhum serviço de transporte aéreo regular pode ser prestado a tarifas não previamente aprovadas ou estabelecidas de acordo com o presente diploma.
+
+###### Art. 13.º - 1 - Os títulos de transporte aéreo regular deverão conter indicação expressa do preço pago pelo transporte, salvo nos casos em que a tarifa aprovada se refira a um preço de transporte necessariamente incluído num complexo de serviços mais alargado («viagens com tudo incluído»).
+
+2 - Os transportadores deverão dar prévio conhecimento à DGAC dos códigos utilizados no preenchimento dos títulos de transporte, os quais identificarão claramente a tarifa aplicada.
+
+###### Art. 14.º Os transportadores e os seus agentes deverão esclarecer o público utente das condições associadas aos preços do transporte que lhe digam directamente respeito.
+
+###### Art. 15.º - 1 - A publicidade que se refira a preços de transporte aéreo regular deverá conter informação tão completa quanto possível relativamente aos serviços e condições associados a esses preços.
+
+2 - É expressamente proibida qualquer publicidade a tarifas não aprovadas ou estabelecidas de acordo com o presente diploma, ainda que para pontos para os quais o transportador em causa não tenha direitos de tráfego à partida de Portugal.
+
+###### Art. 16.º É da competência da DGAC a fiscalização do disposto neste diploma, podendo, para o efeito, recorrer a pessoal estranho aos serviços, que actuará sob juramento legal.
+
+###### Art. 17.º Os transportadores e seus agentes ficam obrigados a prestar toda a colaboração de que a DGAC necessite na sua acção fiscalizadora e a exibirem todos os documentos requeridos, facultando inclusivamente o acesso aos seus registos comerciais e contabilísticos.
+
+###### Art. 18.º Constituem contra-ordenações as violações às disposições do presente diploma, as quais darão lugar à aplicação das sanções, graduadas segundo a gravidade da infracção e a culpa do agente, que podem revestir os seguintes tipos:
+
+a) Advertência escrita;
+
+b) Coima;
+
+c) Suspensão total ou parcial de autorização de exploração.
+
+###### Art. 19.º Em tudo o que não for contrário ao disposto no presente diploma é aplicável o regime previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+###### Art. 20.º - 1 - As sanções previstas no artigo 18.º aplicam-se ao transportador, quer este tenha actuado directamente quer por intermédio dos seus agentes.
+
+2 - A aplicação das sanções aí previstas não prejudica a eventual responsabilidade civil ou criminal imputável ao infractor.
+
+###### Art. 21.º A sanção de advertência escrita será aplicável às infracções que pela sua natureza ligeira não justifiquem sanção mais grave.
+
+###### Art. 22.º Haverá lugar à aplicação de coima entre 50000$00 e 500000$00 quando se verifique:
+
+a) Publicidade que induza os utentes em erro;
+
+b) Publicidade a tarifas não autorizadas;
+
+c) Emissão de títulos de transporte não conformes com o disposto no artigo 13.º do presente diploma.
+
+###### Art. 23.º Haverá lugar a aplicação de coima entre 100000$00 e 1000000$00 quando se verifique:
+
+a) A prática de uma tarifa não aprovada nos termos do presente diploma, considerando-se como tal:
+
+A venda a um preço distinto do aprovado;
+
+O não cumprimento das condições associadas aos respectivos preços;
+
+O reembolso da totalidade ou de parte do preço do transporte cobrado em conformidade com uma tarifa aprovada;
+
+O não fornecimento de bens ou serviços previstos nas condições de aplicação da tarifa;
+
+b) Prestação de falsas declarações perante a DGAC no âmbito de aplicação deste diploma.
+
+###### Art. 24.º A sanção prevista na alínea c) do artigo 18.º poderá ser aplicada pelo ministro que tem a seu cargo o sector dos transportes, sob proposta da DGAC, quando se verifique a prática sistemática das infracções discriminadas no artigo 23.º, sem prejuízo da aplicação da coima que ao caso couber.
+
+###### Art. 25.º - 1 - A aplicação da sanção de advertência escrita e de coimas até 500000$00 é da competência do director-geral da Aviação Civil.
+
+2 - A aplicação de coimas acima do montante referido no número anterior é da competência do ministro que tem a seu cargo o sector dos transportes, sob proposta da DGAC.
+
+###### Art. 26.º As coimas aplicadas nos termos do presente diploma constituem receita do Estado, que goza de privilégio creditório sobre as aeronaves e restante equipamento utilizado pelo infractor.
+
+###### Art. 27.º Os processos relativos às infracções previstas neste diploma serão instruídos pela DGAC.
+
+###### Art. 28.º Este decreto-lei entra em vigor 30 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim da Rocha Vieira - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins.
+
+**Promulgado em 22 de Junho de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 24 de Junho de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

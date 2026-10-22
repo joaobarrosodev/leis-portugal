@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:386445:por
+title: Portaria n.º 337/84
+short_title: null
+summary: Regulamenta os elementos de registo das escolas de condução
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento Social - Secretaria de Estado dos Transportes - Direcção-Geral de Viação
+proposing_entity: null
+official_number: 337/84
+official_date: null
+publication_date: '1984-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/1984, Série I de 1984-06-05
+  number: '130'
+  series: I
+  supplement: null
+  pages: 1778 - 1786
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13000/17781786.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '386445'
+  dre_path: /dr/detalhe/portaria/337-1984-386445
+  internal: pt:dre:386445:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-1984-386445
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-1984-386445
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-06-05T00:00:00Z'
+integrity:
+  source_sha256: 34dd57b9ba79e4b4b7421e5e0084a895751b73952837aaba7d80045085c11771
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-337-386445.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 337/84
+
+de 5 de Junho
+
+O [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, fixou os elementos de registo de que devem dispor as escolas de condução, bem como os requisitos que deverão ser observados na inscrição dos instruendos e ainda a obrigatoriedade de subscrição pelo director técnico da escola de declaração de frequência a todos os instruendos que tenham frequentado o número mínimo de lições exigido e se encontrem aptos a realizar exame de condução.
+
+Porém, os modelos a que devem obedecer os impressos a utilizar pelas escolas, forma de preenchimento, utilização, prazos de conservação e arquivo destes documentos foram remetidos para futura regulamentação.
+
+Visa, assim, o presente diploma regulamentar aquelas matérias.
+
+Nestes termos:
+
+Tendo em vista o disposto no n.º 4 do artigo 31.º, no n.º 2 do artigo 32.º e no n.º 2 do artigo 34.º, todos do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, o seguinte:
+
+1.º Os modelos a que devem obedecer o livro de inscrição dos instruendos, as fichas de instruendos, os livros de registo das lições de teoria da condução e de mecânica automóvel, as folhas de registo de prática da condução e do serviço de exames e o livro de registo de instrutores são, respectivamente, os constantes dos quadros 1, 2, 3, 4 e 5 anexos ao presente diploma.
+
+2.º O livro de registo de reclamações não obedece a modelo próprio, devendo, contudo, satisfazer os requisitos fixados nos números seguintes.
+
+3.º Os livros referidos nos números anteriores têm termos de abertura e encerramento, lavrados pelo director de viação com jurisdição na área em que a escola se situa.
+
+4.º O termo de abertura deve ser requerido pelas escolas de condução e instrutores por conta própria, apresentando o livro com todas as páginas numeradas e rubricadas pelo director da escola ou instrutor por conta própria, podendo para o efeito utilizar-se chancela.
+
+5.º Os termos de abertura e encerramento são lavrados na respectiva direcção de viação e obedecem aos modelos fixados em despacho do director-geral de Viação.
+
+6.º No acto de abertura dos livros, todas as páginas devem ser rubricadas pelo director de viação, podendo para o efeito utilizar-se chancela.
+
+7.º No prazo de 30 dias a contar do último registo deve ser requerida à direcção de viação respectiva a aposição do termo de encerramento.
+
+8.º Sobre a assinatura dos termos de abertura e encerramento é aposto selo branco.
+
+9.º Os livros referidos nos n.os 1.º e 2.º do presente diploma devem ser conservados pelo período de 5 anos a contar da data em que tiver sido lavrado o termo de encerramento.
+
+10.º Por igual período, a contar da data da aprovação dos candidatos no exame de condução, devem ser conservadas, devidamente arquivadas, as fichas de instruendo.
+
+11.º As folhas de registo de lições de prática da condução e do serviço de exames devem ser também devidamente arquivadas e conservadas pelo período de 5 anos contado da data das lições.
+
+12.º Os livros de registo, bem como as fichas de instruendo, as folhas de registo das lições de prática da condução e do serviço de exames enumerados no n.º 1 do artigo 31.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, devem ser preenchidos em letra visível e mantidos devidamente actualizados.
+
+13.º As escolas de condução e os instrutores por conta própria dispõem do prazo de 15 dias, contado da data da ocorrência dos factos a registar, para procederem à actualização a que se refere o número anterior.
+
+14.º O director da escola e instrutor que haja ministrado o ensino, bem como o instrutor por conta própria, devem registar na ficha de instruendo, antes da realização de cada prova de exame, a informação correspondente ao grau de apreensão de conhecimentos do respectivo candidato.
+
+15.º O livro de reclamações deve ser facultado sempre que alguém o solicite, devendo a escola possuir, em lugar visível, aviso que dê conhecimento da sua existência.
+
+16.º Sobre qualquer reclamação inscrita no referido livro deve o director da escola, ou instrutor por conta própria, registar no mesmo a solução dada à questão, bem como remeter, no prazo de 8 dias, à direcção de viação respectiva uma cópia da reclamação e informar das providências tomadas.
+
+17.º A inscrição de qualquer instruendo pode ser cancelada quando:
+
+a) O instruendo se comporte irregularmente, por forma a prejudicar o ensino ou a disciplina escolar;
+
+b) O instruendo se mantenha afastado do ensino durante mais de 30 dias sem aviso prévio;
+
+c) Não sejam ministradas ao instruendo, sem aviso prévio, 3 lições que lhe tenham sido marcadas;
+
+d) O instruendo esteja impossibilitado de comparecer às lições teóricas, técnicas ou práticas;
+
+e) A ministração do ensino for interrompida por motivos alheios ao instruendo, por período superior a 30 dias, sem a sua anuência.
+
+18.º O cancelamento da inscrição com fundamento no disposto nas alíneas a) e b) do número anterior cabe ao director da escola ou ao instrutor por conta própria, apenas produzindo efeitos após notificação ao instruendo por carta registada com aviso de recepção.
+
+19.º O cancelamento com fundamento no disposto nas alíneas c), d) e e) do n.º 17.º resulta de comunicação por escrito apresentada pelo instruendo.
+
+20.º A inscrição caduca por efeito da aprovação do instruendo em exame de condução ou o cancelamento do alvará da escola ou da licença de instrutor por conta própria que ministre o respectivo ensino.
+
+21.º Decorridos 30 dias após a recepção dos documentos a que se referem os n.os 18.º e 19.º cessa o direito a qualquer reclamação.
+
+22.º O cancelamento ou caducidade da inscrição implica a restituição ao instruendo da importância que represente o saldo entre as quantias pagas e as devidas.
+
+23.º A taxa de inscrição não é reembolsável.
+
+24.º Nenhum exame de condução pode ser realizado sem que no início da prestação de cada uma das suas provas seja entregue pelo examinando declaração, em duplicado, devidamente preenchida e donde conste que lhe foram ministrados os programas de ensino próprios da habilitação pretendida.
+
+25.º O modelo a que deve obedecer a declaração de frequência é o constante do quadro 6 anexo ao presente diploma.
+
+26.º O candidato que tenha frequentado duas ou mais escolas de condução deve apresentar uma única declaração, em duplicado, emitida pela escola proponente e pela qual comprove que frequentou o número de lições necessário à completa ministração do programa de ensino correspondente à habilitação pretendida.
+
+27.º Para efeito do disposto no número anterior é obrigatória a entrega na escola proponente da cópia da ficha de instruendo emitida pela escola ou escolas anteriores em que haja sido ministrado ensino, que ficará anexa à nova ficha de instruendo.
+
+28.º Das cópias entregues deve constar a parte do programa de ensino já ministrado ao instruendo, bem como as datas das respectivas lições, sem o que o candidato tem de frequentar, na nova escola, todas as lições correspondentes à ministração completa do respectivo programa.
+
+29.º As escolas de condução e os instrutores por conta própria devem organizar em processo autónomo os triplicados das declarações de frequência ou juntá-los à respectiva ficha de instruendo, ficando obrigados a entregar ao candidato exemplar ou cópia da declaração, quando este o solicitar, dentro do prazo fixado no n.º 1 do artigo 33.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro.
+
+30.º Por despacho do director-geral de Viação podem ser alterados os modelos anexos ao presente diploma, bem como mandados adoptar os mais que a experiência ou as necessidades tornem aconselháveis ao correcto funcionamento das escolas de condução.
+
+Ministério do Equipamento Social.
+
+**Assinada em 15 de Maio de 1984.**
+
+**O Ministro do Equipamento Social, João Rosado Correia.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/13000/17781786.pdf))](https://files.diariodarepublica.pt/1s/1984/06/13000/17781786.pdf)

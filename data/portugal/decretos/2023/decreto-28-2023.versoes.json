@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223267496:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/2023-835808978",
+ "dre_path": "/dr/detalhe/decreto/28-2023-223267496",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835808468"
+   ]
+  }
+ ],
+ "fragments": {
+  "835808468": {
+   "fragment_id": "835808979",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 28/2023\n\nde 25 de outubro\n\nSumário: Aprova o Acordo de Cooperação entre a República Portuguesa e o Reino de Marrocos em Matéria de Proteção Civil, assinado em Lisboa, em 12 de maio de 2023.\n\nO Acordo de Cooperação entre a República Portuguesa e o Reino de Marrocos em Matéria de Proteção Civil, assinado em Lisboa, em 12 de maio de 2023, estabelece o quadro jurídico aplicável entre as Partes em matéria de cooperação no domínio da Proteção Civil.\n\nO Acordo representa um contributo para o reforço dos laços de amizade e de cooperação estreita entre os dois Estados, conscientes do perigo que representam para ambos as catástrofes de origem natural ou tecnológica que cada vez mais ultrapassam a capacidade de resposta nacional e tem vindo a demonstrar a necessidade de reforçar a cooperação e as trocas de informação entre os organismos competentes das Partes no domínio da Proteção Civil e a formação dos agentes de Proteção Civil.\n\nO projeto de Acordo foi negociado entre a Autoridade Nacional de Emergência e Proteção Civil e a sua contraparte marroquina, a Direção da Proteção Civil do Ministério do Interior.\n\nO presente Acordo revoga o Acordo de Cooperação em Matéria de Proteção Civil entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Lisboa, em 28 de abril de 1992.\n\nFace a quanto precede, entende-se que se reveste de relevante oportunidade política para Portugal a aprovação deste Acordo na redação constante da versão assinada entre as Partes.\n\nAssim:\n\nNos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo de Cooperação entre a República Portuguesa e o Reino de Marrocos em Matéria de Proteção Civil, assinado em Lisboa, em 12 de maio de 2023, cujo texto, nas versões autênticas, nas línguas portuguesa, árabe e francesa, se publica em anexo."
+  }
+ }
+}

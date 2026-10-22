@@ -1,0 +1,243 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56384881:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-116230326",
+ "dre_path": "/dr/detalhe/decreto-lei/129-2014-56384881",
+ "source_lastmod": "2025-06-06",
+ "versions": [
+  {
+   "date": "2014-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1055956391",
+    "116230240",
+    "116230241",
+    "116230242",
+    "116230243",
+    "116230244",
+    "116230245",
+    "116230246",
+    "116230247",
+    "116230248",
+    "116230249",
+    "116230250",
+    "116230251",
+    "116230252",
+    "116230253",
+    "116230254",
+    "116230255",
+    "116230256"
+   ]
+  },
+  {
+   "date": "2018-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116165764:por",
+     "title": "Decreto-Lei n.º 69/2018",
+     "published": "2018-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/69-2018-116165764"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "116230239",
+    "116230240",
+    "116230241",
+    "920958690",
+    "116230243",
+    "116230244",
+    "116230245",
+    "116230246",
+    "116230247",
+    "116230248",
+    "116230249",
+    "116230250",
+    "116230251",
+    "116230252",
+    "116230253",
+    "116230254",
+    "116230255",
+    "116230256",
+    "116230257"
+   ]
+  }
+ ],
+ "fragments": {
+  "1055956391": {
+   "fragment_id": "116230327",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 129/2014\n\nde 29 de agosto\n\nO Decreto-Lei n.º 119/2013, de 21 de agosto, que alterou a Lei Orgânica do XIX Governo Constitucional, aprovada pelo Decreto-Lei n.º 86-A/2011, de 12 de julho, criou o Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE), para o qual transitaram as atribuições e os serviços e organismos do extinto Ministério da Economia e do Emprego, nas áreas da energia e geologia, e as atribuições e os serviços e organismos do extinto Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, nas áreas do ambiente e ordenamento do território. Assim, o referido Decreto-Lei n.º 119/2013, de 21 de agosto, determinou a transição do Laboratório Nacional de Energia e Geologia, I. P. (LNEG, I. P.), para o MAOTE.\n\nPor outro lado, o Decreto-Lei n.º 165/2013, de 16 de dezembro, procedeu à reestruturação e redenominação da Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E. P. E., que passou a designar-se ENMC - Entidade Nacional para o Mercado de Combustíveis, E. P. E. (ENMC, E. P. E.), e determinou a transferência, para esta entidade pública empresarial, das atribuições exercidas pelo LNEG, I. P., em matéria de biocombustíveis, tendo, posteriormente, o Decreto-Lei n.º 17/2014, de 4 de fevereiro, que aprovou a Lei Orgânica do MAOTE, determinado a reestruturação do LNEG, I. P.\n\nAcresce que, no âmbito da reorganização alargada das entidades públicas que atuam no sector da energia e da geologia, o presente decreto-lei procede à transferência das atribuições do LNEG, I. P., nos domínios da bioenergia, da eficiência energética e das redes de energia, com exceção dos biocombustíveis, para a Direção-Geral de Energia e Geologia, visando a racionalização de recursos e a melhoria da eficiência e da eficácia na prestação de serviço público.\n\nO presente decreto-lei aprova, em conformidade, a lei orgânica do LNEG, I. P.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116230240": {
+   "fragment_id": "116230328",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Laboratório Nacional de Energia e Geologia, I. P., abreviadamente designado por LNEG, I. P., é um instituto público, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O LNEG, I. P., prossegue as atribuições do Ministério do Ambiente, Ordenamento do Território e Energia, sob superintendência e tutela do membro do Governo responsável pelas áreas da energia e da geologia.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o LNEG, I. P., bem como o acompanhamento da respetiva execução são articulados entre os membros do Governo responsáveis pelas áreas da energia, da geologia e da ciência.\n\n4 - Ao LNEG, I. P., aplica-se, na qualidade de laboratório do Estado, o regime jurídico em vigor para as instituições que se dedicam à investigação científica e ao desenvolvimento tecnológico."
+  },
+  "116230241": {
+   "fragment_id": "116230329",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O LNEG, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O LNEG, I. P., tem sede no Porto, podendo dispor de delegações regionais.\n\n3 - O LNEG, I. P., integra dois laboratórios dotados de autonomia científica e técnica, o Laboratório de Energia (LEN) e o Laboratório de Geologia e Minas (LGM)."
+  },
+  "116230242": {
+   "fragment_id": "116230330",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O LNEG, I. P., é o laboratório do Estado que tem por missão impulsionar e realizar ações de investigação, de demonstração e transferência de conhecimento, de assistência técnica e tecnológica e de apoio laboratorial dirigidas às empresas, nos domínios da energia e geologia.\n\n2 - São atribuições do LNEG, I. P.:\n\na) Assistir o Governo na conceção e implementação da política energética e da política geológica;\n\nb) Promover a realização de estudos, de investigação, de demonstração e transferência de tecnologia, de assistência técnica e tecnológica no domínio da energia, com particular incidência nas energias renováveis, com vista à criação de novos processos e produtos e seu aperfeiçoamento;\n\nc) Realizar estudos e projetos de investigação de geologia e de inventariação, revelação e caracterização mineralógica e tecnológica dos recursos minerais, rochas ornamentais e águas naturais que ocorrem na parte emersa do território, promovendo a valorização industrial, monitorização e preservação que viabilizem o seu aproveitamento económico, bem como realizar a cartografia geológica e hidrogeológica sistemática do território emerso, faixas costeiras, margens e fundo oceânico;\n\nd) Assegurar as funções do Estado relativamente ao aprofundamento contínuo do conhecimento da infraestrutura geológica do território emerso, com vista à respetiva preservação e valorização económica, aportando contributos relevantes em matéria de recursos endógenos, riscos geológicos, ordenamento do território, gestão ambiental e património geocultural;\n\ne) Promover a realização de investigação e de desenvolvimento tecnológico orientados para a atividade económica e as exigências do mercado, no domínio da energia e da geologia, promovendo sinergias entre as duas áreas;\n\nf) Cooperar com instituições científicas e tecnológicas afins e participar em atividades de ciência e tecnologia relevantes para o desenvolvimento de políticas de energia e geologia;\n\ng) Cooperar com empresas e com outros parceiros da sociedade civil, de modo a contribuir para a criação de plataformas de conhecimento aplicado;\n\nh) Promover e participar na formação em consórcios de investigação e de desenvolvimento, atenta a sua qualidade de laboratório do Estado.\n\n3 - Para a prossecução das suas atribuições, o LNEG, I. P., pode ainda:\n\na) Colaborar com outras entidades, públicas ou privadas, nacionais ou estrangeiras, nomeadamente integrando associações e agências internacionais em representação do Estado, sem prejuízo das atribuições do Ministério dos Negócios Estrangeiros;\n\nb) Acolher bolseiros e estabelecer ou colaborar em programas de formação, remunerados por bolsas, dirigidos a indivíduos com as habilitações adequadas;\n\nc) Atuar como entidade certificadora nas suas áreas de competência."
+  },
+  "116230243": {
+   "fragment_id": "116230331",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do LNEG, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) O conselho de orientação;\n\nd) O conselho científico;\n\ne) A unidade de acompanhamento;\n\nf) A comissão paritária."
+  },
+  "116230244": {
+   "fragment_id": "116230332",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente e dois vogais.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do LNEG, I. P.:\n\na) Assegurar a representação do LNEG, I. P., em comissões, grupos de trabalho ou atividades de organismos internacionais, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nb) Promover acordos com outros laboratórios do Estado, com centros de investigação públicos ou privados, nacionais ou internacionais, e com empresas que disponham de estruturas próprias de investigação e de desenvolvimento."
+  },
+  "116230245": {
+   "fragment_id": "116230333",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos."
+  },
+  "116230246": {
+   "fragment_id": "116230334",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho de orientação\n\n1 - O conselho de orientação é o órgão responsável por assegurar a eficaz articulação entre a atividade do LNEG, I. P., e outros departamentos governamentais, a comunidade científica e os sectores económicos e sociais.\n\n2 - O conselho de orientação tem a seguinte composição:\n\na) O membro do Governo da tutela, ou seu representante, que preside;\n\nb) Um representante do membro do Governo responsável pela área das finanças;\n\nc) Um representante do membro do Governo responsável pela área da economia;\n\nd) Um representante do membro do Governo responsável pela área do ambiente;\n\ne) Um representante do membro do Governo responsável pela área da ciência e tecnologia.\n\n3 - Os membros do conselho de orientação são designados pelo respetivo membro do Governo, por solicitação do membro do Governo que tutela o LNEG, I. P.\n\n4 - O mandato dos membros do conselho de orientação tem a duração de três anos, renovável por iguais períodos, sem prejuízo de se manterem no exercício de funções até à sua efetiva substituição.\n\n5 - O presidente do conselho de orientação pode convidar a participar nas reuniões do conselho, sem direito a voto, outras individualidades cuja presença considere conveniente em razão dos assuntos a tratar.\n\n6 - Ao conselho de orientação compete acompanhar a atividade do LNEG, I. P., e, em especial, apoiar o conselho diretivo na conceção, enquadramento e execução das ações necessárias à concretização das atribuições do LNEG, I. P., apoiando-o, nomeadamente, na definição dos meios necessários e adequados à execução dessas ações, produzindo, para o efeito, os pareceres e recomendações que entenda formular ou que lhe sejam solicitados.\n\n7 - As normas de funcionamento do conselho de orientação constam de regulamento interno a aprovar pelo próprio conselho.\n\n8 - A participação no conselho de orientação não é remunerada."
+  },
+  "116230247": {
+   "fragment_id": "116230335",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho científico\n\n1 - O conselho científico é o órgão responsável por apoiar o conselho diretivo na apreciação e acompanhamento da atividade de investigação científica e desenvolvimento tecnológico do LNEG, I. P.\n\n2 - O conselho científico é constituído por todos os que, a qualquer título, incluindo o de bolseiro, quer sejam cidadãos nacionais ou estrangeiros, exerçam atividade no LNEG, I. P., desde que estejam habilitados com o grau de doutor ou equivalente, tenham obtido aprovação nas provas a que se refere o n.º 2 do artigo 17.º do Decreto-Lei n.º 219/92, de 15 de outubro, alterado pelo Decreto-Lei n.º 124/99, de 20 de abril, ou, ainda, os que, não possuindo qualquer dessas qualificações, integrem a carreira de investigação científica em categoria igual ou superior à de investigador auxiliar, ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.\n\n3 - O presidente do conselho científico é, por inerência, o presidente do conselho diretivo.\n\n4 - Compete, em geral, ao conselho científico:\n\na) Emitir parecer sobre os projetos de orçamento, de plano e de relatório anuais de atividades do LNEG, I. P.;\n\nb) Emitir parecer sobre a definição das áreas científicas do LNEG, I. P.;\n\nc) Formular sugestões para o desenvolvimento de novos projetos, tendo sempre em vista o fortalecimento das relações do LNEG, I. P., com a comunidade científica e empresarial;\n\nd) Dar parecer sobre o regulamento dos bolseiros de investigação do LNEG, I. P.;\n\ne) Dar parecer sobre a atribuição de prémios de caráter científico;\n\nf) Estimular o desenvolvimento de atividades de investigação científica e atividades de prestação de serviços à comunidade;\n\ng) Dar parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho diretivo do LNEG, I. P.;\n\nh) Elaborar e aprovar o seu regulamento interno.\n\n5 - A gestão corrente dos trabalhos do conselho científico é assegurada por uma comissão coordenadora permanente, composta por um número máximo de seis membros, um dos quais o presidente do conselho científico, detentor de voto de qualidade, sendo os restantes eleitos pelo plenário do conselho, de entre os seus membros, nos termos a fixar no respetivo regulamento interno.\n\n6 - As normas de funcionamento do conselho científico constam de regulamento interno a aprovar pelo próprio conselho científico.\n\n7 - A participação no conselho científico e na comissão coordenadora não é remunerada."
+  },
+  "116230248": {
+   "fragment_id": "116230336",
+   "type": 11,
+   "heading": "Artigo 9.º — Unidade de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Unidade de acompanhamento\n\n1 - A unidade de acompanhamento é o órgão de avaliação interna da atividade do LNEG, I. P., e consequente aconselhamento do seu conselho diretivo.\n\n2 - A unidade de acompanhamento é constituída por cinco especialistas ou individualidades exteriores ao LNEG, I. P., de reconhecida competência na área de atividade deste instituto, e do planeamento e gestão de instituições de investigação.\n\n3 - Dois dos membros da unidade de acompanhamento devem exercer a sua atividade em instituições não nacionais.\n\n4 - Dois dos membros da unidade de acompanhamento devem representar os destinatários das atividades do LNEG, I. P.\n\n5 - A composição da unidade de acompanhamento, incluindo a designação do respetivo presidente, é proposta pelo conselho diretivo e homologada pelos membros do Governo responsáveis pelas áreas da energia, da geologia e da ciência.\n\n6 - O mandato dos membros da unidade de acompanhamento tem a duração de três anos, renovável por iguais períodos.\n\n7 - À unidade de acompanhamento compete avaliar regularmente, segundo parâmetros definidos pelo conselho diretivo, o funcionamento da instituição e dar os pareceres que julgar adequados, nomeadamente sobre os planos e relatórios anuais ou plurianuais de atividades do LNEG, I. P., e sobre as questões que lhe forem submetidas pelo conselho diretivo.\n\n8 - As normas de funcionamento da comissão de acompanhamento constam de regulamento interno a elaborar pela própria unidade de acompanhamento.\n\n9 - A participação na unidade de acompanhamento não é remunerada."
+  },
+  "116230249": {
+   "fragment_id": "116230337",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão paritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão paritária\n\n1 - A comissão paritária é o órgão consultivo do LNEG, I. P., para questões de natureza laboral.\n\n2 - A comissão paritária tem a seguinte composição:\n\na) Um representante dos trabalhadores do LNEG, I. P., por estes eleito;\n\nb) Um representante do pessoal da carreira de investigação científica, por estes eleito;\n\nc) Dois representantes do conselho diretivo, por este designados.\n\n3 - Os membros da comissão paritária são designados pelo período de um ano.\n\n4 - À comissão paritária compete pronunciar-se, a título consultivo, sobre questões de natureza laboral do LNEG, I. P., nomeadamente de organização do trabalho, formação profissional, higiene e segurança no trabalho e ação social, bem como sobre os respetivos plano e relatório anuais de atividades.\n\n5 - As normas de funcionamento da comissão paritária constam de regulamento interno a elaborar pela própria comissão paritária.\n\n6 - A participação na comissão paritária não é remunerada."
+  },
+  "116230250": {
+   "fragment_id": "116230338",
+   "type": 11,
+   "heading": "Artigo 11.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organização interna\n\nA organização interna do LNEG, I. P., é a prevista nos respetivos Estatutos."
+  },
+  "116230251": {
+   "fragment_id": "116230339",
+   "type": 11,
+   "heading": "Artigo 12.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Receitas\n\n1 - O LNEG, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O LNEG, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As comparticipações e os subsídios concedidos por organismos nacionais, comunitários ou internacionais, no âmbito de planos de investimentos, programas e projetos estruturais ou outros;\n\nb) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições, designadamente pela emissão de certificados;\n\nc) O produto da venda de publicações e de trabalhos editados pelo LNEG, I. P.;\n\nd) As verbas resultantes da realização de estudos e outros trabalhos de caráter técnico e científico;\n\ne) As doações, heranças e legados concedidos por quaisquer entidades, públicas ou privadas;\n\nf) Rendimentos dos bens ou direitos que o LNEG, I. P., possuir ou por qualquer título fruir, nomeadamente os relativos aos direitos de autor e de propriedade industrial de que seja titular;\n\ng) O produto da venda de direitos e da alienação de bens móveis e imóveis pertencentes ao seu património, que, nos termos da lei, possam ser dispensados ou tenham sido inutilizados, bem como da constituição de direitos sobre eles;\n\nh) Compensações devidas por concessionários de recursos geológicos, na percentagem que for definida por despacho do membro do Governo responsável pelas áreas da energia e geologia;\n\ni) Remunerações de depósitos e outras aplicações financeiras junto do Tesouro;\n\nj) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título."
+  },
+  "116230252": {
+   "fragment_id": "116230340",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Despesas\n\nConstituem despesas do LNEG, I. P., as que resultem dos encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "116230253": {
+   "fragment_id": "116230341",
+   "type": 11,
+   "heading": "Artigo 14.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Património\n\nO património do LNEG, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "116230254": {
+   "fragment_id": "116230342",
+   "type": 11,
+   "heading": "Artigo 15.º — Colaboração ou participação em outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Colaboração ou participação em outras entidades\n\n1 - A colaboração referida na alínea a) do n.º 3 do artigo 3.º depende de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da energia e geologia.\n\n2 - A criação, participação na criação, aquisição ou aumento de participação em entes de direito privado por parte do LNEG, I. P., apenas pode verificar-se em situações excecionais quando, cumulativamente, seja fundamentada e demonstrada a imprescindibilidade para a prossecução das suas atribuições e seja obtida autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da energia e geologia, nos termos do artigo 13.º da Lei n.º 3/2004, de 15 de janeiro."
+  },
+  "116230255": {
+   "fragment_id": "116230343",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 145/2012, de 11 de julho."
+  },
+  "116230256": {
+   "fragment_id": "116230344",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116230239": {
+   "fragment_id": "116230327",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 129/2014\n\nde 29 de agosto\n\nO Decreto-Lei n.º 119/2013, de 21 de agosto, que alterou a Lei Orgânica do XIX Governo Constitucional, aprovada pelo Decreto-Lei n.º 86-A/2011, de 12 de julho, criou o Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE), para o qual transitaram as atribuições e os serviços e organismos do extinto Ministério da Economia e do Emprego, nas áreas da energia e geologia, e as atribuições e os serviços e organismos do extinto Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, nas áreas do ambiente e ordenamento do território. Assim, o referido Decreto-Lei n.º 119/2013, de 21 de agosto, determinou a transição do Laboratório Nacional de Energia e Geologia, I. P. (LNEG, I. P.), para o MAOTE.\n\nPor outro lado, o Decreto-Lei n.º 165/2013, de 16 de dezembro, procedeu à reestruturação e redenominação da Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E. P. E., que passou a designar-se ENMC - Entidade Nacional para o Mercado de Combustíveis, E. P. E. (ENMC, E. P. E.), e determinou a transferência, para esta entidade pública empresarial, das atribuições exercidas pelo LNEG, I. P., em matéria de biocombustíveis, tendo, posteriormente, o Decreto-Lei n.º 17/2014, de 4 de fevereiro, que aprovou a Lei Orgânica do MAOTE, determinado a reestruturação do LNEG, I. P.\n\nAcresce que, no âmbito da reorganização alargada das entidades públicas que atuam no sector da energia e da geologia, o presente decreto-lei procede à transferência das atribuições do LNEG, I. P., nos domínios da bioenergia, da eficiência energética e das redes de energia, com exceção dos biocombustíveis, para a Direção-Geral de Energia e Geologia, visando a racionalização de recursos e a melhoria da eficiência e da eficácia na prestação de serviço público.\n\nO presente decreto-lei aprova, em conformidade, a lei orgânica do LNEG, I. P.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "920958690": {
+   "fragment_id": "116230330",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O LNEG, I. P., é o laboratório do Estado que tem por missão impulsionar e realizar ações de investigação, de demonstração e transferência de conhecimento, de assistência técnica e tecnológica e de apoio laboratorial dirigidas às empresas, nos domínios da energia e geologia.\n\n2 - São atribuições do LNEG, I. P.:\n\na) Assistir o Governo na conceção e implementação da política energética e da política geológica;\n\nb) Promover a realização de estudos, de investigação, de demonstração e transferência de tecnologia, de assistência técnica e tecnológica no domínio da energia, com particular incidência nas energias renováveis, com vista à criação de novos processos e produtos e seu aperfeiçoamento;\n\nc) Realizar estudos e projetos de investigação de geologia e de inventariação, revelação e caracterização mineralógica e tecnológica dos recursos minerais, rochas ornamentais e águas naturais que ocorrem na parte emersa do território, promovendo a valorização industrial, monitorização e preservação que viabilizem o seu aproveitamento económico, bem como realizar a cartografia geológica e hidrogeológica sistemática do território emerso, faixas costeiras, margens e fundo oceânico;\n\nd) Assegurar as funções do Estado relativamente ao aprofundamento contínuo do conhecimento da infraestrutura geológica do território emerso, com vista à respetiva preservação e valorização económica, aportando contributos relevantes em matéria de recursos endógenos, riscos geológicos, ordenamento do território, gestão ambiental e património geocultural;\n\ne) Promover a realização de investigação e de desenvolvimento tecnológico orientados para a atividade económica e as exigências do mercado, no domínio da energia e da geologia, promovendo sinergias entre as duas áreas;\n\nf) Cooperar com instituições científicas e tecnológicas afins e participar em atividades de ciência e tecnologia relevantes para o desenvolvimento de políticas de energia e geologia;\n\ng) Cooperar com empresas e com outros parceiros da sociedade civil, de modo a contribuir para a criação de plataformas de conhecimento aplicado;\n\nh) Promover e participar na formação em consórcios de investigação e de desenvolvimento, atenta a sua qualidade de laboratório do Estado.\n\ni) Coordenar o processo de verificação do cumprimento dos critérios de sustentabilidade dos biocombustíveis, sem prejuízo das atribuições da Entidade Nacional para o Setor Energético, E. P. E., para a emissão de títulos de biocombustíveis e a fiscalização do cumprimento das normas de promoção da utilização de biocombustíveis;\n\nj) Apoiar cientificamente a atividade de fiscalização do setor energético, nomeadamente na elaboração de regras, métodos e procedimentos de trabalho, tendo em vista garantir a idoneidade e credibilidade científica dos atos e meios probatórios.\n\n3 - Para a prossecução das suas atribuições, o LNEG, I. P., pode ainda:\n\na) Colaborar com outras entidades, públicas ou privadas, nacionais ou estrangeiras, nomeadamente integrando associações e agências internacionais em representação do Estado, sem prejuízo das atribuições do Ministério dos Negócios Estrangeiros;\n\nb) Acolher bolseiros e estabelecer ou colaborar em programas de formação, remunerados por bolsas, dirigidos a indivíduos com as habilitações adequadas;\n\nc) Atuar como entidade certificadora nas suas áreas de competência.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  },
+  "116230257": {
+   "fragment_id": "116230345",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de julho de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 24 de agosto de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de agosto de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

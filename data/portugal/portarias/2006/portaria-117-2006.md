@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:553613:por
+title: Portaria n.º 117/2006
+short_title: null
+summary: Aprova o Regulamento do Curso de Estudos e Formação para Altos Dirigentes da Administração Local (CEFADAL)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 117/2006
+official_date: null
+publication_date: '2006-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2006, Série I-B de 2006-02-09
+  number: '29'
+  series: I
+  supplement: null
+  pages: 1041 - 1043
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/02/029b00/10411043.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/117/2006/02/09/p/dre/pt/html
+  oj: null
+  dre: '553613'
+  dre_path: /dr/detalhe/portaria/117-2006-553613
+  internal: pt:dre:553613:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-2006-553613
+  metadata_url: https://data.dre.pt/eli/port/117/2006/02/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-2006-553613
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-02-09T00:00:00Z'
+integrity:
+  source_sha256: bad5fd9162cb92b8f5c80ee0f05596254e32ad95941927d9b03ec33d31d2d02d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-117-553613.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cefadal
+- Formação Profissional
+- Pessoal Dirigente
+- Plano de Estudos
+- Licenciatura
+- Centro de Estudos e Formação Autárquica
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/93/2004/04/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/93/2004/04/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 117/2006
+
+de 9 de Fevereiro
+
+O [Decreto-Lei n.º 93/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2004-223426), de 20 de Abril, que aplicou à administração local a [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, determina, no seu artigo 7.º, que o exercício de funções dirigentes de nível intermédio nos quadros autárquicos dependa do prévio aproveitamento num curso específico para alta direcção em administração autárquica.
+
+De facto, se uma das ideias chave da reforma da Administração assenta na consagração do papel da formação enquanto alavanca de uma nova cultura profissional, não poderia o pessoal dirigente, que é reconhecidamente o principal mediador entre os objectivos e os resultados do serviço público, deixar de estar envolvido nessa dinâmica de qualificação, especialmente vocacionada, neste caso, para a afirmação da liderança, da eficiência e da ética da responsabilidade.
+
+Entretanto, esta incumbência que agora é cometida ao Centro de Estudos e Formação Autárquica (CEFA) inscreve-se no normal desenvolvimento das suas atribuições de formação para a administração local, no âmbito da qual prossegue um papel insubstituível, desde a sua fundação.
+
+Através do presente diploma, procede-se à regulamentação e à definição das condições de funcionamento do Curso de Estudos e Formação para Altos Dirigentes da Administração Local (CEFADAL), que segue, entretanto, no que respeita ao plano de estudos, as directivas estabelecidas pelo [Decreto-Lei n.º 93/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2004-223426), de 20 de Abril, não deixando de acolher as particularidades das competências a desenvolver no contexto das autarquias locais.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado Adjunto e da Administração Local e pelo Secretário de Estado da Administração Pública, nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 93/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2004-223426), de 20 de Abril, que seja aprovado o Regulamento do Curso de Estudos e Formação para Altos Dirigentes da Administração Local (CEFADAL), anexo à presente portaria e da qual faz parte integrante.
+
+Em 23 de Janeiro de 2006.
+
+**O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Administração Pública, João Alexandre Tavares Gonçalves de Figueiredo.**
+
+## ANEXO — REGULAMENTO DO CURSO DE ESTUDOS E FORMAÇÃO PARA ALTOS DIRIGENTES DA ADMINISTRAÇÃO LOCAL (CEFADAL)
+
+###### Artigo 1.º — Objectivos do Curso de Estudos e Formação para Altos Dirigentes da Administração Local
+
+1 - O Curso de Estudos e Formação para Altos Dirigentes da Administração Local (CEFADAL) visa ministrar a formação legalmente exigida para o exercício de funções dirigentes de nível intermédio nos quadros da administração autárquica.
+
+2 - O plano de estudos deste curso prosseguirá, de forma articulada, o desenvolvimento de saberes e competências em:
+
+a) Organização e actividade administrativa:
+
+Administração autárquica e novas agregações de autarquias locais;
+
+Nova gestão pública, empresarialização e externalização de funções autárquicas;
+
+Processos de acção, controlo administrativo e controlo jurisdicional das autarquias;
+
+b) Gestão de pessoas e liderança:
+
+Comportamento nas organizações;
+
+Liderança, comunicação e motivação;
+
+Gestão e resolução de conflitos;
+
+c) Gestão de recursos humanos, orçamentais, materiais e tecnológicos:
+
+Gestão estratégica e por objectivos;
+
+Gestão de recursos humanos: o quadro legal, as políticas de formação, a avaliação do desempenho;
+
+Novos modelos de gestão financeira autárquica;
+
+d) Informação e conhecimento:
+
+Estratégias para implantação de um sistema de informação;
+
+Comunicação organizacional interna e comunicação com os munícipes;
+
+Sociedade da informação e e-government;
+
+e) Qualidade, inovação e modernização:
+
+Cidadania e Administração Pública: a orientação para o cidadão, para o cliente e a modernização das administrações;
+
+A gestão da qualidade;
+
+As novas tecnologias de informação e as oportunidades de mudança;
+
+f) Internacionalização e assuntos comunitários:
+
+A União Europeia e o poder local;
+
+A Europa das regiões;
+
+Uma «agenda urbana» para a União Europeia: as políticas sectoriais comunitárias com impacte territorial;
+
+g) Desenvolvimento local:
+
+Políticas de desenvolvimento local e a questão urbana;
+
+Base estatística local e regional;
+
+Competitividade territorial e os desafios do desenvolvimento local.
+
+3 - O CEFADAL funcionará em estreita ligação com uma comissão científica nomeada pelo Centro de Estudos e Formação Autárquica (CEFA), composta por reputados especialistas em domínios relacionados com a gestão pública e por personalidades de especial relevo representativo no âmbito do poder local.
+
+###### Artigo 2.º — Duração e organização do Curso
+
+1 - O Curso terá uma duração mínima de duzentas e cinquenta horas, destinadas às sessões de formação, às quais acrescerão a avaliação de conhecimentos e um ou mais ciclos de conferências a organizar sobre temas relevantes e de especial interesse e actualidade para a Administração Pública.
+
+2 - O Curso inclui uma carga lectiva de doze horas semanais, podendo prever a utilização de instrumentos de formação a distância entre os tempos de formação presencial.
+
+3 - A duração total de cada módulo será múltipla desse montante semanal, podendo ser no mínimo de vinte e quatro horas.
+
+4 - Na globalidade, a duração da formação presencial não ultrapassará 25 semanas, seguidas ou interpoladas, consoante as fases da formação.
+
+5 - Mediante deliberação do conselho directivo, e se circunstâncias especiais o recomendarem, poderá o CEFA alterar o presente modelo organizativo, respeitando, em qualquer caso, o valor total de horas agora indicado.
+
+###### Artigo 3.º — Metodologias da formação
+
+1 - A metodologia de formação privilegia os métodos pedagógicos activos, centrados no formando como responsável pela gestão das suas aprendizagens.
+
+2 - Para além da formação em sala, o Curso poderá dispor de dispositivos complementares de ensino electrónico a distância.
+
+###### Artigo 4.º — Avaliação de conhecimentos
+
+1 - A formação será avaliada de 0 a 20 valores, através da elaboração de um teste ou de um trabalho final, no âmbito de cada módulo, sendo a nota final do Curso a que resultar da média aritmética das classificações neles obtidas, ficando aprovado o participante que obtenha um valor igual ou superior a 10 valores.
+
+2 - Os participantes que não obtenham aprovação poderão ter acesso a uma nova avaliação de conhecimentos, nas condições a definir no regulamento interno de funcionamento do Curso.
+
+###### Artigo 5.º — Destinatários
+
+Poderão candidatar-se ao Curso os funcionários detentores do grau de licenciatura ou aqueles que, não possuindo essa habilitação, preencham comprovadamente as condições de recrutamento para os cargos dirigentes de nível intermédio referidas no artigo 9.º do [Decreto-Lei n.º 93/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2004-223426), de 20 de Abril.
+
+###### Artigo 6.º — Selecção
+
+1 - Na selecção dos candidatos, a prioridade estabelecida para a admissão ao Curso assentará nos seguintes critérios, a fundamentar no acto da candidatura:
+
+a) Classificação de licenciatura;
+
+b) Tempo de serviço;
+
+c) Formação complementar adequada;
+
+d) Motivação pessoal do candidato;
+
+e) Experiência no exercício de funções dirigentes.
+
+2 - A ponderação dos critérios definidos no n.º 1 será feita por deliberação do conselho directivo do CEFA.
+
+###### Artigo 7.º — Divulgação
+
+1 - A divulgação dos critérios de selecção enunciados no artigo anterior será feita em simultâneo com o anúncio de abertura de cada curso.
+
+2 - O anúncio acima referido estabelecerá também as regras de apresentação das candidaturas, o montante dos custos de inscrição e o número máximo de formandos a admitir por acção.
+
+###### Artigo 8.º — Regulamento do Curso
+
+1 - Compete ao conselho directivo aprovar as instruções e regulamentos internos necessários ao bom e regular funcionamento do Curso.
+
+2 - A presença nas aulas do Curso é obrigatória, determinando as faltas superiores a 30% das horas totais ministradas a perda de aproveitamento do formando.

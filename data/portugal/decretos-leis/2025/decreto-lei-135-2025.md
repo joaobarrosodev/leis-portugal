@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:992627247:por
+title: Decreto-Lei n.º 135/2025
+short_title: null
+summary: Altera o regime e organização do funcionamento da Secretaria-Geral da Presidência da República.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 135/2025
+official_date: null
+publication_date: '2025-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/2025, Série I de 2025-12-24
+  number: '247'
+  series: I
+  supplement: null
+  pages: 78 - 81
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0007800081.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/135/2025/12/24/p/dre/pt/html
+  oj: null
+  dre: '992627247'
+  dre_path: /dr/detalhe/decreto-lei/135-2025-992627247
+  internal: pt:dre:992627247:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247
+  metadata_url: https://data.dre.pt/eli/dec-lei/135/2025/12/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-12-24T00:00:00Z'
+integrity:
+  source_sha256: 8f344e4f368b02b4169afbc1163a4521fd94b29a8b602d36e72e7b8200ee85c1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-135-992627247.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Chefe da CASA Militar
+- Pessoal Dirigente
+- Serviços Sociais da Administração Pública
+- Despesas de Representação
+- Secretaria Geral
+- Presidência da República
+- Remuneração
+- Segurança Privada
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2018/03/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2018/03/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/28-a/1996/04/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/28-a/1996/04/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/288/2000/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/288/2000/11/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/54/2023/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2023/07/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/91/2021/11/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/91/2021/11/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/1996/02/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/1996/02/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 135/2025
+
+de 24 de dezembro
+
+O presente decreto-lei introduz alterações pontuais ao [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, que regulamenta a [Lei n.º 7/96](https://diariodarepublica.pt/dr/detalhe/lei/7-1996-621340), de 29 de fevereiro, sobre o órgão de soberania Presidente da República, ao [Decreto-Lei n.º 288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, que aprova a Lei Orgânica e o quadro pessoal da Secretaria-Geral da Presidência da República, e, ainda, ao [Decreto-Lei n.º 91/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2021-173909856), de 5 de novembro, que regula a instalação, funcionamento e extinção dos Gabinetes dos ex-titulares do cargo de Presidente da República.
+
+As alterações ora introduzidas ao [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, visam, por um lado, proceder à mera retificação de erros de remissão constantes do [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, que resultaram da modificação operada pelo [Decreto-Lei n.º 18/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), de 14 de março, sem implicar qualquer alteração de montantes; e, por outro, à sua harmonização com a estrutura orgânica da Secretaria-Geral da Presidência da República introduzida pelo [Decreto-Lei n.º 288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, e com a reorganização decorrente da extinção dos Serviços Sociais da Presidência do Conselho de Ministros, determinada pela [Resolução do Conselho de Ministros n.º 39/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2006-649909), de 21 de abril.
+
+Introduz-se a possibilidade de acesso a concursos da Secretaria-Geral da Presidência da República a membros dos gabinetes de antigos Presidentes da República, que tenham exercido funções continuamente por período igual ou superior a 15 anos e não tenham qualquer outro vínculo profissional.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede:
+
+a) À quarta alteração ao [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, [18/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), de 14 de março, e [54/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), de 14 de julho, que regulamenta a [Lei n.º 7/96](https://diariodarepublica.pt/dr/detalhe/lei/7-1996-621340), de 29 de fevereiro, sobre o órgão de soberania Presidente da República;
+
+b) À sexta alteração ao [Decreto-Lei n.º 288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, na sua redação atual, que aprova a Lei Orgânica e o quadro de pessoal da Secretaria-Geral da Presidência da República;
+
+c) À primeira alteração ao [Decreto-Lei n.º 91/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2021-173909856), de 5 de novembro, que regula a instalação, funcionamento e extinção dos Gabinetes dos ex-titulares do cargo de Presidente da República.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril
+
+Os artigos 7.º, 9.º, 15.º, 21.º, 24.º, 26.º e 29.º do [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, na sua redação atual, passam a ter a seguinte redação:
+
+###### Artigo 7.º
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - O chefe da Casa Militar tem direito ao vencimento e ao abono para despesas de representação de montante igual ao estabelecido no n.º 6 do artigo 5.º
+
+###### Artigo 9.º
+
+1 - [...]
+
+2 - O chefe de gabinete tem direito ao vencimento fixado na lei para o cargo de diretor-geral, acrescido de um abono para despesas de representação de montante igual ao estabelecido no n.º 6 do artigo 5.º
+
+###### Artigo 15.º
+
+1 - [...]
+
+2 - O secretário-geral tem direito a um abono para despesas de representação de montante igual ao estabelecido no n.º 6 do artigo 5.º
+
+3 - [...]
+
+###### Artigo 21.º
+
+1 - Ao pessoal da Secretaria-Geral são aplicáveis as disposições legais do regime geral da função pública, sem prejuízo do disposto no número seguinte.
+
+2 - [...]
+
+###### Artigo 24.º
+
+O pessoal da Presidência da República fica abrangido pelos Serviços Sociais da Administração Pública.
+
+###### Artigo 26.º
+
+O pessoal da Presidência da República tem direito a um cartão de identificação cuja utilização e modelos são objeto de regulamento a aprovar pelo Conselho Administrativo.
+
+###### Artigo 29.º
+
+1 - [...]
+
+2 - Para movimentação de valores, a Presidência da República obriga-se pela assinatura de dois membros do Conselho Administrativo, sendo um deles, obrigatoriamente, o secretário-geral ou quem o substitua.»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro
+
+O artigo 16.º do [Decreto-Lei n.º 288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 16.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - O mordomo é remunerado pelo nível remuneratório 16 da Tabela Remuneratória Única.»
+
+###### Artigo 4.º — Alteração ao [Decreto-Lei n.º 91/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2021-173909856), de 5 de novembro
+
+O artigo 11.º do [Decreto-Lei n.º 91/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2021-173909856), de 5 de novembro, passa a ter a seguinte redação:
+
+«Artigo 11.º
+
+[...]
+
+1 - (Anterior corpo do artigo.)
+
+2 - Os membros do Gabinete que tenham exercido funções por período igual ou superior a 15 anos, no momento da morte do antigo presidente da República, adquirem o direito a ocupar, precedendo procedimento concursal, posto de trabalho na SGPR, na carreira e categoria correspondente às habilitações detidas, considerando-se os mesmos automaticamente previstos para o efeito.
+
+3 - O período referido no número anterior compreende eventual anterior exercício de funções ao abrigo do regime de pessoal dos órgãos e serviços da Presidência da República, desde que sucedido, sem interrupções, de nomeação para o Gabinete.
+
+4 - O direito a que se referem os n.<sup>os</sup>2 e 3 depende da inexistência de vínculo de emprego, público ou privado, anterior à nomeação.
+
+5 - Verificando-se os requisitos previstos nos números anteriores, é aberto procedimento concursal, nos termos da legislação aplicável à Administração Pública, para ocupação dos postos de trabalho correspondentes na SGPR, sendo os ex-membros do gabinete opositores únicos e obrigatórios.
+
+6 - O procedimento concursal deve ser aberto no prazo de 15 dias após a morte do antigo Presidente da República, devendo estar concluído até final do prazo previsto no artigo 8.º
+
+7 - Caso o membro do gabinete não apresente candidatura no prazo previsto, ou manifeste intenção expressa de não oposição ao procedimento, aplica-se o disposto no n.º 1.»
+
+###### Artigo 5.º — Aditamento ao [Decreto-Lei n.º 91/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2021-173909856), de 5 de novembro
+
+É aditado o artigo 4.º-A ao [Decreto-Lei n.º 91/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2021-173909856), de 5 de novembro, com a seguinte redação:
+
+«Artigo 4.º-A
+
+Segurança pessoal
+
+A segurança pessoal aos antigos Presidentes da República é assegurada pelo Corpo de Segurança Pessoal da Unidade Especial de Polícia da Polícia de Segurança Pública, sempre que o resultado da avaliação da ameaça, a realizar pelo serviço competente do Sistema de Segurança Interna, implique a adoção de medidas de segurança extraordinária.»
+
+###### Artigo 6.º — Norma revogatória
+
+São revogados os artigos 17.º e 22.º do [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, na sua redação atual.
+
+###### Artigo 7.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 9 de março de 2026, sem prejuízo do disposto no número seguinte.
+
+2 - O disposto no artigo 4.º produz efeitos na data da entrada em vigor do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira.
+
+**Promulgado em 13 de dezembro de 2025.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 16 de dezembro de 2025.**
+
+**O Primeiro-Ministro, Luís Montenegro.**

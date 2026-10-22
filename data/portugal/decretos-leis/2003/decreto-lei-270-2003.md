@@ -1,0 +1,3105 @@
+---
+schema_version: '1.0'
+id: pt:dre:466832:por
+title: Decreto-Lei n.º 270/2003
+short_title: null
+summary: Define as condições de prestação dos serviços de transporte ferroviário por caminho de ferro e de gestão da infra-estrutura
+  ferroviária, transpondo para a ordem jurídica nacional as Directivas n.os 2001/12/CE, 2001/13/CE e 2001/14/CE, do Parlamento
+  Europeu, de 26 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 270/2003
+official_date: null
+publication_date: '2003-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2003, Série I-A de 2003-10-28
+  number: '250'
+  series: I
+  supplement: null
+  pages: 7157 - 7182
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/10/250a00/71577182.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-10-14'
+version_history:
+  file: decreto-lei-270-2003.versoes.json
+  count: 11
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2003-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-06-18'
+    amending: pt:dre:273176:por
+    amending_title: Decreto-Lei n.º 146/2004
+    changes:
+    - Altera Artigo 85.º
+  - date: '2007-06-15'
+    amending: pt:dre:58273537:por
+    amending_title: Decreto-Lei n.º 151/2014; Decreto-Lei n.º 231/2007
+    changes:
+    - Altera Artigo 66.º
+    - Altera Artigo 66.º-A
+    - Altera Artigo 66.º-B
+    - Altera Artigo 66.º-C
+    - Adita Secção I
+    - Adita Artigo 66.º-A
+    - Adita Artigo 66.º-B
+    - Adita Artigo 66.º-C
+    - Adita Secção II
+    - Adita Subsecção I
+    - Adita Artigo 66.º-D
+    - Adita Artigo 66.º-E
+    - Adita Artigo 66.º-F
+    - Adita Subsecção II
+    - Adita Artigo 66.º-G
+    - Adita Artigo 66.º-H
+    - Adita Subsecção III
+    - Adita Artigo 66.º-I
+    - Adita Artigo 66.º-J
+    - Adita Subsecção IV
+    - Adita Artigo 66.º-L
+    - Adita Artigo 66.º-M
+    - Adita Subsecção V
+    - Adita Artigo 66.º-N
+    - Adita Artigo 66.º-O
+    - Adita Artigo 66.º-P
+    - Adita Anexo IV
+    - Adita Anexo V
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 32.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 70.º
+  - date: '2010-03-29'
+    amending: pt:dre:611311:por
+    amending_title: Decreto-Lei n.º 20/2010
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 49.º
+  - date: '2010-06-14'
+    amending: pt:dre:335456:por
+    amending_title: Decreto-Lei n.º 62/2010
+    changes:
+    - Adita Artigo 66.º-Q
+    - Altera Anexo V
+  - date: '2011-02-22'
+    amending: pt:dre:58273537:por
+    amending_title: Decreto-Lei n.º 151/2014; Decreto-Lei n.º 27/2011
+    changes:
+    - Altera Artigo 64.º
+    - Adita Artigo 66.º-R
+    - Adita Artigo 66.º-S
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 66.º-D
+    - Altera Artigo 66.º-O
+    - Revoga Artigo 66.º-F
+  - date: '2014-11-12'
+    amending: pt:dre:58273537:por
+    amending_title: Decreto-Lei n.º 151/2014
+    changes:
+    - Adita Artigo 63.º-A
+    - Adita Artigo 63.º-B
+    - Adita Artigo 63.º-C
+    - Adita Secção III
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 22.º
+    - Altera Artigo 45.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 63.º
+    - Altera Secção I
+    - Altera Secção II
+    - Altera Artigo 66.º
+    - Altera Artigo 66.º-B
+    - Altera Artigo 66.º-N
+    - Altera Artigo 66.º-Q
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+    - Altera Anexo I
+    - Revoga Artigo 66.º-L
+  - date: '2015-10-01'
+    amending: pt:dre:70409926:por
+    amending_title: Decreto-Lei n.º 214-D/2015
+    changes:
+    - Altera Anexo V
+  - date: '2015-10-08'
+    amending: pt:dre:70476205:por
+    amending_title: Decreto-Lei n.º 217/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 77.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+  - date: '2019-01-01'
+    amending: pt:dre:117537589:por
+    amending_title: Decreto-Lei n.º 124-A/2018
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Capítulo II
+    - Altera Artigo 4.º
+    - Revoga Artigo 83.º
+    - Revoga Artigo 84.º
+    - Revoga Artigo 85.º
+    - Revoga Artigo 87.º
+    - Revoga Artigo 88.º
+    - Revoga Artigo 89.º
+    - Revoga Artigo 90.º
+    - Revoga Artigo 91.º
+    - Revoga Artigo 92.º
+    - Revoga Artigo 93.º
+  - date: '2020-10-14'
+    amending: pt:dre:145102352:por
+    amending_title: Decreto-Lei n.º 85/2020
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 77.º
+    - Revoga Artigo 63.º-A
+    - Revoga Artigo 63.º-B
+    - Revoga Artigo 63.º-C
+    - Revoga Artigo 64.º
+    - Revoga Artigo 65.º
+    - Revoga Artigo 66.º
+    - Revoga Artigo 66.º-A
+    - Revoga Artigo 66.º-B
+    - Revoga Artigo 66.º-C
+    - Revoga Artigo 66.º-D
+    - Revoga Artigo 66.º-E
+    - Revoga Artigo 66.º-F
+    - Revoga Artigo 66.º-G
+    - Revoga Artigo 66.º-H
+    - Revoga Artigo 66.º-I
+    - Revoga Artigo 66.º-J
+    - Revoga Artigo 66.º-L
+    - Revoga Artigo 66.º-M
+    - Revoga Artigo 66.º-N
+    - Revoga Artigo 66.º-O
+    - Revoga Artigo 66.º-P
+    - Revoga Artigo 66.º-Q
+    - Revoga Artigo 66.º-R
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/270/2003/p/cons/20201013/pt/html
+  oj: null
+  dre: '466832'
+  dre_path: /dr/detalhe/decreto-lei/270-2003-466832
+  internal: pt:dre:466832:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2003-466832
+  metadata_url: https://data.dre.pt/eli/dec-lei/270/2003/p/cons/20201013/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-58605750
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-58605750
+  retrieved_at: '2026-10-22T11:56:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9c51d4f4e384a24474899d4662f0fb39482bbb22c5701ba949fcd4380bb9eaca
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:00Z'
+  notes: 11 versão(ões); histórico completo em decreto-lei-270-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Financiamento
+- Caminhos de Ferro
+- Multa
+- Contra-ordenação
+- Transporte Ferroviário
+- Fiscalização
+- Infraestrutura dos Transportes
+- Instituto Nacional do Transporte Ferroviário
+- Licenciamento
+- Preço
+- Serviço Público
+- Prestação de Serviços
+- Refer
+- Seguro Obrigatório de Responsabilidade Civil
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:424104:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:273176:por
+  label: Altera Artigo 85.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2004-273176
+  date: '2004-06-17'
+- type: amended_by
+  target: pt:dre:639146:por
+  label: Altera Artigo 66.º; Altera Artigo 66.º-A; Altera Artigo 66.º-B; Altera Artigo 66.º-C; Adita Secção I; Adita Artigo
+    66.º-A; Adita Artigo 66.º-B; Adita Artigo 66.º-C; Adita Secção II; Adita Subsecção I; Adita Artigo 66.º-D; Adita Artigo
+    66.º-E; Adita Artigo 66.º-F; Adita Subsecção II; Adita Artigo 66.º-G; Adita Artigo 66.º-H; Adita Subsecção III; Adita
+    Artigo 66.º-I; Adita Artigo 66.º-J; Adita Subsecção IV
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146
+  date: '2007-06-14'
+- type: amended_by
+  target: pt:dre:611311:por
+  label: Altera Artigo 20.º; Altera Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2010-611311
+  date: '2010-03-24'
+- type: amended_by
+  target: pt:dre:335456:por
+  label: Adita Artigo 66.º-Q; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2010-335456
+  date: '2010-06-09'
+- type: amended_by
+  target: pt:dre:279843:por
+  label: Altera Artigo 64.º; Adita Artigo 66.º-R; Adita Artigo 66.º-S; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo
+    66.º-D; Altera Artigo 66.º-O; Revoga Artigo 66.º-F
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843
+  date: '2011-02-17'
+- type: amended_by
+  target: pt:dre:58273537:por
+  label: Altera Artigo 66.º; Altera Artigo 66.º-A; Altera Artigo 66.º-B; Altera Artigo 66.º-C; Adita Secção I; Adita Artigo
+    66.º-A; Adita Artigo 66.º-B; Adita Artigo 66.º-C; Adita Secção II; Adita Subsecção I; Adita Artigo 66.º-D; Adita Artigo
+    66.º-E; Adita Artigo 66.º-F; Adita Subsecção II; Adita Artigo 66.º-G; Adita Artigo 66.º-H; Adita Subsecção III; Adita
+    Artigo 66.º-I; Adita Artigo 66.º-J; Adita Subsecção IV
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537
+  date: '2014-10-13'
+- type: amended_by
+  target: pt:dre:70409926:por
+  label: Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-d-2015-70409926
+  date: '2015-09-30'
+- type: amended_by
+  target: pt:dre:70476205:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 77.º; Revoga Artigo 2.º; Revoga Artigo 5.º; Revoga Artigo 6.º;
+    Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga
+    Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 16.º; Revoga Artigo 17.º; Revoga Artigo 18.º; Revoga
+    Artigo 19.º; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205
+  date: '2015-10-07'
+- type: amended_by
+  target: pt:dre:117537589:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Capítulo II; Altera Artigo 4.º; Revoga Artigo 83.º;
+    Revoga Artigo 84.º; Revoga Artigo 85.º; Revoga Artigo 87.º; Revoga Artigo 88.º; Revoga Artigo 89.º; Revoga Artigo 90.º;
+    Revoga Artigo 91.º; Revoga Artigo 92.º; Revoga Artigo 93.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:145102352:por
+  label: Altera Artigo 3.º; Altera Artigo 77.º; Revoga Artigo 63.º-A; Revoga Artigo 63.º-B; Revoga Artigo 63.º-C; Revoga Artigo
+    64.º; Revoga Artigo 65.º; Revoga Artigo 66.º; Revoga Artigo 66.º-A; Revoga Artigo 66.º-B; Revoga Artigo 66.º-C; Revoga
+    Artigo 66.º-D; Revoga Artigo 66.º-E; Revoga Artigo 66.º-F; Revoga Artigo 66.º-G; Revoga Artigo 66.º-H; Revoga Artigo 66.º-I;
+    Revoga Artigo 66.º-J; Revoga Artigo 66.º-L; Revoga Artigo 66.º-M
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352
+  date: '2020-10-13'
+- type: cites
+  target: celex:31969R1191
+  label: null
+  source: http://data.europa.eu/eli/reg/1969/1191/oj
+- type: cites
+  target: celex:31970R1108
+  label: null
+  source: http://data.europa.eu/eli/reg/1970/1108/oj
+- type: cites
+  target: celex:31991L0440
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/440/oj
+- type: cites
+  target: celex:32001L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/12/oj
+- type: cites
+  target: celex:32001L0013
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/13/oj
+- type: cites
+  target: celex:32001L0014
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/14/oj
+- type: cites
+  target: celex:32008L0068
+  label: null
+  source: null
+article_structure:
+  article_count: 114
+  section_count: 48
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 270/2003
+
+Decreto-Lei n.º 270/2003
+
+de 28 de Outubro
+
+1 - As Directivas n.os <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>, <a href="eurlex.asp?ano=2001&id=301L0013" title="Link para Directiva da Comunidade Europeia">2001/13/CE</a> e <a href="eurlex.asp?ano=2001&id=301L0014" title="Link para Directiva da Comunidade Europeia">2001/14/CE</a>, todas do Parlamento Europeu e do Conselho, de 26 de Fevereiro, conjunto a que é comum atribuir a designação «pacote ferroviário I», cuja aprovação representou um marco no desenvolvimento da política comunitária para o sector ferroviário e a que o presente decreto-lei vem dar transposição, orientam-se no sentido de introduzir mecanismos de mercado no tradicionalmente fechado sector do transporte ferroviário.
+
+As soluções que aquelas directivas prevêem consagram a separação vertical entre as actividades de gestão da infra-estrutura ferroviária e de operação de transporte ferroviário, com ênfase para a necessidade de assegurar o equilíbrio financeiro do gestor da infra-estrutura; a concessão às empresas de transporte ferroviário europeias de direitos de acesso às redes dos vários Estados membros em casos específicos; a adopção de critérios gerais comuns no licenciamento do acesso à actividade de transporte ferroviário, acompanhada da criação de um modelo uniforme de licença europeia, com vista ao mútuo reconhecimento das empresas de transporte ferroviário, e a publicitação junto dos operadores, pelos gestores da infra-estrutura, das características da mesma, nomeadamente da capacidade oferecida, bem como das condições da mesma e do seu preço.
+
+2 - A reconfiguração institucional do sector ferroviário português teve o seu primeiro passo em 1997 com a desintegração vertical da empresa única então existente, nas actividades de gestão da infra-estrutura ferroviária e de operação do transporte ferroviário. O desiderato foi atingido através da cisão da CP, E. P., e da consequente criação da REFER, E. P., que assumiu as funções de gestora da infra-estrutura. Em 1998 foi criada a entidade reguladora, o Instituto Nacional do Transporte Ferroviário (INTF), a quem foi atribuída a missão de assegurar o equilibrado funcionamento do mesmo num novo cenário de multiplicidade de actores. Estavam, assim, criadas as condições necessárias ao acesso à infra-estrutura ferroviária de outros operadores para além do operador histórico, o que não significou, contudo, qualquer imediata liberalização do mercado de transporte ferroviário, tradicionalmente associado ao conceito de serviço público.
+
+O primeiro passo no sentido dessa liberalização veio a ser dado pelo Decreto-Lei n.º 60/2000, de 19 de Abril, relativo ao transporte internacional efectuado sob certas condições, mas tratou-se ainda de um passo modesto. Uma vez que Portugal dispõe já de um modelo institucional conforme ao agora consagrado no normativo comunitário, as alterações a introduzir, por força da transposição do «pacote ferroviário I», inscrevem-se no sentido do aprofundamento da reforma iniciada em 1997 sem darem azo à necessidade de alterações substanciais no desenho institucional do sector, reflectindo-se directamente na criação de condições para o aparecimento de novos operadores.
+
+Neste plano, o sector do transporte ferroviário de passageiros conta já com dois operadores, a CP, E. P., e a FERTAGUS, S. A., que exercem a respectiva actividade na qualidade de concessionárias de um serviço público, sendo totalmente independentes quer entre si, quer face à entidade reguladora, quer ainda perante o gestor da infra-estrutura, a qual, em determinadas vias, é utilizada por ambos.
+
+3 - A transposição assegurada pelo presente decreto-lei do «pacote ferroviário I» vem acentuar as obrigações do gestor da infra-estrutura como agente-pivô do desenvolvimento do sector ferroviário e promover a liberalização progressiva, criando-se condições mais favoráveis ao aparecimento de novos operadores e de novos serviços.
+
+São reforçados os poderes da entidade reguladora, com realce para a complementaridade da regulação e da fiscalização. O estatuto de independência sectorial, em relação a operadores e gestor da infra-estrutura, que, desde a sua origem, caracteriza o INTF assegura a necessária isenção no exercício de competências de fiscalização. Atribui-se por isso a esse Instituto, em estreita articulação com as competências de fiscalização, uma geral competência de apreciação de recursos de decisões do gestor da infra-estrutura, para cuja interposição é conferida legitimidade aos interessados nas decisões que, em cada um dos pontos, possam ser tomadas. O INTF apreciará ainda, em geral, queixas de interessados que considerem ter sido lesados no âmbito dispositivo do presente decreto-lei. No que particularmente respeita ao acesso em condições equitativas e não discriminatórias, pode o INTF (na sequência de queixa, ou adquirindo oficiosamente notícia do facto) injuntivamente determinar a concessão de acesso quando os obrigados a isso o tenham injustificadamente denegado.
+
+Actuará o INTF, ainda, como instância de supervisão em matéria de contratualização entre o gestor da infra-estrutura e os operadores, mantendo também o pleno exercício do seu papel de autoridade licenciadora de empresas de transporte ferroviário nacionais e comunitárias, para efeitos de prestação de serviços de transporte internacional e nacional no território nacional e, ainda, de autoridade emissora de certificados de segurança.
+
+4 - Cabe salientar ainda dois pontos fundamentais.
+
+A tarifação pela utilização da infra-estrutura ferroviária assume um papel central na revitalização do sector e na viabilização das empresas do mesmo. Importa assegurar ao gestor da infra-estrutura um nível de receitas que remunere de forma adequada a sua actividade regular, sem incorporar qualquer renda monopolista que possa onerar de forma excessiva os operadores de transporte ferroviário. Noutra perspectiva, o momento de liberalização do mercado impõe, nesta como noutras matérias, a adopção de regras uniformes que assegurem um tratamento equitativo e não discriminatório dos vários operadores que coexistem na rede nacional. O presente decreto-lei fixa, a esse propósito, o quadro geral que propicia a obtenção daqueles resultados e confere ao INTF o encargo quer de emitir a regulamentação necessária à concretização do quadro geral quer um papel de resolução de diferendos quanto à forma de aplicação do normativo em causa.
+
+É também evidente a importância de que se reveste o procedimento de repartição da capacidade da infra-estrutura ferroviária: num cenário em que se pretende que a infra-estrutura ferroviária seja utilizada por diversos operadores, é necessário gerir distributivamente a capacidade disponível, estabelecendo-se obrigações estritas de informação, isenção e não discriminação. Do correcto cumprimento daquelas obrigações depende, a um tempo, a salvaguarda da concorrência no quadro da prestação de serviços de transporte ferroviário e o desenvolvimento dos caminhos de ferro comunitários, por via da promoção da necessidade de manter e melhorar os níveis de fiabilidade dos próprios serviços prestados e permitir uma utilização eficaz da infra-estrutura. Dessa forma, a garantia de que o acesso à rede se faça de forma transparente e não discriminatória obtém-se por duas vias: a via geral da determinação do conteúdo do «directório da rede» (que condensa um complexo informativo, necessariamente público, de caracterização da infra-estrutura) e a via particular da dinâmica do próprio processo de repartição tendente à satisfação e coordenação de todos os pedidos de utilizador e de tráfego.
+
+5 - Um enquadramento jurídico-económico que promova o desenvolvimento do caminho de ferro pela abertura a novos operadores, nomeadamente no transporte de mercadorias, exige a sujeição de todos os actores às regras de concorrência nacionais e comunitárias. Corresponde isso ao objectivo do Programa do XV Governo Constitucional de «desenvolvimento do quadro legal que facilite o acesso ao mercado de operadores de transporte de mercadorias no sector ferroviário, bem como dos apropriados mecanismos de incentivos». A aplicação das regras de concorrência constitui uma garantia adicional, a par das disposições específicas quanto ao direito de acesso e à obrigação de tratamento não discriminatório e equitativo, de que a liberalização agora operada não será comprometida por práticas anticoncorrenciais, e no próprio «pacote ferroviário I» vai sublinhada a complementaridade entre a regulação sectorial e a defesa da concorrência, no passo em que se impõe uma obrigação de fiscalização da concorrência nos mercados dos serviços ferroviários.
+
+6 - A homogeneidade substantiva das matérias abarcadas pelas três directivas a que se dá transposição com o presente decreto-lei ditou a opção pela preparação de um corpus único de texto legislativo. A boa técnica legislativa desaconselha a dispersão desnecessária e a proliferação de diplomas avulsos quando nada justifique essa (des)arrumação.
+
+No caso presente, todos os pontos tratados cumprem um mesmo objectivo sectorial e todos são interdependentes (por isso, aliás, se diz que o conjunto dessas obrigações, comunitariamente impostas, integra um único «pacote»). De facto, existem conexões horizontais de referência recíproca entre todas as matérias tratadas, e tudo isso serve um determinado modelo de sector, uma dada orientação em sede de concorrência, uma particular visão do que deve ser a regulamentação dos transportes ferroviários no espaço comunitário, além disso (e também por isso), a plena compreensão de um capítulo não dispensa, por vezes, o cotejo com outro ou outros. O que determina ainda que todas essas normas, de teor substantivo, possam convergir num mesmo regime de fiscalização e aplicação de sanções, evitando assim as reiterações prolixas, e confusas, que decorreriam de haver normas diversas, em diversos locais legislativos, para tratar da mesma coisa.
+
+Para além disso, a condensação num diploma único facilita muito a cognoscibilidade, da parte dos operadores do sector (em sentido lato), do conjunto das obrigações a que estão sujeitos e dos direitos que lhes são atribuídos, além de lhes possibilitar uma visão daquela articulação de todo o complexo normativo.
+
+Isto justificou a opção. Todos os pontos que, sendo directamente transposição das obrigações que as Directivas n.os <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>, <a href="eurlex.asp?ano=2001&id=301L0013" title="Link para Directiva da Comunidade Europeia">2001/13/CE</a> e <a href="eurlex.asp?ano=2001&id=301L0014" title="Link para Directiva da Comunidade Europeia">2001/14/CE</a> ou que, aproveitando o ensejo e a filosofia, reclamariam que a intervenção normativa se desse com força de lei constam do presente decreto-lei, por isso, para lá desse texto, caberá apenas a produção regulamentar da entidade reguladora do sector ferroviário nacional, que vai especificamente prevista e se destina à concretização de certos pontos para os quais se julgou adequada essa forma de produção de normas.
+
+Face, aliás, às matérias agora integradas no presente decreto-lei, impôs-se a revogação do Decreto-Lei n.º 60/2000, de 19 de Abril, e do Regulamento n.º 19/2000, do INTF, uma vez que haveria com esses diplomas uma total sobreposição de âmbito de disciplina normativa, perdendo os mesmos acuidade autónoma, assim como se afiguram desajustados às novas soluções introduzidas pelas Directivas n.os <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>, <a href="eurlex.asp?ano=2001&id=301L0013" title="Link para Directiva da Comunidade Europeia">2001/13/CE</a> e <a href="eurlex.asp?ano=2001&id=301L0014" title="Link para Directiva da Comunidade Europeia">2001/14/CE</a>, a que agora se dá transposição.
+
+Foi realizada consulta pública nos termos do Decreto-Lei n.º 185/94, de 5 de Julho.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 146/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2004-273176) Prorroga o regime transitório das regras a aplicar no cálculo das tarifas pela utilização da infra-estrutura ferroviária constantes do Decreto-Lei n.º 270/2003, de 28 de Outubro.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma define as condições de prestação dos serviços de transporte ferroviário por caminho de ferro e de gestão da infra-estrutura ferroviária sobre a qual os mesmos são prestados, dispondo, nomeadamente, sobre:
+
+a) Revogada;
+
+b)Revogada;
+
+c) Revogada;
+
+d) Revogada;
+
+e) Revogada;
+
+f) Revogada;
+
+g) Revogada;
+
+h) Segurança;
+
+i) Revogada;
+
+2 - O disposto no presente diploma não prejudica a aplicação da legislação nacional e comunitária de defesa da concorrência às empresas e actividades a ele sujeitas.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 2.º — Exclusão do âmbito de aplicação
+
+1 - Estão excluídos:
+
+a) Do âmbito de aplicação do presente diploma os ramais privados, cuja utilização esteja reservada ao respectivo proprietário para as suas próprias actividades de transporte de mercadorias;
+
+b) Do âmbito de aplicação do presente diploma, as redes destinadas, em exclusivo, a serviços de transporte local, urbano e suburbano de passageiros, funcionalmente separadas da restante rede do sistema ferroviário, bem como as empresas ferroviárias que operem, ou efetuem a gestão, exclusivamente, nessas redes;
+
+2 - Revogado;
+
+d) Do âmbito de aplicação do capítulo IV as empresas cuja actividade se limite, em absoluto, à exploração de serviços de transporte urbano, suburbano ou regional de passageiros, ou de transporte regional de mercadorias, quando sejam também detentoras da infra-estrutura em que operam.
+
+3 - Nas redes abrangidas pela alínea b) do n.º 1 a disciplina das matérias de atribuição de capacidade e tarifação pela utilização da infraestrutura constar de instrumento contratual, o qual é objeto de notificação à Autoridade da Mobilidade e dos Transportes (AMT), nos termos e para os efeitos a prever em regulamento a emitir por esta entidade.
+
+4 - Os caminhos de ferro históricos, de museu e turísticos que circulam na sua própria rede, incluindo as oficinas, os veículos e o pessoal, bem como os veículos históricos que circulam em redes nacionais desde que cumpram as regras e regulamentos nacionais de segurança destinados a garantir a circulação segura desses veículos, estão excluídos do âmbito de aplicação do presente decreto-lei.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) «Admissão técnica» o procedimento pelo qual é permitida a circulação de material circulante ferroviário, depois de avaliada a sua conformidade com requisitos previamente estabelecidos;
+
+b) «Agrupamento internacional» qualquer associação de pelo menos duas empresas de transporte ferroviário estabelecidas em diferentes Estados membros da União Europeia, com vista a fornecer serviços de transporte internacional entre Estados membros;
+
+c) «Autoridade responsável pela segurança», o organismo nacional responsável pelas tarefas relacionadas com a segurança ferroviária nos termos do disposto no presente diploma;
+
+d) «Certificado de segurança» o documento que atesta a capacidade específica da empresa de transporte ferroviário para operar cumprindo todas as regras de segurança num determinado itinerário e para um determinado tipo de serviço;
+
+e) Revogada;
+
+f) Revogada;
+
+g) Revogada;
+
+h) Revogada;
+
+i) Revogada;
+
+j) «Especificações técnicas de interoperabilidade (ETI)» as especificações de que são objeto os subsistemas ou partes de subsistemas para satisfazerem os requisitos essenciais e garantirem a interoperabilidade dos sistemas ferroviários transeuropeus de alta velocidade e convencionais, conforme definido na alínea a) do artigo 2.º do Decreto-Lei n.º 93/2000, de 23 de maio, e na alínea a) do artigo 2.º do Decreto-Lei n.º 75/2003, de 16 de abril;
+
+k) Revogada;
+
+l) Revogada;
+
+m) Revogada;
+
+n) «Métodos comuns de segurança (MCS)» os métodos desenvolvidos para descrever os modos de avaliação dos níveis de segurança e de consecução dos objetivos comuns de segurança e do cumprimento de outros requisitos de segurança;
+
+o) «Objetivos comuns de segurança (OCS)» os níveis de segurança que devem, no mínimo, ser alcançados pelas diversas partes do sistema ferroviário (nomeadamente o sistema ferroviário convencional, o sistema ferroviário de alta velocidade, os túneis ferroviários de grande extensão ou as linhas utilizadas exclusivamente para o transporte de mercadorias) e pelo sistema no seu conjunto, expressos em critérios de aceitação de riscos;
+
+p) Revogada;
+
+q) Revogada;
+
+r) Revogada;
+
+s) Revogada;
+
+t) Revogada;;
+
+u) Revogada;
+
+v) Revogada;
+
+w) Revogada;
+
+x) Revogada;
+
+y) Revogada;
+
+z) Revogada;
+
+aa) «Detentor» a pessoa ou entidade que explora um veículo enquanto meio de transporte, quer seja proprietário do veículo, quer tenha o direito de o utilizar, e que está registada como tal no Registo de Matrícula Nacional (RMN) previsto no artigo 31.º do Decreto-Lei n.º 27/2011, de 17 de fevereiro;
+
+ab) «Entidade responsável pela manutenção» a entidade responsável pela manutenção de um veículo, registada como tal no RMN;
+
+ac) «Veículo» um veículo ferroviário apto a circular com as suas próprias rodas em linhas férreas, com ou sem tração, sendo composto por um ou mais subsistemas ou partes de subsistemas estruturais e funcionais.
+
+> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+### Capítulo II — Serviços ocasionais, turísticos ou históricos
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+###### Artigo 4.º — Serviços ocasionais, turísticos ou históricos
+
+1 - Revogado;
+
+2 - Revogado;
+
+3 - Revogado;
+
+4 - Revogado;
+
+5 - As condições e limites da prestação dos serviços de transporte ferroviário de passageiros realizados em território nacional, que sejam meramente ocasionais, ou com fins exclusivamente turísticos ou históricos, serão definidos pelo INTF.
+
+> Nota: [Artigo 15.º, Decreto-Lei n.º 137-A/2009 - Diário da República n.º 112/2009, 1º Suplemento, Série I de 2009-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-a-2009-140549) Constituído como serviço concessionado o serviço público de transporte ferroviário de passageiros no território nacional prestado pela CP, E.P.E.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+### Capítulo III — Acesso à actividade de transporte ferroviário
+
+#### Secção I — Disposições gerais
+
+###### Artigo 5.º — Licença de acesso à actividade
+
+1 - O presente capítulo define as condições do acesso à actividade de prestação de serviços de transporte ferroviário.
+
+2 - Todas as empresas abrangidas pelo presente diploma que explorem ou pretendam explorar serviços de transporte ferroviário devem ser titulares de uma licença adequada, emitida pela entidade competente, nos termos previstos no presente capítulo.
+
+3 - É proibida a prestação de serviços de transporte ferroviário sem a titularidade de licença válida, ou fora do âmbito da mesma.
+
+4 - As licenças para o exercício da actividade de prestação de serviços de transporte ferroviário são emitidas por tipo de serviço e pelo prazo a que se refere o n.º 4 do artigo 13.º
+
+5 - Existem, nomeadamente, os seguintes tipos de licença:
+
+a) Licença de serviço de transporte ferroviário de passageiros urbano e suburbano;
+
+b) Licença de serviço de transporte ferroviário de passageiros regional;
+
+c) Licença de serviço de transporte ferroviário de passageiros nacional;
+
+d) Licença de serviço de transporte ferroviário de passageiros internacional;
+
+e) Licença de serviço de transporte ferroviário de mercadorias suburbano;
+
+f) Licença de serviço de transporte ferroviário de mercadorias regional;
+
+g) Licença de serviço de transporte ferroviário de mercadorias nacional;
+
+h) Licença de serviço de transporte ferroviário de mercadorias internacional.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 6.º — Entidade emitente
+
+1 - A entidade competente para a emissão de licenças para o exercício da actividade de prestação de serviços de transporte ferroviário é o INTF.
+
+2 - Os actos relativos a licenciamento são notificados aos requerentes e divulgados publicamente nos seus elementos essenciais, sem prejuízo do sigilo comercial das empresas requerentes, na 2.ª série do Diário da República.
+
+3 - Para efeitos do número anterior, o sigilo comercial abrange todas as informações relativas à empresa requerente que não estejam sujeitas a qualquer forma de registo ou publicidade obrigatória, que não sejam ou não tenham caído no conhecimento público ou que não tenham sido publicitadas em virtude da prática de um acto judicial.
+
+4 - O custo da publicação referida no número anterior corre por conta dos requerentes.
+
+5 - Sem prejuízo do disposto no presente capítulo, cabe ao INTF, por via de regulamento, estabelecer os procedimentos necessários para obtenção de licença e as metodologias a adoptar na avaliação do cumprimento dos requisitos referidos no n.º 1 do artigo 8.º
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 7.º — Entidades requerentes
+
+1 - Podem requerer uma licença de acesso à actividade de prestação de serviços de transporte ferroviário as empresas estabelecidas em Portugal.
+
+2 - A obtenção de licença depende do cumprimento dos requisitos exigíveis nos termos do presente capítulo e, em geral, da observância das disposições legais e regulamentares aplicáveis.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 8.º — Condições gerais da licença
+
+1 - As licenças são concedidas somente a empresas que preencham os requisitos de idoneidade, capacidade financeira e capacidade técnica e que assegurem a cobertura da sua responsabilidade civil nos termos previstos no presente capítulo.
+
+2 - A licença não dispensa as empresas de transporte ferroviário do estrito cumprimento de todas as normas que lhes sejam aplicáveis e, nomeadamente, das relativas:
+
+a) Às condições técnicas e operacionais do serviço ferroviário;
+
+b) Às condições de segurança respeitantes ao pessoal, ao material circulante e à organização interna da empresa;
+
+c) À protecção aos utilizadores, bem como às condições de saúde, segurança e outros direitos sociais dos trabalhadores e dos utilizadores.
+
+3 - A titularidade de licença válida é condição necessária, embora não suficiente, de obtenção de acesso à infra-estrutura.
+
+4 - As licenças validamente emitidas por outros Estados membros da União Europeia são válidas em território nacional, conferindo os mesmos direitos que as emitidas para empresas nacionais.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+#### Secção II — Requisitos
+
+###### Artigo 9.º — Idoneidade
+
+1 - O requisito de idoneidade deve ser preenchido pelas empresas e pelas pessoas responsáveis pela sua gestão, nomeadamente administradores, directores ou gerentes.
+
+2 - Para efeitos do disposto no presente diploma, não são consideradas idóneas:
+
+a) As pessoas que tenham sido declaradas, por sentença transitada em julgado, falidas ou responsáveis pela falência de empresas cujo domínio hajam assegurado ou de que tenham sido administradoras, directoras ou gerentes;
+
+b) As pessoas que tenham desempenhado as funções referidas na alínea anterior em empresas cuja falência haja sido prevenida, suspensa ou evitada por concordata, reconstituição empresarial, reestruturação financeira ou meio equivalente, nos dois anos anteriores à apresentação do pedido de licença;
+
+c) As empresas cuja falência haja sido prevenida, suspensa ou evitada por concordata, reconstituição empresarial, reestruturação financeira ou meio equivalente, nos cinco anos anteriores à apresentação do pedido de licença;
+
+d) As pessoas que tenham sido, por sentença transitada em julgado, condenadas por crime de abuso de confiança, burla, burla qualificada, burla relativa a seguros, atentado à segurança de transporte por ar, água ou caminho de ferro, infidelidade, insolvência ou favorecimento de credores;
+
+e) As pessoas ou empresas que hajam sido condenadas pela prática de contra-ordenação de reconhecida gravidade respeitante à actividade ferroviária, por decisão definitiva ou sentença transitada em julgado, no ano anterior à apresentação do pedido de licença;
+
+f) As pessoas ou empresas que hajam sido condenadas, em matéria laboral, pela prática de contra-ordenação muito grave, ou pela prática reincidente de contra-ordenação grave, por decisão definitiva ou sentença transitada em julgado, nos dois anos anteriores à apresentação do pedido de licença;
+
+g) As pessoas ou empresas condenadas por infracção de legislação aduaneira, por decisão definitiva ou sentença transitada em julgado, nos cinco anos anteriores à apresentação do pedido de licença, quando as mesmas pretendam efectuar transportes de mercadorias transfronteiriços sujeitos àquela legislação.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 10.º — Capacidade financeira
+
+1 - O requisito de capacidade financeira considera-se preenchido desde que a empresa demonstre possuir a liquidez geral e a solvabilidade necessárias ao cumprimento das suas obrigações efectivas e potenciais, avaliadas segundo previsões realistas, pelo menos pelo período de um ano.
+
+2 - Considerar-se-á, em qualquer caso, que a empresa não apresenta a capacidade financeira requerida quando os pagamentos de impostos ou encargos sociais devidos pela sua actividade se encontrem em atraso, nos termos da legislação aplicável.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 11.º — Capacidade técnica
+
+1 - O requisito de capacidade técnica considera-se preenchido desde que a empresa tenha uma organização de gestão com a experiência ou os conhecimentos necessários para exercer, de modo seguro e eficaz, o controlo de exploração e a supervisão do tipo de operações abrangido pela licença.
+
+2 - Quando a empresa não tenha ainda iniciado actividade, deve demonstrar que tem condições de vir a dispor de uma organização de gestão nos termos referidos no número anterior.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 12.º — Seguro de responsabilidade civil
+
+1 - Os riscos decorrentes da actividade das empresas de transporte ferroviário e, nomeadamente, os relacionados com acidentes que causem danos aos passageiros, à infra-estrutura, à bagagem, à carga, ao correio e a terceiros devem estar cobertos por um seguro de responsabilidade civil.
+
+2 - O capital seguro do seguro referido no número anterior não pode, em qualquer caso, ser inferior a (euro) 10000000, sendo as demais condições, incluindo as relativas à actualização dos capitais seguros, fixadas por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, a emitir no prazo de 30 dias após a entrada em vigor do presente diploma.
+
+3 - Os requerentes devem apresentar uma minuta da apólice a subscrever, de cujo teor resulte ser inequívoco o cumprimento do disposto nos números anteriores, bem como a adequação entre o âmbito geográfico da apólice e aquele em que se desenvolve a actividade.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+#### Secção III — Do licenciamento
+
+###### Artigo 13.º — Pedido de licença
+
+1 - O pedido de licença para o exercício da actividade de prestação de serviços de transporte ferroviário é apresentado ao INTF.
+
+2 - O INTF, no prazo de 90 dias úteis a contar da apresentação do pedido ou, sendo esse o caso, a contar da recepção de toda a informação necessária ou da documentação complementar solicitada à empresa requerente, decide o pedido.
+
+3 - A falta de decisão no prazo importa indeferimento tácito do pedido.
+
+4 - A licença é emitida por um prazo máximo de cinco anos, renovável.
+
+5 - Da licença consta o prazo para início da actividade.
+
+6 - A renovação da licença depende da verificação do cumprimento dos mesmos requisitos necessários à sua emissão.
+
+7 - O modelo da licença será aprovado por portaria do ministro da tutela no prazo de 30 dias após a entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 14.º — Instrução do pedido
+
+1 - O pedido é instruído com a informação que permita a verificação dos requisitos definidos no presente diploma.
+
+2 - Para efeitos do número anterior o pedido deve ser acompanhado, nomeadamente, com os seguintes elementos:
+
+a) Relatórios e contas dos últimos três exercícios, incluindo a demonstração dos fluxos de caixa, aprovados nos termos da legislação aplicável;
+
+b) Recursos financeiros disponíveis, nomeadamente depósitos bancários, adiantamentos concedidos sobre contas correntes e empréstimos;
+
+c) Fundos e elementos do activo mobilizáveis a título de garantia;
+
+d) Fundos financeiros gerados pela actividade;
+
+e) Investimentos relevantes, nomeadamente com a aquisição de veículos, terrenos, edifícios, instalações e material circulante, incluindo os adiantamentos por conta, qualquer que seja a sua natureza;
+
+f) Encargos sobre o património da empresa;
+
+g) Plano de investimentos e respectivas fontes de financiamento, designadamente o relativo ao material circulante;
+
+h) Indicação dos estabelecimentos, instalações e restantes bens, pertencentes ou não à empresa requerente, afectos à actividade de prestação de serviços de transporte ferroviário;
+
+i) Demonstração de que a empresa possui estruturas de organização e gestão compatíveis com a actividade que se propõe desenvolver;
+
+j) Os procedimentos, sistemas e equipamentos afectos em permanência para a realização, a monitorização e o controlo da execução da actividade de prestação de serviços de transporte ferroviário;
+
+l)  (Revogada);
+
+m) (Revogada);
+
+n) Demonstração da forma como a empresa executa e mantém o sistema de gestão da segurança;
+
+o) Demonstração da forma como a empresa controla a aplicação de regras técnicas de segurança e procedimentos para situações de emergência.
+
+3 - Quando a empresa não possa apresentar relatórios e contas aprovados, relativos a três exercícios, por ter iniciado há menos tempo a actividade, o pedido deve ser instruído com os relatórios e contas que hajam sido aprovados, acompanhados de contas previsionais, sendo que a empresa, quando não tenha ainda iniciado actividade ou cumprido um ano de actividade, deve prestar informações tão completas quanto possível, por apresentação, nomeadamente, de contas previsionais e, quando existam, de balanços e demonstrações de resultados.
+
+4 - Nos casos previstos no número anterior, ficam as empresas obrigadas a apresentar contas anuais, logo que disponíveis.
+
+5 - O INTF pode solicitar que a instrução seja acompanhada de relatório de análise aos documentos apresentados para efeitos de demonstração da capacidade financeira e técnica, efectuado por entidade independente e idónea.
+
+6 - Os custos decorrentes da aplicação do número anterior correm por conta do requerente.
+
+7 - Caso o pedido não seja instruído com todas as informações e documentos necessários, o INTF notificará o requerente para suprir a deficiência em prazo não superior a 30 dias úteis.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2003-11-02
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+###### Artigo 15.º — Recusa de concessão da licença
+
+A licença será recusada sempre que:
+
+a) O pedido esteja incompleto, após o prazo concedido para suprir a deficiência;
+
+b) A instrução do pedido enferme de inexactidões ou falsidades;
+
+c) Não se considere verificado qualquer dos requisitos exigíveis.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 16.º — Caducidade da licença
+
+A licença caduca:
+
+a) Nos prazos e termos nela fixados;
+
+b) Se o requerente a ela expressamente renunciar;
+
+c) Se a empresa for dissolvida.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 17.º — Revogação e suspensão da licença
+
+1 - A licença pode ser revogada com fundamento em algum dos seguintes factos:
+
+a) A obtenção da licença por meio de falsas declarações ou outros expedientes ilícitos, independentemente de sanções penais que ao caso caibam;
+
+b) O incumprimento superveniente dos requisitos referidos no n.º 1 do artigo 8.º;
+
+c) Modificação não autorizada do seguro previsto no artigo 12.º;
+
+d) Incumprimento das obrigações referidas no n.º 2 do artigo 8.º;
+
+e) Inobservância das condições de segurança expressas na admissão técnica do material circulante;
+
+f) Verificação de falhas graves ou reiteradas no desempenho do material circulante ou dos equipamentos relevantes para a segurança, imputáveis às operações de manutenção;
+
+g) Violação da obrigação de informação;
+
+h) Oposição ao exercício da fiscalização;
+
+i) Cessação das actividades da empresa por período superior a seis meses;
+
+j) Incumprimento do prazo para início da actividade;
+
+l) O desrespeito pela empresa dos acordos aplicáveis ao transporte internacional ferroviário que vinculem o Estado Português ou das normas legais nacionais aplicáveis, designadamente as relativas a obrigações aduaneiras e fiscais;
+
+m) O incumprimento da obrigação de apresentação de contas prevista no n.º 4 do artigo 14.º;
+
+n) A verificação das alterações a que se refere o n.º 1 do artigo 18.º
+
+2 - Sempre que a ocorrência de uma das situações previstas no número anterior não seja suficientemente grave para determinar a revogação da licença, pode o INTF decidir a respectiva suspensão.
+
+3 - O acto que determina a suspensão da licença fixa a duração da suspensão e os pressupostos de cuja verificação depende a cessação da mesma.
+
+4 - Uma licença pode ser revogada ou suspensa parcialmente, quando as causas que justificam a revogação ou a suspensão se verifiquem apenas relativamente a parte das actividades de prestação de serviços de transporte ferroviário para que a empresa está licenciada.
+
+5 - A licença poderá conter disposições específicas relativas à sua suspensão ou revogação.
+
+6 - Quando uma licença for suspensa ou revogada devido à falta superveniente dos requisitos relativos à capacidade financeira, o INTF pode emitir uma licença temporária, cuja duração não poderá exceder seis meses, desde que se mostre garantido o cumprimento das condições de segurança.
+
+7 - Quando o INTF considerar que existem dúvidas quanto ao respeito dos requisitos de idoneidade, de capacidade financeira ou de capacidade técnica por uma empresa de transporte ferroviário à qual tenha sido concedida uma licença por outro Estado membro da União Europeia, ou que, quanto à mesma, ocorra qualquer outra das circunstâncias previstas no n.º 1 transmitirá essas dúvidas à entidade emitente.
+
+8 - Quando ocorram acontecimentos respeitantes à empresa licenciada que tenham impacte no conteúdo da licença, sem que, contudo, constituam fundamento de revogação ou suspensão, pode a mesma ser alterada por forma a reflectir essas alterações; dos acontecimentos referidos não pode resultar diminuição do nível de cumprimento dos requisitos.
+
+9 - Sem prejuízo dos casos comprovadamente urgentes, os actos de suspensão ou de revogação de licenças praticados pelo INTF estão sujeitos à tramitação prevista no Código do Procedimento Administrativo, nomeadamente no que respeita ao direito de audiência prévia dos interessados.
+
+10 - A suspensão ou revogação de licenças, bem como a concessão de licenças provisórias, são comunicadas de imediato pelo INTF à Comissão Europeia.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 18.º — Obrigação de informação
+
+1 - Quaisquer alterações que possam afectar o cumprimento dos requisitos de idoneidade, capacidade financeira ou capacidade técnica deverão ser comunicadas pelas empresas ao INTF, nomeadamente:
+
+a) Quando uma empresa titular de licença tenha pendente contra si um processo de insolvência ou de recuperação de empresa;
+
+b) Quando ocorra alteração relevante da situação jurídica de uma empresa titular de licença, designadamente em caso de fusão, aquisição ou cessão de estabelecimento.
+
+2 - A comunicação a que se refere o número anterior deve ser efectuada num prazo nunca superior a cinco dias úteis sobre a data de verificação do facto.
+
+3 - Só em casos devidamente justificados, nomeadamente pela natureza absolutamente imprevista ou incontrolável das circunstâncias, pode a comunicação a que se referem os números anteriores ser feita dentro de um prazo mais curto ou apenas após a verificação do facto ou circunstância relevante.
+
+4 - Nos casos referidos no n.º 1, o INTF pode proceder à reapreciação da idoneidade, capacidade financeira e capacidade técnica da empresa podendo alterar, revogar ou suspender a licença.
+
+5 - A informação a que se refere o número anterior conterá ainda a discriminação de receitas e despesas por actividade, para efeitos de avaliação do impacte dos subsídios e subvenções nos preços finais praticados, nos termos a definir por instrução do IMTT.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 19.º — Taxas
+
+1 - Pela prática de actos relativos a licenças, nos termos do presente capítulo, bem como pelo período de validade das mesmas, são devidas taxas.
+
+2 - As taxas a que se refere o número anterior constituem receita própria do INTF e o seu montante e forma de pagamento é definido por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, a publicar no prazo de 30 dias após a entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+### Capítulo IV — Acesso e trânsito na rede nacional
+
+#### Secção I — Disposições gerais
+
+###### Artigo 20.º — Direitos de acesso e trânsito
+
+1 - É concedido o direito de acesso à infra-estrutura ferroviária nacional às empresas nacionais de transporte ferroviário para exploração de transporte de passageiros no território nacional.
+
+2 - É concedido o direito de acesso à infra-estrutura ferroviária nacional às empresas nacionais de transporte ferroviário para prestação do serviço de transporte ferroviário de mercadorias no território nacional.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - É concedido o direito de acesso à infra-estrutura ferroviária nacional às empresas de transporte ferroviário para prestação de serviços de transporte combinado internacional de mercadorias.
+
+6 - São concedidos, em condições equitativas, direitos de acesso e trânsito na infra-estrutura ferroviária nacional às empresas de transporte ferroviário, para prestação de serviços de transporte ferroviário internacional de mercadorias.
+
+7 - Depois de 1 de Janeiro de 2007 os direitos previstos no n.º 2 são concedidos a todas as empresas de transporte ferroviário estabelecidas num Estado membro.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 20/2010 - Diário da República n.º 58/2010, Série I de 2010-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2010-611311), em vigor a partir de 2010-03-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 21.º — Exercício dos direitos de acesso e trânsito
+
+1 - O exercício dos direitos de acesso e trânsito na infra-estrutura ferroviária nacional depende da celebração, com o gestor da infra-estrutura ferroviária utilizada, dos acordos, públicos ou privados, sobre matérias administrativas, técnicas e financeiras necessários para regular as questões de controlo e de segurança do tráfego relativas a esse transporte.
+
+2 - As condições que regulam esses acordos devem ter um carácter não discriminatório e obedecerão a todas as disposições legais e regulamentares aplicáveis em matéria de repartição de capacidade da infra-estrutura ferroviária, aplicação de tarifas pela utilização da infra-estrutura ferroviária e certificação de segurança.
+
+3 - Os acordos, necessariamente reduzidos a escrito, são notificados obrigatoriamente ao INTF.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 22.º — Serviços e acesso aos serviços de terminais e portos
+
+1 - O acesso pela rede e a prestação, nos terminais e portos que sirvam, ou possam servir, mais de um cliente final, de serviços relacionados com o exercício dos direitos referidos no artigo 20.º são concedidos a todas as empresas de transporte ferroviário de forma não discriminatória, não podendo estar sujeitos a restrições, a menos que existam alternativas ferroviárias viáveis em condições de mercado para os requerentes ou partes interessadas em causa.
+
+2 - As empresas ou entidades, públicas ou privadas, que explorem as instalações ou prestem os serviços referidos no número anterior estão obrigadas a conceder acesso aos interessados e a prestar-lhes esses serviços em condições equitativas e não discriminatórias.
+
+3 - Em caso de incumprimento do disposto no número anterior pode a AMT impor obrigações específicas através de atos previstos no artigo 75.º
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+#### Secção II — Responsabilidades do gestor da infra-estrutura
+
+###### Artigo 23.º — Cooperação internacional
+
+1 - O gestor da infra-estrutura deve cooperar com outros gestores de infra-estrutura envolvidos no sentido de viabilizar o funcionamento eficiente dos serviços ferroviários que utilizem mais de uma rede de infra-estrutura.
+
+2 - O gestor da infra-estrutura deve, em especial, procurar garantir a maior competitividade possível do transporte ferroviário internacional de mercadorias e assegurar uma utilização eficaz da rede transeuropeia de transporte ferroviário de mercadorias, definida no artigo 10.º-A da Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0440" title="Link para Directiva da Comunidade Europeia">91/440/CE</a>, com a redacção da Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>.
+
+3 - Para esse efeito, o gestor da infra-estrutura pode participar em organizações conjuntas com outros gestores de infra-estruturas ferroviárias ou estabelecer outros meios adequados de cooperação e coordenação.
+
+4 - Qualquer cooperação, coordenação ou organização conjunta nos termos dos números anteriores ficará sujeita às regras estabelecidas no presente diploma e às regras em matéria de promoção e defesa da concorrência.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 24.º — Confidencialidade
+
+1 - O gestor da infra-estrutura está obrigado a respeitar o sigilo comercial da informação de que tenha conhecimento, no âmbito da sua relação com os operadores.
+
+2 - Para efeitos do número anterior, o sigilo comercial abrange todas as informações relativas à empresa requerente que não estejam sujeitas a qualquer forma de registo ou publicidade obrigatória, que não sejam ou não tenham caído no conhecimento público ou que não tenham sido publicitadas em virtude da prática de um acto judicial.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 25.º — Dever de informação
+
+O gestor da infra-estrutura deve, a todo o tempo, poder informar qualquer parte interessada sobre a capacidade da infra-estrutura que tenha sido atribuída às empresas ferroviárias utilizadoras.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+#### Secção III — Serviços prestados a empresas de transporte ferroviário
+
+###### Artigo 26.º — Tipologia de serviços
+
+Os serviços prestados a empresas de transporte ferroviário pelo gestor da infra-estrutura ou por outro prestador de serviços, ao abrigo do presente diploma, são:
+
+a) Os serviços essenciais;
+
+b) Os serviços adicionais;
+
+c) Os serviços auxiliares.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 27.º — Serviços essenciais
+
+1 - Os serviços essenciais compreendem todas as prestações necessárias ao efectivo exercício do direito de acesso à infra-estrutura e, designadamente:
+
+a) O pacote mínimo de acesso:
+
+i) O tratamento dos pedidos de capacidade da infra-estrutura;
+
+ii) O direito de utilização da capacidade concedida;
+
+iii) A utilização de vias, agulhas e entroncamentos;
+
+iv) O comando e controlo da circulação do comboio, incluindo regulação, sinalização, expedição e a comunicação e transmissão de informações sobre a sua circulação ou movimentos de manobra, com excepção das informações de natureza comercial;
+
+v) Quaisquer informações necessárias à operacionalização ou funcionamento do serviço para o qual a capacidade foi concedida;
+
+b) O acesso por via férrea às instalações de serviços e ao fornecimento de serviços, como sejam:
+
+i) Estações de passageiros, seus edifícios e outras instalações;
+
+ii) Instalações de abastecimento de combustível;
+
+iii) Terminais de mercadorias;
+
+iv) Estações de triagem;
+
+v) Instalações de formação das composições;
+
+vi) Feixes de resguardo;
+
+vii) Instalações de manutenção e outras instalações técnicas;
+
+c) A utilização das infra-estruturas e equipamentos de fornecimento, transformação e distribuição de energia eléctrica para tracção, quando disponíveis;
+
+d) A prestação de socorro ferroviário em caso de perturbação da circulação resultante de falha técnica ou acidente, nos termos previstos no artigo 51.º
+
+2 - O gestor da infra-estrutura está obrigado a prestar os serviços essenciais a todas as empresas de transporte ferroviário que o solicitem, respeitando sempre um princípio de não discriminação entre operadores.
+
+3 - Pela prestação dos serviços essenciais o gestor da infra-estrutura só poderá cobrar as tarifas que resultem das regras impostas pelo presente diploma e pelos regulamentos a que se refere o n.º 2 do artigo 52.º
+
+4 - Em qualquer caso, o gestor da infra-estrutura não poderá fazer depender a prestação dos serviços referidos no n.º 1 da aquisição de quaisquer outros produtos ou serviços e, nomeadamente, da aquisição de serviços adicionais ou auxiliares.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 28.º — Serviços adicionais
+
+1 - Os serviços adicionais compreendem exclusivamente os seguintes serviços que, não se incluindo nos serviços essenciais, são conexos com a actividade de prestação de serviços de transporte ferroviário:
+
+a) Fornecimento de energia eléctrica para tracção nos termos previstos na legislação aplicável à actividade de distribuição e comercialização da mesma;
+
+b) Pré-aquecimento dos comboios de passageiros;
+
+c) Abastecimento de combustível nos termos previstos na legislação aplicável àquela actividade;
+
+d) Manobras e todos os outros serviços prestados nas instalações de serviços referidos na alínea b) do n.º 1 do artigo 27.º;
+
+e) Contratos especiais para:
+
+i) Controlo do transporte de mercadorias perigosas;
+
+ii) Assistência na operação de comboios especiais;
+
+f) Prestação de socorro ferroviário que exceda as obrigações constantes do artigo 51.º
+
+2 - Quando preste serviços adicionais o gestor da infra-estrutura está obrigado a prestá-los a todas as empresas que o solicitem, respeitando um princípio de não discriminação entre operadores, a menos que existam alternativas viáveis e comparáveis no mercado.
+
+3 - Em qualquer caso, o gestor da infra-estrutura só pode prestar os serviços adicionais que lhe sejam expressa e livremente requeridos pelas empresas de transporte ferroviário.
+
+4 - Se o gestor da infra-estrutura não prestar algum serviço adicional que lhe seja requerido deve envidar todos os esforços razoáveis para facilitar a prestação do mesmo por terceiros.
+
+5 - Pela prestação dos serviços adicionais o gestor da infra-estrutura ou outro prestador dos mesmos só poderá cobrar as tarifas ou preços que resultem das regras impostas pelo presente diploma e pelos regulamentos a que se refere o n.º 2 do artigo 52.º, nos casos previstos no artigo 55.º
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+###### Artigo 29.º — Serviços auxiliares
+
+1 - Os serviços auxiliares compreendem os restantes serviços conexos com a actividade de prestação de serviços de transporte ferroviário, nomeadamente:
+
+a) O acesso à rede de telecomunicações;
+
+b) O fornecimento de informações suplementares, nomeadamente as de natureza comercial;
+
+c) A inspecção técnica do material circulante.
+
+2 - O gestor da infra-estrutura não é obrigado a prestar estes serviços.
+
+3 - Pela prestação dos serviços auxiliares o gestor da infra-estrutura ou outro prestador dos mesmos só poderá cobrar as tarifas ou preços que resultem das regras impostas pelo presente diploma e pelos regulamentos ao que se refere o n.º 2 do artigo 52.º, nos casos previstos no artigo 55.º
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+#### Secção IV — Directório da rede
+
+###### Artigo 30.º — Elaboração
+
+Incumbe ao gestor da infra-estrutura a elaboração do directório da rede, após consulta às partes interessadas, nomeadamente às empresas de transporte ferroviário.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 31.º — Conteúdo
+
+1 - O directório da rede inclui um capítulo que enuncia as características da infra-estrutura à disposição dos operadores de transporte ferroviário, bem como as condições de acesso à mesma, contendo, nomeadamente:
+
+a) Mapa da rede ferroviária com indicação do número de vias, as estações mais importantes e as distâncias quilométricas entre os principais pontos;
+
+b) Mapa da rede com indicação das cargas máximas admissíveis - peso por eixo e por metro linear - de acordo com a classificação da União Internacional dos Caminhos de Ferro;
+
+c) Mapa ou tabela da rede com indicação dos gabaritos de referência aplicáveis;
+
+d) Mapa ou tabela da rede com indicação dos sistemas de exploração disponíveis;
+
+e) Mapa ou tabela da rede com indicação dos sistemas de segurança de controlo automático da velocidade dos comboios;
+
+f) Mapa ou tabela da rede com indicação dos sistemas de comunicação rádio solo-comboio;
+
+g) Mapa ou tabela da rede com indicação das velocidades máximas autorizadas;
+
+h) Mapa ou tabela da rede com indicação das linhas electrificadas e respectivas tensões de alimentação;
+
+i) Mapa ou tabela da rede com indicação das zonas sujeitas a intervenções de modernização ou conservação que afectem de forma significativa a capacidade;
+
+j) Mapa ou tabela da rede com indicação dos portos e terminais de mercadorias, bem como das restantes instalações de prestação de serviços a que se refere a alínea b) do n.º 1 do artigo 27.º;
+
+l) Indicação de todos os dados e informações complementares de detalhe técnico necessários à apresentação e viabilização dos pedidos de capacidade, designadamente:
+
+i) A descrição de zonas críticas e pontos singulares, indicando os seus reflexos na capacidade final, bem como as medidas tendentes a eliminar ou atenuar os seus efeitos negativos;
+
+ii) A definição de canais condicionados por programas de conservação e modernização;
+
+iii) A tabela de velocidades;
+
+iv) As instruções técnicas de sinalização;
+
+v) Os diagramas das linhas das estações, portos, terminais de mercadorias e estações de triagem;
+
+vi) Os comprimentos máximos autorizados para os comboios;
+
+vii) Demais elementos de caracterização técnica das linhas;
+
+m) Condições em que o gestor da infra-estrutura pode exigir às empresas de transporte ferroviário que coloquem à sua disposição os recursos adequados à solução da situação, quando ocorra perturbação da circulação ferroviária e o regime de compensação financeira pelos custos da disponibilização desses mesmos recursos.
+
+2 - O directório da rede inclui também um capítulo sobre os princípios, critérios, fases e prazos do procedimento de repartição da capacidade, caracterizando os critérios seguidos naquele procedimento e contendo todas as informações necessárias para o exercício dos direitos de acesso e para a viabilização de pedidos de canais horários, nomeadamente:
+
+a) As modalidades e condições de apresentação de pedidos de canais horários ao gestor da infra-estrutura pelos candidatos;
+
+b) Os requisitos a que devem obedecer os candidatos, nomeadamente os respeitantes ao certificado de segurança e à admissão técnica do material circulante;
+
+c) Os princípios que regem a fase de coordenação, os quais deverão, em especial, reflectir a dificuldade da organização de canais horários internacionais e as incidências que qualquer modificação pode ter noutros gestores da infra-estrutura;
+
+d) Os procedimentos a observar e os critérios de prioridade a utilizar em casos de infra-estrutura congestionada;
+
+e) As condições pelas quais são tidos em conta os anteriores níveis de utilização da capacidade para determinar prioridades no procedimento de repartição;
+
+f) Elementos sobre a designação de infra-estruturas como infra-estruturas especializadas, nos termos do artigo 50.º;
+
+g) Quotas limiar para efeitos da aplicação do artigo 45.º
+
+3 - Ao precisar, no directório da rede, os princípios de repartição da capacidade, o gestor da infra-estrutura tem em consideração os seguintes factores:
+
+a) Partilha da capacidade e desenvolvimento da infra-estrutura para a realização de serviços nacionais e internacionais, de passageiros e de mercadorias e para a satisfação de pedidos pontuais;
+
+b) Manutenção e melhoria dos níveis de fiabilidade dos serviços;
+
+c) Incentivos ao bom desempenho;
+
+d) Promoção da concorrência no âmbito da prestação de serviços ferroviários.
+
+4 - O directório da rede inclui, igualmente, um capítulo sobre os princípios de tarifação e o tarifário, do qual constarão todos os elementos relevantes do regime de tarifação, assim como informação suficientemente pormenorizada sobre as tarifas aplicáveis aos serviços por si prestados no termos da secção III do presente capítulo.
+
+5 - O capítulo previsto no número anterior apresentará, pormenorizadamente, a metodologia, as regras e, sendo o caso, as escalas utilizadas para a aplicação das tarifas previstas na secção VI do presente capítulo e informações sobre as alterações ao montante das tarifas já decididas ou previstas.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+###### Artigo 32.º — Publicação e informação
+
+1 - O gestor da infra-estrutura edita o directório da rede até 12 meses antes da entrada em vigor do horário respectivo.
+
+2 - No mesmo prazo, o gestor da infra-estrutura faz publicar, na 2.ª série do Diário da República, anúncio de que o directório da rede está editado e de que será disponibilizado aos interessados nos termos do n.º 4.
+
+3 - O directório da rede deve, sempre que necessário, ser actualizado ou modificado, observando-se o mesmo procedimento de edição e publicitação.
+
+4 - O directório da rede é fornecido, pelo gestor da infra-estrutura, ao INTF, bem como, a pedido e contra pagamento de uma quantia não superior ao custo de publicação, aos interessados que o solicitem.
+
+5 - Podem ser solicitadas informações suplementares para elaboração de pedido de canal horário ao gestor da infra-estrutura em requerimento fundamentado.
+
+6 - Se o pedido referido no número anterior for exequível, o gestor da infra-estrutura deve disponibilizar a informação solicitada no prazo de cinco dias úteis.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+#### Secção V — Repartição da capacidade da infra-estrutura ferroviária
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 33.º — Âmbito
+
+1 - A presente secção estabelece os princípios e procedimentos que presidem ao exercício da repartição da capacidade da infra-estrutura ferroviária nacional.
+
+2 - A atribuição de capacidade a um candidato não lhe confere direito de acesso à rede nacional, o qual, nos termos da secção I do presente capítulo, é reservado a empresas de transporte ferroviário.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 34.º — Definições
+
+Para efeitos da presente secção, entende-se por:
+
+a) «Acordo quadro» um acordo juridicamente vinculativo, de direito público ou privado, que estabelece os direitos e obrigações de um candidato e do gestor da infra-estrutura em relação à capacidade de infra-estrutura a repartir num período superior ao período de vigência de um horário técnico;
+
+b) «Canal horário» a capacidade da infra-estrutura necessária para a circulação e manobras de um comboio, entre dois pontos, num determinado período de tempo;
+
+c) «Canais horários incompatíveis» a situação verificada quando a circulação simultânea de dois comboios se torne impossível, segundo o sistema de comando e controlo da circulação existente, podendo a incompatibilidade dever-se ao espaçamento insuficiente entre comboios no mesmo sentido, a comboios que circulem em sentidos opostos ou à necessidade de atravessamentos de vias que estejam sendo utilizadas por outras circulações;
+
+d) «Candidato» uma empresa de transporte ferroviário detentora de licença ou um agrupamento internacional de empresas de transporte ferroviário e outras pessoas singulares ou colectivas com um interesse de serviço público ou comercial na aquisição de capacidade de infra-estrutura, tais como autoridades públicas ao abrigo do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1969&id=369R1191" title="Link para Regulamento da Comunidade Europeia">1191/69</a>, do Conselho, bem como carregadores marítimos, transitários e operadores de transportes combinados, para exploração de um serviço ferroviário nos respectivos territórios;
+
+e) «Capacidade da infra-estrutura» a possibilidade de programação de canais horários num determinado elemento da infra-estrutura, por unidade de tempo;
+
+f) «Coordenação» o processo através do qual o gestor da infra-estrutura e os candidatos procurarão resolver situações de conflito entre pedidos de canais horários;
+
+g) «Horário comercial» o conjunto de dados que define todos os serviços de transporte ferroviário oferecidos por cada operador de transporte ferroviário ao público;
+
+h) «Horário técnico» o conjunto de dados que define todos os movimentos programados dos comboios necessários à prestação de serviço e dos inerentes à organização do mesmo na infra-estrutura, durante o seu período de vigência;
+
+i) «Infra-estrutura congestionada» uma secção da infra-estrutura relativamente à qual a procura de capacidade não pode ser integralmente satisfeita, mesmo após a coordenação dos vários pedidos de canais horários;
+
+j) «Margens» os tempos concedidos numa marcha destinados à recuperação de atrasos;
+
+l) «Pedido pontual» um pedido de canal horário que, devido ao facto de não ser conhecida com antecedência suficiente a necessidade que o motiva, não tenha podido ser considerado no processo normal de elaboração do horário técnico;
+
+m) «Plano de reforço da capacidade» uma medida, ou conjunto de medidas, cuja aplicação obedece a um calendário, propostas para atender às limitações de capacidade que levaram a que uma secção da infra-estrutura tenha sido declarada «infra-estrutura congestionada»;
+
+n) «Quota limiar» valor de referência de nível de utilização dos canais horários atribuídos a um dado operador, abaixo do qual pode ocorrer a retrocessão dos canais horários;
+
+o) «Repartição» a afectação da capacidade da infra-estrutura ferroviária pelo gestor da infra-estrutura.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 35.º — Princípios do procedimento de repartição
+
+1 - Sem prejuízo do disposto no artigo 50.º, a capacidade de infra-estrutura é considerada disponível para todos os tipos de serviço compatíveis com as características necessárias para utilização do canal horário.
+
+2 - A repartição da capacidade da infra-estrutura ferroviária deve ser realizada de forma equitativa e não discriminatória relativamente aos diferentes candidatos e por forma a permitir a sua utilização eficaz e eficiente.
+
+3 - A repartição da capacidade da infra-estrutura tem de respeitar, a cada momento, as obrigações constantes dos contratos de concessão de exploração de serviço de transporte ferroviário, ou de outros contratos de serviço público, celebrados pelo Estado.
+
+4 - Sem prejuízo do disposto no número anterior, aplicam-se aos concessionários os procedimentos previstos nesta secção.
+
+5 - É proibida qualquer transmissão de capacidade da infra-estrutura atribuída a um candidato, implicando a prática de tal acto tanto a respectiva nulidade como a exclusão desse candidato de qualquer nova atribuição de capacidade.
+
+6 - Não se considera transmissão de capacidade a utilização desta por uma empresa de transporte ferroviário que exerça a actividade de um candidato que não tenha essa qualidade.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+##### Subsecção II — Horários técnicos
+
+## Parte I — Competência do gestor da infra-estrutura e vigência do horário técnico
+
+###### Artigo 36.º — Elaboração e aprovação
+
+1 - A repartição da capacidade da infra-estrutura efectiva-se através da elaboração e aprovação do horário técnico.
+
+2 - O horário técnico é elaborado e aprovado pelo gestor da infra-estrutura, nos termos definidos nos artigos seguintes, e contém obrigatoriamente os seguintes elementos:
+
+a) As marchas de comboios na infra-estrutura, incluindo o tipo de marcha, a tonelagem rebocada, o regime de frequência, as séries das unidades motoras, o número de unidades por série, o comprimento do comboio e o tipo de freio;
+
+b) As horas de chegada e de partida dos comboios nas estações de origem e de destino, bem como as horas de chegada, partida ou passagem nas estações intermédias e em pontos de controlo;
+
+c) As margens.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 37.º — Períodos de vigência e alterações
+
+1 - O horário técnico será fixado uma vez por ano civil.
+
+2 - A mudança de horário técnico terá lugar à meia-noite do 2.º sábado do mês de Dezembro.
+
+3 - Qualquer alteração ou ajustamento significativo do horário após o Inverno terá preferencialmente lugar à meia-noite do último sábado de Junho, podendo contudo outras datas ser decididas depois de ouvidos os operadores, devendo o gestor informar do facto o INTF, e, quando a alteração afecte canais internacionais, a Comissão Europeia.
+
+4 - O gestor da infra-estrutura e um candidato podem, nos termos do artigo 49.º, celebrar um acordo quadro para a utilização da capacidade na infra-estrutura ferroviária em causa, com duração superior ao período de vigência de um horário técnico.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+## Parte II — Procedimento
+
+###### Artigo 38.º — Pedidos de canais horários
+
+1 - Os candidatos apresentam os seus pedidos de canais horários ao gestor de infra-estrutura até oito meses antes da entrada em vigor do horário técnico.
+
+2 - Um candidato que, nos termos do artigo 49.º, seja parte num acordo quadro deve apresentar o seu pedido nos termos desse acordo.
+
+3 - O gestor da infra-estrutura pode, para assegurar a salvaguarda das suas legítimas expectativas relativamente às receitas e à utilização da infra-estrutura, exigir aos candidatos o fornecimento de uma garantia financeira, a qual não deve exceder um nível adequado e proporcional ao nível de actividade previsto do candidato e à demonstração da capacidade de apresentação de propostas adequadas para obtenção de capacidade de infra-estrutura.
+
+4 - As condições da exigência referida no número anterior devem ser adequadas, transparentes e não discriminatórias, e são publicadas no directório da rede como parte integrante dos princípios que regulam a repartição da capacidade de infra-estrutura, devendo a Comissão Europeia ser delas informada.
+
+5 - O pedido de reserva de capacidade de infra-estrutura para realização das operações de manutenção ou investimento é apresentado pelo gestor da infra-estrutura, no quadro do processo previsto no n.º 2 do artigo 40.º
+
+6 - Para efeitos do número anterior, o gestor da infra-estrutura deve ter devidamente em conta as incidências da reserva de capacidade de infra-estrutura para manutenção planificada da via férrea nas actividades dos candidatos.
+
+7 - Os candidatos podem solicitar capacidade respeitante a várias redes a um único gestor de infra-estrutura.
+
+8 - Esse gestor fica autorizado a actuar em nome do candidato para obter capacidade junto dos outros gestores de infra-estrutura competentes.
+
+9 - Os gestores da infra-estrutura garantirão que, relativamente à capacidade de infra-estrutura respeitante a mais de uma rede, os candidatos possam apresentar os seus pedidos directamente a uma organização conjunta criada pelos gestores da infra-estrutura.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+###### Artigo 39.º — Canais horários internacionais
+
+1 - Antes de iniciar o processo de audição sobre o projecto de horário de serviço, previsto no artigo 42.º, e o mais tardar 11 meses antes da entrada em vigor do horário técnico, o gestor da infra-estrutura assegurará o estabelecimento de canais horários internacionais a incluir no horário técnico, em cooperação com outros organismos de repartição competentes, nomeadamente no quadro da rede transeuropeia de transporte ferroviário de mercadorias, definida no artigo 10.º-A da Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0440" title="Link para Directiva da Comunidade Europeia">91/440/CE</a>, com a redacção da Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>.
+
+2 - O gestor da infra-estrutura criará, em colaboração com outros organismos de repartição competentes, os mecanismos necessários para efeitos do previsto no número anterior.
+
+3 - Os procedimentos estabelecidos para coordenar a repartição da capacidade de infra-estrutura a nível internacional devem associar representantes dos gestores de todas as infra-estruturas ferroviárias cujas decisões de repartição tenham repercussões sobre a actividade de vários outros gestores de infra-estrutura.
+
+4 - Os representantes adequados de gestores de infra-estrutura exteriores à Comunidade Europeia podem ser associados a estes procedimentos.
+
+5 - A Comissão Europeia deve ser informada e convidada a participar, na qualidade de observador.
+
+6 - Nas reuniões ou noutras actividades destinadas a assegurar a repartição da capacidade de infra-estrutura para os serviços ferroviários que utilizem várias redes, as decisões são tomadas apenas pelos representantes dos gestores da infra-estrutura.
+
+7 - A lista dos membros, o modo de funcionamento da colaboração e todos os critérios utilizados na avaliação e repartição da capacidade de infra-estrutura são tornados públicos.
+
+8 - O gestor da infra-estrutura assegurará, na medida do possível, que os canais sejam respeitados nos processos subsequentes, pelo que só haverá ajustamentos em caso de absoluta necessidade.
+
+9 - No quadro da cooperação referida no n.º 1, o gestor da infra-estrutura avaliará as necessidades e, se necessário, proporá e organizará canais horários internacionais que facilitem a exploração de composições de mercadorias sujeitas a pedidos pontuais.
+
+10 - O gestor da infra-estrutura disponibilizará aos candidatos canais horários internacionais preestabelecidos.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+###### Artigo 40.º — Elaboração
+
+1 - O gestor da infra-estrutura prepara um projecto de horário técnico até cinco meses antes da entrada em vigor do horário técnico.
+
+2 - No processo de elaboração do projecto de horário técnico, o gestor da infra-estrutura aprecia os diferentes pedidos de canais horários, no âmbito definido pelo directório da rede.
+
+3 - O gestor da infra-estrutura deve, na medida do possível, satisfazer todos os pedidos de canais horários, incluindo os pedidos de canais horários que cruzem mais de uma rede, tendo em conta os condicionalismos que afectam os candidatos, incluindo as incidências económicas na sua actividade.
+
+4 - O gestor da infra-estrutura deve manter, sempre que possível, no horário técnico, uma reserva de capacidade que lhe permita responder rapidamente aos pedidos pontuais previsíveis.
+
+5 - O disposto no número anterior é igualmente aplicável em caso de infra-estrutura congestionada.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 41.º — Coordenação
+
+1 - Sempre que forem efectuados pedidos cuja aceitação implique a utilização de canais horários incompatíveis, o gestor da infra-estrutura assegura a respectiva coordenação, ajustando, tanto quanto possível, todos os pedidos, nos termos dos princípios definidos no directório da rede.
+
+2 - Em situações que requeiram coordenação, poderá o gestor da infra-estrutura, dentro de limites razoáveis, propor canais horários diferentes dos solicitados.
+
+3 - O gestor da infra-estrutura deve envidar esforços no sentido de solucionar os eventuais conflitos, através de consultas aos candidatos interessados.
+
+4 - Quando alguns pedidos de canais horários não puderem ser satisfeitos sem coordenação, o gestor da infra-estrutura assegurará a coordenação da totalidade dos pedidos.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 42.º — Audição aos interessados
+
+1 - O gestor da infra-estrutura, concluída a elaboração do projecto de horário técnico e antes da sua aprovação, deverá consultar as partes interessadas para que estas se pronunciem sobre ele, por escrito, num prazo de 30 dias corridos a contar da respectiva divulgação.
+
+2 - Para efeitos do disposto no número anterior, consideram-se partes interessadas todas as que tenham apresentado pedidos de capacidade de infra-estrutura, bem como as que desejem formular observações sobre as incidências do horário técnico na sua capacidade de prestação de serviços ferroviários durante o período de vigência do horário técnico.
+
+3 - O gestor da infra-estrutura deve tomar as medidas adequadas para atender às observações apresentadas.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 43.º — Aprovação e comunicação
+
+1 - O gestor da infra-estrutura aprova o horário técnico e procede à respectiva comunicação aos candidatos até três meses antes da respectiva entrada em vigor.
+
+2 - A recusa, ainda que parcial, de pedidos de canais horários é sempre fundamentada.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+##### Subsecção III — Infra-estrutura congestionada
+
+###### Artigo 44.º — Infra-estrutura congestionada
+
+1 - Se, após coordenação de pedidos e audição prévia dos candidatos, se verificar a impossibilidade de satisfazer adequadamente os pedidos, o gestor da infra-estrutura declara congestionada a parte de infra-estrutura respectiva informando o INTF do facto.
+
+2 - O mesmo processo poderá ser adoptado relativamente a outras partes da infra-estrutura que presumivelmente venham a sofrer de escassez de capacidade num futuro próximo.
+
+3 - Quando determinada parte da infra-estrutura for declarada congestionada e a componente da tarifa a que se refere a alínea a) do n.º 2 do artigo 54.º não for aplicada ou não produzir resultados satisfatórios, terá prioridade o transporte ferroviário em regime de serviço público, em especial o realizado ao abrigo de contrato de concessão de serviço público.
+
+4 - Nas condições previstas no número anterior, e sem prejuízo do que aí se dispõe, o gestor da infra-estrutura pode, na repartição de capacidade, recorrer a critérios de prioridade que considerem a importância de um determinado serviço para a comunidade, e que salvaguardem devidamente a importância dos serviços de transporte de mercadorias, e, em particular, dos internacionais.
+
+5 - O gestor da infra-estrutura pode incluir, no directório da rede, as condições em que são tidos em conta os anteriores níveis de utilização dos canais horários ao determinar prioridades para o processo de repartição.
+
+6 - Os critérios de prioridade constam do directório da rede.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 45.º — Utilização dos canais horários
+
+Em especial no que se refere à infraestrutura congestionada, o gestor da infraestrutura pode reverter a atribuição de um canal horário cuja utilização, durante um período de pelo menos um mês, tenha sido inferior ao nível estipulado no diretório da rede, exceto se essa subutilização tiver sido causada por razões não económicas fora do controlo dos operadores de transporte ferroviário.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 46.º — Análise de capacidade
+
+1 - O gestor da infra-estrutura procede a uma análise da capacidade, a concluir no prazo de seis meses a contar do momento em que uma parte da infra-estrutura seja declarada congestionada, excepto se estiver já a ser aplicado um plano de reforço de capacidade.
+
+2 - Na análise referida no número anterior, o gestor da infra-estrutura determina os motivos que impedem a adequada satisfação dos pedidos de canais horários, identificando as causas dos congestionamentos registados.
+
+3 - A análise deve contemplar a infra-estrutura, os procedimentos de operação, a natureza dos diferentes serviços explorados e o reflexo de todos estes factores na capacidade de infra-estrutura.
+
+4 - As medidas propostas deverão, em especial, incluir a modificação de itinerários, a reprogramação dos horários dos serviços, alterações da velocidade, bem como intervenções que beneficiem a infra-estrutura.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 47.º — Plano de reforço
+
+1 - No prazo de seis meses após conclusão da análise referida no artigo anterior, o gestor da infra-estrutura submete, após audição ao INTF, ao ministério responsável pela área do transporte ferroviário, para aprovação, um plano de reforço da capacidade, elaborado após consulta aos utilizadores da parte de infra-estrutura congestionada.
+
+2 - Do plano devem constar as causas da congestão, as opções de reforço, a evolução provável do tráfego, os condicionalismos à expansão da infra-estrutura, o custo das opções e uma análise custo/benefício das medidas de reforço identificadas, bem como um plano de acção e um calendário de implementação.
+
+3 - A aplicação da componente da tarifa a que se refere a alínea a) do n.º 2 do artigo 54.º fica suspensa sempre que o gestor da infra-estrutura não apresente um plano de reforço da capacidade, ou não o execute.
+
+4 - Sem prejuízo do disposto nos números anteriores, o gestor da infra-estrutura pode, mediante aprovação do INTF, continuar a aplicar essa componente da tarifaquando:
+
+a) O plano de reforço da capacidade não puder ser realizado por circunstâncias fora do seu controlo;
+
+b) As opções disponíveis não forem económica ou financeiramente viáveis.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+##### Subsecção IV — Pedidos pontuais
+
+###### Artigo 48.º — Pedidos pontuais
+
+1 - Os candidatos podem efectuar, fora do prazo previsto no artigo 38.º, pedidos pontuais de canais horários.
+
+2 - O gestor da infra-estrutura decide sobre os pedidos formulados nos termos do número anterior num prazo de cinco dias úteis.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+##### Subsecção V — Acordos quadro
+
+###### Artigo 49.º — Acordos quadro
+
+1 - Sem prejuízo do disposto nos artigos 101.º, 102.º e 106.º do Tratado sobre o Funcionamento da União Europeia, das regras nacionais em matéria de concorrência e das competências das autoridades nacionais de defesa da concorrência, pode ser celebrado um acordo quadro entre o gestor da infraestrutura e um candidato, sujeito a aprovação prévia da AMT, ouvida a Autoridade da Concorrência.
+
+2 - Esse acordo quadro, obrigatoriamente reduzido a escrito, especificará as características da capacidade da infra-estrutura solicitada pelo candidato e que lhe é fornecida para um período superior ao período de vigência de um horário de serviço.
+
+3 - O acordo quadro não especificará detalhadamente canais horários mas deve ser elaborado por forma a responder às necessidades comerciais legítimas do candidato.
+
+4 - O acordo quadro não deve inviabilizar a utilização da infra-estrutura em causa por outros candidatos ou serviços.
+
+5 - O acordo quadro deve poder ser alterado ou limitado por forma a permitir uma melhor utilização da infra-estrutura ferroviária.
+
+6 - O acordo quadro pode incluir sanções em caso de alteração ou denúncia do acordo.
+
+7 - O acordo quadro deve ter, em princípio, uma vigência de cinco anos, renovável por períodos iguais ao da duração inicial, podendo o gestor da infra-estrutura, em casos específicos, aceitar um período inferior ou superior.
+
+8 - Qualquer período superior a cinco anos deve justificar-se pela existência de contratos comerciais ou investimentos ou riscos específicos.
+
+9 - No caso de serviços que utilizem uma infra-estrutura especializada e que requeiram investimentos substanciais de longo prazo, devidamente fundamentados pelo candidato, podem ser celebrados acordos quadro com uma duração máxima de 15 anos.
+
+10 - A duração máxima referida no número anterior pode em circunstâncias excepcionais ser excedida, designadamente, no caso de investimentos substanciais de longo prazo e, em especial, quando estes investimentos sejam objecto de compromissos contratuais que incluam um plano de amortização anual.
+
+11 - Nos casos referidos no n.º 9 e no número anterior:
+
+a) O candidato pode solicitar informação detalhada sobre as características da capacidade a atribuir durante a execução do acordo quadro, incluindo a frequência, quantidade e qualidade dos canais horários;
+
+b) O gestor da infra-estrutura pode reduzir a capacidade reservada que, durante um período mínimo de um mês, tenha sido menos utilizada do que quota-limiar prevista no artigo 45.º
+
+12 - No respeito pelo segredo comercial, qualquer parte interessada pode tomar conhecimento das linhas gerais dos acordos quadro.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 20/2010 - Diário da República n.º 58/2010, Série I de 2010-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2010-611311), em vigor a partir de 2010-03-29
+
+##### Subsecção VI — Infra-estrutura especializada
+
+###### Artigo 50.º — Infra-estrutura especializada
+
+1 - Quando existam itinerários alternativos adequados, o gestor da infra-estrutura pode, após consulta das partes interessadas, designar uma infra-estrutura como especializada para utilização por determinados tipos de tráfego.
+
+2 - Sem prejuízo do disposto nos artigos 101.º, 102.º e 106.º do Tratado sobre o Funcionamento da União Europeia, e das disposições nacionais sobre concorrência, quando se efetue essa designação, o gestor da infraestrutura pode dar prioridade a estes tipos de tráfego aquando da repartição de capacidade de infraestrutura.
+
+3 - A designação prevista no número anterior não deve inviabilizar a utilização da infra-estrutura em causa por outros tipos de tráfego, quando haja capacidade disponível e o material circulante apresente as características técnicas necessárias para utilizar a linha.
+
+4 - Quando uma infra-estrutura tenha sido designada como especializada nos termos do n.º 1, será feita menção desse facto no directório da rede.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+##### Subsecção VII — Perturbação da circulação ferroviária
+
+###### Artigo 51.º — Medidas especiais em caso de perturbação
+
+1 - Em caso de perturbação da circulação ferroviária resultante de falha técnica ou acidente, o gestor da infra-estrutura deve tomar todas as medidas e disponibilizar os meios necessários para restabelecer a situação normal, elaborando, para esse efeito, um plano de contingência que inclui uma lista dos diversos organismos públicos a informar em caso de incidentes graves ou de séria perturbação da circulação ferroviária.
+
+2 - Em caso de emergência e de absoluta necessidade motivada por uma falha que torne a infra-estrutura temporariamente inutilizável, os canais horários atribuídos podem ser retirados sem pré-aviso pelo período de tempo necessário para a reparação do sistema.
+
+3 - As eventuais sanções ou compensações devidas pela perturbação ou interrupção da circulação são previstas no regime de melhoria de desempenho a que se refere o artigo 60.º, sem prejuízo da aplicação das normas gerais de responsabilidade civil.
+
+4 - Não é devida qualquer tarifa, incluindo a associada à capacidade pedida mas não utilizada, em caso de perturbação que determine a impossibilidade da circulação ferroviária.
+
+5 - Se o considerar necessário, o gestor da infra-estrutura pode exigir às empresas de transporte ferroviário que coloquem à sua disposição os recursos adequados ao rápido restabelecimento da situação normal, nos termos previstos no directório da rede.
+
+6 - Nos casos previstos no número anterior, e nos termos previstos no directório da rede, o gestor da infra-estrutura compensará financeiramente as empresas de transporte ferroviário pelos custos da disponibilização de recursos adequada ao restabelecimento da normalidade da situação.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+#### Secção VI — Tarifas pela utilização da infra-estrutura
+
+##### Subsecção I — Regime geral
+
+###### Artigo 52.º — Âmbito
+
+1 - A presente secção define as regras gerais a observar pelo gestor da infra-estrutura na fixação, determinação e cobrança das tarifas devidas pela utilização da infra-estrutura.
+
+2 - As regras gerais definidas no presente capítulo serão objecto de regulamentação a emitir pelo INTF.
+
+3 - A fixação, determinação e cobrança das tarifas devidas pela utilização da infra-estrutura compete ao gestor da infra-estrutura para financiamento da sua actividade de gestão da infra-estrutura.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 53.º — Princípio de não discriminação
+
+Para efeitos do n.º 3 do artigo anterior, o gestor da infra-estrutura deve observar o princípio de não discriminação entre operadores, assegurando, nomeadamente:
+
+a) A identidade, em toda a rede sob sua gestão, dos princípios aplicáveis à tarifação, sem prejuízo do disposto na subsecção III da presente secção;
+
+b) Que as empresas que prestem serviços equivalentes num segmento análogo de mercado pagam tarifas equivalentes.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+##### Subsecção II — Tarifas-base
+
+###### Artigo 54.º — Princípios
+
+1 - As tarifas a cobrar pelo gestor da infra-estrutura pelos serviços compreendidos no artigo 27.º devem corresponder ao custo directamente imputável à exploração do serviço de transporte ferroviário, sem prejuízo do disposto no número seguinte.
+
+2 - As tarifas-base calculadas nos termos do número anterior podem incluir:
+
+a) Uma componente que reflicta a escassez de capacidade do segmento identificável da infra-estrutura durante os períodos de congestão, nos termos resultantes do artigo 44.º;
+
+b) Uma componente que reflicta a internalização dos custos ambientais provocados pelo transporte ferroviário em causa, criada nos termos previstos pela alínea b) do n.º 1 do artigo 5.º da Lei n.º 10/90, de 17 de Março.
+
+3 - A componente prevista na alínea b) do número anterior só pode traduzir-se num aumento das tarifas referidas no n.º 1 quando exista um nível equivalente de internalização desses custos nos modos de transporte concorrentes, sendo que, neste último caso, o excedente de proveitos que resulte daqueles aumentos será consignado a incentivos visando a eficiência ambiental das empresas ferroviárias.
+
+4 - Cabe ao Estado definir as regras de atribuição dos incentivos a que se refere o número anterior.
+
+5 - Podem ser aplicadas tarifas a título da utilização de capacidade para a manutenção da infra-estrutura, não podendo estas exceder a perda líquida de receitas suportada pelo gestor da infra-estrutura em resultado das operações de manutenção, nos termos a definir por regulamento.
+
+6 - O gestor da infra-estrutura pode aplicar uma tarifa adequada sobre a capacidade pedida mas não utilizada, desde que a mesma tenha como objectivo incentivar o uso eficiente da infra-estrutura, nos termos que vierem a constar da regulamentação a que se refere o n.º 2 do artigo 52.º
+
+7 - As tarifas, incluindo as referidas no artigo 56.º, incorporarão no seu cálculo um incentivo à eficiência do gestor da infra-estrutura, a definir pelo INTF, o qual pode variar consoante o tipo de tarifa em causa, nos termos que vierem a constar da regulamentação a que se refere o n.º 2 do artigo 52.º
+
+8 - Na definição do incentivo a que se refere o número anterior o INTF terá em conta toda a informação disponível, incluindo a que obtenha por via do exercício dos seus poderes de fiscalização e a que lhe seja disponibilizada, para o efeito, pelo gestor da infra-estrutura.
+
+9 - O INTF, ouvido o Ministério das Finanças, pode, mediante decisão fundamentada e em casos excepcionais que o justifiquem, fixar, por um prazo determinado, o nível de custos admissíveis para efeitos de cálculo da tarifa-base.
+
+10 - As tarifas são divulgadas antecipadamente, sob a forma de tabelas, e constam do directório da rede.
+
+11 - As tabelas discriminarão os valores das tarifas por tipo de serviço e parte de rede utilizável.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 55.º — Âmbito de aplicação dos princípios
+
+1 - As tarifas ou preços a cobrar pelos serviços auxiliares e adicionais não estão sujeitas aos princípios enunciados no artigo anterior.
+
+2 - As tarifas ou preços a cobrar pelos serviços referidos no número anterior, quando os mesmos sejam oferecidos por um único prestador de serviços, que pode ser o gestor da infra-estrutura, não podem exceder o custo da sua prestação, com base no nível real de utilização.
+
+3 - Quando se trate de serviços referidos na alínea d) do n.º 1 do artigo 28.º, a definição das tarifas ou preços a cobrar deverá ter em conta a situação concorrencial dos transportes ferroviários.
+
+4 - O disposto nos números anteriores não se aplica nos casos em que as tarifas ou preços relativos à prestação de serviços adicionais ou auxiliares sejam fixados por autoridade administrativa legalmente competente, ou ao abrigo de regras por ela emitidas.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+##### Subsecção III — Tarifas para recuperação total de custos e recuperação de investimento
+
+###### Artigo 56.º — Tarifas para recuperação total de custos
+
+1 - O gestor da infra-estrutura pode criar tarifas para recuperação total de custos que assegurem a plena recuperação dos custos de exploração da infra-estrutura, sem prejuízo do disposto no n.º 7 do artigo 54.º
+
+2 - As tarifas para recuperação total de custos só podem ser fixadas quando as condições de mercado o permitam.
+
+3 - As tarifas para recuperação total de custos respeitarão, nomeadamente, os seguintes princípios:
+
+a) Não deverão prejudicar a competitividade do transporte ferroviário, nomeadamente do transporte ferroviário internacional de mercadorias;
+
+b) Serão calculadas com base em princípios eficazes, transparentes e não discriminatórios;
+
+c) Serão calculadas por forma a não absorverem os aumentos de produtividade das empresas de transporte ferroviário.
+
+4 - As tarifas para recuperação total de custos não podem implicar a exclusão da utilização da infra-estrutura por parte de operadores que prestem serviços em segmentos de mercado que possam suportar a tarifa-base, acrescida, se o mercado o permitir, de uma taxa de rentabilidade.
+
+5 - As tarifas previstas no n.º 1 constarão do directório da rede e vigoram pelo período deste, só podendo ser alteradas no âmbito da emissão de um novo documento.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 57.º — Isenção ou abatimentos
+
+1 - Os operadores que prestem serviços de transporte ferroviário em segmentos de mercado que possam suportar a tarifa-base podem requerer abatimentos ou isenções às tarifas para recuperação total de custos aplicáveis a esses segmentos, ao abrigo do disposto no n.º 4 do artigo anterior.
+
+2 - Os pedidos de abatimentos ou isenções a que se refere o número anterior são decididos pelos Ministros das Finanças e da tutela, sob parecer obrigatório do INTF.
+
+3 - Na decisão sobre os pedidos de abatimentos e isenções a que se refere o número anterior, e, nomeadamente, no que respeita ao quantitativo do abatimento, o INTF terá em conta o tipo de serviço prestado no segmento de mercado em causa e as condições em que o mesmo é prestado.
+
+4 - Se a decisão favorável do pedido de abatimento ou isenção de tarifas para recuperação total de custos não for suficiente para viabilizar a prestação do serviço, nomeadamente nos casos em que o operador também não consegue suportar a tarifa-base, o pedido deve ser indeferido.
+
+5 - O diferencial nas receitas do gestor da infra-estrutura resultante da aplicação de abatimentos ou isenções às tarifas para recuperação total de custos será compensado pelo Estado por forma a manter o equilíbrio financeiro do gestor da infra-estrutura assegurado pelo artigo 63.º
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 58.º — Tarifa para recuperação de investimento
+
+1 - Nos casos em que o gestor da infra-estrutura venha a suportar os custos a longo prazo decorrentes de projectos específicos de investimento por si decididos ou suportados, executados até 15 anos antes da data de entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0014" title="Link para Directiva da Comunidade Europeia">2001/14/CE</a>, ou que venham a ser objecto de planos de investimento específico, as tarifas aplicáveis a esses troços podem reflectir os custos dos investimentos, não se considerando como tal os custos financeiros, desde que se verifique, cumulativamente:
+
+a) Que os referidos projectos aumentam a eficácia ou a relação custo-eficácia da exploração ferroviária;
+
+b) Que os referidos projectos, de outro modo, não pudessem ter sido ou possam ser realizados.
+
+2 - A faculdade prevista no número anterior pode ser acompanhada de acordos sobre a partilha de riscos associados aos novos investimentos entre o gestor da infra-estrutura e os operadores que a utilizem.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+##### Subsecção IV — Descontos e regimes especiais
+
+###### Artigo 59.º — Descontos
+
+1 - O gestor da infra-estrutura não pode efectuar descontos às tarifas calculadas com respeito das regras a que se refere o n.º 2 do artigo 52.º, excepto quando os mesmos:
+
+a) Se limitem a reflectir a economia real de custos administrativos realizada pelo gestor da infra-estrutura na disponibilização da mesma, desde que não esteja já reflectida no cálculo das tarifas; ou
+
+b) Se destinem a incentivar o desenvolvimento de novos serviços ferroviários; ou
+
+c) Se destinem a incentivar a utilização de linhas consideravelmente subutilizadas.
+
+2 - A aplicação de descontos pelo gestor da infra-estrutura deve garantir o cumprimento das regras nacionais e comunitárias em matéria de concorrência.
+
+3 - Nos casos previstos nas alíneas b) e c) do n.º 1, os descontos devem estar disponíveis para todos os utilizadores da infra-estrutura, serem destinados a fluxos de tráfego determinados e vigorarem por períodos de tempo limitados.
+
+4 - Os descontos incidem sempre sobre as tarifas aplicadas a uma secção específica da infra-estrutura.
+
+5 - Os descontos constam obrigatoriamente no directório da rede e serão disponibilizados a todos os operadores que efectuem serviços semelhantes nos troços abrangidos.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 60.º — Regime de melhoria de desempenho
+
+1 - O gestor da infra-estrutura pode prever mecanismos associados às tarifas pela utilização da infra-estrutura que correspondam a um regime de melhoria de desempenho, nomeadamente por via da minimização das perturbações à circulação, nos termos que vierem a ser definidos pela regulamentação a que se refere o n.º 2 do artigo 52.º
+
+2 - O regime referido no número anterior pode incluir:
+
+a) Sanções de natureza contratual para actos que perturbem o funcionamento da rede;
+
+b) Compensações para as empresas afectadas pelas perturbações;
+
+c) Prémios para os desempenhos superiores às previsões.
+
+3 - O regime de melhoria de desempenho consta do directório da rede e é disponibilizado a todos os operadores de forma não discriminatória.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 61.º — Sistemas de compensação de custos ambientais, de acidentes e de infra-estrutura não cobertos
+
+1 - Poderá ser criado um sistema de compensação pela utilização da infra-estrutura ferroviária, por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.
+
+2 - O sistema de compensação poderá abranger custos ambientais, de acidentes e da infra-estrutura comprovadamente não cobertos nos modos de transporte concorrentes, desde que, cumulativamente:
+
+a) Esses custos excedam os custos equivalentes do caminho de ferro;
+
+b) O sistema vigore por um período de tempo limitado, previamente definido;
+
+c) Quando uma compensação seja atribuída a um operador que goze de um direito exclusivo, a mesma seja acompanhada de benefícios comparáveis para os utilizadores;
+
+d) A metodologia de cálculo da compensação seja tornada pública antecipadamente, por forma a demonstrar quais os custos específicos da infra-estrutura de transporte concorrente não cobertos, que o transporte ferroviário permite evitar;
+
+e) O sistema seja disponibilizado a todas as empresas em condições semelhantes e não discriminatórias.
+
+3 - O sistema de compensação criado pela portaria conjunta a que se refere o n.º 1 constará do directório da rede e vigora pelo período deste, só podendo ser alterado no âmbito da emissão de um novo documento.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+##### Subsecção V — Obrigações de informação
+
+###### Artigo 62.º — Obrigações de informação
+
+1 - O gestor da infra-estrutura está obrigado a apresentar, quando tal lhe seja solicitado pelo INTF, toda a informação necessária para atestar a conformidade dos procedimentos adoptados com a legislação e regulamentação em vigor.
+
+2 - As informações fornecidas no âmbito do número anterior devem habilitar o INTF a avaliar a conformidade das tarifas cobradas com o presente diploma, com a regulamentação a que se refere o n.º 2 do artigo 52.º, com o directório da rede e com as recomendações ou instruções que venham a ser emitidas pela mesma entidade.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+### Capítulo V — Financiamento do serviço público de gestão da infra-estrutura
+
+###### Artigo 63.º — Equilíbrio de contas do gestor da infra-estrutura
+
+1 - As contas do gestor da infra-estrutura devem apresentar um equilíbrio entre:
+
+a) Os proveitos provenientes das tarifas pela utilização da infra-estrutura, os excedentes provenientes de outras actividades comerciais e o financiamento estatal, se necessário por via de pagamentos adiantados; e
+
+b) Os custos incorridos com a construção, o financiamento, a gestão, a manutenção, a conservação e a disponibilização da infraestrutura.
+
+2 - Sem prejuízo do eventual objectivo a longo prazo, de cobertura tendencial, pelo utilizador, dos custos de infra-estrutura, em todos os modos de transporte com base numa concorrência intermodal equitativa e não discriminatória, sempre que o transporte ferroviário esteja em condições de concorrer com outros modos de transporte, nomeadamente quando exista um nível equivalente de internalização dos custos ambientais nos outros modos de transporte, no quadro da tarifação prevista no presente capítulo, o gestor da infra-estrutura deve atingir o equilíbrio referido no n.º 1 sem beneficiar de financiamento estatal.
+
+3 - Para aferição do equilíbrio referido no n.º 1 e como forma de determinar a necessidade de compensações por parte do Estado ao gestor da infraestrutura deve ser adotado um método de contabilização que demonstre, de forma transparente, os proveitos advenientes das tarifas pela utilização da infraestrutura, os excedentes provenientes de outras atividades comerciais e os custos com as atividades de construção, financiamento, gestão, manutenção, conservação e disponibilização da infraestrutura.
+
+4 - (Revogado).
+
+5 - O gestor da infraestrutura pode ser incentivado, tendo devidamente em conta as exigências de segurança e a preservação e melhoria da qualidade de serviço da infraestrutura, à redução dos custos de fornecimento da infraestrutura e do nível das tarifas de acesso à mesma.
+
+6 - Os incentivos referidos no número anterior são atribuídos no âmbito de contratos-programa de investimento celebrados entre o gestor da infra-estrutura e o Estado, por um prazo mínimo de três anos, dos quais constem:
+
+a) Os termos em que é atribuído o incentivo;
+
+b) Os prazos dos pagamentos a suportar pelo Estado;
+
+c) O período de execução do contrato-programa.
+
+7 - (Revogado).
+
+8 - Os custos extraordinários decorrentes de calamidade natural deverão ser compensados pelo Estado.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+### Capítulo VI — Segurança
+
+#### Secção I — Da Autoridade Nacional de Segurança Ferrovária
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 63.º-A — Autoridade Nacional de Segurança Ferroviária
+
+1 - O IMT, I. P., é o organismo nacional responsável pelas tarefas relacionadas com a segurança ferroviária, nos termos do disposto no presente decreto-lei.
+
+2 - Cabe genericamente ao organismo responsável pela segurança ferroviária garantir a manutenção geral da segurança ferroviária e, sempre que tal seja razoavelmente possível, o seu reforço constante, tendo em conta a evolução da legislação europeia e o progresso técnico e científico e dando prioridade à prevenção de acidentes.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 63.º-B — Competências da Autoridade Nacional de Segurança Ferroviária
+
+1 - À autoridade responsável pela segurança ferroviária compete, designadamente:
+
+a) Autorizar a entrada em serviço dos subsistemas estruturais que constituem o sistema ferroviário de acordo com as regras relativas à interoperabilidade do sistema ferroviário e verificar se são explorados e mantidos em conformidade com os requisitos essenciais aplicáveis;
+
+b) Verificar se os componentes de interoperabilidade estão em conformidade com os requisitos essenciais previstos na legislação aplicável;
+
+c) Autorizar a colocação em serviço de material circulante novo ou substancialmente alterado que ainda não se encontre abrangido por uma ETI;
+
+d) Emitir, renovar, alterar e fazer cessar os certificados de segurança e as autorizações de segurança e verificar se estão satisfeitas as condições e os requisitos neles previstos e se as atividades dos gestores da infraestrutura e das empresas ferroviárias estão em conformidade com os requisitos estabelecidos na legislação nacional e comunitária;
+
+e) Controlar, promover e, se necessário, fazer aplicar e desenvolver o quadro regulamentar de segurança, incluindo o sistema de normas de segurança nacionais;
+
+f) Assegurar que os veículos estejam devidamente registados no registo nacional de material circulante e que as informações de segurança, nele constantes, sejam exatas e estejam atualizadas;
+
+g) Analisar as recomendações que lhe sejam dirigidas pelo organismo de investigação de acidentes ferroviários e, se for caso disso, garantir que as mesmas são devidamente aplicadas;
+
+h) Emitir instruções vinculativas e recomendações em matéria de segurança ferroviária.
+
+2 - As funções mencionadas no número anterior não podem ser transferidas para o gestor da infraestrutura, uma empresa ferroviária ou uma entidade adjudicante, nem com estes ser contratadas.
+
+3 - Para efeitos do disposto na alínea h) do n.º 1, e sem prejuízo do disposto no artigo seguinte, as instruções vinculativas são notificadas aos destinatários e publicitadas no sítio na Internet da autoridade nacional de segurança ferroviária.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 63.º-C — Princípios aplicáveis à tomada de decisão
+
+1 - As funções a desempenhar pela autoridade responsável pela segurança ferroviária devem respeitar os princípios gerais de direito administrativo, devendo em especial:
+
+a) Permitir que todas as partes sejam ouvidas e fundamentar as suas decisões;
+
+b) Responder com prontidão aos pedidos e requerimentos, comunicar os seus pedidos de informação atempadamente e tomar as suas decisões no prazo de quatro meses após ter sido fornecida toda a informação solicitada.
+
+2 - No desempenho das suas funções a autoridade responsável pela segurança ferroviária pode pedir a assistência técnica ao gestor da infraestrutura e das empresas ferroviárias ou de outros organismos qualificados.
+
+3 - No processo de elaboração do quadro regulamentar nacional, a autoridade responsável pela segurança deve consultar todas as entidades envolvidas e as partes interessadas, incluindo o gestor da infraestrutura, as empresas ferroviárias, os fabricantes e os prestadores de serviços de manutenção, os utentes e os representantes dos trabalhadores.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+#### Secção II — Dos sistemas de gestão de segurança
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 64.º — Responsabilidade em matéria de segurança
+
+1 - Os gestores da infra-estrutura e as empresas de transporte ferroviário são responsáveis, perante os utilizadores, os clientes, os próprios trabalhadores e terceiros, pela segurança da exploração da sua parte do sistema ferroviário e pelo controlo dos riscos associados, incluindo o fornecimento de material e a contratação de serviços.
+
+2 - A responsabilidade prevista no número anterior não afecta a responsabilidade de cada produtor, fornecedor de serviços de manutenção, detentor, prestador de serviços e entidade adjudicante de garantir que os veículos, instalações, equipamentos e materiais por eles fornecidos, bem como os serviços prestados, estão em conformidade com os requisitos e as condições de utilização indicados para o seu uso em segurança na exploração do sistema pelas empresas ferroviárias e os gestores da infra-estrutura.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2011-02-22
+
+> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 65.º — Sistemas de gestão de segurança
+
+1 - Os gestores da infra-estrutura e as empresas de transporte ferroviário estão obrigados a criar sistemas de gestão de segurança, tendo em conta as necessárias medidas de controlo dos riscos.
+
+2 - O sistema de gestão da segurança garante o controlo de todos os riscos associados à actividade do gestor da infra-estrutura ou da empresa de transporte ferroviário, tendo em conta, sempre que possível, os riscos decorrentes das actividades de outras partes, incluindo os riscos associados à prestação de serviços de manutenção, ao fornecimento de material e ao recurso a subcontratação a terceiros.
+
+3 - O sistema de gestão da segurança tem de estar em conformidade com as normas técnicas de segurança e com os requisitos de segurança enunciados nas ETI e garantir a aplicação dos MCS, para que o sistema ferroviário alcance, pelo menos, os OCS.
+
+4 - Para efeitos do número anterior, o sistema de gestão da segurança deve satisfazer os requisitos e incluir os elementos previstos no anexo III, adaptados ao carácter, dimensão e outras características da actividade desenvolvida.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º — Procedimentos comuns de emergência
+
+1 - Para o desenvolvimento dos sistemas de gestão da segurança, o gestor da infra-estrutura e as empresas de transporte ferroviário devem prestar mútua colaboração, nomeadamente para estabelecimento dos procedimentos comuns de emergência.
+
+2 - (Revogado).
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-A — Sistema de gestão de segurança dos gestores das infra-estruturas
+
+O sistema de gestão da segurança do gestor da infra-estrutura deve ainda ter em conta os efeitos da operação de diversas empresas de transporte ferroviário na infra-estrutura sob sua gestão e tomar providências que permitam a operação em conformidade com as ETI e as normas técnicas de segurança e com as condições estabelecidas no certificado de segurança daquelas empresas.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2007-06-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-B — Aprovação dos sistemas de gestão da segurança
+
+1 - A aprovação dos sistemas de gestão da segurança cabe ao IMTT.
+
+2 - O IMTT aprova ou recusa a aprovação dos sistemas de gestão da segurança no prazo de 30 dias após a recepção da totalidade da documentação.
+
+3 - O IMTT pode solicitar elementos adicionais ou a revisão, parcial ou total, dos sistemas de gestão da segurança que lhe sejam presentes e, bem assim, determinar em qualquer momento a sua revisão, suspensão ou revogação, desde que com fundamento em perigo para a segurança da exploração ferroviária.
+
+4 - (Revogado).
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-C — Relatório de aplicação do sistema de gestão da segurança
+
+O gestor da infra-estrutura e as empresas de transporte ferroviário devem apresentar anualmente ao IMTT, antes de 30 de Junho, um relatório sobre a segurança respeitante ao ano civil anterior, que inclui, designadamente:
+
+a) Informação sobre o cumprimento dos objectivos de segurança da organização e os resultados dos planos de segurança;
+
+b) A elaboração de indicadores de segurança nacionais e dos indicadores comuns de segurança, previstos no anexo V, na medida em que sejam relevantes para a organização que apresenta o relatório;
+
+c) Os resultados das auditorias de segurança internas;
+
+d) Observações sobre deficiências e funcionamento incorrecto das operações ferroviárias e da gestão da infra-estrutura que possam ser importantes para a avaliação dos níveis de segurança.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2007-06-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+#### Secção III — Da certificação e autorização de segurança
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+##### Subsecção I — Certificação de segurança
+
+> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-D — Certificado de segurança
+
+1 - O acesso e utilização da infra-estrutura ferroviária por parte das empresas de transporte ferroviário dependem da titularidade de um certificado de segurança.
+
+2 - A titularidade do certificado de segurança atesta que a empresa de transporte ferroviário criou o seu sistema de gestão da segurança nos termos previstos no presente decreto-lei e está apta a cumprir os requisitos previstos nas ETI, noutra legislação comunitária aplicável, e nas normas técnicas de segurança.
+
+3 - O certificado de segurança é emitido para toda a rede ou apenas para uma parte limitada da mesma, tendo em conta o âmbito das actividades da empresa de transporte ferroviário requerente, especificando o tipo e o âmbito das operações ferroviárias abrangidas.
+
+4 - O certificado de segurança compreende duas partes:
+
+a) Parte A - respeitante à demonstração da existência de um sistema de gestão da segurança aprovado;
+
+b) Parte B - a certificação da aceitação das disposições adoptadas pela empresa ferroviária para dar cumprimento aos requisitos específicos necessários à prestação dos seus serviços na rede em causa em condições de segurança, podendo esses requisitos dizer respeito à aplicação das ETI e das normas de segurança nacionais, incluindo as normas de exploração da rede, a aceitação dos certificados do pessoal e a autorização de pôr em serviço os veículos utilizados pelas empresas ferroviárias, devendo a certificação basear-se na documentação apresentada pela empresa ferroviária em conformidade com o regulamento a que se refere o artigo 66.º-I do presente decreto-lei.
+
+5 - Quando se trate de empresa de transporte ferroviário titular de certificado de segurança emitido noutro Estado membro e que pretenda aceder à rede nacional para prestar serviços equivalentes àqueles para que já se encontra certificada, é apenas exigida a demonstração dos aspectos mencionados na alínea b) do número anterior.
+
+6 - O objectivo do certificado de segurança é comprovar que a empresa ferroviária criou o seu sistema de gestão da segurança e está apta a cumprir os requisitos previstos nas ETI, noutra legislação comunitária aplicável e nas normas de segurança nacionais, a fim de controlar os riscos e de prestar serviços de transporte na rede de forma segura.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-E — Emissão, renovação, alteração, revisão, suspensão, revogação e cassação do certificado de segurança
+
+1 - Compete ao IMTT a emissão, renovação, alteração, revisão, suspensão, revogação e cassação dos certificados de segurança ou de parte destes.
+
+2 - O certificado de segurança é válido pelo período nele fixado, nunca superior a cinco anos, sendo renovado mediante pedido do titular.
+
+3 - A renovação depende da verificação dos requisitos aplicáveis à emissão do certificado de segurança.
+
+4 - O certificado de segurança deve ser alterado, total ou parcialmente, sempre que o tipo ou âmbito da exploração seja substancialmente alterado.
+
+5 - O titular do certificado de segurança deve informar o IMTT, no prazo máximo de 10 dias úteis, de todas as alterações significativas nas condições que determinaram a emissão do certificado de segurança, nomeadamente sempre que existam factos com impacte no sistema de gestão da segurança e sempre que sejam introduzidas novas categorias de pessoal ou novos tipos de material circulante.
+
+6 - Quando ocorram alterações substanciais do quadro regulamentar da segurança que tenham impacte sobre as condições que determinaram a emissão do certificado de segurança, o IMTT, oficiosamente, determina a revisão do mesmo.
+
+7 - O IMTT pode suspender, total ou parcialmente, o certificado de segurança até à decisão da sua alteração ou revogação, quando esteja em causa um perigo sério, imediato e relevante para a segurança do sistema.
+
+8 - Caso constate que o titular do certificado de segurança deixou de satisfazer as condições necessárias para a certificação emitida, o IMTT revoga, em acto devidamente fundamentado, as partes A e ou B do certificado de segurança.
+
+9 - Quando seja revogada a parte B do certificado de segurança, o acto é comunicado à entidade que concedeu a certificação da parte A.
+
+10 - Quando verifique que, no ano seguinte ao da emissão do certificado de segurança, o titular não fez dele o uso previsto, o IMTT pode decretar a cassação do certificado de segurança.
+
+11 - O IMTT comunica à Agência Ferroviária Europeia a emissão, a renovação, a alteração, a revogação ou a cassação de certificados de segurança, no prazo de 30 dias após a prática do acto.
+
+12 - A comunicação a que se refere o número anterior inclui a denominação e o endereço da empresa de transporte ferroviário, a data de emissão, o âmbito e a validade do certificado de segurança ou da autorização de segurança e, em caso de revogação, as razões da decisão.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-F — Material circulante em utilização
+
+1 - Compete ao IMTT autorizar a colocação em serviço do material circulante que, embora autorizado por uma parte B de certificado de segurança emitido por outro Estado membro, não esteja totalmente abrangido pelas ETI aplicáveis.
+
+2 - O pedido, a apresentar ao IMTT, para a autorização de colocação em serviço de material circulante em utilização deve indicar a sua utilização prevista na rede e ser instruído com a documentação técnica nos termos do anexo IV.
+
+3 - O IMTT decide dos pedidos referidos no número anterior em prazo inferior a quatro meses, contados da recepção da documentação técnica completa.
+
+4 - O IMTT pode incluir, no certificado de autorização, condições de utilização e outras restrições.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Revogado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+##### Subsecção II — Autorização de segurança
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-G — Autorização de segurança
+
+1 - O exercício das actividades de gestão e exploração da infra-estrutura por parte do gestor da mesma depende da obtenção de uma autorização de segurança.
+
+2 - A autorização de segurança compreende duas partes:
+
+a) Parte A: respeitante à demonstração da existência de um sistema de gestão da segurança aprovado;
+
+b) Parte B: respeitante à demonstração do cumprimento dos requisitos específicos necessários à segurança da concepção, manutenção e exploração da infra-estrutura ferroviária, incluindo, se aplicável, a manutenção e a exploração do sistema de controlo de tráfego e de sinalização.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-H — Emissão, renovação, alteração, revisão, suspensão e revogação da autorização de segurança
+
+1 - Compete ao IMTT a emissão, renovação, alteração, revisão, suspensão e revogação das autorizações de segurança ou de partes destas.
+
+2 - A autorização de segurança é válida pelo período nela fixado, nunca superior a cinco anos, sendo renovada mediante pedido do titular.
+
+3 - A renovação depende da verificação dos requisitos aplicáveis à emissão da autorização de segurança.
+
+4 - A autorização de segurança deve ser alterada, total ou parcialmente, sempre que sejam substancialmente alterados os pressupostos da sua emissão, nomeadamente quando ocorram alterações relevantes na infra-estrutura, na sinalização, na alimentação de energia ou nos princípios a que obedecem a respectiva exploração e manutenção.
+
+5 - O titular da autorização de segurança deve informar o IMTT, no prazo máximo de 10 dias úteis, de todas as alterações mencionadas no número anterior.
+
+6 - Quando ocorram alterações substanciais do quadro regulamentar da segurança que tenham impacte sobre as condições que determinaram a emissão da autorização de segurança, o IMTT determina, oficiosamente, a revisão da mesma.
+
+7 - O IMTT revoga a autorização de segurança caso considere que o seu titular deixou de satisfazer as condições necessárias para a sua manutenção.
+
+8 - O IMTT pode suspender, total ou parcialmente, a autorização de segurança até à decisão da sua alteração ou revogação, quando esteja em causa perigo sério, imediato e relevante para a segurança do sistema.
+
+9 - O IMTT comunica à Agência Ferroviária Europeia a emissão, a renovação, a alteração ou a revogação de autorizações de segurança, no prazo de 30 dias após a prática do acto.
+
+10 - A comunicação a que se refere o número anterior inclui a denominação e o endereço do gestor da infra-estrutura, a data de emissão, o âmbito e a validade do certificado de segurança ou da autorização de segurança e, em caso de revogação, as razões da decisão.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+##### Subsecção III — Da emissão de certificados e autorizações de segurança
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-I — Procedimento de emissão
+
+1 - O IMTT estabelece, por regulamento, os procedimentos para a emissão de certificado de segurança ou de autorização de segurança.
+
+2 - O regulamento referido no número anterior contém:
+
+a) A descrição e explicação dos requisitos a satisfazer e a enumeração dos documentos a apresentar, tendo em especial atenção o tratamento a dar aos pedidos de empresas de transporte ferroviário de outros Estados membros;
+
+b) A discriminação dos requisitos a considerar para efeitos de cumprimento do disposto na alínea b) do n.º 4 do artigo 66.º-D e na alínea b) do n.º 2 do artigo 66.º-G.
+
+3 - O IMTT decide os pedidos de certificação de segurança e de autorização de segurança, obrigatoriamente apresentados em língua portuguesa, em prazo inferior a quatro meses, contados da recepção de todas as informações necessárias e de quaisquer informações adicionais que tenha solicitado.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-J — Taxas
+
+1 - Pela prática de actos em matéria de certificados de segurança e de autorizações de segurança são devidas taxas.
+
+2 - As taxas a que se refere o número anterior constituem receita própria do IMTT e o seu montante e forma de pagamento são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+##### Subsecção IV — Da formação do pessoal com funções relevantes para a segurança da exploração
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-L — Formação do pessoal com funções relevantes para a segurança da exploração
+
+1 - Até à aprovação de um regime legal que discipline o acesso à profissão do pessoal das empresas de transporte ferroviário e do gestor da infra-estrutura, cujas funções são relevantes para a segurança da exploração, e para efeitos da obtenção do certificado de segurança e da autorização de segurança, aplicar-se-ão as regras a fixar por regulamento do IMTT.
+
+2 - O regulamento referido no número anterior disporá sobre a formação, os exames e a concessão de certificados.
+
+3 - Os exames e a concessão de certificados serão assegurados por entidade diversa da que presta formação, devidamente acreditada pelo IMTT ou, na falta de tal entidade, pelo próprio IMTT que pode, para o efeito, requisitar os meios técnicos necessários às empresas do sector.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-M — Acesso a estruturas de formação
+
+1 - Cabe ao IMTT garantir que as empresas têm acesso equitativo e não discriminatório às estruturas de formação de pessoal com funções relevantes para a segurança da exploração.
+
+2 - Quando tal se mostre necessário pode o IMTT impor às empresas do sector que coloquem à disposição de outras, a um preço razoável e não discriminatório, que deverá estar relacionado com os custos e que poderá incluir uma margem de lucro, os seus serviços próprios de formação.
+
+3 - Os trabalhadores das empresas de transporte ferroviário e do gestor da infra-estrutura têm direito a que lhes seja facultada toda a documentação relativa à sua formação, qualificações e experiência.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+##### Subsecção V — Das normas técnicas de segurança
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-N — Normas técnicas de segurança
+
+1 - O IMTT aprova e publica as normas técnicas de segurança, que estabelecem os requisitos de segurança ferroviária, e garante a sua aplicação e implementação de forma transparente e não discriminatória.
+
+2 - No exercício da competência prevista no número anterior, o IMTT tem em conta a necessidade de conformar as normas técnicas de segurança aos MCS e aos OCS definidos a nível comunitário.
+
+3 - As normas de segurança são notificadas aos destinatários e publicitadas no sítio na Internet da autoridade nacional de segurança ferroviária.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-O — Relatório anual de segurança
+
+1 - O IMTT elabora um relatório anual de segurança.
+
+2 - O relatório anual de segurança inclui, nomeadamente, a seguinte informação:
+
+a) A evolução da segurança ferroviária, incluindo informação sobre os indicadores comuns de segurança, estabelecidos de acordo com o previsto no anexo V;
+
+b) Alterações importantes da legislação e da regulamentação em matéria de segurança ferroviária;
+
+c) A evolução da certificação de segurança e da autorização de segurança;
+
+d) Os resultados da supervisão dos gestores das infra-estruturas e das empresas ferroviárias, bem como a experiência adquirida com essa supervisão.
+
+e) Sobre as isenções concedidas ao abrigo do disposto nos n.os 4 a 6 do artigo 66.º-S do presente decreto-lei.
+
+3 - O IMTT envia à Agência Ferroviária Europeia o relatório anual de segurança, até ao dia 30 de Setembro do ano seguinte ao ano a que respeita.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-P — Obrigações de notificação e comunicação
+
+1 - A emissão e alteração de normas técnicas de segurança, bem como o respectivo processo de elaboração e publicitação, são notificados pelo IMTT à Comissão Europeia e à Agência Ferroviária Europeia.
+
+2 - Quando a norma técnica de segurança exija um nível de segurança superior ao dos OCS ou possa afectar a actividade de empresas de transporte ferroviário de outros Estados membros em território nacional, deve o IMTT proceder a consulta às partes interessadas e remeter a norma de segurança para apreciação da Comissão Europeia.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 66.º-Q — Retificação aos relatórios de segurança
+
+Para os efeitos dos artigos 66.º-C e 66.º-O do presente decreto-lei, caso sejam detectados novos factos ou erros após a apresentação do relatório anual de segurança, o Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), ou as empresas de transporte ferroviário, devem alterar ou corrigir os indicadores, o mais tardar até à apresentação do relatório anual seguinte.»
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2010 - Diário da República n.º 111/2010, Série I de 2010-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2010-335456), em vigor a partir de 2010-06-14
+
+###### Artigo 66.º-R — Manutenção de veículos
+
+1 - Antes de entrar em serviço ou de ser utilizado na rede, a cada veículo é atribuída uma entidade responsável pela manutenção, a qual deve estar registada no RMN, de acordo com o disposto na regulamentação relativa à interoperabilidade do sistema ferroviário.
+
+2 - A entidade responsável pela manutenção pode ser uma empresa ferroviária, um gestor de infra-estrutura ou um detentor.
+
+3 - Sem prejuízo da responsabilidade das empresas ferroviárias e dos gestores de infra-estrutura pela operação segura de uma composição, tal como previsto no artigo 64.º do presente decreto-lei, a entidade deve assegurar, por meio de um sistema de manutenção, que os veículos por cuja manutenção é responsável se encontrem em condições seguras para circular, devendo para esse efeito a entidade responsável pela manutenção garantir que a manutenção dos veículos seja efectuada de acordo com:
+
+a) O registo de manutenção de cada veículo;
+
+b) Os requisitos em vigor, incluindo as regras de manutenção e as disposições relativas às ETI.
+
+4 - A entidade responsável pela manutenção pode efectuar a manutenção ou recorrer a oficinas de manutenção contratadas.
+
+5 - No caso de vagões de mercadorias, cada entidade responsável pela manutenção é certificada por um organismo acreditado ou reconhecido de acordo com o n.º 7, ou pelo IMTT, I. P., devendo o processo de acreditação basear-se em critérios de independência, competência e imparcialidade, tais como as normas europeias relevantes da série EN 45000.
+
+6 - O processo de reconhecimento a que se refere o número anterior deve basear-se em critérios de independência, competência e imparcialidade.
+
+7 - Sempre que a entidade responsável pela manutenção for uma empresa ferroviária ou um gestor de infra-estrutura, o cumprimento dos critérios a adoptar ao abrigo do disposto no artigo seguinte deve ser verificado pelo IMTT, I. P., de acordo com os procedimentos referidos nos artigos 66.º-D ou 66.º-G do presente decreto-lei, e ser confirmado nos certificados especificados nesses procedimentos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Aditado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+###### Artigo 66.º-S — Sistema de certificação da manutenção
+
+1 - Após a aprovação, pela Comissão Europeia, de uma medida que estabeleça um sistema de certificação da entidade responsável pela manutenção dos vagões de mercadorias, os certificados emitidos de acordo com aquele sistema devem confirmar o cumprimento dos requisitos referidos no n.º 3 do artigo anterior.
+
+2 - A medida referida no número anterior pode vir a ser extensível a todos os veículos após avaliação da sua implementação.
+
+3 - Os certificados emitidos nos termos dos números anteriores são válidos em toda a União Europeia.
+
+4 - O IMTT, I. P., pode cumprir as obrigações de identificação e certificação da entidade responsável pela manutenção através de medidas alternativas, nos seguintes casos:
+
+a) Veículos registados num país terceiro cuja manutenção é efectuada de acordo com a legislação desse país;
+
+b) Veículos utilizados em redes ou linhas cujo gabarito é diferente do da rede principal na UE e para os quais o cumprimento dos requisitos referidos no n.º 3 do artigo anterior são assegurados por acordos internacionais com países terceiros;
+
+c) Veículos históricos, equipamento militar e transportes especiais que requerem a emissão de uma autorização ad hoc do IMTT, I. P., antes de entrarem em serviço, sendo neste caso as derrogações concedidas por períodos máximos de cinco anos.
+
+5 - As medidas referidas no número anterior são aplicadas através de derrogações a conceder pelo IMTT, I. P.:
+
+a) No acto de registo dos veículos nos termos do disposto na regulamentação relativa à interoperabilidade do sistema ferroviário, no que diz respeito à identificação da entidade responsável pela manutenção;
+
+b) No acto de emissão dos certificados de segurança e das autorizações a empresas ferroviárias e gestores de infra-estrutura nos termos dos artigos 66.º-D e 66.º-G do presente decreto-lei, no que diz respeito à identificação ou certificação da entidade responsável pela manutenção.
+
+6 - As derrogações referidas no número anterior são identificadas e justificadas no relatório anual de segurança referido no artigo 66.º-O do presente decreto-lei.
+
+> Aditado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 27/2011 - Diário da República n.º 34/2011, Série I de 2011-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2011-279843), em vigor a partir de 2011-02-22
+
+### Capítulo VII — Regulação e regulamentação
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+###### Artigo 67.º — Exercício dos poderes de regulação e regulamentação
+
+1 - Os regulamentos do IMT, I. P., e da AMT emitidos ao abrigo do presente diploma, nas áreas de competência de cada uma das entidades, tal como definidas nos Decretos-Leis n.os 77/2014 e 78/2014, de 14 de maio, respetivamente, devem observar os princípios da legalidade, da necessidade, da clareza, da participação e da publicidade.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+8 - [Revogado].
+
+9 - Sobre esta matéria aplicam-se as disposições próprias previstas nos diplomas referidos no n.º 1.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 68.º — Poderes de fiscalização
+
+1 - Os poderes de fiscalização do cumprimento do disposto no presente diploma competem ao IMT, I. P., e à AMT nos termos previstos nos Decretos-Leis n.os 77/2014 e 78/2014, de 14 de maio, respetivamente.
+
+2 - As regras processuais aplicáveis a esta matéria são as previstas nos diplomas referidos no número anterior.
+
+3 - Para efeitos do disposto no número anterior o IMT, I. P., e a AMT dispõem de:
+
+a) Direito de acesso às instalações;
+
+b) Direito de acesso a documentos;
+
+c) Direito de livre interpelação e audição de pessoal.
+
+4 - Pelo exercício da competência referida no n.º 1, pode o IMT, I. P., e a AMT cobrar os respetivos custos, devendo detalhar os mesmos.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 69.º — Promoção e defesa da concorrência
+
+1 - No âmbito da aplicação das regras de concorrência comunitárias ou nacionais, compete ao INTF colaborar com a Autoridade da Concorrência, podendo realizar estudos e outras análises dos mercados em causa e transmiti-los à Autoridade da Concorrência.
+
+2 - No âmbito das respectivas competências, as modalidades de cooperação entre o INTF e a Autoridade da Concorrência serão definidas por protocolo.
+
+3 - Sem prejuízo do disposto na legislação nacional e comunitária da concorrência, compete à AMT promover o respeito pela concorrência não falseada nos mercados dos serviços ferroviários abrangidos pelo presente diploma.
+
+4 - Em todas as matérias abrangidas pelo presente diploma relativamente às quais tenha competência, o INTF assegurará a conformidade das suas decisões com as regras nacionais e comunitárias de defesa da concorrência.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 70.º — Recursos
+
+1 - Qualquer interessado, discordando fundadamente do directório da rede ou dos critérios nele incluídos, pode apresentar recurso para o INTF no prazo de 15 dias úteis a contar da data do seu conhecimento.
+
+2 - Qualquer interessado, no prazo de 15 dias úteis a contar da data em que tenha conhecimento do facto, pode apresentar recurso junto do INTF do nível ou estrutura das tarifas devidas pela utilização da infra-estrutura que tenha pago ou possa vir a pagar.
+
+3 - Qualquer interessado que considere ter sido alvo de tratamento injusto ou discriminatório pode recorrer junto do INTF das decisões do gestor da infra-estrutura em matéria de atribuição de canais horários, incluindo decisão de pedidos pontuais, no prazo de 15 dias úteis a contar da data de comunicação referida no artigo 48.º
+
+4 - Qualquer interessado que considere ter sido impedido do exercício pleno dos direitos de acesso previstos no artigo 20.º pode apresentar recurso para o IMTT.
+
+5 - No âmbito dos recursos apresentados ao abrigo do número anterior, o IMTT pode determinar a imposição de acesso em condições equitativas e não discriminatórias, aplicando-se o disposto no artigo 73.º, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 71.º — Procedimento para recurso
+
+1 - Os recursos a que se refere o artigo anterior são apresentados junto do gestor da infra-estrutura, com conhecimento ao INTF.
+
+2 - Compete ao gestor da infra-estrutura receber o recurso, remetendo-o ao INTF no prazo de 15 dias úteis.
+
+3 - O processo deve ser instruído pelo INTF com os seguintes elementos:
+
+a) Petição de recurso;
+
+b) Resposta do gestor da infra-estrutura ao recurso;
+
+c) Posição dos outros operadores de transporte ferroviário afectados pelo eventual deferimento do recurso, sendo esse o caso;
+
+d) Directório da rede;
+
+e) Pedido ou pedidos de canais horários indeferidos que sejam objecto de recurso, sendo esse o caso;
+
+f) Actas das reuniões entre o gestor da infra-estrutura e os operadores de transporte ferroviário em que a matéria objecto do recurso tenha sido tratada;
+
+g) Horário técnico aprovado, sendo esse o caso;
+
+h) Dados de base e cálculos levados a efeito para determinação da tarifação de uso das infra-estruturas, caso seja este o motivo do recurso.
+
+4 - O INTF solicita as informações que considere relevantes ao gestor da infra-estrutura, aos operadores de transporte ferroviário ou a terceiros.
+
+5 - O INTF decide o recurso no prazo de 30 dias úteis a contar da recepção do processo e de toda a informação relevante, confirmando ou determinando a alteração da decisão do gestor da infra-estrutura.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 72.º — Queixas
+
+1 - Aos candidatos ou partes interessadas que considerem ter-lhes sido recusado o acesso a serviços ou instalações, impostas condições não equitativas ou discriminatórias ou que tenham sido lesados de qualquer outra forma no âmbito do presente diploma assiste o direito de apresentar queixas ao INTF.
+
+2 - Caso, oficiosamente ou na sequência de queixa, o INTF constate a existência de evoluções negativas nos mercados dos serviços ferroviários abrangidos pelo âmbito do presente diploma, o INTF deve decidir, num prazo não superior a 60 dias úteis, sobre as medidas de correcção desses desenvolvimentos negativos, nomeadamente adoptando as medidas previstas no artigo seguinte ou, caso estas se afigurem insuficientes ou inadequadas, propondo à tutela sectorial alterações legislativas ou outras medidas que considere apropriadas.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 73.º — Imposição de acesso em condições equitativas e não discriminatórias
+
+1 - Caso constate, oficiosamente ou na sequência de reclamação, que uma ou mais empresas ou entidades que explorem as instalações ou prestem os serviços referidos no artigo 22.º recusaram injustificadamente esse acesso, o INTF pode determinar a concessão desse acesso em condições equitativas e não discriminatórias.
+
+2 - Para o exercício da competência referida no número anterior o INTF dispõe dos poderes de fiscalização previstos no artigo 68.º
+
+3 - Caso constate, oficiosamente ou na sequência de reclamação, que uma ou mais empresas que exploram as instalações ou prestam os serviços referidos no artigo 22.º concedem acesso a um requerente ou parte interessada mediante condições não equitativas ou discriminatórias, o INTF pode determinar que sejam observadas as condições equitativas e não discriminatórias em que deve ser assegurado o acesso.
+
+4 - A apresentação de qualquer queixa ou reclamação não tem efeito suspensivo.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+###### Artigo 74.º — Impugnação
+
+1 - As decisões de recursos e reclamações são vinculativas para todas as partes a que digam respeito, desde que as mesmas tenham tido oportunidade de intervir nos respectivos processos.
+
+2 - Das decisões do INTF cabe recurso para os tribunais, nos termos da lei.
+
+3 - O recurso previsto no número anterior não tem efeito suspensivo.
+
+###### Artigo 75.º — Instruções e recomendações
+
+1 - O INTF pode emitir instruções vinculativas e recomendações em matéria de execução do presente diploma.
+
+2 - O INTF dará às instruções e recomendações a adequada publicidade.
+
+###### Artigo 76.º — Publicidade
+
+1 - O INTF publica anualmente um relatório relativo à execução do presente diploma do qual constem, nomeadamente:
+
+a) O impacte do mesmo no desenvolvimento do sector;
+
+b) As licenças emitidas;
+
+c) As acções de fiscalização efectuadas e o resultado das mesmas;
+
+d) Os regulamentos de execução aprovados ou alterados;
+
+e) As recomendações ou instruções emitidas;
+
+f) As decisões tomadas em sede de reclamações ou recursos;
+
+g) Os processos contra-ordenacionais e as decisões neles proferidas.
+
+2 - O disposto no número anterior não prejudica o dever de sigilo do INTF quanto a matérias relacionadas com o segredo comercial ou industrial cuja divulgação deva ser considerada proibida.
+
+3 - Para efeitos do número anterior, o sigilo comercial abrange todas as informações relativas à empresa requerente que não estejam sujeitas a qualquer forma de registo ou publicidade obrigatória, que não sejam ou não tenham caído no conhecimento público ou que não tenham sido publicitadas em virtude da prática de um acto judicial.
+
+> Revogado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+### Capítulo VIII — Regime sancionatório
+
+###### Artigo 77.º — Contra-ordenações
+
+1 - Constituem contra-ordenações puníveis com coima de (euro) 10000 a (euro) 44800:
+
+a) A prestação do serviço público de transporte ferroviário de passageiros no território nacional sem concessão ou delegação para o efeito, quando exigidas nos termos da lei;
+
+b) Revogada;
+
+c) Revogada;
+
+d) Revogada;
+
+e) Revogada;
+
+f) Revogada;
+
+g) Revogada;
+
+h)Revogada;
+
+i) Revogada;
+
+j) Revogada;
+
+l) Revogada;
+
+m) Revogada;
+
+n) Revogada;
+
+o) Revogada;
+
+p) Revogada;
+
+q) Revogada;
+
+r) O incumprimento, por parte de entidades sujeitas aos poderes de fiscalização do IMT, I. P., e da AMT, da obrigação de apresentação de toda a documentação exigível, sempre que solicitada, ou a oposição, direta ou indireta, ao exercício daquela fiscalização;
+
+s) Revogada;
+
+t) Revogada;
+
+u) O incumprimento de decisões da AMT, de recursos ou reclamações;
+
+v) Revogada;
+
+x) Revogada;
+
+z) Revogada;
+
+2 - Constitui contra-ordenação, punível com coima de (euro) 1000 a (euro) 5000, o incumprimento, por parte das entidades sujeitas aos deveres de informação, das obrigações correspondentes que lhes incumbam por força do presente diploma.
+
+3 - A negligência é punível.
+
+4 - A abertura e instrução de processos por contra-ordenações previstas no presente artigo não depende de reclamação.
+
+> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 85/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2020-145102352), em vigor a partir de 2020-10-14, produz efeitos a partir de 2020-10-31
+
+> Alterado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 78.º — Instrução dos processos e aplicação das coimas
+
+1 - A instrução dos processos por contraordenações previstas no presente diploma compete ao IMT, I. P., ou à AMT, conforme as competências próprias de cada uma das entidades atribuídas pelo presente diploma.
+
+2 - A aplicação das coimas previstas no presente diploma compete respetivamente ao conselho diretivo ou ao conselho de administração das entidades referidas no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 79.º — Produto das coimas
+
+A afectação do produto das coimas faz-se da seguinte forma:
+
+a) 40 % para a entidade que aplicou a coima;
+
+b) 60% para o Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+### Capítulo IX — Disposições finais e transitórias
+
+#### Secção I — Disposições finais
+
+###### Artigo 80.º — Norma revogatória
+
+São revogados os seguintes diplomas e disposições:
+
+a) Os artigos 2.º, n.º 3, 7.º e 8.º do Decreto-Lei n.º 104/97, de 29 de Abril;
+
+b) O Decreto-Lei n.º 60/2000, de 19 de Abril;
+
+c) O Regulamento n.º 19/2000, de 24 de Agosto.
+
+###### Artigo 81.º — Alterações legislativas
+
+1 - (Revogado).
+
+2 -   (Revogado).
+
+3 -  (Revogado).
+
+4 - A alínea a) do n.º 2 do artigo 3.º dos Estatutos da REFER, E. P., aprovados pelo Decreto-Lei n.º 104/97, de 29 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) De cobrança de taxas e tarifas devidas pela utilização da infra-estrutura exigíveis nos termos da lei, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais, e constituindo títulos executivos as respectivas facturas, certidões de dívida ou documentos equivalentes, sem prejuízo do disposto no artigo 46.º do Código de Processo Civil;
+
+...»
+
+5 - A alínea a) do artigo 19.º dos Estatutos da REFER, E. P., aprovados pelo Decreto-Lei n.º 104/97, de 29 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 19.º
+
+[...]
+
+...
+
+a) As tarifas devidas pela utilização da infra-estrutura e outros proveitos resultantes do exercício da sua actividade e do aproveitamento da infra-estrutura, designadamente os resultantes de serviços e prestações acessórios e, bem assim, os emergentes do recurso aos meios previstos no Decreto-Lei n.º 269/92, de 28 de Novembro;
+
+...»
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+#### Secção II — Disposições transitórias
+
+###### Artigo 82.º — Licenciamento e certificação de segurança
+
+1 - As empresas que, à data de entrada em vigor do presente diploma, realizem já actividades de prestação de serviços de transporte ferroviário gozam da presunção de cumprimento dos requisitos a que se referem os artigos 10.º e 11.º
+
+2 - O disposto no número anterior aplica-se apenas ao primeiro processo de licenciamento e, exclusivamente, quanto aos tipos de licenças relativos ao transporte nacional.
+
+3 - O disposto no n.º 1 não exime as empresas nele abrangidas da obrigação de apresentação da documentação exigida na secção III do capítulo III para exame formal da entidade emitente.
+
+4 - A presunção estabelecida no n.º 1 pode, todavia, ser ilidida, a todo o tempo, mediante decisão fundamentada da entidade emitente da licença.
+
+5 - As licenças atribuídas nos termos do presente artigo estão sujeitas, no demais, ao regime geral previsto no capítulo III, podendo nomeadamente ser objecto de decisões de suspensão ou revogação ou emitidas sob condição.
+
+6 - Pela emissão das licenças ao abrigo do presente artigo são devidas as taxas fixadas nos termos do artigo 19.º
+
+7 - As empresas que, à data de entrada em vigor do presente diploma, realizem já actividades de prestação de serviços de transporte ferroviário dispõem de 12 meses para se adaptarem às disposições aplicáveis em matéria de certificação de segurança.
+
+8 - No prazo a que se refere o número anterior, as empresas podem continuar a prestar serviços de transporte ferroviário salvo quando, mediante decisão fundamentada do INTF, tal consubstancie um perigo para a segurança.
+
+9 - O prazo de 12 meses referido no n.º 7 conta-se a partir da data de entrada em vigor do regulamento previsto no artigo 66.º-I.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 83.º — Contratos de acesso à infra-estrutura e acordos quadro
+
+O disposto nos artigos 21.º e 49.º aplica-se imediatamente, com as necessárias adaptações, a acordos que, celebrados antes da entrada em vigor do presente diploma, visem a produção de efeitos jurídicos em momento posterior a essa entrada em vigor.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+###### Artigo 84.º — Directório da rede para o ano de 2004
+
+1 - O gestor da infra-estrutura publicará, no prazo de 30 dias a contar da data de entrada em vigor do presente diploma, uma versão definitiva e completa do directório da rede para o ano de 2004, incluindo um capítulo sobre tarifação.
+
+2 - Ficam salvaguardados os canais horários atribuídos a candidatos com base na legislação em vigor na data em que os mesmos foram solicitados, sem prejuízo da atribuição de capacidade a pedidos pontuais.
+
+3 - As tarifas a aplicar no ano de 2004, pelo gestor da infra-estrutura, são calculadas e aplicadas com base no disposto no presente diploma.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 85.º — Directório da rede para 2005
+
+1 - O gestor da infra-estrutura publicará, até dia 15 de Março de 2004, o directório da rede para o ano de 2005.
+
+2 - O directório da rede e o subsequente processo de repartição respeitam o disposto no presente diploma, com as seguintes alterações:
+
+a) Os candidatos deverão efectuar os seus pedidos até ao dia 15 de Maio de 2004;
+
+b) O processo de elaboração do horário técnico, incluindo a audição dos candidatos, deverá estar concluído no dia 14 de Dezembro de 2004;
+
+c) É aplicado no cálculo das tarifas o regime transitório constante da secção III do capítulo IX do presente diploma, nos termos previstos em legislação especial.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2004-273176), em vigor a partir de 2004-06-18
+
+###### Artigo 86.º — Taxa de regulação
+
+1 - As entidades gestoras da infra-estrutura de sistemas de metropolitano e metropolitano ligeiro de superfície pagam uma taxa pelo exercício genérico da actividade de regulação.
+
+2 - O montante da taxa é fixado por portaria conjunta dos membros do Governo responsáveis pela área das finanças e dos transportes, mediante proposta fundamentada do AMT, até 31 de Julho de cada ano.
+
+3 - A proposta referida no número anterior tem em conta, designadamente:
+
+a) A extensão da rede em exploração;
+
+b) O número de passageiros transportados;
+
+c) O número de circulações;
+
+d) A complexidade do sistema de metropolitano ou metropolitano ligeiro de superfície.
+
+4 - Na avaliação do critério constante da alínea d) do número anterior, deve ser considerado o grau de abertura ou fecho da rede e a eventual separação da entidade operadora do transporte da entidade gestora da infra-estrutura.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+#### Secção III — Regime transitório de tarifação pela utilização da infra-estrutura
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 87.º — Duração
+
+O presente regime transitório regula a aplicação de tarifas pela utilização da infra-estrutura no período compreendido entre a data de entrada em vigor do presente diploma e a data de cessação de vigência do directório de rede para 2004.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 88.º — Tarifação dos serviços essenciais
+
+A tarifação dos serviços essenciais, tais como definidos no presente diploma, obedece, no período referido no artigo anterior, às regras previstas na presente secção, podendo o INTF emitir recomendações ou instruções complementares que se revelem necessárias à adequada implementação das mesmas.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 89.º — Custos directamente imputáveis
+
+1 - A REFER, E. P., procederá ao cálculo, segundo as melhores práticas, dos custos directamente imputáveis à prestação dos serviços essenciais.
+
+2 - Na imputação de custos a que se refere o número anterior, a REFER, E. P., deve ter, nomeadamente, presente as diferentes tipologias de serviço e as características das diferentes partes da rede em que os serviços se desenvolvem.
+
+3 - O INTF pode determinar a exclusão de quaisquer custos que não sejam directamente imputáveis às actividades relacionadas com os serviços essenciais.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 90.º — Cálculo da capacidade
+
+1 - A REFER, E. P., indica, para as diferentes partes da rede em que os serviços se desenvolvem, as capacidades utilizáveis e programadas, em comboios/quilómetro.
+
+2 - No cálculo da capacidade utilizável deve ter-se em conta os padrões normais de utilização da infra-estrutura, nas partes da rede em que os serviços se desenvolvem.
+
+3 - A REFER, E. P., deve ainda apresentar os seguintes indicadores, em comboios/quilómetro, para a totalidade dos serviços e por tipos de serviço, para a totalidade da rede e para as diferentes partes em que os serviços se desenvolvem:
+
+a) A capacidade utilizável para o período;
+
+b) A capacidade programada para o período;
+
+c) A capacidade efectivamente utilizada nos três últimos anos.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+###### Artigo 91.º — Custos aprovados
+
+Os custos a que se refere o artigo 89.º têm como base:
+
+a) Os últimos custos conhecidos a preços constantes de 2003;
+
+b) As melhores práticas de imputação de custos.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+###### Artigo 92.º — Taxas dos serviços essenciais
+
+1 - As taxas de utilização dos serviços essenciais, por comboio/quilómetro, resultam da divisão dos custos directamente imputáveis a cada serviço essencial pelas capacidades utilizáveis, também em comboios/quilómetro, em cada parte da rede onde os serviços podem ser prestados, considerando ainda diferenciações consoante a tipologia dos mesmos serviços.
+
+2 - O valor a pagar pelos operadores é o resultante da aplicação das taxas referidas no n.º 1 aos comboios/quilómetros efectivamente realizados.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+###### Artigo 93.º — Dever de fundamentação
+
+A solicitação do INTF, e no prazo por este estabelecido, a REFER, E. P., deverá demonstrar quais os métodos, pressupostos, fórmulas ou algoritmos utilizados nos cálculos a que se refere a presente secção.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 13 de Outubro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 15 de Outubro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## Anexo I — [a que se refere o artigo 2.º, n.º 1, alínea b)]
+
+(ver tabela no documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 26/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2003-424104), em vigor a partir de 2003-11-02
+
+## Anexo II
+
+Parte da infra-estrutura ferroviária nacional que integra a rede transeuropeia de transporte ferroviário de mercadorias
+
+[a que se refere o artigo 3.º, alínea n)]
+
+1 - Fazem parte da infra-estrutura ferroviária nacional que integra a rede transeuropeia de transporte ferroviário de mercadorias as linhas e ramais representados no seguinte mapa:
+
+(ver mapa no documento original)
+
+2 - Incluem-se ainda na parte da infra-estrutura ferroviária nacional que integra a rede transeuropeia de transporte ferroviário de mercadorias os seguintes portos:
+
+Leixões;
+
+Lisboa;
+
+Setúbal;
+
+Sines.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+## Anexo III — Sistemas de gestão de segurança
+
+I - Requisitos aplicáveis ao sistema de gestão da segurança:
+
+1 - O sistema de gestão da segurança deve ser documentado em todas as suas partes e descrever, nomeadamente, a repartição das responsabilidades dentro da organização do gestor da infra-estrutura ou da empresa de transporte ferroviário.
+
+2 - O sistema deve indicar o modo como é garantido o controlo por parte da gestão a diversos níveis, o modo de participação do pessoal e dos seus representantes a todos os níveis e o modo como é garantida a melhoria constante do sistema de gestão da segurança.
+
+II - Elementos fundamentais do sistema de gestão da segurança. - Os elementos fundamentais do sistema de gestão da segurança são:
+
+a) Uma política de segurança aprovada pelo director executivo da organização e comunicada a todo o pessoal;
+
+b) Objectivos qualitativos e quantitativos da organização em termos de manutenção e reforço da segurança, bem como planos e procedimentos para alcançar esses objectivos;
+
+c) Procedimentos destinados a satisfazer as normas técnicas e de exploração em vigor, novas ou alteradas, ou outras condições normativas previstas nas especificações técnicas de interoperabilidade (ETI), ou nas normas técnicas de segurança, ou noutras normas aplicáveis, ou em decisões do IMTT, e procedimentos destinados a garantir o cumprimento das normas e de outras condições normativas ao longo do ciclo de vida do equipamento e durante as operações;
+
+d) Procedimentos e métodos destinados a efectuar uma avaliação dos riscos e a aplicar medidas de controlo dos riscos, sempre que uma mudança das condições de exploração, ou a introdução de material novo, introduza novos riscos para a infra-estrutura ou para as operações;
+
+e) Oferta de programas de formação do pessoal e de sistemas destinados a garantir que o nível de competência do pessoal é mantido e que as tarefas são realizadas em conformidade;
+
+f) Disposições tendo em vista a circulação de informações suficientes dentro da organização e, se for caso disso, entre as organizações que exploram a mesma infra-estrutura;
+
+g) Procedimentos e modelos de documentação da informação sobre segurança e designação de procedimentos de controlo da configuração da informação fundamental em matéria de segurança;
+
+h) Procedimentos destinados a garantir a notificação, o inquérito e a análise de acidentes, incidentes, casos de quase acidente e outras ocorrências perigosas e a adopção das medidas de prevenção necessárias;
+
+i) Planos de acção, alerta e informação em caso de emergência, acordados com as autoridades públicas competentes;
+
+j) Disposições tendo em vista uma auditoria interna periódica do sistema de gestão da segurança.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146)
+
+## Anexo IV — Autorização de colocação em serviço de material circulante em utilização
+
+1 - A documentação técnica sobre o material circulante ou tipo de material circulante a apresentar ao IMTT deve incluir:
+
+a) Prova de que o material circulante foi autorizado a ser colocado em serviço noutro Estado membro e registos que revelem o historial da sua exploração e manutenção e, se for caso disso, as alterações técnicas introduzidas após a autorização;
+
+b) Dados técnicos específicos, programa de manutenção e características operacionais exigidas pelo IMTT e necessárias para a sua autorização complementar;
+
+c) Dados sobre as características técnicas e operacionais que mostrem que o material circulante está em conformidade com o sistema de alimentação de energia, o sistema de sinalização e de comando e controlo, a bitola da via e os gabaris da infra-estrutura, a carga máxima admissível por eixo e outros condicionalismos da rede;
+
+d) Derrogações das normas técnicas de segurança necessárias para a concessão da autorização e prova, com base na avaliação de risco, de que a aceitação do material circulante não envolve riscos indevidos para a rede.
+
+2 - O IMTT pode exigir a realização de ensaios na rede, indicando o seu âmbito e conteúdo, para verificar a conformidade com os parâmetros restritivos mencionados na alínea c) do n.º 1.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15
+
+## Anexo V — Indicadores comuns de segurança
+
+A) Indicadores comuns de segurança
+
+A autoridade responsável pela segurança, a que se refere a alínea c) do artigo 3.º do Decreto-Lei n.º 270/2003, de 28 de outubro, deve comunicar anualmente os indicadores comuns de segurança (ICS).
+
+Caso sejam comunicados, os indicadores relacionados com as atividades relacionadas com as redes de metropolitano, ou com as redes que estejam funcionalmente separadas do resto do sistema ferroviário e que apenas se destinem à exploração de serviços locais, urbanos ou suburbanos de passageiros, bem como as empresas ferroviárias que apenas operem nessas redes, devem sê-lo separadamente.
+
+Caso sejam identificados novos factos ou erros após a apresentação do relatório, a autoridade de segurança deve alterar ou corrigir os indicadores relativos a determinado ano na primeira oportunidade conveniente, o mais tardar por ocasião da apresentação do relatório anual seguinte.
+
+As definições comuns dos ICS e os métodos comuns de cálculo do impacto económico dos acidentes constam da parte B do presente anexo.
+
+1 - Indicadores relativos aos acidentes
+
+1.1 - Número total e relativo (por comboio.km) de acidentes significativos, com valores discriminados pelos seguintes tipos de acidente:
+
+- Colisão de comboio com veículo ferroviário;
+
+- Colisão de comboio com objeto dentro do gabari de obstáculos;
+
+- Descarrilamento de comboio;
+
+- Acidente em passagem de nível, inclusive com peões, com valores discriminados pelos cinco tipos de passagem de nível definidos no ponto 6.2;
+
+- Acidente com pessoas envolvendo material circulante em movimento, excetuando suicídio e tentativa de suicídio;
+
+- Incêndio no material circulante;
+
+- Outro.
+
+O relatório de cada acidente significativo deve ser elaborado com base no tipo do acidente primário, ainda que as consequências do acidente secundário sejam mais graves (por exemplo, descarrilamento seguido de incêndio).
+
+1.2 - Número total e relativo (por comboio.km) de feridos graves e mortos por tipo de acidente, com valores discriminados pelas seguintes categorias:
+
+- Passageiro (igualmente em relação ao número total de passageiros.km e de comboios de passageiros.km);
+
+- Trabalhador ou subcontratado;
+
+- Utilizador de passagem de nível;
+
+- Intruso;
+
+- Outra pessoa, numa plataforma;
+
+- Outra pessoa, fora de uma plataforma.
+
+2 - Indicadores relativos às mercadorias perigosas
+
+Número total e relativo (por comboio.km) de acidentes envolvendo o transporte ferroviário de mercadorias perigosas, com valores discriminados pelas seguintes categorias:
+
+- Acidentes com, pelo menos, um veículo ferroviário que transportava mercadorias perigosas, conforme definidas na parte B do presente anexo;
+
+- Número de acidentes desse tipo que provocaram a libertação de matérias perigosas.
+
+3 - Indicadores relativos aos suicídios
+
+Número total e relativo (por comboio.km) de suicídios e tentativas de suicídio.
+
+4 - Indicadores relativos aos precursores de acidentes
+
+Número total e relativo (por comboio.km) de precursores de acidentes e valores discriminados pelos seguintes tipos de precursor:
+
+- Carril partido;
+
+- Garrote ou outra deformação da via;
+
+- Falha na sinalização contrária à segurança;
+
+- Ultrapassagem de sinal fechado com passagem por um ponto de perigo;
+
+- Ultrapassagem de sinal fechado sem passagem por um ponto de perigo;
+
+- Roda partida em material circulante ao serviço;
+
+- Eixo partido em material circulante ao serviço.
+
+Todos os precursores, tenham ou não sido causa de acidente, devem ser comunicados. (Um precursor que tenha sido causa de acidente significativo deve também ser comunicado no âmbito dos indicadores relativos aos precursores; um precursor que não tenha sido causa de acidente significativo deve ser comunicado apenas no âmbito dos indicadores relativos aos precursores.)
+
+5 - Indicadores para calcular o impacto económico dos acidentes
+
+Custo total e relativo (por comboio.km) em euros:
+
+- Dado pelo produto do número de mortos e de feridos graves pelo valor da prevenção de uma vítima (VPC);
+
+- Dos danos causados ao ambiente;
+
+- Dos danos materiais no material circulante ou na infraestrutura;
+
+- Dos atrasos causados por acidentes.
+
+As autoridades de segurança devem comunicar o impacto económico dos acidentes significativos.
+
+O VPC é o valor que a sociedade atribui à prevenção de uma vítima e, como tal, não constitui uma referência para efeitos de indemnização entre as partes envolvidas nos acidentes.
+
+6 - Indicadores relativos à segurança técnica da infraestrutura e à sua implementação:
+
+6.1 - Percentagem de vias equipadas com sistemas em funcionamento de proteção dos comboios (TPS - Train Protection System) e percentagem de comboios.km com TPS a bordo, nos casos em que estes sistemas fornecem:
+
+- Avisos ou alertas;
+
+- Alerta e paragem automática;
+
+- Alerta e paragem automática e supervisão discreta da velocidade;
+
+- Alerta e paragem automática e supervisão contínua da velocidade.
+
+6.2 - Número de passagens de nível (total, por quilómetro de linha e por quilómetro de via), discriminado pelos cinco tipos seguintes:
+
+a) Passagem de nível passiva;
+
+b) Passagem de nível ativa:
+
+i) Manual;
+
+ii) Automática, com aviso para os utilizadores;
+
+iii) Automática, com proteção para os utilizadores;
+
+iv) Com proteção do lado dos comboios.
+
+B) Definições comuns dos ICS e métodos comuns de cálculo do impacto económico dos acidentes
+
+1 - Indicadores relativos aos acidentes:
+
+1.1 - «Acidente significativo», qualquer acidente que implique, pelo menos, um veículo ferroviário em movimento e provoque a morte ou ferimentos graves a, pelo menos, uma pessoa, ou danos significativos no material, na via, noutras instalações ou no ambiente ou uma interrupção prolongada da circulação, com exceção dos acidentes em oficinas, armazéns ou parques de material;
+
+1.2 - «Danos significativos no material, na via, noutras instalações ou no ambiente», danos equivalentes a 150.000 EUR ou mais;
+
+1.3 - «Interrupção prolongada da circulação», suspensão dos serviços de comboios numa linha principal durante seis horas ou mais;
+
+1.4 - «Comboio», um ou mais veículos ferroviários rebocados por uma ou mais locomotivas ou automotoras, ou uma automotora isolada, que circulam com um número determinado ou uma designação específica de um ponto fixo inicial para um ponto fixo final. Incluem-se as locomotivas sem carga, isto é, que circulam isoladas;
+
+1.5 - «Colisão de comboio com veículo ferroviário», colisão frontal, colisão de frente com cauda ou colisão lateral entre uma parte de um comboio e uma parte de outro comboio ou veículo ferroviário ou com material circulante de manobra;
+
+1.6 - «Colisão de comboio com objeto dentro do gabari de obstáculos», colisão de uma parte de um comboio com um objeto fixo ou temporariamente presente na via ou perto dela (exceto em passagens de nível, se tiver sido perdido por um veículo ou por um utilizador durante o atravessamento), inclusive com catenárias;
+
+1.7 - «Descarrilamento de comboio», acidente em que pelo menos uma roda de um comboio sai do carril;
+
+1.8 - «Acidente em passagem de nível», qualquer acidente numa passagem de nível que envolva, pelo menos, um veículo ferroviário e um ou mais veículos ou outros utilizadores, nomeadamente peões, que estejam a atravessar a via, ou outros objetos temporariamente presentes na via ou perto dela, se tiverem sido perdidos por um veículo ou por um utilizador durante o atravessamento;
+
+1.9 - «Acidente com pessoas envolvendo material circulante em movimento», qualquer acidente em que uma ou mais pessoas são atingidas por um veículo ferroviário ou por um objeto a ele fixado ou que dele se tenha soltado. Incluem-se os acidentes com pessoas que caem de veículos ferroviários ou com pessoas que caem ou são atingidas por objetos soltos, a bordo, durante a viagem;
+
+1.10 - «Incêndio no material circulante», qualquer incêndio ou explosão que ocorra em veículos ferroviários (incluindo a carga) quando estes circulam entre a estação de partida e o destino, inclusivamente quando se encontram parados na estação de partida, na estação de destino ou nas paragens intermédias, assim como durante as operações de formação da composição;
+
+1.11 - «Outros tipos de acidente», todos os acidentes que não os já mencionados (colisão de comboio com veículo ferroviário, colisão de comboio com objeto dentro do gabari de obstáculos, descarrilamento de comboio, acidente em passagem de nível, acidente com pessoas envolvendo material circulante em movimento e incêndio no material circulante);
+
+1.12 - «Passageiro», qualquer pessoa, excluindo os membros da tripulação do comboio, que efetue uma viagem por caminho-de-ferro. Incluem-se, unicamente para efeitos das estatísticas de acidentes, os passageiros que tentam embarcar/desembarcar num/de um comboio em movimento;
+
+1.13 - «Trabalhador ou subcontratado», qualquer pessoa cuja atividade profissional esteja ligada ao caminho-de-ferro e que se encontre a trabalhar no momento do acidente. Incluem-se o pessoal das empresas subcontratadas, os subcontratados independentes, a tripulação do comboio e as pessoas que trabalham com o material circulante e na infraestrutura;
+
+1.14 - «Utilizador de passagem de nível», qualquer pessoa que utilize uma passagem de nível para atravessar a via-férrea por qualquer meio de transporte ou a pé;
+
+1.15 - «Intruso», qualquer pessoa que se encontre em instalações ferroviárias onde essa presença é proibida, com exceção dos utilizadores de passagens de nível;
+
+1.16 - «Outra pessoa, numa plataforma», qualquer pessoa que se encontre numa plataforma e não seja «passageiro», «trabalhador ou subcontratado», «utilizador de passagem de nível», «outra pessoa, fora de uma plataforma» ou «intruso»;
+
+1.17 - «Outra pessoa, fora de uma plataforma», qualquer pessoa que se encontre numa plataforma e não seja «passageiro», «trabalhador ou subcontratado», «utilizador de passagem de nível», «outra pessoa, numa plataforma» ou «intruso»;
+
+1.18 - «Morto», qualquer pessoa que perde a vida no momento do acidente ou nos 30 dias seguintes em consequência do mesmo, excluindo suicídios;
+
+1.19 - «Ferido grave», qualquer pessoa hospitalizada por um período superior a 24 horas, por lesões sofridas em consequência de um acidente, excluindo tentativas de suicídio.
+
+2 - Indicadores relativos às mercadorias perigosas
+
+2.1 - «Acidente que envolve o transporte de mercadorias perigosas»: qualquer acidente ou incidente que deva ser objeto de uma declaração em conformidade com o RID (1)/ADR, secção 1.8.5;
+
+2.2 - «Mercadoria perigosa», qualquer matéria ou artigo cujo transporte é proibido pelo RID ou autorizado apenas nas condições nele previstas.
+
+3 - Indicadores relativos aos suicídios
+
+3.1 - «Suicídio», ato deliberado de um indivíduo contra si próprio do qual resulta a morte, registado e classificado como tal pelas autoridades nacionais competentes;
+
+3.2 - «Tentativa de suicídio», ato deliberado de um indivíduo contra si próprio do qual resultam ferimentos graves.
+
+4 - Indicadores relativos aos precursores de acidentes
+
+4.1 - «Carril partido», carril que se separou em duas ou mais partes ou do qual se desprendeu um pedaço metálico, causando uma falha de mais de 50 mm de comprimento e mais de 10 mm de profundidade na superfície de rolamento;
+
+4.2 - «Garrote ou outra deformação da via», defeito relacionado com a continuidade e a geometria da via que exige o seu encerramento ou a redução imediata da velocidade autorizada;
+
+4.3 - «Falha na sinalização contrária à segurança», falha técnica de um sistema de sinalização (quer da infraestrutura, quer do material circulante) da qual resultam informações de sinalização menos restritivas do que o exigido;
+
+4.4 - «Ultrapassagem de sinal fechado com passagem por um ponto de perigo», situação em que qualquer parte de um comboio ultrapassa os limites do seu movimento autorizado e o ponto de perigo.
+
+4.5 - «Ultrapassagem de sinal fechado sem passagem por um ponto de perigo», situação em que qualquer parte de um comboio ultrapassa os limites do seu movimento autorizado mas não o ponto de perigo.
+
+Movimento não autorizado, na aceção dos pontos 4.4 e 4.5, é:
+
+- A ultrapassagem de um sinal luminoso da via ou de um semáforo fechado, ou de uma ordem de paragem (STOP), quando não está operacional um sistema de proteção dos comboios (TPS);
+
+- O desrespeito do fim de uma autorização de movimento em segurança proveniente de um sistema TPS;
+
+- A ultrapassagem de um ponto comunicado por autorização verbal ou escrita, conforme previsto nos regulamentos;
+
+- A ultrapassagem de indicadores de paragem (não estão incluídos os para-choques) ou de sinais portáteis.
+
+Excluem-se os casos em que um veículo sem unidade de tração acoplada ou um comboio sem tripulação ultrapassa um sinal fechado. Excluem-se também os casos em que, por qualquer motivo, o sinal não fecha a tempo de permitir ao maquinista imobilizar o comboio antes do sinal.
+
+As autoridades de segurança podem comunicar separadamente os dados relativos aos quatro índices de movimentos não autorizados enumerados nos travessões do presente ponto, mas devem comunicar pelo menos um indicador agregado que inclua dados sobre os quatro índices.
+
+4.6 - «Roda partida em material circulante ao serviço», roda afetada por rotura e que cria risco de acidente (descarrilamento ou colisão);
+
+4.7 - «Eixo partido em material circulante ao serviço», eixo afetado por rotura e que cria risco de acidente (descarrilamento ou colisão).
+
+5 - Métodos comuns para calcular o impacto económico dos acidentes
+
+5.1 - O valor da prevenção de uma vítima (VPC) compõe-se dos seguintes elementos:
+
+1) Valor da segurança per se: valores da disposição de pagar (Willingness to Pay - WTP) baseados em estudos de preferência declarada efetuados no Estado-Membro em que se aplicam.
+
+2) Custos económicos diretos e indiretos: custos avaliados no Estado-Membro e que são compostos por:
+
+- Custos médicos e de reabilitação;
+
+- Custas judiciais, custos policiais, custos da investigação privada do acidente, custos dos serviços de emergência e custos administrativos do seguro;
+
+- Perdas de produção: valor para a sociedade dos bens e serviços que poderiam ter sido produzidos pela pessoa se o acidente não tivesse ocorrido.
+
+No cálculo dos custos decorrentes da existência de vítimas, as mortes e os ferimentos graves devem ser considerados separadamente (VPC diferentes para mortes e para ferimentos graves).
+
+5.2 - Princípios comuns para avaliar o valor da segurança per se e os custos económicos diretos/indiretos
+
+Relativamente ao valor da segurança per se, a avaliação da adequação das estimativas disponíveis deve basear-se nas seguintes considerações:
+
+- As estimativas devem dizer respeito a um sistema de valoração da redução do risco de mortalidade no setor dos transportes e seguir uma abordagem WTP conforme com os métodos de preferência declarada;
+
+- A amostra de pessoas interrogadas utilizada para a determinação dos valores deve ser representativa da população em causa. Concretamente, a amostra deve refletir a distribuição etária/de rendimentos, juntamente com outras características socioeconómicas/demográficas relevantes da população;
+
+- No que respeita ao método para obter os valores da WTP, a sondagem deve apresentar perguntas claras e com significado para as pessoas interrogadas.
+
+Os custos económicos diretos e indiretos devem ser avaliados com base nos custos reais suportados pela sociedade.
+
+5.3 - Definições
+
+5.3.1 - «Custo dos danos causados ao ambiente», custos a suportar pelas empresas ferroviárias e pelos gestores de infraestrutura, avaliados com base na sua experiência, para repor a zona afetada no estado em que se encontrava antes do acidente ferroviário.
+
+5.3.2 - «Custo dos danos materiais no material circulante ou na infraestrutura», custo do fornecimento de material circulante novo ou de infraestrutura nova, com as mesmas funcionalidades e parâmetros técnicos que os irreparavelmente danificados, e custo da reposição do material circulante ou da infraestrutura reparável no estado em que se encontrava antes do acidente, a estimar em ambos casos pelas empresas ferroviárias e pelos gestores de infraestrutura com base na sua experiência, incluindo igualmente os custos da locação financeira de material circulante decorrente da indisponibilidade dos veículos danificados.
+
+5.3.3 - «Custo dos atrasos causados por acidentes», valor monetário dos atrasos sofridos pelos utentes do transporte ferroviário (passageiros e clientes do segmento de mercadorias) em consequência dos acidentes, calculado com base no seguinte modelo:
+
+VT = valor monetário das economias de tempo de viagem
+
+Valor do tempo para um passageiro de um comboio (uma hora)
+
+VT(índice P) = [VT dos passageiros que viajam por motivos laborais] * [percentagem média de passageiros que viajam por motivos laborais por ano] + [VT dos passageiros que viajam por motivos não laborais] * [percentagem média de passageiros que viajam por motivos não laborais por ano]
+
+VT(índice P) é medido em EUR por passageiro por hora.
+
+«Passageiro que viaja por motivos laborais», passageiro que viaja no âmbito das suas atividades profissionais. Excluem-se os passageiros que viajam entre o local de residência e o local de trabalho.
+
+Valor do tempo para um comboio de mercadorias (uma hora):
+
+VT(índice F) = [VT dos comboios de mercadorias] * [(toneladas.km)/(comboios.km)]
+
+VT(índice F) é medido em EUR por tonelada de mercadorias transportadas por hora.
+
+Quantidade média, em toneladas, de mercadorias transportadas por comboio num ano = (toneladas.km)/(comboios.km)
+
+CM = Custo de 1 minuto de atraso de um comboio
+
+Comboio de passageiros:
+
+CM(índice P) = K1 * (VT(índice P)/60) * [(passageiros.km)/(comboios.km)]
+
+Número médio de passageiros por comboio num ano = (passageiros.km)/(comboios.km)
+
+Comboio de mercadorias:
+
+CM(índice F) = K2 * (VT(índice F)/60)
+
+Os fatores K1 e K2 estabelecem a relação entre o valor do tempo e o valor do atraso, estimados com base em estudos de preferência declarada, para ter em conta que o tempo perdido devido aos atrasos é percecionado muito mais negativamente do que o tempo de viagem normal.
+
+Custo dos atrasos devidos a acidente = CM(índice P) * (minutos de atraso dos comboios de passageiros) + CM(índice F) * (minutos de atraso dos comboios de mercadorias)
+
+Âmbito de aplicação do modelo:
+
+O custo dos atrasos deve ser calculado para os acidentes significativos do seguinte modo:
+
+- Atrasos reais nas linhas ferroviárias em que os acidentes ocorreram, medidos na estação-término;
+
+- Atrasos reais ou, caso não seja possível, atrasos estimados nas outras linhas afetadas.
+
+6 - Indicadores relativos à segurança técnica da infraestrutura e à sua implementação
+
+6.1 - «Sistema de proteção dos comboios (TPS)», sistema que contribui para que sejam respeitados os sinais e os limites de velocidade.
+
+6.2 - «Sistemas de bordo», sistemas que ajudam o maquinista a respeitar a sinalização de via e a sinalização de cabina, proporcionando proteção nos pontos de perigo e obrigando a respeitar os limites de velocidade. Os sistemas TPS de bordo podem descrever-se do seguinte modo:
+
+a) Alerta, modalidade que fornece alertas automáticos ao maquinista;
+
+b) Alerta e paragem automática, modalidade que fornece alertas automáticos ao maquinista e impõe a paragem automática em caso de ultrapassagem de um sinal fechado;
+
+c) Alerta e paragem automática e supervisão discreta da velocidade, modalidade de proteção nos pontos de perigo, entendendo-se por «supervisão discreta da velocidade» a supervisão da velocidade em determinados locais (armadilhas de velocidade) na aproximação a um sinal;
+
+d) Alerta e paragem automática e supervisão contínua da velocidade, modalidade de proteção nos pontos de perigo e supervisão contínua dos limites de velocidade na linha, entendendo-se por «supervisão contínua da velocidade» a contínua indicação e imposição do respeito da velocidade máxima autorizada em todos os troços da linha.
+
+Considera-se que a modalidade (d) corresponde a um sistema de proteção automática dos comboios (ATP).
+
+6.3 - «Passagem de nível», intersecção ao mesmo nível entre uma estrada ou passagem e uma via-férrea, reconhecida como tal pelo gestor da infraestrutura e aberta a utilizadores públicos e/ou privados. Excluem-se as passagens entre plataformas dentro das estações e as passagens sobre vias para utilização exclusiva dos trabalhadores.
+
+6.4 - «Estrada», para efeitos das estatísticas de acidentes ferroviários, qualquer estrada, rua ou via rápida, pública ou privativa, incluindo-se os caminhos pedonais e as ciclovias adjacentes.
+
+6.5 - «Passagem», qualquer via, com exceção das estradas, destinada à passagem de pessoas, animais, veículos ou maquinaria.
+
+6.6 - «Passagem de nível passiva», uma passagem de nível sem qualquer sistema de aviso ou proteção que se ative sempre que seja perigoso para os utilizadores atravessarem a via-férrea.
+
+6.7 - «Passagem de nível ativa», passagem de nível cujos utilizadores são protegidos ou avisados da aproximação dos comboios por dispositivos sempre que seja perigoso atravessarem a via-férrea.
+
+- Proteção por dispositivos físicos:
+
+- Semibarreiras ou barreiras completas;
+
+- Cancelas/portões.
+
+- Aviso por equipamentos fixos nas passagens de nível:
+
+- Dispositivos óticos: luzes;
+
+- Dispositivos sonoros: campainhas, sirenes, buzinas, etc.
+
+As passagens de nível ativas classificam-se do seguinte modo:
+
+a) Manual: passagem de nível em que a proteção ou o aviso para os utilizadores é acionado manualmente por um trabalhador ferroviário;
+
+b) Automática, com aviso para os utilizadores: passagem de nível em que a aproximação dos comboios faz acionar o aviso para os utilizadores;
+
+c) Automática, com proteção para os utilizadores: passagem de nível em que a aproximação dos comboios faz acionar a proteção para os utilizadores. Incluem-se as passagens de nível com proteção e aviso para os utilizadores;
+
+d) Com proteção do lado dos comboios: passagem de nível em que um sinal ou outro sistema de proteção dos comboios permite que um comboio avance se a passagem de nível assegurar a plena proteção dos utilizadores e estiver desimpedida.
+
+7 - Definições das bases de cálculo:
+
+7.1 - «Comboio.km», unidade de medida que corresponde à deslocação de um comboio na distância de um quilómetro. A distância utilizada é a efetivamente percorrida, se conhecida, ou a distância normal na rede entre a origem e o destino. Só deve contar a distância percorrida no território nacional do país declarante.
+
+7.2 - «Passageiro.km», unidade de medida que corresponde ao transporte de comboio de um passageiro na distância de um quilómetro. Só deve contar a distância percorrida no território nacional do país declarante.
+
+7.3 - «Linha.km», extensão, em quilómetros, da rede ferroviária do Estado-Membro, sendo que, no caso das linhas multivias, só se deve contar a distância entre a origem e o destino.
+
+7.4 - «Via.km», extensão, em quilómetros, da rede ferroviária do Estado-Membro, sendo que, no caso das linhas multivias, só deve ser contada cada via.
+
+(1) Regulamento relativo ao transporte internacional ferroviário de mercadorias perigosas, adotado pela Diretiva 2008/68/CE, do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, transposta para o direito interno pelo Decreto-Lei n.º 41-A/2010, de 29 de abril.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214-D/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-d-2015-70409926), em vigor a partir de 2015-10-01
+
+> Alterado pelo/a Anexo V do/a [Decreto-Lei n.º 62/2010 - Diário da República n.º 111/2010, Série I de 2010-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2010-335456), em vigor a partir de 2010-06-14
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 231/2007 - Diário da República n.º 113/2007, Série I de 2007-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), em vigor a partir de 2007-06-15

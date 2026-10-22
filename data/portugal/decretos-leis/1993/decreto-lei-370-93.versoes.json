@@ -1,0 +1,396 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:664318:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34570575",
+ "dre_path": "/dr/detalhe/decreto-lei/370-1993-664318",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "147219508",
+    "46963675",
+    "46963775",
+    "46963875",
+    "46963975",
+    "46964075",
+    "46964175",
+    "46964275",
+    "46964375"
+   ]
+  },
+  {
+   "date": "1998-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521596:por",
+     "title": "Decreto-Lei n.º 140/98",
+     "published": "1998-05-16",
+     "dre_path": "/dr/detalhe/decreto-lei/140-1998-521596"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "46963575",
+    "147219499",
+    "46963775",
+    "147219500",
+    "147219501",
+    "147219502",
+    "147219503",
+    "147219504",
+    "46964375",
+    "46964475"
+   ]
+  },
+  {
+   "date": "2003-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176336:por",
+     "title": "Decreto-Lei n.º 10/2003",
+     "published": "2003-01-18",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2003-176336"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "46963575",
+    "147219499",
+    "46963775",
+    "147219500",
+    "147219501",
+    "147219505",
+    "147219506",
+    "147219507",
+    "46964375",
+    "46964475"
+   ]
+  },
+  {
+   "date": "2014-02-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483672:por",
+     "title": "Decreto-Lei n.º 166/2013",
+     "published": "2013-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/166-2013-483672"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "147219508",
+    "147219509",
+    "147219510",
+    "147219511",
+    "147219512",
+    "147219513",
+    "147219514",
+    "147219515",
+    "147219516",
+    "147219517"
+   ]
+  }
+ ],
+ "fragments": {
+  "147219508": {
+   "fragment_id": "35190375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2014-02-25",
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 422/83, de 3 de Dezembro, ocupou-se não só dos efeitos económicos danosos decorrentes de acordos e práticas concertados entre empresas, de decisões de associações de empresas e de abusos de posição dominante, como ainda da proibição de certas práticas individuais restritivas da concorrência.\n\nA inclusão das práticas individuais no diploma funcionou como instrumento pedagógico do comportamento dos agentes económicos e simultaneamente contribuiu para a transparência do mercado.\n\nAo proceder à revisão do Decreto-Lei n.º 422/83, houve que ponderar entre a manutenção deste conjunto de práticas na lei nacional de defesa da concorrência ou - seguindo as tendências e soluções de outros países - o seu deslocamento para sede legislativa mais adequada à realidade.\n\nAdoptando esta última solução, evita-se que o Conselho da Concorrência se pronuncie sobre práticas que já no actual quadro legislativo não eram ponderadas à luz dos critérios enunciados no artigo 15.º do Decreto-Lei n.º 422/83 (balanço económico) mas que de per se constituem comportamentos menos transparentes embora sem efeitos graves a nível de concorrência.\n\nNão obstante, porque não raro certas práticas individuais são consequência de acordos restritivos da concorrência, ou de abusos de poder económico, que, enquanto tal, devem ser apreciados em sede de legislação de defesa da concorrência, quer para efeitos de condenação, quer de isenção, houve o cuidado de distinguir claramente o âmbito de aplicação de ambas as disciplinas.\n\nRetomam-se assim neste diploma as figuras das práticas individuais que constavam do Decreto-Lei n.º 422/83, acrescentando-lhe a figura de «venda com prejuízo» já existente na legislação nacional na actividade do comércio a retalho (Decreto-Lei n.º 253/86, de 25 de Agosto), abrangendo agora as relações entre agentes económicos. Evita-se, desta forma, a ocorrência de tratamento legal discriminatório mais susceptível de ocorrer dado que se esbateram as fronteiras anteriormente rigidamente definidas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46963675": {
+   "fragment_id": "35539475",
+   "type": 11,
+   "heading": "Artigo 1.º — Aplicação de preços ou de condições de venda discriminatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aplicação de preços ou de condições de venda discriminatórios\n\n1 - É proibido ao mesmo agente económico praticar preços ou condições de venda discriminatórios relativamente a prestações equivalentes, nomeadamente quando tal prática se traduza na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento, não justificadas por diferenças correspondentes no custo de fornecimento ou do serviço.\n\n2 - São prestações equivalentes aquelas que respeitem a bens ou serviços similares e que não defiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham repercussão nos correspondentes custos de produção ou de comercialização.\n\n3 - Não se consideram prestações equivalentes aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda praticados pelo vendedor.\n\n4 - Não são consideradas discriminatórias as ofertas de objectos desprovidos de valor comercial."
+  },
+  "46963775": {
+   "fragment_id": "35539575",
+   "type": 11,
+   "heading": "Artigo 2.º — Tabelas de preços e condições de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tabelas de preços e condições de venda\n\n1 - Os produtores, fabricantes, importadores, distribuidores, embaladores e grossistas de bens e os prestadores de serviços são obrigados a possuir tabelas de preços com as correspondentes condições de venda e facultá-las, quando solicitados, a qualquer revendedor ou utilizador.\n\n2 - As condições de venda devem referenciar, nomeadamente, os prazos de pagamento, as diferentes modalidades de descontos praticados e respectivos escalões.\n\n3 - As condições em que um agente económico obtenha uma remuneração financeira ou de outra natureza dos seus fornecedores, como contrapartida da prestação de serviços específicos, devem ser reduzidas a escrito."
+  },
+  "46963875": {
+   "fragment_id": "35539675",
+   "type": 11,
+   "heading": "Artigo 3.º — Venda com prejuízo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Venda com prejuízo\n\n1 - É proibido oferecer para venda ou vender um bem por um preço inferior ao seu preço de compra efectivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.\n\n2 - Entende-se por preço de compra efectivo o preço constante da factura de compra após a dedução dos descontos nela contidos.\n\n3 - O disposto no n.º 1 não é aplicável a:\n\na) Bens perecíveis, a partir do momento em que se encontrem ameaçados de deterioração rápida;\n\nb) Bens cujo valor comercial esteja afectado, quer por ter decorrido a situação que determinou a sua necessidade, quer por redução das suas possibilidades de utilização, quer por superveniência de importante inovação técnica;\n\nc) Bens cujo reaprovisionamento se efectue a preço inferior, sendo então o preço efectivo de compra substituído pelo preço resultante da nova factura de compra;\n\nd) Bens cujo preço se encontre alinhado pelo preço licitamente praticado para os mesmos bens por um outro comerciante do mesmo ramo de actividades.\n\n4 - Incumbe ao vendedor a prova documental do preço de compra efectivo, bem como das justificações previstas no número anterior."
+  },
+  "46963975": {
+   "fragment_id": "35539775",
+   "type": 11,
+   "heading": "Artigo 4.º — Recusa de venda de bens ou de prestações de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recusa de venda de bens ou de prestações de serviços\n\n1 - É proibido recusar a venda de bens ou a prestação de serviços, segundo os usos normais da respectiva actividade ou de acordo com as disposições legais ou regulamentares aplicáveis, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado.\n\n2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.\n\n3 - São consideradas causas justificativas de recusa:\n\na) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;\n\nb) A satisfação de compromissos anteriormente assumidos pelo vendedor;\n\nc) A desproporção manifesta da encomenda face às quantidades normais de consumo do adquirente ou aos volumes habituais das entregas do vendedor;\n\nd) A falta de capacidade do adquirente para, face às características do bem ou serviço, assegurar a sua revenda em condições técnicas satisfatórias ou manter um adequado serviço de pós-venda;\n\ne) A fundada falta de confiança do vendedor quanto à pontualidade do pagamento pelo adquirente, tratando-se de vendas a crédito;\n\nf) A existência de débitos vencidos e não liquidados referentes a fornecimentos anteriores;\n\ng) A ocorrência de qualquer outra circunstância inerente às condições concretas da transacção que, segundo os usos normais da respectiva actividade, tornaria a venda do bem ou a prestação do serviço anormalmente prejudicial para o vendedor.\n\n4 - Incumbe ao vendedor a prova das causas justificativas a que se refere o número anterior."
+  },
+  "46964075": {
+   "fragment_id": "35539875",
+   "type": 11,
+   "heading": "Artigo 5.º — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Infracções\n\n1 - As infracções ao disposto nos artigos 1.º, 2.º, 3.º e 4.º constituem contra-ordenação punível nos termos do artigo 68.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n2 - A aplicação das respectivas coimas compete à Comissão a que se refere o n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84."
+  },
+  "46964175": {
+   "fragment_id": "35539975",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização e instrução dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização e instrução dos processos\n\nA fiscalização do disposto no presente diploma e a instrução dos respectivos processos competem especialmente à Inspecção-Geral das Actividades Económicas, nos termos do artigo 73.º do Decreto-Lei n.º 28/84."
+  },
+  "46964275": {
+   "fragment_id": "35540075",
+   "type": 11,
+   "heading": "Artigo 7.º — Destino do montante das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Destino do montante das coimas\n\nO produto das coimas por infracção ao disposto neste diploma reverte em 60% para os cofres do Estado e em 40% para a Inspecção-Geral das Actividades Económicas."
+  },
+  "46964375": {
+   "fragment_id": "35540175",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1994."
+  },
+  "46963575": {
+   "fragment_id": "35190375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 422/83, de 3 de Dezembro, ocupou-se não só dos efeitos económicos danosos decorrentes de acordos e práticas concertados entre empresas, de decisões de associações de empresas e de abusos de posição dominante, como ainda da proibição de certas práticas individuais restritivas da concorrência.\n\nA inclusão das práticas individuais no diploma funcionou como instrumento pedagógico do comportamento dos agentes económicos e simultaneamente contribuiu para a transparência do mercado.\n\nAo proceder à revisão do Decreto-Lei n.º 422/83, houve que ponderar entre a manutenção deste conjunto de práticas na lei nacional de defesa da concorrência ou - seguindo as tendências e soluções de outros países - o seu deslocamento para sede legislativa mais adequada à realidade.\n\nAdoptando esta última solução, evita-se que o Conselho da Concorrência se pronuncie sobre práticas que já no actual quadro legislativo não eram ponderadas à luz dos critérios enunciados no artigo 15.º do Decreto-Lei n.º 422/83 (balanço económico) mas que de per se constituem comportamentos menos transparentes embora sem efeitos graves a nível de concorrência.\n\nNão obstante, porque não raro certas práticas individuais são consequência de acordos restritivos da concorrência, ou de abusos de poder económico, que, enquanto tal, devem ser apreciados em sede de legislação de defesa da concorrência, quer para efeitos de condenação, quer de isenção, houve o cuidado de distinguir claramente o âmbito de aplicação de ambas as disciplinas.\n\nRetomam-se assim neste diploma as figuras das práticas individuais que constavam do Decreto-Lei n.º 422/83, acrescentando-lhe a figura de «venda com prejuízo» já existente na legislação nacional na actividade do comércio a retalho (Decreto-Lei n.º 253/86, de 25 de Agosto), abrangendo agora as relações entre agentes económicos. Evita-se, desta forma, a ocorrência de tratamento legal discriminatório mais susceptível de ocorrer dado que se esbateram as fronteiras anteriormente rigidamente definidas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "147219499": {
+   "fragment_id": "35539475",
+   "type": 11,
+   "heading": "Artigo 1.º — Aplicação de preços ou de condições de venda discriminatórios",
+   "in_force_from": "1998-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Aplicação de preços ou de condições de venda discriminatórios\n\n1 - É proibido a um agente económico praticar em relação a outro agente económico preços ou condições de venda discriminatórios relativamente a prestações equivalentes, nomeadamente quando tal prática se traduza na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento, não justificadas por diferenças correspondentes no custo de fornecimento ou do serviço.\n\n2 - São prestações equivalentes aquelas que respeitem a bens ou serviços similares e que não defiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham repercussão nos correspondentes custos de produção ou de comercialização.\n\n3 - Não se consideram prestações equivalentes aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda praticados pelo vendedor.\n\n4 - Não são consideradas discriminatórias as ofertas de objectos desprovidos de valor comercial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219500": {
+   "fragment_id": "35539675",
+   "type": 11,
+   "heading": "Artigo 3.º — Venda com prejuízo",
+   "in_force_from": "1998-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Venda com prejuízo\n\n1 - É proibido oferecer para venda ou vender um bem a um agente económico ou a um consumidor por um preço inferior ao seu preço de compra efectivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.\n\n2 - Entende-se por preço de compra efectivo o preço constante da factura de compra, após a dedução dos descontos directamente relacionados com a transacção em causa que se encontrem identificados na própria factura ou, por remissão desta, em contratos de fornecimento ou tabelas de preços e que sejam determináveis no momento da respectiva emissão.\n\n3 - Entende-se por descontos directamente relacionados com a transacção em causa os descontos de quantidade, os descontos financeiros e os descontos promocionais desde que identificáveis quanto ao produto, respectiva quantidade e período por que vão vigorar.\n\n4 - O disposto no n.º 1 não é aplicável a:\n\na) Bens perecíveis, a partir do momento em que se encontrem ameaçados de deterioração rápida;\n\nb) Bens cujo valor comercial esteja afectado, quer por ter decorrido a situação que determinou a sua necessidade, quer por redução das suas possibilidades de utilização, quer por superveniência de importante inovação técnica;\n\nc) Bens cujo reaprovisionamento se efectue a preço inferior, sendo então o preço efectivo de compra substituído pelo preço resultante da nova factura de compra;\n\nd) Bens cujo preço se encontre alinhado pelo preço praticado para os mesmos bens por um agente económico do mesmo ramo de actividade que se encontre temporal e espacialmente em situação de concorrência efectiva com o agente económico que procede ao alinhamento;\n\ne) Bens vendidos em saldo ou em liquidação.\n\n5- Incumbe ao vendedor a prova documental do preço de compra efectivo, bem como das justificações previstas no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219501": {
+   "fragment_id": "35539775",
+   "type": 11,
+   "heading": "Artigo 4.º — Recusa de venda de bens ou de prestações de serviços",
+   "in_force_from": "1998-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Recusa de venda de bens ou de prestações de serviços\n\n2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.\n\n3 - São consideradas causas justificativas de recusa:\n\na) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;\n\nb) A satisfação de compromissos anteriormente assumidos pelo vendedor;\n\nc) A desproporção manifesta da encomenda face às quantidades normais de consumo do adquirente ou aos volumes habituais das entregas do vendedor;\n\nd) A falta de capacidade do adquirente para, face às características do bem ou serviço, assegurar a sua revenda em condições técnicas satisfatórias ou manter um adequado serviço de pós-venda;\n\ne) A fundada falta de confiança do vendedor quanto à pontualidade do pagamento pelo adquirente, tratando-se de vendas a crédito;\n\nf) A existência de débitos vencidos e não liquidados referentes a fornecimentos anteriores;\n\ng) A ocorrência de qualquer outra circunstância inerente às condições concretas da transacção que, segundo os usos normais da respectiva actividade, tornaria a venda do bem ou a prestação do serviço anormalmente prejudicial para o vendedor.\n\n4 - Incumbe ao vendedor a prova das causas justificativas a que se refere o número anterior.1 - É proibido a um agente económico recusar a venda de bens ou a prestação de serviços a outro agente económico, segundo os usos normais da respectiva actividade ou de acordo com as disposições legais ou regulamentares aplicáveis, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219502": {
+   "fragment_id": "35539875",
+   "type": 11,
+   "heading": "Artigo 5.º — Infracções",
+   "in_force_from": "1998-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Infracções\n\n1 - Constituem contra-ordenações, quando cometidas por pessoa singular:\n\na) As infracções ao disposto no n.º 1 do artigo 1.º, no n.º 1 do artigo 3.º, nos n.os 1 e 2 do artigo 4.º e no n.º 1 do artigo 4.º-A, puníveis com coima de 150000$00 a 750000$00;\n\nb) A infracção ao disposto nos n.os 1 e 3 do artigo 2.º, punível com coima de 50000$00 a 250000$00.\n\n2 - Constituem contra-ordenações, quando cometidas por pessoa colectiva:\n\na) As infracções ao disposto no n.º 1 do artigo 1.º, no n.º 1 do artigo 3.º, nos n.os 1 e 2 do artigo 4.º e no n.º 1 do artigo 4.º-A, puníveis com coima de 500000$00 a 3000000$00;\n\nb) A infracção ao disposto nos n.os 1 e 3 do artigo 2.º, punível com coima de 100000$00 a 500000$00.\n\n3 - A competência para aplicação das respectivas coimas cabe ao director-geral do Comércio e da Concorrência.\n\n4 - A negligência é punível.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219503": {
+   "fragment_id": "35539975",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização e instrução dos processos",
+   "in_force_from": "1998-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscalização e instrução dos processos\n\nA fiscalização do cumprimento do disposto no presente diploma compete à Inspecção-Geral das Actividades Económicas e a instrução dos respectivos processos cabe à Direcção-Geral do Comércio e da Concorrência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219504": {
+   "fragment_id": "35540075",
+   "type": 11,
+   "heading": "Artigo 7.º — Destino do montante das coimas",
+   "in_force_from": "1998-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Destino do montante das coimas\n\nO produto das coimas cobradas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado, em 20% para a Inspecção-Geral das Actividades Económicas e em 20% para a Direcção-Geral do Comércio e da Concorrência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "46964475": {
+   "fragment_id": "35540275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Julho de 1993. - Joaquim Fernando Nogueira - Alexandre Carlos de Mello Vieira Costa Relvas.\n\nPromulgado em 12 de Outubro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Outubro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "147219505": {
+   "fragment_id": "35539875",
+   "type": 11,
+   "heading": "Artigo 5.º — Infracções",
+   "in_force_from": "2003-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Infracções\n\n1 - Constituem contra-ordenações, quando cometidas por pessoa singular:\n\na) As infracções ao disposto no n.º 1 do artigo 1.º, no n.º 1 do artigo 3.º, nos n.os 1 e 2 do artigo 4.º e no n.º 1 do artigo 4.º-A, puníveis com coima de 150000$00 a 750000$00;\n\nb) A infracção ao disposto nos n.os 1 e 3 do artigo 2.º, punível com coima de 50000$00 a 250000$00.\n\n2 - Constituem contra-ordenações, quando cometidas por pessoa colectiva:\n\na) As infracções ao disposto no n.º 1 do artigo 1.º, no n.º 1 do artigo 3.º, nos n.os 1 e 2 do artigo 4.º e no n.º 1 do artigo 4.º-A, puníveis com coima de 500000$00 a 3000000$00;\n\nb) A infracção ao disposto nos n.os 1 e 3 do artigo 2.º, punível com coima de 100000$00 a 500000$00.\n\n3 - (Revogado).\n\n4 - A negligência é punível.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219506": {
+   "fragment_id": "35539975",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização e instrução dos processos",
+   "in_force_from": "2003-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscalização e instrução dos processos\n\nA fiscalização do cumprimento do disposto no presente diploma compete à Inspecção-Geral das Actividades Económicas e a instrução dos respectivos processos cabe à Direcção-Geral do Comércio e da Concorrência.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219507": {
+   "fragment_id": "35540075",
+   "type": 11,
+   "heading": "Artigo 7.º — Destino do montante das coimas",
+   "in_force_from": "2003-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Destino do montante das coimas\n\nO produto das coimas cobradas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado, em 20% para a Inspecção-Geral das Actividades Económicas e em 20% para a Direcção-Geral do Comércio e da Concorrência.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219509": {
+   "fragment_id": "35539475",
+   "type": 11,
+   "heading": "Artigo 1.º — Aplicação de preços ou de condições de venda discriminatórios",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Aplicação de preços ou de condições de venda discriminatórios\n\n1 - É proibido a um agente económico praticar em relação a outro agente económico preços ou condições de venda discriminatórios relativamente a prestações equivalentes, nomeadamente quando tal prática se traduza na aplicação de diferentes prazos de execução das encomendas ou de diferentes modalidades de embalamento, entrega, transporte e pagamento, não justificadas por diferenças correspondentes no custo de fornecimento ou do serviço.\n\n2 - São prestações equivalentes aquelas que respeitem a bens ou serviços similares e que não defiram de maneira sensível nas características comerciais essenciais, nomeadamente naquelas que tenham repercussão nos correspondentes custos de produção ou de comercialização.\n\n3 - Não se consideram prestações equivalentes aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda praticados pelo vendedor.\n\n4 - Não são consideradas discriminatórias as ofertas de objectos desprovidos de valor comercial.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219510": {
+   "fragment_id": "35539575",
+   "type": 11,
+   "heading": "Artigo 2.º — Tabelas de preços e condições de venda",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25"
+   ],
+   "markdown": "###### Artigo 2.º — Tabelas de preços e condições de venda\n\n1 - Os produtores, fabricantes, importadores, distribuidores, embaladores e grossistas de bens e os prestadores de serviços são obrigados a possuir tabelas de preços com as correspondentes condições de venda e facultá-las, quando solicitados, a qualquer revendedor ou utilizador.\n\n2 - As condições de venda devem referenciar, nomeadamente, os prazos de pagamento, as diferentes modalidades de descontos praticados e respectivos escalões.\n\n3 - As condições em que um agente económico obtenha uma remuneração financeira ou de outra natureza dos seus fornecedores, como contrapartida da prestação de serviços específicos, devem ser reduzidas a escrito.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25"
+  },
+  "147219511": {
+   "fragment_id": "35539675",
+   "type": 11,
+   "heading": "Artigo 3.º — Venda com prejuízo",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Venda com prejuízo\n\n1 - É proibido oferecer para venda ou vender um bem a um agente económico ou a um consumidor por um preço inferior ao seu preço de compra efectivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.\n\n2 - Entende-se por preço de compra efectivo o preço constante da factura de compra, após a dedução dos descontos directamente relacionados com a transacção em causa que se encontrem identificados na própria factura ou, por remissão desta, em contratos de fornecimento ou tabelas de preços e que sejam determináveis no momento da respectiva emissão.\n\n3 - Entende-se por descontos directamente relacionados com a transacção em causa os descontos de quantidade, os descontos financeiros e os descontos promocionais desde que identificáveis quanto ao produto, respectiva quantidade e período por que vão vigorar.\n\n4 - O disposto no n.º 1 não é aplicável a:\n\na) Bens perecíveis, a partir do momento em que se encontrem ameaçados de deterioração rápida;\n\nb) Bens cujo valor comercial esteja afectado, quer por ter decorrido a situação que determinou a sua necessidade, quer por redução das suas possibilidades de utilização, quer por superveniência de importante inovação técnica;\n\nc) Bens cujo reaprovisionamento se efectue a preço inferior, sendo então o preço efectivo de compra substituído pelo preço resultante da nova factura de compra;\n\nd) Bens cujo preço se encontre alinhado pelo preço praticado para os mesmos bens por um agente económico do mesmo ramo de actividade que se encontre temporal e espacialmente em situação de concorrência efectiva com o agente económico que procede ao alinhamento;\n\ne) Bens vendidos em saldo ou em liquidação.\n\n5- Incumbe ao vendedor a prova documental do preço de compra efectivo, bem como das justificações previstas no número anterior.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219512": {
+   "fragment_id": "35539775",
+   "type": 11,
+   "heading": "Artigo 4.º — Recusa de venda de bens ou de prestações de serviços",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Recusa de venda de bens ou de prestações de serviços\n\n2 - É equiparada à recusa de venda a subordinação da venda de um bem ou da prestação de um serviço à aquisição de outro bem ou serviço.\n\n3 - São consideradas causas justificativas de recusa:\n\na) A satisfação das exigências normais da exploração industrial ou comercial do vendedor, designadamente a manutenção dos seus stocks de segurança ou das necessidades de consumo próprio;\n\nb) A satisfação de compromissos anteriormente assumidos pelo vendedor;\n\nc) A desproporção manifesta da encomenda face às quantidades normais de consumo do adquirente ou aos volumes habituais das entregas do vendedor;\n\nd) A falta de capacidade do adquirente para, face às características do bem ou serviço, assegurar a sua revenda em condições técnicas satisfatórias ou manter um adequado serviço de pós-venda;\n\ne) A fundada falta de confiança do vendedor quanto à pontualidade do pagamento pelo adquirente, tratando-se de vendas a crédito;\n\nf) A existência de débitos vencidos e não liquidados referentes a fornecimentos anteriores;\n\ng) A ocorrência de qualquer outra circunstância inerente às condições concretas da transacção que, segundo os usos normais da respectiva actividade, tornaria a venda do bem ou a prestação do serviço anormalmente prejudicial para o vendedor.\n\n4 - Incumbe ao vendedor a prova das causas justificativas a que se refere o número anterior.1 - É proibido a um agente económico recusar a venda de bens ou a prestação de serviços a outro agente económico, segundo os usos normais da respectiva actividade ou de acordo com as disposições legais ou regulamentares aplicáveis, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219513": {
+   "fragment_id": "35539875",
+   "type": 11,
+   "heading": "Artigo 5.º — Infracções",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Infracções\n\n1 - Constituem contra-ordenações, quando cometidas por pessoa singular:\n\na) As infracções ao disposto no n.º 1 do artigo 1.º, no n.º 1 do artigo 3.º, nos n.os 1 e 2 do artigo 4.º e no n.º 1 do artigo 4.º-A, puníveis com coima de 150000$00 a 750000$00;\n\nb) A infracção ao disposto nos n.os 1 e 3 do artigo 2.º, punível com coima de 50000$00 a 250000$00.\n\n2 - Constituem contra-ordenações, quando cometidas por pessoa colectiva:\n\na) As infracções ao disposto no n.º 1 do artigo 1.º, no n.º 1 do artigo 3.º, nos n.os 1 e 2 do artigo 4.º e no n.º 1 do artigo 4.º-A, puníveis com coima de 500000$00 a 3000000$00;\n\nb) A infracção ao disposto nos n.os 1 e 3 do artigo 2.º, punível com coima de 100000$00 a 500000$00.\n\n3 - (Revogado).\n\n4 - A negligência é punível.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219514": {
+   "fragment_id": "35539975",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização e instrução dos processos",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25",
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscalização e instrução dos processos\n\nA fiscalização do cumprimento do disposto no presente diploma compete à Inspecção-Geral das Actividades Económicas e a instrução dos respectivos processos cabe à Direcção-Geral do Comércio e da Concorrência.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219515": {
+   "fragment_id": "35540075",
+   "type": 11,
+   "heading": "Artigo 7.º — Destino do montante das coimas",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25",
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Destino do montante das coimas\n\nO produto das coimas cobradas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado, em 20% para a Inspecção-Geral das Actividades Económicas e em 20% para a Direcção-Geral do Comércio e da Concorrência.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 10/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336), em vigor a partir de 2003-01-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 140/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), em vigor a partir de 1998-07-01"
+  },
+  "147219516": {
+   "fragment_id": "35540175",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1994.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25"
+  },
+  "147219517": {
+   "fragment_id": "35540275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Julho de 1993. - Joaquim Fernando Nogueira - Alexandre Carlos de Mello Vieira Costa Relvas.\n\nPromulgado em 12 de Outubro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Outubro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 166/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2013-483672), em vigor a partir de 2014-02-25"
+  }
+ }
+}

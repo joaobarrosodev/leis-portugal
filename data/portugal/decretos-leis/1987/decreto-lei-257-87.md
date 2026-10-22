@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: pt:dre:419630:por
+title: Decreto-Lei n.º 257/87
+short_title: null
+summary: Define, estabelece as características e regula o acondicionamento e a rotulagem dos licores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 257/87
+official_date: null
+publication_date: '1987-06-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1987, Série I de 1987-06-25
+  number: '143'
+  series: I
+  supplement: null
+  pages: 2428 - 2429
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14300/24282429.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '419630'
+  dre_path: /dr/detalhe/decreto-lei/257-1987-419630
+  internal: pt:dre:419630:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1987-419630
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1987-419630
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-06-25T00:00:00Z'
+integrity:
+  source_sha256: c538d25184ba382f270960710c527c1d2912e4cc7a20d8acdcd834acc254422d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-257-419630.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 257/87
+
+de 25 de Junho
+
+1. Os licores afirmaram-se desde longa data como uma das mais singulares tradições da nossa indústria artesanal ligada à transformação dos produtos agrícolas, em especial pela sua apreciada qualidade e variedade, cujas raízes descem no tempo até às saborosas receitas conventuais.
+
+2. Não obstante, em termos de legislação apenas contamos hoje com um pequeno número de normas inseridas em diplomas de carácter genérico que se referem a licores de forma circunstancial.
+
+De facto, matérias tão importantes como as relativas à definição, características, acondicionamento e rotulagem, cuja disciplina é absolutamente indispensável estabelecer, não só com vista à garantia e promoção da respectiva qualidade, como ainda à defesa dos interesses dos consumidores e dos próprios agentes económicos, não se encontram devida e adequadamente contempladas na legislação em vigor.
+
+Assim, pela primeira vez se procede entre nós, da forma mais completa que o progresso técnico do sector permite, ao estabelecimento de um certo número de regras quanto a estes aspectos. No que toca a características, por exemplo, é novidade a fixação que se faz do grau alcoólico consoante o tipo de licor, mas sem descurar, todavia, a qualidade, cuja defesa e promoção importa defender e apoiar.
+
+3. Também o acondicionamento e a rotulagem mereceram uma particular atenção, em que a defesa do consumidor é, sem dúvida, o principal objectivo, mas onde a qualidade e os interesses dos próprios agentes económicos são igualmente considerados.
+
+4. Além disso, o presente diploma contribuirá ainda para se assegurar uma maior transparência do mercado e promover a eliminação de entraves ao comércio do sector, criando as condições indispensáveis para que os agentes económicos nacionais e dos restantes países da CEE desenvolvam entre si uma sã e leal concorrência.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O presente decreto-lei define, estabelece as características e regula o acondicionamento e a rotulagem dos licores.
+
+###### Art. 2.º Para efeitos do disposto no presente diploma, entende-se por «licor» a bebida espirituosa resultante da mistura de álcool etílico de origem agrícola e ou aguardente, água potável, açúcar e eventualmente outros géneros alimentícios, de sabor doce e aromatizada por maceração de substâncias vegetais ou pelo destilado das mesmas substâncias ou ainda por adição de aromatizantes.
+
+###### Art. 3.º No fabrico de licores, de harmonia com os princípios estabelecidos para aditivos alimentares na NP-1735, publicada pelo Instituto Português da Qualidade, nos termos do [Decreto-Lei n.º 165/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1983-311467), de 27 de Abril, são apenas permitidos os seguintes aditivos:
+
+a) Aromatizantes naturais, seus equivalentes de síntese e aromatizantes artificiais, sem prejuízo do disposto no n.º 2 do artigo 7.º;
+
+b) Corantes orgânicos naturais e corantes orgânicos sintéticos, mencionados na NP-1735, bem como ouro em palhetas.
+
+###### Art. 4.º Os licores devem apresentar as seguintes características:
+
+a) Teor alcoólico, em volume, a 20ºC:
+
+Nos licores com leite, natas ou ovos - mín. 15%;
+
+Nos outros licores - mín. 20%;
+
+b) Extracto seco total:
+
+Nos licores creme - mín. 400 g/l;
+
+Nos outros licores - mín. 100 g/l;
+
+c) Acúcares totais, expressos em açúcar invertido:
+
+Nos licores creme - mín. 420 g/l;
+
+Nos outros licores - mín. 105 g/l;
+
+d) Ácido cianídrico - máx. 40 mg/l de álcool absoluto.
+
+###### Art. 5.º Para efeito de verificação das características dos licores, serão utilizados os respectivos métodos de análise estabelecidos em normas portuguesas, adoptando-se, na falta destas, os constantes da [Portaria n.º 985/82](https://diariodarepublica.pt/dr/detalhe/portaria/985-1982-376072), de 19 de Outubro, para análise de vinhos e aguardentes, quando aplicáveis.
+
+###### Art. 6.º - 1 - Os licores só podem ser vendidos em recipientes de vidro ou outro material, inerte e impermeável em relação ao conteúdo e inócuo.
+
+2 - Não obstante o disposto no número anterior, os licores poderão ser vendidos avulso por motivos de interesses turístico ou segundo a tradição de determinadas regiões, espécies de licores e tipos de estabelecimentos, desde que previamente autorizado pelo Instituto de Qualidade Alimentar e pela AGA, que comunicarão à Direcção-Geral de Inspecção Económica.
+
+###### Art. 7.º - 1 - É aplicável à rotulagem dos licores o disposto nos Decretos-Leis n.os [89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, e [440/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1985-178084), de 24 de Outubro, a qual obedecerá também ao preceituado nos n.os 2, 3 e 4 deste artigo.
+
+2 - A denominação de venda dos licores deverá ser uma das seguintes:
+
+a) A menção «Licor», seguida ou acompanhada do nome da planta, parte da planta, aromatizante natural ou equivalente de síntese que lhe confere o aroma, ou da região onde é tradicionalmente fabricado, bem como de outra designação peculiar consagrada pelo uso ou aprovada pelo organismo competente;
+
+b) A menção «Licor imitação» ou «Licor fantasia», seguida ou acompanhada da indicação do aroma que se procurou obter como o aromatizante artificial que lhe foi adicionado;
+
+c) Em ambos os tipos de bebida referidos nas alíneas anteriores, à palavra «Licor» pode seguir-se o qualificativo «creme» sempre que os produtos apresentem extracto seco total e açúcares totais dentro dos limites fixados no artigo 4.º para os «licores creme», por conterem elevado teor de açúcares.
+
+3 - É obrigatória a menção de todos os ingredientes, à excepção da água, do álcool etílico ou outros destilados.
+
+4 - A indicação do teor alcoólico em volume a 20ºC é obrigatória, admitindo-se uma tolerância de 2% em volume a 20ºC, devendo constar no mesmo campo visual da denominação de venda e da quantidade líquida.
+
+###### Art. 8.º - 1 - A violação do disposto nos artigos 3.º, 4.º e 6.º constitui contra-ordenação punível nos termos do artigo 58.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, salvo se outra punição mais grave lhe couber.
+
+2 - A violação do disposto no artigo 7.º constitui contra-ordenação punível nos termos da alínea c) do n.º 1 do artigo 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911).
+
+###### Art. 9.º Ficam revogados:
+
+a) O [Decreto n.º 37/74](https://diariodarepublica.pt/dr/detalhe/decreto/37-1974-407374), de 8 de Fevereiro, no respeitante a licores;
+
+b) O [Decreto-Lei n.º 355/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1984-400591), de 30 de Outubro.
+
+###### Art. 10.º O presente diploma entra em vigor decorridos seis meses após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de Maio de 1987. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
+
+**Promulgado em 4 de Junho de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 8 de Junho de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

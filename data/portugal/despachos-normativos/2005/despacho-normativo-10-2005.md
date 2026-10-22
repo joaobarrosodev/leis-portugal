@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:595750:por
+title: Despacho Normativo n.º 10/2005
+short_title: null
+summary: Concede uma subvenção financeira a fundo perdido aos produtores pecuários destinada a compensar os custos adicionais
+  resultantes de uma situação de escassez de pastagens em virtude das condições climatéricas adversas verificadas, agravada
+  por restrições à movimentação animal imposta no âmbito do Plano Nacional de Luta e Erradicação da Febre Catarral Ovina
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, Pescas e Florestas
+proposing_entity: null
+official_number: 10/2005
+official_date: null
+publication_date: '2005-02-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/2005, Série I-B de 2005-02-11
+  number: '30'
+  series: I
+  supplement: null
+  pages: 964 - 965
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/02/030b00/09640965.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/10/2005/02/11/p/dre/pt/html
+  oj: null
+  dre: '595750'
+  dre_path: /dr/detalhe/despacho-normativo/10-2005-595750
+  internal: pt:dre:595750:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2005-595750
+  metadata_url: https://data.dre.pt/eli/despnorm/10/2005/02/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2005-595750
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-02-11T00:00:00Z'
+integrity:
+  source_sha256: 55abac6afa9133cef80ae23c37de372dd705c95d528ec1659c3f21d606d57558
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-10-595750.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produtor
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 10/2005
+
+Na sequência da comunicação, por parte das autoridades sanitárias espanholas, em Outubro de 2004, da existência de focos de febre catarral ovina (língua azul) no seu território, em regiões próximas da fronteira com Portugal, foram tomadas diversas medidas para controlo da propagação da doença no nosso país, nomeadamente através do estabelecimento de uma zona de protecção e vigilância e da imposição de condicionalismos à movimentação de ruminantes.
+
+A análise da evolução da situação, e após o surgimento de focos no território nacional, conduziu à necessidade de adaptar as medidas em curso, adequando quer a zona sujeita a restrições, quer as restrições propriamente ditas.
+
+Neste contexto, foram comunicadas à Comissão Europeia as medidas nacionais adoptadas e integradas num plano de contingência com vista à erradicação da doença.
+
+Em paralelo, as condições climáticas adversas, entretanto constatadas, vieram agravar as já difíceis condições de maneio das explorações, particularmente aquelas que se dedicam à pecuária extensiva.
+
+Deste modo, o efeito conjugado das restrições veterinárias com as de origem climática implicam uma escassez de alimentação forrageira, o que tem provocado avultados prejuízos aos produtores pecuários extensivos.
+
+Em consequência desta situação excepcional, considera-se necessário e urgente apoiar aqueles produtores pelos custos adicionais com a alimentação do gado, resultantes quer das restrições de movimentação, quer da situação de seca.
+
+Assim, ao abrigo do despacho conjunto dos Ministros das Finanças e da Administração Pública e da Agricultura, Pescas e Florestas de 27 de Janeiro de 2005, determino o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - É concedida uma subvenção financeira a fundo perdido aos produtores pecuários cujas explorações se situem nas zonas referidas no anexo I ao presente diploma, e que dele faz parte integrante. Esta compensação destina-se a compensar os custos adicionais resultantes de uma situação de escassez de pastagens em virtude das condições climatéricas adversas verificadas, agravada por restrições à movimentação animal impostas no âmbito do Plano Nacional de Luta e Erradicação da Febre Catarral Ovina.
+
+2 - Esta subvenção é constituída por:
+
+a) Uma compensação no valor de (euro) 30 por fêmea da espécie bovina, com idade superior a 24 meses, classificada na base de dados do Sistema Nacional de Identificação e Registo de Bovinos (SNIRB) como pertencente a uma das raças constantes do anexo II ao presente diploma, e que dele faz parte integrante;
+
+b) Uma compensação no valor de (euro) 9 por fêmea das espécies ovina e caprina, com idade superior a 12 meses, ou que já tenham parido.
+
+3 - As compensações referidas no número anterior não podem ultrapassar os (euro) 3000 por beneficiário.
+
+###### Artigo 2.º — Limite financeiro
+
+1 - O montante total da presente subvenção não pode ultrapasar 15 milhões de euros.
+
+2 - Caso o somatório dos montantes a atribuir a cada beneficiário ultrapasse o limite financeiro previsto no número anterior, é efectuado um rateio proporcional.
+
+###### Artigo 3.º — Condições de acesso
+
+1 - O pagamento é processado tendo em conta o número de animais presentes na exploração entre 31 de Dezembro de 2004 e 31 de Janeiro de 2005.
+
+2 - O número de animais presentes na exploração é obtido através da média aritmética dos bovinos elegíveis constantes da base de dados do SNIRB e considerados como presentes na exploração em 31 de Dezembro de 2004 e em 31 de Janeiro de 2005 e, no caso dos ovinos e caprinos, com base na média aritmética dos ovinos e caprinos elegíveis, inscritos no Registo de Existências e Deslocações de Ovinos e Caprinos (RED) no dia 1 de Janeiro de 2005 e no dia 31 de Janeiro de 2005.
+
+###### Artigo 4.º — Processamento
+
+1 - O processamento da presente subvenção é efectuado de acordo com o seguinte procedimento:
+
+a) 1.ª fase, pagamento aos beneficiários de um montante calculado em função do número de bovinos elegíveis existentes na exploração em 31 de Dezembro de 2004 e o número de ovinos e caprinos elegíveis para o prémio por ovelha e cabra no ano de 2004;
+
+b) 2.ª fase, recuperação ou pagamento adicional, consoante se venha a apurar, por aplicação do disposto no n.º 2 do artigo 3.º, que estes montantes sejam inferiores ou superiores aos processados na 1.ª fase.
+
+2 - Sempre que, na 2.ª fase, se determine que o diferencial obtido é inferior a (euro) 30, não é efectuada qualquer correcção.
+
+3 - Do montante financeiro total previsto no artigo 2.º, 5% são afectos à 2.ª fase de processamento da ajuda.
+
+###### Artigo 5.º — Procedimento
+
+1 - Os produtores de ovinos ou de caprinos, elegíveis nos termos do presente despacho, que pretendam beneficiar desta medida devem apresentar, até ao dia 25 de Fevereiro, na direcção regional de agricultura (DRA) da sua área o RED, devidamente actualizado, e entregar cópia da folha correspondente ao mês de Janeiro.
+
+2 - Com base nos dados constantes do RED, as DRA remetem ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA), até ao dia 7 de Março, em ficheiro electrónico com formato a definir pelo INGA, a informação correspondente ao número de ovinos e caprinos presentes na exploração durante o mês de Janeiro, determinados de acordo com o procedimento definido no n.º 2 do artigo 3.º
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente diploma produz efeitos a partir de 2 de Fevereiro de 2005.
+
+Ministério da Agricultura, Pescas e Florestas, 2 de Fevereiro de 2005. - O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves.
+
+## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/02/030b00/09640965.pdf)
+
+## ANEXO II — (a que se refere o n.º 2 do artigo 1.º)
+
+Alentejana.
+
+Algarvia.
+
+Arouquesa.
+
+Barrosã.
+
+Brava de Lide.
+
+Marinhoa.
+
+Maronesa.
+
+Mertolenga.
+
+Minhota.
+
+Mirandesa.
+
+Charolesa.
+
+Hereford.
+
+Limousine.
+
+Salers.
+
+Pie Rouge.
+
+Norueguesa.
+
+Simental-Fleckvieh.
+
+Preta.
+
+Cachena.
+
+Ramo Grande.
+
+Garvonesa.
+
+Blonde d'Aquitaine.
+
+Blanc Blue Belge.
+
+Cruzado de Carne.
+
+Cruzado de Charolês.
+
+Cruzado de Limousine.
+
+Cruzado de Alentejano.
+
+Cruzado de BBB.
+
+Carne indeterminada.
+
+Outras.

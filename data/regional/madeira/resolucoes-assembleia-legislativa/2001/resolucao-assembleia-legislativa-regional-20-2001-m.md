@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:348522:por
+title: Resolução da Assembleia Legislativa Regional n.º 20/2001/M
+short_title: null
+summary: Recomenda ao Governo da República que tenha em consideração a evolução registada e os novos problemas e desafios
+  que se colocam aos serviços do Estado na Região na área da segurança
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 20/2001/M
+official_date: null
+publication_date: '2001-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/2001, Série I-B de 2001-07-09
+  number: '157'
+  series: I
+  supplement: null
+  pages: 4092 - 4092
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/07/157b00/40924092.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalr/20/2001/07/09/m/dre/pt/html
+  oj: null
+  dre: '348522'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regional/20-2001-348522
+  internal: pt:dre:348522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/20-2001-348522
+  metadata_url: https://data.dre.pt/eli/resolalr/20/2001/07/09/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/20-2001-348522
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-07-04T00:00:00Z'
+integrity:
+  source_sha256: 007ec3bc2662ba7594ebb56f69515f7dbfb503a4a1b082b9362b383148b43850
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2001/DRE-2001-20-348522.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Segurança Interna
+- Madeira.região Autónoma
+- Recomendação
+relationships:
+- type: amended_by
+  target: pt:dre:185498:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa Regional n.º 20/2001/M
+
+Serviços do Estado na Região na área da segurança
+
+A Região Autónoma da Madeira encontra-se confrontada, na actualidade, com inúmeros desafios gerados por um desenvolvimento económico, social e cultural multifacetado, decorrente de um esforço hercúleo, que foi necessário fazer nos últimos 20 anos, para recuperar o atraso secular em que se encontrava.
+
+As novas acessibilidades vieram originar problemas novos, tais como a criação e o crescimento de áreas industriais, o aparecimento de novas zonas residenciais, o alargamento e a dispersão de grandes aglomerados habitacionais e um acréscimo considerável de instalações hoteleiras, bem como a sua dispersão, não apenas no Funchal, mas em vários concelhos rurais, por toda a Região.
+
+Estes factores, acompanhados de novos fenómenos sociais resultantes da imigração de trabalhadores oriundos de diversos países e culturas, além do regresso de emigrantes da segunda geração, colocam novos problemas e vulnerabilidades no âmbito da segurança que exigem medidas a tempo, tendo em atenção uma economia baseada principalmente no turismo.
+
+Embora reconhecendo o grande esforço que é feito pelo Comando Regional da Polícia de Segurança Pública da Madeira, verifica-se, no entanto, não ter havido, por parte do Governo da República, uma percepção, correcta e atempada, da necessidade de uma evolução e adopção de medidas que permitam fazer face aos novos desafios que se colocam à Região em área tão sensível.
+
+A observação atenta destas novas realidades permite-nos ter a percepção de que algumas vertentes da segurança começam a apresentar aspectos que carecem de uma atenção especial, de que, aliás, no último relatório de segurança interna se dava conta.
+
+A nova dinâmica que se impõe adoptar deve ser simultaneamente rápida e evolutiva, de forma a permitir uma acção policial que garanta a prevenção e a acção dissuasora, que se espera das forças de segurança.
+
+Só assim será possível fazer face às fragilidades actuais e, ao mesmo tempo, aumentar a eficácia da PSP e a sua proximidade às pessoas e à sociedade em que se integra e serve.
+
+Como é sabido, aos órgãos de governo próprio cabe a acção que se insere no âmbito das suas competências, parte das quais se situam a montante e a jusante da área da segurança e do combate à criminalidade, que depende de serviços do Estado, como é o caso, no actual estado da evolução constitucional da autonomia, das forças de segurança e dos tribunais.
+
+Os graves reflexos que as insuficiências e as omissões do Estado em âmbitos tão sensíveis e socialmente tão relevantes podem ter (e já estão a ter) na vida colectiva da Região, na segurança de pessoas e bens e nas suas actividades económicas determinam que a Assembleia Legislativa Regional, intérprete primeira do sentir e dos anseios das populações, que representa, faça uso dos instrumentos parlamentares ao seu dispor, para a transmitir e fazer chegar aos órgãos de soberania, em particular ao Governo da República, as suas preocupações no que diz respeito à necessidade de suprir carências de meios humanos e materiais, que afectam, de forma crescente, o Comando Regional da PSP, mau grado o esforço notável que, a todos os níveis, vem fazendo, apesar das dificuldades referidas.
+
+Importa, aliás, ter presente que no Orçamento do Estado para 2000 e no PIDDAC foram retiradas e reduzidas, ou deslizaram mesmo para anos subsequentes, diversas verbas destinadas à construção ou melhoria de instalações das forças de segurança na Região.
+
+Por isso também importa que a Assembleia Legislativa Regional tome posição sobre esta matéria, desde já e a tempo dos seus alertas e recomendações poderem e deverem ser tidos em conta pelo Governo da República na elaboração da proposta de lei do Orçamento do Estado para 2002, a apresentar à Assembleia da República.
+
+Nestes termos, a Assembleia Legislativa Regional da Madeira recomenda ao Governo da República que tenha em consideração a evolução registada e os novos problemas e desafios que se colocam aos serviços do Estado na Região na área da segurança, adoptando, com a necessária prioridade, as seguintes medidas relativamente ao Comando Regional da PSP:
+
+a) Que, atentas as suas múltiplas tarefas, se proceda ao reforço dos seus meios humanos, tanto em oficiais, como subchefes, como agentes;
+
+b) Que seja dotado com os meios materiais e tecnológicos adequados às suas necessidades, às especificidades regionais e insulares, designadamente em viaturas e comunicações;
+
+c) Que se não adie mais, nomeadamente em sede do PIDDAC, a efectiva afectação de verbas destinadas à realização de obras necessárias à construção de novas instalações da PSP na Região ou melhoria das que se encontram degradadas;
+
+d) Que no reforço dos meios humanos se tenha em consideração e preferencie a colocação no Comando Regional de formandos naturais da Região, que melhor conhecem a realidade insular e que se não deparam, assim, com quaisquer problemas de adaptação, evitando-se a sua separação dos familiares, com todas as inerentes e graves consequências.
+
+A presente resolução será remetida para:
+
+S. Ex.ª o Presidente da República;
+
+S. Ex.ª o Presidente da Assembleia da República;
+
+S. Ex.ª o Primeiro-Ministro;
+
+S. Ex.ª o Ministro da Administração Interna.
+
+Aprovada em sessão plenária da Assembleia Legislativa Regional em 12 de Junho de 2001.
+
+**O Presidente da Assembleia Legislativa Regional, em exercício, José Paulo Baptista Fontes.**

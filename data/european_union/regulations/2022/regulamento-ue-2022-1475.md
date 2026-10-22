@@ -1,0 +1,1195 @@
+---
+schema_version: '1.0'
+id: eu:celex:32022R1475:por
+title: Regulamento de Execução (UE) 2022/1475 da Comissão de 6 de setembro de 2022
+short_title: null
+summary: Regulamento de Execução (UE) 2022/1475 da Comissão de 6 de setembro de 2022 que estabelece as regras de execução
+  do Regulamento (UE) 2021/2115 do Parlamento Europeu e do Conselho no respeitante à avaliação dos planos estratégicos da
+  PAC e à prestação de informações para efeitos de acompanhamento e de avaliação
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- AGRI
+- Comissão Europeia
+proposing_entity: null
+official_number: 2022/1475
+official_date: null
+publication_date: '2022-09-07'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 232 de 7.9.2022
+  number: '232'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/4a6c62f7-2e4d-11ed-975d-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2022-09-08'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2026-07-28'
+identifiers:
+  celex: 32022R1475
+  eli: http://data.europa.eu/eli/reg_impl/2022/1475/oj
+  oj: oj:JOL_2022_232_R_0003
+  dre: null
+  dre_path: null
+  internal: eu:celex:32022R1475:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022R1475
+  metadata_url: http://publications.europa.eu/resource/cellar/4a6c62f7-2e4d-11ed-975d-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R1475-20260728
+  retrieved_at: '2026-10-22T02:38:26Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-16T06:11:54.609+02:00'
+integrity:
+  source_sha256: 69e72e7e3eff14a6a01d7f63ebc63c0a05b2249a9370b31971c7b43ee67ea82c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:38:26Z'
+  notes: Texto consolidado 02022R1475-20260728.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Estado-Membro UE
+- FEADER
+- FEAGA
+- Política Agrícola Comum
+- ajuda à agricultura
+- aplicação do direito da UE
+- avaliação de projeto
+- comunicação de dados
+- gestão previsional
+- intercâmbio de informação
+relationships:
+- type: amended_by
+  target: celex:32023R2157
+  label: null
+  source: http://publications.europa.eu/resource/cellar/32d93c35-6d51-11ee-9220-01aa75ed71a1
+  date: '2023-10-18'
+- type: amended_by
+  target: celex:32024R1962
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7a67b6fc-4567-11ef-865a-01aa75ed71a1
+  date: '2024-07-19'
+- type: amended_by
+  target: celex:32026R1752
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6befd439-849c-11f1-bf5e-01aa75ed71a1
+  date: '2026-07-21'
+- type: based_on
+  target: celex:32021R2115
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4a220961-5636-11ec-91ac-01aa75ed71a1
+  date: '2021-12-06'
+- type: cited_by
+  target: pt:dre:1161801441:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1168979174:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:207942900:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:207942901:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:207942902:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:207942904:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:215980345:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:216253494:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:224139050:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:835863661:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:898989649:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:901998028:por
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R1185
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a321f718-607d-11e7-954d-01aa75ed71a1
+- type: cites
+  target: celex:32021R1060
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a0dfa793-d98d-11eb-895a-01aa75ed71a1
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://publications.europa.eu/resource/cellar/91b120e8-5636-11ec-91ac-01aa75ed71a1
+- type: cites
+  target: celex:32021R2289
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7e7bef6d-62ca-11ec-a033-01aa75ed71a1
+- type: cites
+  target: celex:32021R2290
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a62a042f-62ca-11ec-a033-01aa75ed71a1
+- type: cites
+  target: celex:32022R0126
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6f2cd09d-8238-11ec-8c40-01aa75ed71a1
+- type: corrected_by
+  target: celex:32022R1475R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/29155841-47c8-11ee-bbdc-01aa75ed71a1
+  date: '2023-08-31'
+article_structure:
+  article_count: 21
+  section_count: 38
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:38:26Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento de Execução (UE) 2022/1475 da Comissão de 6 de setembro de 2022
+
+> 02022R1475 — PT — 28.07.2026 — 003.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32023R2157) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2157 DA COMISSÃO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2157) — L 2157 — 1 — 18.10.2023
+- [►M2](http://publications.europa.eu/resource/celex/32024R1962) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1962 DA COMISSÃO de 18 de julho de 2024](http://publications.europa.eu/resource/celex/32024R1962) — L 1962 — 1 — 19.7.2024
+- [►M3](http://publications.europa.eu/resource/celex/32026R1752) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1752 DA COMISSÃO de 20 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1752) — L 1752 — 1 — 21.7.2026
+
+## REGULAMENTO DE EXECUÇÃO (UE) 2022/1475 DA COMISSÃO
+
+de 6 de setembro de 2022
+
+que estabelece as regras de execução do Regulamento (UE) 2021/2115 do Parlamento Europeu e do Conselho no respeitante à avaliação dos planos estratégicos da PAC e à prestação de informações para efeitos de acompanhamento e de avaliação
+
+## TÍTULO I
+
+### AVALIAÇÃO DOS PLANOS ESTRATÉGICOS DA PAC
+
+###### Artigo 1.º — Apreciação dos critérios de avaliação
+
+1. Na avaliação dos seus planos estratégicos da PAC, os Estados-Membros devem definir as questões de avaliação e os fatores de sucesso para apreciar os critérios de avaliação da eficácia, eficiência, relevância, coerência e valor acrescentado da União a que se refere o artigo 140.º, n.º 1, do Regulamento (UE) 2021/2115.
+
+2. Ao apreciar a eficácia dos seus planos estratégicos da PAC, os Estados-Membros devem utilizar os elementos fundamentais de avaliação estabelecidos no anexo I do presente regulamento, em conformidade com a lógica de intervenção dos planos estratégicos da PAC e, se for caso disso, com os fatores de sucesso recomendados estabelecidos nesse anexo.
+
+3. Ao apreciar a eficiência dos seus planos estratégicos da PAC, os Estados-Membros devem analisar se os efeitos ou benefícios dos planos estratégicos da PAC foram alcançados a um custo razoável e avaliar a simplificação, tanto para os beneficiários como para a administração, com especial destaque para os custos administrativos e a utilização de ferramentas digitais e satélites.
+
+###### Artigo 2.º — Avaliações dos planos estratégicos da PAC durante o período de execução
+
+Os Estados-Membros devem realizar as avaliações dos seus planos estratégicos da PAC durante o período de execução a que se refere o artigo 140.º, n.º 1, do Regulamento (UE) 2021/2115, do seguinte modo:
+
+a) Os Estados-Membros devem planear as avaliações dos objetivos específicos a que se refere o artigo 6.º, n.^os^ 1 e 2, do Regulamento (UE) 2021/2115 que são abordados nos seus planos estratégicos da PAC, de acordo com a lógica de intervenção do plano estratégico da PAC, por objetivo ou por avaliações globais que abranjam vários objetivos, ou apresentar uma justificação das razões pelas quais um objetivo específico não foi avaliado durante o período de execução;
+
+b) Os Estados-Membros devem avaliar os seus planos estratégicos da PAC utilizando os critérios de avaliação pertinentes e avaliar os impactos dos seus planos estratégicos da PAC tendo em conta o âmbito de aplicação, o tipo e a adoção das intervenções do plano estratégico da PAC;
+
+c) Se for caso disso, os Estados-Membros devem ter em conta o âmbito territorial das intervenções, em especial no que diz respeito às intervenções não executadas a nível nacional, mas executadas a nível regional ou local;
+
+d) Se for caso disso, com base nas necessidades de avaliação dos Estados-Membros e tendo em conta a lógica de intervenção e a execução do plano estratégico da PAC, os Estados-Membros devem avaliar também as intervenções ou temas específicos dos planos estratégicos da PAC, como a arquitetura ambiental e climática referida no artigo 109.º, n.º 2, alínea a), do Regulamento (UE) 2021/2115, o valor acrescentado da iniciativa LEADER, tal como definida no artigo 3.º, ponto 15, desse regulamento, as redes da PAC referidas no artigo 126.º do mesmo regulamento ou o Sistema de Conhecimento e Inovação Agrícolas (AKIS) definido no artigo 3.º, ponto 9, do mesmo regulamento;
+
+e) Os Estados-Membros devem realizar as avaliações a tempo de poderem preparar o período subsequente do plano estratégico da PAC. Se for caso disso, os Estados-Membros devem utilizar também os dados do período de programação anterior.
+
+###### Artigo 3.º — Avaliações ex post dos planos estratégicos da PAC
+
+1. As avaliações *ex post* referidas no artigo 140.º, n.º 6, do Regulamento (UE) 2021/2115 devem incluir uma apreciação abrangente dos planos estratégicos da PAC e da sua execução.
+
+2. As avaliações *ex post* devem incluir a apreciação dos planos estratégicos da PAC e da sua execução, com base em cada um dos critérios de avaliação da eficácia, da eficiência, da relevância, da coerência e do valor acrescentado da União e do impacto a que se refere o artigo 140.º, n.º 1, do Regulamento (UE) 2021/2115, em relação à contribuição do plano estratégico da PAC para a consecução dos objetivos gerais definidos no artigo 5.º do mesmo regulamento e dos objetivos específicos definidos no artigo 6.º, n.^os^ 1 e 2, do mesmo regulamento, que são abrangidos pelo plano estratégico da PAC.
+
+3. Após a conclusão da avaliação *ex post*, os Estados-Membros devem comunicar as constatações da avaliação à Comissão.
+
+###### Artigo 4.º — Plano de avaliação
+
+1. Os Estados-Membros devem elaborar um plano de avaliação a que se refere o artigo 140.º, n.º 4, do Regulamento (UE) 2021/2115, em conformidade com a lógica de intervenção do plano estratégico da PAC. O plano de avaliação deve preencher os requisitos mínimos estabelecidos no anexo II do presente regulamento.
+
+2. Os Estados-Membros devem identificar no plano de avaliação as partes interessadas a ter em conta no planeamento das atividades de avaliação e de reforço das capacidades. Se for caso disso, os Estados-Membros devem identificar outras partes interessadas que não os membros do comité de acompanhamento.
+
+###### Artigo 5.º — Comunicação de informações sobre as atividades de avaliação e as constatações efetuadas
+
+Os Estados-Membros devem partilhar com a Comissão as informações sobre as atividades de avaliação e as constatações efetuadas referidas no artigo 124.º, n.º 3, alínea d), e no artigo 124.º, n.º 4, alínea c), do Regulamento (UE) 2021/2115, após o exame pelo comité de acompanhamento, incluindo o resultado desse exame, o mais tardar um mês antes da reunião anual de avaliação referida no artigo 136.º do mesmo regulamento.
+
+###### Artigo 6.º — Apreciação do contributo dos planos estratégicos da PAC
+
+1. As avaliações dos planos estratégicos da PAC devem basear-se nos indicadores comuns pertinentes de realizações, de resultados, de impacto e de contexto estabelecidos no anexo I do Regulamento (UE) 2021/2115. Os Estados-Membros devem analisar os efeitos dos planos estratégicos da PAC nos objetivos específicos referidos no artigo 6.º, n.^os^ 1 e 2, do mesmo regulamento.
+
+2. Além disso, os Estados-Membros podem utilizar nas suas avaliações indicadores específicos diferentes dos estabelecidos no anexo I do Regulamento (UE) 2021/2115 ou quaisquer outras informações quantitativas e qualitativas pertinentes para tirar conclusões sobre o impacto dos planos estratégicos da PAC.
+
+3. Sempre que os indicadores comuns de resultados sejam expressos em termos de percentagem ou de número de unidades pertinentes sujeitas a determinadas intervenções, os Estados-Membros devem estimar os resultados dos planos estratégicos da PAC utilizando os efeitos potenciais dessas intervenções.
+
+4. Ao apreciarem uma intervenção não associada a qualquer indicador de resultados em conformidade com o artigo 111.º, segundo parágrafo, do Regulamento (UE) 2021/2115, os Estados-Membros devem fornecer uma apreciação sólida dessa intervenção, com base em informações pertinentes sobre os resultados da intervenção e os seus efeitos em relação aos objetivos específicos referidos no artigo 6.º, n.^os^ 1 e 2, do mesmo regulamento.
+
+5. Os Estados-Membros devem basear a sua apreciação do contributo dos planos estratégicos da PAC no desenvolvimento dos indicadores de impacto estabelecidos no anexo I do Regulamento (UE) 2021/2115, e quantificar o contributo dos planos estratégicos da PAC para esses desenvolvimentos, pelo menos no que diz respeito aos indicadores de impacto comuns estabelecidos no anexo III do presente regulamento.
+
+###### Artigo 7.º — Dados e apoio técnico às avaliações
+
+1. Os Estados-Membros devem assegurar a disponibilidade de dados para que os avaliadores possam cumprir as suas obrigações de acompanhamento e avaliação.
+
+2. Os Estados-Membros devem adotar as disposições necessárias em conjunto com as unidades estatísticas nacionais e, se for caso disso, regionais, os centros de investigação, as empresas e os fornecedores de dados, a fim de garantir a disponibilidade dos dados. Essas disposições devem ter em conta o âmbito territorial pertinente para as avaliações e incluir a utilização estatística dos dados provenientes de registos administrativos a que se refere o artigo 143.º, n.º 3, do Regulamento (UE) 2021/2115.
+
+3. Os Estados-Membros devem identificar as necessidades de apoio das partes interessadas e das administrações envolvidas na execução e avaliação dos planos estratégicos da PAC a nível nacional, regional e local, incluindo os GAL referidos no artigo 33.º do Regulamento (UE) 2021/1060 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0001)), tendo em conta a diversidade das capacidades das instituições e das partes interessadas em termos de acompanhamento e avaliação.
+
+4. Com base nas necessidades identificadas, os Estados-Membros devem estabelecer atividades de apoio, incluindo formação, orientações e quaisquer outras atividades pertinentes de reforço das capacidades, a executar pela(s) rede(s) nacional(ais) da PAC a que se refere o artigo 126.º, n.º 1, do Regulamento (UE) 2021/2115 ou em colaboração com esta(s).
+
+5. A Comissão deve estabelecer um programa de trabalho anual com as autoridades competentes dos Estados-Membros, os avaliadores e outras partes interessadas, com base nas suas necessidades de apoio, a executar pela rede europeia da PAC a que se refere o artigo 126.º, n.º 2, do Regulamento (UE) 2021/2115 ou em colaboração com esta.
+
+## TÍTULO II
+
+### DADOS PARA A REALIZAÇÃO DO ACOMPANHAMENTO E DA AVALIAÇÃO DOS PLANOS ESTRATÉGICOS DA PAC
+
+###### Artigo 8.º — Âmbito dos dados a fornecer pelos Estados-Membros
+
+Em conformidade com os artigos 9.º a 18.º, os Estados-Membros devem comunicar à Comissão as seguintes informações, necessárias para lhe permitir efetuar o acompanhamento e a avaliação da PAC:
+
+a) Dados desagregados sobre as intervenções e os beneficiários;
+
+b) O rácio de prados permanentes estabelecido anualmente nos termos do artigo 48.º, n.º 2, do Regulamento Delegado (UE) 2022/126 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0002));
+
+b-A) Dados sobre derrogações temporárias concedidas pelos Estados-Membros nos termos do artigo 13.º, n.º 2-A, do Regulamento (UE) 2021/2115;
+
+c) Dados sobre as intervenções em determinados setores a que se refere o título III, capítulo III, do Regulamento (UE) 2021/2115;
+
+d) Dados sobre os grupos operacionais da PEI a que se refere o artigo 127.º, n.º 3, do Regulamento (UE) 2021/2115;
+
+e) Dados sobre os GAL e as respetivas atividades no âmbito da iniciativa LEADER, tal como definida no artigo 3.º, ponto 15, do Regulamento (UE) 2021/2115.
+
+###### Artigo 9.º — Dados desagregados sobre as intervenções
+
+1. Os dados desagregados sobre as intervenções a que se refere o artigo 8.º, alínea a), do presente regulamento abrangem todas as intervenções sob a forma de pagamentos diretos a que se refere o título III, capítulo II, do Regulamento (UE) 2021/2115, incluindo o pagamento específico para o algodão previsto nesse capítulo, secção 3, subsecção 2, e todas as intervenções para o desenvolvimento rural a que se refere o título III, capítulo IV, desse regulamento, excluindo as intervenções no âmbito da iniciativa LEADER a que se refere o artigo 8.º, alínea e), do presente regulamento.
+
+2. Os Estados-Membros devem comunicar os dados desagregados referidos no n.º 1 por exercício financeiro agrícola, por montante unitário, para cada pedido de apoio ou de pagamento de cada beneficiário. Todas as transações efetuadas durante o exercício financeiro agrícola devem ser somadas.
+
+3. No anexo IV, pontos 1, 2 e 3, são estabelecidas regras pormenorizadas aplicáveis ao conteúdo dos dados desagregados sobre as intervenções.
+
+###### Artigo 10.º — Dados desagregados sobre os beneficiários
+
+1. Os dados desagregados sobre os beneficiários a que se refere o artigo 8.º, alínea a), do presente regulamento incluem informações sobre os agricultores na aceção do artigo 3.º, ponto 1, do Regulamento (UE) 2021/2115 e os beneficiários na aceção do artigo 3.º, ponto 13, desse regulamento que recebem apoio no âmbito de intervenções abrangidas pelo sistema integrado de gestão e de controlo a que se refere o artigo 65.º, n.º 1, do Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0003)) («sistema integrado»).
+
+2. Os Estados-Membros devem comunicar os dados desagregados sobre os beneficiários por exercício financeiro agrícola.
+
+3. No anexo IV, ponto 4, são estabelecidas regras pormenorizadas aplicáveis ao conteúdo dos dados desagregados sobre os beneficiários.
+
+###### Artigo 11.º — Rácio de prados permanentes
+
+O rácio de prados permanentes a que se refere o artigo 8.º, alínea b), do presente regulamento deve ser notificado ao nível estabelecido pelos Estados-Membros em conformidade com o artigo 48.º, n.º 2, segundo parágrafo, do Regulamento Delegado (UE) 2022/126.
+
+###### Artigo 11.º-A — Dados sobre derrogações temporárias aos requisitos das normas BCAA
+
+Os dados sobre derrogações temporárias aos requisitos das normas BCAA concedidas pelos Estados-Membros ao abrigo do artigo 13.º, n.º 2-A, do Regulamento (UE) 2021/2115 devem incluir, para cada derrogação, as seguintes informações:
+
+a) a norma BCAA e o requisito abrangidos pela derrogação temporária;
+
+b) os motivos da derrogação temporária;
+
+c) a alteração das práticas agrícolas permitida pela derrogação temporária;
+
+d) o âmbito territorial da derrogação temporária;
+
+e) a superfície (em hectares) abrangida pela derrogação temporária;
+
+f) o número de agricultores e outros beneficiários abrangidos pela derrogação temporária;
+
+g) os tipos de agricultores e outros beneficiários abrangidos pela derrogação temporária;
+
+h) a duração da derrogação temporária.
+
+###### Artigo 12.º — Dados sobre as intervenções em determinados setores
+
+1. Os dados sobre as intervenções em determinados setores a que se refere o artigo 8.º, alínea c), do presente regulamento incluem dados sobre as intervenções nos setores enumerados no artigo 42.º do Regulamento (UE) 2021/2115.
+
+2. No anexo V são estabelecidas regras pormenorizadas aplicáveis ao conteúdo dos dados sobre as intervenções nesses setores.
+
+###### Artigo 13.º — Dados sobre os grupos operacionais da PEI
+
+1. Os dados sobre os grupos operacionais da PEI a que se refere o artigo 8.º, alínea d), do presente regulamento incluem informações sobre os projetos dos grupos operacionais da PEI a que se refere o artigo 127.º, n.º 3, do Regulamento (UE) 2021/2115.
+
+2. No anexo VI são estabelecidas regras pormenorizadas aplicáveis ao conteúdo dos dados sobre os grupos operacionais da PEI.
+
+###### Artigo 14.º — Dados sobre os GAL e as respetivas atividades no âmbito da iniciativa LEADER
+
+1. Os dados sobre os GAL e as respetivas atividades no âmbito da iniciativa LEADER a que se refere o artigo 8.º, alínea e), do presente regulamento incluem informações sobre as intervenções executadas com base no artigo 77.º, n.º 1, alínea b), do Regulamento (UE) 2021/2115.
+
+2. No anexo VII são estabelecidas regras pormenorizadas aplicáveis ao conteúdo dos dados sobre os GAL e as respetivas atividades no âmbito da iniciativa LEADER.
+
+###### Artigo 15.º — Data e frequência da transmissão dos dados
+
+1. A partir do ano de referência de 2025, os Estados-Membros devem comunicar anualmente, até 30 de abril do ano N, os dados desagregados sobre as intervenções e os beneficiários a que se refere o artigo 8.º, alínea a), em relação às intervenções para as quais tenham sido efetuados pagamentos no exercício financeiro agrícola N-1.
+
+Em 2024, os Estados-Membros podem comunicar os dados desagregados sobre as intervenções até 30 de novembro de 2024, em relação às intervenções pagas no exercício financeiro agrícola de 2023. Se os Estados-Membros não comunicarem os dados desagregados sobre as intervenções em 2024, devem comunicá-los em 2025, em conformidade com o primeiro parágrafo do presente número.
+
+Em derrogação do primeiro parágrafo do presente número, os dados sobre os beneficiários relativos à superfície declarada e às terras em boas condições agrícolas e ambientais devem ser comunicados, no ano N, em relação às intervenções para as quais tenham sido pedidos pagamentos no ano civil N-2.
+
+2. Os Estados-Membros devem comunicar anualmente o rácio de prados permanentes a que se refere o artigo 8.º, alínea b), até 15 de março do ano N, em relação à superfície declarada no ano civil N-1. O primeiro ano de comunicação de informações será 2024.
+
+2-A. Os Estados-Membros devem comunicar anualmente os dados sobre as derrogações temporárias a que se refere o artigo 8.º, alínea b-A), até 15 de março do ano N, no respeitante às derrogações temporárias concedidas no ano civil N–1. O primeiro ano de referência será 2025.
+
+3.
+
+Os Estados-Membros devem comunicar anualmente os dados sobre as intervenções em determinados setores a que se refere o artigo 8.º, alínea c), até:
+
+a) 15 de junho do ano N, em relação aos dados do ano civil N-1 a que se refere o anexo V, ponto 1, ponto 2, alíneas a) e c), e pontos 3 a 7;
+
+b) 31 de janeiro do ano N, em relação aos dados do ano civil N a que se refere o anexo V, ponto 2, alínea b);
+
+c) 15 de junho do ano N, em relação aos dados do exercício financeiro N-1 a que se refere o anexo V, pontos 8 a 10.
+
+O primeiro ano de comunicação será 2023 para os dados a que se refere o anexo V, ponto 1 e ponto 2, alínea b), 2024 para os dados a que se refere o anexo V, ponto 2, alíneas a) e c), e pontos 3 a 7, e 2025 para os dados a que se refere o anexo V, pontos 8 a 10.
+
+Em derrogação do primeiro e segundo parágrafos do presente número, para o setor da apicultura, são aplicáveis as seguintes disposições:
+
+a) Os Estados-Membros devem comunicar, de dois em dois anos, os dados a que se refere o anexo V, pontos 5 e 6;
+
+b) Os dados a que se refere o anexo V, ponto 5, abrangem o ano civil anterior ao ano de comunicação;
+
+c) Os dados a que se refere o anexo V, ponto 6, abrangem os dois anos civis anteriores ao ano de comunicação;
+
+d) O primeiro ano de comunicação dos dados a que se refere o anexo V, pontos 4, 5 e 6, é 2023 e o dos dados a que se refere o anexo V, ponto 9, é 2024. Em 2023, os dados a que se refere o anexo V, pontos 5 e 6, podem ser comunicados até 15 de setembro.
+
+4. Os Estados-Membros devem comunicar os dados sobre os grupos operacionais da PEI a que se refere o artigo 8.º, alínea d), logo que o projeto do grupo operacional seja aprovado, a partir de 2023.
+
+5.
+
+Os Estados-Membros devem comunicar os dados sobre os GAL e as respetivas atividades no âmbito da iniciativa LEADER a que se refere o artigo 8.º, alínea e), do seguinte modo:
+
+a) Até 30 de abril de 2026, em relação às operações pagas nos exercícios financeiros de 2023 a 2025, cumulativamente; e
+
+b) Até 30 de abril de 2030, em relação às operações pagas nos exercícios financeiros de 2023 a 2029, cumulativamente.
+
+Em derrogação do primeiro parágrafo do presente número, os dados relativos às variáveis dos GAL estabelecidas no anexo VII, ponto 1, devem ser comunicados até 30 de abril do ano N para os GAL selecionados até 31 de dezembro do ano N-1.
+
+###### Artigo 16.º — Transferência de dados
+
+1. Os dados a que se refere o artigo 8.º, alíneas a), b), b-A), d) e e), devem ser transferidos para a Comissão através do sistema eletrónico para o intercâmbio seguro de informações denominado «SFC2021», relativamente ao qual as responsabilidades da Comissão e dos Estados-Membros são definidas no anexo II do Regulamento de Execução (UE) 2021/2289 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0004)).
+
+Os dados a que se refere o artigo 8.º, alínea c), devem ser transferidos para a Comissão através do sistema assente em tecnologias da informação disponibilizado pela Comissão nos termos do Regulamento de Execução (UE) 2017/1185 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0005)).
+
+2. Relativamente aos dados desagregados sobre as intervenções e os beneficiários a comunicar nos termos do artigo 8.º, alínea a), do presente regulamento, cabe ao organismo pagador a que se refere o artigo 9.º do Regulamento (UE) 2021/2116 ou, se for acreditado mais do que um organismo pagador num Estado-Membro, ao organismo de coordenação a que se refere o artigo 10.º desse regulamento transferir os dados para a Comissão.
+
+3. Relativamente ao rácio de prados permanentes e às derrogações temporárias aos requisitos das normas BCAA, os dados a comunicar nos termos do artigo 8.º, alíneas b) e b-A), devem ser transferidos pelo organismo pagador ou pelo organismo de coordenação.
+
+4. Quanto aos dados sobre as intervenções em determinados setores a comunicar nos termos do artigo 8.º, alínea c), aos dados sobre os grupos operacionais da PEI a comunicar nos termos do artigo 8.º, alínea d), e aos dados sobre os GAL e as respetivas atividades no âmbito da iniciativa LEADER a comunicar nos termos do artigo 8.º, alínea e), os dados podem ser transferidos pelos Estados-Membros ou por quaisquer entidades autorizadas pelos Estados-Membros.
+
+###### Artigo 17.º — Dados exaustivos
+
+Os Estados-Membros devem assegurar que os dados para efeitos de acompanhamento e de avaliação a que se refere o artigo 8.º sejam exaustivos e coerentes entre si, e que o seu conteúdo seja registado e apresentado em conformidade com os requisitos estabelecidos nos anexos IV a VII. Para o efeito, os Estados-Membros devem efetuar controlos informatizados.
+
+###### Artigo 18.º — Controlos e correção dos dados
+
+1. Os Estados-Membros são responsáveis por corrigir erros de escrita ou manifestos ou erros de natureza puramente redatorial dos dados referidos no artigo 8.º.
+
+2. Em caso de apresentação de dados errados ou de ocorrência de um problema com a transferência de dados, os Estados-Membros devem informar imediatamente a Comissão e corrigir os dados.
+
+3. Sem prejuízo dos controlos efetuados pelos Estados-Membros, a Comissão pode efetuar controlos com vista a verificar se os Estados-Membros forneceram dados exaustivos e coerentes entre si. Em caso de apresentação de dados errados, a Comissão pode solicitar aos Estados-Membros que corrijam os dados fornecidos.
+
+###### Artigo 19.º — Utilização dos dados
+
+A Comissão não divulga nem utiliza os dados pessoais obtidos nos termos do presente regulamento para outros fins que não o exercício das suas funções no contexto do quadro de desempenho nos termos do título VII, capítulo I, do Regulamento (UE) 2021/2115, e o acompanhamento e a avaliação da PAC nos termos do artigo 143.º do mesmo regulamento.
+
+## TÍTULO III
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+## ANEXO I
+
+### ELEMENTOS FUNDAMENTAIS DE AVALIAÇÃO E FATORES DE SUCESSO RECOMENDADOS A QUE SE REFERE O ARTIGO 1.º, N.º 2
+
+| Objetivo | Principais elementos a avaliar | Fatores de sucesso recomendados |
+| --- | --- | --- |
+| *Apoiar o rendimento viável das explorações agrícolas e a resiliência do setor agrícola em toda a União, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como garantir a sustentabilidade económica da produção agrícola na União* | Rendimento viável das explorações agrícolas «Rendimento viável das explorações agrícolas» significa não só um rendimento estável, mas também um rendimento distribuído de forma equitativa. | O nível de rendimento agrícola nas explorações apoiadas está a aumentar ou, pelo menos, é estável e as disparidades entre explorações e em relação a outros setores económicos estão a diminuir, tendo em conta as tendências da economia em geral. |
+| Resiliência A resiliência abrange o apoio aos agricultores que enfrentam riscos potenciais e limitações específicas que os podem forçar a cessar a atividade agrícola. | É distribuído apoio ao rendimento aos agricultores mais necessitados. |  |
+| *Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização* | Maior orientação para o mercado Com base na balança comercial agroalimentar (importações e exportações). | O comércio agroalimentar está a aumentar. |
+| Competitividade das explorações agrícolas Com base no aumento do capital, do trabalho e da produtividade fundiária através da inovação. | A produtividade nas explorações apoiadas está a aumentar. |  |
+| *Melhorar a posição dos agricultores na cadeia de valor* | Posição dos agricultores na cadeia alimentar Integração dos agricultores na cadeia alimentar e participação em regimes de qualidade e na produção biológica para aumentar o valor acrescentado. | A percentagem da produção comercializada por regimes de qualidade e produção biológica está a aumentar. A percentagem da produção comercializada por organizações de produtores (OP) e outras formas de organizações de agricultores apoiadas está a aumentar. O valor acrescentado bruto para os agricultores das OP e outras formas de organizações de agricultores ou que participam em regimes de qualidade e na produção biológica está a aumentar. |
+| *Contribuir para a atenuação das alterações climáticas e a adaptação às mesmas, nomeadamente através da redução das emissões de gases com efeito de estufa e do reforço do sequestro de carbono, bem como promover a energia sustentável* | Atenuação das alterações climáticas Com base nas emissões de gases com efeito de estufa (GEE) e no sequestro de carbono. | As emissões de GEE na agricultura estão a diminuir. O sequestro de carbono orgânico no solo está a aumentar ou a ser mantido. A capacidade de produção de energias renováveis está a aumentar. |
+| Adaptação às alterações climáticas Com base na resiliência da agricultura às alterações climáticas. | A resiliência da agricultura às alterações climáticas está a aumentar. |  |
+| *Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas* | Gestão eficiente dos recursos naturais Com base na preservação ou melhoria da qualidade e da quantidade dos recursos naturais através da redução dos poluentes e da exploração. | As emissões de amoníaco na agricultura, a fuga de nutrientes e a erosão do solo estão a diminuir. O equilíbrio de nutrientes nas terras agrícolas está a melhorar, reduzindo assim as perdas de nutrientes. A pressão sobre os reservatórios naturais de água está a diminuir. A utilização e o risco dos pesticidas químicos e a utilização de pesticidas mais perigosos estão a diminuir. |
+| *Contribuir para travar e inverter a perda de biodiversidade, melhorar os serviços ecossistémicos e preservar os habitats e as paisagens* | Inverter a perda de biodiversidade Com base na biodiversidade e nos *habitats* das terras agrícolas ou de outras zonas afetadas por práticas agrícolas ou florestais. | A biodiversidade relacionada com as terras agrícolas está a melhorar ou, pelo menos, a perda de biodiversidade foi travada. A biodiversidade nas zonas Natura 2000 afetadas pela agricultura ou pela silvicultura está a melhorar ou, pelo menos, a perda de biodiversidade foi travada. A agrobiodiversidade está a aumentar. |
+| Serviços ecossistémicos Com base em elementos paisagísticos que contribuem para os serviços ecossistémicos acolhendo espécies relevantes (por exemplo, através da polinização, do controlo de pragas), por processos biofísicos (por exemplo, através do controlo da erosão, da manutenção da qualidade da água) ou por valores culturais (por exemplo, valor estético). | As tendências dos polinizadores estão a melhorar ou, pelo menos, estáveis. A superfície coberta por elementos paisagísticos nas terras agrícolas está a aumentar ou a ser mantida. |  |
+| *Atrair e apoiar os jovens agricultores e outros novos agricultores e facilitar o desenvolvimento sustentável das empresas nas zonas rurais* | Renovação dos agricultores Com base no apoio à instalação e continuidade de jovens agricultores e de novos agricultores. | O número de jovens e novos agricultores está a aumentar. |
+| Desenvolvimento das empresas Com base no apoio à criação de empresas rurais e à diversificação das explorações agrícolas | O número de empresas rurais está a aumentar. |  |
+| *Promover o emprego, o crescimento, a igualdade de género, nomeadamente a participação das mulheres no setor da agricultura, a inclusão social e o desenvolvimento local nas zonas rurais, incluindo a bioeconomia circular e uma silvicultura sustentável* | Economia rural sustentável Com base no crescimento económico e na promoção do emprego. | A economia das zonas rurais está a crescer ou, pelo menos, estável e o fosso entre zonas urbanas e rurais está a diminuir. A taxa de emprego nas zonas rurais está a melhorar. O número de empresas relacionadas com a bioeconomia está a aumentar. A silvicultura sustentável está a aumentar. |
+| Desenvolvimento local Disponibilização de serviços e infraestruturas locais | Os serviços e as infraestruturas locais estão a melhorar. |  |
+| Igualdade de género e inclusão social Promoção da participação das mulheres na agricultura e na economia, equidade dos rendimentos e redução da pobreza. | O emprego e a participação das mulheres na agricultura estão a melhorar. O apoio do plano estratégico da PAC é distribuído de forma mais equitativa. A pobreza rural está a diminuir. |  |
+| *Melhorar a resposta dada pela agricultura da União às exigências da sociedade no domínio alimentar e da saúde, nomeadamente no que respeita à produção sustentável de alimentos seguros, de elevada qualidade e nutritivos, reduzir o desperdício alimentar, melhorar o bem-estar dos animais e combater a resistência antimicrobiana* | Qualidade e segurança dos alimentos Com base na promoção de regimes de qualidade, na promoção do bem-estar dos animais e no combate à resistência antimicrobiana. | O valor da produção comercializada ao abrigo de regimes de qualidade está a aumentar. O bem-estar dos animais está a melhorar e a utilização de agentes antimicrobianos está a diminuir. |
+| *Modernizar o setor através da promoção e partilha de conhecimentos, inovação e digitalização na agricultura e nas zonas rurais, e através do incentivo à sua utilização pelos agricultores, por via da melhoria do acesso à investigação, à inovação, ao intercâmbio de conhecimentos e à formação* | Sistema de Conhecimento e Inovação Agrícolas (AKIS) e estratégia digital Com base no apoio às ações estratégicas do AKIS, nas intervenções relacionadas com o AKIS e na estratégia digital e no seu impacto na adoção da inovação pelos agricultores. | Um número crescente de agricultores participa em programas de formação e/ou recorre ao aconselhamento agrícola. Os agricultores alteram as práticas agrícolas após participarem em programas de formação e/ou recorrerem ao aconselhamento agrícola. Um número crescente de agricultores é apoiado pela tecnologia agrícola digital através do plano estratégico da PAC. As despesas do plano estratégico da PAC destinadas a apoiar a criação de inovação e a partilha de conhecimentos estão a aumentar. |
+
+## ANEXO II
+
+### REQUISITOS MÍNIMOS PARA A ESTRUTURA E O CONTEÚDO DO PLANO DE AVALIAÇÃO A QUE SE REFERE O ARTIGO 4.º, N.º 1
+
+### 1. Objetivos e necessidades
+
+Uma declaração dos objetivos do plano de avaliação e das necessidades relacionadas com a avaliação, a fim de assegurar a realização de atividades de avaliação suficientes e adequadas, em especial fornecer as informações necessárias para a orientação do programa, enquadrar o próximo período de programação estratégica e assegurar a disponibilidade dos dados necessários para a avaliação do plano estratégico da PAC.
+
+### 2. Governação e coordenação
+
+Breve descrição das disposições de acompanhamento e de avaliação do plano estratégico da PAC, que indique os principais organismos envolvidos e as respetivas responsabilidades.
+
+### 3. Identificação das partes interessadas
+
+Breve descrição das partes interessadas a que se refere o artigo 4.º, n.º 2, e das suas necessidades relacionadas com as atividades de avaliação e, se for caso disso, com o reforço das capacidades.
+
+### 4. Calendário
+
+Planeamento indicativo das avaliações e dos estudos de apoio às mesmas a realizar durante o ciclo de programação, bem como a fundamentação das escolhas efetuadas, incluindo:
+
+a) As avaliações para aferir o contributo dos planos estratégicos da PAC para os objetivos da PAC, a realizar durante a execução do plano estratégico da PAC;
+
+b) Se for caso disso, as avaliações destinadas a analisar tópicos específicos, previstas no artigo 2.º, alínea d);
+
+c) Os estudos de apoio e outras atividades de investigação e análise para as avaliações.
+
+### 5. Dados e informações
+
+Breve descrição das disposições a que se refere o artigo 7.º, n.º 2, a fim de assegurar a disponibilidade dos dados para efeitos de acompanhamento e avaliação, incluindo a identificação das principais fontes de dados a utilizar, disposições institucionais para o fornecimento de dados e disposições de controlo da qualidade dos dados. Esta secção também deve incluir a identificação de lacunas de dados e medidas para as colmatar, incluindo a existência de sistemas de dados operacionais a tempo.
+
+### 6. Comunicação e seguimento
+
+Descrição do modo de divulgação das constatações da avaliação aos beneficiários visados, incluindo uma descrição dos mecanismos estabelecidos para o seguimento e a utilização dos resultados.
+
+### 7. Recursos, apoio técnico e reforço das capacidades
+
+Descrição dos recursos necessários e previstos para executar o plano de avaliação, incluindo uma indicação das capacidades administrativas, dos dados e dos recursos financeiros e informáticos.
+
+Descrição da execução do apoio ao programa a que se refere o artigo 7.º, n.^os^ 3 e 4, incluindo as atividades de apoio técnico e de reforço das capacidades realizadas para assegurar que o plano de avaliação possa ser plenamente executado e o apoio previsto aos GAL para a avaliação das estratégias de desenvolvimento local.
+
+## ANEXO III
+
+### INDICADORES DE IMPACTO REFERIDOS NO ARTIGO 6.º, N.º 5
+
+| Código do indicador [(^1^)](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0006) | Nome do indicador |
+| --- | --- |
+| *I.2* | Reduzir as disparidades ao nível do rendimento: Evolução do rendimento agrícola em comparação com a economia geral |
+| *I.3* | Reduzir a variabilidade do rendimento das explorações agrícolas: Evolução do rendimento agrícola |
+| *I.4* | Apoiar o rendimento viável das explorações agrícolas: Evolução do nível do rendimento agrícola por tipo de exploração (em comparação com a média na agricultura) |
+| *I.5* | Contribuir para o equilíbrio territorial: Evolução do rendimento agrícola em zonas com condicionalismos naturais (em comparação com a média) |
+| *I.10* | Contribuir para a atenuação das alterações climáticas: Emissões de gases com efeito de estufa provenientes da agricultura |
+| *I.12* | Aumentar a utilização de energias sustentáveis no setor da agricultura: Produção sustentável de energia renovável proveniente da agricultura e da silvicultura |
+| *I.14* | Melhorar a qualidade do ar: Emissões de amoníaco provenientes da agricultura |
+| *I.15* | Melhorar a qualidade da água: Balanço bruto de nutrientes nas terras agrícolas |
+| *I.26* | Uma PAC mais equitativa: Distribuição do apoio da PAC |
+| (^1^) Anexo I do Regulamento (UE) 2021/2115. |  |
+
+## ANEXO IV
+
+### REGRAS RELATIVAS AOS DADOS DESAGREGADOS SOBRE AS INTERVENÇÕES E OS BENEFICIÁRIOS A QUE SE REFERE O ARTIGO 9.º, N.º 3, E O Artigo 10.º, N.º 3
+
+### Comunicação de dados desagregados sobre as intervenções
+
+1. Ao comunicar dados para efeitos de acompanhamento e avaliação das intervenções a que se refere o artigo 8.º, alínea a), do presente regulamento, os Estados-Membros devem respeitar os métodos de cálculo dos indicadores de realizações e de resultados estabelecidos no Regulamento de Execução (UE) 2021/2290 e o seguinte:
+
+a) O valor da realização gerado por uma intervenção deve ser comunicado no âmbito das variáveis de acompanhamento pertinentes estabelecidas no ponto 2 do presente anexo;
+
+b) O valor da realização gerado por uma intervenção deve também ser comunicado no âmbito das variáveis de resultados, definidas no ponto 3 do presente anexo, para os indicadores de resultados estabelecidos no anexo I do Regulamento (UE) 2021/2115 selecionados pelos Estados-Membros no seu plano estratégico da PAC («indicadores de resultados pertinentes»);
+
+c) O valor da realização que contribui para o cálculo do numerador dos indicadores de resultados deve ser comunicado na íntegra a partir do primeiro pagamento [excluindo os adiantamentos referidos no artigo 32.º, n.º 4, alínea a), no artigo 32.º, n.º 5, e no artigo 44.º, n.º 3, do Regulamento (UE) 2021/2116].
+
+2. Os Estados-Membros devem fornecer a seguinte lista de variáveis de acompanhamento, por intervenção para cada beneficiário, de acordo com a conceção específica das intervenções e a sua lógica de intervenção:
+
+a) Variáveis de acompanhamento para comunicar informações administrativas (M010 a M040)
+
+i) M010: código do organismo pagador
+
+ii) M020: código único do pedido de apoio ou de pagamento relativo a uma intervenção
+
+iii) M030: identificador único do beneficiário
+
+iv) M040: código orçamental
+
+b) Variáveis de acompanhamento para comunicar os montantes gastos (M050 a M070)
+
+i) [**►M1**](http://publications.europa.eu/resource/celex/32023R2157) M050: montante total dos fundos da UE**◄**
+
+ii) M060: total das despesas públicas
+
+iii) M070: total do financiamento nacional adicional
+
+c) Variáveis de acompanhamento para comunicar a superfície elegível e determinada (M080 a M095)
+
+i) M080: número de hectares de superfície elegível determinada antes da aplicação de limites, excluindo os florestais
+
+ii) M085: número de hectares de superfície florestal elegível determinada antes da aplicação de limites
+
+iii) M090: número de hectares de superfície elegível, excluindo a florestal
+
+iv) M095: número de hectares de superfície florestal elegível determinada depois da aplicação de limites
+
+d) Variáveis de acompanhamento para comunicar as unidades pagas (M100 a M160)
+
+i) M100: número de hectares de superfície elegível paga
+
+i-A) M101: número de hectares de superfície de terras aráveis elegíveis pagos decorrente da adoção de práticas de manutenção de zonas não produtivas, como terras em pousio, em conformidade com o artigo 31.º, n.º 1-A, do Regulamento (UE) 2021/2115,
+
+i-B) M102: número de hectares de superfície de terras aráveis elegíveis pagos decorrente da criação de novos elementos paisagísticos, em conformidade com o artigo 31.º, n.º 1-A, do Regulamento (UE) 2021/2115,
+
+ii) M110: número de cabeças de gado pagas,
+
+iii) M120: número de cabeças normais pagas,
+
+iv) M130: número de operações pagas
+
+v) M140: número de explorações agrícolas apoiadas
+
+vi) M150: número de fundos mutualistas pagos
+
+vii) M160: número de outras unidades pagas — unidade de medida,
+
+viii) M161: número de outras unidades pagas — realização gerada
+
+e) Variáveis de acompanhamento para comunicar se está preenchida uma condição (M170 a M210)
+
+i) M170: investimento que resulta num aumento líquido da superfície irrigada
+
+ii) M180: investimento que resulta numa melhoria de instalações de irrigação existentes
+
+iii) M190: investimento na utilização de água para reutilização
+
+iv) M200: investimento em banda larga
+
+v) M210: investimento em biometano
+
+3. Os Estados-Membros devem apresentar a contribuição dos valores de realização para o numerador dos indicadores de resultados pertinentes estabelecidos no anexo I do Regulamento (UE) 2021/2115, utilizando as seguintes variáveis de resultados:
+
+a) Variáveis de resultados R001, R002, R003, R004, R005, R009, R010, R012, R013, R014, R015, R016, R017, R018, R019, R020, R021, R022, R023, R024, R025, R026, R027, R028, R029, R030, R031, R032, R033, R034, R035, R036, R037, R038, R039, R040, R041, R042, R043 e R044 correspondentes, respetivamente, aos indicadores de resultados R.1, R.2, R.3, R4, R.5, R.9, R.10, R.12, R.13, R.14, R.15, R.16, R.17, R.18, R.19, R.20, R.21, R.22, R.23, R.24, R.25, R.26, R.27, R.28, R.29, R.30, R.31, R.32, R.33, R.34, R.35, R.36, R.37, R.38, R.39, R.40, R.41, R.42, R.43 e R.44.
+
+b) Em relação à variável de resultados R017, que contribui para o indicador de resultados R.17 (Solo florestado), os Estados-Membros devem comunicar a repartição para o cálculo do indicador de resultados, do seguinte modo:
+
+i) R117: superfície florestada,
+
+ii) R217: superfície recuperada,
+
+iii) R317: superfície agroflorestal,
+
+iv) R417: elementos de paisagem florestal plantados
+
+c) Em relação à variável de resultados R043, que contribui para o indicador de resultados R.43 (Limitar a utilização de antimicrobianos), os Estados-Membros devem comunicar a repartição para o cálculo do indicador de resultados por espécie, do seguinte modo:
+
+i) R143: número de cabeças normais de suínos,
+
+ii) R243: número de cabeças normais de bovinos,
+
+iii) R343: número de cabeças normais de aves de capoeira,
+
+iv) R443: número de cabeças normais de ovinos e caprinos,
+
+v) R543: número de outras cabeças normais;
+
+d) Em relação à variável de resultados R044, que contribui para o indicador de resultados R.44 (Promover o bem-estar dos animais), os Estados-Membros devem comunicar a repartição para o cálculo do indicador de resultados por espécie, do seguinte modo:
+
+i) R144: número de cabeças normais de suínos,
+
+ii) R244: número de cabeças normais de bovinos,
+
+iii) R344: número de cabeças normais de aves de capoeira,
+
+iv) R444: número de cabeças normais de ovinos e caprinos,
+
+v) R544: número de outras cabeças normais.
+
+### Comunicação de dados relativos aos beneficiários
+
+4. Os Estados-Membros devem fornecer as seguintes variáveis relativas aos beneficiários, de acordo com a conceção específica das intervenções e a sua lógica de intervenção:
+
+a) B010: identificador único do beneficiário
+
+b) B020: género
+
+c) B030: jovem agricultor
+
+d) B040: localização geográfica — município
+
+e) B050: zonas sujeitas a condicionalismos naturais ou outros condicionalismos específicos
+
+f) B060: zona vulnerável aos nitratos
+
+g) B070: características da localização da exploração agrícola num plano de gestão de bacia hidrográfica
+
+h) B080: zona da rede Natura 2000
+
+i) B090: exploração agrícola biológica
+
+j) B100: número de hectares de terras aráveis declarados
+
+k) B110: número de hectares de prados permanentes declarados
+
+l) B120: número de hectares com culturas permanentes declarados
+
+m) B130: número de hectares de outras superfícies elegíveis para pagamentos diretos
+
+n) B141: BCAA 2 – número de hectares de zonas húmidas e turfeiras — prados permanentes
+
+o) B142: BCAA 2 – número de hectares de zonas húmidas e turfeiras — terras aráveis
+
+p) B143: BCAA 2 – número de hectares de zonas húmidas e turfeiras — culturas permanentes
+
+r) B170: BCAA 9 – número de hectares sujeitos à proibição de conversão ou lavoura
+
+i) B171: BCAA 9 – número de hectares de prados permanentes nos sítios da rede Natura 2000,
+
+ii) B172: BCAA 9 – número de hectares de prados permanentes designados ambientalmente sensíveis nos sítios da rede Natura 2000 protegidos ao abrigo da BCAA 9 e declarados pelos agricultores;
+
+s) B180: número de hectares de prados permanentes designados ambientalmente sensíveis fora dos sítios da rede Natura 2000, protegidos no âmbito das BCAA e declarados pelos agricultores, se for caso disso.
+
+## ANEXO V
+
+### REGRAS RELATIVAS AOS DADOS SOBRE AS INTERVENÇÕES EM DETERMINADOS SETORES A QUE SE REFERE O ARTIGO 12.º, N.º 2
+
+### Informações administrativas e informações por setor
+
+Em relação às intervenções em determinados setores a que se refere o título III, capítulo III, do Regulamento (UE) 2021/2115, os Estados-Membros devem comunicar informações administrativas e informações por setor, utilizando os seguintes formulários:
+
+1. Formulário A.1.
+
+2. Formulário A.2.
+
+a) Lista das organizações transnacionais de produtores (OTP) e das associações transnacionais de organizações de produtores (ATOP) com sede nos Estados-Membros;
+
+b) Montante dos fundos operacionais aprovados, repartido por organizações de produtores (OP), associações de organizações de produtores (AOP), OTP e ATOP e discriminado do seguinte modo:
+
+i) montante total,
+
+ii) montante da contribuição financeira da organização,
+
+iii) montante da assistência financeira da União;
+
+c) Montante do fundo operacional final, repartido por OP, AOP, OTP e ATOP e discriminado do seguinte modo:
+
+i) montante total,
+
+ii) montante da contribuição financeira da organização,
+
+iii) montante da assistência financeira da União;
+
+3. Formulário A.3.
+
+a) Montante efetivamente pago (em euros ou moeda nacional);
+
+b) Lista das regiões beneficiárias;
+
+4. Formulário A.4.
+
+5. Formulário A.5.
+
+a) O número de apicultores;
+
+b) O número de apicultores que gerem mais de 150 colmeias;
+
+c) O número total de colmeias geridas por apicultores com mais de 150 colmeias;
+
+d) O número de apicultores organizados em associações de apicultores;
+
+e) O intervalo de preços em euros para o mel multifloral no local de produção;
+
+f) O intervalo de preços em euros para o mel multifloral a granel nos grossistas;
+
+g) O custo médio de produção estimado em euros (fixo e variável) por quilograma de mel produzido;
+
+6. Formulário A.6.
+
+a) A produção nacional anual de mel, expressa em quilogramas;
+
+b) O rendimento médio anual estimado em quilogramas de mel por colmeia;
+
+7. Formulário A.7.
+
+a) Superfície total (em hectares) afeta à produção de frutas e produtos hortícolas, por OP, AOP, OTP e ATOP (excluindo os cogumelos);
+
+b) Superfície total (em hectares) afeta à produção de lúpulo, por OP, AOP, OTP e ATOP;
+
+c) Superfície total (em hectares) afeta à produção de azeite e azeitonas de mesa, por OP, AOP, OTP e ATOP;
+
+d) No que respeita aos outros setores:
+
+— Setores das culturas referidas no artigo 1.º, n.º 2, alíneas a) a e), h), k) e m), do Regulamento (UE) n.º 1308/2013 e setores que abrangem os produtos enumerados no anexo VI do Regulamento (UE) 2021/2115, superfície total (em hectares) abrangida e/ou volume (em toneladas) produzido por OP, AOP, OTP e ATOP;
+
+— Setores da pecuária referidos no artigo 1.º, n.º 2, alíneas o) a t) e w), do Regulamento (UE) n.º 1308/2013 e setores que abrangem os produtos enumerados no anexo VI do Regulamento (UE) 2021/2115, número total de animais e/ou volume (em toneladas) produzidos por OP, AOP, OTP e ATOP.
+
+### Informações relativas a despesas
+
+Em relação às intervenções em determinados setores a que se refere o título III, capítulo III, do Regulamento (UE) 2021/2115, os Estados-Membros devem comunicar informações relativas a despesas, utilizando os seguintes formulários:
+
+8. Formulário B.1.
+
+a) Despesas (em euros ou moeda nacional) das OP, AOP, OTP e ATOP, por intervenção e por objetivo, tal como referido no artigo 46.º, alíneas a) a k), do regulamento em causa;
+
+b) Despesas administrativas e com pessoal (em euros ou moeda nacional) das OP, AOP, OTP e ATOP;
+
+c) Em relação à retirada do mercado para distribuição gratuita e outros fins, discriminadas por produto:
+
+i) volume anual total (em toneladas), discriminado do seguinte modo:
+
+1) distribuição gratuita;
+
+2) compostagem;
+
+3) indústria de transformação;
+
+4) outros fins,
+
+ii) total de despesas (em euros ou moeda nacional),
+
+iii) montante da assistência financeira da União (em euros ou moeda nacional);
+
+d) Superfície total (em hectares) por intervenção, discriminada do seguinte modo:
+
+i) investimentos na irrigação que resultam num aumento líquido da superfície da irrigada,
+
+ii) replantação de pomares ou olivais,
+
+iii) colheita em verde,
+
+iv) não colheita,
+
+v) produção biológica,
+
+vi) produção integrada,
+
+vii) melhor utilização dos recursos hídricos e boa gestão dos mesmos,
+
+viii) melhor conservação dos solos,
+
+ix) criação e manutenção de *habitats* favoráveis à biodiversidade;
+
+e) Percentagens dos objetivos mínimos de poupança de água para os investimentos;
+
+f) Número de projetos executados no domínio da energia;
+
+g) Percentagem e volume de utilização de água para reutilização;
+
+h) Número de intervenções de promoção, comunicação e comercialização por objetivo, tal como referido no artigo 46.º, alíneas h) e i), do regulamento em causa;
+
+9. Formulário B.2.
+
+10. Formulário B.3.
+
+a) Para a reestruturação e reconversão de vinhas e a colheita em verde:
+
+i) assistência financeira da União,
+
+ii) total de despesas dos beneficiários,
+
+iii) número de beneficiários,
+
+iv) número de operações;
+
+b) Para investimentos em empresas, investimentos em empresas em regiões de convergência, investimentos em empresas em regiões que não regiões de convergência, investimentos em empresas em regiões ultraperiféricas e investimentos em empresas em regiões das ilhas menores do mar Egeu:
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) total de despesas (em euros ou moeda nacional) dos beneficiários,
+
+iii) número de beneficiários;
+
+c) Para os seguros de colheitas:
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) total de despesas (em euros ou moeda nacional) dos beneficiários,
+
+iii) número de beneficiários,
+
+iv) número de apólices de seguro financiadas;
+
+d) Para a inovação:
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) total de despesas (em euros ou moeda nacional) dos beneficiários,
+
+iii) número de beneficiários;
+
+e) Para a destilação de subprodutos:
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) número de beneficiários (destilarias),
+
+iii) borras (intervalo de apoio máximo),
+
+iv) bagaços (intervalo de apoio máximo),
+
+v) quantidade de borras destiladas,
+
+vi) quantidade de bagaços destilados,
+
+vii) milhões de hectolitros de álcool obtidos;
+
+f) Para ações empreendidas por organizações interprofissionais do setor vitivinícola reconhecidas pelos Estados-Membros, em conformidade com o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0009)), destinadas a reforçar a reputação das vinhas da União através da promoção do turismo vitivinícola nas regiões de produção:
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) total de despesas (em euros ou moeda nacional) dos beneficiários,
+
+iii) número de beneficiários,
+
+iv) número de operações;
+
+g) Para ações empreendidas por organizações interprofissionais do setor vitivinícola reconhecidas pelos Estados-Membros, em conformidade com o Regulamento (UE) n.º 1308/2013, destinadas a aumentar o conhecimento do mercado:
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) total de despesas (em euros ou moeda nacional) dos beneficiários,
+
+iii) número de beneficiários,
+
+iv) número de operações;
+
+h) Para informação nos Estados-Membros e promoção e comunicações em países terceiros:
+
+i) número de beneficiários,
+
+ii) número de operações,
+
+iii) por ação de informação ou de promoção:
+
+1) beneficiários;
+
+2) medida elegível;
+
+3) descrição;
+
+4) mercado visado;
+
+5) período;
+
+6) total de despesas (em euros ou moeda nacional), entre as quais:
+
+— assistência financeira da União no âmbito de intervenções setoriais,
+
+— assistência financeira da União no âmbito de outros apoios,
+
+— auxílios estatais,
+
+— despesas dos beneficiários;
+
+i) Para o arranque permanente de vinhas produtivas:
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) total de despesas (em euros ou moeda nacional) dos beneficiários,
+
+iii) número de beneficiários,
+
+iv) número de hectares objeto de arranque,
+
+v) número de operações;
+
+j) Para atividades de monitorização, diagnóstico, formação, comunicação e investigação destinadas a prevenir a propagação de pragas pertinentes referidas na parte B do anexo II e na parte C do anexo IV do Regulamento de Execução (UE) 2019/2072 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0010)):
+
+i) assistência financeira da União (em euros ou moeda nacional),
+
+ii) total de despesas (em euros ou moeda nacional) dos beneficiários,
+
+iii) número de beneficiários,
+
+iv) número de operações.
+
+## ANEXO VI
+
+### REGRAS RELATIVAS AOS DADOS SOBRE OS GRUPOS OPERACIONAIS DA PARCERIA EUROPEIA DE INOVAÇÃO PARA A PRODUTIVIDADE E A SUSTENTABILIDADE AGRÍCOLAS (PEI) A QUE SE REFERE O ARTIGO 13.º, N.º 2
+
+### Dados obrigatórios
+
+1. Os Estados-Membros devem comunicar os seguintes dados obrigatórios sobre os grupos operacionais da PEI:
+
+a) Título do projeto: título abreviado do projeto na língua original;
+
+b) Título do projeto em inglês: título abreviado do projeto em inglês;
+
+c) Editor do texto: nome da pessoa ou do organismo responsável pela redação das informações codificadas no sistema eletrónico para o intercâmbio seguro de informações, a seguir designado por «SFC2021»;
+
+d) Coordenador do projeto: nome, endereço, correio eletrónico e telefone da pessoa responsável pela gestão do projeto em conformidade com o acordo de cooperação ou a descrição do projeto;
+
+e) Parceiro(s) do projeto: nome, endereço, correio eletrónico, telefone e tipo de parceiro(s);
+
+f) «Resumo de práticas» na língua original, que deve incluir:
+
+i) o objetivo do projeto, descrevendo os problemas e/ou oportunidades que o projeto aborda,
+
+ii) um breve resumo das constatações (previstas ou finais). Este resumo deve conter, pelo menos, as seguintes informações, numa linguagem facilmente compreensível orientada para os profissionais e utilizadores finais dos resultados do projeto:
+
+(1) principais constatações do projeto (previstas ou finais);
+
+(2) a(s) principal(is) recomendação(ões) prática(s);
+
+g) «Resumo de práticas» em inglês: tradução do «resumo de práticas» em inglês;
+
+h) Categoria das palavras-chave: palavras-chave aplicáveis ao projeto selecionadas a partir de uma lista predefinida de categorias, estabelecida no SFC2021;
+
+i) Situação do projeto: em curso, concluído, cancelado;
+
+j) Fonte(s) de financiamento adicional: fontes de financiamento adicional para além do apoio da PEI à PAC, como o Horizonte 2020, criado pelo Regulamento (UE) n.º 1291/2013 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0011)), se for caso disso;
+
+k) Período do projeto: data de início e de termo do projeto;
+
+l) Localização geográfica: região NUTS 3 onde se realizam as principais atividades do projeto;
+
+m) Contribuição do projeto para os objetivos específicos da PAC: o(s) objetivo(s) específico(s) da PAC a que se refere o artigo 6.º do Regulamento (UE) 2021/2115 para o(s) qual(is) o projeto contribuirá;
+
+n) Grupos operacionais transfronteiriços/transnacionais:
+
+i) se o projeto é transfronteiriço e/ou transnacional,
+
+ii) que Estado-Membro/região coordena e codifica o projeto no SFC2021,
+
+iii) que Estado(s)-Membro(s)/região(ões) faz(em) parte do projeto (utilizando o código NUTS 3),
+
+iv) orçamento por Estado(s)-Membro(s)/região(ões) que faz(em) parte do projeto, em despesas públicas, somando todas as contribuições (FEADER, cofinanciamento nacional, financiamento nacional adicional e outro financiamento, se for caso disso);
+
+o) Relatório final: descrição exaustiva dos resultados do projeto após a sua conclusão;
+
+p) Orçamento total: contribuições totais do projeto (FEADER, cofinanciamento nacional, financiamento nacional adicional e outro financiamento, se for caso disso);
+
+q) Contribuição do projeto para estratégias da União: o(s) objetivo(s) do Pacto Ecológico Europeu, da Estratégia do Prado ao Prato ([^11^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0012)), da Estratégia de Biodiversidade da UE ([^12^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0013)), da Estratégia para as Florestas ([^13^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0014)) e da estratégia da UE para as remoções de carbono ([^14^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0015)) para o(s) qual(is) é provável que o projeto contribua, a selecionar da seguinte lista:
+
+i) alcançar a neutralidade climática,
+
+ii) reduzir a utilização global e o risco dos pesticidas químicos,
+
+iii) promover a agricultura biológica e/ou a aquicultura biológica,
+
+iv) reduzir a utilização de agentes antimicrobianos para animais de criação e de aquicultura,
+
+v) reduzir as perdas de nutrientes e a utilização de fertilizantes, mantendo simultaneamente a fertilidade do solo,
+
+vi) melhorar a gestão dos recursos naturais utilizados na agricultura, como a água, o solo e o ar,
+
+vii) proteger e/ou restaurar a biodiversidade e os serviços ecossistémicos nos sistemas agrícolas e florestais,
+
+viii) restituir a superfície agrícola constituída por elementos paisagísticos de grande diversidade,
+
+ix) facilitar o acesso à Internet de banda larga rápida nas zonas rurais,
+
+x) promover o bem-estar dos animais,
+
+xi) promover a florestação e reflorestação respeitadoras da biodiversidade.
+
+### Dados recomendados
+
+2. Os Estados-Membros são fortemente incentivados a comunicar os seguintes dados recomendados sobre os grupos operacionais da PEI:
+
+a) Material audiovisual: material do projeto desenvolvido para profissionais e utilizadores finais ou resultados do projeto (incluindo vídeos, fotografias, *podcasts*, etc.);
+
+b) Sítio Web do projeto: URL do(s) sítio(s) Web;
+
+c) Outro(s) sítio(s) Web: URL do(s) sítio(s) Web que alojará(ão) as informações sobre os resultados do projeto, inclusive após a conclusão do projeto;
+
+d) Descrição das atividades do projeto na língua original: breve resumo que destaque as principais atividades do projeto;
+
+e) Descrição das atividades do projeto em inglês: breve resumo que destaque as principais atividades do projeto.
+
+### Dados facultativos
+
+3. Os Estados-Membros podem comunicar os seguintes dados facultativos sobre os grupos operacionais da PEI:
+
+a) Campos adicionais para resumos de práticas adicionais na língua original;
+
+b) Campos adicionais para resumos de práticas adicionais em inglês;
+
+c) Descrição do contexto do projeto: texto livre para descrever os fatores que estão na origem do projeto, tais como legislação, mercados ou outras causas;
+
+d) Informações adicionais sobre o projeto: texto livre que forneça pormenores, conforme exigido por orientações específicas a nível nacional/regional, por exemplo para efeitos de acompanhamento;
+
+e) Observações complementares: texto livre para enumerar elementos facilitadores ou obstáculos à execução do projeto, sugestões para futuras ações/grupos operacionais/investigação, mensagens aos consumidores, etc.
+
+## ANEXO VII
+
+### REGRAS RELATIVAS AOS DADOS SOBRE OS GAL E AS RESPETIVAS ATIVIDADES NO ÂMBITO DA INICIATIVA LEADER A QUE SE REFERE O ARTIGO 14.º, N.º 2
+
+### Dados relacionados com os GAL
+
+1. Os Estados-Membros devem comunicar, até 30 de abril do ano N, as variáveis estabelecidas nas alíneas a) a g), por GAL, para os GAL selecionados até 31 de dezembro do ano N-1. Os dados dizem respeito à situação do GAL no momento da seleção e são comunicados apenas uma vez.
+
+a) L100: identificação do GAL (ID)
+
+b) L200: nome do GAL
+
+c) L300: códigos dos municípios
+
+d) L400: população total
+
+e) L500: apoio de um GAL por mais do que um Fundo, nos termos do artigo 31.º, n.º 3, do Regulamento (UE) 2021/1060
+
+i) L501: utilização de apoio do Fundo Europeu de Desenvolvimento Regional (FEDER): se o GAL recebe apoio ao abrigo do FEDER,
+
+ii) L502: utilização de apoio do Fundo Social Europeu Mais (FSE+): se o GAL recebe apoio ao abrigo do FSE+,
+
+iii) L503: utilização de apoio do Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura (FEAMPA): se o GAL recebe apoio ao abrigo do FEAMPA,
+
+iv) L504: utilização de outros Fundos Europeus Estruturais e de Investimento (FEEI) (por exemplo, o Fundo para uma Transição Justa);
+
+f) L600: número total de membros do GAL
+
+i) L601: número de membros do GAL que representam administrações públicas,
+
+ii) L602: número de membros do GAL que são representantes de interesses económicos locais privados (por exemplo, organizações económicas, empresas locais, etc.),
+
+iii) L603: número de membros do GAL que são representantes de interesses sociais locais (por exemplo, organizações não governamentais, associações locais, etc.),
+
+iv) L604: número de membros do GAL pertencentes a outras categorias que não as enumeradas nas subalíneas i), ii) e iii);
+
+g) L610: número total de membros do GAL no órgão de decisão do GAL
+
+i) L611: número de membros do órgão de decisão do GAL que representam administrações públicas,
+
+ii) L612: número de membros do órgão de decisão do GAL que são representantes de interesses económicos locais privados (por exemplo, organizações económicas, empresas locais, etc.),
+
+iii) L613: número de membros do órgão de decisão do GAL que são representantes de interesses sociais locais (por exemplo, organizações não governamentais, associações locais, etc.),
+
+iv) L614: número de membros do órgão de decisão do GAL pertencentes a outras categorias que não as enumeradas nas subalíneas i), ii) e iii);
+
+v) L619: número de jovens no órgão de decisão do GAL
+
+vi) L620: limite de idade definido pelo Estado-Membro para a variável referida na subalínea v).
+
+### Dados relacionados com as atividades do GAL
+
+2. Os Estados-Membros devem comunicar por GAL, em 2026 e 2030, a lista de variáveis sobre as atividades do GAL estabelecida nas alíneas a) a d), a partir do momento do primeiro pagamento a uma determinada operação. O relatório do ano N refere-se a todas as operações pagas até 15 de outubro de N-1. Estas variáveis dizem respeito ao número de operações executadas em conformidade com o artigo 34.º, n.º 1, alínea b), do Regulamento (UE) 2021/1060.
+
+a) L100: identificação do GAL (ID)
+
+b) L700: número total de operações executadas pelo GAL
+
+i) L701: número de operações executadas por particulares ou empresas,
+
+ii) L702: número de operações executadas por administrações públicas,
+
+iii) L703: número de operações executadas por representantes de interesses económicos privados locais (por exemplo, associações empresariais, câmaras de comércio, etc.),
+
+iv) L704: número de operações executadas por representantes de interesses sociais locais (por exemplo, organizações não governamentais, associações locais, etc.),
+
+v) L705: número de operações executadas por organizações de investigação,
+
+vi) L706: número de operações executadas conjuntamente por vários tipos de promotores,
+
+vii) L707: número de operações executadas por promotores que se inserem noutras categorias que não as enumeradas nas subalíneas i) a vi);
+
+viii) L708: número de projetos de cooperação inter-regional executados pelo GAL,
+
+ix) L709: número de projetos de cooperação transnacional executados pelo GAL;
+
+c) L710: número de operações inovadoras no contexto local
+
+d) Operações por objetivo/domínio
+
+i) L801: número de operações relacionadas com a transferência de conhecimentos, incluindo aconselhamento, formação e intercâmbio de conhecimentos sobre um desempenho sustentável, económico, social, ambiental e respeitador do clima,
+
+ii) L802: número de operações relacionadas com organizações de produtores, mercados locais, cadeias de abastecimento curtas e regimes de qualidade, incluindo apoio ao investimento, atividades de comercialização, etc.,
+
+iii) L803: número de operações relacionadas com as capacidades de produção de energias renováveis, incluindo a bioenergia,
+
+iv) L804: número de operações que contribuem para a sustentabilidade ambiental e para concretizar os objetivos de atenuação das alterações climáticas e de adaptação às mesmas nas zonas rurais,
+
+v) L805: número de operações que criam postos de trabalho,
+
+vi) L806: número de operações de apoio às empresas rurais, incluindo a bioeconomia,
+
+vii) L807: número de operações relacionadas com estratégias para aldeias inteligentes,
+
+viii) L808: número de operações que melhoram o acesso a serviços e infraestruturas, incluindo a banda larga,
+
+ix) L809: número de operações no domínio da inclusão social,
+
+x) L810: número de operações que se inserem noutras categorias que não as enumeradas nas subalíneas i) a ix).
+
+### Dados relacionados com o financiamento do GAL
+
+3. Os Estados-Membros devem comunicar, em 2026 e 2030, as variáveis estabelecidas nas alíneas a), b) e c) sobre o financiamento do GAL. O relatório do ano N refere-se a todas as operações pagas até 15 de outubro de N-1.
+
+a) L900: orçamento total da União previsto no âmbito do FEADER, por estratégia de desenvolvimento local (EDL) de base comunitária
+
+b) L910: montante total do FEADER autorizado para apoiar a execução das operações, incluindo as atividades de cooperação e a sua preparação, selecionadas no âmbito da EDL
+
+c) L920: montante total da contribuição da União paga a partir do FEADER, por EDL
+
+i) L921: montante total do FEADER pago para o reforço das capacidades e as ações preparatórias que apoiem a conceção e a execução futura da EDL,
+
+ii) L922: montante total do FEADER pago para a execução das operações, incluindo as atividades de cooperação e a sua preparação, selecionadas no âmbito da EDL;
+
+iii) L923: montante total do FEADER pago para a gestão, o acompanhamento e a avaliação da EDL e a sua animação, incluindo a facilitação dos intercâmbios entre as partes interessadas.
+
+### Contribuição para os indicadores de resultados
+
+4. Os Estados-Membros devem comunicar, em 2026 e 2030, informações por GAL sobre a contribuição da EDL para todos os indicadores de resultados pertinentes referidos no anexo I do Regulamento (UE) 2021/2115, selecionados no seu plano estratégico da PAC, após a seleção da EDL. O relatório do ano N refere-se a todas as operações pagas até 15 de outubro do ano N-1.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) 2021/1060 do Parlamento Europeu e do Conselho, de 24 de junho de 2021, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu Mais, ao Fundo de Coesão, ao Fundo para uma Transição Justa e ao Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura e regras financeiras aplicáveis a esses fundos e ao Fundo para o Asilo, a Migração e a Integração, ao Fundo para a Segurança Interna e ao Instrumento de Apoio Financeiro à Gestão das Fronteiras e à Política de Vistos (JO L 231 de 30.6.2021, p. 159).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento Delegado (UE) 2022/126 da Comissão, de 7 de dezembro de 2021, que complementa o Regulamento (UE) 2021/2115 do Parlamento Europeu e do Conselho com requisitos adicionais para determinados tipos de intervenção especificados pelos Estados-Membros nos seus planos estratégicos da PAC para o período de 2023 a 2027 ao abrigo desse regulamento, bem como regras sobre o rácio relativo à norma 1 das boas condições agrícolas e ambientais (BCAA) (JO L 20 de 31.1.2022, p. 52).
+
+> ([^3^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, relativo ao financiamento, à gestão e ao acompanhamento da política agrícola comum e que revoga o Regulamento (UE) n.º 1306/2013 (JO L 435 de 6.12.2021, p. 187).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento de Execução (UE) 2021/2289 da Comissão, de 21 de dezembro de 2021, que estabelece as regras de execução do Regulamento (UE) 2021/2115 do Parlamento Europeu e do Conselho no que se refere à apresentação do conteúdo dos planos estratégicos da PAC e ao sistema eletrónico para o intercâmbio seguro de informações (JO L 458 de 22.12.2021, p. 463, ELI: [http://data.europa.eu/eli/reg_impl/2021/2289/oj](http://data.europa.eu/eli/reg_impl/2021/2289/oj)).
+
+> ([^5^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento de Execução (UE) 2017/1185 da Comissão, de 20 de abril de 2017, que estabelece as normas de execução dos Regulamentos (UE) n.º 1307/2013 e (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho referentes à notificação de informações e documentos à Comissão, e que altera e revoga vários regulamentos da Comissão (JO L 171 de 4.7.2017, p. 113), ELI: [http://data.europa.eu/eli/reg_impl/2017/1185/oj](http://data.europa.eu/eli/reg_impl/2017/1185/oj)).
+
+> ([^6^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0007)) Diretiva 91/676/CEE do Conselho, de 12 de dezembro de 1991, relativa à proteção das águas contra a poluição causada por nitratos de origem agrícola (JO L 375 de 31.12.1991, p. 1).
+
+> ([^7^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0008)) Regulamento (UE) 2018/848 do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativo à produção biológica e à rotulagem dos produtos biológicos e que revoga o Regulamento (CE) n.º 834/2007 do Conselho (JO L 150 de 14.6.2018, p. 1).
+
+> ([^8^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0009)) Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho (JO L 347 de 20.12.2013, p. 671).
+
+> ([^9^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0010)) Regulamento de Execução (UE) 2019/2072 da Comissão, de 28 de novembro de 2019, que estabelece condições uniformes para a execução do Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho no que se refere a medidas de proteção contra as pragas dos vegetais, e que revoga o Regulamento (CE) n.º 690/2008 da Comissão e altera o Regulamento de Execução (UE) 2018/2019 da Comissão (JO L 319 de 10.12.2019, p. 1, ELI: [http://data.europa.eu/eli/reg_impl/2019/2072/oj](http://data.europa.eu/eli/reg_impl/2019/2072/oj)).
+
+> ([^10^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0011)) Regulamento (UE) n.º 1291/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria o Horizonte 2020 – Programa-Quadro de Investigação e Inovação (2014-2020) e que revoga a Decisão n.º 1982/2006/CE (JO L 347 de 20.12.2013, p. 104).
+
+> ([^11^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0012)) Comunicação da Comissão, de 20 de maio de 2020, intitulada «Estratégia do Prado ao Prato para um sistema alimentar justo, saudável e respeitador do ambiente».
+
+> ([^12^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0013)) Comunicação da Comissão, de 20 de maio de 2020, intitulada «Estratégia de Biodiversidade da UE para 2030: Trazer a natureza de volta às nossas vidas».
+
+> ([^13^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0014)) Comunicação da Comissão, de 16 de julho de 2021, intitulada «Nova Estratégia da UE para as Florestas 2030».
+
+> ([^14^](http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1#src.E0015)) Comunicação da Comissão, de 15 de dezembro de 2021, intitulada «Ciclos do carbono sustentáveis».

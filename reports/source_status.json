@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-10-22",
+  "sources": [
+    {
+      "id": "eurlex-cellar",
+      "name": "EUR-Lex / CELLAR",
+      "jurisdiction": "european_union",
+      "operational_status": "operational",
+      "last_verified_at": "2026-10-22",
+      "verified_scope": "Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos atos referidos pela legislação portuguesa; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos.",
+      "reuse_status": "permitted_with_conditions",
+      "documents_in_repository": 7790
+    },
+    {
+      "id": "dre",
+      "name": "Diário da República Eletrónico",
+      "jurisdiction": "portugal",
+      "operational_status": "operational",
+      "last_verified_at": "2026-10-22",
+      "verified_scope": "1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores) e legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). Verificado em 2026-10-22.",
+      "reuse_status": "permitted",
+      "documents_in_repository": 172100
+    },
+    {
+      "id": "parlamento",
+      "name": "Assembleia da República",
+      "jurisdiction": "portugal",
+      "operational_status": "planned",
+      "last_verified_at": null,
+      "verified_scope": null,
+      "reuse_status": "unresolved",
+      "documents_in_repository": 0
+    },
+    {
+      "id": "cnpd",
+      "name": "Comissão Nacional de Proteção de Dados",
+      "jurisdiction": "portugal",
+      "operational_status": "planned",
+      "last_verified_at": null,
+      "verified_scope": null,
+      "reuse_status": "unresolved",
+      "documents_in_repository": 0
+    }
+  ]
+}

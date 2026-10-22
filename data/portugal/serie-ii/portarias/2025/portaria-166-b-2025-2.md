@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:909477670:por
+title: Portaria n.º 166-B/2025/2
+short_title: null
+summary: Autoriza o conselho diretivo do Instituto da Segurança Social, I. P., a proceder à reprogramação dos encargos plurianuais
+  autorizados pela Portaria n.º 887/2024/2, de 4 de dezembro, decorrentes da despesa relativa à aquisição de serviços de aluguer
+  na modalidade de rent-a-car para 183 viaturas, por um período de 12 meses.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social - Gabinete da Secretária de Estado da Segurança Social
+proposing_entity: null
+official_number: 166-B/2025/2
+official_date: null
+publication_date: '2025-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2025, Suplemento, Série II de 2025-02-28
+  number: '42'
+  series: II
+  supplement: null
+  pages: 2 - 3
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/02/042000003/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '909477670'
+  dre_path: /dr/detalhe/portaria/166-b-2025-909477670
+  internal: pt:dre:909477670:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-b-2025-909477670
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-b-2025-909477670
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-02-28T00:00:00Z'
+integrity:
+  source_sha256: aa9483ba1d66a70ac837f45b0109bac87b6a2e37fb6ecb754624efbafc2b0171
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-166-B-909477670.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 166-B/2025/2
+
+Nos termos da Portaria n.º 887/2024/2, de 4 de dezembro, o Instituto da Segurança Social, I. P. (ISS, I. P.), ficou autorizado a assumir os encargos orçamentais decorrentes do contrato de aquisição de serviços de aluguer na modalidade de rent-a-car para 183 viaturas, por um período de 12 meses, pelo valor global estimado de 1 442 040,00 € (um milhão, quatrocentos e quarenta e dois mil e quarenta euros), acrescido de IVA à taxa legal em vigor.
+
+Dado o espaço temporal que mediou entre a data do pedido e a data da publicação da sobredita Portaria n.º 887/2024/2, apenas foi possível proceder à outorga do contrato em causa em 13 de dezembro de 2024, pelo montante global de 1 171 821,55 € (um milhão, cento e setenta e um mil, oitocentos e vinte e um euros e cinquenta e cinco cêntimos), ao qual acresce o IVA à taxa legal em vigor.
+
+Atendendo ao valor do contrato, o mesmo foi submetido à incidência de fiscalização prévia do Tribunal de Contas, pelo que o ISS, I. P., prevê que o início de produção de efeitos do mesmo ocorra em março de 2025.
+
+Assim, torna-se necessário obter a competente autorização para a reprogramação dos encargos plurianuais inicialmente autorizados, de forma a adaptá-los à execução prevista para o contrato.
+
+Considerando que, nos termos do n.º 8 do artigo 44.º do Decreto-Lei n.º 17/2024, de 29 de janeiro, a assunção de encargos plurianuais fica sujeita a um único processo de autorização, apenas necessitando de nova autorização no caso de reprogramação não abrangida na autorização anterior.
+
+E considerando que, nos termos do n.º 9 daquele artigo, a reprogramação de encargos plurianuais, previamente autorizados ao abrigo do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, carece apenas da autorização do membro do Governo responsável pela área setorial, desde que não sejam ultrapassados o valor total da despesa autorizada e o período temporal de um ano económico no que concerne ao alargamento temporal da despesa dentro do período temporal já autorizado, sendo que a reprogramação dos encargos plurianuais em apreço não ultrapassa o prazo de execução do contrato abrangido pela autorização anterior nem o valor total da despesa autorizada.
+
+Adicionalmente, nos termos do n.º 10 do artigo 44.º do Decreto-Lei n.º 17/2024, de 29 de janeiro, a reprogramação destes encargos deve ser objeto de registo no Sistema Central de Encargos Plurianuais e a autorização deve ser conferida através de portaria.
+
+À luz do n.º 11 do sobredito artigo 44.º, o disposto no mesmo artigo aplica-se às entidades da administração central e da segurança social.
+
+Neste contexto, importa, pois, assegurar as condições necessárias à execução integral da contratualização efetuada, de forma a ajustá-la ao período real de execução do contrato celebrado, mediante a reprogramação dos encargos.
+
+Nestes termos, em conformidade com o disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, conjugado com o disposto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, bem como no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, ambos na sua redação atual, e, ainda, nos n.<sup>os</sup>8 a 11 do artigo 44.º do Decreto-Lei n.º 17/2024, de 29 de janeiro, na sua redação atual, manda o Governo, pela Secretária de Estado da Segurança Social, no uso das competências que lhe foram delegadas, o seguinte:
+
+1 - Fica o conselho diretivo do ISS, I. P., autorizado a proceder à reprogramação dos encargos plurianuais autorizados pela Portaria n.º 887/2024/2, de 4 de dezembro, decorrentes da despesa relativa à aquisição de serviços de aluguer na modalidade de rent-a-car para 183 viaturas, por um período de 12 meses, até ao montante máximo global de 1 171 821,55 € (um milhão, cento e setenta e um mil, oitocentos e vinte e um euros e cinquenta e cinco cêntimos), acrescido de IVA à taxa legal em vigor, repartidos da seguinte forma:
+
+2025 - 982 403,82 € (novecentos e oitenta e dois mil, quatrocentos e três euros e oitenta e dois cêntimos) ao qual acresce o IVA;
+
+2026 - 189 417,73 € (cento e oitenta e nove mil, quatrocentos e dezassete euros e setenta e três cêntimos) ao qual acresce o IVA.
+
+2 - Os encargos decorrentes da presente portaria serão suportados por verbas adequadas inscritas e a inscrever no orçamento do ISS, I. P.
+
+3 - A presente portaria entra em vigor no dia da respetiva assinatura.
+
+25 de fevereiro de 2025. - A Secretária de Estado da Segurança Social, Susana Filipa de Moura Lima.

@@ -1,0 +1,746 @@
+---
+schema_version: '1.0'
+id: pt:dre:551837:por
+title: Decreto Regulamentar n.º 3/2006
+short_title: null
+summary: Regulamenta o Decreto-Lei n.º 232/2005, de 29 de Dezembro, que institui o complemento solidário para idosos no âmbito
+  do subsistema de solidariedade
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 3/2006
+official_date: null
+publication_date: '2006-02-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/2006, Série I-B de 2006-02-06
+  number: '26'
+  series: I
+  supplement: null
+  pages: 893 - 900
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/02/026b00/08930900.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-05-22'
+version_history:
+  file: decreto-regulamentar-3-2006.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-25'
+    amending: pt:dre:518588:por
+    amending_title: Decreto Regulamentar n.º 14/2007
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+  - date: '2008-08-27'
+    amending: pt:dre:453536:por
+    amending_title: Decreto Regulamentar n.º 17/2008
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+  - date: '2009-08-01'
+    amending: pt:dre:491929:por
+    amending_title: Decreto-Lei n.º 151/2009
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 32.º
+  - date: '2017-10-07'
+    amending: pt:dre:108269605:por
+    amending_title: Decreto-Lei n.º 126-A/2017
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+  - date: '2020-11-04'
+    amending: pt:dre:147432951:por
+    amending_title: Decreto-Lei n.º 94/2020
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2024-05-22'
+    amending: pt:dre:865433933:por
+    amending_title: Decreto-Lei n.º 35/2024
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 29.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/3/2006/p/cons/20240521/pt/html
+  oj: null
+  dre: '551837'
+  dre_path: /dr/detalhe/decreto-regulamentar/3-2006-551837
+  internal: pt:dre:551837:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2006-551837
+  metadata_url: https://data.dre.pt/eli/decregul/3/2006/p/cons/20240521/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2006-108279006
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2006-108279006
+  retrieved_at: '2026-10-22T12:15:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e62c02103869d0e0de3ca623133eb49094add5b0d83ca75d21704c62e7417159
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:15:01Z'
+  notes: 7 versão(ões); histórico completo em decreto-regulamentar-3-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Luta contra a Pobreza
+- Terceira Idade
+- Insuficiência Económica
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensionista
+- Proteção Social
+- Segurança Social
+- Complemento Solidário para Idosos
+relationships:
+- type: amended_by
+  target: pt:dre:518588:por
+  label: Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 16.º;
+    Altera Artigo 18.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 27.º;
+    Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588
+  date: '2007-03-20'
+- type: amended_by
+  target: pt:dre:453536:por
+  label: Altera Artigo 24.º; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2008-453536
+  date: '2008-08-26'
+- type: amended_by
+  target: pt:dre:491929:por
+  label: Altera Artigo 24.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929
+  date: '2009-06-30'
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Altera Artigo 4.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:147432951:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951
+  date: '2020-11-03'
+- type: amended_by
+  target: pt:dre:865433933:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo
+    27.º; Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 13.º; Revoga Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933
+  date: '2024-05-21'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/232/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/232/2005/12/29/p/dre
+article_structure:
+  article_count: 33
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:15:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 3/2006
+
+Decreto Regulamentar n.º 3/2006
+
+de 6 de Fevereiro
+
+Pelo Decreto-Lei n.º 232/2005, de 29 de Dezembro, o XVII Governo Constitucional, tal com havia inscrito no seu Programa, procedeu à criação do complemento solidário para idosos.
+
+Com a criação desta nova prestação social procedeu-se a uma reconfiguração da política de mínimos sociais para idosos, diferenciando as situações que efectivamente são diferentes, o que, para além de reforçar o princípio de justiça social em que assenta esta nova política, virá igualmente aumentar a sua eficácia no combate à pobreza dos idosos.
+
+O complemento solidário para idosos traduz uma verdadeira ruptura com a anterior política de mínimos sociais para idosos, através de uma aposta na concentração dos recursos disponíveis nos estratos da população idosa com menores rendimentos, na atenuação das situações de maior carência de uma forma mais célere - por efeito da atribuição de um valor de prestação com impacte significativo no aumento do rendimento global dos idosos - e na solidariedade familiar, enquanto forma de expressão de uma responsabilidade colectiva e instrumento de materialização da coesão social.
+
+O complemento solidário para idosos constitui uma prestação do subsistema de solidariedade destinada a pensionistas com mais de 65 anos, assumindo um perfil de complemento aos rendimentos preexistentes, sendo o seu valor definido por referência a um limiar fixado anualmente e a sua atribuição diferenciada em função da situação concreta do pensionista que o requer, ou seja, sujeita a rigorosa condição de recurso.
+
+Conforme o disposto no artigo 23.º do citado diploma legal, o Governo comprometeu-se a proceder à sua regulamentação no prazo de 30 dias após a sua publicação.
+
+Assim:
+
+Ao abrigo do artigo 23.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma regulamenta o Decreto-Lei n.º 232/2005, de 29 de Dezembro, que instituiu o complemento solidário para idosos, adiante designado por complemento.
+
+###### Artigo 2.º — Situações equiparadas
+
+Para efeitos do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, são consideradas pensões equiparadas as pensões substitutivas de rendimentos de trabalho ou destinadas a garantir mínimos de subsistência, de natureza não indemnizatória, nem de prémio de seguro ou pensões derivadas destas, cuja atribuição seja periódica e por tempo indeterminado, que integram a protecção nas eventualidades de invalidez, velhice e morte dos respectivos sistemas de protecção social.
+
+###### Artigo 3.º — Residência em território nacional
+
+A prova de residência em território nacional, nos termos do disposto no artigo 3.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, é feita através de:
+
+a) Atestado de residência emitido pela junta de freguesia, por outro documento que o demonstre ou por verificação oficiosa dos elementos constantes nos organismos da segurança social, no caso de cidadão nacional;
+
+b) Títulos previstos nos n.os 1 e 2 do artigo 3.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, ou declaração de entidade competente, no caso de cidadãos estrangeiros, refugiados e apátridas.
+
+###### Artigo 4.º — Contagem do prazo de residência
+
+1 - A contagem do prazo referido na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, faz-se de forma contínua e ininterrupta, observando-se a condição de residência em território nacional de, pelo menos, 270 dias em cada ano civil.
+
+2 - O período relevante de residência dos cidadãos nacionais que tenham exercido a sua última actividade em território estrangeiro previsto na alínea b) do n.º 2 do artigo 4.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, começa a contar a partir da data de início de residência do requerente em território nacional, após o início da pensão atribuída pelo organismo estrangeiro.
+
+3 - Sempre que o tempo decorrido entre a data de início da residência e o momento de apresentação do requerimento seja inferior ao período de tempo que intermediou entre a data de início da pensão e a apresentação do requerimento, a entidade gestora suspende o procedimento administrativo até que decorra o remanescente deste período de tempo.
+
+4 - Para efeitos do número anterior o procedimento administrativo é retomado com a apresentação dos meios de prova relativos ao período de residência que se encontrava em falta.
+
+> Alterado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+###### Artigo 5.º — Agregado familiar do requerente
+
+1 - Na determinação do conceito do agregado familiar do requerente, considera-se que integram o mesmo agregado familiar o cônjuge ou a pessoa que com ele viva em união de facto há mais de dois anos.
+
+2 - Não integram o mesmo agregado familiar os cônjuges que se encontrem separados judicialmente de pessoas e bens.
+
+###### Artigo 6.º — Agregado fiscal dos filhos
+
+O agregado fiscal de cada um dos filhos do requerente é constituído, para além deste, pelas pessoas que compõem o seu agregado familiar nos termos em que o mesmo se encontra definido no Código do IRS.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+###### Artigo 7.º — Solidariedade familiar
+
+1 - Para efeitos de aplicação da alínea b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, e definição da solidariedade familiar, consideram-se os rendimentos anuais dos agregados fiscais dos filhos do requerente previstos no n.º 2 do artigo 7.º do mesmo diploma, nos termos dos números seguintes, sem prejuízo do disposto no n.º 3 do artigo 13.º
+
+2 - O rendimento por adulto equivalente de cada um dos agregados fiscais dos filhos do requerente determina a componente de solidariedade familiar ou a exclusão do direito ao complemento.
+
+3 - O rendimento por adulto equivalente é determinado segundo a seguinte fórmula:
+
+Rae = R/ae
+
+em que:
+
+Rae é o rendimento por adulto equivalente;
+
+R é o rendimento do agregado fiscal do filho do requerente;
+
+ae é o número de adultos equivalentes do agregado fiscal do filho do requerente calculado de acordo com uma escala de equivalência que atribui um peso de 1 ao primeiro adulto, ou primeiro menor quando não existam adultos, de 0,7 a cada um dos restantes adultos e de 0,5 a cada um dos menores, considerados no ano a que se reportam os rendimentos.
+
+4 - O valor do rendimento por adulto equivalente de cada um dos agregados fiscais dos filhos é integrado num dos seguintes escalões:
+
+Escalões de rendimento por adulto equivalente (Rae), por indexação ao valor de referência do complemento (VR) determinado nos termos do disposto no n.º 1 do artigo seguinte;
+
+Escalão 1 - até 2,5 x VR;
+
+Escalão 2 - superior a 2,5 x VR até 3,5 x VR;
+
+Escalão 3 - superior a 3,5 x VR até 5 x VR;
+
+Escalão 4 - superior a 5 x VR.
+
+5 - A componente de solidariedade familiar assume o valor de 0 % do valor de referência do complemento para os 1.º, 2.º ou 3.º escalões, determinado nos termos do artigo seguinte.
+
+6 - Quando o valor do rendimento por adulto equivalente se situa no 4.º escalão determina a exclusão do requerente do direito ao complemento.
+
+7 - (Revogado).
+
+8 - Para a determinação da componente de solidariedade familiar são considerados os filhos que sejam sujeitos passivos, nos termos do disposto no Código do IRS, com excepção dos que tenham falecido.
+
+9 - (Revogado).
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 8.º — Valor de referência do complemento
+
+1 - O valor de referência do complemento, previsto no disposto do n.º 1 do artigo 9.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, é fixado em portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.
+
+2 - Para efeitos do disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, o valor de referência do complemento é igual ao produto do coeficiente de equivalência de 1,75 pelo valor de referência do complemento previsto no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94/2020 - Diário da República n.º 214/2020, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2020-147432951), em vigor a partir de 2020-11-04
+
+###### Artigo 9.º — Apuramento dos recursos do requerente
+
+1 - Os recursos do requerente integram o rendimento anual dos elementos que compõem o seu agregado familiar, nos termos dos números seguintes.
+
+2 - Nas situações em que o agregado familiar do requerente é constituído apenas pelo próprio, o montante dos recursos do requerente é apurado através do somatório dos seus rendimentos.
+
+3 - Nas situações em que o agregado familiar do requerente é constituído pelo próprio e pelo seu cônjuge ou pessoa que com ele viva em união de facto, os recursos do requerente são apurados nos seguintes termos:
+
+a) Somatório dos rendimentos individualizados do requerente;
+
+b) Somatório dos rendimentos do agregado familiar do requerente.
+
+4 - Nas situações em que ambos os membros do agregado familiar são requerentes ou sendo um deles titular do complemento e o outro requerente, os recursos de cada um deles são apurados através do somatório dos rendimentos de ambos, sem prejuízo do disposto no número seguinte.
+
+5 - Na situação prevista no número anterior, sempre que o elemento do agregado familiar, com maior valor de rendimentos individualizados que não verifique apenas uma das condições de recursos previstas na alínea c) do artigo 10.º, deixa de ser considerado como requerente, passando, a partir desse momento, a ser tratado como cônjuge, sendo o montante dos recursos do requerente determinado de acordo com o disposto no n.º 3.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 10.º — Verificação da condição de recursos do requerente
+
+A condição de recursos do requerente para acesso ao complemento solidário para idosos prevista na alínea d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, verifica-se sempre que:
+
+a) O montante dos recursos do requerente, determinado nos termos do n.º 2 do artigo anterior, seja inferior ao valor de referência do complemento previsto no n.º 1 do artigo 8.º;
+
+b) Os montantes dos recursos do requerente, determinados nos termos das alíneas a) e b) do n.º 3 do artigo anterior, sejam simultaneamente inferiores aos respectivos valores de referência do complemento previsto nos n.os 1 e 2 do artigo 8.º;
+
+c) O montante dos recursos de cada requerente, determinado nos termos do n.º 4 do artigo anterior, seja inferior ao valor de referência do complemento previsto no n.º 2 do artigo 8.º e, cumulativamente, o rendimento individualizado de cada requerente, seja inferior ao valor de referência do complemento previsto no n.º 1 do artigo 8.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+> Alterado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 11.º — Cálculo do complemento
+
+1 - O complemento, nas situações em que o agregado familiar do requerente é constituído apenas pelo próprio, é igual à diferença entre o valor de referência do complemento previsto no n.º 1 do artigo 8.º e o montante dos recursos do requerente, determinado nos termos previstos no n.º 2 do artigo 9.º
+
+2 - Nas situações em que o agregado familiar do requerente é constituído pelo próprio e pelo seu cônjuge ou por pessoa que com ele viva em união de facto, o complemento é igual ao menor dos valores resultantes do cálculo a efectuar nos termos das alíneas seguintes:
+
+a) A diferença entre o valor de referência do complemento previsto no n.º 1 do artigo 8.º e o montante dos recursos do requerente, determinado nos termos previstos na alínea a) do n.º 3 do artigo 9.º;
+
+b) A diferença entre o valor de referência do complemento previsto no n.º 2 do artigo 8.º e o montante dos recursos do requerente, determinado nos termos previstos na alínea b) do n.º 3 do artigo 9.º
+
+3 - Nas situações em que ambos os membros do agregado familiar são requerentes, o complemento atribuído é igual à diferença entre o valor de referência do complemento previsto no n.º 2 do artigo 8.º e o montante dos recursos de um dos requerentes, determinado nos termos previstos no n.º 4 do artigo 9.º, repartida por cada um de forma proporcional às respectivas necessidades, nos termos do número seguinte.
+
+4 - A repartição é efetuada pela aplicação do ponderador W à diferença referida no número anterior, calculado através das fórmulas:
+
+W1 = (VR – Y1)/(2VR –Y1 – Y2)
+
+e
+
+W2 = 1– W1
+
+em que:
+
+W1 é o ponderador do primeiro requerente;
+
+W2 é o ponderador do segundo requerente;
+
+VR é o valor de referência do complemento previsto n.º 1 do artigo 8.º;
+
+Y1 é o total dos rendimentos individuais do primeiro requerente;
+
+Y2 é o total dos rendimentos individuais do segundo requerente.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+###### Artigo 12.º — Rendimentos do agregado familiar do requerente
+
+1 - Para apuramento dos rendimentos do agregado familiar do requerente são considerados os rendimentos anuais previstos no n.º 1 do artigo 7.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, nos termos constantes dos artigos 15.º a 26.º do presente decreto regulamentar.
+
+2 - A apresentação dos rendimentos referidos no número anterior deve ser feita de forma individualizada.
+
+3 - Quando não seja possível a apresentação individualizada dos rendimentos a sua individualização é oficiosamente realizada através da repartição equitativa desse valor pelos elementos do agregado familiar.
+
+4 - Sempre que se verifiquem rendimentos em co-titularidade ou co-propriedade com pessoas que não integrem o agregado familiar do requerente, o valor de rendimento a considerar é o correspondente à quota-parte dos elementos do agregado familiar do requerente.
+
+5 - Os rendimentos a considerar para efeitos de atribuição do complemento reportam-se ao ano civil anterior ao da data de apresentação do requerimento ou ao ano imediatamente anterior a este, no caso de não se encontrarem disponíveis os meios de prova exigidos, sem prejuízo do disposto no número seguinte.
+
+6 - Para efeitos de atribuição do complemento e no caso dos rendimentos previstos nas alíneas g), h) e i) do n.º 1 do artigo 7.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, podem ser considerados os rendimentos do ano de apresentação do requerimento, designadamente quando estes não sejam de natureza idêntica à dos rendimentos de anos anteriores e não constituam rendimento substitutivo destes.
+
+7 - Encontrando-se os elementos do agregado familiar do requerente obrigados a entregar declaração de imposto sobre o rendimento de pessoas singulares, deve a mesma ser apresentada para efeitos de consideração dos seus rendimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 13.º — Rendimentos do agregado fiscal dos filhos do requerente
+
+1 - Para apuramento dos rendimentos dos agregados fiscais dos filhos, são consideradas todas as categorias de rendimentos anuais previstas no n.º 2 do artigo 7.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, sem prejuízo do disposto nos números seguintes.
+
+2 - Os rendimentos constantes da alínea f) do n.º 1 do artigo 7.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, são considerados nos termos do Código do IRS.
+
+3 - Não são considerados os rendimentos dos elementos do agregado fiscal dos filhos quando aqueles tenham, entretanto, falecido.
+
+4 - Os rendimentos a considerar para efeitos de determinação da componente de solidariedade familiar reportam-se ao ano civil anterior ao da data de apresentação do requerimento ou ao ano imediatamente anterior a este, no caso de não se encontrarem disponíveis os meios de prova exigidos.
+
+5 - Nas situações em que os filhos do requerente estejam obrigados a entregar declaração de imposto sobre o rendimento das pessoas singulares à administração fiscal ou declaração de imposto equivalente noutros sistemas fiscais, os rendimentos declarados para efeitos de determinação da componente de solidariedade familiar reportam-se à respectiva nota de liquidação ou a documento equivalente de outros sistemas fiscais.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 14.º — Taxas de câmbio
+
+Sempre que os rendimentos presentes para efeitos de atribuição do complemento sejam apresentados em moeda diferente do euro a sua conversão é realizada pela taxa de câmbio em vigor à data da entrega do requerimento.
+
+###### Artigo 15.º — Rendimentos de trabalho dependente
+
+1 - Para efeitos de atribuição do complemento, consideram-se rendimentos de trabalho dependente os rendimentos efectivamente auferidos pelos elementos do agregado familiar do requerente no ano civil em causa, nos termos do disposto no Código do IRS, designadamente os provenientes de:
+
+a) Trabalho por conta de outrem;
+
+b) Exercício de função, serviço ou cargo públicos;
+
+c) Situação de pré-reforma, pré-aposentação ou reserva;
+
+d) Remunerações acessórias;
+
+e) Abonos e falhas;
+
+f) Gratificações.
+
+2 - Para além da declaração de IRS podem ser solicitados outros documentos comprovativos do valor do rendimento de trabalho dependente, designadamente os seguintes:
+
+a) Declaração da entidade patronal;
+
+b) Fotocópia de recibos de vencimento.
+
+3 - A prova de rendimentos pode ser realizada através dos registos da segurança social, quando existentes.
+
+###### Artigo 16.º — Rendimentos empresariais e profissionais
+
+1 - Para efeitos de atribuição do complemento, consideram-se os rendimentos empresariais e profissionais efectivamente auferidos pelos elementos do agregado familiar do requerente ou as remunerações convencionais declaradas por estes, para efeitos de determinação do montante de contribuição para a segurança social pelos trabalhadores independentes no ano civil em causa, provenientes, designadamente:
+
+a) Do exercício de qualquer actividade comercial, industrial, agrícola, silvícola ou pecuária;
+
+b) Da propriedade intelectual ou industrial;
+
+c) Do exercício por conta própria de qualquer actividade de prestação de serviços.
+
+2 - No caso dos rendimentos ao abrigo do regime simplificado ou gerados por acto isolado o valor a considerar para efeitos da determinação do rendimento do agregado familiar do requerente é o total do resultado da aplicação:
+
+a) Do coeficiente previsto em sede de CIRS ao valor de vendas de mercadorias ou produtos, ao valor da prestação de serviços no âmbito de actividades hoteleiras e similares e subsídios à exploração destinados a compensar preços de vendas;
+
+b) Do coeficiente previsto em sede de CIRS ao valor dos rendimentos provenientes da propriedade intelectual, ao valor das prestações de serviços e outros rendimentos.
+
+3 - O valor mínimo a considerar para efeitos do disposto no número anterior é de (euro) 2620 por ano, sem prejuízo da sua eventual actualização pelo Código do IRS.
+
+4 - No caso de rendimentos ao abrigo de contabilidade organizada, o valor a considerar para efeitos de determinação dos rendimentos do agregado familiar do requerente é o maior dos valores declarados a título de:
+
+a) Lucro, apurado nos termos do IRS;
+
+b) Remunerações convencionais declaradas para efeitos de determinação do montante de contribuição para a segurança social pelos trabalhadores independentes.
+
+5 - Para além da declaração de IRS podem ser solicitados outros documentos comprovativos do valor dos rendimentos empresariais e profissionais, designadamente recibos e facturas emitidos nos termos do artigo 115.º do Código do IRS.
+
+6 - Nos casos de indisponibilidade dos documentos referidos no número anterior, a prova de rendimentos pode ser realizada através dos registos da segurança social, quando existentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 17.º — Rendimentos de capitais
+
+1 - Para efeitos da atribuição do complemento, consideram-se rendimentos de capitais uma percentagem do valor do património mobiliário.
+
+2 - O valor a considerar para efeitos de determinação dos rendimentos dos elementos do agregado familiar do requerente é de montante igual a 5% do valor total do património mobiliário.
+
+###### Artigo 18.º — Rendimentos prediais
+
+1 - Para efeitos de atribuição do complemento, consideram-se os rendimentos prediais efectivamente auferidos pelos elementos do agregado familiar do requerente no ano civil em causa sem prejuízo do disposto no n.º 3.
+
+2 - Por rendimentos prediais entendem-se, designadamente, as rendas dos prédios rústicos, urbanos e mistos, pagas ou colocadas à disposição dos respectivos titulares, bem como as importâncias relativas à cedência do uso do prédio ou de parte dele e aos serviços relacionados com aquela cedência, a diferença auferida pelo sublocador entre a renda recebida do subarrendatário e a paga ao senhorio, à cedência do uso, total ou parcial de bens imóveis e a cedência de uso de partes comuns de prédios.
+
+3 - Sempre que o valor dos rendimentos prediais seja de montante inferior ao determinado por efeito de aplicação do disposto no n.º 2 do artigo seguinte, aquele não se considera para efeitos de rendimento do agregado familiar do requerente.
+
+4 - Para além da declaração de IRS, podem ser solicitados outros documentos comprovativos do valor dos rendimentos prediais, designadamente duplicado dos recibos de rendas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 19.º — Património imobiliário
+
+1 - Para efeitos de atribuição do complemento, consideram-se património imobiliário os prédios rústicos, urbanos e mistos propriedade dos elementos do agregado familiar do requerente em 31 de Dezembro do ano em causa.
+
+2 - O valor a considerar para efeitos de determinação dos rendimentos do agregado familiar do requerente é de montante igual a 5% do valor total do património imobiliário aferido pelo valor que conste dos documentos mencionados no número seguinte.
+
+3 - A prova do valor do património imobiliário é feita através da caderneta predial actualizada ou, na falta desta, por certidão de teor matricial ou documento que haja titulado a respectiva aquisição.
+
+4 - O disposto neste artigo não se aplica aos imóveis ou fracções destinados à habitação permanente do requerente.
+
+###### Artigo 20.º — Património mobiliário
+
+1 - Para efeitos de atribuição do complemento, consideram-se património mobiliário, designadamente, créditos depositados em contas bancárias, valores mobiliários admitidos à negociação em mercado regulamentado e acções e outros activos financeiros de que os elementos do agregado familiar do requerente sejam titulares em 31 de Dezembro do ano em causa.
+
+2 - A prova do valor do património mobiliário é realizada, designadamente, através de:
+
+a) Títulos de depósitos bancários;
+
+b) Documentos emitidos por instituições bancárias ou outras competentes.
+
+###### Artigo 21.º — Incrementos patrimoniais
+
+Para efeitos da atribuição do complemento, consideram-se incrementos patrimoniais os rendimentos que configurem um acréscimo ao património dos elementos do agregado familiar do requerente não enquadráveis como rendimento de qualquer outra categoria no ano civil em causa, nos termos do disposto no Código do IRS, designadamente:
+
+a) Indemnizações que visem a reparação de danos emergentes e de lucros cessantes;
+
+b) Importâncias atribuídas em virtude da assunção de obrigações de não concorrência;
+
+c) Acréscimos patrimoniais não justificados.
+
+###### Artigo 22.º — Valor de realização de bens móveis e imóveis
+
+1 - Para efeitos de atribuição do complemento, considera-se valor de realização de bens móveis e imóveis, o resultado da alienação de bens e direitos dos elementos do agregado familiar do requerente, no ano civil em causa, designadamente:
+
+a) Venda de imóveis ou de direitos e de cessões de posições contratuais sobre imóveis;
+
+b) Venda de partes sociais e outros valores mobiliários;
+
+c) Venda de direitos de propriedade intelectual e industrial;
+
+d) Rendimentos provenientes de operações relativas a instrumentos financeiros derivados.
+
+2 - O valor a considerar para efeitos de determinação dos rendimentos dos elementos do agregado familiar do requerente é de montante igual ao valor da realização deduzido de eventuais empréstimos, sem prejuízo do disposto nos números seguintes.
+
+3 - Sempre que o valor de realização de bens móveis, imóveis ou direitos seja, no mesmo ano civil, integralmente convertido em património mobiliário ou imobiliário da titularidade dos elementos do agregado familiar do requerente, o seu valor não é considerado para efeitos de rendimento dos elementos do agregado familiar do requerente.
+
+4 - Sempre que o valor de realização de bens móveis ou imóveis seja, no mesmo ano, parcialmente convertido em património mobiliário ou imobiliário da titularidade dos elementos do agregado familiar do requerente, o valor a considerar, a este título, para efeitos de rendimento deste agregado familiar é 5% do valor de realização não convertido em património.
+
+5 - Para além da declaração de IRS podem ser solicitados outros documentos comprovativos do valor da realização de bens móveis e imóveis, designadamente:
+
+a) Escrituras de compra e venda;
+
+b) Contratos de compra e venda;
+
+c) Documento comprovativo da liquidação de empréstimo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 23.º — Pensões
+
+1 - Para efeitos de atribuição do complemento, consideram-se as pensões, nos termos constantes no Código do IRS, dos elementos do agregado familiar do requerente no ano civil em causa, designadamente:
+
+a) Pensões de aposentação ou reforma, pensão de velhice, pensão de invalidez, pensão de sobrevivência ou outras pensões da mesma natureza;
+
+b) Rendas temporárias ou vitalícias;
+
+c) Prestações a cargo de companhias de seguros ou de fundos de pensões.
+
+2 - Para além da declaração de IRS podem ser solicitados ao requerente outros documentos comprovativos do valor dos rendimentos de pensões, designadamente documentos emitidos pelo organismo pagador da pensão ou renda.
+
+3 - Sempre que se trate de pensões pagas pela entidade gestora da prestação, os meios de prova referidos no número anterior não são entregues, a não ser em situações excepcionais e quando, fundamentadamente, forem solicitados por aquele organismo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 24.º — Prestações sociais
+
+1 - Para efeitos de atribuição do complemento, consideram-se os rendimentos de todas as prestações sociais dos elementos do agregado familiar do requerente no ano civil em causa, à excepção das seguintes:
+
+a) Subsídio de funeral;
+
+b) Subsídio por morte;
+
+c) Apoios eventuais de acção social;
+
+d) Complemento solidário para idosos.
+
+2 - Para efeitos de atribuição do complemento, não se consideram, ainda, os rendimentos da prestação do rendimento social de inserção (RSI), quando da sua consideração resulte uma diminuição desta prestação e da prestação de complemento solidário para idosos.
+
+3 - Sempre que for de considerar a prestação de RSI, o valor a atender, para efeitos da atribuição do complemento, é o resultado da divisão do valor anual da prestação pelos elementos que compõem o agregado familiar do titular.
+
+4 - No caso do complemento por dependência, o valor a considerar, para efeitos de atribuição do complemento, é o montante correspondente ao 1.º grau, sem prejuízo do disposto no número seguinte.
+
+5 - Nas situações em que o montante do complemento por dependência ou prestação com idêntica finalidade atribuída por regime de sistema de segurança social estrangeiro seja de montante inferior ao do complemento por dependência do 1.º grau, é considerado o montante efectivamente recebido.
+
+6 - Para comprovação dos rendimentos de prestações sociais poderão ser solicitados ao requerente documentos emitidos pelo organismo pagador das mesmas.
+
+7 - Sempre que se trate de prestações sociais pagas pela entidade gestora da prestação os meios de prova referidos no número anterior não são entregues, a não ser em situações excepcionais e quando, fundamentadamente, forem solicitados por aquele organismo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2008-453536), em vigor a partir de 2008-08-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 25.º — Comparticipação da segurança social
+
+1 - Quando algum dos elementos do agregado familiar do requerente resida em equipamento social, considera-se como rendimento o montante correspondente ao valor das comparticipações da segurança social, para efeitos de atribuição do complemento.
+
+2 - Para efeitos do disposto no número anterior, consideram-se equipamentos sociais os equipamentos integrados na rede pública, privada e solidária, comparticipados ou não pela segurança social.
+
+3 - O valor a considerar para efeitos de determinação do rendimento dos elementos do agregado familiar do requerente é de montante igual ao valor anual da comparticipação paga pela segurança social por utente para a tipologia de equipamento em causa, sem prejuízo do disposto nos números seguintes.
+
+4 - No caso de utilização de equipamentos não comparticipados pela segurança social, o valor referido no número anterior é considerado, a este título, para efeitos de rendimento dos elementos do agregado familiar do requerente nos casos em que o pagamento do custo do equipamento seja realizado por instituições ou pessoas que não integram o agregado familiar do requerente.
+
+5 - (Revogado.)
+
+6 - A comprovação da utilização dos equipamentos sociais, bem como dos respectivos custo e tipologia, é feita através de declaração da instituição que gere o equipamento social nos casos em que não seja possível determinar a situação pelos serviços de segurança social ou pelo requerente.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2008-453536), em vigor a partir de 2008-08-27
+
+###### Artigo 26.º — Transferências monetárias ou bancárias
+
+1 - Para efeitos de atribuição do complemento, consideram-se as transferências monetárias periódicas para os elementos do agregado familiar do requerente efectuadas por indivíduos ou instituições públicas ou privadas no ano civil em causa.
+
+2 - Por transferências monetárias entendem-se as doações e as pensões de alimentos que traduzam uma forma de apoio monetário destinadas a melhorar o nível de rendimento dos elementos do agregado familiar do requerente, designadamente as que se destinam a apoiar despesas com alojamento, alimentação, saúde, comunicações ou outras.
+
+3 - Para efeitos de determinação do rendimento dos elementos do agregado familiar do requerente, não são consideradas, a este título, as transferências para eles realizadas que integrem os rendimentos constantes dos artigos anteriores.
+
+4 - (Revogado.)
+
+5 - A comprovação das transferências monetárias é realizada através de:
+
+a) Extractos bancários sobre movimentos de conta ou documentos equivalentes, caso se realizem por via bancária;
+
+b) Declaração do próprio, nas demais situações.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 27.º — Instrução do requerimento
+
+1 - O requerimento é obrigatoriamente instruído com os seguintes documentos relativos aos elementos do agregado familiar do requerente:
+
+a) Fotocópia do documento de identificação da segurança social ou do cartão de pensionista da segurança social ou de outros sistemas de protecção social;
+
+b) Fotocópia do documento de identificação civil;
+
+c) Fotocópia do documento de identificação fiscal;
+
+d) Declaração de disponibilidade para o reconhecimento de direitos e cobrança de créditos;
+
+e) Declaração que autorize a entidade gestora da prestação a aceder à informação fiscal e bancária relevante para atribuição do complemento.
+
+2 - O requerimento é ainda obrigatoriamente instruído com os seguintes documentos relativos aos elementos do agregado familiar do requerente, sempre que aplicáveis à sua situação:
+
+a) Fotocópia da declaração de IRS;
+
+b) Documentos comprovativos dos rendimentos, nos termos previstos no presente decreto regulamentar.
+
+3 - Na instrução do requerimento, o requerente deve ainda apresentar obrigatoriamente os seguintes documentos:
+
+a) Documento comprovativo da residência, conforme o artigo 3.º;
+
+b) Declaração em que conste o início da pensão, para os cidadãos referidos no n.º 2 do artigo 4.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro;
+
+c) (Revogada.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Os requerentes podem ser dispensados da apresentação de alguns dos documentos previstos nos n.os 1, 2 e 3 do presente artigo, caso esteja salvaguardado o acesso à informação em causa por parte da segurança social, designadamente por efeito de processos de interconexão de dados com outros organismos da Administração Pública.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 28.º — Falta de apresentação de elementos de instrução do requerimento
+
+1 - Na falta de apresentação de alguns dos meios de prova previstos no artigo anterior, a entidade gestora notifica o requerente para, no prazo de 10 dias úteis contados a partir da data da notificação, proceder à sua entrega.
+
+2 - A não apresentação dos documentos em falta, nos termos do número anterior, determina a aplicação do disposto no artigo 91.º do Código do Procedimento Administrativo.
+
+###### Artigo 29.º — Declaração dos rendimentos do agregado fiscal dos filhos
+
+1 - Quando o requerente não instrua o requerimento com a declaração dos rendimentos do agregado fiscal de algum dos filhos, por desconhecimento do seu paradeiro, na determinação dos recursos do requerente não é considerada a solidariedade familiar desse filho.
+
+2 - Se algum dos filhos do requerente recusar a entrega dos meios de prova relativos aos rendimentos do seu agregado familiar, deve ser apresentada declaração que comprove essa recusa.
+
+3 - A declaração prevista no número anterior deve ser acompanhada da disponibilidade do requerente em exercer o direito a alimentos em relação a esse filho, não sendo neste caso considerada a solidariedade familiar do respectivo filho na determinação dos recursos do requerente.
+
+4 - Se o requerente não se disponibilizar para exercer o seu direito a alimentos, na determinação dos recursos do requerente integra-se o montante de solidariedade familiar para esse filho, previsto no 3.º escalão, consagrado no n.º 4 do artigo 7.º
+
+5 - A concretização da disponibilidade prevista no n.º 3 deve ser realizada no prazo máximo de seis meses após o reconhecimento do direito ao complemento, através da entrega de duplicado da apresentação em juízo da respectiva petição inicial.
+
+6 - No caso de incumprimento do disposto no número anterior, a componente de solidariedade familiar assume automaticamente, para o filho em causa, o valor previsto no n.º 4.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2024-865433933), em vigor a partir de 2024-05-22, produz efeitos a partir de 2024-06-01
+
+###### Artigo 30.º — Actualização dos recursos
+
+1 - Os recursos previstos no artigo 6.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, são actualizados ao ano civil anterior ao do reconhecimento do direito, para efeitos de atribuição ou renovação do complemento, sempre que tal se demonstre necessário.
+
+2 - A actualização dos recursos é realizada mediante aplicação de um coeficiente resultante da variação média do índice de preços no consumidor (IPC), sem habitação, correspondente aos últimos doze meses e para os quais existam valores disponíveis à data de 30 de Novembro do ano a que se reporta a actualização.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 31.º — Pagamento do complemento
+
+1 - O pagamento do complemento é realizado mensalmente excepto nos casos em que o complemento a atribuir assuma um valor mensal inferior a (euro) 5.
+
+2 - Sempre que o complemento a atribuir assuma um valor mensal inferior a (euro) 5, há lugar a pagamento quando os valores mensais acumulados atinjam o valor de (euro) 5.
+
+3 - Sempre que o complemento a atribuir assuma um valor mensal inferior a (euro) 1, considera-se este como o valor mensal do complemento atribuído.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 32.º — Renovação da prova de recursos
+
+1 - (Revogado.)
+
+2 - O disposto na subalínea i) da alínea a) do n.º 1 do artigo 20.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, abrange igualmente a alteração do montante de pensão ou complemento de pensão que não resulte da correspondente actualização anual e sem prejuízo do disposto no n.º 4 do artigo 24.º
+
+3 - A renovação da prova prevista na alínea b) do n.º 1 e no n.º 2 do artigo 20.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, faz-se pela demonstração dos recursos do titular, nos termos e com os documentos previstos no presente decreto regulamentar.
+
+4 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 20.º do Decreto-Lei n.º 232/2005, de 29 de Dezembro, quando a apresentação do segundo requerimento ocorra no prazo de um ano após o reconhecimento do direito ao complemento, fica o seu titular isento de apresentação de nova prova de recursos, podendo ainda o requerente que determina o processo de renovação ficar isento de apresentação da mesma.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 151/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2009-491929), em vigor a partir de 2009-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 14/2007 - Diário da República n.º 56/2007, Série I de 2007-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588), em vigor a partir de 2007-03-25, produz efeitos a partir de 2007-01-01
+
+###### Artigo 33.º — Produção de efeitos
+
+O presente decreto regulamentar produz efeitos a partir do dia 1 de Janeiro de 2006.
+
+Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Pedro Manuel Dias de Jesus Marques.
+
+Promulgado em 27 de Janeiro de 2006.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 27 de Janeiro de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

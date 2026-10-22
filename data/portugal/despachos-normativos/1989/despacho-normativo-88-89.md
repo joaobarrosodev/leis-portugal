@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:547456:por
+title: Despacho Normativo n.º 88/89
+short_title: null
+summary: Fixa os valores máximos das remunerações dos formadores que podem ser consideradas como custos para efeitos do seu
+  co-financiamento pelo Fundo Social Europeu
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Emprego e da Segurança Social - Secretaria de Estado do Emprego e Formação Profissional
+proposing_entity: null
+official_number: 88/89
+official_date: null
+publication_date: '1989-09-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/1989, Série I de 1989-09-12
+  number: '210'
+  series: I
+  supplement: null
+  pages: 3988 - 3990
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21000/39883990.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '547456'
+  dre_path: /dr/detalhe/despacho-normativo/88-1989-547456
+  internal: pt:dre:547456:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/88-1989-547456
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/88-1989-547456
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-09-12T00:00:00Z'
+integrity:
+  source_sha256: 3ca7b346761c15634993b34bf004d260a3b46b9f8885832e6d343e11248dc767
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-88-547456.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 88/89
+
+Os valores máximos das remunerações dos formadores que podem ser considerados como custos em acções de formação profissional co-financiadas pelo Fundo Social Europeu são ainda os constantes do Despacho n.º 20/MTSS/87, publicado no Diário da República, 2.ª série, de 1 de Julho de 1987.
+
+A experiência entretanto adquirida aconselha a que se proceda à sua revisão, atenta a necessidade de racionalizar as intervenções financeiras, tanto comunitária como nacional, como forma de permitir satisfazer um universo mais vasto de necessidades de formação, e por se ter constatado que os valores então fixados não correspondem aos valores de mercado geralmente praticados.
+
+Considerando-se conveniente que não seja descurada a componente prática da formação, aumenta-se de 50% para 75% do valor da formação teórica o valor da remuneração pela formação prática; por outro lado, e com o fim de incentivar e criar condições para que as empresas criem as suas próprias estruturas de formação, eleva-se o limite de remuneração dos formadores internos.
+
+Aproveita-se ainda para clarificar certas questões suscitadas na aplicação do despacho anterior, tais como a do co-financiamento do tempo de preparação das aulas, que se considera não ser de considerar para esse efeito, bem como a do pagamento das despesas com manuais ou outro material didáctico destinado aos formandos, que não é considerado no cômputo da remuneração do formador, embora possa ser considerado no custo da acção, desde que devidamente comprovado.
+
+Por outro lado, prevê-se que, para além da remuneração, possam ser co-financiadas, dentro de certos limites, as despesas dos formadores com alojamento, alimentação e transporte, até como forma de viabilizar a formação profissional em muitas regiões onde os formadores locais são escassos.
+
+Assim, e tendo em conta as atribuições cometidas ao Departamento para os Assuntos do Fundo Social Europeu pelo [Decreto-Lei n.º 337/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1988-355517), de 27 de Setembro, determina-se:
+
+###### Artigo 1.º — Objecto
+
+O presente despacho normativo tem por objecto fixar os valores máximos das remunerações dos formadores que podem ser consideradas como custos para efeitos do seu co-financiamento pelo Fundo Social Europeu.
+
+###### Artigo 2.º — Definições
+
+Para os efeitos do presente diploma, entende-se por:
+
+a) Formador interno - aquele que tem vínculo laboral à entidade promotora da acção de formação;
+
+b) Formador externo - aquele que não tem vínculo laboral à entidade promotora da acção de formação;
+
+c) Formador permanente - aquele que desempenha as funções de formador como sua actividade principal;
+
+d) Formador eventual - aquele que desempenha as funções de formador como actividade de carácter secundário ou eventual;
+
+e) Formação teórica - aquela que é realizada em sala, sob a orientação de um formador, e cujo conteúdo, predominantemente informativo/formativo, é centrado, por parte dos formandos, na aquisição do saber;
+
+f) Formação prática - aquela que é realizada em sala, oficina, laboratório ou outro local que permita a aplicação, o ensaio ou a experimentação de técnicas, equipamentos ou matérias sob a orientação do formador, centrada fundamentalmente no treino e desenvolvimento, em situação simulada ou próxima da real, das competências já adquiridas em sala.
+
+###### Artigo 3.º — Remuneração dos formadores externos
+
+1 - Os valores máximos da remuneração horária dos formadores externos, segundo os níveis de formação da CEE, são os constantes da tabela do anexo I a este diploma.
+
+2 - Os níveis de formação da CEE a que se refere o número anterior são os que se encontram definidos pela Decisão do Conselho das Comunidades de 16 de Julho de 1985 e que constam do anexo II a este diploma.
+
+###### Artigo 4.º — Remuneração dos formadores internos
+
+1 - O valor máximo de remuneração horária dos formadores internos permanentes não pode exceder a remuneração a que esses formadores tenham direito por força da sua relação laboral com a entidade promotora.
+
+2 - O valor máximo de remuneração horária dos formadores internos eventuais não poderá exceder, para além da sua remuneração base, 50% do valor fixado na tabela do anexo I para idênticas acções de formação.
+
+3 - É fixado em 250 horas anuais o número máximo de horas de formação que pode ser considerado relativamente a cada formador interno eventual.
+
+###### Artigo 5.º — Preparação das aulas
+
+1 - Nas remunerações dos formadores consideram-se abrangidos os custos de preparação das aulas.
+
+2 - As despesas de documentação e manuais fornecidos aos formandos não são consideradas como remuneração do formador, podendo, no entanto, ser co-financiadas desde que devidamente justificadas.
+
+###### Artigo 6.º — Outras despesas
+
+1 - Para além da remuneração poderão ainda ser co-financiadas despesas de alojamento e transporte dos formadores.
+
+2 - A cobertura das despesas de alojamento e alimentação será feita de acordo com as regras e com os valores máximos fixados para atribuição de ajudas de custo a funcionários públicos de categorias superiores à letra D da respectiva tabela de vencimentos.
+
+3 - As despesas de transporte serão pagas de acordo com as regras estabelecidas para o pagamento de idênticas despesas de funcionários públicos.
+
+###### Artigo 7.º — Fixação de montantes superiores
+
+Em situações excepcionais, designadamente quando haja necessidade de recorrer a formadores estrangeiros ou haja dificuldade em recrutar formadores em áreas muito específicas poderá o Ministro do Emprego e da Segurança Social, ouvido o Instituto do Emprego e Formação Profissional, autorizar o co-financiamento de montantes mais elevados de remunerações e outras despesas dos formadores.
+
+###### Artigo 8.º — Adaptações
+
+Os Governos Regionais dos Açores e da Madeira poderão introduzir as adaptações consideradas necessárias à aplicação do presente diploma às acções de formação profissional realizadas nas respectivas regiões.
+
+###### Artigo 9.º — Revogação
+
+É revogado o Despacho n.º 20/MTSS/87, de 19 de Junho, publicado no Diário da República, 2.ª série, n.º 148, de 1 de Julho de 1987.
+
+###### Artigo 10.º — Entrada em vigor
+
+Os valores fixados pelo presente despacho normativo aplicam-se às acções de formação realizadas a partir de 1 de Janeiro de 1990.
+
+Secretaria de Estado do Emprego e Formação Profissional, 29 de Agosto de 1989. - O Secretário de Estado do Emprego e Formação Profissional, António José de Castro Bagão Félix.
+
+## ANEXO I — Montantes máximos co-financiáveis pelo Fundo Social Europeu da remuneração horária de formadores externos
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21000/39883990.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21000/39883990.pdf)
+
+## ANEXO II — Estrutura dos níveis de formação
+
+Nível 1
+
+Formação de acesso a este nível: escolaridade obrigatória e iniciação profissional
+
+Essa iniciação profissional é adquirida quer num estabelecimento escolar, quer no âmbito de estruturas de formação extra-escolares, quer na empresa. A quantidade de conhecimentos técnicos e de capacidades práticas é muito limitada.
+
+Essa formação deve permitir principalmente a execução de um trabalho relativamente simples, podendo a sua aquisição ser bastante rápida.
+
+Nível 2
+
+Formação de acesso a este nível: escolaridade obrigatória e formação profissional (incluindo, nomeadamente, a aprendizagem)
+
+Esse nível corresponde a uma qualificação completa para o exercício de uma actividade bem determinada, com a capacidade de utilizar os instrumentos e técnica com ela relacionadas.
+
+Esta actividade respeita principalmente a um trabalho de execução, que pode ser autónomo no limite das técnicas que lhe dizem respeito.
+
+Nível 3
+
+Formação de acesso a este nível: escolaridade obrigatória e ou formação profissional e formação técnica complementar ou formação técnica escolar ou outra de nível secundário.
+
+Esta formação implica mais conhecimentos técnicos que o nível 2. Esta actividade respeita principalmente a um trabalho técnico que pode ser executado de uma forma autónoma e ou incluir responsabilidades de enquadramento e de coordenação.
+
+Nível 4
+
+Formação de acesso a este nível: formação secundária (geral ou profissional) e formação técnica pós-secundária
+
+Esta formação técnica de alto nível é adquirida no âmbito de instituições escolares ou fora dele. A qualificação resultante desta formação inclui conhecimentos e capacidades que pertencem ao nível superior. Não exige, em geral, o domínio dos fundamentos científicos das diferentes áreas em causa. Estas capacidades e conhecimentos permitem assumir, de forma geralmente autónoma ou de forma independente, responsabilidades de concepção e ou de direcção e ou de gestão.
+
+Nível 5
+
+Formação de acesso a este nível: formação secundária (geral ou profissional) e formação superior completa
+
+Esta formação conduz geralmente à autonomia no exercício da actividade profissional (assalariada ou independente) que implica o domínio dos fundamentos científicos da profissão. As qualificações exigidas para exercer uma actividade profissional podem ser integradas nesses diferentes níveis.

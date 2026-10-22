@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:614350:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-870598148",
+ "dre_path": "/dr/detalhe/decreto-lei/283-2000-614350",
+ "source_lastmod": "2024-07-02",
+ "versions": [
+  {
+   "date": "2000-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870590525",
+    "870590526",
+    "870590527"
+   ]
+  }
+ ],
+ "fragments": {
+  "870590525": {
+   "fragment_id": "870598149",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 283/2000\n\nde 10 de Novembro\n\nO Decreto-Lei n.º 101/94, de 19 de Abril, estabelece as regras a que deve obedecer a rotulagem que acompanha os medicamentos de uso humano.\n\nA adesão de Portugal ao sistema monetário europeu reflecte-se em todos os níveis da actividade económica mormente na área do medicamento.\n\nNesta conformidade e atendendo à necessidade de possibilitar a dupla marcação das embalagens das especialidades farmacêuticas em unidades escudo e em unidades euro, torna-se necessário adaptar a legislação existente a uma situação que naturalmente reveste um carácter transitório.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "870590526": {
+   "fragment_id": "870598150",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO artigo 5.º do Decreto-Lei n.º 101/94, de 19 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Na embalagem exterior devem constar, junto à etiqueta referida no número anterior, o preço de venda ao público em escudos ou em escudos e euros, e o preço a suportar pelo utente, também em escudos ou em escudos e euros, com a explicitação dos regimes de comparticipação previstos no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º, ambos do Decreto-Lei n.º 118/92, de 25 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 305/98, de 7 de Outubro.\n\n5 - Na etiqueta referida nos números anteriores o preço de venda ao público constará em escudos ou em escudos e euros.»"
+  },
+  "870590527": {
+   "fragment_id": "870598151",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA partir de 1 de Janeiro de 2002, a inscrição dos preços dos medicamentos, tanto nas embalagens como nas etiquetas, deverá ser em unidades euro."
+  }
+ }
+}

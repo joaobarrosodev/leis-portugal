@@ -1,0 +1,263 @@
+---
+schema_version: '1.0'
+id: pt:dre:545817:por
+title: Decreto-Lei n.º 198/2006
+short_title: null
+summary: Estabelece o regime jurídico dos esquemas de separação de tráfego a vigorar em espaços marítimos sob jurisdição nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 198/2006
+official_date: null
+publication_date: '2006-10-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2006, Série I de 2006-10-19
+  number: '202'
+  series: I
+  supplement: null
+  pages: 7297 - 7299
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20200/72977299.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-12-27'
+version_history:
+  file: decreto-lei-198-2006.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-10-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-27'
+    amending: pt:dre:490689:por
+    amending_title: Decreto-Lei n.º 263/2009
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/198/2006/p/cons/20090928/pt/html
+  oj: null
+  dre: '545817'
+  dre_path: /dr/detalhe/decreto-lei/198-2006-545817
+  internal: pt:dre:545817:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2006-545817
+  metadata_url: https://data.dre.pt/eli/dec-lei/198/2006/p/cons/20090928/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-214908236
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-214908236
+  retrieved_at: '2026-10-22T12:57:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8e4be5d4bacb51b2c0e6d575dfd8d099cc0766172c652a90af506f29cee9e8b2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:57:33Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-198-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Jurisdição
+- Embarcação
+- Berlengas
+- CABO da ROCA
+- CABO de são Vicente
+- Multa
+- Instituto Portuário e dos Transportes Marítimos
+- Definição de Competências
+- Autoridade Marítima Nacional
+- Protecção do Litoral
+- Fiscalização
+- Proteção do Ambiente
+- Zona de Proteção
+- Regime Jurídico
+- Segurança da Navegação
+- Navegação Marítima
+relationships:
+- type: amended_by
+  target: pt:dre:490689:por
+  label: Altera Artigo 3.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689
+  date: '2009-09-28'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/3/1992/01/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/3/1992/01/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/775/1992/08/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/775/1992/08/10/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:57:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 198/2006
+
+Decreto-Lei n.º 198/2006
+
+de 19 de Outubro
+
+O Decreto-Lei n.º 3/92, de 18 de Janeiro, e a Portaria n.º 775/92, de 10 de Agosto, definiram com precisão os limites e pontos de inflexão dos esquemas de separação de tráfego (EST) que foram estabelecidos ao longo da costa continental portuguesa pelo Decreto-Lei n.º 200/86, de 22 de Julho, e que vigoraram no exterior das Berlengas, ao largo do cabo da Roca e na rondagem do cabo de São Vicente até 2004.
+
+No entanto, foi sempre reconhecido o risco que representava a passagem pelo corredor ascendente do EST do cabo de São Vicente, em que os limites interiores fixados em 1986 estavam perigosamente próximos da linha da costa, circunstância que motivou acções de apoio ao afastamento da navegação comercial na zona do referido cabo, tendo em vista a protecção da costa algarvia.
+
+A Organização Marítima Internacional (OMI) apreciou e adoptou, no ano de 2003, importantes alterações ao EST do cabo Finisterra, na costa noroeste de Espanha, em vigor desde 1 de Junho de 2004, com novos limites e novas zonas de passagem para navios que transportam cargas perigosas ou poluentes a granel.
+
+Na sequência desta iniciativa, Portugal preparou e submeteu, ao subcomité da OMI para a segurança da navegação (NAV), propostas de alteração ao EST do cabo da Roca e ao EST do cabo de São Vicente, nelas se incluindo novas regras de atravessamento a cumprir pela navegação que os utiliza e propondo, simultaneamente, a criação de uma área a evitar (AAE) na região das ilhas Berlengas, esta em contrapartida da revogação do EST das Berlengas, que se concluiu ser dispensável.
+
+Ora, na 79.ª sessão do Comité de Segurança Marítima (MSC) da OMI, realizada em Dezembro de 2004, a proposta de Portugal foi adoptada, tendo o Comité decidido que os novos EST e a AAE entrariam em vigor às 0 horas do dia 1 de Julho de 2005.
+
+Resulta, pois, como obrigação para o Estado Português criar na sua ordem jurídica as disposições legais necessárias e adequadas que permitam garantir o cumprimento das normas aplicáveis aos novos EST e AAE, nomeadamente a necessidade de caracterizar o ilícito cometido pelos navios que não cumpram o estabelecido no Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM), instrumento da Convenção Internacional aprovada pelo Decreto n.º 55/78, de 27 de Junho.
+
+Ao promover, principalmente, o reforço da segurança marítima e a simplificação da navegação através do alinhamento com o EST de Finisterra alterado, as medidas que ora se pretendem introduzir visam o estabelecimento dos instrumentos legais para a protecção e preservação do meio marinho ao longo da costa continental portuguesa em águas territoriais e extraterritoriais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece o regime jurídico dos esquemas de separação de tráfego (EST), a vigorar em espaços marítimos sob jurisdição nacional, na sequência da aprovação em sede da entidade competente da Organização Marítima Internacional (OMI) e estabelece o respectivo quadro contra-ordenacional.
+
+2 - O regime referido no número anterior vigora, também, num espaço marítimo específico, situado na zona das Berlengas, designado por área a evitar das Berlengas.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se a todos os navios e embarcações que naveguem pelos EST estabelecidos de acordo com o artigo anterior.
+
+2 - O presente decreto-lei aplica-se igualmente aos navios e embarcações nacionais que naveguem em espaços marítimos sob jurisdição de outro país, fora do respectivo mar territorial, sempre que não tenha havido punição no Estado onde foi cometida a infracção e este remeta o processo relativo à infracção para o Estado Português.
+
+###### Artigo 3.º — Autoridades competentes
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - O Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) e a Autoridade Marítima Nacional (AMN) asseguram o acompanhamento e adoptam as medidas necessárias e adequadas para garantir que todos os navios que naveguem pelos EST estabelecidos utilizam esses sistemas de acordo com as orientações e critérios pertinentes definidos pela OMI.
+
+> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 263/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689), em vigor a partir de 2009-12-27
+
+###### Artigo 4.º — Esquemas de separação de tráfego
+
+1 - Ao longo da costa portuguesa do continente são estabelecidos os seguintes EST:
+
+a) EST do cabo da Roca;
+
+b) EST do cabo de São Vicente.
+
+2 - Na aproximação, passagem pelo interior e saída dos EST referidos no n.º 1, todos os navios e embarcações devem cumprir o preceituado na regra n.º 10 do Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM).
+
+###### Artigo 5.º — Área a evitar das Berlengas
+
+1 - É estabelecida uma área específica, designada por área a evitar (AAE) das Berlengas, interdita à navegação a todos os navios com mais de 300 t.
+
+2 - A ACTM pode autorizar, a título excepcional e após parecer da AMN, a navegação naquela área aos navios referidos no número anterior.
+
+###### Artigo 6.º — Lista de coordenadas
+
+Os EST e a AAE das Berlengas estão assinaladas nas cartas náuticas oficiais publicadas pelo Instituto Hidrográfico e as respectivas coordenadas para representação gráfica são aprovadas por portaria conjunta dos ministérios que tutelam as áreas da defesa nacional e dos transportes marítimos.
+
+###### Artigo 7.º — Contra-ordenações e coimas
+
+1 - O não cumprimento, por navios e embarcações, das condições de passagem nos EST e na AAE das Berlengas ou o desrespeito da regra n.º 10 do RIEAM constituem contra-ordenações puníveis com coimas de (euro) 2200 a (euro) 3700 ou de (euro) 10000 e (euro) 44000, consoante o infractor, armador ou proprietário, seja pessoa singular ou colectiva.
+
+2 - Os montantes das coimas são determinados em função da gravidade da infracção e do impacte provocado no meio marinho, bem como da nocividade das cargas transportadas e do grau de culpa do agente.
+
+###### Artigo 8.º — Punibilidade da negligência
+
+1 - A negligência é punível.
+
+2 - No caso de a infracção ter sido praticada com negligência, os montantes das coimas previstos no artigo anterior são reduzidos para metade nos seus limites mínimos e máximos.
+
+###### Artigo 9.º — Fiscalização
+
+Compete ao IPTM, I. P., à ANCTM, através do CCTMC, e à AMN, através dos meios navais disponíveis, a fiscalização do cumprimento do estabelecido no presente decreto-lei.
+
+> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 263/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689), em vigor a partir de 2009-12-27
+
+###### Artigo 10.º — Auto de notícia
+
+1 - As autoridades com competência para fiscalização, nos termos do presente decreto-lei, logo que tomem conhecimento de facto susceptível de constituir um ilícito contra-ordenacional, levantam um auto de notícia e enviam o processo para a entidade competente para a instrução.
+
+2 - Sem prejuízo dos outros meios de detecção do ilícito, constitui, também, auto de notícia o relatório de detecção de infracção baseada na informação originada pelo sistema de controlo da navegação costeira.
+
+###### Artigo 11.º — Instrução e decisão processual
+
+Compete ao capitão do porto com jurisdição na área onde foi cometida a infracção ou ao capitão do porto de registo do navio, no caso das infracções cometidas no âmbito do n.º 2 do artigo 2.º, instruir os processos contra-ordenacionais por ilícitos cometidos em matéria de EST, AAE e outros instrumentos de organização de tráfego e aplicar as respectivas coimas e sanções acessórias.
+
+###### Artigo 12.º — Medidas cautelares
+
+1 - Quando a gravidade da infracção o justifique e se revele adequado para evitar ou atenuar a lesão dos interesses protegidos pelo presente decreto-lei, pode a entidade competente para a instrução e decisão processual ordenar, como medida cautelar, a apreensão do navio ou da embarcação.
+
+2 - Os navios ou embarcações não devem ser retidos por mais tempo que o indispensável para os efeitos de investigação, devendo ser imediatamente libertos após o cumprimento das formalidades estritamente necessárias.
+
+3 - No caso de um pedido de libertação de navio ou embarcação estrangeiro apreendido ter sido negado ou condicionado a determinados requisitos, o respectivo Estado de bandeira deve imediatamente ser notificado.
+
+###### Artigo 13.º — Sanções acessórias
+
+Em função da gravidade da infracção ou da culpa do agente, a entidade competente para a instrução e decisão processual pode, em relação aos navios nacionais, determinar a interdição de exercer a profissão ou actividade relacionada com a contra-ordenação.
+
+###### Artigo 14.º — Destino do produto das coimas
+
+O produto das coimas previstas no presente decreto-lei reverte:
+
+a) 60% para os cofres do Estado;
+
+b) 20% para a entidade que levantar o auto de notícia;
+
+c) 20% para a entidade a quem compete a instrução e decisão processuais.
+
+###### Artigo 15.º — Direito subsidiário
+
+Às contra-ordenações previstas no presente decreto-lei e em tudo quanto nele se não encontre expressamente regulado, são subsidiariamente aplicáveis as disposições do regime geral das contra-ordenações.
+
+###### Artigo 16.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 200/86, de 22 de Julho, com a redacção dada pelo Decreto-Lei n.º 3/92, de 18 de Janeiro, e a Portaria n.º 775/92, de 10 de Agosto.
+
+Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - João António da Costa Mira Gomes - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Paulo Jorge Oliveira Ribeiro de Campos.
+
+Promulgado em 4 de Outubro de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 6 de Outubro de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

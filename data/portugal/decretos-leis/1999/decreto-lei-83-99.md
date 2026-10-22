@@ -1,0 +1,254 @@
+---
+schema_version: '1.0'
+id: pt:dre:145789:por
+title: Decreto-Lei n.º 83/99
+short_title: null
+summary: Designa as entidades nacionais responsáveis pelo Sistema Português de Ecogestão e Auditoria
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente
+proposing_entity: null
+official_number: 83/99
+official_date: null
+publication_date: '1999-03-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/1999, Série I-A de 1999-03-18
+  number: '65'
+  series: I
+  supplement: null
+  pages: 1498 - 1500
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/03/065a00/14981500.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/83/1999/03/18/p/dre/pt/html
+  oj: null
+  dre: '145789'
+  dre_path: /dr/detalhe/decreto-lei/83-1999-145789
+  internal: pt:dre:145789:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1999-145789
+  metadata_url: https://data.dre.pt/eli/dec-lei/83/1999/03/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1999-145789
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-04-20T00:00:00Z'
+integrity:
+  source_sha256: 5e712b020e0b47a6f57d9aa8ff29276b343c641e23bf4a89855455a7e4afb32c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-83-145789.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Atividade Industrial
+- Aproximação das Legislações
+- Auditoria
+- Comissão de Acompanhamento
+- Definição de Competências
+- Direcção Geral da Indústria
+- Direcção Geral do Ambiente
+- Estabelecimento Industrial
+- Instituto Português da Qualidade
+- Proteção do Ambiente
+- Poluição Industrial
+- Sistema Português de Ecogestão e Auditoria
+- TAXA de Prestação de Serviços
+- Verificador Ambiental
+relationships:
+- type: amended_by
+  target: pt:dre:552805:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31993R1836
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/1836/oj
+- type: cites
+  target: celex:31996L0061
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/61/oj
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 83/99
+
+de 18 de Março
+
+O Regulamento CEE n.º [1836/93](https://data.europa.eu/eli/reg/1993/1836/oj?locale=pt), do Conselho, de 29 de Junho, permite a participação voluntária das empresas do sector industrial num sistema comunitário de ecogestão e auditoria.
+
+Considerando que, não obstante a sua obrigatoriedade e aplicabilidade directa em todos os Estados membros, há matérias que carecem de desenvolvimento na ordem jurídica interna, torna-se necessário implementar, mediante diploma específico, o disposto no referido regulamento, designadamente definir os organismos responsáveis pelo exercício das funções decorrentes daquele, bem como prever as taxas a pagar pelas empresas que beneficiem do sistema de ecogestão e auditoria e as referentes à acreditação dos verificadores ambientais.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Sistema Português de Ecogestão e Auditoria
+
+1 - O Sistema Português de Ecogestão e Auditoria, adiante abreviadamente designado por Sistema, tem como entidades responsáveis a Direcção-Geral do Ambiente (DGA), o Instituto Português da Qualidade (IPQ) e a Direcção-Geral da Indústria (DGI).
+
+2 - Compete a cada uma das entidades referidas desenvolver as actividades de informação e divulgação do Sistema e promover a participação das empresas no mesmo.
+
+###### Artigo 2.º — Gestão do Sistema
+
+1 - Para efeitos de implementação e acompanhamento deste Sistema é criada uma comissão de acompanhamento, constituída por representantes das três entidades previstas no número anterior, sendo a respectiva presidência assegurada pelo representante da DGA.
+
+2 - À comissão compete:
+
+a) Acompanhar o funcionamento de um sistema para a acreditação de verificadores ambientais independentes e para supervisão das suas actividades;
+
+b) Assegurar a coordenação entre as três entidades referidas no n.º 1 do artigo 1.º, quer na preparação das posições a assumir por Portugal no comité a que se reporta o artigo 19.º do Regulamento CEE n.º [1836/93](https://data.europa.eu/eli/reg/1993/1836/oj?locale=pt), do Conselho, de 29 de Junho, adiante designado por Regulamento, quer na implementação e gestão do Sistema a nível nacional;
+
+c) Garantir, para efeitos da gestão do Sistema, a consulta aos vários parceiros sociais de âmbito nacional na área do ambiente;
+
+d) Pronunciar-se sobre a anulação, recusa ou suspensão dos registos das instalações industriais;
+
+e) Analisar e apresentar propostas de aplicação do Sistema, a título experimental, a sectores não industriais, nos termos do artigo 14.º do Regulamento, mediante audição prévia das entidades competentes.
+
+3 - A gestão do Sistema é da competência da DGA, a quem cabe, nos termos do artigo 18.º do Regulamento, exercer as funções de organismo competente:
+
+a) Proceder ao registo das instalações industriais nos termos do n.º 1 do artigo 8.º do Regulamento;
+
+b) Anular, recusar ou suspender os registos das instalações industriais nos termos do n.os 3 e 4 do artigo 8.º do Regulamento;
+
+c) Elaborar e actualizar anualmente a lista das instalações industriais registadas;
+
+d) Transmitir à Comissão Europeia, antes do final de cada ano, a lista das instalações industriais registadas, bem como das empresas às quais, nos termos da alínea e) do número anterior, se aplique o Sistema.
+
+4 - Cabe à DGA representar Portugal no comité referido no artigo 19.º do Regulamento.
+
+5 - Na qualidade de gestor do Sistema Português da Qualidade (SPQ), cabe ao IPQ garantir o funcionamento do sistema de acreditação de verificadores ambientais referido na alínea a) do n.º 2 do artigo 2.º, em harmonia com os princípios e metodologias do SPQ.
+
+6 - No âmbito da comissão, compete, em especial, à DGI:
+
+a) Garantir que as orientações da política industrial estão presentes nas decisões da comissão referida no n.º 1 do artigo 2.º;
+
+b) Promover a articulação do Sistema com as linhas de actuação preconizadas na Directiva n.º [96/61/CE](https://data.europa.eu/eli/dir/1996/61/oj?locale=pt), do Conselho, de 24 de Setembro, e com as que venham a ser adoptadas a nível nacional resultantes da aplicação em Portugal desta directiva.
+
+7 - Os encargos com o funcionamento da comissão referida no n.º 1 do artigo 2.º são suportados pelo orçamento da DGA.
+
+###### Artigo 3.º — Acreditação e supervisão de verificadores ambientais
+
+1 - No respeitante à acreditação e supervisão de verificadores ambientais:
+
+a) Cabe ao IPQ, na qualidade de organismo nacional de acreditação, a acreditação e supervisão de verificadores ambientais, em conformidade com o cumprimento das regras estabelecidas, a nível comunitário, para a acreditação, nomeadamente os referidos no anexo III do Regulamento;
+
+b) Cabe à DGA, como organismo do Ministério do Ambiente e ao abrigo do artigo 10.º do Decreto-Lei n.º 234/93, garantir, no domínio do ambiente, a componente técnica da acreditação dos verificadores ambientais;
+
+c) Cabe ao IPQ a elaboração, revisão e actualização da lista de verificadores ambientais acreditados e a sua apresentação semestral à Comissão Europeia, nos termos do artigo 7.º do Regulamento;
+
+d) Cabe ao IPQ a recepção das notificações prévias nos termos do n.º 7 do artigo 6.º do Regulamento.
+
+2 - A supervisão das actividades dos verificadores ambientais acreditados é da responsabilidade conjunta da DGA e do IPQ, cabendo ao IPQ a sua dinamização.
+
+###### Artigo 4.º — Nomeação de verificadores ambientais
+
+1 - A função de nomeação das entidades acreditadas como verificadores ambientais fica sujeita a validação por parte da DGA.
+
+2 - Com vista à plena operação por parte do verificador ambiental, a DGA assegurará, com a periodicidade entendida como necessária e através de acções específicas, que o verificador ambiental tem um adequado entendimento do Sistema EMAS e dos processos a ele associados.
+
+###### Artigo 5.º — Reconhecimento da acreditação de organismos de certificação
+
+1 - Para efeitos da aplicação da alínea b) do n.º 1 do artigo 12.º do Regulamento, são reconhecidas as acreditações de organismos de certificação no âmbito do SPQ.
+
+2 - Tratando-se de organismos de certificação cuja acreditação não foi obtida no âmbito do SPQ, compete ao IPQ, na qualidade de organismo nacional de acreditação nacional, o reconhecimento dessa acreditação, cabendo à DGA garantir a componente técnica desse reconhecimento no que se refere ao domínio ambiental.
+
+###### Artigo 6.º — Encargos e taxas
+
+1 - O montante dos preços dos serviços de acreditação prestados pelo IPQ é calculado de acordo com despacho do respectivo presidente, emitido nos termos do SPQ.
+
+2 - As receitas provenientes dos serviços de acreditação prestados pelo IPQ têm a seguinte distribuição:
+
+a) 55% para o IPQ;
+
+b) 45% para a DGA.
+
+3 - Pelos serviços prestados pela DGA, na qualidade de organismo competente, são devidas taxas, cujas fórmulas de cálculo são fixadas por portaria conjunta dos Ministros das Finanças e do Ambiente.
+
+4 - A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas referidas no número anterior faz-se pelo processo de execução fiscal, servindo de título executivo certidão passada pela DGA.
+
+###### Artigo 7.º — Suspensão e cancelamento do registo
+
+1 - O director-geral do Ambiente pode, por despacho fundamentado, determinar:
+
+a) A suspensão do registo no Sistema, quando se verificar incumprimento da observância da legislação em vigor em matéria ambiental;
+
+b) O cancelamento do registo no Sistema, sempre que a empresa não apresente uma declaração sobre ambiente validada ou sempre que o organismo competente concluir que a instalação industrial deixou de preencher a totalidade dos requisitos do Regulamento.
+
+2 - As medidas referidas no número anterior são objecto de despacho do director-geral do Ambiente sempre que, após interpelação à empresa, esta não venha a corrigir a situação no prazo determinado.
+
+###### Artigo 8.º — Contra-ordenações
+
+1 - Constituem contra-ordenações punidas por coima, nos termos da lei geral, as seguintes práticas:
+
+a) A utilização abusiva do gráfico e da declaração de participação prevista no n.º 1 do artigo 10.º do Regulamento, bem como de informação respeitante ao registo no Sistema;
+
+b) A aposição em produtos ou respectivas embalagens da declaração de participação no Sistema, a que se reporta o n.º 3 do artigo 10.º do Regulamento.
+
+2 - A tentativa e a negligência são puníveis.
+
+###### Artigo 9.º — Fiscalização do cumprimento
+
+1 - A fiscalização do cumprimento do disposto neste diploma compete à DGA.
+
+2 - Compete ao director-geral do Ambiente a aplicação das coimas previstas no presente diploma.
+
+3 - O produto proveniente das coimas previstas no presente diploma é afectado da seguinte forma:
+
+a) 60% para o Estado;
+
+b) 40% para a DGA.
+
+###### Artigo 10.º — Conformidade com a legislação ambiental
+
+Dos autos de notícia e das participações efectuadas, relativamente a empresas registadas no Sistema, por incumprimento do normativo ambiental deve ser dado conhecimento à DGA.
+
+###### Artigo 11.º — Disposição final
+
+A aplicação do presente diploma não prejudica as atribuições específicas conferidas por lei a outras entidades.
+
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Vítor Manuel Sampaio Caetano Ramalho - Elisa Maria da Costa Guimarães Ferreira.
+
+**Promulgado em 11 de Fevereiro de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 4 de Março de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

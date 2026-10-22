@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:382799:por
+title: Decreto-Lei n.º 86/79
+short_title: null
+summary: Dá nova redacção ao artigo 1.º do Decreto-Lei n.º 35892, de 4 de Outubro de 1946 (contagem de tempo, para efeitos
+  de aposentação, do pessoal dos batalhões de sapadores bombeiros)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna - Secretaria de Estado da Administração Regional e Local - Gabinete de Apoio às Autarquias
+  Locais
+proposing_entity: null
+official_number: 86/79
+official_date: null
+publication_date: '1979-04-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90/1979, Série I de 1979-04-18
+  number: '90'
+  series: I
+  supplement: null
+  pages: 665 - 665
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/04/09000/06650665.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382799'
+  dre_path: /dr/detalhe/decreto-lei/86-1979-382799
+  internal: pt:dre:382799:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1979-382799
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1979-382799
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-04-18T00:00:00Z'
+integrity:
+  source_sha256: ef065d821d3612647b8a63eeb8db7b35f6b03e1319678bb00344512f40977a56
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-86-382799.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 86/79
+
+de 18 de Abril
+
+O [Decreto-Lei n.º 35892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35892-1946-150351), de 4 de Outubro de 1946, alterado pelo [Decreto-Lei n.º 43314](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43314-1960-514197), de 15 de Novembro de 1960, veio estabelecer que o pessoal dos batalhões de sapadores bombeiros teria direito a que a contagem de tempo de serviço para efeitos de aposentação fosse acrescida de determinadas percentagens.
+
+Verifica-se, no entanto, que o sistema constante dos referidos diplomas conduz na prática a uma desmotivação à ascensão na carreira, uma vez que a promoção tem efeitos não compensatórios pela diminuição da percentagem.
+
+Convindo corrigir esta situação e atendendo ao que representaram as Câmaras Municipais de Lisboa e Porto e ao parecer da Caixa Geral de Depósitos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 35892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35892-1946-150351), de 4 de Outubro de 1946, passa a ter a seguinte redacção:
+
+###### Artigo 1.º O pessoal dos batalhões de sapadores bombeiros terá direito, para efeitos de aposentação, a que o tempo de serviço prestado, em cada uma das diversas categorias, naqueles batalhões ou na situação de destacado em aeródromos ou aeroportos, lhe seja aumentado das percentagens a seguir indicadas:
+
+... Percentagens
+
+Subchefe, cabos e sapadores bombeiros ... 30
+
+Subchefes-ajudantes ... 20
+
+Chefes-ajudantes e chefes ... 15
+
+###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+
+Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro - António Jorge de Figueiredo Lopes.
+
+**Promulgado em 2 de Abril de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

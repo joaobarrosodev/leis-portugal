@@ -1,0 +1,303 @@
+---
+schema_version: '1.0'
+id: pt:dre:620108:por
+title: Portaria n.º 129/2005
+short_title: null
+summary: Aprova o programa de formação do internato complementar da especialidade da área profissional médica de ginecologia/obstetrícia
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 129/2005
+official_date: null
+publication_date: '2005-02-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2005, Série I-B de 2005-02-01
+  number: '22'
+  series: I
+  supplement: null
+  pages: 842 - 844
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/02/022b00/08420844.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/129/2005/02/01/p/dre/pt/html
+  oj: null
+  dre: '620108'
+  dre_path: /dr/detalhe/portaria/129-2005-620108
+  internal: pt:dre:620108:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/129-2005-620108
+  metadata_url: https://data.dre.pt/eli/port/129/2005/02/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/129-2005-620108
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-02-01T00:00:00Z'
+integrity:
+  source_sha256: d66e4d76fae5ddfe2cbbf088ecb53ddf99635ef7c9cac01412a9b7303446d2aa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-129-620108.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Formação Profissional
+- Ensino Médico
+- Internato Complementar
+- Programa
+- Qualificação Profissional
+- Estágio de Formação
+- Estabelecimento Hospitalar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/695/1995/06/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 129/2005
+
+de 1 de Fevereiro
+
+As crescentes exigências e responsabilidades postas no exercício das actividades médicas e cirúrgicas especializadas, incrementadas pela livre circulação de profissionais na Comunidade Europeia, requerem elevados níveis de formação pós-graduada.
+
+Com esse objectivo, e através da reformulação do regime legal dos internatos médicos, visa-se garantir as melhores condições de formação e, consequentemente, revalorizar os títulos de qualificação profissional que confere. Para o efeito, é medida fundamental o estabelecimento de programas de formação para cada área profissional ou especialidade, devidamente actualizados, que definam a estrutura curricular do processo formativo, com tempos e planos gerais de actividades, e fixem os objectivos globais e específicos de cada área e estágio e os momentos e métodos da avaliação.
+
+Assim:
+
+Sob proposta da Ordem dos Médicos e do Conselho Nacional dos Internatos Médicos:
+
+Ao abrigo do Regulamento dos Internatos Complementares, aprovado pela [Portaria n.º 695/95](https://diariodarepublica.pt/dr/detalhe/portaria/695-1995-476721), de 30 de Junho:
+
+Manda o Governo, pelo Ministro da Saúde, o seguinte:
+
+1.º É aprovado o programa de formação do internato complementar da especialidade da área profissional médica de ginecologia/obstetrícia, anexo a esta portaria e que dela é parte integrante.
+
+2.º A aplicação e desenvolvimento do programa compete aos órgãos e agentes responsáveis pela formação nos internatos, devendo assegurar a maior uniformidade a nível nacional.
+
+**O Ministro da Saúde, Luís Filipe da Conceição Pereira, em 30 de Dezembro de 2004.**
+
+Programa do internato complementar de ginecologia/obstetrícia
+
+1 - Duração do internato - 72 meses.
+
+2 - Áreas de formação, duração, local e sequência dos estágios:
+
+a) 1.º ao 4.º anos - 24 meses ininterruptos em obstetrícia e 24 meses ininterruptos em ginecologia em serviços de acolhimento e formação de base. O início do internato deverá dar preferência à área de obstetrícia;
+
+b) 5.º ano - seis meses em obstetrícia/ginecologia num serviço de formação suplementar e seis meses de estágios opcionais (mínimo de três meses);
+
+c) 6.º ano - 12 meses em serviços de acolhimento e formação de base, repartidos por seis meses na área de obstetrícia e seis meses na área de ginecologia.
+
+Estágios obrigatórios: os internos terão de frequentar estágios obrigatórios, cada um com três meses de duração, nas valências de medicina materno-fetal, ginecologia oncológica, medicina da reprodução e ecografia obstétrico-ginecológica (durante os primeiros quatro anos).
+
+Os estágios opcionais poderão versar os seguintes assuntos, nomeadamente:
+
+a) Cirurgia geral;
+
+b) Medicina materno-fetal;
+
+c) Medicina da reprodução;
+
+d) Ginecologia oncológica;
+
+e) Uro-ginecologia.
+
+Serviço de urgência: durante toda a duração do internato, o serviço de urgência será sempre efectuado simultaneamente em obstetrícia e ginecologia, isto é, a frequência do bloco de partos é obrigatória durante todo o internato.
+
+3 - Objectivos:
+
+3.1 - Objectivos de desempenho e conhecimento:
+
+3.1.1 - Obstetrícia:
+
+3.1.1.1 - Gravidez normal: conhecimentos detalhados de:
+
+a) Fisiologia materna e fetal, incluindo a função placentária e interacções materno-fetais;
+
+b) Cuidados antenatais, intraparto e pós-natais;
+
+c) Métodos e técnicas de avaliação fetal anteparto. Conhecimentos gerais sobre analgesia e anestesia obstétrica;
+
+3.1.1.2 - Patologia da gravidez: conhecimento detalhado da fisiopatologia, da clínica e da terapêutica de:
+
+a) Anomalias na gravidez, do parto e do puerpério;
+
+b) Patologia materna intrínseca à gestação;
+
+c) Patologia fetal;
+
+d) Interacções gravidez-patologia médico-cirúrgica preexistente à gestação;
+
+e) Gravidez multifetal;
+
+3.1.1.3 - Tocologia: conhecimentos e aptidões detalhadas em:
+
+a) Tocologia clínica;
+
+b) Diagnóstico e tratamento das anomalias do trabalho de parto;
+
+c) Técnicas e manobras tocológicas;
+
+d) Métodos e técnicas de avaliação fetal intraparto, com particular incidência na cardiotocografia. Conhecimento básico das técnicas de ressuscitação neonatal;
+
+3.1.1.4 - Epidemiologia materna e perinatal: conhecimento geral das definições e conceitos relevantes, assim como dos métodos e técnicas de avaliação epidemiológica;
+
+3.1.1.5 - Genética e diagnóstico pré-natal: conhecimentos detalhados dos métodos de rastreio e diagnóstico das anomalias fetais. Conhecimentos gerais nas áreas do aconselhamento genético e na abordagem do casal quando em presença de anomalias fetais. Conhecimentos gerais em teratologia;
+
+3.1.1.6 - Ecografia: conhecimentos detalhados da fisiopatologia fetal, placentária e do líquido amniótico. Conhecimentos gerais de:
+
+a) Ecomorfologia do feto e anexos;
+
+b) Técnicas de diagnóstico com utilização de ultra-sons, incluindo a fluxometria;
+
+c) Técnicas de diagnóstico e terapêutica invasivas. Prática da ecografia obstétrico-ginecológica básica;
+
+3.1.2 - Ginecologia:
+
+3.1.2.1 - Ginecologia geral: conhecimentos detalhados de:
+
+a) Anatomia, embriologia e fisiologia do aparelho genital feminino e mama;
+
+b) Cuidados primários e preventivos a prestar à mulher;
+
+c) Doenças ginecológicas somáticas e psicossomáticas, sua abordagem e tratamento;
+
+d) Técnicas de diagnóstico, assim como das cirúrgicas básicas, incluindo cirurgia mamária e cuidados pré e pós-operatórios;
+
+e) Planeamento familiar: conhecimentos detalhados dos métodos de anticoncepção e esterilização, das suas indicações e contra-indicações e das técnicas de aplicação;
+
+3.1.2.2 - Endocrinologia ginecológica: conhecimentos detalhados de:
+
+a) Fisiologia e fisiopatologia do climatério e menopausa, incluindo o aconselhamento, prevenção dos riscos, diagnóstico e tratamento;
+
+b) Desenvolvimento sexual normal e anormal e dos problemas específicos que afectam a infância e a adolescência;
+
+c) Patologia do ciclo menstrual;
+
+d) Patologia endócrina relacionada com a ginecologia;
+
+3.1.2.3 - Infertilidade: conhecimentos detalhados das causas e abordagem da infertilidade feminina e masculina. Conhecimento básico das técnicas envolvidas na reprodução assistida;
+
+3.1.2.4 - Ginecologia oncológica: conhecimentos detalhados da epidemiologia, etiologia, prevenção, técnicas de diagnóstico, estadiamento e tratamento dos tumores malignos ginecológicos e da mama, incluindo os cuidados terminais;
+
+3.1.2.5 - Uro-ginecologia: conhecimento detalhado das causas e abordagem da incontinência urinária e alterações do pavimento pélvico;
+
+3.1.3 - Quantificação de actos técnicos: seleccionaram-se alguns dos actos técnicos mais importantes ou frequentes para o desempenho profissional da especialidade, referindo-se os números mínimos que os internos devem executar, que, embora não sejam obrigatórios, são fortemente recomendados:
+
+Parto eutócico - 100;
+
+Parto pélvico - 5;
+
+Parto gemelar - 5;
+
+Parto instrumental - 50 (ver nota *);
+
+Cesariana - 50;
+
+Ecografia obstétrica - 100;
+
+Ecografia ginecológica - 50;
+
+Colposcopia - 50;
+
+Histeroscopia - 25;
+
+Laparoscopia - 40;
+
+Histerectomia abdominal - 25;
+
+Histerectomia vaginal - 15;
+
+Operações sobre a mama - 10;
+
+3.1.4 - Investigação e ensino: conhecimento da metodologia de investigação científica, com ênfase especial na redacção, apresentação e interpretação de trabalhos científicos.
+
+Publicação de, pelo menos, dois artigos como primeiro autor, um dos quais, de preferência, numa revista indexada. Apresentação, pelo menos, de três comunicações ou posters como primeiro autor, um(a) dos(as) quais, de preferência, num congresso internacional.
+
+Colaborar em projectos de investigação científica, no ensino médico pré e pós-graduado e no ensino de outros profissionais;
+
+3.1.5 - Garantia de qualidade: o interno deverá ser envolvido em programas de melhoria de qualidade dos cuidados prestados, com o objectivo de compreender a sua metodologia e contribuir para a obtenção do mais elevado nível de cuidados médicos e de melhoria de saúde na comunidade;
+
+3.2 - Atitudes: no final da sua formação o interno deverá:
+
+a) Entender as idiossincrasias pessoais e as expectativas, das mulheres e seus companheiros, em relação à menstruação, sexualidade, fertilidade, gravidez, parto e maternidade/paternidade;
+
+b) Identificar e aperceber-se das influências culturais e religiosas, que muitas vezes influenciam a postura dos doentes perante a aceitação da gravidez, da doença e das terapêuticas propostas;
+
+c) O interno deverá alcançar, no final da sua formação, uma postura ética e deontologicamente correcta e adequada ao seu perfil profissional;
+
+d) Compreender as necessidades dos grupos socialmente desfavorecidos, das pessoas com défice motor ou mental e daquelas que foram vítima de abuso sexual.
+
+O seu desenvolvimento profissional envolverá, de uma forma muito clara, uma melhoria contínua das aptidões de decisão clínica, da capacidade de comunicação com as doentes e famílias, assim como um sentido de responsabilidade nos cuidados a prestar às doentes e no ensino e cooperação com colegas e outros profissionais.
+
+4 - Avaliação de conhecimentos: a avaliação de conhecimentos, realizada de 12 em 12 meses, consiste na discussão do relatório de actividades do interno e num interrogatório sobre casos clínicos e ou temas teóricos.
+
+5 - Avaliação do desempenho: de acordo com o previsto no artigo 65.º do Regulamento aprovado pela [Portaria n.º 695/95](https://diariodarepublica.pt/dr/detalhe/portaria/695-1995-476721), de 30 de Junho, é atribuída a seguinte ponderação:
+
+a) Capacidade de execução técnica - 2,5;
+
+b) Interesse pela valorização profissional - 2,5;
+
+c) Responsabilidade profissional - 2,5;
+
+d) Relações humanas no trabalho - 2,5.
+
+6 - Avaliação final: de acordo com o previsto no artigo 65.º do Regulamento aprovado pela [Portaria n.º 695/95](https://diariodarepublica.pt/dr/detalhe/portaria/695-1995-476721), de 30 de Junho, a prova prática deve ser realizada obedecendo ao seguinte:
+
+6.1 - A prova prática é constituída pela apreciação e interrogatório sobre problemas práticos bem definidos e característicos da especialidade;
+
+6.2 - Os problemas a avaliar deverão ser constituídos por:
+
+a) Avaliação e discussão de casos clínicos apresentados pelo júri (sem a presença da doente);
+
+b) Apreciação de métodos semiológicos e complementares de diagnóstico e terapêutica;
+
+c) O número de problemas deverá ser igual a seis;
+
+d) Cada conjunto de seis problemas será sorteado entre os candidatos;
+
+e) O candidato não poderá ser interrogado por mais de dois membros do júri em cada problema, devendo todos os elementos do júri participar no interrogatório;
+
+f) A duração total da prova não poderá ser inferior a duas nem exceder três horas, cabendo metade deste tempo ao júri e a outra metade ao candidato.
+
+7 - Disposições finais: este programa aplica-se aos internos que iniciarem o 1.º ano do internato em Janeiro de 2005, podendo facultativamente abranger os internos já em formação desde que o solicitem na direcção do internato médico até 90 dias após a publicação desta portaria.
+
+(nota *) A direcção do colégio considera que todos os internos devem ter prática suficiente de ambos os instrumentos mais utilizados (fórceps ou ventosa). Deste modo, os curricula deverão incluir pelo menos 10 intervenções com ventosa obstétrica, caso seja o fórceps a técnica mais utilizada no serviço, ou vice-versa.

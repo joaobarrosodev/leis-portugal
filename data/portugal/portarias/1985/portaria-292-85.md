@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:151530:por
+title: Portaria n.º 292/85
+short_title: null
+summary: Autoriza a microfilmagem da documentação da Direcção-Geral da Inspecção Económica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 292/85
+official_date: null
+publication_date: '1985-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/1985, Série I de 1985-05-20
+  number: '115'
+  series: I
+  supplement: null
+  pages: 1356 - 1357
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11500/13561357.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '151530'
+  dre_path: /dr/detalhe/portaria/292-1985-151530
+  internal: pt:dre:151530:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1985-151530
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1985-151530
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-05-20T00:00:00Z'
+integrity:
+  source_sha256: 5359f517244a4a307302a06e3b153782ee535cc202632bf011c2b642a193b493
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-292-151530.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 292/85
+
+de 20 de Maio
+
+Considerando as vantagens funcionais que representa o uso da microfilmagem para os diferentes serviços centrais e regionais da Direcção-Geral da Inspecção Económica;
+
+Considerando as importantes vantagens funcionais e económicas que advirão da possibilidade de inutilização de livros, papéis e algumas espécies de processos e inquéritos findos, desde há muitos anos arquivados e já sem interesse judicial, administrativo ou técnico, sem prévia microfilmagem, que, por dispendiosa, não apresentaria qualquer razão de utilidade;
+
+Considerando, por último, a necessidade de assegurar a conservação de documentos ou processos de interesse histórico, cultural ou outro atendível, bem como regulamentar a microfilmagem, conservação e destruição da documentação em arquivo naquela Direcção-Geral:
+
+Manda o Governo da República Portuguesa, ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, pelo Ministro do Comércio e Turismo, o seguinte:
+
+1.º - 1 - A documentação constante do mapa anexo ao presente diploma poderá ser inutilizada, imediatamente, após microfilmagem.
+
+2 - Quando se não use da faculdade prevista no n.º 1, o prazo de conservação em arquivo daquela documentação é de 5 anos.
+
+2.º Nas operações de microfilmagem observar-se-ão as seguintes formalidades:
+
+a) A microfilmagem será, em princípio, efectuada pela sucessão de fotogramas preenchendo várias microfichas;
+
+b) Cada microficha conterá, no seu início, uma declaração de que os fotogramas nela registados serão reproduções exactas dos originais, devendo esta declaração ser assinada pelo responsável do sector onde se processa a microfilmagem;
+
+c) De cada microficha haverá um original, arquivado em absolutas condições de segurança e salubridade, e um ou mais duplicados, arquivados no local dos serviços a que digam respeito, para uso exclusivo dos mesmos.
+
+3.º O responsável do sector onde se processam as operações de microfilmagem garantirá a regularidade das mesmas, bem como a segurança e inutilização dos documentos, de modo a impedir a sua leitura ou inutilização.
+
+4.º Cumprido o disposto nos números anteriores, proceder-se-á à inutilização dos originais, através de máquinas de destruição de papel e incineração, esta última se o aconselhar a natureza da documentação a inutilizar, sem prejuízo, porém, do estabelecido no n.º 2 do artigo 2.º do [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, lavrando-se em livro próprio auto de inutilização de documentos.
+
+5.º As fotocópias obtidas a partir da microficha têm a força probatória dos originais, desde que sejam autenticadas com a assinatura do responsável pelo sector onde se processa a microfilmagem e pela aposição do selo branco da Direcção-Geral de Inspecção Económica (DGIE).
+
+6.º Os prazos de conservação dos processos e inquéritos findos, adiante enumerados, são os seguintes:
+
+a) Para os inquéritos preliminares, 2 anos, contados desde a data do despacho que determinou o respectivo arquivo;
+
+b) Para os processos de contravenção e sumários crimes, 5 anos, contados, conforme os casos, desde o cumprimento da sentença condenatória, da sentença absolutória ou da decisão que determinou o seu arquivo, mandou aguardar a produção de melhor prova ou aplicou a amnistia.
+
+7.º - 1 - Compete aos chefes de secção da Direcção de Serviços de Contencioso e da Repartição Administrativa proceder à selecção e à relação dos documentos, processos de inquérito susceptíveis de inutilização por decurso dos prazos de conservação fixados, as quais devem ser homologadas pelo director-geral e pelo director dos Serviços de Contencioso.
+
+2 - A inutilização dos documentos, processos e inquéritos enumerados no n.º 1 do presente número não se pode efectuar antes de terem sido objecto de inspecção.
+
+3 - Previamente à inutilização, deve comprovar-se que foram cumpridas todas as formalidades processuais, ordenando-se o seu cumprimento quando não tenham sido observadas.
+
+4 - A inutilização dos documentos, processos e inquéritos enumerados no n.º 1 do presente número é feita nos termos do disposto no n.º 4.º deste diploma.
+
+8.º - 1 - O director-geral e o director dos Serviços de Contencioso podem opor-se à inutilização de documentos, processos e inquéritos cuja conservação reputem essencial em virtude do seu interesse histórico, cultural ou de outro motivo atendível.
+
+2 - O director-geral deve ordenar a entrega de documentos ou bens que não tenham sido declarados perdidos a favor do Estado e possam interessar a particulares ou a autoridades e entidades públicas que com legitimidade o tenham requerido.
+
+Ministério do Comércio e Turismo.
+
+**Assinada em 2 de Maio de 1985.**
+
+**O Ministro do Comércio e Turismo, Joaquim Ferreira do Amaral.**
+
+## ANEXO
+
+Documentação a que se referem os n.os 1.º e 6.º:
+
+Duplicados de guias.
+
+Documentos e processos de abono de família.
+
+Guias do correio.
+
+Guias de receita do Estado.
+
+Livros de registo diário de entradas dos processos.
+
+Livros ou folhas de registo de correspondência recebida, expedida e confidencial.
+
+Livros de registo de processos disciplinares, de averiguação, de inquéritos e de decisões disciplinares.
+
+Livros ou folhas de registo de licenças concedidas e faltas.
+
+Livros de folhas de registo de informações, pareceres e propostas.
+
+Livros de entrega protocolar de correspondência.
+
+Livros ou folhas de registo de objectos respeitantes a processos por delitos antieconómicos e contra a saúde pública.
+
+Livros ou folhas de registo de requerimentos, exposições e pretensões.
+
+Livros ou folhas de registo de correspondência relativa a funcionários.
+
+Ofícios, notas, memorandos e outros papéis sobre diferentes assuntos de natureza administrativa.
+
+Orçamento, documentação e processos de prestação de contas.
+
+Outros livros e documentos e papéis que não dêem origem a actuação judicial ou administrativa nem contenham qualquer decisão de carácter permanente e cuja conservação seja absolutamente inútil, designadamente por desactualizada.
+
+Livros de registo de cartas e mandados expedidos e recebidos.
+
+Livros de protocolo para distribuição de processos e demais papéis.
+
+Livros de escala de distribuições de pessoal auxiliar.
+
+Livros de protocolo de entradas e saídas de processos.
+
+Pedidos de cartões de identificação e livre trânsito e credenciais.
+
+Processos de natureza administrativa.
+
+Processos de inspecção aos serviços de contabilidade e de tesouraria e a outros serviços.
+
+Registos de documentação de ordens de execução permanente.

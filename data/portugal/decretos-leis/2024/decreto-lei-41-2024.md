@@ -1,0 +1,325 @@
+---
+schema_version: '1.0'
+id: pt:dre:869623319:por
+title: Decreto-Lei n.º 41/2024
+short_title: null
+summary: Estabelece um regime especial de admissão de pessoal médico, na categoria de assistente da carreira médica das entidades
+  públicas empresariais integradas no Serviço Nacional de Saúde e da carreira especial médica.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Saúde
+official_number: 41/2024
+official_date: null
+publication_date: '2024-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2024, Série I de 2024-06-21
+  number: '119'
+  series: I
+  supplement: null
+  pages: 2 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11900/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-24'
+version_history:
+  file: decreto-lei-41-2024.versoes.json
+  count: 2
+  source_lastmod: '2024-12-19'
+  versions:
+  - date: '2024-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-12-24'
+    amending: pt:dre:900706886:por
+    amending_title: Decreto-Lei n.º 109/2024
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Revoga Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/41/2024/p/cons/20241219/pt/html
+  oj: null
+  dre: '869623319'
+  dre_path: /dr/detalhe/decreto-lei/41-2024-869623319
+  internal: pt:dre:869623319:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2024-869623319
+  metadata_url: https://data.dre.pt/eli/dec-lei/41/2024/p/cons/20241219/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-900792784
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-900792784
+  retrieved_at: '2026-10-22T13:20:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-12-19T00:00:00Z'
+integrity:
+  source_sha256: 286edc55a4c636d3ccd2cfc4df8bb4f3323a6e2cbc26c63b370ef8d3569d2fc2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:20:37Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-41-2024.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Hospital das Forças Armadas
+- Carreira Médica
+- Concurso
+- Serviço Nacional de Saúde
+- Instituto Nacional de Medicina Legal e Ciências Forenses
+- Lei Geral do Trabalho em Funções Públicas
+- Direcção Geral de Reinserção e Serviços Prisionais
+- Administração Central do Sistema de Saúde
+- Página na Internet
+- Quadro de Pessoal
+- Recursos Humanos
+relationships:
+- type: amended_by
+  target: pt:dre:900706886:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2024-900706886
+  date: '2024-12-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/102/2023/11/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/102/2023/11/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/176/2009/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/176/2009/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/46/2020/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/46/2020/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/50-a/2022/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/50-a/2022/07/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55/2018/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55/2018/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:20:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 41/2024
+
+Decreto-Lei n.º 41/2024
+
+de 21 de junho
+
+Em cumprimento do objetivo previsto no Programa do XXIV Governo Constitucional, no sentido de garantir que os tempos máximos de resposta para consultas de especialidade no Serviço Nacional de Saúde (SNS) são cumpridos, importa adotar todas as medidas ao alcance do Governo para dotar o SNS dos recursos humanos necessários, nomeadamente através da contratação dos médicos que concluam a sua formação, no âmbito do internato médico, nas várias especialidades.
+
+Nos termos da Lei n.º 55/2018, de 20 de agosto, o recrutamento e seleção para a ocupação de postos de trabalho do pessoal médico é realizado por procedimento concursal, aberto no prazo de 30 dias após a homologação e afixação da lista de classificação final do internato médico, independentemente da época de avaliação a que se refere, dirigido a todos os médicos não vinculados definitivamente à Administração Pública, designadamente aos médicos que concluíram com aproveitamento, na correspondente época, a formação especializada.
+
+Em cumprimento dos princípios do interesse público e da boa administração, salvaguardando-se as garantias constitucionalmente previstas, especialmente o princípio da igualdade de oportunidades, revela-se necessário que a tramitação do procedimento concursal seja ágil, por forma a garantir que, por um lado, o mesmo possa colmatar as necessidades de pessoal médico com a celeridade adequada e, por outro lado, promova a estabilização do vínculo de emprego com os médicos recém-especialistas. Importa ainda ter presente que, o atual Estatuto do SNS, aprovado pelo Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual, reforça a autonomia dos órgãos máximos de gestão dos estabelecimentos e serviços do SNS, razão pela qual estabelece um regime excecional de contratação, enquanto instrumento necessário à execução de uma gestão mais flexível num setor fortemente dependente de uma força de trabalho diferenciada que se pretende organizada em carreiras.
+
+De notar também que, foi recentemente aprovado o Decreto-Lei n.º 102/2023, de 7 de novembro, que procedeu à reestruturação do SNS, generalizando o modelo de organização e funcionamento em unidades locais de saúde, tendo procedido à reestruturação dos hospitais e centros hospitalares existentes com a fusão dos Agrupamentos de Centros de Saúde. Neste novo ordenamento, o estatuto jurídico dos trabalhadores é o regime do contrato de trabalho, nos termos do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, complementado com as regras constante dos diplomas que definem o regime legal da carreira, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação coletiva de trabalho e regulamentos internos.
+
+Por último, importa ainda mencionar que, embora estivesse vigente o regime especial previsto no Decreto-Lei n.º 46/2020, de 24 de julho, a faculdade conferida ao órgão máximo de gestão por força do previsto no artigo 2.º do Decreto-Lei n.º 50-A/2022, de 25 julho, para celebrar contratos de trabalho sem termo com médicos especialistas, veio demonstrar um conjunto de mais valias, nomeadamente no que respeita à celeridade na colocação destes profissionais no SNS, bem como ao efetivo aproveitamento de competências adquiridas no contexto da formação médica especializada.
+
+Este diploma revela-se essencial e urgente para o normal funcionamento do SNS, permitindo dotar os estabelecimentos de saúde dos médicos especialistas necessários, em especial quando se aproxima o período de férias de verão dos profissionais de saúde.
+
+Assim, reconhecendo que o desenvolvimento dos procedimentos concursais a nível institucional, se apresenta como mais apto a salvaguardar as especificidades de cada estabelecimento ou serviço de saúde e, desse modo, com melhores condições para fixar os médicos recém-especialistas da respetiva época final de avaliação, comparativamente com o modelo de concurso, quer nacional, quer regional, entende-se necessário proceder a alterações ao regime atualmente em vigor, definindo, para o efeito, um regime especial de admissão de pessoal médico, na categoria de assistente da carreira especial médica e da carreira médica.
+
+Porém, este regime especial apenas se aplica aos médicos especialistas que, tendo realizado e concluído o internato médico, não sejam detentores de uma relação jurídica por tempo indeterminado, previamente constituída, com qualquer serviço, entidade ou organismo do Estado, incluindo do respetivo setor empresarial.
+
+Adicionalmente, estabelece-se que os métodos e critérios de seleção são fixados pelo correspondente júri e devidamente publicitados, devendo ser objetivos, adequados às características dos postos de trabalho a preencher e aptos a recrutar o melhor candidato.
+
+Por último, prevê-se a monitorização das contratações realizadas ao abrigo deste regime.
+
+Foram ouvidas as estruturas representativas dos trabalhadores médicos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece um regime especial para admissão de pessoal médico, na categoria de assistente:
+
+a) Da carreira médica das entidades públicas empresariais integradas no Serviço Nacional de Saúde (SNS);
+
+b) Da carreira especial médica.
+
+###### Artigo 2.º — Âmbito subjetivo
+
+O recrutamento ao abrigo do regime previsto no presente decreto-lei é feito por procedimento concursal, destinado ao preenchimento de postos de trabalho da carreira médica, em regime de contrato de trabalho, ou da carreira especial médica, mediante contrato de trabalho em funções públicas, restrito aos médicos especialistas que, tendo realizado e concluído o internato médico, não sejam detentores de uma relação jurídica por tempo indeterminado, previamente constituída, com qualquer serviço, entidade ou organismo do Estado, incluindo do respetivo setor empresarial.
+
+###### Artigo 3.º — Âmbito objetivo
+
+1 - O presente decreto-lei aplica-se a todos os serviços e entidades públicas empresariais do SNS, cujos mapas de pessoal prevejam postos de trabalho, no âmbito da carreira médica.
+
+2 - O presente decreto-lei aplica-se ainda aos órgãos ou serviços abrangidos pela Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, designadamente sob tutela do membro do Governo responsável pela área da saúde, bem como ao Hospital das Forças Armadas (HFAR), ao Instituto Nacional de Medicina Legal e Ciências Forenses, I. P. (INMLCF, I. P.), e à Direção-Geral de Reinserção e Serviços Prisionais (DGRSP), cujos mapas de pessoal prevejam postos de trabalho, no âmbito da carreira especial médica.
+
+###### Artigo 4.º — Fixação e identificação de postos de trabalho a preencher
+
+1 - Compete ao membro do Governo responsável pela área da saúde, com faculdade de delegação no Diretor Executivo do SNS, fixar, por despacho, o número máximo de postos de trabalho a preencher, no âmbito de cada uma das duas épocas de avaliação final do internato médico, bem como identificar, por área de exercício profissional e, no caso da área hospitalar, por especialidade médica, o número de postos de trabalho a preencher pelos respetivos estabelecimentos e serviços de saúde do SNS.
+
+2 - O despacho referido no número anterior é publicado duas vezes por ano, no primeiro e terceiro trimestre, respetivamente, para a época normal e especial, de avaliação final do internato médico.
+
+3 - Relativamente à admissão de médicos para o mapa de pessoal civil do HFAR, o despacho referido nos números anteriores é da competência do membro Governo responsável pela área da defesa nacional.
+
+4 - Relativamente à admissão de médicos para o mapa de pessoal do INMLCF, I. P., e da DGRSP, o despacho referido nos n.<sup>os </sup>1 e 2 é da competência do membro Governo responsável pela área da justiça.
+
+###### Artigo 5.º — Procedimento concursal
+
+1 - O recrutamento nos termos previstos no presente decreto-lei é precedido do desenvolvimento de procedimento concursal, que reveste caráter de urgência, e observa os termos da Portaria n.º 207/2011, de 24 de maio, alterada pelas Portarias n.os 355/2013, de 10 de dezembro, 229-A/2015, de 3 de agosto, e 190/2017, de 9 de junho, com as especificidades constantes dos números seguintes.
+
+2 - No desenvolvimento do procedimento concursal devem ser assegurados os princípios da igualdade de oportunidades, da imparcialidade, da boa-fé e da não discriminação, bem como da publicidade.
+
+3 - Sem prejuízo do disposto no número seguinte para as áreas de medicina geral e familiar e de saúde pública, a abertura e desenvolvimento do procedimento concursal é da competência, consoantes os casos:
+
+a) Do órgão máximo de gestão do estabelecimento de saúde integrado no SNS;
+
+b) Do conselho diretivo;
+
+c) Do diretor-geral;
+
+d) Do Chefe do Estado-Maior-General das Forças Armadas.
+
+4 - Com exceção do Hospital das Forças Armadas, no que respeita às áreas de medicina geral e familiar e de saúde pública, a abertura e desenvolvimento do procedimento concursal é da competência do conselho diretivo da Administração Central do Sistema de Saúde, I. P.
+
+5 - A abertura do procedimento concursal ocorre no prazo máximo de 30 dias após a homologação e afixação da lista de classificação final do internato médico, para cada uma das duas épocas anuais de avaliação.
+
+6 - Os procedimentos concursais a desenvolver pelas entidades referidas na alínea a) do n.º 3 devem ser abertos por todas as entidades, na mesma data, nos termos a prever no despacho mencionado no n.º 1 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2024 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2024-900706886), em vigor a partir de 2024-12-24
+
+###### Artigo 6.º — Métodos de seleção
+
+1 - Os critérios de avaliação e métodos de seleção adotados devem ser objetivos, adequados às características dos postos de trabalho a preencher e aptos a recrutar o melhor candidato.
+
+2 - Os métodos de seleção, incluindo as condições específicas da sua realização e respetiva valoração são fixados pelo correspondente júri e constam do aviso de abertura do procedimento concursal, a publicar na página eletrónica da respetiva entidade, devendo ainda, no caso dos estabelecimentos de saúde integrados no SNS, ser publicada na página eletrónica da Administração Central do Sistema de Saúde, I. P.
+
+3 - Em situações de igualdade de valoração, têm preferência na ordenação final, os candidatos que tenham concluído o internato médico no estabelecimento de saúde, responsável pela abertura do procedimento concursal.
+
+4 - Sem prejuízo do disposto nos números anteriores, no caso dos procedimentos concursais para as áreas de medicina geral e familiar e de saúde pública, a seleção e ordenação dos candidatos é efetuada de acordo com a escala classificativa de 0 a 20 valores, arredondada à centésima, em resultado da média aritmética ponderada de 60 % e 40 %, da classificação obtida, respetivamente, no final do internato médico da respetiva área de formação específica e na avaliação curricular.
+
+5 - Nas situações referidas no número anterior, em caso de igualdade de classificação, e para efeitos de desempate, deve ser considerada por ordem decrescente:
+
+a) A nota de avaliação final da prova de discussão curricular obtida no âmbito do internato médico;
+
+b) O resultado de sorteio público, o qual será realizado nas instalações da Administração Central do Sistema de Saúde, I. P., sendo os candidatos notificados do referido sorteio, no prazo de 24 horas antes da sua realização.
+
+6 - Para efeitos do disposto no n.º 4, nas situações em que a nota não esteja expressa em termos quantitativos, deve ser considerada a nota mais baixa da classificação final no internato médico dos candidatos ao procedimento concursal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2024 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2024-900706886), em vigor a partir de 2024-12-24
+
+###### Artigo 7.º — Recrutamento
+
+1 - Apenas podem ser recrutados os candidatos que obtenham classificação final igual ou superior a 10 valores, sem arredondamentos.
+
+2 - Os candidatos aprovados são recrutados para os postos de trabalho a ocupar segundo a lista de ordenação final homologada.
+
+3 - No caso do recrutamento para as áreas de medicina geral e familiar e de saúde pública, na data em que a lista de ordenação final é notificada aos candidatos, é igualmente comunicado o prazo, não inferior a três nem superior a cinco dias úteis, para manifestação da opção quanto ao posto de trabalho pretendido.
+
+4 - A manifestação da opção a que se refere o número anterior deve ser exercida de acordo com o previsto no aviso de abertura do procedimento concursal que deve identificar os termos concretos para o efeito.
+
+5 - Não podem ser recrutados candidatos que, apesar de aprovados e ordenados na lista unitária de ordenação final, se encontrem nas seguintes situações:
+
+a) Apresentem documentos inadequados, falsos ou inválidos que não comprovem as condições necessárias para a constituição do vínculo de emprego;
+
+b) Apresentem os documentos obrigatoriamente exigidos fora do prazo que lhes seja fixado pelo empregador;
+
+c) Não compareçam à celebração do contrato de trabalho sem termo ou em funções públicas por tempo indeterminado, consoante o caso, no prazo legal, por motivos que lhes sejam imputáveis;
+
+d) Não preencham os requisitos de admissão à data da constituição do vínculo de emprego.
+
+6 - O contrato de trabalho em funções públicas por tempo indeterminado ou o contrato de trabalho sem termo, nos termos do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, consoante o caso, deve ser celebrado no prazo máximo de 10 dias úteis após a notificação da lista de ordenação final homologada ou, no caso das áreas de medicina geral e familiar e saúde pública, no prazo máximo de 10 dias úteis após a manifestação da opção, nos termos previstos nos n.os 3 e 4.
+
+7 - O posicionamento remuneratório dos médicos recrutados ao abrigo do presente decreto-lei efetua-se, em qualquer caso e independentemente da qualificação profissional detida, na primeira posição remuneratória da categoria de assistente da correspondente carreira, salvo o disposto no número seguinte.
+
+8 - Nas situações em que o candidato selecionado seja detentor do grau de consultor, atribuído nos termos e para os efeitos previstos no Decreto-Lei n.º 176/2009 e no Decreto-Lei n.º 177/2009, ambos de 4 de agosto, também ambos na sua redação atual, e cujo vínculo ao SNS ou qualquer serviço, entidade ou organismo do Estado, tenha cessado há, pelo menos, três meses antes da data da abertura do respetivo procedimento concursal, o respetivo posicionamento remuneratório efetua-se na primeira posição remuneratória da categoria de assistente graduado.
+
+9 - Nos casos em que, findo o procedimento concursal, e no que respeita às entidades integradas no SNS, tenham ficado postos de trabalho por ocupar, em virtude de não terem sido escolhidos por nenhum candidato, o membro do Governo responsável pela área da saúde pode autorizar a contratação de pessoal médico sem vínculo ao SNS, na base da carreira, mediante celebração de contratos de trabalho sem termo, e com comunicação posterior ao membro do Governo responsável pela área das finanças, dentro dos limites fixados no n.º 1 do artigo 4.º e desde que os encargos com o recrutamento estejam devidamente cabimentados no respetivo orçamento.
+
+10 - A autorização prevista no número anterior cessa na data em que for publicado o despacho referido no n.º 1 do artigo 4.º, para a época de avaliação do internato médico subsequente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2024 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2024-900706886), em vigor a partir de 2024-12-24
+
+###### Artigo 8.º — Monitorização
+
+As contratações efetuadas ao abrigo do regime previsto no presente decreto-lei são registadas na aplicação informática comummente designada RHV (Recursos Humanos e Vencimentos), até ao quinto dia útil do mês seguinte ao que respeita, com referência expressa ao enquadramento legal aplicável.
+
+###### Artigo 9.º — Disposição final
+
+O regime especial previsto no presente decreto-lei não prejudica a aplicação das normas de execução orçamental em vigor.
+
+###### Artigo 10.º — Norma transitória
+
+Excecionalmente, no ano de 2024, no que respeita à época de avaliação normal do internato médico:
+
+a) O despacho a que se refere o n.º 1 do artigo 4.º é publicado no mês de junho;
+
+b) O prazo previsto no n.º 4 do artigo 5.º é de 60 dias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109/2024 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2024-900706886), em vigor a partir de 2024-12-24
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 46/2020, de 24 de julho, na sua redação atual.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 14 de junho de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento - António Egrejas Leitão Amaro - Álvaro Castelo Branco - Maria Clara da Silva Maia de Figueiredo - Ana Paula Mecheiro de Almeida Martins Silvestre Correia.
+
+Promulgado em 19 de junho de 2024.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 20 de junho de 2024.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+117823308

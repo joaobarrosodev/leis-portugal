@@ -1,0 +1,888 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:272037:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-174770584",
+ "dre_path": "/dr/detalhe/lei/23-2004-272037",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-06-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174769725",
+    "174769726",
+    "174769727",
+    "174769728",
+    "174769729",
+    "174769730",
+    "174769731",
+    "174769732",
+    "174769733",
+    "174769734",
+    "174769735",
+    "174769736",
+    "174769737",
+    "174769738",
+    "174769739",
+    "174769740",
+    "174769741",
+    "174769742",
+    "174769743",
+    "174769744",
+    "174769745",
+    "174769746",
+    "174769747",
+    "174769748",
+    "174769749",
+    "174769750",
+    "174769751",
+    "174769752",
+    "174769753",
+    "174769754",
+    "174769755",
+    "174769756"
+   ]
+  },
+  {
+   "date": "2006-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:545779:por",
+     "title": "Decreto-Lei n.º 200/2006",
+     "published": "2006-10-25",
+     "dre_path": "/dr/detalhe/decreto-lei/200-2006-545779"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "174769725",
+    "174769726",
+    "174769727",
+    "174769728",
+    "174769729",
+    "174769730",
+    "174769731",
+    "174769732",
+    "174769733",
+    "174769734",
+    "174769735",
+    "174769736",
+    "174769737",
+    "174769738",
+    "174769739",
+    "174769740",
+    "174769741",
+    "174769742",
+    "214957267",
+    "174769744",
+    "174769745",
+    "174769746",
+    "174769747",
+    "174769748",
+    "174769749",
+    "174769750",
+    "174769751",
+    "174769752",
+    "174769753",
+    "174769754",
+    "174769755",
+    "174769756",
+    "174769757"
+   ]
+  },
+  {
+   "date": "2006-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:545575:por",
+     "title": "Lei n.º 53/2006",
+     "published": "2006-12-07",
+     "dre_path": "/dr/detalhe/lei/53-2006-545575"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º"
+   ],
+   "fragments": [
+    "174769725",
+    "174769726",
+    "174769727",
+    "174769728",
+    "174769729",
+    "174769730",
+    "174769731",
+    "174769732",
+    "174769733",
+    "174769734",
+    "174769735",
+    "174769736",
+    "174769737",
+    "174769738",
+    "174769739",
+    "174769740",
+    "215372712",
+    "215372713",
+    "214957267",
+    "174769744",
+    "174769745",
+    "174769746",
+    "174769747",
+    "215372714",
+    "215372715",
+    "174769750",
+    "174769751",
+    "174769752",
+    "174769753",
+    "174769754",
+    "174769755",
+    "174769756",
+    "174769757"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:453975:por",
+     "title": "Lei n.º 59/2008",
+     "published": "2008-09-11",
+     "dre_path": "/dr/detalhe/lei/59-2008-453975"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º"
+   ],
+   "fragments": [
+    "174769725",
+    "215372716",
+    "215372717",
+    "215372718",
+    "215372719",
+    "215372720",
+    "215372721",
+    "215372722",
+    "215372723",
+    "215372724",
+    "215372725",
+    "215372726",
+    "215372727",
+    "215372728",
+    "215372729",
+    "215372730",
+    "215372712",
+    "215372713",
+    "214957267",
+    "215372731",
+    "215372732",
+    "215372733",
+    "215372734",
+    "215372714",
+    "215372715",
+    "215372735",
+    "215372736",
+    "215372737",
+    "215372738",
+    "215372739",
+    "215372740",
+    "215372741",
+    "174769757"
+   ]
+  },
+  {
+   "date": "2014-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25676932:por",
+     "title": "Lei n.º 35/2014",
+     "published": "2014-06-20",
+     "dre_path": "/dr/detalhe/lei/35-2014-25676932"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "174769725",
+    "215372716",
+    "215372717",
+    "215372718",
+    "215372719",
+    "215372720",
+    "215372721",
+    "215372722",
+    "215372723",
+    "215372724",
+    "215372725",
+    "215372726",
+    "215372727",
+    "215372728",
+    "215372729",
+    "215372730",
+    "215372742",
+    "215372743",
+    "215372744",
+    "215372731",
+    "215372732",
+    "215372733",
+    "215372734",
+    "215372714",
+    "215372715",
+    "215372735",
+    "215372736",
+    "215372737",
+    "215372738",
+    "215372739",
+    "215372740",
+    "215372741",
+    "174769757"
+   ]
+  }
+ ],
+ "fragments": {
+  "174769725": {
+   "fragment_id": "174770585",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 23/2004\n\nde 22 de Junho\n\nAprova o regime jurídico do contrato individual de trabalho da Administração Pública\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "174769726": {
+   "fragment_id": "174770586",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente lei define o regime jurídico do contrato de trabalho nas pessoas colectivas públicas.\n\n2 - Podem celebrar contratos de trabalho o Estado e outras pessoas colectivas públicas nos termos da presente lei.\n\n3 - Sem prejuízo do disposto em legislação especial, o regime previsto na presente lei não se aplica às seguintes entidades:\n\na) Empresas públicas;\n\nb) Pessoas colectivas de utilidade pública administrativa;\n\nc) Associações públicas;\n\nd) Associações ou fundações criadas como pessoas colectivas de direito privado por pessoas colectivas de direito público abrangidas pela presente lei;\n\ne) Entidades administrativas independentes;\n\nf) Universidades, institutos politécnicos e escolas não integradas do ensino superior;\n\ng) O Banco de Portugal e os fundos que funcionam junto dele.\n\n4 - No âmbito da administração directa do Estado, não podem ser objecto de contrato de trabalho por tempo indeterminado actividades que impliquem o exercício directo de poderes de autoridade que definam situações jurídicas subjectivas de terceiros ou o exercício de poderes de soberania.\n\n5 - A presente lei aplica-se à administração regional autónoma e à administração local, podendo ser-lhe introduzidas adaptações em diploma próprio."
+  },
+  "174769727": {
+   "fragment_id": "174770587",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\n1 - Aos contratos de trabalho celebrados por pessoas colectivas públicas é aplicável o regime do Código do Trabalho e respectiva legislação especial, com as especificidades constantes da presente lei.\n\n2 - O contrato de trabalho com pessoas colectivas públicas não confere a qualidade de funcionário público ou agente administrativo, ainda que estas tenham um quadro de pessoal em regime de direito público."
+  },
+  "174769728": {
+   "fragment_id": "174770588",
+   "type": 11,
+   "heading": "Artigo 3.º — Empregadores públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Empregadores públicos\n\n1 - As pessoas colectivas públicas são equiparadas a empresas para efeitos de aplicação das regras do Código do Trabalho e respectiva legislação especial e desta lei, sendo consideradas como grandes empresas.\n\n2 - O regime da pluralidade de empregadores previsto no Código do Trabalho é aplicável quando se verifiquem relações de colaboração entre pessoas colectivas públicas ou a existência de estruturas organizativas comuns, designadamente serviços partilhados que impliquem a prestação de trabalho subordinado a mais de uma pessoa colectiva pública."
+  },
+  "174769729": {
+   "fragment_id": "174770589",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres especiais dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Deveres especiais dos trabalhadores\n\n1 - Sem prejuízo dos deveres gerais constantes do Código do Trabalho, de instrumento de regulamentação colectiva de trabalho ou decorrentes do contrato, os trabalhadores das pessoas colectivas públicas estão sujeitos, em especial, à prossecução do interesse público e devem agir com imparcialidade e isenção perante os cidadãos.\n\n2 - Os trabalhadores abrangidos pela presente lei estão sujeitos ao regime de incompatibilidades do pessoal com vínculo de funcionário público ou de agente administrativo.\n\n3 - Os trabalhadores vinculados por contrato de trabalho às pessoas colectivas públicas carecem de autorização para exercerem outra actividade, nos mesmos termos que o pessoal com vínculo de funcionário ou agente."
+  },
+  "174769730": {
+   "fragment_id": "174770590",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de selecção\n\n1 - A celebração de contrato de trabalho por tempo indeterminado no âmbito da presente lei deve ser precedida de um processo de selecção que obedece aos seguintes princípios:\n\na) Publicitação da oferta de trabalho;\n\nb) Garantia de igualdade de condições e oportunidades;\n\nc) Decisão de contratação fundamentada em critérios objectivos de selecção.\n\n2 - O processo prévio de selecção não está sujeito ao Código do Procedimento Administrativo, sem prejuízo da aplicação dos princípios gerais que regem a actividade administrativa.\n\n3 - A publicitação da oferta de trabalho deve ser feita em jornal de expansão regional e nacional, incluindo obrigatoriamente informação sobre o serviço a que se destina, a actividade para a qual o trabalhador é contratado, os requisitos exigidos e os métodos e critérios objectivos de selecção.\n\n4 - A aplicação dos métodos e critérios de selecção é efectuada por uma comissão, preferencialmente constituída por pessoas com formação específica na área do recrutamento e selecção.\n\n5 - A decisão deve ser fundamentada por escrito e comunicada aos candidatos.\n\n6 - As regras a que deve obedecer o processo de selecção constam obrigatoriamente dos estatutos próprios ou dos regulamentos internos das pessoas colectivas públicas previstos na presente lei."
+  },
+  "174769731": {
+   "fragment_id": "174770591",
+   "type": 11,
+   "heading": "Artigo 6.º — Pessoal de direcção e chefia em regime de contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pessoal de direcção e chefia em regime de contrato de trabalho\n\n1 - As pessoas colectivas públicas cujas estruturas tenham funções dirigentes em regime de contrato de trabalho apenas podem contratar pessoal para as referidas funções em regime de comissão de serviço prevista no Código do Trabalho.\n\n2 - Os trabalhadores que exerçam funções em regime de comissão de serviço nos termos do número anterior estão sujeitos ao mesmo regime de incompatibilidades, bem como aos deveres específicos do pessoal dirigente da Administração Pública."
+  },
+  "174769732": {
+   "fragment_id": "174770592",
+   "type": 11,
+   "heading": "Artigo 7.º — Limites à contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Limites à contratação\n\n1 - As pessoas colectivas públicas apenas podem celebrar contratos de trabalho por tempo indeterminado se existir um quadro de pessoal para este efeito e nos limites deste quadro.\n\n2 - No âmbito da administração directa do Estado, a competência para celebrar contratos de trabalho pertence ao dirigente máximo do serviço.\n\n3 - A celebração de contratos de trabalho por pessoas colectivas públicas deve ser comunicada ao Ministro das Finanças e ao membro do Governo que tiver a seu cargo a Administração Pública.\n\n4 - A celebração de contratos de trabalho em violação do disposto no n.º 1 implica a sua nulidade e gera responsabilidade civil, disciplinar e financeira dos titulares dos órgãos que celebraram os contratos de trabalho.\n\n5 - A celebração de contratos de trabalho que envolvam encargos com remunerações globais superiores às que resultam da aplicação de regulamentos internos ou dos instrumentos de regulamentação colectiva fica sujeita à autorização do Ministro das Finanças.\n\n6 - Para efeitos do número anterior, a determinação da remuneração global inclui quaisquer suplementos remuneratórios, incluindo a fixação de indemnizações ou valores pecuniários incertos."
+  },
+  "174769733": {
+   "fragment_id": "174770593",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma\n\n1 - Os contratos de trabalho celebrados por pessoas colectivas públicas estão sujeitos à forma escrita.\n\n2 - Do contrato de trabalho devem constar as seguintes indicações:\n\na) Nome ou denominação e domicílio ou sede dos contraentes;\n\nb) Tipo de contrato e respectivo prazo, quando aplicável;\n\nc) Actividade contratada e retribuição do trabalhador;\n\nd) Local e período normal de trabalho;\n\ne) Data de início da actividade;\n\nf) Indicação do processo de selecção adoptado;\n\ng) Identificação da entidade que autorizou a contratação.\n\n3 - A não redução a escrito ou a falta das indicações constantes das alíneas a), b) e c) do número anterior determinam a nulidade do contrato."
+  },
+  "174769734": {
+   "fragment_id": "174770594",
+   "type": 11,
+   "heading": "Artigo 9.º — Termo resolutivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Termo resolutivo\n\n1 - Nos contratos de trabalho celebrados por pessoas colectivas públicas só pode ser aposto termo resolutivo nas seguintes situações:\n\na) Substituição directa ou indirecta de funcionário, agente ou outro trabalhador ausente ou que, por qualquer razão, se encontre temporariamente impedido de prestar serviço;\n\nb) Substituição directa ou indirecta de funcionário, agente ou outro trabalhador em relação ao qual esteja pendente em juízo acção de apreciação da licitude do despedimento;\n\nc) Substituição directa ou indirecta de funcionário, agente ou outro trabalhador em situação de licença sem retribuição;\n\nd) Substituição de funcionário, agente ou outro trabalhador a tempo completo que passe a prestar trabalho a tempo parcial;\n\ne) Para assegurar necessidades públicas urgentes de funcionamento das pessoas colectivas públicas;\n\nf) Execução de tarefa ocasional ou serviço determinado precisamente definido e não duradouro;\n\ng) Para o exercício de funções em estruturas temporárias das pessoas colectivas públicas;\n\nh) Para fazer face ao aumento excepcional e temporário da actividade do serviço;\n\ni) Para o desenvolvimento de projectos não inseridos nas actividades normais dos serviços;\n\nj) Quando a formação dos trabalhadores no âmbito das pessoas colectivas públicas envolva a prestação de trabalho subordinado.\n\n2 - Os contratos previstos no número anterior só podem ser a termo incerto nas situações previstas nas alíneas a) a d) e f) a i) do número anterior.\n\n3 - No caso da alínea e) do número anterior, o contrato não pode ter uma duração superior a seis meses.\n\n4 - A celebração de contratos de trabalho a termo resolutivo obedece a um processo de selecção simplificado, precedido de publicação da oferta de trabalho pelos meios adequados e de decisão reduzida a escrito e fundamentada em critérios objectivos de selecção.\n\n5 - A celebração de contratos de trabalho a termo resolutivo nas situações previstas nas alínea e) a j) do n.º 1 do presente artigo depende da autorização do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n6 - Nos casos das alíneas a) a d) do n.º 1 do presente artigo, a celebração dos respectivos contratos deve ser comunicada à Direcção-Geral da Administração Pública."
+  },
+  "174769735": {
+   "fragment_id": "174770595",
+   "type": 11,
+   "heading": "Artigo 10.º — Regras especiais aplicáveis ao contrato de trabalho a termo resolutivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regras especiais aplicáveis ao contrato de trabalho a termo resolutivo\n\n1 - O contrato de trabalho a termo resolutivo certo celebrado por pessoas colectivas públicas não está sujeito a renovação automática.\n\n2 - O contrato de trabalho a termo resolutivo celebrado por pessoas colectivas públicas não se converte, em caso algum, em contrato por tempo indeterminado, caducando no termo do prazo máximo de duração previsto no Código do Trabalho.\n\n3 - A celebração de contratos de trabalho a termo resolutivo com violação do disposto na presente lei implica a sua nulidade e gera responsabilidade civil, disciplinar e financeira dos titulares dos órgãos que celebraram os contratos de trabalho."
+  },
+  "174769736": {
+   "fragment_id": "174770596",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regulamentos internos\n\n1 - As pessoas colectivas públicas podem emitir regulamentos internos nos termos previstos no Código do Trabalho, com as especificidades constantes dos números seguintes.\n\n2 - Os regulamentos internos aplicáveis ao pessoal em regime de contrato de trabalho na administração directa do Estado são aprovados pelo ministro da tutela, com faculdade de delegação nos dirigentes máximos dos serviços.\n\n3 - Os regulamentos internos das pessoas colectivas públicas que disponham em matéria salarial e de carreiras carecem de homologação dos Ministros das Finanças e da tutela, sob pena de ineficácia.\n\n4 - Os regulamentos internos devem ser publicados na 2.ª série do Diário da República e afixados nos locais de trabalho.\n\n5 - A eficácia dos regulamentos internos não depende de comunicação à Inspecção-Geral do Trabalho, produzindo os seus efeitos com a publicação a que se refere o número anterior."
+  },
+  "174769737": {
+   "fragment_id": "174770597",
+   "type": 11,
+   "heading": "Artigo 12.º — Tempo de trabalho nas pessoas colectivas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Tempo de trabalho nas pessoas colectivas públicas\n\nPor instrumento de regulamentação colectiva de trabalho, os limites dos períodos normais de trabalho fixados no Código do Trabalho podem ser alargados até aos limites previstos para as correspondentes carreiras do pessoal com vínculo de funcionário público ou agente administrativo."
+  },
+  "174769738": {
+   "fragment_id": "174770598",
+   "type": 11,
+   "heading": "Artigo 13.º — Níveis retributivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Níveis retributivos\n\n1 - Sem prejuízo do regime resultante de instrumentos de regulamentação colectiva, os níveis retributivos dos trabalhadores das pessoas colectivas públicas não devem ultrapassar os níveis remuneratórios do pessoal com vínculo de funcionário ou agente, quando existam as respectivas carreiras no âmbito da Administração Pública.\n\n2 - A violação do disposto no número anterior implica responsabilidade disciplinar e financeira dos titulares dos órgãos da pessoa colectiva pública que fixaram os níveis remuneratórios dos trabalhadores."
+  },
+  "174769739": {
+   "fragment_id": "174770599",
+   "type": 11,
+   "heading": "Artigo 14.º — Cedência ocasional de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cedência ocasional de trabalhadores\n\n1 - É lícita a cedência ocasional de trabalhadores das pessoas colectivas públicas para o exercício de funções temporárias noutra pessoa colectiva pública, com o acordo do trabalhador expresso por escrito.\n\n2 - No quadro da colaboração entre pessoas colectivas públicas, a cedência não exige o acordo do trabalhador se for fundamentada em necessidades prementes das entidades envolvidas ou em razões de economia, eficácia e eficiência na prossecução das respectivas atribuições.\n\n3 - A cedência prevista no número anterior não pode fazer diminuir os direitos do trabalhador e deve respeitar as regras do Código do Trabalho quanto à mobilidade funcional e geográfica e ao tempo de trabalho.\n\n4 - O acordo de cedência entre pessoas colectivas deve ser reduzido a escrito e prever expressamente a entidade responsável pelo pagamento da retribuição ao trabalhador.\n\n5 - Nas matérias não especificamente reguladas neste artigo é aplicável o regime do Código do Trabalho sobre a cedência ocasional."
+  },
+  "174769740": {
+   "fragment_id": "174770600",
+   "type": 11,
+   "heading": "Artigo 15.º — Redução do período normal de trabalho ou suspensão dos contratos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Redução do período normal de trabalho ou suspensão dos contratos de trabalho\n\n1 - As pessoas colectivas públicas podem reduzir os períodos normais de trabalho ou suspender os contratos de trabalho quando se verifique uma redução grave e anormal da sua actividade por razões estruturais ou tecnológicas, pela ocorrência de catástrofes ou por outras razões de natureza análoga, seguindo-se o regime previsto para a redução ou suspensão dos contratos de trabalho previsto no Código do Trabalho, com as especificidades constantes dos números seguintes.\n\n2 - A redução grave e anormal da actividade deve ser fundamentada e declarada pelo ministro da tutela.\n\n3 - Durante a redução ou suspensão, o trabalhador tem direito a receber uma compensação retributiva nos termos do Código do Trabalho, a suportar pela pessoa colectiva pública."
+  },
+  "174769741": {
+   "fragment_id": "174770601",
+   "type": 11,
+   "heading": "Artigo 16.º — Sucessão nas atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sucessão nas atribuições\n\n1 - Os contratos de trabalho celebrados por pessoas colectivas públicas transmitem-se aos sujeitos que venham a prosseguir as respectivas atribuições, haja ou não extinção da pessoa colectiva pública, nos termos previstos no Código do Trabalho para a transmissão de empresa ou de estabelecimento.\n\n2 - O disposto no número anterior aplica-se, nomeadamente, nos casos em que haja transferência da responsabilidade pela gestão do serviço público para entidades privadas sob qualquer forma.\n\n3 - No caso de transferência ou delegação de parte das atribuições da pessoa colectiva pública para outras entidades, apenas se transmitem os contratos de trabalho afectos às actividades respectivas.\n\n4 - Pode haver acordo entre a pessoa colectiva pública de origem e o trabalhador no sentido de este continuar ao serviço daquela."
+  },
+  "174769742": {
+   "fragment_id": "174770602",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção da pessoa colectiva pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção da pessoa colectiva pública\n\nA extinção da pessoa colectiva pública a que o trabalhador pertence determina a caducidade dos contratos de trabalho, salvo se se verificar a situação prevista no artigo anterior."
+  },
+  "174769743": {
+   "fragment_id": "174770603",
+   "type": 11,
+   "heading": "Artigo 18.º — Despedimento por redução de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despedimento por redução de actividade\n\n1 - Para além dos casos previstos no Código do Trabalho, as pessoas colectivas públicas podem promover o despedimento colectivo ou a extinção de postos de trabalho por razões de economia, eficácia e eficiência na prossecução das respectivas atribuições, nos termos do mesmo Código, com um dos seguintes fundamentos:\n\na) Cessação parcial da actividade da pessoa colectiva pública determinada nos termos da lei;\n\nb) Extinção, fusão ou reestruturação de serviços ou de uma unidade orgânica ou estrutura equivalente que determine a redução de efectivos.\n\n2 - Para efeitos da alínea b) do número anterior, considera-se:\n\na) Extinção de serviços a cessação da actividade de um serviço, com liquidação ou desafectação do património e desocupação do pessoal que nele desempenhe funções, acompanhada ou não da transferência da totalidade ou de parte das suas atribuições e competências;\n\nb) Fusão de serviços a transformação de dois ou mais serviços num outro distinto ou não, quer este absorva a totalidade ou apenas parte das atribuições e competências daqueles que lhe dão origem, podendo envolver serviços de diferentes departamentos governamentais;\n\nc) Reestruturação de serviços a reorganização de um serviço que tenha por objecto a alteração da sua estrutura orgânica ou do seu quadro de pessoal, acompanhada ou não de redefinição das suas atribuições e competências."
+  },
+  "174769744": {
+   "fragment_id": "174770604",
+   "type": 11,
+   "heading": "Artigo 19.º — Convenções colectivas de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Convenções colectivas de trabalho\n\n1 - Para efeitos de aplicação aos contratos de trabalho celebrados por pessoas colectivas públicas, as convenções colectivas podem ser dos seguintes níveis:\n\na) Contratos colectivos nacionais - convenções outorgadas por associações sindicais e pelo Estado, representado pelo Ministro das Finanças, e aplicáveis a todas as pessoas colectivas públicas;\n\nb) Contratos colectivos sectoriais - convenções outorgadas por associações sindicais e pelo ministro da tutela do sector de actividade e aplicáveis nesse sector de actividade;\n\nc) Acordos colectivos sectoriais - convenções outorgadas por associações sindicais e por uma pluralidade de pessoas colectivas tuteladas pelo mesmo ministro;\n\nd) Acordos de pessoa colectiva pública - convenções outorgadas por associações sindicais e uma pessoa colectiva pública.\n\n2 - Os diferentes tipos de convenções colectivas correspondem a níveis de convenções colectivas em função do âmbito subjectivo quanto aos empregadores públicos.\n\n3 - Para efeitos da alínea c) do n.º 1, as pessoas colectivas públicas podem designar um representante comum para a celebração das convenções colectivas sempre que não haja outorga da convenção pelo ministro da tutela.\n\n4 - A competência para celebrar convenções colectivas pode ser delegada.\n\n5 - São nulos quaisquer acordos que regulem matérias salariais e de carreiras que não respeitem o disposto na presente lei."
+  },
+  "174769745": {
+   "fragment_id": "174770605",
+   "type": 11,
+   "heading": "Artigo 20.º — Articulação entre convenções colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Articulação entre convenções colectivas\n\n1 - As convenções colectivas previstas no artigo anterior são articuladas, devendo a convenção colectiva mais abrangente indicar as matérias que podem ser reguladas pelas convenções colectivas de âmbito mais restrito, não havendo lugar à aplicação das regras de preferência previstas no Código do Trabalho.\n\n2 - As convenções colectivas de diferentes níveis devem respeitar as seguintes regras de articulação:\n\na) O disposto nos contratos colectivos nacionais prevalece sobre todas as restantes convenções colectivas;\n\nb) O disposto nos contratos colectivos sectoriais prevalece sobre os acordos colectivos sectoriais e os acordos de pessoa colectiva pública.\n\n3 - O regime dos números anteriores pode ser afastado por cláusula da convenção colectiva.\n\n4 - Devem ser outorgadas pelos Ministros das Finanças e da tutela, sob pena de ineficácia, as convenções colectivas que:\n\na) Afastem a forma articulada nos termos do n.º 3;\n\nb) Não respeitem as limitações ao conteúdo estabelecidas pela convenção colectiva de âmbito mais abrangente;\n\nc) Derroguem as regras de articulação definidas nos n.os 1 e 2;\n\nd) Afastem o conteúdo da convenção colectiva de âmbito mais abrangente.\n\n5 - Devem igualmente ser outorgadas pelos Ministros das Finanças e da tutela as convenções colectivas que, abrangendo trabalhadores não filiados nos sindicatos outorgantes das convenções colectivas mais abrangentes, tenham uma eficácia que afaste as regras do n.º 4."
+  },
+  "174769746": {
+   "fragment_id": "174770606",
+   "type": 11,
+   "heading": "Artigo 21.º — Processo de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processo de negociação\n\nNo processo de negociação das convenções colectivas de trabalho em que intervenham pessoas colectivas públicas devem obrigatoriamente estar presentes representantes do Ministério das Finanças e dos ministérios que tenham a tutela sobre a função pública e sobre as relações colectivas de trabalho, sob pena de ineficácia."
+  },
+  "174769747": {
+   "fragment_id": "174770607",
+   "type": 11,
+   "heading": "Artigo 22.º — Aplicação das convenções colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Aplicação das convenções colectivas\n\n1 - No caso de haver mais de uma convenção colectiva do mesmo âmbito sectorial ou profissional aplicável a uma pessoa colectiva pública, os trabalhadores não filiados nos sindicatos outorgantes podem escolher, por escrito, o instrumento que lhes é aplicável.\n\n2 - No caso previsto no número anterior, a convenção aplica-se aos trabalhadores até ao final do prazo que dela expressamente constar ou, sendo esta objecto de alteração, até à sua entrada em vigor.\n\n3 - No caso de a convenção colectiva não ter prazo de vigência, os trabalhadores são abrangidos durante o prazo mínimo de um ano.\n\n4 - A competência para a emissão de regulamentos de extensão para as pessoas colectivas públicas é do Ministro das Finanças e do ministro responsável pela área laboral."
+  },
+  "174769748": {
+   "fragment_id": "174770608",
+   "type": 11,
+   "heading": "Artigo 23.º — Cedência especial de funcionários e agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cedência especial de funcionários e agentes\n\n1 - Mediante acordo de cedência especial, os funcionários e agentes que tenham dado o seu consentimento expresso por escrito podem exercer funções noutras pessoas colectivas públicas em regime de contrato de trabalho, com suspensão do seu estatuto de funcionário ou agente nos termos do presente artigo.\n\n2 - A cedência especial sujeita o funcionário e agente às ordens e instruções da pessoa colectiva onde vai prestar funções, sendo remunerado por esta nos termos do acordo.\n\n3 - O exercício do poder disciplinar compete à pessoa colectiva pública cessionária, excepto quando esteja em causa a aplicação de penas disciplinares expulsivas.\n\n4 - O funcionário ou agente cedido tem direito:\n\na) À contagem, na categoria de origem, do tempo de serviço prestado em regime de contrato de trabalho;\n\nb) A optar pela manutenção do regime de protecção social da função pública, incidindo os descontos sobre o montante da remuneração que lhe competiria no cargo de origem;\n\nc) A ser opositor aos concursos de pessoal em regime de emprego público para os quais preencha os requisitos nos termos da respectiva lei reguladora.\n\n5 - No caso previsto na alínea b) do número anterior, o empregador público deve comparticipar no financiamento do regime de previdência gerido pela Caixa Geral de Aposentações em montante igual ao das quotas dos subscritores.\n\n6 - O contrato de cedência especial extingue-se no caso da alínea c) do n.º 4 pelo provimento na sequência de concurso, sem prejuízo de um novo acordo de cedência.\n\n7 - Os comportamentos do funcionário ou agente cedido têm relevância no âmbito da relação jurídica de emprego público, devendo o procedimento disciplinar que apure as referidas infracções disciplinares respeitar o Estatuto Disciplinar dos Funcionários e Agentes da Administração Pública."
+  },
+  "174769749": {
+   "fragment_id": "174770609",
+   "type": 11,
+   "heading": "Artigo 24.º — Extensão do âmbito da cedência especial de funcionários e agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Extensão do âmbito da cedência especial de funcionários e agentes\n\n1 - O regime previsto no artigo anterior é ainda aplicável à cedência de funcionários e agentes a pessoas colectivas privadas, quando existam razões de interesse público que justifiquem a cedência.\n\n2 - Com excepção do disposto nos n.os 2 e 3 do artigo anterior, e com necessárias adaptações, é igualmente aplicável o regime da cedência aos casos em que um funcionário ou agente de um quadro de pessoal de uma pessoa colectiva pública passa a exercer funções nessa mesma pessoa colectiva em regime de contrato de trabalho."
+  },
+  "174769750": {
+   "fragment_id": "174770610",
+   "type": 11,
+   "heading": "Artigo 25.º — Contrato de trabalho na administração directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contrato de trabalho na administração directa\n\n1 - Para efeitos do n.º 4 do artigo 1.º, as funções que no âmbito da administração directa do Estado podem ser objecto de contrato de trabalho são definidas em decreto-lei.\n\n2 - Sem prejuízo do disposto no número anterior, as actividades de apoio administrativo, auxiliar e de serviços gerais podem, desde já, ser objecto de contrato de trabalho na administração directa do Estado.\n\n3 - Para efeitos dos números anteriores, os quadros de pessoal dos serviços da administração directa do Estado relativos aos trabalhadores em regime de contrato de trabalho serão aprovados por portaria conjunta dos Ministros das Finanças e da tutela."
+  },
+  "174769751": {
+   "fragment_id": "174770611",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições finais e transitórias\n\n1 - Ficam sujeitos ao regime da presente lei os contratos de trabalho e os instrumentos de regulamentação colectiva de trabalho celebrados ou aprovados antes da sua entrada em vigor que abranjam pessoas colectivas públicas, salvo quanto às condições de validade e aos efeitos de factos ou situações totalmente passados anteriormente àquele momento.\n\n2 - O disposto no n.º 4 do artigo 1.º e no artigo anterior não prejudica a imediata aplicação da presente lei, designadamente quanto aos contratos de trabalho já em execução.\n\n3 - O regime previsto na presente lei aplica-se aos contratos de trabalho a celebrar ao abrigo da base XXXI da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, na redacção dada pela Lei n.º 27/2002, de 8 de Novembro, e do artigo 14.º do regime jurídico da gestão hospitalar, aprovado pela Lei n.º 27/2002, de 8 de Novembro."
+  },
+  "174769752": {
+   "fragment_id": "174770612",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma de prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma de prevalência\n\nAs normas da presente lei prevalecem sobre quaisquer normas especiais aplicáveis aos contratos de trabalho no âmbito das pessoas colectivas públicas, designadamente sobre as normas previstas nos respectivos estatutos."
+  },
+  "174769753": {
+   "fragment_id": "174770613",
+   "type": 11,
+   "heading": "Artigo 28.º — Alterações ao Decreto-Lei n.º 184/89, de 2 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Alterações ao Decreto-Lei n.º 184/89, de 2 de Junho\n\nO artigo 7.º do Decreto-Lei n.º 184/89, de 2 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\n1 - O contrato de pessoal é um acto bilateral, nos termos do qual se constitui uma relação de trabalho subordinado.\n\n2 - ...\n\na) ...\n\nb) Contrato de trabalho em qualquer das suas modalidades.»"
+  },
+  "174769754": {
+   "fragment_id": "174770614",
+   "type": 11,
+   "heading": "Artigo 29.º — Alterações ao Decreto-Lei n.º 427/89, de 7 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Alterações ao Decreto-Lei n.º 427/89, de 7 de Dezembro\n\n1 - O artigo 14.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 14.º\n\n1 - O contrato de pessoal pode revestir as modalidades de:\n\na) ...\n\nb) Contrato de trabalho em qualquer das suas modalidades.\n\n2 - ...\n\n3 - O contrato de trabalho não confere a qualidade de funcionário público ou agente administrativo e rege-se pelo Código do Trabalho, com as especialidades constantes de diploma especial sobre contrato de trabalho na Administração Pública.»"
+  },
+  "174769755": {
+   "fragment_id": "174770615",
+   "type": 11,
+   "heading": "Artigo 30.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Revogações\n\nSão revogadas as seguintes disposições:\n\na) Os artigos 9.º e 11.º-A do Decreto-Lei n.º 184/89, de 2 de Junho, este último aditado pelo artigo 2.º da Lei n.º 25/98, de 26 de Maio;\n\nb) Os artigos 18.º a 21.º do Decreto-Lei n.º 427/89, de 7 de Dezembro."
+  },
+  "174769756": {
+   "fragment_id": "174770616",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "214957267": {
+   "fragment_id": "174770603",
+   "type": 11,
+   "heading": "Artigo 18.º — Despedimento por redução de actividade",
+   "in_force_from": "2006-10-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+   ],
+   "markdown": "###### Artigo 18.º — Despedimento por redução de actividade\n\n1 - Para além dos casos previstos no Código do Trabalho, as pessoas colectivas públicas podem promover o despedimento colectivo ou a extinção de postos de trabalho por razões de economia, eficácia e eficiência na prossecução das respectivas atribuições, nos termos do mesmo Código, com um dos seguintes fundamentos:\n\na) Cessação parcial da actividade da pessoa colectiva pública determinada nos termos da lei;\n\nb) Extinção, fusão ou reestruturação de serviços ou de uma unidade orgânica ou estrutura equivalente que determine a redução de efectivos.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+  },
+  "174769757": {
+   "fragment_id": "174770617",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 12 de Maio de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 3 de Junho de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 7 de Junho de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "215372712": {
+   "fragment_id": "174770601",
+   "type": 11,
+   "heading": "Artigo 16.º — Sucessão nas atribuições",
+   "in_force_from": "2006-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+   ],
+   "markdown": "###### Artigo 16.º — Sucessão nas atribuições\n\n1 - Os contratos de trabalho celebrados por pessoas colectivas públicas transmitem-se aos sujeitos que venham a prosseguir as respectivas atribuições, nos termos previstos no Código do Trabalho para a transmissão de empresa ou de estabelecimento.\n\n2 - O disposto no número anterior aplica-se, nomeadamente, nos casos em que haja transferência da responsabilidade pela gestão do serviço público para entidades privadas sob qualquer forma.\n\n3 - No caso de transferência ou delegação de parte das atribuições da pessoa colectiva pública para outras entidades, apenas se transmitem os contratos de trabalho afectos às actividades respectivas.\n\n4 - Pode haver acordo entre a pessoa colectiva pública de origem e o trabalhador no sentido de este continuar ao serviço daquela.\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+  },
+  "215372713": {
+   "fragment_id": "174770602",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção da pessoa colectiva pública",
+   "in_force_from": "2006-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+   ],
+   "markdown": "###### Artigo 17.º — Extinção da pessoa colectiva pública\n\nA extinção da pessoa colectiva pública a que o trabalhador pertence determina a caducidade dos contratos de trabalho.\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+  },
+  "215372714": {
+   "fragment_id": "174770608",
+   "type": 11,
+   "heading": "Artigo 23.º — Cedência especial de funcionários e agentes",
+   "in_force_from": "2006-12-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 49.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+   ],
+   "markdown": "###### Artigo 23.º — Cedência especial de funcionários e agentes\n\n1 - Mediante acordo de cedência especial, os funcionários e agentes que tenham dado o seu consentimento expresso por escrito podem exercer funções noutras pessoas colectivas públicas em regime de contrato de trabalho, com suspensão do seu estatuto de funcionário ou agente nos termos do presente artigo.\n\n2 - A cedência especial sujeita o funcionário e agente às ordens e instruções da pessoa colectiva onde vai prestar funções, sendo remunerado por esta nos termos do acordo.\n\n3 - O exercício do poder disciplinar compete à pessoa colectiva pública cessionária, excepto quando esteja em causa a aplicação de penas disciplinares expulsivas.\n\n4 - O funcionário ou agente cedido tem direito:\n\na) À contagem, na categoria de origem, do tempo de serviço prestado em regime de contrato de trabalho;\n\nb) A optar pela manutenção do regime de protecção social da função pública, incidindo os descontos sobre o montante da remuneração que lhe competiria no cargo de origem;\n\nc) A ser opositor aos concursos de pessoal em regime de emprego público para os quais preencha os requisitos nos termos da respectiva lei reguladora.\n\n5 - No caso previsto na alínea b) do número anterior, o empregador público deve comparticipar no financiamento do regime de previdência gerido pela Caixa Geral de Aposentações em montante igual ao das quotas dos subscritores.\n\n6 - O contrato de cedência especial extingue-se no caso da alínea c) do n.º 4 pelo provimento na sequência de concurso, sem prejuízo de um novo acordo de cedência.\n\n7 - Os comportamentos do funcionário ou agente cedido têm relevância no âmbito da relação jurídica de emprego público, devendo o procedimento disciplinar que apure as referidas infracções disciplinares respeitar o Estatuto Disciplinar dos Funcionários e Agentes da Administração Pública.\n\n> Revogado pelo/a Artigo 49.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+  },
+  "215372715": {
+   "fragment_id": "174770609",
+   "type": 11,
+   "heading": "Artigo 24.º — Extensão do âmbito da cedência especial de funcionários e agentes",
+   "in_force_from": "2006-12-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 49.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+   ],
+   "markdown": "###### Artigo 24.º — Extensão do âmbito da cedência especial de funcionários e agentes\n\n1 - O regime previsto no artigo anterior é ainda aplicável à cedência de funcionários e agentes a pessoas colectivas privadas, quando existam razões de interesse público que justifiquem a cedência.\n\n2 - Com excepção do disposto nos n.os 2 e 3 do artigo anterior, e com necessárias adaptações, é igualmente aplicável o regime da cedência aos casos em que um funcionário ou agente de um quadro de pessoal de uma pessoa colectiva pública passa a exercer funções nessa mesma pessoa colectiva em regime de contrato de trabalho.\n\n> Revogado pelo/a Artigo 49.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+  },
+  "215372716": {
+   "fragment_id": "174770586",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente lei define o regime jurídico do contrato de trabalho nas pessoas colectivas públicas.\n\n2 - Podem celebrar contratos de trabalho o Estado e outras pessoas colectivas públicas nos termos da presente lei.\n\n3 - Sem prejuízo do disposto em legislação especial, o regime previsto na presente lei não se aplica às seguintes entidades:\n\na) Empresas públicas;\n\nb) Pessoas colectivas de utilidade pública administrativa;\n\nc) Associações públicas;\n\nd) Associações ou fundações criadas como pessoas colectivas de direito privado por pessoas colectivas de direito público abrangidas pela presente lei;\n\ne) Entidades administrativas independentes;\n\nf) Universidades, institutos politécnicos e escolas não integradas do ensino superior;\n\ng) O Banco de Portugal e os fundos que funcionam junto dele.\n\n4 - No âmbito da administração directa do Estado, não podem ser objecto de contrato de trabalho por tempo indeterminado actividades que impliquem o exercício directo de poderes de autoridade que definam situações jurídicas subjectivas de terceiros ou o exercício de poderes de soberania.\n\n5 - A presente lei aplica-se à administração regional autónoma e à administração local, podendo ser-lhe introduzidas adaptações em diploma próprio.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372717": {
+   "fragment_id": "174770587",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\n1 - Aos contratos de trabalho celebrados por pessoas colectivas públicas é aplicável o regime do Código do Trabalho e respectiva legislação especial, com as especificidades constantes da presente lei.\n\n2 - O contrato de trabalho com pessoas colectivas públicas não confere a qualidade de funcionário público ou agente administrativo, ainda que estas tenham um quadro de pessoal em regime de direito público.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372718": {
+   "fragment_id": "174770588",
+   "type": 11,
+   "heading": "Artigo 3.º — Empregadores públicos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Empregadores públicos\n\n1 - As pessoas colectivas públicas são equiparadas a empresas para efeitos de aplicação das regras do Código do Trabalho e respectiva legislação especial e desta lei, sendo consideradas como grandes empresas.\n\n2 - O regime da pluralidade de empregadores previsto no Código do Trabalho é aplicável quando se verifiquem relações de colaboração entre pessoas colectivas públicas ou a existência de estruturas organizativas comuns, designadamente serviços partilhados que impliquem a prestação de trabalho subordinado a mais de uma pessoa colectiva pública.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372719": {
+   "fragment_id": "174770589",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres especiais dos trabalhadores",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Deveres especiais dos trabalhadores\n\n1 - Sem prejuízo dos deveres gerais constantes do Código do Trabalho, de instrumento de regulamentação colectiva de trabalho ou decorrentes do contrato, os trabalhadores das pessoas colectivas públicas estão sujeitos, em especial, à prossecução do interesse público e devem agir com imparcialidade e isenção perante os cidadãos.\n\n2 - Os trabalhadores abrangidos pela presente lei estão sujeitos ao regime de incompatibilidades do pessoal com vínculo de funcionário público ou de agente administrativo.\n\n3 - Os trabalhadores vinculados por contrato de trabalho às pessoas colectivas públicas carecem de autorização para exercerem outra actividade, nos mesmos termos que o pessoal com vínculo de funcionário ou agente.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372720": {
+   "fragment_id": "174770590",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de selecção",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Processo de selecção\n\n1 - A celebração de contrato de trabalho por tempo indeterminado no âmbito da presente lei deve ser precedida de um processo de selecção que obedece aos seguintes princípios:\n\na) Publicitação da oferta de trabalho;\n\nb) Garantia de igualdade de condições e oportunidades;\n\nc) Decisão de contratação fundamentada em critérios objectivos de selecção.\n\n2 - O processo prévio de selecção não está sujeito ao Código do Procedimento Administrativo, sem prejuízo da aplicação dos princípios gerais que regem a actividade administrativa.\n\n3 - A publicitação da oferta de trabalho deve ser feita em jornal de expansão regional e nacional, incluindo obrigatoriamente informação sobre o serviço a que se destina, a actividade para a qual o trabalhador é contratado, os requisitos exigidos e os métodos e critérios objectivos de selecção.\n\n4 - A aplicação dos métodos e critérios de selecção é efectuada por uma comissão, preferencialmente constituída por pessoas com formação específica na área do recrutamento e selecção.\n\n5 - A decisão deve ser fundamentada por escrito e comunicada aos candidatos.\n\n6 - As regras a que deve obedecer o processo de selecção constam obrigatoriamente dos estatutos próprios ou dos regulamentos internos das pessoas colectivas públicas previstos na presente lei.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372721": {
+   "fragment_id": "174770591",
+   "type": 11,
+   "heading": "Artigo 6.º — Pessoal de direcção e chefia em regime de contrato de trabalho",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Pessoal de direcção e chefia em regime de contrato de trabalho\n\n1 - As pessoas colectivas públicas cujas estruturas tenham funções dirigentes em regime de contrato de trabalho apenas podem contratar pessoal para as referidas funções em regime de comissão de serviço prevista no Código do Trabalho.\n\n2 - Os trabalhadores que exerçam funções em regime de comissão de serviço nos termos do número anterior estão sujeitos ao mesmo regime de incompatibilidades, bem como aos deveres específicos do pessoal dirigente da Administração Pública.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372722": {
+   "fragment_id": "174770592",
+   "type": 11,
+   "heading": "Artigo 7.º — Limites à contratação",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Limites à contratação\n\n1 - As pessoas colectivas públicas apenas podem celebrar contratos de trabalho por tempo indeterminado se existir um quadro de pessoal para este efeito e nos limites deste quadro.\n\n2 - No âmbito da administração directa do Estado, a competência para celebrar contratos de trabalho pertence ao dirigente máximo do serviço.\n\n3 - A celebração de contratos de trabalho por pessoas colectivas públicas deve ser comunicada ao Ministro das Finanças e ao membro do Governo que tiver a seu cargo a Administração Pública.\n\n4 - A celebração de contratos de trabalho em violação do disposto no n.º 1 implica a sua nulidade e gera responsabilidade civil, disciplinar e financeira dos titulares dos órgãos que celebraram os contratos de trabalho.\n\n5 - A celebração de contratos de trabalho que envolvam encargos com remunerações globais superiores às que resultam da aplicação de regulamentos internos ou dos instrumentos de regulamentação colectiva fica sujeita à autorização do Ministro das Finanças.\n\n6 - Para efeitos do número anterior, a determinação da remuneração global inclui quaisquer suplementos remuneratórios, incluindo a fixação de indemnizações ou valores pecuniários incertos.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372723": {
+   "fragment_id": "174770593",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Forma\n\n1 - Os contratos de trabalho celebrados por pessoas colectivas públicas estão sujeitos à forma escrita.\n\n2 - Do contrato de trabalho devem constar as seguintes indicações:\n\na) Nome ou denominação e domicílio ou sede dos contraentes;\n\nb) Tipo de contrato e respectivo prazo, quando aplicável;\n\nc) Actividade contratada e retribuição do trabalhador;\n\nd) Local e período normal de trabalho;\n\ne) Data de início da actividade;\n\nf) Indicação do processo de selecção adoptado;\n\ng) Identificação da entidade que autorizou a contratação.\n\n3 - A não redução a escrito ou a falta das indicações constantes das alíneas a), b) e c) do número anterior determinam a nulidade do contrato.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372724": {
+   "fragment_id": "174770594",
+   "type": 11,
+   "heading": "Artigo 9.º — Termo resolutivo",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Termo resolutivo\n\n1 - Nos contratos de trabalho celebrados por pessoas colectivas públicas só pode ser aposto termo resolutivo nas seguintes situações:\n\na) Substituição directa ou indirecta de funcionário, agente ou outro trabalhador ausente ou que, por qualquer razão, se encontre temporariamente impedido de prestar serviço;\n\nb) Substituição directa ou indirecta de funcionário, agente ou outro trabalhador em relação ao qual esteja pendente em juízo acção de apreciação da licitude do despedimento;\n\nc) Substituição directa ou indirecta de funcionário, agente ou outro trabalhador em situação de licença sem retribuição;\n\nd) Substituição de funcionário, agente ou outro trabalhador a tempo completo que passe a prestar trabalho a tempo parcial;\n\ne) Para assegurar necessidades públicas urgentes de funcionamento das pessoas colectivas públicas;\n\nf) Execução de tarefa ocasional ou serviço determinado precisamente definido e não duradouro;\n\ng) Para o exercício de funções em estruturas temporárias das pessoas colectivas públicas;\n\nh) Para fazer face ao aumento excepcional e temporário da actividade do serviço;\n\ni) Para o desenvolvimento de projectos não inseridos nas actividades normais dos serviços;\n\nj) Quando a formação dos trabalhadores no âmbito das pessoas colectivas públicas envolva a prestação de trabalho subordinado.\n\n2 - Os contratos previstos no número anterior só podem ser a termo incerto nas situações previstas nas alíneas a) a d) e f) a i) do número anterior.\n\n3 - No caso da alínea e) do número anterior, o contrato não pode ter uma duração superior a seis meses.\n\n4 - A celebração de contratos de trabalho a termo resolutivo obedece a um processo de selecção simplificado, precedido de publicação da oferta de trabalho pelos meios adequados e de decisão reduzida a escrito e fundamentada em critérios objectivos de selecção.\n\n5 - A celebração de contratos de trabalho a termo resolutivo nas situações previstas nas alínea e) a j) do n.º 1 do presente artigo depende da autorização do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n6 - Nos casos das alíneas a) a d) do n.º 1 do presente artigo, a celebração dos respectivos contratos deve ser comunicada à Direcção-Geral da Administração Pública.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372725": {
+   "fragment_id": "174770595",
+   "type": 11,
+   "heading": "Artigo 10.º — Regras especiais aplicáveis ao contrato de trabalho a termo resolutivo",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Regras especiais aplicáveis ao contrato de trabalho a termo resolutivo\n\n1 - O contrato de trabalho a termo resolutivo certo celebrado por pessoas colectivas públicas não está sujeito a renovação automática.\n\n2 - O contrato de trabalho a termo resolutivo celebrado por pessoas colectivas públicas não se converte, em caso algum, em contrato por tempo indeterminado, caducando no termo do prazo máximo de duração previsto no Código do Trabalho.\n\n3 - A celebração de contratos de trabalho a termo resolutivo com violação do disposto na presente lei implica a sua nulidade e gera responsabilidade civil, disciplinar e financeira dos titulares dos órgãos que celebraram os contratos de trabalho.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372726": {
+   "fragment_id": "174770596",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamentos internos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Regulamentos internos\n\n1 - As pessoas colectivas públicas podem emitir regulamentos internos nos termos previstos no Código do Trabalho, com as especificidades constantes dos números seguintes.\n\n2 - Os regulamentos internos aplicáveis ao pessoal em regime de contrato de trabalho na administração directa do Estado são aprovados pelo ministro da tutela, com faculdade de delegação nos dirigentes máximos dos serviços.\n\n3 - Os regulamentos internos das pessoas colectivas públicas que disponham em matéria salarial e de carreiras carecem de homologação dos Ministros das Finanças e da tutela, sob pena de ineficácia.\n\n4 - Os regulamentos internos devem ser publicados na 2.ª série do Diário da República e afixados nos locais de trabalho.\n\n5 - A eficácia dos regulamentos internos não depende de comunicação à Inspecção-Geral do Trabalho, produzindo os seus efeitos com a publicação a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372727": {
+   "fragment_id": "174770597",
+   "type": 11,
+   "heading": "Artigo 12.º — Tempo de trabalho nas pessoas colectivas públicas",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Tempo de trabalho nas pessoas colectivas públicas\n\nPor instrumento de regulamentação colectiva de trabalho, os limites dos períodos normais de trabalho fixados no Código do Trabalho podem ser alargados até aos limites previstos para as correspondentes carreiras do pessoal com vínculo de funcionário público ou agente administrativo.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372728": {
+   "fragment_id": "174770598",
+   "type": 11,
+   "heading": "Artigo 13.º — Níveis retributivos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Níveis retributivos\n\n1 - Sem prejuízo do regime resultante de instrumentos de regulamentação colectiva, os níveis retributivos dos trabalhadores das pessoas colectivas públicas não devem ultrapassar os níveis remuneratórios do pessoal com vínculo de funcionário ou agente, quando existam as respectivas carreiras no âmbito da Administração Pública.\n\n2 - A violação do disposto no número anterior implica responsabilidade disciplinar e financeira dos titulares dos órgãos da pessoa colectiva pública que fixaram os níveis remuneratórios dos trabalhadores.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372729": {
+   "fragment_id": "174770599",
+   "type": 11,
+   "heading": "Artigo 14.º — Cedência ocasional de trabalhadores",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Cedência ocasional de trabalhadores\n\n1 - É lícita a cedência ocasional de trabalhadores das pessoas colectivas públicas para o exercício de funções temporárias noutra pessoa colectiva pública, com o acordo do trabalhador expresso por escrito.\n\n2 - No quadro da colaboração entre pessoas colectivas públicas, a cedência não exige o acordo do trabalhador se for fundamentada em necessidades prementes das entidades envolvidas ou em razões de economia, eficácia e eficiência na prossecução das respectivas atribuições.\n\n3 - A cedência prevista no número anterior não pode fazer diminuir os direitos do trabalhador e deve respeitar as regras do Código do Trabalho quanto à mobilidade funcional e geográfica e ao tempo de trabalho.\n\n4 - O acordo de cedência entre pessoas colectivas deve ser reduzido a escrito e prever expressamente a entidade responsável pelo pagamento da retribuição ao trabalhador.\n\n5 - Nas matérias não especificamente reguladas neste artigo é aplicável o regime do Código do Trabalho sobre a cedência ocasional.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372730": {
+   "fragment_id": "174770600",
+   "type": 11,
+   "heading": "Artigo 15.º — Redução do período normal de trabalho ou suspensão dos contratos de trabalho",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Redução do período normal de trabalho ou suspensão dos contratos de trabalho\n\n1 - As pessoas colectivas públicas podem reduzir os períodos normais de trabalho ou suspender os contratos de trabalho quando se verifique uma redução grave e anormal da sua actividade por razões estruturais ou tecnológicas, pela ocorrência de catástrofes ou por outras razões de natureza análoga, seguindo-se o regime previsto para a redução ou suspensão dos contratos de trabalho previsto no Código do Trabalho, com as especificidades constantes dos números seguintes.\n\n2 - A redução grave e anormal da actividade deve ser fundamentada e declarada pelo ministro da tutela.\n\n3 - Durante a redução ou suspensão, o trabalhador tem direito a receber uma compensação retributiva nos termos do Código do Trabalho, a suportar pela pessoa colectiva pública.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372731": {
+   "fragment_id": "174770604",
+   "type": 11,
+   "heading": "Artigo 19.º — Convenções colectivas de trabalho",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Convenções colectivas de trabalho\n\n1 - Para efeitos de aplicação aos contratos de trabalho celebrados por pessoas colectivas públicas, as convenções colectivas podem ser dos seguintes níveis:\n\na) Contratos colectivos nacionais - convenções outorgadas por associações sindicais e pelo Estado, representado pelo Ministro das Finanças, e aplicáveis a todas as pessoas colectivas públicas;\n\nb) Contratos colectivos sectoriais - convenções outorgadas por associações sindicais e pelo ministro da tutela do sector de actividade e aplicáveis nesse sector de actividade;\n\nc) Acordos colectivos sectoriais - convenções outorgadas por associações sindicais e por uma pluralidade de pessoas colectivas tuteladas pelo mesmo ministro;\n\nd) Acordos de pessoa colectiva pública - convenções outorgadas por associações sindicais e uma pessoa colectiva pública.\n\n2 - Os diferentes tipos de convenções colectivas correspondem a níveis de convenções colectivas em função do âmbito subjectivo quanto aos empregadores públicos.\n\n3 - Para efeitos da alínea c) do n.º 1, as pessoas colectivas públicas podem designar um representante comum para a celebração das convenções colectivas sempre que não haja outorga da convenção pelo ministro da tutela.\n\n4 - A competência para celebrar convenções colectivas pode ser delegada.\n\n5 - São nulos quaisquer acordos que regulem matérias salariais e de carreiras que não respeitem o disposto na presente lei.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372732": {
+   "fragment_id": "174770605",
+   "type": 11,
+   "heading": "Artigo 20.º — Articulação entre convenções colectivas",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Articulação entre convenções colectivas\n\n1 - As convenções colectivas previstas no artigo anterior são articuladas, devendo a convenção colectiva mais abrangente indicar as matérias que podem ser reguladas pelas convenções colectivas de âmbito mais restrito, não havendo lugar à aplicação das regras de preferência previstas no Código do Trabalho.\n\n2 - As convenções colectivas de diferentes níveis devem respeitar as seguintes regras de articulação:\n\na) O disposto nos contratos colectivos nacionais prevalece sobre todas as restantes convenções colectivas;\n\nb) O disposto nos contratos colectivos sectoriais prevalece sobre os acordos colectivos sectoriais e os acordos de pessoa colectiva pública.\n\n3 - O regime dos números anteriores pode ser afastado por cláusula da convenção colectiva.\n\n4 - Devem ser outorgadas pelos Ministros das Finanças e da tutela, sob pena de ineficácia, as convenções colectivas que:\n\na) Afastem a forma articulada nos termos do n.º 3;\n\nb) Não respeitem as limitações ao conteúdo estabelecidas pela convenção colectiva de âmbito mais abrangente;\n\nc) Derroguem as regras de articulação definidas nos n.os 1 e 2;\n\nd) Afastem o conteúdo da convenção colectiva de âmbito mais abrangente.\n\n5 - Devem igualmente ser outorgadas pelos Ministros das Finanças e da tutela as convenções colectivas que, abrangendo trabalhadores não filiados nos sindicatos outorgantes das convenções colectivas mais abrangentes, tenham uma eficácia que afaste as regras do n.º 4.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372733": {
+   "fragment_id": "174770606",
+   "type": 11,
+   "heading": "Artigo 21.º — Processo de negociação",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Processo de negociação\n\nNo processo de negociação das convenções colectivas de trabalho em que intervenham pessoas colectivas públicas devem obrigatoriamente estar presentes representantes do Ministério das Finanças e dos ministérios que tenham a tutela sobre a função pública e sobre as relações colectivas de trabalho, sob pena de ineficácia.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372734": {
+   "fragment_id": "174770607",
+   "type": 11,
+   "heading": "Artigo 22.º — Aplicação das convenções colectivas",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Aplicação das convenções colectivas\n\n1 - No caso de haver mais de uma convenção colectiva do mesmo âmbito sectorial ou profissional aplicável a uma pessoa colectiva pública, os trabalhadores não filiados nos sindicatos outorgantes podem escolher, por escrito, o instrumento que lhes é aplicável.\n\n2 - No caso previsto no número anterior, a convenção aplica-se aos trabalhadores até ao final do prazo que dela expressamente constar ou, sendo esta objecto de alteração, até à sua entrada em vigor.\n\n3 - No caso de a convenção colectiva não ter prazo de vigência, os trabalhadores são abrangidos durante o prazo mínimo de um ano.\n\n4 - A competência para a emissão de regulamentos de extensão para as pessoas colectivas públicas é do Ministro das Finanças e do ministro responsável pela área laboral.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372735": {
+   "fragment_id": "174770610",
+   "type": 11,
+   "heading": "Artigo 25.º — Contrato de trabalho na administração directa",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Contrato de trabalho na administração directa\n\n1 - Para efeitos do n.º 4 do artigo 1.º, as funções que no âmbito da administração directa do Estado podem ser objecto de contrato de trabalho são definidas em decreto-lei.\n\n2 - Sem prejuízo do disposto no número anterior, as actividades de apoio administrativo, auxiliar e de serviços gerais podem, desde já, ser objecto de contrato de trabalho na administração directa do Estado.\n\n3 - Para efeitos dos números anteriores, os quadros de pessoal dos serviços da administração directa do Estado relativos aos trabalhadores em regime de contrato de trabalho serão aprovados por portaria conjunta dos Ministros das Finanças e da tutela.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372736": {
+   "fragment_id": "174770611",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposições finais e transitórias",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Disposições finais e transitórias\n\n1 - Ficam sujeitos ao regime da presente lei os contratos de trabalho e os instrumentos de regulamentação colectiva de trabalho celebrados ou aprovados antes da sua entrada em vigor que abranjam pessoas colectivas públicas, salvo quanto às condições de validade e aos efeitos de factos ou situações totalmente passados anteriormente àquele momento.\n\n2 - O disposto no n.º 4 do artigo 1.º e no artigo anterior não prejudica a imediata aplicação da presente lei, designadamente quanto aos contratos de trabalho já em execução.\n\n3 - O regime previsto na presente lei aplica-se aos contratos de trabalho a celebrar ao abrigo da base XXXI da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, na redacção dada pela Lei n.º 27/2002, de 8 de Novembro, e do artigo 14.º do regime jurídico da gestão hospitalar, aprovado pela Lei n.º 27/2002, de 8 de Novembro.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372737": {
+   "fragment_id": "174770612",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma de prevalência",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Norma de prevalência\n\nAs normas da presente lei prevalecem sobre quaisquer normas especiais aplicáveis aos contratos de trabalho no âmbito das pessoas colectivas públicas, designadamente sobre as normas previstas nos respectivos estatutos.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372738": {
+   "fragment_id": "174770613",
+   "type": 11,
+   "heading": "Artigo 28.º — Alterações ao Decreto-Lei n.º 184/89, de 2 de Junho",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Alterações ao Decreto-Lei n.º 184/89, de 2 de Junho\n\nO artigo 7.º do Decreto-Lei n.º 184/89, de 2 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\n1 - O contrato de pessoal é um acto bilateral, nos termos do qual se constitui uma relação de trabalho subordinado.\n\n2 - ...\n\na) ...\n\nb) Contrato de trabalho em qualquer das suas modalidades.»\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372739": {
+   "fragment_id": "174770614",
+   "type": 11,
+   "heading": "Artigo 29.º — Alterações ao Decreto-Lei n.º 427/89, de 7 de Dezembro",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Alterações ao Decreto-Lei n.º 427/89, de 7 de Dezembro\n\n1 - O artigo 14.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 14.º\n\n1 - O contrato de pessoal pode revestir as modalidades de:\n\na) ...\n\nb) Contrato de trabalho em qualquer das suas modalidades.\n\n2 - ...\n\n3 - O contrato de trabalho não confere a qualidade de funcionário público ou agente administrativo e rege-se pelo Código do Trabalho, com as especialidades constantes de diploma especial sobre contrato de trabalho na Administração Pública.»\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372740": {
+   "fragment_id": "174770615",
+   "type": 11,
+   "heading": "Artigo 30.º — Revogações",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Revogações\n\nSão revogadas as seguintes disposições:\n\na) Os artigos 9.º e 11.º-A do Decreto-Lei n.º 184/89, de 2 de Junho, este último aditado pelo artigo 2.º da Lei n.º 25/98, de 26 de Maio;\n\nb) Os artigos 18.º a 21.º do Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372741": {
+   "fragment_id": "174770616",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a data da sua publicação.\n\n> Revogado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01"
+  },
+  "215372742": {
+   "fragment_id": "174770601",
+   "type": 11,
+   "heading": "Artigo 16.º — Sucessão nas atribuições",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01",
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+   ],
+   "markdown": "###### Artigo 16.º — Sucessão nas atribuições\n\n1 - Os contratos de trabalho celebrados por pessoas colectivas públicas transmitem-se aos sujeitos que venham a prosseguir as respectivas atribuições, nos termos previstos no Código do Trabalho para a transmissão de empresa ou de estabelecimento.\n\n2 - O disposto no número anterior aplica-se, nomeadamente, nos casos em que haja transferência da responsabilidade pela gestão do serviço público para entidades privadas sob qualquer forma.\n\n3 - No caso de transferência ou delegação de parte das atribuições da pessoa colectiva pública para outras entidades, apenas se transmitem os contratos de trabalho afectos às actividades respectivas.\n\n4 - Pode haver acordo entre a pessoa colectiva pública de origem e o trabalhador no sentido de este continuar ao serviço daquela.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+  },
+  "215372743": {
+   "fragment_id": "174770602",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção da pessoa colectiva pública",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01",
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+   ],
+   "markdown": "###### Artigo 17.º — Extinção da pessoa colectiva pública\n\nA extinção da pessoa colectiva pública a que o trabalhador pertence determina a caducidade dos contratos de trabalho.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 53/2006 - Diário da República n.º 235/2006, Série I de 2006-12-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), em vigor a partir de 2006-12-08"
+  },
+  "215372744": {
+   "fragment_id": "174770603",
+   "type": 11,
+   "heading": "Artigo 18.º — Despedimento por redução de actividade",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+   ],
+   "markdown": "###### Artigo 18.º — Despedimento por redução de actividade\n\n1 - Para além dos casos previstos no Código do Trabalho, as pessoas colectivas públicas podem promover o despedimento colectivo ou a extinção de postos de trabalho por razões de economia, eficácia e eficiência na prossecução das respectivas atribuições, nos termos do mesmo Código, com um dos seguintes fundamentos:\n\na) Cessação parcial da actividade da pessoa colectiva pública determinada nos termos da lei;\n\nb) Extinção, fusão ou reestruturação de serviços ou de uma unidade orgânica ou estrutura equivalente que determine a redução de efectivos.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+  }
+ }
+}

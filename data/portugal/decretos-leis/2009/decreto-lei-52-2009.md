@@ -1,0 +1,325 @@
+---
+schema_version: '1.0'
+id: pt:dre:604656:por
+title: Decreto-Lei n.º 52/2009
+short_title: null
+summary: Procede à primeira alteração ao Decreto-Lei n.º 289/2000, de 14 de Novembro, definindo as acções necessárias ao recenseamento
+  militar e os mecanismos de articulação entre os organismos do Estado que intervêm no novo modelo de recenseamento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 52/2009
+official_date: null
+publication_date: '2009-03-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2009, Série I de 2009-03-02
+  number: '42'
+  series: I
+  supplement: null
+  pages: 1403 - 1406
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04200/0140301406.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-03-02'
+version_history:
+  file: decreto-lei-52-2009.versoes.json
+  count: 1
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/52/2009/p/cons/20090428/pt/html
+  oj: null
+  dre: '604656'
+  dre_path: /dr/detalhe/decreto-lei/52-2009-604656
+  internal: pt:dre:604656:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2009-604656
+  metadata_url: https://data.dre.pt/eli/dec-lei/52/2009/p/cons/20090428/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-862896794
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-862896794
+  retrieved_at: '2026-10-22T13:04:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7bea35aaf2699c6f378565b626675bc54b86e554d7a27eb2d4d0c694b0ab1cd1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:04:52Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-52-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cédula Militar
+- Ministério da Defesa Nacional
+- Direcção Geral de Pessoal e Recrutamento Militar
+- Definição de Competências
+- DIA da Defesa Nacional
+- Serviço Militar
+- Base de Dados
+- Objector de Consciência
+- Confidencialidade
+- Recenseamento Militar
+- Recrutamento Militar
+- Regulamento
+- Dados Pessoais
+- Autarquia Local
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/289/2000/11/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/289/2000/11/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/1/2008/05/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2008/05/06/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:04:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 52/2009
+
+Decreto-Lei n.º 52/2009
+
+de 2 de Março
+
+A Lei Orgânica n.º 1/2008, de 6 de Maio, alterou a Lei do Serviço Militar aprovada pela Lei n.º 174/99, de 21 de Setembro, definindo um novo modelo de recenseamento militar, em obediência ao princípio de «só solicitar ao cidadão a informação estritamente necessária ou que ainda não esteja na posse de nenhum serviço do Estado».
+
+O novo modelo isenta o cidadão do dever de se apresentar ao recenseamento militar, o qual passa a processar-se entre os organismos e serviços do Estado competentes em razão da matéria, incumbindo ao Ministério da Defesa Nacional assegurar o recenseamento militar, bem como de obter e tratar a informação necessária relativa aos cidadãos durante o período em que se encontram sujeitos aos deveres militares previstos na lei.
+
+Para assegurar o sucesso do novo modelo, tem especial destaque o papel do Instituto dos Registos e Notariado, I. P. (IRN, I. P.), e dos seus serviços centrais e de registo, pois o fornecimento da informação relevante para o recenseamento militar processar-se-á entre este Instituto e o órgão competente do Ministério da Defesa Nacional, que sucede o órgão do Exército ao qual as competências em matéria de recenseamento militar estavam anteriormente atribuídas.
+
+Nesta conformidade, eliminando-se a obrigação de os cidadãos se apresentarem ao recenseamento militar durante o mês de Janeiro do ano em que completam 18 anos de idade, o presente decreto-lei vem introduzir as alterações necessárias ao Regulamento da Lei do Serviço Militar, identificando os organismos do Estado que intervêm no novo modelo e o papel que cada um deve assumir para o concretizar.
+
+Atendendo, ainda, a que a defesa da Pátria é um direito e um dever de todos os portugueses e reafirmando o papel das Forças Armadas no contexto da defesa nacional, consolida-se com esta alteração ao regulamento, um aspecto essencial no domínio da igualdade de género, de colocar os homens e as mulheres perante os mesmos direitos e deveres militares.
+
+Foram ouvidas a Comissão Nacional de Protecção de Dados, a Comissão para a Cidadania e a Igualdade de Género e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao Decreto-Lei n.º 289/2000, de 14 de Novembro
+
+Os artigos 1.º, 2.º, 5.º, 8.º, 9.º, 13.º, 16.º, 19.º, 20.º e 77.º do Regulamento da Lei do Serviço Militar, aprovado pelo Decreto-Lei n.º 289/2000, de 14 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Objecto
+
+1 - ...
+
+2 - Os cidadãos de ambos os sexos têm os mesmos deveres militares.
+
+Artigo 2.º
+
+Entidades intervenientes no recrutamento militar
+
+1 - ...
+
+a) ...
+
+b) ...
+
+2 - São ainda chamadas a participar no processo de recrutamento militar as entidades públicas cuja intervenção se revele necessária, nomeadamente:
+
+a) Instituto dos Registos e Notariado. I. P. (IRN, I. P.), através dos seus serviços centrais e de registo;
+
+b) (Revogada.)
+
+c) ...
+
+d) ...
+
+e) (Revogada.)
+
+f) Gabinete de Apoio aos Objectores de Consciência;
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+Artigo 5.º
+
+Intervenção de entidades públicas
+
+1 - Incumbe, em geral, às entidades referidas no n.º 2 do artigo 2.º proceder à divulgação de quaisquer actos ou matérias no âmbito do recrutamento militar, bem como apoiar a realização de outras acções para as quais seja solicitada colaboração.
+
+2 - O IRN, I. P., através dos seus serviços centrais e de registo assegura o fornecimento à Direcção-Geral de Pessoal e Recrutamento Militar, entidade responsável pelo tratamento e gestão dos dados pessoais, da informação de identificação civil e registo civil relevante ao recenseamento militar, com a finalidade de assegurar a execução deste, bem como de proceder à sua actualização durante o período de sujeição dos cidadãos aos deveres militares.
+
+3 - Os estabelecimentos prisionais e de internamento fornecem a informação relativa aos cidadãos que cumpram, a qualquer título, medida restritiva de liberdade, para os efeitos do previsto na alínea h) do artigo 29.º e de recrutamento excepcional.
+
+Artigo 8.º
+
+Municípios
+
+Compete aos municípios distribuir pelas freguesias dos respectivos concelhos, para afixação, os avisos e editais para comparência dos cidadãos ao recrutamento excepcional e ao Dia da Defesa Nacional.
+
+Artigo 9.º
+
+Postos consulares
+
+Compete aos postos consulares proceder à afixação de editais, avisos e outros documentos referentes ao recrutamento excepcional e ao Dia da Defesa Nacional.
+
+Artigo 13.º
+
+Estabelecimentos de ensino
+
+Os estabelecimentos de ensino, públicos e privados, podem celebrar protocolos com os três ramos das Forças Armadas, com a finalidade de sensibilizar os jovens para a temática da defesa nacional e de divulgar o papel das Forças Armadas.
+
+Artigo 16.º
+
+Bases do recenseamento
+
+1 - O recenseamento militar baseia-se nos dados de identificação civil e de registo civil de cada cidadão fornecidos pelo IRN, I. P., ao órgão competente do Ministério da Defesa Nacional (MDN), com vista à sua migração para a respectiva base de dados.
+
+2 - Os dados pessoais relevantes para assegurar o recenseamento militar sãos os seguintes:
+
+a) Nome completo;
+
+b) Naturalidade, freguesia e concelho para os nascidos em Portugal e país e posto consular para os nascidos no estrangeiro;
+
+c) Data de nascimento;
+
+d) Sexo;
+
+e) Filiação;
+
+f) Estado civil;
+
+g) Morada completa;
+
+h) Número, data e entidade emissora do documento de identificação civil;
+
+i) Indicação de óbito.
+
+3 - Os dados pessoais dos cidadãos são comunicados pelo IRN, I. P.:
+
+a) Mensalmente, a partir do ano civil em que os cidadãos completam os 17 anos de idade;
+
+b) Anualmente, para efeitos de actualização ou consolidação de dados, desde o ano civil em que os cidadãos completam os 19 anos de idade até ao dia 31 de Dezembro do ano em que cessam as suas obrigações militares.
+
+4 - Os dados pessoais dos cidadãos recenseados constam em base de dados cujo tratamento e gestão é da responsabilidade do MDN e são conservados até 31 de Dezembro do ano seguinte àquele em que o cidadão deixe de estar sujeito às obrigações militares.
+
+5 - Os cidadãos têm, a todo o tempo, a faculdade de conhecer junto da Direcção-Geral de Pessoal e Recrutamento Militar os dados pessoais constantes da base de dados, bem como de solicitar a correcção de eventuais inexactidões ou de indicar dados actualizados.
+
+6 - É atribuído, aleatória e automaticamente, a cada um dos cidadãos que integram a base de dados a que se refere o presente artigo um número de identificação militar (NIM), que, para efeitos militares, o identifica.
+
+7 - O NIM é constituído por oito dígitos numéricos, sendo os primeiros seis a contar da esquerda atribuídos aleatoriamente e os dois últimos correspondentes ao ano em que o cidadão complete 20 anos de idade.
+
+Artigo 19.º
+
+Cédula militar
+
+1 - ...
+
+2 - A cédula militar é entregue ao cidadão no dia da sua comparência ao Dia da Defesa Nacional, sendo recolhida na unidade de incorporação e posteriormente devolvida ao respectivo titular finda a prestação do serviço militar ou concretizado o ingresso nos quadros permanentes (QP).
+
+3 - ...
+
+Artigo 20.º
+
+Dia da Defesa Nacional
+
+1 - ...
+
+2 - A convocatória para comparência ao Dia da Defesa Nacional é efectuada por edital, a afixar até ao final do mês de Novembro, nas câmaras municipais, juntas de freguesia, estabelecimentos de ensino, órgãos de recrutamento dos ramos e postos consulares, nele devendo constar os cidadãos abrangidos, os locais, dia e hora em que estes se devem apresentar.
+
+3 - ...
+
+4 - Os cidadãos convocados para comparecer ao Dia da Defesa Nacional devem ser portadores de documento de identificação civil.
+
+5 - ...
+
+Artigo 77.º
+
+Alteração de dados pessoais
+
+1 - Os cidadãos na reserva de recrutamento ou de disponibilidade comunicam ao órgão competente do Ministério da Defesa Nacional, pessoalmente ou através de carta registada, as habilitações literárias.
+
+2 - (Revogado.)»
+
+###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 289/2000, de 14 de Novembro
+
+São aditados os artigos 16.º-A e 22.º-A ao Decreto-Lei n.º 289/2000, de 14 de Novembro, com a seguinte redacção:
+
+«Artigo 16.º-A
+
+Segurança e confidencialidade
+
+1 - Sem prejuízo do previsto no artigo 22.º-A, é proibida a transmissão a terceiros dos dados pessoais obtidos para efeitos do recenseamento militar.
+
+2 - O acesso por parte de entidades ou pessoas aos dados pessoais recolhidos nos termos do presente decreto-lei vincula aquelas ao dever de sigilo profissional, mesmo após a cessação das suas funções.
+
+3 - A entidade autorizada a tratar os dados pessoais assegura a adopção das medidas de segurança previstas no artigo 14.º da Lei n.º 67/98, de 26 de Outubro.
+
+Artigo 22.º-A
+
+Transmissão de dados pessoais
+
+Incumbe à Direcção-Geral de Pessoal e Recrutamento Militar fornecer os dados pessoais relativos aos cidadãos colocados na reserva de recrutamento, a pedido do Exército, e na reserva de disponibilidade, a pedido dos ramos.»
+
+###### Artigo 3.º — Regime transitório
+
+1 - A extensão do dever de comparência ao Dia da Defesa Nacional às cidadãs é implementada, gradualmente, num prazo limite de dois anos a contar da data da entrada em vigor da Lei Orgânica n.º 1/2008, de 6 de Maio.
+
+2 - Durante o período transitório, as cidadãs podem, a título voluntário, cumprir o dever de comparência ao Dia da Defesa Nacional sem necessidade de pedido de inscrição no recenseamento militar.
+
+###### Artigo 4.º — Norma revogatória
+
+São revogadas as alíneas b) e e) do n.º 2 do artigo 2.º, os artigos 6.º, 7.º, 10.º, 11.º, 12.º, 17.º, 18.º e 75.º e o n.º 2 do artigo 77.º do Regulamento da Lei do Serviço Militar, aprovado pelo Decreto-Lei n.º 289/2000, de 14 de Novembro.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.

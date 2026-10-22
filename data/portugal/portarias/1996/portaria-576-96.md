@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:231530:por
+title: Portaria n.º 576/96
+short_title: null
+summary: Cria duas séries de sobrescritos, A e B, com franquia incorporada e assinalada no canto superior direito dos mesmos
+  pela expressão «Taxa paga», para serem utilizados, respectivamente, no serviço postal nacional e internacional, de 1 de
+  Novembro de 1996 a 31 de Janeiro de 1997, no âmbito da campanha de cartões de boas-festas dos correios alusivos ao Natal
+  de 1996
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 576/96
+official_date: null
+publication_date: '1996-10-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 239/1996, Série I-B de 1996-10-15
+  number: '239'
+  series: I
+  supplement: null
+  pages: 3611 - 3611
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/10/239b00/36113611.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/576/1996/10/15/p/dre/pt/html
+  oj: null
+  dre: '231530'
+  dre_path: /dr/detalhe/portaria/576-1996-231530
+  internal: pt:dre:231530:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-1996-231530
+  metadata_url: https://data.dre.pt/eli/port/576/1996/10/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-1996-231530
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-10-15T00:00:00Z'
+integrity:
+  source_sha256: dff131df1cf75fe12cb63f87489a249833f2e496e52a9507bed1e8afcd143a98
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-576-231530.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço Postal
+- SELO Postal
+- Sobrescrito
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 576/96
+
+de 15 de Outubro
+
+Manda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, ao abrigo das disposições do artigo 4.º do [Decreto-Lei n.º 360/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1985-179355), de 3 de Setembro, o seguinte:
+
+1.º Que sejam criadas duas séries de sobrescritos, A e B, com franquia incorporada e assinalada no canto superior direito dos mesmos pela expressão «Taxa paga», para serem utilizados, respectivamente, no serviço postal nacional e internacional, de 1 de Novembro de 1996 a 31 de Janeiro de 1997, no âmbito da campanha de cartões de boas-festas dos correios alusivos ao Natal de 1996.
+
+2.º Que tais sobrescritos tenham as dimensões e tiragens seguintes:
+
+Série A:
+
+114 mm x 162 mm - ilimitada;
+
+110 mm x 220 mm - ilimitada;
+
+Série B:
+
+114 mm x 162 mm - ilimitada;
+
+110 mm x 220 mm - ilimitada.
+
+3.º Que os da série A sejam vendidos ao público pela importância de 45$00 e os da série B por 90$00.
+
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+
+**Assinada em 24 de Setembro de 1996.**
+
+**O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.**

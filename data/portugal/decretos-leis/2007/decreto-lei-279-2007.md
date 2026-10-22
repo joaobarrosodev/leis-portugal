@@ -1,0 +1,249 @@
+---
+schema_version: '1.0'
+id: pt:dre:637229:por
+title: Decreto-Lei n.º 279/2007
+short_title: null
+summary: Primeira alteração ao Decreto-Lei n.º 276/99, de 23 de Julho, que define as linhas de orientação da política de gestão
+  da qualidade do ar e transpõe para a ordem jurídica interna a Directiva n.º 96/62/CE, do Conselho, de 27 de Setembro, relativa
+  à avaliação e gestão da qualidade do ar ambiente
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 279/2007
+official_date: null
+publication_date: '2007-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/2007, Série I de 2007-08-06
+  number: '150'
+  series: I
+  supplement: null
+  pages: 5040 - 5042
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15000/0504005042.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/279/2007/08/06/p/dre/pt/html
+  oj: null
+  dre: '637229'
+  dre_path: /dr/detalhe/decreto-lei/279-2007-637229
+  internal: pt:dre:637229:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2007-637229
+  metadata_url: https://data.dre.pt/eli/dec-lei/279/2007/08/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2007-637229
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-05-10T00:00:00Z'
+integrity:
+  source_sha256: e71cbfb1bc1602736031e3c5413d66a800ff12afeb06924a7951d3b8bf963eac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-279-637229.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Região Autónoma
+- Qualidade do AR
+- Comissão de Coordenação e Desenvolvimento Regional
+- Madeira.região Autónoma
+- Qualidade de VIDA
+- Qualidade do Ambiente
+- Poluição
+- Açores
+- Departamento de Prospectiva Planeamento e Relações Internacionais
+- Agência Portuguesa do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:106982550:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31996L0062
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/62/oj
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 279/2007
+
+de 6 de Agosto
+
+A definição das linhas de orientação da política de gestão da qualidade do ar foi efectuada pelo Decreto-Lei n.º 276/99, de 23 de Julho, o qual assegurou também a transposição da Directiva n.º [96/62/CE](https://data.europa.eu/eli/dir/1996/62/oj?locale=pt), do Conselho, de 27 de Setembro, relativa à avaliação e gestão da qualidade do ar ambiente.
+
+No desenvolvimento e aplicação do referido quadro legal, constata-se a necessidade de criar os instrumentos necessários para o seu integral cumprimento, entre os quais avultam os planos de melhoria da qualidade do ar e respectivos programas de execução. Tais planos e programas, para além da avaliação da situação existente, contemplam a análise de vários cenários e equacionam, quando necessário, medidas adicionais e respectivas relações custo-eficácia e custo-benefício, por forma a atingir os níveis de qualidade do ar que garantam a protecção da saúde humana e do ambiente em geral, através de opções sustentáveis.
+
+Desde o ano de 2000, que a estrutura orgânico-institucional do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional tem assegurado a concretização de tal objectivo mas, também, estudado e preparado, em articulação com entidades externas ao Ministério, designadamente as universidades e os órgãos de governo próprio das Regiões Autónomas, procedimentos harmonizados para a elaboração e aplicação dos citados planos e programas.
+
+Nos termos do novo impulso comunitário na matéria em causa, expresso na «Estratégia temática para a poluição atmosférica», adoptada pelo Conselho de Ambiente, de 9 de Março de 2006, e que contempla a revisão do actual quadro legal comunitário, a obtenção de resultados concretos associados à execução dos planos de melhoria da qualidade do ar é um aspecto decisivo para a demonstração de progressos por parte do Estado Português.
+
+Impõe-se assim proceder, com celeridade e pragmatismo, a uma avaliação das medidas constantes nas propostas de planos já elaboradas e das que venham entretanto a ser produzidas, aferindo o seu conteúdo à luz das opções e orientações políticas do momento actual, devendo ainda assegurar-se, num quadro de participação institucional, pública e privada, a sua efectiva concretização.
+
+É pois neste quadro que surge o presente decreto-lei, o qual visa, em função do resultado do trabalho já efectuado a nível nacional, optimizar a resposta administrativa para a problemática da qualidade do ar, nomeadamente através da definição de um conjunto de procedimentos que, envolvendo os diferentes ministérios e respectivos serviços, a administração local e outras entidades relevantes, garantam a aprovação, aplicação e acompanhamento dos planos de melhoria da qualidade do ar e respectivos programas de execução.
+
+Foi promovida a audição da Associação Nacional de Municípios Portugueses.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao Decreto-Lei n.º 276/99, de 23 de Julho
+
+1 - Os artigos 9.º e 12.º do Decreto-Lei n.º 276/99, de 23 de Julho, passam a ter seguinte redacção:
+
+«Artigo 9.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Nas zonas e aglomerações referidas na alínea a) do n.º 1 e no número anterior, as CCDR territorialmente competentes elaboram planos de melhoria da qualidade do ar e respectivos programas de execução, destinados a fazer cumprir os valores limite no prazo fixado.
+
+4 - ...
+
+5 - Os planos e os respectivos programas de execução, referidos no n.º 3, a que o público deve ter acesso incluem, no seu conjunto e como mínimo, as informações enumeradas no anexo iv do presente decreto-lei, do qual faz parte integrante, e devem ser comunicados à Comissão da União Europeia, através do Departamento de Prospectiva e Planeamento e Relações Internacionais do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, abreviadamente designado por DPPRI, de modo a possibilitar o exame dos progressos alcançados e as tendências da poluição atmosférica.
+
+6 -...
+
+###### Artigo 12.º — [...]
+
+Após a publicação das portarias previstas no artigo 4.º, o DPPRI, com base na informação para o efeito disponibilizada pela Agência Portuguesa do Ambiente, transmite à Comissão da União Europeia:
+
+a) ...
+
+b) Os planos de melhoria da qualidade do ar e respectivos programas de execução, previstos no n.º 3 do artigo 9.º, o mais tardar no prazo de dois anos após o final do ano no decurso do qual se registaram as concentrações em questão;
+
+c) Os progressos registados na aplicação dos planos e programas de execução, de três em três anos;
+
+d) ...
+
+e) ...
+
+f) ...»
+
+2 - O anexo iv do Decreto-Lei n.º 276/99, de 23 de Julho, passa a ter seguinte redacção:
+
+«ANEXO IV
+
+Informações a incluir no âmbito do n.º 3 do artigo 9.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - Informação sobre as medidas, planos de melhoria da qualidade do ar e respectivos programas de execução adoptados com vista a reduzir a poluição, na sequência da entrada em vigor do presente decreto-lei:
+
+a) Enumeração e descrição de todas as medidas previstas nos planos e respectivos programas de execução;
+
+b) Calendário da sua aplicação;
+
+c) Estimativa da melhoria da qualidade do ar planeada ou do prazo previsto para a realização de tais objectivos.
+
+9 - Informações sobre as medidas, planos de melhoria da qualidade do ar e respectivos programas de execução, previstos ou planeados.
+
+10 - ....»
+
+###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 276/99, de 23 de Julho
+
+São aditados os artigos 9.º-A, 9.º-B e 9.º-C ao Decreto-Lei n.º 276/99, de 23 de Julho, com a seguinte redacção:
+
+«Artigo 9.º-A
+
+Aprovação dos planos de melhoria da qualidade do ar
+
+Os planos de melhoria da qualidade do ar elaborados pelas CCDR em cumprimento do disposto no n.º 3 do artigo anterior são, após audição das entidades envolvidas, submetidos à tutela para aprovação através de portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente, das autarquias locais e pelas áreas de execução das medidas neles previstas.
+
+###### Artigo 9.º-B — Programas de execução dos planos de melhoria da qualidade do ar
+
+1 - No prazo máximo de seis meses a contar da publicação da portaria referida no artigo anterior, a CCDR apresenta uma proposta de programa de execução do respectivo plano de melhoria da qualidade do ar, competindo-lhe:
+
+a) Analisar as medidas constantes do plano aprovado através da ponderação custo-benefício e custo-eficácia das mesmas e da definição das acções a realizar para a sua concretização;
+
+b) Hierarquizar e calendarizar as medidas a incluir na proposta de programa de execução do plano, bem como identificar as entidades responsáveis pela sua execução;
+
+c) Fixar os indicadores adequados para monitorizar a eficácia das medidas adoptadas;
+
+d) Avaliar os resultados obtidos e, caso necessário, reavaliar as medidas em curso, propondo alterações às mesmas ou novas medidas.
+
+2 - Para os efeitos previstos no número anterior, a CCDR promove a consulta das entidades identificadas como responsáveis pela execução das medidas a incluir na proposta de programa, sendo que, no caso de medidas da responsabilidade dos municípios, as mesmas estão sujeitas a prévia aprovação pela câmara municipal ou, quando tenha âmbito supramunicipal, pelo órgão executivo da associação de municípios territorialmente competente.
+
+3 - As entidades consultadas pela CCDR devem compilar e disponibilizar-lhe, sempre que solicitado, toda a informação relevante em matérias da sua competência.
+
+4 - Sempre que necessário, a CCDR pode solicitar a participação da Agência Portuguesa do Ambiente de modo a assegurar a articulação com as entidades responsáveis por políticas e medidas de nível nacional.
+
+###### Artigo 9.º-C — Aprovação dos programas de execução
+
+1 - As propostas de programas de execução referidas no artigo anterior são submetidas pela CCDR à tutela, sendo tais programas aprovados por despacho conjunto dos membros do Governo responsáveis pela área do ambiente e pelas áreas de execução das medidas neles previstas.
+
+2 - As medidas constantes dos programas aprovados nos termos do número anterior são de execução obrigatória pelas entidades aí identificadas como responsáveis.
+
+3 - Os trabalhos necessários à concretização dos programas de execução podem ser objecto de protocolos entre a CCDR e os municípios ou as entidades identificadas como responsáveis.»
+
+###### Artigo 3.º — Actualização de referências
+
+Todas as referências feitas no Decreto-Lei n.º 276/99, de 23 de Julho, à Direcção-Geral do Ambiente (DGA), às direcções regionais do ambiente (DRA) e ao Gabinete de Relações Internacionais do Ministério do Ambiente consideram-se realizadas à Agência Portuguesa do Ambiente (APA), às comissões de coordenação e desenvolvimento regional (CCDR) e ao Departamento de Prospectiva e Planeamento e Relações Internacionais (DPPRI) do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, respectivamente.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia.
+
+**Promulgado em 10 de Julho de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 16 de Julho de 2007.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

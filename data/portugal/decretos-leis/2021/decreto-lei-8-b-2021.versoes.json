@@ -1,0 +1,582 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:154946852:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-154946874",
+ "dre_path": "/dr/detalhe/decreto-lei/8-b-2021-154946852",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202283289",
+    "154789526",
+    "154789527",
+    "154789528",
+    "154789529",
+    "154789530",
+    "154789531",
+    "154789532",
+    "154789533"
+   ]
+  },
+  {
+   "date": "2021-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158054819:por",
+     "title": "Decreto-Lei n.º 14-B/2021",
+     "published": "2021-02-22",
+     "dre_path": "/dr/detalhe/decreto-lei/14-b-2021-158054819"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "154789525",
+    "154789526",
+    "154789527",
+    "202231355",
+    "154789529",
+    "154789530",
+    "154789531",
+    "154789532",
+    "154789533",
+    "154789534"
+   ]
+  },
+  {
+   "date": "2021-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160994172:por",
+     "title": "Lei n.º 16/2021",
+     "published": "2021-04-07",
+     "dre_path": "/dr/detalhe/lei/16-2021-160994172"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Artigo 4.º-C",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "154789525",
+    "202231356",
+    "154789527",
+    "202231357",
+    "202231359",
+    "202231360",
+    "202231366",
+    "202283278",
+    "202283279",
+    "202283280",
+    "202283281",
+    "202283282",
+    "202283283",
+    "202283284"
+   ]
+  },
+  {
+   "date": "2021-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175043500:por",
+     "title": "Decreto-Lei n.º 104/2021",
+     "published": "2021-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/104-2021-175043500"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "154789525",
+    "202231356",
+    "202283285",
+    "202283286",
+    "202231359",
+    "202231360",
+    "202231366",
+    "202283278",
+    "202283279",
+    "202283280",
+    "202283281",
+    "202283282",
+    "202283283",
+    "202283284"
+   ]
+  },
+  {
+   "date": "2021-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176412619:por",
+     "title": "Decreto-Lei n.º 119-A/2021",
+     "published": "2021-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/119-a-2021-176412619"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "154789525",
+    "202231356",
+    "202283285",
+    "202283288",
+    "202231359",
+    "202231360",
+    "202231366",
+    "202283278",
+    "202283279",
+    "202283280",
+    "202283281",
+    "202283282",
+    "202283283",
+    "202283284"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:176492316:por",
+     "title": "Decreto-Lei n.º 119-B/2021",
+     "published": "2021-12-23",
+     "dre_path": "/dr/detalhe/decreto-lei/119-b-2021-176492316",
+     "date": "2021-12-24"
+    }
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202283289",
+    "202283290",
+    "202283291",
+    "202283292",
+    "202283293",
+    "202283294",
+    "202283295",
+    "202283296",
+    "202283297",
+    "202283298",
+    "202283299",
+    "202283300",
+    "202283301",
+    "202283302"
+   ]
+  }
+ ],
+ "fragments": {
+  "202283289": {
+   "fragment_id": "155073475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 8-B/2021\n\nde 22 de janeiro\n\nSumário: Estabelece um conjunto de medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais.\n\nA situação excecional que se vive no momento atual e a proliferação de casos registados de contágio da doença COVID-19 exige a aplicação de medidas extraordinárias e de caráter urgente com o intuito de conter a transmissão do vírus e a diminuir a expansão da pandemia.\n\nCom vista a procurar inverter o crescimento acelerado da pandemia, o Governo decretou a suspensão das atividades letivas e não letivas pelo período de 15 dias.\n\nPara permitir o necessário acompanhamento das crianças, o Governo volta, para tanto, a definir como justificadas as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência determinada por via legislativa ou administrativa de fonte governamental. Assim, para o ano letivo de 2020-2021, passam a considerar-se faltas justificadas as ausências ao trabalho no referido âmbito durante os períodos de interrupção letiva ou fora deles, de acordo com o calendário escolar fixado nos anexos II e IV ao Despacho n.º 6906-B/2020, publicado no Diário da República, 2.ª série, n.º 128, de 3 de julho, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho.\n\nConjuntamente, na sequência da suspensão das atividades letivas e não letivas presenciais, o Governo decide recuperar as medidas de apoio à família e ao acompanhamento de crianças criadas através do Decreto-Lei n.º 10-A/2020, de 13 de março, permitindo, nos mesmos moldes que no regime anterior, o acesso ao apoio excecional à família para acompanhamento e assistência a filhos menores fora dos períodos de interrupção letiva, que não abrange o período fixado de férias letivas.\n\nAssim, os pais que tenham de faltar ao trabalho para prestar assistência inadiável a filho ou dependente a cargo têm direito a receber um apoio correspondente a 2/3 da sua remuneração base, com um limite mínimo de (euro) 665,00 e um limite máximo de (euro) 1995,00. Este apoio abrange os trabalhadores por conta de outrem, os trabalhadores independentes e os trabalhadores do serviço doméstico, não sendo, contudo, abrangidas as situações em que é possível a prestação de trabalho em regime de teletrabalho.\n\nAvaliadas as circunstâncias e atento o caráter urgente desta medida, o Governo entende ser necessário reforçar as condições atribuídas às famílias na prestação de assistência a filhos menores, permitindo, assim, o acesso ao apoio durante a suspensão letiva dos próximos 15 dias.\n\nBem assim, atenta a experiência resultante do confinamento decretado em março de 2020, o Governo entende ser prioritário reforçar as medidas de acompanhamento específico às crianças e jovens em situação de risco ou perigo.\n\nJá no âmbito das medidas de apoio à manutenção dos contratos de trabalho, o Governo vem clarificar o âmbito de acesso aos apoios previstos no Decreto-Lei n.º 46-A/2020, de 30 de julho. Nesse sentido, clarifica-se que, a partir de fevereiro de 2021, também o empregador que tenha acedido ao incentivo extraordinário à normalização da atividade empresarial previsto no Decreto-Lei n.º 27-B/2020, de 19 de junho, possa aceder ao apoio extraordinário à retoma progressiva de atividade ou ao apoio simplificado para microempresas, previstos no Decreto-Lei n.º 46-A/2020, de 30 de julho.\n\nPor fim, no âmbito do apoio à retoma progressiva de atividade, o governo vem reafirmar o compromisso de não haver custos para os empregadores no que ao aumento da compensação retributiva diz respeito, o que inclui as contribuições para a segurança social. Assim, clarifica-se que os valores adicionais à compensação retributiva, a cargo da segurança social e aplicáveis tanto no regime do lay-off, como no apoio extraordinário à retoma progressiva de atividade, não implicam encargos adicionais para as entidades empregadoras, não estando, por isso, sujeitos ao pagamento de contribuições para a segurança social.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 142.º da Lei n.º 75-B/2020, de 31 de dezembro, e nos termos do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, na sua redação atual, e das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "154789526": {
+   "fragment_id": "155073476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À criação de um regime excecional e temporário de faltas justificadas motivadas por assistência à família decorrentes de suspensões e interrupções letivas, no âmbito da pandemia da doença COVID-19;\n\nb) À quinta alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho, alterado pelos Decretos-Leis n.os 90/2020, de 19 de outubro, 98/2020, de 18 de novembro, 101-A/2020, de 27 de novembro, e 6-C/2021, de 15 de janeiro, que cria o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial com redução temporária do período normal de trabalho;\n\nc) À primeira alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro, que prorroga o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial."
+  },
+  "154789527": {
+   "fragment_id": "155073477",
+   "type": 11,
+   "heading": "Artigo 2.º — Faltas do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Faltas do trabalhador\n\n1 - Consideram-se justificadas, sem perda de direitos salvo quanto à retribuição, as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência determinada por via legislativa ou administrativa de fonte governamental, quando ocorridas nas seguintes situações:\n\na) Fora dos períodos de interrupção letiva fixados nos anexos II e IV ao Despacho n.º 6906-B/2020, publicado no Diário da República, 2.ª série, n.º 128, de 3 de julho, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho;\n\nb) Nos períodos de interrupção letiva fixados nos anexos II e IV ao Despacho n.º 6906-B/2020, publicado no Diário da República, 2.ª série, n.º 128, de 3 de julho, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho.\n\n2 - Para efeitos do disposto no número anterior, o trabalhador comunica a ausência nos termos do artigo 253.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n3 - As faltas previstas no presente artigo não contam para o limite anual previsto nos artigos 49.º, 50.º e 252.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual."
+  },
+  "154789528": {
+   "fragment_id": "155073478",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio excecional à família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apoio excecional à família\n\n1 - Nas situações referidas na alínea a) do n.º 1 do artigo anterior, o trabalhador por conta de outrem, o trabalhador independente e o trabalhador do regime de proteção social convergente têm direito, respetivamente, aos apoios excecionais à família previstos nos artigos 23.º a 25.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, com as necessárias adaptações, sendo considerado para efeitos de cálculo:\n\na) Para os trabalhadores por conta de outrem, a remuneração base declarada em dezembro de 2020;\n\nb) Para os trabalhadores do serviço doméstico, a remuneração registada no mês de dezembro de 2020;\n\nc) Para os trabalhadores independentes, a base de incidência contributiva mensualizada referente ao quarto trimestre de 2020.\n\n2 - Os referidos apoios não são cumuláveis com outros apoios excecionais ou extraordinários criados para resposta à pandemia da doença COVID-19.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 2.º da Lei n.º 16/2021, de 7 de abril, na parte em que altera o n.º 2 do artigo 3.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro; ressalva os efeitos produzidos pela norma declarada inconstitucional, até à publicação do Acórdão."
+  },
+  "154789529": {
+   "fragment_id": "155073479",
+   "type": 11,
+   "heading": "Artigo 4.º — Acompanhamento específico às crianças e jovens em situação de risco ou perigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acompanhamento específico às crianças e jovens em situação de risco ou perigo\n\n1 - No âmbito do acompanhamento e monitorização regular das crianças e jovens, sempre que se constate a existência de alguma situação de risco ou perigo, as escolas, em articulação com as Entidades com Competência em Matéria de Infância e Juventude, Comissões de Proteção de Crianças e Jovens e Equipas Multidisciplinares de Apoio Técnico aos Tribunais, organizam dinâmicas de acolhimento e de trabalho escolar, através da Equipa Multidisciplinar de Apoio à Educação Inclusiva, de modo a proporcionar-lhes as condições que permitam promover a sua segurança, formação, educação, bem-estar e desenvolvimento integral.\n\n2 - Para efeitos do disposto no número anterior, a escola deve providenciar os meios e as condições de segurança que lhes permitam a frequência de atividades letivas em regime presencial, consoante o ano de escolaridade frequentado.\n\n3 - O disposto nos números anteriores aplica-se em todos os ciclos de ensino (pré-escolar, 1.º, 2.º e 3.º ciclos), bem como nas respostas sociais de 1.ª infância (creche, creche familiar e amas), com as devidas adaptações."
+  },
+  "154789530": {
+   "fragment_id": "155073480",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho\n\nO artigo 15.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - O acesso aos apoios previstos no presente decreto-lei e o acesso ao incentivo extraordinário à normalização da atividade empresarial previsto no Decreto-Lei n.º 27-B/2020, de 19 de junho, na sua redação atual, excluem-se mutuamente, até janeiro de 2021, inclusive, procedendo o IEFP, I. P., e o serviço competente da segurança social à verificação de eventual acumulação indevida de apoios, simultânea ou sequencial, através de troca oficiosa de informação.\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]»"
+  },
+  "154789531": {
+   "fragment_id": "155073481",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro\n\nO artigo 5.º do Decreto-Lei n.º 6-C/2021, de 15 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [Anterior corpo do artigo.]\n\n2 - Os valores adicionais à compensação retributiva previstos no número anterior e no n.º 3 do artigo 6.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, não implicam encargos adicionais para as entidades empregadoras.»"
+  },
+  "154789532": {
+   "fragment_id": "155073482",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nSão revogados a alínea a) do n.º 1 do artigo 2.º e o artigo 2.º-A do Decreto-Lei n.º 10-K/2020, de 26 de março, na sua redação atual."
+  },
+  "154789533": {
+   "fragment_id": "155073483",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 22 de janeiro de 2021."
+  },
+  "154789525": {
+   "fragment_id": "155073475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 8-B/2021\n\nde 22 de janeiro\n\nSumário: Estabelece um conjunto de medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais.\n\nA situação excecional que se vive no momento atual e a proliferação de casos registados de contágio da doença COVID-19 exige a aplicação de medidas extraordinárias e de caráter urgente com o intuito de conter a transmissão do vírus e a diminuir a expansão da pandemia.\n\nCom vista a procurar inverter o crescimento acelerado da pandemia, o Governo decretou a suspensão das atividades letivas e não letivas pelo período de 15 dias.\n\nPara permitir o necessário acompanhamento das crianças, o Governo volta, para tanto, a definir como justificadas as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência determinada por via legislativa ou administrativa de fonte governamental. Assim, para o ano letivo de 2020-2021, passam a considerar-se faltas justificadas as ausências ao trabalho no referido âmbito durante os períodos de interrupção letiva ou fora deles, de acordo com o calendário escolar fixado nos anexos II e IV ao Despacho n.º 6906-B/2020, publicado no Diário da República, 2.ª série, n.º 128, de 3 de julho, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho.\n\nConjuntamente, na sequência da suspensão das atividades letivas e não letivas presenciais, o Governo decide recuperar as medidas de apoio à família e ao acompanhamento de crianças criadas através do Decreto-Lei n.º 10-A/2020, de 13 de março, permitindo, nos mesmos moldes que no regime anterior, o acesso ao apoio excecional à família para acompanhamento e assistência a filhos menores fora dos períodos de interrupção letiva, que não abrange o período fixado de férias letivas.\n\nAssim, os pais que tenham de faltar ao trabalho para prestar assistência inadiável a filho ou dependente a cargo têm direito a receber um apoio correspondente a 2/3 da sua remuneração base, com um limite mínimo de (euro) 665,00 e um limite máximo de (euro) 1995,00. Este apoio abrange os trabalhadores por conta de outrem, os trabalhadores independentes e os trabalhadores do serviço doméstico, não sendo, contudo, abrangidas as situações em que é possível a prestação de trabalho em regime de teletrabalho.\n\nAvaliadas as circunstâncias e atento o caráter urgente desta medida, o Governo entende ser necessário reforçar as condições atribuídas às famílias na prestação de assistência a filhos menores, permitindo, assim, o acesso ao apoio durante a suspensão letiva dos próximos 15 dias.\n\nBem assim, atenta a experiência resultante do confinamento decretado em março de 2020, o Governo entende ser prioritário reforçar as medidas de acompanhamento específico às crianças e jovens em situação de risco ou perigo.\n\nJá no âmbito das medidas de apoio à manutenção dos contratos de trabalho, o Governo vem clarificar o âmbito de acesso aos apoios previstos no Decreto-Lei n.º 46-A/2020, de 30 de julho. Nesse sentido, clarifica-se que, a partir de fevereiro de 2021, também o empregador que tenha acedido ao incentivo extraordinário à normalização da atividade empresarial previsto no Decreto-Lei n.º 27-B/2020, de 19 de junho, possa aceder ao apoio extraordinário à retoma progressiva de atividade ou ao apoio simplificado para microempresas, previstos no Decreto-Lei n.º 46-A/2020, de 30 de julho.\n\nPor fim, no âmbito do apoio à retoma progressiva de atividade, o governo vem reafirmar o compromisso de não haver custos para os empregadores no que ao aumento da compensação retributiva diz respeito, o que inclui as contribuições para a segurança social. Assim, clarifica-se que os valores adicionais à compensação retributiva, a cargo da segurança social e aplicáveis tanto no regime do lay-off, como no apoio extraordinário à retoma progressiva de atividade, não implicam encargos adicionais para as entidades empregadoras, não estando, por isso, sujeitos ao pagamento de contribuições para a segurança social.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 142.º da Lei n.º 75-B/2020, de 31 de dezembro, e nos termos do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, na sua redação atual, e das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "202231355": {
+   "fragment_id": "155073478",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio excecional à família",
+   "in_force_from": "2021-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 3.º — Apoio excecional à família\n\n1 - Nas situações referidas na alínea a) do n.º 1 do artigo anterior, o trabalhador por conta de outrem, o trabalhador independente e o trabalhador do regime de proteção social convergente têm direito, respetivamente, aos apoios excecionais à família previstos nos artigos 23.º a 25.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, com as necessárias adaptações, sendo considerado para efeitos de cálculo:\n\na) Para os trabalhadores por conta de outrem, a remuneração base declarada em dezembro de 2020;\n\nb) Para os trabalhadores do serviço doméstico, a remuneração registada no mês de dezembro de 2020;\n\nc) Para os trabalhadores independentes, a base de incidência contributiva mensualizada referente ao quarto trimestre de 2020.\n\n2 - O trabalhador que se encontre a exercer atividade em regime de teletrabalho tem também direito a beneficiar dos apoios excecionais à família previstos nos artigos 23.º a 25.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, quando opte por interromper a sua atividade para prestar assistência à família, nos termos e para os efeitos da alínea a) do n.º 1 do artigo anterior, e se encontre numa das seguintes situações:\n\na) A composição do seu agregado familiar seja monoparental, durante o período da guarda do filho ou outro dependente, que lhe esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito;\n\nb) O seu agregado familiar integre, pelo menos, um filho ou outro dependente, que lhe esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito, que frequente equipamento social de apoio à primeira infância, estabelecimento de ensino pré-escolar ou do primeiro ciclo do ensino básico;\n\nc) O seu agregado familiar integre, pelo menos, um dependente com deficiência, com incapacidade comprovada igual ou superior a 60 %, independentemente da idade.\n\n3 - Para efeitos do disposto no número anterior, o trabalhador comunica à entidade empregadora a sua opção por escrito, com a antecedência de três dias relativamente à data de interrupção.\n\n4 - O valor da parcela paga pela segurança social, no âmbito do respetivo apoio, é aumentado de modo a assegurar 100 %, respetivamente, do valor da remuneração base, da remuneração registada ou da base de incidência contributiva mensualizada, até aos limites previstos no n.º 2 do artigo 23.º e no n.º 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, quando o trabalhador se encontre numa das seguintes situações:\n\na) A composição do seu agregado familiar seja monoparental e o filho, ou outro dependente que esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito, seja beneficiário da majoração do abono para família monoparental;\n\nb) Os dois progenitores beneficiem do apoio, semanalmente de forma alternada.\n\n5 - Para efeitos do disposto no n.º 2 e no número anterior, o trabalhador declara perante a sua entidade empregadora, por escrito e sob compromisso de honra, que se encontra, respetivamente, numa das situações referidas naqueles números.\n\n6 - As entidades empregadoras, no que diz respeito ao valor da parcela adicional referida no n.º 4, estão isentas do pagamento de contribuições para a segurança social da sua responsabilidade.\n\n7 - Os apoios referidos no presente artigo não são cumuláveis com outros apoios excecionais ou extraordinários criados para resposta à pandemia da doença COVID-19.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+  },
+  "154789534": {
+   "fragment_id": "155073484",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Miguel Filipe Pardal Cabrita.\n\nPromulgado em 21 de janeiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de janeiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113910562"
+  },
+  "202231356": {
+   "fragment_id": "155073476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À criação de um regime excecional e temporário de faltas justificadas motivadas por assistência à família decorrentes de suspensões e interrupções letivas, no âmbito da pandemia da doença COVID-19;\n\nb) À vigésima nona alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19;\n\nc) À quinta alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho, alterado pelos Decretos-Leis n.os 90/2020, de 19 de outubro, 98/2020, de 18 de novembro, 101-A/2020, de 27 de novembro, e 6-C/2021, de 15 de janeiro, que cria o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial com redução temporária do período normal de trabalho;\n\nd) À primeira alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro, que prorroga o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202231357": {
+   "fragment_id": "155073478",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio excecional à família",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 3.º — Apoio excecional à família\n\n1 - Nas situações referidas na alínea a) do n.º 1 do artigo anterior, o trabalhador por conta de outrem, o trabalhador independente e o trabalhador do regime de proteção social convergente têm direito, respetivamente, aos apoios excecionais à família previstos nos artigos 23.º a 25.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, com as necessárias adaptações, sendo considerado para efeitos de cálculo:\n\na) Para os trabalhadores por conta de outrem, a remuneração base declarada em dezembro de 2020;\n\nb) Para os trabalhadores do serviço doméstico, a remuneração registada no mês de dezembro de 2020;\n\nc) Para os trabalhadores independentes, a base de incidência contributiva mensualizada referente ao quarto trimestre de 2020.\n\n2 - O regime em vigor tem as seguintes adaptações:\n\na) Nas famílias monoparentais com filho ou dependente a cargo, menor de 12 anos, o progenitor pode optar pelo regime de teletrabalho ou pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho;\n\nb) Nas famílias com pelo menos um filho ou dependente a cargo, menor de 12 anos, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho;\n\nc) Nas famílias com filhos ou dependentes com deficiência ou doença crónica, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho.\n\n3 - Para efeitos do disposto no número anterior, o trabalhador comunica à entidade empregadora a sua opção por escrito, com a antecedência de três dias relativamente à data de interrupção.\n\n4 - O valor da parcela paga pela segurança social, no âmbito do respetivo apoio, é aumentado de modo a assegurar 100 %, respetivamente, do valor da remuneração base, da remuneração registada ou da base de incidência contributiva mensualizada, até aos limites previstos no n.º 2 do artigo 23.º e no n.º 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, quando o trabalhador se encontre numa das seguintes situações:\n\na) A composição do seu agregado familiar seja monoparental e o filho, ou outro dependente que esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito, seja beneficiário da majoração do abono para família monoparental;\n\nb) Os dois progenitores beneficiem do apoio, semanalmente de forma alternada.\n\n5 - Para efeitos do disposto no n.º 2 e no número anterior, o trabalhador declara perante a sua entidade empregadora, por escrito e sob compromisso de honra, que se encontra, respetivamente, numa das situações referidas naqueles números.\n\n6 - As entidades empregadoras, no que diz respeito ao valor da parcela adicional referida no n.º 4, estão isentas do pagamento de contribuições para a segurança social da sua responsabilidade.\n\n7 - Os apoios referidos no presente artigo não são cumuláveis com outros apoios excecionais ou extraordinários criados para resposta à pandemia da doença COVID-19.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+  },
+  "202231359": {
+   "fragment_id": "202234159",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Acolhimento de filhos ou dependentes a cargo de pessoal docente",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 3.º-A — Acolhimento de filhos ou dependentes a cargo de pessoal docente\n\nO pessoal docente, cuja atividade letiva seja desenvolvida em tempo real e que permita a interação online, pode recorrer aos estabelecimentos de ensino, creches, creches familiares ou amas, previstos na Portaria n.º 25-A/2021, de 29 de janeiro, exclusivamente para efeitos de acolhimento de filhos ou outros dependentes a cargo.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202231360": {
+   "fragment_id": "155073479",
+   "type": 11,
+   "heading": "Artigo 4.º — Acompanhamento específico às crianças e jovens em situação de risco ou perigo",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º — Acompanhamento específico às crianças e jovens em situação de risco ou perigo\n\n1 - No âmbito do acompanhamento e monitorização regular das crianças e jovens, sempre que se constate a existência de alguma situação de risco ou perigo, as escolas, em articulação com as Entidades com Competência em Matéria de Infância e Juventude, Comissões de Proteção de Crianças e Jovens e Equipas Multidisciplinares de Apoio Técnico aos Tribunais, organizam dinâmicas de acolhimento e de trabalho escolar, através da Equipa Multidisciplinar de Apoio à Educação Inclusiva, de modo a proporcionar-lhes as condições que permitam promover a sua segurança, formação, educação, bem-estar e desenvolvimento integral.\n\n2 - Para efeitos do disposto no número anterior, a escola deve providenciar os meios e as condições de segurança que lhes permitam a frequência de atividades letivas em regime presencial, consoante o ano de escolaridade frequentado.\n\n3 - O disposto nos números anteriores aplica-se em todos os ciclos de ensino (pré-escolar, 1.º, 2.º e 3.º ciclos), bem como nas respostas sociais de 1.ª infância (creche, creche familiar e amas), com as devidas adaptações.\n\n4 - Sem prejuízo do apoio previsto no n.º 4 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, os agrupamentos de escolas e escolas não agrupadas da rede pública de ensino tomam as medidas necessárias para a prestação de apoios alimentares a todos os alunos beneficiários do escalão C da ação social escolar e aos alunos que, não sendo beneficiários dos apoios alimentares no âmbito da ação social escolar, necessitem desse apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202231366": {
+   "fragment_id": "202234160",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Proibição de anulação de matrícula ou cobrança de juros ou penalidades por falta ou atraso no pagamento das mensalidades",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º-A — Proibição de anulação de matrícula ou cobrança de juros ou penalidades por falta ou atraso no pagamento das mensalidades\n\n1 - Não é permitido às instituições responsáveis por equipamentos de apoio à infância, educação ou ensino anular a matrícula nem cobrar juros ou qualquer outra penalidade por falta ou atraso no pagamento de mensalidade quando os utentes demonstrem existir quebra do seu rendimento mensal.\n\n2 - Para os efeitos previstos no número anterior, a prova do rendimento pode ser feita por qualquer meio legalmente admissível, nomeadamente pelo registo de remunerações junto da Segurança Social.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283278": {
+   "fragment_id": "202234162",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Plano de pagamento",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º-B — Plano de pagamento\n\n1 - Nas situações em que se constituam dívidas relativas a mensalidades devidas após a determinação das medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 é elaborado um plano de pagamento.\n\n2 - O plano de pagamento referido no número anterior é definido entre a instituição e os utentes, podendo iniciar-se no segundo mês posterior ao da cessação das medidas referidas no número anterior, a requerimento do utente.\n\n3 - Salvo acordo expresso do utente em sentido diferente, as prestações previstas no plano de pagamento não podem exceder o montante mensal de 1/12 do valor em dívida.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283279": {
+   "fragment_id": "202234161",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º-C — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março\n\nOs artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, passam a ter a seguinte redação:\n\n'Artigo 23.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Salvo o disposto no n.º 9, sobre o apoio incide a quotização do trabalhador e 50 % da contribuição social da entidade empregadora, devendo o mesmo ser objeto de declaração de remunerações autónoma.\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)\n\n10 - (Anterior n.º 8.)\n\n11 - (Anterior n.º 9.)\n\nArtigo 24.º\n\n[...]\n\n1 - [...].\n\n2 - O valor do apoio é correspondente à totalidade da base de incidência contributiva mensualizada referente ao primeiro trimestre de 2020.\n\n3 - O apoio a que se refere os números anteriores tem por limite mínimo 1 Indexante de Apoios Sociais (IAS) e máximo de 3 IAS, não podendo, em qualquer caso, exceder o montante da remuneração registada como base de incidência contributiva.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)'\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283280": {
+   "fragment_id": "155073480",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho\n\nO artigo 15.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - O acesso aos apoios previstos no presente decreto-lei e o acesso ao incentivo extraordinário à normalização da atividade empresarial previsto no Decreto-Lei n.º 27-B/2020, de 19 de junho, na sua redação atual, excluem-se mutuamente, até janeiro de 2021, inclusive, procedendo o IEFP, I. P., e o serviço competente da segurança social à verificação de eventual acumulação indevida de apoios, simultânea ou sequencial, através de troca oficiosa de informação.\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]»"
+  },
+  "202283281": {
+   "fragment_id": "155073481",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro\n\nO artigo 5.º do Decreto-Lei n.º 6-C/2021, de 15 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [Anterior corpo do artigo.]\n\n2 - Os valores adicionais à compensação retributiva previstos no número anterior e no n.º 3 do artigo 6.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, não implicam encargos adicionais para as entidades empregadoras.»"
+  },
+  "202283282": {
+   "fragment_id": "155073482",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nSão revogados a alínea a) do n.º 1 do artigo 2.º e o artigo 2.º-A do Decreto-Lei n.º 10-K/2020, de 26 de março, na sua redação atual."
+  },
+  "202283283": {
+   "fragment_id": "155073483",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 22 de janeiro de 2021."
+  },
+  "202283284": {
+   "fragment_id": "155073484",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Miguel Filipe Pardal Cabrita.\n\nPromulgado em 21 de janeiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de janeiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113910562"
+  },
+  "202283285": {
+   "fragment_id": "155073477",
+   "type": 11,
+   "heading": "Artigo 2.º — Faltas do trabalhador",
+   "in_force_from": "2021-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 2.º — Faltas do trabalhador\n\n1 - Consideram-se justificadas, sem perda de direitos, salvo quanto à retribuição, as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência determinada por via legislativa ou administrativa de fonte governamental, quando ocorridas nas seguintes situações:\n\na) Fora dos períodos de interrupção letiva fixados nos anexos ii e iv ao Despacho n.º 6726-A/2021, publicado no Diário da República, 2.ª série, n.º 131, suplemento, de 8 de julho de 2021, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho;\n\nb) Nos períodos de interrupção letiva fixados nos anexos ii e iv ao Despacho n.º 6726-A/2021, publicado no Diário da República, 2.ª série, n.º 131, suplemento, de 8 de julho de 2021, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho.\n\n2 - Para efeitos do disposto no número anterior, o trabalhador comunica a ausência nos termos do artigo 253.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n3 - As faltas previstas no presente artigo não contam para o limite anual previsto nos artigos 49.º, 50.º e 252.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01"
+  },
+  "202283286": {
+   "fragment_id": "155073478",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio excecional à família",
+   "in_force_from": "2021-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 3.º — Apoio excecional à família\n\n1 - Nas situações referidas na alínea a) do n.º 1 do artigo anterior, o trabalhador por conta de outrem, o trabalhador independente e o trabalhador do regime de proteção social convergente têm direito, respetivamente, aos apoios excecionais à família previstos nos artigos 23.º a 25.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, com as necessárias adaptações, sendo considerado para efeitos de cálculo:\n\na) Para os trabalhadores por conta de outrem, a remuneração base declarada em outubro de 2021;\n\nb) Para os trabalhadores do serviço doméstico, a remuneração registada no mês de outubro de 2021;\n\nc) Para os trabalhadores independentes, a base de incidência contributiva mensualizada referente ao 3.º trimestre de 2021.\n\n2 - O regime em vigor tem as seguintes adaptações:\n\na) Nas famílias monoparentais com filho ou dependente a cargo, menor de 12 anos, o progenitor pode optar pelo regime de teletrabalho ou pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho;\n\nb) Nas famílias com pelo menos um filho ou dependente a cargo, menor de 12 anos, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho;\n\nc) Nas famílias com filhos ou dependentes com deficiência ou doença crónica, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho.\n\n3 - Para efeitos do disposto no número anterior, o trabalhador comunica à entidade empregadora a sua opção por escrito, com a antecedência de três dias relativamente à data de interrupção.\n\n4 - O valor da parcela paga pela segurança social, no âmbito do respetivo apoio, é aumentado de modo a assegurar 100 %, respetivamente, do valor da remuneração base, da remuneração registada ou da base de incidência contributiva mensualizada, até aos limites previstos no n.º 2 do artigo 23.º e no n.º 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, quando o trabalhador se encontre numa das seguintes situações:\n\na) A composição do seu agregado familiar seja monoparental e o filho, ou outro dependente que esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito, seja beneficiário da majoração do abono para família monoparental;\n\nb) Os dois progenitores beneficiem do apoio, semanalmente de forma alternada.\n\n5 - Para efeitos do disposto no n.º 2 e no número anterior, o trabalhador declara perante a sua entidade empregadora, por escrito e sob compromisso de honra, que se encontra, respetivamente, numa das situações referidas naqueles números.\n\n6 - As entidades empregadoras, no que diz respeito ao valor da parcela adicional referida no n.º 4, estão isentas do pagamento de contribuições para a segurança social da sua responsabilidade.\n\n7 - Os apoios referidos no presente artigo não são cumuláveis com outros apoios excecionais ou extraordinários criados para resposta à pandemia da doença COVID-19.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 2.º da Lei n.º 16/2021, de 7 de abril, na parte em que altera o n.º 2 do artigo 3.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro; ressalva os efeitos produzidos pela norma declarada inconstitucional, até à publicação do Acórdão.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+  },
+  "202283288": {
+   "fragment_id": "155073478",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio excecional à família",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 3.º — Apoio excecional à família\n\n1 - Nas situações referidas na alínea a) do n.º 1 do artigo anterior, bem como durante o período de 2 a 9 de janeiro de 2022, o trabalhador por conta de outrem, o trabalhador independente e o trabalhador do regime de proteção social convergente, ainda que em regime de teletrabalho nos termos do número seguinte, têm direito, respetivamente, aos apoios excecionais à família previstos nos artigos 23.º a 25.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, com as necessárias adaptações, sendo considerado para efeitos de cálculo:\n\n2 - O regime em vigor tem as seguintes adaptações:\n\na) Nas famílias monoparentais com filho ou dependente a cargo, menor de 12 anos, o progenitor pode optar pelo regime de teletrabalho ou pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho;\n\nb) Nas famílias com pelo menos um filho ou dependente a cargo, menor de 12 anos, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho;\n\nc) Nas famílias com filhos ou dependentes com deficiência ou doença crónica, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho.\n\n3 - Para efeitos do disposto no número anterior, o trabalhador comunica à entidade empregadora a sua opção por escrito, com a antecedência de três dias relativamente à data de interrupção.\n\n4 - O valor da parcela paga pela segurança social, no âmbito do respetivo apoio, é aumentado de modo a assegurar 100 %, respetivamente, do valor da remuneração base, da remuneração registada ou da base de incidência contributiva mensualizada, até aos limites previstos no n.º 2 do artigo 23.º e no n.º 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, quando o trabalhador se encontre numa das seguintes situações:\n\na) A composição do seu agregado familiar seja monoparental e o filho, ou outro dependente que esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito, seja beneficiário da majoração do abono para família monoparental;\n\nb) Os dois progenitores beneficiem do apoio, semanalmente de forma alternada.\n\n5 - Para efeitos do disposto no n.º 2 e no número anterior, o trabalhador declara perante a sua entidade empregadora, por escrito e sob compromisso de honra, que se encontra, respetivamente, numa das situações referidas naqueles números.\n\n6 - As entidades empregadoras, no que diz respeito ao valor da parcela adicional referida no n.º 4, estão isentas do pagamento de contribuições para a segurança social da sua responsabilidade.\n\n7 - Os apoios referidos no presente artigo não são cumuláveis com outros apoios excecionais ou extraordinários criados para resposta à pandemia da doença COVID-19.\n\n8 - O disposto no n.º 1 é ainda aplicável, no período de 27 a 31 de dezembro de 2021, durante a suspensão:\n\na) Das atividades de apoio à primeira infância de creches, creche familiar e amas, as atividades de apoio social desenvolvidas em centro de atividades e capacitação para a inclusão, e centro de atividades de tempos livres;\n\nb) Das atividades letivas e não letivas previstas para os estabelecimentos particulares de ensino especial a que se refere o Despacho n.º 12123-M/2021, publicado no Diário da República, 2.ª série, n.º 239, de 13 de dezembro de 2021;\n\nc) Das atividades educativas, letivas e não letivas, incluindo de animação e apoio à família, dos estabelecimentos da educação pré-escolar e do primeiro e segundo ciclos do ensino básico, em estabelecimentos cujo funcionamento se encontrasse previsto para este período.\n\n9 - Para efeitos do disposto na alínea b) do n.º 4, durante o período de 27 a 31 de dezembro de 2021, nos casos previstos no número anterior, bem como de 2 a 9 de janeiro de 2022, considera-se a existência de forma alternada quando:\n\na) Em períodos iguais ou superiores a quatro dias e inferiores a sete, cada um dos progenitores beneficie do apoio, pelo menos, dois dias;\n\nb) Em períodos inferiores a quatro dias, um dos progenitores beneficie do apoio, pelo menos, dois dias, e o outro, pelo menos um dia.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 2.º da Lei n.º 16/2021, de 7 de abril, na parte em que altera o n.º 2 do artigo 3.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro; ressalva os efeitos produzidos pela norma declarada inconstitucional, até à publicação do Acórdão.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+  },
+  "202283290": {
+   "fragment_id": "155073476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À criação de um regime excecional e temporário de faltas justificadas motivadas por assistência à família decorrentes de suspensões e interrupções letivas, no âmbito da pandemia da doença COVID-19;\n\nb) À vigésima nona alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19;\n\nc) À quinta alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho, alterado pelos Decretos-Leis n.os 90/2020, de 19 de outubro, 98/2020, de 18 de novembro, 101-A/2020, de 27 de novembro, e 6-C/2021, de 15 de janeiro, que cria o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial com redução temporária do período normal de trabalho;\n\nd) À primeira alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro, que prorroga o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283291": {
+   "fragment_id": "155073477",
+   "type": 11,
+   "heading": "Artigo 2.º — Faltas do trabalhador",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 2.º — Faltas do trabalhador\n\n1 - Consideram-se justificadas, sem perda de direitos, salvo quanto à retribuição, as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência determinada por via legislativa ou administrativa de fonte governamental, quando ocorridas nas seguintes situações:\n\na) Fora dos períodos de interrupção letiva fixados nos anexos ii e iv ao Despacho n.º 6726-A/2021, publicado no Diário da República, 2.ª série, n.º 131, suplemento, de 8 de julho de 2021, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho;\n\nb) Nos períodos de interrupção letiva fixados nos anexos ii e iv ao Despacho n.º 6726-A/2021, publicado no Diário da República, 2.ª série, n.º 131, suplemento, de 8 de julho de 2021, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho.\n\n2 - Para efeitos do disposto no número anterior, o trabalhador comunica a ausência nos termos do artigo 253.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n3 - As faltas previstas no presente artigo não contam para o limite anual previsto nos artigos 49.º, 50.º e 252.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01"
+  },
+  "202283292": {
+   "fragment_id": "155073478",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio excecional à família",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 3.º — Apoio excecional à família\n\n1 - Nas situações referidas na alínea a) do n.º 1 do artigo anterior, bem como durante o período de 2 a 9 de janeiro de 2022, o trabalhador por conta de outrem, o trabalhador independente e o trabalhador do regime de proteção social convergente, ainda que em regime de teletrabalho nos termos do número seguinte, têm direito, respetivamente, aos apoios excecionais à família previstos nos artigos 23.º a 25.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, com as necessárias adaptações, sendo considerado para efeitos de cálculo:\n\n2 - O regime em vigor tem as seguintes adaptações:\n\na) Nas famílias monoparentais com filho ou dependente a cargo, menor de 12 anos, o progenitor pode optar pelo regime de teletrabalho ou pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho;\n\nb) Nas famílias com pelo menos um filho ou dependente a cargo, menor de 12 anos, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho;\n\nc) Nas famílias com filhos ou dependentes com deficiência ou doença crónica, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho.\n\n3 - Para efeitos do disposto no número anterior, o trabalhador comunica à entidade empregadora a sua opção por escrito, com a antecedência de três dias relativamente à data de interrupção.\n\n4 - O valor da parcela paga pela segurança social, no âmbito do respetivo apoio, é aumentado de modo a assegurar 100 %, respetivamente, do valor da remuneração base, da remuneração registada ou da base de incidência contributiva mensualizada, até aos limites previstos no n.º 2 do artigo 23.º e no n.º 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, quando o trabalhador se encontre numa das seguintes situações:\n\na) A composição do seu agregado familiar seja monoparental e o filho, ou outro dependente que esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito, seja beneficiário da majoração do abono para família monoparental;\n\nb) Os dois progenitores beneficiem do apoio, semanalmente de forma alternada.\n\n5 - Para efeitos do disposto no n.º 2 e no número anterior, o trabalhador declara perante a sua entidade empregadora, por escrito e sob compromisso de honra, que se encontra, respetivamente, numa das situações referidas naqueles números.\n\n6 - As entidades empregadoras, no que diz respeito ao valor da parcela adicional referida no n.º 4, estão isentas do pagamento de contribuições para a segurança social da sua responsabilidade.\n\n7 - Os apoios referidos no presente artigo não são cumuláveis com outros apoios excecionais ou extraordinários criados para resposta à pandemia da doença COVID-19.\n\n8 - O disposto no n.º 1 é ainda aplicável, no período de 27 a 31 de dezembro de 2021, durante a suspensão:\n\na) Das atividades de apoio à primeira infância de creches, creche familiar e amas, as atividades de apoio social desenvolvidas em centro de atividades e capacitação para a inclusão, e centro de atividades de tempos livres;\n\nb) Das atividades letivas e não letivas previstas para os estabelecimentos particulares de ensino especial a que se refere o Despacho n.º 12123-M/2021, publicado no Diário da República, 2.ª série, n.º 239, de 13 de dezembro de 2021;\n\nc) Das atividades educativas, letivas e não letivas, incluindo de animação e apoio à família, dos estabelecimentos da educação pré-escolar e do primeiro e segundo ciclos do ensino básico, em estabelecimentos cujo funcionamento se encontrasse previsto para este período.\n\n9 - Para efeitos do disposto na alínea b) do n.º 4, durante o período de 27 a 31 de dezembro de 2021, nos casos previstos no número anterior, bem como de 2 a 9 de janeiro de 2022, considera-se a existência de forma alternada quando:\n\na) Em períodos iguais ou superiores a quatro dias e inferiores a sete, cada um dos progenitores beneficie do apoio, pelo menos, dois dias;\n\nb) Em períodos inferiores a quatro dias, um dos progenitores beneficie do apoio, pelo menos, dois dias, e o outro, pelo menos um dia.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 2.º da Lei n.º 16/2021, de 7 de abril, na parte em que altera o n.º 2 do artigo 3.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro; ressalva os efeitos produzidos pela norma declarada inconstitucional, até à publicação do Acórdão.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-B/2021 - Diário da República n.º 36/2021, 1º Suplemento, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2021-158054819), em vigor a partir de 2021-02-23"
+  },
+  "202283293": {
+   "fragment_id": "202234159",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Acolhimento de filhos ou dependentes a cargo de pessoal docente",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 3.º-A — Acolhimento de filhos ou dependentes a cargo de pessoal docente\n\nO pessoal docente, cuja atividade letiva seja desenvolvida em tempo real e que permita a interação online, pode recorrer aos estabelecimentos de ensino, creches, creches familiares ou amas, previstos na Portaria n.º 25-A/2021, de 29 de janeiro, exclusivamente para efeitos de acolhimento de filhos ou outros dependentes a cargo.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283294": {
+   "fragment_id": "155073479",
+   "type": 11,
+   "heading": "Artigo 4.º — Acompanhamento específico às crianças e jovens em situação de risco ou perigo",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º — Acompanhamento específico às crianças e jovens em situação de risco ou perigo\n\n1 - No âmbito do acompanhamento e monitorização regular das crianças e jovens, sempre que se constate a existência de alguma situação de risco ou perigo, as escolas, em articulação com as Entidades com Competência em Matéria de Infância e Juventude, Comissões de Proteção de Crianças e Jovens e Equipas Multidisciplinares de Apoio Técnico aos Tribunais, organizam dinâmicas de acolhimento e de trabalho escolar, através da Equipa Multidisciplinar de Apoio à Educação Inclusiva, de modo a proporcionar-lhes as condições que permitam promover a sua segurança, formação, educação, bem-estar e desenvolvimento integral.\n\n2 - Para efeitos do disposto no número anterior, a escola deve providenciar os meios e as condições de segurança que lhes permitam a frequência de atividades letivas em regime presencial, consoante o ano de escolaridade frequentado.\n\n3 - O disposto nos números anteriores aplica-se em todos os ciclos de ensino (pré-escolar, 1.º, 2.º e 3.º ciclos), bem como nas respostas sociais de 1.ª infância (creche, creche familiar e amas), com as devidas adaptações.\n\n4 - Sem prejuízo do apoio previsto no n.º 4 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, os agrupamentos de escolas e escolas não agrupadas da rede pública de ensino tomam as medidas necessárias para a prestação de apoios alimentares a todos os alunos beneficiários do escalão C da ação social escolar e aos alunos que, não sendo beneficiários dos apoios alimentares no âmbito da ação social escolar, necessitem desse apoio.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283295": {
+   "fragment_id": "202234160",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Proibição de anulação de matrícula ou cobrança de juros ou penalidades por falta ou atraso no pagamento das mensalidades",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º-A — Proibição de anulação de matrícula ou cobrança de juros ou penalidades por falta ou atraso no pagamento das mensalidades\n\n1 - Não é permitido às instituições responsáveis por equipamentos de apoio à infância, educação ou ensino anular a matrícula nem cobrar juros ou qualquer outra penalidade por falta ou atraso no pagamento de mensalidade quando os utentes demonstrem existir quebra do seu rendimento mensal.\n\n2 - Para os efeitos previstos no número anterior, a prova do rendimento pode ser feita por qualquer meio legalmente admissível, nomeadamente pelo registo de remunerações junto da Segurança Social.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283296": {
+   "fragment_id": "202234162",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Plano de pagamento",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º-B — Plano de pagamento\n\n1 - Nas situações em que se constituam dívidas relativas a mensalidades devidas após a determinação das medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 é elaborado um plano de pagamento.\n\n2 - O plano de pagamento referido no número anterior é definido entre a instituição e os utentes, podendo iniciar-se no segundo mês posterior ao da cessação das medidas referidas no número anterior, a requerimento do utente.\n\n3 - Salvo acordo expresso do utente em sentido diferente, as prestações previstas no plano de pagamento não podem exceder o montante mensal de 1/12 do valor em dívida.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283297": {
+   "fragment_id": "202234161",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º-C — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março\n\nOs artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, passam a ter a seguinte redação:\n\n'Artigo 23.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Salvo o disposto no n.º 9, sobre o apoio incide a quotização do trabalhador e 50 % da contribuição social da entidade empregadora, devendo o mesmo ser objeto de declaração de remunerações autónoma.\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)\n\n10 - (Anterior n.º 8.)\n\n11 - (Anterior n.º 9.)\n\nArtigo 24.º\n\n[...]\n\n1 - [...].\n\n2 - O valor do apoio é correspondente à totalidade da base de incidência contributiva mensualizada referente ao primeiro trimestre de 2020.\n\n3 - O apoio a que se refere os números anteriores tem por limite mínimo 1 Indexante de Apoios Sociais (IAS) e máximo de 3 IAS, não podendo, em qualquer caso, exceder o montante da remuneração registada como base de incidência contributiva.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)'\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 3.º da Lei n.º 16/2021, de 7 de abril, na parte em que adita o artigo 4.º-C ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro e, através deste, altera os n.os 2 e 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março; ressalva os efeitos produzidos pela norma declarada inconstitucional, até à publicação do Acórdão.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08"
+  },
+  "202283298": {
+   "fragment_id": "155073480",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho\n\nO artigo 15.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - O acesso aos apoios previstos no presente decreto-lei e o acesso ao incentivo extraordinário à normalização da atividade empresarial previsto no Decreto-Lei n.º 27-B/2020, de 19 de junho, na sua redação atual, excluem-se mutuamente, até janeiro de 2021, inclusive, procedendo o IEFP, I. P., e o serviço competente da segurança social à verificação de eventual acumulação indevida de apoios, simultânea ou sequencial, através de troca oficiosa de informação.\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202283299": {
+   "fragment_id": "155073481",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 6-C/2021, de 15 de janeiro\n\nO artigo 5.º do Decreto-Lei n.º 6-C/2021, de 15 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [Anterior corpo do artigo.]\n\n2 - Os valores adicionais à compensação retributiva previstos no número anterior e no n.º 3 do artigo 6.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, não implicam encargos adicionais para as entidades empregadoras.»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202283300": {
+   "fragment_id": "155073482",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nSão revogados a alínea a) do n.º 1 do artigo 2.º e o artigo 2.º-A do Decreto-Lei n.º 10-K/2020, de 26 de março, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202283301": {
+   "fragment_id": "155073483",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 22 de janeiro de 2021.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202283302": {
+   "fragment_id": "155073484",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Miguel Filipe Pardal Cabrita.\n\nPromulgado em 21 de janeiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de janeiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113910562\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

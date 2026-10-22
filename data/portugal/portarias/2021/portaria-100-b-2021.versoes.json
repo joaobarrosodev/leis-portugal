@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:163154513:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-163240275",
+ "dre_path": "/dr/detalhe/portaria/100-b-2021-163154513",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "163090756",
+    "163090757",
+    "163090758",
+    "163090759",
+    "163090760",
+    "163090761",
+    "163090762",
+    "163090763",
+    "163090764"
+   ]
+  },
+  {
+   "date": "2023-12-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:230006496:por",
+     "title": "Portaria n.º 433/2023",
+     "published": "2023-12-13",
+     "dre_path": "/dr/detalhe/portaria/433-2023-230006496"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "163090756",
+    "163090757",
+    "230070175",
+    "230070176",
+    "230070177",
+    "230070178",
+    "230070179",
+    "163090763",
+    "163090764",
+    "163090765"
+   ]
+  }
+ ],
+ "fragments": {
+  "163090756": {
+   "fragment_id": "163240276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 100-B/2021\n\nde 11 de maio\n\nSumário: Fixa a estrutura nuclear do Instituto Nacional de Administração, I. P. (INA, I. P.)\n\nO Decreto-Lei n.º 19/2021, de 15 de março, veio definir a missão, atribuições e tipo de organização interna do INA - Instituto Nacional de Administração, I. P., abreviadamente designado por INA, I. P., enquanto instituto público de regime especial, tendo sido extinta a Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas, enquanto serviço central da administração direta do Estado.\n\nPor esta via, foi reforçado o papel do INA, I. P., como organismo de criação, transmissão e difusão do conhecimento, no domínio da Administração Pública, contribuindo, através de formação, educação e desenvolvimento científico, para a inovação e modernização da Administração Pública e para a qualificação, capacitação e valorização dos recursos humanos da mesma.\n\nImporta agora, nos termos previstos naquele diploma, determinar a sua sede e aprovar a sua organização interna.\n\nAssim, procede-se às devidas adaptações das competências das unidades orgânicas nucleares atualmente existentes, sendo igualmente criadas novas unidades orgânicas, com vista a executar em pleno a missão e as atribuições que são agora cometidas ao INA, I. P.\n\nDesta forma, é introduzida na estrutura nuclear a Direção de Serviços de Desenvolvimento de Modelos Organizacionais e Promoção da Inovação, com competências acrescidas relativamente à anterior Direção de Serviços de Promoção da Inovação na Gestão, com vista a promover a melhoria do desempenho dos serviços e órgãos da Administração Pública através da introdução de novos métodos de gestão e novas metodologias de trabalho, bem como a Secretaria Académica, que integra a Direção de Serviços de Formação e Qualificação, com o objetivo de permitir uma melhor gestão da execução dos planos e programas de formação, bem como uma comunicação mais ágil com os formandos.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, e dos artigos 2.º e 15.º do anexo i ao Decreto-Lei n.º 19/2021, de 15 de março, manda o Governo, pelo Ministro de Estado e das Finanças e pela Ministra da Modernização do Estado e da Administração Pública, o seguinte:"
+  },
+  "163090757": {
+   "fragment_id": "163240277",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede do Instituto Nacional de Administração, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Sede do Instituto Nacional de Administração, I. P.\n\nO Instituto Nacional de Administração, I. P., tem provisoriamente sede em Lisboa."
+  },
+  "163090758": {
+   "fragment_id": "163240278",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura nuclear do Instituto Nacional de Administração, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura nuclear do Instituto Nacional de Administração, I. P.\n\n1 - O Instituto Nacional de Administração, I. P., abreviadamente designado por INA, I. P., estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Formação e Qualificação, na qual está integrada a Secretaria Académica;\n\nb) Direção de Serviços de Desenvolvimento de Modelos Organizacionais e Promoção da Inovação;\n\nc) Direção de Serviços de Cooperação, Conhecimento e Comunicação;\n\nd) Direção de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimoniais.\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n3 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas unidades orgânicas flexíveis, designadas por departamentos, integradas ou não em unidades orgânicas nucleares, sendo as respetivas competências fixadas naquela deliberação, a qual é objeto de publicação no Diário da República.\n\n4 - As unidades referidas no número anterior são dirigidas por titulares de cargos de direção intermédia de 2.º grau.\n\n5 - O número de unidades orgânicas flexíveis não pode exceder, em cada momento, o limite máximo de 7, incluindo a Secretaria Académica, prevista na alínea a) do n.º 1."
+  },
+  "163090759": {
+   "fragment_id": "163240279",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Formação e Qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Formação e Qualificação\n\n1 - À Direção de Serviços de Formação e Qualificação, abreviadamente designada por DSFQ, compete:\n\na) Propor a definição de áreas estratégicas e a política para a formação e desenvolvimento profissional dos dirigentes e dos trabalhadores da Administração Pública, alinhando essas orientações com o planeamento da sua atividade prestadora de serviços de formação e de especialização para o desenvolvimento da liderança nos dirigentes da Administração Pública;\n\nb) Promover, em conjunto com o consórcio celebrado com instituições do ensino superior a organização de cursos de formação para os dirigentes e futuros dirigentes da administração, bem como, para os quadros técnicos superiores da Administração Pública;\n\nc) Identificar prioridades, conceber e executar programas de formação e capacitação para a Administração Pública, tendo em conta referenciais de competências reconhecidos, em articulação com a implementação das políticas públicas, e respetivas metodologias, instrumentos e modelos pedagógicos;\n\nd) Definir, em articulação com a Direção-Geral da Administração e do Emprego Público (DGAEP), referenciais e perfis de competências para apoiar políticas de recrutamento e desenvolvimento de recursos humanos, incluindo dos trabalhadores em valorização profissional;\n\ne) Apoiar os serviços públicos na realização do diagnóstico de necessidades de formação, na definição de indicadores de gestão da formação e na avaliação de impacto da formação;\n\nf) Definir os mecanismos de reporte das atividades de formação, que permitam ajustar dinamicamente a oferta às reais necessidades formativas;\n\ng) Promover a certificação de ações de formação no âmbito de sistemas de certificação profissional;\n\nh) Colaborar com as entidades competentes em matéria de reconhecimento e certificação de qualificações profissionais, na implementação de um modelo de formação contínua ao longo da vida que promova o acesso dos trabalhadores à certificação escolar e profissional para dotar os trabalhadores das qualificações e competências que potenciem o desenvolvimento de percursos profissionais ajustados às necessidades dos serviços da Administração Pública;\n\ni) Colaborar com instituições nacionais e estrangeiras, públicas e privadas, com vista ao desenvolvimento e aprofundamento da oferta formativa em geral e de protocolos de cooperação e soluções de aprendizagem inovadoras;\n\nj) Assegurar a conceção curricular de ações de formação para resposta a necessidades específicas e à medida e alinhadas com prioridades de gestão dos organismos da Administração Pública;\n\nk) Elaborar o Relatório de Gestão da Formação na Administração Pública, caracterizando as ações desenvolvidas e avaliando os resultados obtidos;\n\nl) Promover mecanismos de governação participada, aberta e transparente do sistema de formação profissional da Administração Pública, nomeadamente através da Comissão de Coordenação da Formação Profissional e do Conselho Geral da Formação Profissional;\n\nm) Exercer as demais competências de entidade coordenadora da formação profissional na Administração Pública previstas no Decreto-Lei n.º 86-A/2016, de 29 de dezembro.\n\n2 - À Secretaria Académica compete especificamente:\n\na) Fornecer informação sobre planos e programas de formação;\n\nb) Assegurar o processo de candidaturas e inscrição às ações de formação;\n\nc) Garantir o registo histórico dos formandos;\n\nd) Manter atualizado o cadastro das salas de formação e gerir o sistema de informação relativo à sua ocupação;\n\ne) Elaborar informação de gestão relativa à atividade de formação."
+  },
+  "163090760": {
+   "fragment_id": "163240280",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Desenvolvimento de Modelos Organizacionais e Promoção da Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Desenvolvimento de Modelos Organizacionais e Promoção da Inovação\n\nÀ Direção de Serviços de Desenvolvimento de Modelos Organizacionais e Promoção da Inovação, abreviadamente designada por DSMOPI, compete:\n\na) Estimular a inovação na Administração Pública, como estratégia e capacidade para promover a concretização das missões das entidades públicas que permitam respostas rápidas e antecipem necessidades;\n\nb) Estimular as práticas inovadoras de gestão em particular, a inovação no trabalho, nomeadamente nos domínios da valorização dos recursos humanos, dos ambientes de trabalho e dos modelos de gestão pública;\n\nc) Conceber, desenvolver e disseminar modelos pedagógicos e recursos didáticos inovadores;\n\nd) Promover sistemas de capacitação que permitam compreender a necessidade de inovar e induzam novos comportamentos e atitudes nos trabalhadores e dirigentes da Administração Pública, desenvolvendo uma cultura de inovação;\n\ne) Promover a experimentação, apoiando os serviços no desenvolvimento, implementação, avaliação e partilha de novas soluções de gestão;\n\nf) Dinamizar o reconhecimento de práticas de gestão de referência nos serviços públicos, nomeadamente em resposta aos desafios de políticas integradas;\n\ng) Estimular a adoção de modelos de gestão da inovação adequados às necessidades dos diversos serviços públicos;\n\nh) Monitorizar e divulgar as práticas de inovação na Administração Pública, desenvolvendo o conhecimento sobre a matéria;\n\ni) Apresentar propostas de novos incentivos à inovação na gestão pública;\n\nj) Colaborar com as demais entidades do ecossistema nacional de inovação para a Administração Pública;\n\nk) Desenvolver parcerias com entidades de outros países e organizações multilaterais em matéria de inovação;\n\nl) Desenvolver projetos de investigação e estudos aplicados no domínio das políticas públicas na área da administração e gestão públicas;\n\nm) Manter um dispositivo de análise organizacional sistemática da administração central do Estado que assegure uma visão global das estruturas e processos de gestão e respetivos regimes jurídicos;\n\nn) Emitir parecer sobre as propostas relativas ao regime jurídico da criação, fusão, reestruturação e extinção de serviços públicos;\n\no) Identificar, ativamente, oportunidades de racionalização de estruturas orgânicas, eliminando concorrências estruturais;\n\np) Incentivar a definição de modelos organizacionais com capacidade adaptativa;\n\nq) Apoiar o desenvolvimento de novos instrumentos e metodologias de trabalho e de gestão que promovam a eficiência, a valorização dos trabalhadores e as boas condições de trabalho nos serviços públicos, dinamizando a sua aplicação;\n\nr) Implementar planos de ação para o desenvolvimento organizacional da Administração Pública, estimulando a inovação e a implementação de práticas de gestão de referência;\n\ns) Promover a cocriação e implementação de processos de valor acrescentado sustentáveis focalizados no cliente e no cidadão;\n\nt) Estimular a identificação e reconhecimento de boas práticas através da divulgação e acompanhamento e candidaturas a prémios, nacionais e internacionais, no âmbito da gestão pública;\n\nu) Colaborar com outros organismos públicos, nacionais ou, em articulação com a DGAEP, com organismos estrangeiros, através da realização de estudos e da prestação de assistência técnica especialmente adaptados às necessidades que decorrem da implementação das reformas da Administração Pública;\n\nv) Realizar trabalhos de consultoria para melhoria das organizações e dos serviços prestados na Administração Pública."
+  },
+  "163090761": {
+   "fragment_id": "163240281",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Cooperação, Conhecimento e Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Cooperação, Conhecimento e Comunicação\n\nÀ Direção de Serviços de Cooperação, Conhecimento e Comunicação, abreviadamente designada por DSCCC, compete:\n\na) Promover e apoiar a cooperação científica e técnica nacional e internacional do INA, I. P., com organismos, entidades e organizações que prossigam fins análogos e em particular com os países de língua portuguesa, assegurando a coordenação interdepartamental;\n\nb) Promover a articulação com o consórcio constituído com instituições de ensino superior;\n\nc) Participar em projetos ou programas de cooperação para o desenvolvimento promovidos pela União Europeia ou por outras organizações internacionais, tendo em vista a melhoria do funcionamento da Administração Pública, em articulação com a DGAEP;\n\nd) Promover, desenvolver, coordenar ou participar em ações de consultoria, estudos, assistência técnica, projetos e programas, em modelos de cooperação bilateral ou multilateral e em colaboração com outros organismos do setor público ou entidades do setor privado, nacionais ou estrangeiros;\n\ne) Definir e operacionalizar a estratégia de comunicação do INA, I. P., nos diversos canais e suportes comunicacionais, disponibilizando conteúdos permanentemente atualizados;\n\nf) Apoiar os serviços do INA, I. P., na preparação e conceção gráfica dos materiais e comunicação e outras publicações, promovendo a sua imagem institucional e a divulgação da marca «INA»;\n\ng) Fornecer o apoio audiovisual à atividade do INA, I. P.;\n\nh) Assegurar a gestão dos recursos documentais, mantendo atualizado o acervo bibliográfico, as bases bibliográficas, de sumários e arquivo digital e tratando, disponibilizando e difundindo a informação e legislação nacional e comunitária junto dos utilizadores;\n\ni) Participar em redes de informação bibliográfica em áreas de interesse para a Administração Pública e estabelecer parcerias com instituições nacionais e estrangeiras nas áreas da documentação, informação e editorial;\n\nj) Assegurar a gestão, funcionamento e desenvolvimento da INA Editora e respetiva loja online, planeando e promovendo a edição de publicações, em suporte papel ou digital, com interesse para o INA, I. P., e para a Administração Pública;\n\nk) Organizar e assegurar o funcionamento do serviço de receção e atendimento público do INA, I. P., assim como prestar informações relacionadas com as áreas de competência deste instituto público, encaminhando os pedidos recebidos;\n\nl) Assegurar as relações públicas do INA, I. P."
+  },
+  "163090762": {
+   "fragment_id": "163240282",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimoniais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimoniais\n\nÀ Direção de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimoniais, abreviadamente designada por DSRHFP, compete:\n\na) O planeamento, coordenação e gestão dos recursos humanos, financeiros e patrimoniais, de acordo com os objetivos estratégicos e operacionais do INA, I. P.;\n\nb) Promover os processos de diagnóstico de necessidades de recrutamento e de formação, de gestão da formação, de gestão e avaliação do desempenho individual e o balanço social dos trabalhadores no INA, I. P.;\n\nc) Assegurar os instrumentos de planeamento, monitorização, controlo, reporte e avaliação da atividade do INA, I. P.;\n\nd) Assegurar a elaboração e execução do orçamento do INA, I. P., analisando em permanência a evolução do mesmo e prestando informações periódicas que permitam o seu controlo;\n\ne) Organizar a conta anual de gerência do INA, I. P., bem como preparar os elementos necessários à elaboração de relatórios de execução financeira;\n\nf) Assegurar a gestão dos recursos patrimoniais afetos ao INA, I. P.;\n\ng) Preparar os procedimentos, celebrar e gerir os contratos para a realização de obras e para a aquisição de bens e serviços, assim como os contratos de prestação de serviços do INA, I. P.;\n\nh) Garantir o inventário centralizado de todos os bens do INA, I. P., mantendo atualizado o respetivo cadastro;\n\ni) Coordenar a gestão do parque de viaturas do INA, I. P.;\n\nj) Coordenar, gerir e integrar os sistemas de informação do INA, I. P., propondo o desenvolvimento e a implementação de soluções informáticas de apoio ao seu funcionamento;\n\nk) Fornecer apoio técnico às atividades do INA, I. P., no domínio dos sistemas e das tecnologias de informação, nomeadamente através do apoio tecnológico, do desenvolvimento e gestão das bases de dados existentes e do desenvolvimento de recursos para suportar ações de formação em e-learning e b-learning;\n\nl) Assegurar o planeamento e a otimização das infraestruturas de comunicações, garantindo o seu bom desempenho e padrões de qualidade;\n\nm) Gerir a infraestrutura tecnológica das páginas Internet e intranet, o data center, o parque informático e audiovisual do INA, I. P., bem como a infraestrutura das redes de dados e voz;\n\nn) Assegurar a receção, classificação, registo e distribuição interna de correspondência entrada, assim como todo o serviço de expedição de correspondência;\n\no) Assegurar a gestão dos serviços de reprografia do INA, I. P.;\n\np) Assegurar a organização e gestão do arquivo corrente e intermédio do INA, I. P."
+  },
+  "163090763": {
+   "fragment_id": "163240283",
+   "type": 11,
+   "heading": "Artigo 7.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogação\n\nÉ revogada a Portaria n.º 78/2019, de 14 de março."
+  },
+  "163090764": {
+   "fragment_id": "163240284",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 31 de março de 2021."
+  },
+  "230070175": {
+   "fragment_id": "163240278",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura nuclear do Instituto Nacional de Administração, I. P.",
+   "in_force_from": "2023-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura nuclear do Instituto Nacional de Administração, I. P.\n\n1 - O Instituto Nacional de Administração, I. P., abreviadamente designado por INA, I. P., estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Formação e Qualificação (Formação);\n\nb) Direção de Conhecimento, Inovação e Desenvolvimento (Conhecimento);\n\nc) Direção de Serviços de Cooperação e Comunicação (Cooperação);\n\nd) Direção de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimoniais (Recursos).\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n3 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas unidades orgânicas flexíveis, designadas por departamentos, integradas ou não em unidades orgânicas nucleares, sendo as respetivas competências fixadas naquela deliberação, a qual é objeto de publicação no Diário da República.\n\n4 - As unidades referidas no número anterior são dirigidas por titulares de cargos de direção intermédia de 2.º grau.\n\n5 - O número de unidades orgânicas flexíveis não pode exceder, em cada momento, o limite máximo de sete.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+  },
+  "230070176": {
+   "fragment_id": "163240279",
+   "type": 11,
+   "heading": "Artigo 3.º — Formação",
+   "in_force_from": "2023-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+   ],
+   "markdown": "###### Artigo 3.º — Formação\n\n1 - À Formação compete:\n\na) Propor orientações para a formação e desenvolvimento profissional dos dirigentes e dos trabalhadores da Administração Pública, em colaboração com a Conhecimento;\n\nb) Promover cursos de formação com instituições de ensino superior no âmbito dos consórcios ou parcerias celebradas;\n\nc) Propor, conceber e executar a oferta formativa do INA, I. P., através de programas de formação e capacitação para a Administração Pública, tendo em conta referenciais de competências reconhecidos, procurando introduzir modelos pedagógicos e recursos didáticos inovadores;\n\nd) Definir, em articulação com a Direção-Geral da Administração e do Emprego Público (DGAEP), referenciais e perfis de competências para apoiar políticas de recrutamento e desenvolvimento de recursos humanos, incluindo dos trabalhadores em valorização profissional;\n\ne) Apoiar os serviços públicos na realização do diagnóstico de necessidades de formação, na definição de indicadores de gestão da formação e na avaliação de impacto da formação;\n\nf) Definir os mecanismos de reporte das atividades de formação, que permitam ajustar dinamicamente a oferta às reais necessidades formativas;\n\ng) Promover a certificação de ações de formação no âmbito de sistemas de certificação profissional;\n\nh) Colaborar com as entidades competentes em matéria de reconhecimento e certificação de qualificações profissionais, na implementação de um modelo de formação contínua ao longo da vida que promova o acesso dos trabalhadores à certificação escolar e profissional para dotar os trabalhadores das qualificações e competências que potenciem o desenvolvimento de percursos profissionais ajustados às necessidades dos serviços da Administração Pública;\n\ni) (Revogada.)\n\nj) Assegurar a conceção curricular e a produção multimédia de formação para resposta às necessidades e prioridades dos órgãos e serviços da Administração Pública, em colaboração com as entidades públicas com competência na matéria;\n\nk) Elaborar o Relatório de Gestão da Formação na Administração Pública, caracterizando as ações desenvolvidas e avaliando os resultados obtidos;\n\nl) Promover mecanismos de governação participada, aberta e transparente do sistema de formação profissional da Administração Pública, nomeadamente através da Comissão de Coordenação da Formação Profissional e do Conselho Geral da Formação Profissional;\n\nm) Exercer as demais competências de entidade coordenadora da formação profissional na Administração Pública previstas no Decreto-Lei n.º 86-A/2016, de 29 de dezembro.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+  },
+  "230070177": {
+   "fragment_id": "163240280",
+   "type": 11,
+   "heading": "Artigo 4.º — Conhecimento",
+   "in_force_from": "2023-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+   ],
+   "markdown": "###### Artigo 4.º — Conhecimento\n\nÀ Conhecimento compete:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Conceber, desenvolver e disseminar modelos pedagógicos e recursos didáticos inovadores;\n\nd) (Revogada.)\n\ne) Promover a experimentação, apoiando os serviços no desenvolvimento, implementação, avaliação e partilha de novas soluções de gestão;\n\nf) Dinamizar o reconhecimento de práticas de gestão de referência nos serviços públicos, nomeadamente em resposta aos desafios de políticas integradas;\n\ng) Estimular a adoção de modelos de gestão da inovação adequados às necessidades dos diversos serviços públicos;\n\nh) Monitorizar e divulgar as práticas de inovação na Administração Pública, desenvolvendo o conhecimento sobre a matéria;\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nk) (Revogada.)\n\nl) Estimular e desenvolver a investigação e estudos aplicados no domínio das políticas públicas de formação e qualificação na área da administração e gestão públicas, em articulação com o sistema científico e tecnológico;\n\nm) (Revogada.)\n\nn) (Revogada.)\n\no) (Revogada.)\n\np) (Revogada.)\n\nq) (Revogada.)\n\nr) Implementar planos de ação para o desenvolvimento organizacional da Administração Pública, estimulando a inovação e a implementação de práticas de gestão de referência;\n\ns) (Revogada.)\n\nt) Estimular a identificação e reconhecimento de boas práticas através da divulgação e acompanhamento e candidaturas a prémios, nacionais e internacionais, no âmbito da gestão pública;\n\nu) Colaborar com outros organismos públicos, nacionais ou, em articulação com a DGAEP, com organismos estrangeiros, através da realização de estudos e da prestação de assistência técnica especialmente adaptados às necessidades que decorrem da implementação das reformas da Administração Pública;\n\nv) Realizar trabalhos de consultoria para melhoria das organizações e dos serviços prestados na Administração Pública.\n\nw) Propor a definição de áreas estratégicas para a formação e desenvolvimento profissional dos dirigentes e dos trabalhadores da Administração Pública, em colaboração com a Formação;\n\nx) Contribuir para a atualização da oferta formativa do INA, I. P., identificando prioridades de formação e capacitação para a Administração Pública em articulação com linhas de orientação estratégica e critérios de prioridade da implementação das políticas públicas;\n\ny) Elaborar candidaturas a programas de financiamento no âmbito das áreas de intervenção do INA, I. P.;\n\nz) Promover o desenvolvimento e aprofundamento da oferta formativa e de protocolos de cooperação e soluções de aprendizagem inovadoras, em colaboração com instituições públicas e privadas;\n\naa) Identificar problemas de investigação e enquadramento conceptual geral, com enfoque na investigação transversal e longitudinal e nas abordagens que antecipam e preparam para as transformações futuras necessárias face às tendências registadas nas políticas e na gestão públicas;\n\nbb) Assegurar os instrumentos de planeamento, monitorização, reporte e avaliação da atividade do INA, I. P.;\n\ncc) Assegurar a gestão dos recursos documentais, mantendo atualizado o acervo bibliográfico, as bases bibliográficas, de sumários e arquivo digital e tratando, disponibilizando e difundindo a informação e legislação nacional e comunitária junto dos utilizadores;\n\ndd) Participar em redes de informação bibliográfica em áreas de interesse para a Administração Pública e estabelecer parcerias com instituições nacionais e estrangeiras nas áreas da documentação, informação e editorial;\n\nee) Assegurar a gestão, funcionamento e desenvolvimento da INA Editora e respetiva loja online, planeando e promovendo a edição de publicações, em suporte papel ou digital, com interesse para o INA, I. P., e para a Administração Pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+  },
+  "230070178": {
+   "fragment_id": "163240281",
+   "type": 11,
+   "heading": "Artigo 5.º — Cooperação",
+   "in_force_from": "2023-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+   ],
+   "markdown": "###### Artigo 5.º — Cooperação\n\nÀ Cooperação compete:\n\na) Coordenar e apoiar a cooperação internacional do INA, I. P., com organismos, entidades e organizações internacionais e em particular no quadro da União Europeia e com os países de língua portuguesa;\n\nb) (Revogada.)\n\nc) Coordenar e promover a participação do INA, I. P., em projetos ou programas de cooperação para o desenvolvimento em parceria com outras instituições nacionais e internacionais, tendo em vista a melhoria do funcionamento da Administração Pública, em articulação com a DGAEP;\n\nd) Promover, desenvolver, coordenar ou participar em ações de consultoria, estudos, assistência técnica, projetos e programas, em modelos de cooperação bilateral ou multilateral e em colaboração com outros organismos do setor público ou entidades do setor privado, nacionais ou estrangeiros;\n\ne) Definir e operacionalizar a estratégia de comunicação do INA, I. P., nos diversos canais e suportes comunicacionais, disponibilizando conteúdos permanentemente atualizados;\n\nf) Apoiar os serviços do INA, I. P., na preparação e conceção gráfica dos materiais e comunicação e outras publicações, promovendo a sua imagem institucional e a divulgação da marca «INA»;\n\ng) Fornecer o apoio audiovisual à atividade do INA, I. P.;\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nk) Organizar e assegurar o funcionamento do serviço de receção e atendimento público do INA, I. P., assim como prestar informações relacionadas com as áreas de competência deste instituto público, encaminhando os pedidos recebidos;\n\nl) Assegurar as relações públicas do INA, I. P.\n\nm) Assegurar a internacionalização da oferta formativa desenvolvida pelo INA, I. P.;\n\nn) Assegurar e apoiar a representação do INA, I. P., em reuniões internacionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+  },
+  "230070179": {
+   "fragment_id": "163240282",
+   "type": 11,
+   "heading": "Artigo 6.º — Recursos",
+   "in_force_from": "2023-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+   ],
+   "markdown": "###### Artigo 6.º — Recursos\n\nÀ Recursos compete:\n\na) O planeamento, coordenação e gestão dos recursos humanos, financeiros e patrimoniais, de acordo com os objetivos estratégicos e operacionais do INA, I. P.;\n\nb) Promover os processos de diagnóstico de necessidades de recrutamento e de formação, de gestão da formação, de gestão e avaliação do desempenho individual e o balanço social dos trabalhadores no INA, I. P.;\n\nc) (Revogada.)\n\nd) Assegurar a elaboração e execução do orçamento do INA, I. P., analisando em permanência a evolução do mesmo e prestando informações periódicas que permitam o seu controlo;\n\ne) Organizar a conta anual de gerência do INA, I. P., bem como preparar os elementos necessários à elaboração de relatórios de execução financeira;\n\nf) Assegurar a gestão dos recursos patrimoniais afetos ao INA, I. P.;\n\ng) Preparar os procedimentos, celebrar e gerir os contratos para a realização de obras e para a aquisição de bens e serviços, assim como os contratos de prestação de serviços do INA, I. P.;\n\nh) Garantir o inventário centralizado de todos os bens do INA, I. P., mantendo atualizado o respetivo cadastro;\n\ni) Coordenar a gestão do parque de viaturas do INA, I. P.;\n\nj) Coordenar, gerir e integrar os sistemas de informação do INA, I. P., propondo o desenvolvimento e a implementação de soluções informáticas de apoio ao seu funcionamento;\n\nk) Fornecer apoio técnico às atividades do INA, I. P., no domínio dos sistemas e das tecnologias de informação, nomeadamente através do apoio tecnológico, do desenvolvimento e gestão das bases de dados existentes e do desenvolvimento de recursos para suportar ações de formação em e-learning e b-learning;\n\nl) Assegurar o planeamento e a otimização das infraestruturas de comunicações, garantindo o seu bom desempenho e padrões de qualidade;\n\nm) Gerir a infraestrutura tecnológica das páginas Internet e intranet, o data center, o parque informático e audiovisual do INA, I. P., bem como a infraestrutura das redes de dados e voz;\n\nn) Assegurar a receção, classificação, registo e distribuição interna de correspondência entrada, assim como todo o serviço de expedição de correspondência;\n\no) (Revogada.)\n\np) Assegurar a organização e gestão do arquivo corrente e intermédio do INA, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 433/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/433-2023-230006496), em vigor a partir de 2023-12-14"
+  },
+  "163090765": {
+   "fragment_id": "163240285",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão.\n\n114225888"
+  }
+ }
+}

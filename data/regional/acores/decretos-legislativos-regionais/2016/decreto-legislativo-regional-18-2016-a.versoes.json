@@ -1,0 +1,658 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75430971:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206307555",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2016-75430971",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-09-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206253368",
+    "206253369",
+    "206253370",
+    "206253371",
+    "206253372",
+    "206253373",
+    "206253374",
+    "206346475",
+    "206346476",
+    "206346477",
+    "206346478",
+    "206346479",
+    "206346480",
+    "206346481",
+    "206346482",
+    "206346483",
+    "206346484",
+    "206346485",
+    "206346486",
+    "206346487",
+    "206346488",
+    "206346489",
+    "206346490",
+    "206346491",
+    "206346492",
+    "206346493",
+    "206346494",
+    "206346495",
+    "206346496",
+    "206346497",
+    "206346498",
+    "206346499",
+    "206346500",
+    "206346501",
+    "206346502",
+    "206346503",
+    "206346504",
+    "206346505",
+    "206346506",
+    "206346507",
+    "206346508",
+    "206346509",
+    "206346510",
+    "206346511",
+    "206346512",
+    "206346513",
+    "206346514",
+    "206346515",
+    "206346516",
+    "206346517",
+    "206346518",
+    "206346519",
+    "206346520",
+    "206346521",
+    "206346522",
+    "206346523",
+    "206346524",
+    "206346525",
+    "206346526",
+    "206346527",
+    "206346528",
+    "206346529",
+    "206346530",
+    "206346531",
+    "206346532",
+    "206346533",
+    "206346534",
+    "206346535",
+    "206346536",
+    "206346537",
+    "206346538"
+   ]
+  }
+ ],
+ "fragments": {
+  "206253368": {
+   "fragment_id": "206307556",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 18/2016/A\n\nRegime jurídico de licenciamento, organização e fiscalização do exercício da atividade de ama na Região Autónoma dos Açores\n\nO regime jurídico aplicável ao exercício da atividade de ama, no âmbito das respostas da segurança social, e o seu enquadramento em creches familiares, encontram-se atualmente previstos no Decreto Legislativo Regional n.º 18/2001/A, de 9 de novembro e na Portaria n.º 88/2002, de 12 de setembro.\n\nCom o presente diploma pretende-se estabelecer, na Região Autónoma dos Açores, um regime jurídico universal e transversal a toda a atividade das amas enquanto resposta social, incluindo a regulação do exercício da atividade de ama a título privado.\n\nPropicia-se, assim, a possibilidade de extensão destes serviços, como resposta às famílias com necessidades de apoio que não se coadunem com as demais respostas sociais.\n\nPor outro lado, esta iniciativa apresenta-se como mais um importante instrumento de conciliação das políticas sociais com as políticas de emprego, particularmente de autoemprego, na Região Autónoma dos Açores. Esta medida tem, assim, também, como desiderato a inserção ou reinserção na vida ativa de pessoas à procura do primeiro emprego e desempregados, designadamente, licenciados nas áreas de educação de infância, psicologia e outras áreas ou apenas pessoas vocacionadas para esta tipologia de serviço, bem como a promoção do emprego, numa lógica que permite a sua conciliação com a vida familiar.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "206253369": {
+   "fragment_id": "206307557",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "206253370": {
+   "fragment_id": "206307558",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece o regime jurídico de licenciamento, organização e fiscalização do exercício da atividade de ama na Região Autónoma dos Açores."
+  },
+  "206253371": {
+   "fragment_id": "206307559",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente diploma é aplicável a quem pretenda exercer a atividade de ama no âmbito de uma instituição de enquadramento de amas ou através da contratualização do serviço diretamente com os pais ou com quem exerça as responsabilidades parentais."
+  },
+  "206253372": {
+   "fragment_id": "206307560",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Ama» a pessoa que, mediante pagamento pela atividade exercida, acolhe e cuida, em instalações próprias, até quatro crianças que não sejam suas parentes ou afins na linha reta ou no 2.º grau da linha colateral, por um período de tempo diário correspondente ao trabalho ou impedimento dos pais ou de quem exerça as responsabilidades parentais;\n\nb) «Creche familiar» conjunto de amas, não inferior a seis nem superior a dezasseis, que residam na mesma zona geográfica e que estejam enquadradas em instituições particulares de solidariedade social com atividade de creche ou educação pré-escolar, apoiadas técnica e financeiramente pelo organismo regional competente em matéria de ação social."
+  },
+  "206253373": {
+   "fragment_id": "206307561",
+   "type": 11,
+   "heading": "Artigo 4.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objetivos\n\nSão objetivos da atividade de ama, designadamente:\n\na) Apoiar as famílias mediante o acolhimento de crianças, providenciando a continuidade dos cuidados a prestar;\n\nb) Manter as crianças em condições de segurança, física e afetiva;\n\nc) Proporcionar, num ambiente familiar, as condições adequadas ao desenvolvimento integral das crianças."
+  },
+  "206253374": {
+   "fragment_id": "206307562",
+   "type": 1,
+   "heading": "Capítulo II — Do exercício da atividade da ama",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do exercício da atividade da ama"
+  },
+  "206346475": {
+   "fragment_id": "206307563",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos e condições de ordem pessoal e familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos e condições de ordem pessoal e familiar\n\n1 - Os requisitos e condições de ordem pessoal e familiar para o acesso à atividade de ama e ao respetivo exercício, são os previstos no regime jurídico que estabelece os termos e condições para o acesso à profissão e o exercício da atividade de ama, previsto no Decreto-Lei n.º 115/2015, de 22 de junho, e respetiva regulamentação.\n\n2 - A verificação dos requisitos, nomeadamente através de visita e entrevista, e o correspondente relatório são efetuados na Região pelo organismo do Governo Regional competente em matéria de ação social."
+  },
+  "206346476": {
+   "fragment_id": "206307564",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de natureza habitacional para o exercício da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de natureza habitacional para o exercício da atividade\n\n1 - As instalações da ama devem dispor de condições de espaço, higiene e segurança indispensáveis ao adequado exercício da atividade.\n\n2 - As condições de espaço, higiene e segurança aludidas no número anterior, são objeto de portaria do membro do Governo Regional com competência em matéria de solidariedade social."
+  },
+  "206346477": {
+   "fragment_id": "206307565",
+   "type": 11,
+   "heading": "Artigo 7.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação\n\n1 - O exercício da atividade de ama depende da detenção de formação básica inicial, que integre componentes teóricas e práticas, nas seguintes áreas:\n\na) Enquadramento da atividade de ama;\n\nb) Desenvolvimento infantil;\n\nc) Segurança, higiene, saúde e nutrição;\n\nd) Primeiros socorros na vertente pediátrica;\n\ne) Técnicas pedagógicas;\n\nf) Situações de emergência e catástrofes;\n\ng) Resolução de conflitos.\n\n2 - A componente prática da formação básica inicial inclui obrigatoriamente um período experimental a desenvolver num estabelecimento de educação que prossiga a valência de creche ou, na ausência desta, com educação pré-escolar, sob a orientação de uma equipa técnico-pedagógica.\n\n3 - O período experimental com a duração de cinco semanas é avaliado pela equipa técnico-pedagógica e deve integrar três componentes:\n\na) A interação com as crianças;\n\nb) A vertente teórica a incidir, nomeadamente, nos aspetos de saúde preventiva e do desenvolvimento integral da criança;\n\nc) A abordagem ao enquadramento das amas face aos estabelecimentos de educação com a valência de creche.\n\n4 - As amas licenciadas estão sujeitas a formação contínua de aperfeiçoamento, que deve ser efetuada, pelo menos, a cada dois anos de atividade, e sempre antes de cada revalidação do correspondente certificado de licenciamento.\n\n5 - Os conteúdos, a duração dos cursos, bem como as qualificações profissionais mínimas do corpo docente, são objeto de regulamentação em portaria do membro do Governo Regional competente em matéria de solidariedade social.\n\n6 - Os cursos de formação podem ser promovidos por entidades de natureza pública, particular, associativa ou cooperativa, designadamente escolas profissionais, certificadas para o efeito pelo organismo regional competente em matéria de ação social ou diretamente por este último.\n\n7 - Anualmente, o organismo aludido no número anterior, procede ao levantamento das necessidades de formação para atualização e aperfeiçoamento de conhecimentos das amas, bem como à divulgação da oferta formativa, pública ou privada, existente."
+  },
+  "206346478": {
+   "fragment_id": "206307566",
+   "type": 1,
+   "heading": "Capítulo III — Do licenciamento do exercício da atividade de ama",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do licenciamento do exercício da atividade de ama"
+  },
+  "206346479": {
+   "fragment_id": "206307567",
+   "type": 8,
+   "heading": "Secção I — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Licenciamento"
+  },
+  "206346480": {
+   "fragment_id": "206307568",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licença\n\nO exercício da atividade de ama depende da emissão de licença, a conceder pelo organismo regional competente em matéria de ação social."
+  },
+  "206346481": {
+   "fragment_id": "206307569",
+   "type": 8,
+   "heading": "Secção II — Do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do procedimento"
+  },
+  "206346482": {
+   "fragment_id": "206307570",
+   "type": 11,
+   "heading": "Artigo 9.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requerimento\n\n1 - O pedido de licenciamento da atividade de ama é efetuado mediante a apresentação de requerimento em modelo próprio, aprovado por despacho do membro do Governo Regional competente em matéria de solidariedade social, dirigido ao organismo regional competente em matéria de ação social, instruído com os documentos referidos no n.º 3.\n\n2 - Do requerimento constam obrigatoriamente:\n\na) Identificação do requerente;\n\nb) Tipo e condições das instalações próprias do requerente;\n\nc) Identificação das pessoas que coabitam com o requerente.\n\n3 - O requerimento deve ser acompanhado dos documentos previstos no regime jurídico que estabelece os termos e condições para o acesso à profissão e o exercício da atividade de ama, previsto no Decreto-Lei n.º 115/2015, de 22 de junho, e respetiva regulamentação."
+  },
+  "206346483": {
+   "fragment_id": "206307571",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão\n\n1 - O organismo regional competente em matéria de ação social profere a decisão sobre o pedido de licença no prazo de trinta dias a contar da data de receção do relatório previsto no n.º 2 do artigo 5.º\n\n2 - O requerimento é indeferido quando não forem cumpridas as condições e requisitos previstos no presente diploma."
+  },
+  "206346484": {
+   "fragment_id": "206307572",
+   "type": 11,
+   "heading": "Artigo 11.º — Certificado de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Certificado de licenciamento\n\n1 - Concluído o procedimento, e verificando-se que o requerente reúne os requisitos exigidos, é emitido o certificado de licenciamento, do qual deve constar:\n\na) A identificação da pessoa autorizada para o exercício da atividade de ama;\n\nb) A localização das instalações próprias da pessoa identificada na alínea anterior;\n\nc) O número máximo de crianças;\n\nd) A data de emissão;\n\ne) A validade do licenciamento.\n\n2 - O certificado de licenciamento tem modelo próprio a aprovar por portaria do membro do Governo Regional competente em matéria de solidariedade social."
+  },
+  "206346485": {
+   "fragment_id": "206307573",
+   "type": 11,
+   "heading": "Artigo 12.º — Validade do certificado de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Validade do certificado de licenciamento\n\n1 - O certificado de licenciamento é válido por cinco anos, podendo ser revalidado por iguais e sucessivos períodos, nos termos dos números seguintes.\n\n2 - Até cento e oitenta dias antes de decorridos cinco anos após a data de emissão ou da revalidação, o titular deve requerer à entidade autorizadora a revalidação do certificado de licenciamento.\n\n3 - Sempre que, aquando da revalidação, não se encontrem preenchidos todos os requisitos legais ou regulamentares aplicáveis, é emitida licença provisória ou ordenada a revogação do certificado de licenciamento, nos termos do presente diploma.\n\n4 - A não revalidação do certificado de licenciamento determina a sua caducidade."
+  },
+  "206346486": {
+   "fragment_id": "206307574",
+   "type": 11,
+   "heading": "Artigo 13.º — Licença provisória e licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Licença provisória e licenciamento\n\n1 - Quando não estiverem reunidas todas as condições exigidas para a emissão da licença, mas seja previsível que as mesmas possam ser cumpridas, pode ser emitida licença provisória para o exercício da atividade, se daí não resultarem riscos para a saúde, segurança ou bem-estar das crianças.\n\n2 - A licença provisória é concedida pelo prazo máximo de cento e oitenta dias, prorrogável por igual período, por uma só vez, mediante requerimento devidamente fundamentado.\n\n3 - O pedido de licença é indeferido se, dentro do prazo referido no número anterior, não forem cumpridas as condições para o exercício da atividade ou supridas as anomalias mencionadas na licença provisória."
+  },
+  "206346487": {
+   "fragment_id": "206346575",
+   "type": 11,
+   "heading": "Artigo 14.º — Utilidade social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Utilidade social\n\nTodas as amas que se encontrem licenciadas para o exercício da respetiva atividade são consideradas de utilidade social, usufruindo, nomeadamente, da atribuição dos benefícios fiscais inerentes."
+  },
+  "206346488": {
+   "fragment_id": "206346576",
+   "type": 8,
+   "heading": "Secção III — Das vicissitudes da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das vicissitudes da licença"
+  },
+  "206346489": {
+   "fragment_id": "206346577",
+   "type": 11,
+   "heading": "Artigo 15.º — Suspensão da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Suspensão da licença\n\n1 - O licenciamento da atividade pode ser temporariamente suspenso, nos casos em que a ama, justificadamente, interrompa com caráter transitório o exercício da atividade ou sempre que o organismo regional competente em matéria de ação social considere que alterações verificadas nas condições do exercício da atividade, aconselham a sua interrupção temporária, tendo em vista o bem-estar das crianças.\n\n2 - Nos casos em que a ama interrompa o seu exercício da sua atividade, deve comunicar tal interrupção ao organismo regional competente em matéria de ação social.\n\n3 - A interrupção do exercício da atividade de ama por um período superior a seis meses determina a suspensão da respetiva licença.\n\n4 - No caso previsto no número anterior, o interessado pode reclamar da proposta de suspensão no prazo de dez dias.\n\n5 - A decisão definitiva da suspensão é proferida quando se verifique uma das seguintes situações:\n\na) A reclamação apresentada nos termos do número anterior for considerada improcedente;\n\nb) O interessado não apresente reclamação nos dez dias após a notificação de suspensão.\n\n6 - Logo que se alterem as circunstâncias que determinaram a suspensão da licença, pode ser requerido o fim da suspensão."
+  },
+  "206346490": {
+   "fragment_id": "206346578",
+   "type": 11,
+   "heading": "Artigo 16.º — Mudança ou alteração de instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mudança ou alteração de instalações\n\n1 - A mudança de instalações da ama ou a realização de alterações significativas nas mesmas, carecem de obtenção de parecer prévio favorável da entidade autorizadora, na sequência da realização de visita domiciliária, nos termos do n.º 2 do artigo 5.º .\n\n2 - O pedido é apresentado no prazo mínimo de vinte dias antes da mudança ou da realização das alterações, acompanhado de todos os elementos documentais necessários, designadamente, cópia da certidão da conservatória do registo predial ou do contrato de arrendamento das novas instalações ou de documento justificativo das obras a efetuar.\n\n3 - Sendo cumpridas as condições para o exercício da atividade, há lugar à substituição do certificado de licenciamento, por alteração da informação a que se refere a alínea b) e, eventualmente, a alínea c) do n.º 1 do artigo 11.º"
+  },
+  "206346491": {
+   "fragment_id": "206346579",
+   "type": 8,
+   "heading": "Secção IV — Do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do registo"
+  },
+  "206346492": {
+   "fragment_id": "206346580",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Registo\n\n1 - O organismo regional social competente em matéria de ação social deve organizar e manter atualizado um registo das amas licenciadas.\n\n2 - O registo das amas licenciadas e em exercício é de acesso disponível ao público no Portal do Governo Regional dos Açores.\n\n3 - No registo devem constar os seguintes elementos:\n\na) Identificação das amas e respetivas instalações;\n\nb) Número do certificado de licenciamento emitido a seu favor;\n\nc) Identificação do facto da ama exercer a sua atividade enquadrada numa creche familiar e, em caso afirmativo, indicação dos elementos de contacto da respetiva instituição de enquadramento."
+  },
+  "206346493": {
+   "fragment_id": "206346581",
+   "type": 1,
+   "heading": "Capítulo IV — Direitos e deveres da ama",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Direitos e deveres da ama"
+  },
+  "206346494": {
+   "fragment_id": "206346582",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos das amas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direitos das amas\n\nA ama tem direito a receber da família das crianças acolhidas:\n\na) Informação atualizada sobre a saúde, comportamento e hábitos da criança;\n\nb) Roupa de reserva adequada à idade da criança;\n\nc) Objetos de uso pessoal e de higiene da criança;\n\nd) Identificação, por escrito, das pessoas a quem deve entregar a criança e quem deve contactar em caso de emergência;\n\ne) Informação que permita a atualização do processo individual da criança a que se refere o n.º 2 do artigo 25.º"
+  },
+  "206346495": {
+   "fragment_id": "206346583",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações das amas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações das amas\n\nAs amas, no exercício da sua atividade, ficam obrigadas:\n\na) A garantir um bom nível qualitativo dos serviços prestados, de acordo com os princípios estabelecidos no presente diploma e com as orientações técnicas que sobre esta atividade sejam emanadas pelo organismo regional competente em matéria de ação social;\n\nb) Celebrar contrato de seguro que cubra os acidentes pessoais das crianças, salvo quando a ama exerça a atividade no âmbito de uma instituição de enquadramento;\n\nc) Frequentar as ações de formação inicial e contínua, nos termos do artigo 7.º ;\n\nd) Colaborar com a família das crianças acolhidas, garantindo permanente informação de forma a assegurar o bem-estar das mesmas;\n\ne) Assegurar uma alimentação saudável e equilibrada das crianças, garantindo as condições de higiene e segurança alimentar na preparação dos alimentos;\n\nf) Permitir o acesso da família da criança às suas instalações, sempre que necessário ou quando solicitado por esta, por motivos relacionados com o exercício da atividade;\n\ng) Avisar, de imediato, em caso de doença ou de acidente, a família da criança e tomar as providências adequadas quando as situações revistam carácter de urgência;\n\nh) Informar imediatamente a família sempre que a ama, quem coabite com a mesma ou outra criança desenvolva doença transmissível, respeitando os períodos de afastamento previstos na legislação em vigor relativos às doenças de evicção escolar;\n\ni) Facultar aos serviços competentes de fiscalização e inspeção o acesso às instalações e às informações indispensáveis à avaliação da respetiva atividade;\n\nj) Facultar à família o acesso ao processo individual da criança e ao processo da atividade a que se refere o artigo 25.º ;\n\nk) Comunicar às entidades competentes factos que indiciem eventuais situações de risco ou de perigo que ponham em causa o desenvolvimento integral das crianças;\n\nl) Manter as instalações, os artigos de puericultura e os brinquedos em condições de higiene e segurança;\n\nm) Informar a família das crianças acolhidas, da intenção de interromper ou cessar a atividade, nos termos previstos no artigo 15.º ;\n\nn) Dispor de livro de reclamações nos termos da legislação em vigor."
+  },
+  "206346496": {
+   "fragment_id": "206346584",
+   "type": 1,
+   "heading": "Capítulo V — Do funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do funcionamento"
+  },
+  "206346497": {
+   "fragment_id": "206346585",
+   "type": 8,
+   "heading": "Secção I — Das condições e requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Das condições e requisitos gerais"
+  },
+  "206346498": {
+   "fragment_id": "206346586",
+   "type": 11,
+   "heading": "Artigo 20.º — Admissão de crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Admissão de crianças\n\n1 - As crianças a admitir devem ter idade superior a três meses e inferior a três anos, salvo em casos excecionais devidamente justificados.\n\n2 - A ausência ou impossibilidade por parte dos pais ou de quem exerça as responsabilidades parentais de assegurar à criança os cuidados necessários, constitui fator de prioridade na admissão de crianças em amas integradas em creche familiar.\n\n3 - Para efeitos de admissão das crianças, devem ser apresentados, junto da ama ou da creche familiar, consoante a atividade seja exercida a título privado ou não, os seguintes documentos:\n\na) Ficha de inscrição;\n\nb) Cópia de certidão de nascimento ou do cartão do cidadão;\n\nc) Comprovação da situação das vacinas;\n\nd) Autorização, devidamente assinada pelos pais ou por quem exerça as responsabilidades parentais, com identificação das pessoas a quem a criança pode ser entregue;\n\ne) Informação, por escrito, da identificação das pessoas que devem ser contactadas em caso de emergência;\n\nf) Declaração médica em caso de patologia que determine cuidados especiais;\n\ng) Declaração dos rendimentos do agregado familiar, em caso de processo de admissão em amas integradas em creche familiar.\n\n4 - Na ficha de inscrição deve constar, nomeadamente, a seguinte informação:\n\na) O nome, data de nascimento e morada da criança;\n\nb) Os nomes, moradas e contactos telefónicos dos pais ou de quem exerça as responsabilidades parentais e das pessoas autorizadas para recolha da criança;\n\nc) Indicação das doenças ou necessidades especiais da criança, conjuntamente com toda a informação relevante relativamente às situações que careçam de atenção e cuidados especiais, comprovada pela declaração médica mencionada na alínea f) do número anterior."
+  },
+  "206346499": {
+   "fragment_id": "206346587",
+   "type": 11,
+   "heading": "Artigo 21.º — Número máximo de crianças por ama",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Número máximo de crianças por ama\n\n1 - O acolhimento assegurado pela ama tem como limite máximo quatro crianças, preferencialmente de idades diferenciadas dentro do grupo etário previsto.\n\n2 - O número de crianças a acolher por cada ama é definido pelo organismo regional competente em matéria de ação social que concede a licença para o exercício da atividade, de acordo com as respetivas condições de natureza pessoal e habitacional.\n\n3 - Para definição do número global de crianças a acolher, nos termos do número anterior, são tidos em consideração os filhos da ama ou outras crianças a cargo, com idades compreendidas entre os três meses e os três anos, embora sem direito a retribuição.\n\n4 - Nos casos de ausência ou impedimento da ama previstos no artigo 26.º , o limite máximo do acolhimento pode ser de seis crianças quando estiver em causa o acolhimento de irmãos."
+  },
+  "206346500": {
+   "fragment_id": "206346588",
+   "type": 11,
+   "heading": "Artigo 22.º — Acolhimento de crianças com deficiência e incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acolhimento de crianças com deficiência e incapacidade\n\n1 - O número de crianças com deficiência e incapacidade a acolher por ama não deve exceder uma, salvo casos excecionais devidamente analisados.\n\n2 - Sempre que se verificar o disposto no número anterior, o número máximo de crianças a acolher por ama não deve ser superior a três.\n\n3 - A criança com deficiência deve preferencialmente ser acolhida numa creche familiar quando for encaminhada, nomeadamente, pelo organismo regional competente em matéria de ação social, pela Comissão de Proteção de Crianças e Jovens ou pela equipa de intervenção precoce na infância.\n\n4 - A admissão de crianças com deficiência e incapacidade deve ser precedida de parecer técnico favorável do organismo regional competente em matéria de ação social.\n\n5 - As amas que acolham crianças com deficiência e incapacidade devem beneficiar, no exercício da sua atividade, de apoio regular do organismo regional competente em matéria de ação social e, conjunta ou alternativamente, pela creche familiar da sua área geográfica."
+  },
+  "206346501": {
+   "fragment_id": "206346589",
+   "type": 11,
+   "heading": "Artigo 23.º — Período de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Período de acolhimento\n\n1 - O período de acolhimento contratado não pode ser inferior a quatro horas nem superior a onze horas.\n\n2 - Em situações excecionais, o período de acolhimento estabelecido no número anterior pode ser objeto de ajustamento, designadamente quando se verifique uma manifesta incompatibilidade entre aquele período e a possibilidade de acolhimento da criança pelos pais ou de quem exerça as responsabilidades parentais."
+  },
+  "206346502": {
+   "fragment_id": "206346590",
+   "type": 8,
+   "heading": "Secção II — Das amas que contratualizam o serviço diretamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das amas que contratualizam o serviço diretamente"
+  },
+  "206346503": {
+   "fragment_id": "206346591",
+   "type": 11,
+   "heading": "Artigo 24.º — Contrato de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contrato de prestação de serviços\n\n1 - A admissão depende da celebração de um contrato de prestação de serviços assinado pelas partes, do qual constem, designadamente, os seguintes elementos:\n\na) Identificação da criança e dos pais ou de quem exerça as responsabilidades parentais;\n\nb) Direitos e obrigações das partes;\n\nc) Serviços e atividades contratualizados;\n\nd) Periodicidade e horário acordado;\n\ne) Período anual de interrupção da atividade;\n\nf) Valor da mensalidade;\n\ng) Condições de cessação e rescisão do contrato.\n\n2 - Do contrato é entregue um exemplar aos pais ou a quem exerça as responsabilidades parentais e arquivado outro no processo individual da criança.\n\n3 - Qualquer alteração ao contrato é efetuada por mútuo consentimento e assinada pelas partes."
+  },
+  "206346504": {
+   "fragment_id": "206346592",
+   "type": 11,
+   "heading": "Artigo 25.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processo individual\n\n1 - A ama deve organizar um processo individual para cada criança que acolhe, no qual deve constar, designadamente:\n\na) Ficha de inscrição;\n\nb) Exemplar do contrato de prestação de serviços;\n\nc) Autorização com a identificação das pessoas a quem a criança pode ser entregue;\n\nd) Identificação, endereço e contacto telefónico das pessoas a contactar em caso de necessidade;\n\ne) Comprovação da situação das vacinas;\n\nf) Declaração médica em caso de patologia que determine cuidados especiais;\n\ng) Declaração médica da qual resulte a inexistência de impedimentos para a frequência de ama;\n\nh) Informação sobre a situação sociofamiliar, cujos critérios são definidos por despacho do membro do Governo Regional com competência em matéria de solidariedade social;\n\ni) Cópia da apólice do seguro de responsabilidade civil;\n\nj) Registo de presenças das crianças;\n\nk) Registo da data e motivo da cessação ou rescisão do contrato de prestação de serviços.\n\n2 - O processo individual deve ser permanentemente atualizado, sendo restrito o acesso aos dados nele contidos.\n\n3 - O processo individual da criança pode, quando solicitado, ser consultado pelos pais ou por quem exerça as responsabilidades parentais.\n\n4 - A atividade de ama implica a organização de um processo da atividade da ama, que deve estar disponível para consulta do qual deve constar, designadamente:\n\na) Autorização para o exercício da atividade;\n\nb) Certificados de formação inicial e contínua;\n\nc) Contrato de prestação de serviços, quando aplicável;\n\nd) Cópia do contrato de seguro que cubra os acidentes pessoais das crianças, quando aplicável;\n\ne) Comprovativos do seu estado de saúde e certificado do registo criminal, devidamente atualizados;\n\nf) Outros documentos relevantes relacionados com o exercício da atividade."
+  },
+  "206346505": {
+   "fragment_id": "206346593",
+   "type": 11,
+   "heading": "Artigo 26.º — Ausências e impedimentos da ama",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Ausências e impedimentos da ama\n\n1 - A ama deve garantir que as suas ausências ou impedimentos sejam colmatados por outra ama licenciada, a exercer atividade em instalações próprias.\n\n2 - A identificação das amas substitutas deve ser conhecida dos pais ou de quem exerça as responsabilidades parentais, previamente à celebração do contrato de prestação de serviços a que alude o artigo anterior.\n\n3 - Qualquer mudança relativamente às amas substitutas deve ser, de imediato, dada a conhecer aos pais ou a quem exerça as responsabilidades parentais.\n\n4 - Salvo o disposto no n.º 4 do artigo 21.º , na situação prevista no n.º 1 é, excecionalmente, permitido o acolhimento de mais uma criança, para além do número máximo de crianças autorizado à ama substituta.\n\n5 - O exercício da atividade em regime de substituição deve, no prazo máximo de dois dias, ser comunicado à entidade licenciadora.\n\n6 - A substituição da ama não se pode prolongar para além de cinco dias, sob pena de suspensão da respetiva licença.\n\n7 - Em casos excecionais e devidamente fundamentados, pode a substituição da ama prolongar-se por período superior a cinco dias, desde que sujeita a parecer técnico da entidade licenciadora."
+  },
+  "206346506": {
+   "fragment_id": "206346594",
+   "type": 11,
+   "heading": "Artigo 27.º — Cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cuidados de saúde\n\n1 - A administração de medicamentos à criança pode ser efetuada mediante prescrição médica facultada pela família ou mediante autorização desta dada por escrito.\n\n2 - Os medicamentos a ministrar são entregues à ama, com inscrição no exterior da embalagem do nome completo da criança, da hora em que devem ser administrados e respetiva dosagem.\n\n3 - Deve ser definida conjuntamente com a família da criança a atuação a adotar em situações que exijam a administração de medicamentos específicos, bem como em casos de situação de doença crónica ou de agudização de doença preexistente."
+  },
+  "206346507": {
+   "fragment_id": "206346595",
+   "type": 11,
+   "heading": "Artigo 28.º — Tabela de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Tabela de preços\n\n1 - No que respeita ao preço pelos serviços prestados no âmbito da sua atividade, a ama está sujeita às seguintes obrigações:\n\na) Possuir uma tabela de preços dos serviços prestados, que deve encontrar-se afixada em local bem visível;\n\nb) Dar conhecimento, por escrito, aos pais e à entidade licenciadora, de qualquer alteração à tabela de preços, com trinta dias de antecedência sobre a respetiva entrada em vigor;\n\nc) Assegurar que relativamente a todos os pais ou a quem exerça as responsabilidades parentais são aplicados os mesmos preços relativamente aos mesmos serviços prestados.\n\n2 - O preço dos serviços prestados às crianças com deficiência, incapacidade ou doença, não pode constituir-se, em caso algum, como um fator de dissuasão ou de discriminação ao seu acolhimento, por parte de ama em exercício de atividade a título privado."
+  },
+  "206346508": {
+   "fragment_id": "206346596",
+   "type": 11,
+   "heading": "Artigo 29.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Seguro de responsabilidade civil\n\nA responsabilidade civil decorrente do exercício de atividade de ama deve ser transferida para empresas de seguros."
+  },
+  "206346509": {
+   "fragment_id": "206346597",
+   "type": 8,
+   "heading": "Secção III — Das amas integradas em creche familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das amas integradas em creche familiar"
+  },
+  "206346510": {
+   "fragment_id": "206346598",
+   "type": 11,
+   "heading": "Artigo 30.º — Contratualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Contratualização\n\nO exercício de atividade de ama no âmbito de resposta da segurança social faz-se através da celebração de contrato de prestação de serviço com as instituições particulares de solidariedade social de enquadramento, no âmbito de uma creche familiar."
+  },
+  "206346511": {
+   "fragment_id": "206346599",
+   "type": 11,
+   "heading": "Artigo 31.º — Retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Retribuição\n\n1 - À ama é devida uma retribuição mensal calculada segundo a seguinte fórmula:\n\nRm = ((CM x 14)/12) x n\n\nem que Rm representa a retribuição mensal, Cm a comparticipação mensal por criança paga pela instituição e n o número de crianças atendidas pela ama.\n\n2 - O valor da retribuição mensal, calculado segundo a fórmula referida no número anterior, é sempre arredondado para unidade imediatamente superior.\n\n3 - O valor da comparticipação mensal (Cm) é anualmente fixado por despacho do membro do Governo Regional competente em matéria de solidariedade social, tendo em conta o valor do aumento dos custos médios estabelecidos para a valência de creche.\n\n4 - O acolhimento de crianças com deficiência confere à ama uma retribuição mensal, que corresponde a duas vezes a retribuição mensal (RM) por criança, resultante da aplicação da fórmula prevista no n.º 1 e fixada por membro do Governo Regional competente em matéria de solidariedade social.\n\n5 - Para efeitos do disposto no número anterior, considera-se criança com deficiência aquela que beneficia da bonificação por deficiência do abono de família para crianças e jovens."
+  },
+  "206346512": {
+   "fragment_id": "206346600",
+   "type": 11,
+   "heading": "Artigo 32.º — Redução da retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Redução da retribuição\n\n1 - Sempre que não se efetive o acolhimento de crianças admitidas por razões não imputáveis à ama é-lhe devido um quantitativo correspondente a 50 % da comparticipação mensal por criança.\n\n2 - O pagamento desta retribuição cessa decorridos três meses após a verificação da situação de não acolhimento.\n\n3 - A redução de remuneração prevista no n.º 1, não se aplica a situações de ausência justificada das crianças, nos termos a regulamentar por portaria do membro do Governo Regional com competência em matéria de solidariedade social."
+  },
+  "206346513": {
+   "fragment_id": "206346601",
+   "type": 11,
+   "heading": "Artigo 33.º — Subsídio para suplemento alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Subsídio para suplemento alimentar\n\n1 - Para reforço da alimentação da criança é atribuído um subsídio mensal por criança, de valor a fixar por despacho do membro do Governo Regional competente em matéria de solidariedade social.\n\n2 - O valor do subsídio a que se refere o número anterior será revisto anualmente."
+  },
+  "206346514": {
+   "fragment_id": "206346602",
+   "type": 11,
+   "heading": "Artigo 34.º — Comparticipação das famílias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Comparticipação das famílias\n\nO acolhimento e a alimentação prestados pela ama são comparticipados pelas famílias das crianças de acordo com as normas de comparticipação familiar estabelecidas em regulamento a aprovar pelo membro do Governo Regional com competência em matéria de solidariedade social."
+  },
+  "206346515": {
+   "fragment_id": "206346603",
+   "type": 11,
+   "heading": "Artigo 35.º — Interrupção de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Interrupção de atividade\n\n1 - Anualmente a ama tem direito à interrupção da atividade com a duração de vinte e dois dias úteis, seguidos ou interpolados, que serão marcados tendo em conta os interesses da ama e das famílias das crianças.\n\n2 - Durante os dias referidos no número anterior, a ama tem direito ao pagamento de retribuição mensal."
+  },
+  "206346516": {
+   "fragment_id": "206346604",
+   "type": 1,
+   "heading": "Capítulo VI — Das creches familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Das creches familiares"
+  },
+  "206346517": {
+   "fragment_id": "206346605",
+   "type": 11,
+   "heading": "Artigo 36.º — Obrigações das creches familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Obrigações das creches familiares\n\n1 - No exercício das suas competências de apoio às amas integradas nas creches familiares, devem as instituições particulares de solidariedade social:\n\na) Aceitar a inscrição e proceder à seleção e admissão das crianças, nos termos e condições a definir por portaria do membro do Governo Regional com competência em matéria de solidariedade social, bem como calcular e receber as respetivas comparticipações familiares, de acordo com regulamentação a aprovar pelo membro do Governo Regional competente em matéria de solidariedade social;\n\nb) Dar apoio à família na integração da criança na ama, apoiando a respetiva família no reforço das suas competências parentais e promovendo a interação entre a ama e a família;\n\nc) Organizar e manter atualizados os registos biográficos das crianças e das amas;\n\nd) Assegurar às amas o pagamento da retribuição que lhes for devida, bem como dos subsídios referentes ao suplemento alimentar;\n\ne) Prestar o apoio técnico sistemático necessário ao bom exercício da atividade, nomeadamente através de apoio domiciliário e, quando necessário, do fornecimento de equipamento indispensável;\n\nf) Promover uma articulação permanente entre as amas e as famílias, designadamente através de contactos individuais e de reuniões periódicas, a fim de garantir a continuidade no processo educativo de cada criança;\n\ng) Proceder ao seguro escolar de cada criança que frequente este serviço, sendo da responsabilidade das famílias o pagamento dos respetivos prémios.\n\n2 - Compete às creches familiares, na sua respetiva zona geográfica de influência, contribuir para a melhoria da qualidade e eficiência do serviço prestado pelas amas licenciadas no âmbito de uma instituição de enquadramento, designadamente, através de:\n\na) Acompanhamento e controlo adequado com vista a garantir a prestação de um serviço de qualidade, nomeadamente através da realização de visitas regulares dos elementos da respetiva equipa de enquadramento de amas, que procedam à observação do desenvolvimento das atividades e que prestem o necessário apoio técnico ao desempenho das amas;\n\nb) Avaliação da adequação, em termos quantitativos e qualitativos, do material e equipamento disponíveis;\n\nc) Monitorização e avaliação do desempenho das amas;\n\nd) Promover a articulação entre as amas enquadradas a fim de garantir a troca de práticas e experiências;\n\ne) Promover a devida articulação com as equipas locais de intervenção precoce na infância, com o objetivo de garantir o adequado acompanhamento das crianças com deficiência ou com alterações nas estruturas ou funções do corpo;\n\nf) Dar conhecimento ao organismo regional competente em matéria de ação social e à Comissão de Proteção de Crianças e Jovens ou ao tribunal competente, de factos que indiciem eventuais situações de perigo ou risco, que ponham em causa o desenvolvimento integral das crianças."
+  },
+  "206346518": {
+   "fragment_id": "206346606",
+   "type": 11,
+   "heading": "Artigo 37.º — Implantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Implantação\n\nA implantação de creches familiares depende da verificação das seguintes condições:\n\na) Existência de instituições particulares de solidariedade social que tenham as condições necessárias para funcionarem como serviço de apoio;\n\nb) Verificação, pelo organismo regional competente em matéria de ação social, da existência de um número de crianças cuja necessidade de colocação extrafamiliar justifique a implantação de um mínimo de oito amas nas zonas geográficas abrangidas pelos estabelecimentos.\n\nc) O número de amas por creche familiar pode não cumprir com o limite mínimo referido na alínea anterior, em zonas geográficas que o justifiquem, desde que o organismo regional de segurança social avalie a resposta como necessária."
+  },
+  "206346519": {
+   "fragment_id": "206346607",
+   "type": 11,
+   "heading": "Artigo 38.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regime\n\nAs amas integradas em creches familiares ficam sujeitas às normas de licenciamento, de conduta e funcionamento estabelecidas nos capítulos II, III e IV e nas secções I e III do capítulo V do presente diploma."
+  },
+  "206346520": {
+   "fragment_id": "206346608",
+   "type": 11,
+   "heading": "Artigo 39.º — Serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Serviços de apoio\n\n1 - As instituições particulares de solidariedade social que funcionem como serviços de apoio às creches familiares devem dispor de uma equipa de enquadramento de amas, composta por uma unidade técnica por cada oito amas.\n\n2 - Compete aos serviços administrativos das instituições de enquadramento prestar o apoio necessário à atividade da creche familiar.\n\n3 - Para o desenvolvimento das suas atividades, o serviço de apoio da creche familiar da instituição de enquadramento deve dispor de instalações próprias constituídas por um gabinete e uma arrecadação para material.\n\n4 - As instituições que funcionem como serviços de apoio devem assegurar, sempre que possível, às creches familiares, o fornecimento de refeições e o tratamento de roupas."
+  },
+  "206346521": {
+   "fragment_id": "206346609",
+   "type": 11,
+   "heading": "Artigo 40.º — Acompanhamento técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Acompanhamento técnico\n\n1 - O acompanhamento técnico das amas em creche familiar é realizado por um técnico com formação mínima correspondente a licenciatura nas áreas de educação de infância, psicologia ou serviço social, com experiência profissional para o exercício das funções, a tempo inteiro, por cada grupo de oito amas, que articula com as famílias, com a equipa técnica da creche e de estabelecimento de educação pré-escolar da instituição de enquadramento e com os serviços administrativos da instituição, sempre que necessário.\n\n2 - As ações de acompanhamento referidas no número anterior compreendem a definição, execução e avaliação do projeto pedagógico, a organização do tempo e rotinas das crianças e o relacionamento com os pais ou com quem exerça as responsabilidades parentais.\n\n3 - O acompanhamento técnico pode ainda incidir sobre a organização dos espaços onde as crianças permanecem, de acordo com as disposições constantes na regulamentação referente às condições de higiene e de segurança habitacionais a observar no domicílio das amas, a que se refere o artigo 53.º"
+  },
+  "206346522": {
+   "fragment_id": "206346610",
+   "type": 11,
+   "heading": "Artigo 41.º — Competência dos serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Competência dos serviços de apoio\n\nCompete aos serviços de apoio, para além das obrigações estabelecidas no artigo 39.º :\n\na) Aceitar candidaturas de amas licenciadas e efetuar a sua seleção com a colaboração técnica do organismo regional competente em matéria de ação social;\n\nb) Assegurar o atendimento das crianças durante os impedimentos pontuais das amas integradas no âmbito de resposta da segurança social."
+  },
+  "206346523": {
+   "fragment_id": "206346611",
+   "type": 11,
+   "heading": "Artigo 42.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regulamento interno\n\n1 - O regulamento interno da creche familiar define as regras e os princípios específicos do funcionamento e deve ser elaborado de acordo com a legislação aplicável em vigor.\n\n2 - Um exemplar do regulamento interno deve ser entregue à família no ato de celebração do contrato de prestação de serviços.\n\n3 - As alterações ao regulamento interno são comunicadas ao organismo regional competente em matéria de ação social, bem como aos respetivos pais ou a quem exerça as responsabilidades parentais."
+  },
+  "206346524": {
+   "fragment_id": "206346612",
+   "type": 11,
+   "heading": "Artigo 43.º — Projeto pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Projeto pedagógico\n\n1 - Para a prossecução dos objetivos da creche familiar é elaborado um projeto pedagógico ou utilizado o projeto pedagógico da creche da instituição de enquadramento, com as necessárias adaptações, que constitui a base de planeamento e acompanhamento das atividades desenvolvidas pelas amas e tem em conta as características e necessidades das crianças.\n\n2 - Os termos do projeto pedagógico são objeto de portaria do membro do Governo Regional com competência em matéria de solidariedade social."
+  },
+  "206346525": {
+   "fragment_id": "206346613",
+   "type": 11,
+   "heading": "Artigo 44.º — Apoio técnico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Apoio técnico e financeiro\n\nO apoio técnico e financeiro por parte da Região às instituições particulares de solidariedade social que desenvolvam a modalidade de creche familiar é objeto de contrato de cooperação, a celebrar nos termos definidos no Código de Ação Social dos Açores."
+  },
+  "206346526": {
+   "fragment_id": "206346614",
+   "type": 1,
+   "heading": "Capítulo VII — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Fiscalização e regime sancionatório"
+  },
+  "206346527": {
+   "fragment_id": "206346615",
+   "type": 11,
+   "heading": "Artigo 45.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Fiscalização\n\n1 - Compete ao organismo regional competente em matéria de ação social desenvolver ações de fiscalização da atividade das amas licenciadas em regime privado ou integradas nas creches familiares, bem como desencadear os procedimentos necessários face às ilegalidades detetadas, promovendo e acompanhando a execução das medidas propostas.\n\n2 - Os trabalhadores que procedem à fiscalização têm livre acesso às instalações da ama, e devem-lhes ser facultados todos os elementos necessários ao ato de fiscalização."
+  },
+  "206346528": {
+   "fragment_id": "206346616",
+   "type": 11,
+   "heading": "Artigo 46.º — Revogação de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Revogação de licença\n\n1 - O organismo regional competente em matéria de ação social pode determinar a revogação da licença de exercício da atividade de ama sempre que deixem de se verificar os requisitos exigidos para a sua obtenção, nomeadamente quando se verifiquem alterações nas condições exigidas para o exercício da atividade ou por qualquer motivo superveniente de que possa resultar perigo para a segurança moral ou física das crianças.\n\n2 - A revogação da licença de exercício da atividade de ama implica a devolução do documento à entidade emissora."
+  },
+  "206346529": {
+   "fragment_id": "206346617",
+   "type": 11,
+   "heading": "Artigo 47.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Contraordenações\n\n1 - Sem prejuízo da responsabilidade criminal, civil e das sanções ou medidas administrativas a cuja aplicação houver lugar, constituem contraordenação:\n\na) O exercício da atividade de ama por pessoas que não se encontrem devidamente licenciadas, nos termos do disposto no artigo 8.º , punível com coima de (euro) 300,00 (trezentos euros) a (euro) 3.000,00 (três mil euros);\n\nb) As infrações ao disposto nos artigos 21.º a 24.º, 26.º, 28.º e 29.º, punível com coima de (euro) 250,00 (duzentos e cinquenta euros) a (euro) 1.870,00 (mil oitocentos e setenta euros);\n\nc) A não observância das condições de espaço, higiene e segurança, definidas em regulamentação própria, punível com coima de (euro) 250,00 (duzentos e cinquenta euros) a (euro) 1.870,00 (mil oitocentos e setenta euros);\n\nd) O incumprimento das obrigações previstas nos artigos 15.º, 16.º e 19.º, que não sejam puníveis nos termos das alíneas anteriores, é punível com coima de (euro) 150,00 (cento e cinquenta euros) a (euro) 930,00 (novecentos e trinta euros).\n\n2 - A negligência e a tentativa são puníveis, sendo reduzidos a metade os montantes mínimos e máximos da coima fixados no número anterior.\n\n3 - O processamento das contraordenações e a aplicação das coimas cabe ao organismo regional competente em matéria de ação social.\n\n4 - Caso se trate de uma contraordenação grave ou muito grave, pode ser determinada a publicidade da aplicação da sanção por contraordenação mediante a publicação do extrato da decisão em jornal da localidade ou, na sua falta, da localidade mais próxima, em plataforma informática regional de informação e apoio à decisão social, na área do Portal do Governo Regional que disponibiliza ao público informação relativa ao registo de amas, bem como por afixação de edital, em local visível ao público, junto das instalações da ama, por um período de trinta dias.\n\n5 - As contraordenações previstas no presente artigo prevalecem sobre quaisquer outras que sancionem as mesmas condutas."
+  },
+  "206346530": {
+   "fragment_id": "206346618",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "206346531": {
+   "fragment_id": "206346619",
+   "type": 11,
+   "heading": "Artigo 48.º — Regime de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Regime de segurança social\n\nA ama fica obrigatoriamente enquadrada pelo regime de segurança social dos trabalhadores independentes."
+  },
+  "206346532": {
+   "fragment_id": "206346620",
+   "type": 11,
+   "heading": "Artigo 49.º — Obrigações fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Obrigações fiscais\n\nO exercício da atividade de ama depende da prévia apresentação de declaração de início de atividade, junto da administração fiscal, estando sujeito a todas as obrigações fiscais que legalmente lhe são aplicáveis."
+  },
+  "206346533": {
+   "fragment_id": "206346621",
+   "type": 11,
+   "heading": "Artigo 50.º — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Proteção de dados pessoais\n\nO tratamento e manuseamento dos dados pessoais previstos no presente diploma fica sujeito ao regime jurídico estabelecido pela Lei de Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro, designadamente:\n\na) No que se refere ao direito de acesso e retificação dos dados pessoais recolhidos;\n\nb) Na conservação dos dados recolhidos, de forma a permitir a identificação dos seus titulares apenas durante o período necessário para a prossecução das finalidades da recolha ou do tratamento posterior;\n\nc) Quanto à segurança e confidencialidade do tratamento dos dados."
+  },
+  "206346534": {
+   "fragment_id": "206346622",
+   "type": 11,
+   "heading": "Artigo 51.º — Amas licenciadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Amas licenciadas\n\n1 - As amas licenciadas à data de entrada em vigor do presente diploma, mantêm a certificação que detêm para o exercício da atividade e transitam, independentemente de quaisquer formalidades, para o regime estabelecido no presente diploma.\n\n2 - Para efeitos de revalidação do certificado de licenciamento das amas identificadas no número anterior, a contagem do prazo estabelecido no n.º 1 do artigo 12.º inicia-se no dia seguinte à data de entrada em vigor do presente diploma."
+  },
+  "206346535": {
+   "fragment_id": "206346623",
+   "type": 11,
+   "heading": "Artigo 52.º — Amas em exercício de atividade irregular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Amas em exercício de atividade irregular\n\n1 - As amas em exercício de atividade que não se encontrem licenciadas ao abrigo da legislação referida no n.º 1 do artigo anterior dispõem de seis meses a partir da entrada em vigor do presente diploma para se adequarem ao que nele está disposto.\n\n2 - Para efeitos de emissão de licença, as amas referidas no número anterior podem ser dispensadas da frequência da formação básica inicial, prevista no n.º 1 do artigo 7.º , desde que reúnam as condições estabelecidas nos artigos 5.º e 6.º\n\n3 - A dispensa prevista no número anterior, na sequência da visita e entrevista, depende de autorização da entidade licenciadora.\n\n4 - Na situação prevista no presente artigo é aplicável o disposto no artigo 13.º , devendo a ama realizar a formação básica inicial anteriormente dispensada, durante o período de licença provisória concedido, sob pena do indeferimento do licenciamento."
+  },
+  "206346536": {
+   "fragment_id": "206346624",
+   "type": 11,
+   "heading": "Artigo 53.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regulamentação\n\nSão objeto de regulamentação do membro do Governo Regional competente em matéria de solidariedade social:\n\na) Os requisitos a observar nas instalações das amas;\n\nb) Os requisitos mínimos de natureza habitacional e os de higiene e segurança;\n\nc) A seleção e admissão das crianças acolhidas por amas integradas em creche familiar;\n\nd) Outras matérias consideradas relevantes ao exercício da atividade e ao bem-estar das crianças."
+  },
+  "206346537": {
+   "fragment_id": "206346625",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\nSão revogados o Decreto Legislativo Regional n.º 18/2001/A, de 9 de novembro, e a Portaria n.º 88/2002, de 12 de setembro."
+  },
+  "206346538": {
+   "fragment_id": "206346626",
+   "type": 11,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

@@ -1,0 +1,836 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:192425:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-169353706",
+ "dre_path": "/dr/detalhe/decreto-lei/227-2012-192425",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169353780",
+    "169353781",
+    "169353782",
+    "169353783",
+    "169353784",
+    "169353785",
+    "169353786",
+    "169353787",
+    "169353788",
+    "169353789",
+    "169353790",
+    "169353791",
+    "169353792",
+    "169353793",
+    "169353794",
+    "169353795",
+    "169353796",
+    "169353797",
+    "169353798",
+    "169353799",
+    "169353800",
+    "169353801",
+    "169353802",
+    "169353803",
+    "169353804",
+    "169353805",
+    "169353806",
+    "169353807",
+    "169353808",
+    "169353809",
+    "169353810",
+    "169353811",
+    "169353812",
+    "169353813",
+    "169353814",
+    "169353815",
+    "169353816",
+    "169353817",
+    "169353818",
+    "169353819",
+    "169353820",
+    "169353821",
+    "169353822",
+    "169353823",
+    "169353824",
+    "169353825",
+    "169353826",
+    "169353827",
+    "169353828",
+    "169353829",
+    "169353830"
+   ]
+  },
+  {
+   "date": "2021-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169269296:por",
+     "title": "Decreto-Lei n.º 70-B/2021",
+     "published": "2021-08-06",
+     "dre_path": "/dr/detalhe/decreto-lei/70-b-2021-169269296"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-B",
+    "Adita Artigo 11.º-C",
+    "Adita Artigo 23.º-A",
+    "Adita Artigo 26.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "169353780",
+    "169353781",
+    "169353840",
+    "169353841",
+    "169353842",
+    "169353785",
+    "169353843",
+    "169353787",
+    "169353788",
+    "169353844",
+    "169353790",
+    "169353845",
+    "169353856",
+    "169353846",
+    "169353832",
+    "169353833",
+    "169353834",
+    "169353794",
+    "169353795",
+    "169353796",
+    "169353797",
+    "169353847",
+    "169353848",
+    "169353849",
+    "169353801",
+    "169353802",
+    "169353850",
+    "169353851",
+    "169353805",
+    "169353806",
+    "169353807",
+    "169353808",
+    "169353809",
+    "169353857",
+    "169353835",
+    "169353836",
+    "169353837",
+    "169353838",
+    "169353839",
+    "169353814",
+    "169353852",
+    "169353816",
+    "169353817",
+    "169353818",
+    "169353819",
+    "169353820",
+    "169353821",
+    "169353822",
+    "169353853",
+    "169353824",
+    "169353825",
+    "169353854",
+    "169353855",
+    "169353828",
+    "169353829",
+    "169353830",
+    "169353831"
+   ]
+  }
+ ],
+ "fragments": {
+  "169353780": {
+   "fragment_id": "169353707",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 227/2012\n\nde 25 de outubro\n\nA concessão responsável de crédito constitui um dos importantes princípios de conduta para a atuação das instituições de crédito. A crise económica e financeira que afeta a maioria dos países europeus veio reforçar a importância de uma atuação prudente, correta e transparente das referidas entidades em todas as fases das relações de crédito estabelecidas com os seus clientes enquanto consumidores na aceção dada pela Lei de Defesa do Consumidor, aprovada pela Lei n.º 24/96, de 31 de julho, alterada pelo Decreto-Lei n.º 67/2003, de 8 de abril.\n\nA degradação das condições económicas e financeiras sentidas em vários países e o aumento do incumprimento dos contratos de crédito, associado a esse fenómeno, conduziram as autoridades a prestar particular atenção à necessidade de um acompanhamento permanente e sistemático, por parte de instituições, públicas e privadas, da execução dos contratos de crédito, bem como ao desenvolvimento de medidas e de procedimentos que impulsionem a regularização das situações de incumprimento daqueles contratos, promovendo ainda a adoção de comportamentos responsáveis por parte das instituições de crédito e dos clientes bancários e a redução dos níveis de endividamento das famílias.\n\nNeste contexto, com o presente diploma pretende-se estabelecer um conjunto de medidas que, refletindo as melhores práticas a nível internacional, promovam a prevenção do incumprimento e, bem assim, a regularização das situações de incumprimento de contratos celebrados com consumidores que se revelem incapazes de cumprir os compromissos financeiros assumidos perante instituições de crédito por factos de natureza diversa, em especial o desemprego e a quebra anómala dos rendimentos auferidos em conexão com as atuais dificuldades económicas.\n\nEm concreto, prevê-se que cada instituição de crédito crie um Plano de Ação para o Risco de Incumprimento (PARI), fixando, com base no presente diploma, procedimentos e medidas de acompanhamento da execução dos contratos de crédito que, por um lado, possibilitem a deteção precoce de indícios de risco de incumprimento e o acompanhamento dos consumidores que comuniquem dificuldades no cumprimento das obrigações decorrentes dos referidos contratos e que, por outro lado, promovam a adoção célere de medidas suscetíveis de prevenir o referido incumprimento.\n\nAdicionalmente, define-se um Procedimento Extrajudicial de Regularização de Situações de Incumprimento (PERSI), no âmbito do qual as instituições de crédito devem aferir da natureza pontual ou duradoura do incumprimento registado, avaliar a capacidade financeira do consumidor e, sempre que tal seja viável, apresentar propostas de regularização adequadas à situação financeira, objetivos e necessidades do consumidor.\n\nPrevê-se, ainda, que, caso o PERSI não termine com um acordo entre as partes, o cliente bancário que solicite a intervenção do Mediador do Crédito ao abrigo do disposto no Decreto-Lei n.º 144/2009, de 17 de junho, possa, em determinadas circunstâncias, manter as garantias de que beneficiou durante o PERSI. A mediação neste âmbito reger-se-á pelo referido diploma legal que regula a atividade do Mediador do Crédito.\n\nSalienta-se, no entanto, que, atentas as assimetrias de informação entre consumidores e instituições de crédito, a eficaz implementação das medidas previstas neste diploma depende da criação de uma rede que apoie os consumidores em dificuldades financeiras, nomeadamente através da prestação de informação, do aconselhamento e do acompanhamento nos procedimentos de negociação que estabeleçam com as instituições de crédito. Por forma a contribuir para esse objetivo, estabelece-se no presente diploma uma rede de apoio a consumidores no âmbito da prevenção do incumprimento e da regularização das situações de incumprimento de contratos de crédito, destinada a informar, aconselhar e acompanhar os consumidores que se encontrem em risco de incumprir as obrigações decorrentes de contratos de crédito celebrados com uma instituição de crédito ou que se encontrem em mora relativamente ao cumprimento dessas obrigações. Esta rede de apoio deve ser composta por pessoas coletivas, de direito público ou privado, que preencham as condições de acesso previstas neste diploma e que sejam reconhecidas pela Direção-Geral do Consumidor para o efeito, após parecer do Banco de Portugal, promovendo-se dessa forma a criação de uma rede com ampla cobertura territorial. Assegura-se, ainda, que o recurso à mesma é isento de encargos para os consumidores, eliminando-se assim eventuais obstáculos de acesso à rede que ora se pretende ver criada.\n\nO presente diploma visa, assim, promover a adequada tutela dos interesses dos consumidores em incumprimento e a atuação célere das instituições de crédito na procura de medidas que contribuam para a superação das dificuldades no cumprimento das responsabilidades assumidas pelos clientes bancários.\n\nSem prejuízo das funções atribuídas à Direção-Geral do Consumidor no âmbito da rede de apoio, cabe ao Banco de Portugal fiscalizar, acompanhar e avaliar periodicamente o cumprimento do presente diploma, estabelecendo, por via regulamentar, as normas necessárias à sua execução, bem como as diretrizes para a atuação das instituições de crédito que se revelem necessárias.\n\nForam ouvidos o Banco de Portugal e a Associação Portuguesa de Bancos.\n\nFoi promovida a audição do Conselho Nacional de Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "169353781": {
+   "fragment_id": "169353708",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "169353782": {
+   "fragment_id": "169353709",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma estabelece os princípios e as regras a observar pelas instituições de crédito:\n\na) No acompanhamento e gestão de situações de risco de incumprimento; e\n\nb) Na regularização extrajudicial das situações de incumprimento das obrigações de reembolso do capital ou de pagamento de juros remuneratórios por parte dos clientes bancários, respeitantes aos contratos de crédito referidos no n.º 1 do artigo seguinte.\n\n2 - O presente diploma estabelece ainda a criação de uma rede de apoio a clientes bancários no âmbito da prevenção do incumprimento e da regularização extrajudicial das situações de incumprimento de contratos de crédito."
+  },
+  "169353783": {
+   "fragment_id": "169353710",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O disposto neste diploma aplica-se aos seguintes contratos de crédito celebrados com clientes bancários:\n\na) Contratos de crédito para a aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento, bem como para a aquisição de terrenos para construção de habitação própria;\n\nb) Contratos de crédito garantidos por hipoteca sobre bem imóvel;\n\nc) Contratos de crédito a consumidores abrangidos pelo disposto no Decreto-Lei n.º 133/2009, de 2 de junho, alterado pelo Decreto-Lei n.º 72-A/2010, de 18 de junho, com exceção dos contratos de locação de bens móveis de consumo duradouro que prevejam o direito ou a obrigação de compra da coisa locada, seja no próprio contrato, seja em documento autónomo;\n\nd) Contratos de crédito ao consumo celebrados ao abrigo do disposto no Decreto-Lei n.º 359/91, de 21 de setembro, alterado pelos Decretos-Leis n.os 101/2000, de 2 de junho, e 82/2006, de 3 de maio, com exceção dos contratos em que uma das partes se obriga, contra retribuição, a conceder à outra o gozo temporário de uma coisa móvel de consumo duradouro e em que se preveja o direito do locatário a adquirir a coisa locada, num prazo convencionado, eventualmente mediante o pagamento de um preço determinado ou determinável nos termos do próprio contrato;\n\ne) Contratos de crédito sob a forma de facilidades de descoberto que estabeleçam a obrigação de reembolso do crédito no prazo de um mês.\n\n2 - O disposto no presente diploma não prejudica o regime aplicável aos sistemas de apoio ao sobre-endividamento, instituído pela Portaria n.º 312/2009, de 30 de março."
+  },
+  "169353784": {
+   "fragment_id": "169353711",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Cliente bancário» o consumidor, na aceção dada pelo n.º 1 do artigo 2.º da Lei de Defesa do Consumidor, aprovada pela Lei n.º 24/96, de 31 de julho, alterada pelo Decreto-Lei n.º 67/2003, de 8 de abril, que intervenha como mutuário em contrato de crédito;\n\nb) «Comissões» as prestações pecuniárias exigíveis aos clientes bancários pelas instituições de crédito como retribuição dos serviços por elas prestados, ou contratados a terceiros, no âmbito da sua atividade;\n\nc) «Contrato de crédito» o contrato celebrado entre um cliente bancário e uma instituição de crédito com sede ou sucursal em território nacional que, ao abrigo do disposto no n.º 1 do artigo anterior, esteja incluído no âmbito de aplicação do presente diploma;\n\nd) «Despesas» os encargos suportados pelas instituições de crédito perante terceiros e que as instituições de crédito possam legitimamente repercutir nos clientes bancários, tais como pagamentos a conservatórias, cartórios notariais ou encargos de natureza fiscal;\n\ne) «Instituição de crédito» qualquer entidade habilitada a efetuar operações de crédito em Portugal, nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, alterado pelos Decretos-Leis n.os 246/95, de 14 de setembro, 232/96, de 5 de dezembro, 222/99, de 22 de junho, 250/2000, de 13 de outubro, 285/2001, de 3 de novembro, 201/2002, de 26 de setembro, 319/2002, de 28 de dezembro, 252/2003, de 17 de outubro, 145/2006, de 31 de julho, 104/2007, de 3 de abril, 357-A/2007, de 31 de outubro, 1/2008, de 3 de janeiro, 126/2008, de 21 de julho, e 211-A/2008, de 3 de novembro, pela Lei n.º 28/2009, de 19 de junho, pelo Decreto-Lei n.º 162/2009, de 20 de julho, pela Lei n.º 94/2009, de 1 de setembro, pelos Decretos-Leis n.os 317/2009, de 30 de outubro, 52/2010, de 26 de maio, e 71/2010, de 18 de junho, pela Lei n.º 36/2010, de 2 de setembro, pelo Decreto-Lei n.º 140-A/2010, de 30 de dezembro, pela Lei n.º 46/2011, de 24 de junho, e pelos Decretos-Leis n.os 88/2011, de 20 de julho, 119/2011, de 26 de dezembro, e 31-A/2012, de 10 de fevereiro (RGICSF);\n\nf) «Obrigações decorrentes do contrato de crédito» as obrigações de reembolso do capital ou de pagamento de juros remuneratórios assumidas pelo cliente bancário no âmbito de um contrato de crédito;\n\ng) «Prestador de serviços de gestão do incumprimento» qualquer pessoa singular ou coletiva que, ao abrigo de um contrato celebrado com a instituição de crédito, preste, em nome e benefício desta, serviços relacionados com a gestão do incumprimento de contratos de crédito em fase prévia ao recurso às vias judiciais;\n\nh) «Suporte duradouro» qualquer instrumento que permita armazenar informações durante um período de tempo adequado aos fins a que as informações se destinam e que possibilite a reprodução integral e inalterada das informações armazenadas."
+  },
+  "169353785": {
+   "fragment_id": "169353712",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1 - No cumprimento das disposições do presente diploma, as instituições de crédito devem proceder com diligência e lealdade, adotando as medidas adequadas à prevenção do incumprimento de contratos de crédito e, nos casos em que se registe o incumprimento das obrigações decorrentes desses contratos, envidando os esforços necessários para a regularização das situações de incumprimento em causa.\n\n2 - Os clientes bancários devem gerir as suas obrigações de crédito de forma responsável e, com observância do princípio da boa fé, alertar atempadamente as instituições de crédito para o eventual risco de incumprimento de obrigações decorrentes de contratos de crédito e colaborar com estas na procura de soluções extrajudiciais para o cumprimento dessas obrigações."
+  },
+  "169353786": {
+   "fragment_id": "169353713",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão do incumprimento de contratos de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gestão do incumprimento de contratos de crédito\n\n1 - As instituições de crédito devem acompanhar a execução dos contratos de crédito em que intervenham como mutuantes, adotando, à luz do disposto nos artigos 9.º a 11.º, as medidas e os procedimentos necessários à prevenção do incumprimento de obrigações decorrentes desses contratos por parte dos clientes bancários.\n\n2 - Quando se verifique o incumprimento de obrigações decorrentes de contratos de crédito, as instituições de crédito mutuantes devem providenciar pelo célere andamento do procedimento previsto nos artigos 12.º a 21.º, de modo a promover, sempre que possível, a regularização, em sede extrajudicial, das situações de incumprimento."
+  },
+  "169353787": {
+   "fragment_id": "169353714",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio ao cliente bancário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio ao cliente bancário\n\n1 - Os clientes bancários que se encontrem em risco de incumprimento das obrigações decorrentes do contrato de crédito ou que estejam em mora relativamente ao cumprimento dessas obrigações têm o direito a obter, de forma gratuita, informação, aconselhamento e acompanhamento por parte das entidades reconhecidas para esse efeito, no âmbito da rede extrajudicial de apoio a clientes bancários, cujo regime se encontra estabelecido no presente diploma.\n\n2 - As instituições de crédito estão obrigadas a prestar informação aos clientes bancários sobre as entidades referidas no número anterior, designadamente quanto às suas atribuições e elementos de contacto, nos termos a definir, mediante aviso, pelo Banco de Portugal."
+  },
+  "169353788": {
+   "fragment_id": "169353715",
+   "type": 11,
+   "heading": "Artigo 7.º — Divulgação de informação sobre o incumprimento de contratos de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Divulgação de informação sobre o incumprimento de contratos de crédito\n\n1 - Sem prejuízo do disposto no artigo anterior, as instituições de crédito estão obrigadas a disponibilizar, designadamente em sede pré-contratual, aos clientes bancários e aos demais interessados informação sobre os riscos do endividamento excessivo e as consequências do incumprimento de contratos de crédito, bem como sobre os procedimentos implementados para a regularização das situações de incumprimento em resultado da aplicação das regras previstas no presente diploma.\n\n2 - Para os efeitos previstos no número anterior, o Banco de Portugal define, mediante aviso, a informação que as instituições de crédito devem prestar aos clientes bancários e aos demais interessados sobre os riscos de endividamento excessivo, as consequências do incumprimento de contratos de crédito e os procedimentos implementados para a regularização das situações de incumprimento, bem como a forma adequada para a prestação dessa informação."
+  },
+  "169353789": {
+   "fragment_id": "169353716",
+   "type": 11,
+   "heading": "Artigo 8.º — Proibição de cobrança de comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Proibição de cobrança de comissões\n\n1 - Às instituições de crédito está vedada a cobrança de comissões pela renegociação das condições do contrato de crédito no âmbito do presente diploma, designadamente no que respeita à análise e à formalização dessa operação.\n\n2 - O disposto no número anterior não impede a cobrança ao cliente bancário, mediante a apresentação da respetiva justificação documental, das despesas tal como definidas na alínea d) do artigo 3.º"
+  },
+  "169353790": {
+   "fragment_id": "169353717",
+   "type": 1,
+   "heading": "Capítulo II — Gestão do risco de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão do risco de incumprimento"
+  },
+  "169353791": {
+   "fragment_id": "169353718",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de acompanhamento da execução dos contratos de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de acompanhamento da execução dos contratos de crédito\n\n1 - Sem prejuízo da adoção de outros atos e procedimentos adequados ao acompanhamento permanente e sistemático da execução dos contratos de crédito, as instituições de crédito estão obrigadas a:\n\na) Implementar sistemas informáticos que possibilitem a identificação oportuna da ocorrência de factos que indiciem a degradação da capacidade financeira do cliente bancário para cumprir, emitindo os correspondentes alertas;\n\nb) Definir os procedimentos a observar pelos seus trabalhadores quando tomem conhecimento de factos que indiciem a degradação da capacidade financeira do cliente bancário para cumprir;\n\nc) Definir os procedimentos a adotar pelos seus trabalhadores envolvidos no atendimento ao público quando, por comunicação do próprio cliente bancário, tomem conhecimento de factos que indiciem o risco de incumprimento de obrigações decorrentes de contratos de crédito.\n\n2 - Para efeitos do presente diploma, consideram-se, designadamente, indícios de degradação da capacidade financeira do cliente bancário para cumprir a existência de incumprimentos registados na Central de Responsabilidades de Crédito do Banco de Portugal, a devolução e inibição do uso de cheques e correspondente inserção na lista de utilizadores de cheque que oferecem risco, a existência de dívidas fiscais e à segurança social, a sua insolvência, a existência de processos judiciais e de situações litigiosas, a penhora de contas bancárias, bem como a verificação de incumprimentos noutros contratos celebrados com a instituição de crédito."
+  },
+  "169353792": {
+   "fragment_id": "169353719",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação e apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação e apresentação de propostas\n\n1 - Sempre que detete indícios de degradação da capacidade financeira do cliente bancário para cumprir o contrato de crédito ou que o cliente bancário lhe transmita factos que indiciem o risco de incumprimento, a instituição de crédito desenvolve as diligências necessárias para avaliar esses indícios, tendo em vista aferir da existência de risco efetivo de incumprimento e da respetiva extensão.\n\n2 - Para os efeitos previstos no número anterior, a instituição de crédito procede à avaliação da capacidade financeira do cliente bancário, podendo solicitar as informações e os documentos estritamente necessários e adequados para esse efeito.\n\n3 - O cliente bancário presta a informação e disponibiliza os documentos solicitados pela instituição de crédito no prazo máximo de 10 dias.\n\n4 - Quando verifique, em resultado da avaliação referida no n.º 2, que o cliente bancário dispõe de capacidade financeira para cumprir as obrigações decorrentes do contrato de crédito, nomeadamente através da renegociação das condições do contrato ou da sua consolidação com outros contratos de crédito, a instituição de crédito apresenta-lhe uma ou mais propostas que se revelem adequadas à sua situação financeira, objetivos e necessidades.\n\n5 - As propostas a que se refere o número anterior são apresentadas ao cliente bancário através de comunicação em suporte duradouro, estando as instituições de crédito obrigadas a observar os deveres de informação previstos na legislação e regulamentação específicas.\n\n6 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o Banco de Portugal define, mediante aviso, os critérios para aferição dos indícios de degradação e de avaliação da capacidade financeira do cliente bancário para cumprir a serem utilizados pelas instituições de crédito no âmbito do presente diploma."
+  },
+  "169353793": {
+   "fragment_id": "169353720",
+   "type": 11,
+   "heading": "Artigo 11.º — Plano de ação para o risco de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Plano de ação para o risco de incumprimento\n\n1 - As instituições de crédito estão obrigadas a elaborar e a implementar um Plano de Ação para o Risco de Incumprimento (PARI), que descreva detalhadamente os procedimentos e as medidas adotados para o acompanhamento da execução dos contratos de crédito e a gestão de situações de risco de incumprimento.\n\n2 - Em particular, o PARI deve especificar:\n\na) Os procedimentos adotados para o acompanhamento permanente e sistemático da execução dos contratos de crédito;\n\nb) Os factos que, no âmbito dos procedimentos aludidos na alínea anterior, são considerados como indícios da degradação da capacidade financeira do cliente bancário para cumprir as obrigações decorrentes do contrato de crédito;\n\nc) Os procedimentos desenvolvidos para a recolha, o tratamento e a análise da informação referente a clientes bancários que estejam em risco efetivo de incumprimento;\n\nd) Os procedimentos implementados para o contacto com os clientes bancários em risco efetivo de incumprimento, incluindo, designadamente o prazo para a realização do primeiro contacto após a deteção de um dos factos a que se alude na alínea b), o qual não pode exceder 10 dias;\n\ne) As soluções suscetíveis de serem propostas aos clientes bancários em risco efetivo de incumprimento;\n\nf) As estruturas responsáveis pelo desenvolvimento dos procedimentos e ações previstas no PARI, indicando, com detalhe, as respetivas competências e descrevendo os mecanismos previstos para a sua articulação com outras estruturas ou entidades potencialmente envolvidas nesses procedimentos e ações;\n\ng) Os planos de formação dos trabalhadores a quem sejam atribuídas tarefas no âmbito do PARI;\n\nh) Os prestadores de serviços de gestão do incumprimento responsáveis pelo desenvolvimento de procedimentos e ações previstos no PARI, caso existam, detalhando os serviços contratados e os mecanismos previstos para a sua articulação com as estruturas ou com outras entidades potencialmente envolvidas nesses procedimentos e ações.\n\n3 - As instituições de crédito devem disponibilizar o PARI aos seus trabalhadores em moldes que permitam a sua consulta imediata e permanente.\n\n4 - O Banco de Portugal define, mediante aviso, os factos e os procedimentos relevantes nos termos e para os efeitos das alíneas a), b), c) e d) do n.º 2."
+  },
+  "169353794": {
+   "fragment_id": "169353721",
+   "type": 1,
+   "heading": "Capítulo III — Regularização das situações de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regularização das situações de incumprimento"
+  },
+  "169353795": {
+   "fragment_id": "169353722",
+   "type": 8,
+   "heading": "Secção I — Procedimento extrajudicial de regularização de situações de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento extrajudicial de regularização de situações de incumprimento"
+  },
+  "169353796": {
+   "fragment_id": "169353723",
+   "type": 11,
+   "heading": "Artigo 12.º — Procedimento extrajudicial de regularização de situações de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento extrajudicial de regularização de situações de incumprimento\n\nAs instituições de crédito promovem as diligências necessárias à implementação do Procedimento Extrajudicial de Regularização de Situações de Incumprimento (PERSI) relativamente a clientes bancários que se encontrem em mora no cumprimento de obrigações decorrentes de contratos de crédito."
+  },
+  "169353797": {
+   "fragment_id": "169353724",
+   "type": 11,
+   "heading": "Artigo 13.º — Contactos preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contactos preliminares\n\nNo prazo máximo de 15 dias após o vencimento da obrigação em mora, a instituição de crédito informa o cliente bancário do atraso no cumprimento e dos montantes em dívida e, bem assim, desenvolve diligências no sentido de apurar as razões subjacentes ao incumprimento registado."
+  },
+  "169353798": {
+   "fragment_id": "169353725",
+   "type": 11,
+   "heading": "Artigo 14.º — Fase inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fase inicial\n\n1 - Mantendo-se o incumprimento das obrigações decorrentes do contrato de crédito, o cliente bancário é obrigatoriamente integrado no PERSI entre o 31.º dia e o 60.º dia subsequentes à data de vencimento da obrigação em causa.\n\n2 - Sem prejuízo do disposto no número anterior, a instituição de crédito está obrigada a iniciar o PERSI sempre que:\n\na) O cliente bancário se encontre em mora relativamente ao cumprimento das obrigações decorrentes do contrato de crédito e solicite, através de comunicação em suporte duradouro, a sua integração no PERSI, considerando-se, para todos os efeitos, que essa integração ocorre na data em que a instituição de crédito recebe a referida comunicação;\n\nb) O cliente bancário, que alertou para o risco de incumprimento das obrigações decorrentes do contrato de crédito, entre em mora, devendo, para todos os efeitos, considerar-se que a integração desse cliente no PERSI ocorre na data do referido incumprimento.\n\n3 - Quando, na pendência do PERSI, o cliente bancário entre em mora relativamente ao cumprimento de obrigações decorrentes de outros contratos de crédito celebrados com a mesma instituição, a instituição de crédito deve procurar obter a regularização do incumprimento no âmbito de um único procedimento, informando o cliente bancário desse facto nos termos previstos no número seguinte.\n\n4 - No prazo máximo de cinco dias após a ocorrência dos eventos previstos no presente artigo, a instituição de crédito deve informar o cliente bancário da sua integração no PERSI, através de comunicação em suporte duradouro.\n\n5 - O Banco de Portugal define, mediante aviso, os elementos informativos que devem acompanhar a comunicação prevista no número anterior."
+  },
+  "169353799": {
+   "fragment_id": "169353726",
+   "type": 11,
+   "heading": "Artigo 15.º — Fase de avaliação e proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fase de avaliação e proposta\n\n1 - A instituição de crédito desenvolve as diligências necessárias para apurar se o incumprimento das obrigações decorrentes do contrato de crédito se deve a circunstâncias pontuais e momentâneas ou se, pelo contrário, esse incumprimento reflete a incapacidade do cliente bancário para cumprir, de forma continuada, essas obrigações nos termos previstos no contrato de crédito.\n\n2 - Para os efeitos previstos no número anterior, a instituição de crédito procede à avaliação da capacidade financeira do cliente bancário, podendo solicitar-lhe as informações e os documentos estritamente necessários e adequados, nos termos a definir, mediante aviso, pelo Banco de Portugal.\n\n3 - Salvo motivo atendível, o cliente bancário presta a informação e disponibiliza os documentos solicitados pela instituição de crédito no prazo máximo de 10 dias.\n\n4 - No prazo máximo de 30 dias após a integração do cliente bancário no PERSI, a instituição de crédito, através de comunicação em suporte duradouro, está obrigada a:\n\na) Comunicar ao cliente bancário o resultado da avaliação desenvolvida nos termos previstos nos números anteriores, quando verifique que o mesmo não dispõe de capacidade financeira para retomar o cumprimento das obrigações decorrentes do contrato de crédito, nem para regularizar a situação de incumprimento, através, designadamente, da renegociação das condições do contrato ou da sua consolidação com outros contratos de crédito, sendo inviável a obtenção de um acordo no âmbito do PERSI; ou\n\nb) Apresentar ao cliente bancário uma ou mais propostas de regularização adequadas à sua situação financeira, objetivos e necessidades, quando conclua que aquele dispõe de capacidade financeira para reembolsar o capital ou para pagar os juros vencidos e vincendos do contrato de crédito através, designadamente, da renegociação das condições do contrato ou da sua consolidação com outros contratos de crédito.\n\n5 - Na apresentação de propostas aos clientes bancários, as instituições de crédito observam os deveres de informação previstos na legislação e regulamentação específicas."
+  },
+  "169353800": {
+   "fragment_id": "169353727",
+   "type": 11,
+   "heading": "Artigo 16.º — Fase de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fase de negociação\n\n1 - Caso o cliente bancário recuse as propostas apresentadas, a instituição de crédito, quando considere que existem outras alternativas adequadas à situação do cliente bancário, apresenta uma nova proposta.\n\n2 - Quando o cliente bancário proponha alterações à proposta inicial, a instituição de crédito comunica-lhe, no prazo máximo de 15 dias e em suporte duradouro, a sua aceitação ou recusa, podendo igualmente apresentar uma nova proposta, observando o disposto no n.º 5 do artigo anterior.\n\n3 - O cliente bancário pronuncia-se sobre as propostas que lhe sejam apresentadas no prazo máximo de 15 dias após a sua receção."
+  },
+  "169353801": {
+   "fragment_id": "169353728",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção do PERSI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção do PERSI\n\n1 - O PERSI extingue-se:\n\na) Com o pagamento integral dos montantes em mora ou com a extinção, por qualquer outra causa legalmente prevista, da obrigação em causa;\n\nb) Com a obtenção de um acordo entre as partes com vista à regularização integral da situação de incumprimento;\n\nc) No 91.º dia subsequente à data de integração do cliente bancário neste procedimento, salvo se as partes acordarem, por escrito, na respetiva prorrogação; ou\n\nd) Com a declaração de insolvência do cliente bancário.\n\n2 - A instituição de crédito pode, por sua iniciativa, extinguir o PERSI sempre que:\n\na) Seja realizada penhora ou decretado arresto a favor de terceiros sobre bens do devedor;\n\nb) Seja proferido despacho de nomeação de administrador judicial provisório, nos termos e para os efeitos do disposto na alínea a) do n.º 3 do artigo 17.º-C do Código da Insolvência e da Recuperação de Empresas;\n\nc) A instituição de crédito conclua, em resultado da avaliação desenvolvida nos termos do artigo 15.º, que o cliente bancário não dispõe de capacidade financeira para regularizar a situação de incumprimento, designadamente pela existência de ações executivas ou processos de execução fiscal instaurados contra o cliente bancário que afetem comprovada e significativamente a sua capacidade financeira e tornem inexigível a manutenção do PERSI;\n\nd) O cliente bancário não colabore com a instituição de crédito, nomeadamente no que respeita à prestação de informações ou à disponibilização de documentos solicitados pela instituição de crédito ao abrigo do disposto no artigo 15.º, nos prazos que aí se estabelecem, bem como na resposta atempada às propostas que lhe sejam apresentadas, nos termos definidos no artigo anterior;\n\ne) O cliente bancário pratique atos suscetíveis de pôr em causa os direitos ou as garantias da instituição de crédito;\n\nf) O cliente bancário recuse a proposta apresentada, sem prejuízo do disposto no n.º 1 do artigo anterior; ou\n\ng) A instituição de crédito recuse as alterações sugeridas pelo cliente bancário a proposta anteriormente apresentada, sem prejuízo do disposto no n.º 2 do artigo anterior.\n\n3 - A instituição de crédito informa o cliente bancário, através de comunicação em suporte duradouro, da extinção do PERSI, descrevendo o fundamento legal para essa extinção e as razões pelas quais considera inviável a manutenção deste procedimento.\n\n4 - A extinção do PERSI só produz efeitos após a comunicação referida no número anterior, salvo quando o fundamento de extinção for o previsto na alínea b) do n.º 1.\n\n5 - O Banco de Portugal define, mediante aviso, os elementos informativos que devem acompanhar a comunicação prevista no n.º 3."
+  },
+  "169353802": {
+   "fragment_id": "169353729",
+   "type": 11,
+   "heading": "Artigo 18.º — Garantias do cliente bancário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Garantias do cliente bancário\n\n1 - No período compreendido entre a data de integração do cliente bancário no PERSI e a extinção deste procedimento, a instituição de crédito está impedida de:\n\na) Resolver o contrato de crédito com fundamento em incumprimento;\n\nb) Intentar ações judiciais tendo em vista a satisfação do seu crédito;\n\nc) Ceder a terceiro uma parte ou a totalidade do crédito; ou\n\nd) Transmitir a terceiro a sua posição contratual.\n\n2 - Sem prejuízo do disposto nas alíneas b), c) e d) do número anterior, a instituição de crédito pode:\n\na) Fazer uso de procedimentos cautelares adequados a assegurar a efetividade do seu direito de crédito;\n\nb) Ceder créditos para efeitos de titularização; ou\n\nc) Ceder créditos ou transmitir a sua posição contratual a outra instituição de crédito.\n\n3 - Caso a instituição de crédito ceda o crédito ou transmita a sua posição contratual nos termos previstos na alínea c) do número anterior, a instituição de crédito cessionária está obrigada a prosseguir com o PERSI, retomando este procedimento na fase em que o mesmo se encontrava à data da cessão do crédito ou da transmissão da posição contratual.\n\n4 - Antes de decorrido o prazo de 15 dias a contar da comunicação da extinção do PERSI, a instituição de crédito está impedida de praticar os atos previstos nos números anteriores, no caso de contratos previstos na alínea a) do n.º 1 do artigo 2.º, e em que a extinção do referido procedimento tenha por fundamento a alínea c) do n.º 1 ou as alíneas c), f) e g) do n.º 2 todas do artigo anterior."
+  },
+  "169353803": {
+   "fragment_id": "169353730",
+   "type": 11,
+   "heading": "Artigo 19.º — Deveres procedimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres procedimentais\n\n1 - As instituições de crédito estão obrigadas a elaborar um documento interno que descreva, em linguagem simples e clara, os procedimentos adotados no âmbito da implementação do PERSI.\n\n2 - Sem prejuízo da inclusão de outros elementos informativos, o documento a elaborar pelas instituições de crédito deve, nomeadamente, especificar:\n\na) Os procedimentos para o contacto com os clientes bancários nas várias fases do PERSI;\n\nb) Os procedimentos para a recolha, tratamento e análise da informação referente aos clientes bancários;\n\nc) As soluções suscetíveis de serem propostas aos clientes bancários em incumprimento;\n\nd) As estruturas ou, se for o caso, os prestadores de serviços de gestão do incumprimento responsáveis pelo desenvolvimento dos procedimentos e ações previstas no PERSI, indicando, com o necessário detalhe, as respetivas competências e descrevendo os mecanismos previstos para a sua articulação com outras estruturas ou entidades potencialmente envolvidas nesses procedimentos e ações; e\n\ne) Os planos de formação dos trabalhadores a quem sejam atribuídas tarefas no âmbito do PERSI.\n\n3 - As instituições de crédito disponibilizam aos seus trabalhadores o documento referido nos números anteriores de modo a permitir a sua consulta imediata e permanente."
+  },
+  "169353804": {
+   "fragment_id": "169353731",
+   "type": 11,
+   "heading": "Artigo 20.º — Processos individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processos individuais\n\n1 - As instituições de crédito devem criar, em suporte duradouro, processos individuais para os clientes bancários integrados no PERSI, os quais devem conter toda a documentação relevante no âmbito deste procedimento, nomeadamente as comunicações entre as partes, o relatório de avaliação da capacidade financeira desses clientes e as propostas apresentadas aos mesmos.\n\n2 - As instituições de crédito devem conservar os processos individuais durante os cinco anos subsequentes à extinção do PERSI."
+  },
+  "169353805": {
+   "fragment_id": "169353732",
+   "type": 11,
+   "heading": "Artigo 21.º — Fiador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiador\n\n1 - Nos casos em que o contrato de crédito esteja garantido por fiança, a instituição de crédito deve informar o fiador, no prazo máximo de 15 dias após o vencimento da obrigação em mora, do atraso no cumprimento e dos montantes em dívida.\n\n2 - A instituição de crédito que interpele o fiador para cumprir as obrigações decorrentes de contrato de crédito que se encontrem em mora está obrigada a iniciar o PERSI com esse fiador sempre que este o solicite através de comunicação em suporte duradouro, no prazo máximo de 10 dias após a referida interpelação, considerando-se, para todos os efeitos, que o PERSI se inicia na data em que a instituição de crédito recebe a comunicação anteriormente mencionada.\n\n3 - Aquando da interpelação para o cumprimento das obrigações decorrentes do contrato de crédito que se encontrem em mora, a instituição de crédito deve informar o fiador sobre a faculdade prevista no número anterior, bem como sobre as condições para o seu exercício.\n\n4 - Sem prejuízo de se tratar de um procedimento autónomo relativamente ao PERSI desenvolvido com o cliente bancário, é aplicável ao PERSI iniciado por solicitação do fiador o disposto no n.º 4 do artigo 14.º e nos artigos 15.º a 20.º, com as devidas adaptações."
+  },
+  "169353806": {
+   "fragment_id": "169353733",
+   "type": 8,
+   "heading": "Secção II — Mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Mediação"
+  },
+  "169353807": {
+   "fragment_id": "169353734",
+   "type": 11,
+   "heading": "Artigo 22.º — Mediação de situações de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Mediação de situações de incumprimento\n\n1 - Sem prejuízo do disposto no Decreto-Lei n.º 144/2009, de 17 de julho, nos casos em que as partes não tenham chegado a um acordo que permita regularizar a situação de incumprimento, o cliente bancário que, no prazo de cinco dias a contar da comunicação prevista no n.º 3 do artigo 17.º, solicite a intervenção do Mediador do Crédito mantém as garantias previstas no artigo 18.º sempre que, cumulativamente:\n\na) O PERSI tenha sido extinto com fundamento em algum dos motivos previstos na alínea c) do n.º 1 do artigo 17.º ou nas alíneas c), f) e g) do n.º 2 do mesmo preceito;\n\nb) O PERSI tenha tido por objeto o incumprimento de obrigações decorrentes de um contrato de crédito referido na alínea a) do n.º 1 do artigo 2.º;\n\nc) O cliente bancário intervenha como mutuário em contratos de crédito celebrados com mais do que uma instituição de crédito.\n\n2 - As garantias previstas no artigo 18.º são aplicáveis durante os 30 dias subsequentes ao envio do processo de mediação às instituições de crédito identificadas pelo cliente bancário no pedido de mediação.\n\n3 - O cliente bancário pode deixar de beneficiar das garantias referidas no número anterior, por iniciativa da instituição de crédito, quando:\n\na) Seja declarado insolvente;\n\nb) Seja realizada penhora ou decretado arresto a favor de terceiros sobre bens do cliente bancário;\n\nc) Seja proferido despacho de nomeação de administrador judicial provisório, nos termos e para os efeitos do disposto na alínea a) do n.º 3 do artigo 17.º-C do Código da Insolvência e da Recuperação de Empresas; ou\n\nd) Tenham sido instaurados contra si ações executivas ou processos de execução fiscal que afetem comprovada e significativamente a sua capacidade financeira e tornem inexigível a manutenção da mediação.\n\n4 - Para os efeitos do número anterior, a instituição de crédito informa o Mediador do Crédito, através de comunicação em suporte duradouro, da cessação das garantias do cliente bancário, descrevendo o respetivo fundamento legal e as razões pelas quais considera inviável a sua manutenção, considerando-se que o cliente bancário deixa de beneficiar das referidas garantias a partir da data dessa comunicação.\n\n5 - Ao fiador de um contrato de crédito referido na alínea a) do n.º 1 do artigo 2.º que, nos termos do artigo anterior, tenha dado início ao PERSI aplica-se, com as necessárias adaptações, o disposto no presente artigo.\n\n6 - A intervenção do Mediador do Crédito rege-se pelo disposto na legislação específica que regula a sua atividade."
+  },
+  "169353808": {
+   "fragment_id": "169353735",
+   "type": 1,
+   "heading": "Capítulo IV — Rede extrajudicial de apoio a clientes bancários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Rede extrajudicial de apoio a clientes bancários"
+  },
+  "169353809": {
+   "fragment_id": "169353736",
+   "type": 8,
+   "heading": "Secção I — Entidades que integram a rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Entidades que integram a rede"
+  },
+  "169353810": {
+   "fragment_id": "169353737",
+   "type": 11,
+   "heading": "Artigo 23.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reconhecimento\n\nA rede extrajudicial de apoio a clientes bancários é constituída por pessoas coletivas, de direito público ou privado, que, preenchendo as condições constantes no presente capítulo, sejam reconhecidas pela Direção-Geral do Consumidor, após parecer prévio do Banco de Portugal."
+  },
+  "169353811": {
+   "fragment_id": "169353738",
+   "type": 11,
+   "heading": "Artigo 24.º — Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condições gerais\n\nA entidade requerente deve, à data do pedido de reconhecimento, cumprir, cumulativamente, as seguintes condições:\n\na) Encontrar-se legalmente constituída;\n\nb) Possuir a situação regularizada face à administração fiscal e à segurança social;\n\nc) Integrar um responsável pela coordenação do serviço a prestar."
+  },
+  "169353812": {
+   "fragment_id": "169353739",
+   "type": 11,
+   "heading": "Artigo 25.º — Funcionários e colaboradores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Funcionários e colaboradores\n\n1 - Os funcionários ou as pessoas que colaborem com as entidades requerentes do reconhecimento e que prestem apoio a clientes bancários no âmbito da prevenção do incumprimento e da regularização das situações de incumprimento de contratos de crédito devem preencher, cumulativamente, os seguintes requisitos:\n\na) Ser pessoas de reconhecida idoneidade para o desempenho das funções em causa;\n\nb) Possuir a escolaridade obrigatória;\n\nc) Possuir adequados conhecimentos técnicos em matéria financeira, económica e bancária.\n\n2 - Considera-se indiciador de falta de idoneidade, o facto de a pessoa em causa se encontrar numa das situações previstas no n.º 3 do artigo 30.º do RGICSF.\n\n3 - O disposto no presente artigo é igualmente aplicável aos funcionários ou colaboradores que iniciem funções junto das entidades após o respetivo reconhecimento e que prestem apoio a clientes bancários no âmbito da prevenção do incumprimento e da regularização das situações de incumprimento de contratos de crédito."
+  },
+  "169353813": {
+   "fragment_id": "169353740",
+   "type": 11,
+   "heading": "Artigo 26.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regulamentação\n\nO regime e o procedimento aplicáveis ao reconhecimento das entidades que integram a rede extrajudicial de apoio a clientes bancários são objeto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e da defesa do consumidor."
+  },
+  "169353814": {
+   "fragment_id": "169353741",
+   "type": 8,
+   "heading": "Secção II — Atuação das entidades que integram a rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Atuação das entidades que integram a rede"
+  },
+  "169353815": {
+   "fragment_id": "169353742",
+   "type": 11,
+   "heading": "Artigo 27.º — Âmbito de atuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Âmbito de atuação\n\n1 - As entidades que integram a rede extrajudicial de apoio a clientes bancários têm como função informar, aconselhar e acompanhar o cliente bancário que se encontre em risco de incumprir as obrigações decorrentes de contrato de crédito celebrado com uma instituição de crédito ou que, em virtude da mora no cumprimento dessas obrigações, se encontre em processo de negociação com a instituição de crédito.\n\n2 - Em concreto, inserem-se no âmbito de atuação das entidades que integram a rede extrajudicial de apoio a clientes bancários as seguintes atribuições:\n\na) Informar o cliente bancário sobre os seus direitos e deveres em caso de risco de incumprimento do contrato de crédito e no âmbito do PERSI;\n\nb) Apoiar a análise, por parte do cliente bancário, das propostas apresentadas pelas instituições de crédito no âmbito do PARI e do PERSI, nomeadamente quanto à adequação de tais propostas à situação financeira, objetivos e necessidades do cliente bancário;\n\nc) Acompanhar o cliente bancário aquando da negociação entre este e as instituições de crédito das propostas apresentadas no âmbito do PARI e do PERSI;\n\nd) Prestar outras informações em matéria de endividamento e de sobre-endividamento;\n\ne) Apoiar o cliente bancário na avaliação da sua capacidade de endividamento, à luz dos elementos que este apresente para o efeito.\n\n3 - As entidades referidas no n.º 1 podem ainda prestar apoio ao cliente bancário no âmbito de outras medidas aplicáveis a situações de incumprimento, previstas em legislação especial.\n\n4 - Às entidades acima mencionadas está vedada:\n\na) A atuação junto de instituições de crédito, em representação ou por conta dos clientes bancários, nomeadamente aquando da negociação das propostas apresentadas no âmbito do PARI e do PERSI; e\n\nb) A adoção de mecanismos de conciliação, mediação ou arbitragem tendo em vista a obtenção de acordos entre os clientes bancários e as instituições de crédito.\n\n5 - A intervenção das entidades que integram a rede extrajudicial de apoio a clientes bancários cessa logo que tenham conhecimento de que foi intentada ação judicial relacionada com o contrato de crédito a que se refere o apoio prestado.\n\n6 - Para os efeitos previstos no número anterior, o cliente bancário informa a instituição de crédito com a qual tenha celebrado um contrato de crédito que recorreu a uma entidade da rede extrajudicial de apoio a clientes bancários, no âmbito da atribuição prevista na alínea c) do n.º 2.\n\n7 - Sempre que seja intentada uma ação judicial relacionada com o contrato de crédito, o cliente bancário comunica tal facto à entidade a que recorreu no âmbito da rede extrajudicial de apoio a clientes bancários."
+  },
+  "169353816": {
+   "fragment_id": "169353743",
+   "type": 11,
+   "heading": "Artigo 28.º — Gratuitidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Gratuitidade\n\nO acesso à rede extrajudicial de apoio a clientes bancários é isento de encargos para os mesmos."
+  },
+  "169353817": {
+   "fragment_id": "169353744",
+   "type": 11,
+   "heading": "Artigo 29.º — Princípios de atuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Princípios de atuação\n\n1 - As entidades que integram a rede extrajudicial de apoio a clientes bancários devem assegurar, ao longo de todo o procedimento, o respeito pelos princípios da independência, imparcialidade, legalidade e transparência.\n\n2 - O procedimento de apoio a clientes bancários deve ser célere e obedecer a critérios de elevado rigor técnico."
+  },
+  "169353818": {
+   "fragment_id": "169353745",
+   "type": 11,
+   "heading": "Artigo 30.º — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Segredo profissional\n\n1 - O procedimento de informação, aconselhamento e acompanhamento a clientes bancários goza de confidencialidade, ficando sujeitas a segredo profissional todas as pessoas que nele tenham intervenção relativamente aos factos de que tenham conhecimento nesse âmbito.\n\n2 - O dever de segredo não cessa com o termo das funções ou da prestação de serviços."
+  },
+  "169353819": {
+   "fragment_id": "169353746",
+   "type": 11,
+   "heading": "Artigo 31.º — Fiadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Fiadores\n\n1 - Sempre que as instituições de crédito iniciem o PERSI com o fiador do contrato de crédito, este pode recorrer à rede extrajudicial de apoio a clientes bancários.\n\n2 - Nos casos previstos no número anterior, são aplicáveis, com as devidas adaptações, as normas constantes do presente capítulo."
+  },
+  "169353820": {
+   "fragment_id": "169353747",
+   "type": 8,
+   "heading": "Secção III — Informação e formação financeira pelas entidades que integram a rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Informação e formação financeira pelas entidades que integram a rede"
+  },
+  "169353821": {
+   "fragment_id": "169353748",
+   "type": 11,
+   "heading": "Artigo 32.º — Funções no âmbito da formação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Funções no âmbito da formação financeira\n\nAs entidades que integram a rede extrajudicial de apoio a clientes bancários podem também informar e prestar formação financeira aos consumidores, com o objetivo de contribuir para a melhoria dos seus conhecimentos financeiros."
+  },
+  "169353822": {
+   "fragment_id": "169353749",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares, transitórias e finais"
+  },
+  "169353823": {
+   "fragment_id": "169353750",
+   "type": 11,
+   "heading": "Artigo 33.º — Dever de reporte das instituições de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Dever de reporte das instituições de crédito\n\n1 - As instituições de crédito devem remeter ao Banco de Portugal, no prazo máximo de 30 dias a contar da entrada em vigor do presente diploma, os documentos previstos nos artigos 11.º e 19.º, nos termos a definir, mediante aviso, pelo Banco de Portugal.\n\n2 - As instituições de crédito devem igualmente comunicar ao Banco de Portugal, com a antecedência mínima de 15 dias relativamente à data prevista para a sua aplicação, qualquer alteração ulteriormente introduzida aos documentos referidos no número anterior.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296) O Banco de Portugal regulamenta o disposto no n.º 3 do artigo 33.º do Decreto-Lei n.º 227/2012, de 25 de outubro, na redação introduzida pelo presente decreto-lei, no prazo de 15 dias a contar da data de entrada em vigor do presente decreto-lei."
+  },
+  "169353824": {
+   "fragment_id": "169353751",
+   "type": 11,
+   "heading": "Artigo 34.º — Reporte de dados estatísticos relativos à rede extrajudicial de apoio a clientes bancários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Reporte de dados estatísticos relativos à rede extrajudicial de apoio a clientes bancários\n\n1 - As entidades que integram a rede extrajudicial de apoio a clientes bancários estão obrigadas a proceder ao reporte trimestral de dados estatísticos agregados à Direção-Geral do Consumidor, relativos ao tratamento de pedidos de informação, de apoio e de acompanhamento dos clientes bancários.\n\n2 - Com base nesses elementos, a Direção-Geral do Consumidor elabora um relatório com periodicidade semestral que é comunicado ao membro do Governo responsável pela defesa do consumidor."
+  },
+  "169353825": {
+   "fragment_id": "169353752",
+   "type": 11,
+   "heading": "Artigo 35.º — Avaliação da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Avaliação da execução\n\n1 - A implementação dos princípios e regras consagradas no presente diploma é avaliada pelo Banco de Portugal, devendo os resultados dessa avaliação ser objeto de publicação periódica.\n\n2 - Sem prejuízo do disposto no número anterior, a Direção-Geral do Consumidor é responsável pela avaliação da rede extrajudicial de apoio a clientes bancários, devendo as entidades que integram esta rede prestar todos os esclarecimentos e informações que lhes sejam solicitados pela Direção-Geral do Consumidor no prazo fixado para o efeito, o qual não pode ser inferior a 10 dias."
+  },
+  "169353826": {
+   "fragment_id": "169353753",
+   "type": 11,
+   "heading": "Artigo 36.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regime sancionatório\n\n1 - Constitui contraordenação punível nos termos da alínea m) do artigo 210.º e do artigo 212.º do RGICSF a violação pelas instituições de crédito do disposto no n.º 1 do artigo 7.º, nos artigos 8.º e 9.º, nos n.os 2, 4 e 5 do artigo 10.º, nos artigos 11.º e 13.º, nos n.os 1 a 4 do artigo 14.º, nos n.os 1, 2, 4 e 5 do artigo 15.º, nos n.os 1 e 2 do artigo 16.º, nos n.os 2 e 3 do artigo 17.º, nos artigos 18.º a 21.º e no artigo 33.º\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "169353827": {
+   "fragment_id": "169353754",
+   "type": 11,
+   "heading": "Artigo 37.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Fiscalização\n\n1 - Compete ao Banco de Portugal a fiscalização do cumprimento das obrigações decorrentes do presente diploma para as instituições de crédito, bem como a aplicação, se for caso disso, das respetivas coimas e sanções acessórias.\n\n2 - A aplicação das coimas e sanções acessórias segue o processo instituído pelo RGICSF."
+  },
+  "169353828": {
+   "fragment_id": "169353755",
+   "type": 11,
+   "heading": "Artigo 38.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regulamentação\n\nSem prejuízo das competências que lhe são especificamente atribuídas, compete ao Banco de Portugal estabelecer as normas regulamentares necessárias à execução do presente diploma."
+  },
+  "169353829": {
+   "fragment_id": "169353756",
+   "type": 11,
+   "heading": "Artigo 39.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Aplicação no tempo\n\n1 - São automaticamente integrados no PERSI e sujeitos às disposições do presente diploma os clientes bancários que, à data de entrada em vigor do presente diploma, se encontrem em mora relativamente ao cumprimento de obrigações decorrentes de contratos de crédito que permaneçam em vigor, desde que o vencimento das obrigações em causa tenha ocorrido há mais de 30 dias.\n\n2 - Nas situações referidas no número anterior, a instituição de crédito deve, nos 15 dias subsequentes à entrada em vigor do presente diploma, informar os clientes bancários da sua integração no PERSI, nos termos previstos no n.º 4 do artigo 14.º\n\n3 - Os clientes bancários que, à data de entrada em vigor do presente diploma, se encontrem em mora quanto ao cumprimento de obrigações decorrentes de contratos de crédito há menos de 31 dias são integrados no PERSI nos termos previstos no n.º 1 do artigo 14.º"
+  },
+  "169353830": {
+   "fragment_id": "169353757",
+   "type": 11,
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de janeiro de 2013."
+  },
+  "169353840": {
+   "fragment_id": "169353709",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma estabelece os princípios e as regras a observar pelas instituições de crédito:\n\na) No acompanhamento e gestão de situações de risco de incumprimento; e\n\nb) Na regularização extrajudicial das situações de incumprimento das obrigações de reembolso do capital ou de pagamento de juros remuneratórios por parte dos clientes bancários, respeitantes aos contratos de crédito referidos no n.º 1 do artigo seguinte.\n\n2 - O presente diploma estabelece ainda a criação de uma rede de apoio a clientes bancários no âmbito da prevenção do incumprimento e da regularização extrajudicial das situações de incumprimento de contratos de crédito.\n\n3 - O presente decreto-lei é ainda aplicável, com as necessárias adaptações, às sociedades financeiras, às instituições de pagamento e às instituições de moeda eletrónica, relativamente aos contratos de crédito referidos no n.º 1 do artigo seguinte que estas entidades estejam autorizadas a celebrar de acordo com os regimes que lhes são aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353841": {
+   "fragment_id": "169353710",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O disposto no presente decreto-lei aplica-se aos seguintes contratos de crédito celebrados com clientes bancários:\n\na) Contratos de crédito relativos a imóveis abrangidos pelo Decreto-Lei n.º 74-A/2017, de 23 de junho, na sua redação atual;\n\nb) (Revogada.)\n\nc) Contratos de crédito aos consumidores abrangidos pelo disposto no Decreto-Lei n.º 133/2009, de 2 de junho, na sua redação atual;\n\nd) Contratos de crédito ao consumo celebrados ao abrigo do disposto no Decreto-Lei n.º 359/91, de 21 de setembro, na sua redação atual;\n\ne) Contratos de crédito sob a forma de facilidades de descoberto que estabeleçam a obrigação de reembolso do crédito no prazo de um mês.\n\n22 - O disposto no presente decreto-lei não prejudica o regime aplicável aos sistemas de apoio ao sobre-endividamento, instituído pela Portaria n.º 312/2009, de 30 de março, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353842": {
+   "fragment_id": "169353711",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Cliente bancário» o consumidor, na aceção dada pelo n.º 1 do artigo 2.º da Lei de Defesa do Consumidor, aprovada pela Lei n.º 24/96, de 31 de julho, alterada pelo Decreto-Lei n.º 67/2003, de 8 de abril, que intervenha como mutuário em contrato de crédito;\n\nb) «Comissões» as prestações pecuniárias exigíveis aos clientes bancários pelas instituições de crédito como retribuição dos serviços por elas prestados, ou contratados a terceiros, no âmbito da sua atividade;\n\nc) «Contrato de crédito» o contrato celebrado entre um cliente bancário e uma instituição de crédito com sede ou sucursal em território nacional que, ao abrigo do disposto no n.º 1 do artigo anterior, esteja incluído no âmbito de aplicação do presente diploma;\n\nd) «Despesas» os encargos suportados pelas instituições de crédito perante terceiros e que as instituições de crédito possam legitimamente repercutir nos clientes bancários, tais como pagamentos a conservatórias, cartórios notariais ou encargos de natureza fiscal;\n\ne) 'Instituição de crédito' qualquer entidade habilitada a efetuar operações de crédito em Portugal, nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual (RGICSF);\n\nf) «Obrigações decorrentes do contrato de crédito» as obrigações de reembolso do capital ou de pagamento de juros remuneratórios assumidas pelo cliente bancário no âmbito de um contrato de crédito;\n\ng) «Prestador de serviços de gestão do incumprimento» qualquer pessoa singular ou coletiva que, ao abrigo de um contrato celebrado com a instituição de crédito, preste, em nome e benefício desta, serviços relacionados com a gestão do incumprimento de contratos de crédito em fase prévia ao recurso às vias judiciais;\n\nh) «Suporte duradouro» qualquer instrumento que permita armazenar informações durante um período de tempo adequado aos fins a que as informações se destinam e que possibilite a reprodução integral e inalterada das informações armazenadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353843": {
+   "fragment_id": "169353713",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão do incumprimento de contratos de crédito",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 5.º — Gestão do incumprimento de contratos de crédito\n\n1 - As instituições de crédito devem acompanhar a execução dos contratos de crédito em que intervenham como mutuantes, adotando, à luz do disposto nos artigos 9.º a 11.º-C, as medidas e os procedimentos necessários à prevenção do incumprimento de obrigações decorrentes desses contratos por parte dos clientes bancários.\n\n2 - Quando se verifique o incumprimento de obrigações decorrentes de contratos de crédito, as instituições de crédito mutuantes devem providenciar pelo célere andamento do procedimento previsto nos artigos 12.º a 21.º, de modo a promover, sempre que possível, a regularização, em sede extrajudicial, das situações de incumprimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353844": {
+   "fragment_id": "169353716",
+   "type": 11,
+   "heading": "Artigo 8.º — Proibição de cobrança de comissões e de agravamento da taxa de juro",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 8.º — Proibição de cobrança de comissões e de agravamento da taxa de juro\n\n1 - Às instituições de crédito está vedada a cobrança de comissões pela renegociação das condições do contrato de crédito no âmbito do presente diploma, designadamente no que respeita à análise e à formalização dessa operação.\n\n2 - O disposto no número anterior não impede a cobrança ao cliente bancário, mediante a apresentação da respetiva justificação documental, das despesas tal como definidas na alínea d) do artigo 3.º\n\n3 - As instituições de crédito não podem agravar a taxa de juro dos contratos de crédito no âmbito de acordos celebrados com os clientes bancários que visem a prevenção ou a regularização de situações de incumprimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353845": {
+   "fragment_id": "169353718",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de acompanhamento da execução dos contratos de crédito",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 9.º — Dever de acompanhamento da execução dos contratos de crédito\n\n1 - As instituições de crédito asseguram o acompanhamento permanente e sistemático da execução dos contratos de crédito por si celebrados, realizando, com regularidade mínima a definir pelo Banco de Portugal, as diligências necessárias para a identificação de indícios de degradação da capacidade financeira do cliente bancário para cumprir as obrigações decorrentes desses contratos de crédito.\n\n2 - Para efeitos do disposto no número anterior, e sem prejuízo da adoção de outros atos e procedimentos adequados ao acompanhamento permanente e sistemático da execução dos contratos de crédito, as instituições de crédito estão obrigadas a:\n\na) Implementar sistemas informáticos que possibilitem a identificação oportuna da ocorrência de factos que indiciem a degradação da capacidade financeira do cliente bancário para cumprir, emitindo os correspondentes alertas;\n\nb) Definir os procedimentos a observar pelos seus trabalhadores quando tomem conhecimento de factos que indiciem a degradação da capacidade financeira do cliente bancário para cumprir;\n\nc) Definir os procedimentos a adotar pelos seus trabalhadores envolvidos no atendimento ao público quando, por comunicação do próprio cliente bancário, tomem conhecimento de factos que indiciem o risco de incumprimento de obrigações decorrentes de contratos de crédito.\n\n3 - As instituições de crédito prestam acompanhamento adequado ao cliente bancário que lhes comunique factos que indiciem o risco de incumprimento de obrigações decorrentes de contratos de crédito, registando essa comunicação e promovendo as diligências previstas nos artigos 11.º e seguintes.\n\n4 - Para efeitos do presente decreto-lei, consideram-se, designadamente, indícios de degradação da capacidade financeira do cliente bancário para cumprir com as obrigações decorrentes de contrato de crédito, a existência de incumprimentos registados na Central de Responsabilidades de Crédito do Banco de Portugal, a devolução e inibição do uso de cheques e correspondente inserção na lista de utilizadores de cheque que oferecem risco, a existência de dívidas fiscais e à segurança social, a sua insolvência, a existência de processos judiciais e de situações litigiosas, a penhora de contas bancárias, encontrar-se em situação de desemprego, a perda de rendimentos ou a evolução desfavorável significativa do desempenho do setor de atividade económica em que o cliente bancário desenvolve a sua atividade profissional, bem como a verificação de incumprimentos noutros contratos celebrados com a instituição de crédito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353856": {
+   "fragment_id": "169353719",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação e apresentação de propostas",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 10.º — Avaliação e apresentação de propostas\n\n1 - Sempre que detete indícios de degradação da capacidade financeira do cliente bancário para cumprir o contrato de crédito ou que o cliente bancário lhe transmita factos que indiciem o risco de incumprimento, a instituição de crédito desenvolve as diligências necessárias para avaliar esses indícios, tendo em vista aferir da existência de risco efetivo de incumprimento e da respetiva extensão.\n\n2 - Para os efeitos previstos no número anterior, a instituição de crédito procede à avaliação da capacidade financeira do cliente bancário, podendo solicitar as informações e os documentos estritamente necessários e adequados para esse efeito.\n\n3 - O cliente bancário presta a informação e disponibiliza os documentos solicitados pela instituição de crédito no prazo máximo de 10 dias.\n\n4 - Quando verifique, em resultado da avaliação referida no n.º 2, que o cliente bancário dispõe de capacidade financeira para cumprir as obrigações decorrentes do contrato de crédito, nomeadamente através da renegociação das condições do contrato ou da sua consolidação com outros contratos de crédito, a instituição de crédito apresenta-lhe uma ou mais propostas que se revelem adequadas à sua situação financeira, objetivos e necessidades.\n\n5 - As propostas a que se refere o número anterior são apresentadas ao cliente bancário através de comunicação em suporte duradouro, estando as instituições de crédito obrigadas a observar os deveres de informação previstos na legislação e regulamentação específicas.\n\n6 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o Banco de Portugal define, mediante aviso, os critérios para aferição dos indícios de degradação e de avaliação da capacidade financeira do cliente bancário para cumprir a serem utilizados pelas instituições de crédito no âmbito do presente diploma.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353846": {
+   "fragment_id": "169353720",
+   "type": 11,
+   "heading": "Artigo 11.º — Plano de ação para o risco de incumprimento",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 11.º — Plano de ação para o risco de incumprimento\n\n1 - As instituições de crédito estão obrigadas a elaborar e a implementar um Plano de Ação para o Risco de Incumprimento (PARI), que descreva detalhadamente os procedimentos e as medidas adotados para o acompanhamento da execução dos contratos de crédito e a gestão de situações de risco de incumprimento.\n\n2 - Em particular, o PARI deve especificar:\n\na) Os procedimentos adotados para o acompanhamento permanente e sistemático da execução dos contratos de crédito;\n\nb) Os factos que, no âmbito dos procedimentos aludidos na alínea anterior, são considerados como indícios da degradação da capacidade financeira do cliente bancário para cumprir as obrigações decorrentes do contrato de crédito;\n\nc) Os procedimentos a adotar pelos seus trabalhadores envolvidos no atendimento ao público, presencialmente ou através de meios de comunicação à distância, quando, por comunicação do próprio cliente bancário, tomem conhecimento de factos que indiciem o risco de incumprimento de obrigações decorrentes de contratos de crédito;\n\nd) Os procedimentos desenvolvidos para a recolha, tratamento, análise e registo da informação referente a clientes bancários que apresentem indícios de risco de incumprimento;\n\ne) Os procedimentos implementados para o contacto com os clientes bancários que apresentem indícios de risco de incumprimento, incluindo, designadamente, o prazo para a realização do primeiro contacto após a deteção de um dos factos a que se alude na alínea b) ou do conhecimento dos factos referidos na alínea c), o qual não pode exceder 10 dias;\n\nf) As soluções suscetíveis de serem propostas aos clientes bancários em risco de incumprimento;\n\ng) As estruturas responsáveis pelo desenvolvimento dos procedimentos e ações previstas no PARI, indicando, com detalhe, as respetivas competências e descrevendo os mecanismos previstos para a sua articulação com outras estruturas ou entidades potencialmente envolvidas nesses procedimentos e ações;\n\nh) Os planos de formação dos trabalhadores a quem sejam atribuídas tarefas no âmbito do PARI;\n\ni) Os prestadores de serviços de gestão do incumprimento responsáveis pelo desenvolvimento de procedimentos e ações previstos no PARI, caso existam, detalhando os serviços contratados e os mecanismos previstos para a sua articulação com as estruturas ou com outras entidades potencialmente envolvidas nesses procedimentos e ações.\n\n3 - As instituições de crédito devem disponibilizar o PARI aos seus trabalhadores em moldes que permitam a sua consulta imediata e permanente.\n\n4 - O Banco de Portugal define, mediante aviso, os factos e os procedimentos relevantes nos termos e para os efeitos das alíneas a), b), c), d) e e) do n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353832": {
+   "fragment_id": "169353760",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Avaliação dos indícios de degradação da capacidade financeira do cliente bancário",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 11.º-A — Avaliação dos indícios de degradação da capacidade financeira do cliente bancário\n\n1 - Sempre que detete indícios de degradação da capacidade financeira do cliente bancário para cumprir o contrato de crédito ou que o cliente bancário lhe transmita factos que indiciem o risco de incumprimento, a instituição de crédito desenvolve as diligências necessárias para avaliar esses indícios, tendo em vista aferir da existência de risco de incumprimento e da respetiva extensão.\n\n2 - Para os efeitos previstos no número anterior, a instituição de crédito procede à avaliação da capacidade financeira do cliente bancário, podendo solicitar as informações e os documentos estritamente necessários e adequados para esse efeito.\n\n3 - O cliente bancário presta a informação e disponibiliza os documentos solicitados pela instituição de crédito no prazo máximo de 10 dias.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353833": {
+   "fragment_id": "169353761",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Apresentação de propostas",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 11.º-B — Apresentação de propostas\n\n1 - Quando verifique que existe risco de incumprimento e que o cliente bancário dispõe de capacidade financeira para cumprir as obrigações decorrentes do contrato de crédito, a instituição de crédito apresenta-lhe uma ou mais propostas que se revelem adequadas à sua situação financeira, objetivos e necessidades, no prazo máximo de 15 dias após a disponibilização dos elementos previstos no n.º 3 do artigo anterior.\n\n2 - As propostas a que se refere o número anterior podem incluir, nomeadamente, as seguintes soluções:\n\na) A celebração de um novo contrato de crédito tendo como finalidade o refinanciamento da dívida do contrato de crédito existente;\n\nb) A alteração de uma ou mais das seguintes condições do contrato de crédito, incluindo através:\n\ni) Do alargamento do prazo de amortização;\n\nii) Da fixação de um período de carência de reembolso do capital ou de reembolso do capital e de pagamento de juros;\n\niii) Do diferimento de parte do capital para uma prestação em data futura;\n\niv) Da redução da taxa de juro aplicável ao contrato durante um determinado período temporal;\n\nc) A consolidação de vários contratos de crédito.\n\n3 - As propostas são apresentadas ao cliente bancário através de comunicação em suporte duradouro, estando as instituições de crédito obrigadas a observar os deveres de informação previstos na legislação e regulamentação específicas.\n\n4 - A instituição de crédito não está obrigada a apresentar propostas caso o cliente não colabore, nomeadamente no que respeita à prestação de informações ou à disponibilização de documentos solicitados que permitam à instituição de crédito dispor de um conhecimento efetivo da situação financeira do cliente bancário, incluindo das razões que originam as dificuldades financeiras e das perspetivas de evolução futura dessa situação.\n\n5 - A instituição de crédito acompanha a eficácia das soluções acordadas com os clientes bancários, avaliando regularmente a adequação dessas soluções à capacidade financeira, objetivos e necessidades dos clientes bancários e propondo, sempre que tal se revele adequado, outras soluções.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353834": {
+   "fragment_id": "169353762",
+   "type": 11,
+   "heading": "Artigo 11.º-C — Processos individuais",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 11.º-C — Processos individuais\n\n1 - As instituições de crédito devem criar, em suporte duradouro, processos individuais para os clientes bancários abrangidos pelos procedimentos previstos no PARI, os quais devem conter todos os elementos relevantes, nomeadamente as comunicações entre as partes, o relatório de avaliação da capacidade financeira desses clientes e, quando aplicável, as propostas apresentadas aos mesmos, bem como o registo das razões que conduziram à não apresentação de propostas, e ainda a avaliação relativa à eficácia das soluções acordadas.\n\n2 - As instituições de crédito devem conservar os processos individuais durante os cinco anos subsequentes ao termo da adoção dos procedimentos do PARI.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353847": {
+   "fragment_id": "169353725",
+   "type": 11,
+   "heading": "Artigo 14.º — Fase inicial",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 14.º — Fase inicial\n\n1 - Mantendo-se o incumprimento das obrigações decorrentes do contrato de crédito, o cliente bancário é obrigatoriamente integrado no PERSI entre o 31.º dia e o 60.º dia subsequentes à data de vencimento da obrigação em causa.\n\n2 - Sem prejuízo do disposto no número anterior, a instituição de crédito está obrigada a iniciar o PERSI sempre que:\n\na) O cliente bancário se encontre em mora relativamente ao cumprimento das obrigações decorrentes do contrato de crédito e solicite, através de comunicação em suporte duradouro, a sua integração no PERSI, devendo a instituição de crédito assegurar que essa integração ocorre na data em que recebe a referida comunicação;\n\nb) O cliente bancário que alertou para o risco de incumprimento das obrigações decorrentes do contrato de crédito entre em mora, devendo a instituição de crédito assegurar que a integração desse cliente no PERSI ocorre na data do referido incumprimento.\n\n3 - Quando, na pendência do PERSI, o cliente bancário entre em mora relativamente ao cumprimento de obrigações decorrentes de outros contratos de crédito celebrados com a mesma instituição, a instituição de crédito deve procurar obter a regularização do incumprimento no âmbito de um único procedimento, informando o cliente bancário desse facto nos termos previstos no número seguinte.\n\n4 - No prazo máximo de cinco dias após a ocorrência dos eventos previstos no presente artigo, a instituição de crédito deve informar o cliente bancário da sua integração no PERSI, através de comunicação em suporte duradouro.\n\n5 - O Banco de Portugal define, mediante aviso, os elementos informativos que devem acompanhar a comunicação prevista no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353848": {
+   "fragment_id": "169353726",
+   "type": 11,
+   "heading": "Artigo 15.º — Fase de avaliação e proposta",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 15.º — Fase de avaliação e proposta\n\n1 - A instituição de crédito desenvolve as diligências necessárias para apurar se o incumprimento das obrigações decorrentes do contrato de crédito se deve a circunstâncias pontuais e momentâneas ou se, pelo contrário, esse incumprimento reflete a incapacidade do cliente bancário para cumprir, de forma continuada, essas obrigações nos termos previstos no contrato de crédito.\n\n2 - Para os efeitos previstos no número anterior, a instituição de crédito procede à avaliação da capacidade financeira do cliente bancário, podendo solicitar-lhe as informações e os documentos estritamente necessários e adequados, nos termos a definir, mediante aviso, pelo Banco de Portugal.\n\n3 - Salvo motivo atendível, o cliente bancário presta a informação e disponibiliza os documentos solicitados pela instituição de crédito no prazo máximo de 10 dias.\n\n4 - No prazo máximo de 30 dias após a integração do cliente bancário no PERSI, a instituição de crédito, através de comunicação em suporte duradouro, está obrigada a:\n\na) Comunicar ao cliente bancário o resultado da avaliação desenvolvida nos termos previstos nos números anteriores, quando verifique que o mesmo não dispõe de capacidade financeira para retomar o cumprimento das obrigações decorrentes do contrato de crédito, nem para regularizar a situação de incumprimento, através, designadamente, da renegociação das condições do contrato ou da sua consolidação com outros contratos de crédito, sendo inviável a obtenção de um acordo no âmbito do PERSI; ou\n\nb) Apresentar ao cliente bancário uma ou mais propostas de regularização adequadas à sua situação financeira, objetivos e necessidades, quando conclua que aquele dispõe de capacidade financeira para reembolsar o capital ou para pagar os juros vencidos e vincendos do contrato de crédito através, designadamente, da renegociação das condições do contrato ou da sua consolidação com outros contratos de crédito.\n\n5 - As propostas a que se refere a alínea b) do número anterior podem incluir, nomeadamente, as seguintes soluções:\n\na) A celebração de um novo contrato de crédito tendo como finalidade o refinanciamento da dívida do contrato de crédito existente;\n\nb) A alteração de uma ou mais das condições do contrato de crédito, incluindo através:\n\ni) Do alargamento do prazo de amortização;\n\nii) Da fixação de um período de carência de reembolso do capital ou de reembolso do capital e de pagamento de juros;\n\niii) Do diferimento de parte do capital para uma prestação em data futura;\n\niv) Da redução da taxa de juro aplicável ao contrato durante um determinado período temporal;\n\nc) A consolidação de vários contratos de crédito.\n\n6 - As comunicações e propostas previstas nas alíneas a) e b) do n.º 4 incluem informação expressa sobre a existência da rede extrajudicial de apoio a clientes bancários, a sua composição e atribuições, nos termos dos n.os 1 e 2 do artigo 27.º\n\n7 - Sem prejuízo do disposto no número anterior, na apresentação de propostas aos clientes bancários, as instituições de crédito observam os demais deveres de informação previstos na legislação e regulamentação específicas.\n\n8 - As instituições de crédito acompanham a eficácia das soluções acordadas com os clientes bancários, avaliando regularmente a adequação dessas soluções à capacidade financeira, objetivos e necessidades dos clientes bancários e propondo, sempre que tal se revele adequado, outras soluções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353849": {
+   "fragment_id": "169353727",
+   "type": 11,
+   "heading": "Artigo 16.º — Fase de negociação",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 16.º — Fase de negociação\n\n1 - Caso o cliente bancário recuse as propostas apresentadas, a instituição de crédito, quando considere que existem outras alternativas adequadas à situação do cliente bancário, apresenta uma nova proposta.\n\n2 - Quando o cliente bancário proponha alterações à proposta inicial, a instituição de crédito comunica-lhe, no prazo máximo de 15 dias e em suporte duradouro, a sua aceitação ou recusa, podendo igualmente apresentar uma nova proposta, observando o disposto no n.º 7 do artigo anterior.\n\n3 - O cliente bancário pronuncia-se sobre as propostas que lhe sejam apresentadas no prazo máximo de 15 dias após a sua receção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353850": {
+   "fragment_id": "169353730",
+   "type": 11,
+   "heading": "Artigo 19.º — Deveres procedimentais",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 19.º — Deveres procedimentais\n\n1 - As instituições de crédito estão obrigadas a elaborar um documento interno que descreva, em linguagem simples e clara, os procedimentos adotados no âmbito da implementação do PERSI.\n\n2 - Sem prejuízo da inclusão de outros elementos informativos, o documento a elaborar pelas instituições de crédito deve, nomeadamente, especificar:\n\na) Os procedimentos para o contacto com os clientes bancários nas várias fases do PERSI;\n\nb) Os procedimentos para a recolha, tratamento, análise e registo da informação referente aos clientes bancários;\n\nc) As soluções suscetíveis de serem propostas aos clientes bancários em incumprimento;\n\nd) As estruturas ou, se for o caso, os prestadores de serviços de gestão do incumprimento responsáveis pelo desenvolvimento dos procedimentos e ações previstas no PERSI, indicando, com o necessário detalhe, as respetivas competências e descrevendo os mecanismos previstos para a sua articulação com outras estruturas ou entidades potencialmente envolvidas nesses procedimentos e ações; e\n\ne) Os planos de formação dos trabalhadores a quem sejam atribuídas tarefas no âmbito do PERSI.\n\n3 - As instituições de crédito disponibilizam aos seus trabalhadores o documento referido nos números anteriores de modo a permitir a sua consulta imediata e permanente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353851": {
+   "fragment_id": "169353731",
+   "type": 11,
+   "heading": "Artigo 20.º — Processos individuais",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 20.º — Processos individuais\n\n1 - As instituições de crédito devem criar, em suporte duradouro, processos individuais para os clientes bancários abrangidos pelos procedimentos previstos no PERSI, os quais devem conter todos os elementos relevantes, nomeadamente as comunicações entre as partes, o relatório de avaliação da capacidade financeira desses clientes e, quando aplicável, as propostas apresentadas aos mesmos, bem como o registo das razões que conduziram à não apresentação de propostas, e ainda a avaliação relativa à eficácia das soluções acordadas.\n\n2 - As instituições de crédito devem conservar os processos individuais durante os cinco anos subsequentes ao termo da adoção dos procedimentos do PERSI.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353857": {
+   "fragment_id": "169353737",
+   "type": 11,
+   "heading": "Artigo 23.º — Reconhecimento",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 23.º — Reconhecimento\n\nA rede extrajudicial de apoio a clientes bancários é constituída por pessoas coletivas, de direito público ou privado, que, preenchendo as condições constantes no presente capítulo, sejam reconhecidas pela Direção-Geral do Consumidor, após parecer prévio do Banco de Portugal.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353835": {
+   "fragment_id": "169353763",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Composição da rede",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 23.º-A — Composição da rede\n\n1 - Salvo comunicação em contrário dirigida à Direção-Geral do Consumidor (DGC), integram a rede extrajudicial de apoio a clientes bancários os centros de informação e arbitragem de conflitos de consumo, independentemente da sua designação, autorizados para prosseguir as atividades de informação, mediação, conciliação e arbitragem.\n\n2 - Mediante reconhecimento pela DGC, após parecer prévio do Banco de Portugal, podem ainda integrar a rede extrajudicial de apoio a clientes bancários pessoas coletivas, de direito público ou privado, que preencham as condições constantes no presente capítulo.\n\n3 - A rede extrajudicial de apoio a clientes bancários é coordenada pela DGC, podendo ser estabelecidos mecanismos de cooperação com o Banco de Portugal, nos termos de protocolo a celebrar entre ambas as entidades.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353836": {
+   "fragment_id": "169353738",
+   "type": 11,
+   "heading": "Artigo 24.º — Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condições gerais\n\nA entidade requerente deve, à data do pedido de reconhecimento, cumprir, cumulativamente, as seguintes condições:\n\na) Encontrar-se legalmente constituída;\n\nb) Possuir a situação regularizada face à administração fiscal e à segurança social;\n\nc) Integrar um responsável pela coordenação do serviço a prestar."
+  },
+  "169353837": {
+   "fragment_id": "169353739",
+   "type": 11,
+   "heading": "Artigo 25.º — Funcionários e colaboradores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Funcionários e colaboradores\n\n1 - Os funcionários ou as pessoas que colaborem com as entidades requerentes do reconhecimento e que prestem apoio a clientes bancários no âmbito da prevenção do incumprimento e da regularização das situações de incumprimento de contratos de crédito devem preencher, cumulativamente, os seguintes requisitos:\n\na) Ser pessoas de reconhecida idoneidade para o desempenho das funções em causa;\n\nb) Possuir a escolaridade obrigatória;\n\nc) Possuir adequados conhecimentos técnicos em matéria financeira, económica e bancária.\n\n2 - Considera-se indiciador de falta de idoneidade, o facto de a pessoa em causa se encontrar numa das situações previstas no n.º 3 do artigo 30.º do RGICSF.\n\n3 - O disposto no presente artigo é igualmente aplicável aos funcionários ou colaboradores que iniciem funções junto das entidades após o respetivo reconhecimento e que prestem apoio a clientes bancários no âmbito da prevenção do incumprimento e da regularização das situações de incumprimento de contratos de crédito."
+  },
+  "169353838": {
+   "fragment_id": "169353740",
+   "type": 11,
+   "heading": "Artigo 26.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regulamentação\n\nO regime e o procedimento aplicáveis ao reconhecimento das entidades que integram a rede extrajudicial de apoio a clientes bancários são objeto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e da defesa do consumidor."
+  },
+  "169353839": {
+   "fragment_id": "169353764",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Formação",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 26.º-A — Formação\n\nCompete à DGC e ao Banco de Portugal, no âmbito das suas atribuições, dinamizar ações de formação em matéria financeira, económica e bancária destinadas às entidades que integram a rede extrajudicial de apoio a clientes bancários.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353852": {
+   "fragment_id": "169353742",
+   "type": 11,
+   "heading": "Artigo 27.º — Âmbito de atuação",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 27.º — Âmbito de atuação\n\n1 - As entidades que integram a rede extrajudicial de apoio a clientes bancários têm como função informar, aconselhar e acompanhar o cliente bancário que se encontre em risco de incumprir as obrigações decorrentes de contrato de crédito celebrado com uma instituição de crédito ou que, em virtude da mora no cumprimento dessas obrigações, se encontre em processo de negociação com a instituição de crédito.\n\n2 - Em concreto, inserem-se no âmbito de atuação das entidades que integram a rede extrajudicial de apoio a clientes bancários as seguintes atribuições:\n\na) Informar o cliente bancário sobre os seus direitos e deveres em caso de risco de incumprimento do contrato de crédito e no âmbito do PERSI;\n\nb) Apoiar a análise, por parte do cliente bancário, das propostas apresentadas pelas instituições de crédito no âmbito do PARI e do PERSI, nomeadamente quanto à adequação de tais propostas à situação financeira, objetivos e necessidades do cliente bancário;\n\nc) Acompanhar o cliente bancário aquando da negociação entre este e as instituições de crédito das propostas apresentadas no âmbito do PARI e do PERSI;\n\nd) Prestar outras informações em matéria de endividamento e de sobre-endividamento;\n\ne) Apoiar o cliente bancário na avaliação da sua capacidade de endividamento, à luz dos elementos que este apresente para o efeito.\n\n3 - As entidades referidas no n.º 1 podem ainda prestar apoio ao cliente bancário no âmbito de outras medidas aplicáveis a situações de incumprimento, previstas em legislação especial.\n\n4 - Às entidades acima mencionadas está vedada:\n\na) A atuação junto de instituições de crédito, em representação ou por conta dos clientes bancários, nomeadamente aquando da negociação das propostas apresentadas no âmbito do PARI e do PERSI; e\n\nb) A adoção de mecanismos de conciliação, mediação ou arbitragem no âmbito do PARI e do PERSI.\n\n5 - O disposto na alínea b) do número anterior não obsta ao desenvolvimento, pelos centros de informação, mediação e arbitragem de conflitos de consumo referidos no n.º 1 do artigo 23.º-A, das atividades previstas nos n.os 1 e 2.\n\n6 - A intervenção das entidades que integram a rede extrajudicial de apoio a clientes bancários cessa logo que tenham conhecimento de que foi intentada ação judicial relacionada com o contrato de crédito a que se refere o apoio prestado.\n\n7 - Para os efeitos previstos no número anterior, o cliente bancário informa a instituição de crédito com a qual tenha celebrado um contrato de crédito que recorreu a uma entidade da rede extrajudicial de apoio a clientes bancários, no âmbito da atribuição prevista na alínea c) do n.º 2.\n\n8 - Sempre que seja intentada uma ação judicial relacionada com o contrato de crédito, o cliente bancário comunica tal facto à entidade a que recorreu no âmbito da rede extrajudicial de apoio a clientes bancários.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353853": {
+   "fragment_id": "169353750",
+   "type": 11,
+   "heading": "Artigo 33.º — Dever de reporte das instituições de crédito",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 33.º — Dever de reporte das instituições de crédito\n\n1 - As instituições de crédito devem remeter ao Banco de Portugal, no prazo máximo de 30 dias a contar da entrada em vigor do presente diploma, os documentos previstos nos artigos 11.º e 19.º, nos termos a definir, mediante aviso, pelo Banco de Portugal.\n\n2 - As instituições de crédito devem igualmente comunicar ao Banco de Portugal, com a antecedência mínima de 15 dias relativamente à data prevista para a sua aplicação, qualquer alteração ulteriormente introduzida aos documentos referidos no número anterior.\n\n3 - As instituições de crédito estão obrigadas a comunicar ao Banco de Portugal informação quantitativa relativa à implementação dos mecanismos previstos no presente decreto-lei, nos termos a regulamentar pelo Banco de Portugal.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296) O Banco de Portugal regulamenta o disposto no n.º 3 do artigo 33.º do Decreto-Lei n.º 227/2012, de 25 de outubro, na redação introduzida pelo presente decreto-lei, no prazo de 15 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353854": {
+   "fragment_id": "169353753",
+   "type": 11,
+   "heading": "Artigo 36.º — Regime sancionatório",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 36.º — Regime sancionatório\n\n1 - Constitui contraordenação punível nos termos da alínea m) do artigo 210.º e do artigo 212.º do RGICSF e nos termos da alínea y) do n.º 1 do artigo 150.º e do artigo 152.º do Regime dos Serviços de Pagamento e Moeda Eletrónica, aprovado pelo Decreto-Lei n.º 91/2018, de 12 de novembro (RJSPME), a violação do disposto no n.º 1 do artigo 7.º, nos artigos 8.º a 11.º, nos n.os 1 e 2 do artigo 11.º-A, nos n.os 1, 3 e 5 do artigo 11.º-B, nos artigos 11.º-C e 13.º, nos n.os 1 a 4 do artigo 14.º, nos n.os 1, 2, 4, 6, 7 e 8 do artigo 15.º, nos n.os 1 e 2 do artigo 16.º, nos n.os 2 e 3 do artigo 17.º, nos artigos 18.º a 21.º e no artigo 33.º\n\n2 - A negligência é punível, sendo o limite máximo das coimas reduzido para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353855": {
+   "fragment_id": "169353754",
+   "type": 11,
+   "heading": "Artigo 37.º — Fiscalização",
+   "in_force_from": "2021-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+   ],
+   "markdown": "###### Artigo 37.º — Fiscalização\n\n1 - Compete ao Banco de Portugal a fiscalização do cumprimento das obrigações decorrentes do presente decreto-lei, bem como a aplicação, se for caso disso, das respetivas coimas e sanções acessórias.\n\n2 - A aplicação das coimas e sanções acessórias segue o processo instituído no RGICSF e no RJSPME.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70-B/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296), em vigor a partir de 2021-08-07"
+  },
+  "169353831": {
+   "fragment_id": "169353758",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em conselho de Ministros de 13 de setembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.\n\nPromulgado em 15 de outubro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 22 de outubro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

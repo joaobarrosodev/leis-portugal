@@ -1,0 +1,509 @@
+---
+schema_version: '1.0'
+id: pt:dre:909469972:por
+title: Portaria n.º 74/2025/1
+short_title: null
+summary: Procede à primeira alteração da Portaria n.º 408/2023, de 5 de dezembro, que aprova o regulamento do concurso de
+  admissão ao Curso de Formação Militar Complementar de Oficiais para ingresso na classe de serviço técnico ― ramo especialista
+  ― dos quadros permanentes da Marinha.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional
+proposing_entity: null
+official_number: 74/2025/1
+official_date: null
+publication_date: '2025-03-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 43/2025, Série I de 2025-03-03
+  number: '43'
+  series: I
+  supplement: null
+  pages: 27 - 37
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04300/0002700037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/74/2025/03/03/p/dre/pt/html
+  oj: null
+  dre: '909469972'
+  dre_path: /dr/detalhe/portaria/74-2025-909469972
+  internal: pt:dre:909469972:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-2025-909469972
+  metadata_url: https://data.dre.pt/eli/port/74/2025/03/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-2025-909469972
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-03-03T00:00:00Z'
+integrity:
+  source_sha256: 1451d31a616a3631fc3b0d1cf61bcb31d1c25505cef460694b27ae1e56e8266e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-74-909469972.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Formação Militar Complementar de Oficiais
+- Marinha
+- Escola Naval
+- Oficial do Quadro Permanente
+- Regulamento
+- Militar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/76/2018/10/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/76/2018/10/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declrectif/52/2009/07/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declrectif/52/2009/07/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/301/2016/11/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/301/2016/11/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/408/2023/12/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/408/2023/12/05/p/dre
+article_structure:
+  article_count: 31
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 74/2025/1
+
+de 3 de março
+
+O Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2015-67348942), de 29 de maio, na sua redação atual, estabelece no n.º 5 do artigo 202.º que o ingresso na classe de serviço técnico (ST), na categoria de oficial, é efetuado de entre militares que obtenham o grau de licenciado na Escola Naval ou de entre os militares e civis que, possuindo o grau de licenciatura ou equivalente em áreas correspondentes a um dos ramos da classe, admitidos por concurso regulado por portaria do membro do Governo responsável pela área da defesa nacional, concluam com aproveitamento o curso de formação de oficiais respetivo.
+
+Para o efeito, a [Portaria n.º 408/2023](https://diariodarepublica.pt/dr/detalhe/portaria/408-2023-225217599), de 5 de dezembro, aprovou o regulamento do concurso de admissão ao Curso de Formação Militar Complementar de Oficiais (CFMCO) que habilita o ingresso na classe de serviço técnico dos quadros permanentes da Marinha.
+
+Terminado o primeiro concurso realizado ao abrigo do regulamento aprovado pela [Portaria n.º 408/2023](https://diariodarepublica.pt/dr/detalhe/portaria/408-2023-225217599), de 5 de dezembro, torna-se necessário proceder a ajustamentos da portaria e do regulamento do concurso de admissão ao CFMCO para ingresso na classe de ST.
+
+Assim:
+
+Ao abrigo do disposto na alínea b) do n.º 5 do artigo 202.º do EMFAR e na alínea n) do n.º 3 do artigo 14.º da Lei de Defesa Nacional, aprovada pela [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-2009-492378), de 7 de julho, na sua redação atual, manda o Governo, pelo Secretário de Estado Adjunto e da Defesa Nacional, no uso dos poderes que lhe foram delegados pela alínea i) do n.º 1 do [Despacho n.º 6705/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6705-2024-868547581), o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à primeira alteração da [Portaria n.º 408/2023](https://diariodarepublica.pt/dr/detalhe/portaria/408-2023-225217599), de 5 de dezembro, que regula o concurso de admissão ao Curso de Formação Militar Complementar de Oficiais (CFMCO) para ingresso na classe de serviço técnico (ST) - ramo especialista, na categoria de oficiais dos quadros permanentes da Marinha.
+
+###### Artigo 2.º — Alteração à [Portaria n.º 408/2023](https://diariodarepublica.pt/dr/detalhe/portaria/408-2023-225217599), de 5 de dezembro
+
+São alterados os artigos 2.º e 4.º da [Portaria n.º 408/2023](https://diariodarepublica.pt/dr/detalhe/portaria/408-2023-225217599), de 5 de dezembro, que passa a ter a seguinte redação:
+
+«Artigo 2.º
+
+Ingresso na classe de ST e frequência do CFMCO-ST
+
+1 - O ingresso na classe de ST é feito no posto de subtenente, de entre os militares e civis habilitados com grau de licenciado ou equivalente, em áreas correspondentes a um dos ramos da classe, após a conclusão com aproveitamento do CFMCO-ST.
+
+2 - [...]
+
+3 - Sem prejuízo do disposto no número anterior, os oficiais do Exército e da Força Aérea com o posto de Alferes ou superior mantêm o seu posto, mas com a designação do posto correspondente da Marinha.
+
+4 - Os militares do Exército e da Força Aérea, durante a frequência do CFMCO-ST, usam os uniformes previstos no Regulamento de Uniformes dos Militares da Marinha.
+
+###### Artigo 4.º — [...]
+
+1 - [...]
+
+2 - A admissão ao CFMCO-ST é efetuada mediante abertura de concurso interno limitado, aberto aos militares da Marinha e aos cidadãos que tenham prestado serviço efetivo na Marinha em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
+
+3 - A admissão ao CFMCO-ST é efetuada mediante abertura de concurso interno geral, aberto aos militares de qualquer ramo das Forças Armadas e aos cidadãos que tenham prestado serviço efetivo em qualquer ramo das Forças Armadas em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo [Decreto-Lei n.º 76/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), de 11 de outubro, habilitados, no mínimo, com o ciclo de estudos conducente ao grau de licenciado para as áreas e vagas que vierem a ser definidas no respetivo aviso de abertura, de acordo com as necessidades da Marinha.»
+
+###### Artigo 3.º — Alteração do regulamento do concurso de admissão ao CFMCO-ST
+
+São alterados os artigos 2.º, 3.º, 4.º, 7.º, 8.º, 9.º, 12.º, 13.º e 14.º do regulamento do concurso de admissão ao CFMCO-ST, publicado em anexo à [Portaria n.º 408/2023](https://diariodarepublica.pt/dr/detalhe/portaria/408-2023-225217599), de 5 de dezembro, que passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+Condições de admissão ao concurso interno limitado
+
+1 - [...]
+
+a) Ser sargento ou praça da Marinha, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial da Marinha em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre, ou no caso de cidadãos que tenham prestado serviço efetivo em RC na Marinha, nas suas várias modalidades, para além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+2 - [...]
+
+3 - Constituem condições especiais de admissão ao concurso interno limitado:
+
+a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura do concurso;
+
+b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
+
+###### Artigo 3.º — Condições de admissão ao concurso interno geral
+
+1 - [...]
+
+a) Para militares da Marinha, ser sargento ou praça, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre;
+
+b) Para militares do Exército e da Força Aérea, ser sargento ou praça em RC, nas suas várias modalidades, oficial em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre;
+
+c) Para cidadãos que tenham prestado serviço efetivo nas Forças Armadas em RC, nas suas várias modalidades, além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais prevista nos números anteriores para os casos aplicáveis, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM;
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+2 - [...]
+
+3 - Constituem condições especiais de admissão ao concurso interno geral:
+
+a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura do concurso;
+
+b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
+
+###### Artigo 4.º — Condições de admissão ao concurso externo
+
+1 - Constituem condições gerais de admissão ao concurso externo:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+2 - Constitui condição especial de admissão ao concurso externo:
+
+No aplicável, ser detentor de título profissional competente, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
+
+###### Artigo 7.º — [...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) Entrevista profissional.
+
+2 - [...]
+
+3 - [...]
+
+###### Artigo 8.º — [...]
+
+1 - [...]
+
+a) [...]
+
+b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+###### Artigo 9.º — [...]
+
+1 - [...]
+
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM.
+
+###### Artigo 12.º — [...]
+
+1 - [...]
+
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e estejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+
+###### Artigo 13.º — Entrevista profissional
+
+1 - A entrevista profissional visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de ST.
+
+2 - A entrevista profissional é realizada por um júri especialmente constituído para o efeito, composto por um presidente e três vogais, nomeados por despacho do diretor de Pessoal, de entre os membros do júri de seleção do concurso.
+
+3 - Os parâmetros a avaliar na entrevista profissional são definidos por despacho do CEMA.
+
+###### Artigo 14.º — [...]
+
+1 - [...]
+
+a) Para os candidatos admitidos nas modalidades de concurso interno limitado e concurso interno geral:
+
+CF = 0,25 L + 0,05 Fc + 0,25 Ai + 0,10 Ad + 0,15 Ts + 0,20 Ep
+
+b) Para os candidatos admitidos na modalidade de concurso externo:
+
+CF = 0,50 L + 0,10 Fc + 0,40 Ep
+
+em que:
+
+L = [...]
+
+Fc = [...]
+
+Ai = [...]
+
+Ad = [...]
+
+Ts = tempo de serviço efetivo, referido à data de abertura do concurso, numa escala de 10 a 20 valores, arredondado às centésimas, a partir de uma nota base de 10 valores, em que:
+
+As classificações entre 10,00 e 16,00 valores são atribuídas aos candidatos que tenham até 6 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias;
+
+As classificações entre 16,01 e 18,00 valores são atribuídas aos candidatos que tenham entre 6 e 10 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias;
+
+As classificações entre 18,01 e 20,00 valores são atribuídas aos candidatos que tenham entre 10 e 18 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias.
+
+Ep = entrevista profissional, valorada através da média ponderada das classificações dos parâmetros a avaliar, definidos pelo despacho referido no n.º 3 do artigo 13.º do presente Regulamento.
+
+2 - [...]»
+
+###### Artigo 4.º — Republicação
+
+É republicado em anexo à presente portaria, da qual faz parte integrante, o regulamento do concurso de admissão ao CFMCO-ST, com a redação introduzida pela presente portaria.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Secretário de Estado Adjunto e da Defesa Nacional, Álvaro Castelo Branco, em 19 de fevereiro de 2025.**
+
+## ANEXO — (a que se refere o artigo 4.º)
+
+REGULAMENTO DO CONCURSO DE ADMISSÃO AO CFMCO - ST
+
+###### Artigo 1.º — Admissão
+
+1 - A admissão ao Curso de Formação Militar Complementar de Oficiais (CFMCO) para ingresso na classe de serviço técnico (ST) - ramo especialista, na categoria de oficiais dos quadros permanentes da Marinha, é realizada mediante concurso.
+
+2 - As modalidades do concurso, as vagas e as respetivas áreas, são definidas por despacho do Chefe do Estado-Maior da Armada (CEMA).
+
+3 - O aviso de abertura do respetivo concurso é aprovado por despacho do CEMA e publicado no Diário da República.
+
+###### Artigo 2.º — Condições de admissão ao concurso interno limitado
+
+1 - Constituem condições gerais de admissão ao concurso interno limitado:
+
+a) Ser sargento ou praça da Marinha, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial da Marinha em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre, ou no caso de cidadãos que tenham prestado serviço efetivo em RC na Marinha, nas suas várias modalidades, para além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+
+b) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado numa das áreas de formação das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, oficialmente reconhecido;
+
+c) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;
+
+d) Estar devidamente autorizado a concorrer e ingressar na classe de serviço técnico, na categoria de oficiais dos QP da Marinha.
+
+2 - Sem prejuízo do disposto na alínea a) do número anterior, podem ainda ser opositores ao concurso para o preenchimento das vagas sobrantes os oficiais em RC cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi o ciclo de estudos conducente ao grau de mestre.
+
+3 - Constituem condições especiais de admissão ao concurso interno limitado:
+
+a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura do concurso;
+
+b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
+
+###### Artigo 3.º — Condições de admissão ao concurso interno geral
+
+1 - Constituem condições gerais de admissão ao concurso interno geral:
+
+a) Para militares da Marinha, ser sargento ou praça, dos quadros permanentes (QP) ou em regime de contrato (RC), nas suas várias modalidades, oficial em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre;
+
+b) Para militares do Exército e da Força Aérea, ser sargento ou praça em RC, nas suas várias modalidades, oficial em RC, nas suas várias modalidades, cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi inferior ao ciclo de estudos conducente ao grau de mestre;
+
+c) Para cidadãos que tenham prestado serviço efetivo nas Forças Armadas em RC, nas suas várias modalidades, além da condição especial de habilitação de admissão ao respetivo curso de formação de oficiais prevista nos números anteriores para os casos aplicáveis, estarem abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM;
+
+d) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado numa das áreas de formação das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, oficialmente reconhecido;
+
+e) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;
+
+f) Estar devidamente autorizado a concorrer e ingressar na classe de serviço técnico, na categoria de oficiais dos QP da Marinha.
+
+2 - Sem prejuízo do disposto nas alíneas a) a c) do número anterior, podem ainda ser opositores ao concurso para o preenchimento das vagas sobrantes os oficiais em RC cuja condição especial de habilitação de admissão ao respetivo curso de formação de oficiais foi o ciclo de estudos conducente ao grau de mestre.
+
+3 - Constituem condições especiais de admissão ao concurso interno geral:
+
+a) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura do concurso;
+
+b) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
+
+###### Artigo 4.º — Condições de admissão ao concurso externo
+
+1 - Constituem condições gerais de admissão ao concurso externo:
+
+a) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado numa das áreas de formação das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, oficialmente reconhecido;
+
+b) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;
+
+c) Ter a situação militar regularizada e não possuir antecedentes criminais incompatíveis com o respeito pela vida e a integridade física das pessoas, respeito pela vida em sociedade, pela ordem e tranquilidade públicas, respeito pelos direitos e liberdades de terceiros e pelo respetivo património, bem como respeito pelo Estado Português.
+
+2 - Constitui condição especial de admissão ao concurso externo:
+
+No aplicável, ser detentor de título profissional competente, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.
+
+###### Artigo 5.º — Fases do concurso
+
+1 - O concurso compreende a fase de admissão e a fase de seleção, ambas com caráter eliminatório.
+
+2 - Os candidatos são sujeitos à avaliação por um júri de seleção constituído para apreciar as candidaturas.
+
+###### Artigo 6.º — Fase de admissão
+
+1 - A fase de admissão compreende a apreciação documental e destina-se a verificar a conformidade dos documentos da candidatura e se os candidatos preenchem as condições gerais de admissão ao concurso.
+
+2 - Os candidatos que não preencham as condições gerais de admissão não são admitidos ao concurso, por deliberação do júri de seleção.
+
+3 - Após a elaboração da lista provisória de candidatos admitidos ao concurso, os candidatos não admitidos por deliberação do júri de seleção são notificados para a realização da audiência dos interessados, nos termos do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias úteis, se pronunciarem por escrito.
+
+4 - Findo o prazo de audiência dos interessados e a tramitação das eventuais pronúncias, a lista definitiva de candidatos admitidos ao concurso é afixada, para conhecimento público, em local próprio da Direção de Pessoal e divulgada no Portal do Recrutamento da Marinha na Internet e na Ordem da Direção de Pessoal.
+
+###### Artigo 7.º — Fase de seleção
+
+1 - A fase de seleção visa determinar a adequação de cada candidato ao ingresso na classe de serviço técnico, através da realização dos seguintes métodos de seleção:
+
+a) Apreciação do mérito;
+
+b) Inspeções médicas;
+
+c) Provas de destreza física;
+
+d) Avaliação psicológica;
+
+e) Entrevista profissional.
+
+2 - Aos candidatos que, no decurso dos métodos de seleção, cometam ou tentem inequivocamente cometer qualquer fraude, práticas fraudulentas ou incumpram com as normas técnicas de execução ou de conduta que lhes forem transmitidas, é suspensa imediatamente a sua prestação nos métodos de seleção.
+
+3 - Verificada a situação referida no número anterior, o órgão ou unidade responsável pela aplicação do respetivo método de seleção, remete o seu parecer sobre a exclusão por fraude ou práticas fraudulentas, ainda que sob a forma de tentativa, ou incumprimento das normas técnicas de execução ou de conduta ao júri de seleção, para deliberação sobre a exclusão do candidato do concurso.
+
+###### Artigo 8.º — Valoração dos métodos de seleção
+
+1 - Os métodos de seleção a que se refere o artigo anterior são valorados através das menções classificativas de Apto e Não apto, exceto:
+
+a) A avaliação psicológica, que é classificada em Favorável preferencialmente, Bastante favorável, Favorável, Favorável com reservas ou Não favorável;
+
+b) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.
+
+2 - A obtenção de uma classificação de Não apto ou Não favorável, a não comparência ou a desistência de um método de seleção implica a exclusão do candidato do procedimento concursal, sendo notificado desse facto.
+
+3 - Sem prejuízo do disposto no número anterior, e por deliberação do júri de seleção, o candidato que não compareça a um método de seleção, por motivo devidamente fundamentado, pode ser convocado para realizar o método de seleção em falta.
+
+4 - A ordenação final dos candidatos que completem o procedimento com aprovação em todos os métodos de seleção aplicados é expressa numa escala de 0 a 20 valores, nos termos do disposto no artigo 14.º
+
+###### Artigo 9.º — Apreciação do mérito
+
+1 - A apreciação do mérito destina-se a apreciar o mérito do candidato para ingressar na categoria de oficiais dos QP, na classe de serviço técnico, e é realizada de acordo com os critérios fixados por despacho do CEMA.
+
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM.
+
+###### Artigo 10.º — Inspeções médicas
+
+1 - As inspeções médicas destinam-se a averiguar se os candidatos reúnem as condições físicas, psíquicas e sensoriais exigidas para o exercício das funções de oficial da classe de serviço técnico.
+
+2 - As inspeções médicas são realizadas de acordo com o despacho do Superintendente do Pessoal em vigor à data da abertura do aviso do concurso.
+
+3 - A deliberação sobre a aptidão nas inspeções médicas é proferida pela Junta de Recrutamento e Classificação, nos termos das condições previstas nas «Tabelas gerais de inaptidão e incapacidade para o serviço nas Forças Armadas» em vigor à data da abertura do aviso do concurso.
+
+4 - São excluídos, por deliberação do júri de seleção os candidatos que sejam considerados inaptos pela Junta de Recrutamento e Classificação.
+
+###### Artigo 11.º — Avaliação psicológica
+
+A avaliação psicológica destina-se a avaliar as aptidões e características de personalidade e as competências comportamentais dos candidatos, de acordo com os critérios de avaliação psicológica fixados por despacho do CEMA.
+
+###### Artigo 12.º — Provas de destreza física
+
+1 - As provas de destreza física destinam-se a avaliar a aptidão física dos candidatos para o exercício de funções inerentes à categoria de oficial da classe de serviço técnico.
+
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo Forças Armadas e estejam abrangidos pelas condições previstas nos n.<sup>os</sup>1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+
+###### Artigo 13.º — Entrevista profissional
+
+1 - A entrevista profissional visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de ST.
+
+2 - A entrevista profissional é realizada por um júri especialmente constituído para o efeito, composto por um presidente e três vogais, nomeados por despacho do diretor de Pessoal, de entre os membros do júri de seleção do concurso.
+
+3 - Os parâmetros a avaliar na entrevista profissional são definidos por despacho do CEMA.
+
+###### Artigo 14.º — Ordenamento
+
+1 - Os candidatos aprovados para cada uma das áreas definidas no aviso de abertura do concurso são ordenados de acordo com a Classificação Final (CF) que obtiverem, através da aplicação das seguintes fórmulas (arredondada às centésimas):
+
+a) Para os candidatos admitidos nas modalidades de concurso interno limitado e concurso interno geral:
+
+CF = 0,25 L + 0,05 Fc + 0,25 Ai + 0,10 Ad + 0,15 Ts + 0,20 Ep
+
+b) Para os candidatos admitidos na modalidade de concurso externo:
+
+CF = 0,50 L + 0,10 Fc + 0,40 Ep
+
+em que:
+
+L = nota do 1.º ciclo de estudos do ensino superior;
+
+Fc = classificação da avaliação da formação complementar, na escala de 10 a 20, obtida a partir de uma nota base de 10 valores, à qual será somada a valorização das ações de formação consideradas adequadas ao exercício das funções de oficiais da classe de serviço técnico - ramo especialista, de acordo com o fixado em despacho do CEMA;
+
+Ai = média aritmética das avaliações individuais, não harmonizadas, relativas aos últimos seis anos, ou à totalidade, se forem em número inferior, convertida na escala de 0 a 20, aproximada às centésimas;
+
+Ad = classificação da avaliação disciplinar, na escala de 0 a 20, de acordo com o fixado no Regulamento da Avaliação do Mérito dos Militares das Forças Armadas (RAMMFA), aprovado pela [Portaria n.º 301/2016](https://diariodarepublica.pt/dr/detalhe/portaria/301-2016-105283926), de 30 de novembro, na sua redação atual;
+
+Ts = tempo de serviço efetivo, referido à data de abertura do concurso, numa escala de 10 a 20 valores, arredondado às centésimas, a partir de uma nota base de 10 valores, em que:
+
+As classificações entre 10,00 e 16,00 valores são atribuídas aos candidatos que tenham até 6 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias;
+
+As classificações entre 16,01 e 18,00 valores são atribuídas aos candidatos que tenham entre 6 e 10 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias;
+
+As classificações entre 18,01 e 20,00 valores são atribuídas aos candidatos que tenham entre 10 e 18 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias.
+
+Ep = entrevista profissional, valorada através da média ponderada das classificações dos parâmetros a avaliar, definidos pelo despacho referido no n.º 3 do artigo 13.º do presente Regulamento.
+
+2 - Sem prejuízo do disposto no n.º 2 do artigo 25.º do RIPSM, em caso de igualdade no valor da classificação final, constitui condição de preferência para o desempate a idade mais elevada.
+
+###### Artigo 15.º — Audiência dos interessados
+
+Sem prejuízo do disposto no n.º 3 do artigo 6.º, após a elaboração da lista provisória relativa à ordenação final pelo júri de seleção, os candidatos são notificados pelo referido júri para a realização da audiência dos interessados nos termos do CPA, para, no prazo de 10 dias úteis, se pronunciarem por escrito.
+
+###### Artigo 16.º — Homologação
+
+Decorrido o período de audiência dos interessados e a tramitação das eventuais pronúncias, a lista de classificação e ordenação final, após homologação, é publicitada em ordem da Direção de Pessoal e afixada em local visível e público, sendo ainda publicado, por extrato, um aviso na 2.ª série do Diário da República com informação sobre a sua publicitação.
+
+###### Artigo 17.º — Impugnação administrativa
+
+Sem prejuízo da impugnação junto dos tribunais administrativos dos atos de exclusão do candidato do procedimento concursal e de homologação da lista de ordenação final, cabe recurso hierárquico nos termos do EMFAR e do CPA.

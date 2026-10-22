@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:139389:por
+title: Decreto-Lei n.º 401/70
+short_title: null
+summary: Concede benefícios às empresas que explorem a indústria de concentrado de tomate e se reúnam em agrupamentos de exportadores
+  representativos de uma capacidade mínima diária de evaporação de 5000 t de tomate fresco
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e da Economia
+proposing_entity: null
+official_number: 401/70
+official_date: null
+publication_date: '1970-08-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 193/1970, Série I de 1970-08-21
+  number: '193'
+  series: I
+  supplement: null
+  pages: 1093 - 1094
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/08/19300/10931094.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '139389'
+  dre_path: /dr/detalhe/decreto-lei/401-1970-139389
+  internal: pt:dre:139389:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1970-139389
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1970-139389
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-12-30T00:00:00Z'
+integrity:
+  source_sha256: d440d1e71a652c18950633723b3b5d8333dca1faa0dd45f28902137d121ee262
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-401-139389.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:401901:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 401/70
+
+A indústria do tomate, particularmente a do concentrado, constitui uma actividade da maior relevância, tanto para a produção agrícola como para a nossa balança comercial, em que intervém com cerca de 1 milhão de contos.
+
+Depois de alguns anos de incertezas e hesitações, afectada por uma crise de exportação de aspectos preocupantes, a indústria de concentrado de tomate conheceu uma expansão rapidíssima, reveladora de um grande dinamismo, alcandorando-se a uma das mais importantes posições entre as indústrias alimentares e as de exportação.
+
+A procura crescente dos mercados mundiais, com a consequente melhoria continuada de preços, o nível qualitativo atingido pelo produto acabado, fundado tanto na disciplina da produção agrícola como na instalação de equipamento industrial moderno e adequado, e ainda na técnica de fabrico, estiveram na origem do indiscutível êxito deste sector de uma produção agrícola industrial.
+
+O clima de grande facilidade criado pela conjunção da intensidade da procura externa com a extensão das possibilidades da produção interna consequentes das obras de regadio, como das particularidades do nosso clima, e pelos preços de aquisição do tomate fresco, se contribuiu para a explosão espectacular da indústria, levou tantas vezes à imponderação na constituição de empresas sem um mínimo de condições financeiras e de organização comercial que cedo ficaram dominadas pelos compradores, rebaixando o nível de preços de venda com inevitáveis reflexos para os outros produtores e prejuízos sensíveis para a economia nacional.
+
+À medida que a produção mundial se expandia mais ràpidamente do que a procura, cuja diversificação se intensificava e novas unidades industriais se instalavam, na expectativa de benefícios rápidos, a concorrência entre os nossos exportadores ia-se acentuando, evidenciando-se então as deficiências de organização e os vícios de direcção empresarial.
+
+Dada a importância assumida pela indústria de concentrado de tomate na nossa economia agrícola, industrial e de exportação, não pode o Governo deixar de ter em consideração a sua situação, indo, aliás, ao encontro das solicitações dos interessados e agindo pelos meios ao seu alcance, embora sem esquecer que, em grande parte, os factores determinantes não são domináveis do ponto de vista interno, na medida em que estão ligados a uma sobreprodução mundial de cuja evolução próxima se não está seguro.
+
+Nestas condições, procura-se, a exemplo da política seguida noutros países e definida já na Lei de Meios para 1970, favorecer e estimular a concentração de vendas, aumentando a resistência das empresas financeiramente mais débeis, orientando as indústrias para soluções mais seguras e estáveis e ajudando-as a acompanhar a evolução da procura mundial.
+
+Não obstante os esforços que vão desenvolver-se e os sacrifícios que a Administração vai aceitar, não se duvida da extrema dificuldade em defender a totalidade das empresas, já que algumas, pela deficiente localização, pela debilidade financeira ou pela falta de um mínimo de organização empresarial, só excepcionalmente poderão sobreviver.
+
+Dentro desta ordem de ideias, e tendo em vista, imediatamente, melhorar as condições de comercialização e aumentar a capacidade competitiva da indústria e, em seguida, reordená-la, diversificando fabricos e revendo estruturas, tomam-se as providências possíveis, que serão tanto mais validas quanto a compreensão e cooperação dos empresários as tornem efectivas.
+
+Assim:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. As empresas que explorem a indústria de concentrado de tomate e se reúnam em agrupamentos de exportadores sob a forma de sociedade comercial beneficiarão do disposto no presente diploma, desde que esses agrupamentos representem uma capacidade mínima diária de evaporação de 5000 t de tomate fresco.
+
+2. Os agrupamentos referidos no n.º 1 deste artigo terão por objectivo promover e realizar todas as operações relativas à venda e à exportação de concentrado de tomate produzido pelas empresas neles agrupadas.
+
+3. As funções das empresas agrupadas referidas no número anterior incumbirão aos agrupamentos nele indicados, não podendo aquelas realizá-las por qualquer outro modo.
+
+###### Art. 2.º - 1. As associações agrícolas, agrupando ou não cooperativas, que exerçam as funções referidas no n.º 2 do artigo anterior beneficiarão igualmente do disposto neste diploma, independentemente da verificação do limite referido na parte final do n.º 1 do artigo 1.º
+
+2. As associações agrícolas a que se refere o número anterior, para que possam continuar a beneficiar do disposto neste decreto-lei, deverão constituir-se num único agrupamento, no prazo de dois anos.
+
+3. É aplicável às associações agrícolas previstas neste artigo o disposto no n.º 3 do artigo anterior, com as necessárias adaptações.
+
+###### Art. 3.º - 1. Os agrupamentos de exportadores e as associações agrícolas a que se referem, respectivamente, os artigos 1.º e 2.º poderão beneficiar do regime de armazéns gerais previsto no [Decreto-Lei n.º 43102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43102-1960-501257), de 3 de Agosto de 1960.
+
+2. Os conhecimentos de depósito e as cautelas de penhor a que se refere o artigo 2.º do [Decreto-Lei n.º 43102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43102-1960-501257) serão emitidos a favor do agrupamento de exportadores ou das associações agrícolas de que fizer parte o produtor da mercadoria depositada.
+
+3. É válida a cláusula, aposta na cautela, pela qual o depositante ou endossante renunciam ao privilégio da prévia excussão do penhor.
+
+4. Para os efeitos previstos no número anterior, não é aplicável o artigo 4.º do citado [Decreto-Lei n.º 43102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43102-1960-501257).
+
+5. O Fundo de Fomento de Exportação pode avalizar, mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, as cautelas de penhor (warrants) emitidas nos termos deste artigo.
+
+###### Art. 4.º - 1. Gozarão de preferência relativamente à obtenção de pré-financiamento em instituições públicas de crédito as entidades que se agruparem ou associarem nos termos deste decreto-lei, desde que esse pré-financiamento seja garantido pelo respectivo agrupamento ou associação.
+
+2. Para os efeitos do n.º 1, poderá o Fundo de Abastecimento, quando tal se considerar necessário e mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, garantir as operações de pré-financiamento de campanha, a que o mesmo número se refere.
+
+3. O Fundo de Abastecimento, mediante despacho do Secretário de Estado do Comércio, com a concordância do Ministro das Finanças, poderá ainda garantir as operações de financiamento destinadas à realização de concentrações fabris ou diversificação de fabricos relativos ao concentrado de tomate.
+
+###### Art. 5.º - 1. A taxa da contribuição industrial devida pelos agrupamentos de exportadores e associações agrícolas que beneficiem do disposto neste diploma será reduzida a um terço relativamente aos lucros imputáveis à sua actividade decorrente do objectivo referido no n.º 2 do artigo 1.º durante um período de cinco anos, a contar da data da sua constituição.
+
+2. As entidades agrupadas ou associadas nos termos deste diploma beneficiarão da redução de 50 por cento da taxa da contribuição industrial sobre lucros imputáveis ao exercício da indústria de concentrado de tomate durante o período de cinco anos, a contar da data da sua entrada para o agrupamento ou associação.
+
+###### Art. 6.º Mediante despacho do Secretário de Estado do Comércio, poderá o Fundo de Fomento de Exportação suportar parte das despesas de instalação e de funcionamento nos primeiros cinco anos dos centros de promoção de vendas estabelecidos no estrangeiro pelos agrupamentos de exportadores ou pelas associações agrícolas a que se refere este diploma.
+
+###### Art. 7.º - 1. É criado na Junta Nacional das Frutas o Conselho Técnico da Produção, Transformação e Comércio do Tomate.
+
+2. O Conselho Técnico será presidido pelo presidente da Junta, assistido pelo vice-presidente por ele designado para o efeito, que o substituirá nas faltas ou impedimentos, e constituído pelos seguintes vogais:
+
+a) Dois representantes da produção, designados pela Corporação da Lavoura, sendo um representante das associações previstas no artigo 2.º deste diploma;
+
+b) Dois representantes da indústria, designados pela Corporação da Indústria, sendo um representante do Grémio Nacional dos Industriais de Tomate;
+
+c) Dois representantes do comércio, a designar pela Corporação do Comércio, sendo um representante dos agrupamentos de exportadores previstos no artigo 1.º deste diploma;
+
+d) Um representante da Direcção-Geral dos Serviços Agrícolas e outro da Direcção-Geral dos Serviços Industriais, a designar pelos respectivos directores-gerais.
+
+3. Constituem funções especificas do Conselho Técnico estudar e propor:
+
+a) Os regimes de comercialização de tomate e dos produtos dele derivados;
+
+b) As regras a seguir na classificação do concentrado de tomate e dos derivados do tomate e na verificação das respectivas qualidades;
+
+c) As normas e condicionamentos para o licenciamento das indústrias transformadoras do tomate;
+
+d) As medidas e incentivos a adoptar para reorganizar, diversificar e modernizar as indústrias de tomate.
+
+4. As reuniões do Conselho Técnico realizar-se-ão de acordo com o disposto nos artigos 5.º e 6.º do [Decreto n.º 27355](https://diariodarepublica.pt/dr/detalhe/decreto/27355-1936-323540), de 19 de Dezembro de 1936.
+
+###### Art. 8.º O regime estabelecido neste decreto-lei poderá ser tornado extensivo, total ou parcialmente, a outros produtos do tomate, por portaria do Secretário de Estado do Comércio.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+**Promulgado em 12 de Agosto de 1970.**
+
+**Publique-se.**
+
+Presidência da República, 21 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

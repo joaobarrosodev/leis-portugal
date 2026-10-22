@@ -1,0 +1,233 @@
+---
+schema_version: '1.0'
+id: pt:dre:334669:por
+title: Decreto-Lei n.º 49/90
+short_title: null
+summary: Introduz alterações ao Decreto-Lei n.º 444/86, de 31 de Dezembro (regime fiscal dos tabacos)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 49/90
+official_date: null
+publication_date: '1990-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/1990, Série I de 1990-02-10
+  number: '35'
+  series: I
+  supplement: null
+  pages: 557 - 559
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03500/05570559.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '334669'
+  dre_path: /dr/detalhe/decreto-lei/49-1990-334669
+  internal: pt:dre:334669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1990-334669
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1990-334669
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-09-25T00:00:00Z'
+integrity:
+  source_sha256: e88eb08b08d0aaf8ab43c46e02111465f38211bde1bb917d36063cc5c802c543
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-49-334669.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:653128:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49/90
+
+de 10 de Fevereiro
+
+A adesão de Portugal às Comunidades Europeias torna necessária a adaptação da lei interna relativa ao regime tabaqueiro.
+
+O processo de adaptação iniciou-se, ainda antes da adesão, com a publicação do [Decreto-Lei n.º 34/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), de 24 de Janeiro, e foi aprofundado com o [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro.
+
+Com o presente diploma procura-se a plena adequação ao direito comunitário.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo n.º 2 do artigo 31.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º Os artigos 17.º, 24.º, 32.º, 36.º, 41.º, 45.º, 48.º, 54.º, 56.º, 57.º, 61.º, 62.º, 63.º e 65.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, passam a ter a seguinte redacção:
+
+###### Artigo 17.º — Garantia
+
+Sob proposta do serviço competente, o Ministro das Finanças poderá determinar a exigência ou reforço de garantia de valor adequado ao volume de negócios aos sujeitos passivos abrangidos pelo regime de pagamento previsto no n.º 1 do artigo anterior.
+
+###### Artigo 24.º — [...]
+
+1 - O serviço fiscalizador pode autorizar a saída temporária de produtos de tabaco em curso de transformação e de tabaco manufacturado das áreas fiscalizadas para exposições e beneficiações, bem como a saída de tabaco em curso de transformação, a fim de ser completada a sua transformação industrial noutra parcela do território nacional ou no estrangeiro.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 32.º — [...]
+
+1 - ...
+
+2 - Constitui ainda contrabando a colocação no mercado interno do tabaco saído das áreas fiscalizadas com isenção de imposto e do tabaco destinado a consumo noutra parcela do território nacional com fiscalidade diferenciada.
+
+3 - Constitui crime punível com as penas de prisão e multa previstas para os crimes de contrabando e tentativa a colocação ou a tentativa de colocação no mercado interno de tabaco sem a aposição da estampilha especial a que se refere o artigo 54.º-A.
+
+###### Artigo 36.º — Comercialização a preço diferente do constante da estampilha especial
+
+A colocação à venda ao público de tabaco a preço diferente do constante da estampilha especial constitui transgressão punível com multa igual ao décuplo da diferença de imposto em causa, salvo nos casos em que constitua o crime previsto e punido pelo artigo 35.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+
+###### Artigo 41.º — Exigência de declaração de afectação
+
+1 - Na importação de produtos para fabrico de tabaco, incluindo amostras, designadamente o tabaco em folha, e outras espécies vegetais, extractos ou molhos de tabaco destinados a complementar, perfumar ou apaladar os tabacos, papel de fumar em carretéis, fita para pontas, varetas, filtros, bem como os maquinismos próprios para aquela indústria, é exigida uma declaração de afectação dessas mercadorias.
+
+2 - ...
+
+###### Artigo 45.º — Estâncias habilitadas a despachar tabaco
+
+O director-geral das Alfândegas determinará quais as estâncias aduaneiras competentes para o processamento das declarações de importação de tabaco.
+
+###### Artigo 48.º — [...]
+
+É livre a importação de tabaco nas condições definidas por este diploma e demais legislação aplicável.
+
+###### Artigo 54.º — [...]
+
+1 - ...
+
+2 - No caso dos invólucros, o preço de venda ao público deverá figurar impresso na estampilha especial a que se refere o artigo 54.º-A.
+
+3 - ...
+
+4 - ...
+
+5 - O fabricante tem a faculdade de fazer constar dos invólucros, pacotes e volumes o código de barras do produto.
+
+###### Artigo 56.º — [...]
+
+1 - Podem ser fabricadas ou importadas, em quantidades limitadas, embalagens miniatura de marcas já existentes ou a introduzir, com vista à promoção de vendas.
+
+2 - ...
+
+###### Artigo 57.º — Preços de venda ao público
+
+Os preços de venda ao público dos produtos de tabaco são indicados pelos fabricantes e importadores e previamente homologados por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo.
+
+###### Artigo 61.º — [...]
+
+1 - O tabaco manufacturado susceptível de ser sujeito a venda coerciva será obrigatoriamente depositado à ordem da Direcção-Geral das Alfândegas.
+
+2 - Para efeitos do disposto no número anterior, a autoridade apreensora ou o dono do armazém onde o tabaco passou à situação de submissão a venda coerciva emitirá guia de entrega à ordem da Direcção-Geral das Alfândegas.
+
+###### Artigo 62.º — [...]
+
+1 - A Direcção-Geral das Alfândegas procederá, no prazo de 30 dias contados a partir do depósito do tabaco, à classificação deste como próprio ou impróprio para consumo.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 63.º — [...]
+
+Quando o tabaco for considerado impróprio para consumo será lavrado auto de inutilização por representantes da autoridade aduaneira.
+
+###### Artigo 65.º — [...]
+
+1 - O tabaco considerado próprio para consumo, na situação de abandonado, será objecto de venda coerciva, aplicando-se à venda as formalidades estabelecidas no Código de Processo das Contribuições e Impostos.
+
+2 - O valor a atribuir ao tabaco será objecto de proposta pelos serviços de fiscalização da Direcção-Geral das Alfândegas e sancionado pelo director-geral das Alfândegas.
+
+3 - O valor resultante da venda coerciva do tabaco referido no n.º 1 deverá entrar em receita do Estado ou das regiões autónomas, consoante o território da respectiva apreensão, sendo o preço receitado a título de herança jacente, deduzidas as importâncias relativas a recursos próprios comunitários e as que impendam sobre a mercadoria, designadamente transporte, análises e armazenagem.
+
+4 - O tabaco adquirido nos termos dos números anteriores será exportado obrigatoriamente para países terceiros ou entrará em consumo.
+
+5 - É competente para a venda desta mercadoria a Direcção-Geral das Alfândegas.
+
+###### Art. 2.º É revogado o artigo 42.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro.
+
+###### Art. 3.º É aditado o artigo 54.º-A ao [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, com a seguinte redacção:
+
+###### Artigo 54.º-A — Estampilha especial
+
+1 - Os invólucros de venda ao público de tabaco manufacturado para consumo no território nacional conterão obrigatoriamente, aposta antes da sua introdução no consumo de modo a não permitir a sua reutilização, uma estampilha especial, fornecida pela Imprensa Nacional-Casa da Moeda.
+
+2 - Nos casos em que o invólucro seja celofanado, a estampilha deverá ser aposta por baixo do celofane.
+
+3 - As estampilhas especiais serão fornecidas aos produtores ou importadores pela Imprensa Nacional-Casa da Moeda com base em requisição previamente visada pela IGF ou pela DGA, consoante os casos.
+
+4 - A Imprensa Nacional-Casa da Moeda comunicará mensalmente à IGF e à DGA as quantidades de estampilhas fornecidas aos produtores nacionais e importadores, respectivamente, discriminadas por classes de preços.
+
+5 - O tabaco manufacturado referido no n.º 1 não poderá sair das áreas fiscalizadas a que se refere o artigo 19.º ou ser desalfandegado sem que esteja aposta a estampilha especial nas embalagens.
+
+6 - Compete ao Ministro das Finanças aprovar, por portaria, a regulamentação das formalidades a observar para a requisição, fornecimento e controlo das estampilhas especiais.
+
+7 - Compete conjuntamente ao director-geral das Alfândegas e ao inspector-geral de Finanças aprovar os modelos das estampilhas.
+
+8 - O modelo da estampilha deve evidenciar o território do consumo.
+
+###### Art. 4.º 1 - O disposto no artigo 3.º entra em vigor no dia 1 de Julho de 1990, à excepção das competências atribuídas ao Ministro das Finanças, ao director-geral das Alfândegas e ao inspector-geral de Finanças.
+
+2 - A nova redacção dada aos artigos 36.º e 45.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, entra em vigor também no dia 1 de Julho de 1990.
+
+3 - A partir de 1 de Janeiro de 1991 não poderão encontrar-se no circuito comercial invólucros que não tenham aposta a estampilha especial a que alude o artigo 54.º-A do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, na redacção dada pelo presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 30 de Janeiro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 2 de Fevereiro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

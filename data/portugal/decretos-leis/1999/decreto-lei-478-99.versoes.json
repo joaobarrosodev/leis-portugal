@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:683182:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-116954906",
+ "dre_path": "/dr/detalhe/decreto-lei/478-1999-683182",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116960542",
+    "116922637",
+    "116922638",
+    "116922639",
+    "116922640",
+    "116922641",
+    "116922642",
+    "116922643",
+    "116922644",
+    "116922645",
+    "116922646",
+    "116922647",
+    "116922648",
+    "116922649",
+    "116922650",
+    "116922651",
+    "116922652"
+   ]
+  },
+  {
+   "date": "2014-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:65983234:por",
+     "title": "Decreto-Lei n.º 181/2014",
+     "published": "2014-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/181-2014-65983234"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "116922636",
+    "116922637",
+    "116922638",
+    "116922639",
+    "116922640",
+    "116922641",
+    "116922642",
+    "116922643",
+    "116922654",
+    "116922645",
+    "116922646",
+    "116922647",
+    "116922648",
+    "116922649",
+    "116922650",
+    "116922651",
+    "116922652",
+    "116922653"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116950304:por",
+     "title": "Decreto-Lei n.º 93/2018",
+     "published": "2018-11-13",
+     "dre_path": "/dr/detalhe/decreto-lei/93-2018-116950304"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "116960542",
+    "116960543",
+    "116960544",
+    "116960545",
+    "116960546",
+    "116960547",
+    "116960548",
+    "116960549",
+    "116960550",
+    "116960551",
+    "116960552",
+    "116960553",
+    "116960554",
+    "116960555",
+    "116960556",
+    "116960557",
+    "116960558",
+    "116960559"
+   ]
+  }
+ ],
+ "fragments": {
+  "116960542": {
+   "fragment_id": "116954907",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 478/99\n\nde 9 de Novembro\n\nA entrada em vigor do Decreto-Lei n.º 329/95, de 9 de Dezembro, em 1 de Dezembro de 1996, através da publicação do Decreto-Lei n.º 38/96, de 6 de Maio, levou à publicação de vários diplomas, de entre os quais a Portaria n.º 753/96, de 20 de Dezembro, que veio regulamentar o processo de formação, avaliação e emissão de cartas dos navegadores de recreio.\n\nAs recentes alterações introduzidas no Regulamento da Náutica de Recreio resultaram, designadamente, de um significativo aumento desta actividade, do qual decorreu a necessidade do ajustamento do referido Regulamento à situação actual.\n\nDas alterações acima referidas destacam-se as constantes dos artigos 34.º, 36.º e 40.º, artigos cujo conteúdo habilitou o Governo à publicação da Portaria n.º 753/96, de 20 de Dezembro.\n\nCom a alteração dos referidos artigos, operou-se a revogação automática da portaria em referência, estabelecendo-se, com a nova redacção do artigo 40.º do Regulamento da Náutica de Recreio, que os conteúdos programáticos e a duração dos cursos a ministrar pelas entidades formadoras, bem como o modelo de carta de navegador de recreio, são objecto de portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\nPor outro lado, referem os artigos 34.º e 36.º do Regulamento da Náutica de Recreio, na sua nova redacção, que o processo de formação e avaliação dos navegadores de recreio, a emissão das respectivas cartas, bem como a credenciação e fiscalização das entidades formadoras, serão definidos em diploma próprio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "116922637": {
+   "fragment_id": "116954908",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma aprova o processo de formação e avaliação dos navegadores de recreio, a emissão das respectivas cartas, bem como a credenciação e fiscalização das entidades formadoras."
+  },
+  "116922638": {
+   "fragment_id": "116954909",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEntidades competentes para a formação dos navegadores de recreio e para a realização dos respectivos exames\n\n1 - A formação dos navegadores de recreio é da competência da Escola Náutica Infante D. Henrique (ENIDH), da Escola de Pesca e da Marinha de Comércio (EPMC) e de outras entidades credenciadas para o efeito, nos termos do presente diploma, adiante designadas entidades formadoras.\n\n2 - As entidades credenciadas a que se refere o número anterior revestem a forma de pessoas colectivas.\n\n3 - É competente para a realização dos exames aos navegadores de recreio o Instituto Marítimo-Portuário (IMP) ou as entidades às quais este Instituto atribua competência para o efeito."
+  },
+  "116922639": {
+   "fragment_id": "116954910",
+   "type": 11,
+   "heading": "Artigo 3.º — Credenciação das entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Credenciação das entidades formadoras\n\n1 - As entidades formadoras devem requerer a necessária credenciação ao IMP, organismo competente para a análise e decisão dos respectivos processos de candidatura.\n\n2 - A credenciação das entidades formadoras será válida por um período de dois anos, findo o qual as referidas entidades deverão requerer ao IMP a renovação da mesma.\n\n3 - A renovação da credenciação será concedida mediante avaliação da actividade desenvolvida e confirmação dos requisitos iniciais de credenciação constantes do n.º 2 do artigo 4.º do presente diploma."
+  },
+  "116922640": {
+   "fragment_id": "116954911",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos\n\n1 - O processo de candidatura a entidades formadoras deve ser instruído com requerimento no qual seja solicitada a necessária autorização para ministrar a formação, dele constando a identificação completa da entidade requerente, bem como a indicação dos cursos que se propõe ministrar com a respectiva calendarização.\n\n2 - O requerimento a que se refere o número anterior deve ainda ser acompanhado dos elementos comprovativos de que a entidade requerente dispõe de condições e meios materiais e humanos adequados, nomeadamente:\n\na) Localização geográfica em zonas litorais, fluviais, barragens ou albufeiras;\n\nb) Instalações próprias apropriadas à formação, a comprovar mediante apresentação de escritura pública de aquisição ou contrato de arrendamento;\n\nc) Embarcações e equipamento e material pedagógico necessário e adequado à formação teórica e prática;\n\nd) Espaços físicos e equipamentos necessários ao apoio administrativo e funcional;\n\ne) Formadores em número suficiente e com formação técnica, profissional e pedagógica comprovada.\n\n3 - Os elementos referidos no número anterior serão objecto de inspecção e avaliação por parte do IMP, podendo este Instituto solicitar às entidades requerentes todos os esclarecimentos necessários à instrução do processo.\n\n4 - Após análise e em caso de aprovação do processo de candidatura, o IMP procederá à credenciação da entidade formadora requerente para ministrar os cursos aprovados, nas instalações e embarcações constantes do processo de candidatura.\n\n5 - As embarcações referidas no número anterior deverão ter inscritas no costado em ambos os bordos e a meio navio as palavras «BARCO ESCOLA», a preto sobre fundo branco, inscritas num rectângulo de 0,1 m x 0,9 m para embarcações com comprimento inferior a 6 m e de 0,2 m x 1,8 m para as restantes embarcações."
+  },
+  "116922641": {
+   "fragment_id": "116954912",
+   "type": 11,
+   "heading": "Artigo 5.º — Coordenador técnico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coordenador técnico-pedagógico\n\n1 - O processo de candidatura deve indicar um coordenador técnico-pedagógico, titular de carta de patrão de alto mar e possuidor de experiência pedagógica.\n\n2 - Ao coordenador técnico-pedagógico compete:\n\na) Coordenar as acções de formação;\n\nb) Garantir o rigor da formação ministrada;\n\nc) Zelar pela organização do processo administrativo-pedagógico dos cursos;\n\nd) Organizar o processo administrativo dos exames."
+  },
+  "116922642": {
+   "fragment_id": "116954913",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação\n\n1 - As entidades formadoras podem ministrar os cursos para os quais estejam credenciadas, apenas nos locais e espaços autorizados.\n\n2 - A inscrição nos cursos é efectuada mediante requerimento dirigido à entidade formadora."
+  },
+  "116922643": {
+   "fragment_id": "116954914",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo administrativo-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo administrativo-pedagógico\n\n1 - As entidades formadoras devem organizar, por cada tipo de curso, um dossier pedagógico contendo:\n\na) O programa do curso;\n\nb) O currículo descritivo da capacidade técnica e pedagógica, bem como da experiência náutica dos formadores que ministram esse tipo de curso;\n\nc) A organização curricular das unidades didácticas que compõem o programa do curso, incluindo a sua carga horária, sumários descritivos, objectivos pedagógicos em termos de saberes a adquirir e capacidades de desempenho a alcançar pelo formando;\n\nd) O horário tipo da formação;\n\ne) O calendário de execução dos cursos previstos a realizar durante o ano civil em curso;\n\nf) A bibliografia de apoio disponibilizada pela entidade formadora;\n\ng) Os manuais passíveis de serem adquiridos pelos formandos, cuja elaboração é da responsabilidade da entidade formadora;\n\nh) O inventário de materiais, equipamentos e simuladores utilizados durante a formação teórica e prática.\n\n2 - As entidades formadoras devem organizar, por cada curso, um processo administrativo-pedagógico constituído por um livro de sumários e presenças, conforme o modelo n.º 1 anexo ao presente diploma e que dele faz parte integrante.\n\n3 - Do processo a que se refere o número anterior deverão constar outros documentos, nomeadamente fichas de inscrição, licenças de aprendizagem, certificados de habilitações literárias, declarações de «saber nadar e remar», testes de consolidação e avaliações formativas que permitam aferir da qualidade do ensino ministrado e da sua conformidade com o estabelecido no presente diploma.\n\n4 - No início de cada ano, as entidades formadoras devem enviar ao IMP o calendário dos cursos a realizar, o qual deve ser actualizado sempre que alterado, devendo tais alterações ser comunicadas ao IMP com a antecedência mínima de oito dias.\n\n5 - As entidades formadoras devem, igualmente, enviar ao IMP, até ao dia 31 de Janeiro e relativamente ao ano anterior, um relatório da sua actividade sobre os cursos realizados, indicando, por categoria:\n\na) O número de cursos ministrados, indicando as datas de realização e respectivos horários;\n\nb) O número de candidatos admitidos aos cursos;\n\nc) O número de candidatos considerados aptos e não aptos nos exames."
+  },
+  "116922644": {
+   "fragment_id": "116954915",
+   "type": 11,
+   "heading": "Artigo 8.º — Exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exames\n\n1 - Concluída a formação referida no artigo 6.º do presente diploma, a entidade formadora solicitará ao IMP a realização dos respectivos exames, enviando a «lista de candidatos a exame», conforme o modelo n.º 2 anexo ao presente diploma e que dele faz parte integrante.\n\n2 - Os exames serão realizados em data e local a fixar pelo IMP e compreendem uma prova teórica e uma prova prática, qualquer delas eliminatória, sendo fixadas duas épocas para cada exame.\n\n3 - Os júris de exame são constituídos por três membros:\n\na) Um representante do IMP, que preside, nomeado pelo presidente do conselho de administração do IMP;\n\nb) Dois vogais, propostos pela entidade formadora e titulares de carta de navegador de recreio com categoria igual ou superior à pretendida pelos examinandos, mas nunca inferior à de patrão de costa.\n\n4 - Nos exames para a obtenção de qualquer carta de patrão pelo menos um membro do júri deve possuir o certificado geral de operador radiotelefonista.\n\n5 - A nomeação dos membros do júri é da competência exclusiva do IMP.\n\n6 - Ao IMP compete ainda a realização e distribuição das provas de exame."
+  },
+  "116922645": {
+   "fragment_id": "116954916",
+   "type": 11,
+   "heading": "Artigo 9.º — Formalidades relativas aos exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formalidades relativas aos exames\n\nOs exames são registados em livro de termos, conforme o modelo n.º 3 anexo ao presente diploma e que dele faz parte integrante, sendo cada termo assinado por todos os membros do júri."
+  },
+  "116922646": {
+   "fragment_id": "116954917",
+   "type": 11,
+   "heading": "Artigo 10.º — Emissão de cartas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Emissão de cartas\n\n1 - O resultado dos exames constará de uma «pauta de classificação final», conforme o modelo n.º 4 anexo ao presente diploma e que dele faz parte integrante, que será enviada ao IMP para efeitos de emissão das cartas de navegador de recreio.\n\n2 - A emissão das cartas de navegador de recreio é solicitada ao IMP mediante requerimento do interessado após ter sido considerado apto no exame, acompanhado de duas fotografias e de fotocópia do bilhete de identidade."
+  },
+  "116922647": {
+   "fragment_id": "116954918",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização das entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização das entidades formadoras\n\n1 - A fiscalização das entidades formadoras é da competência do IMP.\n\n2 - Na sequência de uma acção de fiscalização e sempre que se verifique o incumprimento das normas constantes do presente diploma, o IMP desencaderá o respectivo processo de contra-ordenação."
+  },
+  "116922648": {
+   "fragment_id": "116954919",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência sancionatória\n\n1 - A instrução dos processos de contra-ordenação compete ao IMP.\n\n2 - A aplicação das respectivas coimas e sanções acessórias compete ao presidente do conselho de administração do IMP."
+  },
+  "116922649": {
+   "fragment_id": "116954920",
+   "type": 11,
+   "heading": "Artigo 13.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contra-ordenações\n\n1 - Sem prejuízo da responsabilidade criminal, civil e disciplinar a que haja lugar, constituem contra-ordenações, puníveis com coima, as infracções a seguir indicadas:\n\na) Será aplicada coima, cujo montante mínimo será de 100000$00 e máximo de 3000000$00, às entidades que exerçam a actividade formadora sem que para o efeito estejam credenciadas, nos termos do artigo 2.º do presente diploma;\n\nb) Será aplicada coima, cujo montante mínimo será de 500000$00 e máximo de 5000000$00, às entidades formadoras que:\n\ni) Ministrem cursos ou realizem exames para categorias e em locais para que não estejam credenciadas ou autorizadas nos termos do artigo 6.º do presente diploma;\n\nii) Realizem exames que não estejam em conformidade com o disposto no artigo 8.º do presente diploma;\n\niii) Não procedam à devolução dos impressos não utilizados para a emissão das cartas de navegadores de recreio em conformidade com o disposto no n.º 2 do artigo 15.º do presente diploma;\n\nc) Será aplicáda coima, cujo montante mínimo será de 400000$00 e máximo de 2000000$00, às entidades formadoras que:\n\ni) Depois de credenciadas, não cumpram com os requisitos que determinaram a sua credenciação, conforme o disposto no artigo 4.º e no n.º 1 do artigo 5.º do presente diploma;\n\nii) Não tenham o processo administrativo-pedagógico organizado, conforme o disposto nos n.os 1 e 2 do artigo 7.º do presente diploma;\n\niii) Não enviem o calendário dos cursos, respectiva actualização e o relatório da sua actividade, conforme o disposto nos n.os 3, 4 e 5 do artigo 7.º do presente diploma;\n\nd) Será aplicada coima, cujo montante mínimo será de 100000$00 e máximo de 500000$00, ao coordenador técnico-pedagógico que não dê cumprimento ao disposto no n.º 2 do artigo 5.º do presente diploma.\n\n2 - A negligência e a tentativa são puníveis."
+  },
+  "116922650": {
+   "fragment_id": "116954921",
+   "type": 11,
+   "heading": "Artigo 14.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções acessórias\n\n1 - Quando a gravidade da infracção o justifique, podem ser aplicadas as seguintes sanções acessórias, nos termos do regime geral das contra-ordenações e coimas:\n\na) Suspensão da autorização concedida às entidades formadoras que:\n\ni) Depois de credenciadas, não cumpram com os requisitos que determinaram a sua credenciação, conforme o disposto no artigo 4.º e no n.º 1 do artigo 5.º do presente diploma;\n\nii) Não tenham o processo administrativo-pedagógico organizado, conforme prevêem os n.os 1 e 2 do artigo 7.º do presente diploma;\n\niii) Não enviem o calendário dos cursos, respectiva actualização e o relatório da sua actividade, conforme o disposto nos n.os 3, 4 e 5 do artigo 7.º do presente diploma;\n\nb) Interdição do exercício da actividade das entidades formadoras que:\n\ni) Não corrijam as irregularidades previstas no número anterior após a sua detecção;\n\nii) Cometam repetidamente as irregularidades previstas na alínea a) deste artigo;\n\niii) Ministrem cursos ou realizem exames para categorias e em locais para que não estejam credenciadas ou autorizadas nos termos do artigo 6.º do presente diploma;\n\niv) Realizem exames que não estejam em conformidade com o disposto no artigo 8.º do presente diploma;\n\nv) Não procedam à devolução dos impressos não utilizados para a emissão de cartas de navegador de recreio em conformidade com o disposto no n.º 2 do artigo 15.º do presente diploma.\n\n2 - A suspensão da autorização poderá ser aplicada aos coordenadores técnico-pedagógicos que não cumpram com o n.º 2 do artigo 5.º do presente diploma.\n\n3 - Nos casos referidos nos números anteriores, são sempre ouvidas as entidades formadoras, devendo, no caso previsto no número anterior, ser ouvido o coordenador técnico-pedagógico."
+  },
+  "116922651": {
+   "fragment_id": "116954922",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - À data da entrada em vigor do presente diploma, as entidades credenciadas ao abrigo da Portaria n.º 753/96, de 20 de Dezembro, apenas ficam autorizadas a ministrar formação, podendo, no entanto, para os cursos já iniciados àquela data, realizar os exames e emitir as respectivas cartas.\n\n2 - Sem prejuízo do disposto no número anterior, os impressos não utilizados para a emissão das cartas de navegador de recreio devem ser devolvidos ao IMP, no prazo de 15 dias a contar da data de entrada em vigor do presente diploma, contra o reembolso do respectivo valor.\n\n3 - Os titulares de cartas de navegador de recreio, emitidas nos termos do n.º 1 do presente artigo, deverão solicitar ao IMP a sua substituição até 31 de Dezembro de 2005.\n\n4 - Sem prejuízo do disposto no n.º 1 do presente artigo, as entidades que pretendam manter a credenciação como entidades formadoras devem satisfazer todos os requisitos legais exigidos no presente diploma, no prazo máximo de 180 dias a contar da data da entrada em vigor do presente diploma.\n\n5 - No prazo referido no número anterior, as entidades credenciadas há mais de dois anos deverão proceder ao pedido de renovação da respectiva credenciação."
+  },
+  "116922652": {
+   "fragment_id": "116954923",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "116922636": {
+   "fragment_id": "116954907",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 478/99\n\nde 9 de Novembro\n\nA entrada em vigor do Decreto-Lei n.º 329/95, de 9 de Dezembro, em 1 de Dezembro de 1996, através da publicação do Decreto-Lei n.º 38/96, de 6 de Maio, levou à publicação de vários diplomas, de entre os quais a Portaria n.º 753/96, de 20 de Dezembro, que veio regulamentar o processo de formação, avaliação e emissão de cartas dos navegadores de recreio.\n\nAs recentes alterações introduzidas no Regulamento da Náutica de Recreio resultaram, designadamente, de um significativo aumento desta actividade, do qual decorreu a necessidade do ajustamento do referido Regulamento à situação actual.\n\nDas alterações acima referidas destacam-se as constantes dos artigos 34.º, 36.º e 40.º, artigos cujo conteúdo habilitou o Governo à publicação da Portaria n.º 753/96, de 20 de Dezembro.\n\nCom a alteração dos referidos artigos, operou-se a revogação automática da portaria em referência, estabelecendo-se, com a nova redacção do artigo 40.º do Regulamento da Náutica de Recreio, que os conteúdos programáticos e a duração dos cursos a ministrar pelas entidades formadoras, bem como o modelo de carta de navegador de recreio, são objecto de portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\nPor outro lado, referem os artigos 34.º e 36.º do Regulamento da Náutica de Recreio, na sua nova redacção, que o processo de formação e avaliação dos navegadores de recreio, a emissão das respectivas cartas, bem como a credenciação e fiscalização das entidades formadoras, serão definidos em diploma próprio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "116922654": {
+   "fragment_id": "116954915",
+   "type": 11,
+   "heading": "Artigo 8.º — Exames",
+   "in_force_from": "2014-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 181/2014 - Diário da República n.º 248/2014, Série I de 2014-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2014-65983234), em vigor a partir de 2014-12-29, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Exames\n\n1 - Concluída a formação referida no artigo 6.º do presente diploma, a entidade formadora solicitará ao IMP a realização dos respectivos exames, enviando a «lista de candidatos a exame», conforme o modelo n.º 2 anexo ao presente diploma e que dele faz parte integrante.\n\n2 - Os exames serão realizados em data e local a fixar pelo IMP e compreendem uma prova teórica e uma prova prática, qualquer delas eliminatória, sendo fixadas duas épocas para cada exame.\n\n3 - Os júris de exame são constituídos por três membros:\n\na) Um representante do IMP, que preside, nomeado pelo presidente do conselho de administração do IMP;\n\nb) Dois vogais, propostos pela entidade formadora e titulares de carta de navegador de recreio com categoria igual ou superior à pretendida pelos examinandos, mas nunca inferior à de patrão de costa.\n\n4 - Nos exames para a obtenção de qualquer carta de patrão pelo menos um membro do júri deve possuir o certificado geral de operador radiotelefonista.\n\n5 - A nomeação dos membros do júri é da competência exclusiva do IMP.\n\n6 - Ao IMP compete ainda a realização e distribuição das provas de exame.\n\n7 - Os presidentes de júri não vinculados à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos têm direito a uma remuneração suportada pelo orçamento desta entidade, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 181/2014 - Diário da República n.º 248/2014, Série I de 2014-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2014-65983234), em vigor a partir de 2014-12-29, produz efeitos a partir de 2014-01-01"
+  },
+  "116922653": {
+   "fragment_id": "116954924",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos.\n\nPromulgado em 22 de Outubro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n(ver modelos no documento original)"
+  },
+  "116960543": {
+   "fragment_id": "116954908",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma aprova o processo de formação e avaliação dos navegadores de recreio, a emissão das respectivas cartas, bem como a credenciação e fiscalização das entidades formadoras.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960544": {
+   "fragment_id": "116954909",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nEntidades competentes para a formação dos navegadores de recreio e para a realização dos respectivos exames\n\n1 - A formação dos navegadores de recreio é da competência da Escola Náutica Infante D. Henrique (ENIDH), da Escola de Pesca e da Marinha de Comércio (EPMC) e de outras entidades credenciadas para o efeito, nos termos do presente diploma, adiante designadas entidades formadoras.\n\n2 - As entidades credenciadas a que se refere o número anterior revestem a forma de pessoas colectivas.\n\n3 - É competente para a realização dos exames aos navegadores de recreio o Instituto Marítimo-Portuário (IMP) ou as entidades às quais este Instituto atribua competência para o efeito.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960545": {
+   "fragment_id": "116954910",
+   "type": 11,
+   "heading": "Artigo 3.º — Credenciação das entidades formadoras",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Credenciação das entidades formadoras\n\n1 - As entidades formadoras devem requerer a necessária credenciação ao IMP, organismo competente para a análise e decisão dos respectivos processos de candidatura.\n\n2 - A credenciação das entidades formadoras será válida por um período de dois anos, findo o qual as referidas entidades deverão requerer ao IMP a renovação da mesma.\n\n3 - A renovação da credenciação será concedida mediante avaliação da actividade desenvolvida e confirmação dos requisitos iniciais de credenciação constantes do n.º 2 do artigo 4.º do presente diploma.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960546": {
+   "fragment_id": "116954911",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos\n\n1 - O processo de candidatura a entidades formadoras deve ser instruído com requerimento no qual seja solicitada a necessária autorização para ministrar a formação, dele constando a identificação completa da entidade requerente, bem como a indicação dos cursos que se propõe ministrar com a respectiva calendarização.\n\n2 - O requerimento a que se refere o número anterior deve ainda ser acompanhado dos elementos comprovativos de que a entidade requerente dispõe de condições e meios materiais e humanos adequados, nomeadamente:\n\na) Localização geográfica em zonas litorais, fluviais, barragens ou albufeiras;\n\nb) Instalações próprias apropriadas à formação, a comprovar mediante apresentação de escritura pública de aquisição ou contrato de arrendamento;\n\nc) Embarcações e equipamento e material pedagógico necessário e adequado à formação teórica e prática;\n\nd) Espaços físicos e equipamentos necessários ao apoio administrativo e funcional;\n\ne) Formadores em número suficiente e com formação técnica, profissional e pedagógica comprovada.\n\n3 - Os elementos referidos no número anterior serão objecto de inspecção e avaliação por parte do IMP, podendo este Instituto solicitar às entidades requerentes todos os esclarecimentos necessários à instrução do processo.\n\n4 - Após análise e em caso de aprovação do processo de candidatura, o IMP procederá à credenciação da entidade formadora requerente para ministrar os cursos aprovados, nas instalações e embarcações constantes do processo de candidatura.\n\n5 - As embarcações referidas no número anterior deverão ter inscritas no costado em ambos os bordos e a meio navio as palavras «BARCO ESCOLA», a preto sobre fundo branco, inscritas num rectângulo de 0,1 m x 0,9 m para embarcações com comprimento inferior a 6 m e de 0,2 m x 1,8 m para as restantes embarcações.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960547": {
+   "fragment_id": "116954912",
+   "type": 11,
+   "heading": "Artigo 5.º — Coordenador técnico-pedagógico",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Coordenador técnico-pedagógico\n\n1 - O processo de candidatura deve indicar um coordenador técnico-pedagógico, titular de carta de patrão de alto mar e possuidor de experiência pedagógica.\n\n2 - Ao coordenador técnico-pedagógico compete:\n\na) Coordenar as acções de formação;\n\nb) Garantir o rigor da formação ministrada;\n\nc) Zelar pela organização do processo administrativo-pedagógico dos cursos;\n\nd) Organizar o processo administrativo dos exames.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960548": {
+   "fragment_id": "116954913",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Formação\n\n1 - As entidades formadoras podem ministrar os cursos para os quais estejam credenciadas, apenas nos locais e espaços autorizados.\n\n2 - A inscrição nos cursos é efectuada mediante requerimento dirigido à entidade formadora.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960549": {
+   "fragment_id": "116954914",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo administrativo-pedagógico",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Processo administrativo-pedagógico\n\n1 - As entidades formadoras devem organizar, por cada tipo de curso, um dossier pedagógico contendo:\n\na) O programa do curso;\n\nb) O currículo descritivo da capacidade técnica e pedagógica, bem como da experiência náutica dos formadores que ministram esse tipo de curso;\n\nc) A organização curricular das unidades didácticas que compõem o programa do curso, incluindo a sua carga horária, sumários descritivos, objectivos pedagógicos em termos de saberes a adquirir e capacidades de desempenho a alcançar pelo formando;\n\nd) O horário tipo da formação;\n\ne) O calendário de execução dos cursos previstos a realizar durante o ano civil em curso;\n\nf) A bibliografia de apoio disponibilizada pela entidade formadora;\n\ng) Os manuais passíveis de serem adquiridos pelos formandos, cuja elaboração é da responsabilidade da entidade formadora;\n\nh) O inventário de materiais, equipamentos e simuladores utilizados durante a formação teórica e prática.\n\n2 - As entidades formadoras devem organizar, por cada curso, um processo administrativo-pedagógico constituído por um livro de sumários e presenças, conforme o modelo n.º 1 anexo ao presente diploma e que dele faz parte integrante.\n\n3 - Do processo a que se refere o número anterior deverão constar outros documentos, nomeadamente fichas de inscrição, licenças de aprendizagem, certificados de habilitações literárias, declarações de «saber nadar e remar», testes de consolidação e avaliações formativas que permitam aferir da qualidade do ensino ministrado e da sua conformidade com o estabelecido no presente diploma.\n\n4 - No início de cada ano, as entidades formadoras devem enviar ao IMP o calendário dos cursos a realizar, o qual deve ser actualizado sempre que alterado, devendo tais alterações ser comunicadas ao IMP com a antecedência mínima de oito dias.\n\n5 - As entidades formadoras devem, igualmente, enviar ao IMP, até ao dia 31 de Janeiro e relativamente ao ano anterior, um relatório da sua actividade sobre os cursos realizados, indicando, por categoria:\n\na) O número de cursos ministrados, indicando as datas de realização e respectivos horários;\n\nb) O número de candidatos admitidos aos cursos;\n\nc) O número de candidatos considerados aptos e não aptos nos exames.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960550": {
+   "fragment_id": "116954915",
+   "type": 11,
+   "heading": "Artigo 8.º — Exames",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 181/2014 - Diário da República n.º 248/2014, Série I de 2014-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2014-65983234), em vigor a partir de 2014-12-29, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Exames\n\n1 - Concluída a formação referida no artigo 6.º do presente diploma, a entidade formadora solicitará ao IMP a realização dos respectivos exames, enviando a «lista de candidatos a exame», conforme o modelo n.º 2 anexo ao presente diploma e que dele faz parte integrante.\n\n2 - Os exames serão realizados em data e local a fixar pelo IMP e compreendem uma prova teórica e uma prova prática, qualquer delas eliminatória, sendo fixadas duas épocas para cada exame.\n\n3 - Os júris de exame são constituídos por três membros:\n\na) Um representante do IMP, que preside, nomeado pelo presidente do conselho de administração do IMP;\n\nb) Dois vogais, propostos pela entidade formadora e titulares de carta de navegador de recreio com categoria igual ou superior à pretendida pelos examinandos, mas nunca inferior à de patrão de costa.\n\n4 - Nos exames para a obtenção de qualquer carta de patrão pelo menos um membro do júri deve possuir o certificado geral de operador radiotelefonista.\n\n5 - A nomeação dos membros do júri é da competência exclusiva do IMP.\n\n6 - Ao IMP compete ainda a realização e distribuição das provas de exame.\n\n7 - Os presidentes de júri não vinculados à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos têm direito a uma remuneração suportada pelo orçamento desta entidade, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 181/2014 - Diário da República n.º 248/2014, Série I de 2014-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2014-65983234), em vigor a partir de 2014-12-29, produz efeitos a partir de 2014-01-01"
+  },
+  "116960551": {
+   "fragment_id": "116954916",
+   "type": 11,
+   "heading": "Artigo 9.º — Formalidades relativas aos exames",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Formalidades relativas aos exames\n\nOs exames são registados em livro de termos, conforme o modelo n.º 3 anexo ao presente diploma e que dele faz parte integrante, sendo cada termo assinado por todos os membros do júri.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960552": {
+   "fragment_id": "116954917",
+   "type": 11,
+   "heading": "Artigo 10.º — Emissão de cartas",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Emissão de cartas\n\n1 - O resultado dos exames constará de uma «pauta de classificação final», conforme o modelo n.º 4 anexo ao presente diploma e que dele faz parte integrante, que será enviada ao IMP para efeitos de emissão das cartas de navegador de recreio.\n\n2 - A emissão das cartas de navegador de recreio é solicitada ao IMP mediante requerimento do interessado após ter sido considerado apto no exame, acompanhado de duas fotografias e de fotocópia do bilhete de identidade.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960553": {
+   "fragment_id": "116954918",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização das entidades formadoras",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscalização das entidades formadoras\n\n1 - A fiscalização das entidades formadoras é da competência do IMP.\n\n2 - Na sequência de uma acção de fiscalização e sempre que se verifique o incumprimento das normas constantes do presente diploma, o IMP desencaderá o respectivo processo de contra-ordenação.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960554": {
+   "fragment_id": "116954919",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência sancionatória",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Competência sancionatória\n\n1 - A instrução dos processos de contra-ordenação compete ao IMP.\n\n2 - A aplicação das respectivas coimas e sanções acessórias compete ao presidente do conselho de administração do IMP.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960555": {
+   "fragment_id": "116954920",
+   "type": 11,
+   "heading": "Artigo 13.º — Contra-ordenações",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Contra-ordenações\n\n1 - Sem prejuízo da responsabilidade criminal, civil e disciplinar a que haja lugar, constituem contra-ordenações, puníveis com coima, as infracções a seguir indicadas:\n\na) Será aplicada coima, cujo montante mínimo será de 100000$00 e máximo de 3000000$00, às entidades que exerçam a actividade formadora sem que para o efeito estejam credenciadas, nos termos do artigo 2.º do presente diploma;\n\nb) Será aplicada coima, cujo montante mínimo será de 500000$00 e máximo de 5000000$00, às entidades formadoras que:\n\ni) Ministrem cursos ou realizem exames para categorias e em locais para que não estejam credenciadas ou autorizadas nos termos do artigo 6.º do presente diploma;\n\nii) Realizem exames que não estejam em conformidade com o disposto no artigo 8.º do presente diploma;\n\niii) Não procedam à devolução dos impressos não utilizados para a emissão das cartas de navegadores de recreio em conformidade com o disposto no n.º 2 do artigo 15.º do presente diploma;\n\nc) Será aplicáda coima, cujo montante mínimo será de 400000$00 e máximo de 2000000$00, às entidades formadoras que:\n\ni) Depois de credenciadas, não cumpram com os requisitos que determinaram a sua credenciação, conforme o disposto no artigo 4.º e no n.º 1 do artigo 5.º do presente diploma;\n\nii) Não tenham o processo administrativo-pedagógico organizado, conforme o disposto nos n.os 1 e 2 do artigo 7.º do presente diploma;\n\niii) Não enviem o calendário dos cursos, respectiva actualização e o relatório da sua actividade, conforme o disposto nos n.os 3, 4 e 5 do artigo 7.º do presente diploma;\n\nd) Será aplicada coima, cujo montante mínimo será de 100000$00 e máximo de 500000$00, ao coordenador técnico-pedagógico que não dê cumprimento ao disposto no n.º 2 do artigo 5.º do presente diploma.\n\n2 - A negligência e a tentativa são puníveis.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960556": {
+   "fragment_id": "116954921",
+   "type": 11,
+   "heading": "Artigo 14.º — Sanções acessórias",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Sanções acessórias\n\n1 - Quando a gravidade da infracção o justifique, podem ser aplicadas as seguintes sanções acessórias, nos termos do regime geral das contra-ordenações e coimas:\n\na) Suspensão da autorização concedida às entidades formadoras que:\n\ni) Depois de credenciadas, não cumpram com os requisitos que determinaram a sua credenciação, conforme o disposto no artigo 4.º e no n.º 1 do artigo 5.º do presente diploma;\n\nii) Não tenham o processo administrativo-pedagógico organizado, conforme prevêem os n.os 1 e 2 do artigo 7.º do presente diploma;\n\niii) Não enviem o calendário dos cursos, respectiva actualização e o relatório da sua actividade, conforme o disposto nos n.os 3, 4 e 5 do artigo 7.º do presente diploma;\n\nb) Interdição do exercício da actividade das entidades formadoras que:\n\ni) Não corrijam as irregularidades previstas no número anterior após a sua detecção;\n\nii) Cometam repetidamente as irregularidades previstas na alínea a) deste artigo;\n\niii) Ministrem cursos ou realizem exames para categorias e em locais para que não estejam credenciadas ou autorizadas nos termos do artigo 6.º do presente diploma;\n\niv) Realizem exames que não estejam em conformidade com o disposto no artigo 8.º do presente diploma;\n\nv) Não procedam à devolução dos impressos não utilizados para a emissão de cartas de navegador de recreio em conformidade com o disposto no n.º 2 do artigo 15.º do presente diploma.\n\n2 - A suspensão da autorização poderá ser aplicada aos coordenadores técnico-pedagógicos que não cumpram com o n.º 2 do artigo 5.º do presente diploma.\n\n3 - Nos casos referidos nos números anteriores, são sempre ouvidas as entidades formadoras, devendo, no caso previsto no número anterior, ser ouvido o coordenador técnico-pedagógico.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960557": {
+   "fragment_id": "116954922",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - À data da entrada em vigor do presente diploma, as entidades credenciadas ao abrigo da Portaria n.º 753/96, de 20 de Dezembro, apenas ficam autorizadas a ministrar formação, podendo, no entanto, para os cursos já iniciados àquela data, realizar os exames e emitir as respectivas cartas.\n\n2 - Sem prejuízo do disposto no número anterior, os impressos não utilizados para a emissão das cartas de navegador de recreio devem ser devolvidos ao IMP, no prazo de 15 dias a contar da data de entrada em vigor do presente diploma, contra o reembolso do respectivo valor.\n\n3 - Os titulares de cartas de navegador de recreio, emitidas nos termos do n.º 1 do presente artigo, deverão solicitar ao IMP a sua substituição até 31 de Dezembro de 2005.\n\n4 - Sem prejuízo do disposto no n.º 1 do presente artigo, as entidades que pretendam manter a credenciação como entidades formadoras devem satisfazer todos os requisitos legais exigidos no presente diploma, no prazo máximo de 180 dias a contar da data da entrada em vigor do presente diploma.\n\n5 - No prazo referido no número anterior, as entidades credenciadas há mais de dois anos deverão proceder ao pedido de renovação da respectiva credenciação.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960558": {
+   "fragment_id": "116954923",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  },
+  "116960559": {
+   "fragment_id": "116954924",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos.\n\nPromulgado em 22 de Outubro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n(ver modelos no documento original)\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 93/2018 - Diário da República n.º 218/2018, Série I de 2018-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), em vigor a partir de 2019-01-01"
+  }
+ }
+}

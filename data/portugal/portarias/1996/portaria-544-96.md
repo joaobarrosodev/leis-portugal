@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:232549:por
+title: Portaria n.º 544/96
+short_title: null
+summary: Aprova os modelos de requerimentos a apresentar pelas entidades devedoras nas repartições de finanças para regularização
+  de dívidas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 544/96
+official_date: null
+publication_date: '1996-10-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/1996, Série I-B de 1996-10-04
+  number: '231'
+  series: I
+  supplement: null
+  pages: 3494 - 3500
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/10/231b00/34943500.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/544/1996/10/04/p/dre/pt/html
+  oj: null
+  dre: '232549'
+  dre_path: /dr/detalhe/portaria/544-1996-232549
+  internal: pt:dre:232549:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-1996-232549
+  metadata_url: https://data.dre.pt/eli/port/544/1996/10/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-1996-232549
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-10-04T00:00:00Z'
+integrity:
+  source_sha256: 9901c483a11b8c75b1be4f06e674a925270b88598fd7e0beb8e9712d306d8a0a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-544-232549.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Dívidas à Segurança Social
+- Dívidas ao Estado
+- Impresso
+- Contribuições e Impostos
+- Cobrança de Dívidas
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 544/96
+
+de 4 de Outubro
+
+Manda o Governo, pelos Ministros das Finanças e da Solidariedade e Segurança Social, nos termos do n.º 3 do artigo 14.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, aprovar o seguinte:
+
+1.º Os requerimentos a apresentar nas repartições de finanças nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684) obedecerão ao modelo anexo à presente portaria.
+
+2.º Os requerimentos serão apresentados, consoante a natureza das dívidas que estejam em causa, com os seguintes anexos, que fazem parte integrante da presente portaria:
+
+A - Dívidas de natureza fiscal relativas a impostos administrados pela Direcção-Geral das Contribuições e Impostos;
+
+A1 - Dívidas de natureza fiscal relativas a impostos administrados pela Direcção-Geral das Alfândegas;
+
+B - Dívidas à segurança social;
+
+C - Dívidas ao Tesouro decorrentes da aquisição de créditos à segurança social.
+
+3.º - 1 - São aprovados os seguintes anexos:
+
+D - Composição e valor do património do devedor;
+
+D1 - Composição e valor do património dos membros de órgãos de administração do devedor;
+
+E - Autorização de acesso a informações relevantes para apuramento da situação tributária do devedor;
+
+E1 - Autorização de acesso a informações relevantes para apuramento da situação tributária dos membros dos órgãos de administração do devedor eventualmente conexas com a situação tributária deste.
+
+2 - Os anexos D e E serão entregues com o requerimento referido no artigo 1.º, sendo esta entrega, em princípio, dispensada quando esteja em causa uma dívida de natureza fiscal inferior a 50000000$00 ou quando o devedor se proponha pagar a totalidade da referida dívida em prazo inferior a dois anos.
+
+3 - Independentemente do valor da dívida e do prazo de pagamento proposto, a administração fiscal poderá solicitar, posteriormente à apresentação do requerimento, a entrega dos anexos D e E, bem como, se necessário, a dos anexos D1 e E1, com fundamento em relevância para a decisão sobre o pedido ou para acompanhamento da situação tributária do devedor, nos termos de instruções a definir por despacho do Ministro das Finanças, o qual poderá delegar.
+
+4 - É dispensada a entrega dos anexos D, D1, E e E1 quando o contribuinte requeira o pagamento da totalidade da dívida de natureza fiscal no prazo de três meses após o deferimento do requerimento.
+
+4.º - 1 - Salvo publicação de regulamentação própria, os modelos aprovados pela presente portaria aplicar-se-ão também à entrega de requerimentos nas situações e nos locais previstos nos n.os 5 e 7 do artigo 14.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), sendo o pedido de aplicação das medidas extraordinárias previstas no artigo 8.º do mesmo diploma formulado no n.º 10 do requerimento.
+
+2 - O pedido de aplicação das medidas a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684) será também, na parte não abrangida pelo n.º 6 do requerimento, formulado no seu n.º 10.
+
+Ministérios das Finanças e da Solidariedade e Segurança Social.
+
+**Assinada em 25 de Setembro de 1996.**
+
+**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/231b00/34943500.pdf))](https://files.diariodarepublica.pt/1s/1996/10/231b00/34943500.pdf)

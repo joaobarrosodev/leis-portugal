@@ -1,0 +1,316 @@
+---
+schema_version: '1.0'
+id: pt:dre:286510:por
+title: Decreto-Lei n.º 362/77
+short_title: null
+summary: Altera a redacção dos Decretos-Leis n.os 153/77 e 154/77, ambos de 14 de Abril, que aumentam respectivamente os quadros
+  do pessoal da PSP da Madeira e dos Açores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 362/77
+official_date: null
+publication_date: '1977-09-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 203/1977, Série I de 1977-09-02
+  number: '203'
+  series: I
+  supplement: null
+  pages: 2108 - 2109
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20300/21082109.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '286510'
+  dre_path: /dr/detalhe/decreto-lei/362-1977-286510
+  internal: pt:dre:286510:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1977-286510
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1977-286510
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: 379b62121dad5c3aa6a93cdaa92951250d743244e4b8e332df88d5b33555b803
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-362-286510.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 362/77
+
+de 2 de Setembro
+
+Verificando-se ter havido lapsos na redacção de algumas das disposições dos Decretos-Leis n.os [153/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1977-139960) e [154/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1977-139973), ambos de 14 de Abril de 1977:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º A redacção dos artigos 1.º e 3.º do [Decreto-Lei n.º 153/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1977-139960) passa a ser a seguinte:
+
+###### Artigo 1.º - 1. A Polícia de Segurança Pública da Madeira passa a ter os seguintes efectivos:
+
+1) Pessoal policial masculino:
+
+1 tenente-coronel ou major.
+
+1 major ou capitão.
+
+1 comissário principal.
+
+2 primerios-comsisários.
+
+2 segundos-comissários.
+
+7 chefes de esquadra.
+
+62 subchefes.
+
+608 guardas.
+
+2) Pessoal policial feminino:
+
+1 chefe de esquadra.
+
+2 subchefes.
+
+35 guardas.
+
+3) Pessoal civil:
+
+1 primeiro-oficial.
+
+2 segundos-oficiais.
+
+4 terceiros-oficiais.
+
+10 escriturários-dactilógrafos.
+
+2. Os subchefes-ajudantes actualmente na PSP da Madeira ocuparão lugares de subchefe enquanto ali permanecerem.
+
+...
+
+###### Art. 3.º Numa segunda fase, a vigorar a partir de 1 de Janeiro de 1978, o quadro orgânico da PSP é aumentado do seguinte pessoal:
+
+1) Pessoal policial masculino:
+
+1 segundo-comissário.
+
+2 chefes de esquadra.
+
+13 subchefes.
+
+120 guardas.
+
+2) Pessoal policial feminino:
+
+1 subchefe.
+
+12 guardas.
+
+3) Pessoal civil:
+
+1 primeiro-oficial.
+
+1 escriturário-dactilógrafo.
+
+###### Art. 2.º A redacção dos artigos 1.º e 3.º do [Decreto-Lei n.º 154/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1977-139973) passa a ser a seguinte:
+
+###### Artigo 1.º - 1. A Polícia de Segurança Pública de Ponta Delgada passa a ter a seguinte constituição:
+
+1) Comando da PSP de Ponta Delgada, com os seguintes efectivos:
+
+a) Pessoal policial masculino:
+
+1 tenente-coronel ou major.
+
+1 major ou capitão.
+
+1 comissário principal.
+
+1 primeiro-comissário.
+
+2 segundos-comissários.
+
+6 chefes de esquadra.
+
+49 subchefes.
+
+440 guardas.
+
+b) Pessoal policial feminino:
+
+1 chefe de esquadra.
+
+2 subchefes.
+
+25 guardas.
+
+c) Pessoal civil:
+
+1 primeiro-oficial.
+
+2 segundos-oficiais.
+
+3 terceiros-oficiais.
+
+7 escriturários-dactilógrafos.
+
+2) Comando da PSP de Angra do Heroísmo:
+
+a) Pessoal policial masculino:
+
+1 major ou capitão.
+
+1 comissário principal.
+
+1 primeiro-comissário.
+
+1 segundo-comissário.
+
+4 chefes de esquadra.
+
+31 subchefes.
+
+270 guardas.
+
+b) Pessoal policial feminino:
+
+1 chefe de esquadra.
+
+2 subchefes.
+
+25 guardas.
+
+c) Pessoal civil:
+
+1 prmeiro-oficial.
+
+2 segundos-oficiais.
+
+2 terceiros-oficiais.
+
+6 escriturários-dactilógrafos.
+
+3) Comando da PSP da Horta:
+
+a) Pessoal policial masculino:
+
+1 major ou capitão.
+
+1 comissário principal.
+
+1 primeiro-comissário.
+
+1 segundo-comissário.
+
+2 chefes de esquadra.
+
+23 subchefes.
+
+192 guardas.
+
+b) Pessoal policial feminino:
+
+2 subchefes.
+
+16 guardas.
+
+c) Pessoal civil:
+
+1 primeiro-oficial.
+
+1 segundo-oficial.
+
+2 terceiros-oficiais.
+
+5 escriturários-dactilógrafos.
+
+2. Os subchefes-ajudantes actualmente na PSP dos Açores ocuparão lugares de subchefe enquanto ali permanecerem.
+
+...
+
+###### Art. 3.º Numa segunda fase, a vigorar a partir de 1 de Janeiro de 1978, o quadro orgânico da PSP e aumentado do seguinte pessoal:
+
+1) Pessoal policial masculino:
+
+1 comissário principal.
+
+1 primeiro-comissário.
+
+1 segundo-comissário.
+
+1 chefe de esquadra.
+
+22 subchefes.
+
+185 guardas.
+
+2) Pessoal policial feminino:
+
+3 subchefes.
+
+21 guardas.
+
+3) Pessoal civil:
+
+2 segundos-oficiais.
+
+2 terceiros-oficiais.
+
+3 escriturários-dactilógrafos.
+
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
+
+**Promulgado em 12 de Agosto de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

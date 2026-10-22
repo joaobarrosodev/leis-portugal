@@ -1,0 +1,555 @@
+---
+schema_version: '1.0'
+id: pt:dre:122541299:por
+title: Portaria n.º 181/2019
+short_title: null
+summary: Define os termos e as condições em que as escolas, no âmbito da autonomia e flexibilidade curricular, podem implementar
+  uma gestão superior a 25 % das matrizes curriculares-base das ofertas educativas e formativas dos ensinos básico e secundário
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Educação
+proposing_entity: null
+official_number: 181/2019
+official_date: null
+publication_date: '2019-06-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2019, Série I de 2019-06-11
+  number: '111'
+  series: I
+  supplement: null
+  pages: 2954 - 2957
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/06/11100/0295402957.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-03-26'
+version_history:
+  file: portaria-181-2019.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-12-18'
+    amending: pt:dre:176075692:por
+    amending_title: Portaria n.º 306/2021
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Capítulo III
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Adita Artigo 12.º-C
+    - Adita Artigo 12.º-D
+    - Adita Artigo 12.º-E
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Capítulo III
+    - Altera Artigo 13.º
+    - Revoga Artigo 14.º
+  - date: '2026-03-26'
+    amending: pt:dre:1076925541:por
+    amending_title: Portaria n.º 127/2026/1
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 12.º-C
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/181/2019/p/cons/20260325/pt/html
+  oj: null
+  dre: '122541299'
+  dre_path: /dr/detalhe/portaria/181-2019-122541299
+  internal: pt:dre:122541299:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-2019-122541299
+  metadata_url: https://data.dre.pt/eli/port/181/2019/p/cons/20260325/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-176123851
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-176123851
+  retrieved_at: '2026-10-22T12:47:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ab0c6600cb589ae74cc469ba5d7916af9cec243c2ea6acfbe236a79a9b628b02
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:47:40Z'
+  notes: 3 versão(ões); histórico completo em portaria-181-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Aprendizagem
+- Calendário Escolar
+- Plano de Estudos
+- Definição de Competências
+- Diploma
+- Regulamentação de Atos Legislativos
+- Direcção Geral da Educação
+- Encarregado de Educação
+- Ensino Cooperativo
+- Ensino Doméstico
+- Ensino Oficial
+- Ensino Particular
+- Ensino Profissional
+- Escolaridade Obrigatória
+- Estatuto do Ensino Particular e Cooperativo
+- Estudante
+- Exame
+- Habilitações Literárias
+- Ensino Secundário
+- Currículo Nacional
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Ensino Básico
+- Madeira.região Autónoma
+- Avaliação de Conhecimentos
+- Açores
+- Sistema de Ensino
+- Centro de Recursos para a Inclusão
+- Ensino Individual
+relationships:
+- type: amended_by
+  target: pt:dre:176075692:por
+  label: Adita Artigo 6.º-A; Adita Capítulo III; Adita Artigo 12.º-A; Adita Artigo 12.º-B; Adita Artigo 12.º-C; Adita Artigo
+    12.º-D; Adita Artigo 12.º-E; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo
+    9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Capítulo III; Altera Artigo 13.º; Revoga Artigo
+    14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692
+  date: '2021-12-17'
+- type: amended_by
+  target: pt:dre:1076925541:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 12.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/127-2026-1076925541
+  date: '2026-03-25'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2018/07/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
+article_structure:
+  article_count: 23
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:47:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 181/2019
+
+Portaria n.º 181/2019
+
+de 11 de junho
+
+O Decreto-Lei n.º 55/2018, de 6 de julho, estabelece o currículo dos ensinos básico e secundário, os princípios orientadores da sua conceção, operacionalização e avaliação das aprendizagens, de modo a garantir que todos os alunos adquiram os conhecimentos e desenvolvam as capacidades e atitudes que contribuem para alcançar as competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+O referido decreto-lei confere autonomia curricular às escolas, materializada, entre outras, na possibilidade de gestão flexível das matrizes curriculares-base das ofertas educativas e formativas dos ensinos básico e secundário, num intervalo de variação entre 0 % e 25 %, considerando as opções curriculares de cada escola. No desenvolvimento do exercício de autonomia, consagra a possibilidade de ser conferida às escolas uma maior flexibilidade curricular, concretizada numa gestão superior a 25 % das matrizes curriculares-base das ofertas educativas e formativas, com vista ao desenvolvimento de planos de inovação curricular, pedagógica ou de outros domínios.
+
+A experiência dos projetos-piloto de inovação pedagógica (PPIP) consolida o reconhecimento da capacidade das escolas na implementação de soluções inovadoras que permitem a eliminação do abandono e do insucesso escolar.
+
+Aproveitando este conhecimento, definem-se, na presente portaria, os termos e as condições em que as escolas, no âmbito da autonomia e flexibilidade curricular, podem conceber e desenvolver planos de inovação adequados às necessidades e aos compromissos assumidos, apostando em respostas curriculares e pedagógicas específicas com vista ao sucesso e à inclusão de todos os alunos.
+
+Concomitantemente, institui-se o procedimento de autorização de funcionamento dos planos de inovação, bem como o acompanhamento, monitorização e avaliação dos mesmos.
+
+Assim:
+
+Ao abrigo do n.º 3 do artigo 12.º do Decreto-Lei n.º 55/2018, de 6 de julho, e atento o previsto no Decreto-Lei n.º 54/2018, de 6 de julho, manda o Governo, pelo Secretário de Estado da Educação, o seguinte:
+
+> Nota: [Artigo 6.º, Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692) As alterações à Portaria n.º 181/2019, de 11 de junho, aprovadas pela presente portaria, aplicam-se aos planos de inovação aprovados após a data da sua entrada em vigor
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria define os termos e as condições em que as escolas, no âmbito da autonomia e flexibilidade curricular, podem implementar uma gestão superior a 25 % das matrizes curriculares-base das ofertas educativas e formativas dos ensinos básico e secundário, com vista ao desenvolvimento de planos de inovação, regulamentando o n.º 3 do artigo 12.º do Decreto-Lei n.º 55/2018, de 6 de julho.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - A presente portaria aplica-se aos estabelecimentos de ensino público, particular e cooperativo, incluindo escolas profissionais, doravante designados por escolas, em que a implementação de planos de inovação requer uma gestão superior a 25 % do total da carga horária das matrizes curriculares-base.
+
+2 - O disposto na presente portaria não prejudica o previsto no Estatuto do Ensino Particular e Cooperativo e respetiva regulamentação.
+
+### Capítulo II — Planos de inovação
+
+###### Artigo 3.º — Princípios gerais de desenvolvimento
+
+1 - O desenvolvimento da autonomia e flexibilidade curricular subordina-se aos princípios consagrados no Decreto-Lei n.º 55/2018, de 6 de julho, e no Decreto-Lei n.º 54/2018, de 6 de julho, bem como aos princípios orientadores ínsitos no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar dos ensinos básico e secundário, designadamente no que diz respeito ao primado dos critérios de natureza pedagógica sobre os critérios de natureza administrativa e à possibilidade de adoção de soluções organizativas diversas no quadro das opções pedagógicas e curriculares de cada escola.
+
+2 - O exercício de autonomia e flexibilidade curricular, enquanto faculdade de gestão do currículo conferida às escolas, com vista à promoção do sucesso de todos os alunos, assente na possibilidade de enriquecimento curricular com os conhecimentos, capacidades e atitudes que contribuem para alcançar as competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória, prossegue objetivos de qualidade, eficácia e eficiência, adotando as soluções mais adequadas à prestação do serviço educativo.
+
+3 - Considerando os princípios e regras previstos nos decretos-leis referidos no n.º 1, as escolas concebem planos de inovação curricular, pedagógica, ou de outros domínios, tendo por base:
+
+a) O alargamento de um exercício efetivo de autonomia e flexibilidade curricular, concretizado na faculdade de adotarem uma gestão superior a 25 % do total da carga horária das matrizes curriculares-base;
+
+b) A assunção de uma cultura de responsabilidade partilhada mobilizando todos os agentes educativos, alicerçada na iniciativa e responsabilização dos órgãos de administração e gestão, designadamente, através do desenvolvimento de mecanismos sistemáticos de monitorização e avaliação.
+
+###### Artigo 4.º — Gestão superior a 25 % das matrizes curriculares-base
+
+1 - Às escolas pode ser conferida, por iniciativa das mesmas, uma gestão superior a 25 % do total da carga horária das matrizes curriculares-base das ofertas educativas e formativas dos ensinos básico e secundário, com vista à conceção e desenvolvimento de planos de inovação curricular, pedagógica e ou organizacional.
+
+2 - Compete a cada escola decidir sobre a adoção de um plano de inovação, definindo a percentagem de carga horária das matrizes curriculares-base que pretende gerir.
+
+3 - A decisão prevista no número anterior é fundamentada na necessidade de implementar respostas curriculares e pedagógicas adequadas ao contexto de cada comunidade educativa e visa a promoção da qualidade das aprendizagens e o sucesso pleno de todos os alunos.
+
+4 - Na concretização do previsto nos números anteriores, e salvaguardado o disposto no artigo 6.º, as escolas podem considerar, entre outras, as seguintes possibilidades:
+
+a) A redistribuição, ao longo de cada ciclo ou nível de ensino ou ciclo de formação, das disciplinas/módulos/unidades de formação de curta duração (UFCD)/unidades de competência (UC) e respetivas cargas horárias previstas em cada matriz curricular-base, incluindo, no ensino secundário, sempre que aplicável, a alteração ao desenvolvimento anual, bienal ou trienal das disciplinas que integram a matriz curricular-base, sem prejuízo de as mesmas continuarem a ser consideradas, para efeitos de avaliação externa, como anuais, bienais ou trienais, respetivamente;
+
+b) A redistribuição dos tempos/horas fixados entre componentes da matriz curricular-base ao longo do ciclo ou nível de ensino ou ciclo de formação;
+
+c) A criação de novas disciplinas através de:
+
+i) Reafetação de tempos/horas fixados para as disciplinas constantes da matriz curricular-base, com definição de documentos curriculares próprios, aprovados pelo conselho pedagógico; ou
+
+ii) Junção das aprendizagens essenciais e dos tempos/horas fixados para as respetivas disciplinas na matriz curricular-base, combinando-os total ou parcialmente, constituindo-se estas novas disciplinas como disciplinas agregadoras.
+
+d) A conceção, no ensino secundário, de um percurso formativo próprio, através da oferta de disciplinas integrantes dos diversos planos de estudos previstos nas portarias que lhes subjazem, nos termos previstos no artigo 6.º-A;
+
+e) A organização diversa de turmas, grupos de alunos ou de aprendizagem, considerando o número total de turmas por ano de escolaridade ou de formação aprovado na rede de ofertas educativas e formativas;
+
+f) A gestão interturmas dos tempos/horas fixados nas matrizes curriculares-base, através de distribuição de cargas horárias ao longo do ciclo ou nível de ensino ou ciclo de formação, sem exceder o total da carga horária semanal, quando aplicável.
+
+g) A opção pela constituição de turmas ou grupos de alunos de anos de escolaridade diferente, desde que do mesmo ciclo ou nível, sem prejuízo do cumprimento das aprendizagens essenciais, designadamente para efeitos de realização de provas de avaliação externa.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - No âmbito do previsto no n.º 1, podem ainda ser concebidos e desenvolvidos percursos curriculares alternativos, nos termos do artigo 7.º
+
+8 - Para efeitos de cálculos relativos à definição da percentagem de carga horária a gerir prevista no n.º 2, as escolas consideram:
+
+a) Nas matrizes com organização semanal, o produto resultante da multiplicação da carga horária total relativa ao ciclo ou nível de ensino com o número de semanas letivas do calendário escolar;
+
+b) Nas matrizes com organização por ciclo de formação, a carga horária total prevista para esse ciclo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 5.º — Conceção de planos de inovação
+
+1 - Na conceção dos planos de inovação, desenvolvidos a partir das matrizes curriculares-base previstas nos anexos i a viii do Decreto-Lei n.º 55/2018, de 6 de julho, as opções e medidas cooptadas devem sustentar a promoção de melhores aprendizagens, explicitando a sua intencionalidade na aquisição de conhecimentos e no desenvolvimento de capacidades e atitudes inscritas nas áreas de competências do Perfil dos Alunos à Saída da Escolaridade Obrigatória, bem como na aquisição e no desenvolvimento do conjunto de aprendizagens, conhecimentos, aptidões e competências técnicas do Perfil Profissional associado à respetiva qualificação, quando aplicável.
+
+2 - As opções curriculares e outras medidas, de natureza pedagógica, didática e organizacional, a adotar pela escola, devem, entre outros domínios, incidir em:
+
+a) Gestão curricular contextualizada;
+
+b) Articulação curricular assente em relações multidisciplinares, interdisciplinares e transdisciplinares;
+
+c) Metodologias integradoras do planeamento do ensino, da aprendizagem e da avaliação;
+
+d) Dinâmicas pedagógicas alicerçadas em equipas de trabalho docente;
+
+e) Cooperação de pais ou encarregados de educação e de outros parceiros da comunidade.
+
+3 - No âmbito do disposto nos números anteriores, deve ser prevista, em articulação com os Centros de Formação de Associação de Escolas ou com outras instituições, a operacionalização de um plano de formação, privilegiando o acompanhamento do trabalho docente.
+
+4 - Os planos de inovação podem ser direcionados para apenas um estabelecimento de ensino, uma turma, um ano de escolaridade, um ciclo, nível de ensino ou ciclo de formação, ou uma oferta educativa e formativa, devendo ser estabelecido o seu período de vigência.
+
+###### Artigo 6.º — Condições a observar nos planos de inovação
+
+1 - As escolas devem observar, no desenvolvimento dos planos de inovação, a operacionalização do Perfil dos Alunos à Saída da Escolaridade Obrigatória e o cumprimento das Aprendizagens Essenciais e da Estratégia Nacional de Educação para a Cidadania, constituindo-se estas como a orientação curricular de base, para efeitos de planificação, operacionalização e avaliação dos processos de ensino e de aprendizagem.
+
+2 - Para os efeitos do disposto no número anterior, as escolas devem ainda observar, quando aplicável, o conjunto de conhecimentos, aptidões e atitudes, do Perfil Profissional/Referencial de Competências e do referencial de formação associados à respetiva qualificação.
+
+3 - As escolas devem ainda assegurar, nos seus planos, as seguintes condições:
+
+a) O cumprimento do total da carga horária relativa ao ciclo ou nível de ensino;
+
+b) O cumprimento do total da carga horária prevista para o ciclo de formação;
+
+c) O equilíbrio na distribuição das cargas horárias anuais ao longo do ciclo ou nível de ensino.
+
+4 - O exercício da opção prevista na alínea c) do n.º 4 do artigo 4.º não pode prejudicar a existência de informações relativas às disciplinas e UC/UFCD inscritas nas matrizes curriculares-base, devendo a escola garantir a sua identificação, para atribuição das respetivas classificações, designadamente para efeitos de acesso a provas de avaliação externa e ou de certificação, nos termos previstos no capítulo iii.
+
+5 - A escola deve garantir a participação dos alunos na conceção e desenvolvimento dos planos, definindo instâncias regulares de auscultação, bem como o envolvimento dos encarregados de educação e, nos cursos de dupla certificação, dos parceiros socioprofissionais e ainda, quando se trate de cursos artísticos especializados, das escolas com quem é protocolado o regime articulado de frequência nesses cursos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 6.º-A — Percursos formativos próprios
+
+1 - A adoção de um percurso formativo próprio no âmbito de um plano de inovação é aplicável a todas as disciplinas da componente específica e da componente científica, consoante a oferta educativa e formativa do ensino secundário.
+
+2 - No desenvolvimento do disposto no número anterior, a estrutura do curso com percurso formativo próprio tem de compreender:
+
+a) Nos cursos científico-humanísticos, uma disciplina trienal, duas disciplinas bienais e duas disciplinas anuais da componente específica;
+
+b) Nos cursos artísticos especializados, duas a quatro disciplinas da componente científica;
+
+c) Nos cursos profissionais, duas a três disciplinas da componente científica, de acordo com a respetiva qualificação e consistente com a mesma, garantindo o desenvolvimento do conjunto de conhecimentos, aptidões e atitudes definidas no Perfil Profissional/Referencial de Competências e respetivo referencial de formação.
+
+3 - Da adoção de um percurso formativo próprio não pode resultar a frequência de disciplinas equivalentes ou que abranjam parte dos mesmos conteúdos, nos termos definidos nas portarias que regulam as respetivas ofertas educativas e formativas.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 7.º — Percursos curriculares alternativos
+
+1 - No âmbito da sua autonomia curricular, e atentos os princípios que presidem aos planos de inovação, as escolas podem conceber percursos curriculares alternativos condicionados à verificação cumulativa dos seguintes requisitos:
+
+a) A identificação de um conjunto de alunos do mesmo ano de escolaridade para os quais uma gestão específica da matriz curricular-base, de caráter temporário, constitua a resposta adequada;
+
+b) Nenhuma das ofertas educativas e formativas existentes se revele adequada.
+
+2 - O desenho curricular dos percursos curriculares alternativos tem por referência as matrizes curriculares-base dos 2.º e 3.º ciclos do ensino básico geral, constantes dos anexos ii e iii ao Decreto-Lei n.º 55/2018, de 6 de julho.
+
+3 - Revogado.
+
+4 - O disposto no presente artigo não prejudica a possibilidade de mobilização de medidas de suporte à aprendizagem e à inclusão, a decidir pela equipa multidisciplinar de apoio à educação inclusiva.
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 8.º — Autoavaliação dos planos
+
+Com vista à definição e implementação de ações de melhoria, devem as escolas adotar procedimentos que visem:
+
+a) A regular monitorização do desenvolvimento dos planos em função dos objetivos e metas definidos nos mesmos;
+
+b) A autoavaliação dos planos, de forma a aferir resultados e impacto das opções e medidas adotadas, como estratégia de melhoria da qualidade das aprendizagens e de promoção do sucesso de todos os alunos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 9.º — Tramitação
+
+1 - Para efeitos do disposto na presente portaria, as propostas de planos de inovação das escolas, aprovadas pelos respetivos órgãos de administração e gestão, são submetidas, até 30 de março de cada ano, ao EduQA, I. P.
+
+2 - Em situações decorrentes de acontecimentos imprevisíveis ou que não pudessem ter sido previstas por uma escola com uma atuação diligente, podem as propostas de planos de inovação ser submetidas ao EduQA, I. P., após o prazo estabelecido no número anterior.
+
+3 - O EduQA, I. P., emite parecer tendo em vista a decisão de autorização pelo membro do Governo responsável pela área da educação.
+
+4 - O parecer a que se refere o número anterior incide na verificação dos seguintes elementos:
+
+a) Adequação dos planos de inovação às necessidades a que pretende dar resposta e aos compromissos assumidos através da identificação de objetivos e metas a atingir;
+
+b) Da aprovação, em Conselho Pedagógico, dos documentos curriculares, ou das respetivas matrizes, relativos às disciplinas criadas nos termos da subalínea i) da alínea c) do n.º 4 do artigo 4.º;
+
+c) Observação do previsto nos artigos 5.º e 6.º, bem como, quando aplicável, nos artigos 6.º-A e 7.º;
+
+d) Previsão dos procedimentos de monitorização e de autoavaliação no âmbito do previsto no artigo 8.º
+
+5 - Sempre que o plano de inovação incida sobre matérias da competência de outros serviços e organismos do Ministério da Educação, Ciência e Inovação, nomeadamente da Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), deve o EduQA, I. P., solicitar uma apreciação técnica prévia à emissão de parecer.
+
+6 - O parecer deve ser emitido no prazo máximo de 45 dias úteis.
+
+7 - O EduQA, I. P., deve garantir a realização da audiência prévia, no caso de intenção de emissão de parecer desfavorável.
+
+8 - Em resultado do processo de autoavaliação do plano, previsto no artigo 8.º, pode a escola propor alterações ao plano de inovação autorizado.
+
+9 - A proposta referida no número anterior segue a tramitação prevista nos n.os 1 a 7.
+
+10 - A escola pode ainda apresentar, nos termos definidos nos n.os 1 e 2 e até ao limite de duas, adendas ao plano de inovação que incidam unicamente sobre o seu âmbito de aplicação, nomeadamente os anos de escolaridade abrangidos, e ou a sua vigência.
+
+11 - O disposto no número anterior não é aplicável aos planos de inovação a que se refere o artigo 7.º
+
+12 - Compete ao EduQA, I. P., a decisão de autorização sobre adendas ao plano de inovação, previstas no n.º 10, a qual tem em consideração, designadamente, os dados obtidos nos termos do artigo 8.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127/2026/1 - Diário da República n.º 59/2026, Série I de 2026-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/127-2026-1076925541), em vigor a partir de 2026-03-26 00:00:00.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 10.º — Decisão
+
+As decisões de autorização, previstas nos n.os 3 e 12 do artigo anterior, são proferidas, respetivamente, no prazo máximo de 55 e 30 dias úteis, contados a partir do dia seguinte ao da data de receção da proposta da escola pelo EduQA, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127/2026/1 - Diário da República n.º 59/2026, Série I de 2026-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/127-2026-1076925541), em vigor a partir de 2026-03-26.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 11.º — Obrigações de comunicação e publicidade
+
+1 - O EduQA, I. P., notifica a escola da decisão.
+
+2 - Decorridos os prazos para decisão previstos no artigo anterior, a escola comunica ao EduQA, I. P., o início de funcionamento do plano de inovação ou da adenda com uma antecedência mínima de 15 dias úteis.
+
+3 - As escolas devem promover a publicitação dos planos de inovação, suas alterações e respetivas adendas na Internet, no sítio institucional da escola, sem prejuízo da sua disponibilização à comunidade escolar pelos meios considerados adequados, de modo a possibilitar o seu pleno conhecimento pelos interessados durante a vigência dos mesmos.
+
+4 - O EduQA, I. P., remete, após aprovação, o plano de inovação, bem como respetivas alterações e adendas, para conhecimento, à AGSE, I. P., e à Inspeção-Geral da Educação e Ciência (IGEC).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127/2026/1 - Diário da República n.º 59/2026, Série I de 2026-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/127-2026-1076925541), em vigor a partir de 2026-03-26.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 12.º — Acompanhamento, monitorização e avaliação
+
+1 - O acompanhamento e avaliação são realizados pelo EduQA, I. P., ao qual compete:
+
+a) Sem prejuízo do previsto no artigo 9.º, prestar apoio às escolas, tendo em vista a conceção do plano, sempre que solicitado;
+
+b) Garantir o registo das propostas de planos de inovação, com indicação do sentido do parecer emitido ou do decurso do respetivo prazo, bem como da decisão final.
+
+2 - O EduQA, I. P., pode solicitar a intervenção de técnicos, docentes, formadores ou especialistas no trabalho de acompanhamento, monitorização e avaliação dos planos de inovação.
+
+3 - Para os efeitos do disposto no n.º 1, devem as escolas prestar a colaboração solicitada pelo EduQA, I. P., designadamente para efeitos de apreciação da proposta apresentada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127/2026/1 - Diário da República n.º 59/2026, Série I de 2026-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/127-2026-1076925541), em vigor a partir de 2026-03-26.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+### Capítulo III — Avaliação, transição, aprovação, conclusão e certificação das aprendizagens
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 12.º-A — Disposições Gerais
+
+1 - São aplicáveis aos planos de inovação as regras relativas a avaliação, transição, aprovação, conclusão e certificação das aprendizagens previstas nas portarias que regulam as respetivas ofertas educativas ou formativas, com as adaptações constantes do presente capítulo.
+
+2 - Os planos de inovação indicam as componentes de currículo ou de formação que compõem a sua matriz curricular, identificando as disciplinas e ou UC/UFCD que as integram.
+
+3 - O disposto no número anterior não é aplicável aos planos de inovação do ensino básico geral e dos cursos do ensino artístico especializado do ensino básico com exceção, relativamente a estes, da componente de formação artística especializada e das disciplinas que a integram.
+
+4 - Para efeitos de acesso a provas de avaliação externa e ou de certificação das aprendizagens, os planos de inovação identificam as disciplinas e as UC/UFCD inscritas nas respetivas matrizes curriculares que correspondem às disciplinas e UC/UFCD da matriz curricular-base que subjaz ao referido plano, nos termos previstos nos artigos seguintes.
+
+5 - Nos cursos profissionais, a matriz curricular-base que subjaz aos planos de inovação obedece aos perfis profissionais e referenciais de competências e de formação associados às respetivas qualificações que integram o Catálogo Nacional de Qualificações, nos termos previstos no artigo 6.º da Portaria n.º 235-A/2018, de 23 de agosto.
+
+6 - A obtenção de um curso de nível secundário nos termos previstos na alínea a) do n.º 2 do artigo 6.º-A, confere o direito à emissão de um diploma e certificado de conclusão de curso científico-humanísticos de nível secundário - percurso formativo próprio.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 12.º-B — Ensino básico
+
+1 - Para os efeitos do disposto no n.º 1 do artigo anterior, são consideradas as disciplinas e UC/UFCD constantes da matriz curricular do respetivo plano de inovação, sem prejuízo do disposto nos números seguintes.
+
+2 - O plano de inovação que não apresente de forma autonomizada as disciplinas de Português e ou Matemática, procede, considerando as aprendizagens essenciais mobilizadas, à correspondência entre a disciplina agregadora criada nos termos da subalínea ii) da alínea b) do n.º 4 do artigo 4.º e aquelas disciplinas, que a integram, autonomizando-as, para efeitos de atribuição de menção, classificação ou classificação interna final e respetiva classificação final da disciplina e de aprovação.
+
+3 - É aplicável às disciplinas de Português Língua Não Materna ou Português Língua Segunda o disposto no número anterior.
+
+4 - As disciplinas agregadoras do plano de inovação, identificadas nos termos dos n.os 2 e 3, podem ainda integrar outras disciplinas da matriz curricular-base, por mobilizarem as respetivas aprendizagens essenciais, as quais são igualmente identificadas por aquele plano.
+
+5 - A menção, classificação ou classificação interna final obtida nas disciplinas agregadoras da matriz curricular do plano de inovação constitui, respetivamente, a menção, classificação ou classificação interna final das disciplinas da matriz curricular-base que as integram, sem prejuízo do disposto no número seguinte.
+
+6 - A mobilização das aprendizagens essenciais de uma disciplina da matriz curricular-base em mais do que uma disciplina da matriz curricular do plano de inovação apenas é admitida quando uma destas constitua uma disciplina autónoma, sendo apenas esta que é objeto de menção ou classificação e que releva para efeitos de aprovação.
+
+7 - Nas situações previstas nos n.os 2 a 4 e 6 são consideradas, para efeitos do disposto nos artigos 30.º e 32.º da Portaria n.º 223-A/2018, de 3 de agosto, as disciplinas autonomizadas.
+
+8 - O plano de inovação identifica ainda, para as disciplinas criadas ao abrigo da alínea c) do n.º 4 do artigo 4.º, as respetivas provas de equivalência à frequência, bem como as componentes que as constituem, sendo-lhes aplicável a escala de classificação e de conversão constante do anexo xii da Portaria n.º 223-A/2018, de 3 de agosto.
+
+9 - O disposto no número anterior não é aplicável às disciplinas agregadoras que integrem disciplinas sujeitas a prova final.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 12.º-C — Ensino secundário - Cursos científico-humanísticos
+
+1 - Para os efeitos do disposto no n.º 1 do artigo 12.º-A, são consideradas as disciplinas constantes da matriz curricular do respetivo plano de inovação, sem prejuízo do disposto nos números seguintes.
+
+2 - O plano de inovação, quando não apresente de forma autonomizada as disciplinas objeto de exame final nacional, constantes do anexo ix da Portaria n.º 226-A/2018, de 7 de agosto, procede, considerando as aprendizagens essenciais mobilizadas, à correspondência entre a disciplina agregadora criada nos termos da subalínea ii) da alínea c) do n.º 4 do artigo 4.º e aquelas disciplinas, que a integram, autonomizando-as, para efeitos de atribuição de classificação interna final e respetiva classificação final da disciplina e de aprovação.
+
+3 - As disciplinas agregadoras do plano de inovação, identificadas nos termos do número anterior, podem ainda integrar outras disciplinas da matriz curricular-base, por mobilizarem as respetivas aprendizagens essenciais, as quais são igualmente identificadas por aquele plano.
+
+4 - A classificação anual de frequência ou classificação interna final obtida nas disciplinas agregadoras da matriz curricular do plano de inovação constitui, respetivamente, a classificação anual de frequência ou a classificação interna final das disciplinas da matriz curricular-base que as integram, sem prejuízo do disposto no número seguinte.
+
+5 - A mobilização das aprendizagens essenciais de uma disciplina da matriz curricular-base em mais do que uma disciplina da matriz curricular do plano de inovação apenas é admitida quando uma destas constitua uma disciplina autónoma, sendo apenas esta que é objeto de classificação e que releva para efeitos de transição e aprovação.
+
+6 - Para efeitos do disposto nos artigos 30.º, 32.º e 33.º da Portaria n.º 226-A/2018, de 7 de agosto, na sua redação atual, relevam as disciplinas autonomizadas referidas nos n.ºs 2, 3 e 5.
+
+7 - A anulação ou exclusão por excesso de faltas injustificadas de disciplinas agregadoras, referidas nos n.os 2 e 3, determina a anulação ou exclusão das disciplinas que as integram.
+
+8 - O plano de inovação que preveja, nos termos da alínea c) do n.º 4 do artigo 4.º, a criação de novas disciplinas e estas tenham uma vigência diferente da anual ou plurianual define o respetivo modo de organização.
+
+9 - O plano de inovação identifica ainda, para as disciplinas criadas ao abrigo da alínea c) do n.º 4 do artigo 4.º, as respetivas provas de equivalência à frequência, bem como as componentes que as constituem.
+
+10 - O disposto no número anterior não é aplicável às disciplinas agregadoras que integrem disciplinas sujeitas a exame final nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127/2026/1 - Diário da República n.º 59/2026, Série I de 2026-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/127-2026-1076925541), em vigor a partir de 2026-03-26.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 12.º-D — Ensino secundário - Cursos profissionais
+
+1 - Para os efeitos do disposto no n.º 1 do artigo 12.º-A, são consideradas as disciplinas e UC/UFCD constantes da matriz curricular do respetivo plano de inovação.
+
+2 - O plano de inovação que preveja a criação de novas disciplinas e ou UC/UFCD, nos termos da alínea c) do n.º 4 do artigo 4.º, define o respetivo modo de organização.
+
+3 - Para efeitos de certificação e de cumprimento do Perfil Profissional/Referencial de Competências e respetivo referencial de formação relativo à qualificação em causa, o plano de inovação identifica as disciplinas e ou UC/UFCD da sua matriz curricular que correspondem às disciplinas e ou UC/UFCD do Referencial de Competências e do referencial de formação associados à respetiva qualificação, sendo as suas classificações equivalentes.
+
+4 - A identificação de disciplinas e ou UC/UFCD do Referencial de Competências e do referencial de formação associados à respetiva qualificação em mais do que uma disciplina e ou UC/UFCD da matriz curricular do plano de inovação apenas é admitida quando uma destas constitua uma disciplina e ou UC/UFCD autónoma, sendo apenas esta que é objeto de classificação e que releva para efeitos de aprovação e certificação.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 12.º-E — Ensino secundário - Cursos artísticos especializados
+
+1 - Para os efeitos do disposto no n.º 1 do artigo 12.º-A, são consideradas as disciplinas constantes da matriz curricular do respetivo plano de inovação.
+
+2 - O plano de inovação que preveja a criação de novas disciplinas nos termos da alínea c) do n.º 4 do artigo 4.º, define o respetivo modo de organização.
+
+3 - Para efeitos de certificação, o plano de inovação identifica as disciplinas da sua matriz curricular que correspondem às disciplinas da matriz curricular-base do curso artístico especializado associado à respetiva qualificação, sendo as suas classificações equivalentes.
+
+4 - A mobilização das aprendizagens essenciais de uma disciplina da matriz curricular-base em mais do que uma disciplina da matriz curricular do plano de inovação apenas é admitida quando uma destas constitua uma disciplina autónoma, sendo apenas esta que é objeto de classificação e que releva para efeitos de transição, aprovação e de certificação.
+
+5 - O plano de inovação identifica as provas de equivalência à frequência para as disciplinas constantes da respetiva matriz curricular, bem como as componentes que as constituem.
+
+6 - As provas referidas no número anterior podem, por opção do aluno, ser substituídas por exames finais nacionais sempre que exista oferta em disciplinas correspondentes.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+### Capítulo IV — Disposições finais e transitórias
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 13.º — Regime subsidiário
+
+Considerando o plano de inovação a desenvolver, em tudo o que não se encontrar expressamente previsto na presente portaria é aplicável, com as devidas adaptações, o disposto na portaria da oferta do ensino básico ou do ensino secundário que lhe está subjacente.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 14.º — Norma transitória
+
+1 - Para o ano letivo de 2019-2020, as escolas submetem as suas propostas de planos de inovação à equipa de coordenação nacional que, após apreciação realizada pelas equipas regionais, emite parecer, cabendo ao membro do Governo responsável pela área da educação decidir no prazo de 30 dias úteis após a apresentação da proposta pela escola.
+
+2 - Os projetos-piloto de inovação pedagógica (PPIP), desenvolvidos ao abrigo do Despacho n.º 3721/2017, de 7 de abril, publicado no Diário da República, 2.ª série, n.º 85, de 3 de maio de 2017, são convolados em planos de inovação, nos termos da presente portaria, por iniciativa da escola e mediante parecer favorável do grupo de acompanhamento previsto no citado despacho a submeter ao membro do Governo responsável pela área da educação.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 306/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/306-2021-176075692), em vigor a partir de 2021-12-18
+
+###### Artigo 15.º — Norma revogatória
+
+É revogado o Despacho n.º 3721/2017, de 7 de abril, publicado no Diário da República, 2.ª série, n.º 85, de 3 de maio de 2017.
+
+###### Artigo 16.º — Produção de efeitos
+
+1 - A presente portaria produz efeitos de acordo com a calendarização prevista na regulamentação da respetiva oferta do ensino básico ou do ensino secundário.
+
+2 - O disposto no artigo anterior produz efeitos a 1 de setembro de 2019.
+
+###### Artigo 17.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado da Educação, João Miguel Marques da Costa, em 27 de maio de 2019.
+
+112336262

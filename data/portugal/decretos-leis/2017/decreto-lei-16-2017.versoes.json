@@ -1,0 +1,875 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:106380302:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-158238410",
+ "dre_path": "/dr/detalhe/decreto-lei/16-2017-106380302",
+ "source_lastmod": "2025-06-04",
+ "versions": [
+  {
+   "date": "2017-02-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158286398",
+    "158286399",
+    "158286400",
+    "158286401",
+    "158286402",
+    "158286403"
+   ]
+  },
+  {
+   "date": "2025-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:920339814:por",
+     "title": "Decreto-Lei n.º 82/2025",
+     "published": "2025-06-03",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2025-920339814"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "158286398",
+    "920958741",
+    "920342009",
+    "920958742",
+    "920342010",
+    "920958730",
+    "920342012",
+    "920342013",
+    "920342014",
+    "920342015",
+    "920342016",
+    "920342017",
+    "920342018",
+    "920342019",
+    "920342020",
+    "920958731",
+    "920342022",
+    "920958732",
+    "920958733",
+    "920958734",
+    "920958735",
+    "920342027",
+    "936699217",
+    "936699218",
+    "936699219",
+    "936699220",
+    "936699221",
+    "936699222",
+    "936699223",
+    "936699224",
+    "936699225",
+    "936699226",
+    "936699227",
+    "920342038",
+    "920958739",
+    "920342040",
+    "920342041",
+    "920958743",
+    "920342042",
+    "920342044",
+    "920342043",
+    "920342045",
+    "920342046",
+    "920342047",
+    "920342048",
+    "920342049",
+    "920342050",
+    "920342051",
+    "920342052",
+    "920342053",
+    "920342054",
+    "920342055",
+    "920342056",
+    "920342057",
+    "920342058",
+    "920342059",
+    "920342060",
+    "920342061",
+    "920342062",
+    "920342063",
+    "920342064",
+    "920342065",
+    "920342066",
+    "920342067",
+    "920342068",
+    "920342069",
+    "920342070",
+    "920342071",
+    "920342072",
+    "920342073",
+    "920958744",
+    "920342074",
+    "920958745",
+    "920504175",
+    "920504176",
+    "920504177",
+    "920504178",
+    "920958746",
+    "920958747",
+    "920958748",
+    "920958749",
+    "920958750",
+    "920958751",
+    "920958752",
+    "920958753"
+   ]
+  }
+ ],
+ "fragments": {
+  "158286398": {
+   "fragment_id": "158238411",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 16/2017\n\nde 1 de fevereiro\n\nO Programa do XXI Governo Constitucional preconiza a reversão das agregações realizadas pelo anterior Governo, em 2015, nas empresas de águas, considerando que este processo - que visou a criação de novos sistemas multimunicipais e das novas entidades gestoras dos mesmos - foi então unilateralmente imposto aos municípios.\n\nQuanto a este objetivo, a estratégia delineada pelo Governo, concretizada na publicação do Decreto-Lei n.º 72/2016, de 4 de novembro, assentou na clarificação do regime vigente, no sentido de este ser consentâneo com a criação de sistemas multimunicipais por cisão dos sistemas resultantes de agregações, criados pelos Decretos-Leis n.os 92/2015, 93/2015, e 94/2015, todos de 29 de maio.\n\nDe facto, e no caso concreto do Decreto-Lei n.º 93/2015, de 29 de maio, foi pelo mesmo operada a extinção do sistema multimunicipal de captação, tratamento e abastecimento de água do Sul da área do Grande Porto, criado pela alínea e) do n.º 3 do artigo 3.º do Decreto-Lei n.º 379/93, de 5 de novembro, bem como da respetiva entidade gestora, a Águas do Douro e Paiva, S. A., constituída pelo Decreto-Lei n.º 116/95, de 29 de maio, com a oposição generalizada dos respetivos municípios utilizadores e acionistas.\n\nIgualmente, com a oposição generalizada dos respetivos municípios utilizadores e acionistas, foi, pelo mesmo decreto-lei, operada a extinção do sistema multimunicipal de saneamento do Grande Porto, criado pelo Decreto-Lei n.º 260/2000, de 17 de outubro, e alterado pelo Decreto-Lei n.º 312/2009, de 27 de outubro, bem como da respetiva entidade gestora, a SIMDOURO - Saneamento do Grande Porto, S. A., constituída por este último diploma.\n\nAssim, em cumprimento do Programa do Governo, o presente decreto-lei vem criar o novo sistema multimunicipal de abastecimento de água do sul do Grande Porto e o novo sistema multimunicipal de saneamento do Grande Porto, em ambos os casos por cisão do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal, por sua vez criado por agregação de sistemas através do Decreto-Lei n.º 93/2015, de 29 de maio - sem prejuízo da manutenção do próprio sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal.\n\nO presente decreto-lei constitui ainda duas novas sociedades que vão adotar a mesma denominação das antigas concessionárias extintas por aquele diploma - Águas do Douro e Paiva, S. A., e SIMDOURO - Saneamento do Grande Porto, S. A. -, e atribui-lhes, respetivamente, a concessão da exploração e da gestão dos novos sistemas multimunicipais agora criados, igualmente sem prejuízo da manutenção da empresa concessionária do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal, a Águas do Norte, S. A.\n\nA criação destes novos sistemas multimunicipais, bem como a constituição das novas entidades gestoras, são feitas de molde a garantir a preservação da sustentabilidade económica e financeira do conjunto dos sistemas, nomeadamente do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal, sendo, assim, pautada por objetivos estratégicos e de interesse nacional.\n\nCom vista a evitar a oneração das tarifas aplicáveis aos utilizadores dos novos sistemas, a sucessão determinada pelo presente decreto-lei é realizada segundo regras de neutralidade fiscal atendendo à continuidade da atividade empresarial em causa, subsumindo-se na alínea a) do n.º 2 do artigo 73.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro.\n\nA necessidade de proceder neste diploma legal a derrogações ao regime constante das bases das concessões dos serviços de abastecimento de água e saneamento fica a dever-se ao facto de este regime ser anterior à publicação do Decreto-Lei n.º 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, que clarifica a solução da criação de sistemas por cisão de sistemas existentes, solução que, ao ser materializada, convoca em determinados aspetos a necessidade de estabelecer um regime específico adaptado a esta realidade.\n\nA assembleia geral da Águas do Norte, S. A., deliberou, no dia 7 de novembro de 2016, manifestar o seu acordo à constituição, por cisão, das novas sociedades Águas do Douro e Paiva, S. A., e SIMDOURO - Saneamento do Grande Porto, S. A., por maioria dos seus acionistas, com 96,25 % dos votos a favor e 3,75 % dos votos contra.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses e a Entidade Reguladora dos Serviços de Águas e Resíduos.\n\nForam ouvidos os municípios abrangidos pelos sistemas multimunicipais ora criados, bem como os demais municípios abrangidos pelo sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "158286399": {
+   "fragment_id": "158238412",
+   "type": 4,
+   "heading": "Parte I — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte I — Objeto"
+  },
+  "158286400": {
+   "fragment_id": "158238413",
+   "type": 4,
+   "heading": "Parte II — Abastecimento de água do sul do Grande Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte II — Abastecimento de água do sul do Grande Porto"
+  },
+  "158286401": {
+   "fragment_id": "158238414",
+   "type": 4,
+   "heading": "Parte III — Saneamento do Grande Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte III — Saneamento do Grande Porto"
+  },
+  "158286402": {
+   "fragment_id": "158238415",
+   "type": 4,
+   "heading": "Parte IV — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte IV — Alterações legislativas"
+  },
+  "158286403": {
+   "fragment_id": "158238416",
+   "type": 4,
+   "heading": "Parte V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte V — Disposições complementares, transitórias e finais"
+  },
+  "920958741": {
+   "fragment_id": "158238412",
+   "type": 4,
+   "heading": "Parte I — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte I — Objeto"
+  },
+  "920342009": {
+   "fragment_id": "920456217",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede:\n\na) À criação do sistema multimunicipal de abastecimento de água do sul do Grande Porto, à constituição da sociedade Águas do Douro e Paiva, S. A., e à atribuição à Águas do Douro e Paiva, S. A., da concessão da exploração e da gestão do sistema multimunicipal de abastecimento de água do sul do Grande Porto, que consubstancia um serviço público a exercer em regime de exclusivo;\n\nb) À criação do sistema multimunicipal de saneamento do Grande Porto, à constituição da sociedade SIMDOURO - Saneamento do Grande Porto, S. A., e à atribuição à SIMDOURO - Saneamento do Grande Porto, S. A., da concessão da exploração e da gestão do sistema multimunicipal de saneamento do Grande Porto, que consubstancia um serviço público a exercer em regime de exclusivo;\n\nc) À correspondente alteração dos artigos 2.º, 12.º e 32.º do Decreto-Lei n.º 93/2015, de 29 de maio, que criou o sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal por agregação de sistemas.\n\n2 - Para efeitos do presente decreto-lei, entende-se por:\n\na) «Sistema», na parte II e no anexo II, o sistema multimunicipal de abastecimento de água do sul do Grande Porto, e na parte III e no anexo V, o sistema multimunicipal de saneamento do Grande Porto, ambos criados pelo presente decreto-lei;\n\nb) «Sistemas», na parte V, os sistemas multimunicipais criados pelo presente decreto-lei;\n\nc) «Sistema agregado», o sistema multimunicipal resultante da agregação efetuada pelo Decreto-Lei n.º 93/2015, de 29 de maio;\n\nd) «Sociedade», na parte II e no anexo II, a sociedade Águas do Douro e Paiva, S. A., e na parte III e no anexo V, a sociedade SIMDOURO - Saneamento do Grande Porto, S. A., ambas constituídas pelo presente decreto-lei;\n\ne) «Sociedade extinta», na parte II, a sociedade Águas do Douro e Paiva, S. A., com o número de matrícula e de identificação de pessoa coletiva 503537624, que foi extinta pelo Decreto-Lei n.º 93/2015, de 29 de maio, e na parte III, a SIMDOURO - Saneamento do Grande Porto, S. A., com o número de matrícula e de identificação de pessoa coletiva 509202560, igualmente extinta por aquele decreto-lei;\n\nf) «Sociedades», na parte V, as duas sociedades constituídas pelo presente decreto-lei;\n\ng) «Sociedade agregada», a Águas do Norte, S. A.;\n\nh) «Utilizadores municipais», na parte II, os municípios servidos pelo sistema multimunicipal de abastecimento de água do sul do Grande Porto, nos termos do disposto no n.º 3 do artigo 2.º, ou as entidades gestoras dos respetivos sistemas municipais, quando aplicável; e, na parte III, os municípios servidos pelo sistema multimunicipal de saneamento do Grande Porto, nos termos do disposto no n.º 3 do artigo 30.º, ou as entidades gestoras dos respetivos sistemas municipais, quando aplicável."
+  },
+  "920958742": {
+   "fragment_id": "158238413",
+   "type": 4,
+   "heading": "Parte II — Abastecimento de água do sul do Grande Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte II — Abastecimento de água do sul do Grande Porto"
+  },
+  "920342010": {
+   "fragment_id": "920456218",
+   "type": 1,
+   "heading": "Capítulo I — Sistema multimunicipal de abastecimento de água do sul do Grande Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Sistema multimunicipal de abastecimento de água do sul do Grande Porto"
+  },
+  "920958730": {
+   "fragment_id": "920456219",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação do sistema",
+   "in_force_from": "2025-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 2.º — Criação do sistema\n\n1 - É criado o sistema multimunicipal de abastecimento de água do sul do Grande Porto, que abrange a captação, o tratamento e o abastecimento de água para consumo público, o qual deve ser realizado de forma regular, contínua e eficiente.\n\n2 - O sistema resulta de cisão do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal, criado pelo Decreto-Lei n.º 93/2015, de 29 de maio.\n\n3 - O sistema integra como utilizadores os municípios de Amarante, Arouca, Baião, Castelo de Paiva, Cinfães, Espinho, Felgueiras, Gondomar, Lousada, Maia, Matosinhos, Oliveira de Azeméis, Ovar, Paços de Ferreira, Paredes, Porto, Santa Maria da Feira, São João da Madeira, Valongo, Vila Nova de Gaia, bem como os municípios que exerçam o direito à integração previsto no artigo 4.º do Decreto-Lei n.º 82/2025, de 3 de junho.\n\n4 - São também utilizadores do sistema quaisquer pessoas singulares ou coletivas, públicas ou privadas, beneficiárias de distribuição direta de água para consumo público integrada no sistema.\n\n5 - São também utilizadores do sistema quaisquer pessoas singulares ou coletivas, públicas ou privadas, localizadas no âmbito geográfico do sistema e relativamente às quais, por acordo entre a sociedade, a entidade gestora do correspondente sistema municipal e, se diferente, a entidade titular do mesmo sistema municipal, se reconheça que a sua integração no sistema, para efeitos da distribuição direta de água para consumo público, constitui uma solução compatível com o sistema.\n\n6 - A ligação dos utilizadores ao sistema é obrigatória, bem como a celebração de contrato de fornecimento com a sociedade e, quando for caso disso, a criação de condições para harmonização com os respetivos sistemas municipais.\n\n7 - O sistema tem a configuração constante do projeto global previsto no contrato de concessão a que se refere o artigo 11.º, e pode ser desenvolvido com as adaptações técnicas que a sua evolução aconselhar, incluindo por fases.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "920342012": {
+   "fragment_id": "920456220",
+   "type": 11,
+   "heading": "Artigo 3.º — Alargamento do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alargamento do sistema\n\nO sistema pode ser alargado a outros municípios, por iniciativa destes, mediante reconhecimento de interesse público devidamente fundamentado em despacho do membro do Governo responsável pela área do ambiente, sob proposta da sociedade e ouvidos os municípios utilizadores do sistema."
+  },
+  "920342013": {
+   "fragment_id": "920456221",
+   "type": 1,
+   "heading": "Capítulo II — Águas do Douro e Paiva, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Águas do Douro e Paiva, S. A."
+  },
+  "920342014": {
+   "fragment_id": "920456222",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição da Águas do Douro e Paiva, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Constituição da Águas do Douro e Paiva, S. A.\n\n1 - É constituída a Águas do Douro e Paiva, S. A., sociedade anónima de capitais exclusivamente públicos, por cisão da sociedade Águas do Norte, S. A., constituída pelo Decreto-Lei n.º 93/2015, de 29 de maio, com dispensa de elaboração e registo do projeto de cisão.\n\n2 - Do ponto de vista contabilístico e fiscal, os efeitos da cisão são reportados a 1 de janeiro de 2017, e as operações efetuadas pela Águas do Norte, S. A., com referência à exploração e gestão do sistema entre 1 de janeiro de 2017 e a data da entrada em vigor do presente decreto-lei, são consideradas, do ponto de vista contabilístico e fiscal, como efetuadas por conta da sociedade, reportando os seus efeitos a 1 de janeiro de 2017.\n\n3 - O balanço inicial da sociedade é subscrito conjuntamente pelos administradores da sociedade e da Águas do Norte, S. A., e dele consta designadamente um capital próprio igual ao que a sociedade Águas do Douro e Paiva, S. A., com o número de matrícula e de identificação de pessoa coletiva 503537624, que foi extinta pelo Decreto-Lei n.º 93/2015, de 29 de maio, tinha à data da sua extinção, acrescido da remuneração acionista desde essa data até 31 de dezembro de 2016, de modo a permitir à sociedade a constituição da parte correspondente à reserva legal e ao pagamento dos dividendos aos acionistas relativos aos anos de 2015 e de 2016, mediante aplicação, ao capital social realizado por ações das categorias A e B e à reserva legal, desde as datas da sua realização e constituição, de uma taxa de remuneração contratual correspondente à rentabilidade médias diária das obrigações do tesouro portuguesas a 10 anos, do ano civil a que corresponde cada um dos exercícios económicos, acrescida de três pontos percentuais.\n\n4 - A sociedade rege-se pelo disposto no presente decreto-lei, pelos seus estatutos, pelo regime jurídico do setor público empresarial consagrado no Decreto-Lei n.º 133/2013, de 3 de outubro, e pelos seus regulamentos internos, bem como pelas normas especiais que lhe sejam aplicáveis e pela lei comercial."
+  },
+  "920342015": {
+   "fragment_id": "920456223",
+   "type": 11,
+   "heading": "Artigo 5.º — Sucessão legal e transferência de bens, direitos e obrigações societárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sucessão legal e transferência de bens, direitos e obrigações societárias\n\n1 - Por efeito da cisão da Águas do Norte, S. A., operada nos termos e pelo presente decreto-lei, são transferidos para a sociedade todos os direitos e obrigações de qualquer fonte e natureza, incluindo as posições contratuais de que era titular a Águas do Norte, S. A., e que para ela tinham sido transferidas, por integrarem o património global da sociedade extinta.\n\n2 - A sociedade sucede ainda em todos os direitos e obrigações de que a Águas do Norte, S. A., é titular desde a data da sua constituição e que não resultaram da transferência prevista no número anterior, mas respeitam ainda ao sistema, sendo transferidos todos os elementos patrimoniais que correspondem à universalidade de bens, direitos e obrigações relacionados, direta ou indiretamente, com as infraestruturas do sistema e que à data da cisão se encontram na esfera da Águas do Norte, S. A.\n\n3 - A sociedade sucede ainda na titularidade de quaisquer autorizações, licenças e concessões relativas à utilização de recursos hídricos e no exercício de atividades acessórias ou complementares na área territorial abrangida pelo sistema agregado, e nas respetivas posições em todos os contratos vigentes, designadamente contratos de trabalho, contratos de cedência de pessoal, contratos de prestação de serviços, contratos de financiamento, contratos de cedência e de aquisição de infraestruturas, os contratos de operação e manutenção de infraestruturas, e, sem prejuízo do disposto no artigo 16.º, quaisquer contratos de fornecimento celebrados.\n\n4 - A constituição da sociedade e a redução do capital social da Águas do Norte, S. A., bem como a sucessão legal determinada nos números anteriores, não carecem de qualquer formalidade e são plenamente eficazes e oponíveis a terceiros, adquirindo a sociedade personalidade jurídica a partir da data da entrada em vigor do presente decreto-lei.\n\n5 - Sem prejuízo do disposto no número anterior, o registo comercial, bem como todos os demais registos, incluindo os dos bens mencionados no artigo 19.º, são promovidos pela sociedade ou pela Águas do Norte, S. A., com base na publicação do presente decreto-lei, sem necessidade de apresentação de qualquer outro documento e com dispensa de inscrições intermédias.\n\n6 - A identificação dos bens e direitos que constituem o património inicial da sociedade devem constar de uma ou mais listas conjuntas elaboradas pela sociedade e pela Águas do Norte, S. A.\n\n7 - Nos casos de registos prediais ou de propriedade automóvel em que não seja manifesto pelo respetivo trato sucessivo que os bens pertenceram anteriormente à sociedade extinta, os registos dos bens transferidos são efetuados com base na publicação do presente decreto-lei, mediante a apresentação de uma declaração conjunta subscrita pela sociedade e pela Águas do Norte, S. A., confirmando essa transferência para a sociedade.\n\n8 - Dado o relevante interesse público reconhecido à transferência do património para a sociedade, subsumível na alínea a) do n.º 2 do artigo 73.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, e na subalínea i) da alínea c) do n.º 3 do artigo 60.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e considerando-se cumpridos os requisitos previstos no n.º 5 daquele artigo, esta é realizada considerando a aplicação do regime de neutralidade fiscal sem necessidade de observância das formalidades prescritas por lei, nomeadamente, comercial e fiscal, ficando a sociedade autorizada a beneficiar da isenção de impostos e de outros encargos legais, nos termos do disposto no n.º 1 do artigo 60.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, relativamente a todos os atos que se mostrem devidos em execução da transferência de património prevista nos números anteriores, incluindo os inseridos no processo de constituição da sociedade, bem como os relativos à transmissão de imóveis, aplicando-se ainda uma isenção de Imposto de Selo sobre as operações financeiras resultantes das transferências de saldos em decorrência da cisão."
+  },
+  "920342016": {
+   "fragment_id": "920456224",
+   "type": 11,
+   "heading": "Artigo 6.º — Objeto social da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objeto social da sociedade\n\n1 - A sociedade tem por objeto social a exploração e a gestão, em regime de exclusivo do sistema.\n\n2 - A exploração e a gestão referidas no número anterior incluem o projeto, a construção, a extensão, a conservação, a reparação, a renovação, a manutenção e a melhoria das obras e das infraestruturas e a aquisição dos equipamentos e das instalações necessárias para o desenvolvimento da atividade prevista no número anterior.\n\n3 - A sociedade pode, ao abrigo do Decreto-Lei n.º 90/2009, de 9 de abril, explorar e gerir sistemas municipais de abastecimento de água e de saneamento, mediante a celebração de contratos de parceria entre o Estado e os municípios.\n\n4 - A sociedade pode ainda, nos termos previstos na lei e designadamente nos n.os 2 e 3 do artigo 3.º do Decreto-Lei n.º 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, exercer outras atividades para além das previstas nos números anteriores, que sejam consideradas acessórias ou complementares daquelas, ficando desde já autorizada a exercer as anteriormente exercidas pela sociedade extinta.\n\n5 - No caso das atividades habilitadas pelo artigo 5.º do decreto-lei referido no número anterior, a autorização aí prevista é ainda precedida de parecer obrigatório da entidade reguladora do setor."
+  },
+  "920342017": {
+   "fragment_id": "920456225",
+   "type": 11,
+   "heading": "Artigo 7.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capital social\n\n1 - O capital social da sociedade é de (euro) 20 902 500,00, correspondendo ao capital social da sociedade extinta, integralmente subscrito e realizado nos termos indicados no anexo I ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A alienação de ações pela sociedade, nos termos do n.º 4 do artigo 286.º do Código das Sociedades Comerciais, dispensa a tramitação prevista na parte final dessa norma, e, se for efetuada a acionistas da sociedade, dispensa ainda a sociedade da publicação da perda de ações a favor da mesma, prevista na segunda parte do n.º 5 do artigo 285.º daquele diploma.\n\n3 - A sociedade pode deliberar aumentos de capital social sem dependência da completa realização de capital social."
+  },
+  "920342018": {
+   "fragment_id": "920456226",
+   "type": 11,
+   "heading": "Artigo 8.º — Ações e dividendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ações e dividendos\n\n1 - O capital social inicial da sociedade é representado por 20.902.500 ações da categoria A, no valor nominal de (euro) 1,00 cada uma, repartidas nos termos previstos no anexo I ao presente decreto-lei.\n\n2 - As ações da categoria A devem representar, sempre e pelo menos, 51 % do capital social com direito a voto.\n\n3 - As ações da categoria A apenas podem ter como titulares entes públicos, na aceção da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de maio, e municípios utilizadores do sistema ou entidades de natureza intermunicipal nas quais aqueles participem.\n\n4 - A distribuição de dividendos aos acionistas da sociedade, referentes à remuneração dos capitais próprios prevista no contrato de concessão, deve ter em conta a data de realização do capital social por parte de cada acionista no âmbito da sociedade extinta."
+  },
+  "920342019": {
+   "fragment_id": "920456227",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatutos da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatutos da sociedade\n\n1 - São aprovados os estatutos da sociedade, que constam do anexo II ao presente decreto-lei, do qual fazem parte integrante.\n\n2 - As alterações aos estatutos processam-se nos termos previstos na lei comercial."
+  },
+  "920342020": {
+   "fragment_id": "920456228",
+   "type": 1,
+   "heading": "Capítulo III — Concessão do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Concessão do sistema"
+  },
+  "920958731": {
+   "fragment_id": "920456229",
+   "type": 11,
+   "heading": "Artigo 10.º — Atribuição da concessão",
+   "in_force_from": "2025-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 10.º — Atribuição da concessão\n\n1 - A exploração e a gestão do sistema são atribuídas à sociedade em regime de concessão, consubstanciando um serviço público a exercer em regime de exclusivo, mediante a outorga do contrato de concessão, por um prazo de 30 anos contado da data de início da sua produção de efeitos, sem prejuízo do disposto nos números seguintes.\n\n2 - [Revogado.]\n\n3 - O contrato de concessão caduca no último dia do ano civil correspondente ao termo da concessão.\n\n4 - A concessão atribuída à sociedade é exercida em regime de exclusivo, não podendo outras entidades, independentemente da sua natureza, desenvolver qualquer das atividades concessionadas nas áreas abrangidas pelo sistema, designadamente a captação de água para consumo público, em cumprimento do disposto no n.º 3 do artigo 42.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, exceto nas situações previstas no contrato de concessão e no número seguinte.\n\n5 - Nas áreas abrangidas pelo sistema, o concedente pode, com fundamento em razões ponderosas de natureza técnica ou económica, autorizar a manutenção de sistemas alternativos de abastecimento de água, para utilizadores de áreas geográficas delimitadas, de pequena dimensão, estando o utilizador municipal obrigado à imediata desativação dos sistemas alternativos logo que ultrapassadas as razões justificativas da sua manutenção.\n\n6 - A concessão rege-se pelo disposto no presente decreto-lei, na Lei n.º 88-A/97, de 25 de julho, alterada pelas Leis n.os 17/2012, de 26 de abril, e 35/2013, de 11 de junho, nas disposições aplicáveis dos Decretos-Leis n.os 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, no respetivo contrato de concessão e, ainda, nas disposições legais e regulamentares respeitantes às atividades compreendidas no seu objeto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "920342022": {
+   "fragment_id": "920456230",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato de concessão\n\nOs membros do Governo responsáveis pelas áreas das finanças e do ambiente ficam autorizados, conjuntamente, a outorgar o contrato de concessão do sistema em nome e representação do Estado."
+  },
+  "920958732": {
+   "fragment_id": "920456231",
+   "type": 11,
+   "heading": "Artigo 12.º — Tarifas",
+   "in_force_from": "2025-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 12.º — Tarifas\n\n1 - A concessão encontra-se dividida em dois períodos tarifários, caracterizados nos seguintes termos:\n\na) O primeiro período tarifário inicia-se a 1 de janeiro de 2017, tem a duração de sete anos, sendo as respetivas tarifas estabelecidas no contrato de concessão;\n\nb) O segundo período tarifário divide-se em subperíodos tarifários quinquenais, com exceção do último que é trienal, decorre desde o termo do período referido na alínea precedente e o termo da vigência do contrato de concessão, sendo os tarifários a aplicar aos utilizadores aprovados nos termos previstos na lei e na regulamentação aplicáveis, devendo a sociedade instruir os respetivos projetos com a revisão dos pressupostos técnicos e económico-financeiros do contrato de concessão.\n\n2 - O primeiro subperíodo do segundo período tarifário decorre entre o dia 1 de janeiro de 2024 e o dia 31 de dezembro de 2028.\n\n3 - Os tarifários são atualizados anualmente por decisão do concedente ou da entidade reguladora do setor, conforme o regime estipulado na legislação e na regulamentação aplicáveis, de acordo com a previsão do índice harmonizado de preços do consumidor publicado pela entidade responsável pela sua divulgação ou outro fator de atualização que a legislação determinar, mediante proposta da sociedade, sem prejuízo de acertos a que seja necessário proceder anualmente, nos termos previstos no contrato de concessão.\n\n4 - Sem prejuízo do disposto no n.º 6 da base XIV aprovada pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, o tarifário a aplicar visa também assegurar a estabilidade tarifária, a acessibilidade social dos serviços, designadamente no âmbito regional, bem como a recuperação ou repercussão dos desvios de recuperação de gastos e dos ajustamentos de encargos nos termos previstos no presente decreto-lei e no contrato de concessão.\n\n5 - Para efeitos dos critérios para fixação das tarifas, a margem anual de remuneração dos capitais próprios da sociedade corresponde à aplicação, ao capital social realizado, titulado por ações das categorias A e B, e à reserva legal, desde as datas da sua realização e constituição, respetivamente, ainda que no âmbito da sociedade extinta, de uma taxa de remuneração contratual correspondente à rentabilidade média diária das obrigações do tesouro portuguesas a 10 anos, do ano civil a que corresponde o exercício económico, ou outra equivalente que a venha substituir por acordo escrito entre o concedente e a sociedade, acrescida de três pontos percentuais.\n\n6 - A partir do termo do subperíodo em que se gerarem desvios de recuperação de gastos, a sociedade é remunerada em função dos resultados gerados.\n\n7 - Sem prejuízo das atualizações anuais previstas no n.º 3, as tarifas a praticar na vigência do contrato de concessão podem ser objeto de revisão nos seguintes termos:\n\na) Revisões ordinárias quinquenais, nos termos do n.º 2;\n\nb) Revisões extraordinárias, nos termos previstos no contrato de concessão.\n\n8 - [Revogado.]\n\n9 - Às tarifas a aplicar pela sociedade aos utilizadores municipais acresce, nos montantes definidos no anexo III ao presente decreto-lei, do qual faz parte integrante, ou resultantes da aplicação do disposto na lei e no contrato de concessão, uma componente tarifária acrescida (CTA) que acresce à tarifa prevista no n.º 1 ou no n.º 2, a ser paga à sociedade agregada, com vista a contribuir para a sustentabilidade do sistema agregado.\n\n10 - O montante da CTA integra o tarifário do serviço de fornecimento de água aos utilizadores municipais e o respetivo pagamento não pode ser dissociado do pagamento da tarifa.\n\n11 - O valor da CTA cobrado pela sociedade aos utilizadores municipais é contabilizado, na sociedade, numa conta de terceiros, uma vez que este valor é receita da sociedade agregada.\n\n12 - A sociedade agregada fatura trimestralmente à sociedade o valor por ela cobrado no trimestre anterior, relativo à CTA cobrada pela sociedade aos utilizadores municipais, sendo essa faturação enquadrada na alínea c) do n.º 6 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado.\n\n13 - Para os efeitos previstos no número anterior, a sociedade deve comunicar à sociedade agregada qual o valor cobrado, devendo a respetiva fatura ser paga no prazo de 30 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "920958733": {
+   "fragment_id": "920456232",
+   "type": 11,
+   "heading": "Artigo 13.º — Desvios de recuperação de gastos",
+   "in_force_from": "2025-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 13.º — Desvios de recuperação de gastos\n\n1 - Para efeitos da parte II do presente decreto-lei, consideram-se desvios de recuperação de gastos a diferença verificada, anualmente, entre o resultado líquido da sociedade adveniente da exploração e gestão do sistema e o resultado líquido que resultaria da aplicação das regras de determinação das tarifas nos termos do artigo anterior.\n\n2 - Os desvios de recuperação de gastos podem assumir natureza deficitária ou superavitária, nos termos definidos no contrato de concessão.\n\n3 - O cálculo dos desvios de recuperação de gastos gerados em cada ano não deve incorporar as diferenças entre os custos efetivamente incorridos e os custos admissíveis em cenário de eficiência produtiva, de acordo com critérios previamente definidos pela entidade reguladora do setor.\n\n4 - A sociedade deve registar nas suas contas os desvios de recuperação de gastos verificados e os que se verificarem anualmente, no máximo, até ao termo do terceiro subperíodo tarifário do segundo período tarifário, ficando os respetivos valores sujeitos a aprovação pela entidade reguladora do setor.\n\n5 - Os desvios de recuperação de gastos gerados na vigência da concessão, no máximo, até ao termo do terceiro subperíodo tarifário do segundo período tarifário, e capitalizados nos termos definidos no contrato de concessão, devem ser recuperados por via tarifária ou refletidos nas tarifas, consoante o caso, até ao termo do prazo da concessão.\n\n6 - O montante registado nas contas da sociedade extinta, a título de desvios de recuperação de gastos, deve ser transferido para a sociedade.\n\n7 - A sociedade pode, como forma de minimizar o impacto dos encargos financeiros nas tarifas e potenciar a diversificação das fontes de financiamento disponíveis, ceder, no todo ou em parte, a instituições de crédito ou sociedade financeira, o direito a receber, através de tarifas futuras, o montante correspondente aos desvios de recuperação de gastos de natureza deficitária, determinados com base no disposto no presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "920958734": {
+   "fragment_id": "920456240",
+   "type": 11,
+   "heading": "Artigo 14.º — Ajustamentos de encargos",
+   "in_force_from": "2025-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 14.º — Ajustamentos de encargos\n\n1 - São ajustamentos de encargos, para efeitos do disposto no n.º 4 do artigo 12.º, as diferenças que, sem prejuízo dos limites estabelecidos no contrato de concessão, se verifiquem anualmente, a partir do termo do período em que se gerarem desvios de recuperação de gastos, entre os encargos esperados de acordo com o projeto tarifário em vigor, e os efetivamente incorridos pela sociedade por motivos que não lhe sejam imputáveis, resultantes da ocorrência de eventos tipificados no contrato de concessão.\n\n2 - A sociedade tem direito à recuperação dos ajustamentos de encargos, capitalizados nos termos definidos no contrato de concessão, mediante uma revisão extraordinária do tarifário em vigor a aplicar no período quinquenal em curso ou no período quinquenal subsequente, nos termos a estabelecer no contrato de concessão.\n\n3 - Os ajustamentos de encargos de natureza superavitária devem ser integralmente refletidos nas tarifas no período quinquenal subsequente.\n\n4 - As regras constantes dos números anteriores deixam de vigorar com a entrada em vigor do regulamento tarifário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "920958735": {
+   "fragment_id": "920456241",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulação económica",
+   "in_force_from": "2025-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 15.º — Regulação económica\n\n1 - A sociedade está sujeita a regulação nos termos da lei, devendo as recomendações tarifárias ou o regulamento tarifário assegurar:\n\na) A salvaguarda do regime relativo aos desvios de recuperação de gastos constante do artigo 13.º;\n\nb) [Revogada.]\n\nc) A previsão de que a recuperação dos proveitos permitidos, cuja repercussão seja diferida em virtude do disposto na alínea anterior, deve ser efetuada mediante ajustamentos aos proveitos permitidos no período regulatório subsequente, ou excecionalmente, nos dois períodos regulatórios subsequentes, devidamente capitalizados a uma taxa de juro correspondente ao custo médio ponderado dos capitais investidos, que permita o ressarcimento do diferimento temporal da recuperação do volume de proveitos permitidos e não recuperados pela tarifa aprovada para o ano a que os mesmos dizem respeito.\n\n2 - As tarifas e as regras previstas no n.º 1 do artigo 12.º aplicam-se na vigência do regulamento tarifário, salvo demonstração realizada pela entidade reguladora, e aprovada pelo concedente, de que as tarifas que resultariam da aplicação do regulamento são mais favoráveis para os utilizadores, ficando salvaguardada a solidez financeira e a sustentabilidade económica e financeira da concessão.\n\n3 - A demonstração a que se refere o número anterior determina a alteração dos pressupostos técnicos e económico-financeiros da concessão e opera mediante aditamento ao respetivo contrato.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "920342027": {
+   "fragment_id": "920456242",
+   "type": 11,
+   "heading": "Artigo 16.º — Contratos de fornecimento celebrados com a sociedade concessionária extinta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contratos de fornecimento celebrados com a sociedade concessionária extinta\n\n1 - Os contratos de fornecimento celebrados entre os utilizadores e a sociedade extinta mantêm-se em vigor, com a garantia de não agravamento dos valores mínimos neles previstos, até serem substituídos por novos contratos que procedam à sua adaptação às condições da nova concessão, considerando-se as menções ao contrato de concessão celebrado com a sociedade extinta como efetuadas ao contrato de concessão celebrado com a sociedade.\n\n2 - Até à substituição dos contratos referidos no número anterior, o cumprimento da obrigação contratual de prestação da caução que recaia sobre os utilizadores municipais não pode ser exigido pela sociedade.\n\n3 - Os valores devidos pelos utilizadores municipais, a que se refere o n.º 1, a aplicar até ao termo do primeiro período quinquenal, constam do estudo de viabilidade económico-financeira (EVEF) em vigor, sem prejuízo do não agravamento dos valores mínimos previstos no n.º 1."
+  },
+  "936699217": {
+   "fragment_id": "920958973",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Contratos de fornecimento a celebrar pelos novos utilizadores municipais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 16.º-A — Contratos de fornecimento a celebrar pelos novos utilizadores municipais\n\nOs contratos de fornecimento a celebrar entre a sociedade e cada um dos municípios de Mangualde, Nelas, Oliveira de Frades, Penalva do Castelo, São Pedro do Sul, Sátão, Vale de Cambra, Viseu e Vouzela devem ser celebrados no prazo de 60 dias a contar do da aprovação da minuta do contrato de fornecimento pelo órgão municipal competente, devendo este remeter à sociedade o referido contrato assinado à sociedade, em duplicado, para sua assinatura e posterior devolução do exemplar ao município.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "936699218": {
+   "fragment_id": "920456243",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigação de ligação e direito de exclusivo da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigação de ligação e direito de exclusivo da concessionária\n\n1 - O pagamento dos valores a que se referem os n.os 3 e 4 da base XXVIII aprovada pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, apenas é devido pelos utilizadores municipais à sociedade nas situações em que o valor resultante da faturação da utilização dos serviços seja inferior àqueles, por motivo exclusivamente imputável aos utilizadores municipais.\n\n2 - Para efeitos do disposto no número anterior, apenas se consideram motivo imputável ao utilizador municipal as situações em que, por razões dependentes da sua vontade, se verificar:\n\na) O incumprimento da obrigação de ligação ao sistema prevista no n.º 1 do artigo 5.º do decreto-lei mencionado no número anterior;\n\nb) A violação do direito de a sociedade exercer a atividade concessionada em regime de exclusivo previsto no n.º 1 do artigo 10.º do presente decreto-lei e no n.º 1 do artigo 2.º do decreto-lei mencionado no número anterior.\n\n3 - O dever de pagamento de valores referido no n.º 1 não resulta da existência, nem respeita a qualquer consumo mínimo anual reportável ao volume de água para consumo público que cada utilizador se proponha adquirir à concessionária.\n\n4 - Os valores referidos no n.º 1 constam do EVEF em vigor, após parecer obrigatório da entidade reguladora do setor, e são atualizados e revistos em simultâneo com as tarifas e nos mesmos termos que estas.\n\n5 - A obrigação de pagamento destes valores vigora durante o período de vigência do contrato de concessão do sistema.\n\n6 - A não obtenção destes valores não constitui fundamento da reposição do equilíbrio económico e financeiro da concessão."
+  },
+  "936699219": {
+   "fragment_id": "920456244",
+   "type": 11,
+   "heading": "Artigo 18.º — Medição e faturação",
+   "in_force_from": "2025-06-08",
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Medição e faturação\n\n1 - Os caudais de água fornecida são objeto de medição para efeitos de faturação.\n\n2 - A medição é efetuada de forma contínua através de instrumentos adequados, admitindo-se a utilização de métodos de estimativa por amostragem, mediante acordo entre a sociedade e o utilizador, por motivos justificados do ponto de vista técnico e económico, bem como para infraestruturas que sirvam pequenos aglomerados populacionais, sem prejuízo da equidade de tratamento entre os diferentes utilizadores, ou para aquelas que ainda não disponham de contador ou medidor de caudal, por prazo a fixar no contrato de concessão."
+  },
+  "936699220": {
+   "fragment_id": "920456245",
+   "type": 11,
+   "heading": "Artigo 19.º — Afetação de infraestruturas",
+   "in_force_from": "2025-06-08",
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Afetação de infraestruturas\n\n1 - São afetos ao sistema multimunicipal de abastecimento de água do sul do Grande Porto:\n\na) A barragem de Fagilde, bem como os bens, infraestruturas hidráulicas e equipamentos associados cuja exploração, gestão e conservação são integrados na concessão, na data e nos termos de contrato de concessão de utilização do domínio público hídrico, a celebrar entre a sociedade e a Agência Portuguesa do Ambiente, I. P., nos termos conjugados do artigo 68.º da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, e do Decreto-Lei n.º 226-A/2007, de 31 de maio, na sua redação atual; e\n\nb) As infraestruturas e outros bens e direitos dos municípios, de entidades de natureza intermunicipal e de quaisquer entidades gestoras dos respetivos sistemas municipais, que se revelem necessários ou úteis ao bom funcionamento do sistema, passando a integrá-lo, mediante contrapartida, nos termos do contrato de concessão.\n\n2 - As infraestruturas e outros bens e direitos dos municípios, de entidades de natureza intermunicipal e de quaisquer entidades gestoras dos respetivos sistemas municipais, que se encontravam afetos ao sistema multimunicipal de captação, tratamento e abastecimento de água do sul do Grande Porto, criado pela alínea e) do n.º 3 do artigo 3.º do Decreto-Lei n.º 379/93, de 5 de novembro, e extinto pelo Decreto-Lei n.º 93/2015, de 29 de maio, mantêm-se afetos ao sistema durante o prazo da concessão.\n\n3 - A afetação das infraestruturas e outros bens a que se referem os números anteriores pressupõe, quando aplicável, a continuidade dos fins de interesse público que hajam determinado a respetiva aquisição pelos municípios, pelas entidades de natureza intermunicipal e por quaisquer entidades gestoras dos respetivos sistemas municipais.\n\n4 - Os contratos de cedência de infraestruturas, bens e direitos celebrados com a sociedade extinta que, nos termos do n.º 1 do artigo 5.º, são transferidos para a sociedade, mantêm-se em vigor até serem celebrados novos contratos que procedam à sua adaptação às condições definidas no contrato de concessão do sistema, considerando-se as menções ao contrato de concessão celebrado com a sociedade extinta como efetuadas ao contrato de concessão celebrado com a sociedade.\n\n5 - Na celebração de novos contratos nos termos previstos no número anterior, as partes devem ter em consideração os critérios de fixação da contrapartida estabelecidos no contrato de concessão, bem como os montantes já liquidados por essa cedência, não podendo, contudo, considerar-se um valor de avaliação do bem superior ao que resultou da avaliação que serviu de base ao contrato originário celebrado com a sociedade extinta, ou àquele que fiscal ou contabilisticamente seja aceite.\n\n6 - Os contratos de cedência de infraestruturas a que se referem os números anteriores podem ter um prazo de duração correspondente ao da concessão, independentemente da natureza jurídica dos direitos neles transmitidos."
+  },
+  "936699221": {
+   "fragment_id": "920456246",
+   "type": 11,
+   "heading": "Artigo 20.º — Poderes do concedente",
+   "in_force_from": "2025-06-08",
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Poderes do concedente\n\n1 - Para efeitos do disposto na subalínea iv) da alínea a) do n.º 1 da base XXIII aprovada pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelo Decreto-Lei n.º 222/2003, de 20 de setembro, e pelo Decreto-Lei n.º 195/2009, de 20 de agosto, considera-se investimento não previsto no contrato de concessão aquele que não conste do projeto tarifário em curso e cujo valor previsional global seja superior a € 250 000,00.\n\n2 - O limite previsto no número anterior não se aplica aos investimentos que decorram da verificação de situações de força maior, para os quais não é exigível a autorização prévia do concedente para a sua realização, designadamente qualquer acontecimento anormal e imprevisível exterior à vontade e atividade da sociedade, tal como cataclismos, guerra, alterações da ordem pública, malfeitorias, atos de vandalismo ou incêndio.\n\n3 - O disposto nos números anteriores não prejudica a obrigatoriedade de comunicação imediata ao concedente da realização do investimento em causa nem a apreciação dos respetivos pressupostos e do valor do investimento realizado em sede de aprovação das tarifas.\n\n4 - Os orçamentos de exploração, de investimento e financeiros, devidamente certificados por auditor aceite pelo concedente, a que se refere a subalínea ii) da alínea b) do n.º 1 da base XXIII referida no n.º 1, são substituídos pelos projetos tarifários a que se refere o artigo 12.º\n\n5 - Os poderes do concedente, consagrados no contrato de concessão, ou outros relacionados com sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público, que lhe forem conferidos por lei, são exercidos pelo membro do Governo responsável pela área do ambiente, com faculdade de delegação no presidente de comissão de acompanhamento da concessão, cuja composição, modo de designação e competências são fixados no respetivo regulamento de funcionamento, integrado no contrato de concessão.\n\n6 - O plano de investimentos constante do projeto tarifário, incluindo os indicadores que traduzam os respetivos benefícios sociais e ambientais, é aprovado pelo concedente, após parecer obrigatório da entidade reguladora do setor.\n\n7 - O parecer a que se refere o número anterior deve ter em conta os efeitos tarifários decorrentes da aprovação dos investimentos, bem como os indicadores que traduzam os respetivos benefícios sociais e ambientais."
+  },
+  "936699222": {
+   "fragment_id": "920456247",
+   "type": 11,
+   "heading": "Artigo 21.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Deveres de informação\n\n1 - Sem prejuízo dos poderes do concedente e da entidade reguladora do setor em sede de supervisão e fiscalização, a sociedade deve enviar o inventário previsto na base XI aprovada pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, ao concedente e à entidade reguladora, nos seguintes momentos:\n\na) Cinco anos após a data de entrada em vigor do presente decreto-lei; e\n\nb) Três anos antes do termo da concessão.\n\n2 - Sem prejuízo do disposto no n.º 4 da base XI referida no número anterior, até 30 de junho do último ano da concessão, a sociedade deve entregar ao concedente um relatório técnico relativo ao estado funcional, de segurança e conservação das principais infraestruturas e equipamentos do sistema, onde se comprove o cumprimento do plano de ações previsto no último relatório técnico quinquenal.\n\n3 - A sociedade deve divulgar os respetivos indicadores de atividade, nos termos e periodicidade estabelecidos no contrato de concessão."
+  },
+  "936699223": {
+   "fragment_id": "920456248",
+   "type": 11,
+   "heading": "Artigo 22.º — Responsabilidade civil extracontratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Responsabilidade civil extracontratual\n\nAté à publicação da portaria prevista na base XXVI aprovada pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, a sociedade deve celebrar um contrato de seguro de responsabilidade civil extracontratual que preveja uma cobertura mínima de danos no valor e em condições similares às mantidas em vigor pela sociedade extinta, cujos efeitos se produzem desde a data de outorga do contrato de concessão."
+  },
+  "936699224": {
+   "fragment_id": "920456249",
+   "type": 11,
+   "heading": "Artigo 23.º — Caução referente à exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Caução referente à exploração\n\nA caução prevista na base XXVII aprovada pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterados pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, deve ser prestada até dois anos antes do termo da concessão."
+  },
+  "936699225": {
+   "fragment_id": "920456250",
+   "type": 11,
+   "heading": "Artigo 24.º — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sequestro\n\nO concedente pode, nos termos das bases aprovadas pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, e do contrato de concessão, intervir na exploração do serviço concedido sempre que se dê, ou se afigure iminente uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respetiva organização ou funcionamento ou no estado geral das instalações e do equipamento suscetíveis de comprometer a regularidade da exploração."
+  },
+  "936699226": {
+   "fragment_id": "920456251",
+   "type": 11,
+   "heading": "Artigo 25.º — Resgate da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Resgate da concessão\n\nO concedente pode, nos termos das bases aprovadas pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, e do contrato de concessão, resgatar a concessão, retomando a gestão direta dos serviços públicos concedidos, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos metade do prazo contratual."
+  },
+  "936699227": {
+   "fragment_id": "920456252",
+   "type": 11,
+   "heading": "Artigo 26.º — Termo da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Termo da concessão\n\n1 - No termo da concessão, os bens afetos à concessão que sejam propriedade da sociedade são transferidos de acordo com o regime previsto no artigo 10.º do Decreto-Lei n.º 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, e nos termos estabelecidos no contrato de concessão.\n\n2 - No termo da concessão, transferem-se para a entidade transmissária dos bens a que se refere o número anterior os direitos e relações jurídicas referidos nos n.os 2 e 3 da base VIII aprovada pelo Decreto-Lei n.º 319/94, de 24 de dezembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, que sejam suscetíveis de se prolongar para além do termo da concessão, nos termos previstos nos números seguintes.\n\n3 - À exceção das relações jurídicas laborais, a entidade transmissária dos bens a que se refere o número anterior tem o direito de recusar a continuidade das relações jurídicas afetas à concessão.\n\n4 - A sociedade deve, durante o último ano de vigência do contrato e até 120 dias antes do seu termo, notificar a entidade transmissária para que, num prazo de 60 dias, exerça o direito referido no número anterior.\n\n5 - No que respeita às relações jurídicas laborais, a entidade transmissária dos bens aceita o pessoal da sociedade, dentro dos limites do quadro de pessoal constante do último projeto tarifário aprovado."
+  },
+  "920342038": {
+   "fragment_id": "920456253",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares, transitórias e finais"
+  },
+  "920958739": {
+   "fragment_id": "920456254",
+   "type": 11,
+   "heading": "Artigo 27.º — Regulamento de exploração e serviço",
+   "in_force_from": "2025-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+   ],
+   "markdown": "###### Artigo 27.º — Regulamento de exploração e serviço\n\n1 - O regulamento de exploração do serviço público de abastecimento de água para consumo humano do sistema a aprovar pelo concedente e a publicar na 2.ª série do Diário da República é elaborado pela sociedade e submetido a parecer dos municípios utilizadores, bem como da entidade reguladora do setor, até ao dia 31 de julho de 2025.\n\n2 - Até à entrada em vigor do regulamento de exploração e serviço previsto no número anterior, a sociedade e os utilizadores devem cumprir, com as adaptações resultantes do disposto na lei e no contrato de concessão, o regulamento de exploração do serviço público de abastecimento de água para consumo humano aplicável no sistema multimunicipal de captação, tratamento e abastecimento de água do sul do Grande Porto, criado pela alínea e) do n.º 3 do artigo 3.º do Decreto-Lei n.º 379/93, de 5 de novembro, extinto pelo Decreto-Lei n.º 93/2015, de 29 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2025 - Diário da República n.º 106/2025, Série I de 2025-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2025-920339814), em vigor a partir de 2025-06-08"
+  },
+  "920342040": {
+   "fragment_id": "920456255",
+   "type": 11,
+   "heading": "Artigo 28.º — Fundo de reconstituição do capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fundo de reconstituição do capital social\n\nA sociedade encontra-se dispensada de manter quaisquer fundos de reconstituição do capital social, podendo dispor na sua atividade dos valores acumulados no fundo constituído pela sociedade extinta, que lhe são para o efeito transferidos, com exceção dos montantes que já tenham sido utilizados para a redução do endividamento da sociedade extinta."
+  },
+  "920342041": {
+   "fragment_id": "920456256",
+   "type": 11,
+   "heading": "Artigo 29.º — Primeira convocatória da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Primeira convocatória da assembleia geral\n\nConsidera-se convocada a assembleia geral da sociedade sem necessidade de cumprimento dos requisitos mencionados no artigo 17.º dos estatutos e na lei comercial, para o quinto dia posterior à data da entrada em vigor do presente decreto-lei, ou para o primeiro dia útil subsequente, às 15 horas, na Estação de Tratamento de Águas de Lever, sita na Rua do Ribeirinho, 706, 4415-679 Lever, com o objetivo de eleger os órgãos sociais da sociedade para o primeiro mandato que termina em 2019, aprovar o respetivo estatuto remuneratório e deliberar sobre as matérias previstas nas alíneas a) e b) do n.º 1 do artigo 38.º do Decreto-Lei n.º 133/2013, de 3 de outubro, em conjugação com o disposto no artigo 18.º do Decreto-Lei n.º 71/2007, de 27 de março, alterado e republicado pelo Decreto-Lei n.º 8/2012, de 18 de janeiro."
+  },
+  "920958743": {
+   "fragment_id": "158238414",
+   "type": 4,
+   "heading": "Parte III — Saneamento do Grande Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte III — Saneamento do Grande Porto"
+  },
+  "920342042": {
+   "fragment_id": "920456257",
+   "type": 1,
+   "heading": "Capítulo I — Sistema multimunicipal de saneamento do Grande Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Sistema multimunicipal de saneamento do Grande Porto"
+  },
+  "920342044": {
+   "fragment_id": "920456259",
+   "type": 11,
+   "heading": "Artigo 31.º — Alargamento do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alargamento do sistema\n\nO sistema pode ser alargado a outros municípios, por iniciativa destes, mediante reconhecimento de interesse público devidamente fundamentado em despacho do membro do Governo responsável pela área do ambiente, sob proposta da sociedade e ouvidos os municípios utilizadores do sistema."
+  },
+  "920342043": {
+   "fragment_id": "920456258",
+   "type": 11,
+   "heading": "Artigo 30.º — Criação do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Criação do sistema\n\n1 - É criado o sistema multimunicipal de saneamento do Grande Porto, que abrange a recolha, o tratamento e a rejeição de efluentes domésticos, de efluentes que resultem da mistura de efluentes domésticos com efluentes industriais ou pluviais, designados por efluentes urbanos, e a receção de efluentes provenientes de limpeza de fossas séticas, que cumpram o disposto no regulamento de exploração e serviço relativo à atividade de saneamento de águas residuais em vigor no sistema, bem como os respetivos tratamento e rejeição, a qual deve ser realizada de forma regular, contínua e eficiente.\n\n2 - O sistema resulta de cisão do sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal, criado pelo Decreto-Lei n.º 93/2015, de 29 de maio.\n\n3 - O sistema integra como utilizadores os municípios de Arouca, Baião, Castelo de Paiva, Cinfães, Paredes, Penafiel e Vila Nova de Gaia.\n\n4 - São também utilizadores do sistema quaisquer pessoas singulares ou coletivas, públicas ou privadas, beneficiárias da recolha direta de efluentes integrada no sistema.\n\n5 - São também utilizadores do sistema quaisquer pessoas singulares ou coletivas, públicas ou privadas, localizadas no âmbito geográfico do sistema e relativamente às quais, por acordo entre a sociedade, a entidade gestora do correspondente sistema municipal e, se diferente, a entidade titular do mesmo sistema municipal, se reconheça que a sua integração no sistema, para efeitos da recolha direta de efluentes ou da receção de efluentes provenientes da limpeza de fossas séticas, constitui uma solução compatível com o sistema.\n\n6 - A ligação dos utilizadores ao sistema é obrigatória, bem como a celebração de contrato de recolha com a sociedade e, quando for caso disso, a criação de condições para harmonização com os respetivos sistemas municipais.\n\n7 - O sistema tem a configuração constante do projeto global previsto no contrato de concessão a que se refere o artigo 39.º, e pode ser desenvolvido com as adaptações técnicas que a sua evolução aconselhar, incluindo por fases."
+  },
+  "920342045": {
+   "fragment_id": "920456260",
+   "type": 1,
+   "heading": "Capítulo II — SIMDOURO - Saneamento do Grande Porto, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — SIMDOURO - Saneamento do Grande Porto, S. A."
+  },
+  "920342046": {
+   "fragment_id": "920456261",
+   "type": 11,
+   "heading": "Artigo 32.º — Constituição da SIMDOURO - Saneamento do Grande Porto, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Constituição da SIMDOURO - Saneamento do Grande Porto, S. A.\n\n1 - É constituída a SIMDOURO - Saneamento do Grande Porto, S. A., sociedade anónima de capitais exclusivamente públicos, por cisão da sociedade Águas do Norte, S. A., constituída pelo Decreto-Lei n.º 93/2015, de 29 de maio, com dispensa de elaboração e registo do projeto de cisão.\n\n2 - Do ponto de vista contabilístico e fiscal, os efeitos da cisão são reportados a 1 de janeiro de 2017, e as operações efetuadas pela Águas do Norte, S. A., com referência à exploração e gestão do sistema entre 1 de janeiro de 2017 e a data da entrada em vigor do presente decreto-lei, são consideradas, do ponto de vista contabilístico e fiscal, como efetuadas por conta da sociedade, reportando os seus efeitos a 1 de janeiro de 2017.\n\n3 - O balanço inicial da sociedade é subscrito conjuntamente pelos administradores da sociedade e da Águas do Norte, S. A., e dele consta designadamente um capital próprio igual ao que a sociedade SIMDOURO - Saneamento do Grande Porto, S. A., com o número de matrícula e de identificação de pessoa coletiva 509202560, que foi extinta pelo Decreto-Lei n.º 93/2015, de 29 de maio, tinha à data da sua extinção, acrescido:\n\na) Do valor do desvio de recuperação de gastos registado nas contas da sociedade Águas do Norte, S. A., que diga respeito à diferença entre os resultados líquidos da sociedade extinta, advenientes da exploração e gestão do sistema anteriormente concessionado a esta, acrescido dos efeitos das reservas dos auditores às contas, e o valor a que a esta sociedade teria tido contratualmente direito a título de remuneração do capital investido, gerados desde o início de produção de efeitos do seu contrato de concessão até 30 de junho de 2015; e\n\nb) Do valor do desvio de recuperação de gastos registado nas contas da sociedade Águas do Norte, S. A., que diga respeito ao sistema explorado pela sociedade extinta, correspondente à diferença entre os resultados líquidos gerados na Águas do Norte, S. A., advenientes da exploração e gestão do seu sistema e o valor a que a sociedade Águas do Norte, S. A., teve contratualmente direito a título de remuneração do capital investido, gerados entre 30 de junho de 2015 e 31 de dezembro de 2016.\n\n4 - A sociedade rege-se pelo disposto no presente decreto-lei, pelos seus estatutos, pelo regime jurídico do setor público empresarial consagrado no Decreto-Lei n.º 133/2013, de 3 de outubro, e pelos seus regulamentos internos, bem como pelas normas especiais que lhe sejam aplicáveis e pela lei comercial."
+  },
+  "920342047": {
+   "fragment_id": "920456263",
+   "type": 11,
+   "heading": "Artigo 33.º — Sucessão legal e transferência de bens, direitos e obrigações societárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sucessão legal e transferência de bens, direitos e obrigações societárias\n\n1 - Por efeito da cisão da Águas do Norte, S. A., operada nos termos e pelo presente decreto-lei, são transferidos para a sociedade todos os direitos e obrigações de qualquer fonte e natureza, incluindo as posições contratuais de que era titular a Águas do Norte, S. A., e que para ela tinham sido transferidas, por integrarem o património global da sociedade extinta.\n\n2 - A sociedade sucede ainda em todos os direitos e obrigações de que a Águas do Norte, S. A., é titular desde a data da sua constituição e que não resultaram da transferência prevista no número anterior, mas respeitam ainda ao sistema, sendo transferidos todos os elementos patrimoniais que correspondem à universalidade de bens, direitos e obrigações relacionados, direta ou indiretamente, com as infraestruturas do sistema e que à data da cisão se encontram na esfera da Águas do Norte, S. A.\n\n3 - A sociedade sucede ainda em todos os direitos e obrigações referidos nos números anteriores, incluindo na titularidade de quaisquer autorizações, licenças e concessões relativas à utilização de recursos hídricos e no exercício de atividades acessórias ou complementares na área territorial abrangida pelo sistema agregado e nas respetivas posições em todos os contratos vigentes, designadamente contratos de trabalho, contratos de cedência de pessoal, contratos de prestação de serviços, contratos de financiamento, contratos de cedência e de aquisição de infraestruturas, os contratos de operação e manutenção de infraestruturas, e, sem prejuízo do disposto no artigo 44.º, quaisquer contratos de recolha celebrados.\n\n4 - A constituição da sociedade e a redução do capital social da Águas do Norte, S. A., bem como a sucessão legal determinada nos números anteriores, não carecem de qualquer formalidade e são plenamente eficazes e oponíveis a terceiros, adquirindo a sociedade personalidade jurídica a partir da data da entrada em vigor do presente decreto-lei.\n\n5 - Sem prejuízo do disposto no número anterior, o registo comercial, bem como todos os demais registos, incluindo os dos bens mencionados no artigo 47.º, são promovidos pela sociedade ou pela Águas do Norte, S. A., com base na publicação do presente decreto-lei, sem necessidade de apresentação de qualquer outro documento e com dispensa de inscrições intermédias.\n\n6 - A identificação dos bens e direitos que constituem o património inicial da sociedade devem constar de uma ou mais listas conjuntas elaboradas pela sociedade e pela Águas do Norte, S. A.\n\n7 - Nos casos de registos prediais ou de propriedade automóvel em que não seja manifesto pelo respetivo trato sucessivo que os bens pertenceram anteriormente à sociedade extinta, os registos dos bens transferidos são efetuados com base na publicação do presente decreto-lei, mediante a apresentação de uma declaração conjunta subscrita pela sociedade e pela Águas do Norte, S. A., confirmando essa transferência para a sociedade.\n\n8 - Dado o relevante interesse público reconhecido à transferência do património para a sociedade, subsumível na alínea a) do n.º 2 do artigo 73.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, e na subalínea i) da alínea c) do n.º 3 do artigo 60.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e considerando-se cumpridos os requisitos previstos no n.º 5 daquele artigo, esta é realizada considerando a aplicação do regime de neutralidade fiscal, sem necessidade de observância das formalidades prescritas por lei, nomeadamente, comercial e fiscal, ficando a sociedade autorizada a beneficiar da isenção de impostos e de outros encargos legais, nos termos do disposto no n.º 1 do artigo 60.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, relativamente a todos os atos que se mostrem devidos em execução da transferência de património prevista nos números anteriores, incluindo os inseridos no processo de constituição da sociedade, bem como os relativos à transmissão de imóveis, aplicando-se ainda uma isenção de Imposto de Selo sobre as operações financeiras resultantes das transferências de saldos em decorrência da cisão."
+  },
+  "920342048": {
+   "fragment_id": "920456264",
+   "type": 11,
+   "heading": "Artigo 34.º — Objeto social da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Objeto social da sociedade\n\n1 - A sociedade tem por objeto social a exploração e a gestão, em regime de exclusivo do sistema.\n\n2 - A exploração e a gestão referidas no número anterior incluem o projeto, a construção, a extensão, a conservação, a reparação, a renovação, a manutenção e a melhoria das obras e das infraestruturas e a aquisição dos equipamentos e das instalações necessárias para o desenvolvimento da atividade prevista no número anterior.\n\n3 - A sociedade pode, ao abrigo do Decreto-Lei n.º 90/2009, de 9 de abril, explorar e gerir sistemas municipais de abastecimento de água e de saneamento, mediante a celebração de contratos de parceria entre o Estado e os municípios.\n\n4 - A sociedade pode ainda, nos termos previstos na lei e designadamente nos n.os 2 e 3 do artigo 3.º do Decreto-Lei n.º 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, exercer outras atividades para além das previstas nos números anteriores, que sejam consideradas acessórias ou complementares daquelas, ficando desde já autorizada a exercer as anteriormente exercidas pela sociedade extinta.\n\n5 - No caso das atividades habilitadas pelo artigo 5.º do Decreto-Lei n.º 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, a autorização aí prevista é ainda precedida de parecer obrigatório da entidade reguladora do setor."
+  },
+  "920342049": {
+   "fragment_id": "920456269",
+   "type": 11,
+   "heading": "Artigo 35.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Capital social\n\n1 - O capital social da sociedade é de (euro) 20 046 075,00, correspondendo ao capital social da sociedade extinta, integralmente subscrito e realizado nos termos indicados no anexo IV ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A alienação de ações pela sociedade, nos termos do n.º 4 do artigo 286.º do Código das Sociedades Comerciais, dispensa a tramitação prevista na parte final dessa norma, e, se for efetuada a acionistas da sociedade, dispensa ainda a sociedade da publicação da perda de ações a favor da mesma, prevista na segunda parte do n.º 5 do artigo 285.º daquele diploma.\n\n3 - A sociedade pode deliberar aumentos de capital social sem dependência da completa realização de capital social."
+  },
+  "920342050": {
+   "fragment_id": "920456270",
+   "type": 11,
+   "heading": "Artigo 36.º — Ações e dividendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Ações e dividendos\n\n1 - O capital social inicial da sociedade é representado por 20.046.075 ações da categoria A, no valor nominal de (euro) 1,00 cada uma, repartidas nos termos previstos no anexo IV ao presente decreto-lei.\n\n2 - As ações da categoria A devem representar, sempre e pelo menos, 51 % do capital social com direito a voto.\n\n3 - As ações da categoria A apenas podem ter como titulares entes públicos, na aceção da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de maio, e municípios utilizadores do sistema ou entidades de natureza intermunicipal nas quais aqueles participem.\n\n4 - A distribuição de dividendos aos acionistas da sociedade, referentes à remuneração dos capitais próprios da sociedade prevista no contrato de concessão deve ter em conta a data de realização do capital social por parte de cada acionista no âmbito da sociedade extinta."
+  },
+  "920342051": {
+   "fragment_id": "920456271",
+   "type": 11,
+   "heading": "Artigo 37.º — Estatutos da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Estatutos da sociedade\n\n1 - São aprovados os estatutos da sociedade, que constam do anexo V ao presente decreto-lei, do qual fazem parte integrante.\n\n2 - As alterações aos estatutos processam-se nos termos previstos na lei comercial."
+  },
+  "920342052": {
+   "fragment_id": "920456272",
+   "type": 1,
+   "heading": "Capítulo III — Concessão do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Concessão do sistema"
+  },
+  "920342053": {
+   "fragment_id": "920456273",
+   "type": 11,
+   "heading": "Artigo 38.º — Atribuição da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Atribuição da concessão\n\n1 - A exploração e a gestão do sistema são atribuídas à sociedade em regime de concessão, consubstanciando um serviço público a exercer em regime de exclusivo, mediante a outorga do contrato de concessão, por um prazo de 50 anos contado da data de início da sua produção de efeitos, sem prejuízo do disposto nos números seguintes.\n\n2 - O contrato de concessão caduca no último dia do ano civil correspondente ao termo da concessão.\n\n3 - A concessão atribuída à sociedade é exercida em regime de exclusivo, não podendo outras entidades, independentemente da sua natureza, desenvolver qualquer das atividades concessionadas nas áreas abrangidas pelo sistema, designadamente a recolha, tratamento e rejeição de efluentes domésticos e urbanos e a receção, tratamento e rejeição de efluentes provenientes de limpeza de fossas séticas, em cumprimento do disposto no n.º 4 do artigo 48.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, exceto nas situações previstas no contrato de concessão e no número seguinte.\n\n4 - Nas áreas abrangidas pelo sistema, o concedente pode, com fundamento em razões ponderosas de natureza técnica ou económica, autorizar a manutenção de sistemas alternativos de recolha, tratamento e rejeição de efluentes, para utilizadores de áreas geográficas delimitadas, de pequena dimensão, estando o utilizador municipal obrigado à imediata desativação dos sistemas alternativos logo que ultrapassadas as razões justificativas da sua manutenção.\n\n5 - A concessão rege-se pelo disposto no presente decreto-lei, na Lei n.º 88-A/97, de 25 de julho, alterada pelas Leis n.os 17/2012, de 26 de abril, e 35/2013, de 11 de junho, nas disposições aplicáveis dos Decretos-Leis n.os 92/2013, de 11 de julho, e 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, no respetivo contrato de concessão e, ainda, nas disposições legais e regulamentares respeitantes às atividades compreendidas no seu objeto."
+  },
+  "920342054": {
+   "fragment_id": "920456274",
+   "type": 11,
+   "heading": "Artigo 39.º — Contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Contrato de concessão\n\nOs membros do Governo responsáveis pelas áreas das finanças e do ambiente ficam autorizados, conjuntamente, a outorgar o contrato de concessão do sistema em nome e representação do Estado."
+  },
+  "920342055": {
+   "fragment_id": "920480475",
+   "type": 11,
+   "heading": "Artigo 40.º — Tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Tarifas\n\n1 - O primeiro período quinquenal da concessão, designado por primeiro período tarifário, inicia-se a 1 de janeiro de 2017, sendo as respetivas tarifas estabelecidas no contrato de concessão.\n\n2 - Sem prejuízo do disposto no número anterior, os tarifários a aplicar aos utilizadores são aprovados nos termos previstos na lei e no contrato de concessão e fixados para períodos quinquenais, devendo a sociedade instruir os respetivos projetos com a revisão dos pressupostos técnicos e económico-financeiros do contrato de concessão.\n\n3 - Os tarifários são atualizados anualmente pela sociedade, de acordo com a previsão do índice harmonizado de preços no consumidor publicado pela entidade responsável pela sua divulgação, sem prejuízo de acertos a que seja necessário proceder anualmente, nos termos previstos no contrato de concessão.\n\n4 - Sem prejuízo do disposto no n.º 6 da base XIV aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, o tarifário a aplicar visa também assegurar a estabilidade tarifária, a acessibilidade social dos serviços, designadamente no âmbito regional, bem como a recuperação ou repercussão dos desvios de recuperação de gastos e dos ajustamentos de encargos nos termos previstos no presente decreto-lei e no contrato de concessão.\n\n5 - Para efeitos dos critérios para fixação das tarifas, a margem anual de remuneração dos capitais próprios da sociedade corresponde à aplicação, ao capital social realizado, titulado por ações das categorias A e B, e à reserva legal, desde as datas da sua realização e constituição, respetivamente, ainda que no âmbito da sociedade extinta, de uma taxa de remuneração contratual correspondente à rentabilidade média diária das obrigações do tesouro portuguesas a 10 anos, do ano civil a que corresponde o exercício económico, ou outra equivalente que a venha substituir por acordo escrito entre o concedente e a sociedade, acrescida de três pontos percentuais.\n\n6 - A partir do terceiro período quinquenal, a sociedade é remunerada em função dos resultados gerados.\n\n7 - Sem prejuízo das atualizações anuais previstas no n.º 3, as tarifas a praticar na vigência do contrato de concessão podem ser objeto de revisão nos seguintes termos:\n\na) Revisões ordinárias quinquenais, nos termos do n.º 2;\n\nb) Revisões extraordinárias, nos termos previstos no contrato de concessão.\n\n8 - Sem prejuízo do disposto nos n.os 1, 2 e 4, as regras constantes dos números anteriores deixam de vigorar com a entrada em vigor do regulamento tarifário."
+  },
+  "920342056": {
+   "fragment_id": "920480483",
+   "type": 11,
+   "heading": "Artigo 41.º — Desvios de recuperação de gastos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Desvios de recuperação de gastos\n\n1 - Para efeitos da parte III do presente decreto-lei, consideram-se desvios de recuperação de gastos:\n\na) O valor do desvio de recuperação de gastos registado nas contas da sociedade Águas do Norte, S. A., que diga respeito à diferença entre os resultados líquidos da sociedade extinta, advenientes da exploração e gestão do sistema anteriormente concessionado a esta, acrescido dos efeitos das reservas dos auditores às contas, e o valor a que a esta sociedade teria tido contratualmente direito a título de remuneração do capital investido, gerados desde o início de produção de efeitos do seu contrato de concessão até 30 de junho de 2015;\n\nb) O valor do desvio de recuperação de gastos registado nas contas da sociedade Águas do Norte, S. A., no que diga respeito ao sistema explorado pela sociedade extinta, correspondente à diferença entre os resultados líquidos gerados na Águas do Norte, S. A., advenientes da exploração e gestão do seu sistema, e o valor a que a sociedade Águas do Norte, S. A., teve contratualmente direito a título de remuneração do capital investido, gerados entre 30 de junho de 2015 e 31 de dezembro de 2016;\n\nc) A diferença verificada, anualmente, até ao termo do segundo período quinquenal da concessão, entre os resultados líquidos da sociedade advenientes da exploração e gestão do sistema e o valor a que a sociedade tenha direito em resultado da aplicação das regras de determinação das tarifas nos termos do artigo anterior.\n\n2 - Os desvios de recuperação de gastos podem assumir natureza deficitária ou superavitária, nos termos definidos no contrato de concessão.\n\n3 - O cálculo dos desvios de recuperação de gastos gerados em cada ano não deve incorporar as diferenças entre os custos efetivamente incorridos e os custos admissíveis em cenário de eficiência produtiva, de acordo com critérios previamente definidos pela entidade reguladora do setor.\n\n4 - A sociedade deve registar nas suas contas os desvios de recuperação de gastos verificados e os que se verificarem anualmente até ao termo do segundo período quinquenal, ficando os respetivos valores sujeitos a aprovação da entidade reguladora do setor.\n\n5 - Os desvios de recuperação de gastos de natureza deficitária e de natureza superavitária existentes à data da extinção da sociedade extinta, e os gerados na vigência da concessão, até ao termo do segundo período quinquenal, capitalizados nos termos definidos no contrato de concessão, devem ser recuperados por via tarifária ou refletidos nas tarifas, consoante o caso, até ao termo do quinto período quinquenal.\n\n6 - O montante registado nas contas da sociedade extinta, a título de desvios de recuperação de gastos, deve ser transferido para a sociedade.\n\n7 - A sociedade pode, como forma de minimizar o impacto dos encargos financeiros nas tarifas e potenciar a diversificação das fontes de financiamento disponíveis, ceder, no todo ou em parte, a instituições de crédito ou sociedade financeira, o direito a receber, através de tarifas futuras, o montante correspondente aos desvios de recuperação de gastos de natureza deficitária, determinados com base no disposto no presente artigo."
+  },
+  "920342057": {
+   "fragment_id": "920480484",
+   "type": 11,
+   "heading": "Artigo 42.º — Ajustamentos de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Ajustamentos de encargos\n\n1 - São ajustamentos de encargos, para efeitos do disposto no n.º 4 do artigo 40.º, as diferenças que, sem prejuízo dos limites estabelecidos no contrato de concessão, se verifiquem anualmente, a partir do terceiro período quinquenal da concessão, entre os encargos esperados de acordo com o projeto tarifário em vigor, e os efetivamente incorridos pela sociedade por motivos que não lhe sejam imputáveis, resultantes da ocorrência de eventos tipificados no contrato de concessão.\n\n2 - A sociedade tem direito à recuperação dos ajustamentos de encargos, capitalizados nos termos definidos no contrato de concessão, mediante uma revisão extraordinária do tarifário em vigor a aplicar no período quinquenal em curso ou no período quinquenal subsequente, nos termos a estabelecer no contrato de concessão.\n\n3 - Os ajustamentos de encargos de natureza superavitária devem ser integralmente refletidos nas tarifas no período quinquenal subsequente.\n\n4 - As regras constantes dos números anteriores deixam de vigorar com a entrada em vigor do regulamento tarifário."
+  },
+  "920342058": {
+   "fragment_id": "920480485",
+   "type": 11,
+   "heading": "Artigo 43.º — Regulamento tarifário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Regulamento tarifário\n\n1 - A sociedade está sujeita a regulação nos termos da lei, devendo o regulamento tarifário assegurar:\n\na) A salvaguarda do regime relativo aos desvios de recuperação de gastos constante do artigo 41.º, com a garantia de que as alterações de regras regulatórias em matéria de reintegração do investimento determinam o recálculo do valor desses desvios;\n\nb) A previsão de um período de convergência, com um máximo de cinco anos, entre as tarifas em vigor e as tarifas decorrentes da aplicação do regulamento tarifário, nos casos em que tal se justifique;\n\nc) A previsão de que a recuperação dos proveitos permitidos, cuja repercussão seja diferida em virtude do disposto na alínea anterior, deve ser efetuada mediante ajustamentos aos proveitos permitidos no período regulatório subsequente, ou excecionalmente, nos dois períodos regulatórios subsequentes, devidamente capitalizados a uma taxa de juro correspondente ao custo médio ponderado dos capitais investidos, que permita o ressarcimento do diferimento temporal da recuperação do volume de proveitos permitidos e não recuperados pela tarifa aprovada para o ano a que os mesmos dizem respeito.\n\n2 - As tarifas e as regras previstas no n.º 1 do artigo 40.º aplicam-se na vigência do regulamento tarifário, salvo demonstração realizada pela entidade reguladora, e aprovada pelo concedente, de que as tarifas que resultariam da aplicação do regulamento são mais favoráveis para os utilizadores, ficando salvaguardada a solidez financeira e a sustentabilidade económica e financeira da concessão.\n\n3 - A demonstração a que se refere o número anterior determina a alteração dos pressupostos técnicos e económico-financeiros da concessão e opera mediante aditamento ao respetivo contrato."
+  },
+  "920342059": {
+   "fragment_id": "920480486",
+   "type": 11,
+   "heading": "Artigo 44.º — Contratos de recolha celebrados com a sociedade concessionária extinta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Contratos de recolha celebrados com a sociedade concessionária extinta\n\n1 - Os contratos de recolha celebrados entre os utilizadores e a sociedade extinta mantêm-se em vigor, com a garantia de não agravamento dos valores mínimos neles previstos, até serem substituídos por novos contratos que procedam à sua adaptação às condições da nova concessão, considerando-se as menções ao contrato de concessão celebrado com a referida sociedade extinta como efetuadas ao contrato de concessão celebrado com a sociedade.\n\n2 - Até à substituição dos contratos referidos no número anterior, o cumprimento da obrigação contratual de prestação da caução que recaia sobre os utilizadores municipais não pode ser exigido pela sociedade.\n\n3 - Os valores devidos pelos utilizadores municipais, a que se refere o n.º 1, a aplicar até ao termo do primeiro período quinquenal, constam do EVEF em vigor, sem prejuízo do não agravamento dos valores mínimos previstos no n.º 1."
+  },
+  "920342060": {
+   "fragment_id": "920480487",
+   "type": 11,
+   "heading": "Artigo 45.º — Obrigação de ligação e direito de exclusivo da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Obrigação de ligação e direito de exclusivo da concessionária\n\n1 - O pagamento dos valores a que se referem os n.os 3 e 4 da base XXVIII aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, apenas é devido pelos utilizadores municipais à sociedade nas situações em que o valor resultante da faturação da utilização dos serviços seja inferior àqueles, por motivo exclusivamente imputável aos utilizadores municipais.\n\n2 - Para efeitos do disposto no número anterior, apenas se consideram motivo imputável ao utilizador municipal as situações em que, por razões dependentes da sua vontade, se verificar:\n\na) O incumprimento da obrigação de ligação ao sistema prevista no n.º 1 do artigo 4.º do Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto;\n\nb) A violação do direito de a sociedade exercer a atividade concessionada em regime de exclusivo previsto no n.º 1 do artigo 38.º do presente decreto-lei e no n.º 1 do artigo 2.º do Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto.\n\n3 - O dever de pagamento de valores referido no n.º 1 não resulta da existência, nem respeita a qualquer consumo mínimo anual reportável ao volume recolhido de águas residuais que cada utilizador se proponha entregar à concessionária.\n\n4 - Os valores referidos no n.º 1 constam do EVEF em vigor, após parecer obrigatório da entidade reguladora do setor, e são atualizados e revistos em simultâneo com as tarifas e nos mesmos termos que estas.\n\n5 - A obrigação de pagamento destes valores vigora durante o período de vigência do contrato de concessão do sistema.\n\n6 - A não obtenção destes valores não constitui fundamento da reposição do equilíbrio económico e financeiro da concessão."
+  },
+  "920342061": {
+   "fragment_id": "920480488",
+   "type": 11,
+   "heading": "Artigo 46.º — Medição e faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Medição e faturação\n\n1 - Os caudais de efluentes recolhidos são objeto de medição para efeitos de faturação.\n\n2 - A medição é efetuada de forma contínua através de instrumentos adequados, admitindo-se a utilização de métodos de estimativa mediante acordo entre a sociedade e o utilizador por motivos justificados do ponto de vista técnico e económico, bem como para infraestruturas que sirvam pequenos aglomerados populacionais, sem prejuízo da equidade de tratamento entre os diferentes utilizadores, ou para aquelas que ainda não disponham de contador ou medidor de caudal, por prazo a fixar no contrato de concessão.\n\n3 - A sociedade pode aplicar o modelo de volumes desfasados à faturação do serviço de saneamento de águas residuais aos utilizadores municipais.\n\n4 - Na situação prevista no número anterior, o volume de efluentes recolhidos a faturar em cada mês corresponde a um duodécimo dos volumes acumulados de efluentes medidos ou estimados, nos termos do contrato de concessão, no período correspondente à média aritmética simples, por utilizador municipal, de pelo menos um dos últimos seis semestres consecutivos, compreendido entre 1 de julho do ano n-4 e 30 de junho do ano n-1.\n\n5 - Para efeitos de faturação, a sociedade não pode considerar um volume de efluente superior ao valor do efluente efetivamente tratado e descarregado, respeitados os valores limites de emissão constantes da licença de descarga da infraestrutura de tratamento, salvaguardado o mecanismo previsto nos n.os 3 e 4."
+  },
+  "920342062": {
+   "fragment_id": "920480489",
+   "type": 11,
+   "heading": "Artigo 47.º — Afetação de infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Afetação de infraestruturas\n\n1 - São afetos ao sistema as infraestruturas e outros bens e direitos dos municípios, de entidades de natureza intermunicipal e de quaisquer entidades gestoras dos respetivos sistemas municipais, que se revelem necessários ou úteis ao bom funcionamento do sistema, passando a integrá-lo, mediante contrapartida, nos termos do contrato de concessão.\n\n2 - As infraestruturas e outros bens e direitos dos municípios, de entidades de natureza intermunicipal e de quaisquer entidades gestoras dos respetivos sistemas municipais, que se encontravam afetos ao sistema multimunicipal de saneamento do Grande Porto, criado pelo Decreto-Lei n.º 260/2000, de 17 de outubro, alterado pelo Decreto-Lei n.º 312/2009, de 27 de outubro, que foi extinto pelo Decreto-Lei n.º 93/2015, de 29 de maio, mantêm-se afetos ao sistema durante o prazo da concessão.\n\n3 - A afetação das infraestruturas e outros bens a que se referem os números anteriores pressupõe, quando aplicável, a continuidade dos fins de interesse público que hajam determinado a respetiva aquisição pelos municípios, pelas entidades de natureza intermunicipal e por quaisquer entidades gestoras dos respetivos sistemas municipais.\n\n4 - Os contratos de cedência de infraestruturas, bens e direitos celebrados com a sociedade extinta que, nos termos do n.º 1 do artigo 33.º, são transferidos para a sociedade, mantêm-se em vigor até serem celebrados novos contratos que procedam à sua adaptação às condições definidas no contrato de concessão do sistema, considerando-se as menções ao contrato de concessão celebrado com a sociedade extinta como efetuadas ao contrato de concessão celebrado com a sociedade.\n\n5 - Na celebração de novos contratos nos termos previstos no número anterior, as partes devem ter em consideração os critérios de fixação da contrapartida estabelecidos no contrato de concessão, bem como os montantes já liquidados por essa cedência, não podendo, contudo, considerar-se um valor de avaliação do bem superior ao que resultou da avaliação que serviu de base ao contrato originário celebrado com a sociedade extinta, ou àquele que fiscal ou contabilisticamente seja aceite.\n\n6 - Os contratos de cedência de infraestruturas a que se referem os números anteriores podem ter um prazo de duração correspondente ao da concessão, independentemente da natureza jurídica dos direitos neles transmitidos."
+  },
+  "920342063": {
+   "fragment_id": "920480490",
+   "type": 11,
+   "heading": "Artigo 48.º — Poderes do concedente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Poderes do concedente\n\n1 - Para efeitos do disposto na subalínea iv) da alínea a) do n.º 1 da base XXIII aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, considera-se investimento não previsto no contrato de concessão aquele que não conste do projeto tarifário em curso e cujo valor previsional global seja superior a (euro) 50 000,00.\n\n2 - O limite previsto no número anterior não se aplica aos investimentos que decorram da verificação de situações de força maior, para os quais não é exigível a autorização prévia do concedente para a sua realização, designadamente qualquer acontecimento anormal e imprevisível exterior à vontade e atividade da sociedade, tal como cataclismos, guerra, alterações da ordem pública, malfeitorias, atos de vandalismo ou incêndio.\n\n3 - O disposto nos números anteriores não prejudica a obrigatoriedade de comunicação imediata ao concedente da realização do investimento em causa nem a apreciação dos respetivos pressupostos e do valor do investimento realizado em sede de aprovação das tarifas.\n\n4 - Os orçamentos de exploração, de investimento e financeiros, devidamente certificados por auditor aceite pelo concedente, a que se refere a subalínea ii) da alínea b) do n.º 1 da base XXIII aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, são substituídos pelos projetos tarifários a que se refere o artigo 40.º\n\n5 - Os poderes do concedente, consagrados no contrato de concessão, ou outros relacionados com sistemas multimunicipais de recolha, tratamento e rejeição de efluentes, que lhe forem conferidos por lei, são exercidos pelo membro do Governo responsável pela área do ambiente, com faculdade de delegação no presidente de comissão de acompanhamento da concessão, cuja composição, modo de designação e competências são fixados no respetivo regulamento de funcionamento, integrado no contrato de concessão.\n\n6 - O plano de investimentos constante do projeto tarifário, incluindo os indicadores que traduzam os respetivos benefícios sociais e ambientais, é aprovado pelo concedente, após parecer obrigatório da entidade reguladora do setor.\n\n7 - O parecer a que se refere o número anterior deve ter em conta os efeitos tarifários decorrentes da aprovação dos investimentos, bem como os indicadores que traduzam os respetivos benefícios sociais e ambientais."
+  },
+  "920342064": {
+   "fragment_id": "920480491",
+   "type": 11,
+   "heading": "Artigo 49.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Deveres de informação\n\n1 - Sem prejuízo dos poderes do concedente e da entidade reguladora do setor em sede de supervisão e fiscalização, a sociedade deve enviar o inventário previsto na base XI aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, ao concedente e à entidade reguladora, nos seguintes momentos:\n\na) Cinco anos após a data de entrada em vigor do presente decreto-lei; e\n\nb) Três anos antes do termo da concessão.\n\n2 - Sem prejuízo do disposto no n.º 4 da base XI aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, até 30 de junho do último ano da concessão, a sociedade deve entregar ao concedente um relatório técnico relativo ao estado funcional, de segurança e conservação das principais infraestruturas e equipamentos do sistema, onde se comprove o cumprimento do plano de ações previsto no último relatório técnico quinquenal.\n\n3 - A sociedade deve divulgar os respetivos indicadores de atividade, nos termos e periodicidade estabelecidos no contrato de concessão."
+  },
+  "920342065": {
+   "fragment_id": "920480492",
+   "type": 11,
+   "heading": "Artigo 50.º — Responsabilidade civil extracontratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Responsabilidade civil extracontratual\n\nAté à publicação da portaria prevista na base XXVI aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, a sociedade deve celebrar um contrato de seguro de responsabilidade civil extracontratual que preveja uma cobertura mínima de danos no valor e em condições similares às mantidas em vigor pela sociedade extinta, cujos efeitos se produzem desde a data de outorga do contrato de concessão."
+  },
+  "920342066": {
+   "fragment_id": "920480493",
+   "type": 11,
+   "heading": "Artigo 51.º — Caução referente à exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Caução referente à exploração\n\nA caução prevista na base XXVII aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, deve ser prestada até dois anos antes do termo da concessão."
+  },
+  "920342067": {
+   "fragment_id": "920480494",
+   "type": 11,
+   "heading": "Artigo 52.º — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Sequestro\n\nO concedente pode, nos termos das bases aprovadas pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, e do contrato de concessão, intervir na exploração do serviço concedido sempre que se dê, ou se afigure iminente uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respetiva organização ou funcionamento ou no estado geral das instalações e do equipamento suscetíveis de comprometer a regularidade da exploração."
+  },
+  "920342068": {
+   "fragment_id": "920480495",
+   "type": 11,
+   "heading": "Artigo 53.º — Resgate da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Resgate da concessão\n\nO concedente pode, nos termos das bases aprovadas pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, e do contrato de concessão, resgatar a concessão, retomando a gestão direta dos serviços públicos concedidos, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos metade do prazo contratual."
+  },
+  "920342069": {
+   "fragment_id": "920480496",
+   "type": 11,
+   "heading": "Artigo 54.º — Termo da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Termo da concessão\n\n1 - No termo da concessão, os bens afetos à concessão que sejam propriedade da sociedade são transferidos de acordo com o regime previsto no artigo 10.º do Decreto-Lei n.º 92/2013, de 11 de julho, e nos termos estabelecidos no contrato de concessão.\n\n2 - No termo da concessão, transferem-se para a entidade transmissária dos bens a que se refere o número anterior os direitos e relações jurídicas referidos nos n.os 2 e 3 da base VIII aprovada pelo Decreto-Lei n.º 162/96, de 4 de setembro, alterado pelos Decretos-Leis n.os 222/2003, de 20 de setembro, e 195/2009, de 20 de agosto, que sejam suscetíveis de se prolongar para além do termo da concessão, nos termos previstos nos números seguintes.\n\n3 - À exceção das relações jurídicas laborais, a entidade transmissária dos bens a que se refere o número anterior tem o direito de recusar a continuidade das relações jurídicas afetas à concessão.\n\n4 - A sociedade deve, durante o último ano de vigência do contrato e até 120 dias antes do seu termo, notificar a entidade transmissária para que, num prazo de 60 dias, exerça o direito referido no número anterior.\n\n5 - No que respeita às relações jurídicas laborais, a entidade transmissária dos bens aceita o pessoal da sociedade, dentro dos limites do quadro de pessoal constante do último projeto tarifário aprovado."
+  },
+  "920342070": {
+   "fragment_id": "920480497",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares"
+  },
+  "920342071": {
+   "fragment_id": "920480498",
+   "type": 11,
+   "heading": "Artigo 55.º — Regulamento de exploração e serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Regulamento de exploração e serviço\n\nAté à entrada em vigor do regulamento de exploração e serviço elaborado pela sociedade, aprovado pelo concedente e publicado na 2.ª série do Diário da República, a sociedade e os utilizadores devem cumprir, com as adaptações resultantes do disposto na lei e no contrato de concessão, o regulamento de exploração do serviço público aplicável no sistema multimunicipal de saneamento do Grande Porto, criado pelo Decreto-Lei n.º 260/2000, de 17 de outubro, alterado pelo Decreto-Lei n.º 312/2009, de 27 de outubro, extinto pelo Decreto-Lei n.º 93/2015, de 29 de maio."
+  },
+  "920342072": {
+   "fragment_id": "920480499",
+   "type": 11,
+   "heading": "Artigo 56.º — Fundo de reconstituição do capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Fundo de reconstituição do capital social\n\nA sociedade encontra-se dispensada de manter quaisquer fundos de reconstituição do capital social, podendo dispor na sua atividade dos valores acumulados no fundo constituído pela sociedade extinta, que lhe são para o efeito transferidos, com exceção dos montantes que já tenham sido utilizados para a redução do endividamento da sociedade concessionária extinta."
+  },
+  "920342073": {
+   "fragment_id": "920480500",
+   "type": 11,
+   "heading": "Artigo 57.º — Primeira convocatória da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Primeira convocatória da assembleia geral\n\nConsidera-se convocada a assembleia geral da sociedade sem necessidade de cumprimento dos requisitos mencionados no artigo 17.º dos estatutos e na lei comercial, para o quinto dia posterior à data da entrada em vigor do presente decreto-lei, ou para o primeiro dia útil subsequente, às 16 horas, na sede da sociedade, com o objetivo de eleger os órgãos sociais da sociedade para o primeiro mandato que termina em 2019, aprovar o respetivo estatuto remuneratório e deliberar sobre as matérias previstas nas alíneas a) e b) do n.º 1 do artigo 38.º do Decreto-Lei n.º 133/2013, de 3 de outubro, em conjugação com o disposto no artigo 18.º do Decreto-Lei n.º 71/2007, de 27 de março, alterado e republicado pelo Decreto-Lei n.º 8/2012, de 18 de janeiro."
+  },
+  "920958744": {
+   "fragment_id": "158238415",
+   "type": 4,
+   "heading": "Parte IV — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte IV — Alterações legislativas"
+  },
+  "920342074": {
+   "fragment_id": "920480501",
+   "type": 11,
+   "heading": "Artigo 58.º — Alteração ao Decreto-Lei n.º 93/2015, de 29 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Alteração ao Decreto-Lei n.º 93/2015, de 29 de maio\n\nOs artigos 2.º, 12.º e 32.º do Decreto-Lei n.º 93/2015, de 29 de maio, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) No abastecimento de água e saneamento de águas residuais, os municípios de Alfândega da Fé, Alijó, Arcos de Valdevez, Armamar, Boticas, Bragança, Caminha, Celorico de Basto, Chaves, Esposende, Fafe, Freixo de Espada à Cinta, Lamego, Macedo de Cavaleiros, Melgaço, Mesão Frio, Mirandela, Mogadouro, Moimenta da Beira, Monção, Mondim de Basto, Montalegre, Murça, Paredes de Coura, Peso da Régua, Ponte da Barca, Ponte de Lima, Póvoa de Lanhoso, Póvoa de Varzim, Resende, Ribeira de Pena, Sabrosa, Santa Marta de Penaguião, Santo Tirso, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Torre de Moncorvo, Trofa, Valença, Valpaços, Viana do Castelo, Vieira do Minho, Vila do Conde, Vila Flor, Vila Nova de Cerveira, Vila Nova de Famalicão, Vila Nova de Foz Côa, Vila Pouca de Aguiar, Vila Real e Vinhais;\n\nb) No abastecimento de água, os municípios de Barcelos e Maia;\n\nc) No saneamento de águas residuais, os municípios de Amarante, Amares, Cabeceiras de Basto, Felgueiras, Guimarães, Lousada, Terras de Bouro, Vila Verde e Vizela.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\nArtigo 12.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - A sociedade pode, como forma de minimizar o impacto dos encargos financeiros nas tarifas e potenciar a diversificação das fontes de financiamento disponíveis, ceder, no todo ou em parte, a instituições de crédito ou sociedade financeira, o direito a receber, através de tarifas futuras, o montante correspondente aos desvios de recuperação de gastos de natureza deficitária, determinados com base no disposto no presente artigo.\n\nArtigo 32.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Se a AdP - Águas de Portugal, SGPS, S. A., ou os restantes acionistas da sociedade, não exercerem o direito de aquisição das participações sociais adquiridas aos municípios exonerantes, ou se, exercendo-o, não se verificar a concretização dessa aquisição, às ações adquiridas pela sociedade que não forem por ela alienadas nos termos do disposto nos números anteriores, é aplicável o regime das ações próprias previsto no artigo 324.º do Código das Sociedades Comerciais, não se aplicando quanto às mesmas o limite de tempo de detenção das ações previsto no artigo 323.º daquele diploma.»"
+  },
+  "920958745": {
+   "fragment_id": "158238416",
+   "type": 4,
+   "heading": "Parte V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte V — Disposições complementares, transitórias e finais"
+  },
+  "920504175": {
+   "fragment_id": "920480502",
+   "type": 11,
+   "heading": "Artigo 59.º — Sociedade agregada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Sociedade agregada\n\n1 - Em consequência das cisões operadas pelo presente decreto-lei, é correspondentemente reduzido o capital social da Águas do Norte, S. A., o qual, após redução também do capital relativo ao valor nominal das ações perdidas a favor da mesma nos termos do disposto no n.º 4 do artigo 285.º do Código das Sociedades Comerciais, passa a ser no montante de (euro) 111 061 732,00, integralmente subscrito, encontrando-se o montante de (euro) 99 448 895,50 já realizado, nos termos descritos no anexo VI ao presente decreto-lei, do qual faz parte integrante, e encontrando-se o remanescente, no montante de (euro) 11 612 836,50, por realizar.\n\n2 - O valor por realizar referido no número anterior é realizado nos termos previstos nos estatutos da Águas do Norte, S. A., publicados em anexo ao Decreto-Lei n.º 93/2015, de 29 de maio.\n\n3 - O novo capital social da Águas do Norte, S. A., de (euro) 111 061 732,00, é representado por 97.812.177 ações da categoria A, do valor nominal de (euro) 1,00 cada uma e por 13.249.555 ações da categoria C, com o valor nominal de (euro) 1,00 cada uma, de acordo com a repartição que consta do anexo VI ao presente decreto-lei.\n\n4 - O registo do novo capital social da Águas do Norte, S. A., é promovido com base na publicação do presente decreto-lei, sem necessidade de apresentação de qualquer outro documento.\n\n5 - O valor da CTA cobrado pela Águas do Douro e Paiva, S. A., aos seus utilizadores municipais, nos termos dos n.os 9 a 13 do artigo 12.º, constitui receita da Águas do Norte, S. A..\n\n6 - A Águas do Norte, S. A., fatura trimestralmente à Águas do Douro e Paiva, S. A., o valor por ela cobrado no trimestre anterior, relativo à CTA cobrada aos utilizadores municipais, sendo essa faturação enquadrada na alínea c) do n.º 6 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado.\n\n7 - Para os efeitos previstos no número anterior, a Águas do Douro e Paiva, S. A., deve comunicar à Águas do Norte, S. A., qual o valor cobrado, devendo a respetiva fatura ser paga no prazo de 30 dias.\n\n8 - Adicionalmente, e nos termos e montantes definidos no anexo VII ao presente decreto-lei, que dele faz parte integrante, são transferidas para a Águas do Norte, S. A., até ao dia 31 de março do ano a que respeitam, as receitas extraordinárias adicionais sob a forma de apoio do Fundo Ambiental, previstas na alínea c) do n.º 4 do artigo 7.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto."
+  },
+  "920504176": {
+   "fragment_id": "920480503",
+   "type": 11,
+   "heading": "Artigo 60.º — Partilha de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Partilha de recursos\n\nTendo em vista, nomeadamente, a eliminação ou redução de serviços duplicados e a minimização de recursos humanos e materiais, as sociedades devem proceder, na prossecução do respetivo objeto, à partilha desses recursos entre si ou com outras entidades gestoras de sistemas multimunicipais de água e saneamento, mediante faturação recíproca dos custos decorrentes dessa partilha."
+  },
+  "920504177": {
+   "fragment_id": "920480504",
+   "type": 11,
+   "heading": "Artigo 61.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Norma transitória\n\n1 - Os contratos de concessão a que se referem os artigos 11.º e 39.º são outorgados no prazo máximo de um mês a partir da data de entrada em vigor do presente decreto-lei, sendo os respetivos efeitos reportados a 1 de janeiro de 2017.\n\n2 - Mantém-se em vigor, com as necessárias adaptações e até ser revisto, o contrato de concessão da Águas do Norte, S. A., celebrado com o Estado no dia 30 de junho de 2015.\n\n3 - Sem prejuízo de a Águas do Norte, S. A., assegurar a exploração e gestão dos sistemas por conta das sociedades até à celebração dos contratos de concessão, estes podem ainda prever um período de transição operacional máximo de 90 dias, no decurso do qual, transitoriamente, a Águas do Norte, S. A., realiza a gestão dos sistemas por conta das sociedades, assegurando, nomeadamente a manutenção dos fornecimentos e serviços aos utilizadores dos sistemas, podendo cessar antecipadamente esse período transitório na data em que as administrações das sociedades comunicarem à Águas do Norte, S. A., estarem reunidas as condições operacionais necessárias para o início da gestão direta por parte das mesmas.\n\n4 - A assunção pela Águas do Norte, S. A., da gestão dos sistemas dá lugar ao reembolso pelas sociedades à Águas do Norte, S. A., dos custos efetivamente incorridos por esta com a gestão dos sistemas no período de transição operacional referido no número anterior."
+  },
+  "920504178": {
+   "fragment_id": "920480505",
+   "type": 11,
+   "heading": "Artigo 62.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor 10 dias após a data da sua publicação.\n\n2 - As sociedades consideram-se constituídas na data prevista no número anterior, considerando-se igualmente efetiva a cisão do sistema nessa data, sem prejuízo do disposto no n.º 2 do artigo 4.º e no n.º 2 do artigo 32.º\n\n3 - Sem prejuízo da obrigação do pagamento das tarifas definidas no despacho emitido ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 72/2016, de 4 de novembro, aos utilizadores da Águas do Norte, S. A., que se integrem no âmbito dos sistemas criados pelo presente decreto-lei, aplica-se o regime definido no presente decreto-lei e nos contratos de concessão, com efeitos a partir de 1 de janeiro de 2017, designadamente no que respeita às tarifas e CTA, e neste último caso, quando aplicável."
+  },
+  "920958746": {
+   "fragment_id": "158238417",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 17 de janeiro de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 18 de janeiro de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "920958747": {
+   "fragment_id": "158238420",
+   "type": 14,
+   "heading": "Anexo I — Acionistas, capital subscrito e realizado e categoria das ações Águas do Douro e Paiva, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Acionistas, capital subscrito e realizado e categoria das ações Águas do Douro e Paiva, S. A.\n\n(a que se referem os artigos 7.º e 8.º)\n\n(ver documento original)"
+  },
+  "920958748": {
+   "fragment_id": "158238422",
+   "type": 14,
+   "heading": "Anexo II — ESTATUTOS DA ÁGUAS DO DOURO E PAIVA, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — ESTATUTOS DA ÁGUAS DO DOURO E PAIVA, S. A.\n\n(a que se refere o artigo 9.º)\n\nCAPÍTULO I\n\nDenominação, duração e sede\n\nArtigo 1.º\n\nDenominação e duração\n\nA sociedade adota a denominação de Águas do Douro e Paiva, S. A., e dura por tempo indeterminado.\n\nArtigo 2.º\n\nSede\n\n1 - A sede social da sociedade é no Edifício Scala, sito na Rua de Vilar, n.º 235, 5.º andar, 4050-626, na União das Freguesias de Lordelo do Ouro e Massarelos, do concelho do Porto.\n\n2 - Por deliberação do conselho de administração, a sociedade pode criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, podendo a sede social ser mudada para outro local sito no território de qualquer um dos municípios acionistas.\n\nCAPÍTULO II\n\nObjeto\n\nArtigo 3.º\n\nObjeto social\n\n1 - A sociedade tem por objeto social a exploração e gestão do sistema multimunicipal de abastecimento de água do sul do Grande Porto, em regime de exclusivo.\n\n2 - A exploração e a gestão referidas no número anterior incluem o projeto, a construção, a extensão, a conservação, a reparação, a renovação, a manutenção e a melhoria das obras e das infraestruturas, e a aquisição dos equipamentos e das instalações necessários para o desenvolvimento da atividade prevista no número anterior.\n\n3 - A sociedade pode, nos termos previstos na lei, exercer outras atividades para além das previstas nos números anteriores, que sejam consideradas acessórias ou complementares daquelas.\n\n4 - No caso das atividades habilitadas pelo artigo 5.º do Decreto-Lei n.º 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, a autorização aí prevista é ainda precedida de parecer obrigatório da entidade reguladora do setor.\n\nArtigo 4.º\n\nParticipação em outras sociedades\n\nA sociedade pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objeto similar ou complementar do seu, desde que previamente autorizada por escrito pelo concedente.\n\nCAPÍTULO III\n\nCapital social, ações e obrigações\n\nArtigo 5.º\n\nCapital social\n\nO capital social da sociedade é de (euro) 20 902 500,00, integralmente subscrito e realizado.\n\nArtigo 6.º\n\nAções\n\n1 - O capital social é representado por 20.902.500 ações da categoria A, do valor nominal de (euro) 1,00 cada uma, de acordo com a repartição que consta do anexo I ao decreto-lei que aprova os presentes estatutos.\n\n2 - Independentemente da percentagem de capital representado por cada uma das categorias de ações, as diferenças entre as categorias de ações, para além das que decorrem do artigo 8.º, são as seguintes:\n\na) As ações da categoria A devem representar, sempre e pelo menos, 51 % do capital social com direito a voto;\n\nb) As ações da categoria A apenas podem ter como titulares entes públicos, na aceção da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de maio, e municípios utilizadores do sistema ou entidades de natureza intermunicipal onde aqueles participem;\n\nc) Sem prejuízo do disposto na alínea a), as ações da categoria A podem ser convertidas em ações da categoria B e as ações da categoria B podem ser convertidas em ações da categoria A, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral, aprovada por dois terços dos votos emitidos.\n\n3 - A transmissão de ações em violação do disposto no número anterior é nula.\n\n4 - As ações da categoria A são nominativas e assumem exclusivamente a forma escritural.\n\n5 - As ações da categoria B são nominativas e assumem a forma escritural, podendo no entanto ser convertidas em ações ao portador, a pedido do acionista e mediante deliberação da assembleia geral.\n\n6 - A alienação de ações pela sociedade, nos termos do n.º 4 do artigo 286.º do Código das Sociedades Comerciais, dispensa a tramitação prevista na parte final dessa norma, e, se for efetuada a acionistas da sociedade, dispensa ainda a sociedade da publicação da perda de ações a favor da mesma, prevista na segunda parte do n.º 5 do artigo 285.º daquele diploma.\n\nArtigo 7.º\n\nAumento de capital social\n\n1 - A sociedade pode deliberar aumentos de capital social sem dependência da completa realização de capital social.\n\n2 - Os aumentos de capital social são realizados através da emissão de ações da categoria A, isoladamente ou em conjunto com ações da categoria B, devendo as ações da categoria A representar sempre e pelo menos 51 % do capital social com direito a voto.\n\n3 - A subscrição de ações da categoria A é reservada aos acionistas titulares de ações do mesmo tipo, nos termos do artigo anterior.\n\n4 - Os acionistas titulares de ações da categoria A têm direito a subscrever um número de ações dessa categoria proporcional ao número de ações da mesma categoria de que já sejam titulares.\n\n5 - Caso as ações da categoria A possam, pela ocorrência de qualquer facto, designadamente qualquer das situações referidas no n.º 1 do artigo 9.º, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 1 do presente artigo, a sociedade deve realizar imediatamente um aumento de capital social por emissão de ações da categoria A, de forma a garantir o cumprimento daquela percentagem.\n\n6 - As deliberações de aumento de capital devem prever para os acionistas preferentes um prazo de realização das entradas não inferior a 60 dias.\n\n7 - Se algum dos acionistas da categoria A não exercer o direito previsto no n.º 3, podem as ações ser subscritas por qualquer um dos outros acionistas da mesma categoria de ações.\n\n8 - No caso previsto no número anterior, se mais do que um acionista quiser subscrever as ações, estas são rateadas na proporção das ações que estes já possuam.\n\nArtigo 8.º\n\nTransmissão de ações\n\n1 - As ações da categoria A apenas podem ser transmitidas a favor dos demais acionistas da mesma categoria de ações, a favor das entidades referidas na alínea b) do n.º 2 do artigo 6.º, e, sem prejuízo do aí disposto, para sociedades que resultem de fusão ou cisão de uma sociedade detentora dessa categoria de ações.\n\n2 - A transmissão de ações em violação do disposto no número anterior é nula.\n\n3 - A transmissão das ações da categoria A, bem como de ações nominativas da categoria B, depende do consentimento da assembleia geral da sociedade.\n\n4 - A oneração de ações da categoria A fica sujeita ao consentimento da assembleia geral da sociedade.\n\n5 - Existe direito de preferência na transmissão de ações da categoria A a favor dos acionistas titulares da mesma categoria de ações, exceto se a transmissão for realizada a favor de algum município.\n\n6 - Os acionistas titulares de ações da categoria A têm direito de preferência na alienação de ações nominativas da categoria B.\n\n7 - Qualquer acionista que pretenda transmitir ações deve pedir o consentimento escrito à sociedade, mediante carta registada com aviso de receção, identificando o previsto adquirente e indicando as contrapartidas oferecidas e a respetiva valoração, bem como as demais condições da projetada transmissão.\n\n8 - A sociedade deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de receção da carta mencionada no número anterior.\n\n9 - Se a sociedade não se pronunciar dentro do prazo referido no número anterior, é livre a transmissão das ações, sem prejuízo do direito de preferência dos outros acionistas regulado no presente artigo.\n\n10 - A sociedade pode recusar o pedido de consentimento com fundamento em qualquer interesse relevante da sociedade, devidamente indicado em deliberação fundamentada.\n\n11 - No caso de recusar licitamente o consentimento, a sociedade fica obrigada a fazer adquirir as ações por outra pessoa, nas mesmas condições de preço e pagamento do consentimento solicitado.\n\n12 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a sociedade que naquele negócio houve simulação de preço, a aquisição far-se-á pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.\n\n13 - Caso a sociedade consinta ou não se pronuncie sobre o pedido de consentimento dentro do prazo referido no n.º 8, esta comunica a todos os acionistas titulares do direito de preferência na transmissão das ações em causa a informação recebida, tendo estes um prazo de 30 dias a contar da sua receção para declararem se exercem o direito de preferência na aquisição das ações.\n\n14 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.\n\n15 - Não se aplica a necessidade de consentimento nem o direito de preferência previsto neste artigo no caso da transmissão de ações das categorias A e B pelos municípios para entidades de cariz intermunicipal, empresas municipais ou intermunicipais, compostas ou detidas exclusivamente por municípios utilizadores do sistema multimunicipal de abastecimento de água do sul do Grande Porto.\n\nArtigo 9.º\n\nAmortização de ações\n\n1 - Mediante deliberação dos acionistas, a sociedade pode amortizar quaisquer ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente, apreendidas no âmbito de qualquer ação judicial ou que estiverem em condições de ser transmitidas judicialmente.\n\n2 - No caso de amortização de ações nos termos do número anterior, o montante da contrapartida da amortização é o que resultar da deliberação dos acionistas relativa à amortização, que toma em consideração a situação líquida da sociedade resultante do último balanço aprovado.\n\nArtigo 10.º\n\nEmissão de obrigações\n\n1 - Podem ser emitidas obrigações em qualquer das modalidades admitidas por lei.\n\n2 - Os títulos das obrigações emitidas pela sociedade são assinados por dois administradores, podendo as assinaturas ser de chancela por eles autorizada.\n\nArtigo 11.º\n\nAcordos parassociais\n\nOs acordos parassociais respeitantes à sociedade devem ser comunicados na íntegra ao conselho de administração nos 30 dias posteriores à sua celebração, pelos acionistas que os tenham subscrito.\n\nCAPÍTULO IV\n\nÓrgãos sociais\n\nSECÇÃO I\n\nDisposições gerais\n\nArtigo 12.º\n\nÓrgãos sociais e eleição dos seus membros\n\n1 - São órgãos sociais da Águas do Douro e Paiva, S. A.:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O conselho fiscal;\n\nd) O revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n2 - O conselho de administração designa o secretário da sociedade e o suplente deste.\n\n3 - As eleições dos membros de cada órgão social são efetuadas com base em listas, incidindo o voto exclusivamente sobre estas.\n\nArtigo 13.º\n\nRegras especiais de eleição\n\n1 - Uma minoria de acionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, desde que essa minoria represente pelo menos 10 % do capital social.\n\n2 - No caso de o conselho de administração ser composto por pelo menos cinco administradores, se a minoria prevista no número anterior representar, pelo menos, 49 % do capital social, esta tem direito a designar um administrador para além do administrador eleito ao abrigo do número anterior.\n\nSECÇÃO II\n\nAssembleia geral\n\nArtigo 14.º\n\nParticipação e representação na assembleia geral\n\n1 - Os acionistas com direito de voto podem participar nas assembleias gerais, desde que as suas ações estejam registadas ou, no caso de ações ao portador não registadas, desde que estejam depositadas numa instituição de crédito ou na sociedade até ao décimo dia anterior àquele em que a assembleia geral deva reunir, em primeira convocação.\n\n2 - A representação de acionistas em assembleia geral pode fazer-se por qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida pelo acionista ao presidente da mesa da assembleia geral, que pode ser enviada por via postal, eletrónica ou por telecópia, sendo válida apenas para a assembleia geral em causa.\n\nArtigo 15.º\n\nMesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.\n\n2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer atos previstos na lei, nos presentes estatutos ou em deliberação dos acionistas.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.\n\nArtigo 16.º\n\nReuniões da assembleia geral\n\n1 - A assembleia geral é composta por todos os acionistas com direito de voto.\n\n2 - A assembleia geral reúne no prazo estabelecido no n.º 1 do artigo 376.º do Código das Sociedades Comerciais.\n\n3 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o conselho fiscal, ou ainda os acionistas que representem pelo menos 5 % do capital social.\n\n4 - O requerimento referido no número anterior deve ser feito por escrito e dirigido ao presidente da mesa da assembleia geral, justificando a necessidade da reunião da assembleia e indicando com precisão os assuntos a incluir na ordem do dia.\n\nArtigo 17.º\n\nConvocação da assembleia geral\n\n1 - As reuniões da assembleia geral são convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efetuada por carta registada em substituição da publicação da convocatória, em relação a todas as ações nominativas da sociedade.\n\n2 - A assembleia geral pode deliberar em primeira convocação desde que estejam presentes ou representados acionistas que detenham mais de metade do capital social.\n\n3 - Na convocatória pode fixar-se uma data alternativa para a reunião da assembleia geral, caso a mesma não possa reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar um período não inferior a 15 dias.\n\nArtigo 18.º\n\nCompetência da assembleia geral\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuam competência, bem como sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.\n\n2 - Compete, nomeadamente, à assembleia geral:\n\na) Deliberar sobre o relatório de gestão e as contas de exercício apresentadas pelo conselho de administração;\n\nb) Deliberar sobre a proposta de aplicação de resultados;\n\nc) Apreciar a gestão e a fiscalização da sociedade;\n\nd) Deliberar sobre o plano de atividades e orçamento e suas eventuais alterações, nos termos legais e contratuais previstos;\n\ne) Eleger os membros dos órgãos sociais;\n\nf) Deliberar sobre a emissão de obrigações;\n\ng) Deliberar sobre o aumento e redução de capital;\n\nh) Deliberar sobre quaisquer alterações dos estatutos;\n\ni) Fixar as remunerações dos órgãos sociais da sociedade, ou nomear uma comissão de vencimentos com o encargo de fixar a remuneração dos membros dos órgãos sociais;\n\nj) Deliberar sobre a conversão das ações da categoria A em ações da categoria B e das ações da categoria B em ações da categoria A;\n\nk) Deliberar sobre qualquer outro assunto para o qual tenha sido convocada.\n\nArtigo 19.º\n\nDeliberações da assembleia geral\n\n1 - As deliberações da assembleia geral são tomadas por maioria dos votos emitidos, seja qual for a percentagem do capital social nela representado, salvo disposição em contrário prevista na lei ou nos presentes estatutos.\n\n2 - A cada ação corresponde um voto.\n\n3 - A alteração dos estatutos da sociedade, quer por modificação quer por eliminação de algum dos seus artigos, só é válida quando aprovada por acionistas que detenham, pelo menos, ações correspondentes a mais de metade do capital social, quer a assembleia reúna em primeira ou segunda convocação, e qualquer que seja o número de acionistas presente ou representado em qualquer delas.\n\n4 - As deliberações sobre fusão, cisão ou transformação da sociedade devem ser aprovadas por dois terços dos votos emitidos, quer a assembleia reúna em primeira ou segunda convocação, e qualquer que seja o número de acionistas presente ou representado em qualquer delas.\n\n5 - As deliberações sobre conversão das ações da categoria A em ações da categoria B e das ações da categoria B em ações da categoria A devem ser aprovadas por dois terços dos votos emitidos.\n\n6 - Deve ser lavrada uma ata de cada reunião da assembleia geral, a qual deve ser redigida e assinada pelo presidente e pelo secretário.\n\n7 - A lista de acionistas presentes em cada assembleia é organizada pelo presidente da mesa e deve ser rubricada pelos acionistas ou representantes destes, sendo depois arquivada na sede social com referência à ata a que respeita.\n\nSECÇÃO III\n\nAdministração da sociedade\n\nArtigo 20.º\n\nConselho de administração\n\n1 - A administração da sociedade é exercida por um conselho de administração, composto por um número de membros entre o mínimo de cinco e um máximo de sete, a ser fixado pela assembleia geral que os eleger.\n\n2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade.\n\n3 - O presidente do conselho de administração pode designar um vice-presidente, que o substitui nas suas faltas e impedimentos.\n\nArtigo 21.º\n\nCompetência do conselho de administração\n\nO conselho de administração tem os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos acionistas.\n\nArtigo 22.º\n\nDelegação de poderes de gestão\n\n1 - O conselho de administração pode delegar em um ou dois administradores delegados, ou numa comissão executiva composta por três a cinco administradores, a gestão corrente da sociedade.\n\n2 - No caso de o conselho de administração delegar a gestão da sociedade numa comissão executiva, deve igualmente eleger, de entre os seus membros, o respetivo presidente, que tem voto de qualidade.\n\n3 - Nas situações previstas no número anterior, compete ao conselho de administração fixar os limites dessa delegação.\n\nArtigo 23.º\n\nVinculação da sociedade\n\n1 - A sociedade obriga-se perante terceiros:\n\na) Pela assinatura conjunta de dois administradores, um dos quais pertencente à comissão executiva, quando esta exista;\n\nb) Pela assinatura do administrador delegado ou em conjunto pelos administradores-delegados, quando existam, dentro dos limites da delegação dos poderes de gestão;\n\nc) Pela assinatura de um ou mais procuradores quanto aos atos ou categorias de atos definidos nas correspondentes procurações.\n\n2 - Nos documentos de mero expediente, bem como em endosso de letras, recibos, cheques ou quaisquer outros documentos, cujo produto de desconto ou de cobrança se destine a ser creditado em conta da sociedade aberta em qualquer instituição financeira, basta a assinatura de um administrador ou de quem para tanto for mandatado, até ao limite que for fixado pelo conselho de administração.\n\n3 - O conselho de administração pode deliberar que certos documentos da sociedade sejam assinados por processos mecânicos ou por chancela.\n\nArtigo 24.º\n\nReuniões do conselho de administração\n\n1 - O conselho de administração reúne sempre que convocado pelo presidente, ou por quem o substitua, bem como a pedido de pelo menos dois administradores.\n\n2 - Independentemente do disposto no número anterior, o conselho de administração reúne pelo menos uma vez por mês, independentemente de existir ou não comissão executiva.\n\n3 - Os membros do conselho de administração são convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada, ou se tratar de reuniões com periodicidade fixa do conhecimento de todos os administradores, caso em que é dispensada a convocatória.\n\nArtigo 25.º\n\nDeliberações do conselho de administração\n\n1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos respetivos votos.\n\n2 - Qualquer administrador pode fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, que pode ser enviada por via postal, eletrónica ou por telecópia, sendo válida apenas para uma reunião.\n\n3 - Qualquer administrador pode votar por correspondência, podendo a respetiva carta ser enviada por via postal, eletrónica ou por telecópia, dirigida ao presidente, com uma antecedência mínima de cinco dias da data da reunião.\n\n4 - As reuniões do conselho de administração podem realizar-se através de meios telemáticos, nos termos previstos na lei.\n\n5 - Qualquer administrador que não possa estar presente na reunião pode, em caso de deliberação fundamentadamente considerada urgente pelo presidente, expressar o seu voto sem a antecedência mínima referida no n.º 3, dirigindo-o ao presidente por via postal, eletrónica ou por telecópia.\n\n6 - As faltas seguidas ou interpoladas de qualquer administrador a mais de metade das reuniões ordinárias do conselho de administração realizadas durante um ano civil, sem a apresentação de qualquer justificação ou sem que as respetivas justificações sejam por aquele aceites, constituem uma falta definitiva do respetivo administrador.\n\n7 - A falta definitiva, tal como estabelecida no número anterior, deve ser declarada pelo conselho de administração, e conduz à substituição do administrador em causa nos termos da lei.\n\nSECÇÃO IV\n\nFiscalização da sociedade\n\nArtigo 26.º\n\nÓrgão de fiscalização\n\n1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas, ou sociedade de revisores oficiais de contas, que não sejam membros daquele órgão.\n\n2 - O conselho fiscal é composto por três membros efetivos e por um suplente, nomeados em assembleia geral, que nomeia igualmente o presidente.\n\n3 - O revisor oficial de contas, ou a sociedade de revisores oficiais de contas, é nomeado pela assembleia geral, sob proposta do conselho fiscal.\n\nSECÇÃO V\n\nSecretário da sociedade\n\nArtigo 27.º\n\nSecretário da sociedade\n\n1 - A sociedade tem um secretário e um suplente deste, designados pelo conselho de administração, com as competências estabelecidas na lei para o secretário da sociedade.\n\n2 - As funções do secretário cessam com o termo das funções do conselho de administração que o designou, podendo ser reconduzido, nos termos do número anterior.\n\nSECÇÃO VI\n\nComissão de vencimentos da sociedade\n\nArtigo 28.º\n\nComissão de vencimentos\n\nSem prejuízo das competências da assembleia geral, as remunerações dos membros dos órgãos sociais podem ser fixadas por uma comissão eleita pelos acionistas em assembleia geral.\n\nSECÇÃO VII\n\nMandato dos órgãos sociais da sociedade\n\nArtigo 29.º\n\nMandato dos órgãos sociais\n\n1 - Os membros dos órgãos sociais da sociedade são eleitos de três em três anos, sendo permitida a sua reeleição, uma ou mais vezes, para os mencionados cargos, com o limite previsto no artigo 15.º do Decreto-Lei n.º 71/2007, de 27 de março, alterado e republicado pelo Decreto-Lei n.º 8/2012, de 18 de janeiro.\n\n2 - Os membros dos corpos sociais exercem o respetivo mandato até que os novos membros eleitos iniciem o exercício dos respetivos cargos, sem prejuízo das disposições legais aplicáveis à renúncia e ao impedimento, temporário ou definitivo, no decurso do mandato.\n\nCAPÍTULO V\n\nDisposições finais\n\nArtigo 30.º\n\nAno social e resultados\n\n1 - O ano social coincide com o ano civil.\n\n2 - Os lucros da sociedade, anualmente apurados, têm a seguinte aplicação:\n\na) Cobertura de prejuízos de exercícios anteriores;\n\nb) Constituição ou reintegração da reserva legal;\n\nc) Distribuição de dividendos aos acionistas, nos termos deliberados pela assembleia geral e de acordo com o previsto no artigo 8.º do decreto-lei que aprova os presentes estatutos.\n\nArtigo 31.º\n\nDissolução e liquidação\n\n1 - A sociedade dissolve-se apenas por força e nos termos do diploma legal que opere a sua extinção.\n\n2 - Dissolvida a sociedade, proceder-se-á extrajudicialmente à respetiva liquidação e, salvo deliberação em contrário, são liquidatários os membros do conselho de administração em funções."
+  },
+  "920958749": {
+   "fragment_id": "158238423",
+   "type": 14,
+   "heading": "Anexo III — Componente tarifária acrescida (CTA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Componente tarifária acrescida (CTA)\n\n(a que se referem o n.º 9 do artigo 12.º e o n.º 5 do artigo 59.º)\n\n(ver documento original)\n\n(1) Após 2021, a CTA será determinada pela entidade reguladora do setor, nos termos da lei, devendo ser considerados os apoios atribuídos pelo Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, à Águas do Norte, S. A.\n\n(2) Após o cálculo da CTA, a tarifa da Águas do Norte é calculada tendo em consideração o total das receitas esperadas em sede de CTA, bem como os apoios atribuídos pelo Fundo Ambiental."
+  },
+  "920958750": {
+   "fragment_id": "158238424",
+   "type": 14,
+   "heading": "Anexo IV — Acionistas, capital subscrito e realizado e categoria das ações SIMDOURO - Saneamento do Grande Porto, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Acionistas, capital subscrito e realizado e categoria das ações SIMDOURO - Saneamento do Grande Porto, S. A.\n\n(a que se referem o n.º 1 do artigo 35.º e o n.º 1 do artigo 36.º)\n\n(ver documento original)"
+  },
+  "920958751": {
+   "fragment_id": "158238425",
+   "type": 14,
+   "heading": "Anexo V — ESTATUTOS DA SIMDOURO - SANEAMENTO DO GRANDE PORTO, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — ESTATUTOS DA SIMDOURO - SANEAMENTO DO GRANDE PORTO, S. A.\n\n(a que se refere o artigo 37.º)\n\nCAPÍTULO I\n\nDenominação, duração e sede\n\nArtigo 1.º\n\nDenominação e duração\n\nA sociedade adota a denominação de SIMDOURO - Saneamento do Grande Porto, S. A., e dura por tempo indeterminado.\n\nArtigo 2.º\n\nSede\n\n1 - A sede social da sociedade é na Estação de Tratamento de Águas de Lever, sita na Rua do Ribeirinho, 706, 4415-679, em Lever, na União das Freguesias de Sandim, Olival, Lever e Crestuma, do concelho de Vila Nova de Gaia.\n\n2 - Por deliberação do conselho de administração, a sociedade pode criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, podendo a sede social ser mudada para outro local sito no território de qualquer um dos municípios acionistas.\n\nCAPÍTULO II\n\nObjeto\n\nArtigo 3.º\n\nObjeto social\n\n1 - A sociedade tem por objeto social a exploração e gestão do sistema multimunicipal de saneamento do Grande Porto, em regime de exclusivo.\n\n2 - A exploração e a gestão referidas no número anterior incluem o projeto, a construção, a extensão, a conservação, a reparação, a renovação, a manutenção e a melhoria das obras e das infraestruturas, e a aquisição dos equipamentos e das instalações necessários para o desenvolvimento da atividade prevista no número anterior.\n\n3 - A sociedade pode, nos termos previstos na lei, exercer outras atividades para além das previstas nos números anteriores, que sejam consideradas acessórias ou complementares daquelas.\n\n4 - No caso das atividades habilitadas pelo artigo 5.º do Decreto-Lei n.º 92/2013, de 11 de julho, alterado pelo Decreto-Lei n.º 72/2016, de 4 de novembro, a autorização aí prevista é ainda precedida de parecer obrigatório da entidade reguladora do setor.\n\nArtigo 4.º\n\nParticipação em outras sociedades\n\nA sociedade pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objeto similar ou complementar do seu, desde que previamente autorizada por escrito pelo concedente.\n\nCAPÍTULO III\n\nCapital social, ações e obrigações\n\nArtigo 5.º\n\nCapital social\n\nO capital social da sociedade é de (euro) 20 046 075,00, integralmente subscrito e realizado.\n\nArtigo 6.º\n\nAções\n\n1 - O capital social é representado por 20.046.075 ações da categoria A, do valor nominal de (euro) 1,00 cada uma, de acordo com a repartição que consta do anexo IV ao decreto-lei que aprova os presentes estatutos.\n\n2 - Independentemente da percentagem de capital representado por cada uma das categorias de ações, as diferenças entre as categorias de ações, para além das que decorrem do artigo 8.º, são as seguintes:\n\na) As ações da categoria A devem representar, sempre e pelo menos, 51 % do capital social com direito a voto;\n\nb) As ações da categoria A apenas podem ter como titulares entes públicos, na aceção da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de maio, e municípios utilizadores do sistema ou entidades de natureza intermunicipal onde aqueles participem;\n\nc) Sem prejuízo do disposto na alínea a), as ações da categoria A podem ser convertidas em ações da categoria B e as ações da categoria B podem ser convertidas em ações da categoria A, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral da sociedade, aprovada por dois terços dos votos emitidos.\n\n3 - A transmissão de ações em violação do disposto no número anterior é nula.\n\n4 - As ações da categoria A são nominativas e assumem exclusivamente a forma escritural.\n\n5 - As ações da categoria B são nominativas e assumem a forma escritural, podendo no entanto ser convertidas em ações ao portador, a pedido do acionista e mediante deliberação da assembleia geral.\n\n6 - A alienação de ações pela sociedade, nos termos do n.º 4 do artigo 286.º do Código das Sociedades Comerciais dispensa, a tramitação prevista na parte final dessa norma, e, se for efetuada a acionistas da sociedade, dispensa ainda a sociedade da publicação da perda de ações a favor da mesma, prevista na segunda parte do n.º 5 do artigo 285.º daquele diploma.\n\nArtigo 7.º\n\nAumento de capital social\n\n1 - A sociedade pode deliberar aumentos de capital social sem dependência da completa realização de capital social.\n\n2 - Os aumentos de capital social são realizados através da emissão de ações da categoria A, isoladamente ou em conjunto com ações da categoria B, devendo as ações da categoria A representar sempre e pelo menos 51 % do capital social com direito a voto.\n\n3 - A subscrição de ações da categoria A é reservada aos acionistas titulares de ações do mesmo tipo, nos termos do artigo anterior.\n\n4 - Os acionistas titulares de ações da categoria A têm direito a subscrever um número de ações dessa categoria proporcional ao número de ações da mesma categoria de que já sejam titulares.\n\n5 - Caso as ações da categoria A possam, pela ocorrência de qualquer facto, designadamente qualquer das situações referidas no n.º 1 do artigo 9.º, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 1 do presente artigo, a sociedade deve realizar imediatamente um aumento de capital social por emissão de ações da categoria A, de forma a garantir o cumprimento daquela percentagem.\n\n6 - As deliberações de aumento de capital devem prever para os acionistas preferentes um prazo de realização das entradas não inferior a 60 dias.\n\n7 - Se algum dos acionistas da categoria A não exercer o direito previsto no n.º 3, podem as ações ser subscritas por qualquer um dos outros acionistas da mesma categoria de ações.\n\n8 - No caso previsto no número anterior, se mais do que um acionista quiser subscrever as ações, estas são rateadas na proporção das ações que estes já possuam.\n\nArtigo 8.º\n\nTransmissão de ações\n\n1 - As ações da categoria A apenas podem ser transmitidas a favor dos demais acionistas da mesma categoria de ações, e a favor das entidades referidas na alínea b) do n.º 2 do artigo 6.º, e, sem prejuízo do aí disposto, para sociedades que resultem de fusão ou cisão de uma sociedade detentora dessa categoria de ações.\n\n2 - A transmissão de ações em violação do disposto no número anterior é nula.\n\n3 - A transmissão das ações da categoria A, bem como de ações nominativas da categoria B, depende do consentimento da assembleia geral da sociedade.\n\n4 - A oneração de ações da categoria A fica sujeita ao consentimento da assembleia geral da sociedade.\n\n5 - Existe direito de preferência na transmissão de ações da categoria A a favor dos acionistas titulares da mesma categoria de ações, exceto se a transmissão for realizada a favor de algum município.\n\n6 - Os acionistas titulares de ações da categoria A têm direito de preferência na alienação de ações nominativas da categoria B.\n\n7 - Qualquer acionista que pretenda transmitir ações deve pedir o consentimento escrito à sociedade, mediante carta registada com aviso de receção, identificando o previsto adquirente e indicando as contrapartidas oferecidas e a respetiva valoração, bem como as demais condições da projetada transmissão.\n\n8 - A sociedade deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de receção da carta mencionada no número anterior.\n\n9 - Se a sociedade não se pronunciar dentro do prazo referido no número anterior, é livre a transmissão das ações, sem prejuízo do direito de preferência dos outros acionistas regulado no presente artigo.\n\n10 - A sociedade pode recusar o pedido de consentimento com fundamento em qualquer interesse relevante da sociedade, devidamente indicado em deliberação fundamentada.\n\n11 - No caso de recusar licitamente o consentimento, a sociedade fica obrigada a fazer adquirir as ações por outra pessoa, nas mesmas condições de preço e pagamento do consentimento solicitado.\n\n12 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a sociedade que naquele negócio houve simulação de preço, a aquisição far-se-á pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.\n\n13 - Caso a sociedade consinta ou não se pronuncie sobre o pedido de consentimento dentro do prazo referido no n.º 8, esta comunica a todos os acionistas titulares do direito de preferência na transmissão das ações em causa a informação recebida, tendo estes um prazo de 30 dias a contar da sua receção para declararem se exercem o direito de preferência na aquisição das ações.\n\n14 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.\n\n15 - Não se aplica a necessidade de consentimento nem o direito de preferência previsto neste artigo no caso da transmissão de ações das categorias A e B pelos municípios para entidades de cariz intermunicipal, empresas municipais ou intermunicipais, compostas ou detidas exclusivamente por municípios utilizadores do sistema multimunicipal de saneamento do Grande Porto.\n\nArtigo 9.º\n\nAmortização de ações\n\n1 - Mediante deliberação dos acionistas, a sociedade pode amortizar quaisquer ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente, apreendidas no âmbito de qualquer ação judicial ou que estiverem em condições de ser transmitidas judicialmente.\n\n2 - No caso de amortização de ações nos termos do número anterior, o montante da contrapartida da amortização é o que resultar da deliberação dos acionistas relativa à amortização, que toma em consideração a situação líquida da sociedade resultante do último balanço aprovado.\n\nArtigo 10.º\n\nEmissão de obrigações\n\n1 - Podem ser emitidas obrigações em qualquer das modalidades admitidas por lei.\n\n2 - Os títulos das obrigações emitidas pela sociedade são assinados por dois administradores, podendo as assinaturas ser de chancela por eles autorizada.\n\nArtigo 11.º\n\nAcordos parassociais\n\nOs acordos parassociais respeitantes à sociedade devem ser comunicados na íntegra ao conselho de administração nos trinta dias posteriores à sua celebração, pelos acionistas que os tenham subscrito.\n\nCAPÍTULO IV\n\nÓrgãos sociais\n\nSECÇÃO I\n\nDisposições gerais\n\nArtigo 12.º\n\nÓrgãos sociais e eleição dos seus membros\n\n1 - São órgãos sociais da SIMDOURO - Saneamento do Grande Porto, S. A.:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O conselho fiscal;\n\nd) O revisor oficial de contas, ou sociedade de revisores oficiais de contas.\n\n2 - O conselho de administração designa o secretário da sociedade e o suplente deste.\n\n3 - As eleições dos membros de cada órgão social são efetuadas com base em listas, incidindo o voto exclusivamente sobre estas.\n\nArtigo 13.º\n\nRegras especiais de eleição\n\n1 - Uma minoria de acionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, desde que essa minoria represente pelo menos 10 % do capital social.\n\n2 - No caso de o conselho de administração ser composto por, pelo menos, cinco administradores, se a minoria prevista no número anterior representar, pelo menos, 49 % do capital social, esta tem direito a designar um administrador para além do administrador eleito ao abrigo do número anterior.\n\nSECÇÃO II\n\nAssembleia geral\n\nArtigo 14.º\n\nParticipação e representação na assembleia geral\n\n1 - Os acionistas com direito de voto podem participar nas assembleias gerais, desde que as suas ações estejam registadas ou, no caso de ações ao portador não registadas, desde que estejam depositadas numa instituição de crédito ou na sociedade até ao décimo dia anterior àquele em que a assembleia geral deva reunir, em primeira convocação.\n\n2 - A representação de acionistas em assembleia geral pode fazer-se por qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida pelo acionista ao presidente da mesa da assembleia geral, que pode ser enviada por via postal, eletrónica ou por telecópia, sendo válida apenas para a assembleia geral em causa.\n\nArtigo 15.º\n\nMesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.\n\n2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer atos previstos na lei, nos presentes estatutos ou em deliberação dos acionistas.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.\n\nArtigo 16.º\n\nReuniões da assembleia geral\n\n1 - A assembleia geral é composta por todos os acionistas com direito de voto.\n\n2 - A assembleia geral reúne no prazo estabelecido no n.º 1 do artigo 376.º do Código das Sociedades Comerciais.\n\n3 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o conselho fiscal, ou ainda os acionistas que representem pelo menos 5 % do capital social.\n\n4 - O requerimento referido no número anterior deve ser feito por escrito e dirigido ao presidente da mesa da assembleia geral, justificando a necessidade da reunião da assembleia e indicando com precisão os assuntos a incluir na ordem do dia.\n\nArtigo 17.º\n\nConvocação da assembleia geral\n\n1 - As reuniões da assembleia geral são convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efetuada por carta registada em substituição da publicação da convocatória, em relação a todas as ações nominativas da sociedade.\n\n2 - A assembleia geral pode deliberar em primeira convocação desde que estejam presentes ou representados acionistas que detenham mais de metade do capital social.\n\n3 - Na convocatória pode fixar-se uma data alternativa para a reunião da assembleia geral, caso a mesma não possa reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar um período não inferior a 15 dias.\n\nArtigo 18.º\n\nCompetência da assembleia geral\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuam competência, bem como sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.\n\n2 - Compete, nomeadamente, à assembleia geral:\n\na) Deliberar sobre o relatório de gestão e as contas de exercício apresentadas pelo conselho de administração;\n\nb) Deliberar sobre a proposta de aplicação de resultados;\n\nc) Apreciar a gestão e a fiscalização da sociedade;\n\nd) Deliberar sobre o plano de atividades e orçamento e suas eventuais alterações, nos termos legais e contratuais previstos;\n\ne) Eleger os membros dos órgãos sociais;\n\nf) Deliberar sobre a emissão de obrigações;\n\ng) Deliberar sobre o aumento e redução de capital;\n\nh) Deliberar sobre quaisquer alterações dos estatutos;\n\ni) Fixar as remunerações dos órgãos sociais da sociedade, ou nomear uma comissão de vencimentos com o encargo de fixar a remuneração dos membros dos órgãos sociais;\n\nj) Deliberar sobre a conversão das ações da categoria A em ações da categoria B e das ações da categoria B em ações da categoria A;\n\nk) Deliberar sobre qualquer outro assunto para o qual tenha sido convocada.\n\nArtigo 19.º\n\nDeliberações da assembleia geral\n\n1 - As deliberações da assembleia geral são tomadas por maioria dos votos emitidos, seja qual for a percentagem do capital social nela representado, salvo disposição em contrário prevista na lei ou nos presentes estatutos.\n\n2 - A cada ação corresponde um voto.\n\n3 - A alteração dos estatutos da sociedade, quer por modificação quer por eliminação de algum dos seus artigos, só é válida quando aprovada por acionistas que detenham, pelo menos, ações correspondentes a mais de metade do capital social, quer a assembleia reúna em primeira ou segunda convocação, e qualquer que seja o número de acionistas presente ou representado em qualquer delas.\n\n4 - As deliberações sobre fusão, cisão ou transformação da sociedade devem ser aprovadas por dois terços dos votos emitidos, quer a assembleia reúna em primeira ou segunda convocação, e qualquer que seja o número de acionistas presente ou representado em qualquer delas.\n\n5 - As deliberações sobre conversão das ações da categoria A em ações da categoria B e das ações da categoria B em ações da categoria A devem ser aprovadas por dois terços dos votos emitidos.\n\n6 - Deve ser lavrada uma ata de cada reunião da assembleia geral, a qual deve ser redigida e assinada pelo presidente e pelo secretário.\n\n7 - A lista de acionistas presentes em cada assembleia é organizada pelo presidente da mesa e deve ser rubricada pelos acionistas ou representantes destes, sendo depois arquivada na sede social com referência à ata a que respeita.\n\nSECÇÃO III\n\nAdministração da sociedade\n\nArtigo 20.º\n\nConselho de administração\n\n1 - A administração da sociedade é exercida por um conselho de administração, composto por um número de membros entre o mínimo de cinco e um máximo de sete, a ser fixado pela assembleia geral que os eleger.\n\n2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade.\n\n3 - O presidente do conselho de administração pode designar um vice-presidente, que o substitui nas suas faltas e impedimentos.\n\nArtigo 21.º\n\nCompetência do conselho de administração\n\nO conselho de administração tem os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos acionistas.\n\nArtigo 22.º\n\nDelegação de poderes de gestão\n\n1 - O conselho de administração pode delegar em um ou dois administradores delegados, ou numa comissão executiva composta por três a cinco administradores, a gestão corrente da sociedade.\n\n2 - No caso de o conselho de administração delegar a gestão da sociedade numa comissão executiva, deve igualmente eleger, de entre os seus membros, o respetivo presidente, que tem voto de qualidade.\n\n3 - Nas situações previstas no número anterior, compete ao conselho de administração fixar os limites dessa delegação.\n\nArtigo 23.º\n\nVinculação da sociedade\n\n1 - A sociedade obriga-se perante terceiros:\n\na) Pela assinatura conjunta de dois administradores, um dos quais pertencente à comissão executiva, quando esta exista;\n\nb) Pela assinatura do administrador delegado ou em conjunto pelos administradores-delegados, quando existam, dentro dos limites da delegação dos poderes de gestão;\n\nc) Pela assinatura de um ou mais procuradores quanto aos atos ou categorias de atos definidos nas correspondentes procurações.\n\n2 - Nos documentos de mero expediente, bem como em endosso de letras, recibos, cheques ou quaisquer outros documentos, cujo produto de desconto ou de cobrança se destine a ser creditado em conta da sociedade aberta em qualquer instituição financeira, basta a assinatura de um administrador ou de quem para tanto for mandatado, até ao limite que for fixado pelo conselho de administração.\n\n3 - O conselho de administração pode deliberar que certos documentos da sociedade sejam assinados por processos mecânicos ou por chancela.\n\nArtigo 24.º\n\nReuniões do conselho de administração\n\n1 - O conselho de administração reúne sempre que convocado pelo presidente, ou por quem o substitua, bem como a pedido de pelo menos dois administradores.\n\n2 - Independentemente do disposto no número anterior, o conselho de administração reúne pelo menos uma vez por mês, independentemente de existir ou não comissão executiva.\n\n3 - Os membros do conselho de administração são convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada, ou se tratar de reuniões com periodicidade fixa do conhecimento de todos os administradores, caso em que é dispensada a convocatória.\n\nArtigo 25.º\n\nDeliberações do conselho de administração\n\n1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos respetivos votos.\n\n2 - Qualquer administrador pode fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, que pode ser enviada por via postal, eletrónica ou por telecópia, sendo válida apenas para uma reunião.\n\n3 - Qualquer administrador pode votar por correspondência, podendo a respetiva carta ser enviada por via postal, eletrónica ou por telecópia, dirigida ao presidente, com uma antecedência mínima de cinco dias da data da reunião.\n\n4 - As reuniões do conselho de administração podem realizar-se através de meios telemáticos, nos termos previstos na lei.\n\n5 - Qualquer administrador que não possa estar presente na reunião pode, em caso de deliberação fundamentadamente considerada urgente pelo presidente, expressar o seu voto sem a antecedência mínima referida no n.º 3, dirigindo-o ao presidente por via postal, eletrónica ou por telecópia.\n\n6 - As faltas seguidas ou interpoladas de qualquer administrador a mais de metade das reuniões ordinárias do conselho de administração realizadas durante um ano civil, sem a apresentação de qualquer justificação ou sem que as respetivas justificações sejam por aquele aceites, constituem uma falta definitiva do respetivo administrador.\n\n7 - A falta definitiva, tal como estabelecida no número anterior, deve ser declarada pelo conselho de administração, e conduz à substituição do administrador em causa nos termos da lei.\n\nSECÇÃO IV\n\nFiscalização da sociedade\n\nArtigo 26.º\n\nÓrgão de fiscalização\n\n1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas, ou sociedade de revisores oficiais de contas, que não sejam membros daquele órgão.\n\n2 - O conselho fiscal é composto por três membros efetivos e por um suplente, nomeados em assembleia geral, que nomeia igualmente o presidente.\n\n3 - O revisor oficial de contas, ou a sociedade de revisores oficiais de contas, é nomeado pela assembleia geral, sob proposta do conselho fiscal.\n\nSECÇÃO V\n\nSecretário da sociedade\n\nArtigo 27.º\n\nSecretário da sociedade\n\n1 - A sociedade tem um secretário e um suplente deste, designados pelo conselho de administração, com as competências estabelecidas na lei para o secretário da sociedade.\n\n2 - As funções do secretário cessam com o termo das funções do conselho de administração que o designou, podendo ser reconduzido, nos termos do número anterior.\n\nSECÇÃO VI\n\nComissão de vencimentos da sociedade\n\nArtigo 28.º\n\nComissão de vencimentos\n\nSem prejuízo das competências da assembleia geral, as remunerações dos membros dos órgãos sociais podem ser fixadas por uma comissão eleita pelos acionistas em assembleia geral.\n\nSECÇÃO VII\n\nMandato dos órgãos sociais da sociedade\n\nArtigo 29.º\n\nMandato dos órgãos sociais\n\n1 - Os membros dos órgãos sociais da sociedade são eleitos de três em três anos, sendo permitida a sua reeleição, uma ou mais vezes, para os mencionados cargos, com o limite previsto no artigo 15.º do Decreto-Lei n.º 71/2007, de 27 de março, alterado e republicado pelo Decreto-Lei n.º 8/2012, de 18 de janeiro.\n\n2 - Os membros dos corpos sociais exercem o respetivo mandato até que os novos membros eleitos iniciem o exercício dos respetivos cargos, sem prejuízo das disposições legais aplicáveis à renúncia e ao impedimento, temporário ou definitivo, no decurso do mandato.\n\nCAPÍTULO V\n\nDisposições finais\n\nArtigo 30.º\n\nAno social e resultados\n\n1 - O ano social coincide com o ano civil.\n\n2 - Os lucros da sociedade, anualmente apurados, têm a seguinte aplicação:\n\na) Cobertura de prejuízos de exercícios anteriores;\n\nb) Constituição ou reintegração da reserva legal;\n\nc) Distribuição de dividendos aos acionistas, nos termos deliberados pela assembleia geral e de acordo com o previsto no artigo 36.º do decreto-lei que aprova os presentes estatutos.\n\nArtigo 31.º\n\nDissolução e liquidação\n\n1 - A sociedade dissolve-se apenas por força e nos termos do diploma legal que opere a sua extinção.\n\n2 - Dissolvida a sociedade, proceder-se-á extrajudicialmente à respetiva liquidação e, salvo deliberação em contrário, são liquidatários os membros do conselho de administração em funções."
+  },
+  "920958752": {
+   "fragment_id": "158238426",
+   "type": 14,
+   "heading": "Anexo VI — Acionistas, capital subscrito e realizado e categorias de ações da Águas do Norte, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Acionistas, capital subscrito e realizado e categorias de ações da Águas do Norte, S. A.\n\n(a que se referem os n.os 1 e 3 do artigo 59.º)\n\n(ver documento original)"
+  },
+  "920958753": {
+   "fragment_id": "158238427",
+   "type": 14,
+   "heading": "Anexo VII — Receitas extraordinárias adicionais sob a forma de apoio do Fundo Ambiental a transferir para a Águas do Norte, S. A.",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 16/2021 - Diário da República n.º 38/2021, Série I de 2021-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2021-158238385), produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "## Anexo VII — Receitas extraordinárias adicionais sob a forma de apoio do Fundo Ambiental a transferir para a Águas do Norte, S. A.\n\n(a que se refere o n.º 8 do artigo 59.º)\n\n(ver documento original)\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 16/2021 - Diário da República n.º 38/2021, Série I de 2021-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2021-158238385), produz efeitos a partir de 2021-01-01"
+  }
+ }
+}

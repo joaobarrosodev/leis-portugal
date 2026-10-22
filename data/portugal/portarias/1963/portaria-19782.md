@@ -1,0 +1,88 @@
+---
+schema_version: '1.0'
+id: pt:dre:195433:por
+title: Portaria n.º 19782
+short_title: null
+summary: Anula o artigo 17.º e seu § único do Regulamento do Núcleo de Documentação Técnica da Direcção-Geral de Obras Públicas
+  e Comunicações, aprovado pela Portaria n.º 19670
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Obras Públicas e Comunicações - Serviços Centrais
+proposing_entity: null
+official_number: '19782'
+official_date: null
+publication_date: '1963-03-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 72/1963, Série I de 1963-03-26
+  number: '72'
+  series: I
+  supplement: null
+  pages: 300 - 300
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/03/07200/03000300.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '195433'
+  dre_path: /dr/detalhe/portaria/19782-1963-195433
+  internal: pt:dre:195433:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19782-1963-195433
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19782-1963-195433
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-03-26T00:00:00Z'
+integrity:
+  source_sha256: aacdd035af234d533d15fbcab80c5812212874d7cbed256248f3b154abcad883
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-19782-195433.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19782
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 5.º do artigo 31.º do [Decreto n.º 41787](https://diariodarepublica.pt/dr/detalhe/decreto/41787-1958-351913), de 7 de Agosto de 1957, anular o artigo 17.º e seu § único do Regulamento do Núcleo de Documentação Técnica da Direcção-Geral de Obras Públicas e Comunicações, aprovado pela [Portaria n.º 19670](https://diariodarepublica.pt/dr/detalhe/portaria/19670-1963-193256), publicada no Diário do Governo n.º 25, 1.ª série, de 30 de Janeiro de 1963.
+
+Ministério do Ultramar, 26 de Março de 1963. - Pelo Ministro do Ultramar, Mário Ângelo Morais de Oliveira, Subsecretário de Estado do Fomento Ultramarino.

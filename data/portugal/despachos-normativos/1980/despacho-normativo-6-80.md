@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:581872:por
+title: Despacho Normativo n.º 6/80
+short_title: null
+summary: Determina o prosseguimento dos estudos lançados pelo Gabinete Coordenador do Alqueva, tendo em vista o desenvolvimento
+  agrícola do Alentejo
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Coordenação Económica e do Plano, da Agricultura e Pescas, da Indústria e da Habitação e Obras Públicas
+proposing_entity: null
+official_number: 6/80
+official_date: null
+publication_date: '1980-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/1980, Série I de 1980-01-07
+  number: '5'
+  series: I
+  supplement: null
+  pages: 16 - 18
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00500/00160018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '581872'
+  dre_path: /dr/detalhe/despacho-normativo/6-1980-581872
+  internal: pt:dre:581872:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1980-581872
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1980-581872
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-01-07T00:00:00Z'
+integrity:
+  source_sha256: 6cc33c116015618372bd4296dedd7ddc666411d10c4b08dd8177b229b6520217
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-6-581872.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 6/80
+
+1 - O [Despacho Normativo n.º 326/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/326-1978-324573), de 18 de Novembro, não autorizou a assunção de outros compromissos relacionados com a realização de despesas de investimento imputáveis ao empreendimento do Alqueva até ao final do ano de 1979, com a excepção das despesas referentes às obras preliminares em curso, então contratadas, ou das demais de que, demonstradamente, fosse prejudicial, naquela fase, suspender a execução.
+
+2 - Por outro lado, foi determinado o aprofundamento dos estudos - considerados precários - que fundamentaram, em 1976, a decisão de realizar o aproveitamento para fins múltiplos do Alqueva, tanto mais que, nos termos do referido despacho, elementos entretanto coligidos justificavam a revisão do empreendimento na forma como se encontrava concebido.
+
+Para este efeito, e de acordo com o n.º 4 daquele despacho normativo, preparou o Gabinete Coordenador do Alqueva um plano de estudos relativo ao empreendimento, a desenvolver em 1979, que foi integrado num plano de acção governativa aprovado pelo Ministro das Finanças e do Plano em Março de 1979.
+
+3 - No âmbito do n.º 3 do [Despacho Normativo n.º 326/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/326-1978-324573), o Gabinete Coordenador do Alqueva apresentou, em Outubro de 1979, um relatório com a situação dos estudos para reavaliação económica e social e acção decisória até final de 1979. O exame deste relatório permite constatar os progressos feitos na determinação de algumas das componentes da valia do empreendimento, destacando-se com particular relevo a quantificação da valia eléctrica.
+
+4 - Já no que se refere à valia agrícola, a qualidade e escassez de nova informação pouco permite avançar relativamente à situação de Novembro de 1978, se não mesmo à de Dezembro de 1976.
+
+Com efeito, a valia determinada pelo relatório, elaborado em Setembro de 1979, tem por base os resultados apresentados por um grupo de trabalho interministerial em Agosto de 1975, em relatório designado «Plano de Rega do Alentejo - Aproveitamento Hidráulico do Alqueva - Estudo das Características Técnico-Económicas», actualizado a preços de mercado de 1978 e, posteriormente, alargado para uma área de influência do aproveitamento com cerca de 212000 ha.
+
+5 - Verifica-se, assim, que, no essencial, os resultados do conjunto de oito estudos entretanto lançados pelo Gabinete Coordenador para determinar a valia agrícola do empreendimento do Alqueva não se encontram, ainda, disponíveis. Esta situação é devida quer à própria amplitude e complexidade destes estudos - que dificultam a sua concretização a curto prazo - quer às vicissitudes defrontadas no recurso à colaboração de gabinetes de consultores - apesar das simplificações sucessivamente introduzidas, com a contrapartida de uma informação final menos rigorosa.
+
+6 - Assim, os estudos a realizar para o estabelecimento dos mais aconselháveis sistemas culturais e dotações de rega para diversos blocos de regadio, quer em regime de sequeiro, quer em regime de regadio, a análise económica do empreendimento ao nível das explorações tipo e a determinação dos benefícios directos agrícolas do empreendimento do Alqueva foram objecto de contrato autorizado ao abrigo do [Decreto-Lei n.º 100/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1979-382643), de 17 de Setembro. Serão efectuados, não de modo sistemático ou sequer por amostragem - como foi considerado numa segunda fase -, mas incidindo apenas sobre três blocos de terrenos com uma área de cerca de 44000 ha, tidos como representativos da área total, e não estarão concluídos e apreciados antes de Fevereiro/Março de 1980.
+
+7 - Deste modo, as interrogações levantadas pelo [Despacho Normativo n.º 326/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/326-1978-324573) quanto aos aspectos agrícolas do empreendimento, não se encontram ainda respondidas por forma a permitir uma tomada de decisão entrando em linha de conta com o seu esclarecimento. Subsiste, em especial, a necessidade de se esclarecer, qualquer que seja a quota-parte do custo da barragem do Alqueva afecta à agricultura, se o sistema de rega conduzirá, efectivamente, a custos de água excessivamente elevados e a de se proceder, de facto, à recuperação do atraso nos estudos detalhados dos solos, por forma a permitir uma análise completa e em tempo útil do interesse económico a atribuir à produção agrícola potencial.
+
+8 - Convirá também sublinhar que, para além do aproveitamento das águas do Guadiana para a produção de energia e fornecimento de água a aglomerados urbanos e a Sines, o empreendimento do Alqueva é essencialmente desejado e justificado pelas repercussões que irá ter no âmbito da transformação a introduzir no domínio agrícola, permitindo passar, em vastas áreas do Alentejo, do aproveitamento de terra em regime de sequeiro para a sua utilização num sistema de regadio.
+
+Esta transformação deverá ser precedida e acompanhada por um considerável esforço de extensão agrícola que permita dotar os futuros utilizadores da água disponibilizada pelos sistemas principais e secundários de rega ligados à albufeira do Alqueva com os conhecimentos e a motivação susceptíveis de assegurar, na medida do possível, a correcta utilização daquele recurso e uma rápida adaptação a novas formas de trabalhar a terra - quer no que se refere a métodos de cultivo, quer quanto a novos tipos de culturas a introduzir e a comercializar. Este esforço de extensão não necessita nem pode esperar pelo lançamento físico das empreitadas para ser esquematizado e poderá, desde já, ser concebido para entrar em execução mesmo na ausência de uma decisão definitiva sobre o empreendimento. Terá por objectivo - numa hipótese menos ambiciosa, mas que, só por si, constituirá um programa integrado - um sistema de sequeiro melhorado em áreas em que tal sistema seja claramente o indicado, a complementar com um aproveitamento mais eficaz dos regadios já existentes e o lançamento de outros.
+
+9 - Torna-se, igualmente, indispensável ponderar, neste momento, os aspectos do financiamento deste empreendimento, cujas vastas exigências praticamente imporão o recurso a apoio externo. Atentas certas características do projecto - a sua envergadura, a contribuição que dele se espera para acelerar o desenvolvimento de uma extensa região essencialmente agrícola e as repercussões previsíveis sobre a balança de pagamentos, designadamente pela via de substituição de importações -, conviria interessar uma instituição financeira internacional com experiência e capacidade técnica de avaliação e apoio como é o Banco Mundial no sentido de, isoladamente ou em articulação com outras instituições financeiras internacionais ou estrangeiras, encarar a possibilidade de participação no financiamento.
+
+10 - Nestas circunstâncias, os Ministros da Coordenação Económica e do Plano, da Agricultura e Pescas, da Indústria e da Habitação e Obras Públicas:
+
+10.1 - Reiteram o interesse do Governo em promover, no Guadiana, um aproveitamento de fins múltiplos que permita uma criteriosa gestão das águas daquele rio, tendo em vista: o desenvolvimento agrícola do Alentejo, por um acréscimo significativo da área de regadio; a produção de energia eléctrica; o abastecimento de água a aglomerados urbanos, a indústrias e à área de Sines - no âmbito de um projecto conjunto comprovadamente viável sob os pontos de vista técnico e económico;
+
+10.2 - Verificam que não estão ainda preenchidas as lacunas explicitadas no [Despacho Normativo n.º 326/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/326-1978-324573), de 18 de Novembro, quanto ao prévio e pormenorizado esclarecimento exigido por um empreendimento implicando investimentos tão elevados, em aspectos considerados cruciais, como sejam: o dos custos da água a praticar nos perímetros a regar; o estudo dos solos; a análise do interesse económico global do projecto e, em particular, a relativa à produção agrícola. Por isto, não se consideram em posição de tomar, até final do ano, uma decisão definitiva devidamente fundamentada;
+
+10.3 - Reconhecem as implicações negativas que poderão advir para o custo do projecto, o calendário da sua realização e, eventualmente, a sua rendibilidade dos atrasos resultantes de não serem lançadas, nesta altura, novas empreitadas de construção, mas notam igualmente que, a concretizar-se tal lançamento, ele poderia conduzir a uma situação de irreversibilidade do projecto sem decisão verdadeiramente ponderada - situação esta que não se deseja;
+
+10.4 - Determinam:
+
+a) O prosseguimento dos estudos lançados pelo Gabinete Coordenador do Alqueva da forma como foram enunciados, em especial quanto à determinação da valia agrícola, de modo que a decisão definitiva possa basear-se em informações mais seguras e completas, envolvendo o esclarecimento dos aspectos cruciais referidos no n.º 10.2. Entre estes aspectos constam: indicações sobre as culturas a lançar nos futuros perímetros regados; tipo, dimensão e sistemas de produção de empresa agrícola mais adequados para a futura situação de regadio; dados sócio-económicos a nível de exploração tipo; mercados e formas de comercialização face à profunda alteração esperada sobre a estrutura de produção agrícola pela introdução dos novos sistemas de rega; a solução definitiva e correspondentes custos apresentados pormenorizadamente para o sistema de rega - rede primária, secundária e móvel; as repercussões do empreendimento na balança de pagamentos.
+
+Para estes efeitos, o Gabinete Coordenador do Alqueva, independentemente do recurso a gabinetes de consultores, contará com a colaboração dos serviços dos Ministérios da Agricultura e Pescas e da Habitação e Obras Públicas, que lhe facultarão, prioritariamente, o apoio que venha a ser solicitado.
+
+O Gabinete Coordenador do Alqueva deverá tomar também em consideração os resultados dos estudos agora lançados para o plano geral do porto de Sines, no que toca aos cenários de implantação industrial naquela área, para uma eventual reformulação da valia do abastecimento de água.
+
+Tendo em conta o prazo previsto para a disponibilidade dos estudos referidos no n.º 6, deverá o Gabinete Coordenador do Alqueva apresentar ao Governo até 15 de Abril de 1980 um relatório adicional que integre também os aspectos atrás referidos, para melhor apoio das decisões a tomar;
+
+b) O lançamento ou completamento, por parte da EDP, dos estudos de engenharia e da preparação de cadernos de encargos, por forma a minimizar as possíveis implicações negativas referidas no n.º 10.3, permitindo o imediato lançamento de empreitadas se for tomada a decisão de prosseguir;
+
+c) A preparação imediata, por parte dos serviços competentes do Ministério da Agricultura e Pescas, de um programa de desenvolvimento agrícola no Alentejo, com especial incidência na área dominada técnica e economicamente pela albufeira do Alqueva. Este programa, a caracterizar em despacho do Ministro da Agricultura e Pescas, deverá ser apresentado ao Governo, nas suas linhas gerais, dentro de noventa dias, por forma a permitir o seu lançamento independentemente da decisão sobre o empreendimento;
+
+d) O contacto com instituições financeiras internacionais com dimensão, prestígio e experiência adequados, no sentido de se procurar obter, desde já, o seu apoio significativo no domínio financeiro e de reconhecer os requisitos a satisfazer nos domínios técnico e económico que assegurem o seu interesse no empreendimento;
+
+e) A articulação, pelo Gabinete Coordenador do Alqueva, dos estudos e acções em curso e a lançar, por forma que as decisões aos diversos níveis e nos diferentes domínios sejam devidamente ordenadas e fundamentadas e se garanta, à partida, a utilização plena e a correcta gestão das águas do Guadiana.
+
+Ministérios da Coordenação Económica e do Plano, da Agricultura e Pescas, da Indústria e da Habitação e Obras Públicas, 12 de Dezembro de 1979. - O Ministro da Coordenação Económica e do Plano, Carlos Jorge Mendes Correia Gago. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Ministro da Indústria, Fernando Henrique Marques Videira. - O Ministro da Habitação e Obras Públicas, Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.

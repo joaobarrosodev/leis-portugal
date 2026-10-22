@@ -1,0 +1,568 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:306615:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34469975",
+ "dre_path": "/dr/detalhe/decreto-lei/137-2010-306615",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "45082575",
+    "45082675",
+    "45082775",
+    "45082875",
+    "45082975",
+    "45083075",
+    "45083175",
+    "45083275"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:304719:por",
+     "title": "Lei n.º 60-A/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/lei/60-a-2011-304719"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "45082575",
+    "45082675",
+    "45082775",
+    "839792653",
+    "45082975",
+    "45083075",
+    "45083175",
+    "45083275",
+    "45097175"
+   ]
+  },
+  {
+   "date": "2012-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:543049:por",
+     "title": "Decreto-Lei n.º 32/2012",
+     "published": "2012-02-13",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2012-543049"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "839792655",
+    "839792656",
+    "839792657",
+    "839792658",
+    "839792659",
+    "839792660",
+    "839792661",
+    "839792662",
+    "839792663",
+    "839792664"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "839792655",
+    "839792656",
+    "839792665",
+    "839792658",
+    "839792659",
+    "839792660",
+    "839792661",
+    "839792662",
+    "839792663",
+    "839792664"
+   ]
+  },
+  {
+   "date": "2013-03-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258755:por",
+     "title": "Decreto-Lei n.º 36/2013",
+     "published": "2013-03-11",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2013-258755"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "839792655",
+    "839792656",
+    "839792665",
+    "839792658",
+    "839792666",
+    "839792660",
+    "839792661",
+    "839792662",
+    "839792663",
+    "839792664"
+   ]
+  },
+  {
+   "date": "2014-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572144:por",
+     "title": "Lei n.º 11/2014",
+     "published": "2014-03-06",
+     "dre_path": "/dr/detalhe/lei/11-2014-572144"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "839792655",
+    "839792656",
+    "839792665",
+    "839792658",
+    "839792667",
+    "839792660",
+    "839792661",
+    "839792662",
+    "839792663",
+    "839792664"
+   ]
+  },
+  {
+   "date": "2015-09-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70309901:por",
+     "title": "Decreto-Lei n.º 198/2015",
+     "published": "2015-09-16",
+     "dre_path": "/dr/detalhe/decreto-lei/198-2015-70309901"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-B"
+   ],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "839792655",
+    "839792668",
+    "839792669",
+    "839792670",
+    "839792671",
+    "839792672",
+    "839792673",
+    "839792674",
+    "839904975",
+    "839904976",
+    "839904977"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "45082275",
+    "45082375",
+    "45082475",
+    "839792655",
+    "839792668",
+    "839792669",
+    "839904978",
+    "839792671",
+    "839792672",
+    "839792673",
+    "839792674",
+    "839904975",
+    "839904976",
+    "839904977"
+   ]
+  }
+ ],
+ "fragments": {
+  "45082275": {
+   "fragment_id": "35089775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No quadro de uma política comum adoptada na zona euro com vista a devolver a confiança aos mercados financeiros e aos seus agentes e fazer face ao ataque especulativo à moeda única, o Governo Português reafirma o total empenhamento em atingir os compromissos assumidos em matéria de redução do défice orçamental em 2010 e 2011, respectivamente, para 7,3 % e 4,6 % do PIB.\n\nPara o efeito, o Governo decidiu adoptar um conjunto de medidas de consolidação orçamental adicionais às previstas no Programa de Estabilidade e Crescimento (PEC) para 2010-2013 e às que venham a constar da lei do Orçamento do Estado para 2011 cujos efeitos se pretende que se iniciem ainda no decurso de 2010.\n\nEstas medidas representam um esforço adicional no sentido de assegurar o equilíbrio das contas públicas de modo a garantir o regular financiamento da economia e a sustentabilidade das políticas sociais.\n\nNeste contexto, as medidas adoptadas concentram-se principalmente na redução da despesa de modo a reforçar e a acelerar a estratégia de consolidação orçamental prevista no PEC 2010-2013.\n\nAssim, o presente decreto-lei procede, em primeiro lugar à clarificação do âmbito de aplicação subjectivo do Decreto-Lei n.º 192/95, de 28 de Julho, e do Decreto-Lei n.º 106/98, de 24 de Abril, que estabelecem o regime de abono de ajudas de custo e subsídio de transporte por motivos de deslocação em serviço público dos trabalhadores que exercem funções públicas, em território nacional e ao estrangeiro e no estrangeiro.\n\nEm segundo lugar, estabelece a redução dos valores das ajudas de custo e do subsídio de transporte para todos os trabalhadores que exercem funções públicas.\n\nEm terceiro lugar, clarifica-se que os regimes do trabalho extraordinário e do trabalho nocturno previstos no Regime do Contrato de Trabalho em Funções Públicas são aplicáveis a todos os trabalhadores com contrato de trabalho em funções públicas em todos os órgãos e serviços abrangidos pelo âmbito de aplicação objectivo da Lei n.º 12-A/2008, de 27 de Fevereiro, independentemente da carreira e ou estatuto profissional em que se enquadrem.\n\nEm quarto lugar, elimina-se a possibilidade de acumulação de vencimentos públicos com pensões do sistema público de aposentação.\n\nPor último, procede-se ao aumento em um ponto percentual da contribuição dos trabalhadores da Administração Pública para a Caixa Geral de Aposentações, I. P.\n\nForam ouvidos a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "45082375": {
+   "fragment_id": "35352475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei aprova um conjunto de medidas adicionais de redução de despesa com vista à consolidação orçamental prevista no Programa de Estabilidade e Crescimento (PEC) para 2010-2013."
+  },
+  "45082475": {
+   "fragment_id": "35352575",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 106/98, de 24 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 106/98, de 24 de Abril\n\n1 - O artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - Os trabalhadores que exercem funções públicas, em qualquer modalidade de relação jurídica de emprego público dos órgãos e serviços abrangidos pelo âmbito de aplicação objectivo da Lei n.º 12-A/2008, de 27 de Fevereiro, quando deslocados do seu domicílio necessário por motivo de serviço público, têm direito ao abono de ajudas de custo e transporte, conforme as tabelas em vigor e de acordo com o disposto no presente diploma.\n\n2 - Têm igualmente direito àqueles abonos quando deslocados ao estrangeiro e no estrangeiro os membros do Governo e dos respectivos gabinetes.\n\n3 - (Revogado.)»\n\n2 - Todas as referências a funcionário ou agente constantes do Decreto-Lei n.º 106/98, de 24 de Abril, devem ter-se por efectuadas a trabalhadores em funções públicas.\n\n3 - O disposto no artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário e sobre instrumentos de regulamentação colectiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos."
+  },
+  "45082575": {
+   "fragment_id": "35352675",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 192/95, de 28 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 192/95, de 28 de Julho\n\n1 - O artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto e âmbito de aplicação\n\n1 - O presente decreto-lei regula a atribuição de ajudas de custo por deslocações em serviço público ao estrangeiro e no estrangeiro pelo pessoal a que se refere o artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril.\n\n2 - (Revogado.)»\n\n2 - O disposto no artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário e sobre instrumentos de regulamentação colectiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos."
+  },
+  "45082675": {
+   "fragment_id": "35352775",
+   "type": 11,
+   "heading": "Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte\n\n1 - Os valores das ajudas de custo a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos da seguinte forma:\n\na) 20 % no caso da subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso das subalíneas ii) e iii) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n2 - Os valores das ajudas de custo fixados nos termos do disposto no artigo 14.º do Decreto-Lei n.º 106/98, de 24 de Abril, são reduzidos em 20 %.\n\n3 - Os valores das ajudas de custo a que se refere o artigo 4.º do Decreto-Lei n.º 192/95, de 28 de Julho, fixados pelo n.º 5.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos da seguinte forma:\n\na) 20 % no caso da alínea a) e da subalínea i) da alínea b) do n.º 5.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso das subalíneas ii) e iii) da alínea b) do n.º 5.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n4 - Os valores dos subsídios de transporte a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 4.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos em 10 %.\n\n5 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 1353/2008, de 27 de Novembro, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro.\n\n6 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 344/2009, de 3 de Abril, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n7 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 494/2009, de 11 de Maio, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n8 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 864/2009, de 13 de Agosto, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto.\n\n9 - Todas as demais prestações pecuniárias pagas ao pessoal a que respeitam os números anteriores, independentemente da sua designação formal, que sejam legalmente equiparadas a ajudas de custo, designadamente para efeitos fiscais, são reduzidas da seguinte forma:\n\na) 20 % no caso de, por cada mês, o valor médio diário seja igual ou superior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso de, por cada mês, o valor médio diário seja inferior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n10 - O disposto no número anterior não é aplicável aos suplementos de missão previstos no artigo 3.º do Decreto-Lei n.º 233/96, de 7 de Dezembro, e no artigo 7.º do Decreto-Lei n.º 238/96, de 13 de Dezembro, os quais estão sujeitos, enquanto suplementos, a outras medidas de redução previstas em lei, considerando-se, para este efeito, suspenso o disposto no n.º 2.º das referidas disposições legais."
+  },
+  "45082775": {
+   "fragment_id": "35352875",
+   "type": 11,
+   "heading": "Artigo 5.º — Trabalho extraordinário e trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Trabalho extraordinário e trabalho nocturno\n\n1 - Os regimes do trabalho extraordinário e do trabalho nocturno previstos no Regime de Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro, são aplicados aos seguintes trabalhadores:\n\na) Trabalhadores que exercem funções públicas na administração central, regional e local, na modalidade de contrato de trabalho em funções públicas, nos termos do disposto no n.º 1 do artigo 2.º e nos n.os 1 e 2 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro;\n\nb) Trabalhadores que exercem funções nos órgãos e serviços a que se referem os n.os 3 e 4 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - O disposto no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, contrárias e sobre todos os instrumentos de regulamentação colectiva de trabalho não celebrados ao abrigo do Regime de Contrato de Trabalho em Funções Públicas, sendo directa e imediatamente aplicável, dada a sua natureza imperativa, aos trabalhadores a que se refere o número anterior."
+  },
+  "45082875": {
+   "fragment_id": "35352975",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Estatuto da Aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Estatuto da Aposentação\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados não podem exercer funções públicas remuneradas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o sector empresarial regional e municipal e demais pessoas colectivas públicas, excepto quando haja lei especial que o permita ou quando, por razões de interesse público excepcional, sejam autorizados pelos membros do governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - Não podem exercer funções públicas nos termos do número anterior:\n\na) Os aposentados que se tenham aposentado com fundamento em incapacidade;\n\nb) Os aposentados por força de aplicação da pena disciplinar de aposentação compulsiva.\n\n3 - Consideram-se abrangidos pelo conceito de exercício de funções:\n\na) Todos os tipos de actividade e de serviços, independentemente da sua duração, regularidade e forma de remuneração;\n\nb) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de aquisição de serviços.\n\n4 - A decisão de autorização do exercício de funções é precedida de proposta do membro do Governo que tenha o poder de direcção, de superintendência, de tutela ou influência dominante sobre o serviço, entidade ou empresa onde as funções devam ser exercidas, e produz efeitos por um ano, excepto se fixar um prazo superior, em razão da natureza das funções.\n\n5 - (Revogado.)\n\n6 - O disposto no presente artigo aplica-se igualmente ao pessoal na reserva fora de efectividade ou equiparado.\n\n7 - Os termos a que deve obedecer a autorização de exercício de funções prevista no n.º 1 pelos aposentados com recurso a mecanismos legais de antecipação de aposentação são estabelecidos, atento o interesse público subjacente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do disposto nos números anteriores.\n\nArtigo 79.º\n\nCumulação de pensão e remuneração\n\n1 - Os aposentados, bem como os referidos no n.º 6 do artigo anterior, autorizados a exercer funções públicas não podem cumular o recebimento da pensão com qualquer remuneração correspondente àquelas funções.\n\n2 - Durante o exercício daquelas funções é suspenso o pagamento da pensão ou da remuneração, consoante a opção do aposentado.\n\n3 - Caso seja escolhida a suspensão da pensão, o pagamento da mesma é retomado, sendo esta actualizada nos termos gerais, findo o período da suspensão.\n\n4 - O início e o termo do exercício de funções públicas são obrigatoriamente comunicados à Caixa Geral de Aposentações, I. P. (CGA, I. P.), pelos serviços, entidades ou empresas a que se refere o n.º 1 do artigo 78.º no prazo máximo de 10 dias a contar dos mesmos, para que a CGA, I. P., possa suspender a pensão ou reiniciar o seu pagamento.\n\n5 - O incumprimento pontual do dever de comunicação estabelecido no número anterior constitui o dirigente máximo do serviço, entidade ou empresa, pessoal e solidariamente responsável, juntamente com o aposentado, pelo reembolso à CGA, I. P., das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.»\n\n2 - O disposto nos artigos 78.º e 79.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário, sem prejuízo do disposto no número seguinte.\n\n3 - É ressalvado do disposto no número anterior o regime constante do Decreto-Lei n.º 89/2010, de 21 de Julho, durante o período da sua vigência, que permite aos sujeitos por ele abrangidos cumular a pensão com uma terça parte da remuneração base que competir às funções exercidas ou, quando lhes seja mais favorável, cumular a remuneração base que competir a tais funções acrescida de uma terça parte da pensão que lhes seja devida.\n\n> Nota: [Artigo único, Decreto-Lei n.º 68/2011 - Diário da República n.º 113/2011, Série I de 2011-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2011-670050) As limitações ao exercício de funções públicas e à cumulação de pensão e remuneração impostas pelo presente artigo não se aplicam aos deficientes militares abrangidos pelos regimes especiais constantes dos Decretos-Leis n.os 43/76, de 20 de Janeiro, 314/90, de 13 de Outubro, e 240/98, de 7 de Agosto."
+  },
+  "45082975": {
+   "fragment_id": "35353075",
+   "type": 11,
+   "heading": "Artigo 7.º — Descontos para a Caixa Geral de Aposentações, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descontos para a Caixa Geral de Aposentações, I. P.\n\nOs descontos para efeitos de aposentação e para efeitos de pensão de sobrevivência dos trabalhadores da Administração Pública abrangidos pelo regime de protecção social convergente passam a ser, respectivamente, de 8 % e de 3 %."
+  },
+  "45083075": {
+   "fragment_id": "35353175",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação da lei no tempo\n\n1 - O regime introduzido pelo artigo 6.º do presente decreto-lei aplica-se aos pedidos de autorização de exercícios de funções públicas por aposentados que sejam apresentados a partir da entrada em vigor do presente decreto-lei.\n\n2 - O regime introduzido pelo artigo 6.º do presente decreto-lei aplica-se a partir de 1 de Janeiro de 2011 aos aposentados ou beneficiários de pensões em exercício de funções que tenham sido autorizados para o efeito ou que já exerçam funções antes da entrada em vigor do presente decreto-lei.\n\n3 - No prazo de 10 dias contados da data referida no número anterior, os aposentados aí referidos comunicam às entidades empregadoras públicas ou à Caixa Geral de Aposentações, I. P. (CGA, I. P.), consoante o caso, se optam pela suspensão do pagamento da remuneração ou da pensão.\n\n4 - Caso a opção de suspensão de pagamento recaía sobre a remuneração, deve a entidade empregadora pública a quem tenha sido comunicada a opção informar a CGA, I. P., dessa suspensão.\n\n5 - Quando se verifiquem situações de cumulação e sem que tenha sido manifestada a opção a que se refere o n.º 3, deve a CGA, I. P., suspender o pagamento do correspondente valor da pensão."
+  },
+  "45083175": {
+   "fragment_id": "35353275",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 3 do artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril;\n\nb) O n.º 2 do artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho;\n\nc) O n.º 5 do artigo 78.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro."
+  },
+  "45083275": {
+   "fragment_id": "35353375",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com excepção do disposto no número seguinte.\n\n2 - O artigo 5.º entra em vigor a 1 de Janeiro de 2011."
+  },
+  "839792653": {
+   "fragment_id": "35352975",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Estatuto da Aposentação",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alteração ao Estatuto da Aposentação\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados não podem exercer funções públicas remuneradas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o sector empresarial regional e municipal e demais pessoas colectivas públicas, excepto quando haja lei especial que o permita ou quando, por razões de interesse público excepcional, sejam autorizados pelos membros do governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - Não podem exercer funções públicas nos termos do número anterior:\n\na) Os aposentados que se tenham aposentado com fundamento em incapacidade;\n\nb) Os aposentados por força de aplicação da pena disciplinar de aposentação compulsiva.\n\n3 - Consideram-se abrangidos pelo conceito de exercício de funções:\n\na) Todos os tipos de actividade e de serviços, independentemente da sua duração, regularidade e forma de remuneração;\n\nb) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de aquisição de serviços.\n\n4 - A decisão de autorização do exercício de funções é precedida de proposta do membro do Governo que tenha o poder de direcção, de superintendência, de tutela ou influência dominante sobre o serviço, entidade ou empresa onde as funções devam ser exercidas, e produz efeitos por um ano, excepto se fixar um prazo superior, em razão da natureza das funções.\n\n5 - (Revogado.)\n\n6 - O disposto no presente artigo aplica-se igualmente ao pessoal na reserva fora de efectividade ou equiparado.\n\n7 - Os termos a que deve obedecer a autorização de exercício de funções prevista no n.º 1 pelos aposentados com recurso a mecanismos legais de antecipação de aposentação são estabelecidos, atento o interesse público subjacente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do disposto nos números anteriores.\n\nArtigo 79.º\n\nCumulação de pensão e remuneração\n\n1 - Os aposentados, bem como os referidos no n.º 6 do artigo anterior, autorizados a exercer funções públicas não podem cumular o recebimento da pensão com qualquer remuneração correspondente àquelas funções.\n\n2 - Durante o exercício daquelas funções é suspenso o pagamento da pensão ou da remuneração, consoante a opção do aposentado.\n\n3 - Caso seja escolhida a suspensão da pensão, o pagamento da mesma é retomado, sendo esta actualizada nos termos gerais, findo o período da suspensão.\n\n4 - O início e o termo do exercício de funções públicas são obrigatoriamente comunicados à Caixa Geral de Aposentações, I. P. (CGA, I. P.), pelos serviços, entidades ou empresas a que se refere o n.º 1 do artigo 78.º no prazo máximo de 10 dias a contar dos mesmos, para que a CGA, I. P., possa suspender a pensão ou reiniciar o seu pagamento.\n\n5 - O incumprimento pontual do dever de comunicação estabelecido no número anterior constitui o dirigente máximo do serviço, entidade ou empresa, pessoal e solidariamente responsável, juntamente com o aposentado, pelo reembolso à CGA, I. P., das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.»\n\n2 - O disposto nos artigos 78.º e 79.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário, sem prejuízo do disposto no número seguinte.\n\n3 - Fica ressalvado do disposto no número anterior o regime constante do artigo 8.º do Decreto-Lei n.º 117/2009, de 18 de Maio, no que respeita às equipas de vigilância às escolas, o regime constante do Decreto-Lei n.º 145/2007, de 27 de Abril, no que se refere aos pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica e outro pessoal aeronáutico especializado, aposentado, reformado ou reservista, contratado ou nomeado, bem como o regime constante do Decreto-Lei n.º 89/2010, de 21 de Julho, durante o período da sua vigência, que permite aos sujeitos por ele abrangidos cumular a pensão com uma terça parte da remuneração base que competir às funções exercidas ou, quando lhes seja mais favorável, cumular a remuneração base que competir a tais funções com uma terça parte da pensão que lhes seja devida.\n\n> Nota: [Artigo único, Decreto-Lei n.º 68/2011 - Diário da República n.º 113/2011, Série I de 2011-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2011-670050) As limitações ao exercício de funções públicas e à cumulação de pensão e remuneração impostas pelo presente artigo não se aplicam aos deficientes militares abrangidos pelos regimes especiais constantes dos Decretos-Leis n.os 43/76, de 20 de Janeiro, 314/90, de 13 de Outubro, e 240/98, de 7 de Agosto.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+  },
+  "45097175": {
+   "fragment_id": "35353475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - Augusto Ernesto Santos Silva - Rui Carlos Pereira - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Valter Victorino Lemos - Ana Maria Teodoro Jorge - Maria Isabel Girão de Melo Veiga Vilar - José Mariano Rebelo Pires Gago - Maria Gabriela da Silveira Ferreira Canavilhas - Jorge Lacão Costa.\n\nPromulgado em 18 de Dezembro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Dezembro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "839792655": {
+   "fragment_id": "839799757",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Atualização das ajudas de custo do pessoal com funções policiais da Polícia de Segurança Pública",
+   "in_force_from": "2012-02-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Atualização das ajudas de custo do pessoal com funções policiais da Polícia de Segurança Pública\n\n1 - As ajudas de custo diárias a abonar ao pessoal com funções policiais da Polícia de Segurança Pública que se desloque da sua residência oficial, por motivo de serviço público, em território nacional ou que se desloque em missão oficial ao estrangeiro e no estrangeiro, são atualizadas para os valores previstos na Portaria n.º 864/2009, de 13 de agosto, com as devidas adaptações.\n\n2 - Aos valores previstos na Portaria n.º 864/2009, de 13 de agosto, são aplicadas as reduções previstas no Decreto-Lei n.º 137/2010, de 28 de dezembro.\n\n3 - Sem prejuízo do disposto nos números anteriores, o montante dos abonos de ajudas passa a ser automaticamente atualizado na percentagem de atualização das ajudas de custo aplicáveis aos demais trabalhadores com funções públicas, conforme previsto no n.º 2 do artigo 98.º do Decreto-Lei n.º 299/2009, de 14 de outubro.\n\n> Aditado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01"
+  },
+  "839792656": {
+   "fragment_id": "35352675",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 192/95, de 28 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 192/95, de 28 de Julho\n\n1 - O artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto e âmbito de aplicação\n\n1 - O presente decreto-lei regula a atribuição de ajudas de custo por deslocações em serviço público ao estrangeiro e no estrangeiro pelo pessoal a que se refere o artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril.\n\n2 - (Revogado.)»\n\n2 - O disposto no artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário e sobre instrumentos de regulamentação colectiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos."
+  },
+  "839792657": {
+   "fragment_id": "35352775",
+   "type": 11,
+   "heading": "Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte\n\n1 - Os valores das ajudas de custo a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos da seguinte forma:\n\na) 20 % no caso da subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso das subalíneas ii) e iii) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n2 - Os valores das ajudas de custo fixados nos termos do disposto no artigo 14.º do Decreto-Lei n.º 106/98, de 24 de Abril, são reduzidos em 20 %.\n\n3 - Os valores das ajudas de custo a que se refere o artigo 4.º do Decreto-Lei n.º 192/95, de 28 de Julho, fixados pelo n.º 5.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos da seguinte forma:\n\na) 20 % no caso da alínea a) e da subalínea i) da alínea b) do n.º 5.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso das subalíneas ii) e iii) da alínea b) do n.º 5.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n4 - Os valores dos subsídios de transporte a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 4.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos em 10 %.\n\n5 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 1353/2008, de 27 de Novembro, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro.\n\n6 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 344/2009, de 3 de Abril, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n7 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 494/2009, de 11 de Maio, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n8 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 864/2009, de 13 de Agosto, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto.\n\n9 - Todas as demais prestações pecuniárias pagas ao pessoal a que respeitam os números anteriores, independentemente da sua designação formal, que sejam legalmente equiparadas a ajudas de custo, designadamente para efeitos fiscais, são reduzidas da seguinte forma:\n\na) 20 % no caso de, por cada mês, o valor médio diário seja igual ou superior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso de, por cada mês, o valor médio diário seja inferior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n10 - O disposto no número anterior não é aplicável aos suplementos de missão previstos no artigo 3.º do Decreto-Lei n.º 233/96, de 7 de Dezembro, e no artigo 7.º do Decreto-Lei n.º 238/96, de 13 de Dezembro, os quais estão sujeitos, enquanto suplementos, a outras medidas de redução previstas em lei, considerando-se, para este efeito, suspenso o disposto no n.º 2.º das referidas disposições legais."
+  },
+  "839792658": {
+   "fragment_id": "35352875",
+   "type": 11,
+   "heading": "Artigo 5.º — Trabalho extraordinário e trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Trabalho extraordinário e trabalho nocturno\n\n1 - Os regimes do trabalho extraordinário e do trabalho nocturno previstos no Regime de Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro, são aplicados aos seguintes trabalhadores:\n\na) Trabalhadores que exercem funções públicas na administração central, regional e local, na modalidade de contrato de trabalho em funções públicas, nos termos do disposto no n.º 1 do artigo 2.º e nos n.os 1 e 2 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro;\n\nb) Trabalhadores que exercem funções nos órgãos e serviços a que se referem os n.os 3 e 4 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - O disposto no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, contrárias e sobre todos os instrumentos de regulamentação colectiva de trabalho não celebrados ao abrigo do Regime de Contrato de Trabalho em Funções Públicas, sendo directa e imediatamente aplicável, dada a sua natureza imperativa, aos trabalhadores a que se refere o número anterior."
+  },
+  "839792659": {
+   "fragment_id": "35352975",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Estatuto da Aposentação",
+   "in_force_from": "2012-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alteração ao Estatuto da Aposentação\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados não podem exercer funções públicas remuneradas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o sector empresarial regional e municipal e demais pessoas colectivas públicas, excepto quando haja lei especial que o permita ou quando, por razões de interesse público excepcional, sejam autorizados pelos membros do governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - Não podem exercer funções públicas nos termos do número anterior:\n\na) Os aposentados que se tenham aposentado com fundamento em incapacidade;\n\nb) Os aposentados por força de aplicação da pena disciplinar de aposentação compulsiva.\n\n3 - Consideram-se abrangidos pelo conceito de exercício de funções:\n\na) Todos os tipos de actividade e de serviços, independentemente da sua duração, regularidade e forma de remuneração;\n\nb) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de aquisição de serviços.\n\n4 - A decisão de autorização do exercício de funções é precedida de proposta do membro do Governo que tenha o poder de direcção, de superintendência, de tutela ou influência dominante sobre o serviço, entidade ou empresa onde as funções devam ser exercidas, e produz efeitos por um ano, excepto se fixar um prazo superior, em razão da natureza das funções.\n\n5 - (Revogado.)\n\n6 - O disposto no presente artigo aplica-se igualmente ao pessoal na reserva fora de efectividade ou equiparado.\n\n7 - Os termos a que deve obedecer a autorização de exercício de funções prevista no n.º 1 pelos aposentados com recurso a mecanismos legais de antecipação de aposentação são estabelecidos, atento o interesse público subjacente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do disposto nos números anteriores.\n\nArtigo 79.º\n\nCumulação de pensão e remuneração\n\n1 - Os aposentados, bem como os referidos no n.º 6 do artigo anterior, autorizados a exercer funções públicas não podem cumular o recebimento da pensão com qualquer remuneração correspondente àquelas funções.\n\n2 - Durante o exercício daquelas funções é suspenso o pagamento da pensão ou da remuneração, consoante a opção do aposentado.\n\n3 - Caso seja escolhida a suspensão da pensão, o pagamento da mesma é retomado, sendo esta actualizada nos termos gerais, findo o período da suspensão.\n\n4 - O início e o termo do exercício de funções públicas são obrigatoriamente comunicados à Caixa Geral de Aposentações, I. P. (CGA, I. P.), pelos serviços, entidades ou empresas a que se refere o n.º 1 do artigo 78.º no prazo máximo de 10 dias a contar dos mesmos, para que a CGA, I. P., possa suspender a pensão ou reiniciar o seu pagamento.\n\n5 - O incumprimento pontual do dever de comunicação estabelecido no número anterior constitui o dirigente máximo do serviço, entidade ou empresa, pessoal e solidariamente responsável, juntamente com o aposentado, pelo reembolso à CGA, I. P., das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.»\n\n2 - O disposto nos artigos 78.º e 79.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário, sem prejuízo do disposto no número seguinte.\n\n3 - Fica ressalvado do disposto no número anterior o regime constante do artigo 8.º do Decreto-Lei n.º 117/2009, de 18 de Maio, no que respeita às equipas de vigilância às escolas, o regime constante do Decreto-Lei n.º 145/2007, de 27 de Abril, no que se refere aos pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica e outro pessoal aeronáutico especializado, aposentado, reformado ou reservista, contratado ou nomeado, bem como o regime constante do Decreto-Lei n.º 89/2010, de 21 de Julho, durante o período da sua vigência, que permite aos sujeitos por ele abrangidos cumular a pensão com uma terça parte da remuneração base que competir às funções exercidas ou, quando lhes seja mais favorável, cumular a remuneração base que competir a tais funções com uma terça parte da pensão que lhes seja devida.\n\n4 - O disposto no número anterior é extensível aos pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica e outro pessoal aeronáutico especializado, aposentado, reformado ou reservista, contratado ou nomeado, que preste formação profissional promovida pelo Instituto de Emprego e Formação Profissional, I. P.\n\n5 - O exercício de funções públicas ao abrigo do disposto no número anterior não depende da autorização prevista no artigo 78.º do Decreto-Lei n.º 498/72, de 9 de dezembro, na redação introduzida pelo Decreto-Lei n.º 179/2005, de 2 de novembro, desde que circunscrita aos compromissos assumidos pelo Estado Português relativos ao desenvolvimento da indústria aeronáutica e com prévia informação ao membro do Governo responsável pela Administração Pública.\n\n6 - É ainda ressalvado do disposto no n.º 2 o regime constante da Lei n.º 59/2008, de 11 de setembro, relativamente aos árbitros a que se refere o n.º 3 do artigo 375.º (anexo i da Lei), sendo-lhes permitido cumular a pensão com a remuneração que competir às funções de árbitro presidente, com um limite de uma terça parte da pensão auferida.\n\n> Nota: [Artigo único, Decreto-Lei n.º 68/2011 - Diário da República n.º 113/2011, Série I de 2011-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2011-670050) As limitações ao exercício de funções públicas e à cumulação de pensão e remuneração impostas pelo presente artigo não se aplicam aos deficientes militares abrangidos pelos regimes especiais constantes dos Decretos-Leis n.os 43/76, de 20 de Janeiro, 314/90, de 13 de Outubro, e 240/98, de 7 de Agosto.\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+  },
+  "839792660": {
+   "fragment_id": "35353075",
+   "type": 11,
+   "heading": "Artigo 7.º — Descontos para a Caixa Geral de Aposentações, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descontos para a Caixa Geral de Aposentações, I. P.\n\nOs descontos para efeitos de aposentação e para efeitos de pensão de sobrevivência dos trabalhadores da Administração Pública abrangidos pelo regime de protecção social convergente passam a ser, respectivamente, de 8 % e de 3 %."
+  },
+  "839792661": {
+   "fragment_id": "35353175",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação da lei no tempo\n\n1 - O regime introduzido pelo artigo 6.º do presente decreto-lei aplica-se aos pedidos de autorização de exercícios de funções públicas por aposentados que sejam apresentados a partir da entrada em vigor do presente decreto-lei.\n\n2 - O regime introduzido pelo artigo 6.º do presente decreto-lei aplica-se a partir de 1 de Janeiro de 2011 aos aposentados ou beneficiários de pensões em exercício de funções que tenham sido autorizados para o efeito ou que já exerçam funções antes da entrada em vigor do presente decreto-lei.\n\n3 - No prazo de 10 dias contados da data referida no número anterior, os aposentados aí referidos comunicam às entidades empregadoras públicas ou à Caixa Geral de Aposentações, I. P. (CGA, I. P.), consoante o caso, se optam pela suspensão do pagamento da remuneração ou da pensão.\n\n4 - Caso a opção de suspensão de pagamento recaía sobre a remuneração, deve a entidade empregadora pública a quem tenha sido comunicada a opção informar a CGA, I. P., dessa suspensão.\n\n5 - Quando se verifiquem situações de cumulação e sem que tenha sido manifestada a opção a que se refere o n.º 3, deve a CGA, I. P., suspender o pagamento do correspondente valor da pensão."
+  },
+  "839792662": {
+   "fragment_id": "35353275",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 3 do artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril;\n\nb) O n.º 2 do artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho;\n\nc) O n.º 5 do artigo 78.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro."
+  },
+  "839792663": {
+   "fragment_id": "35353375",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com excepção do disposto no número seguinte.\n\n2 - O artigo 5.º entra em vigor a 1 de Janeiro de 2011."
+  },
+  "839792664": {
+   "fragment_id": "35353475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - Augusto Ernesto Santos Silva - Rui Carlos Pereira - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Valter Victorino Lemos - Ana Maria Teodoro Jorge - Maria Isabel Girão de Melo Veiga Vilar - José Mariano Rebelo Pires Gago - Maria Gabriela da Silveira Ferreira Canavilhas - Jorge Lacão Costa.\n\nPromulgado em 18 de Dezembro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Dezembro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "839792665": {
+   "fragment_id": "35352775",
+   "type": 11,
+   "heading": "Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte\n\n1 - Os valores das ajudas de custo a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos da seguinte forma:\n\na) 20 % no caso da subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso das subalíneas ii) e iii) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n2 - Os valores das ajudas de custo fixados nos termos do disposto no artigo 14.º do Decreto-Lei n.º 106/98, de 24 de Abril, são reduzidos em 20 %.\n\n3 - Os valores das ajudas de custo a que se refere o artigo 4.º do Decreto-Lei n.º 192/95, de 28 de julho, fixados pelo n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro, são reduzidos da seguinte forma:\n\na) 40 % no caso da alínea a) e da subalínea i) da alínea b) do n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro;\n\nb) 35 % no caso das subalíneas ii) e iii) da alínea b) do n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro.\n\n4 - Os valores dos subsídios de transporte a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 4.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos em 10 %.\n\n5 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 1353/2008, de 27 de Novembro, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro.\n\n6 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 344/2009, de 3 de Abril, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n7 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 494/2009, de 11 de Maio, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n8 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 864/2009, de 13 de Agosto, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto.\n\n9 - Todas as demais prestações pecuniárias pagas ao pessoal a que respeitam os números anteriores, independentemente da sua designação formal, que sejam legalmente equiparadas a ajudas de custo, designadamente para efeitos fiscais, são reduzidas da seguinte forma:\n\na) 20 % no caso de, por cada mês, o valor médio diário seja igual ou superior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso de, por cada mês, o valor médio diário seja inferior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n10 - O disposto no número anterior não é aplicável aos suplementos de missão previstos no artigo 3.º do Decreto-Lei n.º 233/96, de 7 de Dezembro, e no artigo 7.º do Decreto-Lei n.º 238/96, de 13 de Dezembro, os quais estão sujeitos, enquanto suplementos, a outras medidas de redução previstas em lei, considerando-se, para este efeito, suspenso o disposto no n.º 2.º das referidas disposições legais.\n\n> Alterado pelo/a Artigo 42.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "839792666": {
+   "fragment_id": "35352975",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Estatuto da Aposentação",
+   "in_force_from": "2013-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alteração ao Estatuto da Aposentação\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados não podem exercer funções públicas remuneradas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o sector empresarial regional e municipal e demais pessoas colectivas públicas, excepto quando haja lei especial que o permita ou quando, por razões de interesse público excepcional, sejam autorizados pelos membros do governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - Não podem exercer funções públicas nos termos do número anterior:\n\na) Os aposentados que se tenham aposentado com fundamento em incapacidade;\n\nb) Os aposentados por força de aplicação da pena disciplinar de aposentação compulsiva.\n\n3 - Consideram-se abrangidos pelo conceito de exercício de funções:\n\na) Todos os tipos de actividade e de serviços, independentemente da sua duração, regularidade e forma de remuneração;\n\nb) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de aquisição de serviços.\n\n4 - A decisão de autorização do exercício de funções é precedida de proposta do membro do Governo que tenha o poder de direcção, de superintendência, de tutela ou influência dominante sobre o serviço, entidade ou empresa onde as funções devam ser exercidas, e produz efeitos por um ano, excepto se fixar um prazo superior, em razão da natureza das funções.\n\n5 - (Revogado.)\n\n6 - O disposto no presente artigo aplica-se igualmente ao pessoal na reserva fora de efectividade ou equiparado.\n\n7 - Os termos a que deve obedecer a autorização de exercício de funções prevista no n.º 1 pelos aposentados com recurso a mecanismos legais de antecipação de aposentação são estabelecidos, atento o interesse público subjacente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do disposto nos números anteriores.\n\nArtigo 79.º\n\nCumulação de pensão e remuneração\n\n1 - Os aposentados, bem como os referidos no n.º 6 do artigo anterior, autorizados a exercer funções públicas não podem cumular o recebimento da pensão com qualquer remuneração correspondente àquelas funções.\n\n2 - Durante o exercício daquelas funções é suspenso o pagamento da pensão ou da remuneração, consoante a opção do aposentado.\n\n3 - Caso seja escolhida a suspensão da pensão, o pagamento da mesma é retomado, sendo esta actualizada nos termos gerais, findo o período da suspensão.\n\n4 - O início e o termo do exercício de funções públicas são obrigatoriamente comunicados à Caixa Geral de Aposentações, I. P. (CGA, I. P.), pelos serviços, entidades ou empresas a que se refere o n.º 1 do artigo 78.º no prazo máximo de 10 dias a contar dos mesmos, para que a CGA, I. P., possa suspender a pensão ou reiniciar o seu pagamento.\n\n5 - O incumprimento pontual do dever de comunicação estabelecido no número anterior constitui o dirigente máximo do serviço, entidade ou empresa, pessoal e solidariamente responsável, juntamente com o aposentado, pelo reembolso à CGA, I. P., das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.»\n\n2 - O disposto nos artigos 78.º e 79.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário, sem prejuízo do disposto no número seguinte.\n\n3 - Ficam ressalvados do disposto no número anterior os regimes constantes dos:\n\na) Artigo 8.º do Decreto-Lei n.º 117/2009, de 18 de maio, alterado pelo Decreto-Lei n.º 14/2012, de 20 de janeiro, no que respeita às equipas de vigilância às escolas;\n\nb) Decreto-Lei n.º 145/2007, de 27 de abril, e n.º 80/2012, de 27 de março, no que se refere aos pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica, investigadores de acidentes na aviação civil e outro pessoal aeronáutico especializado, aposentado, reformado ou reservista, contratado ou nomeado;\n\nc) Decreto-Lei n.º 89/2010, de 21 de julho, durante o período da sua vigência, que permite aos sujeitos por ele abrangidos cumular a pensão com uma terça parte da remuneração base que competir às funções exercidas ou, quando lhes seja mais favorável, cumular a remuneração base que competir a tais funções com uma terça parte da pensão que lhes seja devida.\n\n4 - O disposto no número anterior é extensível aos pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica e outro pessoal aeronáutico especializado, aposentado, reformado ou reservista, contratado ou nomeado, que preste formação profissional promovida pelo Instituto de Emprego e Formação Profissional, I. P.\n\n5 - O exercício de funções públicas ao abrigo do disposto no número anterior não depende da autorização prevista no artigo 78.º do Decreto-Lei n.º 498/72, de 9 de dezembro, na redação introduzida pelo Decreto-Lei n.º 179/2005, de 2 de novembro, desde que circunscrita aos compromissos assumidos pelo Estado Português relativos ao desenvolvimento da indústria aeronáutica e com prévia informação ao membro do Governo responsável pela Administração Pública.\n\n6 - É ainda ressalvado do disposto no n.º 2 o regime constante da Lei n.º 59/2008, de 11 de setembro, relativamente aos árbitros a que se refere o n.º 3 do artigo 375.º (anexo i da Lei), sendo-lhes permitido cumular a pensão com a remuneração que competir às funções de árbitro presidente, com um limite de uma terça parte da pensão auferida.\n\n> Nota: [Artigo único, Decreto-Lei n.º 68/2011 - Diário da República n.º 113/2011, Série I de 2011-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2011-670050) As limitações ao exercício de funções públicas e à cumulação de pensão e remuneração impostas pelo presente artigo não se aplicam aos deficientes militares abrangidos pelos regimes especiais constantes dos Decretos-Leis n.os 43/76, de 20 de Janeiro, 314/90, de 13 de Outubro, e 240/98, de 7 de Agosto.\n\n> Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+  },
+  "839792667": {
+   "fragment_id": "35352975",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Estatuto da Aposentação",
+   "in_force_from": "2014-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07",
+    "Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alteração ao Estatuto da Aposentação\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados não podem exercer funções públicas remuneradas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o sector empresarial regional e municipal e demais pessoas colectivas públicas, excepto quando haja lei especial que o permita ou quando, por razões de interesse público excepcional, sejam autorizados pelos membros do governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - Não podem exercer funções públicas nos termos do número anterior:\n\na) Os aposentados que se tenham aposentado com fundamento em incapacidade;\n\nb) Os aposentados por força de aplicação da pena disciplinar de aposentação compulsiva.\n\n3 - Consideram-se abrangidos pelo conceito de exercício de funções:\n\na) Todos os tipos de actividade e de serviços, independentemente da sua duração, regularidade e forma de remuneração;\n\nb) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de aquisição de serviços.\n\n4 - A decisão de autorização do exercício de funções é precedida de proposta do membro do Governo que tenha o poder de direcção, de superintendência, de tutela ou influência dominante sobre o serviço, entidade ou empresa onde as funções devam ser exercidas, e produz efeitos por um ano, excepto se fixar um prazo superior, em razão da natureza das funções.\n\n5 - (Revogado.)\n\n6 - O disposto no presente artigo aplica-se igualmente ao pessoal na reserva fora de efectividade ou equiparado.\n\n7 - Os termos a que deve obedecer a autorização de exercício de funções prevista no n.º 1 pelos aposentados com recurso a mecanismos legais de antecipação de aposentação são estabelecidos, atento o interesse público subjacente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do disposto nos números anteriores.\n\nArtigo 79.º\n\nCumulação de pensão e remuneração\n\n1 - Os aposentados, bem como os referidos no n.º 6 do artigo anterior, autorizados a exercer funções públicas não podem cumular o recebimento da pensão com qualquer remuneração correspondente àquelas funções.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Nota: [Artigo único, Decreto-Lei n.º 68/2011 - Diário da República n.º 113/2011, Série I de 2011-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2011-670050) As limitações ao exercício de funções públicas e à cumulação de pensão e remuneração impostas pelo presente artigo não se aplicam aos deficientes militares abrangidos pelos regimes especiais constantes dos Decretos-Leis n.os 43/76, de 20 de Janeiro, 314/90, de 13 de Outubro, e 240/98, de 7 de Agosto.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07\n\n> Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+  },
+  "839792668": {
+   "fragment_id": "839799769",
+   "type": 11,
+   "heading": "Artigo 2.º-B — Atualização das ajudas de custo do pessoal com funções de investigação e fiscalização no Serviço de Estrangeiros e Fronteiras",
+   "in_force_from": "2015-09-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2015-70309901), em vigor a partir de 2015-09-17"
+   ],
+   "markdown": "###### Artigo 2.º-B — Atualização das ajudas de custo do pessoal com funções de investigação e fiscalização no Serviço de Estrangeiros e Fronteiras\n\n1 - As ajudas de custo diárias a abonar ao pessoal com funções de investigação e fiscalização no Serviço de Estrangeiros e Fronteiras, que se desloque em missão oficial ao estrangeiro e no estrangeiro, são atualizadas para os valores previstos no n.º 3 da Portaria n.º 864/2009, de 13 de agosto, com as devidas adaptações.\n\n2 - Aos valores previstos no n.º 3 da Portaria n.º 864/2009, de 13 de agosto, são aplicadas as reduções previstas no presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2015-70309901), em vigor a partir de 2015-09-17"
+  },
+  "839792669": {
+   "fragment_id": "35352675",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 192/95, de 28 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 192/95, de 28 de Julho\n\n1 - O artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto e âmbito de aplicação\n\n1 - O presente decreto-lei regula a atribuição de ajudas de custo por deslocações em serviço público ao estrangeiro e no estrangeiro pelo pessoal a que se refere o artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril.\n\n2 - (Revogado.)»\n\n2 - O disposto no artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, em contrário e sobre instrumentos de regulamentação colectiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos."
+  },
+  "839792670": {
+   "fragment_id": "35352775",
+   "type": 11,
+   "heading": "Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte\n\n1 - Os valores das ajudas de custo a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos da seguinte forma:\n\na) 20 % no caso da subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso das subalíneas ii) e iii) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n2 - Os valores das ajudas de custo fixados nos termos do disposto no artigo 14.º do Decreto-Lei n.º 106/98, de 24 de Abril, são reduzidos em 20 %.\n\n3 - Os valores das ajudas de custo a que se refere o artigo 4.º do Decreto-Lei n.º 192/95, de 28 de julho, fixados pelo n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro, são reduzidos da seguinte forma:\n\na) 40 % no caso da alínea a) e da subalínea i) da alínea b) do n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro;\n\nb) 35 % no caso das subalíneas ii) e iii) da alínea b) do n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro.\n\n4 - Os valores dos subsídios de transporte a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 4.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos em 10 %.\n\n5 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 1353/2008, de 27 de Novembro, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro.\n\n6 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 344/2009, de 3 de Abril, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n7 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 494/2009, de 11 de Maio, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n8 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 864/2009, de 13 de Agosto, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto.\n\n9 - Todas as demais prestações pecuniárias pagas ao pessoal a que respeitam os números anteriores, independentemente da sua designação formal, que sejam legalmente equiparadas a ajudas de custo, designadamente para efeitos fiscais, são reduzidas da seguinte forma:\n\na) 20 % no caso de, por cada mês, o valor médio diário seja igual ou superior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso de, por cada mês, o valor médio diário seja inferior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n10 - O disposto no número anterior não é aplicável aos suplementos de missão previstos no artigo 3.º do Decreto-Lei n.º 233/96, de 7 de Dezembro, e no artigo 7.º do Decreto-Lei n.º 238/96, de 13 de Dezembro, os quais estão sujeitos, enquanto suplementos, a outras medidas de redução previstas em lei, considerando-se, para este efeito, suspenso o disposto no n.º 2.º das referidas disposições legais.\n\n> Alterado pelo/a Artigo 42.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "839792671": {
+   "fragment_id": "35352875",
+   "type": 11,
+   "heading": "Artigo 5.º — Trabalho extraordinário e trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Trabalho extraordinário e trabalho nocturno\n\n1 - Os regimes do trabalho extraordinário e do trabalho nocturno previstos no Regime de Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro, são aplicados aos seguintes trabalhadores:\n\na) Trabalhadores que exercem funções públicas na administração central, regional e local, na modalidade de contrato de trabalho em funções públicas, nos termos do disposto no n.º 1 do artigo 2.º e nos n.os 1 e 2 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro;\n\nb) Trabalhadores que exercem funções nos órgãos e serviços a que se referem os n.os 3 e 4 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - O disposto no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou excepcionais, contrárias e sobre todos os instrumentos de regulamentação colectiva de trabalho não celebrados ao abrigo do Regime de Contrato de Trabalho em Funções Públicas, sendo directa e imediatamente aplicável, dada a sua natureza imperativa, aos trabalhadores a que se refere o número anterior."
+  },
+  "839792672": {
+   "fragment_id": "35352975",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Estatuto da Aposentação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07",
+    "Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alteração ao Estatuto da Aposentação\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados não podem exercer funções públicas remuneradas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o sector empresarial regional e municipal e demais pessoas colectivas públicas, excepto quando haja lei especial que o permita ou quando, por razões de interesse público excepcional, sejam autorizados pelos membros do governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - Não podem exercer funções públicas nos termos do número anterior:\n\na) Os aposentados que se tenham aposentado com fundamento em incapacidade;\n\nb) Os aposentados por força de aplicação da pena disciplinar de aposentação compulsiva.\n\n3 - Consideram-se abrangidos pelo conceito de exercício de funções:\n\na) Todos os tipos de actividade e de serviços, independentemente da sua duração, regularidade e forma de remuneração;\n\nb) Todas as modalidades de contratos, independentemente da respectiva natureza, pública ou privada, laboral ou de aquisição de serviços.\n\n4 - A decisão de autorização do exercício de funções é precedida de proposta do membro do Governo que tenha o poder de direcção, de superintendência, de tutela ou influência dominante sobre o serviço, entidade ou empresa onde as funções devam ser exercidas, e produz efeitos por um ano, excepto se fixar um prazo superior, em razão da natureza das funções.\n\n5 - (Revogado.)\n\n6 - O disposto no presente artigo aplica-se igualmente ao pessoal na reserva fora de efectividade ou equiparado.\n\n7 - Os termos a que deve obedecer a autorização de exercício de funções prevista no n.º 1 pelos aposentados com recurso a mecanismos legais de antecipação de aposentação são estabelecidos, atento o interesse público subjacente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do disposto nos números anteriores.\n\nArtigo 79.º\n\nCumulação de pensão e remuneração\n\n1 - Os aposentados, bem como os referidos no n.º 6 do artigo anterior, autorizados a exercer funções públicas não podem cumular o recebimento da pensão com qualquer remuneração correspondente àquelas funções.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Nota: [Artigo único, Decreto-Lei n.º 68/2011 - Diário da República n.º 113/2011, Série I de 2011-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2011-670050) As limitações ao exercício de funções públicas e à cumulação de pensão e remuneração impostas pelo presente artigo não se aplicam aos deficientes militares abrangidos pelos regimes especiais constantes dos Decretos-Leis n.os 43/76, de 20 de Janeiro, 314/90, de 13 de Outubro, e 240/98, de 7 de Agosto.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07\n\n> Alterado pelo/a Artigo 69.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 60-A/2011 - Diário da República n.º 230/2011, 1º Suplemento, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), em vigor a partir de 2011-12-01, produz efeitos a partir de 2011-09-01"
+  },
+  "839792673": {
+   "fragment_id": "35353075",
+   "type": 11,
+   "heading": "Artigo 7.º — Descontos para a Caixa Geral de Aposentações, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descontos para a Caixa Geral de Aposentações, I. P.\n\nOs descontos para efeitos de aposentação e para efeitos de pensão de sobrevivência dos trabalhadores da Administração Pública abrangidos pelo regime de protecção social convergente passam a ser, respectivamente, de 8 % e de 3 %."
+  },
+  "839792674": {
+   "fragment_id": "35353175",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação da lei no tempo\n\n1 - O regime introduzido pelo artigo 6.º do presente decreto-lei aplica-se aos pedidos de autorização de exercícios de funções públicas por aposentados que sejam apresentados a partir da entrada em vigor do presente decreto-lei.\n\n2 - O regime introduzido pelo artigo 6.º do presente decreto-lei aplica-se a partir de 1 de Janeiro de 2011 aos aposentados ou beneficiários de pensões em exercício de funções que tenham sido autorizados para o efeito ou que já exerçam funções antes da entrada em vigor do presente decreto-lei.\n\n3 - No prazo de 10 dias contados da data referida no número anterior, os aposentados aí referidos comunicam às entidades empregadoras públicas ou à Caixa Geral de Aposentações, I. P. (CGA, I. P.), consoante o caso, se optam pela suspensão do pagamento da remuneração ou da pensão.\n\n4 - Caso a opção de suspensão de pagamento recaía sobre a remuneração, deve a entidade empregadora pública a quem tenha sido comunicada a opção informar a CGA, I. P., dessa suspensão.\n\n5 - Quando se verifiquem situações de cumulação e sem que tenha sido manifestada a opção a que se refere o n.º 3, deve a CGA, I. P., suspender o pagamento do correspondente valor da pensão."
+  },
+  "839904975": {
+   "fragment_id": "35353275",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 3 do artigo 1.º do Decreto-Lei n.º 106/98, de 24 de Abril;\n\nb) O n.º 2 do artigo 1.º do Decreto-Lei n.º 192/95, de 28 de Julho;\n\nc) O n.º 5 do artigo 78.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, alterado pelo Decreto-Lei n.º 179/2005, de 2 de Novembro."
+  },
+  "839904976": {
+   "fragment_id": "35353375",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com excepção do disposto no número seguinte.\n\n2 - O artigo 5.º entra em vigor a 1 de Janeiro de 2011."
+  },
+  "839904977": {
+   "fragment_id": "35353475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - Augusto Ernesto Santos Silva - Rui Carlos Pereira - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Valter Victorino Lemos - Ana Maria Teodoro Jorge - Maria Isabel Girão de Melo Veiga Vilar - José Mariano Rebelo Pires Gago - Maria Gabriela da Silveira Ferreira Canavilhas - Jorge Lacão Costa.\n\nPromulgado em 18 de Dezembro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Dezembro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "839904978": {
+   "fragment_id": "35352775",
+   "type": 11,
+   "heading": "Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 317.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 42.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Redução do valor das ajudas de custo e do subsídio de transporte\n\n1 - Os valores das ajudas de custo a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos da seguinte forma:\n\na) 20 % no caso da subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso das subalíneas ii) e iii) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n2 - Os valores das ajudas de custo fixados nos termos do disposto no artigo 14.º do Decreto-Lei n.º 106/98, de 24 de Abril, são reduzidos em 20 %.\n\n3 - Os valores das ajudas de custo a que se refere o artigo 4.º do Decreto-Lei n.º 192/95, de 28 de julho, fixados pelo n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro, são reduzidos da seguinte forma:\n\na) 40 % no caso da alínea a) e da subalínea i) da alínea b) do n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro;\n\nb) 35 % no caso das subalíneas ii) e iii) da alínea b) do n.º 5 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro.\n\n4 - Os valores dos subsídios de transporte a que se refere o artigo 38.º do Decreto-Lei n.º 106/98, de 24 de Abril, fixados pelo n.º 4.º da Portaria n.º 1553-D/2008, de 31 de Dezembro, são reduzidos em 10 %.\n\n5 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 1353/2008, de 27 de Novembro, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 1353/2008, de 27 de Novembro.\n\n6 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 344/2009, de 3 de Abril, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n7 - Os valores das ajudas de custo fixados pelo n.º 1.º da Portaria n.º 494/2009, de 11 de Maio, são reduzidos da seguinte forma:\n\na) 20 % nos casos dos Chefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea, oficiais generais e oficiais superiores;\n\nb) 15 % nos casos de outros oficiais, aspirantes a oficial e cadetes, sargentos-mores e sargentos-chefes, outros sargentos, furriéis e subsargentos e praças.\n\n8 - Os valores das ajudas de custo fixados pelos n.os 1.º e 3.º da Portaria n.º 864/2009, de 13 de Agosto, são reduzidos da seguinte forma:\n\na) 20 % nos casos da alínea a) do n.º 1.º e da alínea a) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto;\n\nb) 15 % nos casos das alíneas b) a e) do n.º 1.º e das alíneas b) a e) do n.º 3.º da Portaria n.º 864/2009, de 13 de Agosto.\n\n9 - Todas as demais prestações pecuniárias pagas ao pessoal a que respeitam os números anteriores, independentemente da sua designação formal, que sejam legalmente equiparadas a ajudas de custo, designadamente para efeitos fiscais, são reduzidas da seguinte forma:\n\na) 20 % no caso de, por cada mês, o valor médio diário seja igual ou superior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro;\n\nb) 15 % no caso de, por cada mês, o valor médio diário seja inferior ao valor previsto na subalínea i) da alínea b) do n.º 2.º da Portaria n.º 1553-D/2008, de 31 de Dezembro.\n\n10 - O disposto no número anterior não é aplicável aos suplementos de missão previstos no artigo 3.º do Decreto-Lei n.º 233/96, de 7 de Dezembro, e no artigo 7.º do Decreto-Lei n.º 238/96, de 13 de Dezembro, os quais estão sujeitos, enquanto suplementos, a outras medidas de redução previstas em lei, considerando-se, para este efeito, suspenso o disposto no n.º 2.º das referidas disposições legais.\n\n> Revogado pelo/a Artigo 317.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 42.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  }
+ }
+}

@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:657250:por
+title: Portaria n.º 220/93
+short_title: null
+summary: Prorroga o prazo estabelecido no n.º 17.º da Portaria n.º 742/92, de 24 de Julho (estabelece regras sobre a produção,
+  comercialização e consumo de iogurte e de leites fermentados)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e do Comércio e Turismo
+proposing_entity: null
+official_number: 220/93
+official_date: null
+publication_date: '1993-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 45/1993, Série I-B de 1993-02-23
+  number: '45'
+  series: I
+  supplement: null
+  pages: 762 - 763
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/02/045b00/07620763.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/220/1993/02/23/p/dre/pt/html
+  oj: null
+  dre: '657250'
+  dre_path: /dr/detalhe/portaria/220-1993-657250
+  internal: pt:dre:657250:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/220-1993-657250
+  metadata_url: https://data.dre.pt/eli/port/220/1993/02/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/220-1993-657250
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-02-23T00:00:00Z'
+integrity:
+  source_sha256: fca8cf64d0bd9288e894406b81b0e03097e5fdc374c9874687b22c828e767ec9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-220-657250.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Controlo de Qualidade
+- Fabrico Industrial
+- Iogurte
+- Leite Fermentado
+- Prorrogação de Prazo
+- Comércio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/87/1991/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87/1991/02/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/742/1992/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/742/1992/07/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 220/93
+
+de 23 de Fevereiro
+
+A [Portaria n.º 742/92](https://diariodarepublica.pt/dr/detalhe/portaria/742-1992-292747), de 24 de Julho, veio estabelecer as novas regras relativas à produção e comercialização dos iogurtes e leites fermentados.
+
+No seu n.º 17.º foi prevista uma disposição transitória para os iogurtes com a denominação de meio gordo, de modo a permitir que, até 31 de Dezembro de 1992, esses iogurtes pudessem continuar a ser comercializados com um teor de matéria gorda de acordo com a anterior legislação.
+
+Verificou-se, entretanto, que o referido prazo se mostrou insuficiente para permitir o escoamento das embalagens dos iogurtes com aquelas características, o que, a manter-se, é susceptível de criar prejuízos avultados à indústria do sector.
+
+Assim:
+
+Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 205/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1987-421452), de 16 de Maio, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 87/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1991-485451), de 23 de Fevereiro:
+
+Manda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, o seguinte:
+
+1.º O prazo estabelecido no n.º 17.º da [Portaria n.º 742/92](https://diariodarepublica.pt/dr/detalhe/portaria/742-1992-292747), de 24 de Julho, é prorrogado até 30 de Junho de 1993.
+
+2.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1993.
+
+Ministérios da Agricultura e do Comércio e Turismo.
+
+**Assinada em 8 de Fevereiro de 1993.**
+
+Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.

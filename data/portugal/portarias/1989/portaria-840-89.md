@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:548226:por
+title: Portaria n.º 840/89
+short_title: null
+summary: Alarga a área de recrutamento para provimento do cargo de chefe da Divisão de Fomento, Produção e Conservação Florestal
+  dos Serviços Regionais da Direcção-Geral das Florestas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 840/89
+official_date: null
+publication_date: '1989-09-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/1989, Série I de 1989-09-23
+  number: '220'
+  series: I
+  supplement: null
+  pages: 4258 - 4258
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22000/42584258.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '548226'
+  dre_path: /dr/detalhe/portaria/840-1989-548226
+  internal: pt:dre:548226:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/840-1989-548226
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/840-1989-548226
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-09-23T00:00:00Z'
+integrity:
+  source_sha256: f9ff31b1e636d50859eadf287bf922410c0d6d5b9f7dc2135eceeb9b420ad920
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-840-548226.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 840/89
+
+de 23 de Setembro
+
+De acordo com o disposto no [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro, designadamente o n.º 7 do seu artigo 16.º, à Divisão de Fomento, Produção e Conservação Florestal das circunscrições florestais da Direcção-Geral das Florestas compete o cumprimento de tarefas de índole muito variada e de elevado grau de complexidade, abrangendo a coordenação de acções de fomento florestal, de vulgarização e assistência técnica aos empresários florestais e de incentivo ao associativismo florestal e a informação sobre sistemas de crédito.
+
+Considerando que as funções próprias do cargo de chefe da Divisão de Fomento, Produção e Conservação Florestal exigem conhecimentos específicos e experiência comprovada no domínio da execução de projectos florestais, designadamente na prestação de assistência técnica aos empresários florestais, a instalação e gestão de viveiros florestais, a execução de planos de exploração das matas sob intervenção estatal, a defesa da floresta contra incêndios, a prevenção, detecção e combate a pragas e doenças nas florestas e a fiscalização do cumprimento da mais diversa legislação florestal;
+
+Considerando que não é viável encontrar a curto prazo, e dentro da área de recrutamento regra, candidato que, para além dos necessários conhecimentos técnicos, tenha conhecimentos e experiência específica na área em causa;
+
+Considerando a urgência de que se reveste o preenchimento deste lugar, face às necessidades de dar resposta atempada aos vários regulamentos e directivas comunitários resultantes da integração de Portugal na Comunidade Económica Europeia;
+
+Considerando que, nestas circunstâncias, se justifica o alargamento a funcionários que reúnem os indispensáveis requisitos específicos, em detrimento de quem tão-só reúna os requisitos formais gerais;
+
+Usando da faculdade prevista no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º É excepcionalmente alargada a área de recrutamento para provimento do cargo de chefe da Divisão de Fomento, Produção e Conservação Florestal dos Serviços Regionais da Direcção-Geral das Florestas aos técnicos superiores de 1.ª classe de reconhecida capacidade técnica e experiência profissional para o exercício daquelas funções.
+
+2.º O despacho de nomeação será acompanhado, para publicação, do currículo do nomeado.
+
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+
+**Assinada em 6 de Setembro de 1989.**
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

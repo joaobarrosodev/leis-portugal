@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:901400373:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 37/2024/M
+short_title: null
+summary: Plano Regional de Restauro da Natureza das Ilhas da Madeira e do Porto Santo.
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 37/2024/M
+official_date: null
+publication_date: '2024-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2024, Série I de 2024-12-27
+  number: '251'
+  series: I
+  supplement: null
+  pages: 21 - 22
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25100/0002100022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/37/2024/12/27/m/dre/pt/html
+  oj: null
+  dre: '901400373'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/37-2024-901400373
+  internal: pt:dre:901400373:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/37-2024-901400373
+  metadata_url: https://data.dre.pt/eli/resolalram/37/2024/12/27/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/37-2024-901400373
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-12-27T00:00:00Z'
+integrity:
+  source_sha256: 577c4b6ad0f27d831a443213ceeab257c8074e8c6003c61161f926323092e065
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2024/DRE-2024-37-901400373.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa Regional
+- Governo Regional
+- Assembleia Legislativa
+- Proteção do Ambiente
+- Diversidade Biológica
+- Plano Regional
+- Porto Santo
+- Madeira.região Autónoma
+- Qualidade do Ambiente
+- Recomendação
+- Regulamento CE
+- Governo XXIV
+relationships:
+- type: cites
+  target: celex:32024R1991
+  label: null
+  source: http://data.europa.eu/eli/reg/2024/1991/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 37/2024/M
+
+Plano Regional de Restauro da Natureza das Ilhas da Madeira e do Porto Santo
+
+A União Europeia através do [Regulamento (UE) 2024/1991](http://data.europa.eu/eli/reg/2024/1991/oj?locale=pt), de 24 de junho de 2024, criou a Lei de Restauro da Natureza. Trata-se de um marco histórico na forma como se tem vindo a encarar a recuperação e a preservação do ambiente no nosso continente.
+
+Este regulamento fruto de inúmeras negociações entre os Estados Membros e as instituições europeias estipula a elaboração de Planos Nacionais de Restauro, mas acautela as particularidades das, nomeadamente, insulares e ultraperiféricas, prevendo a adaptação dos seus objetivos e metas às suas realidades.
+
+A União Europeia reconhece que a natureza está em grave declínio no seu território e que as zonas naturais e as populações das espécies estão a diminuir e degradar-se, com consequências graves para as pessoas e para o planeta.
+
+O cenário é alarmante - reconhece a UE - apesar de todas as diretivas que foram adotadas nas últimas décadas, sendo que 80 % dos habitats estão em mau estado, 70 % dos solos em situação de insalubridade e há 10 % de espécies ameaçadas ou em risco de extinção.
+
+A realidade é variável de país para país e de região para região, mas é indiscutível que a exploração pouco sustentável dos recursos, as alterações climáticas, os incêndios, a desflorestação, a poluição, ameaçam todos e põem em causa a qualidade de vida dos europeus.
+
+A Madeira não é exceção e, pese embora, o trabalho realizado na preservação da Floresta Laurissilva - Património da Humanidade desde 1999 - e o trabalho efetivado nas Reservas Naturais das Desertas, com a recuperação da colónia de lobos marinhos, e nas Selvagens, com o alargamento da sua zona marítima e com a proteção das cagarras, é evidente que tanto a Madeira como o Porto Santo têm enfermidades na natureza que precisam de ser curadas e recuperadas.
+
+A chamada Lei de Restauro da Natureza Europeia é uma oportunidade única para a Madeira recuperar e conservar a paisagem, floresta, agricultura e orla costeira, já que salvaguarda a sua adaptação às realidades e ecossistemas das Regiões Ultraperiféricas.
+
+É indiscutível que depois das pessoas o nosso principal ativo é a natureza, a Laurissilva, a paisagem rural humanizada e o mar que são mais-valias económicas, nomeadamente para o turismo e serviços associados.
+
+A Laurissilva, Património Mundial da Humanidade, e os percursos das levadas da Madeira, são absolutamente essenciais à nossa sobrevivência e são dois dos grandes atrativos das nossas ilhas.
+
+A floresta endémica é única, ocupando cerca de 20 % do território, com uma fauna e flora com mais de mil espécies exclusivas da nossa ilha, responsável pelo clima temperado e constitui um fator de identidade e de singularidade da Madeira no mundo.
+
+Felizmente, tem sido possível manter esta relíquia, pese embora os frequentes incêndios nas nossas ilhas, com predominância nas zonas mais montanhosas, mas sobretudo com exuberância na costa norte, mas é um facto que o mesmo não podemos esquecer da costa sul que tem sido frequentemente assolada por incêndios e ocupada por espécies invasoras, que não contribuem para a biodiversidade e são potenciadoras de fogos e de erosão dos solos.
+
+Temos agora oportunidade e meios financeiros para reflorestar as nossas serras, particularmente as atingidas ao longo dos últimos anos pelo fogo, recuperar as antigas estradas regionais, reabilitar os caminhos reais, reativar os percursos pedestres abandonados, apostar numa agricultura sustentável, reabilitar habitats das ribeiras, voltar a naturalizar as zonas marítimas, devolver a fauna e a flora à costa da Madeira e melhorar as condições da praia do Porto Santo.
+
+A paisagem rural humanizada é outra singularidade da Madeira que precisa de ser recuperada, nomeadamente com uma revitalização da agricultura, para além da vinha, da banana e da cana, canalizando apoios para a reabilitação dos poios e dos seus muros de basalto, tão caraterísticos da nossa ilha.
+
+A reflorestação das zonas atingidas pelos fogos, a arborização de outras áreas e a substituição de vastas zonas de eucaliptal e de outras espécies invasoras, são também prioridades da revitalização da paisagem madeirense.
+
+A recuperação do cordão dunar da praia do Porto Santo - principal atrativo da ilha - e a florestação dos seus picos são também objetivos que devem ser prosseguidos.
+
+Nesse sentido, e de acordo com o [Regulamento (UE) 2024/1991](http://data.europa.eu/eli/reg/2024/1991/oj?locale=pt), de 24 de junho de 2024, sobre a Lei de Restauro da Natureza, das competências atribuídas ao Estado e da flexibilidade para a sua adaptação às regiões insulares e ultraperiféricas, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomenda ao Governo Regional e ao Governo da República a elaboração de um Plano de Restauro da Natureza da Madeira e do Porto Santo, de acordo com as metas definidas no quadro europeu e adaptado às nossas especificidades e singularidades.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de dezembro de 2024.
+
+**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**

@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:618535:por
+title: Decreto-Lei n.º 275/89
+short_title: null
+summary: Prevê a existência de um representante do departamento que tutela o ordenamento do território na Comissão do Domínio
+  Público Marítimo. Primeira alteração ao Decreto-Lei n.º 300/84, de 7 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 275/89
+official_date: null
+publication_date: '1989-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/1989, Série I de 1989-08-22
+  number: '192'
+  series: I
+  supplement: null
+  pages: 3444 - 3445
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19200/34443445.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '618535'
+  dre_path: /dr/detalhe/decreto-lei/275-1989-618535
+  internal: pt:dre:618535:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1989-618535
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1989-618535
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-05-12T00:00:00Z'
+integrity:
+  source_sha256: d9438cffec3c243ad7156f0a53472a24e21b7e56128668874e4744a5f4574d88
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-275-618535.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:516742:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 275/89
+
+de 22 de Agosto
+
+O [Decreto-Lei n.º 300/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428), de 7 de Setembro, que define o sistema de autoridade marítima, prevê, como um dos órgãos consultivos para as matérias relacionadas com o exercício global das actividades da autoridade marítima, a Comissão do Domínio Público Marítimo, integrada por representantes de vários departamentos do Estado com responsabilidade nesse domínio.
+
+Dada a importância crescente da política de ordenamento do território e as suas implicações óbvias com a actividade da autoridade marítima, impõe-se a participação na Comissão do Domínio Público Marítimo de um representante do departamento que tutela o ordenamento do território.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. Ao n.º 2 do artigo 5.º do [Decreto-Lei n.º 300/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428), de 7 de Setembro, é acrescentada a seguinte alínea:
+
+u) Um representante do departamento de tutela do ordenamento do território.
+
+Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 2 de Agosto de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 4 de Agosto de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

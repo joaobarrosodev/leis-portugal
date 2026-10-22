@@ -1,0 +1,479 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247427:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-114645426",
+ "dre_path": "/dr/detalhe/portaria/212-2008-247427",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-02-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114635343",
+    "114635344",
+    "114635345",
+    "114635347",
+    "114647077",
+    "114647078",
+    "114647079",
+    "114635348",
+    "114635349",
+    "114635350",
+    "114635351",
+    "114635352",
+    "114635353",
+    "114635354",
+    "114635355",
+    "114635356",
+    "114635357",
+    "114635358",
+    "114635359",
+    "114635360",
+    "114635361",
+    "114635362",
+    "114635363",
+    "114635364",
+    "114635365",
+    "114635366",
+    "114635367",
+    "114635368",
+    "114635369",
+    "114635370",
+    "114635371",
+    "114635372",
+    "114635373",
+    "114635374",
+    "114647075",
+    "114647076"
+   ]
+  },
+  {
+   "date": "2018-02-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114641050:por",
+     "title": "Portaria n.º 44/2018",
+     "published": "2018-02-07",
+     "dre_path": "/dr/detalhe/portaria/44-2018-114641050"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "114635343",
+    "114635344",
+    "114635345",
+    "114635346",
+    "114635347",
+    "114647077",
+    "114647078",
+    "114647079",
+    "114635348",
+    "114635349",
+    "114635350",
+    "114635351",
+    "114635352",
+    "114647084",
+    "114635354",
+    "114635355",
+    "114635356",
+    "114635357",
+    "114635358",
+    "114635359",
+    "114635360",
+    "114635361",
+    "114635362",
+    "114635363",
+    "114635364",
+    "114635365",
+    "114635366",
+    "114635367",
+    "114635368",
+    "114635369",
+    "114635370",
+    "114635371",
+    "114635372",
+    "114635373",
+    "114635374",
+    "114647075",
+    "114647076"
+   ]
+  },
+  {
+   "date": "2023-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207756384:por",
+     "title": "Portaria n.º 53/2023",
+     "published": "2023-02-23",
+     "dre_path": "/dr/detalhe/portaria/53-2023-207756384"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "114635343",
+    "114635344",
+    "114635345",
+    "114635346",
+    "114635347",
+    "114647077",
+    "114647078",
+    "114647079",
+    "114635348",
+    "114635349",
+    "114635350",
+    "114635351",
+    "114635352",
+    "114647084",
+    "114635354",
+    "114635355",
+    "114635356",
+    "114635357",
+    "114635358",
+    "114635359",
+    "114635360",
+    "114635361",
+    "114635362",
+    "207925452",
+    "114635364",
+    "114635365",
+    "114635366",
+    "114635367",
+    "114635368",
+    "114635369",
+    "114635370",
+    "114635371",
+    "114635372",
+    "114635373",
+    "114635374",
+    "114647075",
+    "114647076"
+   ]
+  }
+ ],
+ "fragments": {
+  "114635343": {
+   "fragment_id": "114645427",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 212/2008\n\nde 29 de Fevereiro\n\nPelo Decreto-Lei n.º 26/2008, de 22 de Fevereiro, foi regulada a constituição e o funcionamento do regime público de capitalização bem como do respectivo fundo de certificados de reforma.\n\nPela presente portaria dá-se cumprimento ao disposto no artigo 28.º e no n.º 1 do artigo 44.º, considerando-se, assim, constituído o fundo de certificados de reforma com a sua entrada em vigor e aprovado o correspondente normativo de valorimetria do património do fundo.\n\nCom o Regulamento que pela presente portaria se aprova são fixadas as regras fundamentais ao funcionamento «transparente» do fundo de certificados de reforma, nomeadamente os princípios a que deve obedecer a sua gestão nas fases de acumulação e de utilização dos capitais.\n\nCom o presente Regulamento pretende-se optimizar a relação entre rentabilidade e risco na gestão dos recursos do fundo de certificados de reforma, bem como a minimização dos custos que lhe estão associados, com o intuito de obter os melhores resultados possíveis para os beneficiários do regime público de capitalização.\n\nFoi ouvido o conselho consultivo do Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.\n\nAssim:\n\nAo abrigo do disposto no artigo 44.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro, manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte:"
+  },
+  "114635344": {
+   "fragment_id": "114645428",
+   "type": 11,
+   "heading": "Artigo 1.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regulamento\n\nÉ aprovado o Regulamento de Gestão do Fundo de Certificados de Reforma e o correspondente normativo de valorimetria que constam, respectivamente, dos anexos I e ii à presente portaria e que dela fazem parte integrante."
+  },
+  "114635345": {
+   "fragment_id": "114645429",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de Março de 2008."
+  },
+  "114635347": {
+   "fragment_id": "114645431",
+   "type": 14,
+   "heading": "Anexo I — REGULAMENTO DE GESTÃO DO FUNDO DE CERTIFICADOS DE REFORMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — REGULAMENTO DE GESTÃO DO FUNDO DE CERTIFICADOS DE REFORMA"
+  },
+  "114647077": {
+   "fragment_id": "114645461",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação do fundo e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação do fundo e objectivos\n\n1 - O fundo constituído com a entrada em vigor do presente Regulamento denomina-se fundo de certificados de reforma e tem duração indeterminada.\n\n2 - O fundo de certificados de reforma é um património autónomo destinado à concretização dos objectivos do regime público de capitalização e, como tal, único responsável pelo cumprimento das obrigações dele decorrentes."
+  },
+  "114647078": {
+   "fragment_id": "114645462",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidade gestora\n\n1 - A entidade gestora do fundo de certificados de reforma é, nos termos do artigo 24.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro, o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P., adiante designado apenas por IGFCSS, I. P., com sede no Porto.\n\n2 - O fundo de certificados de reforma não responde pelas obrigações da entidade gestora."
+  },
+  "114647079": {
+   "fragment_id": "114645463",
+   "type": 11,
+   "heading": "Artigo 3.º — Ciclo de vida do fundo de certificados de reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ciclo de vida do fundo de certificados de reforma\n\n1 - A gestão do fundo de certificados de reforma respeita uma fase de acumulação e uma fase de utilização dos capitais acumulados.\n\n2 - A fase de acumulação visa a maximização do valor capitalizado das contribuições dos aderentes e a fase de utilização visa o financiamento das devoluções de capital e o pagamento de complementos sob a forma de rendas vitalícias.\n\n3 - As fases referidas no número anterior dão origem a carteiras e responsabilidades autónomas."
+  },
+  "114635348": {
+   "fragment_id": "114645432",
+   "type": 8,
+   "heading": "Secção I — Fase de acumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Fase de acumulação"
+  },
+  "114635349": {
+   "fragment_id": "114645433",
+   "type": 11,
+   "heading": "Artigo 4.º — Forma de representação e valor inicial da unidade de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Forma de representação e valor inicial da unidade de participação\n\n1 - O fundo é constituído por unidades de participação, inteiras ou fraccionadas, designadas certificados de reforma, tendo o valor inicial de cada unidade de participação sido fixado em (euro) 1, na data da constituição do fundo, sem prejuízo do disposto no n.º 3.\n\n2 - As unidades de participação do fundo não são representadas por títulos, havendo apenas lugar a um registo informático que é mantido pelo IGFCSS, I. P.\n\n3 - O fundo é ainda constituído pelas reservas destinadas ao financiamento de rendas vitalícias e correspondentes despesas, quando não seja possível o disposto no artigo 27.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro, dando origem a uma das carteiras autónomas conforme o previsto no n.º 3 do artigo 3.º"
+  },
+  "114635350": {
+   "fragment_id": "114645434",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma de cálculo do valor da unidade de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma de cálculo do valor da unidade de participação\n\n1 - O valor de cada unidade de participação é apurado dividindo o valor líquido global do fundo, excluindo as reservas e as correspondentes despesas previstas no n.º 3 do artigo anterior, pelo número de unidades de participação em circulação.\n\n2 - O valor líquido global do fundo é o valor dos activos que o integram, valorizados de acordo com o normativo de valorimetria constante do anexo ii, líquido do valor dos encargos efectivos ou pendentes.\n\n3 - O número de unidades de participação correspondente a cada entrega é calculado dividindo o valor da contribuição pelo valor de cada unidade de participação, no dia de crédito da contribuição na conta do fundo, apurado nos termos do n.º 1."
+  },
+  "114635351": {
+   "fragment_id": "114645435",
+   "type": 11,
+   "heading": "Artigo 6.º — Dia do cálculo do valor da unidade de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dia do cálculo do valor da unidade de participação\n\nO IGFCSS, I. P., procede ao cálculo do valor das unidades de participação mensalmente, por referência ao dia do crédito das contribuições na conta do fundo."
+  },
+  "114635352": {
+   "fragment_id": "114645436",
+   "type": 11,
+   "heading": "Artigo 7.º — Política de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Política de investimento\n\n1 - O IGFCSS, I. P., obriga-se a praticar uma gestão financeira com um perfil de risco prudente e em conformidade com as normas legais aplicáveis e dentro dos limites de composição da carteira de activos prevista na presente secção.\n\n2 - A política de investimento é definida pelo IGFCSS, I. P., tendo em consideração as regras de segurança, rentabilidade, diversificação e liquidez tidas por mais adequadas aos objectivos da fase de acumulação do fundo."
+  },
+  "114635353": {
+   "fragment_id": "114645437",
+   "type": 11,
+   "heading": "Artigo 8.º — Princípios, natureza dos activos e limites de composição da carteira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Princípios, natureza dos activos e limites de composição da carteira\n\n1 - Os activos da carteira são geridos através de técnicas e instrumentos adequados, admitindo-se a utilização de instrumentos financeiros derivados, na medida em que contribuam para a cobertura do risco financeiro do fundo ou para uma adequada gestão do seu património.\n\n2 - Na salvaguarda do critério de diversificação, a aplicação de valores em títulos emitidos por uma entidade ou as operações realizadas com uma mesma contraparte não podem ultrapassar 20 % dos respectivos capitais próprios nem 5 % do activo da carteira.\n\n3 - Para efeitos do disposto no número anterior consideram-se como uma única entidade as empresas que tenham entre si uma relação de domínio ou de grupo nos termos definidos na lei.\n\n4 - Da composição da carteira só podem fazer parte activos com origem em Estados membros da União Europeia ou da OCDE, denominados em qualquer moeda com curso legal nesses países.\n\n5 - A composição da carteira deve observar os seguintes limites:\n\na) Mínimo de 50 % em títulos representativos de dívida pública, dos quais metade no mínimo são representativos de dívida pública portuguesa ou garantida pelo Estado português;\n\nb) Máximo de 40 % em títulos representativos de dívida privada, com a condição do rating dos emitentes não ser inferior a «BBB-/Baa3» ou equivalente (investment grade), incluindo emissões de papel comercial, acções preferenciais, unidades de participação em organismos de investimento colectivo que restrinjam a sua política de investimentos a investimentos em dívida com notação de risco investment grade e ainda outros instrumentos financeiros representativos de dívida privada;\n\nc) Máximo de 25 % em acções, warrants avaliados pelo seu valor nocional, títulos de participação, unidades de participação em organismos de investimento colectivo, obrigações convertíveis em acções ou direitos análogos relativamente a sociedades anónimas cotadas em bolsas de valores ou outro mercado regulamentado de Estados membros da União Europeia ou da OCDE;\n\nd) Máximo de 10 % em unidades de participação em organismos de investimento colectivo ou outros veículos financeiros de investimento imobiliário ou em infra-estruturas;\n\ne) Máximo de 10 % em unidades de participação de fundos de investimento mistos;\n\nf) Máximo de 15 % de exposição, não coberta, a moeda estrangeira com curso legal em países da União Europeia ou da OCDE.\n\n6 - O fundo deverá ainda dispor, em cada momento, de uma adequada proporção em disponibilidades de curto prazo destinada a corresponder aos pedidos de utilização de capitais para efeitos de devolução ou conversão em planos de rendas por parte dos aderentes que se encontrem próximos da idade de reforma.\n\n7 - Não podem fazer parte do activo da carteira quaisquer instrumentos representativos de dívidas ou de cauções de terceiros relativamente à segurança social ou ao Estado.\n\n8 - Até que o fundo de certificados de reforma atinja um valor superior a cinco milhões de euros, não se aplicam o n.º 2 e a alínea a) do n.º 5."
+  },
+  "114635354": {
+   "fragment_id": "114645438",
+   "type": 11,
+   "heading": "Artigo 9.º — Utilização de derivados, operações de reporte e empréstimo de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Utilização de derivados, operações de reporte e empréstimo de valores\n\n1 - O fundo poderá utilizar instrumentos financeiros derivados, operações de reporte e empréstimos de valores, com os seguintes objectivos:\n\na) Proceder à cobertura do risco financeiro do fundo;\n\nb) Proceder a uma adequada gestão do seu património.\n\n2 - Entende-se por risco financeiro, designadamente, o seguinte:\n\na) Risco de variação de preços dos activos que compõem a carteira, sejam eles acções, obrigações ou outros activos;\n\nb) Risco de variação das taxas de juro de curto ou de longo prazo, que se traduz em risco de reinvestimento dos fundos em cada momento aplicados;\n\nc) Risco de crédito, que decorre do risco de incumprimento por parte das empresas emitentes das respectivas obrigações ou do risco de descida das cotações pelo efeito de degradação da qualidade de crédito;\n\nd) Risco de flutuações cambiais, que se traduz em alterações no valor das posições em moeda estrangeira, quando convertidas para euros.\n\n3 - Entende-se por adequada gestão do património a gestão global e dinâmica dos riscos do fundo, podendo nesse quadro verificar-se a réplica sem alavancagem de activos financeiros, dentro dos limites da política de investimento definida.\n\n4 - O fundo poderá recorrer a operações de reporte e empréstimo de valores, nos termos da política de investimento, com o objectivo de incrementar a rentabilidade da carteira."
+  },
+  "114635355": {
+   "fragment_id": "114645439",
+   "type": 11,
+   "heading": "Artigo 10.º — Subcontratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Subcontratação\n\n1 - O IGFCSS, I. P., sem prejuízo da sua responsabilidade para com o fundo, pode proceder à contratualização da gestão de parte da carteira com entidades gestoras do sector privado.\n\n2 - A contratualização da gestão visa a optimização da rentabilidade do património do fundo líquida de todos os custos e é sempre acompanhada do estabelecimento de objectivos adequados mediante a definição de índices de rentabilidade de referência.\n\n3 - A contratualização de entidades externas deve contribuir para a maximização das oportunidades de investimento, no respeito dos limites estabelecidos no artigo 8.º do presente Regulamento."
+  },
+  "114635356": {
+   "fragment_id": "114645440",
+   "type": 8,
+   "heading": "Secção II — Fase de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Fase de utilização"
+  },
+  "114635357": {
+   "fragment_id": "114645441",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização do capital acumulado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Utilização do capital acumulado\n\nA utilização do capital acumulado faz-se no respeito pela opção exercida pelo aderente nos termos dos artigos 5.º e 41.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro."
+  },
+  "114635358": {
+   "fragment_id": "114645442",
+   "type": 11,
+   "heading": "Artigo 12.º — Renda vitalícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Renda vitalícia\n\n1 - O valor da renda vitalícia referida no artigo 20.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro, é calculado considerando o montante do capital acumulado, a esperança de vida resultante das tábuas de mortalidade e as condições de mercado em vigor.\n\n2 - A taxa de actualização anual do complemento é fixada no momento da conversão do capital em renda, não sendo inferior ao valor objectivo para a taxa de inflação definido para o Banco Central Europeu."
+  },
+  "114635359": {
+   "fragment_id": "114645443",
+   "type": 11,
+   "heading": "Artigo 13.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Princípios de gestão\n\n1 - O IGFCSS, I. P., deve celebrar contratos de seguro de planos de rendas vitalícias, procurando no mercado as condições mais favoráveis na perspectiva do beneficiário do regime público de capitalização.\n\n2 - A eventual internalização da gestão de parte ou da totalidade dos planos de rendas vitalícias faz-se através de uma carteira específica conforme previsto no n.º 3 do artigo 3.º\n\n3 - A gestão da carteira referida no número anterior deve respeitar os limites previstos no artigo 8.º e utilizar os instrumentos identificados nos artigos 8.º e 9.º, adequando-os, do ponto de vista actuarial, às características dos beneficiários e à duração das responsabilidades assumidas.\n\n4 - A gestão da carteira referida no n.º 2 deve, ainda, respeitar uma política de investimentos específica que tenha em conta níveis adequados de segurança, de qualidade, de rendimento e de liquidez das aplicações efectuadas, assegurando a observância dos princípios de diversificação e dispersão de riscos que proporcione um nível adequado de financiamento das responsabilidades assumidas e atendendo à sensibilidade destas e do activo desta carteira face às variações de mercado."
+  },
+  "114635360": {
+   "fragment_id": "114645444",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "114635361": {
+   "fragment_id": "114645445",
+   "type": 11,
+   "heading": "Artigo 14.º — Custodiante do fundo de certificados de reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Custodiante do fundo de certificados de reforma\n\nO custodiante deve providenciar um serviço que permita assegurar a realização das operações de investimento previstas para o fundo de certificados de reforma neste Regulamento e na política de investimentos."
+  },
+  "114635362": {
+   "fragment_id": "114645446",
+   "type": 11,
+   "heading": "Artigo 15.º — Custos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Custos de gestão\n\n1 - Constituem despesas do fundo de certificados de reforma as especificadas nas alíneas e) a h) do artigo 30.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro.\n\n2 - Constituem ainda custos de gestão, nos termos da alínea h) do mesmo artigo, os custos directos e indirectos de administração do regime público de capitalização.\n\n3 - Os custos indirectos serão imputados proporcionalmente ao peso do fundo de certificados de reforma no total de fundos sob gestão do IGFCSS, I. P."
+  },
+  "114635363": {
+   "fragment_id": "114645447",
+   "type": 11,
+   "heading": "Artigo 16.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divulgação de informação\n\n1 - O IGFCSS, I. P., presta anualmente ao aderente informação sobre:\n\na) Evolução e situação actual da conta individual;\n\nb) Taxa de rentabilidade anual do fundo;\n\nc) Forma e local onde se encontra disponível o relatório e contas anuais referentes ao fundo, bem como a composição do respectivo património;\n\nd) Valor da unidade de participação;\n\ne) Declaração anual para efeitos de imposto sobre os rendimentos de pessoas singulares.\n\n2 - O IGFCSS, I.P., publica mensalmente o valor da unidade de participação do fundo na página da segurança social na Internet e divulga-o, até ao dia 15 de cada mês, nos locais e através dos meios comunicação ao dispor da segurança social.\n\n3 - O IGFCSS, I. P., publica, com a periodicidade mensal, na página da segurança social na Internet, a composição discriminada dos valores que integram o fundo, o número de unidades de participação em circulação e o respectivo valor unitário.\n\n4 - O IGFCSS, I. P., presta anualmente ao beneficiário informação sobre:\n\na) Valor da actualização do complemento para o ano em curso;\n\nb) Declaração anual para efeitos de imposto sobre os rendimentos de pessoas singulares."
+  },
+  "114635364": {
+   "fragment_id": "114645448",
+   "type": 11,
+   "heading": "Artigo 17.º — Alterações ao Regulamento de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alterações ao Regulamento de Gestão\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo 33.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro, o IGFCSS, I. P., pode propor ao membro do Governo com tutela sobre a área da segurança social alterações ao presente Regulamento, nomeadamente quando o interesse dos aderentes assim o aconselhar.\n\n2 - As alterações ao presente Regulamento de Gestão são publicadas na página da segurança social."
+  },
+  "114635365": {
+   "fragment_id": "114645449",
+   "type": 11,
+   "heading": "Artigo 18.º — Relatórios e contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Relatórios e contas anuais\n\n1 - O relatório de actividades e as contas anuais relativas ao fundo de certificados de reforma são objecto de parecer do fiscal único do IGFCSS, I. P.\n\n2 - Os documentos referidos no número anterior serão submetidos à aprovação do ministro que tutela a área da segurança social e ao Tribunal de Contas.\n\n3 - Após a aprovação prevista no número anterior o relatório de actividades e as contas relativas ao fundo de certificados de reforma são divulgados na página da segurança social."
+  },
+  "114635366": {
+   "fragment_id": "114645450",
+   "type": 14,
+   "heading": "Anexo II — Normativo de valorimetria do fundo dos certificados de reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Normativo de valorimetria do fundo dos certificados de reforma"
+  },
+  "114635367": {
+   "fragment_id": "114645451",
+   "type": 11,
+   "heading": "Artigo 1.º — Contabilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Contabilização\n\n1 - O fundo dos certificados de reforma, abreviadamente designado por fundo, está sujeito, no aspecto contabilístico, ao presente normativo de valorimetria, aplicando-se supletivamente as normas contabilísticas internacionalmente aceites, nomeadamente no que se refere aos critérios de valorimetria do património dos fundos.\n\n2 - Os valores contabilizados no fundo correspondem ao período entre 1 de Janeiro e 31 de Dezembro.\n\n3 - Os juros de títulos de rendimento fixo adquiridos mas não recebidos devem ser contabilizados sempre que se calcule o valor da unidade de participação ou sejam apresentados relatórios sobre a situação financeira do fundo.\n\n4 - Não devem ser contabilizados como rendimento juros cujo recebimento seja considerado duvidoso, assim como quaisquer juros já vencidos, cujo pagamento se encontre suspenso.\n\n5 - Os juros correspondentes à parte fixa dos títulos de participação devem ter tratamento idêntico aos juros das obrigações.\n\n6 - Os ganhos ou perdas resultantes da avaliação, alienação ou reembolso dos investimentos serão contabilizados nas respectivas contas de resultados, proveitos ou custos, respectivamente:\n\na) Pela diferença entre o valor decorrente da avaliação e o valor pelo qual se encontram contabilizadas, isto é, pelo valor de aquisição corrigido pelo efeito de valorização, tratando-se das avaliações;\n\nb) Pela diferença entre o produto da venda e o valor pelo qual se encontram contabilizadas, isto é, pelo valor de aquisição corrigido pelo efeito de valorização, tratando-se de alienação ou reembolso.\n\n7 - Os prémios de reembolso das obrigações devem ser contabilizados na conta de rendimentos."
+  },
+  "114635368": {
+   "fragment_id": "114645452",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios gerais de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios gerais de avaliação\n\n1 - Sem prejuízo do estabelecido adiante, e tomando em consideração as disposições específicas do presente normativo, os activos que compõem o património do fundo devem ser avaliados pelo seu justo valor, devendo o IGFCSS, I. P.:\n\na) Adoptar políticas e procedimentos de avaliação adequados, no sentido de assegurar que as estimativas do justo valor de cada activo sejam obtidas com uma base segura e consistente;\n\nb) Adoptar critérios e pressupostos de avaliação uniformes, relativamente aos activos que compõem o património do fundo.\n\n2 - Para os activos que se encontrem admitidos à negociação em bolsas de valores ou em mercados regulamentados o justo valor deve ser o respectivo preço de mercado.\n\n3 - O IGFCSS, I. P., não deve utilizar o preço de mercado de um activo para efeitos de determinação do seu justo valor sempre que esse preço não tenha sido obtido através de transacções normais de mercado.\n\n4 - Para efeito do número anterior, presume-se que o preço de mercado de um activo não foi obtido através de transacções normais de mercado quando, nomeadamente:\n\na) Esse preço reflecte uma transacção com uma entidade que apresenta graves dificuldades financeiras;\n\nb) Esse preço teria sido diferente se fosse objecto de uma negociação isolada, em vez de ter ocorrido em conjunto com outras transacções, contratos ou acordos entre as entidades intervenientes;\n\nc) Esse preço teria sido diferente se não tivesse ocorrido uma transacção entre entidades pertencentes ao mesmo grupo;\n\nd) Tenham sido publicamente admitidos erros na determinação desse preço.\n\n5 - Para os activos que se encontrem admitidos à negociação em bolsas de valores ou em mercados regulamentados, cujo valor de cotação raramente se encontre disponível ou cujas quantidades transaccionadas nessas bolsas ou mercados forem insignificantes face à quantidade de transacções efectuadas em sistemas de negociação especializados e internacionalmente reconhecidos, o IGFCSS, I. P., utilizará, em alternativa ao preço de mercado, os preços praticados nesses sistemas.\n\n6 - Os activos que não se encontrem admitidos à negociação em bolsas de valores ou em mercados regulamentados e, bem assim, os activos correspondentes às situações do n.º 3 devem ser avaliados tendo por base o seu presumível valor de realização, calculado nos termos definidos no artigo 5.º, devendo para o efeito considerar-se toda a informação relevante disponível sobre o emitente, bem como as condições de mercado vigentes no momento de referência da avaliação.\n\n7 - Sempre que sejam utilizados modelos de avaliação para efeito de determinação do presumível valor de realização, o IGFCSS, I. P., terá em consideração os seguintes princípios:\n\na) Quando, para um determinado activo financeiro, exista algum modelo de avaliação utilizado pela generalidade do mercado e que tenha demonstrado fornecer estimativas fiáveis, deve ser esse o modelo a utilizar;\n\nb) Os modelos de avaliação devem ser baseados em metodologias económicas reconhecidas e usualmente utilizadas para avaliar o tipo de activos financeiros em causa e a sua validade deve ser testada usando preços de transacções efectivamente verificadas;\n\nc) As estimativas e os pressupostos utilizados nos modelos de avaliação devem ser consistentes com a informação disponível que o mercado utilizaria para a fixação do preço de transacção desse activo.\n\n8 - Quando, para efeito da determinação do justo valor, um activo não puder ser avaliado de forma fiável por qualquer um dos critérios anteriormente descritos, deverá ser efectuada uma avaliação prudente que tenha em conta as características do activo em causa.\n\n9 - Na avaliação de activos expressos em moeda diferente do euro serão aplicadas as taxas de câmbio indicativas fornecidas diariamente pela agência de informação financeira Bloomberg.\n\n10 - A avaliação dos instrumentos financeiros derivados, bem como dos activos financeiros envolvidos em operações de reporte e de empréstimo de valores, deve ser feita, com as devidas adaptações, nos termos do artigo 4.º e seguintes."
+  },
+  "114635369": {
+   "fragment_id": "114645453",
+   "type": 11,
+   "heading": "Artigo 3.º — Periodicidade e momento de referência da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Periodicidade e momento de referência da avaliação\n\n1 - Os instrumentos financeiros que compõem o património do fundo devem, no mínimo, ser avaliados com periodicidade mensal, salvo se a natureza do instrumento, nomeadamente por força da sua reduzida liquidez, permita justificar uma periodicidade diferente.\n\n2 - Sem prejuízo do disposto no número seguinte, o preço dos activos deve referir-se à data a que se reporta a informação relativa ao valor do fundo ou ao dia útil imediatamente anterior, no caso dessa data não corresponder a um dia útil.\n\n3 - Para as transacções efectuadas em mercados estrangeiros, com horários diferenciados, a entidade gestora pode considerar apenas as transacções concretizadas até ao final do dia útil imediatamente anterior ao da avaliação do património.\n\n4 - Os juros vencidos dos títulos de rendimento fixo devem ser contados até à data de referência da avaliação.\n\n5 - Consideram-se integrantes do património do fundo todos os activos resultantes de transacções realizadas até à data de referência da avaliação, ainda que estejam pendentes de liquidação."
+  },
+  "114635370": {
+   "fragment_id": "114645454",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação a justo valor: Instrumentos financeiros admitidos à negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação a justo valor: Instrumentos financeiros admitidos à negociação\n\n1 - O justo valor dos instrumentos financeiros admitidos à negociação em bolsas de valores ou em mercados regulamentados deve corresponder à cotação de fecho ou ao preço de referência divulgado pela instituição gestora do mercado financeiro em que esses instrumentos se encontrem admitidos à negociação.\n\n2 - No caso de instrumentos financeiros admitidos à negociação em mais de uma bolsa de valores ou mercado regulamentado, o valor a considerar deve reflectir os preços praticados no mercado principal (primary exchange) conforme publicado na agência de informação financeira Bloomberg.\n\n3 - Sem prejuízo do disposto no n.º 5 do artigo 2.º, os instrumentos financeiros admitidos à negociação em bolsas de valores ou em mercados regulamentados que não tenham sido transaccionados durante os 30 dias antecedentes ao dia de referência da avaliação, são equiparados, para efeitos de aplicação do presente normativo, a instrumentos financeiros não admitidos à negociação."
+  },
+  "114635371": {
+   "fragment_id": "114645455",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação a justo valor: Instrumentos financeiros não admitidos à negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação a justo valor: Instrumentos financeiros não admitidos à negociação\n\n1 - O justo valor dos instrumentos financeiros não admitidos à negociação em bolsas de valores ou em mercados regulamentados deve ser obtido por aplicação da seguinte sequência de prioridades:\n\n1.ª Preço praticado em sistemas de negociação especializados e internacionalmente reconhecidos, nos termos do n.º 5 do artigo 2.º;\n\n2.ª Na impossibilidade de aplicar o disposto na prioridade anterior, valor de realização obtido por consulta a potenciais contrapartes credíveis;\n\n3.ª Na impossibilidade de aplicar as prioridades anteriores, podem ser adoptados modelos de avaliação universalmente aceites nos mercados financeiros, baseados na análise fundamental e na metodologia do desconto dos fluxos financeiros subjacentes.\n\n2 - Para os instrumentos financeiros em processo de admissão à negociação, o IGFCSS, I. P., pode adoptar critérios baseados na avaliação de instrumentos financeiros da mesma espécie, emitidos pela mesma entidade e que se encontrem admitidos à negociação, tendo em conta, nomeadamente, a fungibilidade e a liquidez entre as emissões."
+  },
+  "114635372": {
+   "fragment_id": "114645456",
+   "type": 11,
+   "heading": "Artigo 6.º — Participações em organismos de investimento colectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Participações em organismos de investimento colectivo\n\nO justo valor das participações em organismos de investimento colectivo deve corresponder ao seu valor patrimonial."
+  },
+  "114635373": {
+   "fragment_id": "114645457",
+   "type": 11,
+   "heading": "Artigo 7.º — Empréstimos de valores e depósitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Empréstimos de valores e depósitos\n\nOs créditos decorrentes de empréstimos de valores, os depósitos bancários e outros activos de natureza monetária devem ser avaliados ao seu valor nominal, tomando-se em consideração as respectivas características intrínsecas."
+  },
+  "114635374": {
+   "fragment_id": "114645458",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimentos internos\n\nOs casos previstos no n.º 4 do artigo 2.º e no artigo 5.º serão obrigatoriamente objecto de definição e fundamentação quanto aos critérios e modelos utilizados para determinação do justo valor dos activos."
+  },
+  "114647075": {
+   "fragment_id": "114645459",
+   "type": 11,
+   "heading": "Artigo 9.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Certificação\n\nOs procedimentos implementados e os elementos de suporte utilizados pelo IGFCSS, I. P., para a avaliação dos activos que compõem o património do fundo serão objecto de apreciação anual pelo fiscal único do IGFCSS, I. P."
+  },
+  "114647076": {
+   "fragment_id": "114645460",
+   "type": 11,
+   "heading": "Artigo 10.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alterações\n\n1 - O conselho directivo do IGFCSS, I. P., pode propor ao membro do Governo com tutela sobre a área da segurança social alterações ao presente normativo, nomeadamente quando ocorram actualizações relevantes das normas contabilísticas internacionalmente aceites, nomeadamente no que se refere aos critérios de valorimetria do património dos fundos.\n\n2 - As alterações ao normativo de valorimetria são publicadas na página da segurança social."
+  },
+  "114635346": {
+   "fragment_id": "114645430",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 22 de Fevereiro de 2008."
+  },
+  "114647084": {
+   "fragment_id": "114645437",
+   "type": 11,
+   "heading": "Artigo 8.º — Princípios, natureza dos activos e limites de composição da carteira",
+   "in_force_from": "2018-02-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 44/2018 - Diário da República n.º 27/2018, Série I de 2018-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/44-2018-114641050), em vigor a partir de 2018-02-08"
+   ],
+   "markdown": "###### Artigo 8.º — Princípios, natureza dos activos e limites de composição da carteira\n\n1 - Os activos da carteira são geridos através de técnicas e instrumentos adequados, admitindo-se a utilização de instrumentos financeiros derivados, na medida em que contribuam para a cobertura do risco financeiro do fundo ou para uma adequada gestão do seu património.\n\n2 - Na salvaguarda do critério de diversificação, a aplicação de valores em títulos emitidos por uma entidade ou as operações realizadas com uma mesma contraparte não podem ultrapassar 20 % dos respectivos capitais próprios nem 5 % do activo da carteira.\n\n3 - Para efeitos do disposto no número anterior consideram-se como uma única entidade as empresas que tenham entre si uma relação de domínio ou de grupo nos termos definidos na lei.\n\n4 - Da composição da carteira só podem fazer parte activos com origem em Estados membros da União Europeia ou da OCDE, denominados em qualquer moeda com curso legal nesses países.\n\n5 - A composição da carteira deve observar os seguintes limites:\n\na) Mínimo de 50 % em títulos representativos de dívida pública, dos quais metade no mínimo são representativos de dívida pública portuguesa ou garantida pelo Estado português;\n\nb) Máximo de 40 % em títulos representativos de dívida privada, excluindo depósitos, com a condição do rating dos emitentes não ser inferior a «BBB -/Baa3» ou equivalente (investment grade), incluindo emissões de papel comercial, ações preferenciais, unidades de participação em organismos de investimento coletivo que restrinjam a sua política de investimentos a investimentos em dívida com notação de risco investment grade e ainda outros instrumentos financeiros representativos de dívida privada;\n\nc) Máximo de 25 % em acções, warrants avaliados pelo seu valor nocional, títulos de participação, unidades de participação em organismos de investimento colectivo, obrigações convertíveis em acções ou direitos análogos relativamente a sociedades anónimas cotadas em bolsas de valores ou outro mercado regulamentado de Estados membros da União Europeia ou da OCDE;\n\nd) Máximo de 10 % em unidades de participação em organismos de investimento colectivo ou outros veículos financeiros de investimento imobiliário ou em infra-estruturas;\n\ne) Máximo de 10 % em unidades de participação de fundos de investimento mistos;\n\nf) Máximo de 15 % de exposição, não coberta, a moeda estrangeira com curso legal em países da União Europeia ou da OCDE.\n\n6 - O fundo deverá ainda dispor, em cada momento, de uma adequada proporção em disponibilidades de curto prazo destinada a corresponder aos pedidos de utilização de capitais para efeitos de devolução ou conversão em planos de rendas por parte dos aderentes que se encontrem próximos da idade de reforma.\n\n7 - Não podem fazer parte do activo da carteira quaisquer instrumentos representativos de dívidas ou de cauções de terceiros relativamente à segurança social ou ao Estado.\n\n8 - Até que o fundo de certificados de reforma atinja um valor superior a cinco milhões de euros, não se aplicam o n.º 2 e a alínea a) do n.º 5.\n\n9 - Sem prejuízo das demais limitações à realização de operações por conta do FCR resultantes de disposição legal e do presente Regulamento, as entidades depositárias e as entidades que sejam contraparte do FCR em operações financeiras que envolvam risco de crédito para o Fundo, devem ser instituições sujeitas às regras prudenciais vigentes na União europeia ou a regras prudenciais no mínimo tão exigentes como as da União Europeia desde que cumpram pelo menos um dos seguintes critérios:\n\na) Encontrar-se localizadas no espaço económico europeu;\n\nb) Encontrar-se localizadas num país da OCDE pertencente ao Grupo dos 10;\n\nc) Ter, no mínimo, uma notação de risco (investment grade).\n\n10 - A lista das instituições selecionadas para efeitos do número anterior é remetida ao membro do Governo responsável pela área da segurança social para conhecimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 44/2018 - Diário da República n.º 27/2018, Série I de 2018-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/44-2018-114641050), em vigor a partir de 2018-02-08"
+  },
+  "207925452": {
+   "fragment_id": "114645447",
+   "type": 11,
+   "heading": "Artigo 16.º — Divulgação de informação",
+   "in_force_from": "2023-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+   ],
+   "markdown": "###### Artigo 16.º — Divulgação de informação\n\n1 - O IGFCSS, I. P., presta anualmente ao aderente informação sobre:\n\na) Evolução e situação actual da conta individual;\n\nb) Taxa de rentabilidade anual do fundo;\n\nc) Forma e local onde se encontra disponível o relatório e contas anuais referentes ao fundo, bem como a composição do respectivo património;\n\nd) Valor da unidade de participação;\n\ne) Declaração anual para efeitos de imposto sobre os rendimentos de pessoas singulares.\n\n2 - O IGFCSS, I. P., publica mensalmente o valor da unidade de participação do fundo na página da segurança social na Internet e divulga-o até ao dia 22 de cada mês, ou no dia útil seguinte, nos locais e através dos meios de comunicação ao dispor da segurança social.\n\n3 - O IGFCSS, I. P., publica, com a periodicidade mensal, na página da segurança social na Internet, a composição discriminada dos valores que integram o fundo, o número de unidades de participação em circulação e o respectivo valor unitário.\n\n4 - O IGFCSS, I. P., presta anualmente ao beneficiário informação sobre:\n\na) Valor da actualização do complemento para o ano em curso;\n\nb) Declaração anual para efeitos de imposto sobre os rendimentos de pessoas singulares.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+  }
+ }
+}

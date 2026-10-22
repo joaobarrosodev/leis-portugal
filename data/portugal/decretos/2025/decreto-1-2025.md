@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:901998025:por
+title: Decreto n.º 1/2025
+short_title: null
+summary: Procede à exclusão do regime florestal parcial de uma parcela de terreno pertencente ao Perímetro Florestal da Alva
+  das Pataias e à submissão ao mesmo regime florestal e constituição do Perímetro Florestal da Quinta do Campo de terrenos
+  sitos nas freguesias do Bárrio e de Alcobaça e Vestiaria no concelho de Alcobaça.
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura e Pescas
+official_number: 1/2025
+official_date: null
+publication_date: '2025-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/2025, Série I de 2025-01-03
+  number: '2'
+  series: I
+  supplement: null
+  pages: 8 - 11
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00200/0000800011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/1/2025/01/03/p/dre/pt/html
+  oj: null
+  dre: '901998025'
+  dre_path: /dr/detalhe/decreto/1-2025-901998025
+  internal: pt:dre:901998025:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2025-901998025
+  metadata_url: https://data.dre.pt/eli/dec/1/2025/01/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-2025-901998025
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-01-03T00:00:00Z'
+integrity:
+  source_sha256: 9faf56f150babff8397998a85db60b85d80d5a48a7a530872181446ec7ae5268
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-1-901998025.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alcobaça
+- Circunscrição Florestal
+- Regime Florestal
+- Autarquia Local
+- Zona Industrial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec/15/2003/04/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec/15/2003/04/17/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 1/2025
+
+No ano de 2003, através do [Decreto n.º 15/2003](https://diariodarepublica.pt/dr/detalhe/decreto/15-2003-239608), de 17 de abril, foi excluída do regime florestal parcial a área de 32,72 hectares, pertencente ao Perímetro Florestal da Alva de Pataias, que se destinava à ampliação da Zona Industrial de Pataias.
+
+Todavia, não tendo sido implementada a ampliação da Zona Industrial de Pataias no prazo estabelecido, a área de 32,72 hectares foi novamente incluída no regime florestal parcial passando a ser parte integrante do Perímetro Florestal de Alva de Pataias.
+
+Ultrapassados os constrangimentos que impediram a ampliação da Zona Industrial de Pataias e mantendo a pretensão na mesma, a Câmara Municipal de Alcobaça solicita a desafetação do regime florestal parcial da área de 32,72 hectares pertencente ao Perímetro Florestal da Alva de Pataias, na freguesia de Pataias, concelho de Alcobaça.
+
+A referida área é propriedade do Município de Alcobaça e foi submetida, inicialmente, ao regime florestal parcial pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de julho de 1917, publicado no Diário do Governo, 1.ª série, n.º 123, de 27 de julho de 1917, passando a integrar o perímetro florestal da Alva de Pataias.
+
+Como medida compensatória pela desafetação do regime florestal parcial da área de 32,72 hectares necessária à ampliação da Zona Industrial de Pataias, a Câmara Municipal de Alcobaça decidiu solicitar a submissão ao regime florestal parcial de uma área com a dimensão de 32,72 hectares de terreno pertencente ao Município de Alcobaça, localizado na freguesia de Pataias, passando tal área a constituir uma nova unidade de regime florestal, o denominado Perímetro Florestal da Quinta do Campo.
+
+A desafetação do regime florestal parcial da área de 32,72 hectares não tem qualquer impacte negativo no ordenamento e gestão florestal do perímetro florestal da Alva de Pataias, nem nos fins prosseguidos pelo Regime Florestal, e a submissão ao regime florestal parcial da área com a dimensão de 32,72 hectares aplica os preceitos do Regime Florestal mantendo a área submetida a este Regime.
+
+A ampliação da Zona Industrial de Pataias numa área de 32,72 hectares implica que esta seja desafetada do regime florestal parcial no qual foi incluída pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de julho de 1917, publicado no Diário do Governo, 1.ª série, n.º 123, de 27 de julho de 1917, sendo o presente decreto elaborado em cumprimento do disposto nos artigos 25.º, 26.º, 28.º, 32.º e 33.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, que define a submissão e a desafetação de terrenos ao regime florestal, e ainda o artigo 4.º do Decreto de 24 de dezembro de 1903, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1903, que aprova o regulamentação para a execução do regime florestal.
+
+Foram ouvidos a Câmara Municipal de Alcobaça, o Instituto da Conservação da Natureza e das Florestas, I. P., e a Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, I. P.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Exclusão do regime florestal parcial
+
+1 - É excluída do regime florestal parcial, ao qual foi submetida pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de julho de 1917, publicado no Diário do Governo, 1.ª série, n.º 123, de 27 de julho de 1917, uma parcela de terreno com a área de 32,72 hectares integrada no Perímetro Florestal da Alva de Pataias, delimitada na planta constante do anexo i ao presente decreto e do qual faz parte integrante.
+
+2 - A exclusão prevista no número anterior visa permitir a ampliação da Zona Industrial de Pataias, na freguesia de Pataias, concelho de Alcobaça.
+
+###### Artigo 2.º — Medidas a adotar
+
+1 - A retirada do material lenhoso existente na parcela de terreno referida no artigo anterior só pode ser efetuada após o Instituto da Conservação da Natureza e das Florestas, I. P., proceder à sua alienação.
+
+2 - O proprietário da parcela de terreno que agora se desafeta e a que se refere o n.º 2 do artigo anterior é responsável pelo cumprimento de todas as medidas e ações previstas no âmbito do Sistema de Gestão Integrada de Fogos Rurais, em toda a sua envolvente, e por todos os trabalhos daí decorrentes.
+
+###### Artigo 3.º — Reintegração no regime florestal parcial e no Perímetro Florestal
+
+1 - A ampliação da Zona Industrial na parcela de terreno ora excluída do regime florestal parcial deve ocorrer no prazo de cinco anos a contar da data de entrada em vigor do presente decreto.
+
+2 - Decorrido o prazo indicado no número anterior sem que ocorra a ampliação da Zona Industrial, considera-se a mesma parcela automaticamente reintegrada no Perímetro Florestal da Alva das Pataias e também submetida ao regime florestal parcial, sem dependência de publicação de novo decreto de submissão.
+
+###### Artigo 4.º — Submissão ao regime florestal parcial
+
+1 - Como compensação pela exclusão do regime florestal parcial prevista no artigo 1.º, é submetida ao mesmo regime, nos termos do disposto nos artigos 25.º, 26.º, 28.º e 32.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901, uma área total de 32,72 hectares, pertencente ao Município de Alcobaça, e localizada nas freguesias do Bárrio e de Alcobaça e Vestiaria, concelho de Alcobaça, as quais se encontram delimitadas na planta constante do anexo ii ao presente decreto e do qual faz parte integrante.
+
+2 - A área referida no número anterior passa a constituir o Perímetro Florestal da Quinta do Campo.
+
+Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2024. - Luís Montenegro - José Manuel Fernandes.
+
+**Assinado em 23 de dezembro de 2024.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 27 de dezembro de 2024.**
+
+**O Primeiro-Ministro, Luís Montenegro.**
+
+## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
+
+Área a excluir do regime florestal parcial
+
+![](https://files.diariodarepublica.pt/images/901998025/901997927.png)
+
+## ANEXO II — (a que se refere o n.º 1 do artigo 4.º)
+
+Área a submeter ao regime florestal parcial
+
+![](https://files.diariodarepublica.pt/images/901998025/901997928.png)

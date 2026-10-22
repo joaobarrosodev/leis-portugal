@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:310655:por
+title: Decreto-Lei n.º 727/75
+short_title: null
+summary: Concede perdão e amnistia para diversas infracções
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 727/75
+official_date: null
+publication_date: '1975-12-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 294/1975, Série I de 1975-12-22
+  number: '294'
+  series: I
+  supplement: null
+  pages: 2113 - 2114
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29400/21132114.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '310655'
+  dre_path: /dr/detalhe/decreto-lei/727-1975-310655
+  internal: pt:dre:310655:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/727-1975-310655
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/727-1975-310655
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-12-22T00:00:00Z'
+integrity:
+  source_sha256: d16c270fa1ba1b2229a90eb7352fad43d203337bd5142f6c275da820dea80de0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-727-310655.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 727/75
+
+de 22 de Dezembro
+
+Considerando que nesta quadra do Natal, em que tradicionalmente a paz e a concórdia reinam entre os homens, fazendo esquecer as ofensas e querelas que os dividem;
+
+Considerando que, por essa razão, se considera esta época do ano a mais adequada para assinalar os factos que até agora mais significativamente marcaram a consolidação da Revolução de Abril de 1974, bem como a edificação da via para o socialismo, vivido em democracia e liberdade;
+
+Considerando porém que o aumento da criminalidade e clima de violência vivido até aos acontecimentos de 25 de Novembro de 1975 não permitem ser-se tão generoso quanto o desejado no acto de clemência que agora se concede:
+
+Através do presente diploma se determina amnistia e perdão relativamente aos crimes e contravenções dele constantes.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. São amnistiadas as seguintes infracções:
+
+a) Crimes contra a propriedade meramente culposos;
+
+b) Os crimes de difamação e injúria previstos nos artigos 407.º, 410.º a 415.º, 417.º e 419.º do Código Penal, ainda que cometidos pela imprensa;
+
+c) Os crimes dos artigos 359.º e 360.º, n.º 1 (salvas as excepções do § único), do Código Penal, cometidos contra ascendentes, descendentes ou irmãos, desde que estes concedam o seu perdão;
+
+d) O crime previsto e punido no artigo 369.º do Código Penal e transgressões causais ou conexas;
+
+e) As transgressões ao regime da caça puníveis com multa;
+
+f) As transgressões ao Código da Estrada e seu Regulamento, quando puníveis apenas com multa;
+
+g) As infracções previstas e punidas pelos artigos 52.º, n.º 1, 54.º e 55.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893);
+
+h) As infracções previstas e punidas pelos artigos 132.º, 149.º, n.º 1, e 157.º do [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936);
+
+i) As infracções à Lei de Imprensa - [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803) -, sem prejuízo do dever de regularização das situações de irregularidade continuada, dentro do prazo de trinta dias, a contar da publicação do presente diploma, sob a cominação da repetição da correspondente infracção.
+
+2. A amnistia não extingue a responsabilidade civil emergente dos factos praticados, podendo os ofendidos, no prazo de trinta dias, requerer o prosseguimento dos processos em que haja pedido cível formulado para fixação das indemnizações.
+
+3. Nos processos em que vier a ser aplicada a amnistia serão restituídas as quantias de imposto de justiça pagas pela constituição de assistentes.
+
+###### Art. 2.º São perdoadas:
+
+a) A prisão resultante da conversão de multas já aplicadas, desde que se não trate de delinquente habitual;
+
+b) A prisão imposta ao abrigo do disposto no artigo 854.º, n.º 2, do Código de Processo Civil, sem prejuízo da pena que venha a ser imposta, pelo facto que dera lugar à prisão perdoada, em processo criminal.
+
+###### Art. 3.º Os benefícios concedidos por este diploma não abrangem as infracções quando a respectiva instrução ou julgamento sejam da competência do foro militar.
+
+###### Art. 4.º O presente decreto-lei entra em vigor na data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha.
+
+**Promulgado em 16 de Dezembro de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

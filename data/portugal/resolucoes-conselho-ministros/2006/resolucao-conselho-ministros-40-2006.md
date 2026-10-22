@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:661279:por
+title: Resolução do Conselho de Ministros n.º 40/2006
+short_title: null
+summary: Determina a elaboração do Plano Nacional de Acção para a Inclusão 2006-2008 e define as suas estruturas de elaboração
+  e acompanhamento
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 40/2006
+official_date: null
+publication_date: '2006-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/2006, Série I-B de 2006-04-26
+  number: '81'
+  series: I
+  supplement: null
+  pages: 2915 - 2916
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/04/081b00/29152916.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/40/2006/04/26/p/dre/pt/html
+  oj: null
+  dre: '661279'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/40-2006-661279
+  internal: pt:dre:661279:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2006-661279
+  metadata_url: https://data.dre.pt/eli/resolconsmin/40/2006/04/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2006-661279
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-10-01T00:00:00Z'
+integrity:
+  source_sha256: a65bfe026fa7f300608a36a08a9acf7a3eeed33c8cb11b2fb706f5b2c6ba8618
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-40-661279.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Exclusão Social
+- Instituto da Segurança Social
+- Luta contra a Pobreza
+- Pobreza
+- Comissão de Acompanhamento
+- Desenvolvimento Social
+- PNAI
+- Grupo de Trabalho
+- Inserção Social
+relationships:
+- type: amended_by
+  target: pt:dre:480969:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/79/2003/06/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/79/2003/06/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 40/2006
+
+A promoção da inclusão social inscreve-se hoje no programa estratégico da União Europeia e de cada um dos Estados membros.
+
+O Conselho Europeu de Lisboa, realizado em Março de 2000, desempenhou um papel de importância decisiva ao definir para a Europa um novo objectivo estratégico enunciado na fórmula do «triângulo de Lisboa» de crescimento económico, mais e melhor emprego e maior coesão social. O principal vector político deste novo objectivo estratégico assenta no método aberto de coordenação, que conjuga objectivos comuns, planos nacionais de acção e um programa comunitário com vista a promover a cooperação neste domínio.
+
+No âmbito dos objectivos comuns, o Plano Nacional de Acção para a Inclusão (PNAI) representa uma estratégia global para a inclusão social, identificando os principais eixos de intervenção e as medidas e políticas ou instrumentos em curso e a implementar. Neste contexto, em Portugal, o PNAI constitui um instrumento de coordenação estratégica e operacional das políticas de inclusão social e assenta na capacidade colectiva da sociedade portuguesa, criando uma oportunidade para o desenvolvimento de um referencial comum.
+
+Por outro lado, o entendimento de que a pobreza e a exclusão social assumem formas complexas e multidimensionais com impactes diversos ao nível do território obriga a que o PNAI, para uma pluridisciplinaridade de acções, em vários domínios e a diferentes níveis, recorra a um amplo leque de medidas.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar a elaboração do Plano Nacional de Acção para a Inclusão 2006-2008 (PNAI) até Setembro de 2006, mandatando para o efeito a comissão de acompanhamento do PNAI, adiante designada por comissão.
+
+2 - Manter em funcionamento a comissão de acompanhamento do PNAI e determinar como seus objectivos o acompanhamento da execução do PNAI e o desenvolvimento de todas as diligências e procedimentos necessários ao acompanhamento do processo europeu de inclusão social, de acordo com as orientações emanadas das instâncias europeias, nomeadamente no que se refere à preparação, elaboração e monitorização do PNAI.
+
+3 - Cometer à comissão, para a prossecução dos objectivos referidos no número anterior:
+
+a) A definição das orientações, da metodologia e dos instrumentos de suporte à concepção, elaboração, acompanhamento e avaliação do PNAI;
+
+b) A decisão sobre os indicadores de acompanhamento e implementação e de avaliação do PNAI;
+
+c) A promoção da participação e da intervenção dos organismos públicos e das organizações representativas da sociedade civil, a nível central, local e das Regiões Autónomas;
+
+d) O acompanhamento da elaboração dos relatórios e outros documentos necessários ao pleno desenvolvimento do PNAI, em função das recomendações europeias, das orientações definidas e dos contributos recebidos;
+
+e) A apreciação do PNAI antecedendo a sua submissão ao Conselho de Ministros.
+
+4 - Determinar que, para a concretização das suas atribuições, a Comissão realize uma reunião trimestral, sem prejuízo de outras reuniões de carácter extraordinário sempre que se afigure conveniente.
+
+5 - Determinar que a comissão coopere e promova a interacção com outras estruturas que acompanhem instrumentos nacionais de planeamento estratégico, tendo em vista a avaliação integrada dos indicadores, resultados e informações disponibilizados por cada uma das estruturas respectivas.
+
+6 - Determinar que a comissão é composta por:
+
+a) O coordenador do PNAI, que preside;
+
+b) Um representante do membro do Governo responsável pela área da administração interna;
+
+c) Um representante do membro do Governo responsável pela área dos negócios estrangeiros;
+
+d) Um representante do membro do Governo responsável pela área das finanças;
+
+e) Um representante do membro do Governo responsável pela área da justiça;
+
+f) Um representante do membro do Governo responsável pelas áreas do ambiente, do ordenamento do território e do desenvolvimento regional;
+
+g) Um representante do membro do Governo responsável pelas áreas da economia e da inovação;
+
+h) Um representante do membro do Governo responsável pelas áreas das obras públicas, transportes e comunicações;
+
+i) Um representante do membro do Governo responsável pelas áreas do trabalho e da solidariedade social;
+
+j) Um representante do membro do Governo responsável pela área da saúde;
+
+l) Um representante do membro do Governo responsável pela área da educação;
+
+m) Um representante do membro do Governo responsável pelas áreas da ciência, tecnologia e ensino superior;
+
+n) Um representante do membro do Governo responsável pela área da cultura;
+
+o) Um representante do membro do Governo responsável pela área da imigração;
+
+p) Um representante do membro do Governo responsável pela área da igualdade;
+
+q) Um representante do Governo Regional dos Açores;
+
+r) Um representante do Governo Regional da Madeira.
+
+7 - Determinar a participação na comissão, com estatuto de observador, de um representante do Fórum não Governamental para a Inclusão Social, adiante designado por Fórum, com as seguintes competências:
+
+a) Veicular informação entre o Fórum e a comissão;
+
+b) Solicitar e receber contributos das ONG.
+
+8 - Permitir que, sempre que se verifiquem novas necessidades de participação, o coordenador da comissão solicite a colaboração de outras entidades, em articulação com o representante ministerial da área envolvida.
+
+9 - Determinar que todos os membros da comissão sejam indicados pelos ministérios e Governos Regionais no prazo de 15 dias após a publicação da presente resolução, devendo o representante designado responder pela globalidade das áreas de intervenção do respectivo ministério.
+
+10 - Determinar que todos os representantes que compõem a comissão sejam co-responsáveis pelas diversas fases do processo e pela prossecução dos objectivos referidos no n.º 2, através da participação assídua nas reuniões da comissão e da prestação atempada da informação sectorial indispensável ao acompanhamento da implementação do PNAI e à sua reformulação, designadamente no que se refere à introdução de novas medidas.
+
+11 - Determinar que, para a concretização do estipulado no número anterior, os membros designados que compõem a comissão sejam responsáveis, com carácter sistemático, pela produção de documentos e pela participação nas acções decididas no âmbito daquela, nomeadamente pela elaboração de diagnósticos, apresentação de propostas, de medidas de política e respectiva orçamentação e produção de indicadores de acompanhamento e de resultados, definidos no âmbito do sistema de informação do PNAI.
+
+12 - Manter em funcionamento o grupo de trabalho do Ministério do Trabalho e da Solidariedade Social, cuja missão é dinamizar os processos de elaboração, implementação e avaliação do PNAI, competindo a este grupo de trabalho:
+
+a) Apresentar ao Ministro do Trabalho e da Solidariedade Social uma proposta das prioridades portuguesas e orientações estratégicas para o PNAI, no âmbito deste Ministério;
+
+b) Elaborar uma proposta de estrutura e de conteúdo do PNAI;
+
+c) Acompanhar os processos de preparação e de elaboração do PNAI, bem como dos seus relatórios de implementação;
+
+d) Definir formas de divulgação do PNAI e da estratégia europeia de promoção da inclusão social;
+
+e) Definir formas de reforço da participação de todos os intervenientes, designadamente das organizações representativas da sociedade civil e dos cidadãos em geral;
+
+f) Propor à discussão e decisão pela comissão as matérias que, na concretização das competências atrás indicadas, se afigurem relevantes para o bom andamento dos trabalhos.
+
+13 - Determinar que este grupo de trabalho seja composto por:
+
+a) Um representante do Ministro do Trabalho e da Solidariedade Social;
+
+b) Um representante do Secretário de Estado da Segurança Social;
+
+c) Um representante do Secretário de Estado do Emprego e da Formação Profissional;
+
+d) Um representante da Secretária de Estado Adjunta e da Reabilitação;
+
+e) Um representante da Direcção-Geral de Estudos e Planeamento;
+
+f) Um representante do Instituto da Segurança Social, I. P.;
+
+g) Um representante do Instituto de Informática e Estatística da Solidariedade, I. P.;
+
+h) Um representante da Direcção-Geral de Segurança Social;
+
+i) Um representante do Secretariado Nacional para a Reabilitação e Inserção das Pessoas com Deficiência;
+
+j) Um representante da Comissão para a Igualdade no Trabalho e no Emprego;
+
+l) Um representante do Instituto de Emprego e Formação Profissional, I. P.;
+
+m) Um representante da Comissão para a Igualdade e para os Direitos das Mulheres;
+
+n) Um representante do Alto Comissário para a Imigração e as Minorias Étnicas;
+
+o) Um membro da representação portuguesa no Comité do Emprego;
+
+p) Um membro da representação portuguesa no Comité de Protecção Social.
+
+14 - Determinar a articulação, periódica e sempre que justificada, do grupo de trabalho do Ministério do Trabalho e da Solidariedade Social com representantes dos Governos Regionais nas áreas da inclusão social e do emprego.
+
+15 - Determinar que a equipa técnica de apoio à coordenação do PNAI é composta por dois elementos da Direcção-Geral de Estudos e Planeamento e por três elementos do Instituto da Segurança Social, I. P., a designar por despacho do Ministro do Trabalho e da Solidariedade Social.
+
+16 - Determinar que o apoio logístico à comissão é assegurado pelo Instituto da Segurança Social, I. P.
+
+17 - Revogar a [Resolução do Conselho de Ministros n.º 79/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2003-683240), de 11 de Junho.
+
+Presidência do Conselho de Ministros, 23 de Março de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

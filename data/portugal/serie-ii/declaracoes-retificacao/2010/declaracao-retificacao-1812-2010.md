@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:1325936:por
+title: Declaração de Rectificação n.º 1812/2010
+short_title: null
+summary: Rectificação do aviso n.º 16798/2010, de abertura do concurso externo de ingresso para admissão de candidatos ao
+  curso de formação de guardas da Guarda Nacional Republicana - 2010-2011 - honorífico músico e honorífico clarim
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Administração Interna - Guarda Nacional Republicana - Comando-Geral
+proposing_entity: null
+official_number: 1812/2010
+official_date: null
+publication_date: '2010-09-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2010, Série II de 2010-09-03
+  number: '172'
+  series: II
+  supplement: null
+  pages: 45973 - 45973
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/09/172000000/4597345973.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1325936'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1812-2010-1325936
+  internal: pt:dre:1325936:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1812-2010-1325936
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1812-2010-1325936
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-09-03T00:00:00Z'
+integrity:
+  source_sha256: 583f8bcf02b0154834caae56b9ce92482b808d93cdf06f536ffe70eaf519fc7f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-1812-1325936.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1812/2010
+
+Declaração de rectificação n.º 1812/2010
+
+Rectificação do aviso n.º 16798/2010, de abertura do concurso externo de ingresso para admissão de candidatos ao curso de formação de guardas da Guarda Nacional Republicana - 2010-2011 - Honorífico músico e honorífico clarim.
+
+Para os devidos efeitos, declara-se que o aviso acima identificado foi publicado com as seguintes inexactidões, que agora se rectificam:
+
+Assim, onde se lê:
+
+«1) Honorífico Músico:
+
+b) Execução de uma peça obrigatória, sem acompanhamento, como se indica:
+
+Saxofone alto/tenor - Allegro de Concerto para Saxofone alto op. 106 de A. Vitorino d'Almeida;
+
+Bombardino/Barítono - Fantasia para Bombardino de Gordon Jacob;
+
+Cordas/violino - Sonata n.º 1 em Sol menor para violino de J. S. Bach;
+
+Cordas/viola de arco - Suite V em Dó menor para viola solo de J. S. Bach;
+
+Harpa - Concerto em Lá Maior para Harpa de Karl Dittersdorf;
+
+Teclados/piano - Impromptus em Dó sustenido menor para piano op. 66 de F. Chopin;
+
+Percussão - Blues for Gilbert para Vibrafone de Mark Glentworth;
+
+Test-claire para caixa de Jacques Delécluse;
+
+Estudo para Timbales n.º 45 (Pauken-und kleine trommelschule) de Franz Krüger.»
+
+deve ler-se:
+
+«1) Honorífico músico:
+
+b) Execução de uma peça obrigatória, sem acompanhamento, como se indica:
+
+Saxofone alto/tenor - Allegro de Concerto para Saxofone alto op. 106 de A. Vitorino d'Almeida.
+
+Diversions para Saxofone Tenor de Morton Gould;
+
+Bombardino/barítono - Fantasia para Bombardino de Gordon Jacob;
+
+Cordas/violino - Sonata n.º 1 em sol menor para violino de J. S. Bach;
+
+Cordas/viola de arco - Suite V em dó menor para viola solo de J. S. Bach;
+
+Harpa - concerto em Lá Maior para Harpa de Karl Dittersdorf;
+
+Teclados/piano - Impromptus em dó sustenido menor para piano op. 66 de F. Chopin;
+
+Percussão - Blues for Gilbert para Vibrafone de Mark Glentworth;
+
+Test-claire para caixa de Jacques Delécluse;
+
+Estudo para Timbales n.º 45 (Pauken-und kleine trommelschule) de Franz Krüger.»
+
+e onde se lê:
+
+«2) Honorífico Clarim:
+
+b) Execução de uma peça obrigatória, sem acompanhamento, como se indica:
+
+Trompete/Cornetim/Fliscorne - Sonata de Thorval Hansen;
+
+Trompa de Harmonia - Nocturno Op. 7 de Franz Strauss;
+
+Bombardino/Tuba - Rhapsody for Eufhonium de James Curnow;
+
+Trombone Sib (pistons) - Rhapsody for Eufhonium de James Curnow;
+
+Percussão - Sonatina Clássica de Miller Troje.»
+
+deve ler-se:
+
+«2) Honorífico clarim:
+
+b) Execução de uma peça obrigatória, sem acompanhamento, como se indica:
+
+Trompete/cornetim/fliscorne - Sonata de Thorval Hansen;
+
+Trompa de harmonia - Nocturno Op. 7 de Franz Strauss;
+
+Bombardino/tuba - Rhapsody for Eufhonium de James Curnow.
+
+Sonatina clássica de Miller Troje;
+
+Trombone Sib (pistons) - Rhapsody for Eufhonium de James Curnow;
+
+Percussão:
+
+Timpanos - Peters, Mitchel - Estudo n.º 28 (p. 68) - Fundamental Method for Timpani;
+
+Caixa - Peters, Mitchel - Estudo n.º 73 (p. 68) - Elementary Snare Drum Studies;
+
+Xilofone - Mc Millan, Thomas - Sonatina Movement (p. 50) - Percussion Keyboard Technic.»
+
+20 de Agosto de 2010. - O Comandante-Geral, em substituição, Mário Augusto Mourato Cabrita, tenente-general.

@@ -1,0 +1,410 @@
+---
+schema_version: '1.0'
+id: pt:dre:114236882:por
+title: Portaria n.º 360/2017
+short_title: null
+summary: Estabelece as condições de exercício da pesca nas águas interiores, definindo as espécies cuja pesca lúdica, desportiva
+  e profissional é permitida, quais as espécies que são de devolução obrigatória e devolução proibida, quais os períodos de
+  pesca autorizados para cada espécie e respetivas dimensões de captura, quais as espécies suscetíveis de serem autorizadas
+  na realização de largadas e bem assim as espécies aquícolas consideradas de relevante importância
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural
+proposing_entity: null
+official_number: 360/2017
+official_date: null
+publication_date: '2017-11-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 225/2017, Série I de 2017-11-22
+  number: '225'
+  series: I
+  supplement: null
+  pages: 6122 - 6127
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22500/0612206127.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-04-21'
+version_history:
+  file: portaria-360-2017.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-11-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-21'
+    amending: pt:dre:115146377:por
+    amending_title: Portaria n.º 108/2018
+    changes:
+    - Altera Artigo 4.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/360/2017/p/cons/20180420/pt/html
+  oj: null
+  dre: '114236882'
+  dre_path: /dr/detalhe/portaria/360-2017-114236882
+  internal: pt:dre:114236882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-2017-114236882
+  metadata_url: https://data.dre.pt/eli/port/360/2017/p/cons/20180420/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-115146412
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-115146412
+  retrieved_at: '2026-10-22T12:18:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: cc1a6771566425f31704e366503546c4836fda7e1f88e19ed144622aca8f2976
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:18:24Z'
+  notes: 2 versão(ões); histórico completo em portaria-360-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pescador
+- Recursos Hídricos
+- Definição de Competências
+- Albufeiras
+- Pesca
+- Gestão dos Recursos
+- Licenciamento
+- Licença de Pesca
+- Recursos do Mar
+- Instituto da Conservação da Natureza e das Florestas
+- Aquicultura
+- Página na Internet
+- Peixe
+- Pescado
+- Período de Defeso
+- Pesca Desportiva
+- Pesca Fluvial
+- Espécie Protegida
+- ZONA de Pesca
+- Plataforma Eletrónica
+relationships:
+- type: amended_by
+  target: pt:dre:115146377:por
+  label: Altera Artigo 4.º; Altera Anexo I; Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/108-2018-115146377
+  date: '2018-04-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/112/2017/09/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2017/09/06/p/dre
+article_structure:
+  article_count: 15
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:18:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 360/2017
+
+Portaria n.º 360/2017
+
+de 22 de novembro
+
+O Decreto-Lei n.º 112/2017, de 6 de setembro, que estabelece o regime jurídico do ordenamento e da gestão sustentável dos recursos aquícolas das águas interiores e procede à regulamentação das atividades da pesca e da aquicultura nessas águas, determina que sejam definidos em portaria as espécies objeto de pesca lúdica, desportiva e profissional, os condicionamentos relativos à devolução à água dos exemplares dessas espécies, os respetivos períodos de pesca e dimensões de captura, as espécies suscetíveis de serem autorizadas para a realização de largadas, bem como as espécies aquícolas consideradas de relevante importância.
+
+Assim:
+
+Ao abrigo do disposto no artigo 4.º, no n.º 1 do artigo 6.º, no n.º 1 do artigo 7.º, no n.º 1 do artigo 8.º, no n.º 3 do artigo 28.º e no n.º 3 do artigo 58.º do Decreto-Lei n.º 112/2017, de 6 de setembro, manda o Governo, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, ao abrigo do disposto na subalínea v) da alínea b) do n.º 5 do Despacho n.º 5564/2017, de 1 de junho, com a redação dada pelo Despacho n.º 7088/2017, de 21 de julho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as condições de exercício da pesca nas águas interiores, definindo as espécies cuja pesca lúdica, desportiva e profissional é permitida, quais as espécies que são de devolução obrigatória e devolução proibida, quais os períodos de pesca autorizados para cada espécie e respetivas dimensões de captura, quais as espécies suscetíveis de serem autorizadas na realização de largadas e bem assim as espécies aquícolas consideradas de relevante importância.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente portaria, entende-se por:
+
+a) «Massas de água lóticas», os rios e ribeiras que correm livremente, assim como aqueles troços de rios ou ribeiras que se encontrem represados por infraestruturas hidráulicas com uma altura igual ou inferior a 2 m;
+
+b) «Massas de água lênticas», as albufeiras, charcas e as massas de água represadas por infraestruturas hidráulicas com uma altura superior a 2 m;
+
+c) «Espécies diádromas», as que efetuam, durante o seu ciclo biológico, migrações entre dois meios de salinidades diferentes.
+
+###### Artigo 3.º — Espécies autorizadas na pesca lúdica e na pesca desportiva
+
+1 - Só é permitida a pesca lúdica e a pesca desportiva das espécies constantes do anexo i à presente portaria e da qual faz parte integrante.
+
+2 - As espécies marinhas capturadas acidentalmente nas águas livres podem ser retidas, desde que a legislação aplicável às águas confinantes sob jurisdição marítima o permita.
+
+###### Artigo 4.º — Devolução à água
+
+1 - É obrigatória a imediata devolução à água dos exemplares das espécies de devolução obrigatória (DO) constantes do anexo i, exceto durante a realização de provas de pesca desportiva, em que a devolução à água pode ocorrer no final da prova.
+
+2 - Os exemplares de espécies aquícolas de devolução obrigatória devem ser restituídos à água em boas condições de sobrevivência.
+
+3 - É obrigatória a retenção dos exemplares de espécies aquícolas de devolução proibida (DP) constantes do anexo i, os quais não podem ser mantidos ou transportados vivos.
+
+4 - É obrigatória a devolução à água dos exemplares de carpa (Cyprinus carpio) e de todas as espécies de barbo (Luciobarbus sp.) com dimensões superiores a 65 cm, capturados no âmbito do carp fishing noturno praticado em águas livres, nas massas de água lênticas a que se refere a deliberação do conselho diretivo do ICNF, I. P., prevista na subalínea iii) da alínea b) do n.º 1 do artigo 14.º do Decreto-Lei n.º 112/2017, de 6 de setembro.
+
+5 - No âmbito da realização de provas internacionais de pesca desportiva é permitida a devolução à água de todas as espécies em boas condições de sobrevivência, quando solicitada e autorizada pelo ICNF, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2018 - Diário da República n.º 78/2018, Série I de 2018-04-20](https://diariodarepublica.pt/dr/detalhe/portaria/108-2018-115146377), em vigor a partir de 2018-04-21
+
+###### Artigo 5.º — Espécies autorizadas na pesca profissional
+
+1 - Só é permitida a pesca profissional das espécies constantes do anexo ii à presente portaria e da qual faz parte integrante.
+
+2 - Nas zonas de pesca profissional confinantes com águas submetidas à jurisdição marítima pode ainda ser autorizada a pesca profissional de espécies marinhas ou diádromas, de acordo com o estabelecido no respetivo plano de gestão e exploração.
+
+3 - As espécies marinhas capturadas acidentalmente nas águas livres podem ser retidas, desde que a legislação aplicável às águas confinantes sob jurisdição marítima o permita.
+
+###### Artigo 6.º — Espécies que podem ser objeto de largadas
+
+1 - As largadas piscícolas apenas podem ser autorizadas com truta-de-rio e com truta-arco-íris.
+
+2 - No caso da truta-arco-íris, além do cumprimento do estipulado no artigo 28.º do Decreto-Lei n.º 112/2017, de 6 de setembro, a autorização encontra-se ainda restrita às massas de água lênticas com menor aptidão para a truta-de-rio, em que a truta-arco-íris já tenha sido introduzida e que, na componente eco hidráulica, apresentem reduzida probabilidade de saída dos espécimes para os cursos de água afluentes ou a jusante da massa de água.
+
+###### Artigo 7.º — Espécies aquícolas de relevante importância profissional
+
+A enguia é considerada espécie de relevante importância profissional.
+
+###### Artigo 8.º — Captura, detenção e transporte de espécies aquícolas para fins didáticos, técnicos ou científicos
+
+Para fins didáticos, técnicos ou científicos, pode ser autorizada a captura, detenção e transporte de quaisquer espécies aquícolas constantes dos anexos i e ii à presente portaria, assim como de quaisquer outras espécies da fauna aquícola presentes nas águas interiores.
+
+###### Artigo 9.º — Períodos de pesca lúdica e desportiva
+
+1 - A pesca lúdica e a pesca desportiva das espécies constantes do anexo i só são permitidas nos períodos a seguir indicados:
+
+a) Achigã (Micropterus salmoides) - de 1 de janeiro a 15 de março e de 15 de maio a 31 de dezembro nas massas de água lênticas, e de 1 de janeiro a 31 de dezembro nas massas de água lóticas;
+
+b) Barbos (Luciobarbus spp.), bogas (Pseudochondrostoma spp.), bordalo (Squalius alburnoides), escalo-do-Norte (Squalius carolitertii), escalo-do-Sul (Squalius pyrenaicus) e ruivaco (Achondrostoma oligolepis) - de 1 de janeiro a 15 de março e de 15 de junho a 31 de dezembro;
+
+c) Truta-de-rio (Salmo trutta) - de 1 de março a 31 de julho;
+
+d) Restantes espécies - de 1 de janeiro a 31 de dezembro.
+
+2 - Nas massas de água constantes do anexo iii à presente portaria e da qual faz parte integrante, aplicam-se os períodos de pesca aí indicados.
+
+3 - Nas zonas de pesca lúdica os períodos de pesca são os que constam dos respetivos planos de gestão e exploração.
+
+###### Artigo 10.º — Períodos de pesca profissional
+
+1 - A pesca profissional das espécies constantes do anexo ii só é permitida nos períodos a seguir indicados:
+
+a) Achigã (Micropterus salmoides), barbo-comum (Luciobarbus bocagei), barbo-de-cabeça-pequena (Luciobarbus microcephalus), barbo de Steindachner (Luciobarbus steindachneri), boga-comum (Pseudochondrostoma polylepis) e boga do Norte (Pseudochondrostoma duriense) - de 1 de janeiro a 15 de março e de 1 de julho a 31 de dezembro;
+
+b) Enguia (Anguilla anguilla) - o constante do plano de gestão e exploração da respetiva zona de pesca profissional;
+
+c) Lampreia-marinha (Petromyzon marinus) - de 1 de janeiro a 30 de abril;
+
+d) Sável (Alosa alosa):
+
+i) Populações anádromas - o constante do plano de gestão e exploração da respetiva zona de pesca profissional;
+
+ii) Populações holobióticas das albufeiras da Aguieira, de Castelo de Bode e do Alqueva - de 1 de fevereiro a 30 de abril.
+
+e) Savelha (Alosa fallax) - o constante do plano de gestão e exploração da respetiva zona de pesca profissional;
+
+f) Restantes espécies - de 1 de janeiro a 31 de dezembro.
+
+2 - Nas zonas de pesca profissional os períodos de pesca são os que constam dos respetivos planos de gestão e exploração.
+
+###### Artigo 11.º — Dimensões de captura das espécies aquícolas
+
+1 - As dimensões mínimas de captura das espécies aquícolas são as seguintes:
+
+a) Achigã (Micropterus salmoides) nas massas de água lênticas, barbo-comum (Luciobarbus bocagei), barbo-de-cabeça-pequena (Luciobarbus microcephalus), barbo de Steindachner (Luciobarbus steindachneri) e truta-de-rio (Salmo truta) - 20 cm;
+
+b) Boga-comum (Pseudochondrostoma polylepis) e boga do Norte (Pseudochondrostoma duriense) - 15 cm;
+
+c) Escalo do Norte (Squalius carolitertii) - 12 cm;
+
+d) Sável (Alosa alosa), populações holobióticas das albufeiras da Aguieira, de Castelo de Bode e do Alqueva - 35 cm;
+
+e) Restantes espécies cuja pesca é permitida - sem dimensão mínima de captura, sem prejuízo das espécies a que se refere o n.º 3 do artigo 7.º do Decreto-Lei n.º 112/2017, de 6 de setembro.
+
+2 - Nas zonas de pesca lúdica e nas zonas de pesca profissional as dimensões de captura das espécies aquícolas são as definidas nos respetivos planos de gestão e exploração.
+
+3 - Em todas as massas de água da sub-bacia da ribeira do Vascão é permitida a pesca de achigã (Micropterus salmoides) com quaisquer dimensões.
+
+###### Artigo 12.º — Situações excecionais
+
+Excecionalmente, e devidamente fundamentada, o conselho diretivo do ICNF, I. P., pode, mediante deliberação a publicar no seu sítio da Internet, estabelecer a nível nacional, regional, por bacia hidrográfica ou por massa de água, e por tempo determinado, a obrigatoriedade de devolução ou de não devolução à água de determinadas espécies ou de exemplares com determinadas dimensões, tendo em consideração questões relacionadas com a estrutura e funcionamento dos ecossistemas aquáticos, com a gestão, proteção e conservação das populações piscícolas e com o estado das massas de água.
+
+###### Artigo 13.º — Registo
+
+1 - Para efeitos de interoperabilidade de sistemas e simplificação de procedimentos associados à emissão de licenças de pesca em águas interiores, a partir de 1 de janeiro de 2019 todos os pescadores que pretendam obter as respetivas licenças têm de proceder previamente ao seu registo como pescador de águas interiores.
+
+2 - O registo a que se refere o número anterior é efetuado junto do ICNF, I. P. ou através de plataforma a disponibilizar no seu sítio na internet, durante o ano de 2018.
+
+3 - Após o registo, o respetivo pescador é responsável por assegurar que os dados associados a esse registo se encontram atualizados, procedendo às necessárias alterações através da plataforma ou junto do ICNF, I. P.
+
+4 - Os praticantes de pesca lúdica, desportiva e profissional, participam na gestão da pesca e dos recursos aquícolas, respondendo aos questionários destinados à monitorização da atividade, promovidos pelo ICNF, I. P.
+
+5 - O preenchimento e submissão dos questionários são efetuados preferencialmente por via eletrónica, através de formulários disponibilizados pelo ICNF, I. P., no seu sítio da Internet.
+
+###### Artigo 14.º — Norma transitória
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 80.º do Decreto-Lei n.º 112/2017, de 6 de setembro, as entidades gestoras de concessões de pesca têm um ano a partir da data de entrada em vigor da presente portaria para proceder à adaptação do regulamento da concessão de pesca em conformidade com a mesma.
+
+2 - Sem prejuízo do disposto no n.º 1 do artigo 79.º e no artigo 81.º do Decreto-Lei n.º 112/2017, de 6 de setembro, os editais das zonas de pesca reservada e das zonas de pesca profissional, aprovados antes da entrada em vigor da presente portaria, mantêm-se em vigor até ao final da sua validade.
+
+###### Artigo 15.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado das Florestas e do Desenvolvimento Rural, Miguel João Pisoeiro de Freitas, em 7 de novembro de 2017.
+
+## Anexo I — (a que se referem o n.º 1 do artigo 3.º, n.os 1 e 3 do artigo 4.º, artigo 8.º e n.º 1 do artigo 9.º)
+
+Espécies objeto de pesca lúdica e desportiva
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2018 - Diário da República n.º 78/2018, Série I de 2018-04-20](https://diariodarepublica.pt/dr/detalhe/portaria/108-2018-115146377), em vigor a partir de 2018-04-21
+
+## Anexo II — (a que se referem o n.º 1 do artigo 5.º, artigo 8.º e n.º 1 do artigo 10.º)
+
+Espécies objeto de pesca profissional
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2018 - Diário da República n.º 78/2018, Série I de 2018-04-20](https://diariodarepublica.pt/dr/detalhe/portaria/108-2018-115146377), em vigor a partir de 2018-04-21
+
+## Anexo III — (a que se refere o n.º 2 do artigo 9.º)
+
+Massas de água onde se aplicam períodos de pesca diferentes dos estabelecidos no n.º 1 do artigo 9.º
+
+1 - Para a realização de provas de pesca desportiva, respetivos treinos e aprendizagem, é permitida durante todo o ano a pesca de todas as espécies constantes do anexo i, nas seguintes massas de água ou seus troços:
+
+Rio Cávado (BH Cávado), no troço compreendido entre a praia fluvial d Rio Arda e Vila do Prado, a montante, nas freguesias de Vila de Prado e de Palmeira, e o Açude de Ruães, a jusante, nas freguesias de Cabanelas e de Merelim (São Paio), Panoias e Parada de Tibães, concelhos de Vila Verde e Braga;
+
+Rio Ave (BH Ave), no troço limitado, a montante, pelo aproveitamento hidroelétrico da Boavista e, a jusante, pela ponte nova da Estação da C.P., numa extensão de cerca de 3.800 metros, freguesias de Areias, Sequeiró, Lama e Palmeira e de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães, concelho de Santo Tirso;
+
+Rio Ave (BH Ave), no troço limitado, a montante, pelo Açude da Lagoncinha e, a jusante, pela ponte da Lagoncinha, numa extensão de cerca de 800 metros, freguesia de Lousado, concelho de Vila Nova de Famalicão;
+
+Rio Ave (BH Ave), no troço limitado, a montante, pela ponte da EN 14 (Porto/Vila Nova de Famalicão) e, a jusante, pela zona denominada por 'Agra de Cima', na margem direita, e pela foz do rio Trofa, na margem esquerda, numa extensão de cerca de 2.100 metros, freguesias de Ribeirão e de Bougado (São Martinho e Santiago), concelhos de Vila Nova de Famalicão e Trofa;
+
+Rio Ave (BH Ave), no troço limitado, a montante, pela Azenha do Bicho e, a jusante, pela ETAR, numa extensão de cerca de 1.000 metros, freguesias de Alvarelhos e Guidões, de Fornelo e Vairão e de Bagunte, Ferreiró, Outeiro Maior e Parada, concelhos de Trofa e Vila do Conde;
+
+Rio Tâmega (BH Douro), no troço limitado a montante pelo açude de captação de água e a jusante pela Azenha do Agapito, numa extensão de 3.500 metros, freguesias de Santa Cruz/Trindade e Sanjurge, de Santa Maria Maior, de Outeiro Seco e de Madalena e Samaiões, concelho de Chaves;
+
+Rio Tâmega (BH Douro), no troço limitado a montante pela Ponte de Curalha e a jusante pelo limite da freguesia de Redondelo, numa extensão de 4.660 metros, freguesias de Curalha, de Redondelo, de São Pedro de Agostém e de Vilela do Tâmega;
+
+Rio Tâmega (BH Douro), no troço limitado a montante pelo limite do concelho de Cabeceiras de Basto e a jusante pela ponte de Cavez, na EN 206, numa extensão de 2.800 metros, freguesia de Cavez, concelho de Cabeceiras de Basto;
+
+Rio Tâmega (BH Douro), no troço a montante da Ponte de S. Gonçalo, numa extensão de cerca de 1.400 metros e, a jusante da mesma ponte numa extensão de cerca 100 metros, freguesia de Amarante (S. Gonçalo), Madalena, Cepelos e Gatão, do concelho de Amarante;
+
+Rio Tâmega/Albufeira do Torrão (BH Douro), na zona denominada por 'Canaveses', numa extensão de cerca de 900 metros, freguesias de Sobretâmega e Marco, concelho de Marco de Canaveses;
+
+Rio Tâmega/Albufeira do Torrão (BH Douro), na margem esquerda na zona denominada por 'Quinta do Alvelo', numa extensão de cerca de 1.600 metros, freguesia de Vila Boa do Bispo, concelho de Marco de Canaveses;
+
+Rio Tâmega/Albufeira do Torrão (BH Douro), na margem esquerda na zona denominada por 'Matos/Alpendurada', numa extensão de cerca de 1.200 metros, freguesia de Alpendorada, Várzea e Torrão, concelho de Marco de Canaveses;
+
+Rio Sousa (BH Douro), no troço compreendido entre 500 metros para montante da Ponte da EN 106, em Novelas, e 500 metros para jusante da mesma ponte, freguesia de Penafiel, concelho de Penafiel;
+
+Rio Sousa (BH Douro), no troço com uma extensão de cerca de 500 metros para montante do açude, na zona denominada por 'Parque de Merendas', freguesia de Foz do Sousa e Covelo, concelho de Gondomar;
+
+Rio Douro/Albufeira de Crestuma-Lever (BH Douro), na margem direita nas zonas denominadas por 'Lagoa de Leverinho' e 'Tomás da Lixa', numa extensão de cerca de 1.500 metros, freguesia de Foz do Sousa e Covelo, concelho de Gondomar;
+
+Rio Douro/Albufeira de Crestuma-Lever (BH Douro), na margem esquerda na zona denominada por 'Escamarão', numa extensão de cerca 1.000 metros, freguesia de Souselo, concelho de Cinfães;
+
+Rio Douro/Albufeira de Crestuma-Lever (BH Douro), na margem esquerda na zona denominada por 'Pedorido', com início a 300 metros dos fios de alta tensão em Nogueira do Rio, incluindo a foz do rio Arda até Costa e, ainda para montante, até à zona denominada por 'Concas', numa extensão de cerca de 1.500 metros, freguesia de Raiva, Pedorido e Paraíso, concelho de Castelo de Paiva;
+
+Rio Douro/Albufeira de Crestuma-Lever (BH Douro), na margem direita desde a zona denominada por 'Fontelas', a montante, até ao início da Quinta da Nossa Senhora da Guia, a jusante, no lugar de Vitetos de Baixo, numa extensão de cerca 2.300 metros, freguesia de Alpendorada, Várzea e Torrão, concelho de Marcos de Canaveses;
+
+Rio Mondego (BH Mondego), na margem esquerda do troço limitado a montante pela ponte de Rainha Santa Isabel e a jusante pela ponte de Santa Clara, freguesia de Santa Clara e Castelo Viegas, concelho de Coimbra;
+
+Albufeira da Aguieira (BH Mondego);
+
+Ribeira da Sertã (BH Tejo), no troço compreendido entre a ponte da EN 529, freguesia de Troviscal, a montante, e a ponte do Porto dos Cavalos na EN 534, freguesia de Cernache do Bonjardim, Nesperal e Palhais, concelho da Sertã;
+
+Ribeira de Alge (BH Tejo), no troço designado por 'Pista de Pesca do Poeiro', compreendido entre a ponte que liga a povoação do Poeiro, a montante, e o açude da ribeira de Alge, a jusante, freguesias de Arega e de Figueiró dos Vinhos e Bairradas, concelho de Figueiró dos Vinhos;
+
+Ribeira da Raia (BH Tejo), no troço compreendido entre o Moinho da Abóboda, a montante, e o Açude do Gameiro, a jusante, freguesias de Cabeção e de Pavia, concelho de Mora;
+
+Ribeira da Raia (BH Tejo), no troço designado por 'Pista Internacional de Pesca de Mora', limitado a montante pelo Açude do Gameiro e a jusante pela Ponte do Paço, freguesias de Cabeção, Pavia e Mora, concelho de Mora;
+
+Rio Sorraia (BH Tejo), no troço compreendido entre o lugar de Montinho do Brito, a montante, e a ponte de caminho-de-ferro, a jusante, freguesia de Coruche, Fajarda e Erra, concelho de Coruche;
+
+Albufeira do Cabril (BH Tejo);
+
+Albufeira do Maranhão (BH Tejo);
+
+Albufeira da Meimoa (BH Tejo);
+
+Albufeira dos Patudos (BH Tejo);
+
+Rio Ardila (BH Guadiana), no troço nacional;
+
+Albufeira do Roxo (BH Guadiana).
+
+2 - O período de pesca da truta-de-rio (Salmo truta) fica compreendido entre 1 de março e 31 de agosto, nas seguintes massas de água ou seus troços:
+
+Rio Coura (BH Minho), no troço a jusante da foz do ribeiro da Pantanha, nas freguesias de Mozelos e Padornelo, concelho de Paredes de Coura;
+
+Rio Vade (BH Lima), no troço a jusante da foz do rio da Fervença, na freguesia de Crasto, Ruivos e Grovelas, concelho de Ponte da Barca;
+
+Rio Vez (BH Lima);
+
+Rio Arda e seus afluentes (BH Douro);
+
+Rio Baceiro (BH Douro);
+
+Rio Beça (BH Douro), no troço a jusante foz da ribeira da Portalagem na freguesia de Cervos, concelho de Montalegre;
+
+Rio Rabaçal (BH Douro);
+
+Rio Tuela (BH Douro);
+
+Rio Alfusqueiro e seus afluentes (BH Vouga);
+
+Rio Mondego (BH Mondego), no troço a jusante da Ponte de Mizarela (EN 556) na freguesia de Mizarela, Pêro Soares e Vila Soeiro, concelho da Guarda;
+
+Rio Zêzere (BH Tejo), no troço classificado como águas de pesca aos salmonídeos;
+
+Ribeira da Sertã (BH Tejo).
+
+3 - O período de pesca da truta-de-rio (Salmo truta) fica compreendido entre 1 de abril e 30 de setembro, nas seguintes massas de água:
+
+Albufeira de Salas ou de Tourém (BH Lima), no troço em território nacional;
+
+Albufeira do Alto Cávado ou de Sezelhe (BH Cávado);
+
+Albufeira de Paradela (BH Cávado);
+
+Albufeira do Alto Rabagão ou Pisões (BH Cávado);
+
+Albufeira de Venda Nova (BH Cávado).
+
+4 - Em todas as massas de água da sub-bacia hidrográfica da ribeira do Vascão é permitida a pesca do achigã (Micropterus salmoides) durante todo o ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2018 - Diário da República n.º 78/2018, Série I de 2018-04-20](https://diariodarepublica.pt/dr/detalhe/portaria/108-2018-115146377), em vigor a partir de 2018-04-21

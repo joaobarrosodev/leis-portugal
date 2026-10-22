@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: pt:dre:382432:por
+title: Decreto n.º 32/79
+short_title: null
+summary: Aprova o Acordo Básico de Cooperação Económica, Científica e Técnica entre o Governo de Portugal e o Governo do Peru,
+  assinado em Lima a 1 de Setembro de 1977
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: 32/79
+official_date: null
+publication_date: '1979-04-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/1979, Série I de 1979-04-17
+  number: '89'
+  series: I
+  supplement: null
+  pages: 657 - 660
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08900/06570660.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382432'
+  dre_path: /dr/detalhe/decreto/32-1979-382432
+  internal: pt:dre:382432:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1979-382432
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/32-1979-382432
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-04-17T00:00:00Z'
+integrity:
+  source_sha256: 1b36701e9f1eaa9196f797b602b32e0a2bf94e0bb8eb573eb8663cca5e9d7449
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-32-382432.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 32/79
+
+de 17 de Abril
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+###### Artigo único. É aprovado o Acordo Básico de Cooperação Económica, Científica e Técnica entre o Governo de Portugal e o Governo do Peru, assinado em Lima a 1 de Setembro de 1977, cujos textos nas línguas portuguesa e castelhana acompanham o presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 14 de Março de 1979. - Manuel Jacinto Nunes - João Carlos Lopes Cardoso de Freitas Cruz.
+
+**Assinado em 28 de Março de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Acordo Básico de Cooperação Económica, Científica e Técnica entre o Governo da República Portuguesa e o Governo da República do Peru.
+
+O Governo da República Portuguesa e o Governo da República do Peru, a seguir designados por Partes Contratantes;
+
+Animados pelo desejo de fortalecer os laços de amizade existentes entre os dois países;
+
+Considerando a importância da cooperação económica, científica e técnica para a intensificação das relações entre os dois países numa base de equidade e de benefício mútuo;
+
+decidiram celebrar o presente Acordo:
+
+###### ARTIGO 1
+
+As Partes Contratantes comprometem-se a favorecer o desenvolvimento da cooperação económica, científica e técnica entre os dois países.
+
+###### ARTIGO 2
+
+As Partes Contratantes reconhecem o interesse de chegar a um melhor conhecimento recíproco das suas previsões a médio e a longo prazo para favorecer o desenvolvimento da cooperação entre os dois países.
+
+###### ARTIGO 3
+
+Com o objectivo de consolidar os laços de cooperação entre os dois países, as Partes Contratantes estabelecerão, por via diplomática, acordos subsidiários para a execução de projectos de cooperação científica e técnica em conformidade com as respectivas legislações.
+
+###### ARTIGO 4
+
+As Partes Contratantes favorecerão o intercâmbio de informação acerca dos projectos de investimento dos dois países, bem como a concessão de créditos para o seu financiamento, a fim de facilitar a concorrência das respectivas empresas aos concursos correspondentes. De igual modo facilitarão a constituição de empresas mistas para a execução de projectos de interesse mútuo, em conformidade com as respectivas legislações.
+
+###### ARTIGO 5
+
+As Partes Contratantes desenvolverão o intercâmbio comercial recíproco, de acordo com as possibilidades, necessidades e prioridades de ambas as economias, através do estabelecimento de acordos de fornecimento a longo e médio prazo para produtos tradicionais e não tradicionais, do intercâmbio de missões comerciais, da concessão de linhas de crédito promocionais e de outros meios de financiamento considerados adequados.
+
+###### ARTIGO 6
+
+As Partes Contratantes consideram que, tendo em conta o potencial económico dos dois países, existem importantes possibilidades de cooperação económica, científica e técnica de interesse comum, nomeadamente nos seguintes sectores:
+
+Indústria química e petroquímica.
+
+Indústria farmacêutica.
+
+Agricultura e agro-indústria.
+
+Exploração e aproveitamento de recursos mineiros.
+
+Indústrias de processamento e outras conexas com a pesca.
+
+Transportes: infra-estruturas e material rolante.
+
+Recursos hidráulicos e aproveitamentos hidroeléctricos: projecto, construção e fornecimento de equipamento.
+
+Engenharia civil: estudo, projecto e construção.
+
+Engenharia sanitária.
+
+Estaleiros navais e instalações portuárias: projecto, construção, fornecimento de equipamento.
+
+Esta relação não exclui outros sectores que as Partes Contratantes, de futuro, considerem de interesse comum.
+
+###### ARTIGO 7
+
+Para a efectivação da cooperação prevista neste Acordo, os acordos subsidiários que venham a ser estabelecidos pelas Partes Contratantes poderão abranger:
+
+a) O intercâmbio de especialistas e de quadros, bem como outras formas de cooperação no domínio dos recursos humanos;
+
+b) A realização conjunta de projectos de investigação e de desenvolvimento, com base no aproveitamento da experiência dos dois países;
+
+c) O intercâmbio de know-how;
+
+d) Outras formas de cooperação que sejam acordadas.
+
+###### ARTIGO 8
+
+As Partes Contratantes concederão com carácter de reciprocidade e de acordo com as respectivas legislações internas:
+
+a) A isenção dos direitos aduaneiros e outros impostos que incidam sobre o material e o equipamento necessário à efectivação da cooperação científica e técnica prevista no presente Acordo;
+
+b) A isenção de impostos sobre o rendimento que incidam sobre as remunerações de origem estrangeira dos cientistas e peritos em missão de cooperação científica e técnica;
+
+c) A livre entrada e expedição de objectos e móveis de que, para sua instalação, os cientistas e peritos em missão de cooperação científica e técnica sejam portadores.
+
+###### ARTIGO 9
+
+As Partes Contratantes acordam que os pagamentos resultantes dos contratos relativos aos projectos de investimento e transacções comerciais realizados no âmbito do presente Acordo sejam efectuados em divisas livremente convertíveis em conformidade com a regulamentação em vigor em cada país.
+
+###### ARTIGO 10
+
+Para promover a aplicação do presente Acordo será criada uma Comissão Mista, cuja composição será definida pelas Partes Contratantes. A Comissão Mista elaborará o seu regulamento na primeira reunião que efectuar e submetê-lo-á à aprovação das Partes Contratantes por via diplomática.
+
+Nas suas funções incluem-se, entre outras, a análise e recomendação de programas apresentados por cada uma das Partes Contratantes e de propostas que contribuam para a cooperação económica, científica e técnica e para a expansão das trocas comerciais.
+
+A Comissão Mista reunir-se-á a pedido de uma das Partes Contratantes, alternadamente, em Lisboa e em Lima.
+
+###### ARTIGO 11
+
+Qualquer diferendo entre as Partes Contratantes resultante da aplicação do presente Acordo ou da interpretação das suas cláusulas será resolvido por via diplomática.
+
+###### ARTIGO 12
+
+O presente Acordo poderá ser modificado de comum acordo entre as Partes Contratantes.
+
+###### ARTIGO 13
+
+O presente Acordo terá uma validade de três anos e será automaticamente prorrogado por novos períodos de um ano, salvo se uma das Partes comunicar à outra, com uma antecedência de três meses sobre a data de expiração do respectivo período de validade, a sua decisão de o denunciar.
+
+###### ARTIGO 14
+
+No caso de expiração do presente Acordo, as suas disposições continuarão a aplicar-se às obrigações que ainda não tenham sido cumpridas e sejam resultado dos acordos subsidiários de cooperação económica, científica e técnica concluídos durante o seu período de validade, salvo se as Partes Contratantes decidirem, de comum acordo, em contrário.
+
+###### ARTIGO 15
+
+O presente Acordo entrará em vigor depois da notificação recíproca da sua aprovação segundo os processos previstos pelas leis em vigor em cada um dos Estados.
+
+Feito em Lima, a 1 de Setembro de 1977, em dois exemplares originais nas línguas portuguesa e castelhana, cada texto fazendo igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+José de Medeiros Ferreira.
+
+Pelo Governo da República do Peru:
+
+José de La Puente Radbill.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08900/06570660.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08900/06570660.pdf)

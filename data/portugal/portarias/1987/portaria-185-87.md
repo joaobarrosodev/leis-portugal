@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:662295:por
+title: Portaria n.º 185/87
+short_title: null
+summary: Fixa o subsídio de gasóleo à lavoura para 1987
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 185/87
+official_date: null
+publication_date: '1987-03-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/1987, Série I de 1987-03-16
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1036 - 1037
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06200/10361037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '662295'
+  dre_path: /dr/detalhe/portaria/185-1987-662295
+  internal: pt:dre:662295:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-1987-662295
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-1987-662295
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-03-16T00:00:00Z'
+integrity:
+  source_sha256: 61a326b927fb18007f2db3235d2892553f8dc7c979aabae7fdb54f5e3c5c5d31
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-185-662295.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 185/87
+
+de 16 de Março
+
+Considerando a quota-parte muito importante que os combustíveis representam nos encargos de utilização de máquinas agrícolas motorizadas, com reflexos directos nos custos de produção, são atribuídos, no ano de 1987, subsídios aos consumos de gasóleo estimados para os equipamentos agrícolas de uso mais corrente.
+
+O esquema aprovado para 1987 não difere, no essencial, do adoptado em 1986 e o valor do subsídio unitário mantém-se em 21$50 por litro, prevendo-se que as devoluções à lavoura, pela via da bonificação ao gasóleo, ultrapassem o montante de 8 milhões de contos.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, em conformidade com o [Decreto-Lei n.º 19/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1983-307811), de 21 de Janeiro, o seguinte:
+
+1.º No ano de 1987 são concedidos subsídios aos proprietários das máquinas indicadas no número seguinte que se encontrem em boas condições de funcionamento, não sujeitas a subutilização e com emprego predominante na realização de operações culturais inerentes à actividade agrícola e aos agricultores com culturas de regadio por bombagem.
+
+2.º As máquinas agrícolas consideradas para efeitos do número anterior e os correspondentes subsídios anuais são os seguintes:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/06200/10361037.pdf))](https://files.diariodarepublica.pt/1s/1987/03/06200/10361037.pdf)
+
+3.º O subsídio respeitante às áreas regadas por bombagem mantém-se em 3225$00 por hectare.
+
+4.º Os tractores com idade superior a 25 anos serão, obrigatoriamente, submetidos a rigorosa verificação técnica, tendo em atenção os parâmetros referidos no n.º 1.º
+
+5.º Os alugadores de máquinas têm direito ao subsídio, como forma de beneficiar indirectamente os agricultores sem máquinas, desde que façam prova, junto da entidade onde tiverem feito o seu manifesto, de que contrataram o respectivo aluguer a preços não superiores aos das tabelas de preços máximos de aluguer a praticar em 1987, para a diversa maquinaria agrícola, calculados tendo em conta a bonificação do gasóleo, publicadas pela Direcção-Geral de Hidráulica e Engenharia Agrícola (DGHEA) e divulgadas pelas direcções regionais de agricultura.
+
+6.º O direito ao recebimento dos subsídios referidos fica condicionado ao manifesto das máquinas mencionadas no n.º 2.º e das áreas regadas por bombagem nas direcções regionais de agricultura ou em instituições devidamente credenciadas para o efeito, de acordo com a seguinte metodologia:
+
+a) Beneficiários que já constam dos ficheiros de 1986: mediante simples confirmação ou rectificação, em folhas de computador impressas, das declarações registadas naquele ano;
+
+b) Inscrições novas: mediante elaboração de um processo de habilitação completo.
+
+7.º O período de inscrição decorrerá de 1 de Abril a 15 de Maio de 1987.
+
+8.º Sempre que ocorra a alienação ou abate de qualquer equipamento ou a redução das áreas regadas por bombagem, são os respectivos beneficiários obrigados a comunicar tais factos aos serviços regionais onde estiver feito o seu manifesto, no prazo máximo de 30 dias a partir da data da ocorrência.
+
+9.º As direcções regionais de agricultura controlam as declarações e manifestos mencionados nos n.os 5.º e 6.º através da vistoria às máquinas e áreas regadas, escolhidas por amostragem, a nível nacional, entre todos os beneficiários possíveis, excepção feita aos casos dos tractores com mais de 25 anos, em que, conforme se indica no n.º 4.º, a vistoria é obrigatória, e ainda os agricultores que tenham sido encontrados em falta, conforme o disposto na alínea c) do n.º 10.º da [Portaria n.º 429/86](https://diariodarepublica.pt/dr/detalhe/portaria/429-1986-218932), de 8 de Agosto.
+
+10.º As falsas declarações feitas pelos eventuais beneficiários das inscrições referidas no n.º 6.º e as infracções ao disposto no n.º 5.º determinarão:
+
+a) A anulação de qualquer ordem de pagamento do subsídio anual relativo aos mesmos beneficiários e a comunicação dos factos ao Ministério Público;
+
+b) A emissão imediata por parte do Instituto Nacional de Garantia Agrícola (INGA), para efeitos de execução fiscal, de certidão de dívida, quando as referidas declarações tenham permitido o recebimento indevido dos subsídios estabelecidos neste diploma;
+
+c) Os beneficiários que prestem falsas declarações ficam ainda sujeitos a controle rigoroso obrigatório nos dois anos seguintes em que se habilitem ao subsídio ao gasóleo.
+
+11.º O pagamento do subsídio é feito por transferência bancária para a instituição de crédito indicada pelo beneficiário à entidade onde estiver inscrito, líquido de imposto do selo e de eventuais retenções para a Segurança Social, efectuadas nos termos do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, e salvo casos muito excepcionais, devidamente justificados, em que o pagamento poderá ser feito por cheque.
+
+12.º Os encargos técnicos e administrativos adicionais inerentes ao processamento do subsídio do gasóleo serão suportados por verba a atribuir a cada direcção regional de agricultura correspondente à taxa de 0,5%, calculada sobre o valor líquido do total de subsídios pagos por seu intermédio, sobre a qual incidirá, por dedução na mesma, a taxa adicional de 10%, cujo produto, equivalente a 0,05% do montante dos subsídios pagos, será destinada à DGHEA.
+
+13.º Os encargos com o pagamento do subsídio de gasóleo a que se refere o n.º 1.º, bem como os encargos técnicos e administrativos nos valores referidos no número anterior, serão suportados pelas competentes dotações do orçamento do INGA, cabendo às direcções regionais de agricultura e à DGHEA suportar as restantes despesas na parte que a cada uma compete na execução do processo.
+
+14.º As reclamações relativas ao pagamento do subsídio serão apresentadas nas direcções regionais de agricultura no período de 2 a 20 de Novembro de 1987.
+
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+
+**Assinada em 18 de Fevereiro de 1987.**
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Joaquim António Rosado Gusmão, Secretário de Estado da Agricultura.

@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374642:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-124392221",
+ "dre_path": "/dr/detalhe/portaria/112-a-2011-374642",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-03-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124413415",
+    "124413416",
+    "124413417",
+    "124413418",
+    "124413419"
+   ]
+  },
+  {
+   "date": "2019-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124392065:por",
+     "title": "Portaria n.º 287/2019",
+     "published": "2019-09-03",
+     "dre_path": "/dr/detalhe/portaria/287-2019-124392065"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "124413415",
+    "124413416",
+    "124413426",
+    "124413418",
+    "124413419",
+    "124413420"
+   ]
+  }
+ ],
+ "fragments": {
+  "124413415": {
+   "fragment_id": "124392222",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 112-A/2011\n\nde 22 de Março\n\nO Programa do XVIII Governo Constitucional manteve a aposta em vias alternativas de resolução alternativa de litígios, assumindo o compromisso de proporcionar meios mais expeditos, acessíveis e económicos para os cidadãos e as empresas resolverem conflitos.\n\nO Decreto-Lei n.º 10/2011, de 20 de Janeiro, introduziu no ordenamento jurídico português a arbitragem em matéria tributária, como forma alternativa de resolução jurisdicional de conflitos no domínio fiscal.\n\nNos termos do artigo 4.º do Decreto-Lei n.º 10/2011, de 20 de Janeiro, os tribunais arbitrais funcionam no CAAD - Centro de Arbitragem Administrativa, dependendo a vinculação da administração tributária à jurisdição destes tribunais de portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\nDesde 2009 que o CAAD - Centro de Arbitragem Administrativa tem vindo a resolver por mediação e arbitragem litígios relativos a matérias muito relevantes, incluindo questões de contratos e de relações jurídicas de emprego público, encontrando-se já, entre outros, o Ministério da Justiça e o Ministério da Cultura vinculados à sua jurisdição.\n\nCom a presente portaria, a administração tributária vincula-se também à jurisdição do CAAD nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 10/2011, de 20 de Janeiro, associando-se a este mecanismo de resolução alternativa de litígios e nos termos e condições aqui estabelecidos, atendendo à especificidade e valor das matérias em causa.\n\nAssim:\n\nManda o Governo, pelo Ministros de Estado e das Finanças e da Justiça, ao abrigo do n.º 1 do artigo 4.º do Decreto-Lei n.º 10/2011, de 20 de Janeiro, o seguinte:"
+  },
+  "124413416": {
+   "fragment_id": "124392223",
+   "type": 11,
+   "heading": "Artigo 1.º — Vinculação ao CAAD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Vinculação ao CAAD\n\nPela presente portaria vinculam-se à jurisdição dos tribunais arbitrais que funcionam, nos termos do Decreto-Lei n.º 10/2011, de 20 de Janeiro, no CAAD - Centro de Arbitragem Administrativa os seguintes serviços do Ministério das Finanças e da Administração Pública:\n\na) A Direcção-Geral dos Impostos (DGCI); e\n\nb) A Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC)."
+  },
+  "124413417": {
+   "fragment_id": "124392224",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto da vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto da vinculação\n\nOs serviços e organismos referidos no artigo anterior vinculam-se à jurisdição dos tribunais arbitrais que funcionam no CAAD que tenham por objecto a apreciação das pretensões relativas a impostos cuja administração lhes esteja cometida referidas no n.º 1 do artigo 2.º do Decreto-Lei n.º 10/2011, de 20 de Janeiro, com excepção das seguintes:\n\na) Pretensões relativas à declaração de ilegalidade de actos de autoliquidação, de retenção na fonte e de pagamento por conta que não tenham sido precedidos de recurso à via administrativa nos termos dos artigos 131.º a 133.º do Código de Procedimento e de Processo Tributário;\n\nb) Pretensões relativas a actos de determinação da matéria colectável e actos de determinação da matéria tributável, ambos por métodos indirectos, incluindo a decisão do procedimento de revisão;\n\nc) Pretensões relativas a direitos aduaneiros sobre a importação e demais impostos indirectos que incidam sobre mercadorias sujeitas a direitos de importação; e\n\nd) Pretensões relativas à classificação pautal, origem e valor aduaneiro das mercadorias e a contingentes pautais, ou cuja resolução dependa de análise laboratorial ou de diligências a efectuar por outro Estado membro no âmbito da cooperação administrativa em matéria aduaneira."
+  },
+  "124413418": {
+   "fragment_id": "124392225",
+   "type": 11,
+   "heading": "Artigo 3.º — Termos da vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Termos da vinculação\n\n1 - A vinculação dos serviços e organismos referidos no artigo 1.º está limitada a litígios de valor não superior a (euro) 10 000 000.\n\n2 - Sem prejuízo dos requisitos previstos no Decreto-Lei n.º 10/2011, de 20 de Janeiro, a vinculação dos serviços referidos no artigo 1.º está sujeita às seguintes condições:\n\na) Nos litígios de valor igual ou superior a (euro) 500 000, o árbitro presidente deve ter exercido funções públicas de magistratura nos tribunais tributários ou possuir o grau de mestre em Direito Fiscal;\n\nb) Nos litígios de valor igual ou superior a (euro) 1 000 000, o árbitro presidente deve ter exercido funções públicas de magistratura nos tribunais tributários ou possuir o grau de doutor em Direito Fiscal.\n\n3 - Em caso de impossibilidade de designar árbitros com as características referidas no número anterior cabe ao presidente do Conselho Deontológico do CAAD a designação do árbitro presidente."
+  },
+  "124413419": {
+   "fragment_id": "124392226",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de Julho de 2011.\n\nEm 18 de Março de 2011."
+  },
+  "124413426": {
+   "fragment_id": "124392224",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto da vinculação",
+   "in_force_from": "2019-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/287-2019-124392065), em vigor a partir de 2019-09-04"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto da vinculação\n\nOs serviços e organismos referidos no artigo anterior vinculam-se à jurisdição dos tribunais arbitrais que funcionam no CAAD que tenham por objecto a apreciação das pretensões relativas a impostos cuja administração lhes esteja cometida referidas no n.º 1 do artigo 2.º do Decreto-Lei n.º 10/2011, de 20 de Janeiro, com excepção das seguintes:\n\na) Pretensões relativas à declaração de ilegalidade de actos de autoliquidação, de retenção na fonte e de pagamento por conta que não tenham sido precedidos de recurso à via administrativa nos termos dos artigos 131.º a 133.º do Código de Procedimento e de Processo Tributário;\n\nb) Pretensões relativas a actos de determinação da matéria colectável e actos de determinação da matéria tributável, ambos por métodos indirectos, incluindo a decisão do procedimento de revisão;\n\nc) Pretensões relativas a direitos aduaneiros sobre a importação e demais impostos indirectos que incidam sobre mercadorias sujeitas a direitos de importação; e\n\nd) Pretensões relativas à classificação pautal, origem e valor aduaneiro das mercadorias e a contingentes pautais, ou cuja resolução dependa de análise laboratorial ou de diligências a efectuar por outro Estado membro no âmbito da cooperação administrativa em matéria aduaneira;\n\ne) Pretensões relativas à declaração de ilegalidade da liquidação de tributos com base na disposição antiabuso referida no n.º 1 do artigo 63.º do CPPT, que não tenham sido precedidos de recurso à via administrativa nos termos do n.º 11 do mesmo artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/287-2019-124392065), em vigor a partir de 2019-09-04"
+  },
+  "124413420": {
+   "fragment_id": "124392227",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto de Sousa Martins."
+  }
+ }
+}

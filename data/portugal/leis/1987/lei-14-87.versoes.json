@@ -1,0 +1,800 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:530584:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1987-34527475",
+ "dre_path": "/dr/detalhe/lei/14-1987-530584",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1987-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56307543",
+    "43489975",
+    "43490075",
+    "43490175",
+    "43490275",
+    "43490375",
+    "43490475",
+    "43490575",
+    "43490675",
+    "43490775",
+    "43490875",
+    "43490975",
+    "43491075",
+    "43491175",
+    "43491275",
+    "43491375",
+    "43491475",
+    "43491575",
+    "43491675"
+   ]
+  },
+  {
+   "date": "1987-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:257615:por",
+     "title": "Declaração",
+     "published": "1987-05-07",
+     "dre_path": "/dr/detalhe/declaracao/1987-257615"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "44243075",
+    "43489975",
+    "43490075",
+    "43490175",
+    "43490275",
+    "43490375",
+    "43490475",
+    "43490575",
+    "43490675",
+    "43490775",
+    "43490875",
+    "44229175",
+    "44229275",
+    "44236575",
+    "43491275",
+    "43491375",
+    "43491475",
+    "43491575",
+    "43491675",
+    "43491775"
+   ]
+  },
+  {
+   "date": "1994-03-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:275395:por",
+     "title": "Lei n.º 4/94",
+     "published": "1994-03-09",
+     "dre_path": "/dr/detalhe/lei/4-1994-275395"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "44406375",
+    "44384875",
+    "43490075",
+    "44384975",
+    "44385075",
+    "44385175",
+    "44385275",
+    "43490575",
+    "43490675",
+    "43490775",
+    "44381475",
+    "44382575",
+    "44382675",
+    "44382775",
+    "44382875",
+    "44382975",
+    "44383075",
+    "44383675",
+    "44384275",
+    "44384375",
+    "44384475",
+    "44384575",
+    "44384675",
+    "44384775"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146220:por",
+     "title": "Lei Orgânica n.º 1/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/lei-organica/1-2011-146220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "56307497",
+    "44384875",
+    "43490075",
+    "44663075",
+    "44385075",
+    "56307495",
+    "56307496",
+    "44564675",
+    "43490675",
+    "43490775",
+    "44381475",
+    "44382575",
+    "44382675",
+    "44382775",
+    "44382875",
+    "44382975",
+    "44383075",
+    "44383675",
+    "44384275",
+    "44384375",
+    "44384475",
+    "44384575",
+    "44384675",
+    "44384775"
+   ]
+  },
+  {
+   "date": "2014-02-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:606109:por",
+     "title": "Lei Orgânica n.º 1/2014",
+     "published": "2014-01-09",
+     "dre_path": "/dr/detalhe/lei-organica/1-2014-606109"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-C",
+    "Adita Artigo 14.º-D",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º-A",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "56307543",
+    "44384875",
+    "43490075",
+    "44663075",
+    "44385075",
+    "56307544",
+    "56307545",
+    "44564675",
+    "43490675",
+    "43490775",
+    "56307546",
+    "44382575",
+    "44382675",
+    "44382775",
+    "44382875",
+    "44382975",
+    "44383075",
+    "44383675",
+    "44384275",
+    "56307531",
+    "56307537",
+    "56307538",
+    "56307539",
+    "56307540",
+    "56307541",
+    "56307542"
+   ]
+  },
+  {
+   "date": "2022-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177088811:por",
+     "title": "Lei Orgânica n.º 1/2022",
+     "published": "2022-01-04",
+     "dre_path": "/dr/detalhe/lei-organica/1-2022-177088811"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "56307543",
+    "44384875",
+    "43490075",
+    "44663075",
+    "44385075",
+    "56307544",
+    "177145782",
+    "44564675",
+    "43490675",
+    "43490775",
+    "56307546",
+    "44382575",
+    "44382675",
+    "44382775",
+    "44382875",
+    "44382975",
+    "44383075",
+    "44383675",
+    "44384275",
+    "56307531",
+    "56307537",
+    "56307538",
+    "56307539",
+    "56307540",
+    "56307541",
+    "56307542"
+   ]
+  }
+ ],
+ "fragments": {
+  "56307543": {
+   "fragment_id": "35147275",
+   "type": 15,
+   "heading": "Diploma — LEI ELEITORAL PARA O PARLAMENTO EUROPEU",
+   "in_force_from": "2014-02-08",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\n> Nota: [Artigo 4.º, Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109) Para efeitos de republicação, onde se lê «Alta Autoridade para a Comunicação Social», «Comissão Nacional de Proteção de Dados Pessoais Informatizados», «Secretariado Técnico dos Assuntos para o Processo Eleitoral», «Ministério da Educação e Cultura» e «Ministro da República», deve ler-se, respetivamente, «Entidade Reguladora para a Comunicação Social», «Comissão Nacional de Proteção de Dados», «Secretaria-Geral do Ministério da Administração Interna», «membro do Governo responsável pela área da educação» e «Representante da República»."
+  },
+  "43489975": {
+   "fragment_id": "35211775",
+   "type": 11,
+   "heading": "Artigo 1.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Legislação aplicável\n\nA eleição dos 24 deputados de Portugal ao Parlamento Europeu rege-se pelas normas comunitárias aplicáveis e, na parte nelas não prevista ou em que as mesmas normas remetam para as legislações nacionais, pelas normas internas que regem a eleição de deputados à Assembleia da República, na parte aplicável e não especialmente prevista na presente lei, com as adaptações que se mostrem necessárias."
+  },
+  "43490075": {
+   "fragment_id": "35211875",
+   "type": 11,
+   "heading": "Artigo 2.º — Colégio eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Colégio eleitoral\n\nÉ instituído um círculo eleitoral único, com sede em Lisboa, ao qual corresponde um só colégio eleitoral."
+  },
+  "43490175": {
+   "fragment_id": "35211975",
+   "type": 11,
+   "heading": "Artigo 3.º — Capacidade eleitoral activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capacidade eleitoral activa\n\n1 - Nas primeiras eleições de deputados ao Parlamento Europeu que tiverem lugar após a entrada em vigor da presente lei têm capacidade eleitoral activa os cidadãos portugueses recenseados no território nacional ou no território de qualquer outro Estado membro das Comunidades Europeias, desde que esse território não esteja excluído do âmbito de aplicação dos tratados que instituíram aquelas Comunidades.\n\n2 - Nas mesmas eleições os eleitores mencionados em último lugar exercem o direito de voto por correspondência, nos termos da legislação eleitoral aplicável à eleição de deputados à Assembleia da República, com as necessárias adaptações."
+  },
+  "43490275": {
+   "fragment_id": "35212075",
+   "type": 11,
+   "heading": "Artigo 4.º — Capacidade eleitoral passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capacidade eleitoral passiva\n\nGozam de capacidade eleitoral passiva os cidadãos portugueses maiores de 18 anos, independentemente do lugar da sua residência, não feridos de inelegibilidade."
+  },
+  "43490375": {
+   "fragment_id": "35212175",
+   "type": 11,
+   "heading": "Artigo 5.º — Inelegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Inelegibilidade\n\n1 - São inelegíveis para o Parlamento Europeu:\n\na) Os cidadãos abrangidos por qualquer inelegibilidade prevista em normas comunitárias aplicáveis;\n\nb) Os cidadãos abrangidos por qualquer das inelegibilidades gerais previstas na legislação aplicável à eleição de deputados à Assembleia da República;\n\nc) Os membros do Governo, de órgão de governo próprio de região autónoma, do Governo ou da Assembleia Legislativa de Macau e os governadores civis em funções à data da apresentação das candidaturas, bem como os juízes do Tribunal Constitucional não abrangidos pelo disposto na alínea anterior.\n\n2 - A inelegibilidade referida na alínea c) do número anterior não tem lugar quando as entidades nela referidas façam prova da suspensão das respectivas funções à data da apresentação das candidaturas, mantendo-se a suspensão até ao dia das eleições."
+  },
+  "43490475": {
+   "fragment_id": "35212275",
+   "type": 11,
+   "heading": "Artigo 6.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Incompatibilidades\n\nO exercício do mandato de deputado ao Parlamento Europeu é incompatível:\n\na) Com as qualidades referidas no n.º 1 do artigo 6.º do Acto Comunitário de 20 de Setembro de 1976;\n\nb) Com o desempenho efectivo dos cargos a que se referem as inelegibilidades previstas no artigo anterior.\n\n> Nota: [Artigo 5.º, Lei Orgânica n.º 1/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2022-177088811) A presente lei produz efeitos no primeiro dia da legislatura do Parlamento Europeu subsequente à sua entrada em vigor."
+  },
+  "43490575": {
+   "fragment_id": "35212375",
+   "type": 11,
+   "heading": "Artigo 7.º — Marcação da eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Marcação da eleição\n\nO Presidente da República, ouvido o Governo e tendo em conta as disposições comunitárias aplicáveis, marca a data das eleições com a antecedência mínima de 75 dias."
+  },
+  "43490675": {
+   "fragment_id": "35212475",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização das listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização das listas\n\nAs listas propostas à eleição devem conter a indicação de candidatos efectivos em número igual ao dos deputados a eleger e suplentes em número não inferior a três nem superior a oito."
+  },
+  "43490775": {
+   "fragment_id": "35212575",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação de candidaturas\n\n1 - As listas de candidatos são apresentadas no Tribunal Constitucional, competindo a este, em secção designada por sorteio, desempenhar as funções atribuídas pela legislação que rege as eleições para deputados à Assembleia da República ao competente juiz de círculo.\n\n2 - Das decisões finais da secção competente relativas à apresentação de candidaturas cabe recurso para o Tribunal Constitucional, em plenário."
+  },
+  "43490875": {
+   "fragment_id": "35212675",
+   "type": 11,
+   "heading": "Artigo 10.º — Campanha eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Campanha eleitoral\n\n1 - Aplica-se à acção e à disciplina da campanha eleitoral de deputados ao Parlamento Europeu, incluindo o respectivo direito de antena, o disposto na legislação aplicável à eleição de deputados à Assembleia da República, com a duração da campanha reduzida a doze dias.\n\n2 - Quando as duas eleições tenham lugar na mesma data, a duração da campanha eleitoral correspondente às eleições para o Parlamento Europeu é igual à prevista para a campanha eleitoral para a Assembleia da República.\n\n3 - Na hipótese prevista no número anterior, o tempo de antena correspondente à campanha eleitoral para o Parlamento Europeu é transmitido em horário distinto do estabelecido para a campanha eleitoral para a Assembleia da República, em termos a determinar pela Comissão Nacional de Eleições."
+  },
+  "43490975": {
+   "fragment_id": "35212775",
+   "type": 11,
+   "heading": "Artigo 11.º — Boletins de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Boletins de voto\n\n1 - Quando as eleições para o Parlamento Europeu coincidirem com outros actos eleitorais, será diferente a cor dos respectivos boletins de voto, cabendo à Comissão Nacional de Eleições, ouvido o Secretário Técnico de Apoio ao Processo Eleitoral, definir e tornar pública a cor dos boletins de voto.\n\n2 - Diferente será também, nos mesmos termos, a cor dos envelopes utilizados para o voto por correspondência relativo a cada acto eleitoral."
+  },
+  "43491075": {
+   "fragment_id": "35212875",
+   "type": 11,
+   "heading": "Artigo 12.º — Apuramento dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apuramento dos resultados\n\n1 - O apuramento dos resultados da eleição em cada distrito do continente ou em cada região autónoma compete a uma assembleia de apuramento intermédio, à qual se aplicam, com as necessárias adaptações, as regras da legislação que rege as eleições de deputados à Assembleia da República respeitantes ao apuramento geral.\n\n2 - É constituída em Lisboa uma assembleia de apuramento intermédio dos resultados relativos à votação a que se refere o n.º 2 do artigo 3.º\n\n3 - O apuramento dos resultados gerais da eleição e a proclamação dos candidatos eleitos competem a uma assembleia de apuramento geral, que inicia os seus trabalhos às 9 horas do 10.º dia posterior ao da eleição, no edifício do Tribunal Constitucional.\n\n4 - A assembleia de apuramento geral tem a seguinte composição:\n\na) O presidente do Tribunal Constitucional, que presidirá, com voto de qualidade;\n\nb) Dois juízes do Tribunal Constitucional, designados por sorteio;\n\nc) Dois professores de Matemática, designados pelo Ministério da Educação e Cultura;\n\nd) O secretário do Tribunal Constitucional, que secretaria, sem voto.\n\n5 - O sorteio previsto na alínea b) do n.º 4 efectua-se no Tribunal Constitucional, em dia e hora marcados pelo seu Presidente.\n\n6 - Ao apuramento geral da eleição para o Parlamento Europeu aplicam-se, com as necessárias adaptações, as disposições relativas ao apuramento geral da eleição para a Presidência da República."
+  },
+  "43491175": {
+   "fragment_id": "35212975",
+   "type": 11,
+   "heading": "Artigo 13.º — Contencioso eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contencioso eleitoral\n\n1 - As irregularidades ocorridas no decurso da votação e das operações de apuramento parcial, intermédio e geral só podem ser apreciadas em recurso contencioso desde que hajam sido objecto de reclamação ou protesto apresentado por escrito no acto em que se verificaram.\n\n2 - Relativamente às irregularidades ocorridas no decurso da votação e do apuramento parcial só pode ser interposto recurso contencioso se tiver sido previamente interposto recurso gracioso perante a assembleia de apuramento intermédio no 2.º dia posterior ao da eleição.\n\n3 - O recurso contencioso é interposto, no dia seguinte ao da afixação do edital com a publicação dos resultados do apuramento, perante o Tribunal Constitucional."
+  },
+  "43491275": {
+   "fragment_id": "35213075",
+   "type": 11,
+   "heading": "Artigo 14.º — Ilícito eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ilícito eleitoral\n\nAo ilícito eleitoral respeitante às eleições para o Parlamento Europeu aplicam-se as disposições que punem a violação das normas para que remete a presente lei, bem como, nos restantes casos, as disposições que punem a violação das normas equivalentes às da presente lei constantes da legislação aplicável às eleições para deputados à Assembleia da República."
+  },
+  "43491375": {
+   "fragment_id": "35213175",
+   "type": 11,
+   "heading": "Artigo 15.º — Duração transitória do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Duração transitória do mandato\n\n1 - O mandato dos deputados eleitos nas primeiras eleições após a entrada em vigor da presente lei terminará simultaneamente com o termo do mandato quinquenal em curso dos deputados ao Parlamento Europeu dos restantes Estados membros.\n\n2 - O mandato em curso dos deputados portugueses termina com a verificação, pelo Parlamento Europeu, do mandato dos deputados referidos no número anterior."
+  },
+  "43491475": {
+   "fragment_id": "35213275",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão Nacional de Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão Nacional de Eleições\n\nA Comissão Nacional de Eleições exerce as suas competências também em relação às eleições de deputados ao Parlamento Europeu."
+  },
+  "43491575": {
+   "fragment_id": "35213375",
+   "type": 11,
+   "heading": "Artigo 17.º — Conservação de documentação eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conservação de documentação eleitoral\n\nA documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados."
+  },
+  "43491675": {
+   "fragment_id": "35213475",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "44243075": {
+   "fragment_id": "35147275",
+   "type": 15,
+   "heading": "Diploma — LEI ELEITORAL PARA O PARLAMENTO EUROPEU",
+   "in_force_from": "1987-05-07",
+   "changed_by": [
+    "Alterado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615), em vigor a partir de 1987-05-07"
+   ],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\n> Alterado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615), em vigor a partir de 1987-05-07"
+  },
+  "44229175": {
+   "fragment_id": "35212775",
+   "type": 11,
+   "heading": "Artigo 11.º — Boletins de voto",
+   "in_force_from": "1987-05-07",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+   ],
+   "markdown": "###### Artigo 11.º — Boletins de voto\n\n1 - Quando as eleições para o Parlamento Europeu coincidirem com outros actos eleitorais, será diferente a cor dos respectivos boletins de voto, cabendo à Comissão Nacional de Eleições, ouvido o Secretariado Técnico dos Assuntos para o Processo Eleitoral, definir e tornar pública a cor dos boletins de voto.\n\n2 - Diferente será também, nos mesmos termos, a cor dos envelopes utilizados para o voto por correspondência relativo a cada acto eleitoral.\n\n> Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+  },
+  "44229275": {
+   "fragment_id": "35212875",
+   "type": 11,
+   "heading": "Artigo 12.º — Apuramento dos resultados",
+   "in_force_from": "1987-05-07",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+   ],
+   "markdown": "###### Artigo 12.º — Apuramento dos resultados\n\n1 - O apuramento dos resultados da eleição em cada distrito do continente ou em cada região autónoma compete a uma assembleia de apuramento intermédio, à qual se aplicam, com as necessárias adaptações, as regras da legislação que rege as eleições de deputados à Assembleia da República respeitantes ao apuramento geral.\n\n2 - É constituída em Lisboa uma assembleia de apuramento intermédio dos resultados relativos à votação a que se refere o n.º 2 do artigo 3.º\n\n3 - O apuramento dos resultados gerais da eleição e a proclamação dos candidatos eleitos competem a uma assembleia de apuramento geral, que inicia os seus trabalhos às 9 horas do 15.º dia posterior ao da eleição, no edifício do Tribunal Constitucional.\n\n4 - A assembleia de apuramento geral tem a seguinte composição:\n\na) O presidente do Tribunal Constitucional, que presidirá, com voto de qualidade;\n\nb) Dois juízes do Tribunal Constitucional, designados por sorteio;\n\nc) Dois professores de Matemática, designados pelo Ministério da Educação e Cultura;\n\nd) O secretário do Tribunal Constitucional, que secretaria, sem voto.\n\n5 - O sorteio previsto na alínea b) do n.º 4 efectua-se no Tribunal Constitucional, em dia e hora marcados pelo seu Presidente.\n\n6 - Ao apuramento geral da eleição para o Parlamento Europeu aplicam-se, com as necessárias adaptações, as disposições relativas ao apuramento geral da eleição para a Presidência da República.\n\n> Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+  },
+  "44236575": {
+   "fragment_id": "35212975",
+   "type": 11,
+   "heading": "Artigo 13.º — Contencioso eleitoral",
+   "in_force_from": "1987-05-07",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+   ],
+   "markdown": "###### Artigo 13.º — Contencioso eleitoral\n\n1 - As irregularidades ocorridas no decurso da votação e das operações de apuramento parcial, intermédio e geral só podem ser apreciadas em recurso contencioso desde que hajam sido objecto de reclamação ou protesto apresentado por escrito no acto em que se verificaram.\n\n2 - Relativamente às irregularidades ocorridas no decurso da votação e do apuramento parcial só pode ser interposto recurso contencioso se tiver sido previamente interposto recurso gracioso perante a assembleia de apuramento intermédio no primeiro dia do seu funcionamento.\n\n3 - O recurso contencioso é interposto, no dia seguinte ao da afixação do edital com a publicação dos resultados do apuramento, perante o Tribunal Constitucional.\n\n> Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+  },
+  "43491775": {
+   "fragment_id": "35213575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Abril de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 29 de Abril de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 29 de Abril de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "44406375": {
+   "fragment_id": "35147275",
+   "type": 15,
+   "heading": "Diploma — LEI ELEITORAL PARA O PARLAMENTO EUROPEU",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Alterado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615), em vigor a partir de 1987-05-07",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395), em vigor a partir de 1994-03-10"
+   ],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\n> Alterado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615), em vigor a partir de 1987-05-07\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395), em vigor a partir de 1994-03-10"
+  },
+  "44384875": {
+   "fragment_id": "35211775",
+   "type": 11,
+   "heading": "Artigo 1.º — Legislação aplicável",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 1.º — Legislação aplicável\n\nA eleição dos deputados ao Parlamento Europeu eleitos em Portugal rege-se pela presente lei, pelas normas comunitárias aplicáveis e, na parte nelas não prevista ou em que as mesmas normas remetam para as legislações nacionais, pelas normas que regem a eleição de deputados à Assembleia da República, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44384975": {
+   "fragment_id": "35211975",
+   "type": 11,
+   "heading": "Artigo 3.º — Capacidade eleitoral activa",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 3.º — Capacidade eleitoral activa\n\n1 - São eleitores dos deputados ao Parlamento Europeu eleitos em Portugal:\n\na) Os cidadãos portugueses recenseados no território nacional;\n\nb) Os cidadãos portugueses inscritos no recenseamento eleitoral português, residentes nos Estados membros da União Europeia, que não optem por votar no Estado de residência;\n\nc) Os cidadãos da União Europeia, não nacionais do Estado Português, recenseados em Portugal.\n\n2 - Os cidadãos referidos na alínea b) do número anterior exercem o direito de voto por correspondência, nos termos da legislação aplicável à eleição de deputados à Assembleia da República, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44385075": {
+   "fragment_id": "35212075",
+   "type": 11,
+   "heading": "Artigo 4.º — Capacidade eleitoral passiva",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 4.º — Capacidade eleitoral passiva\n\nGozam de capacidade eleitoral passiva os cidadãos referidos no artigo anterior, independentemente do local da sua residência, não feridos de inelegibilidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44385175": {
+   "fragment_id": "35212175",
+   "type": 11,
+   "heading": "Artigo 5.º — Inelegibilidade",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 5.º — Inelegibilidade\n\nSão inelegíveis para o Parlamento Europeu:\n\na) O Presidente da República;\n\nb) O Primeiro-Ministro;\n\nc) Os governadores civis e vice-governadores civis em exercício de funções;\n\nd) Os cidadãos abrangidos por qualquer das inelegibilidades gerais previstas na legislação aplicável à eleição dos deputados à Assembleia da República;\n\ne) Aqueles que exerçam funções diplomáticas à data da apresentação das candidaturas, desde que não incluídos na alínea anterior;\n\nf) Os juízes em exercício de funções, não abrangidos pela alínea d);\n\ng) Os membros da Comissão Nacional de Eleições;\n\nh) Os cidadãos abrangidos por qualquer inelegibilidade prevista em normas comunitárias aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44385275": {
+   "fragment_id": "35212275",
+   "type": 11,
+   "heading": "Artigo 6.º — Incompatibilidades",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 6.º — Incompatibilidades\n\n1 - A qualidade de deputado ao Parlamento Europeu é incompatível com a titularidade dos seguintes cargos:\n\na) Membro do Governo;\n\nb) Ministro da República;\n\nc) Membro do Conselho Superior da Magistratura;\n\nd) Procurador-Geral da República;\n\ne) Provedor de Justiça e Provedor-Adjunto;\n\nf) Membro dos órgãos de governo próprio das Regiões Autónomas;\n\ng) Governador, membro do Governo e deputado à Assembleia Legislativa de Macau;\n\nh) Governador civil e vice-governador civil;\n\ni) Presidente e vereador a tempo inteiro das câmaras municipais;\n\nj) Presidente do Conselho Económico e Social;\n\nl) Membro da Alta Autoridade para a Comunicação Social, da Comissão Nacional de Protecção de Dados Pessoais Informatizados e da Comissão de Acesso aos Documentos Administrativos;\n\nm) Gestor público e membro da direcção de instituto público;\n\nn) Membro do conselho de administração de sociedade anónima de capitais exclusiva ou maioritariamente públicos, qualquer que seja o modo de designação.\n\n2 - É também incompatível com a qualidade de deputado ao Parlamento Europeu a titularidade dos cargos:\n\na) Relativos ao exercício de funções diplomáticas em missão de representação externa do Estado Português, quando desempenhados por não funcionários;\n\nb) Referidos no artigo 2.º do Decreto-Lei n.º 196/93, de 27 de Maio;\n\nc) Referidos no n.º 1 do artigo 6.º do Acto Comunitário de 20 de Setembro de 1976, não previstos no número anterior.\n\n3 - A qualidade de deputado ao Parlamento Europeu é ainda incompatível:\n\na) Com o exercício das funções de funcionário ou agente do Estado ou de outras pessoas colectivas públicas, sem prejuízo do exercício gratuito de funções docentes no ensino superior e da actividade de investigação;\n\nb) Com o exercício do mandato de deputado à Assembleia da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44381475": {
+   "fragment_id": "35213675",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Requisitos especiais de apresentação de candidaturas",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 9.º-A — Requisitos especiais de apresentação de candidaturas\n\n1 - No acto de apresentação da candidatura, o candidato que não seja cidadão português tem de juntar ao processo declaração formal, especificando:\n\na) A sua nacionalidade e endereço no território português;\n\nb) Que não é simultaneamente candidato noutro Estado membro;\n\nc) A sua inscrição nos cadernos eleitorais da autarquia local ou círculo eleitoral no Estado membro de origem em que esteja inscrito em último lugar, quando aqueles existam.\n\n2 - O candidato deve igualmente apresentar um atestado, emitido pelas autoridades administrativas competentes do Estado membro de origem, comprovando que não está privado da capacidade eleitoral passiva nesse Estado membro ou que as referidas autoridades não têm conhecimento de qualquer incapacidade.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44382575": {
+   "fragment_id": "35213775",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Assembleias eleitorais",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 9.º-B — Assembleias eleitorais\n\nNão é permitida a composição de secções de voto exclusivamente por eleitores não nacionais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44382675": {
+   "fragment_id": "35212675",
+   "type": 11,
+   "heading": "Artigo 10.º — Campanha eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Campanha eleitoral\n\n1 - Aplica-se à acção e à disciplina da campanha eleitoral de deputados ao Parlamento Europeu, incluindo o respectivo direito de antena, o disposto na legislação aplicável à eleição de deputados à Assembleia da República, com a duração da campanha reduzida a doze dias.\n\n2 - Quando as duas eleições tenham lugar na mesma data, a duração da campanha eleitoral correspondente às eleições para o Parlamento Europeu é igual à prevista para a campanha eleitoral para a Assembleia da República.\n\n3 - Na hipótese prevista no número anterior, o tempo de antena correspondente à campanha eleitoral para o Parlamento Europeu é transmitido em horário distinto do estabelecido para a campanha eleitoral para a Assembleia da República, em termos a determinar pela Comissão Nacional de Eleições."
+  },
+  "44382775": {
+   "fragment_id": "35212775",
+   "type": 11,
+   "heading": "Artigo 11.º — Boletins de voto",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+   ],
+   "markdown": "###### Artigo 11.º — Boletins de voto\n\n1 - Quando as eleições para o Parlamento Europeu coincidirem com outros actos eleitorais, será diferente a cor dos respectivos boletins de voto, cabendo à Comissão Nacional de Eleições, ouvido o Secretariado Técnico dos Assuntos para o Processo Eleitoral, definir e tornar pública a cor dos boletins de voto.\n\n2 - Diferente será também, nos mesmos termos, a cor dos envelopes utilizados para o voto por correspondência relativo a cada acto eleitoral.\n\n> Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+  },
+  "44382875": {
+   "fragment_id": "35212875",
+   "type": 11,
+   "heading": "Artigo 12.º — Apuramento dos resultados",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+   ],
+   "markdown": "###### Artigo 12.º — Apuramento dos resultados\n\n1 - O apuramento dos resultados da eleição em cada distrito do continente ou em cada região autónoma compete a uma assembleia de apuramento intermédio, à qual se aplicam, com as necessárias adaptações, as regras da legislação que rege as eleições de deputados à Assembleia da República respeitantes ao apuramento geral.\n\n2 - É constituída em Lisboa uma assembleia de apuramento intermédio dos resultados relativos à votação a que se refere o n.º 2 do artigo 3.º\n\n3 - O apuramento dos resultados gerais da eleição e a proclamação dos candidatos eleitos competem a uma assembleia de apuramento geral, que inicia os seus trabalhos às 9 horas do 15.º dia posterior ao da eleição, no edifício do Tribunal Constitucional.\n\n4 - A assembleia de apuramento geral tem a seguinte composição:\n\na) O presidente do Tribunal Constitucional, que presidirá, com voto de qualidade;\n\nb) Dois juízes do Tribunal Constitucional, designados por sorteio;\n\nc) Dois professores de Matemática, designados pelo Ministério da Educação e Cultura;\n\nd) O secretário do Tribunal Constitucional, que secretaria, sem voto.\n\n5 - O sorteio previsto na alínea b) do n.º 4 efectua-se no Tribunal Constitucional, em dia e hora marcados pelo seu Presidente.\n\n6 - Ao apuramento geral da eleição para o Parlamento Europeu aplicam-se, com as necessárias adaptações, as disposições relativas ao apuramento geral da eleição para a Presidência da República.\n\n> Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+  },
+  "44382975": {
+   "fragment_id": "35212975",
+   "type": 11,
+   "heading": "Artigo 13.º — Contencioso eleitoral",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+   ],
+   "markdown": "###### Artigo 13.º — Contencioso eleitoral\n\n1 - As irregularidades ocorridas no decurso da votação e das operações de apuramento parcial, intermédio e geral só podem ser apreciadas em recurso contencioso desde que hajam sido objecto de reclamação ou protesto apresentado por escrito no acto em que se verificaram.\n\n2 - Relativamente às irregularidades ocorridas no decurso da votação e do apuramento parcial só pode ser interposto recurso contencioso se tiver sido previamente interposto recurso gracioso perante a assembleia de apuramento intermédio no primeiro dia do seu funcionamento.\n\n3 - O recurso contencioso é interposto, no dia seguinte ao da afixação do edital com a publicação dos resultados do apuramento, perante o Tribunal Constitucional.\n\n> Rectificado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615)"
+  },
+  "44383075": {
+   "fragment_id": "35213075",
+   "type": 11,
+   "heading": "Artigo 14.º — Ilícito eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ilícito eleitoral\n\nAo ilícito eleitoral respeitante às eleições para o Parlamento Europeu aplicam-se as disposições que punem a violação das normas para que remete a presente lei, bem como, nos restantes casos, as disposições que punem a violação das normas equivalentes às da presente lei constantes da legislação aplicável às eleições para deputados à Assembleia da República."
+  },
+  "44383675": {
+   "fragment_id": "35213875",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Candidatura múltipla",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 14.º-A — Candidatura múltipla\n\n1 - Quem se candidatar simultaneamente às eleições para o Parlamento Europeu em Portugal e noutro Estado membro é punido com prisão até 2 anos e multa até 100 dias.\n\n2 - A ocorrência do facto previsto no número anterior pode determinar, como pena acessória, a inelegibilidade nas eleições imediatamente seguintes para o Parlamento Europeu.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44384275": {
+   "fragment_id": "35213975",
+   "type": 11,
+   "heading": "Artigo 14.º-B — Voto múltiplo",
+   "in_force_from": "1994-03-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 14.º-B — Voto múltiplo\n\nQuem votar simultaneamente nas eleições para o Parlamento Europeu em Portugal e noutro Estado membro é punido com prisão até 1 ano e multa até 50 dias.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44384375": {
+   "fragment_id": "35213175",
+   "type": 11,
+   "heading": "Artigo 15.º — Duração transitória do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Duração transitória do mandato\n\n1 - O mandato dos deputados eleitos nas primeiras eleições após a entrada em vigor da presente lei terminará simultaneamente com o termo do mandato quinquenal em curso dos deputados ao Parlamento Europeu dos restantes Estados membros.\n\n2 - O mandato em curso dos deputados portugueses termina com a verificação, pelo Parlamento Europeu, do mandato dos deputados referidos no número anterior."
+  },
+  "44384475": {
+   "fragment_id": "35213275",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão Nacional de Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão Nacional de Eleições\n\nA Comissão Nacional de Eleições exerce as suas competências também em relação às eleições de deputados ao Parlamento Europeu."
+  },
+  "44384575": {
+   "fragment_id": "35213375",
+   "type": 11,
+   "heading": "Artigo 17.º — Conservação de documentação eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conservação de documentação eleitoral\n\nA documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados."
+  },
+  "44384675": {
+   "fragment_id": "35213475",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "44384775": {
+   "fragment_id": "35213575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Abril de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 29 de Abril de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 29 de Abril de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "56307497": {
+   "fragment_id": "35147275",
+   "type": 15,
+   "heading": "Diploma — LEI ELEITORAL PARA O PARLAMENTO EUROPEU",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615), em vigor a partir de 1987-05-07",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395), em vigor a partir de 1994-03-10",
+    "Alterado pelo/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\n> Alterado pelo/a [Declaração - Diário da República n.º 104/1987, Suplemento n.º 1, Série I de 1987-05-07](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-257615), em vigor a partir de 1987-05-07\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395), em vigor a partir de 1994-03-10\n\n> Alterado pelo/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "44663075": {
+   "fragment_id": "35211975",
+   "type": 11,
+   "heading": "Artigo 3.º — Capacidade eleitoral activa",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei Orgânica n.º 1/2005 - Diário da República n.º 3/2005, Série I-A de 2005-01-05](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2005-457201)",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 3.º — Capacidade eleitoral activa\n\n1 - São eleitores dos deputados ao Parlamento Europeu eleitos em Portugal:\n\na) Os cidadãos portugueses recenseados no território nacional;\n\nb) Os cidadãos portugueses inscritos no recenseamento eleitoral português, residentes fora do território nacional, que não optem por votar em outro Estado membro da União Europeia;\n\nc) Os cidadãos da União Europeia, não nacionais do Estado Português, recenseados em Portugal.\n\n2 - Os cidadãos referidos na alínea b) do número anterior exercem o direito de voto directa e presencialmente, sem prejuízo do disposto na lei em relação ao voto antecipado e ao voto dos deficientes.\n\n> Alterado pelo/a Artigo único do/a [Lei Orgânica n.º 1/2005 - Diário da República n.º 3/2005, Série I-A de 2005-01-05](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2005-457201)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "56307495": {
+   "fragment_id": "35212175",
+   "type": 11,
+   "heading": "Artigo 5.º — Inelegibilidade",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 5.º — Inelegibilidade\n\nSão inelegíveis para o Parlamento Europeu:\n\na) O Presidente da República;\n\nb) O Primeiro-Ministro;\n\nc) (Revogada.)\n\nd) Os cidadãos abrangidos por qualquer das inelegibilidades gerais previstas na legislação aplicável à eleição dos deputados à Assembleia da República;\n\ne) Aqueles que exerçam funções diplomáticas à data da apresentação das candidaturas, desde que não incluídos na alínea anterior;\n\nf) Os juízes em exercício de funções, não abrangidos pela alínea d);\n\ng) Os membros da Comissão Nacional de Eleições;\n\nh) Os cidadãos abrangidos por qualquer inelegibilidade prevista em normas comunitárias aplicáveis.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "56307496": {
+   "fragment_id": "35212275",
+   "type": 11,
+   "heading": "Artigo 6.º — Incompatibilidades",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 6.º — Incompatibilidades\n\n1 - A qualidade de deputado ao Parlamento Europeu é incompatível com a titularidade dos seguintes cargos:\n\na) Membro do Governo;\n\nb) Ministro da República;\n\nc) Membro do Conselho Superior da Magistratura;\n\nd) Procurador-Geral da República;\n\ne) Provedor de Justiça e Provedor-Adjunto;\n\nf) Membro dos órgãos de governo próprio das Regiões Autónomas;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) Presidente e vereador a tempo inteiro das câmaras municipais;\n\nj) Presidente do Conselho Económico e Social;\n\nl) Membro da Alta Autoridade para a Comunicação Social, da Comissão Nacional de Protecção de Dados Pessoais Informatizados e da Comissão de Acesso aos Documentos Administrativos;\n\nm) Gestor público e membro da direcção de instituto público;\n\nn) Membro do conselho de administração de sociedade anónima de capitais exclusiva ou maioritariamente públicos, qualquer que seja o modo de designação.\n\n2 - É também incompatível com a qualidade de deputado ao Parlamento Europeu a titularidade dos cargos:\n\na) Relativos ao exercício de funções diplomáticas em missão de representação externa do Estado Português, quando desempenhados por não funcionários;\n\nb) Referidos no artigo 2.º do Decreto-Lei n.º 196/93, de 27 de Maio;\n\nc) Referidos no n.º 1 do artigo 6.º do Acto Comunitário de 20 de Setembro de 1976, não previstos no número anterior.\n\n3 - A qualidade de deputado ao Parlamento Europeu é ainda incompatível:\n\na) Com o exercício das funções de funcionário ou agente do Estado ou de outras pessoas colectivas públicas, sem prejuízo do exercício gratuito de funções docentes no ensino superior e da actividade de investigação;\n\nb) Com o exercício do mandato de deputado à Assembleia da República.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "44564675": {
+   "fragment_id": "35212375",
+   "type": 11,
+   "heading": "Artigo 7.º — Marcação da eleição",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/99 - Diário da República n.º 143/1999, Série I-A de 1999-06-22](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-1999-391575)"
+   ],
+   "markdown": "###### Artigo 7.º — Marcação da eleição\n\nO Presidente da República, ouvido o Governo e tendo em conta as disposições aplicáveis, marca a data das eleições com a antecedência de 60 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/99 - Diário da República n.º 143/1999, Série I-A de 1999-06-22](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-1999-391575)"
+  },
+  "56307544": {
+   "fragment_id": "35212175",
+   "type": 11,
+   "heading": "Artigo 5.º — Inelegibilidade",
+   "in_force_from": "2014-02-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08",
+    "Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 5.º — Inelegibilidade\n\nSão inelegíveis para o Parlamento Europeu:\n\na) O Presidente da República;\n\nb) O Primeiro-Ministro;\n\nc) (Revogada.)\n\nd) Os cidadãos abrangidos por qualquer das inelegibilidades gerais previstas na legislação aplicável à eleição dos deputados à Assembleia da República;\n\ne) Aqueles que exerçam funções diplomáticas à data da apresentação das candidaturas, desde que não incluídos na alínea anterior;\n\nf) Os juízes em exercício de funções, não abrangidos pela alínea d);\n\ng) Os membros da Comissão Nacional de Eleições;\n\nh) Os cidadãos abrangidos por qualquer inelegibilidade prevista em normas comunitárias aplicáveis.\n\ni) Os cidadãos da União Europeia privados do direito de se candidatarem por decisão judicial ou administrativa no Estado de origem.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08\n\n> Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "56307545": {
+   "fragment_id": "35212275",
+   "type": 11,
+   "heading": "Artigo 6.º — Incompatibilidades",
+   "in_force_from": "2014-02-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08",
+    "Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 6.º — Incompatibilidades\n\n1 - A qualidade de deputado ao Parlamento Europeu é incompatível com a titularidade dos seguintes cargos:\n\na) Membro do Governo;\n\nb) Ministro da República;\n\nc) Membro do Conselho Superior da Magistratura;\n\nd) Procurador-Geral da República;\n\ne) Provedor de Justiça e Provedor-Adjunto;\n\nf) Membro dos órgãos de governo próprio das Regiões Autónomas;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) Presidente e vereador a tempo inteiro das câmaras municipais;\n\nj) Presidente do Conselho Económico e Social;\n\nl) Membro da Alta Autoridade para a Comunicação Social, da Comissão Nacional de Protecção de Dados Pessoais Informatizados e da Comissão de Acesso aos Documentos Administrativos;\n\nm) Gestor público e membro da direcção de instituto público;\n\nn) Membro do conselho de administração de sociedade anónima de capitais exclusiva ou maioritariamente públicos, qualquer que seja o modo de designação.\n\n2 - É também incompatível com a qualidade de deputado ao Parlamento Europeu a titularidade dos cargos:\n\na) Relativos ao exercício de funções diplomáticas em missão de representação externa do Estado Português, quando desempenhados por não funcionários;\n\nb) Que compõem o gabinete do Presidente da República e a respetiva Casa Civil, o gabinete do Presidente da Assembleia da República, os gabinetes de apoio aos grupos parlamentares, o gabinete do Primeiro-Ministro, os gabinetes dos membros do Governo, os gabinetes dos Representantes da República nas regiões autónomas, os gabinetes dos membros dos Governos Regionais, os gabinetes de apoio aos presidentes, vice-presidentes e vereadores a tempo inteiro das câmaras municipais, bem como os equiparados a qualquer destes cargos;\n\nc) Referidos no n.º 1 do artigo 7.º do Ato Comunitário de 20 de setembro de 1976, não previstos no número anterior.\n\n3 - A qualidade de deputado ao Parlamento Europeu é ainda incompatível:\n\na) Com o exercício das funções de funcionário ou agente do Estado ou de outras pessoas colectivas públicas, sem prejuízo do exercício gratuito de funções docentes no ensino superior e da actividade de investigação;\n\nb) Com o exercício do mandato de deputado à Assembleia da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08\n\n> Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "56307546": {
+   "fragment_id": "35213675",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Requisitos especiais de apresentação de candidaturas",
+   "in_force_from": "2014-02-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 9.º-A — Requisitos especiais de apresentação de candidaturas\n\n1 - No acto de apresentação da candidatura, o candidato que não seja cidadão português tem de juntar ao processo declaração formal, especificando:\n\na) A sua nacionalidade, data e local de nascimento, o último endereço no Estado membro de origem, bem como o endereço no território português;\n\nb) Que não é simultaneamente candidato noutro Estado membro;\n\nc) A sua inscrição nos cadernos eleitorais da autarquia local ou círculo eleitoral no Estado membro de origem em que esteja inscrito em último lugar, quando aqueles existam.\n\nd) Que não se encontra privado do direito de se apresentar como candidato no Estado membro de que é nacional, em virtude de decisão judicial ou administrativa, desde que esta última possa ser objeto de recurso ou impugnação judicial.\n\n2 - Para confirmação do requisito a que se refere a alínea d) do número anterior a secção competente do Tribunal Constitucional notifica a Secretaria-Geral do Ministério da Administração Interna (SGMAI), no início do prazo de verificação das candidaturas, para que esta, na qualidade de ponto de contacto do Estado português, encaminhe os pedidos de informação às entidades designadas como pontos de contacto dos Estados membros de nacionalidade dos candidatos da União que integrem as listas portuguesas de candidatura ao Parlamento Europeu.\n\n3 - Logo que notificada pelo Tribunal Constitucional dos pedidos de confirmação a que se refere o número anterior, a SGMAI transmite-os imediatamente às entidades designadas como pontos de contacto dos Estados membros de nacionalidade dos candidatos, por forma a viabilizar a sua obtenção no prazo de cinco dias úteis.\n\n4 - A SGMAI comunica de imediato ao Tribunal Constitucional o teor das informações que lhe sejam remetidas pelas entidades designadas como pontos de contacto dos Estados membros de nacionalidade dos candidatos, as quais são usadas exclusivamente com essa finalidade.\n\n5 - Caso a informação relevante solicitada não seja recebida até ao termo do prazo para rejeição de candidaturas, e nada mais havendo a que tal obste, a candidatura é aceite.\n\n6 - Nos casos em que se verifique que o candidato não cumpre o requisito da alínea d) do n.º 1, logo que a informação seja conhecida o candidato é considerado inelegível.\n\n7 - Caso o candidato a que se refere o número anterior já tenha sido eleito ou empossado, a informação deve ser transmitida imediatamente aos competentes serviços do Parlamento Europeu, para que o mesmo não tome posse ou cesse imediatamente o exercício do mandato, por perda deste.\n\n8 - A verificação de qualquer uma das situações descritas nos n.os 6 e 7 determina a substituição do candidato ou deputado eleito, nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  },
+  "56307531": {
+   "fragment_id": "56303342",
+   "type": 11,
+   "heading": "Artigo 14.º-C — Falsas declarações",
+   "in_force_from": "2014-02-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08"
+   ],
+   "markdown": "###### Artigo 14.º-C — Falsas declarações\n\nQuem, sabendo estar privado do direito de se candidatar ao Parlamento Europeu no Estado membro de que é nacional em virtude de decisão judicial ou administrativa, esta última suscetível de recurso ou impugnação judicial, prestar sobre aquele facto falsa declaração com o intuito de integrar listas de candidatura em Portugal, é punido nos termos do artigo 348.º-A do Código Penal.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08"
+  },
+  "56307537": {
+   "fragment_id": "56303343",
+   "type": 11,
+   "heading": "Artigo 14.º-D — Verificação de elegibilidade de cidadão português",
+   "in_force_from": "2014-02-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08"
+   ],
+   "markdown": "###### Artigo 14.º-D — Verificação de elegibilidade de cidadão português\n\n1 - No âmbito da verificação da elegibilidade de cidadão português candidato ao Parlamento Europeu no Estado membro de residência, a SGMAI é designada como ponto de contacto encarregue de:\n\na) Receber os pedidos de confirmação; e\n\nb) Transmitir as informações pertinentes, no prazo de cinco dias úteis a contar da receção dos pedidos, às entidades designadas como pontos de contacto dos demais Estados membros.\n\n2 - Para efeitos do disposto no número anterior, os demais serviços públicos devem prestar à SGMAI, de forma prioritária, toda a colaboração que por esta seja solicitada, nomeadamente as informações que se revelem necessárias nas áreas da justiça e da saúde.\n\n3 - As informações obtidas pela SGMAI, nos termos e para os efeitos do disposto no presente artigo, designadamente as relativas à saúde e à situação perante a justiça nacional dos candidatos, devem conter apenas os dados estritamente necessários à verificação da sua capacidade eleitoral passiva e elegibilidade, conforme o disposto na alínea d) do n.º 1 do artigo 9.º-A, destinando-se unicamente a ser usados para este fim.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08"
+  },
+  "56307538": {
+   "fragment_id": "35213175",
+   "type": 11,
+   "heading": "Artigo 15.º — Duração transitória do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Duração transitória do mandato\n\n1 - O mandato dos deputados eleitos nas primeiras eleições após a entrada em vigor da presente lei terminará simultaneamente com o termo do mandato quinquenal em curso dos deputados ao Parlamento Europeu dos restantes Estados membros.\n\n2 - O mandato em curso dos deputados portugueses termina com a verificação, pelo Parlamento Europeu, do mandato dos deputados referidos no número anterior."
+  },
+  "56307539": {
+   "fragment_id": "35213275",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão Nacional de Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão Nacional de Eleições\n\nA Comissão Nacional de Eleições exerce as suas competências também em relação às eleições de deputados ao Parlamento Europeu."
+  },
+  "56307540": {
+   "fragment_id": "35213375",
+   "type": 11,
+   "heading": "Artigo 17.º — Conservação de documentação eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conservação de documentação eleitoral\n\nA documentação relativa à apresentação de candidaturas será conservada pelo Tribunal Constitucional durante o prazo de cinco anos a contar da data da proclamação dos resultados."
+  },
+  "56307541": {
+   "fragment_id": "35213475",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "56307542": {
+   "fragment_id": "35213575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Abril de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 29 de Abril de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 29 de Abril de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "177145782": {
+   "fragment_id": "35212275",
+   "type": 11,
+   "heading": "Artigo 6.º — Incompatibilidades",
+   "in_force_from": "2022-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2022-177088811), em vigor a partir de 2022-01-09",
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08",
+    "Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+   ],
+   "markdown": "###### Artigo 6.º — Incompatibilidades\n\n1 - A qualidade de deputado ao Parlamento Europeu é incompatível com a titularidade dos seguintes cargos:\n\na) Membro do Governo;\n\nb) Ministro da República;\n\nc) Membro do Conselho Superior da Magistratura;\n\nd) Procurador-Geral da República;\n\ne) Provedor de Justiça e Provedor-Adjunto;\n\nf) Membro dos órgãos de governo próprio das Regiões Autónomas;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) Presidente e vereador a tempo inteiro das câmaras municipais;\n\nj) Presidente do Conselho Económico e Social;\n\nl) Membro da Alta Autoridade para a Comunicação Social, da Comissão Nacional de Protecção de Dados Pessoais Informatizados e da Comissão de Acesso aos Documentos Administrativos;\n\nm) Gestor público e membro da direcção de instituto público;\n\nn) Membro do conselho de administração de sociedade anónima de capitais exclusiva ou maioritariamente públicos, qualquer que seja o modo de designação.\n\n2 - É também incompatível com a qualidade de deputado ao Parlamento Europeu a titularidade dos cargos:\n\na) Relativos ao exercício de funções diplomáticas em missão de representação externa do Estado Português, quando desempenhados por não funcionários;\n\nb) Que compõem o gabinete do Presidente da República e a respetiva Casa Civil, o gabinete do Presidente da Assembleia da República, os gabinetes de apoio aos grupos parlamentares, o gabinete do Primeiro-Ministro, os gabinetes dos membros do Governo, os gabinetes dos Representantes da República nas regiões autónomas, os gabinetes dos membros dos Governos Regionais, os gabinetes de apoio aos presidentes, vice-presidentes e vereadores a tempo inteiro das câmaras municipais, bem como os equiparados a qualquer destes cargos;\n\nc) Referidos no n.º 1 do artigo 7.º do Ato Comunitário de 20 de setembro de 1976, não previstos no número anterior.\n\n3 - A qualidade de deputado ao Parlamento Europeu é ainda incompatível:\n\na) Com o exercício das funções de funcionário ou agente do Estado ou de outras pessoas colectivas públicas, sem prejuízo do exercício gratuito de funções docentes no ensino superior e da actividade de investigação;\n\nb) Com o exercício do mandato de deputado à Assembleia da República.\n\n4 - Sem prejuízo das disposições decorrentes do direito da União Europeia, perdem o mandato os Deputados ao Parlamento Europeu que:\n\na) Venham a ser feridos por alguma das incapacidades ou incompatibilidades previstas na lei;\n\nb) Se inscrevam em partido diverso daquele pelo qual foram apresentados a sufrágio;\n\nc) Sejam condenados, por decisão transitada em julgado, por crime de responsabilidade cometido no exercício da sua função.\n\n5 - Compete ao Tribunal Constitucional, nos termos da respetiva lei de organização, funcionamento e processo, verificar a perda de mandato referida no número anterior e comunicá-la ao Parlamento Europeu.\n\n> Nota: [Artigo 5.º, Lei Orgânica n.º 1/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2022-177088811) A presente lei produz efeitos no primeiro dia da legislatura do Parlamento Europeu subsequente à sua entrada em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2022-177088811), em vigor a partir de 2022-01-09\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2014 - Diário da República n.º 6/2014, Série I de 2014-01-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109), em vigor a partir de 2014-02-08\n\n> Alterado pelo/a Artigo 7.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/lei/4-1994-275395)"
+  }
+ }
+}

@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:1911833:por
+title: Portaria n.º 147/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Ciência, Inovação e Ensino Superior
+proposing_entity: null
+official_number: 147/2005 (2.ª série)
+official_date: null
+publication_date: '2005-01-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2005, Série II de 2005-01-19
+  number: '13'
+  series: II
+  supplement: null
+  pages: 915 - 916
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/01/013000000/0091500916.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1911833'
+  dre_path: /dr/detalhe/portaria/147-2005-1911833
+  internal: pt:dre:1911833:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2005-1911833
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2005-1911833
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-01-19T00:00:00Z'
+integrity:
+  source_sha256: 2807cdb291a859dc9e2c0912268ec84d8d8b81bc4fa2db059e973fda06b344b6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-147-1911833.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 147/2005 (2.ª série)
+
+Portaria n.º 147/2005 (2.ª série). - Considerando que com a [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de Agosto, foi estabelecida a base do financiamento do ensino superior;
+
+Considerando que, atento o n.º 1 do artigo 4.º do supracitado diploma, em cada ano económico, o Estado, pelos montantes fixados na Lei do Orçamento, financia o orçamento de funcionamento base das actividades de ensino e formação das instituições do ensino superior, incluindo as suas unidades orgânicas ou estruturas específicas;
+
+Considerando que o aludido financiamento é indexado a um orçamento de referência, com dotações calculadas de acordo com uma fórmula baseada em critérios objectivos de qualidade e excelência, valores padrão e indicadores de desempenho, equitativamente definidos para o universo de todas as instituições, e tendo em conta os relatórios de avaliação conhecidos para cada curso e instituição, conforme preceitua o n.º 2 do mencionado artigo 4.º;
+
+Ao abrigo do disposto nas disposições conjugadas do n.º 3 e do n.º 4 do artigo 4.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de Agosto:
+
+Manda o Governo, pelos Ministros das Finanças e da Administração Pública e da Ciência, Inovação e Ensino Superior, o seguinte:
+
+1.º O cálculo do orçamento de referência de 2005, relativamente à formação inicial, é baseado:
+
+1) Na previsão de alunos de formação inicial efectuada pelo observatório da ciência e do ensino superior para o ano lectivo de 2004-2005, por área de ensino;
+
+2) Nos rácios padrão, de aplicação universal, relativos a docentes ETI (equivalente em tempo integral) e não docentes, por aluno e por área de ensino;
+
+3) Nos custos padrão de pessoal por aluno e por área de ensino, de cada instituição ou estabelecimento de ensino não integrado, calculados a partir das remunerações médias de cada instituição e dos rácios padrão, incluindo subsídio de refeição e 2% para promoções e progressões, a que acresce 2% para outras despesas de pessoal;
+
+4) Na determinação da verba para outras despesas de funcionamento numa proporção de 15/85 face aos custos padrão com pessoal.
+
+2.º O cálculo do orçamento de referência de 2005, relativamente à formação avançada, é baseado:
+
+1) Nos alunos da parte escolar de mestrados e especializações pós-graduadas do ano lectivo de 2003-2004, por área científica;
+
+2) Nos rácios padrão, de aplicação universal, relativas a docentes ETI, por aluno e por área científica;
+
+3) Nos custos padrão de pessoal docente por aluno e por área científica, de cada instituição ou estabelecimento de ensino não integrado, calculados a partir das remunerações médias de cada um e dos rácios padrão, incluindo subsídio de refeição e 2% para promoções e progressões.
+
+3.º O financiamento é efectuado por indexação aos valores obtidos através do cálculo do orçamento de referência, nos seguintes moldes:
+
+1) Transferência de 80% do orçamento padrão da formação inicial e de 80% do orçamento padrão de pessoal docente da formação avançada;
+
+2) Ponderação de 10% dos orçamentos padrão de pessoal docente da formação inicial e da formação avançada, por aplicação de indicadores de qualidade do pessoal docente de cada instituição e da classificação de mérito das unidades de investigação certificadas pela Fundação para a Ciência e Tecnologia;
+
+3) Aplicação de um factor de coesão com a correspondente verba no ano anterior, de forma a garantir que, para cada instituição, a taxa de variação do montante da dotação do Estado é não inferior a uma variação negativa de 4% e não superior a uma taxa máxima de aumento de 1,20%, para universidades, fc(univ) e de 1,80% para os institutos politécnicos (fc ip).
+
+4.º O orçamento de referência de 2005 é, assim, o resultado do cálculo da seguinte expressão:
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2005/01/013000000/0091500916.pdf))](https://files.diariodarepublica.pt/2s/2005/01/013000000/0091500916.pdf)
+
+10 de Setembro de 2004. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho.

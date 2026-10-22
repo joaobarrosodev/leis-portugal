@@ -1,0 +1,677 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:191539:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-117575685",
+ "dre_path": "/dr/detalhe/portaria/352-2012-191539",
+ "source_lastmod": "2025-06-11",
+ "versions": [
+  {
+   "date": "2012-10-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117483457",
+    "117483458",
+    "117483459",
+    "117483460",
+    "117483461",
+    "117483462",
+    "117483463",
+    "117483464",
+    "117483465",
+    "117483466",
+    "117483467",
+    "117483468",
+    "117483469",
+    "117483470",
+    "117483471",
+    "117483472",
+    "117483473",
+    "117483474",
+    "117596075",
+    "117596076",
+    "117596077",
+    "117596078",
+    "117596079",
+    "117596080",
+    "117596081",
+    "117596082",
+    "117596083",
+    "117596084",
+    "117596085",
+    "117596086",
+    "117596087",
+    "117596088",
+    "117596089",
+    "117596090",
+    "117596091",
+    "117596092",
+    "117596093",
+    "117596094",
+    "117596095"
+   ]
+  },
+  {
+   "date": "2019-02-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117575682:por",
+     "title": "Portaria n.º 3/2019",
+     "published": "2019-01-03",
+     "dre_path": "/dr/detalhe/portaria/3-2019-117575682"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "117483457",
+    "117483458",
+    "117483459",
+    "117483460",
+    "117483461",
+    "117483462",
+    "117483463",
+    "117483464",
+    "117483465",
+    "117483466",
+    "117483467",
+    "117483468",
+    "117483469",
+    "117483470",
+    "117483471",
+    "117483472",
+    "117483473",
+    "117483474",
+    "117596075",
+    "117596076",
+    "117596077",
+    "117596078",
+    "117596079",
+    "117596080",
+    "117596081",
+    "117596082",
+    "921194644",
+    "117596084",
+    "117596085",
+    "117596086",
+    "117596087",
+    "117596088",
+    "921239139",
+    "117596090",
+    "117596091",
+    "117596092",
+    "117596093",
+    "117596094",
+    "117596095",
+    "117596096"
+   ]
+  },
+  {
+   "date": "2025-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:944098802:por",
+     "title": "Portaria n.º 375/2025/1",
+     "published": "2025-11-04",
+     "dre_path": "/dr/detalhe/portaria/375-2025-944098802"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "117483457",
+    "117483458",
+    "117483459",
+    "944414874",
+    "117483461",
+    "944414975",
+    "944414990",
+    "117483464",
+    "117483465",
+    "117483466",
+    "944414976",
+    "117483468",
+    "117483469",
+    "117483470",
+    "117483471",
+    "944414977",
+    "117483473",
+    "117483474",
+    "117596075",
+    "117596076",
+    "117596077",
+    "944414978",
+    "117596079",
+    "944414979",
+    "944414980",
+    "944414981",
+    "944414982",
+    "117596084",
+    "944414983",
+    "117596086",
+    "117596087",
+    "117596088",
+    "921239139",
+    "944414984",
+    "944414985",
+    "944414986",
+    "944414991",
+    "117596094",
+    "117596095",
+    "117596096"
+   ]
+  }
+ ],
+ "fragments": {
+  "117483457": {
+   "fragment_id": "117575686",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 352/2012\n\nde 30 de outubro\n\nO regime jurídico das farmácias de oficina encontra-se estabelecido no Decreto-Lei n.º 307/2007, de 31 de agosto, tendo a Portaria n.º 1430/2007, de 2 de novembro, procedido à sua regulamentação no que concerne aos aspetos procedimentais da abertura de novas farmácias, por concurso ou resultantes de transformação de postos farmacêuticos, e quanto a transferências.\n\nO referido diploma foi alterado pelo Decreto-Lei n.º 171/2012, de 1 de agosto, nomeadamente no que respeita a clarificação de concursos para instalação de novas farmácias, com a supressão da graduação dos candidatos a concursos em função do número de farmácias detidas ou geridas.\n\nA experiência de aplicação do atual enquadramento legal recomenda também a introdução de ajustamentos aos procedimentos regulados e conjugação das alterações mais recentes, nomeadamente em relação à criação de um regime excecional de funcionamento de farmácias de menor dimensão.\n\nProcedeu-se, por isso, à reformulação da regulamentação, adaptando-a a estas novas necessidades.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Saúde, ao abrigo do disposto no artigo 57.º do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pela Lei n.º 26/2011, de 16 de junho, e pelo Decreto-Lei n.º 171/2012, de 1 de agosto, o seguinte:"
+  },
+  "117483458": {
+   "fragment_id": "117575687",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "117483459": {
+   "fragment_id": "117575688",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula:\n\na) O procedimento de licenciamento e de atribuição de alvará a novas farmácias;\n\nb) A transferência da localização de farmácias e o averbamento no alvará;\n\nc) Os custos a suportar pelos requerentes pela prática de atos previstos nesta portaria ou no Decreto-Lei n.º 307/2007, de 31 de agosto, bem como pela emissão de certidões."
+  },
+  "117483460": {
+   "fragment_id": "117575689",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos\n\n1 - A abertura de novas farmácias depende do preenchimento cumulativo dos seguintes requisitos:\n\na) Capitação mínima de 3500 habitantes por farmácia aberta ao público no município, salvo quando a farmácia é instalada a mais de 2 km da farmácia mais próxima;\n\nb) Distância mínima de 350 m entre farmácias, contados, em linha reta, dos limites exteriores das farmácias;\n\nc) Distância mínima de 100 m entre a farmácia e uma extensão de saúde, um centro de saúde ou um estabelecimento hospitalar, contados, em linha reta, dos respetivos limites exteriores, salvo em localidades com menos de 4000 habitantes.\n\n2 - Sem prejuízo dos demais requisitos estabelecidos na lei, a transferência de farmácia no município depende do preenchimento cumulativo das alíneas b) e c) do número anterior.\n\n3 - A distância prevista na alínea b) do número anterior aplica-se também à abertura ou transferência de farmácia em relação a farmácia situada em município limítrofe.\n\n4 - A determinação do número de habitantes é feita em função dos dados mais recentes disponibilizados pelo Instituto Nacional de Estatística, I. P."
+  },
+  "117483461": {
+   "fragment_id": "117575690",
+   "type": 1,
+   "heading": "Capítulo II — Abertura de novas farmácias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Abertura de novas farmácias"
+  },
+  "117483462": {
+   "fragment_id": "117575691",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento concursal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento concursal\n\n1 - O INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), pode proceder à abertura de procedimento concursal para a instalação de uma nova farmácia, quando se verifiquem os requisitos previstos no artigo anterior e o interesse público na acessibilidade dos cidadãos à dispensa de medicamentos o justifique.\n\n2 - As administrações regionais de saúde ou as autarquias locais têm legitimidade para requerer ao INFARMED, I. P., a abertura do procedimento concursal.\n\n3 - O requerimento referido no número anterior deve ser instruído com a demonstração do preenchimento dos requisitos previstos no artigo anterior e na segunda parte do n.º 1 do presente artigo."
+  },
+  "117483463": {
+   "fragment_id": "117575692",
+   "type": 11,
+   "heading": "Artigo 4.º — Aviso de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aviso de abertura\n\n1 - O aviso de abertura do procedimento concursal é publicado na 2.ª série do Diário da República e divulgado no sítio da Internet do INFARMED, I. P.\n\n2 - O aviso de abertura indica:\n\na) O município ou zona do município onde pode ser instalada a farmácia;\n\nb) A data limite para a apresentação das candidaturas;\n\nc) A forma de apresentação das candidaturas;\n\nd) Os requisitos de pré-seleção dos candidatos previstos no artigo 6.º;\n\ne) A data, a hora e o local do sorteio dos candidatos;\n\nf) Os termos de prestação da caução.\n\n3 - A data fixada para a apresentação das candidaturas não pode ser superior a 20 dias a contar da publicação no Diário da República do aviso de abertura do procedimento concursal.\n\n4 - Quando se verifique a necessidade de proceder ao sorteio, o mesmo deve ter lugar no prazo máximo de 70 dias a contar da publicação no Diário da República do aviso do procedimento concursal."
+  },
+  "117483464": {
+   "fragment_id": "117575693",
+   "type": 11,
+   "heading": "Artigo 5.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Júri\n\n1 - O júri do concurso é constituído por três membros efetivos e dois suplentes.\n\n2 - O presidente do conselho diretivo do INFARMED, I. P., preside ao júri, podendo delegar estas funções.\n\n3 - O membro do governo responsável pela área da saúde nomeia os outros membros do júri, sendo um deles proposto pela Ordem dos Farmacêuticos.\n\n4 - O júri supervisiona todas as fases do procedimento concursal."
+  },
+  "117483465": {
+   "fragment_id": "117575694",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidatos\n\n1 - Podem candidatar-se ao procedimento concursal as pessoas singulares ou coletivas que reúnam os requisitos legais das proprietárias de farmácias.\n\n2 - A verificação da reunião dos requisitos é efetuada em dois momentos:\n\na) Na admissão ao procedimento concursal, por deliberação do júri;\n\nb) Na constituição do direito de instalação da farmácia, pelo INFARMED, I. P."
+  },
+  "117483466": {
+   "fragment_id": "117575695",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação da candidatura\n\n1 - Os candidatos, no momento da apresentação da candidatura, devem entregar os seguintes documentos:\n\na) Fotocópia do respetivo bilhete de identidade ou cartão do cidadão, no caso de se tratar de uma pessoa singular, ou fotocópia do contrato de sociedade e certidão do registo comercial, no caso de se tratar de uma sociedade comercial;\n\nb) Declaração negativa de incompatibilidades;\n\nc) Declaração nos termos da qual a propriedade de farmácia a obter pelo concurso não implica ultrapassagem dos limites previstos no artigo 15.º do Decreto-Lei n.º 307/2007, de 31 de agosto;\n\nd) Declaração da intenção de instalar a farmácia no município ou zona de município indicado no aviso de abertura do procedimento concursal.\n\n2 - Com a apresentação da candidatura, os candidatos pagam a quantia referida na alínea a) do n.º 2 do artigo 28.º"
+  },
+  "117483467": {
+   "fragment_id": "117575696",
+   "type": 11,
+   "heading": "Artigo 8.º — Seleção dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Seleção dos candidatos\n\n1 - O júri, no prazo de 20 dias a contar da data limite para a apresentação das candidaturas, procede à pré-seleção dos candidatos.\n\n2 - São liminarmente excluídos os candidatos que:\n\na) Não cumpram os requisitos legais das proprietárias de farmácia;\n\nb) Apresentem a candidatura após a data limite referida no aviso de abertura do procedimento concursal;\n\nc) Não apresentem toda a documentação exigida no aviso abertura do procedimento concursal;\n\nd) Prestem falsas declarações;\n\ne) Não procedam ao pagamento da quantia referida na alínea a) do n.º 2 do artigo 28.º com a apresentação da candidatura.\n\n3 - Nos cinco dias úteis seguintes à conclusão do procedimento previsto no n.º 1, os candidatos que sejam objeto de proposta de exclusão do júri são notificados para a realização da audiência dos interessados nos termos e para os efeitos do Código do Procedimento Administrativo.\n\n4 - Após realização do procedimento de audiência dos interessados o júri procede à notificação dos candidatos excluídos e procede à elaboração da lista dos candidatos pré-selecionados."
+  },
+  "117483468": {
+   "fragment_id": "117575697",
+   "type": 11,
+   "heading": "Artigo 9.º — Homologação e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Homologação e notificação\n\n1 - A lista dos candidatos pré-selecionados é homologada por deliberação do conselho diretivo do INFARMED, I. P.\n\n2 - A lista referida no número anterior é publicada na 2.ª série do Diário da República e divulgada no sítio da Internet do INFARMED, I. P.\n\n3 - Caso exista mais de um candidato pré-selecionado, a deliberação referida no n.º 1 indica a data, a hora e o local de realização do sorteio.\n\n4 - Caso exista apenas um candidato pré-selecionado, procede-se à notificação prevista no artigo 11.º"
+  },
+  "117483469": {
+   "fragment_id": "117575698",
+   "type": 11,
+   "heading": "Artigo 10.º — Sorteio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sorteio\n\n1 - Havendo mais do que um candidato pré-selecionado, realiza-se um sorteio entre eles.\n\n2 - O júri procede ao sorteio dos candidatos pré-selecionados na data, na hora e no local indicados nos termos do n.º 3 do artigo 9.º\n\n3 - O ato do sorteio é público.\n\n4 - O sorteio é realizado com recurso a um sistema eletrónico, mecânico ou eletromecânico que garanta a total aleatoriedade do resultado.\n\n5 - A ordem do sorteio dos candidatos define a hierarquização decrescente para efeitos do direito à instalação da farmácia.\n\n6 - Na sequência da ordem do sorteio, o júri elabora a lista de ordenação dos candidatos que é homologada por deliberação do conselho diretivo do INFARMED, I. P., e publicada na 2.ª série do Diário da República e divulgada no sítio da Internet do INFARMED, I. P."
+  },
+  "117483470": {
+   "fragment_id": "117575699",
+   "type": 11,
+   "heading": "Artigo 11.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Notificação\n\n1 - Decorrido o procedimento concursal, é notificado, como candidato selecionado, o candidato único constante da lista publicada nos termos do artigo 9.º ou o candidato ordenado em primeiro lugar na lista a que se refere o n.º 6 do artigo 10.º, no prazo máximo de 10 dias após a publicação no Diário da República da respetiva homologação.\n\n2 - Da notificação referida no número anterior constam os prazos para a prestação de caução nos termos do artigo seguinte e para a entrega dos documentos referidos no artigo 13.º"
+  },
+  "117483471": {
+   "fragment_id": "117575700",
+   "type": 11,
+   "heading": "Artigo 12.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caução\n\n1 - O candidato selecionado deve prestar ao INFARMED, I. P., uma caução no valor de (euro) 25 000 no prazo de 15 dias a contar da respetiva notificação.\n\n2 - A caução pode ser prestada em dinheiro, através de depósito ou transferência bancária para a conta do INFARMED, ou mediante a apresentação do original de garantia bancária autónoma, à primeira solicitação, nos termos definidos no aviso de abertura do procedimento concursal."
+  },
+  "117483472": {
+   "fragment_id": "117575701",
+   "type": 11,
+   "heading": "Artigo 13.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Documentos\n\n1 - O candidato selecionado dispõe do prazo de 90 dias a contar da respetiva notificação para apresentar ao INFARMED, I. P., os seguintes documentos:\n\na) Planta de localização da farmácia, à escala de 1:2000, incluindo o nome da rua e o número de polícia, de lote ou de indicação do prédio com projeto de construção licenciado, ou dele dispensado, que represente a área envolvente da farmácia numa distância de 350 m contada dos limites exteriores da farmácia;\n\nb) Certidão camarária relativa ao preenchimento dos requisitos respeitantes à distância previstos no n.º 1 do artigo 2.º;\n\nc) Identificação do diretor técnico e declaração da Ordem dos Farmacêuticos da respetiva inscrição, bem como certidão do registo criminal;\n\nd) Memória descritiva da farmácia, incluindo a descrição das instalações, das divisões e das respetivas áreas, conforme regulamento do INFARMED, I. P.;\n\ne) Pedido de aprovação da designação da farmácia, com indicação sucessiva e preferencial de três designações.\n\n2 - Em simultâneo com a apresentação dos documentos, o candidato deve proceder ao pagamento da quantia indicada na alínea b) do n.º 2 do artigo 28.º, sob pena de se considerarem os documentos como não apresentados."
+  },
+  "117483473": {
+   "fragment_id": "117575702",
+   "type": 11,
+   "heading": "Artigo 14.º — Não apresentação dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Não apresentação dos documentos\n\n1 - Caduca, relativamente ao candidato selecionado, o direito de instalação se este não prestar a caução no prazo fixado no n.º 1 do artigo 12.º ou não proceder à apresentação dos documentos mencionados no artigo anterior no prazo indicado.\n\n2 - Nos casos em que tenha ocorrido sorteio, o direito de instalação é atribuído ao candidato seguinte na lista de ordenação constante do n.º 6 do artigo 10.º, e assim sucessivamente, aplicando-se, com as necessárias adaptações, o regime previsto nos artigos 11.º e 13.º, bem como o do número anterior.\n\n3 - A caducidade do direito de instalação, nos termos referidos no presente artigo, é determinada por deliberação do conselho diretivo do INFARMED, I. P., precedida de audiência dos interessados nos termos e para os efeitos do Código do Procedimento Administrativo, e notificada ao candidato no prazo máximo de cinco dias."
+  },
+  "117483474": {
+   "fragment_id": "117575703",
+   "type": 11,
+   "heading": "Artigo 15.º — Análise dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Análise dos documentos\n\n1 - O INFARMED, I. P., analisa os documentos referidos nas alíneas a) a e) do artigo 13.º no prazo de 15 dias a contar da data limite para a respetiva apresentação e verifica o cumprimento dos requisitos legais para abertura e funcionamento da farmácia, através de deliberação do conselho diretivo do INFARMED, I. P.\n\n2 - O incumprimento dos requisitos legais aplicáveis determina, relativamente ao candidato selecionado, a caducidade do direito de instalação, aplicando-se o disposto no artigo anterior, com as necessárias adaptações."
+  },
+  "117596075": {
+   "fragment_id": "117575704",
+   "type": 11,
+   "heading": "Artigo 16.º — Perda da caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Perda da caução\n\nO INFARMED, I. P., considera perdida a seu favor a caução prestada nos termos do artigo 12.º quando seja determinada a caducidade do direito de instalação nos termos dos artigos anteriores."
+  },
+  "117596076": {
+   "fragment_id": "117575705",
+   "type": 11,
+   "heading": "Artigo 17.º — Titular do direito de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Titular do direito de instalação\n\n1 - O INFARMED, I. P., no prazo de cinco dias a contar da deliberação prevista no n.º 1 do artigo 15.º, notifica o titular do direito de instalação do prazo de instalação da farmácia e da decisão sobre a designação da farmácia.\n\n2 - Em simultâneo com a notificação referida no número anterior, o INFARMED, I. P., devolve a caução prestada nos termos do artigo 12.º\n\n3 - Caso o INFARMED, I. P., não aprove nenhuma das designações da farmácia propostas pelo candidato titular do direito de instalação, este deve, no prazo de 10 dias, apresentar um novo pedido.\n\n4 - O INFARMED, I. P., decide no prazo de 10 dias sobre o novo pedido."
+  },
+  "117596077": {
+   "fragment_id": "117575706",
+   "type": 11,
+   "heading": "Artigo 18.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instalação\n\n1 - A instalação da farmácia compreende a dotação de pessoal e o cumprimento das normas relativas às divisões e áreas mínimas.\n\n2 - O candidato titular do direito de instalação dispõe do prazo de um ano para instalar a farmácia contado da notificação referida no n.º 1 do artigo anterior.\n\n3 - O INFARMED, I. P., pode, em casos devidamente justificados no aviso de abertura do procedimento concursal, fixar um prazo mais curto para a instalação da farmácia.\n\n4 - O INFARMED, I. P., pode prorrogar o prazo referido no n.º 2 por período não superior a 60 dias, mediante requerimento, devidamente fundamentado, do titular do direito de instalação.\n\n5 - Decorridos os prazos referidos nos números anteriores sem que seja requerida a vistoria à farmácia, cessa o direito de instalação do titular e o INFARMED, I. P., procede à abertura de novo procedimento concursal.\n\n6 - Os prazos referidos nos n.os 2 a 4 suspendem-se pela apresentação do primeiro pedido de vistoria à farmácia."
+  },
+  "117596078": {
+   "fragment_id": "117575707",
+   "type": 11,
+   "heading": "Artigo 19.º — Vistoria e alvará",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Vistoria e alvará\n\n1 - Terminada a instalação da farmácia, o titular do direito de instalação requer ao INFARMED, I. P., a realização da vistoria.\n\n2 - Em simultâneo com o requerimento referido no número anterior, o titular do direito de instalação deve proceder ao pagamento da quantia indicada na alínea c) do n.º 2 do artigo 28.º, sob pena de se considerar o requerimento como não apresentado.\n\n3 - O INFARMED, I. P., dispõe do prazo de 30 dias para realizar a vistoria requerida.\n\n4 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, no prazo de 10 dias a contar da realização da vistoria, notifica o titular do direito de instalação para, no prazo de 10 dias, proceder ao pagamento da quantia referida na alínea d) do n.º 2 do artigo 28.º\n\n5 - No prazo de cinco dias a contar do pagamento referido no número anterior, o INFARMED, I. P., emite o alvará da farmácia.\n\n6 - Se o INFARMED, I. P., considerar que a farmácia não cumpre as normas legais e regulamentares, o prazo para a instalação reinicia-se, dispondo o titular do direito de instalação da diferença entre o prazo total e aquele decorrido até ao primeiro pedido de vistoria.\n\n7 - A farmácia deve abrir ao público no prazo de 20 dias a contar da receção do alvará, que lhe é remetido pelo INFARMED, I. P., por via postal.\n\n8 - Decorrido o prazo referido no número anterior sem que a farmácia abra ao público, caduca o direito de instalação e o INFARMED, I. P., procede à abertura de novo procedimento concursal."
+  },
+  "117596079": {
+   "fragment_id": "117575708",
+   "type": 1,
+   "heading": "Capítulo III — Transferência da localização da farmácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Transferência da localização da farmácia"
+  },
+  "117596080": {
+   "fragment_id": "117575709",
+   "type": 11,
+   "heading": "Artigo 20.º — Pedido de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pedido de transferência\n\n1 - O proprietário de farmácia que pretenda transferi-la dentro do mesmo município deve apresentar um pedido ao INFARMED, I. P., instruído com os seguintes documentos:\n\na) Fotocópia do respetivo bilhete de identidade ou cartão do cidadão, no caso de se tratar de uma pessoa singular, ou fotocópia do contrato de sociedade e certidão do registo comercial, no caso de se tratar de uma sociedade comercial;\n\nb) Identificação da farmácia a transferir, incluindo o nome da rua e o número de polícia ou lote;\n\nc) Planta de localização do edifício ou fração para onde se pretende a transferência, à escala de 1:2000, incluindo o nome da rua e o número de polícia, de lote, ou de indicação do prédio com projeto de construção licenciado, ou dele dispensado, que represente a área envolvente da farmácia numa distância de 350 m contada dos limites exteriores da farmácia;\n\nd) Certidão camarária relativa ao preenchimento dos requisitos respeitantes à distância previstos nas alíneas b) e c) do n.º 1 do artigo 2.º;\n\ne) Demonstração do preenchimento dos critérios estabelecidos nas alíneas a) e b) do n.º 2 do artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pela Lei n.º 26/2011, de 16 de junho;\n\nf) Se aplicável, as declarações previstas na alínea c) do n.º 6 do artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pela Lei n.º 26/2011, de 16 de junho;\n\ng) Identificação do diretor técnico e de outro farmacêutico, quando exigível, e declaração da Ordem dos Farmacêuticos da respetiva inscrição, bem como certidão do registo criminal;\n\nh) Memória descritiva do edifício ou fração para onde se pretende a transferência, incluindo a descrição das instalações das divisões e das respetivas áreas, conforme regulamento do INFARMED, I. P.\n\n2 - Em simultâneo com a apresentação dos documentos, o proprietário da farmácia deve proceder ao pagamento da quantia indicada na alínea b) do n.º 2 do artigo 28.º, sob pena de se considerarem os documentos como não apresentados."
+  },
+  "117596081": {
+   "fragment_id": "117575710",
+   "type": 11,
+   "heading": "Artigo 21.º — Decisão de aptidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Decisão de aptidão\n\n1 - O INFARMED, I. P., analisa os documentos referidos no artigo anterior, decide, no prazo de 30 dias a contar da respetiva apresentação e descontado o período necessário para a obtenção dos pareceres obrigatórios, sobre a aptidão ou inaptidão da proposta de nova localização da farmácia, de acordo com os requisitos e condições previstos na lei, e notifica, em 10 dias, o proprietário da farmácia.\n\n2 - O INFARMED, I. P., na mesma data da notificação, divulga no seu sítio da Internet a decisão sobre o pedido de transferência da farmácia e de aptidão ou inaptidão da proposta referida no número anterior."
+  },
+  "117596082": {
+   "fragment_id": "117575711",
+   "type": 11,
+   "heading": "Artigo 22.º — Pedidos conflituantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pedidos conflituantes\n\n1 - Os pedidos são conflituantes quando reúnam, cumulativamente, os seguintes requisitos:\n\na) Sejam apresentados no mesmo dia;\n\nb) Sejam objeto de decisão de aptidão;\n\nc) As novas localizações das farmácias distem menos de 350 m entre si.\n\n2 - De entre os pedidos conflituantes, o INFARMED, I. P., seleciona um, através de sorteio.\n\n3 - O INFARMED, I. P., notifica os proprietários das farmácias que apresentem pedidos conflituantes da data, da hora e do local da realização do sorteio."
+  },
+  "117596083": {
+   "fragment_id": "117575712",
+   "type": 11,
+   "heading": "Artigo 23.º — Vistoria e averbamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Vistoria e averbamento\n\n1 - O proprietário da farmácia deve requerer ao INFARMED, I. P., a realização de uma vistoria às novas instalações, no prazo de seis meses a contar da decisão de aptidão referida no artigo 21.º ou da seleção referida no artigo anterior.\n\n2 - O INFARMED, I. P., pode prorrogar o prazo referido no número anterior por período não superior a 120 dias, mediante requerimento, devidamente fundamentado, do concorrente selecionado.\n\n3 - Em simultâneo com o requerimento referido no n.º 1, o proprietário da farmácia deve proceder ao pagamento da quantia indicada na alínea c) do n.º 2 do artigo 28.º, sob pena de se considerar o requerimento como não apresentado.\n\n4 - O INFARMED, I. P., dispõe do prazo de 30 dias para realizar a vistoria requerida.\n\n5 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, notifica o proprietário da farmácia, no prazo de 5 dias, para, no prazo de 10 dias, proceder ao pagamento da quantia referida na alínea e) do n.º 2 do artigo 28.º\n\n6 - No prazo de cinco dias a contar do pagamento referido no número anterior, o INFARMED, I. P., averba a nova localização da farmácia no respetivo alvará.\n\n7 - A farmácia deve abrir ao público, nas novas instalações, no prazo de 20 dias a contar da receção do alvará, que lhe é remetido pelo INFARMED, I. P., por via postal.\n\n8 - Decorridos os prazos previstos nos n.os 1 e 2 do presente artigo sem que seja solicitada a vistoria às novas instalações, caduca a autorização concedida para a transferência de localização da farmácia."
+  },
+  "117596084": {
+   "fragment_id": "117575713",
+   "type": 11,
+   "heading": "Artigo 24.º — Encerramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Encerramento\n\nO proprietário da farmácia pode encerrar a farmácia a transferir a partir da decisão de aptidão referida no n.º 1 do artigo 21.º, pelo período que considerar necessário, para efeitos de reinstalação no novo local."
+  },
+  "117596085": {
+   "fragment_id": "117575714",
+   "type": 11,
+   "heading": "Artigo 25.º — Impossibilidade de transferência e de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Impossibilidade de transferência e de instalação\n\nDesde a decisão de aptidão, prevista no n.º 1 do artigo 21.º, até ao termo do prazo para abrir a farmácia ao público, previsto no n.º 7 do artigo 23.º, são indeferidas, por inaptidão do local para a abertura ao público, a transferência e a instalação de novas farmácias que, em relação à nova localização da farmácia que se pretende transferir, conduzam à violação das regras aplicáveis à transferência de farmácias."
+  },
+  "117596086": {
+   "fragment_id": "117575715",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "117596087": {
+   "fragment_id": "117575716",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime especial de abertura de procedimento concursal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime especial de abertura de procedimento concursal\n\nO INFARMED, I. P., pode fundamentadamente e em função do interesse público, designadamente a acessibilidade dos cidadãos à dispensa de medicamentos, abrir procedimento concursal para a instalação de novas farmácias em zona delimitada e inferior à área do município."
+  },
+  "117596088": {
+   "fragment_id": "117575717",
+   "type": 11,
+   "heading": "Artigo 27.º — Transferência de farmácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferência de farmácia\n\nO proprietário de farmácia não pode requerer a transferência da respetiva localização antes de decorrido um período de cinco anos contado a partir da data da respetiva abertura, independentemente de se tratar de abertura de nova farmácia, transformação de posto farmacêutico ou instalação de farmácia de acordo com o previsto na parte final da alínea a) do n.º 1 do artigo 2.º"
+  },
+  "117596089": {
+   "fragment_id": "117575718",
+   "type": 11,
+   "heading": "Artigo 28.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pagamentos\n\n1 - Os atos praticados pelo INFARMED, I. P., ao abrigo do presente diploma e do Decreto-Lei n.º 307/2007, de 31 de agosto, constituem encargos dos candidatos, beneficiários ou requerentes e o respetivo pagamento é condição de prosseguimento dos procedimentos.\n\n2 - Os montantes a cobrar pelo INFARMED, I. P., pelos atos referidos no número anterior são os seguintes:\n\na) (euro) 250 pela análise e pré-seleção das candidaturas;\n\nb) (euro) 375 pela análise de documentos referente a qualquer procedimento, concursal ou não, não abrangida pela alínea anterior;\n\nc) (euro) 500 pela vistoria às instalações da farmácia ou do posto farmacêutico móvel;\n\nd) (euro) 750 pela emissão de alvará de nova farmácia ou nova localização resultante de transferência;\n\ne) (euro) 100 por qualquer ato sujeito a registo ou a averbamento no alvará, incluindo os que impliquem alteração da propriedade da farmácia ou das participações sociais na sociedade proprietária de farmácia, bem como os ónus incidentes sobre o estabelecimento.\n\n3 - Constituem ainda encargos dos requerentes os custos das certidões e das fotocópias simples referentes a processos de farmácias ou postos farmacêuticos, nos seguintes termos:\n\na) Por cada certidão até 10 folhas - (euro) 30;\n\nb) Por cada conjunto suplementar de até 10 folhas - (euro) 7,50;\n\nc) Por cada conjunto de fotocópias simples até 10 folhas - (euro) 3."
+  },
+  "117596090": {
+   "fragment_id": "117575719",
+   "type": 11,
+   "heading": "Artigo 29.º — Formulários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Formulários\n\nO INFARMED, I. P., disponibiliza, no seu sítio da Internet, os seguintes formulários:\n\na) Pedido das administrações regionais de saúde e das autarquias locais para a abertura do procedimento concursal, referido no n.º 2 do artigo 3.º;\n\nb) Apresentação da candidatura referida no artigo 7.º;\n\nc) Prestação da caução referida no artigo 12.º;\n\nd) Apresentação dos documentos referidos no artigo 13.º e no n.º 1 do artigo 20.º;\n\ne) Requerimento para a realização da vistoria referido no n.º 1 do artigo 19.º e no n.º 1 do artigo 23.º"
+  },
+  "117596091": {
+   "fragment_id": "117575720",
+   "type": 11,
+   "heading": "Artigo 30.º — Comunicação eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comunicação eletrónica\n\nO requerimento para a abertura do procedimento concursal, a apresentação de candidaturas, a apresentação dos documentos, o pedido de aprovação da designação, o pedido de vistoria, o pedido de transferência e os pagamentos e depósito no INFARMED, I. P., podem ser feitos através do sítio da Internet do INFARMED, I. P., através de um campo específico para o efeito."
+  },
+  "117596092": {
+   "fragment_id": "117575721",
+   "type": 11,
+   "heading": "Artigo 31.º — Pedido de transferência para concelhos limítrofes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Pedido de transferência para concelhos limítrofes\n\nA tramitação do pedido de transferência previsto no artigo 2.º da Lei n.º 26/2011, de 16 de junho, obedece ao disposto nos artigos 20.º e seguintes, com as necessárias adaptações."
+  },
+  "117596093": {
+   "fragment_id": "117575722",
+   "type": 11,
+   "heading": "Artigo 32.º — Período de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Período de transferência\n\n1 - O INFARMED, I. P., não pode abrir concurso para a instalação de nova farmácia na pendência de procedimento instaurado nos termos do artigo anterior.\n\n2 - Sem prejuízo do disposto no número anterior, o INFARMED, I. P., pode abrir concurso público para a instalação de uma nova farmácia em zona delimitada inferior à área do município, desde que a nova farmácia a instalar não implique que o município passe a ter capitação inferior a 3500 habitantes por farmácia, considerando também o resultado da transferência, e desde que seja respeitada a distância mínima de 350 m ao local para onde pretende transferir-se a farmácia com procedimento pendente."
+  },
+  "117596094": {
+   "fragment_id": "117575723",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma transitória material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma transitória material\n\n1 - Os procedimentos de abertura e transferência de farmácias em instrução no INFARMED, I. P., regem-se pelas normas em vigor à data do início dos respetivos procedimentos e limitam-se à decisão daquelas situações transitórias.\n\n2 - Os atos sujeitos a pagamento de taxa nos termos do n.º 2 do artigo 28.º praticados após a entrada em vigor da presente portaria obedecem aos valores previstos no mesmo preceito.\n\n3 - Nos casos em que a taxa já tenha sido liquidada pelos requerentes em valor superior ao previsto, o INFARMED, I. P., findo o procedimento, procederá à devolução do que tiver sido pago em excesso.\n\n4 - Os requerentes previstos no n.º 2 que ainda não hajam procedido ao pagamento das taxas devidas nos termos do n.º 2 do artigo 28.º deverão fazê-lo no prazo de 10 dias contados da receção de notificação que o INFARMED, I. P., lhes fará antes da decisão do procedimento."
+  },
+  "117596095": {
+   "fragment_id": "117575724",
+   "type": 11,
+   "heading": "Artigo 34.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Revogação\n\nÉ revogada a Portaria n.º 1430/2007, de 2 de novembro."
+  },
+  "921194644": {
+   "fragment_id": "117575712",
+   "type": 11,
+   "heading": "Artigo 23.º — Vistoria e averbamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 79/2012 - Diário da República n.º 249/2012, Série I de 2012-12-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/79-2012-189765), produz efeitos a partir de 2012-11-04"
+   ],
+   "markdown": "###### Artigo 23.º — Vistoria e averbamento\n\n1 - O proprietário da farmácia deve requerer ao INFARMED, I. P., a realização de uma vistoria às novas instalações, no prazo de seis meses a contar da decisão de aptidão referida no artigo 21.º ou da seleção referida no artigo anterior.\n\n2 - O INFARMED, I. P., pode prorrogar o prazo referido no número anterior por período não superior a 120 dias, mediante requerimento, devidamente fundamentado, do concorrente selecionado.\n\n3 - Em simultâneo com o requerimento referido no n.º 1, o proprietário da farmácia deve proceder ao pagamento da quantia indicada na alínea c) do n.º 2 do artigo 28.º, sob pena de se considerar o requerimento como não apresentado.\n\n4 - O INFARMED, I. P., dispõe do prazo de 30 dias para realizar a vistoria requerida.\n\n5 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, notifica o proprietário da farmácia, no prazo de 5 dias, para, no prazo de 10 dias, proceder ao pagamento da quantia referida na alínea d) do n.º 2 do artigo 28.º.\n\n6 - No prazo de cinco dias a contar do pagamento referido no número anterior, o INFARMED, I. P., averba a nova localização da farmácia no respetivo alvará.\n\n7 - A farmácia deve abrir ao público, nas novas instalações, no prazo de 20 dias a contar da receção do alvará, que lhe é remetido pelo INFARMED, I. P., por via postal.\n\n8 - Decorridos os prazos previstos nos n.os 1 e 2 do presente artigo sem que seja solicitada a vistoria às novas instalações, caduca a autorização concedida para a transferência de localização da farmácia.\n\n> Retificado pelo/a [Declaração de Retificação n.º 79/2012 - Diário da República n.º 249/2012, Série I de 2012-12-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/79-2012-189765), produz efeitos a partir de 2012-11-04"
+  },
+  "921239139": {
+   "fragment_id": "117575718",
+   "type": 11,
+   "heading": "Artigo 28.º — Pagamentos",
+   "in_force_from": "2019-02-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 3/2019 - Diário da República n.º 2/2019, Série I de 2019-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/3-2019-117575682), em vigor a partir de 2019-02-02"
+   ],
+   "markdown": "###### Artigo 28.º — Pagamentos\n\n1 - Os atos praticados pelo INFARMED, I. P., ao abrigo do presente diploma e do Decreto-Lei n.º 307/2007, de 31 de agosto, constituem encargos dos candidatos, beneficiários ou requerentes e o respetivo pagamento é condição de prosseguimento dos procedimentos.\n\n2 - Os montantes a cobrar pelo INFARMED, I. P., pelos atos referidos no número anterior são os seguintes:\n\na) (euro) 100 pela análise e pré-seleção das candidaturas no âmbito de procedimento concursal para abertura de nova farmácia ou novo posto farmacêutico móvel;\n\nb) (euro) 250 pela análise de documentos referentes a procedimento de transferência de localização de farmácia dentro do mesmo município ou para município limítrofe;\n\nc) (euro) 600 pela vistoria às instalações da nova farmácia ou nova localização resultante de transferência da mesma, ou às instalações do posto farmacêutico móvel;\n\nd) (euro) 350 pela análise de qualquer pedido de registo ou a averbamento no alvará, resultantes da alteração da propriedade da farmácia ou das participações sociais na sociedade proprietária de farmácia;\n\ne) (euro) 150 pela análise de qualquer pedido de averbamento no alvará da direção técnica ou farmacêutico responsável pelo posto farmacêutico móvel ou de registo de farmacêutico substituto ou procedimentos de obras.\n\n3 - O cancelamento de registos ou averbamentos não está sujeito ao pagamento de taxa.\n\n4 - Constituem ainda encargos dos requerentes os custos das certidões e das fotocópias simples referentes a processos de farmácias ou postos farmacêuticos móveis, nos seguintes termos:\n\na) Por cada certidão ou declaração descritiva do teor até 2 folhas - (euro) 35;\n\nb) Por cada conjunto suplementar de certidão ou declaração descritiva do teor até 2 folhas - (euro) 25;\n\nc) Por certidão de cópia de documentos - (euro) 1 por folha;\n\nd) Por cada fotocópia simples - (euro) 0,50 por folha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 3/2019 - Diário da República n.º 2/2019, Série I de 2019-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/3-2019-117575682), em vigor a partir de 2019-02-02"
+  },
+  "117596096": {
+   "fragment_id": "117575725",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 17 de outubro de 2012."
+  },
+  "944414874": {
+   "fragment_id": "117575689",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 2.º — Requisitos\n\n1 - A abertura de novas farmácias depende do preenchimento cumulativo dos seguintes requisitos:\n\na) Capitação mínima de 3500 habitantes por farmácia aberta ao público no município após a instalação da farmácia;\n\nb) Distância mínima de 500 m entre farmácias, contados, em linha reta, dos limites exteriores das farmácias, devendo a medição aferir-se entre os dois pontos mais próximos das farmácias, considerados os seus limites exteriores, e não das respetivas entradas;\n\nc) Distância mínima de 100 m entre a farmácia e uma extensão de saúde, um centro de saúde ou um estabelecimento hospitalar, contados, em linha reta, dos respetivos limites exteriores do edifício, devendo a medição aferir-se entre os dois pontos mais próximos dos mencionados estabelecimentos, e não das respetivas entradas, salvo em freguesias com menos de 4000 habitantes.\n\n2 - Sem prejuízo dos demais requisitos estabelecidos na lei, a transferência de farmácia no município depende do preenchimento cumulativo das alíneas b) e c) do número anterior.\n\n3 - A distância prevista na alínea b) do número anterior aplica-se também à abertura ou transferência de farmácia em relação a farmácia situada em município limítrofe.\n\n4 - A determinação do número de habitantes é feita em função dos dados mais recentes disponibilizados pelo Instituto Nacional de Estatística, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414975": {
+   "fragment_id": "117575691",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento concursal",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento concursal\n\n1 - O INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), pode proceder à abertura de procedimento concursal para a instalação de uma nova farmácia, quando se verifiquem os requisitos previstos no artigo anterior e o interesse público na acessibilidade dos cidadãos à dispensa de medicamentos o justifique.\n\n2 - As autarquias locais têm legitimidade para requerer ao INFARMED, I. P., a abertura do procedimento concursal.\n\n3 - O requerimento referido no número anterior deve ser instruído com a demonstração do preenchimento dos requisitos previstos no artigo anterior e na segunda parte do n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414990": {
+   "fragment_id": "117575692",
+   "type": 11,
+   "heading": "Artigo 4.º — Aviso de abertura",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 4.º — Aviso de abertura\n\n1 - O aviso de abertura do procedimento concursal é publicado na 2.ª série do Diário da República e divulgado no sítio da Internet do INFARMED, I. P.\n\n2 - O aviso de abertura indica:\n\na) O município ou zona do município onde pode ser instalada a farmácia;\n\nb) A data limite para a apresentação das candidaturas;\n\nc) A forma de apresentação das candidaturas;\n\nd) Os requisitos de pré-seleção dos candidatos previstos no artigo 6.º;\n\ne) (Revogada.)\n\nf) Os termos de prestação da caução.\n\n3 - A data fixada para a apresentação das candidaturas não pode ser superior a 20 dias a contar da publicação no Diário da República do aviso de abertura do procedimento concursal.\n\n4 - (Revogada.)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414976": {
+   "fragment_id": "117575696",
+   "type": 11,
+   "heading": "Artigo 8.º — Seleção dos candidatos",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 8.º — Seleção dos candidatos\n\n1 - O júri, no prazo de 20 dias a contar da data limite para a apresentação das candidaturas, procede à pré-seleção dos candidatos.\n\n2 - São liminarmente excluídos os candidatos que:\n\na) Não cumpram os requisitos legais das proprietárias de farmácia;\n\nb) Apresentem a candidatura após a data limite referida no aviso de abertura do procedimento concursal;\n\nc) Não apresentem toda a documentação exigida no artigo anterior;\n\nd) Prestem falsas declarações;\n\ne) Não procedam ao pagamento da quantia referida na alínea a) do n.º 2 do artigo 28.º com a apresentação da candidatura.\n\n3 - Nos cinco dias úteis seguintes à conclusão do procedimento previsto no n.º 1, os candidatos que sejam objeto de proposta de exclusão do júri são notificados para a realização da audiência dos interessados nos termos e para os efeitos do Código do Procedimento Administrativo.\n\n4 - Após realização do procedimento de audiência dos interessados o júri procede à notificação dos candidatos excluídos e procede à elaboração da lista dos candidatos pré-selecionados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414977": {
+   "fragment_id": "117575701",
+   "type": 11,
+   "heading": "Artigo 13.º — Documentos",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 13.º — Documentos\n\n1 - O candidato selecionado dispõe do prazo de 90 dias a contar da respetiva notificação para apresentar ao INFARMED, I. P., os seguintes documentos:\n\na) Planta de localização da farmácia, à escala de 1:2000, incluindo o nome da rua e o número de polícia, de lote ou de indicação do prédio com projeto de construção licenciado, ou dele dispensado, que represente a área envolvente da farmácia numa distância de 500 m contada dos limites exteriores da farmácia;\n\nb) Certidão camarária relativa ao preenchimento dos requisitos respeitantes à distância previstos no n.º 1 do artigo 2.º;\n\nc) Identificação do diretor técnico e declaração da Ordem dos Farmacêuticos da respetiva inscrição, bem como certidão do registo criminal;\n\nd) Planta e memória descritiva da farmácia, incluindo a descrição das instalações, das divisões e das respetivas áreas, conforme regulamento do INFARMED, I. P.;\n\ne) Pedido de aprovação da designação da farmácia, com indicação sucessiva e preferencial de três designações.\n\n2 - Em simultâneo com a apresentação dos documentos, o candidato deve proceder ao pagamento da quantia indicada na alínea d) do n.º 2 do artigo 28.º, sob pena de se considerarem os documentos como não apresentados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414978": {
+   "fragment_id": "117575707",
+   "type": 11,
+   "heading": "Artigo 19.º — Vistoria e alvará",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 19.º — Vistoria e alvará\n\n1 - Terminada a instalação da farmácia, o titular do direito de instalação requer ao INFARMED, I. P., a realização da vistoria.\n\n2 - Em simultâneo com o requerimento referido no número anterior, o titular do direito de instalação deve proceder ao pagamento da quantia indicada na alínea c) do n.º 2 do artigo 28.º, sob pena de se considerar o requerimento como não apresentado.\n\n3 - O INFARMED, I. P., dispõe do prazo de 30 dias para realizar a vistoria requerida.\n\n4 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, no prazo de 10 dias a contar da realização da vistoria, procede à emissão do alvará da farmácia.\n\n5 - (Revogado.)\n\n6 - Se o INFARMED, I. P., considerar que a farmácia não cumpre as normas legais e regulamentares, o prazo para a instalação reinicia-se, dispondo o titular do direito de instalação da diferença entre o prazo total e aquele decorrido até ao primeiro pedido de vistoria.\n\n7 - A farmácia deve abrir ao público no prazo de 20 dias a contar da notificação do INFARMED, I. P., a informar que foi emitido o alvará.\n\n8 - Decorrido o prazo referido no número anterior sem que a farmácia abra ao público, caduca o direito de instalação e o INFARMED, I. P., procede à abertura de novo procedimento concursal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414979": {
+   "fragment_id": "117575709",
+   "type": 11,
+   "heading": "Artigo 20.º — Pedido de transferência",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 20.º — Pedido de transferência\n\n1 - O proprietário de farmácia que pretenda transferi-la dentro do mesmo município deve apresentar um pedido ao INFARMED, I. P., instruído com os seguintes documentos:\n\na) Requerimento com a identificação da farmácia a transferir e do proprietário da mesma, assinado pelo proprietário em nome individual, no caso de se tratar de uma pessoa singular, ou pela pessoa designada pela sociedade, com poderes para o ato, no caso de se tratar de uma sociedade comercial;\n\nb) Bilhete de identidade ou cartão do cidadão, no caso de se tratar de uma pessoa singular, ou certidão do registo comercial, no caso de se tratar de uma sociedade comercial;\n\nc) Planta de localização do edifício ou fração para onde se pretende a transferência, à escala de 1:2000, incluindo o nome da rua e o número de polícia, de lote, ou de indicação do prédio com projeto de construção licenciado, ou dele dispensado, que represente a área envolvente da farmácia numa distância de 500 m contada dos limites exteriores da farmácia;\n\nd) Certidão camarária relativa ao preenchimento dos requisitos respeitantes à distância previstos nas alíneas b) e c) do n.º 1 do artigo 2.º, no que se refere ao local proposto;\n\ne) Certidão camarária relativa ao preenchimento do requisito previsto na alínea a) do n.º 2 do artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual, no que se refere ao local de origem;\n\nf) Certidão camarária relativa ao preenchimento do requisito respeitante à distância previsto no n.º 4 do artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual, quando a localização de destino se insira num raio de 750 m da localização atual da farmácia;\n\ng) (Revogada.)\n\nh) Planta e memória descritiva do edifício ou fração para onde se pretende a transferência, incluindo a descrição das instalações das divisões e das respetivas áreas, conforme regulamento do INFARMED, I. P.;\n\ni) Parecer favorável da Câmara Municipal territorialmente competente, previsto no n.º 2 da alínea c) do artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual.\n\n2 - No caso de transferência para município limítrofe, o pedido apresentado ao INFARMED, I. P., é instruído com os documentos referidos nas alíneas a) a d) e h) do número anterior, bem como certidão camarária relativa ao preenchimento do requisito previsto na alínea a) do n.º 1 do artigo 26.º-A de Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual, no que se refere ao local de origem.\n\n3 - Em simultâneo com a apresentação dos documentos, o proprietário da farmácia deve proceder ao pagamento da quantia indicada na alínea b) do n.º 2 do artigo 28.º, sob pena de se considerarem os documentos como não apresentados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414980": {
+   "fragment_id": "117575710",
+   "type": 11,
+   "heading": "Artigo 21.º — Decisão de aptidão",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 21.º — Decisão de aptidão\n\n1 - O INFARMED, I. P., analisa os documentos referidos no artigo anterior, decide no prazo de 30 dias a contar da respetiva apresentação, sobre a aptidão ou inaptidão da proposta de nova localização da farmácia, de acordo com os requisitos e condições previstos na lei, e notifica, em 10 dias, o proprietário da farmácia.\n\n2 - O INFARMED, I. P., na mesma data da notificação, divulga no seu sítio da Internet a decisão sobre o pedido de transferência da farmácia e de aptidão ou inaptidão da proposta referida no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414981": {
+   "fragment_id": "117575711",
+   "type": 11,
+   "heading": "Artigo 22.º — Pedidos conflituantes",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 22.º — Pedidos conflituantes\n\n1 - Os pedidos são conflituantes quando reúnam, cumulativamente, os seguintes requisitos:\n\na) Sejam apresentados no mesmo dia;\n\nb) Sejam objeto de decisão de aptidão;\n\nc) As novas localizações das farmácias distem menos de 500 m entre si.\n\n2 - De entre os pedidos conflituantes, o INFARMED, I. P., seleciona um, através de sorteio.\n\n3 - O INFARMED, I. P., notifica os proprietários das farmácias que apresentem pedidos conflituantes da data, da hora e do local da realização do sorteio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414982": {
+   "fragment_id": "117575712",
+   "type": 11,
+   "heading": "Artigo 23.º — Vistoria e averbamento",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05",
+    "Retificado pelo/a [Declaração de Retificação n.º 79/2012 - Diário da República n.º 249/2012, Série I de 2012-12-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/79-2012-189765), produz efeitos a partir de 2012-11-04"
+   ],
+   "markdown": "###### Artigo 23.º — Vistoria e averbamento\n\n1 - O proprietário da farmácia deve requerer ao INFARMED, I. P., a realização de uma vistoria às novas instalações, no prazo de seis meses a contar da decisão de aptidão referida no artigo 21.º ou da seleção referida no artigo anterior.\n\n2 - O INFARMED, I. P., pode prorrogar o prazo referido no número anterior por período não superior a 120 dias, mediante requerimento, devidamente fundamentado, do concorrente selecionado.\n\n3 - Em simultâneo com o requerimento referido no n.º 1, o proprietário da farmácia deve proceder ao pagamento da quantia indicada na alínea c) do n.º 2 do artigo 28.º, sob pena de se considerar o requerimento como não apresentado.\n\n4 - O INFARMED, I. P., dispõe do prazo de 30 dias para realizar a vistoria requerida.\n\n5 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, procede à emissão do respetivo alvará.\n\n6 - (Revogado.)\n\n7 - A farmácia deve abrir ao público, nas novas instalações, no prazo de 20 dias a contar da notificação do INFARMED, I. P., a informar que foi emitido o alvará com o averbamento das novas instalações.\n\n8 - Decorridos os prazos previstos nos n.os 1 e 2 do presente artigo sem que seja solicitada a vistoria às novas instalações, caduca a autorização concedida para a transferência de localização da farmácia.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05\n\n> Retificado pelo/a [Declaração de Retificação n.º 79/2012 - Diário da República n.º 249/2012, Série I de 2012-12-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/79-2012-189765), produz efeitos a partir de 2012-11-04"
+  },
+  "944414983": {
+   "fragment_id": "117575714",
+   "type": 11,
+   "heading": "Artigo 25.º — Impossibilidade de transferência e de instalação",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 25.º — Impossibilidade de transferência e de instalação\n\nSão indeferidos por inaptidão do local proposto para a abertura ao público, os pedidos de transferência e instalação de novas farmácias que, em relação à nova localização da farmácia que se pretende transferir, conduzam à violação das regras aplicáveis à transferência de farmácias, por existência de pedido com data de entrada anterior no INFARMED, I. P., e cuja localização proposta dista menos de 500 m entre si.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414984": {
+   "fragment_id": "117575719",
+   "type": 11,
+   "heading": "Artigo 29.º — Formulários",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 29.º — Formulários\n\nO INFARMED, I. P., disponibiliza, no seu sítio da Internet, os seguintes formulários:\n\na) Pedido das autarquias locais para a abertura do procedimento concursal, referido no n.º 2 do artigo 3.º;\n\nb) Apresentação da candidatura referida no artigo 7.º;\n\nc) Prestação da caução referida no artigo 12.º;\n\nd) Apresentação dos documentos referidos no artigo 13.º e no n.º 1 do artigo 20.º;\n\ne) Requerimento para a realização da vistoria referido no n.º 1 do artigo 19.º e no n.º 1 do artigo 23.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414985": {
+   "fragment_id": "117575720",
+   "type": 11,
+   "heading": "Artigo 30.º — Comunicação eletrónica",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 30.º — Comunicação eletrónica\n\nA apresentação de candidaturas, a apresentação dos documentos, o pedido de aprovação da designação, o pedido de vistoria, o pedido de transferência e os pagamentos no INFARMED, I. P., podem ser feitos através do sítio da Internet do INFARMED, I. P., através de um campo específico para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414986": {
+   "fragment_id": "117575721",
+   "type": 11,
+   "heading": "Artigo 31.º — Pedido de transferência para concelhos limítrofes",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 31.º — Pedido de transferência para concelhos limítrofes\n\nA tramitação do pedido de transferência previsto no artigo 26.º-A do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual, obedece ao disposto nos artigos 20.º e seguintes, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  },
+  "944414991": {
+   "fragment_id": "117575722",
+   "type": 11,
+   "heading": "Artigo 32.º — Período de transferência",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 32.º — Período de transferência\n\n1 - O INFARMED, I. P., não pode abrir concurso para a instalação de nova farmácia na pendência de procedimento instaurado nos termos do artigo anterior.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 375/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/375-2025-944098802), em vigor a partir de 2025-11-05"
+  }
+ }
+}

@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: pt:dre:568352:por
+title: Decreto-Lei n.º 309/81
+short_title: null
+summary: Regulamenta as cooperativas de produção operária, abreviadamente designadas «cooperativas de produção»
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 309/81
+official_date: null
+publication_date: '1981-11-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 264/1981, Série I de 1981-11-16
+  number: '264'
+  series: I
+  supplement: null
+  pages: 3019 - 3021
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26400/30193021.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '568352'
+  dre_path: /dr/detalhe/decreto-lei/309-1981-568352
+  internal: pt:dre:568352:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1981-568352
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1981-568352
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-11-16T00:00:00Z'
+integrity:
+  source_sha256: 3f34446ca4fe4d7ed8526a238449d97183ded91af4460649ad79919ff7574378
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-309-568352.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 309/81
+
+de 16 de Novembro
+
+Previsto na alínea f) do artigo 4.º do Código Cooperativo, o ramo das cooperativas de produção operária é aquele que percentualmente mais se desenvolveu após 1974, pois de 10 cooperativas conhecidas nessa data passou-se para as 281 em 1 de Janeiro de 1981.
+
+Os resultados do inquérito nacional às cooperativas que o Instituto António Sérgio do Sector Cooperativo realizou permitem afirmar que o objectivo principal que presidiu à criação das cooperativas de produção operária foi a manutenção de postos de trabalho, se bem que muitas delas tenham já partido para a criação de novos empregos.
+
+As cooperativas de produção operária abrangem a indústria extractiva e a transformadora, sendo especialmente significativa a sua representação nos subsectores dos têxteis, vestuário e couro, metalurgia e metalomecânica e artes gráficas e papel, abrangendo, de acordo com uma estimativa resultante do inquérito nacional às cooperativas, cerca de 12000 postos de trabalho, dos quais 70% são sócios trabalhadores. Há que, por isso, fazer um esforço no sentido de elevar essa percentagem para os 75%, já que se pretende que pelo menos três quartos dos trabalhadores que directa e permanentemente exerçam actividade profissional remunerada sejam membros da cooperativa (v. g., artigo 7.º), ideia reforçada pelo facto de a lei fiscal só isentar de contribuição industrial as cooperativas de produção operária que cumpram esse requisito (v. g., artigo 2.º, n.º 2, do [Decreto-Lei n.º 456/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1980-462208), de 9 de Outubro).
+
+As cooperativas de produção operária empregam 60% de homens e 40% de mulheres, se bem que no subsector dos têxteis, vestuário e couro estas representem mais de 80% da força de trabalho. O valor da sua produção ou serviços prestados no ano de 1979 ultrapassou os 2 milhões de contos.
+
+A legislação que agora se aprova para este ramo do sector cooperativo vem completar o edifício jurídico que começou com a publicação do Código Cooperativo.
+
+Atento às especificidades e à permanente evolução, à mudança, tão característica do ramo, o legislador preferiu não o espartilhar numa profusão de preceitos jurídicos.
+
+Considerando a natureza específica do ramo das cooperativas de produção operária, previsto na alínea f) do n.º 1 do artigo 4.º do Código Cooperativo;
+
+Considerando a necessidade de criar a legislação específica que regulamente o ramo:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Âmbito)
+
+As cooperativas de produção operária, abreviadamente designadas «cooperativas de produção», e suas organizações de grau superior regem-se pelas disposições do presente diploma e, nas suas omissões, pelas do Código Cooperativo.
+
+###### ARTIGO 2.º — (Noção)
+
+1 - São cooperativas de produção as que tenham por objecto principal a extracção, bem como a produção e a transformação, de bens no sector industrial.
+
+2 - A utilização da forma cooperativa não isenta da obrigatoriedade da conformidade do exercício da sua actividade com a lei, da obtenção de autorizações e licenças e de outras formalidades exigíveis nos termos legais, devendo as entidades de quem dependem as referidas autorizações e licenças ter em conta a especial natureza e função social das cooperativas.
+
+###### ARTIGO 3.º — (Organizações de grau superior)
+
+As cooperativas que se caracterizem por desenvolver actividades da mesma zona específica integradas neste ramo do sector cooperativo poderão constituir uniões e federações nacionais, nos termos previstos no Código Cooperativo.
+
+###### ARTIGO 4.º — (Membros individuais)
+
+1 - Poderão ser membros de uma cooperativa de produção de 1.º grau os menores de idade igual ou superior a 14 anos.
+
+2 - O suprimento da incapacidade dos menores referidos no número anterior efectua-se nos termos do artigo 124.º do Código Civil.
+
+###### ARTIGO 5.º — (Entradas mínimas de capital)
+
+As entradas mínimas de capital numa cooperativa de produção não poderão ser inferiores ao equivalente a três títulos de capital.
+
+###### ARTIGO 6.º — (Operações com terceiros)
+
+Nas cooperativas de produção só são considerados terceiros os produtores não admitidos como membros.
+
+###### ARTIGO 7.º — (Contribuição de capital e de trabalho)
+
+1 - A aquisição e a manutenção da qualidade de cooperador dependem obrigatoriamente da sua contribuição para a cooperativa com capital e trabalho, salvo, quanto a este, o caso dos membros que, posteriormente à admissão, se incapacitem para o trabalho por razões de acidente, de doença ou de idade.
+
+2 - A contribuição de capital será prestada nos termos dos artigos 23.º e seguintes do Código Cooperativo, por ela se definindo o limite da responsabilidade dos cooperadores perante a cooperativa e terceiros.
+
+3 - A contribuição de trabalho consiste na prestação, segundo regras definidas pela assembleia geral ou pela direcção, da actividade profissional dos cooperadores ao serviço da cooperativa.
+
+4 - Nenhum membro individual ou colectivo poderá, numa cooperativa de produção de 1.º grau, ter capital superior a 10% do total do capital social.
+
+###### ARTIGO 8.º — (Admissão de cooperadores)
+
+1 - A admissão de cooperadores numa cooperativa de produção não pode ser recusada senão com fundamento na patente inaptidão do interessado para o desenvolvimento da sua actividade profissional ou na desnecessidade de momento dessa actividade para o prosseguimento dos fins da cooperativa.
+
+2 - A admissão não poderá, em caso algum, ser recusada, com qualquer dos fundamentos enunciados no número anterior, às pessoas que, em regime de contrato de trabalho, desenvolvam a sua actividade há mais de dois anos ao serviço da cooperativa.
+
+3 - Nas cooperativas de produção serão admitidos obrigatoriamente como membros pelo menos três quartos dos trabalhadores que directa e permanentemente exerçam actividade profissional remunerada.
+
+###### ARTIGO 9.º — (Distribuição de excedentes)
+
+1 - A distribuição de excedentes anuais gerados pelos produtores membros é proporcional aos trabalhos de cada membro, segundo critérios definidos nos estatutos e ou regulamentos internos da cooperativa, deduzindo-se após a sua determinação os levantamentos dos membros recebidos por conta dos mesmos.
+
+2 - Os excedentes anuais gerados por produtores não membros (terceiros) são insusceptíveis de repartição, revertendo integralmente para reservas obrigatórias.
+
+3 - Os excedentes anuais líquidos gerados pelos produtores não membros são proporcionais ao valor da sua produção, como se de membros se tratasse, para efeitos do cálculo dos excedentes anuais.
+
+###### ARTIGO 10.º — (Subsídios)
+
+Os subsídios concedidos pelo Governo ou institutos públicos destinados à aquisição de imobilizações corpóreas são insusceptíveis de repartição entre membros, sendo lançados em conta de balanço, a incluir na situação líquida.
+
+###### ARTIGO 11.º — (Início de actividade)
+
+Para os efeitos previstos no n.º 1 do artigo 93.º do Código Cooperativo, é considerado início da actividade a apresentação às entidades competentes dos requerimentos de que as leis e regulamentos façam depender o exercício da actividade que a cooperativa visa prosseguir.
+
+###### ARTIGO 12.º — (Adaptação das entradas mínimas de capital)
+
+O prazo previsto no n.º 2 do artigo 23.º do Código Cooperativo é aplicável à actualização do capital por parte dos membros da cooperativa que já tivessem tal qualidade à data de escritura pública pela qual for efectuada a adaptação dos estatutos ao Código Cooperativo.
+
+Visto e aprovado em Conselho de Ministros de 15 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
+
+**Promulgado em 4 de Novembro de 1981.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

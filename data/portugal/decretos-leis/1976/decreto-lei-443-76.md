@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:427382:por
+title: Decreto-Lei n.º 443/76
+short_title: null
+summary: Atribui à Secretaria de Estado das Pescas competência para a fiscalização da exploração dos recursos algológicos
+  existentes no território nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura e Pescas - Secretaria de Estado das Pescas
+proposing_entity: null
+official_number: 443/76
+official_date: null
+publication_date: '1976-06-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/1976, Série I de 1976-06-04
+  number: '131'
+  series: I
+  supplement: null
+  pages: 1253 - 1255
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/06/13100/12531255.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '427382'
+  dre_path: /dr/detalhe/decreto-lei/443-1976-427382
+  internal: pt:dre:427382:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1976-427382
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1976-427382
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-10-20T00:00:00Z'
+integrity:
+  source_sha256: 0b42a8334905d76129b345b0e57452f6008463e23d63c5e5f326ca9eea39a4ee
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-443-427382.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:462420:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 443/76
+
+de 4 de Junho
+
+No domínio da exploração dos recursos vivos aquáticos das regiões litorais as actividades relacionadas com a apanha de algas ocupam um segmento de relativa importância da população activa em determinadas zonas do território nacional.
+
+Observa-se, ainda, que as características do trabalho e a actual motivação de certos sectores contribuem para que, neste ramo de actividade profissional, se procure, desde já, incentivar a criação de estruturas de tipo cooperativista e outras formas de organização colectiva de trabalho.
+
+Por outro lado, são visíveis as limitações da investigação neste domínio, rareando os estudos de prospecção sistemática da flora no leito submarino e os trabalhos que permitam, a prazo, estimativas da produção. O número extremamente reduzido de especialistas na matéria, bem como as naturais dificuldades de um tipo de exploração que obriga ao emprego de técnicas especiais (como as de mergulho com escafandro autónomo), são dois dos factores que têm cerceado uma pesquisa eficaz.
+
+Tais dificuldades podem, no entanto, ser torneadas, ainda que parcialmente, através da participação activa e consciente dos trabalhadores, no fundo os primeiros interessados num projecto que permita a racional exploração dos recursos sublitorais (em termos de plantas aquáticas, e não só), bem como os actos de fiscalização inerentes ao exercício da actividade. As estruturas cooperativas e outras afins, como formas superiores de organização colectiva dos trabalhadores, permitem, por outro lado, que se caminhe progressivamente no que se refere à eliminação das formas parasíticas de exploração do trabalho. Permitirão, ainda, se inseridas no esquema apropriado, a participação activa dos trabalhadores no contrôle, gestão e comercialização de produtos.
+
+Estes considerandos justificam, pois, que se deva imprimir a este sector da economia nacional uma orientação que permita o estabelecimento de uma estreita ligação entre os representantes dos trabalhadores e a Secretaria de Estado das Pescas, segundo uma forma que garanta as condições mínimas para a clara definição de linhas de acção nos domínios da técnica, contrôle, fiscalização e estatística, além de outras especificadas neste diploma.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º À Secretaria de Estado das Pescas competirá a fiscalização da exploração dos recursos algológicos existentes no território nacional em colaboração com os representantes dos trabalhadores da apanha submarina de algas (TASA).
+
+###### Art. 2.º - 1. À Secretaria de Estado das Pescas compete:
+
+a) Realizar as condições necessárias à racional exploração dos recursos algológicos industrializáveis e manter programas de contrôle do estado desses recursos;
+
+b) Assegurar a colheita, compilação e publicação de estatísticas de todas as espécies de plantas aquáticas industrializáveis apanhadas em águas nacionais.
+
+2. Para os efeitos da alínea b) do número anterior, as diversas empresas do sector ficam obrigadas a enviar à Secretaria de Estado das Pescas mapas mensais, dos quais constem os seguintes elementos:
+
+a) Quantidades e qualidades da matéria-prima destinada à indústria transformadora;
+
+b) Quantidades e qualidades dos produtos acabados;
+
+c) Quantidades exportadas, com indicação do respectivo preço.
+
+3. Estes dados referir-se-ão às actividades desenvolvidas até ao último dia de cada mês e deverão ser enviadas até ao dia 20 do mês seguinte àquele a que correspondem.
+
+4. Nas empresas deverá ser afixada, mensalmente, uma cópia do último mapa enviado à Secretaria de Estado das Pescas, em local bem visível para os trabalhadores da empresa, sendo enviada cópia à respectiva comissão de trabalhadores.
+
+5. Os exportadores são obrigados a enviar à Secretaria de Estado das Pescas, até ao dia 20 do mês seguinte, mapas mensais de exportação discriminando as quantidades e qualidades de algas industrializáveis exportadas durante o referido período de tempo, bem como os respectivos preços C. I. F. e F. O. B.
+
+6. Para o exercício da competência prevista no n.º 1, a Secretaria de Estado das Pescas ouvirá previamente os representantes dos TASA.
+
+###### Art. 3.º - 1. Os períodos de apanha das diferentes espécies de plantas aquáticas fixas serão estabelecidos em reunião conjunta dos serviços competentes da Secretaria de Estado das Pescas e dos representantes dos TASA, com fundamento nos estudos adequados e tendo em atenção a protecção dos recursos naturais.
+
+2. Os períodos de apanha serão tornados públicos, em cada ano, por meio de editais mandados afixar pela Direcção-Geral da Administração-Geral das Pescas, nas delegações da Secretaria de Estado das Pescas e noutros locais habituais.
+
+###### Art. 4.º As plantas aquáticas flutuantes e as naturalmene arrancadas do substrato, arrojadas à costa, poderão ser apanhadas durante todo o ano.
+
+###### Art. 5.º Sempre que as razões de conservação e protecção o imponham fica autorizada a Secretaria de Estado das Pescas, ouvidos os representantes dos TASA, a interditar a apanha de algas em determinadas zonas do litoral, mesmo durante o período legal da safra, ou ainda estabelecer quotas de produção a nível de zona, regional ou local.
+
+###### Art. 6.º O número de apanhadores de algas por zona de apanha passa a ser regulamentado anualmente por despacho do Secretário de Estado das Pescas, ouvidos os representantes dos TASA.
+
+###### Art. 7.º Os aparelhos e métodos utilizáveis na apanha de algas serão definidos a nível regional ou por zonas de apanha por portaria do Secretário de Estado das Pescas.
+
+###### Art. 8.º - 1. A concentração e armazenamento das algas, em terra, será feita a nível de zona, em instalações controladas pelas cooperativas ou outras organizações colectivas dos trabalhadores, ou, na ausência delas, pelo Concentrador de Zona de Apanha de Plantas Aquáticas Industrializáveis.
+
+2. Os direitos e obrigações do Concentrador de Zona e das organizações colectivas que desempenham a função deste, assim como a respectiva área de influência, serão definidos por portaria do Secretário de Estado das Pescas.
+
+3. Para os efeitos dos números anteriores entende-se por concentrador a entidade que, detendo o contrôle da produção, a concentra em armazém, distribuindo-a pela indústria transformadora interna ou destinando-a à exportação.
+
+###### Art. 9.º Os apanhadores de algas, quando organizados em cooperativas, deterão integralmente o produto da exploração, não interferindo a Secretaria de Estado das Pescas na sua negociação e distribuição à indústria ou a exportadores.
+
+###### Art. 10.º Quando não organizados em cooperativa ou outras formas de trabalho colecivo, os apanhadores de algas não poderão praticar um preço inferior ao das cooperativas, sob pena de suspensão da licença de exploração.
+
+###### Art. 11.º Os preços para as diferentes espécies de plantas aquáticas industrializáveis, em cada safra, serão fixados pela Secretaria de Estado do Comércio Alimentar, com base nos elementos fornecidos pela Secretaria de Estado das Pescas.
+
+###### Art. 12.º A classificação e contrôle de qualidade das algas industrializáveis, bem como do produto transformado resultantes da produção nacional ou de importações, é da competência da Secretaria de Estado das Pescas.
+
+###### Art. 13.º A Secretaria de Estado das Pescas deverá informar os serviços competentes do Ministério do Comércio Externo sobre a viabilidade da concessão de boletins de registo de exportação de plantas aquáticas não industrializáveis no nosso país e de boletins de registo de importação de plantas aquáticas em Portugal.
+
+###### Art. 14.º A expedição de plantas aquáticas para exportação será regulada por portaria do Secretário de Estado das Pescas e do Secretário de Estado do Comércio Externo.
+
+###### Art. 15.º Para o exercício tia sua actividade, os apanhadores de plantas aquáticas devem munir-se das licenças e documentos a seguir discriminados:
+
+a) Carta de mergulho passada pela entidade oficial competente;
+
+b) Documento comprovativo da sujeição ao exame médico especializado, para apuramento da sua aptidão física para o exercício desta profissão. Serão obrigatórios estes exames médicos pelo menos no início e final da safra anual;
+
+c) Licença anual para o exercício da actividade, a emitir pelos serviços competentes da Secretaria de Estado das Pescas.
+
+###### Art. 16.º - 1. Os apanhadores munidos de licença gozam de igualdade de direitos na apanha, salvo o disposto no artigo 6.º
+
+2. Todos os mergulhadores que possuam carta de mergulho podem exercer a actividade com embarcação própria ou por conta de outrem, salvo o disposto no artigo 6.º
+
+###### Art. 17.º O custo das licenças para a apanha de plantas aquáticas, assim como para a utilização das embarcações e outros meios auxiliares nesta actividade, consta de mapa anexo a este diploma.
+
+###### Art. 18.º - 1. As infracções às disposições do n.º 1 do artigo 16.º serão punidas, para além da apreensão das algas apanhadas, com multas de:
+
+a) Carta de mergulho - 5000$00 a 10000$00;
+
+b) Exames médicos (provas documentais) - 500$00 a 5000$00;
+
+c) Licença anual - 500$00 a 3000$00.
+
+2. A infracção ao disposto no artigo 6.º será punida com multa de 1000$00 a 10000$00 e com a apreensão das plantas apanhadas e da carta de mergulhador durante seis meses a três anos.
+
+3. Os industriais exportadores que sem autorização especial, a emitir pela Secretaria de Estado das Pescas, ouvidas as cooperativas e as comissões de trabalhadores da apanha submarina de algas, adquiram plantas aquáticas a concentradores não inscritos nesta Secretaria de Estado e que o façam fora dos preços estabelecidos ou ultrapassando a respectiva quota serão punidos com multa igual ao décuplo do valor da venda à indústria ou exportação do lote de algas em questão.
+
+###### Art. 19.º - 1. Ficam sujeitos ao pagamento de impostos ou taxas, a fixar por despacho do Secretário de Estado das Pescas, com a concordância do Secretário de Estado do Orçamento, os preços de venda referidos no artigo 10.º e o exercício da actividade a que se refere o n.º 1 do artigo 16.º, bem como os serviços prestados pela Secretaria de Estado das Pescas.
+
+2. As importâncias cobradas nos termos do número anterior, assim como as provenientes das licenças e multas referidas nos artigos 18.º e 19.º constituem receita do Estado, devendo proceder-se à sua entrega nos cofres do Tesouro, de conformidade com as disposições gerais aplicáveis.
+
+###### Art. 20.º As dúvidas surgidas na aplicação deste diploma serão resolvidos através de despacho do Secretário de Estado das Pescas.
+
+###### Art. 21.º Ficam revogados os Decretos-Leis n.os 45576 e 45577, de 28 de Fevereiro de 1964, e o [Decreto n.º 45578](https://diariodarepublica.pt/dr/detalhe/decreto/45578-1964-469869), da mesma data.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - António Poppe Lopes Cardoso - Joaquim Jorge de Pinho Campinos - Artur Eduardo Brochado dos Santos Silva.
+
+**Promulgado em 22 de Maio de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+Mapa anexo ao Decreto-Lei n.º 443/76
+
+Custo das licenças para apanha das plantas aquáticas, assim como para utilização de embarcações e outros meios auxiliares naquela actividade:
+
+a) Licença individual anual para a apanha de plantas marinhas ... 40$00
+
+b) Licença anual para utilização de jangadas na apanha de algas ... 100$00
+
+c) Licença anual para utilização de embarcações sem propulsão mecânica na apanha de algas ... 300$00
+
+d) Licença anual para utilização de embarcações de propulsão mecânica na apanha de algas ... 500$00
+
+**O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.**

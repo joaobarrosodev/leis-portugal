@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:177796:por
+title: Portaria n.º 177/2012
+short_title: null
+summary: Quarta alteração à Portaria n.º 187/2009, de 20 de fevereiro, que procede à repartição da quota de pescada branca
+  do Sul
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 177/2012
+official_date: null
+publication_date: '2012-05-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2012, Série I de 2012-05-31
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2860 - 2861
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10600/0286002861.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/177/2012/05/31/p/dre/pt/html
+  oj: null
+  dre: '177796'
+  dre_path: /dr/detalhe/portaria/177-2012-177796
+  internal: pt:dre:177796:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796
+  metadata_url: https://data.dre.pt/eli/port/177/2012/05/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2012-177796
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-05-21T00:00:00Z'
+integrity:
+  source_sha256: f414cdf38d5b281e3c4c26f875ea2f6b7df386da3b55bc90b09d185a22044736
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-177-177796.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pesca
+- Gestão dos Recursos
+- Recursos do Mar
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Quota de Pesca
+- Regulamento CE
+- Embarcação de Pesca
+relationships:
+- type: amended_by
+  target: pt:dre:261123:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32012R0044
+  label: null
+  source: http://data.europa.eu/eli/reg/2012/44/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/187/2009/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/187/2009/02/20/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 177/2012
+
+de 31 de maio
+
+A Portaria n.º 187/2009, de 20 de fevereiro, alterada e republicada pela Portaria n.º 246/2010, de 3 de maio, e alterada pela Portaria n.º 120/2011, de 29 de março, estabeleceu regras para a repartição das quotas de pescada pelas embarcações abrangidas pelas restrições de atividade incluídas no Plano de Recuperação da pescada branca do Sul e do lagostim e, também, as normas relativas ao controlo do esforço de pesca.
+
+Os ajustamentos introduzidos na regulamentação europeia consubstanciada no Regulamento (UE) n.º [44/2012](http://data.europa.eu/eli/reg/2012/44/oj?locale=pt), de 17 de janeiro, incluindo a atualização do período de referência e a reorganização dos grupos de embarcações abrangidas por restrições de atividade, determinam a revisão de algumas das disposições previstas nos diplomas anteriormente referidos.
+
+Para além disso, a implementação do diário de pesca eletrónico para as embarcações com comprimento fora a fora igual ou superior a 12 metros, justifica uma revisão da norma relativa à apresentação do manifesto de atividade atualmente previsto no n.º 5 do artigo 4.º da Portaria n.º 187/2009, de 20 de fevereiro, na sua atual redação.
+
+Assim, ao abrigo do disposto no n.º 1 e na alínea g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, na redação dada pelo Decreto-Lei n.º 383/98, de 27 de novembro, e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território no despacho n.º 12 412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011:
+
+Manda o Governo, pelo Secretário de Estado do Mar, o seguinte:
+
+###### Artigo 1.º — Alteração à Portaria n.º 187/2009, de 20 de fevereiro
+
+O artigo 1.º e o número 5 do artigo 4.º da Portaria n.º 187/2009, de 20 de fevereiro, republicada pela Portaria n.º 246/2010, de 3 de maio, e alterada pela Portaria n.º 120/2011, de 29 de março, passam a ter a seguinte redação:
+
+«Artigo 1.º
+
+Repartição da quota
+
+1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação da União Europeia é distribuída da seguinte forma:
+
+a) 71 % são repartidos, sob a forma de quotas individuais, pelas embarcações que estejam abrangidas por restrições de atividade no âmbito do Plano de Recuperação da pescada e do lagostim, nos termos da legislação europeia aplicável;
+
+b) 27 % destinam-se a ser capturados pelas restantes embarcações, mantendo os padrões históricos da atividade e limitados a 4,9 toneladas por embarcação, de acordo com a seguinte repartição por zona:
+
+i) 13 % para as embarcações registadas na zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;
+
+ii) 8 % para as embarcações registadas na zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;
+
+iii) 6 % para as embarcações registadas na zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António;
+
+c) A percentagem remanescente da quota nacional destina-se a acomodar eventuais reduções da mesma por sobrepesca transitada de anos anteriores e, na medida do possível, as quantidades a atribuir às embarcações referidas no n.º 6.
+
+2 - A repartição por embarcação a que se refere a alínea a) do número anterior tem por base as quotas atribuídas em 2011, majoradas numa quantidade fixa que resulta da repartição de 15 % da quota nacional por todas as embarcações com quota atribuída, arredondada à centena de quilograma e constará de lista a aprovar pelo Diretor-Geral dos Recursos Naturais, Segurança e Serviços Marítimos, a publicitar no sítio www.dgrm.min-agricultura.pt.
+
+3 - ...
+
+4 - ...
+
+5 - As quotas das embarcações que já tenham estado incluídas no Plano da Recuperação da pescada e lagostim noutros anos, que não em 2011, são calculadas com base no histórico 2004-2006, com quota ajustada a 2011 e majorada nos termos do n.º 2.
+
+6 - As embarcações abrangidas por limitações de esforço de pesca em 2011, ao abrigo da Portaria n.º 187/2009, de 20 de fevereiro, mas que, em 2012, não estejam abrangidas pela alínea a) do n.º 1 e apresentem registo de descargas, em 2011, superiores a 5 toneladas, podem continuar a dispor de quota individual, calculada nos termos do n.º 2, ficando, nesse caso, abrangidas pelo regime de controlo do esforço de pesca previsto no artigo 4.º da presente portaria.
+
+7 - Verificando-se a situação prevista no número anterior, a percentagem estabelecida nas alíneas a) e c) do n.º 1 é ajustada em conformidade com a saída de embarcações incluídas na alínea b).
+
+8 - As embarcações incluídas na alínea b) do n.º 1 que ultrapassem as 5 toneladas durante o período de gestão passam a ter a atividade restringida nos termos da regulamentação europeia, sendo esta proporcional ao período em que integrem o plano de recuperação e sem quota atribuída.
+
+9 - Eventuais aumentos da quota nacional resultantes da não utilização integral da quota do ano anterior são repartidos numa quantidade fixa por todas as embarcações com quota atribuída, constantes dos n.os 1 e 6 do presente artigo.
+
+###### Artigo 4.º — Esforço de pesca
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Mensalmente, até ao dia 5 de cada mês, é remetido à DGRM, através dos meios de comunicação referidos no n.º 1, o relatório da atividade mensal exercida no mês anterior, de acordo com modelo disponibilizado pela DGRM, podendo ser excluídas desta obrigatoriedade, por despacho do Diretor-Geral, publicitado na sua página na Internet (www.dgrm.min-agricultura.pt), as embarcações relativamente às quais se verifique que é possível obter as informações necessárias ao controlo do esforço de pesca através das comunicações de atividade via diário de pesca eletrónico.
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...»
+
+###### Artigo 2.º — Referências
+
+Todas as referências à «Direção-Geral das Pescas e Aquicultura» e à «DGPA», constantes da Portaria n.º 187/2009, de 20 de fevereiro, republicada pela Portaria n.º 246/2010, de 3 de maio, e alterada pela Portaria n.º 120/2011, de 29 de março, consideram-se efetuadas à «Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos» e à «DGRM», respetivamente.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 28 de maio de 2012.**

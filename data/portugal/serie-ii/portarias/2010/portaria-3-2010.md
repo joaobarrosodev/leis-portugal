@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:1998031:por
+title: Portaria n.º 3/2010
+short_title: null
+summary: Ingresso no quadro de cinco militares da especialidade PILAV
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Força Aérea - Gabinete do Chefe do Estado-Maior da Força Aérea
+proposing_entity: null
+official_number: 3/2010
+official_date: null
+publication_date: '2010-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2010, Série II de 2010-01-06
+  number: '3'
+  series: II
+  supplement: null
+  pages: 342 - 342
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/01/003000000/0034200342.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1998031'
+  dre_path: /dr/detalhe/portaria/3-2010-1998031
+  internal: pt:dre:1998031:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-2010-1998031
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-2010-1998031
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-01-06T00:00:00Z'
+integrity:
+  source_sha256: c0ab1b1cc4d2b0914a174f827312768bf27f13d7140e814c2c148a6f5fbda8b7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-3-1998031.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 3/2010
+
+Manda o Chefe do Estado-Maior da Força Aérea que os militares em seguida mencionados, que concluíram o Curso de Ciências Militares Aeronáuticas da especialidade de Piloto Aviador em 10DEZ09, tenham o posto e ingressem no quadro que lhes vai indicado, desde 11DEZ09, nos termos do n.º 1 e 2 do artigo 213.º e do artigo 248.º do EMFAR aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25JUN, com as alterações introduzidas pelo [Decreto-Lei n.º 197-A/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-2003-426744), de 30 AGO.
+
+Quadro de Oficiais PILAV
+
+ALF, os:
+
+ASPOFG PILAV 132134 L, Filipe Miguel Vidigal de Oliveira, AFA
+
+ASPOFG PILAV 132915 E, Francisco De Morais Pereira Ferreira, AFA
+
+ASPOFG PILAV 132928 G, Alexandre Augusto de Campos Sampaio e Silva, AFA
+
+ASPOFG PILAV 132939 B, David André Garcia de Quina, AFA
+
+ASPOFG PILAV 132949 K, Joana Candeias da Silva Marques, AFA
+
+Contam a antiguidade e os efeitos administrativos desde 01OUT09.
+
+Preenchem vagas em aberto no respectivo quadro.
+
+São integrados no escalão 1 da estrutura remuneratória do novo posto, nos termos do n.º 1 do artigo 12.º do D. L. n.º 328/99, de 18AGO.
+
+Ministério da Defesa Nacional, 15 de Dezembro de 2009. - O Chefe do Estado-Maior, Luís Evangelista Esteves de Araújo, general.

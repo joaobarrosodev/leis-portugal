@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:179278:por
+title: Decreto-Lei n.º 167/2012
+short_title: null
+summary: Cria o Plano de Regularização de Créditos por Dívidas de Contribuições à Caixa de Previdência dos Advogados e Solicitadores,
+  estabelecendo um regime excecional de pagamento a esta instituição das contribuições em atraso e dos respetivos juros de
+  mora
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 167/2012
+official_date: null
+publication_date: '2012-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2012, Série I de 2012-08-01
+  number: '148'
+  series: I
+  supplement: null
+  pages: 3966 - 3968
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/14800/0396603968.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/167/2012/08/01/p/dre/pt/html
+  oj: null
+  dre: '179278'
+  dre_path: /dr/detalhe/decreto-lei/167-2012-179278
+  internal: pt:dre:179278:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2012-179278
+  metadata_url: https://data.dre.pt/eli/dec-lei/167/2012/08/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2012-179278
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-08-01T00:00:00Z'
+integrity:
+  source_sha256: 5ebd03ac35dbf4cc7401c750b27ba09ac9848fdc97044f8c0cf7249aee4ca77f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-167-179278.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Advogado
+- Caixa de Previdência dos Advogados e Solicitadores
+- Pagamento
+- Pagamento em Atraso
+- Pagamento a Prestações
+- Pagamento de Contribuições
+- Prazo
+- Solicitador
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/884/1994/10/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/884/1994/10/01/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 167/2012
+
+de 1 de agosto
+
+A Caixa de Previdência dos Advogados e Solicitadores (CPAS) é uma instituição de previdência reconhecida pela [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de junho de 1962, que se rege pelo Regulamento aprovado pela [Portaria n.º 487/83](https://diariodarepublica.pt/dr/detalhe/portaria/487-1983-311464), de 27 de abril, alterado pelas Portarias n.os [623/88](https://diariodarepublica.pt/dr/detalhe/portaria/623-1988-370258), de 8 de setembro, e [884/94](https://diariodarepublica.pt/dr/detalhe/portaria/884-1994-600136), de 1 de outubro, e pelo despacho n.º 22 665/2007, de 7 de setembro, dos Ministros da Justiça e do Trabalho e da Solidariedade Social, publicado no Diário da República, 2.ª série, n.º 188, de 28 de setembro de 2007.
+
+A CPAS tem como fim essencial conceder pensões de reforma por velhice aos beneficiários e subsídios por morte às respetivas famílias, podendo ainda conceder subsídios por invalidez aos beneficiários, subsídios de sobrevivência aos respetivos familiares, subsídios de doença aos beneficiários e antigos advogados e solicitadores, de harmonia com as disponibilidades anuais do fundo de assistência.
+
+Os beneficiários da CPAS estão obrigados a proceder ao pagamento das suas contribuições, nos termos do respetivo Regulamento. Não obstante ao longo de vários anos tem-se assistido a inúmeras situações de incumprimento que, a manterem-se, poderão contribuir para o desequilíbrio financeiro da instituição.
+
+A regularização das dívidas de contribuições à CPAS constitui uma preocupação séria.
+
+Deste modo, importa proceder a uma intervenção extraordinária e rigorosa que, simultaneamente, permita recuperar parte importante dos créditos da CPAS e contribuir para um reenquadramento dos beneficiários devedores no seu sistema privativo de segurança social. Com a finalidade de se atingir os objetivos enunciados são criadas novas condições de pagamento para os beneficiários que foram acumulando dívidas que são, em muitos casos, fruto de uma situação financeira desfavorável, dificilmente reversível.
+
+Pretende-se, neste contexto, definir um quadro global para a regularização das dívidas à CPAS, mas sem diminuir o rigor ou a exigência na fiscalização do cumprimento das obrigações contributivas vencidas e vincendas.
+
+Assim, é criado um regime excecional de pagamento das contribuições em atraso e dos respetivos juros de mora, que possibilita ao beneficiário da CPAS proceder ao pagamento total da dívida, em uma só vez, ou em prestações mensais, iguais e sucessivas, até um máximo de setenta e duas, com redução de juros de mora, vencidos e vincendos.
+
+Consequentemente, os beneficiários aderentes estabelecem com a CPAS um compromisso de cumprimento futuro das suas obrigações contributivas, como condição de acesso ao regime extraordinário aprovado pelo presente diploma.
+
+O regime excecional de recuperação da dívida acumulada ora instituído contribuirá certamente para o cumprimento atempado das obrigações contributivas, possibilitando à CPAS recuperar grande parte dos seus créditos.
+
+Foram ouvidos o Conselho Superior dos Tribunais Administrativos e Fiscais, a Ordem dos Advogados, a Associação Sindical dos Juízes Portugueses e a Câmara dos Solicitadores.
+
+Foi promovida a audição do Conselho Superior da Magistratura, do Conselho Superior do Ministério Público, do Sindicato dos Magistrados do Ministério Público e do Sindicato dos Funcionários Judiciais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente diploma cria o Plano de Regularização de Créditos por Dívidas de Contribuições à Caixa de Previdência dos Advogados e Solicitadores (CPAS), estabelecendo um regime excecional de pagamento a esta instituição das contribuições em atraso e dos respetivos juros de mora.
+
+2 - Podem beneficiar do regime excecional estabelecido pelo presente diploma os beneficiários da CPAS que sejam devedores das contribuições previstas no capítulo iv do Regulamento da Caixa de Previdência dos Advogados e Solicitadores (RCPAS), aprovado pela [Portaria n.º 487/83](https://diariodarepublica.pt/dr/detalhe/portaria/487-1983-311464), de 27 de abril, alterada pelas Portarias n.os [623/88](https://diariodarepublica.pt/dr/detalhe/portaria/623-1988-370258), de 8 de setembro, e [884/94](https://diariodarepublica.pt/dr/detalhe/portaria/884-1994-600136), de 1 de outubro, e pelo despacho n.º 22 665/2007, de 7 de setembro.
+
+###### Artigo 2.º — Modalidades de pagamento e requerimento
+
+1 - Para beneficiarem do regime excecional estabelecido pelo presente diploma, os beneficiários da CPAS, que tenham contribuições em atraso a esta instituição, devem requerer, até ao último dia útil do quarto mês posterior ao da entrada em vigor do presente diploma:
+
+a) O pagamento, de uma só vez e até ao último dia útil do mês subsequente ao da notificação do deferimento do seu pedido, da totalidade da sua dívida de contribuições à CPAS e respetivos juros de mora à taxa anual de 1,2 %; ou
+
+b) O pagamento, em prestações mensais, iguais e sucessivas, da totalidade da sua dívida de contribuições à CPAS e respetivos juros de mora à taxa anual de 2,4 %.
+
+2 - O requerimento previsto no número anterior é apresentado de acordo com o modelo constante no Anexo ao presente diploma e deve ser enviado para o endereço de correio eletrónico plano@cpas.org.pt ou por correio registado com aviso de receção.
+
+3 - Recebido o requerimento, a Direção da CPAS profere decisão, no prazo máximo de 10 dias, a qual deve ser de imediato enviada para o correio eletrónico ou para a morada previamente indicados pelo requerente, acompanhada, se for caso disso, do Plano de Regularização de Créditos por Dívidas de Contribuições à CPAS, contendo o número e o valor das prestações aprovadas.
+
+4 - Deferido o requerimento, o pagamento à CPAS do montante devido inicia-se no mês seguinte ao da notificação ao requerente da decisão de deferimento e do Plano de Regularização.
+
+###### Artigo 3.º — Regras do pagamento em prestações
+
+1 - O número de prestações é livremente escolhido pelo beneficiário, até ao limite máximo de 72, não podendo o montante de cada uma das prestações ser inferior a (euro) 50, caso em que o número de prestações será reduzido automaticamente de modo a ser cumprido o limite imposto.
+
+2 - O pagamento de cada prestação é efetuado até ao último dia do mês a que respeite.
+
+3 - Durante o período de pagamento em prestações, interrompe-se o prazo de prescrição das contribuições e dos respetivos juros de mora.
+
+4 - Os juros vencidos e os juros que se vencerem durante o período de pagamento em prestações, relativamente à parte ainda não paga das contribuições, são calculados à taxa de juro anual de 2,4 %.
+
+5 - As prestações efetuadas são afetas, em primeiro lugar, ao pagamento da parte da dívida à CPAS respeitante a juros de mora vencidos e, posteriormente, ao pagamento da parte da dívida à CPAS relativa às contribuições.
+
+6 - Estando em causa dívidas à CPAS da mesma natureza, a afetação das prestações ao pagamento das dívidas efetua-se segundo a regra da mais antiga para a mais recente.
+
+###### Artigo 4.º — Incumprimento
+
+1 - Na falta de pagamento pontual ou integral de qualquer das prestações previstas no Plano de Regularização ou das contribuições vincendas, os montantes em dívida tornam-se imediatamente exigíveis nos termos previstos no RCPAS.
+
+2 - No caso previsto no número anterior, os montantes exigíveis são determinados de acordo com o valor, os prazos de pagamento e os juros de mora a que o beneficiário estava obrigado nos termos previstos no RCPAS, deduzindo-se as quantias entretanto pagas, a título de pagamento por conta segundo as regras dos n.os 5 e 6 do artigo anterior.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz - Luís Pedro Russo da Mota Soares.
+
+**Promulgado em 24 de julho de 2012.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 26 de julho de 2012.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+## ANEXO — Modelo de requerimento
+
+(a que se refere o n.º 2 do artigo 2.º)
+
+À Direção da Caixa de Previdência dos Advogados e Solicitadores.
+
+... (nome completo), que também usa o nome profissional ..., beneficiário da CPAS n.º ..., NIF ..., com domicílio profissional em ..., vem, nos termos e ao abrigo do disposto no Plano de Regularização de Créditos por Dívidas de Contribuições à Caixa de Previdência dos Advogados e Solicitadores, requerer: (assinale com um «X» a opção escolhida)
+
+[ ] O pagamento, até ao último dia útil do mês subsequente ao da notificação do deferimento do presente requerimento, da totalidade da sua dívida de contribuições à CPAS e respetivos juros de mora à taxa anual de 1,2 %;
+
+[ ] O pagamento da totalidade da sua dívida de contribuições à CPAS e respetivos juros de mora à taxa anual de 2,4 %, em ... (número de prestações escolhidas até ao limite de setenta e duas) prestações mensais, iguais e sucessivas, no montante unitário que vier a ser informado pela CPAS, e que se compromete a pagar até ao último dia do mês a que cada uma disser respeito.
+
+Declara aceitar a interrupção do prazo de prescrição das contribuições vencidas e respetivos juros de mora, durante o período de pagamento em prestações e compromete-se, ainda, a cumprir tempestivamente o pagamento das contribuições à CPAS que se venham a vencer após a data do presente requerimento.
+
+(local), (data)
+
+(assinatura do requerente)

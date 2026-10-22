@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:934159188:por
+title: Resolução do Conselho de Ministros n.º 130/2025
+short_title: null
+summary: Designa, a vogal executiva, diretora clínica para a área dos cuidados de saúde primários, do conselho de administração
+  da Unidade Local de Saúde do Arco Ribeirinho, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 130/2025
+official_date: null
+publication_date: '2025-09-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/2025, Série I de 2025-09-04
+  number: '170'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/09/17000/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/130/2025/09/04/p/dre/pt/html
+  oj: null
+  dre: '934159188'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/130-2025-934159188
+  internal: pt:dre:934159188:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2025-934159188
+  metadata_url: https://data.dre.pt/eli/resolconsmin/130/2025/09/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2025-934159188
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-09-04T00:00:00Z'
+integrity:
+  source_sha256: f957305637a6700ac7783d02adc3e2b7ac8b013f5451781e8b5195a723667437
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-130-934159188.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Nomeação
+- Vogal
+- Unidade Local de Saúde do Arco Ribeirinho
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/50/2025/03/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/50/2025/03/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 130/2025
+
+Tendo em vista melhorar a prestação de cuidados de saúde e reforçar o acesso das populações abrangidas, garantindo que todos os cidadãos tenham acesso a cuidados de saúde de qualidade e de forma tempestiva e equitativa, o Governo tem procurado implementar um conjunto de medidas que reforcem a capacidade de resposta do Serviço Nacional de Saúde (SNS).
+
+Para se alcançar este desiderato, ou seja, fortalecer a capacidade de resposta das entidades integradas no SNS, é necessário que a respetiva gestão seja assegurada por um conselho de administração capaz de adotar estratégias eficazes, quer de planeamento quer de gestão eficiente dos recursos disponíveis.
+
+Atendendo à vacatura do cargo de diretor clínico para a área dos cuidados de saúde primários do conselho de administração da Unidade Local de Saúde do Arco Ribeirinho, E. P. E., torna-se necessário proceder à designação de um titular para este cargo, para completar o mandato em curso do atual conselho de administração, designado pela [Resolução do Conselho de Ministros n.º 50/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2025-911089440), de 17 de março.
+
+A remuneração dos membros do conselho de administração da Unidade Local de Saúde do Arco Ribeirinho, E. P. E., obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, na sua redação atual.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre a designação constante da presente Resolução.
+
+Assim:
+
+Nos termos dos n.<sup>os</sup>2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, na sua redação atual, do artigo 12.º, dos n.<sup>os</sup>1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, para exercer funções no conselho de administração da Unidade Local de Saúde do Arco Ribeirinho, E. P. E., a vogal executiva, diretora clínica para a área dos cuidados de saúde primários, Iliete Cesaltina Séca dos Ramos, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução, da qual faz parte integrante.
+
+2 - Estabelecer que a presente designação é feita pelo período restante do mandato em curso dos membros do mesmo conselho de administração da Unidade Local de Saúde do Arco Ribeirinho, E. P. E., constante da [Resolução do Conselho de Ministros n.º 50/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-2025-911089440), de 17 de março.
+
+3 - Autorizar a designada Iliete Cesaltina Séca dos Ramos a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público, devendo a acumulação de funções ora autorizada ser exercida em horário e de forma a não colidir com o exercício das funções para as quais está a ser designada.
+
+4 - Autorizar a designada Iliete Cesaltina Séca dos Ramos a optar pelo vencimento do lugar de origem, não podendo ultrapassar o vencimento do Primeiro-Ministro, nos termos do n.º 8 do artigo 28.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
+
+5 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 28 de agosto de 2025. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Nota curricular
+
+Iliete Cesaltina Séca dos Ramos.
+
+Habilitações académicas e formação profissional:
+
+Mestrado integrado em Medicina pela Faculdade de Medicina da Universidade do Porto em 2007;
+
+Curso de Especialização em Saúde Pública em 2011;
+
+Controlo de infeção em contexto de pandemia COVID-19 | Edição 2021-Hospital da Luz Lisboa;
+
+Medicina do Trabalho - Escola Nacional de Saúde Pública, 2019;
+
+Global Outbreak Alert and Response Network, Organização Mundial da Saúde 2017;
+
+Avaliação de desempenho para Avaliadores de Regime Geral do SIADAP - Unidade Local de Saúde do Baixo Alentejo, E. P. E., 2017;
+
+Tuberculose - Instituto de Saúde Pública do Porto, 2016;
+
+Medicina do Viajante - Instituto de Higiene e Medicina Tropical, 2012;
+
+Segurança Alimentar - Instituto de Higiene e Medicina Tropical, 2012;
+
+Epidemiologia e Bioestatística Aplicadas à Investigação em Saúde - Departamento de Epidemiologia, Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., 2011.
+
+Experiência profissional:
+
+Assessora do Conselho de Administração para a área dos Cuidados de Saúde Primários da ULS Arco Ribeirinho - 2025;
+
+Focalpoint regional do Programa VIH (Lisboa e Vale do Tejo) - 2025;
+
+Adjunta da diretora clínica para a área dos Cuidados de Saúde Primários da ULS Arco Ribeirinho - 2024;
+
+Vogal médica do Conselho Clínico e de Saúde - 2022-2023;
+
+Vogal do Conselho Clínico e de Saúde em substituição da Presidente do Conselho Clínico e de Saúde - 2023;
+
+Vogal do Conselho Clínico e de Saúde em substituição do Diretor Executivo - 2023;
+
+Participação em Júris da Avaliação Final IMSP | Júri SP - 2022-2025;
+
+Autoridade de Saúde e Médica Assistente da Carreira Especial Médica, Área de Saúde Pública- Unidade de Saúde Pública do Agrupamento de Centros de Saúde/ULS do Arco Ribeirinho - 2020-presente;
+
+Autoridade de Saúde e Médica Assistente da Carreira Especial Médica, Área de Saúde Pública - Unidade de Saúde Pública da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2015-2020;
+
+Delegada de Saúde Coordenadora da Unidade de Saúde Pública da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2017-2020;
+
+Cofundadora e Responsável pela Consulta do Viajante e Centro de Vacinação Internacional da Unidade de Saúde Pública da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2017-2019;
+
+Membro da Equipa Coordenadora da Saúde Escolar da Unidade de Saúde Pública da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2015-2020;
+
+Coordenadora do Programa Local de Vacinação da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2017-2020;
+
+Coordenadora do Plano Contingência Temperaturas Extremas Adversas - módulo verão e módulo inverno da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2017-2020;
+
+Coordenou a elaboração e implementação do Plano Local de Saúde da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2018-2020;
+
+Presidente da Junta Médica de Avaliação do Grau de Incapacidade de Deficientes Civis da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2018-2019;
+
+Coordenou o processo de Contratualização Interna da Unidade de Saúde Pública da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2018;
+
+Orientadora de Formação Específica do Internato Médico de Saúde Pública desde 2018;
+
+Coordenou a implementação do Regulamento Sanitário Internacional e do Programa Revive no Aeroporto de Beja - 2016-2020;
+
+Responsável pela orientação de médicos internos do Ano Comum da Unidade de Saúde Pública da Unidade Local de Saúde do Baixo Alentejo, E. P. E. - 2016- 2020;
+
+Assistente de Saúde Pública em 2013.

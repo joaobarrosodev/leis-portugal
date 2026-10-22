@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175324:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-123993341",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2012-175324",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123993412",
+    "123993413",
+    "123993414",
+    "123993415",
+    "123993416",
+    "123993417",
+    "123993418",
+    "123993419",
+    "123993420",
+    "123993421",
+    "123993422",
+    "123993423",
+    "123993424",
+    "123993425",
+    "123993426",
+    "123993427",
+    "123993428",
+    "123993429",
+    "123993430"
+   ]
+  },
+  {
+   "date": "2020-02-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123968672:por",
+     "title": "Decreto Legislativo Regional n.º 12/2019/M",
+     "published": "2019-08-14",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2019-123968672"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "123993412",
+    "123993413",
+    "123993414",
+    "123993415",
+    "123993416",
+    "123993417",
+    "123993418",
+    "123993419",
+    "123993420",
+    "123993421",
+    "123993422",
+    "123993423",
+    "123993432",
+    "123993425",
+    "123993426",
+    "123993427",
+    "123993428",
+    "123993429",
+    "123993430",
+    "123993431"
+   ]
+  }
+ ],
+ "fragments": {
+  "123993412": {
+   "fragment_id": "123993342",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 18/2012/M\n\nEstabelece as disposições relativas ao projeto, à construção e à exploração de redes e ramais de distribuição alimentados com gases combustíveis da 3.ª família\n\nConsiderando o Decreto-Lei n.º 125/97, de 23 de maio, que estabelece as disposições relativas ao projeto, à construção e à exploração das redes e ramais de distribuição alimentados com gases combustíveis da 3.ª família;\n\nConsiderando que importa proceder a uma atualização das normas aplicáveis à execução, exploração e manutenção de redes, ramais de distribuição e instalação de gases combustíveis da 3.ª família, usualmente designados por gases de petróleo liquefeitos (GPL), bem como definir os requisitos aplicáveis ao projeto, execução e exploração das instalações de gás:\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "123993413": {
+   "fragment_id": "123993343",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente diploma tem como objeto a definição das regras aplicáveis ao projeto, à construção, à exploração técnica e à segurança das redes e ramais de distribuição de gases combustíveis da 3.ª família, usualmente designados por gases de petróleo liquefeitos (GPL).\n\n2 - As disposições deste diploma são também aplicáveis, nos termos nele previstos, às instalações de gás no interior dos edifícios alimentados com os gases referidos no número anterior."
+  },
+  "123993414": {
+   "fragment_id": "123993344",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Entidade exploradora» a entidade que, sendo ou não proprietária das instalações de armazenagem e das redes e ramais de distribuição de gás, procede à exploração técnica das mesmas;\n\nb) «Entidade instaladora» a entidade que se dedica à instalação de redes e ramais e instalações de gás em edifícios;\n\nc) «Entrega de gás canalizado» a alimentação física de gás canalizado aos consumidores finais;\n\nd) «Exploração técnica de redes e ramais» o conjunto das ações técnicas destinadas à condução, à manutenção e à entrega de gás canalizado aos consumidores finais;\n\ne) «Instalação de gás em edifícios» o sistema instalado num edifício, constituído pelo conjunto de tubagens, acessórios, equipamentos e aparelhos de medida, que assegura a distribuição de gás desde o dispositivo de corte geral do edifício até ao dispositivo de corte de cada aparelho de gás, inclusive;\n\nf) «Partes comuns das instalações de gás em edifícios» o conjunto dos componentes da instalação de gás num edifício, desde a válvula de corte geral até à entrada de cada fogo, com exceção do contador de gás;\n\ng) «Posto de GPL» o conjunto de garrafas ou reservatórios, ligados a uma rede de distribuição ou a uma instalação de gás;\n\nh) «Proprietário» a entidade proprietária das instalações de armazenagem, das redes e ramais de distribuição de gás ou das instalações de gás em edifícios;\n\ni) «Ramal ou ramal de distribuição» o sistema constituído por tubagens, válvulas e acessórios, que abastece instalações de gás em edifícios;\n\nj) «Rede de distribuição» o sistema constituído por tubagens, válvulas e acessórios, através do qual se processa a alimentação dos ramais de distribuição."
+  },
+  "123993415": {
+   "fragment_id": "123993345",
+   "type": 11,
+   "heading": "Artigo 3.º — Dimensionamento das redes e ramais de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dimensionamento das redes e ramais de distribuição\n\nO dimensionamento das redes e ramais de distribuição de gases combustíveis deve ser feito tendo em conta as características do gás a distribuir."
+  },
+  "123993416": {
+   "fragment_id": "123993346",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorização para execução e entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autorização para execução e entrada em funcionamento\n\nA execução e a entrada em funcionamento das redes e ramais de distribuição ligados a postos de GPL licenciados nos termos da legislação aplicável carecem de autorização a conceder pela Direção Regional do Comércio, Indústria e Energia, adiante designada abreviadamente por DRCIE."
+  },
+  "123993417": {
+   "fragment_id": "123993347",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de autorização de execução\n\n1 - A autorização de execução referida no artigo anterior deve ser requerida pelo proprietário das redes e ramais de distribuição à DRCIE, devendo constar do requerimento:\n\na) O nome ou denominação social, o número fiscal de contribuinte e o domicílio ou sede do requerente;\n\nb) O local de implantação da rede ou ramal.\n\n2 - O requerimento a que se refere o número anterior deve ser acompanhado de um projeto, em duplicado, que deve incluir:\n\na) Memória descritiva, da qual deve constar a descrição da instalação, dos materiais e dos dispositivos de segurança e a indicação das principais normas e códigos técnicos utilizados no projeto e a cumprir na construção. Todas as peças do projeto serão rubricadas pelo técnico responsável, com exceção da última peça escrita, onde deverá constar a assinatura, o nome por extenso e as referências da inscrição na DRCIE;\n\nb) Planta topográfica à escala conveniente, designadamente à escala de 1:2000, 1:1000 ou 1:500, indicando a área onde se desenvolve a rede e ramais de distribuição;\n\nc) Planta da rede ou ramal de distribuição à escala conveniente, designadamente às escalas de 1:200, 1:100 ou 1:50, que definam completamente os traçados e os pormenores;\n\nd) Termo de responsabilidade do projetista.\n\n3 - A autorização requerida será concedida com a devolução ao requerente do duplicado do projeto, devidamente visado."
+  },
+  "123993418": {
+   "fragment_id": "123993348",
+   "type": 11,
+   "heading": "Artigo 6.º — Execução das redes e ramais de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Execução das redes e ramais de distribuição\n\n1 - A execução das redes e ramais de distribuição deve obedecer aos requisitos estabelecidos no regulamento técnico relativo ao projeto, construção, exploração e manutenção de redes de distribuição de gases combustíveis em vigor.\n\n2 - A execução das redes e ramais de distribuição deve ser feita por entidades instaladoras reconhecidas pela DRCIE, nos termos previstos no respetivo estatuto.\n\n3 - Concluída a execução das redes e ramais de distribuição, deve a entidade instaladora emitir termo de responsabilidade, em triplicado, de acordo com o modelo a aprovar por despacho do diretor regional do Comércio, Indústria e Energia.\n\n4 - O original do termo de responsabilidade referido no número anterior deve ser entregue à DRCIE e os duplicados ao proprietário, sendo um destinado à entidade exploradora."
+  },
+  "123993419": {
+   "fragment_id": "123993349",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedido de autorização de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedido de autorização de exploração\n\n1 - Antes da entrada em funcionamento das redes ou ramais de distribuição, deve o proprietário requerer à DRCIE a autorização de exploração.\n\n2 - O pedido para a autorização de exploração deve ser acompanhado de:\n\na) Termo de responsabilidade a que se refere o n.º 3 do artigo anterior;\n\nb) Identificação da entidade exploradora;\n\nc) Declaração da entidade exploradora assumindo a responsabilidade pela exploração das redes e ramais de distribuição de gás."
+  },
+  "123993420": {
+   "fragment_id": "123993350",
+   "type": 11,
+   "heading": "Artigo 8.º — Transmissão da propriedade das instalações ou da sua exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transmissão da propriedade das instalações ou da sua exploração\n\n1 - A transmissão da propriedade das armazenagens, redes e ramais de distribuição de gás deve ser comunicada à DRCIE, no prazo de 30 dias a contar da data de transmissão, para efeitos de averbamento da titularidade da propriedade.\n\n2 - A comunicação prevista no número anterior constitui obrigação da entidade transmissória.\n\n3 - A substituição da entidade exploradora das instalações deve ser comunicada à DRCIE pelo proprietário das instalações no prazo de cinco dias a contar da data de substituição.\n\n4 - A comunicação a que se refere o número anterior deve ser acompanhada de declaração da nova entidade explorada assumindo a responsabilidade pela exploração das instalações."
+  },
+  "123993421": {
+   "fragment_id": "123993351",
+   "type": 11,
+   "heading": "Artigo 9.º — Exploração técnica das redes e ramais de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exploração técnica das redes e ramais de distribuição\n\n1 - A exploração técnica das redes e ramais de distribuição de gás é da responsabilidade da entidade exploradora.\n\n2 - A exploração técnica das redes e ramais de distribuição deve obedecer aos requisitos estabelecidos no regulamento referido no artigo 6.º do presente diploma.\n\n3 - Sempre que, decorrente de uma fiscalização, se verifiquem indícios de fugas de gás, a DRCIE poderá exigir à entidade exploradora a realização de ensaios para a sua deteção.\n\n4 - Sempre que se verifiquem situações que ponham em causa a segurança de pessoas e bens, a DRCIE poderá determinar a suspensão da autorização de exploração das instalações, bem como a selagem das mesmas."
+  },
+  "123993422": {
+   "fragment_id": "123993352",
+   "type": 11,
+   "heading": "Artigo 10.º — Assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Assistência técnica\n\n1 - A entidade exploradora deve assegurar:\n\na) Um serviço de atendimento permanente para receber informações, do seu pessoal ou de terceiros, relativas a eventuais anomalias de funcionamento;\n\nb) Um serviço de manutenção permanente das redes e ramais de distribuição de gás, dotado de meios técnicos, materiais e humanos que a habilitem, em caso de acidente, a intervir com a necessária rapidez e eficácia, bem como a prestar assistência técnica aos consumidores;\n\nc) Um serviço permanente para correção das anomalias de funcionamento das redes e ramais de distribuição de gás e das partes comuns das instalações de gás em edifícios.\n\n2 - As anomalias de funcionamento devem ser resolvidas no mais curto prazo de tempo possível, cabendo os encargos correspondentes às eventuais intervenções à entidade exploradora, exceto quando:\n\na) A anomalia ocorrer na instalação de gás do edifício;\n\nb) O pedido de assistência não tiver fundamento.\n\n3 - A DRCIE pode fixar um prazo à entidade exploradora para a resolução de qualquer anomalia de funcionamento ou pedido de assistência técnica."
+  },
+  "123993423": {
+   "fragment_id": "123993353",
+   "type": 11,
+   "heading": "Artigo 11.º — Inspeções periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inspeções periódicas\n\n1 - As redes e ramais de distribuição de gás ficam sujeitas a inspeções periódicas quinquenais, que devem incluir um ensaio de estanquidade.\n\n2 - Dos relatórios que contiverem os ensaios referidos no número anterior deverão ser enviadas cópias à DRCIE.\n\n3 - A promoção e a realização das inspeções periódicas referidas são da responsabilidade das entidades exploradoras.\n\n4 - A responsabilidade das inspeções referidas no número anterior poderá ser transferida para entidades que venham a ser reconhecidas para o efeito ao abrigo do diploma específico."
+  },
+  "123993424": {
+   "fragment_id": "123993354",
+   "type": 11,
+   "heading": "Artigo 12.º — Grupos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Grupos profissionais\n\nConsideram-se habilitados para projetar, executar e proceder à manutenção das redes e ramais de distribuição e instalações de gás os grupos profissionais previstos no anexo i do Decreto-Lei n.º 263/89, de 17 de agosto."
+  },
+  "123993425": {
+   "fragment_id": "123993355",
+   "type": 11,
+   "heading": "Artigo 13.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima:\n\na) De (euro) 250 a (euro) 10 000 a infração do disposto nos n.os 1 e 2 do artigo 8.º e no n.º 2 do artigo 10.º;\n\nb) De (euro) 500 a (euro) 17 500 a infração do disposto nos n.os 3 e 4 do artigo 6.º, nos n.os 3 e 4 do artigo 8.º e no artigo 11.º;\n\nc) De (euro) 1250 a (euro) 30 000 a infração do disposto no artigo 3.º, no artigo 4.º, nos n.os 1 e 2 do artigo 6.º, no n.º 2 do artigo 9.º, no n.º 1 do artigo 10.º, bem como a inobservância pelas entidades exploradoras das obrigações e deveres estabelecidos no respetivo estatuto.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - No caso de a contraordenação ter sido praticada por pessoa singular, o montante máximo da coima é de (euro) 3750.\n\n4 - Em função da gravidade da infração e da culpa do agente, poderão ser aplicadas as sanções acessórias estabelecidas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de outubro, com a redação que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de setembro."
+  },
+  "123993426": {
+   "fragment_id": "123993356",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente diploma é da competência da DRCIE."
+  },
+  "123993427": {
+   "fragment_id": "123993357",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução do processo e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrução do processo e aplicação das coimas\n\nCompete ao diretor regional do Comércio, Indústria e Energia proceder à instauração dos processos de contraordenação e aplicar as coimas e sanções acessórias."
+  },
+  "123993428": {
+   "fragment_id": "123993358",
+   "type": 11,
+   "heading": "Artigo 16.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produto das coimas\n\nO produto das coimas constitui receita da Região Autónoma da Madeira."
+  },
+  "123993429": {
+   "fragment_id": "123993359",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 6/2002/M, de 9 de abril."
+  },
+  "123993430": {
+   "fragment_id": "123993360",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "123993432": {
+   "fragment_id": "123993354",
+   "type": 11,
+   "heading": "Artigo 12.º — Grupos profissionais",
+   "in_force_from": "2020-02-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 12/2019/M - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-123968672), em vigor a partir de 2020-02-10"
+   ],
+   "markdown": "###### Artigo 12.º — Grupos profissionais\n\nConsideram-se habilitados para projetar, executar e proceder à manutenção das redes e ramais de distribuição e instalações de gás os grupos profissionais previstos no anexo i do Decreto-Lei n.º 263/89, de 17 de agosto.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 12/2019/M - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-123968672), em vigor a partir de 2020-02-10"
+  },
+  "123993431": {
+   "fragment_id": "123993361",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 3 de julho de 2012.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.\n\nAssinado em 20 de julho de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

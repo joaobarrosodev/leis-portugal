@@ -1,0 +1,197 @@
+---
+schema_version: '1.0'
+id: pt:dre:150368755:por
+title: Decreto-Lei n.º 101-B/2020
+short_title: null
+summary: Atribui uma compensação aos trabalhadores do Serviço Nacional de Saúde envolvidos no combate à pandemia da doença
+  COVID-19
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Saúde
+official_number: 101-B/2020
+official_date: null
+publication_date: '2020-12-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 235/2020, 1º Suplemento, Série I de 2020-12-03
+  number: '235'
+  series: I
+  supplement: 1º Suplemento
+  pages: 6-(2) a 6-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23501/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/101-b/2020/12/03/p/dre/pt/html
+  oj: null
+  dre: '150368755'
+  dre_path: /dr/detalhe/decreto-lei/101-b-2020-150368755
+  internal: pt:dre:150368755:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-b-2020-150368755
+  metadata_url: https://data.dre.pt/eli/dec-lei/101-b/2020/12/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-b-2020-150368755
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-09-30T00:00:00Z'
+integrity:
+  source_sha256: 8ceb3e8bcc8535b6b08ffd872baae2d79655633a1d211d57a26a263cfb17dc4e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-101-B-150368755.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal de Saúde
+- Hospital das Forças Armadas
+- Serviço Nacional de Saúde
+- Férias
+- Instituto Nacional de Medicina Legal e Ciências Forenses
+- Direcção Geral de Reinserção e Serviços Prisionais
+- Prémio de Desempenho
+relationships:
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decpresrep/14-a/2020/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/14-a/2020/03/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27-a/2020/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27-a/2020/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 101-B/2020
+
+de 3 de dezembro
+
+A resposta adequada à epidemia de SARS-CoV-2 e à evolução da doença COVID-19 determinou que os profissionais de saúde do Serviço Nacional de Saúde (SNS) fossem chamados à linha da frente na prevenção e no tratamento da doença, o que tem sido feito com elevado espírito de prestação de serviço público, face a uma especial exigência e responsabilidade do trabalho desenvolvido por estes profissionais.
+
+Neste sentido, a [Lei n.º 27-A/2020](https://diariodarepublica.pt/dr/detalhe/lei/27-a-2020-138762310), de 24 de julho, que procedeu à segunda alteração à [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março (Lei do Orçamento do Estado para 2020), aditando-lhe o artigo 42.º-A, consagra medidas de compensação dos trabalhadores do SNS envolvidos no combate à pandemia provocada pela doença COVID-19, que, durante o estado de emergência declarado pelo [Decreto do Presidente da República n.º 14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, e suas renovações, exerceram funções em regime de trabalho subordinado no SNS e praticaram, nesse período, de forma continuada e relevante, atos diretamente relacionados com pessoas suspeitas e doentes infetados por COVID-19, importando agora proceder à respetiva regulamentação.
+
+O presente decreto-lei, aplica-se igualmente aos enfermeiros e aos técnicos de emergência médica pré-hospitalar e aos profissionais dos serviços médico-legais integrados em equipas periciais e de colheita de amostras para teste laboratorial de pessoas suspeitas e doentes ou cadáveres infetados por SARS-CoV-2, aos trabalhadores das unidades e serviços de saúde prisionais, bem como aos trabalhadores civis do Hospital das Forças Armadas que estiveram envolvidos no combate à pandemia provocada pela doença COVID-19.
+
+Foram observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à regulamentação do artigo 42.º-A da [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, na sua redação atual.
+
+###### Artigo 2.º — Âmbito subjetivo
+
+1 - O presente decreto-lei aplica-se aos trabalhadores dos serviços e estabelecimentos do Serviço Nacional de Saúde (SNS) vinculados por contrato de trabalho em funções públicas ou contrato de trabalho celebrado ao abrigo do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, que, nos termos da Base 28 da Lei de Bases da Saúde (LBS), aprovada pela [Lei n.º 95/2019](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), de 4 de setembro, durante a vigência do estado de emergência declarado pelo [Decreto do Presidente da República n.º 14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, e suas renovações, tenham praticado de forma continuada e relevante atos diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2, quer enquanto prestadores diretos de cuidados, quer como prestadores de atividades de suporte.
+
+2 - O disposto no presente decreto-lei aplica-se, com as necessárias adaptações, quando praticados atos e serviços de saúde e desde que verificadas as condições estabelecidas no artigo 3.º, nos seguintes termos:
+
+a) Aos enfermeiros e aos técnicos de emergência médica pré-hospitalar vinculados por contrato de trabalho em funções públicas, desde que integrados em equipas de transporte pré-hospitalar e de colheita de amostras para teste laboratorial, de pessoas suspeitas e doentes infetados por SARS-CoV-2 e verificadas as condições estabelecidas na alínea b) do artigo 3.º;
+
+b) Aos trabalhadores civis do Hospital das Forças Armadas que tenham praticado de forma continuada e relevante atos diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2, quer enquanto prestadores diretos de cuidados, quer como prestadores de atividades de suporte e verificadas as condições cumulativas estabelecidas nas alíneas a) e b) do artigo 3.º;
+
+c) Aos profissionais dos serviços médico-legais vinculados por contrato de trabalho em funções públicas ao Instituto Nacional de Medicina Legal e Ciências Forenses, I. P., desde que integrados em equipas periciais e de colheita de amostras para teste laboratorial de pessoas suspeitas e doentes ou cadáveres infetados por SARS-CoV-2 e verificadas as condições estabelecidas nas alíneas a) e b) do artigo 3.º;
+
+d) Aos trabalhadores das unidades e serviços de saúde prisionais da Direção-Geral de Reinserção e Serviços Prisionais, vinculados por contrato de trabalho em funções públicas que tenham praticado de forma continuada e relevante atos diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2 e verificadas as condições estabelecidas nas alíneas a) e b) do artigo 3.º
+
+###### Artigo 3.º — Requisitos da majoração do período de férias e da atribuição do prémio de desempenho
+
+Os trabalhadores referidos no artigo anterior têm direito à majoração do período de férias e à atribuição do prémio de desempenho nos termos do presente decreto-lei, desde que tenham praticado, cumulativamente, atos:
+
+a) Diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2, considerando-se como tal os atos praticados por parte de profissionais de saúde no contexto de observação, avaliação clínica e abordagem terapêutica, bem como de identificação de contactos, vigilância ativa e sobreativa de contactos e de casos confirmados de doença, de investigação epidemiológica e de colheita e processamento de amostras para teste laboratorial de SARS-CoV-2;
+
+b) De forma continuada, considerando-se como tal os que consistem na realização efetiva de funções pelos profissionais de saúde, durante, pelo menos, 30 dias durante o todo o período em que vigorou o estado de emergência e onde se incluem os dias de descanso semanal obrigatório e complementar, bem como eventuais períodos de isolamento profilático ou de doença resultante de infeção por SARS-CoV-2, desde que decorrentes do exercício direto das funções;
+
+c) De forma relevante, considerando-se como tal os praticados nos estabelecimentos e serviços referidos no n.º 1 da Base 20 da LBS, numa das seguintes áreas e unidades ou num dos seguintes departamentos:
+
+i) Áreas dedicadas à COVID-19 dos estabelecimentos e serviços de saúde definidos, até 26 de março de 2020, como unidades de referência de primeira e segunda linha para admissão de pessoas suspeitas ou infetadas por SARS-CoV-2;
+
+ii) Áreas dedicadas à COVID-19 (ADC), definidas nos termos da Norma n.º 004/2020, da Direção-Geral da Saúde, de 23 de março, nos cuidados de saúde primários e nos serviços de urgência do SNS (ADC-Comunidade e ADC-SU), incluindo, quando aplicável, as enfermarias e unidades de cuidados intensivos dedicadas ao tratamento de doentes com COVID-19, bem como em unidades ou serviços de colheita e processamento laboratorial;
+
+iii) Unidades de saúde pública dos agrupamentos de centros de saúde e unidades locais de saúde e nos departamentos de saúde pública das administrações regionais de saúde.
+
+###### Artigo 4.º — Dias de férias
+
+1 - O período de férias dos trabalhadores abrangidos pelo artigo 2.º é aumentado nos seguintes termos:
+
+a) Um dia de férias por cada período de 80 horas de trabalho normal efetivamente prestadas durante o estado de emergência declarado pelo [Decreto do Presidente da República n.º 14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, e suas renovações;
+
+b) Um dia de férias por cada período de 48 horas de trabalho suplementar efetivamente prestadas durante o estado de emergência declarado pelo [Decreto do Presidente da República n.º 14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, e suas renovações.
+
+2 - Os dias de férias resultantes do aumento referido no número anterior podem ser gozados até ao final do ano de 2021.
+
+###### Artigo 5.º — Prémio de desempenho
+
+Os trabalhadores abrangidos pelo artigo 2.º têm direito a um prémio de desempenho, a pagar uma única vez, em 2020, equivalente a 50 % da sua remuneração base mensal, não acrescida de qualquer outra, independentemente da natureza da remuneração ou de suplemento remuneratório.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de novembro de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões.
+
+**Promulgado em 2 de dezembro de 2020.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 3 de dezembro de 2020.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

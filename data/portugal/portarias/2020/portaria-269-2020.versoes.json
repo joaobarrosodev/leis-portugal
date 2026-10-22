@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:148963300:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-149070875",
+ "dre_path": "/dr/detalhe/portaria/269-2020-148963300",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "149070975",
+    "149070976",
+    "149070977",
+    "149070978"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:153138208:por",
+     "title": "Declaração de Retificação n.º 1/2021",
+     "published": "2021-01-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/1-2021-153138208",
+     "date": "2020-11-20"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "149070975": {
+   "fragment_id": "149070876",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 269/2020\n\nde 19 de novembro\n\nSumário: Procede à primeira alteração à Portaria n.º 178/2020, de 28 de julho, que estabelece um sistema de incentivos à adaptação da atividade das respostas sociais ao contexto da doença COVID-19, designado Programa Adaptar Social +.\n\nO Programa de Estabilização Económica e Social (PEES), aprovado pela Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, definiu um conjunto de medidas para fazer face às inúmeras consequências de ordem económica e social provocadas pela situação de pandemia da doença COVID-19.\n\nNesse âmbito, foi previsto o Programa Adaptar Social + que tem por objetivo a capacitação das respostas sociais desenvolvidas pelas instituições particulares de solidariedade social (IPSS) e entidades legalmente equiparadas, bem como entidades privadas que desenvolvam atividades de apoio social, para prevenção e contenção do contágio por SARS-CoV-2.\n\nAtravés da Portaria n.º 178/2020, de 28 de julho, foi regulado o Programa Adaptar Social + que estabelece um sistema de incentivos à adaptação da atividade das respostas sociais ao contexto da doença COVID-19.\n\nA expressiva adesão ao programa evidencia a importância deste instrumento no apoio às instituições e na mitigação dos efeitos da pandemia, afigurando-se essencial reforçar a dotação orçamental inicialmente prevista no PEES, de forma a abranger todas as candidaturas apresentadas e validadas.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a CONFECOOP - Confederação Portuguesa Cooperativa, bem como as entidades representativas do setor lucrativo.\n\nAssim, ao abrigo das disposições conjugadas dos artigos 2.º, 9.º e 26.º do Decreto-Lei n.º 169-B/2019, de 3 de dezembro, na redação atual, do n.º 5 do artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de março, na redação atual, e da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "149070976": {
+   "fragment_id": "149070877",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração à Portaria n.º 178/2020, de 28 de julho, que estabelece um sistema de incentivos à adaptação da atividade das respostas sociais ao contexto da doença COVID-19, doravante designado Programa Adaptar Social +."
+  },
+  "149070977": {
+   "fragment_id": "149070878",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 178/2020, de 28 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 178/2020, de 28 de julho\n\nÉ alterado o artigo 8.º da Portaria n.º 178/2020, de 28 de julho, que passa a ter a seguinte redação:\n\n«Artigo 8.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - É reforçada a dotação do Programa Adaptar Social +, em 9 milhões de euros, com receitas próprias dos jogos sociais inscritas no orçamento da segurança social e destinadas a apoiar as candidaturas submetidas e validadas pelo ISS, I. P., ao abrigo dos Avisos anexos aos Despachos n.º 7971/2020 e 7927/2020, de 7 de agosto, publicados no Diário da República, 2.ª série, n.º 158, de 14 de agosto de 2020.\n\n8 - [...]»"
+  },
+  "149070978": {
+   "fragment_id": "149070879",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

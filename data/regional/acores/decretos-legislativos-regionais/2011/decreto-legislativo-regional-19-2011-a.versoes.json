@@ -1,0 +1,536 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:669995:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2011-160874116",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/19-2011-669995",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-06-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160874247",
+    "160874248",
+    "160874249",
+    "160874250",
+    "160874251",
+    "160874252",
+    "160874253",
+    "160874254",
+    "160874255",
+    "160874256",
+    "160874257",
+    "160874258",
+    "160874259",
+    "160874260",
+    "160874261",
+    "160874262",
+    "160874263",
+    "160874264",
+    "160874265",
+    "160874266",
+    "160874267",
+    "160874268",
+    "160874269",
+    "160874270",
+    "160874271",
+    "160874272"
+   ]
+  },
+  {
+   "date": "2013-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498561:por",
+     "title": "Decreto Legislativo Regional n.º 9/2013/A",
+     "published": "2013-08-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-2013-498561"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "160874247",
+    "160874248",
+    "160874249",
+    "160880859",
+    "160874251",
+    "160874252",
+    "160880860",
+    "160880861",
+    "160880862",
+    "160880863",
+    "160880864",
+    "160874258",
+    "160880865",
+    "160880866",
+    "160880867",
+    "160880868",
+    "160880869",
+    "160874264",
+    "160874265",
+    "160874266",
+    "160874267",
+    "160881586",
+    "160881587",
+    "160874270",
+    "160874271",
+    "160874272",
+    "160874273"
+   ]
+  },
+  {
+   "date": "2021-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160769663:por",
+     "title": "Decreto Legislativo Regional n.º 7/2021/A",
+     "published": "2021-04-05",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/7-2021-160769663"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A"
+   ],
+   "fragments": [
+    "160874247",
+    "160874248",
+    "160874249",
+    "160880859",
+    "160874251",
+    "160874252",
+    "160880860",
+    "160880861",
+    "160880862",
+    "160880863",
+    "160880864",
+    "160874258",
+    "160880865",
+    "160880866",
+    "160880867",
+    "160880868",
+    "160880869",
+    "160874264",
+    "160874265",
+    "160874266",
+    "160874267",
+    "160881586",
+    "160881667",
+    "160881668",
+    "160881669",
+    "160881670",
+    "160881671",
+    "160874273"
+   ]
+  }
+ ],
+ "fragments": {
+  "160874247": {
+   "fragment_id": "160874117",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 19/2011/A\n\nRegula o exercício da actividade dos profissionais de informação turística na Região Autónoma dos Açores\n\nAs actividades dos profissionais de informação turística itinerante e guias-intérpretes regionais encontram-se regulamentadas na ordem jurídica nacional, tendo sofrido adaptações regionais dispersas e não actualizadas.\n\nNa verdade, o Decreto Legislativo Regional n.º 4/87/A, de 22 de Maio, que criou a figura do assistente de turismo e promoveu a formação base de indivíduos não habilitados, foi revogado pelo Decreto Legislativo Regional n.º 8/2004/A, de 23 de Março, que manteve um regime transitório para o exercício daquela actividade profissional.\n\nEntretanto, a Portaria n.º 12/2006, de 26 de Janeiro, criou condições para que os profissionais que se encontravam a exercer a actividade de guia-intérprete regional, sem titularidade de curso de formação profissional e posse de carteira profissional, pudessem, através de frequência e aproveitamento e a título excepcional, regularizar a sua situação.\n\nApesar de todas as medidas tomadas, a actividade de guia-intérprete continua a ser exercida na Região por profissionais não habilitados, não possuidores de carteira profissional ou com competências desadequadas e desactualizadas, transmitindo uma imagem de uma actividade desregrada e fazendo perigar a qualidade dos serviços que a Região procura promover.\n\nConsiderando que importa apostar na qualificação do potencial humano como capital de futuro, garantindo a certificação de profissionais e alargando a certificação obrigatória para profissões cujo exercício obriga a detenção de certificação específica, ao mesmo tempo que se reforça a sustentabilidade do sector do turismo na Região e o incremento da sua importância na sua estrutura económica.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República, do n.º 1 do artigo 37.º e da alínea b) do n.º 2 do artigo 55.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "160874248": {
+   "fragment_id": "160874118",
+   "type": 1,
+   "heading": "Capítulo I — Princípio gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípio gerais"
+  },
+  "160874249": {
+   "fragment_id": "160874119",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o exercício da actividade dos profissionais de informação turística na Região Autónoma dos Açores."
+  },
+  "160874250": {
+   "fragment_id": "160874120",
+   "type": 11,
+   "heading": "Artigo 2.º — Profissionais de informação turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Profissionais de informação turística\n\n1 - Consideram-se profissionais de informação turística os indivíduos que, devidamente habilitados com carteira profissional de guia-intérprete nacional, guia-intérprete regional ou correio de turismo, mediante remuneração, acolhem, esclarecem e acompanham turistas nacionais e estrangeiros.\n\n2 - Para efeitos do disposto no número anterior, entende-se por:\n\na) «Guia-intérprete nacional e guia-intérprete regional» o profissional que acompanha turistas em viagens e visitas a locais de interesse turístico, em território nacional e regional, respectivamente;\n\nb) «Correio de turismo» o profissional que acompanha turistas em viagens ao País e ao estrangeiro como representante dos respectivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens.\n\n3 - Sem prejuízo do disposto no n.º 1, por portaria dos membros do Governo Regional competentes nas matérias de turismo e de trabalho, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente, ouvidas as organizações representativas de empregadores e trabalhadores interessadas, podem ser criadas novas categorias de profissões de informação turística circunscritas ao território da Região."
+  },
+  "160874251": {
+   "fragment_id": "160874121",
+   "type": 1,
+   "heading": "Capítulo II — Do exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do exercício da actividade"
+  },
+  "160874252": {
+   "fragment_id": "160874122",
+   "type": 8,
+   "heading": "Secção I — Condições subjectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições subjectivas"
+  },
+  "160874253": {
+   "fragment_id": "160874123",
+   "type": 11,
+   "heading": "Artigo 3.º — Carteira profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Carteira profissional\n\n1 - O exercício de actividade dos profissionais de informação turística encontra-se condicionado à titularidade de certificado de aproveitamento em curso de formação e à posse de carteira profissional, emitida pelo serviço competente do departamento do Governo Regional com atribuições na área do trabalho.\n\n2 - A portaria referida no n.º 3 do artigo anterior define, quanto às profissões criadas, o respectivo regime de exercício da actividade.\n\n3 - As carteiras profissionais emitidas são comunicadas ao serviço competente do departamento do Governo Regional com atribuições na área do turismo."
+  },
+  "160874254": {
+   "fragment_id": "160874124",
+   "type": 11,
+   "heading": "Artigo 4.º — Averbamento de língua estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Averbamento de língua estrangeira\n\n1 - Os profissionais de informação turística podem requerer ao serviço competente do departamento do Governo Regional com atribuições na área do trabalho que o certificado de titularidade de formação de nível superior, em língua estrangeira, ou de aproveitamento em exame internacional de língua estrangeira, reconhecido pelo organismo competente do país do idioma apreendido, seja averbado na carteira profissional.\n\n2 - Os averbamentos efectuados nos termos do número anterior são comunicados ao departamento do Governo Regional com atribuições na área do turismo."
+  },
+  "160874255": {
+   "fragment_id": "160874125",
+   "type": 11,
+   "heading": "Artigo 5.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formação\n\n1 - As condições de acesso, os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação das profissões de informação turística são objecto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.\n\n2 - Os cursos de formação podem ser promovidos por entidades de natureza pública, particular, associativa ou cooperativa, designadamente escolas profissionais, com observância do disposto na portaria referida no número anterior.\n\n3 - Anualmente, o serviço competente do departamento do Governo Regional com atribuições na área da qualificação profissional, em colaboração com o serviço competente do departamento do Governo Regional com atribuições na área de turismo, procede ao levantamento das necessidades de formação para as profissões de informação turística e para actualização e aperfeiçoamento de conhecimentos."
+  },
+  "160874256": {
+   "fragment_id": "160874126",
+   "type": 11,
+   "heading": "Artigo 6.º — Equiparação de cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Equiparação de cursos de formação\n\n1 - Por despacho de homologação do dirigente máximo do serviço competente do departamento do Governo Regional com atribuições na área da qualificação profissional, após parecer vinculativo do departamento do Governo Regional com atribuições na área de turismo, ou, quando envolva habilitação específica para operar em reservas naturais, do departamento do Governo Regional com atribuições na área de ambiente, pode ser reconhecida a equiparação de planos curriculares de licenciaturas ou de cursos de formação profissional que não coincidam com o disposto no regulamento da formação dos profissionais de informação turística.\n\n2 - A homologação confere ao titular do respectivo diploma ou certificado o direito à emissão da carteira profissional na categoria em que tenha sido reconhecida a formação obtida.\n\n3 - O procedimento para a homologação é regulamentado pela portaria referida no n.º 1 do artigo anterior."
+  },
+  "160874257": {
+   "fragment_id": "160874127",
+   "type": 11,
+   "heading": "Artigo 7.º — Carteira profissional e distintivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Carteira profissional e distintivo\n\n1 - No exercício da respectiva actividade, os profissionais de informação turística devem ser portadores da carteira profissional de que são titulares e usar um distintivo de modelo aprovado por despacho dos membros do Governo Regional competentes em matéria de turismo e de trabalho.\n\n2 - O distintivo referido no número anterior é emitido pelo serviço competente do departamento do Governo Regional com atribuições na área do trabalho em simultâneo com a respectiva carteira profissional."
+  },
+  "160874258": {
+   "fragment_id": "160874128",
+   "type": 8,
+   "heading": "Secção II — Condições objectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições objectivas"
+  },
+  "160874259": {
+   "fragment_id": "160874129",
+   "type": 11,
+   "heading": "Artigo 8.º — Locais de interesse turístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Locais de interesse turístico\n\n1 - Apenas o guia-intérprete nacional e o guia-intérprete regional podem, para além da visita a museus, palácios e monumentos nacionais, acompanhar turistas aos seguintes locais de interesse turístico:\n\na) Cidades e locais classificados como património da humanidade;\n\nb) Património cultural móvel e imóvel classificado como monumento ou tesouro regional ou de interesse público que conste do registo regional de bens culturais;\n\nc) Áreas protegidas classificadas como reserva natural.\n\n2 - O acompanhamento de turistas nos locais de interesse turístico referidos na alínea c) do número anterior fica condicionado, excepto no caso de visitas integradas em circuitos que abranjam outros locais de interesse turístico, à posse pelo guia de certificação específica na área do turismo de natureza ou, em sua substituição, por um guia da natureza.\n\n3 - Nas viagens turísticas que incluam visitas a locais de interesse turístico, as agências de viagens e turismo organizadoras, ou que naquelas intervenham em representação de outras agências de viagens e turismo ou operadores turísticos, nacionais ou estrangeiros, devem assegurar que as visitas sejam conduzidas por guia-intérprete regional ou nacional.\n\n4 - O disposto no número anterior não se aplica nas viagens por medida, devidamente comprovadas, e nas situações previstas nos n.os 1 e 2 do artigo seguinte e no artigo 11.º"
+  },
+  "160874260": {
+   "fragment_id": "160874130",
+   "type": 11,
+   "heading": "Artigo 9.º — Indisponibilidade de guia-intérprete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Indisponibilidade de guia-intérprete\n\n1 - Quando comprovada a indisponibilidade de guia-intérprete regional ou nacional, o correio de turismo que acompanhe a viagem turística pode conduzir as visitas aos locais de interesse turístico que naquela tenham sido incluídas.\n\n2 - Sempre que a viagem não tenha acompanhamento por correio de turismo e seja comprovada a indisponibilidade de guia-intérprete regional ou nacional, as empresas turísticas podem utilizar os seus trabalhadores na condução das visitas aos locais de interesse turístico incluídas na viagem.\n\n3 - Considera-se comprovada a indisponibilidade de guia-intérprete regional ou nacional quando as empresas turísticas demonstrem que não existe guia-intérprete regional ou nacional disponível para conduzir a visita na ilha onde esta se realize.\n\n4 - As excepções previstas nos números anteriores não se aplicam no caso de visita aos locais de interesse turístico mencionados na alínea c) do n.º 1 do artigo anterior."
+  },
+  "160874261": {
+   "fragment_id": "160874131",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento de visitas por intérprete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acompanhamento de visitas por intérprete\n\n1 - Sempre que na ilha onde se realizem as visitas a locais de interesse turístico se verifique a indisponibilidade de guia-intérprete regional ou nacional que se expresse em idioma pouco difundido internacionalmente, as visitas a locais de interesse turístico podem ser acompanhadas por intérprete, sem prejuízo da obrigatoriedade da condução da visita por guia-intérprete regional ou nacional.\n\n2 - Considera-se comprovada a indisponibilidade de guia-intérprete regional ou nacional quando as empresas turísticas demonstrem que, na ilha onde se realiza a visita, não existe guia-intérprete regional ou nacional que se expresse no idioma estrangeiro indispensável à condução da visita."
+  },
+  "160874262": {
+   "fragment_id": "160874132",
+   "type": 11,
+   "heading": "Artigo 11.º — Visitas conduzidas por cidadãos comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Visitas conduzidas por cidadãos comunitários\n\nAos cidadãos comunitários que prestem serviços de acompanhamento a grupos de turistas provenientes de outros Estados membros, e que no mesmo percurso turístico entrem e saiam da Região Autónoma dos Açores, é permitido conduzir visitas a locais de interesse turístico previsto na alínea b) do n.º 1 do artigo 8.º, independentemente da disponibilidade de guias-intérpretes regionais ou nacionais, desde que possuam as habilitações literárias e profissionais legalmente exigidas no Estado de origem."
+  },
+  "160874263": {
+   "fragment_id": "160874133",
+   "type": 11,
+   "heading": "Artigo 12.º — Bolsa de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Bolsa de profissionais\n\n1 - Para efeito do disposto no n.º 3 do artigo 9.º e no n.º 2 do artigo 10.º, o serviço competente do departamento do Governo Regional com atribuições em matéria de turismo assegura a publicação em página electrónica de uma listagem, actualizada mensalmente, com os profissionais de informação turística na Região e das respectivas ilhas em que exercem a actividade.\n\n2 - Quando, para a realização de visitas a locais de interesse turístico, as empresas tenham que recorrer a profissionais não incluídos na listagem referida no número anterior, por motivo de inexistência de profissionais de informação turística na ilha em causa ou indisponibilidade dos mesmos, devem comunicá-lo, até dois dias antes, ao serviço competente do departamento do Governo Regional com atribuições em matéria de turismo, devendo conservar todos os meios de prova relativos aos contactos previamente efectuados, para efeitos de contratação de profissionais incluídos naquela lista.\n\n3 - A comunicação referida no número anterior deve identificar o nome do profissional que irá realizar a visita, nacionalidade, número de carteira profissional ou documento legalmente exigido no país de origem para o exercício da profissão e datas previstas para entrada e saída da Região."
+  },
+  "160874264": {
+   "fragment_id": "160874134",
+   "type": 1,
+   "heading": "Capítulo III — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fiscalização e sanções"
+  },
+  "160874265": {
+   "fragment_id": "160874135",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\nA fiscalização do exercício das actividades de informação turística compete aos serviços com competência inspectiva dos departamentos do Governo Regional com atribuições em matéria do turismo e do trabalho, consoante as respectivas atribuições."
+  },
+  "160874266": {
+   "fragment_id": "160874136",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima entre (euro) 1000 e (euro) 10 000, o exercício das profissões de informação turística por quem não possua carteira profissional.\n\n2 - Constitui contra-ordenação, punível com coima entre (euro) 500 e (euro) 1000:\n\na) O exercício das profissões de informação turística por quem não exiba distintivo;\n\nb) A violação do disposto no n.º 1 do artigo 8.º\n\n3 - Constitui contra-ordenação punível com coima entre (euro) 500 e (euro) 2500 a violação do disposto no n.º 3 do artigo 9.º, no n.º 2 do artigo 10.º e no n.º 2 do artigo 12.º, por pessoa colectiva.\n\n4 - Em caso de reincidência, são elevados para o dobro os limites mínimos e máximos das coimas previstas nos números anteriores.\n\n5 - Compete ao serviço com competência inspectiva do departamento do Governo Regional com atribuições em matéria do turismo a instauração do processo de contra-ordenação e ao seu dirigente máximo a aplicação da respectiva coima.\n\n6 - O produto das coimas aplicadas nos termos dos números anteriores constitui receita da Região."
+  },
+  "160874267": {
+   "fragment_id": "160874137",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "160874268": {
+   "fragment_id": "160874138",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime transitório\n\n1 - É criado um regime excepcional, de natureza transitória, para acesso à carteira profissional de guia-intérprete regional aos indivíduos que não possuindo as habilitações profissionais exigidas demonstrem o exercício ininterrupto das funções próprias da profissão na Região, nos termos seguintes:\n\na) Os indivíduos que, sendo titulares de formação de nível superior, ou de curso de formação profissional de nível iv, na área do turismo, demonstrem o exercício das funções de guia-intérprete regional durante um período ininterrupto de quatro anos anterior à entrada em vigor do presente diploma, e cuja ponderação do mérito curricular permita concluir uma plena integração na actividade;\n\nb) Os indivíduos que, possuindo como habilitação mínima o 9.º ano de escolaridade ou equivalente, demonstrem o exercício ininterrupto das funções próprias de guia-intérprete com início anterior à entrada em vigor da Portaria n.º 12/2006, de 26 de Janeiro, e obtenham aproveitamento em curso qualificante para o efeito criado.\n\n2 - O regime previsto no número anterior caduca:\n\na) 12 meses após a entrada em vigor do presente diploma, nas situações previstas na alínea a);\n\nb) 18 meses após a entrada em vigor do presente diploma, nas situações previstas na alínea b), sem prejuízo da conclusão de curso qualificante que se tenha iniciado antes do termo desse prazo.\n\n3 - A portaria referida no n.º 1 do artigo 5.º define quanto ao período transitório:\n\na) Os meios de prova admitidos para demonstração do exercício ininterrupto da actividade;\n\nb) O procedimento a observar;\n\nc) Os critérios a que obedece a ponderação do mérito curricular, na situação prevista na alínea a) do n.º 1;\n\nd) O plano de curso e de estudos e respectivo regime de avaliação de conhecimentos do curso qualificante previsto na alínea b) do n.º 1."
+  },
+  "160874269": {
+   "fragment_id": "160874139",
+   "type": 11,
+   "heading": "Artigo 16.º — Manutenção de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Manutenção de direitos\n\n1 - O disposto no presente diploma não prejudica o exercício da actividade dos profissionais de informação turística titulares de carteira profissional anteriormente emitida, salvo o disposto no número seguinte.\n\n2 - Os profissionais de informação turística titulares de carteira profissional emitida antes da entrada em vigor do presente diploma devem requerer, no prazo de 90 dias após a entrada em vigor do presente regime, ao serviço competente do departamento do Governo Regional com atribuições em matéria do trabalho a emissão do distintivo previsto no n.º 1 do artigo 7.º, juntando para o efeito cópia da carteira profissional de que são titulares.\n\n3 - Mantêm o reconhecimento de equiparação do plano de estudos os cursos de formação que, antes da entrada em vigor do presente diploma, o tenham sido por despacho emitido em conformidade com a Portaria n.º 79/2004, de 23 de Setembro."
+  },
+  "160874270": {
+   "fragment_id": "160874140",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\n1 - Os regulamentos necessários à boa execução do presente diploma são adoptados por portaria conjunta dos membros do Governo Regional competentes em matéria do turismo e do trabalho, num prazo máximo de 30 dias após a publicação do presente diploma.\n\n2 - Quando regulamente as condições de certificação específica para operar em reservas naturais, a portaria a que se refere o número anterior é emitida conjuntamente pelos membros do Governo Regional competentes em matéria de turismo, trabalho e ambiente."
+  },
+  "160874271": {
+   "fragment_id": "160874141",
+   "type": 11,
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 8/2004/A, de 23 de Março;\n\nb) A Portaria n.º 79/2004, de 23 de Setembro."
+  },
+  "160874272": {
+   "fragment_id": "160874142",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte à publicação da regulamentação referida no artigo 17.º"
+  },
+  "160880859": {
+   "fragment_id": "160874120",
+   "type": 11,
+   "heading": "Artigo 2.º — Profissionais de informação turística",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 2.º — Profissionais de informação turística\n\n1- Consideram-se profissionais de informação turística os indivíduos que, devidamente habilitados como guia-intérprete ou correio de turismo, mediante remuneração, acolhem, esclarecem e acompanham turistas nacionais e estrangeiros.\n\n2 - Para efeitos do disposto no número anterior, entende-se por:\n\na) «Guia-intérprete» o profissional que acompanha turistas em viagens e visitas a locais de interesse turístico;\n\nb) «Correio de turismo» o profissional que acompanha turistas em viagens ao País e ao estrangeiro como representante dos respectivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens.\n\n3 - Sem prejuízo do disposto no n.º 1, por portaria dos membros do Governo Regional competentes nas matérias de turismo e de trabalho, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente, ouvidas as organizações representativas de empregadores e trabalhadores interessadas, podem ser criadas novas categorias de profissões de informação turística circunscritas ao território da Região.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880860": {
+   "fragment_id": "160874123",
+   "type": 11,
+   "heading": "Artigo 3.º — Habilitação profissional",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 3.º — Habilitação profissional\n\nO exercício de atividade dos profissionais de informação turística encontra-se condicionado à titularidade de certificado de aproveitamento em curso de formação reconhecido pelo serviço competente do Governo Regional com atribuições na área do trabalho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880861": {
+   "fragment_id": "160874124",
+   "type": 11,
+   "heading": "Artigo 4.º — Formação em língua estrangeira",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 4.º — Formação em língua estrangeira\n\nOs profissionais de informação turística podem requerer ao serviço competente do Governo Regional com atribuições na área do turismo, que o certificado de titularidade de formação de nível superior, em língua estrangeira, ou de aproveitamento em exame internacional de língua estrangeira, reconhecido pelo organismo competente do país do idioma apreendido, seja registado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880862": {
+   "fragment_id": "160874125",
+   "type": 11,
+   "heading": "Artigo 5.º — Formação",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 5.º — Formação\n\n1- Os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação profissional das profissões de informação turística são objeto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.\n\n2 - Os cursos de formação podem ser promovidos por entidades de natureza pública, particular, associativa ou cooperativa, designadamente escolas profissionais, com observância do disposto na portaria referida no número anterior.\n\n3 - Anualmente, o serviço competente do departamento do Governo Regional com atribuições na área da qualificação profissional, em colaboração com o serviço competente do departamento do Governo Regional com atribuições na área de turismo, procede ao levantamento das necessidades de formação para as profissões de informação turística e para actualização e aperfeiçoamento de conhecimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880863": {
+   "fragment_id": "160874126",
+   "type": 11,
+   "heading": "Artigo 6.º — Equiparação de cursos de formação",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 6.º — Equiparação de cursos de formação\n\n1 - Por despacho de homologação do dirigente máximo do serviço competente do departamento do Governo Regional com atribuições na área da qualificação profissional, após parecer vinculativo do departamento do Governo Regional com atribuições na área de turismo, ou, quando envolva habilitação específica para operar em reservas naturais, do departamento do Governo Regional com atribuições na área de ambiente, pode ser reconhecida a equiparação de planos curriculares de licenciaturas ou de cursos de formação profissional que não coincidam com o disposto no regulamento da formação dos profissionais de informação turística.\n\n2- A homologação confere ao titular do respetivo diploma ou certificado a dispensa de frequência e aproveitamento no curso de formação referido no artigo 3.º.\n\n3 - O procedimento para a homologação é regulamentado pela portaria referida no n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880864": {
+   "fragment_id": "160874127",
+   "type": 11,
+   "heading": "Artigo 7.º — Distintivo",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 7.º — Distintivo\n\n1- No exercício da respetiva atividade, os profissionais de informação turística devem usar um distintivo de modelo aprovado por despacho dos membros do Governo Regional competentes em matéria de turismo e de trabalho.\n\n2- O distintivo referido no número anterior é emitido pelo serviço competente do departamento do Governo Regional com atribuições na área do trabalho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880865": {
+   "fragment_id": "160874129",
+   "type": 11,
+   "heading": "Artigo 8.º — Locais de interesse turístico",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 8.º — Locais de interesse turístico\n\n1- Apenas o guia-intérprete pode, para além da visita a museus, palácios e monumentos nacionais, acompanhar turistas aos seguintes locais de interesse turístico:\n\na) Cidades e locais classificados como património da humanidade;\n\nb) Património cultural móvel e imóvel classificado como monumento ou tesouro regional ou de interesse público que conste do registo regional de bens culturais;\n\nc) Áreas protegidas classificadas como reserva natural.\n\n2- O acompanhamento de turistas nos locais de interesse turístico referidos na alínea c) do número anterior fica condicionado, exceto no caso de visitas integradas em circuitos que abranjam outros locais de interesse turístico, à posse pelo guia, de formação profissional específica na área do turismo de natureza ou, em sua substituição, por um guia da natureza.\n\n3- Nas viagens turísticas que incluam visitas a locais de interesse turístico, as agências de viagens e turismo organizadoras, ou que naquelas intervenham em representação de outras agências de viagens e turismo ou operadores turísticos, nacionais ou estrangeiros, devem assegurar que as visitas sejam conduzidas por guia-intérprete.\n\n4 - O disposto no número anterior não se aplica nas viagens por medida, devidamente comprovadas, e nas situações previstas nos n.os 1 e 2 do artigo seguinte e no artigo 11.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880866": {
+   "fragment_id": "160874130",
+   "type": 11,
+   "heading": "Artigo 9.º — Indisponibilidade de guia-intérprete",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 9.º — Indisponibilidade de guia-intérprete\n\n1- Quando comprovada a indisponibilidade de guia-intérprete, o correio de turismo que acompanhe a viagem turística pode conduzir as visitas aos locais de interesse turístico que naquela tenham sido incluídas.\n\n2- Sempre que a viagem não tenha acompanhamento por correio de turismo e seja comprovada a indisponibilidade de guia-intérprete, as empresas turísticas podem utilizar os seus trabalhadores na condução das visitas aos locais de interesse turístico incluídas na viagem.\n\n3- Considera-se comprovada a indisponibilidade de guia-intérprete quando as empresas turísticas demonstrem que não existe guia-intérprete disponível para conduzir a visita na ilha onde esta se realize.\n\n4 - As excepções previstas nos números anteriores não se aplicam no caso de visita aos locais de interesse turístico mencionados na alínea c) do n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880867": {
+   "fragment_id": "160874131",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento de visitas por intérprete",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 10.º — Acompanhamento de visitas por intérprete\n\n1- Sempre que na ilha onde se realizem as visitas a locais de interesse turístico se verifique a indisponibilidade de guia-intérprete que se expresse em idioma pouco difundido internacionalmente, as visitas a locais de interesse turístico podem ser acompanhadas por intérprete, sem prejuízo da obrigatoriedade da condução da visita por guia-intérprete.\n\n2- Considera-se comprovada a indisponibilidade de guia-intérprete quando as empresas turísticas demonstrem que, na ilha onde se realiza a visita, não existe guia-intérprete que se expresse no idioma estrangeiro indispensável à condução da visita.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880868": {
+   "fragment_id": "160874132",
+   "type": 11,
+   "heading": "Artigo 11.º — Visitas conduzidas por cidadãos comunitários",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 11.º — Visitas conduzidas por cidadãos comunitários\n\nAos cidadãos comunitários que prestem serviços de acompanhamento a grupos de turistas provenientes de outros Estados membros, e que no mesmo percurso turístico entrem e saiam da Região Autónoma dos Açores, é permitido conduzir visitas a locais de interesse turístico, independentemente da disponibilidade de guias-intérpretes, desde que possuam as habilitações literárias e profissionais legalmente exigidas no Estado de origem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160880869": {
+   "fragment_id": "160874133",
+   "type": 11,
+   "heading": "Artigo 12.º — Bolsa de profissionais",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 12.º — Bolsa de profissionais\n\n1 - Para efeito do disposto no n.º 3 do artigo 9.º e no n.º 2 do artigo 10.º, o serviço competente do departamento do Governo Regional com atribuições em matéria de turismo assegura a publicação em página electrónica de uma listagem, actualizada mensalmente, com os profissionais de informação turística na Região e das respectivas ilhas em que exercem a actividade.\n\n2 - Quando, para a realização de visitas a locais de interesse turístico, as empresas tenham que recorrer a profissionais não incluídos na listagem referida no número anterior, por motivo de inexistência de profissionais de informação turística na ilha em causa ou indisponibilidade dos mesmos, devem comunicá-lo, até dois dias antes, ao serviço competente do departamento do Governo Regional com atribuições em matéria de turismo, devendo conservar todos os meios de prova relativos aos contactos previamente efectuados, para efeitos de contratação de profissionais incluídos naquela lista.\n\n3- A comunicação referida no número anterior, deve identificar o nome do profissional que irá realizar a visita, nacionalidade, documento legalmente exigido no país de origem para o exercício da profissão e datas previstas para entrada e saída da Região.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160881586": {
+   "fragment_id": "160874138",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime transitório",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 15.º — Regime transitório\n\n1 - É criado um regime excepcional, de natureza transitória, para acesso à carteira profissional de guia-intérprete regional aos indivíduos que não possuindo as habilitações profissionais exigidas demonstrem o exercício ininterrupto das funções próprias da profissão na Região, nos termos seguintes:\n\na) Os indivíduos que, sendo titulares de formação de nível superior, ou de curso de formação profissional de nível iv, na área do turismo, demonstrem o exercício das funções de guia-intérprete regional durante um período ininterrupto de quatro anos anterior à entrada em vigor do presente diploma, e cuja ponderação do mérito curricular permita concluir uma plena integração na actividade;\n\nb) Os indivíduos que, possuindo como habilitação mínima o 9.º ano de escolaridade ou equivalente, demonstrem o exercício ininterrupto das funções próprias de guia-intérprete com início anterior à entrada em vigor da Portaria n.º 12/2006, de 26 de Janeiro, e obtenham aproveitamento em curso qualificante para o efeito criado.\n\n2 - O regime previsto no número anterior caduca:\n\na) 12 meses após a entrada em vigor do presente diploma, nas situações previstas na alínea a);\n\nb) 18 meses após a entrada em vigor do presente diploma, nas situações previstas na alínea b), sem prejuízo da conclusão de curso qualificante que se tenha iniciado antes do termo desse prazo.\n\n3 - A portaria referida no n.º 1 do artigo 5.º define quanto ao período transitório:\n\na) Os meios de prova admitidos para demonstração do exercício ininterrupto da actividade;\n\nb) O procedimento a observar;\n\nc) Os critérios a que obedece a ponderação do mérito curricular, na situação prevista na alínea a) do n.º 1;\n\nd) O plano de curso e de estudos e respectivo regime de avaliação de conhecimentos do curso qualificante previsto na alínea b) do n.º 1.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160881587": {
+   "fragment_id": "160874139",
+   "type": 11,
+   "heading": "Artigo 16.º — Manutenção de direitos",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 16.º — Manutenção de direitos\n\n1 - O disposto no presente diploma não prejudica o exercício da actividade dos profissionais de informação turística titulares de carteira profissional anteriormente emitida, salvo o disposto no número seguinte.\n\n2 - Os profissionais de informação turística titulares de carteira profissional emitida antes da entrada em vigor do presente diploma devem requerer, no prazo de 90 dias após a entrada em vigor do presente regime, ao serviço competente do departamento do Governo Regional com atribuições em matéria do trabalho a emissão do distintivo previsto no n.º 1 do artigo 7.º, juntando para o efeito cópia da carteira profissional de que são titulares.\n\n3 - Mantêm o reconhecimento de equiparação do plano de estudos os cursos de formação que, antes da entrada em vigor do presente diploma, o tenham sido por despacho emitido em conformidade com a Portaria n.º 79/2004, de 23 de Setembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160874273": {
+   "fragment_id": "160874143",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de Maio de 2011.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 30 de Maio de 2011.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "160881667": {
+   "fragment_id": "160880969",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Norma transitória",
+   "in_force_from": "2021-04-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2021/A - Diário da República n.º 65/2021, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2021-160769663), em vigor a partir de 2021-04-06"
+   ],
+   "markdown": "###### Artigo 15.º-A — Norma transitória\n\n1 - O presente regime excecional, de natureza transitória, visa a certificação profissional e integração dos indivíduos que, não possuindo as habilitações profissionais exigidas na Região Autónoma dos Açores, tenham concluído o 12.º ano de escolaridade e demonstrem ter exercido as funções próprias de guia-intérprete por um período mínimo de vinte e quatro meses nos quatro anos anteriores à data de entrada em vigor do presente diploma.\n\n2 - A certificação profissional referida no número anterior está condicionada à frequência de formação específica e aprovação em prova de aptidão.\n\n3 - Para efeitos do disposto no Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho, na sua atual redação, a certificação obtida ao abrigo do presente regime excecional é considerada habilitação profissional suficiente para o exercício da atividade.\n\n4 - O presente regime caduca seis meses após a publicação da sua respetiva regulamentação.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2021/A - Diário da República n.º 65/2021, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2021-160769663), em vigor a partir de 2021-04-06"
+  },
+  "160881668": {
+   "fragment_id": "160874139",
+   "type": 11,
+   "heading": "Artigo 16.º — Manutenção de direitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 16.º — Manutenção de direitos\n\n1 - O disposto no presente diploma não prejudica o exercício da actividade dos profissionais de informação turística titulares de carteira profissional anteriormente emitida, salvo o disposto no número seguinte.\n\n2 - Os profissionais de informação turística titulares de carteira profissional emitida antes da entrada em vigor do presente diploma devem requerer, no prazo de 90 dias após a entrada em vigor do presente regime, ao serviço competente do departamento do Governo Regional com atribuições em matéria do trabalho a emissão do distintivo previsto no n.º 1 do artigo 7.º, juntando para o efeito cópia da carteira profissional de que são titulares.\n\n3 - Mantêm o reconhecimento de equiparação do plano de estudos os cursos de formação que, antes da entrada em vigor do presente diploma, o tenham sido por despacho emitido em conformidade com a Portaria n.º 79/2004, de 23 de Setembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561), em vigor a partir de 2013-08-02"
+  },
+  "160881669": {
+   "fragment_id": "160874140",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\n1 - Os regulamentos necessários à boa execução do presente diploma são adoptados por portaria conjunta dos membros do Governo Regional competentes em matéria do turismo e do trabalho, num prazo máximo de 30 dias após a publicação do presente diploma.\n\n2 - Quando regulamente as condições de certificação específica para operar em reservas naturais, a portaria a que se refere o número anterior é emitida conjuntamente pelos membros do Governo Regional competentes em matéria de turismo, trabalho e ambiente."
+  },
+  "160881670": {
+   "fragment_id": "160874141",
+   "type": 11,
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 8/2004/A, de 23 de Março;\n\nb) A Portaria n.º 79/2004, de 23 de Setembro."
+  },
+  "160881671": {
+   "fragment_id": "160874142",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte à publicação da regulamentação referida no artigo 17.º"
+  }
+ }
+}

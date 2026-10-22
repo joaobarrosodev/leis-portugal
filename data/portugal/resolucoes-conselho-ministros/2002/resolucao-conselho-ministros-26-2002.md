@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:272426:por
+title: Resolução do Conselho de Ministros n.º 26/2002
+short_title: null
+summary: Estabelece para a implementação da Rede Nacional de Emergência e Segurança a denominação do projecto e da rede como
+  SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 26/2002
+official_date: null
+publication_date: '2002-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/2002, Série I-B de 2002-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 942 - 943
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/02/030b00/09420943.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/26/2002/02/05/p/dre/pt/html
+  oj: null
+  dre: '272426'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/26-2002-272426
+  internal: pt:dre:272426:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2002-272426
+  metadata_url: https://data.dre.pt/eli/resolconsmin/26/2002/02/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2002-272426
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-08-16T00:00:00Z'
+integrity:
+  source_sha256: cc73993d7cd4142667315845012028c9fb0682e4003a3b536d9841893c04200e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-26-272426.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Administração Interna
+- SIRESP
+- Definição de Competências
+- Segurança Pública
+- Instituto das Comunicações de Portugal
+- Madeira.região Autónoma
+- Comunicações
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:538834:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 26/2002
+
+Em Portugal existem várias entidades, tuteladas por diferentes ministérios, que exercem atribuições nos domínios da emergência e segurança. Instrumento basilar para o exercício eficiente da sua actividade corrente são as comunicações. A situação actual das diferentes redes de comunicações, de emergência e de segurança, suscita problemas derivados da vida útil dos equipamentos utilizados, da tecnologia analógica que as suportam e da fragmentação/ausência de integração das principais funcionalidades.
+
+Atento a esta situação o Governo, através da [Resolução do Conselho de Ministros n.º 88/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-1999-423040), de 22 de Julho, decidiu implementar uma rede, móvel, única, nacional, com base na tecnologia trunking digital, para uso partilhado das entidades com funções no domínio da emergência e segurança.
+
+A existência de uma rede única permite satisfazer, de forma eficiente, os requisitos operacionais dos serviços de emergência e segurança ao nível da qualidade, fiabilidade e segurança das comunicações e constitui também instrumento apto a assegurar a melhor racionalização dos recursos financeiros e a optimização da utilização do espectro radioeléctrico.
+
+A resolução referida atribui ao Ministério da Administração Interna a coordenação do processo conducente ao estabelecimento e fornecimento da rede. Através do despacho n.º 3645/2001, de 26 de Janeiro, do Secretário de Estado Adjunto do Ministro da Administração Interna, foi constituído um grupo de trabalho tendo por missão elaborar estudos e perspectivar propostas de solução para a arquitectura física, lógica e institucional de suporte à rede.
+
+No âmbito das suas funções, o grupo de trabalho ouviu todos os potenciais utilizadores da rede e pediu a todos os eventuais parceiros, interessados no projecto, a caracterização das actividades, fornecimentos e soluções que já tinham estudado. O estudo efectuado levou à caracterização de uma infra-estrutura física, da sua morfologia e os requisitos de operação das principais aplicações e à equação de seis cenários alternativos para a sua implementação no tempo e no espaço.
+
+Do mesmo modo, tendo presente a natureza dos valores a proteger (emergência e segurança), as tarefas e actividades a cumprir e as tecnologias a utilizar, conceberam-se e caracterizaram-se três soluções institucionais para o enquadramento do projecto e, dentro destas soluções, estudaram-se oito cambiantes organizacionais e funcionais. Para esta abordagem foram também carreadas todas as experiências e soluções estrangeiras em projectos similares, algumas delas visitadas, bem como informação e conhecimentos obtidos em conferências e seminários diversos.
+
+As soluções caracterizadas partem da análise das redes actualmente existentes, adoptam os princípios de utilizador-pagador e de parceria, na sua exploração. Considera-se ainda que as soluções, pelos impactos conhecidos e expectáveis, devem propiciar vantagens operacionais substantivas, derivadas da reestruturação, organização e modernização de circuitos e procedimentos.
+
+O ICP, autoridade nacional de comunicações, integrou o grupo de trabalho e o seu papel, presente e futuro, neste projecto foi devidamente equacionado.
+
+Uma decisão do Grupo Schengen - reconhecida e publicada pela União Europeia em momento posterior à elaboração da [Resolução do Conselho de Ministros n.º 88/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-1999-423040), de 22 de Julho - aceitando a admissibilidade da tecnologia Tetrapol para as redes de emergência e segurança, na banda 380-400 MHz, veio colocar constrangimentos legais decorrentes de eventuais condicionantes tecnológicas resultantes da adopção literal daquela resolução. Estes constrangimentos foram confirmados pelos pareceres jurídicos solicitados pelo Ministério da Administração Interna que afirmam ser um standard um instrumento de avaliação que não pode vir a limitar a concorrência.
+
+Face a estes constrangimentos legais, à maturação das tecnologias de trunking digital a todas as experiências estrangeiras analisadas, às possíveis vantagens concorrenciais na fase da aquisição da infra-estrutura e às últimas aquisições efectuadas na Europa, considerou-se que, a par da tecnologia TETRA, também deverão ser ponderadas, para efeitos de suporte da rede de emergência e segurança, outras tecnologias equivalentes. Considerou-se ainda que a rede de emergência e segurança deverá utilizar, sempre que possível, as infra-estruturas de suporte actualmente existentes.
+
+Por último, considerou-se importante fixar a denominação do projecto, afectando a essa denominação um conceito, pelo que se adoptou a expressão SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal, como sistema único, nacional, partilhado, que assegura a satisfação das necessidades de comunicações das forças e serviços de emergência e de segurança, satisfazendo a intercomunicação e a interoperabilidade entre as diversas forças e serviços e, em caso de emergência, permitir a centralização do comando e da coordenação.
+
+Assim, nos termos da alínea g) do artigo 199.º da Constituição e tendo em conta o carácter de urgência da definição dos parâmetros que permitirão a concretização em tempo útil da Rede Nacional de Emergência e Segurança, o Governo resolve:
+
+1 - Denominar o projecto, e a futura rede nacional de emergência e segurança, de SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal.
+
+2 - Definir o SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal como um sistema único, baseado numa só infra-estrutura, nacional, partilhado, que deve assegurar a satisfação das necessidades de comunicações das forças e serviços de emergência e de segurança, satisfazendo a intercomunicação e a interoperabilidade entre as diversas forças e serviços e, em caso de emergência, permitir a centralização do comando e da coordenação.
+
+3 - Estabelecer que, sem prejuízo de outras que venham a ser identificadas, o SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal será partilhado pelas seguintes entidades: associações humanitárias de bombeiros voluntários, Cruz Vermelha Portuguesa, Direcção-Geral das Florestas, Direcção-Geral dos Serviços Prisionais, Exército, Força Aérea Portuguesa, Guarda Nacional Republicana, Instituto da Conservação da Natureza, Inspecção-Geral das Actividades Económicas, Instituto Nacional de Emergência Médica, Instituto Nacional de Medicina Legal, Marinha, órgãos da autoridade marítima nacional, Polícia Judiciária, Polícia de Segurança Pública, Serviço de Estrangeiros e Fronteiras, Serviço de Informações de Segurança, Serviço Nacional de Bombeiros e Serviço Nacional de Protecção Civil.
+
+4 - Determinar que até à implementação do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal é garantido o acesso às faixas afectas às comunicações de emergência e segurança, para o efeito reservadas pelo ICP, autoridade nacional de comunicações, às entidades referidas no número anterior, que o requeiram, e que, cumulativamente, utilizem tecnologia trunking digital e se comprometam a transferir a gestão e a utilização das estações e os equipamentos, nos termos que vierem a ser acordados entre as partes, para a entidade que vier a deter a infra-estrutura única do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal.
+
+5 - Adoptar, para a exploração e utilização do sistema, o princípio do utilizador-pagador.
+
+6 - Considerar que, a par da tecnologia trunking digital TETRA, serão ainda ponderadas, para efeitos de suporte da rede de emergência e segurança, outras tecnologias equivalentes.
+
+7 - Estabelecer que a entidade que vier a deter a infra-estrutura única do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal, tendo em conta a indispensável rentabilização das infra-estruturas de telecomunicações existentes e que sejam tecnicamente compatíveis com o SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal, na fase de implementação do Sistema, deverá acordar, com as entidades referidas no n.º 3, os termos de utilização dos meios de que sejam detentoras e que possam ser integradas no suporte do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal.
+
+8 - Estabelecer que toda a infra-estrutura tecnológica básica do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal deverá ser instalada em duas fases e durante cinco anos.
+
+Assim ter-se-á: 1.ª fase - a executar em 2003 e 2004 - serão instaladas estações de base e toda a infra-estrutura básica correspondente nos distritos, do continente, de Lisboa, Porto, Braga, Coimbra, Aveiro, Leiria e Faro; 2.ª fase - a executar em 2005, 2006 e 2007 - serão instaladas, em conformidade com o cenário de implementação a adoptar, as restantes estações de base e toda a infra-estrutura prevista nos restantes 11 distritos do continente. Em paralelo, e em articulação com os Governos Regionais das Regiões Autónomas dos Açores e da Madeira, será elaborado um plano específico para instalar as estações de base e toda a infra-estrutura básica correspondente nas Regiões Autónomas dos Açores e da Madeira.
+
+9 - Fixar que os requisitos da cobertura radioeléctrica exigida para o SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal deverão possibilitar as ligações a partir de equipamentos portáteis de 1 W em 95% dos lugares e 95% do tempo (zonas urbanas), 95% dos lugares e 95% do tempo (zonas suburbanas e principais estradas e vias), 90% dos lugares e 95% do tempo (zonas rurais), penetração nos edifícios a 80% (zonas urbanas) e a 50% (zonas rurais). Nas zonas rurais ter-se-á de ter em conta a existência de instalações que justifiquem uma maior penetração de sinal. Ter-se-á também de possibilitar ligações nas zonas suburbanas, rurais e itinerários rodoviários principais com rádios veiculares de 10 W. A redundância dos elementos essenciais da rede deverá garantir uma disponibilidade técnica de cerca de 99%.
+
+10 - Definir que dados os tipos de operação rádio envolvidas (full-duplex, semi-duplex e modo directo) o SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal deverá ter redundância nas ligações fixas (entre comutadores) e redundância parcial nas estações de base, bem como permitir comunicação encriptada em toda a rede, assegurar confidencialidade, obedecer a directivas europeias e acordos internacionais, garantir a interoperabilidade do Sistema e dos terminais e obedecer aos requisitos funcionais básicos de comunicações.
+
+11 - Determinar que para assegurar a exploração do SIRESP - Sistema Integrado das Comunicações de Emergência e Segurança de Portugal deverão ser constituídas duas entidades distintas: um conselho de utilizadores, de carácter exclusivamente público, integrando representantes de todos os utilizadores da rede e presidido por um elemento indicado pelo Ministério da Administração Interna, o qual presidirá também à entidade operacional de segurança a definir pelo Governo, e uma entidade empresarial tendo por base uma parceria público-privada, respeitando o princípio utilizador-pagador e prosseguindo regras de gestão que visem o autofinanciamento.
+
+12 - Atribuir ao Ministério da Administração Interna, em articulação com o ICP, autoridade nacional de comunicações, a coordenação de todo o processo conducente à implementação do projecto SIRESP - Sistema Integrado das Comunicações de Emergência e Segurança de Portugal, bem como da migração tecnológica das redes existentes, devendo, para o efeito, propor e levar a cabo, nos termos desta resolução e tendo em atenção o estudo produzido, as medidas necessárias à sua concretização.
+
+13 - Revogar a [Resolução do Conselho de Ministros n.º 88/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/88-1999-423040), de 22 de Julho.
+
+Presidência do Conselho de Ministros, 10 de Janeiro de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

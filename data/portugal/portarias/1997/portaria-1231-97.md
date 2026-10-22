@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:403752:por
+title: Portaria n.º 1231/97
+short_title: null
+summary: Aprova o Regulamento da Comissão do Formulário Hospitalar Nacional de Medicamentos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 1231/97
+official_date: null
+publication_date: '1997-12-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/1997, Série I-B de 1997-12-15
+  number: '288'
+  series: I
+  supplement: null
+  pages: 6619 - 6621
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/12/288b00/66196621.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1231/1997/12/15/p/dre/pt/html
+  oj: null
+  dre: '403752'
+  dre_path: /dr/detalhe/portaria/1231-1997-403752
+  internal: pt:dre:403752:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1231-1997-403752
+  metadata_url: https://data.dre.pt/eli/port/1231/1997/12/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1231-1997-403752
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-12-15T00:00:00Z'
+integrity:
+  source_sha256: 7dc33259a27be1dd7724f36d6f3f927af064624e7b2b24f3bf85f3418191adad
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-1231-403752.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Infarmed
+- Formulário Hospitalar Nacional de Medicamentos
+- Comissão do Formulário Hospitalar Nacional de Medicamentos
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/353/1993/10/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/353/1993/10/07/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1231/97
+
+de 15 de Dezembro
+
+O Formulário Hospitalar Nacional de Medicamentos é uma publicação oficial de divulgação no âmbito dos serviços de saúde que o adoptem e que, através da selecção, feita por peritos, dos medicamentos que à luz de determinado conjunto de critérios foram considerados como os mais aconselháveis, tem como objectivo ajudar o médico a escolher o medicamento a prescrever, fornecendo-lhe, para tanto e numa perspectiva de orientação e disciplina terapêutica, uma informação clara e isenta sobre o mesmo.
+
+A elaboração e actualização do Formulário, desde 1962 atribuída a uma comissão, inicialmente designada por Comissão Permanente do Formulário Hospitalar de Medicamentos, compete actualmente à Comissão do Formulário Hospitalar Nacional de Medicamentos, órgão consultivo do Instituto Nacional da Farmácia e do Medicamento, adiante designado por INFARMED, sendo a sua composição, competência e funcionamento definidos por portaria do Ministro da Saúde.
+
+Assim, nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 353/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1993-645306), de 7 de Outubro:
+
+Manda o Governo, pela Ministra da Saúde, que seja aprovado o Regulamento da Comissão do Formulário Hospitalar Nacional de Medicamentos, anexo a esta portaria e que dela faz parte integrante.
+
+Ministério da Saúde.
+
+**Assinada em 13 de Novembro de 1997.**
+
+Pela Ministra da Saúde, José Eduardo Arcos Gomes dos Reis, Secretário de Estado da Saúde.
+
+## ANEXO — Regulamento da Comissão do Formulário
+
+Hospitalar Nacional de Medicamentos
+
+###### Artigo 1.º — Natureza e composição
+
+1 - A Comissão do Formulário Hospitalar Nacional de Medicamentos, a seguir designada por Comissão, é um órgão consultivo do Instituto Nacional da Farmácia e do Medicamento (INFARMED).
+
+2 - Os membros da Comissão são escolhidos de entre técnicos e personalidades de reconhecido mérito nos domínios das ciências médicas e farmacêuticas, com especial relevo nas áreas da farmacologia e terapêutica, farmacologia clínica e farmácia hospitalar.
+
+3 - A Comissão poderá recorrer a peritos sempre que tal se revele necessário para a emissão de pareceres em áreas especializadas.
+
+###### Artigo 2.º — Competência
+
+À Comissão compete elaborar, rever, actualizar e acompanhar a publicação do Formulário Hospitalar Nacional de Medicamentos, bem como emitir pareceres sobre os assuntos com estes conexos, por sua iniciativa ou a solicitação do conselho de administração do INFARMED.
+
+###### Artigo 3.º — Direcção
+
+1 - A Comissão funciona sob a direcção de um presidente, coadjuvado por um vice-presidente, a designar de entre os seus membros e após a auscultação dos mesmos pelo conselho de administração do INFARMED.
+
+2 - O presidente representa a direcção da Comissão e é substituído, nas suas faltas e impedimentos, pelo vice-presidente.
+
+3 - Sem prejuízo das competências que lhe possam ser delegadas pela direcção, ao presidente compete convocar e presidir às reuniões plenárias da Comissão.
+
+###### Artigo 4.º — Competências da direcção
+
+Compete à direcção da Comissão:
+
+a) Responder perante o conselho de administração do INFARMED sobre o andamento dos trabalhos e sobre o desenvolvimento das suas actividades;
+
+b) Dirigir os trabalhos da Comissão;
+
+c) Representar oficialmente a Comissão.
+
+###### Artigo 5.º — Funcionamento
+
+1 - A Comissão funciona em reuniões plenárias.
+
+2 - A Comissão delibera por unanimidade e, na falta desta, por maioria absoluta de votos dos membros presentes na reunião.
+
+3 - Os peritos podem participar, sem direito a voto, nas reuniões em que forem tratadas as matérias sobre as quais emitiram parecer.
+
+###### Artigo 6.º — Secretário executivo
+
+1 - A gestão administrativa da Comissão é assegurada por um secretário executivo a quem compete secretariar a Comissão, designadamente proceder à distribuição do trabalho pelos seus membros, secretariar a direcção e apoiar as reuniões plenárias.
+
+2 - O secretário executivo é nomeado pelo conselho de administração do INFARMED.
+
+###### Artigo 7.º — Nomeação e mandato
+
+1 - Os membros da Comissão e os peritos são nomeados por despacho do Ministro da Saúde, sob proposta do conselho de administração do INFARMED.
+
+2 - Os membros da Comissão e os peritos não pertencentes ao Ministério da Saúde são nomeados por despacho conjunto do Ministro da Saúde e do respectivo ministro da tutela.
+
+3 - O mandato dos membros da Comissão, bem como o dos peritos, tem a duração de três anos, renovável, podendo cessar a todo o tempo.
+
+###### Artigo 8.º — Incompatibilidades
+
+Os membros e peritos da Comissão, bem como o seu secretário executivo, não podem ter interesses financeiros ou outros na indústria farmacêutica que possam afectar a sua imparcialidade no exercício das funções, devendo quaisquer interesses indirectos relacionados com aquela indústria ser declarados e registados no INFARMED.
+
+###### Artigo 9.º — Remuneração
+
+Os membros da Comissão, bem como os peritos, são remunerados nos termos fixados no n.º 5 do artigo 7.º do [Decreto-Lei n.º 353/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1993-645306), de 7 de Outubro.
+
+###### Artigo 10.º — Disposição final
+
+Os actuais membros da Comissão mantêm-se em funções até à nomeação dos novos membros ao abrigo do artigo 7.º do presente Regulamento.

@@ -1,0 +1,120 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:386014:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889496525",
+ "dre_path": "/dr/detalhe/portaria/459-1984-386014",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1984-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889498678"
+   ]
+  },
+  {
+   "date": "1984-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520032:por",
+     "title": "Declaração",
+     "published": "1984-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-520032"
+    }
+   ],
+   "changes": [
+    "Retifica 1.º"
+   ],
+   "fragments": [
+    "889498678",
+    "889498699",
+    "889498681",
+    "889498682",
+    "889498683",
+    "889498684",
+    "889498685",
+    "889498686",
+    "889498679"
+   ]
+  }
+ ],
+ "fragments": {
+  "889498678": {
+   "fragment_id": "889496526",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 459/84\n\nde 14 de Julho\n\nAo abrigo do disposto no n.º 2 do artigo 27.º do Decreto-Lei n.º 422/83, de 3 de Dezembro:\n\nManda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo, o seguinte:"
+  },
+  "889498699": {
+   "fragment_id": "889496528",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1984-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 202/1984, 1º Suplemento, Série I de 1984-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-520032), em vigor a partir de 1984-08-31"
+   ],
+   "markdown": "###### 1.º\n\nA Comissão Consultiva da Concorrência, a que se refere o n.º 1 do artigo 27.º do Decreto-Lei n.º 422/83, de 3 de Dezembro, é constituída por:\n\na) 1 representante do Instituto Nacional de Defesa do Consumidor;\n\nb) 1 representante da Confederação da Indústria Portuguesa;\n\nc) 1 representante da Confederação dos Agricultores de Portugal;\n\nd) 1 representante da Confederação do Comércio Português;\n\ne) 1 representante dos consumidores, indicado por uma associação de consumidores representada no conselho geral do Instituto Nacional de Defesa do Consumidor que tenha como objectivo estatutário a defesa dos consumidores em geral e não exerça actividades comerciais;\n\nf) 1 representante do sector cooperativo de consumo, a designar pela Secretaria de Estado do Fomento Cooperativo, atendendo à implantação das cooperativas de consumo existentes;\n\ng) 1 representante do sector cooperativo de produção, a designar pela Secretaria de Estado do Fomento Cooperativo.\n\n> Nota: [2.º, Portaria n.º 632/84 - Diário da República n.º 195/1984, Série I de 1984-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/632-1984-380966) Os membros efectivos da Comissão, enumerados no n.º 1.º da presente portaria, poderão designar um suplente, que os representará nas suas faltas e impedimentos.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 202/1984, 1º Suplemento, Série I de 1984-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-520032), em vigor a partir de 1984-08-31"
+  },
+  "889498681": {
+   "fragment_id": "889496529",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO presidente da Comissão poderá solicitar, para cada reunião, aos departamentos de Estado interessados nos assuntos a debater a indicação de representantes, que participarão nos trabalhos da Comissão sem tomar parte em eventuais deliberações."
+  },
+  "889498682": {
+   "fragment_id": "889496530",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nTerão igualmente assento nas reuniões da Comissão Consultiva os membros do Conselho da Concorrência e o director-geral da Concorrência e Preços, sem tomarem parte em eventuais deliberações."
+  },
+  "889498683": {
+   "fragment_id": "889496531",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nOs representantes mencionados nas alíneas a) a g) do n.º 1.º devem ser designados pelas entidades ou sectores a quem compete essa designação no prazo máximo de 30 dias a contar do dia seguinte ao da publicação desta portaria."
+  },
+  "889498684": {
+   "fragment_id": "889496532",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nOs membros da Comissão Consultiva da Concorrência elegem de entre si o presidente."
+  },
+  "889498685": {
+   "fragment_id": "889496533",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nO director-geral da Concorrência e Preços convocará as reuniões a pedido do presidente ou enquanto este não estiver eleito."
+  },
+  "889498686": {
+   "fragment_id": "889496534",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nEsta portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério do Comércio e Turismo."
+  },
+  "889498679": {
+   "fragment_id": "889496527",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 2 de Julho de 1984.\n\nO Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto."
+  }
+ }
+}

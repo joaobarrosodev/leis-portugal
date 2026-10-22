@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:561858:por
+title: Resolução n.º 219/81
+short_title: null
+summary: Estabelece os requisitos a que deverão obedecer quer os prédios, quer os peticionários que desejem usufruir destes
+  dois tipos de aplicação de financiamento previstos no Programa PAR
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 219/81
+official_date: null
+publication_date: '1981-10-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 238/1981, Série I de 1981-10-16
+  number: '238'
+  series: I
+  supplement: null
+  pages: 2760 - 2761
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23800/27602761.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '561858'
+  dre_path: /dr/detalhe/resolucao/219-1981-561858
+  internal: pt:dre:561858:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/219-1981-561858
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/219-1981-561858
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-03-22T00:00:00Z'
+integrity:
+  source_sha256: e8001ea533971759b2bde1019fec97c1b0d335164b5107e384102eef2477e461
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-219-561858.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:333336:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 219/81
+
+Nos termos do n.º 2 da Resolução do Conselho de Ministros n.º 159/80, de 15 de Abril, o Programa de Financiamento a Arrendatários Rurais (PAR) comportará, para além do seu objectivo principal, ainda o seguinte:
+
+a) Financiamento ao pagamento de tornas a herdeiros directos;
+
+b) Financiamento de acções de emparcelamento.
+
+O aumento de áreas agrícolas, por acções de emparcelamento de prédios contíguos, aquisição de fracções ou eliminação de encravados, é medida que aponta para o gradual desaparecimento de pequenas ou pequeníssimas empresas inviáveis.
+
+Por outro lado, a indivisão de qualquer exploração agrícola constituindo uma unidade económica e cuja gestão era assegurada por um empresário que faleceu poderá ser garantida, embora o extinto deixe mais de um descendente.
+
+De acordo com a parte inicial da [Resolução n.º 245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944), de 3 de Julho, torna-se necessário desenvolver estas perspectivas de financiamento do Programa.
+
+Para isso se estabelecem agora os requisitos a que deverão obedecer quer os prédios, quer os peticionários que desejem usufruir destes dois tipos de aplicação de financiamentos previstos no Programa PAR.
+
+Nestes termos, o Conselho de Ministros, reunido em 1 de Outubro de 1981, resolveu:
+
+1 - Condições de acesso ao crédito para acções de emparcelamento:
+
+1.1 - Requisitos que o peticionário deve satisfazer para a formulação do pedido de financiamento:
+
+1.1.1 - Ser empresário de uma exploração agrícola, pecuária ou florestal com viabilidade técnica e económica reconhecida pelos competentes serviços do Ministério da Agricultura, Comércio e Pescas (MACP).
+
+1.1.2 - Não ter à data da entrega do pedido de financiamento idade superior a 60 anos.
+
+1.1.3 - Existir acordo e compromisso do proprietário para a venda, por determinada importância, do prédio rústico mencionado no pedido de financiamento.
+
+1.1.4 - Deve o peticionário enquadrar-se em, pelo menos, uma das seguintes condições:
+
+a) Ser co-proprietário do prédio a transaccionar;
+
+b) Ser proprietário de um prédio rústico confinante com aquele que vai ser transaccionado;
+
+c) Ser proprietário de um prédio rústico que tenha terrenos (ou árvores) encravados, desde que o financiamento pedido se destine à compra desses encravados;
+
+d) Ser proprietário de terrenos (ou árvores) encravados dentro do prédio rústico a transaccionar.
+
+1.2 - Condições a observar relativamente aos prédios rústicos:
+
+1.2.1 - Estarem registados na conservatória do registo predial em nome do proprietário identificado no pedido de financiamento.
+
+1.2.2 - Estarem livres de quaisquer ónus, encargos ou responsabilidades à data da celebração da escritura de venda.
+
+1.2.3 - Irem inserir-se em unidades agrícolas, pecuárias ou florestais com viabilidade técnico-económica devidamente reconhecida pelos competentes serviços do MACP.
+
+1.2.4 - Terem uma dimensão máxima tal que a sua área adicionada à já possuída pelo peticionário não perfaça um total que exceda em mais de 50% o mínimo de superfície considerado necessário, em face das condições locais de ordem agrária e demográfica, para uma exploração familiar equilibrada.
+
+1.2.5 - Estarem situadas nas áreas das regiões agrícolas de Entre Douro e Minho, Trás-os-Montes, Beira Litoral ou Beira Interior.
+
+Estas limitações geográficas poderão, no entanto, ser progressivamente eliminadas, de acordo com os dados da experiência concreta.
+
+1.2.6 - Deve o prédio rústico enquadrar-se em, pelo menos, uma das seguintes condições:
+
+a) Ser fracção de prédio rústico ou prédio rústico indiviso e completar a unidade de descrição predial;
+
+b) Ser confinante com o prédio ou prédios rústicos já possuídos pelo peticionário;
+
+c) Ser prédio rústico encravado e estar onerado com direito de passagem pelo prédio do peticionário, conforme a base VI da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1926;
+
+d) Ser parte integrante de quinhão ideal do adquirente por partilha ou divisão de coisa comum, se delas resultar a manutenção de uma unidade predial ou de uma exploração agrícola economicamente viável que não possa fraccionar-se sem inconveniente;
+
+e) Resultar da sua transacção uma rectificação de extremas, se:
+
+1) O adjacente da parcela resultante do fraccionamento for proprietário de terreno contíguo ao adquirido, desde que a área da parte restante do terreno fraccionado corresponda, pelo menos, a uma unidade de cultura;
+
+2) For fracção de terreno desintegrado para rectificação de extremas.
+
+2 - Condições de acesso ao crédito para pagamento de tornas:
+
+2.1 - Requisitos que o peticionário deve satisfazer para a formulação do pedido de financiamento:
+
+2.1.1 - Ser empresário de uma exploração agrícola, pecuária ou florestal com viabilidade técnica e económica reconhecida pelos competentes serviços do MACP.
+
+2.1.2 - Não ter à data da entrega do pedido de financiamento idade superior a 60 anos.
+
+2.1.3 - Ser co-herdeiro directo do vendedor.
+
+2.1.4 - Existir acordo e compromisso entre os co-herdeiros quanto ao valor a pagar aos cedentes.
+
+2.2 - Condições a observar relativamente aos prédios rústicos:
+
+2.2.1 - Estarem registados na conservatória do registo predial em nome do proprietário falecido, identificado no pedido de financiamento e de quem o peticionário é co-herdeiro directo.
+
+2.2.2 - Estarem livres de quaisquer ónus, encargos ou responsabilidades à data da celebração da escritura de venda.
+
+2.2.3 - Irem inserir-se em unidades agrícolas, pecuárias ou florestais com viabilidade técnico-económica devidamente reconhecida pelos competentes serviços do MACP.
+
+2.2.4 - Estarem situados nas áreas das regiões agrícolas de Entre Douro e Minho ou Trás-os-Montes.
+
+Estas limitações geográficas poderão, no entanto, ser progressivamente eliminadas, de acordo com os dados da experiência concreta.
+
+3 - A transmissão do prédio ou prédios rústicos deverá processar-se com base no regime administrativo estabelecido no n.º 3 da [Resolução n.º 245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944), de 3 de Julho, com as necessárias adaptações que as presentes operações impõem (não há rendeiros ou senhorios, mas tão-só compradores e vendedores).
+
+4 - O regime financeiro do Programa PAR é também idêntico ao estabelecido no n.º 4 da resolução referida no número anterior, com as mesmas ressalvas.
+
+5 - As dúvidas e omissões que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano ou por despacho conjunto dos Ministros de Estado e das Finanças e do Plano e da Agricultura, Comércio e Pescas, conforme os casos.
+
+Presidência do Conselho de Ministros, 7 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

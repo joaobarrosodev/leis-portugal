@@ -1,0 +1,606 @@
+---
+schema_version: '1.0'
+id: pt:dre:322286:por
+title: Decreto-Lei n.º 423/91
+short_title: null
+summary: Estabelece o regime jurídico de protecção às vítimas de crimes violentos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 423/91
+official_date: null
+publication_date: '1991-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1991, Série I-A de 1991-10-30
+  number: '250'
+  series: I
+  supplement: null
+  pages: 5576 - 5581
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/10/250a00/55765581.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2010-01-01'
+version_history:
+  file: decreto-lei-423-91.versoes.json
+  count: 7
+  source_lastmod: '2024-09-10'
+  versions:
+  - date: '1991-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-09-02'
+    amending: pt:dre:532443:por
+    amending_title: Lei n.º 136/99
+    changes:
+    - Altera Artigo 3.º
+  - date: '2004-03-27'
+    amending: pt:dre:541268:por
+    amending_title: Decreto-Lei n.º 62/2004
+    changes:
+    - Altera Artigo 2.º
+  - date: '2006-07-22'
+    amending: pt:dre:539243:por
+    amending_title: Lei n.º 31/2006
+    changes:
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Adita Artigo 12.º-C
+    - Adita Artigo 12.º-D
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+  - date: '2008-01-01'
+    amending: pt:dre:640911:por
+    amending_title: Decreto-Lei n.º 303/2007
+    changes:
+    - Altera Artigo 2.º
+  - date: '2008-09-01'
+    amending: pt:dre:247448:por
+    amending_title: Decreto-Lei n.º 34/2008
+    changes:
+    - Altera Artigo 13.º
+  - date: '2010-01-01'
+    amending: pt:dre:489757:por
+    amending_title: Lei n.º 104/2009
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/423/1991/p/cons/20090914/pt/html
+  oj: null
+  dre: '322286'
+  dre_path: /dr/detalhe/decreto-lei/423-1991-322286
+  internal: pt:dre:322286:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1991-322286
+  metadata_url: https://data.dre.pt/eli/dec-lei/423/1991/p/cons/20090914/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-34474575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-34474575
+  retrieved_at: '2026-10-22T13:15:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-09-10T00:00:00Z'
+integrity:
+  source_sha256: caf3d3983c2e1a5fa8ddd487b6de55ac736b9e2dcf8dcf20c5d9472bdd56cad9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:15:08Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-423-91.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crime
+- Proteção Civil
+- Código Civil
+- Código de Processo Penal
+- Violência
+- Comissão
+- Indemnização
+- Regime Jurídico
+- Responsabilidade Civil
+- Vítima
+relationships:
+- type: amended_by
+  target: pt:dre:532443:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/136-1999-532443
+  date: '1999-08-28'
+- type: amended_by
+  target: pt:dre:541268:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2004-541268
+  date: '2004-03-22'
+- type: amended_by
+  target: pt:dre:539243:por
+  label: Adita Artigo 12.º-A; Adita Artigo 12.º-B; Adita Artigo 12.º-C; Adita Artigo 12.º-D; Altera Artigo 1.º; Altera Artigo
+    2.º; Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243
+  date: '2006-07-21'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:489757:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757
+  date: '2009-09-14'
+- type: cites
+  target: celex:32004L0080
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64/1991/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64/1991/08/13/p/dre
+article_structure:
+  article_count: 23
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:15:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 423/91
+
+O artigo 129.º do Código Penal prevê a criação de um «seguro social» destinado a assegurar a indemnização do lesado, quando a mesma não possa ser satisfeita pelo delinquente. Dá-se agora um primeiro passo no sentido de concretizar esse objectivo, tendo em vista, em consonância com actos internacionais, nomeadamente do Conselho da Europa, indemnizar as vítimas de criminalidade violenta.
+
+Limita-se a intervenção do Estado às sequelas patrimoniais das lesões corporais graves, desde que o prejuízo tenha provocado uma perturbação considerável do nível de vida do lesado. Apenas em relação aos «auxiliares benévolos», bem como às pessoas que tenham sofrido danos ao colaborarem com as autoridades na prevenção da infracção ou na detenção do delinquente, se admite a reparação de danos de coisas de considerável valor. Todavia, o direito de requerer assistência por parte do Estado mantém-se mesmo que não seja conhecida a identidade do autor ou que este, por outro motivo (v. g. inimputabilidade), não possa ser acusado ou condenado.
+
+Devendo a reparação a cargo do Estado estar sujeita a limites máximos, pareceu razoável utilizar como parâmetros os estabelecidos em matéria de responsabilidade pelo risco quanto aos acidentes causados por veículos de circulação terrestre. Não se afigurou, todavia, realista a proporção entre a indemnização em forma de capital e de renda estabelecida no artigo 508.º, n.os 1 e 2, do Código Civil (equivalendo esta segunda a 6,25% daquele capital). Daí o ter-se aproveitado para retocar aquela disposição, elevando os limites da indemnização sob a forma de renda.
+
+Apesar de previsto no artigo 129.º do Código Penal com carácter geral, pensa-se que o seguro social deverá limitar a sua intervenção, numa primeira fase, ao âmbito previsto na Resolução (77)27, do Conselho da Europa, bem como na Convenção Europeia Relativa ao Ressarcimento das Vítimas de Infracções Violentas (1983).
+
+É indispensável referir que a indemnização pelo Estado das vítimas de crimes se baseia numa ideia de «solidariedade social», não podendo aceitar-se a teoria de uma «responsabilidade do Estado», ao qual, na luta contra a criminalidade, apenas cabe uma obrigação de meios, não de resultado. Sobre este ponto se pronunciam abertamente os peritos do Conselho da Europa.
+
+Embora estes peritos considerem que, em teoria, seria preferível um «direito primário», não deixam de reconhecer que, na generalidade dos países, a intervenção do Estado é supletiva, o que parece de acolher, em concordância com o artigo 129.º do Código Penal.
+
+Não deverá, porém, ser-se exigente na prova de insolvência daquele, que constitui a regra, criando-se obstáculos não razoáveis à indemnização.
+
+Por outro lado, o novo regime não pretende substituir, por via de uma eventual qualificação como lex specialis, outras fontes do direito a uma reparação, porventura mais favoráveis (v. g. por o acto poder ser considerado como «acto humanitário ou de dedicação à causa pública»), antes constituindo um regime mínimo a que qualquer cidadão tem direito.
+
+Por estas duas razões, parece de manter o requisito de não poder ser obtida por outras vias uma reparação efectiva.
+
+As «disposições mínimas» da referida Convenção apenas referem os «actos intencionais de violência», devendo a formulação deixar claro que o que releva são os elementos externos, objectivos, do facto ilícito de natureza criminal, não se requerendo a imputabilidade do agente, cuja identidade pode, aliás, não ser conhecida.
+
+Em consonância com diversas legislações estrangeiras, esta delimitação pode também alcançar-se ligando o acto intencional de violência à consequência, resultante directamente do facto, de «lesões graves no corpo ou na saúde» (ofensa da «integridade física»), exigindo-se um mínimo de gravidade objectiva, v. g. uma incapacidade permanente ou uma incapacidade total com a duração de, no mínimo, de 30 dias.
+
+Ressarcível deve ser, apenas, o dano patrimonial resultante da lesão corporal ou da morte, com exclusão do dano moral.
+
+Além das vítimas directas e das pessoas a cargo, no caso de morte (e estas deverem ser, exclusivamente, aquelas a quem a lei civil concede um direito a alimentos), coloca-se essencialmente o problema de saber se devem ser protegidas:
+
+1) Aquelas que sofreram prejuízos ao prestar socorro a indivíduos cuja vida ou integridade física se encontrava em perigo;
+
+2) As que colaboraram na perseguição ou detenção do delinquente.
+
+A não inclusão de uma (Alemanha) ou ambas (França) as categorias nas leis sobre esta matéria justifica-se, por vezes, pelo facto de a questão já estar solucionada por outra via técnico-jurídica.
+
+Opta-se, porém, pela inclusão de ambas as categorias de vítimas, o que parece ter um salutar carácter pedagógico.
+
+A indemnização não deve intervir somente nos estritos casos de necessidade ou carência económica. Mas parece razoável admitir, visto tratar-se de uma «indemnização social», que a situação económica dos lesados possa ser tida em conta. A lei francesa de 1977 exigia que a vítima tivesse ficado numa «situação material grave», o que foi considerado demasiado restritivo, bastando agora (a partir de 1983) que o «prejuízo consista numa perturbação grave das condições de vida».
+
+Numa fórmula mais aligeirada, afigura-se bastar a exigência de que o prejuízo resultante da perda ou diminuição da capacidade de trabalho ou de um aumento de encargos tenha causado uma «perturbação considerável do nível de vida».
+
+A exigência de que sejam abrangidos os danos sofridos por pessoas a bordo de navios ou aeronaves decorre já do artigo 4.º, alínea b), do Código Penal. Razões de clareza aconselham, não obstante, a inclusão desta menção.
+
+A opção fundamental reside em se considerarem aplicáveis os critérios gerais da lei civil (fixando-se limites máximos) - como em França - ou estabelecer uma indemnização à forfait.
+
+O primeiro termo da alternativa parece mais lógico, visto que o seguro social possui de algum modo a natureza de um fundo de garantia.
+
+Em qualquer caso, terá sempre de se prever a atribuição de uma indemnização provisória.
+
+Quanto aos limites máximos da indemnização, toma-se como referência o estabelecido para a responsabilidade objectiva em matéria de acidentes de trânsito, no artigo 508.º do Código Civil (com o máximo total do n.º 3, segunda parte); também assim nos casos excepcionais em que sejam abrangidos danos de coisas.
+
+Do montante da indemnização deve ser deduzida qualquer importância recebida de outra fonte, com a possível excepção de um seguro pessoal voluntário.
+
+O Estado ficará sub-rogado, no limite da indemnização concedida; terá direito ao reembolso dos montantes recebidos pelo lesado de outra fonte, com respeito a danos cobertos pelo seguro.
+
+O artigo 8.º da Convenção Europeia de 1983 prevê a possibilidade de exclusão ou redução da indemnização em três hipóteses:
+
+1) Em razão do comportamento da vítima antes, durante ou após a infracção ou em relação com o dano causado;
+
+2) Quando a vítima ou o requerente estão implicados na criminalidade organizada ou pertencem a uma organização que se entrega à prática de infracções violentas;
+
+3) Quando a reparação, total ou parcial, seria contrária ao sentimento de justiça ou à ordem pública.
+
+Afigura-se evidente a justificação destes princípios, mas a consideração das particularidades do caso concreto aponta para a conveniência de se adoptar uma formulação maleável, com recusa da consagração de critérios legais rígidos, que poderiam favorecer soluções injustas.
+
+Questão problemática é saber se a lei deve fazer expressa referência às agressões no seio de um agregado familiar, parentes ou pessoas que coabitem, prevenindo conluios ou que o agressor venha a aproveitar indirectamente da agressão.
+
+Provavelmente seria a melhor solução, como em Inglaterra, mas deve admitir-se a reserva «salvo se circunstâncias excepcionais a justificarem», que se retira da legislação norueguesa.
+
+Quanto ao financiamento, deparam-se-nos fundamentalmente duas hipóteses: ou o Estado assume directamente os encargos, seguindo um processo similiar ou já praticado para a sua responsabilidade (no Orçamento passaria a constar uma rubrica para este fim; v. artigo 1.º do Decreto-Lei n.º 74/70, de 2 de Março) ou criação de um fundo autónomo (Fundo de Indemnização às Vítimas de Crimes).
+
+Deste segundo tipo é a solução recentemente adoptada na Bélgica, prevendo aí a lei que «aquando de uma condenação a uma pena principal ou correccional, o juiz condena, além disso, à obrigação de entregar uma soma de 5 francos» (pelas correcções legais, esse montante era de 300 francos em 1986).
+
+Quanto ao procedimento, as soluções podem oscilar entre intercalar o pedido de indemnização no processo penal normal, entregar a decisão a uma autoridade administrativa, naturalmente susceptível de recurso, criar uma espécie de jurisdição especial ou tribunal de competência especializada, ou confiar a decisão a uma comissão de indemnização de vítimas de crimes.
+
+A primeira solução não a vemos adoptada em nenhum dos países de que dispomos informação, apesar de admitida na conclusão n.º 6 do XI Congresso de Direito Penal.
+
+Soluções do último tipo parecem preponderar no direito comparado. A Comissão que arbitra as indemnizações apresenta em algumas legislações recentes uma composição algo heteróclita: em França, participa uma pessoa que se tenha assinalado pelo interesse que vota aos problemas das vítimas (artigo 706-4 do CPP); na Bélgica, a Comissão é composta por dois magistrados judiciais, dois advogados e dois funcionários; no Luxemburgo, da Comissão faz parte um membro da Ordem dos Advogados. Neste país, porém, a decisão compete ao Ministro da Justiça.
+
+Num plano pragmático, poderia pensar-se que a solução mais simples e expedita seria a de concentrar nas mãos do juiz ou do tribunal, que decidem o processo-crime, a competência para arbitrar a indemnização.
+
+Mas tal solução comporta alguns inconvenientes de monta.
+
+Desde logo, o que decorre da própria natureza da indemnização, pois, como se advertiu, não está em causa a efectivação de uma responsabilidade do Estado por facto ilícito gerador de uma indemnização civil fundada na prática de um crime, mas sim de uma indemnização baseada numa ideia de «solidariedade social».
+
+No Código de Processo Penal em vigor, o pedido de indemnização civil pode ser deduzido contra pessoas com responsabilidade civil, e estas podem intervir voluntariamente no processo penal, caso em que ficam impedidas de praticarem actos que o arguido tenha perdido o direito de praticar (artigo 71.º).
+
+Por outro lado, a intervenção processual do lesado restringe-se à sustentação e à prova do pedido de indemnização civil, competindo-lhe, correspondentemente, os direitos que a lei confere aos assistentes, tendo os demandados e os intervenientes posição processual idêntica à do arguido quanto à sustentação e à prova das questões civis julgadas no processo, sendo independente cada uma das defesas (artigo 74.º, idem).
+
+Daí resultaria necessariamente uma eventual acumulação entre dois tipos diversos de pedidos, um fundado na responsabilidade civil conexa com a criminal, outro na «solidariedade social» a cargo do Estado, obedecendo a diferentes pressupostos.
+
+Enfim, suscitar-se-iam dificuldades sérias no plano de representação processual. Nos termos do artigo 76.º do Código de Processo Penal, compete ao Ministério Público formular o pedido de indemnização civil relativamente a lesado que lho requeira e só a representação por advogado constituído faz cessar aquela intervenção. Poderia pensar-se em alargar aquela representação ao lesado que requeresse a indemnização a cargo do Estado, fundada na «solidariedade social». Mas o Ministério Público, estatutariamente, representa o Estado, a quem não pode ser negado o interesse em contradizer. Este conflito postularia um regime que, no caso, não seria de fácil solução.
+
+Ponderadas as diversas soluções conhecidas do direito estrangeiro, afigura-se que será mais razoável, tendo em atenção a ideia de «solidariedade social» subjacente à indemnização a cargo do Estado e a sua natureza supletiva, optar por um regime que, nos seus traços essenciais, defere ao Governo, rectius ao Ministro da Justiça, a competência para a concessão daquela indemnização, assistido, para o efeito, por uma comissão especializada, que emitirá parecer sobre o pedido, depois de proceder à respectiva instrução, para o que disporá dos necessários poderes.
+
+Esta solução difere da adoptada pelo direito francês, no qual a indemnização é concedida por uma comissão instituída junto de cada tribunal de grande instância, com carácter de jurisdição civil, que se pronuncia em primeira e última instância, sem excluir a possibilidade de a vítima ou as pessoas a seu cargo se constituírem partes civis perante a jurisdição repressiva ou intentarem acção contra os responsáveis pelo dano, devendo, nesses casos e em qualquer estado do processo, declarar se pediram uma indemnização àquela comissão; e aproxima-se da consagrada no direito luxemburguês, no qual o pedido é formulado ao Ministro da Justiça, cabendo a sua instrução a uma comissão constituída por um magistrado, por um funcionário superior do Ministério da Justiça e por um representante da Ordem dos Advogados. Também neste caso, se a vítima e as restantes pessoas com direito a indemnização se constituírem partes civis perante as jurisdições repressivas ou intentarem acção civil contra os responsáveis pelo dano, devem indicar no processo se requereram a indemnização ao Ministro da Justiça e, sendo caso disso, se a mesma foi concedida, prevendo-se, na falta dessa declaração, a nulidade da sentença na parte relativa às disposições civis, a deduzir por via de acção ou de excepção.
+
+Por outro lado, aproxima-se da solução já consagrada no direito português (Decreto-Lei n.º 324/85, de 6 de Agosto), mas com a garantia que decorre da intervenção de uma comissão especializada na instrução dos factos geradores da pretensão indemnizatória.
+
+Parece, assim, pelas razões indicadas, que a solução adoptada é a que se mostra mais adequada, pelo seu carácter expedito e com a segurança que resulta da composição da Comissão, a responder às exigências da efectivação da indemnização no caso de impossibilidade de a fazer valer nos termos do Código de Processo Penal ou do seu insucesso.
+
+Só a experiência permitirá aquilatar do seu mérito, mas, em princípio, parece sobrepor-se às outras soluções teoricamente possíveis.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 64/91, de 13 de Agosto, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Indemnização, por parte do Estado, às vítimas de crimes violentos
+
+1 - As vítimas de lesões corporais graves resultantes directamente de actos intencionais de violência praticados em território português ou a bordo de navios ou aeronaves portuguesas, bem como, no caso de morte, as pessoas a quem, nos termos do n.º 1 do artigo 2009.º do Código Civil, é concedido um direito a alimentos e as que, nos termos da Lei n.º 7/2001, de 11 de Maio, vivessem em união de facto com a vítima, podem requerer a concessão de uma indemnização pelo Estado, ainda que não se tenham constituído ou não possam constituir-se assistentes no processo penal, verificados os seguintes requisitos:
+
+a) Da lesão ter resultado uma incapacidade permanente, uma incapacidade temporária e absoluta para o trabalho de pelo menos 30 dias ou a morte;
+
+b) Ter o prejuízo provocado uma perturbação considerável do nível de vida da vítima ou, no caso de morte, do requerente;
+
+c) Não terem obtido efectiva reparação do dano em execução de sentença condenatória relativa a pedido deduzido nos termos dos artigos 71.º a 84.º do Código de Processo Penal ou, se for razoavelmente de prever que o delinquente e responsáveis civis não repararão o dano, sem que seja possível obter de outra fonte uma reparação efectiva e suficiente.
+
+2 - O direito de indemnização mantém-se mesmo que não seja conhecida a identidade do autor dos actos intencionais de violência ou, por outra razão, ele não possa ser acusado ou condenado.
+
+3 - Podem igualmente requerer uma indemnização as pessoas que auxiliaram voluntariamente a vítima ou colaboraram com as autoridades na prevenção da infracção, perseguição ou detenção do delinquente, verificados os requisitos constantes das alíneas a) a c) do n.º 1.
+
+4 - A concessão da indemnização às pessoas referidas no número anterior não depende da concessão de indemnização às vítimas de lesão.
+
+5 - Não haverá lugar à aplicação do disposto no presente diploma quando o dano for causado por um veículo terrestre a motor, bem como se forem aplicáveis as regras sobre acidentes de trabalho ou em serviço.
+
+6 - Quando o acto intencional de violência configure um crime contra a liberdade e autodeterminação sexual, pode ser dispensada a verificação do requisito previsto na alínea a) do n.º 1 se circunstâncias excepcionais e devidamente fundamentadas assim o aconselharem.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+###### Artigo 2.º — Montante da indemnização
+
+1 - A indemnização por parte do Estado é restrita ao dano patrimonial resultante da lesão e é fixada em termos de equidade, tendo como limites máximos, por cada lesado, o montante de (euro) 30 000 para os casos de morte ou lesão corporal grave.
+
+2 - Nos casos de morte ou lesão de várias pessoas em consequência do mesmo facto, a indemnização por parte do Estado tem como limite máximo o montante de (euro) 30 000 para cada uma delas, com o máximo total do (euro) 90 000.
+
+3 - Se a indemnização for fixada sob a forma de renda anual, o limite máximo é de (euro) 3750 por cada lesado, não podendo ultrapassar o montante de (euro) 11 250 quando sejam vários os lesados em virtude do mesmo facto.
+
+5 - Nos casos a que se refere o n.º 3 do artigo 1.º, há igualmente lugar a uma indemnização por danos de coisas de considerável valor, tendo como limite máximo o montante de (euro) 15 000.
+
+6 - A fixação da indemnização por lucros cessantes tem como referência as declarações fiscais de rendimentos referidas na alínea b) do n.º 2 do artigo 5.º
+
+7 - No caso de não ter sido concedida qualquer indemnização no processo penal ou fora dele por facto unicamente imputável ao requerente, nomeadamente por não ter deduzido pedido de indemnização cível ou por dele ter desistido, o limite máximo do montante da indemnização a conceder pelo Estado é reduzido para metade, salvo quando circunstâncias excepcionais e devidamente fundamentadas aconselhem o contrário.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 303/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2007-640911), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+> Alterado pelo/a [Decreto-Lei n.º 62/2004 - Diário da República n.º 69/2004, Série I-A de 2004-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2004-541268), em vigor a partir de 2004-03-27
+
+###### Artigo 3.º — Exclusão ou redução da indemnização
+
+A indemnização por parte do Estado poderá ser reduzida ou excluída tendo em conta a conduta da vítima ou do requerente antes, durante ou após a prática dos factos, as suas relações com o autor ou o seu meio, ou se se mostrar contrária ao sentimento de justiça ou à ordem pública.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a [Lei n.º 136/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/136-1999-532443), em vigor a partir de 1999-09-02
+
+###### Artigo 4.º — Caducidade e concessão de provisão
+
+1 - Sob pena de caducidade, o pedido de concessão da indemnização por parte do Estado deve ser apresentado no prazo de um ano a contar da data do facto.
+
+2 - O menor à data do acto intencional de violência pode apresentar o pedido de concessão da indemnização por parte do Estado até um ano depois de atingida a maioridade ou ser emancipado.
+
+3 - Se tiver sido instaurado processo criminal, os prazos referidos nos números anteriores podem ser prorrogados e expiram após decorrido um ano sobre a decisão que lhe põe termo.
+
+4 - Em qualquer caso, o Ministro da Justiça pode relevar o requerente do efeito da caducidade quando justificadas circunstâncias morais ou materiais tiverem impedido a apresentação do pedido em tempo útil.
+
+5 - Em caso de urgência, pode ser requerida a concessão de uma provisão por conta da indemnização a fixar posteriormente, de montante não superior a um quarto do limite máximo.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+###### Artigo 5.º — Requerimento e documentos anexos
+
+1 - A concessão de indemnização por parte do Estado depende de requerimento das pessoas referidas no artigo 1.º ou do Ministério Público.
+
+2 - O requerimento deve ser acompanhado de todos os elementos úteis justificativos, nomeadamente:
+
+a) Indicação do montante da indemnização pretendida;
+
+b) Cópia da declaração fiscal de rendimentos da vítima relativa ao ano anterior à prática dos factos, bem como, no caso de morte, da do requerente;
+
+c) Indicação de qualquer importância já recebida, bem como das pessoas ou entidades públicas ou privadas susceptíveis de, no todo ou em parte, virem a efectuar prestações em relação com o dano.
+
+3 - Se tiver sido deduzido pedido de indemnização no processo penal ou fora dele, nos casos em que a lei o admite, o requerimento deve informar se foi concedida qualquer indemnização e qual o seu montante.
+
+4 - Em caso de falsidade da informação a que se refere o número anterior, o Estado tem direito ao reembolso da quantia eventualmente paga aos requerentes, devendo exercê-lo por meio de acção cível no prazo de um ano a contar da data em que tiver conhecimento da falsidade.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+###### Artigo 6.º — Competência e instrução do pedido
+
+1 - A concessão da indemnização é da competência do Ministro da Justiça.
+
+2 - A instrução do pedido compete a uma comissão constituída por um magistrado judicial designado pelo Conselho Superior da Magistratura, que preside, por um advogado ou advogado estagiário designado pela Ordem dos Advogados e por um funcionário superior do Ministério da Justiça, designado pelo Ministro.
+
+3 - Não podem constituir a comissão pessoas que tenham intervindo em qualquer processo instaurado pelo facto que der origem ao pedido de indemnização.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 7.º — Poderes da comissão
+
+1 - A comissão a que se refere o artigo anterior procede a todas as diligências úteis para a instrução do pedido e, nomeadamente:
+
+a) Ouve os requerentes e os responsáveis pela indemnização;
+
+b) Requisita cópias de denúncias e participações relativas aos factos criminosos e de quaisquer peças de processo penal instaurado, ainda que pendente de decisão final;
+
+c) Requisita informações sobre a situação profissional, financeira ou social dos responsáveis pela reparação do dano a qualquer pessoa, singular ou colectiva, e a quaisquer serviços públicos.
+
+2 - Mediante autorização do Ministro da Justiça, a comissão pode ainda solicitar as informações que repute necessárias à administração fiscal ou a estabelecimentos de crédito, quando o responsável pela indemnização recuse fornecê-las e existam fundadas razões no sentido de que o mesmo dispõe de bens ou recursos que pretende ocultar.
+
+3 - Às informações solicitadas não é oponível o sigilo profissional ou bancário.
+
+4 - As informações obtidas dos números anteriores não podem ser utilizadas para fins diferentes da instrução do pedido, sendo proibida a sua divulgação.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 8.º — Prazos
+
+1 - A instrução é concluída no prazo de três meses, salvo prorrogação autorizada pelo Ministro da Justiça, por motivos atendíveis e com base em proposta fundamentada da comissão.
+
+2 - Concluída a instrução, o processo é enviado ao Ministro da Justiça, acompanhado de parecer sobre a concessão da indemnização e respectivo montante.
+
+3 - Antes de concluída a instrução, pode a comissão sugerir ao Ministro da Justiça a concessão de uma provisão nos termos do n.º 4 do artigo 4.º
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 9.º — Sub-rogação
+
+O Estado fica sub-rogado nos direitos dos lesados contra o autor dos actos intencionais de violência e pessoas com responsabilidade meramente civil, dentro dos limites da indemnização prestada.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 10.º — Reembolso
+
+1 - Quando a vítima, posteriormente ao pagamento da provisão ou da indemnização, obtiver, a qualquer título, uma reparação ou uma indemnização efectiva do dano sofrido, deve o Ministro da Justiça, mediante parecer da comissão referida no artigo 6.º, exigir o reembolso, total ou parcial, das importâncias recebidas, com ressalva do disposto no n.º 2 do artigo 2.º
+
+2 - O disposto no número anterior aplica-se ao caso em que, tendo sido entregue a provisão, se averiguar ulteriormente que a indemnização não foi concedida por falta dos requisitos referidos no artigo 1.º
+
+3 - Das decisões referidas nos números anteriores cabe recurso contencioso, nos termos gerais.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 11.º — Informações falsas
+
+Quem obtiver ou tentar obter uma indemnização nos termos do presente diploma com base em informações que sabe serem falsas ou inexactas é punível com prisão até três anos ou multa, sem prejuízo do disposto no n.º 4 do artigo 5.º
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 12.º — Aplicação no espaço
+
+Se os factos referidos no artigo 1.º tiverem sido praticados no estrangeiro, aplicam-se as disposições do presente diploma quando a pessoa lesada for de nacionalidade portuguesa, desde que não tenha direito a indemnização pelo Estado em cujo território o dano foi produzido.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 12.º-A — Requerentes com residência habitual noutro Estado membro da União Europeia
+
+- Nos casos referidos no n.º 1 do artigo 1.º, quando o requerente tenha a sua residência habitual noutro Estado membro da União Europeia e tenha apresentado à autoridade competente desse Estado pedido de concessão de indemnização a pagar pelo Estado Português, incumbe à comissão referida no artigo 6.º:
+
+a) Receber o pedido transmitido pela autoridade competente do Estado membro da residência habitual do requerente;
+
+b) Acusar, no prazo de 10 dias, a recepção do pedido ao requerente e à autoridade competente do Estado membro da sua residência habitual e comunicar os contactos da comissão e o prazo provável da decisão do pedido;
+
+c) Instruir o pedido;
+
+d) Comunicar ao requerente e à autoridade competente do Estado membro da sua residência habitual a decisão do Ministro da Justiça sobre a concessão da indemnização.
+
+2 - Para efeitos do disposto na alínea c) do número anterior, a comissão pode, se necessário:
+
+a) Solicitar à autoridade competente do Estado membro da residência habitual do requerente que promova a audição deste ou de qualquer outra pessoa, designadamente uma testemunha ou um perito, bem como o envio da respectiva acta de audição;
+
+b) Ouvir directamente o requerente ou qualquer outra pessoa, por videoconferência, solicitando à autoridade competente do Estado membro da residência habitual do requerente a colaboração necessária.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+###### Artigo 12.º-B — Indemnização a ser concedida por outro Estado membro da União Europeia
+
+1 - No caso de ter sido praticado um crime doloso violento no território de um outro Estado membro da União Europeia, o pedido para a concessão de indemnização a pagar por aquele Estado pode ser apresentado à comissão referida no artigo 6.º, desde que o requerente tenha a sua residência habitual em Portugal.
+
+2 - Apresentado o pedido, incumbe à comissão:
+
+a) Informar o requerente sobre o modo de preenchimento do formulário do pedido de indemnização e sobre os documentos comprovativos necessários;
+
+b) Transmitir o formulário e os documentos referidos na alínea anterior, no prazo de 10 dias, à autoridade competente do Estado membro em cujo território o crime foi praticado;
+
+c) Auxiliar o requerente na resposta aos pedidos de informação suplementares solicitados pela autoridade competente do Estado membro em cujo território o crime foi praticado, transmitindo as respostas, a pedido do requerente, directamente àquela autoridade;
+
+d) Providenciar, a solicitação da autoridade competente do Estado membro em cujo território o crime foi praticado, a audição do requerente ou de qualquer outra pessoa, transmitindo a acta da audição àquela autoridade;
+
+e) Colaborar com a autoridade competente do Estado membro em cujo território o crime foi praticado sempre que esta opte pela audição directa do requerente ou de qualquer outra pessoa, em conformidade com a legislação daquele Estado, nomeadamente através de telefone ou videoconferência;
+
+f) Receber a decisão sobre o pedido de indemnização transmitida pela autoridade competente do Estado membro em cujo território o crime foi praticado.
+
+3 - A comissão não efectua qualquer apreciação do pedido.
+
+4 - A indemnização não é arbitrada nem paga pelo Estado Português.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+###### Artigo 12.º-C — Formalidades na transmissão dos pedidos
+
+1 - Os pedidos e as decisões referidos nos artigos 12.º-A e 12.º-B são transmitidos através de formulários normalizados aprovados por decisão da Comissão Europeia, publicados no Jornal Oficial da União Europeia.
+
+2 - Os formulários e os documentos apresentados nos termos dos artigos 12.º-A e 12.º-B estão dispensados de legalização ou de qualquer outra formalidade equivalente.
+
+3 - Os serviços solicitados e prestados pela comissão referida no artigo 6.º, ao abrigo do disposto nos artigos 12.º-A e 12.º-B, não dão lugar a qualquer pedido de reembolso de encargos ou despesas.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+###### Artigo 12.º-D — Idioma em situações transfronteiriças
+
+1 - Sem prejuízo do disposto no número seguinte, os formulários e outros documentos transmitidos pela comissão referida no artigo 6.º, para efeitos do disposto nos artigos 12.º-A e 12.º-B, são redigidos numa das seguintes línguas:
+
+a) Língua oficial do Estado membro da União Europeia ao qual aqueles formulários e documentos são enviados;
+
+b) Outra língua desse Estado membro, desde que corresponda a uma das línguas das instituições comunitárias;
+
+c) Outra língua, desde que corresponda a uma das línguas das instituições comunitárias e aquele Estado membro a tenha declarado aceitar, nos termos da alínea b) do n.º 1 do artigo 13.º da Directiva n.º 2004/80/CE, do Conselho, de 29 de Abril.
+
+2 - O texto integral da decisão e a acta de audição, referidos, respectivamente, na alínea d) do n.º 1 do artigo 12.º-A e na alínea d) do n.º 2 do artigo 12.º-B, podem ser transmitidos em português ou inglês.
+
+3 - Sem prejuízo do disposto nos números seguintes, a comissão pode recusar a recepção dos formulários e documentos transmitidos para efeitos do disposto nos artigos 12.º-A e 12.º-B quando os mesmos não estejam redigidos em português ou em inglês.
+
+4 - A comissão não pode recusar a recepção da acta de audição referida no n.º 2 do artigo 12.º-A, desde que a mesma esteja redigida numa língua que corresponda a uma das línguas das instituições comunitárias.
+
+5 - A comissão não pode recusar a recepção da decisão referida na alínea f) do n.º 2 do artigo 12.º-B, desde que a mesma esteja redigida numa língua prevista na legislação do Estado membro que a transmite.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 31/2006 - Diário da República n.º 140/2006, Série I de 2006-07-21](https://diariodarepublica.pt/dr/detalhe/lei/31-2006-539243), em vigor a partir de 2006-07-22
+
+###### Artigo 13.º — Encargos
+
+1 - Os encargos resultantes da execução do presente diploma serão considerados gastos de justiça e suportados através de uma verba especial inscrita anualmente no orçamento do Ministério da Justiça, capítulo «Gabinetes dos membros do Governo e serviços de apoio».
+
+2 - Enquanto as correspondentes verbas não forem inscritas no Orçamento do Estado, serão as mesmas suportadas pelo Gabinete de Gestão Financeira do Ministério da Justiça.
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01
+
+###### Artigo 14.º — Aplicação no tempo
+
+A caducidade estabelecida no artigo 4.º não pode ser invocada relativamente a factos praticados após 1 de Janeiro de 1991, sob condição de o pedido de indemnização ser apresentado no prazo de seis meses a contar da data da entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 15.º — Isenção de preparos e custas e gratuitidade de documentos
+
+1 - Os processos para concessão de indemnização por parte do Estado são isentos de preparos e custas.
+
+2 - Os documentos necessários à instrução do pedido são gratuitos e deles deve constar expressamente que são emitidos para execução do disposto no presente diploma.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 16.º — Alteração ao artigo 508.º do Código Civil
+
+O artigo 508.º do Código Civil passa a ter a seguinte redacção:
+
+Artigo 508.º
+
+[...]
+
+1 - ...
+
+2 - Se a indemnização for fixada sob a forma de renda anual e não houver culpa do responsável, o limite máximo é de um quarto da alçada da relação para cada lesado, não podendo ultrapassar três quartos da alçada da relação quando sejam vários os lesados em virtude do mesmo acidente.
+
+3 - ...
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 17.º — Alteração ao artigo 82.º do Código de Processo Penal
+
+O artigo 82.º do Código de Processo Penal passa a ter a seguinte redacção:
+
+Artigo 82.º
+
+[...]
+
+1 - ...
+
+2 - Pode, no entanto, o tribunal, oficiosamente ou mediante requerimento, estabelecer uma indemnização provisória por conta da indemnização a fixar posteriormente, se dispuser de elementos bastantes, e conferir-lhe o efeito previsto no artigo seguinte.
+
+3 - (O anterior n.º 2.)
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 18.º — Regulamentação
+
+O recrutamento do pessoal de apoio da comissão a que se refere o artigo 6.º, a remuneração dos seus membros e, bem assim, a sua instalação e funcionamento serão objecto de decreto regulamentar.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente diploma, com excepção do disposto no artigo anterior, entra em vigor na data da publicação do decreto regulamentar naquele referido.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01
+
+Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
+
+Promulgado em 15 de Outubro de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 18 de Outubro de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 25.º do/a [Lei n.º 104/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/104-2009-489757), em vigor a partir de 2010-01-01

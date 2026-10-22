@@ -1,0 +1,94 @@
+---
+schema_version: '1.0'
+id: pt:dre:660880:por
+title: Despacho Normativo n.º 14/84
+short_title: null
+summary: Esclarece dúvidas acerca do correcto entendimento a dar ao disposto no n.º 3 do artigo 6.º do Decreto-Lei n.º 455/80,
+  de 9 de Outubro, que concede benefícios fiscais relativos à importação de veículos automóveis pertencentes a emigrantes
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 14/84
+official_date: null
+publication_date: '1984-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1984, Série I de 1984-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 289 - 289
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/01/02000/02890289.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '660880'
+  dre_path: /dr/detalhe/despacho-normativo/14-1984-660880
+  internal: pt:dre:660880:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-1984-660880
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-1984-660880
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-01-24T00:00:00Z'
+integrity:
+  source_sha256: e2b67dc882443566583ccfd9e001a9e934c6850b7730f83f19b6cda9d77cea91
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-14-660880.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 14/84
+
+1 - Havendo-se suscitado dúvidas acerca do correcto entendimento a dar ao disposto no n.º 3 do artigo 6.º do [Decreto-Lei n.º 455/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1980-462209), de 9 de Outubro, esclarece-se, ao abrigo do artigo 23.º do mesmo diploma, que a inobservância do disposto no n.º 2 do mesmo dispositivo, no que respeita aos casos de alienação ou oneração do veículo, sujeita, cumulativamente, o infractor a procedimento fiscal e à obrigação de repor ao Estado o montante das importâncias em que aquele fora beneficiado, não se exigindo, contudo, que o primeiro preceda a segunda, ou inversamente.
+
+Assim, nada obsta a que a administração aduaneira, ao detectar aquela infracção, exija, desde logo, o pagamento do dito montante, seguindo-se o procedimento fiscal adequado, se, entretanto, este não estiver já a decorrer.
+
+Esclarece-se ainda que:
+
+2 - A circunstância de o emigrante haver renunciado aos benefícios fiscais contidos no [Decreto-Lei n.º 455/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1980-462209), de 9 de Outubro, pagando integralmente os direitos, IVVA e mais imposições devidas pela importação do veículo, não deixa de o sujeitar aos condicionalismos e restrições constantes daquele diploma legal, designadamente dos constantes dos n.os 2, 3 e 4 do seu artigo 6.º, se a concessão do BRI necessário para a importação foi determinada pela sua qualidade de emigrante.
+
+Secretaria de Estado do Orçamento, 10 de Janeiro de 1984. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.

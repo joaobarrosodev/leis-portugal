@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:428018:por
+title: Decreto-Lei n.º 366/76
+short_title: null
+summary: Dá nova redacção ao artigo 972.º do Código de Processo Civil (acção de despejo)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 366/76
+official_date: null
+publication_date: '1976-05-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/1976, Série I de 1976-05-15
+  number: '114'
+  series: I
+  supplement: null
+  pages: 1094 - 1095
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11400/10941095.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '428018'
+  dre_path: /dr/detalhe/decreto-lei/366-1976-428018
+  internal: pt:dre:428018:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1976-428018
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1976-428018
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 8ae7b3fc9b9cd631a2d583c8e0ce97c559aca732da53272a5b64938b4e28d813
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-366-428018.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 366/76
+
+de 15 de Maio
+
+1. Em ordem a procurar obter-se, sempre que possível, uma solução por acordo dos ligítimos entre locadores e locatários, por forma a evitarem-se discussões sempre criadoras de tensões indesejáveis, altera-se o mecanismo processual da acção de despejo, tornando obrigatória uma tentativa de conciliação no seu início.
+
+2. Porque muitos locatários terão deixado de pagar pontualmente as rendas acordadas por razões conjunturais, quiçá com a complacência de entidades responsáveis, afasta-se para as acções pendentes a sanção para a mora estabelecida no artigo 1401.º, n.º 1, do Código Civil.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º O artigo 972.º do Código de Processo Civil passa a ter a seguinte redacção:
+
+###### Artigo 972.º — (Aplicação subsidiária do processo sumário)
+
+Salvo o disposto nos artigos imediatos, a acção de despejo segue os termos do processo sumário, com as seguintes especialidades:
+
+a) Se não houver motivo para indeferimento liminar e a petição estiver em termos de ser recebida, o juiz designará dia e hora para uma tentativa de conciliação das partes, a realizar dentro de dez dias, sendo o réu citado para comparecer pessoalmente ou se fazer representar por procurador com poderes especiais para transigir e, ainda, para contestar, no caso de aquela tentativa se frustrar.
+
+A falta de alguma ou de ambas as partes que tenham sido convocadas não é motivo de adiamento, mas a do autor fá-lo-á incorrer em multa.
+
+Não comparecendo qualquer das partes, ou não se obtendo o seu acordo, deverá o réu contestar, no prazo de cinco dias, deduzindo, em reconvenção, o pedido de benfeitorias e indemnizações a que se julgue com direito.
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+###### Art. 2.º Nas acções de despejo pendentes à data da entrada em vigor do presente diploma e em que não haja sido ainda proferida sentença, o juiz tentará obrigatoriamente a conciliação das partes, não podendo a respectiva diligência ser adiada por qualquer motivo.
+
+###### Art. 3.º Nas acções pendentes com fundamento na falta de pagamento de rendas, o réu poderá sobrestar ao despejo se, no prazo de oito dias a contar da data da entrada em vigor deste diploma, demonstrar documentalmente que pagou ao autor ou depositou na Caixa Geral de Depósitos, Crédito e Previdência o montante das rendas em dívida, em conformidade com o contrato escrito de arrendamento, acrescido do juro de 10% pela mora.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.
+
+**Promulgado em 4 de Maio de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

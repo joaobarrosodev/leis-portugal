@@ -1,0 +1,720 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321675:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-137939399",
+ "dre_path": "/dr/detalhe/decreto-lei/177-1999-321675",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137938140",
+    "137938141",
+    "137938142",
+    "137938143",
+    "137938144",
+    "137938145",
+    "137938146",
+    "137938147",
+    "137938148",
+    "137938149",
+    "137938150",
+    "137938151",
+    "137938152",
+    "137938153",
+    "137938154",
+    "137938155",
+    "137938156"
+   ]
+  },
+  {
+   "date": "2001-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:516041:por",
+     "title": "Lei n.º 95/2001",
+     "published": "2001-08-20",
+     "dre_path": "/dr/detalhe/lei/95-2001-516041"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "137938140",
+    "137938141",
+    "137938142",
+    "137938143",
+    "137938144",
+    "137938145",
+    "137938146",
+    "137938147",
+    "137938148",
+    "137938149",
+    "137939824",
+    "137938151",
+    "137938152",
+    "137939825",
+    "137939826",
+    "137938155",
+    "137939827",
+    "137938157"
+   ]
+  },
+  {
+   "date": "2009-04-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:604820:por",
+     "title": "Decreto-Lei n.º 63/2009",
+     "published": "2009-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/63-2009-604820"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "137938140",
+    "137939868",
+    "137939869",
+    "137939870",
+    "137939871",
+    "137939872",
+    "137939873",
+    "137939874",
+    "137940275",
+    "137940276",
+    "137939859",
+    "137940277",
+    "137939861",
+    "137940278",
+    "137940279",
+    "137940280",
+    "137939865",
+    "137939866",
+    "137939867"
+   ]
+  },
+  {
+   "date": "2011-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671004:por",
+     "title": "Lei n.º 51/2011",
+     "published": "2011-09-13",
+     "dre_path": "/dr/detalhe/lei/51-2011-671004"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "137938140",
+    "137939868",
+    "137939869",
+    "137939870",
+    "137939871",
+    "137939872",
+    "137939873",
+    "137939874",
+    "137940275",
+    "137940276",
+    "137939859",
+    "137940277",
+    "137939861",
+    "137940278",
+    "137940279",
+    "137940342",
+    "137939865",
+    "137939866",
+    "137939867"
+   ]
+  },
+  {
+   "date": "2013-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:257037:por",
+     "title": "Decreto-Lei n.º 8/2013",
+     "published": "2013-01-18",
+     "dre_path": "/dr/detalhe/decreto-lei/8-2013-257037"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 15.º-B",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "137938140",
+    "137939868",
+    "137939869",
+    "137939870",
+    "137940370",
+    "137940371",
+    "137940372",
+    "137940373",
+    "137940374",
+    "137940276",
+    "137939859",
+    "137940277",
+    "137954575",
+    "137940278",
+    "137954576",
+    "137954577",
+    "137954578",
+    "137954580",
+    "137954583",
+    "137954584",
+    "137954585"
+   ]
+  }
+ ],
+ "fragments": {
+  "137938140": {
+   "fragment_id": "137939400",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 177/99\n\nde 21 de Maio\n\nO presente diploma visa disciplinar a prestação de serviços de audiotexto, os quais, pelas suas características específicas, são suportados em serviços de telecomunicações de uso público endereçados.\n\nOs serviços de audiotexto, que podem ser de acesso interactivo ou não, compreendem um vasto leque de ofertas, de que são exemplo as chamadas em conferência, bem como a gravação e recolha de mensagens.\n\nNa vigência do Decreto-Lei n.º 329/90, de 23 de Outubro, estes serviços eram designados como serviços de telecomunicações de valor acrescentado.\n\nAtenta a especificidade deste tipo de serviços, diferenciáveis em função de conteúdos e cuja divulgação se processa através de serviços de telecomunicações, enfoca-se a natureza horizontal do controlo e fiscalização que recai sobre os diferentes órgãos e serviços do Estado competentes em razão da matéria, designadamente no domínio do direito de autor e direitos conexos, da protecção de dados pessoais, bem como na aplicação da legislação relativa à realização de jogos de fortuna ou de azar.\n\nA especial natureza de que se revestem estes serviços é determinante da fixação de um regime autónomo e diferenciado do fixado para os serviços de telecomunicações de uso público, que lhes servem de suporte.\n\nCom o normativo agora adoptado torna-se mais transparente a relação entre as empresas prestadoras do serviço e o consumidor, contribuindo-se para um maior grau de esclarecimento do consumidor. Tal resultado é obtido com a criação de novos indicativos de acesso, a facturação discriminada, a possibilidade de barramento do acesso a estes serviços, a indicação prévia do custo dos serviços e a indicação, através de sinal sonoro, da cadência por cada minuto de comunicação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "137938141": {
+   "fragment_id": "137939401",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o regime de acesso e de exercício da actividade de prestador de serviços de audiotexto."
+  },
+  "137938142": {
+   "fragment_id": "137939402",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\nSão serviços de audiotexto os que se suportam no serviço fixo de telefone ou em serviços telefónicos móveis e que são destes diferenciáveis em razão do seu conteúdo e natureza específicos."
+  },
+  "137938143": {
+   "fragment_id": "137939403",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exercício da actividade\n\nO exercício da actividade de prestador de serviços de audiotexto está sujeito a registo nos termos do presente diploma."
+  },
+  "137938144": {
+   "fragment_id": "137939404",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo\n\n1 - As pessoas singulares ou colectivas que pretendam prestar serviços de audiotexto devem registar-se no Instituto das Comunicações de Portugal (ICP).\n\n2 - Podem ser registadas:\n\na) Pessoas singulares matriculadas como comerciantes em nome individual;\n\nb) Sociedades comerciais legalmente constituídas.\n\n3 - Para efeitos do disposto no n.º 1, deve ser apresentado ao ICP um requerimento instruído com certidão de teor da matrícula e de todas as inscrições em vigor da conservatória do registo comercial competente.\n\n4 - É interdito o registo nos seguintes casos:\n\na) A pessoas singulares ou colectivas cujo registo esteja suspenso ou tenha sido revogado nos termos do artigo 13.º;\n\nb) A entidades que directa ou indirectamente participem, dominem, sejam participadas ou dominadas pelas pessoas singulares ou colectivas referidas na alínea a)."
+  },
+  "137938145": {
+   "fragment_id": "137939405",
+   "type": 11,
+   "heading": "Artigo 5.º — Início da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Início da prestação\n\n1 - As entidades registadas nos termos do presente diploma devem informar previamente o ICP dos serviços cuja prestação pretendem iniciar.\n\n2 - Para efeitos do disposto no número anterior, devem as entidades registadas apresentar os seguintes elementos:\n\na) Declaração expressa donde conste a descrição detalhada do serviço que se propõem prestar, para efeitos de atribuição do respectivo indicativo de acesso;\n\nb) Projecto técnico onde se identifiquem os equipamentos a utilizar;\n\nc) Indicação do prestador de serviços de suporte.\n\n3 - O início da prestação do serviço só pode ocorrer 20 dias úteis após a recepção no ICP das informações referidas nos números anteriores."
+  },
+  "137938146": {
+   "fragment_id": "137939406",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos e obrigações dos prestadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos e obrigações dos prestadores\n\n1 - Constituem direitos dos prestadores de serviços de audiotexto:\n\na) Desenvolver a actividade nos termos constantes da alínea a) do n.º 2 do artigo 5.º;\n\nb) Fixar livremente o preço dos serviços prestados.\n\n2 - Constituem obrigações dos prestadores de serviços de audiotexto:\n\na) Respeitar as condições e limites inerentes ao respectivo indicativo de acesso;\n\nb) Cumprir com a legislação aplicável, nomeadamente em matéria de publicidade, direito de autor e direitos conexos, defesa do consumidor, protecção de dados pessoais, propriedade industrial, bem como a relativa à realização de concursos ou jogos de fortuna ou de azar;\n\nc) Utilizar equipamentos devidamente aprovados pela entidade competente;\n\nd) Facultar ao ICP a verificação dos equipamentos, bem como disponibilizar informação destinada a fins estatísticos, facultando o acesso às respectivas instalações e documentação."
+  },
+  "137938147": {
+   "fragment_id": "137939407",
+   "type": 11,
+   "heading": "Artigo 7.º — Relações com os prestadores de serviços de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Relações com os prestadores de serviços de suporte\n\n1 - Os contratos a celebrar entre os prestadores de serviços de audiotexto e os prestadores de serviços de suporte são obrigatoriamente reduzidos a escrito, devendo dos mesmos constar, designadamente:\n\na) A identificação das partes contratantes;\n\nb) A indicação do número de registo e do indicativo de acesso atribuído pelo ICP;\n\nc) A descrição detalhada do serviço a prestar como tal declarada ao ICP;\n\nd) Um termo de responsabilidade da utilização dos serviços de suporte para a oferta de serviços de acordo com a descrição detalhada a que alude a alínea c);\n\ne) O modo da respectiva facturação, bem como as regras relevantes para o acerto de contas entre as partes contratantes;\n\nf) As regras aplicáveis em caso de não pagamento pelos seus clientes das importâncias correspondentes aos serviços que prestam, quando a cobrança seja assumida pelo prestador do serviço de telecomunicações em que se suporta.\n\n2 - Quando caiba ao prestador do serviço de telecomunicações, nos termos contratualmente fixados, proceder à facturação e cobrança de importâncias correspondentes à prestação de serviços de audiotexto, devem as mesmas ser devidamente autonomizadas."
+  },
+  "137938148": {
+   "fragment_id": "137939408",
+   "type": 11,
+   "heading": "Artigo 8.º — Atribuição e utilização de indicativos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Atribuição e utilização de indicativos de acesso\n\n1 - O ICP atribui aos prestadores de serviços de audiotexto diferentes indicativos de acesso de acordo com a sua natureza e conteúdo, em conformidade com a descrição detalhada do serviço a prestar constante da declaração apresentada.\n\n2 - Os serviços declarados com conteúdo erótico ou sexual terão obrigatoriamente um indicativo de acesso específico.\n\n3 - Os prestadores de serviços de audiotexto devem utilizar os indicativos de acesso com respeito dos limites inerentes ao respectivo acto de atribuição."
+  },
+  "137938149": {
+   "fragment_id": "137939409",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação de preços\n\n1 - A indicação do preço dos serviços de audiotexto deve obrigatoriamente mencionar, consoante o tipo de serviço:\n\na) O preço por minuto;\n\nb) O preço por cada período de quinze segundos, apenas para serviços com duração máxima de um minuto e desde que garantido, pelo equipamento do prestador, o desligamento automático da chamada decorrido esse período;\n\nc) O preço da chamada, para todos os serviços com preços fixos de chamada, independentemente da sua duração.\n\n2 - Os prestadores devem garantir no momento de acesso ao serviço a informação ao utilizador, na forma de mensagem oral, nomeadamente em gravação, de duração fixa de dez segundos e ao preço do serviço de telecomunicações em que se suporta, que explicite a natureza do serviço e, se for o caso, o facto de se dirigir a adultos, bem como o preço a cobrar de acordo com as regras fixadas no número anterior.\n\n3 - Os serviços devem conter sinal sonoro que evidencie a cadência por cada minuto de comunicação."
+  },
+  "137938150": {
+   "fragment_id": "137939410",
+   "type": 11,
+   "heading": "Artigo 10.º — Limitações no acesso ao serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limitações no acesso ao serviço\n\nA pedido dos respectivos clientes, os prestadores de serviços de suporte devem barrar, sem quaisquer encargos, o acesso a serviços de audiotexto, genérica ou selectivamente, de acordo com as possibilidades técnicas existentes."
+  },
+  "137938151": {
+   "fragment_id": "137939411",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - Estão sujeitos a taxa:\n\na) O acto de registo;\n\nb) O averbamento ao registo;\n\nc) A substituição do registo, em caso de extravio.\n\n2 - Os prestadores de serviços de audiotexto estão ainda sujeitos ao pagamento de uma taxa anual.\n\n3 - Os montantes das taxas referidas nos números anteriores são fixados por despacho do membro do Governo responsável pela área das comunicações em função dos custos associados às tarefas administrativas, técnicas, operacionais e de fiscalização correspondentes, constituindo receita do ICP."
+  },
+  "137938152": {
+   "fragment_id": "137939412",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização\n\n1 - Sem prejuízo do disposto no número seguinte, compete ao ICP a fiscalização da conformidade dos serviços prestados com os indicativos de acesso atribuídos, bem como do cumprimento do disposto no artigo 9.º\n\n2 - A fiscalização da prestação de serviços de audiotexto compete ainda às entidades que, em razão da matéria, disponham de poderes, nomeadamente, no âmbito de aplicação dos Códigos da Publicidade e de Direito de Autor e Direitos Conexos, da legislação aplicável à defesa do consumidor e à protecção de dados pessoais, do Decreto-Lei n.º 422/89, de 2 de Dezembro, na redacção do Decreto-Lei n.º 10/95, de 19 de Janeiro, e do Decreto n.º 11223, de 6 de Novembro de 1925, e legislação complementar."
+  },
+  "137938153": {
+   "fragment_id": "137939413",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão e cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Suspensão e cancelamento\n\n1 - Quando se verifique desconformidade de utilização do indicativo de acesso atribuído em face à declaração a que alude a alínea a) do n.º 2 do artigo 5.º, pode o ICP suspender, até ao máximo de dois anos, a utilização do indicativo de acesso atribuído ao prestador de serviços de audiotexto ou revogar o acto de registo.\n\n2 - Previamente à suspensão ou revogação, deve o ICP informar quais as medidas necessárias à correcção da situação, fixando um prazo não superior a 10 dias para que o prestador se pronuncie.\n\n3 - Em caso de incumprimento das medidas impostas no prazo fixado, pode o ICP suspender a utilização do indicativo ou revogar o registo.\n\n4 - É interdito o registo ou a atribuição de novos indicativos de acesso a prestadores de serviços de audiotexto que se encontrem na situação prevista no número anterior.\n\n5 - A suspensão da utilização do indicativo de acesso por parte do prestador de serviços de audiotexto ou o cancelamento do registo pode ser publicitado pelo ICP e deve ser comunicado ao prestador de serviços de suporte."
+  },
+  "137938154": {
+   "fragment_id": "137939414",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenação e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contra-ordenação e coimas\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:\n\na) A prestação de serviços de audiotexto por entidades não registadas;\n\nb) A violação do disposto nos n.os 1 e 3 do artigo 5.º, nas alíneas a), c) e d) do n.º 2 do artigo 6.º, no artigo 9.º e no n.º 3 do artigo 16.º\n\n2 - As contra-ordenações previstas no presente diploma são puníveis com coima de 100000$00 a 500000$00 e de 1000000$00 a 9000000$00, consoante tenham sido praticadas por pessoa singular ou colectiva.\n\n3 - Nas contra-ordenações previstas no presente diploma são puníveis a tentativa e a negligência."
+  },
+  "137938155": {
+   "fragment_id": "137939415",
+   "type": 11,
+   "heading": "Artigo 15.º — Processamento e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Processamento e aplicação de coimas\n\n1 - Compete ao presidente do ICP a aplicação das coimas previstas no presente diploma.\n\n2 - A instrução do processo de contra-ordenação é da competência dos serviços do ICP.\n\n3 - O montante das coimas aplicadas reverte para o Estado em 60% e em 40% para o ICP.\n\n4 - O ICP pode dar adequada publicidade à punição por contra-ordenação."
+  },
+  "137938156": {
+   "fragment_id": "137939416",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito transitório\n\n1 - O ICP atribui novos indicativos de acesso no prazo de 15 dias contado a partir da data da entrada em vigor do presente diploma aos designados prestadores de serviços de telecomunicações de valor acrescentado na vigência do Decreto-Lei n.º 329/90, de 23 de Outubro, bem como às entidades que disponham de registo nos termos do Decreto-Lei n.º 381-A/97, de 30 de Dezembro, quando os serviços por si prestados integrem o conceito do artigo 2.º\n\n2 - Os prestadores de serviços de audiotexto devem implementar a utilização dos novos indicativos no prazo de 90 dias contado da data da respectiva atribuição.\n\n3 - Os prestadores de serviços de audiotexto, devem cumprir com o disposto no n.º 2 do artigo 9.º no prazo máximo de 45 dias contado a partir da data da entrada em vigor do presente diploma."
+  },
+  "137939824": {
+   "fragment_id": "137939410",
+   "type": 11,
+   "heading": "Artigo 10.º — Limitações no acesso aos serviços",
+   "in_force_from": "2001-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 10.º — Limitações no acesso aos serviços\n\n1 - Os prestadores de serviços de suporte devem garantir, como regra, o barramento, sem quaisquer encargos, do acesso aos serviços de audiotexto, que só poderá ser activado, genérica ou selectivamente após requerimento expresso efectuado nesse sentido pelos respectivos clientes.\n\n2 - Excluem-se do disposto no número anterior os serviços de audiotexto designados 'serviços de audiotexto de televoto', cujo acesso é automaticamente facultado ao utilizador a partir do momento da entrada em vigor do contrato celebrado entre este e o prestador de serviço de suporte.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137939825": {
+   "fragment_id": "137939413",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão e cancelamento",
+   "in_force_from": "2001-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 13.º — Suspensão e cancelamento\n\n1 - Quando se verifique desconformidade de utilização do indicativo de acesso atribuído em face à declaração a que alude a alínea a) do n.º 2 do artigo 5.º ou a inexistência da mensagem oral a que se refere o n.º 2 do artigo 9.º, pode o ICP suspender, até ao máximo de dois anos, a utilização do indicativo de acesso atribuído ao prestador de serviços de audiotexto ou revogar o acto de registo.\n\n2 - Previamente à suspensão ou revogação, deve o ICP informar quais as medidas necessárias à correcção da situação, fixando um prazo não superior a 10 dias para que o prestador se pronuncie.\n\n3 - Em caso de incumprimento das medidas impostas no prazo fixado, pode o ICP suspender a utilização do indicativo ou revogar o registo.\n\n4 - É interdito o registo ou a atribuição de novos indicativos de acesso a prestadores de serviços de audiotexto que se encontrem na situação prevista no número anterior.\n\n5 - A suspensão da utilização do indicativo de acesso por parte do prestador de serviços de audiotexto ou o cancelamento do registo pode ser publicitado pelo ICP e deve ser comunicado ao prestador de serviços de suporte.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137939826": {
+   "fragment_id": "137939414",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenação e coimas",
+   "in_force_from": "2001-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenação e coimas\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:\n\na) A prestação de serviços de audiotexto por entidades não registadas;\n\nb) A violação do disposto nos n.os 1 e 3 do artigo 5.º, nas alíneas a), c) e d) do n.º 2 do artigo 6.º, no artigo 9.º e no n.º 3 do artigo 16.º\n\n2 - As contra-ordenações previstas no presente diploma são puníveis com coima de 500000$00 a 5000000$00 e de 3000000$00 a 10000000$00, consoante tenham sido praticadas por pessoa singular ou colectiva.\n\n3 - Nas contra-ordenações previstas no presente diploma são puníveis a tentativa e a negligência.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137939827": {
+   "fragment_id": "137939416",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito transitório",
+   "in_force_from": "2001-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 16.º — Direito transitório\n\n1 - O ICP atribui novos indicativos de acesso no prazo de 15 dias contado a partir da data da entrada em vigor do presente diploma aos designados prestadores de serviços de telecomunicações de valor acrescentado na vigência do Decreto-Lei n.º 329/90, de 23 de Outubro, bem como às entidades que disponham de registo nos termos do Decreto-Lei n.º 381-A/97, de 30 de Dezembro, quando os serviços por si prestados integrem o conceito do artigo 2.º\n\n2 - Os prestadores de serviços de audiotexto devem implementar a utilização dos novos indicativos no prazo de 90 dias contado da data da respectiva atribuição.\n\n3 - Os prestadores de serviços de audiotexto, devem cumprir com o disposto no n.º 2 do artigo 9.º no prazo máximo de 45 dias contado a partir da data da entrada em vigor do presente diploma.\n\n4 - Relativamente aos contratos que tenham sido celebrados antes da entrada em vigor do presente diploma, os prestadores de serviços de suporte, para efeitos do cumprimento do disposto nos n.os 1 e 2 do artigo 10.º, deverão, no prazo máximo de 90 dias a contar desta data, barrar gratuitamente o acesso aos serviços de audiotexto, com excepção dos serviços de televoto, mais devendo remeter aos respectivos clientes os instrumentos necessários para que possam solicitar, querendo, o acesso genérico selectivo a estes serviços.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137938157": {
+   "fragment_id": "137939417",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Vítor Manuel Sampaio Caetano Ramalho - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 4 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "137939868": {
+   "fragment_id": "137939401",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o regime de acesso e de exercício da actividade de prestador de serviços de audiotexto e de serviços de valor acrescentado baseados no envio de mensagem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137939869": {
+   "fragment_id": "137939402",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 2.º — Conceito\n\n1 - São serviços de audiotexto os que se suportam no serviço fixo de telefone ou em serviços telefónicos móveis e que são destes diferenciáveis em razão do seu conteúdo e natureza específicos.\n\n2 - São serviços de valor acrescentado baseados no envio de mensagem os serviços da sociedade de informação prestados através de mensagem suportada em serviços de comunicações electrónicas que impliquem o pagamento pelo consumidor, de forma imediata ou diferida, de um valor adicional sobre o preço do serviço de comunicações electrónicas, como retribuição pela prestação do conteúdo transmitido, designadamente pelo serviço de informação, entretenimento ou outro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137939870": {
+   "fragment_id": "137939403",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício da actividade",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 3.º — Exercício da actividade\n\nO exercício da actividade de prestador de serviços de audiotexto e de serviços de valor acrescentado baseados no envio de mensagem está sujeito a registo nos termos do presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137939871": {
+   "fragment_id": "137939404",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 4.º — Registo\n\n1 - As pessoas singulares ou colectivas que pretendam prestar serviços abrangidos pelo presente decreto-lei devem registar-se no ICP - Autoridade Nacional de Comunicações (ICP-ANACOM).\n\n2 - Podem ser registadas:\n\na) Pessoas singulares matriculadas como comerciantes em nome individual;\n\nb) Sociedades comerciais legalmente constituídas.\n\n3 - Para efeitos do disposto no n.º 1, deve ser apresentado ao ICP-ANACOM um requerimento instruído com certidão de teor da matrícula e de todas as inscrições em vigor da conservatória do registo comercial competente ou com o código de acesso à certidão permanente que permita a verificação dos referidos elementos.\n\n4 - É interdito o registo nos seguintes casos:\n\na) A pessoas singulares ou colectivas cujo registo esteja suspenso ou tenha sido revogado nos termos do artigo 13.º;\n\nb) A entidades que directa ou indirectamente participem, dominem, sejam participadas ou dominadas pelas pessoas singulares ou colectivas referidas na alínea a).\n\n5 - O ICP-ANACOM disponibiliza no seu sítio de Internet uma lista dos prestadores registados que inclui as seguintes informações:\n\na) Nome, morada e demais contactos físicos e ou electrónicos do prestador de serviços;\n\nb) Descrição detalhada dos serviços prestados;\n\nc) Condições gerais de prestação dos serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137939872": {
+   "fragment_id": "137939405",
+   "type": 11,
+   "heading": "Artigo 5.º — Início da prestação",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 5.º — Início da prestação\n\n1 - As entidades registadas nos termos do presente diploma devem informar previamente o ICP-ANACOM dos serviços cuja prestação pretendem iniciar.\n\n2 - Para efeitos do disposto no número anterior, devem as entidades registadas apresentar os seguintes elementos:\n\na) Declaração expressa donde conste a descrição detalhada do serviço que se propõem prestar, para efeitos de atribuição do respectivo indicativo de acesso;\n\nb) Condições gerais de prestação dos serviços;\n\nc) Projecto técnico onde se identifiquem os equipamentos a utilizar;\n\nd) Indicação do prestador de serviços de suporte.\n\n3 - O início da prestação do serviço só pode ocorrer 20 dias úteis após a recepção no ICP-ANACOM das informações referidas nos números anteriores.\n\n4 - As entidades registadas devem comunicar ao ICP-ANACOM, no prazo máximo de cinco dias úteis, qualquer alteração aos elementos previamente fornecidos e mencionados no n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137939873": {
+   "fragment_id": "137939406",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos e obrigações dos prestadores",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 6.º — Direitos e obrigações dos prestadores\n\n1 - Constituem direitos dos prestadores de serviços:\n\na) Desenvolver a actividade nos termos constantes da alínea a) do n.º 2 do artigo 5.º;\n\nb) Fixar livremente o preço dos serviços prestados.\n\n2 - Constituem obrigações dos prestadores de serviços:\n\na) Respeitar as condições e limites inerentes ao respectivo indicativo de acesso;\n\nb) Cumprir com a legislação aplicável, nomeadamente em matéria de publicidade, direito de autor e direitos conexos, defesa do consumidor, protecção de dados pessoais, propriedade industrial, bem como a relativa à realização de concursos ou jogos de fortuna ou de azar;\n\nc) Utilizar equipamentos devidamente aprovados pela entidade competente;\n\nd) Facultar ao ICP a verificação dos equipamentos, bem como disponibilizar informação destinada a fins estatísticos, facultando o acesso às respectivas instalações e documentação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137939874": {
+   "fragment_id": "137939407",
+   "type": 11,
+   "heading": "Artigo 7.º — Relações com os prestadores de serviços de suporte",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 7.º — Relações com os prestadores de serviços de suporte\n\n1 - Os contratos a celebrar entre os prestadores de serviços abrangidos por este decreto-lei e os prestadores de serviços de suporte são obrigatoriamente reduzidos a escrito, devendo dos mesmos constar, designadamente:\n\na) A identificação das partes contratantes;\n\nb) A indicação do número de registo e do indicativo de acesso atribuído pelo ICP;\n\nc) A descrição detalhada do serviço a prestar como tal declarada ao ICP;\n\nd) Um termo de responsabilidade da utilização dos serviços de suporte para a oferta de serviços de acordo com a descrição detalhada a que alude a alínea c);\n\ne) O modo da respectiva facturação, bem como as regras relevantes para o acerto de contas entre as partes contratantes;\n\nf) As regras aplicáveis em caso de não pagamento pelos seus clientes das importâncias correspondentes aos serviços que prestam, quando a cobrança seja assumida pelo prestador do serviço de telecomunicações em que se suporta.\n\n2 - Quando caiba ao prestador do serviço de suporte, nos termos contratualmente fixados, proceder à facturação e cobrança de importâncias correspondentes à prestação de serviços abrangidos pelo presente diploma, devem as mesmas ser devidamente autonomizadas.\n\n3 - A prestação do serviço de suporte não pode ser suspensa em consequência da falta de pagamento dos serviços regulados no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940275": {
+   "fragment_id": "137939408",
+   "type": 11,
+   "heading": "Artigo 8.º — Atribuição e utilização de indicativos de acesso",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 8.º — Atribuição e utilização de indicativos de acesso\n\n1 - O ICP-ANACOM atribui aos prestadores dos serviços abrangidos pelo presente decreto-lei diferentes indicativos de acesso de acordo com a sua natureza e conteúdo, em conformidade com a descrição detalhada do serviço a prestar constante da declaração referida na alínea a) do n.º 2 do artigo 5.º\n\n2 - Possuem obrigatoriamente um indicativo de acesso específico:\n\na) Os serviços declarados com conteúdo erótico ou sexual;\n\nb) Os serviços que impliquem o envio de mais de uma mensagem ou o envio de mensagens de forma periódica ou continuada, com preço acrescentado por mensagem;\n\nc) Os serviços que se destinem à angariação de donativos sujeitos a regime fiscal diferenciado.\n\n3 - Os prestadores de serviços de audiotexto devem utilizar os indicativos de acesso com respeito dos limites inerentes ao respectivo acto de atribuição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940276": {
+   "fragment_id": "137939409",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação de preços nos serviços de audiotexto",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 9.º — Informação de preços nos serviços de audiotexto\n\n1 - A indicação do preço dos serviços de audiotexto deve obrigatoriamente mencionar, consoante o tipo de serviço:\n\na) O preço por minuto;\n\nb) O preço por cada período de quinze segundos, apenas para serviços com duração máxima de um minuto e desde que garantido, pelo equipamento do prestador, o desligamento automático da chamada decorrido esse período;\n\nc) O preço da chamada, para todos os serviços com preços fixos de chamada, independentemente da sua duração.\n\n2 - Os prestadores devem garantir no momento de acesso ao serviço a informação ao utilizador, na forma de mensagem oral, nomeadamente em gravação, de duração fixa de dez segundos e ao preço do serviço de telecomunicações em que se suporta, que explicite a natureza do serviço e, se for o caso, o facto de se dirigir a adultos, bem como o preço a cobrar de acordo com as regras fixadas no número anterior.\n\n3 - Os serviços devem conter sinal sonoro que evidencie a cadência por cada minuto de comunicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137939859": {
+   "fragment_id": "137939919",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Condições de prestação dos serviços de valor acrescentado baseados no envio de mensagem",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 9.º-A — Condições de prestação dos serviços de valor acrescentado baseados no envio de mensagem\n\n1 - Com excepção dos serviços referidos no n.º 5, antes da prestação do serviço os prestadores devem enviar ao cliente, gratuitamente, mensagem, clara e inequívoca, suportada no serviço de comunicações electrónicas que é utilizado para a disponibilização do serviço, que contenha:\n\na) A identificação do prestador do serviço;\n\nb) A natureza do serviço a prestar, o período contratual mínimo, quando aplicável, e tratando-se de uma prestação continuada a forma de proceder à rescisão do contrato;\n\nc) O preço total do serviço;\n\nd) O pedido de confirmação da solicitação do serviço.\n\n2 - Tratando-se de serviço que deva ser proporcionado de forma continuada, a informação prevista na alínea c) do número anterior deve incluir o preço de cada mensagem a receber e o preço a pagar periodicamente.\n\n3 - A falta de resposta ao pedido de confirmação previsto na alínea d) do n.º 1 implica a inexistência de contrato.\n\n4 - Para a contratação do serviço ou para a confirmação da solicitação do serviço não podem ser cobradas mensagens de valor acrescentado.\n\n5 - Tratando-se de serviços de votação ou de concursos ou de outros serviços que, tal como estes, não consistam no envio de um conteúdo, é gratuito o envio da mensagem cujo conteúdo consiste na transmissão do resultado obtido.\n\n6 - Os prestadores dos serviços referidos na alínea c) do n.º 2 do artigo 8.º devem enviar gratuitamente uma mensagem contendo informação fiscal relevante para o doador.\n\n7 - Cumpre ao prestador de serviços a prova do cumprimento dos deveres enunciados no presente artigo e da apresentação da resposta referida no n.º 3.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940277": {
+   "fragment_id": "137939410",
+   "type": 11,
+   "heading": "Artigo 10.º — Limitações no acesso aos serviços",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 10.º — Limitações no acesso aos serviços\n\n1 - Os prestadores de serviços de suporte devem garantir, como regra, o barramento, sem quaisquer encargos, do acesso aos serviços de audiotexto, que só poderá ser activado, genérica ou selectivamente após requerimento expresso efectuado nesse sentido pelos respectivos clientes.\n\n2 - Excluem-se do disposto no número anterior os serviços de audiotexto designados 'serviços de audiotexto de televoto', cujo acesso é automaticamente facultado ao utilizador a partir do momento da entrada em vigor do contrato celebrado entre este e o prestador de serviço de suporte.\n\n3 - A pedido do consumidor, o prestador do serviço de suporte deve barrar o acesso dos serviços de valor acrescentado baseados no envio de mensagem, sem quaisquer encargos para o consumidor e independentemente da existência ou não de contrato com o prestador desses serviços, ou da sua eventual resolução.\n\n4 - Para efeitos do número anterior, o barramento deve ser efectuado até vinte e quatro horas após a solicitação do consumidor, através de qualquer suporte durável de comunicação, não podendo ser imputados quaisquer custos ao consumidor após esse prazo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137939861": {
+   "fragment_id": "137939411",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - Estão sujeitos a taxa:\n\na) O acto de registo;\n\nb) O averbamento ao registo;\n\nc) A substituição do registo, em caso de extravio.\n\n2 - Os prestadores de serviços de audiotexto estão ainda sujeitos ao pagamento de uma taxa anual.\n\n3 - Os montantes das taxas referidas nos números anteriores são fixados por despacho do membro do Governo responsável pela área das comunicações em função dos custos associados às tarefas administrativas, técnicas, operacionais e de fiscalização correspondentes, constituindo receita do ICP."
+  },
+  "137940278": {
+   "fragment_id": "137939412",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 12.º — Fiscalização\n\n1 - Sem prejuízo do disposto no número seguinte, compete ao ICP-ANACOM a fiscalização da conformidade dos serviços prestados com os indicativos de acesso atribuídos, bem como do cumprimento do disposto nos artigos 9.º e 9.º-A.\n\n2 - A fiscalização da prestação de serviços de audiotexto compete ainda às entidades que, em razão da matéria, disponham de poderes, nomeadamente, no âmbito de aplicação dos Códigos da Publicidade e de Direito de Autor e Direitos Conexos, da legislação aplicável à defesa do consumidor e à protecção de dados pessoais, do Decreto-Lei n.º 422/89, de 2 de Dezembro, na redacção do Decreto-Lei n.º 10/95, de 19 de Janeiro, e do Decreto n.º 11223, de 6 de Novembro de 1925, e legislação complementar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940279": {
+   "fragment_id": "137939413",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão e cancelamento",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 13.º — Suspensão e cancelamento\n\n1 - Quando se verifique desconformidade de utilização do indicativo de acesso atribuído em face da declaração referida na alínea a) do n.º 2 do artigo 5.º ou a inexistência da mensagem oral a que se refere o n.º 2 do artigo 9.º, deve o ICP-ANACOM suspender a utilização do indicativo de acesso atribuído ao prestador de serviços, indicando quais as medidas necessárias à correcção da situação, fixando, ainda, um prazo não superior a 10 dias para que o prestador proceda à correcção.\n\n2 - (Revogado.)\n\n3 - Em caso de incumprimento das medidas impostas no prazo fixado, deve o ICP-ANACOM revogar o registo.\n\n4 - É interdito o registo ou a atribuição de novos indicativos de acesso a prestadores de serviços que se encontrem na situação prevista no número anterior.\n\n5 - A suspensão da utilização do indicativo de acesso por parte do prestador de serviços ou o cancelamento do registo pode ser publicitado pelo ICP-ANACOM e deve ser comunicado ao prestador de serviços de suporte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137940280": {
+   "fragment_id": "137939414",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenação e coimas",
+   "in_force_from": "2009-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenação e coimas\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:\n\na) A prestação de serviços por entidades não registadas;\n\nb) A violação do disposto nos n.os 1, 3 e 4 do artigo 5.º, nas alíneas a), c) e d) do n.º 2 do artigo 6.º, no n.º 3 do artigo 7.º, no artigo 9.º, nos n.os 1, 2, 4, 5 e 6 do artigo 9.º-A e no artigo 10.º\n\n2 - As contra-ordenações previstas no presente diploma são puníveis com coima de (euro) 2 493,99 a (euro) 24 939,90 e de (euro) 14 963,90 a (euro) 49 879,80, consoante tenham sido praticadas por pessoa singular ou colectiva.\n\n3 - Nas contra-ordenações previstas no presente diploma são puníveis a tentativa e a negligência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137939865": {
+   "fragment_id": "137939415",
+   "type": 11,
+   "heading": "Artigo 15.º — Processamento e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Processamento e aplicação de coimas\n\n1 - Compete ao presidente do ICP a aplicação das coimas previstas no presente diploma.\n\n2 - A instrução do processo de contra-ordenação é da competência dos serviços do ICP.\n\n3 - O montante das coimas aplicadas reverte para o Estado em 60% e em 40% para o ICP.\n\n4 - O ICP pode dar adequada publicidade à punição por contra-ordenação."
+  },
+  "137939866": {
+   "fragment_id": "137939416",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito transitório",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 16.º — Direito transitório\n\n1 - O ICP atribui novos indicativos de acesso no prazo de 15 dias contado a partir da data da entrada em vigor do presente diploma aos designados prestadores de serviços de telecomunicações de valor acrescentado na vigência do Decreto-Lei n.º 329/90, de 23 de Outubro, bem como às entidades que disponham de registo nos termos do Decreto-Lei n.º 381-A/97, de 30 de Dezembro, quando os serviços por si prestados integrem o conceito do artigo 2.º\n\n2 - Os prestadores de serviços de audiotexto devem implementar a utilização dos novos indicativos no prazo de 90 dias contado da data da respectiva atribuição.\n\n3 - Os prestadores de serviços de audiotexto, devem cumprir com o disposto no n.º 2 do artigo 9.º no prazo máximo de 45 dias contado a partir da data da entrada em vigor do presente diploma.\n\n4 - Relativamente aos contratos que tenham sido celebrados antes da entrada em vigor do presente diploma, os prestadores de serviços de suporte, para efeitos do cumprimento do disposto nos n.os 1 e 2 do artigo 10.º, deverão, no prazo máximo de 90 dias a contar desta data, barrar gratuitamente o acesso aos serviços de audiotexto, com excepção dos serviços de televoto, mais devendo remeter aos respectivos clientes os instrumentos necessários para que possam solicitar, querendo, o acesso genérico selectivo a estes serviços.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137939867": {
+   "fragment_id": "137939417",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Vítor Manuel Sampaio Caetano Ramalho - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 4 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "137940342": {
+   "fragment_id": "137939414",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenação e coimas",
+   "in_force_from": "2011-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13](https://diariodarepublica.pt/dr/detalhe/lei/51-2011-671004), em vigor a partir de 2011-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenação e coimas\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:\n\na) A prestação de serviços por entidades não registadas;\n\nb) A violação do disposto nos n.os 1, 3 e 4 do artigo 5.º, nas alíneas a), c) e d) do n.º 2 do artigo 6.º, no n.º 3 do artigo 7.º, no artigo 9.º e nos n.os 1, 2, 4, 5 e 6 do artigo 9.º-A.\n\n2 - As contra-ordenações previstas no presente diploma são puníveis com coima de (euro) 2 493,99 a (euro) 24 939,90 e de (euro) 14 963,90 a (euro) 49 879,80, consoante tenham sido praticadas por pessoa singular ou colectiva.\n\n3 - Nas contra-ordenações previstas no presente diploma são puníveis a tentativa e a negligência.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13](https://diariodarepublica.pt/dr/detalhe/lei/51-2011-671004), em vigor a partir de 2011-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137940370": {
+   "fragment_id": "137939404",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 4.º — Registo\n\n1 - Sem prejuízo do disposto no n.º 7, as pessoas singulares ou coletivas que pretendam prestar serviços abrangidos pelo presente diploma devem registar-se no ICP - Autoridade Nacional de Comunicações (ICP-ANACOM).\n\n2 - Podem ser registadas:\n\na) Pessoas singulares com atividade aberta nos serviços de finanças;\n\nb) Pessoas coletivas legalmente constituídas.\n\n3 - Para efeitos do disposto no n.º 1, deve ser apresentado ao ICP-ANACOM requerimento:\n\na) Instruído com cópia simples de documento de identificação e comprovativo de início de atividade, no caso de pessoa singular, ou com extrato em forma simples do teor das inscrições em vigor no registo comercial ou código de acesso à respetiva certidão permanente, no caso de pessoa coletiva;\n\nb) Com a identificação do nome, morada e demais contactos físicos e ou eletrónicos do prestador de serviços.\n\n4 - É interdito o registo nos seguintes casos:\n\na) A pessoas singulares ou coletivas cujo registo esteja suspenso ou tenha sido revogado nos termos do artigo 13.º;\n\nb) A pessoas singulares que tenham sido sócios ou titulares de órgãos sociais em pessoas coletivas cujo registo esteja suspenso ou tenha sido revogado nos termos do artigo 13.º;\n\nc) A pessoas coletivas que direta ou indiretamente participem, dominem, sejam participadas ou dominadas pelas pessoas singulares ou coletivas referidas na alínea a);\n\nd) A pessoas coletivas de que sejam sócios ou titulares de órgãos sociais pessoas que tenham tido ou tenham ainda qualquer dessas qualidades em pessoas coletivas cujo registo esteja suspenso ou tenha sido revogado nos termos do artigo 13.º\n\n5 - Sem prejuízo do disposto no artigo 8.º, a decisão sobre o pedido de registo deve ser proferida no prazo de 10 dias a contar da data de receção dos elementos referidos no n.º 3.\n\n6 - Decorrido o prazo previsto no número anterior sem que tenha sido proferida qualquer decisão, o pedido de registo considera-se tacitamente deferido.\n\n7 - Não carecem de registo as entidades legalmente estabelecidas num Estado-membro da União Europeia ou do Espaço Económico Europeu para a prestação de serviços de audiotexto ou de valor acrescentado baseados no envio de mensagem que pretendam exercer essas mesmas atividades em território nacional, ficando, no entanto, sujeitas às condições de exercício da atividade que lhes sejam aplicáveis, nomeadamente ao disposto nos artigos 5.º a 9.º-A.\n\n8 - Aos prestadores de serviços de valor acrescentado baseados no envio de mensagem destinados ao território nacional que nele não se estabeleçam aplica-se exclusivamente o requisito constante do n.º 2 do artigo 8.º, por motivos de ordem pública e proteção do consumidor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940371": {
+   "fragment_id": "137939405",
+   "type": 11,
+   "heading": "Artigo 5.º — Início da prestação e informação ao consumidor",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 5.º — Início da prestação e informação ao consumidor\n\n1 - As entidades que pretendam exercer as atividades referidas no artigo 3.º em território nacional devem informar previamente o ICP-ANACOM dos serviços cuja prestação pretendem iniciar, por mera comunicação, com o respetivo nome, morada e demais contactos físicos e eletrónicos do prestador de serviços, acompanhada das condições gerais de prestação dos serviços em causa.\n\n2 - Para efeitos da atribuição dos indicativos de acesso, nos termos do artigo 8.º, devem as entidades apresentar ao ICP-ANACOM um pedido instruído com os seguintes elementos:\n\na) Declaração expressa donde conste a descrição detalhada do serviço que se propõem prestar;\n\nb) [Revogada];\n\nc) Projecto técnico onde se identifiquem os equipamentos a utilizar;\n\nd) Indicação do prestador de serviços de suporte.\n\n3 - A comunicação referida no n.º 1, o pedido de atribuição referido no número anterior e o pedido de registo referido no artigo anterior podem ser apresentados simultaneamente.\n\n4 - As entidades devem comunicar ao ICP-ANACOM qualquer alteração aos elementos previamente fornecidos e mencionados no n.º 2 no prazo máximo de cinco dias úteis após a ocorrência do facto que suscite a alteração ou, no caso de entidades em livre prestação de serviços, no prazo máximo de cinco dias úteis após o reinício da prestação destes no território nacional, quando dele se encontrem ausente à data do facto relevante.\n\n5 - Na ausência da comunicação referida no número anterior e caso se verifique a impossibilidade de regularizar a situação por prazo superior a 90 dias, nomeadamente pela impossibilidade de notificar os prestadores de serviços na morada ou através dos demais contactos por estes indicados, o ICP-ANACOM pode proceder à recuperação dos indicativos de acesso atribuídos e revogar o registo emitido, nos casos aplicáveis.\n\n6 - O ICP-ANACOM disponibiliza no seu sítio de Internet uma lista dos prestadores em território nacional dos serviços referidos no artigo 3.º com base nas comunicações e pedidos referidos no n.º 3, que inclui as seguintes informações:\n\na) Nome, morada e demais contactos físicos e ou eletrónicos do prestador de serviços;\n\nb) Descrição detalhada dos serviços prestados;\n\nc) Condições gerais de prestação dos serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940372": {
+   "fragment_id": "137939406",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos e obrigações dos prestadores",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 6.º — Direitos e obrigações dos prestadores\n\n1 - Constituem direitos dos prestadores de serviços:\n\na) Desenvolver a actividade nos termos constantes da alínea a) do n.º 2 do artigo 5.º;\n\nb) Fixar livremente o preço dos serviços prestados.\n\n2 - Constituem obrigações dos prestadores de serviços:\n\na) Respeitar as condições e limites inerentes ao respectivo indicativo de acesso;\n\nb) Cumprir com a legislação aplicável, nomeadamente em matéria de publicidade, direito de autor e direitos conexos, defesa do consumidor, protecção de dados pessoais, propriedade industrial, bem como a relativa à realização de concursos ou jogos de fortuna ou de azar;\n\nc) Utilizar equipamentos devidamente aprovados pela entidade competente;\n\nd) Facultar ao ICP-ANACOM a verificação dos equipamentos, permitindo o acesso às respetivas instalações, bem como à documentação que lhe for solicitada;\n\ne) Disponibilizar informação destinada a fins estatísticos nos termos, prazo e periodicidade exigidos pelo ICP-ANACOM.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940373": {
+   "fragment_id": "137939407",
+   "type": 11,
+   "heading": "Artigo 7.º — Relações com os prestadores de serviços de suporte",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 7.º — Relações com os prestadores de serviços de suporte\n\n1 - Os contratos a celebrar entre os prestadores de serviços abrangidos por este decreto-lei e os prestadores de serviços de suporte são obrigatoriamente reduzidos a escrito, devendo dos mesmos constar, designadamente:\n\na) A identificação das partes contratantes;\n\nb) A indicação do número de registo e do indicativo de acesso atribuído pelo ICP;\n\nc) A descrição detalhada do serviço a prestar como tal declarada ao ICP;\n\nd) Um termo de responsabilidade da utilização dos serviços de suporte para a oferta de serviços de acordo com a descrição detalhada a que alude a alínea c);\n\ne) O modo da respectiva facturação, bem como as regras relevantes para o acerto de contas entre as partes contratantes;\n\nf) As regras aplicáveis em caso de não pagamento pelos seus clientes das importâncias correspondentes aos serviços que prestam, quando a cobrança seja assumida pelo prestador do serviço de telecomunicações em que se suporta.\n\n2 - Quando caiba ao prestador do serviço de suporte, nos termos contratualmente fixados, proceder à facturação e cobrança de importâncias correspondentes à prestação de serviços abrangidos pelo presente diploma, devem as mesmas ser devidamente autonomizadas.\n\n3 - A prestação do serviço de suporte não pode ser suspensa em consequência da falta de pagamento dos serviços regulados no presente decreto-lei.\n\n4 - O disposto no presente artigo é apenas aplicável a contratos regidos pela lei portuguesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137940374": {
+   "fragment_id": "137939408",
+   "type": 11,
+   "heading": "Artigo 8.º — Atribuição e utilização de indicativos de acesso",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+   ],
+   "markdown": "###### Artigo 8.º — Atribuição e utilização de indicativos de acesso\n\n1 - O ICP-ANACOM atribui aos prestadores dos serviços abrangidos pelo presente decreto-lei diferentes indicativos de acesso de acordo com a sua natureza e conteúdo, em conformidade com a descrição detalhada do serviço a prestar constante da declaração referida na alínea a) do n.º 2 do artigo 5.º\n\n2 - Possuem obrigatoriamente um indicativo de acesso específico, atribuído pelo ICP-ANACOM:\n\na) Os serviços declarados com conteúdo erótico ou sexual;\n\nb) Os serviços que impliquem o envio de mais de uma mensagem ou o envio de mensagens de forma periódica ou continuada, com preço acrescentado por mensagem;\n\nc) Os serviços que se destinem à angariação de donativos sujeitos a regime fiscal diferenciado.\n\n3 - Os prestadores de serviços de audiotexto devem utilizar os indicativos de acesso com respeito dos limites inerentes ao respectivo acto de atribuição.\n\n4 - Os indicativos de acesso devem ser atribuídos no prazo máximo de 15 dias após a receção pelo ICP-ANACOM dos elementos referidos no n.º 2 do artigo 5.º, após o que pode o requerente recorrer aos tribunais administrativos para obter condenação daquele instituto na prática de ato devido.\n\n5 - Sem prejuízo do disposto no n.º 2, é permitido o exercício da atividade de prestação de serviços de audiotexto e de serviços de valor acrescentado baseados no envio de mensagem em território nacional com recurso a indicativos de acesso pertencentes aos planos de numeração de outro Estado-membro da União Europeia ou do Espaço Económico Europeu onde o prestador esteja estabelecido, desde que cumpram os requisitos constantes dos artigos 9.º e 9.º-A em língua portuguesa ou, no caso de prestadores de serviços de valor acrescentado baseados no envio de mensagem destinados ao território nacional que nele não se estabeleçam, os requisitos constantes do artigo 10.º do Decreto-Lei n.º 7/2004, de 7 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09"
+  },
+  "137954575": {
+   "fragment_id": "137939411",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+   ],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - Estão sujeitos a taxa:\n\na) O acto de registo;\n\nb) O averbamento ao registo;\n\nc) A substituição do registo, em caso de extravio.\n\n2 - Os prestadores de serviços objeto do presente diploma estabelecidos em território nacional estão ainda sujeitos ao pagamento de uma taxa anual.\n\n3 - Os montantes das taxas referidas nos números anteriores, que constituem receita do ICP-ANACOM, são fixados por portaria do membro do Governo responsável pela área das comunicações, em função dos custos associados às tarefas administrativas, técnicas, operacionais e de fiscalização correspondentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+  },
+  "137954576": {
+   "fragment_id": "137939413",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão e cancelamento",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 13.º — Suspensão e cancelamento\n\n1 - Quando se verifique a violação das obrigações previstas no n.º 2 do artigo 6.º, designadamente a violação das condições e limites inerentes ao respetivo indicativo de acesso, ou a inexistência da mensagem oral a que se refere o n.º 2 do artigo 9.º, deve o ICP-ANACOM suspender a utilização do indicativo de acesso atribuído ao prestador de serviços, indicando quais as medidas necessárias à correção da situação, fixando, ainda, um prazo não superior a 10 dias para que o prestador proceda à correção.\n\n2 - (Revogado.)\n\n3 - Em caso de incumprimento das medidas impostas no prazo fixado, o ICP-ANACOM revoga a atribuição de indicativo de acesso ao prestador de serviços, bem como o seu registo, caso exista.\n\n4 - É interdito o registo ou a atribuição de novos indicativos de acesso a prestadores de serviços que se encontrem na situação prevista no número anterior.\n\n5 - A revogação da atribuição ou a suspensão da utilização do indicativo de acesso por parte do prestador de serviços, bem como o cancelamento do seu registo, podem ser publicitados pelo ICP-ANACOM e são comunicados ao prestador de serviços de suporte.\n\n6 - Em caso de incumprimento de medidas impostas a prestadores que não tenham sido registados pelo ICP-ANACOM e prestem serviços destinados ao território nacional com recurso a indicativos de acesso pertencentes aos planos de numeração de outros Estados-membros da União Europeia ou do Espaço Económico Europeu, deve o ICP-ANACOM recorrer à cooperação administrativa, nos termos do artigo 15.º-B, para que a autoridade competente no Estado-Membro de origem do prestador o fiscalize e sancione, nos termos da legislação aplicável, sem prejuízo do disposto na Lei n.º 99/2009, de 4 de setembro, alterada pela Lei n.º 46/2011, de 24 de junho, quanto ao incumprimento de medidas recomendadas pelo ICP-ANACOM.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137954577": {
+   "fragment_id": "137939414",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenação e coimas",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13](https://diariodarepublica.pt/dr/detalhe/lei/51-2011-671004), em vigor a partir de 2011-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenação e coimas\n\n1 - Constitui contraordenação leve a violação do disposto no n.º 6 do artigo 9.º-A.\n\n2 - Constituem contraordenações graves a prestação dos serviços referidos no artigo 3.º sem atribuição de indicativo de acesso pelo ICP-ANACOM, fora dos casos previstos no n.º 5 do artigo 8.º, bem como a violação do disposto no n.º 1 do artigo 4.º, nos n.os 1 e 4 do artigo 5.º, nas alíneas a) e c) a e) do n.º 2 do artigo 6.º, no n.º 3 do artigo 7.º e no n.º 3 do artigo 8.º\n\n3 - Constituem contraordenações muito graves a violação do disposto nos n.os 1, 2 e 3 do artigo 9.º e nos n.os 1, 2, 4 e 5 do artigo 9.º-A.\n\n4 - Sem prejuízo de outras sanções aplicáveis, as contraordenações leves são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, de (euro) 500 a (euro) 2 500;\n\nb) Se praticadas por microempresa, de (euro) 750 a (euro) 5 000;\n\nc) Se praticadas por pequena empresa, de (euro) 1 500 a (euro) 10 000;\n\nd) Se praticadas por média empresa, de (euro) 3 000 a (euro) 20 000;\n\ne) Se praticadas por grande empresa, de (euro) 5 000 a (euro) 50 000.\n\n5 - Sem prejuízo de outras sanções aplicáveis, as contraordenações graves são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, de (euro) 1 500 a (euro) 7 500;\n\nb) Se praticadas por microempresa, de (euro) 2 500 a (euro) 10 000;\n\nc) Se praticadas por pequena empresa, de (euro) 5 000 a (euro) 25 000;\n\nd) Se praticadas por média empresa, de (euro) 10 000 a (euro) 50 000;\n\ne) Se praticadas por grande empresa, de (euro) 25 000 a (euro) 100 000.\n\n6 - Sem prejuízo de outras sanções aplicáveis, as contraordenações muito graves são puníveis com as seguintes coimas:\n\na) Se praticadas por pessoa singular, de (euro) 5 000 a (euro) 20 000;\n\nb) Se praticadas por microempresa, de (euro) 7 500 a (euro) 50 000;\n\nc) Se praticadas por pequena empresa, (euro) 15 000 a (euro) 75 000;\n\nd) Se praticadas por média empresa, de (euro) 25 000 a (euro) 100 000;\n\ne) Se praticadas por grande empresa, de (euro) 50 000 a (euro) 200 000.\n\n7 - Nas contraordenações previstas no presente diploma são puníveis a tentativa e a negligência.\n\n8 - Nas contraordenações previstas no presente diploma são aplicáveis as sanções acessórias previstas no artigo 11.º da Lei n.º 99/2009, de 4 de setembro, alterada pela Lei n.º 46/2011, de 24 de junho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 51/2011 - Diário da República n.º 176/2011, Série I de 2011-09-13](https://diariodarepublica.pt/dr/detalhe/lei/51-2011-671004), em vigor a partir de 2011-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), em vigor a partir de 2009-04-09\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137954578": {
+   "fragment_id": "137939415",
+   "type": 11,
+   "heading": "Artigo 15.º — Processamento e aplicação de coimas",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+   ],
+   "markdown": "###### Artigo 15.º — Processamento e aplicação de coimas\n\n1 - Compete ao conselho de administração do ICP-ANACOM a aplicação das admoestações, coimas e sanções acessórias previstas no presente diploma, bem como as decisões de arquivamento dos processos de contraordenação.\n\n2 - A instrução do processo de contraordenação é da competência dos serviços do ICP-ANACOM.\n\n3 - O montante das coimas aplicadas reverte para o Estado em 60 % e em 40 % para o ICP-ANACOM.\n\n4 - O ICP-ANACOM pode dar adequada publicidade à punição por contraordenação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+  },
+  "137954580": {
+   "fragment_id": "137939948",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Balcão único",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+   ],
+   "markdown": "###### Artigo 15.º-A — Balcão único\n\n1 - Todas as comunicações e notificações previstas no presente diploma, bem como o envio de documentos, de requerimentos ou de informações, são realizados por via eletrónica, através do balcão único eletrónico dos serviços, previsto no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Quando, por motivos de indisponibilidade do balcão único eletrónico dos serviços, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+  },
+  "137954583": {
+   "fragment_id": "137939949",
+   "type": 11,
+   "heading": "Artigo 15.º-B — Cooperação administrativa",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+   ],
+   "markdown": "###### Artigo 15.º-B — Cooperação administrativa\n\nAs autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito de procedimentos relativos a prestadores estabelecidos noutro Estado-membro da União Europeia ou do Espaço Económico Europeu, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23"
+  },
+  "137954584": {
+   "fragment_id": "137939416",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito transitório",
+   "in_force_from": "2013-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+   ],
+   "markdown": "###### Artigo 16.º — Direito transitório\n\n1 - O ICP atribui novos indicativos de acesso no prazo de 15 dias contado a partir da data da entrada em vigor do presente diploma aos designados prestadores de serviços de telecomunicações de valor acrescentado na vigência do Decreto-Lei n.º 329/90, de 23 de Outubro, bem como às entidades que disponham de registo nos termos do Decreto-Lei n.º 381-A/97, de 30 de Dezembro, quando os serviços por si prestados integrem o conceito do artigo 2.º\n\n2 - Os prestadores de serviços de audiotexto devem implementar a utilização dos novos indicativos no prazo de 90 dias contado da data da respectiva atribuição.\n\n3 - Os prestadores de serviços de audiotexto, devem cumprir com o disposto no n.º 2 do artigo 9.º no prazo máximo de 45 dias contado a partir da data da entrada em vigor do presente diploma.\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037), em vigor a partir de 2013-01-23\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 95/2001 - Diário da República n.º 192/2001, Série I-A de 2001-08-20](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), em vigor a partir de 2001-08-25"
+  },
+  "137954585": {
+   "fragment_id": "137939417",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Vítor Manuel Sampaio Caetano Ramalho - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 4 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

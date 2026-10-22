@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:500697:por
+title: Decreto-Lei n.º 47511
+short_title: null
+summary: Determina que nas empresas industriais e comerciais sejam organizados serviços médicos de trabalho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Corporações e Previdência Social e da Saúde e Assistência
+proposing_entity: null
+official_number: '47511'
+official_date: null
+publication_date: '1967-01-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 21/1967, Série I de 1967-01-25
+  number: '21'
+  series: I
+  supplement: null
+  pages: 125 - 126
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/01/02100/01250126.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '500697'
+  dre_path: /dr/detalhe/decreto-lei/47511-1967-500697
+  internal: pt:dre:500697:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47511-1967-500697
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47511-1967-500697
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-06-30T00:00:00Z'
+integrity:
+  source_sha256: d5bdea23eeda413d18c28cf7cbdd4ba7fd910a6ad39c4c19c6542140a47182e5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-47511-500697.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:302964:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47511
+
+O avanço rápido da técnica e o culto que se lhe rende têm vindo a pôr em equação, desde há muito, o problema da subordinação do homem à máquina, que, no fundo traduz a supremacia dos valores materiais sobre os espirituais.
+
+Na verdade, a organização científica do trabalho, resultante da crescente industrialização, colocou em presença, de um lado, a máquina, a oficina e os materiais e, do outro, o homem - os dois elementos fundamentais do trabalho moderno -, tendo em vista produzir mais e melhor num mínimo de tempo. Mas na associação homem-máquina o homem foi olhado principalmente como factor de produção e em função desta.
+
+Por isso, tem de se chamar à primeira linha de preocupações a organização humana do trabalho, que, aceitando o desenvolvimento inevitável da técnica, entende que ela deve servir o homem, e não escravizá-lo.
+
+Vários são os meios a que se tem recorrido para alcançar esta humanização, na defesa do trabalhador e no respeito da dignidade do homem.
+
+Entre eles, destaca-se a medicina do trabalho, devidamente orientada e organizada. Para salientar melhor a sua grande importância na política de saúde de um país basta notar que é ela ainda que tende a harmonizar o máximo de rendimento com o mínimo de desgaste biológico.
+
+O interesse dos problemas referentes à medicina do trabalho é reconhecido por toda a parte.
+
+Com efeito, a Organização Internacional do Trabalho e a Organização Mundial de Saúde têm secções para o estudo destes problemas e editam publicações de interesse mundial; a Comissão Permanente e Associação Internacional da Medicina do Trabalho, a mais importante instituição científica entre as congéneres, constituída por especialistas de vários países, organiza de três em três anos um congresso internacional de medicina do trabalho, um dos quais se realizou em Lisboa, em 1951; numerosos países europeus e americanos, além de serviços de medicina do trabalho nas empresas dispõem de muitas instituições que contribuem para o estudo e resolução dos seus problemas; cursos de medicina do trabalho são professados, em muitos países, sendo os respectivos diplomas exigidos para o exercício das funções de médico do trabalho. Acresce que estas funções constam do Réglement-type pour les établissements industriels à l'usage des gouvernements et de l'industrie do Bureau International du Travail, mandado adoptar no nosso país, para servir de orientação aos peritos, pela [Portaria n.º 13074](https://diariodarepublica.pt/dr/detalhe/portaria/13074-1950-659528), de 17 de Fevereiro de 1950.
+
+A progressiva industrialização do nosso país não tem sido suficientemente acompanhada pelo desenvolvimento de serviços de medicina do trabalho nas empresas, embora tais serviços sejam já obrigatórios, por força do disposto no [Decreto-Lei n.º 44308](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44308-1962-516071) e seu regulamento, nas indústrias com risco de silicose, se encontrem previstos nalguns contratos colectivos de trabalho e estejam organizados, voluntàriamente, nalgumas empresas.
+
+Também pelo [Decreto n.º 45160](https://diariodarepublica.pt/dr/detalhe/decreto/45160-1963-693617), de 25 de Julho de 1963 foi criado no Instituto Superior de Higiene do Dr. Ricardo Jorge o curso de Medicina do Trabalho, com o objectivo de dar preparação mais especializada aos médicos que tenham a seu cargo a vigilância e a defesa dos trabalhadores, curso cuja remodelação, de acordo com a experiência obtida, se efectuou através da publicação do [Decreto n.º 45992](https://diariodarepublica.pt/dr/detalhe/decreto/45992-1964-537057), de 23 de Outubro de 1964, e tem vindo a funcionar regularmente.
+
+Por seu turno, o Ministério das Corporações e Previdência Social criou também o Gabinete de Higiene e Segurança do Trabalho, na sequência da Campanha Nacional de Prevenção de Acidentes do Trabalho e Doenças Profissionais.
+
+Afigura-se, assim, que se encontram reunidos os requisitos indispensáveis ao alargamento da experiência já feita, podendo generalizar-se os serviços de medicina do trabalho nas empresas.
+
+Tal medida - acerca da qual foi ouvida a Ordem dos Médicos - será, no entanto, posta em execução com as necessárias cautelas e dentro de períodos de transição bastante amplos, de modo que tudo se possa processar sem atropelos de direitos nem exigências demasiado onerosas.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Nas empresas industriais e comerciais devem ser organizados serviços médicos do trabalho, observando-se nos restantes aspectos relativos à prevenção médica das pneumoconioses o preceituado no [Decreto-Lei n.º 44308](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44308-1962-516071), de 27 de Abril de 1962, e no [Decreto n.º 44537](https://diariodarepublica.pt/dr/detalhe/decreto/44537-1962-165442), de 22 de Agosto de 1962.
+
+###### Art. 2.º Estes serviços médicos têm por fim a defesa da saúde dos trabalhadores e a vigilância das condições higiénicas do seu trabalho, são essencialmente de carácter preventivo e ficam a cargo dos médicos do trabalho.
+
+§ único. São médicos do trabalho os licenciados em Medicina diplomados com o curso de Medicina do Trabalho, criado pelo [Decreto n.º 45160](https://diariodarepublica.pt/dr/detalhe/decreto/45160-1963-693617), de 25 de Julho de 1963, e remodelado pelo [Decreto n.º 45992](https://diariodarepublica.pt/dr/detalhe/decreto/45992-1964-537057), de 23 de Outubro de 1964, ou efectuado na Escola Nacional de Saúde Pública e de Medicina Tropical, criada pelo [Decreto-Lei n.º 47102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47102-1966-475291), de 16 de Julho de 1966.
+
+###### Art. 3.º Os serviços médicos podem ser privativos de uma única empresa ou comuns a várias, segundo a importância dessas empresas.
+
+###### Art. 4.º Compete às empresas organizar e custear os referidos serviços médicos.
+
+§ único. Se os serviços forem comuns a várias empresas, as despesas são repartidas proporcionalmente ao número de trabalhadores de cada uma, a menos que, entre si, acordem de outra forma.
+
+###### Art. 5.º As infracções ao disposto neste decreto-lei e seus regulamentos serão punidas com multa de 500$00 a 3000$00, sem prejuízo das demais responsabilidades que porventura caibam às empresas em consequência destas infracções.
+
+§ 1.º Verificada uma infracção, será fixado um prazo à empresa para o cumprimento das determinações impostas, sem prejuízo do normal procedimento do auto levantado.
+
+§ 2.º Se a empresa não der cumprimento a tais determinações dentro do prazo concedido, será fixado, outro para o efeito e aplicada nova multa, elevando-se para o dobro os limites do seu quantitativo, consignados no corpo deste artigo.
+
+§ 3.º As ulteriores infracções por inobservância dos novos prazos fixados serão punidas elevando-se ao décuplo os limites do quantitativo da multa.
+
+###### Art. 6.º Compete à Direcção-Geral de Saúde e à Inspecção do Trabalho, dentro da esfera das respectivas atribuições, fiscalizar o cumprimento do preceituado neste diploma e levantar os autos de notícia das transgressões.
+
+§ único. Para efeitos do pagamento das multas, aplicar-se-á o disposto no artigo 25.º do [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948, na redacção do [Decreto-Lei n.º 43182](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43182-1960-514841), de 23 de Setembro de 1960, entendendo-se que onde se fala em Inspecção do Trabalho se deverá referir a Direcção-Geral de Saúde quando os autos hajam sido levantados por estes serviços, cabendo aos tribunais do trabalho a competência para apreciação destes casos.
+
+###### Art. 7.º Os Ministros das Corporações e Previdência Social e da Saúde e Assistência aprovarão os regulamentos necessários à execução deste decreto-lei, nos quais se poderá estabelecer um número mínimo de trabalhadores para efeito do artigo 1.º e um período transitório quanto à exigência a que se refere o § único do artigo 2.º
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 25 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente a Assembleia Nacional.

@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:210024:por
+title: Decreto Regulamentar n.º 4/2004
+short_title: null
+summary: Altera o Decreto Regulamentar n.º 10/2000, de 22 de Agosto, que cria a Reserva Natural das Lagoas de Santo André
+  e da Sancha
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 4/2004
+official_date: null
+publication_date: '2004-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 75/2004, Série I-B de 2004-03-29
+  number: '75'
+  series: I
+  supplement: null
+  pages: 2001 - 2004
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/03/075b00/20012004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/4/2004/03/29/p/dre/pt/html
+  oj: null
+  dre: '210024'
+  dre_path: /dr/detalhe/decreto-regulamentar/4-2004-210024
+  internal: pt:dre:210024:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024
+  metadata_url: https://data.dre.pt/eli/decregul/4/2004/03/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-08-23T00:00:00Z'
+integrity:
+  source_sha256: b6f10aa8d7c7eec28a0c26c1dcf00e3525cf0ed1fca0c0f1843e65deb77d6945
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-4-210024.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Diretivo
+- Instituto da Conservação da Natureza
+- Conselho Consultivo
+- Lagoa da Sancha
+- Proteção do Ambiente
+- Reserva Natural
+relationships:
+- type: amended_by
+  target: pt:dre:640890:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/213/1997/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/213/1997/08/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/221/2002/10/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/221/2002/10/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/227/1998/07/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/227/1998/07/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/97/2003/05/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/97/2003/05/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/10/2000/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/10/2000/08/22/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 4/2004
+
+de 29 de Março
+
+A Reserva Natural das Lagoas de Santo André e da Sancha foi criada pelo [Decreto Regulamentar n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279), de 22 de Agosto, o qual prevê a elaboração do respectivo plano de ordenamento no prazo de três anos, a partir da respectiva entrada em vigor.
+
+Os estudos técnicos iniciais realizados para efeitos da elaboração deste plano especial de ordenamento do território identificaram a necessidade de se proceder ao acerto dos limites terrestres e marítimos desta área protegida, tendo em conta as discrepâncias detectadas entre a descrição dos limites e a carta simplificada, que constituem, respectivamente, os anexos I e II ao mencionado diploma regulamentar.
+
+Do mesmo passo, procede-se à exclusão do regime de interdição na área da Reserva Natural das actividades inseridas em acções de gestão e conservação ou com fins científicos levadas a efeito pelo Instituto da Conservação da Natureza.
+
+Além disso, verifica-se a necessidade de proceder ao ajustamento do presente diploma em função das alterações decorrentes do [Decreto-Lei n.º 97/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2003-580669), de 7 de Maio, que aprovou a Lei Orgânica do Ministério das Cidades, Ordenamento do Território e Ambiente.
+
+Por último, converte-se em euros o montante das coimas ainda expressas em escudos.
+
+Foi ouvida a Câmara Municipal de Santiago do Cacém e a Câmara Municipal de Sines.
+
+Assim:
+
+Ao abrigo do disposto no artigo 13.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, alterado pelos Decretos-Leis n.os [213/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1997-209591), [227/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1998-424696), [151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371) e [380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 16 de Agosto, 17 de Julho, 24 de Junho e 22 de Setembro, respectivamente, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alterações ao [Decreto Regulamentar n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279), de 22 de Agosto
+
+Os artigos 6.º, 8.º, 10.º e 12.º do [Decreto Regulamentar n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279), de 22 de Agosto, passam a ter a seguinte redacção:
+
+«Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - O presidente e os vogais da comissão directiva são nomeados nos termos do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, alterado pelos Decretos-Leis n.os [151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, [213/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1997-209591), de 16 de Agosto, e [221/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2002-432178), de 22 de Outubro.
+
+3 - As Câmaras Municipais de Santiago do Cacém e de Sines dispõem do prazo de 22 dias úteis para indicar um dos vogais da comissão directiva.
+
+4 - [Anterior n.º 5.]
+
+5 - [Anterior n.º 6.]
+
+6 - [Anterior n.º 7.]
+
+###### Artigo 8.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Comissão de Coordenação e Desenvolvimento Regional do Alentejo;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) [Anterior alínea h).]
+
+h) [Anterior alínea i).]
+
+i) [Anterior alínea j).]
+
+j) [Anterior alínea l).]
+
+l) [Anterior alínea m).]
+
+m) [Anterior alínea n).]
+
+2 - ...
+
+###### Artigo 10.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) O exercício de actividades susceptíveis de provocarem qualquer tipo de poluição ou de deteriorarem os recursos naturais da área, nomeadamente a realização de actividades desportivas que utilizem veículos todo o terreno, a prática de motocross e de motonáutica;
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+2 - A prática das actividades previstas nas alíneas a), d), f), g), l) e o) do número anterior não se encontra interdita quando se insira em acções de gestão e conservação ou com fins científicos levadas a efeito pelo Instituto da Conservação da Natureza.
+
+###### Artigo 12.º — [...]
+
+...
+
+a) ...
+
+b) ...
+
+c) A abertura de novas estradas, caminhos ou acessos e o respectivo alargamento ou alteração, bem como as obras de manutenção e conservação susceptíveis de afectarem os recursos naturais da área protegida;
+
+d) ...
+
+e) ...»
+
+###### Artigo 2.º — Redenominação para euros
+
+O artigo 19.º do [Decreto Regulamentar n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279), de 22 de Agosto, passa a ter a seguinte redacção:
+
+«Artigo 19.º
+
+[...]
+
+1 - ...
+
+2 - As contra-ordenações previstas no número anterior são punidas com coimas de:
+
+a) (euro) 25 a (euro) 2500, no caso de pessoas singulares;
+
+b) (euro) 1000 a (euro) 30000, no caso de pessoas colectivas.
+
+3 - ...
+
+4 - ...
+
+5 - ...»
+
+###### Artigo 3.º — Alteração aos anexos I e II do [Decreto Regulamentar n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279), de 22 de Agosto
+
+1 - São alterados os limites da Reserva Natural das Lagoas de Santo André e da Sancha, adiante designada por Reserva Natural, definidos no [Decreto Regulamentar n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279), de 22 de Agosto.
+
+2 - A Reserva Natural engloba as áreas cujos limites e definições constam dos textos e da carta simplificada que constituem os anexos I e II ao presente diploma e que dele fazem parte integrante.
+
+3 - São revogados os anexos I e II ao [Decreto Regulamentar n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279), de 22 de Agosto.
+
+Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto - Pedro Manuel da Cruz Roseta - Amílcar Augusto Contel Martins Theias.
+
+**Promulgado em 10 de Março de 2004.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 14 de Março de 2004.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO I — Limites terrestres da Reserva Natural das Lagoas de Santo André e da Sancha
+
+Limite noroeste no ponto de costa de coordenadas M = 141.525,803 e P = 127.635,963 (ponto n.º 1) seguindo para este no alinhamento do limite marítimo noroeste até 50 m para além da curva de nível 5 de coordenadas M = 141.718,466 e P = 127.574,394 (ponto n.º 2). Segue na linha paralela a 50 m da curva de nível 5 para norte até à meridiana 141.800,00 (ponto n.º 4). Daqui inflecte para este até à meridiana 141.900,00 coincidente com a curva de nível 5 (ponto n.º 5). Segue para sudeste na curva de nível 5 até à meridiana 142.123,000 (ponto n.º 27), inflectindo para nordeste a 50 m da curva de nível 5 no ponto até à meridiana 142.172,525 (ponto n.º 28), onde segue para sudeste na paralela a 50 m da curva de nível 5 até ao limite sudoeste da vedação do parque de campismo (ponto n.º 34), continuando sobre o limite deste para este até ao limite sudeste (ponto n.º 45), continuando sobre a vedação até ao canto nordeste da mesma (ponto n.º 46). Do limite nordeste da vedação do parque de campismo segue pela estrema oeste do prédio rústico n.º 97 da secção A da freguesia de Santo André até à berma sul da estrada municipal n.º 544 (ponto n.º 51). Segue deste ponto para este pela berma sul da estrada até à estrema este do prédio rústico n.º 42 da secção A da freguesia de Santo André (ponto n.º 62). Seguidamente, inflecte para sul pela estrema este do referido prédio até à estrema norte do prédio rústico n.º 88 da secção A da freguesia de Santo André (ponto n.º 67). Continua, a partir deste ponto, inflectindo para noroeste pela estrema do referido prédio até ao ponto n.º 69, prosseguindo pela estrema norte do prédio rústico n.º 89 da secção A da freguesia de Santo André até ao limite noroeste e, em seguida, inflecte para sudoeste pela estrema do referido prédio até à linha de água sita a sul do mesmo prédio (ponto n.º 71). Daqui, segue a linha de água para sudeste até à berma oeste da estrada municipal n.º 1085 (ponto n.º 88). O limite segue para sul pela berma da estrada até ao limite sul da várzea da Ribeira da Cascalheira, onde inflecte para sudoeste pela curva de nível 5 (ponto n.º 94). Daqui segue a curva de nível 5 para sudoeste até atingir a estrema oeste do prédio rústico n.º 182 da secção D da freguesia de Santo André (ponto n.º 115), local onde inflecte para sudoeste por esta estrema até à intercepção com o limite do prédio rústico n.º 31 da secção D da freguesia de Santo André (ponto n.º 117) e deste ponto segue pela estrema para sudeste até interceptar o cruzamento de estradas de terra batida no ponto n.º 122. O limite continua, pela berma sudeste do caminho de terra batida até atingir a berma oeste da estrada municipal n.º 1085 (ponto n.º 130). Deste ponto prossegue para sul até à margem norte da várzea da Ribeira da Ponte (ponto n.º 150). Daqui inflecte para sudeste pela berma sul do caminho de terra batida adjacente à várzea até à intercepção com a estrema este do prédio rústico n.º 2 da secção G da freguesia de Santo André (ponto n.º 168). Daqui segue esta estrema para sudoeste até atingir a berma norte da estrada municipal n.º 1085 (ponto n.º 173). Segue, então, para oeste por esta berma até à intercepção com o perímetro urbano de Vila Nova de Santo André (ponto n.º 175). O limite continua para oeste pelo perímetro urbano de Vila Nova de Santo André até interceptar novamente a berma oeste da estrada municipal n.º 1085 (ponto n.º 232). Daqui segue para oeste pela berma norte da estrada que se dirige para a praia do Monte Velho até à intercepção com a linha de cumeada a cerca de 340 m do Monte Velho (ponto n.º 268). Segue, então, a linha de cumeada no prédio rústico n.º 12 da secção F da freguesia de Santo André até à intercepção com o perímetro urbano (ponto n.º 277). Daqui contorna o limite do perímetro urbano até à meridiana 141.867,000, ponto a 10 m do lancil existente, coincidente com o limite do perímetro urbano (ponto n.º 300). Contorna o lancil existente numa paralela a 10 m para oeste deste até interceptar uma paralela a 10 m à faixa de rodagem oeste da via R 41 (ponto n.º 315). Segue para sudoeste na paralela a 10 m à faixa de rodagem até interceptar o limite sul da secção A1 da freguesia de Sines (ponto n.º 351). Daqui segue para noroeste pelo limite sul da referida secção até à intersecção com o limite este dos terrenos do património do Estado sob gestão do ICN (ponto n.º 354) seguindo para sudoeste pela berma do caminho sito a oeste e coincidente com o limite já referido até à intersecção com a berma norte do caminho (ponto n.º 364). Daqui inflecte para oeste pela referida berma norte do caminho até ao ponto de costa sudoeste de coordenadas M = 136.514,000 e P = 114.172,000 (ponto n.º 365). Segue então para norte pela linha de costa fechando a poligonal no ponto de costa noroeste (ponto n.º 1).
+
+Limites marítimos da Reserva Natural das Lagoas de Santo André e da Sancha
+
+Definido a oeste por uma linha paralela à costa a uma distância de 1,5 km com o limite norte, definido a noroeste pelas coordenadas M = 140.096,989 e P = 128.092,571 (ponto no mar n.º 496) e a nordeste pelas coordenadas M = 141.525,803 e P = 127.635,963 (ponto na costa n.º 1). O limite sul é definido a sudoeste pelas coordenadas M = 135.183,486 e P = 114.864,626 (ponto no mar n.º 626) e a sudeste pelas coordenadas M = 136.514,000 e P = 114.172,000 (ponto na costa n.º 365).
+
+## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/03/075b00/20012004.pdf)

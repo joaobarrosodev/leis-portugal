@@ -1,0 +1,521 @@
+---
+schema_version: '1.0'
+id: eu:celex:32006R1082:por
+title: Regulamento (CE) n. o 1082/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006
+short_title: null
+summary: Regulamento (CE) n. o 1082/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006 , relativo aos agrupamentos
+  europeus de cooperação territorial (AECT)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2006/1082
+official_date: null
+publication_date: '2006-07-31'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 210 de 31.7.2006
+  number: '210'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/acdd8b05-2e72-4cf7-a792-8c64be31c329.0017.02/DOC_1
+entry_into_force_dates:
+- '2006-08-01'
+- '2007-08-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2014-06-22'
+identifiers:
+  celex: 32006R1082
+  eli: http://data.europa.eu/eli/reg/2006/1082/oj
+  oj: oj:JOL_2006_210_R_0019_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32006R1082:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32006R1082
+  metadata_url: http://publications.europa.eu/resource/cellar/acdd8b05-2e72-4cf7-a792-8c64be31c329.0017
+  content_url: http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1082-20140622
+  retrieved_at: '2026-10-22T02:52:14Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-21T13:46:02.440+01:00'
+integrity:
+  source_sha256: 093ea0faf6d3ec64a2fce9176905be0aa43b6e5b3c685ca2626949a2e58f8b2a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:52:14Z'
+  notes: Texto consolidado 02006R1082-20140622.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- autarquia local
+- coesão económica e social
+- competência institucional (UE)
+- cooperação transfronteiriça
+- funcionamento institucional
+- organismo regional
+- órgão de cooperação judiciária e policial (UE)
+relationships:
+- type: amended_by
+  target: celex:32013R1302
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a6cd8d01-6c02-11e3-9afb-01aa75ed71a1
+  date: '2013-12-23'
+- type: based_on
+  target: celex:12002E159
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ba23818e-0a8e-4854-9b93-820e827b086a
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E251
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6605ff4a-754d-4d10-bc74-9499a44ae68d
+  date: '2003-02-11'
+- type: cited_by
+  target: pt:dre:492265:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:629173:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:67051305:por
+  label: null
+  source: null
+- type: cites
+  target: celex:32004L0018
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62c3ce1d-831c-4074-bba1-fbfdc28947cc
+- type: cites
+  target: celex:32006R1080
+  label: null
+  source: http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600
+- type: cites
+  target: celex:32006R1083
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2fa906b7-387c-4828-b393-75f3aa68395b
+article_structure:
+  article_count: 21
+  section_count: 3
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:52:14Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (CE) n. o 1082/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006
+
+> 02006R1082 — PT — 22.06.2014 — 001.004
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32013R1302) — [REGULAMENTO (UE) N.º 1302/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1302) — L 347 — 303 — 20.12.2013
+
+**Retificado por:**
+
+- [►C1](http://publications.europa.eu/resource/celex/32013R1302R%2801%29) — [Rectificação, JO L 330, 3.12.2016, p. 5 (1302/2013)](http://publications.europa.eu/resource/celex/32013R1302R%2801%29)
+
+## REGULAMENTO (CE) N.O 1082/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 5 de Julho de 2006
+
+relativo aos agrupamentos europeus de cooperação territorial (AECT)
+
+###### Artigo 1.º — Natureza do AECT
+
+1. Podem ser constituídos agrupamentos europeus de cooperação territorial ("AECT"), no território da União, nas condições e nos termos previstos no presente regulamento.
+
+2. Os AECT têm por objetivo facilitar e promover, nomeadamente, a cooperação territorial, incluindo uma ou mais das vertentes de cooperação, transfronteiriça, transnacional e inter-regional, entre os seus membros, nos termos do artigo 3.º, n.º 1, a fim de reforçar a coesão económica, social e territorial da União.
+
+3. O AECT tem personalidade jurídica.
+
+4. O AECT goza, em cada um dos Estados-Membros, da mais ampla capacidade jurídica reconhecida às pessoas colectivas pela legislação nacional desse Estado-Membro. Pode, designadamente, adquirir ou alienar bens móveis e imóveis, contratar pessoal e estar em juízo.
+
+5. A sede estatutária do AECT situa-se num Estado-Membro nos termos de cuja lei pelo menos um dos membros do AECT está estabelecido.
+
+###### Artigo 2.º — Direito aplicável
+
+1.
+
+Os atos dos órgãos do AECT regem-se pelas seguinte normas:
+
+a) O presente regulamento;
+
+b) O convénio referido no artigo 8.º, caso expressamente autorizado ao abrigo do presente regulamento; e
+
+c) A lei nacional do Estado-Membro em que a sede estatutária do AECT está situada, no caso de questões não regulamentadas, ou regulamentadas apenas parcialmente, pelo presente regulamento.
+
+Caso seja necessário determinar a lei aplicável, nos termos do direito da União ou do direito internacional privado, o AECT é considerado uma entidade do Estado-Membro no qual se situa a sua sede estatutária.
+
+1-A. As atividades realizadas por um AECT relativas ao exercício das funções referidas no artigo 7.º, n.^os^ 2 e 3, no interior da União regem-se pela legislação da União aplicável e pela legislação nacional como especificado no convénio a que se refere o artigo 8.º.
+
+As atividades realizadas por um AECT que sejam cofinanciadas pelo orçamento da União devem preencher os requisitos estabelecidos na legislação aplicável da União e na legislação nacional relativa à aplicação dessa legislação da União.
+
+2. Caso um Estado-Membro compreenda várias entidades territoriais com um corpo próprio de direito aplicável, a remissão para a lei aplicável nos termos da alínea c) do n.º 1 inclui a lei dessas entidades, tendo em conta a estrutura constitucional do Estado-Membro em questão.
+
+###### Artigo 3.º — Composição do AECT
+
+1.
+
+Podem ser membros de AECT as seguintes entidades:
+
+a) Estados-Membros ou autoridades a nível nacional;
+
+b) Autoridades regionais;
+
+c) Autoridades locais;
+
+d) Empresas públicas, na aceção do artigo 2.º, n.º 1, alínea b), da Diretiva 2004/17/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3#E0001)), ou organismos de direito público, na aceção do artigo 1.º, n.º 9, segundo parágrafo, da Diretiva 2004/18/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3#E0002));
+
+e) Empresas encarregadas das operações de serviços de interesse económico geral de acordo com a legislação da União e a legislação nacional aplicáveis;
+
+f) Autoridades nacionais, regionais ou locais, ou organismos ou empresas, equivalentes aos referidos nas alíneas d) e e), de países terceiros, sob reserva das condições estabelecidas no artigo 3.º-A.
+
+Podem igualmente ser membros as associações constituídas por entidades pertencentes a uma ou mais destas categorias.
+
+2. O AECT é constituído por membros situados no território de, pelo menos, dois Estados-Membros, exceto nos casos previstos no artigo 3.º-A, n.^os^ 2 e 5.
+
+###### Artigo 3.º-A — Adesão de membros de países terceiros ou de países ou territórios ultramarinos (PTU)
+
+1. Nos termos do artigo 4.º, n.º 3-A, um AECT pode ser constítuido por membros situados no território de, pelo menos, dois Estados-Membros e de um ou mais países terceiros vizinhos de, pelo menos, um dos Estados-Membros, incluindo as suas regiões ultraperiféricas, caso esses Estados-Membros e países terceiros realizem conjuntamente ações de cooperação territorial ou executem programas apoiados pela União.
+
+Para efeitos do presente regulamento, considera-se que um país terceiro ou um PTU é vizinho de um Estado-Membro, incluindo as suas regiões ultraperiféricas, caso o país terceiro ou o PTU e o Estado-Membro em causa partilhem uma fronteira terrestre comum ou caso o país terceiro ou o PTU e o Estado-Membro sejam elegíveis no quadro de um programa marítimo conjunto transfronteiriço ou transnacional ao abrigo do objetivo da cooperação territorial europeia, ou de outros programas de cooperação transfronteiriça, de travessia marítima ou relativos às bacias marítimas, mesmo quando o país terceiro ou o PTU e o Estado-Membro estejam separados por águas internacionais.
+
+2. O AECT pode ser constiítuido por membros situados no território de apenas um Estado-Membro e de um ou mais países terceiros vizinhos do Estado-Membro em causa, incluindo as suas regiões ultraperiféricas, sempre que o Estado-Membro em causa considere que esse AECT é compatível com o âmbito da sua cooperação territorial no contexto da cooperação transfronteiriça ou transnacional ou das suas relações bilaterais com os países terceiros em causa.
+
+3. Para efeitos dos n.^os^ 1 e 2, os países terceiros vizinhos de um Estado-Membro, incluindo as suas regiões ultraperiféricas, compreendem as fronteiras marítimas entre os países em causa.
+
+4. Nos termos do artigo 4.º-A e sob reserva das condições estabelecidas no n.º 1 do presente artigo, um AECT pode também ser constítuido por membros situados no território de, pelo menos, dois Estados-Membros, incluindo as suas regiões ultraperiféricas, e de um ou mais PTU, com ou sem membros de um ou mais países terceiros.
+
+5. Nos termos do artigo 4.º-A e sob reserva das condições estabelecidas no n.º 2 do presente artigo, um AECT pode também ser constítuido por membros situados no território de um único Estado-Membro, incluindo as suas regiões ultraperiféricas, e de um ou mais PTU, com ou sem membros de um ou mais países terceiros.
+
+6. Um AECT não é constítuido unicamente entre membros de um Estado-Membro e de um ou mais PTU que tenham um elo com esse mesmo Estado-Membro.
+
+###### Artigo 4.º — Constituição do AECT
+
+1. A constituição de um AECT é decidida por iniciativa dos seus membros potenciais.
+
+2.
+
+Cada membro potencial:
+
+a) Notifica a sua intenção de participar num AECT ao Estado-Membro nos termos de cuja lei se constituiu, e
+
+b) Envia a esse Estado-Membro uma cópia do convénio e estatutos propostos a que se referem os artigos 8.º e 9.º
+
+3.
+
+Após a notificação nos termos do n.º 2 por um membro potencial, o Estado-Membro que recebeu a notificação aprova a participação do membro potencial no AECT e no convénio, tendo em conta a sua estrutura constitucional, a menos que considere que:
+
+a) Essa participação, ou o convénio, não cumpre uma das seguintes normativas:
+
+i) O presente regulamento;
+
+ii) Outras disposições legislativas da União relativas aos atos e às atividades do AECT;
+
+iii) A legislação nacional relativa aos poderes e competências do membro potencial;
+
+b) Essa participação não se justifica por razões de interesse público ou de ordem pública desse Estado-Membro; ou
+
+c) Os estatutos não são conformes com o convénio.
+
+Em caso de não aprovação, o Estado-Membro expõe os motivos da sua recusa de aprovação e, se for caso disso, propõe as alterações necessárias ao convénio.
+
+O Estado-Membro toma a sua decisão relativa à aprovação no prazo de seis meses, a contar da data de receção de uma notificação, nos termos do n.º 2. Se o Estado-Membro que recebeu a notificação não formular objeções no prazo fixado, a participação do membro potencial e o convénio são considerados aprovados. Todavia, o Estado-Membro em que ficar situada a sede estatutária proposta do AECT tem que aprovar formalmente o convénio para que AECT possa ser criado.
+
+Os pedidos de informação adicional do Estado-Membro ao membro potencial dão lugar à interrupção do prazo referido no terceiro parágrafo. O período de interrupção tem início no dia seguinte à data em que o Estado-Membro enviou as suas observações ao membro potencial e termina quando este responde às observações.
+
+Contudo, não há lugar à interrupção do prazo referido no terceiro parágrafo se o membro potencial apresentar uma resposta às observações do Estado-Membro no prazo de dez dias úteis a contar do início ao período de interrupção.
+
+Ao decidir sobre a participação do membro potencial num AECT, os Estados-Membros podem aplicar as suas regras nacionais.
+
+3-A.
+
+No caso de um AECT constituído por membros potenciais de um ou mais países terceiros, compete ao Estado-Membro em que deve situar-se a sede estatutária proposta do AECT verificar, em consulta com os demais Estados-Membros em causa, que as condições previstas no artigo 3.º-A estão cumpridas e que todos os países terceiros aprovaram a participação desse membro potencial, nos termos de:
+
+a) condições e procedimentos equivalentes aos previstos no presente regulamento, ou
+
+b) um acordo celebrado entre, pelo menos, um Estado-Membro ao abrigo de cuja lei um membro potencial está estabelecido e esse país terceiro.
+
+4. Os Estados-Membros designam as autoridades competentes para receber as notificações e os documentos a que se refere o n.º 2.
+
+5. Os membros acordam no convénio referido no artigo 8.º, garantindo a coerência com a aprovação, nos termos do n.º 3 do presente artigo.
+
+6. Qualquer alteração do convénio ou dos estatutos é notificada pelo AECT aos Estados-Membros ao abrigo de cuja lei os seus membros estão estabelecidos. Qualquer alteração do convénio é aprovada por esses Estados-Membros pelo procedimento previsto no presente artigo, exceto em caso de adesão de um novo membro ao abrigo do n.º 6-A, alínea a).
+
+6-A.
+
+A adesão de novos membros a um AECT existente rege-se pelas seguintes disposições:
+
+a) Em caso de adesão de um novo membro de um Estado-Membro que já tenha aprovado o convénio, a adesão é aprovada unicamente pelo Estado-Membro ao abrigo de cuja lei se encontra estabelecido o novo membro, de acordo com o procedimento estabelecido no n.º 3, e é notificada ao Estado-Membro em que o AECT tem a sua sede estatutária;
+
+b) Em caso de adesão de um novo membro de um Estado-Membro que ainda não tenha aprovado o convénio, aplica-se o procedimento estabelecido no n.º 6;
+
+c) Em caso de adesão de um novo membro de um país terceiro a um AECT existente, a adesão fica sujeita a verificação pelo Estado-Membro em que o AECT tem a sua sede estatutária, pelo procedimento estabelecido no n.º 3-A.
+
+###### Artigo 4.º-A — Participação de membros de PTU
+
+No caso de um AECT com um potencial membro de um PTU, o Estado-Membro com o qual o PTU tem um elo assegura-se de que estão preenchidas as condições do artigo 3.º-A e, tendo em conta as suas relações com o PTU:
+
+a) Aprova a participação do membro potencial, nos termos do artigo 4.º, n.º 3, ou
+
+b) Confirma por escrito ao Estado-Membro em que ficar situada a sede estatutária proposta do AECT, que as autoridades competentes do PTU aprovaram a participação do membro potencial de acordo com condições e procedimentos equivalentes aos previstos no presente regulamento.
+
+###### Artigo 5.º — Aquisição de personalidade jurídica e publicação no Jornal Oficial
+
+1. O convénio e os estatutos e quaisquer alterações subsequentes dos mesmos são registados ou publicados, ou ambas as coisas, no Estado-Membro em que o AECT em causa tem a sua sede estatutária, de acordo com a legislação nacional aplicável. O AECT adquire personalidade jurídica na data do registo ou da publicação, consoante o que ocorrer primeiro. Os membros informam os Estados-Membros em causa e o Comité das Regiões do registo ou da publicação do convénio e dos estatutos.
+
+2. O AECT assegura que, no prazo de dez dias úteis a contar do registo ou da publicação do convénio e dos estatutos, seja enviado ao Comité das Regiões um pedido de acordo com o modelo que figura no anexo do presente regulamento. Em seguida, o Comité das Regiões transmite esse pedido ao Serviço das Publicações da União Europeia para publicação de um aviso na série C do *Jornal Oficial da União Europeia*, anunciando a constituição do AECT, com os dados constantes do anexo do presente regulamento.
+
+###### Artigo 6.º — Controlo da gestão dos fundos públicos
+
+1. O controlo da gestão de fundos públicos pelo AECT é organizado pelas autoridades competentes do Estado-Membro onde o AECT tiver a sua sede estatutária. O Estado-Membro onde o AECT tiver a sua sede estatutária designa a autoridade competente para desempenhar essa função antes de aprovar a participação no AECT nos termos do artigo 4.º
+
+2. Caso a lei nacional dos outros Estados-Membros interessados o exija, as autoridades do Estado-Membro onde o AECT tiver a sua sede estatutária tomam as disposições necessárias para que as autoridades pertinentes nos outros Estados-Membros interessados efectuem controlos nos respectivos territórios dos actos do AECT praticados nesses Estados-Membros e procedam ao intercâmbio de todas as informações adequadas.
+
+3. Todos os controlos são efectuados de acordo com normas de auditoria internacionalmente aceites.
+
+4. Não obstante o disposto nos n.^os^ 1, 2 e 3 do presente artigo, sempre que as funções de um AECT referidas no artigo 7.º, n.º 3, abranjam ações cofinanciadas pela União, é aplicável a lei relevante relativa ao controlo dos fundos da União.
+
+5. O Estado-Membro onde o AECT tiver a sua sede estatutária informa os restantes Estados-Membros interessados de quaisquer dificuldades que possam surgir durante os controlos.
+
+###### Artigo 7.º — Funções
+
+1. O AECT exerce as funções que lhe são atribuídas pelos seus membros nos termos do presente regulamento. As funções são definidas no convénio acordado pelos membros, em conformidade com os artigos 4.º e 8.º
+
+2. O AECT age no quadro das funções que lhe são atribuídas, nomeadamente a facilitação e a promoção da cooperação territorial, tendo em vista o reforço da coesão económica, social e territorial da União, e a superação dos obstáculos ao mercado interno. Cada função é determinada pelos seus membros como inscrevendo-se no quadro de competências de cada membro, salvo se o Estado-Membro ou o país terceiro aprovar a participação de um membro constítuido ao abrigo da sua lei nacional, ainda que esse membro não tenha competência para desempenhar todas as funções especificadas no convénio.
+
+3. O AECT pode realizar outras ações específicas em matéria de cooperação territorial entre os seus membros para efeitos do objetivo a que se refere o artigo 1.º, n.º 2, com ou sem participação financeira da União.
+
+As funções de um AECT podem dizer respeito, principalmente, à execução de programas de cooperação, ou de partes de programas de cooperação, ou à execução de operações apoiadas pela União através do Fundo Europeu de Desenvolvimento Regional, do Fundo Social Europeu e/ou do Fundo de Coesão.
+
+Os Estados-Membros podem limitar as funções que os AECT podem realizar sem a participação financeira da União. Todavia, e sem prejuízo do artigo 13.º, os Estados-Membros não excluem as funções relacionadas com as prioridades de investimento a que se refere o artigo 7.º do Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3#E0003)).
+
+4. As funções cometidas ao AECT pelos seus membros não podem dizer respeito ao exercício de poderes conferidos pelo direito público nem de funções destinadas a salvaguardar os interesses gerais do Estado ou de outros poderes públicos, como sejam competências policiais ou de regulamentação, justiça e política externa.
+
+Contudo, de acordo com a legislação da União e a legislação nacional aplicáveis, a assembleia de um AECT referida no artigo 10.º, n.º 1, alínea a), pode definir os termos e as condições de utilização de uma infraestrutura gerida por esse AECT, ou os termos e condições em que é prestado um serviço de interesse económico geral, incluindo as tarifas e taxas a pagar pelos utilizadores.
+
+5. Os membros de um AECT podem decidir, por unanimidade, delegar num dos membros o exercício das suas funções.
+
+###### Artigo 8.º — Convénio
+
+1. Os AECT regem-se por um convénio celebrado pelos seus membros, por unanimidade, nos termos do artigo 4.º
+
+2.
+
+O convénio especifica:
+
+a) A designação do AECT e a sua sede estatutária;
+
+b) O âmbito territorial em que o AECT pode exercer as suas funções;
+
+c) O objetivo e as funções do AECT;
+
+d) A duração do AECT e as condições da sua dissolução;
+
+e) A lista dos membros do AECT;
+
+f) A lista dos órgãos do AECT e as suas respetivas competências;
+
+g) A legislação da União e a legislação nacional do Estado-Membro em que o AECT tem a sua sede estatutária para efeitos de interpretação e aplicação do convénio;
+
+h) A legislação da União aplicável e a legislação nacional do Estado-Membro em que os órgãos dos AECT exercem as suas competências;
+
+i) As disposições para a participação de membros de países terceiros ou de PTU, se for caso disso, incluindo a identificação da lei aplicável no caso de o AECT exercer as suas funções em países terceiros ou em PTU;
+
+j) A legislação da União e a legislação nacional aplicáveis diretamente às atividades dos AECT realizadas no âmbito das funções especificadas no convénio;
+
+k) As regras aplicáveis ao pessoal do AECT, bem como os princípios que regem as disposições em matéria de gestão do pessoal e de procedimentos de recrutamento;
+
+l) As disposições relativas à responsabilidade do AECT e dos respetivos membros, nos termos do artigo 12.º;
+
+m) Os mecanismos adequados para o reconhecimento mútuo, assim como para o controlo financeiro da gestão dos fundos públicos; e
+
+n) Os procedimentos de adoção dos estatutos e de alteração do convénio, que devem respeitar as obrigações estabelecidas nos artigos 4.º e 5.º.
+
+3. Nos casos em que as funções de um AECT se cinjam apenas à gestão de um programa de cooperação, ou uma parte de um programa de cooperação, no âmbito do Regulamento (UE) n.º 1299/2013, ou caso um AECT tenha por objeto a cooperação ou redes inter-regionais, a informação prevista no n.º 2, alínea b), não é exigida.
+
+###### Artigo 9.º — Estatutos
+
+1. Os estatutos do AECT são aprovados pelos seus membros, deliberando por unanimidade, com base e nos termos do respetivo convénio.
+
+2.
+
+Os estatutos do AECT devem especificar, no mínimo, o seguinte:
+
+a) As disposições em matéria de funcionamento dos seus órgãos e as respetivas competências, bem como o número de representantes dos membros nos órgãos relevantes;
+
+b) Os procedimentos de tomada de decisões;
+
+c) A língua ou línguas de trabalho;
+
+d) As disposições relativas ao seu funcionamento;
+
+e) Os procedimentos no que respeita à gestão e ao recrutamento do pessoal;
+
+f) O regime de contribuição financeira dos membros;
+
+g) As normas contabilísticas e orçamentais aplicáveis aos seus membros;
+
+h) A designação do auditor externo independente das respetivas contas; e
+
+i) os procedimentos de alteração dos estatutos, que devem respeitar as obrigações estabelecidas nos artigos 4.º e 5.º.
+
+###### Artigo 10.º — Organização do AECT
+
+1.
+
+São órgãos do AECT, pelo menos, os seguintes:
+
+a) Uma assembleia, composta por representantes dos seus membros;
+
+b) Um director, que representa o AECT e que age em nome deste.
+
+2. Os estatutos podem prever outros órgãos, com competências claramente definidas.
+
+3. O AECT é responsável pelos actos dos seus órgãos em relação a terceiros, mesmo quando tais actos não se insiram no âmbito das funções do AECT.
+
+###### Artigo 11.º — Orçamento
+
+1. O AECT elabora um orçamento anual, que deve ser aprovado pela assembleia, contendo, em especial, uma componente relativa às despesas de funcionamento e, se necessário, uma componente operacional.
+
+2. A elaboração das contas e, se necessário, do relatório anual que as acompanha, bem como a auditoria e publicação dessas contas, regem-se pela legislação nacional do Estado-Membro em que o AECT tem a sua sede estatutária.
+
+###### Artigo 12.º — Liquidação, insolvência, cessação de pagamentos e responsabilidade
+
+1. No que se refere a liquidação, insolvência, cessação de pagamentos e outros processos análogos, o AECT rege-se pela lei do Estado-Membro onde tiver a sua sede estatutária, salvo disposição em contrário nos n.^os^ 2 e 3.
+
+O AECT é responsável por todas as suas dívidas.
+
+2. Sem prejuízo do n.º 3, se o ativo de um AECT for insuficiente para fazer face ao passivo, os seus membros são responsáveis pelas dívidas do AECT, independentemente da respetiva natureza, sendo a parte de cada membro fixada na proporção da sua contribuição financeira. O regime de contribuição financeira é fixado nos estatutos.
+
+Os membros do AECT podem estabelecer nos estatutos que continuam responsáveis, depois de ter cessado a sua participação no AECT, pelas obrigações decorrentes das atividades do AECT durante a sua participação.
+
+2-A. Se a responsabilidade de, pelo menos, um membro do AECT de um Estado-Membro for limitada, em consequência da legislação nacional em cujos termos foi constituído, os restantes membros podem também limitar a sua responsabilidade no convénio caso a legislação nacional de execução do presente regulamento o permita.
+
+A designação de um AECT cujos membros tenham responsabilidade limitada inclui o termo "limitada".
+
+Os requisitos de publicação do convénio, dos estatutos e das contas de um AECT cujos membros tenham responsabilidade limitada devem ser, pelo menos, iguais aos aplicáveis a outras entidades jurídicas que tenham responsabilidade limitada, ao abrigo da legislação do Estado-Membro em que o AECT tem a sua sede estatutária.
+
+No caso de um AECT cujos membros tenham responsabilidade limitada, qualquer Estado-Membro interessado pode exigir que o AECT subscreva os seguros adequados ou que fique sujeito a uma garantia prestada por um banco ou outra instituição financeira estabelecida num Estado-Membro, ou seja coberto por um instrumento apresentado como garantia por uma entidade pública ou pelo Estado-Membro para cobrir os riscos inerentes às atividades do AECT.
+
+3. Sem prejuízo da responsabilidade financeira dos Estados-Membros em relação a financiamentos dos Fundos Estruturais e/ou de Coesão proporcionados a um AECT, não lhes cabe qualquer responsabilidade financeira por força do presente regulamento em relação a um AECT de que não sejam membros.
+
+###### Artigo 13.º — Interesse público
+
+Caso um AECT exerça uma actividade que viole disposições de ordem pública, segurança pública, saúde pública ou moralidade pública de um Estado-Membro, ou que viole o interesse público de um Estado-Membro, as instâncias competentes desse Estado-Membro podem proibir essa actividade no seu território ou exigir que os membros constituídos nos termos da sua lei se retirem do AECT, a menos que este cesse a actividade em causa.
+
+Tais proibições não devem constituir um meio de restrição arbitrária ou dissimulada à cooperação territorial entre os membros do AECT. A decisão da instância competente deve ser passível de revisão por um órgão judicial.
+
+###### Artigo 14.º — Dissolução
+
+1. Não obstante as disposições em matéria de dissolução previstas no convénio, o tribunal ou autoridade competente do Estado-Membro onde o AECT tiver a sua sede estatutária deve, a pedido de uma autoridade competente com interesse legítimo, decretar a liquidação do AECT caso verifique que este deixou de cumprir os requisitos estabelecidos no n.º 2 do artigo 1.º ou no artigo 7.º ou, em especial, que o AECT está a agir fora do âmbito das funções estabelecidas no artigo 7.º O tribunal ou autoridade competente informa todos os Estados-Membros nos termos de cuja lei os membros se tenham constituído de qualquer pedido de dissolução do AECT.
+
+2. O tribunal ou autoridade competente pode conceder ao AECT um prazo para regularizar a sua situação. Se o AECT não regularizar a situação no prazo fixado, o tribunal ou autoridade competente decreta a sua liquidação.
+
+###### Artigo 15.º — Competência judicial
+
+1. Os terceiros que se considerem lesados por actos ou omissões de um AECT podem fazer valer judicialmente os seus direitos.
+
+2. Salvo disposição em contrário do presente regulamento, aos litígios que envolvam um AECT é aplicável o direito da União em matéria de competência judicial. Nos casos não contemplados pelo direito da União, os tribunais competentes para dirimir os litígios são os tribunais do Estado-Membro em que o AECT tem a sua sede estatutária.
+
+Os tribunais competentes para dirimir os litígios abrangidos pelos n.^os^ 3 ou 6 do artigo 4.º ou pelo artigo 13.º são os tribunais do Estado-Membro cuja decisão for impugnada.
+
+3.
+
+Nada no presente regulamento priva os cidadãos de exercerem o seu direito constitucional de recorrerem das decisões de entidades públicas que sejam membros de um AECT no que se refere a:
+
+a) Decisões administrativas respeitantes a actividades exercidas por um AECT;
+
+b) Acesso a serviços na sua própria língua; e
+
+c) Acesso à informação.
+
+Nestes casos, os tribunais competentes são os tribunais do Estado-Membro cuja constituição confere o direito de recurso.
+
+###### Artigo 16.º — Disposições finais
+
+1. Os Estados-Membros adotam disposições para garantir a aplicação efetiva do presente regulamento, nomeadamente no que respeita à identificação das autoridades competentes responsáveis pelo procedimento de aprovação, de acordo com as suas disposições legais e administrativas.
+
+Sempre que tal for exigido pela legislação nacional de um Estado-Membro, este pode elaborar uma lista exaustiva das funções já exercidas pelos membros de um AECT, na aceção do artigo 3.º, n.º 1, constituído nos termos da sua legislação, no que se refere à cooperação territorial no território desse Estado-Membro.
+
+O Estado-Membro envia à Comissão as disposições adotadas ao abrigo do presente artigo e as respetivas alterações. A Comissão transmite essas disposições aos outros Estados-Membros e ao Comité das Regiões.
+
+1-A. As disposições a que se refere o n.º 1, na medida em que digam respeito a um Estado-Membro com um elo a um PTU, devem, tendo em conta as relações do Estado-Membro com o PTU, assegurar também a aplicação efetiva do presente regulamento no que respeita a esse PTU, vizinho de outros Estados-Membros ou das respetivas regiões ultraperiféricas.
+
+2. Os Estados-Membros podem impor o pagamento das despesas relacionadas com o registo do convénio e dos estatutos. Todavia, essas despesas não podem exceder os respectivos custos administrativos.
+
+###### Artigo 17.º — Relatório
+
+Até 1 de agosto de 2018, a Comissão transmite ao Parlamento Europeu, ao Conselho e ao Comité das Regiões um relatório sobre a aplicação do presente regulamento no qual, com base em indicadores, é avaliada a sua eficácia, eficiência, relevância, valor acrescentado europeu e margem de simplificação.
+
+A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 17.º-A, para criar a lista de indicadores a que se refere o primeiro parágrafo.
+
+###### Artigo 17.º-A — Exercício da delegação
+
+1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar os atos delegados a que se refere o artigo 17.º, segundo parágrafo, é conferido à Comissão por um prazo de cinco anos, a partir de21 de Dezembro de 2013.
+
+3. A delegação de poderes referida no artigo 17.º, segundo parágrafo, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação de poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+5. Os atos delegados adotados nos termos do artigo 17.º, segundo parágrafo, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo no prazo de três meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por três meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é aplicável o mais tardar em 1 de Agosto de 2007, com excepção do artigo 16.º, que é aplicável a partir de 1 de Agosto de 2006.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+## ANEXO
+
+### Modelo das informações a apresentar nos termos do artigo 5.º, n.º 2
+
+### CONSTITUIÇÃO DE UM AGRUPAMENTO EUROPEU DE COOPERAÇÃO TERRITORIAL (AECT)
+
+*A designação de um AECT cujos membros tenham responsabilidade limitada inclui o termo “limitada” (artigo 12.º, n.º 2 A)*
+
+*O asterisco* indica os campos obrigatórios.*
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3#src.E0001)) Diretiva 2004/17/CE do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação de contratos nos sectores da água, da energia, dos transportes e dos serviços postais (JO L 134 de 30.4.2004, p. 1).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3#src.E0002)) Diretiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços (JO L 134 de 30.4.2004, p. 114).
+
+> ([^3^](http://publications.europa.eu/resource/cellar/848b78a1-f2fc-11e3-831f-01aa75ed71a1.0015.02/DOC_3#src.E0003)) Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho, de 17 de Dezembro de 2013, relativo às disposições específicas aplicáveis ao apoio prestado pelo Fundo Europeu de Desenvolvimento Regional ao objetivo da Cooperação Territorial Europeia (JO 347, de 20.12.2013, p. 259).

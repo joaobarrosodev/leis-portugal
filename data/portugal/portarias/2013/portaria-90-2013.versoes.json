@@ -1,0 +1,987 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259255:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-75333805",
+ "dre_path": "/dr/detalhe/portaria/90-2013-259255",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-02-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "201056459",
+    "75331269",
+    "75331270",
+    "75331271",
+    "75331272",
+    "75331273",
+    "75331274",
+    "75335275",
+    "75335276",
+    "75335277",
+    "75335278",
+    "75335280",
+    "75335281"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:258743:por",
+     "title": "Declaração de Retificação n.º 13/2013",
+     "published": "2013-03-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/13-2013-258743",
+     "date": "2013-03-01"
+    }
+   ]
+  },
+  {
+   "date": "2014-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345928:por",
+     "title": "Portaria n.º 119/2014",
+     "published": "2014-06-03",
+     "dre_path": "/dr/detalhe/portaria/119-2014-25345928"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "75331268",
+    "75331269",
+    "75331270",
+    "75331271",
+    "75331272",
+    "75335301",
+    "75335302",
+    "75335293",
+    "75335294",
+    "75335295",
+    "75335296",
+    "75335297",
+    "75335298",
+    "75335303",
+    "75335300"
+   ]
+  },
+  {
+   "date": "2016-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75307951:por",
+     "title": "Portaria n.º 247/2016",
+     "published": "2016-09-14",
+     "dre_path": "/dr/detalhe/portaria/247-2016-75307951"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 6.º-A",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "75331268",
+    "75331269",
+    "75331270",
+    "75335332",
+    "75335345",
+    "75335346",
+    "75335347",
+    "75335348",
+    "75335349",
+    "75335338",
+    "75335339",
+    "75335340",
+    "75335341",
+    "75335342",
+    "75335350",
+    "75335351"
+   ]
+  },
+  {
+   "date": "2016-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105595733:por",
+     "title": "Portaria n.º 330-B/2016",
+     "published": "2016-12-21",
+     "dre_path": "/dr/detalhe/portaria/330-b-2016-105595733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Revoga Artigo 2.º-A"
+   ],
+   "fragments": [
+    "75331268",
+    "146579481",
+    "75331270",
+    "146579483",
+    "75335345",
+    "75335346",
+    "75335347",
+    "146579482",
+    "75335349",
+    "75335338",
+    "75335339",
+    "75335340",
+    "75335341",
+    "75335342",
+    "75335350",
+    "75335351"
+   ]
+  },
+  {
+   "date": "2018-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116576561:por",
+     "title": "Portaria n.º 271-A/2018",
+     "published": "2018-10-01",
+     "dre_path": "/dr/detalhe/portaria/271-a-2018-116576561"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "75331268",
+    "146579481",
+    "75331270",
+    "146579483",
+    "75335345",
+    "75335346",
+    "75335347",
+    "146579492",
+    "75335349",
+    "146579493",
+    "75335339",
+    "75335340",
+    "75335341",
+    "75335342",
+    "146579494",
+    "146579495"
+   ]
+  },
+  {
+   "date": "2020-10-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146244168:por",
+     "title": "Portaria n.º 254/2020",
+     "published": "2020-10-26",
+     "dre_path": "/dr/detalhe/portaria/254-2020-146244168"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-B",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "75331268",
+    "146579481",
+    "75331270",
+    "146579483",
+    "75335345",
+    "75335346",
+    "75335347",
+    "146579502",
+    "75335349",
+    "146579504",
+    "146579505",
+    "146579506",
+    "146579507",
+    "146579508",
+    "146579509",
+    "146579510",
+    "146579511"
+   ]
+  },
+  {
+   "date": "2021-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175043513:por",
+     "title": "Portaria n.º 274/2021",
+     "published": "2021-11-29",
+     "dre_path": "/dr/detalhe/portaria/274-2021-175043513"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "75331268",
+    "146579481",
+    "75331270",
+    "146579483",
+    "75335345",
+    "75335346",
+    "75335347",
+    "175122551",
+    "75335349",
+    "146579504",
+    "146579505",
+    "146579506",
+    "146579507",
+    "146579508",
+    "146579509",
+    "146579510",
+    "146579511"
+   ]
+  },
+  {
+   "date": "2022-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201054619:por",
+     "title": "Portaria n.º 237/2022",
+     "published": "2022-09-14",
+     "dre_path": "/dr/detalhe/portaria/237-2022-201054619"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "201056459",
+    "201056460",
+    "201056461",
+    "201056462",
+    "201056463",
+    "201056464",
+    "201056465",
+    "201056466",
+    "201056467",
+    "201056468",
+    "201056469",
+    "201056470",
+    "201056471",
+    "201056472",
+    "201056473",
+    "201056474",
+    "201089075"
+   ]
+  }
+ ],
+ "fragments": {
+  "201056459": {
+   "fragment_id": "75333806",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-09-15",
+   "changed_by": [],
+   "markdown": "Portaria n.º 90/2013\n\nde 28 de fevereiro\n\nA Portaria n.º 1466/2007, de 15 de novembro, estabeleceu os critérios e as condições para o licenciamento de embarcações para a pesca de espadarte com palangre de superfície no Oceano Atlântico e no Mar Mediterrâneo e a forma de repartição da quota de espadarte, relativamente às unidades populacionais do Atlântico Norte e do Atlântico Sul.\n\nA experiência entretanto adquirida na gestão destas pescarias e o agravamento das condições de segurança da frota licenciada para operar no Oceano Índico, tornam adequada a alteração dos critérios e das condições em vigor a favor de soluções capazes de promover uma melhor utilização das quotas disponíveis pela frota portuguesa. Nesse sentido, o presente diploma estabelece um novo regime de gestão flexível da quota portuguesa de espadarte no Oceano Atlântico Norte e no Oceano Atlântico Sul, atribuindo competências específicas às organizações de produtores e às associações neste domínio, o que reforça a importância reconhecida a estas organizações.\n\nEsta nova regulamentação implica alterações profundas ao regime em vigor, pelo que se justifica a aprovação de uma nova Portaria, com a consequente revogação da Portaria n.º 1466/2007, de 15 de novembro.\n\nAssim, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, na redação dada pelo Decreto-Lei n.º 383/98, de 27 de novembro e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território no despacho n.º 12412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011, manda o Governo, pelo Secretário de Estado do Mar, o seguinte:"
+  },
+  "75331269": {
+   "fragment_id": "75333807",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente Portaria define o modelo de gestão, incluindo a repartição das quotas, para a pesca de espadarte com palangre de superfície no Oceano Atlântico e no Mar Mediterrâneo."
+  },
+  "75331270": {
+   "fragment_id": "75333808",
+   "type": 11,
+   "heading": "Artigo 2.º — Repartição da quota de espadarte do Oceano Atlântico a Norte de 5ºN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Repartição da quota de espadarte do Oceano Atlântico a Norte de 5ºN\n\n1 - A quota de espadarte disponível para Portugal continental, no Oceano Atlântico a Norte de 5ºN é repartida pelas embarcações licenciadas para a pesca dirigida ao espadarte de acordo com a chave de repartição constante do Anexo I à presente Portaria e que dela faz parte integrante.\n\n2 - As embarcações registadas em portos do continente que não constem do Anexo I à presente Portaria mas que sejam titulares de licença para operar com palangre de superfície no Oceano Atlântico a Norte de 5ºN, apenas podem capturar espadarte como captura acessória, sendo a quantidade máxima desta espécie permitida a bordo igual a 5 % do peso das capturas retidas a bordo, ou a um exemplar caso o peso deste ultrapasse aquele valor."
+  },
+  "75331271": {
+   "fragment_id": "75333809",
+   "type": 11,
+   "heading": "Artigo 3.º — Repartição da quota de espadarte no Oceano Atlântico a Sul de 5ºN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Repartição da quota de espadarte no Oceano Atlântico a Sul de 5ºN\n\n1 - A quota portuguesa de espadarte relativa ao Oceano Atlântico a Sul de 5ºN é repartida da seguinte forma:\n\na) 81 % destina-se a embarcações licenciadas para a pesca dirigida ao espadarte, sendo repartida de acordo com a chave de repartição constante do Anexo II à presente Portaria que dela faz parte integrante;\n\nb) 19 % destina-se a ser utilizada para capturas acessórias, nos termos dos números seguintes.\n\n2 - Qualquer embarcação que seja titular de licença para palangre de superfície no Oceano Atlântico Norte pode, através de requerimento, ser licenciada para o Oceano Atlântico Sul, desde que se comprove que possui as características e os requisitos necessários para operar nesta área.\n\n3 - As embarcações licenciadas nos termos do número anterior apenas podem capturar espadarte no Oceano Atlântico Sul, a Sul de 5º Norte, como capturas acessórias, sendo a quantidade máxima desta espécie permitida a bordo igual a 5 % do peso das capturas retidas a bordo, ou a um exemplar caso o peso deste ultrapasse aquele valor."
+  },
+  "75331272": {
+   "fragment_id": "75333810",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão Conjunta das quotas de espadarte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão Conjunta das quotas de espadarte\n\n1 - As organizações de produtores ou as associações de profissionais da pesca podem optar por exercer a gestão conjunta das quotas de espadarte das embarcações dos seus membros ou associados que para tal manifestem a sua vontade.\n\n2 - A gestão conjunta prevista no número anterior está sujeita a comunicação prévia à Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca e pelos proprietários ou armadores das embarcações envolvidas, até 20 dias úteis antes do início do ano civil a que as quotas se referem.\n\n3 - As organizações de produtores e as associações de profissionais da pesca que tenham optado pela gestão conjunta são responsáveis pela gestão da respetiva quota, que corresponde ao somatório das quotas individuais das embarcações detidas pelos respectivos membros ou associados que participem na gestão conjunta, devendo comunicar à DGRM a data a partir da qual estimam que a quota seja atingida, assegurando que os seus membros ou associados não capturam após o atingir da quota.\n\n4 - Os membros de organizações de produtores ou de associações de profissionais da pesca que optem pela gestão conjunta não estão sujeitos ao limite da quota individual atribuída nos termos do disposto nos Anexos I e II."
+  },
+  "75331273": {
+   "fragment_id": "75333811",
+   "type": 11,
+   "heading": "Artigo 5.º — Transferência de Quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transferência de Quotas\n\n1 - É admitida a transferência de quotas ou de parte de quotas de cada uma das unidades populacionais de espadarte nas seguintes condições:\n\na) Entre organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta;\n\nb) Entre uma organização de produtores ou associação de profissionais da pesca que tenham optado pela gestão conjunta e embarcações com quota não integradas neste modelo de gestão;\n\nc) Entre embarcações com quota e não integradas na gestão conjunta;\n\nd) Entre embarcações com quota ou organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e embarcações sem quota atribuída;\n\ne) No Oceano Atlântico a Sul de 5º N, entre embarcações detentoras de quota, organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e as embarcações que pescam espadarte como captura acessória, referidas no n.º 3 do artigo 3.º, a favor destas últimas.\n\n2 - A transferência de quotas prevista no número anterior está sujeita a comunicação prévia à DGRM, mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca ou, se for caso disso, pelos proprietários/armadores das embarcações envolvidas.\n\n3 - A transferência de quotas produz efeitos no dia seguinte ao da comunicação prévia à DGRM.\n\n4 - Uma embarcação, organização de produtores ou associação de profissionais da pesca que receba quotas por transferência não pode ser responsabilizada por quantidades capturadas em excesso pela parte que tenha efetuado a cedência."
+  },
+  "75331274": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II à presente Portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública, são repartidas pelas restantes embarcações constantes do mesmo Anexo que a embarcação retirada da frota, de acordo com a chave de repartição no mesmo prevista.\n\n3 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II que sejam definitivamente retiradas da frota de pesca sem recurso a ajuda pública e sem que sejam construídas outras em sua substituição, podem ser transferidas para outras embarcações licenciadas para a mesma arte, constantes dos mesmos Anexos que a embarcação retirada da frota e pertencentes ao mesmo proprietário ou armador.\n\n4 - Por despacho do Diretor-geral da DGRM, sempre que, à data de 31 de outubro de cada ano, a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5 º N for inferior a 70 %, a pesca desta espécie pode ser aberta a todas as embarcações licenciadas para operar em cada área com palangre de superfície.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM."
+  },
+  "75335275": {
+   "fragment_id": "75333813",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proibição de pesca\n\n1 - É proibida a pesca de espadarte das unidades populacionais do Oceano Atlântico sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação cuja quota não é gerida por uma organização de produtores ou associação de profissionais da pesca nos termos do n.º 1 do artigo 4.º, a mesma haja pescado a totalidade da respectiva quota individual ou quando, independentemente de tal facto, haja sido encerrada a captura da unidade populacional em causa;\n\nb) Quando, tratando-se de embarcação referida no n.º 3 do artigo 3.º, haja sido atingido o limite dos 19 % da quota de espadarte da unidade populacional do Oceano Atlântico Sul, estabelecido no n.º 1 do artigo 3.º;\n\nc) Quando, tratando-se de embarcações cujas quotas estão em gestão conjunta por uma organização de produtores ou associação de profissionais da pesca, haja sido atingida a quota gerida por estas.\n\n2 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, a pesca é proibida logo que seja atingida a totalidade da quota disponível no Oceano Atlântico Norte ou Sul para Portugal continental.\n\n3 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar."
+  },
+  "75335276": {
+   "fragment_id": "75333814",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1466/2007, de 15 de novembro."
+  },
+  "75335277": {
+   "fragment_id": "75333815",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAs organizações de produtores ou as associações de profissionais da pesca que pretendam optar pela gestão conjunta em 2013 comunicam a sua intenção à DGRM no prazo de 15 dias após a entrada em vigor da presente Portaria."
+  },
+  "75335278": {
+   "fragment_id": "75333816",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75335280": {
+   "fragment_id": "75333818",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Norte de 5 º N\n\n(ver documento original)"
+  },
+  "75335281": {
+   "fragment_id": "75333819",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Sul de 5 º N\n\n(ver documento original)"
+  },
+  "75331268": {
+   "fragment_id": "75333806",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 90/2013\n\nde 28 de fevereiro\n\nA Portaria n.º 1466/2007, de 15 de novembro, estabeleceu os critérios e as condições para o licenciamento de embarcações para a pesca de espadarte com palangre de superfície no Oceano Atlântico e no Mar Mediterrâneo e a forma de repartição da quota de espadarte, relativamente às unidades populacionais do Atlântico Norte e do Atlântico Sul.\n\nA experiência entretanto adquirida na gestão destas pescarias e o agravamento das condições de segurança da frota licenciada para operar no Oceano Índico, tornam adequada a alteração dos critérios e das condições em vigor a favor de soluções capazes de promover uma melhor utilização das quotas disponíveis pela frota portuguesa. Nesse sentido, o presente diploma estabelece um novo regime de gestão flexível da quota portuguesa de espadarte no Oceano Atlântico Norte e no Oceano Atlântico Sul, atribuindo competências específicas às organizações de produtores e às associações neste domínio, o que reforça a importância reconhecida a estas organizações.\n\nEsta nova regulamentação implica alterações profundas ao regime em vigor, pelo que se justifica a aprovação de uma nova Portaria, com a consequente revogação da Portaria n.º 1466/2007, de 15 de novembro.\n\nAssim, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, na redação dada pelo Decreto-Lei n.º 383/98, de 27 de novembro e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território no despacho n.º 12412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011, manda o Governo, pelo Secretário de Estado do Mar, o seguinte:"
+  },
+  "75335301": {
+   "fragment_id": "75333811",
+   "type": 11,
+   "heading": "Artigo 5.º — Transferência de Quotas",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 5.º — Transferência de Quotas\n\n1 - É admitida a transferência de quotas ou de parte de quotas de cada uma das unidades populacionais de espadarte nas seguintes condições:\n\na) Entre organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta;\n\nb) Entre uma organização de produtores ou associação de profissionais da pesca que tenham optado pela gestão conjunta e embarcações com quota não integradas neste modelo de gestão;\n\nc) Entre embarcações com quota e não integradas na gestão conjunta;\n\nd) Entre embarcações com quota ou organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e embarcações sem quota atribuída;\n\ne) No Oceano Atlântico a Sul de 5º N, entre embarcações detentoras de quota, organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e as embarcações que pescam espadarte como captura acessória, referidas no n.º 3 do artigo 3.º, a favor destas últimas.\n\nf) Com carácter definitivo, entre embarcações com quota, desde que a embarcação cedente prescinda da quota que detém e da licença de palangre de superfície, nas seguintes condições:\n\ni) A embarcação cedente tenha sido licenciada para o exercício da pesca num dos últimos seis anos;\n\nii) A quota detida pela embarcação recetora não ultrapasse 5 % da quota do continente de espadarte do Atlântico Norte em resultado da cedência.\n\n2 - A transferência de quotas prevista no número anterior está sujeita a comunicação prévia à DGRM, mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca ou, se for caso disso, pelos proprietários/armadores das embarcações envolvidas exceto quando se trate de transferência definitiva de quota nos termos da alínea f ) do número anterior ou de cedência de quota por parte de uma embarcação não licenciada para o exercício da pesca, situações que estão sujeitas a autorização da DGRM.\n\n3 - A transferência de quotas produz efeitos no dia seguinte ao da comunicação prévia à DGRM ou, tratando-se de transferência definitiva de quotas ou cedência por parte de uma embarcação não licenciada para o exercício da pesca, da data da respetiva autorização.\n\n4 - Uma embarcação, organização de produtores ou associação de profissionais da pesca que receba quotas por transferência não pode ser responsabilizada por quantidades capturadas em excesso pela parte que tenha efetuado a cedência.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "75335302": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II à presente Portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública, são repartidas equitativamente pelas restantes embarcações constantes do mesmo anexo que a embarcação retirada da frota.\n\n3 - Por despacho do Diretor-geral da DGRM, sempre que as quotas detidas pelas embarcações constantes dos Anexos I e II não tenham sido objeto de transferência nos termos do n.º 2 do artigo 5.º ou as embarcações em causa não tenham sido licenciadas para o exercício da pesca, as respetivas quotas são repartidas equitativamente pelas restantes embarcações do mesmo anexo, exceto se o armador tiver informado a DGRM, o mais tardar até 31 de março, da sua intenção de licenciar a embarcação para o ano em causa ou de a mesma estar integrada num sistema de gestão conjunta nos termos do artigo 4.º\n\n4 - Por despacho do Diretor-geral da DGRM, sempre que, à data de 31 de outubro de cada ano, a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5 º N for inferior a 70 %, a pesca desta espécie pode ser aberta a todas as embarcações licenciadas para operar em cada área com palangre de superfície.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "75335293": {
+   "fragment_id": "75333832",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Tamanho mínimo",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º-A — Tamanho mínimo\n\nÉ proibida a captura, manutenção a bordo e descarga de exemplares de espadarte com peso vivo inferior a 15 kg, de acordo com a recomendação da Comissão Internacional para a Conservação dos Tunídeos do Atlântico (ICCAT).\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "75335294": {
+   "fragment_id": "75333813",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proibição de pesca\n\n1 - É proibida a pesca de espadarte das unidades populacionais do Oceano Atlântico sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação cuja quota não é gerida por uma organização de produtores ou associação de profissionais da pesca nos termos do n.º 1 do artigo 4.º, a mesma haja pescado a totalidade da respectiva quota individual ou quando, independentemente de tal facto, haja sido encerrada a captura da unidade populacional em causa;\n\nb) Quando, tratando-se de embarcação referida no n.º 3 do artigo 3.º, haja sido atingido o limite dos 19 % da quota de espadarte da unidade populacional do Oceano Atlântico Sul, estabelecido no n.º 1 do artigo 3.º;\n\nc) Quando, tratando-se de embarcações cujas quotas estão em gestão conjunta por uma organização de produtores ou associação de profissionais da pesca, haja sido atingida a quota gerida por estas.\n\n2 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, a pesca é proibida logo que seja atingida a totalidade da quota disponível no Oceano Atlântico Norte ou Sul para Portugal continental.\n\n3 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar."
+  },
+  "75335295": {
+   "fragment_id": "75333814",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1466/2007, de 15 de novembro."
+  },
+  "75335296": {
+   "fragment_id": "75333815",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAs organizações de produtores ou as associações de profissionais da pesca que pretendam optar pela gestão conjunta em 2013 comunicam a sua intenção à DGRM no prazo de 15 dias após a entrada em vigor da presente Portaria."
+  },
+  "75335297": {
+   "fragment_id": "75333816",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75335298": {
+   "fragment_id": "75333817",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2013."
+  },
+  "75335303": {
+   "fragment_id": "75333818",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2014-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04",
+    "Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\n2 – Não fará sentido manter-se a o artigo.º 6.º, até porque haverá entendimento na partilha do recheio da casa, o mesmo valendo para as quaantias monetárias constantes da art.º  8.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04\n\n> Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+  },
+  "75335300": {
+   "fragment_id": "75333819",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Sul de 5 º N\n\n(ver documento original)"
+  },
+  "75335332": {
+   "fragment_id": "75333866",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Licença para o exercício da pesca com palangre de superfície no Mar Mediterrâneo",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "###### Artigo 2.º-A — Licença para o exercício da pesca com palangre de superfície no Mar Mediterrâneo\n\nPodem ser licenciadas para o Mar Mediterrâneo, mediante requerimento, as embarcações constantes do anexo a que se refere o artigo anterior, que comprovem possuir as características e os requisitos necessários para operar naquela área.\n\n> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "75335345": {
+   "fragment_id": "75333809",
+   "type": 11,
+   "heading": "Artigo 3.º — Quota de espadarte do Oceano Atlântico a Sul de 5º N",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "###### Artigo 3.º — Quota de espadarte do Oceano Atlântico a Sul de 5º N\n\n1 - A quota portuguesa de espadarte relativa ao Oceano Atlântico a Sul de 5ºN é repartida da seguinte forma:\n\na) 81 % destina-se a embarcações licenciadas para a pesca dirigida ao espadarte, sendo repartida de acordo com a chave de repartição constante do Anexo II à presente Portaria que dela faz parte integrante;\n\nb) 19 % destina-se a ser utilizada para capturas acessórias, nos termos dos números seguintes.\n\n2 - Podem ainda ser licenciadas para o Oceano Atlântico a Sul de 5º N, mediante requerimento, as embarcações que comprovem possuir as características e os requisitos necessários para operar nesta área e reúnam, por ordem de prioridade, uma das condições a seguir indicadas:\n\na) Detenham licença para operar ao abrigo de Acordos de Parceria no Domínio da Pesca Sustentável celebrados com países terceiros no Oceano Atlântico a Sul de 5º N;\n\nb) Detenham licença para palangre de superfície no Oceano Atlântico a Norte de 5º N;\n\nc) Detenham licença para palangre de superfície e não se encontrem abrangidos por nenhuma das situações a que se referem as alíneas anteriores.\n\n3 - As embarcações licenciadas nos termos do número anterior apenas podem capturar espadarte no Oceano Atlântico Sul, a Sul de 5º Norte, como capturas acessórias, sendo a quantidade máxima desta espécie permitida a bordo igual a 5 % do peso das capturas retidas a bordo, ou a um exemplar caso o peso deste ultrapasse aquele valor.\n\n4 - As embarcações licenciadas ao abrigo das alíneas b) e c) do n.º 2, que não apresentem capturas de espadarte durante dois anos consecutivos, perdem a possibilidade de captura desta espécie nos termos das referidas alíneas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "75335346": {
+   "fragment_id": "75333810",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão Conjunta das quotas de espadarte",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "###### Artigo 4.º — Gestão Conjunta das quotas de espadarte\n\n1 - As organizações de produtores ou as associações de profissionais da pesca podem optar por exercer a gestão conjunta das quotas de espadarte das embarcações dos seus membros ou associados que para tal manifestem a sua vontade.\n\n2 - A gestão conjunta prevista no número anterior está sujeita a comunicação prévia à Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca e pelos proprietários ou armadores das embarcações envolvidas, a apresentar nos seguintes termos:\n\na) Até ao dia 20 de dezembro de cada ano, para as embarcações integradas à data em organizações de produtores;\n\nb) No prazo de 20 dias úteis contados a partir da data da comunicação à DGRM da integração de embarcações em organizações de produtores ou associações na sequência da adesão dos respetivos armadores, determinada por mudança de titularidade ou por transferências de quotas, sendo a totalidade das capturas efetuadas até à data da integração bem como o total da quota anual contabilizadas no âmbito da gestão conjunta da organização de produtores ou associação que as integra.\n\n3 - As organizações de produtores e as associações de profissionais da pesca que tenham optado pela gestão conjunta são responsáveis pela gestão da respetiva quota, que corresponde ao somatório das quotas individuais das embarcações detidas pelos respectivos membros ou associados que participem na gestão conjunta, devendo comunicar à DGRM a data a partir da qual estimam que a quota seja atingida, assegurando que os seus membros ou associados não capturam após o atingir da quota.\n\n4 - Os membros de organizações de produtores ou de associações de profissionais da pesca que optem pela gestão conjunta não estão sujeitos ao limite da quota individual atribuída nos termos do disposto nos Anexos I e II.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "75335347": {
+   "fragment_id": "75333811",
+   "type": 11,
+   "heading": "Artigo 5.º — Transferência de Quotas",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 5.º — Transferência de Quotas\n\n1 - É admitida a transferência de quotas ou de parte de quotas de cada uma das unidades populacionais de espadarte nas seguintes condições:\n\na) Entre organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta;\n\nb) Entre uma organização de produtores ou associação de profissionais da pesca que tenham optado pela gestão conjunta e embarcações com quota não integradas neste modelo de gestão;\n\nc) Entre embarcações com quota e não integradas na gestão conjunta;\n\nd) Entre embarcações com quota ou organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e embarcações sem quota atribuída;\n\ne) No Oceano Atlântico a Sul de 5º N, entre embarcações detentoras de quota, organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e as embarcações que pescam espadarte como captura acessória, referidas no n.º 3 do artigo 3.º, a favor destas últimas.\n\nf) Com caráter definitivo, entre embarcações com quota, desde que se verifiquem cumulativamente as seguintes condições:\n\ni) A embarcação cedente tenha sido licenciada para o exercício da pesca num dos últimos seis anos;\n\nii) A embarcação cedente prescinda da licença de palangre de superfície quando a quota mantida for inferior a 0,5 % da quota de espadarte do Atlântico Norte do continente e a 9 % da quota de espadarte do Atlântico Sul;\n\niii) A quota detida pela embarcação recetora não ultrapasse 6,5 % da quota de espadarte do Atlântico Norte do continente em resultado da cedência.\n\n2 - A transferência de quotas prevista no número anterior está sujeita a comunicação prévia à DGRM, mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca ou, se for caso disso, pelos proprietários/armadores das embarcações envolvidas exceto quando se trate de transferência definitiva de quota nos termos da alínea f ) do número anterior ou de cedência de quota por parte de uma embarcação não licenciada para o exercício da pesca, situações que estão sujeitas a autorização da DGRM.\n\n3 - A transferência de quotas produz efeitos no dia seguinte ao da comunicação prévia à DGRM ou, tratando-se de transferência definitiva de quotas ou cedência por parte de uma embarcação não licenciada para o exercício da pesca, da data da respetiva autorização.\n\n4 - Uma embarcação, organização de produtores ou associação de profissionais da pesca que receba quotas por transferência não pode ser responsabilizada por quantidades capturadas em excesso pela parte que tenha efetuado a cedência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "75335348": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II à presente Portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública, são repartidas equitativamente pelas restantes embarcações constantes do mesmo anexo que a embarcação retirada da frota.\n\n3 - Por despacho do Diretor-Geral da DGRM, sempre que as quotas detidas pelas embarcações constantes dos anexos i e ii não tenham sido objeto de transferência nos termos do n.º 2 do artigo 5.º ou as embarcações em causa não tenham sido licenciadas para o exercício da pesca, as respetivas quotas são repartidas equitativamente pelas restantes embarcações do mesmo anexo, exceto se o armador tiver informado a DGRM, o mais tardar até 31 de março, da sua intenção de licenciar a embarcação para o ano em causa.\n\n4 - Por despacho do Diretor-Geral da DGRM, sempre que à data de 30 de setembro de cada ano a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte de 5º N for inferior a 70 %, a pesca desta espécie pode ser aberta a todas as embarcações licenciadas para operar nesta área com palangre de superfície.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "75335349": {
+   "fragment_id": "75333832",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Tamanho mínimo",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º-A — Tamanho mínimo\n\n1 - É proibido capturar, manter a bordo, transbordar, descarregar, transportar, armazenar, expor ou colocar à venda, vender ou comercializar exemplares de espadarte com peso vivo inferior a 25 kg ou com menos de 125 cm de comprimento, medidos da mandíbula inferior à furca, de acordo com o disposto no Regulamento (CE) n.º 520/2007 do Conselho, de 7 de maio de 2007.\n\n2 - O disposto no número anterior não é aplicável às capturas acidentais, até uma percentagem máxima de 15 % de exemplares, calculada com base no número total de espadartes capturados por embarcação e por descarga.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "75335338": {
+   "fragment_id": "75333813",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proibição de pesca\n\n1 - É proibida a pesca de espadarte das unidades populacionais do Oceano Atlântico sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação cuja quota não é gerida por uma organização de produtores ou associação de profissionais da pesca nos termos do n.º 1 do artigo 4.º, a mesma haja pescado a totalidade da respectiva quota individual ou quando, independentemente de tal facto, haja sido encerrada a captura da unidade populacional em causa;\n\nb) Quando, tratando-se de embarcação referida no n.º 3 do artigo 3.º, haja sido atingido o limite dos 19 % da quota de espadarte da unidade populacional do Oceano Atlântico Sul, estabelecido no n.º 1 do artigo 3.º;\n\nc) Quando, tratando-se de embarcações cujas quotas estão em gestão conjunta por uma organização de produtores ou associação de profissionais da pesca, haja sido atingida a quota gerida por estas.\n\n2 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, a pesca é proibida logo que seja atingida a totalidade da quota disponível no Oceano Atlântico Norte ou Sul para Portugal continental.\n\n3 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar."
+  },
+  "75335339": {
+   "fragment_id": "75333814",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1466/2007, de 15 de novembro."
+  },
+  "75335340": {
+   "fragment_id": "75333815",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAs organizações de produtores ou as associações de profissionais da pesca que pretendam optar pela gestão conjunta em 2013 comunicam a sua intenção à DGRM no prazo de 15 dias após a entrada em vigor da presente Portaria."
+  },
+  "75335341": {
+   "fragment_id": "75333816",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75335342": {
+   "fragment_id": "75333817",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2013."
+  },
+  "75335350": {
+   "fragment_id": "75333818",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04",
+    "Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Norte de 5º N\n\n(ver documento original)\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04\n\n> Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+  },
+  "75335351": {
+   "fragment_id": "75333819",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)",
+   "in_force_from": "2016-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Sul de 5º N\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "146579481": {
+   "fragment_id": "75333807",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2016-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define o modelo de gestão, incluindo a repartição das quotas, para a pesca de espadarte com palangre de superfície no Oceano Atlântico.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22"
+  },
+  "146579483": {
+   "fragment_id": "75333866",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Licença para o exercício da pesca com palangre de superfície no Mar Mediterrâneo",
+   "in_force_from": "2016-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22",
+    "Aditado pelo/a Artigo 5.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "###### Artigo 2.º-A — Licença para o exercício da pesca com palangre de superfície no Mar Mediterrâneo\n\nPodem ser licenciadas para o Mar Mediterrâneo, mediante requerimento, as embarcações constantes do anexo a que se refere o artigo anterior, que comprovem possuir as características e os requisitos necessários para operar naquela área.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22\n\n> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "146579482": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": "2016-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II à presente Portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública, são repartidas equitativamente pelas restantes embarcações constantes do mesmo anexo que a embarcação retirada da frota.\n\n3 - Por despacho do Diretor-Geral da DGRM, sempre que as quotas detidas pelas embarcações constantes dos anexos i e ii não tenham sido objeto de transferência nos termos do n.º 2 do artigo 5.º ou as embarcações em causa não tenham sido licenciadas para o exercício da pesca, as respetivas quotas são repartidas equitativamente pelas restantes embarcações do mesmo anexo, exceto se o armador tiver informado a DGRM, o mais tardar até 31 de março, da sua intenção de licenciar a embarcação para o ano em causa.\n\n4 - Por despacho do Diretor-Geral da DGRM, sempre que a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5º N, respetivamente a 30 de setembro e 31 de agosto de cada ano, for inferior a 70 %, a pesca desta espécie pode ser aberta a todas as embarcações licenciadas para operar em cada área com palangre de superfície.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "146579492": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": "2018-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II à presente Portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública, são repartidas equitativamente pelas restantes embarcações constantes do mesmo anexo que a embarcação retirada da frota.\n\n3 - Por despacho do Diretor-Geral da DGRM, sempre que as quotas detidas pelas embarcações constantes dos anexos i e ii não tenham sido objeto de transferência nos termos do n.º 2 do artigo 5.º ou as embarcações em causa não tenham sido licenciadas para o exercício da pesca, as respetivas quotas são repartidas equitativamente pelas restantes embarcações do mesmo anexo, exceto se o armador tiver informado a DGRM, o mais tardar até 31 de março, da sua intenção de licenciar a embarcação para o ano em causa.\n\n4 - Por despacho do Diretor-Geral da DGRM, sempre que a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5º N, respetivamente a 30 de setembro e 31 de agosto de cada ano, for inferior a 70 %, a pesca desta espécie pode ser aberta às embarcações licenciadas para operar em cada área com palangre de superfície e, no que se refere às embarcações registadas no Continente, apenas às que têm quota atribuída constante dos anexos i e ii da presente Portaria, da qual fazem parte integrante.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "146579493": {
+   "fragment_id": "75333813",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de pesca",
+   "in_force_from": "2018-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02"
+   ],
+   "markdown": "###### Artigo 7.º — Proibição de pesca\n\n1 - É proibida a pesca de espadarte das unidades populacionais do Oceano Atlântico sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação cuja quota não é gerida por uma organização de produtores ou associação de profissionais da pesca nos termos do n.º 1 do artigo 4.º, a mesma haja pescado a totalidade da respectiva quota individual ou quando, independentemente de tal facto, haja sido encerrada a captura da unidade populacional em causa;\n\nb) Quando, tratando-se de embarcação referida no n.º 3 do artigo 3.º, haja sido atingido o limite dos 19 % da quota de espadarte da unidade populacional do Oceano Atlântico Sul, estabelecido no n.º 1 do artigo 3.º;\n\nc) Quando, tratando-se de embarcações cujas quotas estão em gestão conjunta por uma organização de produtores ou associação de profissionais da pesca, haja sido atingida a quota gerida por estas.\n\nd) Quando, tratando-se de embarcações referidas no n.º 2 do artigo 2.º, haja sido atingido o limite de 8,1 % da quota de espadarte da unidade populacional do Atlântico Norte referente ao Continente.\n\n2 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, a mesma é proibida a partir das 00:00 horas do dia 20 de dezembro de cada ano, se antes não tiver sido atingida a totalidade da quota disponível no Oceano Atlântico Norte ou Sul para Portugal.\n\n3 - Eventuais capturas de espadarte efetuadas após o limite ou a data, referidos nos números anteriores, ficam proibidas de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n4 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, as capturas não descarregadas até 31 de dezembro por qualquer embarcação são imputadas à quota da mesma do ano seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02"
+  },
+  "146579494": {
+   "fragment_id": "75333818",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2018-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04",
+    "Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Norte de 5º N\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04\n\n> Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+  },
+  "146579495": {
+   "fragment_id": "75333819",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)",
+   "in_force_from": "2018-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Sul de 5º N\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "146579502": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": "2020-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do Diretor-Geral da DGRM, as quotas das embarcações constantes dos Anexos I e II à presente portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública ou resultantes de reforço de quota obtidas através de transferência são repartidas igualmente pelas embarcações licenciadas.\n\n3 - Por despacho do Diretor-Geral da DGRM, sempre que as quotas detidas pelas embarcações constantes dos anexos i e ii não tenham sido objeto de transferência nos termos do n.º 2 do artigo 5.º ou as embarcações em causa não tenham sido licenciadas para o exercício da pesca, as respetivas quotas são repartidas equitativamente pelas restantes embarcações do mesmo anexo, exceto se o armador tiver informado a DGRM, o mais tardar até 31 de março, da sua intenção de licenciar a embarcação para o ano em causa.\n\n4 - Por despacho do Diretor-Geral da DGRM, sempre que a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5º N, respetivamente a 30 de setembro e 31 de agosto de cada ano, for inferior a 70 %, a pesca desta espécie pode ser aberta às embarcações licenciadas para operar em cada área com palangre de superfície e, no que se refere às embarcações registadas no Continente, apenas às que têm quota atribuída constante dos anexos i e ii da presente Portaria, da qual fazem parte integrante.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "146579504": {
+   "fragment_id": "146579398",
+   "type": 11,
+   "heading": "Artigo 6.º-B — Paragem de pesca",
+   "in_force_from": "2020-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27"
+   ],
+   "markdown": "###### Artigo 6.º-B — Paragem de pesca\n\nPara promoção de uma melhor gestão do recurso e da quota, por despacho do Diretor-Geral da DGRM, ouvidas as associações representativas, pode ser estabelecido, em cada ano, um período de interdição da pesca de espadarte de até dois meses, aplicável a todas as embarcações licenciadas para a pesca no Atlântico Norte, em simultâneo ou de forma desfasada ou diferenciada consoante os tipos de embarcações.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27"
+  },
+  "146579505": {
+   "fragment_id": "75333813",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de pesca",
+   "in_force_from": "2020-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02"
+   ],
+   "markdown": "###### Artigo 7.º — Proibição de pesca\n\n1 - É proibida a pesca de espadarte das unidades populacionais do Oceano Atlântico sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação cuja quota não é gerida por uma organização de produtores ou associação de profissionais da pesca nos termos do n.º 1 do artigo 4.º, a mesma haja pescado a totalidade da respectiva quota individual ou quando, independentemente de tal facto, haja sido encerrada a captura da unidade populacional em causa;\n\nb) Quando, tratando-se de embarcação referida no n.º 3 do artigo 3.º, haja sido atingido o limite dos 19 % da quota de espadarte da unidade populacional do Oceano Atlântico Sul, estabelecido no n.º 1 do artigo 3.º;\n\nc) Quando, tratando-se de embarcações cujas quotas estão em gestão conjunta por uma organização de produtores ou associação de profissionais da pesca, haja sido atingida a quota gerida por estas.\n\nd) Quando, tratando-se de embarcações referidas no n.º 2 do artigo 2.º, haja sido atingido o limite de 8,1 % da quota de espadarte da unidade populacional do Atlântico Norte referente ao Continente.\n\n2 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, a mesma é proibida a partir das 00:00 horas do dia 20 de dezembro de cada ano, se antes não tiver sido atingida a totalidade da quota disponível no Oceano Atlântico Norte ou Sul para Portugal.\n\n3 - Eventuais capturas de espadarte efetuadas após o limite ou a data, referidos nos números anteriores, ficam proibidas de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n4 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, as capturas não descarregadas até 31 de dezembro por qualquer embarcação são imputadas à quota da mesma do ano seguinte, exceto se a quota da embarcação não estiver integrada na gestão conjunta ou, estando, as capturas realizadas em cada ano não ultrapassem a sua quota individual ou a quota do grupo a que pertença.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02"
+  },
+  "146579506": {
+   "fragment_id": "75333814",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1466/2007, de 15 de novembro."
+  },
+  "146579507": {
+   "fragment_id": "75333815",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAs organizações de produtores ou as associações de profissionais da pesca que pretendam optar pela gestão conjunta em 2013 comunicam a sua intenção à DGRM no prazo de 15 dias após a entrada em vigor da presente Portaria."
+  },
+  "146579508": {
+   "fragment_id": "75333816",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "146579509": {
+   "fragment_id": "75333817",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2013."
+  },
+  "146579510": {
+   "fragment_id": "75333818",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04",
+    "Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Norte de 5º N\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04\n\n> Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+  },
+  "146579511": {
+   "fragment_id": "75333819",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Sul de 5º N\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "175122551": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": "2021-11-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 274/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-175043513), em vigor a partir de 2021-11-30",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do diretor-geral da DGRM, as quotas das embarcações constantes dos anexos i e ii à presente portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública ou resultantes de reforço de quota obtida através de transferência são repartidas igualmente pelas embarcações licenciadas, desde que as mesmas tenham efetivamente capturado a quota inicial atribuída.\n\n3 - Por despacho do Diretor-Geral da DGRM, sempre que as quotas detidas pelas embarcações constantes dos anexos i e ii não tenham sido objeto de transferência nos termos do n.º 2 do artigo 5.º ou as embarcações em causa não tenham sido licenciadas para o exercício da pesca, as respetivas quotas são repartidas equitativamente pelas restantes embarcações do mesmo anexo, exceto se o armador tiver informado a DGRM, o mais tardar até 31 de março, da sua intenção de licenciar a embarcação para o ano em causa.\n\n4 - Por despacho do Diretor-Geral da DGRM, sempre que a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5º N, respetivamente a 30 de setembro e 31 de agosto de cada ano, for inferior a 70 %, a pesca desta espécie pode ser aberta às embarcações licenciadas para operar em cada área com palangre de superfície e, no que se refere às embarcações registadas no Continente, apenas às que têm quota atribuída constante dos anexos i e ii da presente Portaria, da qual fazem parte integrante.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 274/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-175043513), em vigor a partir de 2021-11-30\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "201056460": {
+   "fragment_id": "75333807",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define o modelo de gestão, incluindo a repartição das quotas, para a pesca de espadarte com palangre de superfície no Oceano Atlântico.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22"
+  },
+  "201056461": {
+   "fragment_id": "75333808",
+   "type": 11,
+   "heading": "Artigo 2.º — Repartição da quota de espadarte do Oceano Atlântico a Norte de 5ºN",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+   ],
+   "markdown": "###### Artigo 2.º — Repartição da quota de espadarte do Oceano Atlântico a Norte de 5ºN\n\n1 - A quota de espadarte disponível para Portugal continental, no Oceano Atlântico a Norte de 5ºN é repartida pelas embarcações licenciadas para a pesca dirigida ao espadarte de acordo com a chave de repartição constante do Anexo I à presente Portaria e que dela faz parte integrante.\n\n2 - As embarcações registadas em portos do continente que não constem do Anexo I à presente Portaria mas que sejam titulares de licença para operar com palangre de superfície no Oceano Atlântico a Norte de 5ºN, apenas podem capturar espadarte como captura acessória, sendo a quantidade máxima desta espécie permitida a bordo igual a 5 % do peso das capturas retidas a bordo, ou a um exemplar caso o peso deste ultrapasse aquele valor.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+  },
+  "201056462": {
+   "fragment_id": "75333866",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Licença para o exercício da pesca com palangre de superfície no Mar Mediterrâneo",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22",
+    "Aditado pelo/a Artigo 5.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "###### Artigo 2.º-A — Licença para o exercício da pesca com palangre de superfície no Mar Mediterrâneo\n\nPodem ser licenciadas para o Mar Mediterrâneo, mediante requerimento, as embarcações constantes do anexo a que se refere o artigo anterior, que comprovem possuir as características e os requisitos necessários para operar naquela área.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22\n\n> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "201056463": {
+   "fragment_id": "75333809",
+   "type": 11,
+   "heading": "Artigo 3.º — Quota de espadarte do Oceano Atlântico a Sul de 5º N",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "###### Artigo 3.º — Quota de espadarte do Oceano Atlântico a Sul de 5º N\n\n1 - A quota portuguesa de espadarte relativa ao Oceano Atlântico a Sul de 5ºN é repartida da seguinte forma:\n\na) 81 % destina-se a embarcações licenciadas para a pesca dirigida ao espadarte, sendo repartida de acordo com a chave de repartição constante do Anexo II à presente Portaria que dela faz parte integrante;\n\nb) 19 % destina-se a ser utilizada para capturas acessórias, nos termos dos números seguintes.\n\n2 - Podem ainda ser licenciadas para o Oceano Atlântico a Sul de 5º N, mediante requerimento, as embarcações que comprovem possuir as características e os requisitos necessários para operar nesta área e reúnam, por ordem de prioridade, uma das condições a seguir indicadas:\n\na) Detenham licença para operar ao abrigo de Acordos de Parceria no Domínio da Pesca Sustentável celebrados com países terceiros no Oceano Atlântico a Sul de 5º N;\n\nb) Detenham licença para palangre de superfície no Oceano Atlântico a Norte de 5º N;\n\nc) Detenham licença para palangre de superfície e não se encontrem abrangidos por nenhuma das situações a que se referem as alíneas anteriores.\n\n3 - As embarcações licenciadas nos termos do número anterior apenas podem capturar espadarte no Oceano Atlântico Sul, a Sul de 5º Norte, como capturas acessórias, sendo a quantidade máxima desta espécie permitida a bordo igual a 5 % do peso das capturas retidas a bordo, ou a um exemplar caso o peso deste ultrapasse aquele valor.\n\n4 - As embarcações licenciadas ao abrigo das alíneas b) e c) do n.º 2, que não apresentem capturas de espadarte durante dois anos consecutivos, perdem a possibilidade de captura desta espécie nos termos das referidas alíneas.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "201056464": {
+   "fragment_id": "75333810",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão Conjunta das quotas de espadarte",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "###### Artigo 4.º — Gestão Conjunta das quotas de espadarte\n\n1 - As organizações de produtores ou as associações de profissionais da pesca podem optar por exercer a gestão conjunta das quotas de espadarte das embarcações dos seus membros ou associados que para tal manifestem a sua vontade.\n\n2 - A gestão conjunta prevista no número anterior está sujeita a comunicação prévia à Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca e pelos proprietários ou armadores das embarcações envolvidas, a apresentar nos seguintes termos:\n\na) Até ao dia 20 de dezembro de cada ano, para as embarcações integradas à data em organizações de produtores;\n\nb) No prazo de 20 dias úteis contados a partir da data da comunicação à DGRM da integração de embarcações em organizações de produtores ou associações na sequência da adesão dos respetivos armadores, determinada por mudança de titularidade ou por transferências de quotas, sendo a totalidade das capturas efetuadas até à data da integração bem como o total da quota anual contabilizadas no âmbito da gestão conjunta da organização de produtores ou associação que as integra.\n\n3 - As organizações de produtores e as associações de profissionais da pesca que tenham optado pela gestão conjunta são responsáveis pela gestão da respetiva quota, que corresponde ao somatório das quotas individuais das embarcações detidas pelos respectivos membros ou associados que participem na gestão conjunta, devendo comunicar à DGRM a data a partir da qual estimam que a quota seja atingida, assegurando que os seus membros ou associados não capturam após o atingir da quota.\n\n4 - Os membros de organizações de produtores ou de associações de profissionais da pesca que optem pela gestão conjunta não estão sujeitos ao limite da quota individual atribuída nos termos do disposto nos Anexos I e II.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  },
+  "201056465": {
+   "fragment_id": "75333811",
+   "type": 11,
+   "heading": "Artigo 5.º — Transferência de Quotas",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 5.º — Transferência de Quotas\n\n1 - É admitida a transferência de quotas ou de parte de quotas de cada uma das unidades populacionais de espadarte nas seguintes condições:\n\na) Entre organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta;\n\nb) Entre uma organização de produtores ou associação de profissionais da pesca que tenham optado pela gestão conjunta e embarcações com quota não integradas neste modelo de gestão;\n\nc) Entre embarcações com quota e não integradas na gestão conjunta;\n\nd) Entre embarcações com quota ou organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e embarcações sem quota atribuída;\n\ne) No Oceano Atlântico a Sul de 5º N, entre embarcações detentoras de quota, organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e as embarcações que pescam espadarte como captura acessória, referidas no n.º 3 do artigo 3.º, a favor destas últimas.\n\nf) Com caráter definitivo, entre embarcações com quota, desde que se verifiquem cumulativamente as seguintes condições:\n\ni) A embarcação cedente tenha sido licenciada para o exercício da pesca num dos últimos seis anos;\n\nii) A embarcação cedente prescinda da licença de palangre de superfície quando a quota mantida for inferior a 0,5 % da quota de espadarte do Atlântico Norte do continente e a 9 % da quota de espadarte do Atlântico Sul;\n\niii) A quota detida pela embarcação recetora não ultrapasse 6,5 % da quota de espadarte do Atlântico Norte do continente em resultado da cedência.\n\n2 - A transferência de quotas prevista no número anterior está sujeita a comunicação prévia à DGRM, mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca ou, se for caso disso, pelos proprietários/armadores das embarcações envolvidas exceto quando se trate de transferência definitiva de quota nos termos da alínea f ) do número anterior ou de cedência de quota por parte de uma embarcação não licenciada para o exercício da pesca, situações que estão sujeitas a autorização da DGRM.\n\n3 - A transferência de quotas produz efeitos no dia seguinte ao da comunicação prévia à DGRM ou, tratando-se de transferência definitiva de quotas ou cedência por parte de uma embarcação não licenciada para o exercício da pesca, da data da respetiva autorização.\n\n4 - Uma embarcação, organização de produtores ou associação de profissionais da pesca que receba quotas por transferência não pode ser responsabilizada por quantidades capturadas em excesso pela parte que tenha efetuado a cedência.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "201056466": {
+   "fragment_id": "75333812",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de utilização das quotas",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 274/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-175043513), em vigor a partir de 2021-11-30",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de utilização das quotas\n\n1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.\n\n2 - Por despacho do diretor-geral da DGRM, as quotas das embarcações constantes dos anexos i e ii à presente portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública ou resultantes de reforço de quota obtida através de transferência são repartidas igualmente pelas embarcações licenciadas, desde que as mesmas tenham efetivamente capturado a quota inicial atribuída.\n\n3 - Por despacho do Diretor-Geral da DGRM, sempre que as quotas detidas pelas embarcações constantes dos anexos i e ii não tenham sido objeto de transferência nos termos do n.º 2 do artigo 5.º ou as embarcações em causa não tenham sido licenciadas para o exercício da pesca, as respetivas quotas são repartidas equitativamente pelas restantes embarcações do mesmo anexo, exceto se o armador tiver informado a DGRM, o mais tardar até 31 de março, da sua intenção de licenciar a embarcação para o ano em causa.\n\n4 - Por despacho do Diretor-Geral da DGRM, sempre que a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5º N, respetivamente a 30 de setembro e 31 de agosto de cada ano, for inferior a 70 %, a pesca desta espécie pode ser aberta às embarcações licenciadas para operar em cada área com palangre de superfície e, no que se refere às embarcações registadas no Continente, apenas às que têm quota atribuída constante dos anexos i e ii da presente Portaria, da qual fazem parte integrante.\n\n5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.\n\n6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.\n\n7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 274/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-175043513), em vigor a partir de 2021-11-30\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330-B/2016 - Diário da República n.º 243/2016, 1º Suplemento, Série I de 2016-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/330-b-2016-105595733), em vigor a partir de 2016-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "201056467": {
+   "fragment_id": "75333832",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Tamanho mínimo",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+   ],
+   "markdown": "###### Artigo 6.º-A — Tamanho mínimo\n\n1 - É proibido capturar, manter a bordo, transbordar, descarregar, transportar, armazenar, expor ou colocar à venda, vender ou comercializar exemplares de espadarte com peso vivo inferior a 25 kg ou com menos de 125 cm de comprimento, medidos da mandíbula inferior à furca, de acordo com o disposto no Regulamento (CE) n.º 520/2007 do Conselho, de 7 de maio de 2007.\n\n2 - O disposto no número anterior não é aplicável às capturas acidentais, até uma percentagem máxima de 15 % de exemplares, calculada com base no número total de espadartes capturados por embarcação e por descarga.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04"
+  },
+  "201056468": {
+   "fragment_id": "146579398",
+   "type": 11,
+   "heading": "Artigo 6.º-B — Paragem de pesca",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27"
+   ],
+   "markdown": "###### Artigo 6.º-B — Paragem de pesca\n\nPara promoção de uma melhor gestão do recurso e da quota, por despacho do Diretor-Geral da DGRM, ouvidas as associações representativas, pode ser estabelecido, em cada ano, um período de interdição da pesca de espadarte de até dois meses, aplicável a todas as embarcações licenciadas para a pesca no Atlântico Norte, em simultâneo ou de forma desfasada ou diferenciada consoante os tipos de embarcações.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27"
+  },
+  "201056469": {
+   "fragment_id": "75333813",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de pesca",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02"
+   ],
+   "markdown": "###### Artigo 7.º — Proibição de pesca\n\n1 - É proibida a pesca de espadarte das unidades populacionais do Oceano Atlântico sempre que se verifique uma das seguintes situações:\n\na) Quando, tratando-se de embarcação cuja quota não é gerida por uma organização de produtores ou associação de profissionais da pesca nos termos do n.º 1 do artigo 4.º, a mesma haja pescado a totalidade da respectiva quota individual ou quando, independentemente de tal facto, haja sido encerrada a captura da unidade populacional em causa;\n\nb) Quando, tratando-se de embarcação referida no n.º 3 do artigo 3.º, haja sido atingido o limite dos 19 % da quota de espadarte da unidade populacional do Oceano Atlântico Sul, estabelecido no n.º 1 do artigo 3.º;\n\nc) Quando, tratando-se de embarcações cujas quotas estão em gestão conjunta por uma organização de produtores ou associação de profissionais da pesca, haja sido atingida a quota gerida por estas.\n\nd) Quando, tratando-se de embarcações referidas no n.º 2 do artigo 2.º, haja sido atingido o limite de 8,1 % da quota de espadarte da unidade populacional do Atlântico Norte referente ao Continente.\n\n2 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, a mesma é proibida a partir das 00:00 horas do dia 20 de dezembro de cada ano, se antes não tiver sido atingida a totalidade da quota disponível no Oceano Atlântico Norte ou Sul para Portugal.\n\n3 - Eventuais capturas de espadarte efetuadas após o limite ou a data, referidos nos números anteriores, ficam proibidas de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.\n\n4 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, as capturas não descarregadas até 31 de dezembro por qualquer embarcação são imputadas à quota da mesma do ano seguinte, exceto se a quota da embarcação não estiver integrada na gestão conjunta ou, estando, as capturas realizadas em cada ano não ultrapassem a sua quota individual ou a quota do grupo a que pertença.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2020 - Diário da República n.º 208/2020, Série I de 2020-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/254-2020-146244168), em vigor a partir de 2020-10-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02"
+  },
+  "201056470": {
+   "fragment_id": "75333814",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+   ],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1466/2007, de 15 de novembro.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+  },
+  "201056471": {
+   "fragment_id": "75333815",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+   ],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAs organizações de produtores ou as associações de profissionais da pesca que pretendam optar pela gestão conjunta em 2013 comunicam a sua intenção à DGRM no prazo de 15 dias após a entrada em vigor da presente Portaria.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+  },
+  "201056472": {
+   "fragment_id": "75333816",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+  },
+  "201056473": {
+   "fragment_id": "75333817",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+   ],
+   "markdown": "O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2013.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15"
+  },
+  "201056474": {
+   "fragment_id": "75333818",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04",
+    "Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Norte de 5º N\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 119/2014 - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/119-2014-25345928), em vigor a partir de 2014-06-04\n\n> Rectificado pelo/a [Declaração de Retificação n.º 13/2013 - Diário da República n.º 47/2013, Série I de 2013-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2013-258743), em vigor a partir de 2013-03-01"
+  },
+  "201089075": {
+   "fragment_id": "75333819",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)",
+   "in_force_from": "2022-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+   ],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 3.º)\n\nEmbarcações licenciadas para pesca com palangre de superfície no Atlântico a Sul de 5º N\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 237/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/237-2022-201054619), em vigor a partir de 2022-09-15\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 271-A/2018 - Diário da República n.º 189/2018, 1º Suplemento, Série I de 2018-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2018-116576561), em vigor a partir de 2018-10-02\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 247/2016 - Diário da República n.º 177/2016, Série I de 2016-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/247-2016-75307951), em vigor a partir de 2016-09-15"
+  }
+ }
+}

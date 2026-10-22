@@ -1,0 +1,248 @@
+---
+schema_version: '1.0'
+id: pt:dre:220501:por
+title: Resolução da Assembleia da República n.º 15/2003
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e a Organização Internacional do Trabalho Relativo ao Estabelecimento
+  de Um Escritório da Organização em Lisboa, assinado em Lisboa em 8 de Julho de 2002
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 15/2003
+official_date: null
+publication_date: '2003-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/2003, Série I-A de 2003-03-04
+  number: '53'
+  series: I
+  supplement: null
+  pages: 1487 - 1489
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/03/053a00/14871489.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/15/2003/03/04/p/dre/pt/html
+  oj: null
+  dre: '220501'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/15-2003-220501
+  internal: pt:dre:220501:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-2003-220501
+  metadata_url: https://data.dre.pt/eli/resolassrep/15/2003/03/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-2003-220501
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-03-04T00:00:00Z'
+integrity:
+  source_sha256: 43a35ebb16713dbc9b7b2a4dc089ed50e184f2e2a7f161952f57393148188b32
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-15-220501.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Lisboa
+- OIT
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 15/2003
+
+Aprova o Acordo entre a República Portuguesa e a Organização Internacional do Trabalho Relativo ao Estabelecimento de Um Escritório da Organização em Lisboa, assinado em Lisboa em 8 de Julho de 2002.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição da República Portuguesa, aprovar o Acordo entre a República Portuguesa e a Organização Internacional do Trabalho Relativo ao Estabelecimento de Um Escritório da Organização em Lisboa, assinado em Lisboa em 8 de Julho de 2002, cujo texto na versão autêntica em língua portuguesa segue em anexo.
+
+Aprovada em 5 de Dezembro de 2002.
+
+**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E A ORGANIZAÇÃO INTERNACIONAL DO TRABALHO RELATIVO AO ESTABELECIMENTO DE UM ESCRITÓRIO DA ORGANIZAÇÃO EM LISBOA.
+
+Considerando que a Organização Internacional do Trabalho decidiu estabelecer um Escritório em Lisboa;
+
+Considerando que a República Portuguesa informou a Organização Internacional do Trabalho da sua disponibilidade para apoiar o estabelecimento desse Escritório:
+
+A República Portuguesa e a Organização Internacional do Trabalho acordaram o seguinte:
+
+###### Artigo 1.º
+
+A Organização Internacional do Trabalho estabelecerá em Lisboa um Escritório para o desempenho das funções que lhe venham a ser atribuídas pelo Director-Geral do Bureau Internacional do Trabalho.
+
+###### Artigo 2.º
+
+A República Portuguesa aplicará ao Escritório da OIT em Lisboa, aos funcionários a ele afectos pela OIT, bem como a qualquer outra pessoa designada pela OIT para desempenhar funções oficiais em Portugal, as disposições da Convenção Relativa a Privilégios e Imunidades das Nações Unidas, concedendo um tratamento não menos favorável que o que concede a qualquer outra organização intergovernamental com representação em Portugal e aos funcionários dessas representações.
+
+###### Artigo 3.º
+
+O Director-Geral do Bureau Internacional do Trabalho terá o direito e o dever de retirar a imunidade a qualquer funcionário sempre que, na sua opinião, essa imunidade possa impedir o curso da justiça, desde que essa imunidade possa ser retirada sem prejuízo para os interesses da Organização.
+
+###### Artigo 4.º
+
+1 - A República Portuguesa providenciará à OIT instalações adequadas, sem encargos, sendo da sua inteira responsabilidade os custos de manutenção do escritório, incluindo as despesas decorrentes da utilização do telefone, telefax, ligação à Internet e serviços postais.
+
+2 - A Organização Internacional do Trabalho será responsável pelos custos salariais e outras despesas, incluindo as despesas de viagem, do director do Escritório.
+
+3 - As Partes deverão chegar a acordo relativamente ao pessoal de apoio a ser destacado para o Escritório. A República Portuguesa assumirá os custos decorrentes do pessoal de apoio, tal como indicado no anexo.
+
+4 - O pessoal de apoio receberá unicamente instruções do director do Escritório, por forma a salvaguardar a independência do Escritório em relação às autoridades nacionais.
+
+5 - Toda e qualquer alteração na composição do quadro de pessoal do Escritório que possa envolver despesas adicionais será objecto de consultas entre as Partes para determinar o modo de financiamento dessa alteração.
+
+###### Artigo 5.º
+
+A República Portuguesa envidará todos os esforços para garantir a segurança e a protecção das instalações do Escritório e dos seus funcionários, com base na legislação aplicável às organizações internacionais sediadas no País.
+
+###### Artigo 6.º
+
+Este Acordo será interpretado à luz dos seus principais objectivos, que são:
+
+a) O reforço da colaboração no domínio da cooperação técnica;
+
+b) Uma melhoria qualitativa através da expansão da presença da OIT em países de língua oficial portuguesa e através da capitalização da experiência portuguesa nos países em processo de transição da Europa Central e de Leste.
+
+###### Artigo 7.º
+
+À República Portuguesa não será imputada qualquer responsabilidade internacional decorrente das actividades do Escritório no seu território, nem dos actos ou omissões do Escritório ou dos seus funcionários no exercício das suas funções.
+
+###### Artigo 8.º
+
+1 - O presente Acordo entrará em vigor após recepção da notificação da República Portuguesa indicando que todos os procedimentos internos necessários à entrada em vigor do Acordo foram concluídos.
+
+2 - Este Acordo poderá ser alterado por mútuo consentimento entre as Partes e a notificação de cessação do Acordo pode ser apresentada em qualquer momento por qualquer uma das Partes, sendo que essa notificação entrará em vigor um ano após ter sido comunicada à outra Parte.
+
+Em fé do que os abaixo assinados, respectivamente os representantes da República Portuguesa e da Organização, devidamente autorizados, assinaram o presente Acordo em duplicado, em línguas portuguesa e inglesa.
+
+Feito em Lisboa, em 8 de Julho de 2002.
+
+Pela República Portuguesa:
+
+António Bagão Félix, Ministro da Segurança Social e do Trabalho.
+
+Pela Organização Internacional do Trabalho:
+
+Friedrich Buttler, Director Regional para a Europa e Ásia Central.
+
+## ANEXO
+
+Pessoal de apoio a destacar pela República Portuguesa:
+
+Uma secretária;
+
+Um documentalista ou especialista em relações públicas;
+
+Um perito associado.
+
+AGREEMENT BETWEEN THE REPUBLIC OF PORTUGAL AND THE INTERNATIONAL LABOUR ORGANIZATION CONCERNING THE ESTABLISHMENT OF A BRANCH OFFICE OF THE ORGANIZATION IN LISBON.
+
+Whereas the International Labour Organization has decided to establish a Branch Office in Lisbon;
+
+Whereas the Republic of Portugal has informed the International Labour Organization that it is prepared to facilitate the establishment of such an office:
+
+The Republic of Portugal and the International Labour Organization have agreed as follows:
+
+Article 1
+
+The International Labour Office shall establish in Lisbon a Branch Office to carry out the functions that may be assigned to it by the Director-General of the International Labour Office.
+
+Article 2
+
+The Republic of Portugal shall apply to the ILO, its Branch Office in Lisbon, to officials assigned to it by the ILO and to any person called upon by the ILO to perform official duties in Portugal the provisions of the Convention on the Privileges and Immunities of the United Nations on conditions which shall not be less favourable than that which it grants to any other intergovernmental organization with offices in Portugal or to the staff of such offices.
+
+Article 3
+
+The Director-General of the International Labour Office shall have the right and the duty to waive the immunity of any official if in his opinion such immunity may impede the course of justice, and if he can waive such immunity without prejudice to the interests of the Organization.
+
+Article 4
+
+1 - The Republic of Portugal shall provide to the ILO suitable premises free of charge and shall be entirely responsible for the maintenance costs of the office, including the costs of using the telephone, telefax, internet connection and postal services.
+
+2 - The International Labour Organization shall meet the cost of the salary and other expenses, including the travel expenses, of the Director of the Branch Office.
+
+3 - The parties shall agree on the support staff to be assigned to the office. The Republic of Portugal shall meet the cost of the support staff as indicated in the annex.
+
+4 - The support staff shall receive their instructions solely from the Director of the office, in order to safeguard the independence of the office from the national authorities.
+
+5 - Any change whatsoever in the composition of the staff of the office that may involve additional expenditure shall be the subject of consultations between the parties as to the method of financing such change.
+
+Article 5
+
+The Republic of Portugal shall make every endeavour to guarantee the security and protection of the premises of the office and its staff on the basis of the legislation that is applicable to International Organizations which are situated in the country.
+
+Article 6
+
+This agreement shall be interpreted in the light of its major objectives which are:
+
+a) The reinforcement of the collaboration in the field of technical cooperation;
+
+b) A qualitative improvement by expanding ILO's presence in Portuguese-speaking countries, and by capitalizing the Portuguese experience in transition countries of Central and Eastem Europe.
+
+Article 7
+
+The Republic of Portugal shall incur no international responsibility by reason of the activities of the Branch Office on its territory or of the acts or omissions of the office or its staff in the exercise of their functions.
+
+Article 8
+
+1 - This Agreement shall enter into force upon receipt of the notification of the Republic of Portugal indicating that all internal procedures necessary for the Agreement's entry into force have been completed.
+
+2 - This Agreement may be amended by mutual agreement between the parties and notice of termination of the Agreement may be given by either party at any time, such notice to take effect one year after it is communicated to the other party.
+
+In witness whereof the undersigned, duly authorized representatives of the Republic of Portugal and the Organization respectively, have signed this agreement in two copies in the Portuguese and English languages.
+
+Done at Lisbon, 8 July 2002.
+
+For the Republic of Portugal:
+
+António Bagão Félix, Minister of Social Security and Labour.
+
+For the International Labour Organization:
+
+Friedrich Buttler, Regional Director for Europe and Central Asia.
+
+ANNEX
+
+Support staff to be provided by the Republic of Portugal:
+
+A secretary;
+
+A librarian/public-relations specialist;
+
+An associate expert.

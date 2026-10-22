@@ -1,0 +1,832 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:106579662:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114446881",
+ "dre_path": "/dr/detalhe/portaria/105-2017-106579662",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-03-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114446982",
+    "114446983",
+    "114446984",
+    "114446985",
+    "114446986",
+    "114446987",
+    "114446988",
+    "114446989",
+    "114446990",
+    "114446991",
+    "114446992",
+    "114446993",
+    "114446994",
+    "114446995",
+    "114446996",
+    "114446997",
+    "114446998",
+    "114446999",
+    "114447000",
+    "114447001",
+    "114447002",
+    "114447003",
+    "114447004"
+   ]
+  },
+  {
+   "date": "2018-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114426058:por",
+     "title": "Portaria n.º 1/2018",
+     "published": "2018-01-02",
+     "dre_path": "/dr/detalhe/portaria/1-2018-114426058"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "114446982",
+    "114446983",
+    "114446984",
+    "114446985",
+    "114446986",
+    "114446987",
+    "114446988",
+    "114446989",
+    "114446990",
+    "114446991",
+    "114446992",
+    "114446993",
+    "114446994",
+    "114447011",
+    "114446996",
+    "114446997",
+    "114446998",
+    "114446999",
+    "114447000",
+    "114447001",
+    "114447002",
+    "114447003",
+    "114447004",
+    "114447005"
+   ]
+  },
+  {
+   "date": "2018-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115552977:por",
+     "title": "Portaria n.º 178/2018",
+     "published": "2018-06-20",
+     "dre_path": "/dr/detalhe/portaria/178-2018-115552977"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "114446982",
+    "114446983",
+    "114446984",
+    "114446985",
+    "114446986",
+    "114446987",
+    "114446988",
+    "114446989",
+    "115556374",
+    "114446991",
+    "114446992",
+    "114446993",
+    "114446994",
+    "114447011",
+    "114446996",
+    "114446997",
+    "114446998",
+    "114446999",
+    "114447000",
+    "114447001",
+    "114447002",
+    "114447003",
+    "114447004",
+    "114447005"
+   ]
+  },
+  {
+   "date": "2020-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:134305982:por",
+     "title": "Portaria n.º 122/2020",
+     "published": "2020-05-22",
+     "dre_path": "/dr/detalhe/portaria/122-2020-134305982"
+    }
+   ],
+   "changes": [
+    "Adita Anexo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º"
+   ],
+   "fragments": [
+    "114446982",
+    "134381360",
+    "134381361",
+    "134381362",
+    "134381363",
+    "134381364",
+    "134381365",
+    "134381366",
+    "134381367",
+    "134381368",
+    "134381369",
+    "134381370",
+    "134381371",
+    "134381372",
+    "134381373",
+    "134381374",
+    "134383975",
+    "134383976",
+    "134383977",
+    "134383978",
+    "134383979",
+    "134383980",
+    "134383981",
+    "134383982",
+    "134383983",
+    "134383984",
+    "134383985",
+    "134383986",
+    "134383987",
+    "134383988",
+    "134383989"
+   ]
+  },
+  {
+   "date": "2020-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:148853504:por",
+     "title": "Portaria n.º 266/2020",
+     "published": "2020-11-18",
+     "dre_path": "/dr/detalhe/portaria/266-2020-148853504"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "114446982",
+    "148957576",
+    "148957577",
+    "134381362",
+    "134381363",
+    "134381364",
+    "148957578",
+    "134381366",
+    "134381367",
+    "148957579",
+    "148957580",
+    "134381370",
+    "134381371",
+    "134381372",
+    "134381373",
+    "134381374",
+    "134383975",
+    "134383976",
+    "134383977",
+    "148957581",
+    "134383979",
+    "134383980",
+    "134383981",
+    "134383982",
+    "134383983",
+    "134383984",
+    "134383985",
+    "134383986",
+    "134383987",
+    "134383988",
+    "134383989"
+   ]
+  },
+  {
+   "date": "2021-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165797127:por",
+     "title": "Portaria n.º 129/2021",
+     "published": "2021-06-25",
+     "dre_path": "/dr/detalhe/portaria/129-2021-165797127"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "114446982",
+    "148957576",
+    "148957577",
+    "134381362",
+    "134381363",
+    "134381364",
+    "148957578",
+    "134381366",
+    "134381367",
+    "165647468",
+    "148957580",
+    "134381370",
+    "134381371",
+    "134381372",
+    "134381373",
+    "134381374",
+    "134383975",
+    "134383976",
+    "134383977",
+    "148957581",
+    "134383979",
+    "134383980",
+    "134383981",
+    "134383982",
+    "134383983",
+    "134383984",
+    "165647469",
+    "134383986",
+    "134383987",
+    "134383988",
+    "134383989"
+   ]
+  }
+ ],
+ "fragments": {
+  "114446982": {
+   "fragment_id": "114446882",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 105/2017\n\nde 10 de março\n\nO investimento e a dinâmica da criação de empresas constitui o suporte fundamental do desenvolvimento económico e social equilibrado de qualquer território, enquanto fonte geradora de atividade económica e de emprego.\n\nOs sistemas de incentivos do Portugal 2020 no domínio temático da competitividade e internacionalização têm vindo a apoiar o investimento nas empresas numa base centrada nos setores transacionáveis, orientado para as exportações e com maior intensidade tecnológica e de conhecimento. Reconhece-se porém a sua menor adequação, enquanto instrumento de promoção do investimento promovido por empresas de menor dimensão que estimulam o surgimento de pequenos negócios e a concretização de oportunidades de criação de valor ancoradas nos recursos e ativos endógenos.\n\nO papel relevante das micro e pequenas empresas para a criação de valor e emprego, e para a diversificação e qualificação das bases empresariais, de forma particular em territórios de baixa densidade ou com constrangimentos decorrentes de elevados níveis de desemprego, aconselha a diversificação da oferta dos apoios ao empreendedorismo e à criação de emprego, justificando-se assim a criação do presente Sistema de Incentivos ao Empreendedorismo e ao Emprego (SI2E).\n\nPela natureza dos objetivos que prossegue, o SI2E ganhará eficácia acrescida se for aplicado de forma mais ajustada e próxima dos territórios em que quer promover o investimento empresarial. Foi essa a motivação para a instituição inovadora, em termos de prática de operacionalização de sistemas de incentivos, de uma gestão partilhada com os agentes que estão mais próximos dos seus utilizadores. O SI2E será gerido em grande medida pelos: (i) Grupos de Ação Local (GAL), quando os incentivos resultarem de estratégias de Desenvolvimento Local de Base Comunitária (DLBC) ou (ii) Comunidades Intermunicipais (CIM) ou Áreas Metropolitanas (AM), quando os mesmos decorrerem da concretização dos Pactos para o Desenvolvimento e Coesão Territorial.\n\nO SI2E contribui e encontra-se alinhado com os objetivos das políticas públicas inter-relacionadas, desde logo com o Programa Nacional para a Coesão Territorial, aprovado pela Resolução do Conselho de Ministros n.º 72/ 2016, de 24 de novembro, estimulando o surgimento de iniciativas empresariais e a criação de emprego em territórios de baixa densidade e por essa via promove o desenvolvimento e a coesão económica e social do país. Não se aplicando exclusivamente aos territórios de baixa densidade, o SI2E favorece através de majorações específicas os investimentos nelas realizados e sobretudo cria condições para uma maior dinâmica empresarial ao ajustar tipologias de projetos às condições reais das micro e pequenas empresas do interior.\n\nO SI2E foi ajustado em função de outras políticas públicas transversais como as políticas ativas de emprego, nomeadamente no que se refere à medida Contrato-Emprego, cuja criação é regulada pela Portaria n.º 34/2017, de 18 de janeiro. De facto, no SI2E, como naquela medida, uma das prioridades assumidas é o combate ao desemprego, através da promoção da criação de emprego, materializada na elegibilidade da remuneração dos postos de trabalho criados preenchidos por desempregados inscritos no Instituto do Emprego e Formação Profissional, I. P.\n\nO presente regulamento obteve parecer técnico favorável da comissão técnica de sistemas de incentivos, previsto no n.º 1 do artigo 6.º do Decreto-Lei n.º 6/2015, de 8 de janeiro, que define as condições e as regras a observar na criação de sistemas de incentivos aplicáveis às empresas.\n\nA elaboração deste regulamento contou com os contributos da Associação Nacional de Municípios, das Comunidades Intermunicipais e Áreas Metropolitanas e dos Grupos de Ação Local.\n\nNeste contexto cria-se o Sistema de Incentivos ao Empreendedorismo e ao Emprego (SI2E), mobilizando para o efeito os apoios previstos no Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro, mediante apoio do Fundo Europeu de Desenvolvimento Regional (FEDER) e Fundo Social Europeu (FSE).\n\nNos termos conjugados dos n.os 1 e 2 do artigo 6.º do Decreto-Lei n.º 6/2015, de 8 de janeiro, e da alínea c) do n.º 2 e do n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, o presente regulamento foi aprovado pela deliberação n.º 11/2017, de 3 de março, da Comissão Interministerial de Coordenação do Acordo de Parceria - CIC Portugal 2020, carecendo de ser adotado por portaria do membro do governo responsável pela área do desenvolvimento regional.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado do Desenvolvimento e Coesão, nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, ao abrigo do Despacho n.º 2312/2016, publicado na 2.ª série do Diário da República, de 16 de fevereiro, o seguinte:"
+  },
+  "114446983": {
+   "fragment_id": "114446883",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regulamento tem por objeto a criação do Sistema de Incentivos ao Empreendedorismo e ao Emprego, de ora em diante designado por SI2E, e define as regras aplicáveis aos apoios concedidos às operações previstas na alínea g) do n.º 2 do artigo 74.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro.\n\n2 - O SI2E visa operacionalizar os apoios ao empreendedorismo e à criação de emprego, através dos Programas Operacionais Regionais do Norte, Centro, Alentejo, Lisboa e Algarve, considerando as elegibilidades previstas em cada um, no âmbito das seguintes modalidades de intervenção:\n\na) Estratégias de Desenvolvimento Local de Base Comunitária dinamizadas pelos Grupos de Ação Local (GAL), de ora em diante designadas por Intervenções GAL;\n\nb) Pactos para o Desenvolvimento e Coesão Territorial (PDCT) dinamizados pelas Comunidades Intermunicipais (CIM) e pelas Áreas Metropolitanas (AM), de ora em diante designadas por Intervenções CIM/AM;\n\nc) Outras intervenções de apoio ao empreendedorismo e criação de emprego alinhadas com as estratégias de desenvolvimento regional e de coesão territorial da iniciativa das Autoridades de Gestão (AG), de ora em diante designadas por Intervenções AG."
+  },
+  "114446984": {
+   "fragment_id": "114446884",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no SI2E e para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação que lhe foi dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, entende-se por:\n\na) «Atividade económica da empresa», o código da atividade principal ou secundária da empresa, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev.3), registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas (SICAE);\n\nb) «Criação líquida de postos de trabalho», o aumento do número de trabalhadores diretamente empregados na empresa, calculado pela diferença entre a média mensal do ano de referência e a média mensal do ano pré-projeto;\n\nc) «Data de conclusão do projeto ou da operação», a data de emissão da última fatura ou documento equivalente imputável ao projeto ou à operação, no âmbito do financiamento pelo Fundo Europeu de Desenvolvimento Regional (FEDER), e a data que consta do cronograma aprovado como data final para a realização da sua última ação, em operações financiadas pelo Fundo Social Europeu (FSE);\n\nd) «Desenvolvimento Local de Base Comunitária (DLBC)», a abordagem territorial apoiada por um, ou mais, Fundos Europeus Estruturais de Investimento (FEEI) que financia a execução das estratégias de desenvolvimento local, elaborada e promovida pelas comunidades locais, através de GAL maioritariamente compostos por representantes dos interesses socioeconómicos locais privados e que incidem em territórios homogéneos e limitados;\n\ne) «Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica;\n\nf) «Entidade gestora», instituição com funções de operacionalização de determinadas modalidades de intervenção do SI2E;\n\ng) «Género sub-representado», o género menos representado numa profissão, ou seja, aquele em que não se verifique uma representatividade de 33,3 %, conforme lista a anexar nos avisos de abertura de candidaturas;\n\nh) «PME», pequena e média empresa na aceção da Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio, relativa à definição de micro, pequena e média empresa;\n\ni) «Setor da pesca e da aquicultura», nos termos do Regulamento (UE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro, que estabelece a organização comum dos mercados dos produtos da pesca e da aquicultura, e que altera os Regulamentos (CE) n.º 1184/2006 e (CE) n.º 1224/2009 do Conselho e revoga o Regulamento (CE) n.º 104/2000, do Conselho;\n\nj) «Setor da produção agrícola primária», nos termos definidos no Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho;\n\nk) «Setor de transformação e comercialização de produtos agrícolas», previsto no Anexo I do Tratado de Funcionamento da União Europeia;\n\nl) «Território de baixa densidade», nos termos definidos pela Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), através da Deliberação n.º 55/2015, de 1 de julho, e conforme previsto no Programa Nacional para a Coesão Territorial (PNCT), aprovado pela Resolução do Conselho de Ministros n.º 72/ 2016, de 24 de novembro;\n\nm) «Trabalhadores qualificados», trabalhadores com nível de qualificação igual ou superior a 6, nos termos definidos pelo Quadro Nacional de Qualificações, aprovado pela Portaria n.º 782/2009, de 23 de julho."
+  },
+  "114446985": {
+   "fragment_id": "114446885",
+   "type": 11,
+   "heading": "Artigo 3.º — Complementaridade com outros instrumentos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Complementaridade com outros instrumentos de apoio\n\nNas intervenções alinhadas com as estratégias de Desenvolvimento Local de Base Comunitária, o SI2E pode ser complementado com outros instrumentos de apoio previstos na Secção III («Apoios ao empreendedorismo») do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro, e nos respetivos Programas Operacionais Regionais implementados através de avisos de abertura de candidaturas a ser lançados pelas AG sob proposta dos GAL."
+  },
+  "114446986": {
+   "fragment_id": "114446886",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito territorial\n\nO SI2E tem aplicação em todo o território do continente, em função das áreas territoriais previstas nas Estratégias de Desenvolvimento Local, nos PDCT ou nos avisos de abertura de candidaturas, nos casos previstos na alínea c) do n.º 2 do artigo 1.º"
+  },
+  "114446987": {
+   "fragment_id": "114446887",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito setorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito setorial\n\n1 - São elegíveis as operações inseridas em todas as atividades económicas, com exceção das que integrem:\n\na) O setor da pesca e da aquicultura;\n\nb) O setor da produção agrícola primária e florestas;\n\nc) O setor da transformação e comercialização de produtos agrícolas constantes do Anexo I do Tratado de Funcionamento da União Europeia e transformação e comercialização de produtos florestais;\n\nd) Os projetos de diversificação de atividades nas explorações agrícolas, nos termos do Acordo de Parceria;\n\ne) Os projetos que incidam nas seguintes atividades previstas na CAE - Rev.3:\n\ni) Financeiras e de seguros - divisões 64 a 66 da secção K;\n\nii) Defesa - subclasse 25402, da classe 2540, do grupo 254, da divisão 25, da secção C; subclasse 30400, da classe 3040, do grupo 304, da divisão 30 da secção C; subclasse 84220, da classe 8422, do grupo 842, da divisão 84 da secção O;\n\niii) Lotarias e outros jogos de aposta - divisão 92 da secção R.\n\n2 - Não são elegíveis os projetos que incluam investimentos decorrentes de obrigações previstas em contratos de concessão com o Estado (Administração Central ou Local)."
+  },
+  "114446988": {
+   "fragment_id": "114446888",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologias de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologias de operação\n\nSão passíveis de financiamento do SI2E as seguintes tipologias de operações:\n\na) Criação de micro e pequenas empresas ou expansão ou modernização de micro e pequenas empresas criadas há menos de cinco anos;\n\nb) Expansão ou modernização de micro e pequenas empresas criadas há mais de cinco anos."
+  },
+  "114446989": {
+   "fragment_id": "114446889",
+   "type": 11,
+   "heading": "Artigo 7.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Beneficiários\n\nSão passíveis de financiamento do SI2E as micro ou pequenas empresas, na aceção das alíneas e) e h) do artigo 2.º do presente regulamento."
+  },
+  "114446990": {
+   "fragment_id": "114446890",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade dos beneficiários\n\n1 - Constituem critérios de elegibilidade dos beneficiários:\n\na) Estarem legalmente constituídos;\n\nb) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, situação a verificar até ao momento da assinatura do termo de aceitação;\n\nc) Poderem legalmente desenvolver as atividades no território abrangido pelo Programa Operacional e pela tipologia das operações e investimentos a que se candidatam;\n\nd) Possuírem, ou poderem assegurar até à aprovação da candidatura, os meios técnicos, físicos, financeiros e humanos necessários ao desenvolvimento da operação;\n\ne) Terem a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;\n\nf) Não terem apresentado a mesma candidatura, no âmbito da qual ainda esteja a decorrer o processo de decisão ou em que a decisão sobre o pedido de financiamento tenha sido favorável, exceto nas situações em que tenha sido apresentada desistência;\n\ng) Não deterem nem terem detido capital numa percentagem superior a 50 %, por si ou pelo seu cônjuge, não separado de pessoas e bens, ou pelos seus ascendentes e descendentes até ao 1.º grau, bem como por aquele que consigo viva em condições análogas às dos cônjuges, em empresa que não tenha cumprido notificação para devolução de apoios no âmbito de uma operação apoiada por fundos europeus;\n\nh) Não terem salários em atraso;\n\ni) Serem micro ou pequenas empresas certificadas eletronicamente pelo IAPMEI;\n\nj) Não terem operações aprovadas no âmbito do SI2E, ao abrigo do mesmo fundo, que não se encontrem encerradas.\n\n2 - Os beneficiários que tenham sido condenados em processo-crime por factos que envolvam disponibilidades financeiras dos FEEI ficam impedidos de aceder ao financiamento público por um período de três anos, a contar do trânsito em julgado da decisão condenatória, salvo se da pena aplicada no âmbito desse processo resultar período superior.\n\n3 - Os beneficiários contra quem tenha sido deduzida acusação em processo-crime pelos factos referidos na alínea anterior, ou em relação aos quais tenha sido feita participação criminal por factos apurados em processos de controlo ou auditoria movidos pelos órgãos competentes, apenas podem ter acesso a apoios financeiros públicos no âmbito dos FEEI nos termos do artigo 14.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação."
+  },
+  "114446991": {
+   "fragment_id": "114446891",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de elegibilidade das operações\n\n1 - Constituem critérios gerais de elegibilidade das operações:\n\na) Estar enquadradas, tendo em conta as tipologias previstas em sede de regulamento, nos eixos prioritários e nas correspondentes prioridades de investimento dos Programas Operacionais a que se candidatam, bem como das estratégias de desenvolvimento das respetivas modalidades de intervenção;\n\nb) Integrar toda a informação exigida no âmbito da instrução do processo de candidatura, nos termos dos respetivos avisos, respeitando as condições e os prazos fixados;\n\nc) Estar em conformidade com as disposições legais, nacionais e europeias, incluindo as disposições regulamentares que lhes forem aplicáveis, nomeadamente as decorrentes dos diplomas que instituem as medidas de política pública em que se enquadram;\n\nd) Estar enquadradas num projeto de criação, expansão ou modernização de empresa que contribua para a diferenciação ou inovação da oferta de bens e serviços do território ou da empresa, tendo em consideração as especificidades do território e a dimensão da empresa e do investimento;\n\ne) Conduzir à criação líquida de emprego.\n\n2 - Constituem critérios específicos, na componente do projeto associada às despesas elegíveis no n.º 1 do artigo 10.º, financiadas pelo FEDER:\n\na) Apresentar um investimento com um custo elegível que observe as seguintes condições:\n\ni) Até 100 mil euros, nas Intervenções GAL;\n\nii) Superior a 100 mil e até 235 mil euros, nas Intervenções CIM/AM;\n\nb) O período de investimento deve ter uma duração máxima de 18 meses, contado a partir da data da primeira despesa ou da criação do primeiro posto de trabalho, podendo o mesmo ser prorrogado por um período adicional de 6 meses, em casos devidamente justificados;\n\nc) Demonstrar que se encontram asseguradas as fontes de financiamento;\n\nd) Demonstrar a viabilidade económico-financeira.\n\n3 - Em casos devidamente justificados, os avisos de abertura de candidaturas podem fixar um custo elegível inferior ao identificado na subalínea ii) da alínea a) do n.º 2."
+  },
+  "114446992": {
+   "fragment_id": "114446892",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas elegíveis\n\n1 - Para efeitos de investimento físico, na componente FEDER, são elegíveis as seguintes despesas:\n\na) Custos de aquisição de máquinas, equipamentos, respetiva instalação e transporte;\n\nb) Custos de aquisição de equipamentos informáticos, incluindo o software necessário ao seu funcionamento;\n\nc) Software standard ou desenvolvido especificamente para a atividade da empresa;\n\nd) Custos de conceção e registo associados à criação de novas marcas ou coleções;\n\ne) Custos iniciais associados à domiciliação de aplicações, adesão inicial a plataformas eletrónicas, subscrição inicial de aplicações em regimes de «software as a servisse», criação e publicação inicial de novos conteúdos eletrónicos, bem como a inclusão ou catalogação em diretórios ou motores de busca;\n\nf) Serviços de arquitetura e engenharia relacionados com a implementação do projeto;\n\ng) Material circulante diretamente relacionado com o exercício da atividade em que seja imprescindível à execução da operação, sujeito a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\nh) Estudos, diagnósticos, auditorias, planos de marketing e projetos de arquitetura e de engenharia essenciais ao projeto de investimento sujeitos a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\ni) Obras de remodelação ou adaptação, desde que contratadas a terceiros não relacionados com o adquirente beneficiário dos apoios, indispensáveis à concretização do investimento sujeitas a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\nj) Participação em feiras e exposição no estrangeiro sujeitas a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas:\n\ni) Custos com o arrendamento de espaço, incluindo os serviços prestados pelas entidades organizadoras das feiras, nomeadamente os relativos aos consumos de água, eletricidade, comunicações, inserções em catálogo de feira e os serviços de tradução/intérprete;\n\nii) Custos com a construção do stand, incluindo os serviços associados à conceção, construção e montagem de espaços de exposição, nomeadamente aluguer de equipamentos e mobiliário, transporte e manuseamento de mostruários, materiais e outros suportes promocionais;\n\niii) Custos de funcionamento do stand, incluindo os serviços de deslocação e alojamento dos representantes das empresas e outras despesas de representação, bem como a contratação de tradutores/intérpretes externos à organização das feiras.\n\n2 - Para efeitos de criação de emprego, na componente FSE, são elegíveis as despesas com remunerações de postos de trabalho criados, nas seguintes situações:\n\na) Criação do próprio emprego;\n\nb) Criação de postos de trabalho para desempregados inscritos há mais de 6 meses no Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), incluindo desempregados de longa e muito longa duração;\n\nc) Criação de postos de trabalho para jovens até 30 anos à procura do primeiro emprego inscritos no IEFP, I. P., como desempregados há pelo menos 2 meses.\n\n3 - Apenas são elegíveis as despesas realizadas após a data da candidatura e que respeitem o período máximo de execução previsto na alínea b) do n.º 2 do artigo anterior."
+  },
+  "114446993": {
+   "fragment_id": "114446893",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas não elegíveis\n\nSem prejuízo do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, na componente de investimento FEDER, não são elegíveis as seguintes despesas:\n\na) Compra de imóveis, incluindo terrenos;\n\nb) Trespasse e direitos de utilização de espaços;\n\nc) Aquisição de veículos automóveis, aeronaves e outro material de transporte ou aeronáutico que não estejam incluídos na alínea g) do n.º 1 do artigo 10.º;\n\nd) Aquisição de bens em estado de uso;\n\ne) Juros durante o período de realização do investimento;\n\nf) Fundo de maneio;\n\ng) Trabalhos da empresa para ela própria;\n\nh) Despesas de funcionamento do beneficiário, custos correntes e de manutenção, exceto os custos previstos no n.º 1 do artigo 10.º:\n\ni) Custos referentes a atividades relacionadas com a exportação, nomeadamente os diretamente associados às quantidades exportadas, à criação ou funcionamento de redes de distribuição no exterior ou a outros custos correntes ligados à atividade de exportação;\n\nj) Despesas pagas no âmbito de contratos efetuados através de intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante cofinanciado ou das despesas elegíveis do projeto;\n\nk) Imposto sobre o valor acrescentado recuperável ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário."
+  },
+  "114446994": {
+   "fragment_id": "114446894",
+   "type": 11,
+   "heading": "Artigo 12.º — Natureza do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Natureza do financiamento\n\n1 - Os incentivos a conceder no âmbito do SI2E revestem a natureza de subvenção não reembolsável.\n\n2 - As operações podem ser financiadas por via de duas componentes:\n\na) Através do FEDER, para as despesas previstas no n.º 1 do artigo 10.º;\n\nb) Através do FSE, para as despesas previstas no n.º 2 do artigo 10.º\n\n3 - O projeto pode beneficiar das duas componentes de financiamento referidas no número anterior, ou apenas de uma delas, consoante a opção efetuada pelo promotor na apresentação da candidatura."
+  },
+  "114446995": {
+   "fragment_id": "114446895",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas e limites de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Taxas e limites de financiamento\n\n1 - O financiamento das operações apoiadas pelo SI2E, nas componentes FEDER e FSE, respeita as taxas de financiamento previstas no artigo 5.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro.\n\n2 - O incentivo ao investimento, na componente FEDER, é atribuído com os seguintes limites:\n\na) Taxa base: 40 % para os investimentos localizados em territórios de baixa densidade ou 30 % para os investimentos localizados nos restantes territórios;\n\nb) Majorações até um máximo de 20 pontos percentuais a definir em sede de aviso de abertura de candidaturas em função dos seguintes fatores:\n\ni) Projetos da tipologia prevista na alínea a) do artigo 6.º;\n\nii) Projetos enquadrados em prioridades especialmente relevantes para os territórios em causa.\n\n3 - O incentivo ao investimento na componente FSE é atribuído através da comparticipação total das remunerações de postos de trabalho criados e tem como limite mensal o valor correspondente ao Indexante de Apoio Social (IAS), observando os seguintes períodos máximos por tipo de contrato e majorações:\n\na) Período base: 9 meses, para contratos de trabalho sem termo ou criação do próprio emprego, ou de 3 meses, para contratos de trabalho a termo com uma duração mínima de 12 meses;\n\nb) Majorações de 3 meses, para as Intervenções GAL, e 2,5 meses com um máximo de 6 meses, para as restantes situações, por cada uma das seguintes situações:\n\ni) Projetos localizados em territórios de baixa densidade;\n\nii) Projetos de criação de empresas previstos na alínea a) do artigo 6.º;\n\niii) Para trabalhadores do género sub-representado ou para trabalhadores qualificados nos termos definidos nas alíneas g) e m) do artigo 2.º;\n\n4 - Para os postos de trabalho criados com termo, é atribuída uma majoração no caso de conversão do contrato de trabalho a termo certo em contrato de trabalho sem termo, que corresponde ao valor equivalente a duas vezes a retribuição base mensal nele prevista até ao limite de cinco vezes o valor do IAS."
+  },
+  "114446996": {
+   "fragment_id": "114446896",
+   "type": 11,
+   "heading": "Artigo 14.º — Cumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cumulação de incentivos\n\nPara as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do SI2E não são cumuláveis com outros apoios diretos ao investimento nem com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho."
+  },
+  "114446997": {
+   "fragment_id": "114446897",
+   "type": 11,
+   "heading": "Artigo 15.º — Entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entidades gestoras\n\n1 - Para as modalidades de intervenção do SI2E referidas nas alíneas a) e b) do n.º 2 do artigo 1.º são designadas as seguintes entidades gestoras:\n\na) GAL para as Intervenções GAL;\n\nb) CIM ou as AM para as Intervenções CIM/AM.\n\n2 - Na modalidade Intervenções AG referida na alínea c) do n.º 2 do artigo 1.º, as funções de entidade gestora são assumidas pela respetiva AG.\n\n3 - Constituem atribuições das entidades gestoras indicadas no n.º 1 operacionalizar o SI2E no âmbito da sua atuação, designadamente:\n\na) Propor para aprovação das AG os termos dos avisos de abertura de candidaturas, incluindo, quando se entender necessário, o ajuste do SI2E às especificidades das estratégias visadas em cada situação e, quando for regulamentarmente possível, as parametrizações em matéria de tipologias de operações, âmbitos territorial e setorial, despesas elegíveis, majorações a mobilizar e dotações orçamentais a afetar;\n\nb) Analisar e selecionar as operações e propor à decisão das AG;\n\nc) Verificar as condições para a assinatura do termo de aceitação;\n\nd) Monitorizar e avaliar a execução das estratégias territoriais e operações, nos termos definidos nos contratos de delegação de competências e nos protocolos de articulação funcional.\n\n4 - As atribuições das entidades gestoras detalhadas no número anterior são exercidas em estreita articulação e parceria com as AG, respeitando o estipulado nos contratos de delegação de competências e nos protocolos de articulação funcional anteriormente celebrados entre as instituições envolvidas."
+  },
+  "114446998": {
+   "fragment_id": "114446898",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - Os procedimentos de análise, seleção e decisão das candidaturas são os constantes dos artigos 17.º e 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, observando ainda o previsto nos números seguintes.\n\n2 - Sem prejuízo dos critérios gerais e específicos previstos na regulamentação, as candidaturas são analisadas e selecionadas de acordo com eventuais critérios de elegibilidade adicionais e com os critérios de seleção aprovados pelos Comités de Acompanhamento dos respetivos Programas Operacionais Regionais, e definidos em aviso de abertura de candidaturas pelas entidades gestoras.\n\n3 - As entidades gestoras referidas nas alíneas a) e b) do n.º 1 do artigo 15.º apresentam a proposta de decisão à AG, sendo esta responsável pela supervisão final da elegibilidade e aprovação do pedido de apoio.\n\n4 - A confirmação da situação de desemprego, prevista no n.º 2 do artigo 10.º, é assegurada pelo IEFP, I. P., segundo procedimentos a definir em Orientação Técnica.\n\n5 - A decisão sobre o financiamento, prevista no n.º 3, é proferida no prazo de 60 dias úteis, a contar da data de encerramento do aviso.\n\n6 - O prazo previsto no número anterior suspende-se quando sejam solicitados ao candidato quaisquer esclarecimentos, informações ou documentos, o que só pode ocorrer por uma vez.\n\n7 - A não apresentação pelo candidato, no prazo de 10 dias úteis, dos esclarecimentos, informações ou documentos solicitados determina que a análise da candidatura prossegue apenas com os elementos disponibilizados, podendo implicar o seu indeferimento quando os elementos em falta sejam determinantes para uma decisão favorável."
+  },
+  "114446999": {
+   "fragment_id": "114446899",
+   "type": 11,
+   "heading": "Artigo 17.º — Acompanhamento dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento dos projetos\n\nNo âmbito do acompanhamento e controlo dos projetos as AG são responsáveis por verificar a realização efetiva dos bens e serviços cofinanciados e o pagamento da despesa declarada pelos beneficiários, bem como a sua conformidade com a legislação aplicável, com o programa financiador e com as condições de financiamento do projeto."
+  },
+  "114447000": {
+   "fragment_id": "114446900",
+   "type": 11,
+   "heading": "Artigo 18.º — Aceitação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aceitação da decisão\n\nA aceitação da decisão da concessão do incentivo é feita mediante a assinatura do termo de aceitação, a qual é submetida eletronicamente e autenticada nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro."
+  },
+  "114447001": {
+   "fragment_id": "114446901",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, são ainda exigíveis:\n\na) Disponibilizar, nos prazos estabelecidos, os elementos que lhe forem solicitados pelas entidades com competências para a monitorização da execução, o acompanhamento, avaliação de resultados, controlo e auditoria;\n\nb) Comunicar as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do projeto;\n\nc) Não afetar a outras finalidades, locar, alienar ou por qualquer outro modo onerar os bens e serviços adquiridos no âmbito dos projetos apoiados, sem prévia autorização da entidade competente para a decisão, no prazo de três anos após a conclusão do projeto;\n\nd) Manter a situação regularizada perante a entidade pagadora do incentivo;\n\ne) Quando aplicável, cumprir os normativos em matéria de contratação pública relativamente à execução dos projetos;\n\nf) No caso de contrato de trabalho sem termo, manter os postos de trabalho e a criação líquida de postos de trabalho, desde o início da vigência do contrato e pelo período de 24 meses, e no caso de contrato de trabalho a termo, manter os postos de trabalho e a criação líquida de postos de trabalho, desde o início da vigência do contrato e pelo período da duração do mesmo;\n\ng) Manter o investimento afeto à respetiva atividade e na localização geográfica definida na operação nos três anos seguintes ao pedido de pagamento final;\n\nh) No caso dos apoios à criação de emprego previstos no n.º 2 do artigo 10.º, submeter informação dos dados físicos e financeiros requeridos pelo sistema de informação sempre que submeta pedidos de reembolso, com uma periodicidade mínima bimestral."
+  },
+  "114447002": {
+   "fragment_id": "114446902",
+   "type": 11,
+   "heading": "Artigo 20.º — Indicadores de realização e de resultado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Indicadores de realização e de resultado\n\nProsseguindo o princípio geral de orientação para resultados, os projetos a financiar devem contribuir para os indicadores de realização e de resultado dos respetivos Programas Operacionais Regionais financiadores, a definir obrigatoriamente em sede de aviso."
+  },
+  "114447003": {
+   "fragment_id": "114446903",
+   "type": 11,
+   "heading": "Artigo 21.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Enquadramento europeu de auxílios de Estado\n\nOs incentivos são concedidos ao abrigo do regulamento (EU) n.º 1407/2013, da Comissão, de 18 de dezembro, relativo aos auxílios de minimis."
+  },
+  "114447004": {
+   "fragment_id": "114446904",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114447011": {
+   "fragment_id": "114446895",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas e limites de financiamento",
+   "in_force_from": "2018-01-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1/2018 - Diário da República n.º 1/2018, Série I de 2018-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/1-2018-114426058), em vigor a partir de 2018-01-03"
+   ],
+   "markdown": "###### Artigo 13.º — Taxas e limites de financiamento\n\n1 - O financiamento das operações apoiadas pelo SI2E, nas componentes FEDER e FSE, respeita as taxas de financiamento previstas no artigo 5.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro.\n\n2 - O incentivo ao investimento, na componente FEDER, é atribuído com os seguintes limites:\n\na) Taxa base: 40 % para os investimentos localizados em territórios de baixa densidade ou afetados por calamidades naturais, nos termos a definir no aviso de abertura de candidatura, ou 30 % para os investimentos localizados nos restantes territórios;\n\nb) Majorações até um máximo de 20 pontos percentuais a definir em sede de aviso de abertura de candidaturas em função dos seguintes fatores:\n\ni) Projetos da tipologia prevista na alínea a) do artigo 6.º;\n\nii) Projetos enquadrados em prioridades especialmente relevantes para os territórios em causa.\n\n3 - O incentivo ao investimento na componente FSE é atribuído através da comparticipação total das remunerações de postos de trabalho criados e tem como limite mensal o valor correspondente ao Indexante de Apoio Social (IAS), observando os seguintes períodos máximos por tipo de contrato e majorações:\n\na) Período base: 9 meses, para contratos de trabalho sem termo ou criação do próprio emprego, ou de 3 meses, para contratos de trabalho a termo com uma duração mínima de 12 meses;\n\nb) Majorações de 3 meses, para as Intervenções GAL, e 2,5 meses com um máximo de 6 meses, para as restantes situações, por cada uma das seguintes situações:\n\ni) Projetos localizados em territórios de baixa densidade;\n\nii) Projetos de criação de empresas previstos na alínea a) do artigo 6.º;\n\niii) Para trabalhadores do género sub-representado ou para trabalhadores qualificados nos termos definidos nas alíneas g) e m) do artigo 2.º;\n\n4 - Para os postos de trabalho criados com termo, é atribuída uma majoração no caso de conversão do contrato de trabalho a termo certo em contrato de trabalho sem termo, que corresponde ao valor equivalente a duas vezes a retribuição base mensal nele prevista até ao limite de cinco vezes o valor do IAS.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1/2018 - Diário da República n.º 1/2018, Série I de 2018-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/1-2018-114426058), em vigor a partir de 2018-01-03"
+  },
+  "114447005": {
+   "fragment_id": "114446905",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Desenvolvimento e Coesão, Ângelo Nelson Rosário de Souza, em 7 de março de 2017."
+  },
+  "115556374": {
+   "fragment_id": "114446890",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/178-2018-115552977), em vigor a partir de 2018-06-21, produz efeitos a partir de 2017-03-11"
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade dos beneficiários\n\n1 - Constituem critérios de elegibilidade dos beneficiários:\n\na) Estarem legalmente constituídos;\n\nb) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, situação a verificar até ao momento da assinatura do termo de aceitação;\n\nc) Poderem legalmente desenvolver as atividades no território abrangido pelo Programa Operacional e pela tipologia das operações e investimentos a que se candidatam;\n\nd) Possuírem, ou poderem assegurar até à aprovação da candidatura, os meios técnicos, físicos, financeiros e humanos necessários ao desenvolvimento da operação;\n\ne) Terem a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;\n\nf) Não terem apresentado a mesma candidatura, no âmbito da qual ainda esteja a decorrer o processo de decisão ou em que a decisão sobre o pedido de financiamento tenha sido favorável, exceto nas situações em que tenha sido apresentada desistência;\n\ng) Não deterem nem terem detido capital numa percentagem superior a 50 %, por si ou pelo seu cônjuge, não separado de pessoas e bens, ou pelos seus ascendentes e descendentes até ao 1.º grau, bem como por aquele que consigo viva em condições análogas às dos cônjuges, em empresa que não tenha cumprido notificação para devolução de apoios no âmbito de uma operação apoiada por fundos europeus;\n\nh) Não terem salários em atraso;\n\ni) Serem micro ou pequenas empresas que possuam certificação eletrónica passada pelo IAPMEI até à decisão sobre o financiamento;\n\nj) Não terem operações aprovadas no âmbito do SI2E, ao abrigo do mesmo fundo, que não se encontrem encerradas.\n\n2 - Os beneficiários que tenham sido condenados em processo-crime por factos que envolvam disponibilidades financeiras dos FEEI ficam impedidos de aceder ao financiamento público por um período de três anos, a contar do trânsito em julgado da decisão condenatória, salvo se da pena aplicada no âmbito desse processo resultar período superior.\n\n3 - Os beneficiários contra quem tenha sido deduzida acusação em processo-crime pelos factos referidos na alínea anterior, ou em relação aos quais tenha sido feita participação criminal por factos apurados em processos de controlo ou auditoria movidos pelos órgãos competentes, apenas podem ter acesso a apoios financeiros públicos no âmbito dos FEEI nos termos do artigo 14.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/178-2018-115552977), em vigor a partir de 2018-06-21, produz efeitos a partir de 2017-03-11"
+  },
+  "134381360": {
+   "fragment_id": "114446883",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regulamento tem por objeto a criação do Sistema de Incentivos ao Empreendedorismo e ao Emprego, de ora em diante designado por SI2E, e define as regras aplicáveis aos apoios concedidos às operações previstas na alínea g) do n.º 2 do artigo 74.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro.\n\n2 - O SI2E visa operacionalizar os apoios ao empreendedorismo e à criação de emprego, através dos Programas Operacionais Regionais do Norte, Centro, Alentejo, Lisboa e Algarve, considerando as elegibilidades previstas em cada um, no âmbito das seguintes modalidades de intervenção:\n\na) Estratégias de Desenvolvimento Local de Base Comunitária dinamizadas pelos Grupos de Ação Local (GAL), de ora em diante designadas por Intervenções GAL;\n\nb) Pactos para o Desenvolvimento e Coesão Territorial (PDCT) dinamizados pelas Comunidades Intermunicipais (CIM) e pelas Áreas Metropolitanas (AM), de ora em diante designadas por Intervenções CIM/AM;\n\nc) Outras intervenções de apoio ao empreendedorismo e criação de emprego alinhadas com as estratégias de desenvolvimento regional e de coesão territorial da iniciativa das Autoridades de Gestão (AG), de ora em diante designadas por Intervenções AG."
+  },
+  "134381361": {
+   "fragment_id": "114446884",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no SI2E e para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação que lhe foi dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, entende-se por:\n\na) «Atividade económica da empresa», o código da atividade principal ou secundária da empresa, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev.3), registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas (SICAE);\n\nb) «Criação líquida de postos de trabalho», o aumento do número de trabalhadores diretamente empregados na empresa, calculado pela diferença entre a média mensal do ano de referência e a média mensal do ano pré-projeto;\n\nc) «Data de conclusão do projeto ou da operação», a data de emissão da última fatura ou documento equivalente imputável ao projeto ou à operação, no âmbito do financiamento pelo Fundo Europeu de Desenvolvimento Regional (FEDER), e a data que consta do cronograma aprovado como data final para a realização da sua última ação, em operações financiadas pelo Fundo Social Europeu (FSE);\n\nd) «Desenvolvimento Local de Base Comunitária (DLBC)», a abordagem territorial apoiada por um, ou mais, Fundos Europeus Estruturais de Investimento (FEEI) que financia a execução das estratégias de desenvolvimento local, elaborada e promovida pelas comunidades locais, através de GAL maioritariamente compostos por representantes dos interesses socioeconómicos locais privados e que incidem em territórios homogéneos e limitados;\n\ne) «Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica;\n\nf) «Entidade gestora», instituição com funções de operacionalização de determinadas modalidades de intervenção do SI2E;\n\ng) «Género sub-representado», o género menos representado numa profissão, ou seja, aquele em que não se verifique uma representatividade de 33,3 %, conforme lista a anexar nos avisos de abertura de candidaturas;\n\nh) «PME», pequena e média empresa na aceção da Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio, relativa à definição de micro, pequena e média empresa;\n\ni) «Setor da pesca e da aquicultura», nos termos do Regulamento (UE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro, que estabelece a organização comum dos mercados dos produtos da pesca e da aquicultura, e que altera os Regulamentos (CE) n.º 1184/2006 e (CE) n.º 1224/2009 do Conselho e revoga o Regulamento (CE) n.º 104/2000, do Conselho;\n\nj) «Setor da produção agrícola primária», nos termos definidos no Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho;\n\nk) «Setor de transformação e comercialização de produtos agrícolas», previsto no Anexo I do Tratado de Funcionamento da União Europeia;\n\nl) «Território de baixa densidade», nos termos definidos pela Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), através da Deliberação n.º 55/2015, de 1 de julho, e conforme previsto no Programa Nacional para a Coesão Territorial (PNCT), aprovado pela Resolução do Conselho de Ministros n.º 72/ 2016, de 24 de novembro;\n\nm) «Trabalhadores qualificados», trabalhadores com nível de qualificação igual ou superior a 6, nos termos definidos pelo Quadro Nacional de Qualificações, aprovado pela Portaria n.º 782/2009, de 23 de julho."
+  },
+  "134381362": {
+   "fragment_id": "114446885",
+   "type": 11,
+   "heading": "Artigo 3.º — Complementaridade com outros instrumentos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Complementaridade com outros instrumentos de apoio\n\nNas intervenções alinhadas com as estratégias de Desenvolvimento Local de Base Comunitária, o SI2E pode ser complementado com outros instrumentos de apoio previstos na Secção III («Apoios ao empreendedorismo») do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro, e nos respetivos Programas Operacionais Regionais implementados através de avisos de abertura de candidaturas a ser lançados pelas AG sob proposta dos GAL."
+  },
+  "134381363": {
+   "fragment_id": "114446886",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito territorial\n\nO SI2E tem aplicação em todo o território do continente, em função das áreas territoriais previstas nas Estratégias de Desenvolvimento Local, nos PDCT ou nos avisos de abertura de candidaturas, nos casos previstos na alínea c) do n.º 2 do artigo 1.º"
+  },
+  "134381364": {
+   "fragment_id": "114446887",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito setorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito setorial\n\n1 - São elegíveis as operações inseridas em todas as atividades económicas, com exceção das que integrem:\n\na) O setor da pesca e da aquicultura;\n\nb) O setor da produção agrícola primária e florestas;\n\nc) O setor da transformação e comercialização de produtos agrícolas constantes do Anexo I do Tratado de Funcionamento da União Europeia e transformação e comercialização de produtos florestais;\n\nd) Os projetos de diversificação de atividades nas explorações agrícolas, nos termos do Acordo de Parceria;\n\ne) Os projetos que incidam nas seguintes atividades previstas na CAE - Rev.3:\n\ni) Financeiras e de seguros - divisões 64 a 66 da secção K;\n\nii) Defesa - subclasse 25402, da classe 2540, do grupo 254, da divisão 25, da secção C; subclasse 30400, da classe 3040, do grupo 304, da divisão 30 da secção C; subclasse 84220, da classe 8422, do grupo 842, da divisão 84 da secção O;\n\niii) Lotarias e outros jogos de aposta - divisão 92 da secção R.\n\n2 - Não são elegíveis os projetos que incluam investimentos decorrentes de obrigações previstas em contratos de concessão com o Estado (Administração Central ou Local)."
+  },
+  "134381365": {
+   "fragment_id": "114446888",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologias de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologias de operação\n\nSão passíveis de financiamento do SI2E as seguintes tipologias de operações:\n\na) Criação de micro e pequenas empresas ou expansão ou modernização de micro e pequenas empresas criadas há menos de cinco anos;\n\nb) Expansão ou modernização de micro e pequenas empresas criadas há mais de cinco anos."
+  },
+  "134381366": {
+   "fragment_id": "114446889",
+   "type": 11,
+   "heading": "Artigo 7.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Beneficiários\n\nSão passíveis de financiamento do SI2E as micro ou pequenas empresas, na aceção das alíneas e) e h) do artigo 2.º do presente regulamento."
+  },
+  "134381367": {
+   "fragment_id": "114446890",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/178-2018-115552977), em vigor a partir de 2018-06-21, produz efeitos a partir de 2017-03-11"
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade dos beneficiários\n\n1 - Constituem critérios de elegibilidade dos beneficiários:\n\na) Estarem legalmente constituídos;\n\nb) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, situação a verificar até ao momento da assinatura do termo de aceitação;\n\nc) Poderem legalmente desenvolver as atividades no território abrangido pelo Programa Operacional e pela tipologia das operações e investimentos a que se candidatam;\n\nd) Possuírem, ou poderem assegurar até à aprovação da candidatura, os meios técnicos, físicos, financeiros e humanos necessários ao desenvolvimento da operação;\n\ne) Terem a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;\n\nf) Não terem apresentado a mesma candidatura, no âmbito da qual ainda esteja a decorrer o processo de decisão ou em que a decisão sobre o pedido de financiamento tenha sido favorável, exceto nas situações em que tenha sido apresentada desistência;\n\ng) Não deterem nem terem detido capital numa percentagem superior a 50 %, por si ou pelo seu cônjuge, não separado de pessoas e bens, ou pelos seus ascendentes e descendentes até ao 1.º grau, bem como por aquele que consigo viva em condições análogas às dos cônjuges, em empresa que não tenha cumprido notificação para devolução de apoios no âmbito de uma operação apoiada por fundos europeus;\n\nh) Não terem salários em atraso;\n\ni) Serem micro ou pequenas empresas que possuam certificação eletrónica passada pelo IAPMEI até à decisão sobre o financiamento;\n\nj) Não terem operações aprovadas no âmbito do SI2E, ao abrigo do mesmo fundo, que não se encontrem encerradas.\n\n2 - Os beneficiários que tenham sido condenados em processo-crime por factos que envolvam disponibilidades financeiras dos FEEI ficam impedidos de aceder ao financiamento público por um período de três anos, a contar do trânsito em julgado da decisão condenatória, salvo se da pena aplicada no âmbito desse processo resultar período superior.\n\n3 - Os beneficiários contra quem tenha sido deduzida acusação em processo-crime pelos factos referidos na alínea anterior, ou em relação aos quais tenha sido feita participação criminal por factos apurados em processos de controlo ou auditoria movidos pelos órgãos competentes, apenas podem ter acesso a apoios financeiros públicos no âmbito dos FEEI nos termos do artigo 14.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/178-2018-115552977), em vigor a partir de 2018-06-21, produz efeitos a partir de 2017-03-11"
+  },
+  "134381368": {
+   "fragment_id": "114446891",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de elegibilidade das operações\n\n1 - Constituem critérios gerais de elegibilidade das operações:\n\na) Estar enquadradas, tendo em conta as tipologias previstas em sede de regulamento, nos eixos prioritários e nas correspondentes prioridades de investimento dos Programas Operacionais a que se candidatam, bem como das estratégias de desenvolvimento das respetivas modalidades de intervenção;\n\nb) Integrar toda a informação exigida no âmbito da instrução do processo de candidatura, nos termos dos respetivos avisos, respeitando as condições e os prazos fixados;\n\nc) Estar em conformidade com as disposições legais, nacionais e europeias, incluindo as disposições regulamentares que lhes forem aplicáveis, nomeadamente as decorrentes dos diplomas que instituem as medidas de política pública em que se enquadram;\n\nd) Estar enquadradas num projeto de criação, expansão ou modernização de empresa que contribua para a diferenciação ou inovação da oferta de bens e serviços do território ou da empresa, tendo em consideração as especificidades do território e a dimensão da empresa e do investimento;\n\ne) Conduzir à criação líquida de emprego.\n\n2 - Constituem critérios específicos, na componente do projeto associada às despesas elegíveis no n.º 1 do artigo 10.º, financiadas pelo FEDER:\n\na) Apresentar um investimento com um custo elegível que observe as seguintes condições:\n\ni) Até 100 mil euros, nas Intervenções GAL;\n\nii) Superior a 100 mil e até 235 mil euros, nas Intervenções CIM/AM;\n\nb) O período de investimento deve ter uma duração máxima de 18 meses, contado a partir da data da primeira despesa ou da criação do primeiro posto de trabalho, podendo o mesmo ser prorrogado por um período adicional de 6 meses, em casos devidamente justificados;\n\nc) Demonstrar que se encontram asseguradas as fontes de financiamento;\n\nd) Demonstrar a viabilidade económico-financeira.\n\n3 - Em casos devidamente justificados, os avisos de abertura de candidaturas podem fixar um custo elegível inferior ao identificado na subalínea ii) da alínea a) do n.º 2."
+  },
+  "134381369": {
+   "fragment_id": "114446892",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas elegíveis\n\n1 - Para efeitos de investimento físico, na componente FEDER, são elegíveis as seguintes despesas:\n\na) Custos de aquisição de máquinas, equipamentos, respetiva instalação e transporte;\n\nb) Custos de aquisição de equipamentos informáticos, incluindo o software necessário ao seu funcionamento;\n\nc) Software standard ou desenvolvido especificamente para a atividade da empresa;\n\nd) Custos de conceção e registo associados à criação de novas marcas ou coleções;\n\ne) Custos iniciais associados à domiciliação de aplicações, adesão inicial a plataformas eletrónicas, subscrição inicial de aplicações em regimes de «software as a servisse», criação e publicação inicial de novos conteúdos eletrónicos, bem como a inclusão ou catalogação em diretórios ou motores de busca;\n\nf) Serviços de arquitetura e engenharia relacionados com a implementação do projeto;\n\ng) Material circulante diretamente relacionado com o exercício da atividade em que seja imprescindível à execução da operação, sujeito a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\nh) Estudos, diagnósticos, auditorias, planos de marketing e projetos de arquitetura e de engenharia essenciais ao projeto de investimento sujeitos a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\ni) Obras de remodelação ou adaptação, desde que contratadas a terceiros não relacionados com o adquirente beneficiário dos apoios, indispensáveis à concretização do investimento sujeitas a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\nj) Participação em feiras e exposição no estrangeiro sujeitas a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas:\n\ni) Custos com o arrendamento de espaço, incluindo os serviços prestados pelas entidades organizadoras das feiras, nomeadamente os relativos aos consumos de água, eletricidade, comunicações, inserções em catálogo de feira e os serviços de tradução/intérprete;\n\nii) Custos com a construção do stand, incluindo os serviços associados à conceção, construção e montagem de espaços de exposição, nomeadamente aluguer de equipamentos e mobiliário, transporte e manuseamento de mostruários, materiais e outros suportes promocionais;\n\niii) Custos de funcionamento do stand, incluindo os serviços de deslocação e alojamento dos representantes das empresas e outras despesas de representação, bem como a contratação de tradutores/intérpretes externos à organização das feiras.\n\n2 - Para efeitos de criação de emprego, na componente FSE, são elegíveis as despesas com remunerações de postos de trabalho criados, nas seguintes situações:\n\na) Criação do próprio emprego;\n\nb) Criação de postos de trabalho para desempregados inscritos há mais de 6 meses no Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), incluindo desempregados de longa e muito longa duração;\n\nc) Criação de postos de trabalho para jovens até 30 anos à procura do primeiro emprego inscritos no IEFP, I. P., como desempregados há pelo menos 2 meses.\n\n3 - Apenas são elegíveis as despesas realizadas após a data da candidatura e que respeitem o período máximo de execução previsto na alínea b) do n.º 2 do artigo anterior."
+  },
+  "134381370": {
+   "fragment_id": "114446893",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas não elegíveis\n\nSem prejuízo do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, na componente de investimento FEDER, não são elegíveis as seguintes despesas:\n\na) Compra de imóveis, incluindo terrenos;\n\nb) Trespasse e direitos de utilização de espaços;\n\nc) Aquisição de veículos automóveis, aeronaves e outro material de transporte ou aeronáutico que não estejam incluídos na alínea g) do n.º 1 do artigo 10.º;\n\nd) Aquisição de bens em estado de uso;\n\ne) Juros durante o período de realização do investimento;\n\nf) Fundo de maneio;\n\ng) Trabalhos da empresa para ela própria;\n\nh) Despesas de funcionamento do beneficiário, custos correntes e de manutenção, exceto os custos previstos no n.º 1 do artigo 10.º:\n\ni) Custos referentes a atividades relacionadas com a exportação, nomeadamente os diretamente associados às quantidades exportadas, à criação ou funcionamento de redes de distribuição no exterior ou a outros custos correntes ligados à atividade de exportação;\n\nj) Despesas pagas no âmbito de contratos efetuados através de intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante cofinanciado ou das despesas elegíveis do projeto;\n\nk) Imposto sobre o valor acrescentado recuperável ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário."
+  },
+  "134381371": {
+   "fragment_id": "114446894",
+   "type": 11,
+   "heading": "Artigo 12.º — Natureza do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Natureza do financiamento\n\n1 - Os incentivos a conceder no âmbito do SI2E revestem a natureza de subvenção não reembolsável.\n\n2 - As operações podem ser financiadas por via de duas componentes:\n\na) Através do FEDER, para as despesas previstas no n.º 1 do artigo 10.º;\n\nb) Através do FSE, para as despesas previstas no n.º 2 do artigo 10.º\n\n3 - O projeto pode beneficiar das duas componentes de financiamento referidas no número anterior, ou apenas de uma delas, consoante a opção efetuada pelo promotor na apresentação da candidatura."
+  },
+  "134381372": {
+   "fragment_id": "114446895",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas e limites de financiamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1/2018 - Diário da República n.º 1/2018, Série I de 2018-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/1-2018-114426058), em vigor a partir de 2018-01-03"
+   ],
+   "markdown": "###### Artigo 13.º — Taxas e limites de financiamento\n\n1 - O financiamento das operações apoiadas pelo SI2E, nas componentes FEDER e FSE, respeita as taxas de financiamento previstas no artigo 5.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro.\n\n2 - O incentivo ao investimento, na componente FEDER, é atribuído com os seguintes limites:\n\na) Taxa base: 40 % para os investimentos localizados em territórios de baixa densidade ou afetados por calamidades naturais, nos termos a definir no aviso de abertura de candidatura, ou 30 % para os investimentos localizados nos restantes territórios;\n\nb) Majorações até um máximo de 20 pontos percentuais a definir em sede de aviso de abertura de candidaturas em função dos seguintes fatores:\n\ni) Projetos da tipologia prevista na alínea a) do artigo 6.º;\n\nii) Projetos enquadrados em prioridades especialmente relevantes para os territórios em causa.\n\n3 - O incentivo ao investimento na componente FSE é atribuído através da comparticipação total das remunerações de postos de trabalho criados e tem como limite mensal o valor correspondente ao Indexante de Apoio Social (IAS), observando os seguintes períodos máximos por tipo de contrato e majorações:\n\na) Período base: 9 meses, para contratos de trabalho sem termo ou criação do próprio emprego, ou de 3 meses, para contratos de trabalho a termo com uma duração mínima de 12 meses;\n\nb) Majorações de 3 meses, para as Intervenções GAL, e 2,5 meses com um máximo de 6 meses, para as restantes situações, por cada uma das seguintes situações:\n\ni) Projetos localizados em territórios de baixa densidade;\n\nii) Projetos de criação de empresas previstos na alínea a) do artigo 6.º;\n\niii) Para trabalhadores do género sub-representado ou para trabalhadores qualificados nos termos definidos nas alíneas g) e m) do artigo 2.º;\n\n4 - Para os postos de trabalho criados com termo, é atribuída uma majoração no caso de conversão do contrato de trabalho a termo certo em contrato de trabalho sem termo, que corresponde ao valor equivalente a duas vezes a retribuição base mensal nele prevista até ao limite de cinco vezes o valor do IAS.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1/2018 - Diário da República n.º 1/2018, Série I de 2018-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/1-2018-114426058), em vigor a partir de 2018-01-03"
+  },
+  "134381373": {
+   "fragment_id": "114446896",
+   "type": 11,
+   "heading": "Artigo 14.º — Cumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cumulação de incentivos\n\nPara as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do SI2E não são cumuláveis com outros apoios diretos ao investimento nem com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho."
+  },
+  "134381374": {
+   "fragment_id": "114446897",
+   "type": 11,
+   "heading": "Artigo 15.º — Entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entidades gestoras\n\n1 - Para as modalidades de intervenção do SI2E referidas nas alíneas a) e b) do n.º 2 do artigo 1.º são designadas as seguintes entidades gestoras:\n\na) GAL para as Intervenções GAL;\n\nb) CIM ou as AM para as Intervenções CIM/AM.\n\n2 - Na modalidade Intervenções AG referida na alínea c) do n.º 2 do artigo 1.º, as funções de entidade gestora são assumidas pela respetiva AG.\n\n3 - Constituem atribuições das entidades gestoras indicadas no n.º 1 operacionalizar o SI2E no âmbito da sua atuação, designadamente:\n\na) Propor para aprovação das AG os termos dos avisos de abertura de candidaturas, incluindo, quando se entender necessário, o ajuste do SI2E às especificidades das estratégias visadas em cada situação e, quando for regulamentarmente possível, as parametrizações em matéria de tipologias de operações, âmbitos territorial e setorial, despesas elegíveis, majorações a mobilizar e dotações orçamentais a afetar;\n\nb) Analisar e selecionar as operações e propor à decisão das AG;\n\nc) Verificar as condições para a assinatura do termo de aceitação;\n\nd) Monitorizar e avaliar a execução das estratégias territoriais e operações, nos termos definidos nos contratos de delegação de competências e nos protocolos de articulação funcional.\n\n4 - As atribuições das entidades gestoras detalhadas no número anterior são exercidas em estreita articulação e parceria com as AG, respeitando o estipulado nos contratos de delegação de competências e nos protocolos de articulação funcional anteriormente celebrados entre as instituições envolvidas."
+  },
+  "134383975": {
+   "fragment_id": "114446898",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - Os procedimentos de análise, seleção e decisão das candidaturas são os constantes dos artigos 17.º e 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, observando ainda o previsto nos números seguintes.\n\n2 - Sem prejuízo dos critérios gerais e específicos previstos na regulamentação, as candidaturas são analisadas e selecionadas de acordo com eventuais critérios de elegibilidade adicionais e com os critérios de seleção aprovados pelos Comités de Acompanhamento dos respetivos Programas Operacionais Regionais, e definidos em aviso de abertura de candidaturas pelas entidades gestoras.\n\n3 - As entidades gestoras referidas nas alíneas a) e b) do n.º 1 do artigo 15.º apresentam a proposta de decisão à AG, sendo esta responsável pela supervisão final da elegibilidade e aprovação do pedido de apoio.\n\n4 - A confirmação da situação de desemprego, prevista no n.º 2 do artigo 10.º, é assegurada pelo IEFP, I. P., segundo procedimentos a definir em Orientação Técnica.\n\n5 - A decisão sobre o financiamento, prevista no n.º 3, é proferida no prazo de 60 dias úteis, a contar da data de encerramento do aviso.\n\n6 - O prazo previsto no número anterior suspende-se quando sejam solicitados ao candidato quaisquer esclarecimentos, informações ou documentos, o que só pode ocorrer por uma vez.\n\n7 - A não apresentação pelo candidato, no prazo de 10 dias úteis, dos esclarecimentos, informações ou documentos solicitados determina que a análise da candidatura prossegue apenas com os elementos disponibilizados, podendo implicar o seu indeferimento quando os elementos em falta sejam determinantes para uma decisão favorável."
+  },
+  "134383976": {
+   "fragment_id": "114446899",
+   "type": 11,
+   "heading": "Artigo 17.º — Acompanhamento dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento dos projetos\n\nNo âmbito do acompanhamento e controlo dos projetos as AG são responsáveis por verificar a realização efetiva dos bens e serviços cofinanciados e o pagamento da despesa declarada pelos beneficiários, bem como a sua conformidade com a legislação aplicável, com o programa financiador e com as condições de financiamento do projeto."
+  },
+  "134383977": {
+   "fragment_id": "114446900",
+   "type": 11,
+   "heading": "Artigo 18.º — Aceitação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aceitação da decisão\n\nA aceitação da decisão da concessão do incentivo é feita mediante a assinatura do termo de aceitação, a qual é submetida eletronicamente e autenticada nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro."
+  },
+  "134383978": {
+   "fragment_id": "114446901",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, são ainda exigíveis:\n\na) Disponibilizar, nos prazos estabelecidos, os elementos que lhe forem solicitados pelas entidades com competências para a monitorização da execução, o acompanhamento, avaliação de resultados, controlo e auditoria;\n\nb) Comunicar as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do projeto;\n\nc) Não afetar a outras finalidades, locar, alienar ou por qualquer outro modo onerar os bens e serviços adquiridos no âmbito dos projetos apoiados, sem prévia autorização da entidade competente para a decisão, no prazo de três anos após a conclusão do projeto;\n\nd) Manter a situação regularizada perante a entidade pagadora do incentivo;\n\ne) Quando aplicável, cumprir os normativos em matéria de contratação pública relativamente à execução dos projetos;\n\nf) No caso de contrato de trabalho sem termo, manter os postos de trabalho e a criação líquida de postos de trabalho, desde o início da vigência do contrato e pelo período de 24 meses, e no caso de contrato de trabalho a termo, manter os postos de trabalho e a criação líquida de postos de trabalho, desde o início da vigência do contrato e pelo período da duração do mesmo;\n\ng) Manter o investimento afeto à respetiva atividade e na localização geográfica definida na operação nos três anos seguintes ao pedido de pagamento final;\n\nh) No caso dos apoios à criação de emprego previstos no n.º 2 do artigo 10.º, submeter informação dos dados físicos e financeiros requeridos pelo sistema de informação sempre que submeta pedidos de reembolso, com uma periodicidade mínima bimestral."
+  },
+  "134383979": {
+   "fragment_id": "114446902",
+   "type": 11,
+   "heading": "Artigo 20.º — Indicadores de realização e de resultado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Indicadores de realização e de resultado\n\nProsseguindo o princípio geral de orientação para resultados, os projetos a financiar devem contribuir para os indicadores de realização e de resultado dos respetivos Programas Operacionais Regionais financiadores, a definir obrigatoriamente em sede de aviso."
+  },
+  "134383980": {
+   "fragment_id": "114446903",
+   "type": 11,
+   "heading": "Artigo 21.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Enquadramento europeu de auxílios de Estado\n\nOs incentivos são concedidos ao abrigo do regulamento (EU) n.º 1407/2013, da Comissão, de 18 de dezembro, relativo aos auxílios de minimis."
+  },
+  "134383981": {
+   "fragment_id": "114446904",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "134383982": {
+   "fragment_id": "114446905",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Desenvolvimento e Coesão, Ângelo Nelson Rosário de Souza, em 7 de março de 2017."
+  },
+  "134383983": {
+   "fragment_id": "134306002",
+   "type": 14,
+   "heading": "Anexo — Medidas excecionais e temporárias dos apoios SI2E na resposta à crise de saúde pública - COVID-19",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "## Anexo — Medidas excecionais e temporárias dos apoios SI2E na resposta à crise de saúde pública - COVID-19\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  },
+  "134383984": {
+   "fragment_id": "134306003",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente anexo estabelece as regras excecionais e temporárias aplicáveis a operações apoiadas pelo SI2E, em resposta imediata ao impacto da crise de saúde pública no contexto do surto de COVID-19.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  },
+  "134383985": {
+   "fragment_id": "134306004",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2020-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São abrangidas pelas presentes disposições as operações que se encontrem em curso à data de produção de efeitos do Decreto-Lei n.º 10-A/2020, de 13 de março, e que ainda não tenham concluído fisicamente as atividades nelas previstas, de acordo com o respetivo cronograma aprovado, e até à cessação desta situação excecional, conforme venha a ser determinada pela autoridade nacional de saúde pública.\n\n2 - São ainda abrangidas as operações concluídas, física e financeiramente, que se encontrem no período de verificação das condições previstas nos artigos 5.º e 6.º do presente anexo.\n\n3 - O presente regime é aplicável desde que as operações referidas nos números anteriores demonstrem haver um nexo de casualidade entre as condições que obstam à normal execução e a crise de saúde pública decorrente do surto de COVID-19.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  },
+  "134383986": {
+   "fragment_id": "134306005",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração máxima das operações",
+   "in_force_from": "2020-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 3.º — Duração máxima das operações\n\n1 - O período de investimento previsto na alínea b) do n.º 2 do artigo 9.º do Regulamento SI2E pode ser prorrogado por decisão da Autoridade de Gestão (AG), após apresentação de pedido do beneficiário pelo período necessário à resposta às situações de força maior decorrentes do surto de COVID-19.\n\n2 - Sem prejuízo do disposto no número anterior, e após pedido do beneficiário, a componente financiada pelo FSE associada à criação de postos de trabalho também pode ser prorrogada por período que responda ao novo calendário do investimento ou à suspensão da atividade económica quer por encerramento determinado pelas entidades públicas competentes ou por quebra nas cadeias de fornecimento e produção.\n\n3 - Para os efeitos previstos nos números anteriores, são derrogadas as disposições previstas na alínea b) do n.º 2 do artigo 9.º e no n.º 3, in fine, do artigo 10.º do Regulamento SI2E.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  },
+  "134383987": {
+   "fragment_id": "134306006",
+   "type": 11,
+   "heading": "Artigo 4.º — Período de suspensão dos apoios FSE",
+   "in_force_from": "2020-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 4.º — Período de suspensão dos apoios FSE\n\n1 - Sem prejuízo do disposto do artigo 14.º do Regulamento SI2E, os apoios previstos no n.º 2 do artigo 10.º do mesmo Regulamento consideram-se suspensos pelo período do apoio extraordinário que venha a ser concedido ao beneficiário, ao abrigo do Decreto-Lei n.º 10-G/2020, de 26 de março, na sua atual redação.\n\n2 - O apoio SI2E aos postos de trabalho criados é retomado após a cessação da aplicação, ao beneficiário, do regime de lay-off simplificado referido no número anterior.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  },
+  "134383988": {
+   "fragment_id": "134306007",
+   "type": 11,
+   "heading": "Artigo 5.º — Manutenção dos postos de trabalho e criação líquida de emprego",
+   "in_force_from": "2020-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 5.º — Manutenção dos postos de trabalho e criação líquida de emprego\n\nSempre que invocado o princípio de força maior decorrente da crise de saúde pública COVID-19, com suporte documental que o evidencie, as condições associadas à verificação da manutenção dos postos de trabalho e da criação líquida de emprego prevista na alínea f) do artigo 19.º do Regulamento SI2E podem ser revistas por decisão das AG.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  },
+  "134383989": {
+   "fragment_id": "134306008",
+   "type": 11,
+   "heading": "Artigo 6.º — Indicadores de realização e resultado",
+   "in_force_from": "2020-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 6.º — Indicadores de realização e resultado\n\nSem prejuízo do previsto no artigo 20.º do Regulamento SI2E, a crise de saúde pública COVID-19 pode considerar-se motivo de força maior não imputável aos beneficiários para revisão dos resultados e realizações acordados nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação, podendo os mesmos ser revistos pela AG.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  },
+  "148957576": {
+   "fragment_id": "114446883",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente regulamento tem por objeto a criação do Sistema de Incentivos ao Empreendedorismo e ao Emprego, de ora em diante designado por SI2E, e define as regras aplicáveis aos apoios concedidos às operações previstas na alínea g) do n.º 2 do artigo 74.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, e pela Portaria n.º 265/2016, de 13 de outubro.\n\n2 - O SI2E visa operacionalizar os apoios ao empreendedorismo, à criação e à manutenção de emprego, através dos Programas Operacionais Regionais do Norte, Centro, Alentejo, Lisboa e Algarve, considerando as elegibilidades previstas em cada um, no âmbito das seguintes modalidades de intervenção:\n\na) Estratégias de Desenvolvimento Local de Base Comunitária dinamizadas pelos Grupos de Ação Local (GAL), de ora em diante designadas por Intervenções GAL;\n\nb) Pactos para o Desenvolvimento e Coesão Territorial (PDCT) dinamizados pelas Comunidades Intermunicipais (CIM) e pelas Áreas Metropolitanas (AM), de ora em diante designadas por Intervenções CIM/AM;\n\nc) Outras intervenções de apoio alinhadas com as estratégias de desenvolvimento regional e de coesão territorial da iniciativa das Autoridades de Gestão (AG), de ora em diante designadas por Intervenções AG.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+  },
+  "148957577": {
+   "fragment_id": "114446884",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2020-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no SI2E e para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação que lhe foi dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, entende-se por:\n\na) «Atividade económica da empresa», o código da atividade principal ou secundária da empresa, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev.3), registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas (SICAE);\n\nb) «Criação líquida de postos de trabalho», o aumento do número de trabalhadores diretamente empregados na empresa, calculado pela diferença entre a média mensal do ano de referência e a média mensal do ano pré-projeto;\n\nc) «Data de conclusão do projeto ou da operação», a data de emissão da última fatura ou documento equivalente imputável ao projeto ou à operação, no âmbito do financiamento pelo Fundo Europeu de Desenvolvimento Regional (FEDER), e a data que consta do cronograma aprovado como data final para a realização da sua última ação, em operações financiadas pelo Fundo Social Europeu (FSE);\n\nd) «Desenvolvimento Local de Base Comunitária (DLBC)», a abordagem territorial apoiada por um, ou mais, Fundos Europeus Estruturais de Investimento (FEEI) que financia a execução das estratégias de desenvolvimento local, elaborada e promovida pelas comunidades locais, através de GAL maioritariamente compostos por representantes dos interesses socioeconómicos locais privados e que incidem em territórios homogéneos e limitados;\n\ne) «Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica;\n\nf) «Entidade gestora», instituição com funções de operacionalização de determinadas modalidades de intervenção do SI2E;\n\ng) «Género sub-representado», o género menos representado numa profissão, ou seja, aquele em que não se verifique uma representatividade de 33,3 %, conforme lista a anexar nos avisos de abertura de candidaturas;\n\nh) «PME», pequena e média empresa na aceção da Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio, relativa à definição de micro, pequena e média empresa;\n\ni) «Setor da pesca e da aquicultura», nos termos do Regulamento (UE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro, que estabelece a organização comum dos mercados dos produtos da pesca e da aquicultura, e que altera os Regulamentos (CE) n.º 1184/2006 e (CE) n.º 1224/2009 do Conselho e revoga o Regulamento (CE) n.º 104/2000, do Conselho;\n\nj) «Setor da produção agrícola primária», nos termos definidos no Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho;\n\nk) «Setor de transformação e comercialização de produtos agrícolas», previsto no Anexo I do Tratado de Funcionamento da União Europeia;\n\nl) «Território de baixa densidade», nos termos definidos pela Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), através da Deliberação n.º 55/2015, de 1 de julho, e conforme previsto no Programa Nacional para a Coesão Territorial (PNCT), aprovado pela Resolução do Conselho de Ministros n.º 72/ 2016, de 24 de novembro;\n\nm) «Trabalhadores qualificados», trabalhadores com nível de qualificação igual ou superior a 6, nos termos definidos pelo Quadro Nacional de Qualificações, aprovado pela Portaria n.º 782/2009, de 23 de julho;\n\nn) «Manutenção de postos de trabalho», assegurar o número de postos de trabalho na empresa, durante execução do projeto e até à conclusão da operação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+  },
+  "148957578": {
+   "fragment_id": "114446888",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologias de operação",
+   "in_force_from": "2020-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+   ],
+   "markdown": "###### Artigo 6.º — Tipologias de operação\n\nSão passíveis de financiamento do SI2E as seguintes tipologias de operações:\n\na) Criação de micro e pequenas empresas ou expansão ou modernização de micro e pequenas empresas criadas há menos de cinco anos;\n\nb) Expansão ou modernização de micro e pequenas empresas criadas há mais de cinco anos;\n\nc) Estímulo à produção nacional de base local para a expansão e modernização da produção por parte de micro e pequenas empresas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+  },
+  "148957579": {
+   "fragment_id": "114446891",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2020-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+   ],
+   "markdown": "###### Artigo 9.º — Critérios de elegibilidade das operações\n\n1 - Constituem critérios gerais de elegibilidade das operações:\n\na) Estar enquadradas, tendo em conta as tipologias previstas em sede de regulamento, nos eixos prioritários e nas correspondentes prioridades de investimento dos Programas Operacionais a que se candidatam, bem como das estratégias de desenvolvimento das respetivas modalidades de intervenção;\n\nb) Integrar toda a informação exigida no âmbito da instrução do processo de candidatura, nos termos dos respetivos avisos, respeitando as condições e os prazos fixados;\n\nc) Estar em conformidade com as disposições legais, nacionais e europeias, incluindo as disposições regulamentares que lhes forem aplicáveis, nomeadamente as decorrentes dos diplomas que instituem as medidas de política pública em que se enquadram;\n\nd) Estar enquadradas num projeto de criação, expansão ou modernização de empresa que contribua para a diferenciação ou inovação da oferta de bens e serviços do território ou da empresa, tendo em consideração as especificidades do território e a dimensão da empresa e do investimento;\n\ne) Conduzir à criação líquida de emprego, com exceção das operações previstas no n.º 4 do presente artigo, em que é exigível a manutenção dos postos de trabalho.\n\n2 - Constituem critérios específicos, na componente do projeto associada às despesas elegíveis no n.º 1 do artigo 10.º, financiadas pelo FEDER:\n\na) Apresentar um investimento com um custo elegível que observe as seguintes condições:\n\ni) Até 100 mil euros, nas Intervenções GAL;\n\nii) Superior a 100 mil e até 235 mil euros, nas Intervenções CIM/AM;\n\nb) O período de investimento deve ter uma duração máxima de 18 meses, contado a partir da data da primeira despesa ou da criação do primeiro posto de trabalho, podendo o mesmo ser prorrogado por um período adicional de 6 meses, em casos devidamente justificados;\n\nc) Demonstrar que se encontram asseguradas as fontes de financiamento;\n\nd) Demonstrar a viabilidade económico-financeira.\n\n3 - Em casos devidamente justificados, os avisos de abertura de candidaturas podem fixar um custo elegível inferior ao identificado na subalínea ii) da alínea a) do n.º 2.\n\n4 - Aos projetos enquadráveis na alínea c) do artigo 6.º são exclusivamente aplicáveis os seguintes critérios de elegibilidade:\n\na) Os previstos nas alíneas a) a d), dos n.os 1 e 2 do presente artigo;\n\nb) Manter os postos de trabalho;\n\nc) Nos casos devidamente justificados, os avisos de abertura de candidatura, observando o limite máximo, podem fixar um limite diferente do identificado nas subalíneas i) e ii) da alínea a) do n.º 2 do presente artigo.\n\n5 - No âmbito das operações incluídas no número anterior são admitidas intervenções das AG, das CIM/AM ou GAL.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+  },
+  "148957580": {
+   "fragment_id": "114446892",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas elegíveis",
+   "in_force_from": "2020-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+   ],
+   "markdown": "###### Artigo 10.º — Despesas elegíveis\n\n1 - Para efeitos de investimento físico, na componente FEDER, são elegíveis as seguintes despesas:\n\na) Custos de aquisição de máquinas, equipamentos, respetiva instalação e transporte;\n\nb) Custos de aquisição de equipamentos informáticos, incluindo o software necessário ao seu funcionamento;\n\nc) Software standard ou desenvolvido especificamente para a atividade da empresa;\n\nd) Custos de conceção e registo associados à criação de novas marcas ou coleções;\n\ne) Custos iniciais associados à domiciliação de aplicações, adesão inicial a plataformas eletrónicas, subscrição inicial de aplicações em regimes de «software as a servisse», criação e publicação inicial de novos conteúdos eletrónicos, bem como a inclusão ou catalogação em diretórios ou motores de busca;\n\nf) Serviços de arquitetura e engenharia relacionados com a implementação do projeto;\n\ng) Material circulante diretamente relacionado com o exercício da atividade em que seja imprescindível à execução da operação, sujeito a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\nh) Estudos, diagnósticos, auditorias, planos de marketing e projetos de arquitetura e de engenharia essenciais ao projeto de investimento sujeitos a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\ni) Obras de remodelação ou adaptação, desde que contratadas a terceiros não relacionados com o adquirente beneficiário dos apoios, indispensáveis à concretização do investimento sujeitas a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas;\n\nj) Participação em feiras e exposição no estrangeiro sujeitas a limitações em matéria de proporção do investimento total a definir nos avisos de abertura de candidaturas:\n\ni) Custos com o arrendamento de espaço, incluindo os serviços prestados pelas entidades organizadoras das feiras, nomeadamente os relativos aos consumos de água, eletricidade, comunicações, inserções em catálogo de feira e os serviços de tradução/intérprete;\n\nii) Custos com a construção do stand, incluindo os serviços associados à conceção, construção e montagem de espaços de exposição, nomeadamente aluguer de equipamentos e mobiliário, transporte e manuseamento de mostruários, materiais e outros suportes promocionais;\n\niii) Custos de funcionamento do stand, incluindo os serviços de deslocação e alojamento dos representantes das empresas e outras despesas de representação, bem como a contratação de tradutores/intérpretes externos à organização das feiras;\n\nk) Serviços tecnológicos/digitais, sistemas de qualidade e de certificação.\n\n2 - Para efeitos de criação de emprego, na componente FSE, são elegíveis as despesas com remunerações de postos de trabalho criados, nas seguintes situações:\n\na) Criação do próprio emprego;\n\nb) Criação de postos de trabalho para desempregados inscritos há mais de 6 meses no Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), incluindo desempregados de longa e muito longa duração;\n\nc) Criação de postos de trabalho para jovens até 30 anos à procura do primeiro emprego inscritos no IEFP, I. P., como desempregados há pelo menos 2 meses.\n\n3 - Apenas são elegíveis as despesas realizadas após a data da candidatura e que respeitem o período máximo de execução previsto na alínea b) do n.º 2 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+  },
+  "148957581": {
+   "fragment_id": "114446901",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações dos beneficiários",
+   "in_force_from": "2020-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+   ],
+   "markdown": "###### Artigo 19.º — Obrigações dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, são ainda exigíveis:\n\na) Disponibilizar, nos prazos estabelecidos, os elementos que lhe forem solicitados pelas entidades com competências para a monitorização da execução, o acompanhamento, avaliação de resultados, controlo e auditoria;\n\nb) Comunicar as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do projeto;\n\nc) Não afetar a outras finalidades, locar, alienar ou por qualquer outro modo onerar os bens e serviços adquiridos no âmbito dos projetos apoiados, sem prévia autorização da entidade competente para a decisão, no prazo de três anos após a conclusão do projeto;\n\nd) Manter a situação regularizada perante a entidade pagadora do incentivo;\n\ne) Quando aplicável, cumprir os normativos em matéria de contratação pública relativamente à execução dos projetos;\n\nf) No caso de contrato de trabalho sem termo, manter os postos de trabalho e a criação líquida de postos de trabalho, desde o início da vigência do contrato e pelo período de 24 meses, e no caso de contrato de trabalho a termo, manter os postos de trabalho e a criação líquida de postos de trabalho, desde o início da vigência do contrato e pelo período da duração do mesmo;\n\ng) Manter o investimento afeto à respetiva atividade e na localização geográfica definida na operação nos três anos seguintes ao pedido de pagamento final;\n\nh) No caso dos apoios à criação de emprego previstos no n.º 2 do artigo 10.º, submeter informação dos dados físicos e financeiros requeridos pelo sistema de informação sempre que submeta pedidos de reembolso, com uma periodicidade mínima bimestral;\n\ni) No caso das operações previstas na alínea c) do artigo 6.º, manter os postos de trabalho desde a data de submissão da candidatura até à conclusão da operação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+  },
+  "165647468": {
+   "fragment_id": "114446891",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2021 - Diário da República n.º 122/2021, Série I de 2021-06-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2021-165797127), em vigor a partir de 2021-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+   ],
+   "markdown": "###### Artigo 9.º — Critérios de elegibilidade das operações\n\n1 - Constituem critérios gerais de elegibilidade das operações:\n\na) Estar enquadradas, tendo em conta as tipologias previstas em sede de regulamento, nos eixos prioritários e nas correspondentes prioridades de investimento dos Programas Operacionais a que se candidatam, bem como das estratégias de desenvolvimento das respetivas modalidades de intervenção;\n\nb) Integrar toda a informação exigida no âmbito da instrução do processo de candidatura, nos termos dos respetivos avisos, respeitando as condições e os prazos fixados;\n\nc) Estar em conformidade com as disposições legais, nacionais e europeias, incluindo as disposições regulamentares que lhes forem aplicáveis, nomeadamente as decorrentes dos diplomas que instituem as medidas de política pública em que se enquadram;\n\nd) Estar enquadradas num projeto de criação, expansão ou modernização de empresa que contribua para a diferenciação ou inovação da oferta de bens e serviços do território ou da empresa, tendo em consideração as especificidades do território e a dimensão da empresa e do investimento;\n\ne) Conduzir à criação líquida de emprego, com exceção das operações previstas no n.º 4 do presente artigo, em que é exigível a manutenção dos postos de trabalho.\n\n2 - Constituem critérios específicos, na componente do projeto associada às despesas elegíveis no n.º 1 do artigo 10.º, financiadas pelo FEDER:\n\na) Apresentar um investimento com um custo elegível que observe as seguintes condições:\n\ni) Até 100 mil euros, nas Intervenções GAL;\n\nii) Superior a 100 mil e até 235 mil euros, nas Intervenções CIM/AM;\n\nb) O período de investimento deve ter uma duração máxima de 18 meses, contado a partir da data da primeira despesa ou da criação do primeiro posto de trabalho, podendo o mesmo ser prorrogado por um período adicional de 6 meses, em casos devidamente justificados, ou por prazo superior quando se trate de força maior, nomeadamente, de facto natural ou situação imprevisível ou inevitável cujos efeitos se produzem independentemente da vontade ou circunstâncias próprias do beneficiário, desde que inequivocamente suportado por evidência documental e respeitadas as orientações de encerramento dos Portugal 2020 em matéria de prazos de execução dos projetos.\n\nc) Demonstrar que se encontram asseguradas as fontes de financiamento;\n\nd) Demonstrar a viabilidade económico-financeira.\n\n3 - Em casos devidamente justificados, os avisos de abertura de candidaturas podem fixar um custo elegível inferior ao identificado na subalínea ii) da alínea a) do n.º 2.\n\n4 - Aos projetos enquadráveis na alínea c) do artigo 6.º são exclusivamente aplicáveis os seguintes critérios de elegibilidade:\n\na) Os previstos nas alíneas a) a d), dos n.os 1 e 2 do presente artigo;\n\nb) Manter os postos de trabalho;\n\nc) Nos casos devidamente justificados, os avisos de abertura de candidatura, observando o limite máximo, podem fixar um limite diferente do identificado nas subalíneas i) e ii) da alínea a) do n.º 2 do presente artigo.\n\n5 - No âmbito das operações incluídas no número anterior são admitidas intervenções das AG, das CIM/AM ou GAL.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2021 - Diário da República n.º 122/2021, Série I de 2021-06-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2021-165797127), em vigor a partir de 2021-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/266-2020-148853504), em vigor a partir de 2020-11-19"
+  },
+  "165647469": {
+   "fragment_id": "134306004",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2021 - Diário da República n.º 122/2021, Série I de 2021-06-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2021-165797127), em vigor a partir de 2021-06-30",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São abrangidas pelas presentes disposições as operações que se encontrem em curso à data da determinação da suspensão das atividades financiadas pelo SI2E, pelas autoridades competentes, decorrente de declaração de estado de emergência, e que ainda não tenham concluído fisicamente as atividades nelas previstas, de acordo com o respetivo cronograma aprovado, e até à cessação dessa situação excecional, nos termos legalmente previstos.\n\n2 - São ainda abrangidas as operações concluídas, física e financeiramente, que se encontrem no período de verificação das condições previstas nos artigos 5.º e 6.º do presente anexo.\n\n3 - O presente regime é aplicável desde que as operações referidas nos números anteriores demonstrem haver um nexo de casualidade entre as condições que obstam à normal execução e a crise de saúde pública decorrente do surto de COVID-19.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2021 - Diário da República n.º 122/2021, Série I de 2021-06-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2021-165797127), em vigor a partir de 2021-06-30\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 122/2020 - Diário da República n.º 100/2020, Série I de 2020-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/122-2020-134305982), em vigor a partir de 2020-05-23, produz efeitos a partir de 2020-03-13"
+  }
+ }
+}

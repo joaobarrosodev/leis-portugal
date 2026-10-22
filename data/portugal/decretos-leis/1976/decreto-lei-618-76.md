@@ -1,0 +1,522 @@
+---
+schema_version: '1.0'
+id: pt:dre:430793:por
+title: Decreto-Lei n.º 618/76
+short_title: null
+summary: Esclarece dúvidas resultantes da aplicação do artigo 2.º do Decreto-Lei n.º 321/76, de 4 de Maio, e dá nova redacção
+  dos artigos 388.º e 389 º do Código de Processo Penal - Instrução em processo crime
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 618/76
+official_date: null
+publication_date: '1976-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/1976, Série I de 1976-07-27
+  number: '174'
+  series: I
+  supplement: null
+  pages: 1709 - 1711
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17400/17091711.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430793'
+  dre_path: /dr/detalhe/decreto-lei/618-1976-430793
+  internal: pt:dre:430793:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1976-430793
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1976-430793
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: f9a42491748739f7e2f89af7a16238904ef9ab639eea1556d694835a928ae489
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-618-430793.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 618/76
+
+de 27 de Julho
+
+1. O [Decreto-Lei n.º 321/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1976-287658), de 4 de Maio, procurou dar concretização legislativa à norma transitória contida no artigo 301.º, n.º 3, da Constituição da República Portuguesa, segundo a qual nas comarcas onde ainda não houver juízos de instrução criminal, e enquanto estes não forem criados, a instrução incumbirá ao Ministério Público, sob a direcção de um juiz.
+
+Julga-se necessário esclarecer algumas dúvidas suscitadas pelo artigo 2.º do mencionado diploma, especificando o juiz a cargo de quem ficará nesses casos a direcção da instrução preparatória; por outro lado, importa enunciar com mais detalhe os poderes contidos na direcção da instrução e estabelecer a necessária articulação dessa direcção com o próprio inquérito policial. Salienta-se, aliás, a transitoriedade do regime previsto para ambos os casos, dada a limitada competência que em matéria de instrução era reservada aos próprios juízos de instrução criminal.
+
+2. Aproveita-se igualmente esta ocasião para evitar alguns inconvenientes graves que se estavam verificando em resultado do sistema previsto na nova redacção dada aos artigos 387.º e 389.º do Código de Processo Penal pelo [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro. Reconhece-se, na realidade, que não é legítimo atribuir ao assistente o direito de impor a realização do julgamento com base exclusivamente num inquérito policial, sem que ao arguido seja dada a possibilidade de através da instrução contraditória ilidir a prova recolhida através do inquérito. Com efeito, no sistema actual, é vedada ao juiz a rejeição da acusação com fundamento na carência de prova indiciária.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. Compete aos juízos de instrução criminal, além das funções que actualmente lhes são atribuídas, a direcção da instrução preparatória.
+
+2. Nas comarcas onde não houver juízos de instrução criminal, e enquanto estes não forem criados, competem aos juízes indicados no mapa anexo as funções previstas no n.º 1 deste artigo, ficando sempre impedidos de intervir em julgamentos de processos em que tenham dirigido a instrução preparatória.
+
+3. O mapa referido no número anterior poderá, dentro dos pressupostos aí referidos, ser alterado por despacho do Ministro da Justiça, sob proposta do Conselho Superior Judiciário.
+
+4. A instrução preparatória será realizada, sob a direcção do juiz de instrução referido no n.º 1 ou no n.º 2, pelas entidades a quem competia, até 4 de Maio de 1976, a direcção da mesma.
+
+5. O disposto nos números anteriores não prejudica o estatuído nos artigos 1.º a 6.º do [Decreto-Lei n.º 605/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1975-312667), de 3 de Novembro.
+
+###### Art. 2.º Na direcção da instrução preparatória compete nomeadamente ao juiz:
+
+a) Presidir aos actos de instrução em que o arguido deva estar presente e aos restantes sempre que o julgue conveniente;
+
+b) Autorizar a realização de quaisquer diligências a efectuar pela entidade que realizar a instrução preparatória, mediante aprovação de um plano de instrução;
+
+c) Determinar a realização de quaisquer diligências ou proceder directamente a sua realização.
+
+###### Art. 3.º Os artigos 388.º e 389.º do Código de Processo Penal passam a ter a seguinte redacção:
+
+###### Art. 388.º - 1. Sempre que a acusação seja deduzida apenas pelo assistente, será o arguido notificado da acusação, podendo, no prazo de cinco dias, requerer a abertura da instrução contraditória ou o arquivamento do processo.
+
+2. No caso de o arguido requerer nos termos do número anterior a instrução contraditória, esta terá sempre lugar, sem prejuízo do n.º 2 do artigo 389.º, aplicando-se os correspondentes preceitos do [Decreto-Lei n.º 35007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35007-1945-468212), de 13 de Outubro de 1945, e deste Código.
+
+###### Art. 389.º - 1. Salvo se o arguido requerer a abertura da instrução contraditória nos termos do artigo anterior, a acusação só não será recebida quando o facto não for punível, se achar extinta a acção penal ou o arguido for inimputável. 2. Em qualquer caso o juiz conhecerá das nulidades, legitimidade, excepções ou quaisquer outras questões prévias que possam obstar à apreciação do mérito da causa e que desde logo possa apreciar.
+
+3. O despacho proferido pelo juiz ao abrigo dos números anteriores não é susceptível de recurso quando o processo prosseguir, podendo, porém, ser impugnado no recurso que venha a ser interposto da decisão final.
+
+###### Art. 4.º Ficam revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 321/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1976-287658), de 4 de Maio.
+
+###### Art. 5.º Este diploma entra em vigor na data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha.
+
+**Promulgado em 9 de Julho de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+Mapa anexo ao Decreto-Lei n.º 618/76
+
+Abrantes - o juiz de Tomar.
+
+Águeda - o juiz do 1.º Juízo de Aveiro.
+
+Albergaria-a-Velha - o juiz do 2.º Juízo de Aveiro.
+
+Albufeira - o juiz de Portimão.
+
+Alcácer do Sal - o juiz do 3.º Juízo de Setúbal.
+
+Alcobaça - o juiz da Marinha Grande.
+
+Alenquer - o juiz do 1.º Juízo de Vila Franca de Xira.
+
+Alijó - o juiz de Murça.
+
+Almada - os juízes do Barreiro e Seixal.
+
+Almeida - o juiz de Meda.
+
+Alvaiázere - o juiz de Ansião.
+
+Amarante - o juiz do 2.º Juízo de Guimarães
+
+Amares - o juiz da Póvoa de Lanhoso.
+
+Anadia - os juízes de Águeda e Vagos.
+
+Ansião - o juiz de Figueiró dos Vinhos.
+
+Arcos de Valdevez - o juiz de Melgaço.
+
+Arganil - o juiz de Santa Comba Dão.
+
+Armamar - o juiz de Lamego.
+
+Arouca - o juiz de Oliveira de Azeméis
+
+Arraiolos - o juiz de Montemor-o-Novo.
+
+Aveiro - os juízes de Estarreja e Abergaria-a-Velha.
+
+Baião - o juiz de Marco de Canaveses.
+
+Barcelos - os juízes de Esposende e Póvoa do Varzim.
+
+Barreiro - o juiz do 2.º Juízo de Almada.
+
+Beja - o juiz de Serpa.
+
+Benavente - o juiz do 2.º Juízo de Vila Franca de Xira.
+
+Boticas - o juiz de Chaves.
+
+Braga - os juízes de Vila Nova de Famalicão.
+
+Bragança -o juiz de Macedo de Cavaleiros.
+
+Cabeceiras de Basto - o juiz de Vila Pouca de Aguiar.
+
+Caldas da Rainha - o juiz da Lourinhã.
+
+Caminha - o juiz de Arcos de Valdevez.
+
+Cantanhede - o juiz da Figueira da Foz.
+
+Carrazeda de Ansiães - o juiz de Moncorvo.
+
+Cartaxo - o juiz do 1.º Juízo de Santarém.
+
+Cascais - os juízes de Oeiras.
+
+Castelo Branco - o juiz de Sertã.
+
+Castelo de Paiva - o juiz de Cinfães.
+
+Castelo de Vide - o juiz de Ponte de Sor.
+
+Castro Daire - o juiz do 1.º Juízo de Viseu.
+
+Celorico de Basto - o juiz de Fafe.
+
+Celorico da Beira - o juiz da Guarda.
+
+Chaves - o juiz de Vinhais.
+
+Cinfães - o juiz de Resende.
+
+Condeixa-a-Nova - o juiz da Lousã.
+
+Coruche - o juiz de Benavente.
+
+Covilhã - o juiz do Sabugal.
+
+Cuba - o juiz de Moura.
+
+Elvas - o juiz de Estremoz.
+
+Espinho - o juiz do 2.º Juízo de Vila Nova de Gaia.
+
+Esposende - o juiz do 1 º Juízo de Barcelos.
+
+Estarreja - o juiz de Ovar.
+
+Estremoz - o juiz de Fronteira.
+
+Évora - o juiz de Redondo.
+
+Fafe - o juiz do 1.º Juízo de Guimarães.
+
+Faro - o juiz de Tavira.
+
+Felgueiras - o juiz do 2.º Juízo de Guimarães.
+
+Ferreira do Alentejo - o juiz de Grândola.
+
+Ferreira do Zêzere - o juiz de Tomar.
+
+Figueira de Castelo Rodrigo - o juiz de Meda.
+
+Figueira da Foz - o juiz de Montemor-o-Velho.
+
+Figueiró dos Vinhos - o juiz da Sertã.
+
+Fronteira - o juiz de Vila Viçosa.
+
+Fundão - o juiz de Castelo Branco.
+
+Golegã - o juiz do 2.º Juízo de Santarém.
+
+Gouveia - o juiz de Oliveira do Hospital.
+
+Grândola - o juiz de Ferreira do Alentejo.
+
+Guarda - o juiz de Trancoso.
+
+Guimarães - os juízes de Amarante e Felgueiras.
+
+Idanha-a-Nova - o juiz do Fundão.
+
+Lagos - o juiz de Silves.
+
+Lamego - o juiz de Armamar.
+
+Leiria - os juízes de Alcobaça e Porto de Mós.
+
+Loulé - o juiz de Faro.
+
+Loures - os juízes de Sintra.
+
+Lourinhã - o juiz das Caldas da Rainha.
+
+Lousã - o juiz de Gouveia.
+
+Lousada - o juiz de Paços de Ferreira.
+
+Mação - o juiz de Nisa.
+
+Macedo de Cavaleiros - o juiz de Vimioso.
+
+Mafra - o juiz de Torres Vedras.
+
+Mangualde - juiz de Seia.
+
+Marco de Canaveses - o juiz de Castelo de Paiva.
+
+Marinha Grande - o juiz do 1.º Juízo de Leiria.
+
+Matosinhos - o juiz de Vila do Conde.
+
+Meda - o juiz de Figueira de Castelo Rodrigo.
+
+Melgaço - o juiz de Paredes de Coura.
+
+Mértola - o juiz de Ourique
+
+Miranda do Douro - o juiz de Mogadouro.
+
+Mirandela - o juiz de Murça.
+
+Mogadouro - o juiz de Miranda do Douro.
+
+Moimenta da Beira - o juiz de S. João da Pesqueira.
+
+Moita - o juiz do 2.º Juízo de Setúbal.
+
+Monção - o juiz de Paredes de Coura.
+
+Moncorvo - o juiz de Vila Flor.
+
+Montalegre - o juiz de Boticas.
+
+Montemor-o-Novo - o juiz de Arraiolos.
+
+Montemor-o-Velho - o juiz de Cantanhede.
+
+Montijo - o juiz do 1.º Juízo de Setúbal.
+
+Moura - o juiz de Cuba.
+
+Murça - o juiz de Alijó.
+
+Nisa - o juiz de Portalegre.
+
+Odemira - o juiz de Santiago do Cacém.
+
+Oeiras - os juízes de Cascais.
+
+Olhão - o juiz de Vila Real de Santo António.
+
+Oliveira de Azeméis - o juiz de Arouca.
+
+Oliveira de Frades - o juiz de Castro Daire.
+
+Oliveira do Hospital - o juiz de Santa Comba Dão.
+
+Ourique - o juiz de Mértola.
+
+Ovar - o juiz do 1.º Juízo de Vila da Feira.
+
+Paços de Ferreira - o juiz de Penafiel.
+
+Paredes - o juiz de Matosinhos.
+
+Paredes de Coura - o juiz de Valença.
+
+Penacova - o juiz de Tábua.
+
+Penafiel - o juiz de Paredes.
+
+Peso da Régua - o juiz de Moimenta da Beira.
+
+Pinhel - o juiz de Almeida.
+
+Pombal - o juiz de Soure.
+
+Ponte da Barca - o juiz de Viana do Castelo.
+
+Ponte de Lima - o juiz de Vila Verde. Ponte de Sor - o juiz de Abrantes.
+
+Portalegre - o juiz de Nisa.
+
+Portimão - o juiz de Albufeira.
+
+Porto de Mós - o juiz de Rio Maior.
+
+Póvoa de Lanhoso - o juiz de Celorico de Basto.
+
+Póvoa do Varzim - o juiz do 1.º Juízo de Barcelos.
+
+Redondo - o juiz de Reguengos de Monsaraz.
+
+Reguengos de Monsaraz - o juiz de Évora.
+
+Resende - o juiz de Tabuaço.
+
+Rio Maior - o juiz do Cartaxo.
+
+Sabugal - o juiz de Idanha-a-Nova.
+
+Santa Comba Dão - o juiz do 2.º Juízo de Viseu.
+
+Santarém - os juízes da Golegã e Torres Novas.
+
+Santiago do Cacém - o juiz de Odemira.
+
+Santo Tirso - o juiz de Lousada.
+
+S. João da Madeira - o juiz do 2.º Juízo de Vila da Feira.
+
+S. João da Pesqueira - o juiz de Vila Nova de Foz Côa.
+
+S. Pedro do Sul - o juiz de Oliveira de Frades.
+
+Sátão - o juiz de Mangualde.
+
+Seia - o juiz da Covilhã.
+
+Seixal - o juiz do 1.º Juízo de Almada.
+
+Serpa - o juiz de Beja.
+
+Sertã - o juiz de Alvaiázere.
+
+Setúbal - os juízes do Montijo e Moita.
+
+Silves - o juiz de Lagos.
+
+Sintra - os juízes de Loures.
+
+Soure - o juiz de Pombal.
+
+Tábua - o juiz do 1.º Juízo de Anadia.
+
+Tabuaço - o juiz de S. João da Pesqueira.
+
+Tavira - o juiz de Loulé.
+
+Tomar - o juiz de Ferreira do Zêzere.
+
+Tondela - o juiz de Vouzela.
+
+Torres Novas - o juiz de Vila Nova de Ourém
+
+Torres Vedras - o juiz de Mafra.
+
+Trancoso - o juiz de Pinhel.
+
+Vagos - o juiz do 2.º Juízo de Anadia.
+
+Valença - o juiz de Caminha.
+
+Valpaços - o juiz de Montalegre.
+
+Viana do Castelo - o juiz de Ponte da Barca.
+
+Vieira do Minho - o juiz de Amares.
+
+Vila do Conde - o juiz de Santo Tirso.
+
+Vila da Feira - os juízes de S. João da Madeira e Espinho.
+
+Vila flor - o juiz de Mirandela.
+
+Vila Franca de Xira - os juízes de Alenquer e Coruche.
+
+Vila Nova de Famalicão - os juízes de Braga.
+
+Vila Nova de Foz Côa - o juiz de Moncorvo.
+
+Vila Nova de Gaia - os juízes dos Juízos de Instrução Criminal do Porto
+
+Vila Nova de Ourém - o juiz do 2.º Juízo de Leiria.
+
+Vila Pouca de Aguiar - o juiz de Vila Real.
+
+Vila Real - o juiz de Peso da Régua.
+
+Vila Real de Santo António - o juiz de Olhão.
+
+Vila Verde - o juiz de Ponte de Lima.
+
+Vila Viçosa - o juiz de Elvas.
+
+Vimioso - o juiz de Bragança.
+
+Vinhais - o juiz de Valpaços.
+
+Viseu - os juízes de S. Pedro do Sul e Sátão.
+
+Vouzela - o juiz de Tondela.
+
+Açores
+
+Ilha de S. Miguel
+
+Ponta Delgada - o juiz de Vila Franca do Campo.
+
+Povoação o juiz da Ribeira Grande.
+
+Ribeira Grande - o juiz da Povoação.
+
+Vila Franca do Campo - o juiz de Ponta Delgada.
+
+Restantes ilhas
+
+Angra do Heroísmo, ilha Graciosa, ilha de Santa Maria, ilha de S. Jorge e Vila da Praia da Vitória - o primeiro substituto do juiz.
+
+Horta, ilha das Flores e ilha do Pico - o segundo substituto do juiz.
+
+Madeira
+
+Ponta do Sol - o juiz de Instrução Criminal do Funchal.
+
+Santa Cruz - idem.
+
+S. Vicente - idem.
+
+O Ministério da Justiça, João de Deus Pinheiro Farinha.

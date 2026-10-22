@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:342638:por
+title: Portaria n.º 992/2010
+short_title: null
+summary: Segunda alteração à Portaria n.º 203/2007, de 13 de Fevereiro, que regula o montante das taxas devidas pela emissão
+  ou substituição do cartão de cidadão, as situações em que os actos devem ser gratuitos e a taxa devida pela realização do
+  serviço externo, no âmbito do pedido de emissão ou substituição do cartão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 992/2010
+official_date: null
+publication_date: '2010-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/2010, Série I de 2010-09-29
+  number: '190'
+  series: I
+  supplement: null
+  pages: 4326 - 4327
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/09/19000/0432604327.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/992/2010/09/29/p/dre/pt/html
+  oj: null
+  dre: '342638'
+  dre_path: /dr/detalhe/portaria/992-2010-342638
+  internal: pt:dre:342638:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/992-2010-342638
+  metadata_url: https://data.dre.pt/eli/port/992/2010/09/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/992-2010-342638
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-09-29T00:00:00Z'
+integrity:
+  source_sha256: 38169386aaa4af9342a1052fd455684618e0e74e9c91ef6939d6ac5472d94fcd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-992-342638.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cartão de Cidadão
+- Pagamento
+- Identificação Civil
+- Taxa
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/203/2007/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/203/2007/02/13/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 992/2010
+
+de 29 de Setembro
+
+A [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, que criou o cartão de cidadão e rege a sua emissão e utilização, prevê que seja definido por portaria do membro do Governo responsável pela área da justiça o montante das taxas devidas pela emissão ou substituição do cartão de cidadão, as situações em que deve estar contemplada a redução ou a isenção dessas taxas e a taxa devida pela realização do serviço externo, no âmbito do pedido de emissão ou substituição do cartão.
+
+Nestes três primeiros anos de expansão do cartão de cidadãos mais 3,5 milhões de cidadãos passaram a ser portadores do novo documento de identificação nacional, estando a ser atingidos, em diversos planos, os objectivos que presidiram ao seu lançamento.
+
+Com efeito, os serviços on-line tiveram um incremento assinalável graças à introdução, expansão e utilização do cartão de cidadão. Por sua vez, as funcionalidades de identificação electrónica associadas ao cartão de cidadão são crescentemente utilizadas por serviços públicos e por entidades privadas, com claros ganhos de eficiência para os utilizadores, para o serviço público e para as empresas, que beneficiam de elevados níveis de segurança e confidencialidade. A Imprensa Nacional-Casa da Moeda tem vindo a cumprir com eficácia as obrigações que lhe foram confiadas, modernizando a bom ritmo a sua base tecnológica e apostando na inovação ao serviço da segurança dos documentos de identificação.
+
+Tendo evoluído o nível dos serviços prestados pelo cartão de cidadão não foram, contudo, tocados os montantes das taxas, que se mantiveram inalteradas.
+
+A estabilização do processo produtivo e o mais rigoroso apuramento, agora possível, dos custos de cada um dos elos do processo de produção, personalização, atendimento, distribuição e controlo de qualidade do cartão permitem base mais segura para fixar os valores a cobrar, actualizando-os, o que se faz pela presente portaria.
+
+Inova-se ao autorizar taxas reduzidas no quadro de campanhas de promoção do cartão de cidadão, tanto para incentivar a expansão do uso de assinaturas digitais como para acelerar a substituição de bilhetes de identidade vitalícios por cartões de cidadão, com vantagens para os cidadãos e para a segurança da identificação.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 34.º e no n.º 2 do artigo 63.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, o seguinte:
+
+###### Artigo 1.º — Alteração à Portaria n.º 203/2007
+
+São alterados os artigos 3.º, 4.º e 5.º da Portaria n.º 203/2007, de 13 de Fevereiro, que passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+Taxas de emissão ou substituição do cartão
+
+1 - Pela emissão ou substituição do cartão de cidadão são devidas as seguintes taxas:
+
+a) Pedido normal com entrega no território nacional ou no estrangeiro - (euro) 15;
+
+b) Pedido urgente - (euro) 30;
+
+c) Pedido urgente com entrega no estrangeiro - (euro) 45;
+
+d) Pedido urgente com entrega no próprio dia do pedido ou no prazo de um dia, com levantamento em balcão do IRN, I. P., em Lisboa - (euro) 35;
+
+e) Serviço de expedição para o estrangeiro - (euro) 5, a acrescer à taxa aplicável nos termos da alínea a).
+
+2 - ...
+
+3 - ...
+
+4 - Pedido autónomo de alteração de morada - (euro) 3.
+
+###### Artigo 4.º — Isenção e redução de taxas
+
+1 - Na primeira emissão do cartão de cidadão, em regime normal, até à idade prevista no n.º 1 do artigo 3.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, a taxa aplicável é reduzida em 50 %.
+
+2 - Com vista a incentivar a expansão do uso de assinaturas digitais, a taxa prevista na alínea a) do n.º 1 do artigo 3.º pode ser reduzida em 20 % no quadro de campanhas de promoção do cartão de cidadão envolvendo serviços públicos e entidades privadas, mediante protocolo a celebrar com o IRN, homologado pela tutela.
+
+3 - O regime previsto no número anterior é igualmente aplicável no quadro de campanhas de incentivo à substituição, em regime normal, de bilhetes de identidade vitalícios por cartões de cidadão.
+
+###### Artigo 5.º — Taxa de realização de serviço externo
+
+1 - Sem prejuízo do disposto na lei sobre os actos de identificação civil gratuitos, quando, no âmbito do pedido de emissão ou substituição do cartão de cidadão, for solicitada a realização de serviço externo, é devida uma taxa de (euro) 40, que acresce às taxas de emissão ou substituição do cartão.
+
+2 - ...»
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+**O Ministro da Justiça, Alberto de Sousa Martins, em 21 de Setembro de 2010.**

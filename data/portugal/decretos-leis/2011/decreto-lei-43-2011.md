@@ -1,0 +1,1496 @@
+---
+schema_version: '1.0'
+id: pt:dre:278880:por
+title: Decreto-Lei n.º 43/2011
+short_title: null
+summary: Estabelece a segurança dos brinquedos, transpondo a Directiva n.º 2009/48/CE, do Parlamento Europeu e do Conselho,
+  de 18 de Junho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 43/2011
+official_date: null
+publication_date: '2011-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2011, Série I de 2011-03-24
+  number: '59'
+  series: I
+  supplement: null
+  pages: 1643 - 1662
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05900/0164301662.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-12-05'
+version_history:
+  file: decreto-lei-43-2011.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-30'
+    amending: pt:dre:256987:por
+    amending_title: Decreto-Lei n.º 11/2013
+    changes:
+    - Altera Anexo II
+    - Altera Anexo III
+  - date: '2015-06-20'
+    amending: pt:dre:67485180:por
+    amending_title: Decreto-Lei n.º 104/2015
+    changes:
+    - Altera Artigo 38.º
+    - Altera Anexo II
+  - date: '2017-06-10'
+    amending: pt:dre:107495706:por
+    amending_title: Decreto-Lei n.º 59/2017
+    changes:
+    - Altera Anexo II
+  - date: '2017-11-09'
+    amending: pt:dre:114163923:por
+    amending_title: Decreto-Lei n.º 137/2017
+    changes:
+    - Altera Anexo II
+  - date: '2019-07-01'
+    amending: pt:dre:122242530:por
+    amending_title: Decreto-Lei n.º 59/2019
+    changes:
+    - Altera Anexo II
+  - date: '2021-07-01'
+    amending: pt:dre:165036158:por
+    amending_title: Decreto-Lei n.º 48/2021
+    changes:
+    - Altera Anexo II
+  - date: '2022-12-05'
+    amending: pt:dre:201699170:por
+    amending_title: Decreto-Lei n.º 66/2022
+    changes:
+    - Adita Artigo 40.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 43.º
+    - Revoga Anexo II
+    - Revoga Anexo III
+    - Revoga Anexo IV
+    - Revoga Anexo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/43/2011/p/cons/20220930/pt/html
+  oj: null
+  dre: '278880'
+  dre_path: /dr/detalhe/decreto-lei/43-2011-278880
+  internal: pt:dre:278880:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2011-278880
+  metadata_url: https://data.dre.pt/eli/dec-lei/43/2011/p/cons/20220930/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-67485266
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-67485266
+  retrieved_at: '2026-10-22T12:00:22Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3ac4bef3bee2883c9a58d28ab62158ddd46d7ea1f0824b05d9d3a5c074edf413
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:00:22Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-43-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Certificado de Conformidade
+- Multa
+- Contra-ordenação
+- Direcção Geral do Consumidor
+- Etiquetagem
+- Fiscalização
+- Indústria de Brinquedos
+- ASAE
+- Embalagem
+- Instituto Português da Qualidade
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Normas de Segurança
+- Proteção do Consumidor
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:256987:por
+  label: Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2013-256987
+  date: '2013-01-25'
+- type: amended_by
+  target: pt:dre:67485180:por
+  label: Altera Artigo 38.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2015-67485180
+  date: '2015-06-15'
+- type: amended_by
+  target: pt:dre:107495706:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2017-107495706
+  date: '2017-06-09'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:122242530:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2019-122242530
+  date: '2019-05-08'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:165036158:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2021-165036158
+  date: '2021-06-14'
+- type: amended_by
+  target: pt:dre:201699170:por
+  label: Adita Artigo 40.º-A; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo
+    14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo
+    24.º; Altera Artigo 27.º; Altera Artigo 43.º; Revoga Anexo II; Revoga Anexo III; Revoga Anexo IV; Revoga Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170
+  date: '2022-09-30'
+- type: cites
+  target: celex:31967L0548
+  label: null
+  source: http://data.europa.eu/eli/dir/1967/548/oj
+- type: cites
+  target: celex:31976L0768
+  label: null
+  source: http://data.europa.eu/eli/dir/1976/768/oj
+- type: cites
+  target: celex:31988L0378
+  label: null
+  source: http://data.europa.eu/eli/dir/1988/378/oj
+- type: cites
+  target: celex:31998L0034
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/34/oj
+- type: cites
+  target: celex:31999L0045
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/45/oj
+- type: cites
+  target: celex:32004R1935
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/1935/oj
+- type: cites
+  target: celex:32006R1970
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1970/oj
+- type: cites
+  target: celex:32008D0768
+  label: null
+  source: http://data.europa.eu/eli/dec/2008/768/oj
+- type: cites
+  target: celex:32008R0765
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/765/oj
+- type: cites
+  target: celex:32008R1272
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/1272/oj
+- type: cites
+  target: celex:32009L0048
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/48/oj
+article_structure:
+  article_count: 46
+  section_count: 19
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:00:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43/2011
+
+Decreto-Lei n.º 43/2011
+
+de 24 de Março
+
+O presente decreto-lei estabelece as regras de segurança dos brinquedos disponibilizados no mercado, e transpõe a Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, relativa à segurança dos brinquedos, que visa melhorar e actualizar as regras nesta matéria.
+
+Com o presente decreto-lei, alarga-se o âmbito de aplicação relativamente ao anterior Decreto-Lei n.º 237/92, de 27 de Outubro, que transpôs para a ordem jurídica nacional a Directiva n.º <a href="eurlex.asp?ano=1988&id=388L0378" title="Link para Directiva da Comunidade Europeia">88/378/CEE</a>, do Conselho, de 3 de Maio, e que procurou aproximar as legislações dos Estados membros respeitantes à segurança dos brinquedos, aprovada no contexto da realização do mercado interno, harmonizando os níveis de segurança dos brinquedos e suprimindo os entraves ao comércio de brinquedos entre os Estados membros.
+
+Passa a considerar-se que um brinquedo é qualquer produto concebido ou destinado, exclusivamente ou não, a ser utilizado para fins lúdicos por crianças, prevendo, ainda, diversas definições, de forma a facilitar a sua aplicação por parte dos operadores económicos responsáveis e da autoridade de fiscalização do mercado competente.
+
+Para além disso, tendo em vista a protecção da saúde e segurança dos consumidores menores de 14 anos, são fixados novos requisitos essenciais de segurança e actualizados outros, como as características mecânicas (choque, ruído, movimento, limites de velocidade e sufocação), eléctricas, químicas, designadamente substâncias classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução (CMR) e fragrâncias alergénicas.
+
+As crianças são, por natureza, consumidores particularmente vulneráveis, pelo que cumpre assegurar que os brinquedos que lhes são destinados obedecem a regras de segurança específicas.
+
+É igualmente reforçada a informação a disponibilizar aos consumidores através da rotulagem e da aposição de avisos específicos.
+
+Regulam-se, igualmente, os brinquedos que são vendidos em contacto com alimentos ou acompanhados por alimentos, prevendo a existência de um aviso que alerte para a necessidade de supervisão por um adulto e impõe-se para estes brinquedos a existência de uma embalagem separada.
+
+A experiência acumulada demonstrou que os princípios fundamentais da Directiva n.º <a href="eurlex.asp?ano=1988&id=388L0378" title="Link para Directiva da Comunidade Europeia">88/378/CEE</a>, do Conselho, de 3 de Maio, se revelaram eficazes no sector dos brinquedos, devendo ser conservados. No entanto, dos progressos tecnológicos no mercado dos brinquedos e da necessidade de clarificar o quadro aplicável à sua comercialização, resultou a necessidade de rever e melhorar determinados aspectos da Directiva n.º <a href="eurlex.asp?ano=1988&id=388L0378" title="Link para Directiva da Comunidade Europeia">88/378/CEE</a>, do Conselho, de 3 de Maio.
+
+Reforça-se, assim, a responsabilidade dos operadores económicos, determinando que os fabricantes devem realizar uma avaliação de segurança dos brinquedos e elaborar e disponibilizar à autoridade de fiscalização do mercado competente documentação técnica sobre os brinquedos. Visa-se assegurar, nomeadamente, a rastreabilidade destes produtos. Os importadores, por seu lado, devem verificar se o fabricante procedeu à respectiva avaliação da conformidade e, se necessário, realizar também ensaios a fim de garantir a segurança dos brinquedos importados. Prevê-se, ainda, que a documentação técnica deva ser guardada por um período não inferior a 10 anos.
+
+Harmoniza-se, igualmente, a legislação aplicável à segurança dos brinquedos, procedendo à revogação do Decreto-Lei n.º 237/92, de 27 de Outubro, do Decreto-Lei n.º 50/97, de 28 de Fevereiro, da Portaria n.º 104/96, de 6 de Abril, e do artigo 2.º do Decreto-Lei n.º 139/95, de 14 de Junho.
+
+Procede-se, também, à alteração ao Decreto-Lei n.º 291/2001, de 20 de Novembro, relativo à comercialização dos géneros alimentícios com brindes.
+
+Por fim, com o presente decreto-lei introduzem-se ainda as necessárias referências ao Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos, e ao Decreto-Lei n.º 23/2011, de 11 de Fevereiro, que dá execução na ordem jurídica nacional ao mesmo Regulamento.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece as regras de segurança dos brinquedos disponibilizados no mercado, e transpõe a Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, relativa à segurança dos brinquedos.
+
+2 - Consideram-se brinquedos disponibilizados no mercado toda a oferta de brinquedos para distribuição, consumo ou utilização no mercado comunitário, no âmbito de uma actividade comercial, a título oneroso ou gratuito.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei é aplicável a qualquer produto concebido ou destinado, exclusivamente ou não, a ser utilizado para fins lúdicos por crianças de idade inferior a 14 anos, adiante designado por brinquedo.
+
+2 - Os produtos enumerados no anexo i ao presente decreto-lei, do qual faz parte integrante, não são considerados brinquedos para os efeitos do presente decreto-lei.
+
+3 - O presente decreto-lei não se aplica aos seguintes brinquedos:
+
+a) Equipamento para espaços de jogo e recreio para crianças, destinado a utilização não doméstica;
+
+b) Máquinas de jogo e entretenimento automáticas destinadas a crianças, quer funcionem a moedas ou não, destinadas a utilização pública;
+
+c) Veículos de brinquedo equipados com motor de combustão;
+
+d) Brinquedos com máquinas a vapor;
+
+e) Fundas e fisgas.
+
+### Capítulo II — Deveres dos operadores económicos
+
+###### Artigo 3.º — Operadores económicos
+
+Para os efeitos do disposto no presente decreto-lei são considerados operadores económicos o fabricante, o mandatário, o importador e o distribuidor na acepção que lhes é dada pelo Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho.
+
+###### Artigo 4.º — Dever geral de cooperação dos operadores económicos
+
+1 - Os operadores económicos devem cooperar com a autoridade de fiscalização do mercado competente em qualquer acção de eliminação dos riscos decorrentes de brinquedos que tenham colocado ou disponibilizado no mercado, facultando-lhe igualmente, a pedido fundamentado desta autoridade, toda a informação e documentação necessárias à demonstração da conformidade dos brinquedos.
+
+2 - Para efeitos do presente decreto-lei, a Autoridade de Segurança Alimentar e Económica (ASAE) é a autoridade de fiscalização do mercado competente para assegurar que os brinquedos cumprem os requisitos aplicáveis estabelecidos na legislação comunitária de harmonização e que não apresentam um perigo para a saúde, segurança ou outra vertente da protecção do interesse público.
+
+###### Artigo 5.º — Deveres gerais dos fabricantes
+
+1 - Os fabricantes devem assegurar que os brinquedos que colocam no mercado foram projetados e fabricados em conformidade com os requisitos enunciados no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, considerando-se «colocação no mercado» a primeira disponibilização de um brinquedo no mercado comunitário.
+
+2 - Os fabricantes devem:
+
+a) Possuir a documentação técnica exigida nos termos do artigo 24.º;
+
+b) Efectuar ou mandar efectuar o procedimento de avaliação da conformidade aplicável, através do qual se demonstra o cumprimento dos requisitos específicos aplicáveis a um brinquedo, de acordo com o artigo 22.º
+
+3 - Sempre que seja demonstrada a conformidade do brinquedo com os requisitos aplicáveis, através do procedimento de avaliação da conformidade, os fabricantes devem emitir a declaração «CE» de conformidade, a que se refere o artigo 18.º e apor a marcação «CE», nos termos previstos nos n.os 1 a 4 do artigo 20.º
+
+4 - A marcação «CE» referida no número anterior consiste na marcação através da qual o fabricante evidencia que o brinquedo cumpre todos os requisitos aplicáveis à respectiva colocação no mercado, previstos na legislação comunitária de harmonização que prevê a sua aposição.
+
+5 - Os fabricantes devem conservar a documentação técnica e a declaração «CE» de conformidade durante um prazo não inferior a 10 anos, a contar da data de colocação do brinquedo no mercado.
+
+6 - Os fabricantes devem assegurar a existência de procedimentos para manter a conformidade das produções em série, devendo ser tidas em conta:
+
+a) As alterações efectuadas no projecto ou nas características do brinquedo;
+
+b) As alterações nas normas aprovadas por um dos organismos europeus de normalização constantes do anexo i da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0034" title="Link para Directiva da Comunidade Europeia">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, adiante designadas por normas harmonizadas, com base em pedido apresentado pela Comissão Europeia, nos termos do artigo 6.º da mesma directiva, que constituíram a referência para a comprovação da conformidade de um brinquedo.
+
+7 - Sempre que se considere apropriado em função da existência de indícios reveladores da ocorrência de um perigo que o brinquedo representa e que possa provocar danos, tais como lesões corporais ou quaisquer outros efeitos nocivos para a saúde, incluindo efeitos a longo prazo para a saúde, os fabricantes devem:
+
+a) Realizar ensaios por amostragem dos brinquedos comercializados;
+
+b) Investigar e conservar um registo de reclamações, de brinquedos não conformes e de brinquedos recolhidos, sem prejuízo de outras obrigações legais em matéria de reclamações;
+
+c) Informar os distribuidores das acções de controlo efectuadas.
+
+8 - Os fabricantes devem assegurar que os seus brinquedos indicam o tipo, o número do lote, da série ou do modelo, ou outro elemento que permita a respectiva identificação, ou, se as dimensões ou a natureza do brinquedo não o permitirem, que a informação exigida conste da embalagem ou de um documento que acompanhe o brinquedo.
+
+9 - Os fabricantes devem indicar o seu nome, nome comercial registado ou marca registada e um único endereço físico de contacto no brinquedo, ou, se tal não for possível, na embalagem ou num documento que acompanhe o brinquedo.
+
+10 - Os fabricantes devem assegurar que o brinquedo é acompanhado de instruções e informações de segurança, em língua portuguesa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 6.º — Deveres de colaboração e de informação dos fabricantes
+
+1 - Os fabricantes que considerem, ou devam saber, com base nas informações de que dispõem e enquanto profissionais, que determinado brinquedo que colocaram no mercado não está em conformidade com a legislação aplicável destinada a harmonizar as condições de comercialização dos produtos a nível comunitário, adiante designada por legislação comunitária de harmonização, devem:
+
+a) Tomar imediatamente as medidas correctivas necessárias para assegurar a conformidade do brinquedo ou proceder à respectiva retirada, por forma a impedir a disponibilização no mercado de um brinquedo no circuito comercial, ou proceder à sua recolha para obter o retorno de um brinquedo que já tenha sido disponibilizado ao consumidor;
+
+b) Se o brinquedo representar um risco, informar imediatamente deste facto as autoridades nacionais competentes dos Estados membros em que disponibilizaram o brinquedo, fornecendo-lhes informações, sobretudo no que se refere à não conformidade e às medidas correctivas aplicadas.
+
+2 - Mediante pedido fundamentado da ASAE, os fabricantes devem facultar-lhe toda a informação e documentação necessárias, em língua facilmente compreendida por essa autoridade, para demonstrar a conformidade do brinquedo.
+
+###### Artigo 7.º — Mandatários
+
+1 - Os fabricantes podem designar por escrito um mandatário.
+
+2 - Não fazem parte do mandato os deveres previstos no n.º 1 do artigo 5.º e a elaboração da documentação técnica.
+
+3 - O mandatário deve praticar os actos definidos no mandato conferido pelo fabricante.
+
+4 - O mandato deve, no mínimo, permitir ao mandatário:
+
+a) Manter à disposição da ASAE a declaração «CE» de conformidade e a documentação técnica, pelo prazo de 10 anos, após a colocação do brinquedo no mercado;
+
+b) Mediante pedido fundamentado da ASAE, facultar-lhe toda a informação e documentação necessárias para demonstrar a conformidade do brinquedo;
+
+c) Cooperar com a ASAE, a pedido desta, no que se refere a qualquer acção empreendida para eliminar os riscos decorrentes de brinquedos abrangidos pelo mandato.
+
+###### Artigo 8.º — Deveres gerais dos importadores
+
+1 - Os importadores apenas podem colocar no mercado brinquedos conformes, de acordo com o disposto no artigo 13.º
+
+2 - Antes de colocarem um brinquedo no mercado, os importadores devem assegurar que o fabricante aplicou o procedimento de avaliação da conformidade adequado, verificando que:
+
+a) O fabricante elaborou a documentação técnica;
+
+b) O brinquedo ostenta a marcação de conformidade exigida;
+
+c) O brinquedo vem acompanhado dos necessários documentos;
+
+d) O fabricante respeitou os requisitos previstos nos n.os 8 e 9 do artigo 5.º
+
+3 - Sempre que o importador considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que um brinquedo não está conforme com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, o importador não pode colocar o brinquedo no mercado até que este seja posto em conformidade.
+
+4 - Se o brinquedo representar um risco o importador deve informar o fabricante e a ASAE.
+
+5 - Os importadores devem indicar o seu nome, o nome comercial registado ou marca registada e um único endereço físico de contacto no brinquedo, ou, se tal não for possível, na embalagem ou num documento que acompanhe o brinquedo.
+
+6 - Os importadores devem assegurar que o brinquedo é acompanhado de instruções e informações de segurança, em língua portuguesa.
+
+7 - Enquanto um brinquedo estiver sob a responsabilidade do importador, este deve assegurar que as condições de armazenamento ou transporte não prejudicam a conformidade do brinquedo com os requisitos enunciados no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+
+8 - Sempre que se considere apropriado em função do risco que o brinquedo representa, os importadores devem:
+
+a) Realizar ensaios por amostragem dos brinquedos comercializados;
+
+b) Investigar e, se necessário, conservar um registo de reclamações de brinquedos não conformes e de brinquedos objecto de recolha;
+
+c) Informar os distribuidores destas acções de controlo.
+
+9 - Os importadores que considerem, ou devam saber, com base nas informações de que dispõem e enquanto profissional, que determinado brinquedo que colocaram no mercado não está em conformidade com a legislação comunitária de harmonização aplicável, devem tomar imediatamente as medidas correctivas necessárias para assegurar a conformidade do brinquedo ou para proceder à respectiva retirada ou recolha, se for esse o caso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 9.º — Dever de colaboração e informação dos importadores
+
+1 - Sempre que o brinquedo representar um risco, os importadores devem informar imediatamente desse facto as autoridades nacionais competentes, fornecendo-lhes informações, sobretudo no que se refere à não conformidade e às medidas correctivas aplicadas.
+
+2 - Os importadores devem, no prazo de 10 anos após a colocação do brinquedo no mercado, manter um exemplar da declaração «CE» de conformidade à disposição da ASAE e devem assegurar que a documentação técnica pode ser facultada a essa autoridade, quando tal for solicitado.
+
+3 - Mediante pedido fundamentado da ASAE, os importadores devem facultar-lhe toda a informação e documentação necessárias, numa língua facilmente compreendida por essa autoridade, para demonstrar a conformidade do brinquedo.
+
+###### Artigo 10.º — Deveres dos distribuidores
+
+1 - Quando os distribuidores colocam um brinquedo no mercado devem agir com a devida diligência em relação aos requisitos aplicáveis.
+
+2 - Os distribuidores antes de disponibilizarem um brinquedo no mercado devem, cumulativamente, verificar:
+
+a) Se o brinquedo ostenta a marcação de conformidade exigida;
+
+b) Se vem acompanhado dos necessários documentos e das instruções e informações de segurança, em língua portuguesa;
+
+c) Se o fabricante e o importador observaram os requisitos previstos nos n.os 8 e 9 do artigo 5.º e no n.º 5 do artigo 8.º
+
+3 - Sempre que o distribuidor considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que um brinquedo não está conforme com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, não pode disponibilizar o brinquedo no mercado até que este seja posto em conformidade.
+
+4 - Se o brinquedo representar um risco, o distribuidor deve informar desse facto o fabricante ou o importador, bem como a ASAE, fornecendo-lhes informações, sobretudo no que se refere à não conformidade e às medidas correctivas aplicadas.
+
+5 - Enquanto um brinquedo estiver sob a responsabilidade do distribuidor, este deve garantir que as condições de armazenamento ou transporte não prejudicam a conformidade do brinquedo com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+
+6 - O distribuidor que considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que determinado brinquedo que disponibilizou no mercado não está em conformidade com a legislação comunitária de harmonização aplicável, deve assegurar que são tomadas as medidas correctivas necessárias para assegurar a conformidade do brinquedo ou para proceder à respectiva retirada ou recolha, se for esse o caso.
+
+7 - Mediante pedido fundamentado da ASAE, os distribuidores devem facultar-lhe toda a informação e a documentação necessárias para demonstrar a conformidade do brinquedo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 11.º — Deveres dos importadores e dos distribuidores
+
+Os importadores ou distribuidores são considerados fabricantes, para efeitos do presente decreto-lei, sempre que coloquem no mercado um brinquedo, em seu nome ou ao abrigo de uma marca sua, ou alterem um brinquedo já colocado no mercado de tal modo que a conformidade com os requisitos aplicáveis possa ser afectada, ficando sujeitos aos mesmos deveres que estes nos termos dos artigos 5.º e 6.º
+
+###### Artigo 12.º — Obrigação de identificação dos operadores económicos
+
+1 - A pedido da ASAE, os operadores económicos devem identificar:
+
+a) O operador económico que lhes forneceu determinado brinquedo;
+
+b) O operador económico a quem forneceram determinado brinquedo.
+
+2 - Os operadores económicos devem estar em condições de apresentar as informações referidas no número anterior, no prazo de 10 anos após a colocação do brinquedo no mercado, no caso do fabricante, e durante o prazo de 10 anos após o brinquedo lhes ter sido fornecido, no caso dos restantes operadores económicos.
+
+### Capítulo III — Conformidade dos brinquedos
+
+###### Artigo 13.º — Requisitos essenciais de segurança
+
+1 - Os brinquedos colocados no mercado devem cumprir, durante o período da sua utilização previsível e normal:
+
+a) Os requisitos essenciais de segurança previstos nos n.os 2, 3 e 4, no que diz respeito ao requisito geral de segurança;
+
+b) Os requisitos específicos de segurança previstos no anexo I à portaria a que se refere o artigo 40.º-A.
+
+2 - Os brinquedos, incluindo as substâncias químicas que estes contêm, não podem pôr em perigo a saúde e a segurança dos utilizadores ou de terceiros, quando forem utilizados para o fim a que se destinam ou quando deles for feita uma utilização previsível, tendo em conta o comportamento das crianças.
+
+3 - A capacidade dos utilizadores e, quando especificado, dos respectivos supervisores, deve ser tida em conta, especialmente no caso de brinquedos que se destinam a crianças com menos de 36 meses ou a outros grupos etários específicos.
+
+4 - Os rótulos apostos em conformidade com o artigo 15.º, bem como as instruções de utilização que acompanham os brinquedos, devem chamar a atenção dos utilizadores ou dos respectivos supervisores para os perigos e os riscos de danos inerentes à sua utilização e para os meios de os evitar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 14.º — Avisos
+
+1 - Com vista a uma utilização segura dos brinquedos, os avisos, formulados para efeitos dos n.os 2, 3 e 4 do artigo anterior, devem distinguir as limitações específicas aplicáveis aos utilizadores a que efetivamente se destinam, em conformidade com a parte a do anexo II à portaria a que se refere o artigo 40.º-A.
+
+2 - No que diz respeito às categorias de brinquedos enumeradas na parte b do anexo II à portaria a que se refere o artigo 40.º-A, são utilizados os avisos que aí se especificam.
+
+3 - Os avisos constantes dos n.os 2 a 10 do anexo II à portaria a que se refere o artigo 40.º-A são utilizados com a redação aí prevista.
+
+4 - Os brinquedos não podem ser acompanhados de um ou mais do que um dos avisos específicos enumerados na parte b do anexo II à portaria a que se refere o artigo 40.º-A, se estes contrariarem a utilização a que os brinquedos se destinam, em virtude das suas funções, dimensões e características.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 15.º — Afixação dos avisos
+
+1 - O fabricante deve apor os avisos de modo bem visível e facilmente legível, compreensível e preciso no brinquedo, num rótulo nele aposto ou na embalagem e, se for caso disso, nas instruções de utilização que o acompanham.
+
+2 - Devem, também, ser apostos avisos adequados nos brinquedos de pequenas dimensões vendidos sem embalagem.
+
+3 - Os avisos devem ser precedidos do termo «Atenção» ou «Avisos».
+
+4 - Os avisos que determinem a decisão de compra, como os que especifiquem as idades mínimas e máximas dos utilizadores, e os restantes avisos aplicáveis referidos no anexo II à portaria a que se refere o artigo 40.º-A, devem ser afixados na embalagem ou ser bem visíveis para que o consumidor possa lê-los antes da compra.
+
+5 - O previsto no número anterior aplica-se, também, quando a compra é efectuada através da Internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 16.º — Utilização da língua portuguesa
+
+Todos os avisos, menções e instruções são obrigatoriamente redigidos em língua portuguesa.
+
+###### Artigo 17.º — Presunção da conformidade
+
+Presume-se que os brinquedos que estão em conformidade com as normas harmonizadas ou partes destas, cujas referências tenham sido publicadas no Jornal Oficial da União Europeia, estão conformes com os requisitos abrangidos pelas referidas normas ou partes destas, estabelecidos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 18.º — Declaração «CE» de conformidade
+
+1 - A declaração «CE» de conformidade indica que foi demonstrado o cumprimento dos requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+
+2 - A declaração «CE» de conformidade deve conter, no mínimo:
+
+a) Os elementos especificados no anexo III à portaria a que se refere o artigo 40.º-A;
+
+b) Os módulos aplicáveis fixados no anexo ii da Decisão n.º <a href="eurlex.asp?ano=2008&id=308D0768" title="Link para Decisão da Comunidade Europeia">768/2008/CE</a>, do Parlamento e do Conselho, de 9 de Julho.
+
+3 - A declaração «CE» deve ser permanentemente atualizada, ser redigida ou traduzida para língua portuguesa e respeitar o modelo que consta do anexo III à portaria a que se refere o artigo 40.º-A.
+
+4 - Ao elaborar a declaração «CE» de conformidade, o fabricante assume a responsabilidade pela conformidade do brinquedo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 19.º — Princípios gerais da marcação «CE»
+
+1 - Os brinquedos disponibilizados no mercado devem ostentar a marcação «CE».
+
+2 - À marcação «CE» aplicam-se:
+
+a) Os princípios gerais enunciados no artigo 30.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho;
+
+b) O grafismo estabelecido no anexo ii do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho.
+
+3 - Presume-se que os brinquedos que tenham aposta a marcação «CE» cumprem o disposto no presente decreto-lei.
+
+4 - Os brinquedos sem marcação «CE» ou que não cumpram o disposto no presente decreto-lei, podem apenas ser apresentados e usados em feiras e exposições de carácter comercial, desde que sejam acompanhados por uma advertência indicando claramente que não satisfazem os requisitos do presente decreto-lei e que não são comercializados até serem postos em conformidade.
+
+###### Artigo 20.º — Regras e condições de aposição da marcação «CE»
+
+1 - A marcação «CE» deve ser aposta de modo visível, legível e indelével no brinquedo, num rótulo nele aposto ou na embalagem.
+
+2 - Quando o brinquedo possua uma embalagem que, pelas suas características, não permita visualizar a marcação «CE» aposta no brinquedo, tal marcação deve ser aposta, pelo menos, na respectiva embalagem.
+
+3 - No caso dos brinquedos de pequenas dimensões e dos brinquedos compostos por pequenos elementos, a marcação «CE» pode ser aposta num rótulo ou folheto de instruções que os acompanhe.
+
+4 - No caso de brinquedos vendidos em expositores de balcão, se o previsto no número anterior não for tecnicamente possível e se o expositor tiver sido originalmente utilizado como embalagem para os brinquedos, a marcação «CE» pode ser afixada no referido expositor.
+
+5 - A marcação «CE» deve ser aposta antes de o brinquedo ser colocado no mercado, podendo ser acompanhada de um pictograma ou de qualquer outra indicação referente a um risco ou utilização especiais.
+
+### Capítulo IV — Avaliação da conformidade
+
+###### Artigo 21.º — Avaliação da segurança
+
+Antes da colocação de um brinquedo no mercado, os fabricantes estão obrigados a proceder a uma análise dos perigos de natureza química, física, mecânica e eléctrica, bem como de inflamabilidade, higiene e radioactividade, que o brinquedo possa representar, apresentando uma avaliação da eventual exposição aos mesmos.
+
+###### Artigo 22.º — Procedimentos de avaliação da conformidade aplicáveis
+
+1 - Antes da colocação de um brinquedo no mercado, os fabricantes aplicam os procedimentos de avaliação da conformidade previstos nos n.os 2 e 3, a fim de demonstrar que os brinquedos satisfazem os requisitos essenciais de segurança previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+
+2 - Caso tenha aplicado normas harmonizadas, cujos números de referência tenham sido publicados no Jornal Oficial da União Europeia, que prevejam todos os requisitos de segurança aplicáveis ao brinquedo, o fabricante deve recorrer ao procedimento de controlo interno da produção, que figura no módulo A do anexo ii da Decisão n.º <a href="eurlex.asp?ano=2008&id=308D0768" title="Link para Decisão da Comunidade Europeia">768/2008/CE</a>, do Parlamento e do Conselho, de 9 de Julho.
+
+3 - O brinquedo deve ser objecto do exame «CE» de tipo a que se refere o artigo 23.º, em conjugação com o procedimento de conformidade com o tipo constante do módulo C do anexo ii da Decisão n.º <a href="eurlex.asp?ano=2008&id=308D0768" title="Link para Decisão da Comunidade Europeia">768/2008/CE</a>, do Parlamento e do Conselho, de 9 de Julho, quando:
+
+a) Não existam normas harmonizadas, cujos números de referência tenham sido publicados no Jornal Oficial da União Europeia, que prevejam todos os requisitos de segurança aplicáveis ao brinquedo;
+
+b) As normas harmonizadas referidas na alínea anterior existam, mas o fabricante não as tenha aplicado ou apenas as tenha aplicado parcialmente;
+
+c) Todas ou algumas das normas harmonizadas referidas na alínea a) tenham sido publicadas com restrições;
+
+d) O fabricante considerar que a natureza, o projecto, a construção ou a finalidade do brinquedo necessitam de verificação por terceiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 23.º — Exame «CE» de tipo
+
+1 - O pedido de exame «CE» de tipo, a respectiva realização e emissão do certificado devem obedecer aos procedimentos previstos no módulo B do anexo ii da Decisão n.º <a href="eurlex.asp?ano=2008&id=308D0768" title="Link para Decisão da Comunidade Europeia">768/2008/CE</a>, do Parlamento e do Conselho, de 9 de Julho.
+
+2 - O exame «CE» de tipo deve ser realizado nos moldes previstos no segundo travessão do n.º 2 do módulo B do anexo referido no número anterior, aplicando-se também os requisitos previstos nos n.os 3 a 9 do presente artigo.
+
+3 - O pedido de exame «CE» de tipo deve incluir uma descrição do brinquedo, bem como o local e endereço de fabrico dos brinquedos.
+
+4 - Sempre que o organismo que efectua actividades de avaliação da conformidade, nomeadamente de calibração, ensaio, certificação e inspecção, designado por organismo de avaliação da conformidade, notificado ao abrigo do artigo 25.º, efectuar um exame «CE» de tipo, deve avaliar, se necessário, em conjunto com o fabricante, a análise dos eventuais perigos do brinquedo realizada por este último em conformidade com o artigo 21.º
+
+5 - O certificado de exame «CE» de tipo deve incluir:
+
+a) Uma referência à Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, relativa à segurança dos brinquedos;
+
+b) Uma reprodução a cores do brinquedo;
+
+c) Uma descrição clara do brinquedo, com indicação das respectivas dimensões;
+
+d) Uma lista dos ensaios realizados, acompanhados de uma referência ao respectivo relatório de ensaio.
+
+6 - O certificado de exame «CE» de tipo deve ser revisto sempre que necessário, sobretudo em caso de alteração do processo de fabrico, das matérias-primas ou dos componentes do brinquedo, e, sistematicamente, de cinco em cinco anos.
+
+7 - O certificado de exame «CE» de tipo deve ser retirado se o brinquedo não cumprir os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+
+8 - Os organismos notificados não podem conceder certificados de exame «CE» de tipo a brinquedos relativamente aos quais se tenha recusado ou retirado um certificado.
+
+9 - A documentação técnica e a correspondência relativas ao procedimento de exame «CE» de tipo devem ser redigidos em língua portuguesa ou numa língua aceite pelo organismo notificado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 24.º — Documentação técnica do brinquedo
+
+1 - A documentação técnica a que se refere o n.º 2 do artigo 5.º deve conter todos os dados ou informações detalhadas relevantes sobre os meios utilizados pelo fabricante para assegurar a conformidade dos brinquedos com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, devendo conter, em especial, os documentos enumerados no anexo IV à portaria a que se refere o artigo 40.º-A.
+
+2 - A documentação técnica é redigida numa das línguas oficiais da União Europeia, sob reserva do disposto no n.º 9 do artigo anterior.
+
+3 - Mediante pedido fundamentado da ASAE, o fabricante deve facultar uma tradução dos elementos relevantes da documentação técnica para a língua portuguesa.
+
+4 - Sempre que solicitar a um fabricante a documentação técnica ou a tradução de elementos dessa documentação, a ASAE fixa um prazo de 30 dias para o efeito, salvo se a existência de um risco grave e imediato justificar a fixação de prazo mais curto.
+
+5 - Em caso de incumprimento pelo fabricante das obrigações previstas nos números anteriores, ou por outro operador económico indicado no artigo 3.º, a ASAE pode exigir-lhe que mande efectuar um ensaio a um organismo notificado, por sua conta e em determinado prazo, para verificar a conformidade com as normas harmonizadas e com os requisitos essenciais de segurança.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+### Capítulo V — Notificação dos organismos de avaliação da conformidade
+
+###### Artigo 25.º — Notificação
+
+1 - Compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), autoridade notificadora para os efeitos do presente decreto-lei, notificar a Comissão Europeia e os outros Estados membros dos organismos autorizados a efectuar as actividades de avaliação de conformidade, previstas no artigo 23.º
+
+2 - O IPQ, I. P., apenas pode notificar os organismos de avaliação da conformidade que cumpram os requisitos previstos no anexo vi ao presente decreto-lei, do qual faz parte integrante.
+
+3 - A notificação deve incluir os dados pormenorizados das actividades de avaliação da conformidade, dos módulos de avaliação da conformidade e dos brinquedos em causa, bem como a certificação de competência relevante.
+
+4 - O IPQ, I. P., informa a Comissão Europeia e os outros Estados membros dos organismos de avaliação da conformidade através do instrumento de notificação electrónica desenvolvido e gerido pela Comissão Europeia.
+
+5 - O IPQ, I. P., comunica à Comissão Europeia e aos outros Estados membros quaisquer alterações relevantes subsequentemente introduzidas na notificação.
+
+###### Artigo 26.º — Organismos notificados
+
+1 - Para efeitos de notificação, os organismos de avaliação da conformidade são previamente acreditados pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), nas modalidades correspondentes às actividades de avaliação da conformidade pretendidas.
+
+2 - Presume-se que os organismos de avaliação da conformidade acreditados cumprem os requisitos enumerados no anexo vi ao presente decreto-lei.
+
+3 - Para efeitos de retirada pelo IPQ, I. P., da notificação de um organismo de avaliação da conformidade prevista no n.º 1, o IPAC, I. P., informa aquele organismo das medidas por si adoptadas ao abrigo do n.º 4 do artigo 5.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho.
+
+4 - O IPQ, I. P., mantém a Comissão Europeia e os Estados membros permanentemente informados dos organismos notificados, bem como das tarefas específicas para as quais esses organismos tenham sido designados e ainda dos números de identificação previamente atribuídos pela Comissão Europeia.
+
+### Capítulo VI — Obrigações e poderes das entidades competentes
+
+###### Artigo 27.º — Instruções destinadas ao organismo notificado
+
+1 - A ASAE pode solicitar a um organismo notificado que faculte informações sobre:
+
+a) Qualquer certificado de exame «CE» de tipo que este tenha emitido ou retirado;
+
+b) Qualquer recusa de emissão de um certificado, incluindo os relatórios de ensaio e a documentação técnica.
+
+2 - Sempre que verifique que um brinquedo não está em conformidade com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, a ASAE pode dar instruções ao organismo notificado para este retirar o certificado de exame «CE» de tipo relativo ao brinquedo em questão.
+
+3 - Sempre que necessário, designadamente nos casos previstos no n.º 6 do artigo 23.º, a ASAE dá instruções ao organismo notificado no sentido de rever o certificado de exame «CE» de tipo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 28.º — Procedimento aplicável aos brinquedos que apresentam um risco a nível nacional
+
+1 - A ASAE deve proceder a uma avaliação do brinquedo em causa, que abranja os requisitos previstos no presente decreto-lei, sempre que:
+
+a) Tenha agido ao abrigo do artigo 20.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho;
+
+b) Existam motivos suficientes para considerar que um brinquedo abrangido pelo presente decreto-lei apresenta um risco para a saúde ou segurança das pessoas.
+
+2 - Os operadores económicos envolvidos devem cooperar, na medida do necessário, com a ASAE, em qualquer das situações previstas no número anterior.
+
+3 - Sempre que, no decurso dessa avaliação, a ASAE verifique que o brinquedo não cumpre os requisitos previstos no presente decreto-lei, deve exigir imediatamente ao operador económico em causa que, em alternativa:
+
+a) Tome as medidas correctivas adequadas para assegurar a conformidade do brinquedo com esses requisitos;
+
+b) O retire ou recolha do mercado num prazo razoável e proporcional à natureza do risco, aplicando-se o artigo 21.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho.
+
+4 - A ASAE deve informar o organismo notificado competente da sua actuação no âmbito do número anterior.
+
+###### Artigo 29.º — Procedimento comunitário relativo aos brinquedos que apresentam riscos
+
+1 - Sempre que a ASAE considerar que a não conformidade não se limita ao território nacional, deve comunicar os resultados da avaliação e as medidas impostas ao operador económico, à Comissão Europeia e aos outros Estados membros.
+
+2 - O operador económico em questão deve assegurar a aplicação de todas as medidas correctivas adequadas, relativamente aos brinquedos por ele disponibilizados no mercado comunitário.
+
+3 - Sempre que o operador económico em causa não adoptar as medidas correctivas adequadas no prazo que lhe for concedido nos termos da alínea b) do n.º 3 do artigo anterior a ASAE deve informar a Comissão Europeia e os outros Estados membros das medidas provisórias adequadas para:
+
+a) Proibir ou restringir a disponibilização do brinquedo no respectivo mercado;
+
+b) Retirar ou recolher o brinquedo.
+
+4 - A informação referida no número anterior deve conter todos os pormenores disponíveis e em especial os seguintes dados:
+
+a) Identificação do brinquedo não conforme;
+
+b) Origem do brinquedo não conforme;
+
+c) Natureza da alegada não conformidade e do risco conexo;
+
+d) Natureza e duração das medidas nacionais tomadas;
+
+e) Observações do operador económico em causa.
+
+5 - A ASAE deve, nomeadamente, indicar se a não conformidade se deve:
+
+a) Ao incumprimento pelo brinquedo dos requisitos de saúde ou segurança das pessoas;
+
+b) A deficiências das normas harmonizadas que, nos termos do artigo 17.º, conferem a presunção da conformidade.
+
+6 - Se, no prazo de três meses a contar da recepção da informação referida no n.º 3, nem os Estados membros nem a Comissão Europeia tiverem levantado objecções à medida provisória tomada pela ASAE em relação ao brinquedo em causa, considera-se que essa medida é justificada.
+
+7 - As medidas restritivas tomadas em relação a um brinquedo, tais como a sua retirada do mercado são de aplicação imediata.
+
+8 - Se, no termo do procedimento previsto nos n.os 2 e 3, forem levantadas objecções à medida de um Estado membro na sequência da actuação da Comissão Europeia, pode a medida adoptada pela ASAE ser considerada:
+
+a) Justificada, levando ASAE a actuar nos termos do n.º 7;
+
+b) Injustificada, levando a ASAE a revogá-la.
+
+###### Artigo 30.º — Procedimento de salvaguarda
+
+1 - Sempre que se verifique que um brinquedo, ainda que ostente a marcação «CE» e seja utilizado para os fins a que se destina, possa colocar em risco a segurança ou a saúde dos utilizadores ou de terceiros, pode ser proibida ou restringida a sua colocação no mercado, ou assegurada a sua retirada do mesmo, mediante despacho, devidamente fundamentado, do inspector-geral da ASAE.
+
+2 - A Comissão Europeia e os outros Estados membros devem ser informados de imediato pela ASAE das medidas adoptadas nos termos do número anterior, devendo ser indicadas as razões da decisão.
+
+###### Artigo 31.º — Medidas restritivas
+
+1 - À adopção de qualquer medida de proibição, de restrição da disponibilização, de retirada ou de recolha do mercado de um brinquedo ao abrigo do presente decreto-lei, aplica-se o procedimento estabelecido no Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho, quanto à adopção de medidas restritivas.
+
+2 - A competência para a adopção de medidas restritivas ao abrigo do presente decreto-lei rege-se pelo disposto nos artigos 3.º e 4.º do Decreto-Lei n.º n.º 23/2011, de 11 de Fevereiro, que dá execução na ordem jurídica interna ao Regulamento referido no número anterior.
+
+###### Artigo 32.º — Sistema comunitário de troca rápida de informação (RAPEX)
+
+Se a medida a que se refere o n.º 3 do artigo 29.º tiver de ser notificada no quadro do sistema comunitário de troca rápida de informação, ao abrigo do artigo 22.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho, não é necessária outra notificação por força do n.º 3 do artigo 29.º, se estiverem preenchidas as seguintes condições:
+
+a) A notificação do sistema comunitário de troca rápida de informação indica que a notificação da medida é, igualmente, exigida pelo presente decreto-lei;
+
+b) Os elementos de prova, previstos nos n.os 4 e 5 do artigo 29.º, em anexo à notificação do sistema comunitário de troca rápida de informação.
+
+###### Artigo 33.º — Não conformidade formal
+
+1 - Sem prejuízo do disposto nos artigos 28.º e 29.º, a ASAE deve exigir ao operador económico em causa que ponha termo à não conformidade verificada se constatar um dos seguintes factos:
+
+a) A marcação «CE» foi aposta em violação do disposto no artigo 19.º ou no artigo 20.º;
+
+b) A marcação «CE» não foi aposta;
+
+c) A declaração «CE» de conformidade não foi elaborada;
+
+d) A declaração «CE» de conformidade não foi correctamente elaborada;
+
+e) A documentação técnica não está disponível ou está incompleta.
+
+2 - Se a não conformidade a que se refere o número anterior persistir, a ASAE deve tomar as medidas adequadas para restringir ou proibir a disponibilização do brinquedo no mercado ou garantir que o mesmo seja recolhido ou retirado do mercado.
+
+###### Artigo 34.º — Publicidade
+
+1 - É proibida a publicidade a brinquedos em que não foi aposta a marcação «CE».
+
+2 - A publicidade relativa aos brinquedos deve respeitar as regras constantes do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro.
+
+3 - Sem prejuízo do disposto no número anterior, a publicidade a brinquedos, em especial, deve dar a conhecer, de modo inequívoco, a aposição da marcação «CE».
+
+### Capítulo VII — Fiscalização e regime sancionatório
+
+###### Artigo 35.º — Competência de fiscalização
+
+1 - A fiscalização do mercado e o controlo dos brinquedos que entram no mercado comunitário em cumprimento do disposto no presente decreto-lei rege-se pelo disposto no capítulo iii do Decreto-Lei n.º n.º 23/2011, de 11 de Fevereiro, que dá execução na ordem jurídica nacional ao Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho.
+
+2 - A fiscalização do disposto no artigo anterior é da competência da Direcção-Geral do Consumidor.
+
+###### Artigo 36.º — Contra-ordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) A violação dos deveres dos operadores económicos, previstos nos n.os 5 e 6 do artigo 5.º, nos n.os 5 e 7 do artigo 8.º, no n.º 2 do artigo 9.º e nos n.os 2 a 7 do artigo 10.º;
+
+b) A violação do dever de informação, previsto no artigo 12.º;
+
+c) A violação das obrigações relativas à documentação técnica, previstas nos n.os 2 e 3 do artigo 24.º
+
+2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:
+
+a) A violação dos deveres dos operadores económicos previstos nos n.os 2, 3 e 7 a 10 do artigo 5.º, nos n.os 1 e 2 do artigo 6.º, nos n.os 2 a 4, 6, 8 e 9 do artigo 8.º e nos n.os 1 e 3 do artigo 9.º ;
+
+b) A violação dos requisitos essenciais de segurança, previstos nos n.os 1 e 2 do artigo 13.º;
+
+c) A violação das obrigações relativas aos avisos, previstos nos artigos 14.º, 15.º e 16.º;
+
+d) A violação dos requisitos relativos à declaração «CE» de conformidade, previstos no artigo 18.º;
+
+e) A violação das regras e condições de aposição da marcação «CE», previstos no artigo 20.º,
+
+f) A violação do dever de proceder à avaliação de segurança, previsto no artigo 21.º;
+
+g) A violação do cumprimento dos procedimentos de avaliação da conformidade, previstos no n.º 1 do artigo 22.º;
+
+h) A violação do cumprimento dos requisitos da documentação técnica, previstos no n.º 1 do artigo 24.º;
+
+i) A violação do cumprimento das regras relativas à publicidade, previstas nos n.os 1 e 3 do artigo 34.º
+
+3 - Às infracções previstas nas alíneas a) e b) do n.º 2 do artigo 19.º do presente decreto-lei aplicam-se as disposições do artigo 6.º do Decreto-Lei n.º n.º 23/2011, de 11 de Fevereiro, que dá execução na ordem jurídica nacional ao Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho.
+
+4 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+> Alterado pelo/a Artigo 117.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 37.º — Sanções acessórias
+
+Sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
+
+> Alterado pelo/a Artigo 117.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 38.º — Competência sancionatória
+
+1 - São competentes para a instrução dos processos de contra-ordenação a ASAE e a Direcção-Geral do Consumidor, no que respeita a ilícitos publicitários.
+
+2 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE e, no que respeita a ilícitos publicitários, ao diretor-geral do Consumidor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2015-67485180), em vigor a partir de 2015-06-20
+
+###### Artigo 39.º — Distribuição do produto das coimas
+
+1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
+
+2 - A distribuição do produto das coimas referidas no n.º 3 do artigo 36.º rege-se pelo disposto no artigo 10.º do Decreto-Lei n.º n.º 23/2011, de 11 de Fevereiro, que dá execução na ordem jurídica nacional ao Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0765" title="Link para Regulamento da Comunidade Europeia">765/2008</a>, de 9 de Julho.
+
+> Alterado pelo/a Artigo 117.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+### Capítulo VIII — Disposições finais e transitórias
+
+###### Artigo 40.º — Avaliação da execução do decreto-lei
+
+No final do 3.º ano, a contar da data da entrada em vigor do presente decreto-lei, e de cinco em cinco anos, a ASAE elabora e apresenta um relatório de avaliação sobre a aplicação e execução do mesmo.
+
+###### Artigo 40.º-A — Anexos à Diretiva 2009/48/CE, do Parlamento Europeu e do Conselho, de 18 de junho
+
+Os anexos que contêm os requisitos específicos de segurança, os avisos, os elementos que deve conter a Declaração «CE» de conformidade e a documentação técnica para efeitos de demonstração da conformidade, correspondentes, respetivamente, aos seguintes anexos da Diretiva n.º 2009/48/CE, do Parlamento Europeu e do Conselho, de 18 de junho, relativa à segurança dos brinquedos (Diretiva n.º 2009/48/CE), são aprovados por portaria do membro do Governo responsável pela área da economia e com a seguinte designação:
+
+a) O disposto no anexo II da Diretiva 2009/48/CE, com a designação 'anexo I';
+
+b) O disposto no anexo V da Diretiva 2009/48/CE, com a designação 'anexo II';
+
+c) O disposto no anexo III da Diretiva 2009/48/CE, com a designação 'anexo III';
+
+d) O disposto no anexo IV da Diretiva 2009/48/CE, com a designação 'anexo IV'.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 41.º — Regiões Autónomas
+
+Os actos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa.
+
+###### Artigo 42.º — Alteração ao Decreto-Lei n.º 291/2001, de 20 de Novembro
+
+O artigo 6.º do Decreto-Lei n.º 291/2001, de 20 de Novembro, passa a ter a seguinte redacção:
+
+«Artigo 6.º
+
+[...]
+
+Sem prejuízo da aplicação da legislação relativa à rotulagem, o rótulo da embalagem destinada a comercializar os géneros alimentícios misturados com brindes deve, ainda, informar o consumidor, em língua portuguesa, com caracteres facilmente legíveis, visíveis e indeléveis, em evidência e redigido em termos correctos, das características dos brindes que se encontram no seu interior, não podendo ser apresentadas ou descritas por palavras, imagens ou outra forma susceptível de criar uma impressão errada no consumidor, e deve, igualmente, apresentar o seguinte aviso: 'Contém um brinde. Recomendada a vigilância por adultos'.»
+
+###### Artigo 43.º — Norma transitória
+
+1 - É permitida a disponibilização no mercado de brinquedos conformes com o Decreto-Lei n.º 237/92, de 27 de Outubro, desde que tenham sido colocados no mercado antes de 20 de Julho de 2011.
+
+2 - É permitida a disponibilização no mercado de brinquedos que cumpram todos os requisitos estabelecidos no presente decreto-lei, com exceção dos requisitos previstos na parte III do anexo I à portaria a que se refere o artigo 40.º-A, desde que esses brinquedos estejam conformes com os requisitos estabelecidos no n.º 3 da parte II do anexo II ao Decreto-Lei n.º 237/92, de 27 de outubro, e tenham sido colocados no mercado antes de 20 de julho de 2013.
+
+3 - A acreditação dos organismos notificados prevista no n.º 1 do artigo 26.º deve realizar-se no prazo de 24 meses após a entrada em vigor do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+###### Artigo 44.º — Norma revogatória
+
+1 - São revogados:
+
+a) O Decreto-Lei n.º 237/92, de 27 de Outubro, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 50/97, de 28 de Fevereiro;
+
+b) A Portaria n.º 104/96, de 6 de Abril;
+
+c) O artigo 2.º do Decreto-Lei n.º 139/95, de 14 de Junho.
+
+###### Artigo 45.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 20 de Julho de 2011.
+
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
+
+Promulgado em 11 de Fevereiro de 2011.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 17 de Fevereiro de 2011.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — (a que se refere o n.º 2 do artigo 2.º)
+
+Lista de produtos que, explicitamente, não são considerados brinquedos na acepção do presente decreto-lei
+
+1 - Objectos decorativos para festas e comemorações.
+
+2 - Produtos destinados a coleccionadores, desde que o produto ou a respectiva embalagem contenham uma indicação visível e legível de que se destinam a coleccionadores com idade igual ou superior a 14 anos. Pertencem a esta categoria, por exemplo, os seguintes produtos:
+
+a) Modelos reduzidos, construídos à escala em pormenor;
+
+b) Conjuntos de montagem de modelos reduzidos construídos à escala;
+
+c) Bonecas regionais ou decorativas e outros artigos semelhantes;
+
+d) Reproduções históricas de brinquedos;
+
+e) Imitações de armas de fogo verdadeiras.
+
+3 - Equipamentos desportivos, incluindo patins de rodas, patins em linha e pranchas de skate destinados a crianças com peso superior a 20 kg.
+
+4 - Bicicletas em que a altura máxima do selim seja superior a 435 mm, medida na vertical entre o solo e a parte superior do assento, com o assento em posição horizontal e o suporte do assento colocado na posição mais baixa.
+
+5 - Trotinetas e outros meios de transporte concebidos para desporto ou que se destinam a ser utilizados para fins de deslocação nas vias ou caminhos públicos.
+
+6 - Veículos eléctricos que se destinam a ser utilizados para fins de deslocação nas vias públicas ou nos passeios destas vias públicas.
+
+7 - Equipamento aquático utilizado em águas profundas e material para crianças, destinado ao ensino da natação, nomeadamente assentos insufláveis e meios auxiliares de natação.
+
+8 - Puzzles de mais de 500 peças.
+
+9 - Armas e pistolas de gás comprimido, excepto armas e pistolas de água, e arcos para tiro com mais de 120 cm de comprimento.
+
+10 - Fogos-de-artifício, incluindo os dispositivos de detonação que não foram projectados exclusivamente para utilização num brinquedo.
+
+11 - Produtos e jogos que utilizam projécteis de pontas afiadas, como jogos de dardos com pontas metálicas.
+
+12 - Produtos educativos funcionais, como fornos eléctricos, ferros de engomar ou outros produtos eléctricos com uma tensão nominal superior a 24 V, vendidos exclusivamente para utilização com fins didácticos sob a vigilância de adultos.
+
+13 - Produtos concebidos para serem utilizados com fins didácticos em escolas ou outros contextos pedagógicos sob a vigilância de um instrutor adulto, como equipamento científico.
+
+14 - Equipamento electrónico, tal como computadores pessoais e consolas de jogos, para fins de utilização de software interactivo, e periféricos conexos, se este equipamento electrónico e os periféricos conexos não forem especificamente projectados e destinados a crianças e, em si, careçam de valor lúdico, como os computadores pessoais, os teclados, os joysticks ou os volantes especialmente projectados.
+
+15 - Software interactivo destinado a actividades de lazer e entretenimento, como jogos de computador e respectivos suportes informáticos, tais como CD.
+
+16 - Chupetas de puericultura.
+
+17 - Luminárias portáteis para crianças.
+
+18 - Transformadores eléctricos para brinquedos.
+
+19 - Acessórios de moda para crianças não destinados a ser utilizados em jogos.
+
+## Anexo II — (a que se refere o n.º 1 do artigo 5.º)
+
+Requisitos específicos de segurança
+
+I - Propriedades físicas e mecânicas
+
+1 - Os brinquedos e respectivos componentes, bem como as fixações, no caso de brinquedos montados, devem ter a resistência mecânica e, se for caso disso, a estabilidade necessárias para resistir às pressões a que são submetidos durante a utilização sem se quebrarem ou eventualmente deformarem, podendo assim dar origem a danos físicos.
+
+2 - As arestas, saliências, cordas, cabos e fixações acessíveis dos brinquedos devem ser concebidas e fabricadas de modo a reduzir, na medida do possível, os riscos de danos físicos por contacto.
+
+3 - Os brinquedos devem ser concebidos e fabricados de modo a não apresentarem qualquer risco ou a apresentarem unicamente o risco mínimo inerente à utilização do brinquedo, susceptível de ser provocado pelo movimento das suas peças.
+
+4:
+
+a) Os brinquedos e respectivos componentes não devem apresentar qualquer risco de estrangulamento;
+
+b) Os brinquedos e respectivos componentes não devem apresentar qualquer risco de asfixia resultante da interrupção do fluxo de ar, devido a obstrução externa das vias respiratórias, na boca ou no nariz;
+
+c) Os brinquedos e respectivos componentes devem ter dimensões que não apresentem qualquer risco de asfixia resultante da interrupção do fluxo de ar, devido a obstrução das vias respiratórias por objectos entalados na boca ou na faringe ou alojados à entrada das vias respiratórias inferiores;
+
+d) Os brinquedos e respectivos componentes destinados a crianças com menos de 36 meses, e partes susceptíveis de serem manifestamente destacadas de brinquedos, devem ter dimensões tais que evitem a sua ingestão ou inalação. O mesmo se aplica a outros brinquedos destinados a entrar em contacto com a boca, bem como aos respectivos componentes e partes susceptíveis de serem destacadas;
+
+e) As embalagens que contêm os brinquedos para a venda a retalho não devem apresentar qualquer risco de estrangulamento ou asfixia por obstrução externa das vias respiratórias, na boca ou no nariz;
+
+f) Os brinquedos no interior de géneros alimentícios ou misturados com os mesmos devem ter uma embalagem própria. Esta embalagem, tal como fornecida, deve ser de dimensão suficiente para impedir que seja ingerida e ou inalada;
+
+g) Tal como referido nas alíneas e) e f) do presente n.º 4, as embalagens de brinquedos esféricas, em forma de ovo ou elipsoidais, bem como quaisquer partes susceptíveis de serem destacadas das mesmas ou das embalagens cilíndricas com extremidades arredondadas, devem ter uma dimensão suficiente para impedir a obstrução interna das vias respiratórias, ficando entaladas na boca ou na faringe ou alojadas à entrada das vias respiratórias inferiores;
+
+h) São proibidos os brinquedos firmemente agregados a um produto alimentar no momento do seu consumo, de tal forma que a sua utilização só é possível uma vez consumido este último. As peças de brinquedos que, de outra forma, se encontrem directamente agregados a um produto alimentar devem cumprir os requisitos estabelecidos nas alíneas c) e d) do presente n.º 4.
+
+5 - Os brinquedos aquáticos devem ser concebidos e fabricados de modo a reduzir, na medida do possível e tendo em conta a utilização recomendada desses brinquedos, os riscos de perda de flutuabilidade do brinquedo e de perda do apoio dado à criança.
+
+6 - Os brinquedos em que se possa entrar e que, por esse facto, constituam um espaço fechado para os ocupantes, devem possuir uma saída acessível que os utilizadores a que se destinam possam abrir facilmente do interior.
+
+7 - Os brinquedos que permitem que os utilizadores neles se desloquem devem, sempre que possível, incluir um sistema de travagem adaptado ao tipo de brinquedo e proporcional à energia cinética por este gerada. Este sistema deve ser facilmente utilizável pelos utilizadores, sem risco de ejecção ou de danos físicos para o próprio ou para terceiros.
+
+A velocidade máxima de projecto dos veículos eléctricos para transporte deve ser limitada a fim de minimizar o risco de lesões.
+
+8 - A forma e composição dos projécteis e a energia cinética que estes podem gerar, aquando do seu lançamento por um brinquedo concebido para esse fim, devem ser tais que não haja risco de dano físico do utilizador do brinquedo ou de terceiros, tendo em conta a natureza do brinquedo.
+
+9 - Os brinquedos devem ser fabricados de modo a garantir que:
+
+a) As temperaturas máxima e mínima de qualquer das superfícies acessíveis não provoquem lesões por contacto; e
+
+b) Os líquidos, vapores e gases contidos num brinquedo não atinjam temperaturas ou pressões tais que, salvo por razões indispensáveis ao correcto funcionamento do brinquedo, a sua libertação seja susceptível de provocar queimaduras ou outras lesões.
+
+10 - Os brinquedos concebidos para emitir som devem ser projectados e fabricados de acordo com os valores máximos de ruído impulsivo e de ruído contínuo, para que os sons que emitem não danifiquem a capacidade auditiva das crianças.
+
+11 - Os brinquedos de actividade devem ser fabricados de modo a reduzir, tanto quanto possível, o risco de esmagar ou entalar partes do corpo ou prender peças de vestuário, bem como o de quedas, de choques e de afogamento. Em especial, qualquer superfície desse tipo de brinquedos, sobre a qual possam brincar uma ou mais crianças, deve ser projectada de forma a suportar o seu peso.
+
+II - Inflamabilidade
+
+1 - Os brinquedos não devem constituir um elemento inflamável perigoso para o ambiente das crianças. Devem, por conseguinte, ser constituídos por materiais que preencham uma ou mais das seguintes condições:
+
+a) Não ardam quando directamente expostos a uma chama, faísca ou outro foco potencial de incêndio;
+
+b) Sejam dificilmente inflamáveis (a chama extingue-se logo que o foco de incêndio é retirado);
+
+c) Se se inflamarem, ardam lentamente e apresentem uma pequena velocidade de propagação da chama;
+
+d) Tenham sido concebidos, independentemente da sua composição química, de modo a retardar mecanicamente o processo de combustão.
+
+Estes materiais combustíveis não devem constituir um risco de propagação do fogo aos outros materiais utilizados no brinquedo.
+
+2 - Os brinquedos que, por razões indispensáveis ao seu funcionamento, contenham substâncias ou misturas que preencham os critérios de classificação estabelecidos na secção 1 do apêndice B, em especial materiais e equipamento para experiências químicas, montagem de modelos, moldagem com plástico ou cerâmica, esmaltagem, fotografia ou actividades análogas, não devem conter, enquanto tal, substâncias ou misturas que possam tornar-se inflamáveis devido à perda de componentes voláteis não inflamáveis.
+
+3 - Os brinquedos, salvo os dispositivos de percussão para brinquedos, não devem ser explosivos ou conter elementos ou substâncias que possam explodir quando utilizados nos termos do segundo parágrafo do n.º 2 do artigo 13.º do presente decreto-lei.
+
+4 - Os brinquedos e, em especial, os jogos ou brinquedos químicos, não devem conter, como tal, substância ou misturas:
+
+a) Que, quando misturadas, possam explodir por reacção química ou por aquecimento;
+
+b) Que possam explodir ao serem misturadas com substâncias oxidantes; ou
+
+c) Que contenham componentes voláteis inflamáveis em contacto com o ar e possam criar misturas de vapores/ar inflamáveis ou explosivas.
+
+III - Propriedades químicas
+
+1 - Os brinquedos devem ser projectados e fabricados de modo a não apresentarem riscos de efeitos nocivos para a saúde humana, devido à exposição a substâncias ou misturas químicas que contenham ou entrem na sua composição, quando forem utilizados conforme previsto no primeiro parágrafo do n.º 2 do artigo 13.º do presente decreto-lei.
+
+Os brinquedos devem respeitar a legislação comunitária aplicável relativa a determinadas categorias de produtos ou a restrições a determinadas substâncias e misturas.
+
+2 - Os brinquedos que sejam, eles próprios, substâncias ou misturas devem igualmente respeitar o disposto na Directiva n.º 67/548/CEE, do Conselho, de 27 de Junho, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas, na Directiva n.º1999/45/CE, do Parlamento Europeu e do Conselho, de 31 de Maio, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros respeitantes à classificação, embalagem e rotulagem das preparações perigosas, e no Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas conforme o caso, relativos à classificação, embalagem e rotulagem de determinadas substâncias e misturas.
+
+3 - Sem prejuízo da aplicação das restrições previstas no segundo parágrafo do n.º 1, as substâncias classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução (CMR), categoria 1A, 1B ou 2, nos termos do disposto no Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, não devem ser utilizadas em brinquedos, na composição de componentes de brinquedos ou em partes de brinquedos de natureza microestrutural distinta.
+
+4 - Em derrogação do número anterior, as substâncias ou misturas classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução, das categorias referidas na secção 3 do apêndice B, podem ser utilizadas em brinquedos, em componentes de brinquedos ou em partes de brinquedos de natureza microestrutural distinta, sob reserva de uma das seguintes condições:
+
+a) A concentração das referidas substâncias e misturas é igual ou inferior às concentrações relevantes estabelecidas nos actos comunitários, referidos na secção 2 do apêndice B, para a classificação das misturas que contêm estas substâncias;
+
+b) As referidas substâncias estão inacessíveis às crianças sob qualquer forma, incluindo por inalação, se o brinquedo for utilizado de acordo com o disposto no n.º 2 do artigo 13.º do presente decreto-lei;
+
+c) Foi aprovada uma decisão, nos termos do n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, que autoriza a presença da substância ou mistura e a sua utilização, as quais estão enumeradas no apêndice A.
+
+Essa decisão pode ser tomada se estiverem cumpridas as seguintes condições:
+
+i) A utilização da substância ou mistura foi avaliada pelo comité científico competente, que a considerou segura, em particular no que diz respeito à exposição;
+
+ii) Não existem substâncias ou misturas alternativas disponíveis, tal como comprovado na análise de alternativas realizada; e
+
+iii) A utilização da substância ou mistura em artigos para os consumidores não está proibida pelo Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1970" title="Link para Regulamento da Comunidade Europeia">1970/2006</a>, da Comissão, de 22 de Dezembro.
+
+A Comissão encarrega o comité científico competente de reavaliar estas substâncias ou misturas, o mais rapidamente possível, sempre que surgirem dúvidas quanto à sua segurança e, no máximo, de cinco em cinco anos a partir da data da tomada de uma decisão nos termos do n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho.
+
+5 - Em derrogação do n.º 3, as substâncias ou misturas classificadas como CMR, das categorias referidas na secção 4 do apêndice B, podem ser utilizadas em brinquedos, em componentes de brinquedos ou em partes de brinquedos de natureza microestrutural distinta desde que:
+
+a) A concentração das referidas substâncias e misturas seja igual ou inferior às concentrações relevantes estabelecidas nos actos comunitários, referidos na secção 2 do apêndice B, para a classificação das misturas que contêm estas substâncias;
+
+b) As referidas substâncias sejam inacessíveis às crianças sob qualquer forma, incluindo por inalação, se o brinquedo for utilizado de acordo com o disposto no n.º 2 do artigo 13.º do presente decreto-lei; ou
+
+c) Tenha sido tomada uma decisão, nos termos do n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, que autoriza a presença da substância ou mistura e a sua utilização, as quais estão enumeradas no apêndice A.
+
+Essa decisão pode ser tomada se as seguintes condições forem satisfeitas:
+
+i) A utilização da substância ou mistura foi avaliada pelo comité científico competente, que a considerou aceitável, em particular no que diz respeito à exposição; e
+
+ii) A utilização da substância ou mistura em artigos para os consumidores não está proibida ao abrigo do Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1970" title="Link para Regulamento da Comunidade Europeia">1970/2006</a>, da Comissão, de 22 de Dezembro.
+
+A Comissão encarrega o comité científico competente de reavaliar estas substâncias ou misturas, o mais rapidamente possível, sempre que surgirem dúvidas quanto à sua segurança e, no máximo, de cinco em cinco anos a partir da data da tomada de uma decisão nos termos do n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho.
+
+6 - Os n.os 3, 4 e 5 não se aplicam ao níquel presente no aço inoxidável.
+
+7 - Os n.os 3, 4 e 5 não se aplicam aos materiais conformes com os valores limite específicos estabelecidos no apêndice C, ou, até que esses valores tenham sido estabelecidos, mas não após 20 de Julho de 2017, aos materiais abrangidos pelas disposições relativas a materiais que entram em contacto com os alimentos, e os quais respeitam essas mesmas disposições, tal como definidas pelo Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R1935" title="Link para Regulamento da Comunidade Europeia">1935/2004</a>, do Parlamento Europeu e do Conselho, de 27 de Outubro, e as medidas específicas conexas para materiais particulares.
+
+8 - Sem prejuízo da aplicação dos n.os 3 e 4, é proibida a utilização de nitrosaminas e substâncias nitrosáveis nos brinquedos que se destinam a serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, se a migração das substâncias for igual ou superior a 0,05 mg/kg no caso das nitrosaminas e 1 mg/kg no caso das substâncias nitrosáveis.
+
+9 - A Comissão avalia sistemática e regularmente a presença de substâncias ou materiais perigosos nos brinquedos. Estas avaliações têm em conta os relatórios dos órgãos de fiscalização do mercado e as preocupações expressas pelos Estados membros e pelos intervenientes envolvidos.
+
+10 - Os brinquedos cosméticos, como os cosméticos para bonecas, devem respeitar os requisitos em matéria de composição e rotulagem previstos na Directiva n.º <a href="eurlex.asp?ano=1976&id=376L0768" title="Link para Directiva da Comunidade Europeia">76/768/CEE</a>, do Conselho, de 27 de Julho, relativa à aproximação das legislações dos Estados membros respeitantes aos produtos cosméticos.
+
+11 - Os brinquedos não podem conter as seguintes fragrâncias alergénicas:
+
+(ver documento original)
+
+Não obstante, a presença de vestígios destas fragrâncias é tolerada desde que seja tecnicamente inevitável em boas práticas de fabrico e não exceda 100 mg/kg.
+
+Os nomes das seguintes fragrâncias alergénicas devem ser elencados no brinquedo, num rótulo nele aposto, na embalagem ou num folheto de instruções que o acompanhe, se forem adicionadas a um brinquedo, como tal, em concentrações superiores a 100 mg/kg no brinquedo ou em partes do mesmo:
+
+(ver documento original)
+
+12 - A utilização das fragrâncias referidas nos n.os 41 a 55 da lista constante do primeiro parágrafo do n.º 11 e das fragrâncias referidas nos n.os 1 a 11 da lista constante do terceiro parágrafo do referido número é autorizada nos jogos de mesa olfactivos, nos estojos para preparação de cosméticos e nos jogos de paladar, desde que:
+
+i) Essas fragrâncias sejam claramente indicadas no rótulo da embalagem e esta contenha o aviso previsto no n.º 10 da parte B do anexo iii;
+
+ii) Se for esse o caso, os produtos elaborados pela criança de acordo com as instruções respeitem os requisitos da Directiva n.º <a href="eurlex.asp?ano=1976&id=376L0768" title="Link para Directiva da Comunidade Europeia">76/768/CEE</a>, do Conselho, de 27 de Julho; e
+
+iii) Se for esse o caso, essas fragrâncias respeitem o disposto na legislação aplicável relativa aos géneros alimentícios.
+
+Os referidos jogos de mesa olfactivos, estojos para preparação de cosméticos e jogos de paladar não podem ser utilizados por crianças de idade inferior a 36 meses e devem respeitar o disposto no n.º 1 da parte B do anexo iii.
+
+13 - Sem prejuízo do disposto nos n.os 3, 4 e 5 não podem ser ultrapassados os seguintes valores limite de migração dos brinquedos ou dos componentes de brinquedos:
+
+(ver documento original)
+
+Estes valores limite não se aplicam aos brinquedos ou componentes dos brinquedos que, em virtude da sua acessibilidade, função, massa ou do seu volume excluam claramente qualquer perigo decorrente das acções de sorver, lamber ou ingerir ou de um contacto prolongado com a pele, quando utilizados nas condições previstas no primeiro parágrafo do n.º 2 do artigo 13.º
+
+IV - Propriedades eléctricas
+
+1 - Os brinquedos eléctricos não devem ser alimentados por uma tensão nominal superior a 24 V de corrente contínua (CC) ou o equivalente em corrente alternada (CA), não devendo qualquer das peças acessíveis do brinquedo ultrapassar 24 V CC ou o equivalente em CA.
+
+As tensões internas não podem ultrapassar 24 V CC ou o equivalente em CA, salvo se se assegurar que a tensão e a combinação de corrente gerada não comportam qualquer risco de descarga eléctrica nociva, mesmo se o brinquedo estiver danificado.
+
+2 - Os componentes dos brinquedos que estejam em contacto ou sejam susceptíveis de estar em contacto com uma fonte de electricidade capaz de provocar um choque eléctrico, bem como os cabos ou outros fios condutores através dos quais a electricidade é conduzida até esses componentes, devem estar bem isolados e protegidos mecanicamente de modo a evitar o perigo de choques eléctricos.
+
+3 - Os brinquedos eléctricos devem ser concebidos e fabricados de modo a garantir que as temperaturas máximas atingidas, por todas as superfícies de acesso directo, não provoquem queimaduras por contacto.
+
+4 - Em condições de avaria previsíveis, os brinquedos devem assegurar uma protecção contra os perigos de natureza eléctrica decorrentes de uma fonte de energia eléctrica.
+
+5 - Os brinquedos eléctricos devem garantir uma protecção adequada contra os perigos de incêndio.
+
+6 - Os brinquedos eléctricos devem ser projectados e fabricados de modo que os campos eléctricos, magnéticos e electromagnéticos e outras radiações geradas pelo equipamento se limitem ao necessário para o seu funcionamento, o qual deve corresponder a um nível de segurança conforme com o estado de evolução técnica geralmente reconhecido, tendo em conta as medidas comunitárias específicas.
+
+7 - Os brinquedos dotados de um sistema de controlo electrónico devem ser projectados e fabricados de modo a funcionarem com segurança, mesmo em caso de disfunção ou avaria do sistema electrónico provocadas por avaria do próprio sistema ou por factores externos.
+
+8 - Os brinquedos devem ser projectados e fabricados de modo a não representarem perigo para a saúde ou perigo de lesões oculares ou dermatológicas devido a lasers, díodos emissores de luz (LED) ou qualquer outro tipo de radiação.
+
+9 - Os transformadores eléctricos dos brinquedos não são parte integrante dos mesmos.
+
+V - Higiene
+
+1 - Os brinquedos devem ser projectados e fabricados de modo a satisfazer os requisitos de higiene e limpeza necessários para evitar quaisquer riscos de infecção, doença ou contaminação.
+
+2 - Os brinquedos destinados a serem usados por crianças com idade inferior a 36 meses devem ser projectados e fabricados de forma a poderem ser limpos. Para o efeito, os brinquedos de tecido devem ser laváveis, excepto aqueles que contenham componentes mecânicas que possam ficar danificadas em caso de imersão em água.
+
+O brinquedo deve continuar a preencher os requisitos de segurança após a lavagem, em conformidade com o disposto no presente número e com as instruções do fabricante.
+
+VI - Radioactividade
+
+Os brinquedos devem respeitar as medidas aplicáveis aprovadas ao abrigo do capítulo iii do Tratado que Institui a Comunidade Europeia da Energia Atómica.
+
+APÊNDICE A
+
+Lista das substâncias classificadas como CMR e das suas formas de utilização autorizadas em conformidade com os n.os 4, 5 e 6 da parte III
+
+(ver documento original)
+
+APÊNDICE B
+
+Classificação de substâncias e misturas
+
+Em consequência do calendário de aplicação do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de Dezembro, existem formas equivalentes de referenciar uma determinada classificação que devem ser usadas em diferentes períodos de tempo.
+
+1 - Critérios de classificação de substâncias e misturas, para efeitos do n.º 2 da parte ii:
+
+A - Critérios a aplicar entre 20 de Julho de 2011 e 31 de Maio de 2015:
+
+Substâncias:
+
+A substância preenche os critérios fixados para qualquer uma das seguintes classes de perigo ou categorias enunciadas no anexo i do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro:
+
+a) Classes de perigo 2.1 a 2.4, 2.6 e 2.7, 2.8 dos tipos A e B, 2.9, 2.10, 2.12, 2.13 das categorias 1 e 2, 2.14 das categorias 1 e 2, e 2.15 dos tipos A a F;
+
+b) Classes de perigo 3.1 a 3.6, 3.7 (efeitos nocivos para a função sexual e a fertilidade ou para o desenvolvimento), 3.8 (efeitos que não sejam efeitos narcóticos), 3.9 e 3.10;
+
+c) Classe de perigo 4.1;
+
+d) Classe de perigo 5.1.
+
+Misturas:
+
+A mistura é perigosa na acepção da Directiva n.º <a href="eurlex.asp?ano=1967&id=367L0548" title="Link para Directiva da Comunidade Europeia">67/548/CEE</a>, do Conselho, de 27 de Junho.
+
+B - Critérios aplicáveis a partir de 1 de Junho de 2015:
+
+A substância ou mistura preenche os critérios fixados para qualquer uma das seguintes classes de perigo ou categorias enunciadas no anexo i do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro:
+
+a) Classes de perigo 2.1 a 2.4, 2.6 e 2.7, 2.8 dos tipos A e B, 2.9, 2.10, 2.12 e 2.13 das categorias 1 e 2, 2.14 das categorias 1 e 2, e 2.15 dos tipos A a F;
+
+b) Classes de perigo 3.1 a 3.6 e 3.7 (efeitos nocivos para a função sexual e a fertilidade ou para o desenvolvimento), 3.8 (efeitos que não sejam efeitos narcóticos), 3.9 e 3.10;
+
+c) Classe de perigo 4.1;
+
+d) Classe de perigo 5.1.
+
+2 - Actos comunitários que regem a utilização de determinadas substâncias, para efeitos da alínea a) do n.º 4 e da alínea a) do n.º 5 da parte iii:
+
+Entre 20 de Julho de 2011 e 31 de Maio de 2015, as concentrações relevantes para a classificação de misturas que contenham as substâncias são aquelas estabelecidas nos termos da Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0045" title="Link para Directiva da Comunidade Europeia">1999/45/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Maio.
+
+A partir de 1 de Junho de 2015, as concentrações relevantes para a classificação de misturas que contenham as substâncias são aquelas estabelecidas de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+3 - Categorias de substâncias e misturas classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução (CMR), para efeitos do n.º 4 da parte iii:
+
+Substâncias:
+
+O disposto no n.º 4 da parte iii diz respeito a substâncias classificadas como CMR de categoria 1A e 1B, de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+Misturas:
+
+Entre 20 de Julho de 2011 e 31 de Maio de 2015, o disposto no n.º 4 da parte iii diz respeito a misturas classificadas como CMR de categoria 1 e 2, de acordo com a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0045" title="Link para Directiva da Comunidade Europeia">1999/45/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Maio, e a Directiva n.º <a href="eurlex.asp?ano=1967&id=367L0548" title="Link para Directiva da Comunidade Europeia">67/548/CEE</a>, do Conselho, de 27 de Junho, conforme aplicável.
+
+A partir de 1 de Junho de 2015, o disposto no n.º 4 da parte iii diz respeito a misturas classificadas como CMR de categoria 1A e 1B, de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+4 - Categorias de substâncias e misturas classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução (CMR), para efeitos do n.º 5 da parte iii:
+
+Substâncias:
+
+O disposto no n.º 5 da parte iii diz respeito a substâncias classificadas como CMR de categoria 2, de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+Misturas:
+
+Entre 20 de Julho de 2011 e 31 de Maio de 2015, o disposto no n.º 5 da parte iii diz respeito a misturas classificadas como CMR de categoria 3, de acordo com a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0045" title="Link para Directiva da Comunidade Europeia">1999/45/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Maio, e a Directiva n.º <a href="eurlex.asp?ano=1967&id=367L0548" title="Link para Directiva da Comunidade Europeia">67/548/CEE</a>, do Conselho, de 27 de Junho, consoante o caso.
+
+A partir de 1 de Junho de 2015, o disposto no n.º 5 da parte iii diz respeito a misturas classificadas como CMR de categoria 2, de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+5 - Categorias de substâncias e misturas classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução (CMR), para efeitos do n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho:
+
+Substâncias:
+
+O disposto no n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, diz respeito a substâncias classificadas como CMR de categoria 1A, 1B e 2, de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+Misturas:
+
+Entre 20 de Julho de 2011 e 31 de Maio de 2015, o disposto no n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, diz respeito a misturas classificadas como CMR de categoria 1, 2 e 3, de acordo com a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0045" title="Link para Directiva da Comunidade Europeia">1999/45/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Maio, e a Directiva n.º <a href="eurlex.asp?ano=1967&id=367L0548" title="Link para Directiva da Comunidade Europeia">67/548/CEE</a>, do Conselho, de 27 de Junho, conforme aplicável.
+
+A partir de 1 de Junho de 2015, o disposto no n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, diz respeito a misturas classificadas como CMR de categoria 1A, 1B e 2, de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia">1272/2008</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+APÊNDICE C
+
+Valores-limite específicos para os produtos químicos utilizados em brinquedos que se destinam a serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, definidos nos termos do n.º 2 do artigo 46.º da Diretiva 2009/48/CE, do Parlamento Europeu e do Conselho, de 18 de junho.
+
+(ver documento original)
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 104/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2015-67485180) As alterações introduzidas pelo decreto-lei n.º 114/2015, de 15 de junho ao anexo II ao Decreto-Lei n.º 43/2011, de 24 de março, alterado pelo Decreto-Lei n.º 11/2013, de 25 de janeiro, produzem efeitos: a) Relativamente ao apêndice A, a partir de 1 de julho de 2015; b) Relativamente ao apêndice C, a partir de 21 de dezembro de 2015.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 104/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2015-67485180) O anexo II ao Decreto-Lei n.º 43/2011, de 24 de março, alterado pelo Decreto-Lei n.º 11/2013, de 25 de janeiro, passa a ter a redação constante do anexo ao decreto-lei n.º 104/2015.
+
+> Nota: [Artigo 2.º, Decreto-Lei n.º 11/2013 - Diário da República n.º 18/2013, Série I de 2013-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2013-256987) O anexos II ao Decreto-Lei n.º 43/2011, de 24 de março, passa a ter a redação constante do anexo ao decreto-lei n.º 11/2013, de 25 de janeiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2021-165036158), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2019-122242530), em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923), em vigor a partir de 2017-11-09, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 59/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2017-107495706), em vigor a partir de 2017-06-10, produz efeitos a partir de 2017-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 104/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2015-67485180), em vigor a partir de 2015-06-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2013 - Diário da República n.º 18/2013, Série I de 2013-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2013-256987), em vigor a partir de 2013-01-30, produz efeitos a partir de 2013-07-20
+
+## Anexo III — (a que se refere o artigo 14.º)
+
+Avisos
+
+Parte A
+
+Avisos de carácter geral
+
+As limitações aplicáveis aos utilizadores a que se faz referência no n.º 1 do artigo 14.º devem incluir, pelo menos, as idades mínima ou máxima dos utilizadores e, se for caso disso, as capacidades dos utilizadores dos brinquedos, os pesos mínimo ou máximo dos utilizadores e a necessidade de os mesmos apenas poderem ser utilizados sob a vigilância de adultos.
+
+Parte B
+
+Avisos e indicações específicos de precaução de utilização de determinadas categorias de brinquedos
+
+1 - Brinquedos não destinados a serem usados por crianças com menos de 36 meses. - Os brinquedos que possam ser perigosos para as crianças com menos de 36 meses devem apresentar um aviso, como: «Contra-indicado para crianças com menos de 36 meses» ou «Contra-indicado para crianças com menos de 3 anos» ou um aviso sob a forma do seguinte pictograma:
+
+(ver documento original)
+
+Estes avisos devem ser completados por uma indicação concisa, que pode igualmente constar das instruções de utilização, dos riscos específicos que justificam tal contra-indicação.
+
+Este ponto não se aplica aos brinquedos que, devido à sua função, dimensões, características, propriedades ou outros elementos concludentes, não podem manifestamente destinar-se a crianças com menos de 36 meses.
+
+2 - Brinquedos de actividade. - «Brinquedos de actividade» são brinquedos para uso doméstico em que a estrutura de suporte se mantém estável enquanto tem lugar a actividade e que se destina a que as crianças pratiquem qualquer das seguintes actividades: escalar, saltar, baloiçar, escorregar, balançar, andar à roda, gatinhar e rastejar.
+
+Os brinquedos de actividade devem apresentar o seguinte aviso: «Apenas para uso doméstico».
+
+Os brinquedos de actividade montados sobre pórticos, bem como outros brinquedos de actividade, devem, se for caso disso, ser acompanhados de instruções de utilização que chamem a atenção para a necessidade de proceder a inspecções e manutenções periódicas das suas peças mais importantes (suspensões, ligações, fixação ao solo, etc.) e que especifiquem que, em caso de omissão dessas inspecções, o brinquedo pode apresentar perigo de queda ou capotamento.
+
+Devem, igualmente, ser fornecidas instruções relativas à forma correcta de os montar, com indicação das peças que podem apresentar perigo se a montagem não for correctamente executada. Devem, também, fornecer-se informações específicas sobre as superfícies adequadas onde colocar o brinquedo.
+
+3 - Brinquedos funcionais. - «Brinquedos funcionais» são brinquedos cujo comportamento e utilização sejam idênticos aos de produtos, aparelhos ou instalações destinados a adultos, podendo ser um modelo reduzido desses.
+
+Os brinquedos funcionais devem apresentar o seguinte aviso: «A utilizar sob a vigilância directa de adultos».
+
+Devem, igualmente, ser acompanhados de instruções de utilização referindo o modo de funcionamento bem como as precauções que o utilizador deve tomar, como a indicação de que, em caso de omissão destas precauções, este se expõe a determinados riscos, a especificar, referentes ao aparelho ou produto de que o brinquedo constitui um modelo reduzido ou uma imitação. Deve, também, indicar-se que estes brinquedos devem ser mantidos fora do alcance de crianças com menos de uma determinada idade, a estabelecer pelo fabricante.
+
+4 - Brinquedos químicos. - «Brinquedos químicos» são brinquedos destinados à manipulação directa de substâncias e misturas químicas, a serem utilizados numa idade adequada, sob a vigilância de adultos.
+
+Sem prejuízo da aplicação de disposições previstas na legislação comunitária aplicável, relativas à classificação, embalagem e rotulagem de determinadas substâncias e misturas, as instruções de utilização de brinquedos contendo estas substâncias ou misturas intrinsecamente perigosas devem ser acompanhadas da indicação do seu carácter perigoso e das precauções a tomar pelos utilizadores, a fim de evitar os riscos que lhe são inerentes, a especificar de modo conciso consoante o tipo de brinquedo. Devem ser, igualmente, mencionados os primeiros socorros a prestar em caso de acidentes graves devidos à utilização deste tipo de brinquedos.
+
+Deve, também, indicar-se que estes brinquedos devem ser mantidos fora do alcance de crianças com menos de uma determinada idade, a estabelecer pelo fabricante.
+
+Além das indicações previstas no primeiro parágrafo, os brinquedos químicos devem apresentar na embalagem o seguinte aviso: «Contra-indicado para crianças com menos de (*) anos. A utilizar sob a vigilância de adultos».
+
+São considerados, nomeadamente, como brinquedos químicos: estojos de experiências de química, caixas de encaixar plásticas, ateliers miniatura de cerâmica, esmaltagem, fotografia e brinquedos análogos que dêem azo a uma reacção química ou a uma alteração análoga das substâncias aquando da sua utilização.
+
+5 - Patins, patins de rodas, patins em linha, pranchas de skate, trotinetas e bicicletas de brinquedo para crianças. - Se estes brinquedos forem colocados à venda como brinquedos devem apresentar o seguinte aviso: «A utilizar com equipamento de protecção. Não utilizar na via pública».
+
+Por outro lado, as instruções de utilização devem lembrar que o brinquedo deve ser utilizado com prudência, pois exige muita destreza, a fim de evitar acidentes ao utilizador ou a terceiros, devidos a quedas ou colisões. Devem, igualmente, ser fornecidas indicações relativas ao equipamento de protecção aconselhado (capacetes, luvas, joelheiras, cotoveleiras, etc.).
+
+6 - Brinquedos aquáticos. - «Brinquedos aquáticos» são brinquedos para uso em água pouco profunda que são susceptíveis de transportar ou suportar uma criança na água.
+
+Os brinquedos aquáticos devem apresentar o seguinte aviso: «Só utilizar em água onde a criança tenha pé e sob vigilância de adultos».
+
+7 - Brinquedos no interior de géneros alimentícios. - Os brinquedos no interior de géneros alimentícios ou misturados com géneros alimentícios devem apresentar o seguinte aviso: «Contém um brinquedo. Recomendada a vigilância por adultos».
+
+8 - Imitações de viseiras e capacetes protectores. - As imitações de viseiras e capacetes protectores devem apresentar o seguinte aviso: «Este brinquedo não assegura a protecção».
+
+9 - Brinquedos que se destinam a ser suspensos por cima de um berço, de uma cama de criança ou de um carrinho de criança, por meio de fios, cordas, elásticos ou correias.
+
+Os brinquedos que se destinam a ser suspensos por cima de um berço, de uma cama de criança ou de um carrinho de criança, por meio de fios, cordas, elásticos ou correias, devem apresentar o seguinte aviso na embalagem, aviso esse que deve figurar também no brinquedo de forma permanente: «A fim de evitar riscos de ferimento por entrelaçamento, este brinquedo deve ser retirado assim que a criança começar a tentar erguer-se de bruços».
+
+10 - Embalagem de fragrâncias contidas nos jogos de mesa olfactivos, nos estojos para preparação de cosméticos e nos jogos de paladar. - As embalagens de fragrâncias contidas nos «jogos de mesa olfactivos» (brinquedo cujo objectivo é ajudar a criança a aprender a reconhecer diferentes odores ou sabores), nos «estojos para preparação de cosméticos» (brinquedo cujo objectivo é ajudar a criança a aprender a fazer produtos como fragrâncias, sabões, cremes, champôs, espumas para o banho, glosses, batons e outros tipos de maquilhagem, pasta dentífrica e amaciadores) e nos «jogos de paladar» (brinquedo cujo objectivo é permitir às crianças preparar doces ou outras receitas culinárias que incluam a utilização de ingredientes alimentares, tais como edulcorantes, líquidos, pós e aromas), referidas nos n.os 41 a 55 da lista constante do primeiro parágrafo do n.º 11 da parte iii do anexo ii, e das substâncias utilizadas em perfumaria, referidas nos n.os 1 a 11 da lista constante do terceiro parágrafo do referido número, devem apresentar o aviso: «Contém fragrâncias que podem causar alergias».
+
+(*) Idade a estabelecer pelo fabricante.
+
+> Nota: [Artigo 2.º, Decreto-Lei n.º 11/2013 - Diário da República n.º 18/2013, Série I de 2013-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2013-256987) O anexos III ao Decreto-Lei n.º 43/2011, de 24 de março, passa a ter a redação constante do anexo ao decreto-lei n.º 11/2013, de 25 de janeiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2013 - Diário da República n.º 18/2013, Série I de 2013-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2013-256987), em vigor a partir de 2013-01-30, produz efeitos a partir de 2013-07-20
+
+## Anexo IV — (a que se refere o artigo 18.º)
+
+Declaração «CE» de conformidade
+
+1 - N.º ... [número de identificação único do(s) brinquedo(s)].
+
+2 - Nome e endereço do fabricante ou do respectivo mandatário: ...
+
+3 - A presente declaração de conformidade é emitida sob a exclusiva responsabilidade do fabricante: ...
+
+4 - Objecto da declaração (identificação do brinquedo que permita rastreá-lo). Deve incluir uma reprodução a cores suficientemente clara, de forma a permitir identificar o brinquedo.
+
+5 - O objecto da declaração mencionada no número anterior está em conformidade com a legislação comunitária aplicável em matéria de harmonização: ...
+
+6 - Referências às normas harmonizadas aplicáveis utilizadas ou às especificações em relação às quais é declarada a conformidade: ...
+
+7 - Se for esse o caso: o organismo notificado: ..., ... (nome, número) efectuou ... (descrição da intervenção) e emitiu o certificado: ...
+
+8 - Outras informações: ...
+
+Assinado por e em nome de: ...
+
+... (local e data da emissão).
+
+..., ... (nome, cargo).
+
+... (assinatura).
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+## Anexo V — (a que se refere o artigo 24.º)
+
+Documentação técnica
+
+Na medida em que tal for pertinente para a avaliação, a documentação técnica a que se refere o artigo 24.º contém, nomeadamente:
+
+a) Uma descrição pormenorizada do projecto e do fabrico, incluindo uma lista dos componentes e dos materiais utilizados no brinquedo, bem como as fichas de segurança relativas aos produtos químicos utilizados, obtidas junto dos respectivos fornecedores;
+
+b) A avaliação ou avaliações de segurança realizadas por força do artigo 21.º;
+
+c) Uma descrição do procedimento de avaliação da conformidade adoptado;
+
+d) Uma cópia da declaração «CE» de conformidade;
+
+e) O endereço dos locais de fabrico e de armazenamento;
+
+f) Cópias dos documentos que o fabricante tenha apresentado ao organismo notificado, caso este último intervenha;
+
+g) Relatórios de ensaio e uma descrição dos meios utilizados pelo fabricante para garantir a conformidade da produção com as normas harmonizadas, caso este tenha optado pelo procedimento de controlo interno de fabrico previsto no n.º 2 do artigo 22.º; e
+
+h) Uma cópia do certificado de exame «CE» de tipo, uma descrição dos meios utilizados pelo fabricante para garantir a conformidade da produção com o tipo de produto definido no certificado de exame «CE» de tipo e cópias dos documentos apresentados pelo fabricante ao organismo notificado, caso este tenha submetido o brinquedo ao exame «CE» de tipo e seguido o procedimento de conformidade com o tipo referido no n.º 4 do artigo 23.º
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 66/2022 - Diário da República n.º 190/2022, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170), em vigor a partir de 2022-12-05
+
+## Anexo VI — Requisitos, procedimentos e obrigações dos organismos notificados
+
+## Parte A — Requisitos aplicáveis aos organismos notificados
+
+1 - Para efeitos de notificação ao abrigo do presente decreto-lei, os organismos de avaliação da conformidade devem cumprir os requisitos definidos na norma harmonizada relevante para efeitos de acreditação e, ainda, quando complementar, os requisitos previstos nos n.os 2 a 11.
+
+2 - Os organismos de avaliação da conformidade devem estar constituídos nos termos do direito nacional e ser dotados de personalidade jurídica.
+
+3 - Os organismos de avaliação da conformidade devem ser organismos terceiros independentes da organização ou do brinquedo que avaliam, considerando-se que preenche esses requisitos qualquer organismo que pertença a uma organização empresarial ou associação profissional representativa de empresas envolvidas em actividades de projecto, fabrico, fornecimento, montagem, utilização ou manutenção dos brinquedos que avalia, desde que prove a respectiva independência e a inexistência de conflitos de interesse.
+
+4 - Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação e verificação não podem:
+
+a) Ser o projectista, o fabricante, o fornecedor, o instalador, o comprador, o proprietário, o utilizador ou o responsável pela manutenção dos brinquedos a avaliar, nem o mandatário de qualquer uma dessas pessoas. Esta exigência não impede a utilização de brinquedos avaliados que sejam necessários ao desempenho das actividades do organismo de avaliação da conformidade nem a sua utilização para fins pessoais;
+
+b) Intervir directamente no projecto ou no fabrico, na comercialização, na instalação, na utilização ou na manutenção desses brinquedos, nem ser mandatários das pessoas envolvidas nessas actividades. Aqueles não podem exercer qualquer actividade que possa conflituar com a independência da sua apreciação ou com a integridade no desempenho das actividades de avaliação da conformidade para as quais são notificados. Esta disposição é aplicável nomeadamente aos serviços de consultoria.
+
+Os organismos de avaliação da conformidade devem assegurar que as actividades das suas filiais ou subcontratados não afectam a confidencialidade, a objectividade ou a imparcialidade das respectivas actividades de avaliação da conformidade.
+
+5 - Os organismos de avaliação da conformidade e o seu pessoal devem executar as actividades de avaliação da conformidade com a maior integridade profissional e a maior competência técnica e não podem estar sujeitos a quaisquer pressões ou incentivos, nomeadamente de ordem financeira, que possam influenciar a sua apreciação ou os resultados das actividades de avaliação da conformidade, em especial por parte de pessoas ou grupos de pessoas interessados nos resultados dessas actividades.
+
+6 - Os organismos de avaliação da conformidade devem ter capacidade para executar todas as tarefas de avaliação da conformidade que lhes são atribuídas pelo artigo 23.º do presente decreto-lei, relativamente às quais tenham sido notificados, quer as referidas tarefas sejam executadas por eles próprios, quer em seu nome e sob responsabilidade sua.
+
+Em todas as circunstâncias e para cada procedimento de avaliação da conformidade e para cada tipo ou categoria de brinquedos para os quais tenham sido notificados, os organismos de avaliação da conformidade devem dispor de:
+
+a) Pessoal necessário com conhecimentos técnicos e experiência suficiente e adequada para desempenhar as tarefas de avaliação da conformidade;
+
+b) Descrições dos procedimentos de avaliação da conformidade que assegurem a transparência e a capacidade de reprodução destes procedimentos. Devem prever uma política e procedimentos apropriados para distinguir entre as funções executadas na qualidade de organismo notificado e qualquer outra actividade;
+
+c) Procedimentos que permitam o exercício das suas actividades, que tenham em devida conta a dimensão, o sector, a estrutura das empresas, o grau de complexidade da tecnologia do brinquedo em causa e a natureza do processo de produção em massa ou em série.
+
+Os organismos de avaliação de conformidade devem, ainda, dispor dos meios necessários para a boa execução das tarefas técnicas e administrativas relacionadas com as actividades de avaliação da conformidade e devem ter acesso a todos os equipamentos e instalações necessários.
+
+7 - O pessoal responsável pela execução das actividades de avaliação da conformidade deve dispor de:
+
+a) Sólida formação técnica e profissional, abrangendo todas as actividades de avaliação da conformidade no domínio em causa, para as quais os organismos de avaliação da conformidade tenham sido notificados;
+
+b) Conhecimento satisfatório dos requisitos das avaliações que efectuam e a devida autoridade para as efectuar;
+
+c) Conhecimento e compreensão adequados dos requisitos essenciais, das normas harmonizadas aplicáveis, bem como da legislação comunitária de harmonização aplicável e respectivos regulamentos de execução;
+
+d) Aptidão necessária para redigir os certificados, registos e relatórios que provam que as avaliações foram efectuadas.
+
+8 - Deve ser assegurada a imparcialidade dos organismos de avaliação da conformidade, dos seus quadros superiores e do pessoal de avaliação.
+
+A remuneração dos quadros superiores e do pessoal de avaliação dos organismos de avaliação da conformidade não pode depender do número de avaliações realizadas, nem do respectivo resultado.
+
+9 - Os organismos de avaliação da conformidade devem fazer um seguro de responsabilidade civil, a não ser que essa responsabilidade seja coberta pelo Estado membro com base no respectivo direito nacional ou que o próprio Estado membro seja directamente responsável pelas avaliações da conformidade.
+
+10 - O pessoal dos organismos de avaliação da conformidade está sujeito ao sigilo profissional, excepto em relação às autoridades competentes do Estado membro em que exercem as suas actividades, no que se refere a todas as informações que obtiverem no cumprimento das suas tarefas, no âmbito do artigo 23.º do presente decreto-lei ou de qualquer disposição de direito nacional que lhe dê aplicação. Os direitos de propriedade devem ser protegidos.
+
+11 - Os organismos de avaliação da conformidade devem participar nas actividades de normalização relevantes e nas actividades do grupo de coordenação dos organismos notificados, criado ao abrigo do artigo 38.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia">2009/48/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, ou assegurar que o seu pessoal de avaliação seja informado dessas actividades, e devem aplicar como orientações gerais as decisões e os documentos administrativos que resultem do trabalho desse grupo.
+
+## Parte B — Subcontratação de actividades pelos organismos notificados
+
+1 - Para efeitos de notificação ao abrigo do presente decreto -lei, a subcontratação, ou afim, das actividades de avaliação da conformidade apenas é possível na medida do permitido por cada norma harmonizada relevante para efeitos de acreditação.
+
+2 - Sempre que um organismo notificado subcontratar tarefas específicas relacionadas com a avaliação da conformidade ou recorrer a uma filial, deve assegurar que o subcontratado ou a filial cumprem os requisitos definidos na parte A do presente anexo e informar a autoridade notificadora desse facto.
+
+3 - O organismo notificado assume plena responsabilidade pelas tarefas executadas por subcontratados ou filiais,
+
+independentemente do local em que estes se encontrem
+
+estabelecidos.
+
+4 - É indispensável o consentimento do cliente para que as actividades possam ser executadas por um subcontratado ou por uma filial.
+
+5 - Os organismos notificados devem manter à disposição da autoridade notificadora os documentos relevantes
+
+no que diz respeito à avaliação das qualificações do subcontratado ou da filial e ao trabalho efectuado por estes ao
+
+abrigo do artigo 23.º do presente decreto -lei.
+
+## Parte C — Pedido de notificação
+
+1 - Os organismos de avaliação da conformidade devem solicitar a notificação ao abrigo do presente decreto-lei, junto do Instituto Português da Qualidade, I. P. (IPQ, I. P.).
+
+2 - O pedido referido no número anterior deve ser acompanhado de uma descrição das actividades de avaliação da conformidade, do(s) módulo(s) de avaliação da conformidade e do(s) brinquedo(s) em relação ao(s) qual(is) os organismos se consideram competentes, bem como pelo certificado de acreditação relevante emitido pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), caso este exista, ou evidência do cumprimento dos requisitos previstos na parte A do presente anexo.
+
+## Parte D — Deveres funcionais dos organismos notificados
+
+1 - Os organismos notificados devem efectuar as avaliações da conformidade, segundo o procedimento de avaliação da conformidade previsto no artigo 23.º do presente decreto-lei.
+
+2 - As avaliações da conformidade devem ser efectuadas de modo proporcionado, evitando encargos desnecessários para os operadores económicos. Os organismos de avaliação da conformidade devem exercer as suas actividades atendendo à dimensão, ao sector, à estrutura das empresas em questão, à complexidade relativa da tecnologia do brinquedo em causa e à natureza da produção em série ou em massa.
+
+Ao atenderem a estes factores, os referidos organismos devem, contudo, respeitar o grau de rigor e o nível de protecção exigido para que o brinquedo cumpra o disposto no presente decreto-lei.
+
+3 - Sempre que um organismo notificado verificar que os requisitos previstos no artigo 13.º e no anexo ii ao presente decreto-lei ou nas correspondentes normas harmonizadas não foram cumpridos pelo fabricante, deve exigir que este último tome as medidas correctivas adequadas e não pode emitir o certificado de exame «CE» de tipo, previsto no n.º 5 do artigo 23.º do presente decreto-lei.
+
+4 - Se, no decurso de uma avaliação da conformidade no seguimento da concessão de um certificado de exame «CE» de tipo, verificar que o brinquedo já não está conforme, o organismo notificado deve exigir que o fabricante tome as medidas correctivas adequadas e deve suspender ou retirar o certificado de exame «CE» de tipo, se necessário.
+
+5 - Se não forem tomadas medidas correctivas, ou se estas não tiverem o efeito exigido, o organismo notificado deve restringir, suspender ou retirar quaisquer certificados de exame «CE» de tipo, consoante o caso.
+
+## Parte E — Obrigações dos organismos notificados
+
+1 - Os organismos notificados devem comunicar à autoridade notificadora as seguintes informações:
+
+a) Qualquer recusa, restrição, suspensão ou retirada de certificados de exame «CE» de tipo;
+
+b) Quaisquer circunstâncias que afectem o âmbito e as condições de notificação;
+
+c) Quaisquer pedidos de informação sobre as actividades de avaliação da conformidade efectuadas, que tenham recebido das autoridades de fiscalização do mercado;
+
+d) Quando solicitados para o efeito, as actividades de avaliação da conformidade que desempenharam no âmbito da respectiva notificação e quaisquer outras actividades desempenhadas, incluindo actividades transfronteiriças e de subcontratação.
+
+2 - Os organismos notificados devem facultar aos outros organismos notificados, ao abrigo do presente decreto-lei, que efectuem actividades de avaliação da conformidade semelhantes abrangendo os mesmos brinquedos, as informações relevantes sobre questões relacionadas com resultados negativos e, a pedido, resultados positivos da avaliação da conformidade.

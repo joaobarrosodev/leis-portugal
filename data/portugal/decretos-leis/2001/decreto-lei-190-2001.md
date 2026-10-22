@@ -1,0 +1,337 @@
+---
+schema_version: '1.0'
+id: pt:dre:361505:por
+title: Decreto-Lei n.º 190/2001
+short_title: null
+summary: Aprova o Estatuto da Denominação de Origem Controlada (DOC) Douro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 190/2001
+official_date: null
+publication_date: '2001-06-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2001, Série I-A de 2001-06-25
+  number: '145'
+  series: I
+  supplement: null
+  pages: 3792 - 3796
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/06/145a00/37923796.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/190/2001/06/25/p/dre/pt/html
+  oj: null
+  dre: '361505'
+  dre_path: /dr/detalhe/decreto-lei/190-2001-361505
+  internal: pt:dre:361505:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2001-361505
+  metadata_url: https://data.dre.pt/eli/dec-lei/190/2001/06/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2001-361505
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-08-03T00:00:00Z'
+integrity:
+  source_sha256: ac122f8d4ff4cd2eae1fc5386ff32f113036463ca057a67fa9c6ca2f8cfffba1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-190-361505.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Interprofissional da Região Demarcada do Douro
+- Vinho
+- Denominação de Origem
+- Estatuto
+- Região Demarcada do Douro
+- Vinho do Porto
+relationships:
+- type: amended_by
+  target: pt:dre:493025:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/254/1998/08/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/254/1998/08/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/75/1995/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/75/1995/04/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/76/1995/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/76/1995/04/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/242/1998/04/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/242/1998/04/16/p/dre
+article_structure:
+  article_count: 18
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 190/2001
+
+de 25 de Junho
+
+A região vitivinícola do Douro foi demarcada e regulamentada há mais de dois séculos, tendo especialmente em atenção a disciplina, defesa e fomento do vinho generoso, que já então era exportado para vários mercados.
+
+Em 1907-1908 procedeu-se a uma profunda revisão da legislação vitivinícola portuguesa. Nesse contexto, oficializou-se um conjunto de regiões tradicionalmente produtoras de vinhos que se haviam afirmado, inclusive na Região Demarcada do Douro, com referência à qual, para além do vinho do Porto, cuja regulamentação relativa ao comércio é aprovada em Decreto de 27 de Novembro de 1908, se previram outros vinhos comercializados sob a designação «Douro».
+
+Todavia, esses vinhos, outrora chamados «vinhos de ramo», também vulgarmente conhecidos por «vinhos de pasto» ou de «consumo», só viriam de novo a ser considerados pelo [Decreto-Lei n.º 40278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40278-1955-236162), de 12 de Agosto de 1955, que definiu alguns princípios acerca da sua produção e comercialização, deixando para regulamentação complementar, que nunca foi publicada, importantes questões a considerar, pelo que não chegou a ter a esperada aplicação prática.
+
+Tal lacuna só viria a ser colmatada com a publicação da [Portaria n.º 1080/82](https://diariodarepublica.pt/dr/detalhe/portaria/1080-1982-377321), de 17 de Novembro, que reconheceu e regulamentou a chamada «denominação vinícola de origem Douro», reservada aos vinhos de consumo típicos regionais, brancos e tintos, bem como aos vinhos licorosos elaborados com base na casta Moscatel-Galego-Branco, tradicionalmente produzidos nesta região.
+
+No espírito do regime da lei quadro das regiões demarcadas vitivinícolas, constante da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, a Região Demarcada do Douro foi dotada com um novo quadro institucional, resultante da publicação dos Decretos-Leis n.os [74/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1995-224175), [75/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1995-224068) e [76/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1995-224070), todos de 19 de Abril, que, respeitando as suas especificidades históricas, culturais e sociais, criou a Comissão Interprofissional da Região Demarcada do Douro e redefiniu o quadro de atribuições e competências da Casa do Douro e do Instituto do Vinho do Porto.
+
+Com a publicação do [Decreto-Lei n.º 254/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1998-438066), de 11 de Agosto, estabeleceu-se a disciplina fundamental das denominações de origem controladas Porto e Douro reconhecidas na Região Demarcada do Douro e impôs-se a publicação de regulamentação específica para cada uma dessas denominações.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e do [Decreto-Lei n.º 254/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1998-438066), de 11 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Estatuto da DOC Douro
+
+É aprovado o Estatuto da Denominação de Origem Controlada (DOC) Douro, constante do anexo a este diploma de que faz parte integrante.
+
+###### Artigo 2.º — Comissão Interprofissional
+
+Relativamente ao Estatuto da DOC Douro, a Comissão Interprofissional da Região Demarcada do Douro (CIRDD) prossegue as atribuições e competências que lhe são conferidas pelo respectivo Estatuto, aprovado pelo [Decreto-Lei n.º 74/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1995-224175), de 19 de Abril, sem prejuízo da possibilidade de delegação daquelas competências noutras entidades mediante a celebração de protocolos.
+
+###### Artigo 3.º — Norma revogatória
+
+São revogadas as Portarias n.os [1080/82](https://diariodarepublica.pt/dr/detalhe/portaria/1080-1982-377321) e [242/98](https://diariodarepublica.pt/dr/detalhe/portaria/242-1998-173109), respectivamente de 17 de Novembro e de 16 de Abril.
+
+Visto e aprovado em Conselho de Ministros de 26 de Abril de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.
+
+**Promulgado em 4 de Junho de 2001.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 8 de Junho de 2001.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+## ANEXO — (a que se refere o artigo 1.º)
+
+Estatuto da Denominação de Origem Controlada Douro
+
+### CAPÍTULO I — Disposições gerais relativas à denominação de origem controlada Douro
+
+###### Artigo 1.º — Denominação de origem
+
+1 - É confirmada a denominação de origem controlada (DOC) Douro, ou Vinho do Douro, que pode ser utilizada pelos vinhos brancos, tintos e rosados, a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas (VQPRD), bem como pelos vinhos licorosos provenientes da casta Moscatel-Galego-Branco, a integrar na categoria de vinhos licorosos de qualidade produzidos em regiões determinadas (VLQPRD), e pelos vinhos espumantes, a integrar na categoria de vinhos espumantes de qualidade produzidos em regiões determinadas (VEQPRD), desde que satisfaçam o disposto no presente diploma e demais legislação aplicável.
+
+2 - A DOC Douro pode ainda ser utilizada pela aguardente produzida a partir de vinho produzido na área geográfica de produção da DOC Douro, desde que satisfaça o disposto no presente diploma e demais legislação aplicável.
+
+3 - É protegida a denominação «Moscatel do Douro», a qual deve ser utilizada para designar os vinhos licorosos com direito à denominação «Douro».
+
+4 - É proibida a utilização da DOC Douro em vinhos e produtos vínicos que não tenham direito ao uso desta denominação, designadamente em rótulos, etiquetas, documentos ou publicidade, mesmo quando a verdadeira origem dos produtos seja mencionada ou as palavras constitutivas daquela denominação sejam traduzidas ou acompanhadas de correctivos, tais como «género», «tipo», «qualidade», «rival de», «superior a», «estilo», «engarrafado em», ou outros análogos, bem como quando a utilização de nomes, marcas, termos, expressões ou símbolos seja susceptível de, pela sua similitude fonética ou gráfica com os protegidos neste diploma, criar confusão no consumidor.
+
+5 - A proibição estabelecida no número anterior é igualmente aplicável a produtos não vínicos quando a sua utilização procure, sem justo motivo, tirar partido indevido do carácter distintivo do prestígio de que goza a denominação de origem a que se aplica este diploma, ou possa prejudicá-los.
+
+6 - É proibida a reprodução da DOC Douro em dicionários, enciclopédias, obras de consulta semelhantes ou em publicidade, quando induza que ela constitui uma denominação genérica.
+
+7 - A DOC Douro a que se aplica o presente diploma é imprescritível e não pode tornar-se genérica.
+
+###### Artigo 2.º — Delimitação da região e sub-regiões de produção
+
+1 - A área geográfica da DOC Douro corresponde à referida no artigo 2.º do [Decreto-Lei n.º 254/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1998-438066), de 11 de Agosto.
+
+2 - Sem prejuízo do n.º 3 do artigo 2.º do [Decreto-Lei n.º 254/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1998-438066), de 11 de Agosto, são reconhecidas as sub-regiões Baixo Corgo, Cima Corgo e Douro Superior.
+
+3 - A delimitação da área geográfica das sub-regiões Baixo Corgo, Cima Corgo e Douro Superior corresponde, respectivamente, às áreas geográficas referidas nas alíneas a), b) e c) do n.º 1 do artigo 2.º do diploma acima referido.
+
+###### Artigo 3.º — Castas
+
+As castas a utilizar na elaboração dos vinhos e produtos vínicos com direito à DOC Douro são as que constam do anexo ao presente Estatuto.
+
+###### Artigo 4.º — Vinificação
+
+1 - Sem prejuízo do regime especialmente previsto no presente Estatuto para os vinhos licorosos elaborados a partir da casta Moscatel-Galego-Branco e para os vinhos espumantes, os métodos de vinificação a observar na elaboração dos vinhos susceptíveis de obtenção da DOC Douro são os seguintes:
+
+a) Para os vinhos brancos e rosados, o método de «bica aberta» com prensagem directa das uvas ou das massas esmagadas, com ou sem maceração pelicular;
+
+b) Para os vinhos tintos, o método de maceração clássica, caracterizado pelo contacto prolongado do mosto com as partes sólidas durante a fermentação:
+
+i) No caso dos vinhos com a menção «Novo» o método deve ser o de maceração parcial ou o de maceração carbónica, caracterizado pelo contacto das uvas inteiras em ambiente de dióxido de carbono, em recipiente fechado, seguido de extracção de mosto e fermentação em fase líquida.
+
+2 - Quando as condições climáticas da região o justifiquem, podem ser excepcionalmente autorizadas, sob proposta da Comissão Interprofissional da Região Demarcada do Douro, adiante designada por CIRDD, e dentro dos limites e condições estabelecidos pela regulamentação aplicável, as seguintes práticas enológicas:
+
+a) Aumento do título alcoométrico volúmico natural, através da adição de mosto de uvas concentrado rectificado, ou de mosto de uvas concentrado proveniente da Região Demarcada do Douro (RDD);
+
+b) Concentração parcial pelo vácuo, frio ou osmose inversa, de mostos oriundos da RDD.
+
+###### Artigo 5.º — Título alcoométrico volúmico natural mínimo
+
+Os mostos destinados à elaboração dos vinhos e produtos vínicos susceptíveis de obtenção da DOC Douro devem possuir o seguinte título alcoométrico volúmico natural mínimo:
+
+a) Vinho branco e rosado - 10,5% vol.;
+
+b) Vinho tinto - 11% vol.;
+
+c) Vinho licoroso «Moscatel do Douro» - 11% vol.;
+
+d) Vinho de base para espumante - 10% vol.;
+
+e) Vinho para a produção de aguardente de vinho - 9,5% vol.
+
+###### Artigo 6.º — Rendimento por hectare
+
+1 - O rendimento máximo por hectare das vinhas destinadas exclusivamente à produção de vinhos susceptíveis de obtenção da denominação de origem Douro é de 55 hl para os vinhos tintos e rosados e de 65 hl para os vinhos brancos e vinho moscatel.
+
+2 - De acordo com as condições climatéricas particulares e as qualidades dos mostos, o Instituto da Vinha e do Vinho (IVV), sob proposta da CIRDD, pode proceder a ajustamentos anuais do limite máximo do rendimento por hectare, o qual não pode exceder em caso algum a banda de 25% do rendimento previsto no número anterior.
+
+3 - Caso seja excedido o rendimento por hectare mencionado no número anterior, não há lugar à interdição de utilizar a denominação para a totalidade da colheita, até ao limite indicado nos números anteriores, sendo o excedente destinado à produção de vinho de mesa, desde que apresente as características definidas para esse vinho.
+
+###### Artigo 7.º — Características analíticas e organolépticas
+
+1 - Os vinhos com DOC Douro devem apresentar um título alcoométrico volúmico adquirido mínimo de:
+
+a) Vinhos brancos erosados - 10,5% vol.;
+
+b) Vinhos tintos - 11% vol.;
+
+c) Vinho licoroso «Moscatel do Douro» - 16,5% vol.;
+
+d) Vinhos espumantes - 11% vol.
+
+2 - Em relação aos restantes elementos, os vinhos devem apresentar as características gerais definidas para a categoria de vinhos onde se incluem.
+
+###### Artigo 8.º — Estágios
+
+Os vinhos engarrafados com DOC Douro, sem designação complementar, à excepção do «Moscatel do Douro» e do espumante, só podem ser comercializados a partir das seguintes datas:
+
+a) 15 de Novembro do ano de colheita, para os vinhos brancos e rosados;
+
+b) 15 de Maio do ano seguinte ao da colheita, para os vinhos tintos.
+
+###### Artigo 9.º — Regulamentação complementar
+
+Sem prejuízo do disposto no presente Estatuto e demais legislação em vigor, a CIRDD poderá definir, em regulamento interno, critérios e normas complementares de aplicação, específicas dos vinhos e produtos vínicos previstos neste diploma.
+
+### CAPÍTULO II — Dos vinhos licorosos com DOC Douro
+
+###### Artigo 10.º — Vinhos licorosos
+
+1 - A DOC Douro atribuída aos vinhos licorosos previstos no n.º 1 do artigo 1.º só pode ser utilizada para designar esses vinhos, através da expressão «Moscatel do Douro», prevista no n.º 3 do artigo 1.º
+
+2 - As parcelas com vinha destinadas à elaboração dos vinhos licorosos referidos no n.º 1 do artigo 1.º devem ser inscritas em registo apropriado da CIRDD, indicando, especificamente, a percentagem do povoamento da casta Moscatel-Galego-Branco.
+
+3 - A percentagem da casta Moscatel-Galego-Branco referida no número anterior é aplicável ao cálculo do quantitativo máximo de rendimento por hectare para a produção destes vinhos.
+
+4 - A vinificação deve atender às seguintes práticas enológicas:
+
+a) Na elaboração destes vinhos, devem seguir-se os métodos e práticas relativos aos vinhos de curtimenta;
+
+b) A aguardente de vinho deve ser utilizada para interromper a fermentação no momento e nas proporções adequadas à obtenção do grau de doçura desejado, não podendo, todavia, ultrapassar os 130 l de aguardente para 420 l de mosto;
+
+c) As aguardentes devem ser de origem vínica devendo satisfazer os requisitos fixados para a aguardente a utilizar no vinho do Porto e obedecer às características organolépticas e físico-químicas previstas na legislação em vigor, podendo a CIRDD estabelecer em regulamento interno medidas mais restritivas;
+
+d) As aguardentes acima referidas encontram-se sujeitas a contas correntes específicas.
+
+5 - O «Moscatel do Douro» deverá apresentar um título alcoométrico volúmico adquirido mínimo de 16,5% vol. e máximo de 22,0% vol.
+
+6 - O estágio mínimo será de 18 meses a partir da data de elaboração.
+
+### CAPÍTULO III — Dos espumantes com DOC Douro
+
+###### Artigo 11.º — Elaboração
+
+1 - O vinho espumante com direito à DOC Douro, previsto no n.º 1 do artigo 1.º, deve obedecer aos seguintes requisitos:
+
+a) O vinho de base utilizado na sua elaboração deve ser um vinho apto a ser reconhecido como um vinho DOC Douro em todas as suas características à excepção do título alcoométrico volúmico natural mínimo;
+
+b) Apresentar um título alcoométrico volúmico adquirido mínimo de 11% vol. antes da adição do licor de expedição;
+
+c) A 2.ª fermentação será obrigatoriamente realizada em garrafa.
+
+2 - A duração do processo de fabrico dos vinhos espumantes é contada a partir da 2.ª fermentação, não podendo ser inferior a nove meses.
+
+### CAPÍTULO IV — Das aguardentes de vinho com DOC Douro
+
+###### Artigo 12.º — Aguardentes de vinho
+
+1 - A produção de aguardentes de vinho com direito à denominação de origem Douro, previstas no n.º 2 do artigo 1.º, deve resultar da destilação de vinho apto a ser reconhecido como um vinho DOC Douro em todas as suas características à excepção do título alcoométrico volúmico natural mínimo.
+
+2 - A DOC Douro atribuída às aguardentes de vinho, só pode ser utilizada para designar esse produto, desde que associada à menção «Aguardente de vinho».
+
+3 - A destilação de vinhos para a produção de aguardentes de vinho com direito a DOC Douro deve ser efectuada antes de 1 de Abril do ano seguinte ao da elaboração do vinho, em instalações devidamente aprovadas para o efeito pela CIRDD.
+
+4 - As características físico-químicas e organolépticas devem cumprir com as disposições gerais, podendo a CIRDD por regulamento interno estabelecer medidas mais restritivas.
+
+### CAPÍTULO V — Da actividade comercial
+
+###### Artigo 13.º — Inscrição de entidades
+
+Sem prejuízo de outras disposições legais aplicáveis, todas as entidades que se dediquem à produção ou comercialização dos vinhos e de outros produtos vínicos abrangidos por este Estatuto, excluída a distribuição dos produtos engarrafados e a venda a retalho, devem estar inscritas, bem como as respectivas instalações, em registo apropriado da CIRDD.
+
+###### Artigo 14.º — Circulação e documentação de acompanhamento
+
+Sem prejuízo das demais exigências legalmente estabelecidas, os vinhos e produtos vínicos a que se refere o presente Estatuto só podem ser postos em circulação e comercializados desde que acompanhados da necessária documentação oficial onde conste a DOC Douro.
+
+###### Artigo 15.º — Engarrafamento, certificação e rotulagem
+
+1 - O engarrafamento e acondicionamento para venda, ou introdução no consumo, dos vinhos e produtos vínicos a que se refere o presente Estatuto só pode ser efectuado após a sua aprovação pela CIRDD.
+
+2 - A venda ou introdução no consumo dos vinhos e produtos vínicos já engarrafados referidos neste Estatuto só pode ocorrer após certificação pela CIRDD, comprovada pela aposição do selo de garantia.
+
+3 - A rotulagem a utilizar, para além de ter de respeitar as disposições legais e regulamentares em vigor, tem previamente de ser apresentada à CIRDD, para aprovação final.
+
+4 - A referência ao ano de colheita na rotulagem deve estar de acordo com as disposições legais em vigor, considerando-se, para os vinhos espumantes, o ano de colheita do vinho de base e, para as aguardentes, o ano da destilação.
+
+5 - A possibilidade de referência a uma ou duas castas na rotulagem obriga a uma prévia aprovação, com base em análise organoléptica ou físico-química, para além do cumprimento das disposições legais em vigor.
+
+6 - Só é admissível a indicação na rotulagem de uma das sub-regiões referidas no n.º 4 do artigo 1.º desde que os vinhos ou produtos vínicos sejam provenientes de uvas exclusivamente originárias dessa área geográfica.
+
+7 - A designação a que se refere o número anterior é obrigatória e imediatamente antecedida da palavra «sub-região», expressa em caracteres do mesmo tipo, cor e dimensão.
+
+8 - A venda ou introdução no consumo dos vinhos e produtos vínicos a que se refere o presente Estatuto é efectuada em garrafas de capacidade igual ou inferior a dois litros.
+
+9 - Sem prejuízo do disposto no número anterior, em casos devidamente justificados, nomeadamente para acções de promoção específicas, a CIRDD pode previamente autorizar, a requerimento dos interessados, o acondicionamento em garrafas de maior capacidade.
+
+## Anexo a que se refere o artigo 3.º do Estatuto da Denominação de Origem Controlada Douro
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/145a00/37923796.pdf)

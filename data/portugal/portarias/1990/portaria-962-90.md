@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:555638:por
+title: Portaria n.º 962/90
+short_title: null
+summary: Aprova o Regulamento Geral do Controlo Metrológico. Revoga a Portaria n.º 924/83, de 11 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 962/90
+official_date: null
+publication_date: '1990-10-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 233/1990, Série I de 1990-10-09
+  number: '233'
+  series: I
+  supplement: null
+  pages: 4182 - 4185
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23300/41824185.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '555638'
+  dre_path: /dr/detalhe/portaria/962-1990-555638
+  internal: pt:dre:555638:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/962-1990-555638
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/962-1990-555638
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-08-23T00:00:00Z'
+integrity:
+  source_sha256: 9153070c96e6142d4a6afbda7cd231ea3bfa40039bbe0f2ad3a8f2dd89cbd767
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-962-555638.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:200139611:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 962/90
+
+de 9 de Outubro
+
+Tendo em vista a regulamentação das condições gerais a observar no exercício do controlo metrológico a que se refere o [Decreto-Lei n.º 291/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1990-557469), de 20 de Setembro, e ao abrigo do artigo 15.º do mesmo diploma:
+
+Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
+
+1.º É aprovado o Regulamento Geral do Controlo Metrológico, anexo à presente portaria e que dela faz parte integrante.
+
+2.º É revogada a [Portaria n.º 924/83](https://diariodarepublica.pt/dr/detalhe/portaria/924-1983-441324), de 11 de Outubro.
+
+Ministério da Indústria e Energia.
+
+**Assinada em 24 de Setembro de 1990.**
+
+**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+
+Regulamento Geral do Controlo Metrológico
+
+I - Disposições gerais
+
+1 - O controlo metrológico ora regulamentado aplica-se aos métodos de medição e aos instrumentos de medição nacionais ou importados, novos ou cujo controlo efectuado ao abrigo de anterior legislação tenha caducado.
+
+1.1 - O controlo metrológico efectuado pelas entidades competentes tem valor para todo o território nacional durante o seu prazo de validade e será atestado nos instrumentos de medição, mediante marcação dos símbolos adiante caracterizados.
+
+1.2 - Regulamentos específicos de cada categoria de instrumentos de medição estabelecerão eventuais condições particulares a observar na aprovação de modelo, primeira verificação, verificação periódica e verificação extraordinária respectivas.
+
+2 - Os fabricantes, importadores, reparadores ou utilizadores deverão requerer em impresso próprio, às entidades competentes, cada uma das operações de controlo metrológico a que os instrumentos de medição estão submetidos, indicando, nomeadamente, a identificação e localização do requerente, a identificação do instrumento, a utilização a que se destina, a designação comercial e a operação metrológica requerida.
+
+2.1 - Os regulamentos específicos de cada categoria de instrumentos de mediação indicarão eventuais requisitos complementares, a satisfazer no acto de requerimento das diferentes operações.
+
+II - Reparadores e instaladores
+
+3 - Os reparadores ou instaladores de instrumentos de medição carecem de qualificação devendo requerer ao Instituto Português da Qualidade (IPQ) o seu reconhecimento e consequente atribuição de uma marca de identificação própria para aposição nos instrumentos.
+
+3.1 - A instrução do processo de reconhecimento da qualificação obedecerá a regulamento próprio.
+
+3.2 - A marca de identificação a colocar nos instrumentos compreenderá o símbolo do reparador ou instalador e os dois últimos dígitos do ano em que se realiza a operação.
+
+III - Aprovação de modelo
+
+4 - A aprovação de modelo de instrumentos de medição ou de dispositivos complementares será efectuada ao abrigo da regulamentação específica nacional ou ao abrigo de directiva da Comunidade Económica Europeia (CEE) que o prescreva para a respectiva categoria, se o interessado assim o requerer.
+
+4.1 - Entende-se por modelo de um instrumento de medição o instrumento cujos elementos que caracterizam a qualidade metrológica estão convenientemente definidos e ao qual correspondem instrumentos fabricados idênticos nas suas dimensões, construção, materiais e tecnologia, podendo, no entanto, o mesmo modelo possuir diferentes alcances de medição.
+
+4.2 - Entende-se por dispositivos complementares os dispositivos que, não constituindo em si mesmos instrumentos de medição, servem para manter as grandezas medidas ou de influência em valores convenientes, para facilitar as operações de medição ou para alterar a sensibilidade ou o alcance do instrumento que complementam.
+
+4.3 - O requerimento de aprovação de modelo deverá ser acompanhado de memória descritiva, desenhos e fotografia em duplicado, que esclareçam a sua constituição, construção, montagem e funcionamento (em especial, os relativos aos dispositivos de segurança), regulação e afinação, os locais previstos para a colocação dos símbolos de controlo metrológico e outros requisitos estabelecidos em regulamentos específicos.
+
+4.4 - Para a aprovação de modelo deverão ser entregues um ou mais exemplares, de acordo com disposições regulamentares específicas.
+
+4.5 - O requerimento de aprovação complementar deverá ser acompanhado, além de um ou mais exemplares do modelo a que respeita de memória descritiva, desenhos ou fotocópias esclarecedores das alterações introduzidas.
+
+5 - O IPQ procederá à aprovação de modelos, realizando ou superintendendo na realização dos estudos e ensaios necessários à verificação das características e qualidade metrológicas, utilizando, para o efeito, os meios disponíveis no laboratório central ou nos laboratórios oficiais ou outros devidamente reconhecidos.
+
+5.1 - O IPQ emitirá despacho de aprovação de modelo, que será publicado no Diário da República a expensas do interessado.
+
+5.2 - O despacho de aprovação indicará os fundamentos da aprovação do modelo, as condições a respeitar na sua utilização e o respectivo prazo de validade.
+
+5.3 - Os despachos de aprovação de modelos de dispositivos complementares deverão fixar os modelos dos instrumentos a que podem ser aplicados e as respectivas condições gerais de funcionamento.
+
+5.4 - As aprovações CEE de modelo serão certificadas e publicitadas nos termos previstos nas directivas aplicáveis.
+
+6 - A cada aprovação corresponderá um depósito de modelo, em termos a definir no regulamento específico ou no despacho de aprovação respectivo.
+
+7 - À aprovação de modelo corresponderá uma marcação em todos os instrumentos do mesmo modelo de acordo com as seguintes regras:
+
+a) Símbolo de aprovação aposto em local próprio, acompanhado dos dois últimos dígitos do ano de aprovação e de um número característico a estabelecer pelo IPQ, para as aprovações nacionais, conforme o anexo I;
+
+b) Símbolos e respectivas indicações numéricas aplicáveis, para as aprovações ao abrigo de directiva CEE, conforme o anexo II.
+
+7.1 - A aposição do símbolo de aprovação é da responsabilidade do fabricante ou importador e deverá ser visível, legível e indelével.
+
+IV - Primeira verificação
+
+8 - A primeira verificação dos instrumentos de medição será efectuada nos termos aplicáveis à respectiva categoria, quer em instrumentos de modelo de aprovação nacional, quer de aprovação CEE ou desta dispensados.
+
+8.1 - A primeira verificação será efectuada pelo IPQ, pelas delegações regionais, mediante delegação, ou por entidades para o efeito reconhecidas, sem prejuízo do que vier a ser estabelecido em regulamentos específicos.
+
+9 - A primeira verificação pode efectuar-se em uma ou várias fases (em geral duas). Sempre que o instrumento constitua um todo à saída da fábrica, efectua-se numa única fase.
+
+9.1 - A primeira verificação dos instrumentos pode ser efectuada de forma não sistemática nos casos previstos na regulamentação ou directivas aplicáveis à respectiva categoria.
+
+10 - Os fabricantes, importadores e reparadores deverão conservar as folhas de registo dos ensaios correspondentes à primeira verificação durante o prazo de validade da aprovação de modelo.
+
+11 - O símbolo da primeira verificação constará:
+
+a) Dos dois últimos dígitos do ano em que se executa a operação, com o último algarismo envolvido por uma semicircunferência conforme o desenho do anexo III, para a verificação nacional;
+
+b) Da marca composta por uma letra «e» minúscula e um hexágono com inscrições alfanuméricas conforme o anexo III, para a verificação CEE.
+
+11.1 - Os símbolos serão colocados pelos serviços competentes em todos os instrumentos abrangidos pela verificação.
+
+V - Verificação periódica
+
+12 - A verificação periódica será efectuada pelo IPQ, pelas delegações regionais ou por entidades reconhecidas para o efeito, conforme for determinado em regulamentos específicos.
+
+13 - A verificação periódica deverá ser efectuada consoante a periodicidade estabelecida em regulamentos específicos entre 1 de Janeiro e 30 de Novembro do ano a que respeite.
+
+14 - Os utilizadores deverão requerer à entidade competente a verificação periódica nos seguintes casos:
+
+Início de actividade do utilizador;
+
+Aquisição de instrumentos novos ou usados;
+
+Instrumentos cujas marcações tenham sido inutilizadas;
+
+Instrumentos cuja verificação periódica no ano em causa não tenha sido executada até 30 de Novembro;
+
+Quando os regulamentos específicos de categoria de instrumento de medição assim o determinem.
+
+14.1 - Os instrumentos que se destinem a utilização em vários locais pertencentes a diferentes regiões devem ser submetidos a verificação periódica em apenas um dos locais de utilização.
+
+15 - À verificação periódica corresponde um símbolo constituído pelos dois últimos dígitos do ano envolvidos por duas semicircunferências, conforme o desenho do anexo IV.
+
+15.1 - O símbolo será aplicado pelos serviços competentes em todos os instrumentos abrangidos pela verificação.
+
+16 - À rejeição de qualquer instrumento na verificação periódica corresponderá a obliteração do respectivo símbolo, por sobreposição da letra maiúscula «X», conforme o desenho do anexo V.
+
+VI - Verificação extraordinária
+
+17 - À verificação extraordinária corresponde um símbolo idêntico ao da verificação periódica, seguido da letra maiúscula «E», conforme o desenho do anexo VI.
+
+18 - À rejeição do instrumento na verificação extraordinária corresponderá procedimento idêntico ao estabelecido para a rejeição na verificação periódica.
+
+VII - Disposições finais
+
+19 - Todos os instrumentos deverão possuir identificação que contenha, para além das características, eventuais condições a respeitar na sua utilização.
+
+19.1 - Qualquer que seja a origem dos instrumentos, nacional ou importada, aquela identificação deve ser redigida em português.
+
+20 - Os fabricantes, importadores e utilizadores deverão conservar os instrumentos de medição em bom estado de funcionamento e manter os documentos comprovativos do controlo metrológico junto dos respectivos instrumentos.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23300/41824185.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23300/41824185.pdf)

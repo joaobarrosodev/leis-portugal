@@ -1,0 +1,1434 @@
+---
+schema_version: '1.0'
+id: pt:dre:207942899:por
+title: Portaria n.º 54-E/2023
+short_title: null
+summary: Estabelece o regime de aplicação dos apoios a conceder ao abrigo do artigo 31.º do Regulamento (UE) 2021/2115, do
+  Parlamento e Europeu e do Conselho, no que se refere à aplicação do Domínio «Sustentabilidade - Ecorregime» do Eixo «A -
+  Rendimento e sustentabilidade» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 54-E/2023
+official_date: null
+publication_date: '2023-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
+  number: '41'
+  series: I
+  supplement: 1º Suplemento
+  pages: 332-(164) a 332-(221)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0016400221.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-01'
+version_history:
+  file: portaria-54-e-2023.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2022-06-26'
+    amending: pt:dre:214724645:por
+    amending_title: Portaria n.º 175/2023
+    changes:
+    - Altera Artigo 55.º
+  - date: '2023-07-08'
+    amending: pt:dre:215375646:por
+    amending_title: Portaria n.º 194-B/2023
+    changes:
+    - Altera Artigo 57.º
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo XII
+  - date: '2023-10-09'
+    amending: pt:dre:222477732:por
+    amending_title: Portaria n.º 303-A/2023
+    changes:
+    - Altera Artigo 57.º
+  - date: '2023-10-20'
+    amending: pt:dre:222939646:por
+    amending_title: Portaria n.º 314/2023
+    changes:
+    - Adita Artigo 5.º-A
+  - date: '2024-03-05'
+    amending: pt:dre:854130987:por
+    amending_title: Portaria n.º 80-C/2024/1
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 30.º
+    - Altera Artigo 33.º
+    - Altera Artigo 48.º
+    - Altera Artigo 51.º
+    - Altera Artigo 57.º
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo VI
+    - Altera Anexo X
+    - Altera Anexo XI
+    - Altera Anexo XII
+    - Altera Anexo XIII
+  - date: '2024-05-03'
+    amending: pt:dre:863401418:por
+    amending_title: Portaria n.º 153/2024/1
+    changes:
+    - Altera Artigo 57.º
+  - date: '2024-05-25'
+    amending: pt:dre:865926874:por
+    amending_title: Portaria n.º 155-A/2024/1
+    changes:
+    - Altera Artigo 57.º
+    - Altera Anexo XIV
+  - date: '2024-12-31'
+    amending: pt:dre:901536093:por
+    amending_title: Portaria n.º 361/2024/1
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 31.º
+    - Altera Artigo 48.º
+    - Altera Artigo 51.º
+    - Altera Artigo 55.º
+    - Altera Artigo 57.º
+    - Altera Anexo V
+    - Altera Anexo XI
+    - Altera Anexo XII
+    - Altera Anexo XIII
+    - Revoga Capítulo II
+    - Revoga Capítulo III
+    - Revoga Anexo III
+    - Revoga Anexo IV
+    - Revoga Anexo VI
+  - date: '2025-04-21'
+    amending: pt:dre:915381302:por
+    amending_title: Portaria n.º 196/2025/1
+    changes:
+    - Altera Artigo 57.º
+  - date: '2026-01-01'
+    amending: pt:dre:993315590:por
+    amending_title: Portaria n.º 482-A/2025/1
+    changes:
+    - Adita Artigo 56.º-A
+    - Adita Anexo XVI
+    - Altera Artigo 25.º
+    - Altera Artigo 33.º
+    - Altera Artigo 55.º
+    - Altera Artigo 57.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/54-e/2023/p/cons/20260227/pt/html
+  oj: null
+  dre: '207942899'
+  dre_path: /dr/detalhe/portaria/54-e-2023-207942899
+  internal: pt:dre:207942899:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899
+  metadata_url: https://data.dre.pt/eli/port/54-e/2023/p/cons/20260227/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-214780913
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-214780913
+  retrieved_at: '2026-10-22T12:57:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 75b42e239fdf49dafd5c57541da3f408768d6911bc2b452df719a645a8dd9795
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:57:36Z'
+  notes: 10 versão(ões); histórico completo em portaria-54-e-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- GADO
+- Beneficiário
+- Regulamentação de Atos Legislativos
+- Agricultura Biológica
+- Exploração Pecuária
+- Fundos CE
+- IFAP
+- Exploração Agrícola
+- Agricultor
+- Regulamento CE
+- Plano Estratégico da Política Agrícola Comum para Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:214724645:por
+  label: Altera Artigo 55.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/175-2023-214724645
+  date: '2023-06-23'
+- type: amended_by
+  target: pt:dre:215375646:por
+  label: Altera Artigo 57.º; Altera Anexo III; Altera Anexo IV; Altera Anexo XII
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646
+  date: '2023-07-07'
+- type: amended_by
+  target: pt:dre:222477732:por
+  label: Altera Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732
+  date: '2023-10-06'
+- type: amended_by
+  target: pt:dre:222939646:por
+  label: Adita Artigo 5.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646
+  date: '2023-10-19'
+- type: amended_by
+  target: pt:dre:854130987:por
+  label: Altera Artigo 19.º; Altera Artigo 30.º; Altera Artigo 33.º; Altera Artigo 48.º; Altera Artigo 51.º; Altera Artigo
+    57.º; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo VI; Altera Anexo X; Altera Anexo XI; Altera Anexo
+    XII; Altera Anexo XIII
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987
+  date: '2024-03-04'
+- type: amended_by
+  target: pt:dre:863401418:por
+  label: Altera Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/153-2024-863401418
+  date: '2024-05-02'
+- type: amended_by
+  target: pt:dre:865926874:por
+  label: Altera Artigo 57.º; Altera Anexo XIV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2024-865926874
+  date: '2024-05-24'
+- type: amended_by
+  target: pt:dre:901536093:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo 31.º; Altera Artigo 48.º;
+    Altera Artigo 51.º; Altera Artigo 55.º; Altera Artigo 57.º; Altera Anexo V; Altera Anexo XI; Altera Anexo XII; Altera
+    Anexo XIII; Revoga Capítulo II; Revoga Capítulo III; Revoga Anexo III; Revoga Anexo IV; Revoga Anexo VI
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093
+  date: '2024-12-30'
+- type: amended_by
+  target: pt:dre:915381302:por
+  label: Altera Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/196-2025-915381302
+  date: '2025-04-17'
+- type: amended_by
+  target: pt:dre:993315590:por
+  label: Adita Artigo 56.º-A; Adita Anexo XVI; Altera Artigo 25.º; Altera Artigo 33.º; Altera Artigo 55.º; Altera Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590
+  date: '2025-12-31'
+- type: cites
+  target: celex:32021R2115
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2115/oj
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2116/oj
+- type: cites
+  target: celex:32099R1099
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/142/2006/07/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/142/2006/07/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/256/2009/09/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/256/2009/09/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/37/2013/03/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2013/03/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/164/2010/03/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/164/2010/03/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/259/2012/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/259/2012/08/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/79/2022/02/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/79/2022/02/03/p/dre
+article_structure:
+  article_count: 60
+  section_count: 28
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:57:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 54-E/2023
+
+Portaria n.º 54-E/2023
+
+de 27 de fevereiro
+
+Sumário: Estabelece o regime de aplicação dos apoios a conceder ao abrigo do artigo 31.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à aplicação do Domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+
+A reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).
+
+O PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.
+
+O Plano Estratégico da Política Agrícola Comum de Portugal, «PEPAC Portugal», foi aprovado pela Comissão Europeia através da Decisão da Comissão n.º C (2022) 6019, de 31 de agosto de 2022, vigorando no período de 2023-2027.
+
+A PAC deve garantir a segurança alimentar, através do acesso a alimentos suficientes, seguros e nutritivos e deve, igualmente, contribuir para o desenvolvimento de uma agricultura ambientalmente sustentável, através da concessão de apoios ao nível das intervenções de pagamentos diretos para regimes ecológicos.
+
+Neste contexto, são estabelecidos os regimes ecológicos, com o fim de promover a transição ambiental e climática do sector agrícola e melhorar o desempenho da agricultura em termos ambientais, climáticos, bem-estar dos animais e combate à resistência antimicrobiana.
+
+De forma a contribuir para uma melhor resposta às exigências dos consumidores nos domínios da alimentação, saúde, ambiente e bem-estar animal, os regimes ecológicos encontram-se alinhados com os objetivos do Green Deal (Pacto Ecológico), apoiando os produtores na adoção de modos de produção mais sustentáveis, nomeadamente na conversão de sistemas de agricultura e pecuária convencionais para a produção biológica e na sua manutenção neste modo de produção, na adoção de práticas de produção integrada nas culturas agrícolas bem como, na adoção de práticas adequadas a uma melhor gestão dos prados e pastagens permanentes assim como na valorização da fertilização orgânica proveniente da pecuária.
+
+No âmbito da produção animal, são promovidas as boas práticas de eficiência alimentar animal, a melhoria do bem-estar dos animais nas explorações em regime intensivo e uma utilização mais racional de antimicrobianos.
+
+Neste termos, cumpre estabelecer as normas nacionais de aplicação dos regimes ecológicos.
+
+Assim:
+
+Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece o regime de aplicação dos apoios a conceder ao abrigo do artigo 31.º do Regulamento (UE) 2021/2115, do Parlamento e Europeu e do Conselho, no que se refere à aplicação do Domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+
+###### Artigo 2.º — Âmbito
+
+Os regimes ecológicos para o clima, o ambiente e o bem-estar dos animais incluem as seguintes intervenções:
+
+a) Agricultura biológica (Conversão e Manutenção);
+
+b) Produção integrada (PRODI) - Culturas agrícolas;
+
+c) Maneio da pastagem permanente;
+
+d) Promoção da fertilização orgânica;
+
+e) Melhorar a eficiência alimentar animal para redução das emissões de gases com efeitos de estufa;
+
+f) Bem-estar animal e Uso racional de antimicrobianos;
+
+g) Práticas promotoras da biodiversidade.
+
+###### Artigo 3.º — Definições
+
+1 - Para efeitos de aplicação da presente portaria, para além das definições constantes do artigo 3.º do Regulamento (UE) 2021/2115, entende-se por:
+
+a) «Animais em pastoreio» ou «efetivo pecuário em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;
+
+b) «Assistência técnica», o apoio prestado por técnico com formação específica para o exercício da atividade de apoio técnico, mediante contrato de prestação de serviços celebrado com associações de agricultores, organizações de produtores ou cooperativas;
+
+c) «Atividade agrícola», a produção, ou a manutenção de uma superfície agrícola num estado que a torne adequada para pastoreio ou cultivo sem ação preparatória especial para além dos métodos e máquinas agrícolas habituais;
+
+d) «Cabeça normal (CN)», unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva, relativamente às necessidades alimentares e à produção de efluentes pecuários, de que resulta a tabela de conversão que consta do anexo I à presente portaria, da qual faz parte integrante;
+
+e) «Culturas de regadio ou irrigadas», as culturas servidas por instalações permanentes, fixas ou móveis, ligadas a um sistema de adução de água criado para fins de irrigação que assegurem as necessidades hídricas das culturas instaladas;
+
+f) «Exploração agrícola», o conjunto de subparcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;
+
+g) «Hectare elegível», o hectare da subparcela que respeita as condições previstas no artigo 5.º do diploma que estabelece as normas nacionais de aplicação das intervenções de pagamentos diretos dissociados.
+
+h) «Organismo de Controlo e Certificação» (OC), a entidade acreditada pelo Instituto Português de Acreditação, I. P. (IPAC) no âmbito da Norma NP ISO/IEC 17065 e reconhecida pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios ou superfícies no âmbito da legislação que regula o reconhecimento de organismos de controlo aplicável a cada um dos respetivos regimes;
+
+i) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no Sistema de identificação parcelar (iSIP), classificada em função da categoria de ocupação de solo;
+
+j) «Período de retenção», o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril para bovinos, ovinos e caprinos, e compreendido entre 1 de janeiro e 31 de dezembro para suínos e equídeos;
+
+k) «Plano de alimentação», documento com identificação das necessidades alimentares do efetivo de bovinos de carne, de acordo com conteúdo mínimo previsto no anexo IX, da presente portaria, da qual faz parte integrante;
+
+l) «Produção», a produção, criação ou cultivo de produtos agrícolas, incluindo colheita, ordenha, criação de animais, e detenção de animais para fins de produção;
+
+m) «Produção pecuária intensiva», conceito de acordo com o constante no Decreto-Lei n.º 81/2013 de 14 de junho;
+
+n) «Sementeira direta», técnica de instalação de cultura por sementeira, com recurso a semeadores que permitem numa só passagem abrir o sulco, depositar e enterrar a semente, sem qualquer mobilização prévia do terreno;
+
+o) «Subparcela», a porção contínua de terreno homogénea com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma, tal como definido no iSIP;
+
+p) «Superfície agrícola», qualquer superfície de terras aráveis, prados e pastagens permanentes, ou culturas permanentes;
+
+q) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes sem predominância de vegetação arbustiva e superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio.
+
+r) ‘Biorresíduo de origem agrícola’, a definir em orientação técnica específica pela Autoridade de Gestão Nacional.
+
+2 - Para efeitos da alínea e) do número anterior, o equipamento de irrigação deve estar dimensionado para a superfície a regar, sendo a tecnologia de rega adequada à cultura e ao seu correto desenvolvimento vegetativo, de forma a possibilitar uma distribuição regular de água em toda a superfície em tempo oportuno, ou seja, para que a cultura instalada não apresente carência hídrica.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 4.º — Agricultor ativo
+
+1 - Entende-se por «agricultor ativo», o agricultor, na aceção do artigo 3.º do Regulamento (UE) 2021/2115, e que exerce atividade agrícola em território continental, assumindo o risco de gestão associado a essa atividade agrícola, e que respeita as seguintes condições:
+
+a) Encontra-se inscrito no registo do agricultor no IFAP, I. P., designadamente no sistema de identificação do beneficiário (IB);
+
+b) Encontra-se inscrito na Autoridade Tributária, com Número de Identificação Fiscal (NIF) e, no caso de pessoa coletiva, detém Classificação de Atividade Económica (CAE) agrícola ou florestal;
+
+c) Detém subparcelas elegíveis inscritas no iSIP ou marca de exploração no âmbito do Sistema Nacional de Identificação e Registo Animal (SNIRA);
+
+d) Nas situações em que não haja atividade agrícola produtiva, detém evidências de nível mínimo de atividade agrícola não produtiva.
+
+2 - Para efeitos da aferição do nível mínimo de atividade agrícola não produtiva referido na alínea d) do número anterior, são consideradas operações de manutenção da superfície agrícola em condições adequadas para o pastoreio ou o cultivo, sem intervenção preparatória especial, para além do uso dos métodos e máquinas agrícolas habituais, nomeadamente pela apresentação das seguintes evidências:
+
+a) Realização de operações de controlo de vegetação lenhosa ou arbustiva nas subparcelas de prado e pastagem permanente, superfície forrageira temporária espontânea ou pousio;
+
+b) Realização de operações de preparação de instalação de culturas permanentes e de prados e pastagens;
+
+c) Realização de operações de manutenção de culturas permanentes, nomeadamente podas e desramações.
+
+3 - Para efeitos da alínea a) do número anterior, no caso das áreas inseridas em baldio, o nível mínimo de atividade agrícola deve ser evidenciado através de prática local de pastoreio por efetivos pecuários de ruminantes e equídeos, devendo, para esse efeito, os compartes estarem associados à marca de exploração do baldio ou terem marca de exploração associada à marca de exploração do baldio.
+
+4 - São, ainda, considerados agricultores ativos, os agricultores que tenham, no ano anterior ao ano do pedido, apresentado candidatura no âmbito de pagamentos diretos e um montante de pagamentos diretos que não exceda os 2.000 (euro).
+
+###### Artigo 5.º — Beneficiários
+
+Podem beneficiar dos apoios previstos na presente portaria, os agricultores ativos que cumpram os critérios de elegibilidade previstos no âmbito da intervenção a que se candidatem.
+
+###### Artigo 5.º-A — Exclusão de critério de elegibilidade
+
+Os beneficiários dos apoios previstos na presente portaria encontram-se isentos do critério de elegibilidade previsto na alínea b) do n.º 7 do Decreto-Lei n.º 12/2023, de 24 de fevereiro.
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 314/2023 - Diário da República n.º 203/2023, Série I de 2023-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646), em vigor a partir de 2023-10-20, produz efeitos a partir de 2023-02-28
+
+###### Artigo 6.º — Requisitos mínimos
+
+Os beneficiários das intervenções previstas na presente portaria são obrigados a cumprir na exploração agrícola, os requisitos mínimos relativos à utilização de fertilizantes e produtos fitofarmacêuticos, bem-estar dos animais e outros requisitos obrigatórios a serem definidos em orientação técnica transversal pela Autoridade de Gestão Nacional relativos à legislação nacional prevista no anexo II da presente portaria, da qual faz parte integrante.
+
+###### Artigo 7.º — Duração dos compromissos
+
+A duração dos compromissos previstos na presente portaria tem periodicidade anual, com efeitos a partir de 1 de janeiro do ano de candidatura até 31 de dezembro.
+
+###### Artigo 8.º — Partilha de dados entre beneficiários e a administração
+
+1 - A partilha de dados prevista na presente portaria corresponde a dados não pessoais relativos à atividade e à exploração agrícola relevantes para a promoção da digitalização da agricultura, e não se destinam a qualquer atividade de controlo ou fiscalização.
+
+2 - Os dados partilhados devem ser tornados acessíveis de forma aberta, de modo a permitir a sua utilização, nomeadamente para estudos, monitorização e avaliação de políticas públicas.
+
+3 - Os dados a partilhar são estabelecidos em orientação técnica transversal da Autoridade de Gestão Nacional e os mecanismos de interoperabilidade entre as aplicações informáticas dos agricultores e o SI do IFAP, I. P. necessários a essa partilha são assegurados pelo IFAP, I. P.
+
+4 - Os dados a partilhar e a sua disponibilização pública estão sujeitos a parecer vinculativo do Conselho Consultivo para a promoção da Digitalização da Agricultura (CCDA), a criar por despacho do membro do governo responsável pela área da agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 9.º — Cumulação de apoios
+
+As regras de cumulação dos apoios previstos nas intervenções da presente portaria são estabelecidas em diploma próprio.
+
+### Capítulo II — Agricultura biológica - Conversão e Manutenção
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 10.º — Objetivos
+
+A intervenção prevista no presente capítulo tem como objetivo apoiar os sistemas de agricultura e pecuária convencional na conversão para o modo de produção biológico ou a sua manutenção no referido modo de produção.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 11.º — Âmbito geográfico de aplicação
+
+O âmbito geográfico de aplicação da intervenção prevista no presente capítulo abrange todo o continente.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 12.º — Critérios de elegibilidade
+
+Os beneficiários da intervenção prevista no presente capítulo devem cumprir as seguintes condições:
+
+a) Ter submetido até ao primeiro dia útil do ano da candidatura a notificação relativa à agricultura biológica de superfícies ou animais junto da DGADR;
+
+b) Candidatar animais das espécies bovina, ovina e caprina, ou uma superfície agrícola mínima elegível de 0,5 hectares;
+
+c) Respeitar as seguintes densidades mínimas por subparcela, no caso de culturas permanentes:
+
+i) 200 árvores por hectare no caso de pomóideas, citrinos, prunóideas, exceto cerejeira;
+
+ii) 400 plantas por hectare no caso de actinídeas e medronheiros;
+
+iii) 80 árvores por hectare no caso de outros frutos frescos, sabugueiro e cerejeira;
+
+iv) 45 árvores por hectare no caso do olival e frutos secos, com exceção do castanheiro e pinheiro-manso com 25 árvores por hectare e alfarrobeira com 30 árvores por hectare;
+
+v) 2 000 plantas por hectare no caso de physalis e pitaya;
+
+vi) 2 000 cepas por hectare no caso de vinha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1 000 cepas por hectare;
+
+vii) 1 000 plantas por hectare no caso de pequenos frutos, exceto sabugueiro e medronheiro;
+
+viii) 200 palmas por hectare no caso de figueira-da-índia.
+
+d) Submeter as subparcelas agrícolas candidatas e os animais candidatos ao sistema de controlo por um OC reconhecido e acreditado para o efeito, tendo a área identificada no iSIP e os animais identificados no SNIRA;
+
+e) Deter formação específica homologada em agricultura biológica.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 13.º — Compromissos dos beneficiários
+
+1 - Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:
+
+a) Manter os critérios de elegibilidade;
+
+b) Manter as subparcelas agrícolas e os animais sob compromisso em modo de produção biológico;
+
+c) Manter registo atualizado das operações culturais efetuadas nas subparcelas agrícolas e do maneio nas espécies pecuárias abrangidas pelo modo de produção biológico de acordo com conteúdo normalizado, em formato eletrónico, incluindo as operações realizadas de aplicação de produtos fitofarmacêuticos e fertilizantes autorizados bem como os resultados das análises efetuadas conservando para o efeito os comprovativos;
+
+d) Partilhar com a administração os dados não pessoais relativos à atividade e exploração agrícola nos termos do artigo 8.º
+
+2 - Os beneficiários devem ainda manter, durante todo o período de retenção um nível de encabeçamento de bovinos, ovinos e caprinos, suínos e equídeos, em pastoreio do próprio ou de outrem, expressos em CN por hectare, igual ou inferior a:
+
+a) 3,000 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 hectares de superfície agrícola;
+
+b) 2,000 CN/ha de superfície agrícola, no caso de explorações em zona de montanha e com dimensão superior a 2 hectares de superfície agrícola;
+
+c) 2,000 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas e com dimensão superior a 2 hectares de superfície agrícola.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 14.º — Forma do apoio
+
+1 - Os montantes dos apoios concedidos no presente capítulo assumem a forma de pagamentos no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho (Pagamentos SIGC), modulados por escalões de área de grupo de culturas e por escalões de efetivo pecuário.
+
+2 - A superfície forrageira elegível é contabilizada para pagamento se se verificar um encabeçamento mínimo na exploração de 0,200 CN considerando o efetivo de bovinos, ovinos e caprinos, do próprio, em pastoreio, por hectare de superfície forrageira.
+
+3 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido no número anterior é estabelecido em 0,100 CN/ha de superfície forrageira.
+
+4 - Para efeitos do cálculo do encabeçamento mínimo dos n.os 2 e 3 é contabilizada a totalidade dos animais das espécies bovina, ovina, caprina, suína e equídea da exploração.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 15.º — Montantes e limites do apoio
+
+1 - Os montantes e limites do apoio a conceder à «Agricultura Biológica - Conversão» são indicativos, nos termos dos anexos III e V à presente portaria, da qual fazem parte integrante.
+
+2 - Os montantes e limites do apoio a conceder à «Agricultura Biológica - Manutenção» são indicativos, nos termos dos anexos IV e V à presente portaria, da qual fazem parte integrante.
+
+3 - O cálculo do montante total de cada apoio faz-se pela aplicação sucessiva dos respetivos escalões de área e dimensão do efetivo pecuário.
+
+4 - Se o beneficiário recorrer a assistência técnica prestada por técnicos inscritos em Lista de Técnicos, detentores de formação regulamentada para apoio técnico em Agricultura Biológica, de acordo com o artigo 13.º A do Decreto-Lei n.º 37/2013, de 13 de março, disponível no sítio na Internet da DGADR, www.dgadr.gov.pt, através de contrato de assistência técnica celebrado com associações de agricultores, organizações de produtores ou cooperativas, a submeter no âmbito do Pedido Único, o montante total do apoio é majorado em 15 %, não podendo contudo o valor da majoração ser superior a 1750 (euro).
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+### Capítulo III — Produção integrada (PRODI) - Culturas agrícolas
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 16.º — Objetivos
+
+A intervenção tem como objetivo apoiar a adoção de práticas do Modo de Produção Integrada nas culturas agrícolas, de acordo com o Decreto-Lei n.º 256/2009, de 24 de setembro, e respetivo normativo relativo à «Produção Integrada».
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 17.º — Âmbito geográfico de aplicação
+
+O âmbito geográfico de aplicação da intervenção prevista neste capítulo abrange todo o continente.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 18.º — Critérios de elegibilidade
+
+Os beneficiários da intervenção prevista no presente capítulo devem cumprir as seguintes condições:
+
+a) Candidatar uma superfície agrícola mínima elegível de 0,5 hectares, ocupada por culturas temporárias ou permanentes;
+
+b) Respeitar as seguintes densidades mínimas por subparcela, no caso das culturas permanentes:
+
+i) 200 árvores por hectare no caso das pomóideas, citrinos e prunóideas, exceto cerejeira;
+
+ii) 1 000 plantas por hectare no caso dos pequenos frutos, exceto sabugueiro e medronheiro;
+
+iii) 400 plantas por hectare no caso das actinídeas e medronheiros;
+
+iv) 80 árvores por hectare no caso de outros frutos frescos, sabugueiro e cerejeira;
+
+v) 45 árvores por hectare no caso do olival e frutos secos, com exceção do castanheiro e alfarrobeira com 25 e 30 árvores por hectare, respetivamente;
+
+vi) 2 000 plantas por hectare no caso de physalis e pitaya;
+
+vii) 2 000 cepas por hectare no caso da Vinha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima e de 1 000 cepas por hectare;
+
+viii) 200 palmas por hectare no caso de Figueira-da-índia;
+
+c) Submeter as subparcelas agrícolas candidatas ao regime de controlo efetuado por um OC reconhecido e acreditado em «Produção Integrada», tendo a área identificada no iSIP;
+
+d) Deter formação específica homologada em produção integrada.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 19.º — Compromissos dos beneficiários
+
+1 - Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:
+
+a) Manter os critérios de elegibilidade;
+
+b) Cumprir o Decreto-Lei n.º 256/2009, de 24 de setembro, e respetivo normativo relativo à «Produção Integrada»;
+
+c) Manter registo atualizado das operações culturais efetuadas nas subparcelas agrícolas abrangidas pelo modo de produção integrado de acordo com conteúdo normalizado, em formato eletrónico, incluindo as operações realizadas de aplicação de produtos fitofarmacêuticos e fertilizantes autorizados bem como os resultados das análises efetuadas conservando para o efeito os comprovativos;
+
+d) Partilhar com a administração os dados não pessoais relativos à atividade e exploração agrícola nos termos do artigo 8.º
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 20.º — Forma do apoio
+
+Os apoios concedidos no presente capítulo assumem a forma de pagamentos no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 (Pagamentos SIGC), por hectare de culturas temporárias e culturas permanentes, modulados por escalões de área e de grupo de culturas.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 21.º — Montantes e limites do apoio
+
+1 - Os montantes e limites do apoio a conceder no presente capítulo são indicativos, nos termos dos anexos V e VI à presente portaria, da qual fazem parte integrante.
+
+2 - O cálculo do montante total de cada apoio faz-se pela aplicação sucessiva dos respetivos escalões de área.
+
+3 - Se o beneficiário recorrer a assistência técnica prestada por técnicos inscritos em Lista de Técnicos, detentores de formação regulamentada para apoio técnico em produção integrada, de acordo com o artigo 13.º-A do Decreto-Lei n.º 256/2009, de 24 de setembro, na sua redação atual, disponível no sítio na Internet da DGADR, www.dgadr.gov.pt, através de contrato de assistência técnica, a submeter no âmbito do Pedido Único, o montante total do apoio é majorado em 15 %, não podendo contudo o valor da majoração ser superior a 1750 (euro).
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+### Capítulo IV — Gestão do Solo
+
+#### Secção I — Maneio da pastagem permanente
+
+###### Artigo 22.º — Objetivos
+
+A intervenção tem como objetivo apoiar a adoção de práticas, nas explorações agrícolas que detenham prados e pastagens permanentes naturais ou semeados sem predominância de vegetação arbustiva, incluindo em sob coberto, que permitam aumentar a capacidade de sumidouro de carbono do solo e proteger o solo contra a erosão, promovendo a utilização eficiente dos recursos e apoiando a transição para uma economia de baixo teor de carbono e resistente às alterações climáticas no setor agrícola.
+
+###### Artigo 23.º — Âmbito geográfico de aplicação
+
+O âmbito geográfico de aplicação da intervenção prevista na presente seção abrange todo o continente.
+
+###### Artigo 24.º — Critérios de elegibilidade
+
+1 - Os beneficiários da intervenção prevista na presente secção devem cumprir as seguintes condições:
+
+a) Candidatar uma superfície agrícola mínima de um hectare de prados e pastagens permanentes sem predominância de vegetação arbustiva;
+
+b) Deter um plano de gestão do pastoreio e de fertilização (PGPF), com o conteúdo mínimo estabelecido no anexo VII, elaborado há menos de três anos por técnico do Serviço de Aconselhamento Agrícola e Florestal (SAAF).
+
+2 - Para efeitos da alínea b) do número anterior, o modelo de PGPF é definido em orientação técnica específica do Gabinete de Planeamento e Políticas e Administração Geral (GPP).
+
+###### Artigo 25.º — Compromissos dos beneficiários
+
+1 - Os beneficiários do apoio previsto na presente secção, durante todo o período do compromisso, são obrigados a:
+
+a) Manter a gestão das subparcelas agrícolas identificadas no PGPF;
+
+b) Cumprir o PGPF;
+
+c) Manter registo atualizado das operações culturais efetuadas nas subparcelas agrícolas abrangidas pelo PGPF de acordo com conteúdo normalizado, em formato eletrónico, incluindo as operações realizadas de aplicação de produtos fitofarmacêuticos e fertilizantes, bem como os resultados das análises efetuadas no contexto do PGPF conservando para o efeito os comprovativos;
+
+d) Partilhar com a administração os dados não pessoais relativos à atividade e exploração agrícola nos termos do artigo 8.º
+
+2 - Os beneficiários devem ainda manter, durante todo o período de retenção um nível de encabeçamento na exploração de bovinos, ovinos e caprinos, suínos e equídeos, em pastoreio do próprio ou de outrem, expressos em CN por hectare de superfície forrageira com um mínimo de 0,200 CN e um máximo de 1,500 CN.
+
+3 - Quando se verifiquem situações de epizootia ou de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento mínimo referido no número anterior é estabelecido em 0,100 CN por hectare de superfície forrageira.
+
+4 - Os beneficiários do apoio previsto na presente seção, em operações de ressementeira da pastagem permanente devem recorrer a métodos de sementeira direta.
+
+5 - Os beneficiários, durante todo o período do compromisso, podem ainda assumir o compromisso opcional de reservar 10 % da área de pastagem permanente sob compromisso, não pastoreando a área reservada durante o período entre 1 de março e 30 de junho, para salvaguarda do período de nidificação da avifauna.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 26.º — Forma do apoio
+
+1 - Os apoios concedidos na presente seção assumem a forma de pagamentos no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 (Pagamentos SIGC), por hectare de prados e pastagens permanentes sem predominância de vegetação arbustiva.
+
+2 - O apoio é diferenciado em função do nível de encabeçamento de bovinos, ovinos, caprinos, suínos e equídeos, em pastoreio, do próprio, expresso em Cabeças Normais (CN) e modulado por escalões de área de prados e pastagens permanentes sem predominância de vegetação arbustiva.
+
+###### Artigo 27.º — Montantes e limites do apoio
+
+1 - Os montantes e limites do apoio a conceder na presente secção são indicativos, nos termos dos anexos V e VIII à presente portaria, da qual fazem parte integrante.
+
+2 - Se o beneficiário recorrer a assistência técnica prestada por técnicos inscritos em Lista de Técnicos, detentores de formação para apoio técnico, disponível no sítio na Internet da DGADR, www.dgadr.gov.pt, através de contrato de assistência técnica, celebrado com associações de agricultores, organizações de produtores ou cooperativas, a submeter no âmbito do Pedido Único, o montante previsto no anexo viii é majorado em 15 %, não podendo, contudo, o valor da majoração ser superior a 1750 €.
+
+3 - O montante do apoio previsto no n.º 1 é majorado em 10 % no caso de assumir o compromisso opcional nos termos no n.º 5 do artigo 25.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+#### Secção II — Promoção de fertilização orgânica
+
+###### Artigo 28.º — Objetivos
+
+1 - A intervenção tem por objetivo promover a substituição dos fertilizantes inorgânicos por orgânicos, reduzindo a emissão de óxido de azoto, contribuindo assim para minimizar o efeito dos gases de efeito de estufa, a melhoria da fertilidade dos solos através do incremento do teor de matéria orgânica, o sequestro de carbono, o aumento da capacidade de retenção de água no solo, bem como a adoção de boas práticas de valorização agrícola de efluentes pecuários, nomeadamente com o objetivo de diminuir as emissões de amoníaco.
+
+2 - A intervenção contribui ainda para promover uma gestão mais sustentável de matéria orgânica proveniente de efluentes pecuários associados a sistemas de produção mais intensivos, através da sua transferência, para explorações onde existe potencialidade para a sua valorização agrícola.
+
+###### Artigo 29.º — Área geográfica de aplicação
+
+A área geográfica de aplicação da intervenção abrange todo o continente, com exceção das zonas vulneráveis a nitratos definidas na Portaria n.º 164/2010, de 16 de março.
+
+###### Artigo 30.º — Critérios de elegibilidade
+
+Os beneficiários do apoio previsto na presente secção, durante todo o período do compromisso, são obrigados a:
+
+a) Candidatar uma área mínima de superfície agrícola de um hectare de culturas temporárias, culturas permanentes e prados e pastagens permanentes sem predominância de vegetação arbustiva;
+
+b) Deter Plano de Fertilização aprovado pela Comissão de Coordenação e Desenvolvimento Regional territorialmente competente ou por um OC, que englobe as áreas candidatas e, quando obrigatório no âmbito do Novo Regime do Exercício da Atividade Pecuária (NREAP), deter Plano de Gestão de Efluentes Pecuários (PGEP).
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 31.º — Compromissos dos beneficiários
+
+1 - Os beneficiários do apoio previsto na presente secção, durante todo o período do compromisso, são obrigados a:
+
+a) Manter a gestão das subparcelas candidatas;
+
+b) Realizar a fertilização orgânica, através da valorização agrícola de efluentes pecuários, de seus equiparados, mistura de efluentes pecuários ou seus equiparados e composto de efluentes pecuários ou seus equiparados, provenientes de explorações pecuárias, de explorações agropecuárias, de unidades de compostagem de efluentes pecuários, de unidades de biogás de efluentes pecuários, de unidades intermédias de efluentes pecuários (UIEP), de estações de tratamento de efluentes pecuários (ETEP), licenciadas ou em fase de licenciamento pela Comissão de Coordenação e Desenvolvimento Regional, I.P (CCDR, I. P.) territorialmente competente, no âmbito do NREAP, ou através da incorporação de biorresíduos de origem agrícola;
+
+c) Cumprir o plano de fertilização garantindo um nível de fertilização orgânica superior a 25 % da fertilização total registada no caderno de campo, expresso em azoto total;
+
+d) Deter registo das atividades efetuadas nas subparcelas agrícolas de acordo com o conteúdo normalizado em formato eletrónico, previsto nas alíneas c) a f) do n.º 1 do Anexo II da Portaria n.º 79/2022, de 3 de fevereiro;
+
+e) A valorização agrícola de efluentes pecuários, seus equiparados ou sua mistura, no solo deve ser efetuada nas condições previstas nos n.os 19 a 23 do artigo 10.º da Portaria n.º 259/2012, de 28 de agosto;
+
+f) Partilhar com a administração os dados não pessoais relativos à atividade e exploração agrícola nos termos do artigo 8.º
+
+2 - Para efeitos da e) do número anterior, os elementos que devem contar do registo das atividades e as condições para a valorização agrícola são estabelecidos em orientação técnica específica (OTE) do GPP.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 32.º — Forma do apoio
+
+Os apoios assumem a forma pagamentos no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 (Pagamentos SIGC) e são atribuídos por hectare de culturas temporárias, culturas permanentes ou prados e pastagens permanentes sem predominância de vegetação arbustiva.
+
+###### Artigo 33.º — Montantes e limites do apoio
+
+1 - O montante do apoio a conceder na presente secção é indicativo, no valor de 112,50 euros por hectare de culturas temporárias, culturas permanentes ou prados e pastagens permanentes sem predominância de vegetação arbustiva com valorização agrícola de efluentes pecuários, ou através da incorporação de biorresíduos de origem agrícola.
+
+2 - Os limites do apoio a conceder na presente secção são indicativos, nos termos do anexo V à presente portaria, da qual faz parte integrante.
+
+3 - O montante indicativo de apoio é majorado em 10 % se a fertilização orgânica corresponder a mais de 50 % da fertilização total expressa em termos de azoto total.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+### Capítulo V — Melhorar eficiência alimentar animal para redução das emissões de gases com efeitos de estufa (GEE)
+
+###### Artigo 34.º — Objetivos
+
+A intervenção prevista no presente capítulo tem por objetivo promover boas práticas de eficiência alimentar, de maneio e de saúde animal nas explorações pecuárias de bovinos de leite e bovinos de carne, de forma a reduzir as emissões de metano, com o objetivo de contribuir para a mitigação das alterações climáticas.
+
+###### Artigo 35.º — Âmbito geográfico de aplicação
+
+O âmbito geográfico de aplicação da intervenção abrange todo o continente.
+
+###### Artigo 36.º — Critérios de elegibilidade
+
+1 - Os beneficiários da intervenção prevista no presente capítulo, com explorações pecuárias de bovinos de carne, devem cumprir as seguintes condições:
+
+a) Candidatar um efetivo pecuário com estatuto sanitário de "indemne";
+
+b) Deter plano de alimentação para o efetivo de bovinos de carne, validado por OC reconhecido para o efeito, que inclua os critérios mínimos estabelecidos no anexo IX da presente portaria, da qual faz parte integrante, e os respetivos parâmetros a definir em OTE do GPP;
+
+c) Deter efetivo pecuário de bovinos de carne cujos animais elegíveis reúnam as seguintes condições:
+
+i) Estejam identificados e registados no SNIRA;
+
+ii) Cumpram o período de retenção;
+
+iii) Sejam de raça de vocação de carne ou resultem de um cruzamento com uma dessas raças e que façam parte de uma manada destinada à produção de carne e não pertençam a nenhuma das raças bovinas indicadas no Anexo X à presente portaria, da qual faz parte integrante.
+
+2 - Os beneficiários da intervenção prevista no presente capítulo, com explorações pecuárias de bovinos de leite, devem cumprir as seguintes condições:
+
+a) Candidatar um efetivo pecuário com estatuto sanitário de "indemne";
+
+b) Deter a totalidade do efetivo pecuário elegível de vacas leiteiras sujeito ao contraste leiteiro com monitorização obrigatória para células somáticas, e ureia no leite ("MUN");
+
+c) Deter, durante o período de retenção, um efetivo de vacas leiteiras cujos animais elegíveis reúnam as seguintes condições:
+
+i) Estejam identificados e registados no SNIRA;
+
+ii) Sejam de uma das raças bovinas indicadas no Anexo X à presente portaria, da qual faz parte integrante, ou resultantes de um cruzamento dessas raças;
+
+iii) Tenham parido nos últimos 16 meses;
+
+d) Efetuar entregas de leite ou produtos lácteos durante o período de retenção.
+
+###### Artigo 37.º — Compromissos dos beneficiários
+
+1 - Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:
+
+a) No caso dos bovinos de carne:
+
+i) Efetuar registos em caderno de campo de acordo com conteúdo normalizado em formato eletrónico disponível no portal da Autoridade de Gestão Nacional, conservando para o efeito os respetivos comprovativos;
+
+ii) Cumprir a implementação do plano de alimentação, sujeito a regime de controlo por OC, através de balanço que permita verificar a conformidade com a alimentação recomendada.
+
+b) Deter, no caso dos bovinos de leite, em termos do valor médio anual e para o efetivo de vacas leiteiras, uma avaliação de conformidade dos seguintes critérios:
+
+i) Teor de ureia no leite ("MUN");
+
+ii) Número de dias de época de lactação;
+
+iii) Idade ao primeiro parto;
+
+iv) Taxa de substituição;
+
+v) Contagem de células somáticas.
+
+2 - Para efeitos da alínea b) do número anterior, os parâmetros dos critérios são definidos em OTE do GPP.
+
+###### Artigo 38.º — Forma do apoio
+
+Os apoios concedidos no presente capítulo assumem a forma de pagamentos no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 (Pagamentos SIGC), por escalões de CN do efetivo pecuário.
+
+###### Artigo 39.º — Montantes e limites do apoio
+
+1 - Os montantes do apoio a conceder no presente capítulo são indicativos e modulados por escalões de efetivo pecuário, nos seguintes termos:
+
+a) (igual ou menor que) 40 CN - 25 euro/CN;
+
+b) (maior que) 40 (igual ou menor que) 100 CN - 15 euro/CN;
+
+c) (maior que) 100 CN - 5 euro/CN.
+
+2 - Os limites do apoio a conceder no presente capítulo são indicativos, nos termos do anexo V à presente portaria, da qual faz parte integrante.
+
+3 - Se o beneficiário recorrer a assistência técnica prestada por técnicos inscritos em Lista de Técnicos, detentores de formação para apoio técnico, disponível no sítio na Internet da DGADR, www.dgadr.gov.pt, através de contrato de assistência técnica, celebrado com associações de agricultores, organizações de produtores ou cooperativas, a submeter no âmbito do Pedido Único, o montante total do apoio é majorado em 15 %, não podendo contudo o valor da majoração ser superior a 1750 (euro).
+
+### Capítulo VI — Bem-estar animal e uso racional de antimicrobianos
+
+###### Artigo 40.º — Objetivos
+
+A intervenção prevista no presente capítulo tem como objetivo melhorar o bem-estar dos animais, das espécies bovina e suína, explorados em regime intensivo através de promoção de boas práticas pecuárias, de forma a contribuir para uma melhor resposta do setor agropecuário às exigências da sociedade no que se refere ao bem-estar dos animais, bem como promover uma utilização mais racional de antimicrobianos nas espécies bovina e suína com o objetivo de reduzir o seu uso.
+
+###### Artigo 41.º — Âmbito geográfico de aplicação
+
+O âmbito geográfico de aplicação da intervenção abrange todo o continente.
+
+###### Artigo 42.º — Critérios de elegibilidade
+
+1 - Os beneficiários da intervenção prevista no presente capítulo devem cumprir as seguintes condições na tipologia «Bem-estar animal»:
+
+a) Deter exploração pecuária intensiva de bovinos ou de suínos, regularizada ou em processo de regularização, ao abrigo do NREAP;
+
+b) Deter efetivo pecuário cujos bovinos elegíveis estejam identificados e registados no SNIRA e, que cumpram o respetivo período de retenção ou deter efetivo pecuário de suínos elegíveis;
+
+c) Possuir contrato com OC no âmbito de regime de controlo em bem-estar animal.
+
+2 - Os beneficiários da intervenção prevista no presente capítulo devem cumprir as seguintes condições na tipologia «Uso racional de antimicrobianos»:
+
+a) Deter exploração pecuária de bovinos de aptidão leiteira ou exploração pecuária intensiva de suínos, regularizada ou em processo de regularização, ao abrigo do NREAP;
+
+b) Deter efetivo pecuário de suínos elegíveis;
+
+c) Deter efetivo pecuário de bovinos de aptidão leiteira, do próprio, de uma das raças constante da lista de raças bovinas leiteiras indicadas no anexo X à presente portaria, da qual faz parte integrante, cujos animais elegíveis reúnam as seguintes condições:
+
+i) Estejam identificados e registados no SNIRA;
+
+ii) Cumpram o período de retenção.
+
+3 - Para efeitos das alíneas a) dos n.os 1 e 2 considera-se exploração pecuária intensiva o sistema de exploração intensivo das classes 1 e 2 da classificação das atividades pecuárias do NREAP.
+
+4 - Para efeitos da alínea c) do n.º 1 incluem-se as certificações coletivas em bem-estar animal desde que o OC disponha da informação individual da exploração pecuária.
+
+###### Artigo 43.º — Compromissos dos beneficiários
+
+1 - Os beneficiários do apoio previsto no presente capítulo, na tipologia «Bem-estar animal», são obrigados a:
+
+a) Cumprir as obrigações decorrentes de regime de controlo em bem-estar animal, cujos requisitos e critérios de avaliação são reconhecidos pela DGAV, de acordo com os Anexos XI e XIII à presente portaria, da qual fazem parte integrante;
+
+b) Ter as explorações com, pelo menos uma classificação boa ou média, ou a pontuação necessária para serem enquadradas no respetivo regime de certificação e controlo;
+
+c) Ter obtido, nos requisitos estabelecidos no Anexo XI à presente portaria, da qual faz parte integrante, classificação de satisfatória, moderada, boa ou excelente, nos Indicadores de Bem-estar Animal (IBEA);
+
+d) Cumprir os outros requisitos (OR) conforme estabelecido no Anexo XI à presente portaria, da qual faz parte integrante;
+
+2 - Os beneficiários do apoio previsto no presente capítulo, na tipologia «Uso racional de antimicrobianos», são obrigados a:
+
+a) Utilizar medicamentos prescritos através da receita eletrónica médico-veterinária ou de receitas médico-veterinárias manuais, cuja informação seja inserida no sistema de prescrição eletrónica médico veterinária (PEMV);
+
+b) Utilizar antimicrobianos na exploração, nas espécies e categorias elegíveis, nas condições previstas no Anexo XII à presente portaria, da qual faz parte integrante.
+
+3 - Para efeitos da alínea c) do n.º 1, são aceites critérios mais abrangentes que incluam os requisitos IBEA.
+
+###### Artigo 44.º — Forma do apoio
+
+1 - Os apoios concedidos no presente capítulo assumem a forma de pagamentos no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 (Pagamentos SIGC) e são atribuídos por CN.
+
+2 - O apoio é diferenciado em função da tipologia, «Bem-estar animal» ou «Uso racional de antimicrobianos», e modulado por escalões de efetivo pecuário.
+
+3 - Para efeitos da determinação do número de CN a apoiar, na exploração pecuária intensiva de suínos, é considerado o número médio das porcas reprodutoras e dos suínos com mais de três meses de idade presentes na exploração com base nas declarações de existências relativas ao ano do compromisso.
+
+###### Artigo 45.º — Montantes e limites do apoio
+
+1 - Na tipologia «Bem-estar animal», os montantes unitários por escalões de efetivo são indicativos, nos seguintes termos:
+
+a) Efetivo inferior ou igual a 40 CN: 25 euro/CN;
+
+b) Efetivo superior a 40 CN: 20 euro/CN.
+
+2 - Na tipologia «Uso racional de antimicrobianos» os montantes unitários são indicativos, nos seguintes termos:
+
+a) Para suínos e primeiro escalão de vacas leiteiras nos termos do anexo XII à presente portaria, da qual faz parte integrante:
+
+i) Efetivo inferior ou igual 40 CN: 25 euro/CN;
+
+ii) Efetivo superior a 40 CN: 22 euro/CN.
+
+b) Para o segundo escalão de vacas leiteiras nos termos do anexo XII à presente portaria, da qual faz parte integrante:
+
+i) Efetivo inferior ou igual 40 CN: 30 euro/CN;
+
+ii) Efetivo superior a 40 CN: 27 euro/CN.
+
+3 - O pagamento do segundo escalão das vacas leiteiras, previsto na da alínea b) do número anterior, está condicionado ao cumprimento dos compromissos do primeiro escalão.
+
+4 - Os limites do apoio a conceder no presente capítulo são indicativos, nos termos do anexo V à presente portaria, da qual faz parte integrante.
+
+### Capítulo VII — Práticas promotoras da biodiversidade
+
+###### Artigo 46.º — Objetivos
+
+A intervenção prevista no presente capítulo tem como objetivo a promoção de áreas ou elementos com interesse ecológico e ambiental que proporcionem e potenciem os serviços de ecossistema e a melhoria da biodiversidade.
+
+###### Artigo 47.º — Âmbito geográfico de aplicação
+
+O âmbito geográfico de aplicação da intervenção abrange todo o continente.
+
+###### Artigo 48.º — Critérios de elegibilidade
+
+1 - Os beneficiários da intervenção prevista no presente capítulo devem cumprir as seguintes condições:
+
+a) Candidatar-se à intervenção de apoio ao rendimento base;
+
+b) Deter e identificar as áreas ou elementos com interesse ecológico ou ambiental, constantes no anexo xiv da presente portaria, da qual faz parte integrante, georreferenciados no iSIP, que se localizem em subparcelas ou adjacentes a subparcelas de terra arável, culturas permanentes ou pastagens permanentes sem predominância de vegetação arbustiva, que representem uma superfície equivalente de interesse ecológico e ambiental, igual ou superior a 4 % do total de área de terra arável, culturas permanentes ou pastagens permanentes sem predominância de vegetação arbustiva.
+
+i) (Revogada.)
+
+ii) (Revogada.)
+
+2 - Para efeitos da alínea b) do número anterior, a superfície equivalente de interesse ecológico e ambiental é calculada através da multiplicação da área, comprimento linear do elemento, número de conjuntos de ninhos e caixas de abrigo ou número de comedouros para fauna bravia, pelo equivalente de superfície de interesse ecológico ou ambiental (ESIAE) constante no Anexo XIV da presente portaria, da qual faz parte integrante.
+
+3 - Nos anos de 2023, 2024 ou 2025 os beneficiários devem ainda ativar direitos a pagamento a título da intervenção do apoio ao rendimento base.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 49.º — Compromissos dos beneficiários
+
+Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a manter as áreas ou elementos com interesse ecológico e ambiental que determinaram a superfície equivalente de interesse ecológico e ambiental.
+
+###### Artigo 50.º — Forma do apoio
+
+Os apoios concedidos no presente capítulo assumem a forma de pagamentos no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 (Pagamentos SIGC) e são atribuídos como pagamento aos hectares elegíveis de acordo com as ocupações culturais previstas nas subalíneas da alínea b) do artigo do artigo 48.º
+
+###### Artigo 51.º — Montantes e limites do apoio
+
+1 - Os montantes e limites do apoio a conceder no presente capítulo são indicativos, nos termos do anexo V à presente portaria, da qual faz parte integrante, e atribuídos por hectare elegível da exploração, de acordo com as ocupações culturais previstas nas subalíneas da alínea b) do n.º 1do artigo 48.º
+
+2 - O montante unitário indicativo de 44,80 € por hectare elegível de terra arável ou de culturas permanentes e prados e pastagens permanentes sem predominância de vegetação arbustiva.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+### Capítulo VIII — Casos de força maior e circunstâncias excecionais
+
+###### Artigo 52.º — Casos de força maior e circunstâncias excecionais
+
+Para efeitos do disposto no artigo 3.º do Regulamento (UE) 2021/2116, podem ser, também, reconhecidos como casos de força maior e circunstâncias excecionais as seguintes situações:
+
+a) Incapacidade profissional do beneficiário, desde que por período superior a seis meses, devidamente verificada nos termos legais;
+
+b) Expropriação por utilidade pública ou outro ato previsto no Código das Expropriações, de toda a exploração ou uma parte importante da mesma, no caso de a expropriação não ser previsível no dia de apresentação do pedido;
+
+c) Emparcelamento ou intervenção pública de ordenamento fundiário ou similar.
+
+### Capítulo IX — Procedimento
+
+###### Artigo 53.º — Candidaturas
+
+1 - As candidaturas aos apoios de pagamentos diretos no âmbito da presente portaria são formalizadas nos termos e prazos anualmente definidos no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., aprovado em diploma próprio.
+
+2 - Os prazos de apresentação de candidaturas do Pedido Único (PU) são fixados e divulgados na área pública do sítio da Internet do IFAP, I. P., em www.ifap.pt.
+
+###### Artigo 54.º — Condicionalidade
+
+Os beneficiários das intervenções dos regimes ecológicos para o clima, o ambiente e o bem-estar dos animais, previstas na presente portaria, incorrem em sanções administrativas decorrentes de incumprimentos determinados a título do sistema de controlo e sanções administrativas da condicionalidade que engloba os requisitos legais de gestão e as boas condições agrícolas e ambientais definidos em diploma próprio.
+
+###### Artigo 55.º — Reduções e exclusões
+
+1 - Em caso de incumprimento ou qualquer irregularidade detetada, bem como de omissão de superfície, são aplicáveis as disposições nacionais em aplicação com o previsto no Título IV do Regulamento (UE) 2021/2116, bem como as reduções e as exclusões previstas nos números seguintes.
+
+2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., os animais potencialmente elegíveis que não estejam corretamente identificados ou registados no sistema de identificação e registo de animais são contabilizados como animais em relação aos quais foram constatados incumprimentos, salvo nos seguintes casos:
+
+a) Quando um animal presente na exploração tenha perdido um dos meios de identificação é considerado determinado se estiver clara e individualmente identificado pelos restantes elementos do sistema de identificação e registo;
+
+b) Se a diferença entre a superfície declarada e a superfície determinada for superior a 50 %, o apoio não é concedido e o beneficiário é sujeito a uma sanção no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado se o montante não puder ser totalmente deduzido nos três anos seguintes ao ano em que a diferença seja detetada;
+
+3 - Quando o número de animais declarado por espécie, ao qual seja aplicável uma taxa de ajuda ou apoio diferente, exceder o número de animais determinado:
+
+a) A ajuda é calculada com base no número de animais determinados, diminuídos da diferença detetada, se esta não for superior a 20 % do número de animais determinados;
+
+b) A ajuda é calculada com base no número de animais determinados, diminuídos do dobro da diferença detetada, se esta for superior a 20 % e igual ou inferior a 30 % do número de animais determinados;
+
+c) Não é concedido apoio se a diferença entre o número de animais determinado e o número de animais declarado for superior a 30 %.
+
+4 - (Revogado.)
+
+5 - Para efeitos do n.º 1, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos no local a diferença entre a superfície candidata e a superfície determinada, nos seguintes termos:
+
+a) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da área determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;
+
+b) Se a diferença entre a superfície candidata e a superfície determinada for superior a 50 % não é concedido o apoio;
+
+c) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectare, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata.
+
+6 - O incumprimento dos requisitos mínimos previstos no artigo 6.º determina a redução do montante do apoio, nos termos definidos em diploma próprio.
+
+7 - O incumprimento dos compromissos dos beneficiários e respetivas reduções ou exclusões dos apoios são estabelecidos nos termos do diploma referido no número anterior.
+
+8 - Caso se verifique que a superfície determinada de um grupo de culturas é maior do que a superfície candidata, a superfície a utilizar no cálculo da ajuda ou do apoio será a superfície candidata.
+
+9 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da Portaria n.º 54-L/2023, de 27 de fevereiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 175/2023 - Diário da República n.º 121/2023, Série I de 2023-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/175-2023-214724645), em vigor a partir de 2022-06-26, produz efeitos a partir de 2023-02-28
+
+### Capítulo X — Disposições finais e transitórias
+
+###### Artigo 56.º — Indicadores de resultado
+
+Para efeito do contributo para os objetivos específicos, bem como para o cumprimento das metas dos indicadores de resultados do PEPAC Portugal, a tabela que estabelece a ligação entre as intervenções, os objetivos específicos e os indicadores de resultados estabelecidos, respetivamente, no artigo 6.º e no anexo I do Regulamento (UE) 2021/2115, consta do anexo XV à presente portaria, da qual faz parte integrante.
+
+###### Artigo 56.º-A — Gestão financeira
+
+Para efeitos de aplicação das disposições de gestão financeira definidas no capítulo ii da Portaria n.º 54-P/2023 são definidos ao nível de intervenção ou grupo de pagamento no anexo x os montantes unitários indicativos médio, mínimo e máximo.
+
+> Aditado pelo/a Artigo 6.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+###### Artigo 57.º — Disposição transitória
+
+1 - No PU 2023 a notificação relativa à agricultura biológica junto da DGADR, prevista na alínea a) do artigo 12.º, pode ser efetuada até à data de submissão de candidatura do PU.
+
+2 - No ano de 2023, os critérios referidos nas alíneas d) e e) do artigo 12.º, nas alíneas c) e d) do artigo 18.º, na alínea b) do n.º 1 do artigo 36.º e na alínea c) do n.º 1 do artigo 42.º, verificam-se a partir do dia 9 de outubro.
+
+3 - Nos anos de 2023 e 2024, a formação específica prevista como critério de elegibilidade nas intervenções ‘Agricultura biológica (Conversão e manutenção)’ e ‘Produção Integrada (PRODI) - Culturas Agrícolas’, pode, em alternativa, ser substituída por contrato de assistência técnica prestada por técnico inscrito em lista de técnicos detentores de formação regulamentada para apoio técnico, de acordo com o artigo 13.º-A do Decreto-Lei n.º 256/2009, de 24 de setembro, na sua redação atual, disponível no sítio na Internet da DGADR, em www.dgadr.pt, a vigorar durante o período de compromisso anual, a apresentar até ao dia 9 de outubro, não havendo, neste caso, lugar a qualquer majoração.
+
+4 - Para efeitos dos anos de 2023 a 2025 o compromisso de partilha de dados, previsto na alínea d) do n.º 1 do artigo 25.º e na alínea f) do n.º 1 do artigo 31.º, é cumprido através da detenção dos dados em formato eletrónico.
+
+5 - (Revogado.)
+
+6 - No PU de 2023, o cumprimento do previsto na alínea b) do n.º 1 do artigo 24.º pode ser efetuado até ao dia 9 de outubro.
+
+7 - No PU de 2023, a apresentação do contrato de prestação de serviços de assistência técnica prevista no n.º 4 do artigo 15.º, no n.º 3 do artigo 21.º, no n.º 2 do artigo 27.º e no n.º 3 do artigo 39.º pode ser efetuada até ao dia 9 de outubro.
+
+8 - No PU de 2023, o plano de fertilização previsto na alínea b) do artigo 30.º deve ser entregue na DRAP territorialmente competente, para efeitos de aprovação, até ao dia 30 de setembro.
+
+9 - No PU de 2023, a validação da existência de plano aprovado será também assegurada através de listagem de todos os planos aprovados a remeter por cada uma das DRAP ao IFAP, em condições a definir por este, até ao dia 31 de outubro.
+
+10 - No PU de 2023, o plano de alimentação previsto na alínea b) do n.º 1 do artigo 36.º pode ser entregue até ao dia 9 de outubro.
+
+11 - (Revogado.)
+
+12 - No PU do ano de 2024, a aprovação do plano previsto na alínea b) do artigo 30.º e a validação do plano previsto na alínea b) do n.º 1 do artigo 36.º podem ser efetuadas até à data limite de submissão do PU.
+
+13 - Para o ano 2024, no caso de explorações com terra arável elegível superior a 10 hectares, a subalínea i) da alínea b) do n.º 1 do artigo 48.º é cumprida através de uma superfície equivalente de interesse ecológico e ambiental igual ou superior a 4 % da área total de terra arável.
+
+14 - No PU do ano de 2025, a apresentação do plano de fertilização, previsto na alínea b) do artigo 30.º deve ser entregue na CCDR, I. P. territorialmente competente ou OC, para efeitos de aprovação até ao final do período de candidaturas.
+
+15 - No PU do ano de 2025, a validação da existência de plano de fertilização aprovado será também assegurada através de listagem de todos os planos aprovados a remeter por cada uma das CCDR, I. P., ou da DGADR ao IFAP, em condições a definir por este, até ao dia 15 de julho.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 196/2025/1 - Diário da República n.º 76/2025, Série I de 2025-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/196-2025-915381302), em vigor a partir de 2025-04-21, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 155-A/2024/1 - Diário da República n.º 101/2024, Suplemento, Série I de 2024-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2024-865926874), em vigor a partir de 2024-05-25, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 153/2024/1 - Diário da República n.º 85/2024, Série I de 2024-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/153-2024-863401418), em vigor a partir de 2024-05-03, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 303-A/2023 - Diário da República n.º 194/2023, 1º Suplemento, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/303-a-2023-222477732), em vigor a partir de 2023-10-09, produz efeitos a partir de 2023-02-28
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 194-B/2023 - Diário da República n.º 131/2023, 2º Suplemento, Série I de 2023-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), em vigor a partir de 2023-07-08, produz efeitos a partir de 2023-02-28
+
+###### Artigo 58.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023.
+
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
+
+## Anexo I — Tabela de conversão em cabeças normais (CN*)
+
+(a que se refere o artigo 3.º)
+
+(ver documento original)
+
+*Arredondado à casa milesimal
+
+## Anexo II — Requisitos mínimos obrigatórios aplicáveis às Intervenções da presente Portaria
+
+(a que se refere o artigo 6.º)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+## Anexo III — Montantes indicativos e Limites de apoio Conversão em Agricultura biológica
+
+(a que se refere o artigo 15.º)
+
+(ver documento original)
+
+> Nota: [Artigo 4.º, Portaria n.º 194-B/2023 - Diário da República n.º 131/2023, 2º Suplemento, Série I de 2023-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646) acrescenta ao anexo, a nota (5) com a seguinte redação: «As pastagens temporárias espontâneas e semeadas de regadio e de sequeiro, para efeitos de pagamento, são consideradas neste grupo de culturas.»
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 194-B/2023 - Diário da República n.º 131/2023, 2º Suplemento, Série I de 2023-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), em vigor a partir de 2023-07-08, produz efeitos a partir de 2023-02-28
+
+## Anexo IV — Montantes indicativos e Limites de apoio Manutenção em Agricultura biológica
+
+(a que se refere o artigo 15.º)
+
+(ver documento original)
+
+> Nota: [Artigo 4.º, Portaria n.º 194-B/2023 - Diário da República n.º 131/2023, 2º Suplemento, Série I de 2023-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646) acrescenta ao anexo, a nota (5) com a seguinte redação: «As pastagens temporárias espontâneas e semeadas de regadio e de sequeiro, para efeitos de pagamento, são consideradas neste grupo de culturas.»
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 194-B/2023 - Diário da República n.º 131/2023, 2º Suplemento, Série I de 2023-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), em vigor a partir de 2023-07-08, produz efeitos a partir de 2023-02-28
+
+## Anexo V — Envelopes financeiros indicativos por ano civis (euro)
+
+(a que se refere os artigos 15.º, 21.º, 27.º, 33.º, 39.º, 45.º e 51.º)
+Envelopes financeiros indicativos por ano civis (€)
+
+| Intervenção | 2023 | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Agricultura biológica (Conservação e Manutenção) | 76 170 400,00 | 78 590 200,00 | (Revogado.) | (Revogado.) | (Revogado.) |
+| Produção integrada (PRODI) - Culturas agrícolas | 55 331 000,00 | 55 664 980,00 | (Revogado.) | (Revogado.) | (Revogado.) |
+| Maneio da pastagem permanente | 13 050 000,00 | 13 050 000,00 | 17 000 000,00 | 17 000 000,00 | 15 006 817,48 |
+| Promoção da fertilização orgânica | 6 000 000,00 | 6 000 000,00 | 2 250 000,00 | 2 250 000,00 | 1 986 196,43 |
+| Melhorar a eficiência alimentar animal para redução das emissões de gases com efeitos de estufa | 5 060 000,00 | 5 060 000,00 | 7 920 000,00 | 7 920 000,00 | 6 991 411,44 |
+| Bem-estar animal e uso racional de antimicrobianos | 3 999 996,00 | 3 999 996,00 | 10 000 000,00 | 10 000 000,00 | 8 827 539,69 |
+| Práticas promotoras da biodiversidade | 15 000 000,00 | 15 000 000,00 | 56 000 000,00 | 56 000 000,00 | 49 434 222,21 |
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+## Anexo VI — Montantes indicativos e Limites de apoio Produção integrada (PRODI) - Culturas agrícolas
+
+(a que se refere o artigo 21.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+## Anexo VII — Conteúdo mínimo do Plano de Gestão de Pastoreio e Fertilização - Prados e Pastagens permanentes
+
+(a que se refere o artigo 24.º)
+
+1. Caracterização geral: Localização; Área; Declive; Coberto arbóreo.
+
+2. Caracterização por subparcela de pastagem permanente: Tipo de pastagem permanente (natural; melhorada; semeada); Resultado das Análises; Identificação das operações realizadas nos últimos 3 anos (sementeira com espécies pratenses; calagem; fertilizantes); Estado geral da pastagem: Grau de cobertura (elevado, médio, fraco); Presença de leguminosas (adequado; fraco, ausente), anexar imagens fotográficas; Estruturas de parqueamento do gado (tipo de estrutura, estado de conservação, localização, imagens fotográficas); Pontos de água acessíveis ao gado (tipo de estrutura, estado de conservação, localização, imagens fotográficas); Caracterização do maneio do gado: (Identificação das subparcelas de rotação; quantidade máxima, em CN, das espécies em pastoreio, nos períodos: outubro a dezembro, janeiro a fevereiro, março a maio, junho a setembro)
+
+3. Operações a realizar nos próximos 3 anos: Sementeira com espécies pratenses; Calagem; fertilizantes; Ações de preservação do coberto arbóreo; Ações de melhoria do estado geral da pastagem: (ano; n.º subparcela; tipo de ação; presença de leguminosas e fundamentação/observações); Ações de melhoria das estruturas de parqueamento do gado e dos pontos de água acessíveis ao gado; indicando em cada caso: (ano; n.º subparcela; tipologia; quantidade/ha; fundamentação/observações).
+
+4. Alterações a realizar no maneio de gado (indicando: ano; rotação das subparcelas; espécies e quantidade máxima de CN em pastoreio por período e fundamentação/observações).
+
+## Anexo VIII — Montantes indicativos e Limites de apoio à intervenção
+
+(a que se refere o artigo 27.º)
+
+«Gestão do solo - Maneio da pastagem permanente»
+
+Montantes unitários indicativos ((euro)/ha) por escalões de área de prados e pastagens permanentes sem predominância de vegetação arbustiva e por níveis de encabeçamento
+
+(ver documento original)
+
+Nota: O montante unitário do apoio será deduzido em 20 % na área candidata ao apoio que se situe em Zona Vulnerável no âmbito da Diretiva Nitratos.
+
+## Anexo IX — Conteúdo mínimo do plano de alimentação para o efetivo dos bovinos de carne
+
+(a que se referem os artigos 3.º e 36.º)
+
+O plano de alimentação deve identificar as necessidades alimentares do efetivo pecuário por grupo homogéneo (raça, atividade) e classe etária, identificando a sua composição em termos de matéria seca, proteína bruta, gordura bruta e outros considerados relevantes para:
+
+i) Alimentos grosseiros (palha, feno, fenosilagem, silagem e pastagem);
+
+ii) Alimentos compostos complementares;
+
+iii) Aditivos destinados à alimentação animal.
+
+## Anexo X — Lista das raças bovinas leiteiras
+
+(a que se referem os artigos 36.º e 42.º)
+
+Angler Rotvieh (Angeln); Rød dansk mælkerace (RMD); German Red; Lithuanian Red; Ayrshire; Armoricaine; Bretonne pie noire; Fries-Hollands (FH); Française frisonne pie noire (FFPN); Friesian-Holstein; Holstein; Black and White Friesian; Red and White Friesian; Frisona española; Frisona Italiana; Zwartbonten van België/pie noire de Belgique; Sortbroget dansk mælkerace (SDM); Deutsche Schwarzbunte; Schwarzbunte Milchrasse (SMR); Czarno-biała; Czerwono-biała; Magyar Holstein-Friz; Dutch Black and White; Estonian Holstein; Estonian Native; Estonian Red; British Friesian; črno-bela; German Red and White; Holstein Black and White; Red Holstein; Groninger Blaarkop; Guernsey; Jersey; Malkeborthorn; Reggiana; Valdostana Nera; Itäsuomenkarja; Länsisuomenkarja; Pohjoissuomenkarja; Frísia Portuguesa; Montbeliard; Brown Suiss; Normande; Sueca Vermelha.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+## Anexo XI — Regime de controlo em bem-estar animal
+
+(a que se refere o artigo 43.º)
+
+Regime de Certificação em Bem-Estar Animal
+
+Bovinos de leite (regime intensivo)
+
+| Requisito | Como avaliar |
+| --- | --- |
+| Limpeza dos animais | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a avaliação da limpeza dos animais. |
+| Condição corporal (IBEA) | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a valoração corporal. |
+| Claudicação | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a avaliação da claudicação. |
+| Lesões e doenças (IBEA) | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a avaliação das lesões e sinais. |
+| Intervenções nos animais (OR) | Existe um procedimento escrito relativamente à técnica de descorna a aplicar, na qual a descorna é realizada até aos 3 meses de idade e com recurso a anestesia e analgesia.A técnica de descorna está a ser implementada conforme descrito no procedimento.Verificar no registo de medicamentos a aplicação de analgesia e anestesia local nos processos de descorna, assinado por Médico Veterinário.O registo apresenta indicação da idade em que é praticada a descorna.Evidência de participação em formação. |
+| Formação (Regulamento específico n.º 9, de outubro/2015, da DGADR) (OR) | Verificar a existência de Certificado de Aptidão Profissional relativo à formação específica em bem-estar animal emitido pela DGAV. (*) |
+| Procedimentos para occisão de emergência na exploração (OR) | Existência de procedimentos para occisão de emergência, onde se inclua a atuação face a animais não aptos para o transporte e/ou com feridas ou doenças associadas a grande sofrimento, bem como os métodos utilizados para realizar o abate de emergência na exploração. |
+|  | O procedimento para occisão de emergência está a ser implementado na exploração: |
+|  | Existem registos de mortalidade, onde se indique quais os animais sujeitos a occisão de emergência, o motivo, o método utilizado e a pessoa que a praticou. |
+|  | Existem meios para a realização da(s) técnica(s) utilizada(s).A(s) pessoa(s) que pratica(m) a occisão de emergência têm competência para efeito de occisão de emergência (verificação da competência através de evidência de formação específica sobre abate ou occisão ao abrigo do Regulamento (CE) 1099/2099, através de entrevista ou de preenchimento de formulário). |
+|  | A exploração não enviou para matadouro animais não aptos no ano a que se refere a candidatura, situação confirmada através de registos realizados em matadouro. |
+
+(*) O requisito de formação também pode ser verificado com base no reconhecimento de competências de experiência profissional, nos termos definidos no Regulamento Específico n.º 9, de outubro de 2015, da DGADR.
+
+O cumprimento do critério de formação pode ainda ser assegurado desde que a exploração tenha contrato de prestação de serviços com profissional na área de medicina veterinária ou na área da engenharia zootécnica, responsável pela aplicação dos requisitos em bem-estar animal na exploração em causa.
+
+A assistência técnica às explorações, especificamente para a área do bem-estar animal, pode também ser prestada por médicos veterinários ou engenheiros zootécnicos que façam parte do corpo técnico da organização de produtores, à qual o produtor pertence.
+
+Bovinos de carne (regime intensivo)
+
+| Requisito | Como avaliar |
+| --- | --- |
+| Limpeza dos animais | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a avaliação da limpeza. |
+| Condição corporal (IBEA) | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a valoração corporal |
+| Claudicação | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a avaliação da claudicação. |
+| Lesões e doenças (IBEA) | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV (por exemplo o Welfare Quality) para a avaliação das lesões e sinais. |
+| Intervenções nos animais (OR) | Existe um procedimento escrito relativamente à técnica de descorna a aplicar, na qual a descorna é realizada até aos 3 meses de idade e com recurso a anestesia e analgesia. |
+|  | A técnica de descorna está a ser implementada conforme descrito no procedimento. |
+|  | Verificar no registo de medicamentos a aplicação de analgesia e anestesia local nos processos de descorna, assinado por Médico Veterinário. |
+|  | O registo apresenta indicação da idade em que é praticada a descorna. |
+|  | Evidência de participação em formação. |
+| Espaço por animal (OR) | Avaliar a área dos parques, a quantidade de animais por parque e o peso médio dos animais. Calcular a área disponível por cada animal em função do peso, para verificar se tem 1m2/por cada 100kg de PV. |
+| Formação (Regulamento específico n.º 9, de outubro /2015, da DGADR) (OR) | Verificar a existência de Certificado de Aptidão Profissional relativo à formação específica em bem-estar animal emitido pela DGAV. (*) |
+| Procedimentos para occisão de emergência na exploração (OR) | Existência de procedimentos para occisão de emergência, onde se inclua a atuação face a animais não aptos para o transporte ou com feridas ou doenças associadas a grande sofrimento, bem como os métodos utilizados para realizar o abate de emergência na exploração. |
+|  | O procedimento para occisão de emergência está a ser implementado na exploração: |
+|  | Existem registos de mortalidade, onde se indique quais os animais sujeitos a occisão de emergência, o motivo, o método utilizado e a pessoa que a praticou. |
+|  | Existem meios para a realização da(s) técnica(s) utilizada(s). |
+|  | A(s) pessoa(s) que pratica(m) a occisão de emergência têm competência para efeito de occisão de emergência (verificação da competência através de evidência de formação específica sobre abate ou occisão ao abrigo do Regulamento (CE) 1099/2099, através de entrevista ou de preenchimento de formulário). |
+|  | A exploração não enviou para matadouro animais não aptos no ano a que se refere a candidatura, situação confirmada através de registos realizados em matadouro. |
+
+(*) O requisito de formação também pode ser verificado com base no reconhecimento de competências de experiência profissional, nos termos definidos no Regulamento Específico n.º 9, de outubro de 2015, da DGADR.
+
+O cumprimento do critério de formação pode ainda ser assegurado desde que a exploração tenha contrato de prestação de serviços com profissional na área de medicina veterinária ou na área da engenharia zootécnica, responsável pela aplicação dos requisitos em bem-estar animal na exploração em causa.
+
+A assistência técnica às explorações, especificamente para a área do bem-estar animal, pode também ser prestada por médicos veterinários ou engenheiros zootécnicos que façam parte do corpo técnico da organização de produtores, à qual o produtor pertence.
+
+Suínos (regime intensivo)
+
+| Requisito | Setores | Como avaliar (ver anexo xii) |
+| --- | --- | --- |
+| Materiais manipuláveis (OR) | Todos os setores. | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que garanta que os parques possuem materiais manipuláveis bons ou ótimos de acordo com a Tabela 1 do Anexo XIII. |
+| Porcas e marrãs em grupo Recria Engorda | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que inclua a avaliação da interação dos animais com os materiais manipuláveis de acordo com o ponto 1.2 do Anexo XIII - conduta exploratória satisfatória ou muito boa. |  |
+| ConfortoParâmetros ambientais são os adequadas para o tipo de animal (OR)Temperatura ambiental. (OR)Níveis adequados de humidade relativa (HR) | Todos os setores. | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que inclua a avaliação visual do conforto térmico nos animais de acordo com o ponto 2.1 do Anexo XIII, para verificar se estes não apresentam sinais de muito frio ou de calor.  Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que avalie se são cumpridos os valores de temperatura de acordo com o ponto 2.2 do Anexo XIII. Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que inclua a medição dos valores de HR de acordo com o ponto 2.3 do Anexo XIII. |
+| Área livre disponível (OR) | Porcas e marrãs em grupo. Recria e engorda Maternidades. | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que inclua a avaliação do cumprimento dos requisitos da área livre disponível de acordo com o ponto 3. do Anexo XIII. |
+| Pavimento sólido contínuo | Porcas e marrãs em grupo Recria e engorda. | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que inclua a avaliação dos requisitos do pavimento sólido continuo de acordo com o ponto 4. do Anexo XIII. |
+| Competição pelo alimento e água | Recria e engorda. | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que inclua a avaliação dos requisitos do pavimento sólido continuo de acordo com o ponto 4. do Anexo XIII. |
+| Intervenções nos animais (OR) | Todos os setores. | Utilizar um protocolo de avaliação de bem-estar animal reconhecido pela DGAV que inclua os requisitos relativos a bebedouros e comedouros acordo com o ponto 5 e 6 do Anexo XIII. |
+| Formação (Regulamento específico n.º 9, de outubro/2015, da DGADR) (OR) |  | Verificar a existência de Certificado de Aptidão Profissional relativo à formação específica em bem-estar animal emitido pela DGAV. (*) |
+| Procedimentos para occisão de emergência na exploração (OR) |  | Existência de procedimentos para occisão de emergência, onde se inclua a atuação face a animais não aptos para o transporte e com patologias, bem como os métodos utilizados para realizar o abate de emergência na exploração. |
+|  |  | O procedimento para occisão de emergência está a ser implementado na exploração: |
+|  |  | Existem registos de mortalidade, onde se indique quais os animais sujeitos a occisão de emergência, o motivo, o método utilizado e a pessoa que a praticou. |
+|  |  | Existem meios para a realização da(s) técnica(s) utilizada(s). |
+|  |  | A(s) pessoa(s) que pratica(m) a occisão de emergência têm competência para efeito de occisão de emergência (verificação da competência através de evidência de formação específica sobre abate e/ou occisão ao abrigo do Regulamento (CE) 1099/2099, através de entrevista ou de preenchimento de formulário). |
+|  |  | A exploração não enviou para matadouro animais não aptos no ano a que se refere a candidatura, situação confirmada através de registos realizados em matadouro. |
+
+(*) O requisito de formação também pode ser verificado com base no reconhecimento de competências de experiência profissional, nos termos definidos no Regulamento Específico n.º 9, de outubro de 2015, da DGADR.
+
+O cumprimento do critério de formação pode ainda ser assegurado desde que a exploração tenha contrato de prestação de serviços com profissional na área de medicina veterinária ou na área da engenharia zootécnica, responsável pela aplicação dos requisitos em bem-estar animal na exploração em causa.
+
+A assistência técnica às explorações, especificamente para a área do bem-estar animal, pode também ser prestada por médicos veterinários ou engenheiros zootécnicos que façam parte do corpo técnico da organização de produtores, à qual o produtor pertence.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+## Anexo XII — Procedimento para classificação em escalões, por anos de implementação, espécies e categorias elegíveis.
+
+(a que se referem os artigos 43.º e 45.º)
+
+Procedimento para classificação em escalões, por anos de implementação, espécies e categorias elegíveis
+
+| Espécies e categorias elegíveis |  |  |  |
+| --- | --- | --- | --- |
+|  | 1.º ano de implementação (ano 2023) | 2.º ano de implementação e seguintes (ano 2024 e seguintes) |  |
+| Vacas leiteiras | • 1.º escalãoA exploração deve apresentar uma utilização de consumo de antimicrobianos intramamários correspondente, no mínimo, a 90% de 3,86 dose unitária por teto. Nota: Valor da média nacional de utilização de consumo de antimicrobianos intramamários para o período 2018-2021 = DDD 3,86 dose unitária por teto. | • 1.º escalãoA exploração, deve apresentar uma redução de utilização de consumo de antimicrobianos intramamários, com valor igual ou superior a 5% relativamente à utilização de consumo de antimicrobianos intramamários do ano anterior. Nota: A partir do 2.º ano de implementação, os novos produtores pecuários cujas explorações não tenham informação na base de dados, o valor mínimo de base para o cálculo da redução de utilização de consumo de antimicrobianos intramamários é o correspondente a 90% do valor da média nacional de utilização de consumo de antimicrobianos intramamários para o período relativo aos valores do quadriénio mais recente. |  |
+| • 2.º escalãoA exploração deve apresentar uma utilização de consumo de antimicrobianos intramamários classificados como críticos (categoria B – uso restrito), segundo a categorização AMEG) correspondente, no mínimo, a 90% de 1,07 dose unitária por teto. Nota: Valor da média nacional de utilização de consumo de antimicrobianos intramamários classificados como críticos para o período 2018-2021 = DDD 1,07 dose unitária por teto. | • 2.º escalãoA exploração, deve apresentar uma redução de utilização de consumo de antimicrobianos intramamários, classificados como críticos (categoria B – uso restrito), com valor igual ou superior a 5% relativamente à utilização de consumo de antimicrobianos intramamários classificados como críticos do ano anterior.Nota: A partir do 2.º ano de implementação, os novos produtores pecuários que desejem beneficiar da intervenção, o valor mínimo de base para o cálculo da redução de utilização de consumo de antimicrobianos intramamários classificados como críticos (categoria B – uso restrito) é o correspondente a 90% do valor da média nacional de utilização de consumo de antimicrobianos intramamários classificados como críticos (categoria B – uso restrito) para o período relativo aos valores do quadriénio mais recente. |  |  |
+|  | 1.º ano de implementação (ano 2023) | 2.º ano de implementação (ano 2024) | 3.º ano de implementação e seguintes (ano 2025 e seguintes) |
+| Suínos em regime intensivo | A exploração deve apresentar uma utilização de consumo de medicamentos veterinários contendo colistina correspondente, no mínimo, a 90 % de 5mg/PCU; | A exploração, deve apresentar uma redução de utilização de consumo de medicamentos veterinários contendo colistina, com valor igual ou superior a 5 % relativamente à utilização de consumo de de medicamentos | A exploração, deve apresentar uma redução de utilização de consumo de medicamentos veterinários contendo colistina, de valor igual ou superior a 5 %, relativamente à utilização de consumo de medicamentos veterinários contendo colistina do ano anterior (*). |
+|  |  |  | A redução acima referida não é exigida se se verificar uma utilização de consumo de medicamentos veterinários contendo colistina correspondente a 70 % de 2 mg/PCU. |
+|  |  |  | No caso das novas explorações pecuárias que não tenham informação na base de dados, o valor mínimo de base para efeitos do cálculo da redução de utilização de consumo de medicamentos veterinários contendo colistina é o correspondente a 90 % de 2 mg/PCU no ano 2025 e seguintes. |
+
+(*) Nas situações em que a exploração pecuária tenha cumprido os limiares aplicáveis no ano anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 194-B/2023 - Diário da República n.º 131/2023, 2º Suplemento, Série I de 2023-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/194-b-2023-215375646), em vigor a partir de 2023-07-08, produz efeitos a partir de 2023-02-28
+
+## Anexo XIII — Instruções/Orientações para Avaliação dos Requisitos - Suínos
+
+(a que se refere o artigo 43.º e o anexo xi)
+Instruções/Orientações para Avaliação dos Requisitos - Suínos
+1 - MATERIAIS MANIPULÁVEIS
+1.1 - Classificação dos materiais
+Tabela 1 
+(ver documento original)
+Nota: Esta lista não é exaustiva, nem os materiais estão escalonados. Podem ser utilizados outros materiais que preencham os requisitos legais. 
+Tabela 2
+MATERIAIS PERIGOSOS (a não utilizar)
+(ver documento original)
+1.2 - Acesso a materiais manipuláveis suficientes e de qualidade - % de animais com interação com os materiais manipuláveis.
+· A observação é feita do seguinte modo, em 5 parques por sector, escolhidos aleatoriamente: 
+. De pé diante do parque observar os animais ativos durante 2 minutos (tempo de adaptação)
+. Contar o número de suínos que estão a explorar os materiais de enriquecimento (X)
+. Contar o número de suínos que estão a interagir com outros suínos ou com os equipamentos e acessórios do parque (Y)
+% de interacção = (X/(X+Y)) × 100 = Z %
+Interpretação: 
+Z (igual ou menor que) 18% - o material fornecido não cumpre os objectivos - conduta exploratória insuficiente
+Z (maior que) 18% - Z (igual ou menor que) 86,3% - o material fornecido cumpre satisfatoriamente os objetivos - Conduta exploratória satisfatória
+Z (maior que) 86,4% - a conduta exploratória dos suínos é muito boa 
+2 - PARÂMETROS AMBIENTAIS 
+2.1 - Avaliação visual do conforto térmico dos animais
+· A observação é feita, de forma aleatória, em 3 pontos diferentes do pavilhão; Caso o pavilhão seja dividido em salas deve ser realizada avaliação em 3 pontos diferentes de cada sala
+Frio: Os animais estão em cima uns dos outros ou a tremer de frio.
+Calor: Os animais arfam, com excesso de calor e/ou estão com a frequência respiratória mais acelerada (batimentos por minuto normais: (maior que) 1 semana de idade - 54; (maior que) 4 semana de idade - 36; (maior que) 8 semana de idade - 30; (maior que) 12 semana de idade - 25; (maior que) 16 semana de idade - 18; porcas e varrascos - 13).
+2.2 - Avaliação das temperaturas ambientais por categoria animal
+· A temperatura deve ser medida em 3 pontos distintos de cada pavilhão e deve ser realizada a média dos valores e a nível da cabeça dos animais.
+(ver documento original)
+2.3 - Avaliação do nível de Humidade relativa nos alojamentos dos animais
+· A humidade deve ser medida em 3 pontos do pavilhão e deve ser realizada a média dos valores.
+A humidade relativa do ar deve ser (igual ou maior que)60% e inferior a 80%.
+2.4. - Avaliação dos teores de CO2, NH3 e CO a que os animais estão expostos 
+· Os teores de gases devem ser medidos em 3 pontos do pavilhão e deve ser realizada a média dos valores.
+(ver documento original)
+3 - ESPAÇO DISPONÍVEL PARA SUÍNOS DE CRIAÇÃO E LEITÕES DESMAMADOS, PORCAS E MARRÃS CRIADOS EM GRUPO
+· Calcular parque a parque, dividindo a área livre disponível (descontar o espaço ocupado por comedouros, bebedouros, colunas e outros elementos que não permitam o uso do solo) pelo número de animais e comparar com a tabela abaixo.
+
+|  | Valores a cumprir |
+| --- | --- |
+| Porcas em grupo | Área livre disponível/animal nos parques: >=2,5 m2/porca. |
+| Marrãs em grupo | Área livre disponível/animal nos parques: >=1,8 m2/marrã. |
+
+|  | Valores de espaço a cumprir |
+| --- | --- |
+| Maternidades | Área das celas de parto: >=4 m2com espaço suficiente para a porca se deitar sem qualquer entrave. |
+
+4 - PAVIMENTO - % de pavimento sólido
+Recrias e engordas - ≤ 50 % de pavimento ripado (pavimento em grelha de betão)
+• (Revogado.)
+• (Revogado.)
+• Para todos os parques, calcular a percentagem pretendida em função da área de cada parque.
+Porcas e marrãs após cobrição - ≤ 50 % de pavimento ripado (pavimento em grelha de betão)
+• (Revogado.)
+(ver documento original)
+(Revogado.)
+• (Revogado.)
+• Para todos os parques, calcular a percentagem pretendida em função da área de cada parque.
+5 - ALIMENTAÇÃO - competição
+· Avaliar o espaço por animal em cada parque.
+• Para a alimentação restritiva aplicam-se os valores do seguinte quadro:
+(ver documento original)
+• Para a alimentação ad libitum, devem ser respeitadas as indicações do fabricante do equipamento.
+6 - ABEBERAMENTO - competição
+· Em todos os parques, avaliar a relação entre número de animais por bebedouro em cada parque: 
+ - Pelo menos 1 bebedouro para 10 animais para alimentação com restrições
+ - Pelo menos 1 bebedouro para 15 animais para alimentação sem restrições - ad libitum 
+7 - INTERVENÇÕES NOS ANIMAIS
+· Os animais não têm a cauda cortada, ou
+· Se existirem animais com a cauda cortada, na exploração em causa o produtor esteja a testar o não corte de caudas em grupos/lotes/parques de animais, na sequência de não existirem registos que comprovem a existência de lesões de caudofagia e/ou após a adoção de medidas face aos fatores de risco da caudofagia identificados na exploração, ou
+· Se possuírem a cauda cortada, tem que ser cumprido o seguinte: não obstante terem sido adotadas as medidas necessárias para a redução dos fatores de risco da mordedura de cauda identificados na exploração, existir a determinação fundamentada pelo Médico Veterinário assistente da exploração para o corte de cauda, face à necessidade de se proceder o corte de cauda em suínos por motivos de saúde e Bem-estar animal. Esta situação está sujeita à existência de registos que comprovem a presença de surtos de caudofagia na exploração e de evidências que o produtor fez uma correta avaliação dos fatores de risco e tomou todas as medidas necessárias para evitar a mordedura de cauda.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 361/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/361-2024-901536093), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+## Anexo XIV — Caracterização das Áreas ou Elementos com interesse ecológico ou ambiental e respetivo equivalente de superfície de interesse ecológico ou ambiental
+
+(a que se refere o artigo 48.º)
+
+(ver documento original)
+
+Nota. - As subparcelas de ‘Terras em pousio’ não podem ser mobilizadas nem apresentar produção agrícola ou ser pastoreadas no período compreendido entre 1 de fevereiro e 31 de julho, não sendo permitida a utilização de produtos fitofarmacêuticos nesse período.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 155-A/2024/1 - Diário da República n.º 101/2024, Suplemento, Série I de 2024-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2024-865926874), em vigor a partir de 2024-05-25, produz efeitos a partir de 2024-01-01
+
+## Anexo XV — Tabela de ligação entre intervenções e indicadores de resultado
+
+(a que se refere o artigo 56.º)
+
+(ver documento original)
+
+116207244
+
+## Anexo XVI — Montantes unitários indicativos, médios, mínimo e máximo
+
+(a que se refere o artigo 56.º-A)
+
+| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,2 CN/ha a 0,75 CN/ha: |  |  |
+| --- | --- | --- |
+| Montante médio indicativo (€)60,00 | Montante mínimo indicativo (€)25,00 | Montante máximo indicativo (€)94,88 |
+| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,75 CN/ha a 1,5 CN/ha: |  |  |
+| Montante médio indicativo (€)36,00 | Montante mínimo indicativo (€)15,00 | Montante máximo indicativo (€)56,93 |
+| Gestão do solo - Promoção da fertilização orgânica: |  |  |
+| Montante médio indicativo (€)112,50 | Montante mínimo indicativo (€)112,50 | Montante máximo indicativo (€)200,00 |
+| Melhorar a eficiência alimentar animal para redução das emissões de GEE: |  |  |
+| Montante médio indicativo (€)22,00 | Montante mínimo indicativo (€)5,00 | Montante máximo indicativo (€)29,00 |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Bem-estar animal: |  |  |
+| Montante médio indicativo (€)24,00 | Montante mínimo indicativo (€)20,00 | Montante máximo indicativo (€)25,00 |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 1.º escalão: |  |  |
+| Montante médio indicativo (€)24,00 | Montante mínimo indicativo (€)22,00 | Montante máximo indicativo (€)25,00 |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 2.º escalão: |  |  |
+| Montante médio indicativo (€)29,00 | Montante mínimo indicativo (€)27,00 | Montante máximo indicativo (€)30,00 |
+| Práticas promotoras da biodiversidade: |  |  |
+| Montante médio indicativo (€)44,80 | Montante mínimo indicativo (€)31,36 | Montante máximo indicativo (€)58,24 |
+
+> Aditado pelo/a Anexo IV do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01

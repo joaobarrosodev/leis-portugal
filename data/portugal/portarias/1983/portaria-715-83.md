@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:452246:por
+title: Portaria n.º 715/83
+short_title: null
+summary: Alarga a área de recrutamento para o lugar de chefe da Divisão de Assistência Técnica e Financeira do Instituto António
+  Sérgio do Sector Cooperativo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Reforma Administrativa
+proposing_entity: null
+official_number: 715/83
+official_date: null
+publication_date: '1983-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1983, Série I de 1983-06-24
+  number: '143'
+  series: I
+  supplement: null
+  pages: 2268 - 2269
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22682269.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452246'
+  dre_path: /dr/detalhe/portaria/715-1983-452246
+  internal: pt:dre:452246:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1983-452246
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1983-452246
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-06-24T00:00:00Z'
+integrity:
+  source_sha256: 15e05bcf9924b419e51c7dea2c4806ac71230db2acec9a0bdc10a9b5bf844199
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-715-452246.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 715/83
+
+de 24 de Junho
+
+Considerando que, de acordo com o disposto no artigo 43.º do [Decreto-Lei n.º 98/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1983-311054), de 18 de Fevereiro, para o desempenho das funções de directores de serviços e chefes de divisão do Instituto António Sérgio do Sector Cooperativo se exige, além da formação académica de base, reconhecida competência em matéria de cooperativismo e experiência válida para o desempenho das respectivas funções;
+
+Considerando que nem sempre se torna viável encontrar, dentro da área de recrutamento legalmente estabelecida, candidatos com experiência e formação específica em matéria de cooperativismo;
+
+Considerando que em tais circunstâncias se justifica que seja dada preferência a candidatos que reúnam os requisitos específicos, em prejuízo daqueles que reúnam os requisitos formais;
+
+Usando da faculdade prevista no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho:
+
+Manda o Governo da República Portuguesa, pelo Primeiro-Ministro e pelo Ministro da Reforma Administrativa, que o lugar de chefe da divisão de Assistência Técnica e Financeira do Instituto António Sérgio do Sector Cooperativo pode ser provido de entre indivíduos de reconhecida competência e experiência na área do cooperativismo, sendo dispensada a vinculação à função pública exigida pelo n.º 1 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, devendo o respectivo despacho de nomeação ser acompanhado, para publicação, do currículo do nomeado.
+
+Presidência do Conselho de Ministros e Ministério da Reforma Administrativa.
+
+**Assinada em 7 de Junho de 1983.**
+
+**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa. - O Secretário de Estado do Fomento Cooperativo, José Bento Gonçalves.**

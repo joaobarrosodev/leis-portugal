@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:571905:por
+title: Resolução do Conselho de Ministros n.º 21/2014
+short_title: null
+summary: Classifica como obra de interesse regional do grupo II os aproveitamentos hidroagrícolas do Alvor, do Caia, de Campilhas
+  e Alto Sado, de Cela, do Lis, de Silves, Lagoa e Portimão e do Vale do Sorraia
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 21/2014
+official_date: null
+publication_date: '2014-03-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/2014, Série I de 2014-03-17
+  number: '53'
+  series: I
+  supplement: null
+  pages: 1996 - 1998
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05300/0199601998.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/21/2014/03/17/p/dre/pt/html
+  oj: null
+  dre: '571905'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/21-2014-571905
+  internal: pt:dre:571905:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2014-571905
+  metadata_url: https://data.dre.pt/eli/resolconsmin/21/2014/03/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2014-571905
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-03-17T00:00:00Z'
+integrity:
+  source_sha256: ea071ead4f8a67c44294a900aec7c8b760746c21f230571fa212e639cf72b132
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-21-571905.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Água
+- Barragem de Campilhas
+- Barragem do CAIA
+- Desenvolvimento Rural
+- Recursos Hídricos
+- Aproveitamento Hidroagrícola
+- Lagoa
+- Exploração Agrícola
+- Rio Sado
+- Portimão
+- Política Agrícola
+- Agricultura
+- RIA de Alvor
+- RIO CAIA
+- RIO LIS
+- RIO Sorraia
+- Silves
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/169/2005/09/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/169/2005/09/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/69/1992/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/69/1992/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 21/2014
+
+O [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de julho, alterado pelos Decretos-Leis n.os [69/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), de 27 de abril, [86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de abril, e [169/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612), de 26 de setembro, estabelece que as obras de aproveitamento hidroagrícola e as suas subsidiárias são classificadas em quatro grupos em função dos seus impactos, com consequências tanto em termos legais, como no que se refere às relações da Administração com os utilizadores e ao modo de gestão, financiamento, iniciativa e responsabilidade de construção: obras de interesse nacional, regional, local, e particular.
+
+Enquadram-se neste conjunto de empreendimentos os aproveitamentos hidroagrícolas do Alvor, do Caia, de Campilhas e Alto Sado, de Cela, do Lis, de Silves, Lagoa e Portimão e do Vale do Sorraia.
+
+O aproveitamento hidroagrícola do Alvor beneficia uma área de 1 747 ha, situando-se ao longo dos cursos inferiores das ribeiras de Odiáxere, Arão, Farelo e Torre, nos concelhos de Lagos e Portimão, do distrito de Faro. A obra, que iniciou a exploração em 1959, contemplou a construção de uma barragem de betão (Bravura) e de uma extensa rede de infraestruturas: canais e regadeiras para abastecimento do regadio (117 km), valas de enxugo (61 km), e uma estação elevatória de drenagem (Montes de Alvor). Realizaram-se também trabalhos de regularização fluvial e proteção dos solos contra os efeitos das marés nas terras baixas, contemplando 22 km de valados e um dique de 250 m num braço da ria de Alvor.
+
+A água para a rega provém da albufeira da Bravura, localizada na ribeira de Odeáxere, mas o aproveitamento hidroagrícola também tem fornecido água para abastecimento às populações. As principais culturas regadas são os pomares de citrinos, milho, hortícolas e vinha. A água proveniente da albufeira da Bravura também abastece para rega alguns empreendimentos turísticos.
+
+As condições edafoclimáticas do aproveitamento hidroagrícola potenciam a expansão de sistemas culturais baseados em primores de hortícolas e fruteiras com um forte impacto no crescimento do produto agrícola deste território, o que justifica o grande interesse no desenvolvimento deste regadio para economia regional.
+
+Aproveitamento hidroagrícola do Caia, integrado na 1.ª fase do Plano de Rega do Alentejo, destina-se à beneficiação com regadio de uma área aproximada de 7237 ha, que se estende para jusante do atravessamento do rio pela estrada nacional Elvas-Campo Maior, ao longo da fronteira e dos rios Caia e Guadiana, numa extensão de 35 Km.
+
+A origem de água para o regadio é a albufeira, com capacidade de 203 hm3, resultante de construção de uma barragem composta por troços de aterro (450 m) e de Betão (490 m), localizada imediatamente a montante do atrás referido atravessamento da EN 373.
+
+Dotado de uma rede primária em canal a céu aberto de 40,5 Km e de uma rede de distribuidores e regadeiras com um desenvolvimento de cerca 200 Km, o aproveitamento assegura desde 1969 não só o volume necessário à rega, mas também o abastecimento a populações dos concelhos de Elvas e Campo Maior, como de igual modo a algumas indústrias do sector alimentar que se instalaram na região com o objetivo de transformar localmente os produtos do regadio, nomeadamente o tomate.
+
+Com a construção deste aproveitamento ficaram assim criadas condições basilares para a valorização regional tendo vindo a desenvolver-se de modo a justificar a decisão de aprovar a execução do projeto apresentado em finais dos anos cinquenta.
+
+O elevado interesse destes empreendimentos para o desenvolvimento agrícola das respetivas regiões impõe a sua classificação como obras de aproveitamento hidroagrícolas de grupo II, conforme estabelecido no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de julho, alterado pelos Decretos-Leis n.os [86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de abril, e [169/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612), de 26 de setembro.
+
+O aproveitamento hidroagrícola de Campilhas e Alto Sado, resultado da fusão dos Aproveitamentos de Campilhas e S. Domingos (1953), Alto Sado (1972) e Fonte Serne (1978), de que resultou uma área beneficiada de 6097 ha, situa-se ao longo das margens do rio Sado para montante da confluência com a ribeira de Roxo, e nos vales das ribeiras de Campilhas, S. Domingos e Vale Diogo.
+
+Repartida por três concelhos (Santiago do Cacém, Odemira e Ourique) de 2 distritos (Setúbal e Beja), a área abrangida pelo referido aproveitamento é constituída predominantemente por aluviossolos de textura mediana e recorre às disponibilidades hídricas acumuladas nas albufeiras de Campilhas (26 hm3), Monte da Rocha (103 hm3), e Fonte Serne (5 hm3).
+
+O aproveitamento tem garantido para a região reais benefícios, uns de origem geral que interessam a toda a Bacia do Sado, contribuindo para a regularização de caudais e consequente laminação de cheias, e outros de caráter mais localizado relacionados com os fluxos das explorações agrícolas beneficiadas pelo regadio, garantindo matéria prima para industrias agroalimentares, que permitiu a valorização dos produtos e do meio social no qual o aproveitamento está inserido.
+
+Com uma rede coletiva de rega com um desenvolvimento total de 285 km, dotado de duas estações elevatórias o aproveitamento apresenta como principais culturas regadas o arroz (Campilhas) e o milho (Alto Sado).
+
+O aproveitamento hidroagrícola da Cela, situa-se no Vale de Famalicão abrangendo uma área global de 454 ha repartidos pelo concelho da Nazaré, 104 ha na freguesia de Famalicão, e 350 ha no concelho de Alcobaça, freguesias de Cela e Bárrio.
+
+Desenvolvido no ano de 1932 e com início de execução de obra em 1935, o projeto apresentava como objetivo a beneficiação do Paul da Cela, a fim de permitir o conveniente aproveitamento agrícola, através de obras de defesa e enxugo.
+
+A área equipada, limitada a norte pelo rio Alcoa, a oeste pela Serra da Pescaria e a leste e sul pela Serra do Bárrio e Serra da Cela, é constituída essencialmente por solos resultantes da deposição de sedimentos transportados pela rede hidrográfica, predominando os aluviossolos com toalha freática pouco profunda, e de grande fertilidade. Numa zona com grande tradição hortícola, o aproveitamento apresenta um elevado índice de intensificação cultural sendo comum alguns prédios estarem sujeitos a duas culturas de regadio consecutivas na mesma campanha. Por outro lado, e resultado do forte dinamismo dos agricultores, a quase totalidade da área está coberta por sistemas de rega sob pressão (aspersão e gota-a-gota) com recurso a bombagem individual da água, plenamente justificada face ao tipo de culturas e tipo de solo.
+
+Assim, à melhoria das condições para a agricultura, correspondeu a adesão dos agricultores manifestada de forma inequívoca, não só pela elevada relação área equipada/área regada, mas também pela adoção de métodos de aplicação de água de rega mais amigos do ambiente, verificando-se a existência de um núcleo rural evoluído capaz de assegurar o bem-estar dessa população.
+
+Aproveitamento hidroagrícola do Vale do Lis, desde a sua inauguração em 1957, que o aproveitamento hidroagrícola do Vale do Lis beneficia 2145 ha de aluviossolos das várzeas dos rios Lis e Lena, a jusante da cidade de Leiria, abrangendo áreas dos concelhos de Leiria e Marinha Grande, do distrito de Leiria. Estes solos estavam anteriormente muito condicionados pelas cheias regulares e alagamento generalizado, resultando no isolamento das povoações ribeirinhas, focos de paludismo e degradação das condições de vida. O aproveitamento foi criado na sequência do [Decreto-Lei n.º 35559](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35559-1946-339633), de 28 de março de 1946, que promoveu a Obra do Lis, um empreendimento mais vasto, centrado nas obras fluviais e marítimas, com vista à regularização do rio Lis e defesa dos terrenos marginais. Os investimentos realizados pelo Estado na implantação do sistema de defesa, travessias viárias e redes coletivas de rega e drenagem criaram acessibilidades e permitiram a valorização dos solos para a agricultura de regadio, estabelecendo um novo quadro para o desenvolvimento económico e social deste território. Na atualidade, apesar das deficiências inerentes a um regadio a fio-de-água, o aproveitamento sustenta uma importante atividade de produção agropecuária e hortícola com potencial de crescimento e reconhecida valia para a região.
+
+O aproveitamento hidroagrícola de Silves, Lagoa e Portimão situa-se nas margens das ribeiras do Arade e de Odelouca e na várzea de Lagoa. A sua infraestrutura desenvolve-se nas freguesias de Silves e Alcantarilha, do concelho de Silves (1458 ha), nas freguesias de Porches, Lagoa, Carvoeiro e Estombar, do concelho de Lagoa (704 ha), e na freguesia de Portimão do concelho com o mesmo nome (138 ha), todas no distrito de Faro.
+
+A barragem encontra-se, como vimos, na freguesia e concelho de Silves e a albufeira na mesma freguesia e na freguesia de São Bartolomeu de Messines do mesmo concelho e distrito.
+
+A Barragem de Arade, domina a totalidade da área atualmente regada, ainda que com auxílio da elevação na Estação Elevatória de Mata Mouros, que eleva a partir do termo do canal de Silves para o distribuidor de Lagoa. As obras foram promovidas pela Junta Autónoma de Obras de Hidráulica Agrícola, entre 1944 a 1956, tendo sido transferida a exploração em 1959, para a Associação de Regantes e Beneficiários de Silves, Lagoa e Portimão (ARBSLP).
+
+Inserido numa região onde a água de rega exerce uma maior ação formentador do desenvolvimento, usufruindo da benignidade do clima, próprio para a produção de pomares e citrinos e da existência de importante organização comercial em contacto com os mercados nacionais e externos, o aproveitamento hidroagrícola põe inequivocamente em destaque o potencial agrícola dos terrenos beneficiados.
+
+O aproveitamento hidroagrícola do Vale do Sorraia é o mais vasto e importante regadio coletivo público do país (16 351 ha), construído ao abrigo da legislação enquadradora do fomento hidroagrícola.
+
+Beneficia os vales das ribeiras de Magos, Seda, Raia e Sôr, e do rio Sorraia, distribuindo-se por sete concelhos (Avis, Ponte de Sor, Mora, Coruche, Salvaterra de Magos e Benavente) pertencentes aos distritos de Portalegre, Évora e Santarém.
+
+A sua construção, promovida pela ex-Direção-Geral dos Serviços Hidráulicos, decorreu entre os anos de 1951 e 1959 correspondendo a uma área total de 15 354 ha.
+
+Em 1970, foi integrada no Aproveitamento a Obra do Paul de Magos (535 ha) construída nos anos de 1933 a 1938, pela então Junta Autónoma de Obras de Hidráulica Agrícola.
+
+Integrada na bacia hidrográfica do rio Tejo, a água para o regadio tem como origem três reservatórios de regularização de caudais:
+
+Albufeira de Magos, na ribeira de Magos, com armazenamento total de 3,3 hm3;
+
+Albufeira de Montargil, na ribeira de Sor, com armazenamento total de 164,3 hm3;
+
+Albufeira do Maranhão, na ribeira da Seda, com armazenamento total de 205,4 hm3.
+
+Inclui ainda os açudes do Gameiro e do Furadouro, na ribeira da Raia, a jusante da albufeira do Maranhão, que permitem a elevação do plano de água da ribeira, por bombagem e derivação para os canais de rega.
+
+A distribuição da água de rega é feita por gravidade diretamente numa área de 13.740 ha, havendo necessidade de elevação nos restantes 1.614 ha, tendo sido o arroz a cultura mais importante até meados da década de 90, representando em média cerca de 50% da área regada anualmente. A partir de então a cultura do milho tem vindo a impor-se tendo já o mais importante em todo o vale demonstrando a capacidade de adaptação empresarial e o dinamismo dos regantes deste aproveitamento.
+
+O elevado interesse destes empreendimentos para o desenvolvimento agrícola das respetivas regiões impõe a sua classificação como obras de aproveitamento hidroagrícola de grupo II, conforme estabelecido no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de julho, alterado pelos Decretos-Leis n.os [86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de abril, e [169/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612), de 26 de setembro.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+Classificar como obra de interesse regional do grupo II, nos termos dos artigos 6.º e 7.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557) de 10 de julho, alterado pelos Decretos-Leis n.os [86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de abril, e [169/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612), de 26 de setembro, os seguintes aproveitamentos:
+
+a) Aproveitamento Hidroagrícola do Alvor;
+
+b) Aproveitamento Hidroagrícola do Caia;
+
+c) Aproveitamento Hidroagrícola de Campilhas e Alto Sado;
+
+d) Aproveitamento Hidroagrícola de Cela;
+
+e) Aproveitamento Hidroagrícola do Lis;
+
+f) Aproveitamento Hidroagrícola de Silves, Lagoa e Portimão;
+
+g) Aproveitamento Hidroagrícola do Vale do Sorraia.
+
+Presidência do Conselho de Ministros, 5 de março de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.

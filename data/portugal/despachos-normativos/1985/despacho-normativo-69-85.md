@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:180071:por
+title: Despacho Normativo n.º 69/85
+short_title: null
+summary: Determina que a prova de deficiência a que se refere o n.º 4 do Despacho Normativo n.º 38/85, de 16 de Maio, deve
+  ser feita mediante declaração médica passada por médico especialista na deficiência em causa
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Educação e do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 69/85
+official_date: null
+publication_date: '1985-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1985, Série I de 1985-08-06
+  number: '179'
+  series: I
+  supplement: null
+  pages: 2390 - 2390
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/08/17900/23902390.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '180071'
+  dre_path: /dr/detalhe/despacho-normativo/69-1985-180071
+  internal: pt:dre:180071:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1985-180071
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1985-180071
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-03-18T00:00:00Z'
+integrity:
+  source_sha256: fcffe7481272fabc65efbd5102626c423545812aad7af2cdcaa14b26ff5afd50
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-69-180071.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:662129:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 69/85
+
+Têm surgido dúvidas na interpretação de algumas disposições do [Despacho Normativo n.º 38/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-1985-151562), de 16 de Maio, que actualiza os valores das mensalidades previstas no [Despacho Normativo n.º 4/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-1984-531817), de 1 de Janeiro, para estabelecimentos particulares de educação especial com fins lucrativos.
+
+Trata-se fundamentalmente de enquadrar de forma adequada o disposto nos n.os 4 e 5 daquele diploma, de modo a articular-se a gestão das prestações familiares por parte, nomeadamente, das instituições de segurança social com as normas gerais reguladoras do subsídio de educação especial, designadamente o [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, e o [Despacho n.º 23/82](https://diariodarepublica.pt/dr/detalhe/despacho/23-1982-868932), publicado no Diário da República, 2.ª série, de 18 de Novembro de 1982.
+
+Nestes termos, determina-se o seguinte:
+
+1 - A prova de deficiência a que se refere o n.º 4 do [Despacho Normativo n.º 38/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-1985-151562), de 16 de Maio, deverá ser feita mediante declaração médica passada por médico especialista na deficiência em causa, nos termos previstos no artigo 3.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, e na norma III do [Despacho n.º 23/82](https://diariodarepublica.pt/dr/detalhe/despacho/23-1982-868932).
+
+2 - O disposto no n.º 5 do [Despacho Normativo n.º 38/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-1985-151562) deverá entender-se no sentido de que da declaração médica referida no n.º 4, bem como do requerimento do subsídio de educação especial e demais documentos exigidos no artigo 12.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038) necessários à instrução do processo, deverão ser remetidas cópias aos estabelecimentos de educação especial, a fim de viabilizar quer um controle na concessão do subsídio por parte dos próprios estabelecimentos, quer ainda a acção fiscalizadora da Inspecção-Geral do Ensino prevista na alínea a) do n.º 7 do citado despacho normativo.
+
+Ministérios da Educação e do Trabalho e Segurança Social, 23 de Julho de 1985. - Pelo Ministro da Educação, António de Almeida Costa, Secretário de Estado Adjunto do Ministro da Educação. - Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social.

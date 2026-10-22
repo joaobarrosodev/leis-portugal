@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74738651:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-75696150",
+ "dre_path": "/dr/detalhe/portaria/172-2016-74738651",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-06-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75698990",
+    "75698991",
+    "75698992",
+    "75698993"
+   ]
+  },
+  {
+   "date": "2016-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75696147:por",
+     "title": "Portaria n.º 286-B/2016",
+     "published": "2016-11-09",
+     "dre_path": "/dr/detalhe/portaria/286-b-2016-75696147"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "75698990",
+    "75698991",
+    "75698992",
+    "75698999",
+    "75698994"
+   ]
+  }
+ ],
+ "fragments": {
+  "75698990": {
+   "fragment_id": "75696151",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 172/2016\n\nde 20 de junho\n\nA Portaria n.º 18/2015, de 2 de fevereiro, aprovou o regime de aplicação da ação 6.1, «Seguros», da medida 6 «Gestão do Risco e Restabelecimento do Potencial Produtivo» do Programa de Desenvolvimento Rural do Continente.\n\nEsta ação registou, no ano de 2015, uma significativa adesão por parte dos agricultores. Neste contexto, e por razões de criteriosa gestão e rigor orçamental, nomeadamente com vista a garantir a necessária disponibilidade financeira para assegurar os compromissos a assumir no âmbito desta ação, torna-se indispensável ajustar o limite do apoio a conceder por beneficiário.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, o seguinte:"
+  },
+  "75698991": {
+   "fragment_id": "75696152",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria altera o regime de aplicação da ação 6.1, «Seguros», da medida 6 «Gestão do Risco e Restabelecimento do Potencial Produtivo», do Programa de Desenvolvimento Rural do Continente, adiante designado PDR 2020."
+  },
+  "75698992": {
+   "fragment_id": "75696153",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração da Portaria n.º 18/2015, de 2 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração da Portaria n.º 18/2015, de 2 de fevereiro\n\nO artigo 9.º da Portaria n.º 18/2015, de 2 de fevereiro, que aprovou o regime de aplicação da ação 6.1, «Seguros», da medida 6 «Gestão do Risco e Restabelecimento do Potencial Produtivo» do Programa de Desenvolvimento Rural do Continente, passa a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - ...\n\na) 60 % do prémio para contratos de seguro coletivo, para contratos de seguros individuais de beneficiários que tenham aderido a um seguro agrícola no ano anterior, bem como para os contratos de seguro subscritos por jovens agricultores em primeira instalação no âmbito do PDR 2020;\n\nb) 57 % do prémio para os contratos de seguro individuais quando o segurado não tenha aderido a um seguro agrícola no ano anterior.\n\n2 - ...»"
+  },
+  "75698993": {
+   "fragment_id": "75696154",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75698999": {
+   "fragment_id": "75696154",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2016-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286-B/2016 - Diário da República n.º 215/2016, 1º Suplemento, Série I de 2016-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2016-75696147), em vigor a partir de 2016-11-10, produz efeitos a partir de 2016-06-21"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se apenas às candidaturas respeitantes aos contratos de seguros celebrados a partir da sua data de entrada em vigor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286-B/2016 - Diário da República n.º 215/2016, 1º Suplemento, Série I de 2016-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2016-75696147), em vigor a partir de 2016-11-10, produz efeitos a partir de 2016-06-21"
+  },
+  "75698994": {
+   "fragment_id": "75696155",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 16 de junho de 2016."
+  }
+ }
+}

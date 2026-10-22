@@ -1,0 +1,328 @@
+---
+schema_version: '1.0'
+id: pt:dre:74848642:por
+title: Portaria n.º 178-C/2016
+short_title: null
+summary: Estabelece os procedimentos, o modelo e as demais condições necessárias à aplicação das alterações ao artigo 6.º
+  do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março, que cria um modelo único
+  e automático de atribuição de tarifa social de fornecimento de gás natural a clientes economicamente vulneráveis, no território
+  de Portugal continental
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social e Economia
+proposing_entity: null
+official_number: 178-C/2016
+official_date: null
+publication_date: '2016-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/2016, 2º Suplemento, Série I de 2016-07-01
+  number: '125'
+  series: I
+  supplement: 2º Suplemento
+  pages: 2042-(9) a 2042-(12)
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/07/12502/0000900012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-02-01'
+version_history:
+  file: portaria-178-c-2016.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-02-01'
+    amending: pt:dre:153519407:por
+    amending_title: Portaria n.º 12/2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/178-c/2016/p/cons/20210111/pt/html
+  oj: null
+  dre: '74848642'
+  dre_path: /dr/detalhe/portaria/178-c-2016-74848642
+  internal: pt:dre:74848642:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-c-2016-74848642
+  metadata_url: https://data.dre.pt/eli/port/178-c/2016/p/cons/20210111/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-153341370
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-153341370
+  retrieved_at: '2026-10-22T12:36:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9d72b850ed5a9221614fb6284a5843d02826fe3b34383386b50e67039029c9a9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:36:48Z'
+  notes: 2 versão(ões); histórico completo em portaria-178-c-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Instituto da Segurança Social
+- Pobreza
+- Gás Natural
+- Financiamento
+- Modernização Administrativa
+- Contrato de Aquisição de Energia
+- Definição de Competências
+- Distribuição de Gás
+- Factura
+- Direção Geral de Energia e Geologia
+- Insuficiência Económica
+- Operador Económico
+- Preço
+- Proteção do Consumidor
+- Protocolo de Modernização Administrativa
+- Agência para a Modernização Administrativa
+- Sistema Nacional de Gás Natural
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:153519407:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/12-2021-153519407
+  date: '2021-01-11'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/101/2011/09/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/101/2011/09/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/138-a/2010/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138-a/2010/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/2014/11/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/2014/11/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+article_structure:
+  article_count: 12
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:36:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 178-C/2016
+
+Portaria n.º 178-C/2016
+
+de 1 de julho
+
+Com o Decreto-Lei n.º 101/2011, de 30 de setembro, à semelhança com o que já tinha sido feito com o fornecimento de energia elétrica, foi criada a tarifa social do gás natural, a aplicar a clientes finais economicamente vulneráveis.
+
+A tarifa social de fornecimento de gás natural, calculada através da aplicação de um desconto na tarifa de acesso às redes em baixa pressão, com um valor de desconto determinado pela Entidade Reguladora dos Serviços Energéticos, fixado anualmente pelo membro do Governo responsável pela área da energia, considerando a evolução dos custos prevista para o sector do gás natural, tal como aconteceu a tarifa social de energia elétrica, por força da sua complexidade administrativa acabou por ficar aquém da grande maioria de potenciais beneficiários.
+
+Um dos principais objetivos com que o Governo se comprometeu, desde a sua tomada de posse, foi a da concretização efetiva do automatismo da tarifa social. Uma medida de justiça social que o Estado, empresas e consumidores aguardavam desde 2010.
+
+Cientes que o problema de acesso ao benefício se encontrava no modelo de atribuição da tarifa social, preconizado numa lógica em que os interessados tinham de o requer junto dos comercializadores, com a Lei n.º 7-A/2016, de 30 de março, que aprovou o Orçamento do Estado para 2016, e na prossecução do Programa do XXI Governo Constitucional, foi redesenhado o procedimento de acesso à tarifa social de fornecimento de gás natural e de energia elétrica, no sentido de o tornar automático e oficioso para os agregados familiares de baixos recursos e beneficiários de prestações sociais sujeitas a condição de recursos a atribuição do benefício.
+
+Assim, foi implementado um novo e único sistema de atribuição da tarifa social de fornecimento de energia elétrica e de gás natural, para entrar em vigor a partir de 1 de julho de 2016, e que para assegurar o automatismo exigiu o envolvimento e a troca de informação entre Comercializadores, Direção-Geral de Energia e Geologia (DGEG), Instituto da Segurança Social, I. P. (ISS), Instituto de Informática, I. P. (II) e Autoridade Tributária (AT).
+
+Nesse contexto, foram celebrados protocolos entre todas aquelas entidades, aprovados previamente pela Comissão Nacional de Proteção de Dados, face à especial exigência de respeito pelos dados pessoais, não só na interconexão como no seu tratamento.
+
+Importa agora estabelecer os procedimentos, o modelo e as demais condições necessárias à aplicação das alterações ao artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março, permitindo a existência de um modelo único e automático de atribuição de tarifa social de fornecimento de gás natural a clientes economicamente vulneráveis.
+
+Assim:
+
+Ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março, manda o Governo, pela Secretária de Estado da Segurança Social e pelo Secretário de Estado da Energia, o seguinte:
+
+> Nota: [Artigo 4.º, Portaria n.º 12/2021 - Diário da República n.º 6/2021, Série I de 2021-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/12-2021-153519407) As referências feitas na Portaria n.º 178-C/2016, de 1 de julho, a «gestor do processo de mudança de comercializador de gás natural», e a «GPMC-GN» são substituídas, respetivamente, por «Operador Logístico de Mudança de Comercializador» e «OLMC».
+
+###### Artigo 1.º — Objeto e âmbito
+
+A presente portaria estabelece os procedimentos, o modelo e as demais condições necessárias à aplicação das alterações ao artigo 6.º do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março, que cria um modelo único e automático de atribuição de tarifa social de fornecimento de gás natural a clientes economicamente vulneráveis, no território de Portugal continental.
+
+###### Artigo 2.º — Recolha de informação
+
+1 - O procedimento para a atribuição da tarifa social de gás natural aos beneficiários é efetuado automaticamente, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março.
+
+2 - Para efeitos do procedimento a que se refere o número anterior e determinação da atribuição automática, devem:
+
+a) Os comercializadores de gás natural autorizar o gestor do processo de mudança de comercializador de gás natural (GPMC-GN) a remeter à Direção-Geral de Energia e Geologia (DGEG), por transmissão eletrónica de dados, a seguinte informação relativa aos clientes finais que reúnam as condições previstas no artigo 5.º do referido decreto-lei:
+
+i) Nome completo;
+
+ii) Número de identificação fiscal (NIF);
+
+iii) Código de Ponto de Entrega (CUI);
+
+iv) Morada completa do CUI;
+
+b) Os Operadores da Rede de Distribuição (ORD) transmitem a informação referida na alínea anterior ao GPMC-GN.
+
+3 - A autorização e a transmissão de informação referidas no número anterior integram o protocolo relativo ao acesso, transmissão e tratamento de dados pessoais de consumidores de gás natural, para efeitos de atribuição da tarifa social de fornecimento de gás natural celebrado entre a DGEG, a Agência para a Modernização Administrativa, I. P. (AMA) e o GPMC-GN.
+
+4 - Os comercializadores que não detenham a informação mencionada na alínea a) do n.º 2 devem atualizar esses dados junto do GPMC-GN através de carta, de correio eletrónico ou de mensagem escrita via telefone.
+
+5 - Na falta da informação mencionada no n.º 2 do presente artigo, os clientes finais não podem integrar a lista de clientes potencialmente elegíveis, a enviar para a DGEG, e se a mesma se encontrar incompleta ou incorreta pode resultar numa falta de aferição da condição de elegibilidade para a tarifa social, apenas suprível através de requerimento do cliente junto do seu comercializador, conforme modelo previsto no anexo da presente portaria e que dela faz parte integrante, passando a integrar a lista dos potenciais elegíveis na periodicidade seguinte que o GPMC-GN envia à DGEG.
+
+6 - Os clientes que se tenham oposto ao tratamento dos seus dados, para efeitos de aferição das condições necessárias para a elegibilidade da tarifa social, junto do comercializador de gás natural, não integram a lista de clientes enviada à DGEG pelo GPMC-GN.
+
+7 - Os clientes mencionados no número anterior integram a relação periódica de clientes enviada pelo GPMC-GN à DGEG, para aferição da sua condição de beneficiários, mediante requerimento junto do comercializador de gás natural, conforme modelo previsto no anexo da presente portaria e que se encontra disponibilizado no sítio da Internet dos comercializadores.
+
+8 - Para efeitos dos números 5 e 7 do presente artigo devem os comercializadores enviar no prazo máximo de cinco dias úteis esta informação ao ORD e este na periodicidade mensal seguinte ao OLMC.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2021 - Diário da República n.º 6/2021, Série I de 2021-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/12-2021-153519407), em vigor a partir de 2021-02-01
+
+###### Artigo 3.º — Tratamento da informação
+
+1 - Nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março, a DGEG remete a informação mencionada no artigo anterior ao Instituto de Informática, I. P. (II).
+
+2 - Para cumprimento do disposto no número anterior foi celebrado protocolo, no âmbito da tarifa social de fornecimento de gás natural, relativo ao tratamento automatizado de dados entre a DGEG, AMA, Instituto da Segurança Social, I. P. (ISS), e II.
+
+3 - O protocolo mencionado no número anterior foi aprovado por deliberação da CNPD e pelos membros do Governo responsáveis pelas áreas da modernização administrativa, dos assuntos fiscais, da segurança social e da energia.
+
+4 - As entidades mencionadas no n.º 2 remetem à DGEG a informação devidamente tratada com o apuramento dos potenciais beneficiários da tarifa social, nos termos previstos no artigo 2.º do referido decreto-lei.
+
+###### Artigo 4.º — Envio da informação tratada
+
+1 - A DGEG comunica a identificação dos respetivos clientes finais elegíveis para benefício da tarifa social, por transmissão eletrónica de dados ao GPMC-GN, que os disponibiliza ao ORD e aos comercializadores.
+
+2 - A identificação dos clientes finais elegíveis para benefício da tarifa social, para efeitos de aplicação da presente portaria, será realizada mediante indicação do nome completo, NIF, CUI e morada completa da instalação correspondente à habitação própria permanente.
+
+3 - O ORD repercute, por referência ao cliente beneficiário da tarifa social, o desconto aplicável na tarifa de acesso de redes devida pelo comercializador de gás natural, de acordo com os prazos definidos no artigo 8.º, salvo no caso de identificar alguma irregularidade no processo de atribuição da tarifa social, nomeadamente por não se encontrar verificado o requisito estabelecido no n.º 2 do artigo 5.º do Decreto-Lei n.º 101/2011, de 30 de setembro.
+
+4 - O comercializador repercute, no ciclo de faturação seguinte, o desconto da tarifa social ao cliente elegível, informando-o que, querendo, pode opor-se à atribuição do benefício no prazo de 30 dias.
+
+5 - A informação mencionada no número anterior é remetida pelos comercializadores de gás natural aos beneficiários da tarifa social na fatura, ou em documentação que integre ou acompanhe a mesma, no ciclo de faturação imediatamente seguinte à receção da comunicação da DGEG prevista no n.º 1.
+
+6 - Excecionam-se do disposto no número anterior as faturações que tenham outra periodicidade que não a mensal ou bimestral, devendo a informação ser remetida no decorrer do mês seguinte à comunicação prevista no n.º 1.
+
+7 - Os clientes finais elegíveis que se oponham à atribuição da tarifa social nos termos do n.º 4 são assinalados na lista mensal enviada pelo OLMC à DGEG, devendo ser retirado o desconto que entretanto tiver sido aplicado nas faturas.
+
+8 - Os clientes mencionados no n.º 7 que pretendam anular a respetiva recusa devem comunicar ao comercializador, nos termos do artigo seguinte, e o comercializador comunica ao ORD via OLMC, que por sua vez integra esta informação na lista mensal seguinte enviada à DGEG para aferição da sua condição de elegibilidade como beneficiários.
+
+9 - Para efeitos do número anterior devem os comercializadores enviar no prazo máximo de cinco dias úteis esta informação ao ORD e este, no mês seguinte, ao OLMC.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2021 - Diário da República n.º 6/2021, Série I de 2021-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/12-2021-153519407), em vigor a partir de 2021-02-01
+
+###### Artigo 5.º — Requerimento para atribuição de tarifa social
+
+1 - Os clientes finais de gás natural podem requerer, nos termos do disposto no n.º 6 do artigo 6.º do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março, junto das instituições da segurança social, comprovativo da sua condição de elegibilidade como beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do referido decreto-lei.
+
+2 - Os clientes finais que obtenham o comprovativo referido no número anterior devem entregá-lo junto do seu comercializador de gás natural, requerendo a verificação dos respetivos pressupostos para a atribuição da tarifa social.
+
+3 - O comercializador de gás natural, na posse do comprovativo mencionado no n.º 1, verifica se a morada constante daquele coincide com a morada do CUI e comunica esta informação ao GPMC-GN que afere as condições de elegibilidade, através de confirmação junto do ORD.
+
+4 - Reunidas as condições de elegibilidade, o OLMC confirma ao comercializador e ao ORD a aplicação do desconto da tarifa social e dá conhecimento à DGEG na lista enviada mensalmente.
+
+5 - A aplicação do desconto da tarifa social produz efeitos a partir da data indicada pelo ORD ao comercializador.
+
+6 - Em caso de dúvida entre a situação do cliente final referida na última lista da DGEG e a constante no comprovativo apresentado junto do comercializador, deve ser considerada a informação mais recente relativa à situação do cliente final.
+
+7 - Para efeitos de atribuição de tarifa social, a qualidade de beneficiário do abono de família cujas prestações sejam processadas fora do sistema de informação da segurança social, designadamente as que são geridas pelos serviços processadores de remuneração da Administração Pública, é comprovada por apresentação de declaração das respetivas entidades gestoras, emitidas, em prazo não superior a cinco dias úteis, a pedido dos beneficiários, aplicando-se igualmente o disposto nos n.os 2 e 3.
+
+8 - Nas situações referidas no número anterior, deverá o cliente final de gás natural beneficiário do 1.º escalão do abono de família cujas prestações sejam processadas fora do sistema de informação da segurança social, sempre que se verifique alteração na sua situação e, em qualquer caso, anualmente, entregar a declaração referida no n.º 7 ao seu comercializador, aplicando-se igualmente o disposto nos números 2, 3 e 4.
+
+9 - Para efeitos do disposto no número anterior, e desde que não se verifique qualquer alteração à situação do cliente final, o benefício da tarifa social de fornecimento de gás natural deverá ser mantido aos seus consumos até revalidação no ano seguinte, independentemente do resultado dos processamentos automáticos entretanto decorridos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2021 - Diário da República n.º 6/2021, Série I de 2021-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/12-2021-153519407), em vigor a partir de 2021-02-01
+
+###### Artigo 6.º — Comprovativos
+
+1 - Os comprovativos a que se refere o n.º 6 do artigo 6.º do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março, devem conter a seguinte informação:
+
+a) NIF;
+
+b) Prestações sociais de que é beneficiário e indicação da morada associada ao número de identificação da segurança social;
+
+c) Data da extração do comprovativo.
+
+2 - A informação a que se refere a alínea c) do número anterior é extraída na Segurança Social Direta.
+
+###### Artigo 7.º — Atualização e manutenção da tarifa social
+
+1 - A DGEG procede, em setembro de cada ano, à atualização e confirmação da condição de cliente final economicamente vulnerável nos termos do artigo 2.º da presente portaria.
+
+2 - Para efeitos do número anterior, o GPMC-GN deve, até 5 de setembro de cada ano, enviar a informação prevista no n.º 2 do artigo 2.º da presente portaria.
+
+3 - Sem prejuízo do disposto no número anterior, a DGEG procede mensalmente à atualização e manutenção da condição de cliente final economicamente vulnerável, enviando ao II a totalidade da informação mencionada no n.º 1 do artigo 3.º da presente portaria.
+
+4 - Para efeitos da verificação das condições previstas no número anterior, aplica-se com as devidas adaptações o previsto nos artigos 2.º a 4.º da presente portaria.
+
+5 - Não obstante o disposto nos números anteriores, sempre que o beneficiário da tarifa social de fornecimento de gás natural exceda o escalão de consumo estabelecido na alínea d) do n.º 1 do artigo 5.º do Decreto-Lei n.º 101/2011, de 30 de setembro, na sua redação atual, o ORD deve informar o OLMC que, por sua vez, comunica ao comercializador a cessação imediata de aplicação da tarifa social, dando igualmente conhecimento deste evento à DGEG na lista enviada mensalmente.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2021 - Diário da República n.º 6/2021, Série I de 2021-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/12-2021-153519407), em vigor a partir de 2021-02-01
+
+###### Artigo 8.º — Prazos
+
+No âmbito da atualização e manutenção da tarifa social, a efetuar numa base anual e mensal, prevista nos números 1 a 3 do artigo anterior, devem aplicar-se os seguintes prazos:
+
+a) Os ORD devem transmitir a informação relativa aos clientes finais economicamente vulneráveis ao OLMC até ao último dia do mês anterior;
+
+b) Para efeitos da verificação das condições previstas do n.º 3 do artigo 7.º, o OLMC deverá comunicar esta informação à DGEG até ao 5.º dia de cada mês;
+
+c) O OLMC disponibiliza a informação referida no ponto anterior aos ORD até dois dias úteis após envio por parte da DGEG.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2021 - Diário da República n.º 6/2021, Série I de 2021-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/12-2021-153519407), em vigor a partir de 2021-02-01
+
+###### Artigo 9.º — Procedimentos entre entidades do setor do gás natural
+
+O financiamento dos custos, a sua comunicação entre operadores, bem como os procedimentos de pagamento entre as entidades do setor do gás natural, são definidos nos regulamentos da Entidade Reguladora dos Serviços Energéticos (ERSE), nomeadamente no Regulamento de Relações Comerciais e no Regulamento Tarifário do Setor Elétrico, tendo em consideração o estabelecido nos artigos 3.º e 4.º do Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março.
+
+###### Artigo 10.º — Disposições finais
+
+1 - Os comercializadores de gás natural comunicam aos clientes titulares de contrato de fornecimento de gás natural em baixa pressão com consumos anuais iguais ou inferiores a 500 m3, a informação prevista no artigo 8.º do Decreto-Lei n.º 101/2011, de 30 de setembro, e pela Lei n.º 7-A/2016, de 30 de março, através dos respetivos sítios na Internet e em documentação que integre ou acompanhe as faturas enviadas aos clientes ou em comunicação autónoma, até 31 de dezembro de 2016.
+
+2 - Os meios eletrónicos previstos nos artigos 2.º, 3.º e 4.º são disponibilizados pelas instituições de segurança social competentes, pela AMA, pela DGEG e pelo GPMC-GN, permitindo a transmissão eletrónica de dados para a DGEG, nos termos do protocolo mencionado no n.º 3 do artigo 2.º e no n.º 3 do artigo 3.º da presente portaria.
+
+3 - Para efeitos de atribuição ou manutenção da tarifa social, presume-se que a morada indicada pelas instituições de segurança social competentes corresponde à habitação permanente do beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 101/2011, de 30 de setembro.
+
+4 - Cumpre à DGEG a verificação do cumprimento dos procedimentos relativos à aplicação da tarifa social bem como a resolução de potenciais conflitos, bem como a receção de reclamações dos potenciais beneficiários, relativas à atribuição da tarifa social de gás natural, as quais devem ser apresentadas junto dos comercializadores.
+
+###### Artigo 11.º — Disposição transitória
+
+Os atuais beneficiários da tarifa social de gás natural continuam a beneficiar da mesma até à definição, pela DGEG, da relação de clientes finais que beneficiam da tarifa social nos termos implementados nesta portaria e demais legislação em vigor, sem prejuízo das obrigações previstas no n.º 7 do artigo 6.º da Decreto-Lei n.º 101/2011, de 30 de setembro, alterado pela Lei n.º 7-A/2016, de 30 de março.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 1 de julho de 2016.
+
+A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 30 de junho de 2016. - O Secretário de Estado da Energia, Jorge Filipe Teixeira Seguro Sanches, em 1 de julho de 2016.
+
+## Anexo — (a que se referem os n.os 5 e 7 do artigo 2.º e o n.º 8 do artigo 4.º)
+
+Cliente potencialmente elegível para tarifa social
+
+Nome completo do cliente..., NIF (número de identificação fiscal)..., titular do cartão de cidadão/bilhete de identidade n.º ..., com o domicílio permanente em..., requer a sua integração na lista de potenciais clientes elegíveis para efeitos de verificação pela Direção-Geral de Energia e Geologia da sua condição de elegibilidade para atribuição da tarifa social de fornecimento de gás natural estabelecida no Decreto-Lei n.º 101/2011, de 30 de setembro, e pela Lei n.º 7-A/2016, de 30 de março.

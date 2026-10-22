@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:553605:por
+title: Decreto-Lei n.º 57/2012
+short_title: null
+summary: Determina a extinção da sociedade Arco Ribeirinho Sul, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 57/2012
+official_date: null
+publication_date: '2012-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2012, Série I de 2012-03-12
+  number: '51'
+  series: I
+  supplement: null
+  pages: 1098 - 1099
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05100/0109801099.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/57/2012/03/12/p/dre/pt/html
+  oj: null
+  dre: '553605'
+  dre_path: /dr/detalhe/decreto-lei/57-2012-553605
+  internal: pt:dre:553605:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2012-553605
+  metadata_url: https://data.dre.pt/eli/dec-lei/57/2012/03/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2012-553605
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-12T00:00:00Z'
+integrity:
+  source_sha256: dffd3864ed3a92b4b6be4b444607c2bd4cbf958b31aeb95704cfecb4f513b98a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-57-553605.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Renovação Urbana
+- Extinção de Serviços
+- Parque EXPO 98
+- Projecto do ARCO Ribeirinho SUL
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/219/2009/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/219/2009/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/66/2009/08/07/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 57/2012
+
+de 12 de março
+
+O XIX Governo Constitucional assumiu o compromisso de racionalização e redução de estruturas, designadamente no sector empresarial do Estado.
+
+Este compromisso decorre também do Memorando de Entendimento celebrado entre Portugal e a Comissão Europeia, o Banco Central Europeu e o Fundo Monetário Internacional.
+
+A Arco Ribeirinho Sul, S. A., sociedade anónima de capitais exclusivamente públicos, foi criada pelo [Decreto-Lei n.º 219/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2009-489245), de 8 de setembro, tendo por objeto social a gestão e a coordenação global do Projeto do Arco Ribeirinho Sul e do investimento a realizar naquele âmbito, nas áreas e nos termos definidos no respetivo Plano Estratégico, aprovado na [Resolução do Conselho de Ministros n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2009-494009), de 7 de agosto. O referido Projeto visava operacionalizar a reabilitação e requalificação urbana da área conhecida por Arco Ribeirinho Sul, compreendida entre a Costa da Caparica e Alcochete, que integra os antigos complexos industriais da Margueira (Almada), da Siderurgia Nacional (Seixal) e da CUF/Quimigal (Barreiro).
+
+Atentos os atuais constrangimentos e a indispensabilidade de racionalizar custos e de redução e simplificação de estruturas, o Governo decidiu proceder à extinção da referida sociedade.
+
+A decisão de extinção da Arco Ribeirinho Sul, S. A., não significa a diminuição do empenhamento do Estado no Projeto do Arco Ribeirinho Sul, que, por se afigurar relevante no âmbito do desenvolvimento integrado do respetivo território de intervenção, continua a ser desenvolvido.
+
+Assim, em articulação com os municípios da área de intervenção e com a Baía do Tejo, S. A., na qualidade de proprietária da maior parte dos imóveis sitos nos territórios abrangidos, constitui-se um grupo de acompanhamento, não remunerado, em que estão representadas entidades da Administração Central e Local com responsabilidades sobre os instrumentos administrativos e de ordenamento do território relacionados com o desenvolvimento do referido Projeto.
+
+Nesta medida, procede-se à extinção da sociedade gestora Arco Ribeirinho Sul, S. A.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei determina a extinção da sociedade Arco Ribeirinho Sul, S. A., sociedade anónima de capitais exclusivamente públicos criada pelo [Decreto-Lei n.º 219/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2009-489245), de 8 de setembro.
+
+###### Artigo 2.º — Liquidação
+
+1 - A liquidação da Arco Ribeirinho Sul, S. A., opera nos termos previstos nos artigos 146.º e seguintes do Código das Sociedades Comerciais, devendo estar concluída no prazo de três meses a contar da data da dissolução, nos termos de deliberação da assembleia geral.
+
+2 - Compete ao administrador liquidatário eleito pela assembleia geral o exercício dos poderes e deveres previstos na lei comercial, salvo o disposto no artigo seguinte.
+
+###### Artigo 3.º — Afetação do capital social
+
+Após a extinção da Arco Ribeirinho Sul, S. A., o valor remanescente do respetivo capital social, deduzidos os custos necessários para a liquidação da sociedade, é afeto ao orçamento do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, sendo alocado ao pagamento de dívidas das sociedades Polis.
+
+###### Artigo 4.º — Transferência de atribuições e competências
+
+As atribuições e competências relativas à promoção do Projeto do Arco Ribeirinho Sul são transferidas para a Baía do Tejo, S. A.
+
+###### Artigo 5.º — Conselho consultivo
+
+1 - Na sequência da extinção da Arco Ribeirinho Sul, S. A., o conselho consultivo previsto nos seus estatutos transita para a Baía do Tejo, S. A.
+
+2 - O conselho a que se refere o número anterior, não remunerado a qualquer título, tem funções de consulta, apoio e participação na definição das linhas gerais em matéria de implementação integrada do Plano Estratégico do Projeto do Arco Ribeirinho Sul, aprovado pela [Resolução do Conselho de Ministros n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2009-494009), de 7 de agosto.
+
+###### Artigo 6.º — Grupo de acompanhamento
+
+1 - O acompanhamento da execução do Projeto do Arco Ribeirinho Sul é efetuado por um grupo, não remunerado, ao qual compete:
+
+a) Acompanhar a execução futura do Projeto do Arco Ribeirinho Sul;
+
+b) Promover e assegurar a articulação da Administração Central, da Administração Local e das demais entidades relevantes para a execução de projetos a desenvolver no âmbito do Projeto do Arco Ribeirinho Sul.
+
+2 - O grupo de acompanhamento é composto pelos seguintes pontos focais:
+
+a) Um representante do município de Almada;
+
+b) Um representante do município do Barreiro;
+
+c) Um representante do município do Seixal;
+
+d) Um representante da Direção-Geral do Território;
+
+e) Um representante da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo (CCDR/LVT);
+
+f) Um representante da Baía do Tejo, S. A., ou da Parpública - Participações Públicas, SGPS, S. A.;
+
+g) Um representante do membro do Governo responsável pela área das finanças;
+
+h) Um representante do membro do Governo responsável pela área do turismo;
+
+i) Um representante do membro do Governo responsável pela área do ambiente e do ordenamento do território.
+
+3 - O grupo de acompanhamento pode convidar a participar nas suas reuniões representantes de outras entidades ou personalidades de reconhecido mérito nas matérias envolvidas, de acordo com os assuntos que constem das respetivas ordens de trabalhos.
+
+4 - Aos representantes referidos nos números anteriores, ainda que na qualidade de convidados, não é devido o pagamento de qualquer prestação, independentemente da respetiva natureza, designadamente, a título de remuneração, subsídio ou senha de presença.
+
+5 - O presidente da CCDR-LVT preside às reuniões do grupo de acompanhamento, sendo o secretariado e as condições logísticas necessárias ao funcionamento do grupo asseguradas pela CCDR-LVT.
+
+###### Artigo 7.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 219/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2009-489245), de 8 de setembro.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 12 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José Pedro Correia de Aguiar-Branco - Feliciano José Barreiras Duarte - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+**Promulgado em 1 de março de 2012.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 5 de março de 2012.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

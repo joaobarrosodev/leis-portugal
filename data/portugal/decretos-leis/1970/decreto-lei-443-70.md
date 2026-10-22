@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:666347:por
+title: Decreto-Lei n.º 443/70
+short_title: null
+summary: Regula a constituição, atribuições e funcionamento das federações de Casas do Povo - Revoga o Decreto-Lei n.º 41286
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Previdência Social - Gabinete do Ministro
+proposing_entity: null
+official_number: 443/70
+official_date: null
+publication_date: '1970-09-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 221/1970, 1º Suplemento, Série I de 1970-09-23
+  number: '221'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1356-(2) a 1356-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/09/22101/00020004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666347'
+  dre_path: /dr/detalhe/decreto-lei/443-1970-666347
+  internal: pt:dre:666347:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1970-666347
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1970-666347
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-12-23T00:00:00Z'
+integrity:
+  source_sha256: 8631414eb76d24a8e1bce9f2a8525246f751bbfa30300e68ab66d43642e6e94e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-443-666347.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:468391:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 443/70
+
+de 23 de Setembro
+
+A base XXXII da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), de 2 de Maio de 1969, mantém em vigor «a legislação sobre as federações das Casas do Povo em tudo o que não contrarie» as suas próprias disposições.
+
+O diploma legal que permite o agrupamento das Casas do Povo em federações e regula a constituição destas, as suas atribuições e o seu funcionamento é o [Decreto-Lei n.º 41286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41286-1957-254674), de 23 de Setembro de 1957.
+
+Ora, não há dúvida de que alguns preceitos da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), nomeadamente das bases VII e VIII, têm suficientes incidências na estrutura das federações e na respectiva actividade para nos permitirem concluir que, sem embargo da sua manutenção em vigor nos termos da citada disposição revogatória, o [Decreto-Lei n.º 41286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41286-1957-254674) deve considerar-se parcialmente prejudicado. Não tanto por contrariar a [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), mas porque lhe ficam à margem preceitos que de ora em diante não podem deixar de ser considerados em matéria de coordenação, a nível superior, das actividades das Casas do Povo, e portanto no que se refere às suas federações.
+
+Trata-se sobretudo das funções de representação profissional dos trabalhadores agrícolas por conta de outrem, que passaram a competir directamente às federações, cuja estrutura orgânica teve por isso mesmo de ser enriquecida com secções de representação profissional, confiadas à direcção de sócios efectivos.
+
+Por outro lado, a coordenação da actividade desenvolvida pelas Casas do Povo em matéria de previdência passou a caber às caixas sindicais de previdência e abono de família do respectivo distrito, perdendo assim toda a razão de ser aquelas disposições que na legislação própria das federações contemplavam precisamente a sua intervenção na matéria.
+
+Considerando-se, assim, os inconvenientes da subsistência de um diploma só parcialmente em vigor e em termos de não reflectir já a orientação estabelecida em aspectos essenciais da matéria a que respeita;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º As Casas do Povo podem agrupar-se em federações, cuja constituição, atribuições e funcionamento se regulam pelo presente diploma.
+
+###### Art. 2.º As federações são organismos corporativos intermédios da corporação e gozam de personalidade jurídica.
+
+###### Art. 3.º As federações são constituídas a requerimento das Casas do Povo interessadas ou mediante proposta doa Corporação da Lavoura e reger-se-ão por estatutos aprovados pelo Ministro das Corporações e Previdência Social.
+
+###### Art. 4.º - 1. As federações têm em regra âmbito distrital, mas, sempre que as circunstâncias o aconselhem, permitir-se-á a constituição dentro do mesmo distrito de duas ou mais federações.
+
+2. A título excepcional, e depois de ouvida a Corporação da Lavoura, poderão ainda incluir-se em qualquer das federações previstas no n.º 1 Casas do Povo estranhas aos respectivos distritos, sub-regiões ou regiões.
+
+###### Art. 5.º São atribuições das federações:
+
+a) Coordenar a actividade das Casas do Povo federadas em matéria de cooperação social e de representação profissional;
+
+b) Acompanhar o desenvolvimento da previdência rural;
+
+c) Representar as Casas do Povo nos conselhos das corporações;
+
+d) Representar todos os trabalhadores agrícolas por conta de outrem da sua área;
+
+e) Promover a constituição, o desenvolvimento e o aperfeiçoamento das Casas do Povo;
+
+f) Colaborar, nos termos da legislação vigente e dentro da esfera da sua competência, na execução das medidas tendentes à formação do espírito social e da consciência corporativa;
+
+g) Fomentar a criação e o desenvolvimento dos serviços sociais corporativos e do trabalho previstos na [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956;
+
+h) Tomar a iniciativa da construção de casas para trabalhadores rurais ou de beneficiação das já existentes e cooperar na execução de providências que visem a mesma finalidade;
+
+i) Exercer as funções políticas conferidas por lei.
+
+###### Art. 6.º As federações têm como órgãos o conselho da federação, a direcção da federação e a secção de representação profissional.
+
+###### Art. 7.º O conselho da federação é formado pelos presidentes da assembleia geral e da direcção de todas as Casas do Povo federadas.
+
+###### Art. 8.º Compete especialmente ao conselho da federação:
+
+a) Eleger trienalmente, de entre os seus membros, o presidente e os secretários;
+
+b) Eleger trienalmente, de entre os sócios das Casas do Povo federadas, o presidente, o secretário e o tesoureiro da direcção;
+
+c) Apreciar e votar os orçamentos de cada exercício, bem como examinar e discutir as contas e o relatório anual;
+
+d) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pela direcção.
+
+###### Art. 9.º - 1. O conselho reúne ordinàriamente duas vezes por ano, e extraordinàriamente, sempre que for convocado por iniciativa, do seu presidente ou a requerimento da direcção ou da maioria dos membros do conselho.
+
+2. São nulas as deliberações sobre assuntos estranhos aos da convocação.
+
+###### Art. 10.º - 1. A direcção da federação é composta pelo presidente, pelo vice-presidente e por três vogais, tendo o seu mandato a duração de três anos.
+
+2. Será vice-presidente o vice-presidente da secção de representação profissional.
+
+3. A direcção designará de entre os vogais um secretário e o tesoureiro.
+
+###### Art. 11.º Compete à direcção:
+
+a) Representar a federação em juízo e fora dele;
+
+b) Apresentar ao conselho da federação as propostas orçamentais, assim como o relatório e as contas de gerência;
+
+c) Tomar todas as resoluções e praticar todos os actos conducentes à realização dos fins do organismo.
+
+###### Art. 12.º - 1. A secção de representação profissional é presidida pelo presidente da direcção da federação e composta por quatro vogais, eleitos trienalmente, de entre si, pelos vice-presidentes das direcções das Casas do Povo federadas.
+
+2. Os vogais designarão, de entre si, o vice-presidente da secção.
+
+3. O vice-presidente da secção representará a federação no conselho da Corporação da Lavoura e será vogal do conselho geral da respectiva caixa regional de previdência e abono de família.
+
+###### Art. 13.º - 1. As funções de representação profissional das federações serão exercidas pela secção de representação profissional.
+
+2. No exercício das funções referidas no numero anterior, compete à secção de representação profissional:
+
+a) Negociar e celebrar convenções colectivas de trabalho com os grémios da lavoura ou as suas federações;
+
+b) Designar, de entre os sócios efectivos das Casas do Povo federadas, os vogais representantes dos trabalhadores agrícolas nas comissões corporativas do trabalho rural e nos conselhos regionais de agricultura;
+
+c) Tutelar os legítimos interesses dos trabalhadores agrícolas junto das empresas, dos demais organismos corporativos e do Estado;
+
+d) Acompanhar a aplicação das normas legais ou convencionais de protecção do trabalho rural e informar sobre o seu cumprimento;
+
+e) Dar parecer sobre os problemas do trabalho agrícola, designadamente quanto à sua situação, características, necessidades e condições económicas e higiene e segurança dos locais do trabalho.
+
+3. As secções de representação profissional deverão exercer as suas atribuições respeitantes à negociação e celebração de convenções colectivas em estreita colaboração com as comissões de representação profissional das Casas do Povo federadas, quando tenham sido constituídas.
+
+###### Art. 14.º - 1. Constituem receitas das federações:
+
+a) As contribuições das Casas do Povo federadas, nos termos que vierem a ser estabelecidos pelo conselho da federação;
+
+b) Os subsídios provenientes do Fundo Comum das Casas do Povo ou de quaisquer outros fundos para fins sociais;
+
+c) Os subsídios do Estado, da Corporação da Lavoura e de outras entidades públicas ou particulares;
+
+d) Os juros das importâncias capitalizadas;
+
+e) Quaisquer outros rendimentos previstos por lei.
+
+###### Art. 15.º São garantidas às federações todas as regalias e isenções de que beneficiam as Casas do Povo.
+
+###### Art. 16.º Em caso de dissolução, os bens das federações serão incorporados no património do Fundo Comum das Casas do Povo.
+
+###### Art. 17.º As federações regular-se-ão, no que não estiver estabelecido no presente diploma, pelas disposições aplicáveis da regulamentação das Casas do Povo.
+
+###### Art. 18.º É revogado o [Decreto-Lei n.º 41286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41286-1957-254674), de 23 de Setembro de 1957.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
+
+**Promulgado em 16 de Setembro de 1970.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

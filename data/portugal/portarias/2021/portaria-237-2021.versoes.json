@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173965837:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-173956415",
+ "dre_path": "/dr/detalhe/portaria/237-2021-173965837",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-02-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175780031:por",
+     "title": "Declaração de Retificação n.º 40/2021",
+     "published": "2021-12-13",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/40-2021-175780031"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "175865620",
+    "173993076",
+    "173993077",
+    "173993078",
+    "173993079",
+    "173993080"
+   ],
+   "acts_without_text_change": []
+  }
+ ],
+ "fragments": {
+  "175865620": {
+   "fragment_id": "173956416",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-02-12",
+   "changed_by": [],
+   "markdown": "Portaria n.º 237/2021\n\nde 8 de novembro\n\nSumário: Alteração da Portaria n.º 934/2006, de 8 de setembro, que aprova o Regulamento de Taxas.\n\nO Regime Jurídico das Armas e suas Munições, aprovado pela Lei n.º 5/2006, de 23 de fevereiro, alterada pelas Leis n.os 59/2007, de 4 de setembro, 17/2009, de 6 de maio, 26/2010, de 30 de agosto, 12/2011, de 27 de abril, 50/2013, de 24 de julho, e 50/2019, de 24 de julho, estabelece que as taxas a cobrar pela prestação dos serviços e demais atos previstos naquela lei sejam aprovadas por portaria do membro do governo responsável pela área da administração interna.\n\nNeste sentido, a Portaria n.º 934/2006, de 8 de setembro, alterada pela Lei n.º 12/2011, de 27 de abril, e pelas Portarias n.os 256/2007, de 12 de março, 1165/2007, de 13 de setembro, 184/2012, de 12 de junho, e 224/2017, de 24 de julho, veio aprovar o Regulamento de Taxas que prevê o valor das taxas a cobrar pela Polícia de Segurança Pública (PSP), pelos atos previstos na Lei n.º 5/2006, de 23 de fevereiro, e sua legislação regulamentar.\n\nEm face das alterações introduzidas na Lei n.º 5/2006, de 23 de fevereiro, pela Lei n.º 50/2019, de 24 de julho, importa fazer as devidas atualizações ao Regulamento aprovado pela Portaria n.º 934/2006, de 8 de setembro, na sua atual redação.\n\nDe igual forma, importa prever as taxas a cobrar por novos serviços prestados pela Polícia de Segurança Pública, nomeadamente no âmbito do Banco de Provas. De acordo com a Lei n.º 41/2006, de 25 de agosto, os padrões internacionais de segurança, qualidade e rigor no funcionamento das armas de fogo e suas munições, os testes, peritagens, perícias e marcações com vista à respetiva homologação e aprovação, deverão realizar-se num Banco de Provas de Armas e Fogo e suas Munições, certificado e equipado com a tecnologia necessária e adequada, de acordo com os regulamentos internacionais definidos pela Commission Internationale Permanente pour l'épreuve des armes à feu portatives (CIP). Atendendo à criação do primeiro Banco Nacional de Provas (BNP) em Portugal, integrado na estrutura orgânica da PSP, urge promover uma regulamentação de taxas a cobrar pela prestação de serviços realizados.\n\nAssim:\n\nManda o Governo, pelo Ministro de Estado e das Finanças e, nos termos da alínea c) do n.º 2 do Despacho n.º 543/2020, de 2 de janeiro, do Ministro da Administração Interna, publicado no Diário da República, 2.ª série, n.º 11, de 16 de janeiro de 2020, pelo Secretário de Estado Adjunto e da Administração Interna, ao abrigo do disposto nas alíneas d) e e) do n.º 2 do artigo 117.º da Lei n.º 5/2006, de 23 de fevereiro,  alterada e republicada pela Lei n.º 50/2019, de 24 de julho, e do n.º 3 do artigo 52.º do Decreto-Lei n.º 159/2019, de 24 de outubro, o seguinte:"
+  },
+  "173993076": {
+   "fragment_id": "173956417",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à sexta alteração da Portaria n.º 934/2006, de 8 de setembro, alterada pela Lei n.º 12/2011, de 27 de abril, e pelas Portarias n.os 256/2007, de 12 de março, 1165/2007, de 13 de setembro, 184/2012, de 12 de junho, e 224/2017, de 24 de julho."
+  },
+  "173993077": {
+   "fragment_id": "173956418",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 934/2006, de 8 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 934/2006, de 8 de setembro\n\nOs artigos 1.º, 5.º, 7.º a 10.º, 12.º a 14.º, 16.º, 19.º e 22.º do Regulamento das Taxas, aprovado pela Portaria n.º 934/2006, de 8 de setembro, na sua redação atual, passam a ter a seguinte redação:\n\n«1.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) Segunda via de licença de detenção de arma no domicílio - (euro) 30,15.\n\n5.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) Quando resultante de reclassificação - (euro) 24,80;\n\ne) Quando resultante de marcação ou numeração - (euro) 24,80.\n\n2 - [...]\n\n7.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\ni) [...]\n\nii) [...]\n\niii) [...]\n\niv) [...]\n\nv) [...]\n\nvi) [...]\n\nvii) Componente essencial de armas da classe B ou B1 - (euro) 2;\n\nviii) Componente essencial de armas da classe C - (euro) 2;\n\nix) Componente essencial de armas da classe D - (euro) 2;\n\nx) Munições para armas das classes B ou B1 (por cada 5000) - (euro) 5,00;\n\nxi) Munições para armas das classes C (por cada 5000) - (euro) 5,00;\n\nxii) Munições para armas das classes D (por cada 5000) - (euro) 5,00;\n\nxiii) Cartuchos ou invólucros com fulminantes (por cada 5000) - (euro) 3,00;\n\nxiv) Fulminantes (por cada 5000) - (euro) 3,00;\n\nb) [...]\n\nc) [...]\n\ni) [...]\n\nii) [...]\n\niii) [...]\n\niv) [...]\n\nv) [...]\n\nvi) [...]\n\nvii) Componente essencial de armas da classe B ou B1 - (euro) 1;\n\nviii) Componente essencial de armas da classe C - (euro) 1;\n\nix) Componente essencial de armas da classe D - (euro) 1;\n\nx) Munições para armas das classes B ou B1 (por cada 5000) - (euro) 1,90;\n\nxi) Munições para armas das classes C (por cada 5000) - (euro) 1,90;\n\nxii) Munições para armas das classes D (por cada 5000) - (euro) 1,90;\n\nxiii) Cartuchos ou invólucros com fulminantes (por cada 5000) - (euro) 1,90;\n\nxiv) Fulminantes (por cada 5000) - (euro) 1,90;\n\nd) Exportação temporária:\n\ni) Armas Classe B ou B1, C e D - (euro) 12,80;\n\nii) Armas Classe E, F e G - (euro) 6,80.\n\n2 - [...]\n\n8.º\n\n[...]\n\nPela concessão das autorizações de transferência relativas às classes de armas, seus componentes integrantes e munições abaixo indicadas há lugar ao pagamento das seguintes taxas unitárias:\n\na) [...]\n\ni) [...]\n\nii) [...]\n\niii) [...]\n\niv) [...]\n\nv) [...]\n\nvi) [...]\n\nvii) De componente essencial de arma da classe B ou B1 - (euro) 2;\n\nviii) De componente essencial de arma da classe C - (euro) 2;\n\nix) De componente essencial de arma da classe D - (euro) 2;\n\nx) Munições para armas das classes B ou B1 (por cada 5000) - (euro) 5,00;\n\nxi) Munições para armas das classes C (por cada 5000) - (euro) 5,00;\n\nxii) Munições para armas das classes D (por cada 5000) - (euro) 5,00.\n\nxiii) Cartuchos ou invólucro com fulminante (por cada 5000) - (euro) 4,30;\n\nxiv) Fulminantes (por cada 5000) - (euro) 4,30;\n\nb) [...]\n\ni) [...]\n\nii) [...]\n\niii) [...]\n\niv) [...]\n\nv) [...]\n\nvi) [...]\n\nvii) De componente essencial de arma da classe B ou B1 - (euro) 2;\n\nviii) De componente essencial de arma da classe C - (euro) 2;\n\nix) De componente essencial de arma da classe D - (euro) 2;\n\nx) Munições para armas das classes B ou B1 (por cada 5000) - (euro) 5,00;\n\nxi) Munições para armas das classes C (por cada 5000) - (euro) 5,00;\n\nxii) Munições para armas das classes D (por cada 5000) - (euro) 5,00;\n\nxiii) Cartuchos ou invólucro com fulminante (por cada 5000) - (euro) 4,30;\n\nxiv) Fulminantes (por cada 5000) - (euro) 4,30;\n\nc) Transferências temporárias de outros Estados da UE para Portugal e de Portugal para outros Estados membros da UE:\n\ni) [...]\n\nii) [...]\n\niii) [...]\n\niv) [...]\n\nv) [...]\n\nvi) [...]\n\nvii) De componente essencial de arma da classe B ou B1 - (euro) 1;\n\nviii) De componente essencial de arma da classe C - (euro) 1;\n\nix) De componente essencial de arma da classe D - (euro) 1;\n\nx) Munições para armas das classes B ou B1 (por cada 5000) - (euro) 2,50;\n\nxi) Munições para armas das classes C (por cada 5000) - (euro) 2,50;\n\nxii) Munições para armas das classes D (por cada 5000) - (euro) 2,50.\n\n9.º\n\nAutorização para aquisição de armas, componentes essenciais e munições\n\nA concessão de autorização para aquisição de armas e suas munições é sujeita ao pagamento das seguintes taxas, nos termos abaixo indicados:\n\na) Da classe B ou B1 - (euro) 3/unidade;\n\nb) Da classe C ou D - (euro) 4,30/unidade;\n\nc) De sinalização, veterinárias, lança-cabos, starter e alarme da classe G ou armas elétricas e aerossóis de defesa da classe E - (euro) 4,30/unidade;\n\nd) De qualquer das classes sujeitas a manifesto, por sucessão mortis causa - (euro) 1,50/unidade;\n\ne) De munições da Classe B, B1 ou C - (euro) 4,30;\n\nf) De componentes essenciais da Classe B, B1, C, D e F - (euro) 4,30/unidade.\n\n10.º\n\nAutorizações especiais\n\nPela concessão de autorização especial para venda, aquisição, cedência, detenção, utilização, importação, exportação e transferência de armas e acessórios, há lugar ao pagamento de taxa no valor de (euro) 250.\n\n12.º\n\n[...]\n\n[...]\n\na) Para armas de pólvora preta - (euro) 1,00;\n\nb) Em quantidades superiores às legalmente fixadas para a execução de manifestações e recriações históricas - (euro) 2,00;\n\nc) Pólvora de base nitrocelulósica - (euro) 4,30;\n\nd) Fulminantes, cartuchos ou invólucros com fulminante - (euro) 4,30.\n\n13.º\n\n[...]\n\n1 - [...]\n\na) (Revogada.)\n\nb) [...]\n\nc) (Revogada.)\n\n2 - [...]\n\n14.º\n\n[...]\n\n[...]\n\na) Certificação:\n\ni) De empréstimo de arma - (euro) 12,80;\n\nii) De desativação de arma - (euro) 12,80;\n\niii) De exclusão de arma - (euro) 12,80;\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nl) [...]\n\nm) [...]\n\nn) Marcação e numeração de arma - (euro) 20,00;\n\no) [...]\n\ni) [...]\n\nii) [...]\n\np) Autorização para a desativação de armas de fogo em banco de provas ou em titulares do alvará de armeiro do tipo 1 ou 2 - (euro) 12,80;\n\nq) [...]\n\nr) [...]\n\ns) Desativação de arma - (euro) 120,30;\n\nt) Verificação de armas, munições, componentes essenciais e acessórios de armas - (euro) 4,00;\n\nu) [...]\n\nv) [...]\n\nx) (Revogada.)\n\nz) [...]\n\naa) [...]\n\nbb) Emissão de certificado de desativação - (euro) 24.\n\n16.º\n\nSegundas vias, substituições, renovações e cedências\n\n1 - (Anterior corpo do artigo.)\n\n2 - Pela substituição de livrete há lugar ao pagamento, à PSP, de uma taxa de montante igual ao devido pela primeira emissão.\n\n19.º\n\nIncentivo cultural e à prática desportiva e venatória\n\n1 - Os montantes das taxas previstas na presente portaria são reduzidos em 50 %, quando se trate de aquisição de armas, seus componentes essenciais, munições, pólvoras e fulminantes por parte de federações desportivas, titulares de licenças de tiro desportivo para modalidades olímpicas ou quando destinadas a exposição em museu.\n\n2 - Como forma de incentivar a prática venatória, as taxas referidas no número anterior são igualmente reduzidas em 50 % para os titulares de licenças de uso e porte de armas destinadas à prática venatória, com idade igual ou inferior a 28 anos.\n\n22.º\n\n[...]\n\n1 - [...]\n\na) Importação de componentes essenciais de armas das classes B, B1, C e D, a que se referem as subalíneas vii), viii) e ix) da alínea a) do n.º 1 do n.º 7.º;\n\nb) Transferência de componentes essenciais de armas das classes B, B1, C e D, a que se referem as subalíneas vii), viii) e ix) da alínea b) do n.º 8.º\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\n3 - São ainda reduzidos em 50 % os montantes das taxas devidas pela concessão de autorizações para exportação e transferência de componentes essenciais das armas das classes B, B1, C e D, a que se referem, respetivamente, as subalíneas vii), viii) e ix) da alínea c) do n.º 7.º e as subalíneas vii), viii) e ix) da alínea a) do n.º 8.º, desde que montadas ou fabricadas em Portugal.\n\n4 - A utilização de componentes essenciais de armas importadas ou transferidas para território nacional para fins diferentes dos que motivaram a concessão de isenções requeridas nos termos do n.º 1 implica para a entidade beneficiária a imediata cessação de todo e qualquer benefício previsto no presente artigo, bem como o ressarcimento pelo valor correspondente às taxas normais que fossem devidas por força das disposições aplicáveis dos n.os 7.º e 8.º do Regulamento.»"
+  },
+  "173993078": {
+   "fragment_id": "173956419",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à Portaria n.º 934/2006, de 8 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento à Portaria n.º 934/2006, de 8 de setembro\n\nÉ aditado o artigo 7.º-A à Portaria n.º 934/2006, de 8 de setembro, alterada pela Lei n.º 12/2011, de 27 de abril, e pelas Portarias n.os 256/2007, de 12 de março, 1165/2007, de 13 de setembro, 184/2012, de 12 de junho, e 224/2017, de 24 de julho, com a seguinte redação:\n\n«Artigo 7.º-A\n\nBanco Nacional de Provas da PSP\n\n1 - Pela certificação de armas de fogo e seus componentes no BNP, há lugar ao pagamento das seguintes taxas:\n\na) Arma de fogo curta - (euro) 75;\n\nb) Arma de fogo longa - (euro) 80;\n\nc) Réplica de arma de fogo curta - (euro) 70;\n\nd) Réplica de arma de fogo longa - (euro) 75;\n\ne) Componente de arma de fogo - (euro) 20;\n\nf) Emissão de certificado de prova oficial - (euro) 24.\n\n2 - Pela certificação de armas de fogo e seus componentes no local de fabrico, através da deslocação de uma equipa de peritos do BNP, há lugar ao pagamento de uma taxa diária no valor de (euro) 150.\n\n3 - Pela certificação e controlo de munições de armas de fogo no BNP, são aplicadas as seguintes taxas:\n\na) Certificação de munições de armas de fogo - (euro) 200;\n\nb) Inspeção de munições de armas de fogo - (euro) 150;\n\nc) Emissão de certificado de prova oficial, por calibre testado - (euro) 24.\n\n4 - Pela certificação de armas de alarme, salva, starter e ar comprimido, são aplicadas as seguintes taxas:\n\na) Certificação de armas de alarme, salva, starter e ar comprimido - (euro) 200;\n\nb) Emissão de certificado de prova oficial - (euro) 24.\n\n5 - São ainda devidas taxas relativas à prática pelo BNP dos seguintes atos:\n\na) Classificação de armas (por dia) - (euro) 120,20;\n\nb) Reclassificação de armas (por dia) - (euro) 120,20;\n\nc) Peritagens, vistorias e exames (por dia) - (euro) 120,20;\n\nd) Estudos, relatórios e pareceres técnicos, sobre a matéria técnica de armas de fogo e munições - (euro) 104,61;\n\ne) Utilização do túnel de tiro, para alinhamento de miras (por hora/atirador) - (euro) 20,52.»"
+  },
+  "173993079": {
+   "fragment_id": "173956420",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nSão revogadas as alíneas a) e c) do n.º 1 do artigo 13.º e a alínea x) do artigo 14.º do Regulamento de Taxas, aprovado pela Portaria n.º 934/2006, de 8 de setembro, alterada pela Lei n.º 12/2011, de 27 de abril, e pelas Portarias n.os 256/2007, de 12 de março, 1165/2007, de 13 de setembro, 184/2012, de 12 de junho."
+  },
+  "173993080": {
+   "fragment_id": "173956421",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação."
+  }
+ }
+}

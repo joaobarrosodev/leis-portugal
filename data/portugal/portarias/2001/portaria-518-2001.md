@@ -1,0 +1,325 @@
+---
+schema_version: '1.0'
+id: pt:dre:332956:por
+title: Portaria n.º 518/2001
+short_title: null
+summary: Estabelece medidas extraordinárias de protecção fitossanitária indispensáveis para o combate ao nemátodo da madeira
+  do pinheiro. Revoga a Portaria n.º 7/2000, de 7 de Janeiro, e os seus anexos I e II
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 518/2001
+official_date: null
+publication_date: '2001-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/2001, Série I-B de 2001-05-24
+  number: '120'
+  series: I
+  supplement: null
+  pages: 3030 - 3036
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/518/2001/05/24/p/dre/pt/html
+  oj: null
+  dre: '332956'
+  dre_path: /dr/detalhe/portaria/518-2001-332956
+  internal: pt:dre:332956:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-2001-332956
+  metadata_url: https://data.dre.pt/eli/port/518/2001/05/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-2001-332956
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-12-04T00:00:00Z'
+integrity:
+  source_sha256: f7a460af3dcb0b407ad79382d0b7e7052be485ccb0bb0487395552bcdfb33e84
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-518-332956.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Doença Vegetal
+- Pinheiro
+- Proteção Fitossanitária
+relationships:
+- type: amended_by
+  target: pt:dre:2254401:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32001L0218
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/218/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/7/2000/01/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/7/2000/01/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 518/2001
+
+de 24 de Maio
+
+No ano de 1999 foi detectado em Portugal o nemátodo da madeira do pinheiro Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al., organismo este que é um dos mais prejudiciais para a madeira de coníferas.
+
+Com o objectivo de controlar, evitar a dispersão e erradicar o nemátodo da madeira do pinheiro, foi publicada a Portaria n.º 7/2000, de 7 de Janeiro, onde foram estabelecidas medidas de protecção fitossanitária extraordinárias consideradas indispensáveis ao combate deste organismo.
+
+Da experiência adquirida com a aplicação daquelas medidas de protecção fitossanitária extraordinárias resulta que o Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. está circunscrito a uma zona restrita do território nacional.
+
+Considerando a necessidade de continuar a assegurar que as restrições sejam eficazes e que o nemátodo da madeira do pinheiro seja totalmente erradicado de Portugal, há que adoptar os procedimentos que decorrem da Decisão da Comissão n.º [2001/218/CE](http://data.europa.eu/eli/dir/2001/218/oj?locale=pt), de 12 de Março de 2001, imposta a Portugal com a obrigatoriedade do seu cumprimento.
+
+Assim, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 14/99, de 12 de Janeiro:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º
+
+Âmbito
+
+1 - A presente portaria estabelece as medidas extraordinárias de protecção fitossanitária indispensáveis para o combate ao nemátodo da madeira do pinheiro (NMP) Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. e seu vector Monochamus galloprovincialis (Oliv.), de modo a evitar a sua dispersão e permitir a sua erradicação do território nacional.
+
+2 - As medidas previstas nos números seguintes obrigam todos os operadores económicos, produtores ou outros detentores de coníferas hospedeiras ao seu cumprimento e são aplicáveis anualmente até à total erradicação do NMP do território nacional.
+
+2.º
+
+Definições
+
+Para efeitos da presente portaria, entende-se por:
+
+a) Abate: corte, normalmente junto ao solo, toragem e desrama de coníferas hospedeiras;
+
+b) Árvores com sintomas: árvores secas ou com a copa a secar total ou parcialmente;
+
+c) Coníferas: espécies florestais da família das gimnospérmicas, designadas por resinosas;
+
+d) Coníferas destinadas à plantação: plantas de viveiro de espécies coníferas destinadas a serem plantadas ou replantadas;
+
+e) Coníferas hospedeiras: árvores de coníferas dos géneros Abies Mill., Cedrus Trew, Larix Mill, Picea A. Dietr., Pinus L., Pseudotsuga Carr. e Tsuga Carr., com excepção dos seus frutos e sementes;
+
+f) Constatação ou medida oficial: verificação efectuada ou medida adoptada por inspector fitossanitário, destinada à emissão de passaporte fitossanitário ou de certificado fitossanitário, nos termos do Decreto-Lei n.º 14/99, de 12 de Janeiro, com as alterações introduzidas pelos Decretos-Leis n.os 517/99, de 4 de Dezembro, 63/2000, de 19 de Abril, e 160/2000, de 27 de Julho;
+
+g) Descasque: acto de remoção da casca do material lenhoso;
+
+h) Exploração florestal: conjunto de operações, abrangendo o abate, rechega, extracção e transporte, através das quais o material lenhoso principal ou secundário é retirado do local onde foi produzido e entregue no primeiro local do circuito comercial;
+
+i) Fumigação: sujeição de material lenhoso e casca, qualquer que seja o seu estado, a tratamento por acção de gás pesticida, em ambiente estanque, de modo que o mesmo fique livre de nemátodos vivos;
+
+j) Insecto vector: organismo da espécie Monochamus galloprovincialis (Oliv.) que transporta e dissemina o NMP;
+
+k) Inspecção fitossanitária: acto levado a efeito por inspector fitossanitário destinado à verificação do cumprimento das exigências fitossanitárias constantes da presente portaria e demais disposições legais aplicáveis;
+
+l) Material lenhoso: madeira proveniente do abate de coníferas hospedeiras que não foi sujeita a qualquer transformação;
+
+m) Nemátodo da madeira do pinheiro (NMP): organismo prejudicial da espécie Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al.;
+
+n) Operador económico: agente que produz, importa ou comercializa material lenhoso, plantas de viveiro ou produtos e subprodutos de coníferas, transformados ou não;
+
+o) Passaporte fitossanitário: confirmação oficial emitida pelo serviço responsável pela protecção fitossanitária, válida no interior da União Europeia, que atesta o cumprimento das disposições da presente portaria relativas a medidas fitossanitárias e exigências específicas, a qual deve ser acompanhada, quando necessário, por qualquer documento previsto na lei;
+
+p) Produtor: operador económico que seja legítimo detentor de coníferas destinadas ao abate ou plantação, mesmo que ainda em viveiro;
+
+q) Queima: destruição total do material de coníferas hospedeiras por acção do fogo, com observância das disposições legais e regulamentares em matéria de incêndios florestais;
+
+r) Registo oficial: relação dos operadores económicos que no decorrer da respectiva actividade produzem, importam ou comercializam coníferas destinadas à plantação, material lenhoso e produtos ou subprodutos das coníferas, transformados ou não;
+
+s) Sobrantes da exploração: material remanescente da exploração florestal;
+
+t) Subprodutos da transformação: produtos secundários da transformação de material lenhoso;
+
+u) Tratamento pelo calor: tratamento térmico do material de coníferas hospedeiras que garanta no seu centro uma temperatura mínima de 56ºC durante trinta minutos;
+
+v) Zona afectada (ZA): área do território nacional onde foi detectada a presença do NMP, Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al., identificada no anexo I à presente portaria e da qual faz parte integrante;
+
+w) Zona de restrição (ZR): área do território nacional correspondente à totalidade das áreas da ZA e da ZT e identificada no anexo II à presente portaria, da qual faz parte integrante, e à qual são obrigatoriamente aplicáveis as medidas previstas neste diploma;
+
+x) Zona isenta (ZI): qualquer área do território nacional e de outros Estados membros não identificada no anexo II à presente portaria;
+
+y) Zona tampão (ZT): área do território nacional que circunda a ZA em toda a sua extensão com uma largura de 20 km.
+
+3.º
+
+Abate de coníferas hospedeiras na zona de restrição
+
+1 - O abate de coníferas hospedeiras na ZR deve ser requerido pelos interessados em impresso próprio a apresentar obrigatoriamente nas direcções regionais de agricultura, tendo estas um prazo de 20 dias úteis após a entrada de toda a documentação necessária para emissão de autorização.
+
+2 - As árvores a abater devem ser previamente marcadas na sua totalidade, ou as que delimitam a área, no caso de abate por manchas ou por folhas, utilizando obrigatoriamente tinta indelével de cor branca ou amarela, consoante se trate de árvores com ou sem sintomas, respectivamente.
+
+4.º
+
+Medidas gerais aplicáveis ao material de coníferas hospedeiras na zona de restrição
+
+Na ZR, e sem prejuízo do disposto nos artigos 5.º a 7.º, o material de coníferas hospedeiras proveniente do abate, armazenado ou resultante de transformação, fica sujeito ao cumprimento das formalidades e das exigências técnicas, fitossanitárias e de controlo documental estabelecidas nos anexos III a VI à presente portaria e da qual fazem parte integrante, nos termos seguintes:
+
+a) Ao material proveniente do abate de árvores com e sem sintomas de ataque de NMP e de Monochamus galloprovincialis (Oliv.) são aplicáveis, respectivamente, os anexos III e IV;
+
+b) Ao material armazenado dentro da ZR e proveniente da ZI são aplicáveis as medidas previstas no anexo V;
+
+c) À transformação industrial são aplicáveis as medidas previstas no anexo VI.
+
+5.º
+
+Medidas aplicáveis à transformação industrial de material de coníferas hospedeiras
+
+1 - Durante o período compreendido entre 1 de Novembro e 1 de Abril, as unidades de transformação industrial oficialmente credenciadas para o efeito e cujos produtos constem do anexo VI à presente portaria podem utilizar matéria-prima proveniente da ZR e da ZI, verificados os seguintes requisitos:
+
+a) Formação de lotes individualizados e identificados de todo o material lenhoso;
+
+b) Sujeição a transformação até 1 de Abril da matéria-prima proveniente da ZR;
+
+c) Transformação separada da matéria-prima proveniente da ZI e da ZR;
+
+d) Cumprimento das exigências constantes do anexo VI à presente portaria quando estejam em causa produtos transformados a partir de matéria-prima de coníferas hospedeiras proveniente da ZR;
+
+e) Emissão de passaporte fitossanitário que certifique o cumprimento dos requisitos referidos nas alíneas anteriores para os produtos obtidos de matéria-prima proveniente da ZR.
+
+2 - Os subprodutos da transformação industrial de matéria-prima proveniente da ZR apenas podem ter os aproveitamentos previstos no anexo VI à presente portaria.
+
+6.º
+
+Transporte de coníferas hospedeiras pela zona de restrição
+
+Durante o período compreendido entre 2 de Abril e 31 de Outubro, o transporte através da ZR de material de coníferas hospedeiras que sejam originárias e se destinem ao exterior desta zona só pode efectuar-se desde que se proceda ao seu descasque prévio.
+
+7.º
+
+Medidas aplicáveis às plantas de viveiro
+
+As medidas a aplicar nos viveiros localizados na ZR são as seguintes:
+
+a) As plantas de coníferas hospedeiras destinadas à plantação que em inspecção fitossanitária tenham sido identificadas como isentas de sinais ou sintomas de NMP e que, desde o início do último ciclo vegetativo completo, sejam produzidas em viveiro onde não se tenham verificado sintomas de NMP ou na sua vizinhança imediata devem ser sempre acompanhadas de passaporte fitossanitário quando retiradas do local de produção, podendo circular livremente para fora da ZR;
+
+b) As plantas de coníferas hospedeiras destinadas à plantação que tenham sido produzidas em áreas nas quais, e na vizinhança imediata das quais, foram observados sintomas de NMP desde o início do último ciclo vegetativo completo, ou identificadas como infestadas pelo NMP, não podem ser retiradas do local de produção e devem ser obrigatoriamente destruídas por queima.
+
+8.º
+
+Outras medidas aplicáveis à zona de restrição
+
+1 - Os exemplares de coníferas que apresentem sintomas suspeitos de ataque de NMP ou, ainda, os que se situem em áreas percorridas por incêndio ou afectadas por catástrofes naturais estão sujeitos à aplicação das seguintes medias:
+
+a) Quando situados na ZA:
+
+i) As árvores que sejam identificadas no período compreendido entre 1 de Novembro e 1 de Abril devem ser abatidas durante este período, aplicando-se-lhes as medidas a que se referem os n.os 3.º e 4.º da presente portaria;
+
+ii) As árvores que sejam identificadas no período compreendido entre 2 de Abril e 31 de Outubro devem ser imediatamente abatidas, aplicando-se-lhes as medidas referidas na parte final da alínea anterior;
+
+b) Quando situados na ZT devem ser sempre submetidos a análise para despiste do NMP.
+
+2 - Sempre que o resultado da análise referida na alínea b) do número anterior acuse a presença de NMP, os limites da ZA e da ZR devem ser redefinidos em conformidade.
+
+9.º
+
+Registo
+
+Para efeitos da aplicação da presente portaria, estão obrigatoriamente sujeitos a inscrição no registo oficial a que se referem os artigos 9.º a 11.º do Decreto-Lei n.º 14/99, de 12 de Janeiro, com redacção introduzida pelos Decretos-Leis n.os 517/99, de 4 de Dezembro, 63/2000, de 19 de Abril, e 160/2000, de 27 de Julho, os operadores económicos da ZR que no exercício da respectiva actividade importem, produzam, comercializem ou transformem coníferas hospedeiras, material lenhoso e plantas dessas coníferas e os que fora da ZR recebam material lenhoso daquela origem, nos termos
+
+10.º
+
+Competências
+
+1 - Compete à Direcção-Geral das Florestas a coordenação da execução das medidas de protecção fitossanitária previstas na presente portaria.
+
+2 - O controlo das medidas referidas no número anterior é da competência das direcções regionais de agricultura através dos inspectores fitossanitários.
+
+11.º
+
+Direito subsidiário
+
+A matéria omissa rege-se pelo disposto no Decreto-Lei n.º 14/99, de 12 de Janeiro, na redacção introduzida pelos Decretos-Leis n.os 517/99, de 4 de Dezembro, 63/2000, de 19 de Abril, e 160/2000, de 27 de Julho, e demais legislação complementar.
+
+12.º
+
+Norma revogatória
+
+É revogada a Portaria n.º 7/2000, de 7 de Janeiro, e os seus anexos I e II.
+
+13.º
+
+Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 7 de Maio de 2001.
+
+## ANEXO I — Quadro único
+
+Área da zona afectada (ZA) de NMP a que se refere a alínea v) do n.º 2.º
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+
+## ANEXO II — Quadro único
+
+Área da zona de restrição (ZR) a que se refere a alínea w) do n.º 2.º
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+
+## ANEXO III — Quadro único
+
+Medidas aplicáveis ao material de coníferas hospedeiras com sintomas de NMP, a que se refere a alínea a) do n.º 4.º
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+
+## ANEXO IV — Quadro único
+
+Medidas aplicáveis ao material de coníferas hospedeiras sem sintomas de NMP, a que se refere a alínea a) do n.º 4.º
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+
+## ANEXO V — Quadro único
+
+Medidas aplicáveis ao material de coníferas hospedeiras armazenado e proveniente da zona isenta (ZI), a que se refere a alínea b) do n.º 4.º
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+
+## ANEXO VI — Medidas aplicáveis à transformação industrial de material de coníferas hospedeiras, a que se refere a alínea a) do n.º 4.º
+
+Quadro n.º 1
+
+Medidas aplicáveis aos produtos de coníferas hospedeiras com origem na zona de restrição (ZR)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)
+
+Quadro n.º 2
+
+Medidas aplicáveis aos produtos de coníferas hospedeiras com origem na zona isenta (ZI)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30303036.pdf)

@@ -1,0 +1,331 @@
+---
+schema_version: '1.0'
+id: pt:dre:498491:por
+title: Decreto n.º 26/2013
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e o Estado do Koweit sobre Supressão de Vistos para Titulares de Passaportes
+  Diplomáticos ou Especiais, assinado na Cidade do Koweit, em 17 de dezembro de 2012
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 26/2013
+official_date: null
+publication_date: '2013-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/2013, Série I de 2013-08-07
+  number: '151'
+  series: I
+  supplement: null
+  pages: 4705 - 4709
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15100/0470504709.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/26/2013/08/07/p/dre/pt/html
+  oj: null
+  dre: '498491'
+  dre_path: /dr/detalhe/decreto/26-2013-498491
+  internal: pt:dre:498491:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-2013-498491
+  metadata_url: https://data.dre.pt/eli/dec/26/2013/08/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/26-2013-498491
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-08-07T00:00:00Z'
+integrity:
+  source_sha256: f7d89fc6dce4c1e33aa86e19e37073c6fb37b4491463cb324cef96aff80a49ca
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-26-498491.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Residência de Estrangeiros
+- Convenção
+- Portugal
+- Entrada de Estrangeiros
+- Koweit
+- Funcionário Diplomático
+- Pessoal Diplomático
+- Residente no Estrangeiro
+- Passaporte
+relationships: []
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 26/2013
+
+de 7 de agosto
+
+A República Portuguesa e o Estado do Koweit, tendo em vista intensificar as relações entre ambos os países, assinaram em 17 de dezembro de 2012, na Cidade do Koweit, o Acordo sobre Supressão de Vistos para Titulares de Passaportes Diplomáticos ou Especiais.
+
+O presente Acordo pretende reforçar as relações bilaterais entre a República Portuguesa e o Estado do Koweit em matéria política, económica e cultural, ao permitir que titulares de passaportes diplomáticos ou especiais de cada um dos Estados se desloquem livremente e sem necessidade de visto, por um período de 90 dias por semestre, para o território do outro Estado.
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo entre a República Portuguesa e o Estado do Koweit sobre Supressão de Vistos para Titulares de Passaportes Diplomáticos ou Especiais, assinado na Cidade do Koweit, em 17 de dezembro de 2012, cujo texto, nas versões autenticadas nas línguas portuguesa, inglesa e árabe, se publica em anexo.
+
+Visto e aprovado em Conselho de Ministros de 11 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva.
+
+**Assinado em 26 de julho de 2013.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 29 de julho de 2013.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E O ESTADO DO KOWEIT SOBRE SUPRESSÃO DE VISTOS PARA TITULARES DE PASSAPORTES DIPLOMÁTICOS OU ESPECIAIS.
+
+A República Portuguesa e o Estado do Koweit, adiante designados como "Partes",
+
+Desejando reforçar as relações de amizade e de cooperação existentes entre os dois Estados;
+
+Desejando facilitar a circulação dos seus nacionais titulares de passaportes diplomáticos ou especiais,
+
+Acordam no seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente Acordo estabelece a base jurídica para a supressão de vistos para titulares de passaportes diplomáticos ou especiais das Partes.
+
+###### Artigo 2.º — Definições
+
+Para os efeitos do presente Acordo:
+
+a) «Passaporte válido» designa o passaporte diplomático ou especial que, no momento da saída do território nacional de uma das Partes, tenha ainda, pelo menos, noventa (90) dias de validade;
+
+b) «Membro da família» designa o cônjuge ou pessoa que viva em união de facto, desde que a última esteja consagrada no Direito do Estado que envia, assim como os descendentes e ascendentes dependentes dos titulares de passaporte diplomático ou especial.
+
+###### Artigo 3.º — Entrada e permanência de curta duração
+
+1. Os cidadãos da República Portuguesa titulares de passaporte diplomático ou especial português válido podem entrar e permanecer no território do Estado do Koweit sem necessidade de visto e aí permanecer por um período não superior a noventa (90) dias por semestre a contar da data da primeira entrada.
+
+2. Os cidadãos do Estado do Koweit titulares de passaporte diplomático ou especial podem entrar e permanecer no território da República Portuguesa sem necessidade de visto e aí permanecer por um período não superior a noventa (90) dias por semestre a contar da data da primeira entrada na fronteira externa que delimita o espaço de livre circulação constituído pelos Estados que são Parte na Convenção de Aplicação do Acordo de Schengen de 14 de junho de 1985, adotada a 19 de junho de 1990.
+
+###### Artigo 4.º — Entrada e permanência
+
+1. Os cidadãos portugueses titulares de passaporte diplomático ou especial válido nomeados para prestar serviço na missão diplomática ou postos consulares portugueses no Estado do Koweit ou que sejam nomeados para o exercício de funções junto de organizações internacionais sedeadas no Estado do Koweit, assim como os membros das suas famílias, podem entrar e permanecer sem visto no território do Estado do Koweit durante o período da missão.
+
+2. Os cidadãos do Koweit titulares de passaporte diplomático ou especial válido nomeados para prestar serviço na missão diplomática ou postos consulares na República Portuguesa ou que sejam nomeados para o exercício de funções junto de organizações internacionais sedeadas na República Portuguesa, assim como os membros das suas famílias, podem entrar e permanecer sem visto no território da República Portuguesa durante o período da missão.
+
+3. Para os fins constantes dos números anteriores, cada Parte deve notificar a outra, por escrito e por via diplomática, da chegada dos titulares de passaporte diplomático ou especial designados para prestar serviço na missão diplomática, posto consular ou junto de organizações internacionais sedeadas no território das Partes, assim como dos membros da família que os acompanham, antes da data da sua entrada no território da outra Parte.
+
+###### Artigo 5.º — Observância do Direito vigente das Partes
+
+1. A isenção de visto não exclui a obrigatoriedade da observância do Direito vigente das Partes sobre entrada, permanência e saída do território de destino dos titulares dos passaportes nas condições previstas no presente Acordo.
+
+2. O presente Acordo não exclui o exercício do direito pelas autoridades competentes das Partes de recusar a entrada ou permanência de cidadãos da outra Parte, em conformidade com o Direito vigente aplicável.
+
+###### Artigo 6.º — Informação sobre passaportes
+
+1. As Partes trocarão entre si, por via diplomática, os espécimes dos passaportes diplomáticos ou especiais em circulação até trinta (30) dias após a data de entrada em vigor nos termos do artigo 11.º do presente Acordo.
+
+2. Sempre que uma das Partes introduza novos passaportes ou modificações nos anteriormente trocados, deverá notificar a outra Parte, por via diplomática, mediante o envio do espécime do novo passaporte ou do passaporte modificado até trinta (30) dias antes da sua entrada em circulação.
+
+###### Artigo 7.º — Solução de controvérsias
+
+Qualquer controvérsia relativa à interpretação ou à aplicação do presente Acordo será solucionada através de negociação, por via diplomática.
+
+###### Artigo 8.º — Suspensão
+
+1. Cada uma das Partes poderá suspender temporariamente, total ou parcialmente, a aplicação das disposições do presente Acordo por razões de ordem pública, de saúde pública ou de segurança nacional.
+
+2. A suspensão do presente Acordo, bem como o seu levantamento, devem ser notificadas imediatamente à outra Parte, por escrito e por via diplomática.
+
+###### Artigo 9.º — Revisão
+
+1. O presente Acordo pode ser objeto de revisão a pedido de qualquer das Partes.
+
+2. As emendas entrarão em vigor nos termos do artigo 11.º do presente Acordo.
+
+###### Artigo 10.º — Vigência e Denúncia
+
+1. O presente Acordo permanecerá em vigor por um período de tempo ilimitado.
+
+2. Qualquer das Partes poderá, a qualquer momento, denunciar o presente Acordo, mediante notificação prévia, por escrito e por via diplomática.
+
+3. O presente Acordo cessa a sua vigência noventa (90) dias após a data da receção da respetiva notificação.
+
+###### Artigo 11.º — Entrada em Vigor
+
+O presente Acordo entrará em vigor trinta (30) dias após a data de receção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos de Direito interno das Partes necessários para o efeito.
+
+###### Artigo 12.º — Substituição
+
+O presente Acordo substitui o Acordo assinado entre a República Portuguesa e o Estado do Koweit sobre Supressão de Vistos para Titulares de Passaportes Diplomáticos em 23 de fevereiro de 2010.
+
+###### Artigo 13.º — Registo
+
+Após a entrada em vigor do presente Acordo, a Parte em cujo território for assinado submetê-lo-á para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
+
+Feito na Cidade do Koweit, no dia 17 de dezembro de 2012, em dois originais, nas línguas portuguesa, árabe e inglesa, fazendo todos os textos igualmente fé. Em caso de dúvida de interpretação prevalecerá o texto em língua inglesa.
+
+Pela República Portuguesa:
+
+Paulo Sacadura Cabral Portas, Ministro de Estado e dos Negócios Estrangeiros.
+
+Pelo Estado do Koweit:
+
+Sabah Al-Khalid Al-Sabah, Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros.
+
+AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND THE STATE OF KUWAIT ON THE SUPPRESSION OF VISAS FOR HOLDERS OF DIPLOMATIC OR SPECIAL PASSPORTS.
+
+The Portuguese Republic and the State of Kuwait, hereinafter referred to as "Parties",
+
+Wishing to reinforce the relations of friendship and co-operation between both States;
+
+Wishing to facilitate the movement of their nationals holding Diplomatic or Special Passports,
+
+Agree as follows:
+
+Article 1
+
+Object
+
+This Agreement shall set forth the legal framework for the suppression of visas for holders of Diplomatic or Special Passports of the Parties.
+
+Article 2
+
+Definitions
+
+For the purpose of this Agreement:
+
+a) "Valid Passport" shall mean the Diplomatic or Special Passport that, at the time of the exit of the national territory of one of the Parties, has at least a ninety (90) days validity;
+
+b) "Family member" shall mean the spouse or partner of a de facto relationship, provided that the latter is enshrined in the law of the Sending State, as well as the dependent descendents and ascendants of the holders of a Diplomatic or Special Passports.
+
+Article 3
+
+Short term entry and stay
+
+1- The citizens of the Portuguese Republic holding a valid Portuguese Diplomatic or Special Passport may enter and stay in the territory of the State of Kuwait without visa for a maximum period of ninety (90) days during in six-month period from the date of first entry.
+
+2- The citizens of the State of Kuwait holding a valid Diplomatic or Special Passport may enter and stay in the territory of the Portuguese Republic without visa for a maximum period of ninety (90) days during in six-month period from the date of first entry at the external border establishing the area of free movement created by the States which are Party to the Convention implementing the Schengen Agreement of 14 June 1985, adopted on 19 June 1990.
+
+Article 4
+
+Entry and stay
+
+1- The citizens of the Portuguese Republic holding a valid Diplomatic or Special Passport who are appointed to a Portuguese diplomatic mission or consular post in the State of Kuwait or to international organizations in the State of Kuwait, as well as their family members, may enter or stay in the territory of the State of Kuwait without a visa for the period of their mission.
+
+2- The citizens of the State of Kuwait holding a valid Diplomatic or Special Passport who are appointed to a diplomatic mission or consular post in the Portuguese Republic or to international organizations in the Portuguese Republic, as well as their family members, may enter or stay in the territory of the Portuguese Republic without a visa for the period of their mission.
+
+3- For the purpose of the previous paragraphs, each Party shall inform the other Party, in writing and through diplomatic channels, of the arrival of the holders of Diplomatic or Special Passports appointed to a diplomatic mission, consular post or to international organizations in the territory of the Parties, as well as of the family members accompanying them, prior to the date of their entry to the territory of the other Party.
+
+Article 5
+
+Compliance with the law of the Parties
+
+1- The visa exemption shall not relieve a person from the obligation to comply with the law of the Parties on the entry into, stay in and exit from the territory of destination of the holders of Passports in accordance with conditions set out in this Agreement.
+
+2- This Agreement does not exclude the right of the competent authorities of each Party to refuse entry or stay of citizens of the other Party in accordance with the applicable law.
+
+Article 6
+
+Information on Passports
+
+1- The Parties shall exchange, through diplomatic channels, specimens of the Diplomatic and Special Passports in current use within a maximum of thirty (30) days after the date of the entry into force of this Agreement in accordance with Article 11.
+
+2- Where either Party submits new Passports or modifies those previously exchanged, it shall inform the other Party through the diplomatic channels of the transmission of the specimen of the new or modified Passport with a maximum of thirty (30) days before the date it begins to be used.
+
+Article 7
+
+Settlement of disputes
+
+Any dispute concerning the interpretation or application of this Agreement shall be settled through negotiation, through the diplomatic channels.
+
+Article 8
+
+Suspension
+
+1- Either Party may temporarily suspend the application of this Agreement, wholly or partially, on grounds of public order, public health and national security.
+
+2- The suspension of application of this Agreement as well as the resumption of its application shall be immediately notified in writing through diplomatic channels to the other Party.
+
+Article 9
+
+Amendments
+
+1- This Agreement may be amended by request of one of the Parties.
+
+2- The amendments shall enter into force in accordance with the terms specified in Article 11 of this Agreement.
+
+Article 10
+
+Duration and termination
+
+1- This Agreement shall remain in force for an unlimited period of time.
+
+2- Either Party may, at any time, terminate this Agreement upon a prior notification in writing through diplomatic channels.
+
+3- This Agreement shall terminate ninety (90) days after the receipt of such notification.
+
+Article 11
+
+Entry into force
+
+This Agreement shall enter into force thirty (30) days after the date receipt of the later of the notifications, in writing through diplomatic channels, conveying the completion of the internal procedures of each Party required for that purpose.
+
+Article 12
+
+Replacement
+
+This Agreement shall replace the Agreement signed between the Portuguese Republic and the State of Kuwait on the Suppression of Visas for Holders of Diplomatic Passports on 23 February 2010.
+
+Article 13
+
+Registration
+
+Upon the entry into force of this Agreement, the Party in whose territory it is signed shall transmit it to the Secretariat of the United Nations for registration, in accordance with the article 102 of the charter of the United Nations, and shall notify the other Party of the completion of this procedure as well as of its registration number.
+
+Done at Kuwait City, on the 17th December 2012, in two original copies, in Portuguese, Arabic, and English languages. All are equally authentic. In case of any divergence of interpretation, the English text shall prevail.
+
+For The Portuguese Republic:
+
+Paulo Sacadura Cabral Portas, Minister of State and Foreign Affairs.
+
+For The State of Kuwait:
+
+Sabah Al-Khalid Al-Sabah, Deputy Prime Minister and Minister of Foreign Affairs.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15100/0470504709.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15100/0470504709.pdf)

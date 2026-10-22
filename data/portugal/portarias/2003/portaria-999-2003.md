@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:498346:por
+title: Portaria n.º 999/2003
+short_title: null
+summary: Lança em circulação um inteiro postal comemorativo do Supremo Tribunal de Justiça - 170 anos da Separação de Poderes
+  em Portugal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 999/2003
+official_date: null
+publication_date: '2003-09-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/2003, Série I-B de 2003-09-16
+  number: '214'
+  series: I
+  supplement: null
+  pages: 6033 - 6033
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/09/214b00/60336033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/999/2003/09/16/p/dre/pt/html
+  oj: null
+  dre: '498346'
+  dre_path: /dr/detalhe/portaria/999-2003-498346
+  internal: pt:dre:498346:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/999-2003-498346
+  metadata_url: https://data.dre.pt/eli/port/999/2003/09/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/999-2003-498346
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-09-16T00:00:00Z'
+integrity:
+  source_sha256: ff6534a1e6f8988dd4d703c695d275bdc63d103c3d67584aa9e7587259e7cfd2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-999-498346.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço Postal
+- Postal Comemorativo
+- Supremo Tribunal de Justiça
+- SELO Postal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 999/2003
+
+de 16 de Setembro
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado Adjunto do Ministro da Economia, que, ao abrigo das disposições do artigo 4.º do [Decreto-Lei n.º 360/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1985-179355), de 3 de Setembro, seja posto em circulação um inteiro postal comemorativo do Supremo Tribunal de Justiça - 170 anos da Separação de Poderes em Portugal.
+
+Design - Sofia Martins.
+
+Dimensão - 105 mm x 152 mm.
+
+Impressor - Litografia Maia.
+
+Taxa - (euro) 0,30.
+
+Motivo do selo - Dr. João da Silva Carvalho, 1.º presidente do Supremo Tribunal de Justiça.
+
+Preço de venda ao público - (euro) 0,30.
+
+Tiragem - 50000 exemplares.
+
+Primeiro dia de circulação - 23 de Setembro de 2003.
+
+**O Secretário de Estado Adjunto do Ministro da Economia, Franquelim Fernando Garcia Alves, em 18 de Agosto de 2003.**

@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:445480:por
+title: Decreto-Lei n.º 85/71
+short_title: null
+summary: Autoriza a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 5 por cento, 1971 -
+  III Plano de Fomento», até à importância total nominal de 2500000 contos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro - Direcção-Geral dos Serviços da Junta do Crédito Público
+proposing_entity: null
+official_number: 85/71
+official_date: null
+publication_date: '1971-03-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 67/1971, Série I de 1971-03-20
+  number: '67'
+  series: I
+  supplement: null
+  pages: 347 - 348
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/03/06700/03470348.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '445480'
+  dre_path: /dr/detalhe/decreto-lei/85-1971-445480
+  internal: pt:dre:445480:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1971-445480
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1971-445480
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-03-20T00:00:00Z'
+integrity:
+  source_sha256: aab11c1b5667be5525bd5868fbe56c3b9d24d7eca981c69a4351211a17d2b4c9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-85-445480.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 85/71
+
+de 20 de Março
+
+Para execução do III Plano de Fomento, aprovado pela [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967, previu-se que o Orçamento Geral do Estado contribuísse para o continente e ilhas com a importância de 15993 milhares de contos, parte da qual seria obtida através da mobilização da poupança privada interna.
+
+De harmonia com essa orientação já foi autorizada pelo [Decreto-Lei n.º 48995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48995-1969-201657), de 8 de Maio de 1969, a emissão de um empréstimo interno amortizável denominado «Obrigações do Tesouro, 5 por cento, 1969 - III Plano de Fomento», até à importância de 1 milhão de contos.
+
+Terminada a revisão do Plano para o triénio 1971-1973, é chegado o momento de assegurar as condições legais indispensáveis para a emissão, à medida das necessidades, dos empréstimos internos destinados a financiar o programa de investimentos a cargo do Orçamento Geral do Estado, que passou a atingir, neste período, um montante global da ordem dos 10 milhões de contos só no continente e ilhas.
+
+Por outro lado, importa facultar ao público o emprego, noutros títulos amortizáveis, dos capitais devolvidos ao meio circulante por efeito da amortização de empréstimos anteriores, que somam 1 milhão de contos no triénio.
+
+Fixando em 2500000 contos o montante dos empréstimos a contrair no período, o Estado planeou assim um recurso muito moderado ao mercado financeiro, facultando, desse modo, um mais fácil financiamento dos projectos de investimento de iniciativa privada no mercado interno.
+
+Tal quantitativo será emitido em séries de 100000 contos cada uma, a lançar no mercado de harmonia com as conveniências do Tesouro e dos respectivos tomadores.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Para os fins previstos na [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967, é autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 5 por cento, 1971 - III Plano de Fomento», até à importância total nominal de 2500000 contos.
+
+###### Art. 2.º - 1. O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, desdobrar-se-á em séries de 100000 contos cada uma.
+
+2. Fica o Secretário de Estado do Tesouro autorizado a mandar proceder, pela Direcção-Geral da Fazenda Pública, à emissão da obrigação geral ou obrigações gerais correspondentes às séries em que se desdobra o empréstimo.
+
+###### Art. 3.º - 1. A representação do empréstimo far-se-á em títulos de cupão de 1 e de 10 obrigações, do valor nominal de 1000$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
+
+2. É aplicável ao empréstimo autorizado pelo presente diploma o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 45142](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45142-1963-693026), de 17 de Julho de 1963.
+
+###### Art. 4.º O juro das obrigações será de 5 por cento ao ano, pagável aos trimestres em 15 de Março, 15 de Junho, 15 de Setembro e 15 de Dezembro.
+
+###### Art. 5.º As obrigações de cada série serão obrigatòriamente amortizadas ao par, por sorteio, em dez anuidades iguais, devendo a primeira amortização ter lugar cinco anos depois da data da respectiva emissão.
+
+###### Art. 6.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, bem como da isenção do pagamento do imposto sobre as sucessões e doações.
+
+###### Art. 7.º - 1. Os títulos ou certificados representativos deste empréstimo podem ser provisórios, fazendo-se a sua substituição por definitivos no prazo máximo de dois anos.
+
+2. No caso de serem entregues aos portadores certificados de dívida inscrita provisórios, é dispensável a indicação nos mesmos dos números dos títulos neles representados.
+
+###### Art. 8.º - 1. No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
+
+2. As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentes dos anos económicos em que tiverem lugar.
+
+###### Art. 9.º - 1. Pode o Secretário de Estado do Tesouro contratar com as instituições de crédito nacionais a colocação total ou parcial do empréstimo ou fazê-la por subscrição pública ou por venda no mercado.
+
+2. O encargo efectivo do empréstimo, excluídas as despesas da sua representação, não deverá, porém, exceder 5 1/4 por cento.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+**Promulgado em 10 de Março de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

@@ -1,0 +1,466 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636771:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-184421074",
+ "dre_path": "/dr/detalhe/portaria/794-2007-636771",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "184414145",
+    "184414146",
+    "184414147",
+    "184414148",
+    "184414149",
+    "184414150",
+    "184414151",
+    "184414152",
+    "184414153",
+    "184414154",
+    "184414155",
+    "184414156",
+    "184414157",
+    "184414158",
+    "184414159",
+    "184414160",
+    "184414161",
+    "184414162",
+    "184414163",
+    "184414164",
+    "184414165",
+    "184414166",
+    "184414167",
+    "184414168",
+    "184414169",
+    "184414170"
+   ]
+  },
+  {
+   "date": "2022-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184420996:por",
+     "title": "Portaria n.º 156/2022",
+     "published": "2022-06-06",
+     "dre_path": "/dr/detalhe/portaria/156-2022-184420996"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 21.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "184414145",
+    "184307249",
+    "184307250",
+    "184414148",
+    "184307251",
+    "184414150",
+    "184492876",
+    "184414152",
+    "184307252",
+    "184414154",
+    "184307253",
+    "184414156",
+    "184307254",
+    "184307255",
+    "184307256",
+    "184414160",
+    "184414161",
+    "184414162",
+    "184414163",
+    "184414164",
+    "184492877",
+    "184307257",
+    "184414171",
+    "184414172",
+    "184414173",
+    "184307258",
+    "184307259"
+   ]
+  }
+ ],
+ "fragments": {
+  "184414145": {
+   "fragment_id": "184492075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 794/2007\n\nde 23 de Julho\n\nSob proposta do Instituto Politécnico de Lisboa e da sua Escola Superior de Música de Lisboa;\n\nConsiderando o disposto no Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, 158/2004, de 30 de Junho, 147-A/2006, de 31 de Julho, 40/2007, de 20 de Fevereiro, e 45/2007, de 23 de Fevereiro;\n\nOuvida a Comissão Nacional de Acesso ao Ensino Supe-rior;\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nAprovação\n\nÉ aprovado o Regulamento do Concurso Local para a Matrícula e Inscrição no Ciclo de Estudos Conducente ao Grau de Licenciado em Música, nas variantes de:\n\na) Composição, Direcção Coral e Formação Musical, nos ramos de:\n\ni) Composição;\n\nii) Direcção Coral e Formação Musical;\n\nb) Execução, nos ramos de:\n\ni) Canto;\n\nii) Cordas Dedilhadas;\n\niii) Instrumentos de Arco, Sopro e Percussão;\n\niv) Música Antiga;\n\nv) Órgão;\n\nvi) Piano;\n\nministrado pela Escola Superior de Música de Lisboa, do Instituto Politécnico de Lisboa, cujo texto se publica em anexo a esta portaria.\n\n2.º\n\nTexto\n\nO texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.\n\n3.º\n\nAlterações ao Regulamento\n\nTodas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.\n\n4.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano lectivo de 2007-2008, inclusive.\n\n5.º\n\nEntrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 2 de Julho de 2007.\n\nREGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CICLO DE ESTUDOS CONDUCENTE AO GRAU DE LICENCIADO EM MÚSICA, VARIANTE DE COMPOSIÇÃO, DIRECÇÃO CORAL E FORMAÇÃO MUSICAL, NOS RAMOS DE COMPOSIÇÃO E DE DIRECÇÃO CORAL E FORMAÇÃO MUSICAL, E VARIANTE DE EXECUÇÃO, NOS RAMOS DE CANTO, DE CORDAS DEDILHADAS, DE INSTRUMENTOS DE ARCO, SOPRO E PERCUSSÃO, DE MÚSICA ANTIGA, DE ÓRGÃO E DE PIANO, MINISTRADO PELA ESCOLA SUPERIOR DE MÚSICA DE LISBOA, DO INSTITUTO POLITÉCNICO DE LISBOA."
+  },
+  "184414146": {
+   "fragment_id": "184492076",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no ciclo de estudos conducente ao grau de licenciado em Música, nas variantes de:\n\na) Composição, Direcção Coral e Formação Musical, nos ramos de:\n\ni) Composição;\n\nii) Direcção Coral e Formação Musical;\n\nb) Execução, nos ramos de:\n\ni) Canto;\n\nii) Cordas Dedilhadas;\n\niii) Instrumentos de Arco, Sopro e Percussão;\n\niv) Música Antiga;\n\nv) Órgão;\n\nvi) Piano;\n\nministrado pela Escola Superior de Música de Lisboa, do Instituto Politécnico de Lisboa, adiante designada Escola."
+  },
+  "184414147": {
+   "fragment_id": "184492077",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\nA avaliação da capacidade para a frequência de cada uma das variantes faz-se através das seguintes provas:\n\na) Prova específica;\n\nb) Prova de conhecimentos gerais de música."
+  },
+  "184414148": {
+   "fragment_id": "184492078",
+   "type": 11,
+   "heading": "Artigo 3.º — Prova específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prova específica\n\n1 - A prova específica destina-se a avaliar a competência técnica, as qualidades interpretativas e criativas e o modo como, na prática, os candidatos estabelecem a sua relação entre expressão e cultura musicais no domínio da variante/ramo a que concorrem.\n\n2 - Os domínios concretos sobre que incide a prova são divulgados no edital a que se refere o artigo 13.º\n\n3 - O resultado da prova específica traduz-se numa classificação na escala inteira de 0 a 20."
+  },
+  "184414149": {
+   "fragment_id": "184492079",
+   "type": 11,
+   "heading": "Artigo 4.º — Prova de conhecimentos gerais de música",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prova de conhecimentos gerais de música\n\n1 - A prova de conhecimentos gerais de música é constituída por duas partes:\n\na) Prova de formação auditiva;\n\nb) Prova de análise musical e história da música.\n\n2 - A prova de conhecimentos gerais de música visa avaliar o nível de proficiência dos candidatos nas áreas sobre que incide e que são indispensáveis para uma sólida formação musical.\n\n3 - Os domínios sobre que incide a prova são divulgados no edital a que se refere o artigo 13.º\n\n4 - O resultado de cada uma das partes traduz-se numa classificação na escala inteira de 0 a 20.\n\n5 - A classificação da prova de conhecimentos gerais de música é a média aritmética simples das classificações das duas partes que a integram, arredondada às unidades, considerando como unidade a fracção não inferior a cinco décimas."
+  },
+  "184414150": {
+   "fragment_id": "184492080",
+   "type": 11,
+   "heading": "Artigo 5.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Validade das provas\n\nAs provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam."
+  },
+  "184414151": {
+   "fragment_id": "184492081",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições para a candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições para a candidatura\n\n1 - Podem apresentar-se ao concurso os candidatos que sejam titulares de uma das seguintes habilitações:\n\na) Curso do ensino secundário ou habilitação legalmente equivalente com aprovação, em exame nacional, nas provas de ingresso fixadas pela Escola;\n\nb) Curso superior;\n\nc) Provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos (Decreto-Lei n.º 64/2006, de 21 de Março), de acordo com o regulamento específico destas provas.\n\n2 - Podem igualmente apresentar-se ao concurso os candidatos que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) e b) do n.º 1, já hajam estado legalmente matriculados e inscritos em estabelecimento e curso de ensino superior.\n\n3 - Podem apresentar-se ao concurso, a título condicional, os candidatos que, até ao final do ano lectivo anterior àquele a que aquele se reporta, possam vir a concluir uma das habilitações a que se refere o n.º 1."
+  },
+  "184414152": {
+   "fragment_id": "184492082",
+   "type": 11,
+   "heading": "Artigo 7.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vagas\n\nA matrícula e inscrição no ciclo de estudos está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, 158/2004, de 30 de Junho, 147-A/2006, de 31 de Julho, 40/2007, de 20 de Fevereiro, e 45/2007, de 23 de Fevereiro."
+  },
+  "184414153": {
+   "fragment_id": "184492083",
+   "type": 11,
+   "heading": "Artigo 8.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Local e prazo de apresentação da candidatura\n\n1 - O requerimento de candidatura é apresentado na Escola.\n\n2 - O prazo para entrega do requerimento de candidatura é fixado nos termos do artigo 25.º"
+  },
+  "184414154": {
+   "fragment_id": "184492084",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação da candidatura\n\nTem legitimidade para subscrever o requerimento de candidatura:\n\na) O candidato;\n\nb) Um seu procurador bastante;\n\nc) A pessoa que demonstre exercer o poder paternal ou a tutela."
+  },
+  "184414155": {
+   "fragment_id": "184492085",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrução do processo de candidatura\n\nO processo de candidatura é instruído com:\n\na) Requerimento onde são indicados, obrigatoriamente:\n\nNome do requerente;\n\nNúmero de bilhete de identidade e entidade emissora;\n\nEndereço postal;\n\nHabilitação com que se candidata;\n\nb) Certificado comprovativo da titularidade da habilitação com que se candidata;\n\nc) Fotocópia simples do bilhete de identidade."
+  },
+  "184414156": {
+   "fragment_id": "184492086",
+   "type": 11,
+   "heading": "Artigo 11.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos os requerimentos que:\n\na) Não estejam correctamente formulados nos termos do artigo anterior;\n\nb) Sejam apresentados fora de prazo;\n\nc) Não estejam acompanhados da documentação neces-sária à sua completa instrução;\n\nd) Expressamente infrinjam algumas das regras fixadas pela presente portaria.\n\n2 - O indeferimento liminar é da competência do director da Escola."
+  },
+  "184414157": {
+   "fragment_id": "184492087",
+   "type": 11,
+   "heading": "Artigo 12.º — Júri das provas do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Júri das provas do concurso\n\n1 - A organização das provas do concurso é da competência de um júri designado pelo director da Escola, ouvido o conselho científico.\n\n2 - Compete ao júri, nomeadamente:\n\na) Fixar os domínios sobre que incidem as provas;\n\nb) Fixar os conteúdos das provas;\n\nc) Fixar os critérios de avaliação a adoptar em cada uma das provas;\n\nd) Dar execução às provas e proceder à sua apreciação;\n\ne) Proceder às operações de selecção e seriação dos candidatos."
+  },
+  "184414158": {
+   "fragment_id": "184492088",
+   "type": 11,
+   "heading": "Artigo 13.º — Edital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Edital\n\nNo prazo fixado nos termos do artigo 25.º, o director procede à afixação, na Escola, de edital indicando, designadamente:\n\na) Os domínios sobre que incidem as provas específica e de conhecimentos gerais de música;\n\nb) Os critérios de avaliação a adoptar em cada uma das referidas provas;\n\nc) Os prazos fixados nos termos do artigo 25.º"
+  },
+  "184414159": {
+   "fragment_id": "184492089",
+   "type": 11,
+   "heading": "Artigo 14.º — Selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Selecção\n\nA selecção dos candidatos é realizada com base:\n\na) Na prova específica, onde deve ser obtida uma classificação igual ou superior a 10;\n\nb) Em cada uma das duas partes que integram a prova de conhecimentos gerais de música, onde deve ser obtida uma classificação igual ou superior a 5;\n\nc) Na prova de conhecimentos gerais de música, onde deve ser obtida uma classificação igual ou superior a 8."
+  },
+  "184414160": {
+   "fragment_id": "184492090",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição no ciclo de estudos é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a resultante do cálculo, até às décimas, da seguinte expressão:\n\n0,9 x Pe + 0,1 x Ha\n\nem que:\n\nPe = classificação final da prova específica;\n\nHa = classificação final da habilitação com que se candidata."
+  },
+  "184414161": {
+   "fragment_id": "184492091",
+   "type": 11,
+   "heading": "Artigo 16.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior."
+  },
+  "184414162": {
+   "fragment_id": "184492092",
+   "type": 11,
+   "heading": "Artigo 17.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 15.º, disputem a última vaga ou o último conjunto de vagas de uma variante/ramo, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "184414163": {
+   "fragment_id": "184492093",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente Regulamento são da competência do director da Escola."
+  },
+  "184414164": {
+   "fragment_id": "184492094",
+   "type": 11,
+   "heading": "Artigo 19.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Resultado final\n\nO resultado final exprime-se através de uma das seguin-tes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído."
+  },
+  "184414165": {
+   "fragment_id": "184492095",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comunicação da decisão\n\n1 - O resultado final é tornado público através de aviso afixado na Escola no prazo fixado nos termos do artigo 25.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número e local de emissão do bilhete de identidade;\n\nc) Nota de candidatura a que se refere o artigo 15.º e as suas componentes;\n\nd) Resultado final.\n\n3 - A menção da situação de Excluído é obrigatoriamente acompanhada da respectiva fundamentação legal."
+  },
+  "184414166": {
+   "fragment_id": "184492096",
+   "type": 11,
+   "heading": "Artigo 21.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao director da Escola.\n\n2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio, em carta registada.\n\n3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.\n\n4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através de carta registada com aviso de recepção."
+  },
+  "184414167": {
+   "fragment_id": "184492097",
+   "type": 11,
+   "heading": "Artigo 22.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 25.º\n\n2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matricula e inscrição caduca com o seu não exercício dentro do prazo fixado."
+  },
+  "184414168": {
+   "fragment_id": "184492098",
+   "type": 11,
+   "heading": "Artigo 23.º — Exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Exclusão dos candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Actuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do director da Escola."
+  },
+  "184414169": {
+   "fragment_id": "184492099",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a Escola envia à Direcção-Geral do Ensino Superior uma lista de onde constem todos os candidatos que procederam à mesma, com indicação do nome e número do bilhete de identidade."
+  },
+  "184414170": {
+   "fragment_id": "184492100",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazos\n\nOs prazos em que devem ser praticados os actos previstos no presente Regulamento são fixados pelo presidente do Instituto Politécnico de Lisboa, devendo ser tornados públicos através de aviso afixado na Escola."
+  },
+  "184307249": {
+   "fragment_id": "184492076",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no ciclo de estudos conducente ao grau de licenciado em Música, nas variantes de:\n\na) Composição, Direção e Formação Musical, nos ramos de:\n\ni) Composição;\n\nii) Direcção Coral e Formação Musical;\n\niii) Direção de Orquestra de Sopros;\n\nb) Execução, nos ramos de:\n\ni) Canto;\n\nii) Cordas Dedilhadas;\n\niii) Instrumentos de Arco, Sopro e Percussão;\n\niv) Música Antiga;\n\nv) Órgão;\n\nvi) Piano;\n\nc) Jazz;\n\nministrado pela Escola Superior de Música de Lisboa, do Instituto Politécnico de Lisboa, adiante designada Escola.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307250": {
+   "fragment_id": "184492077",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\n1 - Requisitos gerais:\n\na) Os candidatos titulares de curso do ensino secundário ou habilitação legalmente equivalente (ensino profissional ou artístico especializado português), podem apresentar-se ao concurso de acesso à licenciatura em Música através da realização de exames finais nacionais do ensino secundário, com aprovação numa das seguintes provas: Filosofia, Geometria Descritiva, História e Cultura das Artes, Inglês, Matemática ou Português, com a classificação não inferior a 9,5 valores;\n\nb) Os candidatos titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso podem ser substituídas por exames finais de disciplinas daqueles cursos, nos termos do disposto no artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual;\n\nc) Podem apresentar-se a concurso, a título condicional, os candidatos que, até ao final do ano letivo anterior àquele a que o concurso se reporta, possam vir a concluir a habilitação referida na alínea a).\n\n2 - Requisitos específicos (a realizar na Escola Superior de Música de Lisboa):\n\na) Prova específica;\n\nb) Prova de conhecimentos gerais de música (exclusiva para os candidatos à variante de Composição, Direção e Formação Musical e à variante de Execução).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307251": {
+   "fragment_id": "184492079",
+   "type": 11,
+   "heading": "Artigo 4.º — Prova de conhecimentos gerais de música",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 4.º — Prova de conhecimentos gerais de música\n\n1 - A prova de conhecimentos gerais de música visa avaliar o nível de proficiência dos candidatos nas áreas sobre que incide e que são indispensáveis para uma sólida formação musical.\n\n2 - A prova de conhecimentos gerais de música é constituída por duas partes:\n\na) Prova de formação auditiva;\n\nb) Prova de análise musical e história da música.\n\n3 - Os domínios sobre que incide a prova são divulgados no edital a que se refere o artigo 13.º\n\n4 - O resultado de cada uma das partes traduz-se numa classificação na escala inteira de 0 a 20.\n\n5 - Estão em condições de ser dispensados das provas de conhecimento gerais de música, se assim o desejarem, os candidatos que reúnam uma das seguintes condições, até ao final do ano letivo em que ocorre o concurso:\n\na) Terem concluído um curso secundário de Música;\n\nb) Terem concluído um curso profissional de Música;\n\n6 - Poderão ainda ser dispensados de ambas as partes os candidatos que frequentem ou tenham frequentado um curso superior de Música.\n\n7 - Os candidatos ao ramo de Direção Coral e Formação Musical estão dispensados da prova de formação auditiva, tendo de realizar a de análise e história da música, exceto aqueles que reúnam as condições referidas nos n.os 5 e 6 do presente artigo.\n\n8 - Os candidatos dispensados da prova de conhecimentos gerais de música terão de fazer prova legal das habilitações que lhes permitem obter a dispensa até ao prazo fixado para o efeito em edital a que se refere o artigo 13.º do presente Regulamento.\n\n9 - A classificação da prova de conhecimentos gerais de música é a média aritmética simples das classificações das duas partes que a integram, arredondada às unidades.\n\n10 - São aprovados os candidatos que obtenham nesta prova classificação igual ou superior a 8 valores, desde que não obtenham nota inferior a 5 valores em nenhuma das suas partes.\n\n11 - A prova de conhecimentos gerais de música, tendo carácter eliminatório, não contribui para a classificação da avaliação da capacidade para a frequência. A avaliação final destas provas será a obtida na prova específica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184492876": {
+   "fragment_id": "184492081",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições para a candidatura",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 6.º — Condições para a candidatura\n\n1 - Podem apresentar-se ao concurso os candidatos que sejam titulares de uma das seguintes habilitações:\n\na) Curso do ensino secundário ou habilitação legalmente equivalente com aprovação, em exame nacional, nas provas de ingresso fixadas pela Escola;\n\nb) Curso superior;\n\nc) Provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos (Decreto-Lei n.º 64/2006, de 21 de Março), de acordo com o regulamento específico destas provas.\n\n2 - Podem igualmente apresentar-se ao concurso os candidatos que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) e b) do n.º 1, já hajam estado legalmente matriculados e inscritos em estabelecimento e curso de ensino superior.\n\n3 - Podem apresentar-se ao concurso, a título condicional, os candidatos que, até ao final do ano lectivo anterior àquele a que aquele se reporta, possam vir a concluir uma das habilitações a que se refere o n.º 1.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307252": {
+   "fragment_id": "184492083",
+   "type": 11,
+   "heading": "Artigo 8.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 8.º — Local e prazo de apresentação da candidatura\n\n1 - A candidatura é efetuada na plataforma de candidaturas online da Escola Superior de Música de Lisboa.\n\n2 - O prazo para entrega do requerimento de candidatura é fixado nos termos do artigo 25.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307253": {
+   "fragment_id": "184492085",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução do processo de candidatura",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 10.º — Instrução do processo de candidatura\n\nO processo de candidatura é instruído com:\n\na) Boletim de candidatura preenchido e submetido através do sistema online;\n\nb) Ficha ENES, que constitui o documento comprovativo da titularidade do curso de ensino secundário e da respetiva classificação e das classificações obtidas nos exames finais nacionais do ensino secundário correspondente às provas de ingresso;\n\nc) Outros documentos referidos no edital a que se refere o artigo 13.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307254": {
+   "fragment_id": "184492087",
+   "type": 11,
+   "heading": "Artigo 12.º — Júri das provas do concurso",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 12.º — Júri das provas do concurso\n\n1 - A organização das provas do concurso é da responsabilidade do conselho pedagógico da Escola.\n\n2 - É igualmente da responsabilidade do conselho pedagógico da Escola, ouvida a coordenação:\n\na) Fixar os domínios sobre que incidem as provas;\n\nb) Fixar os conteúdos das provas;\n\nc) Fixar os critérios de avaliação a adotar em cada uma das provas;\n\nd) Nomear os júris das provas.\n\n3 - Compete aos júris, nomeadamente:\n\na) Dar execução às provas e proceder à sua apreciação;\n\nb) Proceder às operações de seleção e seriação dos candidatos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307255": {
+   "fragment_id": "184492088",
+   "type": 11,
+   "heading": "Artigo 13.º — Edital",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 13.º — Edital\n\nNo prazo fixado nos termos do artigo 25.º, o diretor procede à afixação, na Escola, de edital de abertura e no sítio da Internet da Escola Superior de Música de Lisboa, indicando, designadamente:\n\na) Os domínios sobre que incidem as provas específica e de conhecimentos gerais de música;\n\nb) Os critérios de avaliação a adoptar em cada uma das referidas provas;\n\nc) Os prazos fixados nos termos do artigo 25.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307256": {
+   "fragment_id": "184492089",
+   "type": 11,
+   "heading": "Artigo 14.º — Selecção",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 14.º — Selecção\n\n1 - Na variante de Composição, Direção e Formação Musical e na variante de Execução a seleção dos candidatos é realizada com base:\n\na) Na prova específica, onde deve ser obtida uma classificação igual ou superior a 10;\n\nb) Em cada uma das duas partes que integram a prova de conhecimentos gerais de música, onde deve ser obtida uma classificação igual ou superior a 4.\n\n2 - Na variante de Jazz a seleção dos candidatos é realizada com base na prova específica, onde deve ser obtida uma classificação igual ou superior a 10.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184492877": {
+   "fragment_id": "184492095",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação da decisão",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 20.º — Comunicação da decisão\n\n1 - O resultado final é tornado público no sítio da Internet e afixado na Escola no prazo fixado nos termos do artigo 25.º do presente Regulamento.\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número e local de emissão do bilhete de identidade;\n\nc) Nota de candidatura a que se refere o artigo 15.º e as suas componentes;\n\nd) Resultado final.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307257": {
+   "fragment_id": "184492096",
+   "type": 11,
+   "heading": "Artigo 21.º — Reclamações",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 21.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao director da Escola.\n\n2 - A reclamação é entregue enviada por via eletrónica ou entregue na Escola Superior de Música de Lisboa.\n\n3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.\n\n4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através de via eletrónica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184414171": {
+   "fragment_id": "184492104",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Segunda fase do concurso",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 21.º-A — Segunda fase do concurso\n\n1 - Quando, decorrido o prazo de matrícula e inscrição, se verifique a existência de vagas sobrantes, os órgãos legal e estatutariamente competentes da Escola podem decidir, conjuntamente, a realização de uma segunda fase do concurso.\n\n2 - Podem apresentar-se à segunda fase os candidatos que reúnam as condições fixadas no artigo 2.º, inclusive os que já se tenham inscrito na primeira fase, mas hajam faltado à prova específica ou nela não hajam obtido a classificação fixada pelo artigo 13.º do presente Regulamento.\n\n3 - À segunda fase aplicam-se as regras fixadas pelo presente Regulamento para a primeira fase.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184414172": {
+   "fragment_id": "184492097",
+   "type": 11,
+   "heading": "Artigo 22.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 25.º\n\n2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matricula e inscrição caduca com o seu não exercício dentro do prazo fixado."
+  },
+  "184414173": {
+   "fragment_id": "184492098",
+   "type": 11,
+   "heading": "Artigo 23.º — Exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Exclusão dos candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Actuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do director da Escola."
+  },
+  "184307258": {
+   "fragment_id": "184492099",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do Ensino Superior uma lista de todos os candidatos que procederam à mesma, com indicação do número do cartão de cidadão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  },
+  "184307259": {
+   "fragment_id": "184492100",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+   ],
+   "markdown": "###### Artigo 25.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo diretor da Escola Superior de Música de Lisboa, devendo ser tornados públicos no sítio da Internet e na Escola.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2022 - Diário da República n.º 109/2022, Série I de 2022-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/156-2022-184420996), em vigor a partir de 2022-06-07"
+  }
+ }
+}

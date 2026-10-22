@@ -1,0 +1,706 @@
+---
+schema_version: '1.0'
+id: pt:dre:602046:por
+title: Decreto-Lei n.º 48/2009
+short_title: null
+summary: Cria, ao abrigo do acordo de cooperação celebrado em 4 de Dezembro de 2002 entre a República Portuguesa e a República
+  Democrática de Timor-Leste, a Escola Portuguesa de Díli - Centro de Ensino e Língua Portuguesa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 48/2009
+official_date: null
+publication_date: '2009-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2009, Série I de 2009-02-23
+  number: '37'
+  series: I
+  supplement: null
+  pages: 1256 - 1261
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03700/0125601261.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-05-13'
+version_history:
+  file: decreto-lei-48-2009.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-30'
+    amending: pt:dre:70402849:por
+    amending_title: Decreto-Lei n.º 214/2015
+    changes:
+    - Adita Artigo 21.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+  - date: '2023-12-30'
+    amending: pt:dre:835994078:por
+    amending_title: Decreto-Lei n.º 139-B/2023
+    changes:
+    - Altera Artigo 16.º
+  - date: '2025-05-13'
+    amending: pt:dre:917593145:por
+    amending_title: Decreto-Lei n.º 78/2025
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/48/2009/p/cons/20250512/pt/html
+  oj: null
+  dre: '602046'
+  dre_path: /dr/detalhe/decreto-lei/48-2009-602046
+  internal: pt:dre:602046:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2009-602046
+  metadata_url: https://data.dre.pt/eli/dec-lei/48/2009/p/cons/20250512/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70900501
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70900501
+  retrieved_at: '2026-10-22T12:03:51Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c6cfe790d6c6887a965958b41a9c5a6b51a09bb35a7a8c8a7393bcd8ace985b2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:03:51Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-48-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Timor Leste
+- DILI
+- Ensino Português no Estrangeiro
+- Orgânica
+- Estabelecimento de Ensino
+- Escola Portuguesa de Díli
+relationships:
+- type: amended_by
+  target: pt:dre:70402849:por
+  label: Adita Artigo 21.º-A; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849
+  date: '2015-09-29'
+- type: amended_by
+  target: pt:dre:835994078:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:917593145:por
+  label: Altera Artigo 16.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145
+  date: '2025-05-12'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/165/2006/08/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/2006/08/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/183/2006/09/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/183/2006/09/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/11/2008/05/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/11/2008/05/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/2/2008/01/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/2/2008/01/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/31/2002/12/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/31/2002/12/20/p/dre
+article_structure:
+  article_count: 32
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:03:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48/2009
+
+Decreto-Lei n.º 48/2009
+
+de 23 de Fevereiro
+
+Através do acordo de cooperação assinado em Díli em 4 de Dezembro de 2002, a República Portuguesa e a República Democrática de Timor-Leste aprovaram a criação de uma escola portuguesa em Díli, considerando o interesse recíproco no desenvolvimento da cooperação entre os dois Estados nos domínios do ensino, da língua e da cultura, com o reforço do intercâmbio cultural e da valorização da língua portuguesa, como língua oficial daquele Estado. Tal medida enquadra-se no Acordo Quadro de Cooperação vigente entre os dois Estados, celebrado em 20 de Maio de 2002, visando reforçar os laços de amizade e cooperação já existentes.
+
+Concretizando os objectivos a prosseguir pela Escola Portuguesa de Díli, ficou estabelecido que o seu projecto educativo, para além do desenvolvimento do ensino do português e em português, deveria contribuir para a qualificação da população de Timor-Leste, em particular das suas crianças e jovens, sem deixar de promover a educação e a formação ao longo da vida.
+
+Enquanto escola pública portuguesa, a Escola Portuguesa de Díli estará aberta a cidadãos portugueses e timorenses, além de cidadãos de outras nacionalidades residentes em Timor-Leste. Prosseguindo, com as indispensáveis adaptações decorrentes da sua situação própria, as orientações curriculares para a educação pré-escolar e os planos curriculares e programas dos ensinos básico e secundário em vigor no sistema educativo português, a escola procede à certificação dos respectivos ciclos e níveis de ensino. Nos termos do acordo celebrado entre Portugal e Timor-Leste, essa certificação permite o prosseguimento de estudos nos respectivos sistemas educativos.
+
+Dispondo o acordo para a criação da Escola Portuguesa de Díli que os Estados Contratantes se comprometem a adoptar a legislação necessária ao cumprimento do mesmo, impõe-se a formalização, através do presente diploma, da criação da Escola Portuguesa de Díli, definindo a sua natureza e objectivos, além dos princípios enquadradores da regulamentação da sua organização e funcionamento.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Despacho n.º 11812/2015 - Diário da República n.º 206/2015, Série II de 2015-10-21](https://diariodarepublica.pt/dr/detalhe/despacho/11812-2015-70759832) A Escola Portuguesa de Díli - Centro de Ensino de Língua Portuguesa, passa a denominar-se Escola Portuguesa de Díli - Centro de Ensino e Língua Portuguesa - Ruy Cinatti, podendo adoptar a designação abreviada Escola Portuguesa Ruy Cinatti
+
+### Capítulo I — Criação, natureza e objectivos
+
+###### Artigo 1.º — Criação
+
+É criada, ao abrigo do acordo da cooperação entre a República Portuguesa e a República Democrática de Timor-Leste, de 4 de Dezembro de 2002, a Escola Portuguesa de Díli - Centro de Ensino e Língua Portuguesa, adiante abreviadamente designada por Escola, da titularidade do Estado Português, com sede em Díli.
+
+###### Artigo 2.º — Natureza
+
+1 - A Escola é um estabelecimento público de educação e ensino com natureza idêntica à dos estabelecimentos públicos de educação e de ensino do sistema educativo português e ministra a educação pré-escolar e os ensinos básico e secundário.
+
+2 - Sem prejuízo do disposto no número anterior, a Escola é dotada de autonomia administrativa e financeira devendo, nesta matéria, reger-se pelo regime financeiro previsto nos artigos 43.º e seguintes do Decreto-Lei n.º 155/92, de 28 de julho.
+
+3 - No âmbito da sua autonomia pedagógica, a Escola pode:
+
+a) Celebrar protocolos ou acordos de colaboração com outras entidades públicas e privadas com vista ao alargamento da sua oferta educativa ou formativa, desde que devidamente autorizada pelo membro do Governo responsável pela área da educação;
+
+b) Celebrar contrato de autonomia.
+
+4 - A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 3.º — Objectivos
+
+1 - Além dos previstos na Constituição da República Portuguesa e na Lei de Bases do Sistema Educativo, constituem objectivos da Escola:
+
+a) A promoção e difusão da língua e da cultura portuguesas;
+
+b) A promoção dos laços linguísticos e culturais entre a República Portuguesa e a República Democrática de Timor-Leste;
+
+c) A cooperação entre a República Portuguesa e a República Democrática de Timor-Leste nas áreas da educação e da cultura;
+
+d) A aplicação das orientações curriculares para a educação pré-escolar e dos planos curriculares e programas dos ensinos básico e secundário em vigor no sistema educativo português;
+
+e) A contribuição para a qualificação da população de Timor-Leste, em particular das suas crianças e jovens, e para a promoção da educação e da formação ao longo da vida;
+
+f) A promoção de uma formação de base cultural portuguesa;
+
+g) A promoção da escolarização de portugueses e de filhos de portugueses;
+
+h) A constituição como centro de formação contínua de professores e centro de recursos.
+
+2 - Pode, ainda, a Escola, com vista ao desenvolvimento de acções de valorização sócio-cultural, cooperar com as entidades locais e com entidades e organismos internacionais.
+
+###### Artigo 4.º — Princípios de actuação
+
+1 - Constituem princípios de actuação da Escola:
+
+a) A integração de alunos portugueses e a frequência de crianças e jovens timorenses e de outras nacionalidades;
+
+b) O funcionamento de todos os níveis de educação e ensino, desde a educação pré-escolar até ao final do ensino secundário;
+
+c) A obediência à orientação científica e pedagógica da responsabilidade do Estado Português;
+
+d) A possibilidade de adaptações curriculares, designadamente nas áreas disciplinares da História e Geografia, de forma a contemplar a realidade local e promover o conhecimento sobre Timor;
+
+e) A prestação de apoio à formação de pessoal docente e não docente e à comunidade;
+
+f) O funcionamento como centro de apoio à cooperação portuguesa na área da educação e formação;
+
+g) A articulação de funcionamento com o Centro Cultural Português em Díli;
+
+h) A racionalização de custos visando assegurar a continuidade da actividade, conjugada com uma gestão que assegure o progressivo autofinanciamento da Escola.
+
+2 - No seu funcionamento, a Escola segue o calendário escolar português quanto ao início e fim das actividades bem como no que respeita às interrupções lectivas.
+
+3 - Em matéria dos feriados, a Escola adopta os definidos localmente, acrescendo o dia 10 de Junho.
+
+###### Artigo 5.º — Gestão da Escola
+
+1 - A gestão da Escola e a prestação do serviço público de educação podem ser efectuadas directamente pelo Estado ou em regime de gestão e financiamento privados, a celebrar mediante contrato de gestão entre o Estado e entidades privadas, com ou sem fins lucrativos.
+
+2 - À gestão e ao financiamento privados aplicam-se as disposições sobre o contrato de gestão previstas no Decreto-Lei n.º 183/2006, de 6 de Setembro, com as adaptações que se mostrem necessárias, com exclusão de quaisquer outras disposições legais sobre a matéria.
+
+3 - Sem prejuízo das especificidades previstas no presente diploma, a gestão da Escola é efetuada de acordo com o regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, alterado pelos Decretos-Leis n.os 224/2009, de 11 de setembro, e 137/2012, de 2 de julho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+### Capítulo II — Estrutura orgânica
+
+#### Secção I — Estrutura orgânica
+
+###### Artigo 6.º — Órgãos da Escola
+
+1 - No caso de a gestão da Escola ser efectuada directamente pelo Estado, aquela dispõe dos seguintes órgãos:
+
+a) O conselho de patronos;
+
+b) A direcção;
+
+c) O conselho pedagógico.
+
+2 - O conselho de patronos tem a composição e as competências definidas no presente decreto-lei, ainda que a gestão da Escola e a prestação do serviço público de educação sejam efectuadas em regime de contrato de gestão.
+
+#### Secção II — Conselho de patronos
+
+###### Artigo 7.º — Composição
+
+1 - O conselho de patronos tem a seguinte composição:
+
+a) O embaixador de Portugal em Timor-Leste, que, por inerência, preside;
+
+b) Um representante do Ministério da Educação;
+
+c) Um representante da Associação de Pais e Encarregados de Educação dos Alunos da Escola, ou de quem os represente.
+
+2 - Podem, ainda, fazer parte do conselho de patronos outras individualidades ou representantes de entidades que se tenham distinguido no apoio ao funcionamento da Escola, na promoção e divulgação da língua e cultura portuguesas em Timor-Leste ou dos laços linguísticos e culturais entre os povos português e timorense, a designar por despacho do membro do Governo responsável pela área da educação.
+
+3 - Os membros do conselho elegem, de entre si, trienalmente, um vice-presidente.
+
+4 - A participação nos trabalhos do conselho de patronos não confere aos respetivos titulares o direito a qualquer remuneração ou abono.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 8.º — Competências
+
+O conselho de patronos é o órgão responsável pela definição das linhas orientadoras da actividade da Escola, em obediência aos objectivos e princípios de actuação definidos no presente diploma, competindo-lhe, em especial:
+
+a) Aprovar, sob proposta do director, ouvido o conselho pedagógico:
+
+i) O projecto educativo da Escola;
+
+ii) O regulamento interno da Escola;
+
+iii) O plano anual de actividades;
+
+b) Definir as linhas orientadoras para a elaboração do orçamento;
+
+c) Aprovar o orçamento;
+
+d) Apreciar e aprovar o relatório de contas de gerência;
+
+e) Estabelecer, sob proposta do director, as quantias a cobrar pelos serviços prestados, nomeadamente o valor das matrículas e inscrições;
+
+f) Aprovar o regulamento das bolsas de estudo e das bolsas de mérito;
+
+g) Acompanhar, em geral, as actividades e o funcionamento da Escola;
+
+h) Aprovar as propostas de contratos de autonomia, nos termos do artigo 21.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 9.º — Funcionamento e mandato
+
+1 - O conselho de patronos reúne:
+
+a) Ordinariamente, duas vezes por ano, mediante convocatória do seu presidente;
+
+b) Extraordinariamente, por iniciativa do seu presidente ou a requerimento da maioria dos seus membros.
+
+2 - Sempre que o presidente considere que as deliberações do conselho de patronos podem pôr em causa o interesse público e a prossecução dos objectivos da Escola, deve submetê-las a homologação do membro do Governo responsável pelas escolas portuguesas no estrangeiro, suspendendo-se a sua execução.
+
+3 - A duração do mandato dos membros do conselho de patronos é de três anos, renovável.
+
+4 - O exercício do mandato dos membros do conselho de patronos não é remunerado.
+
+5 - Quando tenham de se deslocar de Portugal a Timor-Leste em exercício de mandato, os membros do conselho de patronos são dispensados das suas actividades profissionais, públicas ou privadas, considerando-se a deslocação como realizada em serviço e conferindo direito ao abono de despesas de transporte e de ajudas de custo.
+
+#### Secção III — Direcção
+
+###### Artigo 10.º — Composição e designação
+
+1 - A direção da Escola é composta por um diretor e dois subdiretores.
+
+2 - Os membros da direção da Escola são recrutados de entre indivíduos que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, através de procedimento concursal a regulamentar em portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e da educação.
+
+3 - Os membros da direção da Escola e da direção dos polos são designados em comissão de serviço pelo período de quatro anos, da seguinte forma:
+
+a) Por despacho do Primeiro-Ministro e dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, no caso do diretor;
+
+b) Por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, no caso dos subdiretores.
+
+4 - O diretor e os subdiretores são equiparados, para efeitos remuneratórios, a dirigentes superiores de 1.º e de 2.º grau, respetivamente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 11.º — Competência
+
+1 - O diretor tem os poderes de administração e gestão da Escola nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.
+
+2 - Compete ao diretor:
+
+a) Representar a Escola;
+
+b)  Distribuir o serviço docente e não docente;
+
+c) Designar os coordenadores de departamento e os diretores de turma;
+
+d) Exercer o poder hierárquico em relação ao pessoal docente e não docente;
+
+e) Exercer o poder disciplinar em relação aos alunos;
+
+f) Intervir nos termos da lei no processo de avaliação de desempenho do pessoal docente;
+
+g) Proceder à avaliação de desempenho do pessoal não docente;
+
+h) Gerir as instalações, espaços e equipamentos, bem como outros recursos educativos;
+
+i) Proceder à selecção e recrutamento de pessoal docente e não docente;
+
+j) Celebrar, renovar e rescindir contratos de trabalho do pessoal docente e não docente contratados localmente;
+
+k) Autorizar a realização de despesas e o respectivo pagamento, fiscalizar a cobrança de receitas e verificar a legalidade da gestão financeira da Escola;
+
+l) Estabelecer protocolos e celebrar acordos de cooperação com outras escolas ou instituições de formação;
+
+m) Promover e incentivar o relacionamento com a comunidade educativa;
+
+n) Elaborar o orçamento;
+
+o) Praticar todos os atos necessários ao normal funcionamento dos serviços e órgãos no âmbito da gestão dos recursos financeiros, materiais e patrimoniais, designadamente:
+
+i) Autorizar, dentro dos limites estabelecidos pelo respetivo orçamento anual, transferências de verbas subordinadas à mesma classificação orgânica e a antecipação até dois duodécimos por rubrica, com limites fixados pelo Ministério das Finanças;
+
+ii) Autorizar a constituição de fundos permanentes das dotações do respetivo orçamento, com exceção das rubricas referentes a pessoal, até ao limite de um duodécimo;
+
+iii) Celebrar contratos de seguro e de arrendamento e autorizar a respetiva atualização, nos termos da lei.
+
+3 - Ouvido o conselho pedagógico, compete, ainda, ao diretor:
+
+a) Elaborar e submeter à aprovação do conselho de patronos:
+
+i) As alterações ao regulamento interno;
+
+ii) Os planos anual e plurianual de atividades;
+
+iii) O relatório de atividades;
+
+iv) As propostas de celebração de contrato de autonomia;
+
+b) Aprovar o plano de formação e atualização do pessoal docente e não docente;
+
+c) Definir o regime de funcionamento da Escola;
+
+d) Superintender na constituição de turmas e na elaboração de horários.
+
+4 - O diretor submete à aprovação do conselho de patronos o projeto educativo elaborado pelo conselho pedagógico.
+
+5 - O diretor pode delegar nos subdiretores as competências referidas nos números anteriores, com exceção da prevista na alínea f) do n.º 2.
+
+6 - O diretor é substituído, nas suas ausências e impedimentos, pelo subdiretor que designar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+#### Secção IV — Conselho pedagógico
+
+###### Artigo 12.º — Função e composição
+
+1 - O conselho pedagógico é o órgão de coordenação e supervisão pedagógica e orientação educativa da Escola, de orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.
+
+2 - A composição do conselho pedagógico é da responsabilidade da Escola, a definir no regulamento interno, não devendo ultrapassar o máximo de 17 membros, observando os seguintes princípios:
+
+a) Participação dos coordenadores dos departamentos curriculares;
+
+b) Participação das demais estruturas de coordenação e supervisão pedagógica e de orientação educativa, assegurando uma representação pluridisciplinar e das diferentes ofertas formativas;
+
+c) (Revogada).
+
+3 - O diretor é, por inerência, o presidente do conselho pedagógico.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 13.º — Competência
+
+1 - Sem prejuízo das competências atribuídas por lei ou pelo regulamento interno, compete ao conselho pedagógico exercer as competências legais definidas no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 14.º — Funcionamento
+
+1 - O conselho pedagógico reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa, a requerimento de um terço dos seus membros em efectividade de funções ou sempre que um pedido de parecer do director ou do presidente do conselho de patronos o justifique.
+
+2 - A representação dos pais e encarregados de educação e dos alunos no conselho pedagógico faz-se no âmbito de uma comissão especializada que participa no exercício das competências previstas nas alíneas c), d), f), j), l) e m) do artigo anterior.
+
+###### Artigo 15.º — Estruturas de orientação educativa
+
+O regulamento interno fixa, nos termos do regime jurídico referido no n.º 2 do artigo 5.º, as estruturas que colaboram com a direção e com o conselho pedagógico no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+### Capítulo III — Pessoal
+
+###### Artigo 16.º — Pessoal docente
+
+1 - Aos docentes da Escola é aplicado o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril (ECD).
+
+2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - O docente que, em resultado de concurso, aceite a colocação fica obrigado ao cumprimento de um período mínimo de dois anos de permanência na Escola, a contar da data do início de funções.
+
+10 - O incumprimento do disposto no número anterior constitui o docente na obrigação de indemnizar a Escola do valor correspondente aos custos suportados com o pagamento do apoio à instalação no local de trabalho e determina a perda do direito ao pagamento dos apoios ao regresso a Portugal e relativo à viagem de regresso a Portugal, para si e para os membros do seu agregado familiar, previstos nas alíneas a) e c) do n.º 14 do artigo 18.º, exceto se for devido a motivo de força maior ou a facto não imputável ao docente.
+
+11 - Para o efeito do disposto na parte final do número anterior, constitui motivo de força maior ou facto não imputável ao docente, designadamente:
+
+a) Acidente de trabalho;
+
+b) Doença profissional;
+
+c) Internamento hospitalar e tratamento ambulatório na sequência daquele;
+
+d) Doença incapacitante do próprio que exija tratamento prolongado; ou
+
+e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) O disposto nos n.os 9 a 11 do presente artigo apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 17.º — Pessoal não docente
+
+1 - O recrutamento do pessoal para o exercício de funções não docentes na Escola é feito através de contratação local de trabalhadores, nos termos de legislação própria.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 18.º — Garantias
+
+1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.
+
+2 - A concessão de licença que tenha como fundamento a celebração de contrato para o desempenho de funções na Escola considera-se fundamentada em circunstâncias de interesse público.
+
+3 - O exercício de funções docentes no quadro da Escola confere ao docente de carreira vinculado a quadro de agrupamento de escolas, de escola não agrupada ou de quadro de zona pedagógica, consoante o caso, o direito à manutenção do seu lugar de origem, pelo período de até quatro anos.
+
+a) Com a instalação no local de trabalho;
+
+b) Com a residência no local de trabalho;
+
+c) Efetuadas com as suas viagens e com os membros do seu agregado familiar, incluindo as bagagens;
+
+d) Com seguros de saúde para si e para os membros do seu agregado familiar.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+8 - (Revogado).
+
+9 - (Revogado).
+
+10 - (Revogado).
+
+11 - (Revogado).
+
+12 - (Revogado).
+
+13 - (Revogado).
+
+14 - Os membros da direção da Escola, os adjuntos e os docentes que se desloquem de Portugal para o exercício de funções na Escola têm direito aos seguintes apoios, nos termos e nos montantes a definir por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação:
+
+a) Apoio à instalação no local de trabalho e ao regresso a Portugal;
+
+b) Apoio ao custo da residência no local de trabalho, o qual é pago mensalmente, 12 vezes por ano, e é determinado tendo em conta os índices de custo de vida da Organização das Nações Unidas, constantes da publicação mais recente do ‘UN Bulletin of Statistics’, bem como critérios inerentes ao nível de risco e à insalubridade no país do exercício das funções;
+
+c) Apoio relativo à viagem de ida para o país do exercício das funções e de regresso a Portugal, no início e na cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;
+
+d) Apoio relativo a uma viagem de ida para Portugal e de regresso ao país do exercício das funções, por cada ano civil de exercício na Escola que não coincida com o do início nem com o da cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;
+
+e) Apoio relativo a prémios de seguros de saúde, para si e para os membros do seu agregado familiar;
+
+f) Isenção do pagamento de matrículas, propinas e outras despesas devidas pela frequência dos seus descendentes na Escola.
+
+15 - No caso dos docentes que se desloquem de Portugal para o exercício de funções na Escola, o apoio relativo à viagem de ida e de regresso, para si e para os membros do seu agregado familiar, previsto na alínea d) do número anterior, é devido, no máximo, três vezes.
+
+16 - O docente que cumpra um período de quatro anos de exercício de funções contínuas na Escola tem direito a um prémio de permanência, equivalente ao valor da sua remuneração base mensal, pago uma única vez, no mês seguinte a ter completado os quatro anos.
+
+> Nota: [Artigo 9.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) Aos docentes que, no ano escolar de 2024-2025, tenham sido colocados em escola portuguesa no estrangeiro da rede pública do MECI, em resultado de concurso interno, externo ou para a satisfação de necessidades temporárias, através de contratação de escola, e se tenham deslocado de Portugal para o exercício de funções, que se mantenham em funções na respetiva Escola no ano escolar de 2025-2026 aplicam-se, a partir no início do ano escolar de 2025-2026, as garantias previstas no presente artigo.
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) Para o cômputo dos períodos de quatro anos e do limite máximo de três vezes, a que se referem os n.os 3, 15 e 16 do presente artigo, apenas se contam o tempo que decorrer ou as viagens que forem realizadas, consoante os casos, a partir do dia 1 de setembro de 2025.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 19.º — Protecção social
+
+1 - Ao pessoal contratado localmente para o exercício de funções docentes na Escola aplica-se a legislação da segurança social de Timor-Leste, sem prejuízo do disposto em instrumento bilateral de segurança social celebrado entre Portugal e Timor-Leste.
+
+2 - Compete à Escola suportar os encargos por conta da entidade patronal.
+
+3 - Complementarmente, em condições a fixar por despacho do membro do Governo responsável pela área da educação e sob proposta da direção, pode ser celebrado contrato de seguro para cobertura das eventualidades não abrangidas pelo regime de proteção social de Timor-Leste, sendo esses encargos suportados, nas percentagens de 35 % e 65 %, pelo docente e pela Escola, não podendo a comparticipação do trabalhador, para a formação do prémio de seguro, exceder o montante que o mesmo teria de suportar com a inscrição no regime geral de segurança social português para proteção nas mesmas eventualidades.
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 20.º — Mapa de pessoal
+
+O pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a elaborar pelo diretor e a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 21.º — Avaliação
+
+1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior constante da Lei n.º 31/2002, de 20 de dezembro, alterado pela Lei n.º 66-B/2012, de 31 de dezembro.
+
+2 - É aplicável ao pessoal docente em exercício de funções na Escola o regime de avaliação de desempenho constante do Estatuto da Carreira Docente, do Decreto Regulamentar n.º 26/2012, de 21 de fevereiro, e da Portaria n.º 15/2013, de 15 de janeiro, com as necessárias adaptações.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 21.º-A — Contrato de autonomia
+
+1 - Ao contrato de autonomia é aplicável o disposto no Decreto-Lei n.º 137/2012, de 2 de julho, e na Portaria n.º 265/2012, de 30 de agosto, alterada pela Portaria n.º 44/2014, de 20 de fevereiro.
+
+2 - O conselho de patronos exerce, relativamente ao processo de celebração do contrato de autonomia, as competências atribuídas ao conselho geral na legislação aplicável.
+
+3 - A comissão de acompanhamento do contrato de autonomia da Escola, prevista no n.º 1 do artigo 9.º da Portaria n.º 265/2012 de 30 de agosto, alterada pela Portaria n.º 44/2014, de 20 de fevereiro, não integra o elemento indicado pelo conselho municipal de educação.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 22.º — Organização interna
+
+O primeiro regulamento interno é submetido pelo conselho de patronos a aprovação do membro do Governo responsável pela área da educação.
+
+###### Artigo 23.º — Regime transitório para o pessoal docente
+
+1 - Até ao final do ano escolar de 2011-2012 podem ser contratados para o exercício de funções docentes, em número que não ultrapasse um quinto do total do pessoal docente da Escola, indivíduos que não disponham das adequadas habilitações académicas e profissionais mas comprovem a efectiva experiência no exercício de funções docentes por tempo não inferior a três anos.
+
+2 - Enquanto não for possível satisfazer as necessidades da Escola através do regime de recrutamento previsto no n.º 2 do artigo 16.º, aplica-se o regime previsto nos n.os 3 e 4 do mesmo artigo.
+
+###### Artigo 24.º — Cessação de funções
+
+Os actuais órgãos dirigentes da Escola de ensino português em Díli cessam funções na data de nomeação dos membros da direcção, assegurando até essa data todas as funções que competem a este órgão.
+
+###### Artigo 25.º — Reconhecimento das actividades
+
+1 - A Escola sucede nas suas actividades à escola de ensino português em Díli.
+
+2 - É reconhecido o funcionamento e o ensino ministrado na escola de ensino português em Díli a partir do ano lectivo de 2002-2003, ao abrigo do despacho conjunto n.º 633/2002, de 25 de Julho, publicado no Diário da República, 2.ª série, n.º 189, de 17 de Agosto de 2002.
+
+###### Artigo 26.º — Propinas e outros valores
+
+O valor das propinas é fixado pela direção e aprovado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2015 - Diário da República n.º 190/2015, Série I de 2015-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849), em vigor a partir de 2015-09-30
+
+###### Artigo 27.º — Nome da Escola
+
+Por despacho do membro do Governo responsável pelas escolas portuguesas no estrangeiro pode ser conferida à Escola uma denominação que constitua o nome de uma personalidade que se tenha distinguido no âmbito da cultura, ciência ou educação.
+
+###### Artigo 28.º — Apoio ao funcionamento da Escola
+
+O Ministério dos Negócios Estrangeiros, através da representação diplomática em Timor-Leste, presta o apoio logístico que se mostre necessário ao exercício de funções por parte do conselho de patronos e da direcção da Escola.
+
+###### Artigo 29.º — Página electrónica
+
+A Escola disponibiliza uma página electrónica, sediada na página electrónica do Ministério da Educação de Portugal, com todos os dados relevantes, nomeadamente:
+
+a) Os diplomas legislativos que a regulam, os estatutos e regulamentos internos;
+
+b) A composição dos órgãos, incluindo os elementos biográficos e contactos dos respectivos membros;
+
+c) Os planos e relatórios de actividades;
+
+d) Os orçamentos e contas, incluindo os respectivos balanços;
+
+e) O mapa de pessoal.
+
+###### Artigo 30.º — Prazos
+
+Os prazos para a constituição dos órgãos e para aprovação dos regulamentos previstos no presente diploma são fixados por despacho do membro do Governo responsável pelas escolas portuguesas no estrangeiro.
+
+###### Artigo 31.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Maria Teresa Gonçalves Ribeiro - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
+
+Promulgado em 4 de Fevereiro de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 5 de Fevereiro de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

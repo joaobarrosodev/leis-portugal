@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:550855:por
+title: Portaria n.º 1032/89
+short_title: null
+summary: Regulamenta a instalação de faróis de nevoeiro nos veículos automóveis
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações - Secretaria de Estado dos Transportes Interiores
+proposing_entity: null
+official_number: 1032/89
+official_date: null
+publication_date: '1989-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 273/1989, Série I de 1989-11-27
+  number: '273'
+  series: I
+  supplement: null
+  pages: 5167 - 5168
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/11/27300/51675168.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '550855'
+  dre_path: /dr/detalhe/portaria/1032-1989-550855
+  internal: pt:dre:550855:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1032-1989-550855
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1032-1989-550855
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-11-27T00:00:00Z'
+integrity:
+  source_sha256: 17824313506beade9254e9b436dbe36860acc4b21d840fd778164a730f15d785
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-1032-550855.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1032/89
+
+de 27 de Novembro
+
+Considerando as recentes medidas a reforçar as condições de segurança da circulação rodoviária, tornadas obrigatórias pelo [Decreto-Lei n.º 238/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1989-430197), de 26 de Julho, torna-se necessário, de acordo com o previsto no artigo 5.º, especificar os dispositivos e regulamentar a sua aplicação.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado dos Transportes Interiores, o seguinte:
+
+1.º As luzes de nevoeiro que devem prover os veículos automóveis, à excepção dos motociclos, a que se refere o artigo 2.º do [Decreto-Lei n.º 238/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1989-430197), devem obedecer ao modelo aprovado nos termos da regulamentação em vigor para aprovação de componentes.
+
+2.º As luzes referidas no número anterior devem obedecer às seguintes condições de instalação:
+
+A) Luzes de nevoeiro à retaguarda:
+
+1) Localização:
+
+a) Em largura. - Quando a luz de nevoeiro for única, deve estar situada do lado esquerdo do plano longitudinal médio do veículo.
+
+Nos restantes casos devem as luzes de nevoeiro estar colocadas simetricamente em relação ao plano longitudinal médio do veículo.
+
+Em qualquer caso, a distância entre a luz de nevoeiro da retaguarda e a luz de travagem deve ser superior a 100 mm;
+
+b) Em altura. - Devem estar situadas entre 250 mm e 1000 mm acima do solo;
+
+c) Em comprimento. - Devem estar à retaguarda;
+
+2) Orientação. - Devem estar orientadas para a retaguarda do veículo;
+
+3) Ligação eléctrica funcional. - Só devem poder ligar-se quando, pelo menos, as luzes de médios estiverem em serviço;
+
+4) Avisador de accionamento. - Deve ser de instalação obrigatória sob a forma de um indicador luminoso de cor âmbar, independente e não intermitente.
+
+B) Luzes de nevoeiro à frente:
+
+1) Localização:
+
+a) Em largura. - O ponto da superfície iluminante mais afastado do ponto longitudinal médio do veículo não deve encontrar-se a mais de 400 mm da extremidade da largura total do veículo;
+
+b) Em altura. - Devem estar no mínimo a 250 mm acima do solo e nenhum ponto da superfície iluminante se deve encontrar acima do ponto mais alto da superfície iluminante da luz de médios;
+
+c) Em comprimento. - Devem estar colocadas na frente do veículo, não podendo a luz emitida causar encandeamento ao condutor do veículo da frente, por reflexão, directa ou indirecta, no espelho retrovisor ou em quaisquer outras superfícies reflectoras do mesmo, não podendo, em caso algum, a incidência do feixe luminoso emitido exceder os 30 m;
+
+2) Orientação. - Devem estar orientadas para a frente, sem encandear os condutores que circulam no sentido oposto, não podendo a sua orientação variar em função da viragem da direcção;
+
+3) Ligação eléctrica funcional. - Devem ser ligadas e apagadas separadamente das luzes de máximos e das de médios ou de uma combinação destas;
+
+4) Avisador de accionamento. - É de instalação facultativa, mas quando instalado deve ser sob forma de um indicador luminoso de cor verde.
+
+3.º As luzes de nevoeiro podem estar agrupadas com qualquer outra luz, não podendo, contudo, ser combinadas com outras.
+
+4.º Nenhum veículo pode ser homologado e matriculado se as luzes de nevoeiro nele instaladas não forem do modelo aprovado, nos termos da regulamentação referida no n.º 1.º da presente portaria.
+
+5.º Os sinais luminosos referidos no n.º 1 do artigo 3.º do [Decreto-Lei n.º 238/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1989-430197), de 26 de Julho - luzes avisadoras de perigo -, devem emitir uma luz intermitente com uma frequência de 90 (mais ou menos) 30 períodos por minuto.
+
+1 - O accionamento destes sinais deve ser obtido através de um comando distinto que permita a intermitência síncrona de todas as luzes indicadoras de mudança de direcção.
+
+2 - O avisador de accionamento é de instalação obrigatória, de cor vermelha e intermitente.
+
+3 - Quando um veículo a motor estiver equipado para atrelar um reboque, o comando das luzes avisadoras deve poder igualmente accionar as luzes indicadoras de mudança de direcção do reboque. As luzes avisadoras de perigo devem poder funcionar mesmo se o dispositivo que comanda a marcha ou a paragem do motor se encontrar numa posição tal que a marcha do motor seja impossível.
+
+4 - Para os efeitos do disposto na alínea d) do n.º 2 do artigo 4.º do referido [Decreto-Lei n.º 238/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1989-430197), de 26 de Julho, entende-se que as demais circunstâncias são aquelas que se verificam em situações de imobilização forçada do veículo.
+
+6.º Os cintos de segurança a instalar nos termos do artigo 4.º do referido decreto-lei devem obedecer às características e condições de aprovação fixadas pela [Portaria n.º 427/87](https://diariodarepublica.pt/dr/detalhe/portaria/427-1987-421402), de 22 de Maio, para os cintos de segurança dos lugares da frente do veículo.
+
+1 - Os cintos a instalar em veículos ligeiros de passageiros são do tipo de 3 pontos, podendo os da retaguarda ser do tipo subabdominal.
+
+2 - Nos veículos ligeiros de mercadorias com lotação de dois lugares, os cintos a instalar são do tipo de 3 pontos. Quando a lotação for de três lugares, o do meio poderá ser do tipo subabdominal.
+
+3 - Nos veículos ligeiros de mercadorias de cabina dupla e veículos mistos, aos lugares da frente aplica-se o previsto no número anterior; nos lugares da retaguarda nos bancos voltados para a frente, a cada passageiro corresponderá um cinto, podendo este ser do tipo de 3 pontos ou subabdominal.
+
+Secretaria de Estado dos Transportes Interiores.
+
+**Assinada em 14 de Novembro de 1989.**
+
+**O Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.**

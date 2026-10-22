@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:260882:por
+title: Resolução do Conselho de Ministros n.º 30/2013
+short_title: null
+summary: Classifica os aproveitamentos hidroagrícolas do Vale da Vilariça, da Veiga de Chaves, de Macedo de Cavaleiros, da
+  Campina de Idanha-a-Nova, de Odivelas, do Vale do Sado, do Sotavento Algarvio, do Roxo e do Mira como obras do grupo II
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 30/2013
+official_date: null
+publication_date: '2013-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/2013, Série I de 2013-05-09
+  number: '89'
+  series: I
+  supplement: null
+  pages: 2754 - 2756
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/05/08900/0275402756.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/30/2013/05/09/p/dre/pt/html
+  oj: null
+  dre: '260882'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/30-2013-260882
+  internal: pt:dre:260882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2013-260882
+  metadata_url: https://data.dre.pt/eli/resolconsmin/30/2013/05/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2013-260882
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-05-09T00:00:00Z'
+integrity:
+  source_sha256: a8f2143f6c1d449164b2dd80b4492a6162c9fe16951e3438f976e1ae7423cf79
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-30-260882.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Água
+- Alfândega da FÉ
+- Castro Marim
+- Chaves
+- Desenvolvimento Rural
+- Recursos Hídricos
+- Albufeiras
+- Barragem
+- Idanha-a-nova
+- Aproveitamento Hidroagrícola
+- Macedo de Cavaleiros
+- MIRA
+- Odivelas
+- Exploração Agrícola
+- Rio Sado
+- Barragem do ROXO
+- Política Agrícola
+- Agricultura
+- Tavira
+- Torre de Moncorvo
+- VILA FLOR
+- Vila Real de Santo António
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 30/2013
+
+O [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de julho, alterado e republicado pelo [Decreto-Lei n.º 86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de abril, estabelece que as obras de aproveitamento hidroagrícola e as suas subsidiárias são classificadas em quatro grupos em função dos seus impactos, com consequências tanto em termos legais como no que se refere às relações da Administração com os utilizadores e ao modo de gestão, financiamento, iniciativa e responsabilidade de construção.
+
+Enquadram-se neste conjunto de empreendimentos, os seguintes aproveitamentos hidroagrícolas:
+
+i) Aproveitamento Hidroagrícola do Vale da Vilariça
+
+O Aproveitamento Hidroagrícola do Vale da Vilariça, localizado na designada «Terra Quente Transmontana», estende-se por uma região alargada, abrangendo 9 freguesias (Vilarelhos, Vilares da Vilariça, Eucísia, Santa Comba da Vilariça, Assares, Lodões, Sampaio, Nabo e Horta da Vilariça), pertencentes a 3 concelhos (Alfândega da Fé, Torre de Moncorvo e Vila Flor). A natureza e dimensão das infraestruturas do aproveitamento hidroagrícola do Vale de Vilariça são geradoras da complexidade do empreendimento, que tem como fontes de abastecimento de água quatro barragens (Burga, com capacidade total de 1,539 milhões de m3, do Salgueiro, com capacidade total de 1,8 milhões de m3, de Santa Justa, com capacidade total de 3,476 milhões de m3 e do Ribeiro Grande e Arco, com capacidade total de 5,387 milhões de m3) e 83,5 Km de condutas de rega sob pressão, servindo uma área de grande dimensão - 2106 hectares. O referido aproveitamento está incluído numa área agroecológica com condições climatológicas muito favoráveis, de elevada insolação durante grande parte do ano e com solos bem estruturados, permitindo, mediante a disponibilidade de água, a produção de primores hortícolas, excelente azeite, boas produções de pêssego e vinhos de qualidade muito interessante, pelo que o adequado aproveitamento hidroagrícola na região permite beneficiar culturas agrícolas de olival, pomares de pessegueiros e vinha. Este aproveitamento hidroagrícola, pelo número que visa servir de empresas envolvidas na fileira económica de produção agrícola, constitui um contributo de grande importância para a sustentabilidade económica regional e é um fator que contraria a tendência de desertificação das zonas de interior.
+
+ii) Aproveitamento Hidroagrícola da Veiga de Chaves
+
+Este empreendimento baseia-se na utilização do caudal de estiagem do rio Tâmega, cuja derivação para os campos adjacentes é efetuada por meio de um açude galgável com um desenvolvimento de 232 metros, bem como nos recursos hídricos provenientes da albufeira criada com a construção da barragem de Arcossó. Desenvolvido inicialmente pela Junta Autónoma de Obras de Hidráulica Agrícola, beneficia atualmente uma área de elevado potencial agrícola de 1658 hectares na margem esquerda do rio Tâmega, desenvolvendo-se praticamente desde a fronteira com Espanha até 3 km a Sul da Cidade de Chaves. De facto, trata-se de um aproveitamento que sempre apresentou um elevado valor de adesão ao regadio traduzido na relação área rega/área beneficiada, sinal inquestionável da importância da atividade no contexto social da região o que inclusivamente levou à modernização e duplicação da área inicialmente beneficiada.
+
+iii) Aproveitamento Hidroagrícola de Macedo de Cavaleiros
+
+Tem como base os recursos hídricos acumulados na albufeira do Azibo, criada pela construção de uma barragem de aterro junto à aldeia de Vale da Porca.Prevendo beneficiar uma área de cerca de 5300 hectares na transição entre as designadas «Terra Quente» e «Terra Fria» do distrito de Bragança, ocupa parte dos concelhos de Macedo de Cavaleiros e Mirandela. Construído nas décadas de 80 e 90, estão atualmente equipados os 3 blocos correspondentes a primeira fase do empreendimento: Macedo, Salselas e Cortiços, num total de 2940 hectares. Tendo como objetivo criar um núcleo rural evoluído, este empreendimento tem vindo a funcionar como um polo de desenvolvimento regional contribuindo para a coesão social da zona, evitando o abandono de terras agrícolas e o despovoamento de núcleos populacionais da área dominada.
+
+iv) Aproveitamento Hidroagrícola da Campina de Idanha-a-Nova
+
+Construído em duas fases entre os anos de 1935 e 1949 pela então Junta Autónoma de Obras de Hidráulica Agrícola, beneficia terrenos da freguesia de Malpica do Tejo, do concelho de Castelo Branco, e das freguesias do Ladoeiro, Idanha-a-Nova e Zebreira do concelho de Idanha-a-Nova, no distrito de Castelo Branco, totalizando uma área dominada de 8198 hectares, à qual acresce ainda em média 702 hectares regados a título precário.Tem uma relevante importância para a fixação das populações numa região interior naturalmente deprimida e para o reforço da capacidade produtiva regional.
+
+v) Aproveitamento Hidroagrícola de Odivelas
+
+Este empreendimento encontra-se integrado no designado «Plano de Rega do Alentejo» e domina uma vasta área de 12666 hectares dos concelhos Ferreira do Alentejo, Grândola e Alcácer do Sal, cuja infraestruturação teve lugar em duas fases distintas. A primeira, concluída no final da década de 70, no âmbito do Sistema do Baixo Alentejo, beneficiou uma área de 6846 hectares compreendida entre as povoações de Odivelas e Santa Margarida do Sado incluindo algumas zonas aluvionares das margens do rio Sado e da ribeira de Figueira. A segunda fase, também designada por Infraestrutura 12, incidiu sobre uma área de 5820 hectares localizados essencialmente nas freguesias de Ferreira e de Figueira de Cavaleiros.Com uma ocupação cultural onde predomina o olival, o milho e o tomate, com uma adesão ao regadio superior a 70 %, a exploração e conservação deste empreendimento tem sido assegurada desde 1991 pela Associação de Beneficiários da Obra de Rega de Odivelas (ABORO). Durante este período o aproveitamento tem vindo a afirmar-se com uma dinâmica capaz de contrariar o processo de abandono progressivo que se tem vindo a verificar na última década em zonas do interior.
+
+vi) Aproveitamento Hidroagrícola do Vale do Sado
+
+Construído entre 1935 e 1949, faz recurso ao potencial hídrico criado pela construção das barragens de Pego do Altar e Vale de Gaio, beneficiando uma área de 6171 hectares de terrenos marginais do curso inferior do rio Sado e das ribeiras de Santa Catarina e Xarrama, do concelho de Alcácer do Sal, nos quais predominam os solos hidromórficos e para aluviossolos de textura pesada. A exploração e conservação deste aproveitamento, dedicado quase exclusivamente à cultura do arroz e com uma adesão próxima dos 100 %, tem sido garantida desde 1953 pela Associação de Regantes e Beneficiários do Vale do Sado que tem assegurado a funcionalidade da obra e criado as condições necessárias para o sucesso do empreendimento. De referir ainda que a construção deste empreendimento possibilitou não só, dar satisfação aos anseios da população rural desta região manifestados ao longo de várias décadas, como também permitiu o significativo enriquecimento dos recursos hidrológicos disponíveis, regularizações interanuais nos armazenamentos, bem como o disciplinar do próprio regime dos cursos de água.
+
+vii) Aproveitamento Hidroagrícola do Sotavento Algarvio
+
+Está integrado num sistema hidráulico global (Odeleite-Beliche), de fins múltiplos, para a rega e abastecimento público.Incluído numa zona agroecológica com excelentes condições climáticas e disponibilidade de solos com aptidão para o regadio, propícios para horticultura, fruticultura e floricultura que, pela sua precocidade, apresenta vantagens competitivas mesmo num mercado alargado. O aproveitamento beneficia uma área total na ordem dos 8600 hectares que se estende pela orla costeira e pelos termos do barrocal, nos quais a rega tem permitido o estabelecimento de pomares e estufas, desde a povoação de Altura, mais a leste, até à zona da Fuzeta repartindo-se pelos concelhos de Vila Real de Santo António, Castro Marim e Tavira. Concluído no ano de 2000, o Aproveitamento Hidroagrícola do Sotavento Algarvio permitiu a dinamização e o apoio do desenvolvimento rural, tendo contribuído inequivocamente para a melhoria do nível de vida da população envolvida neste processo. Aproveitamento Hidroagrícola do Roxo.
+
+Foi construído entre 1963 e 1968 e estava integrado no sistema do Baixo Alentejo do «Plano de Rega do Alentejo», sendo beneficiado pela barragem do Roxo, com a capacidade útil de 89,5 hm3. Este aproveitamento abrange a área de 5041 hectares, desenvolvida nos designados campos do Roxo, a norte de Aljustrel, está repartida pelas freguesias de S. João de Negrilhos e de Aljustrel, pertencentes ao concelho de Aljustrel (num total de 4065 hectares) e pela freguesia e concelho de Ferreira do Alentejo (645 hectares), ambos do distrito de Beja, bem como pela freguesia de Alvalade (331 hectares) pertencente ao concelho de Santiago do Cacém, distrito de Setúbal. Este empreendimento encontra-se a ser alvo de intervenção para tornar a distribuição mais fiável e a utilização da água mais eficiente, pelo que se procedeu à modernização do Bloco 1 - Montes Velhos (com a área de 1729 hectares), através da pressurização da rede e da distribuição da água e estado ainda prevista a modernização dos blocos de Aljustrel e de Rio de Moinhos, que serão reconvertidos igualmente para a rega sob pressão. Daí que a construção deste aproveitamento, que se encontra incluído numa área agroecológica com condições favoráveis, numa zona com a propriedade bem dimensionada, em que a disponibilização de água através da rega proporciona a instalação de diversas culturas de regadio com boas produções, tenha trazido bastantes vantagens aos agricultores da região.
+
+Em consequência a melhoria das condições introduzidas na agricultura através do regadio e da adoção dos métodos de rega sob pressão, mais eficientes na aplicação de água, conduziu ao desenvolvimento rural da zona, tendo proporcionado, em última instância, o aumento do nível de vida e de bem-estar da população da região.
+
+viii) Aproveitamento Hidroagrícola do Mira
+
+Estava incluído no "Plano de Rega do Alentejo", sendo beneficiado pela barragem de Santa Clara, tendo a sua construção decorrido entre 1963 e 1973. Abrangia inicialmente a área de 12000 hectares, repartida pelos concelhos de Odemira (10 670 hectares) e de Aljezur (1330 hectares), desenvolvendo-se na designada charneca de Odemira numa faixa de terrenos planos situada no Sudoeste Alentejano e Costa Vicentina. Posteriormente, com a construção da barragem de Corte Brique em 1990 , aquela área foi ampliada em 75 hectares, enquanto a execução do Bloco 11 permitiu beneficiar uma área adicional de 102 hectares, o que perfaz a área total de 12177 hectares. O aproveitamento está incluído numa área agroecológica com condições climatológicas muito favoráveis, onde praticamente não ocorrem geadas, e com disponibilidade de solos de textura predominantemente ligeira revelando boa aptidão para o regadio, sendo muito propícios para a horticultura e floricultura, o que tem conduzido a uma grande proliferação de estufas e proporcionando com a sua precocidade bastantes vantagens competitivas. A melhoria das condições verificadas na agricultura através do regadio e da evolução dos métodos de rega sob pressão conduziu ao desenvolvimento rural o que, em última instância, proporcionou o aumento do nível de vida e de bem-estar da população local.
+
+O elevado interesse destes empreendimentos para o desenvolvimento agrícola das respetivas regiões impõe a sua classificação como obras de aproveitamento hidroagrícola de grupo II, conforme estabelecido no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de julho, alterado e republicado pelo [Decreto-Lei n.º 86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de abril.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+Classificar como obra de interesse regional do Grupo II, nos termos dos artigos 6.º e 7.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557) de 10 de julho, alterado e republicado pelo [Decreto-Lei n.º 86/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), de 6 de abril, os seguintes aproveitamentos hidroagrícolas:
+
+a) Aproveitamento Hidroagrícola do Vale da Vilariça;
+
+b) Aproveitamento Hidroagrícola da Veiga de Chaves;
+
+c) Aproveitamento Hidroagrícola de Macedo de Cavaleiros;
+
+d) Aproveitamento Hidroagrícola da Campina de Idanha-a-Nova;
+
+e) Aproveitamento Hidroagrícola de Odivelas;
+
+f) Aproveitamento Hidroagrícola do Vale do Sado;
+
+g) Aproveitamento Hidroagrícola do Sotavento Algarvio;
+
+h) Aproveitamento Hidroagrícola do Roxo;
+
+i) Aproveitamento Hidroagrícola do Mira.
+
+Presidência do Conselho de Ministros, 2 de maio de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.

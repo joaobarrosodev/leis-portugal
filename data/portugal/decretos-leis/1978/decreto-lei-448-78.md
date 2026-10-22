@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:274050:por
+title: Decreto-Lei n.º 448/78
+short_title: null
+summary: Estabelece a estrutura orgânica do IV Governo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 448/78
+official_date: null
+publication_date: '1978-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1978, 5º Suplemento, Série I de 1978-12-30
+  number: '299'
+  series: I
+  supplement: 5º Suplemento
+  pages: 2798-(70) a 2798-(71)
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29905/00700071.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '274050'
+  dre_path: /dr/detalhe/decreto-lei/448-1978-274050
+  internal: pt:dre:274050:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1978-274050
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1978-274050
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: c5ac6c6bd56e96a069b9088a286e6d749dde49f54a9403f9f76c9423d310dba5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-448-274050.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 448/78
+
+de 30 de Dezembro
+
+Torna-se necessário definir a orgânica do Governo, já que alterações houve em relação à composição dos anteriores Governos Constitucionais, sendo de salientar a introdução do cargo de Vice-Primeiro-Ministro.
+
+Assim, e sendo da exclusiva competência do Governo a matéria respeitante à sua organização e funcionamento, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O Governo é constituído pelo Primeiro-Ministro, por um Vice-Primeiro-Ministro, pelos Ministros e pelos Secretários e Subsecretários de Estado.
+
+2 - O Governo compreende os seguintes Ministros:
+
+a) Da Defesa Nacional;
+
+b) Adjunto do Primeiro-Ministro;
+
+c) Das Finanças e do Plano;
+
+d) Da Administração Interna;
+
+e) Da Justiça;
+
+f) Dos Negócios Estrangeiros;
+
+g) Da Agricultura e Pescas;
+
+h) Da Indústria e Tecnologia;
+
+i) Do Comércio e Turismo;
+
+j) Do Trabalho;
+
+l) Da Educação e Investigação Científica;
+
+m) Dos Assuntos Sociais;
+
+n) Dos Transportes e Comunicações;
+
+o) Da Habitação e Obras Públicas;
+
+p) Da Comunicação Social.
+
+###### Art. 2.º - 1 - O Ministro da República para os Açores e o Ministro da República para a Madeira terão assento em Conselho de Ministros sempre que as reuniões tratem de assuntos de interesse para as respectivas regiões.
+
+2 - Participam ainda nas reuniões do Conselho de Ministros, sem direito a voto, os Secretários de Estado da Presidência do Conselho de Ministros e da Administração Pública.
+
+###### Art. 3.º - 1 - Compete ao Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia coadjuvar o Primeiro-Ministro na coordenação e orientação dos Ministérios económicos, bem como no âmbito dos assuntos relacionados com a integração europeia.
+
+2 - O Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia é coadjuvado por um Secretário de Estado Adjunto para os Assuntos Económicos e Integração Europeia.
+
+###### Art. 4.º Compete ao Ministro Adjunto do Primeiro-Ministro coadjuvar este no âmbito das relações do Governo com a Assembleia da República, desempenhando ainda funções de natureza específica que pelo Primeiro-Ministro lhe sejam cometidas.
+
+###### Art. 5.º - 1 - A Presidência do Conselho de Ministros é ainda integrada pelo Secretário de Estado da Presidência do Conselho de Ministros e pelas Secretarias de Estado da Administração Pública e da Cultura, na dependência directa do Primeiro-Ministro.
+
+2 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros coadjuvar o Primeiro-Ministro na organização e funcionamento das reuniões do Conselho de Ministros, desempenhando ainda funções de natureza específica que pelo Primeiro-Ministro lhe sejam cometidas.
+
+###### Art. 6.º - 1 - O Ministério das Finanças e do Plano compreende as seguintes Secretarias de Estado:
+
+a) Orçamento;
+
+b) Tesouro;
+
+c) Finanças;
+
+d) Planeamento.
+
+2 - O Secretário de Estado do Orçamento é coadjuvado, no exercício das suas funções, por um Subsecretário de Estado do Orçamento.
+
+###### Art. 7.º O Ministério da Administração Interna compreende a Secretaria de Estado da Administração Regional e Local.
+
+###### Art. 8.º O Ministério dos Negócios Estrangeiros compreende a Secretaria de Estado dos Negócios Estrangeiros e da Emigração.
+
+###### Art. 9.º - 1 - O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
+
+a) Estruturação Agrária;
+
+b) Fomento Agrário;
+
+c) Comércio e Indústrias Agrícolas;
+
+d) Pescas.
+
+2 - O Ministro da Agricultura e Pescas é coadjuvado, no exercício das suas funções, por um Subsecretário de Estado Adjunto do Ministro.
+
+###### Art. 10.º O Ministério da Indústria e Tecnologia compreende as seguintes Secretarias de Estado:
+
+a) Energia e Indústrias de Base;
+
+b) Indústrias Extractivas e Transformadoras.
+
+###### Art. 11.º O Ministério do Comércio e Turismo compreende as seguintes Secretarias de Estado:
+
+a) Comércio Interno;
+
+b) Comércio Externo;
+
+c) Turismo.
+
+###### Art. 12.º O Ministério do Trabalho compreende as seguintes Secretarias de Estado:
+
+a) Trabalho;
+
+b) População e Emprego.
+
+###### Art. 13.º - 1 - O Ministério da Educação e Investigação Científica compreende as seguintes Secretarias de Estado:
+
+a) Ensino Superior e Investigação Científica;
+
+b) Ensino Básico e Secundário;
+
+c) Juventude e Desportos.
+
+2 - O Ministro da Educação e Investigação Científica é coadjuvado, no exercício das suas funções, por um Subsecretário de Estado Adjunto do Ministro.
+
+3 - O Secretário de Estado dos Ensinos Básico e Secundário é coadjuvado, no exercício das suas funções, pelo Subsecretário de Estado para a Administração Escolar.
+
+###### Art. 14.º O Ministério dos Assuntos Sociais compreende as seguintes Secretarias de Estado:
+
+a) Saúde;
+
+b) Segurança Social.
+
+###### Art. 15.º O Ministério dos Transportes e Comunicações compreende as seguintes Secretarias de Estado:
+
+a) Transportes e Comunicações;
+
+b) Marinha Mercante.
+
+###### Art. 16.º O Ministério da Habitação e Obras Públicas compreende as seguintes Secretarias de Estado:
+
+a) Habitação;
+
+b) Obras Públicas;
+
+c) Ordenamento Físico, Recursos Hídricos e Ambiente.
+
+###### Art. 17.º - 1 - É extinto o Ministério da Educação e Cultura.
+
+2 - Os organismos e serviços do Ministério da Educação e Cultura, salvo os compreendidos na Secretaria de Estado da Cultura, ficam integrados no Ministério da Educação e Investigação Científica.
+
+3 - Os organismos e serviços da antiga Secretaria de Estado da Cultura ficam na dependência directa do Primeiro-Ministro, integrados na Secretaria de Estado da Cultura.
+
+###### Art. 18.º - 1 - São extintas as seguintes Secretarias de Estado:
+
+a) Fomento Agrário e das Florestas;
+
+b) Transportes;
+
+c) Comunicação Social.
+
+2 - Os organismos e serviços das Secretarias de Estado referidas no número anterior ficam integrados, respectivamente, e de acordo com a definição da presente estrutura orgânica do Governo, nos seguintes Ministérios:
+
+a) Agricultura e Pescas;
+
+b) Transportes e Comunicações;
+
+c) Comunicação Social.
+
+###### Art. 19.º O pessoal dos departamentos extintos transita, independentemente de qualquer formalidade e sem prejuízo dos direitos adquiridos, para os que, nos termos deste diploma, passam a deter as correspondentes atribuições.
+
+###### Art. 20.º - 1 - Até final do corrente ano mantém-se em vigor a estrutura orgânica do Orçamento Geral do Estado.
+
+2 - As despesas com os gabinetes criados ou reestruturados pelo presente diploma serão satisfeitas por conta das verbas dos correspondentes gabinetes extintos.
+
+3 - Relativamente aos serviços ou organismos que transitam para diferente departamento ou Ministério, continuarão os respectivos encargos a ser processados em conta das verbas que lhes são atribuídas.
+
+###### Art. 21.º - 1 - Os encargos com o funcionamento dos Gabinetes do Vice-Primeiro-Ministro e do Secretário de Estado Adjunto para os Assuntos Económicos e Integração Europeia, bem como as despesas resultantes da criação dos lugares de Subsecretário de Estado Adjunto do Ministro da Agricultura e Pescas e Subsecretário de Estado para a Administração Escolar, serão satisfeitos em conta de dotação residual a inscrever nos respectivos orçamentos.
+
+2 - Serão suportados pelo orçamento de Encargos Gerais da Nação as despesas inerentes ao Gabinete do Ministro da Comunicação Social.
+
+3 - A contrapartida para os reforços necessários por virtude do disposto nos números anteriores poderá ser obtida através da dotação provisional inscrita no actual orçamento do Ministério das Finanças e do Plano.
+
+###### Art. 22.º O presente decreto-lei produz efeitos a partir de 22 de Novembro de 1978.
+
+Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto.
+
+**Promulgado em 30 de Dezembro de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

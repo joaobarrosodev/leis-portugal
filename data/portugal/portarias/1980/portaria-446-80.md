@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:470381:por
+title: Portaria n.º 446/80
+short_title: null
+summary: Actualiza os vencimentos dos trabalhadores das instituições de previdência social
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano, do Trabalho e dos Assuntos Sociais - Secretarias
+  de Estado da Reforma Administrativa, do Orçamento, do Trabalho e da Segurança Social
+proposing_entity: null
+official_number: 446/80
+official_date: null
+publication_date: '1980-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 175/1980, Série I de 1980-07-31
+  number: '175'
+  series: I
+  supplement: null
+  pages: 1931 - 1932
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470381'
+  dre_path: /dr/detalhe/portaria/446-1980-470381
+  internal: pt:dre:470381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/446-1980-470381
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/446-1980-470381
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-07-31T00:00:00Z'
+integrity:
+  source_sha256: 0cce106400581cc052863b40fdf9dc6891ca7072085a4d49dfa9df230e3e4d30
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-446-470381.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 446/80
+
+de 31 de Julho
+
+O [Decreto-Lei n.º 200-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-a-1980-226037), de 24 de Junho, veio alterar a tabela de vencimentos dos funcionários e agentes da Administração Pública.
+
+Atento o disposto no artigo 174.º da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, nos termos do qual as retribuições do pessoal ao serviço das instituições de previdência são revistas quando se verifiquem alterações dos vencimentos dos funcionários públicos, propõe-se o presente diploma rever, em conformidade, as retribuições constantes das tabelas anexas à [Portaria n.º 561/79](https://diariodarepublica.pt/dr/detalhe/portaria/561-1979-364165), de 24 de Outubro, com as alterações introduzidas pela Portaria n.º 38-A/80, de 12 de Fevereiro.
+
+Era intenção do Governo fazer publicar em simultâneo as alterações salariais para os funcionários públicos e para os trabalhadores das instituições de previdência social. Não se ter atingido esse objectivo ficou a dever-se não só à complexa e morosa elaboração de cálculos a que houve de proceder - resultante do desdobramento de cada grupo de remunerações em doze variantes distribuídas por duas tabelas salariais - como também ao facto de a recente alteração das taxas do imposto profissional ter impedido estudos conclusivos antes da publicação do [Decreto-Lei n.º 183-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-d-1980-324949), de 9 de Junho.
+
+Reconhece-se, também, que o presente diploma ainda não satisfez integralmente o princípio da real equiparação das remunerações líquidas dos trabalhadores da previdência e dos da função pública, propósito desde há muito consagrado na regulamentação do trabalho aplicável àquele sector.
+
+Porque importa dar plena realização a esse objectivo, embora sem retardar mais a actualização das retribuições, prevê-se que o mesmo seja alcançado mediante a revisão da presente portaria, a qual será efectuada dentro de um prazo relativamente curto, que não excederá sessenta dias após a sua publicação.
+
+Nestes termos, e em execução do disposto no artigo 174.º da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Reforma Administrativa, do Orçamento, do Trabalho e da Segurança Social:
+
+1.º São aprovadas as retribuições mensais do pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, nos termos constantes das tabelas que integram o anexo à presente portaria.
+
+2.º A presente portaria será revista no prazo de sessenta dias, a contar da sua publicação.
+
+3.º É revogado, nas Portarias n.os [193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, [576/79](https://diariodarepublica.pt/dr/detalhe/portaria/576-1979-363887), de 2 de Novembro e 38-A/80, de 12 de Fevereiro, tudo o que contrarie o disposto no presente diploma.
+
+4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Secretarias de Estado da Reforma Administrativa, do Orçamento, do Trabalho e da Segurança Social, 17 de Julho de 1980. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Trabalho, José Queirós Lopes Raimundo. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
+
+## ANEXO — TABELA A
+
+Retribuições mensais do pessoal dirigente
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf)
+
+TABELA B
+
+Retribuições mensais do restante pessoal
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf)

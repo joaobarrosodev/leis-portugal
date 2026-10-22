@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:517787:por
+title: Decreto-Lei n.º 134/95
+short_title: null
+summary: Reformula o sistema de facilitação do transporte aéreo e de segurança da aviação civil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 134/95
+official_date: null
+publication_date: '1995-06-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/1995, Série I-A de 1995-06-09
+  number: '134'
+  series: I
+  supplement: null
+  pages: 3762 - 3764
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/06/134a00/37623764.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/134/1995/06/09/p/dre/pt/html
+  oj: null
+  dre: '517787'
+  dre_path: /dr/detalhe/decreto-lei/134-1995-517787
+  internal: pt:dre:517787:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1995-517787
+  metadata_url: https://data.dre.pt/eli/dec-lei/134/1995/06/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1995-517787
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-10-28T00:00:00Z'
+integrity:
+  source_sha256: a70fd8d35f77002802a9b623da12b0e681a69ba79618c6d64b11b14fc9414e37
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-134-517787.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- Comissão Nacional Fal-sec
+- Transporte Aéreo
+- Criação de Serviços
+- ANA
+- Aviação Civil
+- Segurança Aérea
+relationships:
+- type: amended_by
+  target: pt:dre:239805:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 134/95
+
+de 9 de Junho
+
+Com a publicação do [Decreto-Lei n.º 121/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1994-264276), de 14 de Maio, foram cometidas à ANA - Aeroportos e Navegação Aérea, E. P., as competências residuais que a Direcção-Geral da Aviação Civil ainda detinha em matéria de aeroportos e aeródromos.
+
+Importa, assim, adaptar a legislação relativa à facilitação do transporte aéreo e segurança da aviação civil ao novo quadro resultante das competências cometidas à ANA, E. P., actualizando e reformulando nalguns pontos, à luz de experiência colhida, o regime constante do [Decreto-Lei n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1983-308169), de 17 de Janeiro, que com o presente diploma se revoga.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Sistema de facilitação e de segurança
+
+1 - É da responsabilidade do presidente do conselho de gerência da ANA - Aeroportos e Navegação Aérea, E. P., o estabelecimento dos sistemas para a facilitação do transporte aéreo e de segurança da aviação civil e a execução nos aeroportos e aeródromos e respectivos programas nacionais, competindo-lhe, em especial, aprovar as normas, recomendações e procedimentos propostos pela Comissão referida no artigo 2.º e velar pelo seu cumprimento.
+
+2 - O presidente designará para o coadjuvar no desempenho das suas funções um trabalhador da ANA, E. P., com funções de inspecção de facilitação e de segurança, cabendo-lhe promover, orientar e fiscalizar o cumprimento das normas, recomendações e procedimentos aprovados e os métodos da sua aplicação.
+
+###### Artigo 2.º — Comissão Nacional de Facilitação e de Segurança
+
+1 - É criada, no âmbito da ANA, E. P., a Comissão Nacional de Facilitação do Transporte Aéreo e de Segurança da Aviação Civil (Comissão Nacional FAL/SEC), com funções de coordenação das várias entidades e serviços que intervêm na definição e aplicação das normas, recomendações e procedimentos de facilitação e segurança.
+
+2 - A Comissão referida no número anterior funciona também como órgão consultivo do presidente do conselho de gerência da ANA, E. P., nos domínios da racionalização e eficiência da exploração aeroportuária (facilitação) e da prevenção de actos ilícitos contra a aviação civil (segurança).
+
+###### Artigo 3.º — Constituição
+
+1 - A Comissão Nacional FAL/SEC é constituída por:
+
+a) Dois representantes da ANA, E. P., sendo um vogal do conselho de gerência da ANA, E. P., que presidirá, e um quadro superior da ANA, E. P., que exercerá funções de secretário;
+
+b) Um representante da Direcção-Geral da Aviação Civil;
+
+c) Um representante da Força Aérea Portuguesa;
+
+d) Um representante da Polícia de Segurança Pública;
+
+e) Um representante da Polícia Judiciária;
+
+f) Um representante do Serviço de Estrangeiros e Fronteiras;
+
+g) Um representante da Brigada Fiscal da Guarda Nacional Republicana;
+
+h) Um representante da Direcção-Geral das Alfândegas;
+
+i) Um representante do Protocolo do Estado;
+
+j) Um representante do Instituto Nacional de Emergência Médica.
+
+2 - O presidente da Comissão Nacional FAL/SEC convocará, sempre que o entender necessário, para participar nas reuniões da Comissão entidades públicas ou privadas nela não representadas.
+
+###### Artigo 4.º — Competência
+
+Compete à Comissão Nacional FAL/SEC:
+
+a) Estudar e propor o estabelecimento dos sistemas nacionais que visem a facilitação do transporte aéreo e a segurança da aviação civil nos aeroportos e aeródromos e os respectivos programas nacionais;
+
+b) Elaborar e propor normas, recomendações e procedimentos de facilitação e de segurança a aplicar nos aeroportos, aeródromos e serviços de apoio à navegação aérea, tendo em conta o disposto em convenções e acordos de que Portugal é signatário, bem como as disposições recomendadas pelos organismos internacionais da aviação civil;
+
+c) Propor as alterações às disposições legais em vigor julgadas convenientes para a prossecução dos objectivos da facilitação e da segurança;
+
+d) Assegurar o intercâmbio com entidades congéneres de outros Estados, por forma a obter-se o aperfeiçoamento e uniformização das técnicas e procedimentos de facilitação e de segurança;
+
+e) Promover a troca de informações, pareceres, comunicações e relatórios com os organismos internacionais da aviação civil;
+
+f) Participar na preparação de reuniões nacionais ou internacionais sobre facilitação e segurança;
+
+g) Apreciar as propostas e sugestões que lhe sejam apresentadas pelas comissões referidas no artigo 6.º e analisar os seus relatórios e informações;
+
+h) Estudar e propor os critérios gerais de facilitação e segurança a aplicar na construção, instalação ou remodelação das infra-estruturas e equipamentos aeroportuários e dar parecer sobre os projectos que sejam submetidos à sua apreciação;
+
+i) Dar parecer sobre qualquer assunto cuja apreciação lhe seja submetida, no âmbito das suas atribuições.
+
+###### Artigo 5.º — Comissões aeroportuárias
+
+1 - A coordenação entre as várias entidades locais intervenientes nos domínios da facilitação e segurança é assegurada em cada infra-estrutura aeroportuária com tráfego superior a 1 milhão de passageiros/ano por uma comissão aeroportuária de facilitação e segurança, adiante abreviadamente designada por comissão aeroportuária FAL/SEC.
+
+2 - A comissão referida no número anterior é o órgão que define e orienta, no respectivo aeroporto, as condições de aplicação das normas, recomendações e procedimentos estabelecidos.
+
+3 - Nas infra-estruturas aeroportuárias com tráfego inferior a 1 milhão de passageiros/ano as funções da comissão aeroportuária são desempenhadas pelo respectivo director, que ouvirá, quando o considerar conveniente, os representantes das entidades referidas no artigo seguinte.
+
+###### Artigo 6.º — Constituição
+
+1 - As comissões aeroportuárias FAL/SEC são constituídas por:
+
+a) O director do aeroporto, que preside;
+
+b) O comandante da Polícia de Segurança Pública da área aeroportuária;
+
+c) O responsável pela alfândega ou pela delegação aduaneira do aeroporto;
+
+d) O comandante da subunidade da Brigada Fiscal da Guarda Nacional Republicana;
+
+e) Um representante do Serviço de Estrangeiros e Fronteiras.
+
+2 - O director do aeroporto designará ainda um trabalhador com funções de secretário.
+
+###### Artigo 7.º — Competência
+
+1 - Compete às comissões aeroportuárias FAL/SEC:
+
+a) Definir, tendo em conta as características locais, as condições de aplicação no respectivo aeroporto das normas, recomendações e procedimentos de facilitação e de segurança estabelecidos;
+
+b) Colaborar na elaboração do plano de segurança aeroportuária, por forma a garantir a participação coordenada dos vários serviços e entidades intervenientes na execução;
+
+c) Apresentar à Comissão Nacional FAL/SEC propostas de alteração das disposições em vigor;
+
+d) Dar parecer, no âmbito da facilitação e da segurança, sobre os projectos de construção, instalação ou remodelação das infra-estruturas e equipamentos aeroportuários, submetendo-os à apreciação da Comissão Nacional FAL/SEC, quando não existir consenso entre as partes interessadas ou quando o julgar conveniente;
+
+e) Pronunciar-se sobre qualquer assunto que lhe seja submetido, no âmbito das suas atribuições.
+
+2 - Os presidentes das comissões aeroportuárias asseguram o cumprimento das normas, recomendações e procedimentos em vigor no âmbito da facilitação e da segurança da aviação civil.
+
+###### Artigo 8.º — Planos de segurança aeroportuários
+
+1 - Os planos de segurança aeroportuários a estabelecer em cada aeroporto constituirão o instrumento de aplicação das normas, recomendações e procedimentos de segurança estabelecidos e esquematizarão em planos de contingência as diversas situações de segurança.
+
+2 - A elaboração dos planos referidos no número anterior é da responsabilidade do comando distrital da Polícia de Segurança Pública da área do respectivo aeroporto ou do seu equivalente nas Regiões Autónomas, com a participação da comissão aeroportuária respectiva.
+
+3 - Cabe ao comando distrital da Polícia de Segurança Pública da área do respectivo aeroporto ou seu equivalente nas Regiões Autónomas a elaboração, com a participação das respectivas entidades envolvidas, dos planos operacionais que lhes dizem respeito, bem como a sua execução, na medida dos meios postos à sua disposição para o efeito e, em especial:
+
+a) Determinar e coordenar as missões a desenvolver em cada situação;
+
+b) Estabelecer o comando e a supervisão do conjunto das acções respeitantes às várias situações.
+
+4 - Os planos referidos no n.º 1 são aprovados por despacho conjunto do presidente do conselho de gerência da ANA, E. P., e do comandante geral da Polícia de Segurança Pública.
+
+###### Artigo 9.º — Encargos com a facilitação
+
+São da responsabilidade das administrações dos aeroportos os encargos inerentes à facilitação.
+
+###### Artigo 10.º — Regulamento das comissões
+
+Os regulamentos internos da Comissão Nacional FAL/SEC e das comissões aeroportuárias são objecto de portaria do Ministro das Obras Públicas, Transportes e Comunicações.
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1983-308169), de 17 de Janeiro.
+
+Visto e aprovado em Conselho de Ministros de 30 de Março de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Manuel Dias Loureiro - Eduardo de Almeida Catroga - José Manuel Briosa e Gala - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo.
+
+**Promulgado em 15 de Maio de 1995.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 17 de Maio de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

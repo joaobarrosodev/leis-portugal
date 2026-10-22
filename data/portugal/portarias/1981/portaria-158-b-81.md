@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:258346:por
+title: Portaria n.º 158-B/81
+short_title: null
+summary: Aprova os novos modelos de impressos a adoptar pelas tesourarias da Fazenda Pública
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 158-B/81
+official_date: null
+publication_date: '1981-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/1981, 1º Suplemento, Série I de 1981-01-31
+  number: '26'
+  series: I
+  supplement: 1º Suplemento
+  pages: 332-(6) a 332-(31)
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02601/00060031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '258346'
+  dre_path: /dr/detalhe/portaria/158-b-1981-258346
+  internal: pt:dre:258346:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-b-1981-258346
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-b-1981-258346
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-01-31T00:00:00Z'
+integrity:
+  source_sha256: c169d850ccbcdeaa94524ae13c9d9a8c3febf60a60713c95ca1b1da859de4cfa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-158-B-258346.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 158-B/81
+
+de 31 de Janeiro
+
+1. O [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, instituiu um novo regime de responsabilidade civil e financeira do pessoal das tesourarias da Fazenda Pública, fazendo cessar a responsabilidade quase objectiva dos tesoureiros gerentes, semelhantes à que hoje se verifica entre os comitentes e os comitidos, ao mesmo tempo que se substituiu a relação de confiança funcional e pessoal subjacente ao anterior regime de provimento e recrutamento do pessoal subalterno dos serviços locais do Tesouro, por métodos e técnicas de selecção objectivos, em consonância com o princípio da universalidade e igualdade de acesso a funções públicas, consagrado no artigo 48.º, n.º 4, da Constituição da República Portuguesa.
+
+2. Atentou-se, porém, na indispensável e necessária salvaguarda dos interesses do Estado, pelo que se manteve o tesoureiro gerente como responsável pela globalidade dos fundos e valores que lhe são confiados, respondendo, perante ele, os restantes funcionários em serviço na respectiva tesouraria da Fazenda Pública, pelos fundos movimentados em cada caixa em termos tais que não envolvam a responsabilidade do tesoureiro gerente a não ser que este haja procedido com culpa grave no exercício das suas funções de gestão, contrôle, fiscalização e apuramento de valores.
+
+3. A institucionalização do novo regime de responsabilidade civil e financeira do pessoal das tesourarias da Fazenda Pública, nos termos previstos no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, exige porém a adopção de novos procedimentos administrativos e contabilísticos, cuja normalização, através de novos modelos de impressos e livros de escrita, permitirá mais facilmente a sua execução.
+
+É assim que o artigo 97.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, confere ao Ministro das Finanças e do Plano competência para, através de portaria, aprovar os modelos dos impressos e livros de escrita necessários à execução do disposto naquele diploma.
+
+Convém, porém, distinguir, aqui, a criação de novos modelos de impressos e livros de escrita expressamente previstos no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, que cai no âmbito da presente portaria, da adaptação dos modelos de impressos e livros de escrita actualmente existentes, ao novo regime de responsabilidade civil e financeira do pessoal das tesourarias da Fazenda Pública, previsto naquele diploma, que se pode efectuar, com maior economia de meios, de acordo com o disposto no [Decreto-Lei n.º 26675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26675-1936-361932), de 11 de Junho de 1936.
+
+4. Por último, afigura-se da maior conveniência para o bom andamento dos serviços a cargo das tesourarias da Fazenda Pública, que, nesta fase de transição, a Direcção-Geral do Tesouro providencie a publicação, através do Diário da República, 2.ª série, de circunstanciadas e desenvolvidas instruções tendentes a assegurar a boa execução do disposto na presente portaria e à reformulação e uniformização dos processos administrativos e contabilísticos actualmente em vigor nos serviços locais do Tesouro.
+
+5. Assim:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, nos termos do artigo 97.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, o seguinte:
+
+1.º São aprovados os novos modelos dos impressos necessários à execução e implementação do novo regime de responsabilidade civil e financeira do pessoal das tesourarias da Fazenda Pública, previsto no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, relativos a:
+
+a) Recibo de abono para falhas (artigo 18.º, n.º 6, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 130 (anexo 1);
+
+b) Mapa de distribuição de prémio de cobrança (artigos 19.º a 23.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 131 (anexo 2);
+
+c) Mapa de venda de valores selados (artigo 21.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 132 (anexo 3);
+
+d) Conta corrente entre o cofre e cada caixa (artigo 60.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 133 (anexo 4);
+
+e) Movimentação de fundos (artigo 60.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 134 (anexo 5);
+
+f) Movimentação de valores selados entre o cofre e as caixas de valores selados (artigo 60.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 135 (anexo 6);
+
+g) Auto de notícia nos casos de assalto, incêndio, roubo, furto e outros casos de força maior (artigo 63.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 136 (anexo 7);
+
+h) Talão para contrôle das caixas de receitas desdobradas (artigo 64.º, n.º 3, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 137 (anexo 8);
+
+i) Termo de responsabilidade para quitação, no caso de ausência ilegítima do funcionário investido no serviço de caixa (artigo 65.º, n.º 3): F. P. - Modelo n.º 138 (anexo 9);
+
+j) Termo de responsabilidade no caso de cessação de funções do serviço de caixa, com excepção das caixas de valores selados e impressos [artigo 51.º, n.º III, alínea f)]: F. P. - Modelo n.º 139 (anexo 10);
+
+l) Auto de ocorrência no caso de alcance cujo autor material não seja o tesoureiro gerente [artigo 65.º, n.º 4, alínea b), e n.º 5, artigo 66.º, n.º 3, artigo 67.º, n.º 1, e artigo 75.º, n.º 3]: F. P. - Modelo n.º 140 (anexo 11);
+
+m) Termo de apuramento de contas diárias (artigo 66.º, n.º 2, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 141 (anexo 12);
+
+n) Termo de apuramento de valores no início do mandato de gerência [artigo 66.º, n.º 1, alínea a), e artigo 75.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro]: F. P. - Modelo n.º 142 (anexo 13);
+
+o) Guia para depósito de importâncias sobrantes (artigo 66.º, n.º 5, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 143 (anexo 14);
+
+p) Termo de transição de valores (artigo 72.º, n.º 3, e artigo 74.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 144 (anexo 15);
+
+q) Termo de apuramento de valores quando findar o mandato de gerência (artigo 75.º, n.º 2, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro): F. P. - Modelo n.º 145 (anexo 16);
+
+r) Termo de apuramento de valores selados e impressos em caso de cessação de funções de funcionário investido no serviço da caixa destinada a valores selados e impressos e de investidura de outro funcionário na mesma caixa [artigo 51.º, n.º III, alínea f), do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro]: F. P. - Modelo n.º 146 (anexo 17);
+
+s) Mapa de apuramento diário da venda de valores selados (artigo 68.º, n.º 1, do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro) e da conta corrente de valores selados entre o cofre - conta de armazém - e as diversas caixas de venda ao público - contas de retalho (artigo 60.º, n.º 1): F. P. - Modelo n.º 147 (anexo 18).
+
+2.º Compete à Direcção-Geral do Tesouro, nos termos do [Decreto-Lei n.º 26675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26675-1936-361932), de 11 de Junho de 1936, proceder à adaptação dos modelos dos livros de escrita e dos impressos actualmente existentes, indispensáveis para execução dos serviços a cargo das tesourarias da Fazenda Pública, em virtude da entrada em vigor do novo regime de responsabilidade civil e financeira do pessoal dos serviços locais do Tesouro, nos termos previstos no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro.
+
+3.º Fica a Direcção-Geral do Tesouro autorizada a aprovar e fazer publicar na 2.ª série do Diário da República as instruções necessárias à boa execução do disposto na presente portaria e à reformulação e uniformização dos processos administrativos e contabilísticos actualmente em vigor nas tesourarias da Fazenda Pública.
+
+Ministério das Finanças e do Plano, 10 de Novembro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02601/00060031.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02601/00060031.pdf)

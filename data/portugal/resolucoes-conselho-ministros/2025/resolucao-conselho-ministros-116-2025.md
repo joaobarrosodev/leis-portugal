@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: pt:dre:927679775:por
+title: Resolução do Conselho de Ministros n.º 116/2025
+short_title: null
+summary: Autoriza a realização de despesa relativa à aquisição de uma aeronave KC-390, ao abrigo do direito de opção nos termos
+  do contrato celebrado com o consórcio constituído pela Embraer, SA, e Embraer Portugal, SA.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 116/2025
+official_date: null
+publication_date: '2025-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2025, Série I de 2025-08-04
+  number: '148'
+  series: I
+  supplement: null
+  pages: 11 - 12
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/08/14800/0001100012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/116/2025/08/04/p/dre/pt/html
+  oj: null
+  dre: '927679775'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/116-2025-927679775
+  internal: pt:dre:927679775:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/116-2025-927679775
+  metadata_url: https://data.dre.pt/eli/resolconsmin/116/2025/08/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/116-2025-927679775
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-08-04T00:00:00Z'
+integrity:
+  source_sha256: 7297b5289b6d55e3ca4e6018f21a68a316bcef43b581b32654b1da34ecb9869d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-116-927679775.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Delegação de Competências
+- Primeiro-ministro
+- Ministro da Defesa Nacional
+- Governo XXV
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/1/2023/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2023/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolassrep/68/2009/08/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/68/2009/08/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/109/2017/07/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/109/2017/07/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/120/2019/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/120/2019/07/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/95/2020/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/95/2020/11/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 116/2025
+
+No âmbito do Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro, em 22 de abril de 2000, foi celebrado, em 13 de outubro de 2005, o Acordo sobre Cooperação no Domínio da Defesa, aprovado por [Resolução da Assembleia da República n.º 68/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/68-2009-493979), de 5 de agosto, que alarga e aprofunda a cooperação entre os dois países em vários domínios da defesa e segurança, incluindo as tecnologias e indústrias de defesa.
+
+Neste quadro, o Conselho de Ministros, através da [Resolução do Conselho de Ministros n.º 109/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2017-107761908), de 27 de julho, deliberou, «na sequência da participação portuguesa no programa concertado de desenvolvimento e produção da aeronave militar de transporte estratégico KC-390», «autorizar o início das negociações designadamente com a Embraer, SA, tendo em vista a aquisição pelo Estado Português até cinco aeronaves KC-390, com opção de mais uma, a respetiva sustentação logística e um simulador de voo (fullflight simulator CAT D), para instalação e operação em território nacional», trabalho que ficou concluído em 26 de junho de 2019, conforme consta do relatório apresentado pela equipa interministerial constituída para o efeito.
+
+Através da [Resolução do Conselho de Ministros n.º 120/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2019-123545115), de 29 de julho, alterada pela [Resolução do Conselho de Ministros n.º 95/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-2020-147814580), de 6 de novembro, foi autorizada a realização da despesa com a aquisição de cinco aeronaves KC-390 e de um simulador de voo ao consórcio constituído pela Embraer, SA, e Embraer Portugal, SA, tendo sido o contrato celebrado a 22 de agosto de 2019.
+
+De acordo com o previsto na cláusula 4.ª do contrato outorgado, o Estado Português tem o direito de optar pela aquisição de uma aeronave KC-390 adicional, mantendo os requisitos técnicos e operacionais e especificações técnicas previstos para as restantes aeronaves, com o preço fixado no anexo xiii do mesmo contrato, o qual poderia ser exercido até à receção provisória da segunda aeronave, prazo que a Embraer, em resposta a solicitação da Missão de Acompanhamento e Fiscalização (MAF) do programa, aceitou diferir até à receção provisória da terceira aeronave, que se prevê ocorrer em julho de 2025.
+
+É já indiscutível que a participação de Portugal no programa de desenvolvimento e produção da aeronave militar de transporte estratégico KC-390, constituiu, efetivamente, um fator determinante na mobilização das dinâmicas e dos recursos empresariais do setor aeronáutico, bem como na aquisição de competências tecnológicas e industriais nacionais na área da produção de equipamentos aeronáuticos militares de elevado grau de sofisticação, consolidando as bases para o crescimento e internacionalização sustentados da economia nacional.
+
+Fruto do interesse crescente pela aeronave e do novo quadro geoestratégico internacional, de autonomia face ao mercado norte-americano, com o desenvolvimento da bússola estratégica da União Europeia, o Estado Português, através da Força Aérea, está em condições de confirmar ser o parceiro estratégico da Embraer para a contínua expansão da frota e o desenvolvimento de subsequentes capacidades, incluindo a consolidação da Base Aérea n.º 11 como um centro de treino de excelência KC-390.
+
+Neste momento em que a procura desta plataforma pelos Estados-Membros da Organização do Tratado do Atlântico Norte é crescente, revela-se de todo o interesse para Estado Português aprofundar a cooperação com a Embraer, assim potenciando um reforço significativo do envolvimento da indústria nacional no Programa KC-390, mediante a previsão contratual da possibilidade de exercer a opção de aquisição de aeronaves adicionais.
+
+Neste contexto, a presente resolução autoriza a realização da despesa com a aquisição de uma aeronave KC-390, a que acresce às cinco aeronaves KC-390 adquiridas ao abrigo da [Resolução do Conselho de Ministros n.º 120/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2019-123545115), de 29 de julho, na sua redação atual.
+
+Assim:
+
+Na sequência da participação portuguesa no programa de desenvolvimento e produção da aeronave militar de transporte estratégico Embraer KC-390, e nos termos do n.º 1 do artigo 2.º, do n.º 2 do artigo 8.º e do n.º 2 do artigo 10.º da [Lei Orgânica n.º 1/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2023-219991254), de 17 de agosto, da alínea c) do n.º 3 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, dos artigos 44.º a 47.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar os Serviços Centrais do Ministério da Defesa Nacional a realizar a despesa e a assumir os respetivos encargos plurianuais relativos à aquisição de uma aeronave KC-390, para os anos de 2025 a 2029, no montante máximo global de € 133 320 316,00, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com previsão de entrega no ano de 2029.
+
+2 - Determinar que a aquisição prevista no número anterior é efetuada ao abrigo do direito de opção nos termos da cláusula 4.ª do contrato celebrado entre Estado Português e o consórcio constituído pela Embraer, SA, e Embraer Portugal, SA, em 22 de agosto de 2019, e acresce às cinco aeronaves já adquiridas ao abrigo da [Resolução do Conselho de Ministros n.º 120/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2019-123545115), de 29 de julho, na sua redação atual.
+
+3 - Determinar que os encargos orçamentais resultantes da despesa referida no n.º 1 não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA, à taxa legal em vigor:
+
+a) 2025 - € 26 207 598,00;
+
+b) 2026 - € 11 881 609,00;
+
+c) 2027 - € 22 660 970,00;
+
+d) 2028 - € 62 453 647,00;
+
+e) 2029 - € 10 116 492,00.
+
+4 - Determinar que os montantes fixados para cada ano económico são acrescidos do saldo apurado no ano que o antecede.
+
+5 - Estabelecer que os encargos orçamentais decorrentes da presente resolução são satisfeitos por verbas adequadas a inscrever no orçamento dos Serviços Centrais do Ministério da Defesa Nacional, em reforço da Lei de Programação Militar, na Capacidade «Capacidades conjuntas», por reforço orçamental suportado por contrapartida do capítulo 60 - «Despesas excecionais», gerido pela Entidade do Tesouro e Finanças.
+
+6 - Autorizar que se proceda à alteração do contrato referido no n.º 2, no sentido de estabelecer o exercício efetivo da opção de aquisição da sexta aeronave KC-390, bem como de consagrar o direito de opção para aquisição de até 10 aeronaves adicionais.
+
+7 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da defesa nacional, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+8 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 24 de julho de 2025. - O Primeiro-Ministro, Luís Montenegro.

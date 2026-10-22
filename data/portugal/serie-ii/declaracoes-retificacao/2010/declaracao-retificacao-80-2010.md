@@ -1,0 +1,87 @@
+---
+schema_version: '1.0'
+id: pt:dre:2149894:por
+title: Declaração de Rectificação n.º 80/2010
+short_title: null
+summary: Rectificação ao aviso n.º 23 171/2007
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de São Brás de Alportel
+proposing_entity: null
+official_number: 80/2010
+official_date: null
+publication_date: '2010-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 10/2010, Série II de 2010-01-15
+  number: '10'
+  series: II
+  supplement: null
+  pages: 2257 - 2257
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/01/010000000/0225702257.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2149894'
+  dre_path: /dr/detalhe/declaracao-rectificacao/80-2010-2149894
+  internal: pt:dre:2149894:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/80-2010-2149894
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/80-2010-2149894
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-01-15T00:00:00Z'
+integrity:
+  source_sha256: 37b93ca56a21151b590d14dc6e27da9532c6d05112724ff4a2b7d2bc807aa40b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-80-2149894.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 80/2010
+
+Para os devidos efeitos se torna público que o aviso n.º 23 171/2007, publicado no Diário da República, 2.ª série, n.º 227, de 26 de Novembro de 2007, passa a ter a seguinte redacção. Assim, onde se lê «Estatuto Disciplinar dos Funcionários e Agentes da Administração Pública - [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro; Regime de Faltas, Férias e Licenças - [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1999-138777), de 31 de Março, com as alterações introduzidas pela [Lei n.º 117/99](https://diariodarepublica.pt/dr/detalhe/lei/117-1999-423055), de 11 de Agosto, e pelos Decretos-Leis n.os [503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de Novembro, [70-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265), de 5 de Maio, [157/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2001-314193), de 11 de Maio, [169/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2006-538820), de 17 de Agosto, e [181/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2007-520848), de 9 de Maio» deve ler-se «[Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 11 de Setembro - Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas; [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro - aprova o Regime de Contrato de Trabalho em Funções Públicas».
+
+16 de Dezembro de 2009. - O Presidente da Câmara, António Paulo Jacinto Eusébio.

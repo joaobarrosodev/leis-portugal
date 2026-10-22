@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:180580:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-888218926",
+ "dre_path": "/dr/detalhe/decreto-lei/327-1985-180580",
+ "source_lastmod": "2024-09-19",
+ "versions": [
+  {
+   "date": "1985-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888218693",
+    "888218694",
+    "888218695",
+    "888218696",
+    "888218697",
+    "888218698",
+    "888218699",
+    "888218700",
+    "888218701"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:267842:por",
+     "title": "Declaração",
+     "published": "1985-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-267842",
+     "date": "1985-08-13"
+    }
+   ]
+  },
+  {
+   "date": "2003-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306907:por",
+     "title": "Lei n.º 32-B/2002",
+     "published": "2002-12-30",
+     "dre_path": "/dr/detalhe/lei/32-b-2002-306907"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "888218693",
+    "888218694",
+    "888218695",
+    "888218705",
+    "888218706",
+    "888218698",
+    "888218699",
+    "888218700",
+    "888218701",
+    "888218702"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:603273:por",
+     "title": "Lei n.º 1/2004",
+     "published": "2004-01-15",
+     "dre_path": "/dr/detalhe/lei/1-2004-603273",
+     "date": "2004-01-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "888218693": {
+   "fragment_id": "888218927",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 327/85\n\nde 8 de Agosto\n\nConsiderando que os estabelecimentos de ensino superior, privado ou cooperativo, autorizados nos termos da lei e cujos cursos sejam oficialmente reconhecidos prosseguem fins paralelos aos do Estado no campo do ensino e da investigação científica;\n\nConsiderando-se de utilidade, para assegurar um elevado nível científico e pedagógico nas várias escolas, que seja possível uma efectiva mobilidade de docentes entre as instituições de ensino superior do Estado e as suas congéneres privadas e cooperativas, e vice-versa;\n\nTendo presente a importância dos sistemas de segurança social como factor dessa mobilidade:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "888218694": {
+   "fragment_id": "888218928",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão abrangidos pelo presente diploma os estabelecimentos de ensino superior, privado ou cooperativo, autorizados nos termos da lei e a cujos cursos seja concedido reconhecimento oficial pleno."
+  },
+  "888218695": {
+   "fragment_id": "888218929",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - O pessoal docente dos estabelecimentos de ensino superior referidos no artigo anterior será inscrito na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado, ficando abrangido pelas disposições do Estatuto da Aposentação e do Estatuto das Pensões de Sobrevivência.\n\n2 - O disposto no número anterior não é aplicável ao pessoal docente que exerça as suas funções em regime de tempo parcial ou ao abrigo de mero contrato de prestação de serviços."
+  },
+  "888218696": {
+   "fragment_id": "888218930",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nTodo o tempo de serviço anteriormente prestado pelo referido pessoal os aludidos estabelecimentos de ensino após a autorização para a sua criação e o reconhecimento oficial dos cursos será contado para efeitos de aposentação e pensão de sobrevivência."
+  },
+  "888218697": {
+   "fragment_id": "888218931",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - As pensões de aposentação e sobrevivência relativas ao mesmo pessoal serão calculadas e abonadas integralmente, nos termos do Estatuto da Aposentação e do Estatuto das Pensões de Sobrevivência, pela Caixa Geral de Aposentações e pelo Montepio dos Servidores do Estado.\n\n2 - Os encargos com as pensões relativamente ao tempo de serviço prestado nos estabelecimentos de ensino abrangidos por este diploma anteriormente à data da sua entrada em vigor serão suportados pelo Centro Nacional de Pensões e pelos referidos estabelecimentos, segundo os princípios e nos moldes estabelecidos nos artigos 3.º, 6.º e 7.º do Decreto-Lei n.º 141/79, de 22 de Maio.\n\n> Nota: [Acórdão n.º 360/2003 - Diário da República n.º 232/2003, Série I-A de 2003-10-07](https://diariodarepublica.pt/dr/detalhe/acordao/360-2003-482631) declara a inconstitucionalidade, com força obrigatória geral, das normas constantes dos n.os 1 a 8 do artigo 9.º da Lei n.º 32-B/2002, de 30 de Dezembro (por violação do direito das associações sindicais à participação na elaboração da legislação do trabalho), que determinaram, a alteração do artigo 4.º do presente diploma."
+  },
+  "888218698": {
+   "fragment_id": "888218932",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCada estabelecimento de ensino abrangido por este diploma fica autorizado a celebrar um acordo com a ADSE, destinado a fixar as condições em que o pessoal a que se refere o artigo 2.º pode adquirir a qualidade de beneficiário titular da ADSE e gozar dos benefícios por esta assegurados, nos termos do artigo 4.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro, podendo a Universidade Católica Portuguesa celebrar um único acordo, se tal for mais conveniente."
+  },
+  "888218699": {
+   "fragment_id": "888218933",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs estabelecimentos de ensino deduzirão dos vencimentos do pessoal docente abrangido pelo presente diploma as quotizações legalmente fixadas, devendo as respeitantes à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado ser remetidas a estas instituições segundo as regras aplicáveis aos organismos do Estado."
+  },
+  "888218700": {
+   "fragment_id": "888218934",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCada estabelecimento de ensino entregará à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado quantias iguais às respeitantes às quotas respectivas deduzidas nos vencimentos do pessoal docente, como contribuição para o financiamento do sistema."
+  },
+  "888218701": {
+   "fragment_id": "888218935",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs importâncias destinadas ao pagamento a que se refere o artigo anterior poderão ser englobadas nas dotações de apoio financeiro do Estado aos estabelecimentos de ensino abrangidos por este diploma, eventualmente atribuídas através do Ministério da Educação."
+  },
+  "888218705": {
+   "fragment_id": "888218930",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1985-08-13",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 200/1985, 2º Suplemento, Série I de 1985-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-267842), em vigor a partir de 1985-08-13"
+   ],
+   "markdown": "###### Artigo 3.º\n\nTodo o tempo de serviço anteriormente prestado pelo referido pessoal aos aludidos estabelecimentos de ensino após a autorização para a sua criação e o reconhecimento oficial dos cursos será contado para efeitos de aposentação e pensão de sobrevivência.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 200/1985, 2º Suplemento, Série I de 1985-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-267842), em vigor a partir de 1985-08-13"
+  },
+  "888218706": {
+   "fragment_id": "888218931",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2003-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - As pensões de aposentação e sobrevivência relativas ao mesmo pessoal serão calculadas e abonadas integralmente, nos termos do Estatuto da Aposentação e do Estatuto das Pensões de Sobrevivência, pela Caixa Geral de Aposentações e pelo Montepio dos Servidores do Estado.\n\n2 - A remuneração relevante para efeitos de desconto de quota e de cálculo da pensão de aposentação não pode ser inferior à estabelecida na convenção colectiva de trabalho aplicável nem superior à que respeite à categoria e escalão da carreira docente instituída para o ensino oficial correspondente ao mesmo tempo de serviço docente.\n\n3 - Os encargos com as pensões relativamente ao tempo de serviço prestado nos estabelecimentos de ensino abrangidos por este diploma anteriormente à data da sua entrada em vigor serão suportados pelo Centro Nacional de Pensões e pelos referidos estabelecimentos, segundo os princípios e nos moldes estabelecidos nos artigos 3.º, 6.º e 7.º do Decreto-Lei n.º 141/79, de 22 de Maio.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01"
+  },
+  "888218702": {
+   "fragment_id": "888218936",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Virgílio Alberto Meira Soares.\n\nPromulgado em 26 de Julho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 30 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

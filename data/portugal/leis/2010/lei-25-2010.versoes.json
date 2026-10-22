@@ -1,0 +1,163 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:343915:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2010-870754564",
+ "dre_path": "/dr/detalhe/lei/25-2010-343915",
+ "source_lastmod": "2024-07-05",
+ "versions": [
+  {
+   "date": "2010-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870597738",
+    "870597739",
+    "870597740",
+    "870597741",
+    "870597742",
+    "870597743",
+    "870597744",
+    "870597745",
+    "870597746",
+    "870597747",
+    "870597748",
+    "870597749",
+    "870597750",
+    "870597751",
+    "870597753",
+    "870597754"
+   ]
+  }
+ ],
+ "fragments": {
+  "870597738": {
+   "fragment_id": "870754565",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 25/2010\n\nde 30 de Agosto\n\nEstabelece as prescrições mínimas para protecção dos trabalhadores contra os riscos para a saúde e a segurança devidos à exposição, durante o trabalho, a radiações ópticas de fontes artificiais, transpondo a Directiva n.º 2006/25/CE, do Parlamento Europeu e do Conselho, de 5 de Abril.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "870597739": {
+   "fragment_id": "870754566",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente lei estabelece as prescrições mínimas para protecção dos trabalhadores contra os riscos para a saúde e a segurança devidos à exposição, durante o trabalho, a radiações ópticas de fontes artificiais, transpondo a Directiva n.º 2006/25/CE, do Parlamento Europeu e do Conselho, de 5 de Abril, relativa às prescrições mínimas de saúde e segurança em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (radiação óptica artificial).\n\n2 - A presente lei é aplicável a todas as actividades dos sectores privado, cooperativo e social, da Administração Pública central, regional e local, dos institutos públicos e das demais pessoas colectivas de direito público, bem como a trabalhadores por conta própria."
+  },
+  "870597740": {
+   "fragment_id": "870754567",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Exposição radiante (H)» o integral da irradiância em ordem ao tempo, expresso em joules por metro quadrado (J m-(elevado a 2));\n\nb) «Irradiância (E) ou densidade de potência» o poder radiante incidente por unidade de superfície sobre uma superfície, expresso em watts por metro quadrado (W m-(elevado a 2));\n\nc) «Laser (amplificação de luz por emissão estimulada de radiação)» qualquer dispositivo susceptível de produzir ou amplificar uma radiação electromagnética na gama de comprimentos de onda da radiação óptica, essencialmente pelo processo da emissão estimulada controlada;\n\nd) «Nível» a combinação de irradiância, exposição radiante e radiância a que o trabalhador está exposto;\n\ne) «Radiação laser» a radiação óptica proveniente de um laser;\n\nf) «Radiação não coerente» a radiação óptica, com excepção da radiação laser;\n\ng) «Radiação óptica» a radiação electromagnética na gama de comprimentos de onda entre 100 nm e 1 mm, cujo espectro se divide em:\n\ni) «Radiação ultravioleta» a radiação óptica com comprimentos de onda entre 100 nm e 400 nm, cuja região ultravioleta se divide em UVA (315 nm-400 nm), UVB (280 nm- nm) e UVC (100 nm-280 nm);\n\nii) «Radiação visível» a radiação óptica com comprimentos de onda entre 380 nm e 780 nm;\n\niii) «Radiação infravermelha» a radiação óptica com comprimentos de onda entre 780 nm e 1 mm, cuja região infravermelha se divide em IVA (780 nm-1400 nm), IVB (1400 nm-3000 nm) e IVC (3000 nm-1 mm);\n\niv) «Radiância (L)» o fluxo radiante ou a potência de saída por unidade de ângulo sólido por unidade de superfície, expresso em watts por metro quadrado por esterradiano (W m-(elevado a 2) sr-(elevado a 1));\n\nh) «Valores limite de exposição (VLE)» os limites de exposição, estabelecidos em função do resultado de estudos sobre saúde e em considerações biológicas existentes, que garantam aos trabalhadores expostos a radiações ópticas de fontes artificiais a protecção contra os efeitos nocivos conhecidos para a saúde e que não podem, em caso algum, ser ultrapassados."
+  },
+  "870597741": {
+   "fragment_id": "870754568",
+   "type": 11,
+   "heading": "Artigo 3.º — Valores limite de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valores limite de exposição\n\n1 - Os valores limite de exposição a radiações não coerentes, com excepção das emitidas por fontes naturais de radiação óptica, constam do anexo i à presente lei, que dela faz parte integrante.\n\n2 - Os valores limite de exposição para radiações laser constam do anexo ii à presente lei que dela faz parte integrante."
+  },
+  "870597742": {
+   "fragment_id": "870754569",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais da avaliação de riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais da avaliação de riscos\n\n1 - Em actividades susceptíveis de apresentar riscos de exposição a radiações ópticas de fontes artificiais, o empregador avalia e, se necessário, mede ou calcula os níveis de radiações ópticas a que os trabalhadores possam estar expostos e, sendo caso disso, identifica e aplica medidas que reduzam a exposição de modo a não exceder os limites aplicáveis.\n\n2 - A avaliação, a medição e o cálculo dos níveis de radiações são efectuados de acordo com:\n\na) As normas da Comissão Electrotécnica Internacional (CEI) no que respeita às radiações laser;\n\nb) As recomendações da Comissão Internacional da Iluminação (CIE) e do Comité Europeu de Normalização (CEN) no que respeita às radiações não coerentes.\n\n3 - Em caso de exposição não abrangida pelas normas e recomendações referidas no número anterior, a avaliação, a medição e o cálculo são efectuados de acordo com directrizes nacionais ou internacionais disponíveis e cientificamente fundamentadas, até que sejam adoptadas normas ou recomendações da União Europeia.\n\n4 - Nas situações referidas nos n.os 2 e 3, a avaliação, a medição ou o cálculo dos níveis de radiações pode ter em consideração as informações prestadas pelo fabricante do equipamento, no caso de este estar abrangido por regulamentação comunitária.\n\n5 - A medição e o cálculo referidos nos números anteriores são planeados e efectuados por entidade reconhecida pelo Instituto Português de Acreditação, I. P., com conhecimentos teóricos e práticos e experiência suficiente para realizar ensaios, incluindo a medição dos níveis de exposição a radiações ópticas de fontes artificiais.\n\n6 - Constitui contra-ordenação muito grave a violação do disposto nos n.os 1 a 3 e constitui contra-ordenação grave a violação do disposto no número anterior."
+  },
+  "870597743": {
+   "fragment_id": "870754570",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação de riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação de riscos\n\n1 - Em actividades susceptíveis de apresentar riscos de exposição a radiações ópticas de fontes artificiais, o empregador avalia os riscos tendo em consideração, nomeadamente:\n\na) O nível, a gama de comprimentos de onda e a duração da exposição;\n\nb) Os valores limite de exposição indicados nos anexos i e ii à presente lei;\n\nc) Os efeitos sobre a segurança e saúde de trabalhadores particularmente sensíveis aos riscos a que estão expostos;\n\nd) Os eventuais efeitos sobre a segurança e saúde de trabalhadores resultantes de interacções no local de trabalho entre radiações ópticas e substâncias químicas foto-sensibilizantes;\n\ne) Os efeitos indirectos, nomeadamente cegueira temporária, explosão ou incêndio;\n\nf) A existência de equipamentos de substituição concebidos para reduzir os níveis de exposição a radiações ópticas de fontes artificiais;\n\ng) As informações adequadas resultantes da vigilância da saúde, incluindo informação publicada;\n\nh) As fontes múltiplas de exposição a radiações ópticas artificiais;\n\ni) A classificação atribuída ao laser, em conformidade com a norma CEI pertinente, ou qualquer classificação semelhante no caso de fonte artificial susceptível de causar danos similares aos de um laser de classe 3B ou 4;\n\nj) As informações prestadas pelos fabricantes de fontes de radiações ópticas e de equipamento de trabalho associado, de acordo com a legislação aplicável.\n\n2 - A avaliação de riscos deve ser registada em suporte de papel ou digital e, se a natureza e a dimensão dos riscos relacionados com as radiações ópticas de fontes artificiais não justificarem uma avaliação mais pormenorizada, conter uma justificação do empregador.\n\n3 - A avaliação de riscos é actualizada sempre que haja alterações significativas que a possam desactualizar ou o resultado da vigilância da saúde justificar a necessidade de nova avaliação.\n\n4 - Sem prejuízo do disposto no número anterior, sempre que sejam ultrapassados os valores limite de exposição, a periodicidade mínima da avaliação de riscos é de um ano.\n\n5 - Constitui contra-ordenação muito grave a violação do disposto no presente artigo."
+  },
+  "870597744": {
+   "fragment_id": "870754571",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução da exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redução da exposição\n\n1 - O empregador utiliza todos os meios disponíveis para eliminar na origem ou reduzir ao mínimo os riscos de exposição dos trabalhadores a radiações ópticas de fontes artificiais, de acordo com os princípios gerais de prevenção legalmente estabelecidos.\n\n2 - Se o resultado da avaliação dos riscos indicar que os valores limite de exposição foram ultrapassados, o empregador aplica medidas técnicas ou organizativas que reduzam ao mínimo a exposição dos trabalhadores e assegurem que aqueles valores não são ultrapassados.\n\n3 - As medidas técnicas referidas no número anterior têm em consideração, nomeadamente, os seguintes aspectos:\n\na) A utilização de métodos de trabalho alternativos que permitam reduzir a exposição;\n\nb) A escolha de equipamento em função do trabalho a realizar que emita menos radiações ópticas;\n\nc) A aplicação de medidas que reduzam as emissões de radiações ópticas, incluindo, se necessário, encravamentos, blindagens ou mecanismos semelhantes de protecção da saúde;\n\nd) A aplicação de programas adequados de manutenção do equipamento, do local e dos postos de trabalho;\n\ne) A concepção e disposição dos locais e postos de trabalho;\n\nf) A organização do trabalho com limitação da duração e nível da exposição;\n\ng) A utilização de equipamentos de protecção individual adequados;\n\nh) As instruções do fabricante do equipamento, no caso de este estar abrangido por regulamentação comunitária.\n\n4 - Os locais de trabalho onde os trabalhadores possam estar expostos a níveis de radiações ópticas de fontes artificiais superiores aos valores limite de exposição são sinalizados de acordo com a legislação aplicável à sinalização de segurança e saúde no trabalho, bem como delimitados e de acesso restrito sempre que tal seja tecnicamente possível.\n\n5 - Constitui contra-ordenação muito grave a violação do disposto no presente artigo."
+  },
+  "870597745": {
+   "fragment_id": "870754572",
+   "type": 11,
+   "heading": "Artigo 7.º — Redução dos valores limite de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Redução dos valores limite de exposição\n\n1 - O empregador assegura que a exposição dos trabalhadores a radiações ópticas seja reduzida ao nível mais baixo possível e, em qualquer caso, não seja superior aos valores limite de exposição indicados no anexo i à presente lei.\n\n2 - Nas situações em que sejam ultrapassados os valores limite de exposição a radiações ópticas de fontes artificiais, o empregador:\n\na) Identifica as causas da ultrapassagem dos valores limite;\n\nb) Toma medidas imediatas que reduzam a exposição de modo a não exceder os valores limite;\n\nc) Adapta as medidas de protecção e prevenção de modo a evitar a ocorrência de situações idênticas.\n\n3 - O empregador adapta as medidas referidas no número anterior a trabalhadores particularmente sensíveis aos riscos resultantes da exposição a radiações ópticas de fontes artificiais.\n\n4 - Constitui contra-ordenação muito grave a violação do disposto no presente artigo."
+  },
+  "870597746": {
+   "fragment_id": "870754573",
+   "type": 11,
+   "heading": "Artigo 8.º — Informação, consulta e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informação, consulta e formação dos trabalhadores\n\n1 - Sem prejuízo do disposto na legislação geral em matéria de informação e formação, o empregador assegura aos trabalhadores expostos aos riscos resultantes de radiações ópticas de fontes artificiais, assim como aos seus representantes para a segurança e saúde no trabalho, a informação e formação adequadas sobre:\n\na) Riscos potenciais para a segurança e saúde derivados da exposição a radiações ópticas durante o trabalho;\n\nb) Valores limite de exposição e potenciais riscos associados;\n\nc) Resultados das avaliações e das medições e dos cálculos dos níveis de exposição a radiações efectuadas de acordo com os artigos 4.º e 5.º, acompanhados de uma explicação do seu significado e do risco potencial que representam;\n\nd) Utilidade e forma de detectar e notificar os efeitos negativos para a saúde resultantes da exposição;\n\ne) Situações em que os trabalhadores têm direito à vigilância da saúde, nos termos do artigo 10.º;\n\nf) Práticas de trabalho seguras que minimizem os riscos de exposição;\n\ng) Utilização correcta de equipamento de protecção individual adequado.\n\n2 - A informação deve, tendo em conta o resultado da avaliação, ser prestada de forma adequada, oralmente ou por escrito, nomeadamente através de formação individual dos trabalhadores, e ser periodicamente actualizada de modo a incluir qualquer alteração verificada.\n\n3 - O empregador assegura a informação e a consulta dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho sobre a aplicação das disposições da presente lei, designadamente sobre a avaliação dos riscos e as medidas a tomar para reduzir a exposição.\n\n4 - Constitui contra-ordenação muito grave a violação dos deveres de informação e consulta e constitui contra-ordenação grave a violação dos deveres de formação previstos no presente artigo."
+  },
+  "870597747": {
+   "fragment_id": "870754574",
+   "type": 11,
+   "heading": "Artigo 9.º — Vigilância da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vigilância da saúde\n\n1 - Sem prejuízo das obrigações gerais em matéria de saúde no trabalho, o empregador assegura a vigilância adequada da saúde dos trabalhadores, com vista à prevenção de eventuais riscos para a saúde a longo prazo e de contracção de doenças crónicas e ao diagnóstico precoce de qualquer efeito adverso para a saúde, resultantes da exposição a radiações ópticas artificiais.\n\n2 - No caso de trabalhador que tenha estado exposto a radiações ópticas artificiais superiores aos valores limite de exposição ou cujo resultado da vigilância da saúde revelar que sofre de doença ou afecção resultante da exposição a radiações ópticas artificiais no local de trabalho, o empregador assegura a realização de exames médicos adequados as essas situações.\n\n3 - Constitui contra-ordenação grave a violação do disposto no presente artigo."
+  },
+  "870597748": {
+   "fragment_id": "870890275",
+   "type": 11,
+   "heading": "Artigo 10.º — Resultado da vigilância da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Resultado da vigilância da saúde\n\n1 - Se a vigilância da saúde revelar efeitos adversos para a saúde do trabalhador, o médico do trabalho:\n\na) Informa o trabalhador do resultado e presta-lhe informações e recomendações sobre a vigilância da saúde a que deva submeter-se, terminada a exposição;\n\nb) Comunica ao empregador o resultado da vigilância da saúde com interesse para a prevenção de riscos, sem prejuízo do sigilo profissional a que se encontra vinculado.\n\n2 - O empregador, tendo em conta o referido na alínea b) do número anterior:\n\na) Repete a avaliação de riscos;\n\nb) Revê as medidas adoptadas para eliminar ou reduzir os riscos;\n\nc) Aplica as medidas necessárias, com base no parecer do médico do trabalho, para eliminar ou reduzir os riscos;\n\nd) Promove a vigilância contínua da saúde e assegura o exame de saúde de qualquer outro trabalhador que tenha estado exposto de forma idêntica, nomeadamente a realização de exames médicos adequados.\n\n3 - No caso de trabalhador exposto a radiações ópticas artificiais superiores aos valores limite de exposição, aplica-se o disposto nos números anteriores.\n\n4 - O trabalhador tem acesso, a seu pedido, ao registo de saúde que lhe diga respeito.\n\n5 - Constitui contra-ordenação grave a violação do disposto no presente artigo."
+  },
+  "870597749": {
+   "fragment_id": "870890276",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo e arquivo de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo e arquivo de documentos\n\n1 - Sem prejuízo das obrigações gerais dos serviços de segurança e saúde no trabalho em matéria de registos de dados e conservação de documentos, o empregador organiza os registos de dados e mantém arquivos actualizados sobre:\n\na) Os resultados da avaliação de riscos bem como os critérios e procedimentos da avaliação;\n\nb) A identificação dos trabalhadores expostos com a indicação, para cada trabalhador, do posto de trabalho ocupado, da natureza e, se possível, do grau de exposição a que esteve sujeito;\n\nc) Os resultados da vigilância da saúde de cada trabalhador, com a referência ao posto de trabalho, aos exames de saúde e exames complementares realizados e a outros elementos considerados úteis pelo médico responsável, tendo em conta a confidencialidade dos referidos dados;\n\nd) A identificação do médico responsável pela vigilância da saúde.\n\n2 - Os registos e arquivos referidos no número anterior devem ser conservados de forma a permitir a sua consulta, nos termos previstos na legislação aplicável.\n\n3 - Constitui contra-ordenação grave a violação do disposto no presente artigo."
+  },
+  "870597750": {
+   "fragment_id": "870890277",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime da responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime da responsabilidade contra-ordenacional\n\n1 - O regime geral da responsabilidade contra-ordenacional dos artigos 548.º a 566.º do Código do Trabalho aplica-se às infracções decorrentes da violação da presente lei, sem prejuízo das competências legais atribuídas nas Regiões Autónomas aos respectivos órgãos e serviços regionais.\n\n2 - O processamento das contra-ordenações previstas na presente lei é regulado pelo regime processual aplicável às contra-ordenações laborais e de segurança social."
+  },
+  "870597751": {
+   "fragment_id": "870890278",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente lei entra em vigor 60 dias após a sua publicação."
+  },
+  "870597753": {
+   "fragment_id": "870890280",
+   "type": 14,
+   "heading": "Anexo I — (a que se referem o n.º 1 do artigo 3.º e os artigos 5.º e 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se referem o n.º 1 do artigo 3.º e os artigos 5.º e 7.º)\n\nRadiação óptica não coerente\n\nOs valores de exposição à radiação óptica relevantes do ponto de vista biofísico são determinados utilizando as fórmulas a seguir mencionadas. As fórmulas a utilizar dependem da gama de radiação emitida pela fonte e os resultados devem ser comparados com os correspondentes valores limite de exposição (VLE) indicados no quadro 1.1. Para uma dada fonte de radiação óptica pode haver mais de um valor de exposição, e correspondente limite de exposição, relevante.\n\nAs alíneas a) a o) remetem para as linhas correspondentes do quadro 1.1:\n\n(ver documento original)\n\nPara efeitos da presente lei, as fórmulas mencionadas podem ser substituídas pelas expressões seguintes e pelos valores discretos que figuram nos seguintes quadros:\n\n(ver documento original)\n\nQUADRO N.º 1.1\n\nValores limite de exposição para radiação óptica não coerente\n\n(ver documento original)\n\nQUADRO N.º 1.2\n\nS ((lambda)) [sem dimensões], 180 nm a 400 nm\n\n(ver documento original)\n\nQUADRO N.º1.3\n\nB ((lambda)), R ((lambda)) [sem dimensões], 380 nm a 1400 nm\n\n(ver documento original)"
+  },
+  "870597754": {
+   "fragment_id": "870890281",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem o n.º 2 do artigo 3.º e o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se referem o n.º 2 do artigo 3.º e o artigo 5.º)\n\nRadiação óptica laser\n\nOs valores de exposição à radiação óptica relevantes de um ponto de vista biofísico são determinados utilizando as fórmulas seguidamente mencionadas. As fórmulas a utilizar dependem do comprimento de onda e da duração das radiações emitidas pela fonte e os resultados devem ser comparados com os correspondentes valores limite de exposição (VLE) indicados nos quadros n.os 2.2-2.4. Para uma dada fonte de radiação óptica laser pode haver mais de um valor de exposição, e correspondente limite de exposição, relevante.\n\nOs coeficientes utilizados como ferramentas de cálculo nos quadros n.os 2.2-2.4 constam do quadro n.º 2.5 e as correcções para a exposição repetitiva constam do quadro n.º 2.6.\n\n(ver documento original)\n\nQUADRO N.º 2.1\n\nRiscos das radiações\n\n(ver documento original)\n\nQUADRO N.º 2.2\n\nValores limite de exposição para a exposição do olho ao laser - Exposição de curta duração (menor que) 10 s\n\n(ver documento original)\n\nQUADRO N.º 2.3\n\nValores limite de exposição para a exposição do olho ao laser - Exposição de longa duração(igual ou maior que) 10 s\n\n(ver documento original)\n\nQUADRO N.º 2.4\n\nValores limite de exposição para a exposição da pele ao laser\n\n(ver documento original)\n\nQUADRO N.º 2.5\n\nFactores de correcção aplicados e outros parâmetros de cálculo\n\n(ver documento original)\n\nQUADRO N.º 2.6\n\nCorrecção para exposição repetitiva\n\nCada uma das três regras gerais seguintes deverá ser aplicada a todas as exposições repetitivas decorrentes de sistemas laser de impulsos repetitivos ou de varrimento.\n\n1 - A exposição resultante de um impulso único de uma série de impulsos não deve exceder o valor limite de exposição de um impulso único com essa duração de impulso.\n\n2 - A exposição resultante de um grupo de impulsos (ou subgrupo de impulsos numa série) emitidos no tempo t não deve exceder o valor limite de exposição para o tempo t.\n\n3 - A exposição resultante de um impulso único num grupo de impulsos não deve exceder o valor limite de exposição de um impulso único multiplicado pelo factor de correcção térmica cumulativa Cp=N(elevado a -0,25), em que N é o número de impulsos. Esta regra aplica-se apenas a limites de exposição para protecção contra lesões térmicas, em que todos os impulsos emitidos em menos de T(índice min) são tratados como um único impulso.\n\n(ver documento original)"
+  }
+ }
+}

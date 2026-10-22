@@ -1,0 +1,411 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177812:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-107669086",
+ "dre_path": "/dr/detalhe/lei/22-2012-177812",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107671175",
+    "107671176",
+    "107671177",
+    "107671178",
+    "107671179",
+    "107671180",
+    "107671181",
+    "107671182",
+    "107671183",
+    "107671184",
+    "107671185",
+    "107671186",
+    "107671187",
+    "107671188",
+    "107671189",
+    "107671190",
+    "107671191",
+    "107671192",
+    "107671193",
+    "107671194",
+    "107671195",
+    "107671196",
+    "107671197",
+    "107671198",
+    "107671199",
+    "107671200",
+    "107671201",
+    "107671203",
+    "107671204"
+   ]
+  },
+  {
+   "date": "2021-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165723198:por",
+     "title": "Lei n.º 39/2021",
+     "published": "2021-06-24",
+     "dre_path": "/dr/detalhe/lei/39-2021-165723198"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "107671175",
+    "107671176",
+    "107671177",
+    "107671178",
+    "107671179",
+    "107671180",
+    "165564426",
+    "165780975",
+    "165780976",
+    "165780977",
+    "165780978",
+    "165780979",
+    "165564427",
+    "107671188",
+    "107671189",
+    "107671190",
+    "107671191",
+    "107671192",
+    "107671193",
+    "107671194",
+    "107671195",
+    "107671196",
+    "107671197",
+    "107671198",
+    "107671199",
+    "107671200",
+    "107671201",
+    "107671202",
+    "107671203",
+    "107671204"
+   ]
+  }
+ ],
+ "fragments": {
+  "107671175": {
+   "fragment_id": "107669087",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 22/2012\n\nde 30 de maio\n\nAprova o regime jurídico da reorganização administrativa territorial autárquica\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "107671176": {
+   "fragment_id": "107669088",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107671177": {
+   "fragment_id": "107669089",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece os objetivos, os princípios e os parâmetros da reorganização administrativa territorial autárquica e define e enquadra os termos da participação das autarquias locais na concretização desse processo.\n\n2 - A presente lei consagra a obrigatoriedade da reorganização administrativa do território das freguesias e regula e incentiva a reorganização administrativa do território dos municípios."
+  },
+  "107671178": {
+   "fragment_id": "107669090",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos da reorganização administrativa territorial autárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos da reorganização administrativa territorial autárquica\n\nA reorganização administrativa territorial autárquica prossegue os seguintes objetivos:\n\na) Promoção da coesão territorial e do desenvolvimento local;\n\nb) Alargamento das atribuições e competências das freguesias e dos correspondentes recursos;\n\nc) Aprofundamento da capacidade de intervenção da junta de freguesia;\n\nd) Melhoria e desenvolvimento dos serviços públicos de proximidade prestados pelas freguesias às populações;\n\ne) Promoção de ganhos de escala, de eficiência e da massa crítica nas autarquias locais;\n\nf) Reestruturação, por agregação, de um número significativo de freguesias em todo o território nacional, com especial incidência nas áreas urbanas."
+  },
+  "107671179": {
+   "fragment_id": "107669091",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios\n\nA reorganização administrativa territorial autárquica obedece aos seguintes princípios:\n\na) Preservação da identidade histórica, cultural e social das comunidades locais, incluindo a manutenção da anterior denominação das freguesias agregadas, nos termos e para os efeitos previstos na presente lei;\n\nb) Participação das autarquias locais na concretização da reorganização administrativa dos respetivos territórios;\n\nc) Universalidade do esforço e flexibilidade no desenho de soluções concretas de reorganização administrativa territorial autárquica;\n\nd) Obrigatoriedade da reorganização administrativa do território das freguesias;\n\ne) Estímulo à reorganização administrativa do território dos municípios;\n\nf) Equilíbrio e adequação demográfica das freguesias."
+  },
+  "107671180": {
+   "fragment_id": "107669092",
+   "type": 1,
+   "heading": "Capítulo II — Reorganização administrativa do território das freguesias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Reorganização administrativa do território das freguesias"
+  },
+  "107671181": {
+   "fragment_id": "107669093",
+   "type": 11,
+   "heading": "Artigo 4.º — Níveis de enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Níveis de enquadramento\n\n1 - A reorganização administrativa territorial autárquica implica a agregação de freguesias a concretizar por referência aos limites territoriais do respetivo município, segundo parâmetros de agregação diferenciados em função do número de habitantes e da densidade populacional de cada município.\n\n2 - Para efeitos do número anterior, os municípios são classificados de acordo com os seguintes níveis:\n\na) Nível 1: municípios com densidade populacional superior a 1000 habitantes por km2 e com população igual ou superior a 40 000 habitantes;\n\nb) Nível 2: municípios com densidade populacional superior a 1000 habitantes por km2 e com população inferior a 40 000 habitantes, bem como municípios com densidade populacional entre 100 e 1000 habitantes por quilómetro quadrado e com população igual ou superior a 25 000 habitantes;\n\nc) Nível 3: municípios com densidade populacional entre 100 e 1000 habitantes por km2 e com população inferior a 25 000 habitantes, bem como municípios com densidade populacional inferior a 100 habitantes por quilómetro quadrado.\n\n3 - A classificação de cada município segundo os níveis previstos no número anterior consta do anexo i da presente lei, que dela faz parte integrante."
+  },
+  "107671182": {
+   "fragment_id": "107669094",
+   "type": 11,
+   "heading": "Artigo 5.º — Classificação de freguesias situadas em lugar urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Classificação de freguesias situadas em lugar urbano\n\n1 - Para efeitos da presente lei, considera-se lugar urbano o lugar com população igual ou superior a 2000 habitantes, conforme o anexo ii da presente lei, que dela faz parte integrante.\n\n2 - Nos casos em que em cada um dos lugares urbanos ou em lugares urbanos sucessivamente contíguos do município se situe apenas o território de uma freguesia, deve esta ser considerada como não situada em lugar urbano para efeitos da aplicação do n.º 1 do artigo seguinte.\n\n3 - Em casos devidamente fundamentados, a assembleia municipal pode, no âmbito da respetiva pronúncia prevista no artigo 11.º da presente lei, considerar como não situadas nos lugares urbanos do município freguesias que como tal sejam consideradas nos termos dos números anteriores.\n\n4 - Para efeitos do disposto no número anterior, devem ser tomados em consideração, designadamente:\n\na) A tipologia predominante das atividades económicas;\n\nb) O grau de desenvolvimento das atividades geradoras de fluxos significativos de população, bens e informação;\n\nc) A dimensão e o grau de cobertura das infraestruturas urbanas e da prestação dos serviços associados, nomeadamente dos sistemas de transportes públicos, de abastecimento de água e saneamento, de distribuição de energia e de telecomunicações;\n\nd) O nível de aglomeração de edifícios."
+  },
+  "107671183": {
+   "fragment_id": "107669095",
+   "type": 11,
+   "heading": "Artigo 6.º — Parâmetros de agregação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Parâmetros de agregação\n\n1 - A reorganização administrativa do território das freguesias deve alcançar os seguintes parâmetros de agregação:\n\na) Em cada município de nível 1, uma redução global do respetivo número de freguesias correspondente a, no mínimo, 55 % do número de freguesias cujo território se situe, total ou parcialmente, no mesmo lugar urbano ou em lugares urbanos sucessivamente contíguos e 35 % do número das outras freguesias;\n\nb) Em cada município de nível 2, uma redução global do respetivo número de freguesias correspondente a, no mínimo, 50 % do número de freguesias cujo território se situe, total ou parcialmente, no mesmo lugar urbano ou em lugares urbanos sucessivamente contíguos e 30 % do número das outras freguesias;\n\nc) Em cada município de nível 3, uma redução global do respetivo número de freguesias correspondente a, no mínimo, 50 % do número de freguesias cujo território se situe, total ou parcialmente no mesmo lugar urbano ou em lugares urbanos sucessivamente contíguos e 25 % do número das outras freguesias.\n\n2 - Da reorganização administrativa do território das freguesias não pode resultar a existência de freguesias com um número inferior a 150 habitantes.\n\n3 - Sem prejuízo do disposto no número anterior, a reorganização administrativa do território das freguesias não é obrigatória nos municípios em cujo território se situem quatro ou menos freguesias.\n\n4 - Sem prejuízo do disposto no n.º 2, nos casos em que o cumprimento dos parâmetros de agregação definidos no n.º 1 determine a existência de um número de freguesias inferior a quatro, a pronúncia da assembleia municipal, prevista no artigo 11.º da presente lei, pode contemplar a existência de quatro freguesias no território do respetivo município."
+  },
+  "107671184": {
+   "fragment_id": "107669096",
+   "type": 11,
+   "heading": "Artigo 7.º — Flexibilidade da pronúncia da assembleia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Flexibilidade da pronúncia da assembleia municipal\n\n1 - No exercício da respetiva pronúncia prevista no artigo 11.º da presente lei, a assembleia municipal goza de uma margem de flexibilidade que lhe permite, em casos devidamente fundamentados, propor uma redução do número de freguesias do respetivo município até 20 % inferior ao número global de freguesias a reduzir resultante da aplicação das percentagens previstas no n.º 1 do artigo 6.º\n\n2 - Em casos devidamente fundamentados, a assembleia municipal pode alcançar a redução global do número de freguesias prevista na presente lei aplicando proporções diferentes das consagradas no n.º 1 do artigo 6.º\n\n3 - O disposto no presente artigo não prejudica a obrigação prevista no n.º 2 do artigo 6.º"
+  },
+  "107671185": {
+   "fragment_id": "107669097",
+   "type": 11,
+   "heading": "Artigo 8.º — Orientações para a reorganização administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Orientações para a reorganização administrativa\n\nAs entidades que emitam pronúncia ou parecer sobre a reorganização administrativa do território das freguesias ao abrigo da presente lei consideram as seguintes orientações meramente indicativas:\n\na) A sede do município deve ser preferencialmente considerada como polo de atração das freguesias que lhe sejam contíguas, independentemente de nestas se situarem ou não lugares urbanos, de modo a promover as respetivas dinâmicas económicas e sociais;\n\nb) As freguesias com um índice de desenvolvimento económico e social mais elevado, um maior número de habitantes e uma maior concentração de equipamentos coletivos devem ser consideradas, no quadro da prestação de serviços públicos de proximidade, como preferenciais polos de atração das freguesias contíguas, sem prejuízo da consagração de soluções diferenciadas em função de razões de natureza histórica, cultural, social ou outras;\n\nc) As freguesias devem ter escala e dimensão demográfica adequadas, que correspondem indicativamente ao máximo de 50 000 habitantes e aos mínimos de:\n\ni) Nos municípios de nível 1, 20 000 habitantes por freguesia no lugar urbano e de 5000 habitantes nas outras freguesias;\n\nii) Nos municípios de nível 2, 15 000 habitantes por freguesia no lugar urbano e de 3000 nas outras freguesias;\n\niii) Nos municípios de nível 3, 2500 habitantes por freguesia no lugar urbano e de 500 habitantes nas outras freguesias."
+  },
+  "107671186": {
+   "fragment_id": "107669098",
+   "type": 11,
+   "heading": "Artigo 9.º — Agregação de freguesias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Agregação de freguesias\n\n1 - A freguesia criada por efeito da agregação tem a faculdade de incluir na respetiva denominação a expressão «União das Freguesias», seguida das denominações de todas as freguesias anteriores que nela se agregam.\n\n2 - A freguesia criada por efeito da agregação constitui uma nova pessoa coletiva territorial, dispõe de uma única sede e integra o património, os recursos humanos, os direitos e as obrigações das freguesias agregadas.\n\n3 - A agregação das freguesias não põe em causa o interesse da preservação da identidade cultural e histórica, incluindo a manutenção dos símbolos das anteriores freguesias.\n\n4 - O Governo regula a possibilidade de os interessados nascidos antes da agregação de freguesias prevista na presente lei solicitarem a manutenção no registo civil da denominação da freguesia agregada onde nasceram."
+  },
+  "107671187": {
+   "fragment_id": "107669099",
+   "type": 11,
+   "heading": "Artigo 10.º — Reforço de competências e recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reforço de competências e recursos financeiros\n\n1 - A reorganização administrativa do território das freguesias é acompanhada de um novo regime de atribuições e competências, que reforça as competências próprias dos órgãos das freguesias e amplia as competências delegáveis previstas na lei, em termos a definir em diploma próprio.\n\n2 - As competências próprias das freguesias podem ser diferenciadas em função das suas específicas características demográficas e abrangem, designadamente, os seguintes domínios, em termos a definir em diploma próprio:\n\na) Manutenção de instalações e equipamentos educativos;\n\nb) Construção, gestão e conservação de espaços e equipamentos coletivos;\n\nc) Licenciamento de atividades económicas;\n\nd) Apoio social;\n\ne) Promoção do desenvolvimento local.\n\n3 - O reforço das competências próprias das freguesias é acompanhado do reforço das correspondentes transferências financeiras do Estado, calculadas no quadro da despesa histórica suportada pelo respetivo município no âmbito do seu exercício.\n\n4 - Sem prejuízo do disposto no número anterior, a participação no Fundo de Financiamento das Freguesias (FFF) da freguesia criada por agregação é aumentada em 15 % até ao final do mandato seguinte à agregação.\n\n5 - Excetua-se do disposto no número anterior a criação de freguesias por efeito da agregação que não resulte de pronúncia da assembleia municipal conforme com os princípios e parâmetros de agregação previstos na presente lei, não havendo, nesses casos, lugar a qualquer aumento na participação no FFF."
+  },
+  "107671188": {
+   "fragment_id": "107669100",
+   "type": 11,
+   "heading": "Artigo 11.º — Pronúncia da assembleia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pronúncia da assembleia municipal\n\n1 - A assembleia municipal delibera sobre a reorganização administrativa do território das freguesias, respeitando os parâmetros de agregação e considerando os princípios e as orientações estratégicas definidos na presente lei, sem prejuízo do disposto nos n.os 3 e 4 do artigo 6.º e no artigo 7.º\n\n2 - Sempre que a câmara municipal não exerça a iniciativa para a deliberação prevista no número anterior deve apresentar à assembleia municipal um parecer sobre a reorganização do território das freguesias do respetivo município.\n\n3 - A deliberação a que se refere o n.º 1 designa-se pronúncia da assembleia municipal.\n\n4 - As assembleias de freguesia apresentam pareceres sobre a reorganização administrativa territorial autárquica, os quais, quando conformes com os princípios e os parâmetros definidos na presente lei, devem ser ponderados pela assembleia municipal no quadro da preparação da sua pronúncia.\n\n5 - A pronúncia da assembleia municipal deve conter os seguintes elementos:\n\na) Identificação das freguesias consideradas como situadas em lugar urbano, nos termos e para os efeitos da presente lei;\n\nb) Número de freguesias;\n\nc) Denominação das freguesias;\n\nd) Definição e delimitação dos limites territoriais de todas as freguesias;\n\ne) Determinação da localização das sedes das freguesias;\n\nf) Nota justificativa."
+  },
+  "107671189": {
+   "fragment_id": "107669101",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazo\n\nA pronúncia da assembleia municipal deve ser entregue à Assembleia da República no prazo máximo de 90 dias a contar da entrada em vigor da presente lei, acompanhada, quando emitidos, dos pareceres das assembleias de freguesia."
+  },
+  "107671190": {
+   "fragment_id": "107669102",
+   "type": 11,
+   "heading": "Artigo 13.º — Unidade Técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Unidade Técnica\n\n1 - É criada a Unidade Técnica para a Reorganização Administrativa do Território, adiante designada por Unidade Técnica, que funciona junto da Assembleia da República.\n\n2 - A Unidade Técnica é composta por:\n\na) Cinco técnicos designados pela Assembleia da República, um dos quais é o presidente;\n\nb) Um técnico designado pela Direção-Geral da Administração Local;\n\nc) Um técnico designado pela Direção-Geral do Território;\n\nd) Cinco técnicos designados pelas comissões de coordenação e desenvolvimento regional (CCDR), um por cada uma, sob parecer das respetivas comissões permanentes dos conselhos regionais;\n\ne) Dois representantes designados pela Associação Nacional de Municípios Portugueses;\n\nf) Dois representantes designados pela Associação Nacional de Freguesias.\n\n3 - Os técnicos designados pelas CCDR só podem participar e votar nas deliberações relativas a municípios que se integrem no âmbito territorial da respetiva CCDR.\n\n4 - As designações previstas no n.º 2 devem ser comunicadas à Assembleia da República no prazo de 20 dias após a entrada em vigor da presente lei."
+  },
+  "107671191": {
+   "fragment_id": "107669103",
+   "type": 11,
+   "heading": "Artigo 14.º — Atividade da Unidade Técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Atividade da Unidade Técnica\n\n1 - À Unidade Técnica compete:\n\na) Acompanhar e apoiar a Assembleia da República no processo de reorganização administrativa territorial autárquica, nos termos da presente lei;\n\nb) Apresentar à Assembleia da República propostas concretas de reorganização administrativa do território das freguesias, em caso de ausência de pronúncia das assembleias municipais;\n\nc) Elaborar parecer sobre a conformidade ou desconformidade das pronúncias das assembleias municipais com o disposto nos artigos 6.º e 7.º da presente lei e apresentá-lo à Assembleia da República;\n\nd) Propor às assembleias municipais, no caso de desconformidade da respetiva pronúncia, projetos de reorganização administrativa do território das freguesias.\n\n2 - Com exceção dos casos previstos no n.º 3 do artigo 6.º, a deliberação da assembleia municipal que não promova a agregação de quaisquer freguesias é equiparada, para efeitos da presente lei, a ausência de pronúncia.\n\n3 - As propostas, os pareceres e os projetos da Unidade Técnica são emitidos e apresentados no prazo máximo de 20 dias após o termo do prazo previsto no artigo 12.º\n\n4 - Os competentes serviços e organismos da Administração Pública colaboram com a Unidade Técnica e prestam-lhe o apoio técnico, documental e informativo de que esta necessitar para o exercício das suas competências ao abrigo da presente lei."
+  },
+  "107671192": {
+   "fragment_id": "107669104",
+   "type": 11,
+   "heading": "Artigo 15.º — Desconformidade da pronúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Desconformidade da pronúncia\n\n1 - Em caso de parecer de desconformidade com o disposto nos artigos 6.º e 7.º da presente lei, a Unidade Técnica elabora e propõe a apresentação à respetiva assembleia municipal, nos termos da alínea d) do n.º 1 do artigo anterior, um projeto de reorganização administrativa do território das freguesias, no prazo previsto no n.º 3 do mesmo artigo, dando conhecimento à Assembleia da República.\n\n2 - O projeto apresentado nos termos do número anterior deve, no quadro dos princípios previstos no artigo 3.º e das orientações previstas no artigo 8.º, assegurar o cumprimento do disposto no artigo 6.º\n\n3 - Após a receção do projeto e sem prejuízo do disposto no número anterior, a assembleia municipal pode, no prazo máximo de 20 dias, apresentar um projeto alternativo à Assembleia da República, o qual é apreciado pela Unidade Técnica nos termos previstos na alínea c) do n.º 1 do artigo anterior.\n\n4 - O disposto no n.º 3 do artigo 5.º e no artigo 7.º não é aplicável à pronúncia da assembleia municipal prevista no número anterior."
+  },
+  "107671193": {
+   "fragment_id": "107669105",
+   "type": 1,
+   "heading": "Capítulo III — Reorganização administrativa do território dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Reorganização administrativa do território dos municípios"
+  },
+  "107671194": {
+   "fragment_id": "107669106",
+   "type": 11,
+   "heading": "Artigo 16.º — Fusão de municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fusão de municípios\n\n1 - Os municípios que pretendam concretizar processos de fusão devem, no âmbito da pronúncia prevista no artigo 11.º, apresentar a respetiva proposta à Assembleia da República.\n\n2 - A proposta referida no número anterior deve ser instruída com os seguintes elementos:\n\na) Identificação dos municípios a fundir;\n\nb) Denominação do novo município;\n\nc) Definição e delimitação dos respetivos limites territoriais;\n\nd) Determinação da localização da respetiva sede;\n\ne) Nota justificativa.\n\n3 - No caso de fusão de municípios, a Direção-Geral das Autarquias Locais assegura o acompanhamento e o apoio técnico ao respetivo processo.\n\n4 - Os municípios criados por fusão têm tratamento preferencial no acesso a linhas de crédito asseguradas pelo Estado e no apoio a projetos nos domínios do empreendedorismo, da inovação social e da promoção da coesão territorial.\n\n5 - Sem prejuízo do disposto no número anterior, a participação no Fundo de Garantia Municipal (FGM) do município criado por fusão é aumentada em 15 % até ao final do mandato seguinte à fusão."
+  },
+  "107671195": {
+   "fragment_id": "107669107",
+   "type": 11,
+   "heading": "Artigo 17.º — Redefinição de circunscrições territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Redefinição de circunscrições territoriais\n\n1 - Os municípios que não apresentem propostas de fusão podem propor, no âmbito da pronúncia prevista no artigo 11.º e mediante acordo, a alteração dos respetivos limites territoriais, incluindo a transferência entre si da totalidade ou de parte do território de uma ou mais freguesias.\n\n2 - A redefinição dos limites territoriais do município, caso envolva transferência de freguesias, não prejudica o cumprimento dos parâmetros de agregação definidos no artigo 6.º"
+  },
+  "107671196": {
+   "fragment_id": "107669108",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "107671197": {
+   "fragment_id": "107669109",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regiões Autónomas\n\n1 - A presente lei aplica-se em todo o território nacional.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, as pronúncias e os projetos previstos nos artigos 11.º e 15.º são entregues às respetivas assembleias legislativas regionais."
+  },
+  "107671198": {
+   "fragment_id": "107669110",
+   "type": 11,
+   "heading": "Artigo 19.º — Arredondamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Arredondamentos\n\nO resultado da aplicação das percentagens previstas no n.º 1 do artigo 6.º e no n.º 1 do artigo 7.º é calculado segundo as regras gerais do arredondamento."
+  },
+  "107671199": {
+   "fragment_id": "107669111",
+   "type": 11,
+   "heading": "Artigo 20.º — Contagem dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contagem dos prazos\n\nA contagem dos prazos previstos na presente lei é feita nos termos previstos no Código de Processo Civil."
+  },
+  "107671200": {
+   "fragment_id": "107669112",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nSão revogadas a Lei n.º 11/82, de 2 de junho, a Lei n.º 8/93, de 5 de março, e o artigo 33.º da Lei n.º 2/2007, de 15 de janeiro."
+  },
+  "107671201": {
+   "fragment_id": "107669113",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107671203": {
+   "fragment_id": "107669115",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 4.º)\n\nClassificação dos municípios por níveis\n\nMunicípios de nível 1\n\nAlmada.\n\nAmadora.\n\nBarreiro.\n\nCascais.\n\nFunchal.\n\nGondomar.\n\nLisboa.\n\nLoures.\n\nMaia.\n\nMatosinhos.\n\nMoita.\n\nOdivelas.\n\nOeiras.\n\nPorto.\n\nSeixal.\n\nSintra.\n\nValongo.\n\nVila nova de gaia.\n\nMunicípios de nível 2\n\nÁgueda.\n\nAlbergaria-a-Velha.\n\nAlbufeira.\n\nAlcobaça.\n\nAlenquer.\n\nAmarante.\n\nAnadia.\n\nAngra do Heroísmo.\n\nAveiro.\n\nBarcelos.\n\nBraga.\n\nCaldas da Rainha.\n\nCâmara de Lobos.\n\nCoimbra.\n\nEntroncamento.\n\nEspinho.\n\nEsposende.\n\nEstarreja.\n\nFafe.\n\nFaro.\n\nFelgueiras.\n\nFigueira da Foz.\n\nGuimarães.\n\nÍlhavo.\n\nLagos.\n\nLamego.\n\nLeiria.\n\nLourinhã.\n\nLousada.\n\nMafra.\n\nMarco de Canaveses.\n\nMarinha Grande.\n\nMontemor-o-Velho.\n\nMontijo.\n\nOlhão.\n\nOliveira de Azeméis.\n\nOurém.\n\nOvar.\n\nPaços de Ferreira.\n\nPalmela.\n\nParedes.\n\nPenafiel.\n\nPeniche.\n\nPonta Delgada.\n\nPonte de Lima.\n\nPortimão.\n\nPóvoa de Varzim.\n\nRibeira Grande.\n\nSanta Cruz.\n\nSanta Maria da Feira.\n\nSanto Tirso.\n\nSantarém.\n\nSão João da Madeira.\n\nSesimbra.\n\nSetúbal.\n\nTomar.\n\nTorres Novas.\n\nTorres Vedras.\n\nTrofa.\n\nViana do Castelo.\n\nVila do Conde.\n\nVila Franca de Xira.\n\nVila Nova de Famalicão.\n\nVila Real.\n\nVila Verde.\n\nViseu.\n\nVizela.\n\nMunicípios de nível 3\n\nAbrantes.\n\nAguiar da Beira.\n\nAlandroal.\n\nAlcácer do Sal.\n\nAlcanena.\n\nAlcochete.\n\nAlcoutim.\n\nAlfândega da Fé.\n\nAlijó.\n\nAljezur.\n\nAljustrel.\n\nAlmeida.\n\nAlmeirim.\n\nAlmodôvar.\n\nAlpiarça.\n\nAlter do Chão.\n\nAlvaiázere.\n\nAlvito.\n\nAmares.\n\nAnsião.\n\nArcos de Valdevez.\n\nArganil.\n\nArmamar.\n\nArouca.\n\nArraiolos.\n\nArronches.\n\nArruda dos Vinhos.\n\nAvis.\n\nAzambuja.\n\nBaião.\n\nBarrancos.\n\nBatalha.\n\nBeja.\n\nBelmonte.\n\nBenavente.\n\nBombarral.\n\nBorba.\n\nBoticas.\n\nBragança.\n\nCabeceiras de Basto.\n\nCadaval.\n\nCalheta.\n\nCalheta (São Jorge).\n\nCaminha.\n\nCampo Maior.\n\nCantanhede.\n\nCarrazeda de Ansiães.\n\nCarregal do Sal.\n\nCartaxo.\n\nCastanheira de Pera.\n\nCastelo Branco.\n\nCastelo de Paiva.\n\nCastelo de Vide.\n\nCastro Daire.\n\nCastro Marim.\n\nCastro Verde.\n\nCelorico da Beira.\n\nCelorico de Basto.\n\nChamusca.\n\nChaves.\n\nCinfães.\n\nCondeixa-a-Nova.\n\nConstância.\n\nCoruche.\n\nCorvo.\n\nCovilhã.\n\nCrato.\n\nCuba.\n\nElvas.\n\nEstremoz.\n\nÉvora.\n\nFerreira do Alentejo.\n\nFerreira do Zêzere.\n\nFigueira de Castelo Rodrigo.\n\nFigueiró dos Vinhos.\n\nFornos de Algodres.\n\nFreixo de Espada à Cinta.\n\nFronteira.\n\nFundão.\n\nGavião.\n\nGóis.\n\nGolegã.\n\nGouveia.\n\nGrândola.\n\nGuarda.\n\nHorta.\n\nIdanha-a-Nova.\n\nLagoa.\n\nLagoa (Açores).\n\nLajes das Flores.\n\nLajes do Pico.\n\nLoulé.\n\nLousã.\n\nMação.\n\nMacedo de Cavaleiros.\n\nMachico.\n\nMadalena.\n\nMangualde.\n\nManteigas.\n\nMarvão.\n\nMealhada.\n\nMeda.\n\nMelgaço.\n\nMértola.\n\nMesão Frio.\n\nMira.\n\nMiranda do Corvo.\n\nMiranda do Douro.\n\nMirandela.\n\nMogadouro.\n\nMoimenta da Beira.\n\nMonção.\n\nMonchique.\n\nMondim de Basto.\n\nMonforte.\n\nMontalegre.\n\nMontemor-o-Novo.\n\nMora.\n\nMortágua.\n\nMoura.\n\nMourão.\n\nMurça.\n\nMurtosa.\n\nNazaré.\n\nNelas.\n\nNisa.\n\nNordeste.\n\nÓbidos.\n\nOdemira.\n\nOleiros.\n\nOliveira de Frades.\n\nOliveira do Bairro.\n\nOliveira do Hospital.\n\nOurique.\n\nPampilhosa da Serra.\n\nParedes de Coura.\n\nPedrógão Grande.\n\nPenacova.\n\nPenalva do Castelo.\n\nPenamacor.\n\nPenedono.\n\nPenela.\n\nPeso da Régua.\n\nPinhel.\n\nPombal.\n\nPonta do Sol.\n\nPonte da Barca.\n\nPonte de Sor.\n\nPortalegre.\n\nPortel.\n\nPorto de Mós.\n\nPorto Moniz.\n\nPorto Santo.\n\nPóvoa de Lanhoso.\n\nPovoação.\n\nProença-a-Nova.\n\nRedondo.\n\nReguengos de Monsaraz.\n\nResende.\n\nRibeira Brava.\n\nRibeira de Pena.\n\nRio Maior.\n\nSabrosa.\n\nSabugal.\n\nSalvaterra de Magos.\n\nSanta Comba Dão.\n\nSanta Cruz da Graciosa.\n\nSanta Cruz das Flores.\n\nSanta Marta de Penaguião.\n\nSantana.\n\nSantiago do Cacém.\n\nSão Brás de Alportel.\n\nSão João da Pesqueira.\n\nSão Pedro do Sul.\n\nSão Roque do Pico.\n\nSão Vicente.\n\nSardoal.\n\nSátão.\n\nSeia.\n\nSernancelhe.\n\nSerpa.\n\nSertã.\n\nSever do Vouga.\n\nSilves.\n\nSines.\n\nSobral de Monte Agraço.\n\nSoure.\n\nSousel.\n\nTábua.\n\nTabuaço.\n\nTarouca.\n\nTavira.\n\nTerras de Bouro.\n\nTondela.\n\nTorre de Moncorvo.\n\nTrancoso.\n\nVagos.\n\nVale de Cambra.\n\nValença.\n\nValpaços.\n\nVelas.\n\nVendas Novas.\n\nViana do Alentejo.\n\nVidigueira.\n\nVieira do Minho.\n\nVila da Praia da Vitória.\n\nVila de Rei.\n\nVila do Bispo.\n\nVila do Porto.\n\nVila Flor.\n\nVila Franca do Campo.\n\nVila Nova da Barquinha.\n\nVila Nova de Cerveira.\n\nVila Nova de Foz Coa.\n\nVila Nova de Paiva.\n\nVila Nova de Poiares.\n\nVila Pouca de Aguiar.\n\nVila Real de Santo António.\n\nVila Velha de Ródão.\n\nVila Viçosa.\n\nVimioso.\n\nVinhais.\n\nVouzela."
+  },
+  "107671204": {
+   "fragment_id": "107669116",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 5.º)\n\nLista de lugares urbanos por município\n\n(ver documento original)"
+  },
+  "165564426": {
+   "fragment_id": "107669093",
+   "type": 11,
+   "heading": "Artigo 4.º — Níveis de enquadramento",
+   "in_force_from": "2021-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+   ],
+   "markdown": "###### Artigo 4.º — Níveis de enquadramento\n\n1 - A reorganização administrativa territorial autárquica implica a agregação de freguesias a concretizar por referência aos limites territoriais do respetivo município, segundo parâmetros de agregação diferenciados em função do número de habitantes e da densidade populacional de cada município.\n\n2 - Para efeitos do número anterior, os municípios são classificados de acordo com os seguintes níveis:\n\na) Nível 1: municípios com densidade populacional superior a 1000 habitantes por km2 e com população igual ou superior a 40 000 habitantes;\n\nb) Nível 2: municípios com densidade populacional superior a 1000 habitantes por km2 e com população inferior a 40 000 habitantes, bem como municípios com densidade populacional entre 100 e 1000 habitantes por quilómetro quadrado e com população igual ou superior a 25 000 habitantes;\n\nc) Nível 3: municípios com densidade populacional entre 100 e 1000 habitantes por km2 e com população inferior a 25 000 habitantes, bem como municípios com densidade populacional inferior a 100 habitantes por quilómetro quadrado.\n\n3 - A classificação de cada município segundo os níveis previstos no número anterior consta do anexo i da presente lei, que dela faz parte integrante.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+  },
+  "165780975": {
+   "fragment_id": "107669094",
+   "type": 11,
+   "heading": "Artigo 5.º — Classificação de freguesias situadas em lugar urbano",
+   "in_force_from": "2021-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+   ],
+   "markdown": "###### Artigo 5.º — Classificação de freguesias situadas em lugar urbano\n\n1 - Para efeitos da presente lei, considera-se lugar urbano o lugar com população igual ou superior a 2000 habitantes, conforme o anexo ii da presente lei, que dela faz parte integrante.\n\n2 - Nos casos em que em cada um dos lugares urbanos ou em lugares urbanos sucessivamente contíguos do município se situe apenas o território de uma freguesia, deve esta ser considerada como não situada em lugar urbano para efeitos da aplicação do n.º 1 do artigo seguinte.\n\n3 - Em casos devidamente fundamentados, a assembleia municipal pode, no âmbito da respetiva pronúncia prevista no artigo 11.º da presente lei, considerar como não situadas nos lugares urbanos do município freguesias que como tal sejam consideradas nos termos dos números anteriores.\n\n4 - Para efeitos do disposto no número anterior, devem ser tomados em consideração, designadamente:\n\na) A tipologia predominante das atividades económicas;\n\nb) O grau de desenvolvimento das atividades geradoras de fluxos significativos de população, bens e informação;\n\nc) A dimensão e o grau de cobertura das infraestruturas urbanas e da prestação dos serviços associados, nomeadamente dos sistemas de transportes públicos, de abastecimento de água e saneamento, de distribuição de energia e de telecomunicações;\n\nd) O nível de aglomeração de edifícios.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+  },
+  "165780976": {
+   "fragment_id": "107669095",
+   "type": 11,
+   "heading": "Artigo 6.º — Parâmetros de agregação",
+   "in_force_from": "2021-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+   ],
+   "markdown": "###### Artigo 6.º — Parâmetros de agregação\n\n1 - A reorganização administrativa do território das freguesias deve alcançar os seguintes parâmetros de agregação:\n\na) Em cada município de nível 1, uma redução global do respetivo número de freguesias correspondente a, no mínimo, 55 % do número de freguesias cujo território se situe, total ou parcialmente, no mesmo lugar urbano ou em lugares urbanos sucessivamente contíguos e 35 % do número das outras freguesias;\n\nb) Em cada município de nível 2, uma redução global do respetivo número de freguesias correspondente a, no mínimo, 50 % do número de freguesias cujo território se situe, total ou parcialmente, no mesmo lugar urbano ou em lugares urbanos sucessivamente contíguos e 30 % do número das outras freguesias;\n\nc) Em cada município de nível 3, uma redução global do respetivo número de freguesias correspondente a, no mínimo, 50 % do número de freguesias cujo território se situe, total ou parcialmente no mesmo lugar urbano ou em lugares urbanos sucessivamente contíguos e 25 % do número das outras freguesias.\n\n2 - Da reorganização administrativa do território das freguesias não pode resultar a existência de freguesias com um número inferior a 150 habitantes.\n\n3 - Sem prejuízo do disposto no número anterior, a reorganização administrativa do território das freguesias não é obrigatória nos municípios em cujo território se situem quatro ou menos freguesias.\n\n4 - Sem prejuízo do disposto no n.º 2, nos casos em que o cumprimento dos parâmetros de agregação definidos no n.º 1 determine a existência de um número de freguesias inferior a quatro, a pronúncia da assembleia municipal, prevista no artigo 11.º da presente lei, pode contemplar a existência de quatro freguesias no território do respetivo município.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+  },
+  "165780977": {
+   "fragment_id": "107669096",
+   "type": 11,
+   "heading": "Artigo 7.º — Flexibilidade da pronúncia da assembleia municipal",
+   "in_force_from": "2021-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+   ],
+   "markdown": "###### Artigo 7.º — Flexibilidade da pronúncia da assembleia municipal\n\n1 - No exercício da respetiva pronúncia prevista no artigo 11.º da presente lei, a assembleia municipal goza de uma margem de flexibilidade que lhe permite, em casos devidamente fundamentados, propor uma redução do número de freguesias do respetivo município até 20 % inferior ao número global de freguesias a reduzir resultante da aplicação das percentagens previstas no n.º 1 do artigo 6.º\n\n2 - Em casos devidamente fundamentados, a assembleia municipal pode alcançar a redução global do número de freguesias prevista na presente lei aplicando proporções diferentes das consagradas no n.º 1 do artigo 6.º\n\n3 - O disposto no presente artigo não prejudica a obrigação prevista no n.º 2 do artigo 6.º\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+  },
+  "165780978": {
+   "fragment_id": "107669097",
+   "type": 11,
+   "heading": "Artigo 8.º — Orientações para a reorganização administrativa",
+   "in_force_from": "2021-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+   ],
+   "markdown": "###### Artigo 8.º — Orientações para a reorganização administrativa\n\nAs entidades que emitam pronúncia ou parecer sobre a reorganização administrativa do território das freguesias ao abrigo da presente lei consideram as seguintes orientações meramente indicativas:\n\na) A sede do município deve ser preferencialmente considerada como polo de atração das freguesias que lhe sejam contíguas, independentemente de nestas se situarem ou não lugares urbanos, de modo a promover as respetivas dinâmicas económicas e sociais;\n\nb) As freguesias com um índice de desenvolvimento económico e social mais elevado, um maior número de habitantes e uma maior concentração de equipamentos coletivos devem ser consideradas, no quadro da prestação de serviços públicos de proximidade, como preferenciais polos de atração das freguesias contíguas, sem prejuízo da consagração de soluções diferenciadas em função de razões de natureza histórica, cultural, social ou outras;\n\nc) As freguesias devem ter escala e dimensão demográfica adequadas, que correspondem indicativamente ao máximo de 50 000 habitantes e aos mínimos de:\n\ni) Nos municípios de nível 1, 20 000 habitantes por freguesia no lugar urbano e de 5000 habitantes nas outras freguesias;\n\nii) Nos municípios de nível 2, 15 000 habitantes por freguesia no lugar urbano e de 3000 nas outras freguesias;\n\niii) Nos municípios de nível 3, 2500 habitantes por freguesia no lugar urbano e de 500 habitantes nas outras freguesias.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+  },
+  "165780979": {
+   "fragment_id": "107669098",
+   "type": 11,
+   "heading": "Artigo 9.º — Agregação de freguesias",
+   "in_force_from": "2021-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+   ],
+   "markdown": "###### Artigo 9.º — Agregação de freguesias\n\n1 - A freguesia criada por efeito da agregação tem a faculdade de incluir na respetiva denominação a expressão «União das Freguesias», seguida das denominações de todas as freguesias anteriores que nela se agregam.\n\n2 - A freguesia criada por efeito da agregação constitui uma nova pessoa coletiva territorial, dispõe de uma única sede e integra o património, os recursos humanos, os direitos e as obrigações das freguesias agregadas.\n\n3 - A agregação das freguesias não põe em causa o interesse da preservação da identidade cultural e histórica, incluindo a manutenção dos símbolos das anteriores freguesias.\n\n4 - O Governo regula a possibilidade de os interessados nascidos antes da agregação de freguesias prevista na presente lei solicitarem a manutenção no registo civil da denominação da freguesia agregada onde nasceram.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+  },
+  "165564427": {
+   "fragment_id": "107669099",
+   "type": 11,
+   "heading": "Artigo 10.º — Reforço de competências e recursos financeiros",
+   "in_force_from": "2021-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+   ],
+   "markdown": "###### Artigo 10.º — Reforço de competências e recursos financeiros\n\n1 - A reorganização administrativa do território das freguesias é acompanhada de um novo regime de atribuições e competências, que reforça as competências próprias dos órgãos das freguesias e amplia as competências delegáveis previstas na lei, em termos a definir em diploma próprio.\n\n2 - As competências próprias das freguesias podem ser diferenciadas em função das suas específicas características demográficas e abrangem, designadamente, os seguintes domínios, em termos a definir em diploma próprio:\n\na) Manutenção de instalações e equipamentos educativos;\n\nb) Construção, gestão e conservação de espaços e equipamentos coletivos;\n\nc) Licenciamento de atividades económicas;\n\nd) Apoio social;\n\ne) Promoção do desenvolvimento local.\n\n3 - O reforço das competências próprias das freguesias é acompanhado do reforço das correspondentes transferências financeiras do Estado, calculadas no quadro da despesa histórica suportada pelo respetivo município no âmbito do seu exercício.\n\n4 - Sem prejuízo do disposto no número anterior, a participação no Fundo de Financiamento das Freguesias (FFF) da freguesia criada por agregação é aumentada em 15 % até ao final do mandato seguinte à agregação.\n\n5 - Excetua-se do disposto no número anterior a criação de freguesias por efeito da agregação que não resulte de pronúncia da assembleia municipal conforme com os princípios e parâmetros de agregação previstos na presente lei, não havendo, nesses casos, lugar a qualquer aumento na participação no FFF.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 39/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2021-165723198), em vigor a partir de 2021-12-21"
+  },
+  "107671202": {
+   "fragment_id": "107669114",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 13 de abril de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 17 de maio de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 18 de maio de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

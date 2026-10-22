@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:141245:por
+title: Decreto-Lei n.º 348/70
+short_title: null
+summary: Substitui a publicação no Diário do Governo das listas de antiguidades do pessoal civil dos quadros das direcções-gerais
+  dos Ministérios, dos serviços equiparados e dos organismos autónomos com sede na metrópole ou que tenham carácter nacional
+  pela sua simples distribuição através dos diversos organismos, de forma a possibilitar-se a sua fácil consulta pelo respectivo
+  pessoal - Revoga o artigo 26.º do Decreto n.º 19478
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Secretariado da Reforma Administrativa
+proposing_entity: null
+official_number: 348/70
+official_date: null
+publication_date: '1970-07-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 173/1970, Série I de 1970-07-27
+  number: '173'
+  series: I
+  supplement: null
+  pages: 993 - 994
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/07/17300/09930994.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '141245'
+  dre_path: /dr/detalhe/decreto-lei/348-1970-141245
+  internal: pt:dre:141245:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1970-141245
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1970-141245
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-12-30T00:00:00Z'
+integrity:
+  source_sha256: 89250995fdfaf881b28e6466bc5e77db594fdc79aac42950bee9c435f906210f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-348-141245.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:401756:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 348/70
+
+Nos termos do artigo 26.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931, as direcções-gerais dos Ministérios devem promover a publicação no Diário do Governo, até ao dia 31 de Março de cada ano, das listas de antiguidades do pessoal dos respectivos quadros, referidas a 31 de Dezembro anterior.
+
+O cumprimento dessa disposição de lei importa sensível sobrecarga para os serviços da Imprensa Nacional, uma vez que as listas a publicar em cada ano atingem algumas centenas de páginas, de difícil e morosa execução tipográfica. Daí os atrasos, que não tem sido possível evitar, na publicação de tais listas.
+
+A experiência aconselha, portanto, que se modifique o sistema vigente, de maneira a aliviar a Imprensa Nacional de trabalho pesado e dispensável e a conseguir que as listas cheguem ao conhecimento dos interessados com maior pontualidade.
+
+Por isso se adopta, no presente diploma, a solução de substituir a publicação das listas pela simples distribuição através dos diversos organismos, de forma a possibilitar-se a sua fácil consulta pelo pessoal. Como alguns serviços editam publicações oficiais, admite-se, em alternativa, que através delas dêem conhecimento das respectivas listas.
+
+Em qualquer dos casos, deverão os serviços publicar no Diário do Governo, até 31 de Março, o aviso relativo à organização das listas e sua distribuição ou publicação.
+
+A partir da data dessa publicação, começa a contagem do prazo de trinta dias para dedução das reclamações que os interessados queiram formular.
+
+O processo relativo a essas reclamações, bem como à oposição e aos recursos a que podem dar lugar, encontra-se regulado com suficiente pormenor neste diploma. De notar que as reclamações passam a ser decididas pelo dirigente dos serviços, e não, como actualmente, pelo Ministro, embora a este caiba conhecer dos recursos que dessas decisões venham a ser interpostos.
+
+A adopção do novo regime traduz-se, portanto, através da supressão de uma formalidade dispensável, em importante simplificação de serviços, que principalmente aproveita à Imprensa Nacional; permite aos servidores do Estado tomar conhecimento das listas de antiguidade em oportunidade mais próxima do período a que respeitam essas listas; acautela melhor os interesses desse pessoal, através de mais apropriado sistema de reclamações e recurso, e contribui, dentro do seu âmbito, para a política de desconcentração de competências, ao determinar que as reclamações sejam inicialmente decididas pelo dirigente dos serviços.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. As direcções-gerais dos Ministérios, os serviços equiparados e os organismos autónomos, com sede na metrópole ou que tenham carácter nacional, organizarão em cada ano listas de antiguidade do pessoal civil dos respectivos quadros, com referência a 31 de Dezembro do ano anterior.
+
+2. As listas de antiguidade ordenarão o pessoal pelas diversas categorias e classes, e, dentro delas, segundo a respectiva antiguidade, devendo conter ainda as seguintes indicações:
+
+a) Data da posse na categoria ou classe;
+
+b) Número de dias descontados nos termos do § 1.º do artigo 26.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983);
+
+c) Tempo contado para antiguidade, na categoria ou classe, referido a anos, meses e dias.
+
+3. As listas serão acompanhadas das observações que se mostrem necessárias à boa compreensão do seu conteúdo ou ao esclarecimento da situação dos servidores por elas abrangidos.
+
+###### Art. 2.º - 1. Aprovadas as listas pelos dirigentes dos serviços, serão as mesmas distribuídas, por cópias autenticadas, pelos diversos organismos dos serviços, de forma a possibilitar-se a sua fácil consulta pelo respectivo pessoal.
+
+2. A distribuição poderá ser substituída pela inclusão das listas em publicação oficial dos respectivos serviços.
+
+3. Efectuada a distribuição ou publicação das listas, será feito o correspondente aviso, que deverá ser publicado no Diário do Governo até 31 de Março.
+
+###### Art. 3.º - 1. Da organização das listas cabe reclamação, a deduzir no prazo de trinta dias, a contar da data da publicação do aviso a que se refere o n.º 3 do artigo anterior.
+
+2. A reclamação pode ter por fundamento omissão, indevida graduação eu situação na lista ou erro na contagem do tempo de serviço.
+
+3. A reclamação não pode fundamentar-se em contagem de tempo de serviço ou em outras circunstâncias que tenham sido consideradas em listas anteriores.
+
+###### Art. 4.º - 1. Apresentada a reclamação, serão notificados os que possam ser prejudicados pelo seu deferimento, para, no prazo de trinta dias, deduzir oposição ao pedido.
+
+2. A notificação poderá ser feita por auto, por ofício expedido com aviso de recepção ou por aviso publicado no Diário do Governo, em que se indiquem o reclamante e a respectiva pretensão e se convidem os interessados a deduzir oposição.
+
+3. Quaisquer interessados poderão tomar conhecimento dos termos da reclamação, nos serviços, durante o prazo concedido para a oposição.
+
+###### Art. 5.º - 1. As reclamações serão decididas pelo dirigente dos serviços, depois de obtidos os necessários esclarecimentos e prestadas as convenientes informações.
+
+2. As decisões serão notificadas ao reclamante e aos interessados que tenham formulado oposição, sendo aplicável a esta notificação o disposto no n.º 2 do artigo anterior.
+
+###### Art. 6.º - 1. Das decisões sobre reclamações cabe recurso para o Ministro, a interpor no prazo de trinta dias, a contar da notificação.
+
+2. Interposto recurso, observar-se-á, com as devidas adaptações, o disposto no artigo 4.º
+
+3. A decisão do recurso será notificada ao recorrente e aos interessados que tenham formulado oposição, com observância do disposto no n.º 2 do artigo 4.º
+
+###### Art. 7.º Os prazos estabelecidos no n.º 1 do artigo 3.º, no n.º 1 do artigo 4.º e no n.º 1 do artigo 6.º são fixados em sessenta e cento e vinte dias para o pessoal que preste serviço, respectivamente, nas ilhas adjacentes e nas províncias ultramarinas ou no estrangeiro.
+
+###### Art. 8.º - 1. Os serviços que não tenham publicado listas de antiguidades relativas a anos anteriores a 1969 poderão deixar de as distribuir ou publicar, admitindo-se reclamações, nesse caso, à lista de 1969, com fundamento em contagem de tempo ou outras circunstâncias consideradas nas listas não publicadas ou distribuídas.
+
+2. As listas de 1969, ainda não publicadas, deverão ser distribuídas ou dadas à publicidade, nos termos do presente diploma, dentro do prazo de sessenta dias a contar da sua vigência.
+
+###### Art. 9.º Fica revogado o corpo do artigo 26.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+**Promulgado em 17 de Julho de 1970, nos termos do § 2.º do artigo 80.º da Constituição.**
+
+**Publique-se.**
+
+Presidência da República, 27 de Julho de 1970. - MARCELLO CAETANO.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

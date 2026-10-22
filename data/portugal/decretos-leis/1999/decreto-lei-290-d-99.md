@@ -1,0 +1,984 @@
+---
+schema_version: '1.0'
+id: pt:dre:445741:por
+title: Decreto-Lei n.º 290-D/99
+short_title: null
+summary: Aprova o regime jurídico dos documentos electrónicos e da assinatura digital
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Ciência e da Tecnologia
+proposing_entity: null
+official_number: 290-D/99
+official_date: null
+publication_date: '1999-08-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1999, 1º Suplemento, Série I-A de 1999-08-02
+  number: '178'
+  series: I
+  supplement: 1º Suplemento
+  pages: 4990-(2) a 4990-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/178a01/00020011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-03-11'
+version_history:
+  file: decreto-lei-290-d-99.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-04'
+    amending: pt:dre:232885:por
+    amending_title: Decreto-Lei n.º 62/2003
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Capítulo II
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+  - date: '2006-06-21'
+    amending: pt:dre:548239:por
+    amending_title: Decreto-Lei n.º 116-A/2006
+    changes:
+    - Altera Artigo 9.º
+  - date: '2009-04-14'
+    amending: pt:dre:603950:por
+    amending_title: Decreto-Lei n.º 88/2009
+    changes:
+    - Adita Artigo 36.º-B
+    - Adita Artigo 36.º-C
+    - Altera Capítulo IV
+  - date: '2021-03-11'
+    amending: pt:dre:156848060:por
+    amending_title: Decreto-Lei n.º 12/2021
+    changes:
+    - Altera Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/290-d/1999/p/cons/20210209/pt/html
+  oj: null
+  dre: '445741'
+  dre_path: /dr/detalhe/decreto-lei/290-d-1999-445741
+  internal: pt:dre:445741:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-d-1999-445741
+  metadata_url: https://data.dre.pt/eli/dec-lei/290-d/1999/p/cons/20210209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34499375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34499375
+  retrieved_at: '2026-10-22T11:45:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bed1aeea54755cdb90bc9a0212e011da10d980152a9c8bea531c6773c39e38fd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:45:59Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-290-d-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Capital Social
+- Entidade Certificadora
+- Definição de Competências
+- Mudança Tecnológica
+- Fiscalização
+- Segurança da Informação
+- Licenciamento
+- Documento Eletrónico
+- Nova Tecnologia
+- Organismo do Estado
+- Prova
+- Assinatura Digital
+- Reprodução de Documentos
+- Responsabilidade Civil
+- Seguro Obrigatório de Responsabilidade Civil
+relationships:
+- type: amended_by
+  target: pt:dre:232885:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Capítulo II;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera
+    Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885
+  date: '2003-04-03'
+- type: amended_by
+  target: pt:dre:517375:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Capítulo II;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera
+    Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2004-517375
+  date: '2004-07-06'
+- type: amended_by
+  target: pt:dre:548239:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-a-2006-548239
+  date: '2006-06-16'
+- type: amended_by
+  target: pt:dre:603950:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950
+  date: '2009-04-09'
+- type: amended_by
+  target: pt:dre:156848060:por
+  label: Altera Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060
+  date: '2021-02-09'
+- type: cites
+  target: celex:31999L0093
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/115/1998/09/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/115/1998/09/01/p/dre
+article_structure:
+  article_count: 44
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:45:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 290-D/99
+
+A Resolução do Conselho de Ministros n.º 115/98, de 1 de Setembro, determinou a definição do regime jurídico aplicável aos documentos electrónicos e assinatura digital, como um dos objectivos a alcançar no âmbito da Iniciativa Nacional para o Comércio Electrónico, necessário à plena afirmação do comércio electrónico.
+
+As redes electrónicas abertas, como a Internet, têm assumido uma importância crescente na vida quotidiana dos cidadãos e dos agentes económicos, proporcionando uma teia de relações comerciais globais. Para aproveitar da melhor forma estas oportunidades, urge criar um ambiente seguro para a autenticação electrónica. Na realidade, as comunicações e o comércio electrónicos exigem assinaturas electrónicas e serviços a elas associados que permitam a autenticação electrónica dos dados.
+
+As assinaturas electrónicas possibilitam ao utente de dados enviados electronicamente que verifique a sua origem (autenticação), bem como se os dados foram entretanto alterados (integridade). Em matéria de assinatura electrónica, o presente diploma assenta no modelo tecnológico ora prevalecente: a assinatura digital produzida através de técnicas criptográficas. Como se depreende dos estudos disponíveis sobre tecnologias de assinaturas digitais baseadas na criptografia de chaves públicas, a assinatura digital constitui, neste momento, a técnica mais reconhecida de assinatura electrónica, apresentando o mais elevado grau de segurança para as trocas de dados em redes abertas. E é esta constatação do estado da tecnologia que tem levado as experiências legislativas estrangeiras a privilegiar esta forma de assinatura electrónica.
+
+Contudo, e considerando que em face do constante desenvolvimento tecnológico esta solução de autenticação de dados pode ser, em pouco tempo, tecnicamente ultrapassada pela afirmação de outras formas de assinatura electrónica, o regime previsto no presente diploma poderá vir a ser aplicado a outras modalidades de assinatura electrónica que satisfaçam os requisitos de segurança da assinatura digital.
+
+A verificação da autenticidade e da integridade dos dados, facultada pelas assinaturas electrónicas, em geral, e pela assinatura digital, em particular, não prova necessariamente a identidade do signatário que cria as assinaturas electrónicas. Assim, considera-se necessário, de acordo com a prática tecnicamente recomendada e internacionalmente consagrada, instituir um sistema de confirmação por entidades certificadoras, às quais incumbe assegurar os elevados níveis de segurança do sistema indispensáveis para a criação da desejada confiança no tocante às assinaturas de documentos electrónicos.
+
+Neste contexto, o presente diploma, por um lado, regula o reconhecimento e o valor jurídico dos documentos electrónicos e das assinaturas digitais e, por outro, confia o controlo da actividade de certificação de assinaturas a uma entidade a designar e define os poderes e procedimentos desta, bem como as condições de credenciação da actividade e os direitos e os deveres das entidades certificadoras.
+
+Esta actividade de certificação de assinaturas digitais, de harmonia com a orientação consagrada já noutros países da União Europeia, não está sujeita a autorização administrativa prévia. Importa, porém, que o Estado providencie um controlo das condições de idoneidade e segurança asseguradas pelas entidades certificadoras, e desse modo ofereça ao público e ao mercado a orientação e a garantia de qualidade que são indispensáveis para a confiança nos novos meios de documentação e assinatura. De harmonia com este desiderato, prevê-se um sistema voluntário de credenciação e fiscalização das entidades certificadoras pela autoridade competente.
+
+Com este diploma dá-se, em Portugal, o primeiro passo no sentido da consagração legal das assinaturas electrónicas,, acolhendo-se, designadamente, as soluções avançadas no quadro da União Europeia, na proposta de directiva do Parlamento Europeu e do Conselho, relativa a um quadro legal comunitário para as assinaturas electrónicas. A evolução tecnológica, que nesta matéria é constante, determinará a médio prazo a revisão, adaptação e aprofundamento do regime estabelecido no presente diploma.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Documentos e actos jurídicos electrónicos
+
+###### Artigo 1.º — Objecto
+
+O presente diploma regula a validade, eficácia e valor probatório dos documentos electrónicos, a assinatura electrónica e a actividade de certificação de entidades certificadoras estabelecidas em Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 2.º — Definições
+
+Para os fins do presente diploma, entende-se por:
+
+a) Documento electrónico: documento elaborado mediante processamento electrónico de dados;
+
+b) Assinatura electrónica: resultado de um processamento electrónico de dados susceptível de constituir objecto de direito individual e exclusivo e de ser utilizado para dar a conhecer a autoria de um documento electrónico;
+
+c) Assinatura electrónica avançada: assinatura electrónica que preenche os seguintes requisitos:
+
+i) Identifica de forma unívoca o titular como autor do documento;
+
+ii) A sua aposição ao documento depende apenas da vontade do titular;
+
+iii) É criada com meios que o titular pode manter sob seu controlo exclusivo;
+
+iv) A sua conexão com o documento permite detectar toda e qualquer alteração superveniente do conteúdo deste;
+
+d) Assinatura digital: modalidade de assinatura electrónica avançada baseada em sistema criptográfico assimétrico composto de um algoritmo ou série de algoritmos, mediante o qual é gerado um par de chaves assimétricas exclusivas e interdependentes, uma das quais privada e outra pública, e que permite ao titular usar a chave privada para declarar a autoria do documento electrónico ao qual a assinatura é aposta e concordância com o seu conteúdo e ao destinatário usar a chave pública para verificar se a assinatura foi criada mediante o uso da correspondente chave privada e se o documento electrónico foi alterado depois de aposta a assinatura;
+
+e) Assinatura digital: modalidade de assinatura electrónica avançada baseada em sistema criptográfico assimétrico composto de um algoritmo ou série de algoritmos, mediante o qual é gerado um par de chaves assimétricas exclusivas e interdependentes, uma das quais privada e outra pública, e que permite ao titular usar a chave privada para declarar a autoria do documento electrónico ao qual a assinatura é aposta e concordância com o seu conteúdo e ao destinatário usar a chave pública para verificar se a assinatura foi criada mediante o uso da correspondente chave privada e se o documento electrónico foi alterado depois de aposta a assinatura;
+
+f) Chave privada: elemento do par de chaves assimétricas destinado a ser conhecido apenas pelo seu titular, mediante o qual se apõe a assinatura digital no documento electrónico, ou se decifra um documento electrónico previamente cifrado com a correspondente chave pública;
+
+g) Assinatura electrónica qualificada: assinatura digital ou outra modalidade de assinatura electrónica avançada que satisfaça exigências de segurança idênticas às da assinatura digital baseadas num certificado qualificado e criadas através de um dispositivo seguro de criação de assinatura;
+
+h) Dados de criação de assinatura: conjunto único de dados, como chaves privadas, utilizado pelo titular para a criação de uma assinatura electrónica;
+
+i) Dispositivo de criação de assinatura: suporte lógico ou dispositivo de equipamento utilizado para possibilitar o tratamento dos dados de criação de assinatura;
+
+j) Dispositivo seguro de criação de assinatura: dispositivo de criação de assinatura que assegure, através de meios técnicos e processuais adequados, que:
+
+i) Os dados necessários à criação de uma assinatura utilizados na geração de uma assinatura só possam ocorrer uma única vez e que a confidencialidade desses dados se encontre assegurada;
+
+ii) Os dados necessários à criação de uma assinatura utilizados na geração de uma assinatura não possam, com um grau razoável de segurança, ser deduzidos de outros dados e que a assinatura esteja protegida contra falsificações realizadas através das tecnologias disponíveis;
+
+iii) Os dados necessários à criação de uma assinatura utilizados na geração de uma assinatura possam ser eficazmente protegidos pelo titular contra a utilização ilegítima por terceiros;
+
+iv) Os dados que careçam de assinatura não sejam modificados e possam ser apresentados ao titular antes do processo de assinatura;
+
+l) Dados de verificação de assinatura: conjunto de dados, como chaves públicas, utilizado para verificar uma assinatura electrónica;
+
+m) Credenciação: acto pelo qual é reconhecido a uma entidade que o solicite e que exerça a actividade de entidade certificadora o preenchimento dos requisitos definidos no presente diploma para os efeitos nele previstos;
+
+n) Assinatura electrónica qualificada: assinatura digital ou outra modalidade de assinatura electrónica avançada que satisfaça exigências de segurança idênticas às da assinatura digital baseadas num certificado qualificado e criadas através de um dispositivo seguro de criação de assinatura;
+
+o) Entidade certificadora: entidade ou pessoa singular ou colectiva que cria ou fornece meios para a criação e verificação das assinaturas, emite os certificados, assegura a respectiva publicidade e presta outros serviços relativos a assinaturas electrónicas;
+
+p) Certificado: documento electrónico que liga os dados de verificação de assinatura ao seu titular e confirma a identidade desse titular;
+
+q) Certificado qualificado: certificado que contém os elementos referidos no artigo 29.º e é emitido por entidade certificadora que reúne os requisitos definidos no artigo 24.º;
+
+r) Titular: pessoa singular ou colectiva identificada num certificado como a detentora de um dispositivo de criação de assinatura;
+
+s) Produto de assinatura electrónica: suporte lógico, dispositivo de equipamento ou seus componentes específicos, destinados a ser utilizados na prestação de serviços de assinatura electrónica qualificada por uma entidade certificadora ou na criação e verificação de assinatura electrónica qualificada;
+
+t) Organismo de certificação: entidade pública ou privada competente para a avaliação e certificação da conformidade dos processos, sistemas e produtos de assinatura electrónica com os requisitos a que se refere a alínea c) do n.º 1 do artigo 12.º;
+
+u) Dispositivo seguro de criação de assinatura: dispositivo de criação de assinatura que assegure, através de meios técnicos e processuais adequados, que:
+
+v) Dados de verificação de assinatura: conjunto de dados, como chaves públicas, utilizado para verificar uma assinatura electrónica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 3.º — Forma e força probatória
+
+1 - O documento electrónico satisfaz o requisito legal de forma escrita quando o seu conteúdo seja susceptível de representação como declaração escrita.
+
+2 - Quando lhe seja aposta uma assinatura electrónica qualificada certificada por uma entidade certificadora credenciada, o documento electrónico com o conteúdo referido no número anterior tem a força probatória de documento particular assinado, nos termos do artigo 376.º do Código Civil.
+
+3 - Quando lhe seja aposta uma assinatura electrónica qualificada certificada por uma entidade certificadora credenciada, o documento electrónico cujo conteúdo não seja susceptível de representação como declaração escrita tem a força probatória prevista no artigo 368.º do Código Civil e no artigo 167.º do Código de Processo Penal.
+
+4 - O disposto nos números anteriores não obsta à utilização de outro meio de comprovação da autoria e integridade de documentos electrónicos, incluindo outras modalidades de assinatura electrónica, desde que tal meio seja adoptado pelas partes ao abrigo de válida convenção sobre prova ou seja aceite pela pessoa a quem for oposto o documento.
+
+5 - Sem prejuízo do disposto no número anterior, o valor probatório dos documentos electrónicos aos quais não seja aposta uma assinatura electrónica qualificada certificada por entidade certificadora credenciada é apreciado nos termos gerais de direito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 4.º — Cópias de documentos
+
+As cópias de documentos electrónicos, sobre idêntico ou diferente tipo de suporte, são válidas e eficazes nos termos gerais de direito e têm a força probatória atribuída às cópias fotográficas pelo n.º 2 do artigo 387.º do Código Civil e pelo artigo 168.º do Código de Processo Penal, se forem observados os requisitos aí previstos.
+
+###### Artigo 5.º — Documentos electrónicos das entidades públicas
+
+1 - As entidades públicas podem emitir documentos electrónicos com assinatura electrónica qualificada aposta em conformidade com as normas do presente decreto-lei e com o disposto no Decreto-Lei n.º 116-A/2006, de 16 de Junho.
+
+2 - Nas operações relativas à criação, emissão, arquivo, reprodução, cópia e transmissão de documentos electrónicos que formalizem actos administrativos através de sistemas informáticos, incluindo a sua transmissão por meios de telecomunicações, os dados relativos à entidade interessada e à pessoa que tenha praticado cada acto administrativo podem ser indicados de forma a torná-los facilmente identificáveis e a comprovar a função ou cargo desempenhado pela pessoa signatária de cada documento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 6.º — Comunicação de documentos electrónicos
+
+1 - O documento electrónico comunicado por um meio de telecomunicações considera-se enviado e recebido pelo destinatário se for transmitido para o endereço electrónico definido por acordo das partes e neste for recebido.
+
+2 - São oponíveis entre as partes e a terceiros a data e a hora da criação, da expedição ou da recepção de um documento electrónico que contenha uma validação cronológica emitida por uma entidade certificadora.
+
+3 - A comunicação do documento electrónico, ao qual seja aposta assinatura electrónica qualificada, por meio de telecomunicações que assegure a efectiva recepção equivale à remessa por via postal registada e, se a recepção for comprovada por mensagem de confirmação dirigida ao remetente pelo destinatário que revista idêntica forma, equivale à remessa por via postal registada com aviso de recepção.
+
+4 - Os dados e documentos comunicados por meio de telecomunicações consideram-se em poder do remetente até à recepção pelo destinatário.
+
+5 - Os operadores que assegurem a comunicação de documentos electrónicos por meio de telecomunicações não podem tomar conhecimento do seu conteúdo, nem duplicá-los por qualquer meio ou ceder a terceiros qualquer informação, ainda que resumida ou por extracto, sobre a existência ou sobre o conteúdo desses documentos, salvo quando se trate de informação que, pela sua natureza ou por indicação expressa do seu remetente, se destine a ser tornada pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+### Capítulo II — Assinaturas electrónicas qualificadas
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 7.º — Assinatura electrónica qualificada
+
+1 - A aposição de uma assinatura electrónica qualificada a um documento electrónico equivale à assinatura autógrafa dos documentos com forma escrita sobre suporte de papel e cria a presunção de que:
+
+a) A pessoa que apôs a assinatura electrónica qualificada é o titular desta ou é representante, com poderes bastantes, da pessoa colectiva titular da assinatura electrónica qualificada;
+
+b) A assinatura electrónica qualificada foi aposta com a intenção de assinar o documento electrónico;
+
+c) O documento electrónico não sofreu alteração desde que lhe foi aposta a assinatura electrónica qualificada.
+
+2 - A assinatura electrónica qualificada deve referir-se inequivocamente a uma só pessoa singular ou colectiva e ao documento ao qual é aposta.
+
+3 - A aposição de assinatura electrónica qualificada substitui, para todos os efeitos legais, a aposição de selos, carimbos, marcas ou outros sinais identificadores do seu titular.
+
+4 - A aposição de assinatura electrónica qualificada que conste de certificado que esteja revogado, caduco ou suspenso na data da aposição ou não respeite as condições dele constantes equivale à falta de assinatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 8.º — Obtenção dos dados de assinatura e certificado
+
+Quem pretenda utilizar uma assinatura electrónica qualificada deve, nos termos do n.º 1 do artigo 28.º, gerar ou obter os dados de criação e verificação de assinatura, bem como obter o respectivo certificado emitido por entidade certificadora nos termos deste diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+### Capítulo III — Certificação
+
+#### Secção I — Acesso à actividade de certificação
+
+###### Artigo 9.º — Livre acesso à actividade de certificação
+
+1 - É livre o exercício da actividade de entidade certificadora, sendo facultativa a solicitação da credenciação regulada nos artigos 11.º e seguintes.
+
+2 - Sem prejuízo do disposto no número anterior, as entidades certificadoras que emitam certificados qualificados devem proceder ao seu registo junto da autoridade credenciadora, nos termos a fixar por portaria do membro do Governo responsável pela autoridade credenciadora.
+
+3 - A credenciação e o registo estão sujeitos ao pagamento de taxas em função dos custos associados às tarefas administrativas, técnicas, operacionais e de fiscalização correspondentes, nos termos a fixar por despacho conjunto do membro do Governo responsável pela autoridade credenciadora e do Ministro das Finanças, que constituem receita da autoridade credenciadora.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 116-A/2006 - Diário da República n.º 115/2006, 2º Suplemento, Série I-A de 2006-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-a-2006-548239), em vigor a partir de 2006-06-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 10.º — Livre escolha da entidade certificadora
+
+1 - É livre a escolha da entidade certificadora.
+
+2 - A escolha de entidade determinada não pode constituir condição de oferta ou de celebração de qualquer negócio jurídico.
+
+###### Artigo 11.º — Entidade competente para a credenciação
+
+A credenciação de entidades certificadoras para efeitos do presente diploma compete à autoridade credenciadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 12.º — Credenciação da entidade certificadora
+
+1 - É concedida a credenciação a entidades certificadoras de assinaturas electrónicas qualificadas, mediante pedido apresentado à autoridade credenciadora, que satisfaçam os seguintes requisitos:
+
+a) Estejam dotadas de capital e meios financeiros adequados;
+
+b) Dêem garantias de absoluta integridade e independência no exercício da actividade de certificação de assinaturas electrónicas qualificadas;
+
+c) Disponham de recursos técnicos e humanos que satisfaçam os padrões de segurança e de eficácia que sejam previstos na regulamentação a que se refere o artigo 39.º;
+
+d) Mantenham contrato de seguro válido para cobertura adequada da responsabilidade civil emergente da actividade de certificação.
+
+2 - A credenciação é válida pelo período de três anos, podendo ser objecto de renovação por períodos de igual duração.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 13.º — Pedido de credenciação
+
+1 - O pedido de credenciação de entidade certificadora deve ser instruído com os seguintes documentos:
+
+a) Estatutos da pessoa colectiva e, tratando-se de sociedade, contrato de sociedade ou, tratando-se de pessoa singular, a respectiva identificação e domicílio;
+
+b) Tratando-se de sociedade, relação de todos os sócios, com especificação das respectivas participações, bem como dos membros dos órgãos de administração e de fiscalização, e, tratando-se de sociedade anónima, relação de todos os accionistas com participações significativas, directas ou indirectas;
+
+c) Declarações subscritas por todas as pessoas singulares e colectivas referidas no n.º 1 do artigo 15.º de que não se encontram em nenhuma das situações indiciadoras de inidoneidade referidas no respectivo n.º 2;
+
+d) Prova do substrato patrimonial e dos meios financeiros disponíveis e, designadamente, tratando-se de sociedade, da realização integral do capital social;
+
+e) Descrição da organização interna e plano de segurança;
+
+f) Demonstração dos meios técnicos e humanos exigidos nos termos do diploma regulamentar a que se refere a alínea c) do n.º 1 do artigo 12.º, incluindo certificados de conformidade dos produtos de assinatura electrónica emitidos por organismo reconhecido de certificação acreditado nos termos previstos no artigo 37.º;
+
+g) Designação do auditor de segurança;
+
+h) Programa geral da actividade prevista para os primeiros três anos;
+
+i) Descrição geral das actividades exercidas nos últimos três anos ou no tempo decorrido desde a constituição, se for inferior, e balanço e contas dos exercícios correspondentes;
+
+j) Comprovação de contrato de seguro válido para cobertura adequada da responsabilidade civil emergente da actividade de certificação.
+
+2 - Se à data do pedido a pessoa colectiva não estiver constituída, o pedido será instruído, em substituição do previsto na alínea a) do número anterior, com os seguintes documentos:
+
+a) Acta da reunião em que foi deliberada a constituição;
+
+b) Projecto de estatutos ou contrato de sociedade;
+
+c) Declaração de compromisso, subscrita por todos os fundadores, de que no acto de constituição, e como condição dela, estará integralmente realizado o substrato patrimonial exigido por lei.
+
+3 - As declarações previstas na alínea c) do n.º 1 poderão ser entregues em momento posterior ao pedido, nos termos e prazo que a autoridade credenciadora fixar.
+
+4 - Consideram-se como participações significativas, para os efeitos do presente diploma, as que igualem ou excedam 10% do capital da sociedade anónima.
+
+5 - O pedido de renovação de credenciação deve ser instruído com os seguintes documentos:
+
+a) Programa geral da actividade prevista para os próximos três anos;
+
+b) Descrição geral das actividades exercidas nos últimos três anos e balanço e contas dos exercícios correspondentes;
+
+c) Declaração em como todos os elementos referidos no n.º 1 deste artigo e nos n.os 2 e 3 do artigo 32.º não sofreram alteração desde a sua apresentação à autoridade credenciadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 14.º — Requisitos patrimoniais
+
+1 - As entidades certificadoras privadas, que sejam pessoas colectivas, devem estar dotadas de capital social no valor mínimo de (euro) 200000 ou, não sendo sociedades, do substrato patrimonial equivalente.
+
+2 - O substrato patrimonial, e designadamente o capital social mínimo de sociedade, encontrar-se-á sempre integralmente realizado à data da credenciação, se a pessoa colectiva estiver já constituída, ou será sempre integralmente realizado com a constituição da pessoa colectiva, se esta ocorrer posteriormente.
+
+3 - As entidades certificadoras que sejam pessoas singulares devem ter e manter durante toda a sua actividade um património, livre de quaisquer ónus, de valor equivalente ao previsto no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 15.º — Requisitos de idoneidade
+
+1 - A pessoa singular e, no caso de pessoa colectiva, os membros dos órgãos de administração e fiscalização, os empregados, comitidos e representantes das entidades certificadoras com acesso aos actos e instrumentos de certificação, os sócios da sociedade e, tratando-se de sociedade anónima, os accionistas com participações significativas serão sempre pessoas de reconhecida idoneidade.
+
+2 - Entre outras circunstâncias atendíveis, considera-se indiciador de falta de idoneidade o facto de a pessoa ter sido:
+
+a) Condenada, no País ou no estrangeiro, por crime de furto, roubo, burla, burla informática e nas comunicações, extorsão, abuso de confiança, infidelidade, falsificação, falsas declarações, insolvência dolosa, insolvência negligente, favorecimento de credores, emissão de cheques sem provisão, abuso de cartão de garantia ou de crédito, apropriação ilegítima de bens do sector público ou cooperativo, administração danosa em unidade económica do sector público ou cooperativo, usura, suborno, corrupção, recepção não autorizada de depósitos ou outros fundos reembolsáveis, prática ilícita de actos ou operações inerentes à actividade seguradora ou dos fundos de pensões, branqueamento de capitais, abuso de informação, manipulação do mercado de valores mobiliários ou crime previsto no Código das Sociedades Comerciais;
+
+b) Declarada, por sentença nacional ou estrangeira, falida ou insolvente ou julgada responsável por falência ou insolvência de empresa por ela dominada ou de cujos órgãos de administração ou fiscalização tenha sido membro;
+
+c) Sujeita a sanções, no País ou no estrangeiro, pela prática de infracções às normas legais ou regulamentares que regem as actividades de produção, autenticação, registo e conservação de documentos, designadamente as do notariado, dos registos públicos, do funcionalismo judicial, das bibliotecas públicas e da certificação de assinaturas electrónicas qualificadas.
+
+3 - A falta dos requisitos de idoneidade previstos no presente artigo constitui fundamento de recusa e de revogação da credenciação, nos termos da alínea c) do n.º 1 do artigo 18.º e da alínea f) do n.º 1 do artigo 20.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 16.º — Seguro obrigatório de responsabilidade civil
+
+1 - A autoridade credenciadora poderá solicitar dos requerentes informações complementares e proceder, por si ou por quem para o efeito designar, às averiguações, inquirições e inspecções que entenda necessárias para a apreciação do pedido.
+
+2 - A decisão sobre o pedido de credenciação ou sua renovação deve ser notificada aos interessados no prazo de três meses a contar da recepção do pedido ou, se for o caso, a contar da recepção das informações complementares solicitadas ou da conclusão das diligências que entenda necessárias, não podendo no entanto exceder o prazo de seis meses sobre a data da recepção daquele.
+
+3 - A falta de notificação nos prazos referidos no número anterior constitui presunção de indeferimento tácito do pedido.
+
+4 - A credenciação é inscrita no registo a que se refere o n.º 2 do artigo 9.º e publicada no Diário da República, 2.ª série.
+
+5 - A decisão de credenciação é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 17.º — Decisão
+
+1 - A credenciação é recusada sempre que:
+
+a) O pedido de credenciação não estiver instruído  com todas as informações e documentos necessários;
+
+b) A instrução do pedido enfermar de inexactidões ou falsidades;
+
+c) A autoridade credenciadora não considerar demonstrado algum dos requisitos enumerados nos artigos 12.º e seguintes.
+
+2 - A decisão sobre o pedido de credenciação ou sua renovação deve ser notificada aos interessados no prazo de três meses a contar da recepção do pedido ou, se for o caso, a contar da recepção das informações complementares solicitadas ou da conclusão das diligências que entenda necessárias, não podendo no entanto exceder o prazo de seis meses sobre a data da recepção daquele.
+
+3 - A falta de notificação nos prazos referidos no número anterior constitui presunção de indeferimento tácito do pedido.
+
+4 - A credenciação é inscrita no registo a que se refere o n.º 2 do artigo 9.º e publicada no Diário da República, 2.ª série.
+
+5 - A decisão de credenciação é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 18.º — Recusa de credenciação
+
+1 - A credenciação é recusada sempre que:
+
+a) Quando a actividade de certificação não seja iniciada no prazo de 12 meses após a recepção da notificação da credenciação;
+
+b) Quando, tratando-se de pessoa colectiva, esta seja dissolvida, sem prejuízo dos actos necessários à respectiva liquidação;
+
+c) A autoridade credenciadora não considerar demonstrado algum dos requisitos enumerados nos artigos 12.º e seguintes.
+
+2 - A caducidade da credenciação é inscrita no registo a que se refere o n.º 2 do artigo 9.º e publicada na 2.ª série do Diário da República.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 19.º — Caducidade da credenciação
+
+1 - A credenciação caduca nos seguintes casos:
+
+a) Quando a actividade de certificação não seja iniciada no prazo de 12 meses após a recepção da notificação da credenciação;
+
+b) Quando, tratando-se de pessoa colectiva, esta seja dissolvida, sem prejuízo dos actos necessários à respectiva liquidação;
+
+c) Quando, tratando-se de pessoa singular, esta faleça ou seja declarada interdita ou inabilitada;
+
+d) Quando, findo o prazo de validade, a credenciação não tenha sido objecto de renovação.
+
+2 - A caducidade da credenciação é inscrita no registo a que se refere o n.º 2 do artigo 9.º e publicada na 2.ª série do Diário da República.
+
+3 - A caducidade da credenciação é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 20.º — Revogação da credenciação
+
+1 - A credenciação é revogada, sem prejuízo de outras sanções aplicáveis nos termos da lei, quando se verifique alguma das seguintes situações:
+
+a) Se tiver sido obtida por meio de falsas declarações ou outros expedientes ilícitos;
+
+b) Se deixar de se verificar algum dos requisitos enumerados no artigo 12.º;
+
+c) Se a entidade cessar a actividade de certificação ou a reduzir para nível insignificante por período superior a 12 meses;
+
+d) Se ocorrerem irregularidades graves na administração, organização ou fiscalização interna da entidade;
+
+e) Se no exercício da actividade de certificação ou de outra actividade social forem praticados actos ilícitos que lesem ou ponham em perigo a confiança do público na certificação;
+
+f) Se supervenientemente se verificar alguma das circunstâncias de inidoneidade referidas no artigo 15.º em relação a qualquer das pessoas a que alude o seu n.º 1.
+
+g) Se os certificados do organismo de certificação referidos na alínea f) do n.º 1 do artigo 13.º tiverem sido revogados.
+
+2 - A revogação da credenciação compete à autoridade credenciadora, em decisão fundamentada que será notificada à entidade no prazo de oito dias úteis.
+
+3 - A decisão de revogação é inscrita no registo a que se refere o n.º 2 do artigo 9.º e publicada na 2.ª série do Diário da República.
+
+4 - A decisão de revogação é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 21.º — Anomalias nos órgãos de administração e fiscalização
+
+1 - Se por qualquer motivo deixarem de estar preenchidos os requisitos legais e estatutários do normal funcionamento dos órgãos de administração ou fiscalização, a autoridade credenciadora fixará prazo para ser regularizada a situação.
+
+2 - Não sendo regularizada a situação no prazo fixado, será revogada a credenciação nos termos do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 22.º — Comunicação de alterações
+
+1 — O registo das pessoas referidas no n.o 1 doartigo 15.º deve ser solicitado à autoridade credenciadora no prazo de 15 dias após assumirem qualquer das qualidades nele referidas, mediante pedido da entidade certificadora ou dos interessados, juntamente com as provas de que se encontram preenchidos os requisitos definidos no mesmo artigo, sob pena de a credenciação ser revogada.
+
+2 — Poderão a entidade certificadora ou os interessados solicitar o registo provisório, antes da assunção por estes de qualquer das qualidades referidas no n.º 1 do artigo 15.º, devendo a conversão do registo em definitivo ser requerida no prazo de 30 dias a contar da
+
+designação, sob pena de caducidade.
+
+3 — Em caso de recondução, será esta averbada no registo, a pedido da entidade certificadora ou dos interessados.
+
+4 - O registo é recusado em caso de inidoneidade, nos termos do artigo 15.º, e a recusa é comunicada aos interessados e à entidade certificadora, a qual deve tomar as medidas adequadas para que aqueles cessem imediatamente funções ou deixem de estar para com a pessoa colectiva na relação prevista no mesmo artigo, seguindo-se no aplicável o disposto no artigo 21.º
+
+5- Sem prejuízo do que resulte de outras disposições legais aplicáveis, a falta de registo não determina por si só invalidade dos actos jurídicos praticados pela pessoa em causa no exercício das suas funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 23.º — Registo de alterações
+
+1 - O registo das pessoas referidas no n.º 1 do artigo 15.º deve ser solicitado à autoridade credenciadora no prazo de 15 dias após assumirem qualquer das qualidades nele referidas, mediante pedido da entidade certificadora ou dos interessados, juntamente com as provas de que se encontram preenchidos os requisitos definidos no mesmo artigo, sob pena de a credenciação ser revogada.
+
+2 - Poderão a entidade certificadora ou os interessados solicitar o registo provisório, antes da assunção por estes de qualquer das qualidades referidas no n.º 1 do artigo 15.º, devendo a conversão do registo em definitivo ser requerida no prazo de 30 dias a contar da designação, sob pena de caducidade.
+
+3 - Em caso de recondução, será esta averbada no registo, a pedido da entidade certificadora ou dos interessados.
+
+4 - O registo é recusado em caso de inidoneidade, nos termos do artigo 15.º, e a recusa é comunicada aos interessados e à entidade certificadora, a qual deve tomar as medidas adequadas para que aqueles cessem imediatamente funções ou deixem de estar para com a pessoa colectiva na relação prevista no mesmo artigo, seguindo-se no aplicável o disposto no artigo 21.º
+
+5 - Sem prejuízo do que resulte de outras disposições legais aplicáveis, a falta de registo não determina por si só invalidade dos actos jurídicos praticados pela pessoa em causa no exercício das suas funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+#### Secção II — Exercício da actividade
+
+###### Artigo 24.º — Deveres da entidade certificadora que emite certificados qualificados
+
+Compete à entidade certificadora que emite certificados qualificados:
+
+a) Estar dotada dos requisitos patrimoniais estabelecidos no artigo 14.º;
+
+b) Oferecer garantias de absoluta integridade e independência no exercício da actividade de certificação;
+
+c) Demonstrar a fiabilidade necessária para o exercício da actividade de certificação;
+
+d) Manter um contrato de seguro válido para a cobertura adequada da responsabilidade civil emergente da actividade de certificação, nos termos previstos no artigo 16.º;
+
+e) Dispor de recursos técnicos e humanos que satisfaçam os padrões de segurança e eficácia, nos termos do diploma regulamentar;
+
+f) Utilizar sistemas e produtos fiáveis protegidos contra qualquer modificação e que garantam a segurança técnica dos processos para os quais estejam previstos;
+
+g) Adoptar medidas adequadas para impedir a falsificação ou alteração dos dados constantes dos certificados e, nos casos em que a entidade certificadora gere dados de criação de assinaturas, garantir a sua confidencialidade durante o processo de criação;
+
+h) Utilizar sistemas fiáveis de conservação dos certificados, de forma que:
+
+i) Os certificados só possam ser consultados pelo público nos casos em que tenha sido obtido o consentimento do seu titular;
+
+ii) Apenas as pessoas autorizadas possam inserir dados e alterações aos certificados;
+
+iii) A autenticidade das informações possa ser verificada; e
+
+iv) Quaisquer alterações de carácter técnico susceptíveis de afectar os requisitos de segurança sejam imediatamente detectáveis;
+
+i) Verificar rigorosamente a identidade dos requerentes titulares dos certificados e, tratando-se de representantes de pessoas colectivas, os respectivos poderes de representação, bem como, quando aplicável, as qualidades específicas a que se refere a alínea i) do n.º 1 do artigo 29.º;
+
+j) Conservar os elementos que comprovem a verdadeira identidade dos requerentes titulares de certificados com pseudónimo;
+
+l) Informar os requerentes, por forma escrita, de modo completo e claro, sobre o processo de emissão de certificados qualificados e os termos e condições exactos de utilização do certificado qualificado, incluindo eventuais restrições à sua utilização;
+
+m) Cumprir as regras de segurança para tratamento de dados pessoais estabelecidas na legislação respectiva;
+
+n) Não armazenar ou copiar dados de criação de assinaturas do titular a quem a entidade certificadora tenha oferecido serviços de gestão de chaves;
+
+o) Assegurar o funcionamento de um serviço que:
+
+i) Permita a consulta, de forma célere e segura, do registo informático dos certificados emitidos, revogados, suspensos ou caducados; e
+
+ii) Garanta, de forma imediata e segura, a revogação, suspensão ou caducidade dos certificados;
+
+p) Proceder à publicação imediata da revogação ou suspensão dos certificados, nos casos previstos no presente diploma;
+
+q) Assegurar que a data e hora da emissão, suspensão e revogação dos certificados possam ser determinadas através de validação cronológica.
+
+r) Conservar os certificados que emitir, por um período não inferior a 20 anos;
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 25.º — Protecção de dados
+
+1 - As entidades certificadoras só podem coligir dados pessoais necessários ao exercício das suas actividades e obtê-los directamente das pessoas interessadas na titularidade dos dados de criação e verificação de assinatura e respectivos certificados, ou de terceiros junto dos quais aquelas pessoas autorizem a sua colecta.
+
+2 - Os dados pessoais coligidos pela entidade certificadora não poderão ser utilizados para outra finalidade que não seja a de certificação, salvo se outro uso for consentido expressamente por lei ou pela pessoa interessada.
+
+3 - As entidades certificadoras e a autoridade credenciadora respeitarão as normas legais vigentes sobre a protecção, tratamento e circulação dos dados pessoais e sobre a protecção da privacidade no sector das telecomunicações.
+
+4 - As entidades certificadoras comunicarão à autoridade judiciária, sempre que esta o ordenar nos termos legalmente previstos, os dados relativos à identidade dos titulares de certificados que sejam emitidos com pseudónimo seguindo-se, no aplicável, o regime do artigo 182.º do Código de Processo Penal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 26.º — Responsabilidade civil
+
+1 - A entidade certificadora é civilmente responsável pelos danos sofridos pelos titulares dos certificados e por terceiros, em consequência do incumprimento dos deveres que lhe incumbem por força do presente diploma e da sua regulamentação, excepto se provar que não actuou de forma dolosa ou negligente.
+
+2 - No caso de pretender cessar voluntariamente a sua actividade, a entidade certificadora que emite certificados qualificados deve comunicar essa intenção à autoridade credenciadora e às pessoas a quem tenha emitido certificados que permaneçam em vigor, com a antecipação mínima de três meses, indicando também qual a entidade certificadora à qual é transmitida a sua documentação ou a revogação dos certificados no termo daquele prazo, devendo neste último caso, quando seja credenciada, colocar a sua documentação à guarda da autoridade credenciadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 27.º — Cessação da actividade
+
+1 - No caso de pretender cessar voluntariamente a sua actividade, a entidade certificadora que emite certificados qualificados deve comunicar essa intenção à autoridade credenciadora e às pessoas a quem tenha emitido certificados que permaneçam em vigor, com a antecipação mínima de três meses, indicando também qual a entidade certificadora à qual é transmitida a sua documentação ou a revogação dos certificados no termo daquele prazo, devendo neste último caso, quando seja credenciada, colocar a sua documentação à guarda da autoridade credenciadora.
+
+2 - A entidade certificadora que emite certificados qualificados que se encontre em risco de decretação de falência, de processo de recuperação de empresa ou de cessação da actividade por qualquer outro motivo alheio à sua vontade deve informar imediatamente a autoridade credenciadora.
+
+3 — A entidade certificadora deve tomar medidas adequadas para impedir a falsificação ou alteração dos dados constantes dos certificados e assegurar o cumprimento das normas legais e regulamentares aplicáveis recorrendo a pessoal devidamente habilitado.
+
+4 - A cessação da actividade de entidade certificadora que emite certificados qualificados é inscrita no registo a que se refere o n.º 2 do artigo 9.º e publicada na 2.ª série do Diário da República.
+
+5 - A cessação da actividade de entidade certificadora é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+#### Secção III — Certificados
+
+###### Artigo 28.º — Emissão dos certificados qualificados
+
+1 - A entidade certificadora emite, a pedido de uma pessoa singular ou colectiva interessada e a favor desta, os dados de criação e de verificação de assinatura ou, se tal for solicitado, coloca à disposição os meios técnicos necessários para que esta os crie, devendo sempre verificar, por meio legalmente idóneo e seguro, a identidade e, quando existam, os poderes de representação da requerente.
+
+2 - A entidade certificadora emite, a pedido do titular, uma ou mais vias do certificado e do certificado complementar.
+
+3 - A entidade certificadora deve tomar medidas adequadas para impedir a falsificação ou alteração dos dados constantes dos certificados e assegurar o cumprimento das normas legais e regulamentares aplicáveis recorrendo a pessoal devidamente habilitado.
+
+4 - A entidade certificadora fornece aos titulares dos certificados as informações necessárias para a utilização correcta e segura das assinaturas, nomeadamente as respeitantes:
+
+a) Às obrigações do titular do certificado e da entidade certificadora;
+
+b) Ao procedimento de aposição e verificação de assinatura;
+
+c) À conveniência de os documentos aos quais foi aposta uma assinatura serem novamente assinados quando ocorrerem circunstâncias técnicas que o justifiquem;
+
+d) À força probatória dos documentos aos quais seja aposta uma assinatura electrónica.
+
+5 - A entidade certificadora organizará e manterá permanentemente actualizado um registo informático dos certificados emitidos, suspensos ou revogados, o qual estará acessível a qualquer pessoa para consulta, inclusivamente por meio de telecomunicações, e será protegido contra alterações não autorizadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 29.º — Conteúdo dos certificados qualificados
+
+1 - O certificado qualificado deve conter, pelo menos, as seguintes informações:
+
+a) Nome ou denominação do titular da assinatura e outros elementos necessários para a sua identificação inequívoca e, quando existam poderes de representação, o nome do seu representante ou representantes habilitados, ou um pseudónimo distintivo do titular da assinatura, claramente mencionado como tal;
+
+b) Nome e assinatura electrónica avançada da entidade certificadora, bem como indicação do país onde se encontra estabelecida;
+
+c) Dados de verificação de assinatura correspondentes aos dados de criação de assinatura detidos pelo titular;
+
+d) Número de série do certificado;
+
+e) [Anterior alínea e) do n.º 1 do artigo 30.º]
+
+f) Identificadores de algoritmos utilizados na verificação de assinaturas do titular e da entidade certificadora;
+
+g) Indicação de o uso do certificado ser ou não restrito a determinados tipos de utilização, bem como eventuais limites do valor das transacções para as quais o certificado é válido;
+
+h) Limitações convencionais da responsabilidade da entidade certificadora, sem prejuízo do disposto no n.º 2 do artigo 26.º;
+
+i) Eventual referência a uma qualidade específica do titular da assinatura, em função da utilização a que o certificado estiver destinado;
+
+j) Indicação de que é emitido como certificado qualificado;
+
+l) Indicação sempre que a chave privada do titular esteja armazenada num dispositivo seguro de criação de assinatura.
+
+2 - A pedido do titular podem ser incluídas no certificado de assinatura ou em certificado complementar informações relativas a poderes de representação conferidos ao titular por terceiro, à sua qualificação profissional ou a outros atributos, mediante fornecimento da respectiva prova, ou com a menção de se tratar de informações não confirmadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-04
+
+> Alterado pelo/a [Decreto-Lei n.º 165/2004 - Diário da República n.º 157/2004, Série I-A de 2004-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2004-517375), em vigor a partir de 2004-06-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 30.º — Suspensão e revogação dos certificados qualificados
+
+1 - A entidade certificadora suspende o certificado:
+
+a) A pedido do titular, devidamente identificado para o efeito;
+
+b) Quando existam fundadas razões para crer que o certificado foi emitido com base em informações erróneas ou falsas, que as informações nele contidas deixaram de ser conformes com a realidade ou que a confidencialidade dos dados de criação de assinatura não está assegurada.
+
+2 - A suspensão com um dos fundamentos previstos na alínea b) do número anterior será sempre motivada e comunicada prontamente ao titular, bem como imediatamente inscrita no registo do certificado, podendo ser levantada quando se verifique que tal fundamento não corresponde à realidade.
+
+3 - A entidade certificadora revogará o certificado:
+
+a) A pedido do titular, devidamente identificado para o efeito;
+
+b) Quando, após suspensão do certificado, se confirme que o certificado foi emitido com base em informações erróneas ou falsas, que as informações nele contidas deixaram de ser conformes com a realidade ou que a confidencialidade dos dados de criação de assinatura não está assegurada;
+
+c) Quando a entidade certificadora cesse as suas actividades sem ter transmitido a sua documentação a outra entidade certificadora;
+
+d) Quando a autoridade credenciadora ordene a revogação do certificado por motivo legalmente fundado;
+
+4 - A decisão de revogação do certificado com um dos fundamentos previstos nas alíneas b), c) e d) do n.º 3 será sempre fundamentada e comunicada ao titular, bem como imediatamente inscrita.
+
+5 - A suspensão e a revogação do certificado são oponíveis a terceiros a partir da inscrição no registo respectivo, salvo se for provado que o seu motivo já era do conhecimento do terceiro.
+
+6 - A entidade certiflcadora conservará as informações referentes aos certificados durante um prazo não inferior a 20 anos a contar da suspensão ou revogação de cada certificado e facultá-las-á a qualquer interessado.
+
+7 - A revogação ou suspensão do certificado indicará a data e hora a partir das quais produzem efeitos, não podendo essa data e hora ser anterior àquela em que essa informação for divulgada publicamente.
+
+8 - A partir da suspensão ou revogação de um certificado ou do termo do seu prazo de validade, é proibida a emissão de certificado referente aos mesmos dados de criação de assinatura pela mesma ou outra entidade certificadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 31.º — Obrigações do titular
+
+1 - O titular do certificado deve tomar todas as medidas de organização e técnicas que sejam necessárias para evitar danos a terceiros e para preservar a confidencialidade de toda a informação transmitida.
+
+2 - Em caso de dúvida quanto à perda de confidencialidade dos dados de criação de assinatura, o titular deve pedir a suspensão do certificado e, se a perda for confirmada, a sua revogação.
+
+3 - A partir da suspensão ou revogação de um certificado ou do termo do seu prazo de validade, é proibida ao titular a utilização dos respectivos dados de criação de assinatura para gerar uma assinatura electrónica.
+
+4 - Sempre que se verifiquem motivos que justifiquem a revogação ou suspensão do certificado, deve o respectivo titular efectuar, com a necessária celeridade e diligência, o correspondente pedido de suspensão ou revogação à entidade certificadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+### Capítulo IV — Fiscalização e regime sancionatório
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-14
+
+###### Artigo 32.º — Deveres de informação das entidades certificadoras
+
+1 - As entidades certificadoras fornecem à autoridade credenciadora, de modo pronto e exaustivo, todas as informações que ela lhes solicite para fins de fiscalização da sua actividade e facultam-lhe para os mesmos fins a inspecção dos seus estabelecimentos e o exame local de documentos, objectos, equipamentos de hardware e software e procedimentos operacionais, no decorrer dos quais a autoridade credenciadora poderá fazer as cópias e registos que sejam necessários.
+
+2 - As entidades certificadoras credenciadas devem comunicar sempre à autoridade credenciadora, no mais breve prazo possível, todas as alterações relevantes que sobrevenham nos requisitos e elementos referidos nos artigos 13.º e 15.º
+
+3 - Até ao último dia útil de cada semestre, as entidades certificadoras credenciadas devem enviar à autoridade credenciadora uma versão actualizada das relações referidas na alínea b) do n.º 1 do artigo 13.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 33.º — Auditor de segurança
+
+1 - As entidades certificadoras que emitam certificados qualificados devem ser auditadas por um auditor de segurança que cumpra os requisitos especificados na regulamentação a que se refere o artigo 39.º
+
+2 - O auditor de segurança elabora um relatório anual de segurança que envia à autoridade credenciadora, até 31 de Março de cada ano civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 34.º — Revisores oficiais de contas e auditores externos
+
+Os revisores oficiais de contas ao serviço das entidades certificadoras e os auditores externos que, por imposição legal, prestem às mesmas entidades serviços de auditoria devem comunicar à autoridade credenciadora as infracções graves às normas legais ou regulamentares relevantes para a fiscalização e que detectem no exercício das suas funções.
+
+###### Artigo 35.º — Recursos
+
+Nos recursos interpostos das decisões tomadas pela autoridade credenciadora no exercício dos seus poderes de credenciação e fiscalização, presume-se, até prova em contrário, que a suspensão da eficácia determina grave lesão do interesse público.
+
+###### Artigo 36.º — Colaboração das autoridades
+
+A autoridade credenciadora poderá solicitar às autoridades policiais e judiciárias e a quaisquer outras autoridades e serviços públicos toda a colaboração ou auxílio que julgue necessários para a credenciação e fiscalização da actividade de certificação.
+
+###### Artigo 36.º-A — Contra-ordenações
+
+1 - Constitui contra-ordenação:
+
+a) A emissão por entidades certificadoras de certificados qualificados sem o prévio registo junto da autoridade credenciadora;
+
+b) A violação pela entidade certificadora dos deveres previstos nas alíneas d), f), g), h), i), j), n), q) e r) do artigo 24.º;
+
+c) A falta de fornecimento pela entidade certificadora aos utilizadores das informações previstas na alínea l) do artigo 24.º e no n.º 4 do artigo 28.º;
+
+d) A prestação de falsas informações quanto à força probatória dos certificados;
+
+e) A violação pela entidade certificadora de qualquer dos deveres previstos no artigo 25.º;
+
+f) A violação pela entidade certificadora dos deveres de comunicação previstos nos n.os 1 e 2 do artigo 27.º;
+
+g) A violação dos deveres previstos no n.º 3 do artigo 28.º;
+
+h) A falta de organização e manutenção do registo a que se refere o n.º 5 do artigo 28.º, bem com a respectiva actualização;
+
+i) A falta de uma ou mais das informações previstas no n.º 1 do artigo 29.º;
+
+j) A não suspensão de um certificado pela entidade certificadora sempre que se verifique algumas das situações previstas no n.º 1 do artigo 30.º;
+
+l) A não revogação de um certificado pela entidade certificadora sempre que se verifique algumas das situações previstas no n.º 3 do artigo 30.º;
+
+m) A violação do dever de conservação previsto no n.º 6 do artigo 30.º;
+
+n) O condicionamento da comercialização ou prestação de um determinado bem ou serviço, nele se incluindo a venda exclusivamente em conjunto, à escolha de determinada entidade certificadora;
+
+o) A prestação de declarações e informações falsas ou incompletas no âmbito do processo de credenciação previsto nos artigos 12.º e seguintes;
+
+p) A violação dos deveres previstos nos n.os 7 e 8 do artigo 30.º;
+
+q) A violação dos deveres de informação previstos no n.º 1 do artigo 32.º
+
+2 - Constitui ainda contra-ordenação:
+
+a) O incumprimento dos prazos previstos no n.º 3 do artigo 13.º;
+
+b) A falta de comunicação pelas entidades certificadoras, dentro do prazo, das alterações previstas no artigo 22.º;
+
+c) A violação pela entidade certificadora dos deveres previstos nas alíneas o) e p) do artigo 24.º;
+
+d) A falta de comunicação ao respectivo titular da decisão de suspensão e revogação de certificados qualificados prevista, respectivamente, nos n.os 2 e 4 do artigo 30.º;
+
+e) A violação dos deveres de informação previstos nos n.os 2 e 3 do artigo 32.º;
+
+f) O não cumprimento do disposto no artigo 33.º;
+
+g) A violação do dever de comunicação previsto no artigo 34.º
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-04
+
+###### Artigo 36.º-B — Sanções
+
+1 - Às contra-ordenações previstas no n.º 1 do artigo anterior são aplicáveis coimas entre (euro) 1500 e (euro) 3740,98, no caso de se tratar de pessoas singulares, e entre (euro) 15 000 e (euro) 44 891,81, no caso de se tratar de pessoas colectivas.
+
+2 - Às contra-ordenações previstas no n.º 2 do artigo anterior são aplicáveis coimas entre (euro) 500 e (euro) 2500, no caso de se tratar de pessoas singulares, e entre (euro) 6000 e (euro) 30 000, no caso de se tratar de pessoas colectivas.
+
+3 - A negligência é punível, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.
+
+4 - Conjuntamente com as coimas previstas nos números anteriores e sem prejuízo de outras sanções previstas no presente decreto-lei, pode ainda ser aplicada, em função da gravidade da infracção e da culpa do agente, a sanção acessória de interdição do exercício da actividade de entidade certificadora que emite certificados qualificados até ao período máximo de dois anos.
+
+5 - Sempre que seja cometida alguma das contra-ordenações a que se refere o n.º 1 do artigo anterior, deva dela dar-se publicidade no sítio na Internet da autoridade credenciadora, bem como no registo a que se refere o n.º 2 do artigo 9.º
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-14
+
+###### Artigo 36.º-C — Processo contra-ordenacional
+
+1 - Compete à autoridade credenciadora proceder à instrução dos processos de contra-ordenação e sanção acessória, sendo o seu director-geral competente para a aplicação das coimas.
+
+2 - O produto resultante da aplicação das coimas reverte em 60 % para o Estado e em 40 % para a autoridade credenciadora.
+
+3 - Em tudo o que não estiver previsto no presente capítulo, é aplicável subsidiariamente o regime geral do ilícito de mera ordenação social.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-14
+
+### Capítulo V — Disposições finais
+
+###### Artigo 37.º — Organismos de certificação
+
+A conformidade dos produtos de assinatura electrónica com os requisitos técnicos a que se refere a alínea c) do n.º 1 do artigo 12.º é verificada e certificada por:
+
+a) Organismo de certificação acreditado no âmbito do Sistema Português de Qualidade;
+
+b) Organismo de certificação acreditado no âmbito da EA (European Cooperation for Accreditation), sendo o respectivo reconhecimento comprovado pela entidade competente do Sistema Português de Qualidade para a Acreditação;
+
+c) Organismo de certificação designado por outros Estados membros e notificado à Comissão Europeia nos termos da alínea b) do n.º 1 do artigo 11.º da Directiva n.º 1999/93/CE, do Parlamento Europeu e do Conselho, de 13 de Dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 38.º — Certificados de outros Estados
+
+1 - As assinaturas electrónicas qualificadas certificadas por entidade certificadora credenciada em outro Estado membro da União Europeia são equiparadas às assinaturas electrónicas qualificadas certificadas por entidade certificadora credenciada nos termos deste diploma.
+
+2 - Os certificados qualificados emitidos por entidade certificadora sujeita a sistema de fiscalização de outro Estado membro da União Europeia são equiparados aos certificados qualificados emitidos por entidade certificadora estabelecida em Portugal.
+
+3 - Os certificados qualificados emitidos por entidades certificadoras estabelecidas em Estados terceiros são equiparados aos certificados qualificados emitidos por entidade certificadora estabelecida em Portugal, desde que se verifique alguma das seguintes circunstâncias:
+
+a) A entidade certificadora preencha os requisitos estabelecidos pela Directiva n.º 1999/93/CE, do Parlamento Europeu e do Conselho, de 13 de Dezembro, e tenha sido credenciada num Estado membro da União Europeia;
+
+b) O certificado esteja garantido por uma entidade certificadora estabelecida na União Europeia que cumpra os requisitos estabelecidos na directiva referida na alínea anterior;
+
+c) O certificado ou a entidade certificadora seja reconhecido com base num acordo internacional que vincule o Estado Português.
+
+4 - A autoridade credenciadora divulgará, sempre que possível e pelos meios de publicidade que considerar adequados, e facultará aos interessados, a pedido, as informações de que dispuser acerca das entidades certificadoras credenciadas em Estados estrangeiros.
+
+5 - É igualmente aplicável às entidades referidas nos n.os 1, 2 e 3 que exerçam actividade em Portugal a obrigação de registo a que se refere o n.º 2 do artigo 9.º, por forma a garantir a demonstração de que estas se encontram plenamente equiparadas às entidades certificadoras nos termos do presente decreto-lei.
+
+6 - A obrigação de registo referida no número anterior é extensível às entidades nacionais que prestem serviços de certificação electrónica com recurso a certificados qualificados emitidos pelas entidades referidas nos n.os 1, 2 e 3.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 39.º — Normas regulamentares
+
+1 - A regulamentação do presente diploma, nomeadamente no que se refere às normas de carácter técnico e de segurança, constará de decreto regulamentar, a adoptar no prazo de 150 dias.
+
+2 - Os serviços e organismos da Administração Pública poderão emitir normas regulamentares relativas aos requisitos a que devem obedecer os documentos que recebam por via electrónica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2003 - Diário da República n.º 79/2003, Série I-A de 2003-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885), em vigor a partir de 2003-04-04
+
+###### Artigo 40.º — Designação da autoridade credenciadora
+
+A autoridade credenciadora competente para o registo, credenciação e fiscalização das entidades certificadoras que emitam certificados qualificados é a Autoridade Nacional de Segurança.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-04-04
+
+###### Artigo 41.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - José Mariano Rebelo Pires Gago.
+
+Promulgado em 29 de Julho de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Julho de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

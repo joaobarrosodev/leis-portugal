@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:635255:por
+title: Resolução da Assembleia Nacional
+short_title: null
+summary: Aprovam as contas gerais do Estado respeitantes ao exercício de 1969, tanto da metrópole como das províncias ultramarinas,
+  e as contas da Junta do Crédito Público referentes ao mesmo ano
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-nacional
+document_type_label: Resolução da Assembleia Nacional
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1971-08-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 195/1971, Série I de 1971-08-19
+  number: '195'
+  series: I
+  supplement: null
+  pages: 1185 - 1186
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/08/19500/11851186.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '635255'
+  dre_path: /dr/detalhe/resolucao-assembleia-nacional/1971-635255
+  internal: pt:dre:635255:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-nacional/1971-635255
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-nacional/1971-635255
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-08-19T00:00:00Z'
+integrity:
+  source_sha256: ccc61d4a2ebb1cba131503920d419bf95f0a68717d47f64a409db02047073808
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-635255.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Nacional
+
+Resolução sobre as contas gerais do Estado respeitantes ao exercício de 1969
+
+Em nome da Nação a Assembleia Nacional decreta e eu promulgo a resolução seguinte:
+
+1. A Assembleia Nacional, tendo examinado os pareceres sobre as contas gerais do Estado respeitantes ao exercício de 1969, tanto da metrópole como das províncias ultramarinas, e concordando com as conclusões da Comissão das Contas Públicas, resolve dar a essas contas a sua aprovação.
+
+2. A Assembleia, considerando, todavia, os grandes esforços e sacrifícios que estão a ser exigidos à Nação; a necessidade de continuarem os elevados encargos com a defesa nacional, exigidos pela salvaguarda da unidade e integridade do País, e, ao mesmo tempo, a necessidade de estimular também vigorosamente a sua economia; reconhecendo o acrescido peso e responsabilidade das tarefas que recaem não só sobre o Governo, como também sobre toda a administração pública;
+
+Chama a atenção para as recomendações constantes dos referidos pareceres e, nomeadamente, para as seguintes:
+
+a) Que - de harmonia, aliás, com bem patentes propósitos do Governo, ainda recentemente reiterados - se torna urgente acelerar a execução de uma profunda, ainda que progressiva, reforma administrativa que abranja as estruturas dos serviços públicos, os métodos e processos de trabalho, que assegure a conveniente preparação e recrutamento do pessoal, em particular do profissionalmente mais qualificado, para que se lhe possa assim vir a garantir também a adequada remuneração;
+
+b) Que os prementes interesses da defesa e do progresso económico-social da Nação impõem que se intensifiquem as medidas para associar mais estreitamente o esforço da defesa ao do fomento, para coordenar mais ìntimamente os departamentos militares entre si e estes com os correspondentes serviços civis;
+
+c) Que se procure, através de uma adequada combinação de factores humanos e materiais, tornar mais eficazes os meios empenhados na defesa da Nação, procurando nomeadamente economizar meios humanos, posto que o homem é a maior riqueza do País, não só como valor espiritual, mas também no plano da economia.
+
+Marcello Caetano.
+
+**Promulgada em 9 de Agosto de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

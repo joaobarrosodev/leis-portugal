@@ -1,0 +1,264 @@
+---
+schema_version: '1.0'
+id: pt:dre:535874:por
+title: Decreto n.º 46070
+short_title: null
+summary: Transfere verbas dentro do orçamento do Ministério dos Negócios Estrangeiros e abre créditos no Ministério das Finanças
+  destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '46070'
+official_date: null
+publication_date: '1964-12-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 287/1964, Série I de 1964-12-09
+  number: '287'
+  series: I
+  supplement: null
+  pages: 1752 - 1753
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/12/28700/17521753.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '535874'
+  dre_path: /dr/detalhe/decreto/46070-1964-535874
+  internal: pt:dre:535874:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46070-1964-535874
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46070-1964-535874
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-12-09T00:00:00Z'
+integrity:
+  source_sha256: 10707bb8e566439be9dad44a72274499d6d04644ef59a2cd3df2cbbcc24d232e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-46070-535874.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 20
+  section_count: 26
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46070
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, nas alíneas c) e d) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), no artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, mediante proposta aprovada pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento seguinte:
+
+Ministério dos Negócios Estrangeiros
+
+No capítulo 3.º:
+
+Do artigo 31.º, n.º 3) «Pagamento de serviços ...» ... -10000$00
+
+Para o artigo 29.º, n.º 4) «Serviço de malas diplomáticas» ... +10000$00
+
+No capítulo 4.º:
+
+Do artigo 45.º, n.º 4) «Repatriação e socorros a portugueses indigentes» ... -35000$00
+
+Para o artigo 44.º, n.º 4) «Pagamento de serviços ...» ... +35000$00
+
+###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 24304000$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+
+Encargos Gerais da Nação
+
+### Capítulo 3.º «Representação Nacional - Assembleia Nacional e Câmara Corporativa»:
+
+###### Artigo 69.º, n.º 1) «Transportes aos membros da Assembleia Nacional e da Câmara Corporativa» ... 1050000$00
+
+###### Artigo 70.º, n.º 2) «Subsídios aos membros da Assembleia Nacional e da Câmara Corporativa» ... 2250000$00
+
+... 3300000$00
+
+Ministério das Finanças
+
+### Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
+
+###### Artigo 132.º «Material de consumo corrente»:
+
+N.º 2), alínea 1 «Impressos, ...» ... 1500000$00
+
+N.º 3) «Artigos de expediente ...», alínea 2 «Para os demais serviços» ... 200000$00
+
+###### Artigo 134.º «Despesas de comunicações»:
+
+N.º 1) «Correios e telégrafos» ... 10000$00
+
+N.º 2) «Telefones» ... 50000$00
+
+###### Artigo 137.º, n.º 2) «Publicidade ...» ... 580000$00
+
+###### Artigo 138.º, n.º 2) «Despesas com avaliações, ...» ... 2300000$00
+
+... 4640000$00
+
+Ministério dos Negócios Estrangeiros
+
+### Capítulo 1.º «Gabinete do Ministro»:
+
+###### Artigo 5.º, n.º 1) «Gastos confidenciais ...» ... 2350000$00
+
+### Capítulo 2.º «Secretaria-Geral»:
+
+###### Artigo 10.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 50000$00
+
+###### Artigo 11.º «Outros encargos»:
+
+N.º 4) «Encargos de carácter transitório com organizações internacionais» ... 7450000$00
+
+N.º 6) «Despesas com a Delegação Portuguesa junto da Organização do Tratado do Atlântico Norte (Delnato)» ... 695000$00
+
+### Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna»:
+
+Serviços internos da Direcção-Geral
+
+###### Artigo 19.º, n.º 1) «Correios e telégrafos» ... 150000$00
+
+###### Artigo 21.º, n.º 2) «Missões extraordinárias de serviço público ...» ... 36000$00
+
+Serviços externos da Direcção-Geral
+
+###### Artigo 24.º «Outras despesas com o pessoal»:
+
+N.º 1) «Despesas de deslocação, ...» ... 750000$00
+
+N.º 2) «Despesas de instalação» ... 100000$00
+
+###### Artigo 29.º «Despesas de comunicações»:
+
+N.º 1) «Correios e telégrafos» ... 1300000$00
+
+N.º 2) «Telefones» ... 450000$00
+
+N.º 4) «Serviço de malas diplomáticas» ... 340000$00
+
+###### Artigo 31.º, n.º 2) «Seguros de pessoal ...» ... 100000$00
+
+###### Artigo 32.º, n.º 2) «Missões extraordinárias de serviço público ...» ... 728000$00
+
+### Capítulo 4.º «Direcção-Geral dos Negócios Económicos e Consulares - Serviços externos da Direcção-Geral»:
+
+###### Artigo 38.º, n.º 1) «Despesas de deslocação, ...» ... 600000$00
+
+###### Artigo 40.º, n.º 1) «De imóveis» ... 280000$00
+
+###### Artigo 42.º, «Despesas de comunicações»:
+
+N.º 1) «Correios e telégrafos» ... 500000$00
+
+N.º 2) «Telefones» ... 450000$00
+
+###### Artigo 44.º, n.º 4) «Pagamento de serviços ...» ... 35000$00
+
+... 16364000$00
+
+... 24304000$00
+
+###### Art. 3.º Como compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+### Capítulo 2.º, artigo 20.º «Imposto do selo» ... 19000000$00
+
+Encargos Gerais da Nação
+
+### Capítulo 2.º artigo 17.º, n.º 1) ... 35000$00
+
+### Capítulo 2.º, artigo 24.º, n.º 1) ... 130000$00
+
+### Capítulo 2.º, artigo 31.º, n.º 1) ... 200000$00
+
+### Capítulo 5.º, artigo 93.º, n.º 1) ... 160000$00
+
+### Capítulo 6.º, artigo 104.º, n.º 1) ... 70000$00
+
+### Capítulo 7.º, artigo 114.º, n.º 1) ... 50000$00
+
+### Capítulo 7.º, artigo 124.º, n.º 1) ... 965000$00
+
+### Capítulo 7.º, artigo 132.º, n.º 1) ... 50000$00
+
+... 1660000$00
+
+Ministério das Finanças
+
+### Capítulo 7.º, artigo 68.º, n.º 1) ... 357000$00
+
+### Capítulo 10.º, artigo 126.º, n.º 1) ... 2300000$00
+
+... 2657000$00
+
+Ministério dos Negócios Estrangeiros
+
+### Capítulo 1.º, artigo 1.º, n.º 1) ... 335000$00
+
+### Capítulo 2.º, artigo 8.º, n.º 1) ... 2000$00
+
+### Capítulo 2.º, artigo 11.º, n.º 8) ... 30000$00
+
+### Capítulo 2.º, artigo 11.º, n.º 10), alínea 2 ... 170000$00
+
+### Capítulo 3.º, artigo 14.º, n.º 4) ... 10000$00
+
+### Capítulo 3.º, artigo 22.º, n.º 3), alínea 1 ... 20000$00
+
+### Capítulo 3.º, artigo 26.º, n.º 2) ... 280000$00
+
+### Capítulo 3.º, artigo 28.º, n.º 1) ... 10000$00
+
+### Capítulo 4.º, artigo 45.º, n.º 4) ... 130000$00
+
+... 987000$00
+
+... 24304000$00
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 9 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

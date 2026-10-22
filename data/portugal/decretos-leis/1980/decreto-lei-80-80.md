@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:681622:por
+title: Decreto-Lei n.º 80/80
+short_title: null
+summary: Revoga os n.os 2 e 3 do artigo 15.º do Decreto-Lei n.º 538/79, de 31 de Dezembro (escolaridade obrigatória)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano, da Educação e Ciência e dos Assuntos Sociais
+proposing_entity: null
+official_number: 80/80
+official_date: null
+publication_date: '1980-04-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 92/1980, Série I de 1980-04-19
+  number: '92'
+  series: I
+  supplement: null
+  pages: 783 - 783
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09200/07830783.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '681622'
+  dre_path: /dr/detalhe/decreto-lei/80-1980-681622
+  internal: pt:dre:681622:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1980-681622
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1980-681622
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-04-19T00:00:00Z'
+integrity:
+  source_sha256: 222df6f6c2cf78ee75c8c8edefea17e98ece4ef734c029715172a566c16e5953
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-80-681622.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 80/80
+
+de 19 de Abril
+
+O [Decreto-Lei n.º 538/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1979-230891), de 31 de Dezembro, veio condicionar a atribuição e processamento do abono de família à prova do cumprimento das obrigações relativas à escolaridade obrigatória.
+
+Tal condicionamento representa uma errada visão da segurança social ao tentar transformá-la em instrumento de viabilização da escolaridade obrigatória e não foi precedido, como seria curial, da audição dos órgãos centrais daquela.
+
+A segurança social é um direito dos cidadãos e visa a garantia de um mínimo de bem-estar e de condições de vida, pelo que não pode servir para suprir as dificuldades de contrôle administrativo, por outras vias, do cumprimento de outras obrigações como as da escolaridade obrigatória.
+
+Até porque esse sistema de contrôle transferiria do Estado para encargo da segurança social todo um pesado processo burocrático que consistiria no contrôle regular de mais de um milhão e duzentos mil beneficiários.
+
+Nestes termos e nos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º São revogados os n.os 2 e 3 do artigo 15.º do [Decreto-Lei n.º 538/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1979-230891), de 31 de Dezembro.
+
+###### Art. 2.º No decreto regulamentar a que se refere o artigo 14.º, n.º 2, daquele [Decreto-Lei n.º 538/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1979-230891), o Governo incluirá as formas de contrôle necessárias ao cumprimento da escolaridade obrigatória em todos os casos, excluindo desse contrôle toda e qualquer intervenção ou condicionamento do sistema de segurança social.
+
+Visto e aprovado em Conselho de Ministros de 20 de Março de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 12 de Abril de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

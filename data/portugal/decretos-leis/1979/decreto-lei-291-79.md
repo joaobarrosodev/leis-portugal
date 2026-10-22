@@ -1,0 +1,2542 @@
+---
+schema_version: '1.0'
+id: pt:dre:377542:por
+title: Decreto-Lei n.º 291/79
+short_title: null
+summary: Aprova o Regulamento de Tarifas das Juntas Autónomas dos Portos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado da Marinha Mercante - Direcção-Geral de Portos
+proposing_entity: null
+official_number: 291/79
+official_date: null
+publication_date: '1979-08-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/1979, Série I de 1979-08-16
+  number: '188'
+  series: I
+  supplement: null
+  pages: 1930 - 1961
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18800/19301961.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2000-11-14'
+version_history:
+  file: decreto-lei-291-79.versoes.json
+  count: 10
+  source_lastmod: '2025-06-27'
+  versions:
+  - date: '1979-08-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-30'
+    amending: pt:dre:370052:por
+    amending_title: Declaração
+    changes:
+    - Elimina PROJECTO DE REGULAMENTO ÚNICO DE TARIFAS DAS JUNTAS AUTÓNOMAS DOS PORTOS
+  - date: '1982-09-01'
+    amending: pt:dre:397529:por
+    amending_title: Portaria n.º 797/82
+    changes:
+    - Altera Artigo 57.º
+    - Altera Artigo 62.º
+    - Altera Artigo 83.º
+    - Altera Artigo 85.º
+    - Altera Artigo 111.º
+  - date: '1984-02-01'
+    amending: pt:dre:660891:por
+    amending_title: Portaria n.º 61/84
+    changes:
+    - Altera Artigo 57.º
+  - date: '1987-01-11'
+    amending: pt:dre:599755:por
+    amending_title: Decreto-Lei n.º 8/87
+    changes:
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+  - date: '1988-11-14'
+    amending: pt:dre:358756:por
+    amending_title: Decreto-Lei n.º 411/88
+    changes:
+    - Altera Artigo 83.º
+  - date: '1989-09-26'
+    amending: pt:dre:547657:por
+    amending_title: Decreto-Lei n.º 314/89
+    changes:
+    - Altera Artigo 59.º
+    - Altera Artigo 67.º
+  - date: '1998-05-01'
+    amending: pt:dre:167404:por
+    amending_title: Portaria n.º 228/98
+    changes:
+    - Altera Artigo 57.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º
+    - Altera Artigo 83.º
+  - date: '1998-07-15'
+    amending: pt:dre:485049:por
+    amending_title: Decreto-Lei n.º 200/98
+    changes:
+    - Altera Artigo 172.º
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Assinatura
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
+    - Revoga Artigo 43.º
+    - Revoga Artigo 44.º
+    - Revoga Artigo 55.º
+  - date: '2000-11-14'
+    amending: pt:dre:621964:por
+    amending_title: Decreto-Lei n.º 273/2000
+    changes:
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 45.º
+    - Revoga Artigo 46.º
+    - Revoga Artigo 47.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 49.º
+    - Revoga Artigo 50.º
+    - Revoga Artigo 51.º
+    - Revoga Artigo 52.º
+    - Revoga Artigo 53.º
+    - Revoga Artigo 54.º
+    - Revoga Artigo 56.º
+    - Revoga Artigo 75.º
+    - Revoga Artigo 76.º
+    - Revoga Artigo 78.º
+    - Revoga Artigo 79.º
+    - Revoga Artigo 80.º
+    - Revoga Artigo 81.º
+    - Revoga Artigo 88.º
+    - Revoga Artigo 91.º
+    - Revoga Artigo 100.º
+    - Revoga Artigo 101.º
+    - Revoga Artigo 140.º
+    - Revoga Artigo 157.º
+    - Revoga Artigo 159.º
+    - Revoga Artigo 172.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/291/1979/p/cons/20180508/pt/html
+  oj: null
+  dre: '377542'
+  dre_path: /dr/detalhe/decreto-lei/291-1979-377542
+  internal: pt:dre:377542:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1979-377542
+  metadata_url: https://data.dre.pt/eli/dec-lei/291/1979/p/cons/20180508/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-171497162
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-171497162
+  retrieved_at: '2026-10-22T13:31:15Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-27T00:00:00Z'
+integrity:
+  source_sha256: b7e444ce6fefb5ea0b1b7985b66c07356f7ae10e98f3efdc2cb05783d41c129a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:31:15Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-291-79.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração de Portos
+- Junta Autónoma dos Portos
+- Regulamento
+- Regulamento de Tarifas das Juntas Autónomas dos Portos
+- Tarifa Portuária
+relationships:
+- type: amended_by
+  target: pt:dre:370052:por
+  label: Elimina PROJECTO DE REGULAMENTO ÚNICO DE TARIFAS DAS JUNTAS AUTÓNOMAS DOS PORTOS
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1979-370052
+  date: '1979-08-30'
+- type: amended_by
+  target: pt:dre:397529:por
+  label: Altera Artigo 57.º; Altera Artigo 62.º; Altera Artigo 83.º; Altera Artigo 85.º; Altera Artigo 111.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/797-1982-397529
+  date: '1982-08-21'
+- type: amended_by
+  target: pt:dre:660891:por
+  label: Altera Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/61-1984-660891
+  date: '1984-01-27'
+- type: amended_by
+  target: pt:dre:599755:por
+  label: Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1987-599755
+  date: '1987-01-06'
+- type: amended_by
+  target: pt:dre:358756:por
+  label: Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1988-358756
+  date: '1988-11-09'
+- type: amended_by
+  target: pt:dre:547657:por
+  label: Altera Artigo 59.º; Altera Artigo 67.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1989-547657
+  date: '1989-09-21'
+- type: amended_by
+  target: pt:dre:167404:por
+  label: Altera Artigo 57.º; Altera Artigo 62.º; Altera Artigo 64.º; Altera Artigo 66.º; Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/228-1998-167404
+  date: '1998-04-11'
+- type: amended_by
+  target: pt:dre:485049:por
+  label: Altera Artigo 172.º; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º;
+    Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Assinatura; Revoga
+    Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 16.º; Revoga
+    Artigo 19.º; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:621964:por
+  label: Revoga Artigo 17.º; Revoga Artigo 18.º; Revoga Artigo 31.º; Revoga Artigo 37.º; Revoga Artigo 38.º; Revoga Artigo
+    39.º; Revoga Artigo 40.º; Revoga Artigo 45.º; Revoga Artigo 46.º; Revoga Artigo 47.º; Revoga Artigo 48.º; Revoga Artigo
+    49.º; Revoga Artigo 50.º; Revoga Artigo 51.º; Revoga Artigo 52.º; Revoga Artigo 53.º; Revoga Artigo 54.º; Revoga Artigo
+    56.º; Revoga Artigo 75.º; Revoga Artigo 76.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964
+  date: '2000-11-09'
+article_structure:
+  article_count: 191
+  section_count: 51
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:31:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 291/79
+
+Decreto-Lei n.º 291/79
+
+de 16 de Agosto
+
+1. O Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, estabeleceu no artigo 74.º que as tarifas e taxas de exploração dos portos sob administração das juntas autónomas constariam de regulamentos de tarifas, a aprovar pelo Governo, fixando-se o prazo de um ano para que os organismos portuários apresentassem os respectivos projectos.
+
+Autorizou, todavia, o Ministro das Comunicações, em casos de necessidade urgente, a estabelecer ou aprovar tarifas provisórias, válidas por um ano, para os portos que não tivessem regulamento de tarifas.
+
+Ao abrigo desta autorização foram sendo estabelecidas tarifas provisórias para os diversos portos do continente e ilhas adjacentes, que, através de sucessivas prorrogações, se mantiveram até hoje.
+
+Apenas a Junta Autónoma do Porto da Figueira da Foz tem regulamento de tarifas, aprovado pelo Decreto n.º 28551, de 29 de Março de 1938.
+
+2. Como é natural, em vista do longo período de vigência dos tarifários, muitas das taxas deles constantes tiveram, entretanto, de sofrer alterações e aditamentos, que, pela sua profusão e dispersão, tornam, por vezes, difícil o seu exacto conhecimento e a sua correcta aplicação, além de se verificarem, em muitos casos, disparidades no tratamento de situações semelhantes.
+
+Por outro lado, a rápida evolução que está sofrendo o custo dos serviços constantemente tem vindo a acentuar a desactualização das taxas estabelecidas para os diferentes portos. A situação financeira das juntas autónomas, que se agrava de ano para ano, vem exigindo, cada vez com maior premência, a adopção de medidas que permitam ajustar, tanto quanto possível, os valores das taxas aos custos económicos dos respectivos serviços.
+
+Tornou-se, assim, indispensável e urgente a elaboração de um regulamento de tarifas para as juntas autónomas dos portos que, substituindo e condensando todas as disposições sobre a matéria, muitas delas dispersas por legislação avulsa diversa, actualizasse o valor das taxas de modo a proporcionar o máximo de cobertura do custo global dos serviços portuários e em que fossem estabelecidos critérios uniformes de aplicação para suprir a falta de adequados regulamentos de exploração.
+
+Deixou-se, todavia, às juntas autónomas margem bastante de actuação independente de modo a permitir-lhes, no respeito pela sua autonomia e pela acção descentralizadora que se pretende imprimir à vida nacional, o tratamento diferenciado dos casos e situações em que as características peculiares de cada porto ou outras razões especiais aconselhem a não sujeição a taxas ou normas comuns.
+
+3. No presente Regulamento de Tarifas, para além da reposição devidamente actualizada das normas e preceitos que têm vindo a ser aplicados, introduzem-se alguns princípios inovadores, de entre os quais se destaca o que se refere à taxa de porto, que passa a incidir também sobre os passageiros embarcados e desembarcados e sobre todo o pescado movimentado nos portos.
+
+Adoptou-se ainda novo critério quanto à aplicação da taxa de porto às mercadorias movimentadas, dispondo-as e classificando-as por grupos, segundo a sua natureza. Teve-se em vista, sobretudo, a necessidade de criar adequada contrapartida para a utilização das instalações portuárias, cujos elevados custos de estabelecimento e manutenção não têm compensação nas taxas de exploração.
+
+Não se deixou, contudo, de ter presente a conveniência de privilegiar as mercadorias destinadas à exportação e as transportadas entre portos nacionais, umas e outras beneficiando de uma redução de 25%, o que se espera não deixe de funcionar como incentivo à exportação e ao intercâmbio comercial entre os vários pontos do território nacional.
+
+Outras inovações significativas em relação aos actuais tarifários são as que respeitam à taxa de entrada e estacionamento das embarcações e à taxa de acostagem: a primeira passa a aplicar-se por períodos de vinte e quatro horas, com o objectivo de propiciar o encurtamento das estadias e, na determinação da taxa de acostagem, além de se atender à tonelagem das embarcações, passa a ser considerado também o seu comprimento.
+
+4. A rápida evolução dos elementos que entram na composição do valor das taxas levou a considerar a necessidade de se estabelecerem normas que, de forma expedita, possibilitem a actualização do Regulamento de Tarifas por portaria conjunta dos Ministros do Comércio e Turismo e dos Transportes e Comunicações, confiando-se, mesmo, ao director-geral de Portos a alteração de alguns valores mais sujeitos a desgaste.
+
+5. Crê-se que a aprovação de um regulamento de tarifas para as juntas autónomas dos portos poderá instaurar uma nova fase na exploração dos portos confiada às juntas autónomas, impondo critérios uniformes e mais justos nas suas relações com os utentes. Dentro deste objectivo eliminam-se certos impostos que, não mantendo actualidade, contribuíam para gerar desigualdades de tratamento que já não se justificam.
+
+Nestes termos:
+
+Tendo em consideração o disposto na alínea m) do artigo 24.º do Decreto-Lei n.º 488/71, de 9 de Novembro:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Nota: [Artigo 13.º, Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757) O presente diploma é considerado revogado a partir de 13 de maio de 2018.
+
+###### Artigo 1.º
+
+É aprovado o Regulamento de Tarifas das Juntas Autónomas dos Portos, anexo a este diploma e que dele faz parte integrante.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 2.º
+
+O Regulamento de Tarifas das Juntas Autónomas dos Portos poderá ser alterado por portaria conjunta dos Ministros do Comércio e Turismo e dos Transportes e Comunicações, sob proposta fundamentada da Direcção-Geral de Portos.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 8/87 - Diário da República n.º 4/1987, Série I de 1987-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1987-599755) Revoga, a partir de 11 de janeiro de 1987, o presente artigo, na parte que se refere às taxas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 3.º
+
+Quando circunstâncias especiais o justifiquem, nomeadamente a elevação dos custos de mão-de-obra, de energia e de combustíveis, pode o director-geral de Portos, por seu despacho, alterar os valores das taxas constantes dos artigos 68.º, 70.º, n.º 1, do título IV e dos artigos 168.º, 169.º, 173.º, 176.º, 177.º, 180.º e 181.º, n.º 1, do Regulamento anexo à este diploma.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/87 - Diário da República n.º 4/1987, Série I de 1987-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1987-599755), em vigor a partir de 1987-01-11
+
+###### Artigo 4.º
+
+As juntas autónomas dos portos, quando circunstâncias especiais o justifiquem, poderão, por deliberação das respectivas comissões administrativas, actualizar as taxas cuja fixação lhes esteja atribuída pelo Regulamento de Tarifas anexo a este diploma.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/87 - Diário da República n.º 4/1987, Série I de 1987-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1987-599755), em vigor a partir de 1987-01-11
+
+###### Artigo 5.º
+
+As taxas que pelo Regulamento de Tarifas das Juntas Autónomas dos Portos estão sujeitas a aprovação, ratificação ou homologação devem, igualmente, ser submetidas a essas formalidades em caso de alteração.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/87 - Diário da República n.º 4/1987, Série I de 1987-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1987-599755), em vigor a partir de 1987-01-11
+
+###### Artigo 6.º
+
+Os regimes especiais existentes nos portos sob administração das juntas autónomas, em matéria de tarifas, serão revistos e ajustados aos princípios estabelecidos pelo presente diploma, no prazo de cento e oitenta dias, a contar da data da entrada em vigor do Regulamento de Tarifas anexo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 7.º
+
+1 - O Ministro dos Transportes e Comunicações poderá determinar, por despacho, a aplicação, no todo ou em parte, do Regulamento de Tarifas, aprovado por este diploma, a portos directamente administrados pela Direcção-Geral de Portos.
+
+2 - Nos casos previstos no número anterior, cabe ao director-geral de Portos exercer a competência atribuída às juntas autónomas pelo Regulamento de Tarifas das Juntas Autónomas dos Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 8.º
+
+A partir da entrada em vigor do Regulamento de Tarifas das Juntas Autónomas dos Portos, deixa de ser cobrada, nos portos sob jurisdição das juntas autónomas, a taxa de 1% a que se refere o n.º 6 do artigo 1.º do Decreto-Lei n.º 255/77, de 16 de Junho, introduzido pelo artigo único do Decreto-Lei n.º 339/77, de 18 de Agosto.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 9.º
+
+As dúvidas que surgirem na aplicação do presente diploma e do Regulamento anexo serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvida a Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 10.º
+
+O Regulamento de Tarifas das Juntas Autónomas dos Portos entrará em vigor no dia 1 de Setembro de 1979, ficando revogados, na mesma data, todos os preceitos e diplomas legais em contrário, designadamente os seguintes:
+
+Carta de Lei de 21 de Julho de 1852;
+
+Carta de Lei de 2 de Setembro de 1869;
+
+Alínea d) do artigo 5.º do Decreto n.º 7822, de 22 de Novembro de 1921;
+
+Alíneas a), salvo no que se refere às mercadorias importadas, c), h) e i) do artigo 2.º da Lei n.º 1415, de 21 de Abril de 1923;
+
+Decreto n.º 8981, de 5 de Julho de 1923;
+
+Alíneas a), salvo no que se refere às mercadorias importadas, e c) do artigo 2.º da Lei n.º 1461, de 15 de Agosto de 1923;
+
+Alínea a) do artigo 2.º da Lei n.º 1608, de 19 de Dezembro de 1923;
+
+Alínea a) do artigo 2.º da Lei n.º 1585, de 15 de Abril de 1924, salvo no que se refere às mercadorias importadas;
+
+Artigo 4.º da Lei n.º 1788, de 25 de Junho de 1925;
+
+Decreto n.º 14761, de 15 de Dezembro de 1927;
+
+Alínea b) do artigo 6.º do Decreto n.º 14940, de 21 de Janeiro de 1928;
+
+Alíneas b) c) e e), salvo no que se refere às mercadorias desembarcadas, do artigo 6.º do Decreto n.º 15110, de 5 de Março de 1928;
+
+N.os 1 e 4 do artigo 5.º do Decreto n.º 15204, de 19 de Março de 1928;
+
+Alíneas b), salvo no que se refere às mercadorias desembarcadas, e e) do artigo 6.º do Decreto n.º 15403, de 14 de Abril de 1928;
+
+Artigo 6.º do Decreto-Lei n.º 22542, de 18 de Maio de 1933;
+
+Decreto n.º 28551, de 29 de Março de 1938;
+
+Artigos 74.º e 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950;
+
+Alíneas a) e b), salvo no que se refere às mercadorias desembarcadas, do n.º 2 do artigo 1.º do Decreto-Lei n.º 38022, de 1 de Novembro de 1950;
+
+N.os 1, 2, 5 e 6 do artigo 4.º do Decreto-Lei n.º 40172, de 26 de Maio de 1953;
+
+Artigo único do Decreto-Lei n.º 40580, de 23 de Abril de 1956;
+
+Artigo 4.º do Decreto-Lei n.º 40763, de 7 de Setembro de 1956.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+Carlos Alberto da Mota Pinto - Henrique Afonso da Silva Horta - Lino Dias Miguel - José Ricardo Marques da Costa.
+
+Promulgado em 23 de Junho de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Anexo — REGULAMENTO DE TARIFAS DAS JUNTAS AUTÓNOMAS DOS PORTOS
+
+## Título I — Disposições gerais
+
+### Capítulo I — Aplicação do Regulamento de Tarifas
+
+###### Artigo 1.º — Sujeitos activos
+
+As administrações portuárias superintendem, dentro da área dos portos sob sua jurisdição, em todos os serviços relativos à exploração económica desses portos, isto é, em todas as actividades neles exercidas com finalidade comercial ou industrial, quer por prestação de serviços, fornecimentos a embarcações ou concessão de licenças, quer por utilização de qualquer parte da área da sua jurisdição.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 2.º — Sujeitos passivos
+
+As tarifas constantes do presente Regulamento serão obrigatoriamente pagas quanto a:
+
+a) Embarcações - pelos armadores, proprietários, fretadores, agentes de navegação ou outras entidades responsáveis pelas suas estadias nos portos;
+
+b) Passageiros - pelos armadores, directamente ou pelos seus agentes locais, e, em geral, pelos responsáveis pelo respectivo transporte;
+
+c) Mercadorias - pelos donos ou consignatários, seus representantes ou mandatários, pelos armadores, seus representantes ou mandatários, para o pescado e seus derivados, capturado pelas frotas da pesca e descarregado nas instalações portuárias, mas que não vão às lotas, e pelos compradores, para o pescado transaccionado ou avaliado nas lotas;
+
+d) Serviços prestados - pelos requisitantes;
+
+e) Fornecimentos - pelos requisitantes;
+
+f) Alugueres - pelos requerentes;
+
+g) Ocupações - pelos titulares;
+
+h) Licenças - pelos requerentes;
+
+i) Diversos - pelos requerentes ou, em geral, pelos beneficiários das regalias solicitadas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 3.º — Aplicação do Regulamento
+
+1 - As tarifas a cobrar pelas administrações portuárias em toda a área da sua jurisdição são as previstas no presente Regulamento.
+
+2 - Ressalvam-se os casos em que haja taxas fixadas em contratos e durante a sua vigência.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 4.º — Âmbito do Regulamento
+
+As tarifas ou taxas fixadas neste Regulamento são devidas nos casos nele designados e referem-se a embarcações, passageiros, mercadorias, prestação de serviços, fornecimentos, aluguer de material, ocupações, licenciamento e diversos, de harmonia com a discriminação dos títulos II e seguintes.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 5.º — Regulamentos específicos
+
+1 - As tarifas ou taxas do presente Regulamento salvo nos casos nele contemplados, não se aplicam nos sectores portuários afectos às navegações do tráfego local, da pesca costeira e de recreio e respectivas actividades, devendo constar de regulamentos específicos de cada porto.
+
+2 - Os regulamentos a que se refere o número anterior e as taxas cuja elaboração e fixação, no âmbito deste Regulamento, incumbem às administrações portuárias deverão ser transmitidos à Direcção-Geral de Portos para efeitos de homologação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo II — Definição do termos
+
+###### Artigo 6.º — Embarcações
+
+1 - Para efeitos de aplicação do presente Regulamento, consideram-se embarcações os navios ou construções flutuantes empregados na navegação, no comércio marítimo, na construção ou na reparação de navios, em obras marítimas e fluviais, na pesca e no recreio e ainda os navios de guerra.
+
+2 - A classificação das embarcações, quanto aos serviços a que se destinam e às zonas em que exercem a sua actividade, será a constante do Regulamento Geral das Capitanias, com as adaptações especificadas no presente Regulamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 7.º — Navios de passageiros
+
+Consideram-se navios de passageiros, para efeitos de aplicação do presente Regulamento, todos os que tenham alojamento para um mínimo de vinte e quatro passageiros.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 8.º — Navios de contentores
+
+Consideram-se navios porta-contentores, ou navios de contentores, os que transportam, exclusivamente, contentores.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 9.º — Tonelagem dos navios
+
+1 - A tonelagem das embarcações mercantes é a máxima das arqueações brutas, medida em toneladas Moorson, constante dos certificados respectivos.
+
+2 - A tonelagem dos navios de guerra é a do deslocamento normal e nos submersíveis a de imersão, mencionadas na documentação de bordo ou nos planos respectivos, salvo se for exibido certificado de arqueação, caso em que prevalecerão as indicações constantes deste documento.
+
+3 - A tonelagem das embarcações construídas ou transformadas em estaleiros locais e ainda não registadas será a constante do respectivo projecto.
+
+4 - A tonelagem de arqueação bruta (tAB) define-se como sendo o volume interno total do casco do navio e das superestruturas, compreendendo todos os espaços relacionados ou destinados a carga, passageiros e tripulação, à navegação, TSF e a paióis-tanques, sendo expressa em tonelagem de arqueação ou toneladas Moorson, iguais a 2,832 m3 ou 100 pés cúbicos ingleses.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 10.º — Passageiros
+
+São considerados passageiros todas as pessoas que, fazendo transportar-se em embarcações que utilizem as instalações portuárias, não integrem as respectivas tripulações.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 11.º — Mercadorias
+
+1 - As mercadorias que utilizam os portos são consideradas, quanto ao regime da sua movimentação, como embarcadas, desembarcadas e em regime de importação, exportação, trânsito, baldeação, reimportação, reexportação, transferência e cabotagem, de harmonia com a classificação que constar da respectiva documentação.
+
+2 - Para efeitos de aplicação das tarifas de tráfego e de armazenagem, as mercadorias são classificadas como carga geral e carga especial. A carga especial é constituída pelas mercadorias que impliquem precauções especiais no seu manuseamento e armazenagem, tais como as mercadorias nocivas, incómodas, explosivas, inflamáveis e corrosivas, e pelas que tenham valor excepcional. A discriminação destas mercadorias constará de tabelas especiais, elaboradas pelas administrações portuárias e aprovadas pela Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 12.º — Tráfego
+
+Por tráfego de mercadorias no porto entende-se o conjunto de operações de movimentação de mercadorias, desde a sua entrada nas instalações do porto até à sua saída.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 13.º — Armazenagem
+
+Considera-se armazenagem o estacionamento das mercadorias, quer nos cais, quer nos terraplenos do porto, dentro ou fora de telheiros, armazéns e depósitos sujeitos ou não a regime aduaneiro.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 14.º — Prestação de serviço
+
+Considera-se prestação de serviço o que for executado pelas administrações portuárias através do seu equipamento terrestre ou marítimo e do respectivo pessoal.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 15.º — Fornecimento
+
+Considera-se fornecimento a entrega de bens de consumo e de mão-de-obra.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 16.º — Aluguer
+
+Considera-se aluguer a cessão temporária de equipamentos, não incluindo, normalmente, nem pessoal nem energia para a sua utilização.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 17.º — Ocupações
+
+Consideram-se ocupações as cessões temporárias de edificações ou de terrenos sob jurisdição das administrações portuárias, incluindo os do domínio público marítimo.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 18.º — Licenças
+
+Consideram-se licenças as autorizações concedidas pelas administrações portuárias, a requerimento dos interessados, para a realização de obras e para o exercício de actividades comerciais ou industriais, incluindo a publicidade, e para as ocupações de que trata o artigo anterior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+### Capítulo III — Definição de tarifas portuárias
+
+###### Artigo 19.º — Tarifas ou taxas
+
+Tarifas ou taxas portuárias são as importâncias constantes do presente Regulamento ou estabelecidas com base nas suas disposições que as administrações portuárias estão autorizadas a cobrar como compensação pelas facilidades concedidas aos utentes dos portos e pelo uso de bens do património das juntas autónomas ou sob sua jurisdição.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 20.º — Taxas sobre embarcações
+
+As taxas que incidem sobre as embarcações são as seguintes:
+
+a) Taxa de estacionamento - devida pelas embarcações que entrem ou estacionem nos portos ou águas sob jurisdição das administrações portuárias;
+
+b) Taxa de acostagem - devida pelas embarcações que utilizem as obras de acostagem ou elementos fixos de amarração existentes nos portos ou águas sob jurisdição das administrações portuárias;
+
+c) Taxa de utilização de docas de marés - devida pelas embarcações de tráfego local, de navegação costeira nacional, de pescas local e costeira, com mais de 10 tAB e menos de 500 tAB, que entrem em docas de marés exclusivamente destinadas às suas actividades e ao seu abrigo;
+
+d) Taxa de utilização de bóias - devida pelas embarcações que utilizem exclusivamente bóias como meio de amarração;
+
+e) Taxa de utilização de defensas - devida pelas embarcações que as utilizem;
+
+f) Taxa de eclusagem - devida pelas embarcações que passem as eclusas;
+
+g) Taxa de querenagem - devida pelas embarcações que utilizem docas secas ou flutuantes, rampas, varadouros ou quaisquer outros meios de querenagem.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 21.º — Taxas sobre passageiros
+
+As taxas que incidem sobre passageiros são as seguintes:
+
+a) Taxa de porto - devida pelos passageiros que embarquem ou desembarquem nas instalações portuárias;
+
+b) Taxa de portagem especial - devida pelos passageiros que embarquem na ponte de Vila Real de Santo António.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 22.º — Taxas sobre mercadorias
+
+As taxas que incidem sobre mercadorias são as seguintes:
+
+a) Taxa de porto - devida pelas mercadorias que utilizem instalações portuárias;
+
+b) Taxa de armazenagem - devida pelas mercadorias depositadas, a descoberto ou a coberto, nos terrenos marginais livres, terraplenos ou armazéns do porto;
+
+c) Taxa de tráfego - devida pelas mercadorias sujeitas a operações de tráfego.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 23.º — Taxas de prestação de serviços
+
+Pelos serviços prestados pelas administrações portuárias através dos seus equipamentos e do respectivo pessoal são devidas taxas, denominadas «taxas de prestação de serviços».
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 24.º — Taxas de fornecimentos
+
+Pelos fornecimentos efectuados pelas administrações portuárias são devidas taxas correspondentes, denominadas «taxas de fornecimento».
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 25.º — Taxas de aluguer de material
+
+Pelo aluguer de material das administrações portuárias, como máquinas, aparelhos, ferramentas e utensílios diversos, são devidas taxas de aluguer de material.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 26.º — Taxas de ocupação
+
+Pela ocupação de edificações, terraplenos, terrenos e leitos de águas das administrações portuárias ou sob sua jurisdição são devidas taxas de ocupação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 27.º — Taxas de licenças
+
+Pela autorização para execução de obras e para exercício de actividades comerciais ou industriais, incluindo a publicidade, na área sob jurisdição das administrações portuárias são devidas taxas de licença.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 28.º — Taxas de diversos
+
+Pela entrada de pessoas ou veículos nos recintos reservados dos portos, colocação e utilização de telefone e sistemas de radiocomunicações, fornecimento de documentos e impressos, pela prática de outros actos administrativos e ainda pelo embarque de passageiros e veículos na ponte de Vila Real de Santo António são devidas as seguintes taxas:
+
+a) Taxa de ingresso em recintos reservados - devida por pessoas ou veículos que entrem e circulem nos recintos reservados dos portos;
+
+b) Taxas de comunicações - devidas pela utilização de telefones e sistemas de radiocomunicações das administrações portuárias e pela colocação e utilização de telefones a bordo;
+
+c) Taxas por serviços diversos - devidas pelo fornecimento de impressos, de cópias e de fotocópias, pela passagem de documentos e por outros actos diversos;
+
+d) Taxas de portagens especiais - devidas no embarque, à saída do País, pelos passageiros e veículos que utilizem a ponte de Vila Real de Santo António.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo IV — Normas de aplicação geral
+
+###### Artigo 29.º — Unidades de medida
+
+As unidades de medida para aplicação das taxas estabelecidas consoante os casos são indivisíveis, salvo disposição em contrário.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 30.º — Quantidades
+
+1 - A determinação das quantidades para aplicação das taxas faz-se por medição directa ou, na sua impossibilidade, a partir das declarações dos interessados, sujeitas a verificação.
+
+2 - As indicações fornecidas pela alfândega dispensam a medição directa e a verificação das declarações.
+
+3 - As administrações portuárias poderão adoptar nos cálculos de medição quaisquer tabelas ou tábuas oficialmente aprovadas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 31.º — Manifestos
+
+1 - As empresas, agências de navegação ou seus representantes devem entregar às administrações portuárias relações dos passageiros que embarquem ou desembarquem e o número de cópias dos manifestos de carga a embarcar e a desembarcar de que estas necessitarem, ou, em sua substituição, guias de circulação ou conhecimentos de embarque, nos prazos que forem fixados pelas comissões administrativas.
+
+2 - Sempre que as administrações portuárias o entendam conveniente, os manifestos deverão ser acompanhados da sua tradução em língua portuguesa.
+
+3 - As administrações portuárias poderão também determinar que os manifestos respeitantes a cargas contentorizadas sejam completados com os elementos indispensáveis à aplicação das taxas devidas.
+
+4 - De harmonia com as disposições a este respeito contidas no Estatuto das Juntas Autónomas dos Portos, as autoridades aduaneiras facilitarão às administrações portuárias, sempre que estas o solicitarem, o conhecimento dos despachos de mercadorias que transitem, em qualquer regime, nos respectivos portos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 32.º — Requisição de serviços de exploração
+
+1 - A fim de disciplinar e de tornar mais eficientes os serviços de exploração portuária e a aplicação das respectivas taxas, quer em relação aos períodos normais de trabalho, quer aos extraordinários, devem os serviços ser previamente requisitados pelos interessados, em impressos próprios das administrações portuárias e obedecendo a normas por estas previamente estabelecidas.
+
+2 - As requisições devem ser correctamente preenchidas e dar entrada nas administrações portuárias dentro dos prazos estabelecidos, sem o que serão os requisitantes responsáveis pela imperfeita ou impossível satisfação dos serviços requisitados.
+
+3 - Os requisitantes respondem pelo pagamento dos serviços pedidos, salvo se os mesmos não forem efectuados por motivos imputáveis às administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 33.º — Taxas omissas
+
+1 - Nos casos de omissão de taxas, as comissões administrativas elaborarão a respectiva proposta, que carece de aprovação ministerial, dada sob parecer da Direcção-Geral de Portos.
+
+2 - Quando se trate de casos urgentes, que não possam aguardar resolução superior, os directores dos portos aplicarão as taxas que julgarem mais adequadas, processando-se a sua homologação nos termos do número anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 34.º — Serviços especiais com ajuste prévio
+
+Em casos especiais, poderão ser executados serviços sem subordinação ao tarifário estabelecido, mediante prévio ajuste entre os interessados e os directores dos portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 35.º — Bonificações
+
+1 - Em casos excepcionais, devidamente justificados, poderão as comissões administrativas conceder bonificações sobre as taxas constantes deste Regulamento.
+
+2 - As bonificações serão concedidas caso por caso, devendo as que se destinem a ter aplicação continuada, quer tenham ou não limitação no tempo, ser submetidas a aprovação da Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 36.º — Infracções e penalidades
+
+1 - Em caso de infracção ao que se encontra regulamentado, designadamente no de realização de quaisquer operações sem prévia autorização, ficam os infractores sujeitos à aplicação de penalidades pelas administrações portuárias.
+
+2 - As penalidades podem consistir no agravamento das taxas, até ao décuplo dos seus valores, durante os períodos das infracções e na aplicação de multas entre 500$00 e 50000$00, acumuláveis com o agravamento anteriormente referido, se a gravidade das faltas o justificar.
+
+3 - A prestação de falsas ou inexactas declarações nos elementos fornecidos às administrações portuárias para efeitos de aplicação de taxas é punível com a multa de 200% sobre a diferença para o valor, corrigido, da taxa a pagar, concedendo-se, porém, uma tolerância de 5% nas quantidades indicadas pelos declarantes, mas sendo devida a importância dessa diferença, além da multa.
+
+4 - As multas a que se alude nos n.os 2 e 3 estão isentas de qualquer adicional.
+
+5 - Os directores dos portos, ou os seus delegados, poderão impor aos infractores a imediata suspensão das operações comerciais, quando tal se justificar, ou suspender a entrada nos recintos reservados aos prevaricadores ou desobedientes.
+
+6 - As administrações portuárias poderão, ainda, recusar a prestação de serviços a utentes que, depois de notificados das suas dívidas as não satisfaçam nos prazos que lhes forem fixados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 37.º — Reparação de estragos
+
+1 - A reparação de estragos nas obras, equipamentos ou utensílios do porto, bem como a limpeza de detritos, será efectuada pelos responsáveis, dentro do prazo que lhes for fixado pelas administrações portuárias, ou por essas próprias administrações, pagando aqueles as despesas de harmonia com o disposto no artigo 139.º deste Regulamento, ou com o acréscimo de 20% sobre o respectivo encargo global, se a reparação ou a limpeza forem mandadas executar no exterior.
+
+2 - O material perdido ou inutilizado será pago às administrações portuárias ao preço do mercado, acrescido de 20%.
+
+3 - Os causadores dos estragos são, também, responsáveis pelo pagamento de indemnizações por desaproveitamento das obras e imobilização de equipamentos, pelo tempo que permanecerem inoperacionais.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 38.º — Horário de trabalho
+
+1 - As administrações dos portos fixarão, com subordinação aos limites gerais estabelecidos, as horas normais de trabalho e as extraordinárias, de harmonia com as conveniências do serviço.
+
+2 - Os períodos de trabalho extraordinário serão fixados pelas administrações portuárias em concordância com o estabelecido nos contratos colectivos de trabalho portuário para os trabalhadores da Federação Nacional dos Sindicatos dos Trabalhadores Portuários.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 39.º — Serviço extraordinário
+
+1 - Salvo nos casos especialmente previstos neste Regulamento, quando se trate de serviços que, de qualquer modo, envolvam mão-de-obra, prestados fora do período normal de trabalho, as taxas base do Regulamento terão os seguintes aumentos:
+
+a) Dias úteis:
+
+Na hora que antecede o período normal de trabalho e nas três seguintes ao mesmo período - 50%;
+
+Nas restantes horas e horas de refeição - 100%;
+
+b) Aos domingos, dias feriados e equiparados e dias de descanso semanal - 100%
+
+2 - Os serviços extraordinários serão facturados do seguinte modo:
+
+a) As prestações de serviços e demais trabalhos que envolvam mão-de-obra, até ao final do período para que foi aceite a requisição e os fornecimentos, pelas quantidades efectivamente consumidas;
+
+b) O pessoal utilizado não incluído na prestação do serviço, até ao final do período a que respeitar o serviço efectuado.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 40.º — Imposição de trabalho extraordinário
+
+Em casos de congestionamento, poderão as administrações portuárias impor aos utentes, se assim o entenderem conveniente, a execução de serviços fora do horário normal, sem direito a qualquer indemnização e com o pagamento das respectivas taxas, ficando, além disso, os mesmos utentes sujeitos à aplicação do disposto no artigo 49.º deste Regulamento.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 41.º — Cobrança de taxas por outrem
+
+Em casos especiais, a cobrança de taxas, destinadas às administrações portuárias, poderá ser confiada a entidades estranhas, em condições a acordar.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 42.º — Arredondamento de contas
+
+Serão arredondadas para o número inteiro de escudos imediatamente superior, quando terminem em fracção, as importâncias resultantes da aplicação de cada uma das taxas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 43.º — Reclamação de contas
+
+1 - A reclamação de contas só é admitida desde que seja apresentada dentro do prazo fixado para o seu pagamento e com prévio depósito da importância respectiva.
+
+2 - Pela reclamação julgada improcedente, ou quando o erro resulte de falta imputável ao reclamante, será cobrada a importância de 10% do valor da conta reclamada, com o mínimo de 100$00 e o máximo de 1000$00.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 44.º — Cobrança coerciva
+
+A cobrança coerciva de importâncias em dívida às administrações portuárias segue o processo estabelecido para esse efeito no Estatuto das Juntas Autónomas dos Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título II — Embarcações
+
+### Capítulo I — Disposições comuns
+
+###### Artigo 45.º — Autorização para acostagem
+
+1 - Nenhuma embarcação poderá demandar o porto, acostar ou mudar de posto de acostagem sem prévia autorização da direcção do porto.
+
+2 - Compete aos serviços de exploração das administrações portuárias a fixação dos locais de acostagem das diferentes embarcações, conforme a natureza das mercadorias a movimentar, comprimento dos navios, calado e outros factores que se entenda conveniente considerar.
+
+3 - A indicação dos locais de acostagem é dada aos pilotos pelos serviços de exploração das administrações portuárias.
+
+4 - Quando os mesmos serviços o julguem necessário, poderão as embarcações acostar por fora de outras já acostadas ou amarradas, caso não haja impedimentos, designadamente no respeitante a segurança.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 46.º — Avisos de chegada
+
+1 - Aos serviços de exploração dos portos deverá, com antecedência, ser dado conhecimento, em impresso próprio, do dia da chegada das embarcações, suas dimensões, calado, tonelagem bruta, quantidade e natureza das mercadorias a descarregar ou a carregar, passageiros a embarcar ou a desembarcar e outras informações complementares, de modo a ser-lhes proporcionada a devida assistência e o rápido desembaraço nas operações que pretendam realizar.
+
+2 - Sempre que haja alteração de qualquer dos elementos fornecidos, deverá ser dado imediato conhecimento aos serviços de exploração.
+
+3 - Os prejuízos de qualquer natureza que advenham de erradas ou insuficientes informações são da inteira responsabilidade de quem as prestou.
+
+4 - Não necessitam de cumprir as formalidades referidas no n.º 1 deste artigo as embarcações de tráfego local, pesca costeira e de recreio, desde que apenas utilizem as obras destinadas às suas actividades específicas.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 47.º — Prioridade de acostagem
+
+1 - As embarcações acostarão, salvo o disposto no número seguinte, conforme as características do porto, pela ordem da sua chegada em frente da barra ou ao ancoradouro exterior.
+
+2 - Terão prioridade de acostagem em relação às outras embarcações, pela ordem a seguir indicada:
+
+a) As que, por motivo de reconhecido interesse público, a direcção do porto entenda deverem acostar com precedência sobre todas ou algumas das outras;
+
+b) As que, por motivo de segurança própria ou da sua tripulação, ou por motivo de terem de desembarcar náufragos, sinistrados ou doentes, as autoridades marítimas entendam dever ser imediatamente acostadas;
+
+c) As de passageiros, com vinte e quatro ou mais passageiros em trânsito, ou que tenham para embarcar ou desembarcar, pelo menos, este número;
+
+d) As que transportem e pretendam desembarcar ou embarcar gado vivo ou alimentos deterioráveis;
+
+e) As embarcações porta-contentores, car-ferry e rol-on/rol-off que movimentem no porto mercadorias transportadas unicamente por sistemas especializados.
+
+3 - Quando o interesse do porto imponha uma solução diversa das previstas no número anterior, será o assunto resolvido, em última instância, pelo respectivo director.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 48.º — Desacostagem ou mudança do posto de acostagem
+
+1 - A direcção do porto poderá ordenar a desacostagem ou a mudança de local de acostagem de qualquer embarcação sempre que o julgar conveniente, nomeadamente quando o rendimento da carga ou descarga das mercadorias for inferior ao normal por motivos estranhos à administração portuária, suportando a embarcação as despesas inerentes.
+
+2 - A falta de cumprimento imediato do estabelecido no n.º 1 deste artigo não só justificará o recurso a meios coercivos pela direcção do porto para fazer respeitar a determinação como também implicará a aplicação das penalidades previstas neste Regulamento e o pagamento de indemnização por prejuízos causados a terceiros, se os houver.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 49.º — Recusa de trabalho extraordinário
+
+Nos casos de congestionamento, previstos no artigo 40.º deste Regulamento, se uma embarcação acostada se recusar a realizar trabalho fora das horas normais, poderá a direcção do porto impor a sua desacostagem ou mudança de posto de acostagem para dar lugar a outra que deseje realizar trabalho naquelas condições. A embarcação desacostada suportará os encargos consequentes e ocupará, posteriormente, o primeiro cais vago.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 50.º — Recusa de trabalhar
+
+As embarcações que entrem no porto e que, tendo lugar no cais, se recusem a trabalhar perdem a sua posição a favor de outras que o pretendam fazer.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 51.º — Operações para navios arribados ou avariados
+
+As embarcações, arribadas ou avariadas, que mais tarde pretendam realizar operações comerciais, depois de cumpridas as formalidades do artigo 46.º marcarão posição para atracar a partir do momento em que comunicarem a intenção de trabalhar, não podendo, no entanto, ser prejudicada a planificação já efectuada pelos serviços de exploração relativamente às embarcações anunciadas para esse dia.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 52.º — Precauções na atracação e desatracação das embarcações
+
+Antes das operações de atracação e desatracação ou mudança do posto de acostagem, devem as embarcações ter os guinchos de vante e de ré prontos a servir, meter dentro os turcos, as escadas de portaló, paus de carga e salva-vidas e ter as âncoras dentro, excepto as necessárias à execução daquelas operações, de forma a não atingirem os guindastes ou os cais.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 53.º — Amarrações
+
+1 - Os comandantes ou mestres das embarcações acostadas aos cais, ou quem as suas vezes fizer, não podem recusar-se a arriar as suas amarras para facilitar a atracação ou desatracação de outras embarcações, a reforçar ou substituir as suas amarrações, a tomar todas as precauções que lhes forem prescritas e, bem assim, amarrar no lugar que lhes for indicado pelos serviços de exploração das administrações portuárias.
+
+2 - Feita a atracação da embarcação, fica a cargo do navio manter a sua segurança e vigiar os cabos de amarração.
+
+3 - As amarrações em terra serão feitas pelo pessoal das administrações portuárias, salvo nos casos em que seja permitida a execução dos serviços por pessoal estranho, mas de acordo com as prescrições dessas administrações.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 54.º — Obrigações dos comandantes e dos mestres das embarcações
+
+As embarcações acostadas são obrigadas a:
+
+a) Ter permanentemente a bordo pessoal para fazer qualquer manobra, ficando sujeitas, para além das penalidades que lhes forem impostas pela administração portuária, ao pagamento de indemnizações, quando, pelo não cumprimento desta disposição, impeçam ou prejudiquem a execução de manobras que o movimento do porto exija e daí resultem prejuízos, não só para o desembaraço normal do porto, como para terceiros;
+
+b) Desviar as escadas de portaló, pranchas, paus de carga ou outros apetrechos sempre que estejam a impedir a passagem de guindastes, vagões ou locomotivas;
+
+c) Recolher os paus de carga sempre que não estejam em serviço.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 55.º — Experiências de máquinas e outras operações
+
+1 - Só com autorização expressa e mediante o pagamento da taxa fixada, caso por caso, poderão as embarcações amarradas efectuar ensaios de tracção, experiências de máquinas e outras operações, utilizando órgãos portuários.
+
+2 - Nenhuma embarcação acostada poderá efectuar operações de desratização ou de desinfestação sem prévia autorização da direcção do porto.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 56.º — Material explosivo
+
+É expressamente proibido aos comandantes ou aos mestres das embarcações acostadas conservarem a bordo qualquer material explosivo sem prévio conhecimento das administrações portuárias.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+### Capítulo II — Estacionamento no porto
+
+###### Artigo 57.º — Taxas
+
+1 - Todas as embarcações que entrem ou estacionem nas águas dos portos sob jurisdição das administrações portuárias estão sujeitas ao pagamento das seguintes taxas de estacionamento, por unidade de arqueação bruta (GT):
+
+a) Embarcações de carga:
+
+Pelo período de vinte e quatro horas - 6$00;
+
+Por iguais períodos sucessivos - 2$00;
+
+b) Embarcações de pesca:
+
+Pelo período de vinte e quatro horas - 2$00;
+
+Por iguais períodos sucessivos - 1$00;
+
+c) Embarcações de passageiros e outras não especificadas:
+
+Pelo período de vinte e quatro horas - 4$00;
+
+Por iguais períodos sucessivos - 2$00;
+
+d) Embarcações de qualquer tipo aguardando ordens, com tripulação reduzida, amarradas ou fundeadas em local destinado a esse fim (lay-up):
+
+Por cada mês - 2$00.
+
+2 - Para aplicação da taxa de estacionamento no porto, a contagem de tempo começa quando a embarcação entra nas águas do porto e termina quando ultrapassa a saída.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 228/98 - Diário da República n.º 85/1998, Série I-B de 1998-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/228-1998-167404), em vigor a partir de 1998-05-01
+
+> Alterado pelo/a 5.º do/a [Portaria n.º 69/94 - Diário da República n.º 26/1994, 1º Suplemento, Série I-B de 1994-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/69-1994-348336), produz efeitos a partir de 1994-02-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 596/93 - Diário da República n.º 142/1993, Série I-B de 1993-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/596-1993-269187), produz efeitos a partir de 1993-06-19
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 290/92 - Diário da República n.º 78/1992, Série I-B de 1992-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/290-1992-189353), produz efeitos a partir de 1992-04-03
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 62/91 - Diário da República n.º 19/1991, Série I-B de 1991-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/62-1991-500390), produz efeitos a partir de 1991-01-15
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1110-L/89 - Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/1110-l-1989-284893), produz efeitos a partir de 1990-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 805-I/88 - Diário da República n.º 288/1988, 1º Suplemento, Série I de 1988-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/805-i-1988-204812), produz efeitos a partir de 1989-01-01
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 925-F/87 - Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/925-f-1987-514033), produz efeitos a partir de 1988-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 61/84 - Diário da República n.º 23/1984, Série I de 1984-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/61-1984-660891), em vigor a partir de 1984-02-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 797/82 - Diário da República n.º 193/1982, Série I de 1982-08-21](https://diariodarepublica.pt/dr/detalhe/portaria/797-1982-397529), em vigor a partir de 1982-09-01
+
+###### Artigo 58.º — Reduções
+
+Nas taxas do artigo anterior beneficiam das seguintes reduções:
+
+1) De 50%:
+
+a) As embarcações que permaneçam nos ancoradouros exteriores dos portos;
+
+b) As embarcações que permaneçam menos de seis horas nas águas dos portos, qualquer que seja a sua situação;
+
+c) As embarcações arribadas ou retidas nos portos por efeito de mau tempo, enquanto durar essa situação;
+
+d) As embarcações inactivas e as que se encontrem em construção ou reparação fora da área dos estaleiros, desde que se encontrem fundeadas ou amarradas a bóias, durante os primeiros trinta dias de estadia;
+
+2) De 40%:
+
+As embarcações que tenham o porto como porto de armamento e de registo;
+
+3) De 30%:
+
+As embarcações, de mais de 500 tAB, após a quarta viagem ao porto no mesmo ano civil.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 59.º — Isenções
+
+Estão isentos do pagamento da taxa de estacionamento no porto:
+
+a) Os navios da Armada portuguesa;
+
+b) Os navios de armadas estrangeiras em visita oficial ou de países que concedam igual isenção aos navios da Armada portuguesa;
+
+c) As embarcações do Estado, excepto as de empresas públicas e de empresas nacionalizadas;
+
+d) As embarcações encarregadas de missões científicas;
+
+e) Os navios-hospitais;
+
+f) As embarcações que entrem no porto exclusivamente para desembarcar náufragos, feridos, doentes ou tripulantes, apenas pelo tempo em que se mantiver a causa da sua entrada;
+
+g) As embarcações de tráfego local e de pesca até 100 tAB, desde que não ocupem espaço ou obras fora dos locais especificamente destinados às suas actividades;
+
+h) As lanchas e os rebocadores nacionais exclusivamente empregados nos serviços do porto;
+
+i) As embarcações para desmantelar e as que estejam efectuando, de uma forma seguida e regular, grandes reparações ou fabricos, enquanto se mantiverem nas instalações privativas dos estaleiros;
+
+j) As embarcações o construções flutuantes destinadas a fins especiais, enquanto permanecerem nos portos no interesse das respectivas administrações portuárias;
+
+l) As embarcações de tráfego local afectas, por licença ou contrato de concessão, a carreiras regulares de passageiros, veículos e mercadorias, nas zonas sob jurisdição das administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 314/89 - Diário da República n.º 218/1989, Série I de 1989-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1989-547657), em vigor a partir de 1989-09-26
+
+### Capítulo III — Acostagem e utilização de docas de marés
+
+###### Artigo 60.º — Obrigatoriedade de acostagem
+
+1 - É obrigatória a acostagem das embarcações de passageiros, de longo curso, cabotagem e navegação costeira que venham efectuar operações de embarque ou desembarque de passageiros ou de carga ou descarga no porto, desde que estejam em condições de as fazer.
+
+2 - O director do porto pode, contudo, dispensar a acostagem, sem prejuízo do pagamento da respectiva taxa. Essa taxa, porém, não será devida sempre que a dispensa for motivada por inexistência de local disponível para as operações ou por conveniência do porto.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 61.º — Contagem de tempo
+
+1 - Para aplicação da taxa de acostagem, o tempo começa a ser contado a partir da hora em que a primeira amarra for passada até ao momento da largada da última amarra.
+
+2 - O tempo de utilização de docas de marés começa a ser contado quando a embarcação entra na doca e termina quando sai.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 62.º — Taxas
+
+1 - As embarcações que acostem aos cais, pontes-cais, estacadas, duques-de-alba e quaisquer outras instalações na área de jurisdição das administrações portuárias estão sujeitas ao pagamento das seguintes taxas por cada período, indivisível, de vinte e quatro horas:
+
+a) Embarcações de carga:
+
+t = 1,55 T + 6,1 L
+
+b) Embarcações de passageiros, de pesca de alto, de pesca longínqua e outras não especificadas:
+
+t = 1,09 T + 4,77 L
+
+em que:
+
+t = valor da taxa em escudos:
+
+T = unidades de arqueação bruta (GT);
+
+L = comprimento de fora a fora das embarcações, em metros.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 228/98 - Diário da República n.º 85/1998, Série I-B de 1998-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/228-1998-167404), em vigor a partir de 1998-05-01
+
+> Alterado pelo/a 5.º do/a [Portaria n.º 69/94 - Diário da República n.º 26/1994, 1º Suplemento, Série I-B de 1994-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/69-1994-348336), produz efeitos a partir de 1994-02-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 596/93 - Diário da República n.º 142/1993, Série I-B de 1993-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/596-1993-269187), produz efeitos a partir de 1993-06-19
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 290/92 - Diário da República n.º 78/1992, Série I-B de 1992-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/290-1992-189353), produz efeitos a partir de 1992-04-03
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 62/91 - Diário da República n.º 19/1991, Série I-B de 1991-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/62-1991-500390), produz efeitos a partir de 1991-01-15
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1110-L/89 - Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/1110-l-1989-284893), produz efeitos a partir de 1990-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 797/82 - Diário da República n.º 193/1982, Série I de 1982-08-21](https://diariodarepublica.pt/dr/detalhe/portaria/797-1982-397529), em vigor a partir de 1982-09-01
+
+###### Artigo 63.º — Reduções
+
+Nas taxas do artigo anterior beneficiam das seguintes reduções:
+
+1) De 50%:
+
+a) As embarcações que estejam atracadas menos de seis horas;
+
+b) As embarcações que estejam acostadas por fora de outras ou prolongadas;
+
+c) As embarcações que acostem às obras construídas por entidades particulares, para realização de operações no exclusivo interesse dessas entidades, como compensação pela manutenção das obras marítimas e pelo serviço de cobrança de taxas.
+
+2) De 30%:
+
+As embarcações, de mais de 500 tAB, após a quarta viagem ao porto e no mesmo ano civil.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 64.º — Embarcações de pesca local e costeira, de tráfego local e de navegação costeira - Taxas
+
+1 - As embarcações de pesca local e costeira, de tráfego local e de navegação costeira, nas obras especificamente destinadas à sua actividade e para realização de operações de carga, descarga ou abastecimento, pagarão, por acostagem, a seguinte taxa:
+
+Por cada 50 GT ou fracção - 156$50.
+
+2 - Quando as mesmas embarcações utilizem as referidas obras para realização de outras operações, desde que autorizadas pelos serviços de exploração das administrações portuárias, pagarão as taxas do artigo 62.º, afectadas dos coeficientes de 1,5.
+
+3 - Quando as mesmas embarcações utilizem obras não destinadas à sua actividade específica, pagarão as taxas do artigo 62.º, afectadas do coeficiente de 2,0.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 228/98 - Diário da República n.º 85/1998, Série I-B de 1998-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/228-1998-167404), em vigor a partir de 1998-05-01
+
+> Alterado pelo/a 5.º do/a [Portaria n.º 69/94 - Diário da República n.º 26/1994, 1º Suplemento, Série I-B de 1994-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/69-1994-348336), produz efeitos a partir de 1994-02-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 596/93 - Diário da República n.º 142/1993, Série I-B de 1993-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/596-1993-269187), produz efeitos a partir de 1993-06-19
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 290/92 - Diário da República n.º 78/1992, Série I-B de 1992-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/290-1992-189353), produz efeitos a partir de 1992-04-03
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 62/91 - Diário da República n.º 19/1991, Série I-B de 1991-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/62-1991-500390), produz efeitos a partir de 1991-01-15
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1110-L/89 - Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/1110-l-1989-284893), produz efeitos a partir de 1990-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 805-I/88 - Diário da República n.º 288/1988, 1º Suplemento, Série I de 1988-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/805-i-1988-204812), produz efeitos a partir de 1989-01-01
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 925-F/87 - Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/925-f-1987-514033), produz efeitos a partir de 1988-01-01
+
+###### Artigo 65.º — Taxa de utilização de docas de marés
+
+A taxa de utilização de docas de marés, é, por cada período, indivisível, de vinte e quatro horas e por tAB ... $30
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 66.º — Avenças
+
+1 - Às embarcações de pesca local e costeira, de tráfego local, de navegação costeira nacional e de cabotagem entre ilhas do mesmo arquipélago, de 10 GT a 500 GT, podem ser concedidas avenças, a requerimento dos interessados, para acostagem a obras destinadas às suas actividades específicas e para utilização de docas de marés, mediante o pagamento das seguintes taxas:
+
+a) Até 50 GT:
+
+Anual - 4807$00;
+
+Semestral - 2622$00;
+
+Trimestral - 1443$00;
+
+b) De mais de 50 GT a 100 GT:
+
+Anual - 8729$00;
+
+Semestral - 4807$00;
+
+Trimestral - 2668$00;
+
+c) De mais de 100 GT a 200 GT:
+
+Anual - 14410$00;
+
+Semestral - 7866$00;
+
+Trimestral - 4324$00;
+
+d) Por cada unidade de arqueação bruta acima de 200 GT, as taxas da alínea c) são acrescidas de:
+
+Anual - 48$00;
+
+Semestral - 6$00;
+
+Trimestral - 5$00.
+
+2 - As avenças são ajustadas aos anos civis, por períodos trimestrais, semestrais ou anuais, indivisíveis.
+
+3 - As embarcações avençadas não beneficiarão das regalias previstas no artigo 63.º
+
+4 - Pode ser concedida aos armadores de embarcações de tráfego local e de pesca local e costeira avença para lugar fixo nas protecções marginais, mediante taxa anual de 7567$00.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 228/98 - Diário da República n.º 85/1998, Série I-B de 1998-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/228-1998-167404), em vigor a partir de 1998-05-01
+
+> Alterado pelo/a 5.º do/a [Portaria n.º 69/94 - Diário da República n.º 26/1994, 1º Suplemento, Série I-B de 1994-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/69-1994-348336), produz efeitos a partir de 1994-02-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 596/93 - Diário da República n.º 142/1993, Série I-B de 1993-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/596-1993-269187), produz efeitos a partir de 1993-06-19
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 290/92 - Diário da República n.º 78/1992, Série I-B de 1992-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/290-1992-189353), produz efeitos a partir de 1992-04-02
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 62/91 - Diário da República n.º 19/1991, Série I-B de 1991-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/62-1991-500390), produz efeitos a partir de 1991-01-15
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1110-L/89 - Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/1110-l-1989-284893), produz efeitos a partir de 1990-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 805-I/88 - Diário da República n.º 288/1988, 1º Suplemento, Série I de 1988-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/805-i-1988-204812), produz efeitos a partir de 1989-01-01
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 925-F/87 - Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/925-f-1987-514033), produz efeitos a partir de 1988-01-01
+
+###### Artigo 67.º — Isenções
+
+Estão isentas do pagamento da taxa de acostagem e da de utilização de docas de marés:
+
+a) As embarcações referidas nas alíneas a), b), c), d), e) e f) do artigo 59.º;
+
+b) As embarcações de tráfego local com menos de 10 tAB.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 314/89 - Diário da República n.º 218/1989, Série I de 1989-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1989-547657), em vigor a partir de 1989-09-26
+
+### Capítulo IV — Utilização de bóias
+
+###### Artigo 68.º — Taxas
+
+Pela utilização de bóias por embarcações, excepto as de recreio, serão cobradas, por cada período indivisível de vinte e quatro horas, as seguintes taxas:
+
+a) Até 500 tAB - 100$00;
+
+b) De mais de 500 tAB a 1500 tAB - 100$00 + $15/tAB além de 500 tAB;
+
+c) De mais de 1500 tAB a 5000 tAB - 250$00 + $10 tAB além de 1500 tAB;
+
+d) De mais de 5000 tAB - 600$00 + $05/tAB além de 5000 tAB.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 69.º — Amarração a outras embarcações amarradas a bóias
+
+As embarcações que amarrem a outras amarradas a bóias pagarão como se fossem amarradas directamente a essas bóias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo V — Defensas
+
+###### Artigo 70.º — Taxas
+
+1 - A utilização de defensas está sujeita, nos portos do continente, ao pagamento das seguintes taxas, por cada período indivisível de vinte e quatro horas:
+
+a) Defensas amovíveis - cada uma ... 120$00
+
+b) Defensas fixas - por cada fracção de 50 m de comprimento de fora a fora das embarcações ... 100$00
+
+2 - Nos portos das Regiões Autónomas da Madeira e dos Açores serão as taxas estabelecidas, tendo em conta o condicionalismo local, pelas comissões administrativas das respectivas Juntas, devendo, no entanto, ser sujeitas à aprovação dos Governos Regionais, ouvida a Direcção-Geral de Portos.
+
+3 - As taxas de utilização de defensas, de tipos ou de dimensões especiais, são fixadas pelas comissões administrativas tendo em conta o seu custo e o tempo provável da sua duração.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 71.º — Número de defensas a utilizar
+
+O número de defensas amovíveis a utilizar para além do mínimo de duas é fixado pelos serviços de exploração das administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 72.º — Isenções
+
+Para determinados tipos de embarcações e obras acostáveis, providas de defensas, poderão as comissões administrativas estabelecer isenções do pagamento das taxas de que trata o artigo 70.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo VI — Eclusas
+
+###### Artigo 73.º — Taxas
+
+1 - Por cada passagem nas eclusas serão cobradas as seguintes taxas:
+
+a) Embarcações até 500 tAB ... 100$00
+
+b) Embarcações com mais de 500 tAB ... 200$00
+
+2 - Os rebocadores, com embarcações a reboque, estão isentos das taxas estabelecidas no número anterior, desde que essas embarcações paguem a respectiva taxa de passagem na eclusa.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 74.º — Isenções
+
+Estão isentas do pagamento da taxa de eclusa, desde que não obriguem a manobra das portas:
+
+a) As embarcações do Estado, excepto as de empresas públicas ou nacionalizadas;
+
+b) As embarcações de tráfego local, de pescas local e costeira, até 50 tAB;
+
+c) As embarcações de desporto e de recreio, até 3 tAB.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo VII — Docas secas
+
+###### Artigo 75.º — Regime de exploração
+
+A exploração de docas secas será feita, directamente, pelas administrações portuárias, mediante regulamento especial aprovado pelo director-geral de Portos, ou por entidade ou entidades a quem o Governo a entregar em regime de concessão.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+### Capítulo VIII — Outros meios de querenagem
+
+###### Artigo 76.º — Exploração e regulamentação
+
+A exploração de outros meios de querenagem será feita em cada porto, ou directamente pelas administrações portuárias, ou por entidades estranhas, em regime de arrendamento ou de concessão, sendo, neste caso, a sua regulamentação sujeita à aprovação da Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 77.º — Taxas
+
+1 - As taxas de utilização dos meios de querenagem, explorados pelas administrações portuárias, são por elas estabelecida, devendo intervir na composição dos respectivos valores:
+
+a) Uma parcela respeitante às operações de encalhe e de lançamento à água das embarcações, conforme as características das obras e os tipos e tonelagem dessas embarcações;
+
+b) Uma parcela correspondente ao número de utilização dos equipamentos mecânicos privativos, calculada em função dos seguintes elementos:
+
+Custo desses equipamentos;
+
+Número de horas de vida que lhes é atribuído;
+
+Valor residual;
+
+Custo horário da respectiva conservação e manutenção;
+
+Custo horário do seu funcionamento, incluindo, designadamente, remunerações do pessoal, combustíveis ou energia e lubrificantes;
+
+c) Uma parcela correspondente ao produto do número de dias de permanência das embarcações nas obras por uma importância diária em função do tipo da tonelagem de arqueação bruta das embarcações querenadas.
+
+2 - O custo da realização de trabalhos preparatórios, se os houver, deverá ser adicionado ao produto das taxas de utilização dos meios de querenagem.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título III — Passageiros e mercadorias
+
+### Capítulo I — Disposições comuns
+
+###### Artigo 78.º — Responsabilidades
+
+As administrações portuárias não são responsáveis pelas avarias que as mercadorias sofram em resultado da sua própria natureza, do seu modo de acondicionamento e de embalagem, nem pelos roubos, sinistros e estragos causados por animais daninhos, nem ainda por quaisquer outros prejuízos que se verifiquem nessas mercadorias, durante o período em que permaneçam nos portos, designadamente durante o seu manuseamento.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 79.º — Fixação dos locais de armazenagem
+
+1 - Os locais de depósito das mercadorias, nos terraplenos, nos armazéns e nos terrenos marginais livres, são determinados pelos serviços de exploração das administrações portuárias.
+
+2 - O não cumprimento do estabelecido no número anterior poderá implicar não só a remoção obrigatória dos locais indevidamente ocupados, nos prazos fixados e a expensas dos prevaricadores, como também a aplicação de penalidades.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 80.º — Remoção das mercadorias armazenadas
+
+1 - Sempre que a permanência de determinadas mercadorias for reconhecida inconveniente, poderão as administrações portuárias fixar um prazo para a sua remoção obrigatória.
+
+2 - Caso não seja dado cumprimento ao estabelecido no número anterior, poderão as administrações portuárias promover a remoção das mercadorias a expensas dos seus donos ou consignatários e, inclusivamente, decidir quanto à aplicação de penalidades.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 81.º — Mercadorias abandonadas
+
+1 - As mercadorias de proprietários desconhecidos e aquelas cuja armazenagem não seja paga até sessenta dias depois da apresentação da guia de receita consideram-se abandonadas e em condições de serem vendidas em leilão.
+
+2 - As administrações portuárias deverão notificar os interessados, por carta registada com aviso de recepção, sendo conhecidos, ou por editais, sendo desconhecidos ou encontrando-se em parte incerta, da situação que resultou para as mercadorias do não pagamento dos encargos da sua armazenagem no porto e de quaisquer providências, tomadas ou a tomar, com vista à sua regularização.
+
+3 - O produto do leilão destina-se, em primeiro lugar, ao pagamento da dívida a que se refere o n.º 1 deste artigo, se não houver outras que, legalmente, devam ter preferência.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+### Capítulo II — Taxa de porto
+
+###### Artigo 82.º — Âmbito de aplicação
+
+1 - A taxa de porto aplica-se:
+
+a) A todos os passageiros embarcados ou desembarcados nas instalações portuárias;
+
+b) Por uma só vez, a todas as mercadorias movimentadas nas instalações portuárias, quer sejam embarcadas, desembarcadas, baldeadas, desestivadas e novamente postas a bordo.
+
+2 - Para efeitos de aplicação da taxa de porto, classificam-se:
+
+a) Os passageiros, segundo a natureza da viagem, em viagens de longo curso, de navegação costeira e de tráfego entre as ilhas;
+
+b) As mercadorias, excepto as do tráfego no interior dos portos e o pescado transaccionado ou avaliado nas lotas, num dos dez grupos referidos no artigo 83.º e numa das classes seguintes:
+
+Classe A - mercadorias desembarcadas provenientes do estrangeiro;
+
+Classe B - mercadorias embarcadas e mercadorias desembarcadas provenientes de portos nacionais.
+
+3 - A relação das mercadorias a incluir em cada um dos grupos em que terão de ser classificadas para efeitos de aplicação da taxa de porto será a constante de portaria do Ministro dos Transportes e Comunicações, a publicar, sob proposta da Direcção-Geral de Portos, que, para o efeito, colherá das administrações portuárias os necessários elementos.
+
+Do grupo V dessa relação constará uma rubrica de «mercadorias não especificadas», em que são classificadas as nela não incluídas enquanto não lhes for estabelecida classificação própria, em conformidade com o disposto no número seguinte.
+
+4 - Os acrescentamentos e correcções à relação que venham a mostrar-se necessários ser-lhes-ão introduzidos mediante intervenção das mesmas entidades que promoveram a publicação da portaria a que se refere o número anterior, devendo, anualmente, ser publicadas, em novas portarias, relações actualizadas e corrigidas.
+
+5 - Até à entrada em vigor da portaria a que alude o n.º 3 mantêm-se as actuais tarifas provisórias designadamente as aprovadas pela Portaria n.º 34/78, de 16 de Janeiro.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 83.º — Taxas
+
+1 - As taxas de porto a cobrar são as seguintes:
+
+a) Por cada passageiro, segundo a natureza da viagem:
+
+De longo curso e cabotagem - 377$00;
+
+De navegação costeira (só no embarque) - 88$00;
+
+De tráfego local em excursões e cruzeiros turísticos (só no embarque) - 54$00;
+
+Entre ilhas do mesmo arquipélago, em embarcações de qualquer classe (só no embarque) - 9$00;
+
+b) Por cada tonelada, para as mercadorias movimentadas, excepto as de tráfego no interior dos portos e o pescado transaccionado ou avaliado em lotas, conforme o quadro seguinte:
+
+(ver quadro no documento original)
+
+c) Para as mercadorias movimentadas em embarcações exclusivamente dentro da área de jurisdição de cada administração portuária, sem ultrapassar os limites das obras exteriores do respectivo porto - 18$00/t;
+
+d) Para o pescado transaccionado ou avaliado nas lotas - 1,5% do seu valor;
+
+e) Para os contentores vazios que transitam pelas instalações portuárias e nelas não sejam carregados com mercadoria:
+
+Até 20 pés, inclusive - 72$00/contentor;
+
+De mais de 20 pés - 144$00/contentor;
+
+f) Para as mercadorias transportadas em contentores aplicam-se as taxas dos grupos em que se classifiquem cada uma delas, de acordo com a relação referida no n.º 3 do artigo 82.º
+
+2 - Admite-se, para cada partida em mercadorias que não exceda 1 t, a divisão da taxa por fracção de 250 kg, com o mínimo de cobrança de 130$00.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 228/98 - Diário da República n.º 85/1998, Série I-B de 1998-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/228-1998-167404), em vigor a partir de 1998-05-01
+
+> Alterado pelo/a 5.º do/a [Portaria n.º 69/94 - Diário da República n.º 26/1994, 1º Suplemento, Série I-B de 1994-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/69-1994-348336), produz efeitos a partir de 1994-02-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 596/93 - Diário da República n.º 142/1993, Série I-B de 1993-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/596-1993-269187), produz efeitos a partir de 1993-06-19
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 290/92 - Diário da República n.º 78/1992, Série I-B de 1992-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/290-1992-189353), produz efeitos a partir de 1992-04-03
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 62/91 - Diário da República n.º 19/1991, Série I-B de 1991-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/62-1991-500390), produz efeitos a partir de 1991-01-15
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1110-L/89 - Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/1110-l-1989-284893), produz efeitos a partir de 1990-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 805-I/88 - Diário da República n.º 288/1988, 1º Suplemento, Série I de 1988-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/805-i-1988-204812), produz efeitos a partir de 1989-01-01
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 411/88 - Diário da República n.º 259/1988, Série I de 1988-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1988-358756), em vigor a partir de 1988-11-14
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 925-F/87 - Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/925-f-1987-514033), produz efeitos a partir de 1988-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 797/82 - Diário da República n.º 193/1982, Série I de 1982-08-21](https://diariodarepublica.pt/dr/detalhe/portaria/797-1982-397529), em vigor a partir de 1982-09-01
+
+###### Artigo 84.º — Reduções
+
+Gozam de redução de 50% nas taxas do artigo anterior:
+
+a) As mercadorias movimentadas em instalações próprias, de entidades públicas ou privadas, no seu exclusivo interesse, desde que estas suportem, integralmente, os respectivos encargos de conservação, e de manutenção dos fundos necessários à sua utilização;
+
+b) As mercadorias desembarcadas, provenientes de outro porto sob jurisdição da mesma administração portuária;
+
+c) As mercadorias baldeadas directamente de uma embarcação para outra, sem passar pelos cais.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 85.º — Isenções
+
+1 - Estão isentos do pagamento da taxa de porto:
+
+a) Os passageiros do tráfego local autorizado nos termos do Decreto-Lei n.º 669/73, de 17 de Dezembro, e os passageiros em trânsito;
+
+b) Os menores de 11 anos, os náufragos, os presos e os indigentes;
+
+c) Os volumes de peso inferior a 30 kg e as bagagens de passageiros e de tripulantes;
+
+d) As redes, e palamentas em utilização pelas embarcações de pesca;
+
+e) As mercadorias para gastos de bordo, com exclusão dos combustíveis para a navegação;
+
+f) Os caixões e as urnas funerárias, com despojos humanos;
+
+g) As mercadorias movimentadas nos transportes fluviais colectivos.
+
+2 - Consideram-se passageiros em trânsito os que, durante, a mesma escala, desembarquem e voltem a embarcar na mesma embarcação e no mesmo porto, continuando a viagem.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 797/82 - Diário da República n.º 193/1982, Série I de 1982-08-21](https://diariodarepublica.pt/dr/detalhe/portaria/797-1982-397529), em vigor a partir de 1982-09-01
+
+###### Artigo 86.º — Acção da fiscalização aduaneira sobre o pagamento da taxa do porto
+
+A fiscalização aduaneira em serviço nas zonas de jurisdição das administrações portuárias não permitirá o embarque, desembarque, transbordo ou saída da zona do porto de mercadorias sem que se prove o pagamento da taxa de porto, nos casos em que essas administrações o determinem.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 87.º — Direitos conferidos pela taxa de porto
+
+O pagamento da taxa de porto confere:
+
+a) Aos passageiros - o direito de embarque e desembarque, assim como o das suas bagagens;
+
+b) Às mercadorias a que respeita - o direito de embarque e desembarque nas obras marítimas e armazenagem a descoberto, durante vinte e quatro horas, a partir do momento em que fica impedido o espaço ocupado pelas mercadorias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo III — Armazenagem
+
+###### Artigo 88.º — Medidas de segurança
+
+1 - Os donos das mercadorias, os seus recebedores e expedidores, ou os seus mandatários, são responsáveis pelas medidas de segurança a adoptar em decorrência dos riscos que as mercadorias armazenadas oferecem pela sua natureza, isoladamente ou em presença de outras, incluindo o pagamento de espaços de armazenagem superiores aos realmente ocupados.
+
+2 - Independentemente das medidas de segurança a que se refere o número anterior, as administrações portuárias tomarão mais as que se mostrarem indispensáveis em relação às mercadorias classificadas como carga especial.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 89.º — Contagem de tempo
+
+Sem prejuízo do disposto na alínea b) do artigo 87.º, a contagem do tempo de armazenagem começa a partir do momento em que os espaços ficam à disposição dos interessados e termina quando estes ficarem livres e no estado em que se encontravam.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 90.º — Cobrança de taxas
+
+As taxas de armazenagem serão cobradas mensalmente e também quando da saída das mercadorias dos recintos portuários.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 91.º — Restrições de armazenagem
+
+As direcções dos portos fixarão os tipos de mercadorias que não devem ser recolhidas a coberto nos armazéns.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 92.º — Mercadorias depositadas sobre veículos
+
+As mercadorias que, nas áreas sob jurisdição portuária, permaneçam depositadas em vagões ou outros veículos, ficam sujeitas ao pagamento das taxas de armazenagem pelo espaço que estas ocupem.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 93.º — Taxa de armazenagem a descoberto
+
+1 - Pela ocupação temporária, a descoberto, das obras fluviais ou marítimas e dos terraplenos portuários, com mercadorias classificadas como carga geral, são devidas nos portos do continente, por cada período indivisível de vinte e quatro horas e por metro quadrado, as seguintes taxas, com um mínimo de cobrança de 50$00:
+
+Nos primeiros dez períodos ... $30
+
+Do 11.º ao 30.º período ... 1$00
+
+A partir do 31.º período ... 2$00
+
+2 - As taxas de armazenagem a descoberto nos portos das Regiões Autónomas da Madeira e dos Açores serão estabelecidas, tendo em atenção o condicionalismo local, pelas comissões administrativas das respectivas Juntas, devendo no entanto ser sujeitas à aprovação dos Governos Regionais, ouvida a Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 94.º — Taxa de armazenagem a coberto
+
+1 - Pela ocupação temporária dos armazéns e cobertos com mercadorias classificadas como carga geral são devidas, nos portos do continente, por cada período indivisível de vinte e quatro horas e por metro cúbico, as seguintes taxas, com um mínimo de cobrança de 50$00:
+
+Nos primeiros dez períodos ... $60
+
+Do 11.º ao 30.º período ... 2$00
+
+A partir do 31.º período ... 4$00
+
+2 - As taxas de armazenagem a coberto nos portos das Regiões Autónomas da Madeira e dos Açores serão estabelecidas, tendo em atenção o condicionalismo local, pelas comissões administrativas das respectivas Juntas, devendo ser sujeitas à aprovação dos Governos Regionais, ouvida a Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 95.º — Taxa de armazenagem em terrenos marginais livres
+
+Pela ocupação temporária de terrenos marginais livres com mercadorias classificadas como carga geral é devida, por metro quadrado e por períodos indivisíveis de oito dias, a taxa de $50.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 96.º — Taxa de armazenagem de mercadorias classificadas como carga especial
+
+As taxas de armazenagem para as mercadorias classificadas como carga especial são duplas das fixadas para as classificadas como carga geral.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 97.º — Agravamento das taxas de armazenagem em caso de congestionamento
+
+Em situações de congestionamento dos portos reconhecidas pela Direcção-Geral de Portos, poderão as comissões administrativas agravar as taxas de armazenagem que incidem sobre as mercadorias que contribuem para esse congestionamento até ao máximo de 100% do seu valor regulamentar.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo IV — Tráfego
+
+###### Artigo 98.º — Regime de execução
+
+O tráfego de mercadorias nas áreas sob jurisdição das administrações portuárias será efectuado directamente por elas ou por outras entidades a quem tenha sido autorizada a sua execução, conforme for mais conveniente ao interesse dos portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 99.º — Regulamentos especiais
+
+1 - O tráfego de mercadorias será objecto de regulamentos especiais, a elaborar por cada uma das administrações portuárias, donde constarão a natureza dos serviços, âmbito, forma de prestação, taxas aplicáveis e demais condições para a sua boa execução.
+
+2 - Os regulamentos referidos no número anterior carecem, para se tornarem executórios, de homologação da Direcção-Geral de Portos.
+
+3 - Enquanto não forem cumpridas as formalidades atrás referidas, continuarão a ser aplicadas as normas em vigor sobre a matéria.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título IV — Prestação de serviços
+
+### Capítulo I — Disposições comuns
+
+###### Artigo 100.º — Responsabilidades
+
+As administrações portuárias não são responsáveis pelos danos e prejuízos resultantes da paralisação dos serviços por avarias ou roturas fortuitas que tenham lugar durante a prestação dos serviços.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 101.º — Normas de utilização do equipamento
+
+1 - É obrigatória a utilização dos equipamentos das administrações portuárias nas áreas sob sua jurisdição, salvo nos casos de reconhecida insuficiência ou de inexistência de equipamento adequado.
+
+2 - A distribuição do equipamento pelos requisitantes é da exclusiva competência dos serviços de exploração das administrações portuárias, cabendo-lhes, de igual modo, proceder ao seu rateio pela forma julgada mais justa, se se verificar a sua insuficiência.
+
+3 - Nos tempos de utilização dos equipamentos serão deduzidas as interrupções resultantes de:
+
+a) Falta de energia eléctrica, no caso de máquinas accionadas electricamente;
+
+b) Avaria ou paralisação dos equipamentos por motivos a que os requisitantes sejam estranhos;
+
+c) Condições de mau tempo que impossibilitem a utilização dos equipamentos, excepto se estes impedimentos ocorrerem em período de serviço extraordinário, caso em que os requisitantes são responsáveis pelos encargos com o pessoal, calculados, como para o fornecimento de mão-de-obra, de harmonia com o disposto no n.º 2 do artigo 152.º deste Regulamento.
+
+4 - Nos casos em que as administrações portuárias, por carência de apetrechamento disponível, tiverem de fornecer máquinas de capacidade superior à necessária à realização das operações, as taxas a cobrar são as que corresponderem às das máquinas adequadas, a menos que aquelas máquinas tenham sido expressamente requisitadas.
+
+5 - Só é permitida a utilização de equipamentos de outras entidades após prévia autorização das comissões administrativas, a requerimento dos interessados, sendo a utilização passível do pagamento de taxas, nos quantitativos fixados por essas comissões de harmonia com os seguintes critérios:
+
+a) Equipamento de características semelhantes às do das administrações portuárias:
+
+Para serviço exclusivo do proprietário: de 10% a 20% da taxa de prestação de serviço para equipamento semelhante:
+
+Para serviços prestados a terceiros: de 15% a 20% da mesma taxa:
+
+b) Outros equipamentos:
+
+Para serviço exclusivo do proprietário e para serviços prestados a terceiros: as taxas a fixar pelas comissões administrativas, caso por caso.
+
+6 - Os proprietários dos equipamentos a que alude o número anterior são responsáveis por quaisquer danos causados ao pessoal e aos bens das administrações portuárias ou de terceiros.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 102.º — Equipamento não utilizado
+
+O equipamento requisitado que não seja utilizado por iniciar as operações depois da hora indicada na requisição está sujeito ao pagamento das correspondentes taxas de «à ordem» durante todo o tempo de imobilização.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 103.º — Contagem do tempo
+
+A contagem do tempo de utilização efectiva do equipamento portuário, na prestação de serviços, faz-se da forma seguinte:
+
+a) Equipamento terrestre:
+
+Desde o momento em que o equipamento requisitado é, efectivamente, posto à disposição do utente até que chegue ao local de recolha, com dedução das horas de paralisação, para descanso ou refeição do pessoal, ou por motivo de força maior;
+
+b) Equipamento marítimo:
+
+Desde o momento efectivo da largada da amarração ou do fundeadouro do equipamento requisitado até à chegada ao fundeadouro que lhe for destinado.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 104.º — Serviços estranhos à exploração portuária
+
+Podem ser executados pelas administrações portuárias serviços estranhos às suas actividades normais, dentro ou fora das áreas sob sua jurisdição, desde que isso se não afigure inconveniente, sendo as respectivas taxas estabelecidas por ajuste entre os directores dos portos e os interessados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo II — Rebocadores e lanchas
+
+###### Artigo 105.º — Atracação e desatracação - Taxas
+
+1 - Pela utilização de rebocadores ou lanchas, para o serviço de reboque em operações de atracação ou de desatracação a quaisquer instalações fixas ou flutuantes, será cobrada, por cada unidade empregada e por cada operação, a taxa, dada em escudos, pelas seguintes expressões:
+
+Embarcações até 500 t - 1000;
+
+Embarcações de mais de 500 t a 2500 t - 1000 + 0,40 t;
+
+Embarcações de mais de 2500 t a 5000 t - 2000 + 0,20 t;
+
+Embarcações de mais de 5000 t a 10000 t - 3000 + 0,15 t;
+
+Embarcações de mais de 10000 t a 20000 t - 4500 + 0,10 t;
+
+em que t é a tonelagem de arqueação bruta ou o deslocamento, conforme se trate de embarcações da marinha mercante ou de guerra.
+
+2 - Quando forem utilizados rebocadores ou lanchas com potência inferior a 300 HP, as taxas do número anterior serão afectadas dos coeficientes de 0,6 e 0,5, respectivamente para embarcações até 500 tAB e de mais de 500 tAB.
+
+3 - Quando a tonelagem ou o deslocamento da embarcação for superior a 20000 t é devida a taxa correspondente a 20000 t, dada pela expressão indicada no n.º 1 deste artigo, acrescida de 1500$00 por cada 10000 t ou fracção a mais.
+
+4 - As taxas estabelecidas nos números anteriores correspondem ao tempo de duração de uma hora para embarcações até 10000 tAB e de uma hora e trinta minutos para embarcações de tonelagem superior. O tempo excedente é facturado pela taxa de rebocador ou de lancha à hora.
+
+5 - Se os serviços de atracação ou de desatracação forem efectuados fora do porto interior, será cobrada a taxa dos números anteriores correspondente à tonelagem da embarcação a que for prestado o serviço e à potência do rebocador ou lancha utilizado, acrescida da do rebocador ou lancha à hora correspondente ao tempo decorrido desde a sua largada do fundeadouro até começar a prestação do serviço no local da operação e ainda do tempo de regresso, contado desde o final da prestação do serviço até à chegada ao local do fundeadouro do rebocador ou da lancha.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 106.º — Obrigatoriedade de utilização de rebocadores ou lanchas
+
+A obrigatoriedade de utilização de rebocadores ou lanchas e o seu número, nas operações de atracação e desatracação, serão fixados, em relação a cada porto, pela respectiva administração portuária, ouvida a corporação de pilotos, tendo em consideração o tipo das embarcações, a sua tonelagem e outras circunstâncias a que deva atender, de modo a obter-se o máximo de segurança com o mínimo de oneração.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 107.º — Serviços de dar meia volta - Taxas
+
+Pelos serviços de dar meia volta e mudança de lugar nos cais serão cobradas as taxas de artigo 105.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 108.º — Rebocador ou lancha à hora - Taxas
+
+Pelos serviços de reboque, dentro da área do porto, prestados por rebocadores ou lanchas, nos casos não abrangidos pelo artigo 105.º, são cobradas as seguintes taxas, por hora indivisível:
+
+Rebocador ou lancha até 150 HP ... 500$00
+
+Rebocador ou lancha de mais de 150 HP a 300 HP ... 700$00
+
+Rebocador ou lancha de mais de 300 HP a 500 HP ... 1000$00
+
+Rebocador ou lancha de mais de 500 HP a 1000 HP ... 1400$00
+
+Rebocador ou lancha de mais de 1000 HP a 1500 HP ... 2000$00
+
+Rebocador ou lancha de mais de 1500 HP ... 3000$00
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 109.º — Rebocadores soltos - Taxas
+
+Os serviços prestados por rebocadores ou lanchas, na área interior dos portos, além dos de atracação e reboque, são tarifados por aplicação das taxas estabelecidas no artigo anterior, afectadas do coeficiente de 0,8.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 110.º — Rebocador ou lancha à ordem - Taxas
+
+As taxas de rebocador ou lancha à ordem são as seguintes, por hora indivisível:
+
+Rebocador ou lancha até 150 HP ... 200$00
+
+Rebocador ou lancha de mais de 150 HP a 300 HP ... 300$00
+
+Rebocador ou lancha de mais de 300 HP a 500 HP ... 400$00
+
+Rebocador ou lancha de mais de 500 HP a 1000 HP ... 600$00
+
+Rebocador ou lancha de mais de 1000 HP a 1500 HP ... 800$00
+
+Rebocador ou lancha de mais de 1500 HP ... 1000$00
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 111.º — Normas de aplicação de taxas de rebocadores ou lanchas à ordem
+
+1 - Quando, por motivos estranhos às administrações portuárias, os rebocadores ou as lanchas, previamente requisitados para efectuar serviço a determinada hora, só vierem a efectuá-la mais tarde, será aplicada aos requisitantes a taxa de rebocador ou lancha à ordem pelo tempo decorrido entre a hora para que foram requisitados e aquela em que iniciem o serviço.
+
+2 - A taxa referida no número anterior não é aplicável em dias úteis e dentro das horas normais de serviço, desde que entre a hora para que foram requisitados e aquela em que começar o serviço os rebocadores ou lanchas estejam livres para efectuar quaisquer outras operações.
+
+3 - Quando, por motivos estranhos às administrações portuárias, os serviços para que os rebocadores ou lanchas foram requisitados não se efectuarem ou tiverem sido dispensados, serão aplicadas aos requisitantes as taxas de rebocador ou de lancha à ordem desde a hora para que foram requisitados até à da desistência do serviço.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 797/82 - Diário da República n.º 193/1982, Série I de 1982-08-21](https://diariodarepublica.pt/dr/detalhe/portaria/797-1982-397529), em vigor a partir de 1982-09-01
+
+###### Artigo 112.º — Cabos de reboque
+
+1 - Para o serviço de reboque, a embarcação rebocada fornecerá, normalmente, o respectivo cabo, podendo, no entanto, este ser-lhe fornecido pelas administrações portuárias, se o tiverem disponível, a pedido do comandante ou mestre, mediante o pagamento da taxa de 300$00 por cada serviço.
+
+2 - A taxa referida no número anterior não é aplicável sempre que se trate de cabos especiais, a utilizar, designadamente, em serviços de assistência ou de salvamento, caso em que a taxa será fixada pela administração portuária respectiva.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 113.º — Serviços especiais
+
+1 - Os serviços especiais, tais como salvamentos, assistência a embarcações em perigo ou com água aberta, ataque a incêndios a bordo e outros da mesma natureza, bem como os não contemplados nos artigos antecedentes, serão objecto de tarifa especial, sujeita a prévio ajuste entre as administrações portuárias e os requisitantes, salvo nos casos de emergência grave, reconhecida pelas autoridades marítimas, em que se imponha a imediata execução do serviço, sendo o custo, nessas circunstâncias, fixado posteriormente, pelas comissões administrativas dos portos.
+
+2 - O pessoal que tenha intervindo nesses serviços especiais de salvamento ou assistência tem direito ao abono de gratificações especiais, a considerar na determinação da respectiva tarifa, cujo montante não deverá exceder 10% da mesma.
+
+A importância destinada às gratificações deverá, normalmente, ser repartida em função das remunerações certas do pessoal, salvo quando, justificadamente, as administrações portuárias entendam dever ser especialmente premiados elementos do pessoal que se tenham distinguido nas operações e que mais tenham contribuído para o seu êxito.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo III — Serviço de amarrar e desamarrar
+
+###### Artigo 114.º — Taxas
+
+1 - Pelo serviço de amarrar e de desamarrar são devidas, por cada operação e por hora indivisível, dentro dos períodos normais de trabalho, as seguintes taxas:
+
+Embarcações até 500 tAB - o valor de três encargos horários de marinheiro de 1.ª classe;
+
+b) De mais de 500 tAB a 1500 tAB - o valor de cinco encargos horários de marinheiro de 1.ª classe;
+
+c) De mais de 1500 tAB a 5000 tAB - o valor de sete encargos horários de marinheiro de 1.ª classe;
+
+d) De mais de 5000 tAB a 10000 tAB - o valor de nove encargos horários de marinheiro de 1.ª classe;
+
+e) De mais de 10000 tAB - o valor de dez encargos horários de marinheiro de 1.ª classe.
+
+2 - O encargo horário de marinheiro de 1.ª classe é determinado como para o fornecimento de mão-de-obra, de harmonia com o n.º 2 do artigo 152.º deste Regulamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 115.º — Utilização de lancha para serviço de amarrar ou desamarrar
+
+1 - Pela utilização de lancha para recolha e passagem de cabos na atracação ou amarração das embarcações e nas suas mudanças será cobrada, por cada serviço, a taxa de 500$00, se a operação não exceder a duração de uma hora.
+
+2 - O tempo excedente e o de espera serão pagos, respectivamente, pelas taxas de lancha à hora e de lancha à ordem.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo IV — Cábreas flutuantes
+
+###### Artigo 116.º — Taxas
+
+Pela utilização de cábreas flutuantes no interior dos portos é devida uma taxa horária, calculada de harmonia com a seguinte expressão:
+
+t = 2500 + 40 p
+
+em que:
+
+t = valor da taxa em escudos;
+
+p = a força máxima de elevação, em toneladas.
+
+2 - No caso de a cábrea não se deslocar do ancoradouro, a taxa anterior é reduzida de 50%.
+
+3 - Quando a cábrea conduza volumes suspensos, a taxa é aumentada de 10%.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 117.º — Serviços incluídos no pagamento das taxas
+
+As taxas constantes do artigo anterior incluem o emprego de lingas e manilhas e, bem assim, os reboques necessários à deslocação das cábreas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 118.º — Serviços acessórios
+
+O fornecimento de mão-de-obra e outros serviços executados conjuntamente com os prestados pelas cábreas não estão incluídos na respectiva taxa de utilização, sendo tarifados adicionalmente.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 119.º — Desistência de utilização
+
+A não utilização das cábreas previamente requisitadas implica o pagamento de 30% da taxa fixada no artigo 116.º deste Regulamento, no caso de as mesmas cábreas não terem saído do ancoradouro, e o pagamento, por inteiro, dessa taxa, em caso contrário.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 120.º — Serviços fora das áreas portuárias
+
+Os serviços a prestar fora da área dos portos são objecto de tarifa especial, a estabelecer, por ajuste, entre as administrações portuárias e os interessados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo V — Serviço de mergulhação
+
+###### Artigo 121.º — Taxas
+
+1 - A taxa horária pelo serviço de mergulhação, empregando um mergulhador e pessoal auxiliar, bem como todo o material específico necessário à execução desse serviço, é a equivalente a um quinto do salário mensal de um mergulhador de 1.ª classe, calculado, como para o fornecimento de mão-de-obra, conforme o disposto no n.º 2 do artigo 152.º deste Regulamento, com um mínimo de cobrança de duas horas.
+
+2 - O pessoal além do normalmente utilizado, bem como as embarcações necessárias à execução do serviço, será tarifado por aplicação das taxas respectivas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 122.º — Gratificações
+
+A taxa estabelecida no artigo antecedente será acrescida de 10%, destinando-se esta importância a gratificar o mergulhador e o seu guia, nos casos em que se reconheça que a sua intervenção foi eficaz e que dela, unicamente, tenha dependido o bom resultado do trabalho.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 123.º — Âmbito de aplicação da taxa
+
+A taxa estabelecida no artigo 121.º é aplicável apenas, a serviços prestados dentro dos portos e quando se trate de operações de inspecção ou lingagem de objectos ou materiais caídos à água, bem como de outras operações simples, até à profundidade de 20 m.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 124.º — Serviços fora dos portos e serviços especiais
+
+As taxas de serviços a prestar fora dos portos ou que envolvam responsabilidade superior à das operações referidas no artigo anterior, serão estabelecidas por prévio ajuste entre o director do porto e os interessados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo VI — Serviço de guindagem
+
+###### Artigo 125.º — Taxas
+
+As taxas de utilização de guindastes das administrações portuárias, não incluindo a lingagem, são as seguintes, por hora indivisível:
+
+a) Guindastes de via:
+
+Até 3 t de força máxima ... 400$00
+
+Até 6 t de força máxima ... 500$00
+
+Até 12 t de força máxima ... 600$00
+
+Até 15 t de força máxima ... 1000$00
+
+b) Guindastes automóveis:
+
+Até 1,5 t a 6 m ... 300$00
+
+Até 4,5 t a 6 m ... 400$00
+
+Até 8,0 t a 6 m ... 500$00
+
+Até 15,0 t a 6 m ... 700$00
+
+Até 20,0 t a 6 m ... 1000$00
+
+c) Guindastes fixos:
+
+A estabelecer pelas administrações portuárias, conforme as características dos guindastes e a natureza dos serviços que executem.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 126.º — Guindaste à ordem
+
+As taxas de guindaste à ordem são as do artigo anterior, afectadas pelo coeficiente 0,6.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo VII — Transporte horizontal de mercadorias
+
+###### Artigo 127.º — Taxas
+
+As taxas de utilização de equipamentos de transporte horizontal de mercadorias, por hora indivisível, são as seguintes:
+
+a) Empilhadores:
+
+Até 3 t de capacidade máxima ... 300$00
+
+Até 6 t de capacidade máxima ... 400$00
+
+Até 12 t de capacidade máxima ... 500$00
+
+b) Tractores ... 200$00
+
+c) Dumpers ... 150$00
+
+d) Pá carregadora com balde até 1 m3 de capacidade ... 500$00
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 128.º — Máquinas à ordem
+
+As taxas de máquinas de transporte horizontal à ordem são as do artigo anterior multiplicadas por 0,6.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo VIII — Equipamentos novos ou não previstos
+
+###### Artigo 129.º — Taxas
+
+As taxas horárias de utilização de equipamentos não especialmente previstos neste Regulamento serão estabelecidas pelas administrações portuárias, tendo em atenção:
+
+O custo desses equipamentos;
+
+O número de horas de vida que lhes é atribuído;
+
+O seu valor residual;
+
+O custo horário da sua conservação e manutenção;
+
+O custo horário do seu funcionamento, designadamente remunerações do pessoal, combustíveis ou energia e lubrificantes.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo IX — Tracção e utilização de vias férreas
+
+###### Artigo 130.º — Regulamentação
+
+1 - A tracção de vagões e a utilização de vias férreas dos portos são, normalmente, realizadas pelos serviços portuários em conformidade com a respectiva regulamentação.
+
+2 - Podem, no entanto, as comissões administrativas, quando o reconhecerem conveniente, autorizar que esses serviços sejam executados por outras entidades, em condições a acordar entre as partes interessadas.
+
+3 - O estacionamento de vagões vazios, quando não esteja expressamente regulado noutros termos, está sujeito ao pagamento de uma taxa calculada nos termos do artigo 92.º deste Regulamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo X — Pesagens
+
+###### Artigo 131.º — Básculas - Taxas
+
+A taxa devida por cada pesagem, nas básculas das administrações portuárias, é a seguinte:
+
+a) Veículos de carga vazios e volumes isolados - por cada um ... 10$00
+
+b) Veículos de carga carregados e outros veículos - taxa da alínea anterior acrescida de 10$00 por cada 10 t ou fracção;
+
+c) Gado vivo - por cabeça ... 3$00
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 132.º — Talões de pesagem
+
+1 - As administrações portuárias fornecerão, gratuitamente, um talão de pesagem, com a anotação do peso verificado em cada pesagem.
+
+2 - Pelo fornecimento de duplicados dos talões de pesagem é cobrada a taxa de 2$50 por cada um.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 133.º — Balanças - Taxas
+
+A taxa por cada pesagem, nas balanças das administrações portuárias, é de 2$50.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 134.º — Pesagem fora das horas normais
+
+As taxas a cobrar nas pesagens efectuadas fora das horas normais de trabalho são duplas das especificadas neste capítulo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 135.º — Pesagens obrigatórias
+
+1 - Para efeitos de contrôle e fiscalização, podem as autoridades portuárias, sempre que o entendam conveniente, mandar efectuar pesagens de mercadorias ou veículos movimentados nos portos sob sua jurisdição, a expensas dos seus donos ou mandatários.
+
+2 - As pesagens em básculas, efectuadas nas condições referidas no número anterior, beneficiam da redução de 50% nas respectivas taxas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo XI — Transporte de bagagens
+
+###### Artigo 136.º — Taxas
+
+1 - O transporte de bagagens, de ou para as embarcações, é feito, unicamente, pelo pessoal das administrações portuárias, que, no entanto, podem encarregar outro pessoal da execução desse serviço.
+
+2 - As taxas a cobrar pelo transporte serão estabelecidas por aquelas administrações e dizem respeito, no embarque, ao transporte de bagagem desde o piquete de verificação de bagagem ao navio, para volumes de mão, e no cais, junto ao navio, para volumes de porão; no desembarque, ao transporte, desde o navio ou descarga do porão à delegação aduaneira.
+
+3 - Quando as embarcações se encontrarem fundeadas ao largo, as taxas a que se refere o número anterior sofrerão o agravamento que for decidido pelas respectivas administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 137.º — Cobrança de taxas
+
+1 - A cobrança das taxas a que se refere o artigo anterior, é feita pelo pessoal das administrações portuárias, que entregará aos passageiros documento comprovativo dessa cobrança, em que se mencionará a quantidade e a classificação dos volumes. Qualquer reclamação só será admitida com a apresentação do referido documento.
+
+2 - Aos bagageiros é expressamente proibido efectuar qualquer cobrança, seja a que título for.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 138.º — Isenções
+
+Estão isentos do pagamento das taxas estabelecidas neste capítulo:
+
+Os volumes de mão, quando transportados pelos próprios passageiros;
+
+As bagagens de náufragos, presos e indigentes.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo XII — Serviços oficinais
+
+###### Artigo 139.º — Taxas
+
+As oficinas, os estaleiros e os serviços de obras das administrações dos portos podem, quando as direcções dos portos o entenderem conveniente, executar serviços para outras entidades mediante o pagamento do custo real dos materiais e da mão-de-obra, com os acréscimos de 40% dos salários para encargos sociais e de 20% sobre o total da conta para encargos de administração.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título V — Fornecimentos
+
+### Capítulo I — Disposições comuns
+
+###### Artigo 140.º — Competência para efectuar fornecimentos
+
+1 - Compete, exclusivamente, às administrações portuárias, dentro da área sob sua jurisdição, o fornecimento de água e de energia eléctrica.
+
+2 - Nos casos em que as administrações portuárias não estejam habilitadas a efectuar os fornecimentos referidos no número anterior, podem outras entidades ser autorizadas a fazê-lo, em condições a estabelecer por essas administrações.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 141.º — Pedidos de fornecimentos
+
+1 - Os fornecimentos que tenham carácter de continuidade devem ser previamente requeridos às administrações portuárias.
+
+2 - Os fornecimentos isolados são efectuados mediante requisição, a apresentar nos serviços competentes.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 142.º — Ramais de ligação e baixadas
+
+Os ramais de ligação e as baixadas fixas serão executados por conta dos requerentes, nos termos do disposto no artigo 139.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo II — Fornecimento de água
+
+###### Artigo 143.º — Taxas
+
+1 - A taxa, por metro cúbico, para o fornecimento de água será estabelecida por cada administração portuária, tendo em atenção:
+
+a) O custo na origem;
+
+b) Os encargos com a construção e a manutenção das redes privativas;
+
+c) As modalidades do fornecimento da água aos utentes;
+
+d) A natureza das utilizações;
+
+e) As fugas e os desperdícios que se verificam nas redes e nos aparelhos;
+
+f) Os encargos de administração;
+
+g) O pessoal utilizado.
+
+2 - Serão estabelecidas taxas diferentes para as seguintes modalidades de fornecimento:
+
+a) Por tomadas de cais;
+
+b) Por barcaça ou barco-cisterna;
+
+c) Por camião-cisterna ou depósito volante;
+
+d) Por ligação a instalações terrestres fixas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 144.º — Consumo mínimo
+
+Para cada modalidade de fornecimento será fixado, pelas administrações portuários, um mínimo de consumo a facturar.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 145.º — Aluguer de contadores
+
+As taxas de aluguer de contadores de água são as que forem aplicadas pelas entidades municipais das zonas dos portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 146.º — Fornecimento pedido e não utilizado
+
+Quando um fornecimento pedido não se efectuar por causas estranhas às administrações portuárias, serão cobrados os mínimos de consumo referidos no artigo 144.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo III — Fornecimento de energia eléctrica
+
+###### Artigo 147.º — Taxa
+
+A taxa, por quilowatt-hora, para o fornecimento de energia eléctrica pelas administrações portuárias será estabelecida por cada administração, tendo em atenção:
+
+a) O custo na origem;
+
+b) Os encargos com a construção e a manutenção das redes privativas;
+
+c) As modalidades do fornecimento da energia aos utentes;
+
+d) A natureza das utilizações;
+
+e) As perdas nos cabos, linhas e transformadores;
+
+f) Os encargos de administração;
+
+g) As condições de venda de energia eléctrica aprovadas pelo Governo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 148.º — Consumo mínimo
+
+As administrações portuárias fixarão, em relação a cada caso, os mínimos de consumo a facturar.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 149.º — Taxa de potência das Instalações fixas
+
+Adicionalmente à taxa prevista no artigo 147.º cobrada aos consumidores uma taxa de potência, de harmonia com os valores constantes do sistema tarifário do sector eléctrico em vigor.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 150.º — Fornecimento pedido e não utilizado
+
+Quando um fornecimento pedido não se efectuar por causas estranhas às administrações portuárias, serão cobrados os mínimos de consumo referidos no artigo 148.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo IV — Fornecimento de materiais de consumo
+
+###### Artigo 151.º — Custos dos materiais
+
+Os materiais de consumo fornecidos pelas administrações portuárias serão facturados pelo preço do custo no mercado, acrescido de 20% para encargos de administração.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo V — Fornecimento de mão-de-obra
+
+###### Artigo 152.º — Taxas
+
+1 - A direcção do porto poderá autorizar o fornecimento de pessoal para a execução de serviços a entidades estranhas.
+
+2 - A mão-de-obra fornecida será facturada com base nos salários do pessoal empregado, acrescidos de 40% para encargos sociais e de 20% para encargos de administração.
+
+3 - O fornecimento de mão-de-obra não inclui o transporte do pessoal de e para o local do trabalho nem quaisquer materiais ou ferramentas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título VI — Aluguer de material
+
+### Capítulo único
+
+Aluguer de máquinas, aparelhos, utensílios e ferramentas
+
+###### Artigo 153.º — Aluguer de material de obras - Taxas
+
+1 - As administrações portuárias podem alugar máquinas, aparelhos, utensílios e ferramentas, do seu património, para serem utilizados na execução de trabalhos de entidades estranhas.
+
+2 - As taxas de aluguer serão fixadas pelas administrações portuárias, tendo em atenção, para cada equipamento:
+
+a) O seu custo inicial;
+
+b) O seu tempo de vida útil;
+
+c) Os gastos de funcionamento e conservação;
+
+d) Os tempos de utilização.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 154.º — Aluguer de material auxiliar de exploração - Taxas
+
+1 - As taxas de aluguer de utensílios e equipamentos auxiliares de exploração portuária serão as constantes de tabelas a aprovar, anualmente, por cada administração portuária, tendo em conta, designadamente, o custo e a duração provável desse material.
+
+2 - As tabelas mencionadas no n.º 1, assim como os seus aditamentos, serão transmitidas à Direcção-Geral de Portos, para seu conhecimento, e tornadas públicas por afixação ou outro meio considerado conveniente.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 155.º — Contagem de tempo
+
+O tempo de aluguer é contado desde que o material é posto à disposição do requisitante até à sua devolução no local próprio, quer tenha sido ou não o utilizado.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 156.º — Pessoal e material
+
+A mão-de-obra e os materiais que, eventualmente, forem fornecidos com as máquinas, aparelhos, utensílios e ferramentas, alugados, sujeitam à aplicação adicional das respectivas taxas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 157.º — Responsabilidade por avarias
+
+Os alugadores do material são responsáveis pelas avarias e danos por ele sofridos ou causados durante o tempo do aluguer.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 158.º — Aluguer para serviços estranhos à exploração portuária
+
+As administrações portuárias poderão, se assim o entenderem conveniente, alugar utensílios e equipamentos auxiliares de exploração portuária, para execução de trabalhos alheios à mesma exploração, mediante a cobrança de taxas, a fixar, caso por caso, por ajuste directo, entre as administrações e os interessados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título VII — Ocupações
+
+### Capítulo único
+
+Disposições comuns
+
+###### Artigo 159.º — Regime de ocupação
+
+1 - As ocupações estão sujeitas a prévio licenciamento dos órgãos competentes das administrações portuárias, precedendo requerimento dos interessados, devidamente instruído, excepto as de curta duração relacionadas com a actividade normal dos portos, que são autorizadas pelos serviços de exploração na sequência dos respectivos pedidos.
+
+2 - O licenciamento será precedido de hasta pública sempre que se verifique haver mais de um interessado ou quando outras razões o justifiquem.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+###### Artigo 160.º — Taxas
+
+1 - As taxas de ocupação aérea, de superfície, subterrânea, de terraplenos, de terrenos marginais, de leito das águas ou de edificações são, nos portos do continente, por metro quadrado e ano - salvo no caso previsto no artigo seguinte -, as que se indicam a seguir, afectadas de um coeficiente, a fixar pelas comissões administrativas, conforme os fins a que se destinam as ocupações e outros elementos que essas administrações entendam dever tomar em consideração:
+
+1) Terraplenos na zona de exploração dos portos ... 60$00
+
+2) Terrenos na zona de expansão e terrenos marginais ... 20$00
+
+3) Leito das águas ... 15$00
+
+4) Edificações ... 350$00
+
+2 - As correspondentes taxas, nos portos das Regiões Autónomas da Madeira e dos Açores, serão as que forem estabelecidas pelas administrações dos respectivos portos, tendo em atenção o condicionalismo local.
+
+3 - A ocupação de terrenos marginais, que não estejam adstritos a funções portuárias, com obras definitivas ou provisórias, explorações agrícolas ou de qualquer outra natureza está sujeita ao pagamento das taxas que, a partir de avaliação dos serviços, forem fixadas, caso por caso, pelas administrações portuárias.
+
+4 - As taxas devem ser ajustadas aos anos civis, podendo, para esse efeito, ser fraccionadas em períodos mensais indivisíveis.
+
+Também as taxas anuais de ocupação de edifícios podem ser objecto de divisão em períodos menores, nos termos que forem estabelecidos pelas respectivas administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 161.º — Ocupação por hasta pública
+
+1 - A base de licitação das ocupações precedidas de hasta pública será fixada em atenção ao disposto no artigo anterior.
+
+2 - Quando as hastas públicas ficarem desertas, as que se lhe seguirem terão, sucessivamente, as respectivas bases de licitação reduzidas de, pelo menos, 10%.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 162.º — Revisão dos coeficientes das taxas de ocupação
+
+1 - Os coeficientes referidos no artigo 160.º poderão ser revistos de cinco em cinco anos, tendo em consideração as alterações verificadas nos elementos que levaram às respectivas fixações.
+
+2 - Dos alvarás de licença constará, expressamente, a condição dessa revisão.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 163.º — Renovação de licenças
+
+Na renovação de licenças anteriores à vigência deste Regulamento, proceder-se-á à actualização das respectivas taxas, de harmonia com o disposto no artigo 160.º, bem como à rectificação das cláusulas correspondentes dos alvarás, salvo se, nesses alvarás, estiver prevista a actualização das taxas com a entrada em vigor do presente Regulamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título VIII — Licenças
+
+### Capítulo I — Licenças para a execução de obras
+
+###### Artigo 164.º — Licenças nas zonas dos portos - Taxas
+
+As licenças para a execução de obras, nas zonas dos portos, estão sujeitas ao pagamento de taxas de valor igual ao das estabelecidas pelas câmaras municipais para as obras situadas no respectivo concelho, salvo as de carácter exclusivamente hidráulico, quer marítimas, quer fluviais, a que se aplicarão as taxas a fixar de harmonia com o disposto no artigo 166.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 165.º — Licenças fora das zonas dos portos - Taxas
+
+As licenças para a execução de obras nas áreas sob jurisdição das administrações portuárias, mas fora das zonas dos portos, estão sujeitas ao pagamento de taxas correspondentes a 20% do valor das estabelecidas pelas câmaras municipais para as obras situadas no respectivo concelho, salvo as de carácter exclusivamente hidráulico, quer marítimas, quer fluviais, a que se aplicarão as taxas a fixar de harmonia com o disposto no artigo seguinte.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 166.º — Licenças de obras hidráulicas - Taxas
+
+As licenças de obras de carácter exclusivamente hidráulico, quer marítimas, quer fluviais, estão sujeitas ao pagamento das taxas fixadas pelas respectivas administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo II — Outras licenças e vistorias
+
+###### Artigo 167.º — Licenças para o exercício de actividades diversas - Taxas
+
+As licenças para o exercício de actividades comerciais ou industriais dentro das zonas dos portos, incluindo a publicidade, estão sujeitas ao pagamento das taxas fixadas pelas respectivas administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 168.º — Licenças de extracção de areia ou burgau - Taxas
+
+1 - As licenças para extracção de areia ou burgau, nas áreas sob jurisdição das administrações portuárias, estão sujeitas ao pagamento da taxa de 12$00 por cada metro cúbico.
+
+2 - Nos portos das Regiões Autónomas da Madeira e dos Açores será a taxa estabelecida, tendo em conta o condicionalismo local, pelas comissões administrativas das respectivas Juntas, devendo, no entanto, ser sujeita à aprovação dos Governos Regionais, ouvida a Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 169.º — Taxa de vistorias
+
+Por cada vistoria para concessão de licenças a efectuar pelos serviços das administrações portuárias, é devida a taxa de 500$00, além das despesas de deslocação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 170.º — Licenças nos termos do artigo 10.º do Regulamento Geral das Capitanias
+
+As licenças relativas às actividades indicadas no n.º 20 da alínea ss) do n.º 1 do artigo 10.º do Regulamento Geral das Capitanias continuam a ser concedidas pelas autoridades marítimas, sob parecer das administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 171.º — Licenças nos termos do Decreto n.º 15631
+
+Enquanto as administrações portuárias não estiverem em condições de o fazer, continuam a ser passadas pelas capitanias dos portos as licenças de que trata o artigo 1.º do Decreto n.º 15631, de 25 de Junho de 1928, devendo ao produto das taxas provenientes da concessão dessas licenças ser dado o destino estabelecido no mesmo artigo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+## Título IX — Diversos
+
+### Capítulo I — Ingresso em recintos reservados e portagem especial
+
+###### Artigo 172.º — Ingresso em recintos reservados
+
+1 - (Revogado.)
+
+2 - As comissões administrativas estabelecerão a regulamentação conveniente, relativamente aos recintos em que a entrada e circulação sejam autorizadas.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 273/2000 - Diário da República n.º 259/2000, Série I-A de 2000-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), em vigor a partir de 2000-11-14
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 173.º — Taxas
+
+1 - As taxas devidas pelo ingresso e circulação em recintos reservados são as seguintes:
+
+a) Por cada pessoa ... 2$50
+
+b) Por cada motociclo, velocípede e veículo de tracção animal, incluindo o condutor ... 5$00
+
+c) Por cada automóvel ligeiro de aluguer e veículo de carga, incluindo o condutor ... 5$00
+
+d) Por cada automóvel ligeiro particular, incluindo o condutor ... 7$50
+
+e) Por cada autocarro de passageiros incluindo o pessoal da condução ... 20$00
+
+f) Por cada vagão de caminho de ferro ... 20$00
+
+2 - Nos portos das Regiões Autónomas da Madeira e dos Açores serão as taxas estabelecidas, tendo em conta o condicionalismo local, pelas comissões administrativas das respectivas Juntas, devendo, no entanto, ser sujeitas à aprovação dos Governos Regionais, ouvida a Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 174.º — Avenças
+
+1 - As taxas fixadas no artigo anterior podem ser objecto de avença mensal, semestral ou anual, cujo valor é o dessas taxas, multiplicado, respectivamente, por 20, 100 e 180.
+
+2 - Os períodos mensais, semestrais ou anuais são indivisíveis e em termos de se ajustarem aos anos civis.
+
+3 - As avenças são comprovadas por cartões emitidos pelas direcções dos portos, sendo obrigatória a sua exibição sempre que os agentes dessas administrações o solicitem. A não exibição dos cartões implica o pagamento da respectiva taxa.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 175.º — Isenções
+
+1 - Estão isentos do pagamento das taxas estabelecidas no artigo 173.º os trabalhadores do Estado, os agentes de outros serviços oficiais, os despachantes oficiais e seus ajudantes, os armadores e agentes das companhias de navegação ou seus representantes, os transitários das mercadorias ou seus representantes e todos os trabalhadores portuários, desde que a entrada nos recintos reservados seja feita no desempenho das suas funções profissionais, bem como os passageiros e tripulantes das embarcações acostadas.
+
+2 - Estão igualmente isentas do pagamento das taxas a que alude o número anterior as viaturas ligeiras em que se transportem as pessoas abrangidas pelas disposições desse número.
+
+3 - As administrações portuárias poderão conceder isenção do pagamento da taxa referida na alínea f) do n.º 1 do artigo 173.º quando a responsabilidade pela instalação, manutenção e conservação dos ramais e do material circulante esteja atribuída à CP.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 176.º — Portagens especiais
+
+1 - As portagens nas pontes de embarque de Vila Real de Santo António, à saída do País, são as seguintes:
+
+a) Por cada pessoa ... 1$50
+
+b) Por cada veículo de duas ou três rodas (motociclos e velocípedes) e veículos de tracção animal, incluindo o condutor ... 5$00
+
+c) Por cada automóvel ligeiro, incluindo o condutor ... 15$00
+
+d) Por cada camião de carga, até 3,5 t de peso bruto, incluindo o pessoal da condução, e por cada auto ligeiro, com atrelado, incluindo o condutor ... 20$00
+
+e) Por cada autocarro de passageiros ou camião de carga, acima de 3,5 t de peso bruto, incluindo o pessoal da condução ... 30$00
+
+2 - A empresa ou empresas transportadoras deverão, sob sua responsabilidade, encarregar-se da cobrança das taxas referidas no número anterior e fazer a entrega do produto dessa cobrança, até ao dia 5 do mês seguinte àquele a que respeite, nos serviços da administração portuária local.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo II — Comunicações
+
+###### Artigo 177.º — Telefone a bordo
+
+1 - Pela instalação de telefone a bordo das embarcações será cobrada, por cada ligação, a taxa de 100$00.
+
+2 - São da conta do requisitante todas as chamadas, cujo custo será apresentado pela administração portuária com base em elementos fornecidos por fiscalizadores de chamadas ou pelos CTT.
+
+3 - O agente ou consignatário da embarcação é solidariamente responsável com o requisitante pelo pagamento das taxas referidas neste artigo.
+
+4 - Nos portos das Regiões Autónomas da Madeira e dos Açores a taxa a que se refere o n.º 1 deste artigo será estabelecida, tendo em conta o condicionalismo local, pelas comissões administrativas das respectivas Juntas, devendo, no entanto, ser sujeita à aprovação dos Governos Regionais, ouvida a Direcção-Geral de Portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 178.º — Telefones e «telex» das administrações
+
+As taxas de utilização de telefone e telex das administrações portuárias serão estabelecidas em função do seu custo, com o acréscimo de 20% e o arredondamento, por excesso, em escudos, nos termos do artigo 42.º deste Regulamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+###### Artigo 179.º — Telecomunicações
+
+Os serviços de telecomunicações serão tarifados segundo normas a fixar pelas administrações portuárias.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo III — Serviços diversos
+
+###### Artigo 180.º — Taxas
+
+1 - A execução dos serviços adiante indicados está sujeita ao pagamento das taxas seguintes, além da do respectivo imposto do selo, quando devido:
+
+a) Pela passagem de certidões, por cada lauda ... 50$00
+
+b) Por cada busca:
+
+Com indicação do ano ... 20$00
+
+Sem indicação do ano ... 40$00
+
+c) Por cada averbamento ... 30$00
+
+d) Por cada termo ... 60$00
+
+e) Pela passagem de nova via de documento perdido ou extraviado, por cada lauda ... 30$00
+
+f) Por cada fotocópia, em formato A4:
+
+De documento de serviço ... 50$00
+
+De documento não pertencente ao serviço ... 12$50
+
+g) Por cópias heliográficas de cada original pertencente às administrações portuárias:
+
+Formato A4 (cada uma) ... 30$00
+
+Outros formatos, por metro quadrado, indivisível ... 300$00
+
+h) Por cópias heliográficas de originais não pertencentes às administrações portuárias:
+
+Formato A4 (cada uma) ... 8$00
+
+Outros formatos, por metro quadrado indivisível ... 40$00
+
+2 - Em especial os actos administrativos de que tratam as alíneas f) a h) estão sujeitos à possibilidade de execução, não podendo sobrepor-se às exigências do serviço próprio dos portos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+### Capítulo IV — Impressos
+
+###### Artigo 181.º — Taxas
+
+1 - O preço de cada impresso dos modelos correntes adoptados nas administrações portuárias é o seguinte:
+
+a) Com impressão numa só face:
+
+Formatos menores que A4 ... 1$00
+
+Formatos A4 ... 2$00
+
+Formatos maiores que A4 ... 3$00
+
+b) Com impressão em duas faces:
+
+Formatos menores que A4 ... 2$00
+
+Formatos A4 ... 4$00
+
+2 - O preço dos impressos de modelos especiais ou que, por qualquer circunstância, não possam subordinar-se aos estabelecidos no número anterior, será fixado pelas administrações portuárias com base no respectivo custo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 200/98 - Diário da República n.º 157/1998, Série I-A de 1998-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1998-485049), em vigor a partir de 1998-07-15
+
+Ministério dos Transportes e Comunicações, 17 de Abril de 1979. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.

@@ -1,0 +1,561 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:599720:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2000-34545875",
+ "dre_path": "/dr/detalhe/lei/30-2000-599720",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52613575",
+    "49119375",
+    "49119475",
+    "49119575",
+    "49119675",
+    "49119775",
+    "49119875",
+    "49119975",
+    "49120075",
+    "49120175",
+    "49120275",
+    "49120375",
+    "49120475",
+    "49120575",
+    "49120675",
+    "49120775",
+    "49120875",
+    "49120975",
+    "49121075",
+    "49121175",
+    "49121275",
+    "49121375",
+    "49121475",
+    "49121575",
+    "49121675",
+    "49121775",
+    "49121875",
+    "49121975",
+    "49122075",
+    "49122175"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:2021447:por",
+     "title": "Despacho n.º 4021/2009 - 2.ª Série",
+     "published": "2009-02-02",
+     "dre_path": "/dr/detalhe/despacho/4021-2009-2021447",
+     "date": "2009-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 25.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "52613575",
+    "49119375",
+    "49119475",
+    "49119575",
+    "49119675",
+    "52613675",
+    "52613775",
+    "49119975",
+    "49120075",
+    "52613875",
+    "49120275",
+    "49120375",
+    "49120475",
+    "49120575",
+    "49120675",
+    "49120775",
+    "52613975",
+    "49120975",
+    "49121075",
+    "49121175",
+    "49121275",
+    "49121375",
+    "49121475",
+    "49121575",
+    "49121675",
+    "52614075",
+    "49121875",
+    "49121975",
+    "49122075",
+    "49122175",
+    "49122675"
+   ]
+  },
+  {
+   "date": "2023-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221432122:por",
+     "title": "Lei n.º 55/2023",
+     "published": "2023-09-08",
+     "dre_path": "/dr/detalhe/lei/55-2023-221432122"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "52613575",
+    "49119375",
+    "221382823",
+    "49119575",
+    "49119675",
+    "52613675",
+    "52613775",
+    "49119975",
+    "49120075",
+    "52613875",
+    "49120275",
+    "49120375",
+    "49120475",
+    "49120575",
+    "49120675",
+    "49120775",
+    "52613975",
+    "49120975",
+    "49121075",
+    "49121175",
+    "49121275",
+    "49121375",
+    "49121475",
+    "49121575",
+    "49121675",
+    "52614075",
+    "49121875",
+    "49121975",
+    "49122075",
+    "49122175",
+    "49122675"
+   ]
+  },
+  {
+   "date": "2023-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645049:por",
+     "title": "Decreto-Lei n.º 89/2023",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2023-222645049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "52613575",
+    "49119375",
+    "221382823",
+    "49119575",
+    "49119675",
+    "222692873",
+    "222692874",
+    "222694675",
+    "49120075",
+    "52613875",
+    "49120275",
+    "49120375",
+    "49120475",
+    "49120575",
+    "49120675",
+    "49120775",
+    "222694676",
+    "49120975",
+    "49121075",
+    "49121175",
+    "49121275",
+    "49121375",
+    "49121475",
+    "49121575",
+    "49121675",
+    "52614075",
+    "49121875",
+    "49121975",
+    "49122075",
+    "49122175",
+    "49122675"
+   ]
+  }
+ ],
+ "fragments": {
+  "52613575": {
+   "fragment_id": "35165675",
+   "type": 15,
+   "heading": "Diploma — Define o regime jurídico aplicável ao consumo de estupefacientes e substâncias psicotrópicas, bem como a protecção sanitária e social das pessoas que consomem tais substâncias sem prescrição médica.",
+   "in_force_from": "2011-12-01",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "49119375": {
+   "fragment_id": "35860175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei tem como objecto a definição do regime jurídico aplicável ao consumo de estupefacientes e substâncias psicotrópicas, bem como a protecção sanitária e social das pessoas que consomem tais substâncias sem prescrição médica.\n\n2 - As plantas, substâncias e preparações sujeitas ao regime previsto neste diploma são as constantes das tabelas I a IV anexas ao Decreto-Lei n.º 15/93, de 22 de Janeiro."
+  },
+  "49119475": {
+   "fragment_id": "35860275",
+   "type": 11,
+   "heading": "Artigo 2.º — Consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Consumo\n\n1 - O consumo, a aquisição e a detenção para consumo próprio de plantas, substâncias ou preparações compreendidas nas tabelas referidas no artigo anterior constituem contra-ordenação.\n\n2 - Para efeitos da presente lei, a aquisição e a detenção para consumo próprio das substâncias referidas no número anterior não poderão exceder a quantidade necessária para o consumo médio individual durante o período de 10 dias."
+  },
+  "49119575": {
+   "fragment_id": "35860375",
+   "type": 11,
+   "heading": "Artigo 3.º — Tratamento espontâneo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tratamento espontâneo\n\n1 - Não é aplicável o disposto na presente lei quando o consumidor ou, tratando-se de menor, interdito ou inabilitado, o seu representante legal solicite a assistência de serviços de saúde públicos ou privados.\n\n2 - Qualquer médico pode assinalar aos serviços de saúde do Estado os casos de abuso de plantas, substâncias estupefacientes ou psicotrópicas que constate no exercício da sua actividade profissional, quando entenda que se justificam medidas de tratamento ou assistência no interesse do paciente, dos seus familiares ou da comunidade, para as quais não disponha de meios.\n\n3 - Nos casos previstos nos números anteriores há garantia de sigilo, estando os médicos, técnicos e restante pessoal de saúde que assistam o consumidor sujeitos ao dever de segredo profissional, não sendo obrigados a depor em inquérito ou processo judicial ou a prestar informações sobre a natureza e evolução do processo terapêutico ou sobre a identidade do consumidor."
+  },
+  "49119675": {
+   "fragment_id": "35860475",
+   "type": 11,
+   "heading": "Artigo 4.º — Apreensão e identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apreensão e identificação\n\n1 - As autoridades policiais procederão à identificação do consumidor e, eventualmente, à sua revista e à apreensão das plantas, substâncias ou preparações referidas no artigo 1.º encontradas na posse do consumidor, que são perdidas a favor do Estado, elaborando auto da ocorrência, o qual será remetido à comissão territorialmente competente.\n\n2 - Quando não seja possível proceder à identificação do consumidor no local e no momento da ocorrência, poderão as autoridades policiais, se tal se revelar necessário, deter o consumidor para garantir a sua comparência perante a comissão, nas condições do regime legal da detenção para identificação."
+  },
+  "49119775": {
+   "fragment_id": "35860575",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para o processamento, aplicação e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência para o processamento, aplicação e execução\n\n1 - O processamento das contra-ordenações e a aplicação das respectivas sanções competem a uma comissão designada «comissão para a dissuasão da toxicodependência», especialmente criada para o efeito, funcionando nas instalações dos governos civis.\n\n2 - A execução das coimas e das sanções alternativas compete ao governo civil.\n\n3 - Nos distritos de maior concentração de processos poderá ser constituída mais de uma comissão por portaria do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n4 - O apoio administrativo e o apoio técnico ao funcionamento das comissões competem, respectivamente, aos governos civis e ao IPDT (Instituto Português da Droga e da Toxicodependência).\n\n5 - Os encargos com os membros das comissões são suportados pelo IPDT.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "49119875": {
+   "fragment_id": "35860675",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo central",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo central\n\nO IPDT manterá um registo central dos processos de contra-ordenação previstos na presente lei, o qual será regulamentado por portaria do Ministro da Justiça e pelo membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "49119975": {
+   "fragment_id": "35860775",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição e nomeação da comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição e nomeação da comissão\n\n1 - A comissão prevista no n.º 1 do artigo 5.º é composta por três pessoas, uma das quais presidirá, nomeadas por despacho do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n2 - Um dos membros da comissão será um jurista designado pelo Ministro da Justiça, cabendo ao Ministro da Saúde e ao membro do Governo responsável pela coordenação da política da droga e da toxicodependência a designação dos restantes, os quais são escolhidos de entre médicos, psicólogos, sociólogos, técnicos de serviço social ou outros com currículo adequado na área da toxicodependência, salvaguardando-se no exercício das suas funções eventuais casos de interesse terapêutico directo ou de conflito deontológico.\n\n3 - A organização, o processo e o regime de funcionamento da comissão são definidos por portaria do Ministro da Justiça e do membro do Governo responsável pela coordenação da política da droga e da toxicodependência, sendo o estatuto dos seus membros definido por portaria conjunta do Ministro das Finanças, do Ministro da Reforma do Estado e da Administração Pública e do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n4 - Os membros da comissão estão sujeitos ao dever de sigilo relativamente aos dados pessoais constantes do processo, sem prejuízo das prescrições legais relativas à protecção da saúde pública e ao processo penal, nos casos aplicáveis.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "49120075": {
+   "fragment_id": "35860875",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência territorial\n\n1 - É territorialmente competente a comissão da área do domicílio do consumidor, excepto se este não for conhecido, circunstância em que será competente a comissão da área em que o consumidor tiver sido encontrado.\n\n2 - É competente para conhecer do recurso da decisão sancionatória o tribunal com jurisdição na sede da comissão recorrida."
+  },
+  "49120175": {
+   "fragment_id": "35860975",
+   "type": 11,
+   "heading": "Artigo 9.º — Colaboração de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Colaboração de outras entidades\n\n1 - Para a execução do tratamento voluntariamente aceite pelo consumidor toxicodependente, este pode recorrer aos serviços de saúde públicos ou privados habilitados para tal.\n\n2 - Para o cumprimento do disposto na presente lei, a comissão e o governo civil recorrem, consoante os casos, aos serviços públicos de saúde, aos serviços de reinserção social, às autoridades policiais e às autoridades administrativas."
+  },
+  "49120275": {
+   "fragment_id": "35861075",
+   "type": 11,
+   "heading": "Artigo 10.º — Juízo sobre a natureza e circunstâncias do consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Juízo sobre a natureza e circunstâncias do consumo\n\n1 - A comissão ouve o consumidor e reúne os demais elementos necessários para formular um juízo sobre se é toxicodependente ou não, quais as substâncias consumidas, em que circunstâncias estava a consumir quando foi interpelado, qual o local e qual a sua situação económica.\n\n2 - O consumidor pode solicitar a participação de terapeuta da sua escolha durante o procedimento, competindo à comissão regular tal forma de participação.\n\n3 - Para a formulação do juízo referido no n.º 1, a comissão ou o consumidor podem propor ou solicitar a realização de exames médicos adequados, incluindo análise de sangue, de urina ou outra que se mostre conveniente.\n\n4 - Se a definição da natureza do consumo pela comissão não se tiver fundamentado em exame médico com as características referidas no número anterior, o consumidor pode requerê-lo, devendo as suas conclusões ser analisadas com vista à eventual reponderação do juízo inicial da comissão.\n\n5 - O exame é deferido pela comissão a serviço de saúde devidamente habilitado, sendo suportado pelo consumidor se for por ele escolhido um serviço privado, e realizar-se-á em prazo não superior a 30 dias."
+  },
+  "49120375": {
+   "fragment_id": "35861175",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão provisória do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Suspensão provisória do processo\n\n1 - A comissão suspende provisoriamente o processo sempre que o consumidor sem registo prévio de processo contra-ordenacional anterior no âmbito da presente lei seja considerado consumidor não toxicodependente.\n\n2 - A comissão suspende provisoriamente o processo sempre que o consumidor toxicodependente sem registo prévio de processo contra-ordenacional anterior no âmbito da presente lei aceite submeter-se ao tratamento.\n\n3 - A comissão pode suspender provisoriamente o processo se o consumidor toxicodependente com registo prévio de processo contra-ordenacional anterior no âmbito da presente lei aceitar submeter-se ao tratamento.\n\n4 - A decisão de suspensão não é susceptível de impugnação."
+  },
+  "49120475": {
+   "fragment_id": "35861275",
+   "type": 11,
+   "heading": "Artigo 12.º — Sujeição a tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sujeição a tratamento\n\n1 - Se o consumidor toxicodependente aceitar sujeitar-se ao tratamento, a comissão faz a necessária comunicação ao serviço de saúde público ou privado escolhido pelo consumidor, o qual será informado sobre as alternativas disponíveis.\n\n2 - A opção por serviço de saúde privado determina que os encargos com o tratamento corram sob responsabilidade do consumidor.\n\n3 - A entidade referida no n.º 1 informa a comissão, de três em três meses, sobre a continuidade ou não do tratamento."
+  },
+  "49120575": {
+   "fragment_id": "35861375",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração e efeitos da suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração e efeitos da suspensão\n\n1 - A suspensão do processo pode ir até dois anos, podendo ser prorrogada por mais um ano por decisão fundamentada da comissão.\n\n2 - A comissão arquiva o processo, não podendo ser reaberto, se:\n\na) Tratando-se de consumidor não toxicodependente, não tiver havido reincidência;\n\nb) O consumidor toxicodependente se tiver sujeitado ao tratamento e não o tiver interrompido indevidamente.\n\n3 - Fora dos casos previstos no número anterior, o processo prossegue.\n\n4 - A prescrição do procedimento não corre no decurso do prazo de suspensão do processo."
+  },
+  "49120675": {
+   "fragment_id": "35861475",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão da determinação da sanção em caso de tratamento voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Suspensão da determinação da sanção em caso de tratamento voluntário\n\n1 - A comissão pode suspender a determinação da sanção se o consumidor toxicodependente aceitar sujeitar-se, voluntariamente, a tratamento em serviço público ou privado devidamente habilitado.\n\n2 - O período de suspensão pode ir até três anos.\n\n3 - Se durante o período da suspensão, por razões que lhe são imputáveis, o toxicodependente não se sujeitar ou interromper o tratamento, a suspensão é revogada e determinada a sanção correspondente à contra-ordenação.\n\n4 - A comissão declara a extinção do processo se, decorrido o período da suspensão, não houver motivos que possam conduzir à sua revogação.\n\n5 - A recusa em sujeitar-se a tratamento nos termos do artigo 11.º e o prosseguimento do processo nos termos do artigo 13.º não prejudicam o disposto no n.º 1 deste artigo.\n\n6 - É correspondentemente aplicável o disposto no n.º 2 do artigo 12.º e no n.º 4 do artigo 13.º"
+  },
+  "49120775": {
+   "fragment_id": "35861575",
+   "type": 11,
+   "heading": "Artigo 15.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções\n\n1 - Aos consumidores não toxicodependentes poderá ser aplicada uma coima ou, em alternativa, sanção não pecuniária.\n\n2 - Aos consumidores toxicodependentes são aplicáveis sanções não pecuniárias.\n\n3 - A comissão determina a sanção em função da necessidade de prevenir o consumo de estupefacientes e substâncias psicotrópicas.\n\n4 - Na aplicação das sanções, a comissão terá em conta a situação do consumidor e a natureza e as circunstâncias do consumo, ponderando, designadamente:\n\na) A gravidade do acto;\n\nb) A culpa do agente;\n\nc) O tipo de plantas, substâncias ou preparados consumidos;\n\nd) A natureza pública ou privada do consumo;\n\ne) Tratando-se de consumo público, o local do consumo;\n\nf) Em caso de consumidor não toxicodependente, o carácter ocasional ou habitual do consumo;\n\ng) A situação pessoal, nomeadamente económica e financeira, do consumidor."
+  },
+  "49120875": {
+   "fragment_id": "35861675",
+   "type": 11,
+   "heading": "Artigo 16.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Coimas\n\n1 - Se se tratar de plantas, substâncias ou preparações compreendidas nas tabelas I-A, I-B, II-A, II-B e II-C, a coima compreende-se entre um mínimo de 5000$00 e um máximo equivalente ao salário mínimo nacional.\n\n2 - Se se tratar de substâncias ou preparações compreendidas nas tabelas I-C, III e IV, a coima é de 5000$00 a 30000$00.\n\n3 - As importâncias correspondentes ao pagamento das coimas são distribuídas da forma seguinte:\n\na) 60% para o Estado;\n\nb) 20% para o SPTT (Serviço de Prevenção e Tratamento da Toxicodependência);\n\nc) 10% para o governo civil;\n\nd) 10% para o IPDT.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "49120975": {
+   "fragment_id": "35861775",
+   "type": 11,
+   "heading": "Artigo 17.º — Outras sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Outras sanções\n\n1 - A comissão pode impor em alternativa à coima uma sanção de admoestação.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 15.º, a comissão pode aplicar as seguintes sanções, em alternativa à coima ou a título principal:\n\na) Proibição de exercer profissão ou actividade, designadamente as sujeitas a regime de licenciamento, quando daí resulte risco para a integridade do próprio ou de terceiros;\n\nb) Interdição de frequência de certos lugares;\n\nc) Proibição de acompanhar, alojar ou receber certas pessoas;\n\nd) Interdição de ausência para o estrangeiro sem autorização;\n\ne) Apresentação periódica em local a designar pela comissão;\n\nf) Cassação, proibição da concessão ou renovação de licença de uso e porte de arma de defesa, caça, precisão ou recreio;\n\ng) Apreensão de objectos que pertençam ao próprio e representem um risco para este ou para a comunidade ou favoreçam a prática de um crime ou de outra contra-ordenação;\n\nh) Privação da gestão de subsídio ou benefício atribuído a título pessoal por entidades ou serviços públicos, que será confiada à entidade que conduz o processo ou àquela que acompanha o processo de tratamento, quando aceite.\n\n3 - Em alternativa às sanções previstas nos números anteriores, pode a comissão, mediante aceitação do consumidor, determinar a entrega a instituições públicas ou particulares de solidariedade social de uma contribuição monetária ou a prestação de serviços gratuitos a favor da comunidade, em conformidade com o regime dos n.os 3 e 4 do artigo 58.º do Código Penal.\n\n4 - A comissão pode suspender a execução de qualquer das sanções referidas nos números anteriores, substituindo-a pelo cumprimento de algumas obrigações, nos termos do artigo 19.º"
+  },
+  "49121075": {
+   "fragment_id": "35861875",
+   "type": 11,
+   "heading": "Artigo 18.º — Admoestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Admoestação\n\n1 - A comissão profere uma admoestação se, atendendo às condições pessoais do agente, ao tipo de consumo e ao tipo de plantas, substâncias ou preparações consumidas, considerar que o agente se absterá no futuro de consumir.\n\n2 - A admoestação consiste numa censura oral, sendo o consumidor expressamente alertado para as consequências do seu comportamento e instado a abster-se de consumir.\n\n3 - A comissão profere a admoestação quando a decisão que a aplicar se tornar definitiva.\n\n4 - A comissão profere a admoestação de imediato se o consumidor declarar que renuncia à interposição de recurso."
+  },
+  "49121175": {
+   "fragment_id": "35861975",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão da execução da sanção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão da execução da sanção\n\n1 - Tratando-se de consumidor toxicodependente cujo tratamento não seja viável, ou não seja por ele aceite, a comissão pode promover a suspensão da execução da sanção, impondo a apresentação periódica deste perante serviços de saúde, com a frequência que estes considerem necessária, com vista a melhorar as condições sanitárias, podendo ainda a suspensão da execução ser subordinada à aceitação pelo consumidor das medidas previstas no n.º 3.\n\n2 - Tratando-se de consumidor não toxicodependente, a comissão pode optar pela suspensão da execução da sanção se, atendendo às condições pessoais do agente, ao tipo de consumo e ao tipo de plantas, substâncias ou preparações consumidas, concluir que desse modo se realiza de forma mais adequada a finalidade de prevenir o consumo e se o consumidor aceitar as condições que lhe forem propostas pela comissão nos termos dos números seguintes.\n\n3 - A comissão pode propor outras soluções de acompanhamento especialmente aconselháveis pela particularidade de cada caso, em termos que garantam o respeito pela dignidade do indivíduo e com a aceitação deste, de entre as medidas previstas nas alíneas a) a d) do n.º 2 do artigo 17.º\n\n4 - O regime da apresentação periódica prevista no n.º 1 é fixado por portaria do Ministro da Saúde."
+  },
+  "49121275": {
+   "fragment_id": "35862075",
+   "type": 11,
+   "heading": "Artigo 20.º — Duração da suspensão da execução da sanção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Duração da suspensão da execução da sanção\n\n1 - O período da suspensão é fixado entre um e três anos a contar do trânsito em julgado da decisão, não contando para o prazo o tempo em que o consumidor estiver privado da liberdade por força de medida de coacção processual, pena ou medida de segurança.\n\n2 - A comissão determina a duração das medidas previstas no n.º 3 do artigo anterior, não podendo ser excedido o limite máximo de seis meses."
+  },
+  "49121375": {
+   "fragment_id": "35862175",
+   "type": 11,
+   "heading": "Artigo 21.º — Apresentação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apresentação periódica\n\n1 - Em caso de suspensão da execução da sanção com apresentação periódica junto dos serviços de saúde, a comissão faz a necessária comunicação ao centro de saúde da área do domicílio do consumidor ou a outro serviço de saúde que com ele seja acordado.\n\n2 - A entidade referida no número anterior informa a comissão sobre a regularidade das apresentações e, sendo caso disso, do não cumprimento por parte do consumidor, com indicação dos motivos que forem do seu conhecimento."
+  },
+  "49121475": {
+   "fragment_id": "35862275",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicação das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comunicação das medidas\n\n1 - A decisão de decretar a suspensão da execução da sanção é comunicada aos serviços e às autoridades aos quais seja pedida colaboração para a fiscalização do cumprimento das medidas.\n\n2 - Os serviços e as autoridades referidos no número anterior comunicam à comissão a falta de cumprimento das medidas, para efeito do disposto nos n.os 2 e 3 do artigo seguinte."
+  },
+  "49121575": {
+   "fragment_id": "35862375",
+   "type": 11,
+   "heading": "Artigo 23.º — Efeitos da suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Efeitos da suspensão\n\n1 - A comissão declara a extinção da sanção se, decorrido o período da suspensão, não houver motivos que possam conduzir à sua revogação.\n\n2 - A suspensão da execução da sanção é revogada sempre que, no seu decurso, o consumidor infringir repetidamente as medidas impostas.\n\n3 - A revogação da suspensão determina o cumprimento da sanção aplicada."
+  },
+  "49121675": {
+   "fragment_id": "35862475",
+   "type": 11,
+   "heading": "Artigo 24.º — Duração de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Duração de sanções\n\nAs sanções previstas no n.º 2 do artigo 17.º e as medidas de acompanhamento previstas no artigo 19.º terão a duração mínima de um mês e máxima de três anos."
+  },
+  "49121775": {
+   "fragment_id": "35862575",
+   "type": 11,
+   "heading": "Artigo 25.º — Cumprimento de sanções e de medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cumprimento de sanções e de medidas de acompanhamento\n\nA decisão de decretar sanções ou medidas de acompanhamento é comunicada ao governo civil, competindo a este oficiar os serviços e as autoridades aos quais deva ser pedida colaboração para a execução dessas medidas."
+  },
+  "49121875": {
+   "fragment_id": "35862675",
+   "type": 11,
+   "heading": "Artigo 26.º — Do direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Do direito subsidiário\n\nNa falta de disposição específica da presente lei, é subsidiariamente aplicável o regime geral das contra-ordenações."
+  },
+  "49121975": {
+   "fragment_id": "35862775",
+   "type": 11,
+   "heading": "Artigo 27.º — Aplicação nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Aplicação nas Regiões Autónomas\n\nNas Regiões Autónomas a distribuição geográfica e composição das comissões, a competência para a nomeação dos seus membros, a definição dos serviços com intervenção nos processos de contra-ordenações e o destino das coimas são estabelecidos por decreto legislativo regional."
+  },
+  "49122075": {
+   "fragment_id": "35862875",
+   "type": 11,
+   "heading": "Artigo 28.º — Normas revogadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Normas revogadas\n\nSão revogados o artigo 40.º, excepto quanto ao cultivo, e o artigo 41.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, bem como as demais disposições que se mostrem incompatíveis com o presente regime."
+  },
+  "49122175": {
+   "fragment_id": "35862975",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nA descriminalização aprovada pela presente lei entra em vigor em todo o território nacional no dia 1 de Julho de 2001, devendo ser adoptadas, no prazo de 180 dias a contar da data da sua publicação, todas as providências regulamentares, organizativas, técnicas e financeiras necessárias à aplicação do regime de tratamento e fiscalização nela previsto."
+  },
+  "52613675": {
+   "fragment_id": "35860575",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para o processamento, aplicação e execução",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 5.º — Competência para o processamento, aplicação e execução\n\n1 - O processamento das contra-ordenações e a aplicação das respectivas sanções competem a uma comissão designada «comissão para a dissuasão da toxicodependência», especialmente criada para o efeito, funcionando em cada distrito, nas instalações de serviços dependentes do Instituto da Droga e da Toxicodependência, I. P. (IDT, I. P.)\n\n2 - A execução das coimas e das sanções alternativas compete às autoridades policiais.\n\n3 - Nos distritos de maior concentração de processos poderá ser constituída mais de uma comissão por portaria do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n4 - O apoio administrativo e o apoio técnico ao funcionamento das comissões competem ao IDT, I. P.\n\n5 - Os encargos com os membros das comissões são suportados pelo IDT, I. P.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "52613775": {
+   "fragment_id": "35860675",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo central",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Registo central\n\nO IDT, I. P., manterá um registo central dos processos de contra-ordenação previstos na presente lei, o qual será regulamentado por portaria dos membros do Governo responsáveis pela área da justiça e pela coordenação da política da droga e da toxicodependência.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "52613875": {
+   "fragment_id": "35860975",
+   "type": 11,
+   "heading": "Artigo 9.º — Colaboração de outras entidades",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 9.º — Colaboração de outras entidades\n\n1 - Para a execução do tratamento voluntariamente aceite pelo consumidor toxicodependente, este pode recorrer aos serviços de saúde públicos ou privados habilitados para tal.\n\n2 - Para o cumprimento do disposto na presente lei, a comissão e as autoridades policiais recorrem, consoante os casos, aos serviços públicos de saúde, aos serviços de reinserção social e às autoridades administrativas.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "52613975": {
+   "fragment_id": "35861675",
+   "type": 11,
+   "heading": "Artigo 16.º — Coimas",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 16.º — Coimas\n\n1 - Se se tratar de plantas, substâncias ou preparações compreendidas nas tabelas I-A, I-B, II-A, II-B e II-C, a coima compreende-se entre um mínimo de 5000$00 e um máximo equivalente ao salário mínimo nacional.\n\n2 - Se se tratar de substâncias ou preparações compreendidas nas tabelas I-C, III e IV, a coima é de 5000$00 a 30000$00.\n\n3 - As importâncias correspondentes ao pagamento das coimas são distribuídas da forma seguinte:\n\na) 60% para o Estado;\n\nb) 40 % para o IDT, I. P.;\n\nc) (Revogada).\n\nd) (Revogada).\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "52614075": {
+   "fragment_id": "35862575",
+   "type": 11,
+   "heading": "Artigo 25.º — Cumprimento de sanções e de medidas de acompanhamento",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 25.º — Cumprimento de sanções e de medidas de acompanhamento\n\nA decisão de decretar sanções ou medidas de acompanhamento é comunicada às autoridades policiais, competindo a estas oficiar os serviços e as autoridades aos quais deva ser pedida colaboração para a execução dessas medidas.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "49122675": {
+   "fragment_id": "35863075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Outubro de 2000.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 14 de Novembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 16 de Novembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "221382823": {
+   "fragment_id": "35860275",
+   "type": 11,
+   "heading": "Artigo 2 — Consumo",
+   "in_force_from": "2023-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 55/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/lei/55-2023-221432122), em vigor a partir de 2023-10-01"
+   ],
+   "markdown": "###### Artigo 2 — Consumo\n\n1 - O consumo, a aquisição e a detenção para consumo próprio de plantas, substâncias ou preparações compreendidas nas tabelas referidas no artigo anterior constituem contra-ordenação.\n\n2 - Para efeitos da presente lei, a aquisição e a detenção das plantas, substâncias ou preparações referidas no número anterior que exceda a quantidade necessária para o consumo médio individual durante o período de 10 dias constitui indício de que o propósito pode não ser o de consumo.\n\n3 - No caso de aquisição ou detenção das plantas, substâncias ou preparações referidas no n.º 1 que exceda a quantidade prevista no número anterior e desde que fique demonstrado que tal aquisição ou detenção se destinam exclusivamente ao consumo próprio, a autoridade judiciária competente determina, consoante a fase do processo, o seu arquivamento, a não pronúncia ou a absolvição e o encaminhamento para comissão para a dissuasão da toxicodependência.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 55/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/lei/55-2023-221432122), em vigor a partir de 2023-10-01"
+  },
+  "222692873": {
+   "fragment_id": "35860575",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para o processamento, aplicação e execução",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 5.º — Competência para o processamento, aplicação e execução\n\n1 - O processamento das contraordenações e a aplicação das respetivas sanções competem a uma comissão designada 'comissão para a dissuasão da toxicodependência', especialmente criada para o efeito, funcionando em cada distrito, nas instalações de serviços dependentes do Instituto para os Comportamentos Aditivos e as Dependências, I. P. (ICAD, I. P.).\n\n2 - A execução das coimas e das sanções alternativas compete às autoridades policiais.\n\n3 - (Revogado.)\n\n4 - O apoio administrativo e o apoio técnico ao funcionamento das comissões competem ao ICAD, I. P.\n\n5 - Os encargos com os membros das comissões são suportados pelo ICAD, I. P.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "222692874": {
+   "fragment_id": "35860675",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo central",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Registo central\n\nO ICAD, I. P., mantém um registo central dos processos de contraordenação previstos na presente lei e regulamentado por portaria dos membros do Governo responsáveis pelas áreas da justiça e da saúde.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "222694675": {
+   "fragment_id": "35860775",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição e nomeação da comissão",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Composição e nomeação da comissão\n\n1 - A comissão prevista no n.º 1 do artigo 5.º é composta por duas pessoas, uma das quais preside, designadas por despacho dos membros do Governo responsáveis pelas áreas da justiça e da saúde.\n\n2 - Os membros da comissão são escolhidos de entre juristas, médicos, psicólogos, sociólogos, técnicos de serviço social ou outros com currículo adequado na área dos comportamentos aditivos e das dependências, salvaguardando-se no exercício das suas funções eventuais casos de interesse terapêutico direto ou de conflito deontológico.\n\n3 - Quando o número de processos o justifique, a comissão pode ser composta por três pessoas e, nos distritos com menor volume de processos, pode haver acumulação do mesmo cargo noutra comissão, sem direito a acumulação de remunerações.\n\n4 - A organização, o processo e o regime de funcionamento da comissão são definidos por portaria do Ministro da Justiça e do membro do Governo responsável pela coordenação da política da droga e da toxicodependência, sendo o estatuto dos seus membros definido por portaria conjunta do Ministro das Finanças, do Ministro da Reforma do Estado e da Administração Pública e do membro do Governo responsável pela coordenação da política da droga e da toxicodependência.\n\n5 - Os membros da comissão estão sujeitos ao dever de sigilo relativamente aos dados pessoais constantes do processo, sem prejuízo das prescrições legais relativas à protecção da saúde pública e ao processo penal, nos casos aplicáveis.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+  },
+  "222694676": {
+   "fragment_id": "35861675",
+   "type": 11,
+   "heading": "Artigo 16.º — Coimas",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01.",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 16.º — Coimas\n\n1 - Se se tratar de plantas, substâncias ou preparações compreendidas nas tabelas I-A, I-B, II-A, II-B e II-C, a coima compreende-se entre um mínimo de 5000$00 e um máximo equivalente ao salário mínimo nacional.\n\n2 - Se se tratar de substâncias ou preparações compreendidas nas tabelas I-C, III e IV, a coima é de 5000$00 a 30000$00.\n\n3 - As importâncias correspondentes ao pagamento das coimas são distribuídas da forma seguinte:\n\na) 60% para o Estado;\n\nb) 40 % para o ICAD, I. P.;\n\nc) (Revogada).\n\nd) (Revogada).\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo, produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  }
+ }
+}

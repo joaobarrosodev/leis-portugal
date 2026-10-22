@@ -1,0 +1,1127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:479416:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-58889832",
+ "dre_path": "/dr/detalhe/lei/28-1998-479416",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107693238",
+    "58889741",
+    "58889742",
+    "58889743",
+    "58889744",
+    "58889745",
+    "58889746",
+    "58889747",
+    "58889748",
+    "58889749",
+    "58889750",
+    "58889751",
+    "58889752",
+    "58889753",
+    "58889754",
+    "58889755",
+    "58889756",
+    "58889757",
+    "58889758",
+    "58889759",
+    "58889760",
+    "58889761",
+    "58889762",
+    "58889763",
+    "58889764",
+    "58889765",
+    "58889766",
+    "58889767",
+    "58889768",
+    "58889769",
+    "58889770",
+    "58889771",
+    "58889772",
+    "58889773",
+    "58889774",
+    "58896675",
+    "58896676",
+    "58896677",
+    "58896678",
+    "58896679",
+    "58896680",
+    "58896681",
+    "58896682",
+    "58896683",
+    "58896684",
+    "58896685",
+    "58896686",
+    "58896687"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345122:por",
+     "title": "Lei n.º 114/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/114-1999-345122"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo VII",
+    "Adita Artigo 42.º"
+   ],
+   "fragments": [
+    "58889740",
+    "58889741",
+    "58889742",
+    "58889743",
+    "58889744",
+    "58889745",
+    "58889746",
+    "58889747",
+    "58889748",
+    "58889749",
+    "58889750",
+    "58889751",
+    "58889752",
+    "58889753",
+    "58889754",
+    "58889755",
+    "58889756",
+    "58889757",
+    "58889758",
+    "58889759",
+    "58889760",
+    "58889761",
+    "58889762",
+    "58889763",
+    "58889764",
+    "58889765",
+    "58889766",
+    "58889767",
+    "58889768",
+    "58889769",
+    "58889770",
+    "58889771",
+    "58889772",
+    "58889773",
+    "58889774",
+    "58896675",
+    "58896676",
+    "58896677",
+    "58896678",
+    "58896679",
+    "58896680",
+    "58896681",
+    "58896682",
+    "58896683",
+    "58896684",
+    "58896685",
+    "58896686",
+    "58896687",
+    "58896700",
+    "58896702",
+    "58896701"
+   ]
+  },
+  {
+   "date": "2017-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107692694:por",
+     "title": "Lei n.º 54/2017",
+     "published": "2017-07-14",
+     "dre_path": "/dr/detalhe/lei/54-2017-107692694"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "107693238",
+    "107693239",
+    "107693240",
+    "107693241",
+    "107693242",
+    "107693243",
+    "107693244",
+    "107693245",
+    "107693246",
+    "107693247",
+    "107693248",
+    "107693249",
+    "107693250",
+    "107693251",
+    "107693252",
+    "107693253",
+    "107693254",
+    "107693255",
+    "107693256",
+    "107693257",
+    "107693258",
+    "107693259",
+    "107693260",
+    "107693261",
+    "107693262",
+    "107693263",
+    "107693264",
+    "107693265",
+    "107693266",
+    "107693267",
+    "107693268",
+    "107693269",
+    "107693270",
+    "107693271",
+    "107693272",
+    "107693273",
+    "107693274",
+    "107693575",
+    "107693576",
+    "107693577",
+    "107693578",
+    "107693579",
+    "107693580",
+    "107693581",
+    "107693582",
+    "107693583",
+    "107693584",
+    "107693585",
+    "107693586",
+    "107693587",
+    "107693588"
+   ]
+  }
+ ],
+ "fragments": {
+  "107693238": {
+   "fragment_id": "58889833",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-07-19",
+   "changed_by": [],
+   "markdown": "Lei n.º 28/98\n\nde 26 de Junho\n\nEstabelece um novo regime jurídico do contrato de trabalho do praticante desportivo e do contrato de formação desportiva e revoga o Decreto-Lei n.º 305/95, de 18 de Novembro.\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 165.º, n.º 1, alíneas b) e d), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "58889741": {
+   "fragment_id": "58889834",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "58889742": {
+   "fragment_id": "58889835",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico do contrato de trabalho do praticante desportivo e do contrato de formação desportiva."
+  },
+  "58889743": {
+   "fragment_id": "58889836",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) Contrato de trabalho desportivo aquele pelo qual o praticante desportivo se obriga, mediante retribuição, a prestar actividade desportiva a uma pessoa singular ou colectiva que promova ou participe em actividades desportivas, sob a autoridade e a direcção desta;\n\nb) Praticante desportivo profissional aquele que, através de contrato de trabalho desportivo e após a necessária formação técnico-profissional, pratica uma modalidade desportiva como profissão exclusiva ou principal, auferindo por via dela uma retribuição;\n\nc) Contrato de formação desportiva o contrato celebrado entre uma entidade formadora e um formando, nos termos do qual aquela se obriga a prestar a este a formação adequada ao desenvolvimento da sua capacidade técnica e à aquisição de conhecimentos necessários à prática de uma modalidade desportiva, ficando o formando obrigado a executar as tarefas inerentes a essa formação;\n\nd) Empresário desportivo a pessoa singular ou colectiva que, estando devidamente credenciada, exerça a actividade de representação ou imtermediação, ocasional ou permanente, mediante remuneração, na celebração de contratos desportivos;\n\ne) Entidade formadora as pessoas singulares ou colectivas desportivas que garantam um ambiente de trabalho e os meios humanos e técnicos adequados à formação desportiva a ministrar;\n\nf) Formando os jovens praticantes que, tendo cumprido a escolaridade obrigatória, tenham idades compreendidas entre os 14 e os 18 anos e tenham assinado o contrato de formação desportiva, tendo por fim a aprendizagem ou o aperfeiçoamento de uma modalidade desportiva."
+  },
+  "58889744": {
+   "fragment_id": "58889837",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direito subsidiário\n\nÀs relações emergentes do contrato de trabalho desportivo aplicam-se, subsidiariamente, as regras aplicáveis ao contrato de trabalho."
+  },
+  "58889745": {
+   "fragment_id": "58889838",
+   "type": 11,
+   "heading": "Artigo 4.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capacidade\n\n1 - Só podem celebrar contratos de trabalho desportivo os menores que hajam completado 16 anos de idade e que reúnam os requisitos exigidos pela lei geral do trabalho.\n\n2 - O contrato de trabalho desportivo celebrado por menor deve ser igualmente subscrito pelo seu representante legal.\n\n3 - É anulável o contrato de trabalho celebrado com violação do disposto no número anterior."
+  },
+  "58889746": {
+   "fragment_id": "58889839",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma\n\n1 - Sem prejuízo do disposto em outras normas legais, na regulamentação desportiva ou em instrumento de regulamentação colectiva de trabalho, o contrato de trabalho desportivo é lavrado em duplicado, ficando cada uma das partes com um exemplar.\n\n2 - O contrato de trabalho desportivo só é válido se for celebrado por escrito e assinado por ambas as partes, dele devendo constar:\n\na) A identificação das partes, incluindo a nacionalidade e a data de nascimento do praticante;\n\nb) A actividade desportiva que o praticante se obriga a prestar;\n\nc) O montante de retribuição;\n\nd) A data de início de produção de efeitos do contrato;\n\ne) O termo de vigência do contrato;\n\nf) A data de celebração.\n\n3 - Quando a retribuição for constituída por uma parte certa e outra variável, do contrato deverá constar indicação da parte certa e, se não for possível determinar a parte variável, o estabelecimento das formas que esta pode revestir, bem como dos critérios em função dos quais é calculada e paga."
+  },
+  "58889747": {
+   "fragment_id": "58889840",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo\n\n1 - A participação do praticante desportivo em competições promovidas por uma federação dotada de utilidade pública desportiva depende de prévio registo do contrato de trabalho desportivo na respectiva federação.\n\n2 - O registo é efectuado nos termos que forem estabelecidos por regulamento federativo.\n\n3 - O disposto nos números anteriores é aplicável às modificações que as partes introduzam no contrato.\n\n4 - No acto do registo do contrato de trabalho desportivo a entidade empregadora desportiva deve fazer prova de ter efectuado o correspondente seguro de acidentes de trabalho, sob pena de incorrer no disposto no artigo 44.º do Decreto-Lei n.º 491/85, de 26 de Novembro.\n\n5 - A falta de registo do contrato ou das cláusulas adicionais presume-se de culpa exclusiva da entidade empregadora desportiva, salvo prova em contrário."
+  },
+  "58889748": {
+   "fragment_id": "58889841",
+   "type": 11,
+   "heading": "Artigo 7.º — Promessa de contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Promessa de contrato de trabalho\n\nA promessa de contrato de trabalho desportivo só é válida se, além dos elementos previstos na lei geral do trabalho, contiver indicação do início e do termo do contrato prometido ou a menção a que se refere a alínea b) do n.º 2 do artigo 8.º"
+  },
+  "58889749": {
+   "fragment_id": "58889842",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Duração do contrato\n\n1 - O contrato de trabalho desportivo não pode ter duração inferior a uma época desportiva nem superior a oito épocas.\n\n2 - Sem prejuízo do disposto no número anterior, podem ser celebrados por período inferior a uma época desportiva:\n\na) Contratos de trabalho celebrados após o início de uma época desportiva para vigorarem até ao fim desta;\n\nb) Contratos de trabalho pelos quais o praticante desportivo seja contratado para participar numa competição ou em determinado número de prestações que constituam uma unidade identificável no âmbito da respectiva modalidade desportiva.\n\n3 - No caso a que se refere a alínea b) do número anterior, não é necessário que do contrato constem os elementos referidos nas alíneas d) e e) do n.º 2 do artigo 5.º\n\n4 - Considera-se celebrado por uma época desportiva, ou para a época desportiva no decurso da qual for celebrado, o contrato em que falte a indicação do respectivo termo.\n\n5 - Entende-se por época desportiva o período de tempo, nunca superior a 12 meses, durante o qual decorre a actividade desportiva, a fixar para cada modalidade pela respectiva federação dotada de utilidade pública desportiva."
+  },
+  "58889750": {
+   "fragment_id": "58889843",
+   "type": 11,
+   "heading": "Artigo 9.º — Violação das regras sobre a duração do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Violação das regras sobre a duração do contrato\n\nA violação do disposto no n.º 1 do artigo anterior determina a aplicação ao contrato em causa dos prazos mínimo ou máximo admitidos."
+  },
+  "58889751": {
+   "fragment_id": "58889844",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de imagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito de imagem\n\n1 - Todo o praticante desportivo profissional tem direito a utilizar a sua imagem pública ligada à prática desportiva e a opor-se a que outrem a use ilicitamente para exploração comercial ou para outros fins económicos.\n\n2 - Fica ressalvado o direito de uso de imagem do colectivo dos praticantes, o qual poderá ser objecto de regulamentação em sede de contratação colectiva."
+  },
+  "58889752": {
+   "fragment_id": "58889845",
+   "type": 11,
+   "heading": "Artigo 11.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Período experimental\n\n1 - A duração do período experimental não pode exceder, em qualquer caso, 30 dias, considerando-se reduzido a este período em caso de estipulação superior.\n\n2 - Relativamente ao primeiro contrato de trabalho celebrado após a vigência de um contrato de formação, não existe período experimental caso o contrato seja celebrado com a entidade formadora.\n\n3 - Considera-se, em qualquer caso, cessado o período experimental quando se verifique, pelo menos, uma das seguintes situações:\n\na) Quando o praticante participe, pela primeira vez, em competição ao serviço de entidade empregadora desportiva, nas modalidades em cuja regulamentação tal participação impeça ou limite a participação do praticante ao serviço de outra entidade empregadora desportiva na mesma época ou na mesma competição;\n\nb) Quando o praticante desportivo sofra lesão desportiva que o impeça de praticar a modalidade para que foi contratado e que se prolongue para além do período experimental."
+  },
+  "58889753": {
+   "fragment_id": "58889846",
+   "type": 1,
+   "heading": "Capítulo II — Direitos, deveres e garantias das partes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direitos, deveres e garantias das partes"
+  },
+  "58889754": {
+   "fragment_id": "58889847",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres da entidade empregadora desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres da entidade empregadora desportiva\n\nSão deveres da entidade empregadora desportiva, em especial:\n\na) Proporcionar aos praticantes desportivos as condições necessárias à participação desportiva, bem como a participação efectiva nos treinos e outras actividades preparatórias ou instrumentais da competição desportiva;\n\nb) Submeter os praticantes aos exames e tratamentos clínicos necessários à prática da actividade desportiva;\n\nc) Permitir que os praticantes, em conformidade com o previsto nos regulamentos federativos, participem nos trabalhos de preparação e integrem as selecções ou representações nacionais."
+  },
+  "58889755": {
+   "fragment_id": "58889848",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres do praticante desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres do praticante desportivo\n\nSão deveres do praticante desportivo, em especial:\n\na) Prestar a actividade desportiva para que foi contratado, participando nos treinos, estágios e outras sessões preparatórias das competições com a aplicação e a diligência correspondentes às suas condições psicofísicas e técnicas e, bem assim, de acordo com as regras da respectiva modalidade desportiva e com as instruções da entidade empregadora desportiva;\n\nb) Participar nos trabalhos de preparação e integrar as selecções ou representações nacionais;\n\nc) Preservar as condições físicas que lhe permitam participar na competição desportiva objecto do contrato;\n\nd) Submeter-se aos exames e tratamento clínicos necessários à prática desportiva;\n\ne) Conformar-se, no exercício da actividade desportiva, com as regras próprias da disciplina e da ética desportivas."
+  },
+  "58889756": {
+   "fragment_id": "58889849",
+   "type": 11,
+   "heading": "Artigo 14.º — Retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Retribuição\n\n1 - Compreendem-se na retribuição todas as prestações patrimoniais que, nos termos das regras aplicáveis ao contrato de trabalho, a entidade empregadora realize a favor do praticante desportivo profissional pelo exercício da sua actividade ou com fundamento nos resultados nela obtidos.\n\n2 - É válida a cláusula constante de contrato de trabalho desportivo que determine o aumento ou a diminuição da retribuição em caso de subida ou descida de escalão competitivo em que esteja integrada a entidade empregadora desportiva.\n\n3 - Quando a retribuição compreenda uma parte correspondente aos resultados desportivos obtidos, esta considera-se vencida, salvo acordo em contrário, com a remuneração do mês seguinte àquele em que esses resultados se verificarem."
+  },
+  "58889757": {
+   "fragment_id": "58889850",
+   "type": 11,
+   "heading": "Artigo 15.º — Período normal de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Período normal de trabalho\n\n1 - Considera-se compreendido no período normal de trabalho do praticante desportivo:\n\na) O tempo em que o praticante está sob as ordens e na dependência da entidade empregadora desportiva, com vista à participação nas provas desportivas em que possa vir tomar parte;\n\nb) O tempo despendido em sessões de apuramento técnico, táctico e físico e em outras sessões de treino, bem como em exames e tratamentos clínicos, com vista à preparação e recuperação do praticante para as provas desportivas;\n\nc) O tempo despendido em estágios de concentração e em viagens que precedam ou se sucedam à participação em provas desportivas.\n\n2 - Não relevam, para efeito dos limites do período normal de trabalho previstos na lei geral, os períodos de tempo referidos na alínea c) do número anterior.\n\n3 - A frequência e a duração dos estágios de concentração devem limitar-se ao que, tendo em conta as exigências próprias da modalidade e da competição em que o praticante intervém e a idade deste, deva ser considerado indispensável.\n\n4 - Podem ser estabelecidas por convenção colectiva regras em matéria de frequência e de duração dos estágios de concentração."
+  },
+  "58889758": {
+   "fragment_id": "58889851",
+   "type": 11,
+   "heading": "Artigo 16.º — Férias, feriados e descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Férias, feriados e descanso semanal\n\n1 - O praticante desportivo tem direito a um dia de descanso semanal, bem como ao gozo do período de férias previsto na lei, sem prejuízo de disposições mais favoráveis constantes da convenção colectiva de trabalho.\n\n2 - Quando tal seja imposto pela realização de provas desportivas, incluindo as não oficiais, o gozo do dia de descanso semanal transfere-se para a data a acordar entre as partes ou, não havendo acordo, para o 1.º dia disponível.\n\n3 - O disposto no número anterior é aplicável ao gozo de feriados obrigatórios ou facultativos."
+  },
+  "58889759": {
+   "fragment_id": "58889852",
+   "type": 11,
+   "heading": "Artigo 17.º — Poder disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Poder disciplinar\n\n1 - Sem prejuízo do disposto em convenção colectiva de trabalho, a entidade empregadora desportiva pode aplicar ao trabalhador, pela comissão de infracções disciplinares, as seguintes sanções:\n\na) Repreeensão;\n\nb) Repreensão registada;\n\nc) Multa;\n\nd) Suspensão do trabalho com perda de retribuição;\n\ne) Despedimento com justa causa.\n\n2 - As multas aplicadas a um praticante desportivo por infracções praticadas no mesmo dia não podem exceder metade da retribuição diária e, em cada época, a retribuição correspondente a 30 dias.\n\n3 - A suspensão do trabalho não pode exceder, por cada infracção, 24 dias e, em cada época, o total de 60 dias.\n\n4 - A aplicação de sanções disciplinares deve ser precedida de procedimento disciplinar no qual sejam garantidas ao arguido as adequadas garantias de defesa.\n\n5 - A sanção disciplinar deve ser proporcionada à gravidade da infracção e à culpabilidade do infractor, não podendo aplicar-se mais de uma pena pela mesma infracção."
+  },
+  "58889760": {
+   "fragment_id": "58889853",
+   "type": 11,
+   "heading": "Artigo 18.º — Liberdade de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Liberdade de trabalho\n\n1 - São nulas as cláusulas inseridas em contrato de trabalho desportivo visando condicionar ou limitar a liberdade de trabalho do praticante desportivo após o termo do vínculo contratual.\n\n2 - Pode ser estabelecida por convenção colectiva a obrigação de pagamento de uma justa indemnização, a título de promoção ou valorização do praticante desportivo, à anterior entidade empregadora por parte da entidade empregadora desportiva que com esse praticante desportivo celebre, após a cessação do anterior, um contrato de trabalho desportivo.\n\n3 - A convenção colectiva referida no número anterior é aplicável apenas em relação às transferências de praticantes que ocorram entre clubes portugueses com sede em território nacional.\n\n4 - O valor da compensação referida no n.º 2 não poderá, em caso algum, afectar de forma desproporcionada, na prática, a liberdade de contratar do praticante.\n\n5 - A validade e a eficácia do novo contrato não estão dependentes do pagamento de compensação devida nos termos do n.º 2.\n\n6 - A compensação a que se refere o n.º 2 pode ser satisfeita pelo praticante desportivo."
+  },
+  "58889761": {
+   "fragment_id": "58889854",
+   "type": 1,
+   "heading": "Capítulo III — Cedência e transferência de praticantes desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Cedência e transferência de praticantes desportivos"
+  },
+  "58889762": {
+   "fragment_id": "58889855",
+   "type": 11,
+   "heading": "Artigo 19.º — Cedência do praticante desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Cedência do praticante desportivo\n\n1 - Na vigência do contrato de trabalho desportivo é permitida, havendo acordo das partes, a cedência do praticante desportivo a outra entidade empregadora desportiva.\n\n2 - O acordo a que se refere o número anterior deve ser reduzido a escrito, não podendo o seu objecto ser diverso da actividade desportiva que o praticante se obrigou a prestar nos termos do contrato de trabalho desportivo."
+  },
+  "58889763": {
+   "fragment_id": "58889856",
+   "type": 11,
+   "heading": "Artigo 20.º — Contrato de cedência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contrato de cedência\n\n1 - Ao contrato de cedência do praticante desportivo celebrado entre as entidades empregadoras desportivas aplica-se o disposto nos artigos 5.º e 6.º, com as devidas adaptações.\n\n2 - Do contrato de cedência deve constar declaração de concordância do trabalhador.\n\n3 - No contrato de cedência podem ser estabelecidas condições remuneratórias diversas das acordadas no contrato de trabalho desportivo, desde que não envolvam diminuição da retribuição nele prevista.\n\n4 - A entidade empregadora a quem o praticante passa a prestar a sua actividade desportiva, nos termos do contrato de cedência, fica investida na posição jurídica da entidade empregadora anterior, nos termos do contrato e da convenção colectiva aplicável."
+  },
+  "58889764": {
+   "fragment_id": "58889857",
+   "type": 11,
+   "heading": "Artigo 21.º — Transferência de praticantes desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transferência de praticantes desportivos\n\nA transferência do praticante desportivo é regulada pelos regulamentos da respectiva federação dotada de utilidade pública desportiva, sem prejuízo do disposto no artigo 18.º"
+  },
+  "58889765": {
+   "fragment_id": "58889858",
+   "type": 1,
+   "heading": "Capítulo IV — Dos empresários desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos empresários desportivos"
+  },
+  "58889766": {
+   "fragment_id": "58889859",
+   "type": 11,
+   "heading": "Artigo 22.º — Exercício da actividade de empresário desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Exercício da actividade de empresário desportivo\n\n1 - Só podem exercer actividade de empresário desportivo as pessoas singulares ou colectivas devidamente autorizadas pelas entidades desportivas, nacionais ou internacionais, competentes.\n\n2 - A pessoa que exerça a actividade de empresário desportivo só pode agir em nome e por conta de uma das partes da relação contratual."
+  },
+  "58889767": {
+   "fragment_id": "58889860",
+   "type": 11,
+   "heading": "Artigo 23.º — Registo dos empresários desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Registo dos empresários desportivos\n\n1 - Sem prejuízo do disposto no artigo anterior, os empresários desportivos que pretendam exercer a actividade de intermediários na contratação de praticantes desportivos devem registar-se como tal junto da federação desportiva da respectiva modalidade, que, para este efeito, deve dispor de um registo organizado e actualizado.\n\n2 - Nas federações desportivas onde existam competições de carácter profissional o registo a que se refere o número anterior será igualmente efectuado junto da respectiva liga.\n\n3 - O registo a que se refere o número anterior é constituído por um modelo de identificação do empresário, cujas características serão definidas por regulamento federativo.\n\n4 - Os contratos de mandato celebrados com empresários desportivos que se não encontrem inscritos no registo referido no presente artigo, bem como as cláusulas contratuais que prevejam a respectiva remuneração pela prestação desses serviços, são considerados inexistentes."
+  },
+  "58889768": {
+   "fragment_id": "58889861",
+   "type": 11,
+   "heading": "Artigo 24.º — Remuneração da actividade de empresário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Remuneração da actividade de empresário\n\n1 - As pessoas singulares ou colectivas que exerçam a actividade de intermediários, ocasional ou permanentemente, só podem ser remuneradas pela parte que representam.\n\n2 - Salvo acordo em contrário, que deverá constar de cláusula escrita no contrato inicial, o montante máximo recebido pelo empresário é fixado em 5% do montante global do contrato."
+  },
+  "58889769": {
+   "fragment_id": "58889862",
+   "type": 11,
+   "heading": "Artigo 25.º — Limitações ao exercício da actividade de empresário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Limitações ao exercício da actividade de empresário\n\nSem prejuízo de outras limitações estabelecidas em regulamentos federativos nacionais ou internacionais, ficam inibidos de exercer a actividade de empresários desportivos as seguintes entidades:\n\na) As sociedades desportivas;\n\nb) Os clubes;\n\nc) Os dirigentes desportivos;\n\nd) Os titulares de cargos em órgãos das sociedades desportivas;\n\ne) Os treinadores, praticantes, árbitros, médicos e massagistas."
+  },
+  "58889770": {
+   "fragment_id": "58889863",
+   "type": 1,
+   "heading": "Capítulo V — Cessação do contrato de trabalho desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Cessação do contrato de trabalho desportivo"
+  },
+  "58889771": {
+   "fragment_id": "58889864",
+   "type": 11,
+   "heading": "Artigo 26.º — Formas de cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Formas de cessação\n\n1 - O contrato de trabalho desportivo pode cessar por:\n\na) Caducidade;\n\nb) Revogação, por acordo das partes;\n\nc) Despedimento com justa causa promovido pela entidade empregadora\n\ndesportiva;\n\nd) Rescisão com justa causa por iniciativa do praticante desportivo;\n\ne) Rescisão por qualquer das partes durante o período experimental;\n\nf) Despedimento colectivo;\n\ng) Abandono do trabalho.\n\n2 - À cessação do contrato por abandono do trabalho aplicam-se as normas do artigo 40.º do regime jurídico da cessação do contrato individual de trabalho, aprovado pelo Decreto-Lei n.º 64-A/89, de 27 de Fevereiro."
+  },
+  "58889772": {
+   "fragment_id": "58889865",
+   "type": 11,
+   "heading": "Artigo 27.º — Responsabilidade das partes pela cessação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Responsabilidade das partes pela cessação do contrato\n\n1 - Nos casos previstos nas alíneas c) e d) do n.º 1 do artigo anterior, a parte que der causa à cessação ou que a haja promovido indevidamente incorre em responsabilidade civil pelos danos causados em virtude do incumprimento do contrato, não podendo a indemnização exceder o valor das retribuições que ao praticante seriam devidas se o contrato de trabalho tivesse cessado no seu termo.\n\n2 - Quando se trate de extinção promovida pela entidade empregadora, o disposto no número anterior não prejudica o direito do trabalhador à reintegração no clube em caso de despedimento ilícito.\n\n3 - Quando, em caso de despedimento promovido pela entidade empregadora, caiba o direito à indemnização prevista no n.º 1, do respectivo montante devem ser deduzidas as remunerações que, durante o período correspondente à duração fixada para o contrato, o trabalhador venha a receber pela prestação da mesma actividade a outra entidade empregadora desportiva."
+  },
+  "58889773": {
+   "fragment_id": "58889866",
+   "type": 11,
+   "heading": "Artigo 28.º — Rescisão pelo trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Rescisão pelo trabalhador\n\nNão é devida a compensação referida no artigo 18.º quando o contrato de trabalho desportivo seja rescindido com justa causa pelo trabalhador."
+  },
+  "58889774": {
+   "fragment_id": "58889867",
+   "type": 11,
+   "heading": "Artigo 29.º — Comunicação da cessação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Comunicação da cessação do contrato\n\n1 - A eficácia da cessação do contrato de trabalho desportivo depende da comunicação às entidades que procedem ao registo obrigatório do contrato, nos termos do disposto no artigo 6.º\n\n2 - A comunicação deve ser realizada pela parte que promoveu a cessação, com indicação da respectiva forma de extinção do contrato."
+  },
+  "58896675": {
+   "fragment_id": "58889868",
+   "type": 11,
+   "heading": "Artigo 30.º — Convenção de arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Convenção de arbitragem\n\n1 - Para a solução de quaisquer conflitos de natureza laboral emergentes da celebração de contrato de trabalho desportivo poderão as associações representativas de entidades empregadoras e de praticantes desportivos, por meio de convenção colectiva, estabelecer o recurso à arbitragem, nos termos da Lei n.º 31/86, de 29 de Agosto, através da atribuição, para tal efeito, de competência exclusiva ou prévia a comissões arbitrais paritárias, institucionalizadas, nos termos do disposto no Decreto-Lei n.º 425/86, de 27 de Dezembro.\n\n2 - A convenção que estabelecer o recurso à arbitragem prevista no número anterior deverá fixar as competências próprias da comissão arbitral paritária, bem como a respectiva composição.\n\n3 - As comissões e tribunais arbitrais já existentes à data da entrada em vigor do presente diploma consideram-se competentes nos termos do n.º 1 do presente artigo, desde que tal competência resulte da convenção que determinou a sua constituição.\n\n> Nota: [Artigo 3.º, Lei n.º 74/2013 - Diário da República n.º 172/2013, Série I de 2013-09-06](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251) O artIgo 3º da Lei 74/2013, de 06 de setembro, determina que as comissões arbitrais às quais tenha sido atribuída competência exclusiva ou prévia, nos termos e para os efeitos do presente artigo, mantêm -se em vigor até 31.07.2015, data a partir da qual a respetiva competência arbitral é atribuída ao Tribunal Arbitral do Desporto (TAD)."
+  },
+  "58896676": {
+   "fragment_id": "58889869",
+   "type": 1,
+   "heading": "Capítulo VI — Contrato de formação desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Contrato de formação desportiva"
+  },
+  "58896677": {
+   "fragment_id": "58889870",
+   "type": 11,
+   "heading": "Artigo 31.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Capacidade\n\n1 - Podem ser contratados como formandos os jovens que, cumulativamente, tenham:\n\na) Cumprido a escolaridade obrigatória;\n\nb) Idade compreendida entre 14 e 18 anos.\n\n2 - Podem celebrar contratos de formação como entidades formadoras as entidades empregadoras desportivas que garantam um ambiente de trabalho e meios humanos e técnicos adequados à formação desportiva a ministrar.\n\n3 - A verificação do disposto no número anterior é certificada mediante documento comprovativo a emitir pela respectiva federação dotada de utilidade pública desportiva e pode ser reapreciada a todo o tempo.\n\n4 - A celebração do contrato depende da realização de exame médico, a promover pela entidade formadora, que certifique a capacidade física e psíquica adequada ao desempenho da actividade.\n\n5 - O incumprimento dos requisitos previstos no presente artigo determina a anulabilidade do contrato."
+  },
+  "58896678": {
+   "fragment_id": "58889871",
+   "type": 11,
+   "heading": "Artigo 32.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Forma\n\n1 - O contrato de formação desportiva deve ser reduzido a escrito e é feito em triplicado.\n\n2 - Os três exemplares são assinados pelo representante da entidade formadora, pelo formando e pelo seu representante legal, quando aquele for menor.\n\n3 - Dos três exemplares um é para a entidade formadora, outro para o formando ou seu representante legal e outro para a federação respectiva.\n\n4 - O modelo do contrato de formação é aprovado por regulamento federativo."
+  },
+  "58896679": {
+   "fragment_id": "58889872",
+   "type": 11,
+   "heading": "Artigo 33.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Duração\n\n1 - O contrato de formação tem a duração mínima de uma época desportiva e a duração máxima de quatro épocas desportivas.\n\n2 - O contrato de formação pode ser prorrogado até ao limite máximo estabelecido no número anterior."
+  },
+  "58896680": {
+   "fragment_id": "58889873",
+   "type": 11,
+   "heading": "Artigo 34.º — Tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Tempo de trabalho\n\nNo que respeita ao tempo de trabalho, feriados e descanso semanal do formando, é aplicável o regime estabelecido pelo presente diploma para o praticante desportivo profissional."
+  },
+  "58896681": {
+   "fragment_id": "58889874",
+   "type": 11,
+   "heading": "Artigo 35.º — Deveres da entidade formadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Deveres da entidade formadora\n\n1 - Constituem, em especial, deveres da entidade formadora:\n\na) Proporcionar ao formando os conhecimentos necessários à prática da modalidade desportiva;\n\nb) Não exigir dos formandos tarefas que não se compreendam no objecto do contrato;\n\nc) Respeitar as condições de higiene e segurança e de ambiente compatíveis com a idade do formando;\n\nd) Informar regularmente o representante legal do formando sobre o desenvolvimento do processo de formação e, bem assim, prestar os esclarecimentos que lhes forem por aquele solicitados;\n\ne) Proporcionar ao formando a frequência e a prossecução dos seus estudos.\n\n2 - A entidade formadora é responsável pela realização de um exame médico anual, se periodicidade mais curta não for exigida pelo desenvolvimento do processo de formação, por forma a assegurar que das actividades desenvolvidas no âmbito da formação não resulte perigo para a saúde e para o desenvolvimento físico e psíquico do formando."
+  },
+  "58896682": {
+   "fragment_id": "58896775",
+   "type": 11,
+   "heading": "Artigo 36.º — Deveres do formando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Deveres do formando\n\nConstituem em especial, deveres do formando:\n\na) Ser assíduo, pontual e realizar as suas tarefas com zelo e diligência;\n\nb) Observar as instruções das pessoas encarregadas da sua formação;\n\nc) Utilizar cuidadosamente e zelar pela boa conservação dos bens materiais que lhe sejam confiados."
+  },
+  "58896683": {
+   "fragment_id": "58896776",
+   "type": 11,
+   "heading": "Artigo 37.º — Promessa de contrato de trabalho desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Promessa de contrato de trabalho desportivo\n\n1 - Vale como promessa de contrato de trabalho desportivo o acordo pelo qual o formando se obriga a celebrar com a entidade formadora um contrato de trabalho desportivo após a cessação do contrato de formação.\n\n2 - A duração do contrato de trabalho prometido não pode exceder quatro épocas desportivas, considerando-se reduzida a essa duração em caso de estipulação de duração superior.\n\n3 - A promessa de contrato de trabalho referida no número anterior caduca caso o contrato de formação cesse antes do termo fixado.\n\n4 - O incumprimento do contrato, sem justa causa, de formação por parte do formando inibirá este de celebrar contrato de trabalho desportivo com clube diverso do clube formador até ao final do prazo pelo qual se tinha comprometido com este."
+  },
+  "58896684": {
+   "fragment_id": "58896777",
+   "type": 11,
+   "heading": "Artigo 38.º — Compensação por formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Compensação por formação\n\nA celebração, pelo praticante desportivo, do primeiro contrato de trabalho como profissional com entidade empregadora distinta da entidade formadora confere a esta o direito de receber uma compensação por formação, de acordo com o disposto no artigo 18.º"
+  },
+  "58896685": {
+   "fragment_id": "58896778",
+   "type": 11,
+   "heading": "Artigo 39.º — Cessação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Cessação do contrato\n\n1 - À cessação do contrato de formação desportiva é aplicável, com as necessárias adaptações, o regime previsto nos artigos 26.º a 30.º do Decreto-Lei n.º 205/96, de 25 de Outubro.\n\n2 - A cessação do contrato de formação por iniciativa do clube formador depende da verificação de justa causa apurada através do competente procedimento disciplinar."
+  },
+  "58896686": {
+   "fragment_id": "58896779",
+   "type": 11,
+   "heading": "Artigo 40.º — Liberdade de contratar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Liberdade de contratar\n\nA federação de cada modalidade, dotada de utilidade pública desportiva, pode estabelecer, por regulamento, limites quanto à possibilidade de participação do formando em competições oficiais em representação de mais de uma entidade formadora numa mesma época desportiva."
+  },
+  "58896687": {
+   "fragment_id": "58896780",
+   "type": 11,
+   "heading": "Artigo 41.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 305/95, de 18 de Novembro."
+  },
+  "58889740": {
+   "fragment_id": "58889833",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 28/98\n\nde 26 de Junho\n\nEstabelece um novo regime jurídico do contrato de trabalho do praticante desportivo e do contrato de formação desportiva e revoga o Decreto-Lei n.º 305/95, de 18 de Novembro.\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 165.º, n.º 1, alíneas b) e d), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "58896700": {
+   "fragment_id": "58896794",
+   "type": 1,
+   "heading": "Capítulo VII — Sanções",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "### Capítulo VII — Sanções\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "58896702": {
+   "fragment_id": "58896795",
+   "type": 11,
+   "heading": "Artigo 42.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 42.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a prestação de actividade com base num contrato de trabalho desportivo por parte de menor que não satisfaça as condições referidas no n.º 1 do artigo 4.º, bem como a execução de contrato de formação desportiva por parte de menor sem os requisitos mínimos do n.º 1 do artigo 31.º\n\n2 - Constitui contra-ordenação grave a violação das alíneas a) e b) do artigo 12.º, do n.º 3 do artigo 15.º, do artigo 16.º, dos n.os 2, 3 e 4 do artigo 17.º, do n.º 2 do artigo 27.º e da alínea c) do n.º 1 e do n.º 2 do artigo 35.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 2 do artigo 4.º, dos n.os 1 e 2 do artigo 5.º e da parte final do n.º 2 do artigo 32.º\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "58896701": {
+   "fragment_id": "58896781",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 30 de Abril de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 3 de Junho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 17 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "107693239": {
+   "fragment_id": "58889834",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693240": {
+   "fragment_id": "58889835",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico do contrato de trabalho do praticante desportivo e do contrato de formação desportiva.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693241": {
+   "fragment_id": "58889836",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) Contrato de trabalho desportivo aquele pelo qual o praticante desportivo se obriga, mediante retribuição, a prestar actividade desportiva a uma pessoa singular ou colectiva que promova ou participe em actividades desportivas, sob a autoridade e a direcção desta;\n\nb) Praticante desportivo profissional aquele que, através de contrato de trabalho desportivo e após a necessária formação técnico-profissional, pratica uma modalidade desportiva como profissão exclusiva ou principal, auferindo por via dela uma retribuição;\n\nc) Contrato de formação desportiva o contrato celebrado entre uma entidade formadora e um formando, nos termos do qual aquela se obriga a prestar a este a formação adequada ao desenvolvimento da sua capacidade técnica e à aquisição de conhecimentos necessários à prática de uma modalidade desportiva, ficando o formando obrigado a executar as tarefas inerentes a essa formação;\n\nd) Empresário desportivo a pessoa singular ou colectiva que, estando devidamente credenciada, exerça a actividade de representação ou imtermediação, ocasional ou permanente, mediante remuneração, na celebração de contratos desportivos;\n\ne) Entidade formadora as pessoas singulares ou colectivas desportivas que garantam um ambiente de trabalho e os meios humanos e técnicos adequados à formação desportiva a ministrar;\n\nf) Formando os jovens praticantes que, tendo cumprido a escolaridade obrigatória, tenham idades compreendidas entre os 14 e os 18 anos e tenham assinado o contrato de formação desportiva, tendo por fim a aprendizagem ou o aperfeiçoamento de uma modalidade desportiva.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693242": {
+   "fragment_id": "58889837",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito subsidiário",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 3.º — Direito subsidiário\n\nÀs relações emergentes do contrato de trabalho desportivo aplicam-se, subsidiariamente, as regras aplicáveis ao contrato de trabalho.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693243": {
+   "fragment_id": "58889838",
+   "type": 11,
+   "heading": "Artigo 4.º — Capacidade",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 4.º — Capacidade\n\n1 - Só podem celebrar contratos de trabalho desportivo os menores que hajam completado 16 anos de idade e que reúnam os requisitos exigidos pela lei geral do trabalho.\n\n2 - O contrato de trabalho desportivo celebrado por menor deve ser igualmente subscrito pelo seu representante legal.\n\n3 - É anulável o contrato de trabalho celebrado com violação do disposto no número anterior.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693244": {
+   "fragment_id": "58889839",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 5.º — Forma\n\n1 - Sem prejuízo do disposto em outras normas legais, na regulamentação desportiva ou em instrumento de regulamentação colectiva de trabalho, o contrato de trabalho desportivo é lavrado em duplicado, ficando cada uma das partes com um exemplar.\n\n2 - O contrato de trabalho desportivo só é válido se for celebrado por escrito e assinado por ambas as partes, dele devendo constar:\n\na) A identificação das partes, incluindo a nacionalidade e a data de nascimento do praticante;\n\nb) A actividade desportiva que o praticante se obriga a prestar;\n\nc) O montante de retribuição;\n\nd) A data de início de produção de efeitos do contrato;\n\ne) O termo de vigência do contrato;\n\nf) A data de celebração.\n\n3 - Quando a retribuição for constituída por uma parte certa e outra variável, do contrato deverá constar indicação da parte certa e, se não for possível determinar a parte variável, o estabelecimento das formas que esta pode revestir, bem como dos critérios em função dos quais é calculada e paga.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693245": {
+   "fragment_id": "58889840",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 6.º — Registo\n\n1 - A participação do praticante desportivo em competições promovidas por uma federação dotada de utilidade pública desportiva depende de prévio registo do contrato de trabalho desportivo na respectiva federação.\n\n2 - O registo é efectuado nos termos que forem estabelecidos por regulamento federativo.\n\n3 - O disposto nos números anteriores é aplicável às modificações que as partes introduzam no contrato.\n\n4 - No acto do registo do contrato de trabalho desportivo a entidade empregadora desportiva deve fazer prova de ter efectuado o correspondente seguro de acidentes de trabalho, sob pena de incorrer no disposto no artigo 44.º do Decreto-Lei n.º 491/85, de 26 de Novembro.\n\n5 - A falta de registo do contrato ou das cláusulas adicionais presume-se de culpa exclusiva da entidade empregadora desportiva, salvo prova em contrário.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693246": {
+   "fragment_id": "58889841",
+   "type": 11,
+   "heading": "Artigo 7.º — Promessa de contrato de trabalho",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 7.º — Promessa de contrato de trabalho\n\nA promessa de contrato de trabalho desportivo só é válida se, além dos elementos previstos na lei geral do trabalho, contiver indicação do início e do termo do contrato prometido ou a menção a que se refere a alínea b) do n.º 2 do artigo 8.º\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693247": {
+   "fragment_id": "58889842",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração do contrato",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 8.º — Duração do contrato\n\n1 - O contrato de trabalho desportivo não pode ter duração inferior a uma época desportiva nem superior a oito épocas.\n\n2 - Sem prejuízo do disposto no número anterior, podem ser celebrados por período inferior a uma época desportiva:\n\na) Contratos de trabalho celebrados após o início de uma época desportiva para vigorarem até ao fim desta;\n\nb) Contratos de trabalho pelos quais o praticante desportivo seja contratado para participar numa competição ou em determinado número de prestações que constituam uma unidade identificável no âmbito da respectiva modalidade desportiva.\n\n3 - No caso a que se refere a alínea b) do número anterior, não é necessário que do contrato constem os elementos referidos nas alíneas d) e e) do n.º 2 do artigo 5.º\n\n4 - Considera-se celebrado por uma época desportiva, ou para a época desportiva no decurso da qual for celebrado, o contrato em que falte a indicação do respectivo termo.\n\n5 - Entende-se por época desportiva o período de tempo, nunca superior a 12 meses, durante o qual decorre a actividade desportiva, a fixar para cada modalidade pela respectiva federação dotada de utilidade pública desportiva.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693248": {
+   "fragment_id": "58889843",
+   "type": 11,
+   "heading": "Artigo 9.º — Violação das regras sobre a duração do contrato",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 9.º — Violação das regras sobre a duração do contrato\n\nA violação do disposto no n.º 1 do artigo anterior determina a aplicação ao contrato em causa dos prazos mínimo ou máximo admitidos.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693249": {
+   "fragment_id": "58889844",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de imagem",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 10.º — Direito de imagem\n\n1 - Todo o praticante desportivo profissional tem direito a utilizar a sua imagem pública ligada à prática desportiva e a opor-se a que outrem a use ilicitamente para exploração comercial ou para outros fins económicos.\n\n2 - Fica ressalvado o direito de uso de imagem do colectivo dos praticantes, o qual poderá ser objecto de regulamentação em sede de contratação colectiva.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693250": {
+   "fragment_id": "58889845",
+   "type": 11,
+   "heading": "Artigo 11.º — Período experimental",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 11.º — Período experimental\n\n1 - A duração do período experimental não pode exceder, em qualquer caso, 30 dias, considerando-se reduzido a este período em caso de estipulação superior.\n\n2 - Relativamente ao primeiro contrato de trabalho celebrado após a vigência de um contrato de formação, não existe período experimental caso o contrato seja celebrado com a entidade formadora.\n\n3 - Considera-se, em qualquer caso, cessado o período experimental quando se verifique, pelo menos, uma das seguintes situações:\n\na) Quando o praticante participe, pela primeira vez, em competição ao serviço de entidade empregadora desportiva, nas modalidades em cuja regulamentação tal participação impeça ou limite a participação do praticante ao serviço de outra entidade empregadora desportiva na mesma época ou na mesma competição;\n\nb) Quando o praticante desportivo sofra lesão desportiva que o impeça de praticar a modalidade para que foi contratado e que se prolongue para além do período experimental.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693251": {
+   "fragment_id": "58889846",
+   "type": 1,
+   "heading": "Capítulo II — Direitos, deveres e garantias das partes",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "### Capítulo II — Direitos, deveres e garantias das partes\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693252": {
+   "fragment_id": "58889847",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres da entidade empregadora desportiva",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 12.º — Deveres da entidade empregadora desportiva\n\nSão deveres da entidade empregadora desportiva, em especial:\n\na) Proporcionar aos praticantes desportivos as condições necessárias à participação desportiva, bem como a participação efectiva nos treinos e outras actividades preparatórias ou instrumentais da competição desportiva;\n\nb) Submeter os praticantes aos exames e tratamentos clínicos necessários à prática da actividade desportiva;\n\nc) Permitir que os praticantes, em conformidade com o previsto nos regulamentos federativos, participem nos trabalhos de preparação e integrem as selecções ou representações nacionais.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693253": {
+   "fragment_id": "58889848",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres do praticante desportivo",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 13.º — Deveres do praticante desportivo\n\nSão deveres do praticante desportivo, em especial:\n\na) Prestar a actividade desportiva para que foi contratado, participando nos treinos, estágios e outras sessões preparatórias das competições com a aplicação e a diligência correspondentes às suas condições psicofísicas e técnicas e, bem assim, de acordo com as regras da respectiva modalidade desportiva e com as instruções da entidade empregadora desportiva;\n\nb) Participar nos trabalhos de preparação e integrar as selecções ou representações nacionais;\n\nc) Preservar as condições físicas que lhe permitam participar na competição desportiva objecto do contrato;\n\nd) Submeter-se aos exames e tratamento clínicos necessários à prática desportiva;\n\ne) Conformar-se, no exercício da actividade desportiva, com as regras próprias da disciplina e da ética desportivas.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693254": {
+   "fragment_id": "58889849",
+   "type": 11,
+   "heading": "Artigo 14.º — Retribuição",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 14.º — Retribuição\n\n1 - Compreendem-se na retribuição todas as prestações patrimoniais que, nos termos das regras aplicáveis ao contrato de trabalho, a entidade empregadora realize a favor do praticante desportivo profissional pelo exercício da sua actividade ou com fundamento nos resultados nela obtidos.\n\n2 - É válida a cláusula constante de contrato de trabalho desportivo que determine o aumento ou a diminuição da retribuição em caso de subida ou descida de escalão competitivo em que esteja integrada a entidade empregadora desportiva.\n\n3 - Quando a retribuição compreenda uma parte correspondente aos resultados desportivos obtidos, esta considera-se vencida, salvo acordo em contrário, com a remuneração do mês seguinte àquele em que esses resultados se verificarem.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693255": {
+   "fragment_id": "58889850",
+   "type": 11,
+   "heading": "Artigo 15.º — Período normal de trabalho",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 15.º — Período normal de trabalho\n\n1 - Considera-se compreendido no período normal de trabalho do praticante desportivo:\n\na) O tempo em que o praticante está sob as ordens e na dependência da entidade empregadora desportiva, com vista à participação nas provas desportivas em que possa vir tomar parte;\n\nb) O tempo despendido em sessões de apuramento técnico, táctico e físico e em outras sessões de treino, bem como em exames e tratamentos clínicos, com vista à preparação e recuperação do praticante para as provas desportivas;\n\nc) O tempo despendido em estágios de concentração e em viagens que precedam ou se sucedam à participação em provas desportivas.\n\n2 - Não relevam, para efeito dos limites do período normal de trabalho previstos na lei geral, os períodos de tempo referidos na alínea c) do número anterior.\n\n3 - A frequência e a duração dos estágios de concentração devem limitar-se ao que, tendo em conta as exigências próprias da modalidade e da competição em que o praticante intervém e a idade deste, deva ser considerado indispensável.\n\n4 - Podem ser estabelecidas por convenção colectiva regras em matéria de frequência e de duração dos estágios de concentração.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693256": {
+   "fragment_id": "58889851",
+   "type": 11,
+   "heading": "Artigo 16.º — Férias, feriados e descanso semanal",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 16.º — Férias, feriados e descanso semanal\n\n1 - O praticante desportivo tem direito a um dia de descanso semanal, bem como ao gozo do período de férias previsto na lei, sem prejuízo de disposições mais favoráveis constantes da convenção colectiva de trabalho.\n\n2 - Quando tal seja imposto pela realização de provas desportivas, incluindo as não oficiais, o gozo do dia de descanso semanal transfere-se para a data a acordar entre as partes ou, não havendo acordo, para o 1.º dia disponível.\n\n3 - O disposto no número anterior é aplicável ao gozo de feriados obrigatórios ou facultativos.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693257": {
+   "fragment_id": "58889852",
+   "type": 11,
+   "heading": "Artigo 17.º — Poder disciplinar",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 17.º — Poder disciplinar\n\n1 - Sem prejuízo do disposto em convenção colectiva de trabalho, a entidade empregadora desportiva pode aplicar ao trabalhador, pela comissão de infracções disciplinares, as seguintes sanções:\n\na) Repreeensão;\n\nb) Repreensão registada;\n\nc) Multa;\n\nd) Suspensão do trabalho com perda de retribuição;\n\ne) Despedimento com justa causa.\n\n2 - As multas aplicadas a um praticante desportivo por infracções praticadas no mesmo dia não podem exceder metade da retribuição diária e, em cada época, a retribuição correspondente a 30 dias.\n\n3 - A suspensão do trabalho não pode exceder, por cada infracção, 24 dias e, em cada época, o total de 60 dias.\n\n4 - A aplicação de sanções disciplinares deve ser precedida de procedimento disciplinar no qual sejam garantidas ao arguido as adequadas garantias de defesa.\n\n5 - A sanção disciplinar deve ser proporcionada à gravidade da infracção e à culpabilidade do infractor, não podendo aplicar-se mais de uma pena pela mesma infracção.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693258": {
+   "fragment_id": "58889853",
+   "type": 11,
+   "heading": "Artigo 18.º — Liberdade de trabalho",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 18.º — Liberdade de trabalho\n\n1 - São nulas as cláusulas inseridas em contrato de trabalho desportivo visando condicionar ou limitar a liberdade de trabalho do praticante desportivo após o termo do vínculo contratual.\n\n2 - Pode ser estabelecida por convenção colectiva a obrigação de pagamento de uma justa indemnização, a título de promoção ou valorização do praticante desportivo, à anterior entidade empregadora por parte da entidade empregadora desportiva que com esse praticante desportivo celebre, após a cessação do anterior, um contrato de trabalho desportivo.\n\n3 - A convenção colectiva referida no número anterior é aplicável apenas em relação às transferências de praticantes que ocorram entre clubes portugueses com sede em território nacional.\n\n4 - O valor da compensação referida no n.º 2 não poderá, em caso algum, afectar de forma desproporcionada, na prática, a liberdade de contratar do praticante.\n\n5 - A validade e a eficácia do novo contrato não estão dependentes do pagamento de compensação devida nos termos do n.º 2.\n\n6 - A compensação a que se refere o n.º 2 pode ser satisfeita pelo praticante desportivo.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693259": {
+   "fragment_id": "58889854",
+   "type": 1,
+   "heading": "Capítulo III — Cedência e transferência de praticantes desportivos",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "### Capítulo III — Cedência e transferência de praticantes desportivos\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693260": {
+   "fragment_id": "58889855",
+   "type": 11,
+   "heading": "Artigo 19.º — Cedência do praticante desportivo",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 19.º — Cedência do praticante desportivo\n\n1 - Na vigência do contrato de trabalho desportivo é permitida, havendo acordo das partes, a cedência do praticante desportivo a outra entidade empregadora desportiva.\n\n2 - O acordo a que se refere o número anterior deve ser reduzido a escrito, não podendo o seu objecto ser diverso da actividade desportiva que o praticante se obrigou a prestar nos termos do contrato de trabalho desportivo.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693261": {
+   "fragment_id": "58889856",
+   "type": 11,
+   "heading": "Artigo 20.º — Contrato de cedência",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 20.º — Contrato de cedência\n\n1 - Ao contrato de cedência do praticante desportivo celebrado entre as entidades empregadoras desportivas aplica-se o disposto nos artigos 5.º e 6.º, com as devidas adaptações.\n\n2 - Do contrato de cedência deve constar declaração de concordância do trabalhador.\n\n3 - No contrato de cedência podem ser estabelecidas condições remuneratórias diversas das acordadas no contrato de trabalho desportivo, desde que não envolvam diminuição da retribuição nele prevista.\n\n4 - A entidade empregadora a quem o praticante passa a prestar a sua actividade desportiva, nos termos do contrato de cedência, fica investida na posição jurídica da entidade empregadora anterior, nos termos do contrato e da convenção colectiva aplicável.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693262": {
+   "fragment_id": "58889857",
+   "type": 11,
+   "heading": "Artigo 21.º — Transferência de praticantes desportivos",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 21.º — Transferência de praticantes desportivos\n\nA transferência do praticante desportivo é regulada pelos regulamentos da respectiva federação dotada de utilidade pública desportiva, sem prejuízo do disposto no artigo 18.º\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693263": {
+   "fragment_id": "58889858",
+   "type": 1,
+   "heading": "Capítulo IV — Dos empresários desportivos",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "### Capítulo IV — Dos empresários desportivos\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693264": {
+   "fragment_id": "58889859",
+   "type": 11,
+   "heading": "Artigo 22.º — Exercício da actividade de empresário desportivo",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 22.º — Exercício da actividade de empresário desportivo\n\n1 - Só podem exercer actividade de empresário desportivo as pessoas singulares ou colectivas devidamente autorizadas pelas entidades desportivas, nacionais ou internacionais, competentes.\n\n2 - A pessoa que exerça a actividade de empresário desportivo só pode agir em nome e por conta de uma das partes da relação contratual.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693265": {
+   "fragment_id": "58889860",
+   "type": 11,
+   "heading": "Artigo 23.º — Registo dos empresários desportivos",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 23.º — Registo dos empresários desportivos\n\n1 - Sem prejuízo do disposto no artigo anterior, os empresários desportivos que pretendam exercer a actividade de intermediários na contratação de praticantes desportivos devem registar-se como tal junto da federação desportiva da respectiva modalidade, que, para este efeito, deve dispor de um registo organizado e actualizado.\n\n2 - Nas federações desportivas onde existam competições de carácter profissional o registo a que se refere o número anterior será igualmente efectuado junto da respectiva liga.\n\n3 - O registo a que se refere o número anterior é constituído por um modelo de identificação do empresário, cujas características serão definidas por regulamento federativo.\n\n4 - Os contratos de mandato celebrados com empresários desportivos que se não encontrem inscritos no registo referido no presente artigo, bem como as cláusulas contratuais que prevejam a respectiva remuneração pela prestação desses serviços, são considerados inexistentes.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693266": {
+   "fragment_id": "58889861",
+   "type": 11,
+   "heading": "Artigo 24.º — Remuneração da actividade de empresário",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 24.º — Remuneração da actividade de empresário\n\n1 - As pessoas singulares ou colectivas que exerçam a actividade de intermediários, ocasional ou permanentemente, só podem ser remuneradas pela parte que representam.\n\n2 - Salvo acordo em contrário, que deverá constar de cláusula escrita no contrato inicial, o montante máximo recebido pelo empresário é fixado em 5% do montante global do contrato.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693267": {
+   "fragment_id": "58889862",
+   "type": 11,
+   "heading": "Artigo 25.º — Limitações ao exercício da actividade de empresário",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 25.º — Limitações ao exercício da actividade de empresário\n\nSem prejuízo de outras limitações estabelecidas em regulamentos federativos nacionais ou internacionais, ficam inibidos de exercer a actividade de empresários desportivos as seguintes entidades:\n\na) As sociedades desportivas;\n\nb) Os clubes;\n\nc) Os dirigentes desportivos;\n\nd) Os titulares de cargos em órgãos das sociedades desportivas;\n\ne) Os treinadores, praticantes, árbitros, médicos e massagistas.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693268": {
+   "fragment_id": "58889863",
+   "type": 1,
+   "heading": "Capítulo V — Cessação do contrato de trabalho desportivo",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "### Capítulo V — Cessação do contrato de trabalho desportivo\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693269": {
+   "fragment_id": "58889864",
+   "type": 11,
+   "heading": "Artigo 26.º — Formas de cessação",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 26.º — Formas de cessação\n\n1 - O contrato de trabalho desportivo pode cessar por:\n\na) Caducidade;\n\nb) Revogação, por acordo das partes;\n\nc) Despedimento com justa causa promovido pela entidade empregadora\n\ndesportiva;\n\nd) Rescisão com justa causa por iniciativa do praticante desportivo;\n\ne) Rescisão por qualquer das partes durante o período experimental;\n\nf) Despedimento colectivo;\n\ng) Abandono do trabalho.\n\n2 - À cessação do contrato por abandono do trabalho aplicam-se as normas do artigo 40.º do regime jurídico da cessação do contrato individual de trabalho, aprovado pelo Decreto-Lei n.º 64-A/89, de 27 de Fevereiro.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693270": {
+   "fragment_id": "58889865",
+   "type": 11,
+   "heading": "Artigo 27.º — Responsabilidade das partes pela cessação do contrato",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 27.º — Responsabilidade das partes pela cessação do contrato\n\n1 - Nos casos previstos nas alíneas c) e d) do n.º 1 do artigo anterior, a parte que der causa à cessação ou que a haja promovido indevidamente incorre em responsabilidade civil pelos danos causados em virtude do incumprimento do contrato, não podendo a indemnização exceder o valor das retribuições que ao praticante seriam devidas se o contrato de trabalho tivesse cessado no seu termo.\n\n2 - Quando se trate de extinção promovida pela entidade empregadora, o disposto no número anterior não prejudica o direito do trabalhador à reintegração no clube em caso de despedimento ilícito.\n\n3 - Quando, em caso de despedimento promovido pela entidade empregadora, caiba o direito à indemnização prevista no n.º 1, do respectivo montante devem ser deduzidas as remunerações que, durante o período correspondente à duração fixada para o contrato, o trabalhador venha a receber pela prestação da mesma actividade a outra entidade empregadora desportiva.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693271": {
+   "fragment_id": "58889866",
+   "type": 11,
+   "heading": "Artigo 28.º — Rescisão pelo trabalhador",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 28.º — Rescisão pelo trabalhador\n\nNão é devida a compensação referida no artigo 18.º quando o contrato de trabalho desportivo seja rescindido com justa causa pelo trabalhador.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693272": {
+   "fragment_id": "58889867",
+   "type": 11,
+   "heading": "Artigo 29.º — Comunicação da cessação do contrato",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 29.º — Comunicação da cessação do contrato\n\n1 - A eficácia da cessação do contrato de trabalho desportivo depende da comunicação às entidades que procedem ao registo obrigatório do contrato, nos termos do disposto no artigo 6.º\n\n2 - A comunicação deve ser realizada pela parte que promoveu a cessação, com indicação da respectiva forma de extinção do contrato.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693273": {
+   "fragment_id": "58889868",
+   "type": 11,
+   "heading": "Artigo 30.º — Convenção de arbitragem",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19",
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 74/2013 - Diário da República n.º 172/2013, Série I de 2013-09-06](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251)"
+   ],
+   "markdown": "###### Artigo 30.º — Convenção de arbitragem\n\n1 - Para a solução de quaisquer conflitos de natureza laboral emergentes da celebração de contrato de trabalho desportivo poderão as associações representativas de entidades empregadoras e de praticantes desportivos, por meio de convenção colectiva, estabelecer o recurso à arbitragem, nos termos da Lei n.º 31/86, de 29 de Agosto, através da atribuição, para tal efeito, de competência exclusiva ou prévia a comissões arbitrais paritárias, institucionalizadas, nos termos do disposto no Decreto-Lei n.º 425/86, de 27 de Dezembro.\n\n2 - A convenção que estabelecer o recurso à arbitragem prevista no número anterior deverá fixar as competências próprias da comissão arbitral paritária, bem como a respectiva composição.\n\n3 - As comissões e tribunais arbitrais já existentes à data da entrada em vigor do presente diploma consideram-se competentes nos termos do n.º 1 do presente artigo, desde que tal competência resulte da convenção que determinou a sua constituição.\n\n> Nota: [Artigo 3.º, Lei n.º 74/2013 - Diário da República n.º 172/2013, Série I de 2013-09-06](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251) O artIgo 3º da Lei 74/2013, de 06 de setembro, determina que as comissões arbitrais às quais tenha sido atribuída competência exclusiva ou prévia, nos termos e para os efeitos do presente artigo, mantêm -se em vigor até 31.07.2015, data a partir da qual a respetiva competência arbitral é atribuída ao Tribunal Arbitral do Desporto (TAD).\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 74/2013 - Diário da República n.º 172/2013, Série I de 2013-09-06](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251)"
+  },
+  "107693274": {
+   "fragment_id": "58889869",
+   "type": 1,
+   "heading": "Capítulo VI — Contrato de formação desportiva",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "### Capítulo VI — Contrato de formação desportiva\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693575": {
+   "fragment_id": "58889870",
+   "type": 11,
+   "heading": "Artigo 31.º — Capacidade",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 31.º — Capacidade\n\n1 - Podem ser contratados como formandos os jovens que, cumulativamente, tenham:\n\na) Cumprido a escolaridade obrigatória;\n\nb) Idade compreendida entre 14 e 18 anos.\n\n2 - Podem celebrar contratos de formação como entidades formadoras as entidades empregadoras desportivas que garantam um ambiente de trabalho e meios humanos e técnicos adequados à formação desportiva a ministrar.\n\n3 - A verificação do disposto no número anterior é certificada mediante documento comprovativo a emitir pela respectiva federação dotada de utilidade pública desportiva e pode ser reapreciada a todo o tempo.\n\n4 - A celebração do contrato depende da realização de exame médico, a promover pela entidade formadora, que certifique a capacidade física e psíquica adequada ao desempenho da actividade.\n\n5 - O incumprimento dos requisitos previstos no presente artigo determina a anulabilidade do contrato.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693576": {
+   "fragment_id": "58889871",
+   "type": 11,
+   "heading": "Artigo 32.º — Forma",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 32.º — Forma\n\n1 - O contrato de formação desportiva deve ser reduzido a escrito e é feito em triplicado.\n\n2 - Os três exemplares são assinados pelo representante da entidade formadora, pelo formando e pelo seu representante legal, quando aquele for menor.\n\n3 - Dos três exemplares um é para a entidade formadora, outro para o formando ou seu representante legal e outro para a federação respectiva.\n\n4 - O modelo do contrato de formação é aprovado por regulamento federativo.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693577": {
+   "fragment_id": "58889872",
+   "type": 11,
+   "heading": "Artigo 33.º — Duração",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 33.º — Duração\n\n1 - O contrato de formação tem a duração mínima de uma época desportiva e a duração máxima de quatro épocas desportivas.\n\n2 - O contrato de formação pode ser prorrogado até ao limite máximo estabelecido no número anterior.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693578": {
+   "fragment_id": "58889873",
+   "type": 11,
+   "heading": "Artigo 34.º — Tempo de trabalho",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 34.º — Tempo de trabalho\n\nNo que respeita ao tempo de trabalho, feriados e descanso semanal do formando, é aplicável o regime estabelecido pelo presente diploma para o praticante desportivo profissional.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693579": {
+   "fragment_id": "58889874",
+   "type": 11,
+   "heading": "Artigo 35.º — Deveres da entidade formadora",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 35.º — Deveres da entidade formadora\n\n1 - Constituem, em especial, deveres da entidade formadora:\n\na) Proporcionar ao formando os conhecimentos necessários à prática da modalidade desportiva;\n\nb) Não exigir dos formandos tarefas que não se compreendam no objecto do contrato;\n\nc) Respeitar as condições de higiene e segurança e de ambiente compatíveis com a idade do formando;\n\nd) Informar regularmente o representante legal do formando sobre o desenvolvimento do processo de formação e, bem assim, prestar os esclarecimentos que lhes forem por aquele solicitados;\n\ne) Proporcionar ao formando a frequência e a prossecução dos seus estudos.\n\n2 - A entidade formadora é responsável pela realização de um exame médico anual, se periodicidade mais curta não for exigida pelo desenvolvimento do processo de formação, por forma a assegurar que das actividades desenvolvidas no âmbito da formação não resulte perigo para a saúde e para o desenvolvimento físico e psíquico do formando.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693580": {
+   "fragment_id": "58896775",
+   "type": 11,
+   "heading": "Artigo 36.º — Deveres do formando",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 36.º — Deveres do formando\n\nConstituem em especial, deveres do formando:\n\na) Ser assíduo, pontual e realizar as suas tarefas com zelo e diligência;\n\nb) Observar as instruções das pessoas encarregadas da sua formação;\n\nc) Utilizar cuidadosamente e zelar pela boa conservação dos bens materiais que lhe sejam confiados.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693581": {
+   "fragment_id": "58896776",
+   "type": 11,
+   "heading": "Artigo 37.º — Promessa de contrato de trabalho desportivo",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 37.º — Promessa de contrato de trabalho desportivo\n\n1 - Vale como promessa de contrato de trabalho desportivo o acordo pelo qual o formando se obriga a celebrar com a entidade formadora um contrato de trabalho desportivo após a cessação do contrato de formação.\n\n2 - A duração do contrato de trabalho prometido não pode exceder quatro épocas desportivas, considerando-se reduzida a essa duração em caso de estipulação de duração superior.\n\n3 - A promessa de contrato de trabalho referida no número anterior caduca caso o contrato de formação cesse antes do termo fixado.\n\n4 - O incumprimento do contrato, sem justa causa, de formação por parte do formando inibirá este de celebrar contrato de trabalho desportivo com clube diverso do clube formador até ao final do prazo pelo qual se tinha comprometido com este.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693582": {
+   "fragment_id": "58896777",
+   "type": 11,
+   "heading": "Artigo 38.º — Compensação por formação",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 38.º — Compensação por formação\n\nA celebração, pelo praticante desportivo, do primeiro contrato de trabalho como profissional com entidade empregadora distinta da entidade formadora confere a esta o direito de receber uma compensação por formação, de acordo com o disposto no artigo 18.º\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693583": {
+   "fragment_id": "58896778",
+   "type": 11,
+   "heading": "Artigo 39.º — Cessação do contrato",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 39.º — Cessação do contrato\n\n1 - À cessação do contrato de formação desportiva é aplicável, com as necessárias adaptações, o regime previsto nos artigos 26.º a 30.º do Decreto-Lei n.º 205/96, de 25 de Outubro.\n\n2 - A cessação do contrato de formação por iniciativa do clube formador depende da verificação de justa causa apurada através do competente procedimento disciplinar.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693584": {
+   "fragment_id": "58896779",
+   "type": 11,
+   "heading": "Artigo 40.º — Liberdade de contratar",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 40.º — Liberdade de contratar\n\nA federação de cada modalidade, dotada de utilidade pública desportiva, pode estabelecer, por regulamento, limites quanto à possibilidade de participação do formando em competições oficiais em representação de mais de uma entidade formadora numa mesma época desportiva.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693585": {
+   "fragment_id": "58896780",
+   "type": 11,
+   "heading": "Artigo 41.º — Norma revogatória",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "###### Artigo 41.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 305/95, de 18 de Novembro.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  },
+  "107693586": {
+   "fragment_id": "58896794",
+   "type": 1,
+   "heading": "Capítulo VII — Sanções",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19",
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "### Capítulo VII — Sanções\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "107693587": {
+   "fragment_id": "58896795",
+   "type": 11,
+   "heading": "Artigo 42.º — Contra-ordenações",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19",
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 42.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a prestação de actividade com base num contrato de trabalho desportivo por parte de menor que não satisfaça as condições referidas no n.º 1 do artigo 4.º, bem como a execução de contrato de formação desportiva por parte de menor sem os requisitos mínimos do n.º 1 do artigo 31.º\n\n2 - Constitui contra-ordenação grave a violação das alíneas a) e b) do artigo 12.º, do n.º 3 do artigo 15.º, do artigo 16.º, dos n.os 2, 3 e 4 do artigo 17.º, do n.º 2 do artigo 27.º e da alínea c) do n.º 1 e do n.º 2 do artigo 35.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 2 do artigo 4.º, dos n.os 1 e 2 do artigo 5.º e da parte final do n.º 2 do artigo 32.º\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "107693588": {
+   "fragment_id": "58896781",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+   ],
+   "markdown": "Aprovada em 30 de Abril de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 3 de Junho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 17 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 54/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14](https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694), em vigor a partir de 2017-07-19"
+  }
+ }
+}

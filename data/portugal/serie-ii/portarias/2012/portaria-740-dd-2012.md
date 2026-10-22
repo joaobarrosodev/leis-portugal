@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:2213916:por
+title: Portaria n.º 740-DD/2012
+short_title: null
+summary: Classifica como monumento de interesse público o Solar dos Donas Botto Pinto, também designado Casa de João Marçal,
+  no Largo da Praça, 34, Sebadelhe, freguesia de Sebadelhe, concelho de Vila Nova de Foz Côa, distrito da Guarda, e fixa a
+  zona especial de proteção do mesmo monumento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Secretário de Estado da Cultura
+proposing_entity: null
+official_number: 740-DD/2012
+official_date: null
+publication_date: '2012-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/2012, 1º Suplemento, Série II de 2012-12-24
+  number: '248'
+  series: II
+  supplement: 1º Suplemento
+  pages: 40536-(73) a 40536-(73)
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/12/248000001/0007300073.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2213916'
+  dre_path: /dr/detalhe/portaria/740-dd-2012-2213916
+  internal: pt:dre:2213916:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-dd-2012-2213916
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-dd-2012-2213916
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-12-24T00:00:00Z'
+integrity:
+  source_sha256: fbcc9e48c01fb1cf72a206cfb265b39299eb54ffce51dad36f0595908dba600e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-740-DD-2213916.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 740-DD/2012
+
+O Solar dos Donas Botto Pinto apresenta-se como uma casa nobre rural com soluções tradicionais dos séculos XVII e XVIII, onde a arquitetura erudita se combina com a construção vernacular.
+
+Do conjunto merece destaque a capela dedicada a Santo António, com retábulo de talha rococó de grande qualidade artística, e o salão nobre do solar, cujas paredes e teto estão integralmente cobertos por pinturas murais de cariz mitológico da segunda metade do século XVIII, constituindo um importante vestígio de património integrado que, sendo raro na região, apresenta semelhanças estilísticas com as pinturas do teto da Matriz de Vila Nova de Foz Côa.
+
+De notar o elevado grau de integridade do imóvel, onde se podem ainda encontrar os materiais e técnicas construtivas característicos da sociedade agrária oitocentista.
+
+Segundo uma tradição local, o solar está também associado ao nome de João Marçal, destacado partidário liberal da região, que desempenhou papel de relevo no contexto da Guerra Civil Portuguesa.
+
+A classificação do Solar dos Donas Botto Pinto, também designado Casa de João Marçal, reflete os seguintes critérios constantes do artigo 17.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro: o caráter matricial do bem; o seu valor estético, técnico ou material intrínseco; a sua conceção arquitetónica; o seu interesse como testemunho notável de vivências e factos históricos; a sua extensão e o que nela se reflete do ponto de vista da memória coletiva.
+
+A zona especial de proteção (ZEP) tem em consideração os percursos de aproximação ao imóvel e os enquadramentos visuais, e a sua delimitação tem em conta os limites matriciais ou físicos de fácil identificação. A sua fixação visa salvaguardar a relação do imóvel com o núcleo envolvente, constituído por edifícios filiados na tradição arquitetónica vernacular, com organização morfológica e volumétrica coerente.
+
+Foram cumpridos os procedimentos de audição dos interessados, previstos no artigo 27.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, e nos artigos 25.º e 45.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, de acordo com o disposto nos artigos 100.º e seguintes do Código do Procedimento Administrativo.
+
+Assim:
+
+Sob proposta dos serviços competentes, nos termos do disposto no artigo 15.º, no n.º 1 do artigo 18.º, no n.º 2 do artigo 28.º e no artigo 43.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, conjugado com o disposto no n.º 2 do artigo 30.º e no n.º 1 do artigo 48.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, e no uso das competências conferidas pelo n.º 11 do artigo 10.º do Decreto-Lei n.º 86 -A/2011,de 12 de julho, manda o Governo, pelo Secretário de Estado da Cultura, o seguinte:
+
+###### Artigo 1.º — Classificação
+
+É classificado como monumento de interesse público o Solar dos Donas Botto Pinto, também designado Casa de João Marçal, no Largo da Praça, 34, Sebadelhe, freguesia de Sebadelhe, concelho de Vila Nova de Foz Côa, distrito da Guarda, conforme planta de delimitação constante do anexo à presente portaria e que desta faz parte integrante.
+
+###### Artigo 2.º — Zona especial de proteção
+
+É fixada a zona especial de proteção do monumento referido no artigo anterior, conforme planta de delimitação constante do anexo à presente portaria e que desta faz parte integrante.
+
+13 de dezembro de 2012. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2012/12/248000001/0007300073.pdf))](https://files.diariodarepublica.pt/2s/2012/12/248000001/0007300073.pdf)

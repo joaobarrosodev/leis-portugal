@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:400800:por
+title: Portaria n.º 856/84
+short_title: null
+summary: Dá nova redacção ao artigo 2.º da Portaria n.º 18209, de 16 de Janeiro de 1961, alterada pela Portaria n.º 866/80,
+  de 23 de Outubro, que cria a Comissão Administrativa de Obras da Santa Casa da Misericórdia de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna, do Trabalho e Segurança Social e do Equipamento Social
+proposing_entity: null
+official_number: 856/84
+official_date: null
+publication_date: '1984-11-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 260/1984, Série I de 1984-11-09
+  number: '260'
+  series: I
+  supplement: null
+  pages: 3438 - 3438
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/11/26000/34383438.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '400800'
+  dre_path: /dr/detalhe/portaria/856-1984-400800
+  internal: pt:dre:400800:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/856-1984-400800
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/856-1984-400800
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-07-22T00:00:00Z'
+integrity:
+  source_sha256: 5edbc57602147857eee7e63228367dadab71478ef30d4cdf7bfb0682afd9ace2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-856-400800.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:420606:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 856/84
+
+de 9 de Novembro
+
+Pela [Portaria n.º 18209](https://diariodarepublica.pt/dr/detalhe/portaria/18209-1961-557851), de 16 de Janeiro de 1961, foi criada uma comissão encarregada de promover a preparação, execução, administração e fiscalização das obras levadas a efeito pela Santa Casa da Misericórdia de Lisboa.
+
+Decorridos que são mais de 20 anos, torna-se imperioso introduzir alguns reajustamentos de modo a garantirem, dessa comissão, não só uma resposta adequada e eficaz às diversas solicitações da realidade actual, mas também um acompanhamento ajustado da dinâmica e evolução da instituição que serve.
+
+Por outro lado, reveste-se de toda a conveniência precisar e simplificar as regras de aprovação e execução dos respectivos projectos, sendo certo que a Misericórdia de Lisboa se não encontra abrangida pelas disposições do [Decreto-Lei n.º 31271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31271-1941-328670), de 17 de Maio de 1941.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna, do Trabalho e Segurança Social e do Equipamento Social, o seguinte:
+
+1.º O artigo 2.º da [Portaria n.º 18209](https://diariodarepublica.pt/dr/detalhe/portaria/18209-1961-557851), de 16 de Janeiro de 1961, alterada pela [Portaria n.º 866/80](https://diariodarepublica.pt/dr/detalhe/portaria/866-1980-462669), de 23 de Outubro, passa a ter a seguinte redacção:
+
+2.º A Comissão é constituída por um presidente, com voto de qualidade, a designar pela Santa Casa da Misericórdia de Lisboa, por um vice-presidente, a indicar pelo Ministério do Equipamento Social, e por 4 vogais, 2 em representação daquela instituição, deste Ministério e da Câmara Municipal de Lisboa.
+
+2.º Consideram-se dirigidas ao Ministro do Trabalho e Segurança Social as referências feitas ao Ministro das Obras Públicas pelos artigos 5.º e 6.º da [Portaria n.º 18209](https://diariodarepublica.pt/dr/detalhe/portaria/18209-1961-557851), de 16 de Janeiro de 1961.
+
+Ministérios da Administração Interna, do Trabalho e Segurança Social e do Equipamento Social.
+
+**Assinada em 10 de Outubro de 1984.**
+
+**O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Cocheiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social. - O Ministro do Equipamento Social, João Rosado Correia.**

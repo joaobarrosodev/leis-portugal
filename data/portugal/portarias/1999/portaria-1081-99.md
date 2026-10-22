@@ -1,0 +1,198 @@
+---
+schema_version: '1.0'
+id: pt:dre:655697:por
+title: Portaria n.º 1081/99
+short_title: null
+summary: Cria uma zona de pesca reservada constituída pelo conjunto de várias massas hídricas. Revoga a Portaria n.º 747/82,
+  de 30 de Julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 1081/99
+official_date: null
+publication_date: '1999-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 291/1999, Série I-B de 1999-12-16
+  number: '291'
+  series: I
+  supplement: null
+  pages: 8971 - 8973
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/12/291b00/89718973.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1081/1999/12/16/p/dre/pt/html
+  oj: null
+  dre: '655697'
+  dre_path: /dr/detalhe/portaria/1081-1999-655697
+  internal: pt:dre:655697:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1081-1999-655697
+  metadata_url: https://data.dre.pt/eli/port/1081/1999/12/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1081-1999-655697
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-02-14T00:00:00Z'
+integrity:
+  source_sha256: 41183a3bde6469c6af6c81e6fe6d627d8834ccf6b145ad34518710c60a49b4a7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-1081-655697.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Grupo das Lagoas da Serra da Estrela
+- Serra da Estrela
+- Regulamento
+- ZONA de Pesca
+relationships:
+- type: amended_by
+  target: pt:dre:1972109:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1081/99
+
+de 16 de Dezembro
+
+Considerando a importância sócio-económica e turística que os recursos aquícolas das lagoas da serra da Estrela têm na região;
+
+Dado que o elevado número de praticantes da pesca desportiva existente na região e a intensa procura das lagoas da serra da Estrela para a prática desta actividade poderão contribuir, a médio prazo, para uma escassez destes recursos;
+
+Atendendo à necessidade de promover o ordenamento aquícola das lagoas da serra da Estrela, conciliando a protecção dos recursos aquícolas com a actividade da pesca, através da introdução de normas específicas de gestão;
+
+Atendendo a que a zona de pesca reservada do grupo das lagoas da serra da Estrela, criada pela [Portaria n.º 747/82](https://diariodarepublica.pt/dr/detalhe/portaria/747-1982-397320), de 30 de Julho, não abrange algumas massas hídricas nas quais se verifica também uma intensa actividade piscatória que urge regulamentar;
+
+Tendo em conta que, decorridos 17 anos sobre a criação da referida zona de pesca reservada, há necessidade de actualizar o seu Regulamento:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo das bases XXIX e XXXIII da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, e do artigo 5.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, o seguinte:
+
+1.º É criada uma zona de pesca reservada constituída pelo conjunto das seguintes massas hídricas:
+
+Lagoa Comprida, freguesias de Sabugueiro, Lapa dos Dinheiros e São Romão, concelho de Seia;
+
+Lagoa Escura, freguesia de Sabugueiro, concelho de Seia;
+
+Lagoa do Vale do Rossim, freguesias de Mangualde da Serra, Sabugueiro e Santa Maria, concelhos de Gouveia, Seia e Manteigas;
+
+Lagoa do Viriato, freguesia de Cortes do Meio, concelho da Covilhã;
+
+Lagoa do Covão de Ferro (ou albufeira da barragem do Padre Alfredo), freguesia de Unhais da Serra, concelho da Covilhã;
+
+Albufeira da barragem do Lagoacho, freguesia do Sabugueiro, concelho de Seia;
+
+Lagoa do Covão do Forno, freguesia de São Romão, concelho de Seia;
+
+Poços de Loriga: lagoa do Covão do Meio, lagoa da Francelha, lagoa Serrano e lagoa do Covão das Quelhas, freguesia de Loriga, concelho de Seia;
+
+Lagoa Seca, freguesia de Sabugueiro, concelho de Seia;
+
+Lagoa dos Conchos, freguesia de Sabugueiro, concelho de Seia;
+
+Lagoa Redonda, freguesia de Sabugueiro, concelho de Seia;
+
+Lagoa do Covão do Curral, freguesia de São Romão, concelho de Seia;
+
+Lagoa de Vale do Conde, freguesia de Sabugueiro, concelho de Seia;
+
+Lagoa dos Cântaros, freguesia de São Pedro, concelho de Manteigas.
+
+2.º O exercício da pesca na zona criada pelo presente diploma rege-se pelo Regulamento anexo a esta portaria e que dela faz parte integrante.
+
+3.º É revogada a [Portaria n.º 747/82](https://diariodarepublica.pt/dr/detalhe/portaria/747-1982-397320), de 30 de Julho.
+
+4.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 18 de Outubro de 1999.
+
+## ANEXO — Regulamento da Zona de Pesca Reservada das Lagoas da Serra da Estrela
+
+1 - Durante o exercício da pesca os pescadores desportivos devem fazer-se sempre acompanhar dos documentos a seguir indicados e dos demais que venham a ser exigidos por qualquer diploma legal:
+
+a) Licença de pesca desportiva válida para os concelhos da Covilhã, Gouveia, Seia ou Manteigas;
+
+b) Licença especial diária para a zona de pesca reservada das lagoas da serra da Estrela;
+
+c) Bilhete de identidade ou passaporte.
+
+2 - Os indivíduos que exerçam a pesca sem serem possuidores da necessária licença especial diária são considerados sem licença de pesca.
+
+3 - A pesca nas massas hídricas que constituem esta zona só pode ser praticada no período compreendido entre 1 de Maio e 30 de Setembro, sendo estabelecidos por edital da Direcção-Geral das Florestas, dentro do referido período, os períodos de pesca para as diferentes espécies aquícolas.
+
+4 - São definidos por edital da Direcção-Geral das Florestas, consultada a Direcção Regional de Agricultura da Beira Interior:
+
+a) As espécies aquícolas que podem ser capturadas, respectivos períodos de pesca e dimensões mínimas;
+
+b) O número máximo de exemplares de cada espécie a capturar por dia e por pescador;
+
+c) Os iscos permitidos, para além da amostra e da pluma;
+
+d) O número máximo de licenças especiais a atribuir e os respectivos preços;
+
+e) Os locais onde são emitidas as licenças especiais diárias;
+
+f) O número máximo de lotes e a distância mínima entre eles;
+
+g) As massas hídricas nas quais, para efeitos de recuperação das populações piscícolas, fica interdita a pesca.
+
+5 - Só é permitida a pesca desportiva com cana, não podendo cada aparelho ter mais de três anzóis ou, no máximo, uma fateixa com três farpas.
+
+6 - Cada pescador não pode utilizar, simultaneamente, mais de uma cana.
+
+7 - A pesca só pode ser praticada de terra ou vadeando; todavia, na lagoa Comprida pode ser autorizado o uso de barco, desde que não seja movido a motor.
+
+8 - É proibido transportar nas embarcações, reter nas margens e utilizar aparelhos de pesca diferentes dos legalmente autorizados.
+
+9 - É obrigatório o uso de desenferrador no caso da captura de exemplares com dimensões inferiores às mínimas estabelecidas.
+
+10 - Sempre que os períodos de pesca estabelecidos para esta zona não coincidam com os das demais massas hídricas para as mesmas espécies aquícolas, o transporte das espécies capturadas deverá ser acompanhado da licença especial diária que autorizou a sua captura.
+
+11 - A zona de pesca reservada das lagoas da serra da Estrela será dividida em lotes numerados e devidamente sinalizados.
+
+12 - Cada lote destina-se a um só pescador, podendo, no entanto, juntar-se no mesmo lote dois pescadores, desde que estes possuam licença especial para lotes contíguos e entre eles tenha havido prévio acordo, comunicado antecipadamente aquando da obtenção das respectivas licenças especiais.
+
+13 - Em circunstâncias especiais, nomeadamente quando se verificar uma acentuada diminuição do nível da água, a Direcção Regional de Agricultura da Beira Interior poderá suspender a venda de licenças especiais diárias para todas ou apenas algumas das massas hídricas que constituem esta zona de pesca reservada, sendo a referida suspensão previamente tornada pública através de edital.
+
+14 - Todos os pescadores que pratiquem a pesca na zona de pesca reservada das lagoas da serra da Estrela ficam obrigados a fornecer à Direcção Regional de Agricultura da Beira Interior, sempre que lhes for exigido, os elementos que aquela entidade entender necessários para efeitos de estudos estatísticos e biométricos das espécies capturadas, implicando a falta de cumprimento desta obrigação a impossibilidade de obter novas licenças especiais de pesca para esta zona durante um ano.
+
+15 - A presente zona de pesca reservada é sinalizada com tabuletas do modelo aprovado pela [Portaria n.º 22724](https://diariodarepublica.pt/dr/detalhe/portaria/22724-1967-311999), de 17 de Junho de 1967.
+
+16 - Nos casos omissos no presente Regulamento, o exercício da pesca rege-se pelo disposto no [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, com as alterações introduzidas pelo [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162), de 6 de Julho, e demais legislação aplicável.

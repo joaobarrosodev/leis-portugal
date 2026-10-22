@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177045:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-890505094",
+ "dre_path": "/dr/detalhe/portaria/748-1985-177045",
+ "source_lastmod": "2024-10-10",
+ "versions": [
+  {
+   "date": "1985-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890823132"
+   ]
+  },
+  {
+   "date": "1986-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221982:por",
+     "title": "Portaria n.º 521/86",
+     "published": "1986-09-13",
+     "dre_path": "/dr/detalhe/portaria/521-1986-221982"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "890505249",
+    "890505251",
+    "890505252",
+    "890505253",
+    "890505254",
+    "890505250",
+    "890823122",
+    "890823123"
+   ]
+  },
+  {
+   "date": "1990-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551229:por",
+     "title": "Decreto-Lei n.º 440/89",
+     "published": "1989-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/440-1989-551229"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "890823132",
+    "890823133",
+    "890823134",
+    "890823135",
+    "890823136",
+    "890823137",
+    "890823138",
+    "890823139"
+   ]
+  }
+ ],
+ "fragments": {
+  "890823132": {
+   "fragment_id": "890505095",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1990-03-27",
+   "changed_by": [],
+   "markdown": "Portaria n.º 748/85\n\nde 1 de Outubro\n\nConsiderando que há necessidade de harmonizar a legislação vigente sobre comercialização e utilização de aditivos em alimentação animal com as correspondentes disposições da CEE;\n\nConsiderando ainda que esta harmonização deve ser gradual, por forma a causar o mínimo de perturbações na normal actividade dos agentes económicos, mas sem que constitua causa potencial de levantamento de barreiras técnicas à exportação de produtos alimentares de origem animal para os países membros da CEE, entende-se ser oportuno retirar do mercado de alimentos para animais alguns dos aditivos que já não constam das directivas comunitárias aplicáveis e estabelecer que o regulamento a publicar sobre alimentos medicamentosos proíba a comercialização e utilização dos restantes aditivos que também se encontram nas mesmas condições:\n\nAssim, nos termos do n.º 4 do artigo 3.º do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo Decreto-Lei n.º 50/84, de 8 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Agricultura, sob proposta da Comissão de Alimentação Animal., aprovar o seguinte:"
+  },
+  "890505249": {
+   "fragment_id": "890505095",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 748/85\n\nde 1 de Outubro\n\nConsiderando que há necessidade de harmonizar a legislação vigente sobre comercialização e utilização de aditivos em alimentação animal com as correspondentes disposições da CEE;\n\nConsiderando ainda que esta harmonização deve ser gradual, por forma a causar o mínimo de perturbações na normal actividade dos agentes económicos, mas sem que constitua causa potencial de levantamento de barreiras técnicas à exportação de produtos alimentares de origem animal para os países membros da CEE, entende-se ser oportuno retirar do mercado de alimentos para animais alguns dos aditivos que já não constam das directivas comunitárias aplicáveis e estabelecer que o regulamento a publicar sobre alimentos medicamentosos proíba a comercialização e utilização dos restantes aditivos que também se encontram nas mesmas condições:\n\nAssim, nos termos do n.º 4 do artigo 3.º do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo Decreto-Lei n.º 50/84, de 8 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Agricultura, sob proposta da Comissão de Alimentação Animal., aprovar o seguinte:"
+  },
+  "890505251": {
+   "fragment_id": "890505097",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nOs anexos I e II do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo Decreto-Lei n.º 50/84, de 8 de Fevereiro, são substituídos pelos anexos I e II publicados em anexo à presente portaria."
+  },
+  "890505252": {
+   "fragment_id": "890505098",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nAté 1 de Janeiro de 1986 será publicado o regulamento sobre alimentos medicamentosos, o qual proibirá a utilização e comercialização das substâncias assinaladas com a letra (R) na 1.ª coluna dos quadros A - Antibióticos e B - Coccidiostáticos e outras substâncias de efeitos específicos do anexo II da presente portaria."
+  },
+  "890505253": {
+   "fragment_id": "890505099",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nO n.º 1.º desta portaria entra em vigor:\n\na) 90 dias após a data da sua publicação, no que respeita ao fabrico de pré-misturas;\n\nb) 120 dias após a data da sua publicação, no que respeita ao fabrico de alimentos compostos para animais."
+  },
+  "890505254": {
+   "fragment_id": "890505100",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nÉ revogada a Portaria n.º 814/83, de 3 de Agosto."
+  },
+  "890505250": {
+   "fragment_id": "890505096",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura.\n\nAssinada em 30 de Julho de 1985.\n\nPelo Ministro da Agricultura, Joaquim António Rosado Gusmão, Secretário de Estado da Produção Agrícola."
+  },
+  "890823122": {
+   "fragment_id": "890505101",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "1986-09-18",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+   ],
+   "markdown": "## Anexo I\n\n(ver documento original)\n\n> Nota: [1.º, Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982) altera o presente anexo, nos seguintes termos: No título «A - Antibióticos», para o aditivo E 713 «Tilosina», nas colunas «Princípio activo ou nome do produto» e «Descrição ou designação química», passem a constar, respectivamente, as seguintes indicações: «Fosfato de tilosina» e «Macrolido produzido por Streptomyces fradiae. Composição dos factores antibióticos (ver nota 1): a) tilosina C(índice 46)H(índice 77)O(índice 17)N: mínimo 80%; b) desmicosina C(índice 39)H(índice 65)O(índice 14)N; c) macrocina C(índice 45)H(índice 75)O(índice 17)N; d) relomicina C(índice 46)H(índice 79)O(índice 17)N; a) + b) + c) + d): mínimo 95%». No título «I - Oligoelementos», para o aditivo E 4 Cobre (Cu), a indicação 2 (total de Cu) que figura na coluna «Teor máximo do elemento g/100 kg de alimento completo)», referente a ovinos, seja substituída por 1,5 (total de Cu); No título «D - Coccidiostáticos e outras substâncias de efeito específico», na coluna «Idade», para os produtos «Lasalocido de sódio» e «Monensina-sódio», seja acrescentada a expressão «Até à 16.ª semana». (nota 1) Segundo o método de análise da British Pharmacopeia (Veterinary, 1985).\n\n> Nota: [Declaração - Diário da República n.º 276/1985, 1º Suplemento, Série I de 1985-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-138121) retifica o presente anexo nos seguintes termos: No título «A - Antibióticos», na coluna «Descrição ou designação química», no n.º E 713, «Tilosina», onde se lê «C(índice 45)H(índice 77)O(índice 17)» deve ler-se «C(índice 45)H(índice 77)O(índice 17)N». No título «B - Antioxidantes», na coluna «Máximo», a primeira chaveta deve abranger os n.os E 312, E 311 e E 310 e a segunda os n.os E 320, E 321 e E 324. No título «K - Aglomerantes, antiespumantes e coagulantes», na coluna «Aditivos», no n.º E 559, onde se lê «aluminocilicatos hidratados» deve ler-se «aluminossilicatos hidratados».\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+  },
+  "890823123": {
+   "fragment_id": "890505102",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "1986-09-18",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+   ],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Nota: [Declaração - Diário da República n.º 276/1985, 1º Suplemento, Série I de 1985-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-138121) retifica o presente anexo nos seguintes termos: No título «C - Emulsionantes, estabilizantes, espessantes e gelificantes», na coluna «Outras disposições», onde se lê «Todos os animais» deve ler-se «Todos os alimentos». No título «G - Factores de crescimento», no n.º 3, «Olaquindox», na coluna «Outras disposições», deve ser eliminado o traço que separa «Interdita a mistura ou administração simultânea com um antibiótico ou outro factor de crescimento» de «Substitutos de leite somente»\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+  },
+  "890823133": {
+   "fragment_id": "890505097",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1990-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+   ],
+   "markdown": "###### 1.º\n\nOs anexos I e II do Regulamento da Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo Decreto-Lei n.º 50/84, de 8 de Fevereiro, são substituídos pelos anexos I e II publicados em anexo à presente portaria.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+  },
+  "890823134": {
+   "fragment_id": "890505098",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1990-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+   ],
+   "markdown": "###### 2.º\n\nAté 1 de Janeiro de 1986 será publicado o regulamento sobre alimentos medicamentosos, o qual proibirá a utilização e comercialização das substâncias assinaladas com a letra (R) na 1.ª coluna dos quadros A - Antibióticos e B - Coccidiostáticos e outras substâncias de efeitos específicos do anexo II da presente portaria.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+  },
+  "890823135": {
+   "fragment_id": "890505099",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "1990-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+   ],
+   "markdown": "###### 3.º\n\nO n.º 1.º desta portaria entra em vigor:\n\na) 90 dias após a data da sua publicação, no que respeita ao fabrico de pré-misturas;\n\nb) 120 dias após a data da sua publicação, no que respeita ao fabrico de alimentos compostos para animais.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+  },
+  "890823136": {
+   "fragment_id": "890505100",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "1990-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+   ],
+   "markdown": "###### 4.º\n\nÉ revogada a Portaria n.º 814/83, de 3 de Agosto.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+  },
+  "890823137": {
+   "fragment_id": "890505096",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1990-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+   ],
+   "markdown": "Ministério da Agricultura.\n\nAssinada em 30 de Julho de 1985.\n\nPelo Ministro da Agricultura, Joaquim António Rosado Gusmão, Secretário de Estado da Produção Agrícola.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27"
+  },
+  "890823138": {
+   "fragment_id": "890505101",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "1990-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+   ],
+   "markdown": "## Anexo I\n\n(ver documento original)\n\n> Nota: [1.º, Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982) altera o presente anexo, nos seguintes termos: No título «A - Antibióticos», para o aditivo E 713 «Tilosina», nas colunas «Princípio activo ou nome do produto» e «Descrição ou designação química», passem a constar, respectivamente, as seguintes indicações: «Fosfato de tilosina» e «Macrolido produzido por Streptomyces fradiae. Composição dos factores antibióticos (ver nota 1): a) tilosina C(índice 46)H(índice 77)O(índice 17)N: mínimo 80%; b) desmicosina C(índice 39)H(índice 65)O(índice 14)N; c) macrocina C(índice 45)H(índice 75)O(índice 17)N; d) relomicina C(índice 46)H(índice 79)O(índice 17)N; a) + b) + c) + d): mínimo 95%». No título «I - Oligoelementos», para o aditivo E 4 Cobre (Cu), a indicação 2 (total de Cu) que figura na coluna «Teor máximo do elemento g/100 kg de alimento completo)», referente a ovinos, seja substituída por 1,5 (total de Cu); No título «D - Coccidiostáticos e outras substâncias de efeito específico», na coluna «Idade», para os produtos «Lasalocido de sódio» e «Monensina-sódio», seja acrescentada a expressão «Até à 16.ª semana». (nota 1) Segundo o método de análise da British Pharmacopeia (Veterinary, 1985).\n\n> Nota: [Declaração - Diário da República n.º 276/1985, 1º Suplemento, Série I de 1985-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-138121) retifica o presente anexo nos seguintes termos: No título «A - Antibióticos», na coluna «Descrição ou designação química», no n.º E 713, «Tilosina», onde se lê «C(índice 45)H(índice 77)O(índice 17)» deve ler-se «C(índice 45)H(índice 77)O(índice 17)N». No título «B - Antioxidantes», na coluna «Máximo», a primeira chaveta deve abranger os n.os E 312, E 311 e E 310 e a segunda os n.os E 320, E 321 e E 324. No título «K - Aglomerantes, antiespumantes e coagulantes», na coluna «Aditivos», no n.º E 559, onde se lê «aluminocilicatos hidratados» deve ler-se «aluminossilicatos hidratados».\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+  },
+  "890823139": {
+   "fragment_id": "890505102",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "1990-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27",
+    "Alterado pelo/a 2.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+   ],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Nota: [Declaração - Diário da República n.º 276/1985, 1º Suplemento, Série I de 1985-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-138121) retifica o presente anexo nos seguintes termos: No título «C - Emulsionantes, estabilizantes, espessantes e gelificantes», na coluna «Outras disposições», onde se lê «Todos os animais» deve ler-se «Todos os alimentos». No título «G - Factores de crescimento», no n.º 3, «Olaquindox», na coluna «Outras disposições», deve ser eliminado o traço que separa «Interdita a mistura ou administração simultânea com um antibiótico ou outro factor de crescimento» de «Substitutos de leite somente»\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 440/89 - Diário da República n.º 296/1989, Série I de 1989-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1989-551229), em vigor a partir de 1990-03-27\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 521/86 - Diário da República n.º 211/1986, Série I de 1986-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/521-1986-221982), em vigor a partir de 1986-09-18"
+  }
+ }
+}

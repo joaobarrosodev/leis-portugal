@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:275846:por
+title: Portaria n.º 744/92
+short_title: null
+summary: Altera o quadro de pessoal do Centro Regional de Segurança Social de Coimbra, aprovado pela Portaria n.º 289/88,
+  de 9 de Maio, na parte respeitante ao grupo de pessoal de informática
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 744/92
+official_date: null
+publication_date: '1992-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/1992, Série I-B de 1992-07-25
+  number: '170'
+  series: I
+  supplement: null
+  pages: 3488 - 3488
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/07/170b00/34883488.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/744/1992/07/25/p/dre/pt/html
+  oj: null
+  dre: '275846'
+  dre_path: /dr/detalhe/portaria/744-1992-275846
+  internal: pt:dre:275846:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-1992-275846
+  metadata_url: https://data.dre.pt/eli/port/744/1992/07/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-1992-275846
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-04-19T00:00:00Z'
+integrity:
+  source_sha256: 08b0b53b2b83b1a15d23322c9f2c4f43c3bf2f2fa65e9741467e6c8a3c5a21b5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-744-275846.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Regional de Segurança Social
+- Pessoal de Informática
+- Coimbra
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: amended_by
+  target: pt:dre:692466:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 744/92
+
+de 25 de Julho
+
+O [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, ao estabelecer o estatuto das carreiras e categorias específicas do pessoal de informática, determina a adaptação dos quadros de pessoal ao regime nele previsto, através de portaria conjunta do Ministro das Finanças e do membro do Governo respectivo.
+
+Nestes termos:
+
+Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Social, ao abrigo do disposto no artigo 26.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, o seguinte:
+
+1.º O qudaro de pessoal do Centro Regional de Segurança Social de Coimbra, aprovado pela [Portaria n.º 289/88](https://diariodarepublica.pt/dr/detalhe/portaria/289-1988-373453), de 9 de Maio, rectificada pela declaração publicada no Diário da República, 1.ª série, n.º 201 (suplemento), de 31 de Agosto de 1988, com as alterações introduzidas pela [Portaria n.º 939/90](https://diariodarepublica.pt/dr/detalhe/portaria/939-1990-555796), de 4 de Outubro, passa a ser, no que respeita ao grupo de pessoal de informática, o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+2.º No quadro de pessoal do Centro, são extintos um lugar na categoria de servente bem como um lugar na categoria de técnico superior de 1.ª classe, da carreira técnica superior, condicionado à reconversão profissional do seu titular, ao abrigo da alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.
+
+Ministérios das Finanças e do Emprego e da Segurança Social.
+
+**Assinada em 1 de Julho de 1992.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
+
+MAPA ANEXO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/170b00/34883488.pdf))](https://files.diariodarepublica.pt/1s/1992/07/170b00/34883488.pdf)

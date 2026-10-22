@@ -1,0 +1,168 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:192423:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-869913762",
+ "dre_path": "/dr/detalhe/portaria/340-2012-192423",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870009276",
+    "870009277",
+    "870009278",
+    "870009279",
+    "870009280",
+    "870009281",
+    "870009282",
+    "870009283"
+   ]
+  },
+  {
+   "date": "2017-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106667546:por",
+     "title": "Portaria n.º 126/2017",
+     "published": "2017-03-30",
+     "dre_path": "/dr/detalhe/portaria/126-2017-106667546"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "870009276",
+    "870009277",
+    "870009278",
+    "870009298",
+    "870009299",
+    "870009300",
+    "870009301",
+    "870009283",
+    "870009284"
+   ]
+  }
+ ],
+ "fragments": {
+  "870009276": {
+   "fragment_id": "869913763",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 340/2012\n\nde 25 de outubro\n\nO Programa do XIX Governo prevê a adoção de um conjunto de medidas no âmbito da política do medicamento que permitam controlar a utilização de medicamentos através do desenvolvimento de orientações terapêuticas, a adoção da prescrição por denominação comum internacional (DCI) e promover a utilização de medicamentos genéricos.\n\nAtravés da prescrição por DCI incentiva-se uma prescrição mais racional e sustentada pela evidência farmacológica e, em simultâneo, amplia-se a liberdade de escolha do utente para a promoção de poupanças na utilização de medicamentos sem afetar a acessibilidade, qualidade ou segurança na utilização de medicamentos.\n\nAs medidas implementadas, e em implementação, exigem que o sistema de saúde disponha de evidência sobre a adequação dos padrões de prescrição às normas de orientação clínica emitidas pela Direção-Geral da Saúde e a validação das exceções técnicas à prescrição por DCI.\n\nCriam-se assim Comissões de Farmácia e Terapêutica que, junto de cada administração regional de Saúde, desenvolverão atividades de avaliação de justificações técnicas, de monitorização do padrão de prescrição de medicamentos e de avaliação das condições de dispensa de medicamentos.\n\nDesta relevante atividade de monitorização esperam-se intervenções contextualizadas com a realidade de cada administração regional de Saúde, bem como um contributo nacional para a melhoria de mecanismos de prescrição e dispensa de medicamentos e para o processo evolutivo subjacente às normas de orientação clínica recentemente instituídas.\n\nForam ouvidas a Ordem dos Farmacêuticos, a Ordem dos Médicos, a Ordem dos Médicos Dentistas.\n\nAssim:\n\nAo abrigo do disposto no artigo 5.º da Lei n.º 11/2012, de 8 de março:\n\nManda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "870009277": {
+   "fragment_id": "869913764",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula os mecanismos de avaliação e controlo no âmbito da prescrição e dispensa de medicamentos, cria as Comissões de Farmácia e Terapêutica de cada Administração Regional de Saúde (CFT-ARS) e estabelece as respetivas atribuições, composição e funcionamento."
+  },
+  "870009278": {
+   "fragment_id": "869913765",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissões de Farmácia e Terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissões de Farmácia e Terapêutica\n\nSão criadas as CFT-ARS, junto de cada uma das Administrações Regionais de Saúde (ARS), a quem compete proceder ao acompanhamento regular da prescrição, dispensa e utilização de medicamentos."
+  },
+  "870009279": {
+   "fragment_id": "869913766",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - São atribuições das CFT-ARS, no âmbito da respetiva ARS:\n\na) Monitorizar a prescrição, dispensa e utilização de medicamentos;\n\nb) Avaliar a adoção das normas de orientação clínica, emitidas pela Direção-Geral da Saúde, sem prejuízo das auditorias desenvolvidas por esta Direção-Geral;\n\nc) Avaliar e pronunciar-se sobre a adequação clínica das justificações técnicas apresentadas nos termos do n.º 3 do artigo 6.º e do n.º 3 do artigo 7.º da Portaria n.º 137-A/2012, de 11 de maio;\n\nd) Notificar os órgãos de direção clínica dos Hospitais do SNS e dos Agrupamentos de Centros de Saúde, ou os médicos no exercício da prática de medicina privada em relação ao incumprimento de normas de prescrição e ou em relação a justificações técnicas consideradas desadequadas ou insuficientes;\n\ne) Notificar o INFARMED, I. P., em relação ao incumprimento das normas aplicáveis à dispensa de medicamentos;\n\nf) Emitir recomendações sobre a prescrição e utilização de medicamentos, dirigidas aos órgãos clínicos de Hospitais, dos Agrupamentos de Centros de Saúde, bem como aos demais médicos no exercício da prática de medicina privada;\n\ng) Publicar relatórios de acompanhamento e de monitorização da prescrição, dispensa e utilização de medicamentos, com periodicidade semestral, no âmbito da respetiva ARS com inclusão das atividades desenvolvidas pela comissão;\n\nh) Promover estudos e iniciativas, em articulação com o Conselho Diretivo da respetiva ARS, destinados à produção de evidência sobre a prescrição, a dispensa e a utilização de medicamentos;\n\ni) Emitir recomendações em relação aos mecanismos de prescrição, dispensa e monitorização da utilização de medicamentos.\n\n2 - Compete ainda às CFT-ARS identificar situações de eventual incumprimento das determinações legais relativas à prescrição ou dispensa de medicamentos e proceder à sua comunicação às entidades legalmente competentes para o efeito.\n\n3 - Devem os órgãos clínicos de Hospitais do SNS, dos Agrupamentos de Centros de Saúde, bem como os demais médicos no exercício da prática de medicina privada, e as farmácias reportar às CFT-ARS qualquer situação anómala relacionada com a prescrição ou dispensa de medicamentos que decorram do exercício das suas funções.\n\n4 - As CFT-ARS detêm autonomia técnico-científica na prossecução das suas atribuições, devendo os seus elementos apresentar declaração de conflito de interesses junto da Administração Regional de Saúde, de forma prévia ao início de funções."
+  },
+  "870009280": {
+   "fragment_id": "869913767",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - As CFT-ARS são constituídas por médicos e farmacêuticos, e integram um representante da Ordem dos Médicos e um representante da Ordem dos Farmacêuticos.\n\n2 - O número de elementos que compõe as CFT-ARS são no mínimo de quatro e no máximo de seis membros, conforme proposto pela respetiva ARS tendo em conta a dimensão do universo de monitorização, sendo um dos membros eleito como presidente.\n\n3 - A composição das CFT-ARS é homologada por despacho do presidente da ARS.\n\n4 - A composição de cada CFT-ARS obedece aos seguintes critérios:\n\na) Igualdade no número de médicos e de farmacêuticos;\n\nb) Diversidade de experiência profissional, nomeadamente através da inclusão de profissionais com experiência na prestação de cuidados de saúde primários, hospitalares ou cuidados continuados;\n\nc) Relevante experiência profissional, ou qualificação académica, em farmacoterapia ou farmacologia;\n\nd) Idoneidade e competência, reconhecida interpares, para o desempenho das funções.\n\n5 - Os membros de cada CFT-ARS exercem funções pelo período de três anos, renováveis por igual período e não auferem remuneração adicional pelo exercício do seu mandato mas têm direito ao abono de ajudas de custo e despesas de deslocação suportadas pelos seus respetivos locais de origem."
+  },
+  "870009281": {
+   "fragment_id": "869913768",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\n1 - Cada Administração Regional de Saúde assegura o suporte logístico necessário ao funcionamento da respetiva CFT-ARS.\n\n2 - O funcionamento das CFT-ARS está sujeito a regulamento interno aprovado pelo Conselho Diretivo da respetiva Administração Regional de Saúde.\n\n3 - As reuniões da CFT-ARS têm uma periodicidade mínima mensal, podendo ser convocada extraordinariamente pelo seu presidente ou por solicitação de metade dos seus membros.\n\n4 - As CFT-ARS podem solicitar a colaboração de entidades de saúde, públicas ou privadas, na prossecução das suas atribuições.\n\n5 - Para prossecução das suas atribuições, as ARS disponibilizam às respetivas CFT-ARS as informações relativas a prescrição e dispensa de medicamentos, designadamente em relação a:\n\na) Informação global sobre prescrição e dispensa de medicamentos na respetiva Administração Regional de Saúde;\n\nb) Informação agregada sobre os padrões de prescrição, por Agrupamento de Centros de Saúde e por Hospital;\n\nc) Informação sobre a dispensa de medicamentos;\n\nd) Justificações técnicas apresentadas nos termos do n.º 3 do artigo 6.º e n.º 3 do artigo 7.º da Portaria n.º 137-A/2012, de 11 de maio.\n\n6 - No âmbito das suas atribuições as CFT-ARS podem solicitar informações adicionais à entidade responsável pelo CCF, aos Hospitais, aos Agrupamentos de Centros de Saúde ou a prescritores individuais com detalhe de prescrição e de dispensa, para efeitos da avaliação individualizada prevista no n.º 3 do artigo 6.º da Portaria n.º 137-A/2012, de 11 de maio.\n\n7 - No âmbito da monitorização da prescrição realizada por médicos dentistas, as CFT-ARS devem solicitar a colaboração da Ordem dos Médicos Dentistas."
+  },
+  "870009282": {
+   "fragment_id": "869913769",
+   "type": 11,
+   "heading": "Artigo 6.º — Informação e dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação e dever de colaboração\n\n1 - Os relatórios e recomendações emitidos pelas CFT-ARS, previstos nas alíneas g), i) e j) do n.º 1 do artigo 3.º, são públicos e devem ser disponibilizados de forma eletrónica na página da respetiva Administração Regional de Saúde.\n\n2 - Sem prejuízo da autonomia de cada CFT-ARS, as recomendações emitidas no âmbito da alínea f) do n.º 1 do artigo 3.º são partilhadas com as restantes CFT-ARS.\n\n3 - As CFT-ARS deverão, e sem prejuízo da sua autonomia técnica, promover reuniões de concertação e partilha de boas práticas, entre si, com uma periodicidade mínima semestral.\n\n4 - Para efeitos dos números anteriores o INFARMED, I. P., disponibilizará a ferramenta eletrónica para partilha de informações entre CFT-ARS."
+  },
+  "870009283": {
+   "fragment_id": "869913770",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, devendo as CFT-ARS ora criadas entrar em funcionamento no prazo máximo de 60 dias após entrada em vigor da presente portaria."
+  },
+  "870009298": {
+   "fragment_id": "869913766",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2017-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições das CFT-ARS, no âmbito da respetiva ARS:\n\na) Elaborar, disseminar, auditar e monitorizar as Políticas de Qualificação Terapêutica (QT) para o Serviço Nacional de Saúde (SNS) na sua região, nomeadamente nas seguintes áreas:\n\ni) Monitorizar a prescrição, dispensa e utilização de medicamentos;\n\nii) Avaliar a adoção das normas de orientação clínica, emitidas pela Direção-Geral da Saúde, sem prejuízo das auditorias desenvolvidas por esta entidade;\n\niii) Avaliar e pronunciar-se sobre a adequação clínica das justificações técnico-científicas apresentadas, nos termos do n.º 3 do artigo 6.º e do n.º 3 do artigo 7.º da Portaria n.º 224/2015, de 27 de julho, alterada pela Portaria n.º 417/2015, de 4 de dezembro e pela Portaria n.º 138/2016, de 13 de maio;\n\niv) Notificar as entidades competentes - órgãos de direção clínica dos estabelecimentos hospitalares do SNS e dos agrupamentos de centros de saúde (ACES), médicos no exercício da prática de medicina privada, diretores técnicos de farmácias comunitárias, entre outros - em relação ao incumprimento das normas aplicáveis à prescrição e dispensa de medicamentos;\n\nb) Elaborar Políticas de QT locais que garantam, a par de um maior rigor, efetividade e segurança na prescrição farmacológica, a sustentabilidade da despesa por esta gerada no SNS:\n\ni) Participando na revisão e atualização do Formulário Nacional de Medicamentos (FNM) no âmbito da Comissão Nacional de Farmácia e Terapêutica (CNFT) do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED);\n\nii) Promovendo a elaboração de indicadores de prescrição, de dispensa e de utilização de medicamentos e sua monitorização no contexto das atribuições da CFT-ARS;\n\niii) Incluindo as recomendações e a monitorização de indicadores elaborados pela CFT-ARS, e sustentados na QT, na Metodologia de Contratualização com os Cuidados de Saúde Primários (CSP), estabelecimentos hospitalares e outros contextos;\n\nc) Promover a emissão de recomendações sobre a prescrição e utilização de medicamentos dirigidas aos profissionais de saúde e utentes dos diversos contextos de prestação de cuidados de saúde da Região, aos órgãos clínicos de estabelecimentos hospitalares e de ACES, bem como aos demais médicos no exercício da prática de medicina privada, nomeadamente através:\n\ni) Do desenvolvimento de ferramentas por forma a dinamizar a divulgação das recomendações emanadas, potenciando o impacto dessas recomendações no perfil de utilização de medicamentos;\n\nii) Da elaboração de programas formativos por área terapêutica específica: boletins terapêuticos (BT) direcionados aos profissionais de saúde, com indicadores de acompanhamento;\n\niii) Da promoção da literacia em saúde através da divulgação de informação dirigida aos cidadãos;\n\niv) Do desenvolvimento e implementação de uma Rede de Qualificação Terapêutica (RQT) que englobe os profissionais de saúde e os cidadãos;\n\nv) Da promoção de programas de interligação entre os estabelecimentos hospitalares, as unidades de cuidados de saúde primários e as de cuidados continuados, nomeadamente através da definição de protocolos de prescrição, de dispensa e de integração de cuidados de saúde e da adoção de modelos de articulação, designadamente recorrendo a programas de Reconciliação de Terapêutica e à prestação integrada de cuidados de saúde específicos, nos domínios de competência da CFT-ARS;\n\nd) Monitorizar e auditar a adesão à Política de QT, e, sempre que possível, avaliar os resultados em saúde, designadamente de efetividade e segurança, das terapêuticas selecionadas e das suas alternativas, nos vários contextos da prescrição de medicamentos:\n\ni) Elaborar e implementar modelos de monitorização transparentes e públicos («dashboards») baseados nos indicadores de QT definidos;\n\nii) Publicar relatórios de acompanhamento e de monitorização da prescrição, dispensa e utilização de medicamentos, com periodicidade semestral, no âmbito da respetiva ARS, com inclusão das atividades desenvolvidas pela comissão;\n\niii) Monitorizar programas integrados de articulação entre os diversos níveis e contextos de prestação de cuidados de saúde - cuidados de saúde primários, hospitalares e continuados, cuidados prestados em farmácias comunitárias e por médicos em exercício privado no domínio das competências da CFT-ARS;\n\ne) Elaborar estudos e trabalhos sobre os determinantes da prescrição e o impacto das diferentes estratégias de elaboração e disseminação da QT e promover estudos e iniciativas destinadas à produção de evidência sobre a prescrição, a dispensa e a utilização de medicamentos;\n\nf) Colaborar com o Sistema Nacional de Farmacovigilância, nos termos da legislação em vigor, nomeadamente através:\n\ni) Da promoção da articulação com os Núcleos/Unidades de Farmacovigilância e ou com os delegados de farmacovigilância, no domínio das suas competências especificas;\n\nii) Do reforço, junto dos profissionais de saúde da estrutura a que pertençam, do dever de notificar as suspeitas de reações adversas e ou de ineficácia terapêutica de que tenham conhecimento;\n\niii) Da colaboração em estudos de monitorização da segurança e efetividade de medicamentos promovidos no contexto do Sistema Nacional de Farmacovigilância.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+  },
+  "870009299": {
+   "fragment_id": "869913767",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2017-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - As CFT-ARS são constituídas por médicos e farmacêuticos, e integram um representante da Ordem dos Médicos e um representante da Ordem dos Farmacêuticos.\n\n2 - As CFT-ARS são compostas por um mínimo de seis e um máximo de oito membros, conforme proposto pela respetiva ARS, tendo em conta a dimensão populacional abrangida pela Região de Saúde, sendo o presidente designado, de entre os seus membros, pelo Conselho Diretivo dessa ARS.\n\n3 - A composição das CFT-ARS é homologada por despacho do presidente da ARS.\n\n4 - A composição de cada CFT-ARS obedece aos seguintes critérios:\n\na) Igualdade no número de médicos e de farmacêuticos;\n\nb) Diversidade de experiência profissional, nomeadamente através da inclusão de profissionais com experiência na prestação de cuidados de saúde nas várias áreas (cuidados de saúde primários, hospitalares e continuados), tendo obrigatoriamente médicos e farmacêuticos a exercer funções nos Cuidados de Saúde Primários;\n\nc) Relevante experiência profissional, ou qualificação académica, em farmacoterapia, farmacologia ou farmacoepidemiologia;\n\nd) Idoneidade e competência, reconhecida interpares, para o desempenho das funções.\n\n5 - Os membros de cada CFT-ARS exercem funções pelo período de três anos, renováveis por igual período e não auferem remuneração adicional pelo exercício do seu mandato mas têm direito ao abono de ajudas de custo e despesas de deslocação suportadas pelos seus respetivos locais de origem.\n\n6 - As CFT-ARS detêm autonomia técnico-científica na prossecução das suas atribuições.\n\n7 - Os membros da CFT-ARS, e os peritos e outros técnicos que com ela colaborem, devem apresentar declaração de conflito de interesses junto da ARS, previamente ao início de funções, de acordo com a legislação em vigor.\n\n8 - As CFT-ARS, sempre que considerem necessário, podem solicitar o apoio de outros técnicos ou peritos.\n\n9 - A CFT-ARS poderá constituir subcomissões ou grupos de trabalho para análise e elaboração de pareceres em matérias específicas no âmbito das suas competências.\n\n10 - Os pareceres das subcomissões deverão ser presentes ao plenário da CFT-ARS para análise e aprovação.\n\n11 - Os Presidentes dos Conselhos Clínicos e de Saúde dos ACES, ou os seus representantes, são membros consultores da CFT-ARS e podem constituir uma subcomissão que tem, entre outras, responsabilidade na implementação das «Redes de Racionalidade/Qualificação Terapêutica», nomeadamente promovendo a articulação e a reflexão sobre a promoção da QT.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+  },
+  "870009300": {
+   "fragment_id": "869913768",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": "2017-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+   ],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\n1 - Cada Administração Regional de Saúde (ARS) assegura o suporte logístico e os encargos com os profissionais necessários ao funcionamento da respetiva CFT-ARS.\n\n2 - O funcionamento das CFT-ARS está sujeito a regulamento interno aprovado pelo Conselho Diretivo da respetiva Administração Regional de Saúde.\n\n3 - Sem prejuízo do disposto no número seguinte, as reuniões da CFT-ARS têm uma periodicidade mínima mensal, podendo ser convocada extraordinariamente pelo seu presidente ou por solicitação de metade dos seus membros.\n\n4 - Os membros da comissão devem desenvolver, no período que medeia as reuniões, os trabalhos necessários para assegurar as competências da Comissão, devendo o Conselho Diretivo da respetiva ARS criar condições para o efeito.\n\n5 - O total de horas dedicado no conjunto pelos elementos da CFT ao exercício de funções da respetiva Comissão não deve ser inferior a 40 horas semanais, nos casos de ARS com mais de 250 000 habitantes, e não inferior 80 horas semanais, nos casos de ARS com mais de 500 000 habitantes.\n\n6 - As CFT-ARS podem solicitar a colaboração de entidades de saúde, públicas ou privadas, na prossecução das suas atribuições.\n\n7 - Para prossecução das suas atribuições, as ARS disponibilizam às respetivas CFT-ARS as informações relativas à prescrição e dispensa de medicamentos, designadamente em relação a:\n\na) Informação global sobre prescrição e dispensa de medicamentos na respetiva Região de Saúde;\n\nb) Informação sobre os padrões de prescrição, por ACES e por estabelecimento hospitalar;\n\nc) Informação sobre a dispensa de medicamentos;\n\nd) Informação sobre indicadores de prescrição quantitativos e qualitativos, incluindo os que se referem aos dados de produção e a parâmetros de qualidade clínica;\n\ne) Justificações técnico-científicas apresentadas nos termos do n.º 3 do artigo 6.º e do n.º 3 do artigo 7.º da Portaria n.º 224/2015, de 27 de julho, alterada pela Portaria n.º 417/2015, de 4 de dezembro e pela Portaria n.º 138/2016, de 13 de maio.\n\n8 - No âmbito das suas atribuições, as CFT-ARS podem solicitar informações adicionais, com detalhe de prescrição e de dispensa, à entidade responsável pelo Centro de Conferência de Faturas (CCF), ao INFARMED, aos estabelecimentos hospitalares, aos ACES ou a prescritores individuais para efeitos da avaliação prevista no n.º 3 do artigo 6.º da Portaria n.º 224/2015, de 27 de julho, alterada pela Portaria n.º 417/2015, de 4 de dezembro, e pela Portaria n.º 138/2016, de 13 de maio, bem como o acesso desde que autorizado pela Comissão Nacional de Proteção de Dados, nos termos do disposto na Lei de Proteção de Dados Pessoais, aos dados regionais das bases de dados nacionais existentes por patologias.\n\n9 - No âmbito da monitorização da prescrição realizada por médicos dentistas, as CFT-ARS devem solicitar a colaboração da Ordem dos Médicos Dentistas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+  },
+  "870009301": {
+   "fragment_id": "869913769",
+   "type": 11,
+   "heading": "Artigo 6.º — Informação e dever de colaboração",
+   "in_force_from": "2017-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+   ],
+   "markdown": "###### Artigo 6.º — Informação e dever de colaboração\n\n1 - Os relatórios e recomendações emitidos pelas CFT-ARS, previstos nas alíneas b), c) e d) do artigo 3.º, são públicos e devem ser disponibilizados de forma eletrónica na página da respetiva ARS.\n\n2 - Sem prejuízo da autonomia de cada CFT-ARS, as recomendações emitidas no âmbito da alínea f) do artigo 3.º são partilhadas com as restantes CFT-ARS.\n\n3 - As CFT-ARS deverão, e sem prejuízo da sua autonomia técnica, promover reuniões de concertação e partilha de boas práticas, entre si, com uma periodicidade mínima semestral.\n\n4 - Os órgãos clínicos de estabelecimentos hospitalares do SNS, dos ACES, bem como os demais médicos, no exercício da prática de medicina privada, e as farmácias comunitárias devem reportar às CFT-ARS qualquer situação anómala relacionada com a prescrição ou dispensa de medicamentos que verifiquem no exercício das suas funções.\n\n5 - As CFT-ARS devem colaborar com o INFARMED na CNFT, participando com dois representantes, um médico e um farmacêutico.\n\n6 - As CFT-ARS deverão colaborar nas atividades desenvolvidas pelo Grupo da Qualificação Terapêutica do Ministério da Saúde.\n\n7 - Sem prejuízo do disposto nos números anteriores através de despacho do membro de governo responsável pela área da Saúde poderá ser definido um modelo de articulação e partilha de informação entre as várias instituições do Ministério da Saúde as CFT-ARS e a CNFT.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2017 - Diário da República n.º 64/2017, Série I de 2017-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/126-2017-106667546), em vigor a partir de 2017-03-31"
+  },
+  "870009284": {
+   "fragment_id": "869913771",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 11 de outubro de 2012."
+  }
+ }
+}

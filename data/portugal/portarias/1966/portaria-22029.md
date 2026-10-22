@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:471562:por
+title: Portaria n.º 22029
+short_title: null
+summary: Manda observar determinadas disposições decorrentes da Convenção internacional das pescarias do Nordeste do Atlântico
+  e das alterações e emendas até ao presente aprovadas pela Comissão de Pescarias do Nordeste do Atlântico
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Direcção-Geral da Marinha - Direcção das Pescarias
+proposing_entity: null
+official_number: '22029'
+official_date: null
+publication_date: '1966-06-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 130/1966, Série I de 1966-06-03
+  number: '130'
+  series: I
+  supplement: null
+  pages: 1057 - 1060
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471562'
+  dre_path: /dr/detalhe/portaria/22029-1966-471562
+  internal: pt:dre:471562:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22029-1966-471562
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22029-1966-471562
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-06-03T00:00:00Z'
+integrity:
+  source_sha256: 376a5fcd59058e2610fc7e9c69cee23dd473e7e65c9f9426da61cb80dce3d8e1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-22029-471562.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22029
+
+Considerando que a Convenção internacional das pescarias do Nordeste do Atlântico foi ratificada pelo nosso País em 13 de Dezembro de 1962 e se encontra em vigor desde 27 de Junho de 1963, e que o seu artigo 8.º estabelece para as suas Partes contratantes a obrigação de aplicarem qualquer recomendação da Comissão das Pescarias do Nordeste do Atlântico, em conformidade com o artigo 7.º da Convenção, desde que haja sido adoptada por uma maioria de dois terços, pelo menos, de delegações presentes e votantes;
+
+Considerando ainda que o artigo 13.º da referida Convenção obriga o nosso Estado a tomar nos seus territórios, relativamente aos seus nacionais e aos seus navios, as medidas apropriadas, não só para assegurar a aplicação das disposições da Convenção e das recomendações da sua Comissão, que o vinculam, mas também para punir as infracções que forem por aqueles feitas às referidas disposições e recomendações;
+
+Usando da faculdade conferida pelo artigo 7.º do [Decreto n.º 36615](https://diariodarepublica.pt/dr/detalhe/decreto/36615-1947-636696), de 24 de Novembro de 1947, e pela nova redacção dada aos seus artigos 41.º, 45.º e 46.º pelo [Decreto n.º 44423](https://diariodarepublica.pt/dr/detalhe/decreto/44423-1962-164608), de 28 de Junho de 1962:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que sejam observadas as seguintes disposições decorrentes daquela Convenção e das alterações e emendas até ao presente aprovadas pela Comissão das Pescarias do Nordeste do Atlântico:
+
+I) Salvo o disposto na norma II, na área da Convenção das pescarias do Nordeste do Atlântico nenhuma embarcação poderá ter a bordo, ou empregar na pesca, qualquer rede de arrastar, ou de cercar, ou seja do tipo que for, para ser rebocada ou alada sobre o fundo do mar, ou próximo deste, se qualquer das suas partes componentes, quando molhadas e esticadas na direcção do seu comprimento, apresentarem malhas que se não deixem atravessar fàcilmente por bitolas rectangulares com 2 mm de espessura, com as larguras indicadas no quadro seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf))](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
+
+Até 31 de Dezembro de 1968, os barcos de pesca do badejo (whiting) que registem e descarreguem na zona delimitada a norte, sul e leste, respectivamente, pelo paralelo 54º 30' N., pelo paralelo 53º 00' N. e pelo meridiano 5º 15' W. poderão ter a bordo, e utilizá-las, redes com malhagem não inferior a 60 mm.
+
+II) Pescas mistas. - Contanto que não sejam usadas para a pesca de espécies diferentes das a seguir mencionadas, os barcos das pescas da cavala, sarda, arenque, sardinha e outros clupeídeos similares, lingueirão, enguias, peixes-aranhas, camarões, lagostins, moluscos, línguas (às quais se refere o quadro em anexo), podem utilizar, e ter a bordo, redes com malhagens inferiores às referidas na norma I desta portaria.
+
+No que se refere à espécie Dicologlossa cuneata (língua), a disposição do corpo desta norma aplica-se apenas ao sector geográfico da região III, delimitado pela poligonal cujos vértices são definidos pelas seguintes coordenadas geográficas: 46º 16' N., 1º 36' W. (extremo norte da ilha de Ré, em frente de La Rochelle); 46º 5' N., 1º 44' W.; 45º 40' N., 1º 34' W.; 44º 40' N., 1º 34' W.; 44º 40' N., 1º 34' W.; 44º 40' N., ponta norte da baía de Arcachon.
+
+III) Na área da Convenção não é permitido o emprego de qualquer dispositivo susceptível de obstruir ou, por qualquer forma, diminuir a malhagem das redes indicada na norma I.
+
+O disposto não se aplica, contudo, às:
+
+a) Forras de couro, rede de fio ou de arame ou de qualquer outro material fixadas na face inferior das redes; e
+
+b) Até 31 de Dezembro de 1968, às forras aplicadas na parte superior das redes, desde que não obstruam ou diminuam substancialmente as malhas e hajam sido prèviamente aprovadas pela Direcção das Pescarias, em processo por esta organizado e despachado pelo director-geral da Marinha.
+
+IV) É proibido reter a bordo peixes com comprimentos inferiores aos referidos no quadro seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf))](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
+
+a) Os peixes com comprimentos, medidos da ponta do focinho até à extremidade posterior da barbatana caudal, inferiores aos referidos no corpo desta norma deverão ser lançados ao mar imediatamente após a sua captura, a não ser que se destinem a transplantação para outros pesqueiros;
+
+b) Se o comprimento dos peixes for inferior ao estabelecido no quadro anterior, não poderão ser vendidos, expostos ou oferecidos para venda no território português, quer estejam inteiros, quer não;
+
+c) Nas pescarias mistas às quais se refere a norma II, e apenas até 1 de Janeiro de 1970, salvo ulterior prorrogação, admite-se que 10 por cento do peso total do pescado desembarcado ou de uma fracção deste (que não poderá destinar-se ao consumo humano sob a forma de peixe) seja constituído por exemplares de dimensões inferiores às estabelecidas na norma III desta portaria;
+
+d) No Skagerrak e Kattegat, até 1 de Janeiro de 1970, os barcos com potências ao freio não superiores a 150 H. P. podem pescar badejo (whiting) por leste do alinhamento Lindesnez-Hanstholm e desembarcar esta espécie com comprimentos inferiores aos prescritos nesta disposição, desde que nas suas descargas não sejam incluídas quaisquer das restantes espécies referidas no corpo desta disposição.
+
+V) As infracções ao disposto nesta portaria cometidas a bordo dos barcos de pesca nacionais, e as que sobre a venda, exposição ou oferta do pescado para venda sejam cometidas na área da jurisdição marítima, serão julgadas pelas capitanias dos portos.
+
+Às primeiras serão aplicáveis as penas estabelecidas na alínea a) dos artigos 41.º e 45.º e no artigo 46.º do [Decreto n.º 36615](https://diariodarepublica.pt/dr/detalhe/decreto/36615-1947-636696), de 24 de Novembro de 1947, com a redacção dada pelo [Decreto n.º 44423](https://diariodarepublica.pt/dr/detalhe/decreto/44423-1962-164608), de 28 de Junho de 1962; às restantes aplicar-se-ão, além da pena da apreensão do pescado, multas até à importância máxima prevista no artigo 41.º daquele decreto.
+
+Sempre, porém, que o pescado não possa ser apreendido, os infractores pagarão, além daquelas multas, uma importância que nunca será inferior à importância por eles obtida na venda do peixe ou à que poderiam ter obtido.
+
+VI) Nos termos do artigo 35.º do [Decreto n.º 36615](https://diariodarepublica.pt/dr/detalhe/decreto/36615-1947-636696), de 24 de Novembro de 1947, todas as embarcações de pesca que utilizem redes abrangidas pelas disposições da norma I conservarão a bordo um exemplar da presente portaria, sem o que não poderão ser despachadas para a pesca pelas capitanias dos portos.
+
+VII) As disposições da presente portaria, que revoga a [Portaria n.º 16628](https://diariodarepublica.pt/dr/detalhe/portaria/16628-1958-304715), de 15 de Março de 1958, serão introduzidas nos artigos 20.º, 29.º, 41.º, 44.º, 45.º e 46.º do [Decreto n.º 36615](https://diariodarepublica.pt/dr/detalhe/decreto/36615-1947-636696), de 24 de Novembro de 1947, com a redacção do [Decreto n.º 44423](https://diariodarepublica.pt/dr/detalhe/decreto/44423-1962-164608), de 28 de Junho de 1962, sempre que sejam aplicadas à área da Convenção das pescarias do Nordeste do Atlântico.
+
+VIII) O cumprimento das disposições da Convenção das pescarias do Nordeste do Atlântico, referidas nas normas I, II, III e IV desta portaria, será também verificado pelas autoridades marítimas portuguesas nos barcos das outras Partes contratantes, quando estes se encontrarem nos portos portugueses ou em trânsito pela zona de pesca portuguesa.
+
+Os relatórios destas inspecções serão remetidos à Direcção das Pescarias, a qual providenciará para que sejam comunicados não só aos Estados em que se encontrem registados, mas também à Comissão das Pescarias do Nordeste do Atlântico.
+
+Ministério da Marinha, 3 de Junho de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf))](https://files.diariodarepublica.pt/1s/1966/06/13000/10571060.pdf)
+
+Ministério da Marinha, 3 de Junho de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

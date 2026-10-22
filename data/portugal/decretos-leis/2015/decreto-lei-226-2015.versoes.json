@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70497204:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-115553065",
+ "dre_path": "/dr/detalhe/decreto-lei/226-2015-70497204",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115556311",
+    "115556312",
+    "115556313",
+    "115556314",
+    "115556315",
+    "115556316",
+    "115556317",
+    "115556318",
+    "115556319",
+    "115556320",
+    "115556321",
+    "115556322",
+    "115556323",
+    "115556324",
+    "115556325",
+    "115556326",
+    "115556327",
+    "115556328",
+    "115556329",
+    "115556330",
+    "115556331",
+    "115556332",
+    "115556333"
+   ]
+  },
+  {
+   "date": "2018-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115552672:por",
+     "title": "Decreto-Lei n.º 46/2018",
+     "published": "2018-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/46-2018-115552672"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "115556311",
+    "115556312",
+    "115556313",
+    "115556314",
+    "115556315",
+    "115556316",
+    "115556317",
+    "115556318",
+    "115556319",
+    "115556337",
+    "115556321",
+    "115556322",
+    "115556323",
+    "115556324",
+    "115556325",
+    "115556326",
+    "115556327",
+    "115556328",
+    "115556338",
+    "115556330",
+    "115556331",
+    "115556332",
+    "115556333",
+    "115556334"
+   ]
+  }
+ ],
+ "fragments": {
+  "115556311": {
+   "fragment_id": "115553066",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 226/2015\n\nde 9 de outubro\n\nO financiamento das pequenas e médias empresas (PME) e da economia constitui um objetivo tanto estratégico como operacional do XIX Governo Constitucional. Neste contexto, foi constituída a IFD - Instituição Financeira de Desenvolvimento, S. A. (IFD), que tem por objeto a realização de operações que visem colmatar as insuficiências de mercado no financiamento de PME.\n\nA atividade da IFD prevê, entre outras, a gestão de fundos europeus estruturais e de investimento (FEEI), no âmbito do «Portugal 2020», mas também de reembolsos de programas europeus, que as respetivas autoridades de gestão considerem alocar à gestão da referida entidade, respeitando o previsto no Acordo de Parceria entre Portugal e a Comissão Europeia.\n\nEntre os FEEI a gerir pela IFD inclui-se, enquadrado no disposto no Regulamento n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, o fundo grossista a constituir pelo presente decreto-lei que está destinado a ser aplicado em instrumentos financeiros de apoio à economia, alavancados por cofinanciamento privado e ou público nacional, pese embora, pela sua natureza grossista, não esteja habilitado a colocar instrumentos financeiros junto dos investidores não qualificados ou beneficiários finais. Esses instrumentos financeiros, a desenvolver pela IFD e distribuir pelos intermediários financeiros que venham a ser selecionados nos concursos a abrir pela instituição, obterão o cofinanciamento através de veículos especiais a constituir para o efeito.\n\nTendo sido identificadas, no estudo levado a cabo pelas autoridades nacionais, falhas de mercado relativas a instrumentos de dívida e capital alheio em geral, importa constituir um fundo de fundos, a gerir pela IFD, que tem como função principal cofinanciar as soluções de financiamento das empresas, na vertente dos capitais alheios, com o objetivo de reforçar as suas capacidades competitivas.\n\nSendo um fundo de fundos, o Fundo de Dívida e Garantias, não capta recursos junto do público, contando apenas com contribuições do Estado Português e da União Europeia ou de outras entidades cuja participação nesse fundo venha a ser aceite pelo seu conselho geral, atentos os objetivos estabelecidos.\n\nForam ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115556312": {
+   "fragment_id": "115553067",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria o Fundo de Dívida e Garantias."
+  },
+  "115556313": {
+   "fragment_id": "115553068",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação\n\n1 - É criado o Fundo de Dívida e Garantias, doravante designado por FD&G.\n\n2 - O FD&G tem a natureza de fundo autónomo, dotado de autonomia administrativa e financeira, vocacionado para a criação ou reforço de instrumentos de financiamento de empresas, na vertente de capitais alheios e garantias, cogarantias e contragarantias, em particular, no que se refere às pequenas e médias empresas (PME) e aos projetos de reforço da capacitação empresarial para a internacionalização e para o desenvolvimento de novos produtos e serviços ou com inovações ao nível de processos, produtos, organização ou marketing."
+  },
+  "115556314": {
+   "fragment_id": "115553069",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos e instrumentos de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos e instrumentos de financiamento\n\n1 - O FD&G promove a competitividade e o reforço da capacitação empresarial das empresas para o desenvolvimento de bens e serviços, através da criação ou reforço de instrumentos de financiamento por capitais alheios, garantias e cogarantias e contragarantias, designadamente com os seguintes objetivos:\n\na) Reforçar o sistema de garantia mútua e promover o alargamento da sua intervenção em iniciativas de capitalização de empresas, nomeadamente em operações emergentes de emissões obrigacionistas e mezzanine financing;\n\nb) Promover a contratualização, junto do sistema financeiro, de linhas de crédito com vista a facilitar o acesso ao financiamento por parte das empresas;\n\nc) Dinamizar a utilização de novos instrumentos, nomeadamente os fundos de empréstimos e instrumentos convertíveis de capital e dívida e a titularização de créditos;\n\nd) Outros instrumentos de financiamento considerados relevantes para o desenvolvimento de políticas públicas e para colmatar falhas de mercado identificadas.\n\n2 - A prossecução dos objetivos do FD&G concretiza-se, designadamente, através dos seguintes instrumentos de financiamento:\n\na) Reforço do capital do Fundo de Contragarantia Mútuo (FCGM), criado pelo Decreto-Lei n.º 229/98, de 22 de julho, alterado pelo Decreto-Lei n.º 46/2013, de 5 de abril;\n\nb) Constituição ou o reforço do capital social de sociedades de garantia mútua (SGM);\n\nc) Constituição ou reforço de fundos de garantia para titularização de créditos;\n\nd) Constituição ou reforço de linhas de crédito especiais, nomeadamente com mecanismos de garantia e de bonificação parcial dos juros e outros encargos;\n\ne) Participação em operações de financiamento on lending e arrangement;\n\nf) Participação em veículos de empréstimos e instrumentos convertíveis de capital e dívida;\n\ng) Apoio ao alargamento da oferta e disseminação de outros instrumentos financeiros que contribuam para a melhoria do acesso das empresas ao financiamento por capitais alheios e garantias, cogarantias ou contragarantias.\n\n3 - Em cada um dos instrumentos de financiamento referidos no número anterior, podem ser inscritas dotações orçamentais especificamente orientadas para os objetivos do FD&G."
+  },
+  "115556315": {
+   "fragment_id": "115553070",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital do Fundo, subscrição, realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital do Fundo, subscrição, realização\n\ne autonomia do seu património\n\n1 - O capital inicial do FD&G é de (euro) 104 428 571,43 (cento e quatro milhões quatrocentos e vinte e oito mil quinhentos e setenta e um euros e quarenta e três cêntimos), correspondente à soma da componente Fundo Europeu de Desenvolvimento Regional e componente nacional, respetivamente, de (euro) 69 900 000,00 e (euro) 34 528 571,43, a realizar em numerário, por tranches.\n\n2 - O capital do FD&G é aumentado, por uma ou mais vezes, por deliberação dos seus participantes.\n\n3 - As subscrições dos aumentos de capital são efetuadas, preferencialmente, por entidades públicas nacionais, podendo ser aceites subscrições de outras entidades ou de outros fundos europeus, designadamente do Fundo Europeu Agrícola de Desenvolvimento Rural, sempre que tal se justifique face aos objetivos do FD&G, desde que tais subscrições mereçam a anuência prévia do conselho geral.\n\n4 - Sendo um fundo de perdas em algumas das suas componentes, o capital do FD&G pode ser reduzido em função das perdas verificadas, designadamente em fundos de dívida, linhas de garantias, cogarantias ou contragarantias, pelo pagamento de comissões de garantia ou bonificações de juros ou outros produtos promovidos com intervenção daquele fundo, ou resultantes de reduções ou anulações dos montantes dos projetos apoiados pelos programas financiadores, sendo essas reduções aprovadas pelo conselho geral, sob proposta da sociedade gestora.\n\n5 - O património do FD&G é autónomo, não respondendo pelas dívidas da entidade gestora, de outros fundos por esta geridos, dos seus participantes, ou de quaisquer outras entidades."
+  },
+  "115556316": {
+   "fragment_id": "115553071",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição da carteira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição da carteira\n\n1 - Podem integrar a carteira do FD&G os seguintes ativos:\n\na) Partes de capital do Fundo de Contragarantia Mútuo (FCGM);\n\nb) Participações representativas do capital social de empresas, designadamente as emergentes de participações no capital social das sociedades de garantia mútua;\n\nc) Créditos concedidos no âmbito das linhas de créditos contratualizadas;\n\nd) Unidades de participação de fundos provenientes de entidades nacionais ou internacionais, designadamente dinamizados pelo fundo europeu de investimento;\n\ne) Partes de capital de fundos de garantia para titularização de créditos (FGTC);\n\nf) Garantias, sob qualquer forma ou modalidade;\n\ng) Obrigações emitidas por entidades privadas;\n\nh) Liquidez, a título acessório.\n\n2 - São abrangidas pelo conceito de liquidez mencionado na alínea h) do número anterior as aplicações de tesouraria em depósitos em euros, em instituições bancárias de referência a operar em território nacional, remuneradas com uma taxa de juro ajustada à prática do mercado."
+  },
+  "115556317": {
+   "fragment_id": "115553072",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento\n\nO FD&G é financiado pelos seguintes meios financeiros:\n\na) Contribuições do Estado Português e da União Europeia, sujeitando-se as operações, neste último caso, às orientações fixadas pelas autoridades de gestão dos respetivos programas financiadores, aos regulamentos nacionais e às diretivas e regulamentos europeus, nomeadamente os relativos a auxílios de Estado e aos fundos europeus estruturais e de investimento (FEEI), incluindo os requisitos previstos nos avisos e nos contratos de financiamento, que subordinam os capitais colocados no FD&G;\n\nb) Contribuições de outras entidades cuja participação no FD&G seja aceite pelo conselho geral;\n\nc) Rendimentos provenientes da aplicação dos recursos do FD&G;\n\nd) Reembolsos decorrentes das participações realizadas pelo FD&G nos diversos instrumentos financeiros;\n\ne) Empréstimos contraídos junto de instituições nacionais ou internacionais;\n\nf) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos."
+  },
+  "115556318": {
+   "fragment_id": "115553073",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos do FD&G:\n\na) O conselho geral;\n\nb) A sociedade gestora."
+  },
+  "115556319": {
+   "fragment_id": "115553074",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho geral\n\n1 - A estrutura de gestão do FD&G integra um conselho geral com a seguinte composição:\n\na) Os presidentes das comissões diretivas das autoridades de gestão representantes dos programas financiadores, salvo se outra pessoa singular vier a ser indicada por estas entidades para a sua representação, sendo que um deles preside, em regime de rotação, tendo o presidente designado voto de qualidade;\n\nb) Um representante de cada uma das outras entidades participantes no FD&G;\n\nc) O presidente do conselho de administração e o presidente da comissão executiva da sociedade gestora.\n\n2 - Podem, ainda, integrar o conselho geral representantes dos membros do Governo responsáveis pelas áreas das finanças, da economia e do desenvolvimento regional ou outros que venham, direta ou indiretamente, a participar no FD&G, bem como representantes de organismos e agências públicas responsáveis pela implementação de políticas públicas que venham a ser indicados pelos referidos membros do Governo.\n\n3 - O mandato dos membros do conselho geral tem a duração de três anos e é renovável por iguais períodos.\n\n4 - Os membros do conselho geral não recebem qualquer remuneração ou abono pelo exercício das suas funções.\n\n5 - Após o fim da vigência dos programas financiadores do «Portugal 2020», o presidente é designado por deliberação do conselho geral.\n\n6 - O conselho geral reúne, ordinariamente, até 15 de julho de cada ano, para aprovação das contas finais e relatório de atividades, e até 31 de dezembro de cada ano, para aprovação dos planos de atividade e orçamentos anuais, sem prejuízo de reunir, extraordinariamente, através de convocação do seu presidente, por sua própria iniciativa ou a pedido de qualquer membro.\n\n7 - Compete ao conselho geral:\n\na) Aprovar, sob proposta da sociedade gestora, as linhas estratégicas do FD&G, a sua política de investimento e a distribuição de recursos entre as diversas políticas e instrumentos de financiamento;\n\nb) Aprovar, sob proposta da sociedade gestora, os planos de atividades, os planos financeiros e os orçamentos anuais, bem como as contas e os relatórios de execução;\n\nc) Aprovar os relatórios e contas da atividade do FD&G;\n\nd) Deliberar sobre aumentos e reduções do capital do FD&G, sob proposta da sociedade gestora;\n\ne) Deliberar sobre a proposta de remuneração da sociedade gestora, abstendo-se os representantes desta de votar as propostas, a apresentar aos membros do Governo responsáveis pelas áreas das finanças, da economia e do desenvolvimento regional, nos termos previstos no artigo 11.º;\n\nf) Deliberar sobre propostas de regulamentos relativos à atividade do FD&G, sob proposta da sociedade gestora;\n\ng) Aprovar operações em que a sociedade gestora intervenha como beneficiária;\n\nh) Decidir sobre as participações do FD&G superiores a (euro) 25 000 000,00 (vinte e cinco milhões de euros);\n\ni) Designar o presidente do conselho geral, nos termos previstos na alínea a) do n.º 1;\n\nj) Designar o revisor oficial de contas (ROC), sob proposta da sociedade gestora;\n\nk) Designar, sob proposta da sociedade gestora, os auditores externos."
+  },
+  "115556320": {
+   "fragment_id": "115556375",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências da sociedade gestora\n\n1 - A sociedade gestora é a representante legal do FD&G.\n\n2 - Compete à sociedade gestora exercer todos os direitos relacionados com os bens do FD&G e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Cumprir e executar as deliberações do conselho geral;\n\nb) Elaborar o plano de atividades, os planos financeiros e os orçamentos anuais, bem como as contas e os relatórios de execução;\n\nc) Elaborar propostas com as linhas estratégicas do FD&G e a distribuição de recursos entre as diversas políticas e instrumentos, com vista à sua aprovação pelo conselho geral;\n\nd) Elaborar as propostas de regulamentos que se revelem necessários ao regular funcionamento do FD&G e que assegurem o cumprimento das regras exigidas pelas políticas públicas que asseguram a origem dos seus capitais, com vista à sua aprovação pelo conselho geral;\n\ne) Outorgar nos contratos em que o FD&G seja parte;\n\nf) Aprovar as operações que se enquadrem nos objetivos do FD&G e que não sejam da competência do conselho geral;\n\ng) Preparar a proposta de decisão e fornecer todos os elementos necessários para que o conselho geral se possa pronunciar sobre as operações cuja aprovação seja da competência deste órgão;\n\nh) Adquirir bens para o FD&G, exercer os respetivos direitos e alienar ou onerar os bens que integram o seu património, bem como assegurar o pontual cumprimento das suas obrigações;\n\ni) Aplicar os recursos de tesouraria disponíveis do FD&G, de acordo com critérios de diligência e racionalidade;\n\nj) Manter em ordem a documentação e contabilidade do FD&G, de modo a assegurar o registo das operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento, bem como assegurar a respetiva segregação por programa financiador, origem de fundos e instrumento financeiro implementado;\n\nl) Assegurar o acompanhamento da execução dos projetos que sejam objeto de financiamento pelo FD&G;\n\nm) Prestar aos participantes e financiadores todas as informações sobre a execução da estratégia de investimentos e sobre as operações realizadas e a realizar, bem como sobre a evolução das contas do FD&G;\n\nn) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\no) Elaborar os relatórios e contas da atividade do FD&G;\n\np) Remeter à Inspeção-Geral de Finanças (IGF) os relatórios e contas da atividade do FD&G, até 31 de maio de cada ano, acompanhadas do relatório do ROC;\n\nq) Submeter ao conselho geral, até 30 de junho de cada ano, os relatórios e contas da atividade do FD&G acompanhados do parecer da IGF e do relatório do ROC;\n\nr) Apresentar aos membros do Governo responsáveis pelas áreas das finanças, da economia e do desenvolvimento regional os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da data da sua aprovação;\n\ns) Garantir, para efeitos de acompanhamento, monitorização, controle e avaliação, a existência de um sistema de informação que permita aos programas financiadores terem acesso à informação sobre as operações bem como incluir recolha de informação sobre indicadores, resultados e metas, assegurando o respeito pelas questões de sigilo e segregação de funções na gestão do FD&G."
+  },
+  "115556321": {
+   "fragment_id": "115556376",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Designação da sociedade gestora\n\nÉ designada como sociedade gestora do FD&G a IFD - Instituição Financeira de Desenvolvimento, S. A., na qualidade de instituição financeira detida exclusivamente por capitais públicos com capacidade legal para gerir fundos, que não investe diretamente no mercado de capital de risco ou de crédito."
+  },
+  "115556322": {
+   "fragment_id": "115556377",
+   "type": 11,
+   "heading": "Artigo 11.º — Remuneração da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remuneração da sociedade gestora\n\nA sociedade gestora, pelo exercício das suas funções, pode cobrar despesas, integrando estas os custos e as taxas de gestão, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da economia e do desenvolvimento regional, sob proposta do conselho geral."
+  },
+  "115556323": {
+   "fragment_id": "115556378",
+   "type": 11,
+   "heading": "Artigo 12.º — Plano de atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Plano de atividades\n\nA sociedade gestora do FD&G elabora planos de atividades, cujas metas e resultados devem estar alinhados com os indicadores previstos nos programas financiadores, se aplicável, de periodicidade anual, que incluem:\n\na) A estratégia de investimento e uma descrição da política de investimento;\n\nb) O orçamento operacional;\n\nc) As disposições em matéria de profissionalismo, competência e independência da gestão;\n\nd) A justificação e utilização prevista da contribuição dos programas financiadores;\n\ne) O efeito de alavancagem esperado;\n\nf) O plano de implementação de ações de divulgação, sensibilização e publicitação das operações financiadas;\n\ng) O plano de auditorias e verificações externas, sempre que aplicável."
+  },
+  "115556324": {
+   "fragment_id": "115556379",
+   "type": 11,
+   "heading": "Artigo 13.º — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revisor oficial de contas\n\n1 - O FD&G tem as suas contas certificadas por um ROC, designado pelo conselho geral.\n\n2 - As despesas relativas ao ROC são suportadas pelo FD&G."
+  },
+  "115556325": {
+   "fragment_id": "115556380",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistema de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sistema de informação\n\nA sociedade gestora do FD&G deve assegurar a existência de um sistema de informação que permita, a qualquer momento, conhecer todas as aplicações em instrumentos financeiros de garantias, cogarantias ou contragarantias, bem como participações em veículos, até ao nível das empresas beneficiárias, e que permita prestar informação aos seus financiadores e participantes, incluindo as aplicações sectoriais, regionais por prioridade de investimento e níveis de emprego."
+  },
+  "115556326": {
+   "fragment_id": "115556381",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicidade\n\nA sociedade gestora do FD&G deve assegurar a divulgação e promoção dos instrumentos financeiros e dos apoios financiados pelos FEEI, que permitam que as empresas apoiadas, direta ou indiretamente, e o público em geral, conheçam a origem do respetivo apoio."
+  },
+  "115556327": {
+   "fragment_id": "115556382",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - A fiscalização do FD&G, para além das funções exercidas pelo ROC, é exercida pela IGF, que vela pelo cumprimento das leis e regulamentos aplicáveis àquele fundo e emite parecer sobre as suas contas anuais.\n\n2 - Como suporte à atividade de fiscalização, a sociedade gestora solicita a intervenção de auditores externos no processo de apreciação das contas anuais."
+  },
+  "115556328": {
+   "fragment_id": "115556383",
+   "type": 11,
+   "heading": "Artigo 17.º — Períodos de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Períodos de exercício\n\nO período de exercício do FD&G corresponde ao ano civil."
+  },
+  "115556329": {
+   "fragment_id": "115556384",
+   "type": 11,
+   "heading": "Artigo 18.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Plano de contas\n\nO plano de contas do FD&G é organizado de modo a permitir registar as operações realizadas e a identificar a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador e por instrumentos financeiros implementados."
+  },
+  "115556330": {
+   "fragment_id": "115556385",
+   "type": 11,
+   "heading": "Artigo 19.º — Aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Aplicação de resultados\n\nOs lucros líquidos apurados pelo FD&G são nele totalmente reinvestidos e destinam-se:\n\na) Até ao encerramento dos programas financiadores, após aprovação das contas do FD&G e proposta de aplicação dos resultados pelo conselho geral, a serem utilizados para o mesmo fim, em conformidade com os objetivos e segundo as regras dos programas financiadores;\n\nb) Após o encerramento dos programas financiadores, a serem utilizados para o que vier a ser deliberado pela Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020) quanto à aplicação e gestão desses fundos."
+  },
+  "115556331": {
+   "fragment_id": "115556386",
+   "type": 11,
+   "heading": "Artigo 20.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção\n\nSem prejuízo do disposto nos normativos europeus aplicáveis, em caso de extinção do FD&G, o produto da sua liquidação reverte:\n\na) Até ao encerramento dos programas financiadores, para o orçamento destes ou, através de deliberações das autoridades de gestão, para reutilizações para o mesmo fim, em conformidade com os objetivos e segundo as regras dos programas financiadores;\n\nb) Após o encerramento dos programas financiadores, para o fim que for deliberado pela CIC Portugal 2020 quanto à aplicação e gestão desses fundos;\n\nc) Em último caso, para as instituições participantes para prosseguimento de políticas de apoio à capitalização de empresas, na proporção das respetivas participações, qualquer que seja a natureza destas."
+  },
+  "115556332": {
+   "fragment_id": "115556387",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\n1 - O conselho geral deve reunir para aprovar o regulamento de gestão do FD&G, proposto pela sociedade gestora, no prazo de cinco dias, a contar da data da entrada em vigor do presente decreto-lei.\n\n2 - Para o primeiro exercício de atividade, que corresponde ao ano civil da entrada em vigor do presente decreto-lei, a sociedade gestora e o conselho geral ficam dispensados, respetivamente, da elaboração e aprovação do plano de atividades, do plano financeiro e do orçamento do FD&G.\n\n3 - A sociedade gestora fica igualmente dispensada, nos termos previstos no número anterior, de proceder à elaboração das propostas com as linhas estratégicas do FD&G e à distribuição de recursos entre as diversas políticas e instrumentos de financiamento."
+  },
+  "115556333": {
+   "fragment_id": "115556388",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115556337": {
+   "fragment_id": "115556375",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da sociedade gestora",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Competências da sociedade gestora\n\n1 - A sociedade gestora é a representante legal do FD&G.\n\n2 - Compete à sociedade gestora exercer todos os direitos relacionados com os bens do FD&G e praticar todos os atos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Cumprir e executar as deliberações do conselho geral;\n\nb) Elaborar o plano de atividades, os planos financeiros e os orçamentos anuais, bem como as contas e os relatórios de execução;\n\nc) Elaborar propostas com as linhas estratégicas do FD&G e a distribuição de recursos entre as diversas políticas e instrumentos, com vista à sua aprovação pelo conselho geral;\n\nd) Elaborar as propostas de regulamentos que se revelem necessários ao regular funcionamento do FD&G e que assegurem o cumprimento das regras exigidas pelas políticas públicas que asseguram a origem dos seus capitais, com vista à sua aprovação pelo conselho geral;\n\ne) Outorgar nos contratos em que o FD&G seja parte;\n\nf) Aprovar as operações que se enquadrem nos objetivos do FD&G e que não sejam da competência do conselho geral;\n\ng) Preparar a proposta de decisão e fornecer todos os elementos necessários para que o conselho geral se possa pronunciar sobre as operações cuja aprovação seja da competência deste órgão;\n\nh) Utilizar os saldos do FD&G, os quais transitam automaticamente para o ano económico subsequente, desde que respeitantes a saldos de receitas de fundos europeus e destinados a aplicar em ativos financeiros;\n\ni) Autorizar as despesas, independentemente do valor, a assumir pelo FD&G na celebração de contratos exclusivamente financiados por fundos europeus e as despesas relativas à parte financiada por fundos europeus de contratos cofinanciados;\n\nj) Autorizar a assunção de encargos plurianuais com ativos financeiros desde que exclusivamente financiados por fundos europeus e na parte financiada por fundos europeus no caso de encargos cofinanciados;\n\nk) Adquirir bens para o FD&G, exercer os respetivos direitos e alienar ou onerar os bens que integram o seu património, bem como assegurar o pontual cumprimento das suas obrigações;\n\nl) Aplicar os recursos de tesouraria disponíveis do FD&G, de acordo com critérios de diligência e racionalidade;\n\nm) Manter em ordem a documentação e contabilidade do FD&G, de modo a assegurar o registo das operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento, bem como assegurar a respetiva segregação por programa financiador, origem de fundos e instrumento financeiro implementado;\n\nn) Assegurar o acompanhamento da execução dos projetos que sejam objeto de financiamento pelo FD&G;\n\no) Prestar aos participantes e financiadores todas as informações sobre a execução da estratégia de investimentos e sobre as operações realizadas e a realizar, bem como sobre a evolução das contas do FD&G;\n\np) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\nq) Elaborar os relatórios e contas da atividade do FD&G;\n\nr) Remeter à Inspeção-Geral de Finanças (IGF) os relatórios e contas da atividade do FD&G, até 31 de maio de cada ano, acompanhadas do relatório do ROC;\n\ns) Submeter ao conselho geral, até 30 de junho de cada ano, os relatórios e contas da atividade do FD&G acompanhados do parecer da IGF e do relatório do ROC;\n\nt) Apresentar aos membros do Governo responsáveis pelas áreas das finanças, da economia e do desenvolvimento regional os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da data da sua aprovação;\n\nu) Garantir, para efeitos de acompanhamento, monitorização, controle e avaliação, a existência de um sistema de informação que permita aos programas financiadores terem acesso à informação sobre as operações bem como incluir recolha de informação sobre indicadores, resultados e metas, assegurando o respeito pelas questões de sigilo e segregação de funções na gestão do FD&G.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+  },
+  "115556338": {
+   "fragment_id": "115556384",
+   "type": 11,
+   "heading": "Artigo 18.º — Plano de contas",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### Artigo 18.º — Plano de contas\n\n1 - O plano de contas do FD&G é organizado de modo a permitir registar as operações realizadas e a identificar a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador e por instrumentos financeiros implementados.\n\n2 - O FD&G não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual, que prevê o Sistema de Normalização Contabilística para as Administrações Públicas 'SNC-AP', exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+  },
+  "115556334": {
+   "fragment_id": "115556389",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de setembro de 2015. - Maria Luís Casanova Morgado Dias de Albuquerque - Maria Luís Casanova Morgado Dias de Albuquerque - Manuel Castro Almeida - António de Magalhães Pires de Lima.\n\nPromulgado em 1 de outubro de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 5 de outubro de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

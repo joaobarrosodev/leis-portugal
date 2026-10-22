@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114177787:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-114187606",
+ "dre_path": "/dr/detalhe/decreto-lei/140-2017-114177787",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114187473",
+    "114187474",
+    "114189975",
+    "114189976",
+    "114189977",
+    "114189978",
+    "114189979",
+    "114189980",
+    "114189981",
+    "114189982",
+    "114189983",
+    "114189984",
+    "114189985",
+    "114189986",
+    "114189987",
+    "114189988",
+    "114189989",
+    "114189990",
+    "114189991",
+    "114189992",
+    "114189993",
+    "114189994",
+    "114189995",
+    "114189996",
+    "114189997"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "114187473",
+    "114187474",
+    "114189975",
+    "114189976",
+    "114189977",
+    "114189978",
+    "114189979",
+    "114189980",
+    "114189981",
+    "114189982",
+    "114189983",
+    "114189984",
+    "114189985",
+    "114189986",
+    "860746008",
+    "114189988",
+    "114189989",
+    "860746009",
+    "114189991",
+    "114189992",
+    "114189993",
+    "114189994",
+    "114189995",
+    "114189996",
+    "114189997",
+    "114189998"
+   ]
+  }
+ ],
+ "fragments": {
+  "114187473": {
+   "fragment_id": "114187607",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 140/2017\n\nde 10 de novembro\n\nO Regulamento (UE) n.º 528/2012, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas, revoga a Diretiva n.º 98/8/CE, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 1998, relativa à colocação de produtos biocidas no mercado, alterando procedimentos e estruturas e criando um serviço de assistência nacional.\n\nA Diretiva n.º 98/8/CE, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 1998, e as suas modificações posteriores foram transpostas para o direito interno pelo Decreto-Lei n.º 121/2002, de 3 de maio, e pelos diversos decretos-leis que procederam à sua alteração.\n\nPorém, nos termos do disposto nos artigos 86.º, 89.º a 93.º e 95.º do Regulamento (UE) n.º 528/2012, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, a Diretiva n.º 98/8/CE, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 1998, permanece transitoriamente aplicável, pelo que importa manter em vigor o Decreto-Lei n.º 121/2002, de 3 de maio, para as situações previstas nos referidos artigos.\n\nCom efeito, ainda que o regulamento da União Europeia seja diretamente aplicável aos Estados-membros, torna-se necessário assegurar a sua execução na ordem jurídica interna.\n\nDando continuidade às medidas já adotadas ou a adotar no âmbito do Regulamento (UE) n.º 528/2012, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, inclusivamente através dos respetivos regulamentos de execução, importa, ainda, designar as autoridades competentes e as autoridades avaliadoras, clarificando as suas competências, bem como definir o quadro sancionatório aplicável às infrações, assegurando desta forma o pleno cumprimento das obrigações cometidas ao Estado Português no referido Regulamento.\n\nForam ouvidos os órgãos de governo próprio da Região Autónoma dos Açores.\n\nFoi promovida a audição dos órgãos de governo próprio da Região Autónoma da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114187474": {
+   "fragment_id": "114187608",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114189975": {
+   "fragment_id": "114187609",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei assegura a execução e garante o cumprimento, na ordem jurídica interna, das obrigações decorrentes do Regulamento (UE) n.º 528/2012, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, adiante designado por Regulamento, relativo à disponibilização no mercado e à utilização de produtos biocidas e respetiva regulamentação de execução complementar."
+  },
+  "114189976": {
+   "fragment_id": "114187610",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do presente decreto-lei, são acolhidas as definições constantes do artigo 3.º do Regulamento, e entende-se por «produto biocida de uso veterinário» o produto biocida destinado a ser aplicado nos animais, suas instalações e ambiente que os rodeia ou em atividades relacionadas com estes e em superfícies em contacto com os géneros alimentícios e alimentos para animais, bem como na água de bebida para animais."
+  },
+  "114189977": {
+   "fragment_id": "114187611",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoridades competentes e autoridades avaliadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridades competentes e autoridades avaliadoras\n\n1 - São designadas autoridades competentes (AC) responsáveis pela aplicação do Regulamento as seguintes entidades:\n\na) A Direção-Geral de Alimentação e Veterinária (DGAV), para todas as substâncias ativas biocidas de uso veterinário e produtos biocidas de uso veterinário e para as substâncias ativas e produtos biocidas de proteção da madeira, nos correspondentes tipos de produto;\n\nb) A Direção-Geral da Saúde (DGS), para todas as substâncias ativas e produtos biocidas não incluídos na alínea anterior e nos correspondentes tipos de produto.\n\n2 - A DGS desempenha, ainda, as funções de Autoridade Coordenadora Nacional (ACN).\n\n3 - A designação e competência das autoridades avaliadoras de substâncias ativas biocidas por tipo de produto previstas no Regulamento, quando Portugal haja sido designado como Estado-membro relator, são as seguintes:\n\na) A DGS, no que respeita à avaliação da identidade, métodos analíticos inerentes à identidade da substância e à saúde humana, designadamente fluidos e tecidos humanos, e da toxicologia das substâncias ativas biocidas de todos os tipos de produto, exceto para os tipos de produto da competência exclusiva da DGAV;\n\nb) A DGAV no que respeita:\n\ni) À avaliação das propriedades físico-químicas, métodos analíticos inerentes à saúde animal, designadamente fluidos e tecidos animais, da eficácia e dos riscos para os animais das substâncias ativas biocidas de todos os tipos de produto da competência da DGS;\n\nii) À avaliação da identidade, das propriedades físicas e químicas, métodos analíticos, eficácia, toxicologia, destino e comportamento no ambiente, resíduos e ecotoxicologia das substâncias ativas, de todos os tipos de produto, para uso em produtos biocidas de uso veterinário;\n\niii) À avaliação da identidade, das propriedades físicas e químicas, métodos analíticos, toxicologia, destino e comportamento no ambiente, resíduos e ecotoxicologia das substâncias ativas para uso em produtos biocidas de proteção da madeira;\n\nc) A Agência Portuguesa do Ambiente, I. P., no que respeita à avaliação dos efeitos e riscos para o ambiente e métodos analíticos relevantes para o ambiente, designadamente solo, ar, água e sedimentos, das substâncias ativas biocidas de todos os tipos de produto da competência da DGS;\n\nd) O Laboratório Nacional de Engenharia Civil, no que respeita à avaliação da eficácia das substâncias ativas para uso em produtos biocidas de proteção da madeira.\n\n4 - Às AC compete comunicar às instâncias europeias e aos restantes Estados-membros as decisões tomadas ao abrigo do presente decreto-lei, do Regulamento e sua regulamentação de execução em matéria de substâncias ativas e de produtos biocidas da sua competência e fornecer-lhes cópia, quando solicitada, dos processos relativos a cada pedido recebido ou respetiva documentação técnica.\n\n5 - Às AC compete, ainda, definir e divulgar, no âmbito do presente decreto-lei, do Regulamento e sua regulamentação de execução, a aplicação das medidas transitórias, derrogações ou procedimentos e o estabelecimento dos requisitos e prazos, nomeadamente sob a forma de despacho, guias ou outros documentos orientadores, necessários à sua aplicabilidade, através de informação divulgada em permanência nos seus sítios na Internet, sem prejuízo da utilização de outras formas de comunicação aos interessados.\n\n6 - É criado o Grupo de Avaliação de Produtos Biocidas de Uso Veterinário e de Proteção da Madeira, com competência consultiva, para a emissão de pareceres sobre questões relacionadas com biocidas de uso veterinário e produtos biocidas de proteção da madeira, designadamente sobre avaliação das respetivas substâncias ativas ou produtos, e cuja composição, organização, competências e modo de funcionamento são definidos por despacho dos membros do Governo responsáveis pelas áreas da saúde e da agricultura, florestas e desenvolvimento rural."
+  },
+  "114189978": {
+   "fragment_id": "114187612",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade coordenadora nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade coordenadora nacional\n\nNo exercício das competências referidas no n.º 2 do artigo anterior, cabe em especial à DGS, na qualidade de ACN:\n\na) Assegurar a articulação e a colaboração entre as AC referidas no n.º 1 do artigo anterior;\n\nb) Estabelecer a ligação entre os serviços e órgãos nacionais intervenientes nos procedimentos estabelecidos pelo presente decreto-lei, pelo Regulamento e sua regulamentação de execução, designadamente na elaboração dos relatórios quinquenais das ações levadas a efeito para controlo da sua observância com os requisitos fixados e as informações sobre os eventuais envenenamentos ocorridos com os produtos em causa;\n\nc) Assegurar a representação nacional a nível europeu e internacional, relativamente às matérias de coordenação abrangidas pelo presente decreto-lei, pelo Regulamento e sua regulamentação de execução;\n\nd) Assegurar a articulação e a colaboração entre as autoridades avaliadoras referidas no n.º 2 do artigo anterior, para as substâncias ativas biocidas de todos os tipos de produto da competência da DGS, designadamente na situação de Portugal enquanto Estado-membro Relator;\n\ne) Comunicar às instâncias europeias e aos restantes Estados-membros as decisões tomadas ao abrigo do presente decreto-lei, do Regulamento e sua regulamentação de execução, em matéria de substâncias ativas biocidas, e fornecer-lhes cópia, quando solicitada, dos processos relativos a cada pedido recebido ou da respetiva documentação técnica;\n\nf) Assegurar a preparação de tomada de posição a adotar relativamente à implementação do Regulamento, para efeitos da representação nacional no conselho de administração da Agência Europeia dos Químicos (ECHA)."
+  },
+  "114189979": {
+   "fragment_id": "114187613",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação nacional\n\nA representação nacional nas instâncias da ECHA é assegurada por representantes nacionais da área sectorial respetiva nos vários grupos e subgrupos que se encontram constituídos ou venham a ser constituídos, consoante a matéria objeto de análise, a definir, caso a caso, de acordo com a ordem de trabalhos de cada reunião, disponibilidade e área de intervenção do respetivo serviço."
+  },
+  "114189980": {
+   "fragment_id": "114187614",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo de produtos biocidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo de produtos biocidas\n\n1 - Os pedidos no âmbito dos procedimentos previstos no Regulamento, bem como quaisquer outras comunicações relativas aos mesmos, são dirigidos à AC respetiva, através do sistema de informação designado por Registo de Produtos Biocidas, de acordo com o artigo 71.º do Regulamento, conhecido como R4BP e gerido pela ECHA.\n\n2 - São mantidos os procedimentos existentes para colocação e uso de produtos biocidas no mercado nacional abrangidos pelo disposto no artigo 18.º"
+  },
+  "114189981": {
+   "fragment_id": "114187615",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço nacional de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço nacional de assistência\n\n1 - Compete à DGS, na qualidade de ACN, a coordenação do serviço nacional de assistência para apoio aos fabricantes, importadores, distribuidores, utilizadores a jusante e demais interessados, sobre as respetivas responsabilidades e obrigações, nos termos do n.º 2 do artigo 81.º do Regulamento.\n\n2 - As AC, avaliadoras e fiscalizadoras asseguram a cooperação e o suporte técnico para o desenvolvimento e operacionalização do serviço nacional de assistência."
+  },
+  "114189982": {
+   "fragment_id": "114187616",
+   "type": 11,
+   "heading": "Artigo 8.º — Classificação, embalagem e rotulagem de produtos biocidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação, embalagem e rotulagem de produtos biocidas\n\n1 - Os titulares de autorizações asseguram que os produtos biocidas são classificados, embalados e rotulados nos termos do resumo aprovado das características do produto biocida e do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas (Regulamento CLP) nos termos do artigo 69.º do Regulamento.\n\n2 - O rótulo dos produtos biocidas a que se refere o artigo 69.º do Regulamento é obrigatoriamente redigido em língua portuguesa sempre que o produto seja colocado no mercado nacional, nos termos da alínea b) do n.º 3 do artigo 69.º do Regulamento."
+  },
+  "114189983": {
+   "fragment_id": "114187617",
+   "type": 11,
+   "heading": "Artigo 9.º — Ficha de dados de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ficha de dados de segurança\n\n1 - A ficha de dados de segurança para as substâncias ativas e para os produtos biocidas é elaborada e disponibilizada em conformidade com o guia para a elaboração, constante do anexo ii do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição de substâncias químicas (REACH), e inclui as classificações e rotulagens de acordo com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas.\n\n2 - A ficha de dados de segurança é obrigatoriamente redigida em língua portuguesa sempre que a substância, mistura ou produto a que respeita seja colocado no mercado nacional."
+  },
+  "114189984": {
+   "fragment_id": "114187618",
+   "type": 11,
+   "heading": "Artigo 10.º — Informações relativas à resposta de emergência na área da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informações relativas à resposta de emergência na área da saúde\n\n1 - Para efeitos de tratamento médico rápido e apropriado, os responsáveis pela colocação no mercado de produtos biocidas, importadores e utilizadores a jusante que colocam misturas no mercado, transmitem ao Centro de Informação Antivenenos (CIAV) do Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), na data daquela colocação no mercado, as informações harmonizadas relativas à resposta de emergência na área da saúde e das medidas preventivas, a adotar em conformidade com o anexo viii do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, alterado pelo Regulamento (UE) n.º 2017/542, da Comissão, de 22 de março de 2017, relativo à classificação, rotulagem e embalagem de substâncias e misturas.\n\n2 - O CIAV dá todas as garantias exigidas de confidencialidade sobre as informações recebidas.\n\n3 - No prazo de 30 dias a contar da transmissão a que se refere o n.º 1, os responsáveis pela colocação de produtos biocidas no mercado enviam à AC respetiva o comprovativo daquela transmissão, bem como da sua receção pelo CIAV."
+  },
+  "114189985": {
+   "fragment_id": "114187619",
+   "type": 1,
+   "heading": "Capítulo II — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime contraordenacional"
+  },
+  "114189986": {
+   "fragment_id": "114187620",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\n1 - A fiscalização do disposto no Regulamento compete à Autoridade de Segurança Alimentar e Económica (ASAE), enquanto autoridade de fiscalização do mercado, sem prejuí-zo das competências atribuídas por lei a outras entidades.\n\n2 - A ASAE é a autoridade competente para a receção das informações referentes aos produtos biocidas que apresentem um risco grave, nos termos do artigo 88.º do Regulamento.\n\n3 - Os produtos abrangidos pelo presente decreto-lei encontram-se sujeitos às regras estabelecidas no n.º 3 do artigo 15.º e nos artigos 16.º a 29.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n4 - A adoção de uma medida de proibição, de restrição de disponibilização, de retirada ou de recolha de um produto rege-se, no que se aplica, pelo disposto no capítulo iii do Decreto-Lei n.º 23/2011, de 11 de fevereiro.\n\n5 - A ASAE é a autoridade competente para o envio das informações referentes aos produtos biocidas que apresentem um risco grave, nos termos do artigo 20.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n6 - A autoridade de fiscalização do mercado pode solicitar o auxílio de quaisquer autoridades sempre que o julguem necessário ao exercício das suas funções."
+  },
+  "114189987": {
+   "fragment_id": "114187621",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - Sem prejuízo da responsabilidade civil ou criminal por violação de obrigações legais, designadamente pela prestação de falsas declarações ou por falsificação de documentos, constitui contraordenação muito grave punível com coima de (euro) 2 000 a (euro) 3 700 ou de (euro) 6 000 a (euro) 30 000, consoante o agente seja pessoa singular ou coletiva, a prática das seguintes infrações:\n\na) A colocação no mercado de substâncias ativas em violação do disposto no n.º 2 do artigo 4.º e do n.º 2 do artigo 9.º do Regulamento;\n\nb) A disponibilização no mercado de produtos biocidas não autorizados ou não titulados por licença de comércio paralelo emitida pela AC respetiva, em violação do disposto no n.º 1 do artigo 17.º e do n.º 1 do artigo 53.º do Regulamento, respetivamente;\n\nc) A utilização de produtos biocidas autorizados ou titulados por uma licença de comércio paralelo que não respeite os termos e condições da autorização, incluindo os requisitos de utilização, ou as medidas de redução do risco na sua aplicação, em violação do n.º 5 do artigo 17.º, do n.º 2 do artigo 22.º e dos n.os 4 e 5 do artigo 53.º do Regulamento;\n\nd) A utilização de produtos biocidas autorizados pela União Europeia, que não respeite os termos e condições da autorização, em violação do n.º 5 do artigo 44.º do Regulamento;\n\ne) A realização não autorizada de experiências ou testes respeitantes à investigação e desenvolvimento científicos ou da produção, ou, caso seja autorizada, que não reúna os registos exigíveis ou não os faculte à respetiva AC, em violação do artigo 56.º do Regulamento;\n\nf) O incumprimento dos critérios de classificação, embalagem e rotulagem de produtos biocidas, de acordo com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, nos termos do n.º 1 do artigo 69.º do Regulamento;\n\ng) O incumprimento dos critérios de rotulagem de produtos biocidas nos termos do n.º 2 do artigo 69.º do Regulamento.\n\n2 - Constitui contraordenação grave punível com coima de (euro) 1 500 a (euro) 1 875 ou de (euro) 3 000 a (euro) 16 850, consoante o agente seja pessoa singular ou coletiva, a prática das seguintes infrações:\n\na) A colocação no mercado de artigos tratados, em violação do disposto nos n.os 2 a 6 do artigo 58.º do Regulamento;\n\nb) O incumprimento pelos fabricantes das obrigações constantes do n.º 2 do artigo 65.º do Regulamento;\n\nc) O incumprimento pelos titulares das autorizações das obrigações constantes do n.º 1 do artigo 68.º do Regulamento;\n\nd) A não apresentação de modelos ou projetos das embalagens, dos rótulos e dos folhetos nos termos da alínea a) do n.º 3 do artigo 69.º do Regulamento;\n\ne) A não disponibilização de rótulos de produtos biocidas em língua portuguesa nos termos da alínea b) do n.º 3 do artigo 69.º do Regulamento;\n\nf) A não disponibilização da ficha de dados de segurança da substância, mistura ou produto a que respeita, redigida em língua portuguesa, e que esteja colocado no mercado nacional em violação do disposto no artigo 70.º do Regulamento;\n\ng) A publicidade de um produto biocida em violação do disposto no artigo 72.º do Regulamento;\n\nh) A colocação no mercado de produtos biocidas em violação do disposto no artigo 89.º do Regulamento;\n\ni) A colocação no mercado de artigos tratados em violação do disposto no artigo 94.º do Regulamento;\n\nj) A colocação no mercado de um produto ou de uma substância ativa biocida que consista, contenha ou gere uma substância ativa, em violação do disposto no artigo 95.º do Regulamento, designadamente se proveniente de fornecedor do produto ou de fornecedor da substância ativa, no que respeita ao tipo de produto a que o produto biocida pertence, e que não se encontre listado na lista da ECHA criada e disponibilizada para o efeito.\n\n3 - Constitui contraordenação leve punível com coima de (euro) 1 000 a (euro) 1 250 ou de (euro) 2 500 a (euro) 10 000, consoante o agente seja pessoa singular ou coletiva, a prática das seguintes infrações:\n\na) A prestação de dados falsos ou enganosos quanto aos factos que serviram de base à concessão da autorização do produto biocida, em violação do disposto nos artigos 19.º e 20.º do Regulamento;\n\nb) A não transmissão das informações adequadas e suficientes ao CIAV do INEM, I. P., em conformidade com o disposto no artigo 9.º;\n\nc) A não comunicação, à respetiva autoridade competente, do comprovativo da transmissão das informações ao CIAV, nos termos do artigo 9.º;\n\nd) O incumprimento das disposições do Regulamento relativas às condições de utilização dos produtos biocidas, em violação do disposto no artigo 22.º do Regulamento.\n\n4 - A negligência é punível, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.\n\n5 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n6 - É aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual, às contraordenações previstas no presente decreto-lei e a tudo quanto nele se não encontre especialmente regulado.\n\n7 - É aplicável o regime de contraordenações previsto na Lei de Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro, às infrações em matéria de proteção de dados pessoais, confidencialidade e segurança no tratamento de dados."
+  },
+  "114189988": {
+   "fragment_id": "114187622",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nEm função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:\n\na) A perda de substâncias ativas, de produtos biocidas, artigos tratados ou outros objetos pertencentes ao agente;\n\nb) A suspensão da comercialização de substâncias ativas biocidas, de produtos biocidas ou de artigos tratados;\n\nc) A suspensão de autorizações, licenças e alvarás;\n\nd) A privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos."
+  },
+  "114189989": {
+   "fragment_id": "114187623",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução e decisão de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instrução e decisão de processos\n\n1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE."
+  },
+  "114189990": {
+   "fragment_id": "114187624",
+   "type": 11,
+   "heading": "Artigo 15.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Destino do produto das coimas\n\nO produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 10 % para a entidade que fiscaliza;\n\nb) 30 % para a ASAE, que faz a instrução do processo e que aplica a coima;\n\nc) 60 % para os cofres do Estado."
+  },
+  "114189991": {
+   "fragment_id": "114187625",
+   "type": 11,
+   "heading": "Artigo 16.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regiões autónomas\n\n1 - Sem prejuízo das competências legislativas próprias, as competências atribuídas pelo presente decreto-lei às autoridades e serviços administrativos são, nas regiões autónomas, exercidas pelos órgãos e serviços das respetivas administrações regionais.\n\n2 - O produto das coimas aplicadas ao abrigo do presente decreto-lei pelos órgãos e serviços das administrações regionais constitui receita própria da respetiva região."
+  },
+  "114189992": {
+   "fragment_id": "114187626",
+   "type": 11,
+   "heading": "Artigo 17.º — Controlo na fronteira externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlo na fronteira externa\n\nCompete à Autoridade Tributária e Aduaneira, nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, efetuar o controlo, na fronteira externa, dos produtos abrangidos pelo presente decreto-lei provenientes de países terceiros."
+  },
+  "114189993": {
+   "fragment_id": "114187627",
+   "type": 1,
+   "heading": "Capítulo III — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições transitórias e finais"
+  },
+  "114189994": {
+   "fragment_id": "114187628",
+   "type": 11,
+   "heading": "Artigo 18.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxas\n\n1 - Pelos serviços prestados e encargos associados previstos nos n.os 2 e 3 do artigo 80.º do Regulamento, são devidas taxas de montante e regime a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde, do ambiente e da agricultura, florestas e desenvolvimento rural.\n\n2 - As taxas são fixadas de acordo com os princípios previstos no n.º 3 do artigo 80.º do Regulamento, nomea-damente:\n\na) A um nível que assegura que as receitas resultantes da cobrança de taxas sejam, em princípio, suficientes para cobrir o custo dos serviços prestados, sem excederem o necessário para cobrir esse custo;\n\nb) Se o requerente não apresentar as informações solicitadas no prazo fixado, a taxa deve ser parcialmente reembolsada;\n\nc) O pagamento pode ser faseado, consoante os casos, com o pedido e validação do processo, e com a avaliação técnica detalhada do processo desde que sejam apresentadas as informações solicitadas no prazo fixado;\n\nd) As necessidades específicas das pequenas e médias empresas devem ser tidas em conta de forma adequada, incluindo a possibilidade de repartir os pagamentos por várias prestações e fases;\n\ne) A estrutura e o montante das taxas devem ter em conta o facto de a informação ter sido apresentada conjunta ou separadamente;\n\nf) Em circunstâncias devidamente justificadas e quando aceite pela autoridade competente, pode ser concedida a isenção total da taxa.\n\n3 - Os prazos para o pagamento de taxa são estabelecidos tendo em conta os prazos dos procedimentos previstos no Regulamento.\n\n4 - O pagamento de taxa é efetuado após solicitação específica efetuada pela AC respetiva.\n\n5 - As receitas previstas no n.º 1 destinam-se a pagar as despesas decorrentes da prestação do serviço respetivo e constituem receita própria da ACN, das AC e das autoridades avaliadoras."
+  },
+  "114189995": {
+   "fragment_id": "114187629",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma transitória\n\n1 - O artigo 38.º do Decreto-Lei n.º 121/2002, de 3 de maio, na sua redação atual, mantém-se transitoriamente em vigor, no aplicável às situações previstas nos artigos 86.º, 89.º a 93.º e 95.º do Regulamento, até à conclusão do programa de trabalho relativo à análise sistemática de todas as substâncias ativas existentes, da Comissão Europeia.\n\n2 - Para efeitos de aplicação do disposto nos artigos 89.º, 90.º e 95.º do Regulamento, vigora o Regulamento Delegado (UE) n.º 1062/2014, da Comissão, de 4 de agosto de 2014, alterado pelo Regulamento Delegado (UE) n.º 2017/698, da Comissão, de 3 de fevereiro de 2017, relativo ao programa de trabalho para o exame sistemático de todas as substâncias ativas existentes em produtos biocidas, referidas no Regulamento.\n\n3 - Para efeitos do disposto no n.º 2 do artigo 89.º do Regulamento, no que respeita às substâncias ativas de produtos biocidas de uso veterinário, as regras a aplicar durante o período transitório referido no n.º 1 são definidas por despacho do diretor-geral de Alimentação e Veterinária."
+  },
+  "114189996": {
+   "fragment_id": "114187630",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo anterior, é revogado o Decreto-Lei n.º 121/2002, de 3 de maio, na sua redação atual.\n\n2 - As remissões para o Decreto-Lei n.º 121/2002, de 3 de maio, na sua redação atual, devem entender-se como feitas para o Regulamento e para o presente decreto-lei.\n\n3 - É revogado o Decreto-Lei n.º 144/2004, de 15 de junho."
+  },
+  "114189997": {
+   "fragment_id": "114187631",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2018."
+  },
+  "860746008": {
+   "fragment_id": "114187621",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - Sem prejuízo da responsabilidade civil ou criminal por violação de obrigações legais, designadamente pela prestação de falsas declarações ou por falsificação de documentos, constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a prática das seguintes infrações:\n\na) A colocação no mercado de substâncias ativas em violação do disposto no n.º 2 do artigo 4.º e do n.º 2 do artigo 9.º do Regulamento;\n\nb) A disponibilização no mercado de produtos biocidas não autorizados ou não titulados por licença de comércio paralelo emitida pela AC respetiva, em violação do disposto no n.º 1 do artigo 17.º e do n.º 1 do artigo 53.º do Regulamento, respetivamente;\n\nc) A utilização de produtos biocidas autorizados ou titulados por uma licença de comércio paralelo que não respeite os termos e condições da autorização, incluindo os requisitos de utilização, ou as medidas de redução do risco na sua aplicação, em violação do n.º 5 do artigo 17.º, do n.º 2 do artigo 22.º e dos n.os 4 e 5 do artigo 53.º do Regulamento;\n\nd) A utilização de produtos biocidas autorizados pela União Europeia, que não respeite os termos e condições da autorização, em violação do n.º 5 do artigo 44.º do Regulamento;\n\ne) A realização não autorizada de experiências ou testes respeitantes à investigação e desenvolvimento científicos ou da produção, ou, caso seja autorizada, que não reúna os registos exigíveis ou não os faculte à respetiva AC, em violação do artigo 56.º do Regulamento;\n\nf) O incumprimento dos critérios de classificação, embalagem e rotulagem de produtos biocidas, de acordo com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, nos termos do n.º 1 do artigo 69.º do Regulamento;\n\ng) O incumprimento dos critérios de rotulagem de produtos biocidas nos termos do n.º 2 do artigo 69.º do Regulamento.\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a prática das seguintes infrações:\n\na) A colocação no mercado de artigos tratados, em violação do disposto nos n.os 2 a 6 do artigo 58.º do Regulamento;\n\nb) O incumprimento pelos fabricantes das obrigações constantes do n.º 2 do artigo 65.º do Regulamento;\n\nc) O incumprimento pelos titulares das autorizações das obrigações constantes do n.º 1 do artigo 68.º do Regulamento;\n\nd) A não apresentação de modelos ou projetos das embalagens, dos rótulos e dos folhetos nos termos da alínea a) do n.º 3 do artigo 69.º do Regulamento;\n\ne) A não disponibilização de rótulos de produtos biocidas em língua portuguesa nos termos da alínea b) do n.º 3 do artigo 69.º do Regulamento;\n\nf) A não disponibilização da ficha de dados de segurança da substância, mistura ou produto a que respeita, redigida em língua portuguesa, e que esteja colocado no mercado nacional em violação do disposto no artigo 70.º do Regulamento;\n\ng) A publicidade de um produto biocida em violação do disposto no artigo 72.º do Regulamento;\n\nh) A colocação no mercado de produtos biocidas em violação do disposto no artigo 89.º do Regulamento;\n\ni) A colocação no mercado de artigos tratados em violação do disposto no artigo 94.º do Regulamento;\n\nj) A colocação no mercado de um produto ou de uma substância ativa biocida que consista, contenha ou gere uma substância ativa, em violação do disposto no artigo 95.º do Regulamento, designadamente se proveniente de fornecedor do produto ou de fornecedor da substância ativa, no que respeita ao tipo de produto a que o produto biocida pertence, e que não se encontre listado na lista da ECHA criada e disponibilizada para o efeito.\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE, a prática das seguintes infrações:\n\na) A prestação de dados falsos ou enganosos quanto aos factos que serviram de base à concessão da autorização do produto biocida, em violação do disposto nos artigos 19.º e 20.º do Regulamento;\n\nb) A não transmissão das informações adequadas e suficientes ao CIAV do INEM, I. P., em conformidade com o disposto no artigo 9.º;\n\nc) A não comunicação, à respetiva autoridade competente, do comprovativo da transmissão das informações ao CIAV, nos termos do artigo 9.º;\n\nd) O incumprimento das disposições do Regulamento relativas às condições de utilização dos produtos biocidas, em violação do disposto no artigo 22.º do Regulamento.\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n5 - (Revogado.)\n\n6 - É aplicável às contraordenações económicas previstas no presente artigo o RJCE.\n\n7 - É aplicável o regime de contraordenações previsto na Lei de Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro, às infrações em matéria de proteção de dados pessoais, confidencialidade e segurança no tratamento de dados.\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "860746009": {
+   "fragment_id": "114187624",
+   "type": 11,
+   "heading": "Artigo 15.º — Destino do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 15.º — Destino do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "114189998": {
+   "fragment_id": "114187632",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de outubro de 2017. - Maria Manuel de Lemos Leitão Marques - Maria Teresa Gonçalves Ribeiro - Maria Manuel de Lemos Leitão Marques - Maria de Fátima de Jesus Fonseca - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.\n\nPromulgado em 30 de outubro de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 6 de novembro de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

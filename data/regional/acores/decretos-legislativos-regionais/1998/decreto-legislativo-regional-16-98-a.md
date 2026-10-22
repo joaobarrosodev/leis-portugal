@@ -1,0 +1,380 @@
+---
+schema_version: '1.0'
+id: pt:dre:223192:por
+title: Decreto Legislativo Regional n.º 16/98/A
+short_title: null
+summary: Adapta à Região Autónoma dos Açores o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos
+  Básico e Secundário
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 16/98/A
+official_date: null
+publication_date: '1998-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 257/1998, Série I-A de 1998-11-06
+  number: '257'
+  series: I
+  supplement: null
+  pages: 5952 - 5955
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/11/257a00/59525955.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/16/1998/11/06/a/dre/pt/html
+  oj: null
+  dre: '223192'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/16-1998-223192
+  internal: pt:dre:223192:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1998-223192
+  metadata_url: https://data.dre.pt/eli/declegreg/16/1998/11/06/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1998-223192
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-07-21T00:00:00Z'
+integrity:
+  source_sha256: 3c0c05d4f9320ef31bcb6502be242c1e36cc6d439279be950c1787e95558a835
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1998/DRE-1998-16-223192.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Educador de Infância
+- Pessoal Docente
+- Ensino Básico
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:538620:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/105/1997/04/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/1997/04/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/15/1993/12/14/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/15/1993/12/14/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/29-a/1996/12/03/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/29-a/1996/12/03/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/1-a/1998/01/28/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/1-a/1998/01/28/a/dre
+article_structure:
+  article_count: 25
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 16/98/A
+
+Adaptação à Região Autónoma dos Açores do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
+
+Considerando que o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, foi adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 17/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032), de 6 de Novembro;
+
+Considerando quer as alterações introduzidas no mencionado Estatuto pelos Decretos-Leis n.os [105/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1997-476740) e [1/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1998-224179), respectivamente de 29 de Abril e de 2 de Janeiro, quer a alteração orgânica do VII Governo Regional, operada pelo [Decreto Legislativo Regional n.º 29-A/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-1996-524634), de 3 de Dezembro, e pelo [Decreto Regulamentar Regional n.º 1-A/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-a-1998-476768), de 28 de Janeiro;
+
+Considerando as especificidades próprias da Região, bem como o disposto no artigo 5.º do [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e ouvidos os sindicatos do pessoal docente:
+
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região, o seguinte:
+
+###### Artigo 1.º
+
+Na aplicação à Região Autónoma dos Açores do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e alterado pelos Decretos-Leis n.os [105/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1997-476740) e [1/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1998-224179), respectivamente de 29 de Abril e de 2 Janeiro, ter-se-á em conta o disposto no artigo seguinte.
+
+###### Artigo 2.º
+
+Os artigos 1.º, 19.º, 23.º, 24.º, 39.º, 47.º, 50.º, 53.º, 58.º, 60.º, 63.º, 67.º, 71.º, 81.º, 83.º, 97.º, 98.º, 100.º, 113.º, 115.º e 116.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário entendem-se com a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O presente Estatuto será aplicado, com as necessárias adaptações, aos docentes em exercício efectivo de funções em estabelecimentos ou instituições de ensino não dependentes do sector da educação.
+
+4 - ...
+
+###### Artigo 19.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+2 - Os concursos referidos no número anterior realizam-se na Região Autónoma dos Açores no âmbito de cada quadro, para a educação pré-escolar e todos os níveis de ensino, efectuando-se ainda, para os 2.º e 3.º ciclos do ensino básico e para o ensino secundário, de acordo com os respectivos regimes e grupos de docência.
+
+3 - ...
+
+###### Artigo 23.º — [...]
+
+1 - A verificação dos requisitos físicos e psíquicos necessários ao exercício da função docente e da inexistência de toxicodependências de qualquer natureza é realizada por médicos credenciados pela Secretaria Regional da Educação e Assuntos Sociais.
+
+2 - ...
+
+3 - A decisão proferida ao abrigo do disposto no número anterior é susceptível de recurso, sem efeito suspensivo, para a junta médica da Direcção Regional da Educação no prazo de 10 dias úteis, suportando o recorrente os correspondentes encargos, nos termos gerais de direito.
+
+###### Artigo 24.º — [...]
+
+A regulamentação dos concursos previstos no presente Estatuto será objecto de decreto regulamentar regional, com a participação das organizações sindicais do pessoal docente.
+
+###### Artigo 39.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+4 - A avaliação do desempenho do pessoal docente obedece aos princípios gerais consagrados no presente Estatuto, sem prejuízo da regulamentação do respectivo processo, a definir em decreto regulamentar regional, com a participação das organizações sindicais do pessoal docente.
+
+5 - Incumbe à Direcção Regional da Educação o acompanhamento global do processo de avaliação do desempenho do pessoal docente.
+
+6 - O decreto regulamentar regional previsto no n.º 4 regulamentará ainda o processo de avaliação dos docentes que se encontrem no exercício de outras funções educativas ou nas situações previstas nas alíneas c), d) e e) do n.º 1 do artigo 64.º do presente Estatuto.
+
+7 - ...
+
+###### Artigo 47.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Da decisão da comissão de avaliação referida no número anterior cabe recurso para o Secretário Regional da Educação e Assuntos Sociais, a interpor no prazo de 30 dias.
+
+###### Artigo 50.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Das decisões sobre a avaliação extraordinária cabe recurso para o Secretário Regional da Educação e Assuntos Sociais, a interpor no prazo de 30 dias.
+
+###### Artigo 53.º — [...]
+
+1 - ...
+
+2 - Da decisão prevista no número anterior cabe recurso para o Secretário Regional da Educação e Assuntos Sociais, a interpor no prazo de 30 dias.
+
+###### Artigo 58.º — [...]
+
+1 - ...
+
+2 - Para efeitos do disposto no número anterior, podem ser criadas no quadro da Direcção Regional da Educação as carreiras técnica e técnica superior de educação.
+
+###### Artigo 60.º — [...]
+
+O exercício de outras funções educativas para as quais o docente se encontre qualificado determina o abono de remuneração superior à que pelo docente é auferida no escalão da carreira onde se encontra, nos termos a definir em decreto regulamentar regional, com a participação das organizações sindicais do pessoal docente.
+
+###### Artigo 63.º — [...]
+
+1 - Por decreto regulamentar regional serão definidos os subsídios e outros benefícios de carácter não remuneratório destinados a criar condições de fixação dos docentes em ilhas ou concelhos onde se detectem carências acentuadas de pessoal docente.
+
+2 - Os subsídios e benefícios previstos no número anterior terão em conta os diferentes níveis de ensino e grupos de docência, sendo atribuídos por períodos não superiores a cinco anos.
+
+###### Artigo 67.º — [...]
+
+1 - A requisição de docentes visa assegurar o exercício transitório de funções nas Direcções Regionais da Educação e da Educação Física e Desporto, bem como em serviços delas dependentes.
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 71.º — [...]
+
+1 - A autorização do destacamento, da requisição e da comissão de serviço de docentes é concedida por despacho do director regional da Educação, após parecer fundamentado dos órgãos de administração e gestão dos estabelecimentos de educação ou de ensino a cujo quadro pertencem.
+
+2 - A autorização prevista no número anterior, quando contrária ao parecer, deve ser devidamente fundamentada.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+###### Artigo 81.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - O docente que for considerado pela junta médica incapaz para o exercício de funções docentes mas apto para o desempenho de outras funções deverá requerer a sua aposentação ou, em alternativa, a sua reconversão ou reclassificação profissional, nos termos da lei geral, sem prejuízo do disposto no número seguinte.
+
+6 - A reconversão ou a reclassificação profissional fazem-se para as carreiras técnica ou técnica superior, consoante o docente seja ou não possuidor de uma licenciatura, e para a categoria mais baixa que contenha escalão a que corresponda remuneração igual ou imediatamente superior à que o docente detém.
+
+7 - Os educadores de infância e os professores do 1.º ciclo do ensino básico em regime de monodocência apenas podem ser totalmente dispensados do cumprimento da componente lectiva.
+
+8 - O docente dispensado da componente lectiva cumpre, na parte correspondente à dispensa, o horário normal da função pública, não podendo recusar o desempenho de tarefas não docentes, no âmbito do estabelecimento de ensino.
+
+###### Artigo 83.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O serviço docente extraordinário não pode exceder cinco horas por semana, salvo casos excepcionais autorizados pelo director regional da Educação, na sequência de pedidos devidamente fundamentados.
+
+5 - ...
+
+6 - ...
+
+###### Artigo 97.º — [...]
+
+Para verificação das condições de saúde e de trabalho do pessoal docente realizar-se-ão acções periódicas de rastreio, da competência de médicos credenciados para o efeito pela Secretaria Regional da Educação e Assuntos Sociais.
+
+###### Artigo 98.º — [...]
+
+1 - O atestado médico para efeitos de comprovação da doença, nos termos previstos na lei geral, é passado por médicos credenciados para o efeito pela Secretaria Regional da Educação e Assuntos Sociais ou, na impossibilidade justificada de a eles recorrer, nos termos do regime geral.
+
+2 - ...
+
+###### Artigo 100.º — [...]
+
+1 - Sem prejuízo das competências reconhecidas por lei à junta médica da Caixa Geral de Aposentações, a referência à junta médica prevista na lei geral e no presente diploma considera-se feita à junta médica da Direcção Regional da Educação.
+
+2 - A junta médica da Direcção Regional da Educação é a única entidade competente para avaliar da verificação da situação de risco para o nascituro, que para a docente grávida constitui fundamento para dispensa dos seus deveres funcionais no respectivo estabelecimento de educação ou de ensino.
+
+###### Artigo 113.º — [...]
+
+1 - ...
+
+2 - Os membros docentes do órgão de administração e gestão dos estabelecimentos de educação ou de ensino são disciplinarmente responsáveis perante o director regional da Educação.
+
+###### Artigo 115.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - A nomeação do instrutor do processo disciplinar é da competência da Inspecção Regional da Educação, na sequência da comunicação por parte da entidade competente para proceder à instauração do processo correspondente ou, na sua inexistência, da Direcção Regional da Educação.
+
+4 - ...
+
+5 - ...
+
+###### Artigo 116.º — [...]
+
+1 - ...
+
+2 - A aplicação das penas de multa, suspensão e inactividade é da competência do director regional da Educação.
+
+3 - A aplicação das penas expulsivas é da competência da Secretaria Regional da Educação e Assuntos Sociais.»
+
+###### Artigo 3.º
+
+As competências atribuídas no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário aos Ministros das Finanças, da Educação e da Saúde são exercidas na Região Autónoma dos Açores respectivamente pelos Secretários Regionais da Presidência para as Finanças e Planeamento e da Educação e Assuntos Sociais, conforme as competências fixadas no [Decreto Legislativo Regional n.º 29-A/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-1996-524634) e no [Decreto Regulamentar Regional n.º 1-A/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-a-1998-476768), respectivamente de 3 de Dezembro e de 28 de Janeiro.
+
+###### Artigo 4.º
+
+1 - É revogado o [Decreto Legislativo Regional n.º 17/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032), de 6 de Novembro.
+
+2 - São revogados o [Decreto Regional n.º 12/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1981-580289), de 9 de Julho, o [Decreto Regulamentar Regional n.º 48/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1981-562420), de 24 de Outubro, o [Decreto Legislativo Regional n.º 17/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1984-385001), de 4 de Maio, a Resolução n.º 120/86, de 8 de Julho, o [Decreto Regulamentar Regional n.º 40/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1986-210848), de 30 de Dezembro, e o [Decreto Legislativo Regional n.º 15/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1993-533378), de 14 de Dezembro.
+
+###### Artigo 5.º
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O disposto no n.º 2 do artigo anterior só produz efeitos com a entrada em vigor do decreto regulamentar regional referido no artigo 63.º do Estatuto da Carreira Docente dos Educadores de Infância e do s Professores dos Ensinos Básico e Secundário.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Setembro de 1998.
+
+**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+
+**Assinada em 23 de Outubro de 1998.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**

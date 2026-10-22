@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:856528526:por
+title: Portaria n.º 112-A/2024/1
+short_title: null
+summary: Cria a Rede Portuguesa de Casas de Escritores.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Cultura
+proposing_entity: null
+official_number: 112-A/2024/1
+official_date: null
+publication_date: '2024-03-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2024, Suplemento, Série I de 2024-03-21
+  number: '58'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05801/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/112-a/2024/03/21/p/dre/pt/html
+  oj: null
+  dre: '856528526'
+  dre_path: /dr/detalhe/portaria/112-a-2024-856528526
+  internal: pt:dre:856528526:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-a-2024-856528526
+  metadata_url: https://data.dre.pt/eli/port/112-a/2024/03/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-a-2024-856528526
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-03-21T00:00:00Z'
+integrity:
+  source_sha256: d9013872bdf94d06719cc770aaf96228b373b17e41d3456544f664e232beaf2a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-112-A-856528526.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Rede
+- Biblioteca
+- Criação de Serviços
+- Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Literatura Portuguesa
+- Instituto do Turismo de Portugal
+- Biblioteca Nacional de Portugal
+- Museu
+- Rede Portuguesa de Casas de Escritores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103/2012/05/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2012/05/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 112-A/2024/1
+
+de 21 de março
+
+Existem em Portugal diversas instituições que desenvolvem um importante trabalho de preservação e divulgação de autores da literatura. Trata-se de instituições de natureza e enquadramento diverso, incluindo museus, casas-museu, bibliotecas ou fundações, mas que na sua missão se dedicam à divulgação da vida e obra de autores da literatura portuguesa e, em alguns casos, à preservação dos seus espólios.
+
+Estes espaços são locais privilegiados para o conhecimento e divulgação da história da literatura portuguesa e dos seus autores, mas também da história do nosso país em geral.
+
+É necessário, por isso, promover o trabalho destas instituições, bem como o seu conhecimento e a sua qualificação, nomeadamente fomentando o trabalho em rede e ligando os vários espaços que se dedicam a preservar a vida e obra dos autores de língua portuguesa para ampliar o acesso e a divulgação da literatura portuguesa, conferindo-lhes centralidade, independentemente da localização dos territórios em que se situem.
+
+Neste sentido, este diploma procede à criação da Rede Portuguesa de Casas de Escritores, determinando que a sua implementação compete à Direção-Geral do Livro, dos Arquivos e das Bibliotecas, o serviço central da administração direta do Estado responsável pelo desenvolvimento de uma política do livro não escolar e da leitura, em articulação com a Biblioteca Nacional de Portugal, considerando o importante trabalho desta instituição com espólios literários no Arquivo de Cultura Portuguesa Contemporânea.
+
+Por outro lado, considerando a importância crescente do turismo literário e a necessidade de promover e qualificar a oferta existente, prevê-se igualmente que a dinamização da Rede seja efetuada em articulação designadamente com o Turismo de Portugal, de modo a incrementar a oferta e a estruturação de roteiros literários em torno da vida e obra de autores da literatura portuguesa e, bem assim, proporcionar uma experiência turística diferenciada.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Cultura, ao abrigo dos n.<sup>os</sup>1 e 3 do artigo 21.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria cria a Rede Portuguesa de Casas de Escritores (RPCE).
+
+###### Artigo 2.º — RPCE
+
+A RPCE é uma rede de adesão voluntária, configurada de forma progressiva e composta pelas casas de escritores existentes no território nacional e que sejam credenciadas nos termos do regulamento referido no artigo 8.º
+
+###### Artigo 3.º — Coordenação
+
+A coordenação da RPCE compete à Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB), em articulação com o Turismo de Portugal, sem prejuízo do disposto no artigo 7.º
+
+###### Artigo 4.º — Objetivos da RPCE
+
+A RPCE tem como objetivos:
+
+a) Estruturar-se como um sistema organizado, aglutinador e dinamizador de diferentes entidades sediadas no território nacional, que contribuam de forma estruturada para a valorização e dinamização da literatura portuguesa;
+
+b) Promover a aproximação e o conhecimento mútuo entre os membros da RPCE, nomeadamente através da organização de um encontro anual de casas de escritores;
+
+c) Promover o conhecimento e a divulgação da literatura portuguesa e dos seus autores;
+
+d) Fomentar padrões de rigor e qualidade no exercício das atividades das casas de escritores sediadas em território nacional;
+
+e) Promover práticas adequadas de preservação, conservação e divulgação de espólios e coleções, em articulação com o Arquivo de Cultura Portuguesa Contemporânea da Biblioteca Nacional de Portugal (BNP);
+
+f) Promover programas de apoio à programação e à formação, em diploma próprio, nos termos da alínea c) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 103/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2012-552048), de 16 de maio, na sua redação atual;
+
+g) Aproximar as diferentes comunidades do território nacional ao livro e à leitura, contribuindo para o aumento dos públicos e a sua fidelização;
+
+h) Promover a descentralização de oferta cultural e uma ampla fruição do livro e da leitura, em articulação com os Governos Regionais, as autarquias, bem como as instituições e agentes culturais, sociais e profissionais;
+
+i) Promover programas direcionados para os públicos infantil e juvenil, bem como programas de literacia cultural direcionados para o público adulto, em articulação com o Plano Nacional de Leitura e o Plano Nacional das Artes;
+
+j) Promover a criação ou o reforço de roteiros literários em torno da vida e obra de autores da literatura portuguesa, em articulação com o Turismo de Portugal;
+
+k) Promover a articulação com redes regionais de cultura, em colaboração com as comissões de coordenação e desenvolvimento regional;
+
+l) Fomentar e desenvolver uma política editorial;
+
+m) Incentivar programações culturais que possam ser coproduzidas em rede e em itinerância;
+
+n) Estimular a difusão dos autores portugueses e das respetivas obras no estrangeiro, nomeadamente através de parcerias com redes internacionais do mesmo âmbito;
+
+o) Promover a celebração de protocolos com entidades públicas ou privadas, designadamente para a constituição de parcerias e a obtenção de mecenato e patrocínios no âmbito da RPCE.
+
+###### Artigo 5.º — Adesão à RPCE
+
+1 - Podem aderir à RPCE as instituições sediadas em território nacional que cumpram os seguintes requisitos:
+
+a) Tenham na sua missão a promoção de atividades de valorização e dinamização da vida e obras de escritores da literatura portuguesa;
+
+b) Assegurem serviços regulares de acesso público;
+
+c) Promovam atividades de mediação cultural ou serviço educativo;
+
+d) Promovam uma programação cultural própria;
+
+e) Disponham de um orçamento de funcionamento;
+
+f) Disponham de condições técnicas necessárias para a salvaguarda do património, próprio ou em depósito.
+
+2 - O acesso aos programas de apoio referidos na alínea e) do artigo anterior depende de adesão à RPCE.
+
+###### Artigo 6.º — Publicitação e divulgação da adesão à RPCE
+
+1 - As casas de escritores da RPCE têm direito a receber um documento comprovativo da adesão e a fazer menção da qualidade de membro da RPCE pelas formas que considerem mais convenientes.
+
+2 - As casas de escritores da RPCE devem exibir na área de acolhimento e em todos os suportes de divulgação um logótipo destinado a informar os espectadores e visitantes da pertença à Rede.
+
+3 - As casas de escritores da RPCE são objeto de sinalização exterior.
+
+4 - A DGLAB efetua a divulgação sistematizada, periódica e atualizada das casas de escritores da RPCE, com o objetivo de as promover junto do público, de divulgar as suas características e a importância do respetivo património cultural.
+
+###### Artigo 7.º — Implementação
+
+1 - A implementação da RPCE compete à DGLAB, em articulação com a BNP e o Turismo de Portugal.
+
+2 - No prazo de três meses a contar da data de entrada em vigor da presente portaria, a DGLAB, a BNP e o Turismo de Portugal apresentam ao membro do Governo responsável pela área da cultura e do turismo, para aprovação:
+
+a) Um mapeamento nacional de casas de escritores;
+
+b) Uma proposta de estratégia da RPCE, garantindo o cumprimento dos objetivos previstos no artigo 4.º
+
+###### Artigo 8.º — Regulamentação
+
+O procedimento de adesão à RPCE, bem como os modelos do documento comprovativo e do logótipo são definidos por despacho do membro do Governo responsável pela área da cultura, sob proposta da DGLAB.
+
+###### Artigo 9.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira, em 19 de março de 2024.**

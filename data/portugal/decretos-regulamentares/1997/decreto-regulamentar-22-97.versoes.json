@@ -1,0 +1,100 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:398554:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1997-169775428",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/22-1997-398554",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-05-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583798:por",
+     "title": "Declaração de Rectificação n.º 10-J/97",
+     "published": "1997-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-j-1997-583798"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "169774936",
+    "169774926",
+    "169774927",
+    "169774928",
+    "169774929",
+    "169774930",
+    "169774931",
+    "169774932"
+   ]
+  }
+ ],
+ "fragments": {
+  "169774936": {
+   "fragment_id": "169775429",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-05-20",
+   "changed_by": [],
+   "markdown": "Decreto n.º 23-A/97\n\nde 20 de Maio\n\nConsiderando a necessidade de garantir às instalações do prédio militar n.º 41/Ponta Delgada, Quartel dos Arrifes, destinadas ao Regimento de Guarnição n.º 2, as medidas de segurança indispensáveis à execução das funções que lhe competem;\n\nConsiderando a conveniência de garantir a protecção de pessoas e bens nas zonas confinantes com aquelas instalações;\n\nAssim:\n\nAo abrigo do disposto na Lei n.º 2078, de 11 de Julho de 1955, e no Decreto-Lei n.º 45986, de 22 de Outubro de 1964, e nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "169774926": {
+   "fragment_id": "169775430",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação da servidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Delimitação da servidão\n\nÉ constituída a servidão militar de protecção do prédio militar n.º 41/Ponta Delgada, denominado «Quartel dos Arrifes», englobando as duas zonas seguintes:\n\na) Uma primeira zona, delimitada por uma linha paralela aos limites do prédio militar e distante deste 50 m;\n\nb) Uma segunda zona, paralela à primeira e dela distante 150 m."
+  },
+  "169774927": {
+   "fragment_id": "169775431",
+   "type": 11,
+   "heading": "Artigo 2.º — Trabalhos e actividades condicionados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Trabalhos e actividades condicionados\n\n1 - À servidão referida na alínea a) do artigo anterior é aplicável o disposto nos artigos 9.º e 13.º da Lei n.º 2078, de 11 de Julho de 1955, sendo vedada na respectiva área, salvo licença a conceder pela autoridade competente, a execução dos trabalhos ou actividades seguintes:\n\na) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;\n\nb) Obras de que resulte alteração na altura dos imóveis já existentes;\n\nc) Alteração, por meio de escavação ou aterro, do relevo ou configuração do solo;\n\nd) Depósito, permanente ou temporário, de materiais explosivos ou inflamáveis;\n\ne) Construção de muros de vedação ou divisórias de propriedades;\n\nf) Montagem de linhas de energia eléctrica ou de ligações telefónicas, aéreas ou subterrâneas;\n\ng) Plantação de árvores ou arbustos;\n\nh) Levantamentos topográficos ou fotográficos.\n\n2 - Na área descrita na alínea b) do artigo anterior é proibida a execução dos trabalhos ou actividades constantes das alíneas a), b), c), d), f) e h) do n.º 1 deste artigo sem a devida licença, eventualmente condicionada, da autoridade competente.\n\n3 - Na área descrita na alínea b) do artigo anterior são, porém, dispensadas de licença da autoridade competente as construções cuja altura não exceda dois pisos(10 m).\n\n4 - É facultada à Câmara Municipal de Ponta Delgada e à Empresa de Electricidade dos Açores (EDA), ou a terceiros por si mandatados, a possibilidade de executarem obras de manutenção ou beneficiação nas condutas de drenagem de águas pluviais da freguesia de Arrifes, na rede de baixa tensão (BT) e no ramal de média tensão (MT) que abastece o posto de transformação (PT) do aquartelamento, em coordenação com o Comando da Zona Militar dos Açores."
+  },
+  "169774928": {
+   "fragment_id": "169775432",
+   "type": 11,
+   "heading": "Artigo 3.º — Licenças e demolição de obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Licenças e demolição de obras\n\nCompete ao Ministro da Defesa Nacional, ouvido o Chefe do Estado-Maior do Exército, conceder as licenças a que se refere o artigo 2.º, bem como ordenar a demolição das obras nos casos previstos na lei."
+  },
+  "169774929": {
+   "fragment_id": "169775433",
+   "type": 11,
+   "heading": "Artigo 4.º — Instrução dos pedidos de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Instrução dos pedidos de licença\n\nNos pedidos de licença a dirigir à entidade competente, bem como no tocante aos documentos que devem acompanhar o respectivo requerimento, os interessados deverão observar o que para o efeito se dispõe no artigo 8.º do Decreto-Lei n.º 45986, de 22 de Outubro de 1964."
+  },
+  "169774930": {
+   "fragment_id": "169775434",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nA fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste diploma, bem como das condições impostas nos licenciamentos, incumbe ao comando da unidade ali instalada, à Zona Militar dos Açores, à Direcção dos Serviços de Engenharia e a quaisquer autoridades administrativas e policiais com jurisdição na área."
+  },
+  "169774931": {
+   "fragment_id": "169775435",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação de sanções\n\nPara aplicação de multas pelas infracções verificadas e subsequentes diligências é competente o Comando da Zona Militar dos Açores."
+  },
+  "169774932": {
+   "fragment_id": "169775436",
+   "type": 11,
+   "heading": "Artigo 7.º — Planta de delimitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Planta de delimitação\n\nAs áreas descritas no artigo 1.º estão demarcadas numa planta, à escala de 1:2000, da qual se destinam cópias a cada uma das seguintes entidades:\n\na) Ministério da Defesa Nacional;\n\nb) Ministério da Administração Interna;\n\nc) Ministério do Equipamento, do Planeamento e da Administração do Território;\n\nd) Estado-Maior-General das Forças Armadas;\n\ne) Estado-Maior do Exército;\n\nf) Comando da Zona Militar dos Açores;\n\ng) Câmara Municipal de Ponta Delgada."
+  }
+ }
+}

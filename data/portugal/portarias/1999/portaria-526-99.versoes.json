@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:354675:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-939363255",
+ "dre_path": "/dr/detalhe/portaria/526-1999-354675",
+ "source_lastmod": "2025-11-25",
+ "versions": [
+  {
+   "date": "1999-07-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "939453824"
+   ]
+  }
+ ],
+ "fragments": {
+  "939453824": {
+   "fragment_id": "939363256",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 526/99\n\nde 22 de Julho\n\nA experiência de racionalização e flexibilização da obrigatoriedade de recurso aos serviços de pilotagem, aplicada aos portos do continente, iniciada com a aprovação da Portaria n.º 930-A/91, de 10 de Setembro, e prosseguida nos termos da Portaria n.º 238-A/97, de 4 de Abril, tem-se revestido de um razoável grau de sucesso.\n\nAs medidas de isenção introduzidas por estes diplomas têm permitido ultrapassar algumas das dificuldades existentes nos serviços de pilotagem dos portos do continente, em particular as que resultam da insuficiência de recursos humanos, sem, contudo, pôr em causa a segurança das embarcações.\n\nNa Região Autónoma dos Açores, em que a pilotagem é assegurada pela Marinha, verifica-se actualmente uma insuficiência significativa de pilotos do quadro de pessoal civil da Marinha (QPCM) por não ter vindo a ser possível efectuar admissões nos últimos anos, o que tem obrigado a um esforço por parte dos pilotos, representando uma sobrecarga de actividade dificilmente sustentável, face à necessidade da manutenção dos desejáveis padrões de segurança e, bem assim, à especificidade geográfica da Região, a qual pressupõe a salvaguarda de questões fundamentais como o abastecimento das ilhas.\n\nNa sequência do actualmente estabelecido para o continente e dada a similitude de tratamento em relação à obrigatoriedade de recurso aos serviços de pilotagem para os portos da Região Autónoma dos Açores, verifica-se a necessidade de dar ao assunto um tratamento específico para a Região.\n\nAssim, na perspectiva da reformulação do regime de obrigatoriedade do recurso aos serviços de pilotagem e enquanto decorrem os trabalhos destinados a essa reformulação, e ouvido o Governo da Região Autónoma dos Açores:\n\nManda o Governo, pelos Ministros da Defesa Nacional e do Equipamento, do Planeamento e da Administração do Território, ao abrigo da alínea b) do artigo 15.º do Regulamento Geral do Serviço de Pilotagem dos Portos e Barras, aprovado pelo Decreto-Lei n.º 166/89, de 19 de Maio, o seguinte:"
+  }
+ }
+}

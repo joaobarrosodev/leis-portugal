@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:2354687:por
+title: Portaria n.º 636/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 636/2005 (2.ª série)
+official_date: null
+publication_date: '2005-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2005, Série II de 2005-06-06
+  number: '108'
+  series: II
+  supplement: null
+  pages: 8466 - 8466
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/06/108000000/0846608466.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2354687'
+  dre_path: /dr/detalhe/portaria/636-2005-2354687
+  internal: pt:dre:2354687:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/636-2005-2354687
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/636-2005-2354687
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-06-06T00:00:00Z'
+integrity:
+  source_sha256: ae399c4ee9903ea752725a4288162d638031eb1f9482f9c66e79b116edb09f80
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-636-2354687.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 636/2005 (2.ª série)
+
+Portaria n.º 636/2005 (2.ª série). - O Ministério dos Negócios Estrangeiros pretende celebrar, em nome do Governo Português, um contrato de prestação de serviços com vista à concepção, fornecimento, manutenção e funcionamento integral do pavilhão que representará Portugal na Expo Aichi, que decorrerá no Japão entre 25 de Março e 25 de Setembro de 2005, cujos efeitos financeiros só se verificarão no decurso do exercício orçamental de 2005.
+
+Assim, em conformidade com o artigo 22.º, n.º 1, do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, manda o Governo, pelos Ministros das Finanças e da Administração Pública e dos Negócios Estrangeiros e das Comunidades Portuguesas, o seguinte:
+
+1.º Os encargos orçamentais decorrentes da assinatura do contrato de prestação de serviços de concepção, fornecimento, manutenção e funcionamento integral do pavilhão que representará Portugal na Expo Aichi não poderão exceder no ano de 2005 o montante de Euro 1 500 000, acrescido do IVA à taxa legal.
+
+2.º A cobertura orçamental resultante da execução do presente diploma será, nos termos do n.º 9 da resolução do Conselho de Ministros aprovada em 25 de Novembro de 2004, que cria a estrutura da missão Comissariado Geral Português para a Exposição Mundial de Aichi 2005, satisfeita por verbas da dotação provisional do Ministério das Finanças e da Administração Pública, a transferir para o orçamento do Ministério dos Negócios Estrangeiros.
+
+14 de Dezembro de 2004. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.

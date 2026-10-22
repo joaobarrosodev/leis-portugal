@@ -1,0 +1,1084 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:584639:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2005-70991798",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2005-584639",
+ "source_lastmod": "2024-09-19",
+ "versions": [
+  {
+   "date": "2005-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70991729",
+    "70991730",
+    "70991731",
+    "70991732",
+    "70991733",
+    "70991734",
+    "70991735",
+    "70991736",
+    "70991737",
+    "70991738",
+    "70991739",
+    "70991740",
+    "70991741",
+    "70991742",
+    "70991743",
+    "70991744",
+    "70991745",
+    "70991746",
+    "70991747",
+    "70991748",
+    "70991749",
+    "70991750",
+    "70991751",
+    "70991752",
+    "70991753",
+    "70991754",
+    "70991755",
+    "70991756",
+    "70991757",
+    "70991758",
+    "70991759",
+    "70991760",
+    "70991761",
+    "70991762",
+    "70991763",
+    "70991764",
+    "70991765",
+    "70991766",
+    "70991767",
+    "70991768",
+    "70991769",
+    "70991770",
+    "70991771",
+    "70991772",
+    "70991773",
+    "70991774",
+    "70993975",
+    "70993976",
+    "70993977",
+    "70993978",
+    "70993979",
+    "70993980",
+    "70993981",
+    "70993982",
+    "70993983",
+    "70993984",
+    "70993985",
+    "70993986",
+    "70993987",
+    "70993988",
+    "70993989",
+    "70993990",
+    "70993991",
+    "70993992",
+    "70993993",
+    "70993994",
+    "70993995",
+    "70993996",
+    "70993997",
+    "70993998",
+    "70993999",
+    "70994000",
+    "70994001",
+    "70994002",
+    "70994003",
+    "70994004",
+    "70994005",
+    "70994006",
+    "70994007",
+    "70994008",
+    "70994009"
+   ]
+  },
+  {
+   "date": "2010-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:334973:por",
+     "title": "Decreto Legislativo Regional n.º 23/2010/A",
+     "published": "2010-06-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-2010-334973"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "70991729",
+    "70991730",
+    "70991731",
+    "70991732",
+    "70991733",
+    "70991734",
+    "70991735",
+    "70991736",
+    "70991737",
+    "70991738",
+    "70991739",
+    "70991740",
+    "70991741",
+    "70991742",
+    "70991743",
+    "70991744",
+    "70991745",
+    "70991746",
+    "70991747",
+    "70991748",
+    "70991749",
+    "70991750",
+    "70991751",
+    "70991752",
+    "70991753",
+    "70991754",
+    "70991755",
+    "888218756",
+    "70991757",
+    "70991758",
+    "70991759",
+    "70991760",
+    "70991761",
+    "70991762",
+    "70991763",
+    "70991764",
+    "70991765",
+    "70991766",
+    "70991767",
+    "70991768",
+    "70991769",
+    "70991770",
+    "70991771",
+    "70991772",
+    "70991773",
+    "70991774",
+    "70993975",
+    "70993976",
+    "70993977",
+    "70993978",
+    "70993979",
+    "70993980",
+    "70993981",
+    "70993982",
+    "70993983",
+    "70993984",
+    "70993985",
+    "70993986",
+    "70993987",
+    "70993988",
+    "70993989",
+    "70993990",
+    "70993991",
+    "70993992",
+    "70993993",
+    "70993994",
+    "70993995",
+    "70993996",
+    "70993997",
+    "70993998",
+    "70993999",
+    "70994000",
+    "70994001",
+    "70994002",
+    "70994003",
+    "70994004",
+    "70994005",
+    "70994006",
+    "70994007",
+    "70994008",
+    "70994009",
+    "70994010"
+   ]
+  },
+  {
+   "date": "2015-03-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66674011:por",
+     "title": "Decreto Legislativo Regional n.º 6/2015/A",
+     "published": "2015-03-05",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2015-66674011"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º"
+   ],
+   "fragments": [
+    "70991729",
+    "70991730",
+    "70991731",
+    "70991732",
+    "70991733",
+    "70991734",
+    "70991735",
+    "70991736",
+    "70991737",
+    "70991738",
+    "70991739",
+    "70991740",
+    "70991741",
+    "70991742",
+    "70991743",
+    "70991744",
+    "70991745",
+    "70991746",
+    "70991747",
+    "70991748",
+    "70991749",
+    "70991750",
+    "70991751",
+    "70991752",
+    "70991753",
+    "70991754",
+    "70991755",
+    "888218756",
+    "70991757",
+    "70991758",
+    "70991759",
+    "70991760",
+    "70991761",
+    "70991762",
+    "70991763",
+    "888218757",
+    "888218758",
+    "888218759",
+    "888218760",
+    "888218761",
+    "70991769",
+    "70991770",
+    "70991771",
+    "70991772",
+    "70991773",
+    "70991774",
+    "70993975",
+    "70993976",
+    "70993977",
+    "70993978",
+    "70993979",
+    "70993980",
+    "70993981",
+    "70993982",
+    "888218762",
+    "888218763",
+    "888218764",
+    "888218765",
+    "888218766",
+    "888218767",
+    "70993989",
+    "70993990",
+    "70993991",
+    "70993992",
+    "70993993",
+    "70993994",
+    "70993995",
+    "70993996",
+    "70993997",
+    "70993998",
+    "70993999",
+    "70994000",
+    "70994001",
+    "70994002",
+    "70994003",
+    "70994004",
+    "70994005",
+    "70994006",
+    "70994007",
+    "70994008",
+    "70994009",
+    "70994010"
+   ]
+  }
+ ],
+ "fragments": {
+  "70991729": {
+   "fragment_id": "70991799",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 27/2005/A\n\nRegime jurídico do planeamento, protecção e segurança das construções escolares\n\nAs normas a seguir no planeamento, projecto e construção de edifícios escolares necessitam de revisão, tendo em conta as particulares exigências destes edifícios e a necessidade de garantir a sua segurança, qualidade e funcionalidade. Com este objectivo reúne-se no presente diploma um conjunto de normas que se encontram dispersas, ao mesmo tempo que introduzem na legislação regional algumas matérias que, face às competências dos órgãos de governo próprio, devem ser acauteladas.\n\nDesde logo interessa esclarecer a forma como é elaborada a carta escolar, tendo em conta que tal competência foi transferida para os órgãos de governo próprio por força da alínea a) do artigo 8.º do Decreto-Lei n.º 338/79, de 25 de Agosto, e concretizada pela primeira vez através da Resolução n.º 1/2000, de 27 de Janeiro, face às competências que em matéria de infra-estruturas escolares são cometidas às autarquias por força da Lei n.º 159/99, de 14 de Setembro.\n\nCom este objectivo, pelo presente diploma são fixadas normas sobre a elaboração da carta escolar e sobre a construção e manutenção dos estabelecimentos de ensino básico na Região Autónoma dos Açores tendo em conta a especificidade da sua organização político-administrativa e as competências da administração regional autónoma e da administração local em matéria de edifícios escolares.\n\nNo que respeita à construção de novas infra-estruturas escolares, sem prejuízo das competências legalmente cometidas às autarquias nos termos da Lei n.º 159/99, de 14 de Setembro, a administração regional autónoma continua a assumir, com carácter supletivo, a construção dos edifícios necessários aos 2.º e 3.º ciclos do ensino básico e a responsabilizar-se pelo ensino secundário, ficando à responsabilidade das autarquias a construção dos edifícios que deliberem incluir nas suas cartas educativas. O regime de cooperação financeira entre a administração regional autónoma e a administração local é alargado a estas intervenções, complementando os fundos que foram para tal colocados à disposição das autarquias no Quadro Comunitário de Apoio em vigor.\n\nNo que respeita à manutenção dos edifícios escolares é mantido o regime em vigor, que aliás tem a sua raiz no parágrafo 10.º do artigo 24.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes, aprovado pelo Decreto-Lei n.º 31095, de 31 de Dezembro de 1940, alterado e republicado pelo Decreto-Lei n.º 36453, de 4 de Agosto de 1947. É também mantida a obrigação de pagamento da electricidade e da água constante do Decreto Legislativo Regional n.º 31/86/A, de 11 de Dezembro, que agora se revoga por integração no presente diploma.\n\nInteressa, por outro lado, proceder à actualização da servidão administrativa constante do Decreto-Lei n.º 37575, de 8 de Outubro de 1949, adequando-o às actuais exigências de urbanismo e de segurança ambiental, incorporando no respectivo regime as normas avulsas constantes de diversos diplomas. São igualmente considerados os condicionamentos respeitantes às zonas de protecção a edifícios escolares que constam dos Decretos-Leis n.os 21875, de 18 de Novembro de 1932, 39847, de 8 de Outubro de 1954, 40388, de 21 de Novembro de 1955, 44220, de 29 de Março de 1962, e 46847, de 27 de Janeiro de 1966, devidamente actualizadas.\n\nDada a dificuldade em definir casuisticamente o afastamento em relação aos edifícios escolares de determinados estabelecimentos, delimitando perímetros de exclusão para cada caso concreto, conforme estabelecia o artigo 35.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março, opta-se por limitar aquele afastamento à área contida no interior da zona genérica de protecção aos edifícios escolares. O mesmo se faz em relação à proibição de venda de bebidas alcoólicas.\n\nFinalmente, procede-se ao desenvolvimento das normas referentes à segurança e protecção dos edifícios escolares e dos seus utentes, explicitando as obrigações em termos de segurança contra incêndios, acessibilidade a pessoas com deficiência e elaboração dos planos de segurança e evacuação. Com isto pretende-se melhorar substancialmente a segurança dos utentes das escolas e contribuir para a generalização nos Açores de uma cultura de protecção civil.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos das alíneas a) e c) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e das alíneas c) e e) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "70991730": {
+   "fragment_id": "70991800",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito"
+  },
+  "70991731": {
+   "fragment_id": "70991801",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regulamenta as competências de planeamento, projecto, construção e manutenção de infra-estruturas escolares na Região Autónoma dos Açores, bem como as normas de segurança e de protecção ambiental a que devem obedecer."
+  },
+  "70991732": {
+   "fragment_id": "70991802",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO disposto no presente diploma aplica-se a todos os edifícios escolares da educação pré-escolar e dos ensinos básico, secundário e profissional da Região Autónoma dos Açores, incluindo as creches e infantários, qualquer que seja a sua propriedade ou regime de funcionamento."
+  },
+  "70991733": {
+   "fragment_id": "70991803",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara os efeitos do presente diploma, entende-se por:\n\na) «Carta educativa» o instrumento de planeamento e ordenamento prospectivo de edifícios e equipamentos educativos de responsabilidade municipal, organizada de acordo com as ofertas de educação e formação que seja necessário satisfazer, tendo em vista a melhor utilização dos recursos educativos, no quadro do desenvolvimento demográfico e sócio-económico de cada município;\n\nb) «Carta escolar» o instrumento de planeamento e ordenamento da rede educativa, do pré-escolar ao secundário, e de fixação das orientações a seguir na sua evolução, com particular ênfase na vertente organizativa e de infra-estruturas educacionais, por forma a reflectir a oferta existente e perspectivar eventuais alterações, integrando o conteúdo das cartas educativas municipais;\n\nc) «Equipamentos educativos» o conjunto dos meios materiais, designadamente os edifícios escolares, o equipamento básico, o mobiliário, o material didáctico e os equipamentos tecnológico e desportivo, utilizados para a conveniente realização da actividade educativa;\n\nd) «Plano de segurança e evacuação» o documento único, elaborado pelo conselho executivo, director ou entidade similar responsável pela segurança, e submetido à aprovação da entidade competente em matéria de protecção civil, que visa limitar os riscos de ocorrência e desenvolvimento de incêndios, circunscrever os sinistros, limitar os seus danos e sistematizar a evacuação;\n\ne) «Rede educativa» a configuração da organização territorial dos edifícios escolares, ou dos edifícios utilizados em actividades escolares, afectos aos estabelecimentos de educação pré-escolar e dos ensinos básico, secundário e profissional, visando a sua adequação às orientações e objectivos da política educativa;\n\nf) «Zona de protecção» uma zona de 100 m de largura em torno dos edifícios escolares previstos, em construção e já construídos, medidos perpendicularmente a partir das estremas dos respectivos logradouros."
+  },
+  "70991734": {
+   "fragment_id": "70991804",
+   "type": 1,
+   "heading": "Capítulo II — Planeamento da rede educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Planeamento da rede educativa"
+  },
+  "70991735": {
+   "fragment_id": "70991805",
+   "type": 11,
+   "heading": "Artigo 4.º — Ordenamento da rede educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ordenamento da rede educativa\n\n1 - A rede educativa visa uma utilização mais eficiente dos recursos e a complementaridade das ofertas educativas, no quadro da correcção de desigualdades e assimetrias locais, por forma a assegurar a igualdade de oportunidades de educação pré-escolar e de ensino a todas as crianças e alunos.\n\n2 - A necessidade da adequação, em permanência, da oferta educativa, nomeadamente a que decorre das alterações da procura, em termos qualitativos e quantitativos, e do estado físico dos edifícios, obriga a um processo anual de apreciação e ajustamento da rede educativa, em colaboração com a comunidade educativa."
+  },
+  "70991736": {
+   "fragment_id": "70991806",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios gerais\n\nO ordenamento da rede educativa estrutura-se de acordo com os seguintes princípios gerais:\n\na) Consideração da educação pré-escolar como primeira etapa da educação básica;\n\nb) Sequencialidade entre os diferentes ciclos do ensino básico, de acordo com o definido na Lei de Bases do Sistema Educativo, como elemento propiciador do cumprimento, com sucesso, do percurso da escolaridade obrigatória e como reconhecimento de que este percurso se deve efectuar, de preferência, numa única escola ou agrupamento de escolas;\n\nc) Expressão territorial da rede educativa, entendida como a distribuição dos estabelecimentos dos diferentes níveis de educação e de ensino tendo em atenção os factores resultantes das características geográficas do território, da densidade e da idade da população a escolarizar, do nível de educação e ensino em questão e da necessidade de assegurar a racionalidade e complementaridade das ofertas."
+  },
+  "70991737": {
+   "fragment_id": "70991807",
+   "type": 11,
+   "heading": "Artigo 6.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objectivos\n\nO ordenamento da rede educativa deve contribuir para os seguintes objectivos:\n\na) Garantir o direito de acesso de todas as crianças aos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário;\n\nb) Superar as situações de isolamento e de quebra de inserção sócio-educativa das crianças, prevenindo a exclusão social;\n\nc) Garantir uma adequada complementaridade de ofertas educativas;\n\nd) Garantir a qualidade funcional, arquitectónica e ambiental dos estabelecimentos de educação pré-escolar e de ensino;\n\ne) Desenvolver formas de organização e gestão dos estabelecimentos de educação pré-escolar e de ensino mais eficazes, especialmente através da conclusão do processo de agrupamento de escolas e de autonomia da sua gestão;\n\nf) Adequar a oferta de recursos e racionalização da sua distribuição, com vista ao estabelecimento e à distinção daqueles que, pelas suas características e natureza, devam ser comuns a uma determinada área geográfica, para que sejam mais bem partilhados por todos os estabelecimentos dessa mesma área."
+  },
+  "70991738": {
+   "fragment_id": "70991808",
+   "type": 11,
+   "heading": "Artigo 7.º — Parâmetros técnicos de ordenamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Parâmetros técnicos de ordenamento\n\nO ordenamento da rede educativa deve respeitar, entre outros, os seguintes parâmetros técnicos:\n\na) Modalidades de agregação entre os estabelecimentos de educação pré-escolar e os dos diferentes ciclos do ensino básico, no sentido do aprofundamento do processo de estruturação das escolas básicas integradas;\n\nb) Caracterização dos edifícios e de outras infra-estruturas educativas, bem como do mobiliário e demais equipamento, em função do tipo de escola, do número de alunos, das exigências pedagógicas e dos padrões de qualidade e de funcionamento definidos;\n\nc) Dimensão padrão dos estabelecimentos de educação pré-escolar e de ensino, por forma a estabelecer os limiares mínimo e máximo de crianças e alunos utentes de cada jardim-de-infância, escola do ensino básico, escola do ensino secundário e agrupamento de escolas, tendo em atenção as idades de quem os frequenta e a especificidade dos diferentes níveis de educação e de ensino ministrados;\n\nd) Dimensão padrão e características dos quadros de pessoal, docente e não docente, de cada estabelecimento de educação pré-escolar e de ensino ou agrupamento de escolas, tendo em atenção a especificidade das ofertas educativas."
+  },
+  "70991739": {
+   "fragment_id": "70991809",
+   "type": 1,
+   "heading": "Capítulo III — Carta escolar e carta educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Carta escolar e carta educativa"
+  },
+  "70991740": {
+   "fragment_id": "70991810",
+   "type": 8,
+   "heading": "Secção I — Carta escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Carta escolar"
+  },
+  "70991741": {
+   "fragment_id": "70991811",
+   "type": 11,
+   "heading": "Artigo 8.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Âmbito\n\n1 - A carta escolar tem carácter regional, integrando os elementos constantes das cartas educativas elaboradas pelas autarquias, nos termos dos artigos 14.º a 19.º do presente diploma.\n\n2 - As orientações a seguir no processo anual de apreciação e ajustamento da rede educativa são fixadas pela resolução do Conselho do Governo Regional que aprovar a carta escolar."
+  },
+  "70991742": {
+   "fragment_id": "70991812",
+   "type": 11,
+   "heading": "Artigo 9.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Objectivos\n\nA carta escolar visa:\n\na) Adequar a rede escolar ao crescimento da população estudantil;\n\nb) Adequar os investimentos nos estabelecimentos de educação e ensino à expansão do ensino secundário;\n\nc) Recuperar os edifícios que se encontram degradados ou não ofereçam as necessárias condições de segurança e qualidade;\n\nd) Resolver as situações de sobrelotação e de excessivo afastamento da escola ao local de residência;\n\ne) Coordenar as intervenções sobre a rede de infra-estruturas educativas;\n\nf) Prever as necessidades de investimento na Região Autónoma dos Açores na área educativa."
+  },
+  "70991743": {
+   "fragment_id": "70991813",
+   "type": 11,
+   "heading": "Artigo 10.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Objecto\n\n1 - A carta escolar é um instrumento orientador do investimento na infra-estrutura educativa e de enquadramento da reestruturação orgânica do sistema educativo.\n\n2 - A carta escolar deve ser entendida como instrumento de planeamento nas áreas de investimento na rede escolar e de organização do modelo educativo."
+  },
+  "70991744": {
+   "fragment_id": "70991814",
+   "type": 11,
+   "heading": "Artigo 11.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conteúdo\n\nA carta escolar integra a identificação dos investimentos a realizar e a definição de prioridades."
+  },
+  "70991745": {
+   "fragment_id": "70991815",
+   "type": 11,
+   "heading": "Artigo 12.º — Elaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Elaboração\n\n1 - É competência do departamento da administração regional autónoma competente em matéria de educação elaborar a carta escolar, ouvidos os conselhos locais de educação.\n\n2 - A carta escolar é aprovada por resolução do Conselho do Governo Regional."
+  },
+  "70991746": {
+   "fragment_id": "70991816",
+   "type": 11,
+   "heading": "Artigo 13.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revisão\n\n1 - O departamento da administração regional autónoma competente em matéria de educação avalia obrigatoriamente, de cinco em cinco anos, a necessidade de revisão da carta escolar.\n\n2 - À revisão da carta escolar são aplicáveis os procedimentos para a respectiva aprovação."
+  },
+  "70991747": {
+   "fragment_id": "70991817",
+   "type": 8,
+   "heading": "Secção II — Carta educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Carta educativa"
+  },
+  "70991748": {
+   "fragment_id": "70991818",
+   "type": 11,
+   "heading": "Artigo 14.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Objectivos\n\n1 - A carta educativa visa assegurar a adequação da rede de estabelecimentos de educação pré-escolar e do ensino básico para que, em cada momento, as ofertas educativas disponíveis a nível municipal respondam à procura efectiva que ao mesmo nível se manifestar.\n\n2 - A carta educativa deve reflectir, a nível municipal, o processo de ordenamento da rede regional de oferta de educação e formação, com vista a assegurar a racionalização e complementaridade dessas ofertas e o desenvolvimento qualitativo das mesmas, num contexto de descentralização administrativa, de reforço dos modelos de gestão dos estabelecimentos de educação e de ensino públicos e respectivos agrupamentos e de valorização do papel das comunidades educativas e dos projectos educativos das unidades orgânicas.\n\n3 - A carta educativa deve:\n\na) Promover o desenvolvimento do processo de agrupamento de escolas, com vista à criação das condições mais favoráveis ao desenvolvimento de centros de excelência e de competências educativas, bem como as condições para a gestão eficiente e eficaz dos recursos educativos disponíveis;\n\nb) Incluir uma análise prospectiva, fixando objectivos de ordenamento progressivo, a médio e longo prazos;\n\nc) Garantir a coerência da rede educativa com a política urbana do município e a articulação com a rede educativa do ensino secundário, tendo em conta as infra-estruturas existentes e as constantes dos instrumentos regionais de planeamento, incluindo a carta escolar."
+  },
+  "70991749": {
+   "fragment_id": "70991819",
+   "type": 11,
+   "heading": "Artigo 15.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objecto\n\n1 - A carta educativa tem por objecto a identificação, a nível municipal, dos edifícios e equipamentos educativos, e respectiva localização geográfica, bem como das ofertas educativas da educação pré-escolar e do ensino básico, incluindo as suas modalidades especiais de educação, e da educação extra-escolar.\n\n2 - A carta educativa incide sobre os estabelecimentos de educação pré-escolar e do ensino básico das redes pública, privada, cooperativa e solidária."
+  },
+  "70991750": {
+   "fragment_id": "70991820",
+   "type": 11,
+   "heading": "Artigo 16.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conteúdo\n\n1 - A carta educativa deve conter, tendo em atenção o disposto nos artigos anteriores, a caracterização sumária da localização e organização espacial dos edifícios e equipamentos educativos, o diagnóstico estratégico, as projecções de desenvolvimento e a proposta de intervenção relativamente à rede pública.\n\n2 - A carta educativa é instruída com o relatório que mencione as principais medidas adoptadas e sua justificação."
+  },
+  "70991751": {
+   "fragment_id": "70991821",
+   "type": 11,
+   "heading": "Artigo 17.º — Elaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Elaboração\n\n1 - A elaboração da carta educativa é da competência da câmara municipal, nos termos da alínea a) do n.º 2 do artigo 19.º da Lei n.º 159/99, de 14 de Setembro, sendo aprovada pela assembleia municipal respectiva, após discussão e parecer do conselho local de educação.\n\n2 - Cabe à administração regional autónoma, através do departamento competente em matéria de educação, prestar o apoio técnico necessário à elaboração da carta educativa e disponibilizar toda a informação que se mostre necessária e não seja da competência da autarquia.\n\n3 - A carta educativa integra o plano director municipal respectivo, estando, nestes termos, sujeita a ratificação governamental, mediante parecer prévio vinculativo do departamento da administração regional autónoma competente em matéria de educação.\n\n4 - Podem os municípios articular entre si, nomeadamente através das respectivas associações, e com a administração regional autónoma, o desenvolvimento de instrumentos de planeamento e ordenamento da rede educativa de nível supramunicipal.\n\n5 - Na elaboração da carta educativa, as câmaras municipais e o departamento da administração regional autónoma competente em matéria de educação devem articular estreitamente as suas intervenções, de forma a garantir os princípios, objectivos e parâmetros técnicos estatuídos no presente diploma quanto ao ordenamento da rede educativa, bem como à eficácia dos programas e projectos supramunicipais ou de interesse supramunicipal."
+  },
+  "70991752": {
+   "fragment_id": "70991822",
+   "type": 11,
+   "heading": "Artigo 18.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revisão\n\n1 - As câmaras municipais avaliam, obrigatoriamente, de cinco em cinco anos, a necessidade de revisão da carta educativa, sem prejuízo do regime de revisão dos instrumentos de planeamento territorial.\n\n2 - A revisão das cartas educativas é obrigatória quando a rede educativa municipal fique desconforme com os princípios, objectivos e parâmetros técnicos de ordenamento da rede educativa regional, devendo o processo de revisão ser iniciado a solicitação do Governo Regional ou das câmaras municipais.\n\n3 - À revisão da carta educativa são aplicáveis os procedimentos previstos para a respectiva aprovação."
+  },
+  "70991753": {
+   "fragment_id": "70991823",
+   "type": 11,
+   "heading": "Artigo 19.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Efeitos\n\nDepois de aprovada e ratificada, a carta educativa constitui um instrumento de orientação da gestão do sistema educativo, sendo responsabilidade da autarquia a concretização dos investimentos nas infra-estruturas escolares ali previstas que, legalmente, sejam da sua competência, sem prejuízo do co-financiamento comunitário e regional a que haja lugar nos termos legais e regulamentares aplicáveis."
+  },
+  "70991754": {
+   "fragment_id": "70991824",
+   "type": 1,
+   "heading": "Capítulo IV — Protecção aos edifícios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Protecção aos edifícios escolares"
+  },
+  "70991755": {
+   "fragment_id": "70991825",
+   "type": 11,
+   "heading": "Artigo 20.º — Zona de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Zona de protecção\n\n1 - A zona de protecção aplica-se a todos os edifícios escolares previstos, em construção ou já construídos.\n\n2 - Para efeitos do número anterior, considera-se previsto o edifício escolar que cumpra um dos seguintes requisitos:\n\na) Tenha sido adjudicada a construção;\n\nb) Conste da carta educativa aprovada, sendo nesse caso a zona de protecção a prevista naquele documento;\n\nc) Tenham sido, por decreto legislativo regional, aprovadas medidas cautelares para a zona da sua implantação, sendo os respectivos limites contados a partir da estrema dos terrenos aos quais tenham sido aplicadas aquelas medidas;\n\nd) Conste de plano de pormenor, plano de urbanização ou outro instrumento eficaz de ordenamento do território equivalente, sendo os limites aqueles que ali constarem.\n\n3 - Cabe à autarquia a demarcação da zona de protecção em planta à escala adequada, devendo, para tal, o departamento da administração regional autónoma competente em matéria de educação notificar o respectivo presidente das suas intenções e acções em matéria de construções escolares, fornecendo cópia das plantas de implantação dos novos imóveis e das ampliações e alterações a que proceda.\n\n4 - Estão igualmente obrigadas a proceder à notificação referida no número anterior as entidades que a qualquer título detenham estabelecimentos de educação e de ensino particular, cooperativo ou solidário, incluindo creches, infantários e escolas profissionais.\n\n5 - Sem prejuízo da zona de protecção definida no artigo 3.º do presente diploma, pode ser definida uma zona de protecção de dimensão diferente, em sede de plano municipal de ordenamento do território, obtida a concordância do departamento da administração regional autónoma competente em matéria de educação, tendo em conta as características geográficas e populacionais do concelho."
+  },
+  "70991756": {
+   "fragment_id": "70991826",
+   "type": 11,
+   "heading": "Artigo 21.º — Actividades interditas nos recintos escolares e na zona de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Actividades interditas nos recintos escolares e na zona de protecção\n\n1 - Nos recintos escolares e na zona de protecção a que se refere o artigo anterior não é permitida a realização ou localização de:\n\na) Instalações classificadas na respectiva legislação reguladora como insalubres, incómodas, tóxicas ou perigosas;\n\nb) Estabelecimentos de venda de bebidas alcoólicas, considerando-se como tal os estabelecimentos de bebidas, não classificados em nenhuma outra categoria, onde se vendam principalmente bebidas alcoólicas para consumo no local;\n\nc) Instalações destinadas ao tratamento ou rejeição de efluentes líquidos ou gasosos de qualquer natureza, com excepção de fossas sépticas, sumidouros e dispositivos similares;\n\nd) Postos de abastecimento de combustíveis de qualquer natureza;\n\ne) Reservatórios de gases de petróleo liquefeito e de combustíveis líquidos de qualquer natureza com volume total de armazenamento superior a 5 m3, incluindo as instalações de armazenamento de garrafas de gases combustíveis cujo volume conjunto exceda 5 m3 de gases liquefeitos;\n\nf) Actividades ruidosas que originem um nível sonoro contínuo equivalente, ponderado A, LAeq, do ruído ambiente exterior, superior a 55 dB(A) no período compreendido entre as 7 e as 22 horas, acrescido de mais uma hora, caso funcione o ensino pós-laboral;\n\ng) Venda de bebidas alcoólicas, incluindo a venda ambulante, nos casos interditos nas imediações de escolas pelo Decreto-Lei n.º 9/2002, de 24 de Janeiro, e demais legislação alterada por aquele diploma;\n\nh) Salas e casas de jogos lícitos aos quais seja aplicável o disposto nos artigos 5.º e seguintes do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março;\n\ni) Estabelecimentos onde sejam exploradas uma ou mais máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão às quais se aplique o disposto no Decreto Legislativo Regional n.º 28/2000/A, de 10 de Agosto, e suas alterações;\n\nj) Infra-estruturas de suporte de equipamentos de radiocomunicações sujeitas a licenciamento e estações de base de serviço móvel terrestre e dos sistemas de telecomunicações móveis de acesso público;\n\nl) Equipamentos radioeléctricos de qualquer natureza emitindo com potência aparente radiada superior a 50 W, com exclusão das estações de serviço de amador;\n\nm) O atravessamento por linhas aéreas de transporte de energia eléctrica de média e alta tensão (tensão (maior que) 1 kW);\n\nn) Cemitérios.\n\n2 - Não se incluem na proibição contida na alínea h) do número anterior as associações e outras entidades sem fins lucrativos a que se refere o n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março.\n\n3 - Em salas localizadas na área de protecção a que se refere o n.º 1 não é permitido o licenciamento dos espectáculos de variedades ou diversões a que se refere o artigo 13.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março.\n\n4 - Para efeitos de aplicação da regulamentação sobre ruído, os edifícios escolares e seus logradouros e a respectiva zona de protecção são considerados zonas sensíveis para os efeitos do disposto no n.º 1 do artigo 8.º do Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 292/2000, de 14 de Novembro."
+  },
+  "70991757": {
+   "fragment_id": "70991827",
+   "type": 11,
+   "heading": "Artigo 22.º — Proibição de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Proibição de construção\n\n1 - Nas áreas imediatamente envolventes aos recintos escolares não devem existir quaisquer obstáculos volumosos, naturais ou edificados, que produzam o ensombramento desses recintos.\n\n2 - Sem prejuízo de outras limitações existentes, se mais exigentes, é proibido erigir qualquer construção cuja distância a um edifício escolar previsto, em construção ou já concluído, ou a qualquer ponto do seu logradouro, seja inferior a uma vez e meia a altura da referida construção, com o mínimo de 12 m e o máximo de 30 m.\n\n3 - Sem prejuízo do disposto no número anterior, os afastamentos deverão ser calculados por forma que não exista qualquer obstáculo acima de uma linha traçada formando um ângulo de 35º com o plano horizontal que passa esse ponto a partir de qualquer ponto das estremas sul, nascente e poente do terreno escolar e de 45º na estrema norte do terreno.\n\n4 - Para além das distâncias mínimas referidas nos números anteriores que deverão ser respeitadas relativamente a todos os recintos escolares, poderão ainda ser definidas zonas de protecção mais amplas, em sede de plano municipal de ordenamento do território, sempre que aqueles afastamentos se revelem insuficientes para garantir um enquadramento arquitectónico adequado e uma conveniente integração urbanística.\n\n5 - Para além dos condicionamentos atrás fixados, em sede de plano municipal de ordenamento do território, e sempre que necessário, pode ser criada uma zona de protecção non aedificandi e ou uma zona de construção condicionada de protecção a um edifício escolar.\n\n6 - Os edifícios já existentes que não respeitem o disposto no número anterior podem ser reconstruídos ou por qualquer forma alterados, desde que mantenham a cércea e volumetria que os caracteriza.\n\n7 - Para efeitos do disposto nos números anteriores considera-se previsto o edifício escolar em relação ao qual se mostre satisfeita qualquer das condições estabelecidas no n.º 2 do artigo 20.º do presente diploma."
+  },
+  "70991758": {
+   "fragment_id": "70991828",
+   "type": 1,
+   "heading": "Capítulo V — Projecto e autorização de funcionamento de edifícios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Projecto e autorização de funcionamento de edifícios escolares"
+  },
+  "70991759": {
+   "fragment_id": "70991829",
+   "type": 11,
+   "heading": "Artigo 23.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Projectos\n\n1 - Sem prejuízo de outras aprovações que legal ou regulamentarmente sejam exigíveis, o projecto de qualquer edifício escolar carece de aprovação por parte dos departamentos da administração regional autónoma competentes em matéria de educação e de protecção civil.\n\n2 - A aprovação referida no número anterior apenas pode ser concedida quando se verifique que o projecto cumpre as normas legais e regulamentares aplicáveis, nomeadamente o Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, e de acessibilidade a pessoas com mobilidade condicionada, aprovadas pelo Decreto-Lei n.º 123/97, de 22 de Maio.\n\n3 - O projecto deve obrigatoriamente incluir a análise do risco sismo-vulcânico, do enquadramento geo-ambiental, da estabilidade dos terrenos circundantes e da vulnerabilidade a inundação, maremoto, cheia de mar e outros factores que possam colocar em risco o edifício e os seus utentes.\n\n4 - O disposto nos números anteriores aplica-se aos infantários e jardins-de-infância, mesmo quando integrados em estruturas de apoio social ou valências similares.\n\n5 - As normas específicas que se mostrem necessárias à elaboração dos projectos de construções escolares são fixadas por decreto regulamentar regional."
+  },
+  "70991760": {
+   "fragment_id": "70991830",
+   "type": 11,
+   "heading": "Artigo 24.º — Vistoria e autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Vistoria e autorização de funcionamento\n\n1 - A utilização de qualquer edifício para fins escolares carece de autorização do departamento da administração regional autónoma competente em matéria de educação.\n\n2 - Sem prejuízo de outras licenças e autorizações que a lei preveja, a autorização referida no número anterior depende de vistoria das instalações, após conclusão da obra, solicitada pelo presidente do conselho executivo ou responsável máximo da instituição proprietária do edifício.\n\n3 - A vistoria a que se refere o número anterior é coordenada pelo departamento da administração regional autónoma competente em matéria de educação e executada por:\n\na) Um técnico nomeado pelo director regional competente em matéria de educação;\n\nb) Um técnico nomeado pelo departamento da administração regional competente em matéria de protecção civil;\n\nc) Um técnico nomeado pela câmara municipal do concelho onde o estabelecimento se localiza.\n\n4 - A vistoria referida nos números anteriores tem por objectivos:\n\na) Avaliar a conformidade das instalações face aos projectos submetidos à apreciação, nomeadamente no que se refere à segurança anti-sísmica e contra incêndio;\n\nb) Avaliar a conformidade do edifício, seus acessos, logradouros e equipamentos com o disposto no presente diploma, no Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, e com as normas de acessibilidade a pessoas com mobilidade condicionada constantes do Decreto-Lei n.º 123/97, de 22 de Maio;\n\nc) Verificar a conformidade e licenciamento das instalações eléctrica, de gás e outras que requeiram aprovação administrativa ou técnica de qualquer natureza;\n\nd) Verificar, quando existam elevadores e outros equipamentos mecânicos sujeitos a certificação, a sua conformidade legal;\n\ne) Verificar a existência e funcionalidade dos extintores, disjuntores, iluminação de emergência, sinalização de evacuação e outros equipamentos e dispositivos de segurança previstos para o imóvel;\n\nf) Verificar a existência do plano de segurança e evacuação aprovado nos termos do presente diploma e dos meios necessários à sua activação;\n\ng) Verificar a existência das medidas de controlo do tráfego automóvel e de inserção na via pública que se mostrem necessárias à segurança dos utentes.\n\n5 - Da vistoria é elaborado relatório descrevendo as deficiências detectadas e propondo a aprovação ou rejeição do edifício.\n\n6 - Cabe ao director regional competente em matéria de educação, analisado o relatório referido no número anterior, emitir a autorização de utilização do imóvel.\n\n7 - Cada autorização de funcionamento refere-se a um único recinto escolar, entendendo-se como tal cada imóvel perfeitamente delimitado onde funcionem actividades educativas, mesmo quando existam múltiplos edifícios.\n\n8 - A autorização a que se refere o número anterior é válida por cinco anos contados da data da sua emissão podendo, quando se verifiquem anomalias que não coloquem em causa a segurança dos utentes do edifício, ser condicionada ao cumprimento dos requisitos considerados adequados, ficando nesse caso a sua validade restrita ao ano escolar em que seja emitida."
+  },
+  "70991761": {
+   "fragment_id": "70991831",
+   "type": 11,
+   "heading": "Artigo 25.º — Renovação da autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Renovação da autorização de funcionamento\n\n1 - Até seis meses antes do termo da validade da autorização de funcionamento, deve o presidente do conselho executivo ou o responsável máximo pelo funcionamento do estabelecimento solicitar nova vistoria e a renovação da licença.\n\n2 - Quando tenha sido emitida autorização provisória nos termos do artigo anterior, a nova vistoria deve ser solicitada até 60 dias antes do respectivo termo.\n\n3 - Sempre que sejam introduzidas alterações estruturais ao imóvel ou o mesmo seja ampliado ou por qualquer forma substancialmente alterado na sua configuração ou características construtivas, é obrigatória a realização de nova vistoria e a emissão de nova autorização."
+  },
+  "70991762": {
+   "fragment_id": "70991832",
+   "type": 1,
+   "heading": "Capítulo VI — Normas de segurança a observar no funcionamento de estabelecimentos escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Normas de segurança a observar no funcionamento de estabelecimentos escolares"
+  },
+  "70991763": {
+   "fragment_id": "70991833",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "70991764": {
+   "fragment_id": "70991834",
+   "type": 11,
+   "heading": "Artigo 26.º — Plano de segurança e evacuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Plano de segurança e evacuação\n\n1 - A utilização de um edifício para fins escolares depende da prévia existência de plano de segurança e evacuação aprovado pela entidade competente em matéria de protecção civil.\n\n2 - O plano de segurança e evacuação visa reduzir os riscos associados à ocorrência de intempéries, sismos, calamidades, acidentes ou sinistros de qualquer natureza, incluindo o incêndio, garantir a segurança da evacuação dos ocupantes e facilitar a intervenção dos bombeiros e dos demais agentes de protecção civil.\n\n3 - O plano de segurança e evacuação contém, obrigatoriamente, normas visando a prevenção dos acidentes escolares, incluindo as normas específicas que se mostrem necessárias à segurança na operação do serviço de transporte escolar, tendo em conta o conteúdo constante do artigo 43.º do presente diploma.\n\n4 - A elaboração do plano de segurança e evacuação, a sua revisão, divulgação e a realização dos exercícios necessários à sua operacionalização são responsabilidade do conselho executivo da unidade orgânica do sistema educativo onde o estabelecimento se insira ou do director, ou entidade com funções similares, dos estabelecimentos não integrados na rede pública.\n\n5 - Nos estabelecimentos em funcionamento à data da entrada em vigor do presente diploma, é responsabilidade do conselho executivo da unidade orgânica do sistema educativo onde o estabelecimento se insira ou do director, ou entidade com funções similares, submeter o plano de segurança e evacuação à aprovação pela entidade com competência em matéria de protecção civil no prazo de 180 dias."
+  },
+  "70991765": {
+   "fragment_id": "70991835",
+   "type": 11,
+   "heading": "Artigo 27.º — Responsabilidade pela segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Responsabilidade pela segurança\n\n1 - O responsável pela segurança de cada unidade orgânica é um dos membros do seu conselho executivo ou, nos estabelecimentos não integrados na rede pública, o seu director ou entidade equivalente.\n\n2 - No caso de estabelecimentos escolares integrados em edifícios de ocupação múltipla, o responsável pela segurança dos espaços comuns perante os serviços de protecção civil é a entidade a quem caiba a administração do edifício.\n\n3 - Os órgãos responsáveis pela segurança referidos nos números anteriores podem delegar competências em matéria de gestão corrente da segurança nos coordenadores de núcleo e encarregados de estabelecimento, os quais como delegados de segurança são por inerência os responsáveis locais pela segurança nos respectivos estabelecimentos.\n\n4 - Os serviços de protecção civil podem credenciar outras entidades para execução das tarefas que lhes competem.\n\n5 - Cabe ao responsável pela segurança representar o estabelecimento perante os serviços de protecção civil.\n\n6 - Nos períodos de intervenção dos bombeiros, passam a ser estes a assumir as responsabilidades pela coordenação e comando das operações de socorro, devendo o responsável pela segurança, bem como a entidade referida no n.º 2, prestar toda a colaboração que lhes for solicitada."
+  },
+  "70991766": {
+   "fragment_id": "70991836",
+   "type": 11,
+   "heading": "Artigo 28.º — Plano de segurança e evacuação de novos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Plano de segurança e evacuação de novos estabelecimentos\n\n1 - Sem prejuízo da vistoria para emissão da autorização de funcionamento, a realizar nos termos do artigo 24.º do presente diploma, e previamente àquela, deve ser realizada vistoria pela entidade local competente em matéria de protecção civil, para aprovação do plano de segurança e evacuação e permitir o cumprimento do disposto na alínea c) do n.º 2 do artigo 24.º\n\n2 - A vistoria referida no número anterior deve ser solicitada pelo conselho executivo, director ou entidade que exerça funções similares, directamente à entidade local competente em matéria de protecção civil.\n\n3 - A vistoria deve ser realizada no prazo máximo de 30 dias após o seu pedido e o correspondente relatório deve ser transmitido pela entidade local competente em matéria de protecção civil no prazo máximo de 15 dias após a data da vistoria, prazos após os quais se considera que a aprovação do plano de segurança e evacuação é tácita.\n\n4 - Quando, nas vistorias, forem encontradas inconformidades, os relatórios correspondentes devem referir:\n\na) As inconformidades verificadas;\n\nb) Os prazos fixados para regularização de cada uma delas;\n\nc) A marcação das datas de novas vistorias para verificação da regularização das mesmas."
+  },
+  "70991767": {
+   "fragment_id": "70991837",
+   "type": 11,
+   "heading": "Artigo 29.º — Estabelecimentos em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Estabelecimentos em funcionamento\n\n1 - O disposto no artigo anterior aplica-se à renovação das autorizações de funcionamento requeridas nos termos do artigo 25.º do presente diploma.\n\n2 - Aos estabelecimentos em funcionamento em que se verifiquem obras de alteração ou ampliação que satisfaçam o estabelecido no n.º 3 do artigo 25.º do presente diploma aplica-se igualmente o disposto no artigo anterior."
+  },
+  "70991768": {
+   "fragment_id": "70991838",
+   "type": 11,
+   "heading": "Artigo 30.º — Inspecções pelos serviços de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Inspecções pelos serviços de protecção civil\n\n1 - Os estabelecimentos escolares devem ser sujeitos a inspecções regulares pelos serviços de protecção civil para verificação da manutenção da sua conformidade com o Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, e com o presente diploma.\n\n2 - A periodicidade das inspecções referidas no número anterior não deverá superar o prazo de dois anos.\n\n3 - Para além das inspecções regulares, podem ser efectuadas inspecções extraordinárias a pedido do presidente do conselho executivo, ou do director ou responsável equivalente dos estabelecimentos não integrados na rede pública, a pedido dos organismos da administração educativa ou por iniciativa da entidade local competente em matéria de protecção civil.\n\n4 - Os relatórios das inspecções regulares ou extraordinárias devem satisfazer o disposto nos n.os 3 e 4 do artigo 28.º\n\n5 - Compete ao presidente do conselho executivo promover a regularização das inconformidades nos prazos estipulados."
+  },
+  "70991769": {
+   "fragment_id": "70991839",
+   "type": 8,
+   "heading": "Secção II — Condições de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições de utilização"
+  },
+  "70991770": {
+   "fragment_id": "70991840",
+   "type": 11,
+   "heading": "Artigo 31.º — Acessibilidade dos meios de socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Acessibilidade dos meios de socorro\n\nO acesso dos bombeiros aos estabelecimentos escolares e a manobra dos seus meios de socorro devem ser permanentemente garantidos até aos limites que competem ao presidente do conselho executivo ou à entidade responsável pela administração do edifício, ou parte do edifício, em que os estabelecimentos se integrem, mediante:\n\na) Desimpedimento das zonas exteriores destinadas às operações de socorro, bem como das respectivas vias de acesso, nas condições referidas no capítulo II do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro;\n\nb) Transponibilidade dos vãos de fachada destinados a permitir a entrada dos bombeiros no interior do estabelecimento em caso de incêndio, bem como a fácil progressão no piso a partir deles, nas condições referidas na alínea anterior;\n\nc) Sinalização, sempre que necessário, dos vãos de fachada referidos na alínea anterior;\n\nd) Manobrabilidade dos hidrantes exteriores e interiores, bem como dos comandos dos restantes meios de segurança contra incêndio destinados à utilização dos bombeiros, nas condições referidas no capítulo VII do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro."
+  },
+  "70991771": {
+   "fragment_id": "70991841",
+   "type": 11,
+   "heading": "Artigo 32.º — Caminhos de evacuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Caminhos de evacuação\n\n1 - Os caminhos de evacuação têm de ser mantidos desimpedidos.\n\n2 - Não podem ser colocados nas vias de evacuação, mesmo que a título provisório, quaisquer objectos, materiais ou peças de mobiliário ou de decoração que possam criar os seguintes efeitos:\n\na) Favorecer a deflagração ou o desenvolvimento de incêndio;\n\nb) Ser derrubados ou deslocados por movimentos sísmicos ou durante o processo de evacuação;\n\nc) Reduzir as larguras exigíveis previstas no capítulo IV do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro;\n\nd) Dificultar a abertura de portas de saída;\n\ne) Prejudicar a visibilidade da sinalização ou iludir o sentido das saídas;\n\nf) Prejudicar o funcionamento das instalações de segurança, nomeadamente de alarme, extinção ou controlo de fumos em caso de incêndio."
+  },
+  "70991772": {
+   "fragment_id": "70991842",
+   "type": 11,
+   "heading": "Artigo 33.º — Eficácia dos meios de compartimentação, isolamento e protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Eficácia dos meios de compartimentação, isolamento e protecção\n\n1 - A resistência ao fogo dos elementos e componentes de construção com funções de compartimentação, isolamento e protecção não deve ser comprometida no decurso da utilização do edifício, designadamente pela abertura de orifícios, roços, nichos ou vãos de passagem de canalizações ou condutas.\n\n2 - As portas, bem como as portinholas de acesso a ductos, para as quais se exige resistência ao fogo, devem ser mantidas fechadas, excepto nas condições previstas no artigo 36.º do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro.\n\n3 - Os vãos das vias de evacuação ao ar livre referidas na alínea f) do artigo 17.º do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, devem ser mantidos permanentemente abertos."
+  },
+  "70991773": {
+   "fragment_id": "70991843",
+   "type": 11,
+   "heading": "Artigo 34.º — Conservação e manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Conservação e manutenção\n\n1 - Os espaços dos estabelecimentos devem ser conservados em boas condições de limpeza e de arrumação, devendo ser dada especial atenção a vias verticais de evacuação e a locais de acesso difícil ou de menor utilização, designadamente os situados em caves ou sótãos.\n\n2 - Deve igualmente ser dada particular atenção à colocação de mobiliário ou de objectos que ao serem deslocados ou derrubados por movimentos sísmicos ou pela acção do vento possam constituir perigo para os utentes ou bloquear as rotas de evacuação.\n\n3 - Os dispositivos de iluminação e outros objectos suspensos de tectos ou em paredes devem estar providos de mecanismos de segurança que impeçam a sua queda por acção de sismo ou vento.\n\n4 - Os equipamentos e as instalações técnicas, incluindo os afectos à segurança contra incêndio, devem ser mantidos em boas condições de utilização mediante a sujeição regular a acções de verificação, conservação e manutenção, de acordo com as instruções dos respectivos instaladores ou fabricantes e com a regulamentação que lhes seja aplicável, devendo as anomalias que ocorram ser prontamente rectificadas."
+  },
+  "70991774": {
+   "fragment_id": "70991844",
+   "type": 11,
+   "heading": "Artigo 35.º — Matérias e substâncias perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Matérias e substâncias perigosas\n\n1 - A utilização de matérias ou substâncias particularmente inflamáveis ou explosivas deve ser limitada ao estritamente necessário e sob reserva das condições estabelecidas nos números seguintes.\n\n2 - A utilização de matérias ou substâncias perigosas em actividades de ensino ou de experimentação apenas é permitida em locais expressamente concebidos para tal, tais como salas de trabalhos práticos, laboratórios, oficinas e respectivas salas de preparação.\n\n3 - Não são permitidos a produção, manipulação, depósito ou armazenamento de matérias ou substâncias perigosas nas vias de evacuação nem nos locais classificados como de risco B ou D nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro.\n\n4 - As quantidades de matérias ou substâncias perigosas nos locais concebidos para a sua utilização ou manipulação devem ser limitadas às necessárias a dois dias de funcionamento, sendo a quantidade de líquidos inflamáveis, com ponto de inflamação inferior a 55ºC, limitada a 10 l e a de líquidos inflamáveis, com ponto de inflamação igual ou superior a 55ºC, limitada a 150 l."
+  },
+  "70993975": {
+   "fragment_id": "70991845",
+   "type": 11,
+   "heading": "Artigo 36.º — Plantas e instruções de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Plantas e instruções de segurança\n\n1 - Junto das entradas de locais de risco C, classificados nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, acessíveis aos alunos, tais como salas de trabalhos práticos, laboratórios, oficinas e respectivas salas de preparação, devem ser afixadas plantas dos mesmos, aplicadas em suportes fixos e resistentes, à escala de 1:200, no mínimo, com indicação clara das localizações de:\n\na) Dispositivos de corte de energia eléctrica e de distribuição de fluidos combustíveis ou comburentes;\n\nb) Dispositivos manuais de accionamento do alarme;\n\nc) Meios de socorro e de extinção de incêndio;\n\nd) Dispositivos manuais de comando de outras instalações de segurança, nomeadamente de controlo de fumos.\n\n2 - Junto das entradas principais de cada piso dos estabelecimentos devem ser dispostas plantas de segurança do piso, nas condições do disposto no número anterior, as quais devem ainda destacar o ponto onde a planta se encontra afixada e as saídas do piso, bem como as vias horizontais de evacuação que a elas conduzem.\n\n3 - Nos locais classificados como de risco C nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, contendo equipamentos perigosos, designadamente cozinhas, oficinas, postos de transformação, grupos electrogéneos e centrais térmicas, devem ser afixadas instruções particulares de segurança relativas à respectiva operação."
+  },
+  "70993976": {
+   "fragment_id": "70991846",
+   "type": 8,
+   "heading": "Secção III — Modificações, alterações e execução de trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Modificações, alterações e execução de trabalhos"
+  },
+  "70993977": {
+   "fragment_id": "70991847",
+   "type": 11,
+   "heading": "Artigo 37.º — Modificações de acabamentos, mobiliário ou decoração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Modificações de acabamentos, mobiliário ou decoração\n\n1 - Com a excepção prevista no número seguinte, nas operações de modificação de acabamentos, mobiliário ou decoração, os materiais a aplicar devem respeitar as limitações de reacção ao fogo impostas na secção IV do capítulo III do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro.\n\n2 - Na decoração de interiores temporária, destinada a festas, exposições ou outras actividades ocasionais é permitida a utilização de elementos de decoração cujos materiais sejam da classe de reacção ao fogo não especificada, desde que aplicados em suportes da classe de reacção ao fogo M3, mediante concordância prévia da entidade local competente em matéria de protecção civil e salvaguardadas as seguintes precauções:\n\na) Afastamento adequado desses materiais de fontes de calor;\n\nb) Disponibilidade de meios de primeira intervenção suplementares apropriados;\n\nc) Interdição, nos espaços envolvidos, do uso de chamas nuas, elementos incandescentes não protegidos ou de aparelhos ou equipamentos susceptíveis de produzir faíscas.\n\n3 - Os elementos de decoração temporária referidos no número anterior devem ser desmontados num prazo não superior a quarenta e oito horas após o termo das actividades a que se destinaram."
+  },
+  "70993978": {
+   "fragment_id": "70991848",
+   "type": 11,
+   "heading": "Artigo 38.º — Alterações de uso, lotação ou configuração dos espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alterações de uso, lotação ou configuração dos espaços\n\n1 - Os locais dos estabelecimentos escolares devem ter uso e lotação compatíveis com as finalidades para que foram concebidos.\n\n2 - Carecem de concordância prévia da entidade local competente em matéria de protecção civil todas as alterações a efectuar nos espaços dos estabelecimentos, mesmo que ocasionais, sempre que se verifique qualquer das seguintes circunstâncias:\n\na) Aumento da lotação autorizada que esteja fixada no plano de segurança e evacuação em vigor;\n\nb) Alteração da classificação do tipo de local, de acordo com o artigo 6.º do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro;\n\nc) Redução do número e da largura de saídas ou de vias de evacuação;\n\nd) Abertura de vãos de passagem ou criação de novas comunicações horizontais ou verticais que interfiram com os meios de compartimentação, isolamento e protecção inicialmente implementados;\n\ne) Obstrução das aberturas permanentes das vias de evacuação ao ar livre.\n\n3 - Em caso de cedência temporária das instalações escolares a terceiros, nos termos regulamentares aplicáveis, apenas deve ser permitido aos utilizadores eventuais o acesso aos locais estritamente necessários, devendo os restantes ser vedados mediante sinalização adequada, bem como outros meios considerados adequados pelo presidente do conselho executivo, pelo director ou entidade com funções equivalentes."
+  },
+  "70993979": {
+   "fragment_id": "70991849",
+   "type": 11,
+   "heading": "Artigo 39.º — Execução de trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Execução de trabalhos\n\n1 - Os trabalhos de conservação, manutenção, beneficiação, reparação, modificação ou alteração que envolvam procedimentos que possam prejudicar a segurança ou a capacidade de evacuação dos ocupantes devem, em regra, ser realizados fora dos períodos de funcionamento dos estabelecimentos escolares.\n\n2 - Sem prejuízo do disposto no artigo seguinte, no caso de manifesta impossibilidade de satisfação do disposto no número anterior, devem ser previamente implementados meios de evacuação alternativos satisfazendo as disposições do capítulo IV do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro.\n\n3 - Os trabalhos que envolvam a utilização de substâncias, materiais, equipamentos ou processos que apresentem riscos de incêndio ou de explosão, nomeadamente pela produção de chamas nuas, faíscas ou elementos incandescentes em contacto com o ar associados à presença de materiais facilmente inflamáveis, carecem de concordância prévia da entidade local competente em matéria de protecção civil, devendo a zona de intervenção ser convenientemente isolada e dotada dos meios de intervenção e de socorro suplementares apropriados ao risco em causa."
+  },
+  "70993980": {
+   "fragment_id": "70991850",
+   "type": 11,
+   "heading": "Artigo 40.º — Realização de obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Realização de obras\n\n1 - Quando seja necessário proceder, sem interrupção da actividade lectiva, à realização de quaisquer obras de construção civil no imóvel ou no seu recinto, devem as mesmas ser precedidas de autorização por parte do director regional competente em matéria de educação.\n\n2 - A autorização a que se refere o número anterior apenas pode ser emitida quando se verifique a existência de um plano de segurança que garanta a vedação das áreas a ser intervencionadas e que os alunos e demais utentes do edifício não fiquem expostos a um nível inaceitável de risco."
+  },
+  "70993981": {
+   "fragment_id": "70991851",
+   "type": 11,
+   "heading": "Artigo 41.º — Pareceres prévios dos serviços de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Pareceres prévios dos serviços de protecção civil\n\n1 - As concordâncias prévias referidas nos artigos anteriores devem ser solicitadas por escrito à entidade local competente em matéria de protecção civil, tendo os respectivos pareceres carácter vinculativo.\n\n2 - No caso das modificações visadas no artigo 37.º, os pedidos de concordância prévia devem compreender as seguintes informações:\n\na) Locais para onde se pretendem as modificações;\n\nb) Classificação da reacção ao fogo dos novos materiais a aplicar;\n\nc) Datas previstas para início e finalização dos trabalhos de modificação;\n\nd) Datas previstas para desmontagem dos elementos de decoração temporária.\n\n3 - No caso das alterações visadas no artigo 38.º, os pedidos de concordância prévia devem compreender as seguintes informações:\n\na) Locais para onde se pretendem as alterações de uso, lotação ou configuração;\n\nb) Natureza das novas utilizações e lotações previstas para cada local;\n\nc) Caminhos de evacuação considerados;\n\nd) Datas previstas para início e finalização dos trabalhos de alteração.\n\n4 - No caso dos trabalhos visados no artigo 39.º, os pedidos de concordância prévia devem compreender as seguintes informações:\n\na) Locais para onde se pretende a execução dos trabalhos;\n\nb) Natureza das operações previstas e meios a empregar na sua execução;\n\nc) Data de início e duração dos mesmos.\n\n5 - Em quaisquer dos casos referidos nos números anteriores, os pedidos de concordância prévia devem compreender:\n\na) Eventuais meios de segurança compensatórios ou suplementares a utilizar;\n\nb) Ajustamentos, porventura necessários, ao plano de segurança e evacuação.\n\n6 - A entidade local competente em matéria de protecção civil dispõe de 15 dias para se pronunciar sobre os pedidos de concordância, prazo após o qual se considera existir concordância tácita.\n\n7 - Os pareceres de concordância prévia, quando for caso disso, devem indicar claramente os condicionamentos a observar, bem como o calendário das vistorias eventualmente consideradas para a respectiva verificação."
+  },
+  "70993982": {
+   "fragment_id": "70991852",
+   "type": 8,
+   "heading": "Secção IV — Organização da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Organização da segurança"
+  },
+  "70993983": {
+   "fragment_id": "70991853",
+   "type": 11,
+   "heading": "Artigo 42.º — Vigilância e protecção dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Vigilância e protecção dos estabelecimentos\n\n1 - Durante os períodos de funcionamento dos estabelecimentos escolares, deve ser assegurada a vigilância contra sinistros.\n\n2 - Nos estabelecimentos com locais de risco D, classificados nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, ou naqueles destinados a uma lotação superior a 200 pessoas, deve ser previsto um posto de segurança destinado a centralizar toda a informação e coordenação de meios logísticos em caso de emergência, bem como os meios principais de recepção, validação e difusão de alarmes e de transmissão do alerta.\n\n3 - O posto de segurança pode ser estabelecido na recepção ou portaria, nos serviços administrativos ou noutro local onde haja presença permanente de pessoal docente ou não docente, sempre que possível em local com ingresso reservado e resguardado ou protegido do fogo, e deve ser mantido ocupado por um delegado de segurança durante os períodos de funcionamento do estabelecimento.\n\n4 - Nos estabelecimentos destinados a uma lotação superior a 500 pessoas, deve ser implementado um serviço de segurança e evacuação, constituído por um delegado de segurança com as funções de chefe de equipa, comandando um número de agentes adequado à dimensão do estabelecimento.\n\n5 - O delegado de segurança e os agentes são recrutados de entre o pessoal docente e não docente em serviço no estabelecimento, devendo receber a formação adequada.\n\n6 - Durante os períodos de funcionamento dos estabelecimentos abrangidos pelo n.º 4, deve ser assegurada a presença, no mínimo, simultânea de um chefe de equipa e de um agente.\n\n7 - O chefe de equipa é obrigatoriamente um membro do conselho executivo, podendo os restantes agentes de segurança ocupar-se habitualmente com outras tarefas, desde que se encontrem permanentemente susceptíveis de contacto com o posto de segurança e rapidamente mobilizáveis.\n\n8 - O serviço de segurança e evacuação deve ser constituído por pessoas com adequada aptidão física, conhecimentos técnicos, formação e treino em matéria de segurança comprovados por iniciativa do presidente do órgão executivo e de acordo com padrões estabelecidos pela entidade competente em matéria de protecção civil.\n\n9 - As funções nas equipas de segurança constituem serviço não lectivo de aceitação obrigatória pelo pessoal docente e não docente, cabendo ao presidente do conselho executivo a designação da sua composição."
+  },
+  "70993984": {
+   "fragment_id": "70991854",
+   "type": 11,
+   "heading": "Artigo 43.º — Conteúdo do plano de segurança e evacuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Conteúdo do plano de segurança e evacuação\n\n1 - O plano de segurança e evacuação deve ser constituído pelos seguintes elementos:\n\na) Identificação do estabelecimento, sua localização e contactos telefónicos;\n\nb) Organogramas hierárquicos e funcionais do sistema de segurança e evacuação nas situações normal e de emergência;\n\nc) Identificação, contactos telefónicos permanentes e procedimentos a seguir em contactos de emergência com as seguintes entidades:\n\ni) Membro do conselho executivo, director ou entidade similar responsável pela segurança;\n\nii) Delegados de segurança;\n\niii) Interlocutores das entidades locais e regionais competentes em matéria de protecção civil;\n\niv) Interlocutores das autoridades policiais e sanitárias;\n\nv) Interlocutores dos serviços da administração educativa;\n\nd) Normas de actuação a adoptar na recepção, validação e divulgação de alarmes, contacto com as famílias, relações públicas, contacto com a comunicação social e designação de porta-voz, a definir nos termos do artigo 44.º do presente diploma;\n\ne) Normas de evacuação a seguir em caso de sinistro, emergência grave ou de evacuação do edifício ou da localidade onde este se situe, a elaborar nos termos do artigo 45.º do presente diploma;\n\nf) Plantas, à escala de 1:100, com indicação inequívoca dos seguintes dados:\n\ni) Classificação e lotação previstas para cada local do estabelecimento, de acordo com o disposto nos artigos 6.º e 7.º do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro;\n\nii) Vias horizontais e verticais de evacuação, incluindo os eventuais percursos em comunicações comuns;\n\niii) Localização de todos os dispositivos e equipamentos ligados à segurança contra incêndio;\n\ng) Regras de funcionamento e de comportamento, a adoptar pelo pessoal, destinadas a garantir a manutenção das condições de segurança no decurso da utilização do edifício nos domínios de:\n\ni) Acessibilidade dos meios de socorro;\n\nii) Praticabilidade dos caminhos de evacuação;\n\niii) Eficácia dos meios de compartimentação, isolamento e protecção;\n\niv) Conservação dos espaços do estabelecimento em condições de limpeza e arrumação adequadas;\n\nv) Segurança na produção, manipulação e armazenamento de matérias e substâncias perigosas;\n\nvi) Sensibilização dos alunos para os riscos de incêndio.\n\n2 - O plano de segurança e evacuação deve ainda conter as orientações a seguir em caso de violência ou perturbação grave do funcionamento do estabelecimento.\n\n3 - Ao plano de segurança e evacuação devem ser anexados os seguintes elementos:\n\na) Instruções de funcionamento dos principais dispositivos e equipamentos técnicos e procedimentos a adoptar para rectificação de anomalias previsíveis;\n\nb) Normas a seguir na prevenção de acidentes escolares, nomeadamente na utilização de laboratórios, dispositivos técnicos e equipamentos lúdicos, e na circulação no interior dos edifícios escolares e seus logradouros, com identificação dos locais onde seja interdita a entrada dos alunos;\n\nc) Normas a seguir nas zonas de embarque e desembarque do transporte escolar e comportamentos a adoptar durante aquele transporte;\n\nd) Programas de conservação e manutenção, com estipulação de calendários e listas de testes de verificação periódica de dispositivos, equipamentos e instalações, designadamente dos seguintes:\n\ni) Dispositivos de fecho e de retenção de portas e portinholas resistentes ao fogo;\n\nii) Dispositivos de obturação de condutas;\n\niii) Fontes centrais e locais de energia de emergência;\n\niv) Aparelhos de iluminação de emergência;\n\nv) Aparelhos de produção de calor e de confecção de alimentos;\n\nvi) Elevadores, ascensores e outros equipamentos electromecânicos;\n\nvii) Instalações de aquecimento, ventilação e condicionamento de ar;\n\nviii) Instalações de extracção de vapores e gorduras de cozinhas;\n\nix) Instalações de gases combustíveis;\n\nx) Instalações de alarme e alerta;\n\nxi) Instalações de controlo de fumos em caso de incêndio;\n\nxii) Meios de extinção;\n\nxiii) Quando existam, sistemas de pressurização de água para combate a incêndio;\n\ne) Caderno de registo, destinado à inscrição de ocorrências relevantes e à guarda de relatórios relacionados com a segurança contra incêndio, o qual deve compreender, designadamente, os seguintes elementos:\n\ni) Relatórios de vistoria e de inspecção;\n\nii) Anomalias observadas nas operações de verificação, conservação ou manutenção das instalações técnicas, incluindo datas da sua detecção e da respectiva reparação;\n\niii) Descrição sumária das modificações, alterações e trabalhos perigosos efectuados no estabelecimento, com indicação das datas de seu início e finalização;\n\niv) Incidentes e avarias directa ou indirectamente relacionados com a segurança contra incêndio;\n\nv) Relatórios sucintos das acções de instrução e de formação, bem como dos exercícios de segurança visados no artigo 46.º do presente diploma com menção dos aspectos mais relevantes.\n\n4 - O plano de segurança e evacuação deve ser coordenado e integrado com os planos municipais de emergência e com os outros instrumentos de planeamento de emergência ou segurança relevantes.\n\n5 - O plano de segurança e evacuação e os seus anexos devem ser actualizados sempre que as modificações ou alterações efectuadas no estabelecimento o justifiquem e sujeitos a verificação nas inspecções dos serviços de protecção civil.\n\n6 - O plano de segurança e evacuação deve ser revisto regularmente, não podendo decorrer entre revisões consecutivas um período superior a cinco anos escolares."
+  },
+  "70993985": {
+   "fragment_id": "70991855",
+   "type": 11,
+   "heading": "Artigo 44.º — Normas de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Normas de actuação\n\nAs normas de actuação devem contemplar a organização das operações a desencadear por delegados e agentes de segurança em caso de ocorrência de uma situação perigosa e abranger os seguintes domínios:\n\na) Conhecimento prévio dos riscos presentes no estabelecimento, nomeadamente nos locais de risco C, classificados nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro;\n\nb) Procedimentos a adoptar em caso de detecção ou percepção de um alarme de incêndio;\n\nc) Execução da manobra dos dispositivos de segurança, designadamente de corte da alimentação de energia eléctrica e de combustíveis, de fecho de portas resistentes ao fogo e das instalações de controlo de fumos;\n\nd) Activação dos meios de intervenção apropriados a cada circunstância;\n\ne) Planificação da difusão dos alarmes restritos e geral e transmissão do alerta;\n\nf) Prestação de primeiros socorros;\n\ng) Acolhimento, informação, orientação e apoio dos bombeiros;\n\nh) Coordenação das operações previstas nas normas de evacuação."
+  },
+  "70993986": {
+   "fragment_id": "70991856",
+   "type": 11,
+   "heading": "Artigo 45.º — Normas de evacuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Normas de evacuação\n\nAs normas de evacuação devem contemplar instruções a observar por todo o pessoal do estabelecimento, docente e não docente, relativas à articulação das operações destinadas a garantir a evacuação ordenada, total ou parcial, dos alunos nas circunstâncias consideradas perigosas pelo presidente do órgão executivo e abranger os seguintes domínios:\n\na) Encaminhamento rápido e seguro dos alunos para o exterior ou para uma zona isenta de perigo, mediante referenciação de vias de evacuação, pontos de encontro e locais de reunião;\n\nb) Procedimento a seguir em caso de evacuação da localidade, coordenação com outros órgãos, pontos de reunião e informação pública;\n\nc) Procedimentos a adoptar em caso de risco sismo-vulcânico iminente, de maremoto, de cheia de mar ou outra situação que exija actuação autónoma em emergência;\n\nd) Auxílio a pessoas com capacidades limitadas ou em dificuldade, de forma a assegurar que ninguém fique bloqueado nem regresse ao local do sinistro no decurso das operações de emergência."
+  },
+  "70993987": {
+   "fragment_id": "70991857",
+   "type": 11,
+   "heading": "Artigo 46.º — Instrução, formação e exercícios de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Instrução, formação e exercícios de segurança\n\n1 - Pelo menos uma vez em cada ano escolar, de preferência no início das actividades lectivas, deve o plano de segurança e evacuação ser divulgado junto da comunidade escolar e ser testado através da realização de exercício adequado, envolvendo todas as entidades que nele tenham intervenção.\n\n2 - Nos estabelecimentos escolares é obrigatória a execução de programas para sensibilização e instrução de todo o pessoal docente e não docente no domínio da segurança e evacuação.\n\n3 - No prazo máximo de 30 dias após o início de cada ano lectivo devem ser realizadas em todos os estabelecimentos escolares:\n\na) Sessões informativas do pessoal docente e não docente para:\n\ni) Familiarização com o estabelecimento;\n\nii) Esclarecimento das regras de funcionamento e de comportamento estipuladas no plano de segurança e evacuação;\n\niii) Instrução de técnicas básicas de manipulação dos meios de primeira intervenção, nomeadamente extintores portáteis e carretéis;\n\nb) Instrução dos delegados de segurança a quem sejam cometidas tarefas específicas:\n\ni) Na concretização dos planos de actuação e de evacuação;\n\nii) Na realização de exercícios para treino das normas anteriormente referidas, envolvendo todos os ocupantes, com vista à criação de rotinas de comportamento e de actuação e ainda ao aperfeiçoamento das normas de actuação e de evacuação em situação de emergência.\n\n4 - A realização de exercícios de evacuação que envolvam simulacros, nomeadamente com utilização de substâncias fumígenas, deve ser levada a cabo mediante informação prévia dos ocupantes e com a colaboração dos bombeiros e de delegados da protecção civil.\n\n5 - Quando as características da população escolar inviabilizem a realização de exercícios de evacuação, devem ser adoptadas medidas de segurança compensatórias, designadamente nos domínios da vigilância do fogo e das instruções de segurança."
+  },
+  "70993988": {
+   "fragment_id": "70991858",
+   "type": 11,
+   "heading": "Artigo 47.º — Distribuição do plano de segurança e evacuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Distribuição do plano de segurança e evacuação\n\n1 - Uma cópia completa de todos os planos de segurança e evacuação em vigor dos estabelecimentos integrados em cada unidade orgânica deve estar na posse do respectivo conselho executivo ou do director ou entidade que exerça funções similares.\n\n2 - Devem igualmente dispor de uma cópia completa do documento referente ao respectivo estabelecimento os coordenadores de núcleo, os encarregados de estabelecimento e quem seja responsável pela segurança dos estabelecimentos integrados no sector particular, cooperativo e solidário.\n\n3 - O responsável pela segurança envia uma cópia do documento ao quartel de bombeiros e à esquadra da força de segurança pública que sirva a localidade onde se situe o estabelecimento."
+  },
+  "70993989": {
+   "fragment_id": "70991859",
+   "type": 11,
+   "heading": "Artigo 48.º — Formação para a protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Formação para a protecção civil\n\n1 - Inserida na área disciplinar de formação cívica, área de projecto ou outra que venha a ser determinada no âmbito da operacionalização do currículo regional, é obrigatória a realização por todos os alunos de pelo menos quinze horas anuais de formação sobre temáticas adequadas ao seu nível etário versando:\n\na) A protecção civil, sua organização e formas de actuação;\n\nb) O plano de segurança e evacuação da escola, seu conteúdo e obrigações no âmbito da sua execução;\n\nc) Segurança rodoviária;\n\nd) Primeiros socorros e ressuscitação cárdio-respiratória;\n\ne) Segurança nas zonas balneares e no mar;\n\nf) Segurança contra fogos;\n\ng) Outros temas que venham a ser propostos pelo departamento da administração regional autónoma competente em matéria de protecção civil.\n\n2 - Cabe aos departamentos da administração regional autónoma competentes em matéria de educação e de protecção civil produzir os materiais pedagógicos adequados e organizar os programas de formação para o pessoal docente necessários à execução do presente artigo."
+  },
+  "70993990": {
+   "fragment_id": "70991860",
+   "type": 8,
+   "heading": "Secção V — Segurança rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Segurança rodoviária"
+  },
+  "70993991": {
+   "fragment_id": "70991861",
+   "type": 11,
+   "heading": "Artigo 49.º — Inserção na via pública e trânsito automóvel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Inserção na via pública e trânsito automóvel\n\n1 - Sempre que a saída de um edifício escolar ou do seu logradouro se situe a menos de 5 m do bordo da faixa de rodagem, medidos na sua perpendicular, é obrigatória a colocação de uma grade ou estrutura de retenção similar.\n\n2 - Não é permitida a inserção da entrada de um edifício escolar ou do seu logradouro em pontos da via pública onde não exista visibilidade plena das faixas de rodagem em pelo menos 75 m em cada direcção, excepto quando na via exista restrição da velocidade máxima a 30 km/h ou a distância entre a saída do imóvel ou logradouro se situe a mais de 20 m do bordo da faixa de rodagem, medidos na sua perpendicular.\n\n3 - Excepto em situações de emergência e para efeitos de carga e descarga de mercadorias é proibido o trânsito automóvel no interior dos recintos escolares.\n\n4 - Exceptua-se do disposto no número anterior o acesso a lugares de estacionamento, quando devidamente assinalados e separados do restante logradouro escolar por vedação adequada, desde que este se faça por entrada privativa não acessível aos alunos."
+  },
+  "70993992": {
+   "fragment_id": "70991862",
+   "type": 1,
+   "heading": "Capítulo VII — Construção, manutenção e equipamento das infra-estruturas escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Construção, manutenção e equipamento das infra-estruturas escolares"
+  },
+  "70993993": {
+   "fragment_id": "70991863",
+   "type": 11,
+   "heading": "Artigo 50.º — Construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Construção\n\n1 - No âmbito dos investimentos previstos no domínio da construção de infra-estruturas escolares, as autarquias adquirem os terrenos, elaboram o projecto e constroem os edifícios escolares destinados ao funcionamento da educação pré-escolar e do ensino básico que constem da carta educativa por elas aprovada.\n\n2 - Compete à administração regional autónoma, supletivamente ao disposto no n.º 1 do artigo 19.º da Lei n.º 159/99, de 14 de Setembro, a aquisição, projecto e construção das instalações escolares destinadas aos 2.º e 3.º ciclos do ensino básico e ao ensino secundário.\n\n3 - Supletivamente, e quando conste da carta escolar em vigor, pode a administração regional autónoma projectar e construir ou ampliar instalações escolares, propriedade da Região, destinadas ao funcionamento da educação pré-escolar ou do 1.º ciclo do ensino básico quando:\n\na) Integradas em unidades orgânicas que englobem quaisquer dos outros níveis ou ciclos de ensino;\n\nb) Em situações excepcionais, decorrentes de calamidades ou outras similares, e mediante deliberação do Conselho do Governo."
+  },
+  "70993994": {
+   "fragment_id": "70991864",
+   "type": 11,
+   "heading": "Artigo 51.º — Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Manutenção\n\n1 - Sem prejuízo de eventuais contratos de colaboração, celebrados nos termos da alínea c) do n.º 1 do artigo 19.º do Decreto Legislativo Regional n.º 32/2002/A, de 8 de Agosto, cabe à administração regional autónoma a manutenção dos edifícios escolares que sejam propriedade da Região.\n\n2 - Sem prejuízo de eventuais contratos de cooperação, celebrados ao abrigo do disposto no Decreto Legislativo Regional n.º 32/2002/A, de 8 de Agosto, cabem às autarquias os investimentos na manutenção dos edifícios escolares que sejam sua propriedade, nomeadamente suportando os custos com os consumos de electricidade e água."
+  },
+  "70993995": {
+   "fragment_id": "70991865",
+   "type": 11,
+   "heading": "Artigo 52.º — Equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Equipamento\n\n1 - Constitui encargo da administração regional autónoma, supletivamente ao disposto no n.º 1 do artigo 19.º da Lei n.º 159/99, de 14 de Setembro, a aquisição e manutenção do mobiliário e equipamento escolar básico, do material didáctico e dos equipamentos tecnológicos, lúdicos e desportivos necessários ao funcionamento dos estabelecimentos de educação e de ensino da rede pública.\n\n2 - Os mobiliários e equipamentos escolares a que se refere o número anterior, que sejam adquiridos pela administração regional autónoma, são propriedade da Região, ficando integrados no património, sob administração da unidade orgânica do sistema educativo em que o estabelecimento escolar se insira."
+  },
+  "70993996": {
+   "fragment_id": "70991866",
+   "type": 11,
+   "heading": "Artigo 53.º — Transferência de património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Transferência de património\n\nPor resolução do Governo Regional, a solicitação da autarquia interessada, podem ser transferidos para o património municipal imóveis escolares propriedade da Região."
+  },
+  "70993997": {
+   "fragment_id": "70991867",
+   "type": 1,
+   "heading": "Capítulo VIII — Desafectação de edifícios da rede educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Desafectação de edifícios da rede educativa"
+  },
+  "70993998": {
+   "fragment_id": "70991868",
+   "type": 11,
+   "heading": "Artigo 54.º — Desafectação da rede pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Desafectação da rede pública\n\n1 - Quando um edifício escolar deixe em definitivo de interessar para o funcionamento do sistema educativo, por despacho do membro do Governo Regional competente em matéria de educação, é declarada a sua desafectação de fins escolares.\n\n2 - A desafectação a que se refere o número anterior tem como efeito o termo da servidão administrativa a que se referem os artigos 20.º a 22.º do presente diploma.\n\n3 - Quando o edifício seja propriedade municipal deve o mesmo ser, de imediato, entregue à autarquia respectiva."
+  },
+  "70993999": {
+   "fragment_id": "70991869",
+   "type": 11,
+   "heading": "Artigo 55.º — Desafectação de estabelecimentos particulares, cooperativos e solidários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Desafectação de estabelecimentos particulares, cooperativos e solidários\n\n1 - Quando um estabelecimento de educação ou ensino, pertença de instituição do sector particular, cooperativo ou solidário, incluindo as escolas profissionais e as creches e infantários, deixe definitivamente de estar afecto a uso educativo, deve, no prazo máximo de 60 dias, o seu director, ou responsável pela instituição proprietária, informar o presidente da câmara municipal da desafectação.\n\n2 - A notificação a que se refere o número anterior tem como efeito o termo da servidão administrativa a que se referem os artigos 20.º a 22.º do presente diploma."
+  },
+  "70994000": {
+   "fragment_id": "70991870",
+   "type": 1,
+   "heading": "Capítulo IX — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Regime contra-ordenacional"
+  },
+  "70994001": {
+   "fragment_id": "70991871",
+   "type": 11,
+   "heading": "Artigo 56.º — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Regime contra-ordenacional\n\n1 - Sem prejuízo da aplicação das coimas que estejam previstas na legislação aplicável ao exercício de cada uma das actividades ou acções ali previstas, constitui contra-ordenação punível com coima de (euro) 500 a (euro) 2500 a violação do disposto no n.º 1 do artigo 21.º e no n.º 4 do artigo 26.º do presente diploma.\n\n2 - Sem prejuízo do disposto no número seguinte, constitui contra-ordenação punível com coima de (euro) 1000 a (euro) 5000 a violação do disposto no artigo 22.º do presente diploma.\n\n3 - Para além da coima prevista no número anterior, o proprietário do imóvel ilegalmente construído fica obrigado à sua demolição até 30 dias após ser para tal notificado, sob pena de a administração proceder à demolição, a expensas daquele.\n\n4 - Incorre em coima de (euro) 1000 a (euro) 2500 o responsável pela segurança de qualquer estabelecimento de educação e de ensino que não dê execução às obrigações constantes nos artigos 25.º a 47.º do presente diploma.\n\n5 - A negligência é punível.\n\n6 - São competentes para levantar autos de notícia referentes às contra-ordenações referidas nos números anteriores:\n\na) Os serviços autárquicos;\n\nb) As entidades com competência fiscalizadora em razão da matéria;\n\nc) Os conselhos executivos das unidades orgânicas do sistema educativo;\n\nd) Os serviços inspectivos da educação;\n\ne) As corporações de bombeiros e os serviços inspectivos da protecção civil.\n\n7 - São competentes para instaurar e instruir os processos de contra-ordenação:\n\na) A autarquia;\n\nb) A direcção regional competente em matéria de construções escolares;\n\nc) Os serviços de inspecção nas áreas da educação, da protecção civil, das actividades económicas e do ambiente e ordenamento do território.\n\n8 - A aplicação das coimas cabe ao presidente da autarquia ou à entidade da administração regional autónoma competente em razão do serviço ou organismo que tenha instruído o processo.\n\n9 - O produto das coimas previstas no presente artigo constitui receita da autarquia ou da Região, consoante o processo tenha sido instruído por aquela ou pelos serviços tutelados pela administração regional autónoma."
+  },
+  "70994002": {
+   "fragment_id": "70991872",
+   "type": 1,
+   "heading": "Capítulo X — Normas transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Normas transitórias e finais"
+  },
+  "70994003": {
+   "fragment_id": "70991873",
+   "type": 11,
+   "heading": "Artigo 57.º — Infra-estruturas escolares da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Infra-estruturas escolares da Região\n\n1 - Integram o património municipal, com dispensa de qualquer formalidade, os edifícios escolares que não tenham ainda sido registados a favor da autarquia e se encontrem em qualquer das seguintes categorias:\n\na) Tenham sido construídos ou adquiridos pelas autarquias ou a elas legados, incluindo as antigas escolas paroquiais;\n\nb) Tenham sido construídos na decorrência do Plano dos Centenários, aprovado em Conselho de Ministros de 15 de Julho de 1941;\n\nc) Tenham sido construídos ao abrigo do disposto na Lei n.º 2107, de 5 de Abril de 1961, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 49070, de 20 de Junho de 1969, 299/70, de 27 de Junho, 487/71, de 9 de Novembro, 675/73, de 20 de Dezembro, e pela Lei n.º 1/87, de 6 de Janeiro;\n\nd) Resultem da reconstrução, requalificação ou ampliação, mesmo quando executada pela administração regional autónoma ou pelas extintas Juntas Gerais, de imóveis que se integrem em qualquer das alíneas anteriores;\n\ne) Tenham sido construídos pela autarquia em colaboração ou cooperação com a administração regional autónoma, mesmo quando o terreno se encontre registado a favor da Região ou das extintas Juntas Gerais.\n\n2 - Constituem património da Região os edifícios escolares que se integrem em qualquer das seguintes categorias:\n\na) Estejam registados a favor das extintas Juntas Gerais dos Distritos Autónomos ou da Região, com excepção dos que se integrem em qualquer das categorias do número anterior;\n\nb) Foram ou venham a ser adquiridos ou construídos pela administração regional autónoma em imóveis propriedade da Região.\n\n3 - O disposto no presente diploma constitui título bastante para efeitos de registo de edifícios escolares a favor das autarquias ou da Região."
+  },
+  "70994004": {
+   "fragment_id": "70991874",
+   "type": 11,
+   "heading": "Artigo 58.º — Edifícios escolares existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Edifícios escolares existentes\n\n1 - Até ao termo do 4.º ano escolar posterior à entrada em vigor do presente diploma, os departamentos da administração regional autónoma competentes em matéria de educação e de protecção civil procedem à vistoria de todos os edifícios escolares em utilização.\n\n2 - Os edifícios escolares que não tenham as condições necessárias à emissão da respectiva autorização de funcionamento, nos termos do presente diploma, devem, no prazo de um ano, ser objecto das intervenções correctivas que se mostrem necessárias.\n\n3 - No termo dos prazos referidos nos números anteriores são desafectados do uso escolar os imóveis nos quais a intervenção de correcção seja inviável ou o seu custo seja desproporcionado face ao benefício resultante da manutenção em funcionamento do estabelecimento de educação ou ensino."
+  },
+  "70994005": {
+   "fragment_id": "70994075",
+   "type": 11,
+   "heading": "Artigo 59.º — Actividades, estruturas e edifícios já existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Actividades, estruturas e edifícios já existentes\n\n1 - As actividades, estabelecimentos e instalações da tipologia ou com as características previstas no n.º 1 do artigo 21.º que já se encontrem licenciadas à data de entrada em vigor do presente diploma, na área de protecção de edifícios escolares existentes ou em construção, podem manter-se até ao termo do período de validade do respectivo licenciamento.\n\n2 - Quando o licenciamento termine antes de decorridos 10 anos, após a entrada em vigor do presente diploma, pode o mesmo ser excepcionalmente prolongado até àquele limite temporal.\n\n3 - O disposto nos números anteriores aplica-se às actividades, estabelecimentos e instalações existentes em local que fique abrangido pela zona de protecção de novos edifícios escolares, contando-se os prazos ali estabelecidos a partir da data de entrada em vigor do decreto que estabeleça medidas cautelares na zona de implantação do edifício ou, quando este não exista, da data de notificação ao município da intenção de construção da escola ou de aprovação da carta educativa ou da carta escolar onde aquela esteja prevista.\n\n4 - Não existindo qualquer das condições previstas na parte final do número anterior, os prazos contam-se a partir do 1.º dia do ano escolar em que o imóvel seja utilizado para fins educativos.\n\n5 - O disposto no artigo 22.º não se aplica às construções que já se encontrem licenciadas aquando da notificação a que se refere o n.º 3 do artigo 20.º ou à data de aprovação da carta educativa ou carta escolar."
+  },
+  "70994006": {
+   "fragment_id": "70994076",
+   "type": 11,
+   "heading": "Artigo 60.º — Alteração ao Decreto Legislativo Regional n.º 32/2002/A, de 22 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Alteração ao Decreto Legislativo Regional n.º 32/2002/A, de 22 de Agosto\n\nO artigo 15.º do Decreto Legislativo Regional n.º 32/2002/A, de 22 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 15.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Construção, ampliação ou grande reparação, incluindo a alteração global das instalações eléctricas e de telecomunicações e as intervenções necessárias à adequação do edifício às tecnologias de informação e comunicação;\n\nc) ...\n\nd) ...\n\n2 - ...\n\n3 - A cooperação referida nas alíneas b) a d) do n.º 1 corresponde a 25% do montante global investido, sendo majorado para 50% quando o investimento se destine a substituir um ou mais edifícios escolares, no âmbito da reestruturação da rede educativa, assumindo em qualquer caso, quando a obra seja co-financiada pela União Europeia, o valor da parte não coberta pela comparticipação comunitária.\n\n4 - ...»"
+  },
+  "70994007": {
+   "fragment_id": "70994077",
+   "type": 11,
+   "heading": "Artigo 61.º — Aplicação de legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Aplicação de legislação\n\nA aplicação do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, faz-se tendo em conta as seguintes adaptações:\n\na) As competências atribuídas ao Serviço Nacional de Bombeiros e ao Ministério da Administração Interna são exercidas na Região pelo departamento da administração regional autónoma competente em matéria de protecção civil;\n\nb) As competências cometidas à Direcção-Geral da Energia são exercidas na Região pelo departamento da administração regional autónoma competente em matéria de energia."
+  },
+  "70994008": {
+   "fragment_id": "70994078",
+   "type": 11,
+   "heading": "Artigo 62.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 31/86/A, de 11 de Dezembro;\n\nb) O artigo 35.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março;\n\nc) O n.º 7 do artigo 5.º do Decreto Legislativo Regional n.º 34/2003/A, de 13 de Agosto;\n\nd) A Resolução da Assembleia Regional n.º 2/81/A, de 2 de Junho;\n\ne) A Resolução n.º 140/93, de 9 de Dezembro;\n\nf) A Resolução n.º 207/97, de 16 de Outubro."
+  },
+  "70994009": {
+   "fragment_id": "70994079",
+   "type": 11,
+   "heading": "Artigo 63.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "888218756": {
+   "fragment_id": "70991826",
+   "type": 11,
+   "heading": "Artigo 21.º — Actividades interditas nos recintos escolares e na zona de protecção",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 72.º do/a [Decreto Legislativo Regional n.º 23/2010/A - Diário da República n.º 125/2010, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2010-334973), em vigor a partir de 2010-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Actividades interditas nos recintos escolares e na zona de protecção\n\n1 - Nos recintos escolares e na zona de protecção a que se refere o artigo anterior não é permitida a realização ou localização de:\n\na) Instalações classificadas na respectiva legislação reguladora como insalubres, incómodas, tóxicas ou perigosas;\n\nb) Estabelecimentos de venda de bebidas alcoólicas, considerando-se como tal os estabelecimentos de bebidas, não classificados em nenhuma outra categoria, onde se vendam principalmente bebidas alcoólicas para consumo no local;\n\nc) Instalações destinadas ao tratamento ou rejeição de efluentes líquidos ou gasosos de qualquer natureza, com excepção de fossas sépticas, sumidouros e dispositivos similares;\n\nd) Postos de abastecimento de combustíveis de qualquer natureza;\n\ne) Reservatórios de gases de petróleo liquefeito e de combustíveis líquidos de qualquer natureza com volume total de armazenamento superior a 5 m3, incluindo as instalações de armazenamento de garrafas de gases combustíveis cujo volume conjunto exceda 5 m3 de gases liquefeitos;\n\nf) Actividades ruidosas que originem um nível sonoro contínuo equivalente, ponderado A, LAeq, do ruído ambiente exterior, superior a 55 dB(A) no período compreendido entre as 7 e as 22 horas, acrescido de mais uma hora, caso funcione o ensino pós-laboral;\n\ng) Venda de bebidas alcoólicas, incluindo a venda ambulante, nos casos interditos nas imediações de escolas pelo Decreto-Lei n.º 9/2002, de 24 de Janeiro, e demais legislação alterada por aquele diploma;\n\nh) Salas e casas de jogos lícitos aos quais seja aplicável o disposto nos artigos 5.º e seguintes do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março;\n\ni) Estabelecimentos onde sejam exploradas uma ou mais máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão às quais se aplique o disposto no Decreto Legislativo Regional n.º 28/2000/A, de 10 de Agosto, e suas alterações;\n\nj) Infra-estruturas de suporte de equipamentos de radiocomunicações sujeitas a licenciamento e estações de base de serviço móvel terrestre e dos sistemas de telecomunicações móveis de acesso público;\n\nl) Equipamentos radioeléctricos de qualquer natureza emitindo com potência aparente radiada superior a 50 W, com exclusão das estações de serviço de amador;\n\nm) O atravessamento por linhas aéreas de transporte de energia eléctrica de média e alta tensão (tensão (maior que) 1 kW);\n\nn) Cemitérios.\n\n2 - Não se incluem na proibição contida na alínea h) do número anterior as associações e outras entidades sem fins lucrativos a que se refere o n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março.\n\n3 - Em salas localizadas na área de protecção a que se refere o n.º 1 não é permitido o licenciamento dos espectáculos de variedades ou diversões a que se refere o artigo 13.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março.\n\n4 - Para efeitos de aplicação da regulamentação sobre ruído, os edifícios escolares e seus logradouros e a respectiva zona de protecção são considerados zonas sensíveis para efeitos do disposto no Regulamento Geral de Ruído e de Controlo da Poluição Sonora.\n\n> Alterado pelo/a Artigo 72.º do/a [Decreto Legislativo Regional n.º 23/2010/A - Diário da República n.º 125/2010, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2010-334973), em vigor a partir de 2010-07-01"
+  },
+  "70994010": {
+   "fragment_id": "70994080",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de Setembro de 2005.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 17 de Outubro de 2005.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio."
+  },
+  "888218757": {
+   "fragment_id": "70991834",
+   "type": 11,
+   "heading": "Artigo 26.º — Plano de segurança e evacuação",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 26.º — Plano de segurança e evacuação\n\n1 - A utilização de um edifício para fins escolares depende da prévia existência de plano de segurança e evacuação aprovado pela entidade competente em matéria de protecção civil.\n\n2 - O plano de segurança e evacuação visa reduzir os riscos associados à ocorrência de intempéries, sismos, calamidades, acidentes ou sinistros de qualquer natureza, incluindo o incêndio, garantir a segurança da evacuação dos ocupantes e facilitar a intervenção dos bombeiros e dos demais agentes de protecção civil.\n\n3 - O plano de segurança e evacuação contém, obrigatoriamente, normas visando a prevenção dos acidentes escolares, incluindo as normas específicas que se mostrem necessárias à segurança na operação do serviço de transporte escolar, tendo em conta o conteúdo constante do artigo 43.º do presente diploma.\n\n4 - A elaboração do plano de segurança e evacuação, a sua revisão, divulgação e a realização dos exercícios necessários à sua operacionalização são responsabilidade do conselho executivo da unidade orgânica do sistema educativo onde o estabelecimento se insira ou do director, ou entidade com funções similares, dos estabelecimentos não integrados na rede pública.\n\n5 - Nos estabelecimentos em funcionamento à data da entrada em vigor do presente diploma, é responsabilidade do conselho executivo da unidade orgânica do sistema educativo onde o estabelecimento se insira ou do director, ou entidade com funções similares, submeter o plano de segurança e evacuação à aprovação pela entidade com competência em matéria de protecção civil no prazo de 180 dias.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218758": {
+   "fragment_id": "70991835",
+   "type": 11,
+   "heading": "Artigo 27.º — Responsabilidade pela segurança",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 27.º — Responsabilidade pela segurança\n\n1 - O responsável pela segurança de cada unidade orgânica é um dos membros do seu conselho executivo ou, nos estabelecimentos não integrados na rede pública, o seu director ou entidade equivalente.\n\n2 - No caso de estabelecimentos escolares integrados em edifícios de ocupação múltipla, o responsável pela segurança dos espaços comuns perante os serviços de protecção civil é a entidade a quem caiba a administração do edifício.\n\n3 - Os órgãos responsáveis pela segurança referidos nos números anteriores podem delegar competências em matéria de gestão corrente da segurança nos coordenadores de núcleo e encarregados de estabelecimento, os quais como delegados de segurança são por inerência os responsáveis locais pela segurança nos respectivos estabelecimentos.\n\n4 - Os serviços de protecção civil podem credenciar outras entidades para execução das tarefas que lhes competem.\n\n5 - Cabe ao responsável pela segurança representar o estabelecimento perante os serviços de protecção civil.\n\n6 - Nos períodos de intervenção dos bombeiros, passam a ser estes a assumir as responsabilidades pela coordenação e comando das operações de socorro, devendo o responsável pela segurança, bem como a entidade referida no n.º 2, prestar toda a colaboração que lhes for solicitada.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218759": {
+   "fragment_id": "70991836",
+   "type": 11,
+   "heading": "Artigo 28.º — Plano de segurança e evacuação de novos estabelecimentos",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 28.º — Plano de segurança e evacuação de novos estabelecimentos\n\n1 - Sem prejuízo da vistoria para emissão da autorização de funcionamento, a realizar nos termos do artigo 24.º do presente diploma, e previamente àquela, deve ser realizada vistoria pela entidade local competente em matéria de protecção civil, para aprovação do plano de segurança e evacuação e permitir o cumprimento do disposto na alínea c) do n.º 2 do artigo 24.º\n\n2 - A vistoria referida no número anterior deve ser solicitada pelo conselho executivo, director ou entidade que exerça funções similares, directamente à entidade local competente em matéria de protecção civil.\n\n3 - A vistoria deve ser realizada no prazo máximo de 30 dias após o seu pedido e o correspondente relatório deve ser transmitido pela entidade local competente em matéria de protecção civil no prazo máximo de 15 dias após a data da vistoria, prazos após os quais se considera que a aprovação do plano de segurança e evacuação é tácita.\n\n4 - Quando, nas vistorias, forem encontradas inconformidades, os relatórios correspondentes devem referir:\n\na) As inconformidades verificadas;\n\nb) Os prazos fixados para regularização de cada uma delas;\n\nc) A marcação das datas de novas vistorias para verificação da regularização das mesmas.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218760": {
+   "fragment_id": "70991837",
+   "type": 11,
+   "heading": "Artigo 29.º — Estabelecimentos em funcionamento",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 29.º — Estabelecimentos em funcionamento\n\n1 - O disposto no artigo anterior aplica-se à renovação das autorizações de funcionamento requeridas nos termos do artigo 25.º do presente diploma.\n\n2 - Aos estabelecimentos em funcionamento em que se verifiquem obras de alteração ou ampliação que satisfaçam o estabelecido no n.º 3 do artigo 25.º do presente diploma aplica-se igualmente o disposto no artigo anterior.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218761": {
+   "fragment_id": "70991838",
+   "type": 11,
+   "heading": "Artigo 30.º — Inspecções pelos serviços de protecção civil",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 30.º — Inspecções pelos serviços de protecção civil\n\n1 - Os estabelecimentos escolares devem ser sujeitos a inspecções regulares pelos serviços de protecção civil para verificação da manutenção da sua conformidade com o Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, e com o presente diploma.\n\n2 - A periodicidade das inspecções referidas no número anterior não deverá superar o prazo de dois anos.\n\n3 - Para além das inspecções regulares, podem ser efectuadas inspecções extraordinárias a pedido do presidente do conselho executivo, ou do director ou responsável equivalente dos estabelecimentos não integrados na rede pública, a pedido dos organismos da administração educativa ou por iniciativa da entidade local competente em matéria de protecção civil.\n\n4 - Os relatórios das inspecções regulares ou extraordinárias devem satisfazer o disposto nos n.os 3 e 4 do artigo 28.º\n\n5 - Compete ao presidente do conselho executivo promover a regularização das inconformidades nos prazos estipulados.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218762": {
+   "fragment_id": "70991853",
+   "type": 11,
+   "heading": "Artigo 42.º — Vigilância e protecção dos estabelecimentos",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 42.º — Vigilância e protecção dos estabelecimentos\n\n1 - Durante os períodos de funcionamento dos estabelecimentos escolares, deve ser assegurada a vigilância contra sinistros.\n\n2 - Nos estabelecimentos com locais de risco D, classificados nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro, ou naqueles destinados a uma lotação superior a 200 pessoas, deve ser previsto um posto de segurança destinado a centralizar toda a informação e coordenação de meios logísticos em caso de emergência, bem como os meios principais de recepção, validação e difusão de alarmes e de transmissão do alerta.\n\n3 - O posto de segurança pode ser estabelecido na recepção ou portaria, nos serviços administrativos ou noutro local onde haja presença permanente de pessoal docente ou não docente, sempre que possível em local com ingresso reservado e resguardado ou protegido do fogo, e deve ser mantido ocupado por um delegado de segurança durante os períodos de funcionamento do estabelecimento.\n\n4 - Nos estabelecimentos destinados a uma lotação superior a 500 pessoas, deve ser implementado um serviço de segurança e evacuação, constituído por um delegado de segurança com as funções de chefe de equipa, comandando um número de agentes adequado à dimensão do estabelecimento.\n\n5 - O delegado de segurança e os agentes são recrutados de entre o pessoal docente e não docente em serviço no estabelecimento, devendo receber a formação adequada.\n\n6 - Durante os períodos de funcionamento dos estabelecimentos abrangidos pelo n.º 4, deve ser assegurada a presença, no mínimo, simultânea de um chefe de equipa e de um agente.\n\n7 - O chefe de equipa é obrigatoriamente um membro do conselho executivo, podendo os restantes agentes de segurança ocupar-se habitualmente com outras tarefas, desde que se encontrem permanentemente susceptíveis de contacto com o posto de segurança e rapidamente mobilizáveis.\n\n8 - O serviço de segurança e evacuação deve ser constituído por pessoas com adequada aptidão física, conhecimentos técnicos, formação e treino em matéria de segurança comprovados por iniciativa do presidente do órgão executivo e de acordo com padrões estabelecidos pela entidade competente em matéria de protecção civil.\n\n9 - As funções nas equipas de segurança constituem serviço não lectivo de aceitação obrigatória pelo pessoal docente e não docente, cabendo ao presidente do conselho executivo a designação da sua composição.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218763": {
+   "fragment_id": "70991854",
+   "type": 11,
+   "heading": "Artigo 43.º — Conteúdo do plano de segurança e evacuação",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 43.º — Conteúdo do plano de segurança e evacuação\n\n1 - O plano de segurança e evacuação deve ser constituído pelos seguintes elementos:\n\na) Identificação do estabelecimento, sua localização e contactos telefónicos;\n\nb) Organogramas hierárquicos e funcionais do sistema de segurança e evacuação nas situações normal e de emergência;\n\nc) Identificação, contactos telefónicos permanentes e procedimentos a seguir em contactos de emergência com as seguintes entidades:\n\ni) Membro do conselho executivo, director ou entidade similar responsável pela segurança;\n\nii) Delegados de segurança;\n\niii) Interlocutores das entidades locais e regionais competentes em matéria de protecção civil;\n\niv) Interlocutores das autoridades policiais e sanitárias;\n\nv) Interlocutores dos serviços da administração educativa;\n\nd) Normas de actuação a adoptar na recepção, validação e divulgação de alarmes, contacto com as famílias, relações públicas, contacto com a comunicação social e designação de porta-voz, a definir nos termos do artigo 44.º do presente diploma;\n\ne) Normas de evacuação a seguir em caso de sinistro, emergência grave ou de evacuação do edifício ou da localidade onde este se situe, a elaborar nos termos do artigo 45.º do presente diploma;\n\nf) Plantas, à escala de 1:100, com indicação inequívoca dos seguintes dados:\n\ni) Classificação e lotação previstas para cada local do estabelecimento, de acordo com o disposto nos artigos 6.º e 7.º do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro;\n\nii) Vias horizontais e verticais de evacuação, incluindo os eventuais percursos em comunicações comuns;\n\niii) Localização de todos os dispositivos e equipamentos ligados à segurança contra incêndio;\n\ng) Regras de funcionamento e de comportamento, a adoptar pelo pessoal, destinadas a garantir a manutenção das condições de segurança no decurso da utilização do edifício nos domínios de:\n\ni) Acessibilidade dos meios de socorro;\n\nii) Praticabilidade dos caminhos de evacuação;\n\niii) Eficácia dos meios de compartimentação, isolamento e protecção;\n\niv) Conservação dos espaços do estabelecimento em condições de limpeza e arrumação adequadas;\n\nv) Segurança na produção, manipulação e armazenamento de matérias e substâncias perigosas;\n\nvi) Sensibilização dos alunos para os riscos de incêndio.\n\n2 - O plano de segurança e evacuação deve ainda conter as orientações a seguir em caso de violência ou perturbação grave do funcionamento do estabelecimento.\n\n3 - Ao plano de segurança e evacuação devem ser anexados os seguintes elementos:\n\na) Instruções de funcionamento dos principais dispositivos e equipamentos técnicos e procedimentos a adoptar para rectificação de anomalias previsíveis;\n\nb) Normas a seguir na prevenção de acidentes escolares, nomeadamente na utilização de laboratórios, dispositivos técnicos e equipamentos lúdicos, e na circulação no interior dos edifícios escolares e seus logradouros, com identificação dos locais onde seja interdita a entrada dos alunos;\n\nc) Normas a seguir nas zonas de embarque e desembarque do transporte escolar e comportamentos a adoptar durante aquele transporte;\n\nd) Programas de conservação e manutenção, com estipulação de calendários e listas de testes de verificação periódica de dispositivos, equipamentos e instalações, designadamente dos seguintes:\n\ni) Dispositivos de fecho e de retenção de portas e portinholas resistentes ao fogo;\n\nii) Dispositivos de obturação de condutas;\n\niii) Fontes centrais e locais de energia de emergência;\n\niv) Aparelhos de iluminação de emergência;\n\nv) Aparelhos de produção de calor e de confecção de alimentos;\n\nvi) Elevadores, ascensores e outros equipamentos electromecânicos;\n\nvii) Instalações de aquecimento, ventilação e condicionamento de ar;\n\nviii) Instalações de extracção de vapores e gorduras de cozinhas;\n\nix) Instalações de gases combustíveis;\n\nx) Instalações de alarme e alerta;\n\nxi) Instalações de controlo de fumos em caso de incêndio;\n\nxii) Meios de extinção;\n\nxiii) Quando existam, sistemas de pressurização de água para combate a incêndio;\n\ne) Caderno de registo, destinado à inscrição de ocorrências relevantes e à guarda de relatórios relacionados com a segurança contra incêndio, o qual deve compreender, designadamente, os seguintes elementos:\n\ni) Relatórios de vistoria e de inspecção;\n\nii) Anomalias observadas nas operações de verificação, conservação ou manutenção das instalações técnicas, incluindo datas da sua detecção e da respectiva reparação;\n\niii) Descrição sumária das modificações, alterações e trabalhos perigosos efectuados no estabelecimento, com indicação das datas de seu início e finalização;\n\niv) Incidentes e avarias directa ou indirectamente relacionados com a segurança contra incêndio;\n\nv) Relatórios sucintos das acções de instrução e de formação, bem como dos exercícios de segurança visados no artigo 46.º do presente diploma com menção dos aspectos mais relevantes.\n\n4 - O plano de segurança e evacuação deve ser coordenado e integrado com os planos municipais de emergência e com os outros instrumentos de planeamento de emergência ou segurança relevantes.\n\n5 - O plano de segurança e evacuação e os seus anexos devem ser actualizados sempre que as modificações ou alterações efectuadas no estabelecimento o justifiquem e sujeitos a verificação nas inspecções dos serviços de protecção civil.\n\n6 - O plano de segurança e evacuação deve ser revisto regularmente, não podendo decorrer entre revisões consecutivas um período superior a cinco anos escolares.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218764": {
+   "fragment_id": "70991855",
+   "type": 11,
+   "heading": "Artigo 44.º — Normas de actuação",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 44.º — Normas de actuação\n\nAs normas de actuação devem contemplar a organização das operações a desencadear por delegados e agentes de segurança em caso de ocorrência de uma situação perigosa e abranger os seguintes domínios:\n\na) Conhecimento prévio dos riscos presentes no estabelecimento, nomeadamente nos locais de risco C, classificados nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro;\n\nb) Procedimentos a adoptar em caso de detecção ou percepção de um alarme de incêndio;\n\nc) Execução da manobra dos dispositivos de segurança, designadamente de corte da alimentação de energia eléctrica e de combustíveis, de fecho de portas resistentes ao fogo e das instalações de controlo de fumos;\n\nd) Activação dos meios de intervenção apropriados a cada circunstância;\n\ne) Planificação da difusão dos alarmes restritos e geral e transmissão do alerta;\n\nf) Prestação de primeiros socorros;\n\ng) Acolhimento, informação, orientação e apoio dos bombeiros;\n\nh) Coordenação das operações previstas nas normas de evacuação.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218765": {
+   "fragment_id": "70991856",
+   "type": 11,
+   "heading": "Artigo 45.º — Normas de evacuação",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 45.º — Normas de evacuação\n\nAs normas de evacuação devem contemplar instruções a observar por todo o pessoal do estabelecimento, docente e não docente, relativas à articulação das operações destinadas a garantir a evacuação ordenada, total ou parcial, dos alunos nas circunstâncias consideradas perigosas pelo presidente do órgão executivo e abranger os seguintes domínios:\n\na) Encaminhamento rápido e seguro dos alunos para o exterior ou para uma zona isenta de perigo, mediante referenciação de vias de evacuação, pontos de encontro e locais de reunião;\n\nb) Procedimento a seguir em caso de evacuação da localidade, coordenação com outros órgãos, pontos de reunião e informação pública;\n\nc) Procedimentos a adoptar em caso de risco sismo-vulcânico iminente, de maremoto, de cheia de mar ou outra situação que exija actuação autónoma em emergência;\n\nd) Auxílio a pessoas com capacidades limitadas ou em dificuldade, de forma a assegurar que ninguém fique bloqueado nem regresse ao local do sinistro no decurso das operações de emergência.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218766": {
+   "fragment_id": "70991857",
+   "type": 11,
+   "heading": "Artigo 46.º — Instrução, formação e exercícios de segurança",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 46.º — Instrução, formação e exercícios de segurança\n\n1 - Pelo menos uma vez em cada ano escolar, de preferência no início das actividades lectivas, deve o plano de segurança e evacuação ser divulgado junto da comunidade escolar e ser testado através da realização de exercício adequado, envolvendo todas as entidades que nele tenham intervenção.\n\n2 - Nos estabelecimentos escolares é obrigatória a execução de programas para sensibilização e instrução de todo o pessoal docente e não docente no domínio da segurança e evacuação.\n\n3 - No prazo máximo de 30 dias após o início de cada ano lectivo devem ser realizadas em todos os estabelecimentos escolares:\n\na) Sessões informativas do pessoal docente e não docente para:\n\ni) Familiarização com o estabelecimento;\n\nii) Esclarecimento das regras de funcionamento e de comportamento estipuladas no plano de segurança e evacuação;\n\niii) Instrução de técnicas básicas de manipulação dos meios de primeira intervenção, nomeadamente extintores portáteis e carretéis;\n\nb) Instrução dos delegados de segurança a quem sejam cometidas tarefas específicas:\n\ni) Na concretização dos planos de actuação e de evacuação;\n\nii) Na realização de exercícios para treino das normas anteriormente referidas, envolvendo todos os ocupantes, com vista à criação de rotinas de comportamento e de actuação e ainda ao aperfeiçoamento das normas de actuação e de evacuação em situação de emergência.\n\n4 - A realização de exercícios de evacuação que envolvam simulacros, nomeadamente com utilização de substâncias fumígenas, deve ser levada a cabo mediante informação prévia dos ocupantes e com a colaboração dos bombeiros e de delegados da protecção civil.\n\n5 - Quando as características da população escolar inviabilizem a realização de exercícios de evacuação, devem ser adoptadas medidas de segurança compensatórias, designadamente nos domínios da vigilância do fogo e das instruções de segurança.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  },
+  "888218767": {
+   "fragment_id": "70991858",
+   "type": 11,
+   "heading": "Artigo 47.º — Distribuição do plano de segurança e evacuação",
+   "in_force_from": "2015-03-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+   ],
+   "markdown": "###### Artigo 47.º — Distribuição do plano de segurança e evacuação\n\n1 - Uma cópia completa de todos os planos de segurança e evacuação em vigor dos estabelecimentos integrados em cada unidade orgânica deve estar na posse do respectivo conselho executivo ou do director ou entidade que exerça funções similares.\n\n2 - Devem igualmente dispor de uma cópia completa do documento referente ao respectivo estabelecimento os coordenadores de núcleo, os encarregados de estabelecimento e quem seja responsável pela segurança dos estabelecimentos integrados no sector particular, cooperativo e solidário.\n\n3 - O responsável pela segurança envia uma cópia do documento ao quartel de bombeiros e à esquadra da força de segurança pública que sirva a localidade onde se situe o estabelecimento.\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 6/2015/A - Diário da República n.º 45/2015, Série I de 2015-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-66674011), em vigor a partir de 2015-03-06"
+  }
+ }
+}

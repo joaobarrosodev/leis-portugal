@@ -1,0 +1,255 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234902:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-165106571",
+ "dre_path": "/dr/detalhe/lei/66-1998-234902",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165106093",
+    "165106094",
+    "165106095",
+    "165106096",
+    "165106097",
+    "165106098",
+    "165106099",
+    "165106100",
+    "165106101",
+    "165106102",
+    "165106103",
+    "165106104",
+    "165106105",
+    "165106106",
+    "165106107",
+    "165106108",
+    "165106109",
+    "165106110",
+    "165106111",
+    "165106112"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "165106093",
+    "165106094",
+    "165106095",
+    "165106096",
+    "165106097",
+    "165106098",
+    "165106099",
+    "165106100",
+    "165106101",
+    "165106102",
+    "165106103",
+    "165106104",
+    "165106114",
+    "165106106",
+    "165106107",
+    "165106108",
+    "165106109",
+    "165106110",
+    "165106111",
+    "165106112",
+    "165106113"
+   ]
+  }
+ ],
+ "fragments": {
+  "165106093": {
+   "fragment_id": "165106572",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 66/98\n\nde 14 de Outubro\n\nAprova o estatuto das organizações não governamentais de cooperação para o desenvolvimento\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "165106094": {
+   "fragment_id": "165106573",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define o estatuto das organizações não governamentais de cooperação para o desenvolvimento, adiante designadas por ONGD."
+  },
+  "165106095": {
+   "fragment_id": "165106574",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nNão se regem pelo presente diploma as ONGD que prossigam fins lucrativos, políticos, sindicais ou religiosos ou que, independentemente da sua natureza, desenvolvam actividades de cooperação militar."
+  },
+  "165106096": {
+   "fragment_id": "165107175",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza jurídica\n\nAs ONGD são pessoas colectivas de direito privado, sem fins lucrativos."
+  },
+  "165106097": {
+   "fragment_id": "165107176",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\nAs ONGD são constituídas por pessoas singulares ou colectivas de direito privado, com sede em Portugal."
+  },
+  "165106098": {
+   "fragment_id": "165107177",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Constituição\n\nAs ONGD constituem-se e adquirem personalidade jurídica nos termos da lei geral."
+  },
+  "165106099": {
+   "fragment_id": "165107178",
+   "type": 11,
+   "heading": "Artigo 6.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objectivos\n\n1 - São objectivos das ONGD a concepção, a execução e o apoio a programas e projectos de cariz social, cultural, ambiental, cívico e económico, designadamente através de acções nos países em vias de desenvolvimento:\n\na) De cooperação para o desenvolvimento;\n\nb) De assistência humanitária;\n\nc) De ajuda de emergência;\n\nd) De protecção e promoção dos direitos humanos.\n\n2 - São ainda objectivos das ONGD a sensibilização da opinião pública para a necessidade de um relacionamento cada vez mais empenhado com os países em vias de desenvolvimento, bem como a divulgação das suas realidades.\n\n3 - As ONGD, conscientes de que a educação é um factor imprescindível para o desenvolvimento integral das sociedades e para a existência e o reforço da paz, assumem a promoção desse objectivo como uma dimensão fundamental da sua actividade.\n\n4 - As ONGD desenvolvem as suas actividades no respeito pela Declaração Universal dos Direitos do Homem."
+  },
+  "165106100": {
+   "fragment_id": "165107179",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo\n\nConsideram-se abrangidas pelo presente diploma as ONGD que, para além de respeitarem o estipulado nos artigos anteriores, procedam ao seu registo junto do Ministério dos Negócios Estrangeiros, em que se incluam os seguintes elementos:\n\na) Actos constitutivos;\n\nb) Estatutos;\n\nc) Plano de actividades para o ano em curso;\n\nd) Meios de financiamento."
+  },
+  "165106101": {
+   "fragment_id": "165107180",
+   "type": 11,
+   "heading": "Artigo 8.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reconhecimento\n\n1 - O reconhecimento do estatuto de ONGD faz-se por um período de dois anos, após análise dos documentos mencionados no número anterior, podendo o mesmo ser negado ou a sua atribuição ser revogada se, nos termos do artigo 16.º, se verificar alguma irregularidade.\n\n2 - Para a decisão do reconhecimento do estatuto de ONGD, o Ministério dos Negócios Estrangeiros poderá solicitar um parecer não vinculativo, a emitir pelas plataformas nacionais das ONGD.\n\n3 - O reconhecimento do estatuto, referido no n.º 1, deve ser comunicado aos interessados nos 30 dias seguintes à recepção de todos os documentos referidos no artigo anterior."
+  },
+  "165106102": {
+   "fragment_id": "165107181",
+   "type": 11,
+   "heading": "Artigo 9.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Áreas de intervenção\n\nAs áreas de intervenção das ONGD são, nomeadamente:\n\na) Ensino, educação e cultura;\n\nb) Assistência científica e técnica;\n\nc) Saúde, incluindo assistência médica, medicamentosa e alimentar;\n\nd) Emprego e formação profissional;\n\ne) Protecção e defesa do meio ambiente;\n\nf) Integração social e comunitária;\n\ng) Desenvolvimento rural;\n\nh) Reforço da sociedade civil, através do apoio a associações congéneres e associações de base nos países em vias de desenvolvimento;\n\ni) Educação para o desenvolvimento, designadamente através da divulgação das realidades dos países em vias de desenvolvimento junto da opinião pública."
+  },
+  "165106103": {
+   "fragment_id": "165107182",
+   "type": 11,
+   "heading": "Artigo 10.º — Estatuto dos dirigentes das ONGD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estatuto dos dirigentes das ONGD\n\nOs dirigentes das ONGD gozam dos direitos consagrados nas alíneas seguintes:\n\na) Para o exercício das funções referidas no número anterior, os dirigentes das ONGD que sejam trabalhadores por conta de outrem têm direito a usufruir de um horário de trabalho flexível, em termos a acordar com a entidade patronal, sempre que a natureza da respectiva actividade laboral o permita;\n\nb) As faltas dadas por motivos de comparência em reuniões em que os dirigentes exerçam representação ou com órgãos de soberania são consideradas justificadas, para todos os efeitos legais, até ao máximo de 10 dias de trabalho por ano e não implicam a perda das remunerações e regalias devidas;\n\nc) Os dirigentes das ONGD que sejam estudantes gozam das prerrogativas idênticas às previstas no Decreto-Lei n.º 152/91, de 23 de Abril, com as necessárias adaptações."
+  },
+  "165106104": {
+   "fragment_id": "165107183",
+   "type": 11,
+   "heading": "Artigo 11.º — Ligação ao Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Ligação ao Estado\n\n1 - O Estado apoia e valoriza o contributo das ONGD nas relações e práticas de cooperação com os países em vias de desenvolvimento.\n\n2 - O Estado considera que o seu relacionamento com as ONGD se deve fazer, nomeadamente, através de contratos quadro.\n\n3 - O Estado pode ainda apoiar as ONGD através de ajuda técnica ou financeira a programas e projectos desenvolvidos por estas, desde que compreendidos nos artigos 6.º e 9.º do presente diploma, mesmo quando as ONGD em questão não sejam subscritoras dos contratos quadro referidos no número anterior.\n\n4 - O Estado pode solicitar a intervenção técnica das ONGD em programas concebidos e executados, no todo ou em parte, por organismos públicos de cooperação e desenvolvimento.\n\n5 - O apoio do Estado não pode constituir limitação ao direito de livre actuação das ONGD.\n\n6 - O direito de participação das ONGD na definição das políticas nacionais e internacionais de cooperação exerce-se através da sua representação nas instâncias consultivas com competência na área da cooperação.\n\n7 - Fora do território nacional, as representações diplomáticas portuguesas são o interlocutor institucional representativo do Estado, para efeitos do relacionamento com as ONGD."
+  },
+  "165106105": {
+   "fragment_id": "165107184",
+   "type": 11,
+   "heading": "Artigo 12.º — Utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Utilidade pública\n\nAs ONGD registadas nos termos do presente diploma adquirem automaticamente a natureza de pessoas colectivas de utilidade pública, com dispensa do registo e demais obrigações previstas no Decreto-Lei n.º 460/77, de 7 de Novembro, sem prejuízo do disposto no artigo 12.º do referido diploma."
+  },
+  "165106106": {
+   "fragment_id": "165107185",
+   "type": 11,
+   "heading": "Artigo 13.º — Mecenato para a cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mecenato para a cooperação\n\nAos donativos em dinheiro ou em espécie concedidos às ONGD e que se destinem a financiar projectos de interesse público, previamente reconhecidos como tal pelo Ministério dos Negócios Estrangeiros, será aplicável, sem acumulação, o regime do mecenato cultural previsto nos Códigos do IRS e do IRC."
+  },
+  "165106107": {
+   "fragment_id": "165107186",
+   "type": 11,
+   "heading": "Artigo 14.º — Isenção de emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenção de emolumentos\n\nAs ONGD estão isentas do pagamento dos emolumentos notariais devidos pelas respectivas escrituras de constituição ou de alteração dos estatutos."
+  },
+  "165106108": {
+   "fragment_id": "165107187",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalidade\n\n1 - As ONGD têm direito às isenções fiscais atribuídas pela lei às pessoas colectivas de utilidade pública.\n\n2 - Nas transmissões de bens e na prestação de serviços que efectuem, as ONGD beneficiam das isenções de IVA previstas para os organismos sem fins lucrativos.\n\n3 - As ONGD beneficiam das regalias previstas no artigo 10.º do Decreto-Lei n.º 460/77, de 7 de Novembro."
+  },
+  "165106109": {
+   "fragment_id": "165107188",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nOs Ministérios dos Negócios Estrangeiros e das Finanças, bem como os demais ministérios no âmbito da respectiva competência sectorial, poderão ordenar a realização de inquéritos, sindicâncias e inspecções às ONGD que tenham solicitado a sua inscrição, ou estejam inscritas no Ministério dos Negócios Estrangeiros, ao abrigo do presente diploma."
+  },
+  "165106110": {
+   "fragment_id": "165107189",
+   "type": 11,
+   "heading": "Artigo 17.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Representação\n\n1 - As ONGD abrangidas pelo disposto no presente diploma podem associar-se em plataformas, o que, todavia, não limita a intervenção autónoma das organizações na prossecução dos seus fins.\n\n2 - As plataformas nacionais participadas por representantes de ONGD abrangidas pelo presente diploma serão representadas nos órgãos consultivos da cooperação oficial portuguesa pelas respectivas direcções."
+  },
+  "165106111": {
+   "fragment_id": "165107190",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposições transitórias\n\n1 - Para efeitos do estipulado no presente diploma e para que possam pelo mesmo ser abrangidas, as ONGD devem proceder em conformidade com o artigo 7.º, dispondo para tal de um prazo de 60 dias a contar da data de entrada em vigor do presente diploma, independentemente de registos anteriores.\n\n2 - As ONGD que não cumpram o disposto no número anterior deixam de ser consideradas ONGD para efeitos de aplicação do presente diploma."
+  },
+  "165106112": {
+   "fragment_id": "165107191",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nÉ revogada a Lei n.º 19/94, de 24 de Maio."
+  },
+  "165106114": {
+   "fragment_id": "165107184",
+   "type": 11,
+   "heading": "Artigo 12.º — Utilidade pública",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 12.º — Utilidade pública\n\nAs ONGD registadas nos termos do presente diploma adquirem automaticamente a natureza de pessoas colectivas de utilidade pública, com dispensa do registo e demais obrigações previstas no Decreto-Lei n.º 460/77, de 7 de Novembro, sem prejuízo do disposto no artigo 12.º do referido diploma.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165106113": {
+   "fragment_id": "165107192",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 24 de Setembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 30 de Setembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

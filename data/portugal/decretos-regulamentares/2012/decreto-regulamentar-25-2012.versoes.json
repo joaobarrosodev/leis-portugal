@@ -1,0 +1,355 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543014:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-868727155",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/25-2012-543014",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-02-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868689400",
+    "868689401",
+    "868689402",
+    "868689403",
+    "868689404",
+    "868689405",
+    "868689406",
+    "868689407",
+    "868689408",
+    "868689409",
+    "868689410",
+    "868689411",
+    "868689412",
+    "868689413",
+    "868689415"
+   ]
+  },
+  {
+   "date": "2025-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:933527232:por",
+     "title": "Decreto-Lei n.º 99/2025",
+     "published": "2025-08-28",
+     "dre_path": "/dr/detalhe/decreto-lei/99-2025-933527232"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "868689400",
+    "933630578",
+    "933630579",
+    "933630580",
+    "933630581",
+    "933630582",
+    "933630583",
+    "933630584",
+    "933630585",
+    "933630586",
+    "933630587",
+    "868689424",
+    "933630588",
+    "933630589",
+    "868689414",
+    "933630590"
+   ]
+  }
+ ],
+ "fragments": {
+  "868689400": {
+   "fragment_id": "868727156",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 25/2012\n\nde 17 de fevereiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto o presente decreto regulamentar aprova a estrutura orgânica da Direcção-Geral da Administração Escolar em conformidade com a missão e atribuições que lhe são cometidas pela Lei Orgânica do Ministério da Educação e Ciência.\n\nDestinada a exercer as políticas de desenvolvimento e gestão dos recursos humanos docentes e não docentes nos estabelecimentos de educação da rede pública não superior e, nos mesmos domínios, desenvolver mecanismos de interligação com outros Ministérios, com as Autarquias e com o Ensino Particular e Cooperativo, sem prejuízo da autonomia das escolas e das competências que, nesta área, são conferidas a outras entidades, a Direcção-Geral da Administração Escolar é objecto de reestruturação, adoptando-se em termos de estrutura interna, o modelo estrutural hierarquizado.\n\nA nova estrutura, a concretizar até 31 de Dezembro de 2012, comporta direcções de serviços de funcionamento desconcentrado, de modo a promover uma intervenção com maior proximidade das escolas, contribuindo para o apoio e implementação das boas práticas na gestão e manutenção desses estabelecimentos.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "868689401": {
+   "fragment_id": "868727157",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Direcção-Geral da Administração Escolar, abreviadamente designada por DGAE, é um serviço central da administração directa do Estado dotado de autonomia administrativa.\n\n2 - A DGAE dispõe de cinco unidades orgânicas desconcentradas, de âmbito regional, com a designação de Direcção de Serviços Região Norte, Direcção de Serviços Região Centro, Direcção de Serviços Região Lisboa e Vale do Tejo, Direcção de Serviços Região Alentejo e Direcção de Serviços Região Algarve."
+  },
+  "868689402": {
+   "fragment_id": "868727158",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGAE tem por missão garantir a concretização das políticas de gestão estratégica e de desenvolvimento dos recursos humanos da educação afectos às estruturas educativas públicas situadas no território continental nacional, sem prejuízo das competências atribuídas às autarquias locais e aos órgãos de gestão e administração escolares e, também, das estruturas educativas nacionais que se encontram no estrangeiro visando a forte promoção da nossa língua e cultura.\n\n2 - A DGAE prossegue as seguintes atribuições:\n\na) Concretizar as políticas de desenvolvimento dos recursos humanos relativas ao pessoal docente e não docente das escolas, em particular as políticas relativas ao recrutamento e selecção, carreiras, remunerações e formação;\n\nb) Definir as necessidades de pessoal docente e não docente das escolas;\n\nc) Promover e assegurar o recrutamento do pessoal docente e não docente das escolas;\n\nd) Promover a formação do pessoal docente e não docente das escolas;\n\ne) Decidir sobre questões relativas ao pessoal docente do ensino particular, cooperativo e solidário, incluindo os ensinos profissional e artístico e a educação de adultos, nomeadamente autorizações provisórias de leccionação, acumulação de funções e certificação do tempo de serviço;\n\nf) Definir, gerir e acompanhar a requalificação, modernização e conservação da rede escolar;\n\ng) Promover os procedimentos pré-contratuais e contratuais do pessoal docente e não docente dos estabelecimentos públicos de educação não superior e garantir o cumprimento dos acordos que sobre essas matérias existam com outros organismos;\n\nh) Promover as condições de aprofundamento do ensino da língua nas escolas portuguesas no estrangeiro, em articulação com o Ministério dos Negócios Estrangeiros;\n\ni) Apoiar as políticas de desenvolvimento do Ensino Particular e Cooperativo;\n\nj) Assegurar a concretização da política nacional no domínio das instalações e equipamentos escolares;\n\nl) Assegurar o serviço jurídico-contencioso, no âmbito das suas atribuições em articulação com a Secretaria-Geral."
+  },
+  "868689403": {
+   "fragment_id": "868727159",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA DGAE é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.ºgraus, respectivamente."
+  },
+  "868689404": {
+   "fragment_id": "868727160",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral exerce as competências que lhe forem conferidas por lei ou nele sejam delegadas ou subdelegadas.\n\n2 - Os subdirectores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "868689405": {
+   "fragment_id": "868727161",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da DGAE obedece ao modelo de estrutura hierarquizada."
+  },
+  "868689406": {
+   "fragment_id": "868727162",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A DGAE dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGAE dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados por si editados;\n\nc) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas;\n\nd) Os saldos finais resultantes das candidaturas ao Fundo Social Europeu.\n\n3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da DGAE.\n\n4 - As quantias cobradas pela DGAE são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação e ciência, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento."
+  },
+  "868689407": {
+   "fragment_id": "868727163",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da DGAE as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "868689408": {
+   "fragment_id": "868727164",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "868689409": {
+   "fragment_id": "868727165",
+   "type": 11,
+   "heading": "Artigo 9.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sucessão\n\nA DGAE sucede nas atribuições:\n\na) Da Direcção-Geral dos Recursos Humanos da Educação;\n\nb) Das Direcções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve."
+  },
+  "868689410": {
+   "fragment_id": "868727166",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de selecção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de selecção de pessoal\n\nSão fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da DGAE:\n\na) O desempenho de funções na Direcção-Geral dos Recursos Humanos da Educação;\n\nb) O desempenho de funções nas Direcções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve."
+  },
+  "868689411": {
+   "fragment_id": "868727167",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nO disposto no n.º 2 do artigo 1.º, na alínea b) do artigo 9.º e na alínea b) do artigo anterior opera com a entrada em vigor, até 31 de Dezembro de 2012, da portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação."
+  },
+  "868689412": {
+   "fragment_id": "868727168",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto Regulamentar n.º 28/2007, de 29 de Março;\n\nb) O Decreto Regulamentar n.º 31/2007, de 29 de Março.\n\n2 - A revogação prevista na alínea b) do número anterior produz efeitos na data de entrada em vigor da portaria referida no artigo anterior."
+  },
+  "868689413": {
+   "fragment_id": "868727169",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "868689415": {
+   "fragment_id": "868727171",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 8.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "933630578": {
+   "fragment_id": "868727157",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Direcção-Geral da Administração Escolar, abreviadamente designada por DGAE, é um serviço central da administração directa do Estado dotado de autonomia administrativa.\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "933630579": {
+   "fragment_id": "868727158",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGAE tem por missão garantir a concretização das políticas de gestão estratégica e de desenvolvimento dos recursos humanos da educação afectos às estruturas educativas públicas situadas no território continental nacional, sem prejuízo das competências atribuídas às autarquias locais e aos órgãos de gestão e administração escolares e, também, das estruturas educativas nacionais que se encontram no estrangeiro visando a forte promoção da nossa língua e cultura.\n\n2 - A DGAE prossegue as seguintes atribuições:\n\na) Concretizar as políticas de desenvolvimento dos recursos humanos relativas ao pessoal docente e não docente das escolas, em particular as políticas relativas ao recrutamento e selecção, carreiras, remunerações e formação;\n\nb) Definir as necessidades de pessoal docente e não docente das escolas;\n\nc) Promover e assegurar o recrutamento do pessoal docente e não docente das escolas;\n\nd) Promover a formação do pessoal docente e não docente das escolas;\n\ne) Decidir sobre questões relativas ao pessoal docente do ensino particular, cooperativo e solidário, incluindo os ensinos profissional e artístico e a educação de adultos, nomeadamente autorizações provisórias de leccionação, acumulação de funções e certificação do tempo de serviço;\n\nf)  [Revogada];\n\ng) Promover os procedimentos pré-contratuais e contratuais do pessoal docente e não docente dos estabelecimentos públicos de educação não superior e garantir o cumprimento dos acordos que sobre essas matérias existam com outros organismos;\n\nh) Promover as condições de aprofundamento do ensino da língua nas escolas portuguesas no estrangeiro, em articulação com o Ministério dos Negócios Estrangeiros;\n\ni) Apoiar as políticas de desenvolvimento do Ensino Particular e Cooperativo;\n\nj) [Revogada];\n\nl) Assegurar o serviço jurídico-contencioso, no âmbito das suas atribuições em articulação com a Secretaria-Geral.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "933630580": {
+   "fragment_id": "868727159",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA DGAE é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "933630581": {
+   "fragment_id": "868727160",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral exerce as competências que lhe forem conferidas por lei ou nele sejam delegadas ou subdelegadas.\n\n2 - O subdiretor-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, substituindo-o nas suas faltas e impedimentos.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "933630582": {
+   "fragment_id": "868727161",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da DGAE obedece ao modelo de estrutura hierarquizada.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+  },
+  "933630583": {
+   "fragment_id": "868727162",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A DGAE dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGAE dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados por si editados;\n\nc) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas;\n\nd) Os saldos finais resultantes das candidaturas ao Fundo Social Europeu.\n\n3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da DGAE.\n\n4 - As quantias cobradas pela DGAE são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação e ciência, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+  },
+  "933630584": {
+   "fragment_id": "868727163",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+   ],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da DGAE as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+  },
+  "933630585": {
+   "fragment_id": "868727164",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direcção",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+   ],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+  },
+  "933630586": {
+   "fragment_id": "868727165",
+   "type": 11,
+   "heading": "Artigo 9.º — Sucessão",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Sucessão\n\nA DGAE sucede nas atribuições:\n\na) Da Direcção-Geral dos Recursos Humanos da Educação;\n\nb) [Revogada];\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "933630587": {
+   "fragment_id": "868727166",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de selecção de pessoal",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Critérios de selecção de pessoal\n\nSão fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da DGAE:\n\na) O desempenho de funções na Direcção-Geral dos Recursos Humanos da Educação;\n\nb) [Revogada];\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "868689424": {
+   "fragment_id": "868727167",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nO disposto no n.º 2 do artigo 1.º, na alínea b) do artigo 9.º e na alínea b) do artigo anterior opera com a entrada em vigor, até 31 de Dezembro de 2012, da portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "933630588": {
+   "fragment_id": "868727168",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto Regulamentar n.º 28/2007, de 29 de Março;\n\nb) [Revogada];\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  },
+  "933630589": {
+   "fragment_id": "868727169",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+   ],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01"
+  },
+  "868689414": {
+   "fragment_id": "868727170",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 7 de Fevereiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 9 de Fevereiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "933630590": {
+   "fragment_id": "868727171",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 8.º)",
+   "in_force_from": "2025-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 8.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 266-F/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-f-2012-632418), produz efeitos a partir de 2012-12-31"
+  }
+ }
+}

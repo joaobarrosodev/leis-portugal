@@ -1,0 +1,335 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:270386:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-107504722",
+ "dre_path": "/dr/detalhe/lei/19-2004-270386",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-05-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107505181",
+    "107505182",
+    "107505183",
+    "107505184",
+    "107505185",
+    "107505186",
+    "107505187",
+    "107505188",
+    "107505189",
+    "107505190",
+    "107505191",
+    "107505192",
+    "107505193",
+    "107505194",
+    "107505195",
+    "107505196",
+    "107505197",
+    "107505198",
+    "107505199",
+    "107505200",
+    "107505201",
+    "107505202",
+    "107505203",
+    "107505204",
+    "107505205",
+    "107505206",
+    "107505207",
+    "107505208"
+   ]
+  },
+  {
+   "date": "2019-09-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123436957:por",
+     "title": "Lei n.º 50/2019",
+     "published": "2019-07-24",
+     "dre_path": "/dr/detalhe/lei/50-2019-123436957"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "107505181",
+    "107505182",
+    "107505183",
+    "107505184",
+    "107505185",
+    "107505186",
+    "107505187",
+    "107505188",
+    "107505189",
+    "107505190",
+    "107505191",
+    "174691475",
+    "107505193",
+    "107505194",
+    "107505195",
+    "107505196",
+    "107505197",
+    "107505198",
+    "107505199",
+    "107505200",
+    "107505201",
+    "107505202",
+    "107505203",
+    "107505204",
+    "107505205",
+    "107505206",
+    "107505207",
+    "107505208",
+    "107505209"
+   ]
+  }
+ ],
+ "fragments": {
+  "107505181": {
+   "fragment_id": "107504723",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 19/2004\n\nde 20 de Maio\n\nRevisão da lei quadro que define o regime e forma de criação das polícias municipais\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "107505182": {
+   "fragment_id": "107504724",
+   "type": 1,
+   "heading": "Capítulo I — Das atribuições dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Das atribuições dos municípios"
+  },
+  "107505183": {
+   "fragment_id": "107504725",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e âmbito\n\n1 - As polícias municipais são serviços municipais especialmente vocacionados para o exercício de funções de polícia administrativa, com as competências, poderes de autoridade e inserção hierárquica definidos na presente lei.\n\n2 - As polícias municipais têm âmbito municipal e não são susceptíveis de gestão associada ou federada."
+  },
+  "107505184": {
+   "fragment_id": "107504726",
+   "type": 1,
+   "heading": "Capítulo II — Das polícias municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Das polícias municipais"
+  },
+  "107505185": {
+   "fragment_id": "107504727",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - No exercício de funções de polícia administrativa, é atribuição prioritária dos municípios fiscalizar, na área da sua jurisdição, o cumprimento das leis e regulamentos que disciplinem matérias relativas às atribuições das autarquias e à competência dos seus órgãos.\n\n2 - As polícias municipais cooperam com as forças de segurança na manutenção da tranquilidade pública e na protecção das comunidades locais.\n\n3 - A cooperação referida no número anterior exerce-se no respeito recíproco pelas esferas de actuação próprias, nomeadamente através da partilha da informação relevante e necessária para a prossecução das respectivas atribuições e na satisfação de pedidos de colaboração que legitimamente forem solicitados.\n\n4 - As atribuições dos municípios previstas na presente lei são prosseguidas sem prejuízo do disposto na legislação sobre segurança interna e nas leis orgânicas das forças de segurança."
+  },
+  "107505186": {
+   "fragment_id": "107504728",
+   "type": 11,
+   "heading": "Artigo 3.º — Funções de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funções de polícia\n\n1 - As polícias municipais exercem funções de polícia administrativa dos respectivos municípios, prioritariamente nos seguintes domínios:\n\na) Fiscalização do cumprimento das normas regulamentares municipais;\n\nb) Fiscalização do cumprimento das normas de âmbito nacional ou regional cuja competência de aplicação ou de fiscalização caiba ao município;\n\nc) Aplicação efectiva das decisões das autoridades municipais.\n\n2 - As polícias municipais exercem, ainda, funções nos seguintes domínios:\n\na) Vigilância de espaços públicos ou abertos ao público, designadamente de áreas circundantes de escolas, em coordenação com as forças de segurança;\n\nb) Vigilância nos transportes urbanos locais, em coordenação com as forças de segurança;\n\nc) Intervenção em programas destinados à acção das polícias junto das escolas ou de grupos específicos de cidadãos;\n\nd) Guarda de edifícios e equipamentos públicos municipais, ou outros temporariamente à sua responsabilidade;\n\ne) Regulação e fiscalização do trânsito rodoviário e pedonal na área de jurisdição municipal.\n\n3 - Para os efeitos referidos no n.º 1, os órgãos de polícia municipal têm competência para o levantamento de auto ou o desenvolvimento de inquérito por ilícito de mera ordenação social, de transgressão ou criminal por factos estritamente conexos com violação de lei ou recusa da prática de acto legalmente devido no âmbito das relações administrativas.\n\n4 - Quando, por efeito do exercício dos poderes de autoridade previstos nos n.os 1 e 2, os órgãos de polícia municipal directamente verifiquem o cometimento de qualquer crime podem proceder à identificação e revista dos suspeitos no local do cometimento do ilícito, bem como à sua imediata condução à autoridade judiciária ou ao órgão de polícia criminal competente.\n\n5 - Sem prejuízo do disposto nos números anteriores, é vedado às polícias municipais o exercício de competências próprias dos órgãos de polícia criminal."
+  },
+  "107505187": {
+   "fragment_id": "107504729",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - As polícias municipais, na prossecução das suas atribuições próprias, são competentes em matéria de:\n\na) Fiscalização do cumprimento dos regulamentos municipais e da aplicação das normas legais, designadamente nos domínios do urbanismo, da construção, da defesa e protecção da natureza e do ambiente, do património cultural e dos recursos cinegéticos;\n\nb) Fiscalização do cumprimento das normas de estacionamento de veículos e de circulação rodoviária, incluindo a participação de acidentes de viação que não envolvam procedimento criminal;\n\nc) Execução coerciva, nos termos da lei, dos actos administrativos das autoridades municipais;\n\nd) Adopção das providências organizativas apropriadas aquando da realização de eventos na via pública que impliquem restrições à circulação, em coordenação com as forças de segurança competentes, quando necessário;\n\ne) Detenção e entrega imediata, a autoridade judiciária ou a entidade policial, de suspeitos de crime punível com pena de prisão, em caso de flagrante delito, nos termos da lei processual penal;\n\nf) Denúncia dos crimes de que tiverem conhecimento no exercício das suas funções, e por causa delas, e competente levantamento de auto, bem como a prática dos actos cautelares necessários e urgentes para assegurar os meios de prova, nos termos da lei processual penal, até à chegada do órgão de polícia criminal competente;\n\ng) Elaboração dos autos de notícia, autos de contra-ordenação ou transgressão por infracções às normas referidas no artigo 3.º;\n\nh) Elaboração dos autos de notícia, com remessa à autoridade competente, por infracções cuja fiscalização não seja da competência do município, nos casos em que a lei o imponha ou permita;\n\ni) Instrução dos processos de contra-ordenação e de transgressão da respectiva competência;\n\nj) Acções de polícia ambiental;\n\nl) Acções de polícia mortuária;\n\nm) Garantia do cumprimento das leis e regulamentos que envolvam competências municipais de fiscalização.\n\n2 - As polícias municipais, por determinação da câmara municipal, promovem, por si ou em colaboração com outras entidades, acções de sensibilização e divulgação de matérias de relevante interesse social no concelho, em especial nos domínios da protecção do ambiente e da utilização dos espaços públicos, e cooperam com outras entidades, nomeadamente as forças de segurança, na prevenção e segurança rodoviária.\n\n3 - As polícias municipais procedem ainda à execução de comunicações, notificações e pedidos de averiguações por ordem das autoridades judiciárias e de outras tarefas locais de natureza administrativa, mediante protocolo do Governo com o município.\n\n4 - As polícias municipais integram, em situação de crise ou de calamidade pública, os serviços municipais de protecção civil."
+  },
+  "107505188": {
+   "fragment_id": "107504730",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência territorial\n\n1 - A competência territorial das polícias municipais coincide com a área do município.\n\n2 - Os agentes de polícia municipal não podem actuar fora do território do respectivo município, excepto em situações de flagrante delito ou em emergência de socorro, mediante solicitação da autoridade municipal competente."
+  },
+  "107505189": {
+   "fragment_id": "107504731",
+   "type": 11,
+   "heading": "Artigo 6.º — Dependência orgânica e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dependência orgânica e coordenação\n\n1 - A polícia municipal actua no quadro definido pelos órgãos representativos do município e é organizada na dependência hierárquica do presidente da câmara.\n\n2 - A coordenação entre a acção da polícia municipal e as forças de segurança é assegurada, em articulação, pelo presidente da câmara e pelos comandantes das forças de segurança com jurisdição na área do município.\n\n3 - A aplicação da presente lei não prejudica o exercício de quaisquer competências das forças de segurança."
+  },
+  "107505190": {
+   "fragment_id": "107504732",
+   "type": 11,
+   "heading": "Artigo 7.º — Designação e distintivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Designação e distintivos\n\n1 - As polícias municipais designam-se pela expressão «Polícia Municipal», seguida do nome do município.\n\n2 - O modelo de uniforme do pessoal das polícias municipais é único para todo o território nacional e deverá ser concebido de molde a permitir identificar com facilidade os agentes de polícia municipal, distinguindo-os, simultaneamente, dos agentes das forças de segurança.\n\n3 - Os distintivos heráldicos e gráficos próprios de cada polícia municipal, a exibir nos uniformes e nas viaturas, deverão permitir a fácil identificação do município a que dizem respeito e distingui-los dos utilizados pelas forças de segurança.\n\n4 - Os modelos de uniforme e distintivos heráldicos e gráficos a que aludem os números anteriores são aprovados por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e das autarquias locais."
+  },
+  "107505191": {
+   "fragment_id": "107504733",
+   "type": 11,
+   "heading": "Artigo 8.º — Efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Efectivos\n\nO efectivo das polícias municipais é objecto de regulamentação por decreto-lei, tendo em conta as necessidades do serviço e a proporcionalidade entre o número de agentes e o de cidadãos eleitores inscritos na área do respectivo município."
+  },
+  "107505192": {
+   "fragment_id": "107504734",
+   "type": 11,
+   "heading": "Artigo 9.º — Armamento e equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Armamento e equipamento\n\n1 - As polícias municipais só podem deter e utilizar as armas de defesa e os equipamentos coercivos expressamente definidos pelo Governo.\n\n2 - As regras de utilização das armas são as fixadas na lei, a qual estipulará, obrigatoriamente, que aquelas serão depositadas em armeiro próprio.\n\n3 - As especificações técnicas, como o tipo, o calibre, a dimensão e o modelo, bem como o número das armas e equipamentos de uso autorizado às polícias municipais, nos termos do número anterior, são definidas por portaria.\n\n4 - O armamento das polícias municipais não pode ser de calibre igual ou superior ao detido pelas forças de segurança."
+  },
+  "107505193": {
+   "fragment_id": "107504735",
+   "type": 11,
+   "heading": "Artigo 10.º — Tutela administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tutela administrativa\n\n1 - A verificação do cumprimento das leis e dos regulamentos por parte dos municípios, em matéria de organização e funcionamento das respectivas polícias municipais, compete aos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais.\n\n2 - Sem prejuízo dos poderes de tutela previstos na lei geral sobre as autarquias locais, compete ao membro do Governo responsável pela administração interna, por iniciativa própria ou mediante proposta do membro do Governo responsável pelas autarquias locais, determinar a investigação de factos indiciadores de violação grave de direitos, liberdades e garantias de cidadãos praticados pelo pessoal das polícias municipais no exercício das suas funções policiais."
+  },
+  "107505194": {
+   "fragment_id": "107504736",
+   "type": 11,
+   "heading": "Artigo 11.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Criação\n\n1 - A criação das polícias municipais compete à assembleia municipal, sob proposta da câmara municipal.\n\n2 - A deliberação a que se refere o número anterior formaliza-se pela aprovação do regulamento da polícia municipal e do respectivo quadro de pessoal.\n\n3 - A eficácia da deliberação a que se referem os números anteriores depende de ratificação por resolução do Conselho de Ministros."
+  },
+  "107505195": {
+   "fragment_id": "107504737",
+   "type": 11,
+   "heading": "Artigo 12.º — Fixação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fixação de competências\n\n1 - Das deliberações dos órgãos municipais que instituem a polícia municipal devem constar, de forma expressa, a enumeração das respectivas competências e a área do território do município em que as exercem.\n\n2 - O Governo, através de decreto-lei, fixará as regras a observar nas deliberações referidas, nomeadamente no que respeita ao conteúdo do regulamento da polícia municipal, à adequação dos meios humanos às competências fixadas e à área do município em que as exercem."
+  },
+  "107505196": {
+   "fragment_id": "107504738",
+   "type": 11,
+   "heading": "Artigo 13.º — Transferências financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transferências financeiras\n\nO Governo adoptará as medidas legislativas necessárias à dotação dos municípios que possuam ou venham a possuir polícia municipal com os meios financeiros correspondentes às competências efectivamente exercidas."
+  },
+  "107505197": {
+   "fragment_id": "107504739",
+   "type": 1,
+   "heading": "Capítulo III — Dos agentes de polícia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos agentes de polícia municipal"
+  },
+  "107505198": {
+   "fragment_id": "107504740",
+   "type": 11,
+   "heading": "Artigo 14.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Poderes de autoridade\n\n1 - Quem faltar à obediência devida a ordem ou mandado legítimos que tenham sido regularmente comunicados e emanados do agente de polícia municipal será punido com a pena prevista para o crime de desobediência.\n\n2 - Quando necessário ao exercício das suas funções de fiscalização ou para a elaboração de autos para que são competentes, os agentes de polícia municipal podem identificar os infractores, bem como solicitar a apresentação de documentos de identificação necessários à acção de fiscalização, nos termos da lei."
+  },
+  "107505199": {
+   "fragment_id": "107504741",
+   "type": 11,
+   "heading": "Artigo 15.º — Uniforme e identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Uniforme e identificação\n\nNo exercício efectivo das suas funções, o pessoal das polícias municipais tem de apresentar-se devidamente uniformizado e pessoalmente identificado."
+  },
+  "107505200": {
+   "fragment_id": "107504742",
+   "type": 11,
+   "heading": "Artigo 16.º — Meios coercivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Meios coercivos\n\n1 - Os agentes de polícia municipal só podem utilizar os meios coercivos previstos na lei que tenham sido superiormente colocados à sua disposição, na estrita medida das necessidades decorrentes do exercício das suas funções, da sua legítima defesa ou de terceiros.\n\n2 - Quando o interesse público determine a indispensabilidade do uso de meios coercivos não autorizados ou não disponíveis para a polícia municipal, os agentes devem solicitar a intervenção das forças de segurança territorialmente competentes.\n\n3 - O recurso a arma de fogo é regulado por lei."
+  },
+  "107505201": {
+   "fragment_id": "107504743",
+   "type": 11,
+   "heading": "Artigo 17.º — Porte de arma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Porte de arma\n\n1 - Sem prejuízo do disposto no artigo anterior, os agentes de polícia municipal, quando em serviço, podem ser portadores de arma fornecida pelo município.\n\n2 - A câmara municipal manterá um registo actualizado das armas distribuídas e dos agentes autorizados a serem portadores das mesmas."
+  },
+  "107505202": {
+   "fragment_id": "107504744",
+   "type": 11,
+   "heading": "Artigo 18.º — Recrutamento e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Recrutamento e formação\n\n1 - O regime de recrutamento e formação dos agentes de polícia municipal será regulado mediante decreto-lei.\n\n2 - A formação de base conterá obrigatoriamente formação administrativa, cívica e profissional específica, contemplando módulos de formação teórica e estágios de formação prática."
+  },
+  "107505203": {
+   "fragment_id": "107504745",
+   "type": 11,
+   "heading": "Artigo 19.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Estatuto\n\n1 - Os agentes das polícias municipais estão sujeitos ao regime geral dos funcionários da administração local, com as adaptações adequadas às especificidades decorrentes das suas funções e a um estatuto disciplinar próprio, nos termos definidos em decreto-lei.\n\n2 - As denominações das categorias que integrarem a carreira dos agentes de polícia municipal não podem, em caso algum, ser iguais ou semelhantes às adoptadas pelas forças de segurança."
+  },
+  "107505204": {
+   "fragment_id": "107504746",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "107505205": {
+   "fragment_id": "107504747",
+   "type": 11,
+   "heading": "Artigo 20.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regulamentação\n\nO Governo procederá, no prazo de 90 dias, à regulamentação da presente lei."
+  },
+  "107505206": {
+   "fragment_id": "107504748",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime especial das Polícias Municipais de Lisboa e Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime especial das Polícias Municipais de Lisboa e Porto\n\nO regime das Polícias Municipais de Lisboa e Porto é objecto de regras especiais a aprovar em decreto-lei."
+  },
+  "107505207": {
+   "fragment_id": "107504749",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a Lei n.º 140/99, de 28 de Agosto."
+  },
+  "107505208": {
+   "fragment_id": "107504750",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente lei entra em vigor no 1.º dia do 2.º mês seguinte ao da sua publicação."
+  },
+  "174691475": {
+   "fragment_id": "107504734",
+   "type": 11,
+   "heading": "Artigo 9.º — Armamento e equipamento",
+   "in_force_from": "2019-09-22",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 50/2019 - Diário da República n.º 140/2019, Série I de 2019-07-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2019-123436957), em vigor a partir de 2019-09-22"
+   ],
+   "markdown": "###### Artigo 9.º — Armamento e equipamento\n\n1 - As polícias municipais podem deter e utilizar armas de fogo curtas de repetição ou semiautomática, de calibre a definir pela câmara municipal, o qual não pode ser superior a 7,65 mm.\n\n2 - As regras de utilização das armas são as fixadas na lei, a qual estipulará, obrigatoriamente, que aquelas serão depositadas em armeiro próprio.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 50/2019 - Diário da República n.º 140/2019, Série I de 2019-07-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2019-123436957), em vigor a partir de 2019-09-22"
+  },
+  "107505209": {
+   "fragment_id": "107504751",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de Abril de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 3 de Maio de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 5 de Maio de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182839:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/1990-1054639928",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/16-1990-182839",
+ "source_lastmod": "2026-07-27",
+ "versions": [
+  {
+   "date": "1990-04-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1152109075",
+    "1054729675"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:571454:por",
+     "title": "Declaração",
+     "published": "1990-05-23",
+     "dre_path": "/dr/detalhe/declaracao/1990-571454",
+     "date": "1990-04-25"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "1152109075": {
+   "fragment_id": "1054729375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "1990-04-25",
+   "changed_by": [],
+   "markdown": "A Lei n.º 101/89, de 29 de Dezembro, autoriza o Governo a contrair empréstimos internos até perfazer um acréscimo de endividamento global directo de 683 milhões de contos, para fazer face ao défice do Orçamento do Estado, dos serviços autónomos e dos fundos autónomos.\n\nAssim:\n\nNos termos das alíneas c) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu o seguinte:\n\n1 - Autorizar a emissão de empréstimos internos, amortizáveis, denominados «Obrigações do Tesouro» (OT), nos termos do disposto no Decreto-Lei n.º 364/87, de 27 de Novembro, até ao montante de 150 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral pela totalidade dos empréstimos.\n\n2 - Por despacho do Ministro das Finanças poderão ser anulados os montantes não colocados deste empréstimo e aumentados, no mesmo valor, os montantes de outros empréstimos autorizados, sendo, neste caso, feitas as respectivas alterações aos correspondentes limites das obrigações gerais.\n\n3 - A colocação do presente empréstimo será feita em séries.\n\n4 - O prazo de cada série não será inferior a 18 meses nem superior a 60 meses.\n\n5 - As condições da emissão por cada série, nomeadamente o montante e a data de reembolso, serão divulgadas pela Junta do Crédito Público ou pelo Banco de Portugal e definidas nos termos previstos pelo Decreto-Lei n.º 364/87, de 27 de Novembro.\n\n6 - A presente resolução entra em vigor no dia imediato ao da sua publicação."
+  },
+  "1054729675": {
+   "fragment_id": "1054729575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 12 de Abril de 1990. - O Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

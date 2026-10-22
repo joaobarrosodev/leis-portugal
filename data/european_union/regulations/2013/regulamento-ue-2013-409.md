@@ -1,0 +1,481 @@
+---
+schema_version: '1.0'
+id: eu:celex:32013R0409:por
+title: Regulamento de Execução (UE) n. ° 409/2013 da Comissão, de 3 de maio de 2013
+short_title: null
+summary: Regulamento de Execução (UE) n. ° 409/2013 da Comissão, de 3 de maio de 2013 , relativo à definição de projetos comuns,
+  ao estabelecimento de um mecanismo de governação e à identificação de medidas de incentivo para apoiar a execução do Plano
+  Diretor Europeu de Gestão do Tráfego Aéreo Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2013/409
+official_date: null
+publication_date: '2013-05-04'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 123 de 4.5.2013
+  number: '123'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/205ff2e1-b811-11e2-ab01-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2013-05-05'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2021-02-22'
+identifiers:
+  celex: 32013R0409
+  eli: http://data.europa.eu/eli/reg_impl/2013/409/oj
+  oj: oj:JOL_2013_123_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32013R0409:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32013R0409
+  metadata_url: http://publications.europa.eu/resource/cellar/205ff2e1-b811-11e2-ab01-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0409-20210222
+  retrieved_at: '2026-10-22T03:00:07Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-18T16:41:52.585+02:00'
+integrity:
+  source_sha256: d0adcb5a1522ea32a7c2111b59c86fa405066dc101b088317078542c55e11fb3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:00:07Z'
+  notes: Texto consolidado 02013R0409-20210222.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- controlo aéreo
+- espaço aéreo
+- projeto de interesse comum
+- tráfego aéreo
+relationships:
+- type: amended_by
+  target: celex:32021R0116
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4d28723c-64fa-11eb-aeb5-01aa75ed71a1
+  date: '2021-02-02'
+- type: based_on
+  target: celex:32004R0550
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0eed2b60-b7f9-4308-baef-63fe94effe0d
+  date: '2004-03-31'
+- type: cited_by
+  target: pt:dre:1169277025:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1169277026:por
+  label: null
+  source: null
+- type: cites
+  target: celex:32004R0549
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a05de3ee-6cf8-47d8-9d65-4fd263e4e184
+- type: cites
+  target: celex:32004R0552
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bd42c03c-4275-4718-b84b-3202795ba7da
+- type: cites
+  target: celex:32006R1794
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce
+- type: cites
+  target: celex:32007R0219
+  label: null
+  source: http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab
+- type: cites
+  target: celex:32008R0216
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aeee2e82-bcac-40d4-8637-340ccc78241c
+- type: cites
+  target: celex:32010R0691
+  label: null
+  source: http://publications.europa.eu/resource/cellar/216082b1-1808-4eb3-a4fd-41787111ebb9
+- type: cites
+  target: celex:32011R0677
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3af628f3-8420-4fbd-bb68-17ef086b8091
+- type: cites
+  target: celex:52011DC0923
+  label: null
+  source: http://publications.europa.eu/resource/cellar/356c60f4-4ad2-4da0-a343-0b4b3676519a
+- type: corrected_by
+  target: celex:32013R0409R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9f860074-13cd-11e4-933d-01aa75ed71a1
+  date: '2014-07-25'
+article_structure:
+  article_count: 16
+  section_count: 14
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:00:07Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento de Execução (UE) n. ° 409/2013 da Comissão, de 3 de maio de 2013
+
+> 02013R0409 — PT — 22.02.2021 — 001.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32021R0116) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/116 DA COMISSÃO de 1 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0116) — L 36 — 10 — 2.2.2021
+
+## REGULAMENTO DE EXECUÇÃO (UE) N.º 409/2013 DA COMISSÃO
+
+de 3 de maio de 2013
+
+relativo à definição de projetos comuns, ao estabelecimento de um mecanismo de governação e à identificação de medidas de incentivo para apoiar a execução do Plano Diretor Europeu de Gestão do Tráfego Aéreo
+
+(Texto relevante para efeitos do EEE)
+
+## CAPÍTULO I
+
+### PRINCÍPIOS GERAIS
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1. O presente regulamento define projetos comuns, na aceção do artigo 15.º-A do Regulamento (CE) n.º 550/2004, explica como devem ser geridos e identifica os incentivos para a sua implantação.
+
+2. O presente regulamento aplica-se à rede europeia de gestão do tráfego aéreo (REGTA).
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, aplicam-se as definições do artigo 2.º do Regulamento (CE) n.º 549/2004 e do artigo 2.º do Regulamento (UE) n.º 677/2011.
+
+Além disso, aplicam-se as seguintes definições:
+
+1) «Empresa comum SESAR»: o organismo, instituído pelo Regulamento (CE) n.º 219/2007 ([^1^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0001)) do Conselho, ou o seu sucessor, ao qual foi confiada a tarefa de gerir e coordenar a fase de desenvolvimento do projeto SESAR;
+
+2) «Regime de tarifação»: o regime estabelecido pelo Regulamento de Execução (UE) 2019/317 ([^2^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0002)) da Comissão;
+
+3) «Funcionalidade ATM»: um grupo de funções ATM operacionais interoperáveis ou serviços ATM relacionados com a trajetória, a gestão do espaço aéreo e dos movimentos no solo ou a partilha de informações nos ambientes operacionais de rota, do terminal, do aeroporto ou da rede;
+
+3-A) «Subfuncionalidade ATM»: uma parte integrante de uma funcionalidade ATM, consistindo numa função ou serviço operacional que contribui para o alcance geral da funcionalidade;
+
+3-B) «Solução SESAR»: um resultado da fase de desenvolvimento do SESAR, que institui tecnologias novas ou melhoradas normalizadas e interoperáveis e procedimentos operacionais harmonizados de apoio à execução do Plano Diretor ATM Europeu;
+
+4) «Implantação do SESAR»: as atividades e os processos relacionados com a industrialização e execução de funcionalidades ATM identificadas no Plano Diretor ATM;
+
+4-A) «Execução sincronizada»: execução de funcionalidades ATM de forma sincronizada numa área geográfica definida que inclui pelo menos dois Estados-Membros na REGTA, ou entre as partes interessadas operacionais no ar e em terra, com base num planeamento comum que inclui datas-alvo para a operacionalização e as medidas transitórias pertinentes para a operacionalização progressiva e que envolve várias partes interessadas operacionais;
+
+5) «Industrialização de funcionalidades ATM»: as atividades e os processos, após respetiva validação, que incluem a normalização, a certificação e a produção pela indústria transformadora (fabricantes de equipamentos de terra e de bordo);
+
+6) «Execução das funcionalidades ATM»: aquisição, instalação, testes, formação e entrada em funcionamento de equipamentos e sistemas, incluindo os procedimentos operacionais associados, efetuados pelas partes interessadas operacionais;
+
+6-A) «Data-alvo de execução»: a data em que deve ser concluída a execução da funcionalidade ou subfuncionalidade ATM;
+
+6-B) «Data-alvo de industrialização»: a data em que as normas e especificações devem estar disponíveis para a funcionalidade ou subfuncionalidade ATM a fim de permitir a sua execução;
+
+7) «Alterações operacionais essenciais»: uma alteração operacional da gestão do tráfego aéreo (ATM) que prevê melhorias significativas do desempenho da rede para as partes interessadas operacionais, conforme previsto no Plano Diretor ATM;
+
+8) «Sistema de desempenho»: um esquema estabelecido pelo Regulamento de Execução (UE) 2019/317;
+
+9) «Objetivos de desempenho a nível da União»: os objetivos referidos no artigo 9.º do Regulamento de Execução (UE) 2019/317;
+
+10) «Partes interessadas operacionais»: o gestor da rede e utilizadores civis e militares do espaço aéreo, os prestadores de serviços de navegação aérea, os operadores aeroportuários;
+
+11) «Projeto SESAR»: um ciclo de inovação que proporciona à União um sistema de gestão do tráfego aéreo normalizado e interoperável de elevado desempenho, compreendendo as fases de definição, desenvolvimento e implantação do SESAR.
+
+###### Artigo 3.º — Plano Diretor ATM
+
+1. O Plano Diretor ATM é o roteiro que preside à modernização do sistema europeu de ATM e estabelece a ligação entre a investigação e o desenvolvimento e a implantação do SESAR. Constituirá o principal instrumento do céu único europeu para a exploração em contínuo da REGTA e a implantação em tempo útil, de forma coordenada e sincronizada do SESAR.
+
+2. As atualizações do Plano Diretor ATM devem contribuir para a consecução dos objetivos de desempenho a nível da União Europeia e manter a coerência entre estes objetivos, a implantação do SESAR e as atividades de investigação, desenvolvimento, inovação e validação SESAR. Para o efeito, as atualizações do Plano Diretor ATM devem ter em conta o plano estratégico da rede e o plano de operações da rede.
+
+## CAPÍTULO II
+
+### PROJETOS COMUNS
+
+###### Artigo 4.º — Objetivo e conteúdo
+
+1. Os projetos comuns devem identificar as funcionalidades ATM e as suas subfuncionalidades. Essas funcionalidades e subfuncionalidades devem basear-se em soluções SESAR que abordam as alterações operacionais essenciais definidas no Plano Diretor ATM Europeu, devem estar prontas para execução e requerem uma execução sincronizada.
+
+A prontidão para execução deve ser avaliada, nomeadamente, de acordo com os resultados da validação realizada durante a fase de desenvolvimento, o estado de industrialização e uma avaliação da interoperabilidade, bem como em relação ao Plano Mundial de Navegação Aérea da Organização da Aviação Civil Internacional (OACI) e a material pertinente da OACI.
+
+2.
+
+Os projetos comuns devem estabelecer para cada funcionalidade e subfuncionalidade ATM as seguintes características:
+
+a) As alterações operacionais essenciais para as quais contribuem;
+
+b) O âmbito operacional e técnico;
+
+c) O âmbito geográfico;
+
+d) As partes interessadas da operação que são necessárias à sua execução;
+
+e) Os requisitos de sincronização;
+
+f) As datas-alvo de execução;
+
+g) As interdependências com outras funcionalidades ou subfuncionalidades.
+
+3. Em derrogação do n.º 1, os projetos comuns também podem incluir funcionalidades ou subfuncionalidades ATM que não estão prontas para execução, mas constituem uma componente essencial do projeto comum em causa e desde que a sua industrialização seja concluída no prazo de três anos a partir da adoção do projeto comum em causa. Para o efeito, deve também ser definida no projeto comum uma data-alvo de industrialização para essas funcionalidades ou subfuncionalidades ATM.
+
+4. No termo da data-alvo de industrialização, a Comissão, com o apoio da Agência da União Europeia para a Segurança da Aviação, deve verificar se as funcionalidades ou subfuncionalidades ATM referidas no n.º 3 foram normalizadas e estão prontas para execução. Caso não estejam prontas para execução, devem ser retiradas do regulamento do projeto comum.
+
+5. O órgão de gestão da implantação, a empresa comum SESAR, os organismos europeus de normalização, a Eurocae e a indústria transformadora em causa cooperam sob a coordenação da Agência da União Europeia para a Segurança da Aviação para assegurar o cumprimento da data-alvo de industrialização.
+
+6.
+
+Os projetos comuns devem igualmente:
+
+a) Ser coerentes e contribuir para os objetivos de desempenho a nível da União Europeia;
+
+b) Demonstrar a viabilidade comercial da REGTA, com base numa análise custo-benefício, e identificar eventuais impactos negativos, a nível local ou regional, para qualquer categoria específica de partes interessadas operacionais;
+
+c) Ter em conta os elementos de implantação pertinentes, especificados no plano estratégico da rede e no plano de operações da rede do gestor da rede;
+
+d) Demonstrar um melhor desempenho ambiental.
+
+###### Artigo 5.º — Elaboração, adoção e execução
+
+1. A Comissão deve elaborar propostas de projetos comuns, em conformidade com os requisitos do artigo 4.º.
+
+2. A Comissão é assistida pelo gestor da rede, a Agência da União Europeia para a Segurança da Aviação, o órgão de análise do desempenho no âmbito das respetivas atribuições e competências, e pela empresa comum SESAR, o Eurocontrol, os organismos europeus de normalização, a Eurocae e o órgão de gestão da implantação. Esses organismos devem associar as partes interessadas operacionais e a indústria transformadora.
+
+2-A. A Agência Europeia para a Segurança da Aviação, a pedido da Comissão, emite um parecer sobre a prontidão técnica para a operacionalização das funcionalidades ATM e respetivas subfuncionalidades, propostas para um projeto comum.
+
+3. A Comissão deve consultar as partes interessadas, em conformidade com os artigos 6.º e 10.° do Regulamento (CE) n.º 549/2004, nomeadamente através da Agência Europeia de Defesa, no âmbito das suas competências, de modo a facilitar a coordenação de pontos de vista militares, e o grupo consultivo de peritos sobre a dimensão social do céu único europeu relativamente às suas propostas de projetos comuns.
+
+A Comissão deve verificar que as propostas de projetos comuns são apoiadas pelos utilizadores do espaço aéreo e pelas partes interessadas operacionais em terra responsáveis pela execução de um projeto comum específico.
+
+5. A Comissão deve adotar projetos comuns, bem como eventuais alterações a estes, em conformidade com o procedimento previsto no artigo 15.º-A, n.º 3, do Regulamento (CE) n.º 550/2004.
+
+6. Os projetos comuns devem ser executados através de projetos de execução e em conformidade com o programa de implantação definido no capítulo III, secção 2.
+
+7. Os Estados-Membros e o gestor da rede devem incluir os investimentos relacionados com a execução de projetos comuns nos planos de desempenho e no plano de desempenho da rede.
+
+###### Artigo 6.º — Acompanhamento
+
+1. A Comissão deve acompanhar a execução dos projetos comuns e o seu impacto no desempenho da REGTA através de requisitos específicos de informação. Tais requisitos devem ser estabelecidos pela Comissão no âmbito da parceria-quadro a que se refere o artigo 9.º, n.º 5.
+
+2. Ao acompanhar a eficácia dos projetos comuns no respeitante ao desempenho da REGTA, a Comissão deve fazer o melhor uso possível dos instrumentos de acompanhamento e informação existentes e ser assistida, nomeadamente, pelo gestor da rede e pelo órgão de análise do desempenho, em conformidade com os Regulamentos (UE) n.º 677/2011 e (UE) n.º 691/2010, e pela Agência Europeia para a Segurança da Aviação no respeitante aos aspetos de segurança.
+
+3. O Comité do Céu Único deve ser informado da execução de projetos comuns.
+
+## CAPÍTULO III
+
+### MECANISMO DE GOVERNAÇÃO DA IMPLANTAÇÃO E MEDIDAS DE INCENTIVO
+
+## SECÇÃO 1
+
+### Mecanismo de governação da implantação
+
+###### Artigo 7.º — Princípios gerais
+
+1. O mecanismo de governação da implantação deve garantir a execução em tempo útil, de forma coordenada e sincronizada de projetos comuns, constituindo simultaneamente uma interface com a industrialização e facilitando-a.
+
+2. O mecanismo de governação da implantação é composto por três níveis: nível político, nível de gestão e nível de execução.
+
+###### Artigo 8.º — Nível político
+
+1. O nível político é responsável pela supervisão da implantação do SESAR, assegurando a sua conformidade com o quadro regulamentar do céu único europeu e a defesa do interesse público.
+
+2.
+
+A Comissão é responsável pelo nível político, designadamente pelos seguintes aspetos:
+
+a) Criação e adoção de projetos comuns em conformidade com o artigo 5.º;
+
+b) Seleção do órgão de gestão da implantação, aprovação do programa de implantação e seleção dos projetos de execução;
+
+c) Gestão dos fundos da União que apoiam o órgão de gestão da implantação e os projetos de execução;
+
+d) Identificação das medidas de incentivo à implantação do SESAR e execução do acordo-quadro de parceria celebrado com o órgão de gestão da implantação, em conformidade com o artigo 9.º, n.º 5, e de quaisquer acordos pertinentes para os projetos de execução;
+
+e) Promoção da participação das partes interessadas civis e militares;
+
+f) Desenvolvimento da cooperação e da coordenação com países terceiros;
+
+g) Estabelecer coordenação com a Agência da União Europeia para a Segurança da Aviação e com os organismos europeus de normalização, a fim de facilitar a industrialização e promover a interoperabilidade das funcionalidades e subfuncionalidades ATM;
+
+h) Acompanhamento da implantação de projetos comuns e do seu contributo para a consecução dos objetivos de desempenho a nível da União Europeia;
+
+i) Formulação de recomendações às partes interessadas operacionais e aos Estados-Membros.
+
+3. A Comissão é assistida pelo Comité do Céu Único, o órgão consultivo do setor, o grupo consultivo de peritos sobre a dimensão social do céu único europeu, as autoridades supervisores nacionais e o órgão de análise do desempenho, no âmbito das respetivas atribuições e competências definidas no quadro regulamentar do céu único europeu. A Comissão pode consultar o Comité do Céu Único sobre qualquer questão relacionada com a aplicação do presente regulamento.
+
+4.
+
+A Comissão deve associar igualmente, no âmbito das respetivas competências e atribuições:
+
+a) O Eurocontrol, através de acordos de cooperação entre o Eurocontrol e a União, a fim de tirar pleno partido dos seus conhecimentos especializados e das suas competências civis-militares e pan-europeias;
+
+b) A Agência Europeia de Defesa, a fim de facilitar a coordenação entre os pontos de vista militares dos Estados-Membros e em apoio destes e as organizações militares internacionais competentes para a implantação do SESAR e informar os mecanismos de planeamento militar sobre os requisitos decorrentes da implantação do SESAR;
+
+c) A Agência da União Europeia para a Segurança da Aviação, a fim de garantir que os requisitos e normas de segurança, interoperabilidade e ambientais dos projetos comuns são estabelecidos em conformidade com o Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0003)) e as suas regras de execução, e com o Plano Europeu de Segurança da Aviação estabelecido em conformidade com o seu artigo 6.º;
+
+d) A empresa comum SESAR, a fim de assegurar uma ligação permanente entre as atividades de investigação, desenvolvimento, inovação e validação SESAR e a implantação do SESAR e garantir que os projetos comuns e o programa de implantação estão em conformidade com o Plano Diretor ATM;
+
+e) Os organismos europeus de normalização e a Eurocae, a fim de facilitar e monitorizar os processos de normalização industrial e a utilização das normas daí resultantes.
+
+###### Artigo 9.º — Nível de gestão
+
+1. O órgão de gestão da implantação é responsável pelo nível de gestão.
+
+2.
+
+O órgão de gestão da implantação é responsável, designadamente, pelos seguintes aspetos:
+
+a) Desenvolver, propor, manter e executar o programa de implantação, em conformidade com a secção 2;
+
+b) Associar as partes interessadas operacionais necessárias para a execução de projetos comuns;
+
+c) Criar mecanismos e processos de tomada de decisões que garantam uma sincronização eficiente e uma coordenação global dos projetos de execução e do investimento conexo, em conformidade com o programa de implantação;
+
+d) Garantir a gestão eficaz dos riscos e dos conflitos de interesses;
+
+e) Aconselhar a Comissão sobre questões relacionadas com a execução de projetos comuns e a criação de novos projetos comuns;
+
+f) Aplicar as decisões da Comissão, bem como garantir e acompanhar a respetiva aplicação pelo nível de execução;
+
+g) Identificar os mecanismos de financiamento mais adequados, combinando financiamento público e privado;
+
+h) Acompanhar a execução do programa de implantação;
+
+i) Prestar informações à Comissão;
+
+j) Garantir uma coordenação adequada com as autoridades supervisoras nacionais;
+
+k) Assegurar uma coordenação adequada com a Agência da União Europeia para a Segurança da Aviação.
+
+3. O órgão de gestão da implantação é composto por grupos de partes interessadas operacionais ou partes interessadas operacionais individuais, inclusive de países terceiros, nas condições estabelecidas nos programas de financiamento pertinentes da União. As partes interessadas operacionais podem participar nas atividades do órgão de gestão da implantação através de estruturas FAB.
+
+4.
+
+O órgão de gestão da implantação deve demonstrar, nomeadamente, a sua capacidade de:
+
+a) Representar as partes interessadas operacionais necessárias para a execução de projetos comuns;
+
+b) Gerir programas de execução multinacionais;
+
+c) Compreender os mecanismos de apoio e financiamento e a gestão do programa financeiro; e
+
+d) Utilizar as estruturas existentes para associar todas as partes interessadas operacionais.
+
+5. A seleção pela Comissão dos membros do órgão de gestão da implantação deve assumir a forma do estabelecimento de uma parceria-quadro na sequência de um convite à apresentação de propostas, em conformidade com o artigo 178.º do Regulamento Delegado (UE) n.º 1268/2012, de 29 de outubro de 2012, sobre as normas de execução do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, relativo às disposições financeiras aplicáveis ao orçamento geral da União ([^4^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0004)) (normas de execução). O convite à apresentação de propostas deve definir os objetivos, requisitos e critérios de seleção dos membros do órgão de gestão da implantação, em conformidade com as normas de execução. O Comité do Céu Único deve ser informado sobre o processo de seleção dos membros do órgão de gestão da implantação.
+
+6. Os membros do órgão de gestão da implantação devem realizar, no mínimo, um projeto de execução ou parte deste.
+
+7.
+
+O órgão de gestão da implantação deve celebrar acordos de cooperação adequados com o gestor da rede, a empresa comum SESAR e o setor militar. Estes devem ser apresentados à Comissão para aprovação. A cooperação deve assumir a seguinte forma:
+
+a) O órgão de gestão da implantação e o gestor da rede devem cooperar para assegurar o cumprimento das suas tarefas, sem qualquer forma de duplicação ou concorrência, designadamente no respeitante aos aspetos da implantação com impactos na infraestrutura de rede, na organização do espaço aéreo e no desempenho, bem como à coerência com o plano estratégico da rede e ao plano de operações da rede; o gestor da rede deve igualmente apoiar, no âmbito do seu mandato, os membros do órgão de gestão da implantação, em conformidade com o artigo 4.º, n.º 1, alínea i), e n.º 3, alínea b), do Regulamento (UE) n.º 677/2011;
+
+b) O órgão de gestão da implantação deve cooperar com a empresa comum SESAR para assegurar as ligações necessárias entre as atividades de investigação, desenvolvimento, inovação e validação SESAR e a implantação do SESAR e consultar a empresa comum SESAR sobre as prioridades e os progressos realizados durante a fase de desenvolvimento sobre questões relacionadas com a industrialização, bem como garantir a coerência com o Plano Diretor ATM;
+
+c) O órgão de gestão da implantação deve estabelecer uma coordenação com o setor militar, a fim de evitar qualquer impacto negativo nas capacidades de defesa nacionais e coletivas.
+
+8. O parecer das entidades referidas no n.º 7 deve ser tomado devidamente em conta pelo órgão de gestão da implantação, nas suas decisões passíveis de afetar as atividades das referidas entidades.
+
+9. Em caso de desacordo entre o órgão de gestão da implantação e as entidades referidas no n.º 7, o órgão de gestão da implantação deve submeter a questão à apreciação da Comissão para decisão. O órgão de gestão da implantação deve dar cumprimento à decisão da Comissão.
+
+10. O órgão de gestão da implantação deve requerer assistência à indústria transformadora, através de acordos de cooperação que devem ser comunicados à Comissão, a fim de receber, designadamente, informações sobre a industrialização dos produtos.
+
+11. Sob reserva da disponibilidade de fundos e nas condições estabelecidas no programa de financiamento pertinente da União, a Comissão deve prestar apoio financeiro ao órgão de gestão da implantação, exclusivamente para a realização das tarefas que lhe incumbem por força do n.º 2.
+
+###### Artigo 10.º — Nível de execução
+
+1. O nível de execução consiste nos projetos de execução selecionados pela Comissão para a execução de projetos comuns, em conformidade com o programa de implantação.
+
+2. A Comissão deve selecionar projetos de execução, através de convites à apresentação de propostas, para a execução do programa de implantação e em conformidade com as regras e os procedimentos dos programas de financiamento pertinentes da União.
+
+3. As propostas de projetos de execução devem ter em devida conta a maturidade dos processos de industrialização para estes projetos, com base nas informações prestadas pela indústria transformadora, nomeadamente sobre o impacto dos projetos de execução nos sistemas ATM tradicionais, na viabilidade técnica, nas estimativas de custos e nos roteiros para soluções técnicas.
+
+4. Os projetos de execução e a respetiva realização devem estar em conformidade com as condições acordadas com a Comissão.
+
+## SECÇÃO 2
+
+### Programa de implantação
+
+###### Artigo 11.º — Objetivo e conteúdo
+
+1. O programa de implantação deve proporcionar um plano de trabalho abrangente e estruturado de todas as atividades necessárias para a aplicação das tecnologias, procedimentos e melhores práticas requeridos para a execução de projetos comuns. O programa de implantação deve especificar os facilitadores tecnológicos para a execução dos projetos comuns.
+
+2. O programa de implantação deve definir o modo como a execução de projetos comuns deve ser sincronizada na REGTA, tendo em conta os requisitos e condicionalismos operacionais locais.
+
+3. O programa de implantação deve constituir a referência para todas as partes interessadas operacionais necessárias para executar os projetos comuns e para os níveis de gestão e execução. As partes interessadas operacionais devem fornecer ao órgão de gestão da implantação informações pertinentes sobre a execução do programa de implantação. O programa de implantação faz parte do acordo-quadro de parceria e, como tal, todos os beneficiários comprometem-se a executá-lo.
+
+###### Artigo 12.º — Elaboração e execução
+
+1. O órgão de gestão da implantação deve apresentar a proposta de programa de implantação e as propostas de alteração para aprovação pela Comissão.
+
+2. Ao preparar a proposta para o programa de implantação ou as propostas de alteração deste, o órgão de gestão da implantação deve estabelecer uma coordenação com o gestor da rede, a empresa comum SESAR e o setor militar, em conformidade com o artigo 9.º, n.º 7.
+
+3. Após a adoção de cada projeto comum, a Comissão deve requerer ao órgão de gestão da implantação que adapte o respetivo programa.
+
+## SECÇÃO 3
+
+### Medidas de incentivo
+
+###### Artigo 13.º — Financiamento da União
+
+1. O financiamento da União destinado a apoiar a implantação do SESAR deve incidir nos projetos de execução previstos no artigo 10.º e selecionados para financiamento da União em conformidade com as regras e os procedimentos dos programas de financiamento pertinentes.
+
+2. A Comissão deve estabelecer disposições contratuais que abranjam os projetos de execução selecionados para receber financiamento da União. Estas disposições devem definir sanções por não-execução do programa de implantação e dos projetos de execução.
+
+###### Artigo 14.º — Outros incentivos
+
+1. Os incentivos à implantação do SESAR nos termos dos Regulamentos (CE) n.º 1794/2006 e (UE) n.º 691/2010 podem ser identificados no contexto da elaboração de projetos comuns.
+
+2. O financiamento da União concedido nos termos do artigo 13.º deve ser considerado como «outras receitas», em conformidade com o artigo 2.º, alínea k), do Regulamento (CE) n.º 1794/2006.
+
+## CAPÍTULO IV
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 15.º — Revisão
+
+A Comissão deve rever a execução dos projetos comuns até ao final do segundo período de referência estabelecido no artigo 7.º do Regulamento (UE) n.º 691/2010.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente regulamento entra em vigor no primeiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 219/2007 do Conselho, de 27 de fevereiro de 2007, relativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR), (JO L 64 de 2.3.2007, p. 1).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento de Execução (UE) 2019/317 da Comissão, de 11 de fevereiro de 2019, que estabelece um sistema de desempenho e um regime de tarifação no âmbito do céu único europeu e que revoga os Regulamentos de Execução (UE) n.º 390/2013 e (UE) n.º 391/2013 (JO L 56 de 25.2.2019, p. 1).
+
+> ([^3^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho, de 4 de julho de 2018, relativo a regras comuns no domínio da aviação civil que cria a Agência da União Europeia para a Segurança da Aviação, altera os Regulamentos (CE) n.º 2111/2005, (CE) n.º 1008/2008, (UE) n.º 996/2010 e (UE) n.º 376/2014 e as Diretivas 2014/30/UE e 2014/53/UE do Parlamento Europeu e do Conselho, e revoga os Regulamentos (CE) n.º 552/2004 e (CE) n.º 216/2008 do Parlamento Europeu e do Conselho e o Regulamento (CEE) n.º 3922/91 do Conselho (JO L 212 de 22.8.2018, p. 1).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/9d3f0e97-763d-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0004)) JO L 362 de 31.12.2012, p. 1.

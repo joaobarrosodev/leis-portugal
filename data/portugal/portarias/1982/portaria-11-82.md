@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:553388:por
+title: Portaria n.º 11/82
+short_title: null
+summary: Autoriza a microfilmagem dos documentos que devem manter-se em arquivo nos Caminhos de Ferro Portugueses, E. P.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 11/82
+official_date: null
+publication_date: '1982-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/1982, Série I de 1982-01-05
+  number: '3'
+  series: I
+  supplement: null
+  pages: 15 - 16
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/01/00300/00150016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '553388'
+  dre_path: /dr/detalhe/portaria/11-1982-553388
+  internal: pt:dre:553388:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-1982-553388
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-1982-553388
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-06-27T00:00:00Z'
+integrity:
+  source_sha256: 4778f4680b080a7b6e54535d4655a99e346150aea5beca02e21939f8d03e04ac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-11-553388.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:183446:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 11/82
+
+de 5 de Janeiro
+
+O [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, estabeleceu no n.º 1 que serão fixados em portaria ministerial os prazos mínimos de conservação em arquivo de documentos na posse de certos serviços, designadamente empresas públicas.
+
+O mesmo decreto-lei permite ainda que seja autorizada a microfilmagem dos documentos que devem manter-se em arquivo e a consequente inutilização dos originais.
+
+Esta última prática tem-se tornado de grande utilidade em face da grave carência de espaço com que se debatem os serviços e o elevado custo que o mesmo espaço representa.
+
+Por tal motivo foi já concedida a outras empresas públicas a faculdade de destruição e microfilmagem dos documentos que devem manter em arquivo.
+
+Importa assim colocar os Caminhos de Ferro Portugueses, E. P., em identidade de condições com outras empresas públicas.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações, ao abrigo do disposto na alínea c) do artigo 1.º do [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, e do artigo 2.º do mesmo diploma legal, o seguinte:
+
+###### Artigo 1.º — (Prazos de conservação de documentos)
+
+1 - Na empresa pública Caminhos de Ferro Portugueses, E. P., os documentos, incluídos ou não em processos, serão mantidos em arquivo durante os prazos mínimos estabelecidos na legislação comercial, salvo se outro prazo for estabelecido em acordo, tratado ou convenção que vinculem o Estado Português.
+
+2 - O conselho de gerência da empresa determinará, em regulamentação interna, o período mínimo de conservação dos documentos não contemplados no número anterior.
+
+###### Artigo 2.º — (Documentos que não podem ser inutilizados)
+
+Não serão inutilizados os documentos cuja conservação se imponha pelo seu interesse histórico ou outro motivo atendível, nomeadamente:
+
+a) Todos os documentos relacionados com contratos de aquisição de material ferroviário, fixo ou circulante;
+
+b) A documentação relacionada com contratos de empreitada celebrados pela empresa;
+
+c) Títulos de aquisição de terrenos e edifícios;
+
+d) Processos individuais e processos disciplinares do pessoal.
+
+###### Artigo 3.º — (Microfilmagem de documentos)
+
+1 - É autorizada a microfilmagem dos documentos que devem manter-se em arquivo e a consequente inutilização dos originais.
+
+2 - As diversas espécies documentais serão microfilmadas em duas bobinas, que ficarão guardadas em locais diferentes.
+
+3 - Os filmes não poderão sofrer cortes ou emendas e deverão reproduzir os termos de abertura e encerramento. O primeiro mencionará o início do microfilme e do segundo constará a declaração de que as imagens nele contidas são reproduções totais e exactas dos originais.
+
+###### Artigo 4.º — (Pessoal responsável pela microfilmagem)
+
+Será responsável pela regularidade das operações de microfilmagem o dirigente do serviço onde funcionar o respectivo centro, a designar pelo conselho de gerência.
+
+###### Artigo 5.º — (Força probatória da fotocópia)
+
+As fotocópias obtidas a partir do microfilme têm força probatória legal, devendo ser autenticadas com a assinatura do responsável pelo serviço, ou seu substituto, e com o selo branco da empresa.
+
+###### Artigo 6.º — (Inutilização de documentos)
+
+A inutilização dos documentos será feita por modo a impossibilitar a sua reconstituição, lavrando-se um auto de destruição de documentos que será anexado à declaração referida no n.º 3 do artigo 3.º
+
+Ministério da Habitação, Obras Públicas e Transportes, 15 de Dezembro de 1981. - Pelo Ministro da Habitação, Obras Públicas e Transportes, Abílio Gaspar Rodrigues, Secretário de Estado dos Transportes Interiores.

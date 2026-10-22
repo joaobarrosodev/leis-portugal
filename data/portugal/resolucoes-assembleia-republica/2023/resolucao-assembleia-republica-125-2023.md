@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:223575029:por
+title: Resolução da Assembleia da República n.º 125/2023
+short_title: null
+summary: Recomenda ao Governo que contrate os recursos humanos necessários à prossecução das políticas públicas de habitação
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 125/2023
+official_date: null
+publication_date: '2023-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2023, Série I de 2023-10-31
+  number: '211'
+  series: I
+  supplement: null
+  pages: 13 - 13
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/10/21100/0001300013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/125/2023/10/31/p/dre/pt/html
+  oj: null
+  dre: '223575029'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/125-2023-223575029
+  internal: pt:dre:223575029:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/125-2023-223575029
+  metadata_url: https://data.dre.pt/eli/resolassrep/125/2023/10/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/125-2023-223575029
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-10-31T00:00:00Z'
+integrity:
+  source_sha256: bd66d6f80fdb907004397174e4e36fe4c692c0bef499149979c7be10fac666fb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-125-223575029.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Habitação Social
+- Contratação de Pessoal
+- Política de Habitação
+- Programa de Apoio à Habitação
+- Recomendação
+- Recursos Humanos
+- Habitação
+- Governo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 125/2023
+
+Recomenda ao Governo que contrate os recursos humanos necessários à prossecução das políticas públicas de habitação
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Adote as iniciativas necessárias à otimização da capacidade e ao reforço de meios para a execução das políticas públicas de habitação, designadamente através do aumento dos recursos humanos indispensáveis à concretização dos programas que atualmente prosseguem essas políticas.
+
+2 - Avance imediatamente com programas de formação dos recursos humanos existentes e a integrar, bem como dos demais intervenientes nos programas de apoio à construção e acesso a habitação pública, cumprindo o disposto no artigo 215.º do Orçamento do Estado para 2023, aprovado pela [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro.
+
+Aprovada em 13 de outubro de 2023.
+
+**O Presidente da Assembleia da República, Augusto Santos Silva.**

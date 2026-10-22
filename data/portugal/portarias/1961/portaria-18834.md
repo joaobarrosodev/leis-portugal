@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:185332:por
+title: Portaria n.º 18834
+short_title: null
+summary: Abre créditos destinados a reforçar verbas inscritas na tabela de despesa extraordinária do orçamento geral em vigor
+  na província ultramarina de Macau
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '18834'
+official_date: null
+publication_date: '1961-11-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 272/1961, Série I de 1961-11-23
+  number: '272'
+  series: I
+  supplement: null
+  pages: 1463 - 1464
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/11/27200/14631464.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '185332'
+  dre_path: /dr/detalhe/portaria/18834-1961-185332
+  internal: pt:dre:185332:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18834-1961-185332
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18834-1961-185332
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1961-11-23T00:00:00Z'
+integrity:
+  source_sha256: 4b7023ccb762fd7705bf39d51a2365192fbb371d1ff6392fbf89b631ac3ea016
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-18834-185332.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 1
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18834
+
+Atendendo ao que foi proposto pelo Governo da província de Macau no sentido da utilização dos saldos das dotações do programa de execução de 1960 do II Plano de Fomento no reforço de dotações do programa aprovado para o ano em curso;
+
+Considerando que, efectivamente, se trata de um caso de urgente necessidade;
+
+Tendo em vista a autorização dada pelo Conselho Económico em sessão de 17 de Outubro findo:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), 13.º e 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo de Macau abra os seguintes créditos especiais:
+
+1) Um de 525645$95, tomando como contrapartida igual quantia a sair do subsídio reembolsável da metrópole autorizado pelo [Decreto-Lei n.º 40379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40379-1955-248070), de 15 de Novembro de 1955, destinado a reforçar a verba do capítulo 12.º, artigo 224.º, n.º III), n.º 2 «II Plano de Fomento, [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958 - Instrução e saúde - Construção e equipamento de instalações hospitalares e congéneres», da tabela de despesa extraordinária do orçamento geral em vigor.
+
+2) Outro de 30130633$74, usando como contrapartida igual quantia a sair das disponibilidades do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 42479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42479-1959-431981), de 31 de Agosto de 1959, destinado a reforçar com estas importâncias as seguintes verbas da mesma tabela de despesa:
+
+### Capítulo 12.º
+
+###### Artigo 224.º «II Plano de Fomento, [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+
+I) «Aproveitamento de recursos»:
+
+1) «Agricultura, silvicultura e pecuária»:
+
+a) «Fomento agrário» ... 2960619$60
+
+b) «Fomento florestal» ... 70058$63
+
+c) «Fomento pecuário» ... 436769$53
+
+2) «Indústrias»:
+
+a) «Comparticipação nos estudos de impulsionamento de novas indústrias e no desenvolvimento das existentes» ... 5000000$00
+
+II) «Comunicações e transportes»:
+
+1) «Portos»:
+
+a) «Obras e apetrechamentos portuários, ligações marítimas locais e aquisição de embarcações» ... 2129541$46
+
+2) «Dragagens e aterros» ... 3977349$53
+
+III) «Instrução e saúde»:
+
+1) «Construção e apetrechamento de instalações escolares» ... 168814$52
+
+2) «Construção e equipamento de instalações hospitalares e congéneres» ... 3388849$62
+
+IV) «Melhoramentos locais»:
+
+1) «Urbanização, incluindo a construção de edifícios públicos ou de utilidade geral» ... 3328724$21
+
+2) «Saneamento urbano» ... 8669906$74
+
+... 30130633$74
+
+Ministério do Ultramar, 23 de Novembro de 1961. - Pelo Ministro do Ultramar, Manuel Rafael Amaro da Costa, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Macau. - A. da Costa.

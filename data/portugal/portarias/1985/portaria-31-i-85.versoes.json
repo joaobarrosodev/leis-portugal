@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:162784:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-890365647",
+ "dre_path": "/dr/detalhe/portaria/31-i-1985-162784",
+ "source_lastmod": "2024-10-09",
+ "versions": [
+  {
+   "date": "1985-01-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890485679"
+   ]
+  },
+  {
+   "date": "1985-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:649288:por",
+     "title": "Declaração",
+     "published": "1985-03-30",
+     "dre_path": "/dr/detalhe/declaracao/1985-649288"
+    }
+   ],
+   "changes": [
+    "Retifica 2.º"
+   ],
+   "fragments": [
+    "890485679",
+    "890485694",
+    "890685791",
+    "890485692",
+    "890485691",
+    "890485690",
+    "890485689",
+    "890485688",
+    "890485687",
+    "890485686",
+    "890485685",
+    "890485684",
+    "890485683",
+    "890485682",
+    "890485681",
+    "890485680"
+   ]
+  },
+  {
+   "date": "1985-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:181434:por",
+     "title": "Portaria n.º 376/85",
+     "published": "1985-06-19",
+     "dre_path": "/dr/detalhe/portaria/376-1985-181434"
+    }
+   ],
+   "changes": [
+    "Revoga 14.º"
+   ],
+   "fragments": [
+    "890485679",
+    "890485694",
+    "890685791",
+    "890485692",
+    "890485691",
+    "890485690",
+    "890485689",
+    "890485688",
+    "890485687",
+    "890485686",
+    "890485685",
+    "890485684",
+    "890485683",
+    "890485682",
+    "890485713",
+    "890485680"
+   ]
+  },
+  {
+   "date": "1985-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182778:por",
+     "title": "Portaria n.º 446/85",
+     "published": "1985-07-10",
+     "dre_path": "/dr/detalhe/portaria/446-1985-182778"
+    }
+   ],
+   "changes": [
+    "Altera 2.º",
+    "Altera 3.º",
+    "Altera 4.º",
+    "Altera 7.º",
+    "Altera 9.º",
+    "Altera 10.º",
+    "Altera 11.º"
+   ],
+   "fragments": [
+    "890485679",
+    "890485694",
+    "890485714",
+    "890485715",
+    "890485716",
+    "890485690",
+    "890485689",
+    "890485717",
+    "890485687",
+    "890485718",
+    "890485719",
+    "890485720",
+    "890485683",
+    "890485682",
+    "890485713",
+    "890485680"
+   ]
+  }
+ ],
+ "fragments": {
+  "890485679": {
+   "fragment_id": "890365648",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 31-I/85\n\nde 12 de Janeiro\n\nO prosseguimento de uma política na área dos combustíveis visando a aproximação do preço do gasóleo do da gasolina, sem afectar a produção agrícola nacional e a competitividade da nossa agricultura, exige a manutenção, em 1985, de um esquema de bonificação ao gasóleo consumido por aquele sector.\n\nAproveitando a circunstância de permanecer actualizada grande parte dos registos do ano anterior, dado o curto intervalo de tempo entre as inscrições referentes a 1984 e a 1985, é possível aligeirar o envolvimento no processo quer dos agricultores beneficiários quer dos serviços regionais do Ministério da Agricultura.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Agricultura e da Indústria e Energia, em conformidade com o Decreto-Lei n.º 19/83, de 21 de Janeiro, o seguinte:"
+  },
+  "890485694": {
+   "fragment_id": "890365663",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nNo corrente ano são concedidos subsídios aos proprietários das máquinas indicadas no número seguinte que se encontrem em boas condições de funcionamento e tenham um emprego predominante na realização de operações culturais inerentes à actividade agrícola e aos de culturas instaladas em áreas regadas por bombagem."
+  },
+  "890685791": {
+   "fragment_id": "890365662",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1985-03-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 75/1985, 3º Suplemento, Série I de 1985-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-649288), em vigor a partir de 1985-03-30"
+   ],
+   "markdown": "###### 2.º\n\nAs máquinas agrícolas consideradas para efeitos do número anterior e a base de cálculo dos correspondentes subsídios anuais são as seguintes:\n\n(ver documento original)\n\n> Nota: [Declaração - Diário da República n.º 75/1985, 3º Suplemento, Série I de 1985-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-649288) No quadro do n.º 2.º, na l. 7, onde se lê «Ceifeiras-debulhadoras - 300» deve ler-se «Motocultivadoras - 300», e na l. 8, onde se lê «Motocultivadoras - 180» deve ler-se «Motoenxadas - 180»\n\n> Retificado pelo/a [Declaração - Diário da República n.º 75/1985, 3º Suplemento, Série I de 1985-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-649288), em vigor a partir de 1985-03-30"
+  },
+  "890485692": {
+   "fragment_id": "890365661",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nA atribuição do subsídio às áreas regadas por bombagem será baseada no valor médio de consumo de 150 l de gasóleo por hectare."
+  },
+  "890485691": {
+   "fragment_id": "890365660",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nO subsídio a atribuir, cujo valor será oportunamente fixado, conduzirá a que o preço final do gasóleo para a agricultura seja o que corresponde ao seu custo real sem incidência de quaisquer impostos."
+  },
+  "890485690": {
+   "fragment_id": "890365659",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nConsideram-se automaticamente inscritos e com direito ao recebimento destes subsídios os beneficiários de 1984 que não tiveram, entretanto, qualquer alteração nem na composição do parque de máquinas nem nas áreas regadas por bombagem."
+  },
+  "890485689": {
+   "fragment_id": "890365658",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nO direito ao recebimento dos subsídios referidos, nas demais situações, fica condicionado ao manifesto das alterações na composição do parque de máquinas e nas áreas regadas por bombagem, até à data limite da inscrição, o qual deverá ser feito pelos respectivos proprietários nos competentes serviços regionais do Ministério da Agricultura, através de impresso a distribuir pelos mesmos serviços e de acordo com as seguintes regras:\n\na) Agricultores já inscritos em 1984 que tiveram alterações - declaração das alterações;\n\nb) Novas inscrições - preenchimento do processo completo."
+  },
+  "890485688": {
+   "fragment_id": "890365657",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nO período de inscrição decorrerá de 2 de Maio a 14 de Junho de 1985."
+  },
+  "890485687": {
+   "fragment_id": "890365656",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nSempre que ocorra a alienação ou abate de qualquer equipamento ou alienação no todo ou em parte das áreas regadas por bombagem, são os respectivos beneficiários do subsídio obrigados a comunicar tais factos aos serviços regionais onde estiver feito o seu manifesto no prazo máximo de 30 dias a partir da data da ocorrência."
+  },
+  "890485686": {
+   "fragment_id": "890365655",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nOs serviços regionais do Ministério da Agricultura deverão confirmar os elementos constantes dos manifestos referidos no n.º 5 por vistoria aos equipamentos e às áreas regadas, escolhidos por amostragem e em percentagem não inferior aos limites mínimos adiante indicados, relativamente ao número de manifestos recebidos por cada um para cada tipo e classe de máquina ou área regada:\n\na) Tractores:\n\nAté 7 anos de registo - 5%;\n\nDe 7 a 10 anos de registo - 20%;\n\nDe 10 a 12 anos de registo - 50%;\n\nDe mais de 12 anos de registo a totalidade;\n\nb) Conjuntos retroescavadora-carregador frontal (também designados «conjuntos industriais») - a totalidade;\n\nc) Ceifeiras-debulhadoras - a totalidade;\n\nd) Motocultivadores, motoceifeiras e motoenxadas - por vistoria nas explorações ou por concentração em locais a definir pelos serviços ao nível de freguesia ou de concelho;\n\ne) Áreas regadas por bombagem - por vistoria segundo amostragem a definir por cada direcção regional de agricultura."
+  },
+  "890485685": {
+   "fragment_id": "890365654",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nAs falsas declarações feitas pelos interessados nos manifestos referidos no n.º 5.º determinarão:\n\na) A anulação de qualquer ordem de pagamento do subsídio anual em processamento relativamente ao mesmo interessado;\n\nb) A comunicação dos factos ao Ministério Público quando as referidas declarações tenham permitido ao interessado receber o subsídio agora criado."
+  },
+  "890485684": {
+   "fragment_id": "890365653",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nO pagamento do subsídio será feito de uma só vez, a partir do começo do 4.º trimestre, directamente a cada beneficiário e na importância líquida do imposto do selo do recibo."
+  },
+  "890485683": {
+   "fragment_id": "890365652",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\nSerão suportadas pelas dotações orçamentais dos serviços regionais do Ministério da Agricultura todas as despesas com as vistorias e o acompanhamento dos trabalhos de registo."
+  },
+  "890485682": {
+   "fragment_id": "890365651",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\nO Fundo de Abastecimento apenas suportará o encargo com o pagamento dos subsídios referidos nos n.os 2.º e 3.º deste diploma e efectuará os respectivos pagamentos directamente aos beneficiários."
+  },
+  "890485681": {
+   "fragment_id": "890365650",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º\n\nÉ revogada a Portaria n.º 917/84, de 15 de Dezembro.\n\nMinistérios das Finanças e do Plano, da Agricultura e da Indústria e Energia."
+  },
+  "890485680": {
+   "fragment_id": "890365649",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 10 de Janeiro de 1985.\n\nPelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Energia, Jos"
+  },
+  "890485713": {
+   "fragment_id": "890365650",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": "1985-06-24",
+   "changed_by": [
+    "Revogado pelo/a 1.º do/a [Portaria n.º 376/85 - Diário da República n.º 138/1985, Série I de 1985-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/376-1985-181434), em vigor a partir de 1985-06-24"
+   ],
+   "markdown": "###### 14.º\n\nÉ revogada a Portaria n.º 917/84, de 15 de Dezembro.\n\nMinistérios das Finanças e do Plano, da Agricultura e da Indústria e Energia.\n\n> Revogado pelo/a 1.º do/a [Portaria n.º 376/85 - Diário da República n.º 138/1985, Série I de 1985-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/376-1985-181434), em vigor a partir de 1985-06-24"
+  },
+  "890485714": {
+   "fragment_id": "890365662",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1985-07-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11",
+    "Retificado pelo/a [Declaração - Diário da República n.º 75/1985, 3º Suplemento, Série I de 1985-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-649288), em vigor a partir de 1985-03-30"
+   ],
+   "markdown": "###### 2.º\n\nAs máquinas agrícolas consideradas para efeitos do n.º 1.º e os respectivos subsídios anuais são os seguintes:\n\n(ver documento original)\n\n> Nota: [Declaração - Diário da República n.º 75/1985, 3º Suplemento, Série I de 1985-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-649288) No quadro do n.º 2.º, na l. 7, onde se lê «Ceifeiras-debulhadoras - 300» deve ler-se «Motocultivadoras - 300», e na l. 8, onde se lê «Motocultivadoras - 180» deve ler-se «Motoenxadas - 180»\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11\n\n> Retificado pelo/a [Declaração - Diário da República n.º 75/1985, 3º Suplemento, Série I de 1985-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-649288), em vigor a partir de 1985-03-30"
+  },
+  "890485715": {
+   "fragment_id": "890365661",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "1985-07-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+   ],
+   "markdown": "###### 3.º\n\nA atribuição do subsídio às áreas regadas por bombagem será baseada no valor médio de 3225$00..\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+  },
+  "890485716": {
+   "fragment_id": "890365660",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "1985-07-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+   ],
+   "markdown": "###### 4.º\n\nO subsídio a atribuir, cujo valor no corrente ano é de 21$50 por litro, foi fixado de forma que o preço do gasóleo para a agricultura corresponda, aproximadamente, ao seu custo real sem incidência de quaisquer taxas.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+  },
+  "890485717": {
+   "fragment_id": "890365657",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "1985-07-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+   ],
+   "markdown": "###### 7.º\n\nO período de inscrição decorrerá de 3 de Junho a 15 de Julho de 1985.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+  },
+  "890485718": {
+   "fragment_id": "890365655",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": "1985-07-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+   ],
+   "markdown": "###### 9.º\n\nOs serviços regionais do Ministério da Agricultura deverão confirmar os elementos constantes das inscrições referidas nos n.os 5.º e 6.º por vistoria aos equipamentos e às áreas regadas, escolhidos por amostragem e em percentagem não inferior aos limites mínimos adiante indicados, relativamente ao número de manifestos recebidos por cada um para cada tipo e classe de máquina ou área regada:\n\na) Tractores:\n\nAté 7 anos de registo - 5%;\n\nDe 7 a 10 anos de registo - 20%;\n\nDe 10 a 12 anos de registo - 50%;\n\nDe mais de 12 anos de registo - a totalidade:\n\nb) Conjuntos retroescavadora - carregador frontal (também designados «conjuntos industriais») - a totalidade;\n\nc) Ceifeiras-debulhadoras - a totalidade;\n\nd) Motocultivadoras, motoceifeiras e motoenxadas - por vistoria nas explorações ou por concentração em locais a definir pelos serviços ao nível de freguesia ou de concelho;\n\ne) Áreas regadas por bombagem - por vistoria, segundo amostragem a definir por cada direcção regional de agricultura.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+  },
+  "890485719": {
+   "fragment_id": "890365654",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": "1985-07-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+   ],
+   "markdown": "###### 10.º\n\nAs falsas declarações feitas pelos interessados nas inscrições referidas nos n.os 5.º e 6.º determinarão:\n\na) A anulação de qualquer ordem de pagamento do subsídio anual em processamento relativamente ao mesmo interessado;\n\nb) A comunicação dos factos ao Ministério Público quando as referidas declarações tenham permitido ao interessado receber o subsídio agora criado.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+  },
+  "890485720": {
+   "fragment_id": "890365653",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": "1985-07-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+   ],
+   "markdown": "###### 11.º\n\nO pagamento do subsídio será feito de uma só vez e directamente a cada beneficiário e na importância líquida do imposto do selo de recibo.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 446/85 - Diário da República n.º 156/1985, Série I de 1985-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/446-1985-182778), em vigor a partir de 1985-07-11"
+  }
+ }
+}

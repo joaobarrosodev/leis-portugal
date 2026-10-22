@@ -1,0 +1,257 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146435561:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-152810566",
+ "dre_path": "/dr/detalhe/lei/62-a-2020-146435561",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215713419",
+    "152810599",
+    "152810600",
+    "152810601",
+    "152810602",
+    "152810603",
+    "152810604",
+    "152810605",
+    "152810606",
+    "152810607",
+    "152810608"
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215713419",
+    "215713420",
+    "215713421",
+    "215713422",
+    "215713423",
+    "215713424",
+    "215713425",
+    "215713426",
+    "215713427",
+    "215713428",
+    "215713429",
+    "215713430"
+   ]
+  }
+ ],
+ "fragments": {
+  "215713419": {
+   "fragment_id": "152810567",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 62-A/2020\n\nde 27 de outubro\n\nSumário: Imposição transitória da obrigatoriedade do uso de máscara em espaços públicos.\n\nImposição transitória da obrigatoriedade do uso de máscara em espaços públicos\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:\n\n> Nota: [Artigo 2.º, Lei n.º 75-D/2020 - Diário da República n.º 253/2020, 2º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-d-2020-152637736) A Lei n.º 75-D/2020, prorroga a vigência deste diploma, por um período de 90 dias."
+  },
+  "152810599": {
+   "fragment_id": "152810568",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei determina, a título excecional, a obrigatoriedade do uso de máscara para o acesso, circulação ou permanência nos espaços e vias públicas."
+  },
+  "152810600": {
+   "fragment_id": "152810569",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nA presente lei aplica-se em todo o território nacional."
+  },
+  "152810601": {
+   "fragment_id": "152810570",
+   "type": 11,
+   "heading": "Artigo 3.º — Uso de máscara",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Uso de máscara\n\n1 - É obrigatório o uso de máscara por pessoas com idade a partir dos 10 anos para o acesso, circulação ou permanência nos espaços e vias públicas sempre que o distanciamento físico recomendado pelas autoridades de saúde se mostre impraticável.\n\n2 - A obrigatoriedade referida no número anterior é dispensada:\n\na) Mediante a apresentação:\n\ni) De atestado médico de incapacidade multiúsos ou de declaração médica, no caso de se tratar de pessoas com deficiência cognitiva, do desenvolvimento e perturbações psíquicas;\n\nii) De declaração médica que ateste que a condição clínica da pessoa não se coaduna com o uso de máscaras;\n\nb) Quando o uso de máscara seja incompatível com a natureza das atividades que as pessoas se encontrem a realizar;\n\nc) Em relação a pessoas que integrem o mesmo agregado familiar, quando não se encontrem na proximidade de terceiros."
+  },
+  "152810602": {
+   "fragment_id": "152810571",
+   "type": 11,
+   "heading": "Artigo 4.º — Campanha de sensibilização para o uso de máscara",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Campanha de sensibilização para o uso de máscara\n\nSão realizadas campanhas de sensibilização, em meios de comunicação social e junto da população, sobre a importância do uso de máscara em espaços e vias públicas, para garantir a adesão espontânea da população a esta e outras medidas de proteção individual e coletiva, bem como para incentivar a utilização de máscaras reutilizáveis e o correto descarte de máscaras não reutilizáveis."
+  },
+  "152810603": {
+   "fragment_id": "152810572",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nA fiscalização do cumprimento das obrigações previstas na presente lei compete às forças de segurança e às polícias municipais, cabendo-lhes, prioritariamente, uma função de sensibilização e pedagogia para a importância da utilização de máscara em espaços e vias públicas quando não seja possível manter a distância social."
+  },
+  "152810604": {
+   "fragment_id": "152810573",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime contraordenacional\n\nO incumprimento da obrigação estabelecida no artigo 3.º constitui contraordenação nos termos previstos no artigo 3.º do Decreto-Lei n.º 28-B/2020, de 26 de junho, na sua redação atual."
+  },
+  "152810605": {
+   "fragment_id": "152810574",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito subsidiário\n\nEm tudo o que se não se encontre previsto na presente lei aplica-se subsidiariamente o regime contraordenacional previsto no Decreto-Lei n.º 28-B/2020, de 26 de junho, e o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "152810606": {
+   "fragment_id": "152810675",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação nas regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação nas regiões autónomas\n\nO disposto no presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, atendendo às especificidades regionais, mediante decreto do respetivo governo regional."
+  },
+  "152810607": {
+   "fragment_id": "152810676",
+   "type": 11,
+   "heading": "Artigo 9.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vigência\n\nA presente lei vigora pelo período de 70 dias a contar da data da sua entrada em vigor, e é avaliada, quanto à necessidade da sua renovação, no final desse período."
+  },
+  "152810608": {
+   "fragment_id": "152810677",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "215713420": {
+   "fragment_id": "152810568",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei determina, a título excecional, a obrigatoriedade do uso de máscara para o acesso, circulação ou permanência nos espaços e vias públicas.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713421": {
+   "fragment_id": "152810569",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nA presente lei aplica-se em todo o território nacional.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713422": {
+   "fragment_id": "152810570",
+   "type": 11,
+   "heading": "Artigo 3.º — Uso de máscara",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Uso de máscara\n\n1 - É obrigatório o uso de máscara por pessoas com idade a partir dos 10 anos para o acesso, circulação ou permanência nos espaços e vias públicas sempre que o distanciamento físico recomendado pelas autoridades de saúde se mostre impraticável.\n\n2 - A obrigatoriedade referida no número anterior é dispensada:\n\na) Mediante a apresentação:\n\ni) De atestado médico de incapacidade multiúsos ou de declaração médica, no caso de se tratar de pessoas com deficiência cognitiva, do desenvolvimento e perturbações psíquicas;\n\nii) De declaração médica que ateste que a condição clínica da pessoa não se coaduna com o uso de máscaras;\n\nb) Quando o uso de máscara seja incompatível com a natureza das atividades que as pessoas se encontrem a realizar;\n\nc) Em relação a pessoas que integrem o mesmo agregado familiar, quando não se encontrem na proximidade de terceiros.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713423": {
+   "fragment_id": "152810571",
+   "type": 11,
+   "heading": "Artigo 4.º — Campanha de sensibilização para o uso de máscara",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Campanha de sensibilização para o uso de máscara\n\nSão realizadas campanhas de sensibilização, em meios de comunicação social e junto da população, sobre a importância do uso de máscara em espaços e vias públicas, para garantir a adesão espontânea da população a esta e outras medidas de proteção individual e coletiva, bem como para incentivar a utilização de máscaras reutilizáveis e o correto descarte de máscaras não reutilizáveis.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713424": {
+   "fragment_id": "152810572",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nA fiscalização do cumprimento das obrigações previstas na presente lei compete às forças de segurança e às polícias municipais, cabendo-lhes, prioritariamente, uma função de sensibilização e pedagogia para a importância da utilização de máscara em espaços e vias públicas quando não seja possível manter a distância social.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713425": {
+   "fragment_id": "152810573",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime contraordenacional",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Regime contraordenacional\n\nO incumprimento da obrigação estabelecida no artigo 3.º constitui contraordenação nos termos previstos no artigo 3.º do Decreto-Lei n.º 28-B/2020, de 26 de junho, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713426": {
+   "fragment_id": "152810574",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito subsidiário",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 7.º — Direito subsidiário\n\nEm tudo o que se não se encontre previsto na presente lei aplica-se subsidiariamente o regime contraordenacional previsto no Decreto-Lei n.º 28-B/2020, de 26 de junho, e o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713427": {
+   "fragment_id": "152810675",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação nas regiões autónomas",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Aplicação nas regiões autónomas\n\nO disposto no presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, atendendo às especificidades regionais, mediante decreto do respetivo governo regional.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713428": {
+   "fragment_id": "152810676",
+   "type": 11,
+   "heading": "Artigo 9.º — Vigência",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 9.º — Vigência\n\nA presente lei vigora pelo período de 70 dias a contar da data da sua entrada em vigor, e é avaliada, quanto à necessidade da sua renovação, no final desse período.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713429": {
+   "fragment_id": "152810677",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713430": {
+   "fragment_id": "152810678",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 23 de outubro de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 26 de outubro de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 26 de outubro de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113677826\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

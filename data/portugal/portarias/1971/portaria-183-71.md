@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:445680:por
+title: Portaria n.º 183/71
+short_title: null
+summary: Manda publicar o Regulamento para a Concessão do Prémio Comandante Murinello
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Gabinete do Ministro
+proposing_entity: null
+official_number: 183/71
+official_date: null
+publication_date: '1971-04-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 83/1971, Série I de 1971-04-08
+  number: '83'
+  series: I
+  supplement: null
+  pages: 493 - 494
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/04/08300/04930494.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '445680'
+  dre_path: /dr/detalhe/portaria/183-1971-445680
+  internal: pt:dre:445680:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-1971-445680
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-1971-445680
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-04-08T00:00:00Z'
+integrity:
+  source_sha256: ed774368a92fa45c5fd317b8a8e0e34a473284ed33ecaea77625e0e31a958f5d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-183-445680.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 183/71
+
+de 8 de Abril
+
+Sendo conveniente estimular nos alunos da Escola Naval o gosto pela educação física, factor relevante na formação do oficial, não só para o desenvolvimento do seu vigor físico, mas também para o aperfeiçoamento das suas qualidades de autodisciplina, perseverança, espírito de equipa e camaradagem;
+
+Considerando de absoluta justiça prestar um merecido preito de homenagem ao comandante José Vítor de Sousa Peres Murinello (1881-1960), oficial que durante mais de vinte anos muito contribuiu para a estruturação e o desenvolvimento da educação física na Armada e para a preparação física de muitas gerações de oficiais:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, publicar o seguinte:
+
+REGULAMENTO PARA A CONCESSÃO DO PRÉMIO COMANDANTE MURINELLO
+
+1. É criado na Escola Naval um prémio com a designação de Prémio Comandante Murinello, a atribuir anualmente ao aspirante que tiver logrado a média mais elevada nas classificações obtidas na instrução de Educação Física ao longo dos quatro anos do seu curso.
+
+2. No caso de haver dois ou mais aspirantes que tenham igual média, será atribuído o Prémio a cada um deles.
+
+3. O Prémio será constituído por uma placa de prata gravada com o emblema e as inscrições que se indicam no modelo seguinte (o ano é o da atribuição do Prémio):
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1971/04/08300/04930494.pdf))](https://files.diariodarepublica.pt/1s/1971/04/08300/04930494.pdf)
+
+4. O Prémio é atribuído pelo Comando da Escola Naval.
+
+5. O nome de cada aluno premiado será publicado na Ordem do Dia à Escola e na Ordem da Direcção do Serviço do Pessoal, 1.ª serie.
+
+6. O Prémio será entregue na cerimónia de abertura do ano lectivo seguinte à sua atribuição.
+
+**O Ministro da Marinha, Manuel Pereira Crespo.**

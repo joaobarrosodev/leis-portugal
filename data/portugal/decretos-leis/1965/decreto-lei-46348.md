@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:294969:por
+title: Decreto-Lei n.º 46348
+short_title: null
+summary: Fixa as bases gerais da organização, competência e funcionamento da Junta Nacional da Educação - Revoga as disposições
+  do Decreto-Lei n.º 26111 relativas à Junta Nacional da Educação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação Nacional - Secretaria-Geral
+proposing_entity: null
+official_number: '46348'
+official_date: null
+publication_date: '1965-05-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 114/1965, Série I de 1965-05-22
+  number: '114'
+  series: I
+  supplement: null
+  pages: 710 - 711
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/05/11400/07100711.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294969'
+  dre_path: /dr/detalhe/decreto-lei/46348-1965-294969
+  internal: pt:dre:294969:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46348-1965-294969
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46348-1965-294969
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-02-25T00:00:00Z'
+integrity:
+  source_sha256: 3648a7029010019a152eba9f4f4ceec89090e72846bc2131726efa89be3ac636
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-46348-294969.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:141653:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46348
+
+Considerando que se encontram em curso estudos tendentes à reorganização do Ministério da Educação Nacional e outros sobre planeamento da acção educativa;
+
+Considerando, porém, que, dentro de uma orientação geral por mais de uma vez proclamada e posta em prática, esses estudos, necessàriamente demorados, sem embargo de toda a possível celeridade que se lhes vem imprimindo, não devem obstar à publicação de reformas parcelares que se mostram particularmente urgentes;
+
+Considerando que a experiência vem demonstrando por forma inequívoca a necessidade de uma revisão geral do Regimento da Junta Nacional da Educação, aprovado pelo [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, regimento que, aliás, já se encontra alterado em muitas das suas disposições por outros diplomas;
+
+Considerando a conveniência de expedir dois diplomas, um decreto-lei onde se fixem as bases gerais da organização, competência e funcionamento da Junta, e um decreto simples onde se regulamentem essas bases;
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º A Junta Nacional da Educação é um órgão técnico e consultivo que funciona junto do Ministro da Educação Nacional e tem por fim estudar problemas relativos ao ensino e à educação e sobre eles emitir parecer.
+
+###### Art. 2.º A Junta é constituída pelo Conselho Permanente da Acção Educativa e pelas seguintes secções:
+
+1.ª Ensino superior;
+
+2.ª Antiguidades e belas-artes;
+
+3.ª Bibliotecas e arquivos;
+
+4.ª Ensino liceal;
+
+5.ª Ensino técnico profissional;
+
+6.ª Ensino primário;
+
+7.ª Educação física e desportos;
+
+8.ª Educação moral e cívica.
+
+§ 1.º A 2.ª secção compreende cinco subsecções:
+
+1.ª Arqueologia;
+
+2.ª Artes plásticas;
+
+3.ª Museus e colecções de arte;
+
+4.ª Protecção e conservação de monumentos e obras de arte;
+
+5.ª Música e teatro.
+
+§ 2.º A 5.ª secção compreende três subsecções:
+
+1.ª Ensino agrícola;
+
+2.ª Ensino industrial;
+
+3.ª Ensino comercial.
+
+###### Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo regimento.
+
+§ 1.º O presidente é nomeado pelo Ministro de entre pessoas que tenham dado relevantes provas de interesse pelos problemas da educação nacional, podendo, quando professor, ser dispensado do exercício das funções docentes.
+
+§ 2.º O vice-presidente é o secretário-geral do Ministério, cabendo-lhe substituir o presidente nas suas faltas ou impedimentos.
+
+§ 3.º Os restantes membros, à excepção dos que tenham essa qualidade por inerência a outros cargos, são nomeados pelo Ministro de entre pessoas de reconhecida competência.
+
+§ 4.º As nomeações são feitas, em princípio, por três anos e renováveis por iguais períodos, mas o Ministro pode, em qualquer momento, substituir as pessoas nomeadas.
+
+§ 5.º As nomeações para vacaturas que ocorrerem no decurso do triénio entendem-se feitas até ao termo deste.
+
+###### Art. 4.º O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta, pelos presidentes das secções desta e pelo inspector superior do Ensino Particular.
+
+###### Art. 5.º As secções são presididas:
+
+a) A 1.ª, a 2.ª e a 3.º pelo director-geral do Ensino Superior e das Belas-Artes;
+
+b) A 4.ª pelo director-geral do Ensino Liceal;
+
+c) A 5.ª pelo director-geral do Ensino Técnico Profissional;
+
+d) A 6.ª pelo director-geral do Ensino Primário;
+
+e) A 7.ª pelo director-geral da Educação Física, Desportos e Saúde Escolar;
+
+f) A 8.ª por pessoa nomeada pelo Ministro.
+
+###### Art. 6.º Com autorização do Ministro podem ser agregadas temporàriamente ao Conselho Permanente da Acção Educativa ou a qualquer das secções ou subsecções, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito de voto nesses assuntos.
+
+###### Art. 7.º Compete à Junta Nacional da Educação pronunciar-se sobre os assuntos que lhe sejam apresentados por determinação ministerial ou em cumprimento de disposição de lei, dentro da finalidade geral expressa no artigo 1.º
+
+§ 1.º As consultas feitas à Junta podem dizer respeito tanto a decisões a tomar segundo a legislação vigente como à modificação desta.
+
+§ 2.º A intervenção da Junta, no exercício das suas atribuições, dar-se-á independentemente de determinação ministerial a mandar ouvi-la, sempre que a lei não exija essa determinação. Mas o Ministro poderá dispensar tal intervenção, salvo naqueles casos em que a lei expressamente a declare obrigatória.
+
+§ 3.º A Junta pode por sua iniciativa, independentemente de determinação ministerial ou legal, formular propostas ou sugestões sobre quaisquer problemas relativos à educação nacional.
+
+###### Art. 8.º O Conselho Permanente da Acção Educativa é o órgão central da Junta e, dentro de uma função coordenadora e consultiva, compete-lhe especialmente assegurar, através da hierarquia, a unidade e continuidade de acção do Ministério e emitir parecer sobre determinados assuntos.
+
+###### Art. 9.º O Conselho, as secções e as subsecções têm as atribuições fixadas no regimento da Junta.
+
+###### Art. 10.º A Junta funciona em sessões plenárias, em sessões do Conselho e em sessões de secções ou subsecções.
+
+###### Art. 11.º O Ministro pode, sempre que o julgue conveniente, comparecer às sessões plenárias, às do Conselho ou às das secções ou subsecções, e nesses caso assumirá a presidência.
+
+###### Art. 12.º Os pareceres da Junta emitidos em sessão plenária ou do Conselho serão submetidos a despacho do Ministro pelo presidente ou vice-presidente da Junta e os restantes pelo presidente da respectiva secção.
+
+###### Art. 13.º A 2.ª secção poderá ter delegados permanentes nos concelhos, escolhidos de entre pessoas de reconhecida competência que se prestem a auxiliá-la no desempenho das suas atribuições.
+
+§ 1.º Os delegados concelhios serão nomeados pelo Ministro, ouvida a secção.
+
+§ 2.º Os directores dos museus de arte, história ou arqueologia pertencentes ao Ministério da Educação Nacional são delegados natos da secção.
+
+###### Art. 14.º O serviço prestado pelos membros, pelos agregados e pelos delegados da Junta que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
+
+###### Art. 15.º Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ausentarem do lugar da sua residência serão abonadas despesas de transporte, bem como ajudas de custo, cuja importância será fixada pelos Ministros das Finanças e da Educação Nacional.
+
+###### Art. 16.º Ficam revogadas as disposições do [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, relativas à Junta Nacional da Educação.
+
+###### Art. 17.º Em harmonia com os preceitos deste diploma, o Ministro da Educação Nacional publicará o Regimento da Junta Nacional da Educação.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 22 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

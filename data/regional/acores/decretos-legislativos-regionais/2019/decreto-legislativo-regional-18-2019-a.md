@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:123666150:por
+title: Decreto Legislativo Regional n.º 18/2019/A
+short_title: null
+summary: Conselho da Diáspora Açoriana
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 18/2019/A
+official_date: null
+publication_date: '2019-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2019, Série I de 2019-08-05
+  number: '148'
+  series: I
+  supplement: null
+  pages: 46 - 49
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14800/0004600049.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/18/2019/08/05/a/dre/pt/html
+  oj: null
+  dre: '123666150'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/18-2019-123666150
+  internal: pt:dre:123666150:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2019-123666150
+  metadata_url: https://data.dre.pt/eli/declegreg/18/2019/08/05/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2019-123666150
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-08-05T00:00:00Z'
+integrity:
+  source_sha256: a8aaf294b19de46c1aecb8419e0fb450316ff6bbd504bd27dbb54e8c2c5d9c33
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2019/DRE-2019-18-123666150.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Eleição
+- Comunidades Portuguesas
+- Governo Regional
+- Definição de Competências
+- Emigrante
+- Presidente do Governo Regional
+- Conselho Consultivo
+- Mandato
+- Emigração
+- Presidente
+- Açores
+- Conselho da Diáspora Açoriana
+relationships: []
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 18/2019/A
+
+A história dos Açores, de quase seiscentos anos, está marcada, desde a sua descoberta e povoamento, por uma dinâmica populacional intensa ora na chegada de populações ora na partida de açorianos, que teve como consequência uma dinâmica de criação e difusão de uma identidade e cultura próprias, forjadas pela história e geografia deste Arquipélago.
+
+Assim, há muito que os Açores e o seu Povo não estão confinados apenas à condição territorial arquipelágica das nove ilhas e do mar que compõem a Região, mas, antes, encontram-se, num universo muito maior, dispersos por todo o mundo. Esta dispersão assume características de Diáspora de um Povo e foi-se estabelecendo, inicialmente, na América do Sul, com a afirmação de uma identidade, de uma unidade e de uma pertença que não só, ainda, perdura, como está a intensificar-se num processo iniciado há cerca de quatro séculos e, mais tarde, nos Estados Unidos da América, Bermuda e Canadá, mas, igualmente, em outras coordenadas um pouco por todo o mundo.
+
+Na medida em que esta Diáspora é um elemento fundamental de afirmação cultural, económica, política e institucional da Região Autónoma dos Açores e de Portugal no mundo importa, pois, implementar mecanismos de valorização e reconhecimento da Diáspora Açoriana, da tomada de consciência da sua importância e potencial, bem como da sua participação mais constante também nas políticas públicas que sustentam e impulsionam o projeto açoriano, na Região e fora dela.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e dos n.os 1 e 2 do artigo 37.º e da alínea d) do n.º 2 do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É criado, no âmbito do departamento do Governo Regional com competência em matéria de emigração e comunidades, o Conselho da Diáspora Açoriana, doravante designado como CDA.
+
+###### Artigo 2.º — Âmbito
+
+O CDA é o órgão consultivo do Governo Regional que visa assegurar a participação, a colaboração e a auscultação, dos açorianos no mundo, no projeto de desenvolvimento dos Açores.
+
+###### Artigo 3.º — Competências
+
+Ao CDA compete:
+
+a) Envolver os açorianos residentes fora do Arquipélago no debate e na definição de políticas públicas e nos projetos públicos açorianos, com particular incidência no fomento da relação da Região com a Diáspora Açoriana no mundo;
+
+b) Emitir parecer sobre legislação, programas ou medidas desenvolvidas pelo Governo Regional relacionados com a Emigração e Diáspora Açorianas;
+
+c) Contribuir para a definição e coordenação das políticas de reforço das relações entre a Diáspora e a Região, através de pareceres, sugestões e propostas;
+
+d) Assegurar a audição e representação das entidades públicas e privadas que, no âmbito da Região, prosseguem atribuições relativas à emigração e comunidades açorianas;
+
+e) Propor iniciativas que vão ao encontro das necessidades e aspirações dos açorianos no mundo;
+
+f) Melhorar a coordenação de ações entre os parceiros e as entidades intervenientes;
+
+g) Exercer outras competências que lhe sejam atribuídas por lei.
+
+###### Artigo 4.º — Composição
+
+1 - O CDA tem a seguinte composição:
+
+a) O Presidente do Governo Regional dos Açores, que preside;
+
+b) O membro do Governo Regional com competência em matéria de emigração e comunidades açorianas, que substitui o Presidente nas suas ausências e impedimentos;
+
+c) Três representantes da Assembleia Legislativa da Região Autónoma dos Açores, no limite de um deputado por partido político, eleitos por maioria de dois terços dos deputados em efetividade de funções;
+
+d) Os Conselheiros representantes das diversas áreas geográficas da Diáspora Açoriana;
+
+e) Um representante do Conselho Mundial das Casas dos Açores;
+
+f) O diretor regional com competência em matéria de emigração e comunidades açorianas;
+
+g) O diretor regional com competência em matéria de solidariedade social;
+
+h) O diretor regional com competência em matéria de emprego e qualificação profissional;
+
+i) O diretor regional com competência em matéria de cultura;
+
+j) O diretor regional com competência em matéria de turismo;
+
+k) O diretor regional com competência em matéria de incentivos;
+
+l) Um representante da Sociedade para o Desenvolvimento Empresarial dos Açores;
+
+m) Um representante da Associação de Municípios da Região Autónoma dos Açores;
+
+n) Um representante das associações de emigrantes com presença e atividade na Região;
+
+o) Um representante da Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas;
+
+p) Um representante do Conselho das Comunidades Portuguesas.
+
+2 - Sempre que se verificar algum impedimento, os membros do CDA referidos nas alíneas l) a p) do número anterior podem fazer-se representar, devendo comunicar previamente tal facto ao respetivo presidente.
+
+3 - O exercício de funções no CDA não é remunerado e não dá direito à perceção de senhas de presença.
+
+###### Artigo 5.º — Conselheiros da Diáspora Açoriana
+
+1 - São Conselheiros da Diáspora Açoriana, para efeitos da alínea d) do n.º 1 do artigo 4.º, os açorianos eleitos em cada uma das seguintes áreas geográficas:
+
+a) Um representante da Bermuda;
+
+b) Cinco representantes do Brasil, sendo um de cada um dos Estados do Rio Grande do Sul, Rio de Janeiro, Santa Catarina e São Paulo e outro que representa os restantes Estados da República Federativa do Brasil;
+
+c) Cinco representantes do Canadá, sendo um de cada uma das províncias de British Columbia, Manitoba, Ontário, Quebeque, e outro que representa as restantes Províncias e Territórios do Canadá;
+
+d) Cinco representantes dos Estados Unidos da América, sendo um de cada um dos Estados da Califórnia, Massachusetts, Rhode Island e dois que representam os restantes Estados dos Estados Unidos da América;
+
+e) Um representante do Uruguai;
+
+f) Um representante do continente português e da Região Autónoma da Madeira; e
+
+g) Um representante do resto do mundo.
+
+2 - Goza de capacidade eleitoral, quer passiva quer ativa, qualquer açoriano, maior, residente na comunidade açoriana a representar.
+
+3 - Entende-se por açoriano, para efeitos do presente diploma, qualquer cidadão que resida há mais de cinco anos numa das áreas geográficas referidas no n.º 1 e reúna uma das seguintes condições:
+
+a) Tenha nascido na Região Autónoma dos Açores;
+
+b) Tenha ascendência açoriana;
+
+c) Tenha residido na Região Autónoma dos Açores por um período mínimo de cinco anos.
+
+4 - Considera-se, ainda, açoriano o cônjuge e o que vive em união de facto com as pessoas referidas no número anterior.
+
+5 - Para a determinação dos Conselheiros da Diáspora Açoriana são organizadas eleições, a partir de listas por área geográfica, cuja organização é da competência da direção regional com competência em matéria de emigração e comunidades açorianas.
+
+6 - A eleição de Conselheiro da Diáspora Açoriana resulta do candidato que obtiver maior número de votos dentro da sua área geográfica.
+
+7 - O processo eleitoral será determinado através de portaria do membro do Governo Regional com competência em matéria de emigração e comunidades açorianas.
+
+###### Artigo 6.º — Reuniões
+
+1 - O CDA reúne-se ordinariamente a cada dois anos e extraordinariamente quando convocado pelo seu presidente.
+
+2 - O CDA pode reunir, ainda, extraordinariamente quando pelo menos um terço dos seus membros assim o solicite, devendo, neste caso, ser indicada a matéria e pontos a incluir na ordem de trabalhos.
+
+3 - Podem participar nas reuniões do CDA, por convite do presidente, representantes e técnicos de departamentos e serviços do Governo Regional ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam considerados relevantes para a atividade do CDA.
+
+###### Artigo 7.º — Mandato
+
+O mandato dos Conselheiros da Diáspora Açoriana é de quatro anos.
+
+###### Artigo 8.º — Apoio ao funcionamento
+
+Compete aos serviços da direção regional com competência em matéria de emigração e comunidades açorianas prestar o apoio técnico e administrativo necessário ao funcionamento do CDA.
+
+###### Artigo 9.º — Regimento interno
+
+O funcionamento do CDA é regulado por regimento interno, aprovado por despacho do membro do Governo Regional com competência em matéria de emigração e comunidades açorianas, ouvidos os membros do CDA, e publicado em Jornal Oficial.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 3 de julho de 2019.
+
+**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+
+**Assinado em Angra do Heroísmo em 19 de julho de 2019.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

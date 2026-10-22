@@ -1,0 +1,432 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:152525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-61345935",
+ "dre_path": "/dr/detalhe/decreto-lei/62-1999-152525",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180110377",
+    "63396376",
+    "63396377",
+    "63396378",
+    "63396379",
+    "63396380",
+    "63396381",
+    "63396382",
+    "63396383",
+    "63396384",
+    "63396385",
+    "63396386"
+   ]
+  },
+  {
+   "date": "2009-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491226:por",
+     "title": "Decreto-Lei n.º 288/2009",
+     "published": "2009-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/288-2009-491226"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "63396375",
+    "61635826",
+    "61635827",
+    "61635828",
+    "63396379",
+    "61635835",
+    "61635830",
+    "61635831",
+    "63396383",
+    "61635832",
+    "61635833",
+    "61635834",
+    "61635822"
+   ]
+  },
+  {
+   "date": "2015-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70095697:por",
+     "title": "Decreto-Lei n.º 171/2015",
+     "published": "2015-08-25",
+     "dre_path": "/dr/detalhe/decreto-lei/171-2015-70095697"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180110377",
+    "180110378",
+    "180110379",
+    "180110380",
+    "180110381",
+    "180110382",
+    "180110383",
+    "180110384",
+    "180110385",
+    "180110386",
+    "180110387",
+    "180110388",
+    "180110389"
+   ]
+  }
+ ],
+ "fragments": {
+  "180110377": {
+   "fragment_id": "61345936",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-08-30",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 62/99\n\nde 2 de Março\n\nA Lei n.º 57/98, de 18 de Agosto, e o Decreto-Lei n.º 381/98, de 27 de Novembro, vieram operar uma profunda renovação do regime jurídico regulador da identificação criminal, além de estabelecerem o quadro normativo por que se rege o registo de contumazes.\n\nPreocupação subjacente a este novo regime jurídico é a da modernização dos serviços, possibilitando o recurso às actuais tecnologias de tratamento da informação, como via para a obtenção de procedimentos mais simples e eficazes de registo da informação e, sobretudo, de disponibilização dessa informação a quem a ela pode aceder.\n\nTratando-se de matéria de reconhecida sensibilidade, expressamente reconhecida, aliás, nas normas legais consagradoras do regime de protecção de dados pessoais informatizados, importa definir com clareza a forma como se organizam os ficheiros informatizados onde consta esta informação, de acordo com as exigências da Lei n.º 67/98, 26 de Outubro.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos do artigo 198.º, n.º 1, alínea a), da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "63396376": {
+   "fragment_id": "61345937",
+   "type": 11,
+   "heading": "Artigo 1.º — Ficheiros informáticos em matéria de identificação criminal e de contumazes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Ficheiros informáticos em matéria de identificação criminal e de contumazes\n\n1 - No âmbito das suas atribuições em matéria de identificação criminal e de contumazes, a Direcção-Geral dos Serviços Judiciários dispõe dos seguintes ficheiros informáticos:\n\na) Ficheiro onomástico de identificação criminal e de contumazes;\n\nb) Ficheiro central do registo de contumácia;\n\nc) Ficheiro de emissão de certificados do registo criminal;\n\nd) Ficheiro de emissão de certificados do registo de contumazes.\n\n2 - Os ficheiros informáticos referidos no número anterior estão localizados na Direcção-Geral dos Serviços de Informática, do Ministério da Justiça.\n\n3 - Para os efeitos definidos na alínea d) do artigo 3.º da Lei n.º 67/98, 26 de Outubro, o responsável pelos ficheiros informáticos referidos nos números anteriores é o director-geral dos Serviços Judiciários."
+  },
+  "63396377": {
+   "fragment_id": "61345938",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidade dos ficheiros informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Finalidade dos ficheiros informáticos\n\n1 - O ficheiro onomástico de identificação criminal e de contumazes tem as seguintes finalidades:\n\na) Organizar e manter actualizada a informação sobre identificação dos indivíduos titulares de antecedentes criminais sujeitos a registo criminal ou que se encontrem declarados contumazes;\n\nb) Permitir a emissão automática de certificados do registo criminal e de certificados de contumácia negativos.\n\n2 - O ficheiro central do registo de contumácia tem por finalidade organizar e manter actualizada a informação sobre a situação de contumácia dos arguidos e possibilitar a sua divulgação.\n\n3 - O ficheiro de emissão de certificados do registo criminal e o ficheiro de emissão de certificados de contumácia têm por finalidade manter organizado o registo de todas as emissões de certificados ocorridas em determinado período de tempo imediatamente anterior, por forma a possibilitar a correcção ou rectificação de certificados emitidos ou a atender reclamações por eventuais extravios."
+  },
+  "63396378": {
+   "fragment_id": "61345939",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição do ficheiro onomástico de identificação criminal e de contumazes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Constituição do ficheiro onomástico de identificação criminal e de contumazes\n\n1 - O ficheiro onomástico de identificação criminal e de contumazes é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento:\n\na) Nome;\n\nb) Número do bilhete de identidade emitido pelos serviços de identificação civil ou, na sua ausência, número de ordem do registo onomástico;\n\nc) Filiação;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Residência;\n\nh) Número do registo criminal;\n\ni) Número do registo de contumaz.\n\n2 - Constam ainda do ficheiro onomástico de identificação criminal e de contumazes os elementos alternativos de identificação referidos nas alíneas b), d) e e) do número anterior que sejam comunicados pelos tribunais.\n\n3 - Além dos dados pessoais referidos nos n.os 1 e 2, o ficheiro onomástico de identificação criminal e de contumazes é constituído:\n\na) Pelas referências identificativas de uma decisão judicial ou de um facto sujeito a registo criminal;\n\nb) Pelas datas da criação do registo criminal e do seu provável cancelamento.\n\n4 - O ficheiro onomástico de identificação criminal e de contumazes contém indicadores informáticos das seguintes situações relativas ao titular do registo:\n\na) Contumácia;\n\nb) Inibição da obtenção de certificado do registo criminal por contumácia;\n\nc) Falecimento.\n\n5 - A determinação da decisão judicial ou do facto cujas referências devem integrar o ficheiro informático é processada automaticamente, de acordo com os seguintes objectivos:\n\na) Estabelecimento do prazo de provável cancelamento do registo criminal;\n\nb) Possibilidade de reconstituição do registo, se necessário."
+  },
+  "63396379": {
+   "fragment_id": "61345940",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição do ficheiro central do registo de contumácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Constituição do ficheiro central do registo de contumácia\n\n1 - O ficheiro central do registo de contumácia é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento:\n\na) Número do registo de contumaz;\n\nb) Crime imputado ao arguido e disposições legais que o punem.\n\n2 - Além dos dados pessoais referidos no número anterior, o ficheiro central do registo de contumácias é constituído pelos seguintes dados:\n\na) Número de ordem do boletim de contumácia;\n\nb) Identificação do tribunal e do processo onde haja sido proferida a decisão de contumácia;\n\nc) Data da decisão e fase processual em que foi proferida;\n\nd) Efeitos especiais da declaração de contumácia e motivo da cessação;\n\ne) Data da criação do registo individual de contumaz e datas do registo de cada decisão sujeita a registo de contumazes."
+  },
+  "63396380": {
+   "fragment_id": "61345941",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição do ficheiro de emissão de certificados do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Constituição do ficheiro de emissão de certificados do registo criminal\n\n1 - O ficheiro de emissão de certificados do registo criminal é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:\n\na) Nome;\n\nb) Número de bilhete de identidade ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número do registo criminal;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Indicação da situação de contumácia.\n\n2 - Quando o certificado do registo criminal é emitido a requerimento de terceiro, integram também o ficheiro informático os seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos ao terceiro requerente:\n\na) Nome;\n\nb) Número de bilhete de identidade ou passaporte e referência à respectiva entidade ou país emissor.\n\n3 - Além dos dados pessoais referidos nos números anteriores, o ficheiro pode ser integrado por alguns dos seguintes dados relativos à emissão, quando aplicáveis:\n\na) Indicação da data, hora e terminal de emissão;\n\nb) Indicação da natureza do certificado emitido e do fim a que se destina;\n\nc) Serviço intermediário;\n\nd) Entidade requisitante e número do processo a que se destina o certificado;\n\ne) Outros indicadores administrativos, exclusivamente relativos ao processamento automático da emissão."
+  },
+  "63396381": {
+   "fragment_id": "61345942",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição do ficheiro de emissão de certificados de contumácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Constituição do ficheiro de emissão de certificados de contumácia\n\n1 - O ficheiro de emissão de certificados de contumácia é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:\n\na) Nome;\n\nb) Número de bilhete de identidade ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número do registo de contumaz;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Efeitos de cada declaração de contumácia;\n\nh) Identificação do tribunal e processo onde haja sido proferida cada decisão;\n\ni) Crime imputado ao arguido e disposições legais que o punem;\n\nj) Data do registo de contumaz e das decisões de contumácia.\n\n2 - Quando o certificado de contumácia é emitido a requerimento de terceiro, integram também o ficheiro informático os seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos ao terceiro requerente:\n\na) Nome;\n\nb) Número de bilhete de identidade ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número do cartão de empresário em nome individual ou do cartão de pessoa colectiva.\n\n3 - Além dos dados pessoais referidos nos números anteriores, o ficheiro informático pode ser integrado por alguns dos seguintes dados relativos à emissão, quando aplicáveis:\n\na) Indicação da data, hora e terminal de emissão;\n\nb) Indicação da natureza do certificado emitido e do fim a que se destina;\n\nc) Serviço intermediário;\n\nd) Entidade requisitante e número do processo a que se destina o certificado;\n\ne) Outros indicadores administrativos, exclusivamente relativos ao processamento automático da emissão."
+  },
+  "63396382": {
+   "fragment_id": "61345943",
+   "type": 11,
+   "heading": "Artigo 7.º — Recolha e actualização dos dados do ficheiro onomástico de identificação criminal e de contumazes e do ficheiro central de contumácia.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recolha e actualização dos dados do ficheiro onomástico de identificação criminal e de contumazes e do ficheiro central de contumácia.\n\n1 - São recolhidos de boletins do registo criminal ou de contumácia remetidos pelos tribunais aos serviços de identificação criminal:\n\na) Os dados pessoais referidos nas alíneas a) a g) do n.º 1 e no n.º 2 do artigo 3.º e na alínea b) do n.º 1 do artigo 4.º;\n\nb) Os dados referidos na alínea a) do n.º 3 do artigo 3.º e nas alíneas a) a d) do n.º 2 do artigo 4.º\n\n2 - O número de ordem do registo onomástico é um número sequencial, atribuído automaticamente, de utilização exclusivamente interna, com a finalidade única de assegurar a reunião num só registo de todos os elementos de identificação, de um mesmo titular, de que haja conhecimento.\n\n3 - O número do registo criminal ou do registo de contumaz é um número sequencial atribuído automaticamente a cada cidadão identificado criminalmente ou na situação de contumaz.\n\n4 - As datas das criações dos registos, bem como a data de provável cancelamento do registo criminal, são fixadas automaticamente pelo sistema informático.\n\n5 - Os dados pessoais de identificação são validados através de consulta em linha ao ficheiro central de identificação civil da Direcção-Geral dos Registos e do Notariado.\n\n6 - A indicação das situações de contumácia, de inibição de obtenção de certificado do registo criminal por contumácia é automaticamente transmitida pelo ficheiro central do registo de contumácias."
+  },
+  "63396383": {
+   "fragment_id": "61345944",
+   "type": 11,
+   "heading": "Artigo 8.º — Recolha e actualização dos dados dos ficheiros de emissão de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recolha e actualização dos dados dos ficheiros de emissão de certificados\n\nTodos os dados referidos nos artigos 5.º e 6.º são recolhidos do certificado emitido a que se reporta o registo ou resultam dos elementos do processo de emissão automática."
+  },
+  "63396384": {
+   "fragment_id": "61345945",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso à informação\n\n1 - No âmbito da prossecução das suas atribuições, os serviços de identificação criminal têm acesso a toda a informação contida nos ficheiros a que se refere o presente diploma.\n\n2 - O acesso, por outras entidades, ao ficheiro onomástico de identificação criminal e de contumazes e ao ficheiro central do registo de contumácias rege-se pelas disposições aplicáveis da Lei n.º 57/98, de 18 de Agosto, e do Decreto-Lei n.º 381/98, de 27 de Novembro.\n\n3 - É reconhecido a qualquer pessoa devidamente identificada o direito de acesso aos dados sobre si registados nos ficheiros a que se refere o presente diploma, mediante solicitação nesse sentido ao respectivo responsável.\n\n4 - Qualquer pessoa tem, relativamente aos dados pessoais que lhe respeitem, o direito de exigir a correcção de inexactidões, o completamento das omissões e a supressão de dados indevidamente registados, nos termos previstos no artigo 11.º, n.º 1, alínea d), da Lei n.º 67/98, de 26 de Outubro.\n\n5 - Os serviços que disponham de terminais de computador para emissão de certificados do registo criminal ou de certificados de contumácia acedem, em linha, ao ficheiro onomástico de identificação criminal, ao ficheiro central do registo de contumácia e aos ficheiros de emissão de certificados, sendo esse acesso restrito aos elementos indispensáveis ao processo de emissão automática."
+  },
+  "63396385": {
+   "fragment_id": "61345946",
+   "type": 11,
+   "heading": "Artigo 10.º — Tempo de conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tempo de conservação dos dados\n\n1 - Os dados constantes do ficheiro onomástico de identificação criminal e de contumazes são conservados até ao máximo de dois anos após a data em que cesse a eficácia jurídica dos registos individuais que os integrem, nos termos da Lei n.º 57/98, de 18 de Agosto.\n\n2 - Os dados constantes dos ficheiros informáticos de emissão de certificados são conservados durante o prazo subsequente à data da emissão a que se reportam que for fixado por despacho do director-geral dos Serviços Judiciários, sendo automaticamente cancelados após o decurso desse prazo."
+  },
+  "63396386": {
+   "fragment_id": "61345947",
+   "type": 11,
+   "heading": "Artigo 11.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Segurança da informação\n\n1 - O director-geral dos Serviços Judiciários deve adoptar as medidas de segurança referidas no artigo 15.º, n.º 1, da Lei n.º 67/98, de 26 de Outubro.\n\n2 - É aplicável a todos os ficheiros informáticos a que se refere o presente diploma o disposto no artigo 29.º do Decreto-Lei n.º 381/98, de 27 de Novembro."
+  },
+  "63396375": {
+   "fragment_id": "61345936",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 62/99\n\nde 2 de Março\n\nA Lei n.º 57/98, de 18 de Agosto, e o Decreto-Lei n.º 381/98, de 27 de Novembro, vieram operar uma profunda renovação do regime jurídico regulador da identificação criminal, além de estabelecerem o quadro normativo por que se rege o registo de contumazes.\n\nPreocupação subjacente a este novo regime jurídico é a da modernização dos serviços, possibilitando o recurso às actuais tecnologias de tratamento da informação, como via para a obtenção de procedimentos mais simples e eficazes de registo da informação e, sobretudo, de disponibilização dessa informação a quem a ela pode aceder.\n\nTratando-se de matéria de reconhecida sensibilidade, expressamente reconhecida, aliás, nas normas legais consagradoras do regime de protecção de dados pessoais informatizados, importa definir com clareza a forma como se organizam os ficheiros informatizados onde consta esta informação, de acordo com as exigências da Lei n.º 67/98, 26 de Outubro.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos do artigo 198.º, n.º 1, alínea a), da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "61635826": {
+   "fragment_id": "61345937",
+   "type": 11,
+   "heading": "Artigo 1.º — Ficheiros informáticos em matéria de identificação criminal e de contumazes",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 1.º — Ficheiros informáticos em matéria de identificação criminal e de contumazes\n\n1 - No âmbito das suas atribuições em matéria de identificação criminal e de contumazes, a Direcção-Geral da Administração da Justiça dispõe dos seguintes ficheiros informáticos:\n\na) Ficheiro onomástico de identificação criminal e de contumazes;\n\nb) Ficheiro central do registo de contumácia;\n\nc) Ficheiro de emissão de certificados do registo criminal;\n\nd) Ficheiro de emissão de certificados do registo de contumazes.\n\n2 - Os ficheiros informáticos referidos no número anterior estão localizados no Instituto das Tecnologias de Informação na Justiça, I. P.\n\n3 - Para os efeitos definidos na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, o responsável pelos ficheiros informáticos referidos nos números anteriores é o director-geral da Administração da Justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635827": {
+   "fragment_id": "61345938",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidade dos ficheiros informáticos",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 2.º — Finalidade dos ficheiros informáticos\n\n1 - O ficheiro onomástico de identificação criminal e de contumazes tem as seguintes finalidades:\n\na) Organizar e manter actualizada a informação sobre identificação dos indivíduos e das pessoas colectivas e entidades equiparadas titulares de antecedentes criminais sujeitos a registo criminal ou que se encontrem declarados contumazes;\n\nb) Permitir a emissão automática de certificados do registo criminal e de certificados de contumácia negativos.\n\n2 - O ficheiro central do registo de contumácia tem por finalidade organizar e manter actualizada a informação sobre a situação de contumácia dos arguidos e possibilitar a sua divulgação.\n\n3 - O ficheiro de emissão de certificados do registo criminal e o ficheiro de emissão de certificados de contumácia têm por finalidade manter organizado o registo de todas as emissões de certificados ocorridas em determinado período de tempo imediatamente anterior, por forma a possibilitar a correcção ou rectificação de certificados emitidos ou a atender reclamações por eventuais extravios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635828": {
+   "fragment_id": "61345939",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição do ficheiro onomástico de identificação criminal e de contumazes",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 10-C/99 - Diário da República n.º 76/1999, 4º Suplemento, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-c-1999-654685)"
+   ],
+   "markdown": "###### Artigo 3.º — Constituição do ficheiro onomástico de identificação criminal e de contumazes\n\n1 - O ficheiro onomástico de identificação criminal e de contumazes é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento:\n\na) Nome;\n\nb) Número de identificação civil ou, na sua ausência, número de ordem do registo onomástico;\n\nc) Filiação;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Residência;\n\nh) Número do registo criminal;\n\ni) Número do registo de contumaz.\n\n2 - Constam ainda do ficheiro onomástico de identificação criminal e de contumazes os elementos alternativos de identificação referidos nas alíneas a), d) e e) do número anterior que sejam comunicados pelos tribunais.\n\n3 - Tratando-se de pessoa colectiva ou entidade equiparada, os elementos constantes do ficheiro são a denominação, a sede, o número de identificação de pessoa colectiva, o número do registo criminal e o número do registo de contumaz.\n\n4 - Além dos dados referidos nos n.os 1 a 3, o ficheiro onomástico de identificação criminal e de contumazes é constituído:\n\na) Pelas referências identificativas de uma decisão judicial ou de um facto sujeito a registo criminal;\n\nb) Pelas datas da criação do registo criminal e do seu provável cancelamento.\n\n5 - O ficheiro onomástico de identificação criminal e de contumazes contém indicadores informáticos das seguintes situações relativas ao titular do registo:\n\na) Contumácia;\n\nb) Inibição da obtenção de certificado do registo criminal por contumácia;\n\nc) Falecimento.\n\n6 - Quando a extinção da pessoa colectiva ou entidade equiparada resulte de fusão ou cisão, o ficheiro contém também indicadores desse facto, bem como dos dados de identificação das pessoas colectivas ou entidades que tiverem resultado da cisão ou em que a fusão se tiver efectivado.\n\n7 - A determinação da decisão judicial ou do facto cujas referências devem integrar o ficheiro informático é processada automaticamente, de acordo com os seguintes objectivos:\n\na) Estabelecimento do prazo de provável cancelamento do registo criminal;\n\nb) Possibilidade de reconstituição do registo, se necessário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 10-C/99 - Diário da República n.º 76/1999, 4º Suplemento, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-c-1999-654685)"
+  },
+  "61635835": {
+   "fragment_id": "61345941",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição do ficheiro de emissão de certificados do registo criminal",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Constituição do ficheiro de emissão de certificados do registo criminal\n\n1 - O ficheiro de emissão de certificados do registo criminal é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número do registo criminal;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Indicação da situação de contumácia.\n\n2 - Tratando-se de pessoas colectivas ou entidades equiparadas, os elementos constantes do ficheiro são a denominação, a sede, o número de identificação de pessoa colectiva, o número do registo criminal e a indicação da situação de contumácia.\n\n3 - Quando o certificado do registo criminal é emitido a requerimento de terceiro, integram também o ficheiro informático os seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos ao terceiro requerente:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor.\n\n4- Além dos dados pessoais referidos nos números anteriores, o ficheiro pode ser integrado por alguns dos seguintes dados relativos à emissão, quando aplicáveis:\n\na) Indicação da data, hora e terminal de emissão;\n\nb) Indicação da natureza do certificado emitido e do fim a que se destina;\n\nc) Serviço intermediário;\n\nd) Entidade requisitante e número do processo a que se destina o certificado;\n\ne) Outros indicadores administrativos, exclusivamente relativos ao processamento automático da emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635830": {
+   "fragment_id": "61345942",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição do ficheiro de emissão de certificados de contumácia",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 6.º — Constituição do ficheiro de emissão de certificados de contumácia\n\n1 - O ficheiro de emissão de certificados de contumácia é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número do registo de contumaz;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Efeitos de cada declaração de contumácia;\n\nh) Identificação do tribunal e processo onde haja sido proferida cada decisão;\n\ni) Crime imputado ao arguido e disposições legais que o punem;\n\nj) Data do registo de contumaz e das decisões de contumácia.\n\n2 - Tratando-se de pessoas colectivas ou entidades equiparadas, os elementos constantes do ficheiro são a denominação, a sede, o número de identificação de pessoa colectiva, o número do registo de contumaz e os elementos previstos nas alíneas g) a j) do número anterior.\n\n3 - Quando o certificado de contumácia é emitido a requerimento de terceiro, integram também o ficheiro informático os seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos ao terceiro requerente:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número de identificação de pessoa colectiva.\n\n4 - Além dos dados pessoais referidos nos números anteriores, o ficheiro informático pode ser integrado por alguns dos seguintes dados relativos à emissão, quando aplicáveis:\n\na) Indicação da data, hora e terminal de emissão;\n\nb) Indicação da natureza do certificado emitido e do fim a que se destina;\n\nc) Serviço intermediário;\n\nd) Entidade requisitante e número do processo a que se destina o certificado;\n\ne) Outros indicadores administrativos, exclusivamente relativos ao processamento automático da emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635831": {
+   "fragment_id": "61345943",
+   "type": 11,
+   "heading": "Artigo 7.º — Recolha e actualização dos dados do ficheiro onomástico de identificação criminal e de contumazes e do ficheiro central de contumácia.",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Recolha e actualização dos dados do ficheiro onomástico de identificação criminal e de contumazes e do ficheiro central de contumácia.\n\n1 - São recolhidos de boletins do registo criminal ou de contumácia remetidos pelos tribunais aos serviços de identificação criminal:\n\na) Os dados pessoais referidos nas alíneas a) a g) do n.º 1, nos n.os 2 e 3 do artigo 3.º e na alínea b) do n.º 1 do artigo 4.º;\n\nb) Os dados referidos nas alíneas a) do n.º 4 do artigo 3.º e a) a d) do n.º 2 do artigo 4.º\n\n2 - O número de ordem do registo onomástico é um número sequencial, atribuído automaticamente, de utilização exclusivamente interna, com a finalidade única de assegurar a reunião num só registo de todos os elementos de identificação, de um mesmo titular, de que haja conhecimento.\n\n3 - O número do registo criminal ou do registo de contumaz é um número sequencial atribuído automaticamente a cada pessoa identificada criminalmente ou na situação de contumaz.\n\n4 - As datas das criações dos registos, bem como a data de provável cancelamento do registo criminal, são fixadas automaticamente pelo sistema informático.\n\n5 - Os dados de identificação são validados através de consulta em linha:\n\na) Ao ficheiro central de identificação civil do Instituto dos Registos e do Notariado, I. P., tratando-se de pessoas singulares;\n\nb) Ao registo comercial ou ao ficheiro central de pessoas colectivas, tratando-se de pessoas colectivas ou entidades equiparadas.\n\n6 - A indicação das situações de contumácia, de inibição de obtenção de certificado do registo criminal por contumácia é automaticamente transmitida pelo ficheiro central do registo de contumácias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635832": {
+   "fragment_id": "61345945",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso à informação",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Acesso à informação\n\n1 - No âmbito da prossecução das suas atribuições, os serviços de identificação criminal têm acesso a toda a informação contida nos ficheiros a que se refere o presente diploma.\n\n2 - O acesso, por outras entidades, ao ficheiro onomástico de identificação criminal e de contumazes e ao ficheiro central do registo de contumácias rege-se pelas disposições aplicáveis da Lei n.º 57/98, de 18 de Agosto, e do Decreto-Lei n.º 381/98, de 27 de Novembro.\n\n3 - É reconhecido a qualquer pessoa devidamente identificada, ou, tratando-se de pessoa colectiva ou equiparada, a quem, nos termos da lei, a represente, o direito de acesso aos dados sobre ela registados nos ficheiros a que se refere o presente diploma, mediante solicitação nesse sentido ao respectivo responsável.\n\n4 - Qualquer pessoa tem, relativamente aos dados pessoais que lhe respeitem, o direito de exigir a correcção de inexactidões, o completamento das omissões e a supressão de dados indevidamente registados, nos termos previstos no artigo 11.º, n.º 1, alínea d), da Lei n.º 67/98, de 26 de Outubro.\n\n5 - Os serviços que disponham de terminais de computador para emissão de certificados do registo criminal ou de certificados de contumácia acedem, em linha, ao ficheiro onomástico de identificação criminal, ao ficheiro central do registo de contumácia e aos ficheiros de emissão de certificados, sendo esse acesso restrito aos elementos indispensáveis ao processo de emissão automática.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635833": {
+   "fragment_id": "61345946",
+   "type": 11,
+   "heading": "Artigo 10.º — Tempo de conservação dos dados",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 10.º — Tempo de conservação dos dados\n\n1 - Os dados constantes do ficheiro onomástico de identificação criminal e de contumazes são conservados até ao máximo de dois anos após a data em que cesse a eficácia jurídica dos registos individuais que os integrem, nos termos da Lei n.º 57/98, de 18 de Agosto.\n\n2 - Os dados constantes dos ficheiros informáticos de emissão de certificados são conservados durante o prazo subsequente à data da emissão a que se reportam, nos termos fixados por despacho do director-geral da Administração da Justiça, sendo automaticamente cancelados após o decurso desse prazo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635834": {
+   "fragment_id": "61345947",
+   "type": 11,
+   "heading": "Artigo 11.º — Segurança da informação",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 11.º — Segurança da informação\n\n1 - O director-geral da Administração da Justiça adopta as medidas de segurança referidas no n.º 1 do artigo 15.º da Lei n.º 67/98, de 26 de Outubro, e do disposto no artigo 29.º do Decreto-Lei n.º 381/98, de 27 de Novembro.\n\n2 - É aplicável a todos os ficheiros informáticos a que se refere o presente diploma o disposto no artigo 29.º do Decreto-Lei n.º 381/98, de 27 de Novembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "61635822": {
+   "fragment_id": "61648174",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado pelo Conselho de Ministros de 30 de Dezembro de 1998. - António Manuel de Oliveira Guterres - José Manuel de Matos Fernandes.\n\nPromulgado em 11 de Fevereiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Fevereiro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "180110378": {
+   "fragment_id": "61345937",
+   "type": 11,
+   "heading": "Artigo 1.º — Ficheiros informáticos em matéria de identificação criminal e de contumazes",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 1.º — Ficheiros informáticos em matéria de identificação criminal e de contumazes\n\n1 - No âmbito das suas atribuições em matéria de identificação criminal e de contumazes, a Direcção-Geral da Administração da Justiça dispõe dos seguintes ficheiros informáticos:\n\na) Ficheiro onomástico de identificação criminal e de contumazes;\n\nb) Ficheiro central do registo de contumácia;\n\nc) Ficheiro de emissão de certificados do registo criminal;\n\nd) Ficheiro de emissão de certificados do registo de contumazes.\n\n2 - Os ficheiros informáticos referidos no número anterior estão localizados no Instituto das Tecnologias de Informação na Justiça, I. P.\n\n3 - Para os efeitos definidos na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, o responsável pelos ficheiros informáticos referidos nos números anteriores é o director-geral da Administração da Justiça.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110379": {
+   "fragment_id": "61345938",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidade dos ficheiros informáticos",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 2.º — Finalidade dos ficheiros informáticos\n\n1 - O ficheiro onomástico de identificação criminal e de contumazes tem as seguintes finalidades:\n\na) Organizar e manter actualizada a informação sobre identificação dos indivíduos e das pessoas colectivas e entidades equiparadas titulares de antecedentes criminais sujeitos a registo criminal ou que se encontrem declarados contumazes;\n\nb) Permitir a emissão automática de certificados do registo criminal e de certificados de contumácia negativos.\n\n2 - O ficheiro central do registo de contumácia tem por finalidade organizar e manter actualizada a informação sobre a situação de contumácia dos arguidos e possibilitar a sua divulgação.\n\n3 - O ficheiro de emissão de certificados do registo criminal e o ficheiro de emissão de certificados de contumácia têm por finalidade manter organizado o registo de todas as emissões de certificados ocorridas em determinado período de tempo imediatamente anterior, por forma a possibilitar a correcção ou rectificação de certificados emitidos ou a atender reclamações por eventuais extravios.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110380": {
+   "fragment_id": "61345939",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição do ficheiro onomástico de identificação criminal e de contumazes",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 10-C/99 - Diário da República n.º 76/1999, 4º Suplemento, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-c-1999-654685)"
+   ],
+   "markdown": "###### Artigo 3.º — Constituição do ficheiro onomástico de identificação criminal e de contumazes\n\n1 - O ficheiro onomástico de identificação criminal e de contumazes é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento:\n\na) Nome;\n\nb) Número de identificação civil ou, na sua ausência, número de ordem do registo onomástico;\n\nc) Filiação;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Residência;\n\nh) Número do registo criminal;\n\ni) Número do registo de contumaz.\n\n2 - Constam ainda do ficheiro onomástico de identificação criminal e de contumazes os elementos alternativos de identificação referidos nas alíneas a), d) e e) do número anterior que sejam comunicados pelos tribunais.\n\n3 - Tratando-se de pessoa colectiva ou entidade equiparada, os elementos constantes do ficheiro são a denominação, a sede, o número de identificação de pessoa colectiva, o número do registo criminal e o número do registo de contumaz.\n\n4 - Além dos dados referidos nos n.os 1 a 3, o ficheiro onomástico de identificação criminal e de contumazes é constituído:\n\na) Pelas referências identificativas de uma decisão judicial ou de um facto sujeito a registo criminal;\n\nb) Pelas datas da criação do registo criminal e do seu provável cancelamento.\n\n5 - O ficheiro onomástico de identificação criminal e de contumazes contém indicadores informáticos das seguintes situações relativas ao titular do registo:\n\na) Contumácia;\n\nb) Inibição da obtenção de certificado do registo criminal por contumácia;\n\nc) Falecimento.\n\n6 - Quando a extinção da pessoa colectiva ou entidade equiparada resulte de fusão ou cisão, o ficheiro contém também indicadores desse facto, bem como dos dados de identificação das pessoas colectivas ou entidades que tiverem resultado da cisão ou em que a fusão se tiver efectivado.\n\n7 - A determinação da decisão judicial ou do facto cujas referências devem integrar o ficheiro informático é processada automaticamente, de acordo com os seguintes objectivos:\n\na) Estabelecimento do prazo de provável cancelamento do registo criminal;\n\nb) Possibilidade de reconstituição do registo, se necessário.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 10-C/99 - Diário da República n.º 76/1999, 4º Suplemento, Série I-A de 1999-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-c-1999-654685)"
+  },
+  "180110381": {
+   "fragment_id": "61345940",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição do ficheiro central do registo de contumácia",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30"
+   ],
+   "markdown": "###### Artigo 4.º — Constituição do ficheiro central do registo de contumácia\n\n1 - O ficheiro central do registo de contumácia é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento:\n\na) Número do registo de contumaz;\n\nb) Crime imputado ao arguido e disposições legais que o punem.\n\n2 - Além dos dados pessoais referidos no número anterior, o ficheiro central do registo de contumácias é constituído pelos seguintes dados:\n\na) Número de ordem do boletim de contumácia;\n\nb) Identificação do tribunal e do processo onde haja sido proferida a decisão de contumácia;\n\nc) Data da decisão e fase processual em que foi proferida;\n\nd) Efeitos especiais da declaração de contumácia e motivo da cessação;\n\ne) Data da criação do registo individual de contumaz e datas do registo de cada decisão sujeita a registo de contumazes.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30"
+  },
+  "180110382": {
+   "fragment_id": "61345941",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição do ficheiro de emissão de certificados do registo criminal",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Constituição do ficheiro de emissão de certificados do registo criminal\n\n1 - O ficheiro de emissão de certificados do registo criminal é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número do registo criminal;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Indicação da situação de contumácia.\n\n2 - Tratando-se de pessoas colectivas ou entidades equiparadas, os elementos constantes do ficheiro são a denominação, a sede, o número de identificação de pessoa colectiva, o número do registo criminal e a indicação da situação de contumácia.\n\n3 - Quando o certificado do registo criminal é emitido a requerimento de terceiro, integram também o ficheiro informático os seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos ao terceiro requerente:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor.\n\n4- Além dos dados pessoais referidos nos números anteriores, o ficheiro pode ser integrado por alguns dos seguintes dados relativos à emissão, quando aplicáveis:\n\na) Indicação da data, hora e terminal de emissão;\n\nb) Indicação da natureza do certificado emitido e do fim a que se destina;\n\nc) Serviço intermediário;\n\nd) Entidade requisitante e número do processo a que se destina o certificado;\n\ne) Outros indicadores administrativos, exclusivamente relativos ao processamento automático da emissão.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110383": {
+   "fragment_id": "61345942",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição do ficheiro de emissão de certificados de contumácia",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 6.º — Constituição do ficheiro de emissão de certificados de contumácia\n\n1 - O ficheiro de emissão de certificados de contumácia é constituído pelos seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos aos titulares da informação certificada e a cada emissão ocorrida:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número do registo de contumaz;\n\nd) Naturalidade;\n\ne) Data de nascimento;\n\nf) Nacionalidade;\n\ng) Efeitos de cada declaração de contumácia;\n\nh) Identificação do tribunal e processo onde haja sido proferida cada decisão;\n\ni) Crime imputado ao arguido e disposições legais que o punem;\n\nj) Data do registo de contumaz e das decisões de contumácia.\n\n2 - Tratando-se de pessoas colectivas ou entidades equiparadas, os elementos constantes do ficheiro são a denominação, a sede, o número de identificação de pessoa colectiva, o número do registo de contumaz e os elementos previstos nas alíneas g) a j) do número anterior.\n\n3 - Quando o certificado de contumácia é emitido a requerimento de terceiro, integram também o ficheiro informático os seguintes dados pessoais, quando existam ou deles haja conhecimento, relativos ao terceiro requerente:\n\na) Nome;\n\nb) Número de identificação civil ou passaporte e referência à respectiva entidade ou país emissor;\n\nc) Número de identificação de pessoa colectiva.\n\n4 - Além dos dados pessoais referidos nos números anteriores, o ficheiro informático pode ser integrado por alguns dos seguintes dados relativos à emissão, quando aplicáveis:\n\na) Indicação da data, hora e terminal de emissão;\n\nb) Indicação da natureza do certificado emitido e do fim a que se destina;\n\nc) Serviço intermediário;\n\nd) Entidade requisitante e número do processo a que se destina o certificado;\n\ne) Outros indicadores administrativos, exclusivamente relativos ao processamento automático da emissão.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110384": {
+   "fragment_id": "61345943",
+   "type": 11,
+   "heading": "Artigo 7.º — Recolha e actualização dos dados do ficheiro onomástico de identificação criminal e de contumazes e do ficheiro central de contumácia.",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Recolha e actualização dos dados do ficheiro onomástico de identificação criminal e de contumazes e do ficheiro central de contumácia.\n\n1 - São recolhidos de boletins do registo criminal ou de contumácia remetidos pelos tribunais aos serviços de identificação criminal:\n\na) Os dados pessoais referidos nas alíneas a) a g) do n.º 1, nos n.os 2 e 3 do artigo 3.º e na alínea b) do n.º 1 do artigo 4.º;\n\nb) Os dados referidos nas alíneas a) do n.º 4 do artigo 3.º e a) a d) do n.º 2 do artigo 4.º\n\n2 - O número de ordem do registo onomástico é um número sequencial, atribuído automaticamente, de utilização exclusivamente interna, com a finalidade única de assegurar a reunião num só registo de todos os elementos de identificação, de um mesmo titular, de que haja conhecimento.\n\n3 - O número do registo criminal ou do registo de contumaz é um número sequencial atribuído automaticamente a cada pessoa identificada criminalmente ou na situação de contumaz.\n\n4 - As datas das criações dos registos, bem como a data de provável cancelamento do registo criminal, são fixadas automaticamente pelo sistema informático.\n\n5 - Os dados de identificação são validados através de consulta em linha:\n\na) Ao ficheiro central de identificação civil do Instituto dos Registos e do Notariado, I. P., tratando-se de pessoas singulares;\n\nb) Ao registo comercial ou ao ficheiro central de pessoas colectivas, tratando-se de pessoas colectivas ou entidades equiparadas.\n\n6 - A indicação das situações de contumácia, de inibição de obtenção de certificado do registo criminal por contumácia é automaticamente transmitida pelo ficheiro central do registo de contumácias.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110385": {
+   "fragment_id": "61345944",
+   "type": 11,
+   "heading": "Artigo 8.º — Recolha e actualização dos dados dos ficheiros de emissão de certificados",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30"
+   ],
+   "markdown": "###### Artigo 8.º — Recolha e actualização dos dados dos ficheiros de emissão de certificados\n\nTodos os dados referidos nos artigos 5.º e 6.º são recolhidos do certificado emitido a que se reporta o registo ou resultam dos elementos do processo de emissão automática.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30"
+  },
+  "180110386": {
+   "fragment_id": "61345945",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso à informação",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Acesso à informação\n\n1 - No âmbito da prossecução das suas atribuições, os serviços de identificação criminal têm acesso a toda a informação contida nos ficheiros a que se refere o presente diploma.\n\n2 - O acesso, por outras entidades, ao ficheiro onomástico de identificação criminal e de contumazes e ao ficheiro central do registo de contumácias rege-se pelas disposições aplicáveis da Lei n.º 57/98, de 18 de Agosto, e do Decreto-Lei n.º 381/98, de 27 de Novembro.\n\n3 - É reconhecido a qualquer pessoa devidamente identificada, ou, tratando-se de pessoa colectiva ou equiparada, a quem, nos termos da lei, a represente, o direito de acesso aos dados sobre ela registados nos ficheiros a que se refere o presente diploma, mediante solicitação nesse sentido ao respectivo responsável.\n\n4 - Qualquer pessoa tem, relativamente aos dados pessoais que lhe respeitem, o direito de exigir a correcção de inexactidões, o completamento das omissões e a supressão de dados indevidamente registados, nos termos previstos no artigo 11.º, n.º 1, alínea d), da Lei n.º 67/98, de 26 de Outubro.\n\n5 - Os serviços que disponham de terminais de computador para emissão de certificados do registo criminal ou de certificados de contumácia acedem, em linha, ao ficheiro onomástico de identificação criminal, ao ficheiro central do registo de contumácia e aos ficheiros de emissão de certificados, sendo esse acesso restrito aos elementos indispensáveis ao processo de emissão automática.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110387": {
+   "fragment_id": "61345946",
+   "type": 11,
+   "heading": "Artigo 10.º — Tempo de conservação dos dados",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 10.º — Tempo de conservação dos dados\n\n1 - Os dados constantes do ficheiro onomástico de identificação criminal e de contumazes são conservados até ao máximo de dois anos após a data em que cesse a eficácia jurídica dos registos individuais que os integrem, nos termos da Lei n.º 57/98, de 18 de Agosto.\n\n2 - Os dados constantes dos ficheiros informáticos de emissão de certificados são conservados durante o prazo subsequente à data da emissão a que se reportam, nos termos fixados por despacho do director-geral da Administração da Justiça, sendo automaticamente cancelados após o decurso desse prazo.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110388": {
+   "fragment_id": "61345947",
+   "type": 11,
+   "heading": "Artigo 11.º — Segurança da informação",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 11.º — Segurança da informação\n\n1 - O director-geral da Administração da Justiça adopta as medidas de segurança referidas no n.º 1 do artigo 15.º da Lei n.º 67/98, de 26 de Outubro, e do disposto no artigo 29.º do Decreto-Lei n.º 381/98, de 27 de Novembro.\n\n2 - É aplicável a todos os ficheiros informáticos a que se refere o presente diploma o disposto no artigo 29.º do Decreto-Lei n.º 381/98, de 27 de Novembro.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23"
+  },
+  "180110389": {
+   "fragment_id": "61648174",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30"
+   ],
+   "markdown": "Visto e aprovado pelo Conselho de Ministros de 30 de Dezembro de 1998. - António Manuel de Oliveira Guterres - José Manuel de Matos Fernandes.\n\nPromulgado em 11 de Fevereiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Fevereiro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697), em vigor a partir de 2015-08-30"
+  }
+ }
+}

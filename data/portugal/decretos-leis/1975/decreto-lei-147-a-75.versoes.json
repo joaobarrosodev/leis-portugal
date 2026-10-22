@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:336076:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-181883710",
+ "dre_path": "/dr/detalhe/decreto-lei/147-a-1975-336076",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "1975-03-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921943652",
+    "181885396",
+    "181885397",
+    "181885398"
+   ]
+  },
+  {
+   "date": "1975-03-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:366824:por",
+     "title": "Rectificação",
+     "published": "1975-03-26",
+     "dre_path": "/dr/detalhe/rectificacao/1975-366824"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "181885395",
+    "181885396",
+    "921824261",
+    "181885398",
+    "181885399"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "921943652",
+    "921943653",
+    "921943654",
+    "921943655",
+    "921943656"
+   ]
+  }
+ ],
+ "fragments": {
+  "921943652": {
+   "fragment_id": "181883711",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 147-A/75\n\nde 21 de Março\n\nConsiderando que o Decreto-Lei n.º 137-E/75, de 17 de Março, veio decretar a suspensão da actividade política, até à data das próximas eleições para a Assembleia Constituinte, às quais não poderá concorrer, do Partido da Democracia Cristã;\n\nConsiderando que o PDC constituíra com o CDS uma frente eleitoral, exactamente para o fim de concorrerem conjuntamente às eleições para a Assembleia Constituinte;\n\nConsiderando que a Lei Eleitoral não previa a hipótese de uma frente dessa natureza deixar de existir, pelo facto de vir a ser proibida a actividade política a um dos partidos que a integrassem - nem dispunha que uma tal proibição afectaria o concurso às urnas de qualquer partido, que se houvesse aliado com o partido objecto do decretamento da suspensão da actividade;\n\nConsiderando que se tais disposições existissem, a constituição de frentes de partidos teriam de ser necessariamente mais cuidadosamente ponderadas pelos partidos que não quisessem ver-se afastados da luta eleitoral, em consequência da suspensão da actividade política do partido a que se aliassem;\n\nConsiderando, portanto, no caso concreto, que não tendo sido suspensa a actividade política do CDS não será razoável que este partido fique impedido de concorrer às eleições para a Assembleia Constituinte, pelo facto de a interdição da actividade política do PDC só haver sido decretada posteriormente ao prazo para apresentação e aceitação das listas dos candidatos às eleições para a Assembleia Constituinte;\n\nE considerando ainda que, entretanto, a lista dos candidatos do CDS fica afectada de graves irregularidades, que conduziriam necessariamente ao seu afastamento das próximas eleições, nomeadamente por a lista não conter o número total de candidatos do CDS, conforme é imposto pelo n.º 3 do artigo 29.º do Decreto-Lei n.º 621-C/74, de 15 de Novembro, se não foram adoptadas medidas legislativas adequadas;\n\nConsiderando o disposto no n.º 11.º do artigo 1.º da Lei Constitucional n.º 3/75, de 19 de Fevereiro, com a redacção que lhe foi dada pela Lei Constitucional n.º 4/75, de 13 de Março;\n\nNos termos da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "181885396": {
+   "fragment_id": "181883712",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPor força da publicação do Decreto-Lei n.º 137-E/75, de 17 de Março, deixa de existir a frente constituída entre o PDC e CDS, para o efeito de concorrerem, em listas únicas, às eleições para a Assembleia Constituinte."
+  },
+  "181885397": {
+   "fragment_id": "181883713",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Poderá, entretanto, o CDS apresentar novas listas de candidaturas, para as eleições para a Assembleia Constituinte, em todos os círculos em que as haja apresentado, em frente eleitoral com o PDC, desde que tal apresentação tenha lugar no prazo de cinco dias a contar da publicação do presente diploma.\n\n2. Quando da apresentação das novas listas de candidaturas deverá ser indicado novo mandatário não filiado no PDC para as listas em que o primitivamente designado tivesse aquela filiação. A morada do mandatário será sempre indicada, e quando ele não residir na sede do círculo escolherá ali domicílio para efeito de ser notificado.\n\n3. As novas listas de candidatos deverão incluir todos os nomes de filiados do CDS, que já se achavam indicados nas listas inicialmente apresentadas, só podendo aditar-se, portanto, novos candidatos em substituição daqueles que se achavam filiados no PDC. A apresentação das novas listas de candidatos poderá ser feita com prejuízo da sequência de anterior declaração de candidatura.\n\n4. Poderão ainda figurar nas novas listas os candidatos que nas listas foram indicados como independentes.\n\n5. Os documentos exigidos no artigo 1.º do Decreto-Lei n.º 93-C/75, de 28 de Fevereiro, deverão instruir a apresentação das novas candidaturas.\n\n6. Terminado o prazo para apresentação das novas listas, o corregedor mandará afixar imediatamente cópia das mesmas à porta do edifício do Tribunal, verificando em vinte e quatro horas a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.\n\n7. Verificando-se irregularidades processuais, o corregedor mandará notificar imediatamente o mandatário da lista para as suprir no prazo de quarenta e oito horas.\n\n8. Não têm aplicação no caso concreto as formalidades previstas nos n.os 2 e 3 do artigo 29.º do Decreto-Lei n.º 621-C/74, e do que serão rejeitadas todas as listas das quais constem candidatos inelegíveis ou que não contenham o número total de candidatos.\n\n9. O corregedor, no prazo de vinte e quatro horas após as quarenta e oito horas referidas no anterior n.º 6, fará afixar à porta do edifício do Tribunal a lista, quando admitida.\n\n10. A ordem, nos boletins de voto, do CDS, nos círculos em que concorrer às eleições, será aquela que nos sorteios já realizados haja cabido à frente CDS-PDC."
+  },
+  "181885398": {
+   "fragment_id": "181883714",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEste diploma entra imediatamente em vigor."
+  },
+  "181885395": {
+   "fragment_id": "181883711",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 147-A/75\n\nde 21 de Março\n\nConsiderando que o Decreto-Lei n.º 137-E/75, de 17 de Março, veio decretar a suspensão da actividade política, até à data das próximas eleições para a Assembleia Constituinte, às quais não poderá concorrer, do Partido da Democracia Cristã;\n\nConsiderando que o PDC constituíra com o CDS uma frente eleitoral, exactamente para o fim de concorrerem conjuntamente às eleições para a Assembleia Constituinte;\n\nConsiderando que a Lei Eleitoral não previa a hipótese de uma frente dessa natureza deixar de existir, pelo facto de vir a ser proibida a actividade política a um dos partidos que a integrassem - nem dispunha que uma tal proibição afectaria o concurso às urnas de qualquer partido, que se houvesse aliado com o partido objecto do decretamento da suspensão da actividade;\n\nConsiderando que se tais disposições existissem, a constituição de frentes de partidos teriam de ser necessariamente mais cuidadosamente ponderadas pelos partidos que não quisessem ver-se afastados da luta eleitoral, em consequência da suspensão da actividade política do partido a que se aliassem;\n\nConsiderando, portanto, no caso concreto, que não tendo sido suspensa a actividade política do CDS não será razoável que este partido fique impedido de concorrer às eleições para a Assembleia Constituinte, pelo facto de a interdição da actividade política do PDC só haver sido decretada posteriormente ao prazo para apresentação e aceitação das listas dos candidatos às eleições para a Assembleia Constituinte;\n\nE considerando ainda que, entretanto, a lista dos candidatos do CDS fica afectada de graves irregularidades, que conduziriam necessariamente ao seu afastamento das próximas eleições, nomeadamente por a lista não conter o número total de candidatos do CDS, conforme é imposto pelo n.º 3 do artigo 29.º do Decreto-Lei n.º 621-C/74, de 15 de Novembro, se não foram adoptadas medidas legislativas adequadas;\n\nConsiderando o disposto no n.º 11.º do artigo 1.º da Lei Constitucional n.º 3/75, de 19 de Fevereiro, com a redacção que lhe foi dada pela Lei Constitucional n.º 4/75, de 13 de Março;\n\nNos termos da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "921824261": {
+   "fragment_id": "181883713",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1975-03-26",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 72/1975, 4º Suplemento, Série I de 1975-03-26](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-366824), em vigor a partir de 1975-03-26"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Poderá, entretanto, o CDS apresentar novas listas de candidaturas, para as eleições para a Assembleia Constituinte, em todos os círculos em que as haja apresentado, em frente eleitoral com o PDC, desde que tal apresentação tenha lugar no prazo de cinco dias a contar da publicação do presente diploma.\n\n2. Quando da apresentação das novas listas de candidaturas deverá ser indicado novo mandatário não filiado no PDC para as listas em que o primitivamente designado tivesse aquela filiação. A morada do mandatário será sempre indicada, e quando ele não residir na sede do círculo escolherá ali domicílio para efeito de ser notificado.\n\n3. As novas listas de candidatos deverão incluir todos os nomes de filiados do CDS, que já se achavam indicados nas listas inicialmente apresentadas, só podendo aditar-se, portanto, novos candidatos em substituição daqueles que se achavam filiados no PDC. A apresentação das novas listas de candidatos poderá ser feita com prejuízo da sequência de anterior declaração de candidatura.\n\n4. Poderão ainda figurar nas novas listas os candidatos que nas listas foram indicados como independentes.\n\n5. Os documentos exigidos no artigo 1.º do Decreto-Lei n.º 93-C/75, de 28 de Fevereiro, deverão instruir a apresentação das novas candidaturas.\n\n6. Terminado o prazo para apresentação das novas listas, o corregedor mandará afixar imediatamente cópia das mesmas à porta do edifício do Tribunal, verificando em vinte e quatro horas a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.\n\n7. Verificando-se irregularidades processuais, o corregedor mandará notificar imediatamente o mandatário da lista para as suprir no prazo de quarenta e oito horas.\n\n8. Não têm aplicação no caso concreto as formalidades previstas nos n.os 2 e 3 do artigo 29.º do Decreto-Lei n.º 621-C/74, pelo que serão rejeitadas todas as listas das quais constem candidatos inelegíveis ou que não contenham o número total de candidatos.\n\n9. O corregedor, no prazo de vinte e quatro horas após as quarenta e oito horas referidas no anterior n.º 7, fará afixar à porta do edifício do Tribunal a lista, quando admitida.\n\n10. A ordem, nos boletins de voto, do CDS, nos círculos em que concorrer às eleições, será aquela que nos sorteios já realizados haja cabido à frente CDS-PDC.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 72/1975, 4º Suplemento, Série I de 1975-03-26](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-366824), em vigor a partir de 1975-03-26"
+  },
+  "181885399": {
+   "fragment_id": "181883715",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho da Revolução.\n\nPromulgado em 21 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "921943653": {
+   "fragment_id": "181883712",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nPor força da publicação do Decreto-Lei n.º 137-E/75, de 17 de Março, deixa de existir a frente constituída entre o PDC e CDS, para o efeito de concorrerem, em listas únicas, às eleições para a Assembleia Constituinte.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "921943654": {
+   "fragment_id": "181883713",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 72/1975, 4º Suplemento, Série I de 1975-03-26](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-366824), em vigor a partir de 1975-03-26"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Poderá, entretanto, o CDS apresentar novas listas de candidaturas, para as eleições para a Assembleia Constituinte, em todos os círculos em que as haja apresentado, em frente eleitoral com o PDC, desde que tal apresentação tenha lugar no prazo de cinco dias a contar da publicação do presente diploma.\n\n2. Quando da apresentação das novas listas de candidaturas deverá ser indicado novo mandatário não filiado no PDC para as listas em que o primitivamente designado tivesse aquela filiação. A morada do mandatário será sempre indicada, e quando ele não residir na sede do círculo escolherá ali domicílio para efeito de ser notificado.\n\n3. As novas listas de candidatos deverão incluir todos os nomes de filiados do CDS, que já se achavam indicados nas listas inicialmente apresentadas, só podendo aditar-se, portanto, novos candidatos em substituição daqueles que se achavam filiados no PDC. A apresentação das novas listas de candidatos poderá ser feita com prejuízo da sequência de anterior declaração de candidatura.\n\n4. Poderão ainda figurar nas novas listas os candidatos que nas listas foram indicados como independentes.\n\n5. Os documentos exigidos no artigo 1.º do Decreto-Lei n.º 93-C/75, de 28 de Fevereiro, deverão instruir a apresentação das novas candidaturas.\n\n6. Terminado o prazo para apresentação das novas listas, o corregedor mandará afixar imediatamente cópia das mesmas à porta do edifício do Tribunal, verificando em vinte e quatro horas a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.\n\n7. Verificando-se irregularidades processuais, o corregedor mandará notificar imediatamente o mandatário da lista para as suprir no prazo de quarenta e oito horas.\n\n8. Não têm aplicação no caso concreto as formalidades previstas nos n.os 2 e 3 do artigo 29.º do Decreto-Lei n.º 621-C/74, pelo que serão rejeitadas todas as listas das quais constem candidatos inelegíveis ou que não contenham o número total de candidatos.\n\n9. O corregedor, no prazo de vinte e quatro horas após as quarenta e oito horas referidas no anterior n.º 7, fará afixar à porta do edifício do Tribunal a lista, quando admitida.\n\n10. A ordem, nos boletins de voto, do CDS, nos círculos em que concorrer às eleições, será aquela que nos sorteios já realizados haja cabido à frente CDS-PDC.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 72/1975, 4º Suplemento, Série I de 1975-03-26](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-366824), em vigor a partir de 1975-03-26"
+  },
+  "921943655": {
+   "fragment_id": "181883714",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 3.º\n\nEste diploma entra imediatamente em vigor.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "921943656": {
+   "fragment_id": "181883715",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho da Revolução.\n\nPromulgado em 21 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

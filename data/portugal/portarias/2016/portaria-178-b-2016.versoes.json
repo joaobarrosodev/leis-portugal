@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74848641:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-158608174",
+ "dre_path": "/dr/detalhe/portaria/178-b-2016-74848641",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158610655",
+    "158610656",
+    "158610657",
+    "158610658",
+    "158610659",
+    "158610660",
+    "158610661",
+    "158610662",
+    "158610663",
+    "158610664",
+    "158610665",
+    "158610666",
+    "158610667",
+    "158610668",
+    "158610670"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158545440:por",
+     "title": "Portaria n.º 45-B/2021",
+     "published": "2021-03-01",
+     "dre_path": "/dr/detalhe/portaria/45-b-2021-158545440"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "158610655",
+    "158610656",
+    "158642177",
+    "158610658",
+    "158642178",
+    "158642181",
+    "158610661",
+    "158642179",
+    "158642180",
+    "158610664",
+    "158610665",
+    "158610666",
+    "158610667",
+    "158610668",
+    "158610669",
+    "158610670"
+   ]
+  }
+ ],
+ "fragments": {
+  "158610655": {
+   "fragment_id": "158637175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 178-B/2016\n\nde 1 de julho\n\nEm 2010, com o Decreto-Lei n.º 138-A/2010, de 28 de dezembro, foi criada a tarifa social de fornecimento de energia elétrica a aplicar a clientes finais economicamente vulneráveis. Com o Decreto-Lei n.º 172/2014, de 14 de novembro, foram aprovados critérios de elegibilidade que visaram o alargamento dos beneficiários de tarifa social de energia elétrica para cerca de 500 titulares de contratos. Alargamento este que acabou por não ser alcançado, tendo um ano depois, atingido cerca de 20 % dos potenciais beneficiários.\n\nCientes que o problema de acesso ao benefício se encontrava no modelo de atribuição da tarifa social, preconizado numa lógica em que os interessados tinham de o requer junto dos comercializadores, com a Lei n.º 7-A/2016, de 30 de março, que aprovou o Orçamento de Estado para 2016, e na prossecução do Programa do XXI Governo Constitucional, foi redesenhado o procedimento de acesso à tarifa social de fornecimento de gás natural e de energia elétrica, no sentido de o tornar automático e oficioso para os agregados familiares de baixos recursos e beneficiários de prestações sociais sujeitas a condição de recursos a atribuição do benefício.\n\nAssim, foi implementado um novo sistema de atribuição da tarifa social de fornecimento de energia elétrica, para entrar em vigor a partir de 1 de julho de 2016, que, para assegurar o automatismo, exigiu o envolvimento e a troca de informação entre Comercializadores, Direção-Geral de Energia e Geologia (DGEG), Instituto da Segurança Social, I. P. (ISS), o Instituto de Informática, I. P. (II) e Autoridade Tributária (AT).\n\nNesse contexto, foram celebrados protocolos entre todas aquelas entidades, aprovados previamente pela Comissão Nacional de Proteção de Dados, face à especial exigência de respeito pelos dados pessoais, não só na interconexão, como no seu tratamento.\n\nImporta agora estabelecer os procedimentos, o modelo e as demais condições necessárias à aplicação das alterações ao artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março, permitindo a existência de um modelo único e automático de atribuição de tarifa social de fornecimento de energia elétrica a clientes economicamente vulneráveis.\n\nAssim:\n\nAo abrigo do disposto no artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março, manda o Governo, pelos Secretários de Estado dos Assuntos Fiscais, Segurança Social e da Energia, o seguinte:"
+  },
+  "158610656": {
+   "fragment_id": "158637176",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria estabelece os procedimentos, o modelo e as demais condições necessárias à aplicação das alterações ao artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março, que cria um modelo único e automático de atribuição de tarifa social de fornecimento de energia elétrica a clientes economicamente vulneráveis.\n\n2 - As normas relativas aos procedimentos previstos no número anterior não são aplicáveis às regiões Autónomas dos Açores e da Madeira, sendo os atos e procedimentos à execução do referido Decreto-Lei definidos pelas entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa."
+  },
+  "158610657": {
+   "fragment_id": "158637177",
+   "type": 11,
+   "heading": "Artigo 2.º — Procedimento para atribuição da tarifa social de energia elétrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Procedimento para atribuição da tarifa social de energia elétrica\n\n1 - O procedimento para a atribuição da tarifa social de energia elétrica aos beneficiários é efetuado automaticamente, nos termos, do n.º 4 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março.\n\n2 - Para efeitos do procedimento a que se refere o número anterior e determinação da atribuição automática, devem:\n\na) Os comercializadores de energia elétrica autorizar o gestor do processo de mudança de comercializador de energia elétrica (GPMC-EE) a remeter à Direção-Geral de Energia e Geologia (DGEG), por transmissão eletrónica de dados, a seguinte informação relativa aos clientes finais que reúnam as condições previstas no artigo 5.º do referido decreto-lei:\n\ni) Nome completo;\n\nii) Número de Identificação Fiscal (NIF);\n\niii) Código de Ponto de Entrega (CPE);\n\niv) Morada completa do CPE.\n\nb) Os Operadores da Rede de Distribuição em baixa tensão (ORD) transmitem a informação referida na alínea anterior ao GPMC-EE\n\n3 - A autorização e a transmissão de informação referidas no número anterior integram o Protocolo relativo ao acesso, transmissão e tratamento de dados pessoais de consumidores de eletricidade, para efeitos de atribuição da tarifa social de fornecimento de energia elétrica celebrado entre a DGEG, a Agência para a Modernização Administrativa, I. P. (AMA) e o GPMC-EE.\n\n4 - Os comercializadores que não detenham a informação mencionada na alínea a) do n.º 2 devem atualizar esses dados junto do GPMC-EE através de carta, de correio eletrónico ou de mensagem escrita via telefone.\n\n5 - Na falta da informação mencionada no n.º 2 do presente artigo, os clientes finais não podem integrar a lista de clientes potencialmente elegíveis, a enviar para a DGEG, e se a mesma se encontrar incompleta ou incorreta pode resultar numa falta de aferição da condição de elegibilidade para a tarifa social, apenas suprível através de requerimento do cliente junto do seu comercializador, conforme modelo previsto no anexo da presente portaria e que dela faz parte integrante, passando a integrar a lista dos potenciais elegíveis na periodicidade seguinte que o GPMC-EE envia à DGEG.\n\n6 - Os clientes que se tenham oposto ao tratamento dos seus dados, para efeitos de aferição das condições necessárias para a elegibilidade da tarifa social, junto do comercializador de energia elétrica, não integram a lista de clientes enviada à DGEG pelo GPMC-EE.\n\n7 - Os clientes mencionados no número anterior integram a relação periódica de clientes enviada pelo GPMC-EE à DGEG, para aferição da sua condição de beneficiários, mediante requerimento junto do comercializador de energia elétrica, conforme modelo previsto no anexo da presente portaria e que se encontra disponibilizado no sítio da internet dos comercializadores.\n\n8 - Para efeitos dos números 5 e 7 do presente artigo devem os comercializadores enviar no prazo máximo de cinco dias úteis esta informação ao ORD e este na periodicidade trimestral seguinte ao GPMC-EE."
+  },
+  "158610658": {
+   "fragment_id": "158637178",
+   "type": 11,
+   "heading": "Artigo 3.º — Tratamento da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tratamento da informação\n\n1 - Nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro e pela Lei n.º 7-A/2016, de 30 de março, a DGEG remete a informação mencionada no artigo anterior ao Instituto de Informática, I. P. (II), e à Autoridade Tributária e Aduaneira (AT).\n\n2 - Para cumprimento do disposto no número anterior foram celebrados dois Protocolos, no âmbito das tarifas sociais, relativo ao tratamento automatizado de dados entre a DGEG, AMA, Instituto da Segurança Social, I. P. (ISS), e II, e entre a DGEG, a AMA e a AT.\n\n3 - Os protocolos mencionados no número anterior foram aprovados por deliberação da CNPD e pelos membros do Governo responsáveis pelas áreas da modernização administrativa, dos assuntos fiscais, da segurança social e da energia.\n\n4 - As entidades mencionadas no n.º 2 remetem à DGEG a informação devidamente tratada com o apuramento dos potenciais beneficiários da tarifa social, nos termos previstos no artigo 2.º do referido decreto-lei."
+  },
+  "158610659": {
+   "fragment_id": "158637179",
+   "type": 11,
+   "heading": "Artigo 4.º — Envio da informação tratada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Envio da informação tratada\n\n1 - A DGEG comunica a identificação dos respetivos clientes finais elegíveis para benefício da tarifa social, por transmissão eletrónica de dados ao GPMC-EE, que os disponibiliza ao ORD e aos comercializadores.\n\n2 - A identificação dos clientes finais elegíveis para benefício da tarifa social, para efeitos de aplicação da presente portaria, será realizada mediante indicação do nome completo, NIF, CPE e morada completa da instalação correspondente à habitação própria permanente.\n\n3 - O ORD repercute, por referência ao cliente beneficiário da tarifa social, o desconto aplicável na tarifa de acesso de redes devida pelo comercializador de energia elétrica, de acordo com os prazos definidos no artigo 8.º, salvo no caso de identificar alguma irregularidade no processo de atribuição da tarifa social, nomeadamente por não se encontrar verificado o requisito estabelecido no n.º 2 do artigo 5.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro.\n\n4 - O comercializador repercute, no ciclo de faturação seguinte, o desconto da tarifa social ao cliente elegível, informando-o que, querendo, pode opor-se à atribuição do benefício no prazo de 30 dias.\n\n5 - A informação mencionada no número anterior é remetida pelos comercializadores de energia elétrica aos beneficiários da tarifa social na fatura, ou em documentação que integre ou acompanhe a mesma, no ciclo de faturação imediatamente seguinte à receção da comunicação da DGEG prevista no n.º 1.\n\n6 - Exceciona-se do disposto no número anterior as faturações que tenham outra periodicidade que não a mensal ou bimestral, devendo a informação ser remetida no decorrer do mês seguinte à comunicação prevista no n.º 1.\n\n7 - Os clientes finais elegíveis que se oponham à atribuição da tarifa social nos termos do n.º 4 são assinalados na lista trimestral enviada pelo GPMC-EE à DGEG, devendo ser retirado o desconto que entretanto tiver sido aplicado nas faturas.\n\n8 - Os clientes mencionados no n.º 7 que pretendam anular a respetiva recusa devem comunicar ao comercializador, nos termos do artigo seguinte. O comercializador, por sua vez comunica ao ORD via GPMC, que por sua vez integra esta informação na lista trimestral seguinte enviada à DGEG, para aferição da sua condição de elegibilidade como beneficiários.\n\n9 - Para efeitos do número anterior devem os comercializadores enviar no prazo máximo de cinco dias úteis esta informação ao ORD e este, no trimestre seguinte, ao GPMC-EE."
+  },
+  "158610660": {
+   "fragment_id": "158637180",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento para atribuição de tarifa social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requerimento para atribuição de tarifa social\n\n1 - Os clientes finais de energia elétrica podem requerer, nos termos do disposto no n.º 6 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março, junto das instituições da segurança social e da AT, respetivamente, comprovativo da sua condição de elegibilidade como beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do referido decreto-lei, ou comprovativo de vulnerabilidade económica que ateste a existência de rendimento total anual igual ou inferior ao rendimento anual máximo apurado nos termos do n.º 4 e seguintes do mesmo artigo.\n\n2 - Os clientes finais que obtenham o comprovativo referido no número anterior, devem entregá-lo junto do seu comercializador de energia elétrica, requerendo a verificação dos respetivos pressupostos para a atribuição da tarifa social.\n\n3 - O comercializador de energia elétrica, na posse do comprovativo mencionado no n.º 1, verifica se a morada constante daquele coincide com a morada do CPE e comunica esta informação ao GPMCEE que afere as condições de elegibilidade, através de confirmação junto do ORD.\n\n4 - Reunidas as condições de elegibilidade, o GPMC-EE confirma ao comercializador e ao ORD a aplicação do desconto da tarifa social e dá conhecimento à DGEG na lista enviada trimestralmente.\n\n5 - A aplicação do desconto da tarifa social produz efeitos a partir da data indicada pelo ORD ao comercializador.\n\n6 - Em caso de dúvida entre a situação do cliente final referida na última lista da DGEG e a constante no comprovativo apresentado junto do comercializador, deve ser considerada a informação mais recente relativa à situação do cliente final.\n\n7 - Para efeitos de atribuição de tarifa social, a qualidade de beneficiário do abono de família cujas prestações sejam processadas fora do sistema de informação da segurança social, designadamente as que são geridas pelos serviços processadores de remuneração da administração pública, é comprovada por apresentação de declaração das respetivas entidades gestoras, emitidas, em prazo não superior a cinco dias úteis, a pedido dos beneficiários, aplicando-se igualmente o disposto nos números 2 e 3.\n\n8 - Nas situações referidas no número anterior, a validação anual será centralizada na DGEG que articulará com os serviços processadores de remuneração da administração pública e com as caixas de atividade ou de empresas subsistentes, preferencialmente através de meios eletrónicos.\n\n9 - Para efeitos do número anterior a DGEG recebe dos comercializadores cópias dos comprovativos, através de correio eletrónico."
+  },
+  "158610661": {
+   "fragment_id": "158637181",
+   "type": 11,
+   "heading": "Artigo 6.º — Comprovativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comprovativos\n\n1 - Os comprovativos a que se refere o n.º 6 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março, devem conter a seguinte informação:\n\na) NIF;\n\nb) Prestações sociais de que é beneficiário e indicação da morada associada ao número de identificação da segurança social; ou\n\nc) Cálculo demonstrativo da condição de vulnerabilidade económica (que ateste a existência de rendimento total anual igual ou inferior ao rendimento anual máximo apurado nos termos do n.º 4 e seguintes do mesmo artigo) com indicação da morada do domicílio fiscal e data da respetiva aferição; e\n\nd) Data da extração do comprovativo.\n\n2 - A informação a que se referem as alíneas b) e c) do número anterior é extraída, respetivamente, na Segurança Social Direta e no Portal das Finanças;\n\n3 - A emissão dos comprovativos pela AT depende da receção da informação a que se refere o n.º 2 do artigo 2.º da presente portaria, enviada pela DGEG."
+  },
+  "158610662": {
+   "fragment_id": "158637182",
+   "type": 11,
+   "heading": "Artigo 7.º — Atualização e manutenção da tarifa social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atualização e manutenção da tarifa social\n\n1 - A DGEG procede, em setembro de cada ano, à atualização e confirmação da condição de cliente final economicamente vulnerável nos termos do artigo 2.º da presente portaria.\n\n2 - Para efeitos do número anterior, o GPMC-EE deve, até 5 de setembro de cada ano, enviar a informação prevista no n.º 2 do artigo 2.º da presente portaria.\n\n3 - Sem prejuízo do disposto no número anterior, a DGEG procede trimestralmente à atualização e manutenção da condição de cliente final economicamente vulnerável sempre que:\n\na) O beneficiário comunique aos comercializadores, no prazo de 30 dias, que deixou de reunir os pressupostos para atribuição da tarifa social, e estes tenham remetido essa informação à DGEG;\n\nb) Os clientes que obtiveram junto das instituições de segurança social competentes ou da AT, comprovativo da sua condição de beneficiário da tarifa social, tenham apresentado tal declaração aos comercializadores e a DGEG tenha recebido tal informação nos termos do n.º 3 do artigo 5.º;\n\nc) Haja uma mudança das condições de elegibilidade previstas no n.º 1 do artigo 5.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro;\n\nd) Haja um novo contrato de fornecimento de energia elétrica que inclua um novo NIF e/ou um novo CPE.\n\n4 - Para efeitos da verificação das condições previstas no número anterior, aplicam-se com as devidas adaptações o previsto nos artigos 2.º a 4.º da presente portaria.\n\n5 - Não obstante o disposto nos números anteriores, sendo uma das condições de elegibilidade o escalão de potência contratada, sempre que se proceda à atualização do mesmo para um valor superior ao estabelecido na alínea c) do n.º 1 do artigo 5.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, o ORD deve informar o GPMC-EE que, por sua vez, comunica ao comercializador a cessação imediata de aplicação da tarifa social, dando igualmente conhecimento deste evento à DGEG na lista enviada trimestralmente."
+  },
+  "158610663": {
+   "fragment_id": "158637183",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazos\n\nNo âmbito da atualização e manutenção da tarifa social, a efetuar numa base anual e trimestral, prevista nos números 1 a 3 do artigo anterior, devem aplicar-se os seguintes prazos:\n\na) Os ORD devem transmitir a informação relativa aos clientes finais economicamente vulneráveis ao GPMC-EE até ao último dia do segundo mês do trimestre anterior;\n\nb) Para efeitos da verificação das condições previstas do n.º 3 do artigo 7.º, o GPMC-EE, deverá comunicar esta informação à DGEG até ao 5.º dia do último mês de cada trimestre;\n\nc) O GPMC-EE disponibiliza a informação referida no ponto anterior aos ORD dois dias úteis após receção da DGEG."
+  },
+  "158610664": {
+   "fragment_id": "158637184",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimentos entre entidades do setor elétrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimentos entre entidades do setor elétrico\n\nO financiamento dos custos, a sua comunicação entre operadores, bem como os procedimentos de pagamento entre as entidades do setor elétrico são definidos nos regulamentos da Entidade Reguladora dos Serviços Energéticos (ERSE), nomeadamente no Regulamento de Relações Comerciais e no Regulamento Tarifário do setor elétrico tendo em consideração o estabelecido nos artigos 3.º e 4.º do Decreto-Lei n.º 138-A/2010, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro e pela Lei n.º 7-A/2016, de 30 de março."
+  },
+  "158610665": {
+   "fragment_id": "158637185",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições finais\n\n1 - Os comercializadores de energia elétrica comunicam aos clientes titulares de contrato de fornecimento de energia elétrica em baixa tensão normal com potência contratada igual ou inferior a 6,9 kVA, a informação prevista no artigo 8.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, através dos respetivos sítios na internet e em documentação que integre ou acompanhe as faturas enviadas aos clientes ou em comunicação autónoma, até 31 de dezembro de 2016.\n\n2 - Os meios eletrónicos previstos nos artigos 2.º, 3.º e 4.º são disponibilizados pelas instituições de segurança social competentes, pela AT, pela AMA, pela DGEG e pelo GPMC-EE, permitindo a transmissão eletrónica de dados para a DGEG, nos termos dos protocolos mencionados no n.º 3 do artigo 2.º e no n.º 3 do artigo 3.º da presente portaria.\n\n3 - Para efeitos de atribuição ou manutenção da tarifa social, presume-se que a morada indicada pelas instituições de segurança social competentes ou pela AT corresponde à habitação permanente do beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro e pela Lei n.º 7-A/2016, de 30 de março, ou do cliente final com rendimento anual elegível para efeitos do n.º 3 do mesmo artigo.\n\n4 - Cumpre à DGEG a verificação do cumprimento dos procedimentos relativos à aplicação da tarifa social bem como a resolução de potenciais conflitos, bem como a receção de reclamações dos potenciais beneficiários, relativas à atribuição da tarifa social de energia elétrica, as quais devem ser apresentadas junto dos comercializadores."
+  },
+  "158610666": {
+   "fragment_id": "158637186",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições transitórias\n\n1 - Quando não se verifique a disponibilização de meios eletrónicos que permitam o automatismo da atribuição da tarifa social referidos no n.º 2 do artigo anterior, todas as comunicações entre o GPMCEE, a DGEG, as instituições de segurança social competentes e a AT devem efetuar-se através de meios e formatos eletrónicos equivalentes que garantam o correto tratamento da informação dos clientes finais, a transparência do procedimento e o cumprimento dos prazos legais.\n\n2 - Os atuais beneficiários da tarifa social de energia elétrica continuam a beneficiar da mesma até à definição, pela DGEG, da relação de clientes finais que beneficiam da tarifa social nos termos implementados nesta portaria e demais legislação em vigor, sem prejuízo das obrigações previstas no n.º 7 do artigo 6.º da Decreto-Lei n.º 138-A/2010, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro e pela Lei n.º 7-A/2016, de 30 de março."
+  },
+  "158610667": {
+   "fragment_id": "158637187",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nA presente portaria revoga a Portaria n.º 278-C/2014, de 29 de dezembro."
+  },
+  "158610668": {
+   "fragment_id": "158637188",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de julho de 2016."
+  },
+  "158610670": {
+   "fragment_id": "158637190",
+   "type": 14,
+   "heading": "Anexo — [a que se refere os n.os 5 e 7 do artigo 2.º e o n.º 8 do artigo 4.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — [a que se refere os n.os 5 e 7 do artigo 2.º e o n.º 8 do artigo 4.º]\n\nCliente Potencialmente elegível para Tarifa Social\n\nNome completo do cliente [...], NIF (n.º de identificação fiscal) [...], titular do cartão de cidadão/bilhete de identidade n.º [...], com o domicílio permanente em [...], requer a sua integração na lista de potenciais clientes elegíveis para efeitos de verificação pela Direção-Geral de Energia e Geologia da sua condição de elegibilidade para atribuição da tarifa social de fornecimento de energia elétrica estabelecida no Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro e pela Lei n.º 7-A/2016, de 30 de março."
+  },
+  "158642177": {
+   "fragment_id": "158637177",
+   "type": 11,
+   "heading": "Artigo 2.º — Procedimento para atribuição da tarifa social de energia elétrica",
+   "in_force_from": "2021-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Procedimento para atribuição da tarifa social de energia elétrica\n\n1 - O procedimento para a atribuição da tarifa social de energia elétrica aos beneficiários é efetuado automaticamente, nos termos, do n.º 4 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março.\n\n2 - Para efeitos do procedimento a que se refere o número anterior e determinação da atribuição automática, devem:\n\na) Os comercializadores de energia elétrica autorizar o gestor do processo de mudança de comercializador de energia elétrica (GPMC-EE) a remeter à Direção-Geral de Energia e Geologia (DGEG), por transmissão eletrónica de dados, a seguinte informação relativa aos clientes finais que reúnam as condições previstas no artigo 5.º do referido decreto-lei:\n\ni) Nome completo;\n\nii) Número de Identificação Fiscal (NIF);\n\niii) Código de Ponto de Entrega (CPE);\n\niv) Morada completa do CPE.\n\nb) Os Operadores da Rede de Distribuição em baixa tensão (ORD) transmitem a informação referida na alínea anterior ao GPMC-EE\n\n3 - A autorização e a transmissão de informação referidas no número anterior integram o Protocolo relativo ao acesso, transmissão e tratamento de dados pessoais de consumidores de eletricidade, para efeitos de atribuição da tarifa social de fornecimento de energia elétrica celebrado entre a DGEG, a Agência para a Modernização Administrativa, I. P. (AMA) e o GPMC-EE.\n\n4 - Os comercializadores que não detenham a informação mencionada na alínea a) do n.º 2 devem atualizar esses dados junto do GPMC-EE através de carta, de correio eletrónico ou de mensagem escrita via telefone.\n\n5 - Na falta da informação mencionada no n.º 2 do presente artigo, os clientes finais não podem integrar a lista de clientes potencialmente elegíveis, a enviar para a DGEG, e se a mesma se encontrar incompleta ou incorreta pode resultar numa falta de aferição da condição de elegibilidade para a tarifa social, apenas suprível através de requerimento do cliente junto do seu comercializador, conforme modelo previsto no anexo da presente portaria e que dela faz parte integrante, passando a integrar a lista dos potenciais elegíveis na periodicidade seguinte que o GPMC-EE envia à DGEG.\n\n6 - Os clientes que se tenham oposto ao tratamento dos seus dados, para efeitos de aferição das condições necessárias para a elegibilidade da tarifa social, junto do comercializador de energia elétrica, não integram a lista de clientes enviada à DGEG pelo GPMC-EE.\n\n7 - Os clientes mencionados no número anterior integram a relação periódica de clientes enviada pelo GPMC-EE à DGEG, para aferição da sua condição de beneficiários, mediante requerimento junto do comercializador de energia elétrica, conforme modelo previsto no anexo da presente portaria e que se encontra disponibilizado no sítio da internet dos comercializadores.\n\n8 - Para efeitos dos n.os 5 e 7 do presente artigo devem os comercializadores enviar no prazo máximo de cinco dias úteis esta informação ao ORD e este na periodicidade mensal seguinte ao OLMC.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+  },
+  "158642178": {
+   "fragment_id": "158637179",
+   "type": 11,
+   "heading": "Artigo 4.º — Envio da informação tratada",
+   "in_force_from": "2021-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Envio da informação tratada\n\n1 - A DGEG comunica a identificação dos respetivos clientes finais elegíveis para benefício da tarifa social, por transmissão eletrónica de dados ao GPMC-EE, que os disponibiliza ao ORD e aos comercializadores.\n\n2 - A identificação dos clientes finais elegíveis para benefício da tarifa social, para efeitos de aplicação da presente portaria, será realizada mediante indicação do nome completo, NIF, CPE e morada completa da instalação correspondente à habitação própria permanente.\n\n3 - O ORD repercute, por referência ao cliente beneficiário da tarifa social, o desconto aplicável na tarifa de acesso de redes devida pelo comercializador de energia elétrica, de acordo com os prazos definidos no artigo 8.º, salvo no caso de identificar alguma irregularidade no processo de atribuição da tarifa social, nomeadamente por não se encontrar verificado o requisito estabelecido no n.º 2 do artigo 5.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro.\n\n4 - O comercializador repercute, no ciclo de faturação seguinte, o desconto da tarifa social ao cliente elegível, informando-o que, querendo, pode opor-se à atribuição do benefício no prazo de 30 dias.\n\n5 - A informação mencionada no número anterior é remetida pelos comercializadores de energia elétrica aos beneficiários da tarifa social na fatura, ou em documentação que integre ou acompanhe a mesma, no ciclo de faturação imediatamente seguinte à receção da comunicação da DGEG prevista no n.º 1.\n\n6 - Exceciona-se do disposto no número anterior as faturações que tenham outra periodicidade que não a mensal ou bimestral, devendo a informação ser remetida no decorrer do mês seguinte à comunicação prevista no n.º 1.\n\n7 - Os clientes finais elegíveis que se oponham à atribuição da tarifa social nos termos do n.º 4 são assinalados na lista mensal enviada pelo OLMC à DGEG, devendo ser retirado o desconto que entretanto tiver sido aplicado nas faturas.\n\n8 - Os clientes mencionados no n.º 7 que pretendam anular a respetiva recusa devem comunicar ao comercializador, nos termos do artigo seguinte, e o comercializador comunica ao ORD via OLMC, que por sua vez integra esta informação na lista mensal seguinte enviada à DGEG para aferição da sua condição de elegibilidade como beneficiários.\n\n9 - Para efeitos do número anterior devem os comercializadores enviar no prazo máximo de cinco dias úteis esta informação ao ORD e este, no mês seguinte, ao OLMC.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+  },
+  "158642181": {
+   "fragment_id": "158637180",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento para atribuição de tarifa social",
+   "in_force_from": "2021-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Requerimento para atribuição de tarifa social\n\n1 - Os clientes finais de energia elétrica podem requerer, nos termos do disposto no n.º 6 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e pela Lei n.º 7-A/2016, de 30 de março, junto das instituições da segurança social e da AT, respetivamente, comprovativo da sua condição de elegibilidade como beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do referido decreto-lei, ou comprovativo de vulnerabilidade económica que ateste a existência de rendimento total anual igual ou inferior ao rendimento anual máximo apurado nos termos do n.º 4 e seguintes do mesmo artigo.\n\n2 - Os clientes finais que obtenham o comprovativo referido no número anterior, devem entregá-lo junto do seu comercializador de energia elétrica, requerendo a verificação dos respetivos pressupostos para a atribuição da tarifa social.\n\n3 - O comercializador de energia elétrica, na posse do comprovativo mencionado no n.º 1, verifica se a morada constante daquele coincide com a morada do CPE e comunica esta informação ao GPMCEE que afere as condições de elegibilidade, através de confirmação junto do ORD.\n\n4 - Reunidas as condições de elegibilidade, o OLMC confirma ao comercializador e ao ORD a aplicação do desconto da tarifa social e dá conhecimento à DGEG na lista enviada mensalmente.\n\n5 - A aplicação do desconto da tarifa social produz efeitos a partir da data indicada pelo ORD ao comercializador.\n\n6 - Em caso de dúvida entre a situação do cliente final referida na última lista da DGEG e a constante no comprovativo apresentado junto do comercializador, deve ser considerada a informação mais recente relativa à situação do cliente final.\n\n7 - Para efeitos de atribuição de tarifa social, a qualidade de beneficiário do abono de família cujas prestações sejam processadas fora do sistema de informação da segurança social, designadamente as que são geridas pelos serviços processadores de remuneração da administração pública, é comprovada por apresentação de declaração das respetivas entidades gestoras, emitidas, em prazo não superior a cinco dias úteis, a pedido dos beneficiários, aplicando-se igualmente o disposto nos números 2 e 3.\n\n8 - Nas situações referidas no número anterior, deverá o cliente final de energia elétrica beneficiário do abono de família cujas prestações sejam processadas fora do sistema de informação da segurança social, sempre que se verifique alteração na sua situação e, em qualquer caso, anualmente, entregar a declaração referida no n.º 7 ao seu comercializador, aplicando-se igualmente o disposto nos n.os 2, 3 e 4.\n\n9 - Para efeitos do disposto no número anterior, e desde que não se verifique qualquer alteração à situação do cliente final, o benefício da tarifa social de energia elétrica deverá ser mantido aos seus consumos até revalidação no ano seguinte, independentemente do resultado dos processamentos automáticos entretanto decorridos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+  },
+  "158642179": {
+   "fragment_id": "158637182",
+   "type": 11,
+   "heading": "Artigo 7.º — Atualização e manutenção da tarifa social",
+   "in_force_from": "2021-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Atualização e manutenção da tarifa social\n\n1 - A DGEG procede, em setembro de cada ano, à atualização e confirmação da condição de cliente final economicamente vulnerável nos termos do artigo 2.º da presente portaria.\n\n2 - Para efeitos do número anterior, o GPMC-EE deve, até 5 de setembro de cada ano, enviar a informação prevista no n.º 2 do artigo 2.º da presente portaria.\n\n3 - Sem prejuízo do disposto no número anterior, a DGEG procede mensalmente à atualização e manutenção da condição de cliente final economicamente vulnerável, enviando:\n\na) Ao II a totalidade da informação mencionada no n.º 1 do artigo 3.º da presente portaria;\n\nb) À AT a informação mencionada no n.º 1 do artigo 3.º da presente portaria, sempre que:\n\ni) O beneficiário comunique aos comercializadores, que deixou de reunir os pressupostos para atribuição da tarifa social, e estes tenham remetido essa informação à DGEG;\n\nii) Haja uma mudança das condições de elegibilidade previstas no n.º 1 do artigo 5.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, na sua atual redação;\n\niii) Haja um novo contrato de fornecimento de energia elétrica que inclua um novo NIF e ou um novo CPE.\n\n4 - [...].\n\n5 - Não obstante o disposto nos números anteriores, sempre que o beneficiário da tarifa social de fornecimento de energia elétrica altere a sua potência contratada para um valor superior ao estabelecido na alínea c) do n.º 1 do artigo 5.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, na sua atual redação, o ORD deve informar o OLMC que, por sua vez, comunica ao comercializador a cessação imediata de aplicação da tarifa social, dando igualmente conhecimento deste evento à DGEG na lista enviada mensalmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+  },
+  "158642180": {
+   "fragment_id": "158637183",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazos",
+   "in_force_from": "2021-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Prazos\n\nNo âmbito da atualização e manutenção da tarifa social de fornecimento de energia elétrica, a efetuar numa base anual e mensal, prevista nos n.os 1 a 3 do artigo anterior, devem aplicar-se os seguintes prazos:\n\na) Os ORD devem transmitir a informação relativa aos clientes finais economicamente vulneráveis ao OLMC até ao último dia do mês anterior;\n\nb) Para efeitos da verificação das condições previstas do n.º 3 do artigo 7.º, o OLMC deverá comunicar esta informação à DGEG até ao 5.º dia de cada mês;\n\nc) O OLMC disponibiliza a informação referida no ponto anterior aos ORD até dois dias úteis após envio por parte da DGEG.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45-B/2021 - Diário da República n.º 41/2021, 1º Suplemento, Série I de 2021-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/45-b-2021-158545440), em vigor a partir de 2021-03-01"
+  },
+  "158610669": {
+   "fragment_id": "158637189",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, Fernando António Portela Rocha de Andrade, em 1 de julho de 2016. - A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 30 de junho de 2016. - O Secretário de Estado da Energia, Jorge Filipe Teixeira Seguro Sanches, em 1 de julho de 2016."
+  }
+ }
+}

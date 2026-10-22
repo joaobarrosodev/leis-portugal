@@ -1,0 +1,651 @@
+---
+schema_version: '1.0'
+id: pt:dre:178510:por
+title: Decreto-Lei n.º 129/2012
+short_title: null
+summary: Aprova a orgânica do Instituto do Turismo de Portugal, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 129/2012
+official_date: null
+publication_date: '2012-06-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/2012, Série I de 2012-06-22
+  number: '120'
+  series: I
+  supplement: null
+  pages: 3104 - 3109
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/06/12000/0310403109.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-12-27'
+version_history:
+  file: decreto-lei-129-2012.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-06-28'
+    amending: pt:dre:67098359:por
+    amending_title: Decreto-Lei n.º 66/2015
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+  - date: '2018-01-01'
+    amending: pt:dre:114425586:por
+    amending_title: Lei n.º 114/2017
+    changes:
+    - Altera Artigo 13.º
+  - date: '2023-07-04'
+    amending: pt:dre:215085998:por
+    amending_title: Decreto-Lei n.º 51/2023
+    changes:
+    - Adita Artigo 8.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2023-12-27'
+    amending: pt:dre:835674292:por
+    amending_title: Decreto-Lei n.º 127/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/129/2012/p/cons/20231226/pt/html
+  oj: null
+  dre: '178510'
+  dre_path: /dr/detalhe/decreto-lei/129-2012-178510
+  internal: pt:dre:178510:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510
+  metadata_url: https://data.dre.pt/eli/dec-lei/129/2012/p/cons/20231226/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-114466476
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-114466476
+  retrieved_at: '2026-10-22T12:16:31Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4296687568aa25be7ff8f058dbc769513f44be17c4316714b531382d1023efa8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:16:31Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-129-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fiscal Único
+- Pessoal Dirigente
+- Contrapartida
+- Definição de Competências
+- Conselho Diretivo
+- Instituto Público
+- Instituto do Turismo de Portugal
+- Orgânica
+- Remuneração
+- ZONA de JOGO
+relationships:
+- type: amended_by
+  target: pt:dre:67098359:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º;
+    Altera Artigo 16.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359
+  date: '2015-04-29'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:215085998:por
+  label: Adita Artigo 8.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998
+  date: '2023-07-03'
+- type: amended_by
+  target: pt:dre:835674292:por
+  label: Altera Artigo 1.º; Altera Artigo 8.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2023-835674292
+  date: '2023-12-26'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/141/2007/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/141/2007/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1463/2007/11/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1463/2007/11/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1464/2007/11/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1464/2007/11/15/p/dre
+article_structure:
+  article_count: 25
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:16:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 129/2012
+
+Decreto-Lei n.º 129/2012
+
+de 22 de junho
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, foi aprovada a Lei Orgânica do Ministério da Economia e do Emprego (MEE), pelo Decreto-Lei n.º 126-C/2011, de 29 de dezembro, que procede à reestruturação do Instituto do Turismo de Portugal, I. P., abreviadamente designado por Turismo de Portugal, I. P., serviço da administração indireta do Estado, que tem por missão o apoio ao investimento no setor do turismo, designadamente na gestão de fundos comunitários no contexto dos sistema de incentivos às empresas do setor, a qualificação e desenvolvimento das infraestruturas turísticas, a coordenação da promoção interna e externa de Portugal como destino turístico e o desenvolvimento da formação de recursos humanos do setor, bem como a regulação e fiscalização dos jogos de fortuna e azar.
+
+Considerado em particular o quadro da gestão de fundos comunitários, importa evidenciar as competências cometidas no modelo de gestão do Quadro de Referência Estratégico Nacional (QREN), ao Turismo de Portugal, I. P., que atua como organismo intermédio para os projetos de investimento promovidos pelas empresas do setor do turismo no âmbito do Sistema de Incentivos à Qualificação e Internacionalização de PME (SI Qualificação de PME) e do Sistema de Incentivos à Inovação (SI Inovação), criados, respetivamente, pelas Portarias n.os 1463/2007 e 1464/2007, ambas de 15 de novembro. Compete, neste âmbito, ao Turismo de Portugal, I. P., analisar as candidaturas, contratar os incentivos aprovados e proceder ao controlo e acompanhamento material e financeiro dos investimentos apoiados, assegurando a interlocução com as empresas e desenvolvendo, um papel determinante no apoio às empresas de setor.
+
+Assinalam-se ainda as atribuições do Turismo de Portugal, I. P., no contexto da qualificação e desenvolvimento das estruturas turísticas, assumindo aí tarefas de conceção e planeamento estratégico da oferta turística nacional e de coordenação da promoção interna e externa de Portugal como destino turístico e, bem assim, as atribuições que lhe são cometidas na gestão da rede de estabelecimentos de ensino vocacionada para a formação de recursos humanos do setor e na regulação e fiscalização dos jogos de fortuna e azar. Salienta-se, por último, que o Turismo de Portugal, I. P., detém igualmente a qualidade de autoridade turística nacional.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto do Turismo de Portugal, I. P., abreviadamente designado por Turismo de Portugal, I. P., é um instituto público de regime especial, nos termos da lei, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - O Turismo de Portugal, I. P., prossegue atribuições do Ministério da Economia e do Emprego, abreviadamente designado por MEE, sob superintendência e tutela do respetivo ministro.
+
+3 - O Turismo de Portugal, I. P., rege-se pelo disposto no regime jurídico aplicável às entidades públicas empresariais em matéria de:
+
+a) Realização de despesas públicas, incluindo a delimitação da competência para a autorização de despesas;
+
+b) Contratação pública, abrangendo a não sujeição ao regime das entidades compradoras vinculadas ao sistema nacional de compras públicas;
+
+c) Ações informativas, de publicidade e promoção.
+
+d) Contratação das equipas de turismo no estrangeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 127/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2023-835674292), em vigor a partir de 2023-12-27
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O Turismo de Portugal, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - O Turismo de Portugal, I. P., tem a sua sede em Lisboa.
+
+3 - O Turismo de Portugal, I. P., dispõe de escolas de hotelaria e turismo, que se caracterizam como serviços territorialmente desconcentrados, cuja composição, competências e funcionamento constam de diploma próprio.
+
+4 - O Turismo de Portugal, I. P., desenvolve a sua ação no exterior, através de uma rede de equipas de turismo no estrangeiro, que atua de forma unificada com os serviços periféricos externos do Ministério dos Negócios Estrangeiros (MNE), da respetiva área geográfica e na dependência funcional do chefe de missão diplomática, ou a ele equiparado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2023 - Diário da República n.º 127/2023, Série I de 2023-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), em vigor a partir de 2023-07-04
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O Turismo de Portugal, I. P., tem por missão o apoio ao investimento no setor do turismo, a qualificação e desenvolvimento das infraestruturas turísticas, a coordenação da promoção interna e externa de Portugal como destino turístico, o desenvolvimento da formação de recursos humanos do setor, a promoção turística da competitividade das acessibilidades aéreas, rodoferroviárias e de navegabilidade ao território nacional, bem como o controlo, inspeção e regulação da exploração e prática de jogos de fortuna ou azar de base territorial (jogos de base territorial) e de jogos de fortuna ou azar, de apostas desportivas à cota e de apostas hípicas, mútuas e à cota, quando praticados à distância, através de suportes eletrónicos, informáticos, telemáticos e interativos, ou por quaisquer outros meios (jogos e apostas online).
+
+2 - São atribuições do Turismo de Portugal, I. P.:
+
+a) Apoiar o MEE na formulação e execução da política de turismo, a nível nacional, comunitário e internacional, e acompanhar a atividade das organizações internacionais do setor, propondo medidas e ações de diversificação, qualificação e melhoria da oferta turística nacional;
+
+b) Propor ao membro do Governo responsável pela área do turismo as linhas estratégicas aplicáveis ao desenvolvimento do setor turístico e definir os planos de ação de produtos e destinos que as concretizam;
+
+c) Assegurar a coordenação de estudos e estatísticas, nomeadamente em matéria de definição, acompanhamento e avaliação das políticas e planos estratégicos e de desenvolvimento do setor, para o que está habilitado a funcionar como entidade delegada no quadro do Sistema Estatístico Nacional e a participar nas atividades de organismos internacionais;
+
+d) Assegurar as relações externas, a nível europeu e internacional, na sua área de atividade, sem prejuízo das competências próprias do MNE;
+
+e) Prestar apoio técnico e financeiro às entidades públicas e privadas, em especial às empresas do setor, e assegurar a gestão de fundos comunitários no contexto dos respetivos sistemas de incentivos, bem como aprovar e acompanhar o investimento público de interesse turístico, designadamente através da afetação das contrapartidas das zonas de jogo;
+
+f) Planear, coordenar e executar a política de promoção de Portugal como destino turístico, no plano interno e externo, e garantir a estruturação, o planeamento e a execução das ações de promoção turística, quer as diretamente organizadas, quer as desenvolvidas ao abrigo de mecanismos de descentralização e contratualização;
+
+g) Assegurar a recolha, tratamento e divulgação de informação turística;
+
+h) Incentivar e desenvolver a política de formação e qualificação de recursos humanos do turismo, e a respetiva investigação técnico-pedagógica, bem como coordenar, executar e reconhecer os cursos e as ações de formação profissional para essa área, além de certificar a aptidão profissional para o exercício das profissões turísticas;
+
+i) Acompanhar a evolução e o desenvolvimento da oferta turística nacional, designadamente através do registo e classificação de empreendimentos e atividades turísticas;
+
+j) Promover uma política adequada de ordenamento turístico e de estruturação da oferta, em colaboração com os organismos competentes, intervindo na elaboração dos instrumentos de gestão territorial, participando no licenciamento ou autorização de empreendimentos e atividades, reconhecendo o seu interesse para o turismo, ou propondo ao membro do Governo responsável pela área o reconhecimento da respetiva utilidade turística;
+
+k) Assegurar a gestão financeira de fundos, constituídos na área de intervenção e atuação do Turismo de Portugal, I. P.
+
+l) Apoiar o Governo na definição da política nacional relativa à regulação do setor dos jogos de base territorial e dos jogos e apostas online, emitindo pareceres, estudos e informações;
+
+m) [Revogada];
+
+n) Colaborar na elaboração de diplomas legais no setor dos jogos de base territorial e dos jogos e apostas online, bem como propor a adoção de medidas legislativas e regulamentares no âmbito das suas atribuições;
+
+o) Controlar, inspecionar e regular a exploração e prática dos jogos de base territorial, bem como o funcionamento dos casinos, das salas de jogo do bingo e de outros locais onde a exploração daqueles jogos venha a ser autorizada;
+
+p) Controlar, inspecionar e regular a exploração e prática de jogos e apostas online;
+
+q) Gerir, em nome e representação do Estado, os contratos de concessão dos jogos, bem como acompanhar o seu cumprimento, quando não esteja expressamente prevista a intervenção do membro do Governo responsável pela área do turismo, e sem prejuízo da faculdade de subdelegação.
+
+r) Apoiar o Governo na dinamização das políticas de turismo que promovam a competitividade das acessibilidades aéreas, rodoferroviárias e de navegabilidade ao território nacional;
+
+s) Gerir, de forma integrada, a rede de equipas de turismo no estrangeiro a que se refere o n.º 4 do artigo anterior.
+
+3 - As atribuições do Turismo de Portugal, I.P., em matéria de controlo, inspeção e regulação dos jogos de base territorial e dos jogos e apostas online, são prosseguidas pela comissão de jogos e pelo Serviço de Regulação e Inspeção de Jogos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2023 - Diário da República n.º 127/2023, Série I de 2023-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 4.º — Órgãos
+
+São órgãos do Turismo de Portugal, I. P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único;
+
+c) A comissão de jogos;
+
+d) O conselho de crédito.
+
+###### Artigo 5.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente, por um vice-presidente, e por dois vogais.
+
+2 - O conselho diretivo pode integrar um vogal não executivo e não remunerado, ao qual cabe assegurar a representação cruzada entre o conselho diretivo do Turismo de Portugal, I. P., e o conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E. P. E.
+
+3 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do Turismo de Portugal, I. P.:
+
+a) Pronunciar-se sobre medidas legislativas, regulamentares ou de planeamento no âmbito do turismo;
+
+b) Deliberar, nos termos da lei, sobre a participação do Turismo de Portugal, I. P., em entidades públicas e privadas;
+
+c) Designar representantes nos corpos sociais das entidades participadas;
+
+d) Propor ao membro do Governo responsável pela área do turismo o recrutamento de titulares dos cargos de direção intermédia, nos termos previstos no artigo 18.º;
+
+e) Deliberar sobre a concessão e renegociação de financiamentos e incentivos e resolução dos respetivos contratos;
+
+f) Conceder subsídios e patrocínios;
+
+g) Propor ao membro do Governo responsável pela área do turismo a criação e a extinção de escolas de hotelaria e turismo, e respetivas estruturas conexas, integradas ou a integrar no Turismo de Portugal, I. P., bem como o respetivo modelo de gestão;
+
+h) Propor ao membro do Governo responsável pela área do turismo os representantes da área do turismo em organismos externos;
+
+i) Promover atividades de investigação na área do turismo;
+
+j) Constituir equipas multidisciplinares, bem como designar as respetivas chefias;
+
+k) Propor ao membro do Governo responsável pela área do turismo a constituição de equipas de turismo.
+
+4 - As competências do conselho diretivo relativas ao Serviço de Regulação e Inspeção de Jogos são delegadas na comissão de jogos.
+
+5 - O conselho diretivo pode ainda delegar competências no conselho de crédito.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 6.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos.
+
+###### Artigo 7.º — Comissão de jogos
+
+1 - A comissão de jogos é o órgão responsável pela orientação, acompanhamento e supervisão da atividade do Serviço de Regulação e Inspeção de Jogos, assegurando a ligação com o conselho diretivo do Turismo de Portugal, I.P..
+
+2 - A comissão de jogos é composta por dois membros do conselho diretivo, dos quais um preside, a designar por este conselho, e pelo diretor do Serviço de Regulação e Inspeção de Jogos.
+
+3 - Sem prejuízo das competências conferidas por lei ou que nela sejam delegadas ou subdelegadas, a comissão de jogos possui poderes de controlo, inspeção, regulação e sancionatórios, competindo-lhe, com a faculdade de delegar, nomeadamente:
+
+a) Atribuir, emitir, prorrogar, suspender e revogar licenças para a exploração de jogos e apostas online;
+
+b) Emitir regulamentos;
+
+c) Fixar prazos para o cumprimento de obrigações decorrentes da lei, dos contratos de concessão ou das licenças para a exploração de jogos e apostas online, quando aqueles não estejam expressamente fixados;
+
+d) Pronunciar-se sobre os planos de implantação e projetos de construção de infraestruturas e de outros equipamentos que constituam obrigações legais ou contratuais das concessionárias;
+
+e) Exercer os poderes e as competências atribuídas ao Estado, por lei ou por contrato, exceto se estes previrem expressamente a intervenção do membro do Governo responsável pela área do turismo, realizando uma gestão criteriosa e eficaz que garanta a salvaguarda dos interesses públicos em presença;
+
+f) Decidir os processos administrativos e de contraordenação, incluindo os relativos à publicidade de jogos e apostas, nos termos previstos no Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de outubro, aplicando as respetivas multas, coimas e demais medidas sancionatórias previstas na lei e adotando as medidas cautelares que se revelem necessárias;
+
+g) Deliberar sobre a realização das diligências necessárias à boa prossecução dos processos sancionatórios, nomeadamente de busca e apreensão, sem prejuízo da decisão da autoridade judiciária competente;
+
+h) Aprovar códigos de conduta e manuais de boas práticas no âmbito dos jogos de base territorial e dos jogos e apostas online, sob proposta do Serviço de Regulação e Inspeção de Jogos;
+
+i) Acompanhar e avaliar a atividade desenvolvida pelo Serviço de Regulação e Inspeção de Jogos, designadamente promovendo uma utilização racional dos recursos disponíveis;
+
+j) Aprovar os planos do Serviço de Regulação e Inspeção de Jogos, nomeadamente o plano de atividades e a programação do seu desenvolvimento, bem como os respetivos relatórios, nomeadamente o relatório de atividades;
+
+k) Elaborar o orçamento anual do Serviço de Regulação e Inspeção de Jogos e assegurar a respetiva execução;
+
+l) Autorizar as despesas necessárias ao funcionamento do Serviço de Regulação e Inspeção de Jogos;
+
+m) Definir as regras gerais e os princípios aplicáveis à exploração e à prática dos jogos de base territorial e dos jogos e apostas online, com respeito pelo quadro legislativo, regulamentar e contratual em vigor;
+
+n) Aprovar as regras de execução dos jogos de base territorial e dos jogos e apostas online;
+
+o) Aprovar a lista de onde constem as modalidades, as competições, as provas desportivas e as corridas de cavalos que podem ser objeto de apostas e definir os tipos e momentos da aposta, bem como os tipos de resultados sobre as quais aquelas podem incidir;
+
+p) Definir o valor das cauções devidas pelas concessionárias e entidades exploradoras dos jogos e apostas online;
+
+q) Emitir parecer sobre peças do procedimento de formação dos contratos de concessão de jogos de base territorial ou sobre alterações promovidas aos contratos em vigor;
+
+r) Homologar os sistemas técnicos de jogos e apostas online;
+
+s) Determinar a realização de auditorias, inquéritos, sindicâncias ou outras averiguações respeitantes à gestão e funcionamento das concessionárias e entidades exploradoras, incluindo à sua situação económica, financeira ou tributária em matéria de impostos especiais sobre o jogo;
+
+t) Aplicar medidas preventivas e cautelares de inibição de acesso às salas de jogo ou aos locais autorizados para a realização de jogos de base territorial;
+
+u) Autorizar a aquisição, oneração e locação de bens e serviços, nos termos da lei.
+
+4 - A comissão de jogos tem ainda competência em todas as matérias que, nos termos do presente decreto-lei e da demais legislação aplicável, não se encontrem atribuídas a outro órgão.
+
+5 - As regras de funcionamento da comissão de jogos são estabelecidas em regulamento interno, a aprovar pelo conselho diretivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2023 - Diário da República n.º 127/2023, Série I de 2023-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), em vigor a partir de 2023-07-04
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 8.º — Conselho de crédito
+
+1 - O conselho de crédito é o órgão responsável por coadjuvar o conselho diretivo em matéria de controlo orçamental e financeiro do Turismo de Portugal, I. P.
+
+2 - O conselho de crédito é composto por dois membros do conselho diretivo, dos quais um preside, a designar por este conselho, e pelo diretor financeiro do Turismo de Portugal, I. P.
+
+3 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho de crédito:
+
+a) Apoiar o conselho diretivo em matéria de controlo orçamental e financeiro;
+
+b) Apoiar o conselho diretivo no acompanhamento da evolução da receita e da despesa
+
+c) Autorizar o pagamento de parcelas dos apoios e financiamentos aprovados, independentemente do seu âmbito;
+
+d) Autorizar a libertação de verbas provenientes das contrapartidas das zonas de jogo, incluindo as que estão afetas às respetivas comissões de obras;
+
+e) Autorizar todos os pagamentos, bem como a concessão de moratórias.
+
+4 - As regras de funcionamento do conselho de crédito são estabelecidas em regulamento interno, a aprovar pelo conselho diretivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2023 - Diário da República n.º 127/2023, Série I de 2023-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), em vigor a partir de 2023-07-04
+
+###### Artigo 8.º-A — Equipas de turismo
+
+1 - A organização interna das equipas de turismo no estrangeiro a que se refere o n.º 4 do artigo 2.º rege-se pelo disposto nos estatutos do Turismo de Portugal, I. P.
+
+2 - Aos trabalhadores das equipas de turismo no estrangeiro do Turismo de Portugal, I. P., é aplicável, com as devidas adaptações, o regime dos centros de cooperação previsto no Decreto-Lei n.º 49/2018, de 21 de junho, na sua redação atual, e demais legislação complementar.
+
+3 - Aos diretores das equipas de turismo no estrangeiro do Turismo de Portugal, I. P., é aplicável, com as devidas adaptações, o regime dos serviços periféricos externos previsto no Decreto-Lei n.º 47/2013, de 5 de abril, na sua redação atual, e demais legislação complementar.
+
+4 - Os diretores das equipas de turismo no estrangeiro são acreditados como conselheiro técnico principal, conselheiro técnico ou adido junto das missões diplomáticas e postos consulares portugueses, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do membro do Governo responsável pela área do turismo.
+
+5 - Sem prejuízo do disposto nos números anteriores, todas as demais matérias referentes ao estatuto, funcionamento e competências das equipas de turismo são objeto de regulamento interno para a rede externa do Turismo de Portugal, I. P., a aprovar nos termos da legislação aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 127/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2023-835674292), em vigor a partir de 2023-12-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 51/2023 - Diário da República n.º 127/2023, Série I de 2023-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998), em vigor a partir de 2023-07-04
+
+###### Artigo 9.º — Organização interna
+
+1 - Sem prejuízo do disposto no número seguinte, a organização interna do Turismo de Portugal, I.P., é a prevista nos respetivos estatutos.
+
+2 - O Serviço de Regulação e Inspeção de Jogos detém natureza inspetiva, é dotado de autonomia técnica e funcional e de poderes de autoridade pública, cabendo-lhe, sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, nomeadamente:
+
+a) Emitir instruções e orientações, de caráter vinculativo;
+
+b) Apoiar tecnicamente e colaborar com as autoridades policiais, nomeadamente com a Polícia de Segurança Pública (PSP), a Guarda Nacional Republicana (GNR), a Policia Judiciária (PJ) e a Autoridade para a Segurança Alimentar e Económica (ASAE), em matéria de prevenção e punição de práticas ilícitas relativas a jogos de fortuna ou azar de base territorial;
+
+c) Desenvolver mecanismos de cooperação administrativa com as autoridades e serviços competentes, nomeadamente com o Banco de Portugal (BdP), a ERC - Entidade Reguladora para a Comunicação Social (ERC), o ICP - Autoridade Nacional de Comunicações (ICP-ANACOM) e a Direção-Geral de Alimentação e Veterinária (DGAV), em matéria de prevenção e punição de práticas ilícitas relativas a jogos e apostas online;
+
+d) Abrir e instruir os processos administrativos e de contraordenação, incluindo os relativos à publicidade de jogos e apostas nos termos previstos no Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de outubro;
+
+e) Emitir recomendações;
+
+f) Arrecadar e gerir as receitas destinadas a suportar a prossecução da atividade de controlo, inspeção e regulação dos jogos de base territorial e dos jogos e apostas online;
+
+g) Liquidar as contrapartidas, as taxas e os impostos devidos pelo exercício da atividade de exploração de jogos de base territorial e de jogos e apostas online, bem como as multas, as coimas, as custas dos processos e as sanções pecuniárias compulsórias aplicadas neste âmbito;
+
+h) Aprovar o material e utensílios destinados aos jogos de base territorial, tendo em vista a sua conformidade com as regras em vigor;
+
+i) Assegurar a criação e a gestão de bases de dados com informação atualizada sobre as pessoas que, voluntária, administrativa ou judicialmente, se encontrem impedidas de jogar.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 10.º — Estatuto dos membros do conselho diretivo
+
+1 - Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos.
+
+2 - Os membros do conselho diretivo do Turismo de Portugal, I. P., podem exercer, em regime de inerência, sem lugar a qualquer acréscimo remuneratório, funções de gestão em pessoas coletivas participadas pelo Turismo de Portugal, I. P., bem como funções não executivas em empresas do setor público do Estado, mediante autorização dos membros do Governo responsáveis pelas áreas das finanças e do turismo, nos termos da lei.
+
+###### Artigo 11.º — Receitas
+
+1 - O Turismo de Portugal, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - O Turismo de Portugal, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) As receitas provenientes dos impostos especiais sobre o jogo e das concessões das zonas de jogo;
+
+b) As doações, heranças ou legados de que for beneficiário;
+
+c) As comparticipações, transferências, subsídios ou donativos concedidos por quaisquer entidades;
+
+d) O rendimento de bens próprios;
+
+e) O produto da venda de bens, da prestação de serviços, no âmbito das suas atribuições, e da realização de ações de promoção;
+
+f) O produto da venda das suas publicações e da reprodução de documentos;
+
+g) O produto da realização de estudos, inquéritos ou trabalhos;
+
+h) O produto das taxas, multas, coimas ou outros valores de natureza pecuniária que lhe estejam consignados;
+
+i) O produto de aplicações financeiras existentes;
+
+j) Os valores cobrados pela frequência de cursos, seminários ou outras ações de formação;
+
+k) Os juros, amortizações e reembolsos dos empréstimos concedidos;
+
+l) As receitas que lhe sejam atribuídas mediante portaria dos membros do Governo responsáveis pelas áreas das finanças e do turismo;
+
+m) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - Os saldos das receitas referidas no número anterior, apurados no final de cada ano económico, transitam para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.
+
+4 - Das receitas referidas no n.º 2, destinam-se a suportar os encargos com a prossecução da atividade de controlo, inspeção e regulação no âmbito dos jogos de base territorial e dos jogos e apostas online, para além das referidas no artigo 13.º, as seguintes:
+
+a) As provenientes dos impostos especiais sobre o jogo que, nos termos dos respetivos diplomas legais, lhes estejam afetas;
+
+b) As provenientes da emissão de licenças para a exploração de jogos e apostas online;
+
+c) O produto das taxas devidas pela prestação de serviços realizados no âmbito dessas competências;
+
+d) O produto das multas, das coimas, das custas dos processos e das sanções pecuniárias compulsórias aplicadas no âmbito dos processos administrativos e contraordenacionais relativos à exploração e prática dos jogos de base territorial e dos jogos e apostas online;
+
+e) O produto de outros valores de natureza pecuniária que lhes estejam afetos.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas do Turismo de Portugal, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 13.º — Compensação de encargos
+
+1 - Os encargos com o exercício da ação inspetiva nos casinos, nas salas de máquinas, nas salas de jogo do bingo e com o combate aos jogos ilícitos de fortuna ou azar de base territorial, decorrentes do funcionamento do Serviço de Regulação e Inspeção de Jogos e da ação desenvolvida pela ASAE naquele domínio, são suportados pelas receitas provenientes:
+
+a) De empresas concessionárias das zonas de jogo, nos termos definidos no presente artigo;
+
+b) Das receitas da exploração do jogo do bingo fora dos casinos, de acordo com a legislação aplicável.
+
+2 - A quota-parte dos encargos a suportar pelas empresas concessionárias das zonas de jogo, em cada ano, é determinada multiplicando o valor da despesa identificada no número anterior, por um fator a fixar anualmente por despacho do membro do Governo responsável pela área do turismo, tendo em conta o montante despendido em anos anteriores.
+
+3 - O fator referido no número anterior é igualmente aplicado em eventuais reforços necessários para suportar as despesas ali referidas.
+
+4 - A comparticipação de cada concessionária de zona de jogo no montante definido nos termos dos números anteriores é paga na proporção dos seguintes valores numéricos, por cada casino:
+
+a) Zonas de jogo do Estoril - 9;
+
+b) Zonas de jogo de Espinho e Póvoa de Varzim - 4;
+
+c) Zona de jogo da Figueira da Foz - 1,8;
+
+d) Zonas de jogo do Algarve, Funchal, Porto Santo, Açores, Troia e Vidago-Pedras Salgadas - 0,6.
+
+5 - A comparticipação de cada concessionária de zona de jogo, relativa a salas de máquinas, é paga na proporção do correspondente a 50 % dos valores numéricos previstos no número anterior, por cada sala.
+
+6 - As concessionárias das zonas de jogo do Porto Santo e dos Açores, quanto a esta última no que respeita à concessão da sala de máquinas da ilha do Faial, iniciam o cumprimento desta obrigação um ano antes de principiar a exploração do jogo.
+
+7 - A entrega das contrapartidas a que se alude nos n.os 4 e 5 é feita à ordem do Turismo de Portugal, I. P., até ao dia 10 de cada mês.
+
+8 - O Turismo de Portugal, I.P., transfere anualmente para a ASAE, da verba referida no número anterior, o montante necessário para suportar os encargos decorrentes da participação desta autoridade no combate aos jogos ilícitos de fortuna ou azar de base territorial, o qual não pode ultrapassar 50% dos custos de funcionamento do Serviço de Regulação e Inspeção de Jogos.
+
+> Alterado pelo/a Artigo 314.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 14.º — Contrapartidas das zonas de jogo
+
+1 - As contrapartidas iniciais e anuais a prestar pelos concessionários das zonas de jogo são depositadas à ordem do Turismo de Portugal, I. P.
+
+2 - A afetação das contrapartidas referidas no número anterior é feita pelo Turismo de Portugal, I. P., nos termos definidos na legislação aplicável.
+
+###### Artigo 15.º — Património
+
+O património do Turismo de Portugal, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+###### Artigo 16.º — Cobrança coerciva de dívidas
+
+1 - As certidões negativas de pagamento emitidas pelo conselho diretivo do Turismo de Portugal, I.P., constituem título executivo bastante, nos termos previstos na alínea d) do n.º 1 do artigo 703.º do Código do Processo Civil.
+
+2 - As certidões negativas de pagamento emitidas pela comissão de jogos do Turismo de Portugal, I.P., constituem título executivo bastante, nos termos previstos na alínea d) do artigo 162.º do Código de Procedimento e de Processo Tributário.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 17.º — Cargos dirigentes intermédios
+
+1 - São cargos de direção intermédia de 1.º grau do Turismo de Portugal, I. P., os diretores coordenadores.
+
+2 - São cargos de direção intermédia de 2.º grau do Turismo de Portugal, I. P., os diretores.
+
+3 - A remuneração base dos cargos de direção intermédia identificados nos números anteriores é determinada em percentagem da remuneração base do vogal do conselho diretivo do Turismo de Portugal, I. P., nas seguintes proporções:
+
+a) Diretor coordenador de nível i - 76 %;
+
+b) Diretor coordenador de nível ii - 73 %;
+
+c) Diretor coordenador de nível iii - 68 %;
+
+d) Diretor de nível i - 66 %;
+
+e) Diretor de nível ii - 63 %;
+
+f) Diretor de nível iii - 57 %;
+
+g) Diretor de nível iv - 51 %;
+
+h) Diretor de nível v - 35 %.
+
+4 - As despesas de representação dos cargos de direção intermédia de 1.º e 2.º graus do Turismo de Portugal, I. P., são determinadas em percentagem das despesas de representação do vogal do conselho diretivo do Turismo de Portugal, I. P., nos termos do número anterior.
+
+5 - O exercício de cargos diretivos nas escolas de hotelaria e turismo corresponde ao exercício do cargo de diretor, sendo o seu titular posicionado num dos níveis referidos nas alíneas g) e h) do número anterior, de acordo com a classificação das escolas, definida em diploma próprio.
+
+###### Artigo 18.º — Área de recrutamento de cargos dirigentes intermédios
+
+Os titulares dos cargos de direção intermédia de 1.º e 2.º graus, podem, a título excecional e devidamente fundamentado, ser recrutados de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no Estatuto do Pessoal Dirigente, mediante autorização dos membros do Governo responsáveis pelas áreas da administração pública e do turismo, sob proposta do conselho diretivo.
+
+###### Artigo 19.º — Poderes de autoridade
+
+1 - O Turismo de Portugal, I.P., no âmbito da sua atividade de controlo, inspeção e regulação da exploração e prática dos jogos de base territorial e dos jogos e apostas online, exercida através da comissão de jogos e do Serviço de Regulação e Inspeção de Jogos, detém poderes e prerrogativas de autoridade pública administrativa e de entidade de regulação.
+
+2 - O Turismo de Portugal, I. P., detém ainda a qualidade de autoridade turística nacional, exercendo, nesse domínio, os poderes de autoridade necessários à prossecução das suas atribuições, nos termos e com a extensão definidos na legislação aplicável, designadamente no que respeita a acesso a locais fiscalizados e vistoriados, solicitação de documentação, solicitação de colaboração de outras autoridades públicas e policiais, suspensão ou cessação de atividades e encerramento de instalações.
+
+3 - No exercício das prerrogativas previstas no presente artigo, os dirigentes e os trabalhadores do Turismo de Portugal, I. P., são portadores de um documento de identificação próprio, de modelo a fixar por portaria do membro do Governo responsável pela área do turismo, devendo exibi-lo quando no exercício das suas funções.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 20.º — Relações de cooperação ou associação
+
+1 - O Turismo de Portugal, I. P., pode, nos termos da lei, estabelecer parcerias, relações de cooperação ou associação, no âmbito das suas atribuições, com outras entidades públicas ou privadas, nacionais ou estrangeiras, designadamente para a prossecução em comum de funções e atribuições próprias no setor do turismo.
+
+2 - Em matéria de controlo, inspeção e regulação dos jogos de base territorial e dos jogos e apostas online, o Turismo de Portugal, I.P., através da comissão de jogos e do Serviço de Regulação e Inspeção de Jogos, pode também estabelecer mecanismos de cooperação com outras entidades públicas ou privadas, nacionais ou estrangeiras, quando tal se mostre necessário e conveniente ao exercício das suas atribuições, bem como colaborar com as entidades reguladoras de outros Estados-Membros e com os organismos europeus e internacionais relevantes, numa ótica de cooperação administrativa internacional.
+
+3 - No âmbito das suas atribuições de controlo, inspeção e regulação dos jogos de base territorial e dos jogos e apostas online, pode o Turismo de Portugal, I.P., mediante proposta da comissão de jogos, celebrar protocolos para os efeitos previstos no número anterior e ainda com entidades públicas detentoras de bases de dados, no respeito pela legislação relativa à proteção de dados pessoais, com vista a confirmar os dados de identificação, nomeadamente o nome, a data de nascimento e o número de identificação fiscal das pessoas singulares que se registem nos sítios na Internet das entidades exploradoras de jogos e apostas online.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 21.º — Criação ou participação em outras entidades
+
+A criação, participação na criação, aquisição ou aumento de participação em entes de direito privado por parte do Turismo de Portugal, I. P., apenas se pode verificar em situações excecionais quando, cumulativamente, seja fundamentadamente demonstrada a imprescindibilidade para a prossecução das suas atribuições e seja obtida autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e do turismo, nos termos do artigo 13.º da Lei n.º 3/2004, de 15 de janeiro.
+
+###### Artigo 22.º — Norma transitória
+
+1 - O diretor do Serviço de Regulação e Inspeção de Jogos mantém o estatuto remuneratório vigente à data da entrada em vigor do presente diploma até à revisão da carreira de Inspetor Superior de Jogos pelo Decreto-Lei n.º 170/2009, de 3 de agosto.
+
+2 - Durante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras de fixação de remuneração estabelecidas pelo presente diploma não pode resultar um aumento da remuneração efetivamente paga aos cargos de direção intermédia, designados ou a designar, tendo por referência a remuneração atribuída à data de entrada em vigor do presente decreto-lei, sem prejuízo do eventual exercício da opção pelo vencimento do lugar de origem nas novas designações.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 23.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 141/2007, de 27 de abril.
+
+###### Artigo 24.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Álvaro Santos Pereira.
+
+Promulgado em 12 de junho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 14 de junho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:836794580:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2024-1173549375",
+ "dre_path": "/dr/detalhe/despacho-extrato/364-2024-836794580",
+ "source_lastmod": "2026-09-30",
+ "versions": [
+  {
+   "date": "2024-01-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1173557275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1173557275": {
+   "fragment_id": "1173549475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho do presidente do Grupo Parlamentar do Partido Social Democrata, deputado Joaquim Miranda Sarmento, de 20 de dezembro de 2023, nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, na sua atual redação, procede-se à nomeação em regime de 1/4 de tempo, no Grupo Parlamentar do Partido Social Democrata, do seguinte estagiário:\n\nRúben Casquinha de Lima - com efeitos a partir do dia 1 de dezembro de 2023.\n\nO agora nomeado, está autorizado a prosseguir a sua formação académica, e bem assim a exercer atividades de docência em instituições de ensino superior, bem como a exercer atividades compreendidas na sua respetiva especialidade profissional, nos termos das alíneas a) e b) do n.º 3 do artigo 7.º do Decreto-Lei n.º 11/2012, de 20 de janeiro.\n\nEstá também autorizado a exercer as suas funções em regime de teletrabalho, se assim lhe for determinado e impuserem as necessidades de serviço."
+  }
+ }
+}

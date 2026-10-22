@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:512778:por
+title: Decreto-Lei n.º 43383
+short_title: null
+summary: Insere disposições destinadas a simplificar alguns actos processuais do contencioso das contribuições e impostos
+  - Dá nova redacção aos artigos 28.º e 30.º do Decreto n.º 16733
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral das Contribuições e Impostos
+proposing_entity: null
+official_number: '43383'
+official_date: null
+publication_date: '1960-12-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 283/1960, Série I de 1960-12-07
+  number: '283'
+  series: I
+  supplement: null
+  pages: 2718 - 2719
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/12/28300/27182719.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '512778'
+  dre_path: /dr/detalhe/decreto-lei/43383-1960-512778
+  internal: pt:dre:512778:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43383-1960-512778
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43383-1960-512778
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-12-07T00:00:00Z'
+integrity:
+  source_sha256: 984471f20afdeabf4e2f98d70216624c8bc2de769ff9f359d89220eea3b80903
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-43383-512778.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43383
+
+Na organização do contencioso das contribuições e impostos estabelecida no [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437), de 13 de Abril de 1929, em complemento natural da reforma tributária, procurou-se dar às relações jurídicas decorrentes do direito de tributação uma garantia judiciária que, sendo fundamentalmente expedita e rápida na sua aplicação, não deixasse também de ser segura e justa na sua eficiência.
+
+Se para a prontidão na administração da justiça muito contribuiu a simplificação dos actos judiciais e a singeleza dos próprios processos, a verdade é que o pressuposto das fórmulas decretadas residia em grande parte na simplicidade dos métodos do direito fiscal substantivo, então recentemente reformado, e num condicionalismo de facto cuja manutenção ou alteração não poderiam deixar, por certo, de constituir factores decisivos de regularidade. Às modificações introduzidas posteriormente no sistema fiscal, por acção premente das realidades, não poderia deixar de corresponder uma complexidade manifesta das instituições legais, a que veio a acrescer, no campo dos efeitos sobre a rapidez da actividade contenciosa, o desenvolvimento das situações de facto criadoras do direito ao imposto ou geradoras de pleitos que não poderiam também deixar de ser naturalmente crescentes na expressão numérica e nas dificuldades do próprio litígio. A segurança e a justiça das garantias judiciais foi realizada através da organização de tribunais inteiramente independentes servidos por uma magistratura especializada, autónoma, esclarecida e desinteressada. Se a primeira decisão em matéria contenciosa ficou a caber, em alguns casos, a funcionários pertencentes ao quadro administrativo, normalmente incumbidos de funções de administração, essa circunstância não comprometeu o rigor dos princípios, designadamente porque se reconheceu e definiu para esta actividade uma natureza fundamentalmente preparatória do julgamento que viria a ser feito em instância superior.
+
+Uma reforma do contencioso capaz de resolver com possível rigor todos os problemas decorrentes das circunstâncias apontadas e de outras que se têm acumulado nos últimos 30 anos só poderá ser levada a efeito, naturalmente, depois de completada a reforma do direito substantivo de todos os impostos. Urge, porém, levar desde já a alguns sectores o resultado da experiência neles havida e procurar, antes de maior agravamento, evitar os efeitos, julgados mais prementes, de circunstâncias já existentes e que poderão avolumar-se à medida em que vão entrando em vigor os diplomas que venham a reformar cada um dos impostos.
+
+Na sequência dos critérios firmados e que mais caracterizam o nosso contencioso procura-se dar ainda maior expressão ao princípio da independência e autonomia dos órgãos judiciais, separando, na medida do possível, na 1.ª instância, as funções de julgamento e de liquidação. Não se julga, porém, conveniente a criação de tribunais privativos de 1.ª instância fora dos distritos de Lisboa e Porto enquanto não se proceder a uma reforma completa do contencioso, do processo preparatório e de fiscalização e do processo administrativo de tributação. Nestes dois distritos aproveitam-se para o efeito os tribunais das execuções fiscais já existentes das duas cidades, enquanto nos restantes se mantém, por agora, o sistema actualmente em vigor.
+
+Simplificam-se alguns actos processuais e procura-se dar ao contribuinte, a par de uma comodidade maior, um seguro reforço de garantias.
+
+Em outro diploma se procura atender às circunstâncias consequentes do aumento crescente do número de processos e dar uma expressão mais acentuada ao princípio da especialização, que é uma das bases em que se estrutura todo o contencioso das contribuições e impostos.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º A competência conferida aos chefes das secções de finanças concelhias pelo artigo 2.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437), de 13 de Abril de 1929, passará a caber, nos distritos de Lisboa e Porto, aos juízes dos tribunais privativos de 1.ª instância do contencioso.
+
+###### Art. 2.º A remessa dos processos para julgamento, bem como a sua devolução, far-se-á sob registo postal, expedindo-se conjuntamente uma guia em duplicado, num dos exemplares da qual será passado recibo, devidamente autenticado, que se enviará à entidade remetente nos três dias seguintes ao da recepção.
+
+###### Art. 3.º O prazo para julgamento é de 30 dias, contados da data da entrada dos processos na secção de finanças ou na secretaria do tribunal.
+
+###### Art. 4.º Os tribunais de 1.ª instância do contencioso das contribuições e impostos não têm alçada. Exceptuam-se os tribunais de Lisboa e Porto, que têm alçada de 1000$00.
+
+###### Art. 5.º Os artigos 28.º e 30.º do [Decreto n.º 16733](https://diariodarepublica.pt/dr/detalhe/decreto/16733-1929-275437) passam a ter a seguinte redacção:
+
+###### Art. 28.º Os processos de transgressão instaurados fora dos distritos de Lisboa e Porto, em que os respectivos autos tenham sido levantados pelo chefe da secção de finanças ou por um seu superior hierárquico, serão apenas instruídos na secção de finanças, subindo ao tribunal de 2.ª instância para julgamento.
+
+...
+
+###### Art. 30.º É obrigatório o recurso por parte da Fazenda Nacional:
+
+a) Nas reclamações contenciosas, quando a decisão seja contrária à Fazenda e às informações oficiais e o valor da causa exceda 2000$00, sendo o recurso para o tribunal de 2.ª instância, e 5000$00, quando seja para o Supremo Tribunal Administrativo;
+
+b) Nos processos de transgressão, quando a decisão seja contrária à Fazenda e a multa exceda 2000$00, desde que o recurso tenha lugar para o tribunal de 2.ª instância, e 5000$00, desde que seja para o Supremo Tribunal Administrativo.
+
+###### Art. 6.º As anulações com fundamento em cessação de factos tributários, quer em contribuição industrial, quer em impsto profissional, serão concedidas oficiosamente pelo chefe da secção de finanças, desde que tenha sido apresentada participação elaborada conforme os modelos anexos ao [Decreto-Lei n.º 31948](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31948-1942-166466), de 1 de Abril de 1942, e as informações oficiais confirmem inteiramente o facto.
+
+§ 1.º Tendo a participação de cessação sido apresentada fora do prazo fixado no artigo 2.º do [Decreto n.º 17730](https://diariodarepublica.pt/dr/detalhe/decreto/17730-1929-288846), de 7 de Dezembro de 1929, não será de conceder a anulação da contribuição ou imposto relativo a qualquer trimestre do ano em que teve lugar a cessação; e sendo a participação apresentada depois de decorrido esse ano, a anulação a conceder será ùnicamente a que respeitar aos trimestres completos ainda por decorrer à data daquela apresentação.
+
+§ 2.º Se as informações não confirmarem inteiramente a cessação dos factos tributários, os contribuintes serão notificados para, no prazo de oito dias, apresentarem, querendo, a sua reclamação contenciosa, oferecendo logo as provas admitidas por lei.
+
+###### Art. 7.º Este diploma entra em vigor no dia 1 de Janeiro de 1961.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 7 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.

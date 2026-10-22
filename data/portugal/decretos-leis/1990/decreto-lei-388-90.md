@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:565377:por
+title: Decreto-Lei n.º 388/90
+short_title: null
+summary: Aprova o regime de suplementos para os titulares dos cargos de gestão de estabelecimentos de ensino superior
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 388/90
+official_date: null
+publication_date: '1990-12-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 283/1990, Série I de 1990-12-10
+  number: '283'
+  series: I
+  supplement: null
+  pages: 5032 - 5033
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28300/50325033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-04-17'
+version_history:
+  file: decreto-lei-388-90.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1990-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-17'
+    amending: pt:dre:161518656:por
+    amending_title: Decreto-Lei n.º 27/2021
+    changes:
+    - Altera Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/388/1990/p/cons/20210416/pt/html
+  oj: null
+  dre: '565377'
+  dre_path: /dr/detalhe/decreto-lei/388-1990-565377
+  internal: pt:dre:565377:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1990-565377
+  metadata_url: https://data.dre.pt/eli/dec-lei/388/1990/p/cons/20210416/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-161626092
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-161626092
+  retrieved_at: '2026-10-22T12:40:53Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b20e0b94085a920446988ae3b29115b16926cff69e6103e558263e10fa8453bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:40:53Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-388-90.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Instaladora
+- Conselho Científico
+- Conselho Diretivo
+- Conselho Pedagógico
+- Cálculo de Pensões
+- Ensino Superior
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Pensão de Aposentação
+- Pessoal Dirigente
+- Presidente
+- Pró-Reitor
+- Remuneração Acessória
+- Sistema Retributivo
+- Subdiretor
+- Subsídio de Férias
+- Subsídio de Natal
+- Vice-presidente
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:161518656:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656
+  date: '2021-04-16'
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:40:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 388/90
+
+Decreto-Lei n.º 388/90
+
+de 10 de Dezembro
+
+Da aprovação da lei da autonomia das universidades e da lei sobre organização e gestão dos estabelecimentos de ensino superior politécnico decorre um substancial acréscimo da responsabilidade pelo exercício de cargos de gestão. A acentuação dessa responsabilidade vem, por seu turno, reafirmar a necessidade de compensar o acréscimo de esforço, de empenhamento e de sacrifício que fatalmente acompanham a assunção de cargos de gestão nas instituições de ensino superior.
+
+Trata-se, em relação aos estabelecimentos de ensino superior universitário, de uma necessidade já reconhecida e que recebeu enquadramento normativo adequado com a aprovação do Decreto-Lei n.º 244/85, de 11 de Julho. Todavia, já no que respeita às instituições de ensino superior politécnico falta esse enquadramento, existindo uma lacuna que ganha, aliás, assinalável realce pela circunstância de existirem neste subsistema de ensino superior escolas com uma dimensão e com uma riqueza de atribuições semelhantes ou superiores às de alguns estabelecimentos universitários.
+
+Por outro lado, as funções de gestão dos estabelecimentos de ensino superior correspondem às particularidades específicas de prestação de trabalho previstas no n.º 1 do artigo 19.º do Decreto-Lei n.º 184/89, de 2 de Junho, sendo que a atribuição de suplementos pelo exercício destes cargos de gestão tem sido sistematicamente prevista nos respectivos estatutos da carreira docente e na demais legislação complementar.
+
+Finalmente, tendo já sido estabelecidas as remunerações base mensais para os cargos de reitor e de vice-reitor, não se justifica agora contemplá-las no regime de suplementos pelo desempenho de cargos de gestão, do mesmo modo que tal não se justifica para os presidentes das comissões instaladoras ou presidentes, que lhes irão suceder, dos institutos superiores politécnicos, para os quais se irá também determinar a respectiva remuneração base mensal.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 184/89, de 2 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Os titulares dos cargos de gestão das instituições de ensino superior têm, nos termos do presente diploma, direito, pelo exercício desses cargos, a um suplemento remuneratório.
+
+###### Artigo 2.º
+
+- 1 - Os suplementos referidos no artigo anterior serão atribuídos aos titulares dos seguintes cargos:
+
+a) Pró-reitor;
+
+b) Presidente de estabelecimento de ensino superior universitário não integrado em universidade;
+
+c) Director, presidente do conselho directivo ou presidente da comissão instaladora de estabelecimento de ensino superior;
+
+d) Dirigente, com funções similares às referidas na alínea anterior, de unidade estrutural equivalente à prevista nessa alínea em instituição de ensino superior não organizada estatutariamente em estabelecimentos;
+
+e) Presidente do conselho científico de instituição ou estabelecimento de ensino superior, bem como de unidade estrutural referida na alínea d);
+
+f) Presidente do conselho pedagógico de instituição ou estabelecimento de ensino superior, bem como de unidade estrutural referida na alínea d);
+
+g) Subdirector e vice-presidente ou vogal do conselho directivo de estabelecimento de ensino superior que, nos termos estatutários, exerça funções equivalentes às de subdirector ou vice-presidente;
+
+h) Vogal de comissão instaladora de estabelecimento de ensino superior;
+
+i) Dirigente de laboratório, instituto, museu, centro ou observatório que esteja previsto nos estatutos de instituição de ensino superior e tenha objectivos, funções e dimensão que o senado ou o conselho geral considere justificar a atribuição de um suplemento pela sua gestão.
+
+j) Dirigentes de instituições de Investigação e Desenvolvimento (I&D), ou outras unidades orgânicas da instituição de ensino superior, ainda que não autónomas, quando previstas nos estatutos da instituição de ensino superior.
+
+2 - Aos titulares dos cargos referidos nas alíneas a), b), c), d) e e) do número anterior é atribuído um suplemento mensal de 28% da remuneração base mensal correspondente ao índice 100 das escalas salariais das carreiras dos docentes universitários, dos docentes do ensino superior politécnico e da carreira de investigação científica, adiante abreviadamente designado por índice 100.
+
+3 - Aos titulares do cargo referido na alínea f) do n.º 1 é atribuído um suplemento mensal de 23% da remuneração base mensal correspondente ao índice 100.
+
+4 - Aos titulares dos cargos referidos nas alíneas g), h) e i) do n.º 1 é atribuído um suplemento mensal de 17% da remuneração base mensal correspondente ao índice 100.
+
+5 - Os titulares dos cargos referidos na alínea j) do n.º 1 têm direito ao suplemento mensal devido pelo exercício das funções a que sejam equiparados por via estatutária.
+
+6 - A remuneração base dos diretores de unidades orgânicas de ensino superior com autonomia de gestão e órgãos próprios que não se encontrem integrados em carreira docente ou de investigação científica da instituição em causa tem por referência a 2.ª posição remuneratória das categorias de professor associado, professor coordenador ou investigador principal, sem habilitação ou agregação.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17
+
+###### Artigo 3.º
+
+- 1 - Os suplementos são devidos desde a data de início das funções até à da sua cessação, sem prejuízo do disposto no artigo 6.º
+
+2 - Os referidos suplementos são considerados para os seguintes efeitos:
+
+a) Cálculo dos subsídios de Natal e de férias do pessoal que a eles tiver direito, nos termos legais;
+
+b) Cálculo das pensões de aposentação, nos termos da legislação aplicável.
+
+###### Artigo 4.º
+
+Os suplementos previstos no artigo 2.º são cumuláveis, desde que não resultem de cargos ocupados por inerência, mas a sua soma não pode, em caso algum, exceder o limite de 40% da remuneração base correspondente ao índice 100.
+
+###### Artigo 5.º
+
+Os presidentes e vogais das comissões instaladoras de estabelecimentos de ensino superior politécnico que estejam a auferir a remuneração prevista no n.º 2 do artigo 6.º do Decreto-Lei n.º 513-L1/79, de 27 de Dezembro, com a redacção que lhe foi introduzida pelo artigo 1.º do Decreto-Lei n.º 131/80, de 17 de Maio, não beneficiam dos suplementos referidos no artigo 2.º do presente decreto-lei.
+
+###### Artigo 6.º
+
+O regime de suplementos previsto no presente decreto-lei produz os seus efeitos nos seguintes termos:
+
+a) Relativamente aos titulares de cargos de gestão de estabelecimentos de ensino superior universitário abrangidos pelo Decreto-Lei n.º 244/85, de 11 de Julho, e pelo Decreto-Lei n.º 384/86, de 15 de Novembro, desde 1 de Outubro de 1989;
+
+b) Relativamente aos titulares dos restantes cargos enunciados no n.º 1 do artigo 2.º, no primeiro dia do mês seguinte ao da publicação do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.
+
+Promulgado em 26 de Novembro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 28 de Novembro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

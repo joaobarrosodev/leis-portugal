@@ -1,0 +1,963 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66442957:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-70748634",
+ "dre_path": "/dr/detalhe/portaria/25-2015-66442957",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-02-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "70731050",
+    "70731051",
+    "70731052",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "70731059",
+    "70731060",
+    "70731061",
+    "70731062",
+    "70731063",
+    "70731064",
+    "70731065",
+    "70731066",
+    "70731067",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "70731073",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "70753879",
+    "70753880",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ]
+  },
+  {
+   "date": "2015-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70748599:por",
+     "title": "Portaria n.º 374/2015",
+     "published": "2015-10-20",
+     "dre_path": "/dr/detalhe/portaria/374-2015-70748599"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "70753908",
+    "70731051",
+    "70731052",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "70731059",
+    "70731060",
+    "70731061",
+    "70731062",
+    "70753909",
+    "70731064",
+    "70731065",
+    "70731066",
+    "70731067",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "70731073",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "70753910",
+    "70753880",
+    "70753885",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105643559:por",
+     "title": "Portaria n.º 338-A/2016",
+     "published": "2016-12-28",
+     "dre_path": "/dr/detalhe/portaria/338-a-2016-105643559"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "114957940",
+    "70731051",
+    "70731052",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "70731059",
+    "70731060",
+    "70731061",
+    "70731062",
+    "70753909",
+    "70731064",
+    "70731065",
+    "114957941",
+    "114957942",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "114957943",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "114957944",
+    "70753880",
+    "70753885",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ]
+  },
+  {
+   "date": "2018-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "114957945",
+    "70731051",
+    "70731052",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "70731059",
+    "70731060",
+    "70731061",
+    "70731062",
+    "70753909",
+    "70731064",
+    "70731065",
+    "114957941",
+    "114957942",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "114957943",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "114957944",
+    "70753880",
+    "70753885",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ]
+  },
+  {
+   "date": "2018-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73163704:por",
+     "title": "Portaria n.º 4/2016",
+     "published": "2016-01-18",
+     "dre_path": "/dr/detalhe/portaria/4-2016-73163704"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "114957945",
+    "70731051",
+    "70731052",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "70731059",
+    "70731060",
+    "70731061",
+    "70731062",
+    "70753909",
+    "70731064",
+    "70731065",
+    "114957941",
+    "114957942",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "114957946",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "114957944",
+    "70753880",
+    "70753885",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:114952497:por",
+     "title": "Portaria n.º 91/2018",
+     "published": "2018-04-02",
+     "dre_path": "/dr/detalhe/portaria/91-2018-114952497",
+     "date": "2018-04-07"
+    }
+   ]
+  },
+  {
+   "date": "2018-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115360040:por",
+     "title": "Portaria n.º 144/2018",
+     "published": "2018-05-21",
+     "dre_path": "/dr/detalhe/portaria/144-2018-115360040"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "114957945",
+    "70731051",
+    "70731052",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "70731059",
+    "70731060",
+    "115348659",
+    "70731062",
+    "70753909",
+    "70731064",
+    "70731065",
+    "115348660",
+    "114957942",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "114957946",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "114957944",
+    "70753880",
+    "70753885",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:115360040:por",
+     "title": "Portaria n.º 144/2018",
+     "published": "2018-05-21",
+     "dre_path": "/dr/detalhe/portaria/144-2018-115360040",
+     "date": "2018-06-01"
+    }
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152015943:por",
+     "title": "Portaria n.º 298/2020",
+     "published": "2020-12-23",
+     "dre_path": "/dr/detalhe/portaria/298-2020-152015943"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "114957945",
+    "70731051",
+    "70731052",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "70731059",
+    "70731060",
+    "115348659",
+    "70731062",
+    "70753909",
+    "70731064",
+    "70731065",
+    "115348660",
+    "114957942",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "152035321",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "114957944",
+    "70753880",
+    "70753885",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176907500:por",
+     "title": "Portaria n.º 331/2021",
+     "published": "2021-12-31",
+     "dre_path": "/dr/detalhe/portaria/331-2021-176907500"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "70731046",
+    "70731047",
+    "70731048",
+    "70731049",
+    "114957945",
+    "70731051",
+    "177078438",
+    "70731053",
+    "70731054",
+    "70731055",
+    "70731056",
+    "70731057",
+    "70731058",
+    "177078439",
+    "70731060",
+    "115348659",
+    "70731062",
+    "70753909",
+    "70731064",
+    "70731065",
+    "115348660",
+    "114957942",
+    "70731068",
+    "70731069",
+    "70731070",
+    "70731071",
+    "70731072",
+    "152035321",
+    "70731074",
+    "70753875",
+    "70753876",
+    "70753877",
+    "70753878",
+    "114957944",
+    "70753880",
+    "70753885",
+    "70753881",
+    "70753882",
+    "70753883",
+    "70753884"
+   ]
+  }
+ ],
+ "fragments": {
+  "70731046": {
+   "fragment_id": "70748635",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 25/2015\n\nde 9 de fevereiro\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, à área relativa ao «Ambiente, eficiência no uso dos recursos e clima» corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio da melhoria da gestão dos recursos naturais e da proteção do solo, água, ar, biodiversidade e paisagem.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "70731047": {
+   "fragment_id": "70748636",
+   "type": 1,
+   "heading": "Capítulo I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições Gerais"
+  },
+  "70731048": {
+   "fragment_id": "70748637",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação da ação n.º 7.1, «Agricultura biológica», e da ação n.º 7.2, «Produção integrada», ambas da medida n.º 7, «Agricultura e recursos naturais», integrada na área n.º 3, «Ambiente, eficiência no uso dos recursos e clima», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "70731049": {
+   "fragment_id": "70748638",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria prosseguem os seguintes objetivos:\n\na) Restaurar, preservar e reforçar a biodiversidade das zonas sujeitas a condicionantes naturais ou outras condicionantes específicas e nas zonas agrícolas de elevado valor natural, bem como das paisagens europeias;\n\nb) Melhorar a gestão da água, dos fertilizantes e dos produtos fitofarmacêuticos;\n\nc) Prevenir a erosão dos solos."
+  },
+  "70731050": {
+   "fragment_id": "70748639",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Aconselhamento agrícola», a consultadoria agrícola efetuada por entidade reconhecida para o efeito no âmbito do sistema de aconselhamento agrícola previsto na Portaria n.º 353/2008, de 8 de maio;\n\nb) «Agricultor ativo», a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola e que receba um montante de pagamentos diretos não superior a 5.000 (euro) ou que, recebendo mais de 5.000 (euro), não exerça as atividades previstas no n.º 2 do artigo 9.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) «Animais em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;\n\nd) «Assistência técnica», o apoio efetuado por técnico com formação específica regulamentada para o exercício da atividade de apoio técnico em produção integrada ou agricultura biológica, de acordo com o Decreto-Lei n.º 37/2013, de 13 de março, mediante contrato de prestação de serviços celebrado com associação de agricultores ou cooperativas;\n\ne) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nf) «Culturas permanentes», as culturas não rotativas, com exclusão dos prados e pastagens permanentes, que ocupam as terras por cinco ou mais anos e dão origem a várias colheitas;\n\ng) «Culturas temporárias de outono-inverno», as culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de outono-inverno;\n\nh) «Culturas temporárias de primavera-verão», culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de primavera-verão;\n\ni) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;\n\nj) «Índice de qualificação fisiográfica da parcela (IQFP)», o indicador que traduz a relação entre morfologia da parcela de referência e o seu risco de erosão e consta da identificação da exploração (IE) do Sistema de Identificação Parcelar (iSIP);\n\nk) «Mobilização mínima do solo», o sistema de mobilização de conservação do solo que, embora intervindo em toda a superfície do terreno, mantém uma quantidade apreciável de resíduos da cultura anterior à superfície do solo, baseando-se na utilização de alfaias de mobilização vertical, encontrando-se interdito o uso de alfaias que promovam o reviramento do solo ou levantamento do torrão;\n\nl) «Mobilização da linha», a técnica de instalação de cultura por sementeira em que a mobilização do solo se realiza exclusivamente na linha de sementeira, com recurso a alfaias de mobilização vertical, imediatamente antes ou em simultâneo com o processo de sementeira;\n\nm) «Organismo de controlo e certificação», a entidade reconhecida pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto;\n\nn) «Organismo de controlo e certificação acreditado», a entidade reconhecida pela DGADR para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto, e acreditado pelo Instituto Português de Acreditação (IPAC) segundo a NP EN ISO/IEC 17065:2014;\n\no) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, classificada em função da categoria de ocupação de solo;\n\np) «Período de retenção», o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de fevereiro e 31 de julho, para os bovinos, e 1 de fevereiro e 31 de maio, para ovinos e caprinos;\n\nq) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;\n\nr) «Produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado de Funcionamento da União Europeia, com exceção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013;\n\ns) «Subparcela», a porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela ou coincidentes com a mesma, tal como definido no iSIP;\n\nt) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e pastagens permanentes ou culturas permanentes;\n\nu) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;\n\nv) «Superfície forrageira elegível», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes, excluindo os prados e pastagens permanentes com predominância de vegetação arbustiva, e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;\n\nw) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou as disponíveis para produção vegetal, ainda que se encontrem em pousio."
+  },
+  "70731051": {
+   "fragment_id": "70748640",
+   "type": 11,
+   "heading": "Artigo 4.º — Tabela de conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tabela de conversão\n\nPara efeitos de aplicação do disposto na presente portaria, a tabela de conversão das espécies animais em cabeças normais (CN) consta do anexo I à presente portaria da qual faz parte integrante."
+  },
+  "70731052": {
+   "fragment_id": "70748641",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração dos compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração dos compromissos\n\n1 - As ações objeto da presente portaria destinam-se a apoiar os beneficiários que, de forma voluntária, se comprometam a respeitar compromissos de natureza agroambiental durante um período de cinco anos.\n\n2 - O período referido no número anterior pode ser prorrogado, até um máximo de dois anos, mediante requerimento do beneficiário e decisão da autoridade de gestão.\n\n3 - Sem prejuízo do disposto nos números anteriores, o compromisso de «conversão para agricultura biológica» tem a duração máxima de três anos, seguida de um período em «agricultura biológica» até ao termo do compromisso.\n\n4 - Os compromissos produzem efeitos a partir de 1 de janeiro do ano da candidatura e prolongam-se até 31 de dezembro de cada ano."
+  },
+  "70731053": {
+   "fragment_id": "70748642",
+   "type": 11,
+   "heading": "Artigo 6.º — Condicionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condicionalidade\n\nOs beneficiários devem cumprir na exploração agrícola os requisitos legais de gestão e as boas condições agrícolas e ambientais, em conformidade com os artigos 93.º e 94.º e o anexo II do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e com a correspondente legislação nacional."
+  },
+  "70731054": {
+   "fragment_id": "70748643",
+   "type": 11,
+   "heading": "Artigo 7.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos no capítulo II os agricultores ativos nos termos da alínea b) do artigo 3.º da presente portaria.\n\n2 - Podem beneficiar dos apoios previstos no capítulo III as pessoas singulares ou coletivas, de natureza pública ou privada, que exerçam atividade agrícola."
+  },
+  "70731055": {
+   "fragment_id": "70748644",
+   "type": 11,
+   "heading": "Artigo 8.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cumulação de apoios\n\n1 - Os apoios a conceder previstos na presente portaria, quando respeitem à mesma subparcela agrícola, não são cumuláveis.\n\n2 - Os apoios a conceder no âmbito da ação n.º 7.1, «Agricultura biológica», e da ação n.º 7.2, «Produção integrada», ainda que respeitem à mesma subparcela agrícola, são cumuláveis com qualquer outra ação no âmbito da medida n.º 7, «Agricultura e recursos naturais»."
+  },
+  "70731056": {
+   "fragment_id": "70748645",
+   "type": 1,
+   "heading": "Capítulo II — Ação n.º 7.1 «Agricultura biológica»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ação n.º 7.1 «Agricultura biológica»"
+  },
+  "70731057": {
+   "fragment_id": "70748646",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de elegibilidade\n\nPodem beneficiar do apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as pessoas referidas no n.º 1 do artigo 7.º que reúnam as seguintes condições:\n\na) Tenham submetido a notificação relativa à agricultura biológica junto da entidade competente;\n\nb) Candidatem uma superfície agrícola mínima elegível de 0,5 hectares, com exceção de culturas específicas, nomeadamente aromáticas, condimentares e medicinais, cuja área mínima elegível é de 0,3 hectares;\n\nc) Submetam a subparcela ou subparcelas agrícolas candidatas ao sistema de controlo por um organismo de controlo e certificação reconhecido e acreditado."
+  },
+  "70731058": {
+   "fragment_id": "70748647",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de seleção de candidaturas\n\n1 - Para efeitos de seleção ao apoio previsto no presente capítulo são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a beneficiários com maior proporção de superfície agrícola submetida à agricultura biológica, relativamente à superfície agrícola total da exploração;\n\nb) Candidaturas respeitantes a explorações que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação (PANCD);\n\nc) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento agrícola;\n\nd) Candidaturas respeitantes a beneficiários em primeira instalação como jovem agricultor;\n\ne) Candidaturas respeitantes a beneficiários que pertençam a agrupamento ou organização de produtores reconhecidos para o sector ou produto submetido a compromisso.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como a respetiva ponderação e critério de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, aquando da abertura de candidaturas ao Pedido Único (PU)."
+  },
+  "70731059": {
+   "fragment_id": "70748648",
+   "type": 11,
+   "heading": "Artigo 11.º — Compromissos dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Compromissos dos beneficiários\n\n1 - Para além do disposto no artigo 6.º, os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:\n\na) Manter os critérios de elegibilidade;\n\nb) Manter a subparcela ou subparcelas agrícolas sob compromisso em «agricultura biológica», de acordo com os princípios e regras estabelecidos no Regulamento (CE) n.º 834/2007, do Conselho, de 28 de junho de 2007, relativo à produção biológica e à rotulagem dos produtos biológicos e o Regulamento (CE) n.º 889/2008, da Comissão, de 5 de setembro de 2008;\n\nc) Manter atualizado um registo das atividades efetuadas nas subparcelas e espécies pecuárias abrangidas pela agricultura biológica, de acordo com o conteúdo normalizado, nomeadamente as relativas à utilização de produtos fitofarmacêuticos e fertilizantes;\n\nd) Conservar os comprovativos da aquisição dos produtos fitofarmacêuticos e fertilizantes, bem como os boletins de análise de terra, água e material vegetal, anexando-os ao registo das atividades.\n\n2 - Os beneficiários do apoio previsto no presente capítulo devem ainda manter, em cada ano do compromisso, durante o período de retenção para cada espécie, a exploração com um nível de encabeçamento de bovinos, ovinos e caprinos, em pastoreio, do próprio ou de outrem, expressos em CN por hectare (ha), igual ou inferior a:\n\na) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;\n\nb) 2 CN/ha de superfície agrícola, no caso de explorações em zona de montanha e com dimensão superior a 2 ha de superfície agrícola;\n\nc) 2 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas e com dimensão superior a 2 ha de superfície agrícola.\n\n3 - Os beneficiários do apoio previsto no presente capítulo, no caso de culturas permanentes, devem ainda manter, durante todo o período de compromisso, as seguintes densidades mínimas por subparcela:\n\na) Pomóideas, citrinos e prunóideas, exceto cerejeira - 200 árvores por ha;\n\nb) Pequenos frutos, exceto sabugueiro - 1.000 plantas por ha;\n\nc) Actinídeas - 400 plantas por ha;\n\nd) Outros frutos frescos, sabugueiro e cerejeira - 80 árvores por hectare;\n\ne) Frutos secos e olival - 60 árvores por hectare;\n\nf) Vinha - 2.000 cepas por ha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1.000 cepas por hectare.\n\n4 - Os beneficiários do apoio previsto no presente capítulo devem ainda concluir, no prazo de um ano após o início do compromisso «conversão para a agricultura biológica», ação de formação específica homologada pelo Ministério da Agricultura e do Mar nos termos da Portaria n.º 354/2013, de 9 de dezembro, salvo se já tiverem concluído a mesma em data anterior à da apresentação da candidatura."
+  },
+  "70731060": {
+   "fragment_id": "70748649",
+   "type": 1,
+   "heading": "Capítulo III — Ação n.º 7.2 «Produção integrada»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Ação n.º 7.2 «Produção integrada»"
+  },
+  "70731061": {
+   "fragment_id": "70748650",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de elegibilidade dos beneficiários\n\nPodem beneficiar do apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as pessoas referidas no n.º 2 do artigo 7.º que reúnam as seguintes condições:\n\na) Candidatem uma superfície agrícola mínima elegível de 0,5 hectares à produção integrada;\n\nb) Submetam a subparcela ou subparcelas agrícolas candidatas ao sistema de controlo por um organismo de controlo e certificação reconhecido;\n\nc) Detenham, quando se trate de culturas permanentes regadas, resultados de análises de terras obtidas, no máximo, até ao limite de três anos anteriores à data de apresentação da candidatura e que incluam o teor de matéria orgânica."
+  },
+  "70731062": {
+   "fragment_id": "70748651",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de seleção de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Critérios de seleção de candidaturas\n\n1 - Para efeitos de seleção ao apoio previsto no presente capítulo são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a beneficiários com maior proporção de superfície agrícola submetida à produção integrada, relativamente à superfície agrícola total da exploração;\n\nb) Candidaturas respeitantes a explorações que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação (PANCD);\n\nc) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento agrícola;\n\nd) Candidaturas respeitantes a beneficiários em primeira instalação como jovem agricultor;\n\ne) Candidaturas respeitantes a beneficiários que pertençam a agrupamento ou organização de produtores reconhecidos para o sector ou produto submetido a compromisso.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como a respetiva ponderação e critério de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, aquando da abertura de candidaturas ao Pedido Único (PU)."
+  },
+  "70731063": {
+   "fragment_id": "70748652",
+   "type": 11,
+   "heading": "Artigo 14.º — Compromissos dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Compromissos dos beneficiários\n\n1 - Para além do disposto no artigo 6.º, os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:\n\na) Manter os critérios de elegibilidade;\n\nb) Manter a subparcela ou subparcelas agrícolas sob compromisso em «produção integrada», de acordo com a Portaria n.º 65/97, de 28 de janeiro, e o Decreto-Lei n.º 256/2009, de 24 de setembro;\n\nc) Manter atualizado um registo das atividades efetuadas nas subparcelas e espécies pecuárias abrangidas pela «produção integrada», de acordo com o conteúdo normalizado, nomeadamente as relativas à utilização de produtos fitofarmacêuticos e fertilizantes;\n\nd) Conservar os comprovativos da aquisição dos produtos fitofarmacêuticos e fertilizantes, bem como os boletins de análise de terra, água e material vegetal, anexando-os ao registo das atividades, quando aplicável.\n\n2 - Os beneficiários do apoio previsto no presente capítulo devem ainda manter, em cada ano do compromisso, durante o período de retenção para cada espécie, a exploração com um nível de encabeçamento de bovinos, ovinos e caprinos, em pastoreio, do próprio ou de outrem, expressos em CN por hectare (ha), igual ou inferior a:\n\na) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;\n\nb) 2 CN/ha de superfície agrícola, no caso de explorações em zona de montanha com dimensão superior a 2 ha de superfície agrícola;\n\nc) 2 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas e com dimensão superior a 2 ha de superfície agrícola.\n\n3 - Os beneficiários do apoio previsto no presente capítulo, no caso de culturas permanentes, devem ainda manter, durante todo o período de compromisso, as seguintes densidades mínimas por subparcela:\n\na) Pomóideas, citrinos e prunóideas, exceto cerejeira - 200 árvores por ha;\n\nb) Pequenos frutos, exceto sabugueiro - 1.000 plantas por ha;\n\nc) Actinídeas - 400 plantas por ha;\n\nd) Outros frutos frescos, sabugueiro e cerejeira - 80 árvores por ha;\n\ne) Frutos secos e olival - 60 árvores por ha;\n\nf) Vinha - 2.000 cepas por ha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1.000 cepas por hectare.\n\n4 - Os beneficiários do apoio previsto no presente capítulo devem ainda cumprir, no caso de culturas permanentes regadas, as seguintes condições:\n\na) Realizar análise de terras, que inclua teor de matéria orgânica, no decurso do quarto ano do compromisso;\n\nb) Manter o revestimento vegetal natural ou semeado das entrelinhas;\n\nc) Utilizar na sementeira somente técnicas de mobilização mínima do solo na entrelinha;\n\nd) Controlar o desenvolvimento vegetativo da entrelinha através de cortes, sem enterramento e sem utilização de herbicidas.\n\n5 - Os beneficiários do apoio previsto no presente capítulo devem ainda concluir, no prazo de um ano após o início do compromisso «produção integrada», ação de formação específica homologada pelo Ministério da Agricultura e do Mar nos termos da Portaria n.º 354/2013, de 9 de dezembro, salvo se já tiverem concluído a mesma em data anterior à apresentação de candidatura.\n\n6 - Nas subparcelas inseridas em parcelas de referência com IQFP superior a dois, as eventuais mobilizações para efeitos de instalação de culturas permanentes devem ser realizadas segundo as curvas de nível."
+  },
+  "70731064": {
+   "fragment_id": "70748653",
+   "type": 1,
+   "heading": "Capítulo IV — Forma, montantes e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Forma, montantes e limites dos apoios"
+  },
+  "70731065": {
+   "fragment_id": "70748654",
+   "type": 11,
+   "heading": "Artigo 15.º — Forma dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Forma dos apoios\n\nOs apoios previstos na presente portaria assumem a forma de subvenção anual não reembolsável."
+  },
+  "70731066": {
+   "fragment_id": "70748655",
+   "type": 11,
+   "heading": "Artigo 16.º — Montantes e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Montantes e limites dos apoios\n\n1 - Os montantes e limites a conceder à «conversão para a agricultura biológica» são os estabelecidos no anexo II à presente portaria da qual faz parte integrante.\n\n2 - Os montantes e limites a conceder à «agricultura biológica» são os estabelecidos no anexo III à presente portaria da qual faz parte integrante.\n\n3 - Os montantes e limites a conceder à «produção integrada» são os estabelecidos no anexo IV à presente portaria da qual faz parte integrante.\n\n4 - A superfície forrageira elegível é contabilizada, desde que se verifique, em todos os dias do período de retenção para cada espécie, um encabeçamento mínimo de 0,2 CN/ha de superfície forrageira, considerando o efetivo pecuário de bovinos, ovinos e caprinos, em pastoreio, do próprio.\n\n5 - Se o beneficiário não puder cumprir o nível de encabeçamento previsto no número anterior devido aos casos de força maior referidos nas alíneas g), h) e i) do n.º 2 do artigo 22.º, mantém o direito à totalidade do pagamento das superfícies forrageiras.\n\n6 - O cálculo do montante total de cada apoio faz-se pela aplicação sucessiva dos respetivos escalões de área."
+  },
+  "70731067": {
+   "fragment_id": "70748656",
+   "type": 11,
+   "heading": "Artigo 17.º — Majorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Majorações\n\n1 - O montante total do apoio é majorado, anualmente, em 15 %, quando o beneficiário recorra à assistência técnica, não podendo o valor da majoração ser inferior a 250 (euro) nem superior a 1750 (euro).\n\n2 - O montante total do apoio, em cada grupo de culturas, é majorado, anualmente, em 5 %, quando o beneficiário é associado de um agrupamento ou organização de produtores reconhecido para o respetivo produto objeto de apoio.\n\n3 - O montante do apoio, no grupo de culturas que inclua cereais, é majorado, anualmente, em 10 %, quando o beneficiário é associado de um agrupamento ou organização de produtores reconhecido para o respetivo produto objeto de apoio.\n\n4 - Para efeito de aplicação das majorações previstas nos números anteriores, o agrupamento ou a organização de produtores deve encontrar-se reconhecida à data do termo do período de candidatura aos apoios previstos na presente portaria.\n\n5 - A aplicação das majorações previstas nos números anteriores não pode ultrapassar 900 euros por ha, no caso das culturas permanentes, 600 euros por ha, no caso das culturas temporárias, arroz e horticultura, e de 450 euros por ha, no caso da pastagem permanente."
+  },
+  "70731068": {
+   "fragment_id": "70748657",
+   "type": 1,
+   "heading": "Capítulo V — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Procedimento"
+  },
+  "70731069": {
+   "fragment_id": "70748658",
+   "type": 11,
+   "heading": "Artigo 18.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apresentação das candidaturas\n\n1 - As candidaturas aos apoios previstos na presente portaria são submetidas eletronicamente através do formulário relativo ao PU, disponível no portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt, ou no portal do Portugal 2020, em www.portugal2020.pt.\n\n2 - O Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a efetuar pelo IFAP, I. P., aprovado pela Portaria n.º 86/2011, de 25 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto nos artigos 67.º e seguintes do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, é aplicável às candidaturas apresentadas no âmbito da presente portaria."
+  },
+  "70731070": {
+   "fragment_id": "70748659",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Análise e decisão das candidaturas\n\n1 - As candidaturas são analisadas pelo IFAP, I. P., de acordo com os critérios de elegibilidade previstos na presente portaria.\n\n2 - As candidaturas são aprovadas pela autoridade de gestão de acordo com os critérios de seleção previstos na presente portaria e com a dotação orçamental deste regime de apoios.\n\n3 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários na área reservada do respetivo portal, em www.ifap.pt.\n\n4 - O termo de aceitação é autenticado com a submissão da candidatura."
+  },
+  "70731071": {
+   "fragment_id": "70748660",
+   "type": 11,
+   "heading": "Artigo 20.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pagamento\n\n1 - Os pedidos de pagamento são submetidos em simultâneo com a candidatura ao PU do ano a que respeita o pagamento, competindo ao IFAP, I. P., proceder ao pagamento anual do apoio.\n\n2 - O pagamento é efetuado após conclusão dos controlos administrativos e in loco, podendo ser pago uma parte do apoio após a conclusão dos controlos administrativos nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, bem como do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014.\n\n3 - A não apresentação de pedido de pagamento referido no n.º 1 determina o não pagamento do apoio no ano em causa, sem prejuízo da obrigatoriedade de manutenção dos critérios de elegibilidade e dos compromissos assumidos."
+  },
+  "70731072": {
+   "fragment_id": "70748661",
+   "type": 1,
+   "heading": "Capítulo VI — Alteração, extinção, transmissão, redução e exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Alteração, extinção, transmissão, redução e exclusão"
+  },
+  "70731073": {
+   "fragment_id": "70748662",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração da candidatura\n\n1 - Os beneficiários podem, aquando da apresentação do pedido de pagamento anual, até ao terceiro ano do compromisso, proceder ao aumento da área objeto de apoio, desde que o aumento não ultrapasse 25 % da área candidata, até ao limite máximo de 50 ha e sem alteração do período de compromisso.\n\n2 - Para aumentos de área superiores aos limites referidos no número anterior, o beneficiário deve apresentar nova candidatura relativa à totalidade da área candidata, iniciando-se, caso venha a ser admitido, um novo período de compromisso de cinco anos, que determina a extinção automática dos compromissos anteriores.\n\n3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem que haja lugar à devolução dos apoios já recebidos, nos seguintes casos:\n\na) Sujeição de parte da exploração a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, ou a expropriação;\n\nb) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração;\n\nc) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário;\n\nd) Destruição de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição."
+  },
+  "70731074": {
+   "fragment_id": "70748663",
+   "type": 11,
+   "heading": "Artigo 22.º — Extinção dos compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Extinção dos compromissos\n\n1 - Os compromissos assumidos extinguem-se, sem devolução dos apoios, nos casos de sujeição da exploração agrícola a emparcelamento integral ou intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, desde que não seja possível a alteração da candidatura nos termos do n.º 3 do artigo anterior.\n\n2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, nomeadamente nas seguintes situações de força maior:\n\na) Morte do beneficiário;\n\nb) Incapacidade profissional do beneficiário superior a três meses;\n\nc) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário, cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;\n\nd) Expropriação de toda ou uma parte significativa da exploração, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\ne) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da exploração agrícola;\n\nf) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário;\n\ng) Destruição de instalações pecuárias não imputável ao beneficiário;\n\nh) Epizootia que afete parte ou a totalidade dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;\n\ni) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.\n\n3 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 15 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.\n\n4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos referidos nos n.os 1 e 2, mantém o direito à totalidade do pagamento do ano em que o facto ocorreu, desde que tenha sido apresentado o respetivo pedido de pagamento.\n\n5 - No caso de alteração das normas ou regras obrigatórias, nos termos do artigo 48.º do Regulamento (UE) n.º 1305/2013, do Parlamento e do Conselho, de 17 de dezembro de 2013, o beneficiário pode não aceitar a correspondente adaptação dos compromissos assumidos, cessando estes sem ser exigida devolução relativamente ao período em que os compromissos tenham sido cumpridos."
+  },
+  "70753875": {
+   "fragment_id": "70748664",
+   "type": 11,
+   "heading": "Artigo 23.º — Transmissão de áreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transmissão de áreas\n\n1 - Sem prejuízo do disposto nos n.os 4 e 5, o beneficiário pode transmitir a totalidade ou parte da área objeto de apoio durante o período de compromisso, sem que haja lugar à devolução dos apoios.\n\n2 - No caso previsto no número anterior, o novo titular pode, caso assim o entenda, assumir os compromissos respetivos pelo período remanescente, desde que se encontrem reunidos os critérios de elegibilidade.\n\n3 - A transmissão de parte da área sujeita a compromisso obriga à correspondente alteração da candidatura, aquando da apresentação do pedido de pagamento anual, nos termos do disposto no n.º 1 do artigo 21.º.\n\n4 - Caso um beneficiário transmita a sua titularidade está impedido, nesse mesmo ano, de aceitar a titularidade de outrem, para o mesmo compromisso.\n\n5 - No período de prolongamento, não são permitidas transferências de titularidade nem aumento de áreas objeto de apoio."
+  },
+  "70753876": {
+   "fragment_id": "70748665",
+   "type": 11,
+   "heading": "Artigo 24.º — Reduções ou exclusões do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reduções ou exclusões do apoio\n\n1 - Sem prejuízo do disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, são aplicáveis as reduções e as exclusões previstas nos números seguintes.\n\n2 - É determinada a devolução total do apoio e a correspondente extinção do compromisso, nos seguintes casos:\n\na) Incumprimento de qualquer critério de elegibilidade;\n\nb) Não apresentação de pedido de pagamento em dois anos consecutivos.\n\n3 - A perda da qualidade de associado de agrupamento ou de organização de produtores determina a devolução da majoração prevista no artigo 17.º.\n\n4 - O incumprimento dos requisitos relativos à condicionalidade previstos no artigo 6.º, determina a redução do montante do apoio nos termos da legislação comunitária e nacional aplicável.\n\n5 - O incumprimento dos compromissos dos beneficiários e respetivas reduções ou exclusões dos apoios são objeto de diploma próprio, a aprovar no prazo de 45 dias a contar da data de publicação da presente portaria."
+  },
+  "70753877": {
+   "fragment_id": "70748666",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "70753878": {
+   "fragment_id": "70748667",
+   "type": 11,
+   "heading": "Artigo 25.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Transição\n\n1 - O disposto na presente portaria é aplicável aos compromissos assumidos em 2011, ao abrigo do regulamento anexo à Portaria n.º 229-B/2008, de 6 de março, na redação dada pela Portaria n.º 19/2014, de 29 de janeiro, até ao termo da duração dos mesmos, desde que a superfície agrícola objeto de apoio não sofra uma redução superior a 10 % e que seja apresentado o respetivo pedido de pagamento no PU de 2015.\n\n2 - A falta de apresentação do pedido de pagamento referido no número anterior, no PU de 2015, determina a cessação dos compromissos previstos no n.º 1, sem devolução dos apoios recebidos."
+  },
+  "70753879": {
+   "fragment_id": "70748668",
+   "type": 11,
+   "heading": "Artigo 26.º — Notificação relativa à agricultura biológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Notificação relativa à agricultura biológica\n\nEm derrogação do disposto no n.º 4 do artigo 5.º, excecionalmente, no ano de 2015, o compromisso previsto na alínea a) do artigo 11.º, no que respeita à condição de elegibilidade referida na alínea a) do artigo 9.º, produz efeitos à data do início do período de candidaturas ao PU de 2015."
+  },
+  "70753880": {
+   "fragment_id": "70748669",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70753881": {
+   "fragment_id": "70748670",
+   "type": 14,
+   "heading": "Anexo I — Tabela de conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela de conversão\n\n(a que se refere o artigo 4.º)\n\n(ver documento original)"
+  },
+  "70753882": {
+   "fragment_id": "70748671",
+   "type": 14,
+   "heading": "Anexo II — Montantes e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Montantes e limites do apoio\n\n(a que se refere o n.º 1 do artigo 16.º)\n\nConversão para agricultura biológica\n\n(ver documento original)"
+  },
+  "70753883": {
+   "fragment_id": "70748672",
+   "type": 14,
+   "heading": "Anexo III — Montantes e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Montantes e limites do apoio\n\n(a que se refere o n.º 2 do artigo 16.º)\n\nManutenção da Agricultura biológica\n\n(ver documento original)"
+  },
+  "70753884": {
+   "fragment_id": "70748673",
+   "type": 14,
+   "heading": "Anexo IV — Montantes e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Montantes e limites do apoio\n\n(a que se refere o n.º 3 do artigo 16.º)\n\nProdução integrada\n\n(ver documento original)"
+  },
+  "70753908": {
+   "fragment_id": "70748639",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Aconselhamento agrícola», a consultadoria agrícola efetuada por entidade reconhecida para o efeito no âmbito do sistema de aconselhamento agrícola previsto na Portaria n.º 353/2008, de 8 de maio;\n\nb) «Agricultor ativo», a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola e que receba um montante de pagamentos diretos não superior a 5.000 (euro) ou que, recebendo mais de 5.000 (euro), não exerça as atividades previstas no n.º 2 do artigo 9.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) «Animais em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;\n\nd) 'Assistência técnica', o apoio efetuado por técnico com formação específica regulamentada para o exercício da atividade de apoio técnico em produção integrada ou agricultura biológica, de acordo com o Decreto-Lei n.º 37/2013, de 13 de março, mediante contrato de prestação de serviços celebrado com associações de agricultores, organizações de produtores ou cooperativas;\n\ne) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nf) «Culturas permanentes», as culturas não rotativas, com exclusão dos prados e pastagens permanentes, que ocupam as terras por cinco ou mais anos e dão origem a várias colheitas;\n\ng) «Culturas temporárias de outono-inverno», as culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de outono-inverno;\n\nh) «Culturas temporárias de primavera-verão», culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de primavera-verão;\n\ni) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;\n\nj) «Índice de qualificação fisiográfica da parcela (IQFP)», o indicador que traduz a relação entre morfologia da parcela de referência e o seu risco de erosão e consta da identificação da exploração (IE) do Sistema de Identificação Parcelar (iSIP);\n\nk) «Mobilização mínima do solo», o sistema de mobilização de conservação do solo que, embora intervindo em toda a superfície do terreno, mantém uma quantidade apreciável de resíduos da cultura anterior à superfície do solo, baseando-se na utilização de alfaias de mobilização vertical, encontrando-se interdito o uso de alfaias que promovam o reviramento do solo ou levantamento do torrão;\n\nl) «Mobilização da linha», a técnica de instalação de cultura por sementeira em que a mobilização do solo se realiza exclusivamente na linha de sementeira, com recurso a alfaias de mobilização vertical, imediatamente antes ou em simultâneo com o processo de sementeira;\n\nm) «Organismo de controlo e certificação», a entidade reconhecida pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto;\n\nn) «Organismo de controlo e certificação acreditado», a entidade reconhecida pela DGADR para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto, e acreditado pelo Instituto Português de Acreditação (IPAC) segundo a NP EN ISO/IEC 17065:2014;\n\no) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, classificada em função da categoria de ocupação de solo;\n\np) «Período de retenção», o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de fevereiro e 31 de julho, para os bovinos, e 1 de fevereiro e 31 de maio, para ovinos e caprinos;\n\nq) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;\n\nr) «Produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado de Funcionamento da União Europeia, com exceção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013;\n\ns) «Subparcela», a porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela ou coincidentes com a mesma, tal como definido no iSIP;\n\nt) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e pastagens permanentes ou culturas permanentes;\n\nu) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;\n\nv) 'Superfície forrageira elegível', as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes sem predominância de vegetação arbustiva, superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio e, no caso da Agricultura Biológica, os prados e pastagens permanentes prática local;\n\nw) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou as disponíveis para produção vegetal, ainda que se encontrem em pousio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+  },
+  "70753909": {
+   "fragment_id": "70748652",
+   "type": 11,
+   "heading": "Artigo 14.º — Compromissos dos beneficiários",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+   ],
+   "markdown": "###### Artigo 14.º — Compromissos dos beneficiários\n\n1 - Para além do disposto no artigo 6.º, os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:\n\na) Manter os critérios de elegibilidade;\n\nb) Manter a subparcela ou subparcelas agrícolas sob compromisso em «produção integrada», de acordo com a Portaria n.º 65/97, de 28 de janeiro, e o Decreto-Lei n.º 256/2009, de 24 de setembro;\n\nc) Manter atualizado um registo das atividades efetuadas nas subparcelas e espécies pecuárias abrangidas pela «produção integrada», de acordo com o conteúdo normalizado, nomeadamente as relativas à utilização de produtos fitofarmacêuticos e fertilizantes;\n\nd) Conservar os comprovativos da aquisição dos produtos fitofarmacêuticos e fertilizantes, bem como os boletins de análise de terra, água e material vegetal, anexando-os ao registo das atividades, quando aplicável.\n\n2 - Os beneficiários do apoio previsto no presente capítulo devem ainda manter, em cada ano do compromisso, durante o período de retenção para cada espécie, a exploração com um nível de encabeçamento de bovinos, ovinos e caprinos, em pastoreio, do próprio ou de outrem, expressos em CN por hectare (ha), igual ou inferior a:\n\na) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;\n\nb) 2 CN/ha de superfície agrícola, no caso de explorações em zona de montanha com dimensão superior a 2 ha de superfície agrícola;\n\nc) 2 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas e com dimensão superior a 2 ha de superfície agrícola.\n\n3 - Os beneficiários do apoio previsto no presente capítulo, no caso de culturas permanentes, devem ainda manter, durante todo o período de compromisso, as seguintes densidades mínimas por subparcela:\n\na) Pomóideas, citrinos e prunóideas, exceto cerejeira - 200 árvores por ha;\n\nb) Pequenos frutos, exceto sabugueiro - 1.000 plantas por ha;\n\nc) Actinídeas - 400 plantas por ha;\n\nd) Outros frutos frescos, sabugueiro e cerejeira - 80 árvores por ha;\n\ne) Frutos secos e olival - 60 árvores por ha;\n\nf) Vinha - 2.000 cepas por ha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1.000 cepas por hectare.\n\n4 - Os beneficiários do apoio previsto no presente capítulo devem ainda cumprir, no caso de culturas permanentes regadas, com exceção da vinha, as seguintes condições:\n\na) Realizar análise de terras, que inclua teor de matéria orgânica, no decurso do quarto ano do compromisso;\n\nb) Manter o revestimento vegetal natural ou semeado das entrelinhas;\n\nc) Utilizar na sementeira somente técnicas de mobilização mínima do solo na entrelinha;\n\nd) Controlar o desenvolvimento vegetativo da entrelinha através de cortes, sem enterramento e sem utilização de herbicidas.\n\n5 - Os beneficiários do apoio previsto no presente capítulo devem ainda concluir, no prazo de um ano após o início do compromisso «produção integrada», ação de formação específica homologada pelo Ministério da Agricultura e do Mar nos termos da Portaria n.º 354/2013, de 9 de dezembro, salvo se já tiverem concluído a mesma em data anterior à apresentação de candidatura.\n\n6 - Nas subparcelas inseridas em parcelas de referência com IQFP superior a dois, as eventuais mobilizações para efeitos de instalação de culturas permanentes devem ser realizadas segundo as curvas de nível.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+  },
+  "70753910": {
+   "fragment_id": "70748668",
+   "type": 11,
+   "heading": "Artigo 26.º — Agricultura biológica e produção integrada",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+   ],
+   "markdown": "###### Artigo 26.º — Agricultura biológica e produção integrada\n\n1- Em derrogação do disposto no n.º 4 do artigo 5.º, excecionalmente, no ano de 2015, o compromisso previsto na alínea a) do artigo 11.º, no que respeita à condição de elegibilidade referida na alínea a) do artigo 9.º, produz efeitos à data do início do período de candidaturas ao PU de 2015.\n\n2 - Em derrogação do disposto no n.º 4 do artigo 11.º e no n.º 5 do artigo 14.º, excecionalmente, para os compromissos iniciados em 2015, os beneficiários dispõem de 24 meses, após o início do compromisso agroambiental, para o cumprimento do compromisso previsto no n.º 4 do artigo 11.º e no n.º 5 do artigo 14.º»\n\n2 - Os anexos ii, iii e iv da Portaria n.º 25/2015, de 9 de fevereiro, passam a ter a redação constante do anexo i da presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+  },
+  "70753885": {
+   "fragment_id": "70748674",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 2 de fevereiro de 2015."
+  },
+  "114957940": {
+   "fragment_id": "70748639",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Aconselhamento agrícola», a consultadoria agrícola efetuada por entidade reconhecida para o efeito no âmbito do sistema de aconselhamento agrícola previsto na Portaria n.º 353/2008, de 8 de maio;\n\nb) «Agricultor ativo», a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola e que receba um montante de pagamentos diretos não superior a 5.000 (euro) ou que, recebendo mais de 5.000 (euro), não exerça as atividades previstas no n.º 2 do artigo 9.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) «Animais em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;\n\nd) 'Assistência técnica', o apoio efetuado por técnico com formação específica regulamentada para o exercício da atividade de apoio técnico em produção integrada ou agricultura biológica, de acordo com o Decreto-Lei n.º 37/2013, de 13 de março, mediante contrato de prestação de serviços celebrado com associações de agricultores, organizações de produtores ou cooperativas;\n\ne) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nf) «Culturas permanentes», as culturas não rotativas, com exclusão dos prados e pastagens permanentes, que ocupam as terras por cinco ou mais anos e dão origem a várias colheitas;\n\ng) «Culturas temporárias de outono-inverno», as culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de outono-inverno;\n\nh) «Culturas temporárias de primavera-verão», culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de primavera-verão;\n\ni) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;\n\nj) «Índice de qualificação fisiográfica da parcela (IQFP)», o indicador que traduz a relação entre morfologia da parcela de referência e o seu risco de erosão e consta da identificação da exploração (IE) do Sistema de Identificação Parcelar (iSIP);\n\nk) «Mobilização mínima do solo», o sistema de mobilização de conservação do solo que, embora intervindo em toda a superfície do terreno, mantém uma quantidade apreciável de resíduos da cultura anterior à superfície do solo, baseando-se na utilização de alfaias de mobilização vertical, encontrando-se interdito o uso de alfaias que promovam o reviramento do solo ou levantamento do torrão;\n\nl) «Mobilização da linha», a técnica de instalação de cultura por sementeira em que a mobilização do solo se realiza exclusivamente na linha de sementeira, com recurso a alfaias de mobilização vertical, imediatamente antes ou em simultâneo com o processo de sementeira;\n\nm) «Organismo de controlo e certificação», a entidade reconhecida pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto;\n\nn) «Organismo de controlo e certificação acreditado», a entidade reconhecida pela DGADR para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto, e acreditado pelo Instituto Português de Acreditação (IPAC) segundo a NP EN ISO/IEC 17065:2014;\n\no) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, classificada em função da categoria de ocupação de solo;\n\np) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos.\n\nq) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;\n\nr) «Produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado de Funcionamento da União Europeia, com exceção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013;\n\ns) «Subparcela», a porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela ou coincidentes com a mesma, tal como definido no iSIP;\n\nt) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e pastagens permanentes ou culturas permanentes;\n\nu) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;\n\nv) 'Superfície forrageira elegível', as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes sem predominância de vegetação arbustiva, superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio e, no caso da Agricultura Biológica, os prados e pastagens permanentes prática local;\n\nw) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou as disponíveis para produção vegetal, ainda que se encontrem em pousio.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+  },
+  "114957941": {
+   "fragment_id": "70748655",
+   "type": 11,
+   "heading": "Artigo 16.º — Montantes e limites dos apoios",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Montantes e limites dos apoios\n\n1 - Os montantes e limites a conceder à «conversão para a agricultura biológica» são os estabelecidos no anexo II à presente portaria da qual faz parte integrante.\n\n2 - Os montantes e limites a conceder à «agricultura biológica» são os estabelecidos no anexo III à presente portaria da qual faz parte integrante.\n\n3 - Os montantes e limites a conceder à «produção integrada» são os estabelecidos no anexo IV à presente portaria da qual faz parte integrante.\n\n4 - A superfície forrageira elegível é contabilizada, desde que se verifique, durante o período de retenção para cada espécie, um encabeçamento mínimo de 0,2 CN/ha de superfície forrageira, considerando o efetivo pecuário de bovinos, ovinos e caprinos, em pastoreio, do próprio.\n\n5 - Se o beneficiário não puder cumprir o nível de encabeçamento previsto no número anterior devido aos casos de força maior referidos nas alíneas g), h) e i) do n.º 2 do artigo 22.º, mantém o direito à totalidade do pagamento das superfícies forrageiras.\n\n6 - O cálculo do montante total de cada apoio faz-se pela aplicação sucessiva dos respetivos escalões de área.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+  },
+  "114957942": {
+   "fragment_id": "70748656",
+   "type": 11,
+   "heading": "Artigo 17.º — Majorações",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Majorações\n\n1 - O montante total do apoio é majorado, anualmente, em 15 %, quando o beneficiário recorra à assistência técnica, não podendo o valor da majoração ser inferior a 250 (euro) nem superior a 1750 (euro).\n\n2 - Em caso de cumulação de apoios não é aplicável o limite mínimo do valor da majoração referido no número anterior, sendo aplicável o limite máximo.\n\n3 - O montante total do apoio, em cada grupo de culturas, é majorado, anualmente, em 5 %, quando o beneficiário é associado de um agrupamento ou organização de produtores reconhecido para o respetivo produto objeto de apoio.\n\n4 - O montante do apoio, no grupo de culturas que inclua cereais, é majorado, anualmente, em 10 %, quando o beneficiário é associado de um agrupamento ou organização de produtores reconhecido para o respetivo produto objeto de apoio.\n\n5 - Para efeito de aplicação das majorações previstas nos números anteriores, o agrupamento ou a organização de produtores deve encontrar-se reconhecida à data do termo do período de candidatura aos apoios previstos na presente portaria.\n\n6 - A aplicação das majorações previstas nos números anteriores não pode ultrapassar 900 euros por ha, no caso das culturas permanentes, 600 euros por ha, no caso das culturas temporárias, arroz e horticultura, e de 450 euros por ha, no caso da pastagem permanente.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+  },
+  "114957943": {
+   "fragment_id": "70748662",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração da candidatura",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2018-04-03, produz efeitos a partir de 2015-02-10"
+   ],
+   "markdown": "###### Artigo 21.º — Alteração da candidatura\n\n1 - (Revogado).\n\n2 - (Revogado).\n\n3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem que haja lugar à devolução dos apoios já recebidos, nos seguintes casos:\n\na) Sujeição de parte da exploração a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, ou a expropriação;\n\nb) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração;\n\nc) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário;\n\nd) Destruição de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.\n\n4 - Os beneficiários com compromissos na ação 7.2, 'Produção Integrada' podem, aquando da apresentação do pedido de pagamento anual, transitar para a ação 7.1, 'Agricultura Biológica', desde que se verifique o cumprimento dos critérios de elegibilidade referidos no artigo 9.º, em data anterior a 1 de janeiro do ano do pedido de pagamento, sendo aplicáveis os montantes e limites de apoio previstos no anexo IV.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2018-04-03, produz efeitos a partir de 2015-02-10"
+  },
+  "114957944": {
+   "fragment_id": "70748668",
+   "type": 11,
+   "heading": "Artigo 26.º — Agricultura biológica e produção integrada",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+   ],
+   "markdown": "###### Artigo 26.º — Agricultura biológica e produção integrada\n\n1 - Em derrogação do disposto no n.º 4 do artigo 5.º, excecionalmente, no ano de 2015 e ano de 2017, o compromisso previsto na alínea a) do artigo 11.º, no que respeita à condição de elegibilidade referida na alínea a) do artigo 9.º, produz efeitos à data do início do período de candidaturas ao PU de 2015 e ao PU de 2017, respetivamente.\n\n2 - Em derrogação do disposto no n.º 4 do artigo 11.º e no n.º 5 do artigo 14.º, excecionalmente, para os compromissos iniciados em 2015, os beneficiários dispõem até ao dia 30 de abril de 2017, para concluir as ações de formação específica previstas nas citadas disposições legais.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+  },
+  "114957945": {
+   "fragment_id": "70748639",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Aconselhamento agrícola», a consultadoria agrícola efetuada por entidade reconhecida para o efeito no âmbito do sistema de aconselhamento agrícola previsto na Portaria n.º 353/2008, de 8 de maio;\n\nb) 'Agricultor ativo', a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola, não sendo aplicáveis as disposições previstas nos n.os 2, 3 e 3-A do artigo 9.º do Regulamento (UE) n.º 1307/2013, na redação dada pelo Regulamento (UE) 2017/2393, do Parlamento e do Conselho, de 13 de dezembro de 2017.\n\nc) «Animais em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;\n\nd) 'Assistência técnica', o apoio efetuado por técnico com formação específica regulamentada para o exercício da atividade de apoio técnico em produção integrada ou agricultura biológica, de acordo com o Decreto-Lei n.º 37/2013, de 13 de março, mediante contrato de prestação de serviços celebrado com associações de agricultores, organizações de produtores ou cooperativas;\n\ne) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nf) «Culturas permanentes», as culturas não rotativas, com exclusão dos prados e pastagens permanentes, que ocupam as terras por cinco ou mais anos e dão origem a várias colheitas;\n\ng) «Culturas temporárias de outono-inverno», as culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de outono-inverno;\n\nh) «Culturas temporárias de primavera-verão», culturas que desenvolvem a maior parte do seu ciclo vegetativo no período de primavera-verão;\n\ni) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;\n\nj) «Índice de qualificação fisiográfica da parcela (IQFP)», o indicador que traduz a relação entre morfologia da parcela de referência e o seu risco de erosão e consta da identificação da exploração (IE) do Sistema de Identificação Parcelar (iSIP);\n\nk) «Mobilização mínima do solo», o sistema de mobilização de conservação do solo que, embora intervindo em toda a superfície do terreno, mantém uma quantidade apreciável de resíduos da cultura anterior à superfície do solo, baseando-se na utilização de alfaias de mobilização vertical, encontrando-se interdito o uso de alfaias que promovam o reviramento do solo ou levantamento do torrão;\n\nl) «Mobilização da linha», a técnica de instalação de cultura por sementeira em que a mobilização do solo se realiza exclusivamente na linha de sementeira, com recurso a alfaias de mobilização vertical, imediatamente antes ou em simultâneo com o processo de sementeira;\n\nm) «Organismo de controlo e certificação», a entidade reconhecida pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto;\n\nn) «Organismo de controlo e certificação acreditado», a entidade reconhecida pela DGADR para efetuar ações de controlo ou certificação de produtos agrícolas ou géneros alimentícios abrangidos por regimes de qualidade, no âmbito do anexo IV do Despacho Normativo n.º 47/97, de 11 de agosto, e acreditado pelo Instituto Português de Acreditação (IPAC) segundo a NP EN ISO/IEC 17065:2014;\n\no) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, classificada em função da categoria de ocupação de solo;\n\np) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos.\n\nq) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;\n\nr) «Produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado de Funcionamento da União Europeia, com exceção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013;\n\ns) «Subparcela», a porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela ou coincidentes com a mesma, tal como definido no iSIP;\n\nt) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e pastagens permanentes ou culturas permanentes;\n\nu) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;\n\nv) 'Superfície forrageira elegível', as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes sem predominância de vegetação arbustiva, superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio e, no caso da Agricultura Biológica, os prados e pastagens permanentes prática local;\n\nw) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou as disponíveis para produção vegetal, ainda que se encontrem em pousio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+  },
+  "114957946": {
+   "fragment_id": "70748662",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração da candidatura",
+   "in_force_from": "2018-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 91/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/91-2018-114952497), em vigor a partir de 2018-04-07, produz efeitos a partir de 2018-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2018-04-03, produz efeitos a partir de 2015-02-10"
+   ],
+   "markdown": "###### Artigo 21.º — Alteração da candidatura\n\n1 - Os beneficiários podem, aquando da apresentação do pedido de pagamento anual, proceder ao aumento da área objeto de apoio, desde que, à data da candidatura, se encontrassem impedidos de a incluir por a mesma estar sujeita a emparcelamento ou intervenção fundiária similar nos termos da Lei n.º 111/2015, de 27 de agosto, ou a execução de empreitada no âmbito de aproveitamentos hidroagrícolas.\n\n2 - As situações referidas no número anterior são comprovadas pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), com identificação das parcelas.\n\n3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem que haja lugar à devolução dos apoios já recebidos, nos seguintes casos:\n\na) Sujeição de parte da exploração a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, ou a expropriação;\n\nb) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração;\n\nc) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário;\n\nd) Destruição de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.\n\n4 - Os beneficiários com compromissos na ação 7.2, 'Produção Integrada' podem, aquando da apresentação do pedido de pagamento anual, transitar para a ação 7.1, 'Agricultura Biológica', desde que se verifique o cumprimento dos critérios de elegibilidade referidos no artigo 9.º, em data anterior a 1 de janeiro do ano do pedido de pagamento, sendo aplicáveis os montantes e limites de apoio previstos no anexo IV.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 91/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/91-2018-114952497), em vigor a partir de 2018-04-07, produz efeitos a partir de 2018-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2018-04-03, produz efeitos a partir de 2015-02-10"
+  },
+  "115348659": {
+   "fragment_id": "70748650",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2018-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Critérios de elegibilidade dos beneficiários\n\nPodem beneficiar do apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as pessoas referidas no n.º 2 do artigo 7.º que reúnam as seguintes condições:\n\na) Candidatem uma superfície agrícola mínima elegível de 0,5 hectares à produção integrada;\n\nb) Submetam a subparcela ou subparcelas agrícolas candidatas ao sistema de controlo por um organismo de controlo e certificação reconhecido;\n\nc) Detenham, quando se trate de culturas permanentes regadas, com exceção da vinha, resultados de análises de terras obtidas, no máximo, até ao limite de três anos anteriores à data de apresentação da candidatura e que incluam o teor de matéria orgânica.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01"
+  },
+  "115348660": {
+   "fragment_id": "70748655",
+   "type": 11,
+   "heading": "Artigo 16.º — Montantes e limites dos apoios",
+   "in_force_from": "2018-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-06-01, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Montantes e limites dos apoios\n\n1 - Os montantes e limites a conceder à «conversão para a agricultura biológica» são os estabelecidos no anexo II à presente portaria da qual faz parte integrante.\n\n2 - Os montantes e limites a conceder à «agricultura biológica» são os estabelecidos no anexo III à presente portaria da qual faz parte integrante.\n\n3 - Os montantes e limites a conceder à «produção integrada» são os estabelecidos no anexo IV à presente portaria da qual faz parte integrante.\n\n4 - A superfície forrageira elegível é contabilizada, desde que se verifique, durante o período de retenção para cada espécie, um encabeçamento mínimo de 0,2 CN/ha de superfície forrageira, considerando o efetivo pecuário de bovinos, ovinos e caprinos, em pastoreio, do próprio.\n\n5 - Se o beneficiário não puder cumprir o nível de encabeçamento previsto no número anterior devido aos casos de força maior referidos nas alíneas g), h) e i) do n.º 2 do artigo 22.º, mantém o direito à totalidade do pagamento das superfícies forrageiras.\n\n6 - O cálculo do montante total de cada apoio faz-se pela aplicação sucessiva dos respetivos escalões de área.\n\n7 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido no n.º 4 passa para um mínimo de 0,1 CN/ha de superfície forrageira.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-06-01, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+  },
+  "152035321": {
+   "fragment_id": "70748662",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração da candidatura",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 298/2020 - Diário da República n.º 248/2020, Série I de 2020-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/298-2020-152015943), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 91/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/91-2018-114952497), em vigor a partir de 2018-04-07, produz efeitos a partir de 2018-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2018-04-03, produz efeitos a partir de 2015-02-10"
+   ],
+   "markdown": "###### Artigo 21.º — Alteração da candidatura\n\n1 - Os beneficiários podem, aquando da apresentação do pedido de pagamento anual, proceder ao aumento da área objeto de apoio, desde que, à data da candidatura, se encontrassem impedidos de a incluir por a mesma estar sujeita a emparcelamento ou intervenção fundiária similar nos termos da Lei n.º 111/2015, de 27 de agosto, ou a execução de empreitada no âmbito de aproveitamentos hidroagrícolas.\n\n2 - As situações referidas no número anterior são comprovadas pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), com identificação das parcelas.\n\n3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem que haja lugar à devolução dos apoios já recebidos, nos seguintes casos:\n\na) Sujeição de parte da exploração a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, ou a expropriação;\n\nb) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração;\n\nc) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário;\n\nd) Destruição de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 298/2020 - Diário da República n.º 248/2020, Série I de 2020-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/298-2020-152015943), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 91/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/91-2018-114952497), em vigor a partir de 2018-04-07, produz efeitos a partir de 2018-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2018-04-03, produz efeitos a partir de 2015-02-10"
+  },
+  "177078438": {
+   "fragment_id": "70748641",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração dos compromissos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Duração dos compromissos\n\n1 - As ações objeto da presente portaria destinam-se a apoiar os beneficiários que, de forma voluntária, se comprometam a respeitar compromissos de natureza agroambiental durante um período de cinco anos.\n\n2 - O período referido no número anterior pode ser prorrogado, até um máximo de três anos, mediante requerimento do beneficiário e decisão da autoridade de gestão.\n\n3 - Sem prejuízo do disposto nos números anteriores, o compromisso de «conversão para agricultura biológica» tem a duração máxima de três anos, seguida de um período em «agricultura biológica» até ao termo do compromisso.\n\n4 - Os compromissos produzem efeitos a partir de 1 de janeiro do ano da candidatura e prolongam-se até 31 de dezembro de cada ano.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01"
+  },
+  "177078439": {
+   "fragment_id": "70748648",
+   "type": 11,
+   "heading": "Artigo 11.º — Compromissos dos beneficiários",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Compromissos dos beneficiários\n\n1 - Para além do disposto no artigo 6.º, os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a:\n\na) Manter os critérios de elegibilidade;\n\nb) Manter a subparcela ou subparcelas agrícolas sob compromisso em «agricultura biológica», de acordo com os princípios e regras estabelecidos no Regulamento (CE) n.º 834/2007, do Conselho, de 28 de junho de 2007, relativo à produção biológica e à rotulagem dos produtos biológicos e o Regulamento (CE) n.º 889/2008, da Comissão, de 5 de setembro de 2008;\n\nc) Manter atualizado um registo das atividades efetuadas nas subparcelas e espécies pecuárias abrangidas pela agricultura biológica, de acordo com o conteúdo normalizado, nomeadamente as relativas à utilização de produtos fitofarmacêuticos e fertilizantes;\n\nd) Conservar os comprovativos da aquisição dos produtos fitofarmacêuticos e fertilizantes, bem como os boletins de análise de terra, água e material vegetal, anexando-os ao registo das atividades.\n\n2 - Os beneficiários do apoio previsto no presente capítulo devem ainda manter, em cada ano do compromisso, durante o período de retenção para cada espécie, a exploração com um nível de encabeçamento de bovinos, ovinos e caprinos, em pastoreio, do próprio ou de outrem, expressos em CN por hectare (ha), igual ou inferior a:\n\na) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;\n\nb) 2 CN/ha de superfície agrícola, no caso de explorações em zona de montanha e com dimensão superior a 2 ha de superfície agrícola;\n\nc) 2 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas e com dimensão superior a 2 ha de superfície agrícola.\n\n3 - Os beneficiários do apoio previsto no presente capítulo, no caso de culturas permanentes, devem ainda manter, durante todo o período de compromisso, as seguintes densidades mínimas por subparcela:\n\na) Pomóideas, citrinos e prunóideas, exceto cerejeira - 200 árvores por ha;\n\nb) Pequenos frutos, exceto sabugueiro - 1.000 plantas por ha;\n\nc) Actinídeas - 400 plantas por ha;\n\nd) Outros frutos frescos, sabugueiro e cerejeira - 80 árvores por hectare;\n\ne) Frutos secos e olival - 60 árvores por hectare;\n\nf) Vinha - 2.000 cepas por ha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1.000 cepas por hectare.\n\n4 - Os beneficiários do apoio previsto no presente capítulo devem ainda concluir, no prazo de um ano após o início do compromisso «conversão para a agricultura biológica», ação de formação específica homologada pelo Ministério da Agricultura e do Mar nos termos da Portaria n.º 354/2013, de 9 de dezembro, salvo se já tiverem concluído a mesma em data anterior à da apresentação da candidatura.\n\n5 - Em derrogação do disposto no número anterior, excecionalmente, para os compromissos iniciados em 2021, os beneficiários dispõem até à data de submissão do PU de 2022, para concluir as ações de formação específica.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01"
+  }
+ }
+}

@@ -1,0 +1,309 @@
+---
+schema_version: '1.0'
+id: pt:dre:602983:por
+title: Portaria n.º 94/2009
+short_title: null
+summary: Aprova a tabela do custo dos actos relativos aos procedimentos de registo de medicamentos homeopáticos sujeitos a
+  registo simplificado e de medicamentos tradicionais à base de plantas, bem como dos exames laboratoriais e dos demais actos
+  e serviços prestados pelo INFARMED, e revoga a Portaria n.º 693/97, de 14 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 94/2009
+official_date: null
+publication_date: '2009-01-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 19/2009, Série I de 2009-01-28
+  number: '19'
+  series: I
+  supplement: null
+  pages: 591 - 593
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01900/0059100593.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/94/2009/01/28/p/dre/pt/html
+  oj: null
+  dre: '602983'
+  dre_path: /dr/detalhe/portaria/94-2009-602983
+  internal: pt:dre:602983:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-2009-602983
+  metadata_url: https://data.dre.pt/eli/port/94/2009/01/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-2009-602983
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-01-28T00:00:00Z'
+integrity:
+  source_sha256: 130a709a2fe096691b83d2d0f8fe5e7691b480cb7f3697a86614a8953eb039a8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-94-602983.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Infarmed
+- Produto Farmacêutico
+- Medicinas Alternativas
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/269/2007/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/269/2007/07/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/94/1995/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94/1995/05/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/693/1997/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/693/1997/08/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 94/2009
+
+de 28 de Janeiro
+
+O Estatuto do Medicamento, aprovado pelo [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de Agosto, acolheu os produtos farmacêuticos homeopáticos previstos no [Decreto-Lei n.º 94/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1995-513873), de 9 de Maio, atribuindo-lhes a natureza de medicamentos homeopáticos sujeitos, contudo, a registo simplificado, e introduziu pela primeira vez no quadro jurídico os medicamentos tradicionais à base de plantas.
+
+Para além da novidade dos medicamentos tradicionais à base de plantas, o novo quadro jurídico inova, ainda, ao estabelecer que os medicamentos homeopáticos sujeitos a registo simplificado podem ser objecto de registo através de procedimentos comunitários de reconhecimento mútuo ou descentralizado.
+
+Tratando-se de matérias novas não existe ainda qualquer disposição regulamentar sobre taxas a cobrar como contrapartida dos actos praticados pelo INFARMED, bem como dos serviços por este prestados no âmbito daqueles procedimentos de registo. Nem mesmo regulamentação anterior ao Estatuto do Medicamento e que pudesse ser transitoriamente utilizada ao abrigo do n.º 4 do artigo 202.º desse diploma.
+
+Torna-se, pois, necessário aprovar a tabela dos encargos a suportar pelos requerentes em sede de pedido de registo de medicamentos homeopáticos sujeitos a registo simplificado e de medicamentos tradicionais à base de plantas.
+
+Assim:
+
+Ao abrigo do disposto no n.º 4 do artigo 193.º do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de Agosto:
+
+Manda o Governo, pela Ministra da Saúde, o seguinte:
+
+1.º O custo dos actos relativos aos procedimentos de registo de medicamentos homeopáticos sujeitos a registo simplificado e de medicamentos tradicionais à base de plantas, bem como dos exames laboratoriais e dos demais actos e serviços prestados pelo INFARMED, é o constante da tabela anexa à presente portaria e que desta faz parte integrante.
+
+2.º Os valores da tabela a que se refere o número anterior são actualizados anualmente em termos idênticos ao aumento da inflação anual, medida através da variação média do índice de preços no consumidor para o continente, publicado pelo Instituto Nacional de Estatística em Dezembro do ano anterior, sendo os respectivos valores divulgados pelo INFARMED.
+
+3.º Os valores cobrados ao abrigo da presente portaria constituem receita do INFARMED, nos termos do artigo 13.º, n.º 2, da sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 269/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2007-636710), de 26 de Julho.
+
+4.º É revogada a [Portaria n.º 693/97](https://diariodarepublica.pt/dr/detalhe/portaria/693-1997-209054), de 14 de Agosto.
+
+Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde, em 19 de Janeiro de 2009.
+
+## ANEXO — Tabela a que se refere o n.º 1
+
+1) Medicamento homeopático sujeito a registo simplificado:
+
+a) Pelo procedimento nacional, ao abrigo do artigo 138.º do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de Agosto:
+
+i) Medicamento homeopático unitário ou série de medicamentos homeopáticos obtidos a partir de um stock homeopático:
+
+i.1) Incluindo 1 forma farmacêutica - (euro) 1178,91;
+
+i.2) Por cada forma farmacêutica suplementar incluída no pedido anterior - (euro) 237,84;
+
+i.3) Por cada forma farmacêutica suplementar apresentada posteriormente - (euro) 711,45;
+
+ii) Medicamento homeopático ou série de medicamentos homeopáticos obtidos a partir de dois/cinco stocks homeopáticos:
+
+ii.1) Incluindo uma forma farmacêutica - (euro) 1478,03;
+
+ii.2) Por cada forma farmacêutica suplementar incluída no pedido anterior - (euro) 298,03;
+
+ii.3) Por cada forma farmacêutica suplementar apresentada posteriormente - (euro) 891,51;
+
+iii) Medicamento homeopático ou série de medicamentos homeopáticos obtidos a partir de seis ou mais stocks homeopáticos:
+
+iii.1) Incluindo uma forma farmacêutica - (euro) 1943,70;
+
+iii.2) Por cada forma farmacêutica suplementar incluída no pedido anterior - (euro) 392,15;
+
+iii.3) Por cada forma farmacêutica suplementar apresentada posteriormente - (euro) 1173,04;
+
+b) Pelo procedimento nacional, como pressuposto para a apresentação subsequente de um pedido de reconhecimento mútuo ou descentralizado, nos casos em que Portugal funcione como Estado membro de referência:
+
+i) Incluindo uma forma farmacêutica - (euro) 5115;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior - (euro) 1173,11;
+
+iii) Por cada forma farmacêutica suplementar, apresentada posteriormente ao pedido referido na subalínea i) - (euro) 1364;
+
+c) Relativo a um medicamento homeopático já possuidor de um registo simplificado válido e em vigor em Portugal, funcionando Portugal como Estado membro de referência:
+
+i) Incluindo uma forma farmacêutica - (euro) 3410;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior - (euro) 876,37;
+
+iii) Por cada forma farmacêutica suplementar, apresentada posteriormente ao pedido referido na subalínea i) - (euro) 1023;
+
+d) Relativo a um medicamento homeopático possuidor de um registo simplificado concedido por outro Estado membro da Comunidade Europeia ou do espaço económico europeu:
+
+i) Incluindo uma forma farmacêutica - (euro) 2046;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior - (euro) 409,20;
+
+iii) Por cada forma farmacêutica suplementar, apresentada posteriormente ao pedido referido na subalínea i) - (euro) 511,50.
+
+2) Medicamento tradicional à base de plantas:
+
+a) Pelo procedimento nacional, ao abrigo do artigo 142.º do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de Agosto:
+
+i) Medicamento tradicional à base de plantas contendo até três substâncias activas:
+
+i.1) Incluindo uma forma farmacêutica - (euro) 1478,03;
+
+i.2) Por cada forma farmacêutica suplementar incluída no pedido anterior - (euro) 298,03;
+
+i.3) Por cada forma farmacêutica suplementar apresentada posteriormente - (euro) 891,51;
+
+ii) Medicamento tradicional à base de plantas contendo mais de três substâncias activas:
+
+ii.1) Incluindo uma forma farmacêutica - (euro) 1943,70;
+
+ii.2) Por cada forma farmacêutica suplementar incluída no pedido anterior - (euro) 392,15;
+
+ii.3) Por cada forma farmacêutica suplementar apresentada posteriormente - (euro) 1173,04;
+
+b) Pelo procedimento nacional, como pressuposto para a apresentação subsequente de um pedido de reconhecimento mútuo ou descentralizado, nos casos em que Portugal funcione como Estado membro de referência:
+
+i) Incluindo uma forma farmacêutica - (euro) 5115;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior - (euro) 1173,11;
+
+iii) Por cada forma farmacêutica suplementar, apresentada posteriormente ao pedido referido na subalínea i) - (euro) 1364;
+
+c) Relativo a um medicamento tradicional à base de plantas já possuidor de um registo simplificado válido e em vigor em Portugal, funcionando Portugal como Estado membro de referência:
+
+i) Incluindo uma forma farmacêutica - (euro) 3410;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior - (euro) 876,37;
+
+iii) Por cada forma farmacêutica suplementar, apresentada posteriormente ao pedido referido na subalínea i) - (euro) 1023;
+
+d) Relativo a um medicamento tradicional à base plantas possuidor de um registo simplificado concedido por outro Estado membro da Comunidade Europeia ou do espaço económico europeu:
+
+i) Incluindo uma forma farmacêutica - (euro) 2046;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior - (euro) 409,20;
+
+iii) Por cada forma farmacêutica suplementar, apresentada posteriormente ao pedido referido na subalínea i) - (euro) 511,50.
+
+3) Por cada pedido de alteração dos termos de um registo simplificado de um medicamento homeopático ou de um medicamento tradicional à base de plantas:
+
+a) Por cada alteração de tipo i ou alteração menor:
+
+i) Incluindo uma forma farmacêutica - (euro) 531,96;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior - (euro) 180,73;
+
+iii) Quando diga apenas respeito à alteração do nome, firma, sede ou representação do titular do registo ou da retirada de empresas envolvidas no fabrico, incluindo a libertação do lote, do medicamento e da ou das substâncias activas - (euro) 122,76;
+
+b) Para as alterações de tipo ii ou alterações maiores:
+
+i) Incluindo uma forma farmacêutica - (euro) 1057,10;
+
+ii) Por cada forma farmacêutica suplementar, requerida em simultâneo com o pedido referido na alínea anterior - (euro) 341;
+
+c) Por cada alteração prevista no anexo iv, n.os 1 e 2, do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de Agosto:
+
+i) Incluindo uma forma farmacêutica:
+
+i.1) Para medicamentos homeopáticos - (euro) 1178,91;
+
+i.2) Para medicamentos tradicionais à base de plantas - (euro) 1478,03;
+
+ii) Por cada forma farmacêutica suplementar, requerida em simultâneo com o pedido referido nas subalíneas anteriores - (euro) 298,03;
+
+d) Por cada pedido de alteração de um elemento da rotulagem ou do folheto informativo não relacionado com o resumo das características do medicamento - (euro) 122,76;
+
+e) Quando as alterações disserem respeito a registos concedidos ao abrigo das alíneas a) do n.º 1 e a) do n.º 2 e que não tenham sido objecto do procedimento de reconhecimento mútuo ou descentralizado, o custo dos actos considera-se reduzido em 40 %.
+
+4) Por cada pedido de renovação de um registo simplificado de um medicamento homeopático ou medicamento tradicional à base de plantas:
+
+a) Incluindo uma forma farmacêutica:
+
+i) Para um medicamento homeopático - (euro) 1178,91;
+
+ii) Para um medicamento tradicional à base de plantas - (euro) 1478,03;
+
+b) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior:
+
+i) Para um medicamento homeopático - (euro) 195,35;
+
+ii) Para um medicamento tradicional à base de plantas - (euro) 244,91;
+
+c) De um registo simplificado de um medicamento homeopático ou de um medicamento tradicional à base de plantas concedido ao abrigo do procedimento nacional e que tenha sido objecto de um procedimento de reconhecimento mútuo, funcionando Portugal como Estado membro de referência:
+
+i) Incluindo uma forma farmacêutica:
+
+i.1) Para um medicamento homeopático - (euro) 1610,71;
+
+i.2) Para um medicamento tradicional à base de plantas - (euro) 2019,40;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior:
+
+ii.1) Para um medicamento homeopático - (euro) 195,35;
+
+ii.2) Para um medicamento tradicional à base de plantas - (euro) 244,91;
+
+d) Do reconhecimento mútuo de um registo simplificado de um medicamento homeopático ou medicamento tradicional à base de plantas concedido pela(s) autoridade(s) competente(s) de outro(s) Estado(s) membro(s) da Comunidade Europeia ou do espaço económico europeu:
+
+i) Incluindo uma forma farmacêutica:
+
+i.1) Para um medicamento homeopático - (euro) 1178,91;
+
+i.2) Para um medicamento tradicional à base de plantas - (euro) 1478,03;
+
+ii) Por cada forma farmacêutica suplementar, incluída no pedido referido na subalínea anterior:
+
+ii.1) Para um medicamento homeopático - (euro) 195,35;
+
+ii.2) Para um medicamento tradicional à base de plantas - (euro) 244,91.
+
+5) Por cada certificado ou documento de valor equivalente, relativo ao registo de um medicamento homeopático sujeito a registo simplificado, ao titular do registo, ao fabricante ou ao distribuidor:
+
+1 - Até quatro folhas - (euro) 30,69;
+
+2 - Por cada conjunto adicional de até quatro folhas - (euro) 15,35.
+
+6) O preço a pagar pela realização de exames laboratoriais é o que vier a ser fixado pela entidade que os realizar, acrescido de 20 %, correspondentes aos custos técnico-administrativos a suportar pelo INFARMED.

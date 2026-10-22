@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:562989:por
+title: Despacho Normativo n.º 235/81
+short_title: null
+summary: Considera incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981 os projectos da Gel-Mar
+  - Empresa Distribuidora de Produtos Alimentares
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e do Comércio e Turismo
+proposing_entity: null
+official_number: 235/81
+official_date: null
+publication_date: '1981-09-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/1981, Série I de 1981-09-12
+  number: '210'
+  series: I
+  supplement: null
+  pages: 2428 - 2428
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/21000/24282428.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '562989'
+  dre_path: /dr/detalhe/despacho-normativo/235-1981-562989
+  internal: pt:dre:562989:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/235-1981-562989
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/235-1981-562989
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-09-12T00:00:00Z'
+integrity:
+  source_sha256: db8df084552367fa352deabe1d82bc3a976e0db12a4fab633baac11090bcc143
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-235-562989.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 235/81
+
+Tendo em conta os trabalhos desenvolvidos pelo grupo de trabalho criado pelo Despacho n.º 8/81 do Ministro das Finanças e do Plano, dando cumprimento ao disposto na [Resolução n.º 89/81](https://diariodarepublica.pt/dr/detalhe/resolucao/89-1981-573331), de 23 de Abril, do Conselho de Ministros, os Ministros das Finanças e do Plano e do Comércio e Turismo determinam:
+
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981 os projectos da Gel-Mar - Empresa Distribuidora de Produtos Alimentares a seguir discriminados:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21000/24282428.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21000/24282428.pdf)
+
+2 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à Empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no n.º 1.
+
+3 - É atribuída uma dotação para capital social no montante de 27,3 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981, que se destina ao saneamento da estrutura financeira da Empresa e que será complementada oportunamente por acções de consolidação do passivo e de reavaliação do activo, conforme projecto de ASEF.
+
+4 - As despesas de investimento referidas no n.º 1 serão financiadas por uma dotação para capital da Empresa no montante de 72,7 milhões de escudos, a realizar por conta da dotação de 18000 milhões de escudos inscrita no Orçamento Geral do Estado para 1981.
+
+5 - Para completar o financiamento das despesas de investimento referidas no n.º 1 fica a Empresa autorizada a recorrer ao mercado interno para a obtenção do capital alheio a médio ou longo prazo necessário à concretização dos projectos incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981.
+
+Ministérios das Finanças e do Plano e do Comércio e Turismo, 27 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto.

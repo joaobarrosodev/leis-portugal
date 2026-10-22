@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:181050:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1985-892251339",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/10-1985-181050",
+ "source_lastmod": "2024-10-22",
+ "versions": [
+  {
+   "date": "1985-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "892297863",
+    "892297847",
+    "892297848",
+    "892297849",
+    "892297850",
+    "892297851",
+    "892297852",
+    "892297853",
+    "892297854",
+    "892297855",
+    "892297856",
+    "892297857",
+    "892297858",
+    "892297859"
+   ]
+  },
+  {
+   "date": "1985-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:322316:por",
+     "title": "Declaração",
+     "published": "1985-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-322316"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma",
+    "Retifica Artigo 10.º",
+    "Retifica Assinatura"
+   ],
+   "fragments": [
+    "892297863",
+    "892297847",
+    "892297848",
+    "892297849",
+    "892297850",
+    "892297851",
+    "892297852",
+    "892297853",
+    "892297854",
+    "892297855",
+    "892297864",
+    "892297857",
+    "892297858",
+    "892297859",
+    "892297865"
+   ]
+  }
+ ],
+ "fragments": {
+  "892297863": {
+   "fragment_id": "892251340",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1985-10-31",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 10/85/A\n\nProtecção da produção agrícola\n\nCom o duplo objectivo de se evitar a introdução na Região Autónoma dos Açores de pragas existentes no continente (Leptinotarsa decemlineata, Globodera rostochiensis, Quadraspidiotus perniciosus, Polychrosis botrana e Clysia ambiguella) ainda não detectadas na Região e evitar a introdução no continente e na Região Autónoma da Madeira da Popillia japonica e da Grapholita molesta, pragas existentes em áreas delimitadas do arquipélago, foram publicados os Decretos-Leis n.os 115/81 e 116/81, de 15 de Maio.\n\nA publicação destes diplomas baseava-se no condicionalismo restritivo estabelecido pelo artigo 230.º da Constituição de 1976, o qual desapareceu, quanto a razões de natureza sanitária, com a revisão de 1982.\n\nO novo quadro constitucional legitima a presente proveniência legislativa.\n\nAcresce que a diversidade de legislação existente tem tornado difícil a sua aplicabilidade nos Açores, pois criou problemas de incompatibilidade legislativa e de adequação, no conteúdo, com o poder legislativo conferido a esta Região Autónoma. Por isso torna-se conveniente a publicação, por esta Assembleia, de legislação que, satisfazendo as exigências de protecção fitossanitária da Região e garantindo a qualidade das sementes a comercializar e a utilizar nos Açores, clarifique a estrutura legislativa a aplicar na Região Autónoma dos Açores.\n\nAssim, a Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229.º da Constituição, decreta o seguinte:"
+  },
+  "892297847": {
+   "fragment_id": "892251341",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeito de importações ou exportações de produtos de origem vegetal provenientes de ou destinados a países estrangeiros, aplica-se à Região Autónoma dos Açores o estipulado no Decreto n.º 22389, de 1 de Abril de 1933, e nos Decretos-Leis n.os 68/70, de 27 de Fevereiro, 131/82, de 23 de Abril, e 202/82, de 21 de Maio, com as alterações constantes dos artigos seguintes."
+  },
+  "892297848": {
+   "fragment_id": "892251342",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNo caso de importação para a Região Autónoma dos Açores, passam a depender da Secretaria Regional da Agricultura e Pescas, através da Direcção Regional da Agricultura, as autorizações especiais a que se referem o artigo 2.º do Decreto n.º 22389, de 1 de Abril de 1933, e os n.os 1 e 2 do artigo 1.º e o artigo 3.º elo Decreto-Lei n.º 202/82, de 21 de Maio."
+  },
+  "892297849": {
+   "fragment_id": "892251343",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Secretaria Regional da Agricultura e Pescas comunicará aos Serviços Nacionais de Inspecção Fitossanitária, ao Comando Aéreo dos Açores e aos serviços das alfândegas da Guarda Fiscal e da Fiscalização Económica e Qualidade Alimentar os locais onde poderá fazer-se o exame de plantas referido no artigo 7.º do Decreto n.º 22389, de 1 de Abril de 1933."
+  },
+  "892297850": {
+   "fragment_id": "892251344",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs exportadores do arquipélago dos Açores deverão requerer o exame fitopatológico a que se refere o artigo 10.º do Decreto n.º 22389, de 1 de Abril de 1933, aos serviços competentes da Secretaria Regional da Agricultura e Pescas."
+  },
+  "892297851": {
+   "fragment_id": "892251345",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Continuam sujeitas a inspecção fitossanitária todas as plantas e partes de plantas para propagação ou susceptíveis de serem propagadas, frutos e sementes de fava, ervilha e luzerna provenientes do continente e da Madeira e destinadas à Região Autónoma dos Açores.\n\n2 - A Inspecção será efectuada nas alfândegas dos vários portos e aeroportos nos locais referidos no artigo 3.º por pessoal credenciado para o exercício das funções de inspector fitossanitário.\n\n3 - A mercadoria só será entregue ao destinatário depois de este apresentar à entidade competente o certificado passado pelos serviços de inspecção fitossanitária."
+  },
+  "892297852": {
+   "fragment_id": "892251346",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nTodas as plantas e partes de plantas a exportar do continente e da Madeira para os Açores deverão ser acompanhadas de certificado fitossanitário, nos termos da legislação em vigor, e ainda da declaração adicional de que o referido material se encontra isento de Globodera rostochiensis, Quadraspidiotus perniciosus, Leptinotarsa decemlineata, Polychrosas botrana e Clysis ambiguella."
+  },
+  "892297853": {
+   "fragment_id": "892251347",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - É proibida a entrada na Região Autónoma dos Açores de batata produzida no continente, na Madeira e em todos os países onde estejam assinaladas as pragas Globodera rostochiensis e Leptinotarsa decemlineata.\n\n2 - Será lançada ao mar alto, queimada ou recambiada ao expedidor continental, a expensas do responsável que a importou ou a expediu, sem direito a indemnização, toda a partida de batata que chegue aos Açores proveniente do continente.\n\n3 - A importação de batata de outras origens continua sujeita à legislação vigente."
+  },
+  "892297854": {
+   "fragment_id": "892251348",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nTodas as plantas, partes de plantas e palhas provenientes dos Açores e destinadas ao continente e à Região Autónoma da Madeira serão acompanhadas de certificado fitossanitário e da declaração adicional de que o referido material se encontra isento de Popillia japonica e de Grapholita molesta."
+  },
+  "892297855": {
+   "fragment_id": "892251349",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nPoderão ser introduzidas, por decreto regulamentar, outras restrições à circulação de mercadorias, quando se revelem indispensáveis para evitar a propagação de novas pragas e doenças no arquipélago."
+  },
+  "892297856": {
+   "fragment_id": "892251350",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ proibida a produção, importação e comercialização na Região Autónoma dos Açores de sementes de variedades que não façam parte do Catálogo Nacional de Variedades (CNV) ou da Lista Nacional de Variedades, salvo nos seguintes casos:\n\na) Para efeitos de exportação, em quantitativos a estabelecer pela Direcção Regional da Agricultura, da Secretaria Regional da Agricultura e Pescas;\n\nb) Para efeitos de produção de sementes destinadas exclusivamente à exportação."
+  },
+  "892297857": {
+   "fragment_id": "892251351",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - A concessão de autorização para importação de sementes para a Região Autónoma dos Açores passa a depender de parecer favorável da Direcção Regional da Agricultura.\n\n2 - Nenhum boletim de registo de importação será emitido antes de obtido o parecer referido no número anterior."
+  },
+  "892297858": {
+   "fragment_id": "892251352",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Serão apreendidas e posteriormente inutilizadas ou recambiadas a expensas do responsável que as importou ou expediu, independentemente da respectiva sanção legal a que haja lugar, todas as sementes de origem nacional ou estrangeira chegadas aos Açores sem o indispensável documento dos serviços oficiais competentes, certificatório da respectiva conformidade com as características legais em vigor reguladoras do comércio de sementes.\n\n2 - O comércio de sementes na Região fica sujeito à orientação e fiscalização dos serviços da Secretaria Regional da Agricultura e Pescas, incluindo as de produção regional, de acordo com a legislação aplicável."
+  },
+  "892297859": {
+   "fragment_id": "892251353",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs organismos e entidades oficiais, nomeadamente os serviços alfandegários da Guarda Fiscal e da Fiscalização Económica e Qualidade Alimentar da Secretaria Regional do Comércio e Indústria, bem como do Comando Aéreo dos Açores, prestarão toda a colaboração aos serviços da Secretaria Regional da Agricultura e Pescas no desenvolvimento das acções tendentes à vigilância e fiscalização do disposto no presente diploma."
+  },
+  "892297864": {
+   "fragment_id": "892251350",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1985-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 251/1985, 3º Suplemento, Série I de 1985-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-322316), em vigor a partir de 1985-10-31"
+   ],
+   "markdown": "###### Artigo 10.º\n\nÉ proibida a produção, importação e comercialização na Região Autónoma dos Açores de sementes de variedades que não façam parte do Catálogo Nacional de Variedades (CNV) ou da Lista Nacional de Variedades, salvo nos seguintes casos:\n\na) Para efeitos de experimentação, em quantitativos a estabelecer pela Direcção Regional da Agricultura, da Secretaria Regional da Agricultura e Pescas;\n\nb) Para efeitos de produção de sementes destinadas exclusivamente à exportação.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 251/1985, 3º Suplemento, Série I de 1985-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-322316), em vigor a partir de 1985-10-31"
+  },
+  "892297865": {
+   "fragment_id": "892251354",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1985-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 251/1985, 3º Suplemento, Série I de 1985-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-322316), em vigor a partir de 1985-10-31"
+   ],
+   "markdown": "Aprovado pela Assembleia Regional dos Açores, na Horta, em 18 de Junho de 1985.\n\nO Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 23 de Julho de 1985.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 251/1985, 3º Suplemento, Série I de 1985-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-322316), em vigor a partir de 1985-10-31"
+  }
+ }
+}

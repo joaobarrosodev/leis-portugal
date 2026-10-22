@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:186973:por
+title: Resolução do Conselho de Ministros n.º 148/98
+short_title: null
+summary: Cria, no âmbito do Ministério do Ambiente, uma comissão de acompanhamento destinada a conduzir os trabalhos pendentes
+  à criação do Sistema Multimunicipal de Captação e Tratamento de Água para Consumo e de Recolha, Tratamento e Rejeição de
+  Efluentes do Alto Zêzere
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 148/98
+official_date: null
+publication_date: '1998-12-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 292/1998, Série I-B de 1998-12-19
+  number: '292'
+  series: I
+  supplement: null
+  pages: 6938 - 6939
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/292b00/69386939.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/148/1998/12/19/p/dre/pt/html
+  oj: null
+  dre: '186973'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/148-1998-186973
+  internal: pt:dre:186973:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/148-1998-186973
+  metadata_url: https://data.dre.pt/eli/resolconsmin/148/1998/12/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/148-1998-186973
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-12-19T00:00:00Z'
+integrity:
+  source_sha256: 1010b659aa295f85913f713b95fa6f88d0236702436f1f01e876fcd5bc6be8ab
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-148-186973.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão de Resíduos
+- Comissão de Acompanhamento
+- Gestão dos Recursos
+- Ministério do Ambiente
+- Águas Residuais
+- Poluição da água
+- RIO Zêzere
+- Abastecimento de Água
+- Tratamento de ÁGUA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/319/1994/12/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/319/1994/12/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 148/98
+
+Considerando o nível de carência estrutural que actualmente se verifica nas áreas dos concelhos de Belmonte, Covilhã, Fundão, Guarda, Manteigas, Penamacor e Sabugal relativamente ao abastecimento de água às populações, no que concerne a aspectos quer quantitativos como qualitativos;
+
+Considerando que a resolução dos referidos problemas exige uma estratégia de concentração das origens de água para abastecimento, garantindo uma maior disponibilidade do recurso e um melhor controlo da sua qualidade;
+
+Considerando as deficiências que, na mesma área geográfica, se verificam quanto ao tratamento das águas residuais, as quais, pelos níveis de poluição - urbana e industrial - que causam na bacia hidrográfica do Zêzere, se repercutem na maior origem de água para abastecimento (a albufeira de Castelo de Bode);
+
+Considerando a vontade manifestada pelas mencionadas autarquias no sentido da criação de um sistema que abranja tanto captação e tratamento de água a disponibilizar aos municípios, bem como a recolha e o tratamento dos efluentes canalizados pelos respectivos serviços;
+
+Considerando que esta forma integrada de sistema multimunicipal potencia claramente a sua própria auto-sustentabilidade, permitindo, assim, garantir melhores níveis de serviço;
+
+Considerando que a criação do referido sistema multimunicipal se traduzirá no primeiro grande investimento do Estado em projectos desta natureza no interior do País, numa perspectiva de melhoria da qualidade de vida das populações inseridas na bacia hidrográfica do rio Zêzere e de desenvolvimento sócio-económico da região onde se localiza;
+
+Considerando a necessidade de definir, à luz do disposto, nomeadamente, nos Decretos-Leis n.os [319/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1994-575293), de 24 de Dezembro, e [162/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1996-241638), de 4 de Setembro, os termos em que há-de ocorrer a gestão do sistema multimunicipal, reunindo as condições necessárias à sua criação:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar, no âmbito do Ministério do Ambiente, uma comissão de acompanhamento destinada a conduzir os trabalhos tendentes à criação do Sistema Multimunicipal de Captação e Tratamento de Água para Consumo e de Recolha, Tratamento e Rejeição de Efluentes do Alto Zêzere.
+
+2 - A referida comissão é constituída por:
+
+Um representante do IPE - Águas de Portugal, Sociedade Gestora de Participações, S. A., que preside;
+
+**O presidente do conselho de administração da Associação de Municípios da Cova da Beira;**
+
+Um representante do Ministério do Ambiente.
+
+3 - A comissão cessa funções com a criação do Sistema Multimunicipal de Captação e Tratamento de Água para Consumo e de Recolha, Tratamento e Rejeição de Efluentes do Alto Zêzere, devendo apresentar uma proposta nesse sentido, no prazo de três meses a contar da data da publicação da presente resolução.
+
+4 - O Ministério do Ambiente prestará todo o apoio necessário ao funcionamento da comissão.
+
+Presidência do Conselho de Ministros, 25 de Novembro de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

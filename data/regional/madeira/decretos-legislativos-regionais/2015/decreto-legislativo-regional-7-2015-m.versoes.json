@@ -1,0 +1,367 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70054442:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-124599317",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/7-2015-70054442",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124599415",
+    "124599416",
+    "124599417",
+    "124599418",
+    "124599419",
+    "124599420",
+    "124599421",
+    "124599422",
+    "124599423",
+    "124599424",
+    "124599425",
+    "124599426",
+    "124599427",
+    "124599428",
+    "124599429",
+    "124599430",
+    "124599432",
+    "124599433"
+   ]
+  },
+  {
+   "date": "2019-09-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124572533:por",
+     "title": "Decreto Legislativo Regional n.º 14/2019/M",
+     "published": "2019-09-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/14-2019-124572533"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Adita Anexo III",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "124599415",
+    "124599416",
+    "124599417",
+    "124599418",
+    "124599419",
+    "124602803",
+    "124602804",
+    "124602595",
+    "124602805",
+    "124602597",
+    "124602598",
+    "124602599",
+    "124602600",
+    "124602601",
+    "124602806",
+    "124602603",
+    "124602604",
+    "124602605",
+    "124602802",
+    "124602607",
+    "124602654"
+   ]
+  }
+ ],
+ "fragments": {
+  "124599415": {
+   "fragment_id": "124599318",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 7/2015/M\n\nAdapta à Região Autónoma da Madeira o Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decretos-Leis n.º 165/2014, de 5 de novembro e n.º 85/2015, de 21 de maio, que aprova o Novo Regime do Exercício da Atividade Pecuária (NREAP).\n\nNa definição mais consensual, a agricultura familiar é aquela em que a gestão e a mão-de-obra da exploração agrícola são asseguradas maioritariamente pelo agregado familiar.\n\nQuando a Assembleia Geral da Organização das Nações Unidas declarou 2014 como o Ano Internacional da Agricultura Familiar, facto inédito para o setor, tal resultou do claro reconhecimento da importância deste sistema agropecuário sustentável ao nível social, económico, ambiental e cultural, que envolve nove em cada dez das 570 milhões de explorações agrícolas do planeta, e é responsável por 80 % da produção mundial de alimentos.\n\nNo âmbito desta declaração, a Organização das Nações Unidas para a Alimentação e Agricultura (FAO), assumiu como um dos seus objetivos reposicionar o setor no centro das políticas agrícolas, ambientais e sociais das agendas nacionais, identificando lacunas e oportunidades para promover uma mudança rumo a um desenvolvimento mais equitativo e equilibrado da produção de alimentos.\n\nNo contexto português, é na Região Autónoma da Madeira, que a agricultura de cariz familiar assume maior expressão, facto bem evidente no último Recenseamento Geral da Agricultura, datado de 2009, da responsabilidade do Instituto Nacional de Estatística.\n\nDe acordo com este último censo, na Região Autónoma da Madeira existiam 13.611 explorações agrícolas, ocupando 5.428 ha de superfície agrícola utilizada (SAU), originando uma SAU média de 3.999 m2. Por sua vez, cada exploração agrícola estava fragmentada numa média de 3,7 blocos, mais ou menos dispersos.\n\nAinda segundo este recenseamento, 99 % dos produtores eram singulares e a população agrícola familiar, cerca de 40.000 pessoas, correspondia, naquele ano, a 15 % da população residente. Além disso, do conjunto de horas empregues na atividade agrícola, 87 % correspondiam a mão-de-obra familiar e apenas 13 % a mão-de-obra contratada.\n\nNesta matriz de utilização da terra, a exploração pecuária está quase sempre presente e intimamente associada à produção agrícola propriamente dita, complementando-se uma à outra e, por isso, configurando uma verdadeira atividade agropecuária.\n\nTal como a produção vegetal, a animal é, na grande maioria dos casos, de muito pequena dimensão e, neste caso particular, com o objetivo principal de suprir as necessidades do agregado familiar em proteínas, não se podendo comparar à exploração pecuária com fins exclusivamente comerciais e, por analogia, sem a devida modulação e adequação, obrigá-la à satisfação das mesmas exigências e requisitos legais aplicáveis.\n\nNesta perspetiva, e à falta de melhor definição legal, a «detenção caseira» de espécies animais, especialmente de bovinos, assume uma expressão muito significativa na agropecuária da Região Autónoma da Madeira, assumindo um inestimável papel na segurança alimentar da população agrícola familiar, pelo que é de importância crucial apoiar e sustentá-la.\n\nÉ de notar que o consumo de carne de bovino na Região Autónoma da Madeira sempre deteve características muito particulares e de transmissão secular e, como tal, com declarado valor cultural.\n\nPor tudo o atrás exposto, impõe-se uma adaptação à Região Autónoma da Madeira do Novo Regime do Exercício da Atividade Pecuária (NREAP), aprovado pelo Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, atendendo às especificidades do exercício da atividade agropecuária neste território.\n\nDesta forma, é impreterível definir um conceito e dimensão da «detenção caseira» adequados, e conferir um prazo suficiente para que as explorações pecuárias da Região Autónoma da Madeira possam adaptar-se devidamente à regulamentação comunitária aplicável à atividade.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º e nas alíneas g), i), oo) e pp) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, na redação e numeração da Lei n.º 130/99, de 21 de agosto, e da Lei n.º 12/2000, de 21 de junho, e do n.º 8 do artigo 1.º do Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, o seguinte:"
+  },
+  "124599416": {
+   "fragment_id": "124599319",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma adapta à Região Autónoma da Madeira o Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, que aprova o Novo Regime do Exercício da Atividade Pecuária (NREAP).,"
+  },
+  "124599417": {
+   "fragment_id": "124599320",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\na) «Detenção caseira» - a detenção livre, de um número reduzido de espécies pecuárias não cinegéticas, por pessoa singular ou coletiva, isenta de licenciamento no NREAP, mas sujeita a registo no Sistema Nacional de Identificação e Registo Animal (SNIRA), considerando-se que a posse desses animais tem o objetivo de lazer, ou de autoabastecimento do agregado da exploração agropecuária familiar.\n\nb) «Responsável sanitário» - o médico veterinário acreditado, reconhecido pela autoridade veterinária regional, que providencia a aplicação das normas higiossanitárias e de bem-estar animal na exploração pecuária, no entreposto ou no centro de agrupamento."
+  },
+  "124599418": {
+   "fragment_id": "124599321",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Normas de aplicação\n\nA referência feita no n.º 6 e 7 do artigo 1.º do Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, ao membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural, considera-se reportada ao Secretário Regional de Agricultura e Pescas."
+  },
+  "124599419": {
+   "fragment_id": "124599322",
+   "type": 11,
+   "heading": "Artigo 4.º — Classificação das atividades pecuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Classificação das atividades pecuárias\n\nA classificação das atividades pecuárias é a constante da tabela do Anexo I ao presente diploma, do qual faz parte integrante."
+  },
+  "124599420": {
+   "fragment_id": "124599323",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nRequisitos formais e elementos instrutórios do pedido de autorização de instalação, da declaração prévia, do registo e de regularização excecional das atividades\n\nO pedido de autorização referido no n.º 7 da Secção I e a instrução da declaração prévia referida no n.º 6 da Secção II do Anexo III - Requisitos formais e elementos instrutórios do pedido de autorização de instalação, da declaração prévia, do registo e de regularização excecional das atividades, do Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, na Região Autónoma da Madeira, também podem ser apresentados em formato papel em quintuplicado."
+  },
+  "124599421": {
+   "fragment_id": "124599324",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime da «detenção caseira»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime da «detenção caseira»\n\n1 - O regime de «detenção caseira» permite a detenção de várias espécies pecuárias até ao limite de 4 CN por instalação, de acordo com a tabela de conversão constante do Anexo II, até ao número máximo de animais por espécie fixado no item respetivo da tabela constante do Anexo I, anexos estes que fazem parte integrante do presente diploma.\n\n2 - Por portaria do Secretário Regional de Agricultura e Pescas serão fixados os requisitos mínimos a que deve obedecer o regime de «detenção caseira», designadamente os que respeitam à saúde e bem-estar animal, à proteção do ambiente e à salvaguarda da saúde pública, bem como ao cumprimento de normas específicas aplicáveis à produção de leite.\n\n3 - Os detentores de espécies pecuárias que se enquadrem no regime de «detenção caseira» devem proceder ao registo prévio das suas atividades junto dos serviços competentes da Direção Regional de Agricultura (DRA), através de modelo próprio a constar da portaria referida no n.º 2.\n\n4 - Os detentores das espécies pecuárias que desenvolvem, dentro do regime da «detenção caseira», a atividade de produção de leite, devem requerer o seu registo prévio através de modelo específico a constar da portaria referida no n.º 2 do presente artigo.\n\n5 - O registo é considerado definitivo assim que seja verificada pelos serviços competentes da DRA, a conformidade com os requisitos fixados na portaria referida no n.º 2 do presente artigo, ato este que dá origem a uma autorização de exercício da atividade em regime de «detenção caseira».\n\n6 - No caso de não se verificar, parcial ou totalmente, o referido no número anterior, o produtor dispõe de um período máximo de 3 meses para o cumprimento dos requisitos estabelecidos.\n\n7 - O prazo definido no número anterior poderá ser prorrogado, em situações imprevistas e devidamente constatadas."
+  },
+  "124599422": {
+   "fragment_id": "124599325",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração de prazos\n\n1 - As atividades pecuárias enquadradas na classificação «Detenção Caseira» e «Classe 3»,já licenciadas ou autorizadas ao abrigo de legislação anterior que não possuam título válido ou atualizado, e desde que não configurem situações de desconformidade com os instrumentos de gestão territorial, deverão promover junto da DRA até 31 de dezembro de 2017, a atualização do registo da exploração e solicitar a legalização da sua atividade pecuária, com a atualização do cadastro de acordo com as disposições do presente decreto legislativo regional, das portarias regulamentares e demais legislação aplicável, bem como solicitar a emissão das licenças ou títulos complementares à atividade pecuária que sejam exigidos.\n\n2 - A DRA, caso assim o entenda, pode solicitar parecer a outras entidades de acordo com as suas atribuições e competências, com vista a uma decisão final.\n\n> Nota: [Artigo 8.º, Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533) O n.º 1 do artigo 7.º produz efeitos reportados a 1 de janeiro de 2018."
+  },
+  "124599423": {
+   "fragment_id": "124599326",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades públicas\n\nAs referências feitas no Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, às entidades públicas Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), Direção Regional de Agricultura e Pescas (DRAP), Agência Portuguesa do Ambiente, I. P. (APA, I. P.), Comissão de Coordenação e Desenvolvimento Regional (CCDR), Direção-Geral da Saúde (DGS), Direção-Geral de Alimentação e Veterinária (DGAV) e Direção Regional da Autoridade para as Condições de Trabalho, consideram-se reportadas à Direção Regional de Agricultura, à Direção Regional do Ordenamento do Território e Ambiente, à Câmara Municipal territorialmente competente, ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, e à Direção Regional do Trabalho."
+  },
+  "124599424": {
+   "fragment_id": "124599327",
+   "type": 11,
+   "heading": "Artigo 9.º — Cargo dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cargo dirigente\n\nA referência feita no Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, ao cargo de Diretor-Geral de Alimentação e Veterinária, considera-se reportado ao cargo de Diretor Regional de Agricultura."
+  },
+  "124599425": {
+   "fragment_id": "124599328",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\nA referência feita ao Estado na sanção acessória descrita na alínea a) do n.º 1 do artigo 47.º do Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, considera-se reportada à Região Autónoma da Madeira."
+  },
+  "124599426": {
+   "fragment_id": "124599329",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência sancionatória\n\nA instrução dos processos de contraordenação e aplicação das coimas e das sanções acessórias compete à Direção Regional de Agricultura, sem prejuízo das competências atribuídas por lei a outras entidades com atribuições de fiscalização."
+  },
+  "124599427": {
+   "fragment_id": "124599330",
+   "type": 11,
+   "heading": "Artigo 12.º — Destino da receita das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destino da receita das coimas\n\nA afetação do produto das coimas cobradas constitui receita própria da Região Autónoma da Madeira."
+  },
+  "124599428": {
+   "fragment_id": "124599331",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Taxas\n\n1 - Dos atos resultantes da aplicação do presente diploma, será devida uma taxa, da responsabilidade do requerente, a fixar por portaria conjunta dos Secretários Regionais das Finanças e da Administração Pública e de Agricultura e Pescas.\n\n2 - Sem prejuízo do disposto no número anterior, em casos devidamente fundamentados, poderão ser estabelecidas isenções ao pagamento de taxas, através de despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública e de Agricultura e Pescas.\n\n> Nota: [Artigo 8.º, Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533) O n.º 2 do artigo 13.º produz efeitos reportados a 21 de agosto de 2015."
+  },
+  "124599429": {
+   "fragment_id": "124599332",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 15/2012/M, de 19 de julho."
+  },
+  "124599430": {
+   "fragment_id": "124599333",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente Decreto Legislativo Regional entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124599432": {
+   "fragment_id": "124599335",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 4.º)\n\nTABELA\n\nClassificação das atividades pecuárias\n\n(ver documento original)"
+  },
+  "124599433": {
+   "fragment_id": "124599336",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 6.º)\n\nTABELA DE CONVERSÃO\n\nEquivalências em cabeças normais (CN) (1)\n\n(ver documento original)\n\n(1) Cabeça normal - CN - unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva.\n\npv = peso vivo."
+  },
+  "124602803": {
+   "fragment_id": "124599323",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos formais e elementos instrutórios do pedido de autorização de instalação, da declaração prévia, do registo e de regularização excecional das atividades",
+   "in_force_from": "2019-09-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos formais e elementos instrutórios do pedido de autorização de instalação, da declaração prévia, do registo e de regularização excecional das atividades\n\n1- O pedido de autorização referido no n.º 7 da Secção I e a instrução da declaração prévia referida no n.º 6 da Secção II do Anexo III - Requisitos formais e elementos instrutórios do pedido de autorização de instalação, da declaração prévia, do registo e de regularização excecional das atividades, do Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, na Região Autónoma da Madeira, também podem ser apresentados em formato papel em quintuplicado.\n\n2 - Para a atividade pecuária enquadrada na classificação «Classe 2» em sistema extensivo, e para a atividade pecuária enquadrada na classificação «Classe 2» até um máximo de 60 CN, independentemente do seu sistema de produção, os elementos instrutórios da declaração prévia a que se refere o n.º 4 da Secção II do Anexo III referido no número anterior, são os constantes do anexo III ao presente diploma, e que dele faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+  },
+  "124602804": {
+   "fragment_id": "124599324",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime da «detenção caseira»",
+   "in_force_from": "2019-09-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+   ],
+   "markdown": "###### Artigo 6.º — Regime da «detenção caseira»\n\n1 - O regime de «detenção caseira» permite a detenção de várias espécies pecuárias até ao limite de 4 CN por instalação, de acordo com a tabela de conversão constante do Anexo II, até ao número máximo de animais por espécie fixado no item respetivo da tabela constante do Anexo I, anexos estes que fazem parte integrante do presente diploma.\n\n2 - Por portaria do Secretário Regional de Agricultura e Pescas são fixados os procedimentos relativos ao registo prévio, bem como os requisitos mínimos a que deve obedecer a atividade pecuária enquadrada na classificação de «detenção caseira», designadamente os que respeitam à saúde e bem-estar animal, à proteção do ambiente e à salvaguarda da saúde pública, e quanto ao cumprimento de normas específicas aplicáveis à produção de leite.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+  },
+  "124602595": {
+   "fragment_id": "124602506",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Explorações da 'Classe 3'",
+   "in_force_from": "2019-09-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+   ],
+   "markdown": "###### Artigo 6.º-A — Explorações da 'Classe 3'\n\nPor portaria do Secretário Regional de Agricultura e Pescas são fixados os procedimentos relativos ao registo prévio, bem como os requisitos mínimos a que deve obedecer a atividade pecuária enquadrada na classificação de 'Classe 3', designadamente os que respeitam à saúde e bem-estar animal, à proteção do ambiente e à salvaguarda da saúde pública, e quanto ao cumprimento de normas específicas aplicáveis à produção de leite.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+  },
+  "124602805": {
+   "fragment_id": "124599325",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração de prazos",
+   "in_force_from": "2019-09-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+   ],
+   "markdown": "###### Artigo 7.º — Alteração de prazos\n\n1 - As atividades pecuárias enquadradas na classificação «detenção caseira» e «Classe 3», já licenciadas ou autorizadas ao abrigo de legislação anterior que não possuam título válido ou atualizado, e desde que não configurem situações de desconformidade com os instrumentos de gestão territorial, devem promover junto da Direção Regional de Agricultura até 31 de março de 2020, a atualização do registo da exploração e solicitar a legalização da sua atividade pecuária, com a atualização do cadastro de acordo com as disposições do presente decreto legislativo regional, das portarias regulamentares e demais legislação aplicável, bem como solicitar a emissão das licenças ou títulos complementares à atividade pecuária que sejam exigidos.\n\n2 - A DRA, caso assim o entenda, pode solicitar parecer a outras entidades de acordo com as suas atribuições e competências, com vista a uma decisão final.\n\n> Nota: [Artigo 8.º, Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533) O n.º 1 do artigo 7.º produz efeitos reportados a 1 de janeiro de 2018.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+  },
+  "124602597": {
+   "fragment_id": "124599326",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades públicas\n\nAs referências feitas no Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, às entidades públicas Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), Direção Regional de Agricultura e Pescas (DRAP), Agência Portuguesa do Ambiente, I. P. (APA, I. P.), Comissão de Coordenação e Desenvolvimento Regional (CCDR), Direção-Geral da Saúde (DGS), Direção-Geral de Alimentação e Veterinária (DGAV) e Direção Regional da Autoridade para as Condições de Trabalho, consideram-se reportadas à Direção Regional de Agricultura, à Direção Regional do Ordenamento do Território e Ambiente, à Câmara Municipal territorialmente competente, ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, e à Direção Regional do Trabalho."
+  },
+  "124602598": {
+   "fragment_id": "124599327",
+   "type": 11,
+   "heading": "Artigo 9.º — Cargo dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cargo dirigente\n\nA referência feita no Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, ao cargo de Diretor-Geral de Alimentação e Veterinária, considera-se reportado ao cargo de Diretor Regional de Agricultura."
+  },
+  "124602599": {
+   "fragment_id": "124599328",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\nA referência feita ao Estado na sanção acessória descrita na alínea a) do n.º 1 do artigo 47.º do Decreto-Lei n.º 81/2013, de 14 de junho, retificado pela Declaração de Retificação n.º 31/2013, de 24 de julho, e alterado pelos Decreto-Lei n.º 165/2014, de 5 de novembro e Decreto-Lei n.º 85/2015, de 21 de maio, considera-se reportada à Região Autónoma da Madeira."
+  },
+  "124602600": {
+   "fragment_id": "124599329",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência sancionatória\n\nA instrução dos processos de contraordenação e aplicação das coimas e das sanções acessórias compete à Direção Regional de Agricultura, sem prejuízo das competências atribuídas por lei a outras entidades com atribuições de fiscalização."
+  },
+  "124602601": {
+   "fragment_id": "124599330",
+   "type": 11,
+   "heading": "Artigo 12.º — Destino da receita das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destino da receita das coimas\n\nA afetação do produto das coimas cobradas constitui receita própria da Região Autónoma da Madeira."
+  },
+  "124602806": {
+   "fragment_id": "124599331",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas",
+   "in_force_from": "2019-09-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+   ],
+   "markdown": "###### Artigo 13.º — Taxas\n\n1 - Dos atos resultantes da aplicação do presente diploma, será devida uma taxa, da responsabilidade do requerente, a fixar por portaria conjunta dos Secretários Regionais das Finanças e da Administração Pública e de Agricultura e Pescas.\n\n2 - Não será aplicada qualquer taxa aos processos relativos à regularização e reclassificação das atividades pecuárias independentemente da sua classificação.\n\n3 - Sem prejuízo do disposto no n.º 1, pode ser conferida a isenção de pagamento das taxas a estabelecer, através de despacho conjunto das entidades ali referidas, desde que requerida por pessoas coletivas de utilidade pública, instituições particulares de solidariedade social e pessoas coletivas sem fins lucrativos, sempre que o pedido se enquadre nos fins estatutários e no plano de atividades do requerente, e ainda, por pessoas singulares comprovado que seja o manifesto interesse público.\n\n> Nota: [Artigo 8.º, Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533) O n.º 2 do artigo 13.º produz efeitos reportados a 21 de agosto de 2015.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+  },
+  "124602603": {
+   "fragment_id": "124599332",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 15/2012/M, de 19 de julho."
+  },
+  "124602604": {
+   "fragment_id": "124599333",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente Decreto Legislativo Regional entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124602605": {
+   "fragment_id": "124599334",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de julho de 2015.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 31 de julho de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "124602802": {
+   "fragment_id": "124599335",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 4.º)",
+   "in_force_from": "2019-09-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 4.º)\n\nTABELA\n\nClassificação das atividades pecuárias\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+  },
+  "124602607": {
+   "fragment_id": "124599336",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 6.º)\n\nTABELA DE CONVERSÃO\n\nEquivalências em cabeças normais (CN) (1)\n\n(ver documento original)\n\n(1) Cabeça normal - CN - unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva.\n\npv = peso vivo."
+  },
+  "124602654": {
+   "fragment_id": "124602520",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 5.º)",
+   "in_force_from": "2019-09-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 5.º)\n\nElementos instrutórios a apresentar no licenciamento da atividade pecuária enquadrada na classificação «Classe 2»\n\nEm sistema extensivo; e\n\nTodas as explorações pecuárias, independentemente do seu sistema de produção, até a um máximo de 60 CN.\n\nA - Identificação:\n\na) Identificação da atividade pecuária, com indicação do nome ou denominação social, o endereço ou Sede social, NIF ou NIPC, endereço postal (se diferente da sede), endereço eletrónico e número de telefone;\n\nb) Identificação do requerente e das pessoas designadas para interlocução com a entidade coordenadora, com indicação do nome, endereço postal, endereço eletrónico, número de telefone;\n\nc) Identificação do responsável técnico pela operação.\n\nB - Memória descritiva da atividade contemplando:\n\na) Descrição das espécies animais presentes na exploração, identificação da marca, caso exista, e o tipo de produção;\n\nb) Área total de implantação e de construção das edificações existentes e/ou propostas, volumetria e cércea máxima, número de pisos, área de impermeabilização, altura da fachada e do edifício;\n\nc) Descrição das superfícies agrícolas de suporte da exploração pecuária, se aplicável;\n\nd) Referência ao sistema de informação parcelar (SIP) que permita identificar geograficamente a exploração pecuária;\n\ne) Descrição dos efluentes pecuários produzidos e respetivo destino final, com a apresentação de Plano de Gestão de Efluentes, para explorações com uma quantidade de produção de efluentes superior a 200 m3 ou 200 t por ano, tal como disposto na Portaria n.º 631/2009, de 9 de junho, alterada pela Portaria n.º 114-A/2011, de 23 de março;\n\nf) Licença de localização da atividade pecuária, emitida pelo município da área onde se localiza a exploração, quando a instalação da atividade envolva a realização de operação urbanística sujeita a controlo prévio.\n\nC - Peças gráficas:\n\na) Planta de localização e enquadramento à escala de 1:10.000, com indicação dos limites do terreno afeto ao estabelecimento, se aplicável;\n\nb) Planta de implantação à escala não inferior a 1:200 com indicação dos limites e modelação de terreno e implantação de edifícios, se aplicável.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 14/2019/M - Diário da República n.º 173/2019, Série I de 2019-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-124572533), em vigor a partir de 2019-09-11"
+  }
+ }
+}

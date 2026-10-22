@@ -1,0 +1,334 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177528433:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-177528447",
+ "dre_path": "/dr/detalhe/decreto-lei/12-2022-177528433",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-01-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177532637",
+    "177532638",
+    "177532639",
+    "177532640",
+    "177532641",
+    "177532642",
+    "177532643",
+    "177532644",
+    "177532646",
+    "177532647",
+    "177532648",
+    "177532649",
+    "177532650",
+    "177532651",
+    "177532652",
+    "177532653",
+    "177532654",
+    "177532655",
+    "177532656",
+    "177532657",
+    "177532658",
+    "177532659",
+    "177532660",
+    "177532661",
+    "177532662",
+    "177532663",
+    "177532664",
+    "177532665",
+    "177532666",
+    "177532667",
+    "177532668",
+    "177532669",
+    "177532670",
+    "177532671",
+    "177532672"
+   ]
+  }
+ ],
+ "fragments": {
+  "177532637": {
+   "fragment_id": "177528448",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 12/2022\n\nde 12 de janeiro\n\nSumário: Altera o Fundo de Contragarantia Mútuo.\n\nA criação de um sistema de caucionamento mútuo em Portugal permitiu às pequenas e médias empresas e às microempresas a utilização de um instrumento que em outros países da União Europeia tem demonstrado ser de grande interesse. Tal acontece fundamentalmente pela influência que permite registar na capacidade negocial das pequenas e médias empresas e das microempresas com o sistema financeiro, determinando a consequente redução dos custos financeiros das empresas.\n\nFoi, deste modo, criado o Fundo de Contragarantia Mútuo (Fundo), contribuindo para a necessária solvabilidade do sistema e para o seu desenvolvimento equilibrado.\n\nO Fundo tem sido, ao longo das últimas duas décadas, um instrumento fundamental na concretização das políticas de apoio às pequenas e médias empresas tendo, ao longo desta legislatura, adquirido ainda maior relevância naquele apoio como consequência do reforço das medidas de apoio ao desenvolvimento da economia nacional, no qual estas são as principais protagonistas.\n\nO contexto atual e futuro impõe a modernização do governo interno do Fundo para que este possa contribuir de forma ainda mais adequada para a concretização dos desígnios da política económica definida pelo Governo no que concerne, nomeadamente, à promoção do investimento dinamizador do tecido empresarial, à criação de emprego e consequentemente ao crescimento económico, essencialmente por via das componentes do investimento e das exportações.\n\nPor outro lado, passam a incluir-se como potenciais destinatárias de garantias individuais prestadas pelo Fundo as Mid Cap e Small Mid Cap, conforme definidas no Decreto-Lei n.º 81/2017, de 30 de junho, na sua redação atual.\n\nImporta igualmente proceder a alterações ao nível da composição e das competências do conselho geral, por forma a garantir uma maior agilidade na operacionalização do Fundo e dos seus instrumentos.\n\nAtualiza-se ainda o modelo de fiscalização do Fundo, cujas contas passam a ter de ser certificadas por um revisor oficial de contas e a estar sujeitas à fiscalização pela Inspeção-Geral de Finanças.\n\nPor outro lado, é alterado o Decreto-Lei n.º 211/98, de 16 de julho, na sua redação atual, que regula a atividade das Sociedades de Garantia Mútua (SGM), no mesmo sentido de atualização de um diploma datado que impõe uma estrutura pesada para a concessão de garantias por essas sociedades, nomeadamente através da transformação do respetivo capital social para capital variável e da atribuição às SGM de um direito de aquisição das ações dos sócios beneficiários que não têm qualquer operação em curso há determinado período de tempo.\n\nFoi ouvido o Banco de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "177532638": {
+   "fragment_id": "177528449",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À quinta alteração ao Decreto-Lei n.º 211/98, de 16 de julho, alterado pelos Decretos-Leis n.os 19/2001, de 30 de janeiro, 309-A/2007, de 7 de setembro, 157/2014, de 24 de outubro, e 100/2015, de 2 de junho, que regula a atividade das sociedades de garantia mútua;\n\nb) À quinta alteração ao Decreto-Lei n.º 229/98, de 22 de julho, alterado pelos Decretos-Leis n.os 46/2013, de 5 de abril, 25/2017, de 3 de março, 33/2018, de 15 de maio, e 84/2019, de 28 de junho, que cria o Fundo de Contragarantia Mútuo."
+  },
+  "177532639": {
+   "fragment_id": "177528450",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 229/98, de 22 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 229/98, de 22 de julho\n\nOs artigos 2.º, 4.º, 6.º, 7.º, 8.º, 10.º, 12.º, 16.º, 18.º e 19.º do Decreto-Lei n.º 229/98, de 22 de julho, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) De emissões de instrumentos financeiros representativos de dívida, enquadradas em regimes abertos ou medidas não individuais propostos pela sociedade gestora, podendo as respetivas emissões envolver um ou mais emitentes no âmbito da mesma operação de financiamento;\n\nc) De linhas de crédito especiais, destinadas a micro, pequenas e médias empresas e Mid Cap, mediante a emissão de garantias de carteira, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação;\n\nd) De linhas de crédito destinadas a Small Mid Cap e Mid Cap, mediante a emissão de garantias individuais, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação.\n\n2 - [...].\n\n3 - (Revogado.)\n\n4 - O total dos montantes anualmente garantidos nos termos das alíneas b), c) e d) do n.º 1 não pode exceder um valor superior a 30 % do montante total das garantias prestadas pelo Fundo nos termos do n.º 1 no ano transato, sem prejuízo do disposto no número seguinte.\n\n5 - Em qualquer caso, o valor acumulado de garantias por amortizar ao abrigo das alíneas b), c) e d) do n.º 1 não pode exceder o correspondente a 20 % do valor acumulado de garantias prestadas, e ainda não amortizadas, pelo Fundo, nos termos da alínea a) do n.º 1.\n\n6 - O disposto nos n.os 4, 5 e 8 não afeta, a cada momento, as garantias já prestadas, ainda que impossibilite a emissão de novas garantias para efeitos das alíneas b), c) e d) do n.º 1.\n\n7 - As operações a realizar pelo Fundo ao abrigo das alíneas b), c) e d) do n.º 1 apenas podem ser realizadas em benefício de entidades que não se encontrem em dificuldades financeiras de acordo com a legislação europeia em matéria de auxílios de Estado aplicável à operação, e, em relação à alínea b), deve ser promovida uma avaliação de notação de risco de crédito dos emitentes por entidade independente.\n\n8 - O montante garantido por operação não pode exceder 50 % do valor dos instrumentos previstos na alínea b) e na alínea d) do n.º 1 e 40 % do valor do instrumento previsto na alínea c) do n.º 1.\n\n9 - Para efeitos de concessão de garantias pelo Fundo, consideram-se 'empresas' qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica, sendo a categoria de micro, pequenas e médias empresas definida no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, e a categoria de Small Mid Cap e de Mid Cap definida no Decreto-Lei n.º 81/2017, de 30 de junho, na sua redação atual.\n\n10 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 2.º, as operações a realizar pelo Fundo não podem garantir o cumprimento de obrigações de empresas que façam parte do setor financeiro, designadamente, instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica, empresas de investimento, organismos de investimento coletivo, capital de risco, fundos de pensões, fundos de titularização, respetivas sociedades gestoras, sociedades de titularização, organismos de investimento alternativo especializado de créditos, sociedades de capital de risco, fundos de capital de risco e empresas de seguros e resseguros, nem de fundos autónomos.\n\n11 - As operações a realizar pelo Fundo são precedidas de uma análise de risco, a realizar pela sociedade gestora, dos elementos essenciais da operação, designadamente o respetivo montante, prazo, definição das entidades beneficiárias da operação a garantir, condições da garantia a conceder e respetiva sinistralidade estimada numa base plurianual.\n\nArtigo 4.º\n\n[...]\n\n1 - [...].\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A sociedade gestora do Fundo é o Banco Português de Fomento, S. A.\n\nArtigo 6.º\n\n[...]\n\n1 - O Fundo tem um conselho geral, presidido pelo responsável máximo da Direção-Geral do Tesouro e Finanças, que tem voto de qualidade, por um representante da Direção-Geral do Orçamento, por um representante do IAPMEI - Agência para a Competitividade e Inovação, I. P., por um representante do Instituto do Turismo de Portugal, I. P., por um representante da sociedade gestora do fundo e um representante das sociedades de garantia mútua.\n\n2 - [...].\n\n3 - Sem prejuízo do n.º 1, o presidente pode convocar para cada reunião outras entidades em razão da matéria a discutir, as quais não são titulares de direito de voto.\n\nArtigo 7.º\n\n[...]\n\n1 - Compete ao conselho geral do Fundo:\n\na) Pronunciar-se, sob proposta da sociedade gestora, sobre os fatores de agravamento que, aplicados à taxa de base, permitam definir o quantitativo das comissões devidas ao Fundo pela contragarantia do saldo vivo da carteira das sociedades de garantia mútua, podendo estabelecer escalões da contribuição anual, atendendo, nomeadamente, ao montante, prazo e sinistralidade histórica da carteira;\n\nb) Pronunciar-se, para efeitos do disposto no artigo 12.º, sobre quaisquer propostas de regulamentos relativos à atividade do Fundo, elaboradas pela sociedade gestora;\n\nc) Pronunciar-se sobre a tomada pelo Fundo de participações sociais em sociedades de garantia mútua, quando as circunstâncias o justifiquem, no sentido de promover a liquidez das ações por aquelas emitidas, fixando, em função da situação de cada sociedade de garantia mútua, o valor a atribuir às ações;\n\nd) Pronunciar-se sobre o relatório e contas da atividade do Fundo;\n\ne) Pronunciar-se sobre qualquer outra matéria relativa ao objeto e atividades do Fundo.\n\n2 - Os pareceres do conselho geral previstos no presente decreto-lei não têm caráter vinculativo.\n\nArtigo 8.º\n\n[...]\n\n1 - O conselho geral reúne anualmente, após a aprovação das contas do Fundo, para se pronunciar sobre o previsto na alínea a) do n.º 1 do artigo anterior, bem como sobre todos os assuntos que lhe sejam submetidos pela sociedade gestora do Fundo.\n\n2 - [...].\n\nArtigo 10.º\n\n[...]\n\n1 - A taxa base das contribuições periódicas, previstas na alínea a) do n.º 1 do artigo 7.º é fixada por portaria do membro do Governo responsável pela área das finanças, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo.\n\n2 - [...].\n\n3 - [...].\n\nArtigo 12.º\n\n[...]\n\nOs membros do Governo responsáveis pelas áreas da economia e das finanças aprovam, por portaria, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo, ouvido o Banco de Portugal, os regulamentos que se revelem necessários ao funcionamento e a uma gestão sã e prudente do Fundo.\n\nArtigo 16.º\n\n[...]\n\n1 - A fiscalização do Fundo, para além das funções exercidas pelo ROC, é exercida também pela Inspeção-Geral de Finanças, que fiscaliza o seu funcionamento, o cumprimento das leis e dos regulamentos que lhe são aplicáveis e emite parecer sobre as suas contas anuais.\n\n2 - Como suporte à atividade de fiscalização, a sociedade gestora pode solicitar a intervenção de auditores externos no processo de apreciação de contas anuais, sendo as despesas suportadas pelo Fundo.\n\nArtigo 18.º\n\n[...]\n\nSão aplicáveis ao Fundo, com as necessárias adaptações, as Normas Internacionais de Contabilidade/Normas Internacionais de Relato Financeiro (NIC/NIRF), tal como adotadas, em cada momento, por Regulamento da União Europeia e respeitando a estrutura conceptual para a preparação de demonstrações financeiras que enquadra aquelas normas.\n\nArtigo 19.º\n\n[...]\n\n1 - [...].\n\n2 - A sociedade gestora do fundo envia, para aprovação, aos membros do Governo responsáveis pelas áreas da economia e das finanças o relatório e contas, ouvido o conselho geral, no prazo máximo de 30 dias a contar da sua aprovação, incluindo uma proposta de aplicação de resultados.\n\n3 - A proposta de aplicação dos resultados referida no número anterior pode contemplar o eventual retorno dos recursos às sociedades de garantia mútua participantes, na proporção das suas contribuições.\n\n4 - A aprovação pelos membros do Governo responsáveis pelas áreas da economia e das finanças prevista no n.º 2 é concedida no prazo máximo de 30 dias a contar do envio pela sociedade gestora.»"
+  },
+  "177532640": {
+   "fragment_id": "177528451",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 211/98, de 16 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 211/98, de 16 de julho\n\nÉ aditado ao Decreto-Lei n.º 211/98, de 16 de julho, na sua redação atual, o artigo 19.º-A, com a seguinte redação:\n\n«Artigo 19.º-A\n\nConversão das ações com valor nominal\n\nAs ações emitidas com valor nominal ficam convertidas em ações sem valor nominal, correspondendo o valor nominal ao valor de emissão.»"
+  },
+  "177532641": {
+   "fragment_id": "177528452",
+   "type": 11,
+   "heading": "Artigo 4.º — Aditamento ao Decreto-Lei n.º 229/98, de 22 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aditamento ao Decreto-Lei n.º 229/98, de 22 de julho\n\nSão aditados ao Decreto-Lei n.º 229/98, de 22 de julho, na sua redação atual, os artigos 12.º-A e 15.º-A, com a seguinte redação:\n\n«Artigo 12.º-A\n\nDever de reporte e sistema de informação\n\n1 - A sociedade gestora do Fundo remete aos membros do conselho geral, até ao fim do mês seguinte ao termo de cada semestre de calendário, um reporte que inclua, designadamente:\n\na) As operações realizadas e não amortizadas, à data, pelo Fundo, detalhadas por linha ou regime, incluindo informação relativa ao número, tipologia, classe de dimensão empresarial e setores de atividade de empresas beneficiárias, montantes financiados, garantias e contragarantias prestadas pelas sociedades de garantia mútua e pelo Fundo, quando aplicável;\n\nb) A sinistralidade incorrida e estimada, numa base plurianual, com o detalhe de informação previsto na alínea anterior.\n\n2 - O Banco de Portugal pode solicitar à sociedade gestora do Fundo a informação relevante relativa ao cumprimento da legislação prudencial aplicável às técnicas de mitigação do risco de crédito.\n\n3 - A sociedade gestora do Fundo deve assegurar a existência de um sistema de informação atualizado que permita, a qualquer momento, disponibilizar a informação prevista nos números anteriores, ou outra que lhe seja exigível.\n\nArtigo 15.º-A\n\nRevisor oficial de contas\n\n1 - O Fundo tem as suas contas certificadas por um revisor oficial de contas (ROC).\n\n2 - O ROC é designado pela sociedade gestora e não pode desempenhar as mesmas funções na respetiva sociedade gestora ou pertencer ao mesmo grupo do ROC da sociedade gestora.\n\n3 - As despesas relativas ao ROC são suportadas pelo Fundo.»"
+  },
+  "177532642": {
+   "fragment_id": "177528453",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados o n.º 3 do artigo 2.º e os n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 229/98, de 22 de julho, na sua redação atual."
+  },
+  "177532643": {
+   "fragment_id": "177528454",
+   "type": 11,
+   "heading": "Artigo 6.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Republicação\n\n1 - É republicado no anexo i ao presente decreto-lei e do qual faz parte integrante, o Decreto-Lei n.º 211/98, de 16 de julho, com a redação introduzida pelo presente decreto-lei.\n\n2 - É republicado no anexo ii ao presente decreto-lei e do qual faz parte integrante, o Decreto-Lei n.º 229/98, de 22 de julho, com a redação introduzida pelo presente decreto-lei.\n\n3 - Para efeitos das republicações onde se lê «diploma» deve ler-se «decreto-lei», e o tempo verbal adotado na redação de todas as normas é o presente do indicativo."
+  },
+  "177532644": {
+   "fragment_id": "177528455",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - As alterações ao Decreto-Lei n.º 229/98, de 22 de julho, e ao Decreto-Lei n.º 211/98, de 16 de julho, introduzidas pelo presente decreto-lei apenas produzem efeitos para as garantias que sejam concedidas ao seu abrigo após o prazo previsto no número anterior."
+  },
+  "177532646": {
+   "fragment_id": "177528457",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "177532647": {
+   "fragment_id": "177528458",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "177532648": {
+   "fragment_id": "177528459",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de garantia mútua são sociedades financeiras que têm por objeto exclusivo a realização de operações financeiras e a prestação dos serviços conexos previstos no presente decreto-lei em benefício de micro, pequenas e médias empresas, ou outras pessoas coletivas, qualquer que seja a sua natureza jurídica, designadamente associações e agrupamentos complementares de empresas, bem como pessoas singulares, em especial estudantes e investigadores, regendo-se pelo disposto no presente decreto-lei, no Código Comercial e demais legislação comercial e, em particular, pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual."
+  },
+  "177532649": {
+   "fragment_id": "177528460",
+   "type": 11,
+   "heading": "Artigo 2.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objeto\n\n1 - As sociedades de garantia mútua podem realizar as operações e prestar os serviços seguintes:\n\na) Concessão de garantias destinadas a assegurar o cumprimento de obrigações contraídas por acionistas beneficiários ou por outras pessoas jurídicas, singulares ou coletivas, não acionistas, no âmbito de operações de garantia de carteira nos termos do n.º 2, designadamente garantias acessórias de contratos de mútuo;\n\nb) Promoção, em favor dos acionistas beneficiários, da obtenção de recursos financeiros junto de instituições de crédito ou de outras instituições financeiras, nacionais ou estrangeiras;\n\nc) Participação na colocação, em mercado primário ou em mercado secundário, de ações, obrigações ou de quaisquer outros valores mobiliários, bem como de títulos de crédito emitidos nos termos do Decreto-Lei n.º 181/92, de 22 de agosto, desde que a entidade emitente seja acionista beneficiário ou se encontrem previstos no n.º 2, e prestação de serviços correlativos;\n\nd) Prestação de serviços de consultoria de empresas, aos acionistas beneficiários, em áreas associadas à gestão financeira, designadamente em matéria de estrutura do capital, de estratégia empresarial e de questões conexas, bem como no domínio da fusão, cisão e compra ou venda de empresas.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, a concessão de garantias de carteira a linhas de crédito especiais, designadamente para microcréditos e para empréstimos a estudantes do ensino superior, bolseiros de doutoramento e pós-doutoramento e investigadores, depende do reconhecimento, pelas sociedades de garantia mútua e pela sociedade gestora do Fundo de Contragarantia Mútuo, do seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação e destinam-se a assegurar o cumprimento das obrigações assumidas por essas pessoas jurídicas, sejam singulares ou coletivas, junto das entidades que disponibilizem as referidas linhas de crédito especiais.\n\n3 - Para além dos valores mobiliários emitidos pelos acionistas beneficiários, as sociedades de garantia mútua podem participar na colocação de valores mobiliários que, nos termos das respetivas condições de emissão, confiram direito à subscrição, sejam convertíveis ou permutáveis por ações representativas do capital social de acionistas beneficiários.\n\n4 - As sociedades de garantia mútua não podem tomar firme, total ou parcialmente, colocações de valores mobiliários em que participem, só podendo adquirir para carteira própria os valores mobiliários referidos no n.º 5 do artigo 229.º do Código dos Valores Mobiliários e, de acordo com as regras que venham a ser estabelecidas pelo Banco de Portugal, outros que este autorize.\n\n5 - As sociedades de garantia mútua só podem realizar operações e prestar serviços em benefício de acionistas beneficiários, para o desenvolvimento das respetivas atividades económicas.\n\n6 - Excetua-se do disposto no número anterior as seguintes operações:\n\na) Garantias enquadráveis no n.º 2;\n\nb) Garantias emitidas em benefício de micro, pequenas e médias empresas não acionistas, no âmbito de acordos com outras entidades ou sistemas de garantia fora do território nacional.\n\n7 - As entidades que disponibilizem as linhas de crédito especiais previstas no n.º 2 devem assegurar, previamente à contratação das linhas de crédito, a condição de acionista promotor da sociedade de garantia mútua.\n\n8 - É assegurado, na contratação das garantias de carteira previstas no n.º 2, que o acionista promotor afete à linha de crédito uma parte da sua participação no capital social da sociedade de garantia mútua, sobre a qual é constituído penhor, em benefício da sociedade de garantia mútua, como contrapartida da garantia prestada por essa sociedade, em número de ações e nos termos que venham a ser fixados pelo conselho geral do Fundo de Contragarantia Mútuo, podendo aquela executar o penhor, adjudicando a si o respetivo valor de emissão ou vendendo-as extrajudicialmente."
+  },
+  "177532650": {
+   "fragment_id": "177528461",
+   "type": 11,
+   "heading": "Artigo 3.º — Acionistas beneficiários e acionistas promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acionistas beneficiários e acionistas promotores\n\n1 - As sociedades de garantia mútua têm acionistas beneficiários e, desde que os respetivos estatutos o prevejam, podem ter acionistas promotores.\n\n2 - Só podem ser acionistas beneficiários micro, pequenas e médias empresas, entidades representativas de qualquer uma das categorias de empresas referidas, bem como outras pessoas coletivas, designadamente agrupamentos complementares de empresas, que desenvolvam atividades qualificadas pelas sociedades de garantia mútua e pelo conselho geral do Fundo de Contragarantia Mútuo como de relevante interesse económico.\n\n3 - Os estatutos das sociedades de garantia mútua devem definir com clareza quem pode adquirir a qualidade de acionista beneficiário.\n\n4 - As sociedades de garantia mútua não podem realizar operações nem prestar serviços em benefício de acionistas promotores.\n\n5 - Os acionistas promotores não podem deter, individual ou conjuntamente, direta ou indiretamente, uma participação superior a 50 % do capital social ou dos direitos de voto da sociedade de garantia mútua, exceto nos três primeiros anos contados da data de constituição da sociedade, período durante o qual aquela percentagem é de 75 %.\n\n6 - Sem prejuízo do disposto no número anterior, para efeito de contagem dos direitos de voto é deduzida a quantidade de ações averbadas ou inscritas a favor dos acionistas promotores que tenha sido dada em penhor a favor da sociedade de garantia mútua parceira nos termos do previsto no n.º 8 do artigo 2.º"
+  },
+  "177532651": {
+   "fragment_id": "177528462",
+   "type": 11,
+   "heading": "Artigo 4.º — Firma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Firma\n\nA firma destas sociedades deve incluir a expressão «sociedade de garantia mútua» ou a abreviatura SGM, as quais, ou outras que com elas se confundam, não podem ser usadas por outras entidades que não as previstas no presente decreto-lei."
+  },
+  "177532652": {
+   "fragment_id": "177528463",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma e representação do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma e representação do capital\n\n1 - As sociedades de garantia mútua adotam a forma de sociedade anónima.\n\n2 - As sociedades de garantia mútua têm um capital variável, representado por ações escriturais, sem valor nominal.\n\n3 - As contas de registo ou de depósito nas quais se encontrem registadas ou depositadas ações de sociedades de garantia mútua devem, para além das menções e factos exigidos nos termos gerais, revelar a qualidade de acionista beneficiário ou de acionista promotor.\n\n4 - O capital social das sociedades de garantia mútua só pode ser realizado através de entradas em dinheiro, sem prejuízo da possibilidade de serem efetuados aumentos de capital social na modalidade de incorporação de reservas, nos termos gerais.\n\n5 - Salvo disposição em contrário nos estatutos, o órgão de administração pode deliberar a emissão de novas ações, para subscrição exclusiva por quem pretenda ser sócio beneficiário.\n\n6 - O valor máximo de emissões previstas no número anterior pode ser fixado por deliberação de assembleia geral, com o limite máximo do triplo do capital social inscrito em registo comercial.\n\n7 - Na falta da deliberação referida no número anterior, o valor máximo é do triplo do capital social inscrito em registo comercial.\n\n8 - As ações de sócios beneficiários podem ser ações ordinárias de sócios beneficiários, ou de categorias especiais, nomeadamente, preferenciais sem voto, remíveis ou não, podendo também ser emitidas ações de qualquer categoria com termos final.\n\n9 - As ações de uma mesma emissão devem integrar uma mesma categoria."
+  },
+  "177532653": {
+   "fragment_id": "177528464",
+   "type": 11,
+   "heading": "Artigo 6.º — Realização do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Realização do capital\n\n1 - Na falta de disposição em contrário nos estatutos, as sociedades de garantia mútua têm o direito potestativo de adquirir as ações de sócios beneficiários, ao seu valor de emissão, se o sócio beneficiário não tiver em vigor nenhuma operação prevista no n.º 1 do artigo 2.º há mais de três anos, sendo aplicável o disposto no n.º 5 do artigo 15.º\n\n2 - O direito de aquisição é exercido pelo órgão de administração da sociedade de garantia mútua, através de documento escrito acompanhado de cópia certificada da deliberação do órgão de administração que delibera a aquisição.\n\n3 - O exercício do direito de compra deve ser precedido de um pré-aviso de três meses, por escrito, da intenção da sociedade de garantia mútua de exercer o direito de aquisição das ações.\n\n4 - Por forma a obviar ao exercício do direito potestativo previsto no presente artigo, o sócio beneficiário que seja titular de 5 % ou mais do capital social pode solicitar a conversão para sócio promotor, caso os estatutos da sociedade admitam estes sócios.\n\n5 - O pedido de conversão deve ser efetuado no prazo de um mês após o pré-aviso referido no número anterior, ficando sujeito a consentimento da sociedade de garantia mútua, aplicando-se o disposto no n.º 4 do artigo 14.º\n\n6 - Para efeitos do disposto no número anterior, a sociedade gestora deve comunicar a concessão ou recusa do consentimento no prazo de 30 dias.\n\n7 - Em caso de recusa do consentimento prossegue a aquisição potestativa das ações pela sociedade de garantia mútua.\n\n8 - A aquisição prevista no presente artigo não pode implicar o incumprimento ou o agravamento do incumprimento das regras prudenciais aplicáveis."
+  },
+  "177532654": {
+   "fragment_id": "177528465",
+   "type": 11,
+   "heading": "Artigo 7.º — Autorização e revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autorização e revogação da autorização\n\n1 - As sociedades de garantia mútua não podem ser constituídas por um número de acionistas beneficiários inferior a 20.\n\n2 - Para além dos fundamentos previstos nos termos gerais, a autorização das sociedades de garantia mútua pode também ser revogada se:\n\na) Por um período superior a 18 meses, o número de acionistas beneficiários for inferior a 20;\n\nb) A assembleia geral não aprovar as condições gerais de concessão das garantias no prazo de 180 dias contado da data de constituição da sociedade."
+  },
+  "177532655": {
+   "fragment_id": "177528466",
+   "type": 1,
+   "heading": "Capítulo II — Atividade das sociedades de garantia mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Atividade das sociedades de garantia mútua"
+  },
+  "177532656": {
+   "fragment_id": "177528467",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos financeiros\n\n1 - As sociedades de garantia mútua só podem financiar a sua atividade com fundos próprios e através dos seguintes recursos:\n\na) Financiamentos concedidos por instituições de crédito, ou por instituições financeiras, nacionais ou estrangeiras;\n\nb) Suprimentos e outras formas de financiamento concedido pelos acionistas, nos termos legalmente admissíveis;\n\nc) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, elevando os limites fixados no Código das Sociedades Comerciais até ao quádruplo dos seus capitais próprios.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros."
+  },
+  "177532657": {
+   "fragment_id": "177528468",
+   "type": 11,
+   "heading": "Artigo 9.º — Reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reservas\n\n1 - Um montante não inferior a 10 % dos resultados antes de impostos apurados em cada exercício pelas sociedades de garantia mútua é destinado à constituição de um fundo técnico de provisão até ao limite de 10 % do saldo da carteira de garantias concedidas.\n\n2 - O fundo técnico de provisão previsto no número anterior destina-se à cobertura de prejuízos decorrentes da sinistralidade da carteira de garantias.\n\n3 - Uma fração não inferior a 10 % dos lucros líquidos apurados em cada exercício pelas sociedades de garantia mútua deve ser destinada à formação de uma reserva legal, até ao limite do capital emitido.\n\n4 - O Banco de Portugal pode elevar qualquer das duas percentagens referidas no n.º 1."
+  },
+  "177532658": {
+   "fragment_id": "177528469",
+   "type": 11,
+   "heading": "Artigo 10.º — Prestação de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prestação de garantias\n\n1 - As sociedades de garantia mútua não podem conceder garantias a favor dos acionistas beneficiários enquanto não se encontrar integralmente realizada a participação cuja titularidade seja exigida, nos termos do n.º 3 do artigo 13.º, como condição da sua obtenção.\n\n2 - Entre o momento de concessão da garantia e o da respetiva extinção, as ações que integrem a participação cuja titularidade seja exigida como condição de obtenção daquela garantia não podem ser objeto de transmissão, exceto nos casos previstos no n.º 4, e são dadas em penhor em benefício da sociedade de garantia mútua como contragarantia da garantia prestada por aquela sociedade.\n\n3 - Quer a intransmissibilidade quer a constituição de penhor ficam, nos termos gerais, sujeitos a averbamento nas contas de registo ou de depósito em que as ações da sociedade de garantia mútua objeto daquela limitação e daquele ónus se encontrem registadas ou depositadas.\n\n4 - No caso previsto no n.º 2, as ações podem ser objeto de transmissão, nos termos que os estatutos da sociedade de garantia mútua venham a estabelecer, se se verificar alguma das seguintes situações:\n\na) Cisão ou fusão do acionista beneficiário;\n\nb) Cessão da posição contratual no negócio do qual resultem as obrigações garantidas;\n\nc) Falecimento do acionista beneficiário."
+  },
+  "177532659": {
+   "fragment_id": "177528470",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime aplicável às garantias concedidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime aplicável às garantias concedidas\n\n1 - (Revogado.)\n\n2 - A condição de sócio, inicial ou superveniente, da entidade credora da obrigação garantida não afeta o regime jurídico da garantia concedida, a qual se rege pelo disposto no presente decreto-lei, pelas normas legais e regulamentares que, nos termos gerais, lhe sejam aplicáveis e pelas condições gerais de concessão das garantias fixadas nos termos do n.º 3 do artigo 13.º"
+  },
+  "177532660": {
+   "fragment_id": "177528471",
+   "type": 11,
+   "heading": "Artigo 12.º — Não cumprimento de obrigações garantidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Não cumprimento de obrigações garantidas\n\n1 - Em caso de não cumprimento, por algum dos acionistas beneficiários, de obrigação que se encontre garantida pela sociedade de garantia mútua, pode esta, nos termos gerais, executar o penhor constituído, nos termos do n.º 2 do artigo 10.º, sobre as ações do acionista beneficiário.\n\n2 - Independentemente de convenção nesse sentido entre a sociedade de garantia mútua e o acionista beneficiário faltoso, podem as ações objeto do penhor ser adjudicadas àquela sociedade ou ser vendidas extrajudicialmente.\n\n3 - Nos casos previstos no número anterior, o valor das ações para efeitos de adjudicação é o valor de emissão."
+  },
+  "177532661": {
+   "fragment_id": "177528472",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato de sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato de sociedade\n\n1 - Do contrato de sociedade das sociedades de garantia mútua deve constar, sem prejuízo de outros elementos exigidos nos termos gerais:\n\na) Se for caso disso, a possibilidade de existência de acionistas promotores;\n\nb) As entidades que podem subscrever ou, a outro título, adquirir ações na qualidade de acionista beneficiário;\n\nc) As transmissões de ações que, nos termos do artigo 14.º, fiquem sujeitas ao consentimento da sociedade, bem como os casos em que a constituição de penhor e de usufruto sobre ações fique sujeita ao consentimento da sociedade;\n\nd) Especificar os fundamentos com que, de acordo com o n.º 5 do artigo 14.º, o órgão de administração da sociedade de garantia mútua pode recusar o consentimento para a transmissão de ações e para a constituição de penhor ou de usufruto;\n\ne) As condições em que, nos casos previstos no n.º 4 do artigo 10.º, as ações objeto de penhor podem ser transmitidas.\n\n2 - Para além das matérias referidas no n.º 1 do artigo 34.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, ficam igualmente sujeitas a autorização do Banco de Portugal as alterações dos estatutos de sociedades de garantia mútua que versem sobre alguma das matérias elencadas nas alíneas b) e d) do n.º 1.\n\n3 - As assembleias gerais das sociedades de garantia mútua devem aprovar as condições gerais de concessão das garantias, designadamente o montante mínimo da participação de que o acionista beneficiário deve ser titular para que possam ser concedidas garantias a seu favor.\n\n4 - As deliberações referidas no número anterior devem ser comunicadas ao Banco de Portugal."
+  },
+  "177532662": {
+   "fragment_id": "177528473",
+   "type": 11,
+   "heading": "Artigo 14.º — Transmissão de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transmissão de ações\n\n1 - São livres as transmissões de ações entre acionistas beneficiários, entre acionistas promotores e de acionistas promotores para acionistas beneficiários.\n\n2 - A transmissão de ações de acionistas beneficiários ou de acionistas promotores para novos acionistas beneficiários fica obrigatoriamente sujeita ao consentimento da sociedade de garantia mútua.\n\n3 - Não podem ser transmitidas ações de acionistas beneficiários para acionistas promotores ou para novos acionistas promotores.\n\n4 - A competência para conceder ou recusar o consentimento para a transmissão de ações cabe obrigatoriamente ao órgão de administração da sociedade de garantia mútua.\n\n5 - O consentimento para a transmissão de ações só pode ser recusado com fundamento na não verificação, em relação à entidade para a qual se pretendem transmitir as ações, de algum dos requisitos dos quais os estatutos da sociedade de garantia mútua faça depender a possibilidade de subscrever ou, a outro título, adquirir ações na qualidade de acionista beneficiário.\n\n6 - Caso seja recusado o consentimento para a transmissão de ações, a sociedade de garantia mútua fica obrigada a, no prazo de 90 dias contado da data da recusa do consentimento, adquirir ou fazer adquirir por terceiro as ações.\n\n7 - Na situação prevista no número anterior, as ações são adquiridas pelo valor de emissão.\n\n8 - Aplica-se à constituição de penhor ou usufruto sobre ações representativas do capital social de sociedades de garantia mútua, com as devidas adaptações, o disposto nos números anteriores."
+  },
+  "177532663": {
+   "fragment_id": "177528474",
+   "type": 11,
+   "heading": "Artigo 15.º — Aquisição e alienação de ações próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aquisição e alienação de ações próprias\n\n1 - Para além do caso previsto no n.º 6 do artigo 14.º, a sociedade de garantia mútua fica ainda obrigada a adquirir aos acionistas beneficiários, sempre que estes lho solicitem, as ações de que estes sejam titulares e que, nos termos do n.º 2 do artigo 10.º, não sejam intransmissíveis, aplicando-se o disposto no n.º 7 do artigo 14.º\n\n2 - A aquisição de ações próprias pelas sociedades de garantia mútua só se torna eficaz no termo do exercício social, ficando dependente da verificação das seguintes condições, sem prejuízo de outras regras prudenciais aplicáveis:\n\na) Terem decorrido, pelo menos, três anos desde a data de aquisição das ações;\n\nb) A aquisição não implicar o incumprimento, ou o agravamento do incumprimento, de nenhumas relações ou limites prudenciais fixados na lei ou pelo Banco de Portugal.\n\n3 - Para efeito da aquisição de ações próprias acresce aos bens distribuíveis referidos no n.º 4 do artigo 317.º do Código das Sociedades Comerciais o montante do fundo técnico de provisão.\n\n4 - Não dispondo a sociedade de fundos que permitam satisfazer, ou satisfazer integralmente, um pedido de aquisição de ações próprias, este fica pendente e, até à sua integral satisfação, a sociedade não pode distribuir dividendos.\n\n5 - As ações próprias de que a sociedade de garantia mútua seja titular destinam-se a ser alienadas a acionistas beneficiários ou a acionistas promotores, ou a terceiros que pretendam adquirir qualquer daquelas qualidades e, no primeiro caso, preencham requisitos para tanto.\n\n6 - A venda é deliberada pelo órgão de administração e o preço é igual ao valor de emissão das ações."
+  },
+  "177532664": {
+   "fragment_id": "177564275",
+   "type": 11,
+   "heading": "Artigo 16.º — Fusão e cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fusão e cisão\n\n1 - O Banco de Portugal só concede autorização para a fusão ou cisão de sociedades de garantia mútua se da operação resultar, pelo menos, uma sociedade do mesmo tipo.\n\n2 - As sociedades de garantia mútua não podem proceder a alterações dos respetivos objetos sociais que impliquem uma mudança do tipo de instituição."
+  },
+  "177532665": {
+   "fragment_id": "177564276",
+   "type": 1,
+   "heading": "Capítulo III — Contragarantia das sociedades de garantia mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contragarantia das sociedades de garantia mútua"
+  },
+  "177532666": {
+   "fragment_id": "177564277",
+   "type": 11,
+   "heading": "Artigo 17.º — Fundo de Contragarantia Mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fundo de Contragarantia Mútuo\n\nAs sociedades de garantia mútua, com a finalidade de oferecer uma cobertura e garantia suficientes para os riscos contraídos nas suas operações e assegurar a solvência do sistema, devem proceder à contragarantia das suas operações, através do Fundo de Contragarantia Mútuo, pelo saldo vivo, em cada momento, das garantias prestadas e pelo limite máximo de contragarantia admitido por aquele fundo."
+  },
+  "177532667": {
+   "fragment_id": "177564278",
+   "type": 11,
+   "heading": "Artigo 18.º — Entidade gestora do Fundo de Contragarantia Mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entidade gestora do Fundo de Contragarantia Mútuo\n\n1 - A entidade gestora do Fundo de Contragarantia Mútuo pode tomar participações no capital destas, na qualidade de acionista promotor.\n\n2 - A entidade gestora do Fundo de Contragarantia Mútua tem o direito de designar um representante seu no conselho de administração das sociedades de garantia mútua."
+  },
+  "177532668": {
+   "fragment_id": "177564279",
+   "type": 11,
+   "heading": "Artigo 19.º — Início de funcionamento do sistema de caucionamento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Início de funcionamento do sistema de caucionamento mútuo\n\n(Revogado.)"
+  },
+  "177532669": {
+   "fragment_id": "177564280",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Conversão das ações com valor nominal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-A — Conversão das ações com valor nominal\n\nAs ações emitidas com valor nominal ficam convertidas em ações sem valor nominal, correspondendo o valor nominal ao valor de emissão."
+  },
+  "177532670": {
+   "fragment_id": "177564281",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nANEXO II\n\n(a que se refere o n.º 2 do artigo 6.º)\n\nRepublicação do Decreto-Lei n.º 229/98, de 22 de julho\n\nArtigo 1.º\n\nNatureza\n\nÉ criado o Fundo de Contragarantia Mútuo, adiante designado apenas por Fundo, pessoa coletiva pública dotada de autonomia administrativa e financeira.\n\nArtigo 2.º\n\nObjeto\n\n1 - O Fundo tem por objeto a garantia do cumprimento:\n\na) Das obrigações assumidas pelas sociedades de garantia mútua, no exercício, por estas, da atividade referida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 211/98, de 16 de julho;\n\nb) De emissões de instrumentos financeiros representativos de dívida, enquadradas em regimes abertos ou medidas não individuais propostos pela sociedade gestora, podendo as respetivas emissões envolver um ou mais emitentes no âmbito da mesma operação de financiamento;\n\nc) De linhas de crédito especiais, destinadas a micro, pequenas e médias empresas e Mid Caps, mediante a emissão de garantias de carteira, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação;\n\nd) De linhas de crédito destinadas a Small Mid Cap e Mid Cap, mediante a emissão de garantias individuais, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação.\n\n2 - Com vista à defesa do sistema nacional de caucionamento mútuo, compete ao Fundo e promover e realizar as ações necessárias para assegurar a solvabilidade das sociedades de garantia mútua, nomeadamente fixar, em função dos capitais próprios destas, o montante máximo, em cada momento, do saldo vivo da carteira de garantias concedidas.\n\n3 - (Revogado.)\n\n4 - O total dos montantes anualmente garantidos nos termos das alíneas b), c) e d) do n.º 1 não pode exceder um valor superior a 30 % do montante total das garantias prestadas pelo Fundo nos termos do n.º 1 no ano transato, sem prejuízo do disposto no número seguinte.\n\n5 - Em qualquer caso, o valor acumulado de garantias por amortizar ao abrigo das alíneas b), c) e d) do n.º 1 não pode exceder o correspondente a 20 % do valor acumulado de garantias prestadas, e ainda não amortizadas, pelo Fundo, nos termos da alínea a) do n.º 1.\n\n6 - O disposto nos n.os 4, 5 e 8 não afeta, a cada momento, as garantias já prestadas, ainda que impossibilite a emissão de novas garantias para efeitos das alíneas b), c) e d) do n.º 1.\n\n7 - As operações a realizar pelo Fundo ao abrigo das alíneas b), c) e d) do n.º 1 apenas podem ser realizadas em benefício de entidades que não se encontrem em dificuldades financeiras de acordo com a legislação europeia em matéria de auxílios de Estado aplicável à operação, e, em relação à alínea b), deve ser promovida uma avaliação de notação de risco de crédito dos emitentes por entidade independente.\n\n8 - O montante garantido por operação não pode exceder 50 % do valor dos instrumentos previstos na alínea b) e na alínea d) e 40 % do valor do instrumento previsto na alínea c) do n.º 1.\n\n9 - Para efeitos de concessão de garantias pelo Fundo, consideram-se «empresas» qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica, sendo a categoria de micro, pequenas e médias empresas definida no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, e a categoria de Small Mid Cap e de Mid Cap definida no Decreto-Lei n.º 81/2017, de 30 de junho, na sua redação atual.\n\n10 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 2.º, as operações a realizar pelo Fundo não podem garantir o cumprimento de obrigações de empresas que façam parte do setor financeiro, designadamente, instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica, empresas de investimento, organismos de investimento coletivo, capital de risco, fundos de pensões, fundos de titularização, respetivas sociedades gestoras, sociedades de titularização, organismos de investimento alternativo especializado de créditos sociedades de capital de risco, fundos de capital de risco e empresas de seguros e resseguros, nem de fundos autónomos.\n\n11 - As operações a realizar pelo Fundo são precedidas de uma análise de risco, a realizar pela sociedade gestora, dos elementos essenciais da operação, designadamente o respetivo montante, prazo, definição das entidades beneficiárias da operação a garantir, as condições da garantia a conceder e a respetiva sinistralidade estimada numa base plurianual.\n\nArtigo 3.º\n\nParticipantes\n\nParticipam no sistema nacional de caucionamento mútuo o Fundo e todas as sociedades de garantia mútua, as quais ficam sujeitas às normas que o regulam.\n\nArtigo 4.º\n\nAdministração do Fundo\n\n1 - O Fundo é administrado por uma sociedade gestora, à qual compete, tendo em vista a prossecução do objeto daquele e enquanto sua legal representante, praticar todos os atos e operações necessários ou convenientes à sua boa administração e exercer todos os direitos relacionados com os bens do Fundo, incluindo as ações de fiscalização e assistência previstas neste decreto-lei.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A sociedade gestora do Fundo é o Banco Português de Fomento, S. A.\n\nArtigo 5.º\n\nRemuneração da sociedade gestora\n\nO montante da comissão de gestão devido à sociedade gestora do Fundo é fixado por portaria do Ministro das Finanças, ouvido o conselho geral.\n\nArtigo 6.º\n\nConselho geral\n\n1 - O Fundo tem um conselho geral, presidido pelo responsável máximo da Direção-Geral do Tesouro e Finanças, que tem voto de qualidade, por um representante da Direção-Geral do Orçamento, por um representante do IAPMEI - Agência para a Competitividade e Inovação, I. P., por um representante do Instituto do Turismo de Portugal, I. P., por um representante da sociedade gestora do fundo e um representante das sociedades de garantia mútua.\n\n2 - Os membros do conselho geral exercem as suas funções por períodos de três anos, renováveis.\n\n3 - Sem prejuízo do n.º 1, o presidente pode convocar para cada reunião outras entidades em razão da matéria a discutir, as quais não são titulares de direito de voto.\n\nArtigo 7.º\n\nAtribuições do conselho geral\n\n1 - Compete ao conselho geral do Fundo:\n\na) Pronunciar-se, sob proposta da sociedade gestora, sobre os fatores de agravamento que, aplicados à taxa de base, permitam definir o quantitativo das comissões devidas ao Fundo pela contragarantia do saldo vivo da carteira das sociedades de garantia mútua, podendo estabelecer escalões da contribuição anual, atendendo, nomeadamente, ao montante, prazo e sinistralidade histórica da carteira;\n\nb) Pronunciar-se, para efeitos do disposto no artigo 12.º, sobre quaisquer propostas de regulamentos relativos à atividade do Fundo, elaboradas pela sociedade gestora;\n\nc) Pronunciar-se sobre a tomada pelo Fundo de participações sociais em sociedades de garantia mútua, quando as circunstâncias o justifiquem, no sentido de promover a liquidez das ações por aquelas emitidas, fixando, em função da situação de cada sociedade de garantia mútua, o valor a atribuir às ações;\n\nd) Pronunciar-se sobre o relatório e contas da atividade do Fundo;\n\ne) Pronunciar-se sobre qualquer outra matéria relativa ao objeto e atividades do Fundo.\n\n2 - Os pareceres do conselho geral previstos no presente decreto-lei não têm caráter vinculativo.\n\nArtigo 8.º\n\nFuncionamento\n\n1 - O conselho geral reúne anualmente, após a aprovação das contas do Fundo, para se pronunciar sobre o previsto na alínea a) do n.º 1 do artigo anterior, bem como sobre todos os assuntos que lhe sejam submetidos pela sociedade gestora do Fundo.\n\n2 - O conselho geral reúne ainda, a convocação do seu presidente, sempre que se justifique.\n\nArtigo 9.º\n\nReceitas\n\n1 - O Fundo dispõe das seguintes receitas:\n\na) Contribuições, periódicas e especiais, das sociedades de garantia mútua;\n\nb) Empréstimos contraídos junto de instituições de crédito;\n\nc) Rendimentos provenientes das aplicações dos seus recursos;\n\nd) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n\n2 - (Revogado.)\n\n3 - Caso o Fundo entre em mora perante os seus credores, podem estes demandar o Estado pelas obrigações em falta.\n\n4 - A responsabilidade do Estado não pode ser exigida antes de decorridos 30 dias sobre a constituição em mora do Fundo.\n\n5 - Não pode mover-se execução contra o Estado com base em título exequível contra o Fundo.\n\nArtigo 10.º\n\nContribuições periódicas\n\n1 - A taxa base das contribuições periódicas, previstas na alínea a) do n.º 1 do artigo 7.º é fixada por portaria do membro do Governo responsável pela área das finanças, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo.\n\n2 - O valor da contribuição periódica de cada sociedade de garantia mútua é determinado em função do valor médio dos saldos mensais das responsabilidades do período anterior.\n\n3 - A contribuição periódica das sociedades de garantia mútua participantes, devida anualmente, deve ser entregue ao Fundo até ao último dia útil do mês de abril do ano a que diga respeito.\n\nArtigo 11.º\n\nContribuições especiais\n\n1 - Quando os recursos do Fundo se revelarem insuficientes para assegurar o cumprimento dos ratios de solvabilidade, determinados pelo Banco de Portugal, o Ministro das Finanças pode, mediante portaria, ouvidos o Banco de Portugal e o conselho geral do Fundo, determinar que as sociedades de garantia mútua participantes efetuem contribuições especiais e definir os montantes, prestações, prazos e demais termos dessas contribuições.\n\n2 - O valor global das contribuições especiais de uma sociedade de garantia mútua não pode exceder, em cada período de exercício do Fundo, o valor da respetiva contribuição anual.\n\nArtigo 12.º\n\nRegulamentos\n\nOs membros do Governo responsáveis pelas áreas da economia e das finanças aprovam, por portaria, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo, ouvido o Banco de Portugal, os regulamentos que se revelem necessários ao funcionamento e a uma gestão sã e prudente do Fundo.\n\nArtigo 12.º-A\n\nDever de reporte e sistema de informação\n\n1 - A sociedade gestora do Fundo remete aos membros do conselho geral, até ao fim do mês seguinte ao termo de cada semestre de calendário, um reporte que inclua, designadamente:\n\na) As operações realizadas e não amortizadas, à data, pelo Fundo, detalhada por linha ou regime, incluindo informação relativa ao número, tipologia, classe de dimensão empresarial e setores de atividade de empresas beneficiárias, aos montantes financiados, às garantias e contragarantias prestadas, quando aplicável, pelas sociedades de garantia mútua e pelo Fundo;\n\nb) À sinistralidade incorrida e estimada, numa base plurianual, com o detalhe de informação previsto na alínea anterior.\n\n2 - O Banco de Portugal pode solicitar à sociedade gestora do Fundo a informação relevante relativa ao cumprimento da legislação prudencial aplicável às técnicas de mitigação do risco de crédito.\n\n3 - A sociedade gestora do Fundo deve assegurar a existência de um sistema de informação atualizado que permita, a qualquer momento, disponibilizar a informação prevista nos números anteriores, ou outra que lhe seja exigível.\n\nArtigo 13.º\n\nDever de cooperação e sigilo\n\n1 - As sociedades de garantia mútua participantes devem facultar ao Fundo a consulta dos documentos e fornecer-lhe os elementos informativos necessários à realização do seu objeto.\n\n2 - São aplicáveis à atividade dos funcionários e agentes do Fundo e da sociedade gestora enquanto no exercício de tais funções as normas reguladoras do sigilo bancário.\n\nArtigo 14.º\n\nRegras de assistência\n\n1 - O Fundo pode notificar qualquer sociedade de garantia mútua para que adote as medidas necessárias ao restabelecimento da sua situação patrimonial, quando considerar que se encontram em perigo o normal funcionamento ou a solvabilidade da sociedade de garantia mútua em causa.\n\n2 - O Fundo pode conceder subsídios ou empréstimos às sociedades de garantia mútua, prestar garantias a favor destas e adquirir valores do seu ativo extrapatrimonial, sempre que tal se revele necessário ou útil à realização do seu objeto.\n\n3 - O Fundo pode fazer depender a sua assistência a qualquer sociedade de garantia mútua da aceitação expressa, por esta, de regras de gestão, ou de outra natureza, que entenda necessárias à correção das situações referidas no n.º 1.\n\nArtigo 15.º\n\nAplicação dos recursos\n\nO Fundo pode aplicar os seus recursos disponíveis na constituição de depósitos em instituições de crédito, em operações nos mercados monetário interbancário e interbancário de títulos ou ainda em outras operações financeiras, nas condições que venham a ser definidas pelo Banco de Portugal.\n\nArtigo 15.º-A\n\nRevisor oficial de contas\n\n1 - O Fundo tem as suas contas certificadas por um revisor oficial de contas (ROC).\n\n2 - O ROC é designado pela sociedade gestora e não pode desempenhar as mesmas funções na respetiva sociedade gestora ou pertencer ao mesmo grupo do ROC da sociedade gestora.\n\n3 - As despesas relativas ao ROC são suportadas pelo Fundo.\n\nArtigo 16.º\n\nFiscalização\n\n1 - A fiscalização do Fundo, para além das funções exercidas pelo ROC, é exercida também pela Inspeção-Geral de Finanças, que fiscaliza o seu funcionamento, o cumprimento das leis e regulamentos que lhe são aplicáveis e emite parecer sobre as suas contas anuais.\n\n2 - Como suporte à atividade de fiscalização a sociedade gestora pode solicitar a intervenção de auditores externos no processo de apreciação de contas anuais, sendo as despesas suportadas pelo Fundo.\n\nArtigo 17.º\n\nPeríodo de exercício\n\nO período de exercício do Fundo corresponde ao ano civil.\n\nArtigo 18.º\n\nPlano de contas\n\nSão aplicáveis ao Fundo, com as necessárias adaptações, as Normas Internacionais de Contabilidade/Normas Internacionais de Relato Financeiro (NIC/NIRF), tal como adotadas, em cada momento, por Regulamento da União Europeia e respeitando a estrutura conceptual para a preparação de demonstrações financeiras que enquadra aquelas normas.\n\nArtigo 19.º\n\nRelatório e aprovação de contas\n\n1 - A sociedade gestora elabora, até 31 de março de cada ano, o relatório e contas da atividade do Fundo.\n\n2 - A sociedade gestora do fundo envia, para aprovação, aos membros do Governo responsáveis pelas áreas da economia e das finanças o relatório e contas, ouvido o conselho geral, no prazo máximo de 30 dias a contar da sua aprovação, incluindo uma proposta de aplicação de resultados.\n\n3 - A proposta de aplicação dos resultados referida no número anterior pode contemplar o eventual retorno dos recursos às sociedades de garantia mútua participantes, na proporção das suas contribuições.\n\n4 - A aprovação pelos membros do Governo responsáveis pelas áreas da economia e das finanças prevista no n.º 2 tem o prazo máximo de 30 dias a contar do envio da sociedade gestora.\n\nArtigo 20.º\n\nExtinção\n\nEm caso de extinção do Fundo, o produto da sua liquidação reverte para as instituições contribuintes, na proporção das respetivas contribuições, qualquer que seja a natureza destas."
+  },
+  "177532671": {
+   "fragment_id": "177564282",
+   "type": 11,
+   "heading": "Artigo 21.º — Legislação em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Legislação em vigor\n\nO disposto no presente decreto-lei em nada prejudica as regras de solvabilidade e liquidez aplicáveis às sociedades de garantia mútua, assim como as funções de supervisão e controlo previstas na legislação em vigor."
+  },
+  "177532672": {
+   "fragment_id": "177564283",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\n114870315"
+  }
+ }
+}

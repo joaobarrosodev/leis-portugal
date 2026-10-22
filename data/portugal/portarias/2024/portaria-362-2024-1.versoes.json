@@ -1,0 +1,645 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:901536094:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-907097174",
+ "dre_path": "/dr/detalhe/portaria/362-2024-901536094",
+ "source_lastmod": "2026-09-17",
+ "versions": [
+  {
+   "date": "2025-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:941845860:por",
+     "title": "Portaria n.º 366/2025/1",
+     "published": "2025-10-24",
+     "dre_path": "/dr/detalhe/portaria/366-2025-941845860"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "907100611",
+    "907100612",
+    "907100613",
+    "907100614",
+    "907100615",
+    "907100616",
+    "907100617",
+    "907100618",
+    "907100619",
+    "907100620",
+    "907100621",
+    "907100622",
+    "907100623",
+    "907100624",
+    "907100625",
+    "942140994",
+    "907100627",
+    "942140995",
+    "907100629",
+    "907100630",
+    "907100631",
+    "907100632",
+    "942140996",
+    "907100657",
+    "907100635",
+    "907100636",
+    "907100637",
+    "907100638",
+    "907100639",
+    "907100640",
+    "907100641",
+    "907100642",
+    "907100643",
+    "907100644",
+    "907100645",
+    "907100646",
+    "907100647",
+    "907100648",
+    "907100649",
+    "907100650",
+    "907100651",
+    "907100652"
+   ]
+  },
+  {
+   "date": "2025-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:942971721:por",
+     "title": "Portaria n.º 369/2025/1",
+     "published": "2025-10-29",
+     "dre_path": "/dr/detalhe/portaria/369-2025-942971721"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "907100611",
+    "907100612",
+    "907100613",
+    "907100614",
+    "907100615",
+    "907100616",
+    "907100617",
+    "907100618",
+    "942754444",
+    "907100620",
+    "907100621",
+    "907100622",
+    "907100623",
+    "907100624",
+    "907100625",
+    "942140994",
+    "907100627",
+    "942140995",
+    "907100629",
+    "907100630",
+    "907100631",
+    "907100632",
+    "942140996",
+    "907100657",
+    "907100635",
+    "907100636",
+    "907100637",
+    "907100638",
+    "907100639",
+    "907100640",
+    "907100641",
+    "907100642",
+    "907100643",
+    "907100644",
+    "907100645",
+    "907100646",
+    "907100647",
+    "907100648",
+    "907100649",
+    "907100650",
+    "907100651",
+    "907100652"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993315591:por",
+     "title": "Portaria n.º 482-B/2025/1",
+     "published": "2025-12-31",
+     "dre_path": "/dr/detalhe/portaria/482-b-2025-993315591"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 26.º",
+    "Revoga Artigo 6.º",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "907100611",
+    "907100612",
+    "907100613",
+    "907100614",
+    "907100615",
+    "907100616",
+    "907100617",
+    "998506168",
+    "942754444",
+    "907100620",
+    "907100621",
+    "907100622",
+    "907100623",
+    "907100624",
+    "907100625",
+    "942140994",
+    "907100627",
+    "942140995",
+    "907100629",
+    "907100630",
+    "907100631",
+    "907100632",
+    "942140996",
+    "907100657",
+    "907100635",
+    "907100636",
+    "907100637",
+    "907100638",
+    "907100639",
+    "907100640",
+    "907100641",
+    "998506167",
+    "907100643",
+    "907100644",
+    "907100645",
+    "907100646",
+    "907100647",
+    "998506169",
+    "907100649",
+    "907100650",
+    "907100651",
+    "907100652"
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1171008709:por",
+     "title": "Portaria n.º 432/2026/1",
+     "published": "2026-09-15",
+     "dre_path": "/dr/detalhe/portaria/432-2026-1171008709"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "907100611",
+    "907100612",
+    "907100613",
+    "907100614",
+    "907100615",
+    "907100616",
+    "907100617",
+    "998506168",
+    "942754444",
+    "907100620",
+    "907100621",
+    "907100622",
+    "907100623",
+    "907100624",
+    "907100625",
+    "942140994",
+    "907100627",
+    "942140995",
+    "907100629",
+    "907100630",
+    "907100631",
+    "907100632",
+    "942140996",
+    "907100657",
+    "907100635",
+    "907100636",
+    "1171376675",
+    "907100638",
+    "907100639",
+    "907100640",
+    "907100641",
+    "998506167",
+    "907100643",
+    "907100644",
+    "907100645",
+    "907100646",
+    "907100647",
+    "998506169",
+    "907100649",
+    "907100650",
+    "907100651",
+    "907100652"
+   ]
+  }
+ ],
+ "fragments": {
+  "907100611": {
+   "fragment_id": "907171875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 362/2024/1\n\nde 30 de dezembro\n\nA reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.\n\nO Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objetivos, entre outros, compensar os beneficiários pelos custos adicionais e pela perda de rendimentos resultantes de condicionalismos naturais ou outros condicionalismos de desvantagens locais específicas impostas por requisitos decorrentes da execução das Diretivas 92/43/CEE, do Conselho, de 21 de maio, e 2009/147/CE, do Parlamento Europeu e do Conselho, de 26 de janeiro.\n\nPor sua vez, o Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal) foi aprovado pela Comissão Europeia, através da Decisão C (2022) 6019, de 31 de agosto de 2022. No seguimento da terceira reprogramação foram introduzidas alterações na tipologia C.1.2.1, «Apoio às zonas com condicionantes naturais», integrada na intervenção C.1.2, «Manutenção da atividade agrícola em zonas com condicionantes naturais».\n\nO Decreto-Lei n.º 5/2023, de 25 de janeiro, que estabeleceu o modelo de governação dos fundos europeus para o período de programação 2021-2027, entre os quais se inclui o FEADER, determinou a estruturação operacional deste fundo no continente através dos eixos C e D.\n\nPor seu lado, o Decreto-Lei n.º 12/2023, de 24 de fevereiro, estabeleceu as normas gerais do PEPAC Portugal, tendo determinado, no artigo 3.º, que a regulamentação específica dos referidos eixos é adotada por portaria do membro do Governo responsável pela área da agricultura.\n\nNestes termos, cumpre estabelecer o regime específico do apoio a conceder ao abrigo dos artigos 71.º e 72.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere às tipologias C.1.2.1, «Apoio às zonas com condicionantes naturais» e C.1.2.2, «Pagamento Rede Natura», integradas na intervenção C.1.2, «Manutenção da atividade agrícola em zonas com condicionantes naturais», do domínio C.1, «Gestão ambiental e climática», do eixo C, «Desenvolvimento rural», do PEPAC Portugal.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura e Pescas, abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:"
+  },
+  "907100612": {
+   "fragment_id": "907171876",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "907100613": {
+   "fragment_id": "907171877",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação dos apoios a conceder ao abrigo dos artigos 71.º e 72.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, nas tipologias C.1.2.1, «Apoio às zonas com condicionantes naturais», e C.1.2.2, «Pagamento Rede Natura», integradas na intervenção C.1.2, «Manutenção da atividade agrícola em zonas com condicionantes naturais», do domínio C.1, «Gestão ambiental e climática», do eixo C, «Desenvolvimento rural», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal)."
+  },
+  "907100614": {
+   "fragment_id": "907171878",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO regime de aplicação dos apoios inclui as seguintes tipologias:\n\na) Apoio às zonas com condicionantes naturais;\n\nb) Pagamento Rede Natura."
+  },
+  "907100615": {
+   "fragment_id": "907171879",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria entende-se por:\n\na) «Animais em pastoreio» ou «efetivo pecuário em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;\n\nb) «Área condicionada tipo 1», a área classificada ao abrigo das Diretivas n.º 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro (Diretiva Aves), e 92/43/CEE, do Conselho, de 21 de maio (Diretiva Habitats), no âmbito da Rede Natura 2000, sujeita a restrição de não florestação de superfícies agrícolas;\n\nc) «Área condicionada tipo 2», a área classificada ao abrigo das Diretivas Aves e Habitats no âmbito da Rede Natura 2000, sujeita a restrição de não florestação de superfícies agrícolas e a restrição de intensificação da atividade agrícola;\n\nd) «Área condicionada tipo 3», a área classificada ao abrigo das Diretivas Aves e Habitats, no âmbito da Rede Natura 2000, sujeita a restrição de não florestação de superfícies agrícolas e a restrição de intensificação da atividade agrícola em zona crítica;\n\ne) «Atividade agrícola», a produção, ou a manutenção de uma superfície agrícola num estado que a torne adequada para pastoreio ou cultivo sem ação preparatória especial para além dos métodos e máquinas agrícolas habituais;\n\nf) «Cabeça normal (CN)», a unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva, relativamente às necessidades alimentares e à produção de efluentes pecuários, de que resulta a tabela de conversão que consta do anexo i à presente portaria, da qual faz parte integrante;\n\ng) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;\n\nh) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no Sistema de Identificação Parcelar (iSIP), classificada em função da categoria de ocupação de solo;\n\ni) «Período de retenção», o período durante o qual os animais têm de ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril para bovinos, ovinos e caprinos, e compreendido entre 1 de janeiro e 31 de dezembro para suínos e equídeos;\n\nj) «Rede Natura 2000», a rede ecológica para o espaço comunitário da União Europeia, que engloba zonas de proteção especial (ZPE), designadas ao abrigo da Diretiva Aves, e sítios de importância comunitária (SIC), designados ao abrigo da Diretiva Habitats, transpostas para o direito interno pelo Decreto-Lei n.º 140/99, de 24 de abril, na sua redação atual;\n\nk) «Subparcela», a porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma, tal como definido no iSIP;"
+  },
+  "907100616": {
+   "fragment_id": "907171880",
+   "type": 11,
+   "heading": "Artigo 4.º — Agricultor ativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Agricultor ativo\n\n1 - Entende-se por «agricultor ativo», o agricultor, na aceção do artigo 3.º do Regulamento (UE) 2021/2115, e que exerce atividade agrícola em território continental, assumindo o risco de gestão associado a essa atividade agrícola, e que respeita as seguintes condições:\n\na) Encontra-se inscrito no registo do agricultor no Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), designadamente no sistema de identificação do beneficiário (IB);\n\nb) Encontra-se inscrito na Autoridade Tributária, com número de identificação fiscal (NIF) e, no caso de pessoa coletiva, detém classificação de atividade económica (CAE) agrícola ou florestal;\n\nc) Detém subparcelas elegíveis inscritas no iSIP ou marca de exploração no âmbito do Sistema Nacional de Identificação e Registo Animal (SNIRA);\n\nd) Detém evidências de nível mínimo de atividade agrícola não produtiva, nas situações em que não haja atividade agrícola produtiva;\n\n2 - Para efeitos da aferição do nível mínimo de atividade agrícola não produtiva referido na alínea d) do número anterior, são consideradas operações de manutenção da superfície agrícola em condições adequadas para o pastoreio ou o cultivo, sem intervenção preparatória especial, para além do uso dos métodos e máquinas agrícolas habituais, nomeadamente, pela apresentação das seguintes evidências:\n\na) Realização de operações de controlo de vegetação lenhosa ou arbustiva nas subparcelas de prado e pastagem permanente, superfície forrageira temporária espontânea ou pousio;\n\nb) Realização de operações de preparação de instalação de culturas permanentes e de prados e pastagens;\n\nc) Realização de operações de manutenção de culturas permanentes, nomeadamente podas e desramações.\n\n3 - Para efeitos da alínea a) do número anterior, no caso das áreas inseridas em baldio, o nível mínimo de atividade agrícola deve ser evidenciado através de prática local de pastoreio por efetivos pecuários de ruminantes e equídeos, devendo, para esse efeito, os compartes estarem associados à marca de exploração do baldio ou terem marca de exploração associada à marca de exploração do baldio.\n\n4 - São, ainda, considerados agricultores ativos, os agricultores que tenham, no ano anterior ao ano do pedido, apresentado candidatura no âmbito de pagamentos diretos e um montante de pagamentos diretos que não exceda os 2000 €."
+  },
+  "907100617": {
+   "fragment_id": "907171881",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente portaria, as pessoas singulares ou coletivas de natureza pública ou privada, cujas explorações agrícolas se situem em território continental e que cumpram os critérios de elegibilidade previstos no âmbito da tipologia a que se candidatam.\n\n2 - Sem prejuízo do disposto do número anterior os candidatos à tipologia C.1.2.1, «Apoio às zonas com condicionantes naturais», têm ainda de respeitar a condição de agricultor ativo."
+  },
+  "907100618": {
+   "fragment_id": "907171882",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos mínimos\n\nOs beneficiários dos apoios previstos na presente portaria são obrigados a cumprir, na exploração agrícola, os requisitos mínimos relativos à utilização de fertilizantes e produtos fitofarmacêuticos e outros requisitos obrigatórios, definidos em orientação técnica (OT) pela Autoridade de Gestão do PEPAC no continente, relativos à legislação nacional prevista no anexo ii da presente portaria, da qual faz parte integrante."
+  },
+  "907100619": {
+   "fragment_id": "907171883",
+   "type": 11,
+   "heading": "Artigo 7.º — Exclusão de critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exclusão de critérios de elegibilidade\n\nO cumprimento do disposto na alínea b) do artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, é verificado no momento do primeiro pagamento."
+  },
+  "907100620": {
+   "fragment_id": "907171884",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração dos compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Duração dos compromissos\n\nA duração dos compromissos previstos na presente portaria tem periodicidade anual, com efeitos a partir de 1 de janeiro do ano de candidatura até 31 de dezembro."
+  },
+  "907100621": {
+   "fragment_id": "907171885",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma do apoio\n\nOs apoios previstos na presente portaria assumem a forma de pagamentos anuais no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho (Pagamentos SIGC)."
+  },
+  "907100622": {
+   "fragment_id": "907171886",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumulação de apoios\n\nSão aplicáveis à presente portaria as regras de cumulação dos apoios estabelecidas na Portaria n.º 54-P/2023, de 27 de fevereiro."
+  },
+  "907100623": {
+   "fragment_id": "907171887",
+   "type": 1,
+   "heading": "Capítulo II — APOIO ÀS ZONAS COM CONDICIONANTES NATURAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — APOIO ÀS ZONAS COM CONDICIONANTES NATURAIS"
+  },
+  "907100624": {
+   "fragment_id": "907171888",
+   "type": 11,
+   "heading": "Artigo 11.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Objetivos\n\nA presente tipologia prossegue os seguintes objetivos:\n\na) Compensar parcialmente os agricultores pelos custos adicionais e perda de rendimentos resultantes das condicionantes naturais inerentes ao exercício da atividade agrícola nas zonas com condicionantes naturais;\n\nb) Contribuir para a manutenção da paisagem rural e a promoção de sistemas agrícolas sustentáveis;\n\nc) Promover o desenvolvimento económico das zonas rurais e a coesão territorial, combatendo a desertificação das zonas com condicionantes naturais."
+  },
+  "907100625": {
+   "fragment_id": "907171889",
+   "type": 11,
+   "heading": "Artigo 12.º — Âmbito geográfico de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Âmbito geográfico de aplicação\n\nA tipologia de intervenção prevista no presente capítulo é aplicável nas zonas com condicionantes naturais que abrangem as zonas de montanha e as restantes zonas com condicionantes naturais, compreendendo as zonas que não as de montanha, sujeitas a condicionantes naturais significativas e outras zonas sujeitas a condicionantes específicas, definidas na Portaria n.º 5/2019, de 4 de janeiro."
+  },
+  "942140994": {
+   "fragment_id": "907171890",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de elegibilidade",
+   "in_force_from": "2025-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 366/2025/1 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), em vigor a partir de 2025-10-25, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Critérios de elegibilidade\n\n1 - Podem beneficiar do apoio previsto no presente capítulo os agricultores ativos, nos termos definidos no artigo 5.º, cujas explorações tenham dimensão igual ou superior a um hectare de superfície agrícola localizada em cada uma das zonas com condicionantes naturais, previstas no artigo anterior, a que se candidate.\n\n2 - A superfície agrícola referida no número anterior tem a área máxima elegível determinada no iSIP, de acordo com as regras de elegibilidade previstas no artigo 4.º da Portaria n.º 54-Q/2023, de 27 de fevereiro.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 366/2025/1 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), em vigor a partir de 2025-10-25, produz efeitos a partir de 2025-01-01"
+  },
+  "907100627": {
+   "fragment_id": "907171891",
+   "type": 11,
+   "heading": "Artigo 14.º — Compromissos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Compromissos obrigatórios\n\nOs beneficiários do apoio previsto no presente capítulo são obrigados a manter o exercício da atividade agrícola durante o período de compromisso anual."
+  },
+  "942140995": {
+   "fragment_id": "907171892",
+   "type": 11,
+   "heading": "Artigo 15.º — Montantes e limites do apoio",
+   "in_force_from": "2025-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 366/2025/1 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), em vigor a partir de 2025-10-25, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Montantes e limites do apoio\n\n1 - Os montantes e os limites do apoio a conceder no âmbito do presente capítulo são os estabelecidos no anexo iii à presente portaria, da qual faz parte integrante\n\n2 - O montante do apoio anual resulta da aplicação sucessiva dos escalões de área de superfície agrícola elegível nas explorações cuja área se situe na área geográfica elegível ao apoio diferenciado por tipo de zona com condicionante.\n\n3 - A superfície forrageira elegível é contabilizada para pagamento se se verificar, durante o período de retenção, um encabeçamento mínimo na exploração de 0,200 CN, considerando o efetivo de bovinos, ovinos, caprinos, suínos e equídeos, do próprio, em pastoreio, por hectare de superfície forrageira da exploração.\n\n4 - Para efeitos do número anterior, considera-se como superfície forrageira da exploração, as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, «prados e pastagens permanentes sem predominância de vegetação arbustiva» e «prados e pastagens permanentes - prática local».\n\n5 - Sempre que se verifiquem situações de epizootia, ou de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, este valor passa para um mínimo de 0,100 CN por hectare de superfície forrageira da exploração.\n\n6 - As áreas de pousio são contabilizadas até ao limite máximo de três vezes a área semeada com culturas temporárias candidatas.\n\n7 - A superfície agrícola sujeita a práticas locais de pastoreio em baldio é elegível para candidaturas apresentadas por compartes, nos termos, do artigo 16.º da Portaria n.º 54-L/2023, de 27 de fevereiro, alterada pelas Portarias n.os 308/2023, de 13 de outubro, 80-B/2024/1, de 4 de março, e 275/2024/1, de 21 de outubro.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 366/2025/1 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), em vigor a partir de 2025-10-25, produz efeitos a partir de 2025-01-01"
+  },
+  "907100629": {
+   "fragment_id": "907171893",
+   "type": 1,
+   "heading": "Capítulo III — PAGAMENTO REDE NATURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — PAGAMENTO REDE NATURA"
+  },
+  "907100630": {
+   "fragment_id": "907171894",
+   "type": 11,
+   "heading": "Artigo 16.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Objetivo\n\nA presente tipologia tem como objetivo apoiar os agricultores com parcelas de superfície agrícola situadas em áreas designadas ao abrigo das Diretivas Aves e Habitats, visando compensá-los de desvantagens e restrições impostas pelos planos de gestão ou outros instrumentos equivalentes e que se traduzam em condicionamentos efetivos à alteração de uso do solo."
+  },
+  "907100631": {
+   "fragment_id": "907171895",
+   "type": 11,
+   "heading": "Artigo 17.º — Âmbito geográfico de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Âmbito geográfico de aplicação\n\nO âmbito geográfico de aplicação da tipologia prevista no presente capítulo é definido no anexo iv à presente portaria, da qual faz parte integrante, considerando as áreas condicionadas definidas nas alíneas b), c) e d) do artigo 3.º da presente portaria."
+  },
+  "907100632": {
+   "fragment_id": "907171896",
+   "type": 11,
+   "heading": "Artigo 18.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Critérios de elegibilidade\n\n1 - Podem beneficiar do apoio previsto no presente capítulo, os beneficiários que candidatem uma superfície agrícola com dimensão igual ou superior a um hectare, explorada em regime de sequeiro de culturas temporárias, incluindo pousio, de culturas permanentes ou de prados e pastagens permanentes sem predominância de vegetação arbustiva, situada na área geográfica de aplicação prevista no artigo anterior.\n\n2 - A ocupação cultural de sobreiros destinados à produção de cortiça apenas é elegível, se pastoreada.\n\n3 - A superfície agrícola referida no n.º 1 tem a área máxima elegível determinada no iSIP, de acordo com as regras de elegibilidade definidas no anexo i da Portaria n.º 54-Q/2023, de 27 de fevereiro."
+  },
+  "942140996": {
+   "fragment_id": "907171897",
+   "type": 11,
+   "heading": "Artigo 19.º — Compromissos obrigatórios",
+   "in_force_from": "2025-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 366/2025/1 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), em vigor a partir de 2025-10-25, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Compromissos obrigatórios\n\n1 - Os beneficiários do apoio previsto no presente capítulo são obrigados a cumprir os seguintes compromissos:\n\na) Manter os critérios de elegibilidade;\n\nb) Manter, durante o período de retenção, a exploração com um nível de encabeçamento de bovinos, ovinos e caprinos, de suínos e equídeos, do próprio e de outrem, em pastoreio, expressos em cabeças normais (CN) por hectare (ha), igual ou inferior a:\n\ni) 3,000 CN/ha superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 hectares de superfície agrícola;\n\nii) 2,000 CN/ha superfície agrícola, no caso de explorações em zona de montanha com dimensão superior a 2 hectares de superfície agrícola;\n\niii) 2,000 CN/ha superfície forrageira, no caso de explorações nas restantes zonas desfavorecidas e nas zonas favorecidas com dimensão superior a 2 hectares de superfície agrícola.\n\n2 - Para efeitos do número anterior, considera-se como superfície forrageira da exploração as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes, pastagens arbustivas e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 366/2025/1 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/366-2025-941845860), em vigor a partir de 2025-10-25, produz efeitos a partir de 2025-01-01"
+  },
+  "907100657": {
+   "fragment_id": "907171898",
+   "type": 11,
+   "heading": "Artigo 20.º — Montantes e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 13/2025/1 - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2025-907097148), produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Montantes e limites do apoio\n\n1 - Os montantes e os limites do apoio a conceder no âmbito do presente capítulo são os estabelecidos no anexo v à presente portaria, da qual faz parte integrante.\n\n2 - O montante do apoio anual resulta da aplicação sucessiva dos escalões de área de superfície agrícola elegível nas explorações cuja área se situe maioritariamente na área geográfica elegível ao apoio diferenciado por tipo de restrição de uso.\n\n3 - A superfície forrageira elegível é contabilizada para pagamento sempre que, durante o período de retenção, se verificar um encabeçamento mínimo na exploração de 0,200 CN, considerando o efetivo de bovinos, ovinos, caprinos, suínos e equídeos do próprio, em pastoreio, por hectare de superfície forrageira da exploração, nos termos definidos no n.º 2 do artigo 19.º\n\n4 - Sempre que se verifiquem situações de epizootia ou de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o valor referido no número anterior passa para um mínimo de 0,100 CN por hectare de superfície forrageira da exploração.\n\n5 - As áreas de pousio são consideradas elegíveis para pagamento até um limite máximo de duas vezes a área semeada com culturas temporárias candidatas.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13/2025/1 - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2025-907097148), produz efeitos a partir de 2025-01-01"
+  },
+  "907100635": {
+   "fragment_id": "907171899",
+   "type": 1,
+   "heading": "Capítulo IV — PROCEDIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — PROCEDIMENTO"
+  },
+  "907100636": {
+   "fragment_id": "907171900",
+   "type": 11,
+   "heading": "Artigo 21.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apresentação das candidaturas\n\n1 - As candidaturas aos apoios previstos na presente portaria são submetidas eletronicamente, através do formulário relativo ao Pedido Único (PU), disponível no portal do IFAP, I. P., em www.ifap.pt.\n\n2 - O regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., aprovado pela Portaria n.º 54-L/2023, de 27 de fevereiro, é aplicável às candidaturas apresentadas no âmbito da presente portaria."
+  },
+  "907100637": {
+   "fragment_id": "907171901",
+   "type": 11,
+   "heading": "Artigo 22.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Análise e decisão das candidaturas\n\n1 - As candidaturas são analisadas pelo IFAP., I. P., de acordo com os critérios de elegibilidade previstos na presente portaria e são aprovadas pela AG PEPAC no continente.\n\n2 - As decisões das candidaturas são comunicadas aos beneficiários na área reservada do portal do IFAP., I. P., em www.ifap.pt.\n\n3 - Para efeitos do n.º 1, na tipologia C.1.2.1, «Apoio às zonas com condicionantes naturais», em caso de ultrapassagem dos envelopes financeiros indicativos, a AG PEPAC no continente pode estabelecer a aplicação de rateio proporcional.\n\n4 - Para efeitos do n.º 1, na tipologia C.1.2.2, «Pagamento Rede Natura», em caso de ultrapassagem dos envelopes financeiros indicativos, a AG PEPAC no continente pode estabelecer critérios de seleção de candidaturas.\n\n5 - O termo de aceitação é autenticado com a submissão da candidatura."
+  },
+  "907100638": {
+   "fragment_id": "907171902",
+   "type": 11,
+   "heading": "Artigo 23.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pagamento\n\nOs pedidos de pagamento são submetidos em simultâneo com a candidatura ao PU do ano a que respeita o pagamento, competindo ao IFAP, I. P., proceder ao pagamento anual do apoio."
+  },
+  "907100639": {
+   "fragment_id": "907171903",
+   "type": 1,
+   "heading": "Capítulo V — CASOS DE FORÇA MAIOR E CIRCUNSTÂNCIAS EXCECIONAIS, REDUÇÃO E EXCLUSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — CASOS DE FORÇA MAIOR E CIRCUNSTÂNCIAS EXCECIONAIS, REDUÇÃO E EXCLUSÃO"
+  },
+  "907100640": {
+   "fragment_id": "907171904",
+   "type": 11,
+   "heading": "Artigo 24.º — Casos de força maior e circunstâncias excecionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Casos de força maior e circunstâncias excecionais\n\n1 - Para efeitos do disposto no artigo 3.º do Regulamento (UE) 2021/2116, podem ser, também, reconhecidos como casos de força maior e circunstâncias excecionais as seguintes situações:\n\na) Incapacidade profissional do beneficiário, desde que por período superior a seis meses, devidamente verificada nos termos legais;\n\nb) Expropriação por utilidade pública ou outro ato previsto no Código das Expropriações, de toda a exploração ou uma parte importante da mesma, no caso de a expropriação não ser previsível no dia de apresentação do pedido;\n\nc) Emparcelamento ou intervenção pública de ordenamento fundiário ou similar.\n\n2 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, nos termos do definido no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P.\n\n3 - Sempre que o beneficiário não possa respeitar os compromissos devido aos casos referidos nos n.<sup>os </sup>1 e 2, mantém o direito à totalidade do pagamento do ano em que o facto ocorreu, desde que tenha sido apresentado o respetivo pedido de pagamento."
+  },
+  "907100641": {
+   "fragment_id": "907171905",
+   "type": 11,
+   "heading": "Artigo 25.º — Condicionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Condicionalidade\n\nOs beneficiários das tipologias dos apoios previstos na presente portaria incorrem em sanções administrativas decorrentes de incumprimentos determinados pelo sistema de controlo e sanções administrativas da condicionalidade que englobam os requisitos legais de gestão e as boas condições agrícolas e ambientais definidos na Portaria n.º 54-Q/2023, de 27 de fevereiro."
+  },
+  "907100642": {
+   "fragment_id": "907171906",
+   "type": 11,
+   "heading": "Artigo 26.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reduções e exclusões\n\n1 - Sem prejuízo do disposto no Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, são aplicáveis as reduções e as exclusões previstas nos números seguintes.\n\n2 - Sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., é determinada, como base de cálculo para a aplicação de penalizações resultantes dos controlos administrativos e físicos, a diferença entre a superfície declarada e a superfície determinada, nos seguintes termos:\n\na) Se a superfície declarada exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada se esta for superior a 3 % da área determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;\n\nb) Se a diferença entre a superfície declarada e a superfície determinada for superior a 50 %, não é concedido o apoio e o beneficiário é ainda objeto de uma sanção no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado se o montante não puder ser totalmente deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\nc) Se a diferença entre a superfície declarada e a superfície determinada for inferior ou igual a 0,1 hectare, considera-se a superfície determinada igual à declarada desde que a diferença não represente mais do que 20 % da superfície declarada.\n\n3 - É determinada a devolução total do apoio e a correspondente extinção do compromisso, no caso de incumprimento de qualquer critério de elegibilidade.\n\n4 - Na tipologia C.1.2.1, «Apoio às zonas com condicionantes naturais», a não manutenção do exercício da atividade agrícola na exploração durante o período de compromisso determina, de igual forma, a devolução total do apoio e a correspondente extinção do compromisso.\n\n5 - Na tipologia C.1.2.2, «Pagamento Rede Natura», o incumprimento do nível de encabeçamento na exploração durante o período de retenção previsto na alínea b) do n.º 1 do artigo 19.º determina uma redução proporcional da ajuda no ano em que se verifica o incumprimento.\n\n6 - Para efeitos do número anterior, o valor da redução resulta do quociente da diferença entre o encabeçamento verificado e o limite de encabeçamento, sobre o limite do encabeçamento.\n\n7 - O incumprimento dos requisitos mínimos previstos no artigo 6.º determina a redução do montante do apoio, nos termos a fixar em diploma próprio."
+  },
+  "907100643": {
+   "fragment_id": "907171907",
+   "type": 1,
+   "heading": "Capítulo VI — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — DISPOSIÇÕES FINAIS"
+  },
+  "907100644": {
+   "fragment_id": "907171908",
+   "type": 11,
+   "heading": "Artigo 27.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Contributo para o desempenho do PEPAC Portugal\n\nPara efeito do contributo para os objetivos específicos, bem como para o cumprimento das metas dos indicadores de resultados do PEPAC Portugal, a tabela que estabelece a ligação entre as intervenções, os objetivos específicos e os indicadores de resultados estabelecidos, respetivamente, no artigo 6.º e no anexo i do Regulamento (UE) 2021/2115, consta do anexo vi à presente portaria, da qual faz parte integrante."
+  },
+  "907100645": {
+   "fragment_id": "907171909",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2025."
+  },
+  "907100646": {
+   "fragment_id": "907171910",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 23 de dezembro de 2024."
+  },
+  "907100647": {
+   "fragment_id": "907171911",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea f) do artigo 3.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea f) do artigo 3.º]\n\nTabela de conversão em cabeças normais (CN) (*)\n\n| Espécies | Cabeças normais (CN) |\n| --- | --- |\n| Bovinos com mais de 2 anos | 1,000 |\n| Bovinos de 6 meses a 2 anos | 0,600 |\n| Bovinos com menos de 6 meses | 0,400 |\n| Ovinos com mais de um ano | 0,150 |\n| Caprinos com mais de um ano | 0,150 |\n| Porcas reprodutoras > 50 kg | 0,500 |\n| Outros suínos (com mais de 3 meses) | 0,300 |\n| Equídeos com mais de 6 meses | 1,000 |\n\n(*) Arredondado às milésimas."
+  },
+  "907100648": {
+   "fragment_id": "907171912",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 6.º)\n\nRequisitos mínimos obrigatórios aplicáveis às tipologias da presente portaria\n\n| Tipologia | Legislação nacional (na sua redação atual) |\n| --- | --- |\n| Pagamento Rede Natura | Decreto-Lei n.º 140/99, que implementa as Diretivas 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens, e 92/43/CEE, do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens. |"
+  },
+  "907100649": {
+   "fragment_id": "907171913",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 15.º)\n\nMontantes e limites do apoio da tipologia C.1.2.1, «Apoio às zonas com condicionantes naturais»\n\n| Escalões de superfície agrícola elegível da exploração | Zonas de montanha (€/ha) | Zonas sujeitas a condicionantes naturais significativas (€/ha) | Zonas afetadas por condicionantes específicas (€/ha) |\n| --- | --- | --- | --- |\n| Até 3 ha | 296,00 | 130,00 | 130,00 |\n| > 3 ha até ≤ 10 ha | 216,00 | 95,00 | 95,00 |\n| > 10 ha até ≤ 30 ha | 68,00 | 27,00 | 27,00 |\n| > 30 há até ≤ 150 ha | 22,00 | 18,00 | 18,00 |"
+  },
+  "907100650": {
+   "fragment_id": "907171914",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o artigo 17.º)\n\nÁrea geográfica de aplicação da tipologia C.1.2.2, «Pagamento Rede Natura»\n\n| Área condicionada tipo 1 | Área geográfica delimitada pelo polígono resultante da sobreposição:Arade/Odelouca, Arrábida/Espichel, Cabo Espichel, Cerro da Cabeça, Minas de Santo Adrião, Ribeira de Quarteira, Serra de Montejunto, Serras d’Aire e Candeeiros, Sicó/Alvaiázere, Peneda/Gerês (ZPE e SIC), Montesinho/Nogueira (ZPE e SIC), Alvão/Marão, Serra da Estrela, Montemuro, Valongo, Rio Vouga, Serra d’Arga, Corno do Bico, Serras da Freita e Arada, Rio Paiva, Carregal do Sal, Gardunha, Complexo do Açor, Serra da Lousã, Rios Sabor e Maçãs (ZPE e SIC), Douro Internacional e Vale do Rio Águeda (ZPE), Vale do Côa (ZPE), Douro Internacional (SIC), Morais (SIC), Romeu (SIC), Monchique (ZPE e SIC) e Caldeirão (ZPE e SIC). |\n| --- | --- |\n| Área condicionada tipo 2 | Área geográfica delimitada pelo polígono resultante da sobreposição:Barrocal, Costa Sudoeste (ZPE e SIC), Malcata (ZPE e SIC), São Mamede, Cabeção, Monfurado, Cabrela, Nisa/Lage da Prata, Tejo Internacional, Erges e Ponsul, Caia, Rio Guadiana/Juromenha, Guadiana, Campo Maior, Castro Verde e Vale do Guadiana, Monforte, Veiros, Vila Fernando, Piçarras, São Vicente, Torre da Bolsa (ZPE e SIC). |\n| Área condicionada tipo 3 | Área geográfica delimitada pelo polígono resultante da sobreposição:Moura/Barrancos, Moura/Mourão/Barrancos, Évora, Reguengos, Alvito/Cuba e Cuba (ZPE e SIC). |"
+  },
+  "907100651": {
+   "fragment_id": "907171915",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 1 do artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o n.º 1 do artigo 20.º)\n\nMontante e limites do apoio da tipologia C.1.2.2, «Pagamento Rede Natura»\n\n| Escalões de superfície agrícola elegível da exploração | Área condicionada tipo 1 - com restrição de não florestação de terras agrícolas (€/ha) | Área condicionada tipo 2 - com restrição de não florestação de terras agrícolas e restrição à intensificação da atividade agrícola (€/ha) | Área condicionada tipo 3 - com restrição de não florestação de terras agrícolas e restrição à intensificação da atividade agrícola em zona crítica (€/ha) |\n| --- | --- | --- | --- |\n| Até 100 ha | 20,00 | 40,00 | 44,00 |\n| >100 ha até ≤ 300 ha | 16,00 | 32,00 | 36,00 |\n| > 300 ha | 12,00 | 24,00 | 27,00 |"
+  },
+  "907100652": {
+   "fragment_id": "907171916",
+   "type": 14,
+   "heading": "Anexo VI — (a que se refere o artigo 27.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (a que se refere o artigo 27.º)\n\nTabela de ligação entre intervenções e os objetivos específicos e os indicadores de resultado estabelecidos, respetivamente, no artigo 6.º e no anexo I do Regulamento (UE) 2021/2115\n\n| Intervenções | Objetivos específicos | Indicadores de resultado |\n| --- | --- | --- |\n| Apoio às zonas com condicionantes naturais | O1 - Apoiar o rendimento viável das explorações agrícolas e a resiliência do setor agrícola em toda a União, no intuito de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como garantir a sustentabilidade económica da produção agrícola na União.O6 - Contribuir para travar e inverter a perda de biodiversidade, melhorar os serviços ecossistémicos e preservar os habitats e as paisagens. | R.4 - Percentagem da superfície agrícola utilizada (SAU) abrangida pelo apoio ao rendimento e sujeita a condicionalidade.R.7 - Percentagem de apoio adicional por hectare em zonas com maiores necessidades (em comparação com a média). |\n| Pagamento Rede Natura | SO1 - Apoiar o rendimento viável das explorações agrícolas e a resiliência do setor agrícola em toda a União, no intuito de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como garantir a sustentabilidade económica da produção agrícola na União.SO6 - Contribuir para travar e inverter a perda de biodiversidade, melhorar os serviços ecossistémicos e preservar os habitats e as paisagens. | R.4 - Percentagem da superfície agrícola utilizada (SAU) abrangida pelo apoio ao rendimento e sujeita a condicionalidade.R.7 - Percentagem de apoio adicional por hectare em zonas com maiores necessidades (em comparação com a média). |\n\n118507159"
+  },
+  "942754444": {
+   "fragment_id": "907171883",
+   "type": 11,
+   "heading": "Artigo 7.º — Exclusão de critérios de elegibilidade",
+   "in_force_from": "2025-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 369/2025/1 - Diário da República n.º 209/2025, Série I de 2025-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/369-2025-942971721), em vigor a partir de 2025-10-30, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Exclusão de critérios de elegibilidade\n\nOs beneficiários dos apoios previstos na presente portaria encontram-se isentos do critério de elegibilidade previsto na alínea b) do artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 369/2025/1 - Diário da República n.º 209/2025, Série I de 2025-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/369-2025-942971721), em vigor a partir de 2025-10-30, produz efeitos a partir de 2025-01-01"
+  },
+  "998506168": {
+   "fragment_id": "907171882",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos mínimos",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 482-B/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-b-2025-993315591), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Requisitos mínimos\n\nOs beneficiários dos apoios previstos na presente portaria são obrigados a cumprir, na exploração agrícola, os requisitos mínimos relativos à utilização de fertilizantes e produtos fitofarmacêuticos e outros requisitos obrigatórios, definidos em orientação técnica (OT) pela Autoridade de Gestão do PEPAC no continente, relativos à legislação nacional prevista no anexo ii da presente portaria, da qual faz parte integrante.\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 482-B/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-b-2025-993315591), em vigor a partir de 2026-01-01"
+  },
+  "998506167": {
+   "fragment_id": "907171906",
+   "type": 11,
+   "heading": "Artigo 26.º — Reduções e exclusões",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 482-B/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-b-2025-993315591), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Reduções e exclusões\n\n1 - Sem prejuízo do disposto no Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, são aplicáveis as reduções e as exclusões previstas nos números seguintes.\n\n2 - Sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos no local a diferença entre a superfície candidata e a superfície determinada, nos seguintes termos:\n\na) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da área determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;\n\nb) Se a diferença entre a superfície candidata e a superfície determinada for superior a 50 %, não é concedido o apoio;\n\nc) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectare, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata.\n\n3 - É determinada a devolução total do apoio e a correspondente extinção do compromisso, no caso de incumprimento de qualquer critério de elegibilidade.\n\n4 - Na tipologia C.1.2.1, «Apoio às zonas com condicionantes naturais», a não manutenção do exercício da atividade agrícola na exploração durante o período de compromisso determina, de igual forma, a devolução total do apoio e a correspondente extinção do compromisso.\n\n5 - Na tipologia C.1.2.2, «Pagamento Rede Natura», o incumprimento do nível de encabeçamento na exploração durante o período de retenção previsto na alínea b) do n.º 1 do artigo 19.º determina uma redução proporcional da ajuda no ano em que se verifica o incumprimento.\n\n6 - Para efeitos do número anterior, o valor da redução resulta do quociente da diferença entre o encabeçamento verificado e o limite de encabeçamento, sobre o limite do encabeçamento.\n\n7 - O incumprimento dos requisitos mínimos previstos no artigo 6.º determina a redução do montante do apoio, nos termos a fixar em diploma próprio.\n\n8 - Caso se verifique que a superfície determinada de um grupo de culturas é maior do que a superfície candidata, a superfície a utilizar no cálculo da ajuda ou do apoio será a superfície candidata.\n\n9 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da Portaria n.º 54-L/2023, de 27 de fevereiro.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 482-B/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-b-2025-993315591), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01"
+  },
+  "998506169": {
+   "fragment_id": "907171912",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 6.º)",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 482-B/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-b-2025-993315591), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 6.º)\n\nRequisitos mínimos obrigatórios aplicáveis às tipologias da presente portaria\n\n| Tipologia | Legislação nacional (na sua redação atual) |\n| --- | --- |\n| Pagamento Rede Natura | Decreto-Lei n.º 140/99, que implementa as Diretivas 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens, e 92/43/CEE, do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens. |\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 482-B/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-b-2025-993315591), em vigor a partir de 2026-01-01"
+  },
+  "1171376675": {
+   "fragment_id": "907171901",
+   "type": 11,
+   "heading": "Artigo 22.º — Análise e decisão das candidaturas",
+   "in_force_from": "2026-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 432/2026/1 - Diário da República n.º 179/2026, Série I de 2026-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/432-2026-1171008709), em vigor a partir de 2026-09-16, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 22.º — Análise e decisão das candidaturas\n\n1 - As candidaturas são analisadas pelo IFAP., I. P., de acordo com os critérios de elegibilidade previstos na presente portaria e são aprovadas pela AG PEPAC no continente.\n\n2 - As decisões das candidaturas são comunicadas aos beneficiários na área reservada do portal do IFAP., I. P., em www.ifap.pt.\n\n3 - As decisões de aprovação integral das candidaturas são comunicadas através do ato de pagamento.\n\n4 - Para efeitos do n.º 1, na tipologia C.1.2.1, «Apoio às zonas com condicionantes naturais», em caso de ultrapassagem dos envelopes financeiros indicativos, a AG PEPAC no continente pode estabelecer a aplicação de rateio proporcional.\n\n5 - Para efeitos do n.º 1, na tipologia C.1.2.2, «Pagamento Rede Natura», em caso de ultrapassagem dos envelopes financeiros indicativos, a AG PEPAC no continente pode estabelecer critérios de seleção de candidaturas.\n\n6 - O termo de aceitação é autenticado com a submissão da candidatura.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 432/2026/1 - Diário da República n.º 179/2026, Série I de 2026-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/432-2026-1171008709), em vigor a partir de 2026-09-16, com efeitos a partir de 2026-01-01."
+  }
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:120454167:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-901998055",
+ "dre_path": "/dr/detalhe/decreto-lei/33-2019-120454167",
+ "source_lastmod": "2025-01-03",
+ "versions": [
+  {
+   "date": "2019-03-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902104197",
+    "902104198",
+    "902104199",
+    "902104200",
+    "902104201",
+    "902104202",
+    "902104203",
+    "902104204",
+    "902104205",
+    "902104206",
+    "902104207",
+    "902104208",
+    "902104209",
+    "902104210",
+    "902104211",
+    "902104212",
+    "902104213",
+    "902104214",
+    "902104215",
+    "902104216",
+    "902104217",
+    "902104218",
+    "902104219",
+    "902104220",
+    "902104221",
+    "902104222",
+    "902104223"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901667918:por",
+     "title": "Lei n.º 45-A/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/lei/45-a-2024-901667918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "902104197",
+    "902104198",
+    "902104199",
+    "902104200",
+    "902104201",
+    "902104202",
+    "902104203",
+    "902104225",
+    "902104205",
+    "902104206",
+    "902104207",
+    "902104208",
+    "902104209",
+    "902104210",
+    "902104211",
+    "902104212",
+    "902104213",
+    "902104214",
+    "902104215",
+    "902104216",
+    "902104217",
+    "902104218",
+    "902104219",
+    "902104220",
+    "902104221",
+    "902104222",
+    "902104223",
+    "902104224"
+   ]
+  }
+ ],
+ "fragments": {
+  "902104197": {
+   "fragment_id": "901998056",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 33/2019\n\nde 4 de março\n\nEm linha com o Programa do XXI Governo Constitucional e o Programa Nacional de Reformas, que destacam a importância do empreendedorismo na estratégia global para o país, foi lançada a Estratégia Nacional para o Empreendedorismo - Startup Portugal, em 2016, com o objetivo de desenvolver o ecossistema de empreendedorismo português, promovendo o crescimento económico através da inovação e da criação de valor.\n\nNo âmbito da estratégia, foram inicialmente lançadas 15 medidas estruturadas em três eixos de ação: dinamização do ecossistema de empreendedorismo, reforço do financiamento e promoção da internacionalização. Pretendeu-se, assim, criar condições para o aumento do investimento nacional e estrangeiro em empresas inovadoras e de base tecnológica e promover a criação e o desenvolvimento de startups.\n\nDois anos depois do lançamento da Estratégia Nacional para o Empreendedorismo, assiste-se a uma consolidação do ecossistema nacional, tanto em termos do número de startups e de incubadoras criadas, como da quantidade de investimentos em Portugal por parte de empresas de base tecnológica de nível mundial. Ou seja, a visibilidade internacional do ecossistema de empreendedorismo português e o dinamismo da iniciativa empresarial de base tecnológica estão a contribuir também para a atração de centros de competência tecnológicos de multinacionais. De destacar também o aumento de escala das startups portuguesas, nomeadamente as primeiras a atingir um valor superior a mil milhões de euros (habitualmente designadas «Unicórnios»).\n\nEm julho de 2018, por ocasião do balanço de dois anos da Estratégia Nacional para o Empreendedorismo, foram lançadas 20 medidas, incluindo medidas específicas para os setores da energia, do turismo e do comércio. Este novo impulso à Estratégia reconhece a relação virtuosa entre o apoio à iniciativa empreendedora nacional e a atração de investimento estrangeiro de base tecnológica por multinacionais.\n\nA realização em Portugal, desde 2016, e durante os próximos 10 anos, da Web Summit, um dos eventos internacionais mais relevantes no panorama tecnológico, garante a continuidade de uma mostra de empreendedorismo e um fórum de inovação, que potencia imagem global do nosso país como destino de empreendedorismo e de inovação.\n\nNo contexto da implementação desta estratégia, a Startup Portugal - Associação Portuguesa para a promoção do Empreendedorismo (SPAPPE) tem contribuído, no âmbito da sua missão e área de atuação, para a operacionalização e divulgação de medidas como o desenvolvimento e consolidação da rede nacional de incubadoras, a realização de ações de promoção e internacionalização das startups portuguesas ou o apoio a startups nacionais para participarem na Web Summit (Road 2 web summit).\n\nO presente decreto-lei vem reconhecer o papel da SPAPPE no desenvolvimento de atividades de interesse público no âmbito da promoção do empreendedorismo e inovação, em estreita ligação com entidades públicas e privadas com atuação no sistema nacional de empreendedorismo.\n\nTendo em vista um papel ainda mais ativo da SPAPPE no apoio à implementação da Estratégia Nacional para o Empreendedorismo, estreita-se a relação da SPAPPE com a área governativa da economia e, em particular, com o IAPMEI - Agência para a Competitividade e Inovação, I. P., prevendo-se a celebração de contratos-programa com aquela entidade para o financiamento das suas atividades de interesse público.\n\nPor último, são ainda definidas algumas regras de funcionamento da SPAPPE.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "902104198": {
+   "fragment_id": "901998057",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "902104199": {
+   "fragment_id": "901998058",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece as regras aplicáveis à Startup Portugal - Associação Portuguesa para a promoção do Empreendedorismo (SPAPPE)."
+  },
+  "902104200": {
+   "fragment_id": "901998059",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - A SPAPPE é uma pessoa coletiva de tipo associativo e rege-se pelo disposto no presente decreto-lei, respetivos estatutos e, supletivamente, pelas normas referentes às associações em geral, especialmente o disposto nos artigos 157.º a 184.º do Código Civil.\n\n2 - A SPAPPE é uma pessoa coletiva de utilidade pública."
+  },
+  "902104201": {
+   "fragment_id": "901998060",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nA SPAPPE tem como missão o desenvolvimento de atividades de interesse público no âmbito da promoção do empreendedorismo com base de inovação e de valor acrescentado, em estreita ligação com entidades públicas e privadas com atuação no ecossistema nacional de empreendedorismo."
+  },
+  "902104202": {
+   "fragment_id": "901998061",
+   "type": 11,
+   "heading": "Artigo 4.º — Sujeição ao direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sujeição ao direito privado\n\nNas relações contratuais da SPAPPE e no que se refere ao regime de bens aplica-se o direito privado, sem prejuízo das regras de contratação pública aplicáveis nos termos do Código dos Contratos Públicos."
+  },
+  "902104203": {
+   "fragment_id": "901998062",
+   "type": 1,
+   "heading": "Capítulo II — Fins e atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Fins e atividades"
+  },
+  "902104204": {
+   "fragment_id": "901998063",
+   "type": 11,
+   "heading": "Artigo 5.º — Fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fins\n\n1 - Na prossecução da sua missão, a SPAPPE tem por fins:\n\na) Apoiar a implementação de políticas públicas na área do empreendedorismo, em particular a Estratégia Nacional para o Empreendedorismo;\n\nb) Dinamizar o empreendedorismo e as startups nacionais em território nacional e no estrangeiro;\n\nc) Apoiar a promoção e divulgação de iniciativas que contribuam para o reforço do ecossistema nacional de empreendedorismo;\n\nd) Prestar apoio técnico aos associados, sob a forma de estudos, assistência ou formação, e fornecer-lhes a informação disponível sobre os assuntos do interesse dos mesmos associados;\n\ne) Acompanhar a conceção e aplicação de políticas de apoio ao empreendedorismo, incluindo o desenvolvimento de propostas de ações a implementar, por si ou terceiros;\n\nf) Contribuir para um contexto de eficiência propício à criação de novas realidades empresariais;\n\ng) Promover condições favoráveis à sobrevivência e crescimento das startups, em parceria com outros agentes;\n\nh) Apoiar, coordenar e estimular iniciativas de divulgação e promoção no exterior das competências, produtos e serviços de startups;\n\ni) Apresentar candidaturas a financiamento europeu para implementar ações de apoio ao empreendedorismo, bem como divulgar programas de apoio e apoiar empreendedores e startups na sua capacitação.\n\nj) Celebrar protocolos de cooperação, participar noutras associações e em quaisquer outras pessoas coletivas, desde que tal participação seja do interesse dos associados;\n\nk) Representar e promover os interesses dos associados e a divulgação das suas posições comuns, quer nacional, quer internacionalmente, junto de quaisquer entidades públicas ou privadas;\n\n2 - A SPAPPE pode atuar em áreas relevantes para outras políticas setoriais, quando interligadas com a promoção do empreendedorismo, em articulação com os organismos públicos competentes.\n\n3 - A SPAPPE desenvolve a sua atividade junto dos diferentes setores económicos, recorrendo para o efeito ao apoio de entidades públicas ou privadas."
+  },
+  "902104205": {
+   "fragment_id": "901998064",
+   "type": 11,
+   "heading": "Artigo 6.º — Atividades de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atividades de serviço público\n\n1 - A SPAPPE, no desenvolvimento das atividades de serviço público definidas no artigo 3.º, é financiada, nomeadamente, por contratos-programa trianuais a celebrar com IAPMEI - Agência para a Competitividade e Inovação, I. P., ou outro organismo público da área governativa da economia, a designar pelo membro do Governo responsável por essa área.\n\n2 - Podem também ser celebrados contratos-programa específicos entre a SPAPPE e organismos públicos com atribuições noutras áreas governativas, com vista à prossecução de atividades de interesse público.\n\n3 - As atividades de serviço público desenvolvidas pela SPAPPE são financiadas exclusivamente pelos organismos públicos com atribuições nas respetivas áreas de atuação, na parte respeitante a essas atribuições."
+  },
+  "902104206": {
+   "fragment_id": "901998065",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres\n\n1 - A SPAPPE está sujeita aos deveres previstos no artigo 12.º do Decreto-Lei n.º 460/77, de 7 de novembro, na sua redação atual, com as necessárias adaptações, devendo as comunicações aí previstas ser dirigidas ao membro do Governo responsável pela área da economia.\n\n2 - O incumprimento durante dois anos consecutivos ou interpolados dos deveres referidos no número anterior determina a caducidade do estatuto de utilidade pública, reconhecida por despacho do membro do Governo responsável pela área da economia, a publicar na 2.ª série do Diário da República."
+  },
+  "902104207": {
+   "fragment_id": "901998066",
+   "type": 1,
+   "heading": "Capítulo III — Organização interna e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização interna e funcionamento"
+  },
+  "902104208": {
+   "fragment_id": "901998067",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatutos\n\n1 - Os estatutos da SPAPPE são aprovados em assembleia geral.\n\n2 - As alterações aos estatutos são efetuadas nos termos neles previstos e com observância do disposto no presente decreto-lei."
+  },
+  "902104209": {
+   "fragment_id": "901998068",
+   "type": 11,
+   "heading": "Artigo 9.º — Associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Associados\n\n1 - Podem ser admitidas como associados da SPAPPE quaisquer pessoas coletivas com atividade relevante no âmbito da promoção do empreendedorismo e que estejam interessadas na concretização da missão da associação.\n\n2 - A admissão de associados é feita nos termos definidos nos estatutos da SPAPPE.\n\n3 - A SPAPPE tem como associados públicos o IAPMEI - Agência para a Competitividade e Inovação, I. P., a ANI - Agência Nacional de Inovação, S. A., e a Portugal Ventures SCR, S. A.\n\n4 - A qualidade de associado é intransmissível e não pode ser objeto de negócios jurídicos."
+  },
+  "902104210": {
+   "fragment_id": "901998069",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Órgãos\n\n1 - São órgãos sociais da SPAPPE a assembleia geral, a direção e o conselho fiscal.\n\n2 - A SPAPPE dispõe de um órgão de consulta, designado por conselho estratégico."
+  },
+  "902104211": {
+   "fragment_id": "901998070",
+   "type": 11,
+   "heading": "Artigo 11.º — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Assembleia geral\n\n1 - A assembleia geral é o órgão máximo de decisão da SPAPPE, competindo-lhe a definição e aprovação da atuação geral, a apreciação da gestão e a eleição dos titulares dos órgãos sociais.\n\n2 - As demais competências e funcionamento da assembleia geral são definidos nos estatutos da SPAPPE.\n\n3 - A assembleia geral é constituída por todos os associados no pleno gozo dos seus direitos sociais.\n\n4 - Cada associado tem direito a um número de votos proporcional à sua contribuição para o património social.\n\n5 - A assembleia geral é dirigida por uma mesa, composta por um presidente, um vice-presidente e um secretário."
+  },
+  "902104212": {
+   "fragment_id": "901998071",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direção\n\n1 - A direção é o órgão de administração da SPAPPE, competindo-lhe exercer todos os poderes necessários à prossecução das atividades que se enquadrem nos fins desta e ainda exercer as demais competências que lhe sejam atribuídas pelos estatutos.\n\n2 - A direção é composta por um número ímpar de membros entre três e cinco, de entre os quais o presidente, o vice-presidente, o diretor-geral e os restantes vogais.\n\n3 - As competências e funcionamento da direção são definidos nos estatutos da SPAPPE.\n\n4 - A direção pode criar comissões ou subcomissões, permanentes ou temporárias, destinadas a acompanhar problemas específicos."
+  },
+  "902104213": {
+   "fragment_id": "901998072",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho fiscal\n\n1 - O conselho fiscal é o órgão responsável pela fiscalização da associação, o qual é constituído por três membros efetivos, sendo o presidente, obrigatoriamente, um revisor oficial de contas.\n\n2 - As competências e funcionamento do conselho fiscal são definidos nos estatutos da SPAPPE."
+  },
+  "902104214": {
+   "fragment_id": "901998073",
+   "type": 11,
+   "heading": "Artigo 14.º — Conselho estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho estratégico\n\n1 - O conselho estratégico é o órgão consultivo de aconselhamento estratégico da SPAPPE e é composto por personalidades de reconhecida idoneidade, integridade, competência e mérito, até um máximo de 20 membros, sendo o presidente eleito de entre os seus membros.\n\n2 - O conselho estratégico tem como função o aconselhamento nos domínios económico, técnico e científico, bem como nas questões relevantes para a prossecução dos fins da SPAPPE.\n\n3 - O conselho estratégico integra um representante da área governativa da economia.\n\n4 - Os restantes membros do conselho estratégico são eleitos em assembleia geral, por proposta da direção."
+  },
+  "902104215": {
+   "fragment_id": "901998074",
+   "type": 11,
+   "heading": "Artigo 15.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Receitas\n\nConstituem receitas da SPAPPE:\n\na) As joias, quotas e o produto de eventuais contribuições extraordinárias feitas pelos associados;\n\nb) Os montantes transferidos ao abrigo dos contratos-programa previstos no artigo 6.º;\n\nc) As comparticipações específicas correspondentes ao pagamento de trabalhos especialmente acordados entre as empresas associadas e a SPAPPE e outras receitas decorrentes da sua atividade;\n\nd) Os resultados de quaisquer aplicações financeiras;\n\ne) Os subsídios ou dotações que lhes sejam atribuídos;\n\nf) Os proveitos de quaisquer taxas a cobrar no âmbito das suas atividades de serviço público;\n\ng) Quaisquer outros bens ou rendimentos não proibidos por lei e que não contrariem o fim da associação."
+  },
+  "902104216": {
+   "fragment_id": "902121975",
+   "type": 11,
+   "heading": "Artigo 16.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Controlo financeiro\n\nA SPAPPE está submetida à jurisdição e ao controlo exercido pelo Tribunal de Contas e pela Inspeção-Geral das Finanças, nos termos da lei."
+  },
+  "902104217": {
+   "fragment_id": "902121976",
+   "type": 11,
+   "heading": "Artigo 17.º — Transparência financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transparência financeira\n\nA SPAPPE rege-se pelo princípio da transparência financeira, devendo a sua contabilidade ser organizada nos termos legais, de forma que permita identificar claramente todos os fluxos financeiros, operacionais e económicos existentes entre a SPAPPE e os respetivos associados que sejam entidades públicas, nos termos previstos no Decreto-Lei n.º 148/2003, de 11 de julho, na sua redação atual."
+  },
+  "902104218": {
+   "fragment_id": "902121977",
+   "type": 1,
+   "heading": "Capítulo IV — Regime de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime de trabalho"
+  },
+  "902104219": {
+   "fragment_id": "902121978",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime de trabalho e mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime de trabalho e mobilidade\n\n1 - Os trabalhadores de órgãos ou serviços abrangidos pelo âmbito de aplicação da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, podem ser autorizados a exercer funções na SPAPPE, por acordo de cedência de interesse público, nos termos previstos na LTFP, podendo os mesmos optar, a todo o tempo, pela remuneração base devida na situação jurídico-funcional de origem que esteja constituída por tempo indeterminado.\n\n2 - Os trabalhadores das empresas públicas podem ser autorizados a exercer funções na SPAPPE, nos termos do regime jurídico do contrato individual de trabalho.\n\n3 - Os demais trabalhadores da SPAPPE ficam sujeitos ao regime do contrato individual de trabalho, nos termos do Código do Trabalho."
+  },
+  "902104220": {
+   "fragment_id": "902121979",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "902104221": {
+   "fragment_id": "902121980",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma transitória\n\n1 - O disposto no presente decreto-lei produz efeitos relativamente a terceiros, independentemente de qualquer outra formalidade.\n\n2 - O presente decreto-lei constitui título bastante para a comprovação do disposto no n.º 2 do artigo 2.º, para todos os efeitos legais, incluindo os de registo, devendo quaisquer atos necessários à regularização da situação ser realizados pelos serviços competentes, mediante simples comunicação subscrita por dois membros da direção da SPAPPE.\n\n3 - Mantêm a condição de associadas todas as pessoas coletivas que já detinham esta condição à data de entrada em vigor do presente decreto-lei."
+  },
+  "902104222": {
+   "fragment_id": "902121981",
+   "type": 11,
+   "heading": "Artigo 20.º — Adaptação dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Adaptação dos estatutos\n\n1 - A SPAPPE deve proceder à alteração dos seus estatutos em conformidade com o presente decreto-lei no prazo de 90 dias contados da sua entrada em vigor.\n\n2 - O incumprimento do disposto no número anterior determina a caducidade do estatuto de utilidade pública."
+  },
+  "902104223": {
+   "fragment_id": "902121982",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "902104225": {
+   "fragment_id": "901998063",
+   "type": 11,
+   "heading": "Artigo 5.º — Fins",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Fins\n\n1 - Na prossecução da sua missão, a SPAPPE tem por fins:\n\na) Apoiar a implementação de políticas públicas na área do empreendedorismo, em particular a Estratégia Nacional para o Empreendedorismo;\n\nb) Dinamizar o empreendedorismo e as startups nacionais em território nacional e no estrangeiro;\n\nc) Apoiar a promoção e divulgação de iniciativas que contribuam para o reforço do ecossistema nacional de empreendedorismo;\n\nd) Prestar apoio técnico aos associados, sob a forma de estudos, assistência ou formação, e fornecer-lhes a informação disponível sobre os assuntos do interesse dos mesmos associados;\n\ne) Acompanhar a conceção e aplicação de políticas de apoio ao empreendedorismo, incluindo o desenvolvimento de propostas de ações a implementar, por si ou terceiros;\n\nf) Contribuir para um contexto de eficiência propício à criação de novas realidades empresariais;\n\ng) Promover condições favoráveis à sobrevivência e crescimento das startups, em parceria com outros agentes;\n\nh) Apoiar, coordenar e estimular iniciativas de divulgação e promoção no exterior das competências, produtos e serviços de startups;\n\ni) Apresentar candidaturas a financiamento europeu para implementar ações de apoio ao empreendedorismo, bem como divulgar programas de apoio e apoiar empreendedores e startups na sua capacitação.\n\nj) Celebrar protocolos de cooperação, participar noutras associações e em quaisquer outras pessoas coletivas, desde que tal participação seja do interesse dos associados;\n\nk) Representar e promover os interesses dos associados e a divulgação das suas posições comuns, quer nacional, quer internacionalmente, junto de quaisquer entidades públicas ou privadas;\n\n2 - A SPAPPE pode atuar em áreas relevantes para outras políticas setoriais, quando interligadas com a promoção do empreendedorismo, em articulação com os organismos públicos competentes.\n\n3 - A SPAPPE desenvolve a sua atividade junto dos diferentes setores económicos, recorrendo para o efeito ao apoio de entidades públicas ou privadas.\n\n4 - A SPAPPE fomenta e dinamiza o empreendedorismo jovem através de ações periódicas junto das escolas.\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01"
+  },
+  "902104224": {
+   "fragment_id": "902121983",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2019. - António Luís Santos da Costa - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Pedro Gramaxo de Carvalho Siza Vieira.\n\nPromulgado em 25 de fevereiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 28 de fevereiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112111495"
+  }
+ }
+}

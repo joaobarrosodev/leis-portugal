@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:235921:por
+title: Decreto n.º 36/98
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e a República Árabe do Egipto de Cooperação Económica, Industrial e
+  Técnico-Científica
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 36/98
+official_date: null
+publication_date: '1998-10-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 230/1998, Série I-A de 1998-10-06
+  number: '230'
+  series: I
+  supplement: null
+  pages: 5018 - 5021
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/36/1998/10/06/p/dre/pt/html
+  oj: null
+  dre: '235921'
+  dre_path: /dr/detalhe/decreto/36-1998-235921
+  internal: pt:dre:235921:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1998-235921
+  metadata_url: https://data.dre.pt/eli/dec/36/1998/10/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1998-235921
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-10-06T00:00:00Z'
+integrity:
+  source_sha256: d47e8d43a07e41ac7796ef692f4ac23ffc5d57be9d1b6b25444bee86bf3c4ce6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-36-235921.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cairo
+- Convenção
+- Cooperação Bilateral
+- Cooperação Técnica
+- Portugal
+- Egipto
+- Cooperação Científica
+- Cooperação Económica
+- Cooperação Industrial
+relationships: []
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 36/98
+
+de 6 de Outubro
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição da República Portuguesa, o Governo decreta o seguinte:
+
+###### Artigo único
+
+É aprovado o Acordo de Cooperação Económica, Industrial e Técnico-Científica entre a República Portuguesa e a República Árabe do Egipto, assinado no Cairo a 20 de Abril de 1993, cujas versões autênticas nas línguas portuguesa, árabe e inglesa seguem em anexo.
+
+Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Joaquim Augusto Nunes de Pina Moura - José Mariano Rebelo Pires Gago.
+
+**Assinado em 20 de Março de 1998.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 26 de Março de 1998.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA ÁRABE DO EGIPTO DE COOPERAÇÃO ECONÓMICA, INDUSTRIAL E TÉCNICO-CIENTÍFICA.
+
+O Governo da República Portuguesa e o Governo da República Árabe do Egipto, a seguir designados por Partes Contratantes:
+
+Conscientes da importância da cooperação económica, industrial e técnico-científica para o desenvolvimento e diversificação das relações entre ambos os países;
+
+No intuito de intensificar as relações económicas existentes entre os dois países numa base de equidade e reciprocidade de vantagens, que permita um completo aproveitamento das possibilidades criadas pelo progresso técnico-científico;
+
+Tendo em atenção o Acordo celebrado em 1977 pelo Governo da República Árabe do Egipto com a Comunidade Económica Europeia e os seus protocolos adicionais;
+
+Tendo presentes as disposições do Acordo Geral sobre Tarifas Aduaneiras e Comércio, de que os dois países são parte;
+
+Em conformidade com a ordem jurídica interna e os compromissos internacionais dos dois países;
+
+acordam o seguinte:
+
+###### Artigo 1.º
+
+1 - As Partes Contratantes promoverão a cooperação económica, industrial e técnico-científica entre os dois países com vista à intensificação e diversificação das suas relações bilaterais.
+
+2 - As Partes Contratantes definirão, por comum acordo, os sectores nos quais a cooperação bilateral se afigure mais vantajosa, tomando, nomeadamente, em consideração o desenvolvimento equilibrado das relações bilaterais e as prioridades da política económica dos dois países.
+
+###### Artigo 2.º
+
+1 - Sem prejuízo de outras medidas favoráveis ao desenvolvimento da cooperação bilateral e de acordo com a legislação em vigor, as Partes Contratantes:
+
+a) Incentivarão a promoção de contactos entre as instituições públicas de ambos os países, incluindo o intercâmbio de peritos nos termos a acordar entre as entidades envolvidas;
+
+b) Apoiarão as iniciativas, designadamente feiras, exposições, simpósios e outros encontros, destinados a fomentar e desenvolver a cooperação entre os dois países e principalmente entre os seus agentes económicos e entre as respectivas organizações representativas;
+
+c) Facilitarão o desenvolvimento de novas formas de cooperação, tais como a criação de empresas mistas, joint-ventures, os investimentos cruzados, a subcontratação, os contratos de gestão, a investigação, o intercâmbio de tecnologias e a produção conjunta de bens;
+
+d) Facultarão informação a agentes económicos dos dois países sobre as oportunidades concretas de cooperação e desenvolvimento das relações bilaterais;
+
+e) Apoiarão a cooperação entre organizações económicas e empresas dos dois países, nomeadamente o estabelecimento, por estas, de programas a longo prazo, protocolos e contratos;
+
+f) Apoiarão a realização de acções de formação com interesse específico para a actividade económica, tendo em vista a preparação técnica de empresários e gestores, bem como de quadros superiores e médios das empresas;
+
+g) Apoiarão a cooperação entre institutos científicos e de investigação, com o intuito de promover o intercâmbio de informações técnico-científicas e de peritos, a organização de conferências e de seminários, a preparação e a implementação de projectos económicos conjuntos nas áreas da ciência e investigação.
+
+2 - As Partes Contratantes facilitarão, de acordo com a sua legislação, nos respectivos países, a instalação de escritórios que representem organizações económicas e empresas do outro país.
+
+###### Artigo 3.º
+
+As Partes Contratantes promoverão a cooperação entre as empresas dos dois países, incluindo a cooperação entre pequenas e médias empresas e a criação de empresas mistas para operar em países terceiros.
+
+###### Artigo 4.º
+
+1 - As Partes Contratantes empenhar-se-ão em proporcionar condições favoráveis de financiamento, em conformidade com a legislação de cada um dos respectivos países, no que se refere aos projectos no âmbito do presente Acordo.
+
+2 - As Partes Contratantes considerarão a protecção recíproca de investimentos tendo em vista contribuir para o desenvolvimento de uma cooperação mutuamente vantajosa nos domínios económico, industrial e técnico-científico.
+
+###### Artigo 5.º
+
+No âmbito da sua ordem jurídica interna e dos seus compromissos internacionais, ambas as Partes protegerão os direitos de propriedade industrial, económica e intelectual.
+
+###### Artigo 6.º
+
+1 - Para assegurar a execução do presente Acordo, as Partes Contratantes estabelecem uma comissão mista, composta por representantes de ambos os países, que reunirá, se necessário, uma vez por ano e a pedido de cada uma das Partes Contratantes, em Portugal e no Egipto, alternadamente.
+
+2 - A comissão mista acompanhará e coordenará a cooperação económica, industrial e técnico-científica entre os dois países. Identificará áreas de cooperação que representem vantagens para ambos e recomendará medidas de aplicação.
+
+3 - A comissão mista aprovará as regras necessárias ao seu funcionamento.
+
+###### Artigo 7.º
+
+O presente Acordo não prejudica os compromissos internacionais assumidos pelas Partes Contratantes.
+
+###### Artigo 8.º
+
+1 - O Acordo entrará em vigor 30 dias após a data de recepção da segunda das notas pelas quais as duas Partes comunicarem reciprocamente a sua aprovação em concordância com os processos constitucionais de ambos os países.
+
+2 - As alterações ao presente Acordo, aprovadas por ambas as Partes, entrarão em vigor nos termos do n.º 1.
+
+3 - O Acordo será válido por cinco anos e renovar-se-á automaticamente por sucessivos períodos de um ano, salvo se uma das Partes Contratantes notificar a outra, por escrito, através dos canais diplomáticos adequados, com uma antecedência de seis meses, da sua vontade em o denunciar.
+
+Feito no Cairo, em 20 de Abril de 1993, em dois exemplares, cada um contendo os textos do Acordo em português, árabe e inglês, fazendo ambos igualmente fé. Em caso de divergência de interpretação, prevalecerá o texto em inglês.
+
+Pelo Governo da República Portuguesa:
+
+[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+
+Pelo Governo da República Árabe do Egipto:
+
+[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+
+[(ver texto em língua estrangeira no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+
+AGREEMENT ON ECONOMIC, INDUSTRIAL, TECHNICAL AND SCIENTIFIC COOPERATION BETWEEN THE GOVERNMENT OF THE REPUBLIC OF PORTUGAL AND THE GOVERNMENT OF THE ARAB REPUBLIC OF EGYPT.
+
+The Government of the Republic of Portugal and the Government of the Arab Republic of Egypt, hereinafter referred to as the Contracting Parties:
+
+Conscious of the importance of economic, industrial, technical and scientific cooperation for the development and diversification of the relations between both countries;
+
+With a view to strengthening the existing economic relations between the two countries on a basis of equity and reciprocity of advantages which will allow a full use of the opportunities provided by technical and scientific progress;
+
+Bearing in mind the Agreement signed in 1977 between the European Economic Community and the Government of the Arab Republic of Egypt and its additional protocols;
+
+Taking into account the provisions of the General Agreement on Tariffs and Trade to which the two countries are parties;
+
+In accordance with international legislation and the international obligations of the two countries;
+
+have agreed as follows:
+
+Article 1
+
+1 - The Contracting Parties shall promote economic, industrial, technical and scientific cooperation between the two countries with a view to intensifying and diversifying their bilateral relations.
+
+2 - The Contracting Parties shall define, by mutual agreement, the fields in which the bilateral cooperation appears to be more advantageous, taking into account the regular development of bilateral relations and the priorities of the economic policy of the two countries.
+
+Article 2
+
+1 - Without prejudice to other beneficial measures for the implementation of bilateral cooperation and in accordance with the legislation in force, the Contracting Parties:
+
+a) Shall encourage the promotion of contacts between the public institutions of both countries, including the exchange of experts under terms to be agreed upon between the concerned bodies;
+
+b) Shall support initiatives such as fairs, exhibitions, symposia and other meetings intended to promote end develop cooperation between the two coutries and mainly between their economic agents and the respective representative organizations;
+
+c) Shall facilitate the implementation of new forms of cooperation such as the creation of joint enterprises, joint-ventures, cross investments, subcontracting, management contracts, research, the exchange of technologies and the joint production of goods;
+
+d) Shall provide information to economic agents of the two countries about the concrete opportunities of cooperation and development of bilateral relations;
+
+e) Shall support cooperation between economic organizations and enterprises of the two countries, namely the establishment of long term programmes, protocols and contracts;
+
+f) Shall support educational programmes with specific interest for the economic activity, aiming at the development of technical skills of enterpreneurs and managers, as well as senior executive officers and other staff officers;
+
+g) Shall support cooperation between scientific and research institutes in order to promote the exchange of technical and scientific information as well as the exchange of experts, the organization of conferences and seminars, the preparation and the implementation of joint economic projects in the fields of science and research.
+
+2 - The Contracting Parties shall facilitate in their own countries subject to their legislation the establishment of offices representing economic organizations and enterprises of the other country.
+
+Article 3
+
+The Contracting Parties shall promote cooperation between the enterprises of the two countries, including cooperation between small and medium-size enterprises and the creation of joint enterprises to operate in third countries.
+
+Article 4
+
+1 - The Contracting Parties shall endeavour to grant financial facilities as favourable as possible, to projects within the framework of the present Agreement, in accordance with the legislation of each of the respective countries.
+
+2 - The Contracting Parties shall consider the reciprocal protection of investments in order to contribute to the development of mutually advantageous cooperation in the economic, industrial, technical and scientific fields.
+
+Article 5
+
+Both Parties shall protect within their internal legislation and their international obligations the industrial, economic and intellectual property rights.
+
+Article 6
+
+1 - With a view to ensuring the implementation of the presente Agreement, the Contracting Parties shall establish a joint commission, composed of representatives of both countries which will meet, if necessary, once a year, and at the request of one of the Contracting Parties, alternately in Portugal and in Egypt.
+
+2 - The joint commission shall supervise and coordinate the economic, industrial, technical and scientific cooperation between the two countries. It shall identify areas of cooperation of mutual advantages and recommend measures of application.
+
+3 - The joint commission shall approve its own rules of procedure.
+
+Article 7
+
+The present Agreement shall not affect the international obligations undertaken by the Contracting Parties.
+
+Article 8
+
+1 - The Agreement shall come into force 30 days after the date of receiving the second of notes by which the Contracting Parties inform each other about its approval in accordance with the constitutional procedures of both countries.
+
+2 - Amendments to the present Agreement, agreed by both parties, shall come into force in accordance with paragraph 1.
+
+3 - The Agreement shall be valid for a period of five years and shall automatically renewed each subsequent year, unless one of the Parties notifies the other Party, in writing, through diplomatic channels, six months in advance, of its desire to terminate it.
+
+Done in Cairo, on this twentieth day of April 1993, in two originals, each containing the texts of the Agreement in Portuguese, Arabic and English languages all the texts being equally authentic. In case of divergency of interpretation, the English text shall prevail.
+
+For the Government of the Republic of Portugal:
+
+[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)
+
+For the Government of the Arab Republic of Egypt:
+
+[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/1998/10/230a00/50185021.pdf)

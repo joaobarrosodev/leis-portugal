@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:178079:por
+title: Portaria n.º 172/2012
+short_title: null
+summary: Primeira alteração à Portaria n.º 242/2008, de 18 de março, que estabelece os termos do pagamento de taxas a cobrar
+  pela Agência Portuguesa do Ambiente (APA) pela apreciação dos procedimentos relativos à notificação de transferência de
+  resíduos que se destine à importação, exportação e trânsito
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 172/2012
+official_date: null
+publication_date: '2012-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/2012, Série I de 2012-05-24
+  number: '101'
+  series: I
+  supplement: null
+  pages: 2765 - 2765
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/05/10100/0276502765.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/172/2012/05/24/p/dre/pt/html
+  oj: null
+  dre: '178079'
+  dre_path: /dr/detalhe/portaria/172-2012-178079
+  internal: pt:dre:178079:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/172-2012-178079
+  metadata_url: https://data.dre.pt/eli/port/172/2012/05/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/172-2012-178079
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-05-24T00:00:00Z'
+integrity:
+  source_sha256: a1987a2b5e37beaff82deb714f884485cd6641fd021a3f84dd6e9ef3d47f5108
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-172-178079.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão de Resíduos
+- Transporte de Resíduos
+- TAXA de Prestação de Serviços
+- Agência Portuguesa do Ambiente
+relationships:
+- type: cites
+  target: celex:32006R1013
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1013/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/242/2008/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/242/2008/03/18/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 172/2012
+
+de 24 de maio
+
+Nos termos do artigo 12.º, n.º 1, do Decreto-Lei n.º 45/2008, de 11 de março, diploma que assegura a execução, na ordem jurídica nacional, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º [1013/2006](http://data.europa.eu/eli/reg/2006/1013/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de junho, relativo à transferência de resíduos, a apreciação dos procedimentos de notificação de transferência de resíduos está sujeita ao pagamento de taxas, a cobrar pela Agência Portuguesa do Ambiente (APA) ao notificador, cujos montantes são fixados pela Portaria n.º 242/2008, de 18 de março.
+
+Decorridos que são quatro anos sobre a aplicação deste regime, impõe-se clarificar algumas expressões que podem restringir, infundadamente, o âmbito de aplicação do diploma.
+
+É, pois neste contexto e no sentido de eliminar qualquer dúvida quanto à aplicação, pela APA, das taxas que são devidas como contrapartidas pela apreciação dos procedimentos relativos à notificação de transferência de resíduos, que se procede à presente alteração.
+
+Assim:
+
+Ao abrigo do artigo 12.º, n.º 1, do Decreto-Lei n.º 45/2008, de 11 de março, manda o Governo, pelo Secretário de Estado do Ambiente e do Ordenamento do Território, no uso dos poderes delegados pelo despacho n.º 12412/2011, de 9 de setembro, da Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o seguinte:
+
+###### Artigo 1.º
+
+A alínea b) do n.º 1 da Portaria n.º 242/2008, de 18 de março, passa a ter a seguinte redação:
+
+«A apreciação dos procedimentos relativos à notificação de transferência de resíduos está sujeita ao pagamento de uma taxa calculada com base na aplicação da fórmula constante do anexo à presente portaria, da qual faz parte integrante.»
+
+###### Artigo 2.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 10 de maio de 2012.**

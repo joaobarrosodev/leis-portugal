@@ -1,0 +1,379 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621139:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-938632016",
+ "dre_path": "/dr/detalhe/decreto-lei/268-2001-621139",
+ "source_lastmod": "2025-10-10",
+ "versions": [
+  {
+   "date": "2001-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938604220",
+    "938604221",
+    "938604222",
+    "938604223",
+    "938604224",
+    "938604225",
+    "938604226",
+    "938604227",
+    "938604228",
+    "938604229",
+    "938604230",
+    "938604232",
+    "938604233",
+    "938604234",
+    "938604235",
+    "938604236",
+    "938604237",
+    "938604238",
+    "938604239",
+    "938604240",
+    "938604241",
+    "938604242",
+    "938604243",
+    "938604244",
+    "938604245",
+    "938604246",
+    "938604247",
+    "938604248",
+    "938604249",
+    "938604250",
+    "938604251",
+    "938604252",
+    "938604253",
+    "938604254",
+    "938604255",
+    "938604256",
+    "938604257",
+    "938604258",
+    "938604259",
+    "938604260"
+   ]
+  }
+ ],
+ "fragments": {
+  "938604220": {
+   "fragment_id": "938632017",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 268/2001\n\nde 4 de Outubro\n\nA sociedade EURO 2004, S. A. - Sociedade Promotora da Realização em Portugal da Fase Final do Campeonato Europeu de Futebol de 2004, foi constituída pelo Decreto-Lei n.º  33/2000, de 14 de Março, tendo por objecto social a concepção, planeamento, promoção e realização em Portugal da fase final do Campeonato Europeu de Futebol em 2004, de acordo com o caderno de encargos de candidatura à organização da fase final do referido Campeonato e outros normativos da Union des Associations Européennes de Football (UEFA).\n\nFicou, ainda, adstrito à EURO 2004, S. A., através do Estado, o acompanhamento e a fiscalização do programa de construção, reconstrução e requalificação dos estádios em que se realizarão os jogos do Campeonato, bem como as infra-estruturas e equipamentos complementares e de apoio, de acordo com os requisitos definidos pela UEFA.\n\nAssim, a sociedade EURO 2004, S. A., pessoa colectiva incumbida de prosseguir os objectivos subjacentes à realização do referido Campeonato, tem vindo a desempenhar a sua actividade no âmbito de duas áreas de intervenção, totalmente distintas, sendo a primeira da responsabilidade da Federação Portuguesa de Futebol (FPF) e a segunda do Estado.\n\nNeste contexto, optou-se por uma estrutura empresarial na qual se congregaram os esforços do Estado e da FPF, sendo, inicialmente, esta a que melhor se coadunava com a prossecução dos objectivos propostos.\n\nNo entanto, o Estado e a FPF, em articulação com a UEFA, definiram um novo conceito de participação na organização e realização da fase final do Campeonato Europeu de Futebol de 2004 incompatível com o modelo tradicional, na medida em que passou a ser privilegiada a constituição de uma joint venture entre a UEFA e a FPF.\n\nAcresce que os pressupostos do modelo financeiro relativos à disponibilização das verbas assumidas pelo Estado foram alterados, uma vez que a respectiva gestão foi cometida quer ao Instituto Nacional do Desporto (IND) quer às estruturas orgânicas relacionadas com o III Quadro Comunitário de Apoio, no âmbito dos contratos-programa entretanto celebrados com os donos dos estádios.\n\nDe igual modo, deve ter-se presente a constituição, através da Resolução do Conselho de Ministros n.º 115/2000, de 28 de Agosto, da comissão interministerial, que tem como objectivo fundamental assegurar a coordenação, acompanhamento e avaliação, a nível global, dos investimentos públicos a efectuar com infra-estruturas e equipamentos complementares e de apoio, no âmbito da realização da fase final do Campeonato Europeu de Futebol de 2004.\n\nFace ao exposto, torna-se imperioso proceder a uma separação entre as duas actividades levadas a cabo pela sociedade EURO 2004, S. A., sendo a organização da competência da FPF, e a de acompanhamento e fiscalização das obras dos estádios e outras infra-estruturas complementares e de apoio, da competência do Estado. Esta separação é efectuada através da atribuição de cada uma das referidas actividades a entidades económica e juridicamente distintas, sendo, por um lado, criada pelo presente diploma a Portugal 2004 - Sociedade de Acompanhamento e Fiscalização do Programa de Construção dos Estádios e Outras Infra-Estruturas para a Fase Final do Campeonato Europeu de Futebol de 2004, S. A., e, por outro, pelo Decreto-Lei n.º 267/2001, de 4 de Outubro, mantida a EURO 2004, S. A., embora restringindo o seu objecto social à concepção, planeamento, promoção e realização em Portugal da fase final do Campeonato Europeu de Futebol em 2004.\n\nPor último, importa que sejam mantidas de forma estreita, pela sua importância, as relações entre o Estado e as organizações desportivas e autárquicas responsáveis pelo EURO 2004 no que diz respeito à evolução da construção das infra-estruturas e à segurança geral e específica a implementar no quadro do evento, da responsabilidade do Governo.\n\nFoi ouvida a Federação Portuguesa de Futebol.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938604221": {
+   "fragment_id": "938632018",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É constituída a sociedade anónima Portugal 2004 - Sociedade de Acompanhamento e Fiscalização do Programa de Construção dos Estádios e Outras Infra-Estruturas para a Fase Final do Campeonato Europeu de Futebol de 2004, S. A., adiante designada abreviadamente por Portugal 2004, S. A.\n\n2 - A Portugal 2004, S. A., rege-se pelo presente diploma, pela legislação especial que lhe seja aplicável, pelos Estatutos, em anexo, e, no que neles for omisso, pelas normas aplicáveis às sociedades anónimas."
+  },
+  "938604222": {
+   "fragment_id": "938632019",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão accionistas da Portugal 2004, S. A., o Estado e a Federação Portuguesa de Futebol (FPF)."
+  },
+  "938604223": {
+   "fragment_id": "938632020",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A Portugal 2004, S. A., tem por objecto social o acompanhamento e fiscalização do programa de construção, reconstrução e requalificação dos estádios e o acompanhamento da construção dos equipamentos complementares e de apoio aos jogos do Campeonato da Europa de 2004 e outras infra-estruturas nacionais ou municipais, de acordo com o caderno de encargos de candidatura à organização da fase final do referido Campeonato.\n\n2 - Na prossecução do seu objecto social, a Portugal 2004, S. A., actua em estreita colaboração com a comissão interministerial criada pela Resolução do Conselho de Ministros n.º 115/2000, de 28 de Agosto, com a redacção que lhe foi dada pela Resolução do Conselho de Ministros n.º 64/2001, de 31 de Maio, e com outras entidades públicas ou privadas envolvidas na preparação e realização do evento."
+  },
+  "938604224": {
+   "fragment_id": "938632021",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital social é de (euro) 500000, subscrito pelo Estado em 95%, a que equivale o valor de (euro) 475000, e pela FPF em 5%, a que equivale o valor de (euro) 25000.\n\n2 - O capital social na parte correspondente ao Estado encontra-se totalmente realizado através do Instituto Nacional do Desporto.\n\n3 - O capital social na parte correspondente à FPF encontra-se realizado em 30% do seu valor, percentagem correspondente a (euro) 7500, devendo a realização da parte restante, no montante de (euro) 17500, ser concretizada, de uma só vez, até ao final do 1.º semestre do ano de 2004.\n\n4 - O capital social da Portugal 2004, S. A., é representado por 5000 acções, no valor de (euro) 100 cada, correspondendo um voto a cada 10 acções."
+  },
+  "938604225": {
+   "fragment_id": "938632022",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As acções representativas do capital realizado pelo accionista Estado são detidas pela Direcção-Geral do Tesouro.\n\n2 - Os direitos do Estado como accionista da Portugal 2004, S. A., são exercidos através de representante nomeado por despacho conjunto dos Ministros das Finanças e da Juventude e do Desporto."
+  },
+  "938604226": {
+   "fragment_id": "938632023",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os funcionários públicos do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas, podem ser autorizados a exercer quaisquer funções na Portugal 2004, S. A., em regime de requisição ou de comissão de serviço, sem perda de quaisquer direitos ou regalias inerentes ao seu lugar de origem.\n\n2 - O exercício das funções referidas no número anterior suspende:\n\na) A comissão de serviço dos dirigentes;\n\nb) A requerimento do interessado, a contagem dos prazos para apresentação de relatórios ou prestação de provas escritas nos estatutos das carreiras do pessoal docente universitário, de investigação científica e do docente do ensino superior politécnico.\n\n3 - O pessoal a que se refere o n.º 1 do presente artigo que exerça funções na EURO 2004, S. A., nas áreas actualmente adstritas à Portugal 2004, S. A., transita para esta Sociedade, mantendo-se, sem quebra de continuidade, as requisições e comissões de serviço, com dispensa de quaisquer formalidades, devendo apenas ser comunicada aos respectivos serviços de origem a sua transição para a nova sociedade."
+  },
+  "938604227": {
+   "fragment_id": "938632024",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - São receitas da Sociedade as decorrentes da exploração do seu objecto social, nomeadamente as verbas a contratualizar com o Instituto Nacional do Desporto e os donativos que lhe venham a ser atribuídos, incluindo 50% das receitas da amoedação prevista para este evento.\n\n2 - Os eventuais lucros apurados pela Sociedade serão distribuídos pelos accionistas de acordo com o previsto no Código das Sociedades Comerciais, em função das respectivas participações."
+  },
+  "938604228": {
+   "fragment_id": "938632025",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - São aprovados os estatutos da Portugal 2004, S. A., os quais constam do anexo ao presente diploma.\n\n2 - Os estatutos da Portugal 2004, S. A., não carecem de redução a escritura pública, devendo o competente registo comercial ser feito sem sujeição a taxas, emolumentos ou quaisquer outros encargos legais, com base no Diário da República em que hajam sido publicados.\n\n3 - As alterações aos estatutos da Portugal 2004, S. A., realizam-se nos termos da lei comercial e estão isentas de taxas, emolumentos e outros encargos legais."
+  },
+  "938604229": {
+   "fragment_id": "938632026",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nFica desde já convocada a assembleia geral da Portugal 2004, S. A., para se reunir, na sede social, no 10.º dia posterior ao da entrada em vigor do presente diploma, para eleição dos corpos sociais."
+  },
+  "938604230": {
+   "fragment_id": "938632027",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - A Portugal 2004, S. A., assume todos os bens, direitos e obrigações identificados no plano de inventariação aprovado pela assembleia geral da EURO 2004, S. A., de 14 de Maio de 2001.\n\n2 - A Portugal 2004, S. A., assume, ainda, os bens, direitos e obrigações resultantes de actos de gestão corrente praticados pela EURO 2004, S. A., entre 1 de Abril de 2001 e a data de entrada em vigor do presente diploma, na parte correspondente às responsabilidades assumidas pelo Estado, de acordo com o regulamento interno aprovado pela assembleia geral da EURO 2004, S. A., de 3 de Abril de 2000.\n\n3 - A utilização de quaisquer símbolos, logótipos ou outras referências do Campeonato Europeu de Futebol de 2004 só poderá ser efectuada com a autorização prévia e expressa da UEFA, através da EURO 2004, S. A."
+  },
+  "938604232": {
+   "fragment_id": "938632029",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA PORTUGAL 2004 - SOCIEDADE DE ACOMPANHAMENTO E FISCALIZAÇÃO DO PROGRAMA DE CONSTRUÇÃO DOS ESTÁDIOS E OUTRAS INFRA-ESTRUTURAS PARA A FASE FINAL DO CAMPEONATO EUROPEU DE FUTEBOL DE 2004, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DA PORTUGAL 2004 - SOCIEDADE DE ACOMPANHAMENTO E FISCALIZAÇÃO DO PROGRAMA DE CONSTRUÇÃO DOS ESTÁDIOS E OUTRAS INFRA-ESTRUTURAS PARA A FASE FINAL DO CAMPEONATO EUROPEU DE FUTEBOL DE 2004, S. A."
+  },
+  "938604233": {
+   "fragment_id": "938632030",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, duração e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, duração e sede"
+  },
+  "938604234": {
+   "fragment_id": "938632031",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e duração\n\n1 - A sociedade adopta a denominação de Portugal 2004 - Sociedade de Acompanhamento e Fiscalização do Programa de Construção dos Estádios e Outras Infra-Estruturas para a Fase Final do Campeonato Europeu de Futebol de 2004, S. A., adiante designada abreviadamente por Portugal 2004, S. A.\n\n2 - A Portugal 2004, S. A., é uma sociedade anónima de capitais mistos com duração até 31 de Dezembro de 2004."
+  },
+  "938604235": {
+   "fragment_id": "938632032",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sede social é na Avenida de D. João II, lote 1.07.2.1, ala B, 4.º, Lisboa.\n\n2 - Por deliberação do conselho de administração, pode ser mudada a sede social para outro local do mesmo concelho ou limítrofe e podem ser criadas sucursais, agências, delegações ou outras formas de representação."
+  },
+  "938604236": {
+   "fragment_id": "938632033",
+   "type": 1,
+   "heading": "Capítulo II — Objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Objecto social"
+  },
+  "938604237": {
+   "fragment_id": "938632034",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto social\n\nA Portugal 2004, S. A., tem por objecto social o acompanhamento e fiscalização do programa de construção, reconstrução e requalificação dos estádios e o acompanhamento da construção dos equipamentos complementares e de apoio para os jogos do Campeonato da Europa de 2004 e outras infra-estruturas nacionais ou municipais, de acordo com o caderno de encargos da candidatura à organização da fase final do referido Campeonato."
+  },
+  "938604238": {
+   "fragment_id": "938632035",
+   "type": 11,
+   "heading": "Artigo 4.º — Prossecução do objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prossecução do objecto social\n\nPara a realização do objecto social, incumbe especialmente à Portugal 2004, S. A.:\n\na) Acompanhar e fiscalizar o programa de construção, reconstrução e requalificação dos estádios e acompanhar a efectivação das restantes infra-estruturas necessárias à realização da fase final do Campeonato Europeu de Futebol de 2004, nomeadamente acessibilidades, parqueamentos, vias rodoviárias e ferroviárias, aeroportos e hospitais, de acordo com o previsto no dossiê de candidatura apresentado à UEFA, garantindo a sua disponibilização até final de 2003;\n\nb) Gerir, em parceria com o ICEP - Investimentos, Comércio e Turismo de Portugal, com a Direcção-Geral do Turismo e com a EURO 2004, S. A., a promoção do evento assumida pelo Estado no dossiê da candidatura portuguesa;\n\nc) Praticar todos os actos necessários à disponibilização à EURO 2004, S. A., do espaço destinado ao International Broadcasting Center (IBC), de acordo com o compromisso assumido pelo Estado no dossiê da candidatura portuguesa;\n\nd) Cooperar com a EURO 2004, S. A., nomeadamente através do envio de relatórios mensais sobre a evolução das infra-estruturas acima referidas;\n\ne) Cooperar com a comissão interministerial criada pela Resolução do Conselho de Ministros n.º 115/2000, de 28 de Agosto, com a redacção que lhe foi dada pela Resolução do Conselho de Ministros n.º 64/2001, de 31 de Maio, no sentido de agilizar todos os procedimentos adequados ao bom andamento dos processos relacionados com as infra-estruturas;\n\nf) Colaborar com as entidades que asseguram o cumprimento dos normativos e procedimentos tendentes a salvaguardar a segurança global da fase final do Campeonato Europeu de Futebol de 2004 em todas as suas vertentes."
+  },
+  "938604239": {
+   "fragment_id": "938632036",
+   "type": 1,
+   "heading": "Capítulo III — Capital social e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Capital social e acções"
+  },
+  "938604240": {
+   "fragment_id": "938632037",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\n1 - O capital social é de (euro) 500000, subscrito pelo Estado em 95%, a que equivale o valor (euro) 475000, e pela Federação Portuguesa de Futebol (FPF) em 5%, a que equivale o valor de (euro) 25000.\n\n2 - O capital social na parte correspondente ao Estado encontra-se totalmente realizado através do Instituto Nacional do Desporto.\n\n3 - O capital social na parte correspondente à FPF encontra-se realizado em 30% do seu valor, percentagem correspondente a (euro) 7500, devendo a realização da parte restante, no montante de (euro) 17500, ser concretizada, de uma só vez, até ao final do 1.º semestre do ano 2004."
+  },
+  "938604241": {
+   "fragment_id": "938632038",
+   "type": 11,
+   "heading": "Artigo 6.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acções\n\n1 - O capital social da Portugal 2004, S. A., é representado por 5000 acções no valor de (euro) 100 cada, correspondendo um voto a cada 10 acções.\n\n2 - As acções são nominativas e assumem a forma escritural."
+  },
+  "938604242": {
+   "fragment_id": "938632039",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos sociais"
+  },
+  "938604243": {
+   "fragment_id": "938632040",
+   "type": 8,
+   "heading": "Secção I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assembleia geral"
+  },
+  "938604244": {
+   "fragment_id": "938632041",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição\n\nA assembleia geral é composta pelos accionistas com direito a voto."
+  },
+  "938604245": {
+   "fragment_id": "938632042",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\nCompete à assembleia geral:\n\na) Deliberar sobre o relatório de gestão e as contas do exercício;\n\nb) Deliberar sobre a proposta de aplicação de resultados;\n\nc) Proceder à apreciação geral da administração e fiscalização da Sociedade;\n\nd) Aprovar o plano de actividades e o orçamento anuais;\n\ne) Deliberar sobre alterações aos presentes estatutos;\n\nf) Deliberar sobre a fixação das remunerações dos membros dos órgãos sociais;\n\ng) Eleger os membros da mesa da assembleia geral, bem como os membros do conselho de administração;\n\nh) Autorizar a contratação de empréstimos;\n\ni) Deliberar sobre a compensação a conceder aos trabalhadores permanentes oriundos do sector privado, em virtude da extinção da Portugal 2004, S. A., até ao limite correspondente a um ano de salário;\n\nj) Deliberar, por unanimidade, sobre o aumento de capital;\n\nl) Deliberar sobre qualquer outro assunto para que tenha sido convocada, sem prejuízo das competências próprias dos outros órgãos sociais."
+  },
+  "938604246": {
+   "fragment_id": "938632043",
+   "type": 11,
+   "heading": "Artigo 10.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente e por um secretário.\n\n2 - Os membros da mesa da assembleia geral são eleitos por esta."
+  },
+  "938604247": {
+   "fragment_id": "938632044",
+   "type": 11,
+   "heading": "Artigo 11.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reuniões\n\n1 - A assembleia geral reúne ordinariamente uma vez por ano e extraordinariamente sempre que para tal for convocada nos termos da lei ou a requerimento do conselho de administração ou do fiscal único.\n\n2 - A convocatória da assembleia geral pode ser efectuada por carta registada com aviso de recepção."
+  },
+  "938604248": {
+   "fragment_id": "938632045",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "938604249": {
+   "fragment_id": "938632046",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - O conselho de administração é composto por um presidente e dois administradores.\n\n2 - Os membros do conselho de administração são eleitos em assembleia geral."
+  },
+  "938604250": {
+   "fragment_id": "938632047",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\n1 - Compete ao conselho de administração:\n\na) Elaborar o plano de actividades anual e plurianual;\n\nb) Elaborar o orçamento e zelar pela sua execução;\n\nc) Gerir os negócios sociais;\n\nd) Representar a Portugal 2004, S. A., em juízo e fora dele;\n\ne) Aprovar os regulamentos internos indispensáveis ao funcionamento da Portugal 2004, S. A.;\n\nf) Decidir sobre a admissão de pessoal, bem como sobre a respectiva remuneração;\n\ng) Submeter à apreciação da assembleia geral o seu relatório de actividades;\n\nh) Constituir mandatários com os poderes que julgue convenientes;\n\ni) Propor à assembleia geral a contratação dos empréstimos que tenha por necessários à prossecução do seu objecto, bem como o aumento de capital;\n\nj) Propor à assembleia geral as compensações a que deva haver lugar nos termos da alínea i) do artigo 9.º;\n\nl) Praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos sociais.\n\n2 - Incumbe especialmente ao presidente do conselho de administração:\n\na) Representar o conselho em juízo e fora dele, nomeadamente junto do Governo, da FPF e da sociedade EURO 2004, S. A.;\n\nb) Coordenar a actividade do conselho de administração e dirigir as respectivas reuniões;\n\nc) Zelar pela correcta execução das deliberações do conselho de administração."
+  },
+  "938604251": {
+   "fragment_id": "938632048",
+   "type": 11,
+   "heading": "Artigo 14.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reuniões\n\n1 - O conselho de administração reúne ordinariamente todos os meses e extraordinariamente sempre que convocado pelo seu presidente ou por um dos administradores executivos.\n\n2 - A FPF designará o seu representante, que terá assento nas reuniões do conselho de administração, sem direito a voto."
+  },
+  "938604252": {
+   "fragment_id": "938632049",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho consultivo\n\nJunto do conselho de administração funciona um conselho consultivo, presidido pelo presidente daquele conselho e constituído por um representante de cada uma das seguintes entidades:\n\na) Instituto Nacional do Desporto;\n\nb) Câmaras Municipais de Aveiro, Braga, Coimbra, Faro, Guimarães, Leiria, Lisboa, Loulé e Porto;\n\nc) Comité Olímpico de Portugal;\n\nd) Confederação do Desporto de Portugal;\n\ne) Fundação do Desporto;\n\nf) Liga Portuguesa de Futebol Profissional;\n\ng) Associações de Futebol de Aveiro, Algarve, Braga, Coimbra, Leiria, Lisboa e Porto;\n\nh) Boavista Futebol Clube;\n\ni) Futebol Clube do Porto;\n\nj) Sport Lisboa e Benfica;\n\nl) Sporting Clube de Portugal;\n\nm) Vitória Sport Clube."
+  },
+  "938604253": {
+   "fragment_id": "938632050",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo:\n\na) Dar parecer sobre quaisquer assuntos relativos à prossecução do objecto da Portugal 2004, S. A., sobre os quais lhe seja solicitado parecer pelo presidente do conselho de administração;\n\nb) Elaborar e aprovar o seu regulamento interno de funcionamento."
+  },
+  "938604254": {
+   "fragment_id": "938632051",
+   "type": 11,
+   "heading": "Artigo 17.º — Reuniões do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reuniões do conselho consultivo\n\n1 - O conselho consultivo reúne quadrimestralmente e sempre que para tal for convocado pelo presidente do conselho de administração.\n\n2 - As convocatórias devem ser expedidas com a antecedência mínima de 10 dias, especificar o dia, a hora e o local da reunião a realizar e incluir a respectiva ordem de trabalhos.\n\n3 - O conselho consultivo reúne em plenário.\n\n4 - As deliberações do conselho consultivo são tomadas por maioria de votos, cabendo um voto a cada um dos seus membros."
+  },
+  "938604255": {
+   "fragment_id": "938632052",
+   "type": 8,
+   "heading": "Secção III — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Fiscal único"
+  },
+  "938604256": {
+   "fragment_id": "938632053",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\n1 - A fiscalização da actividade social é exercida por um fiscal único, eleito em assembleia geral, que também elege o suplente.\n\n2 - O fiscal único e o seu suplente são revisores oficiais de contas ou sociedades de revisores oficiais de contas."
+  },
+  "938604257": {
+   "fragment_id": "938632054",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências\n\nAlém das competências constantes da lei, cabe, em especial, ao fiscal único:\n\na) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração da Sociedade;\n\nb) Emitir parecer acerca do orçamento;\n\nc) Dirigir recomendações ao conselho de administração relativas a qualquer assunto que se insira no âmbito das suas competências de fiscalização;\n\nd) Enviar trimestralmente aos membros do Governo responsáveis pelas áreas das finanças e do desporto um relatório do qual constem os controlos efectuados, as anomalias detectadas e os desvios em relação ao orçamento, se os houver;\n\ne) Pronunciar-se sobre qualquer assunto que lhe tenha sido submetido pelo conselho de administração."
+  },
+  "938604258": {
+   "fragment_id": "938632055",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "938604259": {
+   "fragment_id": "938632056",
+   "type": 11,
+   "heading": "Artigo 20.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Representação\n\n1 - Sem prejuízo do número seguinte, a Portugal 2004, S. A., obriga-se:\n\na) Pela assinatura do presidente do conselho de administração e de um administrador executivo;\n\nb) Pela assinatura de um membro do conselho de administração e de um mandatário do presidente do conselho de administração a quem tenham sido conferidos poderes para esse efeito.\n\n2 - Em assuntos de mero expediente bastará a assinatura de um dos membros do conselho de administração."
+  },
+  "938604260": {
+   "fragment_id": "938632057",
+   "type": 11,
+   "heading": "Artigo 21.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Dissolução e liquidação\n\n1 - Sem prejuízo do disposto na lei, a Portugal 2004, S. A., dissolve-se pelo decurso do prazo pelo qual é constituída, entrando em liquidação no dia 1 de Janeiro de 2005.\n\n2 - A liquidação deve estar encerrada e a partilha aprovada até ao dia 1 de Julho de 2005.\n\n3 - Salvo deliberação em contrário da assembleia geral, a liquidação deve ser efectuada pelo conselho de administração tal como este se encontrar constituído na data prevista no n.º 1 do presente artigo."
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70881136:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2015-903114160",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/124-d-2015-70881136",
+ "source_lastmod": "2025-01-10",
+ "versions": [
+  {
+   "date": "2015-10-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "903110756"
+   ]
+  }
+ ],
+ "fragments": {
+  "903110756": {
+   "fragment_id": "903114161",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 124-D/2015\n\nde 30 de outubro\n\nO Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:\n\nSão nomeados, sob proposta do Primeiro-Ministro:\n\nO Dr. Eduardo Nogueira Pinto Secretário de Estado Adjunto do Vice-Primeiro-Ministro;\n\nO Dr. Hélder Manuel Gomes dos Reis Secretário de Estado Adjunto e do Orçamento;\n\nA Dr.ª Isabel Castelo Branco Secretária de Estado do Tesouro;\n\nO Prof. Doutor Manuel Luís Rodrigues Secretário de Estado das Finanças;\n\nO Dr. Paulo de Faria Lince Núncio Secretário de Estado dos Assuntos Fiscais;\n\nO Dr. José Maria Teixeira Leite Martins Secretário de Estado da Administração Pública;\n\nO Dr. Luís Álvaro Barbosa de Campos Ferreira Secretário de Estado dos Negócios Estrangeiros e Cooperação;\n\nO Prof. Doutor Bruno Ramos Maçães Secretário de Estado dos Assuntos Europeus;\n\nO Dr. José de Almeida Cesário Secretário de Estado das Comunidades Portuguesas;\n\nA Dr.ª Mónica Sofia do Amaral Pinto Ferro Secretária de Estado Adjunta e da Defesa Nacional;\n\nO Dr. Manuel Castro Almeida Secretário de Estado do Desenvolvimento Regional;\n\nO Dr. Emídio Guerreiro Secretário de Estado do Desporto e Juventude;\n\nO Dr. Fernando Virgílio Cabral da Cruz Macedo Secretário de Estado Adjunto do Ministro da Administração Interna;\n\nO Dr. João Rodrigo Pinho de Almeida Secretário de Estado da Administração Interna;\n\nA Dr.ª Teresa Maria de Moura Anjinho Secretária de Estado da Justiça;\n\nO Dr. Paulo Guilherme da Silva Lemos Secretário de Estado do Ambiente;\n\nO Dr. Artur Trindade Secretário de Estado da Energia;\n\nO Prof. Doutor Miguel de Castro Neto Secretário de Estado do Ordenamento do Território e da Conservação da Natureza;\n\nO Eng.º José Diogo Santiago Albuquerque Secretário de Estado Adjunto e da Agricultura;\n\nO Dr. Pedro do Ó Barradas de Oliveira Ramos Secretário de Estado do Mar;\n\nO Prof. Doutor Alexandre Nuno Vieira e Brito Secretário de Estado da Alimentação e da Investigação Agroalimentar;\n\nO Dr. Agostinho Correia Branquinho Secretário de Estado da Solidariedade e da Segurança Social;\n\nO Dr. Octávio Félix de Oliveira Secretário de Estado do Emprego;\n\nO Dr. Adolfo Mesquita Nunes Secretário de Estado do Turismo;\n\nO Dr. Eduardo Jorge do Paço Viana Secretário de Estado da Inovação, Investimento e Competitividade;\n\nA Dr.ª Vera Lúcia Alves Rodrigues Secretária de Estado da Economia;\n\nO Eng.º Miguel Martinez de Castro Pinto Luz Secretário de Estado das Infraestruturas, Transportes e Comunicações;\n\nO Dr. Manuel Ferreira Teixeira Secretário de Estado Adjunto do Ministro da Saúde;\n\nO Dr. Eurico Emanuel Castro Alves Secretário de Estado da Saúde;\n\nO Prof. Doutor José Ferreira Gomes Secretário de Estado do Ensino Superior e da Ciência;\n\nA Dr.ª Amélia Maria Botelho de Carvalho Loureiro Secretária de Estado do Ensino Básico e Secundário;\n\nO Eng.º José Alberto Morais de Pereira Santos Secretário de Estado do Desenvolvimento Educativo e da Administração Escolar;\n\nO Prof. Doutor Gonçalo Nuno da Cruz Saraiva Matias Secretário de Estado Adjunto e para a Modernização Administrativa;\n\nO Dr. João Taborda da Gama Secretário de Estado da Administração Local;\n\nO Prof. Doutor Nuno Vassallo e Silva Secretário de Estado da Cultura;\n\nO Dr. Pedro Alexandre Araújo Lomba Secretário de Estado Adjunto e dos Assuntos Parlamentares."
+  }
+ }
+}

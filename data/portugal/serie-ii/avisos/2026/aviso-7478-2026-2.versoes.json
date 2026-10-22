@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1080934171:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2026-1171527575",
+ "dre_path": "/dr/detalhe/aviso/7478-2026-1080934171",
+ "source_lastmod": "2026-09-18",
+ "versions": [
+  {
+   "date": "2026-04-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1171529075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1171529075": {
+   "fragment_id": "1171527675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Loteamento do Parque Empresarial de Alvora - 1.ª Alteração\n\nOlegário Gomes Gonçalves, Presidente da Câmara Municipal de Arcos de Valdevez, torna público que, em conformidade com deliberação da Câmara Municipal proferida na reunião de 13 de março de 2026, em cumprimento do disposto no n.º 5, artigo 7.º do Decreto-Lei n.º 555/99 de 16 de dezembro, na sua atual redação, e nos termos do n.º 1, do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que decorrerá um período de consulta pública, relativamente à operação urbanística denominada Loteamento do Parque Empresarial de Alvora - 1.ª Alteração.\n\nPara o efeito, a Câmara Municipal fixa o prazo de quinze dias úteis, a contar do oitavo dia após a data da publicação deste aviso no Diário da República, para que todos os interessados possam prestar as informações e formular sugestões e/ou observações, que considerem úteis no âmbito do respetivo procedimento.\n\nDurante o período em que estiver aberto o procedimento de participação, as informações, sugestões e/ou observações devem ser apresentadas por escrito, em documento devidamente identificado, dirigido ao Presidente da Câmara Municipal de Arcos de Valdevez, ou por modelo próprio disponibilizado nos locais de consulta assim como no sítio da internet do município, para o correio eletrónico, geral@cmav.pt, bem como por correio registado para a morada - Praça Municipal, 4974-003 Arcos de Valdevez.\n\nEm alternativa, no decorrer do referido período, as reclamações, as sugestões, informações, e pedidos de esclarecimento a apresentar por particulares poderão ser efetuados no sítio eletrónico do Município de Arcos de Valdevez (www.cmav.pt) ou por consulta na DDEU - Serviço de Planeamento e Ordenamento do Território, todos os dias úteis das 09h00 m às 12h00 m e das 14h00 m às 16h30 m, através de prévia marcação."
+  }
+ }
+}

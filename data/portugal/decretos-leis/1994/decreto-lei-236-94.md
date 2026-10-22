@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:591108:por
+title: Decreto-Lei n.º 236/94
+short_title: null
+summary: Altera o Decreto-Lei n.º 29034, de 1 de Outubro de 1938 (regulamenta a Lei n.º 1947, relativa à importação, armazenamento
+  e tratamento industrial dos petróleos brutos, seus derivados e resíduos)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 236/94
+official_date: null
+publication_date: '1994-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/1994, Série I-A de 1994-09-15
+  number: '214'
+  series: I
+  supplement: null
+  pages: 5554 - 5555
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/09/214a00/55545555.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/236/1994/09/15/p/dre/pt/html
+  oj: null
+  dre: '591108'
+  dre_path: /dr/detalhe/decreto-lei/236-1994-591108
+  internal: pt:dre:591108:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1994-591108
+  metadata_url: https://data.dre.pt/eli/dec-lei/236/1994/09/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1994-591108
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-09-15T00:00:00Z'
+integrity:
+  source_sha256: 7bfb2ead46b4f71b02ea2b25c8e0f9bf4339e718398127d01557d7a527fcc519
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-236-591108.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Armazenagem
+- Petróleo
+- Produto Petrolífero
+- Importação
+- Poluição Industrial
+- Resíduo Industrial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/77/1991/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/1991/02/16/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 236/94
+
+de 15 de Setembro
+
+A constituição de reservas obrigatórias de produtos petrolíferos estabelecida pela [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, tem como objectivo indeclinável a adequada salvaguarda do regular aprovisionamento de qualquer daqueles produtos, sem risco de se criarem situações de ruptura no abastecimento.
+
+O Decreto-Lei n.º 29034, de 1 de Outubro de 1938, veio regulamentar as obrigações de constituição de reservas obrigatórias permanentes. A esse decreto-lei sucederam vários outros, alterando algumas das suas disposições, de que se destacam os Decretos-Leis n.os [498/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1971-631420), de 12 de Novembro, [536/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1980-457611), de 7 de Novembro, [525/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1985-546460), de 31 de Dezembro, [212/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1988-371786), de 17 de Junho, [85/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1989-613938), de 23 de Março, e [77/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1991-477281), de 16 de Fevereiro.
+
+Actualmente, atendendo à alteração das características do sistema energético nacional e à evolução dos mercados internacionais de produtos petrolíferos, bem como à necessidade de recolocação de várias das instalações de tancagem existentes, verifica-se a conveniência de ajustar as normas do artigo 41.º do referido Decreto-Lei n.º 29034, de 1 de Outubro de 1938, relativas às tolerências de constituição daquelas reservas.
+
+Contudo, tal ajustamento é feito sem que se comprometam, quer os objectivos nacionais de segurança do aprovisionamento, quer os compromissos internacionalmente assumidos nesta matéria.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º O artigo 41.º do Decreto-Lei n.º 29034, de 1 de Outubro de 1938, passa a ter a seguinte redacção:
+
+###### Art. 41.º ...
+
+§ 1.º ...
+
+§ 2.º Excepcionalmente, e mediante requerimento da empresa interessada, poderá ser autorizada pelo Ministro da Indústria e Energia tolerância superior quando a empresa justifique, com fundamento em caso de força maior, como tal reconhecido, a impossibilidade de integração das reservas.
+
+§ 3.º A autorização referida no parágrafo anterior deve estabelecer o prazo a partir do qual a normalidade deve ser retomada, devendo esse prazo corresponder ao que decorra das circunstâncias invocadas no requerimento.
+
+###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Luís Filipe da Conceição Pereira.
+
+**Promulgado em 5 de Setembro de 1994.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 8 de Setembro de 1994.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

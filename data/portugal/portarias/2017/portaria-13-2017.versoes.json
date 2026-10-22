@@ -1,0 +1,264 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105726274:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-953450017",
+ "dre_path": "/dr/detalhe/portaria/13-2017-105726274",
+ "source_lastmod": "2026-09-09",
+ "versions": [
+  {
+   "date": "2017-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953964975",
+    "953965175",
+    "953965375",
+    "953965575",
+    "953965775",
+    "953965975",
+    "953966175",
+    "953966375",
+    "953966575",
+    "953966775",
+    "953966975",
+    "953967175",
+    "953967375"
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1165236032:por",
+     "title": "Portaria n.º 401/2026/1",
+     "published": "2026-09-02",
+     "dre_path": "/dr/detalhe/portaria/401-2026-1165236032"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Elimina Anexo V"
+   ],
+   "fragments": [
+    "953964975",
+    "1166314275",
+    "1169152775",
+    "1166314475",
+    "1166314675",
+    "1166314875",
+    "953966175",
+    "953966375",
+    "1166344775",
+    "1166344975",
+    "1166345175",
+    "1166345375"
+   ]
+  }
+ ],
+ "fragments": {
+  "953964975": {
+   "fragment_id": "953964875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 382/99, de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, bem como potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, ainda, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência de um estudo apresentado pelo Município da Marinha Grande, a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para dezoito captações de água subterrânea, nos polos de captação de Picotos/Pinhal de Leiria, da Marinha Grande, de Vieira e da Moita, destinadas ao abastecimento público de água no concelho da Marinha Grande.\n\nAssim, nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação conferida pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas pelo Ministro do Ambiente, através da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 489/2016, de 12 de janeiro, publicado no Diário da República, 2.ª série, n.º 7, de 12 de janeiro de 2016, o seguinte:"
+  },
+  "953965175": {
+   "fragment_id": "953965075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação do perímetro de proteção das captações de água subterrânea localizadas no concelho da Marinha Grande, designadas por:\n\na) Furo HO3, furo HO4 e furo HO1 do pólo de captação de Picotos/Pinhal de Leiria;\n\nb) Furo AC4, furo HO6, furo JK2, furo SL6, furo SL2, furo RA1, furo SL4, furo SL3 e furo Estádio do pólo de captação da Marinha Grande;\n\nc) Furo AC1, furo SL5, furo RA2, furo SO1 e furo AC3 do pólo de captação de Vieira;\n\nd) Furo SL1 do pólo de captação da Moita.\n\n2 - As coordenadas das captações referidas no número anterior constam do quadro do anexo I à presente portaria, da qual faz parte integrante."
+  },
+  "953965375": {
+   "fragment_id": "953965275",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção das captações furo SL3 e furo Estádio do Pólo de captação da Marinha Grande e furo AC1, furo RA2, furo SO1 e furo AC3 do Pólo de captação de Vieira corresponde à área da superfície de terreno definida pelo círculo com centro na captação e com o raio indicado no quadro constante do anexo II da presente portaria, da qual faz parte integrante.\n\n2 - A zona de proteção imediata respeitante aos perímetros de proteção das captações furo HO3, furo HO4 e furo HO1 do Pólo de captação de Picotos/Pinhal de Leiria; furo AC4, furo HO6, furo JK2, furo SL6, furo SL2, furo RA1 e furo SL4 do Pólo de captação da Marinha Grande; furo SL5 do Pólo de captação de Vieira e furo SL1 do Pólo de captação da Moita corresponde à área envolvente às captações, delimitada através do polígono que resulta da união dos vértices indicados nos quadros constantes do anexo II da presente portaria, da qual faz parte integrante.\n\n3 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se referem os números anteriores, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração das captações.\n\n4 - O terreno abrangido pela zona de proteção imediata deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água das captações, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro."
+  },
+  "953965575": {
+   "fragment_id": "953965475",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante aos perímetros de proteção das captações furo HO3, furo HO4 e furo HO1 do Pólo de captação de Picotos/Pinhal de Leiria; furo AC4, furo HO6, furo JK2, furo SL6, furo SL2, furo RA1, furo SL4, furo SL3 e furo Estádio do Pólo de captação da Marinha Grande; furo SL5 do Pólo de captação de Vieira e furo SL1 do Pólo de captação da Moita corresponde à área da superfície do terreno definida pelo círculo com centro na captação e com o raio indicado no quadro constante do anexo III da presente portaria, do qual faz parte integrante.\n\n2 - A zona de proteção intermédia respeitante aos perímetros de proteção das captações furo AC1, furo RA2, furo SO1 e furo AC3 do Pólo de captação de Vieira corresponde à área da superfície do terreno exterior à zona de proteção imediata e delimitada pelo polígono que resulta da união dos vértices indicados no quadro constante do anexo III à presente portaria, da qual faz parte integrante.\n\n3 - Na zona de proteção intermédia a que se referem os números anteriores são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Infraestruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) Instalação de estações de tratamento de águas residuais;\n\ni) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo e na água;\n\nj) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público e desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nk) Cemitérios;\n\nl) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\nm) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo, a recolha ou o tratamento das águas de escorrência nas zonas de armazenamento;\n\nn) Construção de caminhos-de-ferro.\n\n4 - Na zona de proteção intermédia a que se referem o n.º 1 e n.º 2, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Usos agrícolas e pecuários, que podem ser permitidos desde que não causem poluição das águas subterrâneas, nomeadamente através:\n\ni) da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação;\n\nii) da rejeição de efluentes na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;\n\nb) Pastorícia, que pode ser desenvolvida desde que não cause poluição das águas subterrâneas, devendo ser cumpridas as regras do código das boas práticas agrícolas;\n\nc) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para solo;\n\nd) Estradas podem ser permitidas desde que sejam tomadas as medidas necessárias para evitar a contaminação do solo ou da água;\n\ne) Parques de campismo e espaços destinados a práticas desportivas podem ser permitidos desde que as instalações ou atividades não promovam a contaminação das águas subterrâneas e seja assegurada a ligação das infraestruturas de saneamento à rede municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para o solo;\n\nf) Unidades industriais podem ser permitidas, desde que não produzam substâncias tóxicas, persistentes e passíveis de bioacumulação que, de forma direta ou indireta, possam vir a alterar a qualidade das águas subterrâneas;\n\ng) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nh) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativados logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas."
+  },
+  "953965775": {
+   "fragment_id": "953965675",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante aos perímetros de proteção das captações furo SL2 e furo SL3 do Pólo de captação da Marinha Grande; das captações furo AC1, furo RA2, furo SO1, furo AC3 e furo SL5 do Pólo de captação de Vieira e da captação furo SL1 do Pólo de captação da Moita, corresponde à área da superfície do terreno definida pelo circulo com centro na captação e com o raio indicado no quadro constante do anexo IV da presente portaria, da qual faz parte integrante.\n\n2 - A zona de proteção alargada respeitante aos perímetros de proteção das captações furo HO3, furo HO4 e furo HO1 do Pólo de captação de Picotos/Pinhal de Leiria e das captações furo AC4, furo HO6, furo JK2, furo SL6, furo RA1, furo SL4 e furo Estádio do Pólo de captação da Marinha Grande corresponde à área da superfície do terreno exterior à zona de proteção intermédia e delimitada através do polígono que resulta da união dos vértices indicados nos quadros constantes no anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - Na zona de proteção alargada referida nos números anteriores são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioativos e de outras substâncias perigosas;\n\nb) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes.\n\n4 - Na zona de proteção alargada a que se referem o n.º 1 e n.º 2, são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Aplicação de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação, bem como a rejeição de efluentes agrícolas ou pecuários na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;\n\nb) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nc) Instalação de estações de tratamento de águas residuais urbanas ou industriais, que é permitida desde que as águas residuais sejam sujeitas a tratamento compatível com os objetivos fixados para o meio recetor, não podendo pôr em causa a qualidade da água para abastecimento público;\n\nd) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativadas logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas;\n\ne) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, que podem ser permitidos desde que sejam devidamente impermeabilizados e a sua profundidade não intersete o nível freático, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nf) Cemitérios existentes à data da presente portaria, devendo estar sujeitos a medidas de monitorização da qualidade da água subterrânea;\n\ng) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água ou a diminuição das disponibilidades hídricas de modo a comprometer o normal funcionamento dos sistemas de abastecimento;\n\nh) Infraestruturas aeronáuticas;\n\ni) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis, são permitidos desde que:\n\ni) seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer dos casos, ser garantida a recolha ou o tratamento de efluentes e águas pluviais contaminadas;\n\nii) sejam implementados sistemas de controlo e deteção de fugas, no caso de depósitos enterrados de combustível;\n\nj) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo e a recolha ou tratamento das águas de escorrência nas zonas de armazenamento;\n\nk) Realização de novas sondagens para pesquisa e captação de água subterrânea, ficando a sua execução sujeita à obtenção de título, nos termos do Decreto-Lei n.º 226-A/2007, de 31 de maio."
+  },
+  "953965975": {
+   "fragment_id": "953965875",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nAs zonas de proteção respeitantes aos perímetros de proteção mencionados no artigo 1.º encontram-se representadas no anexo V à presente portaria, da qual faz parte integrante."
+  },
+  "953966175": {
+   "fragment_id": "953966075",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "953966375": {
+   "fragment_id": "953966275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Carlos Manuel Martins, em 21 de dezembro de 2016."
+  },
+  "953966575": {
+   "fragment_id": "953966475",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(a que se refere o n.º 2 do artigo 1.º)\n\n(ver documento original)"
+  },
+  "953966775": {
+   "fragment_id": "953966675",
+   "type": 14,
+   "heading": "Anexo II — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zona de proteção imediata\n\n(a que se referem o n.º 1 e n.º 2 do artigo 2.º)\n\n(ver documento original)\n\nPolo de captação de Picotos/Pinhal de Leiria\n\nFuro HO3\n\n(ver documento original)\n\nFuro HO4\n\n(ver documento original)\n\nFuro HO1\n\n(ver documento original)\n\nPolo de captação da Marinha Grande\n\nFuro AC4\n\n(ver documento original)\n\nFuro HO6\n\n(ver documento original)\n\nFuro JK2\n\n(ver documento original)\n\nFuro SL6\n\n(ver documento original)\n\nFuro SL2\n\n(ver documento original)\n\nFuro RA1\n\n(ver documento original)\n\nFuro SL4\n\n(ver documento original)\n\nPolo de captação de Vieira\n\nFuro SL5\n\n(ver documento original)\n\nPolo de captação da Moita\n\nFuro SL1\n\n(ver documento original)"
+  },
+  "953966975": {
+   "fragment_id": "953966875",
+   "type": 14,
+   "heading": "Anexo III — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Zona de proteção intermédia\n\n(a que se referem o n.º 1 e n.º 2 do artigo 3.º)\n\n(ver documento original)\n\nPólo de captação de Vieira\n\nCaptações AC1, AC3, RA2 e SO1\n\n(ver documento original)"
+  },
+  "953967175": {
+   "fragment_id": "953967075",
+   "type": 14,
+   "heading": "Anexo IV — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Zona de proteção alargada\n\n(a que se referem o n.º 1 e n.º 2 do artigo 4.º)\n\n(ver documento original)\n\nPólo de captação de Picotos/Pinhal de Leiria\n\nFuros HO3, HO4 e HO1\n\n(ver documento original)\n\nPólo de captação da Marinha Grande\n\nFuros AC4, HO6 e SL6\n\n(ver documento original)\n\nFuros JK2 e Estádio\n\n(ver documento original)\n\nFuro RA1\n\n(ver documento original)\n\nFuro SL4\n\n(ver documento original)\n\nNota. . As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central)."
+  },
+  "953967375": {
+   "fragment_id": "953967275",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Planta de localização das zonas de proteção\n\n(a que se refere o artigo 5.º)\n\nExtrato da Carta Militar de Portugal - 1:25000 (IGeoE)\n\nPólo de captação de Picotos/Pinhal de Leiria\n\nFuro HO3, furo HO4 e furo HO1\n\n(ver documento original)\n\nPólo de captação da Marinha Grande\n\nFuro AC4, furo HO6 e furo SL6\n\n(ver documento original)\n\nFuro SL2\n\n(ver documento original)\n\nFuro RA1\n\n(ver documento original)\n\nFuro SL4\n\n(ver documento original)\n\nFuro JK2 e furo Estádio\n\n(ver documento original)\n\nFuro SL3\n\n(ver documento original)\n\nPólo de captação de Vieira\n\nFuro AC1, furo RA2, furo SO1 e furo AC3\n\n(ver documento original)\n\nFuro SL5\n\n(ver documento original)\n\nPólo de captação da Moita\n\nFuro SL1"
+  },
+  "1166314275": {
+   "fragment_id": "953965075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação do perímetro de proteção das captações de água subterrânea localizadas no concelho da Marinha Grande, designadas por:\n\na) Furo HO3, furo HO4 e furo HO1 do pólo de captação de Picotos/Pinhal de Leiria;\n\nb) Furo AC4, furo HO6, furo JK2, furo SL6, furo SL2, furo SL7, furo SL4, furo SL3 e furo Estádio do polo de captação da Marinha Grande;\n\nc) Furo AC1, furo SL5, furo RA2, furo SO1 e furo AC3 do pólo de captação de Vieira;\n\nd) Furo SL1 do pólo de captação da Moita.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1169152775": {
+   "fragment_id": "953965275",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção das captações designadas por furo SL3 e furo Estádio, do polo de captação da Marinha Grande, bem como das captações designadas por furo AC1, furo RA2, furo SO1 e furo AC3, do polo de captação de Vieira, corresponde à área da superfície de terreno definida pelo círculo com origem no ponto cujas coordenadas constam no quadro constante do anexo i da presente portaria, da qual faz parte integrante e com o raio indicado no mesmo quadro.\n\n2 - A zona de proteção imediata respeitante aos perímetros de proteção das captações designadas por furo AC4, furo HO6, furo JK2, furo SL6, furo SL2, furo SL7 e furo SL4, do polo de captação da Marinha Grande, da captação designada por furo SL5, do polo de captação de Vieira, das captações designadas por furo HO1, furo HO3 e furo HO4, do polo de captação de Picotos/Pinhal de Leiria, e da captação designada por furo SL1, do polo de captação da Moita, corresponde à área envolvente às captações, delimitada através do polígono que resulta da união dos vértices indicados nos quadros constantes do anexo i à presente portaria, da qual faz parte integrante.\n\n3 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se referem os números anteriores, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração das captações.\n\n4 - O terreno abrangido pela zona de proteção imediata deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água das captações, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1166314475": {
+   "fragment_id": "953965475",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante aos perímetros de proteção das captações designadas por furo AC4, furo HO6, furo JK2, furo SL6, furo SL2, furo SL7, furo SL4, furo SL3 e furo Estádio do polo de captação da Marinha Grande, da captação designada por furo SL5 do polo de captação de Vieira, das captações designadas por furo HO1, furo HO3 e furo HO4 do polo de captação de Picotos/Pinhal de Leiria, e da captação designada por furo SL1 do polo de captação da Moita corresponde à área da superfície do terreno definida pelo círculo com origem no ponto cujas coordenadas constam no quadro constante do anexo ii da presente portaria, da qual faz parte integrante, e com o raio indicado no mesmo quadro.\n\n2 - A zona de proteção intermédia respeitante aos perímetros de proteção das captações furo AC1, furo RA2, furo SO1 e furo AC3 do polo de captação de Vieira, corresponde à área da superfície do terreno exterior à zona de proteção imediata e delimitada pelo polígono que resulta da união dos vértices indicados no quadro constante do anexo ii à presente portaria, da qual faz parte integrante.\n\n3 - Na zona de proteção intermédia a que se referem os números anteriores são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Infraestruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) Instalação de estações de tratamento de águas residuais;\n\ni) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo e na água;\n\nj) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público e desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nk) Cemitérios;\n\nl) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\nm) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo, a recolha ou o tratamento das águas de escorrência nas zonas de armazenamento;\n\nn) Construção de caminhos-de-ferro.\n\n4 - Na zona de proteção intermédia a que se referem o n.º 1 e n.º 2, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Usos agrícolas e pecuários, que podem ser permitidos desde que não causem poluição das águas subterrâneas, nomeadamente através:\n\ni) da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação;\n\nii) da rejeição de efluentes na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;\n\nb) Pastorícia, que pode ser desenvolvida desde que não cause poluição das águas subterrâneas, devendo ser cumpridas as regras do código das boas práticas agrícolas;\n\nc) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para solo;\n\nd) Estradas podem ser permitidas desde que sejam tomadas as medidas necessárias para evitar a contaminação do solo ou da água;\n\ne) Parques de campismo e espaços destinados a práticas desportivas podem ser permitidos desde que as instalações ou atividades não promovam a contaminação das águas subterrâneas e seja assegurada a ligação das infraestruturas de saneamento à rede municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para o solo;\n\nf) Unidades industriais podem ser permitidas, desde que não produzam substâncias tóxicas, persistentes e passíveis de bioacumulação que, de forma direta ou indireta, possam vir a alterar a qualidade das águas subterrâneas;\n\ng) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nh) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativados logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1166314675": {
+   "fragment_id": "953965675",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante aos perímetros de proteção das captações furo SL2 e furo SL3 do polo de captação da Marinha Grande, das captações furo AC1, furo RA2, furo SO1, furo AC3 e furo SL5 do polo de captação de Vieira e da captação furo SL1 do polo de captação da Moita, corresponde à área da superfície do terreno definida pelo círculo com origem no ponto cujas coordenadas constam no quadro constante do anexo iii da presente portaria, da qual faz parte integrante, e com o raio indicado no mesmo quadro.\n\n2 - A zona de proteção alargada respeitante aos perímetros de proteção das captações designadas por furo AC4, furo HO6, furo JK2, furo SL6, furo SL7, furo SL4 e furo Estádio do polo de captação da Marinha Grande e das captações designadas por furo HO1, furo HO3 e furo HO4 do polo de captação de Picotos/Pinhal de Leiria, corresponde à área da superfície do terreno exterior à zona de proteção intermédia e delimitada através do polígono que resulta da união dos vértices indicados nos quadros constantes do anexo iii à presente portaria, da qual faz parte integrante.\n\n3 - Na zona de proteção alargada referida nos números anteriores são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioativos e de outras substâncias perigosas;\n\nb) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes.\n\n4 - Na zona de proteção alargada a que se referem o n.º 1 e n.º 2, são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Aplicação de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação, bem como a rejeição de efluentes agrícolas ou pecuários na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;\n\nb) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nc) Instalação de estações de tratamento de águas residuais urbanas ou industriais, que é permitida desde que as águas residuais sejam sujeitas a tratamento compatível com os objetivos fixados para o meio recetor, não podendo pôr em causa a qualidade da água para abastecimento público;\n\nd) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativadas logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas;\n\ne) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, que podem ser permitidos desde que sejam devidamente impermeabilizados e a sua profundidade não intersete o nível freático, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nf) Cemitérios existentes à data da presente portaria, devendo estar sujeitos a medidas de monitorização da qualidade da água subterrânea;\n\ng) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água ou a diminuição das disponibilidades hídricas de modo a comprometer o normal funcionamento dos sistemas de abastecimento;\n\nh) Infraestruturas aeronáuticas;\n\ni) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis, são permitidos desde que:\n\ni) seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer dos casos, ser garantida a recolha ou o tratamento de efluentes e águas pluviais contaminadas;\n\nii) sejam implementados sistemas de controlo e deteção de fugas, no caso de depósitos enterrados de combustível;\n\nj) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo e a recolha ou tratamento das águas de escorrência nas zonas de armazenamento;\n\nk) Realização de novas sondagens para pesquisa e captação de água subterrânea, ficando a sua execução sujeita à obtenção de título, nos termos do Decreto-Lei n.º 226-A/2007, de 31 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1166314875": {
+   "fragment_id": "953965875",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nAs plantas de localização das zonas de proteção respeitantes aos perímetros de proteção das captações mencionadas no artigo 1.º constam do anexo iv à presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1166344775": {
+   "fragment_id": "953966475",
+   "type": 14,
+   "heading": "Anexo I — Zonas de proteção imediata",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "## Anexo I — Zonas de proteção imediata\n\n(a que se refere o n.º 1 do artigo 2.º)\n\nFuro SL3 e furo Estádio do Polo de captação da Marinha Grande e furos AC1, RA2, SO1 e AC3 do polo de captação de Vieira\n\n| Polo de captação | Origem | Raio (metros) |  |\n| --- | --- | --- | --- |\n| X (metros) | Y (metros) |  |  |\n| Marinha Grande | - 68 718,03 | 9 348,70 | 3 |\n| - 68 430,74 | 8 034,75 | 3 |  |\n| Vieira | - 70 191,80 | 22 933,50 | 5 |\n| - 70 279,97 | 22 956,90 | 14 |  |\n| - 70 214,40 | 22 903,40 | 10 |  |\n| - 70 279,70 | 23 036,10 | 7 |  |\n\nPolo de captação de Picotos/Pinhal de Leiria\n\n(a que se refere o n.º 2 do artigo 2.º)\n\nFuro HO1\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 74 803,60 | 8 246,50 |\n| 2 | - 74 776,80 | 8 240,26 |\n| 3 | - 74 784,70 | 8 206,23 |\n| 4 | - 74 811,50 | 8 212,40 |\n\nFuro HO3\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 75 088,30 | 7 233,00 |\n| 2 | - 75 049,20 | 7 221,50 |\n| 3 | - 75 058,40 | 7 190,90 |\n| 4 | - 75 083,90 | 7 185,70 |\n| 5 | - 75 097,50 | 7 189,60 |\n| 6 | - 75 104,60 | 7 207,40 |\n| 7 | - 75 099,39 | 7 224,90 |\n\nFuro HO4\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 74 949,10 | 8 255,50 |\n| 2 | - 74 910,10 | 8 246,40 |\n| 3 | - 74 919,20 | 8 207,40 |\n| 4 | - 74 958,20 | 8 216,50 |\n\nPolo de captação da Marinha Grande\n\n(a que se refere o n.º 2 do artigo 2.º )\n\nFuro AC4\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 66 099,11 | 8 938,96 |\n| 2 | - 66 095,00 | 8 942,71 |\n| 3 | - 66 089,91 | 8 948,54 |\n| 4 | - 66 089,89 | 8 948,96 |\n| 5 | - 66 081,89 | 8 950,29 |\n| 6 | - 66 076,23 | 8 950,42 |\n| 7 | - 66 066,52 | 8 949,17 |\n| 8 | - 66 051,91 | 8 943,25 |\n| 9 | - 66 046,93 | 8 939,81 |\n| 10 | - 66 038,41 | 8 931,29 |\n| 11 | - 66 034,35 | 8 925,24 |\n| 12 | - 66 030,87 | 8 917,78 |\n| 13 | - 66 028,71 | 8 910,08 |\n| 14 | - 66 027,90 | 8 903,95 |\n| 15 | - 66 028,09 | 8 894,82 |\n| 16 | - 66 030,78 | 8 883,38 |\n| 17 | - 66 038,12 | 8 870,00 |\n| 18 | - 66 049,33 | 8 859,34 |\n| 19 | - 66 060,21 | 8 853,64 |\n| 20 | - 66 077,00 | 8 850,46 |\n| 21 | - 66 092,06 | 8 852,54 |\n| 22 | - 66 107,31 | 8 860,11 |\n| 23 | - 66 119,10 | 8 872,31 |\n| 24 | - 66 124,80 | 8 883,48 |\n| 25 | - 66 126,61 | 8 889,72 |\n\nFuro HO6\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 66 381,60 | 8 705,33 |\n| 2 | - 66 344,64 | 8 685,57 |\n| 3 | - 66 379,66 | 8 657,14 |\n\nFuro JK2\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 67 946,90 | 8 158,23 |\n| 2 | - 67 920,22 | 8 175,61 |\n| 3 | - 67 908,00 | 8 152,87 |\n| 4 | - 67 906,60 | 8 151,67 |\n| 5 | - 67 905,86 | 8 151,33 |\n| 6 | - 67 904,35 | 8 150,81 |\n| 7 | - 67 902,63 | 8 150,51 |\n| 8 | - 67 901,44 | 8 150,60 |\n| 9 | - 67 900,15 | 8 150,96 |\n| 10 | - 67 871,08 | 8 165,48 |\n| 11 | - 67 857,75 | 8 139,37 |\n| 12 | - 67 874,44 | 8 131,10 |\n| 13 | - 67 874,61 | 8 130,60 |\n| 14 | - 67 877,53 | 8 127,41 |\n| 15 | - 67 879,05 | 8 126,54 |\n| 16 | - 67 880,83 | 8 126,03 |\n| 17 | - 67 883,72 | 8 125,72 |\n| 18 | - 67 886,26 | 8 126,18 |\n| 19 | - 67 898,76 | 8 118,90 |\n| 20 | - 67 900,83 | 8 122,52 |\n| 21 | - 67 903,10 | 8 123,91 |\n| 22 | - 67 905,82 | 8 124,10 |\n| 23 | - 67 942,18 | 8 113,85 |\n\nFuro SL6\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 66 777,32 | 8 316,09 |\n| 2 | - 66 766,43 | 8 309,01 |\n| 3 | - 66 769,44 | 8 292,12 |\n| 4 | - 66 787,02 | 8 295,26 |\n| 5 | - 66 800,32 | 8 281,59 |\n| 6 | - 66 802,87 | 8 285,80 |\n| 7 | - 66 801,65 | 8 291,06 |\n| 8 | - 66 801,27 | 8 291,84 |\n| 9 | - 66 800,16 | 8 293,64 |\n| 10 | - 66 797,26 | 8 297,46 |\n| 11 | - 66 794,54 | 8 300,12 |\n| 12 | - 66 792,57 | 8 301,73 |\n\nFuro SL2\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 67 820,41 | 10 141,39 |\n| 2 | - 67 783,43 | 10 122,72 |\n| 3 | - 67 804,88 | 10 102,14 |\n| 4 | - 67 823,59 | 10 116,23 |\n\nFuro SL7\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 67 171,09 | 7 185,43 |\n| 2 | - 67 131,42 | 7 187,69 |\n| 3 | - 67 127,19 | 7 148,62 |\n| 4 | - 67 167,52 | 7 146,36 |\n\nFuro SL4\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 68 358,46 | 7 294,84 |\n| 2 | - 68 331,81 | 7 297,95 |\n| 3 | - 68 339,31 | 7 275,89 |\n| 4 | - 68 352,26 | 7 273,53 |\n\nPolo de captação de Vieira\n\n(a que se refere o n.º 2 do artigo 2.º)\n\nFuro SL5\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 68 164,10 | 21 951,90 |\n| 2 | - 68 114,30 | 21 949,20 |\n| 3 | - 68 114,73 | 21 903,44 |\n| 4 | - 68 165,20 | 21 904,20 |\n\nPolo de captação da Moita\n\n(a que se refere o n.º 2 do artigo 2.º)\n\nFuro SL1\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 69 605,50 | 3 856,22 |\n| 2 | - 69 596,20 | 3 858,73 |\n| 3 | - 69 593,20 | 3 845,00 |\n| 4 | - 69 602,00 | 3 842,90 |\n\nNota. - As coordenadas dos vértices dos anexos i, ii e iii encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1166344975": {
+   "fragment_id": "953966675",
+   "type": 14,
+   "heading": "Anexo II — Zonas de proteção intermédia",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "## Anexo II — Zonas de proteção intermédia\n\nFuros HO1, HO3 e HO4 do polo de captação de Picotos/Pinhal de Leiria; furos AC4, HO6, JK2, SL6, SL2, SL7, SL4, SL3 e furo Estádio do polo de captação da Marinha Grande; furo SL5 do polo de captação de Vieira e furo SL1 do polo de captação da Moita\n\n(a que se refere o n.º 1 do artigo 3.º)\n\n| Polo de captação | Captação | Raio (metros) |  |\n| --- | --- | --- | --- |\n| X (metros) | Y (metros) |  |  |\n| Picotos/Pinhal de Leiria | - 74 790,20 | 8 225,50 | 55 |\n| - 75 081,70 | 7 200,20 | 43 |  |\n| - 74 947,20 | 8 231,50 | 55 |  |\n| Marinha Grande | - 66 077,97 | 8 900,27 | 58 |\n| - 66 369,05 | 8 685,51 | 50 |  |\n| - 67 882,85 | 8 136,20 | 65 |  |\n| - 66 780,22 | 8 299,05 | 47 |  |\n| - 67 806,38 | 10 105,34 | 40 |  |\n| - 67 160,90 | 7 154,92 | 45 |  |\n| - 68 338,47 | 7 293,80 | 30 |  |\n| - 68 718,03 | 9 348,70 | 40 |  |\n| - 68 430,74 | 8 034,75 | 50 |  |\n| Vieira | - 68 147,10 | 21 907,90 | 60 |\n| Moita | - 69 600,90 | 3 848,50 | 35 |\n\nPolo de captação de Vieira\n\n(a que se refere o n.º 2 do artigo 3.º)\n\nFuro AC1, furo AC3, furo RA2 e furo SO1\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 70 288,20 | 23 131,20 |\n| 2 | - 70 120,20 | 23 101,40 |\n| 3 | - 70 140,80 | 22 860,20 |\n| 4 | - 70 306,50 | 22 893,10 |\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1166345175": {
+   "fragment_id": "953966875",
+   "type": 14,
+   "heading": "Anexo III — Zonas de proteção alargada",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "## Anexo III — Zonas de proteção alargada\n\nFuros SL2 e SL3 do polo de captação da Marinha Grande; furo SL1 do polo de captação da Moita; furo SL5 do polo de captação de Vieira\n\n(a que se refere o n.º 1 do artigo 4.º)\n\n| Polo de captação | Origem | Raio (metros) |  |\n| --- | --- | --- | --- |\n| X (metros) | Y (metros) |  |  |\n| Marinha Grande | - 67 806,38 | 10 105,34 | 300 |\n| - 68 718,03 | 9 348,70 | 350 |  |\n| Moita | - 69 600,90 | 3 848,50 | 400 |\n| Vieira | - 68 147,10 | 21 907,90 | 500 |\n\nFuros AC1, AC3, RA2 e SO1 do polo de captação de Vieira\n\n(a que se refere o n.º 1 do artigo 4.º )\n\n| Polo de captação | Centroide dos furos AC1, AC3, RA2, SO1 P (m) | Raio (m) |  |\n| --- | --- | --- | --- |\n| X (metros) | Y (metros) |  |  |\n| Vieira | - 70 229,20 | 22 981,20 | 700 |\n\nPolo de captação de Picotos/Pinhal de Leiria\n\n(a que se refere o n.º 2 do artigo 4.º)\n\nFuro HO1, Furo HO3 e Furo HO4\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 75 458,30 | 8 663,98 |\n| 2 | - 75 010,71 | 8 777,42 |\n| 3 | - 74 371,12 | 8 606,17 |\n| 4 | - 74 243,56 | 8 254,53 |\n| 5 | - 74 251,69 | 7 586,50 |\n| 6 | - 74 764,20 | 6 681,54 |\n| 7 | - 75 835,29 | 6 997,41 |\n| 8 | - 75 711,71 | 8 104,20 |\n\nPolo de captação da Marinha Grande\n\n(a que se refere o n.º 2 do artigo 4.º)\n\nFuro AC4, Furo HO6 e Furo SL6\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 66 448,37 | 9 409,12 |\n| 2 | - 66 033,62 | 9 491,59 |\n| 3 | - 65 557,16 | 9 218,85 |\n| 4 | - 65 450,10 | 8 902,08 |\n| 5 | - 66 386,88 | 7 874,99 |\n| 6 | - 66 956,02 | 7 849,09 |\n| 7 | - 67 337,16 | 8 216,39 |\n| 8 | - 67 216,82 | 8 742,17 |\n\nFuro JK2 e Furo do Estádio\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 68 994,18 | 8 176,52 |\n| 2 | - 68 807,30 | 8 383,05 |\n| 3 | - 67 966,70 | 8 546,43 |\n| 4 | - 67 613,81 | 8 492,73 |\n| 5 | - 67 475,30 | 8 104,72 |\n| 6 | - 67 615,49 | 7 733,96 |\n| 7 | - 68 497,63 | 7 541,91 |\n| 8 | - 68 891,67 | 7 685,17 |\n\nFuro SL7\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 67 358,42 | 7 123,75 |\n| 2 | - 67 271,46 | 7 263,02 |\n| 3 | - 67 157,44 | 7 310,14 |\n| 4 | - 67 016,89 | 7 287,32 |\n| 5 | - 66 942,48 | 7 163,60 |\n| 6 | - 66 994,39 | 6 836,49 |\n| 7 | - 67 143,65 | 6 790,29 |\n| 8 | - 67 314,19 | 6 871,05 |\n\nFuro SL4\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | - 68 391,23 | 7 375,64 |\n| 2 | - 68 318,96 | 7 317,01 |\n| 3 | - 68 265,49 | 7 267,18 |\n| 4 | - 68 419,67 | 6 856,46 |\n| 5 | - 68 593,06 | 6 909,52 |\n| 6 | - 68 607,6 | 6 931,80 |\n| 7 | - 68 566,09 | 7 245,82 |\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  },
+  "1166345375": {
+   "fragment_id": "953967075",
+   "type": 14,
+   "heading": "Anexo IV — Planta de localização das zonas de proteção",
+   "in_force_from": "2026-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+   ],
+   "markdown": "## Anexo IV — Planta de localização das zonas de proteção\n\n(a que se refere o artigo 5.º)\n\nExtrato da Carta Militar de Portugal - 1:25000 (IGeoE)\n\nPolo de captação de Picotos/Pinhal de Leiria\n\nFuro HO1, Furo HO3 e Furo HO4\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813679.png) |\n| --- |\n\nPolo de captação da Marinha Grande\n\nFuro AC4, Furo HO6 e Furo SL6\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813680.png)\n\nFuro JK2 e furo Estádio\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813681.png)\n\nFuro SL2\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813682.png)\n\nFuro SL3\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813683.png)\n\nFuro SL4\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813684.png)\n\nFuro SL7\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813685.png)\n\nPolo de captação de Vieira\n\nFuro AC1, Furo RA2, Furo SO1 e Furo AC3\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813686.png)\n\nFuro SL5\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813687.png)\n\nPolo de captação da Moita\n\nFuro SL1\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1165236032/1165813688.png)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 401/2026/1 - Diário da República n.º 170/2026, Série I de 2026-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/401-2026-1165236032), em vigor a partir de 2026-09-03."
+  }
+ }
+}

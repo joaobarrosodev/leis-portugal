@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:872779042:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2024-1171069375",
+ "dre_path": "/dr/detalhe/despacho-extrato/8066-2024-872779042",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2024-07-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1171070975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1171070975": {
+   "fragment_id": "1171069475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho do Ministro da Presidência, de 11 de junho de 2024, foi concedido o Estatuto de Igualdade de Direitos e Deveres, sob proposta fundamentada da Agência para a Integração, Migrações e Asilo, I. P. e ao abrigo das disposições conjugadas dos artigos 12.º e 15.º do Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro, a 22 de abril de 2000, aprovado para ratificação pela Resolução da Assembleia da República n.º 83/2000, em 28 de setembro de 2000, e ratificado pelo Decreto do Presidente da República n.º 79/2000, de 14 de dezembro, da alínea a) do n.º 2 do artigo 45.º do Decreto-Lei n.º 41/2023, de 2 de junho, e do artigo 4.º e do n.º 1 do artigo 5.º do Decreto-Lei n.º 154/2003, de 15 de julho, na sua atual redação, aos seguintes cidadãos de nacionalidade brasileira:\n\nLista n.º 110/2024\n\n| Nome | Data de Nascimento |\n| --- | --- |\n| Aline Dresch Duarte | 14/02/1984 |\n| Ana Lúcia Tomaz da Silva | 14/06/1980 |\n| Augusto Cesar Ferreira da Silva | 02/03/1993 |\n| Bernardo de Miranda Lopes | 15/09/1980 |\n| Chiara Sabrine Dias Silva | 10/10/2003 |\n| Cleibe Martins Silva | 10/01/1981 |\n| Daniel Rodrigues de Santana | 08/02/1995 |\n| Daniela de Miranda Portela | 29/07/1981 |\n| Fernanda Mendes Xavier | 01/12/1996 |\n| Fernanda Quinetti Paes | 23/12/1987 |\n| Fernando Laurentino Ramirez | 13/02/1988 |\n| Heitor Pinto Ribeiro | 17/07/1987 |\n| Jamile Anne Nunes Nonato da Silva | 05/09/1982 |\n| Jaqueline de Oliveira Silva | 13/07/1983 |\n| Jonas Lupercio de Aguiar e Silva | 05/06/1987 |\n| Josiana dos Santos Silva | 02/12/1978 |\n| Josimara Lima Souza | 25/09/1980 |\n| Lindalva da Silva Freitas Marquez | 22/11/1985 |\n| Lucas de Oliveira Lima | 20/05/1995 |\n| Maycon Adriano de Barros | 02/07/1991 |\n| Neocícero de Jesus Barbosa | 20/09/1995 |\n| Nito Jorge Gomes | 31/12/1985 |\n| Rayssa Silva Ferreira | 19/05/1997 |\n| Renato Carneiro Leão de Oliveira | 07/04/1989 |\n| Robson Leite da Silva Júnior | 10/08/1998 |\n| Rosilene Oliveira Santos | 18/01/1993 |\n| Samanta Rodrigues Costa | 10/12/1996 |\n| Thais Cristina Miranda Maximo | 03/02/1993 |\n| Thais Maria de Souza Evangelista | 21/10/1983 |\n| Tiago Augusto Pavanelli | 14/06/1985 |"
+  }
+ }
+}

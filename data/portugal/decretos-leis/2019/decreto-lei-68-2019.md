@@ -1,0 +1,719 @@
+---
+schema_version: '1.0'
+id: pt:dre:122373682:por
+title: Decreto-Lei n.º 68/2019
+short_title: null
+summary: Cria o Programa de Arrendamento Acessível
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Transição Energética
+official_number: 68/2019
+official_date: null
+publication_date: '2019-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2019, Série I de 2019-05-22
+  number: '98'
+  series: I
+  supplement: null
+  pages: 2546 - 2553
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09800/0254602553.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-05-30'
+version_history:
+  file: decreto-lei-68-2019.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-12-30'
+    amending: pt:dre:150109596:por
+    amending_title: Declaração de Retificação n.º 48-A/2020; Decreto-Lei n.º 81/2020
+    changes:
+    - Retifica Artigo 10.º
+    - Retifica Artigo 19.º
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+  - date: '2022-12-31'
+    amending: pt:dre:205557210:por
+    amending_title: Decreto-Lei n.º 90-C/2022
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+    - Altera Artigo 28.º
+  - date: '2023-05-30'
+    amending: pt:dre:213650805:por
+    amending_title: Decreto-Lei n.º 38/2023
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/68/2019/p/cons/20230529/pt/html
+  oj: null
+  dre: '122373682'
+  dre_path: /dr/detalhe/decreto-lei/68-2019-122373682
+  internal: pt:dre:122373682:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2019-122373682
+  metadata_url: https://data.dre.pt/eli/dec-lei/68/2019/p/cons/20230529/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-150114015
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-150114015
+  retrieved_at: '2026-10-22T12:35:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a9ad96e38476bdc67518e660361ca658f7119e08b9e5db0bdd207ab09ed492b8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:35:55Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-68-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direito de Residência
+- Contrato de Seguro
+- Autoridade Tributária e Aduaneira
+- Cidadão Nacional
+- Contrato
+- Definição de Competências
+- Dívidas ao Estado
+- Ensino Profissional
+- Estudante
+- Fiscalização
+- Ministério das Finanças
+- IRS
+- Ensino Secundário
+- Residência
+- Instituto da Habitação e da Reabilitação Urbana
+- Nacional das Comunidades
+- Página na Internet
+- Pessoa Coletiva
+- Pessoa Singular
+- Política de Habitação
+- Prazo
+- IRC
+- Programa
+- Cobrança de Dívidas
+- Regime Fiscal
+- Regime Jurídico
+- Habitação
+- Ensino Superior
+- Renda de CASA
+- Renda Limite
+- Benefícios Fiscais
+- Residência de Estudantes
+- Segurança das Instalações
+- Prédio Urbano
+- Arrendamento Urbano para Habitação
+- Autarquia Local
+- Programa de Arrendamento Acessível
+- Contrato de Seguro de Arrendamento Acessível
+relationships:
+- type: amended_by
+  target: pt:dre:144454578:por
+  label: Retifica Artigo 10.º; Retifica Artigo 19.º; Altera Artigo 2.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo
+    14.º; Altera Artigo 19.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578
+  date: '2020-10-02'
+- type: amended_by
+  target: pt:dre:150109596:por
+  label: Retifica Artigo 10.º; Retifica Artigo 19.º; Altera Artigo 2.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo
+    14.º; Altera Artigo 19.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/48-a-2020-150109596
+  date: '2020-11-30'
+- type: amended_by
+  target: pt:dre:205557210:por
+  label: Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 24.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:213650805:por
+  label: Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805
+  date: '2023-05-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/120/2018/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/120/2018/12/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2019/01/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2019/01/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/57/2018/05/08/p/dre
+article_structure:
+  article_count: 30
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:35:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 68/2019
+
+Decreto-Lei n.º 68/2019
+
+de 22 de maio
+
+No Programa do XXI Governo Constitucional, reconhece-se como prioridade a necessidade de dar resposta às novas necessidades habitacionais, que se alargaram às populações com rendimentos intermédios, as quais não conseguem atualmente aceder a uma habitação adequada no mercado sem que isso implique uma sobrecarga excessiva sobre o orçamento familiar.
+
+Neste sentido, a Resolução do Conselho de Ministros n.º 50-A/2018, de 2 de maio, que aprova o sentido estratégico, objetivos e instrumentos de atuação para uma Nova Geração de Políticas de Habitação, aponta como objetivo garantir o acesso à habitação a todos os que não têm resposta por via do mercado, bem como a melhoria das oportunidades de escolha habitacionais e das condições de mobilidade no território entre os diversos regimes e formas de ocupação dos alojamentos e ao longo do ciclo de vida das famílias. Este documento estabelece ainda como meta, a médio prazo, reduzir a percentagem de população que vive em agregados familiares com sobrecarga das despesas com habitação no regime de arrendamento de 35 % para 27 %.
+
+Para alcançar estes objetivos, e em complemento dos instrumentos previstos para dar resposta urgente e prioritária às situações de carência habitacional e para a promoção de oferta pública de habitação, a Nova Geração de Políticas de Habitação prevê a criação do Programa de Arrendamento Acessível.
+
+O Programa de Arrendamento Acessível é um programa de política de habitação, de adesão voluntária, que visa promover uma oferta alargada de habitação para arrendamento a preços reduzidos, a disponibilizar de acordo com uma taxa de esforço compatível com os rendimentos dos agregados familiares. Pretende-se, assim, contribuir para dar resposta às necessidades habitacionais das famílias cujo nível de rendimento não lhes permite aceder no mercado a uma habitação adequada às suas necessidades, mas é superior ao que usualmente confere o acesso à habitação em regime de arrendamento apoiado.
+
+Para este fim, os alojamentos a disponibilizar no âmbito do programa devem observar limites máximos de preço de renda, nomeadamente uma redução face ao preço de referência de arrendamento estabelecido, cujo cálculo tem por base as características do alojamento e o valor mediano das rendas por metro quadrado divulgado com a última atualização divulgada pelo Instituto Nacional de Estatística, I. P., para a unidade territorial mais desagregada geograficamente que for divulgada por este instituto.
+
+Constituem objetivos centrais do Programa de Arrendamento Acessível contribuir para uma maior segurança, estabilidade e atratividade do arrendamento habitacional, tanto do lado da oferta como da procura, e para incentivar a manutenção das habitações em condições adequadas do ponto de vista da segurança, salubridade e conforto. Pretende-se também promover um maior equilíbrio entre o setor do arrendamento e a habitação própria, apostando na captação de nova oferta habitacional para arrendamento e facilitando a transição entre regimes de ocupação.
+
+São ainda promovidas a acessibilidade no arrendamento para alojamento estudantil e a otimização da utilização do parque habitacional, mediante a possibilidade de integração no programa do arrendamento de partes de uma habitação, incluindo de habitações que sejam residência permanente dos proprietários mas que estejam subocupadas, incentivando, deste modo, a convivência intergeracional e o complemento dos rendimentos dos proprietários. No mesmo sentido, o Programa de Arrendamento Acessível proporciona os instrumentos necessários para a concretização do programa Chave na Mão, aprovado pela Resolução do Conselho de Ministros n.º 57/2018, de 8 de maio, associando o aumento da oferta para arrendamento em zonas de maior pressão urbanística à revitalização do interior.
+
+A fim de promover os objetivos do programa e a adesão às condições por este estabelecidas, prevê-se a isenção de tributação sobre os rendimentos prediais decorrentes dos contratos enquadrados no mesmo, mediante a verificação do cumprimento das referidas condições, designadamente em matéria de preço de renda, duração mínima dos contratos, contratação de seguro, rendimentos e taxa de esforço dos agregados habitacionais, entre outras.
+
+Em complemento, foram criados instrumentos com vista à promoção de oferta pública para arrendamento a preços reduzidos, à promoção da segurança e da estabilidade no arrendamento, a uma maior transparência e regulação do mercado, à realização de investimento para arrendamento habitacional a preços reduzidos e à captação de oferta e apoio à procura que, no seu conjunto, criam um contexto incentivador do surgimento uma oferta alargada para arrendamento a custos acessíveis face aos rendimentos dos agregados habitacionais.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses, no quadro da elaboração da Lei n.º 2/2019, de 9 de janeiro.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 2/2019, de 9 de janeiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei cria o Programa de Apoio ao Arrendamento, estabelecendo as condições da sua aplicação.
+
+2 - O Programa de Apoio ao Arrendamento é um programa de política de habitação, de adesão voluntária, destinado a incentivar a oferta de alojamentos para arrendamento habitacional a preços reduzidos, a disponibilizar de acordo com uma taxa de esforço comportável para os agregados habitacionais.
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente decreto-lei é aplicável a:
+
+a) Contratos de arrendamento habitacional de prédios urbanos, de partes de prédios urbanos, de partes urbanas de prédios mistos e de frações autónomas de entidades públicas ou privadas;
+
+b) Contratos de arrendamento para subarrendamento habitacional de prédios urbanos, de partes de prédios urbanos, de partes urbanas de prédios mistos e de frações autónomas, cujo arrendatário seja o Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), um município ou outra entidade pública com competências na área da gestão de património;
+
+c) Contratos de subarrendamento habitacional de prédios urbanos, de partes de prédios urbanos, de partes urbanas de prédios mistos e de frações autónomas, objeto de contrato de arrendamento para subarrendamento nos termos da alínea anterior.
+
+2 - Aos contratos previstos na alínea b) do número anterior não se aplica o disposto no capítulo iii, aplicando-se com as necessárias adaptações as restantes disposições do presente decreto-lei.
+
+3 - As disposições do presente decreto-lei relativas a contratos de arrendamento aplicam-se aos contratos de subarrendamento previstos na alínea c) do n.º 1.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-12-30
+
+###### Artigo 3.º — Fins
+
+O Programa de Apoio ao Arrendamento prossegue os seguintes fins:
+
+a) Aumentar a acessibilidade à habitação por parte dos agregados familiares;
+
+b) Aumentar a oferta de habitação para arrendamento a preços reduzidos;
+
+c) Reforçar a segurança e a estabilidade no arrendamento habitacional;
+
+d) Promover maior equilíbrio entre o setor do arrendamento e o da habitação própria;
+
+e) Proporcionar respostas para as necessidades de mobilidade habitacional, por razões familiares, profissionais ou de estudo, e de mobilidade para territórios do interior;
+
+f) Melhorar o aproveitamento do parque edificado existente.
+
+###### Artigo 4.º — Definições
+
+Para os efeitos do presente decreto-lei, considera-se:
+
+a) «Alojamento», o objeto de determinada oferta para arrendamento no âmbito do Programa de Apoio ao Arrendamento, podendo consistir numa «habitação» ou numa «parte de habitação», nos termos definidos nas alíneas g) e h);
+
+b) «Agregado habitacional», a pessoa ou o conjunto de pessoas que integram uma candidatura a alojamento ao abrigo do presente decreto-lei, independentemente da prévia residência comum ou da existência de laços familiares;
+
+c) «Agregado familiar», qualquer uma das situações previstas no n.º 4 do artigo 13.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS);
+
+d) «Candidato», qualquer um dos elementos do agregado habitacional maior ou emancipado que aufira rendimento igual ou superior ao valor da pensão social do regime não contributivo, sem prejuízo do disposto no artigo 13.º;
+
+e) «Dependente», qualquer um dos elementos do agregado habitacional que não seja maior ou emancipado ou que não aufira rendimento igual ou superior ao valor da pensão social do regime não contributivo;
+
+f) «Prestador», a pessoa singular ou coletiva titular dos poderes necessários para dar de arrendamento determinado alojamento;
+
+g) «Habitação», a unidade autónoma, fechada por paredes separadoras, onde se desenvolve a vida pessoal, podendo corresponder a um prédio urbano, a parte de um prédio urbano não constituído em propriedade horizontal, à parte urbana de um prédio misto ou a uma fração autónoma;
+
+h) «Parte de habitação», o quarto situado no interior de uma habitação, compreendendo o direito de utilização de todos os espaços não afetos ao uso privativo de outros quartos, designadamente da cozinha ou área de preparação de refeições, das instalações sanitárias, da sala e do acesso ao exterior.
+
+###### Artigo 5.º — Entidade gestora
+
+1 - O Programa de Apoio ao Arrendamento é gerido pelo IHRU, I. P.
+
+2 - A par das suas competências enquanto entidade gestora, o IHRU, I. P., pode atuar diretamente como prestador, ficando sujeito a todos os deveres e requisitos que lhe sejam aplicáveis nessa qualidade.
+
+3 - Para o efeito previsto no número anterior, pode o IHRU, I. P., no âmbito das suas atribuições, dar de arrendamento alojamentos de que seja proprietário, atuar em representação do proprietário, arrendar habitações para subarrendamento e subarrendar os respetivos alojamentos, não se aplicando o disposto no Decreto-Lei n.º 280/2007, de 7 de agosto.
+
+###### Artigo 6.º — Finalidades e prazos mínimos de arrendamento
+
+1 - Os contratos de arrendamento no âmbito do Programa de Apoio ao Arrendamento podem ter a finalidade de 'residência permanente' ou de 'residência temporária para estudantes e formandos, bem como para formadores, técnicos especializados e pessoal docente e não docente de todos os níveis de educação ou formação escolar e profissional'.
+
+2 - Os contratos de arrendamento com finalidade de residência temporária apenas podem ser celebrados com arrendatários cujo domicílio fiscal seja distinto do concelho do locado, nos termos estabelecidos por portaria do membro do Governo responsável pela área da habitação.
+
+3 - Os contratos de arrendamento para residência permanente no âmbito do Programa de Apoio ao Arrendamento têm prazo mínimo de cinco anos, renovável por período estipulado entre as partes, sem prejuízo do disposto no número seguinte.
+
+4 - Caso o contrato tenha por finalidade a residência temporária, o prazo de arrendamento pode ser inferior ao estabelecido no número anterior, tendo por mínimo a duração de nove meses.
+
+5 - O contrato referido no número anterior pode ser renovado por período inferior ao prazo mínimo de cinco anos previsto no n.º 3, desde que a finalidade temporária se mantenha.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 7.º — Seguros
+
+1 - Os contratos previstos na alínea a) do n.º 1 do artigo 2.º são objeto de seguros obrigatórios, cujas garantias, condições e dever de contratação são definidos em diploma próprio.
+
+2 - Ficam excecionados do disposto no número anterior os contratos de arrendamento habitacional celebrados por entidades públicas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+### Capítulo II — Alojamentos
+
+###### Artigo 8.º — Requisitos gerais
+
+Para além dos demais requisitos aplicáveis nos termos da lei ao arrendamento de prédios urbanos, constituem requisitos gerais da disponibilização de um alojamento no âmbito do Programa de Apoio ao Arrendamento:
+
+a) O cumprimento das condições mínimas aplicáveis aos alojamentos em matéria de segurança, salubridade e conforto, nos termos a definir em portaria a aprovar pelo membro do Governo responsável pela área da habitação;
+
+b) A observância dos limites máximos do preço de renda aplicáveis, nos termos do artigo 10.º
+
+###### Artigo 9.º — Modalidades de alojamento
+
+A disponibilização de um alojamento no âmbito do Programa de Apoio ao Arrendamento pode processar-se nas modalidades de «habitação» ou de «parte de habitação» e, em ambos os casos, para qualquer das finalidades previstas no n.º 1 do artigo 6.º
+
+###### Artigo 10.º — Limites do preço de renda
+
+1 - O preço de renda mensal de um alojamento a disponibilizar no âmbito do Programa de Apoio ao Arrendamento deve observar os seguintes limites, sem prejuízo do coeficiente de atualização previsto na lei:
+
+a) O limite geral de preço de renda por tipologia, a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da habitação;
+
+b) O limite específico de preço de renda por alojamento, a definir nos termos dos números seguintes.
+
+2 - O limite específico de preço de renda aplicável a uma habitação corresponde a 80 % do valor de referência do preço de renda dessa habitação, a calcular nos termos da portaria prevista na alínea a) do número anterior, tendo em consideração, designadamente, os seguintes fatores:
+
+a) Área;
+
+b) Qualidade do alojamento;
+
+c) Certificação energética;
+
+d) Localização;
+
+e) Valor mediano das rendas por m2 de novos contratos de arrendamento de alojamentos familiares, de acordo com a última atualização divulgada pelo Instituto Nacional de Estatística, I. P. (INE, I. P.).
+
+3 - O limite específico de preço de renda aplicável a uma parte de habitação corresponde a 80 % do valor de referência do preço de renda dessa parte de habitação, a calcular nos termos da portaria prevista na alínea a) do n.º 1, tendo em consideração, designadamente, os seguintes fatores:
+
+a) Valor de referência do preço de renda da habitação onde se insere o alojamento;
+
+b) Área do quarto;
+
+c) Qualidade do quarto.
+
+4 - No caso dos contratos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º, relativos ao mesmo alojamento, a disponibilizar no âmbito do Programa de Apoio ao Arrendamento, o limite específico apenas é aplicável ao contrato de subarrendamento.
+
+5 - Os limites máximos de preço de renda aplicáveis ao alojamento nos termos do presente artigo não incluem as despesas ou encargos que sejam devidos nos termos do artigo 1078.º do Código Civil.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 48-A/2020 - Diário da República n.º 233/2020, 1º Suplemento, Série I de 2020-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/48-a-2020-150109596), em vigor a partir de 2020-12-30
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-12-30
+
+###### Artigo 11.º — Inscrição do alojamento
+
+1 - A inscrição do alojamento no Programa de Apoio ao Arrendamento é realizada através da plataforma eletrónica, também acessível através do Portal Único de Serviços previsto na Resolução do Conselho de Ministros n.º 46/2019, de 22 de fevereiro, com recurso a mecanismos de interoperabilidade estabelecidos entre o IHRU, I. P., as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria, nos termos estabelecidos por portaria do membro do Governo responsável pela área da habitação.
+
+2 - A inscrição do alojamento é titulada por certificado, que contém informação declarada pelo prestador e obtida com recurso a mecanismos de interoperabilidade estabelecidos entre o IHRU, I. P., as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria, nos termos estabelecidos por portaria do membro do Governo responsável pela área da habitação.
+
+3 - Cada inscrição diz respeito a um alojamento, sem prejuízo de o mesmo prédio urbano ou fração autónoma poder ser objeto da inscrição de vários alojamentos, consoante as modalidades previstas no artigo 9.º
+
+4 - O prestador é responsável pela veracidade e atualidade da informação referida no n.º 2, podendo a qualquer momento proceder à sua alteração ou ao seu cancelamento.
+
+5 - A inscrição do alojamento cessa mediante notificação ao prestador, com o cancelamento previsto no n.º 3 do artigo 22.º ou com o decurso do prazo de dois anos sem que tenha sido objeto de enquadramento no âmbito do Programa de Apoio ao Arrendamento qualquer contrato de arrendamento relativo à mesma.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+### Capítulo III — Candidaturas
+
+###### Artigo 12.º — Requisitos de elegibilidade
+
+1 - Apenas podem registar uma candidatura a alojamento, no âmbito do Programa de Apoio ao Arrendamento, agregados habitacionais cujo rendimento anual, calculado nos termos do artigo 14.º, seja inferior aos limites estabelecidos em portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da habitação, sem prejuízo do disposto no n.º 3 do mesmo artigo.
+
+2 - Pode integrar candidatura a alojamento, no âmbito do Programa de Apoio ao Arrendamento, qualquer pessoa que reúna os seguintes requisitos:
+
+a) Possuir cidadania portuguesa, de Estado-Membro da União Europeia ou, no caso de cidadãos de outros países, possuir autorização de residência ou de permanência em vigor para o período mínimo de nove meses a partir da data de registo da candidatura;
+
+b) Não se encontrar em situação de impedimento, nos termos do n.º 3 do artigo 22.º
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-12-30
+
+###### Artigo 13.º — Estudantes ou formandos dependentes
+
+1 - Um estudante inscrito no ensino secundário ou profissional, ou num ciclo de estudos conferente de grau ou diploma de ensino superior, que não preencha os requisitos previstos na alínea d) do artigo 4.º e que integre um agregado habitacional distinto do respetivo agregado familiar, pode adquirir a condição de candidato, para os efeitos previstos no presente decreto-lei, desde que o pagamento da parte da renda que lhe é imputável seja garantido por fiador que preencha os referidos requisitos.
+
+2 - No caso previsto no número anterior, o estudante em questão assume a obrigação de pagamento de uma quantia mensal fixa destinada ao pagamento da renda, não podendo a fiança a que se refere o número anterior exceder esse objeto e os respetivos juros e encargos exigíveis nos termos da lei.
+
+3 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, a formandos inscritos em oferta formativa de dupla certificação desenvolvida no âmbito do sistema nacional de qualificações.
+
+###### Artigo 14.º — Rendimento anual e rendimento médio mensal
+
+1 - O rendimento anual do agregado habitacional (RA) corresponde à soma dos rendimentos previstos no artigo 5.º do Decreto-Lei n.º 120/2018, de 27 de dezembro, constantes da última declaração de Imposto sobre o Rendimento das Pessoas Singulares (IRS) cuja liquidação se encontre disponível, relativamente a cada um dos candidatos, sem prejuízo do disposto nos números seguintes.
+
+2 - O rendimento anual de qualquer candidato, para efeitos de determinação do RA, deve ser apurado pela média mensal, multiplicada por 12, dos rendimentos auferidos pelo mesmo nos últimos 6 meses, nos seguintes casos:
+
+a) Quando a nota de liquidação de IRS do ano anterior ainda não se encontre disponível; ou
+
+b) Por opção do candidato.
+
+3 - Na determinação do RA a que se refere o número anterior, podem ser incluídos os valores de bolsas, subsídios ou subvenções já atribuídos cujo pagamento se inicie até seis meses após a data de registo da candidatura e possua a duração mínima prevista de nove meses.
+
+4 - Nos casos previstos no artigo anterior, a quantia mensal e os candidatos aí referidos não são considerados no cálculo do RA.
+
+5 - O rendimento médio mensal (RMM) do agregado habitacional corresponde a 1/12 do RA.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-12-30
+
+###### Artigo 15.º — Taxa de esforço e tipologia adequada
+
+1 - Nos contratos de arrendamento a celebrar no âmbito do Programa de Apoio ao Arrendamento:
+
+a) O preço da renda mensal deve corresponder a uma taxa de esforço máxima de 35 % do RMM do agregado familiar, calculado nos termos do artigo anterior, sem prejuízo do disposto nos números seguintes;
+
+b) A tipologia do alojamento deve ser adequada em função da dimensão do agregado habitacional, nos termos estabelecidos por portaria do membro do Governo responsável pela área da habitação.
+
+2 - Nos casos em que os agregados habitacionais integrem estudantes ou formandos dependentes nas situações previstas no artigo 13.º, mas não sejam exclusivamente compostos por eles, a taxa de esforço é calculada acrescendo o valor correspondente às quantias mensais previstas no n.º 2 do artigo 13.º
+
+3 - Quando o agregado habitacional apenas integre estudantes ou formandos dependentes nas situações previstas no artigo 13.º, o preço de renda mensal tem somente de observar o limite máximo correspondente ao valor da soma das quantias mensais previstas no n.º 2 do mesmo artigo, relativas a cada um dos estudantes ou formandos dependentes.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 16.º — Registo da candidatura
+
+1 - A candidatura a alojamento no âmbito do Programa de Apoio ao Arrendamento é registada através da plataforma eletrónica, também acessível através do Portal Único de Serviços previsto na Resolução do Conselho de Ministros n.º 46/2019, de 22 de fevereiro, com recurso a mecanismos de interoperabilidade estabelecidos entre o IHRU, I. P., as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria, nos termos estabelecidos por portaria do membro do Governo responsável pela área da habitação.
+
+2 - A cada candidatura corresponde um agregado habitacional e cada candidato apenas pode integrar uma candidatura com registo ativo.
+
+3 - O âmbito da candidatura é definido com base na informação declarada pelo candidato e obtida com recurso a mecanismos de interoperabilidade estabelecidos entre o IHRU, I. P., as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria, compreendendo os seguintes aspetos:
+
+a) Renda máxima admissível, calculada nos termos da alínea a) do n.º 1 ou dos n.os 2 e 3 do artigo anterior;
+
+b) Tipologia de alojamento adequada, nos termos da alínea b) do n.º 1 do artigo anterior;
+
+c) Finalidade do arrendamento, nos termos do n.º 1 do artigo 6.º;
+
+d) Modalidade de alojamento, nos termos do artigo 9.º
+
+4 - Os candidatos são responsáveis pela veracidade e atualidade da informação referida no número anterior.
+
+5 - O registo da candidatura é titulado por um certificado, nos termos a definir na portaria prevista no n.º 1 do artigo 12.º, devendo incluir:
+
+a) O número atribuído à candidatura e a data de registo da mesma;
+
+b) A identificação dos candidatos e dos demais elementos do agregado habitacional;
+
+c) O âmbito da candidatura definido nos termos do n.º 3.
+
+6 - O registo de uma candidatura que inclua candidato já integrado em candidatura cujo registo se encontre ativo depende de confirmação expressa por parte do candidato em questão, determinando a cessação do registo anterior, mediante notificação dos respetivos candidatos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 17.º — Redefinição do âmbito da candidatura
+
+1 - Qualquer dos candidatos pode proceder à alteração das informações relativas à sua pessoa ou aos respetivos dependentes a cargo e à sua exclusão do registo de candidatura em que se encontre integrado, determinando a cessação do registo da mesma, mediante notificação a todos os candidatos.
+
+2 - Nos casos previstos no número anterior e no n.º 6 do artigo anterior, os candidatos podem proceder à redefinição do âmbito da candidatura, através de novo registo, dando origem à emissão de novo certificado previsto no n.º 5 do artigo anterior.
+
+### Capítulo IV — Enquadramento no Programa de Apoio ao Arrendamento
+
+###### Artigo 18.º — Celebração do contrato
+
+1 - O contrato de arrendamento é celebrado nos termos gerais, devendo integrar obrigatoriamente os seguintes elementos:
+
+a) Identificação do alojamento;
+
+b) Identificação dos membros do agregado habitacional;
+
+c) Modalidade do alojamento;
+
+d) Finalidade do arrendamento;
+
+e) Prazo contratual e condições de renovação;
+
+f) Preço de renda mensal;
+
+g) Quantia mensal assumida para pagamento da renda por parte de cada estudante ou formando dependente que adquira a condição de candidato nos termos do artigo 13.º, e indicação do respetivo fiador.
+
+2 - São partes do contrato de arrendamento:
+
+a) Na qualidade de senhorio, o prestador;
+
+b) Na qualidade de arrendatários, os candidatos que integram a candidatura.
+
+3 - (Revogado.)
+
+4 - O contrato deve incluir, como anexos:
+
+a) O certificado de inscrição do alojamento previsto no n.º 2 do artigo 11.º;
+
+b) O certificado de registo de candidatura previsto no n.º 5 do artigo 16.º
+
+c)  (Revogada.)
+
+5 - É proibida a exigência a qualquer dos candidatos, ou a prestação por parte dos mesmos, de qualquer forma de caução, fiança ou outra garantia, bem como da entrega de qualquer depósito ou quantia que não decorram do presente decreto-lei ou do diploma previsto no artigo 7.º, sem prejuízo das despesas e encargos devidos nos termos do artigo 1078.º do Código Civil e de indemnizações devidas nos termos da lei.
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 19.º — Enquadramento do contrato
+
+1 - O enquadramento de um contrato de arrendamento no Programa de Apoio ao Arrendamento depende do cumprimento dos seguintes requisitos cumulativos:
+
+a) (Revogada.)
+
+b) Registo do contrato e dos anexos previstos no n.º 4 do artigo anterior no portal das finanças;
+
+c) Contratação dos seguros obrigatórios, nos termos do diploma previsto no artigo 7.º
+
+2 - Os senhorios e os arrendatários devem submeter na plataforma eletrónica do IHRU, I. P., no prazo de 20 dias após o registo do contrato no portal das finanças, os comprovativos do cumprimento dos requisitos previstos no número anterior.
+
+3 - Após o cumprimento do disposto no número anterior, o contrato de arrendamento fica automaticamente enquadrado no Programa de Apoio ao Arrendamento, com efeitos a partir da data da celebração do mesmo.
+
+4 - (Revogado.)
+
+5 - O enquadramento no Programa de Apoio ao Arrendamento dos contratos previstos na alínea b) do n.º 1 do artigo 2.º é realizado oficiosamente pelo IHRU, I. P., com notificação do proprietário, aplicando-se com as devidas adaptações o disposto nos números anteriores.
+
+6 - O enquadramento do contrato abrange as suas renovações, mantendo-se em caso de transmissão do imóvel em que se situa o alojamento, sem prejuízo do disposto no número seguinte.
+
+7 - O enquadramento do contrato de arrendamento no Programa de Apoio ao Arrendamento cessa:
+
+a) Com ocorrência de qualquer das situações previstas no n.º 1 do artigo 22.º, quando sejam imputáveis ao prestador, nos termos previstos no n.º 4 do mesmo artigo; ou
+
+b) A partir da data de cessação do contrato de arrendamento, mediante comunicação, por qualquer uma das partes, à Autoridade Tributária e Aduaneira, com conhecimento ao IHRU, I. P.
+
+8 - O número de contratos a enquadrar no Programa de Apoio ao Arrendamento pode ser limitado através de despacho do membro do Governo responsável pela área da habitação.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 48-A/2020 - Diário da República n.º 233/2020, 1º Suplemento, Série I de 2020-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/48-a-2020-150109596), em vigor a partir de 2020-12-30
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-12-30
+
+###### Artigo 20.º — Regime fiscal
+
+1 - Estão isentos de tributação em IRS e Imposto sobre o Rendimento de Pessoas Coletivas (IRC) os rendimentos prediais resultantes de contratos de arrendamento ou subarrendamento habitacional enquadrados no Programa de Apoio ao Arrendamento.
+
+2 - Caso o contribuinte opte pelo englobamento dos rendimentos prediais, os rendimentos isentos nos termos do número anterior são obrigatoriamente englobados para efeito de determinação da taxa a aplicar aos restantes rendimentos.
+
+3 - (Revogado.)
+
+4 - A cessação do enquadramento referida na alínea a) do n.º 7 do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data da respetiva usufruição com a consequente obrigação de proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago, acrescida de juros compensatórios.
+
+5 - Para efeitos do disposto no número anterior, suspende-se o prazo de caducidade do direito à liquidação de imposto nos termos da alínea c) do n.º 2 do artigo 46.º da Lei Geral Tributária.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+### Capítulo V — Fiscalização e incumprimento
+
+###### Artigo 21.º — Fiscalização
+
+1 - Sem prejuízo das competências legais próprias de outras entidades, a entidade gestora pode, em momento posterior ao enquadramento automático previsto no artigo 19.º, realizar auditorias para verificação da conformidade dos contratos de arrendamento celebrados com as normas aplicáveis nos termos do presente decreto-lei.
+
+2 - Os senhorios e os arrendatários devem colaborar na resposta aos pedidos de informação e na realização das demais diligências instrutórias promovidas nos termos do número anterior.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+###### Artigo 22.º — Incumprimento
+
+1 - Sem prejuízo da responsabilidade civil ou criminal que possa decorrer dos mesmos factos, nos termos gerais, constituem incumprimento dos deveres dos prestadores e ou dos candidatos, sem prejuízo do disposto no número seguinte:
+
+a) A prestação de informações falsas ou apresentação de documentos falsos;
+
+b) A falta de colaboração na realização das diligências instrutórias previstas no n.º 2 do artigo anterior;
+
+c) A exigência aos candidatos, ou a prestação por estes, de qualquer forma de caução, garantia ou fiança ou da entrega de qualquer depósito ou quantia, que não decorram do presente decreto-lei ou do diploma previsto no artigo 7.º, sem prejuízo das despesas e encargos devidos nos termos do artigo 1078.º do Código Civil e de indemnizações devidas nos termos da lei;
+
+d) O incumprimento do dever de contratação dos seguros obrigatórios ou a fraude no respetivo acionamento, nos termos do diploma previsto no artigo 7.º;
+
+e) O incumprimento dos deveres decorrentes do contrato de arrendamento, gerador de resolução efetuada nos termos da lei.
+
+2 - No caso previsto na alínea a) do número anterior, sendo válidos os documentos apresentados, a prestação de informações desconformes pelos candidatos apenas produz os efeitos previstos nos números seguintes quando se verifique que:
+
+a) O rendimento anual do agregado habitacional apurado no seguimento da fiscalização é superior ao limite de elegibilidade estabelecido no n.º 1 do artigo 12.º; ou
+
+b) [Revogada.]
+
+3 - A verificação de qualquer uma das situações de incumprimento previstas no n.º 1 determina o cancelamento da inscrição do alojamento ou do registo da candidatura e o impedimento, pelo período de cinco anos a contar da data da ocorrência, de nova inscrição do alojamento ou da participação em nova candidatura, consoante o incumprimento seja imputável ao prestador ou a candidato.
+
+4 - A verificação das situações de incumprimento previstas no n.º 1 determina, ainda, a cessação do direito ao apoio público conferido ao abrigo do presente decreto-lei ou a devolução ao Estado do valor correspondente ao apoio público indevidamente auferido, consoante o caso:
+
+a) Em caso de incumprimento pelo prestador, a cessação do enquadramento prevista no n.º 5 do artigo 19.º, aplicando-se o disposto no n.º 4 do artigo 20.º;
+
+b) Em caso de incumprimento pelos candidatos, o pagamento ao Estado do valor correspondente à diferença entre o valor de referência do preço de renda do alojamento e o limite máximo de preço de renda aplicável ao mesmo, nos termos do artigo 10.º, durante todo o período em que hajam beneficiado deste apoio em situação de incumprimento.
+
+5 - As decisões previstas nos números anteriores competem ao IHRU, I. P., após audiência prévia dos interessados, nos termos do Código do Procedimento Administrativo.
+
+6 - À cobrança da quantia devida nos termos da alínea b) do n.º 4 e dos respetivos encargos, na falta de pagamento voluntário após notificação, aplicam-se as regras da execução fiscal, devendo o IHRU, I. P., comunicar à AT os valores em dívida.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210)
+
+### Capítulo VI — Programas municipais
+
+###### Artigo 23.º — Compatibilidade de programas municipais
+
+1 - Os municípios podem solicitar à entidade gestora a verificação da compatibilidade de programas municipais de promoção de oferta para arrendamento habitacional, regulados pelas suas disposições próprias, com o Programa de Apoio ao Arrendamento, com vista ao enquadramento, para os efeitos previstos no presente decreto-lei, dos contratos celebrados no âmbito dos referidos programas.
+
+2 - Consideram-se compatíveis com o Programa de Apoio ao Arrendamento os programas municipais cujas disposições assegurem o cumprimento dos seguintes requisitos:
+
+a) Limites máximos do preço de renda aplicáveis ao alojamento, nos termos do artigo 10.º;
+
+b) Prazos mínimos de arrendamento previstos no artigo 6.º;
+
+c) Limite máximo de rendimentos dos agregados habitacionais para efeitos de elegibilidade estabelecido na portaria prevista no n.º 1 do artigo 12.º;
+
+d) Limite máximo da taxa de esforço prevista no artigo 15.º
+
+3 - Para os efeitos previstos nas alíneas c) e d) do número anterior, o cálculo dos rendimentos dos agregados habitacionais obedece às regras estabelecidas no programa municipal, caso existam.
+
+4 - Para o efeito previsto no n.º 1, o município envia à entidade gestora informação sobre o programa municipal em questão, demonstrando o modo de observância dos requisitos estabelecidos no n.º 2.
+
+5 - A entidade gestora pode solicitar ao município a prestação de esclarecimentos ou informações adicionais que considere necessárias.
+
+6 - A entidade gestora comunica ao município o resultado da verificação da compatibilidade do programa municipal com o Programa de Apoio ao Arrendamento no prazo de 30 dias a contar da receção da comunicação prevista no n.º 3 ou da resposta à solicitação prevista no número anterior.
+
+###### Artigo 24.º — Enquadramento de contratos
+
+1 - Os contratos celebrados ao abrigo dos programas municipais cuja compatibilidade com o Programa de Apoio ao Arrendamento tenha sido verificada nos termos do artigo anterior são passíveis de enquadramento, para os efeitos previstos no artigo 20.º, mediante apresentação dos seguintes elementos:
+
+a) Registo do contrato no portal das finanças e emissão do certificado energético;
+
+b) Declaração do município atestando a inclusão do mesmo no programa municipal;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+2 - Aos contratos objeto de enquadramento nos termos do número anterior aplica-se, com as devidas adaptações, o disposto nos n.os 3, 4, 6 e 7 do artigo 19.º
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-12-30
+
+### Capítulo VII — Disposições finais
+
+###### Artigo 25.º — Notificações e comunicações
+
+As notificações e comunicações previstas no presente decreto-lei podem ser realizadas por correio eletrónico, exceto quando a lei imponha forma mais exigente.
+
+###### Artigo 26.º — Monitorização e avaliação
+
+1 - O IHRU, I. P., assegura a monitorização da execução do Programa de Apoio ao Arrendamento, em articulação com as demais entidades envolvidas na sua aplicação, e avalia o seu desempenho e os resultados alcançados tendo em conta os fins do programa estabelecidos no artigo 3.º
+
+2 - A execução do Programa de Apoio ao Arrendamento é objeto de avaliação externa bianual, devendo o IHRU, I. P., submeter o respetivo relatório de avaliação aos membros do Governo responsáveis pelas áreas das finanças e da habitação, tendo presente os resultados da monitorização a que se refere o número anterior.
+
+###### Artigo 27.º — Legislação subsidiária
+
+Em tudo o que não contrarie o disposto no presente decreto-lei, é subsidiariamente aplicável o disposto no Código do Procedimento Administrativo.
+
+###### Artigo 28.º — Regulamentação
+
+No prazo de 30 dias a partir da publicação do presente decreto-lei, são aprovados os seguintes diplomas regulamentares:
+
+a) Portaria que regulamenta as disposições relativas à inscrição de alojamentos no Programa de Apoio ao Arrendamento, estabelecendo as condições mínimas aplicáveis aos alojamentos em matéria de segurança, salubridade e conforto, e o conteúdo do certificado de inscrição do alojamento, nos termos previstos na alínea a) do artigo 8.º e no n.º 2 do artigo 11.º, a aprovar pelo membro do Governo responsável pela área da habitação;
+
+b) Portaria que estabelece os limites gerais de preço de renda por tipologia e o valor de referência do preço de renda por alojamento aplicáveis no âmbito do Programa de Apoio ao Arrendamento, nos termos previstos na alínea a) do n.º 1 e nos n.os 2 e 3 do artigo 10.º, a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da habitação;
+
+c) Portaria que regulamenta as disposições relativas ao registo de candidatura, definindo o valor máximo de rendimentos para efeitos de elegibilidade dos agregados habitacionais, a informação e os elementos instrutórios a apresentar, incluindo os documentos demonstrativos das situações previstas no n.º 2 do artigo 6.º e no artigo 13.º, a tipologia adequada, bem como o conteúdo do certificado de registo de candidatura, nos termos previstos no n.º 1 do artigo 12.º, na alínea b) do n.º 1 do artigo 15.º e nos n.os 3 e 5 do artigo 16.º, a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da habitação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90-C/2022 - Diário da República n.º 251/2022, 4º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-c-2022-205557210), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 29.º — Aplicação no tempo
+
+1 - O presente decreto-lei aplica-se exclusivamente a novos contratos de arrendamento celebrados a partir da data da sua entrada em vigor e suas renovações, não abrangendo as renovações de contratos celebrados anteriormente a essa data.
+
+2 - As disposições do presente decreto-lei relativas aos seguros obrigatórios aplicam-se na data de entrada em vigor do diploma previsto no artigo 7.º e nos termos em que aí vier a ser definido o dever de contratação dos mesmos.
+
+###### Artigo 30.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 1 de julho de 2019.
+
+Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - João Pedro Soeiro de Matos Fernandes.
+
+Promulgado em 3 de maio de 2019.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 7 de maio de 2019.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112304972

@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:1142955:por
+title: Declaração de Rectificação n.º 955/2009
+short_title: null
+summary: Rectifica o aviso n.º 5734/2009, Diário da República, 2.ª série, n.º 54, de 18 de Março de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Administração Interna - Guarda Nacional Republicana - Comando-Geral
+proposing_entity: null
+official_number: 955/2009
+official_date: null
+publication_date: '2009-04-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 64/2009, Série II de 2009-04-01
+  number: '64'
+  series: II
+  supplement: null
+  pages: 12342 - 12342
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/04/064000000/1234212342.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1142955'
+  dre_path: /dr/detalhe/declaracao-rectificacao/955-2009-1142955
+  internal: pt:dre:1142955:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/955-2009-1142955
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/955-2009-1142955
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-04-01T00:00:00Z'
+integrity:
+  source_sha256: e0ed6d2370fe173b56e18c992dc9e1bb3a20dd75bd4a30cff918b7ec0e796934
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-955-1142955.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 955/2009
+
+Rectificação ao aviso n.º 5734/2009, aviso de publicação da lista de classificação final dos candidatos ao concurso externo de ingresso para admissão de 983 Guardas, para o quadro permanente da Guarda Nacional Republicana, aberto pelo [Aviso n.º 13803/2008](https://diariodarepublica.pt/dr/detalhe/aviso/13803-2008-2113227), publicado no Diário da República n.º 87 (2.ª Série), de 06 de Maio de 2008.
+
+Para os devidos efeitos, declara-se que o aviso acima identificado foi publicado com as seguintes inexactidões, que agora se rectificam:
+
+Candidatos aprovados:
+
+1 - Onde se lê: "2.º Tiago Silvino Martins Ribeiro (a) - 4,85
+
+3.º Duarte Jaime Machado Vieira (a) - 4,68"
+
+Deve ler-se: "2.º Tiago Silvino Martins Ribeiro a) - 14,85
+
+3.º Duarte Jaime Machado Vieira a) - 14,68"
+
+2 - Onde se lê: "(a)" deve ler-se: "a)"
+
+Onde se lê: "(b)" deve ler-se: "b)"
+
+Onde se lê: "(c)" deve ler-se: "c)"
+
+3 - Onde se lê: "(a) Candidatos ordenados nos termos do n.º 3 do Aviso de abertura do concurso."
+
+Deve ler-se: "a) Candidatos ordenados nos termos do n.º 3 do Aviso de abertura do concurso."
+
+Onde se lê: "(b) Candidatos ordenados nos termos do n.º 2 do Aviso de abertura do concurso."
+
+Deve ler-se: "b) Candidatos ordenados nos termos do n.º 2 do Aviso de abertura do concurso."
+
+Onde se lê: "(c) Candidatos com mais de dois anos de serviço militar efectivo em 20MAI08."
+
+Deve ler-se: "c) Candidatos com mais de dois anos de serviço militar efectivo em 20MAI08."
+
+20 de Março de 2009. - O Comandante-Geral, Luís Nelson Ferreira dos Santos, tenente-general.

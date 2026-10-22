@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:512611:por
+title: Decreto n.º 46649
+short_title: null
+summary: Introduz alterações nos Estatutos da Fundação Nacional para a Alegria no Trabalho, aprovados pelo Decreto n.º 37836
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Corporações e Previdência Social - Gabinete do Ministro
+proposing_entity: null
+official_number: '46649'
+official_date: null
+publication_date: '1965-11-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 261/1965, Série I de 1965-11-17
+  number: '261'
+  series: I
+  supplement: null
+  pages: 1471 - 1472
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/11/26100/14711472.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '512611'
+  dre_path: /dr/detalhe/decreto/46649-1965-512611
+  internal: pt:dre:512611:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46649-1965-512611
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46649-1965-512611
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-08-28T00:00:00Z'
+integrity:
+  source_sha256: 9b71b2336c4b38f6d2cb8bb572f1a6eecca3ee655b8105ca41fc98f3d8d5c4dd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-46649-512611.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:219140:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46649
+
+O [Decreto n.º 44734](https://diariodarepublica.pt/dr/detalhe/decreto/44734-1962-155411), de 27 de Novembro de 1962, introduziu algumas alterações nos Estatutos da Fundação Nacional para a Alegria no Trabalho, que se consubstanciaram fundamentalmente na criação de um lugar de vice-presidente da direcção, justificado pelo crescente aumento das actividades do organismo.
+
+Acontece, porém, que nos últimos três anos tal aumento de actividades acentuou-se de forma a exigir novo ajustamento, designadamente determinado pela aquisição e funcionamento do Teatro da Trindade e pela necessidade de integrar este novo serviço por uma forma adequada e institucional na orgânica da Fundação.
+
+Por outro lado, a natureza e funcionamento de um teatro aconselham a sua autonomia administrativa e financeira, pois só assim poderá satisfazer rápida e eficientemente as necessidades que lhe estão confiadas, sobretudo tratando-se de um teatro como o da F. N. A. T., que funciona todo o ano e em diversas modalidades artísticas; por outro lado, o teatro deve inserir-se na linha geral de orientação das actividades da F. N. A. T., objectivo que terá de conciliar-se da melhor forma com a aludida autonomia.
+
+Considerando as circunstâncias referidas e também o facto de, além delas, os serviços da F. N. A. T. tenderem a um desenvolvimento cada vez maior noutros sectores do seu pelouro cultural, julga-se que a melhor solução é a de criar na direcção um outro lugar de vice-presidente, que, por inerência, desempenhará as funções de director do teatro da F. N. A. T.
+
+Simultâneamente, fixam-se as disposições indispensáveis para a institucionalização do teatro da F. N. A. T.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º O corpo do artigo 14.º, §§ 1.º e 2.º do artigo 16.º e capítulo V dos Estatutos da Fundação Nacional para a Alegria no Trabalho, aprovados pelo [Decreto n.º 37836](https://diariodarepublica.pt/dr/detalhe/decreto/37836-1950-657782), de 24 de Maio de 1950, e que dele fazem parte integrante, passam a ter a seguinte redacção:
+
+###### Art. 14.º A direcção é composta por um presidente, dois vice-presidentes e dois vogais, todos nomeados pelo Ministro das Corporações e Previdência Social, devendo os vogais ser propostos pelo conselho geral.
+
+...
+
+###### Art. 16.º ...
+
+§ 1.º Os vice-presidentes coadjuvam o presidente e substituem-no nas suas faltas e impedimentos, desempenhando um dos vogais as funções de secretário e outro as de tesoureiro, para o que serão designados em reunião da direcção.
+
+§ 2.º As remunerações mensais do presidente e vice-presidentes e as senhas de presença a atribuir ao secretário e tesoureiro serão estabelecidas por despacho do Ministro das Corporações e Previdência Social.
+
+...
+
+V
+
+###### Art. 23.º Ao teatro da F. N. A. T. incumbe uma função educativa e recreativa através da realização normal de espectáculos, designadamente de teatro declamado, ópera e opereta, bailado e concertos musicais, destinados às classes trabalhadoras.
+
+###### Art. 24.º O teatro constitui um serviço da F. N. A. T. dotado de autonomia financeira e administrativa e será gerido por um director.
+
+§ único. O director do teatro será escolhido pelo Ministro das Corporações e Previdência Social de entre os dois vice-presidente em exercício.
+
+###### Art. 2.º Os actuais capítulos V, VI, VII, VIII e IX dos Estatutos da F. N. A. T. passam a ser, respectivamente, os capítulos VI, VII, VIII, IX e X, e os artigos 23.º e seguintes, até final, passam a ter a numeração de 25.º a 50.º
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 17 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

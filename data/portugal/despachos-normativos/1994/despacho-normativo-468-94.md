@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:291433:por
+title: Despacho Normativo n.º 468/94
+short_title: null
+summary: Define as categorias de projectos que beneficiam das formas de incentivo ao investimento no turismo
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 468/94
+official_date: null
+publication_date: '1994-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/1994, Série I-B de 1994-07-04
+  number: '152'
+  series: I
+  supplement: null
+  pages: 3523 - 3525
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/152b00/35233525.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/468/1994/07/04/p/dre/pt/html
+  oj: null
+  dre: '291433'
+  dre_path: /dr/detalhe/despacho-normativo/468-1994-291433
+  internal: pt:dre:291433:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/468-1994-291433
+  metadata_url: https://data.dre.pt/eli/despnorm/468/1994/07/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/468-1994-291433
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-03-24T00:00:00Z'
+integrity:
+  source_sha256: 3bdb833ec549c8440bb4e55bb0520fd829099b6ea4d96b22b21b8b96cf6daa6f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-468-291433.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Turismo
+- Desenvolvimento Regional
+- Apoio ao Investimento
+- Fundo de Turismo
+- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Infraestrutura Turística
+relationships:
+- type: amended_by
+  target: pt:dre:176018:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/178/1994/06/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/178/1994/06/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/486/1994/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/486/1994/07/04/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 468/94
+
+O [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, tendo como objectivo contribuir para a melhoria da qualidade e da diversificação da oferta turística nacional, criou um sistema de incentivos ao investimento no turismo, o SIFIT (III), incentivos esses que, em razão do tipo de projecto, podem assumir, alternativamente, as formas de subvenção financeira a fundo perdido e de comparticipação financeira reembolsável.
+
+O n.º 3 do artigo 3.º do referido decreto-lei determina que a definição das categorias de projectos que beneficiam de cada uma das referidas formas de incentivo é feita por despacho normativo do membro do Governo da tutela.
+
+Nestes termos, cumpre proceder a essa definição, optando-se por reconduzir à subvenção financeira a fundo perdido apenas os projectos de investimento na recuperação ou adaptação de imóveis de relevante valor histórico, cultural ou arquitectónico, em ordem à instalação dos estabelecimentos hoteleiros, de empreendimentos e meios de animação turística ou de restaurantes típicos ou turísticos.
+
+Por seu turno, o montante do incentivo a atribuir é determinado através da aplicação de uma percentagem, que agora se estabelece, sobre o valor total das despesas do investimento comparticipáveis, nos termos previstos no n.º 5.º do Regulamento de Aplicação do SIFIT (III), aprovado pela [Portaria n.º 486/94](https://diariodarepublica.pt/dr/detalhe/portaria/486-1994-291431),
+
+de 4 de Julho.
+
+Finalmente, em cumprimento do disposto no n.º 2 do artigo 9.º do [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, e em articulação com a referida percentagem, definem-se os critérios a que obedece a hierarquização dos projectos de investimento a comparticipar.
+
+As soluções que agora se consagram privilegiam os projectos de investimento que contribuam para a melhoria da qualidade e diversificação da oferta turística, nomeadamente projectos de modernização e reequipamento de empreendimentos turísticos existentes, de criação de novos empreendimentos e meios de animação turística, bem como os destinados à instalação de empreendimentos turísticos e meios de animação turística em património histórico, cultural ou arquitectónico.
+
+Por outro lado, tem-se em conta a localização dos projectos, privilegiando-se os localizados no interior, dado constituírem factor de correcção das assimetrias regionais.
+
+Assim:
+
+Ao abrigo do n.º 3 do artigo 3.º e do n.º 2 do artigo 9.º do [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, e no exercício da competência que me foi delegada pelo Despacho n.º 154/94-DR, de 8 de Fevereiro, do Ministro do Comércio e Turismo, publicado no Diário da República, 2.ª série, n.º 48, de 26 de Fevereiro de 1994, determino o seguinte:
+
+1.1 - Os processos de candidatura ao sistema de incentivos criado pelo [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, em cada uma das respectivas fases, serão ordenados, em razão da natureza e da localização do projecto a comparticipar, de acordo com os seguintes grupos e nos termos dos quadros anexos ao presente despacho, do qual fazem parte integrante:
+
+a) Grupo I: projectos de remodelação e ampliação de estabelecimentos hoteleiros, desde que, quanto a estes últimos, a componente «ampliação» não exceda 25% do custo total do investimento;
+
+b) Grupo II: projectos de construção, ampliação e remodelação de empreendimentos e meios de animação turística e de instalações termais;
+
+c) Grupo III: projectos de recuperação ou adaptação de património qualificável como de relevante valor histórico, cultural ou arquitectónico, nos termos a definir por despacho do membro do Governo da tutela, em ordem à instalação de estabelecimentos hoteleiros, de empreendimentos e meios de animação turística ou de restaurantes típicos ou turísticos;
+
+d) Grupo IV: projectos de turismo no espaço rural, compreendendo o turismo de habitação, o turismo rural e o agro-turismo, desde que não envolvam a construção de novos edifícios.
+
+1.2 - São susceptíveis de integração no grupo I:
+
+a) Projectos de redimensionamento respeitantes a estabelecimentos hoteleiros que visem, em razão do investimento a realizar, um aumento da respectiva capacidade de alojamento para um número não superior a 50 quartos, desde que a componente de ampliação não exceda 75% do custo total do investimento e o aumento do número de quartos resultante dessa ampliação não represente mais de 50% do número total de quartos após a realização do investimento;
+
+b) Projectos de adaptação de unidades afectas a turismo no espaço rural a hotéis, de categoria igual ou superior a três estrelas, a hotéis rurais ou a estalagens de cinco e quatro estrelas.
+
+1.3 - Não são susceptíveis de integração nos grupos II e IV os projectos de investimento a realizar nos municípios de Lisboa e do Porto, salvo os projectos enquadráveis no primeiro daqueles grupos quando declarados de excepcional interesse por despacho do membro do Governo com tutela sobre o turismo.
+
+1.4 - A classificação dos estabelecimentos hoteleiros enunciados nos quadros anexos ao presente despacho, e do qual fazem parte integrante, é a que lhes cabe em razão do investimento a realizar, com recurso ao incentivo atribuído ao abrigo do [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, independentemente da forma por que o seja.
+
+1.5 - Em caso algum o montante de investimento em capital fixo, avaliado a preços correntes, dos projectos candidatos ao SIFIT (III) poderá ser inferior a 20000 contos.
+
+2 - Os projectos de investimento a apoiar pelo SIFIT (III) beneficiarão do incentivo previsto na alínea a) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, com excepção dos compreendidos no grupo III, os quais beneficiarão do incentivo previsto na alínea b) do mesmo número.
+
+3.1 - A verba disponível para cada uma das fases de candidatura será repartida pelos grupos previstos no n.º 1.1 do seguinte modo:
+
+a) Grupo I: 50%;
+
+b) Grupo II: 30%;
+
+c) Grupo III: 15%;
+
+d) Grupo IV: 5%.
+
+3.2 - Após a selecção dos projectos, no âmbito de cada grupo, a parte não utilizada da verba afecta a cada grupo, se a houver, será redistribuída pelos restantes grupos pela ordem por que estes se encontram enunciados no n.º 1.1.
+
+4.1 - Os projectos de investimento considerados elegíveis, para efeitos de concessão da subvenção prevista no [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, no âmbito do grupo a que se reportam nos termos do n.º 1.1, serão hierarquizados pelo Fundo de Turismo por ordem decrescente das percentagens que corresponderem à totalidade das despesas de investimento comparticipáveis, nos termos do n.º 2 do n.º 5.º do Regulamento de Aplicação do SIFIT (III), aprovado pela [Portaria n.º 486/94](https://diariodarepublica.pt/dr/detalhe/portaria/486-1994-291431),
+
+de 4 de Julho, e dos quadros anexos ao presente despacho.
+
+4.2 - Sem prejuízo do disposto no número anterior, os projectos apresentados por pequenas e médias empresas, no âmbito do grupo I, gozam de prioridade na hierarquização.
+
+5 - Quando, por aplicação dos critérios de hierarquização previstos nos números anteriores, haja projectos que se encontrem em situação de igualdade, a hierarquização dos mesmos será feita atendendo ao valor intrínseco de cada um, aferido pelas respectivas taxas internas de rentabilidade, relação capitais próprios/investimento total e períodos de recuperação do investimento actualizado, ponderados da seguinte forma:
+
+a) Taxa interna de rentabilidade: 0,3;
+
+b) Relação capitais próprios/investimento total: 0,4;
+
+c) Período de recuperação do investimento actualizado: 0,3.
+
+6 - Os resultados obtidos com a aplicação dos critérios previstos no número anterior serão convertidos em unidades, nos termos a definir por despacho do membro do Governo com tutela sobre o turismo.
+
+7 - Para efeitos do presente despacho, consideram-se:
+
+a) Projectos novos: os que envolvam o início da exploração de um novo empreendimento turístico;
+
+b) Projectos de remodelação e ampliação: os que tenham por objecto unidades que se encontram afectas à exploração turística;
+
+c) Projectos que prevejam animação turística: aqueles em que a componente de animação turística seja de valor não inferior a 25% do custo total do investimento a realizar;
+
+d) Projectos localizados no interior: os projectos relativos a empreendimentos que se situem, pelo menos, a 20 km do mar, contados da linha limite da margem do domínio público marítimo;
+
+e) Pequenas e médias empresas: as empresas que, no ano anterior ao da candidatura, apresentem uma facturação anual não superior a 500000 contos, desde que, quando revistam forma societária, os respectivos sócios, isolada ou conjuntamente, também não apresentem facturação anual superior àquele montante nem sejam titulares de participações maioritárias no capital de sociedades que a apresentem.
+
+8 - O Fundo de Turismo poderá exigir aos promotores dos projectos financiados pelo SIFIT (III) informação económico-financeira e contabilística análoga à exigida aos beneficiários dos demais financiamentos concedidos por aquele organismo.
+
+Ministério do Comércio e Turismo, 23 de Junho de 1994. - O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.
+
+## Anexo ao Despacho Normativo n.º 468/94
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/152b00/35233525.pdf))](https://files.diariodarepublica.pt/1s/1994/07/152b00/35233525.pdf)

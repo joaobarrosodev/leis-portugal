@@ -1,0 +1,333 @@
+---
+schema_version: '1.0'
+id: pt:dre:408160:por
+title: Despacho Normativo n.º 27/96
+short_title: null
+summary: Estabelece a regulamentação sobre a criação de unidades de inserção na vida activa (UNIVA). Revoga o Despacho Normativo
+  n.º 87/92, de 5 de Junho
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério para a Qualificação e o Emprego
+proposing_entity: null
+official_number: 27/96
+official_date: null
+publication_date: '1996-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1996, Série I-B de 1996-08-03
+  number: '179'
+  series: I
+  supplement: null
+  pages: 2318 - 2321
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/179b00/23182321.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/27/1996/08/03/p/dre/pt/html
+  oj: null
+  dre: '408160'
+  dre_path: /dr/detalhe/despacho-normativo/27-1996-408160
+  internal: pt:dre:408160:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1996-408160
+  metadata_url: https://data.dre.pt/eli/despnorm/27/1996/08/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1996-408160
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-01-30T00:00:00Z'
+integrity:
+  source_sha256: b5ffbeb5c3af7acd45f71b8ea4e3c22f4f65883f0140518fc3013503aad05117
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-27-408160.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio Técnico
+- Financiamento
+- Centro de Emprego
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Jovem
+- Orientação Escolar
+- Orientação Profissional
+- Primeiro Emprego
+- Emprego
+- Promoção de Emprego
+- Política de Emprego
+- Mercado do Trabalho
+- Univa
+- VIDA Activa
+relationships:
+- type: amended_by
+  target: pt:dre:601741:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/401/1991/10/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/401/1991/10/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/87/1992/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/87/1992/06/05/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 27/96
+
+Do Programa de Acção Imediata para o Emprego - Eixos e Medidas Decorrentes do Programa do Governo e do Acordo Económico e Social de 24 de Janeiro de 1996, no eixo «Estimular a Criação de Emprego» insere-se a medida de reforçar os mecanismos de apoio à inserção dos jovens, com destaque, entre outros, para o desenvolvimento de um programa de difusão e reforço das unidades de inserção na vida activa (UNIVA), a instalar em estabelecimentos de ensino, de formação profissional e outras organizações, com vista a fornecer serviços de apoio à orientação e colocação, à organização de estágios e formação profissional e a outras formas de contacto com o mercado de trabalho.
+
+Acresce que o anterior quadro jurídico das UNIVA - [Despacho Normativo n.º 87/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1992-300647), de 5 de Junho, nomeadamente os artigos 7.º, n.º 4, e 12.º - previa a concessão de apoio financeiro, quando as necessidades de financiamento o justificassem, com base na avaliação da actividade desenvolvida pela UNIVA e a actualização dos respectivos montantes, tendo em conta a avaliação entretanto realizada e os coeficientes de desvalorização da moeda ocorridos.
+
+Nestes termos e tendo em conta o previsto no [Decreto-Lei n.º 401/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1991-289058), de 16 de Outubro, no artigo 5.º, n.º 2, e as atribuições cometidas ao Instituto do Emprego e Formação Profissional pelo [Decreto-Lei n.º 247/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1985-182655), de 12 de Julho, determina-se o seguinte:
+
+###### Artigo 1.º — Noção
+
+1 - Entende-se por unidade de inserção na vida activa, adiante designada por UNIVA, qualquer tipo de organização ou serviço, devidamente acreditado pelo Instituto do Emprego e Formação Profissional, adiante designado por IEFP, que preste apoio a jovens na resolução dos seus problemas de inserção ou reinserção profissional, em cooperação com os centros de emprego.
+
+2 - A UNIVA tem como objecto específico o acolhimento, a informação e orientação profissional e o apoio e acompanhamento dos jovens em experiências no mundo do trabalho e na procura de uma formação e ou emprego.
+
+###### Artigo 2.º — Entidades promotoras
+
+1 - Podem candidatar-se à criação de uma UNIVA entidades sem fins lucrativos, mediante a apresentação de um projecto de intervenção nas áreas definidas no presente diploma.
+
+2 - As UNIVA podem ser criadas em:
+
+a) Escolas, prioritariamente do ensino secundário que possuam cursos tecnológicos, profissionais e tecnológicas;
+
+b) Centros de formação profissional, incluindo os de gestão participada;
+
+c) Centros de juventude;
+
+d) Instituições particulares de solidariedade social;
+
+e) Autarquias locais;
+
+f) Associações sindicais e empresariais;
+
+g) Outras associações com papel relevante na dinamização e desenvolvimento local.
+
+###### Artigo 3.º — Acreditação das UNIVA
+
+1 - As UNIVA são objecto de uma acreditação pelo IEFP, que terá em consideração:
+
+a) O nível da intervenção ou da prestação de serviços da UNIVA;
+
+b) As infra-estruturas físicas, em particular os espaços de acolhimento e atendimento;
+
+c) O pessoal que nela presta serviço;
+
+d) O perfil dos animadores;
+
+e) As ligações e experiências específicas das entidades promotoras da UNIVA, nas áreas ou níveis de intervenção que se prossigam;
+
+f) A progressiva integração na organização da entidade promotora e a potencial autonomia técnica e financeira.
+
+2 - A acreditação das UNIVA será realizada anualmente, no acto de aprovação da sua criação, ou após a análise do pedido de renovação e condicionará a concessão dos apoios de natureza técnica e financeira.
+
+###### Artigo 4.º — Actividades prosseguidas pelas UNIVA
+
+1 - As actividades a prosseguir pelas UNIVA, para efeitos do disposto no presente diploma, são as seguintes:
+
+a) O acolhimento, a informação e orientação profissional e ou escolar dos jovens, visando a sua integração na vida activa, apoiando-os na definição do percurso formativo e profissional;
+
+b) A colocação de jovens e o acompanhamento da sua inserção na vida activa;
+
+c) O apoio à frequência de estágios e cursos de formação profissional e a promoção de outras formas de contacto com o mercado de trabalho;
+
+d) A recolha e divulgação de ofertas de emprego e de formação profissional e a promoção de contactos regulares com as empresas e outras entidades situadas no mundo do trabalho.
+
+2 - As actividades prosseguidas pelas UNIVA são desenvolvidas em articulação com os serviços do IEFP.
+
+###### Artigo 5.º — Prioridades
+
+1 - Terão prioridade no acesso aos apoios previstos no presente diploma as UNIVA que se proponham prosseguir:
+
+a) Uma intervenção mais abrangente, tendo em consideração as actividades referidas no n.º 1 do artigo 4.º;
+
+b) Actividades para jovens com dificuldades específicas de inserção na vida activa.
+
+2 - Terão ainda prioridade no acesso aos apoios previstos no presente diploma as UNIVA inseridas em organizações cuja finalidade seja a educação e formação profissional de jovens e aquelas que, criadas no âmbito do [Despacho Normativo n.º 87/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1992-300647), se encontrem em funcionamento e tenham dado provas de eficácia.
+
+3 - Sem prejuízo do disposto nos números anteriores, serão consideradas prioritárias as UNIVA que apresentem condições para evoluir no sentido de uma progressiva integração na organização da entidade promotora e autonomia em termos técnicos e financeiros.
+
+4 - Na análise das candidaturas, deve ainda atender-se à localização da UNIVA, em termos sócio-económicos e geográficos, favorecendo-se a sua criação em áreas geográficas:
+
+a) Mais carenciadas e ou com maior dificuldade de acesso aos centros de emprego do IEFP;
+
+b) Onde seja relevante o desemprego juvenil e o abandono escolar precoce;
+
+c) Onde seja significativo o trabalho infantil e o risco de exclusão social;
+
+d) Com sectores em reestruturação.
+
+###### Artigo 6.º — Perfil do animador
+
+1 - A actividade a desenvolver pela UNIVA é assegurada por um animador, o qual poderá ter à partida um vínculo laboral com a entidade promotora ou ser recrutado especificamente para o efeito.
+
+2 - Atendendo ao grau de exigência das funções a desempenhar, o animador terá como habilitação de base uma licenciatura ou bacharelato, com excepção dos animadores em exercício de funções em UNIVA criadas no âmbito do [Despacho Normativo n.º 87/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1992-300647) e em funcionamento na data de publicação do presente diploma.
+
+3 - Excepcionalmente e com exclusão para as UNIVA inseridas em estabelecimentos de ensino estatais e centros de formação profissional, o animador poderá ter como habilitação mínima o 12.º ano de escolaridade, desde que a actividade da UNIVA consista fundamentalmente na prestação de informações aos jovens.
+
+4 - Todo o animador receberá uma formação específica inicial e contínua, a qual poderá ser assegurada directamente pelo IEFP ou através de entidades externas devidamente credenciadas para o efeito.
+
+5 - O animador exercerá funções a tempo inteiro ou tempo parcial, constando obrigatoriamente a definição deste item do projecto de candidatura.
+
+6 - O animador poderá ser coadjuvado na sua acção por outros agentes, nomeadamente elementos do quadro da entidade promotora.
+
+###### Artigo 7.º — Apoios em geral
+
+1 - O IEFP, anualmente, poderá conceder apoios de natureza técnica e financeira às UNIVA.
+
+2 - As UNIVA inseridas em estabelecimentos de ensino estatais, designadamente do Ministério da Educação, beneficiam apenas do apoio técnico previsto no artigo 8.º e do apoio financeiro previsto no artigo 9.º, n.º 2, e, excepcionalmente, do apoio financeiro previsto no artigo 9.º, n.º 4, quando o animador for seleccionado e recrutado pelo centro de emprego, de entre os licenciados e bacharéis inscritos como desempregados há mais de um ano.
+
+3 - A concessão de apoios a UNIVA integradas em estabelecimentos de ensino ou em organismos da Administração Pública poderá, se for considerado necessário, ser objecto de despacho conjunto do Ministro para a Qualificação e o Emprego e do membro do Governo da respectiva tutela.
+
+###### Artigo 8.º — Apoio técnico
+
+1 - O apoio técnico a conceder pelo IEFP através dos serviços centrais, regionais e, designadamente, dos centros de emprego deverá compreender:
+
+a) A elaboração de um plano de formação e realização de acções de formação inicial e contínua destinadas aos animadores;
+
+b) A disponibilização e a actualização de material de informação profissional e de instrumentos técnico-pedagógicos, quer para distribuição quer para consulta dos utentes, bem como de suportes informativos para o desempenho da função de animador;
+
+c) Prestação de serviços de informação e orientação profissional aos candidatos encaminhados pelas UNIVA;
+
+d) Intercâmbio de pedidos e ofertas de emprego e formação profissional;
+
+e) Análise conjunta de:
+
+i) Perspectivas de emprego e de formação profissional;
+
+ii) Adequação entre a formação ministrada e a requerida pelo mercado de emprego;
+
+iii) Outras questões relacionadas com a melhoria das condições de inserção e reinserção dos jovens na vida activa;
+
+f) O apoio na articulação com outras entidades nacionais e internacionais que contribuam para a prossecução dos objectivos da política de emprego e formação profissional neste domínio;
+
+g) A participação na avaliação dos resultados obtidos relativamente à inserção na vida activa dos destinatários abrangidos pelas medidas prosseguidas pelas UNIVA.
+
+2 - O IEFP deve promover a animação da rede de UNIVA, investindo na cooperação inter-UNIVA, na complementaridade das suas actividades e no intercâmbio de experiências inovadoras, nomeadamente realizando encontros de carácter periódico, visando uma maior eficiência e eficácia das suas prestações.
+
+3 - Tendo em vista a consecução do disposto na alínea a) do n.º 1, o centro de emprego deverá proceder, em articulação com as UNIVA, ao levantamento, caracterização e diagnóstico das necessidades de formação dos animadores e outros agentes responsáveis pela operacionalização dos objectivos que aquelas prosseguem.
+
+4 - Tendo em conta o perfil exigido para o desempenho da actividade de animador e na perspectiva de uma melhor ajuda à inserção ou reinserção profissional dos destinatários das acções desenvolvidas pelas UNIVA, o conteúdo das acções de formação profissional referidas no número anterior deverá compreender, designadamente:
+
+a) O atendimento e acolhimento dos jovens à procura de emprego e ou de formação;
+
+b) A recolha e sistematização da informação;
+
+c) A informação sobre o meio sócio-económico envolvente;
+
+d) O conhecimento e aplicação de técnicas de procura de emprego;
+
+e) O contacto com entidades empregadoras;
+
+f) O contacto com entidades promotoras de formação profissional.
+
+###### Artigo 9.º — Apoio financeiro
+
+1 - A concessão do apoio financeiro terá lugar na medida em que a prossecução dos objectivos das UNIVA o justifique, tendo em conta as orientações das políticas de emprego e formação profissional neste domínio, e assume a forma de uma subvenção a fundo perdido.
+
+2 - Para pequenas adaptações de infra-estruturas, aquisição de equipamento e acesso a redes de informação, poderá ser concedido apoio financeiro:
+
+a) Até ao limite de 700000$00, no 1.º ano de funcionamento;
+
+b) Até ao limite de 400000$00, no 2.º ano de funcionamento;
+
+c) Até ao limite de 200000$00, no 3.º ano de funcionamento.
+
+3 - Para aquisição de artigos de expediente e secretaria, poderá ser concedido, durante três anos, um apoio financeiro até ao limite de 125000$00 por ano.
+
+4 - Para comparticipação na remuneração do animador com habilitação de base de licenciatura ou bacharelato e na de outros agentes, quando a UNIVA funcione a tempo inteiro, poderá ser concedido apoio financeiro:
+
+a) Até ao limite de 18 vezes o valor mais elevado da remuneração mínima mensal garantida por lei, no 1.º ano de funcionamento;
+
+b) Até ao limite de 24 vezes o valor mais elevado da remuneração mínima mensal garantida por lei, no 2.º ano de funcionamento;
+
+c) Até ao limite de 24 vezes o valor mais elevado da remuneração mínima mensal garantida por lei, no 3.º ano de funcionamento.
+
+5 - Quando o animador não possuir licenciatura ou bacharelato, de acordo com as excepções previstas nos n.os 2 e 3 do artigo 6.º, o apoio financeiro a conceder para a comparticipação na sua remuneração e na de outros agentes será até ao limite de 18 vezes o valor mais elevado da remuneração mínima mensal garantida por lei, nos três primeiros anos de funcionamento, quando a UNIVA funcione a tempo inteiro.
+
+6 - A prorrogação dos apoios financeiros às UNIVA, para além dos três anos de funcionamento, incide apenas na comparticipação na remuneração do animador e na de outros agentes, até aos limites estabelecidos nos n.os 4, alínea c), e 5, consoante as respectivas habilitações de base, e terá sempre em conta a avaliação positiva da sua actividade por parte do IEFP, não devendo ser desligada da perspectiva de um desenvolvimento destas estruturas progressivamente auto-sustentada ou sustentada, pela entidade promotora.
+
+7 - Quando a UNIVA funcione a tempo parcial, o apoio financeiro para comparticipação na remuneração do animador e na de outros agentes terá por limite 50% dos montantes previstos nos números anteriores.
+
+8 - Para as UNIVA criadas ao abrigo do [Despacho Normativo n.º 87/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1992-300647) e em funcionamento, a prorrogação dos apoios financeiros passa pela sua prévia avaliação pelo IEFP. Os montantes dos apoios a conceder serão calculados tendo por referência o número de anos de funcionamento.
+
+###### Artigo 10.º — Trâmites processuais
+
+1 - As candidaturas são apresentadas nos centros de emprego da área de localização das entidades promotoras das UNIVA, mediante formulário elaborado e fornecido pelo IEFP. Consideram-se dois períodos anuais de candidaturas, com duração de 60 dias cada, terminando, respectivamente, nos meses de Março e Setembro.
+
+2 - A decisão relativa à aprovação das candidaturas apresentadas será tomada no prazo máximo de 60 dias após o fecho do período de candidatura.
+
+3 - A UNIVA beneficiária de um apoio financeiro obrigar-se-á mediante a outorga de um termo de responsabilidade elaborado segundo as orientações do IEFP, devendo dele constar:
+
+a) As finalidades e montantes do apoio financeiro concedido, com observância do disposto no artigo 9.º;
+
+b) A obrigatoriedade de apresentação dos documentos comprovativos das despesas efectuadas;
+
+c) Quaisquer outras obrigações que venham a ser fixadas no despacho de concessão de apoio financeiro, nomeadamente da obrigação de elaboração e envio do relatório de actividades, nos termos previstos no artigo 11.º
+
+###### Artigo 11.º — Acompanhamento e avaliação das actividades das UNIVA
+
+1 - As actividades das UNIVA serão acompanhadas regularmente pelo IEFP, devendo aquelas anualmente elaborar um relatório das actividades desenvolvidas, que será enviado ao centro de emprego da sua área de localização.
+
+2 - As UNIVA serão avaliadas anualmente pelo IEFP, tendo em conta, entre outros, os seguintes indicadores:
+
+Taxa de colocação de jovens;
+
+Encaminhamento para a formação;
+
+Contactos regulares com as empresas e agentes económicos regionais e locais;
+
+Iniciativas inovadoras nos domínios da promoção do emprego e ou formação de jovens.
+
+3 - A renovação da acreditação e a prorrogação do apoio financeiro dependerão dos resultados do acompanhamento e da avaliação efectuada com base nos relatórios referidos no n.º 1.
+
+###### Artigo 12.º — Regulamentação interna
+
+O IEFP emitirá as orientações necessárias à execucão do presente despacho normativo.
+
+###### Artigo 13.º — Entrada em vigor
+
+1 - É revogado, a partir da entrada em vigor deste diploma, o [Despacho Normativo n.º 87/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1992-300647), de 5 de Junho, sem prejuízo das situações constituídas ao seu abrigo.
+
+2 - Este diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Ministério para a Qualificação e o Emprego, 9 de Julho de 1996. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.

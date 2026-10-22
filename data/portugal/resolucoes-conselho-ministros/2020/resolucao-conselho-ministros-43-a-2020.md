@@ -1,0 +1,321 @@
+---
+schema_version: '1.0'
+id: pt:dre:135707100:por
+title: Resolução do Conselho de Ministros n.º 43-A/2020
+short_title: null
+summary: Prorroga a reposição, a título excecional e temporário, do controlo de pessoas nas fronteiras, no âmbito da pandemia
+  da doença COVID-19
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 43-A/2020
+official_date: null
+publication_date: '2020-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2020, 1º Suplemento, Série I de 2020-06-12
+  number: '113'
+  series: I
+  supplement: 1º Suplemento
+  pages: 6-(2) a 6-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11301/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/43-a/2020/06/12/p/dre/pt/html
+  oj: null
+  dre: '135707100'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/43-a-2020-135707100
+  internal: pt:dre:135707100:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-a-2020-135707100
+  metadata_url: https://data.dre.pt/eli/resolconsmin/43-a/2020/06/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-a-2020-135707100
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-10-24T00:00:00Z'
+integrity:
+  source_sha256: 4204d16c067fc45ea61fcba1a224c8a0b138dc49fb3a954a571414630c2213d7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-43-A-135707100.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação
+- Autorização de Transporte
+- Barrancos
+- Circulação de Pessoas
+- Transporte Aéreo
+- Espanha
+- Fronteiras
+- Melgaço
+- Miranda do Douro
+- Monção
+- Mourão
+- Circulação de Mercadorias
+- Transporte de Mercadorias
+- Doença Infecciosa
+- Schengen
+- Transporte de Passageiros
+- Transporte Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:202552708:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32016R0399
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/399/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/252/2000/10/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/252/2000/10/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/10-b/2020/03/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10-b/2020/03/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/22/2020/04/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/22/2020/04/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/33-b/2020/04/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/33-b/2020/04/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/34-a/2020/05/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/34-a/2020/05/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 43-A/2020
+
+A [Resolução do Conselho de Ministros n.º 10-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108), de 16 de março, na sua redação atual, repõe, a título excecional e temporário, o controlo de pessoas nas fronteiras no âmbito da situação epidemiológica provocada pelo novo Coronavírus SARS-CoV-2 e da doença COVID-19, tendo a referida reposição sido prorrogada pela [Resolução do Conselho de Ministros n.º 22/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2020-131393116), de 14 de abril, pela [Resolução do Conselho de Ministros n.º 33-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-b-2020-132883345), de 30 de abril, e pela [Resolução do Conselho de Ministros n.º 34-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-a-2020-133626309), de 13 de maio.
+
+Atendendo à avaliação da situação epidemiológica em Portugal e na União Europeia e às medidas propostas pela Comissão Europeia, importa garantir a segurança interna através de medidas adequadas que contenham as possíveis linhas de contágio, entre as quais, a manutenção da reposição, a título excecional e temporário, do controlo de pessoas nas fronteiras, com algumas exceções. Estas medidas foram concertadas entre o Governo da República Portuguesa e o Governo do Reino de Espanha.
+
+Deste modo e visto que a prorrogação termina às 00:00 horas do dia 15 de junho de 2020, a presente resolução vem prorrogar a reposição do controlo de pessoas nas fronteiras até às 23:59 horas do dia 30 de junho de 2020, passando a integrar as exceções previstas quanto aos pontos de passagem de fronteiras terrestres nos termos do Despacho n.º 5897-A/2020, de 27 de maio, publicado no Diário da República, 2.ª série, n.º 104, de 28 de maio de 2020, que agora se revoga.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Alterar a [Resolução do Conselho de Ministros n.º 10-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108), de 16 de março, alterada pela [Resolução do Conselho de Ministros n.º 22/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2020-131393116), de 14 de abril, pela [Resolução do Conselho de Ministros n.º 33-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-b-2020-132883345), de 30 de abril, e pela [Resolução do Conselho de Ministros n.º 34-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-a-2020-133626309), de 13 de maio, que passa a ter a seguinte redação:
+
+«1 - Estabelecer que no período compreendido entre as 00:00 horas do dia 15 de junho de 2020 e as 23:59 horas do dia 30 de junho de 2020, sem prejuízo de reavaliação a cada 10 dias e possível prorrogação, é reposto o controlo de pessoas nas fronteiras internas portuguesas, nos termos do n.º 6 do artigo 6.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, e dos artigos 25.º e 27.º do Código de Fronteiras Schengen, aprovado pelo Regulamento (UE) [2016/399](https://data.europa.eu/eli/reg/2016/399/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de março de 2016, na sua redação atual.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [Revogada.]
+
+f) [...]
+
+g) Mantém-se a proibição de desembarque de passageiros e tripulações dos navios de cruzeiro nos portos nacionais, com exceção dos cidadãos nacionais e residentes em Portugal, determinada pelo Despacho n.º 3298-C/2020, publicado no Diário da República, 2.ª série, n.º 52, de 13 de março de 2020, pelo Despacho n.º 4394-D/2020, publicado no Diário da República, 2.ª série, n.º 71, de 9 de abril de 2020, pelo Despacho n.º 5138-B/2020, publicado no Diário da República, 2.ª série, n.º 85, de 30 de abril de 2020, e pelo Despacho n.º 5520-B/2020, publicado no Diário da República, 2.ª série, n.º 94, de 14 de maio de 2020.
+
+5 - [...]
+
+6 - [...]
+
+7 - Decretar que, entre as 00:00 horas do dia 15 de junho de 2020 e as 23:59 horas do dia 30 de junho de 2020, são pontos de passagem autorizados, na fronteira terrestre, os seguintes:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...].
+
+8 - Decretar, sem prejuízo do disposto no número anterior, que são pontos de passagem autorizados, na fronteira terrestre, os seguintes:
+
+a) Nos dias úteis, das 07:00 horas às 09:00 horas e das 18:00 horas às 20:00 horas, Mourão, Ponto de Fronteira de S. Leonardo, km 7, EN 256-1;
+
+b) Às quartas-feiras e aos sábados, das 10:00 horas às 12:00 horas, Rio de Onor, Ponto de Fronteira da Rua da Costa, caminho rural;
+
+c) Às segundas-feiras e às quintas-feiras, das 06:00 horas às 08:00 horas e das 17:00 horas às 19:00 horas, Tourém, Ponto de Fronteira n.º 101, EM 513;
+
+d) Às segundas-feiras e às quintas-feiras, das 06:00 horas às 08:00 horas e das 17:00 horas às 19:00 horas, Barrancos, EN 258, km 105,5, que efetua a ligação à HU-9101;
+
+e) Nos dias úteis, das 07:00 horas às 21:00 horas:
+
+i) Melgaço, Lugar do Peso, km 19,800, EN 202;
+
+ii) Monção, Avenida da Galiza, km 15,300, EN 101;
+
+iii) Miranda do Douro, km 86,990, EN 218;
+
+iv) Vila Nova de Cerveira, km 104,500, EN 13.
+
+9 - [...]
+
+10 - Determinar que é autorizada a entrada de nacionais de Estados-Membros da União Europeia que não implementam o acervo de Schengen nos voos provenientes destes países, salvo quando, em trânsito, se desloquem para um Estado-Membro que não o da sua nacionalidade no qual não possam exercer o direito de livre circulação.
+
+11 - [...]
+
+12 - [...]»
+
+2 - Revogar a alínea e) do n.º 4 da [Resolução do Conselho de Ministros n.º 10-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108), de 16 de março, na sua redação atual, e o Despacho n.º 5897-A/2020, de 27 de maio, publicado no Diário da República, 2.ª série, n.º 104, de 28 de maio de 2020.
+
+3 - Republicar, no anexo à presente resolução e da qual faz parte integrante, a [Resolução do Conselho de Ministros n.º 10-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108), de 16 de março, com a redação introduzida pela presente resolução.
+
+4 - Determinar que a presente resolução entra em vigor às 00:00 horas do dia 15 de junho de 2020.
+
+Presidência do Conselho de Ministros, 9 de junho de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se refere o n.º 3)
+
+Republicação da [Resolução do Conselho de Ministros n.º 10-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108), de 16 de março
+
+1 - Estabelecer que no período compreendido entre as 00:00 horas do dia 15 de junho de 2020 e as 23:59 horas do dia 30 de junho de 2020, sem prejuízo de reavaliação a cada 10 dias e possível prorrogação, é reposto o controlo de pessoas nas fronteiras internas portuguesas, nos termos do n.º 6 do artigo 6.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, e dos artigos 25.º e 27.º do Código de Fronteiras Schengen, aprovado pelo Regulamento (UE) [2016/399](https://data.europa.eu/eli/reg/2016/399/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de março de 2016, na sua redação atual.
+
+2 - Determinar que o Serviço de Estrangeiros e Fronteiras, nos termos do artigo 2.º da respetiva orgânica aprovada pelo [Decreto-Lei n.º 252/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2000-541806), de 16 de outubro, na sua redação atual, é a entidade responsável pela aplicação das presentes medidas excecionais em matéria de controlo de fronteiras, em colaboração com as forças de segurança.
+
+3 - Estabelecer que o controlo nas fronteiras internas deve ser adequado e proporcional de forma a reduzir o seu impacto sobre a livre circulação de pessoas, em conformidade com o disposto no artigo 28.º do Regulamento (UE) [2016/399](https://data.europa.eu/eli/reg/2016/399/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de março de 2016, e na presente resolução.
+
+4 - Determinar que:
+
+a) São suspensos todos os voos, de todas as companhias aéreas, comerciais ou privados, com origem de Espanha ou destino para Espanha, com destino ou partida dos aeroportos ou aeródromos portugueses, com exceção das aeronaves do Estado, das Forças Armadas, das aeronaves que integram, incluindo as que se destinam a integrar, o Dispositivo Especial de Combate a Incêndios Rurais, voos para transporte de carga e correio, bem como voos de caráter humanitário ou de emergência médica e as escalas técnicas para fins não comerciais;
+
+b) É proibida a circulação rodoviária, nas fronteiras internas terrestres, independentemente do tipo de veículo, com exceção do transporte internacional de mercadorias, do transporte internacional de passageiros nos casos previstos no n.º 5, do transporte de trabalhadores transfronteiriços e de trabalhadores sazonais com relação laboral comprovada documentalmente, da circulação de veículos de emergência e socorro e de serviço de urgência;
+
+c) É suspensa a circulação ferroviária, exceto para o transporte de mercadorias;
+
+d) É suspenso o transporte fluvial entre os dois países;
+
+e) [Revogada.]
+
+f) É suspensa a concessão de licenças para vir a terra a tripulantes de embarcações nos portos nacionais, sem prejuízo de, caso a caso, e mediante parecer da Autoridade de Saúde, poder ser autorizada a troca de tripulações ou o desembarque para efeitos de regresso ao país de origem;
+
+g) Mantém-se a proibição de desembarque de passageiros e tripulações dos navios de cruzeiro nos portos nacionais, com exceção dos cidadãos nacionais e residentes em Portugal, determinada pelo Despacho n.º 3298-C/2020, publicado no Diário da República, 2.ª série, n.º 52, de 13 de março de 2020, pelo Despacho n.º 4394-D/2020, publicado no Diário da República, 2.ª série, n.º 71, de 9 de abril de 2020, pelo Despacho n.º 5138-B/2020, publicado no Diário da República, 2.ª série, n.º 85, de 30 de abril de 2020, e pelo Despacho n.º 5520-B/2020, publicado no Diário da República, 2.ª série, n.º 94, de 14 de maio de 2020.
+
+5 - Estabelecer que os condicionalismos de tráfego referidos no número anterior não prejudicam:
+
+a) O direito de entrada dos cidadãos nacionais e dos titulares de autorização de residência nos respetivos países;
+
+b) A circulação do pessoal diplomático, das Forças Armadas, das forças e serviços de segurança, profissionais de saúde e socorro, do pessoal afeto, incluindo o pessoal a afetar, ao Dispositivo Especial de Combate a Incêndios Rurais;
+
+c) A circulação para efeitos de reunião familiar;
+
+d) O acesso a unidades de saúde, nos termos de acordos bilaterais relativos à prestação de cuidados de saúde;
+
+e) O direito de saída dos cidadãos residentes noutro país;
+
+f) O direito de entrada e de saída do território nacional dos trabalhadores sazonais com relação laboral comprovada documentalmente.
+
+6 - Prever que à entrada no território nacional podem ser introduzidos controlos sanitários assim como solicitado o preenchimento de declaração conforme modelo anexo à presente resolução e da qual faz parte integrante.
+
+7 - Decretar que, entre as 00:00 horas do dia 15 de junho de 2020 e as 23:59 horas do dia 30 de junho de 2020, são pontos de passagem autorizados, na fronteira terrestre, os seguintes:
+
+a) Valença-Viana do Castelo, saída da Ponte Tuy-Valença-ligação IP 1-A 3, em Valença;
+
+b) Vila Verde da Raia-Chaves, saída da A 52, ligação com a A 24, km 0, junto à rotunda;
+
+c) Quintanilha-Bragança, saída da Ponte Internacional IP 4/E 82, nó de saída para Quintanilha ou junto das instalações do CCPA na N 218-1 Quintanilha;
+
+d) Vilar Formoso-Guarda junto da linha de fronteira, Largo da Fronteira, junto ao CCPA, N 16/E 80, ligação 620 Fuentes de Õnoro, Espanha, incluindo o acesso pelo Parque TIR, via camiões, N 16, Vilar Formoso;
+
+e) Termas de Monfortinho-Castelo Branco, entroncamento da N 239 com a N 240 em Termas de Monfortinho;
+
+f) Marvão-Portalegre, linha de fronteira, Marvão, N 521 ligação de Valência de Alcântara à IC 13 Marvão;
+
+g) Caia-Elvas, saída da A 6, km 158, ligação Caia-Elvas, junto ao Posto de Turismo, Elvas;
+
+h) Vila Verde de Ficalho-Beja, junto da linha de fronteira, ligação A 495 Rosal de la Frontera ao IP 8, Serpa;
+
+i) Castro Marim-Praça da Fronteira, km 131 da A22, Ponte Internacional do Guadiana-Castro Marim.
+
+8 - Decretar, sem prejuízo do disposto no número anterior, que são pontos de passagem autorizados, na fronteira terrestre, os seguintes:
+
+a) Nos dias úteis, das 07:00 horas às 09:00 horas e das 18:00 horas às 20:00 horas, Mourão, Ponto de Fronteira de S. Leonardo, km 7, EN 256-1;
+
+b) Às quartas-feiras e aos sábados, das 10:00 horas às 12:00 horas, Rio de Onor, Ponto de Fronteira da Rua da Costa, caminho rural;
+
+c) Às segundas-feiras e às quintas-feiras, das 06:00 horas às 08:00 horas e das 17:00 horas às 19:00 horas, Tourém, Ponto de Fronteira n.º 101, EM 513;
+
+d) Às segundas-feiras e às quintas-feiras, das 06:00 horas às 08:00 horas e das 17:00 horas às 19:00 horas, Barrancos, EN 258, km 105,5, que efetua a ligação à HU-9101;
+
+e) Nos dias úteis, das 07:00 horas às 21:00 horas:
+
+i) Melgaço, Lugar do Peso, km 19,800, EN 202;
+
+ii) Monção, Avenida da Galiza, km 15,300, EN 101;
+
+iii) Miranda do Douro, km 86,990, EN 218;
+
+iv) Vila Nova de Cerveira, km 104,500, EN 13.
+
+9 - Incumbir a Guarda Nacional Republicana de efetuar a vigilância entre os postos de passagem autorizados referidos nos n.os 7 e 8.
+
+10 - Determinar que é autorizada a entrada de nacionais de Estados-Membros da União Europeia que não implementam o acervo de Schengen nos voos provenientes destes países, salvo quando, em trânsito, se desloquem para um Estado-Membro que não o da sua nacionalidade no qual não possam exercer o direito de livre circulação.
+
+11 - Estabelecer que, a fim de evitar procedimentos de recusa de entrada de cidadãos nas fronteiras internas, decorrentes da reposição do controlo de pessoas prevista na presente resolução é promovida a colaboração das autoridades portuguesas com os operadores de transportes, bem como com os demais Estados-Membros e Estados associados Schengen, com vista a evitar o embarque à partida.
+
+12 - Estipular que a presente resolução entra em vigor na data da sua aprovação.
+
+## ANEXO — (a que se refere o n.º 6)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11301/0000200006.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11301/0000200006.pdf)

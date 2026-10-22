@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:485028:por
+title: Resolução do Conselho de Ministros n.º 86/98
+short_title: null
+summary: Aprova as linhas de orientação do Governo relativas à estratégia para a orla costeira portuguesa
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 86/98
+official_date: null
+publication_date: '1998-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/1998, Série I-B de 1998-07-10
+  number: '157'
+  series: I
+  supplement: null
+  pages: 3258 - 3260
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/157b00/32583260.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/86/1998/07/10/p/dre/pt/html
+  oj: null
+  dre: '485028'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/86-1998-485028
+  internal: pt:dre:485028:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-1998-485028
+  metadata_url: https://data.dre.pt/eli/resolconsmin/86/1998/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-1998-485028
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-07-10T00:00:00Z'
+integrity:
+  source_sha256: 1e3142b9a7aee5f0bd44385505fe4f758210fd8037f65aad0726e64233475699
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-86-485028.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reserva Ecológica Nacional
+- Ordenamento do Território
+- Protecção do Litoral
+- ZONA de Intervenção
+- Gestão dos Recursos
+- Medidas Preventivas
+- Proteção do Ambiente
+- Plano de Ordenamento da Orla Costeira
+- Zona de Proteção
+- Política de Solos
+- Poluição da água
+- Poluição das Costas
+- Poluição Marinha
+- Protecção do Património
+- Recursos Naturais
+- Domínio Público Hídrico
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 86/98
+
+A forte procura e pressão que se verificam sobre o litoral português têm originado situações de desequilíbrio, determinando a artificialização da linha de costa, a degradação e destruição de sistemas naturais e o empobrecimento das paisagens.
+
+Várias medidas têm, nos últimos anos, vindo a ser tomadas no sentido de permitir o planeamento integrado dos recursos da orla costeira, definindo regras e impondo restrições à sua ocupação e utilização.
+
+Entre Caminha e Vila Real de Santo António, os planos de ordenamento da orla costeira (POOC) constituem-se como elementos desta estratégia, promovendo o ordenamento dos diferentes usos e actividades, a classificação das praias e a regulamentação do uso balnear, a valorização e qualificação das praias consideradas estratégicas por motivos ambientais e turísticos, orientando o desenvolvimento de actividades específicas da orla costeira e promovendo a defesa e conservação da natureza.
+
+Considerando que a entrada em vigor, a curto prazo, destes planos, permitindo a prossecução dos objectivos atrás enunciados, determinará, por outro lado, a existência de novos desafios e novas responsabilidades;
+
+Considerando que a protecção e valorização dos recursos naturais não deverá estar desligada da sua fruição e utilização parcimoniosa para fins económicos e existindo um conjunto de actividades cujo desenvolvimento poderá ocorrer nesses espaços, valorizando-os sem comprometer o seu potencial ecológico e paisagístico;
+
+Considerando que, associada aos elevados valores naturais e paisagísticos da orla costeira, existe uma pressão permanente no sentido da transformação do uso do solo:
+
+O Governo entende por bem adoptar uma estratégia para a orla costeira, na qual se definam as linhas de política e se clarifiquem os propósitos de intervenção neste espaço.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Aprovar as seguintes linhas de orientação que consubstanciam a estratégia do Governo para a orla costeira:
+
+1.1 - Definição clara das regras e princípios para as diferentes utilizações. A ambiguidade dos critérios de ocupação na margem das águas do mar permitiu, durante muitos anos, a ocupação privativa de terrenos públicos e a destruição de zonas de elevado valor natural. O início da inversão destas tendências surge com a aprovação dos planos regionais e municipais de ordenamento do território; nomeadamente através dos POOC, criam-se condições para a clara definição de regras de ordenamento e utilização da orla costeira. Urge, pois, garantir o cumprimento do princípio de que a utilização privativa da margem, ainda que a título precário, constitui a excepção e delimitar e manter inequivocamente as áreas dominiais do domínio hídrico sob tutela da administração central.
+
+1.2 - Promoção da localização de actividades compatíveis com a utilização sustentável de recursos neste espaço. A orla costeira é possuidora de um conjunto de recursos que, quando utilizados de forma sustentável, poderão ser fonte de criação de riqueza e de empregos. Deverá promover-se o estudo da possibilidade de instalação de unidades produtivas de energias alternativas e a definição de espaços para a realização de experiências piloto no domínio da aquicultura, bem como o desenvolvimento de actividades agrícolas valorizadoras da paisagem e de actividades de turismo enquadradas nos valores naturais existentes.
+
+1.3 - Salvaguarda eficaz de pessoas e bens. A definição de uma «carta de risco», o recuo planeado das ocupações em risco e a criação de estruturas de prevenção e planos de intervenção em casos de emergência deverão constituir-se como prioridades e princípios basilares de actuação no sentido da salvaguarda de pessoas e bens em zonas ameaçadas pelo mar.
+
+1.4 - Gestão integrada e coordenada da orla costeira. A diversidade de organismos com competências na orla costeira e a existência de interesses conflituantes recomendam a criação de um órgão com funções de articulação entre os organismos envolvidos.
+
+1.5 - Protecção dos valores naturais e patrimoniais. Revela-se uma tarefa prioritária a conclusão da identificação das áreas sensíveis e a tipificação dos mecanismos de salvaguarda em caso de acidentes, nomeadamente resultantes do derrame de substâncias poluentes em alto mar, bem como a coordenação de intervenções e a hierarquização dos investimentos. Deverá promover-se a criação de reservas marinhas e continuar as acções de recuperação de sistemas dunares e outras áreas sensíveis, bem como de redução de resíduos e o combate à poluição provocada por efluentes não tratados ou por derrames.
+
+1.6 - Combate aos factores antrópicos que alteram a configuração da linha de costa. A requalificação de áreas degradadas em resultado de ocupações abusivas e utilizações desregradas da orla costeira depende, entre outros aspectos, da recuperação de sistemas dunares e da relocalização de usos e actividades existentes, considerados incompatíveis com a sensibilidade ecológica ou a fragilidade dos sistemas costeiros. Revela-se indispensável impedir a construção em zonas de risco e não tomar decisões de carácter irreversível, insuficientemente fundamentadas do ponto de vista técnico e científico.
+
+1.7 - Aprofundamento e divulgação do conhecimento de base técnico-científico. Para além do aproveitamento e integração dos conhecimentos de base científica existentes sobre esta temática, importa promover o desenvolvimento de um modelo informatizado de gestão costeira, o controlo sistemático das situações de risco inventariadas, a promoção de projectos conjuntos com instituições de investigação para os estudos de hidrodinâmica costeira e a cobertura aerofotogramétrica e levantamentos sistemáticos da costa.
+
+1.8 - Clarificação da estrutura jurídico-administrativa. A clarificação desta estrutura passa pela sistematização da legislação existente. Neste domínio revelam-se ainda prioritárias: a redefinição das áreas sob jurisdição portuária; a promoção de acções de formação e reforço do pessoal qualificado; a definição de unidades orgânicas específicas de gestão costeira nos Institutos da Água e da Conservação da Natureza e nas direcções regionais do ambiente.
+
+2 - Atribuir um carácter prioritário de actuação aos seguintes domínios:
+
+2.1 - Observação contínua dos fenómenos de evolução da orla costeira e consequente delimitação do domínio público hídrico e das zonas de risco, através das seguintes medidas: criação de uma base de dados referenciada a sistemas de informação geográfica; estudo sistemático em particular dos trânsitos sedimentares; inventariação e demarcação rigorosa das áreas pertencentes ao domínio público hídrico bem como das áreas de risco; aplicação da figura de «zona adjacente», tendo por base as áreas com risco de inundação.
+
+2.2 - Intervenção de forma articulada na qualificação deste espaço, em consonância com as propostas dos POOC e tendo presente as tipologias territoriais existentes:
+
+2.2.1 - Centralidades - qualificar os espaços responsáveis pela atracção de pessoas e actividades, respeitando os valores biofísicos em presença, através das seguintes medidas: assumpção inequívoca da necessidade de defesa da orla costeira; defesa intransigente dos areais, impedindo a sua ocupação por estruturas fixas; criação de zonas de transição entre o espaço urbano e a praia, mantendo o seu uso público, o relevo e a flora locais; canalização para estes espaços dos principais investimentos turísticos; concentração dos investimentos imobiliários, impedindo o crescimento urbano paralelo à linha de costa.
+
+2.2.2 - Naturalidades - preservar os espaços com valores ecológicos e paisagísticos importantes, particularmente nas áreas protegidas, impedindo intrusões e condicionando os usos, através das seguintes medidas: utilização da figura de Reserva Ecológica Nacional na salvaguarda dos ecossistemas naturais; revitalização de estuários e lagunas costeiras; recuperação de zonas húmidas; valorização e requalificação das zonas ribeirinhas; recuperação de sistemas dunares degradados; acções de demolição e adaptação das construções indevidas.
+
+2.2.3 - Periferias - compatibilizar os usos existentes com os valores biofísicos em presença, confinando o seu crescimento numa procura de equilíbrios entre a utilização antrópica destes espaços e a manutenção e valorização dos recursos naturais, através das seguintes medidas: elaboração de planos de intervenção e colaboração com os municípios na feitura de planos de pormenor; utilização das figuras de medidas preventivas para zonas em expansão e expectantes em que se não possua o cabal conhecimento das consequências ambientais da transformação do solo; análise custo/benefício de intervenções preconizadas e dos compromissos assumidos; avaliação de exequibilidade e validade de projectos já executados para minorar os problemas detectados.
+
+2.3 - Tipificação da estrutura de gestão da costa, através das seguintes medidas: definição de unidades orgânicas específicas de gestão nos Institutos da Água e da Conservação da Natureza e direcções regionais do ambiente; criação de estruturas de fiscalização em articulação com as autoridades marítimas; aposta em soluções de parceria para a concretização de projectos de grande envergadura; garantia de meios humanos e financeiros para fazer cumprir de forma efectiva as determinações da própria Administração; criação da figura de associações de utilizadores para, em concessão, prestarem determinados serviços.
+
+2.4 - Combate aos factores de poluição e melhoria dos índices de qualidade ambiental, através das seguintes medidas: impedimento eficaz da localização de sucatas e lixeiras; controlo da deposição em meio aquático de sedimentos e outros produtos contaminados; desenvolvimento de soluções de saneamento básico adequadas à sensibilidade dos meios receptores, por forma a melhorar a qualidade das águas balneares; definição de um galardão alternativo destinado às praias com elevada qualidade ambiental e grau de naturalização - Praias Douradas; controlo da qualidade da água, em particular nos emissários submarinos.
+
+Presidência do Conselho de Ministros, 26 de Fevereiro de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

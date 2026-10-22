@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:472497:por
+title: Decreto-Lei n.º 247/80
+short_title: null
+summary: Estabelece normas relativas ao regime de previdência do pessoal da Misericórdia de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais
+proposing_entity: null
+official_number: 247/80
+official_date: null
+publication_date: '1980-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1980, Série I de 1980-07-24
+  number: '169'
+  series: I
+  supplement: null
+  pages: 1840 - 1841
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16900/18401841.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '472497'
+  dre_path: /dr/detalhe/decreto-lei/247-1980-472497
+  internal: pt:dre:472497:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1980-472497
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1980-472497
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-07-24T00:00:00Z'
+integrity:
+  source_sha256: 743956c7ed0f6c64bb327c17d1755445621298ba9514ae3d43c56c20a476ec9a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-247-472497.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 247/80
+
+de 24 de Julho
+
+Na sequência de diversas reestruturações de serviços do Ministério dos Assuntos Sociais, com a consequente clarificação do estatuto do respectivo pessoal, muitos dos beneficiários da Caixa de Previdência dos Empregados da Assistência, quer individualmente, quer em grupo, têm transitado para a Caixa Geral de Aposentações.
+
+O [Decreto-Lei n.º 42210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42210-1959-585976), de 13 de Abril de 1959, sujeitou ao regime geral dos funcionários públicos o pessoal dos serviços oficiais do então Ministério da Saúde e Assistência. Em consequência, pelo [Decreto-Lei n.º 46307](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46307-1965-236716), de 27 de Abril de 1965, ficou o mesmo pessoal com direito à inscrição na Caixa Geral de Aposentações, sendo-lhe contado nesta Caixa o tempo de serviço prestado nos organismos oficiais abrangidos.
+
+O artigo 7.º do citado [Decreto-Lei n.º 46307](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46307-1965-236716) estabeleceu expressamente que a Caixa de Previdência e Abono de Família dos Empregados da Assistência ficava a abranger os empregados das pessoas colectivas de utilidade pública administrativa com fins de saúde e assistência, incluindo a Santa Casa da Misericórdia de Lisboa, apesar de, neste caso, o respectivo pessoal estar sujeito em tudo o mais ao estatuto da função pública.
+
+O Estatuto Hospitalar, promulgado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, ao instituir as carreiras hospitalares, deparou com a dificuldade resultante da dualidade de estatutos do respectivo pessoal, dado que a organização hospitalar abrangia então hospitais do Estado e hospitais pertencentes a Misericórdias e outras pessoas colectivas de utilidade pública. O [Decreto-Lei n.º 301/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1979-378964), de 18 de Agosto, veio determinar a inscrição do pessoal das carreiras hospitalares na Caixa Geral de Aposentações, concedendo aos que já eram beneficiários da Caixa de Previdência dos Empregados da Assistência a faculdade de opção.
+
+A partir daí mais se agravou a situação de manifesta desigualdade para efeitos de aposentação entre funcionários da Santa Casa da Misericórdia de Lisboa, sujeitos a uma inexplicável diferença de regimes, quer em relação ao funcionalismo público em geral, quer em relação ao pessoal do mesmo organismo pertencente às carreiras hospitalares.
+
+Torna-se assim urgente pôr termo a uma situação de injustiça criadora de graves problemas de ordem social e, correspondendo a uma pretensão que vem de longe, promover a integração do pessoal da Santa Casa da Misericórdia de Lisboa na Caixa Geral de Aposentações.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O pessoal da Santa Casa da Misericórdia de Lisboa admitido após a entrada em vigor deste diploma será inscrito na Caixa Geral de Aposentações, no Montepio dos Servidores do Estado e na Assistência na Doença aos Servidores Civis do Estado, nos termos da legislação que a estes organismos se refere.
+
+###### Art. 2.º - 1 - O pessoal da Santa Casa da Misericórdia de Lisboa que à data da entrada em vigor do presente diploma esteja inscrito na Caixa de Previdência dos Empregados da Assistência poderá optar pela manutenção do regime em que se encontra, através de requerimento dirigido à Caixa de Previdência, no prazo de trinta dias, a partir daquela data.
+
+2 - A falta do requerimento referido no número anterior será entendida como opção pela mudança de regime, passando o pessoal da Santa Casa da Misericórdia a ficar abrangido pelos estatutos da aposentação, da pensão de sobrevivência e da protecção na doença em vigor na função pública, sendo-lhe contado para o efeito todo o tempo de serviço prestado com descontos obrigatórios para a Previdência.
+
+###### Art. 3.º Ao pessoal que tenha estado vinculado à Santa Casa da Misericórdia de Lisboa, descontando para a Caixa de Previdência dos Empregados da Assistência, e que, entretanto, por ter transitado para outros serviços oficiais, passou a ser subscritor da Caixa Geral de Aposentações será igualmente contado para efeitos do cálculo da pensão de aposentação todo o tempo de serviço anteriormente prestado com descontos obrigatórios para a Previdência, nos termos do artigo anterior.
+
+###### Art. 4.º As pensões de aposentação e sobrevivência relativas ao pessoal abrangido pelo n.º 2 do artigo 2.º e pelo artigo 3.º serão calculadas e abonadas integralmente aos pensionistas pela Caixa Geral de Aposentações e Montepio dos Servidores do Estado.
+
+###### Art. 5.º Para efeitos do n.º 2 do artigo 2.º e do artigo 3.º, a Caixa Geral de Aposentações receberá da Caixa Nacional de Pensões e da Santa Casa da Misericórdia de Lisboa a quota-parte da pensão da responsabilidade de cada um desses organismos, aplicando-se o regime estabelecido no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio.
+
+###### Art. 6.º - 1 - Ao pessoal da Santa Casa da Misericórdia de Lisboa que se encontra actualmente em situação de reforma pela Caixa de Previdência dos Empregados da Assistência poderá ser abonada uma pensão complementar, em termos a fixar entre esta Caixa e a Santa Casa da Misericórdia de Lisboa, responsável pelos encargos daí decorrentes como entidade patronal.
+
+2 - O complemento a que se refere o número anterior não poderá exceder o montante que resultaria se ao pessoal aposentado fosse aplicada a fórmula de cálculo estabelecida no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+
+###### Art. 7.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública.
+
+Francisco Sá Carneiro.
+
+**Promulgado em 16 de Julho de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

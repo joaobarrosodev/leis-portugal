@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:619708:por
+title: Portaria n.º 518/89
+short_title: null
+summary: Altera o quadro de pessoal da Secretaria-Geral do Ministério do Emprego e da Segurança Social
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 518/89
+official_date: null
+publication_date: '1989-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/1989, Série I de 1989-07-07
+  number: '154'
+  series: I
+  supplement: null
+  pages: 2720 - 2720
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15400/27202720.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '619708'
+  dre_path: /dr/detalhe/portaria/518-1989-619708
+  internal: pt:dre:619708:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-1989-619708
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-1989-619708
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-07-07T00:00:00Z'
+integrity:
+  source_sha256: a7e975a09d906ac1be6eb504329118a9327810cecaea8e2e15892113d5a2044b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-518-619708.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 518/89
+
+de 7 de Julho
+
+Pela [Portaria n.º 117/88](https://diariodarepublica.pt/dr/detalhe/portaria/117-1988-283119), de 17 de Fevereiro, foi o quadro de pessoal da Secretaria-Geral do Ministério do Emprego e da Segurança Social alargado do número de lugares necessários à integração dos funcionários do extinto Gabinete de Gestão do Fundo de Desemprego, nos termos previstos no artigo 8.º, n.º 2, do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março.
+
+Considerando:
+
+Que as categorias de telefonista principal e de encarregado de pessoal auxiliar não se apresentam com as novas letras de vencimento atribuídas pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho;
+
+Que a carreira de contínuo foi extinta pelo artigo 27.º do mesmo diploma, tendo sido criada em sua substituição a carreira de auxiliar administrativo:
+
+Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Social, ao abrigo do disposto no artigo 8.º do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março, conjugado com a alínea d) do n.º 4 do artigo 46.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, que o quadro de pessoal da Secretaria-Geral do Ministério do Emprego e da Segurança Social, aprovado pela [Portaria n.º 117/88](https://diariodarepublica.pt/dr/detalhe/portaria/117-1988-283119), de 17 de Fevereiro, seja rectificado em conformidade com o quadro anexo.
+
+Ministérios das Finanças e do Emprego e da Segurança Social.
+
+**Assinada em 22 de Junho de 1989.**
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, Jorge Hernâni de Almeida Seabra, Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social.
+
+QUADRO ANEXO
+
+Secretaria-Geral
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15400/27202720.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15400/27202720.pdf)

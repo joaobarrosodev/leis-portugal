@@ -1,0 +1,232 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:422832:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1973-34493075",
+ "dre_path": "/dr/detalhe/lei/4-1973-422832",
+ "source_lastmod": "2025-04-21",
+ "versions": [
+  {
+   "date": "1973-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47822275",
+    "47822375",
+    "47822475",
+    "47822575",
+    "47822675",
+    "47822775",
+    "47822875"
+   ]
+  },
+  {
+   "date": "1981-06-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:579117:por",
+     "title": "Decreto-Lei n.º 157/81",
+     "published": "1981-06-11",
+     "dre_path": "/dr/detalhe/decreto-lei/157-1981-579117"
+    }
+   ],
+   "changes": [
+    "Altera Base VI"
+   ],
+   "fragments": [
+    "47822275",
+    "47822375",
+    "47822475",
+    "47822575",
+    "47822675",
+    "47822775",
+    "915500458",
+    "47823075"
+   ]
+  },
+  {
+   "date": "1988-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:519003:por",
+     "title": "Decreto-Lei n.º 442-B/88",
+     "published": "1988-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/442-b-1988-519003"
+    }
+   ],
+   "changes": [
+    "Altera Base VI"
+   ],
+   "fragments": [
+    "47822275",
+    "47822375",
+    "47822475",
+    "47822575",
+    "47822675",
+    "47822775",
+    "915500459",
+    "47823075"
+   ]
+  },
+  {
+   "date": "2000-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:411872:por",
+     "title": "Decreto-Lei n.º 36/2000",
+     "published": "2000-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2000-411872"
+    }
+   ],
+   "changes": [
+    "Altera Base III"
+   ],
+   "fragments": [
+    "47822275",
+    "47822375",
+    "47822475",
+    "915485524",
+    "47822675",
+    "47822775",
+    "915500459",
+    "47823075"
+   ]
+  },
+  {
+   "date": "2006-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:620286:por",
+     "title": "Decreto-Lei n.º 76-A/2006",
+     "published": "2006-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/76-a-2006-620286"
+    }
+   ],
+   "changes": [
+    "Altera Base III"
+   ],
+   "fragments": [
+    "47822275",
+    "47822375",
+    "47822475",
+    "915485557",
+    "47822675",
+    "47822775",
+    "915500459",
+    "47823075"
+   ]
+  }
+ ],
+ "fragments": {
+  "47822275": {
+   "fragment_id": "35112875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em nome da Nação, a Assembleia Nacional decreta e eu promulgo a lei seguinte:"
+  },
+  "47822375": {
+   "fragment_id": "35655375",
+   "type": 2,
+   "heading": "Base I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I\n\n1. As pessoas singulares ou colectivas e as sociedades podem agrupar-se, sem prejuízo da sua personalidade jurídica, a fim de melhorar as condições de exercício ou de resultado das suas actividades económicas.\n\n2. As entidades assim constituídas são designadas por «agrupamentos complementares de empresas»."
+  },
+  "47822475": {
+   "fragment_id": "35655475",
+   "type": 2,
+   "heading": "Base II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II\n\n1. Os agrupamentos complementares de empresas não podem ter por fim principal a realização e partilha de lucros e constituir-se-ão com ou sem capital próprio.\n\n2. As empresas agrupadas respondem solidariamente pelas dívidas do agrupamento, salvo cláusula em contrário do contrato celebrado por este com um credor determinado.\n\n3. Os credores do agrupamento não podem exigir das empresas agrupadas o pagamento dos seus créditos sem prévia excussão dos bens do próprio agrupamento.\n\n4. O agrupamento pode emitir obrigações, se apenas for composto de sociedades por acções; a emissão é feita nas condições gerais aplicáveis à emissão desses títulos pelas sociedades."
+  },
+  "47822575": {
+   "fragment_id": "35655575",
+   "type": 2,
+   "heading": "Base III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III\n\n1. O contrato constitutivo será reduzido a escritura pública e determinará a firma, o objecto, a sede e a duração, quando limitada, do agrupamento, bem como as contribuições dos agrupados para os encargos e a constituição do capital, se o houver. A firma deve conter o aditamento «agrupamento complementar de empresas» ou as iniciais «A. C. E.».\n\n2. O contrato pode também regular os direitos e as obrigações dos agrupados, a administração, a fiscalização, a prorrogação, a dissolução e a liquidação e partilha do agrupamento e ainda os poderes, os deveres, a remuneração e a destituição dos administradores, bem como a entrada e saída de elementos do agrupamento, cumpridas as suas obrigações sociais.\n\n3. Qualquer dos administradores, agindo nessa qualidade, obriga o agrupamento em relação a terceiros; são inoponíveis a terceiros de boa fé as limitações estabelecidas ao poder de representação dos administradores."
+  },
+  "47822675": {
+   "fragment_id": "35655675",
+   "type": 2,
+   "heading": "Base IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV\n\nO agrupamento adquire personalidade jurídica com a inscrição do seu acto constitutivo no registo comercial."
+  },
+  "47822775": {
+   "fragment_id": "35655775",
+   "type": 2,
+   "heading": "Base V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V\n\nA fiscalização da gestão por um ou mais revisores oficiais de contas, ou por uma sociedade de revisores oficiais de contas, designados pela assembleia geral, é obrigatória desde que o agrupamento emita obrigações."
+  },
+  "47822875": {
+   "fragment_id": "35655875",
+   "type": 2,
+   "heading": "Base VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI\n\n1. Os agrupamentos complementares de empresas que se constituam e funcionem nos termos desta lei não estão sujeitos a contribuição industrial, nem a impostos, licenças ou taxas para as autarquias locais que tenham aquela contribuição por base de lançamento.\n\n2. Às importâncias com que cada empresa agrupada tenha contribuído para a instalação e funcionamento do agrupamento é dispensado tratamento tributário igual ao dos gastos directamente despendidos por essa empresa com os objectivos indicados na base I, consoante a aplicação que tiverem.\n\n3. É tributada em imposto de capitais, como lucro, mas pelo triplo da taxa normalmente aplicável, a parte do saldo de liquidação atribuída a cada empresa agrupada que exceda as contribuições por ela efectuadas para o agrupamento.\n\n4. O Governo providenciará no sentido da concessão de estímulos financeiros e de outros benefícios, nomeadamente de natureza fiscal, a favor dos agrupamentos que tenham, pelo seu objectivo, interesse para a economia nacional."
+  },
+  "915500458": {
+   "fragment_id": "35655875",
+   "type": 2,
+   "heading": "Base VI",
+   "in_force_from": "1981-06-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 157/81 - Diário da República n.º 133/1981, Série I de 1981-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1981-579117), em vigor a partir de 1981-06-16"
+   ],
+   "markdown": "###### Base VI\n\n1. Os agrupamentos complementares de empresas que se constituam e funcionem nos termos desta lei não estão sujeitos a contribuição industrial, nem a impostos, licenças ou taxas para as autarquias locais que tenham aquela contribuição por base de lançamento.\n\n2. Às importâncias com que cada empresa agrupada tenha contribuído para a instalação e funcionamento do agrupamento é dispensado tratamento tributário igual ao dos gastos directamente despendidos por essa empresa com os objectivos indicados na base I, consoante a aplicação que tiverem.\n\n3. É tributada em imposto de capitais, como lucro, mas por taxas idênticas às da contribuição industrial que seriam aplicáveis a lucro de igual quantitativo, a parte do saldo de liquidação atribuída a cada empresa agrupada que exceda as contribuições por ela efectuadas para o agrupamento.\n\n4. O Governo providenciará no sentido da concessão de estímulos financeiros e de outros benefícios, nomeadamente de natureza fiscal, a favor dos agrupamentos que tenham, pelo seu objectivo, interesse para a economia nacional.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 157/81 - Diário da República n.º 133/1981, Série I de 1981-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1981-579117), em vigor a partir de 1981-06-16"
+  },
+  "47823075": {
+   "fragment_id": "35655975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Carlos Monteiro do Amaral Netto.\n\nPromulgada em 17 de Maio de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMarcello Caetano."
+  },
+  "915500459": {
+   "fragment_id": "35655875",
+   "type": 2,
+   "heading": "Base VI",
+   "in_force_from": "1988-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 442-B/88 - Diário da República n.º 277/1988, 2º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), em vigor a partir de 1988-12-05",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 157/81 - Diário da República n.º 133/1981, Série I de 1981-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1981-579117), em vigor a partir de 1981-06-16"
+   ],
+   "markdown": "###### Base VI\n\n1. (Revogado).\n\n2. (Revogado).\n\n3. (Revogado).\n\n4. O Governo providenciará no sentido da concessão de estímulos financeiros e de outros benefícios, nomeadamente de natureza fiscal, a favor dos agrupamentos que tenham, pelo seu objectivo, interesse para a economia nacional.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 442-B/88 - Diário da República n.º 277/1988, 2º Suplemento, Série I de 1988-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), em vigor a partir de 1988-12-05\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 157/81 - Diário da República n.º 133/1981, Série I de 1981-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1981-579117), em vigor a partir de 1981-06-16"
+  },
+  "915485524": {
+   "fragment_id": "35655575",
+   "type": 2,
+   "heading": "Base III",
+   "in_force_from": "2000-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01"
+   ],
+   "markdown": "###### Base III\n\n1 - O contrato constitutivo será reduzido a escritura pública e determinará a firma, o objecto, a sede e a duração, quando limitada, do agrupamento, bem como as contribuições dos agrupados para os encargos e a constituição do capital, se o houver. A firma deve conter o aditamento «agrupamento complementar de empresas» ou as iniciais «A. C. E.».\n\n2 - O contrato constitutivo pode revestir a forma de documento particular se o agrupamento complementar for constituído sem capital próprio ou, no caso de ser constituído com este, se não forem efectuadas entradas em bens diferentes de dinheiro para cuja transmissão seja necessária escritura pública.\n\n3 - O contrato pode também regular os direitos e as obrigações dos agrupados, a administração, a fiscalização, a prorrogação, a dissolução e a liquidação e partilha do agrupamento e ainda os poderes, os deveres, a remuneração e a destituição dos administradores, bem como a entrada e saída de elementos do agrupamento, cumpridas as suas obrigações sociais.\n\n4 - Qualquer dos administradores, agindo nessa qualidade, obriga o agrupamento em relação a terceiros; são inoponíveis a terceiros de boa fé as limitações estabelecidas ao poder de representação dos administradores.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01"
+  },
+  "915485557": {
+   "fragment_id": "35655575",
+   "type": 2,
+   "heading": "Base III",
+   "in_force_from": "2006-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01"
+   ],
+   "markdown": "###### Base III\n\n1 - O contrato constitutivo deve ser reduzido a escrito, salvo se forma mais solene for exigida para a transmissão dos bens com que os sócios entram para o agrupamento.\n\n2 - O contrato constitutivo determina a firma, o objecto, a sede e a duração, quando limitada, do agrupamento, bem como as contribuições dos agrupados para os encargos e a constituição do capital, se o houver, devendo a firma conter o aditamento 'agrupamento complementar de empresas' ou as iniciais 'A. C. E.'.\n\n3 - O contrato pode também regular os direitos e as obrigações dos agrupados, a administração, a fiscalização, a prorrogação, a dissolução e a liquidação e partilha do agrupamento e ainda os poderes, os deveres, a remuneração e a destituição dos administradores, bem como a entrada e saída de elementos do agrupamento, cumpridas as suas obrigações sociais.\n\n4 - Qualquer dos administradores, agindo nessa qualidade, obriga o agrupamento em relação a terceiros; são inoponíveis a terceiros de boa fé as limitações estabelecidas ao poder de representação dos administradores.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01"
+  }
+ }
+}

@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:666336:por
+title: Decreto-Lei n.º 170/87
+short_title: null
+summary: Estabelece uma taxa de exame para concessão e manutenção da carta de caçador, prevista na Portaria n.º 499/85, de
+  23 de Julho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 170/87
+official_date: null
+publication_date: '1987-04-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90/1987, Série I de 1987-04-18
+  number: '90'
+  series: I
+  supplement: null
+  pages: 1567 - 1568
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09000/15671568.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666336'
+  dre_path: /dr/detalhe/decreto-lei/170-1987-666336
+  internal: pt:dre:666336:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1987-666336
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1987-666336
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: e6360565cbaa05a2fc89b6590c75001d3fc39abd6b54d6339ec3fd577b97c096
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-170-666336.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 170/87
+
+de 18 de Abril
+
+Considerando que a implementação dos exames previstos na [Portaria n.º 499/85](https://diariodarepublica.pt/dr/detalhe/portaria/499-1985-183234), de 23 de Julho, acarreta um significativo aumento de despesas relativas ao processo de concessão e manutenção da carta de caçador, justificando-se que sejam os requerentes a suportar esses custos, o que agora se pretende com a criação da taxa de exame;
+
+Considerando que importa compensar os municípios que tenham intervenção nos processos pelos serviços prestados, atribuindo-lhes uma comparticipação na referida taxa de exame;
+
+Considerando que sobre o assunto foi ouvida a Associação Nacional dos Municípios Portugueses:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O exame para concessão e manutenção da carta de caçador, a que se refere a [Portaria n.º 499/85](https://diariodarepublica.pt/dr/detalhe/portaria/499-1985-183234), de 23 de Julho, está sujeito ao pagamento de uma taxa a fixar anualmente por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+###### Art. 2.º A taxa referida no artigo anterior é devida sempre que seja requerido o exame e será paga na data de entrada do respectivo requerimento.
+
+###### Art. 3.º A taxa a que se refere o artigo 12.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, será paga após a aprovação no exame e cobrada directamente pela Direcção-Geral das Florestas.
+
+###### Art. 4.º - 1 - As receitas provenientes da taxa criada por este diploma terão o destino previsto no artigo 9.º do [Decreto-Lei n.º 270/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1985-183441), de 16 de Julho, salvo o disposto no número seguinte.
+
+2 - Da importância da taxa de exame é atribuída uma percentagem de 25% ao município onde der entrada o respectivo requerimento.
+
+3 - É eliminado da tabela anexa ao [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, o emolumento relativo à concessão da carta de caçador, previsto no artigo 178.º do mesmo diploma.
+
+###### Art. 5.º - 1 - Aos indivíduos que tenham requerido a concessão de carta de caçador antes da entrada em vigor do presente diploma e tenham sido reprovados no respectivo exame não será devolvida a importância que pagaram referente à taxa prevista no artigo 12.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, se optarem por requerer novamente a concessão de carta de caçador, ficando, neste caso, dispensados do pagamento da taxa de exame a que se refere o artigo 1.º, cujo valor será compensado com a importância antes referida.
+
+2 - O disposto no número anterior só é aplicável na primeira renovação do pedido de concessão de carta de caçador, que deverá ser feito durante o ano subsequente à data da reprovação.
+
+###### Art. 6.º Este decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+###### Art. 7.º O disposto no presente diploma não aplica às Regiões Autónomas da Madeira e dos Açores.
+
+Visto e aprovado em Conselho de Ministros do 19 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
+
+**Promulgado em 7 de Abril de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 8 de Abril de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

@@ -1,0 +1,338 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:197685:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-108025332",
+ "dre_path": "/dr/detalhe/decreto-lei/36-1995-197685",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-02-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180035295",
+    "108025403",
+    "108025404",
+    "108025405",
+    "108025406",
+    "108025407",
+    "108025408",
+    "108025409",
+    "108025411",
+    "108025412"
+   ]
+  },
+  {
+   "date": "2017-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108021179:por",
+     "title": "Lei n.º 84/2017",
+     "published": "2017-08-18",
+     "dre_path": "/dr/detalhe/lei/84-2017-108021179"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108025402",
+    "108025403",
+    "108025415",
+    "108025416",
+    "108025417",
+    "108025407",
+    "108025408",
+    "108025409",
+    "108025410",
+    "108025418",
+    "108025419"
+   ]
+  },
+  {
+   "date": "2019-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117202785:por",
+     "title": "Decreto-Lei n.º 108/2018",
+     "published": "2018-12-03",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2018-117202785"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180035295",
+    "180035296",
+    "180035297",
+    "180035298",
+    "180035299",
+    "180035300",
+    "180035301",
+    "180035302",
+    "180035303",
+    "180035304",
+    "180035305"
+   ]
+  }
+ ],
+ "fragments": {
+  "180035295": {
+   "fragment_id": "108025333",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-04-02",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 36/95\n\nde 14 de Fevereiro\n\nO Decreto Regulamentar n.º 9/90, de 19 de Abril, que se destina a dar execução ao Decreto-Lei n.º 348/89, de 12 de Outubro, estabelece as normas de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes, transpondo para o direito interno as Directivas n.os <a href=\"eurlex.asp?ano=1980&id=380L0836\" title=\"Link para Directiva da Comunidade Europeia\">80/836/EURATOM</a>, <a href=\"eurlex.asp?ano=1984&id=384L0467\" title=\"Link para Directiva da Comunidade Europeia\">84/467/EURATOM</a> e <a href=\"eurlex.asp?ano=1984&id=384L0466\" title=\"Link para Directiva da Comunidade Europeia\">84/466/EURATOM</a>, do Conselho, de 15 de Julho, 3 de Setembro e 3 de Setembro, respectivamente.\n\nFace à conveniência em estabelecer princípios comuns e disposições específicas em matéria de informação dos grupos populacionais susceptíveis de serem afectados por emergências radiológicas, nomeadamente as medidas sanitárias previstas e o comportamento a adoptar, o Conselho da Comunidade Europeia aprovou a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0618\" title=\"Link para Directiva da Comunidade Europeia\">89/618/EURATOM</a>, de 27 de Novembro (NUMDOC. 389L 618), publicada no Jornal Oficial das Comunidades Europeias, série L, n.º 357, de 7 de Dezembro de 1989, que agora se transpõe para o direito interno.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o Governo decreta o seguinte:"
+  },
+  "108025403": {
+   "fragment_id": "108025334",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0618\" title=\"Link para Directiva da Comunidade Europeia\">89/618/EURATOM</a>, do Conselho, de 27 de Novembro, relativa à informação da população sobre as medidas de protecção sanitária aplicáveis e sobre o comportamento a adoptar em caso de emergência radiológica."
+  },
+  "108025404": {
+   "fragment_id": "108025335",
+   "type": 11,
+   "heading": "Artigo 2.º — Informação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Informação prévia\n\n1 - A informação prévia deverá assegurar à população susceptível de ser afectada em caso de emergência radiológica o conhecimento das medidas de protecção apropriadas, nomeadamente de ordem sanitária, que lhe serão aplicáveis e das normas de comportamento a adoptar em caso de emergência, radiológica.\n\n2 - A informação à prestar contemplará, pelo menos, os aspectos enumerados no anexo I ao presente diploma, que dele faz parte integrante, bem como o endereço das entidades junto das quais o público poderá obter informações adicionais.\n\n3 - A informação, que deve encontrar-se permanentemente à disposição do público, será fornecida à população mencionada no n.º 1, sem que esta tenha de a solicitar, devendo ser actualizada e comunicada trienalmente e sempre que forem introduzidas alterações significativas nas medidas descritas."
+  },
+  "108025405": {
+   "fragment_id": "108025336",
+   "type": 11,
+   "heading": "Artigo 3.º — Informação em caso de emergência radiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Informação em caso de emergência radiológica\n\n1 - Quando se produza uma situação de emergência radiológica, a população realmente afectada será de imediato informada dos factos relativos à situação de emergência, do comportamento a adoptar e, em função da situação em questão, das medidas de protecção aplicáveis, nomeadamente as sanitárias.\n\n2 - A informação divulgada incidirá, de acordo com a situação de emergência radiológica, sobre os pontos pertinentes descritos no anexo II ao presente diploma, que dele faz parte integrante."
+  },
+  "108025406": {
+   "fragment_id": "108025337",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação das pessoas susceptíveis de intervir na organização dos socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informação das pessoas susceptíveis de intervir na organização dos socorros\n\n1 - As pessoas que embora não façam parte do pessoal das instalações e ou não participem nas actividades susceptíveis de libertação significativa de materiais radioactivos, nos termos definidos na Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0618\" title=\"Link para Directiva da Comunidade Europeia\">89/618/EURATOM</a>, do Conselho, de 27 de Novembro, mas sejam susceptíveis de intervir na organização dos socorros em caso de emergência radiológica, devem receber com regularidade, informação adequada e actualizada sobre os riscos que a sua intervenção envolve para a sua saúde e sobre as medidas de precaução a adoptar, tendo em conta as diversas situações de emergência radiológica susceptíveis de ocorrer.\n\n2 - A informação a prestar nos termos do número anterior será complementada por informação adequada em caso de emergência, em conformidade com a respectiva evolução."
+  },
+  "108025407": {
+   "fragment_id": "108025338",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de aplicação\n\n1 - Os planos de emergência das instalações ou actividades susceptíveis de libertação significativa de materiais radioactivos, nos termos definidos na Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0618\" title=\"Link para Directiva da Comunidade Europeia\">89/618/EURATOM</a>, do Conselho, de 27 de Novembro, desde que desenvolvidas em território nacional, deverão definir os processos a utilizar para informação nos termos dos artigos 2.º, 3.º e 4.º, bem como identificar os seus destinatários.\n\n2 - Os serviços municipais, delegações distritais, serviços regionais e serviço nacional de protecção civil, coadjuvados pela Direcção-Geral da Saúde, assegurarão as acções de informação da população susceptível de ser afectada em caso de emergência radiológica, de acordo com as directivas emanadas do Conselho para acidentes nucleares e emergências radiológicas.\n\n3 - Às entidades responsáveis pelas instalações e actividades citadas no n.º 1 está especialmente cometido o dever de colaboração com as autoridades mencionadas no número anterior e no fornecimento e divulgação dos elementos indispensáveis a uma correcta informação do público.\n\n4 - As informações referidas nos artigos 2.º, 3.º e 4.º incluirão a indicação das autoridades encarregadas de aplicar as medidas referidas nesses artigos.\n\n5 - Sobre a informação a prestar nos termos do artigo 2.º e do n.º 1 do artigo 4.º deverá ser ouvida a Comissão Nacional de Protecção contra Radiações."
+  },
+  "108025408": {
+   "fragment_id": "108025339",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação à Comissão da Comunidade Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação à Comissão da Comunidade Europeia\n\n1 - A informação prevista no artigo 3.º será comunicada à Comissão da Comunidade Europeia, sem prejuízo da faculdade da sua comunicação aos Estados membros da Comunidade Europeia.\n\n2 - A informação a divulgar por força do disposto no artigo 4.º deverá também ser comunicada à Comissão da Comunidade Europeia, bem como aos Estados membros afectados ou susceptíveis de o serem.\n\n3 - A informação referida no artigo 5.º será comunicada à Comissão da Comunidade Europeia, se esta o solicitar."
+  },
+  "108025409": {
+   "fragment_id": "108025340",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "108025411": {
+   "fragment_id": "108025342",
+   "type": 14,
+   "heading": "Anexo I — Informação prévia referida no artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Informação prévia referida no artigo 2.º\n\n1 - Noções básicas sobre a radioactividade e os seus efeitos sobre o ser humano e sobre o ambiente.\n\n2 - Os diferentes casos de emergência radiológica considerados e respectivas consequências para a população e o ambiente.\n\n3 - Medidas de emergência previstas para alertar, proteger e socorrer a população em caso de emergência radiológica.\n\n4 - Informações adequadas relativas ao comportamento que a população deverá adoptar em caso de emergência radiológica."
+  },
+  "108025412": {
+   "fragment_id": "108025343",
+   "type": 14,
+   "heading": "Anexo II — Informação em caso de emergência radiológica referida no artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Informação em caso de emergência radiológica referida no artigo 3.º\n\n1 - De acordo com os planos de intervenção previamente estabelecidos a população realmente afectada em caso de emergência radiológica receberá de forma rápida e contínua:\n\na) Informações sobre o caso de emergência ocorrido e, na medida do possível, sobre as suas características (tais como origem, extensão e evolução previsível);\n\nb) Instruções de protecção que, em função da situação, poderão:\n\nAbranger, nomeadamente, os seguintes elementos: restrição do consumo de determinados alimentos que possam estar, contaminados, regras simples de higiene e descontaminação, permanência no domicílio, distribuição e utilização de substâncias protectoras, disposições a tomar em caso de evacuação;\n\nSer acompanhadas, se necessário, de instruções especiais destinadas a determinados grupos populacionais;\n\nc) Conselhos de cooperação, no, âmbito das instruções ou dos pedidos das autoridades competentes.\n\n2 - Se uma situação de emergência for precedida de uma fase de pré-alarme, a população susceptível de ser afectada em caso de emergência radiológica deve receber informações e instruções já durante essa fase, tais como:\n\nConvite à população em causa para que siga as emissões de rádio e televisão;\n\nInstruções preparatórias aos estabelecimentos que tenham responsabilidades colectivas específicas.\n\nRecomendações às profissões particularmente envolvidas.\n\n3 - Essas informações e instruções serão completadas, em função do tempo disponível, por uma recapitulação das noções básicas sobre radioactividade e os seus efeitos sobre o ser humano e o ambiente."
+  },
+  "108025402": {
+   "fragment_id": "108025333",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 36/95\n\nde 14 de Fevereiro\n\nO Decreto Regulamentar n.º 9/90, de 19 de Abril, que se destina a dar execução ao Decreto-Lei n.º 348/89, de 12 de Outubro, estabelece as normas de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes, transpondo para o direito interno as Directivas n.os <a href=\"eurlex.asp?ano=1980&id=380L0836\" title=\"Link para Directiva da Comunidade Europeia\">80/836/EURATOM</a>, <a href=\"eurlex.asp?ano=1984&id=384L0467\" title=\"Link para Directiva da Comunidade Europeia\">84/467/EURATOM</a> e <a href=\"eurlex.asp?ano=1984&id=384L0466\" title=\"Link para Directiva da Comunidade Europeia\">84/466/EURATOM</a>, do Conselho, de 15 de Julho, 3 de Setembro e 3 de Setembro, respectivamente.\n\nFace à conveniência em estabelecer princípios comuns e disposições específicas em matéria de informação dos grupos populacionais susceptíveis de serem afectados por emergências radiológicas, nomeadamente as medidas sanitárias previstas e o comportamento a adoptar, o Conselho da Comunidade Europeia aprovou a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0618\" title=\"Link para Directiva da Comunidade Europeia\">89/618/EURATOM</a>, de 27 de Novembro (NUMDOC. 389L 618), publicada no Jornal Oficial das Comunidades Europeias, série L, n.º 357, de 7 de Dezembro de 1989, que agora se transpõe para o direito interno.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o Governo decreta o seguinte:"
+  },
+  "108025415": {
+   "fragment_id": "108025335",
+   "type": 11,
+   "heading": "Artigo 2.º — Informação prévia",
+   "in_force_from": "2017-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 2.º — Informação prévia\n\n1 - A informação prévia deve assegurar à população suscetível de ser afetada em caso de emergência radiológica ou de acidente nuclear o conhecimento das medidas de proteção apropriadas, nomeadamente de ordem sanitária, que lhes são aplicáveis e das normas de comportamento a adotar em caso de emergência radiológica ou acidente nuclear.\n\n2 - A informação à prestar contemplará, pelo menos, os aspectos enumerados no anexo I ao presente diploma, que dele faz parte integrante, bem como o endereço das entidades junto das quais o público poderá obter informações adicionais.\n\n3 - A Comissão Nacional de Emergências Radiológicas, através de propostas a apresentar à Autoridade Nacional de Proteção Civil, pode complementar e reforçar a informação com vista a garantir que as populações conhecem os perigos radiológicos, aos quais podem estar expostas, e os cuidados imediatos a observar em caso de acidente nuclear ou radiológico.\n\n4 - A informação, que deve encontrar-se permanentemente à disposição do público, designadamente através da Internet mas também, em suporte físico, junto dos municípios respetivos, será fornecida à população mencionada no n.º 1, sem que esta tenha de a solicitar, devendo ser atualizada e comunicada trienalmente e sempre que forem introduzidas alterações significativas nas medidas descritas, garantindo as entidades competentes a realização de diligências com vista a assegurar o conhecimento efetivo, por parte dos cidadãos, destas informações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "108025416": {
+   "fragment_id": "108025336",
+   "type": 11,
+   "heading": "Artigo 3.º — Informação em caso de emergência radiológica ou acidente nuclear",
+   "in_force_from": "2017-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 3.º — Informação em caso de emergência radiológica ou acidente nuclear\n\n1 - Caso se produza uma situação de emergência radiológica ou acidente nuclear, a população afetada é de imediato informada dos factos relativos à situação de emergência ou de acidente, do comportamento a adotar e, em função da situação em questão, das medidas de proteção aplicáveis, nomeadamente as sanitárias.\n\n2 - A informação divulgada incide, de acordo com a situação de emergência radiológica ou acidente nuclear, sobre os pontos pertinentes descritos no anexo II ao presente diploma, que dele faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "108025417": {
+   "fragment_id": "108025337",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação das pessoas susceptíveis de intervir na organização dos socorros",
+   "in_force_from": "2017-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 4.º — Informação das pessoas susceptíveis de intervir na organização dos socorros\n\n1 - As pessoas que embora não façam parte do pessoal das instalações e ou não participem nas atividades suscetíveis de libertação significativa de materiais radioativos, nos termos definidos na Diretiva n.º 89/618/EURATOM, do Conselho, de 27 de novembro, mas sejam suscetíveis de intervir na organização dos socorros em caso de emergência radiológica ou acidente nuclear, devem receber com regularidade informação adequada e atualizada sobre os riscos que a sua intervenção envolve para a sua saúde e sobre as medidas de precaução a adotar, tendo em conta as diversas situações de emergência radiológica ou acidentes nucleares suscetíveis de ocorrer.\n\n2 - A informação a prestar nos termos do número anterior é complementada por simulacros e outras ações preventivas, bem como ações informação adequada em caso de emergência, em conformidade com a respetiva evolução.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "108025410": {
+   "fragment_id": "108025341",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1994. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Mário Fernando de Campos Pinto - Manuel Dias Loureiro - António Duarte Silva - Adalberto Paulo da Fonseca Mendo - Maria Teresa Pinto Basto Gouveia.\n\nPromulgado em 25 de Janeiro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em de 26 de Janeiro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "108025418": {
+   "fragment_id": "108025342",
+   "type": 14,
+   "heading": "Anexo I — (Informação prévia a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+   ],
+   "markdown": "## Anexo I — (Informação prévia a que se refere o artigo 2.º)\n\n1 - Noções básicas sobre a radioactividade e os seus efeitos sobre o ser humano e sobre o ambiente.\n\n2 - Os diferentes casos de emergência radiológica ou acidente nuclear considerados e respetivas consequências para a população e o ambiente.\n\n3 - Medidas de emergência previstas para alertar, proteger e socorrer a população em caso de emergência radiológica ou acidente nuclear.\n\n4 - Informações adequadas relativas ao comportamento que a população deve adotar em caso de emergência radiológica ou acidente nuclear.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+  },
+  "108025419": {
+   "fragment_id": "108025343",
+   "type": 14,
+   "heading": "Anexo II — (Informação em caso de emergência radiológica a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+   ],
+   "markdown": "## Anexo II — (Informação em caso de emergência radiológica a que se refere o artigo 3.º)\n\n1 - De acordo com os planos de intervenção previamente estabelecidos, a população realmente afetada em caso de emergência radiológica ou acidente nuclear recebe de forma rápida e contínua:\n\na) Informações sobre o caso de emergência ocorrido e, na medida do possível, sobre as suas características (tais como origem, extensão e evolução previsível);\n\nb) Instruções de protecção que, em função da situação, poderão:\n\nAbranger, nomeadamente, os seguintes elementos: restrição do consumo de determinados alimentos que possam estar, contaminados, regras simples de higiene e descontaminação, permanência no domicílio, distribuição e utilização de substâncias protectoras, disposições a tomar em caso de evacuação;\n\nSer acompanhadas, se necessário, de instruções especiais destinadas a determinados grupos populacionais;\n\nc) Conselhos de cooperação, no, âmbito das instruções ou dos pedidos das autoridades competentes.\n\n2 - Se uma situação de emergência ou acidente for precedida de uma fase de pré-alarme, a população suscetível de ser afetada em caso de emergência radiológica ou acidente nuclear deve receber informações e instruções já durante essa fase, tais como:\n\nConvite à população em causa para que siga as emissões de rádio e televisão;\n\nInstruções preparatórias aos estabelecimentos que tenham responsabilidades colectivas específicas.\n\nRecomendações às profissões particularmente envolvidas.\n\n3 - Essas informações e instruções serão completadas, em função do tempo disponível, por uma recapitulação das noções básicas sobre radioactividade e os seus efeitos sobre o ser humano e o ambiente.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+  },
+  "180035296": {
+   "fragment_id": "108025334",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0618\" title=\"Link para Directiva da Comunidade Europeia\">89/618/EURATOM</a>, do Conselho, de 27 de Novembro, relativa à informação da população sobre as medidas de protecção sanitária aplicáveis e sobre o comportamento a adoptar em caso de emergência radiológica.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180035297": {
+   "fragment_id": "108025335",
+   "type": 11,
+   "heading": "Artigo 2.º — Informação prévia",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 2.º — Informação prévia\n\n1 - A informação prévia deve assegurar à população suscetível de ser afetada em caso de emergência radiológica ou de acidente nuclear o conhecimento das medidas de proteção apropriadas, nomeadamente de ordem sanitária, que lhes são aplicáveis e das normas de comportamento a adotar em caso de emergência radiológica ou acidente nuclear.\n\n2 - A informação à prestar contemplará, pelo menos, os aspectos enumerados no anexo I ao presente diploma, que dele faz parte integrante, bem como o endereço das entidades junto das quais o público poderá obter informações adicionais.\n\n3 - A Comissão Nacional de Emergências Radiológicas, através de propostas a apresentar à Autoridade Nacional de Proteção Civil, pode complementar e reforçar a informação com vista a garantir que as populações conhecem os perigos radiológicos, aos quais podem estar expostas, e os cuidados imediatos a observar em caso de acidente nuclear ou radiológico.\n\n4 - A informação, que deve encontrar-se permanentemente à disposição do público, designadamente através da Internet mas também, em suporte físico, junto dos municípios respetivos, será fornecida à população mencionada no n.º 1, sem que esta tenha de a solicitar, devendo ser atualizada e comunicada trienalmente e sempre que forem introduzidas alterações significativas nas medidas descritas, garantindo as entidades competentes a realização de diligências com vista a assegurar o conhecimento efetivo, por parte dos cidadãos, destas informações.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "180035298": {
+   "fragment_id": "108025336",
+   "type": 11,
+   "heading": "Artigo 3.º — Informação em caso de emergência radiológica ou acidente nuclear",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 3.º — Informação em caso de emergência radiológica ou acidente nuclear\n\n1 - Caso se produza uma situação de emergência radiológica ou acidente nuclear, a população afetada é de imediato informada dos factos relativos à situação de emergência ou de acidente, do comportamento a adotar e, em função da situação em questão, das medidas de proteção aplicáveis, nomeadamente as sanitárias.\n\n2 - A informação divulgada incide, de acordo com a situação de emergência radiológica ou acidente nuclear, sobre os pontos pertinentes descritos no anexo II ao presente diploma, que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "180035299": {
+   "fragment_id": "108025337",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação das pessoas susceptíveis de intervir na organização dos socorros",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 4.º — Informação das pessoas susceptíveis de intervir na organização dos socorros\n\n1 - As pessoas que embora não façam parte do pessoal das instalações e ou não participem nas atividades suscetíveis de libertação significativa de materiais radioativos, nos termos definidos na Diretiva n.º 89/618/EURATOM, do Conselho, de 27 de novembro, mas sejam suscetíveis de intervir na organização dos socorros em caso de emergência radiológica ou acidente nuclear, devem receber com regularidade informação adequada e atualizada sobre os riscos que a sua intervenção envolve para a sua saúde e sobre as medidas de precaução a adotar, tendo em conta as diversas situações de emergência radiológica ou acidentes nucleares suscetíveis de ocorrer.\n\n2 - A informação a prestar nos termos do número anterior é complementada por simulacros e outras ações preventivas, bem como ações informação adequada em caso de emergência, em conformidade com a respetiva evolução.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "180035300": {
+   "fragment_id": "108025338",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de aplicação",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 5.º — Processo de aplicação\n\n1 - Os planos de emergência das instalações ou actividades susceptíveis de libertação significativa de materiais radioactivos, nos termos definidos na Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0618\" title=\"Link para Directiva da Comunidade Europeia\">89/618/EURATOM</a>, do Conselho, de 27 de Novembro, desde que desenvolvidas em território nacional, deverão definir os processos a utilizar para informação nos termos dos artigos 2.º, 3.º e 4.º, bem como identificar os seus destinatários.\n\n2 - Os serviços municipais, delegações distritais, serviços regionais e serviço nacional de protecção civil, coadjuvados pela Direcção-Geral da Saúde, assegurarão as acções de informação da população susceptível de ser afectada em caso de emergência radiológica, de acordo com as directivas emanadas do Conselho para acidentes nucleares e emergências radiológicas.\n\n3 - Às entidades responsáveis pelas instalações e actividades citadas no n.º 1 está especialmente cometido o dever de colaboração com as autoridades mencionadas no número anterior e no fornecimento e divulgação dos elementos indispensáveis a uma correcta informação do público.\n\n4 - As informações referidas nos artigos 2.º, 3.º e 4.º incluirão a indicação das autoridades encarregadas de aplicar as medidas referidas nesses artigos.\n\n5 - Sobre a informação a prestar nos termos do artigo 2.º e do n.º 1 do artigo 4.º deverá ser ouvida a Comissão Nacional de Protecção contra Radiações.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180035301": {
+   "fragment_id": "108025339",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação à Comissão da Comunidade Europeia",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicação à Comissão da Comunidade Europeia\n\n1 - A informação prevista no artigo 3.º será comunicada à Comissão da Comunidade Europeia, sem prejuízo da faculdade da sua comunicação aos Estados membros da Comunidade Europeia.\n\n2 - A informação a divulgar por força do disposto no artigo 4.º deverá também ser comunicada à Comissão da Comunidade Europeia, bem como aos Estados membros afectados ou susceptíveis de o serem.\n\n3 - A informação referida no artigo 5.º será comunicada à Comissão da Comunidade Europeia, se esta o solicitar.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180035302": {
+   "fragment_id": "108025340",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180035303": {
+   "fragment_id": "108025341",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1994. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Mário Fernando de Campos Pinto - Manuel Dias Loureiro - António Duarte Silva - Adalberto Paulo da Fonseca Mendo - Maria Teresa Pinto Basto Gouveia.\n\nPromulgado em 25 de Janeiro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em de 26 de Janeiro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180035304": {
+   "fragment_id": "108025342",
+   "type": 14,
+   "heading": "Anexo I — (Informação prévia a que se refere o artigo 2.º)",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+   ],
+   "markdown": "## Anexo I — (Informação prévia a que se refere o artigo 2.º)\n\n1 - Noções básicas sobre a radioactividade e os seus efeitos sobre o ser humano e sobre o ambiente.\n\n2 - Os diferentes casos de emergência radiológica ou acidente nuclear considerados e respetivas consequências para a população e o ambiente.\n\n3 - Medidas de emergência previstas para alertar, proteger e socorrer a população em caso de emergência radiológica ou acidente nuclear.\n\n4 - Informações adequadas relativas ao comportamento que a população deve adotar em caso de emergência radiológica ou acidente nuclear.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+  },
+  "180035305": {
+   "fragment_id": "108025343",
+   "type": 14,
+   "heading": "Anexo II — (Informação em caso de emergência radiológica a que se refere o artigo 3.º)",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+   ],
+   "markdown": "## Anexo II — (Informação em caso de emergência radiológica a que se refere o artigo 3.º)\n\n1 - De acordo com os planos de intervenção previamente estabelecidos, a população realmente afetada em caso de emergência radiológica ou acidente nuclear recebe de forma rápida e contínua:\n\na) Informações sobre o caso de emergência ocorrido e, na medida do possível, sobre as suas características (tais como origem, extensão e evolução previsível);\n\nb) Instruções de protecção que, em função da situação, poderão:\n\nAbranger, nomeadamente, os seguintes elementos: restrição do consumo de determinados alimentos que possam estar, contaminados, regras simples de higiene e descontaminação, permanência no domicílio, distribuição e utilização de substâncias protectoras, disposições a tomar em caso de evacuação;\n\nSer acompanhadas, se necessário, de instruções especiais destinadas a determinados grupos populacionais;\n\nc) Conselhos de cooperação, no, âmbito das instruções ou dos pedidos das autoridades competentes.\n\n2 - Se uma situação de emergência ou acidente for precedida de uma fase de pré-alarme, a população suscetível de ser afetada em caso de emergência radiológica ou acidente nuclear deve receber informações e instruções já durante essa fase, tais como:\n\nConvite à população em causa para que siga as emissões de rádio e televisão;\n\nInstruções preparatórias aos estabelecimentos que tenham responsabilidades colectivas específicas.\n\nRecomendações às profissões particularmente envolvidas.\n\n3 - Essas informações e instruções serão completadas, em função do tempo disponível, por uma recapitulação das noções básicas sobre radioactividade e os seus efeitos sobre o ser humano e o ambiente.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179)"
+  }
+ }
+}

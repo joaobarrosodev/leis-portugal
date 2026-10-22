@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:144272499:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-150343914",
+ "dre_path": "/dr/detalhe/portaria/232-2020-144272499",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "150110691",
+    "150110692",
+    "150110693",
+    "150110694",
+    "150110696"
+   ]
+  },
+  {
+   "date": "2020-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150368749:por",
+     "title": "Portaria n.º 276/2020",
+     "published": "2020-12-04",
+     "dre_path": "/dr/detalhe/portaria/276-2020-150368749"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "150110691",
+    "150110692",
+    "150110702",
+    "150110694",
+    "150110695",
+    "150110696"
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223906281:por",
+     "title": "Portaria n.º 337/2023",
+     "published": "2023-11-07",
+     "dre_path": "/dr/detalhe/portaria/337-2023-223906281"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "150110691",
+    "150110692",
+    "150110702",
+    "150110694",
+    "150110695",
+    "223763763"
+   ]
+  }
+ ],
+ "fragments": {
+  "150110691": {
+   "fragment_id": "150343915",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 232/2020\n\nde 1 de outubro\n\nSumário: Estabelece as obrigações declarativas fiscais que estão abrangidas pelo regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, aprovado pelo Decreto-Lei n.º 452/99, de 5 de novembro.\n\nA Lei n.º 119/2019, de 18 de setembro, procedeu a várias alterações dos códigos fiscais e introduziu no Estatuto da Ordem dos Contabilistas Certificados, aprovado pelo Decreto-Lei n.º 452/99, de 5 de novembro, o artigo 12.º-A que prevê as situações de justo impedimento de curta duração, correspondentes às alíneas a) a d) do respetivo n.º 1, que podem ser invocadas pelos contabilistas certificados como impeditivas de cumprir as obrigações declarativas fiscais dos contribuintes que constam do seu cadastro, com as consequências previstas no n.º 6 do mesmo artigo, isto é, a ocorrência do justo impedimento afasta a responsabilidade contraordenacional ou penal, bem como os juros compensatórios, quando a obrigação declarativa em falta for cumprida nos prazos previstos no n.º 3 do mesmo preceito.\n\nNo n.º 8 do artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados consta que as obrigações declarativas fiscais abrangidas pelo regime do justo impedimento de curta duração, previsto naquele artigo, são definidas por portaria do membro do Governo responsável pela área das finanças.\n\nÉ nesse âmbito que surge a presente portaria, que tem como objetivo definir as obrigações declarativas fiscais que integram a previsão do artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados.\n\nDeste modo, com vista a concretizar esse objetivo, e sem prejuízo da sua revisão oportuna, identificou-se um primeiro conjunto de obrigações declarativas, estabelecendo-se um conjunto de critérios considerados relevantes para identificação dessas obrigações, a saber:\n\n1) Obrigações com intervenção obrigatória do contabilista certificado (CC);\n\n2) Obrigações em que existe elevada relevância para a qualidade da informação na intervenção do CC;\n\n3) Não inclusão das obrigações relativas a contribuições especiais e das obrigações declarativas que sejam fundamentais para a cooperação internacional.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e dos Assuntos Fiscais, nos termos do n.º 8 do artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, aprovado pelo Decreto-Lei n.º 452/99, de 5 de novembro, o seguinte:"
+  },
+  "150110692": {
+   "fragment_id": "150343916",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as obrigações declarativas fiscais que estão abrangidas pelo regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, aprovado pelo Decreto-Lei n.º 452/99, de 5 de novembro."
+  },
+  "150110693": {
+   "fragment_id": "150343917",
+   "type": 11,
+   "heading": "Artigo 2.º — Obrigações declarativas fiscais abrangidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigações declarativas fiscais abrangidas\n\nAs obrigações declarativas fiscais abrangidas pelo regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, são as constantes do quadro anexo à presente portaria."
+  },
+  "150110694": {
+   "fragment_id": "150343918",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2020, data da entrada em vigor do regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, nos termos prescritos no artigo 26.º, n.º 2, alínea c), da Lei n.º 119/2019, de 18 de setembro."
+  },
+  "150110696": {
+   "fragment_id": "150343920",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nQuadro das obrigações declarativas fiscais abrangidas pelo regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados\n\nObrigação declarativa\n\nDeclaração de início/alterações/cessação de atividade.\n\nModelo 3 (Anexo C).\n\nDeclaração Mensal de Remunerações (DMR - AT).\n\nModelo 22 e todos os anexos.\n\nModelo 4 - Aquisição e/ou alienação de valores mobiliários.\n\nModelo 10 - Rendimentos e Retenções - Residentes.\n\nModelo 13 - Valores mobiliários, warrants autónomos e instrumentos financeiros derivados.\n\nModelo 14 - Seguros de vida (resgates ou adiantamentos de seguros de grupo e seguros individuais efetuados antes de decorridos 5 anos após a sua constituição).\n\nModelo 15 - Contas poupança - habitação.\n\nModelo 16 - Planos de poupança em ações.\n\nModelo 17 - Dívida pública - não residentes.\n\nModelo 18 - Títulos de Compensação Extrassalarial.\n\nModelo 19 - Planos de opção, de subscrição, de atribuição ou outros de efeito equivalente.\n\nModelo 25 - Donativos recebidos.\n\nModelo 29 - Transferência de residência/Afetação de elementos patrimoniais a estabelecimento estável situado fora do território português/Cessação da atividade de estabelecimento estável/Transferência de elementos patrimoniais de estabelecimento...\n\nModelo 31 - Rendimentos isentos. dispensados de retenção ou sujeitos a taxa reduzida.\n\nModelo 32 - Subscrição e reembolsos de planos de poupança-reforma. poupança-educação e poupança-reforma/educação.\n\nModelo 33 - Registo ou depósito de valores mobiliários.\n\nModelo 34 - Valores mobiliários emitidos e em circulação.\n\nModelo 37 - Juros e Amortizações de Habitação Permanente. Prémios de Seguros de Saúde, Vida e Acidentes Pessoais. PPR, Fundos de Pensões e Regimes Complementares.\n\nModelo 38 - Declaração de Transferências Transfronteiras.\n\nModelo 39 - Rendimentos e retenções a taxas liberatórias.\n\nModelo 40 - Valor dos fluxos de pagamento.\n\nModelo 42 - Subsídios ou Subvenções não Reembolsáveis.\n\nModelo 44 - Comunicação anual de rendas recebidas.\n\nModelo 45 - Comunicação de despesas de saúde.\n\nModelo 46 - Comunicação de despesas de formação e educação.\n\nModelo 47 - Comunicação de encargos com lares.\n\nModelo 48 - Transferência da residência para fora do território português (EU/EEE) - pagamento diferido ou fracionado.\n\nModelo 49 - Comunicação para prorrogação do prazo de entrega da declaração modelo 3 de IRS - rendimentos obtidos no estrangeiro.\n\nIES - Rosto e todos os anexos.\n\nFicheiro SAF-T relativo à contabilidade.\n\nDeclaração Periódica de IVA e todos os anexos.\n\nDeclaração Recapitulativa.\n\nPedido de restituição do IVA - IPSS, entidades religiosas, outras.\n\nPedido de compensação forfetária.\n\nModelo 1074 - Regime especial dos pequenos retalhistas.\n\nPedidos de autorização prévia - Regularizações dos artigos 78.º-A a 78.º-D.\n\nConfirmação de faturas em dívida - Regularizações do artigo 78.º-A a 78.º-D.\n\nPedidos de reembolso - Envio de garantias.\n\nPedidos de reembolso IVA para sujeitos passivos fora da UE (13.ª diretiva).\n\nPedidos de reembolso IVA suportado noutros Estados Membros da UE.\n\nOpção pelo regime do IVA de caixa.\n\nOpção pelo regime de reembolso mensal.\n\nOpção pelo regime do minibalcão único (MOSS).\n\nOpção pelo regime de importação de autoliquidação.\n\nDeclaração Mensal do Imposto do selo.\n\nModelo 2-RFI Pedido de Certificado de Residência Fiscal.\n\nModelo 21-RFI - Pedido de dispensa total ou parcial de retenção na fonte do imposto português.\n\nModelo 22-RFI - Pedido de reembolso do imposto português sobre dividendos de ações e juros de valores mobiliários representativos de dívida.\n\nModelo 23-RFI - Pedido de reembolso do imposto português sobre royalties. dividendos e juros (exceto dividendos de ações e juros de valores mobiliários representativos de dívida).\n\nModelo 24-RFI - Pedido de reembolso do imposto português sobre outros rendimentos.\n\nModelo 30 - Rendimentos pagos ou colocados à disposição de sujeitos passivos não residentes.\n\nDeclaração de Retenções na Fonte IR e imposto do selo.\n\nModelo P1 - IR (autoliquidação, PPC, PAC, PEC).\n\nModelo P2 - IVA.\n\nCedência de Créditos - Pedido de cedência de créditos.\n\nModelo 19-RFI, Mod. 20-RFI, Mod. 25-RFI, Mod. 26-RFI.\n\nModelo 27-RFI.\n\nModelo 01 - DP Declaração de Opção Prevista no n.º 2 do artigo 3.º do Decreto-Lei n.º 62/2005.\n\nModelo 02 - DP - Pedido de Certificado de Agente Pagador como OICVM.\n\nModelo 03 - DP - Certificado de Agente Pagador como OICVM (Certificate for Treatment as An Ucits).\n\nModelo 04 - DP - Pedido de Certificado para Isenção de Retenção.\n\nModelo 05 - DP - Certificado para Isenção de Retenção (Certificate for Non-Deduction of Withholding Tax).\n\nModelo - DP 35 - Rendimentos da Poupança sob a Forma de Juros Pagos ou Atribuídos a não Residentes.\n\nModelo - DP 36 - Rendimentos da Poupança sob a Forma de Juros Pagos ou Atribuídos a Pessoas Singulares que não sejam Beneficiários Efetivos.\n\nMod. 01-DJR.\n\nMod. 02-DJR.\n\n113590401"
+  },
+  "150110702": {
+   "fragment_id": "150343917",
+   "type": 11,
+   "heading": "Artigo 2.º — Obrigações declarativas fiscais abrangidas",
+   "in_force_from": "2020-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2020 - Diário da República n.º 236/2020, Série I de 2020-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/276-2020-150368749), em vigor a partir de 2020-12-05, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Obrigações declarativas fiscais abrangidas\n\n1 - As obrigações declarativas fiscais abrangidas pelo regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, são as constantes do quadro anexo à presente portaria.\n\n2 - O regime do justo impedimento de curta duração abrange ainda as obrigações de pagamento que não possam ser cumpridas sem a entrega das obrigações declarativas a que se refere o número anterior.\n\n3 - O disposto no n.º 3 do artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados é aplicável às obrigações de pagamento previstas no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 276/2020 - Diário da República n.º 236/2020, Série I de 2020-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/276-2020-150368749), em vigor a partir de 2020-12-05, produz efeitos a partir de 2020-01-01"
+  },
+  "150110695": {
+   "fragment_id": "150343919",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e dos Assuntos Fiscais, António Mendonça Mendes, em 23 de setembro de 2020."
+  },
+  "223763763": {
+   "fragment_id": "150343920",
+   "type": 14,
+   "heading": "Anexo — Quadro das obrigações declarativas fiscais abrangidas pelo regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 337/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/337-2023-223906281), em vigor a partir de 2023-11-08"
+   ],
+   "markdown": "## Anexo — Quadro das obrigações declarativas fiscais abrangidas pelo regime do justo impedimento de curta duração, previsto no artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados\n\nObrigação declarativa\n\nDeclaração de início/alterações/cessação de atividade.\n\nModelo 3 (Anexo C).\n\nDeclaração Mensal de Remunerações (DMR - AT).\n\nModelo 22 e todos os anexos.\n\nModelo 4 - Aquisição e/ou alienação de valores mobiliários.\n\nModelo 10 - Rendimentos e Retenções - Residentes.\n\nModelo 13 - Valores mobiliários, warrants autónomos e instrumentos financeiros derivados.\n\nModelo 14 - Seguros de vida (resgates ou adiantamentos de seguros de grupo e seguros individuais efetuados antes de decorridos 5 anos após a sua constituição).\n\nModelo 15 - Contas poupança - habitação.\n\nModelo 16 - Planos de poupança em ações.\n\nModelo 17 - Dívida pública - não residentes.\n\nModelo 18 - Títulos de Compensação Extrassalarial.\n\nModelo 19 - Planos de opção, de subscrição, de atribuição ou outros de efeito equivalente.\n\nModelo 25 - Donativos recebidos.\n\nModelo 29 - Transferência de residência/Afetação de elementos patrimoniais a estabelecimento estável situado fora do território português/Cessação da atividade de estabelecimento estável/Transferência de elementos patrimoniais de estabelecimento...\n\nModelo 31 - Rendimentos isentos. dispensados de retenção ou sujeitos a taxa reduzida.\n\nModelo 32 - Subscrição e reembolsos de planos de poupança-reforma. poupança-educação e poupança-reforma/educação.\n\nModelo 33 - Registo ou depósito de valores mobiliários.\n\nModelo 34 - Valores mobiliários emitidos e em circulação.\n\nModelo 37 - Juros e Amortizações de Habitação Permanente. Prémios de Seguros de Saúde, Vida e Acidentes Pessoais. PPR, Fundos de Pensões e Regimes Complementares.\n\nModelo 38 - Declaração de Transferências Transfronteiras.\n\nModelo 39 - Rendimentos e retenções a taxas liberatórias.\n\nModelo 40 - Valor dos fluxos de pagamento.\n\nModelo 42 - Subsídios ou Subvenções não Reembolsáveis.\n\nModelo 44 - Comunicação anual de rendas recebidas.\n\nModelo 45 - Comunicação de despesas de saúde.\n\nModelo 46 - Comunicação de despesas de formação e educação.\n\nModelo 47 - Comunicação de encargos com lares.\n\nModelo 48 - Transferência da residência para fora do território português (EU/EEE) - pagamento diferido ou fracionado.\n\nModelo 49 - Comunicação para prorrogação do prazo de entrega da declaração modelo 3 de IRS - rendimentos obtidos no estrangeiro.\n\nIES - Rosto e todos os anexos.\n\nFicheiro SAF-T relativo à contabilidade.\n\nDeclaração Periódica de IVA e todos os anexos.\n\nDeclaração Recapitulativa.\n\nDeclaração Mensal Global - Importação de bens.\n\nPedido de restituição do IVA - IPSS, entidades religiosas, outras.\n\nPedido de compensação forfetária.\n\nModelo 1074 - Regime especial dos pequenos retalhistas.\n\nPedidos de autorização prévia - Regularizações dos artigos 78.º-A a 78.º-D.\n\nConfirmação de faturas em dívida - Regularizações do artigo 78.º-A a 78.º-D.\n\nPedidos de reembolso - Envio de garantias.\n\nPedidos de reembolso IVA para sujeitos passivos fora da UE (13.ª diretiva).\n\nPedidos de reembolso IVA suportado noutros Estados Membros da UE.\n\nOpção pelo regime do IVA de caixa.\n\nOpção pelo regime de reembolso mensal.\n\nOpção pelo regime do minibalcão único (MOSS).\n\nOpção pelo regime de importação de autoliquidação.\n\nDeclaração Mensal do Imposto do selo.\n\nModelo 2-RFI Pedido de Certificado de Residência Fiscal.\n\nModelo 21-RFI - Pedido de dispensa total ou parcial de retenção na fonte do imposto português.\n\nModelo 22-RFI - Pedido de reembolso do imposto português sobre dividendos de ações e juros de valores mobiliários representativos de dívida.\n\nModelo 23-RFI - Pedido de reembolso do imposto português sobre royalties. dividendos e juros (exceto dividendos de ações e juros de valores mobiliários representativos de dívida).\n\nModelo 24-RFI - Pedido de reembolso do imposto português sobre outros rendimentos.\n\nModelo 30 - Rendimentos pagos ou colocados à disposição de sujeitos passivos não residentes.\n\nDeclaração de Retenções na Fonte IR e imposto do selo.\n\nModelo P1 - IR (autoliquidação, PPC, PAC, PEC).\n\nModelo P2 - IVA.\n\nCedência de Créditos - Pedido de cedência de créditos.\n\nModelo 19-RFI, Mod. 20-RFI, Mod. 25-RFI, Mod. 26-RFI.\n\nModelo 27-RFI.\n\nModelo 01 - DP Declaração de Opção Prevista no n.º 2 do artigo 3.º do Decreto-Lei n.º 62/2005.\n\nModelo 02 - DP - Pedido de Certificado de Agente Pagador como OICVM.\n\nModelo 03 - DP - Certificado de Agente Pagador como OICVM (Certificate for Treatment as An Ucits).\n\nModelo 04 - DP - Pedido de Certificado para Isenção de Retenção.\n\nModelo 05 - DP - Certificado para Isenção de Retenção (Certificate for Non-Deduction of Withholding Tax).\n\nModelo - DP 35 - Rendimentos da Poupança sob a Forma de Juros Pagos ou Atribuídos a não Residentes.\n\nModelo - DP 36 - Rendimentos da Poupança sob a Forma de Juros Pagos ou Atribuídos a Pessoas Singulares que não sejam Beneficiários Efetivos.\n\nMod. 01-DJR.\n\nMod. 02-DJR.\n\n113590401\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 337/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/portaria/337-2023-223906281), em vigor a partir de 2023-11-08"
+  }
+ }
+}

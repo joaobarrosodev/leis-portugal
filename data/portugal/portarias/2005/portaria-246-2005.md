@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:591741:por
+title: Portaria n.º 246/2005
+short_title: null
+summary: Aprova o regulamento do financiamento público dos cursos profissionais regulados pela Portaria n.º 550-C/2004, de
+  21 de Maio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Actividades Económicas e do Trabalho e da Educação
+proposing_entity: null
+official_number: 246/2005
+official_date: null
+publication_date: '2005-03-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/2005, Série I-B de 2005-03-09
+  number: '48'
+  series: I
+  supplement: null
+  pages: 2064 - 2066
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/03/048b00/20642066.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/246/2005/03/09/p/dre/pt/html
+  oj: null
+  dre: '591741'
+  dre_path: /dr/detalhe/portaria/246-2005-591741
+  internal: pt:dre:591741:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/246-2005-591741
+  metadata_url: https://data.dre.pt/eli/port/246/2005/03/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/246-2005-591741
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-01-08T00:00:00Z'
+integrity:
+  source_sha256: c2f17e61a9de20232eb9b82f59442322b26dd3423472f8a2e59235abceea1596
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-246-591741.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Bolsa de Formação Profissional
+- Bolsa de Frequência
+- Certificação Profissional
+- Ensino Particular
+- Ensino Profissional
+- Escola Profissional
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:262088:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/208/2002/10/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/208/2002/10/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/4/1998/01/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/1998/01/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 246/2005
+
+de 9 de Março
+
+A comparticipação pública destinada aos cursos profissionais ministrados em escolas profissionais privadas tem sido assegurada por verbas maioritariamente provenientes do Fundo Social Europeu, previstas nos sucessivos quadros comunitários de apoio.
+
+Desde o ano lectivo de 2003-2004 que a região de Lisboa e Vale do Tejo deixou de beneficiar daqueles financiamentos.
+
+Tendo presente a importância e o papel que o ensino profissional desempenha no combate ao abandono escolar desqualificado, foram adoptadas medidas de carácter experimental e transitório visando o apoio estatal aos alunos que frequentam as escolas profissionais privadas da região de Lisboa e Vale do Tejo, de modo a proporcionar-lhes condições semelhantes àquelas de que usufruiriam caso frequentassem uma oferta formativa de nível secundário numa escola secundária pública.
+
+Essas medidas concretizaram-se na atribuição de uma bolsa de frequência cujo principal objectivo era apoiar os alunos nos encargos com o custo das propinas.
+
+Decorridos dois anos após a entrada em vigor desta modalidade de financiamento, a experiência da sua aplicação revelou algumas fragilidades e ambiguidades relativas, nomeadamente, ao processo de acesso e atribuição da bolsa de frequência e ao normal funcionamento dos estabelecimentos de ensino, bem como à concretização do objectivo da referida modalidade.
+
+Torna-se, assim, urgente a definição de uma estratégia correctiva, com o objectivo de combater as fragilidades enumeradas, não perdendo, mas reforçando, a aposta no ensino profissional.
+
+Nestes termos, a presente portaria aprova o regulamento que define as regras de aplicação do novo modelo de financiamento, orientado pelos princípios do respeito da liberdade de opção de escolha da oferta formativa do nível secundário e da comparticipação estatal nas despesas com os cursos de manifesto interesse público, de modo a garantir a possibilidade de frequência em condições de equidade com os alunos dos restantes cursos do nível secundário de educação.
+
+Assim:
+
+Atento o disposto no n.º 2 do artigo 31.º do [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), de 17 de Outubro, e de acordo com as normas constantes dos artigos 19.º e 20.º do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado, das Actividades Económicas e do Trabalho e da Educação, o seguinte:
+
+1.º É aprovado o regulamento do financiamento público dos cursos profissionais regulados pela [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, ministrados em escolas profissionais privadas criadas ao abrigo do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro, que funcionem em regiões não abrangidas pelos fundos comunitários, em anexo à presente portaria, de que faz parte integrante.
+
+2.º É revogado o despacho conjunto n.º 1013/2003, de 6 de Novembro, com a redacção que lhe foi dada pelo despacho conjunto n.º 44/2004, de 26 de Janeiro, e com as alterações introduzidas pelo despacho conjunto n.º 640/2004, de 30 de Outubro.
+
+3.º A presente portaria aplicar-se-á, com as devidas adaptações, aos ciclos de formação de 2003-2006 e 2004-2007, a partir do ano lectivo de 2005-2006.
+
+4.º As adaptações previstas no número anterior constarão do despacho conjunto referido no n.º 1 dos artigos 3.º e 4.º do regulamento anexo à presente portaria.
+
+Em 18 de Fevereiro de 2005.
+
+**O Ministro de Estado, das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - A Ministra da Educação, Maria do Carmo Félix da Costa Seabra.**
+
+## ANEXO
+
+Regulamento do financiamento público dos cursos profissionais regulados pela [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, ministrados em escolas profissionais privadas que funcionem em regiões não abrangidas pelos fundos comunitários.
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente regulamento define as regras a que deve obedecer o financiamento público dos cursos profissionais regulados pela [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, nos termos estabelecidos no [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março.
+
+2 - O presente regulamento aplica-se aos cursos profissionais ministrados em escolas profissionais privadas criadas ao abrigo do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro, que funcionem em regiões não abrangidas pelos fundos comunitários.
+
+3 - O financiamento público dos cursos profissionais obedece ao estabelecido nos artigos 19.º e 20.º do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro.
+
+###### Artigo 2.º — Definição
+
+1 - O apoio financeiro a conceder pelo Estado, através dos serviços competentes, às escolas profissionais privadas consiste na atribuição de um subsídio de formação, por curso, por turma.
+
+2 - Para efeito de financiamento, os cursos profissionais referidos no n.º 1 do artigo 1.º serão hierarquizados segundo a identificação de áreas prioritárias e estratégicas para o desenvolvimento sócio-económico do País.
+
+###### Artigo 3.º — Proposta de oferta formativa
+
+1 - As escolas profissionais deverão apresentar a sua proposta de oferta formativa a financiar, nos prazos e consoante as normas a definir em despacho conjunto dos Ministros de Estado, das Actividades Económicas e do Trabalho e da Educação.
+
+2 - A proposta de oferta formativa deverá ser constituída por cursos profissionais que constem da autorização prévia de funcionamento da escola, à data da apresentação da candidatura.
+
+3 - A fundamentação da proposta de oferta formativa deverá apresentar uma clara definição dos objectivos baseada na análise dos públicos e das saídas profissionais alvo, no âmbito das respectivas áreas de formação, numa perspectiva regional e nacional.
+
+4 - A escola profissional deve igualmente suportar a fundamentação da oferta formativa na análise das estratégias de intervenção e interacção com a comunidade e dos recursos humanos e materiais envolvidos e na caracterização das modalidades de avaliação do projecto.
+
+5 - A decisão de aprovação da oferta formativa a financiar compete ao Ministro da Educação, sob proposta dos serviços competentes do Ministério da Educação, sendo emitida até aos 90 dias subsequentes à data limite da apresentação dos pedidos.
+
+###### Artigo 4.º — Apoio financeiro
+
+1 - O apoio financeiro mencionado no n.º 1 do artigo 2.º, cujo regime de acesso e atribuição será estabelecido em despacho conjunto dos Ministros de Estado, das Actividades Económicas e do Trabalho e da Educação, destina-se a comparticipar os custos da formação durante o ciclo de formação, tendo este a duração máxima de três anos escolares.
+
+2 - O valor do subsídio, por curso, por turma, em cada ano escolar, é definido anualmente pelo Ministro da Educação.
+
+3 - A definição do valor do subsídio, por curso, por turma, terá em consideração, nomeadamente, os seguintes parâmetros:
+
+a) Custos de formação dos anos anteriores, apurados pela análise das demonstrações financeiras e de outros documentos contabilísticos relativos às escolas candidatas;
+
+b) Natureza de cada curso.
+
+4 - O valor anual do subsídio, por curso, por turma, corresponde ao limite máximo a pagar pelo Estado, para comparticipação dos custos da formação.
+
+5 - Para que haja lugar ao financiamento efectivo das turmas, deverão ser observados os seguintes limites:
+
+a) Número mínimo de 18 alunos, por turma, no início da formação;
+
+b) Número máximo de 28 alunos, por turma.
+
+6 - Os cursos a apoiar, bem como o número de turmas subsidiadas, por escola, por curso, decorre da decisão de aprovação da oferta formativa a financiar, referida no n.º 5 do artigo 3.º
+
+7 - As escolas profissionais não poderão ser beneficiárias de outro tipo de apoios ao mesmo fim destinados relativos aos alunos que integram as turmas objecto do financiamento.
+
+###### Artigo 5.º — Contratos-programa
+
+1 - O Estado celebrará contratos-programa com as entidades proprietárias das escolas profissionais privadas relativos à oferta formativa aprovada para financiamento, nos quais se estabelecerão as condições, as modalidades e os montantes dos pagamentos a efectuar.
+
+2 - Os contratos-programa são plurianuais, respeitando os ciclos de formação de três anos.
+
+3 - Nos contratos-programa serão estabelecidos os limites de cobrança de propinas e de outras taxas a pagar pelos alunos que integram as turmas objecto do financiamento.
+
+4 - No momento da assinatura do contrato, o quantitativo da comparticipação financeira fixado corresponde aos valores previsionais desse quantitativo.
+
+5 - O valor anual da comparticipação financeira, fixado em contrato, poderá sofrer alterações, que serão formalizadas e constituirão adenda ao contrato.
+
+###### Artigo 6.º — Redução do valor máximo anual do subsídio por turma
+
+1 - Haverá lugar à redução do valor máximo anual do subsídio por turma sempre que se verifique, no final de cada ano lectivo, uma taxa de desistência de frequência anual superior a 25%.
+
+2 - A redução corresponderá ao valor resultante da aplicação da percentagem da taxa de desistência ao valor máximo anual do subsídio por turma.
+
+3 - O valor resultante da redução referida nos números anteriores será deduzido ao valor global anual da comparticipação financeira, prevista no contrato-programa.
+
+###### Artigo 7.º — Condições de acesso dos alunos
+
+Os alunos que integram as turmas objecto do contrato-programa deverão reunir os seguintes requisitos:
+
+a) Possuir diploma do ensino básico ou habilitação legalmente equivalente (9.º ano de escolaridade);
+
+b) Não ter concluído o ensino secundário ou habilitação legalmente equivalente (12.º ano de escolaridade);
+
+c) Não ter mais de 25 anos.

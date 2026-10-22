@@ -1,0 +1,197 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:556616:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1990-155739194",
+ "dre_path": "/dr/detalhe/lei/55-1990-556616",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-09-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155873075",
+    "155873076",
+    "155873077",
+    "155873078",
+    "155873079",
+    "155873080",
+    "155873081",
+    "155873082",
+    "155873083",
+    "155873084",
+    "155873085",
+    "155873086"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "155873075",
+    "155873076",
+    "155873077",
+    "155873078",
+    "155873079",
+    "155873080",
+    "155873081",
+    "155873082",
+    "155874175",
+    "155873773",
+    "155873774",
+    "155873086",
+    "155873087"
+   ]
+  }
+ ],
+ "fragments": {
+  "155873075": {
+   "fragment_id": "155739195",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 55/90\n\nde 5 de Setembro\n\nCria uma marca colectiva de proveniência para os bordados da Região Autónoma da Madeira\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea d), e 169.º, n.º 3, da Constituição, precedendo proposta da Assembleia Regional da Madeira, o seguinte:"
+  },
+  "155873076": {
+   "fragment_id": "155739196",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um sistema de autenticação do bordado da Madeira através do uso de uma «Marca colectiva com indicação de proveniência», adiante abreviadamente designada por «MCIP», com o fim de garantir a origem, a tipicidade e a qualidade do bordado da Madeira, características que o distinguem dos produtos similares existentes no mercado."
+  },
+  "155873077": {
+   "fragment_id": "155739197",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA «MCIP» é composta pela designação que identifica o produto e a indicação de proveniência, associada ao elemento figurativo ou emblemático aprovado pela Resolução do Governo Regional da Madeira n.º 384/79, publicada no Jornal Oficial da Região Autónoma da Madeira, de 13 de Dezembro."
+  },
+  "155873078": {
+   "fragment_id": "155739198",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - A titularidade da «MCIP» para o bordado da Madeira pertence ao Instituto do Bordado, Tapeçarias e Artesanato da Madeira (IBTAM), instituto público regional criado pelo Decreto Regional n.º 2/77/M, de 21 de Janeiro, publicado no Diário da República, de 3 de Março.\n\n2 - O uso da «MCIP» para o bordado da Madeira carece de prévia autorização do IBTAM."
+  },
+  "155873079": {
+   "fragment_id": "155739199",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO IBTAM só autorizará o uso da «MCIP» aos produtores que satisfaçam as condições de produção e comercialização do bordado da Madeira, a definir em decreto legislativo regional."
+  },
+  "155873080": {
+   "fragment_id": "155739200",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - A autorização para o uso da «MCIP» dá direito à utilização de um sinal distintivo complementar, expresso na aposição em cada peça de bordado de um selo de chumbo, a fornecer pelo IBTAM, coma a impressão do elemento figurativo ou emblemático constante da «MCIP», bem como à utilização de embalagens específicas a fornecer pelo IBTAM.\n\n2 - Os produtores autorizadas a usar a «MCIP» podem igualmente usufruir de outros serviços e apoios a prestar pelo IBTAM no âmbito de um sistema de incentivos promocionais à exportação, a definir em decreto legislativo regional."
+  },
+  "155873081": {
+   "fragment_id": "155739201",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDas etiquetas dos produtos considerados como bordado da Madeira deve constar, para além dos elementos informativos exigidos pelo Decreto-Lei n.º 90/86, de 9 de Maio, a referência ao número de autorização do uso da marca atribuído pelo IBTAM."
+  },
+  "155873082": {
+   "fragment_id": "155739202",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - Desde que registada no Instituto Nacional da Propriedade Industrial, a «MCIP» prevista no presente diploma fica sujeita ao regime jurídico constante no Código da Propriedade Industrial, tanto no que concerne a marcas, como a indicações de proveniência, com as especialidades constantes do artigo 8.º da presente lei.\n\n2 - O IBTAM deve promover o registo da marca colectiva no registo internacional e nos registos nacionais dos países que constituam principais mercados de exportação do bordado da Madeira."
+  },
+  "155873083": {
+   "fragment_id": "155739203",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSão consideradas contra-ordenações os delitos previstos nos artigos 217.º e 218.º, n.º 3, do Código da Propriedade Industrial, a que corresponde coima a fixar entre 5000$00 e 500000$00 ou entre 10000$00 e 6000000$00 se cometidas por pessoas colectivas, excepto em caso de negligência, onde o limite máximo é reduzido a metade."
+  },
+  "155873084": {
+   "fragment_id": "155739204",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - No território nacional, com excepção das regiões autónomas, a competência para o processamento e aplicação das coimas cabe respectivamente à Direcção-Geral de Fiscalização Económica e ao seu director-geral.\n\n2 - Nas regiões autónomas, a competência para o processamento e aplicação das coimas previstas no artigo anterior cabe às entidades que, nos termos das correspondentes regionalizações de serviços e organizações internas das orgânicas administrativas, estiverem definidas legalmente."
+  },
+  "155873085": {
+   "fragment_id": "155739205",
+   "type": 11,
+   "heading": "Artigo 10.º — O produto das coimas referidas no artigo 8.º constitui receita da Região Autónoma da Madeira.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — O produto das coimas referidas no artigo 8.º constitui receita da Região Autónoma da Madeira."
+  },
+  "155873086": {
+   "fragment_id": "155739206",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nEsta lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "155874175": {
+   "fragment_id": "155739203",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\nSão consideradas contra-ordenações os delitos previstos nos artigos 217.º e 218.º, n.º 3, do Código da Propriedade Industrial, a que corresponde coima a fixar entre 5000$00 e 500000$00 ou entre 10000$00 e 6000000$00 se cometidas por pessoas colectivas, excepto em caso de negligência, onde o limite máximo é reduzido a metade.\n\n> Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155873773": {
+   "fragment_id": "155739204",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - No território nacional continental, a competência para a instrução dos processos por contraordenação cabe à Autoridade de Segurança Alimentar e Económica e a competência para a decisão e aplicação das sanções cabe ao conselho diretivo do Instituto Nacional da Propriedade Industrial, I. P.\n\n2 - Nas regiões autónomas, a competência para a instrução, decisão e aplicação das sanções nos processos por contraordenação cabe à Autoridade Regional das Atividades Económicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155873774": {
+   "fragment_id": "155739205",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do Regime Jurídico das Contraordenações Económicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155873087": {
+   "fragment_id": "155739207",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 11 de Julho de 1990.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 10 de Agosto de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES\n\nReferendada em 14 de Agosto de 1990.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  }
+ }
+}

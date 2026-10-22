@@ -1,0 +1,416 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179368:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-69828951",
+ "dre_path": "/dr/detalhe/decreto-lei/159-2012-179368",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-07-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69829088",
+    "69829089",
+    "69829090",
+    "69829091",
+    "69829092",
+    "69829093",
+    "69829094",
+    "69829095",
+    "69829096",
+    "69829097",
+    "69829098",
+    "69829099",
+    "69829100",
+    "69829101",
+    "69829102",
+    "69829103",
+    "69829104",
+    "69829105",
+    "69829106",
+    "69829107",
+    "69829108",
+    "69829109",
+    "69829110",
+    "69829111",
+    "69829112",
+    "69829113",
+    "69829114",
+    "69829115",
+    "69829116",
+    "69829117",
+    "69829118",
+    "69829119",
+    "69829120",
+    "69829121",
+    "69829122"
+   ]
+  },
+  {
+   "date": "2015-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69773249:por",
+     "title": "Decreto-Lei n.º 132/2015",
+     "published": "2015-07-09",
+     "dre_path": "/dr/detalhe/decreto-lei/132-2015-69773249"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "69829088",
+    "69829089",
+    "69829090",
+    "69829091",
+    "69829092",
+    "69829093",
+    "69829094",
+    "69829095",
+    "69829096",
+    "69829097",
+    "69829098",
+    "69829099",
+    "69829100",
+    "69829101",
+    "69829102",
+    "69829103",
+    "69829104",
+    "69829105",
+    "69829106",
+    "69829107",
+    "69829108",
+    "69829109",
+    "69826101",
+    "69829111",
+    "69829112",
+    "69829113",
+    "69829114",
+    "69826102",
+    "69829116",
+    "69829117",
+    "69829118",
+    "69829119",
+    "69829120",
+    "69826094",
+    "69829121",
+    "69829122"
+   ]
+  }
+ ],
+ "fragments": {
+  "69829088": {
+   "fragment_id": "69828952",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 159/2012\n\nde 24 de julho\n\nA zona costeira assume uma crescente importância estratégica em termos ambientais, económicos, sociais, culturais e recreativos. O aproveitamento das suas potencialidades e a resolução dos inerentes conflitos de interesses têm grande relevo no âmbito de uma política de desenvolvimento sustentável, que se pretende apoiada numa gestão integrada, assumindo especial importância o ordenamento, a valorização e a qualificação da zona costeira e em particular da orla costeira.\n\nDe modo a promover a utilização regulada e racional da orla costeira, numa ótica de coexistência de usos e atividades diversos, importa definir e equacionar as medidas necessárias para a salvaguarda do meio ambiente, a prevenção do risco e a garantia da segurança dos utentes.\n\nO regime jurídico dos instrumentos de gestão territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de setembro, revisto e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, e posteriormente alterado pelos Decretos-Leis n.os 181/2009, de 7 de agosto, e 2/2011, de 6 de janeiro, consagra os Planos de Ordenamento da Orla Costeira (POOC), enquanto planos especiais de ordenamento do território, como instrumentos supletivos de âmbito nacional.\n\nNeste quadro, a Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, e 60/2012, de 14 de março, veio reforçar o relevo e importância dos POOC, na medida em que estes devem refletir e estabelecer opções estratégicas para a proteção e integridade biofísica, a valorização dos recursos naturais e a conservação dos valores ambientais e paisagísticos, configurando tais instrumentos como um elemento fundamental na proteção, preservação e gestão dos recursos hídricos.\n\nPor outro lado, a Estratégia Nacional para a Gestão Integrada da Zona Costeira (ENGIZC), aprovada pela Resolução do Conselho de Ministros n.º 82/2009, de 8 de setembro, estabelece um referencial estratégico para a gestão integrada e participada da zona costeira, instituindo um quadro de opções, objetivos e medidas que deve encontrar reflexo nos POOC e do qual se salienta a componente do risco e a necessidade de se identificarem os mecanismos de prevenção associados à ocupação de áreas de risco.\n\nImpunha-se, portanto, a revisão do regime aplicável à orla costeira volvidos dezoito anos desde a aprovação do Decreto-Lei n.º 309/93, de 2 de setembro, alterado pelos Decretos-Leis n.os 218/94, de 20 de agosto, 151/95, de 24 de junho, e 113/97, de 10 de maio, e a avaliação efetuada aos POOC em vigor, associada ainda às alterações supervenientes do quadro legislativo e institucional.\n\nO presente diploma promove uma nova abordagem da orla costeira, numa lógica de maior flexibilidade e de gestão integrada e adaptativa, conferindo aos POOC, para além do caráter normativo e regulamentar, os meios de identificação e programação de medidas de gestão, proteção, conservação e valorização dos recursos hídricos e sistemas naturais associados.\n\nNeste sentido, alarga-se o processo de planeamento a toda a orla costeira, abrangendo as áreas sob jurisdição portuária, sem prejuízo da devida articulação com as autoridades competentes, e ainda a faculdade de extensão da zona terrestre de proteção, até aos 1000 m, quando tal seja justificado pela necessidade de proteção de sistemas biofísicos costeiros localizados para além da atual faixa dos 500 m.\n\nAinda neste âmbito, clarifica-se que os POOC podem abranger águas territoriais e de transição, salvaguardando-se quanto a estas últimas o regime previsto nos planos de ordenamento dos estuários em elaboração.\n\nÉ reconhecida a operacionalidade dos planos de praia, procurando obviar à sua excessiva rigidez, conferindo-se por conseguinte à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), enquanto autoridade nacional da água, os poderes de reavaliar caso necessário, e em função de monitorização realizada, o conteúdo destes planos.\n\nNo sentido de garantir a prevenção associada à ocupação de áreas de risco de erosão costeira, em particular nas praias marítimas, é reforçada a informação pública de sinalização das faixas e áreas de risco, através de painéis informativos e sinalética de perigo e de interdição, colocados, respetivamente, nos acessos à zona balnear e nas áreas onde seja expectável a ocorrência de fenómenos naturais suscetíveis de causar danos a pessoas e bens.\n\nNeste contexto, é prevista a utilização de um modelo de sinalética uniforme, a aprovar por portaria, que promova a comunicação do risco existente e sua natureza, bem como a segurança dos utentes. As medidas de prevenção do risco constantes do presente diploma não prejudicam, todavia, o papel fundamental que, neste âmbito, cabe aos utentes através de uma conduta consciente e adequada em função da informação disponibilizada.\n\nAinda no âmbito da promoção da segurança de pessoas e bens, prevê-se que as praias possam ser declaradas «praia de uso limitado» sendo por isso recomendada, por motivos de precaução, uma utilização restrita, especialmente quando utilizada por adultos acompanhados por menores de 13 anos.\n\nEm paralelo, e com vista a dar uma resposta mais eficaz a situações de caso de força maior ou de emergência grave, que surjam temporariamente em certas zonas balneares, a declaração de «praia com uso suspenso» deixa de se efetuar por ato regulamentar, passando a ser assegurada pela APA, I. P., em coordenação com as várias entidades competentes em razão da matéria ou da área de jurisdição.\n\nPara além da revisão do Decreto-Lei n.º 309/93, de 2 de setembro, alterado pelos Decretos-Leis n.os 218/94, de 20 de agosto, 151/95, de 24 de junho, e 113/97, de 10 de maio, o presente diploma vem também proceder à unificação dos regimes sancionatórios previstos nos Decretos-Leis n.os 218/95, de 26 de agosto, e 96/2010, de 30 de julho, aplicáveis, respetivamente, à circulação de veículos motorizados em praias e demais zonas da orla costeira e às infrações praticadas pelos utilizadores da orla costeira, no que respeita a sinalética e a barreiras de proteção.\n\nAssim, são elevados os montantes mínimos e máximos das coimas previstas pela violação das regras relativas à sinalética e barreiras de proteção e a transgressão de zonas interditas, prevendo-se ainda o agravamento da moldura contraordenacional nos casos de adulto acompanhado por menor de 13 anos ou de permanência em zona interdita após advertência do nadador-salvador, às quais é aplicável o dobro dos montantes mínimo e máximo da coima prevista.\n\nFoi promovida a audição dos órgãos de governo próprio das Regiões Autónomas e da Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "69829089": {
+   "fragment_id": "69828953",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "69829090": {
+   "fragment_id": "69828954",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de intervenção\n\n1 - O presente diploma regula a elaboração e a implementação dos planos de ordenamento da orla costeira, adiante designados por POOC, e estabelece o regime sancionatório aplicável às infrações praticadas na orla costeira, no que respeita ao acesso, circulação e permanência indevidos em zonas interditas e respetiva sinalização.\n\n2 - Os POOC incidem sobre a orla costeira, compreendendo, do lado da terra, uma «zona terrestre de proteção» e, do lado do mar, uma «zona marítima de proteção»."
+  },
+  "69829091": {
+   "fragment_id": "69828955",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Áreas de risco», as áreas específicas incluídas nas faixas de risco definidas para litoral de arriba e litoral baixo e arenoso, as quais devem, sempre que possível, ser assinaladas como zonas de perigo ou zonas interditas, correspondendo:\n\ni) Em litoral de arriba, às áreas existentes na base e no topo das arribas com evidências localizadas e potencial de instabilidade elevados, onde, no curto prazo, é expectável a ocorrência de movimento de massa de vertente; e\n\nii) Em litoral baixo e arenoso, às áreas que apresentem suscetibilidade elevada ao galgamento, inundação costeira ou a outros fenómenos hidrodinâmicos extremos com perigosidade associada;\n\nb) «Faixas de risco», as faixas paralelas ao litoral, identificadas nos POOC, destinadas à salvaguarda das áreas sujeitas aos fenómenos erosivos em litoral de arriba e arenoso face à ocupação humana existente, bem como à prevenção desses impactos na evolução global dos sistemas costeiros;\n\nc) «Domínio público marítimo», a área marítima que compreende:\n\ni) As águas costeiras e territoriais;\n\nii) As águas interiores sujeitas à influência das marés, nos rios, lagos e lagoas;\n\niii) O leito das águas costeiras e territoriais e das águas interiores sujeitas à influência das marés;\n\niv) Os fundos marinhos contíguos da plataforma continental, abrangendo toda a zona económica exclusiva; e\n\nv) As margens das águas costeiras e das águas interiores sujeitas à influência das marés;\n\nd) «Linha de costa», a fronteira entre a terra e o mar, assumindo-se como referencial a linha da máxima preia-mar de águas vivas equinociais, nos termos da Lei n.º 54/2005, de 15 de novembro;\n\ne) «Litoral», o termo genérico que descreve as porções de território que são influenciadas diretamente e indiretamente pela proximidade do mar;\n\nf) «Margem», a faixa de terreno contígua ou sobranceira à linha que limita o leito das águas com largura legalmente estabelecida;\n\ng) «Orla costeira», a porção do território onde o mar, coadjuvado pela ação eólica, exerce diretamente a sua ação e que se estende, a partir da margem até 500 m, para o lado de terra e, para o lado de mar, até à batimétrica dos 30 m;\n\nh) «Perigosidade», o perigo potencial associado à ocorrência de fenómenos naturais suscetíveis de causar danos a pessoas e bens, correspondendo ao produto entre a sua intensidade e a sua probabilidade de ocorrência;\n\ni) «Plano de praia», o instrumento de ordenamento e gestão da praia, que representa o conjunto de medidas e ações a realizar na praia marítima;\n\nj) «Praia marítima», a subunidade da orla costeira constituída pela margem e leito das águas do mar, zona terrestre interior, denominada «antepraia», e plano de água adjacentes;\n\nk) «Risco», a perigosidade resultante da ocorrência de fenómenos de erosão costeira, galgamento, inundação, instabilidade das arribas e movimentos de massa de vertente quando associada a uma determinada tipologia e densidade de ocupação humana;\n\nl) «Zona costeira», a porção de território influenciada direta e indiretamente, em termos biofísicos, pelo mar, designadamente por ondas, marés, ventos, biota ou salinidade, e que, sem prejuízo das adaptações aos territórios específicos, tem, para o lado da terra, a largura de 2 km medida a partir da linha da máxima preia-mar de águas vivas equinociais e se estende, para o lado do mar, até ao limite das águas territoriais, incluindo o leito."
+  },
+  "69829092": {
+   "fragment_id": "69828956",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza jurídica e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza jurídica e regime\n\n1 - Os POOC são planos especiais de ordenamento do território que visam a salvaguarda de objetivos de interesse nacional com incidência territorial e estabelecem regimes de salvaguarda de recursos e valores naturais e o regime de gestão compatível com a utilização sustentável do território.\n\n2 - Aos POOC é aplicável o regime jurídico dos instrumentos de gestão territorial, com as especificidades constantes do presente diploma."
+  },
+  "69829093": {
+   "fragment_id": "69828957",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades responsáveis\n\n1 - Compete à Agência Portuguesa do Ambiente, I. P., doravante designada APA, I. P., enquanto autoridade nacional da água, promover a elaboração dos POOC, por troços de costa, em articulação com os respetivos municípios, administrações portuárias e demais entidades públicas com interesses a salvaguardar.\n\n2 - A APA, I. P., deve assegurar a participação, desde a fase inicial do processo de elaboração dos POOC até à respetiva implementação, de todas as entidades públicas e privadas com interesses na área do plano.\n\n3 - Para a implementação dos POOC, a APA, I. P., deve garantir a necessária coordenação com as demais entidades responsáveis."
+  },
+  "69829094": {
+   "fragment_id": "69828958",
+   "type": 1,
+   "heading": "Capítulo II — Planos de Ordenamento da Orla Costeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Planos de Ordenamento da Orla Costeira"
+  },
+  "69829095": {
+   "fragment_id": "69828959",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios a observar pelos POOC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios a observar pelos POOC\n\n1 - A elaboração dos POOC deve atender aos seguintes princípios gerais:\n\na) Sustentabilidade e solidariedade intergeracional, promovendo a compatibilização, no território abrangido pelo plano, entre o desenvolvimento socioeconómico e a conservação da natureza, da biodiversidade e da geodiversidade, num quadro de qualidade de vida das populações atuais e vindouras;\n\nb) Coesão e equidade, assegurando o equilíbrio social e territorial e uma distribuição equilibrada dos recursos e das oportunidades;\n\nc) Prevenção e precaução, prevendo e antecipando consequências e adotando uma atitude cautelar, minimizando riscos e impactos negativos;\n\nd) Subsidiariedade, coordenando os procedimentos dos diversos níveis da Administração Pública e dos níveis e especificidades regionais e locais, de forma a privilegiar o nível decisório mais próximo do cidadão;\n\ne) Participação, potenciando o ativo envolvimento do público, das instituições e dos agentes locais, através do acesso à informação e à intervenção nos procedimentos de elaboração, execução, avaliação e revisão dos POOC;\n\nf) Corresponsabilização, envolvendo a partilha da responsabilidade com a comunidade, os agentes económicos, os cidadãos e associações representativas nas opções de gestão da área do plano;\n\ng) Operacionalidade, criando mecanismos legais, institucionais, financeiros e programáticos eficazes e eficientes, capazes de garantir a realização dos objetivos e das respetivas intervenções.\n\n2 - Na elaboração dos POOC devem ser observadas as normas técnicas aprovadas por portaria dos membros do Governo responsáveis pelas áreas do ambiente e do ordenamento do território."
+  },
+  "69829096": {
+   "fragment_id": "69828960",
+   "type": 11,
+   "heading": "Artigo 6.º — Objetivos a observar pelos POOC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objetivos a observar pelos POOC\n\n1 - Na elaboração dos POOC deve-se atender aos seguintes objetivos gerais:\n\na) Fruição pública em segurança do domínio público marítimo;\n\nb) Proteção da integridade biofísica do espaço e conservação dos valores ambientais e paisagísticos;\n\nc) Valorização dos recursos existentes na orla costeira;\n\nd) Flexibilização das medidas de gestão;\n\ne) Integração das especificidades e identidades locais;\n\nf) Criação de condições para a manutenção, o desenvolvimento e a expansão de atividades relevantes para o país, tais como atividades portuárias e outras atividades socioeconómicas que se encontram dependentes do mar e da orla costeira, bem como de atividades emergentes que contribuam para o desenvolvimento local e para contrariar a sazonalidade.\n\n2 - Constituem objetivos específicos dos POOC:\n\na) Estabelecer regimes de salvaguarda de recursos e valores naturais, bem como o regime de gestão sustentável do território da orla costeira;\n\nb) Potenciar um desenvolvimento sustentável da zona costeira através de uma abordagem prospetiva, dinâmica e adaptativa que fomente a sua competitividade enquanto espaço produtivo, gerador de riqueza e de emprego;\n\nc) Compatibilizar os diferentes usos e atividades específicos da orla costeira, visando potenciar a utilização dos recursos próprios desta área com respeito pela capacidade de carga dos sistemas naturais e o respetivo saneamento básico;\n\nd) Promover a requalificação dos recursos hídricos, tendo em atenção as conectividades e interdependências entre os meios hídricos interiores e costeiros e sistemas naturais associados;\n\ne) Valorizar e qualificar as praias, em particular as consideradas estratégicas por motivos ambientais e turísticos;\n\nf) Classificar e disciplinar o uso das praias especificamente vocacionadas para uso balnear;\n\ng) Proteger e valorizar os ecossistemas marinhos e terrestres, assegurando a conservação da natureza e da biodiversidade;\n\nh) Identificar e estabelecer regimes para salvaguarda das faixas de risco face aos diversos usos e ocupações, numa perspetiva de médio e longo prazo;\n\ni) Garantir a articulação entre os instrumentos de gestão territorial, planos e programas de interesse local, regional e nacional, aplicáveis na área abrangida pelo POOC.\n\n3 - Quando a área de intervenção de um POOC abranger uma área ou zona portuária, constituem ainda objetivos do plano assegurar as condições para o desenvolvimento da atividade portuária e garantir as respetivas acessibilidades marítimas e terrestres, em conformidade com os instrumentos de gestão territorial aplicáveis e sem prejuízo das competências das administrações portuárias."
+  },
+  "69829097": {
+   "fragment_id": "69828961",
+   "type": 11,
+   "heading": "Artigo 7.º — Conteúdo documental dos POOC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conteúdo documental dos POOC\n\n1 - Os POOC são constituídos pelos seguintes elementos:\n\na) Regulamento, que contém a disciplina definida;\n\nb) Planta síntese, que traduz graficamente a disciplina definida.\n\n2 - Os POOC são ainda acompanhados dos seguintes elementos:\n\na) Relatório, que justifica a disciplina definida, fundamentando as principais medidas, indicações e disposições adotadas;\n\nb) Relatório ambiental, no qual se identificam, descrevem e avaliam os eventuais efeitos significativos no ambiente resultantes da aplicação do plano, bem como as alternativas razoáveis, tendo em conta os objetivos e o âmbito de aplicação territorial respetivos;\n\nc) Planta de condicionantes, identificando as servidões administrativas e as restrições de utilidade pública em vigor;\n\nd) Planta de enquadramento, abrangendo a área de intervenção devidamente assinalada e a zona envolvente, bem como as principais vias de comunicação existentes;\n\ne) Programa de medidas de gestão, proteção, conservação e valorização dos recursos hídricos e sistemas naturais associados abrangidos pelo plano;\n\nf) Planta e programa de intervenções por praia ou grupo de praias, incluindo os planos de praia desenvolvidos à escala 1:2000 ou superior, sempre que se justifique;\n\ng) Programa de execução, contendo as principais ações e conteúdos necessários para a implementação do plano, indicando as entidades responsáveis pela sua implementação e concretização, bem como a estimativa dos custos associados e o cronograma da sua execução, e definindo medidas de emergência para as áreas vulneráveis e de risco;\n\nh) Estudos de caracterização física, ambiental, paisagística, social, económica e urbanística que fundamentem os regimes de salvaguarda propostos;\n\ni) Planta da situação existente;\n\nj) Elementos gráficos de maior detalhe que ilustrem situações específicas do plano;\n\nk) Participações recebidas em sede de discussão pública e respetivo relatório de ponderação."
+  },
+  "69829098": {
+   "fragment_id": "69828962",
+   "type": 11,
+   "heading": "Artigo 8.º — Zona terrestre de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Zona terrestre de proteção\n\n1 - A zona terrestre de proteção é composta pela margem das águas do mar e por uma faixa, medida na horizontal, com uma largura de 500 m, contados a partir da linha que limita a margem das águas do mar, podendo ser ajustada para uma largura máxima de 1000 m quando se justifique acautelar a integração de sistemas biofísicos fundamentais no contexto territorial objeto do plano.\n\n2 - O ajustamento da largura máxima, até 1000 m, a que se refere o número anterior, tem por objetivo promover a abrangência de unidades territoriais homogéneas em estreita dependência com a dinâmica costeira, designadamente sistemas dunares, arribas fósseis, lagunas costeiras, estuários, sapais e outras zonas húmidas costeiras."
+  },
+  "69829099": {
+   "fragment_id": "69828963",
+   "type": 11,
+   "heading": "Artigo 9.º — Zona marítima de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Zona marítima de proteção\n\n1 - A zona marítima de proteção é a faixa compreendida entre a linha limite do leito das águas do mar e a batimétrica dos 30 m referenciada ao zero hidrográfico.\n\n2 - A ocupação e o uso da zona marítima de proteção devem ser estabelecidos em função dos valores que se pretendem proteger e salvaguardar, em particular das zonas com especial interesse para a conservação da natureza e da biodiversidade, bem como da sustentabilidade da exploração dos seus recursos.\n\n3 - O POOC deve demarcar, para a zona marítima de proteção, as áreas relativas às atividades existentes, previstas ou potenciais.\n\n4 - A definição dos níveis de proteção e respetiva demarcação deve atender aos princípios de subsidiariedade e complementaridade com o espaço marítimo, suas utilizações e ocupações."
+  },
+  "69829100": {
+   "fragment_id": "69828964",
+   "type": 11,
+   "heading": "Artigo 10.º — Ordenamento e gestão das praias marítimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ordenamento e gestão das praias marítimas\n\n1 - Para efeitos do ordenamento e da disciplina dos usos das praias marítimas, os POOC devem proceder à classificação das praias, nos termos do anexo i ao presente diploma, do qual faz parte integrante, de acordo com a seguinte tipologia:\n\na) Praia urbana;\n\nb) Praia periurbana;\n\nc) Praia seminatural;\n\nd) Praia natural;\n\ne) Praia com uso restrito;\n\nf) Praia com uso interdito.\n\n2 - Os planos de praia são constituídos por peças escritas e gráficas e devem identificar:\n\na) As faixas de risco;\n\nb) A localização dos equipamentos e infraestruturas de apoio à praia;\n\nc) As tipologias de apoios de praia e equipamentos.\n\n3 - Compete à APA, I. P., enquanto autoridade nacional da água, monitorizar e reavaliar, caso necessário e atentas as dinâmicas próprias da orla costeira, as faixas de risco e alterar, em função disso, a localização específica dos equipamentos e apoios de praia identificados nos respetivos planos de praia, em articulação com a câmara municipal competente.\n\n4 - As alterações aos planos de praia ocorridas nos termos do disposto no número anterior são objeto de divulgação no sítio da Internet da autoridade nacional da água.\n\n5 - Os planos de praia devem ainda, a título indicativo, demarcar:\n\na) As zonas a afetar aos diferentes usos;\n\nb) No plano de água, as áreas para a utilização balnear;\n\nc) As zonas de banho;\n\nd) No plano de água, os canais de acesso à margem e as áreas de estacionamento de embarcações e meios náuticos de recreio e desporto fora dos espaços-canais definidos e das áreas demarcadas.\n\n6 - Compete à autoridade marítima, em articulação com a autoridade nacional da água e a câmara municipal competente, avaliar a demarcação das zonas referidas no número anterior em função da capacidade do areal e das especificidades locais.\n\n7 - As faixas de risco identificadas no âmbito dos planos de praia devem ser cartografadas sobre fotografias aéreas, cabendo à APA, I. P., divulgar esta informação junto do público, nos termos do artigo 13.º\n\n8 - As zonas de perigo e zonas interditas devem ainda, sempre que possível, ser sinalizadas através da colocação de sinalética e delimitadas, quando necessário e exequível, através de barreiras de proteção.\n\n9 - Sem prejuízo da adoção das medidas necessárias à gestão adequada do espaço e dos recursos específicos de cada praia, a definição ou interdição de outros aspetos relativos aos usos públicos específicos consta de editais de praia, quando estabelecidos pelos órgãos locais da Direção-Geral da Autoridade Marítima, e deve contemplar, designadamente, o seguinte:\n\na) Interdição da utilização dos parques e zonas de estacionamento para outras atividades sem licenciamento prévio;\n\nb) Interdição da permanência de autocaravanas ou similares nos parques e zonas de estacionamento, em período noturno a definir;\n\nc) Interdição de atividades desportivas, designadamente jogos de bola, fora das áreas terrestres ou aquáticas expressamente demarcadas;\n\nd) Interdição de atividades com fins económicos de apanha de plantas e mariscagem fora dos locais e períodos sazonais estipulados;\n\ne) Interdição de permanência e circulação de animais fora das zonas autorizadas;\n\nf) Interdição de circulação e de acesso à margem e estacionamento de embarcações e meios náuticos de recreio e desporto fora dos espaços-canais definidos e das áreas demarcadas;\n\ng) Interdição da utilização de equipamentos sonoros e desenvolvimento de atividades geradoras de ruído que, nos termos da lei, possam causar incomodidade;\n\nh) Interdição do depósito de lixo fora dos recetáculos próprios;\n\ni) Interdição do exercício de atividades de venda ambulante sem licenciamento prévio;\n\nj) Interdição de atividades publicitárias sem licenciamento prévio e fora das áreas demarcadas ou dos painéis instalados;\n\nk) Interdição de sobrevoo por aeronaves com motor abaixo de 1000 pés, com exceção dos destinados a operações de vigilância e salvamento e outros meios aéreos de desporto e recreio, fora dos canais de atravessamento autorizados;\n\nl) Interdição de acampar fora dos parques de campismo;\n\nm) Interdição de circulação no plano de água de embarcações, motas náuticas e jet-ski em áreas definidas para outros fins;\n\nn) Interdição da prática de surf, windsurf e outras atividades desportivas similares em áreas reservadas a banhistas;\n\no) Interdição ou condicionamento do acesso, circulação e permanência nas zonas interditas e de perigo."
+  },
+  "69829101": {
+   "fragment_id": "69828965",
+   "type": 11,
+   "heading": "Artigo 11.º — Praias de uso limitado e praias com uso suspenso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Praias de uso limitado e praias com uso suspenso\n\n1 - Podem ser declaradas como «praias de uso limitado», as praias suportadas por arribas em que, em situação de preia-mar média no período balnear, a maior parte do areal disponível é ocupado pelas faixas de risco das arribas, as quais correspondem à área passível de ser ocupada pelos resíduos de desmoronamentos ou queda de blocos.\n\n2 - A identificação das «praias de uso limitado» efetua-se através da portaria que procede à identificação das águas balneares e à qualificação das praias de banhos, nos termos do disposto no Decreto-Lei n.º 135/2009, de 3 de junho, revisto e republicado pelo Decreto-Lei n.º 113/2012, de 23 de maio, e ainda através de painel informativo junto ao acesso à praia.\n\n3 - Podem ser declaradas como «praias com uso suspenso», as praias que temporariamente não devam estar sujeitas a utilização balnear, devido à ocorrência de caso de força maior ou de emergência grave que afete a segurança dos utentes, a saúde pública ou o equilíbrio biofísico.\n\n4 - A declaração de «praia com uso suspenso» compete à APA, I. P., mediante parecer prévio do órgão local da Direção-Geral da Autoridade Marítima e de outras entidades competentes em razão da matéria ou da área de jurisdição.\n\n5 - Para efeitos do número anterior, a publicitação da declaração de «praia com uso suspenso» é realizada mediante a afixação de edital e de sinalética apropriada junto ao acesso à praia, nos termos do n.º 4 do artigo 16.º"
+  },
+  "69829102": {
+   "fragment_id": "69828966",
+   "type": 1,
+   "heading": "Capítulo III — Mecanismos de prevenção associados ao risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Mecanismos de prevenção associados ao risco"
+  },
+  "69829103": {
+   "fragment_id": "69828967",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação e mitigação do risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação e mitigação do risco\n\n1 - Compete à APA, I. P., através dos seus serviços regionais e em articulação com os órgãos locais da Direção-Geral da Autoridade Marítima e com a proteção civil municipal, efetuar a avaliação e monitorização das situações de risco no litoral e definir e implementar as respetivas medidas de mitigação e controle.\n\n2 - A avaliação do grau de risco deve ser suportada em programas de monitorização específicos devidamente ajustados ao contexto geológico e morfológico e padrões de ocupação existentes na orla costeira, de acordo com os critérios definidos no anexo ii ao presente diploma, do qual faz parte integrante.\n\n3 - A implementação das medidas referidas no n.º 1 deve estar concluída até ao início da época balnear da respetiva praia."
+  },
+  "69829104": {
+   "fragment_id": "69828968",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação e sinalização relativa ao risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação e sinalização relativa ao risco\n\n1 - A informação relativa às faixas de risco identificadas nos POOC deve ser devidamente veiculada junto da população, nomeadamente com recurso a painéis informativos por praia com o respetivo mapeamento, podendo, a qualquer momento, ser atualizada em função dos elementos e informação recolhida na monitorização desenvolvida pelas autoridades competentes.\n\n2 - As áreas de risco, enquanto áreas onde é expectável a ocorrência de desmoronamentos ou queda de bloco no curto prazo, ou com suscetibilidade elevada ao galgamento, inundação ou outros fenómenos hidrodinâmicos extremos, devem, sempre que possível, ser sinalizadas no local como zonas de perigo ou zonas interditas.\n\n3 - Sem prejuízo do previsto no artigo 5.º do Estatuto do Nadador-Salvador, aprovado pelo Decreto-Lei n.º 118/2008, de 10 de julho, compete aos nadadores-salvadores auxiliar e advertir os utentes das praias para situações que, nos termos dos artigos 14.º e 15.º do presente diploma, constituam risco para a saúde ou integridade física, próprias ou de terceiros.\n\n4 - Para efeitos do disposto no n.º 1 do artigo 15.º, compete ainda ao nadador-salvador, no caso de permanência dos utentes em zona interdita após advertência para abandonar o local, comunicar de imediato esse facto aos órgãos locais da Direção-Geral da Autoridade Marítima, que pode proceder ao levantamento do respetivo auto de notícia."
+  },
+  "69829105": {
+   "fragment_id": "69828969",
+   "type": 11,
+   "heading": "Artigo 14.º — Zonas de perigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Zonas de perigo\n\n1 - Os utentes das praias e demais zonas da orla costeira devem manter-se afastados das zonas assinaladas como «zonas de perigo», e respeitar, no caso das arribas e sempre que possível, a distância correspondente a uma vez e meia a altura da arriba ou outra distância que seja fixada para o local, nomeadamente devido ao risco de desmoronamentos ou quedas de blocos.\n\n2 - Caso não exista sinalética a indicar que se trata de uma zona de perigo, o órgão local da Direção-Geral da Autoridade Marítima pode ordenar o abandono do local."
+  },
+  "69829106": {
+   "fragment_id": "69828970",
+   "type": 11,
+   "heading": "Artigo 15.º — Zonas interditas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Zonas interditas\n\n1 - Nas zonas assinaladas como «zonas interditas», nomeadamente devido ao risco de desmoronamentos ou queda de blocos, ou com suscetibilidade elevada ao galgamento, inundação ou outros fenómenos hidrodinâmicos extremos, é interdita a permanência de pessoas ou a utilização para qualquer fim ou atividade, incluindo o acesso, atravessamento ou a circulação a pé.\n\n2 - Caso não exista sinalética a indicar que se trata de uma zona interdita, o órgão local da Direção-Geral da Autoridade Marítima pode ordenar o abandono do local, sem prejuízo das sanções aplicáveis."
+  },
+  "69829107": {
+   "fragment_id": "69828971",
+   "type": 11,
+   "heading": "Artigo 16.º — Sinalética e barreiras de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sinalética e barreiras de proteção\n\n1 - Independentemente da utilização das praias e demais zonas da orla costeira, para a prática balnear ou para recreio e lazer, os utentes devem respeitar a sinalética colocada que contenha, nomeadamente, a indicação de perigo de desmoronamento ou queda de blocos de arribas ou a indicação de zona interdita.\n\n2 - Os utentes das zonas referidas no número anterior estão ainda proibidos de transpor as barreiras de proteção existentes, nomeadamente as que visem impedir o acesso a zonas sinalizadas com sinalética de perigo ou interdição.\n\n3 - É proibido destruir, danificar, deslocar ou remover a sinalética ou as barreiras de proteção existentes nas praias e demais zonas da orla costeira, incluindo dunas e arribas.\n\n4 - Compete à APA, I. P., a identificação dos locais a sinalizar com os diferentes modelos de placas, cabendo à câmara municipal competente proceder à respetiva instalação.\n\n5 - Os modelos das placas de sinalização a utilizar são aprovados por portaria dos membros do Governo responsáveis pelas áreas do ambiente e do ordenamento do território."
+  },
+  "69829108": {
+   "fragment_id": "69828972",
+   "type": 11,
+   "heading": "Artigo 17.º — Circulação de veículos motorizados nas praias e demais zonas da orla costeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Circulação de veículos motorizados nas praias e demais zonas da orla costeira\n\n1 - É proibida a circulação e o estacionamento de veículos motorizados, nomeadamente automóveis, motociclos, ciclomotores, triciclos e quadriciclos, nas praias, dunas e arribas, fora dos locais estabelecidos para o efeito, bem como nos locais identificados em planos de ordenamento ou de gestão de áreas classificadas nos termos do Decreto-Lei n.º 142/2008, de 24 de julho, e ainda nas zonas definidas nos POOC.\n\n2 - Excetuam-se do disposto no número anterior o exercício de atividades legalmente previstas, como as agrícolas, florestais, de pesca e apanha, e a circulação de viaturas em missões de manutenção, urgência e socorro, fiscalização, segurança, transporte de pessoas com mobilidade condicionada para efeitos de acesso às praias de utilização balnear, bem como a decorrente das atividades devidamente licenciadas."
+  },
+  "69829109": {
+   "fragment_id": "69828973",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e sanções"
+  },
+  "69829110": {
+   "fragment_id": "69828974",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência para a fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência para a fiscalização\n\nA fiscalização do cumprimento do disposto no presente diploma, bem como das respetivas disposições regulamentares, compete à APA, I. P., às autoridades marítimas e portuárias, às autarquias locais e às autoridades policiais."
+  },
+  "69829111": {
+   "fragment_id": "69834275",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - Constitui contraordenação, para efeitos do disposto no presente diploma:\n\na) A realização de obras e a utilização de edificações ou do solo em violação das disposições do POOC;\n\nb) A permanência nas zonas interditas ou a sua utilização para qualquer fim ou atividade, incluindo o acesso, o atravessamento ou a circulação a pé, nos termos do n.º 1 do artigo 15.º;\n\nc) A transposição de barreiras de proteção existentes nas praias e demais zonas da orla costeira, nos termos do n.º 2 do artigo 16.º;\n\nd) A destruição, danificação, deslocação ou remoção da sinalética ou das barreiras de proteção existentes nas praias e demais zonas da orla costeira, nos termos do n.º 3 do artigo 16.º;\n\ne) A violação do disposto no n.º 1 do artigo 17.º\n\n2 - A contraordenação prevista na alínea e) do número anterior corresponde, para efeitos do disposto no Código da Estrada, a contraordenação grave.\n\n3 - A tentativa e a negligência são puníveis."
+  },
+  "69829112": {
+   "fragment_id": "69834276",
+   "type": 11,
+   "heading": "Artigo 20.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Coimas\n\n1 - A contraordenação prevista na alínea a) do n.º 1 do artigo anterior é punível nos termos do disposto no artigo 104.º do Decreto-Lei n.º 380/99, de 22 de setembro, revisto e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, e posteriormente alterado pelos Decretos-Leis n.os 181/2009, de 7 de agosto, e 2/2011, de 6 de janeiro (RJIGT).\n\n2 - As contraordenações previstas nas alíneas b) e c) do n.º 1 do artigo anterior são puníveis com coima entre (euro) 30 e (euro) 100, podendo o limite máximo elevar-se, no caso de pessoa coletiva, até (euro) 300.\n\n3 - A contraordenação prevista na alínea d) do n.º 1 do artigo anterior é punível com coima entre (euro) 250 e (euro) 1000, podendo o limite máximo elevar-se, no caso de pessoa coletiva, até (euro) 3000.\n\n4 - A contraordenação prevista na alínea e) do n.º 1 do artigo anterior é punível com coima entre (euro) 250 e (euro) 2500, podendo o limite máximo elevar-se, no caso de pessoa coletiva, até (euro) 15 000, tratando-se de negligência, e até (euro) 30 000, tratando-se de dolo.\n\n5 - No caso previsto na alínea b) do n.º 1 do artigo anterior, os limites mínimo e máximo da coima são elevados para o dobro quando:\n\na) O agente permaneça depois de ter sido advertido pelo nadador-salvador, nos termos do n.º 3 do artigo 13.º;\n\nb) O agente seja um adulto acompanhado por menor de 13 anos.\n\n6 - No caso previsto na alínea c) do n.º 1 do artigo anterior, é aplicável uma única coima ao infrator quando da transposição de barreiras de proteção existentes nas praias e demais zonas da orla costeira resulte a permanência numa zona interdita.\n\n7 - Em caso de negligência, os limites mínimos e máximos das coimas são reduzidos para metade.\n\n8 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "69829113": {
+   "fragment_id": "69834277",
+   "type": 11,
+   "heading": "Artigo 21.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sanções acessórias\n\nConsoante a gravidade da contraordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) A privação do direito a subsídios outorgados por entidades ou serviços públicos;\n\nb) A perda de equipamentos, objetos ou de meios de ação utilizados na prática da infração;\n\nc) Suspensão de autorizações, licenças e alvarás por um período máximo de dois anos;\n\nd) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização de autoridade administrativa."
+  },
+  "69829114": {
+   "fragment_id": "69834278",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nA repartição do produto das coimas previstas no artigo 20.º é feita da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 15 % para entidade que procede à instrução do processo e à aplicação da coima;\n\nc) 15 % para a entidade que levanta o auto;\n\nd) 10 % para o Fundo de Proteção dos Recursos Hídricos;"
+  },
+  "69829115": {
+   "fragment_id": "69834279",
+   "type": 11,
+   "heading": "Artigo 23.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competência sancionatória\n\n1 - A instrução dos processos e a aplicação das coimas relativamente à contraordenação prevista na alínea a) do n.º 1 do artigo 19.º compete às entidades referidas no artigo 104.º do RJIGT.\n\n2 - A instrução dos processos e a aplicação das coimas relativamente às contraordenações previstas nas alíneas b), c) e d) do n.º 1 do artigo 19.º e respetivas sanções acessórias compete à APA, I. P., e aos órgãos locais da Direção-Geral da Autoridade Marítima.\n\n3 - Quando as contraordenações referidas no número anterior ocorram em áreas afetas às administrações portuárias, a instrução dos processos e aplicação das coimas e respetivas sanções acessórias compete igualmente às entidades competentes em razão da área de jurisdição em causa.\n\n4 - Quando esteja em causa a contraordenação prevista na alínea e) do n.º 1 do artigo 19.º, a instrução dos processos e a aplicação das coimas compete à APA, I. P.\n\n5 - Quando a entidade autuante não tenha competência para instruir o processo, o mesmo deve ser remetido para a entidade competente nos termos dos números anteriores.\n\n6 - O processo das contraordenações previstas no presente diploma segue o regime estabelecido na parte ii da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, revista e republicada pela Lei n.º 89/2009, de 31 de agosto."
+  },
+  "69829116": {
+   "fragment_id": "69834280",
+   "type": 11,
+   "heading": "Artigo 24.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Direito subsidiário\n\nÀs contraordenações previstas no presente diploma é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 132/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249) Norma transitória: 1- A alteração ao n.º 4 do artigo 23.º do Decreto-Lei n.º 159/2012, de 24 de julho, na parte referente à competência para a instrução de processos e aplicação das coimas e respetivas sanções acessórias relativas à contraordenação prevista na alínea e) do n.º 1 do artigo 19.º, aplica-se aos processos em que, à data da entrada em vigor do decreto-lei 132/2015, de 9 de julho, o arguido não tenha ainda sido notificado para efeitos do exercício do direito de audiência e defesa. 2 - Nos casos não abrangidos pelo número anterior, mantém-se a competência da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), quanto à instrução do processo e aplicação das respetivas coimas e sanções acessórias. 3 - Para os efeitos do disposto no n.º 1, os processos e autos de notícia são enviados pela APA, I. P., à Direção-Geral da Autoridade Marítima com vista ao seu envio aos órgãos locais da Autoridade Marítima Nacional quando, nos termos do n.º 1, devam ser instruídos e decididos por estas entidades."
+  },
+  "69829117": {
+   "fragment_id": "69834281",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares e finais"
+  },
+  "69829118": {
+   "fragment_id": "69834282",
+   "type": 11,
+   "heading": "Artigo 25.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regiões Autónomas\n\nO disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira com as necessárias adaptações, sem prejuízo da sua adequação à especificidade regional a introduzir por decreto legislativo regional."
+  },
+  "69829119": {
+   "fragment_id": "69834283",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma revogatória\n\n1 - Sem prejuízo do disposto no número seguinte, são revogados:\n\na) O Decreto-Lei n.º 309/93, de 2 de setembro, alterado pelos Decretos-Leis n.os 218/94, de 20 de agosto, 151/95, de 24 de junho, e 113/97, de 10 de maio;\n\nb) O artigo 1.º do Decreto-Lei n.º 218/95, de 26 de agosto;\n\nc) O Decreto-Lei n.º 96/2010, de 30 de julho.\n\n2 - Mantêm-se em vigor os planos de ordenamento da orla costeira vigentes à data da entrada em vigor do presente diploma."
+  },
+  "69829120": {
+   "fragment_id": "69834284",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "69829121": {
+   "fragment_id": "69834285",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 10.º)\n\n1 - Para efeitos de correspondência das tipologias de praia referidas no n.º 1 do artigo 10.º com as identificadas no anexo i do Decreto-Lei n.º 309/93, de 2 de setembro, alterado pelos Decretos-Leis n.os 218/94, de 20 de agosto, 151/95, de 24 de junho, e 113/97, de 10 de maio, deve atender-se ao seguinte:\n\n(ver documento original)\n\n2 - Considera-se praia urbana a praia adjacente a núcleo urbano consolidado, sujeita a forte procura, que contém:\n\na) Vias de acesso automóvel, parques e zonas de estacionamento delimitados e pavimentados;\n\nb) Acessos pedonais construídos ou consolidados;\n\nc) Apoios de praia, definidos em função da capacidade de carga da praia;\n\nd) Equipamentos definidos em função dos existentes na frente urbana;\n\ne) Infraestruturas de saneamento básico, de abastecimento de água, de energia e comunicações de emergência;\n\nf) Plano de água afeto a usos múltiplos, com canais sinalizados de circulação e acesso à margem das embarcações e de outros meios náuticos;\n\ng) Água balnear identificada, nos termos da legislação em vigor;\n\nh) Condicionamentos específicos à pesca lúdica;\n\ni) Assistência a banhistas nos termos da legislação em vigor.\n\n3 - Considera-se praia periurbana a praia afastada de núcleos urbanos, sujeita a forte procura, que contém:\n\na) Vias de acesso automóvel, parques e zonas de estacionamento delimitados e pavimentados;\n\nb) Acessos pedonais construídos ou consolidados, com localização e conceção adequadas à minimização de impactes negativos em zonas sensíveis, nomeadamente dunas;\n\nc) Proteção e requalificação de zonas sensíveis;\n\nd) Apoios de praia, definidos em função da capacidade de carga da praia;\n\ne) Equipamentos definidos em função de estudos de ordenamento;\n\nf) Infraestruturas de saneamento básico, de abastecimento de água, de energia e comunicações de emergência;\n\ng) Plano de água afeto a usos múltiplos, com canais sinalizados de circulação e acesso à margem das embarcações e de outros meios náuticos;\n\nh) Água balnear identificada, nos termos da legislação em vigor;\n\ni) Condicionamentos específicos à pesca lúdica;\n\nj) Condicionamentos específicos à circulação de embarcações e outros meios náuticos motorizados quando existam espécies a conservar ou proteger;\n\nk) Assistência a banhistas nos termos da legislação em vigor.\n\n4 - Considera-se praia seminatural a praia que, em função da sua capacidade de suporte para utilização balnear, contém:\n\na) Vias de acesso automóvel com pavimento permeável e semipermeável e delimitadas na proximidade da zona de praia;\n\nb) Parques de estacionamento com pavimento permeável e semipermeável e delimitados;\n\nc) Acessos pedonais consolidados e delimitados, com localização e conceção adequadas à minimização de impactes negativos em zonas sensíveis, nomeadamente dunas;\n\nd) Proteção e requalificação de zonas sensíveis;\n\ne) Apoios de praia definidos em função da capacidade de carga da praia;\n\nf) Infraestruturas de saneamento básico;\n\ng) Plano de água afeto a usos múltiplos, com canais sinalizados de circulação e acesso à margem de embarcações e outros meios náuticos;\n\nh) Condicionamentos específicos à pesca lúdica;\n\ni) Condicionamentos específicos à circulação de embarcações e outros meios náuticos quando existam espécies a conservar ou proteger;\n\nj) Água balnear identificada, nos termos da legislação em vigor;\n\nk) Assistência a banhistas nos termos da legislação em vigor.\n\n5 - Considera-se praia natural a praia que contém:\n\na) Via de acesso automóvel a um ponto único da praia com pavimento permeável e semipermeável;\n\nb) Zonas de estacionamento com pavimento permeável e semipermeável e delimitadas por elementos naturais ou obstáculos adequados à minimização dos impactes negativos em zonas sensíveis e com localização anterior à margem das águas do mar e a faixas de proteção estabelecidas;\n\nc) Inexistência de apoios de praia e equipamentos, com exceção de apoios de praia amovíveis e de caráter sazonal, os quais serão definidos em função dos condicionamentos ambientais da praia e sua envolvente;\n\nd) Plano de água afeto a usos múltiplos, com condicionamentos específicos em função da existência de espécies a conservar ou proteger;\n\ne) Vigilância da qualidade das águas, nos termos da legislação em vigor;\n\nf) Assistência a banhistas nos termos da legislação em vigor.\n\n6 - Considera-se praia com uso restrito a praia que, em função da necessidade de proteção biofísica local, da manutenção do seu equilíbrio ou da segurança dos utentes, apresenta as características seguintes:\n\na) Inexistência de vias de acesso automóvel;\n\nb) Acessos pedonais condicionados e delimitados, com localização e conceção adequadas à minimização de impactes negativos em zonas sensíveis;\n\nc) Inexistência de apoios de praia e equipamentos;\n\nd) Plano de água afeto a usos condicionados em função da existência de espécies a conservar ou proteger.\n\n7 - Considera-se praia com uso interdito a praia que, por força da necessidade de proteção da integridade biofísica do espaço ou da segurança das pessoas, não tem aptidão para a utilização balnear.\n\n8 - A classificação tipológica de praias previstas no artigo 10.º do diploma de que faz parte integrante o presente anexo será efetuada no âmbito dos POOC.\n\n9 - Qualquer das praias previstas nas alíneas a) a e) do n.º 1 do artigo 10.º do diploma de que faz parte integrante o presente anexo pode ser declarada como «praia com uso suspenso»."
+  },
+  "69829122": {
+   "fragment_id": "69834286",
+   "type": 14,
+   "heading": "Anexo II — (a que refere o n.º 2 do artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que refere o n.º 2 do artigo 12.º)\n\n1 - Para efeitos de avaliação e monitorização das situações de risco no litoral, consideram-se as seguintes tipologias de risco associadas à evolução e dinâmica do litoral:\n\na) Erosão costeira, traduzida pelo recuo da linha costa (perda de área emersa do território), e que inclui:\n\ni) Amputamento e recuo dos sistemas dunares frontais;\n\nii) Redução da largura e perda volumétrica da praia emersa - incluindo a dinâmica sazonal;\n\niii) Recuo linear e paralelo em arribas talhadas em materiais brandos;\n\nb) Galgamento e inundação costeira;\n\nc) Movimentos de massa de vertente em arribas, e que inclui:\n\ni) Queda de blocos;\n\nii) Deslizamentos;\n\niii) Tombamentos;\n\nd) Fenómenos de instabilidade em arribas, e que inclui:\n\ni) Fendas de tração paralelas a face talude;\n\nii) Erosão diferencial;\n\niii) Inclinação negativa da arriba;\n\niv) Blocos em consola em situação próxima do equilíbrio limite;\n\nv) Erosão marinha de sopé (sapas/subescavações de sopé);\n\nvi) Fraturação pouco espaçada.\n\n2 - A avaliação do grau de risco nas áreas de risco deve ser suportada em programas de monitorização específicos, tendo por base a análise individual e a ponderação das componentes Vulnerabilidade (suscetibilidade ao fenómeno), Exposição (Pessoas e bens expostas ao fenómeno) e Perigosidade [Severidade (intensidade do fenómeno) x Probabilidade (frequência do fenómeno)].\n\nA análise de cada uma das referidas componentes deve atender à tipologia dos riscos presentes, consoante se trate de litoral de arriba ou litoral arenoso.\n\nI - Litoral de arriba\n\n1 - Componente antrópica:\n\nUsos e tipo de ocupação em risco:\n\na) Áreas urbanas ou urbanizáveis (ocupação permanente ou temporária);\n\nb) Praias:\n\ni) Uso balnear - índice de ocupação (elevado, médio, baixo), permanência (época balnear, parcial/todo o ano);\n\nii) Apoios de praia (época balnear, parcial/todo ao ano);\n\nc) Áreas adjacentes de fruição pública (paredões, passeios, marginais):\n\ni) Circulação e permanência de pessoas (época balnear, parcial/todo o ano);\n\nii) Apoios de praia (época balnear, parcial/todo o ano).\n\n2 - Componente geodinâmica:\n\na) Avaliação da suscetibilidade à ocorrência de movimentos de massa de vertente (mecanismos e potencial de instabilidade verificados, baseado na análise das características geológicas, geomorfológicas e geotécnicas da arriba);\n\nb) Intensidade do fenómeno (dimensão e área afetada pelo fenómeno - com base no historial de registos/estudos/monitorização existentes);\n\nc) Frequência local/sectorial do fenómeno em locais com litologia homogénea (registo/historial das ocorrências dos movimentos de massa).\n\nII - Litoral arenoso\n\n1 - Componente antrópica:\n\nUsos e tipo de ocupação em risco:\n\na) Pessoas (moradores permanentes ou temporários existentes nas áreas ou espaços urbanos/urbanizados);\n\nb) Bens:\n\ni) Património construído - áreas ou espaços urbanos/urbanizados com caráter permanente ou temporário; património natural/valores sensíveis);\n\nii) Obras de proteção/defesa costeira.\n\n2 - Componente geodinâmica:\n\na) Avaliação da suscetibilidade e vulnerabilidade à erosão/recuo do local e aos fenómenos de galgamento e inundação costeira;\n\nb) Intensidade do fenómeno (extensão da área afetada pelo fenómeno erosivo/recuo e por episódios de galgamento e inundação costeira - com base no historial de registos/estudos/monitorização existentes);\n\nc) Frequência do fenómeno (frequência temporal dos fenómeno erosivo/recuo e dos episódios de galgamento e inundação costeira - com base no historial de registos/estudos/monitorização existentes)."
+  },
+  "69826101": {
+   "fragment_id": "69828974",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência para a fiscalização",
+   "in_force_from": "2015-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 132/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 18.º — Competência para a fiscalização\n\nA fiscalização do cumprimento do disposto no presente diploma, bem como das respetivas disposições regulamentares, compete à APA, I. P., aos órgãos locais da Autoridade Marítima Nacional e à Polícia Marítima em particular, à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), às autoridades portuárias, às autarquias locais e demais autoridades policiais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 132/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249), em vigor a partir de 2015-07-14"
+  },
+  "69826102": {
+   "fragment_id": "69834279",
+   "type": 11,
+   "heading": "Artigo 23.º — Competência sancionatória",
+   "in_force_from": "2015-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 132/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 23.º — Competência sancionatória\n\n1 - A instrução dos processos e a aplicação das coimas relativamente à contraordenação prevista na alínea a) do n.º 1 do artigo 19.º compete às entidades referidas no artigo 104.º do RJIGT.\n\n2 - A instrução dos processos e a aplicação das coimas relativamente às contraordenações previstas nas alíneas b), c) e d) do n.º 1 do artigo 19.º e respetivas sanções acessórias compete à APA, I. P., e aos órgãos locais da Direção-Geral da Autoridade Marítima.\n\n3 - Quando as contraordenações referidas no número anterior ocorram em áreas afetas às administrações portuárias, a instrução dos processos e aplicação das coimas e respetivas sanções acessórias compete igualmente às entidades competentes em razão da área de jurisdição em causa.\n\n4 - A instrução dos processos e a aplicação das coimas relativamente às contraordenações previstas na alínea e) do n.º 1 do artigo 19.º, e a aplicação das respetivas sanções acessórias, são da competência dos órgãos locais da Autoridade Marítima Nacional.\n\n5 - Quando a entidade autuante não tenha competência para instruir o processo, o mesmo deve ser remetido para a entidade competente nos termos dos números anteriores.\n\n6 - O processo das contraordenações previstas no presente diploma segue o regime estabelecido na parte ii da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, revista e republicada pela Lei n.º 89/2009, de 31 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 132/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2015-69773249), em vigor a partir de 2015-07-14"
+  },
+  "69826094": {
+   "fragment_id": "69824498",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Frederico Agostinho Braga Lino - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 16 de julho de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 16 de julho de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

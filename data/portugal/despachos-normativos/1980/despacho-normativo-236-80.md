@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:470414:por
+title: Despacho Normativo n.º 236/80
+short_title: null
+summary: Inclui no Programa de Investimentos do Sector Empresarial do Estado para 1980 os projectos do Caica - Complexo Agro-Industrial
+  do Cachão, E. P.
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura e Pescas
+proposing_entity: null
+official_number: 236/80
+official_date: null
+publication_date: '1980-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/1980, Série I de 1980-08-09
+  number: '183'
+  series: I
+  supplement: null
+  pages: 2132 - 2132
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18300/21322132.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470414'
+  dre_path: /dr/detalhe/despacho-normativo/236-1980-470414
+  internal: pt:dre:470414:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/236-1980-470414
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/236-1980-470414
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-08-09T00:00:00Z'
+integrity:
+  source_sha256: 41afa637b01793b57a7361c52eef639a6f98fdec0c32198edcfbb35a968cf0ca
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-236-470414.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 236/80
+
+Tendo em conta os trabalhos elaborados no âmbito da Comissão Técnica Interministerial de Planeamento para o Sector Empresarial do Estado, criada nos termos do [Despacho Normativo n.º 325/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/325-1979-363774), de 3 de Novembro, e dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 215/80, de 9 de Junho, os Ministros das Finanças e do Plano e da Agricultura e Pescas determinam:
+
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1980 os projectos do Caica - Complexo Agro-Industrial do Cachão, E. P., a seguir discriminados:
+
+Projectos em curso: ... Formação bruta de capital fixo em 1980 (milhares de contos)
+
+1) Matadouro ... 160
+
+2) H. industriais (frutícolas e hortícolas) ... 16
+
+3) Frutas preparadas ... 13
+
+4) Canditura ... 11
+
+5) Frutos secos ... 5
+
+6) Lagar de azeite ... 11
+
+7) Destilaria ... 5
+
+8) Lavadaria de lãs ... 1
+
+9) Queijaria ... 13
+
+10) Serralharia, ferramentaria, carpintaria e mecânica auto ... 2
+
+11) Comercialização, aprovisionamento e transportes ... 19
+
+12) Central de tratamento de leite ... 30
+
+13) Administrativos e financeiros ... 21
+
+Subtotal ... 307
+
+Projectos novos: ... Formação bruta de capital fixo em 1980 (milhares de contos)
+
+1) Equipamento administrativo ... 6
+
+2) Equipamento de congelação ... 14
+
+3) Transporte ... 33,1
+
+4) Equipamento de armazém ... 8
+
+5) Equipamento para castanha ... 5
+
+6) Instalação de produção de cogumelos para 200 t/ano ... 6
+
+7) Ceifeiras-debulhadoras (6) e enfardadeiras (5) ... 14
+
+8) Equipamento oficinal (serviços auxiliares, serviços mecânicos auto e carpintaria) ... 5
+
+Subtotal ... 91,1
+
+Total ... 398,1
+
+2 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no número anterior.
+
+3 - Este conjunto de projectos representa um Investimento total de 398,1 milhares de contos e será financiado em parte com uma dotação de capital de 91,1 milhares de contos, a incluir no montante global de capital estatuário a fixar no termo do período de instalação.
+
+4 - Para além da verba referida no número anterior, a empresa contará ainda com uma dotação de capital de 120 milhares de contos para realização do aumento de capital autorizado no âmbito do PISEE-79 e liquidação do crédito intercalar contraído junto do sistema bancário ao abrigo da autorização concedida pelo [Despacho Normativo n.º 256/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/256-1979-369633), de 25 de Julho.
+
+5 - Para completar o financiamento do programa de investimentos referido no n.º 1, a empresa utilizará o crédito intercalar referido no número anterior e, ao abrigo do n.º 3 e da alínea e) do n.º 2 do artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a nova redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 19 de Fevereiro, fica autorizada a recorrer ao crédito bancário para obtenção de capital alheio de médio e longo prazo, até ao valor de 187 milhares de contos.
+
+6 - Para efeitos do recurso ao crédito bancário, não será aplicado à empresa regime de bonificação da taxa de juros diferente do em vigor na altura da assinatura do contrato de financiamento para as linhas de crédito refinanciadas pelo SIFAP.
+
+7 - A atribuição das dotações de capital referidas nos n.os 3 e 4 será feita de acordo com o n.º 6 da Resolução do Conselho de Ministros n.º 215/80, de 9 de Junho.
+
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 9 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

@@ -1,0 +1,485 @@
+---
+schema_version: '1.0'
+id: pt:dre:374430:por
+title: Decreto-Lei n.º 183/88
+short_title: null
+summary: Estabelece o quadro legal do seguro de créditos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 183/88
+official_date: null
+publication_date: '1988-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/1988, Série I de 1988-05-24
+  number: '120'
+  series: I
+  supplement: null
+  pages: 2190 - 2193
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12000/21902193.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-01-01'
+version_history:
+  file: decreto-lei-183-88.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1988-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-03-27'
+    amending: pt:dre:471961:por
+    amending_title: Decreto-Lei n.º 127/91
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+  - date: '1999-06-20'
+    amending: pt:dre:309002:por
+    amending_title: Decreto-Lei n.º 214/99
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+  - date: '2007-02-19'
+    amending: pt:dre:517996:por
+    amending_title: Decreto-Lei n.º 31/2007
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+  - date: '2019-01-01'
+    amending: pt:dre:116967078:por
+    amending_title: Decreto-Lei n.º 94/2018
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/183/1988/p/cons/20181114/pt/html
+  oj: null
+  dre: '374430'
+  dre_path: /dr/detalhe/decreto-lei/183-1988-374430
+  internal: pt:dre:374430:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1988-374430
+  metadata_url: https://data.dre.pt/eli/dec-lei/183/1988/p/cons/20181114/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-116967120
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-116967120
+  retrieved_at: '2026-10-22T12:22:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ed20a2e3a79c7596d55c93c5f287de593d4256c5b9207c3afc5bece528d556e4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:22:16Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-183-88.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- AVAL do Estado
+- Aproximação das Legislações
+- Atividade Seguradora
+- Comissão Nacional das Garantias de Créditos
+- Contrato de Garantia Financeira
+- Contrato de Seguro
+- Cosec
+- Crédito à Exportação
+- Empresa
+- Exportação
+- Garantia
+- Importação
+- Prémio de Seguro
+- Regime Jurídico
+- Seguro de Créditos
+relationships:
+- type: amended_by
+  target: pt:dre:471961:por
+  label: Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1991-471961
+  date: '1991-03-22'
+- type: amended_by
+  target: pt:dre:309002:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 11.º;
+    Altera Artigo 15.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002
+  date: '1999-06-15'
+- type: amended_by
+  target: pt:dre:517996:por
+  label: Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo
+    18.º; Altera Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996
+  date: '2007-02-14'
+- type: amended_by
+  target: pt:dre:116967078:por
+  label: Altera Artigo 15.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078
+  date: '2018-11-14'
+article_structure:
+  article_count: 23
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:22:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 183/88
+
+Decreto-Lei n.º 183/88
+
+de 24 de Maio
+
+O seguro de riscos de crédito encontra-se regulado no Decreto-Lei n.º 169/81, de 20 de Junho.
+
+Na designação de seguro de riscos de crédito engloba-se não só o crédito em sentido estrito, mas também os seguros-caução, aval, fiança, de créditos financeiros, de locação financeira e ainda os riscos decorrentes de operações de cobrança.
+
+De harmonia com o referido Decreto-Lei n.º 169/81, a COSEC - Companhia de Seguro de Créditos, E. P., detém o exclusivo do seguro directo de créditos, quer internos quer externos.
+
+Ora, nos termos da 1.ª Directiva do Conselho das Comunidades Europeias, de 24 de Julho de 1973, não é permitido aos Estados membros vedar a exploração cumulativa de seguros de crédito com outros ramos de seguro, admitindo-se apenas, como excepção a esta regra, o seguro de crédito à exportação por conta ou com o apoio do Estado.
+
+Tornando-se necessário adaptar a legislação nacional às regras comunitárias, não se optou pela mera alteração do Decreto-Lei n.º 169/81, de 20 de Junho, mas pela elaboração de um novo quadro legal, introduzindo as clarificações e modificações de pormenor que a experiência colhida na exploração deste tipo de seguros ditou.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Âmbito
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - Os seguros dos ramos «Crédito» e «Caução» regem-se pelas disposições do presente diploma e, subsidiariamente, pelas normas sobre seguros em geral que não sejam incompatíveis com a natureza destes ramos.
+
+2 - O seguro de créditos à exportação de bens e serviços visa as operações de exportação na fase anterior à encomenda firme, na fase de fabrico e na fase de crédito.
+
+3 - O seguro de créditos no mercado interno abrange tanto a fase de fabrico como a fase de crédito.
+
+4 - No seguro de créditos financeiros incluem-se os créditos concedidos por instituições financeiras ou equiparadas, por sociedades de locação financeira e por sociedades de factoring.
+
+5 - No seguro-caução compreende-se o seguro-caução directa e indirecta e ainda o seguro-fiança e o seguro-aval.
+
+###### Artigo 2.º — Âmbito do seguro
+
+Os seguros previstos no artigo anterior podem reportar-se a contratos celebrados e destinados a produzir os seus efeitos, quer em Portugal, quer no estrangeiro.
+
+### Capítulo II — Dos seguros de crédito
+
+###### Artigo 3.º — Riscos seguráveis
+
+1 - Através do seguro de crédito podem ser cobertos os riscos seguintes:
+
+a) Não amortização das despesas suportadas com operações de prospecção de mercados, participação em feiras no estrangeiro e constituição de existências em países estrangeiros;
+
+b) Suspensão ou revogação da encomenda ou resolução arbitrária do contrato pelo devedor na fase anterior à constituição do crédito;
+
+c) Falta ou atraso no pagamento dos montantes devidos ao credor;
+
+d) Variações cambiais relativamente a contratos cujo pagamento seja estipulado em moeda estrangeira;
+
+e) Elevação anormal e imprevisível dos custos de produção resultante da alteração das condições económicas que afectem o fabrico dos bens, a execução dos trabalhos ou a prestação dos serviços.
+
+2 - Os Ministros das Finanças e da Economia podem definir, mediante portaria conjunta, outros riscos susceptíveis de cobertura no âmbito do seguro de créditos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+###### Artigo 4.º — Factores geradores de sinistros
+
+1 - Constituem factos geradores de sinistro, relativamente ao seguro de créditos:
+
+a) A insolvência declarada judicialmente;
+
+b) A insolvência de facto;
+
+c) A concordata judicial;
+
+d) A concordata extrajudicial, desde que celebrada com a generalidade dos credores do devedor e oponível a cada um deles;
+
+e) O incumprimento, ou mora, que prevaleça pelo prazo constitutivo de sinistro indicado na apólice;
+
+f) A rescisão ou suspensão arbitrária do contrato comercial por parte do devedor;
+
+g) A recusa arbitrária do devedor em aceitar os bens ou serviços encomendados;
+
+h) Acto ou decisão do Governo ou de autoridades públicas do país do devedor ou de um país terceiro que obstem ao cumprimento do contrato;
+
+i) Moratória geral decretada pelo governo do país do devedor ou de um país terceiro interveniente no pagamento;
+
+j) Acontecimentos políticos, dificuldades económicas ou medidas legislativas ou administrativas que ocorram ou sejam adoptadas fora de Portugal e que impeçam ou atrasem a transferência de fundos pagos ao abrigo do contrato seguro;
+
+l) Disposições legais adoptadas no país do devedor declarando liberatórios os pagamentos por ele efectuados na divisa local quando, em resultado das flutuações cambiais, tais pagamentos, quando convertidos na divisa do contrato seguro, não atinjam, no momento da transferência, o montante do crédito em dívida;
+
+m) Qualquer medida ou decisão das autoridades portuguesas ou do país do titular da apólice visando especificamente o comércio externo, incluindo as medidas e decisões da Comunidade Europeia relativas ao comércio entre um Estado membro e países terceiros, e que impossibilite a execução do contrato, a entrega dos bens ou a prestação dos serviços contratada, desde que os efeitos de tal medida não sejam compensados de outro modo;
+
+n) Ocorrência, fora de Portugal, de guerras, ainda que não declaradas, revoluções, revoltas, perturbação da ordem pública, anexações ou factos de efeitos análogos;
+
+o) Eventos catastróficos, tais como terramotos, maremotos, erupções vulcânicas, tufões, ciclones ou inundações ou acidentes nucleares, verificados fora de Portugal, sempre que os seus efeitos não sejam de outro modo cobertos.
+
+2 - Para efeitos do disposto no número anterior, entende-se por 'país terceiro' país que não seja o do devedor nem o da seguradora ou o do titular da apólice.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+###### Artigo 5.º — Limites de cobertura
+
+1 - A cobertura é limitada a uma percentagem do crédito seguro, a estabelecer pela seguradora, salvo no caso de seguros celebrados com a garantia do Estado, em que caberá a este aprovar tal percentagem ou dela prescindir.
+
+2 - O valor da indemnização é calculado com aplicação aos prejuízos apurados, dentro dos limites do crédito seguro e da percentagem de cobertura estabelecida.
+
+3 - A seguradora pode fixar na apólice limites para os montantes indemnizáveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+### Capítulo III — Dos seguros de caução
+
+###### Artigo 6.º — Riscos seguráveis
+
+1 - O seguro de caução cobre, directa ou indirectamente, o risco de incumprimento ou atraso no cumprimento das obrigações que, por lei ou convenção, sejam susceptíveis de caução, fiança ou aval.
+
+2 - O Estado, seus estabelecimentos, organismos e serviços civis ou militares, ainda que personalizados, os tribunais, os institutos e empresas públicas, as autarquias locais, suas federações e uniões e as pessoas colectivas de utilidade pública administrativa não podem recusar apólices de seguro de caução nos casos em que, por disposição legal, despacho genérico ou deliberação de órgãos de gestão ou de corpos administrativos ou sociais de entidades dos sectores público ou empresarial do Estado, exista a obrigação de caucionar ou afiançar e seja devido, designadamente, o depósito de numerário, títulos ou outros valores, garantias bancárias ou fiança para assegurar o cumprimento de obrigações legais ou contratuais.
+
+3 - Para efeito do disposto no número anterior, devem as respectivas apólices salvaguardar os direitos dos segurados nos precisos termos da garantia substituída.
+
+4 - Exceptua-se do referido no n.º 2 a obrigação de caucionar o pagamento de pensões de acidente de trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+###### Artigo 7.º — Quantia segura
+
+1 - Os contratos de seguro-caução são, salvo casos excepcionais, celebrados sem estipulação de uma percentagem de descoberto obrigatório a deduzir à quantia segura.
+
+2 - A obrigação de indemnizar, neste tipo de seguro, limita-se à quantia segura.
+
+### Capítulo IV — Disposições comuns
+
+###### Artigo 8.º — Contrato de seguro
+
+1 - Dos contratos de seguro a que se referem os capítulos anteriores deve constar, além do estabelecido no Código Comercial e, bem assim, no n.º 1 do artigo 178.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, e no artigo 13.º do Decreto-Lei n.º 176/95, de 26 de Julho, o seguinte:
+
+a) Identificação do tomador do seguro e do segurado, no caso de as duas figuras não coincidirem na mesma pessoa;
+
+b) Obrigação a que se reporta o contrato de seguro;
+
+c) Percentagem ou quantitativo do crédito seguro;
+
+d) Prazos de participação do sinistro e de pagamento das indemnizações.
+
+2 - A seguradora tem a faculdade de, na apólice, subordinar a eficácia do seguro a condição, bem como estabelecer prazos constitutivos de sinistro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+###### Artigo 9.º — Outorgantes
+
+1 - O seguro de créditos é celebrado com o credor da obrigação segura.
+
+2 - O seguro-caução é celebrado com o devedor da obrigação a garantir ou com o contragarante a favor do respectivo credor.
+
+3 - O segurado pode ceder o direito à indemnização ou transmitir a sua posição contratual a terceiro, nos termos gerais de direito e nas condições previstas na apólice.
+
+###### Artigo 10.º — Análise e agravamento do risco
+
+O tomador do seguro e o segurado, no caso de as duas figuras não coincidirem na mesma pessoa, estão obrigados a fornecer à seguradora todos os elementos de informação relativos à operação a segurar e a autorizarem o acesso desta à escrituração e demais elementos contabilísticos conexos com a referida operação.
+
+###### Artigo 11.º — Prémios
+
+1 - Salvo convenção em contrário, são aplicáveis as disposições do regime geral do pagamento dos prémios de seguro não contrariadas pelo presente decreto-lei.
+
+2 - A convenção prevista no número anterior não pode diminuir as garantias previstas no regime geral do pagamento dos prémios de seguro relativas ao aviso para pagamento do prémio.
+
+3 - Nas apólices de seguro de caução em que não haja cláusula de inoponibilidade, as partes não podem afastar a aplicabilidade das disposições do regime legal do pagamento dos prémios não contrariadas pelo presente decreto-lei.
+
+4 - Para efeitos do número anterior, entende-se por 'cláusula de inoponibilidade' a cláusula contratual que impede a seguradora de opor aos segurados, beneficiários do contrato, quaisquer nulidades, anulabilidades ou fundamentos de resolução.
+
+5 - Quando, por facto imprevisível e alheio ao segurado ou ao tomador de seguro, se verifique redução do montante em risco ou da duração deste, pode a seguradora, no termo da vigência da apólice, proceder ao estorno de parte do prémio simples cobrado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+###### Artigo 12.º — Danos não indemnizáveis
+
+No âmbito dos contratos de seguro previstos neste diploma, não são indemnizáveis os lucros cessantes nem os danos não patrimoniais.
+
+###### Artigo 13.º — Promessa de seguro
+
+1 - É lícita a promessa dos seguros previstos neste decreto-lei, desde que celebrada pelo prazo máximo de seis meses, em documento assinado pelos outorgantes e de que constem todos os elementos da apólice do seguro prometido.
+
+2 - A promessa do seguro que deva ser garantido pelo Estado só é válida depois de obtida a correspondente promessa daquela garantia.
+
+3 - Sempre que, durante a vigência do contrato-promessa de seguro, se verifique a alteração anormal e substancial das circunstâncias que fundamentaram a sua celebração, com efectivo agravamento do risco, pode a seguradora alterar as condições de cobertura, designadamente no que respeita ao quantitativo do prémio previsto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+###### Artigo 14.º — Mediação
+
+É vedado aos angariadores de seguros a mediação relativamente aos seguros previstos nos capítulos anteriores.
+
+### Capítulo V — Da garantia do Estado
+
+###### Artigo 15.º — Garantia do Estado
+
+1 - As seguradoras autorizadas a exercer a actividade em Portugal nos ramos 'Crédito' e 'Caução' podem beneficiar da garantia do Estado para o seguro dos riscos previstos nos n.os 1 e 2 do artigo 3.º e no n.º 1 do artigo 6.º, quando estejam em causa factos geradores de sinistro de natureza política, monetária ou catastrófica dependendo o acesso de um procedimento prévio de selecção e de contratualização com o Estado.
+
+2 - A autorização de garantias e promessas de garantia do Estado é da competência do Ministro das Finanças.
+
+3 - As garantias e promessas de garantia do Estado são apresentadas pela seguradora à Direção-Geral do Tesouro e Finanças para análise, sujeição a parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento, e proposta de decisão a submeter ao membro do Governo responsável pela área das Finanças.
+
+4 - A emissão de garantias e promessas de garantia é da competência da Direcção-Geral do Tesouro que, para o efeito, emite o respectivo documento, no qual consta, designadamente, a entidade que autorizou a garantia ou a promessa, o número da garantia ou da promessa, a identificação da seguradora, do segurado e do devedor, o montante garantido e o tipo de seguro garantido.
+
+5 - Compete à Direcção-Geral do Tesouro informar previamente sobre o cabimento de cada operação de garantia e promessa de garantia no limite máximo fixado, para cada ano, na lei do orçamento.
+
+6 - Compete a cada seguradora remeter à Direcção-Geral do Tesouro, a pedido desta última, a previsão, para o ano seguinte, das garantias do Estado a conceder e dos montantes das indemnizações decorrentes das operações garantidas.
+
+7 - Dentro dos limites impostos por lei ou por convenção internacional vigente na ordem interna portuguesa, o Estado pode igualmente garantir, total ou parcialmente, o seguro dos riscos de caução e de crédito decorrentes de factos geradores de sinistro não mencionados no n.º 1 do presente artigo.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+> Alterado pelo/a [Decreto-Lei n.º 127/91 - Diário da República n.º 68/1991, Série I-A de 1991-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1991-471961), em vigor a partir de 1991-03-27
+
+###### Artigo 16.º — Apólices e prémios
+
+1 - As condições gerais e especiais das apólices, bem como as tarifas de prémios dos contratos de seguro, a celebrar com a garantia do Estado, são aprovadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia, mediante requerimento da seguradora, sujeito a parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento, e proposta da Direção-Geral do Tesouro e Finanças.
+
+2 - Os prémios dos contratos de seguro a celebrar com a garantia do Estado, de acordo com as regras internacionais sobre a matéria, quando aplicáveis, devem ser calculados, designadamente, com base no capital seguro e ter em consideração o prazo total em risco, a avaliação do risco coberto, quanto ao devedor e ao respectivo país, e a qualidade da cobertura.
+
+3 - Nos termos do artigo 7.º do Decreto-Lei n.º 51/2006, de 14 de Março, a Direcção-Geral do Tesouro cobra à seguradora uma percentagem do prémio definido nos termos do número anterior.
+
+4 - Mediante contrato a celebrar entre o Estado, através da Direcção-Geral do Tesouro, e a seguradora, após consulta ao Conselho de Garantias Financeiras à Exportação e ao Investimento, são definidos, designadamente:
+
+a) A percentagem do prémio a cobrar pela Direcção-Geral do Tesouro à seguradora;
+
+b) Os termos e condições da recuperação de créditos garantidos;
+
+c) Os termos e condições do acompanhamento das matérias internacionais, incluindo as notificações às operações de crédito à exportação.
+
+5 - Os eventuais encargos que resultem do contrato celebrado ao abrigo do número anterior são suportados pela Direcção-Geral do Tesouro.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/99 - Diário da República n.º 137/1999, Série I-A de 1999-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002), em vigor a partir de 1999-06-20
+
+> Alterado pelo/a [Decreto-Lei n.º 127/91 - Diário da República n.º 68/1991, Série I-A de 1991-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1991-471961), em vigor a partir de 1991-03-27
+
+###### Artigo 17.º — Indemnizações e recuperações
+
+1 - Após admissão e regulação de sinistro efectuada pela seguradora, os montantes das indemnizações decorrentes dos contratos de seguro, com a garantia do Estado, são entregues, mediante solicitação da seguradora, pela Direcção-Geral do Tesouro ao beneficiário do seguro.
+
+2 - A Direcção-Geral do Tesouro deve informar o Conselho de Garantias Financeiras à Exportação e ao Investimento e a seguradora sobre as indemnizações pagas, nos termos referidos no número anterior.
+
+3 - Na situação prevista na alínea b) do n.º 4 do artigo 16.º, a seguradora intervém como mandatária do Estado, no âmbito da recuperação de créditos garantidos, devendo articular a sua actuação com a Direcção-Geral do Tesouro.
+
+4 - Os créditos do Estado resultantes do pagamento de sinistros gozam de privilégio mobiliário geral sobre os bens do devedor pelas quantias que o Estado tenha efectivamente despendido, a qualquer título, em razão da garantia concedida.
+
+5 - (Revogado.)
+
+6 - O privilégio creditório referido no número anterior é graduado conjuntamente com os créditos do Estado previstos na alínea a) do n.º 1 do artigo 747.º do Código Civil.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+> Alterado pelo/a [Decreto-Lei n.º 127/91 - Diário da República n.º 68/1991, Série I-A de 1991-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1991-471961), em vigor a partir de 1991-03-27
+
+###### Artigo 18.º — Conselho de Garantias Financeiras à Exportação e ao Investimento
+
+O Conselho de Garantias Financeiras à Exportação e ao Investimento, que funciona nas instalações da Direcção-Geral do Tesouro, tem a composição, as competências e o sistema de funcionamento estabelecidos em diploma legal específico.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)
+
+> Alterado pelo/a [Decreto-Lei n.º 127/91 - Diário da República n.º 68/1991, Série I-A de 1991-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1991-471961), em vigor a partir de 1991-03-27
+
+###### Artigo 19.º — Mediação
+
+É vedada a mediação nos seguros que, nos termos do presente capítulo, sejam celebrados com a garantia do Estado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+### Capítulo VI — Das seguradoras
+
+###### Artigo 20.º — Seguradoras
+
+Os seguros previstos no presente decreto-lei podem ser explorados por qualquer seguradora que, nos termos legais e regulamentares em vigor, se encontre autorizada a exercer em Portugal a actividade nos ramos 'Crédito' e 'Caução'.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19
+
+###### Artigo 21.º — Direito à informação
+
+Para exploração dos seguros previstos no presente diploma, podem as seguradoras:
+
+a) Obter de quaisquer serviços públicos as informações e elementos necessários à celebração dos respectivos contratos e à gestão dos riscos e sinistros dos mesmos decorrentes;
+
+b) Ter acesso ao serviço de centralização dos riscos de crédito do Banco de Portugal, nos termos por este definidos e fornecendo as informações igualmente por este solicitadas, desde que se prendam com os riscos previstos neste diploma;
+
+c) Estabelecer com as instituições de crédito acordos de permuta de informações abrangidas pelo regime legal do segredo bancário.
+
+###### Artigo 22.º — Regime bancário
+
+1 - Nos casos em que seja constituído penhor para garantia dos seguros previstos neste diploma, a seguradora beneficia do regime especial para igual garantia dos créditos de estabelecimentos bancários.
+
+2 - No âmbito da exploração dos seguros previstos neste diploma, são aplicáveis às seguradoras, aos titulares dos seus órgãos sociais e aos trabalhadores as disposições legais relativas ao segredo bancário.
+
+### Capítulo VII — Disposição final
+
+###### Artigo 23.º — Disposição revogatório
+
+São revogados os Decretos-Leis n.os 729-L/75, de 22 de Dezembro, e 169/81, de 20 de Junho.
+
+Visto e aprovado em Conselho de Ministros de 7 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 6 de Maio de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Maio de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

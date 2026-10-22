@@ -1,0 +1,1146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661084:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-1009146478",
+ "dre_path": "/dr/detalhe/decreto-lei/568-1999-661084",
+ "source_lastmod": "2026-09-29",
+ "versions": [
+  {
+   "date": "2005-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:624455:por",
+     "title": "Decreto-Lei n.º 24/2005",
+     "published": "2005-01-26",
+     "dre_path": "/dr/detalhe/decreto-lei/24-2005-624455"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 31.º",
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "1010156975",
+    "1010157175",
+    "1010157375",
+    "1010157575",
+    "1010157775",
+    "1010157975",
+    "1010158175",
+    "1010158375",
+    "1010158575",
+    "1010158775",
+    "1010158975",
+    "1010159175",
+    "1010159375",
+    "1010159575",
+    "1010159775",
+    "1010159975",
+    "1010160175",
+    "1010160375",
+    "1010160575",
+    "1172240775",
+    "1010160975",
+    "1010161175",
+    "1010161375",
+    "1010161575",
+    "1010161775",
+    "1010161975",
+    "1010162175",
+    "1010162375",
+    "1010162575",
+    "1010162775",
+    "1010162975",
+    "1010163175",
+    "1010163375",
+    "1010163575",
+    "1010163775",
+    "1010163975",
+    "1010164175",
+    "1010164375",
+    "1010164575",
+    "1010164775",
+    "1010164975",
+    "1010165175",
+    "1010165375",
+    "1010165575",
+    "1010165775",
+    "1172241775",
+    "1010165975",
+    "1172596475",
+    "1010166375",
+    "1172596675"
+   ]
+  },
+  {
+   "date": "2008-05-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:249571:por",
+     "title": "Decreto-Lei n.º 77/2008",
+     "published": "2008-04-29",
+     "dre_path": "/dr/detalhe/decreto-lei/77-2008-249571"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "1010156975",
+    "1010157175",
+    "1010157375",
+    "1010157575",
+    "1010157775",
+    "1010157975",
+    "1010158175",
+    "1010158375",
+    "1010158575",
+    "1010158775",
+    "1010158975",
+    "1010159175",
+    "1010159375",
+    "1010159575",
+    "1010159775",
+    "1010159975",
+    "1010160175",
+    "1010160375",
+    "1010160575",
+    "1172240775",
+    "1010160975",
+    "1010161175",
+    "1010161375",
+    "1010161575",
+    "1010161775",
+    "1010161975",
+    "1010162175",
+    "1010162375",
+    "1010162575",
+    "1010162775",
+    "1010162975",
+    "1010163175",
+    "1010163375",
+    "1010163575",
+    "1010163775",
+    "1010163975",
+    "1010164175",
+    "1010164375",
+    "1010164575",
+    "1010164775",
+    "1010164975",
+    "1010165175",
+    "1010165375",
+    "1010165575",
+    "1010165775",
+    "1172241775",
+    "1010165975",
+    "1172626175",
+    "1172626375",
+    "1172596675"
+   ]
+  },
+  {
+   "date": "2027-03-01",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:1171382770:por",
+     "title": "Decreto-Lei n.º 183/2026",
+     "published": "2026-09-16",
+     "dre_path": "/dr/detalhe/decreto-lei/183-2026-1171382770"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1174159175",
+    "1174159375",
+    "1174159475",
+    "1174159575",
+    "1174159675",
+    "1174159775",
+    "1174202575",
+    "1174202675",
+    "1174202775",
+    "1174202875",
+    "1174202975",
+    "1174203075",
+    "1174203175",
+    "1174203275",
+    "1174203375",
+    "1174203475",
+    "1174203575",
+    "1174203675",
+    "1174203775",
+    "1174203875",
+    "1174203975",
+    "1174204075",
+    "1174204175",
+    "1174204275",
+    "1174204375",
+    "1174204475",
+    "1174204575",
+    "1174204675",
+    "1174204775",
+    "1174204875",
+    "1174204975",
+    "1174205075",
+    "1174205175",
+    "1174205275",
+    "1174205375",
+    "1174205475",
+    "1174205575",
+    "1174205675",
+    "1174205775",
+    "1174205875",
+    "1174205975",
+    "1174206075",
+    "1174206175",
+    "1174206275",
+    "1174206375",
+    "1174206475",
+    "1174206575",
+    "1174206675",
+    "1174206775",
+    "1174206875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1010156975": {
+   "fragment_id": "1010156875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "As crescentes exigências em matéria de transportes obrigam a sistemáticas intervenções, que visam melhorar o desempenho e integração dos diferentes modos e, simultaneamente, elevar os respectivos níveis de qualidade, designadamente no que respeita à segurança, eficiência energética e impacte ambiental.\n\nActualmente é dirigido um grande esforço de modernização para o transporte ferroviário, cujas características o tornam especialmente indicado para diversas situações de transporte, quer de pessoas quer de mercadorias, apresentando mesmo melhores indicadores de eficácia global que os restantes modos.\n\nEm matéria de segurança ferroviária, estão em curso diversas acções, designadamente a ampliação dos sistemas de comando centralizado de tráfego e de controlo automático de velocidade.\n\nAs passagens de nível, como uma das componentes mais perturbadoras do sistema de exploração ferroviária, são também pontos de conflito geradores de permanente insegurança.\n\nNos últimos anos tem-se assistido a uma redução do número de acidentes ali verificados, situação que se pode relacionar directamente com o incremento do esforço de supressão de passagens de nível. A progressão tem sido, no entanto, mais lenta que o desejável. Por outro lado, o aumento dos fluxos de tráfego rodoviário e de velocidade das composições ferroviárias podem inverter a tendência referida.\n\nDado o elevado número de passagens de nível ainda existente, considera-se necessária uma intervenção planeada com vista ao incremento das acções de supressão. O presente diploma define um quadro institucional para esse fim.\n\nQuanto ao regime legal das passagens de nível existentes, a prática dos últimos 18 anos revelou impossível a aplicação integral do Decreto-Lei n.º 156/81, de 9 de Junho, designadamente no que respeita à sua classificação. Este facto, aliado à recente reorganização do sector ferroviário, torna necessária a revisão do Regulamento de Passagens de Nível, aprovado pelo referido decreto-lei, o que se faz neste diploma.\n\nNesta revisão foi tido em consideração o que na legislação rodoviária se refere sobre passagens de nível, designadamente sinalização, infracções e coimas, que se entendeu dever reunir no Regulamento ora aprovado.\n\nNos termos da lei foi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim, ao abrigo da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1010157175": {
+   "fragment_id": "1010157075",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição do estabelecimento de novas passagens de nível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Proibição do estabelecimento de novas passagens de nível\n\n1 - O atravessamento de linhas férreas por novas vias de comunicação é sempre realizado de forma desnivelada, sendo proibido o estabelecimento de novas passagens de nível, adiante designadas por PN.\n\n2 - Excepcionalmente e por causas absolutamente justificadas, pode ser concedida licença de atravessamento de nível à linha férrea, por tempo previamente definido e estritamente necessário. Estas licenças são autorizadas caso a caso pela entidade gestora da infra-estrutura ferroviária, que fixará em simultâneo os custos e procedimentos de segurança a respeitar.\n\n3 - A beneficiação ou reconstrução de vias rodoviárias que atravessem linhas férreas deve prever o desnivelamento das PN existentes sempre que os volumes de tráfego ferroviário e rodoviário previstos para o ano horizonte determinem um momento de circulação, calculado de acordo com o artigo 7.º do Regulamento de Passagens de Nível, adiante designado por RPN, superior a 24000.\n\n4 - Para os efeitos previstos neste diploma, entende-se por ano horizonte aquele que se obtém adicionando cinco anos ao ano de realização do estudo de reclassificação ou de supressão."
+  },
+  "1010157375": {
+   "fragment_id": "1010157275",
+   "type": 11,
+   "heading": "Artigo 2.º — Programas de supressão de PN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Programas de supressão de PN\n\n1 - A empresa Rede Ferroviária Nacional - REFER, E. P., o Instituto das Estradas de Portugal (IEP) e as autarquias locais que tenham a seu cargo vias rodoviárias que incluam PN deverão elaborar programas plurianuais de supressão de PN através da construção de passagens desniveladas e ou caminhos de ligação, onde incluirão, designadamente, as PN que se encontrem nas condições seguintes:\n\na) Tenham registado dois ou mais acidentes nos últimos cinco anos;\n\nb) Se situem em troços onde se possam estabelecer circulações ferroviárias a velocidades superiores a 140 km/hora;\n\nc) Possuam momento de circulação superior a 24000, tal como definido no artigo 7.º do RPN;\n\nd) Se situem em via rodoviária com um tráfego médio diário (TMD(índice R)) superior a 2000, determinado de acordo com a alínea b) do n.º 2 e e com n.º 3 do artigo 7.º do RPN;\n\ne) Que atravessem mais de duas vias férreas;\n\nf) Que se devam considerar de particular perigosidade, quer pelas características das vias ferroviária ou rodoviária onde se situam, quer pelo tipo de tráfego rodoviário ou de peões que as utilizam.\n\n2 - O desenvolvimento dos programas é da responsabilidade dos organismos ou entidades proponentes previstas no n.º 1 do presente artigo. Em projectos específicos, poderão estabelecer-se acordos ou parcerias envolvendo organismos ou entidades da administração central, regional ou local, a entidade gestora da infra-estrutura ferroviária e outras entidades públicas ou privadas.\n\n3 - A repartição de encargos em projectos envolvendo dois ou mais organismos ou entidades públicas é fixada em despacho conjunto do Ministro das Finanças e dos ministros da tutela dos organismos envolvidos.\n\n4 - A participação de entidades privadas deve ser sempre fundamentada e precedida de autorização ministerial."
+  },
+  "1010157575": {
+   "fragment_id": "1010157475",
+   "type": 11,
+   "heading": "Artigo 3.º — Novas urbanizações ou equipamentos colectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Novas urbanizações ou equipamentos colectivos\n\n1 - O licenciamento de operações de loteamento, bem como a construção ou desenvolvimento de equipamentos de utilização colectiva, nas proximidades de PN implica a obrigação de construir atravessamentos desnivelados ao caminho de ferro e a supressão das PN existentes, sempre que o acesso às novas urbanizações ou equipamentos se faça através dessas PN.\n\n2 - Os encargos resultantes do cumprimento da obrigação prevista no número anterior são suportados pelo titular do alvará de licenciamento ou pelo dono da obra."
+  },
+  "1010157775": {
+   "fragment_id": "1010157675",
+   "type": 11,
+   "heading": "Artigo 4.º — Utilização de terrenos necessários às obras de supressão de PN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Utilização de terrenos necessários às obras de supressão de PN\n\n1 - O pedido de aprovação administrativa dos projectos necessários para supressão de PN integrados em programas de supressão plurianuais deve incluir em anexo processo de declaração de utilidade pública com carácter de urgência da expropriação dos imóveis e direitos a eles inerentes, se tal for absolutamente necessário para a realização oportuna das obras.\n\n2 - As passagens desniveladas e caminhos de ligação construídos por iniciativa da entidade gestora da infra-estrutura ferroviária integram-se na rede rodoviária municipal, regional ou nacional, cabendo, respectivamente, à administração local, regional ou central a responsabilidade da beneficiação, manutenção e sinalização das mesmas.\n\n3 - A realização de quaisquer obras em passagens desniveladas cuja estrutura tenha interferência com o caminho de ferro deve merecer o acordo prévio da entidade gestora da infra-estrutura ferroviária.\n\n4 - O disposto nos n.os 2 e 3 aplica-se às passagens desniveladas e caminhos de ligação existentes à data da entrada em vigor do presente Regulamento."
+  },
+  "1010157975": {
+   "fragment_id": "1010157875",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamento de Passagens de Nível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regulamento de Passagens de Nível\n\nÉ aprovado o Regulamento de Passagens de Nível (RPN), o qual é publicado em anexo ao presente diploma, dele fazendo parte integrante."
+  },
+  "1010158175": {
+   "fragment_id": "1010158075",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\n1 - A reclassificação das PN existentes, em conformidade com o estipulado no artigo 9.º do novo Regulamento, deve estar concluída no prazo máximo de cinco anos a contar da data de entrada em vigor do presente diploma.\n\n2 - A dotação das PN existentes com as características de visibilidade e com os equipamentos previstos no novo Regulamento será progressivamente efectuada pela entidade gestora da infra-estrutura ferroviária, mediante plano de reconversão a aprovar pelo ministro da tutela, onde se definem as prioridades, meios e prazos para o efeito."
+  },
+  "1010158375": {
+   "fragment_id": "1010158275",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 156/81, de 9 de Junho."
+  },
+  "1010158575": {
+   "fragment_id": "1010158475",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a publicação."
+  },
+  "1010158775": {
+   "fragment_id": "1010158675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.\n\nPromulgado em 2 de Dezembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Dezembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1010158975": {
+   "fragment_id": "1010158875",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Passagens de Nível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento de Passagens de Nível"
+  },
+  "1010159175": {
+   "fragment_id": "1010159075",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "1010159375": {
+   "fragment_id": "1010159275",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições legais\n\n1 - Para efeitos do presente Regulamento, considera-se PN todo o cruzamento de nível da via pública ou privada com linhas ou ramais ferroviários.\n\n2 - São públicas as PN situadas em vias do domínio público ou em vias do domínio privado quando abertas ao trânsito público.\n\n3 - São particulares as PN estabelecidas para serviço exclusivo de prédios vizinhos do caminho de ferro, mediante licença concedida pela entidade gestora da infra-estrutura ferroviária."
+  },
+  "1010159575": {
+   "fragment_id": "1010159475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Este Regulamento aplica-se a todas as PN, públicas ou particulares, com excepção das situações previstas nos n.os 2 e 3 do presente artigo.\n\n2 - Não ficam abrangidas por este Regulamento as PN:\n\na) Situadas em linhas ou ramais particulares;\n\nb) Situadas em linhas de eléctricos e de outros transportes urbanos circulando sobre carris;\n\nc) Situadas em troços de caminho de ferro em que as linhas férreas estejam assentes em vias onde também circulem outros meios de transporte;\n\nd) Que se incluam em linhas ou ramais que não integrem a rede base ferroviária.\n\n3 - Do mesmo modo, não ficam abrangidos por este Regulamento os acessos de nível entre plataformas destinadas ao serviço exclusivo das estações ou apeadeiros.\n\n4 - As PN a que se referem as alíneas a) e d) do n.º 2 deste artigo devem ser objecto de regulamentação específica a aprovar pelo ministro da tutela."
+  },
+  "1010159775": {
+   "fragment_id": "1010159675",
+   "type": 11,
+   "heading": "Artigo 3.º — Prioridade e responsabilidade geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prioridade e responsabilidade geral\n\n1 - Os veículos ferroviários gozam de prioridade absoluta de passagem nas PN.\n\n2 - Sempre que pretenda atravessar uma PN, o utente é obrigado a respeitar as prescrições da legislação rodoviária e do presente Regulamento, os avisos e sinais afixados nos lugares próprios e as ordens e instruções dadas pelos agentes da entidade gestora da infra-estrutura ferroviária."
+  },
+  "1010159975": {
+   "fragment_id": "1010159875",
+   "type": 11,
+   "heading": "Artigo 4.º — Supressão de PN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Supressão de PN\n\n1 - As PN públicas que possuam momento de circulação nulo, determinado de acordo com o artigo 7.º, e reconhecidamente não sejam utilizadas devem ser suprimidas pela entidade gestora da infra-estrutura ferroviária, após dar conhecimento da intenção de supressão às câmaras municipais respectivas com antecedência não inferior a 30 dias.\n\n2 - Existindo ou sendo viável o estabelecimento de caminhos de ligação, as PN públicas situadas até 700 m de outras PN ou de passagens desniveladas devem ser suprimidas pela entidade gestora da infra-estrutura ferroviária. Sempre que os trabalhos a realizar para o efeito ultrapassem os limites do domínio ferroviário, a intervenção deve ser efectuada em conformidade com parecer das respectivas câmaras municipais.\n\n3 - As PN públicas que tenham passado a servir apenas um prédio devem ser suprimidas. Podem, no entanto, manter-se como particulares, desde que o usuário se conforme com as condições de utilização definidas pela entidade gestora da infra-estrutura ferroviária nos termos do capítulo III do presente Regulamento e caso não exista qualquer acesso alternativo.\n\n4 - Verificando-se a existência de condições para a supressão ou reclassificação de PN e havendo oposição a tal por parte da câmara municipal respectiva, pode, excepcionalmente e por tempo limitado, ser mantida a situação existente. Nesse caso, os encargos e demais responsabilidades resultantes da manutenção da PN são suportados pela câmara municipal.\n\n5 - Para as situações de supressão previstas no n.º 2 deste artigo que venham a ocorrer após a entrada em vigor do presente Regulamento, o prazo máximo para concretização da supressão é de um ano após o estabelecimento dos caminhos de ligação ou entrada em funcionamento da passagem desnivelada que fundamenta a supressão."
+  },
+  "1010160175": {
+   "fragment_id": "1010160075",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiação ou reconstrução de vias rodoviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiação ou reconstrução de vias rodoviárias\n\nOs trabalhos de beneficiação ou reconstrução de estradas ou outras vias rodoviárias que atravessem linhas férreas não podem ser implementados sem que a entidade gestora da infra-estrutura ferroviária dê parecer favorável às soluções preconizadas para as passagens de nível afectadas. Do mesmo modo, a execução dos trabalhos deve ser acordada previamente com a entidade gestora da infra-estrutura ferroviária."
+  },
+  "1010160375": {
+   "fragment_id": "1010160275",
+   "type": 11,
+   "heading": "Artigo 6.º — Linhas de elevada velocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Linhas de elevada velocidade\n\nNos troços de linha férrea em que se estabeleçam para os comboios velocidades superiores a 140 km/hora não é permitida a existência de PN, a não ser por tempo limitado previamente fixado e que seja adoptado o regime especial de segurança em PN a que se refere o n.º 8 do artigo 12.º, não podendo em caso algum ser ultrapassado o limite de 160 km/hora."
+  },
+  "1010160575": {
+   "fragment_id": "1010160475",
+   "type": 11,
+   "heading": "Artigo 7.º — Momento de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Momento de circulação\n\n1 - Entende-se por momento de circulação (MC) de uma PN o produto do tráfego médio diário ferroviário (TMD(índice F)) pelo tráfego médio diário rodoviário (TMD(índice R)) que passam nessa PN.\n\n2 - Para os efeitos do n.º 1 do presente artigo, entende-se por:\n\na) TMD(índice F) - número médio diário de circulações ferroviárias;\n\nb) TMD(índice R) - número médio diário de veículos rodoviários, expresso em unidades de veículos ligeiros equivalentes (UVLE).\n\n3 - Os coeficientes de conversão das diferentes classes e tipos de veículos em UVLE são estabelecidos caso a caso em função das características geométricas das vias e das características do tráfego, não podendo ser adoptados valores inferiores aos seguintes:\n\na) Motociclos com ou sem carro lateral - 0,3;\n\nb) Automóveis ligeiros de passageiros ou de mercadorias com ou sem reboque - 1;\n\nc) Pesados de passageiros - 2;\n\nd) Pesados de mercadorias - 3;\n\ne) Veículos agrícolas e máquinas industriais - 3;\n\nf) Pesados com reboque - 4."
+  },
+  "1172240775": {
+   "fragment_id": "1010160675",
+   "type": 11,
+   "heading": "Artigo 8.º — Visibilidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 5-G/2000 - Diário da República n.º 77/2000, 2º Suplemento, Série I-A de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-g-2000-429638), com efeitos a partir de 2000-01-22."
+   ],
+   "markdown": "###### Artigo 8.º — Visibilidade\n\n1 - Entende-se por distância de visibilidade a máxima extensão a que os veículos ferroviários podem ser avistados em toda a sua altura acima de 1,5 m em relação ao plano de rolamento por condutor de veículo rodoviário colocado na posição indicada no n.º 3 deste artigo.\n\n2 - Define-se distância de visibilidade mínima (DV), expressa em metros, o valor obtido pela multiplicação do coeficiente 3,5 por V, sendo V a velocidade máxima permitida aos comboios no troço de via onde se localiza a PN, expressa em quilómetros/hora.\n\n3 - As distâncias de visibilidade determinam-se para cada um dos sentidos do tráfego ferroviário e rodoviário, medem-se sobre o eixo da linha férrea a partir do ponto de intersecção do eixo da via ferroviária com o da via rodoviária e referem-se a um observador colocado no local determinado pela sinalização a que refere o n.º 4 do artigo 11.º, cujo plano de visão se situa a uma altura compreendida entre 1 m e 2,5 m em relação à estrada.\n\n4 - Junto às PN do tipo D, conforme definidas no n.º 5 do artigo 9.º, há obrigatoriamente uma zona de visibilidade, na qual não pode existir qualquer construção ou vegetação que impeça que os veículos ferroviários ali sejam continuamente vistos em toda a sua altura acima de 1,5 m em relação ao plano de rolamento por condutor de veículo rodoviário colocado na posição indicada no n.º 3.\n\n5 - A zona de visibilidade a que se refere o número anterior é constituída pela reunião de quatro triângulos, dois para cada lado da linha férrea, em correlação com cada um dos sentidos normais da circulação ferroviária e rodoviária, determinados em função da distância de visibilidade mínima definida no n.º 2 do presente artigo, conforme figura 1.\n\n6 - Quando a PN se localizar num troço de via férrea em curva, a área da zona de visibilidade corresponde à degeneração dos triângulos definidos no n.º 5, de acordo com o desenvolvimento da curva, tendo em vista a garantia de visibilidade contínua do comboio na aproximação à PN.\n\n7 - Se para adequar as condições de visibilidade de uma PN às condições deste Regulamento a entidade gestora da infra-estrutura ferroviária necessitar de proceder à demolição de construções ou obras, corte de árvores ou vegetações, deverá notificar os proprietários ou possuidores com a antecedência mínima de 20 dias, indemnizando por aquelas intervenções os que comprovem o seu direito, sendo a indemnização fixada por acordo entre os interessados e a entidade gestora da infra-estrutura ferroviária ou, na falta de acordo, por arbitragem, sem prejuízo do direito de recurso nos termos da lei processual civil.\n\n8 - A fim de assegurar a manutenção das condições de visibilidade mínima junto às PN de tipo D, os proprietários ou possuidores dos terrenos não podem praticar quaisquer actos que prejudiquem a visibilidade, designadamente plantar árvores ou outra vegetação, construir muros ou outras edificações, escavações ou aterros, sem que a entidade gestora da infra-estrutura ferroviária dê parecer favorável.\n\n9 - À entidade gestora da infra-estrutura ferroviária compete assegurar a manutenção da visibilidade mínima considerada necessária, notificando para esse fim os proprietários ou possuidores dos terrenos afectados pela servidão para que procedam à demolição de obras indevidamente efectuadas, ao corte de árvores ou de outra vegetação e à remoção de outros obstáculos indevidamente colocados.\n\n10 - Os proprietários ou possuidores devem executar os trabalhos para que foram notificados no prazo de 30 dias ou de 60 dias, no caso de se tratar de demolições, findo o qual pode a entidade gestora da infra-estrutura ferroviária proceder à execução dos trabalhos, cabendo aos proprietários ou possuidores suportar o custo dos mesmos, sendo conferido ao respectivo documento de despesa força de título executivo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 5-G/2000 - Diário da República n.º 77/2000, 2º Suplemento, Série I-A de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-g-2000-429638), com efeitos a partir de 2000-01-22."
+  },
+  "1010160975": {
+   "fragment_id": "1010160875",
+   "type": 1,
+   "heading": "Capítulo II — Das PN públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Das PN públicas"
+  },
+  "1010161175": {
+   "fragment_id": "1010161075",
+   "type": 11,
+   "heading": "Artigo 9.º — Classificação de PN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Classificação de PN\n\n1 - Atendendo à composição dos tráfegos ferroviário e rodoviário, bem como as características das vias ferroviária e rodoviária, as PN públicas classificam-se em A, B, C, D e de peões.\n\n2 - São de tipo A as PN:\n\na) Com momento de circulação igual ou superior a 24000;\n\nb) Com momento de circulação igual ou superior a 10000 e inferior a 24000, situadas em troços de linha onde a velocidade das circulações ferroviárias mais rápidas seja superior a 120 km/hora.\n\n3 - São de tipo B as PN:\n\na) Com momento de circulação igual ou superior a 10000 e inferior a 24000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora;\n\nb) Com momento de circulação inferior a 10000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja superior a 120 km/hora;\n\nc) Com momento de circulação igual ou superior a 5000 e inferior a 10000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja superior a 50 km/hora.\n\n4 - São de tipo C as PN:\n\na) Com momento de circulação igual ou superior a 5000 e inferior a 10000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 50 km/hora;\n\nb) Com momento de circulação igual ou superior a 3000 e inferior a 5000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora;\n\nc) Com momento de circulação inferior a 3000 e que não possuam visibilidade igual ou superior à distância de visibilidade mínima, determinada de acordo com o previsto no n.º 2 do artigo 8.º, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora;\n\nd) Com momento de circulação inferior a 3000, situadas em troços de linha em que a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora e com TMD(índice F) igual ou superior a 50.\n\n5 - São de tipo D as PN com momento de circulação inferior a 3000 e TMD(índice F) inferior a 50, que possuam distância de visibilidade igual ou superior à mínima em todos os sentidos de circulação considerados e que estejam situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora.\n\n6 - São de peões as PN exclusivamente destinadas à passagem de peões."
+  },
+  "1010161375": {
+   "fragment_id": "1010161275",
+   "type": 11,
+   "heading": "Artigo 10.º — Sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sinalização\n\n1 - A sinalização das vias públicas na aproximação às PN compete às entidades mencionadas na legislação rodoviária, devendo, no entanto, ser objecto de aprovação pela entidade gestora da infra-estrutura ferroviária, e obedece às regras previstas na mesma legislação e à especificidade do presente Regulamento.\n\n2 - A fim de melhorar as condições de segurança ferroviária e rodoviária no atravessamento das PN, devem, sempre que se justifique, ser utilizadas marcas rodoviárias acompanhadas de sinais de regulamentação de velocidade."
+  },
+  "1010161575": {
+   "fragment_id": "1010161475",
+   "type": 11,
+   "heading": "Artigo 11.º — Sinalização do trânsito e equipamentos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sinalização do trânsito e equipamentos de segurança\n\n1 - Os sinais e equipamentos de segurança a utilizar em PN são os indicados, respectivamente, nos n.os 2 e 6 deste artigo.\n\n2 - Sinais:\n\na) Sinal constituído por uma luz circular vermelha intermitente ou por um sistema de duas luzes circulares vermelhas acendendo alternadamente, significando a obrigatoriedade de parar, conforme figura 2;\n\nb) Sinal constituído por um sistema de três luzes circulares com as cores vermelha, amarela e verde, a que correspondem os significados previstos na legislação rodoviária;\n\nc) Sinal constituído por um sistema de duas luzes circulares com as cores vermelha e amarela, a que correspondem os significados previstos na legislação rodoviária;\n\nd) Sinal constituído por uma luz circular vermelha intermitente, ou por um sistema de duas luzes circulares vermelhas acendendo alternadamente, significando a obrigatoriedade de parar, e por uma luz circular de cor branca lunar, intermitente ou fixa, significando autorização de passar, conforme figuras 3 e 4;\n\ne) Sinal sonoro, significando obrigatoriedade de parar;\n\nf) Sinais de local de PN sem guarda de uma e de duas ou mais vias - cruz de Santo André;\n\ng) Sinal de paragem obrigatória em cruzamentos ou entroncamentos - «STOP»;\n\nh) Outros sinais previstos na legislação rodoviária.\n\n3 - Os sinais luminosos são colocados nas vias rodoviárias próximo das PN, em local que garanta boa visibilidade e do lado direito do sentido do trânsito a que respeitam, podendo, quando justificado, ser repetidos do lado esquerdo ou por cima em suporte adequado.\n\n4 - Os sinais de perigo indicando o local de PN sem guarda ou o eventual sinal de paragem obrigatória na proximidade imediata de PN sem barreiras ou meias barreiras são colocados do lado direito da via rodoviária no sentido do trânsito a que respeitam e à distância de 5 m do carril mais próximo podendo, quando justificado, esta distância ser reduzida, mas nunca para menos de 3,5 m.\n\n5 - Os sinais sonoros devem estar instalados nos mesmos suportes dos sinais luminosos.\n\n6 - Barreiras completas ou meias barreiras, de funcionamento manual ou automático.\n\n7 - As barreiras completas, com excepção das constituídas por correntes, e as meias barreiras são pintadas de branco ou listadas de vermelho e branco ou de vermelho e amarelo, devendo as correntes ou barreiras pintadas apenas de branco ser complementadas com um alvo vermelho ao centro para melhor as assinalar."
+  },
+  "1010161775": {
+   "fragment_id": "1010161675",
+   "type": 11,
+   "heading": "Artigo 12.º — Equipamento por tipo de PN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Equipamento por tipo de PN\n\n1 - As PN de tipo A, B e C são guarnecidas e dotadas de equipamentos de comando manual ou, em alternativa ao guarnecimento, equipadas com dispositivos de segurança de comando automático com as seguintes características:\n\na) PN de tipo A: barreiras ou meias barreiras e sinalização prevista no n.º 2 do presente artigo;\n\nb) PN de tipo B: barreiras ou meias barreiras e sinalização prevista no n.º 3 do presente artigo;\n\nc) PN de tipo C: sinalização prevista no n.º 4 do presente artigo.\n\n2 - As PN do tipo A que estejam equipadas com barreiras ou meias barreiras, de comando automático ou manual a distância donde não sejam visíveis, têm a sinalização luminosa prevista na alínea a) do n.º 2 do artigo 11.º, a qual pode ser completada ou substituída pela prevista nas alíneas b) ou c) do mesmo número. Complementarmente, pode instalar-se sinalização sonora. Nas PN deste tipo com comando manual no local dispensa-se a sinalização luminosa e sonora.\n\n3 - O disposto no número anterior aplica-se às PN do tipo B, não sendo, porém, permitida a substituição do sinal da alínea a) do n.º 2 do artigo 11.º pelos sinais descritos nas alíneas b) ou c) do mesmo número, podendo estes sinais apenas ser utilizados como complemento no caso de existir sinalização rodoviária luminosa antes da PN.\n\n4 - As PN do tipo C devem ser equipadas com o sinal previsto na alínea a) do n.º 2 do artigo 11.º ou os constantes das alíneas d) e f) do mesmo número, facultativamente completados com sinais sonoros. Esta sinalização pode ser completada ou substituída por um dos sistemas de duas ou de três luzes circulares previstos nas alíneas b) e c) do n.º 2 do artigo 11.º, se pouco antes da PN existir sinalização rodoviária luminosa. Em caminhos de terra com reduzida circulação rodoviária podem ser utilizados apenas sinais sonoros.\n\n5 - As PN do tipo D têm o sinal previsto na alínea f) do n.º 2 do artigo 11.º e, facultativamente, o previsto na alínea g) do mesmo número, salvo quando se trate de estradas nacionais, regionais ou municipais, em que têm obrigatoriamente os referidos sinais, colocados no mesmo suporte, conforme figura 5, e ainda, marcada no pavimento, uma linha de paragem com a inscrição «STOP».\n\n6 - Sempre que possível, deve existir nas vias rodoviárias na aproximação à PN um separador central ou uma linha longitudinal contínua marcada no pavimento a separar os sentidos de circulação e ainda ser marcada uma linha de paragem para o tráfego rodoviário.\n\n7 - As PN de peões são equipadas com placa com a indicação «Pare, escute e olhe» e, quando se justifique, com labirinto ou com sinalização luminosa ou sonora, conforme figura 6.\n\n8 - Em PN incluídas em troços de linha férrea onde se estabeleçam velocidades superiores a 140 km/hora deve ser adoptado um regime especial de segurança por recurso à utilização simultânea dos dispositivos de comando automático determinados no presente artigo para as PN de tipo A ou B e de dispositivos de detecção automática de obstáculos ou de guarnecimento."
+  },
+  "1010161975": {
+   "fragment_id": "1010161875",
+   "type": 11,
+   "heading": "Artigo 13.º — Reclassificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reclassificação\n\n1 - A entidade gestora da infra-estrutura ferroviária deve verificar a correcta classificação de cada PN com intervalos de tempo não superiores a cinco anos e sempre que as circunstâncias o aconselharem, designadamente por alteração das condições de circulação ferroviária ou rodoviária e a pedido das autarquias.\n\n2 - A análise a realizar para os efeitos previstos no n.º 1 deste artigo deve incluir uma previsão dos volumes de tráfego até ao ano horizonte, que, sem prejuízo da possibilidade de utilização de modelos de previsão mais poderosos, deve basear-se em contagens e na análise da tendência de crescimento do tráfego e do desenvolvimento urbano."
+  },
+  "1010162175": {
+   "fragment_id": "1010162075",
+   "type": 11,
+   "heading": "Artigo 14.º — Início do fecho das PN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Início do fecho das PN\n\n1 - As PN dos tipos A, B ou C devem ser fechadas, relativamente à passagem de cada circulação ferroviária, com a antecedência mínima seguinte:\n\na) Vinte segundos, as PN do tipo C automático;\n\nb) Vinte e cinco segundos, as PN do tipo B automático e as do tipo A, B ou C comandadas em conjugação com sinais ferroviários;\n\nc) Sessenta segundos, as PN dos tipos A, B ou C com barreiras de comando manual e com sinais rodoviários automáticos;\n\nd) Noventa segundos, as PN dos tipos A, B ou C com barreiras de comando manual e anúncio automático de aproximação de circulação ferroviária aos guardas das PN;\n\ne) Cinco ou dez minutos, consoante a intensidade dos tráfegos ferroviário e rodoviário, as restantes PN dos tipos A, B e C, desde que não se trate de manobras, caso em que podem ser fechadas com a antecedência estritamente necessária.\n\n2 - Para os efeitos do presente Regulamento, a PN considera-se fechada a partir do momento em que os sinais rodoviários luminosos ou sonoros indiquem proibição de atravessamento."
+  },
+  "1010162375": {
+   "fragment_id": "1010162275",
+   "type": 11,
+   "heading": "Artigo 15.º — Telefones",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Telefones\n\n1 - As PN dos tipos A, B e C, desde que guarnecidas, são dotadas de telefone para uso do respectivo pessoal.\n\n2 - As PN dos tipos A, B e C desguarnecidas podem ser dotadas com telefone apropriado, para uso do público em caso de emergência. O mesmo telefone pode ser utilizado nas PN guarnecidas à distância, para solicitar autorização de passagem.\n\n3 - Os telefones instalados para uso do público são devidamente sinalizados e devem dispor de instruções necessárias para a sua utilização."
+  },
+  "1010162575": {
+   "fragment_id": "1010162475",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime de funcionamento\n\n1 - Quanto ao regime de funcionamento, as PN dos tipos A, B e C, desde que guarnecidas, classificam-se em:\n\na) Normalmente abertas;\n\nb) Normalmente fechadas;\n\nc) Temporariamente abertas;\n\nd) Temporariamente fechadas.\n\n2 - Consideram-se normalmente abertas as PN que asseguram a continuidade do tráfego rodoviário com interrupções somente nos períodos de aproximação e passagem de circulações ferroviárias.\n\n3 - Consideram-se normalmente fechadas as PN que somente se abrem a pedido dos utentes, para possibilitar, quando não haja perigo, a circulação rodoviária.\n\n4 - Consideram-se temporariamente abertas as PN que durante períodos perfeitamente definidos permanecem ininterruptamente abertas ao tráfego rodoviário.\n\n5 - Consideram-se temporariamente fechadas as PN que durante certos períodos, devidamente assinalados nos respectivos acessos, estão encerradas ao tráfego rodoviário.\n\n6 - Os períodos de abertura ou encerramento podem corresponder a parte ou partes do dia ou do ano, isolada ou cumulativamente."
+  },
+  "1010162775": {
+   "fragment_id": "1010162675",
+   "type": 11,
+   "heading": "Artigo 17.º — Itinerários de alternativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Itinerários de alternativa\n\nNas PN dos tipos A, B e C desguarnecidas e naquelas em que o regime de funcionamento seja o de temporariamente fechadas deve haver indicação dos itinerários de alternativa."
+  },
+  "1010162975": {
+   "fragment_id": "1010162875",
+   "type": 11,
+   "heading": "Artigo 18.º — Guarnecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Guarnecimento\n\n1 - As PN são consideradas em regime de guarnecimento quando dotadas de pessoal, privativo da PN ou não, no próprio local ou à distância.\n\n2 - São guarnecidas as PN dos tipos A, B e C, quando forem de comando manual, no local ou à distância, sem prejuízo do disposto no n.º 8 do artigo 12.º\n\n3 - O guarnecimento não é, no entanto, necessário durante os períodos em que as PN estejam temporariamente abertas ou temporariamente fechadas ou quando os comboios parem obrigatoriamente imediatamente antes da PN."
+  },
+  "1010163175": {
+   "fragment_id": "1010163075",
+   "type": 11,
+   "heading": "Artigo 19.º — Desguarnecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Desguarnecimento\n\nSão desguarnecidas as seguintes PN:\n\na) Tipo D;\n\nb) Tipos A, B e C, quando dotadas dos equipamentos de segurança de comando automático estabelecidos neste Regulamento para o respectivo tipo;\n\nc) As destinadas exclusivamente à passagem de peões."
+  },
+  "1010163375": {
+   "fragment_id": "1010163275",
+   "type": 11,
+   "heading": "Artigo 20.º — Deveres da entidade gestora da infra-estrutura ferroviária e dos seus agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Deveres da entidade gestora da infra-estrutura ferroviária e dos seus agentes\n\n1 - São deveres da entidade gestora da infra-estrutura ferroviária:\n\na) Manter em bom funcionamento os equipamentos das PN, acorrendo com a maior celeridade às reparações das avarias que eventualmente se verifiquem;\n\nb) Obrigar a manter livre de obstáculos a zona de visibilidade referida no artigo 8.º\n\n2 - São deveres dos agentes da entidade gestora da infra-estrutura ferroviária que guarnecem as PN:\n\na) Manterem-se no respectivo local de trabalho de forma atenta e vigilante, só o devendo abandonar após terminado o período de guarnecimento e verificada a sua substituição;\n\nb) Manobrar e fazer funcionar, quando for caso disso, os equipamentos das PN;\n\nc) Dar conhecimento aos seus superiores de todas as infracções praticadas pelos utentes das PN, descrevendo pormenorizadamente as infracções cometidas e fornecendo todos os elementos de identificação dos infractores de que tenha conhecimento;\n\nd) Cumprir todas as instruções e regulamentos relativos ao seu serviço."
+  },
+  "1010163575": {
+   "fragment_id": "1010163475",
+   "type": 11,
+   "heading": "Artigo 21.º — Deveres das empresas de transporte ferroviário e dos seus agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Deveres das empresas de transporte ferroviário e dos seus agentes\n\nSão deveres das empresas de transporte ferroviário e dos seus agentes:\n\na) Respeitar a sinalização ferroviária existente, bem como as normas e procedimentos em vigor referentes à circulação de comboios;\n\nb) Cumprir as ordens dos agentes da entidade gestora da infra-estrutura ferroviária, ainda que sob a forma de sinais, desde que transmitidas em conformidade com as normas e procedimentos em vigor;\n\nc) Accionar os sinais sonoros do material circulante quando da aproximação às PN;\n\nd) Transmitir à entidade gestora da infra-estrutura ferroviária quaisquer factos observados em PN que possam afectar a segurança de pessoas e bens;\n\ne) Em situações de ocupação indevida das PN, avaria dos equipamentos de segurança ou de outra qualquer anormalidade verificada, adoptar de imediato procedimentos que evitem a ocorrência de acidente ou lhe reduzam a gravidade."
+  },
+  "1010163775": {
+   "fragment_id": "1010163675",
+   "type": 11,
+   "heading": "Artigo 22.º — Deveres dos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Deveres dos utentes\n\n1 - Os utentes das PN públicas só devem proceder ao atravessamento destas depois de terem tomado todas as precauções para o poderem fazer sem perigo, quer para si quer para terceiros.\n\n2 - O atravessamento só pode fazer-se nas seguintes condições:\n\na) Se a PN estiver munida apenas de sinalização luminosa e ou sonora, quando não houver sinal indicativo de impedimento e o utente tiver tomado as precauções necessárias para se assegurar que não se aproxima qualquer circulação ferroviária;\n\nb) Se a PN tiver barreiras completas ou meias barreiras, quando estas se encontrem completamente abertas;\n\nc) Se a PN estiver munida de sinalização luminosa e ou sonora e barreiras completas ou meias barreiras, quando nenhum destes elementos der indicação impeditiva;\n\nd) Se a PN dispuser de entrada destinada a peões, quando esta estiver franqueada e o utente tiver tomado as precauções necessárias para o poder fazer sem perigo;\n\ne) Se a PN não estiver munida de sinalização luminosa e ou sonora nem de barreiras completas ou meias barreiras, quando o utilizador tiver tomado as precauções necessárias para se assegurar que não se aproxima qualquer circulação ferroviária.\n\n3 - Sem prejuízo do disposto nos números anteriores, é, em especial, proibido aos utentes:\n\na) Entrar nas PN quando lhes seja apresentada indicação de proibição, quer pela sinalização, quer pelos agentes ferroviários em serviço nas PN;\n\nb) Entrar nas PN sem que a respectiva saída esteja livre;\n\nc) Utilizar, sem autorização escrita da entidade gestora da infra-estrutura ferroviária, o interior das PN para acesso de viaturas a estabelecimentos, residências, parques ou outras instalações adjacentes;\n\nd) Abrir, escalar ou arrombar vedações, barreiras ou quaisquer outros equipamentos instalados nas PN;\n\ne) Demorar mais de dez segundos a atravessar as PN, excepto em caso de situação anormal e de cuja ocorrência não lhe seja imputável responsabilidade;\n\nf) Atravessar as PN, se a altura do veículo conjugada com o afastamento entre eixos ou a disposição da carga puder provocar apoio nas lombas das PN;\n\ng) Proceder a ultrapassagens imediatamente antes e no interior das PN, excepto se na faixa de rodagem forem possíveis duas ou mais filas de trânsito no mesmo sentido e desde que a ultrapassagem se não faça pela parte da faixa de rodagem destinada ao trânsito em sentido oposto;\n\nh) Inverter o sentido de marcha;\n\ni) Efectuar manobra de marcha-atrás sem prejuízo do que a este respeito se dispõe no Código da Estrada;\n\nj) Parar ou estacionar dentro das PN;\n\nk) Estacionar a menos de 10 m para um e outro lado das PN;\n\nl) Iniciar o atravessamento da PN, ainda que a sinalização lho permita, sem se certificar que a intensidade do trânsito não o obriga a imobilizar o veículo sobre ela.\n\n4 - Os utentes são obrigados a:\n\na) Ceder passagem aos veículos que saem das PN;\n\nb) Acatar prontamente as instruções que sejam dadas pelos agentes ferroviários em serviço nas PN e, bem assim, todas as demais prescrições;\n\nc) Em caso de imobilização forçada de veículo ou animal ou de queda da respectiva carga numa PN, o respectivo condutor deve promover a sua imediata remoção ou, não sendo esta possível, tomar as medidas necessárias para que os condutores dos veículos ferroviários que se aproximem se possam aperceber da presença do obstáculo;\n\nd) Adoptar uma velocidade especialmente moderada no atravessamento das PN;\n\ne) Utilizar luzes de cruzamento, médios, na aproximação de PN fechada, sempre que, de acordo com o previsto no Código da Estrada, seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação;\n\nf) Utilizar luzes de presença, mínimos, enquanto aguarda a abertura de PN fechada, sempre que, de acordo com o previsto no Código da Estrada, seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação.\n\n5 - Nas PN dotadas de telefone para uso do público, os utentes só podem utilizá-lo para participar situações de perigo, pedir informações ou assistência ou solicitar autorização de passagem, quando for caso disso."
+  },
+  "1010163975": {
+   "fragment_id": "1010163875",
+   "type": 11,
+   "heading": "Artigo 23.º — Veículos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Veículos especiais\n\n1 - Os veículos cujas características não permitam a sua circulação sem medidas de segurança face ao Código da Estrada só podem atravessar as PN mediante autorização especial da entidade gestora da infra-estrutura ferroviária.\n\n2 - Na autorização deve indicar-se o dia, hora, local e condições de atravessamento."
+  },
+  "1010164175": {
+   "fragment_id": "1010164075",
+   "type": 1,
+   "heading": "Capítulo III — Das PN particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das PN particulares"
+  },
+  "1010164375": {
+   "fragment_id": "1010164275",
+   "type": 11,
+   "heading": "Artigo 24.º — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condicionamentos\n\n1 - As PN particulares podem resultar:\n\na) De licença de atravessamento passada pela entidade gestora da infra-estrutura ferroviária;\n\nb) De compromisso assumido por ocasião da construção da via férrea, cujo direito de servidão tenha sido comprovado.\n\n2 - As PN a que se refere a alínea a) do número anterior regem-se pelo estabelecido no presente Regulamento e pelos termos e natureza da licença.\n\n3 - As PN a que se refere a alínea b) têm o regime que o título constitutivo e a lei prescrevem para o direito de servidão.\n\n4 - Pela emissão da licença será devida a taxa praticada pela entidade gestora da infra-estrutura ferroviária.\n\n5 - São de conta e risco do titular da licença todas as obras que a entidade gestora da infra-estrutura ferroviária julgar necessárias para a emissão da licença, bem como todas as obras de manutenção, conservação e reparação da PN.\n\n6 - São extintas as servidões e suprimidas as respectivas PN particulares sempre que:\n\na) Existindo ou constituindo-se outros acessos alternativos ao prédio dominante, aquelas se situem a menos de 700 m de outras PN ou de passagens desniveladas;\n\nb) O prédio dominante seja loteado ou por outra forma urbanizado, salvo se, no caso de loteamento ou urbanizações parciais, se mantiver a necessidade de servidão para a parte do prédio dominante não loteada ou urbanizada.\n\n7 - A requerimento fundamentado da entidade gestora da infra-estrutura ferroviária, poderão ser judicialmente consideradas extintas as servidões e suprimidas as respectivas PN particulares que, por razões diversas das constantes do número anterior, se tornem desnecessárias ao prédio dominante."
+  },
+  "1010164575": {
+   "fragment_id": "1010164475",
+   "type": 11,
+   "heading": "Artigo 25.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Segurança\n\n1 - As PN particulares devem estar dotadas de obstáculos físicos fechados a cadeado e demais requisitos de segurança que a entidade gestora da infra-estrutura ferroviária venha a considerar necessários.\n\n2 - Nos troços com velocidade ferroviária superior a 120 km/hora, as PN particulares, para além do equipamento indicado no n.º 1, devem também estar equipadas com sinalização automática luminosa ou sonora ou telefone."
+  },
+  "1010164775": {
+   "fragment_id": "1010164675",
+   "type": 11,
+   "heading": "Artigo 26.º — Deveres dos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Deveres dos utentes\n\n1 - Os utentes das PN particulares ficam obrigados a observar o disposto no artigo 22.º, sem prejuízo da responsabilidade do titular da licença ou direito de servidão por incumprimento das obrigações a que está sujeito no que respeita às normas de segurança fixadas neste Regulamento e nos termos da licença concedida.\n\n2 - Os titulares das licenças ou direito de servidão, além de sujeitos ao regime estabelecido no número anterior, devem:\n\na) Respeitar integralmente todas as prescrições constantes dos respectivos títulos;\n\nb) Proceder à vigilância das PN de forma que o atravessamento se faça sempre com inteira segurança e custear as despesas da sua conservação."
+  },
+  "1010164975": {
+   "fragment_id": "1010164875",
+   "type": 1,
+   "heading": "Capítulo IV — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Responsabilidade civil"
+  },
+  "1010165175": {
+   "fragment_id": "1010165075",
+   "type": 11,
+   "heading": "Artigo 27.º — Responsabilidade da entidade gestora da infra-estrutura ferroviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Responsabilidade da entidade gestora da infra-estrutura ferroviária\n\n1 - Em caso de acidente ocorrido no atravessamento de PN pública por peão, veículo ou animal, a entidade gestora da infra-estrutura ferroviária é obrigada a indemnizar a empresa de transporte ferroviário, os utentes e ou terceiros pelos danos causados, sempre que se verifique que a causa do acidente resulta directamente de falha ou omissão de algum dos seus agentes ou sistemas de segurança, designadamente nos seguintes casos e condições:\n\na) Tratando-se de PN equipada com barreiras completas ou meias barreiras, de funcionamento manual ou automático, quando estas se encontrem indevidamente abertas ou o forem espontaneamente por pessoal da entidade gestora da infra-estrutura ferroviária;\n\nb) Tratando-se de PN equipada com barreiras completas ou meias barreiras e sinalização luminosa e ou sonora, quando nenhum destes elementos der indicação impeditiva de atravessamento;\n\nc) Tratando-se de PN equipada com sinalização luminosa e ou sonora, quando nenhum dos sinais der indicação impeditiva de atravessamento;\n\nd) Tratando-se de PN do tipo D, se não possuir as condições de visibilidade mínimas exigidas no presente Regulamento;\n\ne) Em caso de a PN se encontrar fechada e ter sido aberta por agente da entidade gestora da infra-estrutura ferroviária a pedido de quem pretenda passar.\n\n2 - Os acidentes ocorridos em PN são comunicados pela entidade gestora da infra-estrutura ferroviária à entidade administrativa competente, que deve instruir os processos e manter registo estatístico devidamente actualizado."
+  },
+  "1010165375": {
+   "fragment_id": "1010165275",
+   "type": 11,
+   "heading": "Artigo 28.º — Responsabilidade das empresas de transporte ferroviário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Responsabilidade das empresas de transporte ferroviário\n\nEm caso de acidente, as empresas de transporte ferroviário respondem, nos termos da lei, pelos danos causados à entidade gestora da infra-estrutura ferroviária, seus agentes e a terceiros se o acidente resultar directamente do não cumprimento de qualquer norma ou procedimento a que se encontrem obrigados ou de falha dos sistemas de segurança das composições ferroviárias."
+  },
+  "1010165575": {
+   "fragment_id": "1010165475",
+   "type": 11,
+   "heading": "Artigo 29.º — Responsabilidade dos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Responsabilidade dos utentes\n\n1 - Os utentes das PN respondem pelos danos causados à entidade gestora da infra-estrutura ferroviária, às empresas de transporte ferroviário e a terceiros, nos termos da lei geral sobre a responsabilidade civil.\n\n2 - Se o acidente tiver ocorrido em PN particular, a obrigação de indemnização a que se refere o n.º 1 do artigo 27.º recai sobre o titular da licença de passagem ou do direito de servidão."
+  },
+  "1010165775": {
+   "fragment_id": "1010165675",
+   "type": 1,
+   "heading": "Capítulo V — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Contra-ordenações"
+  },
+  "1172241775": {
+   "fragment_id": "1172241675",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver figuras no documento original)"
+  },
+  "1010165975": {
+   "fragment_id": "1010165875",
+   "type": 11,
+   "heading": "Artigo 30.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Legislação aplicável\n\n1 - Sem prejuízo da responsabilidade civil e criminal que a cada caso couber e do disposto na legislação rodoviária quanto a infracções às normas relativas ao atravessamento de PN, as infracções às disposições deste Regulamento têm a natureza de contra-ordenações e são sancionadas e processadas nos termos da respectiva lei geral com as adaptações constantes deste Regulamento.\n\n2 - Nas contra-ordenações previstas neste Regulamento a negligência é sempre punível."
+  },
+  "1172596475": {
+   "fragment_id": "1010166075",
+   "type": 11,
+   "heading": "Artigo 31.º — Auto de notícia",
+   "in_force_from": "2005-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+   ],
+   "markdown": "###### Artigo 31.º — Auto de notícia\n\n1 - Sem prejuízo do disposto na legislação aplicável, as entidades fiscalizadoras devem levantar auto das infracções verificadas e enviá-lo à entidade administrativa competente em razão da matéria, para instrução e aplicação da respectiva coima.\n\n2 - São entidades fiscalizadoras a entidade gestora da infra-estrutura ferroviária e as fixadas na legislação rodoviária.\n\n3 - A instrução dos processos por contra-ordenações previstas no presente diploma compete ao Instituto Nacional do Transporte Ferroviário (INTF).\n\n4 - A aplicação das coimas previstas no presente diploma compete ao conselho de administração do INTF.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+  },
+  "1010166375": {
+   "fragment_id": "1010166275",
+   "type": 11,
+   "heading": "Artigo 32.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Coimas\n\n1 - Sem prejuízo da responsabilidade civil pelos danos eventualmente causados, são punidas as seguintes infracções:\n\na) Ao disposto nas alíneas j) e k) do n.º 3 do artigo 22.º e nas alíneas e) e f) do n.º 4 do mesmo artigo, com coima mínima de 5000$00 e máxima de 25000$00;\n\nb) Ao disposto nas alíneas c) e e) do n.º 3 do artigo 22.º e na alínea d) do n.º 4 do mesmo artigo, com coima mínima de 10000$00 e máxima de 50000$00;\n\nc) Ao disposto nas alíneas a), b), d), f), g), h), i) e l) do n.º 3 do artigo 22.º e nas alíneas a), b) e c) do n.º 4 do mesmo artigo, com coima mínima de 20000$00 e máxima de 100000$00;\n\nd) Ao disposto no artigo 23.º, com coima mínima de 100000$00 e máxima de 500000$00.\n\n2 - A não execução de trabalhos no prazo fixado pela entidade gestora da infra-estrutura ferroviária nos termos do n.º 10 do artigo 8.º é punida com coima mínima de 20000$00 e máxima de 100000$00."
+  },
+  "1172596675": {
+   "fragment_id": "1010166475",
+   "type": 11,
+   "heading": "Artigo 33.º — Produto das coimas",
+   "in_force_from": "2005-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+   ],
+   "markdown": "###### Artigo 33.º — Produto das coimas\n\nA afectação do produto das coimas cobradas faz-se da seguinte forma:\n\na) 10% para a entidade gestora da infra-estrutura ferroviária;\n\nb) 10% para a entidade autuante;\n\nc) 10% para a entidade que instruiu o processo;\n\nd) 10% para a entidade que aplicou a coima;\n\ne) 60% para os cofres do Estado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+  },
+  "1172626175": {
+   "fragment_id": "1010166075",
+   "type": 11,
+   "heading": "Artigo 31.º — Auto de notícia",
+   "in_force_from": "2008-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+   ],
+   "markdown": "###### Artigo 31.º — Auto de notícia\n\n1 - Sem prejuízo do disposto na legislação aplicável, as entidades fiscalizadoras devem levantar auto das infracções verificadas e enviá-lo à entidade administrativa competente em razão da matéria, para instrução e aplicação da respectiva coima.\n\n2 - São entidades fiscalizadoras a entidade gestora da infra-estrutura ferroviária e as fixadas na legislação rodoviária.\n\n3 - A instrução dos processos por contra-ordenações previstas no presente diploma compete ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT).\n\n4 - A aplicação das coimas previstas no presente diploma compete ao conselho directivo do IMTT.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+  },
+  "1172626375": {
+   "fragment_id": "1010166275",
+   "type": 11,
+   "heading": "Artigo 32.º — Coimas",
+   "in_force_from": "2008-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04."
+   ],
+   "markdown": "###### Artigo 32.º — Coimas\n\n1 - Sem prejuízo da responsabilidade civil pelos danos eventualmente causados, são punidas as seguintes infracções:\n\na) Ao disposto nas alíneas j) e k) do n.º 3 do artigo 22.º e nas alíneas e) e f) do n.º 4 do mesmo artigo, com coima mínima de (euro) 35 e máxima de (euro) 165;\n\nb) Ao disposto nas alíneas c) e e) do n.º 3 do artigo 22.º e na alínea d) do n.º 4 do mesmo artigo, com coima mínima de (euro) 65 e máxima de (euro) 325;\n\nc) Ao disposto nas alíneas a), b), d), f), g), h), i) e l) do n.º 3 do artigo 22.º e nas alíneas a), b) e c) do n.º 4 do mesmo artigo, com coima mínima de (euro) 130 e máxima de (euro) 645;\n\nd) Ao disposto no artigo 23.º, com coima mínima de (euro) 645 e máxima de (euro) 3225.\n\n2 - A não execução de trabalhos no prazo fixado pela entidade gestora da infra-estrutura ferroviária nos termos do n.º 10 do artigo 8.º é punida com coima mínima de (euro) 130 e máxima de (euro) 645.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04."
+  },
+  "1174159175": {
+   "fragment_id": "1010156875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "As crescentes exigências em matéria de transportes obrigam a sistemáticas intervenções, que visam melhorar o desempenho e integração dos diferentes modos e, simultaneamente, elevar os respectivos níveis de qualidade, designadamente no que respeita à segurança, eficiência energética e impacte ambiental.\n\nActualmente é dirigido um grande esforço de modernização para o transporte ferroviário, cujas características o tornam especialmente indicado para diversas situações de transporte, quer de pessoas quer de mercadorias, apresentando mesmo melhores indicadores de eficácia global que os restantes modos.\n\nEm matéria de segurança ferroviária, estão em curso diversas acções, designadamente a ampliação dos sistemas de comando centralizado de tráfego e de controlo automático de velocidade.\n\nAs passagens de nível, como uma das componentes mais perturbadoras do sistema de exploração ferroviária, são também pontos de conflito geradores de permanente insegurança.\n\nNos últimos anos tem-se assistido a uma redução do número de acidentes ali verificados, situação que se pode relacionar directamente com o incremento do esforço de supressão de passagens de nível. A progressão tem sido, no entanto, mais lenta que o desejável. Por outro lado, o aumento dos fluxos de tráfego rodoviário e de velocidade das composições ferroviárias podem inverter a tendência referida.\n\nDado o elevado número de passagens de nível ainda existente, considera-se necessária uma intervenção planeada com vista ao incremento das acções de supressão. O presente diploma define um quadro institucional para esse fim.\n\nQuanto ao regime legal das passagens de nível existentes, a prática dos últimos 18 anos revelou impossível a aplicação integral do Decreto-Lei n.º 156/81, de 9 de Junho, designadamente no que respeita à sua classificação. Este facto, aliado à recente reorganização do sector ferroviário, torna necessária a revisão do Regulamento de Passagens de Nível, aprovado pelo referido decreto-lei, o que se faz neste diploma.\n\nNesta revisão foi tido em consideração o que na legislação rodoviária se refere sobre passagens de nível, designadamente sinalização, infracções e coimas, que se entendeu dever reunir no Regulamento ora aprovado.\n\nNos termos da lei foi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim, ao abrigo da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174159375": {
+   "fragment_id": "1010157075",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição do estabelecimento de novas passagens de nível",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 1.º — Proibição do estabelecimento de novas passagens de nível\n\n1 - O atravessamento de linhas férreas por novas vias de comunicação é sempre realizado de forma desnivelada, sendo proibido o estabelecimento de novas passagens de nível, adiante designadas por PN.\n\n2 - Excepcionalmente e por causas absolutamente justificadas, pode ser concedida licença de atravessamento de nível à linha férrea, por tempo previamente definido e estritamente necessário. Estas licenças são autorizadas caso a caso pela entidade gestora da infra-estrutura ferroviária, que fixará em simultâneo os custos e procedimentos de segurança a respeitar.\n\n3 - A beneficiação ou reconstrução de vias rodoviárias que atravessem linhas férreas deve prever o desnivelamento das PN existentes sempre que os volumes de tráfego ferroviário e rodoviário previstos para o ano horizonte determinem um momento de circulação, calculado de acordo com o artigo 7.º do Regulamento de Passagens de Nível, adiante designado por RPN, superior a 24000.\n\n4 - Para os efeitos previstos neste diploma, entende-se por ano horizonte aquele que se obtém adicionando cinco anos ao ano de realização do estudo de reclassificação ou de supressão.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174159475": {
+   "fragment_id": "1010157275",
+   "type": 11,
+   "heading": "Artigo 2.º — Programas de supressão de PN",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 2.º — Programas de supressão de PN\n\n1 - A empresa Rede Ferroviária Nacional - REFER, E. P., o Instituto das Estradas de Portugal (IEP) e as autarquias locais que tenham a seu cargo vias rodoviárias que incluam PN deverão elaborar programas plurianuais de supressão de PN através da construção de passagens desniveladas e ou caminhos de ligação, onde incluirão, designadamente, as PN que se encontrem nas condições seguintes:\n\na) Tenham registado dois ou mais acidentes nos últimos cinco anos;\n\nb) Se situem em troços onde se possam estabelecer circulações ferroviárias a velocidades superiores a 140 km/hora;\n\nc) Possuam momento de circulação superior a 24000, tal como definido no artigo 7.º do RPN;\n\nd) Se situem em via rodoviária com um tráfego médio diário (TMD(índice R)) superior a 2000, determinado de acordo com a alínea b) do n.º 2 e e com n.º 3 do artigo 7.º do RPN;\n\ne) Que atravessem mais de duas vias férreas;\n\nf) Que se devam considerar de particular perigosidade, quer pelas características das vias ferroviária ou rodoviária onde se situam, quer pelo tipo de tráfego rodoviário ou de peões que as utilizam.\n\n2 - O desenvolvimento dos programas é da responsabilidade dos organismos ou entidades proponentes previstas no n.º 1 do presente artigo. Em projectos específicos, poderão estabelecer-se acordos ou parcerias envolvendo organismos ou entidades da administração central, regional ou local, a entidade gestora da infra-estrutura ferroviária e outras entidades públicas ou privadas.\n\n3 - A repartição de encargos em projectos envolvendo dois ou mais organismos ou entidades públicas é fixada em despacho conjunto do Ministro das Finanças e dos ministros da tutela dos organismos envolvidos.\n\n4 - A participação de entidades privadas deve ser sempre fundamentada e precedida de autorização ministerial.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174159575": {
+   "fragment_id": "1010157475",
+   "type": 11,
+   "heading": "Artigo 3.º — Novas urbanizações ou equipamentos colectivos",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 3.º — Novas urbanizações ou equipamentos colectivos\n\n1 - O licenciamento de operações de loteamento, bem como a construção ou desenvolvimento de equipamentos de utilização colectiva, nas proximidades de PN implica a obrigação de construir atravessamentos desnivelados ao caminho de ferro e a supressão das PN existentes, sempre que o acesso às novas urbanizações ou equipamentos se faça através dessas PN.\n\n2 - Os encargos resultantes do cumprimento da obrigação prevista no número anterior são suportados pelo titular do alvará de licenciamento ou pelo dono da obra.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174159675": {
+   "fragment_id": "1010157675",
+   "type": 11,
+   "heading": "Artigo 4.º — Utilização de terrenos necessários às obras de supressão de PN",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 4.º — Utilização de terrenos necessários às obras de supressão de PN\n\n1 - O pedido de aprovação administrativa dos projectos necessários para supressão de PN integrados em programas de supressão plurianuais deve incluir em anexo processo de declaração de utilidade pública com carácter de urgência da expropriação dos imóveis e direitos a eles inerentes, se tal for absolutamente necessário para a realização oportuna das obras.\n\n2 - As passagens desniveladas e caminhos de ligação construídos por iniciativa da entidade gestora da infra-estrutura ferroviária integram-se na rede rodoviária municipal, regional ou nacional, cabendo, respectivamente, à administração local, regional ou central a responsabilidade da beneficiação, manutenção e sinalização das mesmas.\n\n3 - A realização de quaisquer obras em passagens desniveladas cuja estrutura tenha interferência com o caminho de ferro deve merecer o acordo prévio da entidade gestora da infra-estrutura ferroviária.\n\n4 - O disposto nos n.os 2 e 3 aplica-se às passagens desniveladas e caminhos de ligação existentes à data da entrada em vigor do presente Regulamento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174159775": {
+   "fragment_id": "1010157875",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamento de Passagens de Nível",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 5.º — Regulamento de Passagens de Nível\n\nÉ aprovado o Regulamento de Passagens de Nível (RPN), o qual é publicado em anexo ao presente diploma, dele fazendo parte integrante.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174202575": {
+   "fragment_id": "1010158075",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\n1 - A reclassificação das PN existentes, em conformidade com o estipulado no artigo 9.º do novo Regulamento, deve estar concluída no prazo máximo de cinco anos a contar da data de entrada em vigor do presente diploma.\n\n2 - A dotação das PN existentes com as características de visibilidade e com os equipamentos previstos no novo Regulamento será progressivamente efectuada pela entidade gestora da infra-estrutura ferroviária, mediante plano de reconversão a aprovar pelo ministro da tutela, onde se definem as prioridades, meios e prazos para o efeito.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174202675": {
+   "fragment_id": "1010158275",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 156/81, de 9 de Junho.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174202775": {
+   "fragment_id": "1010158475",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a publicação.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174202875": {
+   "fragment_id": "1010158675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.\n\nPromulgado em 2 de Dezembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Dezembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174202975": {
+   "fragment_id": "1010158875",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Passagens de Nível",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "## Anexo — Regulamento de Passagens de Nível\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203075": {
+   "fragment_id": "1010159075",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203175": {
+   "fragment_id": "1010159275",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições legais",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 1.º — Definições legais\n\n1 - Para efeitos do presente Regulamento, considera-se PN todo o cruzamento de nível da via pública ou privada com linhas ou ramais ferroviários.\n\n2 - São públicas as PN situadas em vias do domínio público ou em vias do domínio privado quando abertas ao trânsito público.\n\n3 - São particulares as PN estabelecidas para serviço exclusivo de prédios vizinhos do caminho de ferro, mediante licença concedida pela entidade gestora da infra-estrutura ferroviária.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203275": {
+   "fragment_id": "1010159475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Este Regulamento aplica-se a todas as PN, públicas ou particulares, com excepção das situações previstas nos n.os 2 e 3 do presente artigo.\n\n2 - Não ficam abrangidas por este Regulamento as PN:\n\na) Situadas em linhas ou ramais particulares;\n\nb) Situadas em linhas de eléctricos e de outros transportes urbanos circulando sobre carris;\n\nc) Situadas em troços de caminho de ferro em que as linhas férreas estejam assentes em vias onde também circulem outros meios de transporte;\n\nd) Que se incluam em linhas ou ramais que não integrem a rede base ferroviária.\n\n3 - Do mesmo modo, não ficam abrangidos por este Regulamento os acessos de nível entre plataformas destinadas ao serviço exclusivo das estações ou apeadeiros.\n\n4 - As PN a que se referem as alíneas a) e d) do n.º 2 deste artigo devem ser objecto de regulamentação específica a aprovar pelo ministro da tutela.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203375": {
+   "fragment_id": "1010159675",
+   "type": 11,
+   "heading": "Artigo 3.º — Prioridade e responsabilidade geral",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 3.º — Prioridade e responsabilidade geral\n\n1 - Os veículos ferroviários gozam de prioridade absoluta de passagem nas PN.\n\n2 - Sempre que pretenda atravessar uma PN, o utente é obrigado a respeitar as prescrições da legislação rodoviária e do presente Regulamento, os avisos e sinais afixados nos lugares próprios e as ordens e instruções dadas pelos agentes da entidade gestora da infra-estrutura ferroviária.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203475": {
+   "fragment_id": "1010159875",
+   "type": 11,
+   "heading": "Artigo 4.º — Supressão de PN",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 4.º — Supressão de PN\n\n1 - As PN públicas que possuam momento de circulação nulo, determinado de acordo com o artigo 7.º, e reconhecidamente não sejam utilizadas devem ser suprimidas pela entidade gestora da infra-estrutura ferroviária, após dar conhecimento da intenção de supressão às câmaras municipais respectivas com antecedência não inferior a 30 dias.\n\n2 - Existindo ou sendo viável o estabelecimento de caminhos de ligação, as PN públicas situadas até 700 m de outras PN ou de passagens desniveladas devem ser suprimidas pela entidade gestora da infra-estrutura ferroviária. Sempre que os trabalhos a realizar para o efeito ultrapassem os limites do domínio ferroviário, a intervenção deve ser efectuada em conformidade com parecer das respectivas câmaras municipais.\n\n3 - As PN públicas que tenham passado a servir apenas um prédio devem ser suprimidas. Podem, no entanto, manter-se como particulares, desde que o usuário se conforme com as condições de utilização definidas pela entidade gestora da infra-estrutura ferroviária nos termos do capítulo III do presente Regulamento e caso não exista qualquer acesso alternativo.\n\n4 - Verificando-se a existência de condições para a supressão ou reclassificação de PN e havendo oposição a tal por parte da câmara municipal respectiva, pode, excepcionalmente e por tempo limitado, ser mantida a situação existente. Nesse caso, os encargos e demais responsabilidades resultantes da manutenção da PN são suportados pela câmara municipal.\n\n5 - Para as situações de supressão previstas no n.º 2 deste artigo que venham a ocorrer após a entrada em vigor do presente Regulamento, o prazo máximo para concretização da supressão é de um ano após o estabelecimento dos caminhos de ligação ou entrada em funcionamento da passagem desnivelada que fundamenta a supressão.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203575": {
+   "fragment_id": "1010160075",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiação ou reconstrução de vias rodoviárias",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiação ou reconstrução de vias rodoviárias\n\nOs trabalhos de beneficiação ou reconstrução de estradas ou outras vias rodoviárias que atravessem linhas férreas não podem ser implementados sem que a entidade gestora da infra-estrutura ferroviária dê parecer favorável às soluções preconizadas para as passagens de nível afectadas. Do mesmo modo, a execução dos trabalhos deve ser acordada previamente com a entidade gestora da infra-estrutura ferroviária.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203675": {
+   "fragment_id": "1010160275",
+   "type": 11,
+   "heading": "Artigo 6.º — Linhas de elevada velocidade",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 6.º — Linhas de elevada velocidade\n\nNos troços de linha férrea em que se estabeleçam para os comboios velocidades superiores a 140 km/hora não é permitida a existência de PN, a não ser por tempo limitado previamente fixado e que seja adoptado o regime especial de segurança em PN a que se refere o n.º 8 do artigo 12.º, não podendo em caso algum ser ultrapassado o limite de 160 km/hora.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203775": {
+   "fragment_id": "1010160475",
+   "type": 11,
+   "heading": "Artigo 7.º — Momento de circulação",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 7.º — Momento de circulação\n\n1 - Entende-se por momento de circulação (MC) de uma PN o produto do tráfego médio diário ferroviário (TMD(índice F)) pelo tráfego médio diário rodoviário (TMD(índice R)) que passam nessa PN.\n\n2 - Para os efeitos do n.º 1 do presente artigo, entende-se por:\n\na) TMD(índice F) - número médio diário de circulações ferroviárias;\n\nb) TMD(índice R) - número médio diário de veículos rodoviários, expresso em unidades de veículos ligeiros equivalentes (UVLE).\n\n3 - Os coeficientes de conversão das diferentes classes e tipos de veículos em UVLE são estabelecidos caso a caso em função das características geométricas das vias e das características do tráfego, não podendo ser adoptados valores inferiores aos seguintes:\n\na) Motociclos com ou sem carro lateral - 0,3;\n\nb) Automóveis ligeiros de passageiros ou de mercadorias com ou sem reboque - 1;\n\nc) Pesados de passageiros - 2;\n\nd) Pesados de mercadorias - 3;\n\ne) Veículos agrícolas e máquinas industriais - 3;\n\nf) Pesados com reboque - 4.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174203875": {
+   "fragment_id": "1010160675",
+   "type": 11,
+   "heading": "Artigo 8.º — Visibilidade",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 5-G/2000 - Diário da República n.º 77/2000, 2º Suplemento, Série I-A de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-g-2000-429638), com efeitos a partir de 2000-01-22."
+   ],
+   "markdown": "###### Artigo 8.º — Visibilidade\n\n1 - Entende-se por distância de visibilidade a máxima extensão a que os veículos ferroviários podem ser avistados em toda a sua altura acima de 1,5 m em relação ao plano de rolamento por condutor de veículo rodoviário colocado na posição indicada no n.º 3 deste artigo.\n\n2 - Define-se distância de visibilidade mínima (DV), expressa em metros, o valor obtido pela multiplicação do coeficiente 3,5 por V, sendo V a velocidade máxima permitida aos comboios no troço de via onde se localiza a PN, expressa em quilómetros/hora.\n\n3 - As distâncias de visibilidade determinam-se para cada um dos sentidos do tráfego ferroviário e rodoviário, medem-se sobre o eixo da linha férrea a partir do ponto de intersecção do eixo da via ferroviária com o da via rodoviária e referem-se a um observador colocado no local determinado pela sinalização a que refere o n.º 4 do artigo 11.º, cujo plano de visão se situa a uma altura compreendida entre 1 m e 2,5 m em relação à estrada.\n\n4 - Junto às PN do tipo D, conforme definidas no n.º 5 do artigo 9.º, há obrigatoriamente uma zona de visibilidade, na qual não pode existir qualquer construção ou vegetação que impeça que os veículos ferroviários ali sejam continuamente vistos em toda a sua altura acima de 1,5 m em relação ao plano de rolamento por condutor de veículo rodoviário colocado na posição indicada no n.º 3.\n\n5 - A zona de visibilidade a que se refere o número anterior é constituída pela reunião de quatro triângulos, dois para cada lado da linha férrea, em correlação com cada um dos sentidos normais da circulação ferroviária e rodoviária, determinados em função da distância de visibilidade mínima definida no n.º 2 do presente artigo, conforme figura 1.\n\n6 - Quando a PN se localizar num troço de via férrea em curva, a área da zona de visibilidade corresponde à degeneração dos triângulos definidos no n.º 5, de acordo com o desenvolvimento da curva, tendo em vista a garantia de visibilidade contínua do comboio na aproximação à PN.\n\n7 - Se para adequar as condições de visibilidade de uma PN às condições deste Regulamento a entidade gestora da infra-estrutura ferroviária necessitar de proceder à demolição de construções ou obras, corte de árvores ou vegetações, deverá notificar os proprietários ou possuidores com a antecedência mínima de 20 dias, indemnizando por aquelas intervenções os que comprovem o seu direito, sendo a indemnização fixada por acordo entre os interessados e a entidade gestora da infra-estrutura ferroviária ou, na falta de acordo, por arbitragem, sem prejuízo do direito de recurso nos termos da lei processual civil.\n\n8 - A fim de assegurar a manutenção das condições de visibilidade mínima junto às PN de tipo D, os proprietários ou possuidores dos terrenos não podem praticar quaisquer actos que prejudiquem a visibilidade, designadamente plantar árvores ou outra vegetação, construir muros ou outras edificações, escavações ou aterros, sem que a entidade gestora da infra-estrutura ferroviária dê parecer favorável.\n\n9 - À entidade gestora da infra-estrutura ferroviária compete assegurar a manutenção da visibilidade mínima considerada necessária, notificando para esse fim os proprietários ou possuidores dos terrenos afectados pela servidão para que procedam à demolição de obras indevidamente efectuadas, ao corte de árvores ou de outra vegetação e à remoção de outros obstáculos indevidamente colocados.\n\n10 - Os proprietários ou possuidores devem executar os trabalhos para que foram notificados no prazo de 30 dias ou de 60 dias, no caso de se tratar de demolições, findo o qual pode a entidade gestora da infra-estrutura ferroviária proceder à execução dos trabalhos, cabendo aos proprietários ou possuidores suportar o custo dos mesmos, sendo conferido ao respectivo documento de despesa força de título executivo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 5-G/2000 - Diário da República n.º 77/2000, 2º Suplemento, Série I-A de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-g-2000-429638), com efeitos a partir de 2000-01-22."
+  },
+  "1174203975": {
+   "fragment_id": "1010160875",
+   "type": 1,
+   "heading": "Capítulo II — Das PN públicas",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "### Capítulo II — Das PN públicas\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204075": {
+   "fragment_id": "1010161075",
+   "type": 11,
+   "heading": "Artigo 9.º — Classificação de PN",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 9.º — Classificação de PN\n\n1 - Atendendo à composição dos tráfegos ferroviário e rodoviário, bem como as características das vias ferroviária e rodoviária, as PN públicas classificam-se em A, B, C, D e de peões.\n\n2 - São de tipo A as PN:\n\na) Com momento de circulação igual ou superior a 24000;\n\nb) Com momento de circulação igual ou superior a 10000 e inferior a 24000, situadas em troços de linha onde a velocidade das circulações ferroviárias mais rápidas seja superior a 120 km/hora.\n\n3 - São de tipo B as PN:\n\na) Com momento de circulação igual ou superior a 10000 e inferior a 24000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora;\n\nb) Com momento de circulação inferior a 10000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja superior a 120 km/hora;\n\nc) Com momento de circulação igual ou superior a 5000 e inferior a 10000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja superior a 50 km/hora.\n\n4 - São de tipo C as PN:\n\na) Com momento de circulação igual ou superior a 5000 e inferior a 10000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 50 km/hora;\n\nb) Com momento de circulação igual ou superior a 3000 e inferior a 5000, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora;\n\nc) Com momento de circulação inferior a 3000 e que não possuam visibilidade igual ou superior à distância de visibilidade mínima, determinada de acordo com o previsto no n.º 2 do artigo 8.º, situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora;\n\nd) Com momento de circulação inferior a 3000, situadas em troços de linha em que a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora e com TMD(índice F) igual ou superior a 50.\n\n5 - São de tipo D as PN com momento de circulação inferior a 3000 e TMD(índice F) inferior a 50, que possuam distância de visibilidade igual ou superior à mínima em todos os sentidos de circulação considerados e que estejam situadas em troços de linha onde a velocidade máxima das circulações ferroviárias seja igual ou inferior a 120 km/hora.\n\n6 - São de peões as PN exclusivamente destinadas à passagem de peões.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204175": {
+   "fragment_id": "1010161275",
+   "type": 11,
+   "heading": "Artigo 10.º — Sinalização",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 10.º — Sinalização\n\n1 - A sinalização das vias públicas na aproximação às PN compete às entidades mencionadas na legislação rodoviária, devendo, no entanto, ser objecto de aprovação pela entidade gestora da infra-estrutura ferroviária, e obedece às regras previstas na mesma legislação e à especificidade do presente Regulamento.\n\n2 - A fim de melhorar as condições de segurança ferroviária e rodoviária no atravessamento das PN, devem, sempre que se justifique, ser utilizadas marcas rodoviárias acompanhadas de sinais de regulamentação de velocidade.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204275": {
+   "fragment_id": "1010161475",
+   "type": 11,
+   "heading": "Artigo 11.º — Sinalização do trânsito e equipamentos de segurança",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 11.º — Sinalização do trânsito e equipamentos de segurança\n\n1 - Os sinais e equipamentos de segurança a utilizar em PN são os indicados, respectivamente, nos n.os 2 e 6 deste artigo.\n\n2 - Sinais:\n\na) Sinal constituído por uma luz circular vermelha intermitente ou por um sistema de duas luzes circulares vermelhas acendendo alternadamente, significando a obrigatoriedade de parar, conforme figura 2;\n\nb) Sinal constituído por um sistema de três luzes circulares com as cores vermelha, amarela e verde, a que correspondem os significados previstos na legislação rodoviária;\n\nc) Sinal constituído por um sistema de duas luzes circulares com as cores vermelha e amarela, a que correspondem os significados previstos na legislação rodoviária;\n\nd) Sinal constituído por uma luz circular vermelha intermitente, ou por um sistema de duas luzes circulares vermelhas acendendo alternadamente, significando a obrigatoriedade de parar, e por uma luz circular de cor branca lunar, intermitente ou fixa, significando autorização de passar, conforme figuras 3 e 4;\n\ne) Sinal sonoro, significando obrigatoriedade de parar;\n\nf) Sinais de local de PN sem guarda de uma e de duas ou mais vias - cruz de Santo André;\n\ng) Sinal de paragem obrigatória em cruzamentos ou entroncamentos - «STOP»;\n\nh) Outros sinais previstos na legislação rodoviária.\n\n3 - Os sinais luminosos são colocados nas vias rodoviárias próximo das PN, em local que garanta boa visibilidade e do lado direito do sentido do trânsito a que respeitam, podendo, quando justificado, ser repetidos do lado esquerdo ou por cima em suporte adequado.\n\n4 - Os sinais de perigo indicando o local de PN sem guarda ou o eventual sinal de paragem obrigatória na proximidade imediata de PN sem barreiras ou meias barreiras são colocados do lado direito da via rodoviária no sentido do trânsito a que respeitam e à distância de 5 m do carril mais próximo podendo, quando justificado, esta distância ser reduzida, mas nunca para menos de 3,5 m.\n\n5 - Os sinais sonoros devem estar instalados nos mesmos suportes dos sinais luminosos.\n\n6 - Barreiras completas ou meias barreiras, de funcionamento manual ou automático.\n\n7 - As barreiras completas, com excepção das constituídas por correntes, e as meias barreiras são pintadas de branco ou listadas de vermelho e branco ou de vermelho e amarelo, devendo as correntes ou barreiras pintadas apenas de branco ser complementadas com um alvo vermelho ao centro para melhor as assinalar.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204375": {
+   "fragment_id": "1010161675",
+   "type": 11,
+   "heading": "Artigo 12.º — Equipamento por tipo de PN",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 12.º — Equipamento por tipo de PN\n\n1 - As PN de tipo A, B e C são guarnecidas e dotadas de equipamentos de comando manual ou, em alternativa ao guarnecimento, equipadas com dispositivos de segurança de comando automático com as seguintes características:\n\na) PN de tipo A: barreiras ou meias barreiras e sinalização prevista no n.º 2 do presente artigo;\n\nb) PN de tipo B: barreiras ou meias barreiras e sinalização prevista no n.º 3 do presente artigo;\n\nc) PN de tipo C: sinalização prevista no n.º 4 do presente artigo.\n\n2 - As PN do tipo A que estejam equipadas com barreiras ou meias barreiras, de comando automático ou manual a distância donde não sejam visíveis, têm a sinalização luminosa prevista na alínea a) do n.º 2 do artigo 11.º, a qual pode ser completada ou substituída pela prevista nas alíneas b) ou c) do mesmo número. Complementarmente, pode instalar-se sinalização sonora. Nas PN deste tipo com comando manual no local dispensa-se a sinalização luminosa e sonora.\n\n3 - O disposto no número anterior aplica-se às PN do tipo B, não sendo, porém, permitida a substituição do sinal da alínea a) do n.º 2 do artigo 11.º pelos sinais descritos nas alíneas b) ou c) do mesmo número, podendo estes sinais apenas ser utilizados como complemento no caso de existir sinalização rodoviária luminosa antes da PN.\n\n4 - As PN do tipo C devem ser equipadas com o sinal previsto na alínea a) do n.º 2 do artigo 11.º ou os constantes das alíneas d) e f) do mesmo número, facultativamente completados com sinais sonoros. Esta sinalização pode ser completada ou substituída por um dos sistemas de duas ou de três luzes circulares previstos nas alíneas b) e c) do n.º 2 do artigo 11.º, se pouco antes da PN existir sinalização rodoviária luminosa. Em caminhos de terra com reduzida circulação rodoviária podem ser utilizados apenas sinais sonoros.\n\n5 - As PN do tipo D têm o sinal previsto na alínea f) do n.º 2 do artigo 11.º e, facultativamente, o previsto na alínea g) do mesmo número, salvo quando se trate de estradas nacionais, regionais ou municipais, em que têm obrigatoriamente os referidos sinais, colocados no mesmo suporte, conforme figura 5, e ainda, marcada no pavimento, uma linha de paragem com a inscrição «STOP».\n\n6 - Sempre que possível, deve existir nas vias rodoviárias na aproximação à PN um separador central ou uma linha longitudinal contínua marcada no pavimento a separar os sentidos de circulação e ainda ser marcada uma linha de paragem para o tráfego rodoviário.\n\n7 - As PN de peões são equipadas com placa com a indicação «Pare, escute e olhe» e, quando se justifique, com labirinto ou com sinalização luminosa ou sonora, conforme figura 6.\n\n8 - Em PN incluídas em troços de linha férrea onde se estabeleçam velocidades superiores a 140 km/hora deve ser adoptado um regime especial de segurança por recurso à utilização simultânea dos dispositivos de comando automático determinados no presente artigo para as PN de tipo A ou B e de dispositivos de detecção automática de obstáculos ou de guarnecimento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204475": {
+   "fragment_id": "1010161875",
+   "type": 11,
+   "heading": "Artigo 13.º — Reclassificação",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 13.º — Reclassificação\n\n1 - A entidade gestora da infra-estrutura ferroviária deve verificar a correcta classificação de cada PN com intervalos de tempo não superiores a cinco anos e sempre que as circunstâncias o aconselharem, designadamente por alteração das condições de circulação ferroviária ou rodoviária e a pedido das autarquias.\n\n2 - A análise a realizar para os efeitos previstos no n.º 1 deste artigo deve incluir uma previsão dos volumes de tráfego até ao ano horizonte, que, sem prejuízo da possibilidade de utilização de modelos de previsão mais poderosos, deve basear-se em contagens e na análise da tendência de crescimento do tráfego e do desenvolvimento urbano.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204575": {
+   "fragment_id": "1010162075",
+   "type": 11,
+   "heading": "Artigo 14.º — Início do fecho das PN",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 14.º — Início do fecho das PN\n\n1 - As PN dos tipos A, B ou C devem ser fechadas, relativamente à passagem de cada circulação ferroviária, com a antecedência mínima seguinte:\n\na) Vinte segundos, as PN do tipo C automático;\n\nb) Vinte e cinco segundos, as PN do tipo B automático e as do tipo A, B ou C comandadas em conjugação com sinais ferroviários;\n\nc) Sessenta segundos, as PN dos tipos A, B ou C com barreiras de comando manual e com sinais rodoviários automáticos;\n\nd) Noventa segundos, as PN dos tipos A, B ou C com barreiras de comando manual e anúncio automático de aproximação de circulação ferroviária aos guardas das PN;\n\ne) Cinco ou dez minutos, consoante a intensidade dos tráfegos ferroviário e rodoviário, as restantes PN dos tipos A, B e C, desde que não se trate de manobras, caso em que podem ser fechadas com a antecedência estritamente necessária.\n\n2 - Para os efeitos do presente Regulamento, a PN considera-se fechada a partir do momento em que os sinais rodoviários luminosos ou sonoros indiquem proibição de atravessamento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204675": {
+   "fragment_id": "1010162275",
+   "type": 11,
+   "heading": "Artigo 15.º — Telefones",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 15.º — Telefones\n\n1 - As PN dos tipos A, B e C, desde que guarnecidas, são dotadas de telefone para uso do respectivo pessoal.\n\n2 - As PN dos tipos A, B e C desguarnecidas podem ser dotadas com telefone apropriado, para uso do público em caso de emergência. O mesmo telefone pode ser utilizado nas PN guarnecidas à distância, para solicitar autorização de passagem.\n\n3 - Os telefones instalados para uso do público são devidamente sinalizados e devem dispor de instruções necessárias para a sua utilização.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204775": {
+   "fragment_id": "1010162475",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime de funcionamento",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 16.º — Regime de funcionamento\n\n1 - Quanto ao regime de funcionamento, as PN dos tipos A, B e C, desde que guarnecidas, classificam-se em:\n\na) Normalmente abertas;\n\nb) Normalmente fechadas;\n\nc) Temporariamente abertas;\n\nd) Temporariamente fechadas.\n\n2 - Consideram-se normalmente abertas as PN que asseguram a continuidade do tráfego rodoviário com interrupções somente nos períodos de aproximação e passagem de circulações ferroviárias.\n\n3 - Consideram-se normalmente fechadas as PN que somente se abrem a pedido dos utentes, para possibilitar, quando não haja perigo, a circulação rodoviária.\n\n4 - Consideram-se temporariamente abertas as PN que durante períodos perfeitamente definidos permanecem ininterruptamente abertas ao tráfego rodoviário.\n\n5 - Consideram-se temporariamente fechadas as PN que durante certos períodos, devidamente assinalados nos respectivos acessos, estão encerradas ao tráfego rodoviário.\n\n6 - Os períodos de abertura ou encerramento podem corresponder a parte ou partes do dia ou do ano, isolada ou cumulativamente.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204875": {
+   "fragment_id": "1010162675",
+   "type": 11,
+   "heading": "Artigo 17.º — Itinerários de alternativa",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 17.º — Itinerários de alternativa\n\nNas PN dos tipos A, B e C desguarnecidas e naquelas em que o regime de funcionamento seja o de temporariamente fechadas deve haver indicação dos itinerários de alternativa.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174204975": {
+   "fragment_id": "1010162875",
+   "type": 11,
+   "heading": "Artigo 18.º — Guarnecimento",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 18.º — Guarnecimento\n\n1 - As PN são consideradas em regime de guarnecimento quando dotadas de pessoal, privativo da PN ou não, no próprio local ou à distância.\n\n2 - São guarnecidas as PN dos tipos A, B e C, quando forem de comando manual, no local ou à distância, sem prejuízo do disposto no n.º 8 do artigo 12.º\n\n3 - O guarnecimento não é, no entanto, necessário durante os períodos em que as PN estejam temporariamente abertas ou temporariamente fechadas ou quando os comboios parem obrigatoriamente imediatamente antes da PN.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205075": {
+   "fragment_id": "1010163075",
+   "type": 11,
+   "heading": "Artigo 19.º — Desguarnecimento",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 19.º — Desguarnecimento\n\nSão desguarnecidas as seguintes PN:\n\na) Tipo D;\n\nb) Tipos A, B e C, quando dotadas dos equipamentos de segurança de comando automático estabelecidos neste Regulamento para o respectivo tipo;\n\nc) As destinadas exclusivamente à passagem de peões.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205175": {
+   "fragment_id": "1010163275",
+   "type": 11,
+   "heading": "Artigo 20.º — Deveres da entidade gestora da infra-estrutura ferroviária e dos seus agentes",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 20.º — Deveres da entidade gestora da infra-estrutura ferroviária e dos seus agentes\n\n1 - São deveres da entidade gestora da infra-estrutura ferroviária:\n\na) Manter em bom funcionamento os equipamentos das PN, acorrendo com a maior celeridade às reparações das avarias que eventualmente se verifiquem;\n\nb) Obrigar a manter livre de obstáculos a zona de visibilidade referida no artigo 8.º\n\n2 - São deveres dos agentes da entidade gestora da infra-estrutura ferroviária que guarnecem as PN:\n\na) Manterem-se no respectivo local de trabalho de forma atenta e vigilante, só o devendo abandonar após terminado o período de guarnecimento e verificada a sua substituição;\n\nb) Manobrar e fazer funcionar, quando for caso disso, os equipamentos das PN;\n\nc) Dar conhecimento aos seus superiores de todas as infracções praticadas pelos utentes das PN, descrevendo pormenorizadamente as infracções cometidas e fornecendo todos os elementos de identificação dos infractores de que tenha conhecimento;\n\nd) Cumprir todas as instruções e regulamentos relativos ao seu serviço.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205275": {
+   "fragment_id": "1010163475",
+   "type": 11,
+   "heading": "Artigo 21.º — Deveres das empresas de transporte ferroviário e dos seus agentes",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 21.º — Deveres das empresas de transporte ferroviário e dos seus agentes\n\nSão deveres das empresas de transporte ferroviário e dos seus agentes:\n\na) Respeitar a sinalização ferroviária existente, bem como as normas e procedimentos em vigor referentes à circulação de comboios;\n\nb) Cumprir as ordens dos agentes da entidade gestora da infra-estrutura ferroviária, ainda que sob a forma de sinais, desde que transmitidas em conformidade com as normas e procedimentos em vigor;\n\nc) Accionar os sinais sonoros do material circulante quando da aproximação às PN;\n\nd) Transmitir à entidade gestora da infra-estrutura ferroviária quaisquer factos observados em PN que possam afectar a segurança de pessoas e bens;\n\ne) Em situações de ocupação indevida das PN, avaria dos equipamentos de segurança ou de outra qualquer anormalidade verificada, adoptar de imediato procedimentos que evitem a ocorrência de acidente ou lhe reduzam a gravidade.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205375": {
+   "fragment_id": "1010163675",
+   "type": 11,
+   "heading": "Artigo 22.º — Deveres dos utentes",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 22.º — Deveres dos utentes\n\n1 - Os utentes das PN públicas só devem proceder ao atravessamento destas depois de terem tomado todas as precauções para o poderem fazer sem perigo, quer para si quer para terceiros.\n\n2 - O atravessamento só pode fazer-se nas seguintes condições:\n\na) Se a PN estiver munida apenas de sinalização luminosa e ou sonora, quando não houver sinal indicativo de impedimento e o utente tiver tomado as precauções necessárias para se assegurar que não se aproxima qualquer circulação ferroviária;\n\nb) Se a PN tiver barreiras completas ou meias barreiras, quando estas se encontrem completamente abertas;\n\nc) Se a PN estiver munida de sinalização luminosa e ou sonora e barreiras completas ou meias barreiras, quando nenhum destes elementos der indicação impeditiva;\n\nd) Se a PN dispuser de entrada destinada a peões, quando esta estiver franqueada e o utente tiver tomado as precauções necessárias para o poder fazer sem perigo;\n\ne) Se a PN não estiver munida de sinalização luminosa e ou sonora nem de barreiras completas ou meias barreiras, quando o utilizador tiver tomado as precauções necessárias para se assegurar que não se aproxima qualquer circulação ferroviária.\n\n3 - Sem prejuízo do disposto nos números anteriores, é, em especial, proibido aos utentes:\n\na) Entrar nas PN quando lhes seja apresentada indicação de proibição, quer pela sinalização, quer pelos agentes ferroviários em serviço nas PN;\n\nb) Entrar nas PN sem que a respectiva saída esteja livre;\n\nc) Utilizar, sem autorização escrita da entidade gestora da infra-estrutura ferroviária, o interior das PN para acesso de viaturas a estabelecimentos, residências, parques ou outras instalações adjacentes;\n\nd) Abrir, escalar ou arrombar vedações, barreiras ou quaisquer outros equipamentos instalados nas PN;\n\ne) Demorar mais de dez segundos a atravessar as PN, excepto em caso de situação anormal e de cuja ocorrência não lhe seja imputável responsabilidade;\n\nf) Atravessar as PN, se a altura do veículo conjugada com o afastamento entre eixos ou a disposição da carga puder provocar apoio nas lombas das PN;\n\ng) Proceder a ultrapassagens imediatamente antes e no interior das PN, excepto se na faixa de rodagem forem possíveis duas ou mais filas de trânsito no mesmo sentido e desde que a ultrapassagem se não faça pela parte da faixa de rodagem destinada ao trânsito em sentido oposto;\n\nh) Inverter o sentido de marcha;\n\ni) Efectuar manobra de marcha-atrás sem prejuízo do que a este respeito se dispõe no Código da Estrada;\n\nj) Parar ou estacionar dentro das PN;\n\nk) Estacionar a menos de 10 m para um e outro lado das PN;\n\nl) Iniciar o atravessamento da PN, ainda que a sinalização lho permita, sem se certificar que a intensidade do trânsito não o obriga a imobilizar o veículo sobre ela.\n\n4 - Os utentes são obrigados a:\n\na) Ceder passagem aos veículos que saem das PN;\n\nb) Acatar prontamente as instruções que sejam dadas pelos agentes ferroviários em serviço nas PN e, bem assim, todas as demais prescrições;\n\nc) Em caso de imobilização forçada de veículo ou animal ou de queda da respectiva carga numa PN, o respectivo condutor deve promover a sua imediata remoção ou, não sendo esta possível, tomar as medidas necessárias para que os condutores dos veículos ferroviários que se aproximem se possam aperceber da presença do obstáculo;\n\nd) Adoptar uma velocidade especialmente moderada no atravessamento das PN;\n\ne) Utilizar luzes de cruzamento, médios, na aproximação de PN fechada, sempre que, de acordo com o previsto no Código da Estrada, seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação;\n\nf) Utilizar luzes de presença, mínimos, enquanto aguarda a abertura de PN fechada, sempre que, de acordo com o previsto no Código da Estrada, seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação.\n\n5 - Nas PN dotadas de telefone para uso do público, os utentes só podem utilizá-lo para participar situações de perigo, pedir informações ou assistência ou solicitar autorização de passagem, quando for caso disso.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205475": {
+   "fragment_id": "1010163875",
+   "type": 11,
+   "heading": "Artigo 23.º — Veículos especiais",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 23.º — Veículos especiais\n\n1 - Os veículos cujas características não permitam a sua circulação sem medidas de segurança face ao Código da Estrada só podem atravessar as PN mediante autorização especial da entidade gestora da infra-estrutura ferroviária.\n\n2 - Na autorização deve indicar-se o dia, hora, local e condições de atravessamento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205575": {
+   "fragment_id": "1010164075",
+   "type": 1,
+   "heading": "Capítulo III — Das PN particulares",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "### Capítulo III — Das PN particulares\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205675": {
+   "fragment_id": "1010164275",
+   "type": 11,
+   "heading": "Artigo 24.º — Condicionamentos",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 24.º — Condicionamentos\n\n1 - As PN particulares podem resultar:\n\na) De licença de atravessamento passada pela entidade gestora da infra-estrutura ferroviária;\n\nb) De compromisso assumido por ocasião da construção da via férrea, cujo direito de servidão tenha sido comprovado.\n\n2 - As PN a que se refere a alínea a) do número anterior regem-se pelo estabelecido no presente Regulamento e pelos termos e natureza da licença.\n\n3 - As PN a que se refere a alínea b) têm o regime que o título constitutivo e a lei prescrevem para o direito de servidão.\n\n4 - Pela emissão da licença será devida a taxa praticada pela entidade gestora da infra-estrutura ferroviária.\n\n5 - São de conta e risco do titular da licença todas as obras que a entidade gestora da infra-estrutura ferroviária julgar necessárias para a emissão da licença, bem como todas as obras de manutenção, conservação e reparação da PN.\n\n6 - São extintas as servidões e suprimidas as respectivas PN particulares sempre que:\n\na) Existindo ou constituindo-se outros acessos alternativos ao prédio dominante, aquelas se situem a menos de 700 m de outras PN ou de passagens desniveladas;\n\nb) O prédio dominante seja loteado ou por outra forma urbanizado, salvo se, no caso de loteamento ou urbanizações parciais, se mantiver a necessidade de servidão para a parte do prédio dominante não loteada ou urbanizada.\n\n7 - A requerimento fundamentado da entidade gestora da infra-estrutura ferroviária, poderão ser judicialmente consideradas extintas as servidões e suprimidas as respectivas PN particulares que, por razões diversas das constantes do número anterior, se tornem desnecessárias ao prédio dominante.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205775": {
+   "fragment_id": "1010164475",
+   "type": 11,
+   "heading": "Artigo 25.º — Segurança",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 25.º — Segurança\n\n1 - As PN particulares devem estar dotadas de obstáculos físicos fechados a cadeado e demais requisitos de segurança que a entidade gestora da infra-estrutura ferroviária venha a considerar necessários.\n\n2 - Nos troços com velocidade ferroviária superior a 120 km/hora, as PN particulares, para além do equipamento indicado no n.º 1, devem também estar equipadas com sinalização automática luminosa ou sonora ou telefone.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205875": {
+   "fragment_id": "1010164675",
+   "type": 11,
+   "heading": "Artigo 26.º — Deveres dos utentes",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 26.º — Deveres dos utentes\n\n1 - Os utentes das PN particulares ficam obrigados a observar o disposto no artigo 22.º, sem prejuízo da responsabilidade do titular da licença ou direito de servidão por incumprimento das obrigações a que está sujeito no que respeita às normas de segurança fixadas neste Regulamento e nos termos da licença concedida.\n\n2 - Os titulares das licenças ou direito de servidão, além de sujeitos ao regime estabelecido no número anterior, devem:\n\na) Respeitar integralmente todas as prescrições constantes dos respectivos títulos;\n\nb) Proceder à vigilância das PN de forma que o atravessamento se faça sempre com inteira segurança e custear as despesas da sua conservação.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174205975": {
+   "fragment_id": "1010164875",
+   "type": 1,
+   "heading": "Capítulo IV — Responsabilidade civil",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "### Capítulo IV — Responsabilidade civil\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174206075": {
+   "fragment_id": "1010165075",
+   "type": 11,
+   "heading": "Artigo 27.º — Responsabilidade da entidade gestora da infra-estrutura ferroviária",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 27.º — Responsabilidade da entidade gestora da infra-estrutura ferroviária\n\n1 - Em caso de acidente ocorrido no atravessamento de PN pública por peão, veículo ou animal, a entidade gestora da infra-estrutura ferroviária é obrigada a indemnizar a empresa de transporte ferroviário, os utentes e ou terceiros pelos danos causados, sempre que se verifique que a causa do acidente resulta directamente de falha ou omissão de algum dos seus agentes ou sistemas de segurança, designadamente nos seguintes casos e condições:\n\na) Tratando-se de PN equipada com barreiras completas ou meias barreiras, de funcionamento manual ou automático, quando estas se encontrem indevidamente abertas ou o forem espontaneamente por pessoal da entidade gestora da infra-estrutura ferroviária;\n\nb) Tratando-se de PN equipada com barreiras completas ou meias barreiras e sinalização luminosa e ou sonora, quando nenhum destes elementos der indicação impeditiva de atravessamento;\n\nc) Tratando-se de PN equipada com sinalização luminosa e ou sonora, quando nenhum dos sinais der indicação impeditiva de atravessamento;\n\nd) Tratando-se de PN do tipo D, se não possuir as condições de visibilidade mínimas exigidas no presente Regulamento;\n\ne) Em caso de a PN se encontrar fechada e ter sido aberta por agente da entidade gestora da infra-estrutura ferroviária a pedido de quem pretenda passar.\n\n2 - Os acidentes ocorridos em PN são comunicados pela entidade gestora da infra-estrutura ferroviária à entidade administrativa competente, que deve instruir os processos e manter registo estatístico devidamente actualizado.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174206175": {
+   "fragment_id": "1010165275",
+   "type": 11,
+   "heading": "Artigo 28.º — Responsabilidade das empresas de transporte ferroviário",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 28.º — Responsabilidade das empresas de transporte ferroviário\n\nEm caso de acidente, as empresas de transporte ferroviário respondem, nos termos da lei, pelos danos causados à entidade gestora da infra-estrutura ferroviária, seus agentes e a terceiros se o acidente resultar directamente do não cumprimento de qualquer norma ou procedimento a que se encontrem obrigados ou de falha dos sistemas de segurança das composições ferroviárias.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174206275": {
+   "fragment_id": "1010165475",
+   "type": 11,
+   "heading": "Artigo 29.º — Responsabilidade dos utentes",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 29.º — Responsabilidade dos utentes\n\n1 - Os utentes das PN respondem pelos danos causados à entidade gestora da infra-estrutura ferroviária, às empresas de transporte ferroviário e a terceiros, nos termos da lei geral sobre a responsabilidade civil.\n\n2 - Se o acidente tiver ocorrido em PN particular, a obrigação de indemnização a que se refere o n.º 1 do artigo 27.º recai sobre o titular da licença de passagem ou do direito de servidão.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174206375": {
+   "fragment_id": "1010165675",
+   "type": 1,
+   "heading": "Capítulo V — Contra-ordenações",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "### Capítulo V — Contra-ordenações\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174206475": {
+   "fragment_id": "1010165875",
+   "type": 11,
+   "heading": "Artigo 30.º — Legislação aplicável",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "###### Artigo 30.º — Legislação aplicável\n\n1 - Sem prejuízo da responsabilidade civil e criminal que a cada caso couber e do disposto na legislação rodoviária quanto a infracções às normas relativas ao atravessamento de PN, as infracções às disposições deste Regulamento têm a natureza de contra-ordenações e são sancionadas e processadas nos termos da respectiva lei geral com as adaptações constantes deste Regulamento.\n\n2 - Nas contra-ordenações previstas neste Regulamento a negligência é sempre punível.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  },
+  "1174206575": {
+   "fragment_id": "1010166075",
+   "type": 11,
+   "heading": "Artigo 31.º — Auto de notícia",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+   ],
+   "markdown": "###### Artigo 31.º — Auto de notícia\n\n1 - Sem prejuízo do disposto na legislação aplicável, as entidades fiscalizadoras devem levantar auto das infracções verificadas e enviá-lo à entidade administrativa competente em razão da matéria, para instrução e aplicação da respectiva coima.\n\n2 - São entidades fiscalizadoras a entidade gestora da infra-estrutura ferroviária e as fixadas na legislação rodoviária.\n\n3 - A instrução dos processos por contra-ordenações previstas no presente diploma compete ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT).\n\n4 - A aplicação das coimas previstas no presente diploma compete ao conselho directivo do IMTT.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+  },
+  "1174206675": {
+   "fragment_id": "1010166275",
+   "type": 11,
+   "heading": "Artigo 32.º — Coimas",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04."
+   ],
+   "markdown": "###### Artigo 32.º — Coimas\n\n1 - Sem prejuízo da responsabilidade civil pelos danos eventualmente causados, são punidas as seguintes infracções:\n\na) Ao disposto nas alíneas j) e k) do n.º 3 do artigo 22.º e nas alíneas e) e f) do n.º 4 do mesmo artigo, com coima mínima de (euro) 35 e máxima de (euro) 165;\n\nb) Ao disposto nas alíneas c) e e) do n.º 3 do artigo 22.º e na alínea d) do n.º 4 do mesmo artigo, com coima mínima de (euro) 65 e máxima de (euro) 325;\n\nc) Ao disposto nas alíneas a), b), d), f), g), h), i) e l) do n.º 3 do artigo 22.º e nas alíneas a), b) e c) do n.º 4 do mesmo artigo, com coima mínima de (euro) 130 e máxima de (euro) 645;\n\nd) Ao disposto no artigo 23.º, com coima mínima de (euro) 645 e máxima de (euro) 3225.\n\n2 - A não execução de trabalhos no prazo fixado pela entidade gestora da infra-estrutura ferroviária nos termos do n.º 10 do artigo 8.º é punida com coima mínima de (euro) 130 e máxima de (euro) 645.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 77/2008 - Diário da República n.º 83/2008, Série I de 2008-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2008-249571), em vigor a partir de 2008-05-04."
+  },
+  "1174206775": {
+   "fragment_id": "1010166475",
+   "type": 11,
+   "heading": "Artigo 33.º — Produto das coimas",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+   ],
+   "markdown": "###### Artigo 33.º — Produto das coimas\n\nA afectação do produto das coimas cobradas faz-se da seguinte forma:\n\na) 10% para a entidade gestora da infra-estrutura ferroviária;\n\nb) 10% para a entidade autuante;\n\nc) 10% para a entidade que instruiu o processo;\n\nd) 10% para a entidade que aplicou a coima;\n\ne) 60% para os cofres do Estado.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2005-624455), em vigor a partir de 2005-01-31."
+  },
+  "1174206875": {
+   "fragment_id": "1172241675",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2027-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+   ],
+   "markdown": "## Anexo\n\n(ver figuras no documento original)\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 183/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2026-1171382770), em vigor a partir de 2027-03-01."
+  }
+ }
+}

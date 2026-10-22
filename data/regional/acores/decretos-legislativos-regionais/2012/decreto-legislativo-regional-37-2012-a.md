@@ -1,0 +1,276 @@
+---
+schema_version: '1.0'
+id: pt:dre:176280:por
+title: Decreto Legislativo Regional n.º 37/2012/A
+short_title: null
+summary: Estabelece o regime jurídico das comissões de inquérito da Assembleia Legislativa da Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 37/2012/A
+official_date: null
+publication_date: '2012-09-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/2012, Série I de 2012-09-18
+  number: '181'
+  series: I
+  supplement: null
+  pages: 5248 - 5251
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18100/0524805251.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/37/2012/09/18/a/dre/pt/html
+  oj: null
+  dre: '176280'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/37-2012-176280
+  internal: pt:dre:176280:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2012-176280
+  metadata_url: https://data.dre.pt/eli/declegreg/37/2012/09/18/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2012-176280
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-09-18T00:00:00Z'
+integrity:
+  source_sha256: 80c03bbb15e047231858b6d599eb477702e54ae61b5ce8b590be187978481dac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2012/DRE-2012-37-176280.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa Regional
+- Comissão de Inquérito
+- Inquérito Parlamentar
+- Regime Jurídico
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 37/2012/A
+
+Regime jurídico das comissões de inquérito da Assembleia Legislativa da Região Autónoma dos Açores
+
+A Constituição da República Portuguesa, após a revisão constitucional de 1989, clarificou o estatuto constitucional das comissões parlamentares de inquérito constituídas pelas Assembleias Legislativas, remetendo uma parte do seu regime organizatório para o estatuído para a Assembleia da República, conferindo-lhes poderes de investigação próprios das autoridades judiciárias.
+
+O Estatuto Político-Administrativo da Região Autónoma dos Açores, após a terceira revisão, operada pela [Lei n.º 2/2009](https://diariodarepublica.pt/dr/detalhe/lei/2-2009-397322), de 12 de janeiro, estabelece que o regime jurídico das comissões parlamentares de inquérito é aprovado pela Assembleia Legislativa, através de decreto legislativo regional.
+
+O regime jurídico dos inquéritos parlamentares, no quadro da fiscalização do Governo Regional e da Administração Regional Autónoma, exercida pela Assembleia Legislativa, densifica o regime constitucional e estatutário dos inquéritos parlamentares.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 4 do artigo 112.º da Constituição da República Portuguesa, no n.º 1 do artigo 37.º e no n.º 7 artigo 73.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Função e objeto
+
+1 - Os inquéritos da Assembleia Legislativa da Região Autónoma dos Açores têm por função vigiar pelo cumprimento da Constituição, do Estatuto Político-Administrativo e das leis, bem como apreciar os atos do Governo Regional e da Administração Regional Autónoma, e podem ter por objeto qualquer matéria de interesse público relevante para o exercício das atribuições da Assembleia Legislativa.
+
+2 - Os inquéritos parlamentares são realizados através de comissões eventuais, especialmente constituídas para cada caso, nos termos do Regimento da Assembleia Legislativa.
+
+###### Artigo 2.º — Do objeto das comissões de inquérito
+
+1 - Os inquéritos parlamentares que tenham por objeto atos do Governo Regional ou da Administração Regional Autónoma limitam-se aos ocorridos na legislatura em curso, salvo se se reportarem a matérias ainda em apreciação, a factos novos ou a factos cujo conhecimento superveniente apenas tenha ocorrido na legislatura em curso.
+
+2 - Durante o período de cada sessão legislativa não é permitida a constituição de nova comissão de inquérito que tenha o mesmo objeto de outra comissão que esteja em exercício de funções ou que as tenha terminado nessa sessão legislativa ou nos seis meses antecedentes, salvo se existirem factos novos.
+
+3 - O objeto do inquérito parlamentar não é suscetível de alteração.
+
+###### Artigo 3.º — Iniciativa
+
+1 - A iniciativa dos inquéritos parlamentares pertence aos grupos parlamentares e aos deputados.
+
+2 - Os inquéritos parlamentares realizam-se mediante deliberação do Plenário da Assembleia Legislativa, revestindo a forma de resolução, ou a requerimento de, pelo menos, um quinto dos deputados em efetividade de funções, até ao limite de um por deputado e por sessão legislativa.
+
+###### Artigo 4.º — Requisitos formais
+
+1 - Os projetos de resolução ou os requerimentos tendentes à realização de um inquérito parlamentar indicam o seu objeto e fundamentos, a duração do inquérito e o número de membros que compõem a comissão, sob pena de rejeição liminar pelo Presidente da Assembleia Legislativa.
+
+2 - Tratando-se de requerimento para a constituição obrigatória de uma comissão de inquérito, o Presidente da Assembleia Legislativa verifica, também, a existência formal das condições previstas na parte final do n.º 2 do artigo anterior, o número e identidade dos deputados subscritores e a conformidade do objeto, fundamentos, duração e número de membros da comissão com o disposto na Constituição, no Estatuto Político-Administrativo, no Regimento e no presente diploma, notificando de imediato o primeiro subscritor para suprir a falta ou faltas correspondentes.
+
+3 - Da não admissão de um projeto de resolução ou de um requerimento, nos termos do disposto no n.º 1, cabe sempre recurso para o Plenário da Assembleia Legislativa, nos termos do Regimento.
+
+###### Artigo 5.º — Tramitação e constituição da comissão de inquérito
+
+1 - Admitido um projeto de resolução tendente à realização de um inquérito parlamentar, o Presidente da Assembleia Legislativa remete-o à comissão parlamentar competente em razão da matéria, seguindo a tramitação regimental relativa aos projetos de resolução.
+
+2 - Aprovada uma resolução ou admitido um requerimento que determinar a realização de um inquérito parlamentar, ou verificado o suprimento referido no n.º 2 do artigo anterior, o Presidente da Assembleia Legislativa toma as providências necessárias para definir a composição da comissão, nos termos do Regimento, e manda publicar a resolução ou a parte dispositiva do requerimento no Diário da República e no Jornal Oficial da Região Autónoma dos Açores.
+
+3 - Por solicitação dos requerentes da constituição obrigatória da comissão de inquérito ou de um grupo ou representação parlamentar e desde que tal seja possível antes da data de realização da primeira reunião da comissão de inquérito, o Presidente da Assembleia Legislativa, ouvida a Conferência dos Grupos e Representações Parlamentares, agenda um debate sobre a matéria do inquérito parlamentar, o qual é feito por tempos globais.
+
+###### Artigo 6.º — Informação ao Procurador-Geral da República
+
+1 - O Presidente da Assembleia Legislativa comunica ao Procurador-Geral da República o conteúdo da resolução ou da parte dispositiva do requerimento que determine a realização de um inquérito parlamentar, solicitando que este informe a Assembleia Legislativa se, com base nos mesmos factos, se encontra em curso algum processo criminal e em que fase.
+
+2 - Existindo processo criminal em curso, pode a Assembleia Legislativa deliberar a suspensão do processo de inquérito parlamentar até ao trânsito em julgado da correspondente decisão judicial.
+
+###### Artigo 7.º — Composição da comissão de inquérito
+
+1 - A determinação da composição da comissão de inquérito deve observar os princípios da representatividade e da proporcionalidade estabelecidos no Regimento da Assembleia Legislativa.
+
+2 - A primeira reunião da comissão de inquérito é convocada pelo Presidente da Assembleia Legislativa e marcada entre o quinto e o décimo quinto dias seguintes à publicação da resolução ou da parte dispositiva do requerimento que a constituiu.
+
+3 - A comissão de inquérito inicia os seus trabalhos imediatamente após a posse dos seus membros, conferida pelo Presidente da Assembleia Legislativa, no início da primeira reunião, desde que esteja verificada uma das seguintes condições:
+
+a) Estejam indicados mais de metade dos membros da comissão, representando, no mínimo, dois grupos ou representações parlamentares;
+
+b) Não estando indicada a maioria do número de membros da comissão, apenas falte a indicação dos deputados pertencentes a um grupo ou representação parlamentar, ou ao conjunto de partidos que suportem o Governo Regional.
+
+4 - Apenas podem tomar parte nos trabalhos da comissão de inquérito, seja como membros efetivos ou em substituição, os deputados que declarem formalmente a inexistência de conflito de interesses em relação ao objeto do inquérito.
+
+5 - Na determinação da composição da mesa da comissão de inquérito observam-se as regras e os princípios constantes do Regimento da Assembleia Legislativa.
+
+###### Artigo 8.º — Duração e extinção do inquérito
+
+1 - O inquérito parlamentar tem a duração máxima de cento e oitenta dias, contados da data da primeira reunião da comissão, sem prejuízo do disposto no número seguinte.
+
+2 - O prazo de conclusão do inquérito parlamentar pode ser prorrogado uma única vez e, no máximo, por noventa dias, mediante deliberação do Plenário ou, tratando-se de comissão de inquérito de constituição obrigatória, por requerimento subscrito pelos deputados que requereram a constituição da comissão.
+
+3 - A comissão de inquérito extingue-se com o decurso do prazo do inquérito ou por se ter deixado de verificar qualquer das condições previstas no n.º 3 do artigo anterior.
+
+###### Artigo 9.º — Poderes da comissão de inquérito
+
+A comissão de inquérito goza de poderes de investigação próprios das autoridades judiciais que a estas não estejam constitucionalmente reservados.
+
+###### Artigo 10.º — Funcionamento da comissão de inquérito
+
+1 - Por proposta da mesa ou de qualquer grupo ou representação parlamentar, a comissão de inquérito pode aprovar um regimento próprio e orientar os trabalhos por um questionário indicativo, formulado inicialmente.
+
+2 - As reuniões, diligências ou inquirições efetuadas pela comissão de inquérito são em regra públicas, salvo se a comissão, em deliberação tomada em reunião pública e fundamentada num dos seguintes motivos, assim o não entender:
+
+a) Tiverem por objeto matéria sujeita a segredo de Estado, a segredo de justiça ou a sigilo por razões de reserva da intimidade das pessoas;
+
+b) Os depoentes se opuserem à publicidade da inquirição;
+
+c) Colocarem em perigo o segredo das fontes de informação, salvo autorização dos interessados.
+
+3 - As reuniões, diligências e inquirições realizadas pela comissão de inquérito são sempre gravadas, salvo se, por motivo fundamentado, a comissão deliberar em sentido contrário, caso em que as diligências realizadas constam de ata especialmente elaborada para narrar, pormenorizadamente, tais atos, sendo-lhe anexados os depoimentos ou declarações obtidos, depois de assinados pelos seus autores.
+
+4 - As atas da comissão de inquérito, assim como todos os documentos na sua posse, podem ser consultados após a aprovação do relatório final, salvo se corresponderem a reuniões, diligências ou inquirições não públicas nos termos do presente artigo.
+
+5 - As transcrições de depoimentos prestados ou declarações efetuadas perante a comissão de inquérito em reuniões, diligências ou inquirições não públicas só podem ser consultadas ou publicadas com autorização dos seus autores.
+
+###### Artigo 11.º — Apoio técnico e contratação de peritos
+
+A comissão de inquérito pode requisitar o apoio técnico dos serviços da Assembleia Legislativa e, obtida a prévia autorização do Presidente da Assembleia Legislativa, promover a requisição ou a contratação de especialistas para a coadjuvar nos seus trabalhos.
+
+###### Artigo 12.º — Solicitação de informações e documentos
+
+1 - A comissão de inquérito pode, a requerimento fundamentado de qualquer dos seus membros, solicitar ao Governo Regional, aos órgãos da Administração Regional Autónoma ou a entidades privadas as informações e os documentos considerados úteis à realização do inquérito parlamentar.
+
+2 - As diligências instrutórias referidas no número anterior, que sejam consideradas indispensáveis à boa realização do inquérito, são de realização obrigatória, não estando a sua efetivação sujeita a deliberação da comissão, até aos limites máximos de:
+
+a) Duas diligências por cada deputado, podendo ser requeridas em conjunto pelos deputados que integram a comissão;
+
+b) Quatro diligências por cada deputado, tratando-se de subscritor de comissão de inquérito constituída obrigatoriamente na sequência de requerimento, ao abrigo do disposto na parte final do n.º 2 do artigo 3.º, podendo ser requeridas em conjunto pelos deputados que integram a comissão.
+
+3 - A prestação das informações e a apresentação dos documentos referidos no n.º 1 tem prioridade sobre quaisquer outros serviços e deve ser satisfeita no prazo de quinze dias, salvo deliberação em contrário da comissão de inquérito, ou justificação ponderosa dos requeridos que aconselhe a prorrogar o prazo ou a cancelar a diligência.
+
+4 - O pedido a que se refere o n.º 1 é assinado pelo presidente da comissão de inquérito ou, a solicitação deste, pelo Presidente da Assembleia Legislativa e deve conter a descrição clara da informação ou documento pretendido, o prazo para a sua prestação ou apresentação, bem como as sanções aplicáveis em caso de incumprimento.
+
+###### Artigo 13.º — Convocação para inquirição
+
+1 - A comissão de inquérito pode, a requerimento fundamentado de qualquer dos seus membros, convocar qualquer cidadão para depor sobre factos relativos ao inquérito parlamentar.
+
+2 - As diligências instrutórias referidas no número anterior, que sejam consideradas indispensáveis à boa realização do inquérito, são de realização obrigatória, não estando a sua efetivação sujeita a deliberação da comissão, até aos limites máximos de:
+
+a) Um depoimento por cada deputado, podendo ser requeridas em conjunto pelos deputados que integram a comissão;
+
+b) Dois depoimentos por cada deputado, tratando-se de subscritor de comissão de inquérito constituída obrigatoriamente na sequência de requerimento, ao abrigo do disposto na parte final do n.º 2 do artigo 3.º, podendo ser requeridas em conjunto pelos deputados que integram a comissão.
+
+3 - Gozam da prerrogativa de depor por escrito, se o preferirem, os presidentes e ex-presidentes da Assembleia Legislativa e do Governo Regional, os quais devem remeter à comissão de inquérito, no prazo de dez dias a contar da data da notificação dos factos sobre os quais deve recair o depoimento, declaração, sob compromisso de honra, relatando o que sabem sobre os factos indicados.
+
+4 - A convocação para a inquirição é assinada pelo presidente da comissão de inquérito ou, a solicitação deste, pelo Presidente da Assembleia Legislativa e, sem prejuízo do disposto no número anterior, deve conter o objeto do inquérito, o local, o dia e a hora do depoimento, bem como as sanções aplicáveis em caso de falta de comparência ou de recusa de depoimento.
+
+5 - A convocação de trabalhadores em funções públicas, funcionários ou agentes do Estado, da Administração Regional Autónoma, da Administração Local ou de outras entidades públicas deve ser efetuada através do dirigente máximo do respetivo serviço.
+
+###### Artigo 14.º — Da prestação de depoimento
+
+1 - A obrigação de comparecer perante a comissão de inquérito tem precedência sobre qualquer ato ou diligência oficial.
+
+2 - Os trabalhadores em funções públicas, funcionários ou agentes do Estado, da Administração Regional Autónoma, da Administração Local ou de outras entidades públicas podem requerer a alteração da data da convocação, por imperiosa necessidade de serviço e desde que não fique frustrada a realização do inquérito.
+
+3 - Ninguém pode ser prejudicado na sua atividade profissional em virtude da obrigação de depor perante a comissão de inquérito, considerando-se justificadas as faltas dadas em resultado do cumprimento da referida obrigação.
+
+4 - As despesas de deslocação, bem como a eventual indemnização por perda de retribuição fixada pela Mesa da Assembleia Legislativa a pedido do depoente, são pagas por conta do orçamento da Assembleia da Legislativa.
+
+###### Artigo 15.º — Relatório final
+
+1 - O relatório final do inquérito parlamentar refere, obrigatoriamente:
+
+a) A composição da comissão e as reuniões realizadas;
+
+b) O questionário, se o houver;
+
+c) A referenciação das informações e documentos solicitados;
+
+d) A síntese das diligências e inquirições efetuadas;
+
+e) As conclusões do inquérito e os respetivos fundamentos;
+
+f) O sentido de voto de cada membro da comissão, assim como a existência de eventuais declarações de voto.
+
+2 - O relatório final do inquérito e as declarações de voto escritas são publicados no Diário da Assembleia Legislativa.
+
+3 - Quando a comissão de inquérito não tenha aprovado um relatório final, o presidente da comissão elabora uma informação, dirigida ao Presidente da Assembleia Legislativa, relatando as diligências efetuadas e as razões da não aprovação do relatório.
+
+###### Artigo 16.º — Apreciação em Plenário
+
+1 - O relatório final do inquérito não é objeto de votação no Plenário da Assembleia Legislativa, mas a Conferência dos Grupos e Representações Parlamentares pode incluir a sua apreciação na agenda de uma das seis reuniões seguintes à publicação no Diário da Assembleia ou da sua distribuição aos deputados.
+
+2 - O debate, feito por tempos globais, é introduzido por uma exposição do presidente ou do relator da comissão de inquérito, com a duração máxima de quinze minutos.
+
+3 - Sem prejuízo dos tempos globais de debate, cada grupo e representação parlamentar dispõe de cinco e três minutos, respetivamente, para a apresentação das suas declarações de voto.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no primeiro dia da legislatura seguinte à data da respetiva publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 5 de julho de 2012.
+
+**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+
+**Assinado em Angra do Heroísmo em 31 de julho de 2012.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

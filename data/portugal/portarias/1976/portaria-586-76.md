@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:409087:por
+title: Portaria n.º 586/76
+short_title: null
+summary: Manda suspender a aplicação dos n.os 1.º e 3.º da Portaria n.º 459/76, de 29 de Julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Indústria e Tecnologia e do Comércio e Turismo
+proposing_entity: null
+official_number: 586/76
+official_date: null
+publication_date: '1976-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/1976, Série I de 1976-09-29
+  number: '229'
+  series: I
+  supplement: null
+  pages: 2238 - 2238
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22900/22382238.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '409087'
+  dre_path: /dr/detalhe/portaria/586-1976-409087
+  internal: pt:dre:409087:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/586-1976-409087
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/586-1976-409087
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-09-29T00:00:00Z'
+integrity:
+  source_sha256: 3707f597b74e17e24799e64dbde5e9172391302d977c146d2871d0fcff86eb96
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-586-409087.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 586/76
+
+de 29 de Setembro
+
+Os aumentos de preços das pastas papeleiras nacionais, consentidos pela [Portaria n.º 459/76](https://diariodarepublica.pt/dr/detalhe/portaria/459-1976-430977), de 29 de Julho, implicam acréscimos de custos verdadeiramente incomportáveis para o normal desenvolvimento da actividade das indústrias de papel, de artes gráficas e de transformação de papel.
+
+Assim, é indispensável rever os preços de venda fixados naquele diploma para as pastas papeleiras, devendo, desde já, ficar suspensa a sua aplicação.
+
+Pela mesma razão não foi possível dar cumprimento ao disposto no n.º 3.º daquela portaria, no que respeita à revisão dos preços das empresas do sector papeleiro, que deveriam ter começado a vigorar a 1 de Setembro de 1976.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Indústria Pesada, do Comércio Interno e do Comércio Externo, ao abrigo do disposto no n.º 1.º do artigo 5.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o seguinte:
+
+1.º Fica suspensa a aplicação dos n.os 1.º e 3.º da [Portaria n.º 459/76](https://diariodarepublica.pt/dr/detalhe/portaria/459-1976-430977), de 29 de Julho.
+
+2.º Este diploma entra em vigor na data da sua publicação.
+
+Ministérios da Indústria e Tecnologia e do Comércio e Turismo, 16 de Setembro de 1976. - O Secretário de Estado da Indústria Pesada, Carlos Montês Melancia. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio Externo, António Manuel Rodrigues Celeste.

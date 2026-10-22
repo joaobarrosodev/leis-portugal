@@ -1,0 +1,292 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:330219:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-871763928",
+ "dre_path": "/dr/detalhe/decreto-lei/197-2000-330219",
+ "source_lastmod": "2024-07-11",
+ "versions": [
+  {
+   "date": "2000-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871760223",
+    "871760224",
+    "871760225",
+    "871760226",
+    "871760227",
+    "871760228",
+    "871760229",
+    "871760230",
+    "871760231",
+    "871760232",
+    "871760233",
+    "871760234",
+    "871760235",
+    "871760236",
+    "871760237",
+    "871760238",
+    "871760239",
+    "871760240",
+    "871760241"
+   ]
+  },
+  {
+   "date": "2000-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:599719:por",
+     "title": "Lei n.º 29/2000",
+     "published": "2000-11-29",
+     "dre_path": "/dr/detalhe/lei/29-2000-599719"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "871760223",
+    "871760249",
+    "871760225",
+    "871760226",
+    "871760227",
+    "871760228",
+    "871760229",
+    "871760230",
+    "871760231",
+    "871760232",
+    "871760233",
+    "871760234",
+    "871760235",
+    "871760236",
+    "871760237",
+    "871760238",
+    "871760239",
+    "871760240",
+    "871760241",
+    "871760242"
+   ]
+  },
+  {
+   "date": "2001-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:319737:por",
+     "title": "Decreto-Lei n.º 57/2001",
+     "published": "2001-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/57-2001-319737"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "871760223",
+    "871760249",
+    "871760225",
+    "871760226",
+    "871760227",
+    "871760228",
+    "871760229",
+    "871760230",
+    "871760231",
+    "871760232",
+    "871760250",
+    "871760234",
+    "871760235",
+    "871760236",
+    "871760237",
+    "871760238",
+    "871760239",
+    "871760240",
+    "871760241",
+    "871760242"
+   ]
+  }
+ ],
+ "fragments": {
+  "871760223": {
+   "fragment_id": "871763929",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 197/2000\n\nde 24 de Agosto\n\nA Lei n.º 43/99, de 11 de Junho, determinou a revisão da situação dos militares dos quadros permanentes dos três ramos das Forças Armadas que participaram na transição para a democracia iniciada em 25 de Abril de 1974 e, em consequência do seu envolvimento directo no processo político desencadeado pelo derrube da ditadura, foram afastados ou se afastaram ou cuja carreira tenha sido interrompida ou sofrido alteração anómala.\n\nNeste contexto, a referida lei estabelece o âmbito material e pessoal do diploma, os efeitos da revisão da situação militar, os procedimentos aplicáveis aos requerentes que se encontrem na situação de reserva ou de reforma, bem como no activo, e o modo como se efectuará a reconstituição da carreira em resultado da revisão da situação militar, porém, de forma genérica, carecendo da respectiva regulamentação.\n\nImporta, pois, regulamentar a Lei n.º 43/99, de 11 de Junho, a qual, de acordo com o previsto no seu artigo 7.º, estabelece que o Governo aprovará, mediante decreto-lei, as normas necessárias à sua boa execução.\n\nAssim, no desenvolvimento do regime jurídico estabelecido pela Lei n.º 43/99, de 11 de Junho, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "871760224": {
+   "fragment_id": "871763930",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos militares dos quadros permanentes (QP) dos três ramos das Forças Armadas (FA), cuja situação se enquadra na previsão do artigo 1.º da Lei n.º 43/99, de 11 de Junho, atribuindo, em consequência, o direito à revisão da respectiva situação militar nos termos a que se refere o artigo 2.º daquela lei.\n\n2 - O presente decreto-lei não se aplica aos militares com patente de capitão-de-mar-e-guerra ou de coronel abrangidos pela Lei n.º 15/92, de 5 de Agosto, nem aos militares abrangidos pelo Decreto-Lei n.º 330/84, de 15 de Outubro.\n\n3 - O presente decreto-lei não se aplica ainda aos militares cuja situação militar tenha sido objecto de sentença transitada em julgado."
+  },
+  "871760225": {
+   "fragment_id": "871763931",
+   "type": 11,
+   "heading": "Artigo 2.º — Revisão da situação militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revisão da situação militar\n\n1 - Os militares dos quadros permanentes dos três ramos das Forças Armadas que reúnam as condições previstas no artigo 1.º da Lei n.º 43/99, de 11 de Junho, têm direito a requerer a revisão da sua situação militar com vista à eventual alteração e reconstituição da respectiva carreira.\n\n2 - A reconstituição da carreira militar processa-se nos termos a que se refere o artigo 6.º da Lei n.º 43/99, de 11 de Junho, e de acordo com as disposições estatutárias à data aplicáveis ao militar, como se a progressão na carreira se tivesse verificado normalmente.\n\n3 - Quando a reconstituição da carreira implicar o regresso do militar à efectividade de serviço e o requerente se tenha pronunciado nesse sentido, o processo será remetido, para efeitos de decisão, ao chefe do estado-maior do respectivo ramo, entidade competente nos termos do artigo 4.º da Lei n.º 43/99, de 11 de Junho.\n\n4 - A reconstituição da carreira dos militares na situação de reserva ou de reforma efectua-se nos termos da alínea c) do n.º 1 do artigo 3.º da Lei n.º 43/99, de 11 de Junho."
+  },
+  "871760226": {
+   "fragment_id": "871763932",
+   "type": 11,
+   "heading": "Artigo 3.º — Prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prova\n\n1 - A comprovação do preenchimento das condições previstas no artigo 1.º da Lei n.º 43/99, de 11 de Junho, faz-se através da junção ao processo pelo requerente ou, oficiosamente, pela entidade competente para decidir de documentos ou da indicação de outros meios legais de prova.\n\n2 - A Comissão de Apreciação (CA) prevista no artigo 5.º da Lei n.º 43/99, de 11 de Junho, pode solicitar aos órgãos de gestão de pessoal dos respectivos ramos das Forças Armadas a que os militares pertencem cópias dos processos individuais, bem como eventuais deliberações do Conselho do Almirantado e Conselhos Superiores de Exército e da Força Aérea, Conselhos Superiores de Disciplina dos ramos e dos conselhos das classes, armas, serviços e especialidades dos ramos que tenham afectado as carreiras dos requerentes.\n\n3 - A prova produzida a que se referem os números anteriores deve demonstrar que o militar foi afastado ou se afastou das Forças Armadas ou viu a sua carreira interrompida ou alterada de forma anómala em consequência de ter participado directamente no processo político de transição para a democracia em 25 de Abril de 1974, ou ter estado envolvido no desenvolvimento do respectivo processo.\n\n4 - Sempre que, por parte dos requerentes, seja necessário prestar quaisquer informações ou apresentar prova complementar, a entidade competente para decidir no processo notifica-os para, no prazo de 20 dias, o fazerem por escrito."
+  },
+  "871760227": {
+   "fragment_id": "871763933",
+   "type": 11,
+   "heading": "Artigo 4.º — Efeitos da reconstituição da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Efeitos da reconstituição da carreira\n\nOs efeitos da reconstituição da carreira relativamente ao pagamento de remunerações ou pensões são reportados ao dia 1 do mês seguinte ao da publicação do presente decreto-lei."
+  },
+  "871760228": {
+   "fragment_id": "871763934",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão de Apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão de Apreciação\n\n1 - A CA é constituída nos termos do artigo 5.º da Lei n.º 43/99, de 11 de Junho.\n\n2 - A CA tem o mandato de um ano, prorrogável, por igual período, pelo Conselho de Ministros, sob proposta do Ministro da Defesa Nacional."
+  },
+  "871760229": {
+   "fragment_id": "871763935",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência da CA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência da CA\n\n1 - A CA é competente para a instrução e apreciação dos procedimentos respeitantes a militares nas situações de reserva e de reforma ou por outra forma afastados.\n\n2 - Compete à CA, designadamente:\n\na) Deliberar, oficiosamente, o início do procedimento referido no n.º 1;\n\nb) Deliberar sobre os elementos constitutivos das condições legais para a verificação do direito à revisão da situação militar;\n\nc) Deliberar sobre os procedimentos a adoptar tendo em vista a apreciação dos requerimentos;\n\nd) Deliberar sobre a conveniência de ser produzida prova superveniente relativamente aos processos;\n\ne) Deliberar, com efeito vinculativo, sobre a apreciação e a revisão da situação de militares na reserva e na reforma;\n\nf) Informar, por escrito, o Ministro da Defesa Nacional das respectivas deliberações vinculativas para efeitos do previsto na alínea c) do n.º 1 do artigo 3.º da Lei n.º 43/99, de 11 de Junho;\n\ng) Elaborar e aprovar o seu regimento, o qual carece de homologação do Ministro da Defesa Nacional."
+  },
+  "871760230": {
+   "fragment_id": "871763936",
+   "type": 11,
+   "heading": "Artigo 7.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Presidente\n\n1 - Ao presidente da Comissão compete, designadamente, dirigir e coordenar as actividades da CA e assegurar a sua representação externa.\n\n2 - No caso de ausência ou impedimento o presidente é substituído pelo vogal mais antigo."
+  },
+  "871760231": {
+   "fragment_id": "871763937",
+   "type": 11,
+   "heading": "Artigo 8.º — Vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vogais\n\nAos vogais compete a prática de todos os actos relacionados com a instrução dos procedimentos e a preparação das deliberações a submeter ao plenário da CA."
+  },
+  "871760232": {
+   "fragment_id": "871763938",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento\n\nA CA funciona em plenário, reunindo ordinariamente duas vezes por semana e, extraordinariamente, nos termos previstos no Código do Procedimento Administrativo."
+  },
+  "871760233": {
+   "fragment_id": "871763939",
+   "type": 11,
+   "heading": "Artigo 10.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Deliberações\n\nA CA funciona com a presença de, pelo menos, três quartos dos seus membros e delibera por maioria de cinco votos expressos num determinado sentido."
+  },
+  "871760234": {
+   "fragment_id": "871763940",
+   "type": 11,
+   "heading": "Artigo 11.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dever de sigilo\n\nOs membros da CA e todos aqueles que intervenham a qualquer título nos procedimentos tendo em vista a eventual reconstituição das carreiras estão sujeitos ao dever de sigilo."
+  },
+  "871760235": {
+   "fragment_id": "871763941",
+   "type": 11,
+   "heading": "Artigo 12.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apoio administrativo\n\nO apoio administrativo necessário ao funcionamento da CA é assegurado pela Secretaria-Geral do Ministério da Defesa Nacional, através de um secretariado constituído para o efeito."
+  },
+  "871760236": {
+   "fragment_id": "871763942",
+   "type": 11,
+   "heading": "Artigo 13.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remunerações\n\n1 - Os membros da CA têm direito a auferir senhas de presença cujo montante é fixado por despacho conjunto dos Ministros da Defesa Nacional, das Finanças e da Reforma do Estado e da Administração Pública.\n\n2 - Sempre que os membros da CA, por motivos relacionados com a apreciação dos procedimentos, tiverem necessidade de se deslocar do local onde funciona a CA, têm direito a ajudas de custo nos termos da lei geral."
+  },
+  "871760237": {
+   "fragment_id": "871763943",
+   "type": 11,
+   "heading": "Artigo 14.º — Audição de entidades e assessoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Audição de entidades e assessoria\n\n1 - A CA pode deliberar proceder à audição de individualidades de reconhecido mérito e competência técnica ou representantes de entidades ou organismos cujos testemunhos sejam considerados pertinentes para o esclarecimento dos factos.\n\n2 - A CA, sempre que considerar necessário e devidamente fundamentado, pode recorrer a assessoria jurídica, cuja remuneração é fixada por despacho do Ministro da Defesa Nacional."
+  },
+  "871760238": {
+   "fragment_id": "871763944",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito subsidiário\n\n1 - A CA, no exercício das suas competências, está sujeita ao disposto no presente diploma, no seu regimento e no Código do Procedimento Administrativo.\n\n2 - A aprovação do regimento da CA é da sua competência e carece de homologação pelo Ministro da Defesa Nacional."
+  },
+  "871760239": {
+   "fragment_id": "871763945",
+   "type": 11,
+   "heading": "Artigo 16.º — Encargos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Encargos financeiros\n\nOs encargos financeiros decorrentes da reconstituição das carreiras e os de funcionamento da CA, bem como os relativos ao pagamento de senhas de presença, de remunerações e de ajudas de custo são suportados pelo Ministério da Defesa Nacional."
+  },
+  "871760240": {
+   "fragment_id": "871763946",
+   "type": 11,
+   "heading": "Artigo 17.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Arquivo\n\nOs processos são arquivados na Secretaria-Geral do Ministério da Defesa Nacional de modo a estarem disponíveis para consulta daqueles que legalmente tenham direito de reclamação ou de recurso."
+  },
+  "871760241": {
+   "fragment_id": "871763947",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma produz efeitos desde a sua publicação."
+  },
+  "871760249": {
+   "fragment_id": "871763930",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2000-12-04",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 29/2000 - Diário da República n.º 276/2000, Série I-A de 2000-11-29](https://diariodarepublica.pt/dr/detalhe/lei/29-2000-599719), em vigor a partir de 2000-12-04"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos militares dos quadros permanentes (QP) dos três ramos das Forças Armadas (FA), cuja situação se enquadra na previsão do artigo 1.º da Lei n.º 43/99, de 11 de Junho, atribuindo, em consequência, o direito à revisão da respectiva situação militar nos termos a que se refere o artigo 2.º daquela lei.\n\n2 - O presente decreto-lei não se aplica aos militares com patente de capitão-de-mar-e-guerra ou de coronel abrangidos pela Lei n.º 15/92, de 5 de Agosto, nem aos militares abrangidos pelo Decreto-Lei n.º 330/84, de 15 de Outubro.\n\n> Alterado pelo/a [Lei n.º 29/2000 - Diário da República n.º 276/2000, Série I-A de 2000-11-29](https://diariodarepublica.pt/dr/detalhe/lei/29-2000-599719), em vigor a partir de 2000-12-04"
+  },
+  "871760242": {
+   "fragment_id": "871763948",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.\n\nPromulgado em 3 de Agosto de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Agosto de 2000.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "871760250": {
+   "fragment_id": "871763939",
+   "type": 11,
+   "heading": "Artigo 10.º — Deliberações",
+   "in_force_from": "2001-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2001 - Diário da República n.º 42/2001, Série I-A de 2001-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2001-319737), em vigor a partir de 2001-02-20, produz efeitos a partir de 2000-08-24"
+   ],
+   "markdown": "###### Artigo 10.º — Deliberações\n\nA CA funciona com a presença de todos os seus membros e delibera por maioria de três quartos dos votos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2001 - Diário da República n.º 42/2001, Série I-A de 2001-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2001-319737), em vigor a partir de 2001-02-20, produz efeitos a partir de 2000-08-24"
+  }
+ }
+}

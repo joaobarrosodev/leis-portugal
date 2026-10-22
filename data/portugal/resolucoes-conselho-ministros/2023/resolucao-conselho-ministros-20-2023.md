@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:207417310:por
+title: Resolução do Conselho de Ministros n.º 20/2023
+short_title: null
+summary: Designa o presidente e um vogal do conselho de administração da Entidade Reguladora da Saúde
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 20/2023
+official_date: null
+publication_date: '2023-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/2023, Série I de 2023-02-14
+  number: '32'
+  series: I
+  supplement: null
+  pages: 4 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03200/0000400006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/20/2023/02/14/p/dre/pt/html
+  oj: null
+  dre: '207417310'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/20-2023-207417310
+  internal: pt:dre:207417310:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-2023-207417310
+  metadata_url: https://data.dre.pt/eli/resolconsmin/20/2023/02/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-2023-207417310
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-02-14T00:00:00Z'
+integrity:
+  source_sha256: 23cb2d6eb41a19cc4f6c601fd4e709009348cbc23f2adadc05ce6b6c0ec6099d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-20-207417310.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Entidade Reguladora da Saúde
+- Mandato
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126/2014/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126/2014/08/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 20/2023
+
+Os membros do conselho de administração da Entidade Reguladora da Saúde (ERS) são designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da saúde, de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, nos termos do disposto nos Estatutos da ERS, aprovados em anexo ao [Decreto-Lei n.º 126/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800), de 22 de agosto, e na lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual.
+
+A designação dos membros do conselho de administração da ERS é precedida de audição da comissão competente da Assembleia da República, a pedido do Governo, que deve ser acompanhada de parecer da Comissão de Recrutamento e Seleção da Administração Pública (CRESAP) relativo à adequação do perfil do indivíduo às funções a desempenhar, incluindo o cumprimento das regras de incompatibilidade e impedimentos aplicáveis.
+
+Tendo o mandato da presidente e de um dos vogais do conselho de administração da ERS cessado, pelo decurso do prazo, torna-se necessário proceder à designação de novos membros.
+
+Foi ouvida, nos termos dos Estatutos da ERS e da lei-quadro das entidades reguladoras, a CRESAP, que considerou adequadas as designações constantes da presente resolução.
+
+As personalidades agora designadas foram ouvidas na Comissão de Saúde da Assembleia da República, no dia 6 de dezembro de 2022, e consideradas aptas para o exercício das respetivas funções.
+
+Assim:
+
+Nos termos do artigo 35.º dos Estatutos da Entidade Reguladora da Saúde, aprovados em anexo ao [Decreto-Lei n.º 126/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800), de 22 de agosto, dos n.os 2, 3 e 6 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, na sua redação atual, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta do membro do Governo responsável pela área da saúde, para os cargos de presidente e de vogal do conselho de administração da Entidade Reguladora da Saúde (ERS), respetivamente, António José da Silva Pimenta Marinho e Agostinho Franklim Pinto Marques, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação para o adequado exercício das referidas funções são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Estabelecer que os mandatos de António José da Silva Pimenta Marinho e Agostinho Franklim Pinto Marques têm a duração, respetivamente, de cinco anos e seis meses e de seis anos, nos termos do n.º 6 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, e do n.º 5 do artigo 35.º dos Estatutos da ERS, aprovados em anexo ao [Decreto-Lei n.º 126/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800), de 22 de agosto, ambas na sua redação atual.
+
+3 - Autorizar os designados António José da Silva Pimenta Marinho e Agostinho Franklim Pinto Marques a exercer a atividade de docência, nos termos da alínea a) do n.º 1 do artigo 19.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, e da alínea a) do n.º 1 do artigo 36.º dos Estatutos da ERS, aprovados em anexo ao [Decreto-Lei n.º 126/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800), de 22 de agosto, ambas na sua redação atual.
+
+4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 9 de fevereiro de 2023. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Notas curriculares
+
+António José da Silva Pimenta Marinho.
+
+Habilitações académicas e profissionais:
+
+Licenciatura em Medicina e Cirurgia pela Faculdade de Medicina da Universidade do Porto (1981); consultor de clínica geral (desde 1995); assistente graduado de clínica geral (desde 1995); assistente graduado sénior de medicina geral e familiar, no ACeS de Braga (desde outubro de 2000); inscrito no Colégio da Especialidade de Medicina Geral e Familiar da Ordem dos Médicos; orientador de formação da área de especialização de Medicina Geral e Familiar do Internato Médico (2002 a 2005, 2012 a 2016 e 2019 a 2022); Curso de Codificação Clínica da Escola Nacional de Saúde Pública (2019).
+
+Experiência profissional:
+
+Integrou o Núcleo de Cuidados Personalizados de Saúde da ex-ARS de Braga (1988 até à sua extinção); coordenador distrital de saúde materna na ex-ARS de Braga (1989 a 1997); coordenador da Unidade Coordenadora Funcional de Braga (abril de 1990 a 1997); responsável pelo Núcleo de Saúde da Mulher e da Criança da Sub-Região de Saúde de Braga (1995 a 1997); chefe dos Cuidados Personalizados do Centro de Saúde de Vila Verde (1996 a 1997); diretor de serviços de Saúde da Sub-Região de Saúde de Braga (abril de 1997 a 2000); integrou a Comissão Oncológica Regional do Norte, bem como diversos grupos de trabalho na sua área profissional, nomeadamente, a Comissão Sub-Regional de Acompanhamento dos certificados de incapacidade temporária (CIT) e o Grupo Sub-Regional de Apoio e Implementação do Regime Remuneratório Experimental (1997 a 2000); integrou, enquanto diretor de serviços de Saúde, o grupo de trabalho criado pela ARSN para elaborar proposta de Regulamento dos CS; foi-lhe atribuída, pela Ordem dos Médicos, a competência em gestão de serviços de saúde (2003); integrou, em nome da ARSN, I. P., o Conselho Nacional do Internato Médico (2006 a 2011); integrou a Task Force que funcionava junto da Missão dos Cuidados de Saúde Primários, para a implementação da Reforma dos Cuidados de Saúde Primários em 2007 e 2008 e integrou a Equipa de Acompanhamento da Reforma dos Cuidados de Saúde Primários em 2009 e 2010; integrou, em nome da ARSN, I. P., o Grupo Técnico Apoio (GTA), que funcionava junto do coordenador nacional das Doenças Oncológicas; integrou a Comissão de Farmácia e Terapêutica da ARS Norte, I. P.; integrou a Comissão Regional de Saúde da Mulher, da Criança e do Adolescente na ARSN, I. P., e foi seu presidente de 2015 a 2018; integrou a Comissão Oncológica Regional da ARS Norte, I. P.; frequentou o Mastering Health Care Finance, da Harvard Medical International (2007); coordenador do grupo de trabalho para elaboração de um estudo demonstrativo do interesse e viabilidade da constituição da Unidade Local de Saúde de Entre Douro e Vouga; integrou a Comissão de Acompanhamento da Devolução dos Hospitais às Misericórdias; integrou o conselho consultivo da Escola Superior de Enfermagem da Universidade do Minho; integrou o Conselho Estratégico do CUME - Centro Universitário de Medicina - Faculdade de Medicina da Universidade do Porto/Centro Hospitalar de São João, em 2018; vogal do conselho de administração da ARS Norte (2005 a 2006); vogal do conselho diretivo da ARS Norte, I. P. (2006 a 2010); vice-presidente do conselho diretivo da ARS Norte, I. P. (2010 a 2011); presidente do conselho diretivo da Administração Regional de Saúde do Norte, I. P. (2016 a 2019); participação, como lecionador, em seminário no Instituto de Saúde Pública do Porto, na unidade curricular Investigação/Gestão em Serviços de Saúde, no âmbito do mestrado em Epidemiologia e Programa Doutoral em Saúde Pública, sobre «Gestão de Unidades de Saúde em Cuidados de Saúde Primários», em 2012 e 2013; participação, como lecionador, em 2020 e 2021, na pós-graduação em Políticas, Administração e Avaliação em Saúde, da Faculdade de Medicina da Universidade do Porto, na unidade curricular Políticas e Sistemas de Saúde, com os temas «O Sistema de Saúde Português: Instituições Regionais - Administrações Regionais de Saúde» e «Sistemas de Saúde a Nível Regional»; participação, como lecionador, em 2022, em aula de Políticas de Saúde, da licenciatura em Ciências da Nutrição, da NOVA Medical School (Universidade Nova de Lisboa), com o tema Administrações Regionais de Saúde - Organização e Governança.
+
+Tutor de alunos da Escola de Medicina da Universidade do Minho e da Faculdade de Medicina da Universidade de Coimbra, dos 6.º, 5.º e 1.º anos (2012-2014 e 2020-2022).
+
+Presidente de júris da especialidade de MGF em concursos de habilitação; presidente e membro de vários júris de avaliação final do internato da área de especialização em MGF.
+
+Agostinho Franklim Pinto Marques.
+
+Doutoramento em Bioquímica (1997), licenciatura em Ciências Farmacêuticas - Análises Químico-Biológicas (1984) e licenciatura em Ciências Farmacêuticas - Farmácia de Oficina e Hospitalar (1992), pela Faculdade de Farmácia da Universidade do Porto.
+
+Professor associado da Faculdade de Farmácia da Universidade do Porto.
+
+O seu percurso académico iniciou-se como monitor, passando por assistente estagiário, assistente, professor auxiliar, sendo, desde 2012, professor associado.
+
+Docente e docente responsável por várias unidades curriculares dos cursos de mestrado integrado em Ciências Farmacêuticas, mestrado em Análises Clínicas, mestrado em Toxicologia Analítica Clínica e Forense e mestrado em Controlo de Qualidade.
+
+Coordenador do Curso de Pós-Graduação em Análises Clínicas da Faculdade de Farmácia da Universidade do Porto (2003 a 2007), diretor do Curso de Mestrado em Análises Clínicas (2007 a 2012) e membro do seu conselho científico (2010-2019). Investigador sénior da UCIBIO.
+
+Colabora/colaborou na docência em unidades curriculares de cursos de mestrado e de pós-graduação ministrados em distintas outras instituições de ensino, como na Faculdade de Farmácia da Universidade de Coimbra, Faculdade de Medicina e Faculdade de Desporto da Universidade do Porto.
+
+Autor ou coautor de mais de setenta artigos em revistas científicas, nacionais e internacionais, capítulos de livros e de numerosas comunicações em congressos e reuniões científicas e académicas, nacionais e internacionais. Coautor de patente científica. Numerosas participações como membro de comissões organizadoras e científicas de distintos congressos, reuniões e seminários científicos, nacionais e internacionais.
+
+Responsável pela Unidade de Análises Clínicas da Faculdade de Farmácia da Universidade do Porto.
+
+Membro do Conselho Nacional de Antidopagem, da Autoridade Antidopagem de Portugal (2016 a 2021).
+
+Membro da Comissão Nacional de Acompanhamento da Diálise e de vários outros grupos de trabalho junto do Ministério da Saúde e da Direção-Geral da Saúde de Portugal.
+
+Membro da Unidade de Acompanhamento do Laboratório Nacional do Medicamento.
+
+Presidente da Secção Regional do Porto e membro da Direção Nacional da Ordem dos Farmacêuticos (2007 a 2013 e 2016 a 2021).
+
+Presidente do Colégio de Especialistas em Análises Clínicas da Ordem dos Farmacêuticos (2001 a 2016).
+
+Presidente do júri de exames para atribuição de título de especialista em análises clínicas; presidente do Júri Nacional da Prova de Ingresso na Residência Farmacêutica.
+
+Presidente e fundador da European Union of Pharmacists Specialists in Laboratory Medicine and Human Genetics (EUPLMG), desde 2018.
+
+Presidente, académico numerário e fundador da Academia de Ciências Farmacêuticas de Portugal.
+
+Académico correspondente da Academia de Farmacia Santa Maria de España de la Región de Múrcia, Espanha; académico correspondente da Real Academia de Farmacia de Galicia, da Real Academia Nacional de Farmacia e da Real Academia de Farmacia da Catalunya, Espanha.
+
+Membro de várias sociedades científicas portuguesas e estrangeiras.
+
+Membro do Conselho Editorial e do corpo de revisores de várias revistas científicas, nacionais e internacionais. Diretor e fundador da revista Acta Farmacêutica Portuguesa.

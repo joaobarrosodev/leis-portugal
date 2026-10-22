@@ -1,0 +1,565 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:583786:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-164933970",
+ "dre_path": "/dr/detalhe/decreto-lei/185-2005-583786",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-11-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164934046",
+    "164934047",
+    "164934048",
+    "164934049",
+    "164934050",
+    "164934051",
+    "164934052",
+    "164934053",
+    "164934054",
+    "164934055",
+    "164934056",
+    "164934057",
+    "164934058",
+    "164934059",
+    "164934060",
+    "164934061",
+    "164934062",
+    "164934063",
+    "164934064",
+    "164934065",
+    "164934066",
+    "164934067",
+    "164934068",
+    "164934069",
+    "164934071",
+    "164934072"
+   ]
+  },
+  {
+   "date": "2008-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:454810:por",
+     "title": "Decreto-Lei n.º 148/2008",
+     "published": "2008-07-29",
+     "dre_path": "/dr/detalhe/decreto-lei/148-2008-454810"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "164934046",
+    "164934047",
+    "164934048",
+    "164934049",
+    "164934050",
+    "164934051",
+    "164934073",
+    "164934053",
+    "164934054",
+    "164934055",
+    "164934056",
+    "164934074",
+    "164934058",
+    "164934059",
+    "164934060",
+    "164934061",
+    "164934062",
+    "164934063",
+    "164934064",
+    "164934065",
+    "164934066",
+    "164934067",
+    "164934068",
+    "164934069",
+    "164934070",
+    "164934071",
+    "164934072"
+   ]
+  },
+  {
+   "date": "2009-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491973:por",
+     "title": "Decreto-Lei n.º 146/2009",
+     "published": "2009-06-24",
+     "dre_path": "/dr/detalhe/decreto-lei/146-2009-491973"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "164934046",
+    "164934047",
+    "164934048",
+    "164937984",
+    "164937985",
+    "164934051",
+    "164934073",
+    "164937986",
+    "164937987",
+    "164937988",
+    "164937989",
+    "164937990",
+    "164937991",
+    "164937992",
+    "164937993",
+    "164937994",
+    "164937995",
+    "164937996",
+    "164937997",
+    "164937998",
+    "164937999",
+    "164938000",
+    "164938001",
+    "164938002",
+    "164938003",
+    "164938004",
+    "164938005",
+    "164938006"
+   ]
+  }
+ ],
+ "fragments": {
+  "164934046": {
+   "fragment_id": "164933971",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 185/2005\n\nde 4 de Novembro\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0022\" title=\"Link para Directiva da Comunidade Europeia\">96/22/CE</a>, do Conselho, de 29 de Abril, relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias beta-agonistas em produção animal, foi transposta para o ordenamento jurídico nacional pelo Decreto-Lei n.º 150/99, de 7 de Maio.\n\nA identificada directiva foi entretanto alterada pela Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0074\" title=\"Link para Directiva da Comunidade Europeia\">2003/74/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Setembro, tendo em vista a protecção da saúde no que respeita aos resíduos presentes na carne de animais de exploração tratados com as hormonas em causa, utilizadas para estimular o crescimento, na observância dos princípios gerais da legislação alimentar estabelecidos no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R0178\" title=\"Link para Regulamento da Comunidade Europeia\">178/2002</a>, do Parlamento Europeu e do Conselho, de 28 de Janeiro, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios, bem como as obrigações internacionais da Comunidade.\n\nA extensão das alterações introduzidas pela Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0074\" title=\"Link para Directiva da Comunidade Europeia\">2003/74/CE</a>, que é necessário transpor para o ordenamento jurídico nacional, aconselha a revogação da legislação nacional em vigor e a publicação de diploma que regulamente tal matéria.\n\nCertas substâncias de efeito hormonal com acção estrogénica, androgénica ou gestagénica, devido aos resíduos que deixam na carne e noutros géneros alimentícios de origem animal, podem ser nocivas para os consumidores, representando um sério risco para a saúde humana, podendo afectar igualmente a qualidade dos géneros alimentícios de origem animal.\n\nOs actuais conhecimentos técnico-científicos também evidenciam que a utilização incorrecta de substâncias beta-agonistas pode constituir perigo para a saúde pública, pelo que, no interesse do consumidor, se deve proibir a autorização de introdução e colocação no mercado, a detenção ou posse e a administração a todos os animais daquelas substâncias com a finalidade de estimular o crescimento e produtividade de animais de exploração, bem como é necessário continuar a proibir a colocação no mercado, detenção e administração aos animais de todas as espécies dos estilbenos e de substâncias de efeito tireostático.\n\nO presente diploma confere, contudo, a possibilidade de se utilizarem determinadas substâncias de efeito hormonal com acção estrogénica, androgénica ou gestagénica com finalidades terapêuticas ou no âmbito de um tratamento zootécnico, uma vez que, atendendo à natureza, duração limitada dos tratamentos, quantidades reduzidas e condições estritas de administração estabelecidas, a sua utilização não é susceptível de representar um risco para a saúde pública, importando, no entanto, regulamentar a sua utilização legal para evitar qualquer utilização indevida. Mas mantém-se a proibição da utilização das substâncias hormonais para fins de engorda.\n\nNo caso do estradiol 17 (beta), à luz das informações actuais, é adequado limitar a sua utilização aos tratamentos para os quais não existam alternativas terapêuticas eficazes e viáveis. Assim, e a fim de permitir as necessárias adaptações, em particular a autorização ou o reconhecimento mútuo de medicamentos veterinários requeridos, julga-se necessário eliminar, ao longo de um dado período, a utilização de estradiol 17 (beta) para efeitos de indução do estro, revelando-se igualmente apropriado manter a possibilidade da sua autorização dentro de um prazo igualmente determinado, em condições estritas e verificáveis, para a sua utilização no tratamento de determinadas patologias, como a maceração ou mumificação de fetos e piómetra nos bovinos.\n\nOs animais tratados com finalidade terapêutica ou zootécnica e a carne deles proveniente não podem, em princípio, ser comercializados, dados os riscos que daí decorrem para a eficácia do controlo de todo o sistema, pelo que importa ainda que sejam previstas, em determinadas condições, derrogações a essa proibição no que respeita ao comércio intracomunitário e à importação de países terceiros de animais, carnes e produtos obtidos a partir de animais de exploração e de aquicultura, bem como animais destinados à reprodução e animais reprodutores em final de carreira, a que tenham sido administrados as substâncias ou produtos referidos, excepto se essa administração obedecer às disposições e exigências previstas no presente diploma.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164934047": {
+   "fragment_id": "164933972",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0022\" title=\"Link para Directiva da Comunidade Europeia\">96/22/CE</a>, do Conselho, de 29 de Abril, relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias beta-agonistas em produção animal, com as alterações que lhe foram introduzidas pela Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0074\" title=\"Link para Directiva da Comunidade Europeia\">2003/74/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Setembro."
+  },
+  "164934048": {
+   "fragment_id": "164933973",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei proíbe a utilização de certas substâncias de efeito hormonal ou tireostático e de substâncias beta-agonistas em produção animal e estabelece as condições de utilização de algumas dessas substâncias para fins terapêuticos e zootécnicos."
+  },
+  "164934049": {
+   "fragment_id": "164933974",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Amostra oficial» uma amostra colhida pela autoridade competente que inclua, para o exame do resíduo em causa, por um lado, a identificação do animal, com a identificação da espécie, idade e sexo e, bem assim, a natureza, quantidade, local e método de colheita, e, por outro, a origem do animal, suas carnes ou outros produtos dele provenientes, devendo essa colheita ser efectuada sem aviso prévio;\n\nb) «Anabolizantes» todas as substâncias ou produtos capazes de melhorar o balanço azotado dos organismos animais, por aumento do anabolismo proteico e melhoramento da eficácia da ração fornecida aos animais;\n\nc) «Animal de companhia» qualquer animal detido ou destinado a ser detido pelo homem, designadamente em sua casa, para seu entretimento e companhia;\n\nd) «Animal de engorda» o animal de exploração que tem como finalidade a engorda e o abate posterior com destino ao consumo humano;\n\ne) «Animal de exploração» os animais domésticos das espécies bovina, suína, ovina e caprina, os solípedes, as aves de capoeira e os coelhos domésticos, bem como os animais selvagens das espécies acima referidas e os ruminantes selvagens, desde que tenham sido criados numa exploração;\n\nf) «Autoridade nacional competente» a Direcção-Geral de Veterinária (DGV), a quem compete coordenar o sistema de controlo, elaborar o Plano Nacional de Controlo de Resíduos e recolher os resultados e as informações a transmitir à Comissão da União Europeia;\n\ng) «Autoridade sanitária veterinária regional» as direcções regionais de agricultura (DRA), responsáveis, ao nível regional, por actividades de controlo;\n\nh) «Autorização de introdução no mercado» o acto administrativo pelo qual, na sequência de um pedido apresentado por um requerente, a autoridade nacional competente para o efeito autoriza a introdução no mercado de medicamentos veterinários ou produtos de uso veterinário;\n\ni) «Carnes» todas as partes de animais domésticos das espécies bovina, incluindo as espécies Bubalus bubalis e Bison bison, suína, ovina, caprina, avícola e cunícola, bem como de solípedes domésticos, próprias para consumo;\n\nj) «Carne de aves de capoeira» todas as partes de aves domésticas próprias para consumo humano de todas as espécies criadas para o efeito;\n\nl) «Carne de coelho» todas as partes de coelho doméstico próprias para consumo humano;\n\nm) «Colocação no mercado» a detenção para efeitos de venda, incluindo a oferta, ou qualquer outra forma de transferência para terceiros, gratuita ou não, bem como a própria venda e as outras formas de transferência;\n\nn) «Intervalo de segurança» o período de tempo que medeia entre a última administração de um medicamento veterinário a um animal em condições normais de utilização ou de um medicamento de uso humano a um animal nas condições legais de utilização e a obtenção de alimentos provenientes desse animal, para garantir que estes não contêm resíduos que possam apresentar perigo para a saúde do consumidor;\n\no) «Laboratório autorizado» um laboratório credenciado pela autoridade competente, após parecer do laboratório de referência, para proceder à análise de uma amostra oficial;\n\np) «Laboratório de referência» o Laboratório Nacional de Investigação Veterinária (LNIV), a quem compete coordenar as normas e métodos de análise para cada resíduo ou grupo de resíduos em causa, incluindo a organização de testes comparativos periódicos, efectuados com amostras fraccionadas pelos laboratórios autorizados, bem como a observância dos limites estabelecidos;\n\nq) «Medicamentos» toda a substância ou composição que possua propriedades curativas ou preventivas das doenças ou dos seus sintomas, do homem ou do animal, com vista a estabelecer um diagnóstico médico ou a restaurar, corrigir ou modificar as suas funções orgânicas;\n\nr) «Medicamentos veterinários» todo o medicamento destinado aos animais;\n\ns) «Produtos à base de carnes» os produtos fabricados a partir de carne ou com carne que tenha sofrido um tratamento tal que a superfície de cortes à vista permita verificar o desaparecimento das características da carne fresca;\n\nt) «Produtos de aquicultura» todos os produtos da pesca cujo nascimento e crescimento é controlado pelo homem até à sua colocação no mercado como género alimentício, bem como os peixes ou crustáceos de água do mar ou de água doce capturados no seu meio natural quando juvenis e mantidos em cativeiro até atingirem o tamanho comercial pretendido para consumo humano, são também considerados produtos de aquicultura, com exclusão dos peixes e crustáceos de tamanho comercial capturados no seu meio natural e mantidos vivos para serem vendidos posteriormente quando a sua permanência nos viveiros tenha como único objectivo mantê-los vivos e não aumentá-los de tamanho ou de peso;\n\nu) «Produto de uso veterinário» a substância ou mistura de substâncias destinadas quer aos animais, para tratamento ou prevenção das doenças e dos seus sintomas, correcção ou modificação das funções orgânicas ou para diagnóstico médico, quer às instalações dos animais ou a actividades relacionadas com estes ou com os produtos de origem animal;\n\nv) «Resíduos» as substâncias com acção farmacológica, ou os seus metabolitos, bem como outras substâncias que estejam presentes nos animais, nas suas carnes ou noutros produtos deles provenientes, susceptíveis de prejudicar a saúde humana;\n\nx) «Substância activa» toda a matéria de origem humana, animal, vegetal ou química à qual se atribui actividade apropriada para constituir um medicamento;\n\nz) «Substância beta-agonista» substância agonista dos receptores beta-adrenérgicos;\n\naa) «Substâncias ou produtos não autorizados» as substâncias ou produtos cuja administração aos animais é proibida pela legislação nacional ou comunitária;\n\nbb) «Tratamento ilegal» a utilização de substâncias, medicamentos, medicamentos veterinários ou outros produtos veterinários não autorizados ou a utilização de substâncias, medicamentos, medicamentos veterinários ou outros produtos autorizados pela legislação comunitária para outros fins ou em condições que não as previstas na legislação nacional;\n\ncc) «Tratamento terapêutico» a administração, a título individual, a um animal de exploração de um medicamento veterinário legalmente autorizado que contenha na sua composição substâncias de efeito hormonal autorizadas com o objectivo de tratar uma perturbação da fertilidade verificada após exame desse animal por um médico veterinário, incluindo a interrupção de uma gestação não desejada e, no que se refere aos beta-agonistas, tendo em vista a indução da tocólise nas vacas parturientes em tratamento parenteral único, bem como o tratamento das perturbações respiratórias e a indução da tocólise nos equídeos criados para fins diferentes dos da produção de carne;\n\ndd) «Tratamento zootécnico» a administração:\n\ni) A título individual, a um animal de exploração, de um medicamento veterinário legalmente autorizado contendo na sua composição uma das substâncias de efeito hormonal autorizadas, tendo em vista a sincronização do ciclo éstrico e a preparação das dadoras e das receptoras para a implantação de embriões, efectuado por um médico veterinário ou sob a sua responsabilidade, após exame do animal;\n\nii) A um grupo de animais de aquicultura reprodutores, tendo em vista a sua inversão sexual, por prescrição de um médico veterinário e sob a sua responsabilidade."
+  },
+  "164934050": {
+   "fragment_id": "164937575",
+   "type": 11,
+   "heading": "Artigo 4.º — Proibição de colocação no mercado e de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Proibição de colocação no mercado e de administração\n\nÉ proibida:\n\na) A colocação no mercado e a administração, por qualquer meio, de estilbenos, derivados de estilbenos, seus sais e ésteres, bem como de substâncias de efeito tireostático, a animais de todas as espécies;\n\nb) A colocação no mercado e a administração, por quaisquer meios, de estradiol 17 (beta) e seus ésteres, bem como de substâncias beta-agonistas aos animais cuja carne ou produtos derivados se destinem ao consumo humano, para fins que não os previstos no artigo 6.º do presente decreto-lei;\n\nc) A administração a animais de exploração de substâncias activas que não sejam apresentadas sob a forma de medicamentos veterinários e autorizadas nos termos da legislação em vigor."
+  },
+  "164934051": {
+   "fragment_id": "164937576",
+   "type": 11,
+   "heading": "Artigo 5.º — Outras proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Outras proibições\n\nÉ igualmente proibida:\n\na) A administração, por quaisquer meios, a animais de exploração e de aquicultura das substâncias enumeradas no anexo I do presente decreto-lei, do qual faz parte integrante, e, provisoriamente, das substâncias enumeradas no anexo II do presente decreto-lei, do qual faz parte integrante;\n\nb) A detenção, excepto sob controlo oficial, de animais de exploração e de aquicultura aos quais tenha sido administrada alguma das substâncias referidas na alínea a);\n\nc) A colocação no mercado ou o abate para consumo humano de animais de exploração que contenham ou nos quais tenham sido detectadas as substâncias referidas na alínea a), excepto no caso em que os animais em causa foram tratados em conformidade com o artigo 6.º;\n\nd) A colocação no mercado, para consumo humano, de animais de aquicultura a que tenham sido administradas as substâncias referidas na alínea a), bem como de produtos transformados derivados desses animais;\n\ne) A colocação no mercado de carne dos animais referidos nas alíneas b) e c);\n\nf) A transformação da carne referida na alínea anterior;\n\ng) A colocação no mercado e transformação de produtos de origem animal provenientes de animais de exploração e de animais de aquicultura sujeitos a tratamento durante ensaios com medicamentos veterinários ou outros produtos de uso veterinário sem autorização da autoridade competente."
+  },
+  "164934052": {
+   "fragment_id": "164937577",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições especiais de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições especiais de administração\n\n1 - Sem prejuízo do disposto nos artigos 4.º, 5.º e 9.º do presente decreto-lei, a administração de medicamentos veterinários contendo na sua composição substâncias de efeito hormonal ou substâncias beta-agonistas é autorizada nas seguintes condições:\n\na) Para fins de tratamento terapêutico a animais de exploração, desde que tais medicamentos incluam na sua composição testosterona, progesterona ou derivados que após reabsorção no local de aplicação libertem facilmente por hidrólise o composto inicial e o tratamento seja efectuado por médico veterinário, a título individual:\n\ni) Sob a forma de injecção, excluindo os implantes, ou sob a forma de espirais vaginais para tratamento da disfunção ovárica; ou\n\nii) Por quaisquer meios, tendo em vista a interrupção de gestações indesejáveis ou a melhoria da fertilidade;\n\nb) Para fins de tratamento terapêutico por quaisquer meios, da maceração ou da mumificação fetal e da piómetra em animais de exploração da espécie bovina, desde que efectuado por médico veterinário com medicamentos veterinários que incluam na sua composição estradiol 17 (beta) ou os seus ésteres;\n\nc) Para fins de tratamento terapêutico na indução da tocólise em vacas parturientes, desde que efectuado por médico veterinário, a título individual, sob a forma de injecção, com medicamentos contendo na sua composição substâncias beta-agonistas;\n\nd) Para fins de tratamento terapêutico, a título individual, efectuado por médico ou veterinário ou sob a sua responsabilidade directa e desde que os medicamentos veterinários contenham na sua composição alilotrembolona a administrar por via oral, ou substâncias beta-agonistas, a equídeos e a animais de companhia, e sejam utilizados de acordo com as especificações do seu fabricante;\n\ne) Para fins de tratamento zootécnico, por quaisquer meios, desde que os medicamentos contenham na sua composição substâncias com efeitos androgénicos, gestagénicos e estrogénicos, à excepção do estradiol 17 (beta) e dos seus ésteres e desde que efectuado por médico veterinário ou sob a sua responsabilidade, tendo em vista a sincronização do ciclo éstrico ou a preparação de dadoras e receptoras para implantação de embriões;\n\nf) Para fins de tratamento zootécnico visando a indução do estro em animais de exploração das espécies bovina, equídea, ovina e caprina, até 14 de Outubro de 2006, desde que efectuado por médico veterinário com medicamentos veterinários contendo na sua composição estradiol 17 (beta) ou seus ésteres;\n\ng) Para fins de tratamento zootécnico, a animais de aquicultura, tendo em vista a inversão sexual dos alevinos, durante os três primeiros meses de vida, com medicamentos veterinários contendo na sua composição substâncias com efeito androgénico.\n\n2 - O tratamento efectuado nos termos do número anterior deve obedecer, cumulativamente, às seguintes condições:\n\na) Os animais tratados devem estar identificados de acordo com a legislação aplicável em vigor;\n\nb) O médico veterinário deve registar obrigatoriamente, em livro de registo próprio, as seguintes informações:\n\ni) Identificação dos animais tratados;\n\nii) Data do tratamento;\n\niii) Natureza do tratamento;\n\niv) Nome do medicamento veterinário administrado e o respectivo número de autorização de introdução no mercado (AIM);\n\nv) Intervalo de segurança estipulado, se aplicável;\n\nc) O médico veterinário deverá, consoante o caso, registar no livro mencionado na alínea anterior os medicamentos veterinários receitados ou, eventualmente, administrados;\n\nd) O médico veterinário deve emitir uma receita médico-veterinária, não renovável, na qual especifique o tratamento em questão e a quantidade de medicamento necessário.\n\n3 - O modelo de livro de registo referido no número anterior é aprovado por despacho do director-geral de Veterinária.\n\n4 - O livro de registo deve ser mantido em boas condições pelo período de cinco anos e colocado à disposição das autoridades competentes, a seu pedido, para efeitos de controlo e fiscalização das disposições previstas no presente decreto-lei.\n\n5 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são publicadas até 30 de Novembro as listas de medicamentos veterinários autorizados contendo na sua composição as substâncias activas referidas no artigo anterior, bem como as respectivas condições de utilização e outras disposições complementares."
+  },
+  "164934053": {
+   "fragment_id": "164937578",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições gerais e restrições à autorização de medicamentos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições gerais e restrições à autorização de medicamentos veterinários\n\n1 - Os medicamentos veterinários contendo na sua composição substâncias de efeito hormonal com acção estrogénica, androgénica ou gestagénica e substâncias beta-agonistas que sejam administrados a animais de exploração nos termos do artigo 6.º devem satisfazer as exigências constantes da legislação em vigor aplicáveis aos medicamentos veterinários.\n\n2 - A administração dos medicamentos veterinários referidos no número anterior não pode ser autorizada quando os mesmos:\n\na) Contenham na sua composição substâncias de efeito hormonal:\n\ni) Que incluam produtos que se depositem;\n\nii) Cujo intervalo de segurança seja superior a 15 dias após o ultimo tratamento;\n\niii) Autorizadas ao abrigo de normas anteriores à alteração introduzida pelo Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1993&id=393R2309\" title=\"Link para Regulamento da Comunidade Europeia\">2309/93</a>, do Conselho, de 22 de Julho, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui a Agência Europeia de Avaliação dos Medicamentos;\n\niv) Cujas condições de utilização não sejam conhecidas;\n\nv) Para as quais não existam reagentes nem o material de análise necessário para permitir detectar a presença de resíduos que ultrapassem os limites autorizados;\n\nb) Incluam na sua composição substâncias beta-agonistas cujo intervalo de segurança seja superior a 28 dias após o último tratamento."
+  },
+  "164934054": {
+   "fragment_id": "164937579",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade dos detentores dos animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade dos detentores dos animais\n\nÀ excepção das situações previstas no artigo 6.º do presente decreto-lei, todos os detentores de animais de exploração e de aquicultura estão especialmente obrigados a usar de todos os cuidados e a utilizar a maior diligência com vista a evitar e impedir que aos referidos animais sejam administradas substâncias, produtos, medicamentos ou medicamentos veterinários proibidos."
+  },
+  "164934055": {
+   "fragment_id": "164937580",
+   "type": 11,
+   "heading": "Artigo 9.º — Proibições relativas a tratamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Proibições relativas a tratamentos\n\nÉ proibido qualquer dos tratamentos previstos no artigo 6.º a animais de engorda, incluindo os animais reprodutores em fim de carreira."
+  },
+  "164934056": {
+   "fragment_id": "164937581",
+   "type": 11,
+   "heading": "Artigo 10.º — Proibições relativas a posse de medicamentos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Proibições relativas a posse de medicamentos veterinários\n\nÉ proibida a posse ou detenção pelos detentores dos animais de exploração ou de aquicultura de medicamentos veterinários ou outros produtos de uso veterinário que contenham na sua composição:\n\na) Substâncias beta-agonistas susceptíveis de serem utilizadas para fins de indução de tocólise;\n\nb) Estradiol 17 (beta) ou seus ésteres."
+  },
+  "164934057": {
+   "fragment_id": "164937582",
+   "type": 11,
+   "heading": "Artigo 11.º — Registos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registos obrigatórios\n\n1 - Para efeitos de controlo e fiscalização e sem prejuízo do disposto em legislação específica, as entidades que adquiram, a título oneroso ou gratuito, ou produzam substâncias com efeitos tireostáticos, estrogénicos, androgénicos, gestagénicos e substâncias beta-agonistas e as entidades autorizadas, seja a que título for, a comercializarem as referidas substâncias, bem como aquelas que comprem ou produzam medicamentos veterinários a partir dessas substâncias, devem possuir um registo no qual consignem, por ordem cronológica, as quantidades produzidas ou adquiridas e as cedidas ou utilizadas para a produção em causa e a quem foram cedidas ou compradas.\n\n2 - As informações referidas no número anterior devem ser mantidas pelo período de cinco anos e, a seu pedido, colocadas à disposição das autoridades competentes e no caso de ficheiros informatizados sob a forma impressa.\n\n3 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são aprovados os modelos de registo referidos no n.º 1."
+  },
+  "164934058": {
+   "fragment_id": "164937583",
+   "type": 11,
+   "heading": "Artigo 12.º — Trocas comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trocas comerciais\n\n1 - O director-geral de Veterinária pode autorizar a colocação no mercado, para fins comerciais, de animais destinados à reprodução ou de animais reprodutores em fim de carreira que, no decurso da sua vida de reprodutores, tenham sido sujeitos a um dos tratamentos referidos no artigo 6.º do presente decreto-lei, bem como autorizar a aposição do selo comunitário na carne proveniente desses animais se tiverem sido respeitadas as condições previstas no referido artigo e os intervalos de segurança previstos na autorização de introdução no mercado.\n\n2 - O comércio de cavalos de elevado valor, nomeadamente de cavalos de corrida, concurso ou circo, ou de cavalos de sela ou destinados a exposições, incluindo os equídeos registados, a que tenham sido administrados medicamentos veterinários que contenham alilotrembolona ou beta-agonistas para os fins indicados no artigo 6.º pode efectuar-se antes do final do intervalo de segurança desde que sejam preenchidas as condições de administração e que a natureza e a data do tratamento sejam mencionadas no certificado ou passaporte que acompanha esses animais.\n\n3 - A carne ou os produtos provenientes de animais a que tenham sido administradas substâncias com efeitos estrogénicos, androgénicos, gestagénicos ou substâncias beta-agonistas, de acordo com as disposições do presente decreto-lei, só podem ser colocados no mercado para consumo humano se os animais dos quais os mesmos provêm tiverem sido tratados com medicamentos veterinários que preencham os requisitos do artigo 7.º e na medida em que tenha sido respeitado o intervalo de segurança estabelecido."
+  },
+  "164934059": {
+   "fragment_id": "164937584",
+   "type": 11,
+   "heading": "Artigo 13.º — Controlos e pesquisa de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Controlos e pesquisa de resíduos\n\n1 - A posse ou detenção das substâncias referidas nos artigos 4.º e 5.º do presente decreto-lei só é permitida às pessoas autorizadas pela legislação em vigor aplicável à sua importação, fabrico, armazenagem, distribuição, venda ou utilização.\n\n2 - Para além dos controlos previstos pelos diferentes diplomas legais que regulamentam a colocação no mercado dos produtos em questão, os controlos oficiais previstos no Decreto-Lei n.º 148/99, de 4 de Maio, são efectuados sem aviso prévio a fim de verificar:\n\na) A detenção ou a presença de substâncias ou produtos proibidos nos termos dos artigos 4.º e 5.º do presente decreto-lei, destinados a serem administrados a animais para fins de engorda;\n\nb) O tratamento ilegal dos animais;\n\nc) O não cumprimento dos intervalos de segurança previstos no artigo 7.º;\n\nd) O não cumprimento das condições previstas no artigo 6.º do presente decreto-lei sobre a utilização de determinadas substâncias ou produtos.\n\n3 - Devem ser efectuadas acções de controlo e fiscalização, sem aviso prévio, para pesquisa da presença de:\n\na) Substâncias referidas no n.º 1 nos animais, nos alimentos para animais e nas águas para abeberamento dos mesmos, bem como nas explorações ou noutros locais em que são criados ou mantidos animais;\n\nb) Resíduos das substâncias referidas na alínea anterior nos animais vivos ou nos seus excrementos e líquidos biológicos, bem como nos tecidos e produtos animais, efectuadas nos termos do disposto nos anexos III e IV do Decreto-Lei n.º 148/99, de 4 de Maio.\n\n4 - Sempre que os controlos previstos nos n.os 2 e 3 revelem a presença de substâncias ou produtos cuja utilização ou detenção é proibida ou a presença de resíduos de substâncias cuja administração é ilegal, essas substâncias ou produtos são apreendidos bem como os animais ou a respectiva carne tratados, sendo colocados sob sequestro até serem aplicadas as sanções necessárias.\n\n5 - A autoridade competente toma as medidas adequadas em função da gravidade da infracção verificada aquando do não cumprimento das exigências previstas nas alíneas b) e c) do n.º 2."
+  },
+  "164934060": {
+   "fragment_id": "164937585",
+   "type": 11,
+   "heading": "Artigo 14.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cooperação\n\nA autoridade nacional competente para assegurar a boa aplicação das legislações veterinária e zootécnica aplica as disposições do Decreto-Lei n.º 206/92, de 2 de Outubro, relativo à assistência mútua entre as autoridades administrativas dos Estados membros, quando os resultados dos controlos efectuados revelarem o não cumprimento das exigências do presente decreto-lei no país de origem dos animais ou dos produtos."
+  },
+  "164934061": {
+   "fragment_id": "164937586",
+   "type": 11,
+   "heading": "Artigo 15.º — Importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Importações\n\n1 - É proibida a importação de animais de exploração ou de aquicultura, bem como de carne e de produtos obtidos a partir desses animais, de países terceiros em que seja permitida a colocação no mercado e a administração àqueles animais de todas as espécies de estilbenos, de derivados de estilbenos, dos respectivos sais de ésteres, bem como de substâncias de efeito tireostático.\n\n2 - Para efeitos do disposto no número anterior, os países terceiros que se encontrem nas condições ali referidas não constam das listas previstas na legislação comunitária a partir das quais estão autorizadas as importações de animais de exploração ou de aquicultura, de carne ou produtos obtidos a partir desses animais.\n\n3 - É proibida a importação de países terceiros que constem das listas referidas no número anterior de:\n\na) Animais de exploração ou de aquicultura a que tenham sido administrados, por qualquer meio, produtos ou substâncias referidos:\n\ni) Na lista A do anexo I;\n\nii) Na lista B do anexo I e no anexo II, excepto se essa administração obedecer às disposições e exigências constantes dos artigos 6.º e 11.º do presente decreto-lei e desde que tenham sido respeitados os intervalos de segurança previstos nas recomendações internacionais;\n\nb) Carne ou produtos obtidos a partir dos animais cuja importação seja proibida nos termos da alínea anterior.\n\n4 - O director-geral de Veterinária pode autorizar, a requerimento do interessado ou seu representante, a importação de animais destinados à reprodução, de animais reprodutores em fim de carreira ou da sua carne desde que ofereçam garantias pelo menos equivalentes às previstas no presente decreto-lei e que tenham sido estabelecidas de acordo com o procedimento previsto no Decreto-Lei n.º 148/99, de 4 de Maio."
+  },
+  "164934062": {
+   "fragment_id": "164937587",
+   "type": 11,
+   "heading": "Artigo 16.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Controlo e fiscalização\n\n1 - Compete à DGV e às DRA, no âmbito das respectivas competências, assegurar o controlo e a fiscalização da observância das normas constantes do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades policiais e administrativas.\n\n2 - As DRA, a IGAE e qualquer outra entidade policial ou administrativa devem, sempre que solicitado pela DGV, prestar toda a colaboração necessária e adequada ao desenvolvimento das acções previstas no número anterior.\n\n3 - As empresas ou quaisquer outras entidades, públicas ou privadas, que desenvolvam actividades de qualquer forma relacionadas com os termos e procedimentos constantes no presente decreto-lei devem prestar todas as informações necessárias e facultar o acesso a qualquer estabelecimento ou local, bem como a veículo parado ou em trânsito, às entidades e para os efeitos referidos no n.º 1 do presente artigo."
+  },
+  "164934063": {
+   "fragment_id": "164937588",
+   "type": 11,
+   "heading": "Artigo 17.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740 ou (euro) 44890, consoante o agente seja pessoa singular ou colectiva:\n\na) A colocação no mercado ou a administração das substâncias referidas nos artigos 4.º e 5.º em desrespeito das condições ali estabelecidas;\n\nb) A detenção de animais de exploração e de aquicultura aos quais tenha sido administrada alguma das substâncias referidas na alínea a) do artigo 5.º;\n\nc) A colocação no mercado de animais de exploração ou da sua carne, bem como o abate dos mesmos para consumo humano, aos quais tenha sido administrada alguma das substâncias referidas na alínea a) do artigo 5.º, excepto quando os animais em causa tenham sido tratados nos termos do artigo 6.º;\n\nd) A colocação no mercado para consumo humano de animais de aquicultura aos quais tenha sido administrada alguma das substâncias referidas na alínea a) do artigo 5.º, bem como de produtos transformados derivados desses animais;\n\ne) A transformação de carne que se encontre nas condições estabelecidas na alínea f) do artigo 5.º;\n\nf) A colocação no mercado ou transformada de produtos de origem animal nas condições estabelecidas na alínea g) do artigo 5.º;\n\ng) O tratamento de animais em desrespeito das condições estabelecidas no n.º 2 do artigo 6.º;\n\nh) A não manutenção do livro de registo pelo período de tempo e nas condições previstas no n.º 4 do artigo 6.º;\n\ni) A violação dos deveres e obrigações impostos aos detentores dos animais pelo artigo 8.º;\n\nj) O tratamento de animais de engorda, incluindo os animais de engorda em fim de carreira, em violação do disposto no artigo 9.º;\n\nl) A posse ou detenção das substâncias, produtos e medicamentos veterinários referidos no artigo 10.º e nas condições nele estabelecidas;\n\nm) A não manutenção do livro de registo previsto no artigo 11.º nas condições e pelo prazo ali estabelecido;\n\nn) A criação de obstáculos ou impedimentos às acções de controlo e fiscalização previstas no artigo 13.º;\n\no) A violação do sequestro ou de quaisquer medidas impostas nos termos do artigo 13.º;\n\np) A importação de animais de exploração ou de aquicultura em desrespeito do estabelecido no artigo 15.º\n\n2 - A negligência e a tentativa são sempre punidas."
+  },
+  "164934064": {
+   "fragment_id": "164937589",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de animais ou objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização de homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras e mercados;\n\ne) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorização, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "164934065": {
+   "fragment_id": "164937590",
+   "type": 11,
+   "heading": "Artigo 19.º — Instrução e decisão dos processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Instrução e decisão dos processos de contra-ordenação\n\n1 - Compete à direcção regional de agricultura da área da prática da infracção a instrução dos processos de contra-ordenação.\n\n2 - Compete ao director-geral de Veterinária a aplicação das coimas e das sanções acessórias."
+  },
+  "164934066": {
+   "fragment_id": "164937591",
+   "type": 11,
+   "heading": "Artigo 20.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Afectação do produto das coimas\n\nA afectação do produto das coimas cobradas em aplicação do artigo 17.º far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "164934067": {
+   "fragment_id": "164937592",
+   "type": 11,
+   "heading": "Artigo 21.º — Exclusão de benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Exclusão de benefícios\n\n1 - Sempre que num animal pertencente ao efectivo bovino de um produtor se revele, em aplicação do disposto no presente decreto-lei, a presença de resíduos de substâncias proibidas, de substâncias autorizadas mas utilizadas ilegalmente, ou sempre que seja encontrada uma substância ou produto não autorizado ou uma substância ou produto autorizado nos termos do presente decreto-lei mas detido ilegalmente numa exploração sob qualquer forma, o produtor é excluído, a título do ano civil da verificação dos factos, do benefício dos montantes previstos na secção I do Regulamento (CEE), do Conselho, n.º <a href=\"eurlex.asp?ano=1968&id=368R0805\" title=\"Link para Regulamento da Comunidade Europeia\">805/68</a>, de 27 de Junho, que estabelece a organização comum de mercado no sector da carne bovina, nomeadamente o prémio à manutenção das vacas aleitantes, o prémio especial aos produtores de carne bovina, os prémios à transformação e abate precoce de bovinos, bem como das ajudas relativas às indemnizações compensatórias previstas no Regulamento (CE), do Conselho, n.º <a href=\"eurlex.asp?ano=1997&id=397R0950\" title=\"Link para Regulamento da Comunidade Europeia\">950/97</a>, de 20 de Maio, relativo à melhoria da eficácia das estruturas agrícolas.\n\n2 - Em caso de reincidência, o período de exclusão pode, em função da gravidade da infracção, ser aumentado até cinco anos a contar do ano em que foi verificada a reincidência.\n\n3 - Qualquer entrave pelo detentor dos animais na realização das inspecções e controlos efectuados para verificação do cumprimento das normas do presente decreto-lei tem como consequência a aplicação das sanções previstas no n.º 1."
+  },
+  "164934068": {
+   "fragment_id": "164937593",
+   "type": 11,
+   "heading": "Artigo 22.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à DGV e às DRA pelo presente decreto-lei são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV na qualidade de autoridade nacional competente.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria."
+  },
+  "164934069": {
+   "fragment_id": "164937594",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 150/99, de 7 de Maio."
+  },
+  "164934071": {
+   "fragment_id": "164937596",
+   "type": 14,
+   "heading": "Anexo I — Lista de substâncias proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Lista de substâncias proibidas\n\nLista A:\n\nTireostáticos;\n\nEstilbenos, seus derivados, sais e ésteres.\n\nLista B:\n\nEstradiol 17 (beta) e seus ésteres;\n\nBeta-agonistas."
+  },
+  "164934072": {
+   "fragment_id": "164937597",
+   "type": 14,
+   "heading": "Anexo II — Lista de substâncias proibidas provisoriamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Lista de substâncias proibidas provisoriamente\n\nSubstâncias com efeitos estrogénicos (à excepção do estradiol 17 (beta) e seus ésteres), androgénicos ou gestagénicos."
+  },
+  "164934073": {
+   "fragment_id": "164937577",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições especiais de administração",
+   "in_force_from": "2008-09-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 148/2008 - Diário da República n.º 145/2008, Série I de 2008-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2008-454810), em vigor a partir de 2008-09-29"
+   ],
+   "markdown": "###### Artigo 6.º — Condições especiais de administração\n\n1 - Sem prejuízo do disposto nos artigos 4.º, 5.º e 9.º do presente decreto-lei, a administração de medicamentos veterinários contendo na sua composição substâncias de efeito hormonal ou substâncias beta-agonistas é autorizada nas seguintes condições:\n\na) Para fins de tratamento terapêutico a animais de exploração, desde que tais medicamentos incluam na sua composição testosterona, progesterona ou derivados que após reabsorção no local de aplicação libertem facilmente por hidrólise o composto inicial e o tratamento seja efectuado por médico veterinário, a título individual:\n\ni) Sob a forma de injecção, excluindo os implantes, ou sob a forma de espirais vaginais para tratamento da disfunção ovárica; ou\n\nii) Por quaisquer meios, tendo em vista a interrupção de gestações indesejáveis ou a melhoria da fertilidade;\n\nb) Para fins de tratamento terapêutico por quaisquer meios, da maceração ou da mumificação fetal e da piómetra em animais de exploração da espécie bovina, desde que efectuado por médico veterinário com medicamentos veterinários que incluam na sua composição estradiol 17 (beta) ou os seus ésteres;\n\nc) Para fins de tratamento terapêutico na indução da tocólise em vacas parturientes, desde que efectuado por médico veterinário, a título individual, sob a forma de injecção, com medicamentos contendo na sua composição substâncias beta-agonistas;\n\nd) Para fins de tratamento terapêutico, a título individual, efectuado por médico ou veterinário ou sob a sua responsabilidade directa e desde que os medicamentos veterinários contenham na sua composição alilotrembolona a administrar por via oral, ou substâncias beta-agonistas, a equídeos e a animais de companhia, e sejam utilizados de acordo com as especificações do seu fabricante;\n\ne) Para fins de tratamento zootécnico, por quaisquer meios, desde que os medicamentos contenham na sua composição substâncias com efeitos androgénicos, gestagénicos e estrogénicos, à excepção do estradiol 17 (beta) e dos seus ésteres e desde que efectuado por médico veterinário ou sob a sua responsabilidade, tendo em vista a sincronização do ciclo éstrico ou a preparação de dadoras e receptoras para implantação de embriões;\n\nf) Para fins de tratamento zootécnico visando a indução do estro em animais de exploração das espécies bovina, equídea, ovina e caprina, até 14 de Outubro de 2006, desde que efectuado por médico veterinário com medicamentos veterinários contendo na sua composição estradiol 17 (beta) ou seus ésteres;\n\ng) Para fins de tratamento zootécnico, a animais de aquicultura, tendo em vista a inversão sexual dos alevinos, durante os três primeiros meses de vida, com medicamentos veterinários contendo na sua composição substâncias com efeito androgénico.\n\n2 - O tratamento efectuado nos termos do número anterior deve obedecer, cumulativamente, às seguintes condições:\n\na) Os animais tratados devem estar identificados de acordo com a legislação aplicável em vigor;\n\nb) O médico veterinário deve registar obrigatoriamente, em livro de registo próprio, as seguintes informações:\n\ni) Identificação dos animais tratados;\n\nii) Data do tratamento;\n\niii) Natureza do tratamento;\n\niv) Nome do medicamento veterinário administrado e o respectivo número de autorização de introdução no mercado (AIM);\n\nv) Intervalo de segurança estipulado, se aplicável;\n\nc) O médico veterinário deverá, consoante o caso, registar no livro mencionado na alínea anterior os medicamentos veterinários receitados ou, eventualmente, administrados;\n\nd) O médico veterinário deve emitir uma receita médico-veterinária, não renovável, na qual especifique o tratamento em questão e a quantidade de medicamento necessário.\n\n3 - O modelo de livro de registo referido no número anterior é aprovado por despacho do director-geral de Veterinária.\n\n4 - O livro de registo deve ser mantido em boas condições pelo período de cinco anos e colocado à disposição das autoridades competentes, a seu pedido, para efeitos de controlo e fiscalização das disposições previstas no presente decreto-lei.\n\n5 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são publicadas até 30 de Novembro as listas de medicamentos veterinários autorizados contendo na sua composição as substâncias activas referidas no artigo anterior, bem como as respectivas condições de utilização e outras disposições complementares.\n\n> Revogado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 148/2008 - Diário da República n.º 145/2008, Série I de 2008-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2008-454810), em vigor a partir de 2008-09-29"
+  },
+  "164934074": {
+   "fragment_id": "164937582",
+   "type": 11,
+   "heading": "Artigo 11.º — Registos obrigatórios",
+   "in_force_from": "2008-09-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 148/2008 - Diário da República n.º 145/2008, Série I de 2008-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2008-454810), em vigor a partir de 2008-09-29"
+   ],
+   "markdown": "###### Artigo 11.º — Registos obrigatórios\n\n1 - Para efeitos de controlo e fiscalização e sem prejuízo do disposto em legislação específica, as entidades que adquiram, a título oneroso ou gratuito, ou produzam substâncias com efeitos tireostáticos, estrogénicos, androgénicos, gestagénicos e substâncias beta-agonistas e as entidades autorizadas, seja a que título for, a comercializarem as referidas substâncias, bem como aquelas que comprem ou produzam medicamentos veterinários a partir dessas substâncias, devem possuir um registo no qual consignem, por ordem cronológica, as quantidades produzidas ou adquiridas e as cedidas ou utilizadas para a produção em causa e a quem foram cedidas ou compradas.\n\n2 - As informações referidas no número anterior devem ser mantidas pelo período de cinco anos e, a seu pedido, colocadas à disposição das autoridades competentes e no caso de ficheiros informatizados sob a forma impressa.\n\n3 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são aprovados os modelos de registo referidos no n.º 1.\n\n> Revogado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 148/2008 - Diário da República n.º 145/2008, Série I de 2008-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2008-454810), em vigor a partir de 2008-09-29"
+  },
+  "164934070": {
+   "fragment_id": "164937595",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Luís Medeiros Vieira - Carmen Madalena da Costa Gomes e Cunha Pignatelli.\n\nPromulgado em 21 de Outubro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Outubro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "164937984": {
+   "fragment_id": "164933974",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2009-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2009 - Diário da República n.º 120/2009, Série I de 2009-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2009-491973), em vigor a partir de 2009-06-25"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Amostra oficial» uma amostra colhida pela autoridade competente que inclua, para o exame do resíduo em causa, por um lado, a identificação do animal, com a identificação da espécie, idade e sexo e, bem assim, a natureza, quantidade, local e método de colheita, e, por outro, a origem do animal, suas carnes ou outros produtos dele provenientes, devendo essa colheita ser efectuada sem aviso prévio;\n\nb) «Anabolizantes» todas as substâncias ou produtos capazes de melhorar o balanço azotado dos organismos animais, por aumento do anabolismo proteico e melhoramento da eficácia da ração fornecida aos animais;\n\nc) «Animal de companhia» qualquer animal detido ou destinado a ser detido pelo homem, designadamente em sua casa, para seu entretimento e companhia;\n\nd) «Animal de engorda» o animal de exploração que tem como finalidade a engorda e o abate posterior com destino ao consumo humano;\n\ne) «Animal de exploração» os animais domésticos das espécies bovina, suína, ovina e caprina, os solípedes, as aves de capoeira e os coelhos domésticos, bem como os animais selvagens das espécies acima referidas e os ruminantes selvagens, desde que tenham sido criados numa exploração;\n\nf) «Autoridade nacional competente» a Direcção-Geral de Veterinária (DGV), a quem compete coordenar o sistema de controlo, elaborar o Plano Nacional de Controlo de Resíduos e recolher os resultados e as informações a transmitir à Comissão da União Europeia;\n\ng) «Autoridade sanitária veterinária regional» as direcções regionais de agricultura (DRA), responsáveis, ao nível regional, por actividades de controlo;\n\nh) «Autorização de introdução no mercado» o acto administrativo pelo qual, na sequência de um pedido apresentado por um requerente, a autoridade nacional competente para o efeito autoriza a introdução no mercado de medicamentos veterinários ou produtos de uso veterinário;\n\ni) «Carnes» todas as partes de animais domésticos das espécies bovina, incluindo as espécies Bubalus bubalis e Bison bison, suína, ovina, caprina, avícola e cunícola, bem como de solípedes domésticos, próprias para consumo;\n\nj) «Carne de aves de capoeira» todas as partes de aves domésticas próprias para consumo humano de todas as espécies criadas para o efeito;\n\nl) «Carne de coelho» todas as partes de coelho doméstico próprias para consumo humano;\n\nm) «Colocação no mercado» a detenção para efeitos de venda, incluindo a oferta, ou qualquer outra forma de transferência para terceiros, gratuita ou não, bem como a própria venda e as outras formas de transferência;\n\nn) «Intervalo de segurança» o período de tempo que medeia entre a última administração de um medicamento veterinário a um animal em condições normais de utilização ou de um medicamento de uso humano a um animal nas condições legais de utilização e a obtenção de alimentos provenientes desse animal, para garantir que estes não contêm resíduos que possam apresentar perigo para a saúde do consumidor;\n\no) «Laboratório autorizado» um laboratório credenciado pela autoridade competente, após parecer do laboratório de referência, para proceder à análise de uma amostra oficial;\n\np) «Laboratório de referência» o Laboratório Nacional de Investigação Veterinária (LNIV), a quem compete coordenar as normas e métodos de análise para cada resíduo ou grupo de resíduos em causa, incluindo a organização de testes comparativos periódicos, efectuados com amostras fraccionadas pelos laboratórios autorizados, bem como a observância dos limites estabelecidos;\n\nq) «Medicamentos» toda a substância ou composição que possua propriedades curativas ou preventivas das doenças ou dos seus sintomas, do homem ou do animal, com vista a estabelecer um diagnóstico médico ou a restaurar, corrigir ou modificar as suas funções orgânicas;\n\nr) «Medicamentos veterinários» todo o medicamento destinado aos animais;\n\ns) «Produtos à base de carnes» os produtos fabricados a partir de carne ou com carne que tenha sofrido um tratamento tal que a superfície de cortes à vista permita verificar o desaparecimento das características da carne fresca;\n\nt) «Produtos de aquicultura» todos os produtos da pesca cujo nascimento e crescimento é controlado pelo homem até à sua colocação no mercado como género alimentício, bem como os peixes ou crustáceos de água do mar ou de água doce capturados no seu meio natural quando juvenis e mantidos em cativeiro até atingirem o tamanho comercial pretendido para consumo humano, são também considerados produtos de aquicultura, com exclusão dos peixes e crustáceos de tamanho comercial capturados no seu meio natural e mantidos vivos para serem vendidos posteriormente quando a sua permanência nos viveiros tenha como único objectivo mantê-los vivos e não aumentá-los de tamanho ou de peso;\n\nu) «Produto de uso veterinário» a substância ou mistura de substâncias destinadas quer aos animais, para tratamento ou prevenção das doenças e dos seus sintomas, correcção ou modificação das funções orgânicas ou para diagnóstico médico, quer às instalações dos animais ou a actividades relacionadas com estes ou com os produtos de origem animal;\n\nv) «Resíduos» as substâncias com acção farmacológica, ou os seus metabolitos, bem como outras substâncias que estejam presentes nos animais, nas suas carnes ou noutros produtos deles provenientes, susceptíveis de prejudicar a saúde humana;\n\nx) «Substância activa» toda a matéria de origem humana, animal, vegetal ou química à qual se atribui actividade apropriada para constituir um medicamento;\n\nz) «Substância beta-agonista» substância agonista dos receptores beta-adrenérgicos;\n\naa) «Substâncias ou produtos não autorizados» as substâncias ou produtos cuja administração aos animais é proibida pela legislação nacional ou comunitária;\n\nbb) «Tratamento ilegal» a utilização de substâncias, medicamentos, medicamentos veterinários ou outros produtos veterinários não autorizados ou a utilização de substâncias, medicamentos, medicamentos veterinários ou outros produtos autorizados pela legislação comunitária para outros fins ou em condições que não as previstas na legislação nacional;\n\ncc) 'Tratamento terapêutico' a administração, em cumprimento do artigo 6.º-A do presente decreto-lei, a título individual, a um animal de exploração, de uma das substâncias autorizadas, tendo em vista o tratamento de um problema de fecundidade detectado durante um exame desse animal efectuado por um médico veterinário, incluindo a interrupção de uma gestação não desejada e, no que se refere aos beta agonistas, tendo em vista a indução da tocólise nas vacas parturientes, bem como o tratamento das perturbações respiratórias, da doença do navicular e da laminite e da indução da tocólise nos equídeos;\n\ndd) «Tratamento zootécnico» a administração:\n\ni) A título individual, a um animal de exploração, de um medicamento veterinário legalmente autorizado contendo na sua composição uma das substâncias de efeito hormonal autorizadas, tendo em vista a sincronização do ciclo éstrico e a preparação das dadoras e das receptoras para a implantação de embriões, efectuado por um médico veterinário ou sob a sua responsabilidade, após exame do animal;\n\nii) A um grupo de animais de aquicultura reprodutores, tendo em vista a sua inversão sexual, por prescrição de um médico veterinário e sob a sua responsabilidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2009 - Diário da República n.º 120/2009, Série I de 2009-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2009-491973), em vigor a partir de 2009-06-25"
+  },
+  "164937985": {
+   "fragment_id": "164937575",
+   "type": 11,
+   "heading": "Artigo 4.º — Proibição de colocação no mercado e de administração",
+   "in_force_from": "2009-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2009 - Diário da República n.º 120/2009, Série I de 2009-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2009-491973), em vigor a partir de 2009-06-25"
+   ],
+   "markdown": "###### Artigo 4.º — Proibição de colocação no mercado e de administração\n\nÉ proibida a colocação no mercado, para fins diversos dos referidos no artigo 6.º-A, das substâncias incluídas no anexo i do presente decreto-lei, do qual faz parte integrante, para administração a quaisquer animais cuja carne ou produtos derivados se destinem ao consumo humano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2009 - Diário da República n.º 120/2009, Série I de 2009-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2009-491973), em vigor a partir de 2009-06-25"
+  },
+  "164937986": {
+   "fragment_id": "164937608",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Condições específicas de administração",
+   "in_force_from": "2009-06-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 146/2009 - Diário da República n.º 120/2009, Série I de 2009-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2009-491973), em vigor a partir de 2009-06-25"
+   ],
+   "markdown": "###### Artigo 6.º-A — Condições específicas de administração\n\nA administração de medicamentos veterinários contendo na sua composição substâncias de efeito hormonal ou substâncias beta agonistas é autorizada nas seguintes condições:\n\na) Para fins de tratamento terapêutico a animais de exploração, desde que tais medicamentos incluam na sua composição testosterona, progesterona ou derivados que após reabsorção no local de aplicação libertem facilmente por hidrólise o composto inicial e o tratamento seja efectuado por médico veterinário, a título individual:\n\ni) Sob a forma de injecção, excluindo os implantes, ou sob a forma de espirais vaginais para tratamento da disfunção ovárica; ou\n\nii) Por quaisquer meios, tendo em vista a interrupção de gestações indesejáveis ou a melhoria da fertilidade;\n\nb) Para fins de tratamento terapêutico na indução da tocólise em vacas parturientes, desde que efectuado por médico veterinário, a título individual, sob a forma de injecção, com medicamentos contendo na sua composição substâncias beta agonistas;\n\nc) A administração de medicamentos veterinários contendo na sua composição substâncias de efeito hormonal ou substâncias beta agonistas é autorizada para fins de tratamento terapêutico, a título individual, efectuado por médico veterinário ou sob a sua responsabilidade directa e desde que os medicamentos veterinários contenham na sua composição alilotrembolona a administrar por via oral, ou substâncias beta agonistas, a equídeos, desde que sejam utilizados de acordo com as especificações do fabricante;\n\nd) Para fins de tratamento zootécnico, por quaisquer meios, desde que os medicamentos contenham na sua composição substâncias com efeitos androgénicos, gestagénicos e estrogénicos, à excepção do estradiol 17 b e dos seus ésteres e desde que efectuado por médico veterinário ou sob a sua responsabilidade, tendo em vista a sincronização do ciclo éstrico ou a preparação de dadoras e receptoras para implantação de embriões;\n\ne) Para fins de tratamento zootécnico, a animais de aquicultura, tendo em vista a inversão sexual dos alevinos, durante os três primeiros meses de vida, com medicamentos veterinários contendo na sua composição substâncias com efeito androgénico.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 146/2009 - Diário da República n.º 120/2009, Série I de 2009-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2009-491973), em vigor a partir de 2009-06-25"
+  },
+  "164937987": {
+   "fragment_id": "164937578",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições gerais e restrições à autorização de medicamentos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições gerais e restrições à autorização de medicamentos veterinários\n\n1 - Os medicamentos veterinários contendo na sua composição substâncias de efeito hormonal com acção estrogénica, androgénica ou gestagénica e substâncias beta-agonistas que sejam administrados a animais de exploração nos termos do artigo 6.º devem satisfazer as exigências constantes da legislação em vigor aplicáveis aos medicamentos veterinários.\n\n2 - A administração dos medicamentos veterinários referidos no número anterior não pode ser autorizada quando os mesmos:\n\na) Contenham na sua composição substâncias de efeito hormonal:\n\ni) Que incluam produtos que se depositem;\n\nii) Cujo intervalo de segurança seja superior a 15 dias após o ultimo tratamento;\n\niii) Autorizadas ao abrigo de normas anteriores à alteração introduzida pelo Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1993&id=393R2309\" title=\"Link para Regulamento da Comunidade Europeia\">2309/93</a>, do Conselho, de 22 de Julho, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui a Agência Europeia de Avaliação dos Medicamentos;\n\niv) Cujas condições de utilização não sejam conhecidas;\n\nv) Para as quais não existam reagentes nem o material de análise necessário para permitir detectar a presença de resíduos que ultrapassem os limites autorizados;\n\nb) Incluam na sua composição substâncias beta-agonistas cujo intervalo de segurança seja superior a 28 dias após o último tratamento."
+  },
+  "164937988": {
+   "fragment_id": "164937579",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade dos detentores dos animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade dos detentores dos animais\n\nÀ excepção das situações previstas no artigo 6.º do presente decreto-lei, todos os detentores de animais de exploração e de aquicultura estão especialmente obrigados a usar de todos os cuidados e a utilizar a maior diligência com vista a evitar e impedir que aos referidos animais sejam administradas substâncias, produtos, medicamentos ou medicamentos veterinários proibidos."
+  },
+  "164937989": {
+   "fragment_id": "164937580",
+   "type": 11,
+   "heading": "Artigo 9.º — Proibições relativas a tratamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Proibições relativas a tratamentos\n\nÉ proibido qualquer dos tratamentos previstos no artigo 6.º a animais de engorda, incluindo os animais reprodutores em fim de carreira."
+  },
+  "164937990": {
+   "fragment_id": "164937581",
+   "type": 11,
+   "heading": "Artigo 10.º — Proibições relativas a posse de medicamentos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Proibições relativas a posse de medicamentos veterinários\n\nÉ proibida a posse ou detenção pelos detentores dos animais de exploração ou de aquicultura de medicamentos veterinários ou outros produtos de uso veterinário que contenham na sua composição:\n\na) Substâncias beta-agonistas susceptíveis de serem utilizadas para fins de indução de tocólise;\n\nb) Estradiol 17 (beta) ou seus ésteres."
+  },
+  "164937991": {
+   "fragment_id": "164937582",
+   "type": 11,
+   "heading": "Artigo 11.º — Registos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 148/2008 - Diário da República n.º 145/2008, Série I de 2008-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2008-454810), em vigor a partir de 2008-09-29"
+   ],
+   "markdown": "###### Artigo 11.º — Registos obrigatórios\n\n1 - Para efeitos de controlo e fiscalização e sem prejuízo do disposto em legislação específica, as entidades que adquiram, a título oneroso ou gratuito, ou produzam substâncias com efeitos tireostáticos, estrogénicos, androgénicos, gestagénicos e substâncias beta-agonistas e as entidades autorizadas, seja a que título for, a comercializarem as referidas substâncias, bem como aquelas que comprem ou produzam medicamentos veterinários a partir dessas substâncias, devem possuir um registo no qual consignem, por ordem cronológica, as quantidades produzidas ou adquiridas e as cedidas ou utilizadas para a produção em causa e a quem foram cedidas ou compradas.\n\n2 - As informações referidas no número anterior devem ser mantidas pelo período de cinco anos e, a seu pedido, colocadas à disposição das autoridades competentes e no caso de ficheiros informatizados sob a forma impressa.\n\n3 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são aprovados os modelos de registo referidos no n.º 1.\n\n> Revogado pelo/a Artigo 131.º do/a [Decreto-Lei n.º 148/2008 - Diário da República n.º 145/2008, Série I de 2008-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2008-454810), em vigor a partir de 2008-09-29"
+  },
+  "164937992": {
+   "fragment_id": "164937583",
+   "type": 11,
+   "heading": "Artigo 12.º — Trocas comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trocas comerciais\n\n1 - O director-geral de Veterinária pode autorizar a colocação no mercado, para fins comerciais, de animais destinados à reprodução ou de animais reprodutores em fim de carreira que, no decurso da sua vida de reprodutores, tenham sido sujeitos a um dos tratamentos referidos no artigo 6.º do presente decreto-lei, bem como autorizar a aposição do selo comunitário na carne proveniente desses animais se tiverem sido respeitadas as condições previstas no referido artigo e os intervalos de segurança previstos na autorização de introdução no mercado.\n\n2 - O comércio de cavalos de elevado valor, nomeadamente de cavalos de corrida, concurso ou circo, ou de cavalos de sela ou destinados a exposições, incluindo os equídeos registados, a que tenham sido administrados medicamentos veterinários que contenham alilotrembolona ou beta-agonistas para os fins indicados no artigo 6.º pode efectuar-se antes do final do intervalo de segurança desde que sejam preenchidas as condições de administração e que a natureza e a data do tratamento sejam mencionadas no certificado ou passaporte que acompanha esses animais.\n\n3 - A carne ou os produtos provenientes de animais a que tenham sido administradas substâncias com efeitos estrogénicos, androgénicos, gestagénicos ou substâncias beta-agonistas, de acordo com as disposições do presente decreto-lei, só podem ser colocados no mercado para consumo humano se os animais dos quais os mesmos provêm tiverem sido tratados com medicamentos veterinários que preencham os requisitos do artigo 7.º e na medida em que tenha sido respeitado o intervalo de segurança estabelecido."
+  },
+  "164937993": {
+   "fragment_id": "164937584",
+   "type": 11,
+   "heading": "Artigo 13.º — Controlos e pesquisa de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Controlos e pesquisa de resíduos\n\n1 - A posse ou detenção das substâncias referidas nos artigos 4.º e 5.º do presente decreto-lei só é permitida às pessoas autorizadas pela legislação em vigor aplicável à sua importação, fabrico, armazenagem, distribuição, venda ou utilização.\n\n2 - Para além dos controlos previstos pelos diferentes diplomas legais que regulamentam a colocação no mercado dos produtos em questão, os controlos oficiais previstos no Decreto-Lei n.º 148/99, de 4 de Maio, são efectuados sem aviso prévio a fim de verificar:\n\na) A detenção ou a presença de substâncias ou produtos proibidos nos termos dos artigos 4.º e 5.º do presente decreto-lei, destinados a serem administrados a animais para fins de engorda;\n\nb) O tratamento ilegal dos animais;\n\nc) O não cumprimento dos intervalos de segurança previstos no artigo 7.º;\n\nd) O não cumprimento das condições previstas no artigo 6.º do presente decreto-lei sobre a utilização de determinadas substâncias ou produtos.\n\n3 - Devem ser efectuadas acções de controlo e fiscalização, sem aviso prévio, para pesquisa da presença de:\n\na) Substâncias referidas no n.º 1 nos animais, nos alimentos para animais e nas águas para abeberamento dos mesmos, bem como nas explorações ou noutros locais em que são criados ou mantidos animais;\n\nb) Resíduos das substâncias referidas na alínea anterior nos animais vivos ou nos seus excrementos e líquidos biológicos, bem como nos tecidos e produtos animais, efectuadas nos termos do disposto nos anexos III e IV do Decreto-Lei n.º 148/99, de 4 de Maio.\n\n4 - Sempre que os controlos previstos nos n.os 2 e 3 revelem a presença de substâncias ou produtos cuja utilização ou detenção é proibida ou a presença de resíduos de substâncias cuja administração é ilegal, essas substâncias ou produtos são apreendidos bem como os animais ou a respectiva carne tratados, sendo colocados sob sequestro até serem aplicadas as sanções necessárias.\n\n5 - A autoridade competente toma as medidas adequadas em função da gravidade da infracção verificada aquando do não cumprimento das exigências previstas nas alíneas b) e c) do n.º 2."
+  },
+  "164937994": {
+   "fragment_id": "164937585",
+   "type": 11,
+   "heading": "Artigo 14.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cooperação\n\nA autoridade nacional competente para assegurar a boa aplicação das legislações veterinária e zootécnica aplica as disposições do Decreto-Lei n.º 206/92, de 2 de Outubro, relativo à assistência mútua entre as autoridades administrativas dos Estados membros, quando os resultados dos controlos efectuados revelarem o não cumprimento das exigências do presente decreto-lei no país de origem dos animais ou dos produtos."
+  },
+  "164937995": {
+   "fragment_id": "164937586",
+   "type": 11,
+   "heading": "Artigo 15.º — Importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Importações\n\n1 - É proibida a importação de animais de exploração ou de aquicultura, bem como de carne e de produtos obtidos a partir desses animais, de países terceiros em que seja permitida a colocação no mercado e a administração àqueles animais de todas as espécies de estilbenos, de derivados de estilbenos, dos respectivos sais de ésteres, bem como de substâncias de efeito tireostático.\n\n2 - Para efeitos do disposto no número anterior, os países terceiros que se encontrem nas condições ali referidas não constam das listas previstas na legislação comunitária a partir das quais estão autorizadas as importações de animais de exploração ou de aquicultura, de carne ou produtos obtidos a partir desses animais.\n\n3 - É proibida a importação de países terceiros que constem das listas referidas no número anterior de:\n\na) Animais de exploração ou de aquicultura a que tenham sido administrados, por qualquer meio, produtos ou substâncias referidos:\n\ni) Na lista A do anexo I;\n\nii) Na lista B do anexo I e no anexo II, excepto se essa administração obedecer às disposições e exigências constantes dos artigos 6.º e 11.º do presente decreto-lei e desde que tenham sido respeitados os intervalos de segurança previstos nas recomendações internacionais;\n\nb) Carne ou produtos obtidos a partir dos animais cuja importação seja proibida nos termos da alínea anterior.\n\n4 - O director-geral de Veterinária pode autorizar, a requerimento do interessado ou seu representante, a importação de animais destinados à reprodução, de animais reprodutores em fim de carreira ou da sua carne desde que ofereçam garantias pelo menos equivalentes às previstas no presente decreto-lei e que tenham sido estabelecidas de acordo com o procedimento previsto no Decreto-Lei n.º 148/99, de 4 de Maio."
+  },
+  "164937996": {
+   "fragment_id": "164937587",
+   "type": 11,
+   "heading": "Artigo 16.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Controlo e fiscalização\n\n1 - Compete à DGV e às DRA, no âmbito das respectivas competências, assegurar o controlo e a fiscalização da observância das normas constantes do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades policiais e administrativas.\n\n2 - As DRA, a IGAE e qualquer outra entidade policial ou administrativa devem, sempre que solicitado pela DGV, prestar toda a colaboração necessária e adequada ao desenvolvimento das acções previstas no número anterior.\n\n3 - As empresas ou quaisquer outras entidades, públicas ou privadas, que desenvolvam actividades de qualquer forma relacionadas com os termos e procedimentos constantes no presente decreto-lei devem prestar todas as informações necessárias e facultar o acesso a qualquer estabelecimento ou local, bem como a veículo parado ou em trânsito, às entidades e para os efeitos referidos no n.º 1 do presente artigo."
+  },
+  "164937997": {
+   "fragment_id": "164937588",
+   "type": 11,
+   "heading": "Artigo 17.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740 ou (euro) 44890, consoante o agente seja pessoa singular ou colectiva:\n\na) A colocação no mercado ou a administração das substâncias referidas nos artigos 4.º e 5.º em desrespeito das condições ali estabelecidas;\n\nb) A detenção de animais de exploração e de aquicultura aos quais tenha sido administrada alguma das substâncias referidas na alínea a) do artigo 5.º;\n\nc) A colocação no mercado de animais de exploração ou da sua carne, bem como o abate dos mesmos para consumo humano, aos quais tenha sido administrada alguma das substâncias referidas na alínea a) do artigo 5.º, excepto quando os animais em causa tenham sido tratados nos termos do artigo 6.º;\n\nd) A colocação no mercado para consumo humano de animais de aquicultura aos quais tenha sido administrada alguma das substâncias referidas na alínea a) do artigo 5.º, bem como de produtos transformados derivados desses animais;\n\ne) A transformação de carne que se encontre nas condições estabelecidas na alínea f) do artigo 5.º;\n\nf) A colocação no mercado ou transformada de produtos de origem animal nas condições estabelecidas na alínea g) do artigo 5.º;\n\ng) O tratamento de animais em desrespeito das condições estabelecidas no n.º 2 do artigo 6.º;\n\nh) A não manutenção do livro de registo pelo período de tempo e nas condições previstas no n.º 4 do artigo 6.º;\n\ni) A violação dos deveres e obrigações impostos aos detentores dos animais pelo artigo 8.º;\n\nj) O tratamento de animais de engorda, incluindo os animais de engorda em fim de carreira, em violação do disposto no artigo 9.º;\n\nl) A posse ou detenção das substâncias, produtos e medicamentos veterinários referidos no artigo 10.º e nas condições nele estabelecidas;\n\nm) A não manutenção do livro de registo previsto no artigo 11.º nas condições e pelo prazo ali estabelecido;\n\nn) A criação de obstáculos ou impedimentos às acções de controlo e fiscalização previstas no artigo 13.º;\n\no) A violação do sequestro ou de quaisquer medidas impostas nos termos do artigo 13.º;\n\np) A importação de animais de exploração ou de aquicultura em desrespeito do estabelecido no artigo 15.º\n\n2 - A negligência e a tentativa são sempre punidas."
+  },
+  "164937998": {
+   "fragment_id": "164937589",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de animais ou objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização de homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras e mercados;\n\ne) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorização, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "164937999": {
+   "fragment_id": "164937590",
+   "type": 11,
+   "heading": "Artigo 19.º — Instrução e decisão dos processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Instrução e decisão dos processos de contra-ordenação\n\n1 - Compete à direcção regional de agricultura da área da prática da infracção a instrução dos processos de contra-ordenação.\n\n2 - Compete ao director-geral de Veterinária a aplicação das coimas e das sanções acessórias."
+  },
+  "164938000": {
+   "fragment_id": "164937591",
+   "type": 11,
+   "heading": "Artigo 20.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Afectação do produto das coimas\n\nA afectação do produto das coimas cobradas em aplicação do artigo 17.º far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "164938001": {
+   "fragment_id": "164937592",
+   "type": 11,
+   "heading": "Artigo 21.º — Exclusão de benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Exclusão de benefícios\n\n1 - Sempre que num animal pertencente ao efectivo bovino de um produtor se revele, em aplicação do disposto no presente decreto-lei, a presença de resíduos de substâncias proibidas, de substâncias autorizadas mas utilizadas ilegalmente, ou sempre que seja encontrada uma substância ou produto não autorizado ou uma substância ou produto autorizado nos termos do presente decreto-lei mas detido ilegalmente numa exploração sob qualquer forma, o produtor é excluído, a título do ano civil da verificação dos factos, do benefício dos montantes previstos na secção I do Regulamento (CEE), do Conselho, n.º <a href=\"eurlex.asp?ano=1968&id=368R0805\" title=\"Link para Regulamento da Comunidade Europeia\">805/68</a>, de 27 de Junho, que estabelece a organização comum de mercado no sector da carne bovina, nomeadamente o prémio à manutenção das vacas aleitantes, o prémio especial aos produtores de carne bovina, os prémios à transformação e abate precoce de bovinos, bem como das ajudas relativas às indemnizações compensatórias previstas no Regulamento (CE), do Conselho, n.º <a href=\"eurlex.asp?ano=1997&id=397R0950\" title=\"Link para Regulamento da Comunidade Europeia\">950/97</a>, de 20 de Maio, relativo à melhoria da eficácia das estruturas agrícolas.\n\n2 - Em caso de reincidência, o período de exclusão pode, em função da gravidade da infracção, ser aumentado até cinco anos a contar do ano em que foi verificada a reincidência.\n\n3 - Qualquer entrave pelo detentor dos animais na realização das inspecções e controlos efectuados para verificação do cumprimento das normas do presente decreto-lei tem como consequência a aplicação das sanções previstas no n.º 1."
+  },
+  "164938002": {
+   "fragment_id": "164937593",
+   "type": 11,
+   "heading": "Artigo 22.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à DGV e às DRA pelo presente decreto-lei são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV na qualidade de autoridade nacional competente.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria."
+  },
+  "164938003": {
+   "fragment_id": "164937594",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 150/99, de 7 de Maio."
+  },
+  "164938004": {
+   "fragment_id": "164937595",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Luís Medeiros Vieira - Carmen Madalena da Costa Gomes e Cunha Pignatelli.\n\nPromulgado em 21 de Outubro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Outubro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "164938005": {
+   "fragment_id": "164937596",
+   "type": 14,
+   "heading": "Anexo I — Lista de substâncias proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Lista de substâncias proibidas\n\nLista A:\n\nTireostáticos;\n\nEstilbenos, seus derivados, sais e ésteres.\n\nLista B:\n\nEstradiol 17 (beta) e seus ésteres;\n\nBeta-agonistas."
+  },
+  "164938006": {
+   "fragment_id": "164937597",
+   "type": 14,
+   "heading": "Anexo II — Lista de substâncias proibidas provisoriamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Lista de substâncias proibidas provisoriamente\n\nSubstâncias com efeitos estrogénicos (à excepção do estradiol 17 (beta) e seus ésteres), androgénicos ou gestagénicos."
+  }
+ }
+}

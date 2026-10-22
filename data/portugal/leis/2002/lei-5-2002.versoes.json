@@ -1,0 +1,1417 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:583017:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2002-67572408",
+ "dre_path": "/dr/detalhe/lei/5-2002-583017",
+ "source_lastmod": "2026-08-14",
+ "versions": [
+  {
+   "date": "2002-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:272191:por",
+     "title": "Declaração de Rectificação n.º 5/2002",
+     "published": "2002-02-06",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/5-2002-272191"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 4.º",
+    "Retifica Artigo 7.º",
+    "Retifica Artigo 13.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "67572499",
+    "67572500",
+    "67572501",
+    "67572502",
+    "67572503",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "67572508",
+    "67572509",
+    "67572510",
+    "67572511",
+    "67572512",
+    "67572513",
+    "67572514",
+    "67572515",
+    "67572516",
+    "67572517",
+    "67572518",
+    "67572519"
+   ],
+   "acts_without_text_change": []
+  },
+  {
+   "date": "2008-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:249976:por",
+     "title": "Lei n.º 19/2008",
+     "published": "2008-04-21",
+     "dre_path": "/dr/detalhe/lei/19-2008-249976"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "67572528",
+    "67572500",
+    "67572524",
+    "67572502",
+    "67572525",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "67572526",
+    "67572509",
+    "67572510",
+    "67572511",
+    "67572512",
+    "67572513",
+    "67572514",
+    "67572527",
+    "67572516",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2009-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483411:por",
+     "title": "Decreto-Lei n.º 317/2009",
+     "published": "2009-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/317-2009-483411"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "67572528",
+    "67572500",
+    "67572529",
+    "67572530",
+    "67572531",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "67572526",
+    "67572509",
+    "67572510",
+    "67572511",
+    "67572512",
+    "67572513",
+    "67572514",
+    "67572532",
+    "67572533",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2012-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191534:por",
+     "title": "Decreto-Lei n.º 242/2012",
+     "published": "2012-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/242-2012-191534"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "67572528",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "67572526",
+    "67572509",
+    "67572510",
+    "67572511",
+    "67572512",
+    "67572513",
+    "67572514",
+    "67572537",
+    "67572538",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2013-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499058:por",
+     "title": "Lei n.º 60/2013",
+     "published": "2013-08-23",
+     "dre_path": "/dr/detalhe/lei/60-2013-499058"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "67572539",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "67572526",
+    "67572509",
+    "67572510",
+    "67572511",
+    "67572512",
+    "67572513",
+    "67572514",
+    "67572537",
+    "67572538",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2015-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67541736:por",
+     "title": "Lei n.º 55/2015",
+     "published": "2015-06-23",
+     "dre_path": "/dr/detalhe/lei/55-2015-67541736"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "67572545",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "67572526",
+    "67572509",
+    "67572510",
+    "67572511",
+    "67572512",
+    "67572513",
+    "67572514",
+    "67572537",
+    "67572538",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2017-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107094725:por",
+     "title": "Lei n.º 30/2017",
+     "published": "2017-05-30",
+     "dre_path": "/dr/detalhe/lei/30-2017-107094725"
+    }
+   ],
+   "changes": [
+    "Adita Secção I",
+    "Adita Artigo 12.º-A",
+    "Adita Secção II",
+    "Adita Artigo 12.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "107797755",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "107797739",
+    "107797757",
+    "107797759",
+    "107797761",
+    "107797763",
+    "107797765",
+    "107797767",
+    "107797768",
+    "107797746",
+    "107797769",
+    "67572514",
+    "67572537",
+    "67572538",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174824631:por",
+     "title": "Lei n.º 79/2021",
+     "published": "2021-11-24",
+     "dre_path": "/dr/detalhe/lei/79-2021-174824631"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "174870599",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "107797739",
+    "107797757",
+    "107797759",
+    "107797761",
+    "107797763",
+    "107797765",
+    "107797767",
+    "107797768",
+    "107797746",
+    "107797769",
+    "67572514",
+    "67572537",
+    "67572538",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2022-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176907512:por",
+     "title": "Lei n.º 99-A/2021",
+     "published": "2021-12-31",
+     "dre_path": "/dr/detalhe/lei/99-a-2021-176907512"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "174870599",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "107797739",
+    "107797757",
+    "107797759",
+    "107797761",
+    "107797763",
+    "107797765",
+    "107797767",
+    "107797768",
+    "107797746",
+    "107797769",
+    "67572514",
+    "67572537",
+    "177026943",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2022-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:186869046:por",
+     "title": "Lei n.º 13/2022",
+     "published": "2022-08-01",
+     "dre_path": "/dr/detalhe/lei/13-2022-186869046"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "186759807",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "107797739",
+    "107797757",
+    "107797759",
+    "107797761",
+    "107797763",
+    "107797765",
+    "107797767",
+    "107797768",
+    "107797746",
+    "107797769",
+    "67572514",
+    "67572537",
+    "177026943",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2023-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:206158533:por",
+     "title": "Lei n.º 2/2023",
+     "published": "2023-01-16",
+     "dre_path": "/dr/detalhe/lei/2-2023-206158533"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "206157465",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "107797739",
+    "107797757",
+    "107797759",
+    "107797761",
+    "107797763",
+    "107797765",
+    "107797767",
+    "107797768",
+    "107797746",
+    "107797769",
+    "67572514",
+    "67572537",
+    "177026943",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2024-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:837135334:por",
+     "title": "Lei n.º 14/2024",
+     "published": "2024-01-19",
+     "dre_path": "/dr/detalhe/lei/14-2024-837135334"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "838305280",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "107797739",
+    "107797757",
+    "107797759",
+    "107797761",
+    "107797763",
+    "107797765",
+    "107797767",
+    "107797768",
+    "107797746",
+    "107797769",
+    "67572514",
+    "67572537",
+    "177026943",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992402106:por",
+     "title": "Lei n.º 72/2025",
+     "published": "2025-12-23",
+     "dre_path": "/dr/detalhe/lei/72-2025-992402106"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "992475634",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "107797739",
+    "107797757",
+    "107797759",
+    "107797761",
+    "107797763",
+    "107797765",
+    "107797767",
+    "107797768",
+    "107797746",
+    "107797769",
+    "67572514",
+    "67572537",
+    "177026943",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1152696582:por",
+     "title": "Lei n.º 37/2026",
+     "published": "2026-07-28",
+     "dre_path": "/dr/detalhe/lei/37-2026-1152696582"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 6.º-B",
+    "Adita Artigo 6.º-C",
+    "Adita Artigo 6.º-D",
+    "Adita Secção III",
+    "Altera Artigo 1.º",
+    "Altera Secção I",
+    "Altera Secção II",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "67572497",
+    "67572498",
+    "1153492475",
+    "67572500",
+    "67572534",
+    "67572535",
+    "67572536",
+    "67572504",
+    "67572505",
+    "67572506",
+    "67572507",
+    "1153495975",
+    "1153501075",
+    "1153501175",
+    "1153501275",
+    "1153500875",
+    "1153499875",
+    "1153495775",
+    "1153496275",
+    "1153496075",
+    "1153499375",
+    "1153499475",
+    "1153499575",
+    "1153499675",
+    "1153499775",
+    "1153499175",
+    "67572514",
+    "67572537",
+    "177026943",
+    "67572517",
+    "67572518",
+    "67572519",
+    "67572520"
+   ]
+  }
+ ],
+ "fragments": {
+  "67572497": {
+   "fragment_id": "67572409",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 5/2002\n\nde 11 de Janeiro\n\nEstabelece medidas de combate à criminalidade organizada e económico-financeira e procede à segunda alteração à Lei n.º 36/94, de 29 de Setembro, alterada pela Lei n.º 90/99, de 10 de Julho, e quarta alteração ao Decreto-Lei n.º 325/95, de 2 de Dezembro, alterado pela Lei n.º 65/98, de 2 de Setembro, pelo Decreto-Lei n.º 275-A/2000, de 9 de Novembro, e pela Lei n.º 104/2001, de 25 de Agosto.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "67572498": {
+   "fragment_id": "67572410",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I"
+  },
+  "67572499": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Terrorismo e organização terrorista;\n\nc) Tráfico de armas;\n\nd) Corrupção passiva e peculato;\n\ne) Branqueamento de capitais;\n\nf) Associação criminosa;\n\ng) Contrabando;\n\nh) Tráfico e viciação de veículos furtados;\n\ni) Lenocínio e lenocínio e tráfico de menores;\n\nj) Contrafacção de moeda e de títulos equiparados a moeda.\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas g) a j) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro."
+  },
+  "67572500": {
+   "fragment_id": "67572412",
+   "type": 1,
+   "heading": "Capítulo II — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Segredo profissional"
+  },
+  "67572501": {
+   "fragment_id": "67572413",
+   "type": 11,
+   "heading": "Artigo 2.º — Quebra de segredo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Quebra de segredo\n\n1 - Nas fases de inquérito, instrução e julgamento de processos relativos aos crimes previstos no artigo 1.º o segredo profissional dos membros dos órgãos sociais das instituições de crédito e sociedades financeiras, dos seus empregados e de pessoas que a elas prestem serviço, bem como o segredo dos funcionários da administração fiscal, cedem, se houver razões para crer que as respectivas informações têm interesse para a descoberta da verdade.\n\n2 - Para efeitos da presente lei, o disposto no número anterior depende unicamente de ordem da autoridade judiciária titular da direcção do processo, em despacho fundamentado.\n\n3 - O despacho previsto no número anterior identifica as pessoas abrangidas pela medida e especifica as informações que devem ser prestadas e os documentos que devem ser entregues, podendo assumir forma genérica para cada um dos sujeitos abrangidos quando a especificação não seja possível.\n\n4 - Se não for conhecida a pessoa ou pessoas titulares das contas ou intervenientes nas transacções é suficiente a identificação das contas e transacções relativamente às quais devem ser obtidas informações.\n\n5 - Quando se trate de informações relativas a arguido no processo ou a pessoa colectiva, o despacho previsto no n.º 2 assume sempre forma genérica, abrangendo:\n\na) Informações fiscais;\n\nb) Informações relativas a contas bancárias e respectivos movimentos de que o arguido ou pessoa colectiva seja titular ou co-titular, ou em relação às quais disponha de poderes para efectuar movimentos;\n\nc) Informações relativas a transacções bancárias e financeiras em que o arguido ou a pessoa colectiva sejam intervenientes;\n\nd) Identificação dos outros intervenientes nas operações referidas nas alíneas b) e c);\n\ne) Documentos de suporte das informações referidas nos números anteriores.\n\n6 - Para cumprimento do disposto nos números anteriores, as autoridades judiciárias e os órgãos de polícia criminal com competência para a investigação têm acesso às bases de dados da administração fiscal."
+  },
+  "67572502": {
+   "fragment_id": "67572414",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento relativo a instituições de crédito ou sociedades financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento relativo a instituições de crédito ou sociedades financeiras\n\n1 - Após o despacho previsto no artigo anterior, a autoridade judiciária ou, por sua delegação, o órgão de polícia criminal com competência para a investigação, solicitam às instituições de crédito ou sociedades financeiras as informações e os documentos de suporte, ou sua cópia, que sejam relevantes.\n\n2 - As instituições de crédito e as sociedades financeiras são obrigadas a fornecer os elementos solicitados, no prazo de:\n\na) 5 dias, quanto a informações disponíveis em suporte informático;\n\nb) 30 dias, quanto aos respectivos documentos de suporte e a informações não disponíveis em suporte informático, prazo que é reduzido a metade caso existam arguidos detidos ou presos.\n\n3 - Se o pedido não for cumprido dentro do prazo, ou houver fundadas suspeitas de que tenham sido ocultados documentos ou informações, a autoridade judiciária titular da direcção do processo procede à apreensão dos documentos, mediante autorização, na fase de inquérito, do juiz de instrução.\n\n4 - Os documentos que não interessem ao processo são devolvidos à entidade que os forneceu ou destruídos, quando não se trate de originais, lavrando-se o respectivo auto.\n\n5 - Se as instituições referidas no n.º 1 não forem conhecidas, a autoridade judiciária titular da direcção do processo solicita ao Banco de Portugal a difusão do pedido de informações.\n\n6 - As instituições de crédito ou sociedades financeiras indicam à Procuradoria-Geral da República uma entidade central responsável pela resposta aos pedidos de informação e de documentos."
+  },
+  "67572503": {
+   "fragment_id": "67572415",
+   "type": 11,
+   "heading": "Artigo 4.º — Controlo de contas bancárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Controlo de contas bancárias\n\n1 - O controlo de conta bancária obriga a respectiva instituição de crédito a comunicar quaisquer movimentos sobre a conta à autoridade judiciária ou órgão de polícia criminal dentro das vinte e quatro horas subsequentes.\n\n2 - O controlo de conta bancária é autorizado ou ordenado, consoante os casos, por despacho do juiz, quando tiver grande interesse para a descoberta da verdade.\n\n3 - O despacho referido no número anterior identifica a conta ou contas abrangidas pela medida, o período da sua duração e a autoridade judiciária ou órgão de polícia criminal responsável pelo controlo.\n\n4 - O despacho previsto no n.º 2 pode ainda incluir a obrigação de suspensão de movimentos nele especificados, quando tal seja necessário para previr a prática de crime de branqueamento de capitais.\n\n5 - A suspensão cessa se não for confirmada por autoridade judiciária, no prazo de quarenta e oito horas."
+  },
+  "67572504": {
+   "fragment_id": "67572416",
+   "type": 11,
+   "heading": "Artigo 5.º — Obrigação de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigação de sigilo\n\nAs pessoas referidas no n.º 1 do artigo 2.º ficam vinculadas pelo segredo de justiça quanto aos actos previstos nos artigos 2.º a 4.º de que tomem conhecimento, não podendo, nomeadamente, divulgá-los às pessoas cujas contas são controladas ou sobre as quais foram pedidas informações ou documentos."
+  },
+  "67572505": {
+   "fragment_id": "67572417",
+   "type": 1,
+   "heading": "Capítulo III — Outros meios de produção de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Outros meios de produção de prova"
+  },
+  "67572506": {
+   "fragment_id": "67572418",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo de voz e de imagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo de voz e de imagem\n\n1 - É admissível, quando necessário para a investigação de crimes referidos no artigo 1.º, o registo de voz e de imagem, por qualquer meio, sem consentimento do visado.\n\n2 - A produção destes registos depende de prévia autorização ou ordem do juiz, consoante os casos.\n\n3 - São aplicáveis aos registos obtidos, com as necessárias adaptações, as formalidades previstas no artigo 188.º do Código de Processo Penal."
+  },
+  "67572507": {
+   "fragment_id": "67572419",
+   "type": 1,
+   "heading": "Capítulo IV — Perda de bens a favor do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Perda de bens a favor do Estado"
+  },
+  "67572508": {
+   "fragment_id": "67572420",
+   "type": 11,
+   "heading": "Artigo 7.º — Perda de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Perda de bens\n\n1 - Em caso de condenação pela prática de crime referido no artigo 1.º, e para efeitos de perda de bens a favor do Estado, presume-se constituir vantagem da actividade criminosa a diferença entre o valor do património do arguido e aquele que seja congruente com o seu rendimento lícito.\n\n2 - Para efeitos desta lei, entende-se por património do arguido o conjunto dos bens:\n\na) Que estejam na titularidade do arguido, ou em relação aos quais ele tenha o domínio e o benefício, à data da constituição como arguido ou posteriormente;\n\nb) Transferidos para terceiros a título gratuito ou mediante contraprestação irrisória, nos cinco anos anteriores à constituição como arguido;\n\nc) Recebidos pelo arguido nos cinco anos anteriores à constituição como arguido, ainda que não se consiga determinar o seu destino.\n\n3 - Consideram-se sempre como vantagens de actividade criminosa os juros, lucros e outros benefícios obtidos com bens que estejam nas condições previstas no artigo 111.º do Código Penal."
+  },
+  "67572509": {
+   "fragment_id": "67572421",
+   "type": 11,
+   "heading": "Artigo 8.º — Promoção da perda de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Promoção da perda de bens\n\n1 - O Ministério Público liquida, na acusação, o montante apurado como devendo ser perdido a favor do Estado.\n\n2 - Se não for possível a liquidação no momento da acusação, ela pode ainda ser efectuada até ao 30.º dia anterior à data designada para a realização da primeira audiência de discussão e julgamento, sendo deduzida nos próprios autos.\n\n3 - Efectuada a liquidação, pode esta ser alterada dentro do prazo previsto no número anterior se houver conhecimento superveniente da inexactidão do valor antes determinado.\n\n4 - Recebida a liquidação, ou a respectiva alteração, no tribunal, é imediatamente notificada ao arguido e ao seu defensor."
+  },
+  "67572510": {
+   "fragment_id": "67572422",
+   "type": 11,
+   "heading": "Artigo 9.º — Prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prova\n\n1 - Sem prejuízo da consideração pelo tribunal, nos termos gerais, de toda a prova produzida no processo, pode o arguido provar a origem lícita dos bens referidos no n.º 2 do artigo 7.º\n\n2 - Para os efeitos do número anterior é admissível qualquer meio de prova válido em processo penal.\n\n3 - A presunção estabelecida no n.º 1 do artigo 7.º é ilidida se se provar que os bens:\n\na) Resultam de rendimentos de actividade lícita;\n\nb) Estavam na titularidade do arguido há pelo menos cinco anos no momento da constituição como arguido;\n\nc) Foram adquiridos pelo arguido com rendimentos obtidos no período referido na alínea anterior.\n\n4 - Se a liquidação do valor a perder em favor do Estado for deduzida na acusação, a defesa deve ser apresentada na contestação. Se a liquidação for posterior à acusação, o prazo para defesa é de 20 dias contados da notificação da liquidação.\n\n5 - A prova referida nos n.os 1 a 3 é oferecida em conjunto com a defesa."
+  },
+  "67572511": {
+   "fragment_id": "67572423",
+   "type": 11,
+   "heading": "Artigo 10.º — Arresto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Arresto\n\n1 - Para garantia do pagamento do valor determinado nos termos do n.º 1 do artigo 7.º, é decretado o arresto de bens do arguido.\n\n2 - A todo o tempo, o Ministério Público requer o arresto de bens do arguido no valor correspondente ao apurado como constituindo vantagem de actividade criminosa.\n\n3 - O arresto é decretado pelo juiz, independentemente da verificação dos pressupostos referidos no n.º 1 do artigo 227.º do Código de Processo Penal, se existirem fortes indícios da prática do crime.\n\n4 - Em tudo o que não contrariar o disposto na presente lei é aplicável ao arresto o regime do arresto preventivo previsto no Código de Processo Penal."
+  },
+  "67572512": {
+   "fragment_id": "67572424",
+   "type": 11,
+   "heading": "Artigo 11.º — Modificação e extinção do arresto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Modificação e extinção do arresto\n\n1 - O arresto cessa se for prestada caução económica pelo valor referido no n.º 1 do artigo anterior.\n\n2 - Se, em qualquer momento do processo, for apurado que o valor susceptível de perda é menor ou maior do que o inicialmente apurado, o Ministério Público requer, respectivamente, a redução do arresto ou a sua ampliação.\n\n3 - O arresto ou a caução económica extinguem-se com a decisão final absolutória."
+  },
+  "67572513": {
+   "fragment_id": "67572425",
+   "type": 11,
+   "heading": "Artigo 12.º — Declaração de perda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Declaração de perda\n\n1 - Na sentença condenatória, o tribunal declara o valor que deve ser perdido a favor do Estado, nos termos do artigo 7.º\n\n2 - Se este valor for inferior ao dos bens arrestados ou à caução prestada, são um ou outro reduzidos até esse montante.\n\n3 - Se não tiver sido prestada caução económica, o arguido pode pagar voluntariamente o montante referido no número anterior nos 10 dias subsequentes ao trânsito em julgado da sentença, extinguindo-se o arresto com esse pagamento.\n\n4 - Não se verificando o pagamento, são perdidos a favor do Estado os bens arrestados."
+  },
+  "67572514": {
+   "fragment_id": "67572426",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime sancionatório"
+  },
+  "67572515": {
+   "fragment_id": "67572427",
+   "type": 11,
+   "heading": "Artigo 13.º — Falsidade de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Falsidade de informações\n\n1 - Quem, sendo membro dos órgãos sociais das instituições de crédito e sociedades financeiras, o seu empregado ou a elas prestando serviço, ou funcionário da administração fiscal, fornecer informações ou entregar documentos falsos ou deturpados no âmbito de procedimento ordenado nos termos do capítulo II é punido com pena de prisão de 6 meses a 3 anos ou multa não inferior a 60 dias.\n\n2 - Na mesma pena incorre quem, sem justa causa, se recusar a prestar informações ou a entregar documentos ou obstruir a sua apreensão."
+  },
+  "67572516": {
+   "fragment_id": "67572428",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima de (euro) 750 a (euro) 750000, o incumprimento das obrigações previstas no capítulo II por parte das instituições de crédito ou sociedades financeiras.\n\n2 - Caso o incumprimento seja reiterado, os limites máximo e mínimo da coima são elevados para o dobro.\n\n3 - Em caso de negligência, o montante máximo da coima é reduzido a metade.\n\n4 - A instrução dos processos de contra-ordenações previstas nos números anteriores é da competência, relativamente a cada entidade, da autoridade encarregue da supervisão do respectivo sector.\n\n5 - Compete ao Ministro das Finanças a aplicação das sanções previstas nos n.os 1 a 3."
+  },
+  "67572517": {
+   "fragment_id": "67572429",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "67572518": {
+   "fragment_id": "67572430",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 5.º da Lei n.º 36/94, de 29 de Setembro, na redacção que lhe foi dada pela Lei n.º 90/99, de 10 de Julho;\n\nb) O artigo 19.º do Decreto-Lei n.º 325/95, de 2 de Dezembro."
+  },
+  "67572519": {
+   "fragment_id": "67572431",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "67572528": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2008-04-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Terrorismo e organização terrorista;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Corrupção activa e passiva;\n\nf) Peculato;\n\ng) Participação económica em negócio;\n\nh) Branqueamento de capitais;\n\ni) Associação criminosa;\n\nj) Contrabando;\n\nl) Tráfico e viciação de veículos furtados;\n\nm) Lenocínio e lenocínio e tráfico de menores;\n\nn) Contrafacção de moeda e de títulos equiparados a moeda.\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas j) a n) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572524": {
+   "fragment_id": "67572413",
+   "type": 11,
+   "heading": "Artigo 2.º — Quebra de segredo",
+   "in_force_from": "2002-01-10",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 2.º — Quebra de segredo\n\n1 - Nas fases de inquérito, instrução e julgamento de processos relativos aos crimes previstos no artigo 1.º o segredo profissional dos membros dos órgãos sociais das instituições de crédito e sociedades financeiras, dos seus empregados e de pessoas que a elas prestem serviço, bem como o segredo dos funcionários da administração fiscal, cedem, se houver razões para crer que as respectivas informações têm interesse para a descoberta da verdade.\n\n2 - Para efeitos da presente lei, o disposto no número anterior depende unicamente de ordem da autoridade judiciária titular da direcção do processo, em despacho fundamentado.\n\n3 - O despacho previsto no número anterior identifica as pessoas abrangidas pela medida e especifica as informações que devem ser prestadas e os documentos que devem ser entregues, podendo assumir forma genérica para cada um dos sujeitos abrangidos quando a especificação não seja possível.\n\n4 - Se não for conhecida a pessoa ou pessoas titulares das contas ou intervenientes nas transacções é suficiente a identificação das contas e transacções relativamente às quais devem ser obtidas informações.\n\n5 - Quando se trate de informações relativas a arguido no processo ou a pessoa colectiva, o despacho previsto no n.º 2 assume sempre forma genérica, abrangendo:\n\na) Informações fiscais;\n\nb) Informações relativas a contas bancárias e respectivos movimentos de que o arguido ou a pessoa colectiva seja titular ou co-titular, ou em relação às quais disponha de poderes para efectuar movimentos;\n\nc) Informações relativas a transacções bancárias e financeiras em que o arguido ou a pessoa colectiva sejam intervenientes;\n\nd) Identificação dos outros intervenientes nas operações referidas nas alíneas b) e c);\n\ne) Documentos de suporte das informações referidas nos números anteriores.\n\n6 - Para cumprimento do disposto nos números anteriores, as autoridades judiciárias e os órgãos de polícia criminal com competência para a investigação têm acesso às bases de dados da administração fiscal.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572525": {
+   "fragment_id": "67572415",
+   "type": 11,
+   "heading": "Artigo 4.º — Controlo de contas bancárias",
+   "in_force_from": "2002-01-10",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 4.º — Controlo de contas bancárias\n\n1 - O controlo de conta bancária obriga a respectiva instituição de crédito a comunicar quaisquer movimentos sobre a conta à autoridade judiciária ou órgão de polícia criminal dentro das vinte e quatro horas subsequentes.\n\n2 - O controlo de conta bancária é autorizado ou ordenado, consoante os casos, por despacho do juiz, quando tiver grande interesse para a descoberta da verdade.\n\n3 - O despacho referido no número anterior identifica a conta ou contas abrangidas pela medida, o período da sua duração e a autoridade judiciária ou órgão de polícia criminal responsável pelo controlo.\n\n4 - O despacho previsto no n.º 2 pode ainda incluir a obrigação de suspensão de movimentos nele especificados, quando tal seja necessário para prevenir a prática de crime de branqueamento de capitais.\n\n5 - A suspensão cessa se não for confirmada por autoridade judiciária, no prazo de quarenta e oito horas.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572526": {
+   "fragment_id": "67572420",
+   "type": 11,
+   "heading": "Artigo 7.º — Perda de bens",
+   "in_force_from": "2002-01-10",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 7.º — Perda de bens\n\n1 - Em caso de condenação pela prática de crime referido no artigo 1.º, e para efeitos de perda de bens a favor do Estado, presume-se constituir vantagem de actividade criminosa a diferença entre o valor do património do arguido e aquele que seja congruente com o seu rendimento lícito.\n\n2 - Para efeitos desta lei, entende-se por património do arguido o conjunto dos bens:\n\na) Que estejam na titularidade do arguido, ou em relação aos quais ele tenha o domínio e o benefício, à data da constituição como arguido ou posteriormente;\n\nb) Transferidos para terceiros a título gratuito ou mediante contraprestação irrisória, nos cinco anos anteriores à constituição como arguido;\n\nc) Recebidos pelo arguido nos cinco anos anteriores à constituição como arguido, ainda que não se consiga determinar o seu destino.\n\n3 - Consideram-se sempre como vantagens de actividade criminosa os juros, lucros e outros benefícios obtidos com bens que estejam nas condições previstas no artigo 111.º do Código Penal.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572527": {
+   "fragment_id": "67572427",
+   "type": 11,
+   "heading": "Artigo 13.º — Falsidade de informações",
+   "in_force_from": "2002-01-10",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 13.º — Falsidade de informações\n\n1 - Quem, sendo membro dos órgãos sociais das instituições de crédito e sociedades financeiras, seu empregado ou a elas prestando serviço, ou funcionário da administração fiscal, fornecer informações ou entregar documentos falsos ou deturpados no âmbito de procedimento ordenado nos termos do capítulo II é punido com pena de prisão de 6 meses a 3 anos ou multa não inferior a 60 dias.\n\n2 - Na mesma pena incorre quem, sem justa causa, se recusar a prestar informações ou a entregar documentos ou obstruir a sua apreensão.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572520": {
+   "fragment_id": "67572432",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 31 de Outubro de 2001.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 19 de Dezembro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 27 de Dezembro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "67572529": {
+   "fragment_id": "67572413",
+   "type": 11,
+   "heading": "Artigo 2.º — Quebra de segredo",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 2.º — Quebra de segredo\n\n1 - Nas fases de inquérito, instrução e julgamento de processos relativos aos crimes previstos no artigo 1.º, o segredo profissional dos membros dos órgãos sociais das instituições de crédito, sociedades financeiras e instituições de pagamento, dos seus empregados e de pessoas que a elas prestem serviço, bem como o segredo dos funcionários da administração fiscal, cedem, se houver razões para crer que as respectivas informações têm interesse para a descoberta da verdade.\n\n2 - Para efeitos da presente lei, o disposto no número anterior depende unicamente de ordem da autoridade judiciária titular da direcção do processo, em despacho fundamentado.\n\n3 - O despacho previsto no número anterior identifica as pessoas abrangidas pela medida e especifica as informações que devem ser prestadas e os documentos que devem ser entregues, podendo assumir forma genérica para cada um dos sujeitos abrangidos quando a especificação não seja possível.\n\n4 - Se não for conhecida a pessoa ou pessoas titulares das contas ou intervenientes nas transacções é suficiente a identificação das contas e transacções relativamente às quais devem ser obtidas informações.\n\n5 - Quando se trate de informações relativas a arguido no processo ou a pessoa colectiva, o despacho previsto no n.º 2 assume sempre forma genérica, abrangendo:\n\na) Informações fiscais;\n\nb) Informações relativas a contas bancárias ou a contas de pagamento e respectivos movimentos, de que o arguido ou pessoa colectiva sejam titulares ou co-titulares, ou em relação às quais disponham de poderes para efectuar movimentos;\n\nc) Informações relativas a transacções bancárias e financeiras ou a operações de pagamento em que o arguido ou a pessoa colectiva sejam intervenientes;\n\nd) Identificação dos outros intervenientes nas operações referidas nas alíneas b) e c);\n\ne) Documentos de suporte das informações referidas nos números anteriores.\n\n6 - Para cumprimento do disposto nos números anteriores, as autoridades judiciárias e os órgãos de polícia criminal com competência para a investigação têm acesso às bases de dados da administração fiscal.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572530": {
+   "fragment_id": "67572414",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento relativo a instituições de crédito, sociedades financeiras e instituições de pagamento",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento relativo a instituições de crédito, sociedades financeiras e instituições de pagamento\n\n1 - Após o despacho previsto no artigo anterior, a autoridade judiciária ou, por sua delegação, o órgão de polícia criminal com competência para a investigação, solicitam às instituições de crédito, às sociedades financeiras ou às instituições de pagamento as informações e os documentos de suporte, ou sua cópia, que sejam relevantes.\n\n2 - As instituições de crédito, as sociedades financeiras e as instituições de pagamento são obrigadas a fornecer os elementos solicitados, no prazo de:\n\na) 5 dias, quanto a informações disponíveis em suporte informático;\n\nb) 30 dias, quanto aos respectivos documentos de suporte e a informações não disponíveis em suporte informático, prazo que é reduzido a metade caso existam arguidos detidos ou presos.\n\n3 - Se o pedido não for cumprido dentro do prazo, ou houver fundadas suspeitas de que tenham sido ocultados documentos ou informações, a autoridade judiciária titular da direcção do processo procede à apreensão dos documentos, mediante autorização, na fase de inquérito, do juiz de instrução.\n\n4 - Os documentos que não interessem ao processo são devolvidos à entidade que os forneceu ou destruídos, quando não se trate de originais, lavrando-se o respectivo auto.\n\n5 - Se as instituições referidas no n.º 1 não forem conhecidas, a autoridade judiciária titular da direcção do processo solicita ao Banco de Portugal a difusão do pedido de informações.\n\n6 - As instituições de crédito, sociedades financeiras ou instituições de pagamento indicam à Procuradoria-Geral da República uma entidade central responsável pela resposta aos pedidos de informação e de documentos.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "67572531": {
+   "fragment_id": "67572415",
+   "type": 11,
+   "heading": "Artigo 4.º — Controlo de contas bancárias e de contas de pagamento",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 4.º — Controlo de contas bancárias e de contas de pagamento\n\n1 - O controlo de conta bancária ou de conta de pagamento obriga a respectiva instituição de crédito ou instituição de pagamento a comunicar quaisquer movimentos sobre a conta à autoridade judiciária ou ao órgão de polícia criminal dentro das vinte e quatro horas subsequentes.\n\n2 - O controlo de conta bancária ou de conta de pagamento é autorizado ou ordenado, consoante os casos, por despacho do juiz, quando tiver grande interesse para a descoberta da verdade.\n\n3 - O despacho referido no número anterior identifica a conta ou contas abrangidas pela medida, o período da sua duração e a autoridade judiciária ou órgão de polícia criminal responsável pelo controlo.\n\n4 - O despacho previsto no n.º 2 pode ainda incluir a obrigação de suspensão de movimentos nele especificados, quando tal seja necessário para prevenir a prática de crime de branqueamento de capitais.\n\n5 - A suspensão cessa se não for confirmada por autoridade judiciária, no prazo de quarenta e oito horas.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572532": {
+   "fragment_id": "67572427",
+   "type": 11,
+   "heading": "Artigo 13.º — Falsidade de informações",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 13.º — Falsidade de informações\n\n1 - Quem, sendo membro dos órgãos sociais de instituição de crédito, sociedade financeira ou instituição de pagamento, o seu empregado, ou a elas prestando serviço, ou funcionário da administração fiscal, fornecer informações ou entregar documentos falsos ou deturpados no âmbito de procedimento ordenado nos termos do capítulo ii é punido com pena de prisão de 6 meses a 3 anos ou multa não inferior a 60 dias.\n\n2 - Na mesma pena incorre quem, sem justa causa, se recusar a prestar informações ou a entregar documentos ou obstruir a sua apreensão.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572533": {
+   "fragment_id": "67572428",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima de (euro) 750 a (euro) 750 000, o incumprimento das obrigações previstas no capítulo ii, por parte das instituições de crédito, sociedades financeiras ou instituições de pagamento.\n\n2 - Caso o incumprimento seja reiterado, os limites máximo e mínimo da coima são elevados para o dobro.\n\n3 - Em caso de negligência, o montante máximo da coima é reduzido a metade.\n\n4 - A instrução dos processos de contra-ordenações previstas nos números anteriores é da competência, relativamente a cada entidade, da autoridade encarregue da supervisão do respectivo sector.\n\n5 - Compete ao Ministro das Finanças a aplicação das sanções previstas nos n.os 1 a 3.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "67572534": {
+   "fragment_id": "67572413",
+   "type": 11,
+   "heading": "Artigo 2.º — Quebra de segredo",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 2.º — Quebra de segredo\n\n1 - Nas fases de inquérito, instrução e julgamento de processos relativos aos crimes previstos no artigo 1.º, o segredo profissional dos membros dos órgãos sociais das instituições de crédito, sociedades financeiras, instituições de pagamento e instituições de moeda eletrónica, dos seus empregados e de pessoas que a elas prestem serviço, bem como o segredo dos funcionários da administração fiscal, cedem, se houver razões para crer que as respetivas informações têm interesse para a descoberta da verdade.\n\n2 - Para efeitos da presente lei, o disposto no número anterior depende unicamente de ordem da autoridade judiciária titular da direcção do processo, em despacho fundamentado.\n\n3 - O despacho previsto no número anterior identifica as pessoas abrangidas pela medida e especifica as informações que devem ser prestadas e os documentos que devem ser entregues, podendo assumir forma genérica para cada um dos sujeitos abrangidos quando a especificação não seja possível.\n\n4 - Se não for conhecida a pessoa ou pessoas titulares das contas ou intervenientes nas transacções é suficiente a identificação das contas e transacções relativamente às quais devem ser obtidas informações.\n\n5 - Quando se trate de informações relativas a arguido no processo ou a pessoa colectiva, o despacho previsto no n.º 2 assume sempre forma genérica, abrangendo:\n\na) Informações fiscais;\n\nb) Informações relativas a contas bancárias ou a contas de pagamento e respectivos movimentos, de que o arguido ou pessoa colectiva sejam titulares ou co-titulares, ou em relação às quais disponham de poderes para efectuar movimentos;\n\nc) Informações relativas a transações bancárias e financeiras, incluindo operações de pagamento e de emissão, distribuição e reembolso de moeda eletrónica, em que o arguido ou a pessoa coletiva sejam intervenientes;\n\nd) Identificação dos outros intervenientes nas operações referidas nas alíneas b) e c);\n\ne) Documentos de suporte das informações referidas nos números anteriores.\n\n6 - Para cumprimento do disposto nos números anteriores, as autoridades judiciárias e os órgãos de polícia criminal com competência para a investigação têm acesso às bases de dados da administração fiscal.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572535": {
+   "fragment_id": "67572414",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento relativo a instituições de crédito, sociedades financeiras, instituições de pagamento e instituições de moeda eletrónica",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento relativo a instituições de crédito, sociedades financeiras, instituições de pagamento e instituições de moeda eletrónica\n\n1 - Após o despacho previsto no artigo anterior, a autoridade judiciária ou, por sua delegação, o órgão de polícia criminal com competência para a investigação, solicitam às instituições de crédito, às sociedades financeiras, às instituições de pagamento ou às instituições de moeda eletrónica as informações e os documentos de suporte, ou sua cópia, que sejam relevantes.\n\n2 - As instituições de crédito, as sociedades financeiras, as instituições de pagamento e as instituições de moeda eletrónica são obrigadas a fornecer os elementos solicitados, no prazo de:\n\na) 5 dias, quanto a informações disponíveis em suporte informático;\n\nb) 30 dias, quanto aos respectivos documentos de suporte e a informações não disponíveis em suporte informático, prazo que é reduzido a metade caso existam arguidos detidos ou presos.\n\n3 - Se o pedido não for cumprido dentro do prazo, ou houver fundadas suspeitas de que tenham sido ocultados documentos ou informações, a autoridade judiciária titular da direcção do processo procede à apreensão dos documentos, mediante autorização, na fase de inquérito, do juiz de instrução.\n\n4 - Os documentos que não interessem ao processo são devolvidos à entidade que os forneceu ou destruídos, quando não se trate de originais, lavrando-se o respectivo auto.\n\n5 - Se as instituições referidas no n.º 1 não forem conhecidas, a autoridade judiciária titular da direcção do processo solicita ao Banco de Portugal a difusão do pedido de informações.\n\n6 - As instituições de crédito, sociedades financeiras, instituições de pagamento ou instituições de moeda eletrónica indicam à Procuradoria-Geral da República uma entidade central responsável pela resposta aos pedidos de informação e de documentos.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "67572536": {
+   "fragment_id": "67572415",
+   "type": 11,
+   "heading": "Artigo 4.º — Controlo de contas bancárias e de contas de pagamento",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 4.º — Controlo de contas bancárias e de contas de pagamento\n\n1 - O controlo de conta bancária ou de conta de pagamento obriga a respetiva instituição de crédito, instituição de pagamento ou instituição de moeda eletrónica a comunicar quaisquer movimentos sobre a conta à autoridade judiciária ou ao órgão de polícia criminal dentro das vinte e quatro horas subsequentes.\n\n2 - O controlo de conta bancária ou de conta de pagamento é autorizado ou ordenado, consoante os casos, por despacho do juiz, quando tiver grande interesse para a descoberta da verdade.\n\n3 - O despacho referido no número anterior identifica a conta ou contas abrangidas pela medida, o período da sua duração e a autoridade judiciária ou órgão de polícia criminal responsável pelo controlo.\n\n4 - O despacho previsto no n.º 2 pode ainda incluir a obrigação de suspensão de movimentos nele especificados, quando tal seja necessário para prevenir a prática de crime de branqueamento de capitais.\n\n5 - A suspensão cessa se não for confirmada por autoridade judiciária, no prazo de quarenta e oito horas.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572537": {
+   "fragment_id": "67572427",
+   "type": 11,
+   "heading": "Artigo 13.º — Falsidade de informações",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 13.º — Falsidade de informações\n\n1 - Quem, sendo membro dos órgãos sociais de instituição de crédito, sociedade financeira, instituição de pagamento ou instituição de moeda eletrónica, ou seu empregado, ou a elas prestando serviço, ou funcionário da administração fiscal, fornecer informações ou entregar documentos falsos ou deturpados no âmbito de procedimento ordenado nos termos do capítulo ii é punido com pena de prisão de 6 meses a 3 anos ou multa não inferior a 60 dias.\n\n2 - Na mesma pena incorre quem, sem justa causa, se recusar a prestar informações ou a entregar documentos ou obstruir a sua apreensão.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572538": {
+   "fragment_id": "67572428",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contraordenação, punível com coima de (euro) 750 a (euro) 750 000, o incumprimento das obrigações previstas no capítulo ii, por parte das instituições de crédito, sociedades financeiras, instituições de pagamento ou instituições de moeda eletrónica.\n\n2 - Caso o incumprimento seja reiterado, os limites máximo e mínimo da coima são elevados para o dobro.\n\n3 - Em caso de negligência, o montante máximo da coima é reduzido a metade.\n\n4 - A instrução dos processos de contra-ordenações previstas nos números anteriores é da competência, relativamente a cada entidade, da autoridade encarregue da supervisão do respectivo sector.\n\n5 - Compete ao Ministro das Finanças a aplicação das sanções previstas nos n.os 1 a 3.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "67572539": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2013-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Terrorismo e organização terrorista;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Corrupção activa e passiva;\n\nf) Peculato;\n\ng) Participação económica em negócio;\n\nh) Branqueamento de capitais;\n\ni) Associação criminosa;\n\nj) Contrabando;\n\nl) Tráfico e viciação de veículos furtados;\n\nm) Lenocínio e lenocínio de menores;\n\nn) Tráfico de pessoas;\n\no) Contrafacção de moeda e de títulos equiparados a moeda.\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas j) a o) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "67572545": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2015-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Terrorismo, organizações terroristas, terrorismo internacional e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Corrupção activa e passiva;\n\nf) Peculato;\n\ng) Participação económica em negócio;\n\nh) Branqueamento de capitais;\n\ni) Associação criminosa;\n\nj) Contrabando;\n\nl) Tráfico e viciação de veículos furtados;\n\nm) Lenocínio e lenocínio de menores;\n\nn) Tráfico de pessoas;\n\no) Contrafacção de moeda e de títulos equiparados a moeda.\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas j) a o) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "107797755": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Terrorismo, organizações terroristas, terrorismo internacional e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Recebimento indevido de vantagem;\n\nf) Corrupção ativa e passiva, incluindo a praticada nos setores público e privado e no comércio internacional, bem como na atividade desportiva;\n\ng) Peculato;\n\nh) Participação económica em negócio;\n\ni) Branqueamento de capitais;\n\nj) Associação criminosa;\n\nl) Pornografia infantil e lenocínio de menores;\n\nm) Dano relativo a programas ou outros dados informáticos e a sabotagem informática, nos termos dos artigos 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos no n.º 4 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos ou integrar uma das condutas tipificadas no n.º 2 do mesmo artigo;\n\nn) Tráfico de pessoas;\n\no) Contrafacção de moeda e de títulos equiparados a moeda.\n\np) Lenocínio;\n\nq) Contrabando;\n\nr) Tráfico e viciação de veículos furtados;\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas p) a r) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n4 - O disposto na secção ii do capítulo iv é ainda aplicável aos crimes previstos na Lei n.º 109/2009, de 15 de setembro, quando não abrangidos pela alínea m) do n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "107797739": {
+   "fragment_id": "107797798",
+   "type": 8,
+   "heading": "Secção I — Perda alargada",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "#### Secção I — Perda alargada\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797757": {
+   "fragment_id": "67572420",
+   "type": 11,
+   "heading": "Artigo 7.º — Perda de bens",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 7.º — Perda de bens\n\n1 - Em caso de condenação pela prática de crime referido no artigo 1.º, e para efeitos de perda de bens a favor do Estado, presume-se constituir vantagem de actividade criminosa a diferença entre o valor do património do arguido e aquele que seja congruente com o seu rendimento lícito.\n\n2 - Para efeitos desta lei, entende-se por património do arguido o conjunto dos bens:\n\na) Que estejam na titularidade do arguido, ou em relação aos quais ele tenha o domínio e o benefício, à data da constituição como arguido ou posteriormente;\n\nb) Transferidos para terceiros a título gratuito ou mediante contraprestação irrisória, nos cinco anos anteriores à constituição como arguido;\n\nc) Recebidos pelo arguido nos cinco anos anteriores à constituição como arguido, ainda que não se consiga determinar o seu destino.\n\n3 - Consideram-se sempre como vantagens de actividade criminosa os juros, lucros e outros benefícios obtidos com bens que estejam nas condições previstas no artigo 111.º do Código Penal.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "107797759": {
+   "fragment_id": "67572421",
+   "type": 11,
+   "heading": "Artigo 8.º — Promoção da perda de bens",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+   ],
+   "markdown": "###### Artigo 8.º — Promoção da perda de bens\n\n1 - O Ministério Público liquida, na acusação, o montante apurado como devendo ser perdido a favor do Estado.\n\n2 - Se não for possível a liquidação no momento da acusação, ela pode ainda ser efectuada até ao 30.º dia anterior à data designada para a realização da primeira audiência de discussão e julgamento, sendo deduzida nos próprios autos.\n\n3 - Efectuada a liquidação, pode esta ser alterada dentro do prazo previsto no número anterior se houver conhecimento superveniente da inexactidão do valor antes determinado.\n\n4 - Recebida a liquidação, ou a respectiva alteração, no tribunal, é imediatamente notificada ao arguido e ao seu defensor.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+  },
+  "107797761": {
+   "fragment_id": "67572422",
+   "type": 11,
+   "heading": "Artigo 9.º — Prova",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+   ],
+   "markdown": "###### Artigo 9.º — Prova\n\n1 - Sem prejuízo da consideração pelo tribunal, nos termos gerais, de toda a prova produzida no processo, pode o arguido provar a origem lícita dos bens referidos no n.º 2 do artigo 7.º\n\n2 - Para os efeitos do número anterior é admissível qualquer meio de prova válido em processo penal.\n\n3 - A presunção estabelecida no n.º 1 do artigo 7.º é ilidida se se provar que os bens:\n\na) Resultam de rendimentos de actividade lícita;\n\nb) Estavam na titularidade do arguido há pelo menos cinco anos no momento da constituição como arguido;\n\nc) Foram adquiridos pelo arguido com rendimentos obtidos no período referido na alínea anterior.\n\n4 - Se a liquidação do valor a perder em favor do Estado for deduzida na acusação, a defesa deve ser apresentada na contestação. Se a liquidação for posterior à acusação, o prazo para defesa é de 20 dias contados da notificação da liquidação.\n\n5 - A prova referida nos n.os 1 a 3 é oferecida em conjunto com a defesa.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+  },
+  "107797763": {
+   "fragment_id": "67572423",
+   "type": 11,
+   "heading": "Artigo 10.º — Arresto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 10.º — Arresto\n\n1 - Para garantia do pagamento do valor determinado nos termos do n.º 1 do artigo 7.º, é decretado o arresto de bens do arguido.\n\n2 - A todo o tempo, logo que apurado o montante da incongruência, se necessário ainda antes da própria liquidação, quando se verifique cumulativamente a existência de fundado receio de diminuição de garantias patrimoniais e fortes indícios da prática do crime, o Ministério Público pode requerer o arresto de bens do arguido no valor correspondente ao apurado como constituindo vantagem de atividade criminosa.\n\n3 - O arresto é decretado pelo juiz, independentemente da verificação dos pressupostos referidos no n.º 1 do artigo 227.º do Código de Processo Penal, se existirem fortes indícios da prática do crime.\n\n4 - Em tudo o que não contrariar o disposto na presente lei é aplicável ao arresto o regime do arresto preventivo previsto no Código de Processo Penal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797765": {
+   "fragment_id": "67572424",
+   "type": 11,
+   "heading": "Artigo 11.º — Modificação e extinção do arresto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+   ],
+   "markdown": "###### Artigo 11.º — Modificação e extinção do arresto\n\n1 - O arresto cessa se for prestada caução económica pelo valor referido no n.º 1 do artigo anterior.\n\n2 - Se, em qualquer momento do processo, for apurado que o valor susceptível de perda é menor ou maior do que o inicialmente apurado, o Ministério Público requer, respectivamente, a redução do arresto ou a sua ampliação.\n\n3 - O arresto ou a caução económica extinguem-se com a decisão final absolutória.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+  },
+  "107797767": {
+   "fragment_id": "67572425",
+   "type": 11,
+   "heading": "Artigo 12.º — Declaração de perda",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º — Declaração de perda\n\n1 - Na sentença condenatória, o tribunal declara o valor que deve ser perdido a favor do Estado, nos termos do artigo 7.º\n\n2 - Se este valor for inferior ao dos bens arrestados ou à caução prestada, são um ou outro reduzidos até esse montante.\n\n3 - Se não tiver sido prestada caução económica ou esta não for suficiente, o arguido pode pagar voluntariamente o montante referido no número anterior, ou o valor remanescente, nos 10 dias subsequentes ao trânsito em julgado da sentença, extinguindo-se o arresto com esse pagamento.\n\n4 - Não se verificando o pagamento, são perdidos a favor do Estado os bens arrestados.\n\n5 - Não havendo bens arrestados ou não sendo suficiente o seu valor para liquidar esse montante, havendo outros bens disponíveis, o Ministério Público instaura execução.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797768": {
+   "fragment_id": "107797803",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Investigação financeira ou patrimonial",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º-A — Investigação financeira ou patrimonial\n\nPara identificação e rastreio do património incongruente nos termos do artigo 7.º, a investigação financeira ou patrimonial pode realizar-se depois de encerrado o inquérito nos casos previstos no n.º 2 do artigo 8.º e, para efeitos da execução instaurada nos termos do disposto no n.º 5 do artigo anterior, mesmo depois da condenação, com os limites previstos no artigo 112.º-A do Código Penal, aplicando-se os termos da execução por custas.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797746": {
+   "fragment_id": "107797799",
+   "type": 8,
+   "heading": "Secção II — Perda de instrumentos",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "#### Secção II — Perda de instrumentos\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797769": {
+   "fragment_id": "107797804",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Perda de instrumentos",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º-B — Perda de instrumentos\n\n1 - Os instrumentos de facto ilícito típico referido no artigo 1.º são declarados perdidos a favor do Estado ainda que não ponham em perigo a segurança das pessoas, a moral ou a ordem públicas, nem ofereçam sério risco de ser utilizados para o cometimento de novos factos ilícitos típicos.\n\n2 - Em tudo o que não contrariar o disposto no número anterior, é aplicável à perda dos instrumentos aí prevista o disposto no Código Penal ou em legislação especial.»\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "174870599": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Terrorismo, organizações terroristas, terrorismo internacional e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Recebimento indevido de vantagem;\n\nf) Corrupção ativa e passiva, incluindo a praticada nos setores público e privado e no comércio internacional, bem como na atividade desportiva;\n\ng) Peculato;\n\nh) Participação económica em negócio;\n\ni) Branqueamento de capitais;\n\nj) Associação criminosa;\n\nl) Pornografia infantil e lenocínio de menores;\n\nm) Dano relativo a programas ou outros dados informáticos e a sabotagem informática, nos termos dos artigos 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos no n.º 4 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos ou integrar uma das condutas tipificadas no n.º 2 do mesmo artigo;\n\nn) Tráfico de pessoas;\n\no) Contrafação, uso e aquisição de cartões ou outros dispositivos de pagamento contrafeitos e respetivos atos preparatórios, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos e sabotagem informática, nos termos dos artigos 3.º-A, 3.º-B, 3.º-C, 3.º-D, 3.º-E, 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos nas alíneas a) e b) do n.º 5 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos no n.º 2 do mesmo artigo, ou integrar uma das condutas aí tipificadas;\n\np) Lenocínio;\n\nq) Contrabando;\n\nr) Tráfico e viciação de veículos furtados;\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas p) a r) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n4 - O disposto na secção ii do capítulo iv é ainda aplicável aos crimes previstos na Lei n.º 109/2009, de 15 de setembro, quando não abrangidos pela alínea m) do n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "177026943": {
+   "fragment_id": "67572428",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": "2022-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), em vigor a partir de 2022-01-30",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contraordenação, punível com coima de (euro) 750 a (euro) 750 000, o incumprimento das obrigações previstas no capítulo ii, por parte das instituições de crédito, sociedades financeiras, instituições de pagamento ou instituições de moeda eletrónica.\n\n2 - Caso o incumprimento seja reiterado, os limites máximo e mínimo da coima são elevados para o dobro.\n\n3 - Em caso de negligência, o montante máximo da coima é reduzido a metade.\n\n4 - A instrução dos processos e a aplicação de sanções pelas contraordenações previstas nos números anteriores é da competência, relativamente a cada entidade, da autoridade encarregue da supervisão do respetivo setor.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), em vigor a partir de 2022-01-30\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "186759807": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2022-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Terrorismo, organizações terroristas, terrorismo internacional e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Recebimento indevido de vantagem;\n\nf) Corrupção ativa e passiva, incluindo a praticada nos setores público e privado e no comércio internacional, bem como na atividade desportiva;\n\ng) Peculato;\n\nh) Participação económica em negócio;\n\ni) Branqueamento de capitais;\n\nj) Associação criminosa;\n\nl) Pornografia infantil e lenocínio de menores;\n\nm) Contrafação, uso e aquisição de cartões ou outros dispositivos de pagamento contrafeitos e respetivos atos preparatórios, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos e sabotagem informática, nos termos dos artigos 3.º-A, 3.º-B, 3.º-C, 3.º-D, 3.º-E, 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos nas alíneas a) e b) do n.º 5 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos no n.º 2 do mesmo artigo, ou integrar uma das condutas aí tipificadas;\n\nn) Tráfico de pessoas;\n\no) Contrafação de moeda e de títulos equiparados a moeda;\n\np) Lenocínio;\n\nq) Contrabando;\n\nr) Tráfico e viciação de veículos furtados;\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas p) a r) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n4 - O disposto na secção ii do capítulo iv é ainda aplicável aos crimes previstos na Lei n.º 109/2009, de 15 de setembro, quando não abrangidos pela alínea m) do n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "206157465": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2023-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Recebimento indevido de vantagem;\n\nf) Corrupção ativa e passiva, incluindo a praticada nos setores público e privado e no comércio internacional, bem como na atividade desportiva;\n\ng) Peculato;\n\nh) Participação económica em negócio;\n\ni) Branqueamento de capitais;\n\nj) Associação criminosa;\n\nl) Pornografia infantil e lenocínio de menores;\n\nm) Contrafação, uso e aquisição de cartões ou outros dispositivos de pagamento contrafeitos e respetivos atos preparatórios, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos e sabotagem informática, nos termos dos artigos 3.º-A, 3.º-B, 3.º-C, 3.º-D, 3.º-E, 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos nas alíneas a) e b) do n.º 5 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos no n.º 2 do mesmo artigo, ou integrar uma das condutas aí tipificadas;\n\nn) Tráfico de pessoas;\n\no) Contrafação de moeda e de títulos equiparados a moeda;\n\np) Lenocínio;\n\nq) Contrabando;\n\nr) Tráfico e viciação de veículos furtados;\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas p) a r) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n4 - O disposto na secção ii do capítulo iv é ainda aplicável aos crimes previstos na Lei n.º 109/2009, de 15 de setembro, quando não abrangidos pela alínea m) do n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "838305280": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Recebimento ou oferta indevidos de vantagem;\n\nf) Corrupção ativa e passiva, incluindo a praticada nos setores público e privado e no comércio internacional, bem como na atividade desportiva;\n\ng) Peculato;\n\nh) Participação económica em negócio;\n\ni) Branqueamento de capitais;\n\nj) Associação criminosa;\n\nk) Coação desportiva, apostas desportivas fraudulentas e aposta antidesportiva;\n\nl) Pornografia infantil e lenocínio de menores;\n\nm) Contrafação, uso e aquisição de cartões ou outros dispositivos de pagamento contrafeitos e respetivos atos preparatórios, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos e sabotagem informática, nos termos dos artigos 3.º-A, 3.º-B, 3.º-C, 3.º-D, 3.º-E, 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos nas alíneas a) e b) do n.º 5 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos no n.º 2 do mesmo artigo, ou integrar uma das condutas aí tipificadas;\n\nn) Tráfico de pessoas;\n\no) Contrafação de moeda e de títulos equiparados a moeda;\n\np) Lenocínio;\n\nq) Contrabando;\n\nr) Tráfico e viciação de veículos furtados;\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas p) a r) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n4 - O disposto na secção ii do capítulo iv é ainda aplicável aos crimes previstos na Lei n.º 109/2009, de 15 de setembro, quando não abrangidos pela alínea m) do n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "992475634": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24",
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de bens a favor do Estado, relativa aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Recebimento ou oferta indevidos de vantagem;\n\nf) Corrupção ativa e passiva, incluindo a praticada nos setores público e privado e no comércio internacional, bem como na atividade desportiva;\n\ng) Peculato;\n\nh) Participação económica em negócio;\n\ni) Branqueamento de capitais;\n\nj) Associação criminosa;\n\nk) Coação desportiva, apostas desportivas fraudulentas e aposta antidesportiva;\n\nl) Pornografia infantil e lenocínio de menores;\n\nm) Contrafação, uso e aquisição de cartões ou outros dispositivos de pagamento contrafeitos e respetivos atos preparatórios, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos e sabotagem informática, nos termos dos artigos 3.º-A, 3.º-B, 3.º-C, 3.º-D, 3.º-E, 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos nas alíneas a) e b) do n.º 5 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos no n.º 2 do mesmo artigo, ou integrar uma das condutas aí tipificadas;\n\nn) Tráfico de pessoas;\n\no) Contrafação de moeda e de títulos equiparados a moeda;\n\np) Lenocínio;\n\nq) Contrabando;\n\nr) Tráfico e viciação de veículos furtados;\n\ns) Violação de medidas restritivas, previstas no artigo 28.º da Lei n.º 97/2017, de 23 de agosto.\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas p) a r) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n4 - O disposto na secção ii do capítulo iv é ainda aplicável aos crimes previstos na Lei n.º 109/2009, de 15 de setembro, quando não abrangidos pela alínea m) do n.º 1 do presente artigo.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "1153492475": {
+   "fragment_id": "67572411",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24",
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece um regime especial de recolha de prova, quebra do segredo profissional e perda de instrumentos e do valor incongruente a favor do Estado, relativo aos crimes de:\n\na) Tráfico de estupefacientes, nos termos dos artigos 21.º a 23.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) Infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;\n\nc) Tráfico de armas;\n\nd) Tráfico de influência;\n\ne) Recebimento ou oferta indevidos de vantagem;\n\nf) Corrupção ativa e passiva, incluindo a praticada nos setores público e privado e no comércio internacional, bem como na atividade desportiva;\n\ng) Peculato;\n\nh) Participação económica em negócio;\n\ni) Branqueamento de capitais;\n\nj) Associação criminosa;\n\nk) Coação desportiva, apostas desportivas fraudulentas e aposta antidesportiva;\n\nl) Pornografia infantil e lenocínio de menores;\n\nm) Contrafação, uso e aquisição de cartões ou outros dispositivos de pagamento contrafeitos e respetivos atos preparatórios, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos e sabotagem informática, nos termos dos artigos 3.º-A, 3.º-B, 3.º-C, 3.º-D, 3.º-E, 4.º e 5.º da Lei n.º 109/2009, de 15 de setembro, e ainda o acesso ilegítimo a sistema informático, se tiver produzido um dos resultados previstos nas alíneas a) e b) do n.º 5 do artigo 6.º daquela lei, for realizado com recurso a um dos instrumentos referidos no n.º 2 do mesmo artigo, ou integrar uma das condutas aí tipificadas;\n\nn) Tráfico de pessoas;\n\no) Contrafação de moeda e de títulos equiparados a moeda;\n\np) Lenocínio;\n\nq) Contrabando;\n\nr) Tráfico e viciação de veículos furtados;\n\ns) Violação de medidas restritivas, previstas no artigo 28.º da Lei n.º 97/2017, de 23 de agosto.\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas p) a r) do número anterior se o crime for praticado de forma organizada.\n\n3 - O disposto nos capítulos II e III é ainda aplicável aos demais crimes referidos no n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro.\n\n4 - O disposto na secção iii do capítulo iv é ainda aplicável aos crimes previstos na Lei n.º 109/2009, de 15 de setembro, quando não abrangidos pela alínea m) do n.º 1.\n\n5 - A presente lei estabelece ainda um regime especial de perda alargada de bens e de bens apreendidos, de valor consideravelmente elevado, associados a atividade criminosa, aplicável às infrações previstas:\n\na) Nos artigos 160.º, 171.º a 176.º-C, 221.º, 225.º, 262.º a 266.º, 279.º a 281.º, 299.º, 368.º-A, 369.º, 372.º a 374.º, 375.º e 377.º do Código Penal;\n\nb) Nos artigos 163.º a 170.º do Código Penal, quando a vítima seja menor;\n\nc) Nos artigos 36.º a 37.º-A do Decreto-Lei n.º 28/84, de 20 de janeiro, que altera o regime em vigor em matéria de infrações antieconómicas e contra a saúde pública, e nos artigos 87.º, 92.º, 103.º e 104.º da Lei n.º 15/2001, de 5 de junho, que reforça as garantias do contribuinte e a simplificação processual, reformula a organização judiciária tributária e estabelece um novo regime geral para as infrações tributárias, quando sejam lesivos dos interesses financeiros da União Europeia;\n\nd) Nos artigos 16.º a 18.º e 20.º da Lei n.º 34/87, de 16 de julho, que determina os crimes de responsabilidade dos titulares de cargos políticos;\n\ne) Nos artigos 3.º a 5.º-A da Lei n.º 52/2003, de 22 de agosto, que aprova a lei de combate ao terrorismo;\n\nf) Nos artigos 21.º, 22.º, 25.º e 28.º do Decreto-Lei n.º 15/93, de 22 de janeiro, que aprova o regime jurídico aplicável ao tráfico e consumo de estupefacientes e substâncias psicotrópicas;\n\ng) Nos artigos 3.º a 3.º-C, 3.º-E e 4.º a 8.º da Lei n.º 109/2009, de 15 de setembro, que aprova a Lei do Cibercrime;\n\nh) No artigo 87.º da Lei n.º 5/2006, de 23 de fevereiro, que aprova o novo regime jurídico das armas e suas munições;\n\ni) Nos artigos 183.º e 184.º da Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional;\n\nj) Nos artigos 378.º a 379.º-C e 379.º-E do Código dos Valores Mobiliários, aprovado em anexo ao Decreto-Lei n.º 486/99, de 13 de novembro;\n\nk) No artigo 28.º da Lei n.º 97/2017, de 23 de agosto, que regula a aplicação e a execução de medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia e estabelece o regime sancionatório aplicável à violação destas medidas;\n\nl) Nos artigos 7.º a 9.º da Lei n.º 20/2008, de 21 de abril, que cria o novo regime penal de corrupção no comércio internacional e no sector privado.\n\n6 - O disposto no capítulo iv da presente lei não prejudica os direitos do lesado, nos termos do n.º 6 do artigo 110.º do Código Penal, sendo aplicável, com as devidas adaptações, o disposto no artigo 130.º do mesmo Código.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/lei/13-2022-186869046), em vigor a partir de 2022-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/lei/55-2015-67541736), em vigor a partir de 2015-06-24\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "1153495975": {
+   "fragment_id": "107797798",
+   "type": 8,
+   "heading": "Secção I — Perda alargada de bens a favor do Estado e de bens apreendidos associados a atividade criminosa suscetível de gerar benefício económico substancial",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "#### Secção I — Perda alargada de bens a favor do Estado e de bens apreendidos associados a atividade criminosa suscetível de gerar benefício económico substancial\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1153501075": {
+   "fragment_id": "1153493275",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Perda alargada",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 6.º-A — Perda alargada\n\n1 - A requerimento do Ministério Público, é declarada a perda de bens detidos pelo agente que resultem comprovadamente de atividade criminosa em caso de condenação pela prática de crime previsto no n.º 5 do artigo 1.º, quando o crime:\n\na) Seja punível com pena de prisão igual ou superior a quatro anos e suscetível de gerar, direta ou indiretamente, um benefício económico; ou\n\nb) Seja cometido no âmbito de uma organização criminosa, punível com pena de prisão igual ou superior a quatro anos e suscetível de gerar, direta ou indiretamente, um benefício económico.\n\n2 - Para efeitos da alínea b) do número anterior, considera-se organização criminosa a associação estruturada de mais de duas pessoas, que se mantém ao longo do tempo e cujos membros atuam de forma concertada, tendo em vista a prática de crimes puníveis com pena de prisão igual ou superior a quatro anos, com o objetivo de obter, direta ou indiretamente, benefícios materiais.\n\n3 - Para determinar se os bens resultam de atividade criminosa são tidas em conta todas as circunstâncias de facto do caso.\n\n4 - São suscetíveis de revelar a proveniência criminosa dos bens, entre outras, as seguintes circunstâncias:\n\na) A desproporção substancial entre o valor dos bens em causa e os rendimentos lícitos do arguido;\n\nb) A inexistência de uma fonte lícita dos bens;\n\nc) A transferência dos bens por meio de operações que visem dificultar a sua localização ou destino, ou a identificação do respetivo titular, e a que não subjaza uma explicação jurídica ou económica válida;\n\nd) A forma como os bens foram detetados e apreendidos; ou\n\ne) A associação comprovada da pessoa afetada a membros de uma organização criminosa.\n\n5 - Para efeitos do disposto na alínea a) do número anterior, são considerados lícitos todos os rendimentos provenientes de atividades que não sejam tipificadas como crime, ainda que não tenham sido declarados para efeitos fiscais quando devessem sê-lo.\n\n6 - Para determinar se os bens resultam de atividade criminosa não são tomados em conta:\n\na) Factos relativos a procedimento criminal que se encontrasse prescrito à data da respetiva instauração;\n\nb) Factos pelos quais esteja pendente ou deva ser instaurado outro procedimento criminal;\n\nc) Factos que tenham sido objeto de sentença absolutória transitada em julgado.\n\n7 - A perda prevista no n.º 1 abrange apenas os bens que tiverem entrado na disponibilidade do agente nos cinco anos anteriores ou posteriores à prática do crime.\n\n8 - O disposto no n.º 1 não se aplica quando o agente detiver o bem por período igual ou superior a 20 anos à data da aquisição da posição processual de pessoa afetada.\n\n9 - A insubsistência dos requisitos previstos na alínea b) do n.º 1 não prejudica a aplicabilidade do disposto no artigo 7.º, quando se verifiquem os respetivos pressupostos.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+  },
+  "1153501175": {
+   "fragment_id": "1153493575",
+   "type": 11,
+   "heading": "Artigo 6.º-B — Perda de bens apreendidos associados a atividade criminosa",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 6.º-B — Perda de bens apreendidos associados a atividade criminosa\n\n1 - Tendo sido instaurado procedimento por crime referido no n.º 5 do artigo 1.º, punível com pena de prisão igual ou superior a quatro anos, e não podendo ter lugar a perda regulada nos artigos 110.º ou 112.º-B do Código Penal, ou nos artigos 6.º-A ou 7.º da presente lei, é declarada a perda dos bens apreendidos de valor consideravelmente elevado, nos termos do disposto na alínea b) do artigo 202.º do Código Penal, que resultem comprovadamente de atividade criminosa.\n\n2 - É correspondentemente aplicável o disposto nos n.os 3 a 6 e 8 do artigo 6.º-A.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+  },
+  "1153501275": {
+   "fragment_id": "1153493875",
+   "type": 11,
+   "heading": "Artigo 6.º-C — Processo autónomo em caso de perda de bens associados a atividade criminosa",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 6.º-C — Processo autónomo em caso de perda de bens associados a atividade criminosa\n\n1 - Se o processo cessar contra todos os arguidos na fase de inquérito ou de instrução, mas houver indícios de que os bens resultam de atividade criminosa nos termos do n.º 1 do artigo anterior, é correspondentemente aplicável o disposto no artigo 398.º-K do Código de Processo Penal.\n\n2 - É correspondentemente aplicável o disposto no artigo 398.º-L do Código de Processo Penal.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+  },
+  "1153500875": {
+   "fragment_id": "1153494175",
+   "type": 11,
+   "heading": "Artigo 6.º-D — Arresto",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 6.º-D — Arresto\n\n1 - Havendo indícios de que existem bens resultantes de atividade criminosa suscetíveis de ser declarados perdidos nos termos do artigo 6.º-A, é correspondentemente aplicável o disposto nos artigos 227.º e 228.º do Código de Processo Penal.\n\n2 - Com o requerimento de perda, o Ministério Público requer o arresto dos bens apreendidos se existirem fortes indícios de que estes são suscetíveis de ser declarados perdidos nos termos do artigo 6.º-B, sendo o arresto decretado pelo juiz independentemente da verificação dos pressupostos referidos no n.º 1 do artigo 227.º do Código de Processo Penal.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+  },
+  "1153499875": {
+   "fragment_id": "107797803",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Investigação financeira ou patrimonial",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º-A — Investigação financeira ou patrimonial\n\nPara identificação e rastreio do património incongruente nos termos do artigo 7.º, a investigação financeira ou patrimonial pode realizar-se depois de encerrado o inquérito nos casos previstos no n.º 2 do artigo 8.º e, para efeitos da execução instaurada nos termos do disposto no n.º 5 do artigo anterior, mesmo depois da condenação, com os limites previstos no artigo 112.º-A do Código Penal, aplicando-se os termos da execução por custas.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1153495775": {
+   "fragment_id": "1153494475",
+   "type": 8,
+   "heading": "Secção III — Perda de instrumentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+   ],
+   "markdown": "#### Secção III — Perda de instrumentos\n\n> Aditado pelo/a Artigo 12.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+  },
+  "1153496275": {
+   "fragment_id": "107797804",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Perda de instrumentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º-B — Perda de instrumentos\n\n1 - Os instrumentos de facto ilícito típico referido no artigo 1.º são declarados perdidos a favor do Estado ainda que não ponham em perigo a segurança das pessoas, a moral ou a ordem públicas, nem ofereçam sério risco de ser utilizados para o cometimento de novos factos ilícitos típicos.\n\n2 - Em tudo o que não contrariar o disposto no número anterior, é aplicável à perda dos instrumentos aí prevista o disposto no Código Penal ou em legislação especial.»\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1153496075": {
+   "fragment_id": "107797799",
+   "type": 8,
+   "heading": "Secção II — Perda do valor incongruente",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "#### Secção II — Perda do valor incongruente\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1153499375": {
+   "fragment_id": "67572420",
+   "type": 11,
+   "heading": "Artigo 7.º — Perda do valor incongruente",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+   ],
+   "markdown": "###### Artigo 7.º — Perda do valor incongruente\n\n1 - Em caso de condenação pela prática de crime referido no artigo 1.º, e para efeitos de perda de bens a favor do Estado, presume-se constituir vantagem de actividade criminosa a diferença entre o valor do património do arguido e aquele que seja congruente com o seu rendimento lícito.\n\n2 - Para efeitos desta lei, entende-se por património do arguido o conjunto dos bens:\n\na) Que estejam na titularidade do arguido, ou em relação aos quais ele tenha o domínio e o benefício, à data da constituição como arguido ou posteriormente;\n\nb) Transferidos para terceiros a título gratuito ou mediante contraprestação irrisória, nos cinco anos anteriores à constituição como arguido;\n\nc) Recebidos pelo arguido nos cinco anos anteriores à constituição como arguido, ainda que não se consiga determinar o seu destino.\n\n3 - Consideram-se sempre como vantagens de actividade criminosa os juros, lucros e outros benefícios obtidos com bens que estejam nas condições previstas no artigo 111.º do Código Penal.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 5/2002 - Diário da República n.º 31/2002, Série I-A de 2002-02-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2002-272191), em vigor a partir de 2002-01-10"
+  },
+  "1153499475": {
+   "fragment_id": "67572421",
+   "type": 11,
+   "heading": "Artigo 8.º — Promoção da perda de bens",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+   ],
+   "markdown": "###### Artigo 8.º — Promoção da perda de bens\n\n1 - O Ministério Público liquida, na acusação, o montante apurado como devendo ser perdido a favor do Estado.\n\n2 - Se não for possível a liquidação no momento da acusação, ela pode ainda ser efectuada até ao 30.º dia anterior à data designada para a realização da primeira audiência de discussão e julgamento, sendo deduzida nos próprios autos.\n\n3 - Efectuada a liquidação, pode esta ser alterada dentro do prazo previsto no número anterior se houver conhecimento superveniente da inexactidão do valor antes determinado.\n\n4 - Recebida a liquidação, ou a respetiva alteração, no tribunal, é imediatamente notificada ao arguido, ao seu defensor e à pessoa afetada.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+  },
+  "1153499575": {
+   "fragment_id": "67572422",
+   "type": 11,
+   "heading": "Artigo 9.º — Prova",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+   ],
+   "markdown": "###### Artigo 9.º — Prova\n\n1 - Sem prejuízo da consideração pelo tribunal, nos termos gerais, de toda a prova produzida no processo, pode o arguido provar a origem lícita dos bens referidos no n.º 2 do artigo 7.º\n\n2 - Para os efeitos do número anterior é admissível qualquer meio de prova válido em processo penal.\n\n3 - A presunção estabelecida no n.º 1 do artigo 7.º é ilidida se se provar que os bens:\n\na) Resultam de rendimentos de actividade lícita;\n\nb) Estavam na titularidade do arguido há pelo menos cinco anos no momento da constituição como arguido;\n\nc) Foram adquiridos pelo arguido com rendimentos obtidos no período referido na alínea anterior.\n\n4 - Se a liquidação do valor a perder em favor do Estado for deduzida na acusação, a defesa deve ser apresentada na contestação. Se a liquidação for posterior à acusação, o prazo para defesa é de 20 dias contados da notificação da liquidação.\n\n5 - A prova referida nos n.os 1 a 3 é oferecida em conjunto com a defesa.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+  },
+  "1153499675": {
+   "fragment_id": "67572423",
+   "type": 11,
+   "heading": "Artigo 10.º — Arresto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 10.º — Arresto\n\n1 - Para garantia do pagamento do valor determinado nos termos do n.º 1 do artigo 7.º, é decretado o arresto de bens pertencentes ao património do arguido, tal como definido no n.º 2 do artigo 7.º\n\n2 - A todo o tempo, logo que apurado o montante da incongruência, se necessário ainda antes da própria liquidação, quando se verifique cumulativamente a existência de fundado receio de diminuição de garantias patrimoniais e fortes indícios da prática do crime, o Ministério Público pode requerer o arresto de bens do arguido no valor correspondente ao apurado como constituindo vantagem de atividade criminosa.\n\n3 - O arresto é decretado pelo juiz, independentemente da verificação dos pressupostos referidos no n.º 1 do artigo 227.º do Código de Processo Penal, se existirem fortes indícios da prática do crime.\n\n4 - Em tudo o que não contrariar o disposto na presente lei é aplicável ao arresto o regime do arresto preventivo previsto no Código de Processo Penal.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1153499775": {
+   "fragment_id": "67572424",
+   "type": 11,
+   "heading": "Artigo 11.º — Modificação e extinção do arresto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+   ],
+   "markdown": "###### Artigo 11.º — Modificação e extinção do arresto\n\n1 - O arresto cessa se for prestada caução económica pelo valor referido no n.º 1 do artigo anterior.\n\n2 - Se, em qualquer momento do processo, for apurado que o valor susceptível de perda é menor ou maior do que o inicialmente apurado, o Ministério Público requer, respectivamente, a redução do arresto ou a sua ampliação.\n\n3 - O arresto ou a caução económica extinguem-se com a decisão final absolutória.\n\n> Alterado pelo/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725)"
+  },
+  "1153499175": {
+   "fragment_id": "67572425",
+   "type": 11,
+   "heading": "Artigo 12.º — Declaração de perda",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º — Declaração de perda\n\n1 - Na sentença condenatória, o tribunal declara o valor que deve ser perdido a favor do Estado, nos termos do artigo 7.º\n\n2 - Se este valor for inferior ao dos bens arrestados ou à caução prestada, são um ou outro reduzidos até esse montante.\n\n3 - Se não tiver sido prestada caução económica ou esta não for suficiente, o arguido pode pagar voluntariamente o montante referido no número anterior, ou o valor remanescente, nos 10 dias subsequentes ao trânsito em julgado da sentença, extinguindo-se o arresto com esse pagamento.\n\n4 - Não se verificando o pagamento, são perdidos a favor do Estado os bens arrestados.\n\n5 - Não havendo bens arrestados ou não sendo suficiente o seu valor para liquidar esse montante, havendo outros bens disponíveis, o Ministério Público instaura execução.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  }
+ }
+}

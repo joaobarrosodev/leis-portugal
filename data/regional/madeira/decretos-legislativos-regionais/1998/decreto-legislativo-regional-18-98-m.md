@@ -1,0 +1,291 @@
+---
+schema_version: '1.0'
+id: pt:dre:437235:por
+title: Decreto Legislativo Regional n.º 18/98/M
+short_title: null
+summary: Estabelece medidas de prevenção contra incêndios florestais
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 18/98/M
+official_date: null
+publication_date: '1998-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1998, Série I-A de 1998-08-18
+  number: '189'
+  series: I
+  supplement: null
+  pages: 4066 - 4069
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/08/189a00/40664069.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-04-09'
+version_history:
+  file: decreto-legislativo-regional-18-98-m.versoes.json
+  count: 2
+  source_lastmod: '2026-04-09'
+  versions:
+  - date: '1998-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-04-09'
+    amending: pt:dre:1082861151:por
+    amending_title: Decreto Legislativo Regional n.º 4/2026/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/18/1998/m/cons/20260408/pt/html
+  oj: null
+  dre: '437235'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/18-1998-437235
+  internal: pt:dre:437235:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1998-437235
+  metadata_url: https://data.dre.pt/eli/declegreg/18/1998/m/cons/20260408/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-1016097517
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-1016097517
+  retrieved_at: '2026-10-22T13:42:32Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-04-09T00:00:00Z'
+integrity:
+  source_sha256: 5b6b9edd77dda71e85537db9da637f7d35ad577ce10acea82137c9c25c0dee76
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:42:32Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-18-98-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Incêndio
+- Prevenção de Incêndios
+- Multa
+- Contra-ordenação
+- Corpo de Polícia Florestal
+- Definição de Competências
+- Direcção Regional das Florestas
+- Proteção da Floresta
+- Secretaria Regional da Agricultura Florestas e Pescas
+- Madeira.região Autónoma
+- Protecção do Património
+- Fogueira
+- Regime Jurídico
+- Política Florestal
+- Serviço Regional de Protecção Civil da Madeira
+relationships:
+- type: amended_by
+  target: pt:dre:1082861151:por
+  label: Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2026-1082861151
+  date: '2026-04-08'
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/8/1996/06/26/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/8/1996/06/26/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 16
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:42:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 18/98/M
+
+Estabelece medidas de prevenção contra incêndios florestais
+
+A floresta na Região Autónoma da Madeira apresenta-se com especificidades evidentes em matéria de dimensão e orografia com particularidades objectivas ao nível do ordenamento territorial e com características próprias ao nível da paisagem, do património natural e do ambiente, a que acresce o seu elevado valor biogenético, a requerer, por tudo isso, uma valorização e reconhecimento através de adequado e específico regime jurídico de protecção.
+
+A necessidade de combater o absentismo, frequentemente demonstrado por alguns proprietários e possuidores de áreas florestais e incultas por limpar, no sentido de evitar que a permanência por largo tempo nos terrenos de mato, lixos, resíduos e outros materiais agrave ainda mais os nefastos efeitos dos incêndios, bem como a incúria ou negligência de outros que recorrem de forma imprevidente às fogueiras e queimadas como forma de proceder à limpeza de matas, terrenos incultos e agrícolas, torna imperioso criar um sistema articulado de responsabilização de sociedade civil pela limpeza dos terrenos e ao mesmo tempo dotar as várias entidades oficiais competentes de meios legais que permitam intervir, sobretudo nos casos onde a existência de propriedades minifundiárias e dispersas, de situações de heranças indivisas e de proprietários desconhecidos, dificultam sobremaneira a sua acção.
+
+Por outro lado, há ainda que atender a necessidades de prevenção particulares decorrentes do exercício da actividade de madeireiros, garantindo a limpeza dos terrenos de materiais sobrantes de cortes, sobretudo esporádicos, e cujo abandono sobre os ditos terrenos está tantas vezes na origem de focos de incêndio latentes.
+
+Por todo o exposto, numa matéria como esta em que o legislador nacional toma por referência particular a realidade florestal continental, adquire plena justificação a criação de um regime jurídico específico regional, no âmbito do interesse específico desta Região Autónoma que a dote com a necessária e adequada protecção legal em matéria de prevenção de fogos florestais.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 29.º da Lei n.º 13/91, de 5 de Junho, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito e objecto de aplicação
+
+1 - O presente diploma consagra medidas de prevenção específicas, aplicáveis em todo o território da Região Autónoma da Madeira em matéria de fogos florestais.
+
+2 - Ficam sujeitas ao regime jurídico constante do presente diploma todas as áreas ou terrenos, sejam florestais, incultos ou agrícolas, qualquer que seja o regime de propriedade em que se integrem.
+
+###### Artigo 2.º — Atribuições e competências
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - Compete exclusivamente ao Instituto das Florestas e Conservação da Natureza IP-RAM, a aplicação da disciplina jurídica consagrada no capítulo ii do presente diploma no que respeita aos terrenos florestais, aos terrenos incultos e aos terrenos agrícolas situados no interior de terrenos florestais.
+
+4 - A aplicação da disciplina jurídica consagrada no capítulo II do presente diploma, fora dos terrenos referidos no n.º 3, compete às câmaras municipais.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 4/2026/M - Diário da República n.º 68/2026, Série I de 2026-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2026-1082861151), em vigor a partir de 2026-04-09.
+
+### Capítulo II — Da prevenção
+
+###### Artigo 3.º — Limpezas
+
+1 - Incumbe aos proprietários e possuidores dos terrenos a que se refere o artigo 1.º do presente diploma o dever de proceder à limpeza respectiva, eliminando mato e material susceptível de propiciar ou propagar fogos, numa faixa de 30 m medida a partir da extrema para o interior do prédio, ao longo de todo o seu perímetro, independentemente do fim a que se encontrem adstritos os terrenos.
+
+2 - Constitui igualmente dever dos proprietários e possuidores dos terrenos referidos no artigo 1.º executar, nos exactos termos e condições fixados, os trabalhos preventivos que lhes forem determinados pelas entidades competentes.
+
+3 - Quando, para os efeitos do disposto no presente artigo, haja que proceder à notificação dos interessados, nesta devem constar, pelo menos, os seguintes elementos:
+
+a) Identificação da entidade competente para ordenar a realização dos trabalhos preventivos;
+
+b) Prazo para o início e término dos trabalhos;
+
+c) Condições e termos da execução;
+
+d) Menção expressa da sanção aplicável em caso de incumprimento.
+
+4 - Em caso de risco fundamentado e verificando-se incumprimento, ainda que meramente culposo, as entidades competentes podem substituir-se aos proprietários e ou possuidores naqueles trabalhos, imputando-lhes os respectivos custos.
+
+5 - O documento da entidade competente autenticado com o respectivo selo branco que discrimine os custos pelos trabalhos referidos no n.º 4 constitui título executivo para efeitos do disposto no artigo 46.º, alínea d), do Código de Processo Civil.
+
+###### Artigo 4.º — Produtos sobrantes
+
+1 - Quem proceder ao corte, abate ou desbaste de árvores é obrigado a proceder à recolha e transporte dos produtos sobrantes do local, ou a promover a respectiva destruição ou transformação.
+
+2 - A operação descrita no número anterior deve ser efectuada no prazo máximo de 15 dias a contar do termo do corte, abate ou desbaste das árvores.
+
+###### Artigo 5.º — Fogueiras e queimadas
+
+1 - É proibido fazer fogueiras ou queimadas de restolhos, lixos, silvados, vegetação arbustiva, matos e outros que, de algum modo, possam pôr em causa a segurança de pessoas e bens ou causar-lhes incómodos.
+
+2 - Independentemente do número anterior e sem embargo do disposto nos n.os 2 e 3 do artigo 62.º do Regulamento Policial da Região Autónoma da Madeira, aprovado pela Portaria do Governo Regional n.º 181-A/95, de 17 de Novembro, é proibida a realização de fogueiras e queimadas entre 1 de Abril e 31 de Outubro de cada ano.
+
+###### Artigo 6 — Exceções
+
+1 - Qualquer exceção ao disposto no n.º 2 do artigo anterior só poderá ser autorizada:
+
+a) Pelo Instituto das Florestas e Conservação da Natureza, IP-RAM, nas áreas florestais, terrenos incultos e agrícolas situados no interior de terrenos florestais;
+
+b) Nas restantes áreas pela câmara municipal após a verificação, pelos serviços de fiscalização da autarquia de uma situação de reconhecida necessidade, também após comunicação ao Serviço Regional de Proteção Civil.
+
+2 - A resposta ao pedido de licença deve ser dada no prazo máximo de 30 dias a contar da data de entrada do respetivo pedido, devendo a sua não comunicação ser entendida como indeferimento tácito.
+
+3 - Para a realização em segurança das fogueiras e queimadas previstas na alínea b) do n.º 1, deverá a câmara municipal avisar a corporação de bombeiros da sua autarquia, a Secretaria Regional de Agricultura, Florestas e Pescas e a Polícia de Segurança Pública, assegurando sempre a presença no local de uma dessas entidades.
+
+4 - As licenças concedidas nos termos dos n.ºs 1 e 2 definem as condições de segurança a observar, bem como o dia e as horas, devendo estas ocorrer entre as 8 e as 16 horas impreterivelmente.
+
+> Alterado pelo/a Artigo 20.º do/a , em vigor a partir de 2026-04-09.
+
+###### Artigo 7.º — Garantias
+
+A autorização prevista no artigo 6.º poderá ficar condicionada à prévia assinatura de um termo de responsabilidade para garantia de indemnização por perdas e danos que as fogueiras ou queimadas possam originar, ou à assunção das referidas responsabilidades por uma entidade seguradora.
+
+###### Artigo 8.º — Prevenção
+
+Sem prejuízo da observância das disposições legais sobre prevenção de incêndios florestais, na realização de fogueiras ou queimadas observar-se-á o seguinte:
+
+a) No local deverão permanecer apenas as pessoas indispensáveis à realização da fogueira ou queimada em condições de segurança;
+
+b) Deverá também estar presente um piquete de bombeiros, se for caso disso, ou qualquer entidade com competência de fiscalização;
+
+c) Não estando presente um piquete de bombeiros, têm de existir meios de primeira intervenção contra incêndios tais como água, pás, enxadas e material similar, suficientes para apagar o fogo em caso de emergência ou em caso de ordem das autoridades;
+
+d) Não podem ser queimadas ao mesmo tempo quantidades exageradas de materiais;
+
+e) Não podem ser queimados materiais que não estejam explícitos nas licenças;
+
+f) Concluída a fogueira ou queimada, o local tem de ser regado com água até apagar por completo os braseiros e de forma a evitar qualquer reacendimento.
+
+###### Artigo 9.º — Condicionamentos
+
+1 - Independentemente do previsto nos artigos 5.º a 7.º, são proibidas fogueiras ou queimadas quando se verificar uma redução da humidade dos combustíveis finos e mortos abaixo dos 12%, temperaturas do ar superiores a 24ºC, ventos fortes ou qualquer tipo de vento do quadrante leste.
+
+2 - Os dados constantes do número anterior serão obtidos quer através do Instituto Nacional de Meteorologia e Geofísica/Direcção Regional da Madeira quer, localmente, através do Corpo de Polícia Florestal.
+
+### Capítulo III — Penalidades
+
+###### Artigo 10 — Contraordenações
+
+1 - A violação do disposto nos n.ºs 1 e 2 do artigo 3.º constitui contraordenação punível com coima de € 150,00 a € 2500,00, no caso de pessoas singulares, ou de € 300,00 a € 25 000,00, no caso de pessoas coletivas.
+
+2 - A violação do disposto no artigo 4.º constitui contraordenação punível com coima de € 150,00 a € 3000,00, no caso de pessoas singulares, ou de € 500,00 a € 30 000,00, no caso de pessoas coletivas.
+
+3 - A violação do disposto nos artigos 5.º e 6.º constitui contraordenação punível com coima de € 150,00 a € 3000,00, no caso de pessoas singulares, ou de € 500,00 a € 30 000,00, no caso de pessoas coletivas.
+
+4 - A negligência e a tentativa são puníveis até metade do montante máximo das coimas previstas nos números anteriores.
+
+5 - As coimas fixadas no presente artigo serão agravadas até ao dobro sempre que, em consequência da infração, resulte a ocorrência de um incêndio.
+
+> Alterado pelo/a Artigo 20.º do/a , em vigor a partir de 2026-04-09.
+
+###### Artigo 11.º — Competência para processar e aplicar as coimas
+
+1 - São competentes para autuar e processar as contra-ordenações fixadas no artigo 10.º a Direcção Regional de Florestas, no caso de infracções praticadas nos terrenos a que se refere o n.º 3 do artigo 2.º do presente diploma, e as câmaras municipais, no caso de infracções praticadas nos terrenos a que se refere o n.º 4 do mesmo artigo 2.º
+
+2 - A aplicação das coimas compete ao director regional de Florestas no que se refere aos terrenos referidos no n.º 3 do artigo 2.º e aos presidentes das câmaras municipais, que poderão delegar em vereador, no que respeita aos terrenos referidos no n.º 4 do artigo 2.º
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 12.º — Sensibilização da população
+
+Os serviços competentes da Administração Pública regional e local devem promover campanhas de esclarecimento da população sobre a aplicação do presente diploma.
+
+###### Artigo 13.º — Dever de colaboração
+
+As entidades competentes nos termos e para os efeitos do presente diploma podem solicitar colaboração e apoio de outras entidades, podendo com essas celebrar protocolos de cooperação e apoio.
+
+###### Artigo 14.º — Apoios à execução
+
+Os proprietários e possuidores dos terrenos abrangidos pelo presente diploma poderão beneficiar dos apoios financeiros e fiscais já consignados na lei ou de outros a criar por instrumentos normativos específicos para o sector agrícola.
+
+###### Artigo 15.º — Revogação
+
+Fica revogado o Decreto Regulamentar Regional n.º 8/96/M, de 26 de Junho, em tudo o que contrariar o presente diploma.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 2 de Junho de 1998.
+
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 24 de Julho de 1998.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

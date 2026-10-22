@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:231348:por
+title: Portaria n.º 758/79
+short_title: null
+summary: Autoriza a celebração do contrato de arrendamento rural entre o Serviço Regional de Agricultura do Algarve e o proprietário
+  do prédio rústico Paul
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura e Pescas
+proposing_entity: null
+official_number: 758/79
+official_date: null
+publication_date: '1979-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1979, 8º Suplemento, Série I de 1979-12-31
+  number: '300'
+  series: I
+  supplement: 8º Suplemento
+  pages: 3478-(185) a 3478-(186)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30008/01850186.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '231348'
+  dre_path: /dr/detalhe/portaria/758-1979-231348
+  internal: pt:dre:231348:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-1979-231348
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-1979-231348
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-12-31T00:00:00Z'
+integrity:
+  source_sha256: fa6e615e097b527b868222be6b38ea0de2e80c5889eb2d2dc3ae3efa89e83eea
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-758-231348.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 758/79
+
+de 31 de Dezembro
+
+Havendo necessidade de celebrar um contrato de arrendamento rural entre o Serviço Regional de Agricultura do Algarve e o proprietário do prédio rústico denominado «Paul», com vista à instalação de uma unidade experimental e de demonstração agrícola e florestal, no âmbito, respectivamente, da adaptação dos frutos secos à serra do Algarve e de ensaios de pastagens melhoradas em regime silvo-pastoril;
+
+Tendo em vista o disposto no artigo 10.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Agricultura e Pescas, o seguinte:
+
+1.º É autorizado o Ministério da Agricultura e Pescas a celebrar, através do Serviço Regional de Agricultura do Algarve, um contrato de arrendamento rural pelo período de sete anos, a contar de 1 de Fevereiro de 1978, com João Rodrigues Figueira Santos, com vista à instalação de uma unidade experimental e de demonstração no prédio denominado «Paul», de que este é legítimo dono e possuidor, com a área de 160 ha, situado no Gavião de Cima, freguesia de Messines, concelho de Silves, confrontando do norte com Manuel Cabrita Carvalho e Manuel Cabrita, do sul com Joaquim Guerreiro, António Guerreiro e José de Sousa, do nascente com José Palma e do poente com Elisa Vaz Mascarenhas Pimenta e Manuel João, descrito na Conservatória do Registo Predial de Silves sob os n.os 24119 e 24120, a fls. 145 v.º e 146 do livro B-59 e inscrito na matriz predial rústica sob o artigo 2934.
+
+2.º O encargo resultante da execução do contrato não poderá exceder, em cada ano, as seguintes quantias:
+
+Em 1979 ... 105000$00
+
+Em 1980 ... 225000$00
+
+Em 1981 ... 130000$00
+
+Em 1982 ... 140000$00
+
+Em 1983 ... 150000$00
+
+Em 1984 ... 160000$00
+
+3.º Os encargos serão satisfeitos no corrente ano económico pela verba do cap. 4, div. 07, C. E. 44.02 «Serviços Regionais de Agricultura; Algarve: Outras despesas correntes: Rendas de terrenos», do orçamento do Ministério da Agricultura e Pescas e nos anos subsequentes pela correspondente verba a inscrever no mesmo orçamento.
+
+4.º A renovação do presente contrato e a revisão da renda ficam sujeitas à disciplina das normas legais vigentes.
+
+Ministérios das Finanças e da Agricultura e Pescas, 28 de Novembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço.

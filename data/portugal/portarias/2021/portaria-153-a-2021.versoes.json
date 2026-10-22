@@ -1,0 +1,178 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:167610827:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-230023843",
+ "dre_path": "/dr/detalhe/portaria/153-a-2021-167610827",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-07-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890366189",
+    "230063218",
+    "230063219",
+    "230063220",
+    "230063221",
+    "230063222",
+    "230063223"
+   ]
+  },
+  {
+   "date": "2024-10-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:890194534:por",
+     "title": "Decreto-Lei n.º 67/2024",
+     "published": "2024-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/67-2024-890194534"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "890366189",
+    "890366190",
+    "890366191",
+    "890366192",
+    "890366193",
+    "890366194",
+    "890366195",
+    "890366196"
+   ]
+  }
+ ],
+ "fragments": {
+  "890366189": {
+   "fragment_id": "230023844",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-10-09",
+   "changed_by": [],
+   "markdown": "Portaria n.º 153-A/2021\n\nde 19 de julho\n\nSumário: Define o número máximo de consultores e a dotação máxima de chefes de equipa multidisciplinar do Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública (PlanAPP).\n\nEm cumprimento do objetivo expresso no Programa do XXII Governo Constitucional, de consolidar, ampliar e diversificar os centros de competências, associando a estes uma dimensão criadora de conhecimento acessível em toda a Administração Pública, o Governo aprovou o Decreto-Lei n.º 21/2021, de 15 de março, que cria o Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública (PlanAPP), estabelecendo as respetivas atribuições, organização e recursos.\n\nDe acordo com o referido decreto-lei, a organização interna do PlanAPP obedece ao modelo de estrutura matricial, permitindo maior flexibilidade na constituição de equipas multidisciplinares e o respetivo mapa de pessoal integra consultores especialmente qualificados para o desempenho das atribuições do PlanAPP.\n\nO Decreto-Lei n.º 21/2021, de 15 de março, estabelece também a possibilidade de constituição de uma bolsa de consultores externos, para permitir a agilização da contratação.\n\nAssim, ao abrigo do disposto no n.º 3 do artigo 5.º e no n.º 6 do artigo 8.º do Decreto-Lei n.º 21/2021, de 15 de março, e no n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, manda o Governo, pela Ministra de Estado e da Presidência, pelo Ministro de Estado e das Finanças, pela Ministra da Modernização do Estado e da Administração Pública e pelo Ministro do Planeamento, o seguinte:"
+  },
+  "230063218": {
+   "fragment_id": "230023845",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à definição do número máximo de consultores, da dotação máxima de chefes de equipa multidisciplinar e do número máximo de consultores a contratar através da bolsa de consultores do Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública (PlanAPP)."
+  },
+  "230063219": {
+   "fragment_id": "230023846",
+   "type": 11,
+   "heading": "Artigo 2.º — Consultores do PlanAPP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Consultores do PlanAPP\n\nO número máximo de consultores seniores, de consultores coordenadores, de consultores principais e de consultores associados que podem exercer funções no PanAPP é fixado, respetivamente, em 3, 4, 5 e 10."
+  },
+  "230063220": {
+   "fragment_id": "230023847",
+   "type": 11,
+   "heading": "Artigo 3.º — Chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Chefes de equipas multidisciplinares\n\n1 - É fixada em cinco a dotação máxima dos chefes de equipas multidisciplinares.\n\n2 - Os chefes de equipas multidisciplinares não vagam lugares de consultor do PlanAPP."
+  },
+  "230063221": {
+   "fragment_id": "230023848",
+   "type": 11,
+   "heading": "Artigo 4.º — Bolsa de consultores externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Bolsa de consultores externos\n\nÉ fixado em 10 o número máximo de consultores contratados através da bolsa de consultores externos a que se refere o artigo 8.º do Decreto-Lei n.º 21/2021, de 15 de março, que podem em simultâneo prestar serviços no PlanAPP."
+  },
+  "230063222": {
+   "fragment_id": "230023849",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime transitório\n\n1 - Até 31 de dezembro de 2021, o número máximo de consultores seniores, de consultores coordenadores, de consultores principais e de consultores associados que podem exercer funções no PlanAPP não pode exceder, respetivamente, um, quatro, quatro e cinco.\n\n2 - Até 31 de dezembro de 2021 é fixado em cinco o número máximo de consultores a que se refere o artigo 4.º"
+  },
+  "230063223": {
+   "fragment_id": "230023850",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia seguinte ao da sua publicação."
+  },
+  "890366190": {
+   "fragment_id": "230023845",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à definição do número máximo de consultores, da dotação máxima de chefes de equipa multidisciplinar e do número máximo de consultores a contratar através da bolsa de consultores do Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública (PlanAPP).\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+  },
+  "890366191": {
+   "fragment_id": "230023846",
+   "type": 11,
+   "heading": "Artigo 2.º — Consultores do PlanAPP",
+   "in_force_from": "2024-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+   ],
+   "markdown": "###### Artigo 2.º — Consultores do PlanAPP\n\nO número máximo de consultores seniores, de consultores coordenadores, de consultores principais e de consultores associados que podem exercer funções no PanAPP é fixado, respetivamente, em 3, 4, 5 e 10.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+  },
+  "890366192": {
+   "fragment_id": "230023847",
+   "type": 11,
+   "heading": "Artigo 3.º — Chefes de equipas multidisciplinares",
+   "in_force_from": "2024-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 432/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/432-2023-230006495), produz efeitos a partir de 2023-12-14"
+   ],
+   "markdown": "###### Artigo 3.º — Chefes de equipas multidisciplinares\n\n1 - É fixada em oito a dotação máxima dos chefes de equipas multidisciplinares.\n\n2 - Os chefes de equipas multidisciplinares não vagam lugares de consultor do PlanAPP.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 432/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/432-2023-230006495), produz efeitos a partir de 2023-12-14"
+  },
+  "890366193": {
+   "fragment_id": "230023848",
+   "type": 11,
+   "heading": "Artigo 4.º — Bolsa de consultores externos",
+   "in_force_from": "2024-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+   ],
+   "markdown": "###### Artigo 4.º — Bolsa de consultores externos\n\nÉ fixado em 10 o número máximo de consultores contratados através da bolsa de consultores externos a que se refere o artigo 8.º do Decreto-Lei n.º 21/2021, de 15 de março, que podem em simultâneo prestar serviços no PlanAPP.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+  },
+  "890366194": {
+   "fragment_id": "230023849",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime transitório",
+   "in_force_from": "2024-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+   ],
+   "markdown": "###### Artigo 5.º — Regime transitório\n\n1 - Até 31 de dezembro de 2021, o número máximo de consultores seniores, de consultores coordenadores, de consultores principais e de consultores associados que podem exercer funções no PlanAPP não pode exceder, respetivamente, um, quatro, quatro e cinco.\n\n2 - Até 31 de dezembro de 2021 é fixado em cinco o número máximo de consultores a que se refere o artigo 4.º\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+  },
+  "890366195": {
+   "fragment_id": "230023850",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": "2024-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+   ],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+  },
+  "890366196": {
+   "fragment_id": "230023851",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+   ],
+   "markdown": "A Ministra de Estado e da Presidência, Mariana Guimarães Vieira da Silva, em 16 de julho de 2021. - O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 16 de julho de 2021. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão, em 16 de julho de 2021. - O Ministro do Planeamento, Ângelo Nelson Rosário de Souza, em 17 de julho de 2021.\n\n100000325\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série I de 2024-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534), em vigor a partir de 2024-10-09"
+  }
+ }
+}

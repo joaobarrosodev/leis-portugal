@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:520196:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 8/2007/M
+short_title: null
+summary: Resolve solicitar ao Ministério da Administração Interna a adopção de algumas medidas para garantir a segurança das
+  populações da Madeira e do Porto Santo
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 8/2007/M
+official_date: null
+publication_date: '2007-04-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/2007, Série I de 2007-04-03
+  number: '66'
+  series: I
+  supplement: null
+  pages: 2163 - 2164
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06600/21632164.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/8/2007/04/03/m/dre/pt/html
+  oj: null
+  dre: '520196'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/8-2007-520196
+  internal: pt:dre:520196:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/8-2007-520196
+  metadata_url: https://data.dre.pt/eli/resolalram/8/2007/04/03/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/8-2007-520196
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-04-03T00:00:00Z'
+integrity:
+  source_sha256: e8bb892d1e1a65295ae97f2ca8c9fd68a21baafb3ae642aee5ca43b8f7942e0c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2007/DRE-2007-8-520196.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Ministério da Administração Interna
+- Criação de Serviços
+- Segurança Pública
+- Porto Santo
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 8/2007/M
+
+Dever do Estado de garantir a segurança das populações da Madeira e do Porto Santo
+
+Constitucionalmente a segurança emana como um direito fundamental interligado com o direito à liberdade.
+
+A segurança pública das populações constitui um factor fundamental e determinante para o desenvolvimento, bem-estar e paz social da comunidade em geral.
+
+É dever do Estado, através do Governo da República, garantir a segurança das populações, onde se incluem as da Madeira e do Porto Santo.
+
+Neste quadro de atribuições, constata-se que o Governo da República, uma vez mais, tem pautado a sua actuação por uma dualidade de critérios, altamente discriminatórios em relação às populações da Madeira e do Porto Santo.
+
+O Orçamento Rectificativo de 2005 apresentou um aumento de 130% nas verbas destinadas ao investimento em equipamento para as forças de segurança.
+
+O Orçamento para 2006 manteve o nível de investimento nesta área (repetiu-se um reforço de 130% em relação ao Orçamento inicial de 2005), apesar da redução no orçamento global do Ministério da Administração Interna.
+
+Apesar de o Governo da República, conforme consta do seu Programa de governo, ter como propósito afimar a autoridade do Estado e garantir a segurança, constatamos que essa pretensão apenas se cinge ao território continental.
+
+A Madeira e o Porto Santo continuam a aguardar que o Governo da República cumpra com as suas responsabilidades em matéria de segurança pública.
+
+Urge sair do plano das intenções e dos discursos bem elaborados, das falsas promessas que adornam o Programa do Governo socialista do engenheiro Sócrates.
+
+Que é necessário afirmar a autoridade do Estado e garantir a segurança; que não há liberdade sem segurança, nem, verdadeiramente, segurança sem liberdade; que a criminalidade geral, que, sendo a mais baixa da União Europeia a seguir à Irlanda, tem registado uma tendência constante para crescer, quer no número global quer quanto aos crimes violentos e contra as pessoas, tudo isto está sobejamente apreendido, discutido e diagnosticado.
+
+Do que as populações precisam é de uma verdadeira segurança pública, traduzida em mais meios humanos e melhor preparados, quer do ponto de vista da sua aptidão física quer do ponto de vista da sua aptidão intelectual, em mais e melhores equipamentos, mormente instalações policiais, viaturas e meios de defesa e ataque.
+
+No respeito pela dignidade das populações da Madeira e do Porto Santo e dos seus direitos constitucionalmente e estatutariamente consagrados, exige-se que o Governo da República cumpra com a sua missão de Estado, garantindo a segurança das populações da Madeira e do Porto Santo, nomeadamente com a abertura de mais postos policiais e não com o encerramento dos postos policiais existentes, como são exemplos o da Nazaré, o de Santo António e o do Bairro da Nogueira, com o reforço imediato de mais meios humanos e com o reforço de melhores equipamentos e viaturas.
+
+Só assim o Governo da República estará a cumprir com a promessa eleitoral de combater a criminalidade.
+
+É nossa profunda convicção que não será com o encerramento de postos policiais e com a insuficiência de meios humanos que o Governo da República garantirá «um policiamento mais visível e eficaz, de integração e proximidade, orientado para a protecção dos cidadãos em geral e, em particular, das pessoas especialmente vulneráveis, como as crianças, os jovens, os idosos e as vítimas de maus-tratos» - cf. Programa do Governo, capítulo IV, «Qualidade da democracia, cidadania, justiça e segurança», n.º III, «Segurança interna e protecção civil», «3 - Combater a criminalidade».
+
+Assim:
+
+A Assembleia Legislativa da Madeira, nos termos da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, resolve:
+
+1 - Aprovar a presente resolução, solicitando ao Ministério da Administração Interna a reabertura dos postos policiais encerrados.
+
+2 - A instalação de novos postos policiais e esquadras, mormente na cidade de Caniço, e o melhoramento de postos policiais e esquadras existentes.
+
+3 - O reforço imediato de meios humanos ao serviço da segurança pública.
+
+4 - Da presente resolução deverá ser dado conhecimento ao Presidente da República, à Assembleia da República e ao Primeiro-Ministro de Portugal.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Fevereiro de 2007.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**

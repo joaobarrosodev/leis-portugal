@@ -1,0 +1,353 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174826:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-183376054",
+ "dre_path": "/dr/detalhe/portaria/267-2012-174826",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "183405722",
+    "183405723",
+    "183405724",
+    "183405725",
+    "183405726",
+    "183405727",
+    "183405728",
+    "183405729",
+    "183405730",
+    "183405731",
+    "183405732",
+    "183405733",
+    "183405734",
+    "183405735",
+    "183405736"
+   ]
+  },
+  {
+   "date": "2015-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70361621:por",
+     "title": "Portaria n.º 306/2015",
+     "published": "2015-09-23",
+     "dre_path": "/dr/detalhe/portaria/306-2015-70361621"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "183405722",
+    "183405723",
+    "183405724",
+    "183405725",
+    "183405737",
+    "183405757",
+    "183405758",
+    "183405740",
+    "183405726",
+    "183405727",
+    "183405759",
+    "183405760",
+    "183405761",
+    "183405731",
+    "183405732",
+    "183405733",
+    "183405734",
+    "183405762",
+    "183405736"
+   ]
+  },
+  {
+   "date": "2025-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901998026:por",
+     "title": "Portaria n.º 4/2025/1",
+     "published": "2025-01-03",
+     "dre_path": "/dr/detalhe/portaria/4-2025-901998026"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "183405722",
+    "183405723",
+    "183405724",
+    "183405725",
+    "183405737",
+    "901452048",
+    "901452049",
+    "183405740",
+    "183405726",
+    "183405727",
+    "183405759",
+    "183405760",
+    "901452050",
+    "183405731",
+    "183405732",
+    "183405733",
+    "901452051",
+    "183405762",
+    "183405736"
+   ]
+  }
+ ],
+ "fragments": {
+  "183405722": {
+   "fragment_id": "183376055",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 267/2012\n\nde 31 de agosto\n\nO Decreto-Lei n.º 46/2012, de 24 de fevereiro, definiu a missão e as atribuições do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. Importa agora, no desenvolvimento daquele diploma, determinar a sua organização interna através da aprovação dos respetivos Estatutos.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, o seguinte:"
+  },
+  "183405723": {
+   "fragment_id": "183376056",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria, e da qual fazem parte integrante, os estatutos do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., abreviadamente designado por INFARMED, I. P."
+  },
+  "183405724": {
+   "fragment_id": "183376057",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 810/2007, de 27 de julho."
+  },
+  "183405725": {
+   "fragment_id": "183376058",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.\n\nO Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 17 de agosto de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 14 de agosto de 2012."
+  },
+  "183405726": {
+   "fragment_id": "183376059",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Gestão do Risco de Medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Gestão do Risco de Medicamentos\n\nÀ Direção de Gestão do Risco de Medicamentos, abreviadamente designada por DGRM, compete:\n\na) Assegurar a coordenação e funcionamento do Sistema Nacional de Farmacovigilância de Medicamentos de Uso Humano, designadamente no que respeita à recolha, avaliação e divulgação da informação sobre as suspeitas de reações adversas dos medicamentos, à análise de relações de causalidade entre medicamentos e reações adversas e à identificação precoce de problemas de segurança com a utilização de medicamentos, bem como a vigilância de ensaios clínicos, através da colheita, registo e avaliação dos acontecimentos adversos ocorridos durante os mesmos;\n\nb) Gerir o sistema de alertas de farmacovigilância da União Europeia e assegurar a participação no programa de monitorização de medicamentos da Organização Mundial de Saúde (OMS);\n\nc) Assegurar a monitorização de segurança dos medicamentos, através dos planos de gestão de risco, bem como emitir pareceres sobre esses planos;\n\nd) Promover e realizar estudos epidemiológicos, propor e implementar medidas de segurança e elaborar relatórios de benefício-risco;\n\ne) Coordenar as atividades das unidades de farmacovigilância que integram o Sistema Nacional de Farmacovigilância;\n\nf) Colaborar com outras entidades nacionais e internacionais na promoção e realização de estudos na área da epidemiologia do medicamento;\n\ng) Assegurar a divulgação de informação de segurança para os profissionais de saúde e para o público em geral, bem como a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nh) Assegurar a articulação com a comissão de avaliação de medicamentos em matéria de farmacovigilância, salvo no que respeita aos relatórios periódicos de segurança;\n\ni) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nj) Assegurar a articulação com os sistemas de informação nacionais e europeus no âmbito das suas competências;\n\nk) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições, nomeadamente com o grupo de farmacovigilância da EMA - Agência Europeia de Medicamentos e com os centros de farmacovigilância de outras agências do medicamento."
+  },
+  "183405727": {
+   "fragment_id": "183376060",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Produtos de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Produtos de Saúde\n\nÀ Direção de Produtos de Saúde, abreviadamente designada por DPS, compete:\n\na) Assegurar as atividades necessárias à colocação no mercado de produtos de saúde, que inclui dispositivos médicos, produtos cosméticos e de higiene corporal, e de avaliação dos pedidos de confidencialidade dos ingredientes dos produtos cosméticos e de higiene corporal;\n\nb) Gerir, avaliar e monitorizar os procedimentos para a aposição da marcação CE em dispositivos médicos, bem como os de registo de fabricantes e distribuidores de dispositivos médicos, comunicação de dispositivos médicos e autorização de colocação no mercado de dispositivos médicos, e os procedimentos relativos à investigação clínica de dispositivos médicos;\n\nc) Gerir e avaliar as notificações de avaliação do comportamento funcional dos dispositivos médicos;\n\nd) Assegurar as atividades de monitorização e supervisão do mercado de produtos de saúde, que inclui dispositivos médicos, produtos cosméticos e de higiene corporal;\n\ne) Receber, apreciar, registar e gerir notificações de colocação no mercado de produtos cosméticos e de higiene corporal, monitorizar o respetivo mercado;\n\nf) Assegurar a articulação com os sistemas de informação nacionais e europeus no âmbito das suas competências;\n\ng) Apoiar a fiscalização de fabricantes, grossistas e outros agentes intervenientes no circuito dos produtos de saúde, desde a matéria-prima até ao produto acabado, bem como a verificação da conformidade do seu fabrico e comercialização com a legislação em vigor;\n\nh) Promover e realizar estudos epidemiológicos, quer de natureza quantitativa quer de natureza qualitativa no âmbito da utilização e da monitorização dos produtos de saúde e estudos epidemiológicos de suporte à decisão, nomeadamente no que se refere a possíveis problemas de segurança associados à utilização de dispositivos médicos e produtos cosméticos e de higiene corporal;\n\ni) Assegurar a monitorização da segurança dos dispositivos médicos e dos produtos cosméticos e de higiene corporal, através da implementação de medidas de segurança e da colheita, registo e divulgação de informação sobre ocorrências adversas associadas à utilização de produtos de saúde ou de incidentes com dispositivos médicos e promover e implementar medidas de segurança, bem como proceder à análise benefício-risco;\n\nj) Gerir o sistema de alertas de vigilância da União Europeia e assegurar a participação nos programas de monitorização de dispositivos médicos e de produtos cosméticos e de higiene corporal da OMS;\n\nk) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas competências;\n\nl) Assegurar a articulação do INFARMED, I. P., com a Comissão de Dispositivos Médicos e com a Comissão de Cosmetologia e assegurar os respetivos secretariados;\n\nm) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nn) Coordenar as atividades de normalização e harmonização de conceitos, definições e terminologias relacionadas com os dispositivos médicos e os produtos cosméticos e de higiene corporal;\n\no) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições."
+  },
+  "183405728": {
+   "fragment_id": "183376061",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Inspeção e Licenciamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Inspeção e Licenciamentos\n\nÀ Direção de Inspeção e Licenciamentos, abreviadamente designada por DIL, compete:\n\na) Elaborar e propor regras técnicas de instalação e funcionamento dos fabricantes, grossistas, farmácias, serviços farmacêuticos hospitalares públicos e privados e locais de venda de medicamentos não sujeitos a receita médica (MNSRM), incluindo a definição dos recursos humanos e técnicos mínimos indispensáveis;\n\nb) Assegurar as atividades necessárias ao licenciamento dos fabricantes, grossistas e farmácias, bem como dos serviços farmacêuticos hospitalares públicos e privados, e o registo dos locais de venda de MNSRM;\n\nc) Assegurar as atividades e iniciativas necessárias à inspeção das atividades de investigação e desenvolvimento, dos produtores de matérias-primas de uso farmacêutico, fabricantes, grossistas, farmácias, serviços farmacêuticos públicos e privados e dos locais de venda de MNSRM, bem como a outros agentes intervenientes no circuito do medicamento e dos produtos de saúde, e à verificação da conformidade da produção e comercialização de medicamentos e produtos de saúde com as normas aplicáveis;\n\nd) Assegurar as atividades inerentes ao sistema de alerta rápido relativo a medicamentos e produtos de saúde;\n\ne) Assegurar as competências em matéria de fiscalização da publicidade, da rotulagem e do folheto informativo, dos medicamentos e dos produtos de saúde, sem prejuízo das atribuições da equipa da publicidade;\n\nf) Assegurar a representação e a colaboração do INFARMED, I. P., nas ações de inspeção farmacêutica a nível internacional, incluindo os acordos de reconhecimento mútuo;\n\ng) Assegurar o desempenho das obrigações de inspeção de farmacovigilância e de inspeção das boas práticas clínicas associadas aos ensaios clínicos com medicamentos e produtos de saúde;\n\nh) Propor a instauração e assegurar a instrução dos processos relativos à aplicação do direito de mera ordenação social que sejam da sua competência;\n\ni) Assegurar o cumprimento das obrigações internacionais do Estado Português junto da Organização das Nações Unidas e as atividades inerentes ao licenciamento dos agentes que intervêm no circuito dos estupefacientes e psicotrópicos e à fiscalização das atividades autorizadas de cultivo, produção, fabrico, emprego, comércio por grosso, distribuição, importação, exportação, trânsito, aquisição, venda, entrega e detenção de plantas, substâncias e preparações de utilização restrita;\n\nj) Assegurar a organização e a gestão integrada do arquivo técnico do INFARMED, I. P., relativo a processos de farmácias, armazéns e laboratórios de medicamentos e produtos de saúde e de produtos e substâncias de utilização controlada;\n\nk) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas competências;\n\nl) Elaborar pareceres relativos ao licenciamento industrial de atividades de matérias-primas de uso farmacêutico e de fabrico de medicamentos;\n\nm) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nn) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições."
+  },
+  "183405729": {
+   "fragment_id": "183376062",
+   "type": 11,
+   "heading": "Artigo 7.º — Direção de Comprovação da Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direção de Comprovação da Qualidade\n\nÀ Direção de Comprovação da Qualidade, abreviadamente designada por DCQ, compete:\n\na) Participar no sistema de garantia da qualidade dos medicamentos, assegurando o controlo analítico dos medicamentos no mercado, bem como dos produtos de saúde;\n\nb) Proceder à libertação oficial de lotes de medicamentos de origem biológica;\n\nc) Apoiar a avaliação da qualidade e segurança fármaco-toxicológica no âmbito da concessão de autorizações de introdução no mercado de medicamentos;\n\nd) Participar no sistema de garantia da qualidade dos produtos de saúde;\n\ne) Participar em estudos de colaboração com outras entidades oficiais, nacionais ou estrangeiras, em processos de reconhecimento mútuo, verificação de métodos e padrões de referência;\n\nf) Assegurar e promover atividades de investigação científica no domínio da qualidade e segurança dos medicamentos e produtos de saúde, nomeadamente através do desenvolvimento de programas específicos e de colaboração com outras instituições;\n\ng) Assegurar a competência do INFARMED, I. P., para a monitorização das boas práticas de laboratório, de acordo com os princípios da OCDE;\n\nh) Realizar estudos no âmbito das matérias-primas, formulação e desenvolvimento fármaco-tecnológico, produção e controlo de medicamentos, para entidades públicas e privadas;\n\ni) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nj) Coordenar atividades de investigação e desenvolvimento promovidas em parceria com outras instituições científicas, nacionais e estrangeiras;\n\nk) Colaborar na prestação de assessoria científica, quer ao nível interno quer externo, em projetos e atividades de natureza científica;\n\nl) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nm) Assegurar a participação na Rede Europeia dos Laboratórios Oficiais de Controlo da Qualidade dos Medicamentos;\n\nn) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições, incluindo na Farmacopeia Europeia."
+  },
+  "183405730": {
+   "fragment_id": "183376063",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Avaliação Económica e Observação do Mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direção de Avaliação Económica e Observação do Mercado\n\nÀ Direção de Avaliação Económica e Observação do Mercado, abreviadamente designada por DAEOM, compete:\n\na) Assegurar as competências do INFARMED, I. P., em matéria de comparticipação de medicamentos pelo Serviço Nacional de Saúde, designadamente através da análise e promoção de estudos de avaliação económica para apoio à decisão de comparticipação do Estado no preço dos medicamentos;\n\nb) Assegurar as competências do INFARMED, I. P., em matéria da avaliação prévia do valor terapêutico acrescentado e da vantagem económica, para efeito de utilização de medicamentos a nível dos hospitais do Serviço Nacional de Saúde;\n\nc) Assegurar as competências do INFARMED, I. P., em matéria de autorização do preço de venda ao público dos medicamentos de uso humano sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados, bem como à regulação dos preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime geral das comparticipações dos medicamentos, incluindo a tramitação dos respetivos procedimentos;\n\nd) Monitorizar a acessibilidade e os circuitos e condições de acesso dos cidadãos aos medicamentos e produtos de saúde, através da análise, promoção e realização de estudos económicos para o controlo e avaliação do mercado;\n\ne) Proceder à identificação prospetiva das inovações em matéria de medicamentos e produtos de saúde e avaliar o seu possível impacto na saúde pública e no Serviço Nacional de Saúde;\n\nf) Assegurar a recolha e o tratamento da informação sobre a utilização dos medicamentos e produtos de saúde;\n\ng) Colaborar com entidades nacionais e internacionais na realização de estudos na área do medicamento e dos produtos de saúde, nomeadamente as que decorram da execução de estratégias de desenvolvimento do sector farmacêutico;\n\nh) Assegurar a execução de políticas de controlo e avaliação farmacoterapêutica e económica do mercado dos medicamentos e produtos de saúde, com particular incidência nos medicamentos comparticipados;\n\ni) Analisar e promover estudos de avaliação farmacoterapêutica e económica de medicamentos e produtos de saúde para apoio à decisão de comparticipação do Estado no preço dos medicamentos;\n\nj) Assegurar a recolha de dados económicos e estatísticos relativos ao sector do medicamento e produtos de saúde;\n\nk) Proceder à avaliação periódica do desempenho do sistema de comparticipações de medicamentos;\n\nl) Acompanhar a evolução dos preços dos medicamentos de uso humano, bem como os procedimentos relativos ao regime dos medicamentos comparticipados pelo Serviço Nacional de Saúde;\n\nm) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nn) Assegurar a articulação com a Comissão de Avaliação Terapêutica e Económica e o respetivo secretariado;\n\no) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\np) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições."
+  },
+  "183405731": {
+   "fragment_id": "183376064",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção de Gestão de Informação e Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direção de Gestão de Informação e Comunicação\n\nÀ Direção de Gestão de Informação e Comunicação, abreviadamente designada por DGIC, compete:\n\na) Apoiar o conselho diretivo em todos os assuntos de comunicação interna e externa;\n\nb) Recolher, tratar, produzir e divulgar informação sobre medicamentos e produtos de saúde, identificar e garantir a satisfação das necessidades de informação dos clientes internos e externos do INFARMED, I. P., e gerir a informação técnica e científica disponibilizada pelo INFARMED, I. P., tanto a nível nacional como internacional;\n\nc) Assegurar o rápido acesso a informação atualizada, clara e de qualidade por parte dos clientes externos;\n\nd) Assegurar a classificação, adequação e disponibilidade da informação de acordo com os níveis de acesso;\n\ne) Criar e manter canais de comunicação adequados a cada público-alvo;\n\nf) Garantir a intervenção do INFARMED, I. P., junto das instâncias europeias e internacionais, em articulação com os serviços ou entidades relevantes;\n\ng) Assegurar a publicação de todos os atos e decisões do INFARMED, I. P., de publicação obrigatória, quer no Diário da República quer na página eletrónica do INFARMED, I. P., quer, ainda, nos órgãos de comunicação social;\n\nh) Assegurar a receção, registo, classificação, distribuição e expedição de toda a documentação recebida e expedida do INFARMED, I. P.;\n\ni) Garantir a gestão documental e de fluxo de processos do INFARMED, I. P.;\n\nj) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nk) Assegurar a gestão e manutenção da informação no sítio do INFARMED, I. P., na Internet;\n\nl) Assegurar as atividades inerentes à regulamentação, organização e classificação, manutenção, disponibilização e conservação do arquivo do INFARMED, I. P., que não se enquadrem nas competências de outros serviços;\n\nm) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nn) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições."
+  },
+  "183405732": {
+   "fragment_id": "183376065",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção de Sistemas e Tecnologias de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direção de Sistemas e Tecnologias de Informação\n\nÀ Direção de Sistemas e Tecnologias de Informação, abreviadamente designada por DSTI, compete:\n\na) Garantir a gestão e atualização permanentes do Catálogo de Recursos de Informação, estabelecendo a gestão das arquiteturas aplicacional e de dados;\n\nb) Gerir a arquitetura infraestrutural, mantendo atualizada a sua descrição, nomeadamente no que diz respeito aos parques servidor, cliente, de comunicações e base de dados;\n\nc) Gerir os níveis de capacidade tecnológica inerentes às necessidades decorrentes dos processos de trabalho do INFARMED, I. P.;\n\nd) Administrar os parques, aplicacional, servidor, cliente, de comunicações de dados, de comunicações de voz e de equipamentos tecnológicos de cariz audiovisual;\n\ne) Prestar apoio aos utilizadores dos sistemas e tecnologias de informação e promover o estudo de novos métodos e ferramentas informáticos;\n\nf) Assegurar a conformidade legal de todos os parques tecnológicos instalados, em matéria de sistemas e tecnologias de informação, no que ao licenciamento e aquisição de direitos de utilização de software e hardware diz respeito;\n\ng) Planear, elaborar estudos e formular propostas conducentes ao desenvolvimento permanente dos sistemas de informação e comunicação;\n\nh) Promover a integração dos procedimentos operativos normalizados (PON) no âmbito do sistema de informação;\n\ni) Definir os interfaces com outros sistemas de informação da área da saúde, ao nível nacional e da União Europeia;\n\nj) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nk) Assegurar a representação do INFARMED, I. P., a nível comunitário e internacional em comissões e grupos de trabalho, no âmbito das suas competências."
+  },
+  "183405733": {
+   "fragment_id": "183376066",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção de Recursos Humanos, Financeiros e Patrimoniais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção de Recursos Humanos, Financeiros e Patrimoniais\n\nÀ Direção de Recursos Humanos, Financeiros e Patrimoniais, abreviadamente designada por DRHFP, compete:\n\na) Participar na definição das políticas financeira e orçamental;\n\nb) Executar a política financeira, orçamental e de aquisição de bens e serviços e obras;\n\nc) Elaborar o orçamento anual e de tesouraria e controlar e analisar periodicamente a sua execução;\n\nd) Elaborar a conta de gerência e o relatório financeiro anual;\n\ne) Efetuar a gestão de fundos e proceder à cobrança das receitas e ao pagamento das despesas;\n\nf) Organizar, elaborar e manter atualizados os registos patrimoniais e contabilísticos;\n\ng) Assegurar o registo e arquivo dos originais dos contratos geradores de responsabilidades ou direitos de natureza patrimonial ou financeira;\n\nh) Assegurar a gestão administrativa dos procedimentos de aquisição de bens e serviços e obras, em conformidade com as disposições legais;\n\ni) Assegurar a gestão de stocks e o aprovisionamento de bens e serviços necessários e adequados ao funcionamento do Instituto;\n\nj) Promover, assegurar e acompanhar a elaboração de projetos e a realização de obras;\n\nk) Assegurar a adequada manutenção e assistência técnica a bens, equipamentos, edifícios e instalações;\n\nl) Gerir o património imobiliário e mobiliário pertencentes ao INFARMED, I. P., bem como dos bens do Estado que lhe estão afetos;\n\nm) Assegurar a gestão dos sistemas de segurança e de comunicações das viaturas e dos espaços exteriores;\n\nn) Proceder ao arrendamento e locação de bens móveis e imóveis;\n\no) Participar na definição da política e assegurar a elaboração e gestão do plano de recursos humanos;\n\np) Organizar, elaborar e coordenar programas de desenvolvimento individual e organizacional;\n\nq) Assegurar a existência de métodos e de metodologias e a aplicação de instrumentos relativos ao recrutamento e seleção, ao acolhimento e integração de colaboradores, à gestão de carreiras e à avaliação do desempenho;\n\nr) Assegurar a existência de mecanismos de informação de pessoal;\n\ns) Gerir o sistema de saúde, higiene e segurança no trabalho;\n\nt) Assegurar o cumprimento de todas as obrigações legais em matéria de recursos humanos;\n\nu) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nv) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições."
+  },
+  "183405734": {
+   "fragment_id": "183376067",
+   "type": 11,
+   "heading": "Artigo 12.º — Gabinete de Planeamento e Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gabinete de Planeamento e Qualidade\n\nAo Gabinete de Planeamento e Qualidade, abreviadamente designado por GPQ, compete:\n\na) Assegurar as atividades inerentes ao planeamento e controlo de gestão, através da elaboração e disponibilização dos instrumentos de controlo de gestão do INFARMED, I. P., bem como do planeamento estratégico da sua atividade;\n\nb) Promover otimização da cultura de gestão voltada para o aumento da eficiência e da eficácia;\n\nc) Desenvolver e implementar instrumentos de suporte às decisões de gestão e estratégicas;\n\nd) Desenvolver e implementar políticas de gestão da qualidade na atividade do INFARMED, I. P.;\n\ne) Promover a certificação e acreditação dos serviços do INFARMED, I. P., segundo os mais elevados padrões aplicáveis à sua atividade;\n\nf) Garantir o controlo da gestão interna;\n\ng) Garantir a assessoria técnica especializada ao conselho diretivo, nomeadamente nas áreas de informação estratégica;\n\nh) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\ni) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições."
+  },
+  "183405735": {
+   "fragment_id": "183376068",
+   "type": 11,
+   "heading": "Artigo 13.º — Organismo notificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Organismo notificado\n\nAo organismo notificado, abreviadamente designado por ON, compete:\n\na) Avaliar a conformidade dos dispositivos médicos no quadro da legislação nacional e comunitária aplicável e das diretivas nova abordagem;\n\nb) Autorizar a aposição da marcação CE dos dispositivos médicos;\n\nc) Emitir os certificados CE de conformidade dos dispositivos médicos;\n\nd) Assegurar que o fabricante cumpre corretamente com as obrigações decorrentes do sistema de qualidade aprovado;\n\ne) Cooperar com as autoridades competentes nacionais, designadamente dos Estados membros da União Europeia no âmbito do sistema europeu de avaliação de dispositivos médicos;\n\nf) Cooperar com os organismos notificados, designadamente dos Estados membros da União Europeia."
+  },
+  "183405736": {
+   "fragment_id": "183376069",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete Jurídico e de Contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gabinete Jurídico e de Contencioso\n\nAo Gabinete Jurídico e de Contencioso, abreviadamente designado por GJC, compete:\n\na) Assegurar a assessoria jurídica ao conselho diretivo e aos demais serviços do INFARMED, I. P.;\n\nb) Garantir a aplicação do direito de mera ordenação social na parte não cometida à Direção de Inspeção e Licenciamentos;\n\nc) Assegurar a atividade de contencioso do INFARMED, I. P.;\n\nd) Realizar estudos relativos às alterações à legislação em vigor no domínio da atividade do INFARMED, I. P., bem como assegurar a produção legislativa na sua área de intervenção;\n\ne) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nf) Emitir pareceres, responder a consultas e, de um modo geral, elaborar os estudos e documentos de natureza jurídica no âmbito da atividade do INFARMED, I. P.;\n\ng) Verificar a regularidade e legalidade dos contratos e negócios relativos à propriedade de farmácia;\n\nh) Assegurar a informação e o apoio necessários à preparação e acompanhamento dos processos, designadamente judiciais e administrativos, em que esteja envolvido o INFARMED, I. P., ou qualquer dos seus serviços;\n\ni) Propor a instauração e assegurar a instrução dos processos relativos à aplicação do direito de mera ordenação social que sejam da sua competência;\n\nj) Emitir certidões sobre processos que lhe estão confiados;\n\nk) Colaborar na elaboração de regulamentos internos;\n\nl) Apoiar a negociação dos instrumentos de regulamentação coletiva de trabalho e bem como o relacionamento com as associações sindicais representativas dos trabalhadores do INFARMED, I. P.;\n\nm) Assegurar o acompanhamento da evolução do direito comunitário e dos assuntos regulamentares em domínios que importem às áreas de atribuições do INFARMED, I. P., bem como coordenar os processos de transposição das diretivas comunitárias para o direito interno e assegurar os aspetos de aplicação da legislação relevantes à prática regulamentar;\n\nn) Participar nos fora internacionais sobre assuntos regulamentares."
+  },
+  "183405737": {
+   "fragment_id": "183376070",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DO INFARMED - AUTORIDADE NACIONAL DO MEDICAMENTO E PRODUTOS DE SAÚDE, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DO INFARMED - AUTORIDADE NACIONAL DO MEDICAMENTO E PRODUTOS DE SAÚDE, I. P."
+  },
+  "183405757": {
+   "fragment_id": "183376071",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna do INFARMED, I. P., é constituída pelas seguintes unidades orgânicas:\n\na) Direção de Avaliação de Medicamentos;\n\nb) Direção de Gestão do Risco de Medicamentos;\n\nc) Direção de Produtos de Saúde;\n\nd) Direção de Inspeção e Licenciamentos;\n\ne) Direção de Comprovação da Qualidade;\n\nf) Direção de Avaliação das Tecnologias de Saúde;\n\ng) Direção de Gestão de Informação e Comunicação;\n\nh) Direção de Sistemas e Tecnologias de Informação;\n\ni) Direção de Recursos Humanos, Financeiros e Patrimoniais;\n\nj) Gabinete de Planeamento e Qualidade;\n\nk) Direção de Informação e Planeamento Estratégico;\n\nl) Gabinete Jurídico e de Contencioso.\n\n2. Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até catorze unidades orgânicas flexíveis, integradas ou não nas direções a que se refere o número anterior, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação no Diário da República.\n\n3. [Revogado.]\n\n4. [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "183405758": {
+   "fragment_id": "183376072",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1. As direções e o Gabinete de Planeamento e Qualidade são dirigidos por diretores de direção, cargos de direção intermédia de 1.º grau.\n\n2. O Gabinete Jurídico e de Contencioso e as unidades orgânicas flexíveis são dirigidos por diretores de unidade, cargos de direção intermédia de 2.º grau..\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "183405740": {
+   "fragment_id": "183376073",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Avaliação de Medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Avaliação de Medicamentos\n\nÀ Direção de Avaliação de Medicamentos, abreviadamente designada por DAM, compete:\n\na) Assegurar as atividades necessárias aos procedimentos de registo, avaliação da sua eficácia, segurança e qualidade, e de autorização de introdução no mercado de medicamentos de uso humano e à sua manutenção no mercado, bem como a gestão desses procedimentos;\n\nb) Gerir as atividades relativas à intervenção do INFARMED, I. P., no procedimento de reconhecimento mútuo e descentralizado, nomeadamente como Estado membro de referência e nos procedimentos centralizado e de arbitragem comunitária;\n\nc) Emitir pareceres de âmbito técnico-científico sobre a qualidade, segurança e eficácia dos medicamentos de uso humano, bem como sobre os produtos que incorporam substâncias ativas ou produtos biológicos;\n\nd) Assegurar o desenvolvimento das atividades inerentes à avaliação da qualidade, eficácia e segurança dos medicamentos, incluindo os experimentais, nas áreas da química, da biologia, da tecnologia farmacêutica e da toxicologia, bem como no âmbito de ensaios clínicos e avaliação de relatórios periódicos de segurança;\n\ne) Assegurar as atividades necessárias aos procedimentos de avaliação e autorização dos pedidos de autorização de utilização especial e excecional, bem como de importações paralelas, de medicamentos de uso humano;\n\nf) Assegurar as atividades inerentes à adequada integração e participação no âmbito do sistema da União Europeia relativo à avaliação e supervisão de medicamentos de uso humano, incluindo a articulação com a Agência Europeia de Medicamentos (EMA), a Comissão Europeia e as demais instituições europeias;\n\ng) Assegurar as atividades necessárias ao cumprimento das normas aplicáveis à autorização e condução de ensaios clínicos, bem como o controlo da observância das boas práticas clínicas na sua realização, incluindo a gestão dos procedimentos tendentes a essa autorização, e suas alterações, e dos de controlo e monitorização desses ensaios;\n\nh) Gerir os procedimentos relativos à concessão de autorizações de utilização especial dos medicamentos experimentais no âmbito dos ensaios clínicos de uso humano;\n\ni) Assegurar a articulação com a comissão de avaliação de medicamentos e o respetivo secretariado;\n\nj) Assegurar a articulação com os sistemas de informação nacionais e europeus no âmbito das suas competências;\n\nk) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nl) Coordenar as atividades de normalização e harmonização de conceitos, definições e terminologias relacionadas com os medicamentos;\n\nm) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nn) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições, nomeadamente nas estruturas e grupos de trabalho comunitários e junto da Agência Europeia de Medicamentos, no âmbito das suas competências."
+  },
+  "183405759": {
+   "fragment_id": "183376061",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Inspeção e Licenciamentos",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 6.º — Direção de Inspeção e Licenciamentos\n\nÀ Direção de Inspeção e Licenciamentos, abreviadamente designada por DIL, compete:\n\na) Elaborar e propor regras técnicas de instalação e funcionamento dos fabricantes, grossistas, farmácias, serviços farmacêuticos hospitalares públicos e privados e locais de venda de medicamentos não sujeitos a receita médica (MNSRM), incluindo a definição dos recursos humanos e técnicos mínimos indispensáveis;\n\nb) Assegurar as atividades necessárias ao licenciamento dos fabricantes, grossistas e farmácias, bem como dos serviços farmacêuticos hospitalares públicos e privados, e o registo dos locais de venda de MNSRM;\n\nc) Assegurar as atividades e iniciativas necessárias à inspeção das atividades de investigação e desenvolvimento, dos produtores de matérias-primas de uso farmacêutico, fabricantes, grossistas, farmácias, serviços farmacêuticos públicos e privados e dos locais de venda de MNSRM, bem como a outros agentes intervenientes no circuito do medicamento e dos produtos de saúde, e à verificação da conformidade da produção e comercialização de medicamentos e produtos de saúde com as normas aplicáveis;\n\nd) Assegurar as atividades inerentes ao sistema de alerta rápido relativo a medicamentos e produtos de saúde;\n\ne) Assegurar as competências em matéria de fiscalização da publicidade, da rotulagem e do folheto informativo, dos medicamentos e dos produtos de saúde;\n\nf) Assegurar a representação e a colaboração do INFARMED, I. P., nas ações de inspeção farmacêutica a nível internacional, incluindo os acordos de reconhecimento mútuo;\n\ng) Assegurar o desempenho das obrigações de inspeção de farmacovigilância e de inspeção das boas práticas clínicas associadas aos ensaios clínicos com medicamentos e produtos de saúde;\n\nh) Propor a instauração e assegurar a instrução dos processos relativos à aplicação do direito de mera ordenação social que sejam da sua competência;\n\ni) Assegurar o cumprimento das obrigações internacionais do Estado Português junto da Organização das Nações Unidas e as atividades inerentes ao licenciamento dos agentes que intervêm no circuito dos estupefacientes e psicotrópicos e à fiscalização das atividades autorizadas de cultivo, produção, fabrico, emprego, comércio por grosso, distribuição, importação, exportação, trânsito, aquisição, venda, entrega e detenção de plantas, substâncias e preparações de utilização restrita;\n\nj) Assegurar a organização e a gestão integrada do arquivo técnico do INFARMED, I. P., relativo a processos de farmácias, armazéns e laboratórios de medicamentos e produtos de saúde e de produtos e substâncias de utilização controlada;\n\nk) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas competências;\n\nl) Elaborar pareceres relativos ao licenciamento industrial de atividades de matérias-primas de uso farmacêutico e de fabrico de medicamentos;\n\nm) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nn) Assegurar a competência do INFARMED, I. P., para a monitorização das boas práticas de laboratório, de acordo com os princípios da OCDE;\n\no) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "183405760": {
+   "fragment_id": "183376062",
+   "type": 11,
+   "heading": "Artigo 7.º — Direção de Comprovação da Qualidade",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 7.º — Direção de Comprovação da Qualidade\n\nÀ Direção de Comprovação da Qualidade, abreviadamente designada por DCQ, compete:\n\na) Participar no sistema de garantia da qualidade dos medicamentos, assegurando o controlo analítico dos medicamentos no mercado, bem como dos produtos de saúde;\n\nb) Proceder à libertação oficial de lotes de medicamentos de origem biológica;\n\nc) Apoiar a avaliação da qualidade e segurança fármaco-toxicológica no âmbito da concessão de autorizações de introdução no mercado de medicamentos;\n\nd) [Revogada.]\n\ne) Participar em estudos de colaboração com outras entidades oficiais, nacionais ou estrangeiras, em processos de reconhecimento mútuo, verificação de métodos e padrões de referência;\n\nf) Assegurar e promover atividades de investigação científica no domínio da qualidade e segurança dos medicamentos e produtos de saúde, nomeadamente através do desenvolvimento de programas específicos e de colaboração com outras instituições;\n\ng) [Revogada.]\n\nh) Realizar estudos no âmbito das matérias-primas, formulação e desenvolvimento fármaco-tecnológico, produção e controlo de medicamentos, para entidades públicas e privadas;\n\ni) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nj) Coordenar atividades de investigação e desenvolvimento promovidas em parceria com outras instituições científicas, nacionais e estrangeiras;\n\nk) Colaborar na prestação de assessoria científica, quer ao nível interno quer externo, em projetos e atividades de natureza científica;\n\nl) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nm) Assegurar a participação na Rede Europeia dos Laboratórios Oficiais de Controlo da Qualidade dos Medicamentos;\n\nn) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições, incluindo na Farmacopeia Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "183405761": {
+   "fragment_id": "183376063",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Avaliação das Tecnologias de Saúde",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 8.º — Direção de Avaliação das Tecnologias de Saúde\n\nÀ Direção de Avaliação das Tecnologias de Saúde, abreviadamente designada por DATS, compete:\n\na) Assegurar a gestão do Sistema Nacional de Avaliação de Tecnologias de Saúde (SiNATS);\n\nb) Assegurar a gestão e operacionalidade do Sistema de Informação para Avaliação das Tecnologias de Saúde;\n\nc) Assegurar as atribuições do INFARMED, I. P., em matéria de comparticipação de tecnologias de saúde pelo Serviço Nacional de Saúde, designadamente através da análise e promoção de estudos de avaliação económica para apoio à decisão de comparticipação;\n\nd) Assegurar as atividades do INFARMED, I. P., em matéria da avaliação prévia de tecnologias de saúde;\n\ne) Assegurar as atribuições do INFARMED, I. P., em matéria de preço de venda ao público de tecnologias de saúde;\n\nf) Proceder à identificação prospetiva das inovações em matéria de tecnologia de saúde e avaliar o seu possível impacto na saúde pública e no Serviço Nacional de Saúde;\n\ng) Colaborar com entidades nacionais e internacionais na realização de estudos na área das tecnologias de saúde, nomeadamente as que decorram da execução de estratégias de desenvolvimento do setor;\n\nh) Assegurar a execução de políticas de controlo e avaliação do mercado das tecnologias de saúde, com particular incidência nas comparticipadas;\n\ni) Proceder à avaliação periódica do desempenho do sistema de avaliação de tecnologias de saúde;\n\nj) Acompanhar a evolução dos preços das tecnologias de saúde, bem como os procedimentos relativos ao regime dos medicamentos comparticipados pelo Serviço Nacional de Saúde;\n\nk) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nl) Assegurar a articulação com as comissões técnicas do INFARMED, I. P. com competências na área das tecnologias de saúde, bem como assegurar o respetivo secretariado executivo;\n\nm) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nn) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.\n\no) [Revogada.]\n\np) [Revogada.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "183405762": {
+   "fragment_id": "183376068",
+   "type": 11,
+   "heading": "Artigo 13.º — Direção de Informação e Planeamento Estratégico",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 13.º — Direção de Informação e Planeamento Estratégico\n\nÀ Direção de Informação e Planeamento Estratégico, abreviadamente designado por DIPE, compete:\n\na) Recolher e tratar os dados relativos ao mercado de medicamentos e produtos de saúde;\n\nb) Monitorizar a acessibilidade, os circuitos e condições de acesso dos cidadãos aos medicamentos e produtos de saúde, através da análise, promoção e realização de estudos para o controlo e avaliação do mercado;\n\nc) Monitorizar e avaliar a utilização de medicamentos e identificar áreas de promoção do uso racional de medicamentos;\n\nd) Acompanhar as medidas de política de saúde no âmbito das atribuições do INFARMED, I. P., aplicadas no contexto internacional e avaliar a sua aplicabilidade em Portugal;\n\ne) Estudar e propor a adoção de medidas que assegurem a sustentabilidade do setor;\n\nf) Apoiar o conselho diretivo no planeamento e a estratégia de atuação no setor do medicamento e produtos de saúde;\n\ng) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nh) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "901452048": {
+   "fragment_id": "183376071",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2025-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna do INFARMED, I. P., é constituída pelas seguintes unidades orgânicas:\n\na) Direção de Avaliação de Medicamentos;\n\nb) Direção de Gestão do Risco de Medicamentos;\n\nc) Direção de Produtos de Saúde;\n\nd) Direção de Inspeção e Licenciamentos;\n\ne) Direção de Comprovação da Qualidade;\n\nf) Direção de Avaliação das Tecnologias de Saúde;\n\ng) Direção de Gestão de Informação e Comunicação;\n\nh) Direção de Sistemas e Tecnologias de Informação;\n\ni) Direção de Recursos Humanos, Financeiros e Patrimoniais;\n\nj) Gabinete de Planeamento e Qualidade;\n\nk) Direção de Informação e Planeamento Estratégico;\n\nl) Gabinete Jurídico e de Contencioso.\n\n2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até 27 (vinte e sete) unidades orgânicas flexíveis, integradas ou não nas direções a que se refere o número anterior, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação no Diário da República.\n\n3. [Revogado.]\n\n4. [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "901452049": {
+   "fragment_id": "183376072",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": "2025-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 - As unidades orgânicas previstas no n.º 1 do artigo 1.º são dirigidos por diretores, cargos de direção intermédia de 1.º grau.\n\n2 - As unidades orgânicas flexíveis, previstas no n.º 2 do artigo 1.º, são dirigidas por diretores de unidade, cargos de direção intermédia de 2.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "901452050": {
+   "fragment_id": "183376063",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Avaliação das Tecnologias de Saúde",
+   "in_force_from": "2025-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 8.º — Direção de Avaliação das Tecnologias de Saúde\n\nÀ Direção de Avaliação das Tecnologias de Saúde, abreviadamente designada por DATS, compete:\n\na) Assegurar a gestão do Sistema Nacional de Avaliação de Tecnologias de Saúde (SiNATS);\n\nb) Assegurar a gestão e operacionalidade do Sistema de Informação para Avaliação das Tecnologias de Saúde;\n\nc) Assegurar as atribuições do INFARMED, I. P., em matéria de comparticipação de tecnologias de saúde pelo Serviço Nacional de Saúde, designadamente através da análise e promoção de estudos de avaliação económica para apoio à decisão de comparticipação;\n\nd) Assegurar as atividades do INFARMED, I. P., em matéria da avaliação prévia de tecnologias de saúde;\n\ne) Assegurar as atribuições do INFARMED, I. P., em matéria de preço de venda ao público de tecnologias de saúde;\n\nf) Proceder à identificação prospetiva das inovações em matéria de tecnologia de saúde, incluindo no âmbito do quadro regulamentar europeu, de monitorização de tecnologias emergentes, e avaliar o seu possível impacto na saúde pública e no Serviço Nacional de Saúde;\n\ng) Colaborar com entidades nacionais e internacionais na realização de estudos na área das tecnologias de saúde, nomeadamente as que decorram da execução de estratégias de desenvolvimento do setor;\n\nh) Assegurar a execução de políticas de controlo e avaliação do mercado das tecnologias de saúde, com particular incidência nas comparticipadas;\n\ni) Proceder à avaliação periódica do desempenho do sistema de avaliação de tecnologias de saúde;\n\nj) Acompanhar a evolução dos preços das tecnologias de saúde, bem como os procedimentos relativos ao regime dos medicamentos comparticipados pelo Serviço Nacional de Saúde;\n\nk) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nl) Assegurar a articulação com as comissões técnicas do INFARMED, I. P. com competências na área das tecnologias de saúde, bem como assegurar o respetivo secretariado executivo;\n\nm) Colaborar nas atividades de aconselhamento regulamentar e científico;\n\nn) (Revogada.)\n\no) [Revogada.]\n\np) [Revogada.]\n\nq) Assegurar, em matéria da avaliação de tecnologias de saúde, as atribuições decorrentes do quadro comunitário de avaliação clínica de tecnologias de saúde e de realização de consultas científicas conjuntas;\n\nr) Assegurar a intervenção em procedimentos voluntários de cooperação europeia, nomeadamente cooperações regionais, em matérias de avaliação de tecnologias de saúde e de preços e negociações conjuntas, visando promover a sustentabilidade e acesso aos medicamentos e produtos de saúde;\n\ns) Intervir em iniciativas e projetos tendentes à discussão de novos modelos de pagamento em conexão com processos de aquisições conjuntas;\n\nt) Reforçar e otimizar, na área da geração de evidência, a recolha de dados, assente na transformação digital, e cooperar para transformar os dados em evidência que apoie reguladores, avaliação de tecnologias de saúde, pagadores, decisores clínicos e doentes de modo a melhorar a eficiência e os resultados em saúde;\n\nu) Promover a melhor articulação nas ações de colaboração conjunta das autoridades nacionais competentes em matéria de preços e comparticipação, a fim de reforçar a partilha e análise de matérias comuns e a definição de metodologias de trabalho que assegurem a articulação e a continuidade de agenda entre as presidências da União Europeia;\n\nv) Assegurar, ainda, qualquer representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/306-2015-70361621), em vigor a partir de 2015-09-24"
+  },
+  "901452051": {
+   "fragment_id": "183376067",
+   "type": 11,
+   "heading": "Artigo 12.º — Gabinete de Planeamento e Qualidade",
+   "in_force_from": "2025-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04"
+   ],
+   "markdown": "###### Artigo 12.º — Gabinete de Planeamento e Qualidade\n\nAo Gabinete de Planeamento e Qualidade, abreviadamente designado por GPQ, compete:\n\na) Assegurar as atividades inerentes ao planeamento e controlo de gestão, através da elaboração e disponibilização dos instrumentos de controlo de gestão do INFARMED, I. P., bem como do planeamento estratégico da sua atividade;\n\nb) Promover otimização da cultura de gestão voltada para o aumento da eficiência e da eficácia;\n\nc) Desenvolver e implementar instrumentos de suporte às decisões de gestão e estratégicas;\n\nd) Desenvolver e implementar políticas de gestão da qualidade na atividade do INFARMED, I. P.;\n\ne) Promover a certificação e acreditação dos serviços do INFARMED, I. P., segundo os mais elevados padrões aplicáveis à sua atividade;\n\nf) Garantir o controlo da gestão interna;\n\ng) Assegurar a área de gestão do risco organizacional e auditorias, garantindo cumprimento da legislação sobre a matéria designadamente na área do plano de prevenção de riscos;\n\nh) Garantir a assessoria técnica especializada ao conselho diretivo, nomeadamente nas áreas de informação estratégica;\n\ni) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;\n\nj) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2025/1 - Diário da República n.º 2/2025, Série I de 2025-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/4-2025-901998026), em vigor a partir de 2025-01-04"
+  }
+ }
+}

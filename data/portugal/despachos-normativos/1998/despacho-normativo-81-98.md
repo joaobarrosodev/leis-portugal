@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:221744:por
+title: Despacho Normativo n.º 81/98
+short_title: null
+summary: Institui um programa de apoios financeiros à actividade das estruturas associativas de turismo
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 81/98
+official_date: null
+publication_date: '1998-12-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 283/1998, Série I-B de 1998-12-09
+  number: '283'
+  series: I
+  supplement: null
+  pages: 6721 - 6723
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/283b00/67216723.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/81/1998/12/09/p/dre/pt/html
+  oj: null
+  dre: '221744'
+  dre_path: /dr/detalhe/despacho-normativo/81-1998-221744
+  internal: pt:dre:221744:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/81-1998-221744
+  metadata_url: https://data.dre.pt/eli/despnorm/81/1998/12/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/81-1998-221744
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-12-17T00:00:00Z'
+integrity:
+  source_sha256: 187f12c8d68b7318f965378c9fe3f868efb1219ec26a1758887ae3324d06c9ab
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-81-221744.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Empresa
+- Turismo
+- Promoção Turística
+- Desenvolvimento Regional
+- Apoio ao Investimento
+- Projeto de Investimento
+- Fundo de Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:265566:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/247/1995/09/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/1995/09/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 81/98
+
+Os órgãos regionais e locais de turismo desempenham um papel relevante na animação e promoção turística das respectivas regiões, constituindo meios de valorização e aproveitamento das potencialidades dos recursos naturais e do património histórico e cultural das referidas regiões, sublinhando-se ainda o seu contributo para o reforço da capacidade empresarial.
+
+Justifica-se, pois, a atribuição de apoios financeiros à actividade dos órgãos regionais e locais de turismo, a conceder pelo Fundo de Turismo.
+
+Assim:
+
+Ao abrigo da alínea b) do artigo 3.º do [Decreto-Lei n.º 247/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1995-566808), de 20 de Setembro, e no exercício da competência que me foi delegada pelo despacho do Ministro da Economia n.º 13169/97, de 10 de Dezembro, publicado no Diário da República, 2.ª série, n.º 295, de 23 de Dezembro de 1997, determino:
+
+1 - São susceptíveis de apoio financeiro, a conceder pelo Fundo de Turismo, os seguintes projectos, a executar pelos órgãos regionais ou locais de turismo:
+
+a) Recolha, sistematização e divulgação de informação técnica e económica relevante para o sector do turismo, designadamente através da edição de publicações especializadas, da criação de bases de dados informatizados e de seminários, bem como a elaboração e edição de estudos técnicos e económicos de relevância sectorial, designadamente estudos de mercado, inovação da gestão e novas tecnologias aplicáveis à actividade turística;
+
+b) Acções de divulgação dos instrumentos financeiros e respectivo quadro legal e apoio às empresas com actividade na área geográfica respeitante ao órgão regional ou local de turismo;
+
+c) Aquisição ou modernização das instalações, desde que estes projectos estejam directamente associados às acções de divulgação, informação e formação e à constituição de gabinetes de apoio específico aos investidores;
+
+d) Participação em missões técnicas internas ou no estrangeiro;
+
+e) Contratação de técnicos especializados para desempenho de actividades de apoio técnico ou formação.
+
+2 - Os promotores deverão preencher, cumulativamente, os seguintes requisitos de acesso aos incentivos a conceder:
+
+a) Encontrarem-se legalmente constituídos à data da apresentação das candidaturas;
+
+b) Desenvolver todas ou algumas das actividades enunciadas no número anterior;
+
+c) Possuir estrutura técnica e recursos humanos qualificados, ou vir a possuir através do projecto, que lhe confiram a capacidade técnica para a execução do projecto;
+
+d) Disporem de contabilidade organizada, nos termos da lei;
+
+e) Terem a sua situação regularizada perante o Fundo de Turismo, a segurança social e as finanças.
+
+3 - Constituem condições de acesso do projecto:
+
+a) Enquadramento do projecto num programa plurianual de acções do promotor;
+
+b) Não ter sido iniciada a sua realização até um ano antes da data de apresentação da candidatura e não estar realizado em mais de 40%.
+
+4.1 - O incentivo a conceder aos projectos previstos nas alíneas a) a d) do n.º 1 assume a forma de uma comparticipação financeira a fundo perdido, correspondente a 50% do investimento elegível, desde que o somatório dos incentivos não ultrapasse 15000 contos por ano e por promotor, sem prejuízo do disposto no número seguinte.
+
+4.2 - Os projectos previstos na alínea e) do n.º 1 são apoiados com comparticipação financeira a fundo perdido equivalente a 28 meses de salário, até ao limite de 7000 contos por ano.
+
+4.3 - Os incentivos previstos nos n.os 4.1 e 4.2 são cumuláveis.
+
+5.1 - Para efeitos de cálculo do incentivo, consideram-se elegíveis as despesas de investimento com:
+
+a) Assistência técnica externa relativa à elaboração do programa plurianual de acções, até ao limite de 10% do valor total do projecto;
+
+b) Aquisição de bibliografia e de documentação técnica e económica, nomeadamente através do acesso permanente a bases de dados;
+
+c) Produção e distribuição de informação especializada em suporte escrito, áudio-visual ou informático;
+
+d) Organização de seminários, congressos ou outros encontros de natureza similar;
+
+e) Realização de estudos e monografias de carácter sectorial;
+
+f) Deslocação e alojamento de técnicos envolvidos na concretização das acções;
+
+g) Custo de deslocação e alojamento, de um número não superior a dois elementos, para garantir a presença do órgão em reuniões de trabalho ou missões internas ou externas que revistam carácter económico, financeiro ou científico;
+
+h) Contratação ou manutenção de técnicos especializados (salários e encargos sociais obrigatórios), em número não superior a dois, em regime permanente durante dois anos, para o exercício das acções previstas nas alíneas a) e b) do n.º 1 do presente diploma.
+
+5.2 - As despesas de investimento enunciadas no número anterior só serão comparticipáveis desde que traduzam aquisições de bens ou serviços a terceiros, sem prejuízo de poder ser considerada, desde que devidamente justificada, uma imputação de custos internos, até ao limite de 10% do valor das despesas de investimento, nos casos previstos nas alíneas a, c), d) e e) do mesmo número.
+
+6 - A libertação do incentivo será efectuada pelo Fundo de Turismo em função dos documentos justificativos das despesas realizadas, ou por adiantamentos contra a apresentação de garantias bancárias, nos termos do contrato previsto nos n.os 9.1 e 9.2.
+
+7 - Os processos de candidatura são apresentados no Fundo de Turismo, instruídos com os elementos seguintes:
+
+a) Formulário de candidatura devidamente preenchido;
+
+b) Documentos comprovativos da sua constituição;
+
+c) Descrição pormenorizada do projecto, incluindo a respectiva calendarização, indicando qual a alínea do n.º 1 do presente diploma em que se integra, bem como a sua adequação ao programa de acções plurianuais (a incluir);
+
+d) Custo do investimento associado ao projecto, devidamente comprovado por orçamentos;
+
+e) Documentos comprovativos de que possui a situação regularizada perante a segurança social, as finanças e o Fundo de Turismo;
+
+f) Declaração do promotor em como tem a contabilidade organizada nos termos do regime legal aplicável.
+
+8.1 - O Fundo de Turismo analisará as candidaturas no prazo de 20 dias, submetendo as propostas de decisão a homologação do Secretário de Estado do Turismo.
+
+8.2 - O prazo referido no número anterior ficará suspenso, caso sejam solicitados esclarecimentos considerados indispensáveis.
+
+8.3 - O Fundo de Turismo comunicará ao promotor, no prazo de três dias, a decisão final que recair sobre a candidatura.
+
+9.1 - Os incentivos a conceder ao abrigo do presente diploma serão objecto de um contrato a celebrar entre o Fundo de Turismo e as entidades promotoras dos projectos.
+
+9.2 - Os contratos a celebrar deverão conter cláusulas relativas aos objectos do projecto, ao montante dos incentivos e à forma de libertação destes, à renegociação das acções a desenvolver, bem como dos demais direitos e deveres das partes, incluindo o acompanhamento e verificação dos projectos.
+
+Ministério da Economia, 10 de Novembro de 1998. - O Secretário de Estado do Turismo, Vítor José Cabrita Neto.

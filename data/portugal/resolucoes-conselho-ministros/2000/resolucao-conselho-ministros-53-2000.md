@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:303274:por
+title: Resolução do Conselho de Ministros n.º 53/2000
+short_title: null
+summary: Aprova a minuta do contrato de investimento e de concessão de incentivos financeiros a celebrar entre o IAPMEI -
+  Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento e Drink In - Companhia de Indústria e Bebidas e Alimentação,
+  S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 53/2000
+official_date: null
+publication_date: '2000-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 144/2000, Série I-B de 2000-06-24
+  number: '144'
+  series: I
+  supplement: null
+  pages: 2708 - 2709
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/06/144b00/27082709.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/53/2000/06/24/p/dre/pt/html
+  oj: null
+  dre: '303274'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/53-2000-303274
+  internal: pt:dre:303274:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2000-303274
+  metadata_url: https://data.dre.pt/eli/resolconsmin/53/2000/06/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-2000-303274
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-14T00:00:00Z'
+integrity:
+  source_sha256: 82ba725c32208a5c34f1c551c0ca26fd6c72f7b3cc3ffaefa3598c7231c499d7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-53-303274.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato de Investimento
+- Apoio ao Investimento
+- Indústria Cervejeira
+- Investimento Estrangeiro
+- Modernização Industrial
+- Benefícios Fiscais
+relationships:
+- type: amended_by
+  target: pt:dre:553462:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/409/1999/10/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/409/1999/10/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 53/2000
+
+A Drink In - Companhia de Indústria de Bebidas e Alimentação, S. A., resolveu desenvolver um projecto para a instalação de uma unidade industrial de fabrico de cerveja em Portugal, enquadrado no seu plano estratégico empresarial.
+
+O projecto contempla não só a instalação de uma fábrica de cerveja mas também de outras bebidas, nomeadamente refrigerantes e águas e outros produtos conexos que permitam uma maior rentabilização e um melhor aproveitamento das sinergias da estrutura de distribuição.
+
+O objectivo da Drink In, S. A., consiste em alcançar, em 2007, uma capacidade da ordem dos 975000 hl (hectolitros/ano), dos quais 80% serão dirigidos ao mercado nacional, correspondendo a uma quota de mercado de 12,5% e os restantes 20% ao mercado de exportação, vertente em que a empresa pretende apostar fortemente.
+
+A empresa será dotada de uma linha de produção de cervejas de elevado potencial tecnológico e reforçará a cadeia de valor existente no sector, posicionando-se num lugar privilegiado se atendermos aos factores tecnológicos versus redução de custos e à marca inovadora no mercado de bebidas tradicionais.
+
+O projecto de criação de uma unidade de raiz envolverá um investimento da ordem dos 12,2 milhões de contos e a criação de 150 postos de trabalho directos até 2007.
+
+Face ao acima exposto, considera-se que o projecto reúne as condições necessárias à admissão ao regime contratual de investimento e à concessão de incentivos financeiros e benefícios fiscais previsto no [Decreto-Lei n.º 409/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1999-667137), de 15 de Outubro.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Aprovar as minutas do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pelo IAPMEI - Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento e a sociedade anónima Drink In - Companhia de Indústria de Bebidas e Alimentação, S. A., com sede na Quinta Mafarra, freguesia da Várzea, em Santarém, com o capital social de 120289200$00, para a realização de um projecto de inovação, modernização e expansão industrial.
+
+2 - Atento o disposto no n.º 1 do artigo 49.º-A do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, na redacção que lhe foi dada pela [Lei n.º 87-B/98](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), de 31 de Dezembro, e por força do artigo 8.º do [Decreto-Lei n.º 409/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1999-667137), de 15 de Outubro, sob proposta do Ministro das Finanças, conceder os benefícios fiscais em sede de imposto sobre o rendimento das pessoas colectivas, contribuição autárquica, sisa e imposto do selo que constam do contrato de concessão de benefícios fiscais, cuja minuta, rubricada pelo Ministro das Finanças, ficará arquivada no IAPMEI.
+
+Presidência do Conselho de Ministros, 1 de Junho de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

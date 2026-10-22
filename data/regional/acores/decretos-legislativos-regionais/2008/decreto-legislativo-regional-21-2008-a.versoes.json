@@ -1,0 +1,305 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:456570:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-107722738",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2008-456570",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107730831",
+    "107730832",
+    "107730833",
+    "107730834",
+    "107730835",
+    "107730836",
+    "107730837",
+    "107730838",
+    "107730839",
+    "107730840",
+    "107730841",
+    "107730842",
+    "107730843",
+    "107730844",
+    "107730845",
+    "107730846",
+    "107730847",
+    "107730848",
+    "107730849",
+    "107730850",
+    "107730851",
+    "107730852",
+    "107730853",
+    "107730854",
+    "107730855"
+   ]
+  },
+  {
+   "date": "2011-04-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:277371:por",
+     "title": "Decreto Legislativo Regional n.º 12/2011/A",
+     "published": "2011-04-21",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2011-277371"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107730831",
+    "107730832",
+    "107730833",
+    "107730834",
+    "107731487",
+    "107730836",
+    "107730837",
+    "107730838",
+    "107730839",
+    "107730840",
+    "107730841",
+    "107730842",
+    "107730843",
+    "107730844",
+    "107730845",
+    "107730846",
+    "107730847",
+    "107730848",
+    "107730849",
+    "107730850",
+    "107730851",
+    "107730852",
+    "107730853",
+    "107730854",
+    "107730855",
+    "107730856"
+   ]
+  }
+ ],
+ "fragments": {
+  "107730831": {
+   "fragment_id": "107722739",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/2008/A\n\nOrganização do sector vitivinícola na Região Autónoma dos Açores\n\nConsiderando as especificidades do sector vitivinícola da Região Autónoma dos Açores, nomeadamente a sua pequena dimensão, a forma de produção e a dispersão geográfica existente e ainda a importância histórica, económica, social e cultural, que reflecte uma realidade própria e específica regional;\n\nConsiderando a necessidade de estabelecer uma organização para o sector vitivinícola regional e uma regulamentação para o reconhecimento, protecção, controlo, certificação e utilização das denominações de origem e indicações geográficas, que tenham em consideração as especificidades deste sector na Região;\n\nConsiderando a importância de modernizar as unidades de transformação, apoiar as acções de reestruturação e modernização das explorações e investir na modernização das áreas vitícolas, bem como impulsionar acções de promoção de vinhos com denominação de origem.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:"
+  },
+  "107730832": {
+   "fragment_id": "107722740",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107730833": {
+   "fragment_id": "107722741",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece a organização do sector vitivinícola na Região Autónoma dos Açores."
+  },
+  "107730834": {
+   "fragment_id": "107722742",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) «Denominação de origem (DO)» o nome geográfico de uma ilha ou local determinado, ou uma denominação tradicional, associada a uma origem geográfica ou não, que serve para designar ou identificar um produto vitivinícola originário de uvas provenientes dessa ilha ou desse local determinado e cuja qualidade ou características se devem, essencial ou exclusivamente, ao meio geográfico, incluindo os factores naturais e humanos, e cuja vinificação e elaboração ocorrem no interior daquela área geográfica delimitada;\n\nb) «Indicação geográfica (IG)» nome da Região Autónoma dos Açores que serve para designar produtos vitivinícolas originários de uvas provenientes em pelo menos 85 % da Região, ou uma denominação tradicional, associada a uma origem geográfica ou não, cuja reputação, determinada qualidade ou outra característica podem ser atribuídas a esta origem geográfica e cuja vinificação ocorre na Região;\n\nc) «Entidade certificadora» Comissão Vitivinícola Regional dos Açores (CVR Açores), a quem compete certificar vinhos, promover, defender e controlar a denominação de origem (DO) e a indicação geográfica (IG)."
+  },
+  "107730835": {
+   "fragment_id": "107722743",
+   "type": 11,
+   "heading": "Artigo 3.º — Denominações de origem e indicações geográficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Denominações de origem e indicações geográficas\n\n1 - Uma DO pode ser empregue relativamente a:\n\na) Vinhos de qualidade produzidos em região determinada (VQPRD);\n\nb) Vinhos licorosos de qualidade produzidos em região determinada (VLQPRD);\n\nc) Vinagres de vinho.\n\n2 - Uma IG pode ser empregue relativamente a:\n\na) Vinhos de mesa;\n\nb) Vinhos licorosos;\n\nc) Aguardentes de vinho e bagaceira;\n\nd) Vinagres de vinho."
+  },
+  "107730836": {
+   "fragment_id": "107722744",
+   "type": 1,
+   "heading": "Capítulo II — Denominações de origem e indicações geográficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Denominações de origem e indicações geográficas"
+  },
+  "107730837": {
+   "fragment_id": "107722745",
+   "type": 11,
+   "heading": "Artigo 4.º — Reconhecimento e defesa das DO e IG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reconhecimento e defesa das DO e IG\n\n1 - O reconhecimento e a extinção de denominações de origem (DO) e indicações geográficas (IG) dos produtos vitivinícolas serão feitos pelo Governo Regional, através de portaria do membro do Governo com competência em matéria de agricultura, por iniciativa própria, ouvida a Comissão Vitivinícola Regional dos Açores (CVR Açores), ou mediante proposta desta Comissão.\n\n2 - A defesa das DO e IG compete à entidade certificadora regional e, supletivamente, ao Governo Regional, através do departamento do Governo Regional competente em matéria de agricultura."
+  },
+  "107730838": {
+   "fragment_id": "107722746",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito de protecção das DO e IG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito de protecção das DO e IG\n\n1 - A DO ou a IG só podem ser utilizadas em produtos do sector vitivinícola que, cumulativamente, respeitem a regulamentação vitivinícola aplicável, cumpram as regras de produção e comércio específicas dessa designação e tenham sido certificados pela entidade certificadora.\n\n2 - É proibida a utilização, directa ou indirecta, das DO ou IG em produtos vitivinícolas que não cumpram os requisitos constantes do número anterior, nomeadamente em rótulos, contra-rótulos, etiquetas, documentos ou publicidade, mesmo quando a verdadeira origem do produto seja indicada ou que as palavras constitutivas daquelas designações sejam traduzidas ou acompanhadas por termos como «género», «tipo», «qualidade», «método», «imitação», «estilo», ou outros análogos.\n\n3 - É igualmente proibida a utilização, por qualquer meio, de nomes, marcas, termos, expressões ou símbolos ou qualquer indicação falsa ou falaciosa, que sejam susceptíveis de confundir o consumidor quanto à proveniência, natureza ou qualidades essenciais dos produtos.\n\n4 - A proibição estabelecida nos números anteriores aplica-se igualmente a produtos não vitivinícolas quando a utilização procure, sem justo motivo, tirar partido indevido do carácter distintivo ou do prestígio de que goze uma DO ou IG vitivinícola ou possa prejudicá-las.\n\n5 - É vedada a reprodução das DO ou IG em dicionários, enciclopédias, obras de consulta semelhantes ou em publicidade quando daí se possa depreender que as mesmas constituem designações genéricas.\n\n6 - O disposto no presente artigo é igualmente aplicável, com as devidas adaptações, ao uso das menções tradicionais, das DO ou IG abrangidas por este diploma que constem expressamente da respectiva regulamentação.\n\n7 - Os operadores cujos produtos satisfaçam todos os requisitos previstos no n.º 1 não podem ser impedidos de usar a DO ou IG nesses produtos, salvo em consequência de decisões proferidas no âmbito de processos de infracção."
+  },
+  "107730839": {
+   "fragment_id": "107722747",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento de produção e comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento de produção e comércio\n\n1 - Compete ao Governo Regional, através de portaria do membro do Governo com competência em matéria de agricultura, estabelecer as regras específicas de produção e comércio de que depende o uso de uma DO, as quais devem, designadamente, contemplar os seguintes pontos:\n\na) Delimitação da ilha ou do local de proveniência;\n\nb) Natureza do solo;\n\nc) Castas aptas à produção;\n\nd) Práticas culturais e formas de condução;\n\ne) Rendimentos por hectare;\n\nf) Métodos de vinificação;\n\ng) Práticas enológicas;\n\nh) Título alcoolimétrico volúmico natural mínimo;\n\ni) Características físico-químicas e organolépticas;\n\nj) Disposições particulares sobre apresentação, designação e rotulagem, sempre que necessário.\n\n2 - O uso de uma IG em produtos do sector vitivinícola da Região Autónoma dos Açores depende também de regulamentação própria, a aprovar por portaria do membro do Governo Regional com competência em matéria da agricultura que deve definir, pelo menos, as castas e as regras específicas de produção e apresentação, designação e rotulagem, sempre que necessário."
+  },
+  "107730840": {
+   "fragment_id": "107722748",
+   "type": 11,
+   "heading": "Artigo 7.º — Símbolos de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Símbolos de garantia\n\n1 - Os produtos com direito a DO ou IG só podem ser comercializados exibindo nos recipientes o respectivo símbolo ou selo de garantia, aprovados e emitidos pela CVR Açores e publicados no Jornal Oficial da Região Autónoma dos Açores.\n\n2 - Os símbolos e selos referidos no número anterior são numerados sequencialmente, para permitirem um adequado controlo de utilização, podendo ainda conter outras marcas de controlo, a definir pela entidade certificadora."
+  },
+  "107730841": {
+   "fragment_id": "107722749",
+   "type": 11,
+   "heading": "Artigo 8.º — Menções específicas tradicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Menções específicas tradicionais\n\nSem prejuízo do disposto na lei geral, na rotulagem dos produtos vitivinícolas com direito a DO ou IG podem figurar, consoante os casos, as seguintes menções:\n\na) «Denominação de origem controlada» ou «DOC»;\n\nb) «Indicação geográfica» ou «IG», ou ainda, nos casos referidos na alínea a) do n.º 2 do artigo 3.º, «Vinho Regional» ou «Vinho da Região de»."
+  },
+  "107730842": {
+   "fragment_id": "107722750",
+   "type": 11,
+   "heading": "Artigo 9.º — Registos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registos obrigatórios\n\n1 - Estão sujeitos a registo obrigatório, junto da CVR Açores:\n\na) As parcelas de vinha aprovadas como aptas para a produção de vinho com direito a DO ou IG;\n\nb) A titularidade e o explorador das parcelas de vinha aprovadas;\n\nc) A identificação dos operadores que se dedicam à produção e ao comércio dos produtos com direito a DO ou IG e das respectivas instalações, excepto os retalhistas ou agentes económicos que apenas comercializem produtos já embalados;\n\nd) Os quantitativos dos produtos vitivinícolas aptos a certificação, certificados, desclassificados e introduzidos no consumo;\n\ne) Os quantitativos dos produtos, aptos ou certificados, cujo trânsito seja efectuado a granel;\n\nf) Os resultados das análises laboratoriais realizadas;\n\ng) As referências da série dos símbolos ou selos de garantia fornecidos a cada operador.\n\n2 - O registo dos elementos previstos nas alíneas a) a c) do número anterior é efectuado mediante participação obrigatória dos operadores, cuja inscrição, nos termos da legislação aplicável, constitui condição prévia para a certificação dos seus produtos.\n\n3 - Os registos referidos nos números anteriores devem ser efectuados em suportes que permitam a total compatibilização com o sistema de informação da vinha e do vinho."
+  },
+  "107730843": {
+   "fragment_id": "107722751",
+   "type": 1,
+   "heading": "Capítulo III — Controlo e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Controlo e certificação"
+  },
+  "107730844": {
+   "fragment_id": "107722752",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidades responsáveis\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades, as funções de controlo da produção e comércio e de certificação de produtos vinícolas com direito a DO ou IG serão exercidas, pela CVR Açores.\n\n2 - A estrutura orgânica da entidade certificadora é a constante dos respectivos estatutos, mantendo-se, em função da realidade regional, uma regulação partilhada com a representação do departamento do Governo Regional responsável em matéria de agricultura."
+  },
+  "107730845": {
+   "fragment_id": "107722753",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Atribuições e competências\n\n1 - São atribuições da CVR Açores, enquanto entidade certificadora, a promoção e defesa das DO e IG, o seu controlo, certificação e utilização, competindo-lhe, nomeadamente:\n\na) Efectuar o controlo e a certificação dos produtos com direito a DO ou IG, emitindo ou autenticando a respectiva documentação;\n\nb) Proceder à divulgação e promoção dos produtos a certificar;\n\nc) Efectuar a classificação das parcelas de vinha propostas pelos viticultores como aptas à produção dos produtos com direito a DO ou IG;\n\nd) Assegurar um controlo eficaz das existências de produtos vitivinícolas de cada um dos operadores, nomeadamente em sistema de contas correntes, devendo, para o efeito, recepcionar e utilizar as declarações de existências, de colheita e de produção, os documentos de acompanhamento e os registos vitivinícolas;\n\ne) Demandar judicialmente ou participar dos autores de infracções à disciplina das DO ou IG e demais infracções económicas ou tributárias, podendo proceder à selagem dos produtos ou à apreensão dos documentos e outros objectos que constituam resultado ou instrumento de prática das infracções detectadas;\n\nf) Aplicar as sanções de natureza disciplinar previstas nos respectivos estatutos ou no manual de procedimentos;\n\ng) Colaborar com os organismos oficiais competentes no âmbito do sector vitivinícola, exercendo as competências que lhe venham a ser delegadas.\n\n2 - Compete ainda à CVR Açores, relativamente aos operadores nela inscritos, exercer o controlo da produção, circulação e comércio das uvas e dos produtos do sector vitivinícola que se encontrem ou se destinem à Região Autónoma dos Açores, podendo, para o efeito, realizar vistorias e colher amostras nas instalações de vinificação, destilação, armazenagem, engarrafamento, distribuição ou venda por grosso ou a retalho e solicitar-lhes toda a documentação e informações necessárias para verificar o cumprimento das regras específicas do sector vitivinícola.\n\n3 - A CVR Açores pode ainda exercer as funções referidas no número anterior relativamente a outros agentes económicos, desde que em conjugação ou por delegação das autoridades competentes neste domínio, podendo, neste caso, levantar autos de todas as irregularidades ou infracções detectadas."
+  },
+  "107730846": {
+   "fragment_id": "107722754",
+   "type": 11,
+   "heading": "Artigo 12.º — Cooperação entre a entidade certificadora e o Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cooperação entre a entidade certificadora e o Governo Regional\n\nO Governo Regional, através do departamento do Governo Regional com competência em matéria de agricultura, apoiará a CVR Açores nas acções de promoção dos produtos vitivinícolas bem como nas acções de vulgarização e assistência técnica aos produtores, com vista à melhoria da qualidade da produção."
+  },
+  "107730847": {
+   "fragment_id": "107722755",
+   "type": 11,
+   "heading": "Artigo 13.º — Receitas da entidade certificadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Receitas da entidade certificadora\n\nConstituem receitas da CVR Açores:\n\na) O produto da cobrança das taxas de certificação e da venda dos símbolos ou selos de garantia relativos às DO ou IG por si controladas e certificadas;\n\nb) O produto da prestação de serviços a terceiros;\n\nc) A quota-parte do produto das coimas nas infracções por si levantadas;\n\nd) As comparticipações, subsídios ou donativos concedidos por quaisquer entidades públicas ou privadas;\n\ne) O produto da alienação de bens próprios;\n\nf) Quaisquer outras receitas que legalmente e a qualquer título lhe sejam consignadas."
+  },
+  "107730848": {
+   "fragment_id": "107722756",
+   "type": 1,
+   "heading": "Capítulo IV — Coordenação e controlo da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Coordenação e controlo da certificação"
+  },
+  "107730849": {
+   "fragment_id": "107722757",
+   "type": 11,
+   "heading": "Artigo 14.º — Controlo e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlo e auditoria\n\n1 - A actividade desenvolvida pela CVR Açores é acompanhada e auditada tendo em vista a concessão ou a manutenção do respectivo reconhecimento.\n\n2 - O reconhecimento da CVR Açores como entidade certificadora pode ser suspenso ou retirado por decreto legislativo regional, sob proposta do Governo Regional, caso se verifique uma das seguintes condições:\n\na) A pedido da mesma;\n\nb) Em caso de incumprimento das suas atribuições e competências."
+  },
+  "107730850": {
+   "fragment_id": "107722758",
+   "type": 1,
+   "heading": "Capítulo V — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Contra-ordenações"
+  },
+  "107730851": {
+   "fragment_id": "107722759",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização e regime sancionatório\n\n1 - Na Região, a fiscalização do cumprimento do disposto no presente diploma que não esteja cometida à CVR Açores cabe aos serviços competentes em matéria de fiscalização económica.\n\n2 - O regime sancionatório, bem como a instrução e a aplicação das coimas, segue o previsto na legislação vigente para o efeito.\n\n3 - A afectação dos produtos das coimas aplicadas far-se-á da seguinte forma:\n\na) 10 % para a entidade que levantou o auto;\n\nb) 10 % para a entidade que instruiu o processo;\n\nc) 20 % para a entidade que aplicou a coima;\n\nd) 60 % para a CVR Açores."
+  },
+  "107730852": {
+   "fragment_id": "107722760",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "107730853": {
+   "fragment_id": "107722761",
+   "type": 11,
+   "heading": "Artigo 16.º — Designações existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Designações existentes\n\nAs DO ou IG vitivinícolas reconhecidas por diplomas legais anteriores à entrada em vigor do presente diploma mantêm o reconhecimento, ficando doravante sujeitas ao regime previsto no presente diploma."
+  },
+  "107730854": {
+   "fragment_id": "107722762",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogado o Decreto Regional n.º 25/80/A, de 16 de Setembro."
+  },
+  "107730855": {
+   "fragment_id": "107722763",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "107731487": {
+   "fragment_id": "107722743",
+   "type": 11,
+   "heading": "Artigo 3.º — Denominações de origem e indicações geográficas",
+   "in_force_from": "2011-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2011/A - Diário da República n.º 79/2011, Série I de 2011-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2011-277371), em vigor a partir de 2011-04-22"
+   ],
+   "markdown": "###### Artigo 3.º — Denominações de origem e indicações geográficas\n\n1 - Uma DO pode ser empregue relativamente a:\n\na) Vinhos de qualidade produzidos em região determinada (VQPRD);\n\nb) Vinhos licorosos de qualidade produzidos em região determinada (VLQPRD);\n\nc) Vinhos espumantes de qualidade produzidos em região demarcada (VEQPRD).\n\n2 - Uma IG pode ser empregue relativamente a:\n\na) Vinhos de mesa;\n\nb) Vinhos espumantes;\n\nc) Vinhos licorosos;\n\nd) Aguardentes de vinho e bagaceira;\n\ne) Vinagres de vinho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2011/A - Diário da República n.º 79/2011, Série I de 2011-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2011-277371), em vigor a partir de 2011-04-22"
+  },
+  "107730856": {
+   "fragment_id": "107722764",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de Junho de 2008.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 8 de Julho de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  }
+ }
+}

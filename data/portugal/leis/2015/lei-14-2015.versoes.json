@@ -1,0 +1,535 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66528823:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-74088679",
+ "dre_path": "/dr/detalhe/lei/14-2015-66528823",
+ "source_lastmod": "2024-07-17",
+ "versions": [
+  {
+   "date": "2015-02-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74042462",
+    "74042463",
+    "74042464",
+    "74042465",
+    "74042466",
+    "74042467",
+    "74042468",
+    "74042469",
+    "74042470",
+    "74042471",
+    "74042472",
+    "74042473",
+    "74042474",
+    "74090675",
+    "74090676",
+    "74090677",
+    "74090678",
+    "74090679",
+    "74090680",
+    "74090681",
+    "74090682",
+    "74090683",
+    "74090684",
+    "74090685",
+    "74090686",
+    "74090687",
+    "74090688",
+    "74090689",
+    "74090690",
+    "74090691",
+    "74090692",
+    "74090693",
+    "74090694",
+    "74090695",
+    "74090696",
+    "74090697",
+    "74090698",
+    "74090699",
+    "74090700",
+    "74090701",
+    "74090702",
+    "74090703",
+    "74090704",
+    "74090705",
+    "74090706",
+    "74090707",
+    "74090708",
+    "74090709"
+   ]
+  },
+  {
+   "date": "2020-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:143437624:por",
+     "title": "Decreto-Lei n.º 72/2020",
+     "published": "2020-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2020-143437624"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "74042462",
+    "74042463",
+    "74042464",
+    "74042465",
+    "74042466",
+    "74042467",
+    "74042468",
+    "74042469",
+    "74042470",
+    "74042471",
+    "74042472",
+    "74042473",
+    "74042474",
+    "74090675",
+    "74090676",
+    "74090677",
+    "74090678",
+    "74090679",
+    "74090680",
+    "74090681",
+    "74090682",
+    "74090683",
+    "74090684",
+    "74090685",
+    "74090686",
+    "74090687",
+    "74090688",
+    "74090689",
+    "872277420",
+    "74090691",
+    "74090692",
+    "74090693",
+    "74090694",
+    "74090695",
+    "74090696",
+    "74090697",
+    "74090698",
+    "74090699",
+    "74090700",
+    "74090701",
+    "74090702",
+    "74090703",
+    "74090704",
+    "74090705",
+    "74090706",
+    "74090707",
+    "74090708",
+    "74090709",
+    "74090710"
+   ]
+  }
+ ],
+ "fragments": {
+  "74042462": {
+   "fragment_id": "74088680",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 14/2015\n\nde 16 de fevereiro\n\nEstabelece os requisitos de acesso e exercício da atividade das entidades e profissionais responsáveis pelas instalações elétricas, conformando-os com a disciplina da Lei n.º 9/2009, de 4 de março, e do Decreto-Lei n.º 92/2010, de 26 de julho, que transpuseram as Diretivas n.os 2005/36/CE, de 7 de setembro, relativa ao reconhecimento das qualificações profissionais, e 2006/123/CE, de 12 de dezembro, relativa aos serviços no mercado interno.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "74042463": {
+   "fragment_id": "74088681",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "74042464": {
+   "fragment_id": "74088682",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei aprova os requisitos de acesso e exercício da atividade, em território nacional, das seguintes entidades e profissionais:\n\na) Entidades instaladoras de instalações elétricas de serviço particular (EI) e técnicos responsáveis pela execução que exercem atividade a título individual;\n\nb) Entidades inspetoras de instalações elétricas de serviço particular (EIIEL);\n\nc) Técnicos responsáveis pelo projeto e pela exploração das instalações elétricas de serviço particular.\n\n2 - A presente lei regula ainda a certificação setorial das entidades formadoras (EF), responsáveis pela formação dos técnicos responsáveis mencionados na alínea c) do n.º 1 do artigo 5.º e na alínea c) do n.º 1 do artigo 20.º\n\n3 - A presente lei conforma os regimes aplicáveis às entidades e profissionais referidos no número anterior com a disciplina do Decreto-Lei n.º 92/2010, de 26 de julho, que transpõe para a ordem jurídica interna a Diretiva n.º 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro, relativa ao mercado interno dos serviços, da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento Europeu e do Conselho, de 7 de setembro, relativa ao reconhecimento das qualificações profissionais e do Decreto-Lei n.º 92/2011, de 27 de julho, que cria o Sistema de Regulação de Acesso a Profissões (SRAP).\n\n4 - Para efeito da presente lei, consideram-se instalações elétricas de serviço particular todas as instalações elétricas que não sejam objeto de exploração no âmbito de atividades legalmente consideradas de serviço público, nomeadamente de atividades de transporte e distribuição de energia elétrica."
+  },
+  "74042465": {
+   "fragment_id": "74088683",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso e exercício das atividades das entidades instaladoras e das entidades inspetoras de instalações elétricas de serviço particular e dos técnicos responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso e exercício das atividades das entidades instaladoras e das entidades inspetoras de instalações elétricas de serviço particular e dos técnicos responsáveis\n\n1 - A atividade de execução de instalações elétricas de serviço particular apenas pode ser exercida por EI ou, a título individual e nos casos expressamente admitidos, por técnicos responsáveis pela execução, que cumpram os requisitos previstos na presente lei.\n\n2 - A atividade de inspeção do cumprimento dos regulamentos de segurança, das regras técnicas e das normas relativas à qualidade dos materiais e equipamentos utilizados nas instalações elétricas de serviço particular, nos termos do regime jurídico aplicável à inspeção de instalações elétricas de serviço particular, apenas pode ser exercido por EIIEL que cumpram os requisitos previstos na presente lei.\n\n3 - Com exceção das situações previstas no artigo 26.º, o acesso e exercício das atividades das EI depende da verificação das condições legalmente exigidas e previstas para a atividade da construção e, no caso das EIIEL, de reconhecimento pela Direção-Geral de Energia e Geologia (DGEG), nos termos do disposto na presente lei.\n\n4 - A atividade de conceção de instalações elétricas de serviço particular apenas pode ser exercida por técnicos responsáveis pelo projeto que cumpram os requisitos previstos na presente lei e os legalmente exigidos e previstos para a atividade da construção.\n\n5 - A atividade de exploração de instalações elétricas de serviço particular apenas pode ser exercida por técnicos responsáveis pela exploração que cumpram os requisitos previstos na presente lei.\n\n6 - Antes do início da atividade, os técnicos responsáveis pelo projeto, pela execução e pela exploração, e as entidades instaladoras devem registar-se no Sistema de Registo de Instalações Elétricas de Serviço Particular (SRIESP), a aprovar por decreto-lei, devendo apresentar os seguintes documentos:\n\na) No caso dos engenheiros ou engenheiros técnicos, cópia do documento emitido pelas respetivas ordens profissionais;\n\nb) No caso dos técnicos responsáveis pela execução ou pela exploração que não se incluam na alínea anterior, o cartão emitido pela DGEG; e\n\nc) No caso das entidades instaladoras, cópia do documento que ateste a atribuição de permissão pelo Instituto da Construção e do Imobiliário, I. P., bem como cópia simples do seguro obrigatório previsto para estas atividades na presente lei."
+  },
+  "74042466": {
+   "fragment_id": "74088684",
+   "type": 11,
+   "heading": "Artigo 3.º — Reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reconhecimento mútuo\n\n1 - É vedada a duplicação de condições exigíveis para os procedimentos previstos nos artigos anteriores e os requisitos e controlos de fim equivalente a que o interessado tenha já sido submetido em Portugal ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - O reconhecimento das qualificações profissionais previstas na presente lei que sejam adquiridas fora de Portugal, por cidadãos da União Europeia ou do Espaço Económico Europeu, rege-se pela Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, sendo da competência da DGEG e ou da associação pública profissional competente, em conformidade com a referida lei, os respetivos estatutos e demais normas aplicáveis, de acordo com a seguinte repartição de responsabilidades:\n\na) No que respeita ao reconhecimento de qualificações equiparadas a engenheiro da especialidade de engenharia eletrotécnica e engenheiro técnico da especialidade de engenharia de energia e sistemas de potência, as respetivas associações públicas profissionais;\n\nb) No que respeita ao reconhecimento de qualificações equiparadas não abrangidas pela alínea anterior, a DGEG."
+  },
+  "74042467": {
+   "fragment_id": "74088685",
+   "type": 1,
+   "heading": "Capítulo II — Entidades instaladoras e técnicos responsáveis pela execução de instalações elétricas de serviço particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Entidades instaladoras e técnicos responsáveis pela execução de instalações elétricas de serviço particular"
+  },
+  "74042468": {
+   "fragment_id": "74088686",
+   "type": 11,
+   "heading": "Artigo 4.º — Acesso à atividade de execução de instalações elétricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acesso à atividade de execução de instalações elétricas\n\n1 - Sem prejuízo do disposto no n.º 3, podem exercer a atividade de execução de instalações elétricas de serviço particular as pessoas coletivas ou empresários em nome individual que exerçam legalmente a atividade de construção em território nacional, nos termos do respetivo regime jurídico.\n\n2 - As entidades instaladoras referidas no número anterior devem dispor de técnicos responsáveis pela execução das instalações elétricas, conforme a classe de obra e a subcategoria de obra ou trabalho em causa, nos termos do regime jurídico aplicável ao exercício da atividade da construção e respetivos profissionais.\n\n3 - Para as instalações elétricas de serviço particular de baixa tensão, com potência até 41,4 kVA, inclusive, a responsabilidade pela execução pode ser assumida por um técnico responsável pela execução, a título individual, desde que este disponha de um seguro de responsabilidade civil válido para cobrir quaisquer danos corporais e materiais sofridos por terceiros, no decurso e em resultado do exercício da sua atividade, no valor mínimo de (euro) 50 000.\n\n4 - O seguro referido no número anterior pode ser substituído por seguro, garantia financeira ou instrumento equivalente, que cubra, nos termos previstos nos números anteriores, as respetivas atividades a exercer em território nacional, nos termos do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n5 - As EI e os técnicos responsáveis pela execução estão sujeitos ao cumprimento das regras legais e demais requisitos de exercício aplicáveis à atividade de estabelecimento e execução de instalações elétricas de serviço particular."
+  },
+  "74042469": {
+   "fragment_id": "74088687",
+   "type": 11,
+   "heading": "Artigo 5.º — Técnico responsável pela execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Técnico responsável pela execução\n\n1 - Para o acesso e exercício da atividade de técnico responsável pela execução de instalações elétricas de serviço particular, nos termos do regime jurídico da atividade da construção, é necessário possuir:\n\na) Título de engenheiro da especialidade de engenharia eletrotécnica;\n\nb) Título de engenheiro técnico da especialidade de engenharia de energia e de sistemas de potência;\n\nc) Qualificação de dupla certificação, obtida por via das modalidades de educação e formação do Sistema Nacional de Qualificações, que integrem unidades de formação de curta duração na área das instalações elétricas e respeitem os conteúdos definidos no Catálogo Nacional de Qualificações; ou\n\nd) Conclusão, com aproveitamento, das unidades de formação de curta duração na área das instalações elétricas, integradas no Catálogo Nacional de Qualificações.\n\n2 - O disposto no número anterior aplica-se a obras e trabalhos enquadrados nas categorias e subcategorias descritas no regime jurídico da construção, ainda que a obra em causa seja particular e não haja lugar a intervenção de EI, nos termos do n.º 3 do artigo anterior.\n\n3 - O técnico responsável pela execução de instalações elétricas de serviço particular que não seja engenheiro da especialidade de engenharia eletrotécnica ou engenheiro técnico da especialidade de engenharia de energia e de sistemas de potência só pode assumir a responsabilidade pela execução de redes de distribuição, postos de transformação e instalações de produção caso possua uma qualificação de dupla certificação do sistema nacional de qualificações da área das instalações elétricas de nível 4, ou superior, do Quadro Nacional de Qualificações.\n\n4 - O técnico referido no número anterior que exerça a sua atividade no âmbito de uma EI só pode executar instalações elétricas de serviço particular de tensão até 30 kV e potência até 250 kVA."
+  },
+  "74042470": {
+   "fragment_id": "74088688",
+   "type": 1,
+   "heading": "Capítulo III — Entidades inspetoras de instalações elétricas de serviço particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Entidades inspetoras de instalações elétricas de serviço particular"
+  },
+  "74042471": {
+   "fragment_id": "74088689",
+   "type": 8,
+   "heading": "Secção I — Requisitos de acesso e exercício da atividade de entidades inspetoras de instalações elétricas de serviço particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Requisitos de acesso e exercício da atividade de entidades inspetoras de instalações elétricas de serviço particular"
+  },
+  "74042472": {
+   "fragment_id": "74088690",
+   "type": 11,
+   "heading": "Artigo 6.º — Idoneidade e capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Idoneidade e capacidade\n\n1 - O reconhecimento de uma EIIEL assenta na análise da idoneidade, competência técnica e capacidade em meios humanos e materiais da entidade requerente.\n\n2 - Sem prejuízo da possibilidade de reconhecimento provisório por um período máximo de dois anos, nos termos do artigo 11.º, para efeitos do seu reconhecimento, as EIIEL devem obter previamente a sua acreditação para o exercício da atividade prevista no n.º 2 do artigo 2.º, de acordo com a norma NP EN ISO/IEC 17020 atribuída pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), ou, no caso das entidades legalmente estabelecidas noutro Estado membro da União Europeia ou do Espaço Económico Europeu, por entidade homóloga signatária do acordo multilateral relevante da European Co-operation for Accreditation.\n\n3 - As EIIEL devem igualmente dispor de quadro de pessoal técnico e administrativo e possuir os meios necessários para cumprir, de maneira adequada, todas as ações ligadas ao exercício da sua atividade.\n\n4 - O pessoal técnico das EIIEL é composto pelo diretor técnico e pelos inspetores, competindo ao primeiro dirigir e coordenar o trabalho dos inspetores e a estes realizar as ações previstas no n.º 2 do artigo 2.º\n\n5 - O quadro de pessoal técnico das EIIEL deve incluir, pelo menos, um diretor técnico e cinco inspetores.\n\n6 - O diretor técnico pode acumular as funções de um inspetor.\n\n7 - Os requisitos de detenção e manutenção do quadro de pessoal técnico referido no número anterior consideram-se cumpridos mediante a comprovação da existência de contratos de prestação de serviços entre a entidade e os profissionais que necessariamente devem integrar aquele quadro, desde que a atividade dos profissionais seja efetivamente supervisionada pela empresa."
+  },
+  "74042473": {
+   "fragment_id": "74088691",
+   "type": 11,
+   "heading": "Artigo 7.º — Diretor técnico e inspetores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diretor técnico e inspetores\n\n1 - O diretor técnico e os inspetores devem ser engenheiros da especialidade de engenharia eletrotécnica ou engenheiros técnicos da especialidade de engenharia de energia e sistemas de potência.\n\n2 - O diretor técnico deve ter, no mínimo, cinco anos de experiência na área das instalações elétricas de serviço particular.\n\n3 - Os inspetores devem ter, no mínimo, dois anos de experiência na área das instalações elétricas de serviço particular.\n\n4 - Os diretores técnicos e inspetores das EIIEL contratados em regime de livre prestação de serviços estão sujeitos ao regime de verificação prévia das qualificações constante do artigo 6.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, pelo impacto das referidas profissões na segurança pública, na vertente segurança das pessoas, da competência da DGEG e da associação pública profissional competente, nos termos do disposto no n.º 2 do artigo 3.º"
+  },
+  "74042474": {
+   "fragment_id": "74088692",
+   "type": 11,
+   "heading": "Artigo 8.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Seguro de responsabilidade civil\n\n1 - Sem prejuízo do disposto no n.º 4, as EIIEL devem obrigatoriamente dispor de um seguro de responsabilidade civil válido para cobrir quaisquer danos corporais e materiais sofridos por terceiros, no decurso e em resultado do exercício da sua atividade.\n\n2 - O valor mínimo obrigatório do seguro referido no número anterior é de (euro) 200 000.\n\n3 - O valor mínimo obrigatório do seguro é atualizado anualmente até 31 de março, mediante a aplicação do índice de preços no consumidor, no continente, sem habitação, publicado pelo Instituto Nacional de Estatística, I. P.\n\n4 - As EIIEL estabelecidas em território nacional ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu podem substituir a celebração do seguro referido nos números anteriores por seguro, garantia financeira ou instrumento equivalente, que cubra, nos termos previstos nos números anteriores, as respetivas atividades a exercer em território nacional, nos termos do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n5 - Estão isentas da obrigação referida nos números anteriores as EIIEL em regime de livre prestação em Portugal que estejam obrigadas, nos termos da legislação do Estado membro de origem, à contratação de qualquer outro seguro, garantia financeira ou instrumento equivalente subscrito noutro Estado membro da União Europeia ou do Espaço Económico Europeu, para a cobertura dos danos corporais e materiais sofridos por terceiros, no decurso e em resultado do exercício da sua atividade em território nacional.\n\n6 - Nas situações referidas no número anterior, as informações constantes da alínea m) do n.º 1 do artigo 20.º do Decreto-Lei n.º 92/2010, de 26 de julho, referem-se a qualquer outro seguro, garantia financeira ou instrumento equivalente subscrito noutro Estado membro da União Europeia ou do Espaço Económico Europeu contratada nos termos da legislação do Estado membro de origem, devendo as EIIEL identificar a autoridade competente daquele Estado que exerce poder punitivo pela violação do requisito em causa em território nacional, sempre que tal lhe seja solicitado pelo destinatário do serviço ou por autoridade competente."
+  },
+  "74090675": {
+   "fragment_id": "74088693",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres ético-profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres ético-profissionais\n\n1 - As EIIEL, bem como o seu pessoal técnico, devem exercer a sua atividade com integridade profissional, competência, imparcialidade e total independência.\n\n2 - As EIIEL, bem como o seu pessoal técnico, não podem exercer a atividade de projetista, fabricante, fornecedor, instalador ou técnico responsável por instalações ou equipamentos elétricos, quer diretamente, quer por interposta pessoa.\n\n3 - O pessoal técnico das EIIEL que tenha exercido qualquer das atividades indicadas no número anterior não pode, no prazo de um ano a contar da data em que deixar de exercer essas atividades, fazer qualquer inspeção a instalações elétricas que tenham sido projetadas, fornecidas ou instaladas por si ou por entidades para as quais tenham trabalhado ou com as quais tenham colaborado.\n\n4 - Os inspetores não podem, em caso algum, inspecionar instalações nas quais, de forma direta ou indireta, tenham qualquer interesse ou conexão.\n\n5 - As EIIEL e os seus colaboradores estão abrangidos pelo segredo profissional relativamente às informações obtidas no exercício das suas funções, exceto em relação às entidades oficiais competentes no âmbito da presente lei e demais exceções previstas na lei."
+  },
+  "74090676": {
+   "fragment_id": "74088694",
+   "type": 8,
+   "heading": "Secção II — Procedimento, duração e outras vicissitudes do reconhecimento das entidades inspetoras de instalações elétricas de serviço particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento, duração e outras vicissitudes do reconhecimento das entidades inspetoras de instalações elétricas de serviço particular"
+  },
+  "74090677": {
+   "fragment_id": "74088695",
+   "type": 11,
+   "heading": "Artigo 10.º — Pedido de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pedido de reconhecimento\n\nAs entidades interessadas em obter o reconhecimento para efeito de exercício da atividade das EIIEL devem apresentar um requerimento dirigido ao Diretor-Geral de Energia e Geologia, acompanhado dos seguintes elementos:\n\na) Código de acesso à respetiva certidão permanente ou extrato em forma simples do teor das inscrições em vigor no registo comercial onde conste o objeto, o capital, a sede e os nomes dos representantes legais, bem como o número de pessoa coletiva, caso o requerente seja pessoa coletiva;\n\nb) Cópia simples do respetivo documento de identificação civil, se o requerente for pessoa singular;\n\nc) Currículo profissional do diretor técnico e dos inspetores ao seu serviço em território nacional e documentos comprovativos das suas qualificações profissionais;\n\nd) Cópia da apólice do seguro de responsabilidade civil ou comprovativo de contratação de garantia financeira equivalente, nos termos do artigo 8.º;\n\ne) Declaração, sob compromisso de honra, de que tomou conhecimento dos deveres e normas legais e regulamentares aplicáveis à atividade das EIIEL, comprometendo-se a assegurar o seu estrito cumprimento;\n\nf) Declaração de não existência de incompatibilidade da entidade, do diretor técnico e dos inspetores para o exercício da atividade;\n\ng) Documento comprovativo da respetiva acreditação."
+  },
+  "74090678": {
+   "fragment_id": "74088696",
+   "type": 11,
+   "heading": "Artigo 11.º — Reconhecimento provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reconhecimento provisório\n\n1 - As entidades não acreditadas para o exercício das atividades previstas no n.º 2 do artigo 2.º podem ser provisoriamente reconhecidas na DGEG, desde que, para além da apresentação dos documentos referidos no artigo anterior, com exceção do documento a que se refere a alínea g), apresentem comprovativo, emitido pelo IPAC, I. P., de que estão reunidas as condições necessárias para se proceder à avaliação presencial completa do pedido de acreditação.\n\n2 - As EIIEL devem fazer prova da acreditação, ou da respetiva extensão, no prazo máximo de dois anos contados da data de autorização da atividade de inspeção, para efeitos de convolação do seu reconhecimento em definitivo.\n\n3 - Decorrido o prazo referido no número anterior sem que se mostre cumprido o aí disposto, a DGEG declara, ouvida a EIIEL, a caducidade do reconhecimento provisório."
+  },
+  "74090679": {
+   "fragment_id": "74088697",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazo para decisão do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazo para decisão do reconhecimento\n\nA decisão sobre o pedido de reconhecimento é emitida pela DGEG no prazo de 30 dias, a contar da data da receção do pedido regularmente instruído."
+  },
+  "74090680": {
+   "fragment_id": "74088698",
+   "type": 11,
+   "heading": "Artigo 13.º — Deferimento tácito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deferimento tácito\n\n1 - Findo o prazo previsto no artigo anterior sem que seja proferido despacho, o pedido de reconhecimento considera-se tacitamente deferido, podendo o requerente dar início imediato à atividade.\n\n2 - Nos casos previstos no número anterior, a DGEG deve, no primeiro dia útil após o termo do prazo aí referido, emitir certificado de reconhecimento do requerente."
+  },
+  "74090681": {
+   "fragment_id": "74088699",
+   "type": 11,
+   "heading": "Artigo 14.º — Duração do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Duração do reconhecimento\n\nCom exceção do reconhecimento provisório previsto no artigo 11.º, o reconhecimento não está sujeito a prazo de caducidade, sem prejuízo da sua revogação ou suspensão, nos termos previstos no artigo 16.º"
+  },
+  "74090682": {
+   "fragment_id": "74088700",
+   "type": 11,
+   "heading": "Artigo 15.º — Substituição de técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Substituição de técnicos\n\nA substituição do diretor técnico e dos inspetores ao seu serviço em território nacional deve ser comunicada pelas EIIEL à DGEG, no prazo de 30 dias após a sua efetivação, mediante requerimento acompanhado dos currículos profissionais, documentos comprovativos das qualificações profissionais, cópia dos contratos de trabalho ou de prestação de serviços e declarações de não existência de incompatibilidade dos novos diretores técnicos e inspetores."
+  },
+  "74090683": {
+   "fragment_id": "74088701",
+   "type": 11,
+   "heading": "Artigo 16.º — Revogação ou suspensão do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação ou suspensão do reconhecimento\n\n1 - A DGEG pode determinar a revogação ou suspensão do reconhecimento de uma EIIEL nos seguintes casos:\n\na) Suspensão ou anulação da acreditação;\n\nb) Inexistência de quadro de pessoal mínimo ou contratação de diretor técnico ou inspetor que não cumpram o disposto no artigo 7.º;\n\nc) Incumprimento da legislação ou regulamentação aplicável ao exercício da atividade;\n\nd) Deficiente inspeção das instalações;\n\ne) Inexistência de seguro de responsabilidade civil ou de garantia financeira equivalente, nos termos do artigo 8.º;\n\nf) Dissolução, insolvência ou suspensão da atividade da empresa.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, o IPAC, I. P., deve comunicar de imediato à DGEG a suspensão ou anulação de uma acreditação.\n\n3 - A suspensão e a revogação são determinadas por despacho do Diretor-Geral de Energia e Geologia."
+  },
+  "74090684": {
+   "fragment_id": "74088702",
+   "type": 11,
+   "heading": "Artigo 17.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento\n\n1 - A DGEG é responsável pelo acompanhamento do exercício da atividade das EIIEL, sem prejuízo das competências próprias do IPAC, I. P., enquanto organismo nacional de acreditação.\n\n2 - As avaliações realizadas pelo IPAC, I. P., às EIIEL devem ser oportunamente notificadas à DGEG a qual pode nomear um representante que acompanhará a equipa avaliadora daquele instituto.\n\n3 - O relatório da avaliação pode propor a suspensão ou a revogação do reconhecimento, a decidir nos termos do n.º 3 do artigo anterior."
+  },
+  "74090685": {
+   "fragment_id": "74088703",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deveres de informação\n\nAs EIIEL estabelecidas em Portugal devem elaborar relatórios anuais, contemplando as atividades desenvolvidas e identificando, nomeadamente, o resultado das inspeções realizadas, tendo em vista a melhoria das instalações elétricas de serviço particular existentes, os quais devem ser entregues na DGEG até ao final do mês de janeiro do ano seguinte àquele a que respeitam."
+  },
+  "74090686": {
+   "fragment_id": "74088704",
+   "type": 1,
+   "heading": "Capítulo IV — Técnicos responsáveis pelo projeto e pela exploração das instalações elétricas de serviço particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Técnicos responsáveis pelo projeto e pela exploração das instalações elétricas de serviço particular"
+  },
+  "74090687": {
+   "fragment_id": "74088705",
+   "type": 11,
+   "heading": "Artigo 19.º — Técnico responsável pelo projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Técnico responsável pelo projeto\n\nO técnico responsável pelo projeto de instalações elétricas de serviço particular deve ser engenheiro da especialidade de engenharia eletrotécnica ou engenheiro técnico da especialidade de engenharia de energia e sistemas de potência, nos termos do regime jurídico aplicável ao exercício da atividade dos profissionais da construção, estando sujeito ao cumprimento das regras legais e demais requisitos de exercícios aplicáveis à atividade de conceção das instalações elétricas de serviço particular."
+  },
+  "74090688": {
+   "fragment_id": "74088706",
+   "type": 11,
+   "heading": "Artigo 20.º — Técnico responsável pela exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Técnico responsável pela exploração\n\n1 - O técnico responsável pela exploração de instalações elétricas de serviço particular, cuja presença seja exigida nos termos do respetivo regime legal, nomeadamente para as instalações de serviço particular que apresentam maior risco para a proteção de pessoas e bens e maior complexidade, deve possuir:\n\na) Título de engenheiro da especialidade de engenharia eletrotécnica;\n\nb) Título de engenheiro técnico da especialidade de engenharia de energia e de sistemas de potência;\n\nc) Qualificação de dupla certificação de, pelo menos, nível 4 do Quadro Nacional de Qualificações, obtida por via das modalidades de educação e formação do Sistema Nacional de Qualificações, que integrem unidades de formação de curta duração na área das instalações elétricas e respeitem os conteúdos definidos no Catálogo Nacional de Qualificações; ou\n\nd) No mínimo, o 12.º ano de escolaridade e conclusão, com aproveitamento, das unidades de formação de curta duração na área das instalações elétricas, integradas no Catálogo Nacional de Qualificações.\n\n2 - Para efeitos do disposto no número anterior, os técnicos de exploração que não sejam engenheiros da especialidade de engenharia eletrotécnica ou engenheiros técnicos da especialidade de engenharia de energia e de sistemas de potência só podem assumir a responsabilidade pela exploração de instalações elétricas de tensão até 30 kV e potência até 250 kVA.\n\n3 - As instalações elétricas que carecem de técnico responsável pela exploração são definidas no decreto-lei referido no n.º 6 do artigo 2.º\n\n4 - O técnico responsável pela exploração de instalações elétricas de serviço particular deve possuir um seguro de responsabilidade civil válido para cobrir quaisquer danos corporais e materiais sofridos por terceiros, no decurso e em resultado do exercício da sua atividade no valor de (euro) 50 000.\n\n5 - O seguro referido no número anterior pode ser substituído por seguro, garantia financeira ou instrumento equivalente, que cubra, nos termos previstos nos números anteriores, as respetivas atividades a exercer em território nacional, nos termos do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n6 - O técnico responsável pela exploração de instalações elétricas de serviço particular pode desempenhar atividade de técnico responsável pela execução de instalações elétricas de serviço particular."
+  },
+  "74090689": {
+   "fragment_id": "74088707",
+   "type": 1,
+   "heading": "Capítulo V — Certificação das entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Certificação das entidades formadoras"
+  },
+  "74090690": {
+   "fragment_id": "74088708",
+   "type": 11,
+   "heading": "Artigo 21.º — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entidades formadoras\n\nAs entidades que ministram a formação adequada para os técnicos responsáveis mencionada na alínea c) do n.º 1 do artigo 5.º e na alínea c) do n.º 1 do artigo anterior, conducente à sua qualificação, são entidades da rede do Sistema Nacional de Qualificações ou do ensino superior."
+  },
+  "74090691": {
+   "fragment_id": "74088709",
+   "type": 11,
+   "heading": "Artigo 22.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Certificação\n\n1 - A certificação das EF referidas no artigo anterior segue os termos do regime quadro para a certificação de entidades formadoras, aprovado pela Portaria n.º 851/2010, de 6 de setembro, alterada pela Portaria n.º 208/2013, de 26 de junho, com as seguintes adaptações:\n\na) A entidade competente para a certificação é a DGEG;\n\nb) Os demais requisitos específicos, em complemento ou derrogação dos requisitos constantes da portaria que regula a certificação de organismos formadores, nomeadamente os conteúdos programático e carga horária da formação, são aprovados por portaria dos membros do Governo responsáveis pelas áreas da energia, da formação profissional e da educação.\n\n2 - A certificação das EF pela DGEG, seja expressa ou tácita, é comunicada ao serviço central competente do ministério responsável pela área da formação profissional no prazo de 10 dias.\n\n3 - A DGEG divulga a lista das EF certificadas no seu sítio na Internet.\n\n4 - A DGEG pode disponibilizar às EF uma plataforma informática de gestão do sistema relativo às ações de formação, aos formandos e licenças atribuídas, acessível através do balcão único dos serviços a que se refere o artigo 31.º e do sítio na Internet da DGEG.\n\n5 - O procedimento de certificação pela DGEG tem início após o pagamento da taxa prevista no artigo 30.º\n\n6 - A DGEG pode proceder a auditorias às EF por si certificadas, a fim de confirmar se os requisitos que possibilitaram a sua certificação se mantêm válidos."
+  },
+  "74090692": {
+   "fragment_id": "74088710",
+   "type": 11,
+   "heading": "Artigo 23.º — Comunicação dos cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comunicação dos cursos de formação\n\n1 - As EF certificadas nos termos do artigo anterior devem apresentar à DGEG mera comunicação prévia, relativamente a cada curso de formação, com indicação dos seguintes elementos:\n\na) Identificação da ação a ministrar, com data de início, duração, horário de funcionamento e local;\n\nb) Cópia ou acesso eletrónico, pela DGEG, aos manuais de formação do curso;\n\nc) Identificação dos formadores, com indicação das matérias a ministrar, acompanhada de curriculum vitae;\n\nd) Identificação dos formandos.\n\n2 - O disposto no número anterior aplica-se às EF legalmente estabelecidas noutro Estado membro da União Europeia ou do Espaço Económico Europeu para ministrar cursos equivalentes aos referidos no número anterior, que pretendam ministrar cursos de formação em território nacional, conformes à presente lei, de forma ocasional e esporádica."
+  },
+  "74090693": {
+   "fragment_id": "74088711",
+   "type": 11,
+   "heading": "Artigo 24.º — Deveres das entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Deveres das entidades formadoras\n\nPara além do dever de comunicação previsto no artigo anterior, são ainda deveres das EF:\n\na) Comunicar à DGEG, no prazo de 10 dias após o termo de cada ação de formação, a identificação dos formandos que terminem com aproveitamento a formação em causa, para efeitos de atualização do registo na lista referida no artigo 32.º;\n\nb) Colaborar nas ações de acompanhamento e de avaliação técnico-pedagógica realizadas pela DGEG;\n\nc) Fornecer à DGEG os elementos relativos ao exercício da atividade, sempre que tal lhes seja solicitado;\n\nd) Manter, pelo período de cinco anos, o registo das ações de formação realizadas, bem como os processos individuais dos formandos, os quais podem ser desmaterializados, com cópia de segurança, e devem estar disponíveis, a todo o tempo, à DGEG, para consulta de informações;\n\ne) Prestar informação e colaborar com a DGEG no domínio do reconhecimento das qualificações profissionais no âmbito da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio;\n\nf) Propor a alteração dos conteúdos das matérias formativas, sempre que as alterações e inovações legais ou da natureza técnica o justifiquem;\n\ng) Emitir os certificados de qualificações dos formandos que obtenham aproveitamento;\n\nh) Disponibilizar à DGEG, pelos meios legalmente admissíveis, os certificados mencionados na alínea anterior para emissão, mediante solicitação dos interessados, do cartão de identificação dos técnicos responsáveis mencionados da alínea c) do n.º 1 do artigo 5.º e da alínea c) do n.º 1 do artigo 20.º"
+  },
+  "74090694": {
+   "fragment_id": "74088712",
+   "type": 11,
+   "heading": "Artigo 25.º — Revogação e caducidade da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação e caducidade da certificação\n\nA revogação e caducidade da certificação das EF pela DGEG seguem os trâmites do regime quadro de certificação de entidades formadoras."
+  },
+  "74090695": {
+   "fragment_id": "74088713",
+   "type": 1,
+   "heading": "Capítulo VI — Entidades e técnicos legalmente estabelecidos noutro Estado membro da União Europeia ou do Espaço Económico Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Entidades e técnicos legalmente estabelecidos noutro Estado membro da União Europeia ou do Espaço Económico Europeu"
+  },
+  "74090696": {
+   "fragment_id": "74088714",
+   "type": 11,
+   "heading": "Artigo 26.º — Livre prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Livre prestação de serviços\n\n1 - As entidades legalmente estabelecidas noutro Estado membro da União Europeia ou do Espaço Económico Europeu para a prática da atividade de inspeção de instalações elétricas de serviço particular podem, nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 92/2010, de 26 de julho, exercer essa atividade de forma ocasional e esporádica, em território nacional.\n\n2 - Para efeito do disposto no número anterior, as entidades devem apresentar mera comunicação prévia à DGEG, acompanhada da documentação referida nas alíneas c), d), e), f) e g) do artigo 10.º\n\n3 - A comunicação referida no número anterior serve de declaração prévia relativa aos profissionais em causa, devendo a DGEG remetê-la à associação pública profissional competente para a sua receção e tratamento, nos termos dos artigos 5.º e 6.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, dos respetivos estatutos e demais normas aplicáveis, em conformidade com o disposto na alínea a) do n.º 2 do artigo 3.º\n\n4 - A comunicação referida no n.º 2 é realizada uma única vez, aquando da primeira prestação de serviços em Portugal.\n\n5 - As entidades referidas no n.º 1 são equiparadas, para todos os efeitos legais, a EIIEL, ficando sujeitas ao cumprimento dos requisitos de exercício das atividades que lhes sejam aplicáveis atenta a natureza ocasional e esporádica da atividade em território nacional, nomeadamente os constantes dos n.os 5 e 6 do artigo 8.º e dos artigos 9.º e 15.º\n\n6 - Os técnicos legalmente estabelecidos noutro Estado membro da União Europeia ou do Espaço Económico Europeu que desenvolvam atividades de técnico responsável pelo projeto, pela execução e pela exploração de instalações elétricas de serviço particular podem exercer essas mesmas atividades de forma ocasional e esporádica no território nacional, devendo, para o efeito, apresentar declaração prévia à DGEG ou à associação pública profissional competente em conformidade com a repartição de competências estabelecida no n.º 2 do artigo 3.º, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, após o que são automaticamente inscritos na lista referida no artigo 32.º, quando aplicável.\n\n7 - Os técnicos referidos no número anterior estão sujeitos aos requisitos de exercício das respetivas atividades vigentes em território nacional na medida em que sejam aplicáveis a prestações ocasionais e esporádicas.\n\n8 - As entidades estabelecidas noutro Estado membro da União Europeia ou do Espaço Económico Europeu que desenvolvam atividades de execução de instalações elétricas de serviço particular, podem, nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 92/2010, de 26 de julho, exercer essa atividade de forma ocasional e esporádica, em território nacional, devendo observar o procedimento previsto no regime jurídico aplicável ao exercício da atividade da construção.\n\n9 - Sem prejuízo do disposto no n.º 2 do artigo 23.º, às EF legalmente estabelecidas noutro Estado membro da União Europeia ou do Espaço Económico Europeu que pretendam ministrar os cursos de formação referidos nos artigos 5.º e 20.º em território nacional de forma ocasional e esporádica aplica-se o disposto no regime de certificação para acesso e exercício da atividade de formação profissional, aprovado pela Portaria n.º 851/2010, de 6 de setembro, alterada pela Portaria n.º 208/2013, de 26 de junho."
+  },
+  "74090697": {
+   "fragment_id": "74088715",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições complementares, transitórias e finais"
+  },
+  "74090698": {
+   "fragment_id": "74088716",
+   "type": 11,
+   "heading": "Artigo 27.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Contraordenações\n\n1 - Constituem contraordenações, punidas com coima de (euro) 250 a (euro) 3 740, no caso de pessoa singular, e de (euro) 2 500 a (euro) 44 000, no caso de pessoa coletiva:\n\na) A violação dos deveres e normas legais e regulamentares aplicáveis aos técnicos e entidades previstos na presente lei;\n\nb) A violação do disposto nos artigos 2.º e 4.º;\n\nc) O exercício de atividade de uma EIIEL estabelecida em Portugal sem estar reconhecida pela DGEG, como previsto no artigo 2.º, ou em livre prestação de serviços sem prévia comunicação, nos termos do artigo 26.º;\n\nd) A inexistência de quadro de pessoal mínimo em EIIEL ou a contratação de diretor técnico ou inspetores em violação do disposto no artigo 7.º;\n\ne) A falta da apólice do seguro de responsabilidade civil devidamente atualizada ou do comprovativo de contratação de garantia financeira equivalente, nos termos do artigo 8.º;\n\nf) A violação do segredo profissional previsto no n.º 5 do artigo 9.º por parte de uma EIIEL;\n\ng) A não elaboração e entrega de relatórios ou da informação previstos no artigo 18.º por parte das EIIEL;\n\nh) O exercício da atividade de formação profissional por organismo sem certificação válida, nos termos do artigo 22.º, bem como a violação do disposto nos artigos 23.º e 24.º\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n4 - Em função da gravidade da infração e da culpa do infrator, podem ser aplicadas as sanções acessórias previstas na alínea b) do n.º 1 do artigo 21.º e no n.º 1 do artigo 22.º do regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n5 - Às contraordenações previstas na presente lei é subsidiariamente aplicável o regime geral das contraordenações."
+  },
+  "74090699": {
+   "fragment_id": "74088717",
+   "type": 11,
+   "heading": "Artigo 28.º — Fiscalização, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fiscalização, instrução e decisão\n\n1 - Sem prejuízo das competências atribuídas a outras entidades, compete à DGEG a fiscalização do cumprimento das obrigações previstas na presente lei.\n\n2 - Os processos de contraordenação previstos na presente lei são instruídos pela DGEG, cabendo ao Diretor-Geral de Energia e Geologia a aplicação das coimas e sanções acessórias.\n\n3 - Tratando-se de processo de contraordenação instaurado a um técnico responsável engenheiro ou engenheiro técnico, a DGEG dá, de imediato, conhecimento desse facto à associação pública profissional respetiva."
+  },
+  "74090700": {
+   "fragment_id": "74088718",
+   "type": 11,
+   "heading": "Artigo 29.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Destino das coimas\n\nO produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para o Estado;\n\nb) 40 % para a DGEG."
+  },
+  "74090701": {
+   "fragment_id": "74088719",
+   "type": 11,
+   "heading": "Artigo 30.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Taxas\n\n1 - São devidas taxas pelo reconhecimento das EIIEL e pela certificação de EF, as quais são consignadas à satisfação dos encargos incorridos.\n\n2 - As taxas previstas no número anterior devem ser pagas no momento da apresentação dos correspondentes pedidos.\n\n3 - O valor, a atualização, a distribuição do produto e o modo de cobrança das taxas a que se referem os números anteriores são definidos por portaria do membro do Governo responsável pela área da energia."
+  },
+  "74090702": {
+   "fragment_id": "74088720",
+   "type": 11,
+   "heading": "Artigo 31.º — Balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Balcão único\n\n1 - Sem prejuízo do disposto no n.º 3, todos os pedidos, comunicações e notificações ou, em geral, quaisquer declarações entre os interessados e as autoridades competentes para os procedimentos de registo ou de reconhecimento ou decorrentes do exercício das atividades previstas na presente lei são realizados por meios eletrónicos, através do balcão único eletrónico referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do Portal da Empresa ou do sítio na Internet da DGEG.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.\n\n3 - Os técnicos legalmente estabelecidos noutro Estado membro da União Europeia ou do Espaço Económico Europeu podem apresentar a declaração prévia nos termos dos artigos 5.º e 6.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, por qualquer meio legalmente admissível."
+  },
+  "74090703": {
+   "fragment_id": "74088721",
+   "type": 11,
+   "heading": "Artigo 32.º — Listagem de técnicos e entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Listagem de técnicos e entidades\n\n1 - A DGEG deve publicitar, designadamente através do balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do seu sítio na Internet, listagens das EI, dos técnicos responsáveis pelo projeto, pela execução e pela exploração de instalações elétricas de serviço particular estabelecidos em território nacional ou que aqui operem em regime de livre prestação de serviços e das EIIEL reconhecidas, estabelecidas em território nacional ou que aqui operem em regime de livre prestação de serviços.\n\n2 - A informação referida no número anterior é obtida pela DGEG durante o decorrer da atividade exercida por parte destas entidades e profissionais, que estão obrigados a registar os seus atos no SRIESP, a aprovar por decreto-lei."
+  },
+  "74090704": {
+   "fragment_id": "74088722",
+   "type": 11,
+   "heading": "Artigo 33.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cooperação administrativa\n\nAs autoridades administrativas competentes nos termos da presente lei prestam e solicitam às autoridades administrativas dos outros Estados membros e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente, nomeadamente através do Sistema de Informação do Mercado Interno, no âmbito dos procedimentos relativos a prestadores de serviços provenientes de outro Estado membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio."
+  },
+  "74090705": {
+   "fragment_id": "74088723",
+   "type": 11,
+   "heading": "Artigo 34.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Disposições transitórias\n\n1 - Sem prejuízo do disposto no n.º 3, os técnicos responsáveis por instalações elétricas de serviço particular, regularmente inscritos nos serviços competentes, podem manter-se no exercício das respetivas atividades sem necessidade de cumprir os requisitos de qualificações constantes da presente lei.\n\n2 - Os inspetores que prestem legalmente serviços à data da entrada em vigor da presente lei podem continuar a exercer as respetivas funções no âmbito das EIIEL, sem necessidade de qualquer formalidade adicional.\n\n3 - Os técnicos e os inspetores mencionados nos números anteriores, que não sejam engenheiros da especialidade de engenharia eletrotécnica ou engenheiros técnicos da especialidade de engenharia de energia e sistemas de potência, que prestem legalmente serviços à data da entrada em vigor da presente lei, devem, no prazo de cinco anos contados da data de entrada em vigor da presente lei, frequentar formação de atualização, nomeadamente unidades de formação de curta duração integrada no Catálogo Nacional de Qualificações, ministrada por entidade formadora certificada pela DGEG, após o que podem continuar a exercer as respetivas funções, sem necessidade de qualquer formalidade adicional.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624) Prorrogado por um ano, o prazo fixado no n.º 3 do presente artigo, para a frequência da formação de atualização por parte dos técnicos responsáveis e dos inspetores das instalações elétricas de serviço particular abrangidos, com vista ao prosseguimento do exercício das respetivas funções."
+  },
+  "74090706": {
+   "fragment_id": "74088724",
+   "type": 11,
+   "heading": "Artigo 35.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Remissões\n\nAs remissões de normas contidas em atos legislativos ou regulamentares para o Estatuto do Técnico Responsável por Instalações Elétricas de Serviço Particular, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de abril, alterado pelo Decreto-Lei n.º 229/2006, de 24 de novembro, ou para o Regulamento da Atividade das Entidades Regionais Inspetoras de Instalações Elétricas e o Regulamento para a Seleção e Reconhecimento das Entidades Regionais Inspetoras de Instalações Elétricas, constantes dos anexos II e III da Portaria n.º 662/96, de 14 de novembro, consideram-se efetuadas para as disposições correspondentes da presente lei."
+  },
+  "74090707": {
+   "fragment_id": "74088725",
+   "type": 11,
+   "heading": "Artigo 36.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regiões autónomas\n\n1 - Os atos e os procedimentos necessários à execução da presente lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades e órgãos das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - Nos termos do n.º 1 do artigo 17.º do Decreto-Lei n.º 92/2010, de 26 de julho, os controlos exercidos, quer pelos organismos da administração central do Estado, quer pelas entidades e órgãos competentes das administrações das regiões autónomas, no âmbito da presente lei, são válidos para todo o território nacional.\n\n3 - O produto das coimas resultantes das contraordenações previstas na presente lei aplicadas nas regiões autónomas constitui receita própria destas."
+  },
+  "74090708": {
+   "fragment_id": "74088726",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 229/2006, de 24 de novembro;\n\nb) O Decreto Regulamentar n.º 31/83, de 18 de abril;\n\nc) Os artigos 16.º e 17.º do anexo I e os anexos II e III da Portaria n.º 662/96, de 14 de novembro;\n\nd) A Portaria n.º 558/2009, de 27 de maio."
+  },
+  "74090709": {
+   "fragment_id": "74088727",
+   "type": 11,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nA presente lei entra em vigor 180 dias após a sua publicação."
+  },
+  "872277420": {
+   "fragment_id": "74088708",
+   "type": 11,
+   "heading": "Artigo 21.º — Entidades formadoras",
+   "in_force_from": "2020-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+   ],
+   "markdown": "###### Artigo 21.º — Entidades formadoras\n\nAs entidades que ministram a formação, adequada para os técnicos responsáveis e para os inspetores, mencionada na alínea c) do n.º 1 do artigo 5.º, na alínea c) do n.º 1 do artigo anterior e no n.º 3 do artigo 34.º, conducente à sua qualificação, são entidades da rede do Sistema Nacional de Qualificações ou do ensino superior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2020 - Diário da República n.º 185/2020, Série I de 2020-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2020-143437624), em vigor a partir de 2020-09-23, produz efeitos a partir de 2020-08-17"
+  },
+  "74090710": {
+   "fragment_id": "74088728",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 12 de dezembro de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 5 de fevereiro de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 6 de fevereiro de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

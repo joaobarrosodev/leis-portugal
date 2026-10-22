@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:208064851:por
+title: Portaria n.º 62/2023
+short_title: null
+summary: Portaria de extensão do contrato coletivo e suas alterações entre a Associação Nacional dos Industriais de Lanifícios
+  (ANIL) e outra e a Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal
+  - FESETE
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 62/2023
+official_date: null
+publication_date: '2023-03-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2023, Série I de 2023-03-02
+  number: '44'
+  series: I
+  supplement: null
+  pages: 24 - 27
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/03/04400/0002400027.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/62/2023/03/02/p/dre/pt/html
+  oj: null
+  dre: '208064851'
+  dre_path: /dr/detalhe/portaria/62-2023-208064851
+  internal: pt:dre:208064851:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2023-208064851
+  metadata_url: https://data.dre.pt/eli/port/62/2023/03/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2023-208064851
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-03-02T00:00:00Z'
+integrity:
+  source_sha256: 94709eecf7ed90150222dc5bd082c1d34afd62a1269460d1629ed8da99588f89
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-62-208064851.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato Coletivo de Trabalho
+- Regime Laboral
+- Convenção Coletiva de Trabalho
+- Entidade Patronal
+- Indústria Têxtil
+- Indústria do Vestuário e Confecção
+- Condições de Higiene e Segurança no Trabalho
+- Regulamento de Extensão
+- Relações de Trabalho
+- Remuneração
+- Subsídio de Refeição
+- Tabela Salarial
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: eli:ht
+  label: null
+  source: ht
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/108/2016/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/108/2016/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1260/2009/10/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1260/2009/10/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/163/2008/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/163/2008/02/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/172/2018/06/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/172/2018/06/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/175/2007/02/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/175/2007/02/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/206/2009/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/206/2009/02/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/277/2017/09/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/277/2017/09/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/611/2010/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/611/2010/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/64/2017/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/64/2017/02/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/9/2015/01/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/9/2015/01/12/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 62/2023
+
+de 2 de março
+
+Portaria de extensão do contrato coletivo e suas alterações entre a Associação Nacional dos Industriais de Lanifícios (ANIL) e outra e a Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal - FESETE
+
+O contrato coletivo entre a Associação Nacional dos Industriais de Lanifícios (ANIL) e outra e a Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal - FESETE, publicado no Boletim do Trabalho e Emprego (BTE), n.º 19, de 22 de maio de 2006, e suas alterações publicadas no mesmo boletim, n.º 25, de 8 de julho de 2007, n.º 20, de 29 de maio de 2008, n.º 17, de 8 de maio de 2009, n.º 16, de 29 de abril de 2010, n.º 30, de 15 de agosto de 2011, n.º 29, de 8 de agosto de 2014, n.º 39, de 22 de outubro de 2015, n.º 25, de 8 de julho de 2016, n.º 21, de 8 de junho de 2017, n.º 17, de 8 de maio de 2018, n.º 40, de 29 de outubro de 2021, e n.º 24, de 29 de junho de 2022, abrangem no território nacional as relações de trabalho entre empregadores que se dediquem à indústria de lanifícios, têxteis-lar, têxtil algodoeira e fibras, rendas, bordados, passamanarias e tapeçaria e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, uns e outros representados pelas associações outorgantes.
+
+As condições de trabalho previstas no contrato coletivo e suas alterações entre a Associação Nacional dos Industriais de Lanifícios (ANIL) e outra e a Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal - FESETE, publicadas no BTE, n.º 19, de 22 de maio de 2006, n.º 25, de 8 de julho de 2007, n.º 20, de 29 de maio de 2008, n.º 17, de 8 de maio de 2009, n.º 16, de 29 de abril de 2010, n.º 29, de 8 de agosto de 2014, n.º 39, de 22 de outubro de 2015, n.º 25, de 8 de julho de 2016, n.º 21, de 8 de junho de 2017, n.º 17, de 8 de maio de 2018, foram objeto de extensão, respetivamente, através das Portarias n.º [175/2007](https://diariodarepublica.pt/dr/detalhe/portaria/175-2007-518202), de 8 de fevereiro, n.º [163/2008](https://diariodarepublica.pt/dr/detalhe/portaria/163-2008-247982), de 15 de fevereiro, n.º [206/2009](https://diariodarepublica.pt/dr/detalhe/portaria/206-2009-602032), de 23 de fevereiro, n.º [1260/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1260-2009-483076), de 15 de outubro, n.º [611/2010](https://diariodarepublica.pt/dr/detalhe/portaria/611-2010-333803), de 3 de agosto, n.º [9/2015](https://diariodarepublica.pt/dr/detalhe/portaria/9-2015-66145315), de 12 de janeiro, n.º [108/2016](https://diariodarepublica.pt/dr/detalhe/portaria/108-2016-74284598), de 27 de abril, n.º [64/2017](https://diariodarepublica.pt/dr/detalhe/portaria/64-2017-106434268), de 13 de fevereiro, n.º [277/2017](https://diariodarepublica.pt/dr/detalhe/portaria/277-2017-108165170), de 18 de setembro, e n.º [172/2018](https://diariodarepublica.pt/dr/detalhe/portaria/172-2018-115514275), de 14 de junho, também publicadas no BTE, n.º 5, de 8 de fevereiro de 2007, n.º 7, de 22 de fevereiro de 2008, n.º 8, de 28 de fevereiro de 2009, n.º 39, de 22 de outubro de 2009, n.º 29, de 8 de agosto de 2010, n.º 1, de 8 de janeiro de 2015, n.º 17, de 8 de maio de 2016, n.º 7, de 22 de fevereiro de 2017, n.º 35, de 22 de setembro de 2017, e n.º 24, de 29 de junho de 2018, no território do continente, às relações de trabalho entre empregadores e trabalhadores ao seu serviço sem regulamentação coletiva negocial aplicável, que exerçam as atividades abrangidas pela convenção, com exceção dos empregadores filiados na ATP - Associação Têxtil e Vestuário de Portugal, com os fundamentos previstos nas portarias emitidas. Em sequência do aviso de projeto de portaria de extensão das alterações do contrato coletivo entre a Associação Nacional dos Industriais de Lanifícios (ANIL) e outra e a Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal - FESETE, publicado no BTE, separata, n.º 5, de 28 de janeiro de 2022, as partes outorgantes requereram a alteração do âmbito das extensões do contrato coletivo e suas alterações, emitidas entre 2007 e 2018, solicitando o seu alargamento a todas as relações de trabalho não abrangidas por instrumento de regulamentação coletiva de trabalho negocial. O mesmo foi requerido posteriormente, aquando do pedido de depósito da alteração do contrato coletivo, entretanto publicada no BTE, n.º 24, de 29 de junho de 2022. Neste sentido, importou promover a publicação de novo aviso de projeto de portaria de extensão para efeitos de apreciação pública porquanto o requerido diferia do anterior projeto de extensão publicado.
+
+De acordo com o n.º 1 do artigo 514.º do Código do Trabalho, a convenção coletiva pode ser aplicada, no todo ou em parte, por portaria de extensão a empregadores e a trabalhadores integrados no âmbito do setor de atividade e profissional definido naquele instrumento. O n.º 2 do referido normativo legal determina ainda que a extensão é possível mediante a ponderação de circunstâncias sociais e económicas que a justifiquem, nomeadamente a identidade ou semelhança económica e social das situações no âmbito da extensão e no instrumento a que se refere.
+
+Existindo identidade económica e social entre as situações que se pretende abranger com a extensão e as previstas na convenção em apreço, foi promovida a realização do estudo de avaliação dos indicadores previstos nas alíneas a) a e) do n.º 1 da [Resolução do Conselho de Ministros (RCM) n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho, através dos elementos disponíveis no apuramento do relatório único/quadros de pessoal de 2020. De acordo com o estudo, estavam abrangidos pelo instrumento de regulamentação coletiva de trabalho, direta e indiretamente, 12 516 trabalhadores por conta de outrem a tempo completo (TCO), excluindo os praticantes e aprendizes e o residual, dos quais 46,7 % são mulheres e 53,3 % são homens. De acordo com os dados da amostra, o estudo indica que para 3 262 TCO (26,1 % do total) as remunerações devidas são iguais ou superiores às remunerações convencionais enquanto para 9 254 TCO (73,9 % do total) as remunerações devidas são inferiores às convencionais, dos quais 49 % são homens e 51 % são mulheres. Quanto ao impacto salarial da extensão, a atualização das remunerações representa um acréscimo de 0,8 % na massa salarial do total dos trabalhadores e de 1,3 % para os trabalhadores cujas remunerações devidas serão alteradas. Na perspetiva da promoção de melhores níveis de coesão e igualdade social o estudo indica uma redução no leque salarial e uma diminuição das desigualdades.
+
+Neste contexto, ponderadas as circunstâncias sociais e económicas justificativas da extensão de acordo com o disposto no n.º 2 do artigo 514.º do Código do Trabalho, promove-se o alargamento do âmbito de aplicação do contrato coletivo e suas alterações em vigor às relações de trabalho não abrangidas por regulamentação coletiva negocial porquanto tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo setor.
+
+Considerando que a convenção tem por âmbito geográfico de aplicação todo o território nacional e que a extensão de convenção coletiva nas Regiões Autónomas compete aos respetivos Governos Regionais, a presente portaria apenas é aplicável no território do continente.
+
+Considerando que a convenção coletiva regula diversas condições de trabalho, procede-se à ressalva genérica do âmbito de aplicação da extensão de cláusulas contrárias a normas legais imperativas.
+
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.os 2 e 4 da RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do depósito da convenção e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
+
+Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego (BTE), separata, n.º 20, de 3 de novembro de 2022, ao qual a ATP - Associação Têxtil e Vestuário de Portugal deduziu oposição aos seus termos, pretendendo a exclusão dos empregadores nela filiados que prossigam as mesmas atividades. Para tanto alega, em síntese, que: i) tem uma representatividade no setor maior que a associação de empregadores outorgante; ii) o contrato coletivo celebrado com a FESETE cessou a sua vigência e que, por força do disposto no n.º 8 do artigo 501.º do Código do Trabalho, «até à entrada em vigor de outra convenção ou decisão arbitral, mantêm-se os efeitos acordados pelas partes ou, na sua falta, os já produzidos pela convenção nos contratos de trabalho no que respeita à retribuição do trabalhador, categoria profissional e respetiva definição, duração do tempo de trabalho e regimes de proteção social...»; iii) o direito de autonomia coletiva e de negociação não implica um dever de celebrar convenções coletivas ou mesmo de encetar negociações; iv) a ausência de uma convenção coletiva é um direito que lhe assiste e decorre desse direito de autonomia; v) enquanto representante das empresas suas associadas tem legitimidade para pretender que as relações laborais dessas empresas fiquem apenas sujeitas à legislação laboral ou a um instrumento de regulamentação por si negociado; vi) após a caducidade da convenção celebrada com a FESETE apresentou uma proposta negocial à Federação sindical.
+
+Quanto à maior representatividade da oponente no setor de atividade, tal facto, a verificar-se, não é por si só motivo para a exclusão da ATP do âmbito da extensão. Como é consabido, o critério de exclusão dos associados representados pelas associações sindicais ou pelas associações de empregadores baseia-se no direito de associação dos trabalhadores e dos empregadores e no direito da autonomia negocial das associações sindicais e de empregadores em matéria de regulamentação coletiva - conferidos por lei e pelas Convenções n.º 87.º e 98.º da Organização Internacional do Trabalho (OIT), ratificadas por Portugal - quando estas manifestem expressamente a sua oposição à emissão de portaria de extensão para os seus associados. Por outro lado, a alegada existência de um processo negocial com a mesma associação sindical não é, também, um fator determinante para a exclusão da associação oponente, porquanto tal não está previsto nas normas que estabelecem a emissão de portaria de extensão. Embora a autonomia coletiva e o direito à contratação coletiva constem entre os direitos das associações sindicais e associações de empregadores, o artigo 485.º do Código do Trabalho determina, sem prejuízo daqueles direitos - vide artigo 515.º do Código do Trabalho - que o Estado deve promover a contratação coletiva de modo que as convenções coletivas sejam aplicadas ao maior número possível de trabalhadores e empregadores. Neste desiderato, a dedução de oposição (prevista no n.º 3 do artigo 516.º do Código do Trabalho) é o mecanismo legal de reação à emissão de portaria de extensão que tutela o princípio da autonomia coletiva das associações de empregadores e associações sindicais. Quanto aos efeitos da caducidade do contrato coletivo celebrado pela ATO com a FESETE, salienta-se, no entanto, que o disposto no n.º 8 do artigo 501.º do Código do Trabalho somente é aplicável às relações de trabalho abrangidas pela caducidade de convenção coletiva, não abrangendo por isso as relações de trabalho estabelecidas após a cessação da vigência do referido contrato coletivo.
+
+Neste contexto, considerando que a emissão de portaria de extensão de convenção coletiva rege-se pelo disposto nos artigos 514.º a 516.º do Código do Trabalho e que foram, também, tidos em conta os indicadores previstos da [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho, promove-se a emissão da portaria de extensão do contrato coletivo e suas alterações com vista à uniformização, na medida do possível, das condições mínimas de trabalho no setor. No entanto, considerando que o âmbito de aplicação previsto no artigo 1.º da portaria abrange as relações de trabalho onde não se verifique o princípio da dupla filiação e que assiste à associação de empregadores oponente a defesa dos direitos e interesses dos empregadores nela filiados, procede-se à exclusão do âmbito da presente extensão dos referidos empregadores.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado do Trabalho, no uso da competência delegada pelo [Despacho n.º 7910/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7910-2022-185330735), de 21 de junho, da Ministra do Trabalho, Solidariedade e Segurança Social, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho e da [Resolução do Conselho de Ministros n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), publicada no Diário da República, 1.ª série, n.º 112, de 9 de junho de 2017, o seguinte:
+
+###### Artigo 1.º
+
+1 - As condições de trabalho constantes do contrato coletivo e suas alterações em vigor entre a Associação Nacional dos Industriais de Lanifícios (ANIL) e outra e a Federação dos Sindicatos dos Trabalhadores Têxteis, Lanifícios, Vestuário, Calçado e Peles de Portugal - FESETE, publicadas no Boletim do Trabalho e Emprego (BTE), n.º 19, de 22 de maio de 2006, n.º 25, de 8 de julho de 2007, n.º 20, de 29 de maio de 2008, n.º 17, de 8 de maio de 2009, n.º 16, de 29 de abril de 2010, n.º 30, de 15 de agosto de 2011, n.º 29, de 8 de agosto de 2014, n.º 39, de 22 de outubro de 2015, n.º 25, de 8 de julho de 2016, n.º 21, de 8 de junho de 2017, n.º 17, de 8 de maio de 2018, n.º 40, de 29 de outubro de 2021, e n.º 24, de 29 de junho de 2022, são estendidas no território do continente:
+
+a) Às relações de trabalho entre empregadores não filiados nas associações de empregadores outorgantes que se dediquem à indústria de lanifícios, têxteis-lar, têxtil algodoeira e fibras, rendas, bordados, passamanarias e tapeçaria, e trabalhadores ao seu serviço das profissões e categorias profissionais previstas na convenção;
+
+b) Às relações de trabalho entre empregadores filiados nas associações de empregadores outorgantes que exerçam as atividades económicas referidas na alínea anterior e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, não representados pela associação sindical outorgante.
+
+2 - A extensão determinada na alínea a) do número anterior não é aplicável a empregadores filiados na ATP - Associação Têxtil e Vestuário de Portugal.
+
+3 - Não são objeto de extensão as cláusulas contrárias a normas legais imperativas.
+
+###### Artigo 2.º
+
+Com a entrada em vigor da presente portaria são revogadas as seguintes portarias de extensão do mesmo contrato coletivo e suas alterações:
+
+a) A [Portaria n.º 175/2007](https://diariodarepublica.pt/dr/detalhe/portaria/175-2007-518202), de 8 de fevereiro, publicada no Diário da República, 1.ª série, n.º 28, de 8 de fevereiro de 2007, e no Boletim do Trabalho e Emprego, n.º 5, de 8 de fevereiro de 2007;
+
+b) A [Portaria n.º 163/2008](https://diariodarepublica.pt/dr/detalhe/portaria/163-2008-247982), de 15 de fevereiro, publicada no Diário da República, 1.ª série, n.º 33, de 15 de fevereiro de 2008, e no Boletim do Trabalho e Emprego, n.º 7, de 22 de fevereiro de 2008;
+
+c) A [Portaria n.º 206/2009](https://diariodarepublica.pt/dr/detalhe/portaria/206-2009-602032), de 23 de fevereiro, publicada no Diário da República, 1.ª série, n.º 37, de 23 de fevereiro de 2009, e no Boletim do Trabalho e Emprego, n.º 8, de 28 de fevereiro de 2009;
+
+d) A [Portaria n.º 1260/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1260-2009-483076), de 15 de outubro, publicada no Diário da República, 1.ª série, n.º 200, de 15 de outubro de 2009, e no Boletim do Trabalho e Emprego, n.º 39, de 22 de outubro de 2009;
+
+e) A [Portaria n.º 611/2010](https://diariodarepublica.pt/dr/detalhe/portaria/611-2010-333803), de 3 de agosto, publicada no Diário da República, 1.ª série, n.º 149, de 3 de agosto de 2010, e no Boletim do Trabalho e Emprego, n.º 29, de 8 de agosto de 2010;
+
+f) A [Portaria n.º 9/2015](https://diariodarepublica.pt/dr/detalhe/portaria/9-2015-66145315), de 12 de janeiro, publicada no Diário da República, 1.ª série, n.º 7, de 12 de janeiro de 2015, e no Boletim do Trabalho e Emprego, n.º 1, de 8 de janeiro de 2015;
+
+g) A [Portaria n.º 108/2016](https://diariodarepublica.pt/dr/detalhe/portaria/108-2016-74284598), de 27 de abril, publicada no Diário da República, 1.ª série, n.º 81, de 27 de abril de 2016, e no Boletim do Trabalho e Emprego, n.º 17, de 8 de maio de 2016;
+
+h) A [Portaria n.º 64/2017](https://diariodarepublica.pt/dr/detalhe/portaria/64-2017-106434268), publicada no Diário da República, 1.ª série, n.º 31, de 13 de fevereiro de 2017, e no Boletim do Trabalho e Emprego, n.º 7, de 22 de fevereiro de 2017;
+
+i) A [Portaria n.º 277/2017](https://diariodarepublica.pt/dr/detalhe/portaria/277-2017-108165170), de 18 de setembro, publicada no Diário da República, 1.ª série, n.º 180, de 18 de setembro de 2017, e no Boletim do Trabalho e Emprego, n.º 35, de 22 de setembro de 2017;
+
+j) A [Portaria n.º 172/2018](https://diariodarepublica.pt/dr/detalhe/portaria/172-2018-115514275), de 21 de junho, publicada no Diário da República, 1.ª série, n.º 113, de 14 de junho de 2018, e no Boletim do Trabalho e Emprego, n.º 24, de 29 de junho de 2018.
+
+###### Artigo 3.º
+
+1 - A presente portaria entra em vigor no quinto dia após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e as cláusulas de natureza pecuniária em vigor previstas na convenção produzem efeitos a partir de 1 de agosto de 2022.
+
+**O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 31 de dezembro de 2022.**

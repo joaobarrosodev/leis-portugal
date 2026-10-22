@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:298837:por
+title: Decreto Regulamentar Regional n.º 6/94/A
+short_title: null
+summary: Cria, junto da Secretaria Regional das Finanças, Planeamento e Administração Pública, o Conselho Regional de Incentivos
+  (CRI)
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional
+proposing_entity: null
+official_number: 6/94/A
+official_date: null
+publication_date: '1994-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1994, Série I-B de 1994-07-15
+  number: '162'
+  series: I
+  supplement: null
+  pages: 3859 - 3860
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b00/38593860.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre/pt/html
+  oj: null
+  dre: '298837'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/6-1994-298837
+  internal: pt:dre:298837:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1994-298837
+  metadata_url: https://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1994-298837
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-04-30T00:00:00Z'
+integrity:
+  source_sha256: 594446db35d5de1f17b68f1bcfb79cfc15b8705b13071c20d3b2088bad339738
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1994/DRE-1994-6-298837.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Regional
+- Conselho Regional de Incentivos
+- Definição de Competências
+- Secretaria Regional das Finanças Planeamento e Administração Pública
+- Orgânica
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:152710:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/10/1991/03/23/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/10/1991/03/23/a/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 6/94/A
+
+A concessão de incentivos ao investimento privado constitui um aspecto da maior importância no quadro da política económica regional, tendo vindo a ser desenvolvidos, nos últimos anos, sérios esforços no sentido de se conseguir uma maior eficácia e celeridade no processo tendente à concessão de incentivos.
+
+A escassez dos recursos disponíveis determina, por outro lado, especiais cuidados com a definição de uma estratégia de gestão dos incentivos, que só pode ser conseguida através da associação entre entidades públicas e privadas.
+
+A experiência acumulada ao longo dos últimos anos deverá continuar a ser aproveitada, ao mesmo tempo que se introduzem algumas inovações, de que se pretende que venham a resultar benefícios para a economia regional.
+
+Assim, em execução dos artigos 7.º, alínea a), 8.º e 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Criação
+
+É criado, junto da Secretaria Regional das Finanças, Planeamento e Administração Pública, o Conselho Regional de Incentivos, adiante designado, abreviadamente, por CRI.
+
+###### Artigo 2.º — Natureza
+
+O CRI é um órgão consultivo do Governo Regional, destinado a acompanhar a política relativa aos vários sistemas de incentivos, nacionais ou regionais, ao comércio, indústria e turismo e outros dos sectores secundário e terciário, existentes ou a criar.
+
+###### Artigo 3.º — Atribuições
+
+São atribuições do CRI:
+
+a) Propor ou dar parecer sobre a estratégia e os objectivos de concessão dos incentivos ao investimento privado, no âmbito da Região Autónoma dos Açores;
+
+b) Propor a criação de novos incentivos para áreas consideradas prioritárias ou a adequação de sistemas já existentes;
+
+c) Definir estratégias de divulgação dos sistemas de incentivos existentes;
+
+d) Dar parecer sobre qualquer assunto relacionado com a política de incentivos que lhe seja submetido pelo Governo Regional;
+
+e) Deliberar sobre a selecção dos projectos apresentados e respectiva hierarquização, submetendo as correspondentes propostas ao Governo Regional ou aos organismos nacionais competentes;
+
+f) Acompanhar a realização dos projectos ou acções, solicitando as auditorias que achar convenientes, e requerer, quando se mostre adequado, a fiscalização extraordinária pelos órgãos competentes.
+
+###### Artigo 4.º — Gestão dos incentivos financeiros
+
+A gestão dos incentivos financeiros pelo CRI será apoiada pelo IIPA - Instituto de Investimento e Privatizações dos Açores, salvo quanto aos do turismo, cujo apoio será prestado pela Direcção Regional do Turismo (DRT), competindo a esta e àquele Instituto, designadamente:
+
+a) Receber os processos de candidatura directamente dos promotores ou da instituição de crédito financiadora;
+
+b) Verificar o cumprimento dos requisitos de acesso aos sistemas;
+
+c) Obter os pareceres necessários à instrução dos processos de candidatura;
+
+d) Propor o montante do incentivo financeiro a conceder, de acordo com o cálculo efectuado, nos termos da regulamentação do sistema;
+
+e) Celebrar, com o promotor, o contrato de concessão de incentivos financeiros, quando o incentivo tenha natureza contratual, bem como propor a renegociação, a resolução e a cessão da posição contratual da empresa beneficiária;
+
+f) Proceder ao pagamento dos incentivos, ou, no caso da DRT, ao respectivo processamento.
+
+###### Artigo 5.º — Membros do CRI
+
+1 - O CRI é integrado por nove elementos, um dos quais presidirá, sendo três representantes do Governo Regional e seis representantes do sector privado.
+
+2 - Representarão o Governo Regional o administrador-delegado do IIPA, o director regional de Estudos e Planeamento e um director regional da área a que respeita o incentivo.
+
+3 - Os restantes membros do CRI serão nomeados por resolução do Governo Regional, levando em consideração as propostas apresentadas pela Câmara do Comércio e Indústria dos Açores.
+
+###### Artigo 6.º — Eleição e funções do presidente
+
+1 - O presidente será eleito pelos membros do CRI na reunião seguinte à nomeação a que se refere o n.º 3 do artigo anterior.
+
+2 - Compete ao presidente do CRI, designadamente, representar o Conselho, convocar reuniões ordinárias e extraordinárias, presidir às reuniões e transmitir ao Governo Regional as deliberações do Conselho.
+
+###### Artigo 7.º — Nomeação dos membros representantes do sector privado
+
+1 - Os membros do CRI representantes do sector privado são nomeados para mandatos de dois anos, não podendo exercer mais de dois mandatos consecutivos.
+
+2 - As vagas que ocorrerem no decurso de um mandato serão preenchidas num prazo de 30 dias, não havendo lugar à contagem de novo mandato para os substitutos.
+
+3 - O exercício dos mandatos prolongar-se-á até à tomada de posse dos novos membros do CRI.
+
+###### Artigo 8.º — Prazo para apreciação de projectos
+
+Sem prejuízo do que vier a ser estabelecido no regulamento interno do CRI ou da solicitação de especial urgência por parte do Governo Regional, o CRI deliberará sobre os projectos que lhe tenham sido presentes para apreciação num prazo máximo de 15 dias, a menos que outro resulte da lei que criou o incentivo.
+
+###### Artigo 9.º — Reuniões
+
+O CRI funcionará em reuniões ordinárias e extraordinárias, podendo estas últimas ser convocadas ou pelo respectivo presidente ou pelo Secretário Regional das Finanças, Planeamento e Administração Pública.
+
+###### Artigo 10.º — Deliberações
+
+As deliberações do CRI são tomadas por maioria simples dos membros presentes, dispondo o presidente de voto de qualidade em caso de empate.
+
+###### Artigo 11.º — Regulamento interno
+
+O CRI elaborará, no prazo de 30 dias a contar da tomada de posse dos seus membros, um projecto de regulamento interno, que, uma vez homologado pelo Secretário Regional das Finanças, Planeamento e Administração Pública, será publicado no Jornal Oficial da Região.
+
+###### Artigo 12.º — Apoio técnico e cobertura das despesas
+
+1 - O IIPA assegurará todo o apoio técnico necessário ao funcionamento do CRI e a Secretaria Regional das Finanças, Planeamento e Administração Pública a cobertura das despesas de funcionamento.
+
+2 - O Secretário Regional das Finanças, Planeamento e Administração Pública fixará, por despacho, as condições da remuneração do presidente e restantes membros.
+
+###### Artigo 13.º — Revogação
+
+É revogado o [Decreto Regulamentar Regional n.º 10/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1991-472709), de 23 de Março, e eliminados os artigos 8.º, 12.º e 14.º do [Decreto Regulamentar Regional n.º 34/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1989-549409), de 21 de Outubro.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Maio de 1994.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 22 de Junho de 1994.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**

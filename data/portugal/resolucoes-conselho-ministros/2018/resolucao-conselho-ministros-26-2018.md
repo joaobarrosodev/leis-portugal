@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:114832288:por
+title: Resolução do Conselho de Ministros n.º 26/2018
+short_title: null
+summary: Aprova o programa «Iniciativa Nacional Competências Digitais e.2030 - INCoDe.2030»
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 26/2018
+official_date: null
+publication_date: '2018-03-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/2018, Série I de 2018-03-08
+  number: '48'
+  series: I
+  supplement: null
+  pages: 1207 - 1209
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/26/2018/03/08/p/dre/pt/html
+  oj: null
+  dre: '114832288'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/26-2018-114832288
+  internal: pt:dre:114832288:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2018-114832288
+  metadata_url: https://data.dre.pt/eli/resolconsmin/26/2018/03/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2018-114832288
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-05-14T00:00:00Z'
+integrity:
+  source_sha256: e4b1f6fc68eede2e778b2d33784d0922c66442bbcd7655c5f4a16308eace5150
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2018/DRE-2018-26-114832288.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Economia Digital
+- Tecnologia da Informação
+- Fundação para a Ciência e a Tecnologia
+- Coordenador
+- Definição de Competências
+- Desenvolvimento
+- Mudança Tecnológica
+- Inclusão Digital
+- TIC
+- Investigação
+- Modernização Tecnológica
+- Nova Tecnologia
+- Tecnologia
+- Secretariado Técnico
+- PORTUGAL 2020
+- Iniciativa Nacional Competências Digitais e.2030
+- Fórum Permanente para as Competências Digitais
+relationships:
+- type: amended_by
+  target: pt:dre:163332292:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 26/2018
+
+A «Iniciativa Nacional Competências Digitais e.2030, Portugal INCoDe.2030» concretiza uma estratégia para o desenvolvimento digital do país, no âmbito do Programa Nacional de Reformas do XXI Governo Constitucional e encontra-se alinhada com a iniciativa «Indústria 4.0 - Estratégia Nacional para a Digitalização da Economia». Com o horizonte em 2030, pretende-se posicionar Portugal no grupo de países europeus de topo em matéria de competências digitais, tal como definidas pela Organização para a Cooperação e Desenvolvimento Económico (OCDE). A referida estratégia foi preparada em 2016 e tem sido implementada desde abril de 2017, no âmbito de um período experimental que agora interessa formalizar, dinamizar e reforçar.
+
+Neste contexto, a avaliação conduzida pela OCDE durante 2016 e 2017 aos sistemas de formação superior, ciência, tecnologia e inovação em Portugal, cujos resultados foram apresentados a 9 de fevereiro de 2018, reconhece os esforços em curso e recomenda que Portugal continue a alargar e melhorar as competências digitais e a reforçar a capacidade de exploração do potencial social e económico dos mercados digitais emergentes. Neste contexto, a OCDE recomenda a Portugal que reforce a promoção da «Iniciativa Nacional Competências Digitais e.2030, Portugal INCoDe.2030», adotando uma estratégia que mobilize e articule, de forma efetiva, recursos públicos e privados, com vista a garantir a produção de novos conhecimentos nas áreas digitais e gerar maior competitividade da economia portuguesa e a inserção das empresas em cadeias internacionais.
+
+A concretização da «Iniciativa Nacional Competências Digitais - Portugal INCoDe.2030» estrutura-se, assim, em cinco eixos essenciais: i) inclusão, através da generalização a todos os locais e camadas da população da aquisição de competências digitais para obtenção de informação, comunicação e interação; ii) educação, mediante formação das camadas mais jovens e reforço de competências digitais em todos os ciclos de ensino e de aprendizagem ao longo da vida; iii) qualificação, promovendo a capacitação profissional da população ativa, dotando-a dos conhecimentos necessários à integração num mercado de trabalho que depende crescentemente de competências digitais; iv) especialização, tendo em vista a qualificação do emprego e a criação de maior valor acrescentado na economia, reforçando a oferta de Cursos Técnicos Superiores Profissionais (TeSP) nesta área, bem como a formação graduada e pós-graduada de cariz profissional; e v) investigação, garantindo as condições para a produção de novos conhecimentos e a participação ativa em redes e programas internacionais de I&D.
+
+Desta forma, considera-se necessário garantir a concretização da «Iniciativa Nacional Competências Digitais - Portugal INCoDe.2030», através da mobilização e conjugação de esforços e de diferentes áreas da governação e da sociedade civil, dotando-a de uma estrutura de acompanhamento, de dinamização e coordenação das suas ações, que inclui a equipa de Coordenação Técnica e o Fórum Permanente para as Competências Digitais, cuja missão é dinamizar e articular um leque alargado de intervenientes institucionais e particulares, de forma a garantir uma ampla mobilização para a iniciativa.
+
+Nestes termos, importa igualmente garantir o seu apoio logístico, técnico, administrativo e financeiro, de forma a garantir a execução desta iniciativa.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar o programa «Iniciativa Nacional Competências Digitais e.2030 - INCoDe.2030», adiante designado INCoDe.2030, dinamizado através da reunião e colaboração de competências já existentes em diferentes organismos e estruturas, públicas e privadas, que consta do anexo à presente resolução e que dela faz parte integrante.
+
+2 - Determinar que o INCoDe.2030 assenta na seguinte estrutura:
+
+a) A coordenação, apoiada por um secretariado técnico formado com base em competências já existentes em diferentes organismos e estruturas públicas, designadamente nas áreas da presidência e da modernização administrativa, da ciência, tecnologia e ensino superior, da educação, do trabalho, da solidariedade e segurança social, do planeamento e infraestruturas e da economia;
+
+b) O Fórum Permanente para as Competências Digitais, cujas atividades são dinamizadas pelo secretariado técnico referido na alínea anterior.
+
+3 - Determinar que a equipa de coordenação é dirigida por um coordenador geral, especialista de reconhecida competência, a designar por despacho dos membros do Governo responsáveis pelas áreas da presidência e da modernização administrativa e da ciência, tecnologia e ensino superior.
+
+4 - Estabelecer que a equipa de coordenação inclui coordenadores para cada um dos eixos desenvolvidos no anexo à presente resolução, que sejam especialistas de reconhecida competência nas respetivas matérias, a designar por despacho dos membros do Governo responsáveis pelas áreas da presidência, da modernização administrativa, da ciência, tecnologia, ensino superior, da educação, do trabalho, da solidariedade e segurança social, do planeamento, das infraestruturas e da economia.
+
+5 - Estabelecer que o Fórum Permanente para as Competências Digitais tem como objetivo dinamizar e articular um leque alargado de intervenientes e garantir uma ampla mobilização para o INCoDe.2030, incluindo a organização de uma conferência anual pública na qual serão apresentados e comentados relatórios de monitorização e avaliação da sua implementação, bem como casos nacionais e internacionais de sucesso e boas práticas.
+
+6 - Determinar que o Fórum Permanente para as Competências Digitais é coordenado por um especialista de reconhecida competência, a designar por despacho dos membros do Governo responsáveis pelas áreas da presidência e da modernização administrativa e da ciência, tecnologia e ensino superior.
+
+7 - Determinar que o INCoDe.2030 é acompanhado e avaliado anualmente por um painel de peritos independentes e de reconhecido mérito internacional, a nomear pela Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), devendo a Direção-Geral de Estatísticas da Educação e Ciência e o Instituto Nacional de Estatísticas, I. P., disponibilizar a informação relevante para o efeito.
+
+8 - Estabelecer que a FCT, I. P., presta o apoio logístico, técnico, administrativo e financeiro, incluindo o apoio ao secretariado técnico.
+
+9 - Determinar que o Programa Portugal 2020 apoia financeiramente o INCoDe.2030, sem prejuízo de outras fontes de financiamento público ou privado legalmente admissíveis.
+
+10 - Estabelecer que a presente resolução produz efeitos a partir do dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 15 de fevereiro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se referem os n.os 1 e 4)
+
+Programa «Iniciativa Nacional Competências Digitais e.2030 - INCoDe.2030»
+
+A «Iniciativa Nacional Competências Digitais e.2030 - INCoDe.2030» pretende posicionar Portugal no grupo de topo de países europeus em competências digitais, num horizonte que se estende até 2030 e que assenta em três grandes desafios:
+
+a) A generalização da literacia digital (com vista ao exercício pleno de cidadania e à inclusão numa sociedade com interações cada vez mais desmaterializadas);
+
+b) O estímulo à empregabilidade e à capacitação e especialização profissional em tecnologias e aplicações digitais (respondendo assim a uma crescente procura) e à promoção da qualificação do emprego numa economia de maior valor acrescentado;
+
+c) A elevação da participação nacional nas redes internacionais de Investigação e Desenvolvimento (I&D) e de produção de novos conhecimentos em todas as áreas associadas à revolução digital.
+
+A concretização da «Iniciativa Nacional Competências Digitais - Portugal INCoDe.2030» estrutura-se em cinco eixos essenciais:
+
+1 - Inclusão: com a generalização a todos os locais e camadas da população do acesso às tecnologias digitais, para obtenção de informação, comunicação e interação.
+
+2 - Educação: formação das camadas mais jovens através do reforço de competências digitais em todos os ciclos de ensino e de aprendizagem ao longo da vida.
+
+3 - Qualificação: mediante capacitação profissional da população ativa, dotando-a dos conhecimentos necessários à integração num mercado de trabalho que depende crescentemente de competências digitais.
+
+4 - Especialização: tendo em vista a qualificação do emprego e a criação de maior valor acrescentado na economia, reforçando a oferta de Cursos Técnicos Superiores Profissionais nesta área, bem como a formação graduada e pós-graduada de cariz profissional.
+
+5 - Investigação: garantindo as condições para a produção de novos conhecimentos e a participação ativa em redes e programas internacionais de I&D.
+
+O conceito de Competências Digitais desenvolve-se em torno de tópicos relacionados com o processamento de informação, comunicação, interação e desenvolvimento e produção de conteúdos digitais, e ainda com o uso de tecnologias na conceção de soluções para problemas de natureza muito diversa. Pretende-se, assim, desenvolver competências com diferentes níveis de profundidade e proficiência e que mobilizam diversas instâncias governamentais, o que será feito através de programas estruturantes (i. e., «Flagship Projects») e plataformas de participação alargada, incluindo, mas não estando por elas limitado, as seguintes iniciativas:
+
+a) Planeamento de uma rede integrada de serviços públicos de comunicações que facilite o acesso à Internet por parte da população em geral, com vista a atingir as metas de acesso (tabela 1.1), no âmbito do Eixo 1;
+
+b) Constituição de uma rede de comunidades criativas para a inclusão digital que contribua para atingir as metas de acesso e potencial humano (tabelas 1.1. e 1.2), no âmbito do Eixo 1;
+
+c) Promoção da qualificação de professores na área das Tecnologias de Informação, visando atingir as metas de formação e certificação (tabela 1.5), no âmbito do Eixo 2;
+
+d) Incentivo à qualificação e especialização digital da população ativa, empregada e desempregada, no setor privado, no comércio, nos serviços, na indústria e na agricultura, estimulando competência para a transformação digital das empresas e contribuindo para as metas de potencial humano, utilização e formação e certificação (tabelas 1.2, 1.3 e 1.5), no âmbito do Eixo 3;
+
+e) Promoção da qualificação e especialização digital na Administração Pública, visando metas comuns ao ponto anterior, no âmbito do Eixo 3;
+
+f) Promoção da formação de nível superior nas áreas das Tecnologias de Informação quer como prosseguimento de estudos quer como formação ao longo da vida (tabelas 1.2, e 1.5), no âmbito do Eixo 4;
+
+g) Fomento da aplicação da Ciência dos Dados na Administração Pública, de forma a melhorar os processos de decisão e formulação de políticas públicas, no âmbito do Eixo 5;
+
+h) Desenvolvimento de uma rede nacional de computação avançada, no âmbito do Eixo 5.
+
+O programa «Iniciativa Nacional Competências Digitais e.2030 - INCoDe.2030» é dinamizado através da reunião e colaboração de competências existentes em diferentes organismos públicos e privados, e inclui uma coordenação, que acompanha o desenvolvimento de atividades, apoiada pelo secretariado técnico, e o Fórum Permanente para as Competências Digitais, cujo objetivo é dinamizar e articular um leque alargado de atores sociais, e garantir uma ampla mobilização para a iniciativa. É ainda promovido um «Observatório para as Competências Digitais», que faz o acompanhamento e reporte do desenvolvimento do programa, nomeadamente no que diz respeito às metas para a evolução das competências digitais em Portugal que constam das tabelas seguintes.
+
+TABELA 1.1
+
+Metas de acesso
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+
+TABELA 1.2
+
+Metas de potencial humano
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+
+TABELA 1.3
+
+Metas de utilização
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+
+TABELA 1.4
+
+Metas de investimento
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)
+
+TABELA 1.5
+
+Metas de formação e certificação
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf))](https://files.diariodarepublica.pt/1s/2018/03/04800/0120701209.pdf)

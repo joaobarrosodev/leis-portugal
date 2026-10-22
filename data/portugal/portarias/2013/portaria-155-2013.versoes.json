@@ -1,0 +1,547 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:260408:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-59108602",
+ "dre_path": "/dr/detalhe/portaria/155-2013-260408",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "59194782",
+    "59194783",
+    "59194784",
+    "59194785",
+    "59194786",
+    "59194787",
+    "59194788",
+    "59194789",
+    "59194790",
+    "59194791",
+    "59194792"
+   ]
+  },
+  {
+   "date": "2013-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499181:por",
+     "title": "Portaria n.º 254/2013",
+     "published": "2013-08-08",
+     "dre_path": "/dr/detalhe/portaria/254-2013-499181"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "59194782",
+    "59194816",
+    "59194784",
+    "59194817",
+    "59194818",
+    "59194819",
+    "59194820",
+    "59194789",
+    "59194790",
+    "1129941575",
+    "59194821",
+    "59194792"
+   ]
+  },
+  {
+   "date": "2014-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:59077886:por",
+     "title": "Portaria n.º 249/2014",
+     "published": "2014-11-27",
+     "dre_path": "/dr/detalhe/portaria/249-2014-59077886"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "59194782",
+    "59194844",
+    "59194784",
+    "59194845",
+    "59194846",
+    "59194847",
+    "59194820",
+    "59194789",
+    "59194790",
+    "1129941575",
+    "59194848",
+    "59194792"
+   ]
+  },
+  {
+   "date": "2019-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122393534:por",
+     "title": "Portaria n.º 160/2019",
+     "published": "2019-05-24",
+     "dre_path": "/dr/detalhe/portaria/160-2019-122393534"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "59194782",
+    "122397304",
+    "59194784",
+    "122397305",
+    "122397306",
+    "122397307",
+    "122397308",
+    "59194789",
+    "59194790",
+    "1129941575",
+    "122397309",
+    "122397310"
+   ]
+  },
+  {
+   "date": "2026-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1128002429:por",
+     "title": "Portaria n.º 242/2026/1",
+     "published": "2026-05-29",
+     "dre_path": "/dr/detalhe/portaria/242-2026-1128002429"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Revoga Anexo I",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "59194782",
+    "1128503975",
+    "59194784",
+    "1128504175",
+    "1128504375",
+    "1128504575",
+    "1128504775",
+    "59194789",
+    "59194790",
+    "1129941575",
+    "1128505075",
+    "1128505275"
+   ]
+  }
+ ],
+ "fragments": {
+  "59194782": {
+   "fragment_id": "59108603",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 155/2013\n\nde 18 de abril\n\nA atual conjuntura económico-social tem um elevado impacto nas associações de jovens, que são simultaneamente polos dinamizadores do desenvolvimento comunitário e social, escolas de cidadania, com papel preponderante na educação não-formal, e fator de empregabilidade e empreendedorismo.\n\nTal conjuntura tem colocado as questões da empregabilidade em geral e da empregabilidade jovem em particular como uma realidade incontornável do país e uma prioridade de atuação política.\n\nEm virtude deste facto, é fundamental estimular o empreendedorismo, também na sua vertente social, de modo a dinamizar e revitalizar a atividade do movimento associativo jovem, aproveitando simultaneamente a sua capacidade mobilizadora e formadora de competências, particularmente pela educação não-formal, entre os jovens.\n\nPara este efeito, torna-se necessário adotar políticas ativas que dinamizem a participação e o envolvimento das associações e federações juvenis, especificamente, no quadro da Medida \"Passaporte Emprego Associações e Federações Juvenis e Desportivas\", nos termos das alíneas a), b) e c) do n.º 4 do artigo 4.º da Portaria n.º 225-A/2012, de 31 de julho, que aprovou o Programa Impulso Jovem.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado do Desporto e Juventude, ao abrigo da Resolução do Conselho de Ministros n.º 51-A/2012, de 14 de Julho, o seguinte:"
+  },
+  "59194783": {
+   "fragment_id": "59108604",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade das associações e federações juvenis, inserida no plano estratégico de iniciativas à empregabilidade jovem e apoios às Pequenas e Médias Empresas - Impulso Jovem, através do programa Incentivo ao Desenvolvimento Associativo (IDA)."
+  },
+  "59194784": {
+   "fragment_id": "59108605",
+   "type": 11,
+   "heading": "Artigo 2.º — Dotação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dotação\n\nO Instituto Português do Desporto e Juventude, I.P. (IPDJ, I.P.), define no seu orçamento anual a dotação orçamental específica destinada ao IDA."
+  },
+  "59194785": {
+   "fragment_id": "59108606",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de elegibilidade\n\nPodem candidatar-se ao IDA as entidades referidas nas alíneas a), b) e c) do n.º 4 do artigo 4.º da Portaria n.º 225-A/2012, de 31 de julho, que integrem na sua atividade o desenvolvimento de estágios aprovados pelo Instituto do Emprego e Formação profissional, I.P, (IEFP, I.P.), a realizar no âmbito da Medida \"Passaporte Emprego Associações e Federações Juvenis e Desportivas\"."
+  },
+  "59194786": {
+   "fragment_id": "59108607",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação de candidatura\n\n1 - A candidatura ao IDA é apresentada junto dos serviços do IPDJ, I.P., em requerimento constante do anexo I à presente portaria que dela faz parte integrante, no prazo de 30 dias após a aprovação do estágio pelo IEFP, I.P.\n\n2 - O requerimento referido no número anterior deve ser acompanhado de comprovativo da aprovação do estágio pelo IEFP, I.P.\n\n3 - As entidades que tenham estágios aprovados em data anterior à data da entrada em vigor da presente portaria e que ainda não estejam terminados e preencham os requisitos mencionados no artigo anterior, podem apresentar a candidatura referida no n.º 1 relativamente a esses estágios no prazo de 30 dias após a referida entrada em vigor."
+  },
+  "59194787": {
+   "fragment_id": "59108608",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - O apoio a atribuir pelo IPDJ, I.P. por cada estágio aprovado tem o valor máximo de (euro) 1000.\n\n2 - O referido apoio destina-se, exclusivamente, à gestão dos estágios por parte das entidades mencionadas no artigo 3.º da presente portaria no âmbito da Medida \"Passaporte Emprego Associações e Federações Juvenis e Desportivas\".\n\n3 - Para efeitos do número anterior, é válida a aplicação do apoio nas despesas inerentes ao projeto de estágio, desde que não comparticipadas por outros organismos ou programas.\n\n4 - As candidaturas são apreciadas por ordem de entrada nos serviços do IPDJ, I.P, sendo os apoios concedidos até ao limite da dotação disponível, mediante avaliação prévia.\n\n5 - O incumprimento do disposto nos números 2 e 3 implica a devolução pelo beneficiário ao IPDJ, I.P. das verbas indevidamente aplicadas.\n\n6 - Caso a despesa justificada não atinja o valor do apoio atribuído, o beneficiário deve devolver ao IPDJ, I.P. todas as quantias não justificadas."
+  },
+  "59194788": {
+   "fragment_id": "59108609",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório final\n\n1 - As entidades que beneficiam do apoio devem apresentar junto dos serviços do IPDJ, I.P. um relatório final de cada estágio, no prazo de 30 dias após o termo do mesmo, de acordo com o modelo constante do anexo II à presente portaria que dela faz parte integrante.\n\n2 - A falta de entrega do relatório final devidamente preenchido, bem como a sua entrega fora do prazo estabelecido, implica a devolução integral pelo beneficiário do apoio atribuído.\n\n3 - O IPDJ, I.P. pode fiscalizar o modo como os apoios são aplicados, mediante a realização, em qualquer momento do estágio, de inspeções e inquéritos, ou determinar a realização de uma auditoria por entidade externa."
+  },
+  "59194789": {
+   "fragment_id": "59108610",
+   "type": 11,
+   "heading": "Artigo 7.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Casos omissos\n\nQuaisquer situações não previstas na presente portaria ou irregularidades detetadas são apreciadas pelo Conselho Diretivo do IPDJ, I.P. ou pelas instâncias competentes."
+  },
+  "59194790": {
+   "fragment_id": "59108611",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação."
+  },
+  "59194791": {
+   "fragment_id": "59108612",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver documento original)"
+  },
+  "59194792": {
+   "fragment_id": "59108613",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver documento original)"
+  },
+  "59194816": {
+   "fragment_id": "59108604",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2013-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade das associações e federações juvenis, inserida no plano estratégico de iniciativas de promoção da empregabilidade juvenil - Impulso Jovem, no âmbito da medida Estágios Emprego, através do programa Incentivo ao Desenvolvimento Associativo (IDA).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194817": {
+   "fragment_id": "59108606",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de elegibilidade",
+   "in_force_from": "2013-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de elegibilidade\n\n1 - Podem candidatar-se ao IDA todas as associações de jovens com inscrição no Registo Nacional do Associativismo Jovem (RNAJ), à exceção dos grupos informais de jovens, que integrem na sua atividade estágios aprovados pelo Instituto do Emprego e Formação profissional, I. P., (IEFP, I. P.) no âmbito da medida Estágios Emprego, e cujos destinatários dos estágios sejam jovens entre os 18 e os 30 anos.\n\n2 - São, ainda, elegíveis as candidaturas que integrem jovens estagiários até aos 35 anos, desde que se enquadrem nas situações previstas no artigo 3.º da Portaria n.º 204-B/2013, de 18 de junho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194818": {
+   "fragment_id": "59108607",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de candidatura",
+   "in_force_from": "2013-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 4.º — Apresentação de candidatura\n\n1 - A candidatura ao IDA é apresentada junto dos serviços do IPDJ, I. P., em requerimento constante do anexo I à presente portaria, que dela faz parte integrante, no prazo de 30 dias úteis após a aprovação do estágio pelo IEFP, I. P.\n\n2 - O requerimento referido no número anterior deve ser acompanhado do documento oficial de comunicação da aprovação do estágio pelo IEFP, I. P.\n\n3 - As entidades que tenham estágios aprovados em data anterior à data da entrada em vigor da presente portaria e que ainda não estejam terminados e preencham os requisitos mencionados no artigo anterior, podem apresentar a candidatura referida no n.º 1 relativamente a esses estágios no prazo de 30 dias após a referida entrada em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194819": {
+   "fragment_id": "59108608",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": "2013-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - O apoio a atribuir pelo IPDJ, I. P., por cada estágio aprovado, tem o valor máximo de (euro) 1000, devendo a transferência dos apoios financeiros concedidos no âmbito deste programa ser feita da seguinte forma:\n\na) 50 % do valor total, de uma única vez, após aprovação da candidatura;\n\nb) Os restantes 50 %, após a aprovação do relatório final pelo IPDJ, I. P.\n\n2 - O referido apoio destina-se, exclusivamente, à gestão dos estágios por parte das entidades mencionadas no artigo 3.º da presente portaria, no âmbito da medida Estágios Emprego.\n\n3 - Para efeitos do número anterior, é válida a aplicação do apoio nas despesas inerentes ao projeto de estágio, desde que não comparticipadas por outros organismos ou programas.\n\n4 - As candidaturas são apreciadas por ordem de entrada nos serviços do IPDJ, I.P, sendo os apoios concedidos até ao limite da dotação disponível, mediante avaliação prévia.\n\n5 - O incumprimento do disposto nos números 2 e 3 implica a devolução das verbas indevidamente aplicadas pela entidade beneficiária ao IPDJ, I. P.\n\n6 - Caso a despesa justificada não atinja o valor do apoio atribuído, a entidade beneficiária deve devolver todas as quantias não justificadas ao IPDJ, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194820": {
+   "fragment_id": "59108609",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório final",
+   "in_force_from": "2013-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Relatório final\n\n1 - As entidades que beneficiam do apoio devem apresentar junto dos serviços do IPDJ, I.P. um relatório final de cada estágio, no prazo de 30 dias após o termo do mesmo, de acordo com o modelo constante do anexo II à presente portaria que dela faz parte integrante.\n\n2 - A falta de entrega do relatório final devidamente preenchido, bem como a sua entrega fora do prazo estabelecido, implicam a devolução integral pela entidade beneficiária do apoio atribuído.\n\n3 - O IPDJ, I.P. pode fiscalizar o modo como os apoios são aplicados, mediante a realização, em qualquer momento do estágio, de inspeções e inquéritos, ou determinar a realização de uma auditoria por entidade externa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "1129941575": {
+   "fragment_id": "1129941475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Desporto e Juventude, Alexandre Miguel Cavaco Picanço Mestre, em 5 de abril de 2013."
+  },
+  "59194821": {
+   "fragment_id": "59108612",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2013-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "## Anexo I\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194844": {
+   "fragment_id": "59108604",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2014-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade das associações e federações de jovens, inserida no plano estratégico de iniciativas de promoção da empregabilidade juvenil, no âmbito da medida Estágios Emprego, através do programa Incentivo ao Desenvolvimento Associativo (IDA).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194845": {
+   "fragment_id": "59108606",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de elegibilidade",
+   "in_force_from": "2014-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de elegibilidade\n\n1 - Podem candidatar-se ao IDA todas as associações e federações de jovens com inscrição ativa no Registo Nacional do Associativismo Jovem (RNAJ), à exceção dos grupos informais de jovens, que integrem na sua atividade estágios aprovados pelo Instituto do Emprego e Formação profissional, I. P., (IEFP, I.P.) no âmbito da medida Estágios Emprego, e cujos destinatários dos estágios sejam jovens entre os 18 e os 30 anos.\n\n2 - São, ainda, elegíveis as candidaturas que integrem jovens estagiários até aos 35 anos, desde que se enquadrem nas situações previstas no artigo 3.º da Portaria n.º 204-B/2013, de 18 de junho, alterada e republicada pela Portaria n.º 149-B/2014, de 24 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194846": {
+   "fragment_id": "59108607",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de candidatura",
+   "in_force_from": "2014-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 4.º — Apresentação de candidatura\n\n1 - A candidatura ao IDA é apresentada junto dos serviços desconcentrados do IPDJ, I. P., em requerimento constante do anexo I à presente portaria, que dela faz parte integrante.\n\n2 - O requerimento deve ser remetido, num prazo máximo de dois dias úteis após apresentação da candidatura à Medida Estágios Emprego, junto dos serviços do IEFP, I.P..\n\n3 - O incumprimento do disposto no número anterior implica o indeferimento da candidatura ao IDA.\n\n4 - O requerimento referido no n.º 1 deve ser acompanhado de comprovativo de candidatura ao estágio no IEFP, I.P., sob pena de indeferimento da candidatura ao IDA.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194847": {
+   "fragment_id": "59108608",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": "2014-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - O apoio a atribuir pelo IPDJ, I.P., por cada estágio aprovado, tem o valor máximo de (euro) 2000, devendo a transferência dos apoios financeiros concedidos no âmbito deste programa ser feita da seguinte forma:\n\na) 50% do valor total, de uma única vez, após aprovação da candidatura ao estágio pelo IEFP, I.P. e do IDA pelo IPDJ, I.P.;\n\nb) Os restantes 50 %, após a aprovação do relatório final pelo IPDJ, I. P.\n\n2 - O referido apoio destina-se, exclusivamente, à gestão dos estágios por parte das entidades mencionadas no artigo 3.º da presente portaria, no âmbito da medida Estágios Emprego.\n\n3 - Para efeitos do número anterior, é válida a aplicação do apoio nas despesas inerentes ao projeto de estágio, desde que não comparticipadas por outros organismos ou programas.\n\n4 - As candidaturas são apreciadas por ordem de entrada nos serviços do IPDJ, I.P, sendo os apoios concedidos até ao limite da dotação disponível, mediante avaliação prévia.\n\n5 - O incumprimento do disposto nos números 2 e 3 implica a devolução das verbas indevidamente aplicadas pela entidade beneficiária ao IPDJ, I. P.\n\n6 - Caso a despesa justificada não atinja o valor do apoio atribuído, a entidade beneficiária deve devolver todas as quantias não justificadas ao IPDJ, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "59194848": {
+   "fragment_id": "59108612",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2014-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "## Anexo I\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "122397304": {
+   "fragment_id": "59108604",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2019-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade do Conselho Nacional de Juventude (CNJ) e das associações de jovens e suas federações, no âmbito da medida Estágios Profissionais e da medida Emprego Jovem Ativo, através do programa Incentivo ao Desenvolvimento Associativo (IDA).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "122397305": {
+   "fragment_id": "59108606",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de elegibilidade",
+   "in_force_from": "2019-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de elegibilidade\n\n1 - Podem candidatar-se ao IDA, o CNJ e as associações juvenis, as associações de estudantes e as federações de associações constituídas nos termos da Lei n.º 23/2006, de 23 de junho, e com inscrição ativa no Registo Nacional do Associativismo Jovem (RNAJ), que integrem na sua atividade projetos aprovados pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), com as seguintes características:\n\na) Estágios no âmbito da medida Estágios Profissionais, criada pela Portaria n.º 131/2017, de 7 abril, na sua redação atual, cujos destinatários sejam jovens entre os 18 e os 30 anos;\n\nb) Projetos no âmbito da medida Emprego Jovem Ativo, criada pela Portaria n.º 150/2014, de 30 de julho, para jovens dos 18 aos 29 anos.\n\n2 - Para efeitos do disposto no número anterior, são ainda elegíveis as candidaturas que integrem jovens estagiários até aos 35 anos, desde que se enquadrem nas situações previstas no artigo 3.º da Portaria n.º 131/2017, de 7 de abril, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "122397306": {
+   "fragment_id": "59108607",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de candidatura",
+   "in_force_from": "2019-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 4.º — Apresentação de candidatura\n\n1 - A candidatura ao IDA é apresentada junto dos serviços desconcentrados do IPDJ, I. P., em requerimento constante do anexo I à presente portaria, que dela faz parte integrante.\n\n2 - O requerimento deve ser remetido, num prazo máximo de cinco dias úteis após apresentação da candidatura à medida Estágios Profissionais e ou medida Emprego Jovem Ativo, junto dos serviços do IEFP, I. P.\n\n3 - O incumprimento do disposto no número anterior implica o indeferimento da candidatura ao IDA.\n\n4 - O requerimento referido no n.º 1 deve ser acompanhado de comprovativo(s) de candidatura à medida Estágios Profissionais e ou medida Emprego Ativo junto do IEFP, I. P.\n\n5 - A falta de entrega do(s) documento(s) mencionado(s) no número anterior determina o indeferimento da candidatura ao IDA.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "122397307": {
+   "fragment_id": "59108608",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": "2019-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - O apoio a atribuir pelo IPDJ, I. P., obedece aos seguintes critérios:\n\na) Por cada estágio aprovado e concluído no âmbito da medida Estágios Profissionais, é atribuído o valor máximo de (euro) 2000,00;\n\nb) Por cada jovem integrado e que conclua o projeto na medida Emprego Jovem Ativo, é atribuído, de acordo com o seu nível de qualificação, um valor entre (euro) 600,00, para nível 1 e 2, e (euro) 1100,00 para nível de qualificação 6 ou superior.\n\n2 - A transferência dos apoios financeiros concedidos no âmbito deste programa será feita da seguinte forma:\n\na) 70 % do valor total, numa única parcela, após aprovação da candidatura pelo IEFP, I. P., e da candidatura do IDA pelo IPDJ, I. P.;\n\nb) Os restantes 30 % após a aprovação do relatório final pelo IPDJ, I. P.\n\n3 - O referido apoio destina-se exclusivamente à gestão dos estágios e da atividade desenvolvida ao abrigo, respetivamente, da medida Estágios Profissionais e ou da medida Emprego Jovem Ativo.\n\n4 - Para efeitos do número anterior, é válida a aplicação do apoio nas despesas inerentes aos projetos de estágio ou inserção ativa, desde que não comparticipadas por outro organismo ou outros programas.\n\n5 - O apoio não é passível de ser aplicado em qualquer das despesas financiadas pelo IEFP, I. P., nos termos previstos nas respetivas medidas, ainda que na parte não comparticipada.\n\n6 - As candidaturas são apreciadas por ordem de entrada nos serviços do IPDJ, I. P., sendo os apoios concedidos até ao limite da dotação disponível, após verificação da elegibilidade e qualidade das candidaturas.\n\n7 - O incumprimento do disposto nos n.os 3 a 5 implica a devolução das verbas indevidamente aplicadas pela entidade beneficiária ao IPDJ, I. P., bem como a cessação e restituição ao IEFP, I. P., dos apoios pagos para o respetivo projeto.\n\n8 - Caso a despesa justificada não atinja o valor do apoio atribuído, a entidade beneficiária deve devolver o valor correspondente à verba não justificada ao IPDJ, I. P.\n\n9 - Sempre que os projetos sejam concluídos antes do tempo de duração previsto, o apoio financeiro será recalculado proporcionalmente ao tempo de execução efetivo, sendo efetuado acerto obrigatório da verba, sobre a percentagem de tempo real.\n\n10 - O IPDJ, I. P., e o IEFP, I. P., procedem à articulação necessária à implementação da presente portaria, nomeadamente para efeitos de atribuição e controlo dos apoios a conceder.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "122397308": {
+   "fragment_id": "59108609",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório final",
+   "in_force_from": "2019-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Relatório final\n\n1 - As entidades que beneficiam do apoio devem apresentar junto dos serviços do IPDJ, I. P., um relatório final de cada estágio ou projeto de Emprego Jovem Ativo, no prazo de 30 dias após o termo do mesmo, de acordo com o modelo constante do anexo II à presente portaria, que dela faz parte integrante.\n\n2 - A falta de entrega do relatório final, devidamente preenchido, bem como a sua entrega fora do prazo estabelecido, implicam a devolução integral ao IPDJ, I. P., pela entidade beneficiária, do apoio atribuído.\n\n3 - O IPDJ, I. P., pode fiscalizar o modo como os apoios são aplicados, mediante a realização, em qualquer momento do estágio ou projeto, de inspeções e inquéritos, ou determinar a realização de uma auditoria por entidade externa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "122397309": {
+   "fragment_id": "59108612",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2019-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "## Anexo I\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "122397310": {
+   "fragment_id": "59108613",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2019-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27"
+   ],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27"
+  },
+  "1128503975": {
+   "fragment_id": "59108604",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade do Conselho Nacional de Juventude (CNJ) e das associações de jovens e suas federações, no âmbito da medida Estágios Profissionais, através do programa Incentivo ao Desenvolvimento Associativo (IDA).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "1128504175": {
+   "fragment_id": "59108606",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de elegibilidade",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de elegibilidade\n\n1 - Podem candidatar-se ao IDA, o CNJ, as associações juvenis, as associações de estudantes e as federações de associações constituídas nos termos da Lei n.º 23/2006, de 23 de junho, alterada pela Lei n.º 57/2019, de 7 de agosto, e pela Lei n.º 36/2021, de 14 de junho, com inscrição ativa no Registo Nacional do Associativismo Jovem (RNAJ), que integrem na sua atividade projetos aprovados pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.) para jovens dos 18 até aos 30 anos.\n\n2 - Para efeitos do disposto no número anterior, são ainda elegíveis as candidaturas que integrem jovens estagiários dos 18 aos 35 anos de idade, desde que se enquadrem nas situações previstas no artigo 3.º da Portaria n.º 131/2017, de 7 de abril, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "1128504375": {
+   "fragment_id": "59108607",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de candidatura",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 4.º — Apresentação de candidatura\n\n1 - A candidatura ao IDA é apresentada junto dos serviços do IPDJ, I. P., por requerimento submetido exclusivamente por via eletrónica, através da plataforma online disponibilizada para o efeito.\n\n2 - O requerimento deve ser submetido, sob pena de indeferimento da candidatura, num prazo máximo de cinco dias úteis após submissão de candidatura à medida Estágios Profissionais junto dos serviços do IEFP, I. P.\n\n3 - [Revogado.]\n\n4 - O requerimento referido no n.º 1 deve ser acompanhado do comprovativo de candidatura à medida Estágios Profissionais junto do IEFP, I. P., sob pena de indeferimento da candidatura ao IDA.\n\n5 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "1128504575": {
+   "fragment_id": "59108608",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - O apoio previsto na presente portaria é concedido mediante despacho anual do conselho diretivo do IPDJ, I. P., que fixa os montantes, critérios e condições aplicáveis.\n\n2 - A transferência do apoio financeiro concedido no âmbito do IDA é realizada nos seguintes termos:\n\na) 70 % do valor, numa única parcela, com a aprovação da candidatura nos termos do artigo 4.º;\n\nb) Os restantes 30 % após a aprovação do relatório final pelo IPDJ, I. P.\n\n3 - Este apoio destina-se exclusivamente à gestão dos estágios e da atividade desenvolvida ao abrigo da medida Estágios Profissionais, designadamente:\n\na) À cobertura das despesas com a bolsa mensal de estágio, refeições ou subsídio de refeição, transporte ou subsídio de transporte, no caso de pessoas com deficiência e incapacidade e seguro de acidentes de trabalho;\n\nb) À cobertura das despesas suportadas com material de escritório, nomeadamente cadernos, canetas, lápis, post-its, marcadores, capas para documentos, envelopes e papel para impressão.\n\n4 - Para efeitos do número anterior, é válida a aplicação do apoio nas despesas inerentes à gestão dos estágios e da atividade desenvolvida ao abrigo da medida Estágios Profissionais, desde que não comparticipadas por outro organismo ou outros programas.\n\n5 - O apoio previsto na presente portaria não é passível de ser aplicado em quaisquer despesas financiadas pelo IEFP, I. P., ainda que na parte não comparticipada.\n\n6 - As candidaturas são apreciadas por ordem de entrada nos serviços do IPDJ, I. P., sendo os apoios concedidos até ao limite da dotação disponível, após verificação da elegibilidade e qualidade das candidaturas.\n\n7 - O incumprimento do disposto nos n.os 3 a 5 implica a devolução das verbas indevidamente aplicadas pela entidade beneficiária ao IPDJ, I. P., bem como a cessação e restituição ao IEFP, I. P., dos apoios pagos para o respetivo projeto.\n\n8 - Caso a despesa justificada não atinja o valor do apoio atribuído, a entidade beneficiária devolve o valor correspondente à verba não justificada ao IPDJ, I. P.\n\n9 - Sempre que os projetos sejam concluídos antes do tempo de duração previsto, o apoio financeiro será recalculado proporcionalmente ao tempo de execução efetivo, sendo efetuado acerto obrigatório da verba, sobre a percentagem de tempo real.\n\n10 - O IPDJ, I. P., e o IEFP, I. P., procedem à articulação necessária à implementação da presente portaria, nomeadamente para efeitos de atribuição e controlo dos apoios a conceder.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "1128504775": {
+   "fragment_id": "59108609",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório final",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Relatório final\n\n1 - As entidades que beneficiam do apoio devem apresentar junto dos serviços do IPDJ, I. P., um relatório final de cada estágio, no prazo de 30 dias após o termo do mesmo.\n\n2 - A falta de entrega do relatório final, devidamente preenchido, bem como a sua entrega fora do prazo estabelecido, implicam a devolução integral ao IPDJ, I. P., pela entidade beneficiária, do apoio atribuído.\n\n3 - O IPDJ, I. P., pode fiscalizar o modo como os apoios são aplicados, mediante a realização, em qualquer momento do estágio, de inspeções e inquéritos, ou determinar a realização de uma auditoria por entidade externa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "1128505075": {
+   "fragment_id": "59108612",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+   ],
+   "markdown": "## Anexo I\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2014 - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/249-2014-59077886), em vigor a partir de 2014-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2013 - Diário da República n.º 152/2013, Série I de 2013-08-08](https://diariodarepublica.pt/dr/detalhe/portaria/254-2013-499181), em vigor a partir de 2013-08-09"
+  },
+  "1128505275": {
+   "fragment_id": "59108613",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27"
+   ],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 242/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/242-2026-1128002429), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 160/2019 - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/160-2019-122393534), em vigor a partir de 2019-05-27"
+  }
+ }
+}

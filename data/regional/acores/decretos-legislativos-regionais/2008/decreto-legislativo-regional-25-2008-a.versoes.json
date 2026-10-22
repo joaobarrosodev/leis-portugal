@@ -1,0 +1,100 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454485:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-206350916",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/25-2008-454485",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-07-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206350434",
+    "206350435",
+    "206350436",
+    "206350437",
+    "206350438",
+    "206350439",
+    "206350440",
+    "206350441",
+    "206350442"
+   ]
+  }
+ ],
+ "fragments": {
+  "206350434": {
+   "fragment_id": "206350917",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 25/2008/A\n\nComplemento açoriano ao abono de família para crianças e jovens\n\nO envelhecimento da população e a diminuição da natalidade são, entre outras, duas importantes preocupações das sociedades consideradas desenvolvidas do nosso tempo.\n\nEstas realidades levam à necessidade de adopção de políticas que possam conter respostas e implementar acções que promovam o rejuvenescimento da população e a promoção da natalidade.\n\nNeste sentido e no seguimento de políticas sociais destinadas às famílias, importa introduzir medidas que permitam assegurar a compensação de encargos familiares acrescidos com o aumento do número de elementos do agregado familiar, bem como com outras penalizações da despesa das famílias, como, por exemplo, os aumentos recentes das taxas de juro bancárias e do preço dos bens alimentares.\n\nCom o presente diploma, pretende-se reforçar as prestações familiares na região, criando um complemento açoriano ao abono de família para crianças e jovens.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:"
+  },
+  "206350435": {
+   "fragment_id": "206350918",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico relativo à atribuição, na Região Autónoma dos Açores, do complemento açoriano ao abono de família para crianças e jovens."
+  },
+  "206350436": {
+   "fragment_id": "206350919",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nO regime previsto no presente diploma aplica-se a todos os residentes permanentes na região titulares do abono de família para crianças e jovens previstos no disposto na alínea a) do n.º 1 e no n.º 2 do artigo 3.º do Decreto-Lei n.º 176/2003, de 2 de Agosto."
+  },
+  "206350437": {
+   "fragment_id": "206350920",
+   "type": 11,
+   "heading": "Artigo 3.º — Residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Residência\n\nPara efeitos do presente diploma entende-se por residência permanente a residência na região ou permanência no respectivo território por mais de 183 dias, nesta se situando a sua residência habitual e que aí esteja registado para efeitos ficais."
+  },
+  "206350438": {
+   "fragment_id": "206350921",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuição\n\nO complemento açoriano é abonado em 12 mensalidades, por altura do pagamento do abono de família a crianças e jovens."
+  },
+  "206350439": {
+   "fragment_id": "206350922",
+   "type": 11,
+   "heading": "Artigo 5.º — Cabimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cabimento\n\nNo orçamento da região existirá, em rubrica própria, a verba necessária à execução do complemento açoriano ao abono de família para crianças e jovens."
+  },
+  "206350440": {
+   "fragment_id": "206350923",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento açoriano é fixado em (euro) 12.\n\n2 - O montante efectivo a abonar é determinado de acordo com a seguinte tabela:\n\n(ver documento original)\n\n> Nota: [Artigo 54.º, Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501) O montante do complemento açoriano ao abono de família para crianças e jovens, referido no n.º 1 do presente artigo, é atualizado, com efeitos a 1 de janeiro de 2023, na percentagem de 15 %."
+  },
+  "206350441": {
+   "fragment_id": "206350924",
+   "type": 11,
+   "heading": "Artigo 7.º — Actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Actualização\n\nO montante referido no n.º 1 do artigo 6.º é actualizado anualmente mediante resolução do conselho do governo, com efeitos a partir de 1 de Janeiro de cada ano, tendo em conta, designadamente, os valores previstos para a inflação."
+  },
+  "206350442": {
+   "fragment_id": "206350925",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO presente diploma produz efeitos a 1 de Janeiro de 2009."
+  }
+ }
+}

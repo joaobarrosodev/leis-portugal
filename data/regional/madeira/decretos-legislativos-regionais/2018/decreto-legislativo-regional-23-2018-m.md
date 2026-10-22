@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:117514522:por
+title: Decreto Legislativo Regional n.º 23/2018/M
+short_title: null
+summary: Define os termos e a forma como se processa a recuperação do tempo de serviço prestado em funções docentes abrangido
+  pelo disposto nas Leis n.os 43/2005, de 29 de agosto, 53-C/2006, de 29 de dezembro, 55-A/2010, de 31 de dezembro, 64-B/2011,
+  de 30 de dezembro, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, 7-A/2016, de
+  30 de março, e 42/2016, de 28 de dezembro
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2018/M
+official_date: null
+publication_date: '2018-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2018, Série I de 2018-12-28
+  number: '250'
+  series: I
+  supplement: null
+  pages: 5971 - 5972
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/12/25000/0597105972.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-04-29'
+version_history:
+  file: decreto-legislativo-regional-23-2018-m.versoes.json
+  count: 2
+  source_lastmod: '2026-04-28'
+  versions:
+  - date: '2018-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-04-29'
+    amending: pt:dre:1095232811:por
+    amending_title: Decreto Legislativo Regional n.º 6/2026/M
+    changes:
+    - Altera Artigo 6.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/23/2018/m/cons/20260428/pt/html
+  oj: null
+  dre: '117514522'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/23-2018-117514522
+  internal: pt:dre:117514522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2018-117514522
+  metadata_url: https://data.dre.pt/eli/declegreg/23/2018/m/cons/20260428/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-949921183
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-949921183
+  retrieved_at: '2026-10-22T13:42:50Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-04-28T00:00:00Z'
+integrity:
+  source_sha256: b4e004a2b194f1a347ab8e5c6dc79f2c8aa1269c264b0433900c81870cc9c420
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:42:50Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-23-2018-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Tempo de Serviço
+- Regime Laboral
+- Estatuto da Carreira Docente
+- Sistema Retributivo
+- Carreira Profissional
+- Pessoal Docente
+- Qualificação Profissional
+- Madeira.região Autónoma
+- Horário de Trabalho
+- Reintegração de Pessoal
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:1095232811:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2026-1095232811
+  date: '2026-04-28'
+- type: cites
+  target: eli:http://
+  label: null
+  source: http://
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/43/2005/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/43/2005/08/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53-c/2006/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53-c/2006/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:42:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 23/2018/M
+
+Define os tempos e a forma como se processa a recuperação do tempo de serviço prestado em funções docentes abrangido pelo disposto nas Leis n.os 43/2005, de 29 de agosto, 53-C/2006, de 29 de dezembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, 7-A/2016, de 30 de março, e 42/2016, de 28 de dezembro.
+
+A situação económico-financeira portuguesa vivida nos últimos anos, levou a que os sucessivos governos da República tivessem adotado orçamentos do Estado claramente restritivos, com proibição de quaisquer valorizações remuneratórias dos trabalhadores que exercem funções na Administração Pública, designadamente ao nível de alterações de posicionamento remuneratório, progressões, promoções ou nomeações em categorias ou postos superiores.
+
+Tais restrições, que se repercutiram nas várias administrações públicas, foram também aplicadas na Administração Pública da Região Autónoma da Madeira, a qual, de resto e como é consabido, esteve sujeita durante esses anos aos condicionalismos do Plano de Ajustamento Económico e Financeiro.
+
+Nesta decorrência, ao pessoal docente, vinculado aos diferentes quadros da rede pública da Região Autónoma da Madeira, não foi considerado, para efeitos de progressão na carreira, o tempo de serviço docente prestado neste período.
+
+Impõe-se, por isso, no âmbito da política do Governo Regional, repor a normalidade no desenvolvimento da carreira docente, a qual se quer prestigiada, valorizada e com profissionais motivados, através da recuperação desse tempo de serviço efetivamente prestado nos anos transatos, embora de uma forma faseada e plurianual, atendendo às inevitáveis repercussões orçamentais que tal medida acarreta.
+
+Foram observados os procedimentos de auscultação decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugada com o artigo 39.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, na redação dada pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e com o n.º 3 do artigo 39.º e artigo 40.º do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, alterado pelos Decretos Legislativos Regionais n.os 17/2010/M, de 18 de agosto, 20/2012/M, de 29 de agosto, e 7/2018/M, de 17 de abril, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto legislativo regional define os termos e a forma como se processa a recuperação do tempo de serviço prestado em funções docentes abrangido pelo disposto nas Leis n.os 43/2005, de 29 de agosto, 53-C/2006, de 29 de dezembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66-B/2012, de 31 de dezembro, 83-C/2013, de 31 de dezembro, 82-B/2014, de 31 de dezembro, 7-A/2016, de 30 de março, e 42/2016, de 28 de dezembro.
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente diploma é aplicável aos docentes integrados na estrutura da carreira prevista no Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, retificado pela Declaração de Retificação n.º 21/2008, de 24 de abril, alterado pelos Decretos Legislativos Regionais n.os 17/2010/M, de 18 de agosto, 20/2012/M, de 29 de agosto, e 7/2018/M, de 17 de abril, adiante designado por Estatuto.
+
+2 - Para efeitos do presente diploma releva apenas o tempo de serviço docente prestado durante os períodos referidos no artigo 1.º em estabelecimentos públicos de educação e dos ensinos básico e secundário na dependência da Secretaria Regional de Educação, prestado com qualificação profissional e avaliado com a menção qualitativa mínima de Bom ou equivalente.
+
+3 - É considerado o tempo prestado em regime de contrato a termo resolutivo nas condições referidas no número anterior, designadamente para efeitos de posicionamento ao abrigo do n.º 2 do artigo 39.º do Estatuto da Carreira Docente da Região Autónoma da Madeira.
+
+4 - Releva ainda o tempo de serviço prestado em mobilidade em escolas da Região Autónoma dos Açores ou do território continental, desde que, à data da entrada em vigor do presente diploma, o docente mantenha o vínculo aos quadros da Secretaria Regional de Educação.
+
+5 - É ainda contabilizado, para efeitos do presente diploma, o tempo de serviço previsto no artigo 3.º do Decreto Legislativo Regional n.º 29/2017/M, de 28 de agosto.
+
+###### Artigo 3.º — Recuperação
+
+1 - A recuperação do tempo de serviço não contabilizado realiza-se através do aditamento de tempo de serviço para efeitos de progressão, nos seguintes termos:
+
+a) 545 dias a 1 de janeiro de 2019;
+
+b) 545 dias a 1 de janeiro de 2020;
+
+c) 545 dias a 1 de janeiro de 2021;
+
+d) 545 dias a 1 de janeiro de 2022;
+
+e) 545 dias a 1 de janeiro de 2023;
+
+f) 545 dias a 1 de janeiro de 2024;
+
+g) 141 dias a 1 de janeiro de 2025.
+
+2 - A recuperação do tempo de serviço termina quando o docente já não possua tempo de serviço a considerar, no final do prazo estabelecido no número anterior ou por cessação do vínculo de emprego público com a Secretaria Regional de Educação.
+
+###### Artigo 4.º — Progressão
+
+1 - É obrigatória a permanência de um período mínimo de um ano antes da progressão ao escalão seguinte.
+
+2 - Nos casos em que os docentes não cumpram o período previsto no número anterior, permanecem provisoriamente no escalão em que se encontram, até perfazerem aquele requisito.
+
+3 - O tempo de serviço de permanência provisória no escalão anterior, para efeitos do cumprimento do período mínimo, releva para efeitos de progressão no escalão seguinte.
+
+###### Artigo 5.º — Disposições orçamentais
+
+O disposto nas normas orçamentais aplicáveis à Região Autónoma da Madeira prevalece sobre todas as disposições previstas no presente diploma.
+
+###### Artigo 6.º — Disposições finais
+
+1 - Considerando o disposto no n.º 1 do artigo 5.º do Decreto Legislativo Regional n.º 20/2012/M, de 29 de agosto, os docentes que progrediram aos 2.º, 3.º e 4.º escalões da estrutura da carreira docente prevista no Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, e que possuíam mais de quatro anos no escalão anterior, é-lhes contabilizado o tempo de serviço remanescente no escalão para o qual acederam.
+
+2 - De modo a salvaguardar o princípio estabelecido no n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 20/2012/M, de 29 de agosto, os docentes que transitaram dos 4.º, 5.º e 6.º escalões da estrutura da carreira docente prevista no Decreto-Lei n.º 312/99, de 10 de agosto, para os 1.º, 2.º e 3.º escalões da estrutura da carreira docente prevista no Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, respetivamente, recuperam um ano de tempo de serviço para efeitos de progressão, acedendo ao 4.º escalão da carreira quando perfizerem um total de quinze anos de tempo de serviço.
+
+3 - São excecionados do disposto nos números anteriores os docentes abrangidos pela portaria prevista no n.º 3 do artigo 39.º do Estatuto, na redação dada pelo Decreto Legislativo Regional n.º 20/2012/M, de 29 de agosto.
+
+4 - Durante o período de recuperação do tempo de serviço é suspensa a aplicação do artigo 18.º e das alíneas a) e b) do n.º 1 do artigo 23.º do Decreto Regulamentar Regional n.º 26/2012/M, de 8 de outubro, alterado pelo Decreto Regulamentar Regional n.º 13/2018/M, de 15 de novembro.
+
+5 - Quaisquer bonificações ou reduções de tempo de serviço, para efeitos de progressão, apenas podem ser consideradas na primeira progressão que não tenha em conta o tempo referido no n.º 1 do artigo 3.º, incluindo o tempo remanescente, devendo, no caso previsto no número anterior, ser considerada exclusivamente a avaliação obtida no ciclo avaliativo imediatamente anterior.
+
+6 - Aos docentes abrangidos pelo presente diploma apenas é exigida a frequência de formação contínua, de cursos de formação especializada ou de pós-graduações e unidades curriculares de mestrados ou doutoramentos, que seja igual ao produto de 12 horas e 30 minutos por cada ano completo efetivamente prestado em cada escalão.
+
+7 - Aos docentes bacharéis identificados no artigo 3.º do Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, é aplicável o disposto nos n.os 1 e 2, sendo que a referência para efeitos de aplicação do n.º 2 é de vinte anos de tempo de serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2026/M - Diário da República n.º 82/2026, Série I de 2026-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2026-1095232811), em vigor a partir de 2026-04-29.
+
+###### Artigo 7.º — Entrada em vigor e produção de efeitos
+
+O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2019, com exceção do disposto nos n.os 1 e 2 do artigo 6.º, que produz efeitos a 1 de janeiro de 2018.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de dezembro de 2018.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+Assinado em 21 de dezembro de 2018.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

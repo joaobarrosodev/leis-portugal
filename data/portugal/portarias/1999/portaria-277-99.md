@@ -1,0 +1,259 @@
+---
+schema_version: '1.0'
+id: pt:dre:544807:por
+title: Portaria n.º 277/99
+short_title: null
+summary: Aprova o Regulamento do Estágio para Ingresso na Carreira Técnica Superior de Inspecção da Inspecção-Geral da Educação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Educação
+proposing_entity: null
+official_number: 277/99
+official_date: null
+publication_date: '1999-04-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 88/1999, Série I-B de 1999-04-15
+  number: '88'
+  series: I
+  supplement: null
+  pages: 2022 - 2023
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/04/088b00/20222023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/277/1999/04/15/p/dre/pt/html
+  oj: null
+  dre: '544807'
+  dre_path: /dr/detalhe/portaria/277-1999-544807
+  internal: pt:dre:544807:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-1999-544807
+  metadata_url: https://data.dre.pt/eli/port/277/1999/04/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-1999-544807
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-11-23T00:00:00Z'
+integrity:
+  source_sha256: e2e3bfa6fb71f96cf362a42dcba3c855b6b359a5ccff13dc67b3385e846825e8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-277-544807.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Recrutamento de Pessoal
+- Inspecção Geral de Educação
+- Pessoal Técnico Superior de Inspecção
+- Estágio de Formação
+- Regulamento de Estágio
+relationships:
+- type: amended_by
+  target: pt:dre:628505:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/271/1995/10/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/271/1995/10/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/18/1996/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/18/1996/06/20/p/dre
+article_structure:
+  article_count: 14
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 277/99
+
+de 15 de Abril
+
+Nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, e em cumprimento do preceituado no n.º 5 do artigo 27.º do [Decreto-Lei n.º 271/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1995-668484), de 23 de Outubro, ratificado pela [Lei n.º 18/96](https://diariodarepublica.pt/dr/detalhe/lei/18-1996-431038), de 20 de Junho:
+
+Manda o Governo, pelos Ministros Adjunto e da Educação, que seja aprovado o Regulamento do Estágio para Ingresso na Carreira Técnica Superior de Inspecção da Inspecção-Geral da Educação, anexo à presente portaria, de que faz parte integrante.
+
+**Assinada em 25 de Março de 1999.**
+
+Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro da Educação, Eduardo Carrega Marçal Grilo.
+
+REGULAMENTO DO ESTÁGIO PARA INGRESSO NA CARREIRA TÉCNICA SUPERIOR DE INSPECÇÃO DA INSPECÇÃO-GERAL DA EDUCAÇÃO
+
+### CAPÍTULO I — Artigo 1.º
+
+Âmbito de aplicação
+
+O presente Regulamento aplica-se ao estágio de ingresso na carreira técnica superior de inspecção da Inspecção-Geral da Educação (IGE).
+
+###### Artigo 2.º — Objectivos
+
+O estágio tem como objectivos a preparação e formação teórico-prática dos estagiários com vista ao desempenho eficaz e competente das funções correspondentes ao conteúdo funcional dos lugares da respectiva carreira, bem como a avaliação da respectiva capacidade de adaptação ao serviço.
+
+### CAPÍTULO II — Realização do estágio
+
+###### Artigo 3.º — Duração
+
+O estágio tem carácter probatório e a duração de um ano.
+
+###### Artigo 4.º — Plano do estágio
+
+1 - O estágio compreende duas componentes de formação:
+
+a) A componente de formação genérica;
+
+b) A componente de formação específica.
+
+2 - A formação genérica é ministrada em instituições do ensino superior na área das ciências da educação, incidindo sobre temáticas gerais da educação, nomeadamente as adequadas à função inspectiva.
+
+3 - A componente de formação específica é desenvolvida através de acções asseguradas por orientadores de prática inspectiva da IGE, incidindo sobre temáticas do trabalho inspectivo, nas suas vertentes teóricas e práticas.
+
+4 - A formação destina-se a:
+
+Proporcionar os conhecimentos básicos indispensáveis ao exercício das respectivas funções;
+
+Contribuir para a aquisição de métodos de trabalho, de estudo, pesquisa e análise, visando um desenvolvimento e uma actualização permanentes;
+
+Avaliar a capacidade de adaptação à função inspectiva.
+
+###### Artigo 5.º — Programa do estágio
+
+1 - O programa de estágio é aprovado por despacho do inspector-geral da Educação, sob proposta do júri de estágio.
+
+2 - Do programa de estágio devem constar as acções de formação directamente relacionadas com as funções a exercer.
+
+3 - A formação genérica terá uma duração de cento e vinte a cento e cinquenta horas, sendo o restante tempo do estágio destinado à formação específica.
+
+###### Artigo 6.º — Orientação de prática inspectiva
+
+1 - Os orientadores de prática inspectiva serão designados por despacho do inspector-geral para acompanhamento do exercício de funções.
+
+2 - A prática inspectiva decorrerá sob a coordenação do inspector-geral, que garantirá a coerência de acções e critérios de avaliação, ficando os estagiários integrados nas estruturas hierárquicas dos serviços a que estão afectos.
+
+3 - Compete aos orientadores de prática inspectiva:
+
+a) Acompanhar o desenvolvimento da prática inspectiva, atribuindo ao estagiário tarefas gradativamente de maior complexidade, e orientar a execução das tarefas correspondentes ao conteúdo funcional do lugar a prover;
+
+b) Atribuir a classificação relativa à componente de formação específica;
+
+c) Facultar ao júri de estágio todos os elementos necessários à classificação final do estagiário.
+
+###### Artigo 7.º — Cessação antecipada do estágio
+
+1 - Quando um estagiário obtiver classificação inferior a 10 valores em qualquer das componentes de formação ou revelar notória inadequação para o exercício da função, deve o júri apresentar ao inspector-geral uma proposta fundamentada de cessação imediata do estágio da qual conste um relatório do orientador de estágio e a audição do interessado.
+
+2 - Para efeitos do número anterior, devem considerar-se os seguintes factores:
+
+a) Desinteresse ou dificuldade em integrar-se na estrutura do serviço ou incapacidade para a execução de funções que lhe são cometidas;
+
+b) Incorrecção ou demora injustificada na execução de tarefas;
+
+c) Mau relacionamento pessoal no desempenho das funções que lhe foram cometidas.
+
+3 - A cessação antecipada do estágio implica o regresso do estagiário ao seu lugar de origem.
+
+### CAPÍTULO III — Da avaliação e classificação finais do estágio
+
+###### Artigo 8.º — Composição do júri de estágio
+
+1 - O júri de estágio, constituído por um presidente, quatro vogais efectivos e quatro vogais suplentes, é designado por despacho do inspector-geral.
+
+2 - Ao júri compete, nomeadamente:
+
+a) Elaborar o plano de estágio;
+
+b) Definir os critérios de avaliação e classificação dos estagiários;
+
+c) Promover a orientação e acompanhamento da execução do plano de estágio;
+
+d) Propor ao inspector-geral a cessação antecipada do estágio, nos termos do artigo 7.º
+
+###### Artigo 9.º — Relatório de estágio
+
+1 - O relatório de estágio deverá ser apresentado ao júri até 15 dias úteis contados a partir do termo do estágio.
+
+2 - Para além da descrição das actividades desenvolvidas no período de estágio e da sua apreciação na perspectiva dos objectivos definidos no artigo 2.º deste Regulamento, o relatório deverá conter ainda uma análise aprofundada de uma das actividades desenvolvidas relacionadas com o conteúdo funcional do lugar a preencher.
+
+3 - A avaliação do relatório compreende duas fases: a análise técnica do relatório e a sua discussão oral, valendo cada uma 50% da avaliação final do relatório.
+
+4 - Constituem parâmetros de ponderação obrigatória para a análise técnica:
+
+a) A organização do relatório;
+
+b) A capacidade de identificação, análise e interpretação de informação relevante;
+
+c) O rigor técnico revelado, nomeadamente no que se refere à mobilização de conhecimentos e à adequação aos normativos do sistema educativo;
+
+d) A clareza e correcção da expressão.
+
+5 - A discussão oral do relatório é realizada perante, pelo menos, três vogais do júri, designados pelo inspector-geral em função da formação académica, níveis de ensino e ou experiência profissional dos candidatos, que apreciará as respectivas capacidades de reflexão e fundamentação.
+
+6 - A avaliação do relatório de estágio será expressa na escala de 0 a 20 valores, considerando-se eliminados os candidatos que obtenham menos de 10 valores.
+
+###### Artigo 10.º — Componente de formação genérica
+
+A avaliação da componente de formação genérica é da responsabilidade das instituições de ensino superior que a ministrarem e será expressa na escala de 0 a 20 valores, considerando-se eliminados os estagiários que nela obtenham menos de 10 valores.
+
+###### Artigo 11.º — Componente de formação específica
+
+A avaliação da componente de formação específica é da competência dos orientadores de prática inspectiva e será expressa numa escala de 0 a 20 valores, considerando-se eliminados os estagiários que nela obtenham menos de 10 valores.
+
+###### Artigo 12.º — Classificação de serviço
+
+1 - A classificação de serviço tem em consideração a prática inspectiva desenvolvida pelo estagiário durante o período de estágio.
+
+2 - A classificação de serviço será atribuída nos primeiros três dias subsequentes ao termo do estágio e segue as normas em vigor aplicáveis ao pessoal técnico de inspecção.
+
+###### Artigo 13.º — Classificação final
+
+A classificação final de estágio é expressa numa escala de 0 a 20 valores e resulta da média ponderada da classificação da formação genérica (FG), da classificação da formação específica (FE), da classificação de serviço (CS) e da classificação do relatório de estágio (R), de acordo com a seguinte fórmula:
+
+CF = (2FG + 2FE + CS + 2R)/7
+
+###### Artigo 14.º — Ordenação dos estagiários
+
+1 - Os estagiários serão ordenados pelo júri em função da classificação final do estágio, arredondada às décimas, só sendo considerados aprovados para provimento na carreira de inspecção os estagiários com classificação não inferior a Bom (14 valores).
+
+2 - Em situação de igualdade, os critérios de desempate serão, em primeiro lugar, a classificação atribuída na formação específica, em segundo, no relatório de estágio, em terceiro, na formação genérica, e, por último, a classificação de serviço.
+
+3 - O projecto de lista de classificação final deverá ser dado a conhecer aos interessados, os quais, no prazo de 10 dias úteis a contar da data do conhecimento, poderão, mediante requerimento dirigido ao presidente do júri, pronunciar-se sobre a classificação obtida.
+
+###### Artigo 15.º — Homologação, publicitação e recurso da lista de classificação final
+
+1 - Nos 10 dias úteis subsequentes ao termo do prazo referido no n.º 3 do artigo anterior, o júri apreciará os requerimentos que eventualmente lhe tenham sido dirigidos e submeterá ao inspector-geral, para homologação, a lista de classificação final.
+
+2 - Não se verificando a apresentação de requerimentos, nos termos do n.º 3 do artigo anterior, o júri, no 1.º dia útil seguinte ao do termo do prazo aí estabelecido, submeterá a lista de classificação final ao inspector-geral para homologação.
+
+3 - Em matéria de homologação, publicitação e recurso da lista de classificação final aplicam-se as regras previstas na lei geral sobre concursos na função pública.

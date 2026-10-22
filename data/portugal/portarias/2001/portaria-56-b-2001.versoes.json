@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:163803:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-934135195",
+ "dre_path": "/dr/detalhe/portaria/56-b-2001-163803",
+ "source_lastmod": "2025-09-04",
+ "versions": [
+  {
+   "date": "2001-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "933651621"
+   ]
+  }
+ ],
+ "fragments": {
+  "933651621": {
+   "fragment_id": "934135196",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 56-B/2001\n\nde 29 de Janeiro\n\nCom a publicação da Portaria n.º 1080/2000, de 8 de Novembro, foi aprovado o Regulamento do Regime de Apoio à Imobilização Definitiva de Embarcações de Pesca por Transferência para País Terceiro ou Afectação a Outros Fins, no âmbito do MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.\n\nVerifica-se, no entanto, que a mesma deve ser alterada pontualmente, por forma a harmonizá-la com os demais regimes de apoio no âmbito do MARE.\n\nAssim, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 224/2000, de 9 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  }
+ }
+}

@@ -1,0 +1,751 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491204:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-177568160",
+ "dre_path": "/dr/detalhe/decreto-lei/275-2009-491204",
+ "source_lastmod": "2025-06-05",
+ "versions": [
+  {
+   "date": "2009-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177566461",
+    "177566462",
+    "177566463",
+    "177566464",
+    "177566465",
+    "177566466",
+    "177566467",
+    "177566469",
+    "177566470",
+    "177566471",
+    "177566472",
+    "177566473",
+    "177566474",
+    "177570375",
+    "177570376",
+    "177570377",
+    "177570378",
+    "177570379",
+    "177570380",
+    "177570381",
+    "177570382",
+    "177570383",
+    "177570384",
+    "177570385",
+    "177570386",
+    "177570387",
+    "177570388",
+    "177570389",
+    "177570390",
+    "177570391",
+    "177570392",
+    "177570393",
+    "177570394",
+    "177570395",
+    "177570396",
+    "177570397",
+    "177570398",
+    "177570399",
+    "177570400",
+    "177570401",
+    "177570402",
+    "177570403",
+    "177570404",
+    "177570405",
+    "177570406",
+    "177570407",
+    "177570408",
+    "177570409",
+    "177570410",
+    "177570411",
+    "177570412",
+    "177570413",
+    "177570414"
+   ]
+  },
+  {
+   "date": "2022-01-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177528434:por",
+     "title": "Decreto-Lei n.º 13/2022",
+     "published": "2022-01-12",
+     "dre_path": "/dr/detalhe/decreto-lei/13-2022-177528434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "177566461",
+    "177566462",
+    "177566463",
+    "177566464",
+    "920662464",
+    "177566466",
+    "177566467",
+    "177566468",
+    "177566469",
+    "177566470",
+    "177566471",
+    "177566472",
+    "920662458",
+    "177566474",
+    "177570375",
+    "177570376",
+    "177570377",
+    "177570378",
+    "177570379",
+    "177570380",
+    "920636930",
+    "920636931",
+    "920636932",
+    "920636933",
+    "177570385",
+    "920636934",
+    "177570387",
+    "177570388",
+    "177570389",
+    "177570390",
+    "177570391",
+    "177570392",
+    "177570393",
+    "177570394",
+    "177570395",
+    "177570396",
+    "177570397",
+    "920662459",
+    "920662460",
+    "920662461",
+    "920958728",
+    "920662462",
+    "920662463",
+    "177570404",
+    "177570405",
+    "177570406",
+    "177570407",
+    "177570408",
+    "920636936",
+    "920636937",
+    "920636938",
+    "920636940",
+    "177570409",
+    "177570410",
+    "177570411",
+    "177570412",
+    "177570413",
+    "177570414"
+   ]
+  }
+ ],
+ "fragments": {
+  "177566461": {
+   "fragment_id": "177568161",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 275/2009\n\nde 2 de Outubro\n\nA necessidade de constituir um corpo de oficiais com formação específica destinado a integrar e comandar a Polícia de Segurança Pública, substituindo gradualmente os oficiais do Exército, esteve, em 1979, na génese do projecto de criação de uma escola de ensino superior policial, que viria a materializar-se com a publicação do Decreto-Lei n.º 423/82, de 15 de Outubro, criando a Escola Superior de Polícia (ESP).\n\nO Decreto-Lei n.º 318/86, de 25 de Setembro, que aprovou o Regulamento da ESP, regeria o funcionamento da Escola Superior de Polícia até à publicação do Decreto-Lei n.º 402/93, que aprovou o primeiro estatuto deste estabelecimento de ensino, vigorando até à presente data.\n\nA competência deste Instituto para conceder o grau de licenciatura em ciências policiais aos titulares do curso de formação de oficiais de polícia foi atribuída pela Portaria n.º 298/94, de 18 de Maio, que aprovou a estrutura curricular e o plano de estudos deste curso.\n\nEm Fevereiro de 1999, a Escola Superior de Polícia passou a chamar-se Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI), de acordo com a Lei de Organização e Funcionamento da Polícia de Segurança Pública (Lei n.º 5/99, de 27 de Janeiro), assumindo, de imediato, novas missões que o projectaram para a vanguarda do ensino superior universitário policial.\n\nO ISCPSI assumiria definitivamente a vocação que vinha desenvolvendo, desde os anos 90 do século xx, para a cooperação internacional em matéria de ensino e investigação nas áreas da segurança e polícia, quer formando quadros superiores policiais de países lusófonos, quer participando activamente na formação policial no âmbito de organizações e agências internacionais dedicadas à investigação e ensino nesta área.\n\nA constituição, em 2004, de um centro de investigação impulsionaria a organização de seminários, congressos, publicações especializadas e cursos de formação pós-graduada e avançada em áreas tão importantes e actuais como a segurança interna, a gestão civil de crises ou o contra-terrorismo, abertos a toda a comunidade, visando uma partilha de saberes e uma reflexão conjunta dos vários sectores da sociedade civil sobre as questões da segurança e do papel da polícia numa sociedade em rede.\n\nA Lei Orgânica da Polícia de Segurança Pública, aprovada pela Lei n.º 53/2007, de 31 de Agosto, dispõe no n.º 1 do artigo 50.º que o Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI) é um instituto policial de ensino superior universitário que tem por missão formar oficiais de polícia, promover o seu aperfeiçoamento permanente e realizar, coordenar ou colaborar em projectos de investigação e desenvolvimento no domínio das ciências policiais.\n\nNos termos do n.º 2 do mesmo artigo, o ISCPSI confere, nos termos da lei, graus académicos na sua área científica, prevendo o n.º 3 que a respectiva organização e funcionamento são definidos por decreto regulamentar.\n\nNo entanto, a necessidade de se adequar o ISCPSI aos princípios enformadores e reguladores do ensino superior universitário, com adopção dos princípios e bases gerais do regime jurídico das respectivas instituições, por força do artigo 179.º do regime jurídico das instituições de ensino superior, aprovado pela Lei n.º 62/2007, de 10 de Setembro, obriga a que o estatuto do ISCPSI seja aprovado por decreto-lei.\n\nA adequação do curso de licenciatura em Ciências Policiais ao novo enquadramento jurídico, bem como a criação de outros cursos abertos a toda a comunidade, alargando e intensificando o estudo e a reflexão de toda a sociedade civil sobre as questões de segurança e criminalidade, consagrando a abertura do ISCPSI, enquanto estabelecimento de ensino superior universitário policial, às demais áreas da Administração Pública, em especial aos serviços públicos policiais, e desenvolvendo a componente de investigação em ciências policiais e segurança interna, são projectos concretizáveis através de uma metamorfose estatutária que proceda à adequação harmoniosa da estrutura orgânica, competências e missões do ISCPSI ao regime geral do ensino superior universitário com respeito pelas especificidades e exigências próprias do ensino superior policial.\n\nNa elaboração do presente decreto-lei foram tidas em conta as orientações estabelecidas para o ensino superior pela Lei n.º 62/2007, de 10 de Setembro, assim como o regime jurídico dos graus e diplomas do ensino superior, aprovado pelo Decreto-Lei n.º 74/2006, de 24 de Março, alterado e republicado pelo Decreto-Lei n.º 107/2008, de 25 Junho, o regime jurídico da avaliação do ensino superior, aprovado pela Lei n.º 38/2007, de 17 de Agosto, e as exigências da constante actualização e especialização dos quadros da PSP.\n\nO presente estatuto consagra ainda a abertura do ISCPSI, enquanto estabelecimento de ensino superior policial universitário, às demais áreas da Administração Pública, em especial aos serviços públicos policiais, bem como à comunidade, a par do desenvolvimento da componente de investigação em ciências policiais e segurança interna.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "177566462": {
+   "fragment_id": "177568162",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei aprova o Estatuto do Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI), anexo ao presente decreto-lei do qual faz parte integrante.\n\n2 - Através do presente decreto-lei, adopta-se a aplicação dos princípios constantes do Decreto-Lei n.º 74/2006, de 24 de Março, alterado pelo Decreto-Lei n.º 107/2008, de 25 Junho, da Lei n.º 38/2007, de 17 de Agosto, e da Lei n.º 62/2007, de 10 de Setembro, ao ensino superior público universitário policial."
+  },
+  "177566463": {
+   "fragment_id": "177568163",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime supletivo\n\nEm tudo o que não seja especificamente regulado no presente decreto-lei, aplica-se ao ensino superior público universitário policial o regime geral relativo ao ensino superior público."
+  },
+  "177566464": {
+   "fragment_id": "177568164",
+   "type": 11,
+   "heading": "Artigo 3.º — Regulamento interno do ISCPSI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regulamento interno do ISCPSI\n\nO regulamento interno do ISCPSI é aprovado por portaria do membro do Governo responsável pela área da administração interna."
+  },
+  "177566465": {
+   "fragment_id": "177568165",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\nO despacho conjunto dos Ministros da Administração Interna e das Finanças, de 15 de Junho de 1984, e a Portaria n.º 721/84, de 17 de Setembro, mantêm-se em vigor, na parte em que não contrariem o presente decreto-lei, até à publicação da regulamentação do estatuto do ISCPSI."
+  },
+  "177566466": {
+   "fragment_id": "177568166",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 402/93, de 7 de Dezembro, e a Portaria n.º 298/94, de 18 de Maio."
+  },
+  "177566467": {
+   "fragment_id": "177568167",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "177566469": {
+   "fragment_id": "177568169",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DO INSTITUTO SUPERIOR DE CIÊNCIAS POLICIAIS E SEGURANÇA INTERNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTO DO INSTITUTO SUPERIOR DE CIÊNCIAS POLICIAIS E SEGURANÇA INTERNA"
+  },
+  "177566470": {
+   "fragment_id": "177568170",
+   "type": 1,
+   "heading": "Capítulo I — Definição de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Definição de competências"
+  },
+  "177566471": {
+   "fragment_id": "177568171",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\n1 - O Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI) é uma instituição de ensino superior público universitário policial.\n\n2 - O ISCPSI tem personalidade jurídica e goza de autonomia pedagógica, científica, cultural, administrativa, patrimonial e disciplinar, concretizada no presente Estatuto.\n\n3 - O ISCPSI tem por missão ministrar formação inicial e ao longo da vida aos oficiais de polícia da Polícia de Segurança Pública (PSP), através de ciclos de estudos conducentes à obtenção de graus académicos em ciências policiais e de ciclos de estudos não conferentes de grau académico, nos termos da legislação aplicável.\n\n4 - O ISCPSI pode ainda ministrar formação académica e técnico-profissional destinada aos técnicos superiores e dirigentes das forças, serviços e organismos de segurança, das polícias municipais e de outras entidades com atribuições e competências no âmbito da segurança interna."
+  },
+  "177566472": {
+   "fragment_id": "177568172",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\nNo âmbito das suas atribuições, são competências do ISCPSI:\n\na) Organizar e ministrar ciclos de estudos conducentes à obtenção de graus académicos em ciências policiais;\n\nb) Organizar e ministrar outros ciclos de estudos não conferentes de grau académico;\n\nc) Organizar e ministrar outros cursos de especialização ou aperfeiçoamento e outras actividades de ensino com interesse para a PSP, para as instituições que actuam no âmbito da segurança interna e para a comunidade em geral;\n\nd) Realizar, coordenar ou colaborar com outras instituições de ensino superior ou não, nacionais ou estrangeiras, em projectos de formação, investigação e desenvolvimento policial;\n\ne) Cooperar na formação superior universitária inicial e na formação ao longo da vida de profissionais de forças, serviços e organismos de segurança de países estrangeiros, nomeadamente da União Europeia e da Comunidade de Países de Língua Oficial Portuguesa (CPLP);\n\nf) Desenvolver doutrina nas áreas da segurança e polícia, políticas de segurança, cooperação policial internacional, organizações e missões internacionais e gestão de crises;\n\ng) Colaborar com a Direcção Nacional da Polícia de Segurança Pública, com outras forças e serviços de segurança ou quaisquer entidades e organizações, nos processos de selecção, formação e avaliação de pessoal destinado a desempenhar funções em organismos e missões internacionais;\n\nh) Dinamizar e coordenar a participação da PSP no âmbito da Academia Europeia de Polícia (CEPOL), da Associação Europeia dos Colégios de Polícia (AEPC) e de outras redes e instituições que desenvolvam a sua actividade no âmbito da formação superior universitária policial; e\n\ni) Promover e apoiar publicações científicas."
+  },
+  "177566473": {
+   "fragment_id": "177568173",
+   "type": 11,
+   "heading": "Artigo 3.º — Graus académicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Graus académicos\n\n1 - O ISCPSI confere os graus académicos de licenciado e de mestre.\n\n2 - O ISCPSI, enquanto estabelecimento de ensino universitário, confere o grau de mestre após um ciclo de estudos integrado com 300 créditos e uma duração normal de 10 semestres curriculares de trabalho dos alunos, constituindo a habilitação mínima exigida para o ingresso na carreira de oficial de polícia.\n\n3 - No ciclo de estudos a que se refere o número anterior, o ISCPSI confere o grau de licenciado aos alunos que tenham realizado os 180 créditos correspondentes aos primeiros seis semestres curriculares de trabalho, não constituindo habilitação para o ingresso na carreira de oficial de polícia.\n\n4 - O grau de licenciado referido no número anterior adopta uma denominação que não se confunda com a do grau de mestre.\n\n5 - O ISCPSI pode associar-se com universidades públicas nacionais para a realização de ciclos de estudos conducentes ao grau de doutor, nos termos do artigo 41.º do Decreto-Lei n.º 74/2006, de 24 de Março, alterado pelo Decreto-Lei n.º 107/2008, de 25 de Junho.\n\n6 - No caso previsto no número anterior cabe à universidade a atribuição do grau de doutor.\n\n7 - Os ramos do conhecimento e especialidades em que o ISCPSI pode associar-se para os fins previstos nos n.os 5 e 6 são fixados por despacho do membro do Governo responsável pela área da administração interna, sob proposta do director do ISCPSI, ouvido o conselho científico."
+  },
+  "177566474": {
+   "fragment_id": "177568174",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "177570375": {
+   "fragment_id": "177570475",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do ISCPSI:\n\na) A direcção;\n\nb) A direcção de ensino;\n\nc) O centro de investigação;\n\nd) O corpo de alunos;\n\ne) A direcção dos serviços de administração;\n\nf) O conselho consultivo;\n\ng) O conselho científico;\n\nh) O conselho pedagógico;\n\ni) O conselho de disciplina; e\n\nj) O conselho de gestão."
+  },
+  "177570376": {
+   "fragment_id": "177570476",
+   "type": 11,
+   "heading": "Artigo 5.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direcção\n\nConstituem a direcção do ISCPSI o director e o director-adjunto."
+  },
+  "177570377": {
+   "fragment_id": "177570477",
+   "type": 11,
+   "heading": "Artigo 6.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Director\n\n1 - O director dirige superiormente todas as actividades do ISCPSI, depende directamente do director nacional da PSP e responde pelo cumprimento das atribuições cometidas por lei ao ISCPSI.\n\n2 - O cargo de director do ISCPSI é de direcção superior de 2.º grau.\n\n3 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre superintendentes-chefes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do membro do Governo responsável pela área da administração interna, sob proposta do director nacional da PSP.\n\n4 - A renovação da comissão de serviço é comunicada ao interessado pela entidade competente até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respectivo período na ausência de comunicação, caso em que o dirigente se mantém no exercício de funções de gestão corrente até à tomada de posse do novo titular do cargo.\n\n5 - Para efeitos de eventual renovação da comissão de serviço, deve a entidade competente ser informada, com a antecedência mínima de 90 dias do termo de cada comissão, cessando esta automaticamente no fim do respectivo período sempre que não seja dado cumprimento àquela formalidade.\n\n6 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do membro do Governo responsável pela área da administração interna, por iniciativa deste, por proposta do director nacional ou a requerimento do interessado."
+  },
+  "177570378": {
+   "fragment_id": "177570478",
+   "type": 11,
+   "heading": "Artigo 7.º — Director-adjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director-adjunto\n\n1 - Compete ao director-adjunto substituir o director, coadjuvá-lo em todos os actos e desempenhar todas as atribuições por aquele delegadas.\n\n2 - O cargo de director-adjunto é de direcção intermédia de 1.º grau.\n\n3 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre superintendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI.\n\n4 - É aplicável à comissão de serviço do director-adjunto o regime previsto nos n.os 4 e 5 do artigo anterior.\n\n5 - Em qualquer momento, a comissão de serviço pode ser dada por finda, por despacho do director nacional, por iniciativa deste, por proposta do director do ISCPSI ou a requerimento do interessado."
+  },
+  "177570379": {
+   "fragment_id": "177570479",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete do director\n\n1 - Compete ao gabinete do director coadjuvar, assessorar e secretariar o director no exercício das suas funções, assegurando igualmente as funções de relações públicas, de protocolo e de tradução.\n\n2 - O gabinete é dirigido por um oficial da carreira de oficial de polícia da PSP, com a categoria de intendente.\n\n3 - A constituição e a organização do gabinete são estabelecidas no regulamento interno (RI) do ISCPSI."
+  },
+  "177570380": {
+   "fragment_id": "177570480",
+   "type": 11,
+   "heading": "Artigo 9.º — Núcleos de apoio ao director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Núcleos de apoio ao director\n\n1 - Na dependência do director funcionam os núcleos de deontologia e disciplina, de relações exteriores e de avaliação e qualidade.\n\n2 - As competências e a estrutura interna dos núcleos referidos no número anterior são estabelecidas no RI."
+  },
+  "177570381": {
+   "fragment_id": "177570481",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de ensino\n\n1 - Compete à direcção de ensino planear, coordenar e dirigir as actividades de ensino e todas as que, dentro do quadro científico e pedagógico, lhe sejam atribuídas por lei e pelo RI.\n\n2 - A direcção de ensino é constituída pelo director de ensino, pelos directores dos departamentos e das áreas científicas, pelo director de estágio e pela secretaria escolar.\n\n3 - As competências e a organização dos órgãos referidos no número anterior são estabelecidas no RI.\n\n4 - O cargo de director de ensino é de direcção intermédia de 1.º grau.\n\n5 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre superintendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI.\n\n6 - É aplicável à comissão de serviço do director de ensino o regime previsto nos n.os 4 e 5 do artigo 6.º\n\n7 - O director de estágio é um oficial da carreira de oficial de polícia da PSP com a categoria de subintendente, nomeado pelo director."
+  },
+  "177570382": {
+   "fragment_id": "177570482",
+   "type": 11,
+   "heading": "Artigo 11.º — Centro de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Centro de investigação\n\n1 - Compete ao centro de investigação desenvolver trabalhos e projectos de investigação científica multidisciplinar no âmbito dos departamentos e das áreas científicas do ISCPSI, gerir o centro de documentação e informação, promover a realização de colóquios, seminários e congressos na área da segurança interna, bem como promover a publicação de estudos e trabalhos científicos nesse âmbito.\n\n2 - O centro de investigação é constituído pelo director, pelos directores dos departamentos e das áreas científicas e pelo centro de documentação e informação.\n\n3 - As competências e a organização dos órgãos referidos no número anterior são estabelecidas em estatuto próprio, a aprovar pelo conselho científico.\n\n4 - O cargo de director do centro de investigação é de direcção intermédia de 2.º grau.\n\n5 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre intendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI, ouvido o conselho científico.\n\n6 - É aplicável à comissão de serviço do director do centro de investigação o regime previsto nos n.os 4 e 5 do artigo 6.º\n\n7 - O centro de documentação e informação é coordenado por um técnico superior em matéria de biblioteconomia, arquivística e documentalística."
+  },
+  "177570383": {
+   "fragment_id": "177570483",
+   "type": 11,
+   "heading": "Artigo 12.º — Corpo de alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Corpo de alunos\n\n1 - Ao corpo de alunos compete o comando dos alunos, a sua integração no ISCPSI e na PSP, a execução das acções conducentes à sua adequada preparação policial, ética, social e cultural, tendo em vista a sua correcta formação como oficiais de polícia.\n\n2 - O corpo de alunos é constituído pelo comandante do corpo de alunos, pelo adjunto do comandante do corpo de alunos, pelos comandantes de curso, pelo serviço de instrução, pelo gabinete de apoio psicopedagógico e pela secretaria do corpo de alunos.\n\n3 - O cargo de comandante do corpo de alunos é de direcção intermédia de 2.º grau.\n\n4 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre intendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI.\n\n5 - É aplicável à comissão de serviço do comandante do corpo de alunos o regime previsto nos n.os 4 e 5 do artigo 6.º\n\n6 - O adjunto do comandante do corpo de alunos é um oficial da carreira de oficial de polícia da PSP, com a categoria de subintendente.\n\n7 - Os comandantes de curso são oficiais da carreira de oficial de polícia da PSP, com a categoria de comissário ou subcomissário.\n\n8 - As competências e a organização dos órgãos referidos no número anterior são estabelecidas no RI."
+  },
+  "177570384": {
+   "fragment_id": "177570484",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção dos serviços de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção dos serviços de administração\n\n1 - Compete à direcção dos serviços de administração assegurar o normal funcionamento das actividades de carácter logístico e administrativo do ISCPSI, bem como a conservação das suas instalações, material e equipamento, garantindo a eficiência dos serviços próprios e a prontidão dos recursos disponíveis.\n\n2 - A organização e o funcionamento da direcção dos serviços de administração são estabelecidos no RI.\n\n3 - Os serviços de administração são dirigidos por um director, constituindo cargo de direcção intermédia de 2.º grau, sendo o seu recrutamento feito, por escolha, de entre os intendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI.\n\n4 - É aplicável à comissão de serviço do director dos serviços de administração o regime previsto nos n.os 4 e 5 do artigo 6.º"
+  },
+  "177570385": {
+   "fragment_id": "177570485",
+   "type": 11,
+   "heading": "Artigo 14.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de consulta do director, competindo-lhe pronunciar-se sobre a valia dos estudos levados a efeito pelo ISCPSI no âmbito das ciências policiais e da segurança interna, no contexto nacional e internacional, assim como propor alterações curriculares aos cursos ministrados, com vista a promover um maior apoio à Polícia e à comunidade.\n\n2 - Integram o conselho consultivo:\n\na) O director, que preside;\n\nb) O director-adjunto;\n\nc) O director de ensino;\n\nd) O director do centro de investigação;\n\ne) O comandante do corpo de alunos;\n\nf) Os directores dos departamentos e das áreas científicas;\n\ng) Os anteriores directores do ISCPSI;\n\nh) Três professores e três alunos, eleitos entre pares; e\n\ni) Outras personalidades e individualidades da sociedade civil, de reconhecido mérito, nomeadas pelo director.\n\n3 - O conselho consultivo reúne em plenário, no mínimo uma vez por ano, e é secretariado pelo chefe do gabinete do director."
+  },
+  "177570386": {
+   "fragment_id": "177570486",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho científico\n\n1 - O conselho científico é um órgão de consulta do director em matérias relacionadas com a orientação e organização do ensino superior universitário ministrado no ISCPSI, com os projectos de investigação levados a efeito ou a empreender, competindo-lhe:\n\na) Elaborar o seu regimento;\n\nb) Apreciar as actividades científicas do ISCPSI;\n\nc) Deliberar sobre a distribuição do serviço docente, sujeitando-a a homologação do director;\n\nd) Pronunciar-se sobre a criação de ciclos de estudos proposta pelo director do ISCPSI e aprovar os respectivos planos de estudos, com vista a homologação pelo membro do Governo responsável pela área da administração interna;\n\ne) Aprovar o regulamento do Sistema Europeu de Transferência de Créditos (ECTS);\n\nf) Propor ou pronunciar-se sobre a concessão de títulos ou distinções honoríficas;\n\ng) Propor ou pronunciar-se sobre a instituição de prémios escolares;\n\nh) Propor a composição dos júris de provas e de concursos académicos;\n\ni) Praticar outros actos previstos na lei relativos à carreira docente e de investigação e ao recrutamento de pessoal docente e de investigação;\n\nj) Desempenhar as demais funções atribuídas pela lei ou pelos regulamentos do ISCPSI.\n\n2 - Integram o conselho científico:\n\na) O director, que preside;\n\nb) O director-adjunto;\n\nc) O director de ensino;\n\nd) O director do centro de investigação;\n\ne) O comandante do corpo de alunos;\n\nf) Os directores dos departamentos e das áreas científicas;\n\ng) Os docentes doutorados;\n\nh) O director do estágio; e\n\ni) O chefe do gabinete do director, que secretaria.\n\n3 - Podem participar no conselho científico, a convite do director e sem direito a voto, outras personalidades de reconhecido mérito e conhecimento técnico da matéria em debate."
+  },
+  "177570387": {
+   "fragment_id": "177570487",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho pedagógico\n\n1 - O conselho pedagógico é um órgão de consulta do director em matérias relacionadas com a orientação pedagógica, a avaliação dos cursos e o rendimento escolar, de modo a promover um processo de ensino e de aprendizagem adequado aos novos desafios das ciências policiais e da segurança interna, competindo-lhe:\n\na) Pronunciar-se sobre as orientações pedagógicas e os métodos de ensino e de avaliação;\n\nb) Promover a realização de inquéritos regulares ao desempenho pedagógico do ISCPSI e a sua análise e divulgação;\n\nc) Promover a realização da avaliação do desempenho pedagógico dos docentes, por estes e pelos estudantes, e a sua análise e divulgação;\n\nd) Propor as providências necessárias para criar condições pedagógicas de excelência;\n\ne) Aprovar o regulamento de avaliação de conhecimentos dos alunos;\n\nf) Pronunciar-se sobre a criação de ciclos de estudos e sobre os respectivos planos;\n\ng) Pronunciar-se sobre a instituição de prémios escolares;\n\nh) Exercer as demais competências que lhe sejam conferidas pela lei ou pelos regulamentos do ISCPSI.\n\n2 - Integram o conselho pedagógico:\n\na) O director, que preside;\n\nb) O director-adjunto;\n\nc) O director de ensino;\n\nd) O director do centro de investigação;\n\ne) O comandante do corpo de alunos;\n\nf) Os directores dos departamentos e das áreas científicas;\n\ng) Os docentes doutorados;\n\nh) O director do estágio;\n\ni) Cinco docentes eleitos entre os seus pares;\n\nj) O chefe do gabinete do director, que secretaria; e\n\nl) Um aluno de cada ano, eleito pelos seus pares.\n\n3 - Podem participar no conselho pedagógico, a convite do director e sem direito a voto, outras personalidades e individualidades de reconhecido mérito e conhecimento técnico da matéria em debate."
+  },
+  "177570388": {
+   "fragment_id": "177570488",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho de disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho de disciplina\n\n1 - Compete ao conselho de disciplina aconselhar o director nos assuntos de natureza disciplinar relacionados com os alunos.\n\n2 - Integram o conselho de disciplina:\n\na) O director, que preside;\n\nb) O director-adjunto;\n\nc) O director de ensino;\n\nd) O comandante do corpo de alunos;\n\ne) Dois docentes, a nomear pelo director; e\n\nf) O adjunto do comandante de corpo de alunos, que secretaria.\n\n3 - Podem participar no conselho de disciplina, a convite do director e sem direito a voto, outras personalidades de reconhecido mérito e conhecimento técnico da matéria em debate."
+  },
+  "177570389": {
+   "fragment_id": "177570489",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho de gestão\n\n1 - Compete ao conselho de gestão conduzir a gestão administrativa e patrimonial do ISCPSI, bem como a gestão dos recursos humanos de acordo com a legislação em vigor para os organismos públicos dotados de autonomia administrativa.\n\n2 - Compete ainda ao conselho de gestão fixar as taxas e emolumentos.\n\n3 - O conselho de gestão pode delegar nos órgãos do ISCPSI e nos dirigentes de serviço as competências consideradas necessárias a uma gestão eficiente.\n\n4 - Integram o conselho de gestão:\n\na) O director, que preside;\n\nb) O director-adjunto;\n\nc) O director de ensino;\n\nd) O director do centro de investigação;\n\ne) O director dos serviços de administração; e\n\nf) O chefe do gabinete do director, que secretaria.\n\n5 - Podem ser convocados para participar, sem direito a voto, nas reuniões do conselho de gestão outros responsáveis de órgãos ou serviços do ISCPSI."
+  },
+  "177570390": {
+   "fragment_id": "177570490",
+   "type": 1,
+   "heading": "Capítulo III — Ensino e investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Ensino e investigação"
+  },
+  "177570391": {
+   "fragment_id": "177570491",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação, acreditação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação, acreditação e informação\n\n1 - O ISCSPI está abrangido pelo sistema geral de avaliação e acreditação do ensino superior.\n\n2 - A organização dos ciclos de estudos do ISCSPI rege-se pelos princípios estabelecidos pelo Decreto-Lei n.º 74/2006, de 24 de Março, alterado pelo Decreto-Lei n.º 107/2008, de 25 de Junho, e pelo Decreto-Lei n.º 42/2005, de 22 de Fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de Junho, sem prejuízo das exigências específicas deste estatuto e dos seus regulamentos, inerentes à missão policial.\n\n3 - Os ciclos de estudos do ISCPSI estão sujeitos a acreditação nos termos do disposto no título III do Decreto-Lei n.º 74/2006, de 24 de Março.\n\n4 - O ISCPSI presta informação actualizada acerca da sua organização e funcionamento, designadamente sobre as instalações, o corpo docente, os planos de estudos e os conteúdos curriculares.\n\n5 - São objecto de divulgação pública as informações relativas ao ISCPSI, aos seus ciclos de estudos e ainda aos resultados dos processos de avaliação e acreditação."
+  },
+  "177570392": {
+   "fragment_id": "177570492",
+   "type": 11,
+   "heading": "Artigo 20.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cooperação\n\n1 - Podem ter acesso aos cursos previstos no artigo anterior candidatos provenientes de outras forças, serviços e organismos de segurança nacionais e de países estrangeiros, nomeadamente da União Europeia e da CPLP.\n\n2 - As modalidades de ingresso e frequência dos cursos destinados à formação referida no número anterior são definidas nos acordos de cooperação em matéria policial celebrados com esses países e instituições."
+  },
+  "177570393": {
+   "fragment_id": "177570493",
+   "type": 11,
+   "heading": "Artigo 21.º — Orientação do ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Orientação do ensino\n\n1 - O ensino ministrado no ciclo de estudos integrado de mestrado em ciências policiais compreende as seguintes vertentes fundamentais:\n\na) Formação científica de base de nível universitário, com vista a assegurar a aquisição de conhecimentos essenciais ao permanente acompanhamento da evolução do saber;\n\nb) Formação científica de índole técnica e tecnológica, destinada a satisfazer a qualificação profissional indispensável ao desempenho das funções técnicas no âmbito da PSP;\n\nc) Formação ética e deontológica, consubstanciada numa sólida educação cívica, tendo em vista desenvolver nos alunos os atributos de carácter, em especial o alto sentido do dever, honra e lealdade, da disciplina e as qualidades de comando e liderança, próprias do oficial de polícia;\n\nd) Preparação física e policial, visando conferir aos alunos as competências imprescindíveis ao cumprimento das suas missões futuras.\n\n2 - Com vista à formação integral do aluno, o ciclo de estudos integrado de mestrado em ciências policiais compreende actividades complementares, baseadas na correcta gestão dos tempos livres, e que contemplam actividades de carácter policial, lúdico e de cultura geral."
+  },
+  "177570394": {
+   "fragment_id": "177570494",
+   "type": 11,
+   "heading": "Artigo 22.º — Actividades de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Actividades de ensino\n\n1 - As actividades de ensino no ISCPSI têm, por regra, carácter presencial e obrigatório e desenvolvem-se através de aulas teóricas, teórico-práticas, prático-laboratoriais, trabalho de campo orientado, seminários, estágios e orientação tutorial, de acordo com a pedagogia mais aconselhável ao processo de ensino-aprendizagem das unidades curriculares que integram os planos dos diversos cursos.\n\n2 - De acordo com a especificidade do curso, podem ser utilizadas metodologias que possibilitem a utilização de métodos não presenciais.\n\n3 - O ensino no ciclo de estudos integrado de mestrado em ciências policiais reveste carácter presencial, atenta a sua natureza específica e a necessidade de garantir a formação referida nas alíneas c) e d) do n.º 1 do artigo anterior."
+  },
+  "177570395": {
+   "fragment_id": "177570495",
+   "type": 11,
+   "heading": "Artigo 23.º — Actividades de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Actividades de investigação\n\nNo domínio das áreas científicas que integram os planos dos cursos que ministra, o ISCPSI, nomeadamente através do seu centro de investigação e dos seus departamentos científicos, promove actividades de investigação que visam o desenvolvimento das ciências policiais, a formação metodológica dos seus alunos, a procura constante de novas soluções pedagógicas e a melhoria do ensino."
+  },
+  "177570396": {
+   "fragment_id": "177570496",
+   "type": 11,
+   "heading": "Artigo 24.º — Convénios, associações e mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Convénios, associações e mobilidade\n\n1 - No âmbito da missão que lhe está cometida, o ISCPSI pode associar-se e estabelecer convénios com outros estabelecimentos de ensino superior, nacionais ou estrangeiros, para a realização de ciclos de estudos nos termos dos artigos 41.º a 43.º do Decreto-Lei n.º 74/2006, de 24 de Março, bem como para o desenvolvimento de projectos de ensino em rede e estabelecimento de parcerias nacionais e internacionais, geradores de sinergias entre as instituições e optimizadores da utilização de recursos docentes e materiais existentes.\n\n2 - O ISCPSI assegura o princípio da mobilidade dos estudantes, salvaguardadas as necessidades, as especificidades e os interesses da PSP, devendo o membro do Governo responsável pela administração interna estabelecer as condições de mobilidade, nos termos da legislação aplicável.\n\n3 - Em concreto, e para os efeitos do previsto nos números anteriores, o ISCPSI pode associar-se ou celebrar convénios tendo em vista:\n\na) A definição do regime de creditação de formações visando o prosseguimento de estudos dos seus alunos, a todos os níveis, noutras instituições de ensino superior, e dos estudantes destas no ISCPSI;\n\nb) A realização ou coordenação de projectos nacionais ou internacionais de investigação e desenvolvimento, integrados em objectivos de interesse nacional, nomeadamente na área das ciências policiais e da segurança interna; e\n\nc) A utilização recíproca de recursos disponíveis."
+  },
+  "177570397": {
+   "fragment_id": "177570497",
+   "type": 1,
+   "heading": "Capítulo IV — Corpo docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Corpo docente"
+  },
+  "177570398": {
+   "fragment_id": "177570498",
+   "type": 11,
+   "heading": "Artigo 25.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Constituição\n\nO corpo docente do ISCPSI é constituído por docentes com as categorias previstas pelo Estatuto da Carreira Docente Universitária (ECDU)."
+  },
+  "177570399": {
+   "fragment_id": "177570499",
+   "type": 11,
+   "heading": "Artigo 26.º — Pessoal docente policial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pessoal docente policial\n\nOs docentes policiais são recrutados de entre os oficiais de polícia detentores de grau académico superior, sendo determinante para a sua selecção a posse de reconhecido currículo científico, pedagógico ou profissional nas unidades curriculares de conhecimento que lhes compete ministrar."
+  },
+  "177570400": {
+   "fragment_id": "177570500",
+   "type": 11,
+   "heading": "Artigo 27.º — Pessoal docente não policial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pessoal docente não policial\n\nO pessoal docente não policial é recrutado de entre docentes ou individualidades de reconhecida competência científica, pedagógica ou profissional nas unidades curriculares de conhecimento que lhes compete ministrar, devendo a sua admissão realizar-se nos termos e de acordo com as qualificações exigidas no ECDU."
+  },
+  "177570401": {
+   "fragment_id": "177570501",
+   "type": 11,
+   "heading": "Artigo 28.º — Selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Selecção\n\n1 - A selecção dos docentes policiais do ISCPSI é feita por convite formulado pelo director, fundamentado em parecer subscrito pela maioria dos membros do conselho científico, aos quais é previamente fornecido um exemplar do curriculum vitae, atribuindo-se a categoria de harmonia com as regras estabelecidas no EDCU.\n\n2 - A selecção dos docentes não policiais do ISCPSI pode ser feita por concurso ou por convite, atribuindo-se a categoria de acordo com as regras estabelecidas no EDCU."
+  },
+  "177570402": {
+   "fragment_id": "177570502",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime de contratação dos docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime de contratação dos docentes\n\n1 - Os docentes policiais, quando não colocados no ISCPSI, são autorizados pelo director nacional da PSP a assumirem funções docentes.\n\n2 - Os docentes não policiais são contratados por contrato de trabalho em funções públicas, nos termos do regime jurídico de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas.\n\n3 - Os contratos referidos no número anterior são celebrados pelo director e contêm, obrigatoriamente, os seguintes elementos:\n\na) Período de validade do contrato;\n\nb) Unidades curriculares para que o docente é contratado;\n\nc) Número de horas de serviço docente a prestar semanalmente; e\n\nd) Indicação da categoria do docente."
+  },
+  "177570403": {
+   "fragment_id": "177570503",
+   "type": 11,
+   "heading": "Artigo 30.º — Vencimentos e remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Vencimentos e remunerações\n\n1 - Os docentes não policiais, os docentes policiais não colocados no ISCPSI e os que aí desempenhem funções para além das de natureza lectiva têm direito à remuneração prevista para o regime de tempo parcial previsto no Estatuto da Carreira Docente Universitária, de acordo com a categoria que lhes seja atribuída pelo conselho científico e o número de horas contratadas.\n\n2 - Os pagamentos relativos às actividades docentes e de apoio não regulares, certas ou permanentes, desenvolvidas no âmbito de cursos não conferentes de grau académico ou de especialização, seminários ou colóquios, são realizados de acordo com o regime da contratação pública."
+  },
+  "177570404": {
+   "fragment_id": "177570504",
+   "type": 11,
+   "heading": "Artigo 31.º — Funções dos docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funções dos docentes\n\nSem prejuízo do previsto no Estatuto da Carreira Docente Universitária para a correspondente categoria, compete aos docentes do ISCPSI:\n\na) Ministrar as unidades curriculares;\n\nb) Dirigir ou colaborar em trabalhos de investigação;\n\nc) Dirigir ou cooperar na orientação e coordenação pedagógica de uma ou várias unidades curriculares;\n\nd) Participar nas tarefas de gestão do ensino, nomeadamente nas reuniões para que tenham sido convocados; e\n\ne) Contribuir para a produção científica realizada no ISCPSI."
+  },
+  "177570405": {
+   "fragment_id": "177570505",
+   "type": 1,
+   "heading": "Capítulo V — Corpo discente do ciclo de estudos integrado de mestrado em Ciências Policiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Corpo discente do ciclo de estudos integrado de mestrado em Ciências Policiais"
+  },
+  "177570406": {
+   "fragment_id": "177570506",
+   "type": 11,
+   "heading": "Artigo 32.º — Acesso e regime de frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acesso e regime de frequência\n\n1 - As condições de acesso e ingresso ao ISCPSI são idênticas ao que estiver estabelecido para o ensino superior público, sem prejuízo das exigências específicas fixadas neste estatuto e em outra regulamentação.\n\n2 - A admissão, a frequência, o aproveitamento escolar e a eliminação dos alunos do ciclo de estudos integrado de mestrado em ciências policiais são regulados em portaria a aprovar pelo membro do Governo responsável pela área da administração interna.\n\n3 - O número de vagas é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, administração interna e do ensino superior."
+  },
+  "177570407": {
+   "fragment_id": "177570507",
+   "type": 11,
+   "heading": "Artigo 33.º — Situação do aluno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Situação do aluno\n\n1 - Os candidatos admitidos no concurso são aumentados ao efectivo do corpo de alunos e adquirem a categoria de cadete-aluno.\n\n2 - O cadete-aluno é graduado em aspirante a oficial de polícia na data de início do último ano curricular.\n\n3 - A frequência do ciclo de estudos integrado de mestrado em Ciências Policiais faz-se em comissão de serviço, para o pessoal policial e para os trabalhadores com prévia relação jurídica de emprego público, e na modalidade de nomeação transitória por tempo determinado, para os restantes alunos."
+  },
+  "177570408": {
+   "fragment_id": "177570508",
+   "type": 11,
+   "heading": "Artigo 34.º — Direitos e deveres dos alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direitos e deveres dos alunos\n\n1 - Os alunos do ciclo de estudos integrado de mestrado em Ciências Policiais estão isentos de propinas e outros encargos de frequência.\n\n2 - Constitui encargo do Estado o alojamento, a alimentação e o fardamento dos alunos.\n\n3 - Durante a frequência do curso, os alunos são obrigados a fazer uso do uniforme estabelecido no plano geral de uniformes da PSP.\n\n4 - Os alunos têm direito a uma gratificação mensal nos termos do estatuto do pessoal da PSP e aos abonos e gratificações legalmente aplicáveis às condições do seu vínculo à instituição.\n\n5 - A contagem do tempo de serviço efectivo e o correspondente desconto para o regime de segurança social aplicável têm início na data de aumento ao efectivo do corpo de alunos.\n\n6 - Os alunos têm direito aos serviços sociais da PSP e ao seu subsistema de saúde, efectuando para o efeito os devidos descontos.\n\n7 - Os demais direitos e deveres dos alunos são consignados no RI."
+  },
+  "177570409": {
+   "fragment_id": "177570509",
+   "type": 1,
+   "heading": "Capítulo VI — Outros ciclos de estudos e cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Outros ciclos de estudos e cursos"
+  },
+  "177570410": {
+   "fragment_id": "177570510",
+   "type": 11,
+   "heading": "Artigo 39.º — Aprovação e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Aprovação e regime\n\n1 - No sentido de responder às necessidades formativas da PSP e da comunidade nacional e internacional, no âmbito das ciências policiais e de segurança interna, o conselho científico aprova a realização de outros ciclos de estudos em Ciências Policiais bem como de cursos de especialização e actualização.\n\n2 - Os cursos que constituam pré-requisitos especiais de promoção na carreira de oficial de polícia são aprovados por portaria do membro do Governo responsável pela área da administração interna.\n\n3 - Quando as actividades a desenvolver não se direccionem especificamente para as necessidades de formação da PSP, os cursos devem autofinanciar-se."
+  },
+  "177570411": {
+   "fragment_id": "177570511",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "177570412": {
+   "fragment_id": "177570512",
+   "type": 11,
+   "heading": "Artigo 40.º — Receitas do ISCPSI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Receitas do ISCPSI\n\nConstituem receitas do ISCPSI:\n\na) As dotações atribuídas pelo Orçamento do Estado;\n\nb) As receitas provenientes de propinas e outros encargos devidos pela frequência dos ciclos de estudos e de outras actividades realizados pelo ISCPSI ou em cooperação com outra instituição de ensino superior;\n\nc) As receitas provenientes de actividade de investigação e desenvolvimento, incluindo a emissão de pareceres;\n\nd) Os rendimentos de bens próprios ou de que tenha a fruição;\n\ne) O produto de vendas de publicações e as quantias cobradas pelas actividades e serviços prestados;\n\nf) Os juros dos depósitos bancários;\n\ng) As receitas próprias consignadas ao ISCPSI e aos respectivos saldos;\n\nh) Os subsídios, subvenções, comparticipações, doações, heranças e legados;\n\ni) O produto resultante de taxas e emolumentos; e\n\nj) Outras receitas que lhe sejam atribuídas por lei, contrato ou a qualquer outro título."
+  },
+  "177570413": {
+   "fragment_id": "177570513",
+   "type": 11,
+   "heading": "Artigo 41.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Pessoal dirigente\n\nOs cargos dirigentes do ISCPSI são os previstos no mapa anexo ao presente Estatuto, do qual faz parte integrante."
+  },
+  "177570414": {
+   "fragment_id": "177570514",
+   "type": 14,
+   "heading": "Anexo — Quadro de cargos dirigentes do ISCPSI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de cargos dirigentes do ISCPSI\n\n(a que se refere o artigo 41.º)\n\n(ver documento original)"
+  },
+  "920662464": {
+   "fragment_id": "177568165",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\nO despacho conjunto dos Ministros da Administração Interna e das Finanças, de 15 de Junho de 1984, e a Portaria n.º 721/84, de 17 de Setembro, mantêm-se em vigor, na parte em que não contrariem o presente decreto-lei, até à publicação da regulamentação do estatuto do ISCPSI.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+  },
+  "177566468": {
+   "fragment_id": "177568168",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Baptista Lobo - Rui Carlos Pereira - Manuel Frederico Tojal de Valsassina Heitor.\n\nPromulgado em 18 de Setembro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 21 de Setembro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\nANEXO\n\nESTATUTO DO INSTITUTO SUPERIOR DE CIÊNCIAS POLICIAIS E SEGURANÇA INTERNA"
+  },
+  "920662458": {
+   "fragment_id": "177568173",
+   "type": 11,
+   "heading": "Artigo 3.º — Graus académicos",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 3.º — Graus académicos\n\n1 - O ISCPSI confere os graus académicos de licenciado e de mestre.\n\n2 - O ISCPSI confere os graus de licenciado em Ciências Policiais e de mestre em Segurança Pública, constituindo-se, em conjunto, como a habilitação mínima exigida para o ingresso na carreira de oficial de polícia.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - O ISCPSI pode associar-se com universidades públicas nacionais para a realização de ciclos de estudos conducentes ao grau de doutor, nos termos do artigo 41.º do Decreto-Lei n.º 74/2006, de 24 de Março, alterado pelo Decreto-Lei n.º 107/2008, de 25 de Junho.\n\n6 - No caso previsto no número anterior cabe à universidade a atribuição do grau de doutor.\n\n7 - Os ramos do conhecimento e especialidades em que o ISCPSI pode associar-se para os fins previstos nos n.os 5 e 6 são fixados por despacho do membro do Governo responsável pela área da administração interna, sob proposta do director do ISCPSI, ouvido o conselho científico.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+  },
+  "920636930": {
+   "fragment_id": "177570481",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de ensino",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 10.º — Direcção de ensino\n\n1 - Compete à direcção de ensino planear, coordenar e dirigir as actividades de ensino e todas as que, dentro do quadro científico e pedagógico, lhe sejam atribuídas por lei e pelo RI.\n\n2 - A direcção de ensino é constituída pelo director de ensino, pelos directores dos departamentos e das áreas científicas, pelo director de estágio e pela secretaria escolar.\n\n3 - As competências e a organização dos órgãos referidos no número anterior são estabelecidas no RI.\n\n4 - O cargo de director de ensino é de direcção intermédia de 1.º grau.\n\n5 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre superintendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI.\n\n6 - É aplicável à comissão de serviço do director de ensino o regime previsto nos n.os 4 e 5 do artigo 7.º\n\n7 - O director de estágio é um oficial da carreira de oficial de polícia da PSP com a categoria de subintendente, nomeado pelo director.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+  },
+  "920636931": {
+   "fragment_id": "177570482",
+   "type": 11,
+   "heading": "Artigo 11.º — Centro de investigação",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 11.º — Centro de investigação\n\n1 - Compete ao centro de investigação desenvolver trabalhos e projectos de investigação científica multidisciplinar no âmbito dos departamentos e das áreas científicas do ISCPSI, gerir o centro de documentação e informação, promover a realização de colóquios, seminários e congressos na área da segurança interna, bem como promover a publicação de estudos e trabalhos científicos nesse âmbito.\n\n2 - O centro de investigação é constituído pelo director, pelos directores dos departamentos e das áreas científicas e pelo centro de documentação e informação.\n\n3 - As competências e a organização dos órgãos referidos no número anterior são estabelecidas em estatuto próprio, a aprovar pelo conselho científico.\n\n4 - O cargo de director do centro de investigação é de direcção intermédia de 2.º grau.\n\n5 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre intendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI, ouvido o conselho científico.\n\n6 - É aplicável à comissão de serviço do director do centro de investigação o regime previsto nos n.os 4 e 5 do artigo 7.º\n\n7 - O centro de documentação e informação é coordenado por um técnico superior em matéria de biblioteconomia, arquivística e documentalística.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+  },
+  "920636932": {
+   "fragment_id": "177570483",
+   "type": 11,
+   "heading": "Artigo 12.º — Corpo de alunos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 12.º — Corpo de alunos\n\n1 - Ao corpo de alunos compete o comando dos alunos, a sua integração no ISCPSI e na PSP, a execução das acções conducentes à sua adequada preparação policial, ética, social e cultural, tendo em vista a sua correcta formação como oficiais de polícia.\n\n2 - O corpo de alunos é constituído pelo comandante do corpo de alunos, pelo adjunto do comandante do corpo de alunos, pelos comandantes de curso, pelo serviço de instrução, pelo gabinete de apoio psicopedagógico e pela secretaria do corpo de alunos.\n\n3 - O cargo de comandante do corpo de alunos é de direcção intermédia de 2.º grau.\n\n4 - O recrutamento para o cargo previsto no número anterior é feito, por escolha, de entre intendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI.\n\n5 - É aplicável à comissão de serviço do comandante do corpo de alunos o regime previsto nos n.os 4 e 5 do artigo 7.º\n\n6 - O adjunto do comandante do corpo de alunos é um oficial da carreira de oficial de polícia da PSP, com a categoria de subintendente.\n\n7 - Os comandantes de curso são oficiais da carreira de oficial de polícia da PSP, com a categoria de comissário ou subcomissário.\n\n8 - As competências e a organização dos órgãos referidos no n.º 2 são estabelecidas no RI.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+  },
+  "920636933": {
+   "fragment_id": "177570484",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção dos serviços de administração",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 13.º — Direcção dos serviços de administração\n\n1 - Compete à direcção dos serviços de administração assegurar o normal funcionamento das actividades de carácter logístico e administrativo do ISCPSI, bem como a conservação das suas instalações, material e equipamento, garantindo a eficiência dos serviços próprios e a prontidão dos recursos disponíveis.\n\n2 - A organização e o funcionamento da direcção dos serviços de administração são estabelecidos no RI.\n\n3 - Os serviços de administração são dirigidos por um director, constituindo cargo de direcção intermédia de 2.º grau, sendo o seu recrutamento feito, por escolha, de entre os intendentes, e o exercício é efectuado em comissão de serviço por um período de três anos, renovável, mediante despacho do director nacional, sob proposta do director do ISCPSI.\n\n4 - É aplicável à comissão de serviço do director dos serviços de administração o regime previsto nos n.os 4 e 5 do artigo 7.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+  },
+  "920636934": {
+   "fragment_id": "177570486",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 15.º — Conselho científico\n\n1 - O conselho científico é um órgão de consulta do director em matérias relacionadas com a orientação e organização do ensino superior universitário ministrado no ISCPSI e com os projectos de investigação levados a efeito ou a empreender, competindo-lhe:\n\na) Elaborar o seu regimento;\n\nb) Apreciar as actividades científicas do ISCPSI;\n\nc) Deliberar sobre a distribuição do serviço docente, sujeitando-a a homologação do director;\n\nd) Pronunciar-se sobre a criação de ciclos de estudos proposta pelo director do ISCPSI e aprovar os respectivos planos de estudos, com vista a homologação pelo membro do Governo responsável pela área da administração interna;\n\ne) Aprovar o regulamento do Sistema Europeu de Transferência de Créditos (ECTS);\n\nf) Propor ou pronunciar-se sobre a concessão de títulos ou distinções honoríficas;\n\ng) Propor ou pronunciar-se sobre a instituição de prémios escolares;\n\nh) Propor a composição dos júris de provas e de concursos académicos;\n\ni) Praticar outros actos previstos na lei relativos à carreira docente e de investigação e ao recrutamento de pessoal docente e de investigação;\n\nj) Desempenhar as demais funções atribuídas pela lei ou pelos regulamentos do ISCPSI.\n\n2 - Integram o conselho científico:\n\na) O director, que preside;\n\nb) O director-adjunto;\n\nc) O director de ensino;\n\nd) O director do centro de investigação;\n\ne) O comandante do corpo de alunos;\n\nf) Os directores dos departamentos e das áreas científicas;\n\ng) Os docentes doutorados;\n\nh) O director do estágio; e\n\ni) O chefe do gabinete do director, que secretaria.\n\n3 - Podem participar no conselho científico, a convite do director e sem direito a voto, outras personalidades de reconhecido mérito e conhecimento técnico da matéria em debate.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+  },
+  "920662459": {
+   "fragment_id": "177570498",
+   "type": 11,
+   "heading": "Artigo 25.º — Corpo docente",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 25.º — Corpo docente\n\n1 - O corpo docente do ISCPSI é constituído pelos docentes, policiais e não policiais, que a qualquer título, com as categorias e nos termos do Estatuto da Carreira Docente Universitária (ECDU), aprovado pelo Decreto-Lei n.º 448/79, de 13 de novembro, na sua redação atual, e pelo Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico (ECPDESP), aprovado pelo Decreto-Lei n.º 185/81, de 1 de julho, na sua redação atual, designadamente por contrato de trabalho em funções públicas por tempo indeterminado ou a termo certo, bem como através de convénio com instituições de ensino universitário, nele desenvolvam atividade docente.\n\n2 - Ao corpo docente compete a realização dos fins educativos do ISCPSI, cabendo-lhe desempenhar as funções próprias da categoria e as atribuídas no âmbito da atividade escolar, bem como cumprir as determinações vigentes e os deveres inerentes à condição de docente universitário.\n\n3 - O corpo docente do ISCPSI deve satisfazer os requisitos previstos na legislação do docente de ensino superior, sem prejuízo da especificidade própria do ESPOL.\n\n4 - O pessoal docente de carreira e o especialmente contratado regem-se pelo previsto no ECDU ou no ECPDESP, na prestação do serviço docente no ISCPSI, sem prejuízo do disposto no presente decreto-lei.\n\n5 - Os docentes não policiais têm direito ao uso de traje e insígnias académicas próprias, nos termos definidos em despacho do diretor nacional da PSP, ouvido o conselho pedagógico.\n\n6 - O pessoal docente de carreira e o especialmente contratado constam do mapa de pessoal da PSP.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+  },
+  "920662460": {
+   "fragment_id": "177570499",
+   "type": 11,
+   "heading": "Artigo 26.º — Recrutamento de docentes policiais",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 26.º — Recrutamento de docentes policiais\n\n1 - Os docentes policiais são recrutados de entre os oficiais de polícia detentores de grau académico superior, sendo determinante para a sua selecção a posse de reconhecido currículo científico, pedagógico ou profissional nas unidades curriculares de conhecimento que lhes compete ministrar.\n\n2 - A seleção dos docentes policiais do ISCPSI é feita por convite formulado pelo diretor.\n\n3 - O convite formulado pelo diretor é fundamentado em parecer subscrito pela maioria dos membros do conselho científico, aos quais é previamente fornecido um exemplar do curriculum vitae, atribuindo-se a categoria de harmonia com as regras estabelecidas no ECDU ou no ECPDESP.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+  },
+  "920662461": {
+   "fragment_id": "177570500",
+   "type": 11,
+   "heading": "Artigo 27.º — Recrutamento de docentes não policiais",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 27.º — Recrutamento de docentes não policiais\n\n1 - Os docentes não policiais são recrutados de entre docentes ou individualidades de reconhecida competência científica, pedagógica ou profissional nas unidades curriculares de conhecimento que lhes compete ministrar, devendo a sua admissão realizar-se nos termos e de acordo com as qualificações exigidas no ECDU ou no ECPDESP.\n\n2 - A seleção de docentes de carreira é feita por concurso nos termos do ECDU ou do ECPDESP.\n\n3 - A seleção de docentes especialmente contratados é feita por convite nos termos do ECDU ou do ECPDESP.\n\n4 - O ISCPSI pode celebrar convénios com outras instituições de ensino superior para a cedência de docentes.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+  },
+  "920958728": {
+   "fragment_id": "177570501",
+   "type": 11,
+   "heading": "Artigo 28.º — Selecção",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13",
+    "Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 28.º — Selecção\n\n1 - A selecção dos docentes policiais do ISCPSI é feita por convite formulado pelo director, fundamentado em parecer subscrito pela maioria dos membros do conselho científico, aos quais é previamente fornecido um exemplar do curriculum vitae, atribuindo-se a categoria de harmonia com as regras estabelecidas no ECDU.\n\n2 - A selecção dos docentes não policiais do ISCPSI pode ser feita por concurso ou por convite, atribuindo-se a categoria de acordo com as regras estabelecidas no ECDU.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13\n\n> Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+  },
+  "920662462": {
+   "fragment_id": "177570502",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime de contratação",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 29.º — Regime de contratação\n\n1 - Os docentes policiais são autorizados a exercer funções de docência no ISCPSI pelo diretor nacional da PSP.\n\n2 - Os docentes não policiais são contratados nos termos previstos no ECDU ou no ECPDESP.\n\n3 - Os contratos referidos no número anterior são celebrados pelo diretor do ISCPSI e contêm, obrigatoriamente, os seguintes elementos:\n\na) Modalidade do contrato de trabalho em funções públicas;\n\nb) Área científica para a qual o docente é contratado;\n\nc) Número de horas de serviço docente a prestar semanalmente; e\n\nd) Indicação da categoria do docente.\n\ne) Remuneração;\n\nf) No caso do contrato de trabalho em funções públicas a termo resolutivo certo, deve ser ainda indicado o início e a duração do contrato.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+  },
+  "920662463": {
+   "fragment_id": "177570503",
+   "type": 11,
+   "heading": "Artigo 30.º — Vencimentos e remunerações",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 30.º — Vencimentos e remunerações\n\n1 - Os docentes não policiais, os docentes policiais não colocados no ISCPSI e os que aí desempenhem funções para além das de natureza letiva têm direito à remuneração prevista no âmbito do ECDU ou do ECPDESP, de acordo com a categoria que lhes seja atribuída pelo conselho científico.\n\n2 - Os pagamentos relativos às actividades docentes e de apoio não regulares, certas ou permanentes, desenvolvidas no âmbito de cursos não conferentes de grau académico ou de especialização, seminários ou colóquios, são realizados de acordo com o regime da contratação pública.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2022-177528434), em vigor a partir de 2022-01-13"
+  },
+  "920636936": {
+   "fragment_id": "920668941",
+   "type": 11,
+   "heading": "Artigo 35.º — Regime académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regime académico\n\n1 - O regime de frequência do curso é de internato, podendo ser facultado o regime de externato em casos especiais, definidos no RI.\n\n2 - O regime de avaliação de conhecimentos dos alunos é fixado por despacho do director do ISCPSI, após aprovação do conselho pedagógico.\n\n3 - As regras de estágio são aprovadas por despacho do director nacional, sob proposta do director do ISCPSI.\n\n4 - As condições de elaboração e apreciação das dissertações dos cursos de mestrado são fixadas por despacho do director, após aprovação do conselho científico.\n\n5 - As regras de atribuição da classificação final constam do regime de admissão, frequência, aproveitamento escolar e eliminação do ciclo de estudos integrado de mestrado em Ciências Policiais.\n\n6 - As regras de emissão de cartas de curso e diplomas são aprovadas por despacho do director.\n\n7 - Os alunos estão sujeitos a regime disciplinar escolar, fixado por despacho do director nacional sob proposta do director do ISCPSI."
+  },
+  "920636937": {
+   "fragment_id": "920668942",
+   "type": 11,
+   "heading": "Artigo 36.º — Sujeição a exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sujeição a exames\n\n1 - Durante o ciclo de estudos integrado de mestrado em Ciências Policiais, os alunos podem ser submetidos a exames médicos, a testes ou outros meios apropriados, designadamente com vista à detecção de consumo excessivo de bebidas alcoólicas, bem como ao consumo de estupefacientes e substâncias psicotrópicas, nos termos do artigo 10.º do Regime de Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro.\n\n2 - Ao procedimento de detecção do consumo de bebidas alcoólicas, de estupefacientes e substâncias psicotrópicas é aplicável, com as necessárias adaptações, o regulamento da verificação do consumo excessivo de bebidas alcoólicas e do consumo de estupefacientes e de substâncias psicotrópicas pelo pessoal com funções policiais da PSP.\n\n3 - As despesas decorrentes da realização de testes ou exames previstos neste artigo são suportadas pelo Serviço de Assistência na Doença (SAD) da PSP."
+  },
+  "920636938": {
+   "fragment_id": "920668943",
+   "type": 11,
+   "heading": "Artigo 37.º — Abate ao corpo de alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Abate ao corpo de alunos\n\n1 - O abate ao corpo de alunos processa-se de acordo com o regulamento de admissão, frequência, aproveitamento escolar e eliminação do ciclo de estudos integrado de mestrado em Ciências Policiais, aprovado por portaria do membro do Governo responsável pela área da administração interna.\n\n2 - O aluno integrado nas carreiras de pessoal policial da PSP regressa, por despacho do director nacional, à sua situação anterior.\n\n3 - Ao aluno que desista do curso pode ser exigido o pagamento de uma indemnização ao Estado, de forma a cobrir, total ou parcialmente, as despesas efectuadas."
+  },
+  "920636940": {
+   "fragment_id": "920668944",
+   "type": 11,
+   "heading": "Artigo 38.º — Ingresso no mapa de pessoal",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 38.º — Ingresso no mapa de pessoal\n\n1 - Após a conclusão do ciclo de estudos integrado de mestrado em Ciências Policiais, os alunos ingressam na primeira categoria da carreira de oficial de polícia da PSP, nos termos definidos no estatuto do pessoal da PSP.\n\n2 - O ingresso na carreira faz-se por ordem decrescente da classificação final obtida no mestrado em Ciências Policiais.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 93/2009 - Diário da República n.º 232/2009, Série I de 2009-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2009-482621), produz efeitos a partir de 2009-10-03"
+  }
+ }
+}

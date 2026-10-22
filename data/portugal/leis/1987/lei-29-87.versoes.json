@@ -1,0 +1,1609 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:419455:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1987-69738277",
+ "dre_path": "/dr/detalhe/lei/29-1987-419455",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1987-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69738380",
+    "69738381",
+    "69738382",
+    "69738383",
+    "69738384",
+    "69738385",
+    "69738386",
+    "69738387",
+    "69738388",
+    "69738389",
+    "69738390",
+    "69738391",
+    "69738392",
+    "69738393",
+    "69738394",
+    "69738395",
+    "69738396",
+    "69738397",
+    "69738398",
+    "69738399",
+    "69738400",
+    "69738401",
+    "69738402",
+    "69738403",
+    "69738404",
+    "69738405",
+    "69738406"
+   ]
+  },
+  {
+   "date": "1989-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:550392:por",
+     "title": "Lei n.º 97/89",
+     "published": "1989-12-15",
+     "dre_path": "/dr/detalhe/lei/97-1989-550392"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69738380",
+    "69738381",
+    "69738382",
+    "69738383",
+    "69738384",
+    "69738385",
+    "69738386",
+    "69738387",
+    "69738388",
+    "69738389",
+    "69738390",
+    "69738391",
+    "69738392",
+    "69738393",
+    "69738394",
+    "69738395",
+    "69738415",
+    "69738397",
+    "69738398",
+    "69738399",
+    "69738400",
+    "69738401",
+    "69738402",
+    "69738403",
+    "69738404",
+    "69738405",
+    "69738406",
+    "69738408"
+   ]
+  },
+  {
+   "date": "1991-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:694043:por",
+     "title": "Lei n.º 1/91",
+     "published": "1991-01-10",
+     "dre_path": "/dr/detalhe/lei/1-1991-694043"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A"
+   ],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69738380",
+    "69738381",
+    "69738382",
+    "69738383",
+    "69738384",
+    "69738385",
+    "69738386",
+    "69738387",
+    "69738388",
+    "69738389",
+    "69738390",
+    "69738391",
+    "69738392",
+    "69738393",
+    "69738394",
+    "69738395",
+    "69738415",
+    "69740346",
+    "69740347",
+    "69740348",
+    "69740349",
+    "69740350",
+    "69740351",
+    "69740352",
+    "69740353",
+    "69740354",
+    "69740355",
+    "69740356",
+    "69740357"
+   ]
+  },
+  {
+   "date": "1991-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:639483:por",
+     "title": "Lei n.º 11/91",
+     "published": "1991-05-17",
+     "dre_path": "/dr/detalhe/lei/11-1991-639483"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 18.º-B",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69738380",
+    "69738381",
+    "69738382",
+    "69738383",
+    "69738384",
+    "69738385",
+    "69738386",
+    "69738387",
+    "69738388",
+    "69738389",
+    "69738390",
+    "69751705",
+    "69751675",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69751680",
+    "69751681",
+    "69751693",
+    "69751694",
+    "69751695",
+    "69751696",
+    "69751697",
+    "69751698",
+    "69751699",
+    "69751700",
+    "69751701",
+    "69751702",
+    "69751703",
+    "69751704"
+   ]
+  },
+  {
+   "date": "1997-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:404521:por",
+     "title": "Lei n.º 127/97",
+     "published": "1997-12-11",
+     "dre_path": "/dr/detalhe/lei/127-1997-404521"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69738380",
+    "69738381",
+    "69738382",
+    "69751738",
+    "69738384",
+    "69738385",
+    "69738386",
+    "69751706",
+    "69751707",
+    "69738389",
+    "69738390",
+    "69751705",
+    "69751675",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69751680",
+    "69751681",
+    "69751693",
+    "69751694",
+    "69751695",
+    "69751696",
+    "69751697",
+    "69751698",
+    "69751739",
+    "69751700",
+    "69751701",
+    "69751702",
+    "69751703",
+    "69751704"
+   ]
+  },
+  {
+   "date": "1999-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:390240:por",
+     "title": "Lei n.º 50/99",
+     "published": "1999-06-24",
+     "dre_path": "/dr/detalhe/lei/50-1999-390240"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69738380",
+    "69738381",
+    "69738382",
+    "69767587",
+    "69767588",
+    "69738385",
+    "69738386",
+    "69751706",
+    "69751707",
+    "69738389",
+    "69738390",
+    "69751705",
+    "69751675",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69751680",
+    "69751681",
+    "69751693",
+    "69751694",
+    "69751695",
+    "69751696",
+    "69751697",
+    "69751698",
+    "69751739",
+    "69751700",
+    "69751701",
+    "69767589",
+    "69751703",
+    "69751704"
+   ]
+  },
+  {
+   "date": "2001-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522220:por",
+     "title": "Lei n.º 86/2001",
+     "published": "2001-08-10",
+     "dre_path": "/dr/detalhe/lei/86-2001-522220"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-C",
+    "Adita Anexo 18.º-D",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69767619",
+    "69738381",
+    "69738382",
+    "69767587",
+    "69767588",
+    "69738385",
+    "69767620",
+    "69751706",
+    "69767621",
+    "69738389",
+    "69738390",
+    "69751705",
+    "69751675",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69767622",
+    "69751681",
+    "69751693",
+    "69767595",
+    "69767607",
+    "69767608",
+    "69767609",
+    "69767610",
+    "69767611",
+    "69767612",
+    "69767613",
+    "69767614",
+    "69767615",
+    "69767616",
+    "69767617",
+    "69767618"
+   ]
+  },
+  {
+   "date": "2004-06-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485267:por",
+     "title": "Lei n.º 52-A/2005",
+     "published": "2005-10-10",
+     "dre_path": "/dr/detalhe/lei/52-a-2005-485267"
+    },
+    {
+     "id": "pt:dre:273184:por",
+     "title": "Lei n.º 22/2004",
+     "published": "2004-06-17",
+     "dre_path": "/dr/detalhe/lei/22-2004-273184"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69738379",
+    "69767619",
+    "69738381",
+    "69738382",
+    "69767627",
+    "69767588",
+    "69767628",
+    "69767620",
+    "69751706",
+    "69767621",
+    "69738389",
+    "69738390",
+    "69751705",
+    "69751675",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69767622",
+    "69751681",
+    "69751693",
+    "69767595",
+    "69767607",
+    "69767608",
+    "69767609",
+    "69767610",
+    "69767611",
+    "69767612",
+    "69767613",
+    "69767614",
+    "69767615",
+    "69767616",
+    "69767617",
+    "69767618"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:485267:por",
+     "title": "Lei n.º 52-A/2005",
+     "published": "2005-10-10",
+     "dre_path": "/dr/detalhe/lei/52-a-2005-485267",
+     "date": "2005-10-01"
+    }
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197493:por",
+     "title": "Lei n.º 53-F/2006",
+     "published": "2006-12-29",
+     "dre_path": "/dr/detalhe/lei/53-f-2006-197493"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69806311",
+    "69767619",
+    "69767629",
+    "69738382",
+    "69767630",
+    "69767631",
+    "69806312",
+    "69767633",
+    "69751706",
+    "69767621",
+    "69738389",
+    "69738390",
+    "69767634",
+    "69767636",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69767637",
+    "69767638",
+    "69767639",
+    "69767640",
+    "69767641",
+    "69767642",
+    "69767609",
+    "69767610",
+    "69767611",
+    "69767612",
+    "69767635",
+    "69767614",
+    "69767615",
+    "69767643",
+    "69767617",
+    "69767618"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69806311",
+    "69767619",
+    "69767629",
+    "69738382",
+    "131182566",
+    "69767631",
+    "69806312",
+    "69767633",
+    "69751706",
+    "69767621",
+    "69738389",
+    "69738390",
+    "69767634",
+    "69767636",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69767637",
+    "69767638",
+    "69767639",
+    "69767640",
+    "69767641",
+    "69767642",
+    "69767609",
+    "69767610",
+    "69767611",
+    "69767612",
+    "69767635",
+    "69767614",
+    "69767615",
+    "69767643",
+    "69767617",
+    "69767618"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205557192:por",
+     "title": "Lei n.º 24-D/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/lei/24-d-2022-205557192"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69806311",
+    "206249308",
+    "69767629",
+    "69738382",
+    "131182566",
+    "69767631",
+    "69806312",
+    "69767633",
+    "69751706",
+    "69767621",
+    "69738389",
+    "69738390",
+    "69767634",
+    "69767636",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69767637",
+    "69767638",
+    "69767639",
+    "69767640",
+    "69767641",
+    "69767642",
+    "69767609",
+    "69767610",
+    "69767611",
+    "69767612",
+    "69767635",
+    "69767614",
+    "69767615",
+    "69767643",
+    "69767617",
+    "69767618"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "69738378",
+    "69806311",
+    "206249308",
+    "69767629",
+    "69738382",
+    "131182566",
+    "69767631",
+    "69806312",
+    "69767633",
+    "69751706",
+    "838656504",
+    "69738389",
+    "69738390",
+    "69767634",
+    "69767636",
+    "69751676",
+    "69751677",
+    "69751678",
+    "69751679",
+    "69767637",
+    "69767638",
+    "69767639",
+    "69767640",
+    "69767641",
+    "69767642",
+    "69767609",
+    "69767610",
+    "69767611",
+    "69767612",
+    "69767635",
+    "69767614",
+    "69767615",
+    "69767643",
+    "69767617",
+    "69767618"
+   ]
+  }
+ ],
+ "fragments": {
+  "69738378": {
+   "fragment_id": "69738278",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 29/87\n\nde 30 de Junho\n\nESTATUTO DOS ELEITOS LOCAIS\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea g), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "69738379": {
+   "fragment_id": "69738279",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma define o Estatuto dos Eleitos Locais.\n\n2 - Consideram-se eleitos locais, para efeitos da presente lei, os membros dos órgãos deliberativos e executivos dos municípios e das freguesias."
+  },
+  "69738380": {
+   "fragment_id": "69738280",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime do desempenho de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime do desempenho de funções\n\n1 - Desempenham as respectivas funções em regime de permanência os seguintes eleitos locais:\n\na) Presidentes das câmaras municipais;\n\nb) Vereadores, em número e nas condições previstos na lei.\n\n2 - A câmara municipal poderá optar pela existência de vereadores em regime de meio tempo, correspondendo dois vereadores em regime de meio tempo a um vereador em regime de permanência.\n\n3 - Os membros de órgãos executivos que não exerçam as respectivas funções em regime de permanência ou de meio tempo serão dispensados das suas actividades profissionais, mediante aviso antecipado à entidade empregadora, para o exercício de actividades no respectivo órgão, nas seguintes condições:\n\na) Nos municípios: os vereadores, até 32 horas mensais cada um;\n\nb) Nas freguesias de 20000 ou mais eleitores: o presidente da junta, até 32 horas mensais, e dois membros, até 24 horas;\n\nc) Nas freguesias com mais de 5000 e até 20000 eleitores: o presidente da junta, até 32 horas mensais, e dois membros, até 16 horas;\n\nd) Nas restantes freguesias: o presidente da junta, até 32 horas, e um membro, até 16 horas.\n\n4 - Os membros dos órgãos deliberativos e consultivos são dispensados das suas funções profissionais, mediante aviso antecipado à entidade empregadora, quando o exija a sua participação em actos relacionados com as suas funções de eleitos, designadamente em reuniões dos órgãos e comissões a que pertencem ou em actos oficiais a que devem comparecer.\n\n5 - As entidades empregadoras dos eleitos locais referidos nos n.os 2, 3 e 4 do presente artigo têm direito à compensação dos encargos resultantes das dispensas.\n\n6 - Todas as entidades públicas e privadas estão sujeitas ao dever geral de cooperação para com os eleitos locais no exercício das suas funções."
+  },
+  "69738381": {
+   "fragment_id": "69738281",
+   "type": 11,
+   "heading": "Artigo 3.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Incompatibilidades\n\n1 - Sem prejuízo do disposto em legislação especial, as funções desempenhadas pelos eleitos locais em regime de permanência são incompatíveis com a actividade de agente ou funcionário da administração central, regional ou local ou com o exercício da actividade de pessoa colectiva de direito público ou trabalhador de empresa pública ou nacionalizada.\n\n2 - Sem prejuízo do disposto no n.º 1, não perdem o mandato os funcionários da administração central, regional e local que, durante o exercício de permanência, forem colocados, por motivos de admissão ou promoção, nas situações de inelegibilidade previstas na alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 701-B/76, de 29 de Setembro."
+  },
+  "69738382": {
+   "fragment_id": "69738282",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Deveres\n\nNo exercício das suas funções, os eleitos locais estão vinculados ao cumprimento dos seguintes princípios:\n\n1) Em matéria de legalidade e direitos dos cidadãos:\n\na) Observar escrupulosamente as normas legais e regulamentares aplicáveis aos actos por si praticados ou pelos órgãos a que pertencem;\n\nb) Cumprir e fazer cumprir as normas constitucionais e legais relativas à defesa dos interesses e direitos dos cidadãos no âmbito das suas competências;\n\nc) Actuar com justiça e imparcialidade.\n\n2) Em matéria de prossecução do interesse público:\n\na) Salvaguardar e defender os interesses públicos do Estado e da respectiva autarquia;\n\nb) Respeitar o fim público dos poderes em que se encontram investidos;\n\nc) Não patrocinar interesses particulares, próprios ou de terceiros, de qualquer natureza, quer no exercício das suas funções, quer invocando a qualidade de membro de órgão autárquico;\n\nd) Não intervir em processo administrativo, acto ou contrato de direito público ou privado, nem participar na apresentação, discussão ou votação de assuntos em que tenha interesse ou intervenção, por si ou como representante ou gestor de negócios de outra pessoa, ou em que tenha interesse ou intervenção em idênticas qualidades o seu cônjuge, parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer pessoa com quem viva em economia comum;\n\ne) Não celebrar com a autarquia qualquer contrato, salvo de adesão;\n\nf) Não usar, para fins de interesse próprio ou de terceiros, informações a que tenha acesso no exercício das suas funções.\n\n3) Em matéria de funcionamento dos órgãos de que sejam titulares:\n\na) Participar nas reuniões ordinárias e extraordinárias dos órgãos autárquicos;\n\nb) Participar em todos os organismos onde estão em representação do município ou da freguesia."
+  },
+  "69738383": {
+   "fragment_id": "69738283",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos\n\n1 - Os eleitos locais têm direito, nos termos definidos nas alíneas seguintes:\n\na) A uma remuneração ou compensação mensal;\n\nb) A dois subsídios extraordinários anuais;\n\nc) A senhas de presença;\n\nd) A ajudas de custo e subsídio de transporte;\n\ne) À segurança social;\n\nf) A férias;\n\ng) A livre circulação em lugares públicos de acesso condicionado, quando em exercício das respectivas funções;\n\nh) A passaporte especial, quando em representação da autarquia;\n\ni) A cartão especial de identificação;\n\nj) A viatura municipal, quando em serviço da autarquia;\n\nl) A protecção em caso de acidente;\n\nm) A contagem de tempo de serviço;\n\nn) A subsídio de reintegração;\n\no) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;\n\np) À protecção conferida pela lei penal aos titulares de cargos públicos;\n\nq) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;\n\nr) A uso e porte de arma de defesa.\n\n2 - Os direitos referidos nas alíneas a), b), e), f), m), n) e r) do número anterior apenas são concedidos aos eleitos locais em regime de permanência.\n\n3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais."
+  },
+  "69738384": {
+   "fragment_id": "69738284",
+   "type": 11,
+   "heading": "Artigo 6.º — Remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Remunerações dos eleitos locais em regime de permanência\n\n1 - Os eleitos locais em regime de permanência têm direito a remuneração mensal, bem como a dois subsídios extraordinários, de montante igual àquela, em Junho e Novembro.\n\n2 - O valor base das remunerações dos presidentes das câmaras municipais é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os índices seguintes, arredondado para a centena de escudos imediatamente superior:\n\na) Municípios de Lisboa e Porto - 55%;\n\nb) Municípios com 40000 ou mais eleitores - 50%;\n\nc) Municípios com mais de 10000 e menos de 40000 eleitores - 45%;\n\nd) Restantes municípios - 40%.\n\n3 - As remunerações e subsídios extraordinários dos vereadores em regime de permanência correspondem a 80% do montante do valor base da remuneração a que tenham direito os presidentes dos respectivos órgãos."
+  },
+  "69738385": {
+   "fragment_id": "69738285",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência\n\n1 - As remunerações fixadas no artigo anterior são atribuídas do seguinte modo:\n\na) Aqueles que exerçam exclusivamente as suas funções autárquicas recebem a totalidade das remunerações previstas nos n.os 2 e 3 do artigo anterior;\n\nb) Aqueles que exerçam uma profissão liberal, quando o respectivo estatuto profissional permitir a acumulação, ou qualquer actividade privada perceberão 50% do valor da base da remuneração, sem prejuízo da totalidade das regalias sociais a que tenham direito.\n\n2 - Para determinação do montante da remuneração, sempre que ocorra a opção legalmente prevista, são considerados os vencimentos, diuturnidades, subsídios, prémios, emolumentos, gratificações e outros abonos, desde que sejam permanentes, de quantitativo certo e atribuídos genericamente aos trabalhadores da categoria optante.\n\n3 - Os presidentes de câmaras municipais e os vereadores em regime de permanência que não optem pelo exclusivo exercício das suas funções terão de assegurar a resolução dos assuntos da sua competência no decurso do período de expediente público."
+  },
+  "69738386": {
+   "fragment_id": "69738286",
+   "type": 11,
+   "heading": "Artigo 8.º — Remunerações dos vereadores em regime de meio tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Remunerações dos vereadores em regime de meio tempo\n\nOs vereadores em regime de meio tempo têm direito a metade das remunerações e subsídios fixados no n.º 3 do artigo 6.º"
+  },
+  "69738387": {
+   "fragment_id": "69738287",
+   "type": 11,
+   "heading": "Artigo 9.º — Abonos aos titulares das juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Abonos aos titulares das juntas de freguesia\n\n1 - Os presidentes das juntas de freguesia têm direito a uma compensação mensal para encargos, fixada por referência às remunerações atribuídas aos presidentes das câmaras municipais dos municípios com menos de 10000 eleitores, de acordo com os índices seguintes:\n\na) Freguesias com 20000 ou mais eleitores - 12%;\n\nb) Freguesias com mais de 5000 e menos de 20000 eleitores - 10%;\n\nc) Restantes freguesias - 8%.\n\n2 - Os tesoureiros e os secretários das juntas de freguesia têm direito a idêntica compensação no montante de 80% da atribuída ao presidente do respectivo órgão."
+  },
+  "69738388": {
+   "fragment_id": "69738288",
+   "type": 11,
+   "heading": "Artigo 10.º — Senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Senhas de presença\n\n1 - Os eleitos locais que não se encontrem em regime de permanência ou de meio tempo têm direito a uma senha de presença por cada reunião ordinária ou extraordinária do respectivo órgão e das comissões a que compareçam.\n\n2 - O quantitativo de cada senha de presença é fixado em 2% para os vereadores e 1% para os membros da assembleia municipal e comissões do valor base da remuneração do presidente da câmara municipal.\n\n3 - Os vogais das juntas de freguesia que não sejam tesoureiros ou secretários e os membros da assembleia de freguesia têm direito a uma senha de presença por cada reunião ordinária ou extraordinária, respectivamente, de 7% e 5% da compensação mensal atribuída ao presidente da junta de freguesia a que pertençam."
+  },
+  "69738389": {
+   "fragment_id": "69738289",
+   "type": 11,
+   "heading": "Artigo 11.º — Ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Ajudas de custo\n\n1 - Os membros das câmaras municipais e das assembleias municipais têm direito a ajudas de custo a abonar nos termos e no quantitativo fixado para a letra A da escala geral do funcionalismo público quando se desloquem, por motivo de serviço, para fora da área do município.\n\n2 - Os vereadores em regime de não permanência e os membros da assembleia municipal têm direito a ajudas de custo quando se desloquem do seu domicílio para assistir às reuniões ordinárias e extraordinárias e das comissões dos respectivos órgãos."
+  },
+  "69738390": {
+   "fragment_id": "69738290",
+   "type": 11,
+   "heading": "Artigo 12.º — Subsídio de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Subsídio de transporte\n\n1 - Os membros das câmaras municipais e das assembleias municipais têm direito ao subsídio de transporte, nos termos e segundo a tabela em vigor para a função pública, quando se desloquem por motivo de serviço e não utilizem viaturas municipais.\n\n2 - Os vereadores em regime de não permanência e os membros da assembleia municipal têm direito a subsídio de transporte quando se desloquem do seu domicílio para assistirem às reuniões ordinárias e extraordinárias e das comissões dos respectivos órgãos."
+  },
+  "69738391": {
+   "fragment_id": "69738291",
+   "type": 11,
+   "heading": "Artigo 13.º — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Segurança social\n\n1 - Aos eleitos locais em regime de permanência é aplicável o regime de segurança social mais favorável para o funcionalismo público, se não optarem pelo regime da sua actividade profissional.\n\n2 - Sempre que ocorra a opção prevista no número anterior, compete às respectivas câmaras municipais satisfazer os encargos que seriam da entidade patronal.\n\n3 - Sempre que o eleito opte pelo regime da Caixa Geral de Aposentações deverão, se for caso disso, ser efectuadas as transferências das reservas de outras instituições de previdência para onde hajam sido efectuados descontos."
+  },
+  "69738392": {
+   "fragment_id": "69738292",
+   "type": 11,
+   "heading": "Artigo 14.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Férias\n\nOs eleitos locais em regime de permanência ou de meio tempo têm direito a 30 dias de férias anuais."
+  },
+  "69738393": {
+   "fragment_id": "69738293",
+   "type": 11,
+   "heading": "Artigo 15.º — Livre trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Livre trânsito\n\nOs eleitos locais têm direito à livre circulação em lugares públicos de acesso condicionado na área da sua autarquia, quando necessária ao efectivo exercício das respectivas funções autárquicas ou por causa delas, mediante a apresentação do cartão de identificação a que se refere o artigo seguinte."
+  },
+  "69738394": {
+   "fragment_id": "69738294",
+   "type": 11,
+   "heading": "Artigo 16.º — Cartão especial de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cartão especial de identificação\n\n1 - Os eleitos locais têm direito a cartão especial de identificação, de modelo a aprovar por diploma do Ministério do Plano e da Administração do Território no prazo de 60 dias a contar da publicação da presente lei.\n\n2 - O cartão especial de identificação será emitido pelo presidente da assembleia municipal para os órgãos deliberativos e pelo presidente da câmara municipal para os órgãos executivos."
+  },
+  "69738395": {
+   "fragment_id": "69738295",
+   "type": 11,
+   "heading": "Artigo 17.º — Seguro de acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seguro de acidentes\n\n1 - Os membros de órgãos autárquicos têm direito a um seguro de acidentes pessoais mediante deliberação do respectivo órgão, que fixará o seu valor.\n\n2 - Para os membros dos órgãos executivos em regime de permanência o valor do seguro não pode ser inferior a 50 vezes a respectiva remuneração mensal."
+  },
+  "69738396": {
+   "fragment_id": "69738296",
+   "type": 11,
+   "heading": "Artigo 18.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contagem de tempo de serviço\n\n1 - O tempo de serviço prestado pelos eleitos locais em regime de permanência é contado a dobrar, como se tivesse sido prestado nos quadros do Estado ou entidade patronal, até ao limite máximo de vinte anos, desde que sejam cumpridos seis anos seguidos ou interpolados no exercício das respectivas funções.\n\n2 - Os eleitos que beneficiem do regime do número anterior têm de fazer, junto da entidade competente, os descontos correspondentes, de acordo com as normas e modalidades previstas no regime adequado."
+  },
+  "69738397": {
+   "fragment_id": "69738297",
+   "type": 11,
+   "heading": "Artigo 19.º — Subsídio de reintegração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Subsídio de reintegração\n\n1 - Aos eleitos locais em regime de permanência e exclusividade é atribuído, no termo do mandato, um subsídio de reintegração, caso não beneficiem do regime constante no artigo 18.º\n\n2 - O subsídio referido no número anterior é equivalente ao valor de um mês por cada semestre de exercício efectivo de funções, até ao limite de onze meses.\n\n3 - Os beneficiários do subsídio de reintegração que assumam qualquer das funções previstas nas alíneas previstas no n.º 2 do artigo 26.º da Lei n.º 4/85, de 9 de Abril, antes de decorrido o dobro do período de reintegração devem devolver metade dos subsídios que tiverem percebido entre a cessação das anteriores e o início das novas funções."
+  },
+  "69738398": {
+   "fragment_id": "69738298",
+   "type": 11,
+   "heading": "Artigo 20.º — Protecção penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção penal\n\nOs eleitos locais gozam da protecção conferida aos titulares dos cargos públicos pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 65/84, de 24 de Fevereiro."
+  },
+  "69738399": {
+   "fragment_id": "69738299",
+   "type": 11,
+   "heading": "Artigo 21.º — Apoio em processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apoio em processos judiciais\n\nConstituem encargos a suportar pelas autarquias respectivas as despesas provenientes de processos judiciais em que os eleitos locais sejam parte, desde que tais processos tenham tido como causa o exercício das respectivas funções e não se prove dolo ou negligência por parte dos eleitos."
+  },
+  "69738400": {
+   "fragment_id": "69738300",
+   "type": 11,
+   "heading": "Artigo 22.º — Garantia dos direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Garantia dos direitos adquiridos\n\n1 - Os eleitos locais não podem ser prejudicados na respectiva colocação ou emprego permanente por virtude do desempenho dos seus mandatos.\n\n2 - Os funcionários e agentes do Estado, de quaisquer pessoas colectivas de direito público e de empresas públicas ou nacionalizadas que exerçam as funções de presidente de câmara municipal ou de vereador em regime de permanência ou de meio tempo consideram-se em comissão extraordinária de serviço público.\n\n3 - Durante o exercício do respectivo mandato não podem os eleitos locais ser prejudicados no que respeita a promoções, concursos, regalias, gratificações, benefícios sociais ou qualquer outro direito adquirido de carácter não pecuniário.\n\n4 - O tempo de serviço prestado nas condições previstas na presente lei é contado como se tivesse sido prestado à entidade empregadora, salvo, no que respeita a remunerações, aquele que seja prestado por presidentes de câmara municipal e vereadores em regime de permanência ou de meio tempo."
+  },
+  "69738401": {
+   "fragment_id": "69738301",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime fiscal\n\nAs remunerações, compensações e quaisquer subsídios percebidos pelos eleitos locais no exercício das suas funções estão sujeitos ao regime fiscal aplicável aos titulares dos cargos políticos."
+  },
+  "69738402": {
+   "fragment_id": "69738302",
+   "type": 11,
+   "heading": "Artigo 24.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Encargos\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local, salvo o disposto no artigo 18.º\n\n2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.\n\n3 - A suspensão do exercício dos mandatos dos eleitos locais faz cessar o processamento das remunerações e compensações, salvo quando aquela se fundamente em doença devidamente comprovada."
+  },
+  "69738403": {
+   "fragment_id": "69738303",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissões administrativas\n\nAs normas da presente lei aplicam-se aos membros das comissões administrativas nomeadas na sequência de dissolução de órgãos autárquicos."
+  },
+  "69738404": {
+   "fragment_id": "69738304",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\n1 - São revogadas as Leis n.os 9/81, de 26 de Junho, salvo o n.º 2 do artigo 3.º, e 7/87, de 28 de Janeiro.\n\n2 - O n.º 2 do artigo 3.º da Lei n.º 9/81, de 26 de Junho, fica revogado com a realização das próximas eleições gerais autárquicas."
+  },
+  "69738405": {
+   "fragment_id": "69738305",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n1 - O direito previsto no artigo 19.º aplica-se aos eleitos locais que cessem o mandato após a entrada em vigor na presente lei.\n\n2 - O disposto no artigo 18.º aplica-se retroactivamente a todos os eleitos locais."
+  },
+  "69738406": {
+   "fragment_id": "69738306",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "69738415": {
+   "fragment_id": "69738296",
+   "type": 11,
+   "heading": "Artigo 18.º — Contagem de tempo de serviço e reforma antecipada",
+   "in_force_from": "1989-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+   ],
+   "markdown": "###### Artigo 18.º — Contagem de tempo de serviço e reforma antecipada\n\n1 - O tempo de serviço prestado pelos eleitos locais em regime de permanência é contado a dobrar, como se tivesse sido prestado nos quadros do Estado ou entidade patronal, até ao limite máximo de vinte anos, desde que sejam cumpridos seis anos seguidos ou interpolados no exercício das respectivas funções.\n\n2 - Sem prejuízo do disposto no número anterior, todo o tempo de serviço efectivamente prestado para além do período de tempo de 10 anos será contado em singelo para efeitos de reforma ou de aposentação.\n\n3 - Os eleitos que beneficiem do regime dos números anteriores têm de fazer, junto da entidade competente, os descontos correspondentes, de acordo com as normas e modalidades previstas no regime adequado.\n\n4 - Os eleitos locais que exerceram as suas funções em regime de permanência poderão, por sua iniciativa e independentemente de submissão a junta médica, requerer a aposentação ou reforma desde que tenham cumprido, no mínimo, seis anos seguidos ou interpolados no desempenho daquelas funções e que, em acumulação com o exercício das respectivas actividades profissionais, se encontrem numa das seguintes condições:\n\na) Contem mais de 60 anos de idade e 20 anos de serviço;\n\nb) Reúnam 30 anos de serviço, independentemente da respectiva idade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+  },
+  "69738408": {
+   "fragment_id": "69738307",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de Abril de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 29 de Maio de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 2 de Junho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "69740346": {
+   "fragment_id": "69740438",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Suspensão da reforma antecipada",
+   "in_force_from": "1991-01-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 1/91 - Diário da República n.º 8/1991, Série I-A de 1991-01-10](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), em vigor a partir de 1991-01-11"
+   ],
+   "markdown": "###### Artigo 18.º-A — Suspensão da reforma antecipada\n\n1 - A pensão de reforma antecipada é suspensa quando o respectivo titular reassumir função ou cargo de idêntica natureza ao que esteve na base da sua atribuição.\n\n2 - A pensão de reforma antecipada é igualmente suspensa se o respectivo titular assumir um dos seguintes cargos:\n\na) Presidente da República;\n\nb) Primeiro-Ministro e membro do Governo;\n\nc) Deputado;\n\nd) Juiz do Tribunal Constitucional;\n\ne) Provedor de Justiça;\n\nf) Ministro da República para as Regiões Autónomas;\n\ng) Governador e Secretário Adjunto do Governador de Macau;\n\nh) Governador e vice-governador civil;\n\ni) Membro dos órgãos de governo próprio das regiões autónomas;\n\nj) Membro executivo do Conselho Económico e Social;\n\nl) Alto-comissário contra a Corrupção;\n\nm) Membro da Alta Autoridade para a Comunicação Social;\n\nn) Director-geral e subdirector-geral ou equiparados;\n\no) Governador e vice-governador do Banco de Portugal;\n\np) Embaixador;\n\nq) Presidente de instituto público autónomo, de empresa pública ou de sociedade anónima de capitais exclusivamente públicos;\n\nr) Gestor público, membro do conselho de administração de sociedade anónima de capitais exclusivamente públicos e vogal da direcção de instituto público autónomo, desde que exerçam funções executivas.\n\n3 - Os eleitos locais beneficiários do regime de aposentação antecipada, logo que reassumam quaisquer das funções ou cargos previstos nos n.os 1 e 2 do presente artigo, devem comunicar o facto à entidade processadora da respectiva pensão.\n\n4 - A pensão provisória será processada pela entidade onde eram exercidas funções à data da aposentação, desde que se trate de subscritores da Caixa Geral de Aposentações.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 1/91 - Diário da República n.º 8/1991, Série I-A de 1991-01-10](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), em vigor a partir de 1991-01-11"
+  },
+  "69740347": {
+   "fragment_id": "69738297",
+   "type": 11,
+   "heading": "Artigo 19.º — Subsídio de reintegração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Subsídio de reintegração\n\n1 - Aos eleitos locais em regime de permanência e exclusividade é atribuído, no termo do mandato, um subsídio de reintegração, caso não beneficiem do regime constante no artigo 18.º\n\n2 - O subsídio referido no número anterior é equivalente ao valor de um mês por cada semestre de exercício efectivo de funções, até ao limite de onze meses.\n\n3 - Os beneficiários do subsídio de reintegração que assumam qualquer das funções previstas nas alíneas previstas no n.º 2 do artigo 26.º da Lei n.º 4/85, de 9 de Abril, antes de decorrido o dobro do período de reintegração devem devolver metade dos subsídios que tiverem percebido entre a cessação das anteriores e o início das novas funções."
+  },
+  "69740348": {
+   "fragment_id": "69738298",
+   "type": 11,
+   "heading": "Artigo 20.º — Protecção penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção penal\n\nOs eleitos locais gozam da protecção conferida aos titulares dos cargos públicos pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 65/84, de 24 de Fevereiro."
+  },
+  "69740349": {
+   "fragment_id": "69738299",
+   "type": 11,
+   "heading": "Artigo 21.º — Apoio em processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apoio em processos judiciais\n\nConstituem encargos a suportar pelas autarquias respectivas as despesas provenientes de processos judiciais em que os eleitos locais sejam parte, desde que tais processos tenham tido como causa o exercício das respectivas funções e não se prove dolo ou negligência por parte dos eleitos."
+  },
+  "69740350": {
+   "fragment_id": "69738300",
+   "type": 11,
+   "heading": "Artigo 22.º — Garantia dos direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Garantia dos direitos adquiridos\n\n1 - Os eleitos locais não podem ser prejudicados na respectiva colocação ou emprego permanente por virtude do desempenho dos seus mandatos.\n\n2 - Os funcionários e agentes do Estado, de quaisquer pessoas colectivas de direito público e de empresas públicas ou nacionalizadas que exerçam as funções de presidente de câmara municipal ou de vereador em regime de permanência ou de meio tempo consideram-se em comissão extraordinária de serviço público.\n\n3 - Durante o exercício do respectivo mandato não podem os eleitos locais ser prejudicados no que respeita a promoções, concursos, regalias, gratificações, benefícios sociais ou qualquer outro direito adquirido de carácter não pecuniário.\n\n4 - O tempo de serviço prestado nas condições previstas na presente lei é contado como se tivesse sido prestado à entidade empregadora, salvo, no que respeita a remunerações, aquele que seja prestado por presidentes de câmara municipal e vereadores em regime de permanência ou de meio tempo."
+  },
+  "69740351": {
+   "fragment_id": "69738301",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime fiscal\n\nAs remunerações, compensações e quaisquer subsídios percebidos pelos eleitos locais no exercício das suas funções estão sujeitos ao regime fiscal aplicável aos titulares dos cargos políticos."
+  },
+  "69740352": {
+   "fragment_id": "69738302",
+   "type": 11,
+   "heading": "Artigo 24.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Encargos\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local, salvo o disposto no artigo 18.º\n\n2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.\n\n3 - A suspensão do exercício dos mandatos dos eleitos locais faz cessar o processamento das remunerações e compensações, salvo quando aquela se fundamente em doença devidamente comprovada."
+  },
+  "69740353": {
+   "fragment_id": "69738303",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissões administrativas\n\nAs normas da presente lei aplicam-se aos membros das comissões administrativas nomeadas na sequência de dissolução de órgãos autárquicos."
+  },
+  "69740354": {
+   "fragment_id": "69738304",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\n1 - São revogadas as Leis n.os 9/81, de 26 de Junho, salvo o n.º 2 do artigo 3.º, e 7/87, de 28 de Janeiro.\n\n2 - O n.º 2 do artigo 3.º da Lei n.º 9/81, de 26 de Junho, fica revogado com a realização das próximas eleições gerais autárquicas."
+  },
+  "69740355": {
+   "fragment_id": "69738305",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n1 - O direito previsto no artigo 19.º aplica-se aos eleitos locais que cessem o mandato após a entrada em vigor na presente lei.\n\n2 - O disposto no artigo 18.º aplica-se retroactivamente a todos os eleitos locais."
+  },
+  "69740356": {
+   "fragment_id": "69738306",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "69740357": {
+   "fragment_id": "69738307",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de Abril de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 29 de Maio de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 2 de Junho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "69751705": {
+   "fragment_id": "69738291",
+   "type": 11,
+   "heading": "Artigo 13.º — Segurança Social",
+   "in_force_from": "1991-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+   ],
+   "markdown": "###### Artigo 13.º — Segurança Social\n\n1 - Aos eleitos locais em regime de permanência é aplicável o regime de segurança social mais favorável para o funcionalismo público, se não optarem pelo regime da sua actividade profissional.\n\n2 - Sempre que ocorra a opção prevista no número anterior, compete às respectivas câmaras municipais satisfazer os encargos que seriam da entidade patronal.\n\n3 - Sempre que o eleito local opte pelo regime da Caixa Geral de Aposentações, deverão, se for caso disso, ser efectuadas as respectivas transferências de valores de outras instituições de previdência ou de segurança social para onde hajam sido pagas as correspondentes contribuições.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+  },
+  "69751675": {
+   "fragment_id": "69736221",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Exercício do direito de opção",
+   "in_force_from": "1991-05-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+   ],
+   "markdown": "###### Artigo 13.º-A — Exercício do direito de opção\n\n1 - Os eleitos locais podem exercer o direito de opção a que se refere o n.º 1 do artigo anterior no prazo de 90 dias a contar do início da respectiva actividade.\n\n2 - Em caso de opção pelo regime de protecção social da função pública, a transferência dos valores relativos aos períodos contributivos registados no âmbito do sistema de segurança social pela actividade de eleito local é feita pelos centros regionais de segurança social, de acordo com os números seguintes.\n\n3 - No prazo de 30 dias a contar da data da opção prevista no número anterior, ou da data da entrada em vigor deste diploma, quando a opção já tenha sido feita, as câmaras municipais devem requerer ao respectivo centro regional de segurança social a transferência das contribuições pagas, em função dos eleitos locais, correspondentes às eventualidades de invalidez, velhice e morte.\n\n4 - A referida transferência será efectuada no prazo de 90 dias, findo o qual as câmaras municipais dispõem do prazo de 30 dias para remeterem as respectivas quantias à Caixa Nacional de Previdência.\n\n5 - Os valores a transferir pelos centros regionais são os que resultarem da aplicação das taxas das quotizações para a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado aos montantes das remunerações registadas na Segurança Social pela actividade de eleito local.\n\n6 - As taxas a que se refere o número anterior são as vigentes à data do pedido de transferência e compreendem, quer as da responsabilidade do subscritor, quer, a partir de 1 de Janeiro de 1989, as da responsabilidade das autarquias locais, nos termos do artigo 56.º da Lei n.º 114/88, de 30 de Dezembro.\n\n7 - A transferência de valores a que se referem os números anteriores determina a alteração dos correspondentes registos nas instituições de segurança social.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+  },
+  "69751676": {
+   "fragment_id": "69738292",
+   "type": 11,
+   "heading": "Artigo 14.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Férias\n\nOs eleitos locais em regime de permanência ou de meio tempo têm direito a 30 dias de férias anuais."
+  },
+  "69751677": {
+   "fragment_id": "69738293",
+   "type": 11,
+   "heading": "Artigo 15.º — Livre trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Livre trânsito\n\nOs eleitos locais têm direito à livre circulação em lugares públicos de acesso condicionado na área da sua autarquia, quando necessária ao efectivo exercício das respectivas funções autárquicas ou por causa delas, mediante a apresentação do cartão de identificação a que se refere o artigo seguinte."
+  },
+  "69751678": {
+   "fragment_id": "69738294",
+   "type": 11,
+   "heading": "Artigo 16.º — Cartão especial de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cartão especial de identificação\n\n1 - Os eleitos locais têm direito a cartão especial de identificação, de modelo a aprovar por diploma do Ministério do Plano e da Administração do Território no prazo de 60 dias a contar da publicação da presente lei.\n\n2 - O cartão especial de identificação será emitido pelo presidente da assembleia municipal para os órgãos deliberativos e pelo presidente da câmara municipal para os órgãos executivos."
+  },
+  "69751679": {
+   "fragment_id": "69738295",
+   "type": 11,
+   "heading": "Artigo 17.º — Seguro de acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seguro de acidentes\n\n1 - Os membros de órgãos autárquicos têm direito a um seguro de acidentes pessoais mediante deliberação do respectivo órgão, que fixará o seu valor.\n\n2 - Para os membros dos órgãos executivos em regime de permanência o valor do seguro não pode ser inferior a 50 vezes a respectiva remuneração mensal."
+  },
+  "69751680": {
+   "fragment_id": "69738296",
+   "type": 11,
+   "heading": "Artigo 18.º — Contagem de tempo de serviço e reforma antecipada",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+   ],
+   "markdown": "###### Artigo 18.º — Contagem de tempo de serviço e reforma antecipada\n\n1 - O tempo de serviço prestado pelos eleitos locais em regime de permanência é contado a dobrar, como se tivesse sido prestado nos quadros do Estado ou entidade patronal, até ao limite máximo de vinte anos, desde que sejam cumpridos seis anos seguidos ou interpolados no exercício das respectivas funções.\n\n2 - Sem prejuízo do disposto no número anterior, todo o tempo de serviço efectivamente prestado para além do período de tempo de 10 anos será contado em singelo para efeitos de reforma ou de aposentação.\n\n3 - Os eleitos que beneficiem do regime dos números anteriores têm de fazer, junto da entidade competente, os descontos correspondentes, de acordo com as normas e modalidades previstas no regime adequado.\n\n4 - Os eleitos locais que exerceram as suas funções em regime de permanência poderão, por sua iniciativa e independentemente de submissão a junta médica, requerer a aposentação ou reforma desde que tenham cumprido, no mínimo, seis anos seguidos ou interpolados no desempenho daquelas funções e que, em acumulação com o exercício das respectivas actividades profissionais, se encontrem numa das seguintes condições:\n\na) Contem mais de 60 anos de idade e 20 anos de serviço;\n\nb) Reúnam 30 anos de serviço, independentemente da respectiva idade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+  },
+  "69751681": {
+   "fragment_id": "69740438",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Suspensão da reforma antecipada",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 1/91 - Diário da República n.º 8/1991, Série I-A de 1991-01-10](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), em vigor a partir de 1991-01-11"
+   ],
+   "markdown": "###### Artigo 18.º-A — Suspensão da reforma antecipada\n\n1 - A pensão de reforma antecipada é suspensa quando o respectivo titular reassumir função ou cargo de idêntica natureza ao que esteve na base da sua atribuição.\n\n2 - A pensão de reforma antecipada é igualmente suspensa se o respectivo titular assumir um dos seguintes cargos:\n\na) Presidente da República;\n\nb) Primeiro-Ministro e membro do Governo;\n\nc) Deputado;\n\nd) Juiz do Tribunal Constitucional;\n\ne) Provedor de Justiça;\n\nf) Ministro da República para as Regiões Autónomas;\n\ng) Governador e Secretário Adjunto do Governador de Macau;\n\nh) Governador e vice-governador civil;\n\ni) Membro dos órgãos de governo próprio das regiões autónomas;\n\nj) Membro executivo do Conselho Económico e Social;\n\nl) Alto-comissário contra a Corrupção;\n\nm) Membro da Alta Autoridade para a Comunicação Social;\n\nn) Director-geral e subdirector-geral ou equiparados;\n\no) Governador e vice-governador do Banco de Portugal;\n\np) Embaixador;\n\nq) Presidente de instituto público autónomo, de empresa pública ou de sociedade anónima de capitais exclusivamente públicos;\n\nr) Gestor público, membro do conselho de administração de sociedade anónima de capitais exclusivamente públicos e vogal da direcção de instituto público autónomo, desde que exerçam funções executivas.\n\n3 - Os eleitos locais beneficiários do regime de aposentação antecipada, logo que reassumam quaisquer das funções ou cargos previstos nos n.os 1 e 2 do presente artigo, devem comunicar o facto à entidade processadora da respectiva pensão.\n\n4 - A pensão provisória será processada pela entidade onde eram exercidas funções à data da aposentação, desde que se trate de subscritores da Caixa Geral de Aposentações.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 1/91 - Diário da República n.º 8/1991, Série I-A de 1991-01-10](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), em vigor a partir de 1991-01-11"
+  },
+  "69751693": {
+   "fragment_id": "69736222",
+   "type": 11,
+   "heading": "Artigo 18.º-B — Termos da bonificação do tempo de serviço",
+   "in_force_from": "1991-05-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+   ],
+   "markdown": "###### Artigo 18.º-B — Termos da bonificação do tempo de serviço\n\n1 - Em caso de opção pelo regime geral de segurança social, a bonificação do tempo de serviço previsto no artigo 18.º pressupõe o pagamento das contribuições acrescidas, relativas ao período invocado, correspondentes a períodos de 12 meses civis, seguidos ou interpolados, a cada um dos quais corresponderá um ano bonificado.\n\n2 - As contribuições a que se refere o número anterior são calculadas por aplicação da taxa definida em portaria do Ministro do Emprego e da Segurança Social à remuneração mensal mais elevada registada em cada um dos períodos de 12 meses válidos para a bonificação.\n\n3 - A taxa a estabelecer nos termos do número anterior será igual à parcela das contribuições devidas para o regime geral de segurança social correspondente, em termos actuariais, ao financiamento das pensões de invalidez, velhice e morte.\n\n4 - O requerimento da contagem do período invocado para a bonificação deve ser apresentado, e o correspondente pagamento de contribuições deve estar acordado, até à entrega do requerimento da respectiva pensão de invalidez ou velhice.\n\n5 - No caso de o pagamento das contribuições correspondentes à bonificação se efectuar em prestações, tal facto não impede a passagem do beneficiário à situação de pensionista, se reunir as condições exigidas, mas tal pagamento só produzirá todos os seus efeitos a partir do momento em que se encontre liquidada a totalidade das contribuições referentes ao período de bonificação invocado, circunstância que dá lugar ao recálculo do valor da pensão.\n\n6 - Caso o eleito local tenha falecido sem ter requerido a contagem do período invocado para a bonificação, podem os requerentes das prestações por morte fazê-lo por ocasião da entrega do respectivo requerimento, sem prejuízo do prévio pagamento das contribuições acrescidas a que se referem os números anteriores.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+  },
+  "69751694": {
+   "fragment_id": "69738297",
+   "type": 11,
+   "heading": "Artigo 19.º — Subsídio de reintegração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Subsídio de reintegração\n\n1 - Aos eleitos locais em regime de permanência e exclusividade é atribuído, no termo do mandato, um subsídio de reintegração, caso não beneficiem do regime constante no artigo 18.º\n\n2 - O subsídio referido no número anterior é equivalente ao valor de um mês por cada semestre de exercício efectivo de funções, até ao limite de onze meses.\n\n3 - Os beneficiários do subsídio de reintegração que assumam qualquer das funções previstas nas alíneas previstas no n.º 2 do artigo 26.º da Lei n.º 4/85, de 9 de Abril, antes de decorrido o dobro do período de reintegração devem devolver metade dos subsídios que tiverem percebido entre a cessação das anteriores e o início das novas funções."
+  },
+  "69751695": {
+   "fragment_id": "69738298",
+   "type": 11,
+   "heading": "Artigo 20.º — Protecção penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção penal\n\nOs eleitos locais gozam da protecção conferida aos titulares dos cargos públicos pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 65/84, de 24 de Fevereiro."
+  },
+  "69751696": {
+   "fragment_id": "69738299",
+   "type": 11,
+   "heading": "Artigo 21.º — Apoio em processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apoio em processos judiciais\n\nConstituem encargos a suportar pelas autarquias respectivas as despesas provenientes de processos judiciais em que os eleitos locais sejam parte, desde que tais processos tenham tido como causa o exercício das respectivas funções e não se prove dolo ou negligência por parte dos eleitos."
+  },
+  "69751697": {
+   "fragment_id": "69738300",
+   "type": 11,
+   "heading": "Artigo 22.º — Garantia dos direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Garantia dos direitos adquiridos\n\n1 - Os eleitos locais não podem ser prejudicados na respectiva colocação ou emprego permanente por virtude do desempenho dos seus mandatos.\n\n2 - Os funcionários e agentes do Estado, de quaisquer pessoas colectivas de direito público e de empresas públicas ou nacionalizadas que exerçam as funções de presidente de câmara municipal ou de vereador em regime de permanência ou de meio tempo consideram-se em comissão extraordinária de serviço público.\n\n3 - Durante o exercício do respectivo mandato não podem os eleitos locais ser prejudicados no que respeita a promoções, concursos, regalias, gratificações, benefícios sociais ou qualquer outro direito adquirido de carácter não pecuniário.\n\n4 - O tempo de serviço prestado nas condições previstas na presente lei é contado como se tivesse sido prestado à entidade empregadora, salvo, no que respeita a remunerações, aquele que seja prestado por presidentes de câmara municipal e vereadores em regime de permanência ou de meio tempo."
+  },
+  "69751698": {
+   "fragment_id": "69738301",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime fiscal\n\nAs remunerações, compensações e quaisquer subsídios percebidos pelos eleitos locais no exercício das suas funções estão sujeitos ao regime fiscal aplicável aos titulares dos cargos políticos."
+  },
+  "69751699": {
+   "fragment_id": "69738302",
+   "type": 11,
+   "heading": "Artigo 24.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Encargos\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local, salvo o disposto no artigo 18.º\n\n2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.\n\n3 - A suspensão do exercício dos mandatos dos eleitos locais faz cessar o processamento das remunerações e compensações, salvo quando aquela se fundamente em doença devidamente comprovada."
+  },
+  "69751700": {
+   "fragment_id": "69738303",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissões administrativas\n\nAs normas da presente lei aplicam-se aos membros das comissões administrativas nomeadas na sequência de dissolução de órgãos autárquicos."
+  },
+  "69751701": {
+   "fragment_id": "69738304",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\n1 - São revogadas as Leis n.os 9/81, de 26 de Junho, salvo o n.º 2 do artigo 3.º, e 7/87, de 28 de Janeiro.\n\n2 - O n.º 2 do artigo 3.º da Lei n.º 9/81, de 26 de Junho, fica revogado com a realização das próximas eleições gerais autárquicas."
+  },
+  "69751702": {
+   "fragment_id": "69738305",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n1 - O direito previsto no artigo 19.º aplica-se aos eleitos locais que cessem o mandato após a entrada em vigor na presente lei.\n\n2 - O disposto no artigo 18.º aplica-se retroactivamente a todos os eleitos locais."
+  },
+  "69751703": {
+   "fragment_id": "69738306",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "69751704": {
+   "fragment_id": "69738307",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de Abril de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 29 de Maio de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 2 de Junho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "69751738": {
+   "fragment_id": "69738283",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos",
+   "in_force_from": "1997-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 5.º — Direitos\n\n1 - Os eleitos locais têm direito, nos termos definidos nas alíneas seguintes:\n\na) A uma remuneração ou compensação mensal;\n\nb) A dois subsídios extraordinários anuais;\n\nc) A senhas de presença;\n\nd) A ajudas de custo e subsídio de transporte;\n\ne) À segurança social;\n\nf) A férias;\n\ng) A livre circulação em lugares públicos de acesso condicionado, quando em exercício das respectivas funções;\n\nh) A passaporte especial, quando em representação da autarquia;\n\ni) A cartão especial de identificação;\n\nj) A viatura municipal, quando em serviço da autarquia;\n\nl) A protecção em caso de acidente;\n\nm) A contagem de tempo de serviço;\n\nn) A subsídio de reintegração;\n\no) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;\n\np) À protecção conferida pela lei penal aos titulares de cargos públicos;\n\nq) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;\n\nr) A uso e porte de arma de defesa;\n\ns) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade.\n\n2 - Os direitos referidos nas alíneas a), b), e), f), m), n), r) e s) do número anterior apenas são concedidos aos eleitos locais em regime de permanência.\n\n3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "69751706": {
+   "fragment_id": "69738287",
+   "type": 11,
+   "heading": "Artigo 9.º — Abonos aos titulares das juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+   ],
+   "markdown": "###### Artigo 9.º — Abonos aos titulares das juntas de freguesia\n\n1 - Os presidentes das juntas de freguesia têm direito a uma compensação mensal para encargos, fixada por referência às remunerações atribuídas aos presidentes das câmaras municipais dos municípios com menos de 10000 eleitores, de acordo com os índices seguintes:\n\na) Freguesias com 20000 ou mais eleitores - 12%;\n\nb) Freguesias com mais de 5000 e menos de 20000 eleitores - 10%;\n\nc) Restantes freguesias - 8%.\n\n2 - Os tesoureiros e os secretários das juntas de freguesia têm direito a idêntica compensação no montante de 80% da atribuída ao presidente do respectivo órgão.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+  },
+  "69751707": {
+   "fragment_id": "69738288",
+   "type": 11,
+   "heading": "Artigo 10.º — Senhas de presença",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+   ],
+   "markdown": "###### Artigo 10.º — Senhas de presença\n\n1 - Os eleitos locais que não se encontrem em regime de permanência ou de meio tempo têm direito a uma senha de presença por cada reunião ordinária ou extraordinária do respectivo órgão e das comissões a que compareçam.\n\n2 - O quantitativo de cada senha de presença é fixado em 2% para os vereadores e 1% para os membros da assembleia municipal e comissões do valor base da remuneração do presidente da câmara municipal.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+  },
+  "69751739": {
+   "fragment_id": "69738302",
+   "type": 11,
+   "heading": "Artigo 24.º — Encargos",
+   "in_force_from": "1997-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 24.º — Encargos\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local, salvo o disposto no artigo 18.º\n\n2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.\n\n3 - A suspensão do exercício dos mandatos dos eleitos locais faz cessar o processamento das remunerações e compensações, salvo quando aquela se fundamente em doença devidamente comprovada ou em licença por maternidade ou paternidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "69767587": {
+   "fragment_id": "69738283",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos",
+   "in_force_from": "1999-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 5.º — Direitos\n\n1 - Os eleitos locais têm direito, nos termos definidos nas alíneas seguintes:\n\na) A uma remuneração ou compensação mensal e a despesas de representação;\n\nb) A dois subsídios extraordinários anuais;\n\nc) A senhas de presença;\n\nd) A ajudas de custo e subsídio de transporte;\n\ne) À segurança social;\n\nf) A férias;\n\ng) A livre circulação em lugares públicos de acesso condicionado, quando em exercício das respectivas funções;\n\nh) A passaporte especial, quando em representação da autarquia;\n\ni) A cartão especial de identificação;\n\nj) A viatura municipal, quando em serviço da autarquia;\n\nl) A protecção em caso de acidente;\n\nm) A contagem de tempo de serviço;\n\nn) A subsídio de reintegração;\n\no) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;\n\np) À protecção conferida pela lei penal aos titulares de cargos públicos;\n\nq) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;\n\nr) A uso e porte de arma de defesa;\n\ns) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade.\n\n2 - Os direitos referidos nas alíneas a), b), e), f), m), n), r) e s) do número anterior apenas são concedidos aos eleitos locais em regime de permanência.\n\n3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "69767588": {
+   "fragment_id": "69738284",
+   "type": 11,
+   "heading": "Artigo 6.º — Remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": "1999-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Remunerações dos eleitos locais em regime de permanência\n\n1 - Os eleitos locais em regime de permanência têm direito a remuneração mensal, bem como a dois subsídios extraordinários, de montante igual àquela, em Junho e Novembro.\n\n2 - O valor base das remunerações dos presidentes das câmaras municipais é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os índices seguintes, arredondado para a centena de escudos imediatamente superior:\n\na) Municípios de Lisboa e Porto - 55%;\n\nb) Municípios com 40000 ou mais eleitores - 50%;\n\nc) Municípios com mais de 10000 e menos de 40000 eleitores - 45%;\n\nd) Restantes municípios - 40%.\n\n3 - As remunerações e subsídios extraordinários dos vereadores em regime de permanência correspondem a 80% do montante do valor base da remuneração a que tenham direito os presidentes dos respectivos órgãos.\n\n4 - Os eleitos locais em regime de permanência nas câmaras municipais têm direito às despesas de representação correspondentes a 30% das respectivas remunerações no caso do presidente e 20% para os vereadores, as quais serão pagas 12 vezes por ano.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+  },
+  "69767589": {
+   "fragment_id": "69738305",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": "1999-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+   ],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n1 - O direito previsto no artigo 19.º aplica-se aos eleitos locais que cessem o mandato após a entrada em vigor na presente lei.\n\n2 - O disposto no artigo 18.º aplica-se retroactivamente a todos os eleitos locais.\n\n3 - Para efeitos de direitos e regalias sociais em matéria de segurança social, contagem de tempo de serviço, reforma antecipada e subsídios de reintegração, os eleitos locais que exerçam funções a meio tempo por, simultaneamente, exercerem outras funções remuneradas a meio tempo e em regime de exclusividade nos serviços municipalizados ou em empresa municipal da mesma autarquia são equiparados a eleitos em regime de permanência.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+  },
+  "69767619": {
+   "fragment_id": "69738280",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime do desempenho de funções",
+   "in_force_from": "2001-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "###### Artigo 2.º — Regime do desempenho de funções\n\n1 - Desempenham as respectivas funções em regime de permanência os seguintes eleitos locais:\n\na) Presidentes das câmaras municipais;\n\nb) Vereadores, em número e nas condições previstos na lei;\n\nc) Membros das juntas de freguesia em regime de tempo inteiro.\n\n2 - A câmara municipal poderá optar pela existência de vereadores em regime de meio tempo, correspondendo dois vereadores em regime de meio tempo a um vereador em regime de permanência.\n\n3 - Os membros de órgãos executivos que não exerçam as respectivas funções em regime de permanência ou de meio tempo serão dispensados das suas actividades profissionais, mediante aviso antecipado à entidade empregadora, para o exercício de actividades no respectivo órgão, nas seguintes condições:\n\na) Nos municípios: os vereadores, até 32 horas mensais cada um;\n\nb) Nas freguesias de 20000 ou mais eleitores: o presidente da junta, até 32 horas mensais, e dois membros, até 24 horas;\n\nc) Nas freguesias com mais de 5000 e até 20000 eleitores: o presidente da junta, até 32 horas mensais, e dois membros, até 16 horas;\n\nd) Nas restantes freguesias: o presidente da junta, até 32 horas, e um membro, até 16 horas.\n\n4 - Os membros dos órgãos deliberativos e consultivos são dispensados das suas funções profissionais, mediante aviso antecipado à entidade empregadora, quando o exija a sua participação em actos relacionados com as suas funções de eleitos, designadamente em reuniões dos órgãos e comissões a que pertencem ou em actos oficiais a que devem comparecer.\n\n5 - As entidades empregadoras dos eleitos locais referidos nos n.os 2, 3 e 4 do presente artigo têm direito à compensação dos encargos resultantes das dispensas.\n\n6 - Todas as entidades públicas e privadas estão sujeitas ao dever geral de cooperação para com os eleitos locais no exercício das suas funções.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "69767620": {
+   "fragment_id": "69738286",
+   "type": 11,
+   "heading": "Artigo 8.º — Remunerações dos eleitos locais em regime de meio tempo",
+   "in_force_from": "2001-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "###### Artigo 8.º — Remunerações dos eleitos locais em regime de meio tempo\n\nOs eleitos locais em regime de meio tempo têm direito a metade das remunerações e subsídios fixados para os respectivos cargos em regime de tempo inteiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "69767621": {
+   "fragment_id": "69738288",
+   "type": 11,
+   "heading": "Artigo 10.º — Senhas de presença",
+   "in_force_from": "2001-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11",
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+   ],
+   "markdown": "###### Artigo 10.º — Senhas de presença\n\n1 - Os eleitos locais que não se encontrem em regime de permanência ou de meio tempo têm direito a uma senha de presença por cada reunião ordinária ou extraordinária do respectivo órgão e das comissões a que compareçam e participem.\n\n2 - O quantitativo de cada senha de presença a que se refere o número anterior é fixado em 3%, 2,5% e 2% do valor base da remuneração do presidente da câmara municipal, respectivamente, para o presidente, secretários, restantes membros da assembleia municipal e vereadores.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+  },
+  "69767622": {
+   "fragment_id": "69738296",
+   "type": 11,
+   "heading": "Artigo 18.º — Contagem de tempo de serviço e reforma antecipada",
+   "in_force_from": "2001-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+   ],
+   "markdown": "###### Artigo 18.º — Contagem de tempo de serviço e reforma antecipada\n\n1 - O tempo de serviço prestado pelos eleitos locais em regime de permanência é contado a dobrar, como se tivesse sido prestado nos quadros do Estado ou entidade patronal, até ao limite máximo de vinte anos, desde que sejam cumpridos seis anos seguidos ou interpolados no exercício das respectivas funções.\n\n2 - Sem prejuízo do disposto no número anterior, todo o tempo de serviço efectivamente prestado para além do período de tempo de 10 anos será contado em singelo para efeitos de reforma ou de aposentação.\n\n3 - Os eleitos que beneficiem do regime dos números anteriores têm de fazer, junto da entidade competente, os descontos correspondentes, de acordo com as normas e modalidades previstas no regime adequado.\n\n4 - Os eleitos locais que exerceram as suas funções em regime de permanência poderão, por sua iniciativa e independentemente de submissão a junta médica, requerer a aposentação ou reforma desde que tenham cumprido, no mínimo, seis anos seguidos ou interpolados no desempenho daquelas funções e que, em acumulação com o exercício das respectivas actividades profissionais, se encontrem numa das seguintes condições:\n\na) Contem mais de 60 anos de idade e 20 anos de serviço;\n\nb) Reúnam 30 anos de serviço, independentemente da respectiva idade.\n\n5 - Para efeitos de cumprimento das condições previstas no número anterior, ter-se-á igualmente em conta o exercício de actividades profissionais posteriores à cessação do mandato dos eleitos locais, reportando-se o cálculo da aposentação aos descontos feitos à data do facto determinante da aposentação ou da reforma.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+  },
+  "69767595": {
+   "fragment_id": "69789946",
+   "type": 11,
+   "heading": "Artigo 18.º-C — Aumento para efeitos de aposentação",
+   "in_force_from": "2001-08-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "###### Artigo 18.º-C — Aumento para efeitos de aposentação\n\n1 - Os eleitos locais em regime de meio tempo, bem como os presidentes e vogais das juntas de freguesia em regime de não permanência, subscritores da Caixa Geral de Aposentações com, pelo menos, 8 anos no desempenho dos respectivos cargos, beneficiam, para efeitos de aposentação, até ao limite de 12 anos, de uma majoração de 25% do tempo de serviço prestado nas respectivas funções, quando essa prestação ocorra em simultâneo com o exercício do mandato autárquico.\n\n2 - A majoração a que se refere o número anterior não dispensa os interessados do pagamento, nos termos legais, das correspondentes quotas, as quais serão apuradas em função da remuneração auferida no exercício da sua actividade profissional.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "69767607": {
+   "fragment_id": "69789947",
+   "type": 14,
+   "heading": "Anexo 18.º-D — Bonificação de pensões",
+   "in_force_from": "2001-08-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "## Anexo 18.º-D — Bonificação de pensões\n\n1 - Os eleitos locais em regime de meio tempo, bem como os presidentes e vogais das juntas de freguesia em regime de não permanência, têm direito a uma bonificação da pensão, de quantitativo equivalente ao previsto no artigo anterior, determinado em função de tempo de serviço prestado quando sejam abrangidos pelos regimes contributivos da segurança social, desde que possuam, pelo menos, 8 anos no desempenho dos respectivos cargos e até ao limite de 12 anos.\n\n2 - Os termos e condições necessários para a concretização do benefício referido no número anterior, nomeadamente no que respeita ao pagamento das contribuições correspondentes, são definidos por portaria conjunta dos Ministros do Ambiente e do Ordenamento do Território e do Trabalho e da Solidariedade.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "69767608": {
+   "fragment_id": "69738297",
+   "type": 11,
+   "heading": "Artigo 19.º — Subsídio de reintegração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Subsídio de reintegração\n\n1 - Aos eleitos locais em regime de permanência e exclusividade é atribuído, no termo do mandato, um subsídio de reintegração, caso não beneficiem do regime constante no artigo 18.º\n\n2 - O subsídio referido no número anterior é equivalente ao valor de um mês por cada semestre de exercício efectivo de funções, até ao limite de onze meses.\n\n3 - Os beneficiários do subsídio de reintegração que assumam qualquer das funções previstas nas alíneas previstas no n.º 2 do artigo 26.º da Lei n.º 4/85, de 9 de Abril, antes de decorrido o dobro do período de reintegração devem devolver metade dos subsídios que tiverem percebido entre a cessação das anteriores e o início das novas funções."
+  },
+  "69767609": {
+   "fragment_id": "69738298",
+   "type": 11,
+   "heading": "Artigo 20.º — Protecção penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção penal\n\nOs eleitos locais gozam da protecção conferida aos titulares dos cargos públicos pelo n.º 1 do artigo 1.º do Decreto-Lei n.º 65/84, de 24 de Fevereiro."
+  },
+  "69767610": {
+   "fragment_id": "69738299",
+   "type": 11,
+   "heading": "Artigo 21.º — Apoio em processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apoio em processos judiciais\n\nConstituem encargos a suportar pelas autarquias respectivas as despesas provenientes de processos judiciais em que os eleitos locais sejam parte, desde que tais processos tenham tido como causa o exercício das respectivas funções e não se prove dolo ou negligência por parte dos eleitos."
+  },
+  "69767611": {
+   "fragment_id": "69738300",
+   "type": 11,
+   "heading": "Artigo 22.º — Garantia dos direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Garantia dos direitos adquiridos\n\n1 - Os eleitos locais não podem ser prejudicados na respectiva colocação ou emprego permanente por virtude do desempenho dos seus mandatos.\n\n2 - Os funcionários e agentes do Estado, de quaisquer pessoas colectivas de direito público e de empresas públicas ou nacionalizadas que exerçam as funções de presidente de câmara municipal ou de vereador em regime de permanência ou de meio tempo consideram-se em comissão extraordinária de serviço público.\n\n3 - Durante o exercício do respectivo mandato não podem os eleitos locais ser prejudicados no que respeita a promoções, concursos, regalias, gratificações, benefícios sociais ou qualquer outro direito adquirido de carácter não pecuniário.\n\n4 - O tempo de serviço prestado nas condições previstas na presente lei é contado como se tivesse sido prestado à entidade empregadora, salvo, no que respeita a remunerações, aquele que seja prestado por presidentes de câmara municipal e vereadores em regime de permanência ou de meio tempo."
+  },
+  "69767612": {
+   "fragment_id": "69738301",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime fiscal\n\nAs remunerações, compensações e quaisquer subsídios percebidos pelos eleitos locais no exercício das suas funções estão sujeitos ao regime fiscal aplicável aos titulares dos cargos políticos."
+  },
+  "69767613": {
+   "fragment_id": "69738302",
+   "type": 11,
+   "heading": "Artigo 24.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 24.º — Encargos\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local, salvo o disposto no artigo 18.º\n\n2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.\n\n3 - A suspensão do exercício dos mandatos dos eleitos locais faz cessar o processamento das remunerações e compensações, salvo quando aquela se fundamente em doença devidamente comprovada ou em licença por maternidade ou paternidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "69767614": {
+   "fragment_id": "69738303",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissões administrativas\n\nAs normas da presente lei aplicam-se aos membros das comissões administrativas nomeadas na sequência de dissolução de órgãos autárquicos."
+  },
+  "69767615": {
+   "fragment_id": "69738304",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\n1 - São revogadas as Leis n.os 9/81, de 26 de Junho, salvo o n.º 2 do artigo 3.º, e 7/87, de 28 de Janeiro.\n\n2 - O n.º 2 do artigo 3.º da Lei n.º 9/81, de 26 de Junho, fica revogado com a realização das próximas eleições gerais autárquicas."
+  },
+  "69767616": {
+   "fragment_id": "69738305",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+   ],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n1 - O direito previsto no artigo 19.º aplica-se aos eleitos locais que cessem o mandato após a entrada em vigor na presente lei.\n\n2 - O disposto no artigo 18.º aplica-se retroactivamente a todos os eleitos locais.\n\n3 - Para efeitos de direitos e regalias sociais em matéria de segurança social, contagem de tempo de serviço, reforma antecipada e subsídios de reintegração, os eleitos locais que exerçam funções a meio tempo por, simultaneamente, exercerem outras funções remuneradas a meio tempo e em regime de exclusividade nos serviços municipalizados ou em empresa municipal da mesma autarquia são equiparados a eleitos em regime de permanência.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+  },
+  "69767617": {
+   "fragment_id": "69738306",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "69767618": {
+   "fragment_id": "69738307",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de Abril de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 29 de Maio de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 2 de Junho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "69767627": {
+   "fragment_id": "69738283",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos",
+   "in_force_from": "2004-06-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), em vigor a partir de 2004-06-18",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 5.º — Direitos\n\n1 - Os eleitos locais têm direito:\n\na) A uma remuneração ou compensação mensal e a despesas de representação;\n\nb) A dois subsídios extraordinários anuais;\n\nc) A senhas de presença;\n\nd) A ajudas de custo e subsídio de transporte;\n\ne) À segurança social;\n\nf) A férias;\n\ng) A livre circulação em lugares públicos de acesso condicionado, quando em exercício das respectivas funções;\n\nh) A passaporte especial, quando em representação da autarquia;\n\ni) A cartão especial de identificação;\n\nj) A viatura municipal, quando em serviço da autarquia;\n\nl) A protecção em caso de acidente;\n\nm) A contagem de tempo de serviço;\n\nn) A subsídio de reintegração;\n\no) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;\n\np) À protecção conferida pela lei penal aos titulares de cargos públicos;\n\nq) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;\n\nr) A uso e porte de arma de defesa;\n\ns) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade.\n\nt) A subsídio de refeição, a abonar nos termos e quantitativos fixados para a Administração Pública.\n\n2 - Os direitos referidos nas alíneas a), b), e), f), m), n), r), s) e t) do número anterior apenas são concedidos aos eleitos em regime de permanência.\n\n3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), em vigor a partir de 2004-06-18\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "69767628": {
+   "fragment_id": "69738285",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), produz efeitos a partir de 2003-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência\n\n1 - As remunerações fixadas no artigo anterior são atribuídas do seguinte modo:\n\na) Aqueles que exerçam exclusivamente funções autárquicas, ou em acumulação com o desempenho não remunerado de outras funções públicas ou privadas, recebem a totalidade das remunerações previstas no artigo anterior;\n\nb) Aqueles que exerçam uma profissão liberal, quando o respectivo estatuto profissional permitir a acumulação, ou qualquer actividade privada perceberão 50% do valor da base da remuneração, sem prejuízo da totalidade das regalias sociais a que tenham direito.\n\n2 - Para os efeitos do número anterior, não se considera acumulação o desempenho de actividades de que resulte a percepção de rendimentos provenientes de direitos de autor.\n\n3 - Para determinação do montante da remuneração, sempre que ocorra a opção legalmente prevista, são considerados os vencimentos, diuturnidades, subsídios, prémios, emolumentos, gratificações e outros abonos, desde que sejam permanentes, de quantitativo certo e atribuídos genericamente aos trabalhadores da categoria optante.\n\n4 - Os presidentes de câmaras municipais e os vereadores em regime de permanência que não optem pelo exclusivo exercício das suas funções terão de assegurar a resolução dos assuntos da sua competência no decurso do período de expediente público.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), produz efeitos a partir de 2003-10-01"
+  },
+  "69806311": {
+   "fragment_id": "69738279",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Republicado pelo/a Artigo 11.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei define o Estatuto dos Eleitos Locais.\n\n2 - Consideram-se eleitos locais, para efeitos da presente lei, os membros dos órgãos deliberativos e executivos dos municípios e das freguesias.\n\n> Republicado pelo/a Artigo 11.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01"
+  },
+  "69767629": {
+   "fragment_id": "69738281",
+   "type": 11,
+   "heading": "Artigo 3.º — Exclusividade e incompatibilidades",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Exclusividade e incompatibilidades\n\n1 - Os presidente e vereadores de câmaras municipais, mesmo em regime de permanência, podem exercer outras actividades, devendo comunicá-las, quando de exercício continuado, quanto à sua natureza e identificação, ao Tribunal Constitucional e à assembleia municipal, na primeira reunião desta a seguir ao início do mandato ou previamente à entrada em funções nas actividades não autárquicas.\n\n2 - O disposto no número anterior não revoga os regimes de incompatibilidades e impedimentos previstos noutras leis para o exercício de cargos ou actividades profissionais.\n\n3 - Não perdem o mandato os funcionários da administração central, regional e local que, durante o exercício de permanência, forem colocados, por motivos de admissão ou promoção, nas situações de inelegibilidade previstas na alínea h) do n.º 1 do artigo 6.º e nas alíneas a) e b) do n.º 1 do artigo 7.º da Lei Orgânica n.º 1/2001, de 14 de Agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01"
+  },
+  "69767630": {
+   "fragment_id": "69738283",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos",
+   "in_force_from": "2004-06-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2004-06-18",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), em vigor a partir de 2004-06-18",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 5.º — Direitos\n\n1 - Os eleitos locais têm direito:\n\na) A uma remuneração ou compensação mensal e a despesas de representação;\n\nb) A dois subsídios extraordinários anuais;\n\nc) A senhas de presença;\n\nd) A ajudas de custo e subsídio de transporte;\n\ne) À segurança social;\n\nf) A férias;\n\ng) A livre circulação em lugares públicos de acesso condicionado, quando em exercício das respectivas funções;\n\nh) A passaporte especial, quando em representação da autarquia;\n\ni) A cartão especial de identificação;\n\nj) A viatura municipal, quando em serviço da autarquia;\n\nl) A protecção em caso de acidente;\n\nm) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;\n\nn) À protecção conferida pela lei penal aos titulares de cargos públicos;\n\no) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;\n\np) A uso e porte de arma de defesa;\n\nq) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade.\n\nr) A subsídio de refeição, a abonar nos termos e quantitativos fixados para a Administração Pública.\n\n2 - Os direitos referidos nas alíneas a), b), e), f), p), q) e r) do número anterior apenas são concedidos aos eleitos em regime de permanência.\n\n3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2004-06-18\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), em vigor a partir de 2004-06-18\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "69767631": {
+   "fragment_id": "69738284",
+   "type": 11,
+   "heading": "Artigo 6.º — Remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Remunerações dos eleitos locais em regime de permanência\n\n1 - Os eleitos locais em regime de permanência têm direito a remuneração mensal, bem como a dois subsídios extraordinários, de montante igual àquela, em Junho e Novembro.\n\n2 - O valor base das remunerações dos presidentes das câmaras municipais é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os índices seguintes, arredondado para a unidade de euro imediatamente superior:\n\na) Municípios de Lisboa e Porto - 55%;\n\nb) Municípios com 40000 ou mais eleitores - 50%;\n\nc) Municípios com mais de 10000 e menos de 40000 eleitores - 45%;\n\nd) Restantes municípios - 40%.\n\n3 - As remunerações e subsídios extraordinários dos vereadores em regime de permanência correspondem a 80% do montante do valor base da remuneração a que tenham direito os presidentes dos respectivos órgãos.\n\n4 - Os eleitos locais em regime de permanência nas câmaras municipais têm direito às despesas de representação correspondentes a 30% das respectivas remunerações no caso do presidente e 20% para os vereadores, as quais serão pagas 12 vezes por ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+  },
+  "69806312": {
+   "fragment_id": "69738285",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Lei n.º 53-F/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-f-2006-197493), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), produz efeitos a partir de 2003-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência\n\n1 - As remunerações fixadas no artigo anterior são atribuídas do seguinte modo:\n\na) Aqueles que exerçam exclusivamente funções autárquicas, ou em acumulação com o desempenho não remunerado de funções privadas, recebem a totalidade das remunerações previstas no artigo anterior;\n\nb) Aqueles que exerçam funções remuneradas de natureza privada percebem 50% do valor de base da remuneração, sem prejuízo da totalidade das regalias sociais a que tenham direito;\n\nc) (Revogada);\n\nd) Aqueles que, nos termos da lei, exerçam outras actividades em entidades públicas ou em entidades do sector público empresarial não participadas pelo respectivo município apenas podem perceber as remunerações previstas no artigo anterior.\n\n2 - Para os efeitos do número anterior, não se considera acumulação o desempenho de actividades de que resulte a percepção de rendimentos provenientes de direitos de autor.\n\n3 - Para determinação do montante da remuneração, sempre que ocorra a opção legalmente prevista, são considerados os vencimentos, diuturnidades, subsídios, prémios, emolumentos, gratificações e outros abonos, desde que sejam permanentes, de quantitativo certo e atribuídos genericamente aos trabalhadores da categoria optante.\n\n4 - Os presidentes de câmaras municipais e os vereadores em regime de permanência que não optem pelo exclusivo exercício das suas funções terão de assegurar a resolução dos assuntos da sua competência no decurso do período de expediente público.\n\n> Alterado pelo/a Artigo 49.º do/a [Lei n.º 53-F/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-f-2006-197493), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), produz efeitos a partir de 2003-10-01"
+  },
+  "69767633": {
+   "fragment_id": "69738286",
+   "type": 11,
+   "heading": "Artigo 8.º — Remunerações dos eleitos locais em regime de meio tempo",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "###### Artigo 8.º — Remunerações dos eleitos locais em regime de meio tempo\n\nOs eleitos locais em regime de meio tempo têm direito a metade das remunerações e subsídios fixados para os respectivos cargos em regime de tempo inteiro, sendo-lhes aplicável o limite constante da alínea c) do n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "69767634": {
+   "fragment_id": "69738291",
+   "type": 11,
+   "heading": "Artigo 13.º — Segurança Social",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+   ],
+   "markdown": "###### Artigo 13.º — Segurança Social\n\nAos eleitos locais em regime de permanência é aplicável o regime geral de segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+  },
+  "69767636": {
+   "fragment_id": "69736221",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Exercício do direito de opção",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+   ],
+   "markdown": "###### Artigo 13.º-A — Exercício do direito de opção\n\n1 - Os eleitos locais podem exercer o direito de opção a que se refere o n.º 1 do artigo anterior no prazo de 90 dias a contar do início da respectiva actividade.\n\n2 - Em caso de opção pelo regime de protecção social da função pública, a transferência dos valores relativos aos períodos contributivos registados no âmbito do sistema de segurança social pela actividade de eleito local é feita pelos centros regionais de segurança social, de acordo com os números seguintes.\n\n3 - No prazo de 30 dias a contar da data da opção prevista no número anterior, ou da data da entrada em vigor deste diploma, quando a opção já tenha sido feita, as câmaras municipais devem requerer ao respectivo centro regional de segurança social a transferência das contribuições pagas, em função dos eleitos locais, correspondentes às eventualidades de invalidez, velhice e morte.\n\n4 - A referida transferência será efectuada no prazo de 90 dias, findo o qual as câmaras municipais dispõem do prazo de 30 dias para remeterem as respectivas quantias à Caixa Nacional de Previdência.\n\n5 - Os valores a transferir pelos centros regionais são os que resultarem da aplicação das taxas das quotizações para a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado aos montantes das remunerações registadas na Segurança Social pela actividade de eleito local.\n\n6 - As taxas a que se refere o número anterior são as vigentes à data do pedido de transferência e compreendem, quer as da responsabilidade do subscritor, quer, a partir de 1 de Janeiro de 1989, as da responsabilidade das autarquias locais, nos termos do artigo 56.º da Lei n.º 114/88, de 30 de Dezembro.\n\n7 - A transferência de valores a que se referem os números anteriores determina a alteração dos correspondentes registos nas instituições de segurança social.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+  },
+  "69767637": {
+   "fragment_id": "69738296",
+   "type": 11,
+   "heading": "Artigo 18.º — Contagem de tempo de serviço e reforma antecipada",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+   ],
+   "markdown": "###### Artigo 18.º — Contagem de tempo de serviço e reforma antecipada\n\n1 - O tempo de serviço prestado pelos eleitos locais em regime de permanência é contado a dobrar, como se tivesse sido prestado nos quadros do Estado ou entidade patronal, até ao limite máximo de vinte anos, desde que sejam cumpridos seis anos seguidos ou interpolados no exercício das respectivas funções.\n\n2 - Sem prejuízo do disposto no número anterior, todo o tempo de serviço efectivamente prestado para além do período de tempo de 10 anos será contado em singelo para efeitos de reforma ou de aposentação.\n\n3 - Os eleitos que beneficiem do regime dos números anteriores têm de fazer, junto da entidade competente, os descontos correspondentes, de acordo com as normas e modalidades previstas no regime adequado.\n\n4 - Os eleitos locais que exerceram as suas funções em regime de permanência poderão, por sua iniciativa e independentemente de submissão a junta médica, requerer a aposentação ou reforma desde que tenham cumprido, no mínimo, seis anos seguidos ou interpolados no desempenho daquelas funções e que, em acumulação com o exercício das respectivas actividades profissionais, se encontrem numa das seguintes condições:\n\na) Contem mais de 60 anos de idade e 20 anos de serviço;\n\nb) Reúnam 30 anos de serviço, independentemente da respectiva idade.\n\n5 - Para efeitos de cumprimento das condições previstas no número anterior, ter-se-á igualmente em conta o exercício de actividades profissionais posteriores à cessação do mandato dos eleitos locais, reportando-se o cálculo da aposentação aos descontos feitos à data do facto determinante da aposentação ou da reforma.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 97/89 - Diário da República n.º 287/1989, Série I de 1989-12-15](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), em vigor a partir de 1989-12-16"
+  },
+  "69767638": {
+   "fragment_id": "69740438",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Suspensão da reforma antecipada",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 1/91 - Diário da República n.º 8/1991, Série I-A de 1991-01-10](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), em vigor a partir de 1991-01-11"
+   ],
+   "markdown": "###### Artigo 18.º-A — Suspensão da reforma antecipada\n\n1 - A pensão de reforma antecipada é suspensa quando o respectivo titular reassumir função ou cargo de idêntica natureza ao que esteve na base da sua atribuição.\n\n2 - A pensão de reforma antecipada é igualmente suspensa se o respectivo titular assumir um dos seguintes cargos:\n\na) Presidente da República;\n\nb) Primeiro-Ministro e membro do Governo;\n\nc) Deputado;\n\nd) Juiz do Tribunal Constitucional;\n\ne) Provedor de Justiça;\n\nf) Ministro da República para as Regiões Autónomas;\n\ng) Governador e Secretário Adjunto do Governador de Macau;\n\nh) Governador e vice-governador civil;\n\ni) Membro dos órgãos de governo próprio das regiões autónomas;\n\nj) Membro executivo do Conselho Económico e Social;\n\nl) Alto-comissário contra a Corrupção;\n\nm) Membro da Alta Autoridade para a Comunicação Social;\n\nn) Director-geral e subdirector-geral ou equiparados;\n\no) Governador e vice-governador do Banco de Portugal;\n\np) Embaixador;\n\nq) Presidente de instituto público autónomo, de empresa pública ou de sociedade anónima de capitais exclusivamente públicos;\n\nr) Gestor público, membro do conselho de administração de sociedade anónima de capitais exclusivamente públicos e vogal da direcção de instituto público autónomo, desde que exerçam funções executivas.\n\n3 - Os eleitos locais beneficiários do regime de aposentação antecipada, logo que reassumam quaisquer das funções ou cargos previstos nos n.os 1 e 2 do presente artigo, devem comunicar o facto à entidade processadora da respectiva pensão.\n\n4 - A pensão provisória será processada pela entidade onde eram exercidas funções à data da aposentação, desde que se trate de subscritores da Caixa Geral de Aposentações.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 1/91 - Diário da República n.º 8/1991, Série I-A de 1991-01-10](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), em vigor a partir de 1991-01-11"
+  },
+  "69767639": {
+   "fragment_id": "69736222",
+   "type": 11,
+   "heading": "Artigo 18.º-B — Termos da bonificação do tempo de serviço",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+   ],
+   "markdown": "###### Artigo 18.º-B — Termos da bonificação do tempo de serviço\n\n1 - Em caso de opção pelo regime geral de segurança social, a bonificação do tempo de serviço previsto no artigo 18.º pressupõe o pagamento das contribuições acrescidas, relativas ao período invocado, correspondentes a períodos de 12 meses civis, seguidos ou interpolados, a cada um dos quais corresponderá um ano bonificado.\n\n2 - As contribuições a que se refere o número anterior são calculadas por aplicação da taxa definida em portaria do Ministro do Emprego e da Segurança Social à remuneração mensal mais elevada registada em cada um dos períodos de 12 meses válidos para a bonificação.\n\n3 - A taxa a estabelecer nos termos do número anterior será igual à parcela das contribuições devidas para o regime geral de segurança social correspondente, em termos actuariais, ao financiamento das pensões de invalidez, velhice e morte.\n\n4 - O requerimento da contagem do período invocado para a bonificação deve ser apresentado, e o correspondente pagamento de contribuições deve estar acordado, até à entrega do requerimento da respectiva pensão de invalidez ou velhice.\n\n5 - No caso de o pagamento das contribuições correspondentes à bonificação se efectuar em prestações, tal facto não impede a passagem do beneficiário à situação de pensionista, se reunir as condições exigidas, mas tal pagamento só produzirá todos os seus efeitos a partir do momento em que se encontre liquidada a totalidade das contribuições referentes ao período de bonificação invocado, circunstância que dá lugar ao recálculo do valor da pensão.\n\n6 - Caso o eleito local tenha falecido sem ter requerido a contagem do período invocado para a bonificação, podem os requerentes das prestações por morte fazê-lo por ocasião da entrega do respectivo requerimento, sem prejuízo do prévio pagamento das contribuições acrescidas a que se referem os números anteriores.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/91 - Diário da República n.º 113/1991, Série I-A de 1991-05-17](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), em vigor a partir de 1991-05-22"
+  },
+  "69767640": {
+   "fragment_id": "69789946",
+   "type": 11,
+   "heading": "Artigo 18.º-C — Aumento para efeitos de aposentação",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "###### Artigo 18.º-C — Aumento para efeitos de aposentação\n\n1 - Os eleitos locais em regime de meio tempo, bem como os presidentes e vogais das juntas de freguesia em regime de não permanência, subscritores da Caixa Geral de Aposentações com, pelo menos, 8 anos no desempenho dos respectivos cargos, beneficiam, para efeitos de aposentação, até ao limite de 12 anos, de uma majoração de 25% do tempo de serviço prestado nas respectivas funções, quando essa prestação ocorra em simultâneo com o exercício do mandato autárquico.\n\n2 - A majoração a que se refere o número anterior não dispensa os interessados do pagamento, nos termos legais, das correspondentes quotas, as quais serão apuradas em função da remuneração auferida no exercício da sua actividade profissional.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "69767641": {
+   "fragment_id": "69789947",
+   "type": 14,
+   "heading": "Anexo 18.º-D — Bonificação de pensões",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "## Anexo 18.º-D — Bonificação de pensões\n\n1 - Os eleitos locais em regime de meio tempo, bem como os presidentes e vogais das juntas de freguesia em regime de não permanência, têm direito a uma bonificação da pensão, de quantitativo equivalente ao previsto no artigo anterior, determinado em função de tempo de serviço prestado quando sejam abrangidos pelos regimes contributivos da segurança social, desde que possuam, pelo menos, 8 anos no desempenho dos respectivos cargos e até ao limite de 12 anos.\n\n2 - Os termos e condições necessários para a concretização do benefício referido no número anterior, nomeadamente no que respeita ao pagamento das contribuições correspondentes, são definidos por portaria conjunta dos Ministros do Ambiente e do Ordenamento do Território e do Trabalho e da Solidariedade.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "69767642": {
+   "fragment_id": "69738297",
+   "type": 11,
+   "heading": "Artigo 19.º — Subsídio de reintegração",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01"
+   ],
+   "markdown": "###### Artigo 19.º — Subsídio de reintegração\n\n1 - Aos eleitos locais em regime de permanência e exclusividade é atribuído, no termo do mandato, um subsídio de reintegração, caso não beneficiem do regime constante no artigo 18.º\n\n2 - O subsídio referido no número anterior é equivalente ao valor de um mês por cada semestre de exercício efectivo de funções, até ao limite de onze meses.\n\n3 - Os beneficiários do subsídio de reintegração que assumam qualquer das funções previstas nas alíneas previstas no n.º 2 do artigo 26.º da Lei n.º 4/85, de 9 de Abril, antes de decorrido o dobro do período de reintegração devem devolver metade dos subsídios que tiverem percebido entre a cessação das anteriores e o início das novas funções.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01"
+  },
+  "69767635": {
+   "fragment_id": "69738302",
+   "type": 11,
+   "heading": "Artigo 24.º — Encargos",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 24.º — Encargos\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local.\n\n2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.\n\n3 - A suspensão do exercício dos mandatos dos eleitos locais faz cessar o processamento das remunerações e compensações, salvo quando aquela se fundamente em doença devidamente comprovada ou em licença por maternidade ou paternidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "69767643": {
+   "fragment_id": "69738305",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": "2005-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+   ],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n1 - O direito previsto no artigo 19.º aplica-se aos eleitos locais que cessem o mandato após a entrada em vigor na presente lei.\n\n2 - O disposto no artigo 18.º aplica-se retroactivamente a todos os eleitos locais.\n\n3 - Para efeitos de direitos e regalias sociais em matéria de segurança social, contagem de tempo de serviço, reforma antecipada e subsídios de reintegração, os eleitos locais que exerçam funções a meio tempo por, simultaneamente, exercerem outras funções remuneradas a meio tempo e em regime de exclusividade nos serviços municipalizados ou em empresa municipal da mesma autarquia são equiparados a eleitos em regime de permanência.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01"
+  },
+  "131182566": {
+   "fragment_id": "69738283",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 399.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2004-06-18",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), em vigor a partir de 2004-06-18",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+   ],
+   "markdown": "###### Artigo 5.º — Direitos\n\n1 - Os eleitos locais têm direito:\n\na) A uma remuneração ou compensação mensal e a despesas de representação;\n\nb) A dois subsídios extraordinários anuais;\n\nc) A senhas de presença;\n\nd) A ajudas de custo e subsídio de transporte;\n\ne) À segurança social;\n\nf) A férias;\n\ng) A livre circulação em lugares públicos de acesso condicionado, quando em exercício das respectivas funções;\n\nh) A passaporte especial, quando em representação da autarquia;\n\ni) A cartão especial de identificação;\n\nj) A viatura municipal, quando em serviço da autarquia;\n\nl) A protecção em caso de acidente;\n\nm) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;\n\nn) À protecção conferida pela lei penal aos titulares de cargos públicos;\n\no) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;\n\np) A uso e porte de arma de defesa;\n\nq) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade.\n\nr) A subsídio de refeição, a abonar nos termos e quantitativos fixados para a Administração Pública.\n\n2 - Os direitos referidos nas alíneas a), b), f), p), q) e r) do número anterior apenas são concedidos aos eleitos em regime de permanência.\n\n3 - O direito referido na alínea e) do n.º 1 apenas é concedido aos eleitos em regime de permanência ou em regime de meio tempo.\n\n4 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.\n\n> Alterado pelo/a Artigo 399.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2004-06-18\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 22/2004 - Diário da República n.º 141/2004, Série I-A de 2004-06-17](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), em vigor a partir de 2004-06-18\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 50/99 - Diário da República n.º 145/1999, Série I-A de 1999-06-24](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), em vigor a partir de 1999-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 127/97 - Diário da República n.º 285/1997, Série I-A de 1997-12-11](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), em vigor a partir de 1997-12-16"
+  },
+  "206249308": {
+   "fragment_id": "69738280",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime do desempenho de funções",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 268.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+   ],
+   "markdown": "###### Artigo 2.º — Regime do desempenho de funções\n\n1 - Desempenham as respectivas funções em regime de permanência os seguintes eleitos locais:\n\na) Presidentes das câmaras municipais;\n\nb) Vereadores, em número e nas condições previstos na lei;\n\nc) Membros das juntas de freguesia em regime de tempo inteiro.\n\n2 - A câmara municipal poderá optar pela existência de vereadores em regime de meio tempo, correspondendo dois vereadores em regime de meio tempo a um vereador em regime de permanência.\n\n3 - O exercício de funções a meio tempo por membros das juntas de freguesia pode ser acumulado com o exercício de funções públicas ou privadas, remuneradas ou não, mediante comunicação escrita do eleito local à entidade empregadora.\n\n4 - Os membros de órgãos executivos que não exerçam as respectivas funções em regime de permanência ou de meio tempo serão dispensados das suas actividades profissionais, mediante aviso antecipado à entidade empregadora, para o exercício de actividades no respectivo órgão, nas seguintes condições:\n\na) Nos municípios: os vereadores, até 32 horas mensais cada um;\n\nb) Nas freguesias de 20000 ou mais eleitores: o presidente da junta, até 32 horas mensais, e dois membros, até 24 horas;\n\nc) Nas freguesias com mais de 5000 e até 20000 eleitores: o presidente da junta, até 32 horas mensais, e dois membros, até 16 horas;\n\nd) Nas restantes freguesias: o presidente da junta, até 32 horas, e um membro, até 16 horas.\n\n5 - Os membros dos órgãos deliberativos e consultivos são dispensados das suas funções profissionais, mediante aviso antecipado à entidade empregadora, quando o exija a sua participação em actos relacionados com as suas funções de eleitos, designadamente em reuniões dos órgãos e comissões a que pertencem ou em actos oficiais a que devem comparecer.\n\n6 - As entidades empregadoras dos eleitos locais referidos nos n.os 2, 3 e 4 do presente artigo têm direito à compensação dos encargos resultantes das dispensas.\n\n7 - Todas as entidades públicas e privadas estão sujeitas ao dever geral de cooperação para com os eleitos locais no exercício das suas funções.\n\n> Alterado pelo/a Artigo 268.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11"
+  },
+  "838656504": {
+   "fragment_id": "69738288",
+   "type": 11,
+   "heading": "Artigo 10.º — Senhas de presença",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 289.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11",
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+   ],
+   "markdown": "###### Artigo 10.º — Senhas de presença\n\n1 - Os eleitos locais que não se encontrem em regime de permanência ou de meio tempo têm direito a uma senha de presença por cada reunião das sessões ordinárias ou extraordinárias do respetivo órgão e das comissões a que compareçam e participem.\n\n2 - O quantitativo de cada senha de presença a que se refere o número anterior é fixado em 3%, 2,5% e 2% do valor base da remuneração do presidente da câmara municipal, respectivamente, para o presidente, secretários, restantes membros da assembleia municipal e vereadores.\n\n> Alterado pelo/a Artigo 289.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 86/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), em vigor a partir de 2001-08-11\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 11/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653)"
+  }
+ }
+}

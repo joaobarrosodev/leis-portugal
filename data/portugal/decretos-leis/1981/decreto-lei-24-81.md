@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:390005:por
+title: Decreto-Lei n.º 24/81
+short_title: null
+summary: Estabelece normas às quais deverá obedecer o regime transitório previsto no artigo 12.º da Lei n.º 64/77, de 26 de
+  Agosto (regime orçamental transitório para 1981)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e dos Assuntos Sociais
+proposing_entity: null
+official_number: 24/81
+official_date: null
+publication_date: '1981-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/1981, Série I de 1981-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 272 - 273
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02400/02720273.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390005'
+  dre_path: /dr/detalhe/decreto-lei/24-1981-390005
+  internal: pt:dre:390005:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1981-390005
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1981-390005
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-08-05T00:00:00Z'
+integrity:
+  source_sha256: 7c122e4f5d381b119d2f3b97faf4b5d0348432a5dcd2ebbb30992d802317228f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-24-390005.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 24/81
+
+de 29 de Janeiro
+
+Face à actual conjuntura, não foi possível apresentar à Assembleia da República a proposta de lei do Orçamento para 1981, que, em termos legais e condições normais, se deveria ter verificado, como ordena o artigo 28.º da [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto, até 15 de Outubro de 1980.
+
+A fim de permitir o normal funcionamento da administração financeira do Estado em 1981 e o curso normal do financiamento do regime da segurança social enquanto a lei do Orçamento correspondente não for aprovada e posta em vigor, há que aplicar transitoriamente o regime estabelecido no artigo 12.º da [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto, na nova formulação dada pela [Lei n.º 18/78](https://diariodarepublica.pt/dr/detalhe/lei/18-1978-425345), de 10 de Abril.
+
+Dentro deste objectivo, o presente diploma contém regras para a execução dos referidos regimes, a fim de que possam conceder-se aos serviços os meios indispensáveis ao seu normal funcionamento a partir do início de 1981, no quadro das leis em vigor e das decisões legalmente tomadas durante o ano de 1980.
+
+Deste modo:
+
+Em aplicação do artigo 12.º da [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto, com a redacção que lhe foi dada pela [Lei n.º 18/78](https://diariodarepublica.pt/dr/detalhe/lei/18-1978-425345), de 10 de Abril, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º
+
+(Regime orçamental transitório para 1981)
+
+Enquanto não for aprovada pela Assembleia da República a proposta de lei do Orçamento para 1981, o regime transitório previsto no artigo 12.º da [Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/lei/64-1977-256016), de 26 de Agosto, com a redacção que lhe foi dada pela [Lei n.º 18/78](https://diariodarepublica.pt/dr/detalhe/lei/18-1978-425345), de 10 de Abril, obedecerá às normas constantes do presente diploma.
+
+###### ARTIGO 2.º
+
+(Limite mensal das despesas públicas)
+
+1 - Para ocorrer ao pagamento das despesas públicas poderá ser despendido mensalmente até um duodécimo do total do Orçamento Geral do Estado e do orçamento da segurança social de 1980, rectificados de acordo com as alterações neles introduzidas no decurso daquele ano.
+
+2 - O valor global do duodécimo do Orçamento Geral do Estado a que se refere o número anterior, por Ministérios e departamentos equiparados, consta do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+3 - O valor global dos duodécimos ajustados do orçamento da segurança social de 1980 é fixado em 8577,7 milhares de contos para as despesas correntes e em 146,5 milhares de contos para as despesas de capital.
+
+###### ARTIGO 3.º
+
+(Condicionamentos gerais à realização de despesas)
+
+1 - Nenhuma despesa poderá ser efectuada sem que, além de ser legal, se encontre suficientemente discriminada no correspondente orçamento de 1980, tenha cabimento no respectivo crédito utilizável e obedeça ao princípio da utilização por duodécimos, salvas, neste último caso, as excepções àquele regime.
+
+2 - As dotações de despesa, na sua expressão final utilizável, do Orçamento Geral do Estado de 1980 constituem o limite máximo a utilizar pelos serviços na realização das despesas respeitantes ao ano de 1981.
+
+3 - A concessão de subsídios às empresas fica condicionada ao preceituado no artigo 29.º do [Decreto-Lei n.º 183-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-a-1980-324943), de 9 de Junho, não podendo ser excedido o duodécimo do quantitativo atribuído a cada empresa no ano de 1980, sem prejuízo de no valor de cada subsídio poder ficar reservado o montante necessário para fazer face ao encargo resultante de operações de saneamento financeiro de que a empresa venha a beneficiar ou a outras finalidades fixadas em Conselho de Ministros.
+
+4 - As restantes verbas excepcionais inscritas no Orçamento Geral do Estado de 1980 sem carácter de continuidade não podem ser utilizadas no regime transitório de que trata este diploma, sem prejuízo de casos especiais autorizados pelo Ministro das Finanças e do Plano.
+
+###### ARTIGO 4.º
+
+(Classificação de despesas)
+
+1 - Na escrituração das empresas referidas no n.º 1 do artigo 3.º deverá observar-se a classificação orgânica, económica e funcional constante do Orçamento Geral do Estado rectificado de 1980, com as necessárias adaptações às classificações que hão-de constar do Orçamento para 1981.
+
+2 - Na contabilização das despesas do sector da segurança social deverá observar-se a classificação por objectivos constante do Orçamento de 1980.
+
+3 - Postos em execução os orçamentos para 1981 referidos nos números anteriores, as despesas autorizadas no regime transitório que é objecto deste diploma serão integradas nos respectivos orçamentos com as rectificações de classificação e de lançamento que, por estorno, houver necessidade de efectuar, por forma a ficarem devidamente escrituradas nas contas correntes com as dotações orçamentais definitivas de 1981.
+
+###### ARTIGO 5.º
+
+(Transição de serviços)
+
+Em relação aos serviços que transitaram para Ministério diferente daquele de que dependiam em 1980, deverá proceder-se na seguinte conformidade:
+
+a) As respectivas despesas, observados os condicionalismos gerais descritos no artigo 3.º, serão autorizadas em 1981 em conta do duodécimo do orçamento para onde transitam;
+
+b) O duodécimo do orçamento referido na alínea anterior considerar-se-á acrescido dos quantitativos que, por tal motivo, serão simultaneamente deduzidos no duodécimo do orçamento de origem.
+
+###### ARTIGO 6.º
+
+(Novos serviços)
+
+Para a realização das despesas de funcionamento de novos serviços públicos que não tiveram verbas inscritas no Orçamento Geral do Estado de 1980, serão considerados valores iguais aos que hão-de figurar no Orçamento para 1981, não podendo ser excedido o valor do duodécimo referido no artigo 2.º deste diploma.
+
+###### ARTIGO 7.º
+
+(Investimentos do Plano)
+
+A realização de despesas referentes a investimentos do Plano, incluindo as que constituem encargo do orçamento da segurança social, deverá restringir-se aos encargos respeitantes a empreendimentos em execução incluídos em programas de 1980, já aprovados e visados, além de outros encargos inadiáveis resultantes do funcionamento normal dos serviços.
+
+###### ARTIGO 8.º
+
+São mantidas em vigor, na parte aplicável, as disposições do [Decreto-Lei n.º 183-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-a-1980-324943), de 9 de Junho, relativamente ao Orçamento Geral do Estado, e as do [Decreto-Lei n.º 187-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-e-1980-647323), de 14 de Junho, quanto ao orçamento da segurança social.
+
+###### ARTIGO 9.º
+
+(Resolução de dúvidas e omissões)
+
+As dúvidas e omissões suscitadas na aplicação do presente diploma serão resolvidas, relativamente ao Orçamento Geral do Estado, por despacho do Ministro das Finanças e do Plano, e por despacho conjunto deste e do Ministro dos Assuntos Sociais, em relação ao orçamento da segurança social.
+
+###### ARTIGO 10.º
+
+(Vigência)
+
+O presente diploma produz efeitos a partir de 1 de Janeiro de 1981.
+
+Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
+
+**Promulgado em 15 de Janeiro de 1981.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Mapa anexo a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 24/81
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02400/02720273.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02400/02720273.pdf)
+
+**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão.**

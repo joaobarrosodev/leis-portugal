@@ -1,0 +1,291 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:462031:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-203029497",
+ "dre_path": "/dr/detalhe/decreto-lei/171-1995-462031",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202981324",
+    "202981325",
+    "202981326",
+    "202981327",
+    "202981328",
+    "202981329",
+    "202981330",
+    "202981331",
+    "202981332",
+    "202981333",
+    "202981334"
+   ]
+  },
+  {
+   "date": "2002-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172278:por",
+     "title": "Decreto-Lei n.º 186/2002",
+     "published": "2002-08-21",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2002-172278"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "202981324",
+    "202981325",
+    "202981326",
+    "202981327",
+    "202981336",
+    "202981329",
+    "202981330",
+    "202981331",
+    "202981332",
+    "202981333",
+    "202981334",
+    "202981335"
+   ]
+  },
+  {
+   "date": "2014-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58585556:por",
+     "title": "Decreto-Lei n.º 157/2014",
+     "published": "2014-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/157-2014-58585556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "202981324",
+    "202981325",
+    "202981358",
+    "202981359",
+    "202981360",
+    "202981361",
+    "202981330",
+    "202981331",
+    "202981332",
+    "202981333",
+    "202981334",
+    "202981335"
+   ]
+  },
+  {
+   "date": "2015-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67356344:por",
+     "title": "Decreto-Lei n.º 100/2015",
+     "published": "2015-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/100-2015-67356344"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "202981324",
+    "202981325",
+    "202981358",
+    "202981359",
+    "202981362",
+    "202981363",
+    "202981330",
+    "202981331",
+    "202981332",
+    "202981333",
+    "202981334",
+    "202981335"
+   ]
+  }
+ ],
+ "fragments": {
+  "202981324": {
+   "fragment_id": "203029498",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 171/95\n\nde 18 de Julho\n\nO Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, inclui as sociedades de factoring entre as instituições de crédito.\n\nAssim sendo, tais sociedades caem automaticamente no âmbito de aplicação das normas relativas a instituições de crédito, que disciplinam aspectos essenciais, como o regime da sua constituição, as regras sobre a sua administração e fiscalização e a supervisão a que estão sujeitas por parte do Banco de Portugal.\n\nTodas estas normas se tornam dispensáveis, por conseguinte, no diploma relativo às sociedades de factoring, o que só por si justifica que seja alterado o regime constante do Decreto-Lei n.º 56/86, de 18 de Março.\n\nPor outro lado, a reforma agora levada a cabo procede a alterações recomendadas pela experiência colhida na vigência do referido diploma e que se traduzem numa clarificação e desregulamentação do regime do contrato de factoring.\n\nMantém-se, contudo, a exigência de o contrato de factoring revestir a forma escrita, por se considerar necessária à segurança das partes, atendendo à complexidade de que normalmente se revestem as relações contratuais estabelecidas.\n\nForam ouvidos o Banco de Portugal e a Associação Portuguesa das Empresas Factoring.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "202981325": {
+   "fragment_id": "203029499",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regula as sociedades de factoring e o contrato de factoring."
+  },
+  "202981326": {
+   "fragment_id": "203029500",
+   "type": 11,
+   "heading": "Artigo 2.º — Actividade de factoring",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Actividade de factoring\n\n1 - A actividade de factoring ou cessão financeira consiste na aquisição de créditos a curto prazo, derivados da venda de produtos ou da prestação de serviços, nos mercados interno e externo.\n\n2 - Compreendem-se na actividade de factoring acções complementares de colaboração entre as entidades referidas no artigo 4.º e os seus clientes, designadamente de estudo dos riscos de crédito e de apoio jurídico, comercial e contabilístico à boa gestão dos créditos transaccionados."
+  },
+  "202981327": {
+   "fragment_id": "203029501",
+   "type": 11,
+   "heading": "Artigo 3.º — Outras noções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Outras noções\n\nPara os efeitos do presente diploma, designam-se por:\n\na) «Factor» ou «cessionário», as entidades referidas no n.º 1 do artigo 4.º;\n\nb) «Aderente», o interveniente no contrato de factoring que ceda créditos ao factor;\n\nc) «Devedores», os terceiros devedores dos créditos cedidos pelo aderente ao factor."
+  },
+  "202981328": {
+   "fragment_id": "203029502",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\n1 - Só as sociedades de factoring e os bancos podem celebrar, de forma habitual, como cessionários, contratos de factoring.\n\n2 - As designações «sociedade de factoring», «sociedade de cessão financeira» ou quaisquer outras que sugiram essa actividade só podem ser usadas pelas sociedades referidas no número anterior."
+  },
+  "202981329": {
+   "fragment_id": "203029503",
+   "type": 11,
+   "heading": "Artigo 5.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recursos\n\nAs sociedades de factoring só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei e sem obediência aos limites fixados no Código das Sociedades Comerciais, bem como de «papel comercial»;\n\nb) Financiamentos concedidos por outras instituições de crédito, nomeadamente no âmbito do mercado interbancário, se a regulamentação aplicável a este mercado o não proibir, bem como por instituições financeiras internacionais;\n\nc) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro."
+  },
+  "202981330": {
+   "fragment_id": "203029504",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações cambiais\n\nAs sociedades de factoring podem realizar as operações cambiais necessárias ao exercício da sua actividade."
+  },
+  "202981331": {
+   "fragment_id": "203029505",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato de factoring",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contrato de factoring\n\n1 - O contrato de factoring é sempre celebrado por escrito e dele deve constar o conjunto das relações do factor com o respectivo aderente.\n\n2 - A transmissão de créditos ao abrigo de contratos de factoring deve ser acompanhada pelas correspondentes facturas ou suporte documental equivalente, nomeadamente informático, ou título cambiário."
+  },
+  "202981332": {
+   "fragment_id": "203029506",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento dos créditos transmitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento dos créditos transmitidos\n\n1 - O pagamento ao aderente dos créditos por este transmitidos ao factor deverá ser efectuado nas datas de vencimento dos mesmos ou na data de um vencimento médio presumido que seja contratualmente estipulado.\n\n2 - O factor poderá também pagar antes dos vencimentos, médios ou efectivos, a totalidade ou parte dos créditos cedidos ou possibilitar, mediante a prestação de garantia ou outro meio idóneo, o pagamento antecipado por intermédio de outra instituição de crédito.\n\n3 - Os pagamentos antecipados de créditos, efectuados nos termos do número anterior, não poderão exceder a posição credora do aderente na data da efectivação do pagamento."
+  },
+  "202981333": {
+   "fragment_id": "203029507",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direito subsidiário\n\nEm tudo o que não esteja disposto no presente diploma sobre as sociedades de factoring é aplicável o Regime Geral das Instituições de Crédito e das Sociedades Financeiras e legislação complementar."
+  },
+  "202981334": {
+   "fragment_id": "203029508",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 56/86, de 18 de Março."
+  },
+  "202981336": {
+   "fragment_id": "203029502",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": "2002-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\n1 - Revogado.)\n\n2 - As designações «sociedade de factoring», «sociedade de cessão financeira» ou quaisquer outras que sugiram essa actividade só podem ser usadas pelas sociedades referidas no número anterior.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+  },
+  "202981335": {
+   "fragment_id": "203029509",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 21 de Junho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 24 de Junho de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "202981358": {
+   "fragment_id": "203029500",
+   "type": 11,
+   "heading": "Artigo 2.º — Actividade de factoring",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 2.º — Actividade de factoring\n\n1 - A actividade de factoring ou cessão financeira consiste na aquisição de créditos a curto prazo, derivados da venda de produtos ou da prestação de serviços, nos mercados interno e externo.\n\n2 - Compreendem-se na atividade de factoring as ações complementares de colaboração entre as entidades habilitadas a exercer a atividade de factoring nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro e os seus clientes, designadamente de estudo dos riscos de crédito e de apoio jurídico, comercial e contabilístico à boa gestão dos créditos transacionados.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  },
+  "202981359": {
+   "fragment_id": "203029501",
+   "type": 11,
+   "heading": "Artigo 3.º — Outras noções",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 3.º — Outras noções\n\nPara os efeitos do presente diploma, designam-se por:\n\na) «Factor» ou «cessionário», as entidades habilitadas a exercer a atividade de factoring nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro;\n\nb) «Aderente», o interveniente no contrato de factoring que ceda créditos ao factor;\n\nc) «Devedores», os terceiros devedores dos créditos cedidos pelo aderente ao factor.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  },
+  "202981360": {
+   "fragment_id": "203029502",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\n1 - Revogado.)\n\n2 - As designações «sociedade de factoring», «sociedade de cessão financeira» ou quaisquer outras que sugiram essa atividade só podem ser usadas pelas entidades habilitadas a exercer a atividade de factoring nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+  },
+  "202981361": {
+   "fragment_id": "203029503",
+   "type": 11,
+   "heading": "Artigo 5.º — Recursos",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 5.º — Recursos\n\nAs sociedades de factoring só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, elevando os limites fixados no Código das Sociedades Comerciais até ao quádruplo dos seus capitais próprios, bem como de papel comercial;\n\nb) Financiamentos concedidos por instituições de crédito, nomeadamente no âmbito do mercado interbancário, se a regulamentação aplicável a este mercado o não proibir, bem como por instituições financeiras internacionais;\n\nc) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  },
+  "202981362": {
+   "fragment_id": "203029502",
+   "type": 11,
+   "heading": "Artigo 4.º — Forma e verdade da firma",
+   "in_force_from": "2015-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+   ],
+   "markdown": "###### Artigo 4.º — Forma e verdade da firma\n\n1 - (Revogado.)\n\n2 - As sociedades de factoring adotam a forma de sociedade anónima.\n\n3 - As designações «sociedade de factoring», «sociedade de cessão financeira» ou quaisquer outras que sugiram essa atividade só podem ser usadas pelas entidades habilitadas a exercer a atividade de factoring nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+  },
+  "202981363": {
+   "fragment_id": "203029503",
+   "type": 11,
+   "heading": "Artigo 5.º — Recursos",
+   "in_force_from": "2015-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 5.º — Recursos\n\n1 - As sociedades de factoring só podem financiar a sua atividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, em montante que não exceda o quádruplo dos seus capitais próprios, considerando a soma do preço de subscrição de todas as obrigações emitidas e não amortizadas, bem como emissão de papel comercial;\n\nb) Financiamentos concedidos por instituições de crédito, nomeadamente no âmbito do mercado interbancário, se a regulamentação aplicável a este mercado o não proibir, bem como por instituições financeiras internacionais;\n\nc) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  }
+ }
+}

@@ -1,0 +1,377 @@
+---
+schema_version: '1.0'
+id: pt:dre:553929:por
+title: Decreto-Lei n.º 76/2012
+short_title: null
+summary: Aprova a orgânica da Comissão para a Igualdade no Trabalho e no Emprego
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 76/2012
+official_date: null
+publication_date: '2012-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2012, Série I de 2012-03-26
+  number: '61'
+  series: I
+  supplement: null
+  pages: 1445 - 1448
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06100/0144501448.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-04-01'
+version_history:
+  file: decreto-lei-76-2012.versoes.json
+  count: 3
+  source_lastmod: '2026-08-17'
+  versions:
+  - date: '2012-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-02-17'
+    amending: pt:dre:116130014:por
+    amending_title: Lei n.º 60/2018
+    changes:
+    - Altera Artigo 3.º
+  - date: '2026-04-01'
+    amending: pt:dre:1072545707:por
+    amending_title: Decreto-Lei n.º 78/2026
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/76/2012/p/cons/20260316/pt/html
+  oj: null
+  dre: '553929'
+  dre_path: /dr/detalhe/decreto-lei/76-2012-553929
+  internal: pt:dre:553929:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2012-553929
+  metadata_url: https://data.dre.pt/eli/dec-lei/76/2012/p/cons/20260316/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-116145705
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-116145705
+  retrieved_at: '2026-10-22T13:48:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-17T00:00:00Z'
+integrity:
+  source_sha256: 4348bc9e2420b942c9b830ee3bbc9c10769834eda5858b37046bda9631164a86
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:48:44Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-76-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Comissão para a Igualdade no Trabalho e no Emprego
+- Definição de Competências
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Vice-presidente
+relationships:
+- type: amended_by
+  target: pt:dre:116130014:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/60-2018-116130014
+  date: '2018-08-21'
+- type: amended_by
+  target: pt:dre:1072545707:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707
+  date: '2026-03-16'
+- type: cites
+  target: celex:32002L0073
+  label: null
+  source: http://data.europa.eu/eli/dir/2002/73/oj
+- type: transposes
+  target: celex:32002L0073
+  label: null
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:48:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 76/2012
+
+de 26 de março
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Decorridos mais de 30 anos desde a criação da Comissão para a Igualdade no Trabalho e no Emprego (CITE) com o objetivo de promover e garantir a igualdade de oportunidades e de tratamento no trabalho e emprego entre homens e mulheres, competência posteriormente alargada à Administração Pública e aos trabalhadores ao seu serviço, a missão da CITE foi ampliada à promoção da igualdade e não discriminação entre homens e mulheres no trabalho, no emprego e na formação profissional, à proteção da parentalidade e à conciliação da atividade profissional com a vida familiar e pessoal, no setor privado, no setor público e no terceiro setor.
+
+Mantidas as atribuições necessárias à concretização do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao acesso ao emprego, à formação e promoção profissionais e às condições do trabalho, nomeadamente quanto ao acompanhamento das vítimas de discriminação e, bem assim, quanto à independência da CITE enquanto garante da igualdade no trabalho e no emprego, clarificadas aquando da transposição da Diretiva n.º
+
+2002/73/CE
+
+, do Parlamento Europeu e do Conselho, de 23 de setembro, o presente diploma mantém a atribuição de personalidade jurídica à CITE e, em consequência, a capacidade judiciária, habilitando-a ao acompanhamento de vítimas de discriminação em razão do sexo no acesso e na manutenção do trabalho, no emprego e formação profissional, como também de pessoas prejudicadas por motivo de violação das normas relativas aos direitos de parentalidade.
+
+Na presente orgânica são ainda mantidas as competências da CITE enquanto entidade promotora do diálogo social para as questões da igualdade entre homens e mulheres em contexto laboral.
+
+Considerando que a negociação coletiva é um instrumento complementar da regulamentação legal na promoção e reforço da igualdade de género, compete, pois, à CITE, em articulação com os parceiros sociais, criar as condições necessárias para valorizar os instrumentos de regulamentação coletiva de trabalho na perspetiva das vantagens acrescidas que podem representar em termos de flexibilidade, compromisso e participação.
+
+Por conseguinte, permanece na CITE a competência para apreciar de forma fundamentada a legalidade de disposições em matéria laboral, no que se refere à sua conformidade com as exigências de respeito pela igualdade e proibição da discriminação nos termos consagrados no Código do Trabalho.
+
+Foram consultados os parceiros sociais com assento na Comissão Permanente de Concertação Social.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 1.º — Natureza
+
+A Comissão para a Igualdade no Trabalho e no Emprego, abreviadamente designada por CITE, é um órgão colegial tripartido, dotado de autonomia administrativa e personalidade jurídica.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 2.º — Missão
+
+A CITE tem por missão prosseguir a igualdade e a não discriminação entre homens e mulheres no trabalho, no emprego e na formação profissional e colaborar na aplicação de disposições legais e convencionais nesta matéria, bem como as relativas à proteção da parentalidade e à conciliação da atividade profissional com a vida familiar e pessoal, no setor privado, no setor público e no setor cooperativo.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 3.º — Atribuições próprias e de assessoria
+
+A CITE prossegue as seguintes atribuições, no âmbito das suas funções próprias e de assessoria:
+
+a) Emitir pareceres em matéria de igualdade e não discriminação entre mulheres e homens no trabalho e no emprego, sempre que solicitados pelo serviço com competência inspetiva no domínio laboral, pelo tribunal, pelos ministérios, pelas associações sindicais e de empregadores, pelas organizações da sociedade civil, por qualquer pessoa interessada ou ainda por iniciativa própria;
+
+b) Emitir parecer sobre a existência de discriminação remuneratória em razão do sexo por trabalho igual ou de igual valor, a requerimento do trabalhador ou de representante sindical;
+
+c) Emitir parecer prévio ao despedimento de trabalhadoras grávidas, puérperas e lactantes ou de trabalhador no gozo de licença parental;
+
+d) Emitir parecer prévio no caso de intenção de recusa, pela entidade empregadora, de autorização para trabalho a tempo parcial ou com flexibilidade de horário a trabalhadores com filhos menores de 12 anos;
+
+e) Analisar as comunicações das entidades empregadoras sobre a não renovação de contrato de trabalho a termo sempre que estiver em causa uma trabalhadora grávida, puérpera ou lactante ou trabalhador durante o gozo da licença parental;
+
+f) Apreciar as queixas que lhe sejam apresentadas ou situações de que tenha conhecimento indiciadoras de violação de disposições legais sobre igualdade e não discriminação entre mulheres e homens no trabalho, no emprego e na formação profissional, proteção da parentalidade e conciliação da atividade profissional com a vida familiar e pessoal;
+
+g) Prestar informação e apoio jurídico em matéria de igualdade e não discriminação entre mulheres e homens, no emprego, no trabalho, na formação profissional, na proteção da parentalidade e na conciliação da atividade profissional com a vida familiar e pessoal;
+
+h) Comunicar ao serviço com competência inspetiva no domínio laboral os pareceres da CITE que confirmem ou indiciem a existência de prática laboral discriminatória em razão do sexo;
+
+i) Solicitar, ao serviço com competência inspetiva no domínio laboral, a realização de visitas aos locais de trabalho, com a finalidade de comprovar quaisquer práticas discriminatórias em razão do sexo, podendo essas visitas ser acompanhadas por representante da CITE;
+
+j) Apreciar a legalidade de disposições em matéria de igualdade e não discriminação entre mulheres e homens no trabalho e no emprego constantes de instrumento de regulamentação coletiva de trabalho negocial, sempre que exista suspeita de discriminação, conforme previsto no Código do Trabalho;
+
+l) Apreciar a legalidade da decisão arbitral em processo de arbitragem obrigatória ou necessária, sempre que exista suspeita de discriminação, conforme o previsto no Código do Trabalho;
+
+m) Analisar os avisos de concurso de ingresso na Administração Pública, anúncios de oferta de emprego no setor privado e outras formas de publicitação de pré-seleção e recrutamento;
+
+n) Assistir as vítimas de discriminação em razão do sexo, no trabalho, emprego ou formação profissional, sem prejuízo do direito das vítimas ou de outras entidades competentes intervirem em processos judiciais ou administrativos, nos termos legais;
+
+o) Promover diligências de conciliação em caso de conflito individual em questões de igualdade e não discriminação entre mulheres e homens no trabalho, no emprego e na formação profissional, de proteção da parentalidade e conciliação da atividade profissional com a vida familiar e privada, quando solicitado por ambas as partes;
+
+p) Recomendar aos membros do Governo responsáveis pelas áreas do emprego e da Administração Pública a adoção de legislação que promova a igualdade e a não discriminação entre homens e mulheres no trabalho, no emprego e na formação profissional, na proteção da parentalidade e na conciliação da atividade profissional com a vida familiar.
+
+q) Desenvolver as demais ações decorrentes da lei que aprova medidas de promoção da igualdade remuneratória entre mulheres e homens por trabalho igual ou de igual valor.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 60/2018 - Diário da República n.º 160/2018, Série I de 2018-08-21](https://diariodarepublica.pt/dr/detalhe/lei/60-2018-116130014), em vigor a partir de 2019-02-17
+
+###### Artigo 4.º — Atribuições no âmbito do diálogo social
+
+A CITE prossegue as seguintes atribuições, no âmbito das suas funções de fomento e acompanhamento do diálogo social:
+
+a) Assessorar, quando solicitado, os parceiros sociais e outras entidades responsáveis pela elaboração de instrumentos de regulamentação coletiva de trabalho para as matérias de igualdade e não discriminação entre mulheres e homens no trabalho, no emprego e na formação profissional, de proteção da parentalidade e de conciliação da atividade profissional com a vida familiar e pessoal;
+
+b) Sensibilizar os negociadores sindicais e patronais para as matérias de igualdade e não discriminação entre mulheres e homens no trabalho, no emprego e na formação profissional, de proteção da parentalidade e de conciliação da atividade profissional com a vida familiar e pessoal.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 5.º — Atribuições de apoio técnico e registo
+
+A CITE prossegue as seguintes atribuições, no exercício das suas funções de apoio técnico e registo:
+
+a) Apoiar e dinamizar iniciativas nas áreas da igualdade e não discriminação entre mulheres e homens, no trabalho, no emprego e na formação profissional, da proteção da parentalidade e da conciliação da atividade profissional com a vida familiar e pessoal, promovidas por outras entidades públicas, privadas ou cooperativas ou em parceria com as mesmas;
+
+b) Promover a formação na área laboral de públicos estratégicos;
+
+c) Apoiar a publicação e divulgação de informação relevante na área da igualdade e não discriminação entre mulheres e homens, no trabalho, no emprego e na formação profissional, da proteção da parentalidade e da conciliação da atividade profissional com a vida familiar e pessoal;
+
+d) Cooperar a nível nacional e internacional com entidades públicas e privadas em ações e projetos, no âmbito das atribuições da CITE;
+
+e) Organizar o registo das decisões judiciais que lhe sejam enviadas pelos tribunais em matéria de igualdade e não discriminação entre mulheres e homens, no emprego, no trabalho, na formação profissional, de proteção da parentalidade e da conciliação da atividade profissional com a vida familiar e pessoal e informar sobre o registo de qualquer decisão já transitada em julgado;
+
+f) Instituir um sistema de recolha de dados, acompanhamento e monitorização, em articulação com outras entidades públicas com atribuições na área do tratamento de dados relativos à igualdade e não discriminação entre mulheres e homens, no trabalho, no emprego e na formação profissional, à proteção da parentalidade e conciliação da atividade profissional com a vida familiar e pessoal;
+
+g) Divulgar anualmente indicadores sobre o progresso da igualdade e não discriminação entre mulheres e homens no trabalho, no emprego e na formação profissional, da proteção da parentalidade e da conciliação da atividade profissional com a vida familiar e pessoal;
+
+h) Criar e manter em funcionamento um centro de documentação, físico e eletrónico, acessível ao público.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 6.º — Composição
+
+1 - A CITE é composta pelos seguintes membros:
+
+a) Um representante do ministério com atribuições na área do emprego, que preside;
+
+b) Um representante do ministério com atribuições na área da igualdade;
+
+c) Um representante do ministério com atribuições na área da Administração Pública;
+
+d) Um representante do ministério com atribuições na área da solidariedade e da segurança social;
+
+e) Dois representantes de cada uma das associações sindicais com assento na Comissão Permanente de Concertação Social;
+
+f) Um representante de cada uma das associações patronais com assento na Comissão Permanente de Concertação Social.
+
+2 - Os membros da CITE podem ser substituídos a todo o tempo pela entidade que representam.
+
+3 - Além dos membros representantes efetivos, as entidades representadas indicam, pelo menos, um suplente.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 7.º — Presidente
+
+1 - A CITE é dirigida por um presidente, coadjuvado por um vice-presidente, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+2 - Sem prejuízo das competências que lhe sejam conferidas por lei, delegadas ou subdelegadas, compete ao presidente da CITE:
+
+a) Representar a CITE;
+
+b) Definir a ação da CITE de acordo com a missão prevista no artigo 2.º e coordenar as respetivas atividades segundo o plano de atividades anualmente aprovado em reunião plenária;
+
+c) Convocar e presidir às reuniões plenárias;
+
+d) Submeter a aprovação da CITE reunida em plenário os pareceres previstos nas alíneas a), b), c) e e) do artigo 3.º;
+
+e) Participar na definição, acompanhamento, execução e avaliação das políticas relativas à promoção da igualdade e da não discriminação entre mulheres e homens, no trabalho, no emprego e na formação profissional, da proteção da parentalidade e da conciliação da atividade profissional com a vida familiar e pessoal;
+
+f) Participar na definição, acompanhamento e avaliação da execução de planos nacionais relativos à igualdade e à não discriminação entre mulheres e homens, no trabalho, no emprego e na formação profissional, à proteção da parentalidade e à conciliação da atividade profissional com a vida familiar e pessoal;
+
+g) Intervir nos processos de preparação de instrumentos legislativos respeitantes à promoção da igualdade e da não discriminação entre mulheres e homens, no trabalho, no emprego e na formação profissional, à proteção da parentalidade e à conciliação da atividade profissional com a vida familiar e pessoal;
+
+h) Coordenar as reuniões mensais previstas no artigo 9.º;
+
+i) Assegurar a representação do Estado Português nas instâncias internacionais e europeias, no âmbito das respetivas atribuições.
+
+3 - O vice-presidente exerce as competências que lhe sejam delegadas ou subdelegadas pelo presidente, substituindo-o nas suas faltas e impedimentos.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 8.º — Mapa de cargos de direção
+
+Os lugares de direção superior de 1.º e 2.º graus, constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 9.º — Igualdade na negociação coletiva
+
+1 - Para efeitos do disposto no artigo 479.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, a CITE reúne mensalmente para apreciar de forma fundamentada a legalidade de disposições em matéria de igualdade e não discriminação constantes de instrumento de regulamentação coletiva de trabalho negocial ou de decisão arbitral em processo de arbitragem obrigatória ou necessária.
+
+2 - As reuniões mensais sobre igualdade na negociação coletiva integram os seguintes elementos:
+
+a) O presidente da CITE;
+
+b) Um representante de cada uma das entidades representadas na CITE;
+
+c) Um representante do serviço competente para as relações laborais do ministério com atribuições na área do emprego;
+
+d) Um representante do serviço com competência inspetiva no domínio laboral;
+
+e) Especialistas nas áreas da igualdade e não discriminação entre mulheres e homens no trabalho e no emprego e da negociação coletiva, no número máximo de quatro, a convite do presidente.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 10.º — Funcionamento
+
+1 - A CITE reúne em plenário por iniciativa do presidente ou de um terço dos seus membros.
+
+2 - A CITE só pode deliberar validamente com a presença da maioria dos seus membros, reunidos em plenário.
+
+3 - A CITE delibera por maioria dos votos dos membros presentes, tendo o presidente voto de qualidade.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 11.º — Recursos humanos e financeiros
+
+1 - O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), assegura a afetação de recursos humanos necessários ao cumprimento da missão da CITE.
+
+2 - Os encargos com o pessoal, apoio administrativo, logístico e de funcionamento da CITE, bem como os encargos decorrentes da prossecução das atribuições que lhe estão cometidas, são suportados pelo orçamento do IEFP, I. P.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 12.º — Cooperação com outras entidades
+
+1 - No exercício das respetivas atribuições, a CITE colabora com a Comissão para a Cidadania e Igualdade de Género e demais organismos encarregues da defesa da igualdade e não discriminação entre mulheres e homens, no trabalho, no emprego e na formação profissional, da proteção da parentalidade e da conciliação da atividade profissional com a vida familiar e pessoal.
+
+2 - No exercício das suas atribuições, a CITE pode solicitar informações e pareceres a qualquer entidade pública ou privada, bem como a colaboração de peritos quando se justifique.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 13.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 124/2010, de 17 de novembro.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 15 de março de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 19 de março de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.
+
+## Anexo — Mapa de cargos de dirigentes
+
+(a que se refere o artigo 8.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 78/2026 - Diário da República n.º 52/2026, Série I de 2026-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2026-1072545707), em vigor a partir de 2026-04-01.

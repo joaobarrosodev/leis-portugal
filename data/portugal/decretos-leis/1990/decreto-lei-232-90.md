@@ -1,0 +1,442 @@
+---
+schema_version: '1.0'
+id: pt:dre:575770:por
+title: Decreto-Lei n.º 232/90
+short_title: null
+summary: Estabelece os princípios a que deve obedecer o projecto, a construção, a exploração e a manutenção do sistema de
+  abastecimento dos gases combustíveis canalizados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 232/90
+official_date: null
+publication_date: '1990-07-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1990, Série I de 1990-07-16
+  number: '162'
+  series: I
+  supplement: null
+  pages: 2964 - 2967
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/07/16200/29642967.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2000-02-08'
+version_history:
+  file: decreto-lei-232-90.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1990-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-07-06'
+    amending: pt:dre:291639:por
+    amending_title: Decreto-Lei n.º 183/94
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+  - date: '2000-02-08'
+    amending: pt:dre:406096:por
+    amending_title: Decreto-Lei n.º 7/2000
+    changes:
+    - Adita Artigo 3.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/232/1990/p/cons/20000203/pt/html
+  oj: null
+  dre: '575770'
+  dre_path: /dr/detalhe/decreto-lei/232-1990-575770
+  internal: pt:dre:575770:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1990-575770
+  metadata_url: https://data.dre.pt/eli/dec-lei/232/1990/p/cons/20000203/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-839795002
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-839795002
+  retrieved_at: '2026-10-22T13:02:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d854c702306ad0d88ccde2114c1085646991a7e9ebf5511cda5c278ff535a966
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:02:40Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-232-90.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Combustível
+- Importação
+- Normalização
+- Normas de Construção
+- Segurança dos Edifícios
+relationships:
+- type: amended_by
+  target: pt:dre:291639:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1994-291639
+  date: '1994-07-01'
+- type: amended_by
+  target: pt:dre:406096:por
+  label: Adita Artigo 3.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096
+  date: '2000-02-03'
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:02:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 232/90
+
+Decreto-Lei n.º 232/90
+
+de 16 de Julho
+
+O Decreto-Lei n.º 374/89, de 25 de Outubro, veio definir o regime jurídico do serviço público de aprovisionamento, armazenagem e tratamento de gás natural liquefeito, transporte e distribuição de gás natural e dos seus gases de substituição.
+
+O funcionamento deste serviço exige a criação de complexas estruturas materiais.
+
+A publicação do presente diploma visa estabelecer as normas a que deve obedecer a constituição do sistema de infra-estruturas, composto pelo terminal de recepção, armazenagem e tratamento, pelos gasodutos de transporte, pelas redes de distribuição, pelas estações de compressão e pelos postos de redução de pressão.
+
+A natureza e a importância da construção deste sistema justificam a adopção de um processo especial de aprovação administrativa, bem como uma regulamentação específica a estabelecer por portarias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece os princípios a que deve obedecer o projecto, a construção, a exploração e a manutenção do sistema de abastecimento dos gases combustíveis canalizados referidos no artigo 1.º do Decreto-Lei n.º 374/89, de 25 de Outubro, com a redacção resultante das alterações que lhe foram sucessivamente introduzidas, adiante designado abreviadamente por 'sistema'.
+
+2 - Compõem o sistema:
+
+a) Os terminais de recepção, armazenagem e tratamento, adiante designado por 'terminal';
+
+b) Os gasodutos do 1.º e 2.º escalão;
+
+c) As redes de distribuição, quer as regionais quer as locais autónomas, incluindo as unidades autónomas de gás natural liquefeito;
+
+d) As estações de compressão, postos de redução de pressão e demais instalações incluídas no projecto do gás natural;
+
+e) As instalações de armazenagem, incluindo-se nestas as ligadas aos gasodutos ou às redes de distribuição;
+
+f) Os postos de enchimento de gás natural veicular;
+
+g) As redes de distribuição privativa.
+
+3 - A construção dos componentes do sistema deverá obedecer a projectos elaborados nos termos do presente diploma e dos regulamentos aplicáveis.
+
+4 - Os projectos a que se refere o número anterior devem ser submetidos a aprovação das entidades competentes pelas sociedades concessionárias ou licenciadas, nos termos do artigo seguinte.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2000 - Diário da República n.º 28/2000, Série I-A de 2000-02-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096), em vigor a partir de 2000-02-08
+
+###### Artigo 2.º — Aprovação
+
+1 - A construção dos componentes do sistema referidos nas alíneas a), b) e e) do n.º 2 do artigo anterior fica sujeita a aprovação dos respectivos projectos base pelo Ministro da Economia.
+
+2 - A construção dos demais componentes do sistema, referidos nas alíneas c), d), f) e g) do n.º 2 do artigo anterior fica sujeita à aprovação dos respectivos projectos base ou de detalhe pelo director-geral da Energia, caso se trate da rede de transporte, ou pelo director regional do Ministério da Economia territorialmente competente, nos restantes casos.
+
+3 - A aprovação do projecto base ou de detalhe, neste caso quando não tenha havido lugar a projecto base, é precedida da ponderação dos interesses sociais que envolver, designadamente os de segurança, preservação do ambiente e ordenamento do território.
+
+4 - Os projectos dos componentes do sistema referidos no n.º 1 são objecto de parecer prévio dos Ministérios da Defesa, do Equipamento Social, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, bem como dos municípios abrangidos pelas obras a executar, com vista à harmonização das construções que integram o projecto com os instrumentos de gestão territorial daqueles ministérios e municípios.
+
+5 - Os projectos dos componentes do sistema referidos no n.º 2 ficam sujeitos ao parecer das entidades administrativas cujos interesses possam ser afectados pela construção, devendo os projectos, sempre que possível, identificar esses interesses, competindo ao director-geral da Energia ou ao director regional do Ministério da Economia determinar, nos termos da legislação aplicável, as consultas a efectuar.
+
+6 - A aprovação dos projectos a que se refere o n.º 1 tem, nomeadamente, como efeitos:
+
+a) A declaração de utilidade pública da expropriação urgente dos bens imóveis e direitos a eles inerentes necessários à sua execução;
+
+b) O direito a constituir as servidões administrativas necessárias, nos termos da lei;
+
+c) A atribuição da licença necessária para a execução das obras integrantes do projecto e para a entrada em funcionamento das respectivas instalações;
+
+d) A proibição de embargar administrativamente as obras de execução, salvo com fundamento no não cumprimento do projecto aprovado.
+
+7 - No caso de aprovação dos projectos a que se refere o n.º 2, os efeitos previstos no número anterior dependem da prévia declaração de utilidade pública dos mesmos por parte do Ministro da Economia, a requerimento dos interessados.
+
+8 - Serão publicadas no Diário da República as plantas dos imóveis abrangidos por uma declaração de utilidade pública, sendo a publicação promovida pela Direcção-Geral da Energia, ou pelas direcções regionais do Ministério da Economia, consoante os casos, e os seus custos suportados pelas sociedades concessionária ou licenciadas.
+
+9 - A construção das redes de distribuição em vias públicas em zonas abrangidas por planos municipais e intermunicipais de ordenamento do território, pelas concessionárias ou pelas entidades titulares de licença, não carece de aprovação dos projectos previstos no presente artigo, devendo aquelas ponderar todas as eventuais interferências, designadamente junto das respectivas câmaras municipais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2000 - Diário da República n.º 28/2000, Série I-A de 2000-02-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096), em vigor a partir de 2000-02-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 183/94 - Diário da República n.º 150/1994, Série I-A de 1994-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1994-291639), em vigor a partir de 1994-07-06
+
+###### Artigo 3.º — Projectos de construção
+
+1 - Os projectos base de construção para qualquer dos componentes do sistema mencionados no n.º 2 do artigo 1.º devem integrar:
+
+a) Memória descritiva e justificativa;
+
+b) Planta de localização, com implantação dos principais componentes;
+
+c) Descrição detalhada dos dispositivos de segurança de que a instalação fica dotada, incluindo comunicações e telecomunicações internas e externas, sempre que necessárias;
+
+d) Planos de segurança e emergência para casos de acidentes;
+
+e) Indicação das principais normas e códigos técnicos a observar no projecto, na construção e na operação;
+
+f) Análise dos impactes ambientais resultantes da construção e da exploração da instalação, através da realização do respectivo estudo, devendo este obrigatoriamente mencionar as medidas necessárias para minimizar os impactes negativos evidenciados;
+
+g) Planeamento da construção, com a indicação das previsíveis ampliações ou extensões;
+
+h) Estrutura organizacional.
+
+2 - O disposto na alínea f) do número anterior não é aplicável às redes de distribuição.
+
+3 - Os projectos de detalhe para cada um dos componentes do sistema a seguir indicados devem integrar:
+
+a) Para o terminal:
+
+I) Estudos geológicos do local;
+
+II) Diagrama processual de funcionamento;
+
+III) Diagrama de massas;
+
+IV) Descrição das áreas destinadas aos serviços técnicos e administrativos de apoio ao funcionamento;
+
+V) Indicação de que o projecto tem em conta as regras aplicáveis ao acesso de navios de transporte de gases combustíveis liquefeitos;
+
+VI) Projecto e programa das dragagens de estabelecimento e manutenção a realizar;
+
+VII) Indicação do limite máximo do calado dos navios que venham a utilizar o terminal;
+
+b) Para os gasodutos do 1.º e 2.º escalão:
+
+I) Implantação das tubagens e dos diversos equipamentos;
+
+II) Indicação das cotas do terreno e das profundidades de assentamento das tubagens;
+
+III) Localização dos pontos fixos ou sinalizadores que assinalam a presença das tubagens;
+
+IV) Indicação dos diâmetros, espessuras e tipos de materiais da tubagem, assim como dos dispositivos para a sua protecção;
+
+V) Indicação dos locais e áreas reservados à serventia para construção, inspecção e operações de manutenção;
+
+VI) Localização dos dispositivos de regulação e corte de caudal de gás, de segurança, de manutenção e da aparelhagem de medição e controlo;
+
+c) Para as redes de distribuição:
+
+I) Implantação das tubagens e dos diversos equipamentos;
+
+II) Indicação das cotas do terreno e das profundidades de assentamento das tubagens;
+
+III) Indicação dos diâmetros, espessuras e tipos dos materiais de toda a tubagem da rede, assim como dos dispositivos para a sua protecção;
+
+IV) Localização dos dispositivos de regulação e corte do caudal de gás, de segurança, de manutenção e da aparelhagem de medição e controlo;
+
+d) Para as estações de compressão, postos de redução de pressão:
+
+I) Diagrama processual de funcionamento;
+
+II) Implantação das tubagens e dos diversos equipamentos;
+
+III) Indicação dos diâmetros, espessuras e tipos de materiais das tubagens, assim como dos dispositivos para a sua protecção;
+
+IV) Indicação dos dispositivos de regulação e corte do caudal de gás, de segurança, de manutenção e da aparelhagem de medição e controlo;
+
+V) Indicação dos locais e áreas reservados às serventias para construção, inspecção e operações de manutenção;
+
+e) Para as instalações de armazenagem subterrânea:
+
+I) Estudos de prospecção geológica, geofísica e geomecânica;
+
+II) Arquitectura dos poços, designadamente programas e técnicas de perfuração, testes dos testemunhos, cimentação, tubagem e cabeças dos poços;
+
+III) Diagramas mecânicos e eléctricos relativos às instalações;
+
+IV) Especificações dos materiais e equipamentos;
+
+V) Implantação das instalações;
+
+VI) Descrição das instalações auxiliares;
+
+VII) Indicação dos locais e áreas reservadas a serventia para a construção, inspecção e operações de manutenção, quando impliquem utilização de prédios de terceiros;
+
+f) Para as instalações autónomas de gás natural liquefeito e para os postos de enchimento as especificações definidas nos respectivos regulamentos técnicos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2000 - Diário da República n.º 28/2000, Série I-A de 2000-02-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096), em vigor a partir de 2000-02-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 183/94 - Diário da República n.º 150/1994, Série I-A de 1994-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1994-291639), em vigor a partir de 1994-07-06
+
+###### Artigo 3.º-A — Normas de construção e de segurança das instalações, gasodutos e redes de distribuição
+
+1 - As normas de construção e de segurança das instalações, gasodutos e redes de distribuição constam de regulamento.
+
+2 - No caso de levantamento de terrenos ou de pavimentos, a empresa transportadora ou distribuidora de gás obriga-se a proceder à reposição dos mesmos, bem como à reparação de todos os prejuízos que resultarem das obras executadas, quer nos pavimentos quer nas propriedades particulares ou públicas, de acordo com os regulamentos aplicáveis.
+
+3 - Verificando-se a situação prevista na primeira parte do número anterior e concorrendo, para o mesmo local, trabalhos ou obras, da responsabilidade de outras entidades, que, pela sua natureza, impliquem uma operação final de reposição de terrenos ou pavimentos, deverá a forma da concretização da mesma ser acordada entre a empresa transportadora ou distribuidora do gás e aquelas entidades, de modo à realização dessa tarefa por uma única operação.
+
+4 - Os casos urgentes de reparações, nomeadamente roturas eventuais, não estão sujeitos à concessão prévia de licenças de obras.
+
+5 - Nos casos previstos no número anterior, a empresa transportadora ou distribuidora de gás deverá proceder com urgência às reparações necessárias e comunicá-las à entidade competente, no prazo máximo de três dias úteis, para regularização da respectiva licença da obra.
+
+6 - Ao proceder ao tipo de reparações de emergência referidas no n.º 4, o pessoal técnico da empresa transportadora ou distribuidora de gás poderá ordenar as medidas que entender necessárias em matéria de segurança de zona afectada, nomeadamente no que respeita ao trânsito, à permanência de pessoas, ao corte de energia eléctrica ou outras medidas de emergência eventualmente necessárias.
+
+7 - As medidas referidas no número anterior devem ser prontamente comunicadas às entidades oficiais competentes, as quais prestarão, de imediato, todo o apoio e acompanhamento requeridos, em ordem à manutenção da segurança das pessoas e bens.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2000 - Diário da República n.º 28/2000, Série I-A de 2000-02-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096), em vigor a partir de 2000-02-08
+
+###### Artigo 4.º — Normas técnicas aplicáveis
+
+A hierarquia de preferência das normas técnicas aplicáveis aos projectos, construção, manutenção e exploração a que se refere o presente diploma deve obedecer à seguinte ordem:
+
+a) Normas europeias;
+
+b) Normas internacionais;
+
+c) Normas portuguesas;
+
+d) Na falta das normas referidas nas alíneas anteriores, as aceites, para o efeito, pela Direcção-Geral de Energia.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 183/94 - Diário da República n.º 150/1994, Série I-A de 1994-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1994-291639), em vigor a partir de 1994-07-06
+
+###### Artigo 5.º — Características e controlo dos componentes do sistema
+
+As características dos componentes do sistema e os controlos a que ficam submetidos durante e após o seu fabrico constarão dos regulamentos técnicos respectivos, a aprovar por portaria do Ministro da Indústria e Energia.
+
+###### Artigo 6.º — Capacidade técnica
+
+Só podem projectar, executar e manobrar componentes do sistema técnicos profissionalizados devidamente habilitados para as respectivas funções, nos termos do Decreto-Lei n.º 263/89, de 17 de Agosto.
+
+###### Artigo 7.º — Telas finais dos projectos
+
+1 - Terminados os trabalhos de construção e os ensaios de qualquer dos componentes do sistema, deve a entidade concessionária entregar ao Ministério da Indústria e Energia as correspondentes telas finais, concebidas com o mesmo grau de especificação requerido para a elaboração do projecto e incluindo todas as alterações que lhe tenham sido introduzidas.
+
+2 - Para além de todas as peças escritas e desenhadas correspondentes ao projecto, tal como executado, consideram-se parte integrante das telas finais os respectivos suportes informáticos, os quais devem ser compatíveis com o sistema a definir pela concessionária.
+
+3 - A entrega deve ser feita no prazo de 90 dias contados a partir da data em que a entidade fiscalizadora tenha dado a execução do projecto por concluída.
+
+4 - A concessionária deve conservar em arquivo o cadastro, histórico e actualizado, de todo o processo.
+
+5 - As plantas finais das redes de distribuição não sujeitas a licenciamento prévio devem ser apresentadas, pelas entidades distribuidoras, em suporte informático, até 15 de Janeiro ou até 15 de Julho de cada ano, relativamente às obras efectuadas respectivamente no 1.º ou 2.º semestre, devendo constar devidamente referenciados todos os elementos exigíveis num projecto de detalhe, a sua localização, bem como as eventuais interferências com outras instalações existentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2000 - Diário da República n.º 28/2000, Série I-A de 2000-02-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096), em vigor a partir de 2000-02-08
+
+###### Artigo 8.º — Verificação das ligações
+
+As entidades às quais incumbe a fiscalização das actividades a que se refere o presente diploma devem verificar as ligações dos componentes, podendo, para o efeito, exigir cópias dos documentos definidores dos métodos de soldadura utilizados e ainda dos comprovativos da qualificação dos soldadores, assim como dos certificados de qualidade dos materiais utilizados.
+
+###### Artigo 9.º — Manutenção
+
+1 - A concessionária fica obrigada a proceder à inspecção periódica, à manutenção e a todas as reparações necessárias ao bom funcionamento dos componentes do sistema pelos quais seja responsável.
+
+2 - Ao proceder a reparações de emergência, o pessoal técnico da concessionária pode ordenar as medidas que entender necessárias em matéria de segurança da zona afectada, nomeadamente no que respeita ao trânsito, à permanência de pessoas, ao corte de energia eléctrica ou outras medidas de emergência eventualmente necessárias.
+
+3 - As medidas referidas no número anterior devem ser prontamente comunicadas às entidades oficiais competentes, as quais devem prestar, de imediato, todo o apoio e acompanhamento requeridos, em ordem à salvaguarda da segurança das pessoas e bens.
+
+4 - Sempre que se verifique qualquer acidente, deve a concessionária tomar as medidas adequadas e enviar à Direcção-Geral de Energia, no prazo máximo de 15 dias, um relatório circunstanciado.
+
+###### Artigo 10.º — Fiscalização
+
+A competência para a fiscalização do cumprimento do disposto no presente diploma, bem como na legislação que o regulamenta, cabe à Direcção-Geral de Energia e às delegações regionais do Ministério da Indústria e Energia, que podem recorrer, para tal efeito, a organismos de capacidade reconhecida pelo Ministro da Indústria e Energia.
+
+###### Artigo 11.º — Sanções
+
+1 - Constitui contra-ordenação punível com coima de 2000000$00 a 6000000$00 a infracção ao disposto no n.º 1 do artigo 2.º
+
+2 - A violação do disposto nos n.os 1 e 4 do artigo 9.º constitui contra-ordenação punível com coima de 1500000$00 a 5000000$00.
+
+3 - A infracção ao disposto no n.º 4 do artigo 7.º e, bem assim, o fornecimento de dados a que alude o artigo 8.º, quando errados ou incompletos, bem como a sua recusa, constituem contra-ordenações puníveis com coima de 1000000$00 a 4000000$00.
+
+4 - A negligência é punível.
+
+5 - O regime sancionatório relativo à violação das normas fixadas pelas portarias referidas no artigo 5.º e no artigo 13.º será estabelecido por decreto regulamentar.
+
+###### Artigo 12.º — Tramitação processual
+
+1 - A iniciativa para a instauração e instrução dos processos de contra-ordenação previstas no presente diploma compete às entidades às quais, nos termos do artigo 10.º, fica cometida a fiscalização.
+
+2 - A aplicação das coimas é da competência do director-geral de Energia e o produto das mesmas é distribuído da seguinte forma:
+
+a) 60% para o Estado;
+
+b) 20% para a Direcção-Geral de Energia;
+
+c) 20% para as delegações regionais respectivas do Ministério da Indústria e Energia.
+
+###### Artigo 13.º — Regulamentação
+
+As normas técnicas de execução necessárias à regulamentação do presente diploma, nomeadamente as respeitantes ao projecto, construção, exploração e manutenção dos componentes do sistema, são fixadas por portaria do Ministro da Indústria e Energia.
+
+###### Artigo 14.º — Requisitos para o exercício da actividade de projectista
+
+O artigo 8.º do estatuto anexo ao Decreto-Lei n.º 263/89, de 17 de Agosto, passa a ter a seguinte redacção:
+
+Artigo 8.º
+
+[...]
+
+...
+
+a) ...
+
+b) Fazer parte dos departamentos de engenharia do gás das empresas distribuidoras há mais de seis meses ou declarar, por escrito e sob compromisso de honra, conhecer e dar integral cumprimento ao conteúdo de legislação, normas e documentos técnicos DT Gás aplicáveis.
+
+###### Artigo 15.º — Definição de servidões
+
+O artigo 10.º do Decreto-Lei n.º 374/89, de 25 de Outubro, passa a ter a seguinte redacção:
+
+Artigo 10.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - A ocupação temporária de terrenos para depósitos de materiais e equipamento necessários à colocação dos gasodutos, sua reparação ou renovação não poderá exceder 36 m de largura numa faixa sobre as tubagens.
+
+Visto e aprovado em Conselho de Ministros de 17 de Maio de 1990. - Aníbal Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Nunes Ferreira Real.
+
+Promulgado em 27 de Junho de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 30 de Junho de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640610:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/2001-957617990",
+ "dre_path": "/dr/detalhe/decreto/37-2001-640610",
+ "source_lastmod": "2025-11-28",
+ "versions": [
+  {
+   "date": "2001-09-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953218352",
+    "953218353",
+    "953218354"
+   ]
+  }
+ ],
+ "fragments": {
+  "953218352": {
+   "fragment_id": "957617991",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 37/2001\n\nde 19 de Setembro\n\nAs acções terroristas perpetradas no dia 11 nos Estados Unidos da América, que causaram um número indeterminado de vítimas, não podem deixar ninguém indiferente, exigindo da comunidade internacional uma resposta de unidade, tranquilidade e segurança.\n\nEntende, por isso, o Governo exprimir o mais sentido pesar do povo português pelas trágicas consequências daqueles actos, num inequívoco sinal de solidariedade para com o povo norte-americano.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "953218353": {
+   "fragment_id": "957617992",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ declarado luto nacional por três dias."
+  },
+  "953218354": {
+   "fragment_id": "957617993",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente decreto produz efeitos a partir de 12 de Setembro de 2001."
+  }
+ }
+}

@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:471933:por
+title: Decreto-Lei n.º 220/80
+short_title: null
+summary: Dá nova redacção aos artigos 16.º e 17.º do Decreto-Lei n.º 439/73, de 3 de Setembro (reserva e reforma dos oficiais
+  da GNR e GF)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna e das Finanças e do Plano
+proposing_entity: null
+official_number: 220/80
+official_date: null
+publication_date: '1980-07-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 158/1980, Série I de 1980-07-11
+  number: '158'
+  series: I
+  supplement: null
+  pages: 1619 - 1620
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15800/16191620.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471933'
+  dre_path: /dr/detalhe/decreto-lei/220-1980-471933
+  internal: pt:dre:471933:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1980-471933
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1980-471933
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 64b8e45bacc0dbf090b7b53dd3f953430add82b078552afc052ce500b5618810
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-220-471933.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 220/80
+
+de 11 de Julho
+
+Considerando que o [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764), de 28 de Dezembro, introduziu substanciais alterações nos regimes de reserva e de reforma dos oficiais dos quadros permanentes das forças armadas, os quais, ressalvadas algumas especificidades, têm constituído o paradigma dos sistemas de reserva e de reforma dos oficiais de complemento em serviço na Guarda Nacional Republicana e na Guarda Fiscal;
+
+Considerando que o regime de reserva e de reforma destes oficiais constam dos artigos 16.º e 17.º do [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, normas que urge adequar às alterações de regime instituídas pelo [Decreto-Lei n.º 514/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1979-365764);
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. Os artigos 16.º e 17.º do [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, passam a ter a seguinte redacção:
+
+Art.16.º - 1 - Transitam para a situação de reserva os oficiais abrangidos por qualquer das condições indicadas nas alíneas seguintes:
+
+a) Tendo prestado menos de cinco anos de serviço, sejam julgados fisicamente incapazes para o serviço no activo pela Junta Superior de Saúde da Guarda Nacional Republicana ou da Guarda Fiscal, que comprove ser a incapacidade resultante de :
+
+1.º Acidente ocorrido no serviço ou por motivo do mesmo;
+
+2.º Doença adquirida em serviço ou por motivo do mesmo;
+
+b) Tendo prestado cinco ou mais anos de serviço:
+
+1.º Atinjam as idades a seguir indicadas:
+
+... Anos
+
+Tenentes-coronéis ... 64
+
+Majores ... 62
+
+Capitães ... 60
+
+Subalternos ... 58
+
+2.º Sejam julgados fisicamente incapazes para o serviço no activo pela respectiva junta superior de saúde;
+
+3.º Sejam colocados nesta situação, nos termos do Regulamento de Disciplina Militar;
+
+4.º Optem pela sua colocação nessa situação quando completados doze meses de impedimento por doença ou por licença da junta, ou de um adicionado ao outro, não se achando a junta, por razões devidamente justificadas, habilitada a pronunciar-se sobre a sua capacidade ou incapacidade definitiva;
+
+c) Tendo prestado quinze ou mais anos de serviço:
+
+1.º Desistam de tirocínios, cursos ou provas exigidos como condições de promoção ao posto imediato;
+
+2.º Não tenham tido aproveitamento nos cursos ou provas exigidos para promoção;
+
+3.º Revelem não possuir capacidade para o desempenho das funções que competem ao posto imediato;
+
+4.º Requeiram a passagem à reserva e esta lhes seja concedida;
+
+d) Requeiram a passagem à reserva depois de completarem trinta e seis anos de serviço.
+
+2 - A passagem à situação de reserva de um oficial que atinja o limite de idade fixado no n.º 1.º da alínea b) do número anterior para o respectivo posto é sustada quando se verifique a existência de vacatura em data anterior àquela em que atingiu o limite de idade e de cujo preenchimento possa vir a resultar a sua promoção.
+
+3 - A passagem à reserva ao abrigo do disposto nos n.os 1.º, 2.º e 3.º da alínea c) do n.º 1 do presente artigo só deverá, porém, verificar-se nas condições que forem estabelecidas no respectivo estatuto e noutra legislação aplicável.
+
+4 - A data da passagem à reserva é a data em que, nos termos legais, o militar for considerado abrangido pela condição que a motivou.
+
+###### Art. 17.º - 1 - Transitam para a situação de reforma os oficiais que deixem de estar no activo ou na reserva por serem abrangidos por qualquer das seguintes condições:
+
+a) Tendo prestado cinco ou mais anos de serviço:
+
+1.º Sejam julgados incapazes de todo o serviço pela Junta Superior de Saúde da Guarda Nacional Republicana ou da Guarda Fiscal, consoante os casos;
+
+2.º Revelem incapacidade para o desempenho das funções que pertencem ao seu posto;
+
+3.º Sejam colocados nessa situação nos termos do Regulamento de Disciplina Militar;
+
+4.º Optem pela sua colocação nessa situação quando completados doze meses de impedimento por doença ou licença da junta, ou de um adicionado ao outro, não se achando a junta, por razões devidamente justificadas, habilitada a pronunciar-se sobre a sua capacidade ou incapacidade definitiva;
+
+5.º Atinjam os 70 anos de idade;
+
+b) Requeiram a passagem à reforma depois de completados 60 anos de idade e trinta e seis de serviço;
+
+c) Reúnam as condições estabelecidas na lei para reforma extraordinária.
+
+2 - A passagem dos oficiais à situação de reforma ao abrigo do n.º 2.º da alínea a) do número anterior só poderá ter lugar se a incapacidade se manifestar durante o exercício das funções para que estejam nomeados ou nos cursos e estágios que forem obrigados a frequentar.
+
+3 - A data da passagem à situação de reforma é a data em que, nos termos legais, o militar for considerado abrangido pela condição que a motivou.
+
+4 - A passagem dos oficiais à situação de reforma nos termos dos n.os 2.º e 3.º da alínea a) do n.º 1 do presente artigo é da competência dos Ministros da Administração Interna ou das Finanças e do Plano, sob proposta nominal do respectivo comandante-geral.
+
+Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 2 de Julho de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

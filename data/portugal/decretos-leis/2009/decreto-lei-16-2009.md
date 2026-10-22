@@ -1,0 +1,740 @@
+---
+schema_version: '1.0'
+id: pt:dre:397359:por
+title: Decreto-Lei n.º 16/2009
+short_title: null
+summary: Aprova o regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal e revoga os Decretos-Leis
+  n.os 204/99 e 205/99, ambos de 9 de Junho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 16/2009
+official_date: null
+publication_date: '2009-01-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2009, Série I de 2009-01-14
+  number: '9'
+  series: I
+  supplement: null
+  pages: 268 - 273
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00900/0026800273.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-01-22'
+version_history:
+  file: decreto-lei-16-2009.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-01-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-27'
+    amending: pt:dre:307874:por
+    amending_title: Decreto-Lei n.º 114/2010
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 24.º
+  - date: '2014-02-19'
+    amending: pt:dre:572470:por
+    amending_title: Decreto-Lei n.º 27/2014
+    changes:
+    - Altera Artigo 13.º
+  - date: '2017-06-13'
+    amending: pt:dre:107507170:por
+    amending_title: Decreto-Lei n.º 65/2017
+    changes:
+    - Adita Capítulo VII
+    - Adita Artigo 24.º-A
+    - Adita Artigo 24.º-B
+    - Adita Artigo 24.º-C
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Capítulo II
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+  - date: '2019-01-22'
+    amending: pt:dre:118051704:por
+    amending_title: Decreto-Lei n.º 11/2019
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 25.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/16/2009/p/cons/20190121/pt/html
+  oj: null
+  dre: '397359'
+  dre_path: /dr/detalhe/decreto-lei/16-2009-397359
+  internal: pt:dre:397359:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359
+  metadata_url: https://data.dre.pt/eli/dec-lei/16/2009/p/cons/20190121/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-106555669
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-106555669
+  retrieved_at: '2026-10-22T12:10:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6f9ac70f1d4bda82e7c94cdee9dc2daf9862d62977328f235a6abdc21f523714
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:10:35Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-16-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ARH
+- Associação de Municípios
+- Agrupamento de Produtores
+- Comissão de Acompanhamento
+- Definição de Competências
+- Arborização
+- Proteção da Floresta
+- Fiscalização
+- Comissão de Coordenação e Desenvolvimento Regional
+- Ordenamento Florestal
+- Plano de Gestão Florestal
+- Proteção do Ambiente
+- Plano Especifico de Intervenção Florestal
+- Exploração Florestal
+- Plano Regional de Ordenamento Florestal
+- Autoridade Florestal Nacional
+- Baldio
+- Madeira.região Autónoma
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Regime Jurídico
+- Política Florestal
+- Autoridade Nacional de Protecção Civil
+- Açores
+- Superficie Arborizada
+relationships:
+- type: amended_by
+  target: pt:dre:307874:por
+  label: Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874
+  date: '2010-10-22'
+- type: amended_by
+  target: pt:dre:572470:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470
+  date: '2014-02-18'
+- type: amended_by
+  target: pt:dre:107507170:por
+  label: Adita Capítulo VII; Adita Artigo 24.º-A; Adita Artigo 24.º-B; Adita Artigo 24.º-C; Altera Artigo 1.º; Altera Artigo
+    3.º; Altera Capítulo II; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º;
+    Altera Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170
+  date: '2017-06-12'
+- type: amended_by
+  target: pt:dre:118051704:por
+  label: Altera Artigo 4.º; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/140/
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/140/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/204/1999/06/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/1999/06/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/205/1999/06/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/205/1999/06/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/232/2007/06/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/232/2007/06/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/63/1998/09/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/63/1998/09/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/68/1993/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/68/1993/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1185/2004/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1185/2004/09/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+article_structure:
+  article_count: 30
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:10:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 16/2009
+
+Decreto-Lei n.º 16/2009
+
+de 14 de Janeiro
+
+Os princípios orientadores da política florestal consagrados na Lei n.º 33/96, de 17 de Agosto, Lei de Bases da Política Florestal, determinam que cabe a todos os cidadãos a responsabilidade de conservar e proteger a floresta, pela diversidade e natureza dos bens e serviços que proporciona, que o uso e gestão da floresta devem ser levados a cabo de acordo com políticas e prioridades de desenvolvimento nacionais, que os recursos da floresta e os sistemas naturais associados devem ser geridos de modo sustentável para responder às necessidades das gerações presentes e futuras, sendo que os detentores de áreas florestais são responsáveis pela execução de práticas de silvicultura e gestão de acordo com normas reguladoras da fruição dos recursos florestais.
+
+Nesta matriz de política florestal foi definido um conjunto de instrumentos de política sectorial e de gestão territorial enquadradores dos princípios da Lei de Bases da Política Florestal.
+
+Em 1999 foram definidos e iniciada a elaboração dos planos regionais de ordenamento florestal (PROF), como instrumentos sectoriais de gestão territorial, estabelecendo regionalmente o conjunto de normas que regulam as intervenções nos espaços florestais. No âmbito do diploma que regula os PROF, Decreto-Lei n.º 204/99, de 9 de Junho, foi instituída a necessidade de adopção da figura dos planos de gestão florestal (PGF), aplicáveis de acordo com as disposições de cada um dos PROF.
+
+O processo de elaboração, aprovação e execução dos PGF foi definido no Decreto-Lei n.º 205/99, de 9 de Junho, sendo que este diploma estabelecia igualmente as normas para outra figura de planeamento, os planos de utilização de baldios (PUB), definidos na Lei dos Baldios, Lei n.º 68/93, de 4 de Setembro.
+
+Mais tarde, com a publicação da Portaria n.º 1185/2004, de 15 de Setembro, foram ainda definidas as normas para a elaboração dos planos de defesa da floresta (PDF), previstos no Sistema Nacional de Prevenção e Protecção da Floresta contra Incêndios, aprovado pelo Decreto-Lei n.º 124/2006, de 28 de Junho.
+
+Na presença deste conjunto de instrumentos de política e de planeamento, com carências técnicas e de operacionalização já identificadas, importa rever, simplificar e codificar a legislação aplicável neste domínio com o objectivo de agilizar o processo de elaboração dos diferentes planos e facilitar a sua real agregação e implementação ao terreno, permitindo igualmente concretizar territorialmente as orientações constantes na Estratégia Nacional para as Florestas, aprovada pela Resolução do Conselho de Ministros n.º 114/2006, de 15 de Setembro.
+
+Importa pois estabelecer três níveis distintos de planeamento: um nível regional ou supramunicipal, onde os PROF sejam elaborados de forma mais articulada com outros instrumentos de planeamento territorial; um nível local e enquadrador da gestão florestal, onde importa simplificar e agilizar a elaboração e operacionalização dos PGF, consagrando nestes os PUB, e um nível operacional e de resposta a constrangimentos específicos da gestão florestal, com a preparação de planos específicos de intervenção florestal que permitam actuar em zonas de risco de incêndio, perante pragas e doenças, ou outras situações como a recuperação de solos degradados ou obras de correcção torrencial.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Foi promovida a audição da Associação Nacional de Freguesias.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 33/96, de 17 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente decreto-lei aprova o regime jurídico dos programas e planos de ordenamento, de gestão e de intervenção de âmbito florestal.
+
+2 - O presente decreto-lei aplica-se a todo o território continental português.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Áreas florestais sensíveis» as áreas que, do ponto de vista do risco de incêndio, da exposição a pragas e doenças, da sensibilidade à erosão, e da importância ecológica, social e cultural, impõem normas e medidas especiais de planeamento e intervenção, podendo assumir designações diversas consoante a natureza da situação a que se referem;
+
+b) «Espaços florestais» os terrenos ocupados com floresta, matos e pastagens ou outras formações vegetais espontâneas, segundo os critérios definidos no Inventário Florestal Nacional;
+
+c) «Exploração florestal e agro-florestal» o prédio ou conjunto de prédios ocupados, total ou parcialmente, por espaços florestais, pertencentes a um ou mais proprietários e que estão submetidos a uma gestão única;
+
+d) «Ordenamento florestal» o conjunto de normas que regulam as intervenções nos espaços florestais com vista a garantir, de forma sustentada, o fluxo regular de bens e serviços por eles proporcionados;
+
+e) «Produção sustentada» a oferta regular e contínua de bens e serviços nas gerações presentes, sem afectar a capacidade das gerações futuras em garantir a oferta desses mesmos bens e serviços;
+
+f) «Proprietários ou outros produtores florestais» os proprietários, usufrutuários, superficiários, arrendatários ou quem, a qualquer título, for possuidor ou detenha a gestão os terrenos que integram os espaços florestais, independentemente da sua natureza jurídica.
+
+###### Artigo 3.º — Tipologia de programa e planos
+
+1 - Os programas e planos de âmbito florestal são dos seguintes tipos:
+
+a) Programas regionais de ordenamento florestal (PROF);
+
+b) Planos de gestão florestal (PGF);
+
+c) Planos específicos de intervenção florestal (PEIF).
+
+2 - Os planos de utilização de baldios previstos nos artigos 6.º a 8.º da Lei n.º 68/93, de 4 de Setembro, são considerados, para todos os efeitos, planos de gestão florestal, obedecendo às mesmas regras de elaboração, de discussão, de aprovação, de execução e de revisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+### Capítulo II — Programas regionais de ordenamento florestal
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 4.º — Definição de programa regional de ordenamento florestal
+
+1 - O PROF é o instrumento programático de concretização de política setorial à escala da região, que estabelece as normas específicas de utilização e exploração florestal dos seus espaços, de acordo com os objetivos previstos na Estratégia Nacional para as Florestas, com a finalidade de garantir a produção sustentada do conjunto de bens e serviços a eles associados.
+
+2 - O PROF estabelece as normas específicas de intervenção, utilização e exploração dos espaços florestais, de modo a promover e garantir a produção sustentada do conjunto de bens e serviços a eles associados, na salvaguarda dos objectivos previstos na Estratégia Nacional para as Florestas.
+
+3 - Em caso de sobreposição de áreas abrangidas pelo PROF e por programas especiais ou setoriais, aquele deve proceder à integração das disposições nestes contidas relativamente à ocupação e utilização florestal.
+
+4 - As normas constantes no PROF vinculam directamente todas as entidades públicas.
+
+5 - Os PROF vinculam ainda, direta e imediatamente, os particulares relativamente:
+
+a) À elaboração dos planos de gestão florestal;
+
+b) Às normas de intervenção nos espaços florestais;
+
+c) Aos limites de área a ocupar por eucalipto.
+
+6 - Ficam excluídas do disposto no número anterior as normas com incidência territorial urbanística.
+
+7 - Os Planos Diretores Municipais devem adaptar as suas disposições ao conteúdo dos PROF, com os quais devam ser compatíveis, nos termos do disposto no artigo 121.º do Decreto-Lei n.º 80/2015, de 14 de maio, envolvendo, obrigatoriamente, a atualização das respetivas plantas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2019-118051704), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 5.º — Âmbito geográfico
+
+Os PROF têm como base territorial de referência as unidades, ou conjunto de unidades, de nível III da nomenclatura de unidades territoriais para fins estatísticos (NUTS).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 6.º — Conteúdo dos PROF
+
+1 - Os PROF desenvolvem, a nível regional, as opções e os objectivos da Estratégia Nacional para as Florestas, definem as respectivas normas de execução, a expressão da política definida e estão articulados com os demais instrumentos de gestão territorial aplicáveis.
+
+2 - Os PROF são constituídos por um documento estratégico e por um regulamento e integram as peças gráficas necessárias à representação da respectiva expressão territorial.
+
+3 - O documento estratégico, também designado relatório, inclui:
+
+a) Caracterização sócio-económica e biofísica da área abrangida;
+
+b) Identificação das funções de produção, protecção e conservação do solo, dos recursos hídricos e da biodiversidade, silvopastorícia, caça e pesca em águas interiores, os recursos geológicos e as energias renováveis, recreio e enquadramento paisagístico, a regulação do clima e a capacidade de fixação de carbono;
+
+c) Indicação dos modelos gerais de silvicultura e de gestão dos recursos florestais mais adequados;
+
+d) Ponderação sobre os mecanismos de internalização dos benefícios decorrentes dos serviços dos ecossistemas florestais e dos serviços ambientais;
+
+e) Definição e delimitação das áreas florestais sensíveis;
+
+f) Análise estratégica, com fundamentação técnica das opções e objectivos estabelecidos.
+
+4 - O regulamento, que define as normas de execução, contém:
+
+a) As orientações de gestão e de intervenção;
+
+b) Os ónus sobre territórios incluídos no regime florestal total e parcial;
+
+c) Os usos compatíveis e regras para o seu desenvolvimento, incluindo limitações do uso do solo florestal;
+
+d) As circunstâncias técnicas em que as explorações florestais e agro-florestais ficam obrigadas à existência de um PGF.
+
+5 - O conteúdo desenvolvido dos instrumentos previstos no presente artigo é definido por portaria do membro do Governo responsável pela área das florestas.
+
+###### Artigo 7.º — Elaboração dos PROF
+
+1 - A elaboração dos PROF é da responsabilidade do Instituto da Conservação da Natureza e Florestas, I. P. (ICNF, I. P.).
+
+2 - A elaboração dos PROF é determinada por despacho do membro do Governo responsável pela área das florestas, do qual devem, nomeadamente, constar:
+
+a) A finalidade do instrumento de política sectorial, com menção expressa dos interesses públicos prosseguidos;
+
+b) O âmbito territorial do instrumento de política sectorial, com menção expressa das autarquias locais envolvidas;
+
+c) O prazo de elaboração;
+
+d) As exigências procedimentais ou de participação que em função da complexidade da matéria ou dos interesses a salvaguardar se considere serem de adoptar para além do procedimento definido no presente decreto-lei;
+
+e) A indicação da obrigatoriedade de sujeição do programa a avaliação ambiental nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 232/2007, de 15 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 8.º — Acompanhamento
+
+1 - Para cada processo de elaboração do PROF é constituída uma comissão de acompanhamento, que integra:
+
+a) Um representante do ICNF, I. P., que coordena;
+
+b) [Revogada];
+
+c) Um representante da Autoridade Nacional de Protecção Civil;
+
+d) Um representante da comissão de coordenação e desenvolvimento regional da área a que respeita o PROF;
+
+e) Um representante da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), da área a que respeita o PROF;
+
+f) Um representante de cada associação de municípios correspondentes à área de incidência do PROF;
+
+g) Um representante das organizações de produtores florestais existentes no território de abrangência;
+
+h) Um representante das organizações de indústrias florestais com maior representatividade na área abrangida pelo PROF.
+
+i) Um representante das organizações não governamentais de ambiente;
+
+j) Um representante dos prestadores de serviços florestais;
+
+k) Um representante das federações de baldios, nos casos em que se verifique a existência de baldios na área de abrangência do PROF.
+
+2 - Nos casos em que se verifique a existência de baldios na área de abrangência do PROF, integra ainda a comissão de acompanhamento um representante das federações de baldios.
+
+3 - A comissão fica obrigada a um acompanhamento assíduo e continuado dos trabalhos de elaboração do programa, devendo, no final, apresentar um parecer escrito, assinado por todos os seus membros, com menção expressa da orientação defendida.
+
+4 - No decurso da elaboração do PROF, o ICNF, I. P., solicita parecer a outras entidades ou serviços da administração central representativos dos interesses a ponderar, bem como aos municípios abrangidos, os quais se devem pronunciar no prazo de 22 dias, findo o qual na ausência de parecer se considera nada terem a opor à proposta de programa.
+
+5 - Quando o ICNF, I. P., assim o determine, os pareceres previstos no número anterior podem ser emitidos em conferência de serviços, aplicando-se com as necessárias adaptações o disposto no artigo 9.º
+
+6 - O parecer final da comissão deve exprimir a apreciação realizada pelas diversas entidades representadas, bem como das entidades ouvidas nos termos dos n.os 4 e 5.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 9.º — Funcionamento da comissão de acompanhamento
+
+1 - A designação dos representantes dos serviços e entidades da administração directa ou indirecta do Estado para a comissão de acompanhamento inclui a delegação ou subdelegação dos poderes adequados para efeitos de vinculação daqueles serviços e entidades.
+
+2 - A posição manifestada pelos representantes dos serviços e entidades da administração direta ou indireta do Estado no parecer previsto no n.º 6 do artigo anterior substitui os pareceres que aqueles serviços e entidades devessem emitir, a qualquer título, sobre o programa, nos termos legais e regulamentares.
+
+3 - Caso o representante de um serviço ou entidade não manifeste, na reunião da comissão de acompanhamento que aprova o parecer final, a sua concordância com as soluções projectadas, ou, apesar de regularmente convocado, não compareça à reunião, considera-se que o serviço ou entidade por si representado nada tem a opor à proposta de PROF desde que não manifeste a sua discordância no prazo de cinco dias após a comunicação do resultado da reunião.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 10.º — Participação na elaboração dos PROF
+
+1 - Concluída a elaboração da proposta de PROF e emitidos os pareceres previstos nos artigos anteriores ou decorridos os prazos aí fixados, o ICNF, I. P., procede à abertura de um período de discussão pública da proposta de programa setorial através de aviso a publicar com a antecedência de cinco dias, no Diário da República, e a divulgar através da comunicação social e do sítio na Internet do ICNF, I. P.
+
+2 - Durante o período de discussão pública, que é sempre superior a 30 dias, a proposta de programa, os pareceres emitidos ou a ata da conferência de serviços são divulgados no sítio na Internet do ICNF, I. P., e nos sítios na Internet dos municípios incluídos no respetivo âmbito de aplicação, podendo o processo físico ser consultado na sede do ICNF, I. P., e na sede dos seus departamentos desconcentrados.
+
+3 - A discussão pública consiste na recolha de observações e sugestões sobre as soluções da proposta de programa setorial.
+
+4 - Findo o período de discussão pública, o ICNF, I. P., pondera e divulga os respetivos resultados, designadamente através da comunicação social e do seu sítio na Internet, e elabora a versão final da proposta para aprovação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 11.º — Aprovação dos PROF
+
+1 - Os PROF são aprovados por portaria do membro do Governo responsável pela área das florestas ou, caso integrem áreas classificadas, por portaria dos membros do Governo responsáveis pelas áreas das florestas e do ambiente.
+
+2 - Os Planos Diretores Municipais devem adaptar as suas disposições ao conteúdo dos PROF nos termos e no prazo definidos, respetivamente, na alínea a) do n.º 2 do artigo 51.º e no n.º 2 do artigo 199.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a [Decreto-Lei n.º 114/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874), em vigor a partir de 2010-10-27
+
+### Capítulo III — Planos de gestão florestal
+
+###### Artigo 12.º — Definição de plano de gestão florestal
+
+1 - O PGF é um instrumento de administração de espaços florestais que, de acordo com as orientações definidas no PROF, determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionado e tendo em conta as actividades e os usos dos espaços envolventes.
+
+2 - As opções de natureza económica contidas no PGF são determinadas livremente pelos titulares das áreas abrangidas.
+
+###### Artigo 13.º — Obrigatoriedade de elaboração de PGF
+
+1 - Ficam obrigatoriamente sujeitos à elaboração de PGF:
+
+a) As explorações florestais e agro-florestais públicas e comunitárias;
+
+b) As explorações florestais e agro-florestais privadas de dimensão igual ou superior às definidas nos respectivos PROF;
+
+c) [Revogada];
+
+d) As zonas de intervenção florestal (ZIF), nos termos da legislação especial.
+
+2 - Os proprietários ou outros produtores florestais que se encontrem obrigados pelo PGF da ZIF que integram ficam excluídos da necessidade de elaboração de outro PGF.
+
+3 - Sem prejuízo do disposto no n.º 1, podem os proprietários ou outros produtores florestais privados submeter voluntariamente as mesmas a PGF.
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 27/2014 - Diário da República n.º 34/2014, Série I de 2014-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470), em vigor a partir de 2014-02-19
+
+> Alterado pelo/a [Decreto-Lei n.º 114/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874), em vigor a partir de 2010-10-27
+
+###### Artigo 14.º — Elaboração dos PGF
+
+1 - A elaboração dos PGF compete ao ICNF, I. P., ou às autarquias locais, como entidade pública responsável pela sua gestão, no caso dos territórios previstos na alínea a) do n.º 1 do artigo anterior, no prazo de três anos contados da data da publicação do PROF respetivo, podendo, no caso de explorações florestais e agroflorestais comunitárias em regime de associação com o Estado, ser estabelecido protocolo atribuindo essa competência aos órgãos de administração dos baldios.
+
+2 - No caso das explorações florestais e agro-florestais comunitárias referidas na alínea a) do n.º 1 do artigo 13.º e não incluídas no número anterior, a elaboração dos PGF compete aos órgãos de administração dos baldios.
+
+3 - [Revogado].
+
+4 - A elaboração dos PGF relativos aos territórios previstos na alínea b) do n.º 1 do artigo 13.º compete aos respectivos proprietários ou outros produtores florestais.
+
+5 - A elaboração dos PGF relativos aos territórios previstos na alínea d) do n.º 1 do artigo 13.º compete à respectiva entidade gestora.
+
+6 - Os PGF relativos a explorações florestais e agroflorestais que se candidatem a fundos nacionais ou da União Europeia devem ser elaborados e aprovados previamente ou em simultâneo ao desenvolvimento do projeto apoiado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 15.º — Conteúdo dos PGF
+
+1 - Os PGF são constituídos por um documento de avaliação, por um modelo de exploração e por peças gráficas.
+
+2 - O documento de avaliação inclui:
+
+a) A caracterização dos recursos existentes, nomeadamente nas suas componentes florestal, silvopastoril, de caça e pesca nas águas interiores, e aproveitamento de outros recursos;
+
+b) [Revogada].
+
+3 - O modelo de exploração inclui:
+
+a) Programa de gestão da produção lenhosa;
+
+b) Programa de aproveitamento dos recursos não lenhosos e outros serviços associados;
+
+c) Programa de gestão da biodiversidade, sempre que estejam abrangidos por áreas classificadas.
+
+4 - As normas técnicas de elaboração dos PGF são definidas por regulamento do conselho diretivo do ICNF, I. P., e publicitadas no seu sítio na Internet.
+
+5 - Os PGF das zonas de intervenção florestal regem-se pelo regime de criação de zonas de intervenção florestal, aprovado pelo Decreto-Lei n.º 127/2005, de 5 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+### Capítulo IV — Planos específicos de intervenção florestal
+
+###### Artigo 16.º — Definição de plano específico de intervenção florestal
+
+O PEIF é um instrumento específico de intervenção em espaços florestais que determina acções de natureza cultural, visando a prevenção e o combate a agentes bióticos e abióticos, que pode revestir diferentes formas consoante a natureza dos objectivos a atingir.
+
+###### Artigo 17.º — Obrigatoriedade de elaboração de PEIF
+
+1 - Ficam obrigatoriamente sujeitos à elaboração de PEIF todos os territórios que, por efeito das disposições legais ou notificação do ICNF, I. P., se obriguem a medidas extraordinárias de intervenção.
+
+2 - Sem prejuízo do disposto no número anterior, podem os proprietários ou outros produtores florestais privados submeter voluntariamente as suas explorações a PEIF.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 18.º — Elaboração dos PEIF
+
+1 - A elaboração dos PEIF compete:
+
+a) Ao Estado nos territórios sob sua gestão;
+
+b) Aos órgãos de administração dos baldios nos territórios sob sua gestão;
+
+c) À entidade gestora das ZIF;
+
+d) Aos proprietários ou outros produtores florestais privados.
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 19.º — Conteúdo dos PEIF
+
+1 - Os PEIF são constituídos por um documento de avaliação, por um plano operacional e por peças gráficas.
+
+2 - O documento de avaliação inclui:
+
+a) A caracterização dos recursos existentes;
+
+b) [Revogada];
+
+c) A sua compatibilização com o respectivo PROF.
+
+3 - O plano operacional inclui:
+
+a) Carta síntese das intervenções preconizadas e respectivos indicadores de execução;
+
+b) Orçamento estimado;
+
+c) Mecanismos e procedimentos de coordenação entre os vários intervenientes individuais e colectivos.
+
+4 - O desenvolvimento técnico do conteúdo dos instrumentos previstos nos números anteriores é definido pelo conselho diretivo do ICNF, I. P., e publicitado no seu sítio na Internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+### Capítulo V — Participação e aprovação dos PGF e dos PEIF
+
+###### Artigo 20.º — Participação na elaboração dos PGF
+
+1 - Nos territórios geridos pelo Estado, pelas autarquias locais e nos baldios, a proposta de PGF é obrigatoriamente submetida a apresentação pública.
+
+2 - O período de apresentação é iniciado através de publicação de aviso num jornal de âmbito regional e no sítio na Internet do ICNF, I. P., devendo o aviso indicar o período de apresentação e os locais onde se encontra a consulta o plano e a forma de apresentação de sugestões e observações.
+
+3 - Previamente à aprovação final, os PGF relativos aos baldios carecem de aprovação prévia da maioria simples dos compartes presentes na assembleia geral, prevista no artigo 19.º da Lei n.º 63/98, de 4 de Setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 21.º — Aprovação dos PGF
+
+1 - Os PGF são aprovados pelo ICNF, I. P., que dispõe de um prazo de 30 dias para os apreciar, findo o qual deve ser comunicada a decisão aos interessados.
+
+2 - No decurso do prazo referido no número anterior, os PGF são submetidos a parecer da CCDR e das entidades que o ICNF, I. P., entenda conveniente consultar, os quais devem ser emitidos no prazo de 15 dias contados da data do pedido, suspendendo-se o prazo previsto no número anterior.
+
+3 - Quando o PGF incida sobre áreas classificadas, o ICNB, I. P., elabora parecer no prazo de 15 dias contados da data do pedido, suspendendo-se o prazo previsto no n.º 1.
+
+4 - Sempre que o ICNB, I. P., emita parecer favorável aos PGF que incidam sobre áreas integradas na Rede Natura 2000, ficam dispensadas de parecer as operações florestais referidas nas alíneas b) a d) do n.º 2 do artigo 9.º do Decreto-Lei n.º 140/99, de 24 de Abril, na redacção que lhe foi dada pelo Decreto-Lei n.º 49/2005, de 24 de Fevereiro, quando conformes com o PGF.
+
+5 - Quando os PGF incidam sobre zonas terrestres de protecção de albufeiras, lagoas ou lagos de águas públicas, nos termos do regime de protecção de albufeiras de águas públicas de serviço público e das lagoas ou lagos de águas públicas, e quando cumulativamente impliquem reconversão ou requalificação de povoamentos, são submetidos a parecer das ARH das áreas a que respeitam, o qual deve ser emitido no prazo de 15 dias contados da data do pedido, suspendendo-se o prazo previsto no n.º 1.
+
+6 - Uma vez decorrido o prazo de 30 dias previsto no n.º 1, e sem prejuízo das suspensões a que se referem os n.os 2, 3 e 5, caso não haja qualquer comunicação aos interessados, consideram-se aprovados os PGF.
+
+7 - Quando os pareceres a que se referem o n.os 2, 3 e 5 não forem emitidos no prazo previsto para o efeito, consideram-se os mesmos favoráveis.
+
+8 - Não são devidas taxas nem quaisquer outros encargos pela emissão dos pareceres obrigatórios referidos no presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 22.º — Aprovação dos PEIF
+
+1 - Os PEIF são aprovados pelo ICNF, I. P., que dispõe de um prazo de 30 dias para os apreciar, findo o qual deve ser comunicada a decisão aos interessados.
+
+2 - No decurso do prazo referido no número anterior, os PEIF são submetidos a parecer das entidades que o ICNF, I. P., entenda conveniente consultar, o qual deve ser emitido no prazo de 15 dias contados da data do pedido, suspendendo-se o prazo previsto no número anterior.
+
+3 - Sem prejuízo do disposto no número anterior, são obrigatoriamente ouvidas as seguintes entidades, cujo parecer é emitido no prazo de 15 dias, suspendendo-se o prazo previsto no n.º 1:
+
+a) Autoridade fitossanitária nacional, nos planos destinados à prevenção e combate a agentes bióticos;
+
+b) Autoridade Nacional de Protecção Civil, nos planos destinados à prevenção e combate a agentes abióticos.
+
+4 - Uma vez decorrido o prazo de 30 dias previsto no n.º 1, e sem prejuízo das suspensões a que se referem os n.os 2 e 3, caso não haja qualquer comunicação aos interessados consideram-se aprovados os PEIF.
+
+5 - Nos casos em que o ICNF, I. P., entenda que as ações previstas nos PEIF podem ter impacte sobre os recursos hídricos, pode o mesmo, antes da sua aprovação, solicitar parecer à APA, I. P., à qual se aplica o disposto no n.º 2.
+
+6 - Quando o parecer a que se referem os n.os 2, 3 e 5 não for emitido no prazo previsto para o efeito, considera-se o mesmo favorável.
+
+7 - Não são devidas taxas nem quaisquer outros encargos pela emissão dos pareceres obrigatórios referidos no presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+### Capítulo VI — Vigência, alteração e revisão dos PROF, PGF e PEIF
+
+###### Artigo 23.º — Vigência
+
+1 - Os PROF vigoram pelo prazo máximo de 25 anos contados a partir da data da sua publicação.
+
+2 - O PGF vigora enquanto vigorar o respectivo PROF.
+
+3 - Os PEIF vigoram pelo prazo máximo de 10 anos.
+
+###### Artigo 24.º — Alteração e revisão
+
+1 - Os PROF e os PGF podem ser sujeitos a alteração ou a revisão sempre que se verifiquem factos relevantes que o justifiquem.
+
+2 - A verificação da ocorrência de facto relevante para efeitos de alteração ou revisão dos PROF é determinada por portaria do membro do Governo responsável pela área das florestas ou, caso integre áreas classificadas, por portaria dos membros do Governo responsáveis pelas áreas das florestas e do ambiente, respetivamente, mediante proposta do ICNF, I. P.
+
+3 - A alteração ou a revisão dos PROF deve ocorrer no prazo de dois anos após a publicação da portaria referida no número anterior, devendo ser adoptados os procedimentos previstos no presente decreto-lei para a respectiva elaboração, aprovação e publicidade, com as devidas e necessárias adaptações.
+
+4 - A portaria a que se refere o n.º 2 pode determinar a suspensão, total ou parcial, do PROF objecto de alteração ou revisão, estabelecendo o respectivo prazo.
+
+5 - As novas orientações introduzidas por via da alteração ou revisão dos PROF devem ser contempladas em sede da primeira alteração ou revisão dos PGF que ocorra posteriormente àquelas.
+
+6 - Os efeitos dos PGF não revistos perduram pelo prazo máximo de três anos após a aprovação da alteração ou revisão dos respetivos PROF.
+
+7 - Os interessados podem requerer ao ICNF, I. P., até ao termo do prazo referido no número anterior, a emissão de uma declaração de desnecessidade de adaptação dos PGF, na medida em que estes se conformem com os respetivos PROF entretanto aprovados ou revistos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+> Alterado pelo/a [Decreto-Lei n.º 114/2010 - Diário da República n.º 206/2010, Série I de 2010-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874), em vigor a partir de 2010-10-27
+
+### Capítulo VII — Fiscalização e sanções
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 24.º-A — Fiscalização
+
+1 - A fiscalização do cumprimento das disposições previstas no presente decreto-lei é da competência do ICNF, I. P.
+
+2 - Sempre que qualquer entidade competente tome conhecimento de situações que indiciem a prática de uma contraordenação prevista no presente decreto-lei, deve dar notícia ao ICNF, I. P., e remeter-lhe toda a documentação de que disponha, para efeito de instauração e instrução do processo de contraordenação e consequente decisão.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 24.º-B — Contraordenações
+
+1 - Constitui contraordenação punível com coima de (euro) 500,00 a (euro) 3 700,00, no caso de pessoas singulares, e de (euro) 2 500,00 a (euro) 44 000,00 no caso de pessoas coletivas:
+
+a) O incumprimento do disposto na alínea b) do n.º 1 do artigo 13.º;
+
+b) O incumprimento do disposto no n.º 1 do artigo 17.º
+
+2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
+
+4 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 24.º-C — Afetação do produto das coimas
+
+O produto das coimas é afetado da seguinte forma:
+
+a) 20 % para a entidade que levanta o auto de notícia da infração;
+
+b) 20 % para o ICNF, I. P.;
+
+c) 60 % para o Estado.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+### Capítulo VIII — Disposições transitórias e finais
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170)
+
+###### Artigo 25.º — Norma transitória
+
+1 - Os PROF atualmente em vigor mantêm a sua vigência até à aprovação dos novos PROF que os venham substituir.
+
+2 - Os PGF que se encontrem a aguardar aprovação pelo ICNF, I. P., são apreciados e decididos de acordo com a legislação vigente à data da sua apresentação.
+
+3 - Os PGF e os planos de defesa da floresta das zonas de intervenção florestal regem-se pela legislação especial aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2019-118051704), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2017-107507170), em vigor a partir de 2017-06-13
+
+###### Artigo 26.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 204/99, de 9 de Junho;
+
+b) O Decreto-Lei n.º 205/99, de 9 de Junho;
+
+c) A Portaria n.º 1139/2006, de 25 de Outubro.
+
+###### Artigo 27.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Gonçalo André Castilho dos Santos - José Manuel dos Santos de Magalhães - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
+
+Promulgado em 23 de Dezembro de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 26 de Dezembro de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

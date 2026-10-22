@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:326541:por
+title: Portaria n.º 703/78
+short_title: null
+summary: Fixa os preços a praticar pela Administração-Geral do Açúcar e do Álcool na campanha de 1978-1979 para o figo industrial
+  e aguardente de figo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e Pescas e do Comércio e Turismo
+proposing_entity: null
+official_number: 703/78
+official_date: null
+publication_date: '1978-12-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 279/1978, Série I de 1978-12-05
+  number: '279'
+  series: I
+  supplement: null
+  pages: 2560 - 2560
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/27900/25602560.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '326541'
+  dre_path: /dr/detalhe/portaria/703-1978-326541
+  internal: pt:dre:326541:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1978-326541
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1978-326541
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-12-07T00:00:00Z'
+integrity:
+  source_sha256: 64d66b6d0ceb1620d7b220f04f91de9f301009a0c8a0fa1c2a121d2353fbc60d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-703-326541.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:366595:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 703/78
+
+de 5 de Dezembro
+
+O presente diploma estabelece os preços a praticar pela Administração-Geral do Açúcar e do Álcool na campanha de 1978-1979 para o figo industrial e aguardente de figo.
+
+Os valores encontrados baseiam-se na necessidade de ajustar estes preços aos aumentos verificados nos custos de produção.
+
+Nestes termos:
+
+Ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Agricultura e Pescas e do Comércio e Turismo, o seguinte:
+
+1.º O preço do figo industrial posto nas destilarias indicadas pela Administração-Geral do Açúcar e do Álcool, isento de impurezas e com grau de humidade normal, é fixado em 100$00 por arroba.
+
+2.º Sempre que o figo apresente impurezas ou grau de humidade anormal, o preço fixado sofrerá descontos proporcionais à incidência desses factores.
+
+3.º O preço da aguardente de figo, na base de 50º x 20º, posta na fábrica de álcool, é de 12$93 por litro.
+
+4.º A margem de laboração da aguardente, na base de 50º x 20º, posta nas rectificadoras a indicar pela Administração-Geral do Açúcar e do Álcool, tendo em consideração o rendimento mínimo de 8,75 l por arroba de figo, é de 1$50.
+
+5.º Na aplicação da margem de laboração referida no n.º 4 poderá ser considerado, sempre que devidamente justificado, o rendimento mínimo que, caso a caso, venha a ser fixado pela Administração-Geral do Açúcar e do Álcool.
+
+6.º É livre o preço da aguardente de figo engarrafada destinada ao consumo directo.
+
+7.º Esta portaria aplica-se apenas ao continente.
+
+8.º As dúvidas surgidas na aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio Interno.
+
+9.º Fica revogada a [Portaria n.º 597/77](https://diariodarepublica.pt/dr/detalhe/portaria/597-1977-285940), de 20 de Setembro.
+
+10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 15 de Novembro de 1978. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - Pelo Ministro do Comércio e Turismo, António Escaja Gonçalves, Secretário de Estado do Comércio Interno.

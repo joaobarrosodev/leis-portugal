@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:469859:por
+title: Portaria n.º 20397
+short_title: null
+summary: Cria com carácter temporário, integrada na Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes da província
+  de Angola, uma missão destinada à fiscalização da pontual e integral execução das obras e financiamentos que ficam incorporados
+  no Património do Estado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Obras Públicas e Comunicações - Direcção dos Serviços de Transportes Terrestres
+proposing_entity: null
+official_number: '20397'
+official_date: null
+publication_date: '1964-02-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 49/1964, Série I de 1964-02-27
+  number: '49'
+  series: I
+  supplement: null
+  pages: 356 - 358
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '469859'
+  dre_path: /dr/detalhe/portaria/20397-1964-469859
+  internal: pt:dre:469859:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20397-1964-469859
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20397-1964-469859
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-05-07T00:00:00Z'
+integrity:
+  source_sha256: d73a6de2918dd7949900d1a890e46f7a66e181a271420c3361c124f8d4c8cb77
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-20397-469859.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:582600:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20397
+
+Com vista à resolução do problema dos transportes abaixo referidos, foi celebrado, em 19 de Novembro de 1958, entre o Governo-Geral da província de Angola e a Companhia Mineira do Lobito e Sociedade Mineira do Lombige (a seguir designadas simplesmente por «Companhias») um contrato pelo qual estas se obrigaram a proceder ao apetrechamento do caminho de ferro e porto de Moçâmedes, por forma a tornar possível em condições económicas o transporte e embarque da sua produção mineira, construindo também, para o efeito, os ramais de ligação das minas ao caminho de ferro de Moçâmedes.
+
+Ficou estipulado no mesmo contrato que todas as obras e apetrechamentos ferroviários e portuários ficariam integrados no Património do Estado, sem qualquer ónus, estabelecendo-se o meio de amortização dos respectivos custos.
+
+Para cumprimento do estatuído naquele documento, as Companhias celebraram, em 4 de Março de 1961, sob aprovação e garantia do Governo Português, um contrato geral com o consórcio constituído pelas firmas Fried. Krupp, Essen, [([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf) & Schultz A/S, Copenhaga, e Sociedade de Empreitadas e Trabalhos Hidráulicos, Lda., Lisboa e Luanda (contrato no qual mais tarde se interessaram outras empresas especializadas), para a execução das obras e o fornecimento do material e equipamento necessário à consecução daquele objectivo, estabelecendo-se que os serviços a prestar e os fornecimentos a efectuar seriam posteriormente regulados por convenções especiais a celebrar entre as Companhias e o consórcio e sujeitas à aprovação do Governo Português.
+
+Prevê-se para breve o início da execução das correspondentes obras e fornecimentos, cabendo ao Governo Português, através dos órgãos competentes, proceder a conveniente fiscalização, no sentido de assegurar o inteiro cumprimento dos contratos firmados e a oportuna realização do empreendimento e de habilitar os serviços do porto e caminho de ferro de Moçâmedes a devidamente enfrentarem as novas condições de exploração que ele forçosamente acarretará.
+
+Nestas condições e tendo em vista o disposto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, com as alterações introduzidas pelos Decretos n.os 44465, de 16 de Julho de 1962, 44730, de 24 de Novembro de 1962, e 45083, de 24 de Junho de 1963:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+1.º É criada com carácter temporário, integrada na Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes da província de Angola, uma missão destinada à fiscalização da pontual e integral execução das obras e fornecimentos que ficam incorporados no Património do Estado e constam dos contratos e convenções referidos nesta portaria.
+
+§ único. Sempre que tal seja aconselhado pela natureza dos assuntos, serão constituídas brigadas especializadas, directamente subordinadas à missão.
+
+2.º À missão compete designadamente proceder à fiscalização e recepção das obras e fornecimentos destinados ao Estado que são objecto do contrato geral e das convenções especiais celebrados entre as Companhias e o consórcio formado pelas firmas Fried. Krupp, Essen, [([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf) & Schultz A/S, Copenhaga, Morrison-Knudsen, S. Francisco, Cal., Société Gregg d'Europe, S. A., Lot e Sociedade de Empreitadas e Trabalhos Hidráulicos, Lda., Lisboa e Luanda, contratos esses aprovados e garantidos pelo Governo Português.
+
+3.º No âmbito das actividades definidas no artigo anterior, são atribuições da missão:
+
+a) Fiscalizar o cumprimento do contrato e das convenções especiais já referidos;
+
+b) Promover as expropriações e aquisições ou arrendamento de prédios ou terrenos necessários para a execução das obras e montagens, incluindo estaleiros e respectivos acessos;
+
+c) Estudar e informar todos os desenhos de execução de obras e instalações e de fabricação do equipamento, propondo as alterações havidas por convenientes;
+
+d) Fiscalizar o fabrico de materiais e equipamentos;
+
+e) Fiscalizar a execução de obras e montagens;
+
+f) Proceder à recepção, nas fábricas, dos materiais e equipamento;
+
+g) Proceder às recepções provisórias e definitivas das obras, instalações e equipamento;
+
+h) Colaborar com os outros sectores da Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola na preparação do pessoal especializado necessário à exploração das novas instalações e equipamento.
+
+4.º A missão será chefiada por um engenheiro civil, de livre escolha do Ministro do Ultramar, e constituída pelos elementos que constarão de um quadro oportunamente aprovado por portaria ministerial.
+
+§ 1.º No prazo de três meses, a partir da data da sua nomeação, o chefe da missão submeterá à apreciação ministerial, por intermédio da Direcção-Geral de Obras Públicas e Comunicações, proposta fundamentada relativa à constituição do quadro referido no corpo deste artigo.
+
+§ 2.º Enquanto a missão não dispuser do pessoal do quadro necessário ao desempenho das funções que lhe competem, a Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola providenciará no sentido de suprir as deficiências que se verifiquem, sempre que tal seja solicitado pelo chefe da missão.
+
+5.º O pessoal do quadro referido no artigo anterior provirá, em regra, dos serviços dos portos, caminhos de ferro e transportes de Angola e exercerá as funções que nele lhe sejam atribuídas em comissão ordinária de serviço.
+
+§ único. Quando se verifique impossibilidade ou dificuldade grave daqueles serviços no preenchimento das vagas existentes no quadro da missão, poderá admitir-se pessoal de outros quadros, igualmente em comissão ordinária, ou contratar-se indivíduos estranhos aos serviços públicos, nos termos do disposto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.
+
+6.º Independentemente das unidades e respectivas designações funcionais que constarão do quadro mencionado no artigo anterior, poderá ser contratado, nos termos do § 2.º do artigo 45.º do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, com a redacção que lhe foi dada pelo artigo 21.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 Maio de 1962, o pessoal técnico e administrativo que ocasionalmente se verifique necessário à execução dos trabalhos.
+
+§ único. A missão poderá assalariar o pessoal auxiliar que se torne necessário ao bom desempenho dos trabalhos a seu cargo, conforme o exijam as conveniências do serviço.
+
+7.º Os vencimentos do pessoal, bem como quaisquer outras remunerações, nos casos em que os seus quantitativos não resultem já de disposições legais aplicáveis, serão fixados por despacho do Ministro do Ultramar ou do governador-geral de Angola, quando para tal tenha competência própria ou delegada.
+
+8.º Prèviamente autorizado pelo Ministro do Ultramar, poderá deslocar-se ao estrangeiro o pessoal da missão que de tal haja necessidade para conveniente exercício das funções que lhe incumbem.
+
+9.º O director dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola submeterá a despacho do governador-geral todos os assuntos referentes à missão cuja resolução não seja da sua competência.
+
+10.º Trimestralmente, o engenheiro-chefe elaborará relatórios acerca das actividades da missão, independentemente de outros que haja por necessário apresentar; tais relatórios subirão a despacho do governador-geral, por intermédio do director dos Serviços dos Portos, Caminhos de Ferro e Transportes, sendo um exemplar de cada um deles remetido à Direcção-Geral de Obras Públicas e Comunicações para apreciação pelo Ministro do Ultramar.
+
+11.º Os assuntos que excedam a competência do governador-geral de Angola serão presentes, com a necessária rapidez, a despacho do Ministro do Ultramar, por intermédio da Direcção-Geral de Obras Públicas e Comunicações.
+
+12.º As despesas com o funcionamento da missão criada pela presente portaria correrão pela verba a inscrever na tabela de despesa extraordinária do orçamento geral da província, sob a rubrica:
+
+Outras despesas extraordinárias:
+
+Missão de Estudo e Fiscalização das Obras e Fornecimentos para Transportes de Minérios no Sul de Angola.
+
+13.º Para efeitos do número anterior, fica o Governo-Geral autorizado a, observadas as disposições legais aplicáveis, abrir o crédito especial necessário, tomando como contrapartida disponibilidades ou recursos orçamentais, ou, na sua falta, os saldos das contas de exercícios findos ou as receitas do Fundo de Fomento.
+
+14.º No exercício da função de fiscalização das obras e fornecimentos que lhe é atribuída no n.º 1.º desta portaria e, de um modo geral, no exercício da sua actividade, a missão regular-se-á, nos casos omissos, pelas disposições legais em vigor para casos análogos, que sejam aplicáveis.
+
+Ministério do Ultramar, 27 de Fevereiro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de Angola. - Peixoto Correia.

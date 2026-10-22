@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:575745:por
+title: Decreto-Lei n.º 231/90
+short_title: null
+summary: Estabelece regras relativas ao processo de comparticipação pelo Estado no preço de medicamentos prescritos no âmbito
+  do Serviço Nacional de Saúde e do regime de protecção social dos funcionários públicos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Educação e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 231/90
+official_date: null
+publication_date: '1990-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/1990, Série I de 1990-07-14
+  number: '161'
+  series: I
+  supplement: null
+  pages: 2960 - 2961
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/07/16100/29602961.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575745'
+  dre_path: /dr/detalhe/decreto-lei/231-1990-575745
+  internal: pt:dre:575745:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1990-575745
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1990-575745
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-07-14T00:00:00Z'
+integrity:
+  source_sha256: 040bc986a3b528ddbc6bf7e596d593df1fd8eb2f1b2fc2ffb915384a70696e10
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-231-575745.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 231/90
+
+de 14 de Julho
+
+O regime de comparticipação dos medicamentos pelo Estado destina-se a assegurar, por um lado, a disponibilidade de um fornecimento adequado aos utentes do Serviço Nacional de Saúde e beneficiários da ADSE e, por outro, a contribuir para a promoção da saúde.
+
+A disparidade de critérios de comparticipação existente nos Estados membros levou a que as Comunidades Europeias decidissem torná-los objectivos e verificáveis, tendo em vista assegurar a transparência do processo de decisão, sem que, no entanto, constituam medidas restritivas à concorrência e livre circulação das especialidades farmacêuticas.
+
+Neste sentido, os pedidos de comparticipação passam a ser decididos no prazo máximo de 90 dias e notificados os requerentes das decisões fundamentadas, as quais são susceptíveis de recurso, nos termos legais.
+
+O presente diploma visa, pois, adaptar ao direito interno as disposições da Directiva n.º [89/105/CEE](http://data.europa.eu/eli/dir/1989/105/oj?locale=pt), de 21 de Dezembro de 1988, nos aspectos respeitantes à comparticipação de medicamentos, uma vez que a matéria relativa aos preços foi já objecto de tratamento legal, através da Portaria n.º 29/90, de 13 de Janeiro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente diploma destina-se a estabelecer o regime processual a utilizar em relação à comparticipação do Estado no preço dos medicamentos prescritos aos utentes do Serviço Nacional de Saúde e aos beneficiários do regime de protecção social dos funcionários públicos.
+
+###### Artigo 2.º — Escalões de comparticipação
+
+1 - A comparticipação do Estado no preço dos medicamentos é fixada de acordo com os seguintes escalões:
+
+a) Escalão A - o custo dos medicamentos é inteiramente suportado pelo Estado;
+
+b) Escalão B - a comparticipação do Estado é de 80% do preço dos medicamentos;
+
+c) Escalão C - a comparticipação do Estado é de 50% do preço dos medicamentos.
+
+2 - O nível de comparticipação do Estado no preço dos citostáticos, factores de coagulação, tuberculostáticos, antilepróticos e hormonas de crescimento pode ser graduado diferencialmente em função das entidades que os prescrevem ou fornecem.
+
+###### Artigo 3.º — Entidade competente
+
+A decisão de incluir, não incluir ou excluir medicamentos da comparticipação é da competência do Ministro da Saúde.
+
+###### Artigo 4.º — Autorização
+
+1 - O titular da autorização de introdução no mercado de um medicamento, após a obtenção do preço, pode requerer a comparticipação, mediante requerimento dirigido ao Ministro da Saúde.
+
+2 - O requerimento deve ser acompanhado de fotocópia da autorização de introdução no mercado, indicações terapêuticas, preço autorizado e outros elementos considerados úteis à apreciação do processo.
+
+###### Artigo 5.º — Prazos
+
+1 - A decisão de comparticipar um medicamento deve ser tomada no prazo de 90 dias a contar da data de entrada do pedido.
+
+2 - Sempre que as informações fornecidas forem consideradas insuficientes, o prazo suspende-se, devendo ser notificado o requerente para as completar dentro do prazo que lhe for fixado.
+
+3 - Se não for dado cumprimento ao disposto no número anterior, considera-se o pedido sem efeito.
+
+###### Artigo 6.º — Critérios de comparticipação
+
+Os critérios a respeitar na inclusão, não inclusão e exclusão da comparticipação de medicamentos obedecem aos seguintes parâmetros:
+
+a) Medicamentos contendo novas moléculas que venham preencher lacunas terapêuticas por apresentarem características verdadeiramente inovadoras;
+
+b) Medicamentos novos, com composição qualitativa idêntica à de outros já comercializados e comparticipados, se, em idêntica forma farmacêutica, apresentarem preço inferior ao mais baixo dos comparticipados, sendo o preço expresso por unidade de massa do seu princípio activo;
+
+c) Medicamentos novos, com composição qualitativa idêntica à de outros já comercializados e comparticipados, se a forma farmacêutica for diferente e existir reconhecida vantagem e ou necessidade de ordem terapêutica;
+
+d) Medicamentos novos que não constituam inovação terapêutica significativa nem possuam composição qualitativa idêntica à de outros já comparticipados, se for mais favorável a relação custo/benefício por eles apresentada relativamente a medicamentos já comparticipados utilizados com as mesmas finalidades terapêuticas e possuindo idênticos mecanismos de acção;
+
+e) Associações medicamentosas em que entrem na sua composição substâncias activas já comparticipadas, se for demonstrada a sua vantagem terapêutica e se o preço não for superior ao somatório dos preços dos mesmos medicamentos, quando administrados isoladamente em idênticas posologias;
+
+f) Associações medicamentosas de substâncias activas que não existam no mercado isoladamente e que demonstrem vantagens sobre medicamentos do mesmo grupo terapêutico, através dos resultados de ensaios clínicos realizados.
+
+###### Artigo 7.º — Fundamentação
+
+1 - A decisão de incluir e não incluir ou excluir medicamentos da comparticipação deve respeitar os critérios previstos no artigo anterior, podendo, eventualmente, incluir pareceres ou recomendações de peritos em que a decisão se fundamente.
+
+2 - A decisão fundamentada deve ser notificada ao requerente, sendo susceptível de recurso contencioso, nos termos gerais.
+
+###### Artigo 8.º — Publicação
+
+1 - A lista dos medicamentos incluídos e excluídos da comparticipação deve ser publicada no Diário da República, pelo menos, uma vez por ano.
+
+2 - A lista referida no número anterior deve ser elaborada por escalão de comparticipação, princípio activo, denominação, dosagem e forma farmacêutica.
+
+###### Artigo 9.º — Prescrição
+
+Apenas os medicamentos prescritos em modelo aprovado de receita médica podem ser comparticipados.
+
+###### Artigo 10.º — Norma transitória
+
+A lista completa dos medicamentos comparticipados à data da entrada em vigor do presente diploma deve ser publicada no Diário da República até 31 de Dezembro de 1990.
+
+###### Artigo 11.º — Revogações
+
+São revogados:
+
+a) O Decreto-Lei n.º 157/88, de 4 de Maio, mantendo-se em vigor a sua regulamentação que não contrarie o presente diploma;
+
+b) O Despacho n.º 3/88 do Secretário de Estado da Administração de Saúde, publicado no Diário da República, 2.ª série, de 7 de Setembro de 1988;
+
+c) O despacho do Secretário de Estado da Administração de Saúde de 16 de Agosto de 1988, publicado, através de aviso, no Diário da República, 2.ª série, de 8 de Setembro de 1988.
+
+Visto e aprovado em Conselho de Ministros de 31 de Maio de 1990. - Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho.
+
+**Promulgado em 27 de Junho de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MARIO SOARES.**
+
+**Referendado em 2 de Julho de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

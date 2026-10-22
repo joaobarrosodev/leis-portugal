@@ -1,0 +1,667 @@
+---
+schema_version: '1.0'
+id: pt:dre:434000:por
+title: Decreto-Lei n.º 333/99
+short_title: null
+summary: Reestrutura a orgânica dos serviços de apoio da Procuradoria-Geral da República
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 333/99
+official_date: null
+publication_date: '1999-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1999, Série I-A de 1999-08-20
+  number: '194'
+  series: I
+  supplement: null
+  pages: 5550 - 5557
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/194a00/55505557.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-04-08'
+version_history:
+  file: decreto-lei-333-99.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-08'
+    amending: pt:dre:603250:por
+    amending_title: Decreto-Lei n.º 86/2009
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 27.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/333/1999/p/cons/20090403/pt/html
+  oj: null
+  dre: '434000'
+  dre_path: /dr/detalhe/decreto-lei/333-1999-434000
+  internal: pt:dre:434000:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1999-434000
+  metadata_url: https://data.dre.pt/eli/dec-lei/333/1999/p/cons/20090403/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-223310633
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-223310633
+  retrieved_at: '2026-10-22T13:00:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ddb1fe6866343084c5ae637989f04f725564f2b872ff4f3a2514ba16c61033d0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:00:04Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-333-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assessor de Gabinete
+- Autonomia Administrativa
+- Chefe de Gabinete
+- Procurador Geral da República
+- Gestão Financeira
+- Conselho Superior do Ministério Público
+- Departamento Central de Investigação e Ação Penal
+- Pessoal de Justiça
+- Gabinete de Gestão Financeira
+- Recrutamento de Pessoal
+- Gestão do Património
+- Remuneração Acessória
+- Inspecção do Ministério Público
+- Integração de Trabalhadores
+- Magistrado do Ministério Público
+- Vice-procurador Geral da República
+- Núcleo de Assessoria Técnica
+- Orgânica
+- Gabinete do Procurador-geral da República
+- Quadro de Pessoal
+- Regime de Pessoal
+- Regime Jurídico
+- Ministério Público
+- Secretário Pessoal
+- Serviços Administrativos
+- Gestão de Recursos Humanos
+- Procuradoria Geral da República
+relationships:
+- type: amended_by
+  target: pt:dre:603250:por
+  label: Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2009-603250
+  date: '2009-04-03'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/10/1994/05/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/10/1994/05/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1992/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1992/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
+article_structure:
+  article_count: 32
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:00:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 333/99
+
+Decreto-Lei n.º 333/99
+
+de 20 de Agosto
+
+A orgânica dos serviços da Procuradoria-Geral da República, estabelecida pelo Decreto Regulamentar n.º 64/87, de 23 de Dezembro, foi-se progressivamente desactualizando face às solicitações a que foi chamada a responder.
+
+Esta circunstância e a recente entrada em vigor do Estatuto do Ministério Público, aprovado pela Lei n.º 60/98, de 27 de Agosto, impõem a reorganização destes serviços e a alteração do regime relativo ao Gabinete do Procurador-Geral da República.
+
+É o que agora se realiza, segundo critérios de racionalidade, eficácia e mínimo custo.
+
+Assim, equipara-se o cargo de secretário da Procuradoria-Geral da República a director-geral, colocando na sua dependência os serviços de apoio técnico e administrativo, dotados de autonomia administrativa, cujo orçamento suporta as despesas dos órgãos e serviços que integram a Procuradoria-Geral ou dela estão directamente dependentes. Com esta medida, têm-se presentes as funções de gestão, coordenação e controlo geral que correspondem às competências do secretário, clarificam-se os modos de articulação interna e reforça-se a ligação entre as áreas administrativa e técnica e entre os serviços e as restantes estruturas.
+
+Cria-se a Direcção de Serviços de Apoio Administrativo, por forma a responder a exigências de autonomia funcional, fixando-se o nível orgânico adequado às suas competências e ao volume de actividade.
+
+Cria-se a Divisão de Apoio Jurídico e Cooperação Judiciária, cuja existência se tornou indispensável pelo acréscimo e natureza das solicitações no âmbito da cooperação judiciária internacional e do auxílio judiciário.
+
+Fazem-se reajustamentos no quadro de pessoal, a partir dos efectivos já existentes, com o objectivo de um melhor equilíbrio entre funções técnicas e administrativas.
+
+Exercendo funções no órgão superior do Ministério Público, a que cabe gerir procedimentos relativos à intervenção do Ministério Público junto dos tribunais e de atribuições em matéria penal com ligação às polícias, exige-se deste pessoal, cuja actividade envolve áreas processuais, técnicas, documentais e auxiliares, uma disponibilidade permanente que deve ser compensada.
+
+De facto, poucos departamentos podem traduzir, nesta área do Estado, uma sobreafectação funcional tão onerosa. Para além das actividades normais de direcção e gestão respeitantes a arguidos presos, é pela Procuradoria-Geral da República que transitam os procedimentos relativos a extradições, pedidos de detenção internacional, transferência de reclusos e, em geral, todos o que se referem a cooperação e auxílio judiciário internacional, domínios em que, estando, por regra, em causa a liberdade, não é possível diferir as respostas. Particularmente relevante é o facto de as normas relativas a detecção de operações bancárias em matéria de prevenção de branqueamento obrigarem a respeitar prazos fixados em horas.
+
+Pela natureza das suas funções, idêntica disponibilidade se exige para o pessoal que preste serviço no Departamento Central de Investigação e Acção Penal.
+
+Foi ouvida a Procuradoria-Geral da República e observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição e dos artigos 12.º, n.º 5, 50.º e 54.º, n.º 2, da Lei n.º 47/86, de 15 de Outubro, com a redacção dada pela Lei n.º 60/98, de 27 de Agosto, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Gabinete do Procurador-Geral da República
+
+###### Artigo 1.º — Composição
+
+1 - O Procurador-Geral da República é apoiado no exercício das suas funções por um gabinete.
+
+2 - O Gabinete do Procurador-Geral da República é constituído pelo chefe de gabinete, por seis assessores e por dois secretários pessoais.
+
+3 - O chefe de gabinete é substituído, nas suas faltas e impedimentos, pelo assessor que o Procurador-Geral da República designar.
+
+###### Artigo 2.º — Competência
+
+Compete ao Gabinete do Procurador-Geral da República:
+
+a) Estudar e prestar informação sobre as questões que lhe sejam submetidas pelo Procurador-Geral da República e pelo Vice-Procurador-Geral da República;
+
+b) Analisar e propor o seguimento a dar às petições, exposições e reclamações dirigidas ao Procurador-Geral da República;
+
+c) Reunir e seleccionar informação relativa às decisões dos tribunais e do Ministério Público e elaborar estudos e propostas, tendo em vista as competências do Procurador-Geral da República em matéria de garantias constitucionais, legalidade, unidade do direito e igualdade dos cidadãos;
+
+d) Assegurar as relações da Procuradoria-Geral da República e do Procurador-Geral da República com outros departamentos e instituições.
+
+###### Artigo 3.º — Gabinete de Imprensa
+
+1 - É criado, no âmbito da Procuradoria-Geral da República e em ligação com o Gabinete do Procurador-Geral da República, um Gabinete de Imprensa.
+
+2 - Compete ao Gabinete de Imprensa:
+
+a) Exercer assessoria em matéria de comunicação social;
+
+b) Preparar colecções temáticas de estudos, relatórios e estatísticas que facilitem o exercício da actividade jornalística relativamente à justiça e, em especial, ao Ministério Público;
+
+c) Mediar instrumentos de acesso jornalístico à lei, à jurisprudência e à doutrina, incluindo o acesso ao direito estrangeiro e internacional e a sistemas judiciários comparados;
+
+d) Estudar e desenvolver formas de divulgação sistemática de informação sobre a actividade do Ministério Público, com observância da lei e de directivas superiores;
+
+e) Analisar o conteúdo dos títulos e seleccionar as notícias que interessem à actividade do Ministério Público e, em particular, ao exercício da acção penal;
+
+f) Proceder a estudos sobre linguagem jurídica e mediatização da justiça;
+
+g) Recolher e analisar informação relativa a tendências de opinião sobre a acção do Ministério Público e, em geral, da administração da justiça.
+
+3 - O Gabinete de Imprensa é constituído por pessoal do quadro dos Serviços de Apoio ou recrutado, em regime de destacamento, requisição, comissão de serviço ou contrato, nos termos da lei geral da função pública.
+
+4 - O Gabinete de Imprensa é constituído por um máximo de três elementos, de entre os quais um deve possuir formação na área da comunicação social.
+
+### Capítulo II — Serviços de Apoio Técnico e Administrativo da Procuradoria-Geral da República
+
+#### Secção I — Disposições gerais
+
+###### Artigo 4.º — Denominação e natureza
+
+1 - Os Serviços de Apoio Técnico e Administrativo da Procuradoria-Geral da República, adiante abreviadamente designados por Serviços de Apoio, são uma unidade orgânica de apoio técnico e administrativo nos domínios da gestão de recursos humanos, financeiros e materiais, da organização e informática e da documentação e informação e apoio geral aos órgãos e a serviços que integram a Procuradoria-Geral da República ou dela estão directamente dependentes nos termos dos artigos 9.º, 12.º, n.º 4, e 51.º da Lei n.º 47/86, de 15 de Outubro, com as modificações introduzidas pelas Leis n.os 2/90, de 20 de Janeiro, 23/92, de 20 de Agosto, 10/94, de 5 de Maio, e 60/98, de 27 de Agosto.
+
+2 - Os Serviços de Apoio são dotados de autonomia administrativa.
+
+###### Artigo 5.º — Estrutura
+
+Os Serviços de Apoio compreendem a Direcção de Serviços de Apoio Administrativo, a Divisão de Apoio Jurídico e Cooperação Judiciária, a Divisão de Documentação e Informação e a Divisão de Planeamento, Organização e Informática.
+
+#### Secção II — Do secretário
+
+###### Artigo 6.º — Secretário
+
+1 - Os Serviços de Apoio são dirigidos pelo secretário da Procuradoria-Geral da República, adiante designado abreviadamente por secretário.
+
+2 - O secretário é equiparado a director-geral para todos os efeitos legais, sem prejuízo do disposto nos números seguintes.
+
+3 - O recrutamento para o lugar de secretário é feito, por escolha, de entre magistrados do Ministério Público.
+
+4 - O recrutamento a que se refere o número anterior pode ainda fazer-se, quando devidamente fundamentado, de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das funções.
+
+5 - O secretário é nomeado por despacho conjunto do Primeiro-Ministro e do Ministro da Justiça, sob proposta do Procurador-Geral da República.
+
+6 - O secretário é coadjuvado e substituído, nas suas faltas e impedimentos, por um secretário-adjunto, equiparado a subdirector-geral para todos os efeitos legais.
+
+###### Artigo 7.º — Competência
+
+1 - Compete ao secretário:
+
+a) Superintender, coordenar e fiscalizar os Serviços de Apoio e definir os respectivos parâmetros de funcionamento;
+
+b) Assegurar a planificação e a gestão dos meios humanos, financeiros e patrimoniais dos serviços da Procuradoria-Geral da República;
+
+c) Praticar os actos de gestão corrente orçamental relativos à actividade que o Gabinete do Procurador-Geral da República e os órgãos e serviços referidos no n.º 1 do artigo 4.º desenvolvem para o exercício das suas competências;
+
+d) Definir e acompanhar a execução de medidas tendentes ao aperfeiçoamento e racionalização do funcionamento integrado dos serviços;
+
+e) Conceber e propor ao Procurador-Geral da República critérios de gestão e de afectação dos recursos humanos, financeiros, patrimoniais e técnicos da Procuradoria-Geral da República;
+
+f) Promover a realização dos estudos necessários à planificação da actividade administrativa numa óptica de gestão por objectivos;
+
+g) Promover e acompanhar a realização de estudos e projectos no domínio da evolução dos equipamentos e das aplicações de informática jurídica, documental e de gestão, que contribuam para a melhoria dos níveis de realização das atribuições da Procuradoria-Geral da República;
+
+h) Propor ao Procurador-Geral da República medidas tendentes ao aperfeiçoamento profissional do pessoal;
+
+i) Submeter a apreciação e despacho do Procurador-Geral da República os assuntos da sua competência;
+
+j) Praticar os actos que lhe forem delegados pelo Procurador-Geral da República;
+
+l) Exercer os demais poderes que por lei lhe sejam conferidos.
+
+2 - Na dependência do secretário funciona um núcleo de assessoria ao Conselho Consultivo, constituído por um máximo de cinco juristas, vinculados ou não à Administração Pública, sendo estes providos em comissão de serviço pelo período de três anos.
+
+#### Secção III — Direcção de Serviços de Apoio Administrativo
+
+###### Artigo 8.º — Competência e estrutura
+
+1 - À Direcção de Serviços de Apoio Administrativo compete a gestão, coordenação e controlo dos recursos humanos, financeiros e patrimoniais dos serviços, bem como o apoio administrativo ao Conselho Superior do Ministério Público e ao Conselho Consultivo.
+
+2 - A Direcção de Serviços de Apoio Administrativo compreende a Unidade de Administração e Processos e a Unidade de Administração Geral.
+
+3 - As unidades referidas no número anterior são coordenadas por técnicos superiores, designados pelo secretário, que têm direito, enquanto no exercício dessas funções, a um acréscimo remuneratório correspondente a 30 pontos indiciários do regime geral a adicionar ao índice detido, até ao limite da remuneração base do cargo de chefe de divisão.
+
+###### Artigo 9.º — Unidade de Administração e Processos
+
+1 - À Unidade de Administração e Processos incumbe:
+
+a) Prestar apoio ao Conselho Superior do Ministério Público na gestão e administração dos quadros do Ministério Público;
+
+b) Prestar apoio aos membros do Conselho Superior e aos serviços de inspecção do Ministério Público no exercício das respectivas competências;
+
+c) Colaborar na elaboração do boletim informativo do Conselho Superior;
+
+d) Assegurar o expediente relativo ao Conselho Consultivo;
+
+e) Apoiar administrativamente os vogais do Conselho Consultivo;
+
+f) Dar execução aos procedimentos administrativos respeitantes às áreas de intervenção do Ministério Público ou da Procuradoria-Geral da República;
+
+g) Proceder ao registo e à distribuição dos inquéritos instaurados contra magistrados;
+
+h) Garantir a realização das tarefas inerentes à recepção, distribuição, expedição, arquivo e conservação de correspondência e outros documentos;
+
+i) Assegurar a execução do expediente relativo a concursos públicos, serviço de apostilhas, exposições, prestação de cauções e demais tarefas não confiadas a outros serviços.
+
+2 - A Unidade de Administração e Processos compreende as seguintes secções:
+
+a) Secção de Apoio ao Conselho Superior do Ministério Público;
+
+b) Secção de Apoio ao Conselho Consultivo;
+
+c) Secção de Intervenção Processual;
+
+d) Secção de Expediente Geral e Arquivo.
+
+###### Artigo 10.º — Secção de Apoio ao Conselho Superior do Ministério Público
+
+À Secção de Apoio ao Conselho Superior do Ministério Público incumbe:
+
+a) Organizar e manter actualizado o registo biográfico e disciplinar dos magistrados do Ministério Público;
+
+b) Preparar e manter actualizada a lista de antiguidade dos magistrados do Ministério Público;
+
+c) Organizar e manter actualizado um ficheiro de magistrados do Ministério Público e emitir cartões de identificação;
+
+d) Minutar os termos de aceitação e posse dos magistrados;
+
+e) Apoiar os membros do Conselho e os serviços de inspecção de magistrados do Ministério Público;
+
+f) Registar, movimentar e preparar o visto dos vogais;
+
+g) Elaborar as tabelas e as actas das sessões;
+
+h) Assegurar o restante expediente relativo ao Conselho;
+
+i) Organizar e manter actualizado o arquivo próprio;
+
+j) Apoiar a elaboração do boletim informativo.
+
+###### Artigo 11.º — Secção de Apoio ao Conselho Consultivo
+
+1 - À Secção de Apoio ao Conselho Consultivo incumbe:
+
+a) Proceder ao registo dos pedidos de parecer e assegurar o expediente relativo aos processos distribuídos;
+
+b) Assegurar o processamento de texto de pareceres, relatórios ou informações;
+
+c) Elaborar as tabelas das sessões;
+
+d) Acompanhar o processo de publicação dos pareceres, quando deva ter lugar;
+
+e) Proceder à introdução e actualização de dados informáticos na respectiva base;
+
+f) Manter o arquivo e assegurar um serviço de consulta de pareceres;
+
+g) Apoiar administrativamente os vogais do Conselho Consultivo.
+
+2 - Pode ser designado pessoal da secção para exercer permanentemente as funções previstas na alínea g) do número anterior.
+
+###### Artigo 12.º — Secção de Intervenção Processual
+
+1 - À Secção de Intervenção Processual incumbe assegurar os procedimentos respeitantes às áreas de intervenção do Ministério Público e da Procuradoria-Geral da República, em particular nos seguintes domínios:
+
+a) Directivas, ordens e instruções emitidas pelo Procurador-Geral da República;
+
+b) Decisões proferidas nos termos das leis de processo que devam ser transmitidas à Procuradoria-Geral da República;
+
+c) Conflitos de competência;
+
+d) Acelerações processuais;
+
+e) Cooperação judiciária;
+
+f) Contencioso do Estado;
+
+g) Deferimento de competência à Polícia Judiciária;
+
+h) Coadjuvação e destacamento de órgãos de polícia criminal;
+
+i) Acompanhamento dos processos criminais instaurados contra agentes da autoridade;
+
+j) Boletim de interesses difusos;
+
+l) Incompatibilidades e impedimentos de titulares de altos cargos públicos.
+
+2 - Cabe ainda à Secção de Intervenção Processual assegurar o registo e a distribuição dos inquéritos instaurados contra magistrados.
+
+###### Artigo 13.º — Secção de Expediente Geral e Arquivo
+
+À Secção de Expediente Geral e Arquivo incumbe:
+
+a) Registar a correspondência e outra documentação recebida e expedida;
+
+b) Distribuir a correspondência e demais documentação pelos serviços;
+
+c) Proceder ao arquivo e conservação dos processos e papéis findos;
+
+d) Satisfazer as requisições de processos e papéis arquivados que não sejam de outra secção e controlar o seu movimento;
+
+e) Assegurar o expediente relativo a concursos públicos;
+
+f) Executar o serviço de apostilhas;
+
+g) Executar o expediente respeitante a exposições;
+
+h) Acompanhar os processos de prestação de cauções;
+
+i) Assegurar o serviço de edição de textos e de reprografia;
+
+j) Assegurar o expediente que não seja confiado a outros serviços.
+
+###### Artigo 14.º — Unidade de Administração Geral
+
+1 - À Unidade de Administração Geral incumbe:
+
+a) Executar as tarefas administrativas inerentes à preparação, execução e alterações do orçamento;
+
+b) Assegurar as tarefas administrativas inerentes à elaboração dos instrumentos de avaliação e controlo da execução orçamental;
+
+c) Elaborar a conta de gerência;
+
+d) Assegurar o processamento e a contabilização das receitas e despesas;
+
+e) Executar as tarefas administrativas inerentes ao aprovisionamento e à gestão e administração do património afecto à Procuradoria-Geral da República;
+
+f) Assegurar as operações administrativas inerentes à gestão e administração de pessoal dos funcionários dos órgãos e serviços da Procuradoria-Geral da República.
+
+2 - A Unidade de Administração Geral compreende as seguintes secções:
+
+a) Secção de Contabilidade;
+
+b) Secção de Património, Economato e Serviços Gerais;
+
+c) Secção de Pessoal.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2009-603250), em vigor a partir de 2009-04-08
+
+###### Artigo 15.º — Secção de Contabilidade
+
+À Secção de Contabilidade incumbe:
+
+a) Elaborar a proposta de orçamento e executar o processamento, a escrituração, a liquidação e o pagamento das despesas;
+
+b) Elaborar os instrumentos de avaliação e controlo da execução orçamental;
+
+c) Contabilizar as verbas afectas ao funcionamento dos serviços;
+
+d) Elaborar a conta de gerência;
+
+e) Movimentar e contabilizar os fundos permanentes;
+
+f) Escriturar os livros de conta corrente;
+
+g) Preparar propostas de transferência e reforço de verbas e de autorização de duodécimos;
+
+h) Elaborar relatórios de acompanhamento da execução orçamental;
+
+i) Processar as ajudas de custo e outros abonos não sujeitos a processamento automático;
+
+j) Elaborar as relações e declarações para efeitos de imposto sobre o rendimento;
+
+l) Fazer o movimento relativo à ADSE e aos Serviços Sociais do Ministério da Justiça;
+
+m) Assegurar a arrecadação das receitas dos Serviços de Apoio Técnico e Administrativo da Procuradoria-Geral da República e do Gabinete de Documentação e Direito Comparado, bem como a sua escrituração;
+
+n) Executar as demais tarefas relativas ao orçamento e contabilidade.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2009-603250), em vigor a partir de 2009-04-08
+
+###### Artigo 16.º — Secção de Património, Economato e Serviços Gerais
+
+À Secção de Património, Economato e Serviços Gerais incumbe:
+
+a) Organizar os processos de aquisição de bens e serviços;
+
+b) Elaborar propostas de aquisição e emitir requisições;
+
+c) Promover o armazenamento, conservação e distribuição dos bens de consumo corrente e assegurar a gestão de stocks;
+
+d) Organizar e manter actualizados ficheiros de fornecedores e de material;
+
+e) Distribuir, mediante requisição, o material solicitado pelos serviços;
+
+f) Organizar e manter actualizado o inventário dos bens móveis e o inventário e cadastro relativo ao parque automóvel;
+
+g) Assegurar a manutenção geral das instalações, equipamentos e viaturas.
+
+###### Artigo 17.º — Secção de Pessoal
+
+À Secção de Pessoal incumbe:
+
+a) Organizar e manter actualizado o registo biográfico e disciplinar e a lista de antiguidade dos funcionários;
+
+b) Actualizar o cadastro de faltas e licenças e preparar o mapa de férias;
+
+c) Assegurar os procedimentos relacionados com os processos individuais e com o recrutamento do pessoal;
+
+d) Organizar mapas relativos às necessidades do serviço em meios humanos e à estruturação funcional e etária do pessoal em exercício;
+
+e) Organizar e acompanhar o procedimento administrativo de concursos de pessoal;
+
+f) Organizar o processo burocrático de aposentação de funcionários;
+
+g) Assegurar os procedimentos relativos a férias, faltas e licenças dos funcionários;
+
+h) Providenciar pela inscrição, alteração e renovação dos cartões de beneficiários da ADSE e dos Serviços Sociais do Ministério da Justiça;
+
+i) Executar as demais tarefas relacionadas com a administração do pessoal.
+
+#### Secção IV — Divisões de Apoio Jurídico e Cooperação Judiciária, Documentação e Informação, Planeamento, Organização e Informática
+
+###### Artigo 18.º — Divisão de Apoio Jurídico e Cooperação Judiciária
+
+À Divisão de Apoio Jurídico e Cooperação Judiciária incumbe:
+
+a) Prestar assessoria jurídica;
+
+b) Elaborar estudos e informações;
+
+c) Efectuar os procedimentos relativos a cooperação judiciária e a auxílio judiciário.
+
+###### Artigo 19.º — Divisão de Documentação e Informação
+
+À Divisão de Documentação e Informação incumbe:
+
+a) Apoiar, em matéria de documentação, os órgãos e serviços da Procuradoria-Geral da República e, em geral, as instituições judiciárias;
+
+b) Seleccionar e propor a aquisição de espécies bibliográficas e proceder ao seu registo, guarda e conservação;
+
+c) Manter actualizada a base de dados da biblioteca;
+
+d) Garantir o funcionamento da biblioteca, estabelecendo o regime de leitura, utilização, consulta e empréstimo de publicações;
+
+e) Proceder ao tratamento sistemático e ao arquivo de legislação, assegurando um serviço de informação legislativa;
+
+f) Proceder à retroversão e tradução de textos;
+
+g) Apoiar o Gabinete do Procurador-Geral da República e os órgãos e serviços da Procuradoria-Geral da República em matéria de correspondência e interpretação em línguas estrangeiras;
+
+h) Realizar, no âmbito da actividade do Ministério Público, serviços de tradução, retroversão, correspondência e interpretação;
+
+i) Elaborar estatísticas;
+
+j) Preparar e distribuir boletins de monografias e bibliográficos;
+
+l) Manter actualizada as respectivas bases de dados.
+
+###### Artigo 20.º — Divisão de Planeamento, Organização e Informática
+
+À Divisão de Planeamento, Organização e Informática incumbe:
+
+a) Proceder a estudos com vista ao aperfeiçoamento dos serviços, elaborar projectos e acompanhar a sua execução;
+
+b) Realizar estudos de racionalização de recursos humanos, de equipamentos e de suportes e procedimentos administrativos;
+
+c) Analisar as necessidades de equipamento e material, suas características e adequação;
+
+d) Desenvolver estudos e projectos no domínio das aplicações informáticas, no âmbito de atribuições da Procuradoria-Geral da República, e coordenar e acompanhar a sua execução;
+
+e) Apoiar tecnicamente a elaboração de cadernos de encargos, a selecção, aquisição, contratação e instalação de equipamento informático;
+
+f) Colaborar com o Gabinete de Estudos e Planeamento do Ministério da Justiça, a Direcção-Geral dos Serviços de Informática e outras entidades competentes nos projectos de informatização que respeitem ao Ministério Público.
+
+### Capítulo III — Pessoal e orçamento
+
+###### Artigo 21.º — Quadro
+
+O quadro de pessoal dos Serviços de Apoio da Procuradoria-Geral da República consta do mapa anexo ao presente diploma e pode ser alterado por portaria conjunta dos Ministros das Finanças e da Justiça e do membro do Governo que tem a seu cargo a Administração Pública.
+
+###### Artigo 22.º — Regime jurídico
+
+1 - O pessoal dos Serviços de Apoio exerce funções em regime de disponibilidade permanente, devendo assegurar o serviço e, quando convocado, comparecer sempre que inadiáveis necessidades o justifiquem.
+
+2 - Ao pessoal dos Serviços de Apoio aplica-se o regime geral da função pública, com as especificidades constantes do presente diploma.
+
+###### Artigo 23.º — Membros do Gabinete
+
+1 - Os membros do Gabinete do Procurador-Geral da República são livremente escolhidos pelo Procurador-Geral da República.
+
+2 - Ao pessoal do Gabinete do Procurador-Geral da República é aplicável, com as devidas adaptações, o regime de nomeação, exoneração e garantias consagrado no Decreto-Lei n.º 262/88, de 23 de Julho, com ressalva do abono para despesas de representação.
+
+###### Artigo 24.º — Pessoal dirigente
+
+1 - Ao pessoal dirigente dos Serviços de Apoio é aplicável o regime do pessoal dirigente da função pública, com as especificidades constantes do presente diploma.
+
+2 - O secretário e o secretário-adjunto podem optar pelo estatuto remuneratório de origem, incluindo suplementos, prestações sociais e demais regalias auferidas.
+
+3 - O desempenho, por magistrados, de funções dirigentes nos Serviços de Apoio não determina a abertura de vaga no lugar de origem ou naquele para o qual, entretanto, o titular tenha sido nomeado.
+
+###### Artigo 25.º — Pessoal de outros quadros
+
+1 - O Departamento Central de Investigação e Acção Penal e o Núcleo de Assessoria Técnica são apoiados técnica e administrativamente por funcionários de justiça ou por elementos pertencentes aos quadros de órgãos de polícia criminal, nomeados em regime de comissão de serviço, requisitados ou destacados.
+
+2 - A designação dos elementos pertencentes aos quadros de órgãos de polícia criminal efectua-se por despacho do Ministro da Justiça ou por despacho conjunto do Ministro da Justiça e do membro do Governo de que dependem os serviços ou organismos respectivos, sob proposta do Procurador-Geral da República.
+
+###### Artigo 26.º — Suplemento
+
+1 - O pessoal que exerce funções nos Serviços de Apoio da Procuradoria-Geral da República e no Departamento Central de Investigação e Acção Penal, com excepção do referido nos n.os 3 e 4, tem direito a um suplemento mensal de disponibilidade permanente correspondente a 20% da remuneração base, que acresce ao estatuto remuneratório de origem.
+
+2 - O suplemento referido no número anterior é considerado para efeitos de subsídios de férias e de Natal, e está sujeito ao desconto de quota para aposentação.
+
+3 - O regime previsto no n.º 1 não se aplica aos magistrados nem aos funcionários de justiça.
+
+4 - Aos motoristas ao serviço do Procurador-Geral da República é aplicável o regime estabelecido pelo Decreto-Lei n.º 381/89, de 28 de Outubro.
+
+###### Artigo 27.º — Orçamento
+
+1 - O orçamento dos Serviços de Apoio suporta as despesas de pessoal com magistrados e funcionários que exercem funções nos órgãos e serviços referidos no n.º 1 do artigo 4.º e as demais despesas correntes e de capital necessárias ao exercício das suas competências.
+
+2 - Além das dotações que lhe sejam atribuídas pelas verbas do Orçamento do Estado e pelo Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.), constituem receitas dos Serviços de Apoio:
+
+a) As importâncias cobradas pela emissão e verificação das apostilas;
+
+b) O produto da prestação de serviços e da venda de material informativo ou de publicações;
+
+c) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As receitas atribuídas pelo IGFIJ, I. P., e as receitas próprias são consignadas à realização de despesas dos Serviços de Apoio durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2009-603250), em vigor a partir de 2009-04-08
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 28.º — Transição de pessoal
+
+O pessoal que à data de entrada em vigor do presente diploma se encontre provido em lugar do mapa anexo ao Decreto Regulamentar n.º 64/87, de 23 de Dezembro, com as alterações que posteriormente lhe foram introduzidas, transita para lugar da mesma carreira, categoria e escalão do quadro aprovado pelo presente diploma.
+
+###### Artigo 29.º — Prestação de informações
+
+Os serviços públicos e os agentes diplomáticos no estrangeiro, estes por intermédio do Ministério dos Negócios Estrangeiros, devem prestar as informações solicitadas pelos órgãos e serviços da Procuradoria-Geral da República.
+
+###### Artigo 30.º — Publicações
+
+Os órgãos e serviços dependentes do Ministério da Justiça enviam à Procuradoria-Geral da República dois exemplares das suas publicações.
+
+###### Artigo 31.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 75/90, de 8 de Março, e o Decreto Regulamentar n.º 64/87, de 23 de Dezembro.
+
+###### Artigo 32.º — Vigência e aplicação
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação, excepto no que respeita à autonomia administrativa, que vigora a partir do início do ano económico seguinte.
+
+Visto e aprovado em Conselho de Ministros de 15 de Julho de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 4 de Agosto de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 12 de Agosto de 1999.
+
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
+
+## MAPA ANEXO — (quadro de pessoal a que se refere o artigo 21.º)
+
+(ver quadro no documento original)

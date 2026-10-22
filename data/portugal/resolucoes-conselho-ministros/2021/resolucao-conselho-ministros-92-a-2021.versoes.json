@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:167491776:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2021-167342958",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/92-a-2021-167491776",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "203696733"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:202552708:por",
+     "title": "Resolução do Conselho de Ministros n.º 96/2022",
+     "published": "2022-10-24",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/96-2022-202552708",
+     "date": "2022-10-25"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "203696733": {
+   "fragment_id": "167342959",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-25",
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 92-A/2021\n\nSumário: Altera as medidas aplicáveis a determinados municípios no âmbito da situação de calamidade.\n\nO âmbito de aplicação das medidas de contenção e mitigação da doença COVID-19 tem sido habitualmente revisto semanalmente pelo Governo.\n\nNesse sentido, de acordo com os dados de evolução da situação epidemiológica no território nacional continental, fica determinado que os seguintes municípios são considerados «municípios de risco elevado» até à próxima revisão: Alcobaça, Alenquer, Arouca, Arraiolos, Azambuja, Barcelos, Batalha, Bombarral, Braga, Caldas da Rainha, Cantanhede, Carregal do Sal, Cartaxo, Castro Marim, Chaves, Coimbra, Constância, Espinho, Figueira da Foz, Gondomar, Guimarães, Leiria, Lousada, Maia, Monchique, Montemor-o-Novo, Mourão, Óbidos, Paredes, Pedrógão Grande, Porto de Mós, Póvoa de Varzim, Reguengos de Monsaraz, Rio Maior, Salvaterra de Magos, Santarém, Santiago do Cacém, Tavira, Torres Vedras, Trancoso, Trofa, Valongo, Vila do Bispo, Vila Nova de Famalicão e Vila Real de Santo António.\n\nPor sua vez, para além dos municípios de Albufeira, Almada, Alcochete, Amadora, Arruda dos Vinhos, Avis, Barreiro, Cascais, Faro, Lagos, Lisboa, Loulé, Loures, Lourinhã, Mafra, Mira, Moita, Montijo, Mourão, Nazaré, Odivelas, Oeiras, Olhão, Porto, Santo Tirso, São Brás de Alportel, Seixal, Sesimbra, Silves, Sintra, Sobral de Monte Agraço, Vagos e Vila Franca de Xira - aos quais continuam a ser aplicáveis as medidas respeitantes aos «municípios de risco muito elevado», conforme já ocorria na semana transata - sucede que, dada a verificação de duas avaliações acima dos 240 casos por 100 mil habitantes, os municípios de Albergaria-a-Velha, Aveiro, Benavente, Elvas, Ílhavo, Lagoa, Matosinhos, Oliveira do Bairro, Palmela, Peniche, Portimão, Setúbal, Sines, Viana do Alentejo, Vila Nova de Gaia e Viseu passam a enquadrar-se nas medidas respeitantes aos «municípios de risco muito elevado».\n\nAssim:\n\nNos termos do artigo 12.º do Decreto-Lei n.º 54-A/2021, de 25 de junho, dos artigos 12.º e 13.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, por força do disposto no artigo 2.º da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, da Base 34 da Lei n.º 95/2019, de 4 de setembro, do artigo 17.º da Lei n.º 81/2009, de 21 de agosto, do artigo 19.º da Lei n.º 27/2006, de 3 de julho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Alterar os artigos 2.º e 11.º do regime anexo à Resolução do Conselho de Ministros n.º 74-A/2021, de 9 de junho, na sua redação atual, os quais passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) Alcobaça;\n\nb) Alenquer;\n\nc) Arouca;\n\nd) Arraiolos;\n\ne) Arruda dos Vinhos;\n\nf) Azambuja;\n\ng) Barcelos;\n\nh) Batalha;\n\ni) Bombarral;\n\nj) Braga;\n\nk) Cantanhede;\n\nl) Cartaxo;\n\nm) Castro Marim;\n\nn) Chaves;\n\no) Coimbra;\n\np) Constância;\n\nq) Espinho;\n\nr) Figueira da Foz;\n\ns) Gondomar;\n\nt) Guimarães;\n\nu) Leiria;\n\nv) Lousada;\n\nw) Maia;\n\nx) Monchique;\n\ny) Montemor-o-Novo;\n\nz) Óbidos;\n\naa) Paredes;\n\nbb) Paredes de Coura;\n\ncc) Pedrógão Grande;\n\ndd) Porto de Mós;\n\nee) Póvoa de Varzim;\n\nff) Rio Maior;\n\ngg) Salvaterra de Magos;\n\nhh) Santarém;\n\nii) Santiago do Cacém;\n\njj) Tavira;\n\nkk) Torres Vedras;\n\nll) Trancoso;\n\nmm) Trofa;\n\nnn) Valongo;\n\noo) Viana do Alentejo;\n\npp) Vila do Bispo\n\nqq) Vila Nova de Famalicão;\n\nrr) Vila Real de Santo António.\n\n4 - ...\n\na) Albergaria-a-Velha;\n\nb) Albufeira;\n\nc) Alcochete;\n\nd) Almada;\n\ne) Amadora;\n\nf) Aveiro;\n\ng) Avis;\n\nh) Barreiro;\n\ni) Benavente;\n\nj) Cascais;\n\nk) Elvas;\n\nl) Faro;\n\nm) Ílhavo;\n\nn) Lagoa;\n\no) Lagos;\n\np) Lisboa;\n\nq) Loulé;\n\nr) Loures;\n\ns) Lourinhã;\n\nt) Mafra;\n\nu) Matosinhos;\n\nv) Mira;\n\nw) Moita;\n\nx) Montijo;\n\ny) Nazaré;\n\nz) Odivelas;\n\naa) Oeiras;\n\nbb) Olhão;\n\ncc) Oliveira do Bairro;\n\ndd) Palmela;\n\nee) Peniche;\n\nff) Portimão;\n\ngg) Porto;\n\nhh) Santo Tirso;\n\nii) São Brás de Alportel;\n\njj) Seixal;\n\nkk) Sesimbra;\n\nll) Setúbal;\n\nmm) Silves;\n\nnn) Sines;\n\noo) Sintra;\n\npp) Sobral de Monte Agraço;\n\nqq) Vagos;\n\nrr) Vila Franca de Xira;\n\nss) Vila Nova de Gaia;\n\ntt) Viseu.\n\nArtigo 11.º\n\n[...]\n\n1 - [...]:\n\na) Permitir a abertura de algumas instalações ou estabelecimentos referidos no anexo i ao presente regime ou nos artigos 42.º e 49.º, bem como o exercício de outras atividades de comércio a retalho ou de prestação de serviços que venham a revelar-se essenciais com o evoluir da conjuntura;\n\nb) [...];\n\nc) [...].\n\n2 - Os membros do Governo responsáveis pelas áreas da economia e da saúde podem, mediante despacho, permitir a abertura de equipamentos referidos no anexo i ao presente regime ou nos artigos 42.º e 49.º»\n\n2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.\n\nPresidência do Conselho de Ministros, 15 de julho de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.\n\n114416075"
+  }
+ }
+}

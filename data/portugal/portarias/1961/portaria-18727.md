@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:180412:por
+title: Portaria n.º 18727
+short_title: null
+summary: Fixa a quantidade de cevada dística da colheita de 1962 necessária ao abastecimento do mercado interno
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretarias de Estado da Agricultura e do Comércio
+proposing_entity: null
+official_number: '18727'
+official_date: null
+publication_date: '1961-09-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 213/1961, Série I de 1961-09-13
+  number: '213'
+  series: I
+  supplement: null
+  pages: 1196 - 1196
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/09/21300/11961196.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '180412'
+  dre_path: /dr/detalhe/portaria/18727-1961-180412
+  internal: pt:dre:180412:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18727-1961-180412
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18727-1961-180412
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1961-09-13T00:00:00Z'
+integrity:
+  source_sha256: 4593eff8445dcca55206622165f7f6c0477b091961aad6ea1d150e009d90ca6a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-18727-180412.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18727
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Agricultura e do Comércio, nos termos do § 1.º do artigo 1.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, o seguinte:
+
+1) Que seja fixada em 8500000 kg a quantidade de cevada dística da colheita de 1962 necessária ao abastecimento do mercado interno, na qual estão incluídas 1000 t destinadas a semente;
+
+2) Que sejam admitidas inscrições até ao montante de 1200 t de semente;
+
+3) Que sejam mantidos, para a campanha de 1961-1962, os preços de compra aos produtores e o preço de venda à lavoura da cevada dística destinada a semente, fixados nos n.os 2.º e 3.º da [Portaria n.º 17403](https://diariodarepublica.pt/dr/detalhe/portaria/17403-1959-440483), de 22 de Outubro de 1959.
+
+Ministério da Economia, 13 de Setembro de 1961. - O Secretário de Estado da Agricultura, João Mota Pereira de Campos. - O Secretário de Estado do Comércio, João Augusto Dias Rosas.

@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:138294:por
+title: Portaria n.º 22/77
+short_title: null
+summary: Estabelece normas relativas aos preços das pastas papeleiras
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Indústria e Tecnologia e do Comércio e Turismo
+proposing_entity: null
+official_number: 22/77
+official_date: null
+publication_date: '1977-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/1977, Série I de 1977-01-18
+  number: '14'
+  series: I
+  supplement: null
+  pages: 82 - 83
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01400/00820083.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '138294'
+  dre_path: /dr/detalhe/portaria/22-1977-138294
+  internal: pt:dre:138294:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-1977-138294
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-1977-138294
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-01-18T00:00:00Z'
+integrity:
+  source_sha256: ff8947b76f6d4e111c55e65edf7446849916926a640ecc87e1635985045f0714
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-22-138294.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22/77
+
+de 18 de Janeiro
+
+Os preços das pastas papeleiras no mercado interno têm-se mantido inalterados desde Janeiro de 1974, enquanto os do mercado internacional têm sofrido agravamentos sucessivos e substanciais, de tal modo que, actualmente, os primeiros são de 27% a 46% inferiores aos últimos, tomados estes na sua cotação ex-works em Portugal. Para as pastas de maior consumo, tais percentagens são superiores a 40%.
+
+Esta situação acarreta como consequências, no plano interno, um maior consumo de pastas mais ricas, frequentemente utilizadas no fabrico de papéis para aplicações pouco nobres, e a existência de autêntico subsídio da indústria das pastas para papel, que, no ano de 1976, terá ultrapassado 600000 contos, na sua maior parte transferido para o consumo. No plano externo, são de ter em atenção alguns problemas levantados à exportação de pastas nacionais, que entretanto não as têm afectado.
+
+Torna-se evidente, neste quadro, que será necessário corrigir progressivamente a actual distorção dos preços das pastas, tendo em vista os preços internacionais.
+
+Através da [Portaria n.º 459/76](https://diariodarepublica.pt/dr/detalhe/portaria/459-1976-430977), de 29 de Julho, foram, dentro desta orientação, fixados novos preços, a vigorar no mercado interno, os quais se situavam muito aquém dos praticados no mercado internacional. Este diploma foi entretanto suspenso, na parte respeitante ao referido aumento de preços, por implicar «acréscimos de custos verdadeiramente incomportáveis para o normal desenvolvimento da actividade das indústrias de papel, de artes gráficas e de transformação de papel», alegação dos sectores referidos.
+
+Incumbido um grupo de trabalho de analisar este aspecto, concluiu o mesmo que o aumento de preços das pastas proposto na [Portaria n.º 459/76](https://diariodarepublica.pt/dr/detalhe/portaria/459-1976-430977) «significaria, para os sectores consumidores de papéis, acréscimos de preços variáveis entre 8% e 32%, relativamente aos preços autorizados em Junho de 1976», os quais se consideram actualmente aceitáveis.
+
+Considerou-se entretanto necessário introduzir alguns ajustamentos relativamente aos preços previstos na portaria referida, com o objectivo de reduzir a procura de pastas mais ricas ou importadas, cujo crescimento de consumo se considera não corresponder inteiramente a um bom aproveitamento das pastas contingentadas.
+
+O trabalho deste grupo aponta entretanto para a necessidade de a correcção da diferença ainda mantida nos preços das pastas não ser feita sem que sejam montados mecanismos que permitam aos sectores a jusante suportar, com um mínimo de perturbações e numa via de rentabilização, os reflexos dos acréscimos de preços em causa.
+
+Espera-se que, uma vez corrigida a distorção de preços verificada no mercado interno, o que se procurará atingir num prazo tão curto quanto possível, a comercialização de pastas para papel neste mercado passe a verificar-se com o mínimo de recurso a intervenções administrativas e no respeito dos interesses próprios, quer dos fornecedores quer dos consumidores das mesmas pastas.
+
+Finalmente, é adoptado novo critério de distribuição do contingente a fornecer pelos fabricantes de pastas ao mercado interno, inspirado no princípio de que, tratando-se de prejuízos a suportar por estas empresas, os mesmos deverão ser distribuídos do modo mais equitativo possível.
+
+A aceitação deste critério por parte das empresas de celulose, nomeadamente pelo que se refere à comparticipação nos prejuízos decorrentes do abastecimento do mercado interno de pastas para cujo fabrico não estão vocacionadas, é entendida como forma de colaboração activa no processo de correcção das distorções actualmente existentes. Esta atitude não implica o reconhecimento, quer por parte das mesmas empresas, quer por parte do Governo, da obrigatoriedade de fornecimento das mesmas pastas ao mercado interno, logo que eliminadas as distorções referidas.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelas Secretarias de Estado da Indústria Pesada, do Comércio Interno e do Comércio Externo, ao abrigo do disposto no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Junho, e ainda no n.º 1 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, o seguinte:
+
+1.º As empresas produtoras de pasta para papel Portucel, Celbi e Caima devem abastecer, durante o ano de 1977, as empresas nacionais fabricantes de papel nas variedades de pasta e até às quantidades indicadas no quadro anexo a esta portaria.
+
+2.º As empresas produtoras de papel deverão celebrar com as empresas fabricantes de pasta para papel contratos de reserva para o ano de 1977, convertíveis trimestralmente em contratos firmes de compra e venda.
+
+3.º As empresas produtoras de pasta para papel não poderão recusar a celebração dos contratos referidos no número anterior dentro das quotas-partes que lhes cabem no abastecimento.
+
+4.º Constitui justa causa para a não celebração dos contratos por parte dos fabricantes de pasta a falta de satisfação de condições de pagamento acordadas, devidamente comprovada.
+
+5.º As empresas produtoras de pasta deverão dar conhecimento dos termos dos contratos, dentro da quinzena posterior à sua celebração, à Direcção-Geral das Indústrias Químicas de Base.
+
+6.º Os preços a adoptar nos contratos firmes de compra e venda serão os autorizados à data da celebração dos mesmos. Se, contudo, no decurso de um trimestre os preços autorizados registarem alguma alteração, os quantitativos em saldo para cumprimento dos respectivos contratos serão facturados ao novo preço.
+
+7.º O não cumprimento, sem motivo justificado, das obrigações decorrentes da aplicação desta portaria por parte das empresas produtoras de papel dispensa as empresas fabricantes do cumprimento do disposto no n.º 3.º
+
+8.º A violação pelas empresas produtoras de pasta para papel das obrigações constantes dos n.os 1.º e 3.º desta portaria constitui delito punível nos termos da legislação aplicável.
+
+9.º O não cumprimento do disposto no n.º 5.º desta portaria é punido com multa de 2000$00 a 10000$00.
+
+10.º Os preços das diversas pastas papeleiras à saída da fábrica, sobre camião ou vagão, a praticar no mercado interno para os fornecimentos estabelecidos no n.º 1.º desta portaria passam a ser os seguintes:
+
+... Por tonelada
+
+Kraft de pinho branqueada ... 9100$00
+
+Kraft de pinho semibranqueada ... 8300$00
+
+Kraft de pinho crua ... 6800$00
+
+Kraft de eucalipto branqueada ... 7350$00
+
+Kraft de eucalipto semibranqueada ... 6700$00
+
+Kraft de eucalipto crua ... 5550$00
+
+Sulfito de eucalipto branqueada ... 6000$00
+
+Sulfito de eucalipto crua ... 5850$00
+
+11.º Os preços fixados no número anterior vigorarão de 1 de Março a 31 de Julho de 1977.
+
+12.º Até 31 de Maio de 1977 poderá o Governo corrigir os contingentes correspondentes ao 2.º semestre de 1977, se tal for necessário.
+
+13.º Os prejuízos reais suportados pelas empresas produtoras de pasta para papel Portucel e Celbi, decorrentes dos fornecimentos efectivamente realizados ao abrigo do n.º 1.º desta portaria, serão partilhados proporcionalmente ao volume de vendas de pastas de cada uma das duas empresas, devendo estas proceder trimestralmente à completa regularização, entre si, da distribuição dos mesmos prejuízos, segundo o critério referido, o qual se entende aplicável a partir de 1 de Janeiro de 1977.
+
+14.º Serão solucionados por despacho do Secretário de Estado da Indústria Pesada quer as dúvidas, quer os diferendos surgidos em resultado do disposto nesta portaria.
+
+Ministérios da Indústria e Tecnologia e do Comércio e Turismo, 30 de Dezembro de 1976. - O Secretário de Estado da Indústria Pesada, Carlos Montês Melancia. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio Externo, António Manuel Rodrigues Celeste.
+
+## ANEXO — Quadro a que se refere o n.º 1.º
+
+(Toneladas)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01400/00820083.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01400/00820083.pdf)
+
+**O Secretário de Estado da Indústria Pesada, Carlos Montês Melancia. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio Externo, António Manuel Rodrigues Celeste.**

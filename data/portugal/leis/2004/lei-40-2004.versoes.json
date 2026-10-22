@@ -1,0 +1,868 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:480705:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-58216179",
+ "dre_path": "/dr/detalhe/lei/40-2004-480705",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58221190",
+    "58221191",
+    "58221192",
+    "58221193",
+    "58221194",
+    "58221195",
+    "58221196",
+    "58221197",
+    "58221198",
+    "58221199",
+    "58221200",
+    "58221201",
+    "58221202",
+    "58221203",
+    "58221204",
+    "58221205",
+    "58221206",
+    "58221207",
+    "58221208",
+    "58221209",
+    "58221210",
+    "58221211",
+    "58221212",
+    "58221213",
+    "58221214",
+    "58221215",
+    "58221216",
+    "58221217"
+   ]
+  },
+  {
+   "date": "2012-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174557:por",
+     "title": "Decreto-Lei n.º 202/2012",
+     "published": "2012-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/202-2012-174557"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "58221190",
+    "58221191",
+    "58221192",
+    "58221193",
+    "58221194",
+    "58221218",
+    "58221195",
+    "58221196",
+    "58244498",
+    "58224487",
+    "58224488",
+    "58244481",
+    "58244501",
+    "58224475",
+    "58244492",
+    "58244490",
+    "58244483",
+    "58221205",
+    "58244500",
+    "58244491",
+    "58221208",
+    "58244486",
+    "58221210",
+    "58244487",
+    "58221212",
+    "58244488",
+    "58244499",
+    "58224479",
+    "58244489",
+    "58244497",
+    "58224482"
+   ]
+  },
+  {
+   "date": "2013-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258166:por",
+     "title": "Lei n.º 12/2013",
+     "published": "2013-01-29",
+     "dre_path": "/dr/detalhe/lei/12-2013-258166"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "58221190",
+    "58221191",
+    "58221192",
+    "58221193",
+    "58221194",
+    "58221218",
+    "58221195",
+    "58221196",
+    "58244498",
+    "58224487",
+    "58224488",
+    "58244481",
+    "58244501",
+    "58244518",
+    "58244492",
+    "58244490",
+    "58244483",
+    "58221205",
+    "58244500",
+    "58244491",
+    "58221208",
+    "58244486",
+    "58221210",
+    "58244487",
+    "58221212",
+    "58244488",
+    "58244499",
+    "58224479",
+    "58244519",
+    "58244497",
+    "58224482"
+   ]
+  },
+  {
+   "date": "2013-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:497867:por",
+     "title": "Decreto-Lei n.º 89/2013",
+     "published": "2013-07-09",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2013-497867"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "58221190",
+    "58221191",
+    "58221192",
+    "58221193",
+    "58221194",
+    "58221218",
+    "58221195",
+    "58221196",
+    "58244498",
+    "58224487",
+    "58224488",
+    "58244481",
+    "58244520",
+    "58244518",
+    "58244492",
+    "58244490",
+    "58244483",
+    "58221205",
+    "58244500",
+    "58244491",
+    "58221208",
+    "58244486",
+    "58221210",
+    "58244487",
+    "58221212",
+    "58244488",
+    "58244499",
+    "58224479",
+    "58244519",
+    "58244497",
+    "58224482"
+   ]
+  },
+  {
+   "date": "2019-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124256707:por",
+     "title": "Decreto-Lei n.º 123/2019",
+     "published": "2019-08-28",
+     "dre_path": "/dr/detalhe/decreto-lei/123-2019-124256707"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "58221190",
+    "58221191",
+    "58221192",
+    "58221193",
+    "58221194",
+    "58221218",
+    "58221195",
+    "58221196",
+    "124264160",
+    "124264161",
+    "124264162",
+    "58244481",
+    "124264163",
+    "58244518",
+    "58244492",
+    "58244490",
+    "58244483",
+    "58221205",
+    "124264164",
+    "58244491",
+    "58221208",
+    "58244486",
+    "58221210",
+    "58244487",
+    "58221212",
+    "58244488",
+    "58244499",
+    "58224479",
+    "58244519",
+    "124264165",
+    "58224482"
+   ]
+  },
+  {
+   "date": "2024-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:889495844:por",
+     "title": "Decreto-Lei n.º 65/2024",
+     "published": "2024-10-01",
+     "dre_path": "/dr/detalhe/decreto-lei/65-2024-889495844"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "58221190",
+    "58221191",
+    "58221192",
+    "58221193",
+    "58221194",
+    "58221218",
+    "58221195",
+    "58221196",
+    "124264160",
+    "124264161",
+    "124264162",
+    "58244481",
+    "889770131",
+    "58244518",
+    "58244492",
+    "58244490",
+    "58244483",
+    "58221205",
+    "889770132",
+    "889770133",
+    "58221208",
+    "58244486",
+    "58221210",
+    "58244487",
+    "58221212",
+    "58244488",
+    "58244499",
+    "58224479",
+    "58244519",
+    "124264165",
+    "58224482"
+   ]
+  }
+ ],
+ "fragments": {
+  "58221190": {
+   "fragment_id": "58216180",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 40/2004\n\nde 18 de Agosto\n\nEstatuto do Bolseiro de Investigação\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:\n\n> Nota: [Decreto-Lei n.º 233/2012 - Diário da República n.º 209/2012, Série I de 2012-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2012-192592) Determinado o diferimento da produção de efeitos das alterações efetuadas pelo Decreto-Lei nº. 202/2012, de 27 de agosto."
+  },
+  "58221191": {
+   "fragment_id": "58216181",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação do Estatuto do Bolseiro de Investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação do Estatuto do Bolseiro de Investigação\n\nÉ aprovado o Estatuto do Bolseiro de Investigação, que se publica em anexo à presente lei e dela faz parte integrante."
+  },
+  "58221192": {
+   "fragment_id": "58216182",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições transitórias\n\n1 - Os regulamentos de bolsas em vigor devem adaptar-se ao disposto no presente Estatuto no prazo máximo de 60 dias, salvaguardando-se, todavia, os direitos e legítimas expectativas das partes, relativamente a bolsas em fase de atribuição e em curso.\n\n2 - Exceptua-se do disposto na parte final do número anterior a renovação de bolsas, sendo equiparada, para efeitos de aplicação do presente Estatuto, à atribuição de nova bolsa, sem prejuízo de direitos adquiridos."
+  },
+  "58221193": {
+   "fragment_id": "58216183",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 123/99, de 20 de Abril."
+  },
+  "58221194": {
+   "fragment_id": "58216184",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente Estatuto entra em vigor no dia imediato ao da sua publicação."
+  },
+  "58221195": {
+   "fragment_id": "58216185",
+   "type": 14,
+   "heading": "Anexo — Estatuto do Bolseiro de Investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatuto do Bolseiro de Investigação"
+  },
+  "58221196": {
+   "fragment_id": "58216186",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "58221197": {
+   "fragment_id": "58216187",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Estatuto define o regime aplicável aos beneficiários de subsídios, atribuídos por entidades de natureza pública e ou privada, destinados a financiar a realização, pelo próprio, de actividades de natureza científica, tecnológica e formativa, nos termos do artigo seguinte, sem prejuízo do disposto pelo direito comunitário e pelo direito internacional.\n\n2 - Os subsídios a que se refere o número anterior designam-se por bolsas, sendo concedidos no âmbito de um contrato celebrado entre o bolseiro e uma entidade acolhedora.\n\n3 - Não são abrangidas pelo presente Estatuto as bolsas atribuídas ao abrigo da acção social escolar.\n\n4 - As remunerações que o bolseiro eventualmente aufira no âmbito de relação jurídico-laboral ou prestação de serviços não são consideradas bolsas.\n\n5 - É proibido o recurso a bolseiros de investigação para satisfação de necessidades permanentes dos serviços."
+  },
+  "58221198": {
+   "fragment_id": "58216188",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - São abrangidas pelo presente Estatuto as bolsas destinadas a financiar:\n\na) Trabalhos de investigação tendentes à obtenção de grau ou diploma académico pós-graduado;\n\nb) Actividades de investigação científica, desenvolvimento tecnológico, experimentação ou transferência de tecnologia e de saber, com carácter de iniciação ou actualização, independentemente do nível de formação do bolseiro;\n\nc) Actividades de iniciação ou actualização de formação em qualquer área, desenvolvidas pelo próprio, no âmbito de estágio não curricular, nos termos e condições previstas no regulamento de concessão da bolsa, salvo o disposto em lei especial.\n\n2 - Independentemente do tipo de bolsa, são sempre exigidos a definição do objecto e um plano de actividades sujeito a acompanhamento e fiscalização, nos termos do capítulo III."
+  },
+  "58221199": {
+   "fragment_id": "58216189",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\n1 - A duração das bolsas é fixada nos respectivos regulamentos.\n\n2 - As bolsas a que se refere a alínea a) do n.º 1 do artigo 2.º não podem exceder dois anos, no caso de mestrado, e quatro anos, no caso de doutoramento.\n\n3 - As bolsas podem ser renovadas por períodos adicionais, se o regulamento o permitir, sem prejuízo dos limites máximos previstos no número anterior."
+  },
+  "58221200": {
+   "fragment_id": "58216190",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza do vínculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza do vínculo\n\nOs contratos de bolsa não geram relações de natureza jurídico-laboral nem de prestação de serviços, não adquirindo o bolseiro a qualidade de funcionário ou agente."
+  },
+  "58221201": {
+   "fragment_id": "58216191",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exercício de funções\n\n1 - O bolseiro exerce funções em cumprimento estrito do plano de actividades acordado, sendo sujeito à supervisão de um orientador ou coordenador, bem como ao acompanhamento e fiscalização regulado no capítulo III do presente Estatuto.\n\n2 - O desempenho de funções a título de bolseiro é efectuado em regime de dedicação exclusiva, não sendo permitido o exercício de qualquer outra função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal, salvo o disposto nos números seguintes.\n\n3 - Considera-se, todavia, compatível com o regime de dedicação exclusiva a percepção de remunerações decorrentes de:\n\na) Direitos de autor e de propriedade industrial;\n\nb) Realização de conferências e palestras, cursos de formação profissional de curta duração e outras actividades análogas;\n\nc) Ajudas de custo e despesas de deslocação;\n\nd) Desempenho de funções em órgãos da instituição a que esteja vinculado;\n\ne) Participação em órgãos consultivos de instituição estranha àquela a que pertença, desde que com a anuência prévia desta última;\n\nf) Participação em júris de concursos, exames ou avaliações estranhos à instituição a que esteja vinculado;\n\ng) Participação em júris e comissões de avaliação e emissão de pareceres solicitados por organismos nacionais ou estrangeiros.\n\n4 - Considera-se, ainda, compatível com o regime de dedicação exclusiva a realização de actividades externas à entidade acolhedora, ainda que remuneradas, desde que directamente relacionadas com o plano de actividades subjacente à bolsa e desempenhadas sem carácter de permanência, bem como o exercício de funções docentes."
+  },
+  "58221202": {
+   "fragment_id": "58216192",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentos\n\n1 - Do regulamento de concessão da bolsa consta:\n\na) A descrição do tipo, fins, objecto e duração da bolsa, incluindo os objectivos a atingir pelo candidato;\n\nb) As componentes financeiras, periodicidade e modo de pagamento da bolsa;\n\nc) As categorias de destinatários;\n\nd) O modelo de contrato de bolsa e dos relatórios finais a elaborar pelo bolseiro e pelo orientador ou coordenador e respectivos critérios de avaliação;\n\ne) Os termos e condições de renovação da bolsa, se a ela houver lugar;\n\nf) O regime aplicável em matéria de informação e publicidade dos financiamentos concedidos.\n\n2 - Os elementos a que se refere o número anterior são obrigatoriamente incluídos no anúncio de abertura do concurso."
+  },
+  "58221203": {
+   "fragment_id": "58216193",
+   "type": 11,
+   "heading": "Artigo 7.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aprovação\n\n1 - A entidade financiadora deve submeter os regulamentos de bolsas a aprovação da Fundação para a Ciência e a Tecnologia, podendo, todavia, aplicar um regulamento em vigor.\n\n2 - Na apreciação, por parte da Fundação para a Ciência e a Tecnologia, deve ser ponderada a adequação do programa de bolsas proposto com o disposto no artigo 2.º do presente Estatuto.\n\n3 - A aprovação depende sempre de declaração, por parte da entidade financiadora, da cabimentação orçamental das bolsas a atribuir.\n\n4 - A aprovação do regulamento acarreta a obrigação, para a entidade financiadora, de emitir, em relação aos respectivos bolseiros, todos os documentos comprovativos da qualidade de bolseiro.\n\n5 - A entidade acolhedora é subsidiariamente responsável pela emissão de documentos a que se refere o número anterior.\n\n6 - Compete à Fundação para a Ciência e a Tecnologia avaliar, quando entenda conveniente ou por determinação do ministro responsável pela política científica, os regulamentos de bolsas, tendo em conta os resultados atingidos pelo programa.\n\n7 - Verificada discrepância manifesta entre o disposto no regulamento e a sua execução, designadamente atendendo aos resultados atingidos, a Fundação para a Ciência e a Tecnologia pode revogar a sua aprovação.\n\n8 - Da recusa de aprovação do regulamento ou revogação da mesma cabe sempre recurso para o ministro responsável pela política científica."
+  },
+  "58221204": {
+   "fragment_id": "58216194",
+   "type": 11,
+   "heading": "Artigo 8.º — Contratos de bolsa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contratos de bolsa\n\n1 - Do contrato de bolsa consta obrigatoriamente:\n\na) A identificação do bolseiro e do orientador científico ou coordenador;\n\nb) A identificação da entidade acolhedora e financiadora;\n\nc) A identificação do regulamento aplicável, quando haja;\n\nd) O plano de actividades a desenvolver pelo bolseiro;\n\ne) A indicação da duração e data de início da bolsa.\n\n2 - Os contratos de bolsa são reduzidos a escrito, devendo ser remetidas à Fundação para a Ciência e a Tecnologia cópias de todos os contratos celebrados, com base nos quais elaborará um registo nacional dos bolseiros.\n\n3 - O Estatuto de Bolseiro é automaticamente concedido com a celebração do contrato, reportando-se sempre à data de início da bolsa."
+  },
+  "58221205": {
+   "fragment_id": "58216195",
+   "type": 1,
+   "heading": "Capítulo II — Direitos e deveres dos bolseiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direitos e deveres dos bolseiros"
+  },
+  "58221206": {
+   "fragment_id": "58216196",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos dos bolseiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos dos bolseiros\n\n1 - Todos os bolseiros têm direito a:\n\na) Receber pontualmente o financiamento de que beneficiem em virtude da concessão da bolsa;\n\nb) Obter da entidade acolhedora o apoio técnico e logístico necessário à prossecução do seu plano de trabalhos;\n\nc) Beneficiar de um regime próprio de segurança social, nos termos do artigo 10.º;\n\nd) Beneficiar do adiamento do serviço militar obrigatório, nos termos da legislação em vigor;\n\ne) Beneficiar, por parte da entidade acolhedora ou financiadora, de um seguro contra acidentes pessoais, incluindo as deslocações ao estrangeiro;\n\nf) Suspender as actividades financiadas pela bolsa por motivo de maternidade, paternidade, adopção, assistência a menores doentes, assistência a deficientes, assistência a filhos e assistência à família nas condições e pelos períodos estabelecidos na lei geral aplicável aos trabalhadores da Administração Pública;\n\ng) Suspender as actividades financiadas pela bolsa por motivo de doença do bolseiro, justificada por atestado médico ou declaração de doença passada por estabelecimento hospitalar;\n\nh) Beneficiar de um período de descanso que não exceda os 22 dias úteis por ano civil;\n\ni) Receber, por parte das entidades financiadora e acolhedora, todos os esclarecimentos que solicite a respeito do seu estatuto;\n\nj) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.\n\n2 - Os bolseiros que sejam titulares de um vínculo jurídico-laboral têm ainda direito à contagem do tempo durante o qual beneficiaram do presente Estatuto, para todos os efeitos legais, como tempo de serviço efectivo.\n\n3 - A suspensão a que se referem as alíneas f) e g) do n.º 1 efectua-se sem prejuízo da manutenção do pagamento da bolsa pelo tempo correspondente, reiniciando-se a contagem no 1.º dia útil de actividade do bolseiro após interrupção.\n\n4 - As importâncias auferidas pelos bolseiros em razão da bolsa relevam para efeitos de candidatura que pressuponham a existência de rendimentos, designadamente para a obtenção de crédito à habitação própria e incentivos ao arrendamento para jovens, devendo, para este fim, a Fundação para a Ciência e a Tecnologia passar comprovativo da condição de bolseiro."
+  },
+  "58221207": {
+   "fragment_id": "58216197",
+   "type": 11,
+   "heading": "Artigo 10.º — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Segurança social\n\n1 - Os bolseiros que não se encontrem abrangidos por qualquer regime de protecção social podem assegurar o exercício do direito à segurança social mediante adesão ao regime do seguro social voluntário, nos termos previstos no Decreto-Lei n.º 40/89, de 1 de Fevereiro, com as especialidades resultantes dos números seguintes.\n\n2 - São cobertas pelo seguro social voluntário as eventualidades de invalidez, velhice, morte, maternidade, paternidade, adopção, doença e doenças profissionais cobertas pelo subsistema previdencial.\n\n3 - A eventualidade de doença é regulada nos termos do regime dos trabalhadores independentes.\n\n4 - Os beneficiários do Estatuto previsto na presente lei têm direito à assunção, por parte da instituição financiadora, dos encargos resultantes das contribuições que incidem sobre o primeiro dos escalões referidos no artigo 36.º do Decreto-Lei n.º 40/89, de 1 de Fevereiro, correndo por conta própria o acréscimo de encargos decorrente da opção por uma base de incidência superior.\n\n5 - O disposto nos números anteriores é aplicável às bolsas com duração igual ou superior a seis meses, reportando-se o enquadramento no regime do seguro social voluntário à data de início da bolsa, desde que o requerimento seja efectuado no período mínimo de duração da mesma.\n\n6 - Compete à Fundação para a Ciência e a Tecnologia emitir comprovativo do Estatuto do Bolseiro, para os efeitos previstos nos números anteriores.\n\n7 - Podem, igualmente, enquadrar-se no regime do seguro social voluntário previsto no presente diploma os bolseiros estrangeiros ou apátridas que exerçam a sua actividade em Portugal, independentemente do tempo de residência."
+  },
+  "58221208": {
+   "fragment_id": "58216198",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso a cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso a cuidados de saúde\n\nOs bolseiros têm acesso a cuidados de saúde, no quadro de protocolos celebrados entre a entidade financiadora e as estruturas de saúde, nos termos a regular."
+  },
+  "58221209": {
+   "fragment_id": "58216199",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres dos bolseiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres dos bolseiros\n\nTodos os bolseiros devem:\n\na) Cumprir pontualmente o plano de actividades estabelecido, não podendo este ser alterado unilateralmente;\n\nb) Cumprir as regras de funcionamento interno da entidade acolhedora e as directrizes do orientador ou coordenador;\n\nc) Apresentar atempadamente os relatórios a que esteja obrigado, nos termos do regulamento e do contrato;\n\nd) Comunicar à Fundação para a Ciência e a Tecnologia a ocorrência de qualquer facto que justifique a suspensão da bolsa;\n\ne) Colaborar com as entidades competentes para o acompanhamento do bolseiro, facilitando a sua actividade e respondendo prontamente a todas as solicitações que lhe forem feitas no âmbito desse acompanhamento;\n\nf) Elaborar um relatório final de apreciação do programa de bolsa, o qual deve conter uma listagem das publicações e trabalhos elaborados no âmbito do contrato, bem como cópia do respectivo trabalho final, no caso de bolsa concedida para obtenção de grau ou diploma académico;\n\ng) Cumprir os demais deveres decorrentes da lei, do regulamento e ou do contrato."
+  },
+  "58221210": {
+   "fragment_id": "58216200",
+   "type": 1,
+   "heading": "Capítulo III — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acompanhamento e fiscalização"
+  },
+  "58221211": {
+   "fragment_id": "58216201",
+   "type": 11,
+   "heading": "Artigo 13.º — Entidade acolhedora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entidade acolhedora\n\n1 - A entidade acolhedora deve:\n\na) Acompanhar e fornecer o apoio técnico e logístico necessário ao cumprimento do plano de actividades por parte do bolseiro, designando-lhe, aquando do início da bolsa, um coordenador que supervisiona a actividade desenvolvida;\n\nb) Proceder à avaliação do desempenho do bolseiro;\n\nc) Comunicar, atempadamente, ao bolseiro as regras de funcionamento da entidade acolhedora;\n\nd) Prestar, a todo o momento, a informação necessária, por forma a garantir ao bolseiro o conhecimento do seu Estatuto.\n\n2 - A actividade inserida no âmbito da bolsa pode, pela sua especial natureza e desde que previsto no regulamento e ou contrato, ser desenvolvida noutra entidade, pública ou privada, considerando-se, neste caso, extensíveis a esta todos os deveres que incumbem à entidade acolhedora por força do número anterior.\n\n3 - A entidade acolhedora é subsidiariamente responsável pelo pagamento da bolsa, sem prejuízo do direito de regresso contra a entidade financiadora, nos termos gerais.\n\n4 - No âmbito das suas funções de supervisão, o coordenador deve elaborar um relatório final de avaliação da actividade do bolseiro, a remeter à Fundação para a Ciência e a Tecnologia e à entidade financiadora."
+  },
+  "58221212": {
+   "fragment_id": "58216202",
+   "type": 11,
+   "heading": "Artigo 14.º — Entidade financiadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entidade financiadora\n\nA entidade financiadora deve efectuar, pontualmente, os pagamentos a que se encontra vinculada por força do regulamento e contrato de bolsa."
+  },
+  "58221213": {
+   "fragment_id": "58216203",
+   "type": 11,
+   "heading": "Artigo 15.º — Núcleo do bolseiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Núcleo do bolseiro\n\n1 - Em cada entidade acolhedora deve existir um núcleo de acompanhamento dos bolseiros, responsável por prestar toda a informação relativa ao seu Estatuto.\n\n2 - O regulamento define a composição e modo de funcionamento do núcleo."
+  },
+  "58221214": {
+   "fragment_id": "58216204",
+   "type": 11,
+   "heading": "Artigo 16.º — Painel consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Painel consultivo\n\n1 - O painel consultivo acompanha o desempenho de funções, por parte do bolseiro, podendo, na sequência da sua apreciação, dirigir recomendações às entidades financiadora e ou acolhedora.\n\n2 - No exercício da sua actividade, o painel pode solicitar informações e esclarecimentos às entidades financiadora, acolhedora e aos próprios bolseiros, bem como à Fundação para a Ciência e a Tecnologia.\n\n3 - Verificadas irregularidades no cumprimento do disposto na presente lei, o painel deve suscitar junto da Inspecção-Geral da Ciência e do Ensino Superior as medidas que entenda pertinentes, podendo, ainda, em qualquer momento, sugerir, mediante parecer escrito, dirigido ao ministro responsável pela política científica, a adopção, modificação ou revogação de medidas de natureza legislativa, regulamentar ou administrativa, com incidência sobre as bolsas abrangidas pelo presente Estatuto.\n\n4 - O painel elabora um relatório anual de actividades, que poderá incluir parecer relativo à política de formação de recursos humanos na área da ciência e da tecnologia, devendo este, após apreciação por parte da tutela, ser objecto de publicação.\n\n5 - O painel consultivo é composto por três elementos, nomeados por despacho do ministro responsável pela política científica, devendo a designação recair sobre personalidades de reconhecido mérito, sendo um dos elementos oriundo de organizações representativas dos bolseiros, considerando-se como tal, as que representem pelo menos 200 bolseiros.\n\n6 - As funções desempenhadas pelo painel consultivo não são exercidas em regime de permanência, nem a tempo inteiro.\n\n7 - O painel consultivo dispõe de apoio técnico e administrativo, funcionando na dependência orgânica e funcional do Ministério da Ciência e do Ensino Superior."
+  },
+  "58221215": {
+   "fragment_id": "58216205",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cessação do contrato\n\nSão causas de cessação do contrato, com o consequente cancelamento do Estatuto:\n\na) O incumprimento reiterado, por uma das partes;\n\nb) A prestação de falsas declarações;\n\nc) A conclusão do plano de actividades;\n\nd) O decurso do prazo pelo qual a bolsa é atribuída;\n\ne) A revogação por mútuo acordo ou alteração das circunstâncias;\n\nf) A constituição de relação jurídico-laboral com a entidade acolhedora;\n\ng) Outro motivo atendível, desde que previsto no regulamento e ou contrato."
+  },
+  "58221216": {
+   "fragment_id": "58216206",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1 - O incumprimento reiterado e grave por parte da entidade acolhedora implica a proibição de receber novos bolseiros durante um período de um a dois anos.\n\n2 - No caso de incumprimento reiterado e grave por parte do bolseiro, a entidade financiadora tem direito a exigir a restituição das importâncias atribuídas.\n\n3 - Não se considera incumprimento a desistência, por parte do bolseiro, desde que notificada à entidade acolhedora e ou financiadora até 30 dias antes da pretendida cessação.\n\n4 - A decisão de aplicação das sanções a que se referem os n.os 1 e 2 do presente artigo compete ao ministro responsável pela política científica, ouvido o painel consultivo."
+  },
+  "58221217": {
+   "fragment_id": "58216207",
+   "type": 11,
+   "heading": "Artigo 19.º — Extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extensão\n\nO regime estabelecido na presente lei aplica-se, com as devidas adaptações, em tudo o que não seja contrariado pelo direito comunitário e pelo direito internacional, aos bolseiros portugueses a desenvolver actividade no estrangeiro e aos bolseiros estrangeiros a desenvolver actividade em Portugal, sempre que as respectivas bolsas sejam concedidas por entidades nacionais."
+  },
+  "58221218": {
+   "fragment_id": "58216208",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Julho de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 2 de Agosto de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 5 de Agosto de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "58244498": {
+   "fragment_id": "58216187",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Estatuto define o regime aplicável aos beneficiários de subsídios, atribuídos por entidades de natureza pública e ou privada, destinados a financiar a realização, pelo próprio, de actividades de natureza científica, tecnológica e formativa, nos termos do artigo seguinte, sem prejuízo do disposto pelo direito comunitário e pelo direito internacional.\n\n2 - Os subsídios a que se refere o número anterior designam-se por bolsas, sendo concedidos no âmbito de um contrato celebrado entre o bolseiro e uma entidade de acolhimento.\n\n3 - Não são abrangidas pelo presente Estatuto as bolsas atribuídas ao abrigo da acção social escolar.\n\n4 - (Revogado).\n\n5 - É proibido o recurso a bolseiros de investigação para satisfação de necessidades permanentes dos serviços.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58224487": {
+   "fragment_id": "58216188",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - São abrangidas pelo presente Estatuto as bolsas destinadas a financiar:\n\na) Trabalhos de investigação tendentes à obtenção dos graus académicos de mestrado não integrado em áreas estratégicas previamente definidas e de doutoramento, bem como trabalhos de investigação e formação avançada de pós-doutoramento;\n\nb) Actividades de investigação científica, desenvolvimento tecnológico, experimentação ou transferência de tecnologia e de saber, com carácter de iniciação ou actualização, independentemente do nível de formação do bolseiro;\n\nc) Actividades de iniciação ou actualização de formação em qualquer área, desenvolvidas pelo próprio, no âmbito de estágio não curricular, nos termos e condições previstas no regulamento de concessão da bolsa, salvo o disposto em lei especial.\n\n2 - Independentemente do tipo de bolsa, são sempre exigidos a definição do objecto e um plano de actividades sujeito a acompanhamento e fiscalização, nos termos do capítulo III.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58224488": {
+   "fragment_id": "58216189",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 3.º — Duração\n\n1 - A duração das bolsas é fixada nos respectivos regulamentos.\n\n2 - As bolsas a que se refere a alínea a) do n.º 1 do artigo anterior não podem exceder dois anos, no caso de mestrado não integrado, quatro anos, no caso de doutoramento, e seis anos para as bolsas de pós-doutoramento.\n\n3 - As bolsas podem ser renovadas por períodos adicionais, se o regulamento o permitir, sem prejuízo dos limites máximos previstos no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244481": {
+   "fragment_id": "58216190",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza do vínculo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557)"
+   ],
+   "markdown": "###### Artigo 4.º — Natureza do vínculo\n\nOs contratos de bolsa não geram relações de natureza jurídico-laboral nem de prestação de serviços, não adquirindo o bolseiro a qualidade de trabalhador em funções públicas.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557)"
+  },
+  "58244501": {
+   "fragment_id": "58216191",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 5.º — Exercício de funções\n\n1 - O bolseiro exerce funções em cumprimento estrito do plano de actividades acordado, sendo sujeito à supervisão de um orientador científico, bem como ao acompanhamento e fiscalização regulado no capítulo III do presente Estatuto.\n\n2 - O desempenho de funções a título de bolseiro é efectuado em regime de dedicação exclusiva, não sendo permitido o exercício de qualquer outra função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal, salvo o disposto nos números seguintes.\n\n3 - Considera-se, todavia, compatível com o regime de dedicação exclusiva a percepção de remunerações decorrentes de:\n\na) Direitos de autor e de propriedade industrial;\n\nb) Realização de conferências e palestras, cursos de formação profissional de curta duração e outras actividades análogas;\n\nc) Ajudas de custo e despesas de deslocação;\n\nd) Desempenho de funções em órgãos da instituição a que esteja vinculado;\n\ne) Participação em órgãos consultivos de instituição estranha àquela a que pertença, desde que com a anuência prévia desta última;\n\nf) Participação em júris de concursos, exames ou avaliações estranhos à instituição a que esteja vinculado;\n\ng) Participação em júris e comissões de avaliação e emissão de pareceres solicitados por organismos nacionais ou estrangeiros.\n\nh) Prestação de serviço docente pelos bolseiros de pós-doutoramento, exclusivamente no âmbito de programa de estudos avançados conducentes ao grau de doutor, quando, com autorização prévia da instituição de acolhimento, se realize sem prejuízo da exequibilidade do programa de trabalhos subjacente à bolsa e não exceda, em média anual, um total de quatro horas semanais.\n\n4 - Considera-se, ainda, compatível com o regime de dedicação exclusiva a realização de atividades externas à entidade de acolhimento, ainda que remuneradas, desde que diretamente relacionadas com o plano de atividades subjacente à bolsa e desempenhadas sem caráter de permanência.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58224475": {
+   "fragment_id": "58216266",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Deveres do orientador científico",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 5.º-A — Deveres do orientador científico\n\n1 - O bolseiro desenvolve a sua atividade sob a supervisão de um orientador científico designado pela entidade de acolhimento.\n\n2 - Ao orientador científico compete, designadamente:\n\na) Supervisionar a atividade desenvolvida pelo bolseiro no âmbito do plano de trabalhos;\n\nb) Garantir a afetação exclusiva do bolseiro ao cumprimento do plano de trabalhos;\n\nc) Emitir declarações comprovativas das atividades desenvolvidas pelo bolseiro na entidade de acolhimento;\n\nd) Elaborar, no âmbito das suas funções de supervisão, um relatório final de avaliação da atividade do bolseiro, a remeter à Fundação para a Ciência e a Tecnologia, I. P.\n\n3 - As falsas declarações são punidas nos termos da lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244492": {
+   "fragment_id": "58216192",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentos",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamentos\n\n1 - Do regulamento de concessão da bolsa consta:\n\na) A descrição do tipo, fins, objecto e duração da bolsa, incluindo os objectivos a atingir pelo candidato;\n\nb) As componentes financeiras, periodicidade e modo de pagamento da bolsa;\n\nc) As categorias de destinatários;\n\nd) O modelo de contrato de bolsa e dos relatórios finais a elaborar pelo bolseiro e pelo orientador científico e respectivos critérios de avaliação;\n\ne) Os termos e condições de renovação da bolsa, se a ela houver lugar;\n\nf) O regime aplicável em matéria de informação e publicidade dos financiamentos concedidos.\n\n2 - Os elementos a que se refere o número anterior são obrigatoriamente incluídos no anúncio de abertura do concurso.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244490": {
+   "fragment_id": "58216193",
+   "type": 11,
+   "heading": "Artigo 7.º — Aprovação",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 7.º — Aprovação\n\n1 - A entidade financiadora deve submeter os regulamentos de bolsas a aprovação da Fundação para a Ciência e a Tecnologia, I. P., podendo, todavia, aplicar um regulamento em vigor.\n\n2 - A Fundação para a Ciência e a Tecnologia, I. P., dispõe de um prazo de 20 dias úteis para se pronunciar sobre a aprovação dos regulamentos referidos no número anterior, considerando-se os mesmos tacitamente deferidos na falta de decisão naquele prazo.\n\n3 - Na apreciação, por parte da Fundação para a Ciência e a Tecnologia, I. P., deve ser ponderada a adequação do programa de bolsas proposto com o disposto no artigo 2.º do presente Estatuto.\n\n4 - A aprovação depende sempre de declaração, por parte da entidade financiadora, da cabimentação orçamental das bolsas a atribuir.\n\n5 - A aprovação do regulamento acarreta a obrigação, para a entidade financiadora, de emitir, em relação aos respectivos bolseiros, todos os documentos comprovativos da qualidade de bolseiro.\n\n6 - entidade de acolhimento é subsidiariamente responsável pela emissão de documentos a que se refere o número anterior.\n\n7 - Compete à Fundação para a Ciência e a Tecnologia, I. P.avaliar, quando entenda conveniente ou por determinação do membro do Governo responsável pela área da ciência, os regulamentos de bolsas, tendo em conta os resultados atingidos pelo programa.\n\n8 - Verificada discrepância manifesta entre o disposto no regulamento e a sua execução, designadamente atendendo aos resultados atingidos, a Fundação para a Ciência e a Tecnologia, I. P.pode revogar a sua aprovação.\n\n9 - Da recusa de aprovação do regulamento ou revogação da mesma cabe sempre recurso para o membro do Governo responsável pela área da ciência.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244483": {
+   "fragment_id": "58216194",
+   "type": 11,
+   "heading": "Artigo 8.º — Contratos de bolsa",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 8.º — Contratos de bolsa\n\n1 - Do contrato de bolsa consta obrigatoriamente:\n\na) A identificação do bolseiro e do orientador científico ou coordenador;\n\nb) A identificação da entidade de acolhimento e financiadora;\n\nc) A identificação do regulamento aplicável, quando haja;\n\nd) O plano de actividades a desenvolver pelo bolseiro;\n\ne) A indicação da duração e data de início da bolsa.\n\n2 - Os contratos de bolsa são reduzidos a escrito, devendo ser remetidas à Fundação para a Ciência e a Tecnologia, I. P. cópias de todos os contratos celebrados, com base nos quais elaborará um registo nacional dos bolseiros.\n\n3 - O Estatuto de Bolseiro é automaticamente concedido com a celebração do contrato, reportando-se sempre à data de início da bolsa.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244500": {
+   "fragment_id": "58216196",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos dos bolseiros",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos dos bolseiros\n\n1 - Todos os bolseiros têm direito a:\n\na) Receber pontualmente o financiamento de que beneficiem em virtude da concessão da bolsa;\n\nb) Obter da entidade de acolhimento o apoio técnico e logístico necessário à prossecução do seu plano de trabalhos;\n\nc) Beneficiar de um regime próprio de segurança social, nos termos do artigo 10.º;\n\nd) (Revogada).\n\ne) Beneficiar, por parte da entidade de acolhimento ou financiadora, de um seguro contra acidentes pessoais, incluindo as deslocações ao estrangeiro;\n\nf) Suspender as atividades financiadas pela bolsa por motivo de parentalidade, nos termos do regime previsto no Código do Trabalho;\n\ng) Suspender as actividades financiadas pela bolsa por motivo de doença do bolseiro, justificada por atestado médico ou declaração de doença passada por estabelecimento hospitalar;\n\nh) Beneficiar de um período de descanso que não exceda os 22 dias úteis por ano civil;\n\ni) Receber, por parte das entidades financiadora e acolhedora, todos os esclarecimentos que solicite a respeito do seu estatuto;\n\nj) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.\n\n2 - Sem prejuízo do disposto nos números seguintes, os bolseiros que sejam titulares de um vínculo jurídico-laboral têm ainda direito à contagem do tempo durante o qual beneficiaram do presente Estatuto, para todos os efeitos legais, como tempo de serviço efetivo.\n\n3 - Os bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas por tempo indeterminado, suspendem, obrigatoriamente, aquele contrato durante o período de duração da bolsa, ao abrigo do n.º 4 do artigo 232.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de setembro.\n\n4 - O disposto no número anterior é aplicável aos bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas a termo resolutivo, sem prejuízo do disposto no n.º 3 do artigo 231.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de setembro.\n\n5 - Os bolseiros detentores de uma prévia relação jurídica de emprego pública constituída por nomeação suspendem esta relação jurídica mediante a concessão de licença sem vencimento.\n\n6 - Na suspensão das atividades a que se referem as alíneas f) e g) do n.º 1 pode ser mantido o pagamento da bolsa pelo tempo correspondente, não havendo, nesse caso, lugar ao pagamento de outros subsídios aplicáveis nas eventualidades previstas naquelas disposições, nos termos legais gerais, reiniciando-se a contagem no 1.º dia útil de atividade do bolseiro após a interrupção.\n\n7 - As importâncias auferidas pelos bolseiros em razão da bolsa relevam para efeitos de candidatura que pressuponham a existência de rendimentos, designadamente para a obtenção de crédito à habitação própria e incentivos ao arrendamento para jovens, devendo, para este fim, a Fundação para a Ciência e a Tecnologia, I. P. passar comprovativo da condição de bolseiro.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244491": {
+   "fragment_id": "58216197",
+   "type": 11,
+   "heading": "Artigo 10.º — Segurança social",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 10.º — Segurança social\n\n1 - Os bolseiros que não se encontrem abrangidos por qualquer regime de protecção social podem assegurar o exercício do direito à segurança social mediante adesão ao regime do seguro social voluntário, nos termos do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, com as especialidades resultantes dos números seguintes.\n\n2 - São cobertas pelo seguro social voluntário as eventualidades de invalidez, velhice, morte, maternidade, paternidade, adopção, doença e doenças profissionais cobertas pelo sistema previdencial.\n\n3 - A eventualidade de doença é regulada nos termos do regime dos trabalhadores independentes.\n\n4 - Os beneficiários do Estatuto previsto na presente lei têm direito à assunção, por parte da instituição financiadora, dos encargos resultantes das contribuições que incidem sobre o primeiro dos escalões referidos no artigo 180.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, correndo por conta própria o acréscimo de encargos decorrente da opção por uma base de incidência superior.\n\n5 - O disposto nos números anteriores é aplicável às bolsas com duração igual ou superior a seis meses, reportando-se o enquadramento no regime do seguro social voluntário à data de início da bolsa, desde que o requerimento seja efectuado no período mínimo de duração da mesma.\n\n6 - Compete à Fundação para a Ciência e a Tecnologia, I.P., emitir comprovativo do Estatuto do Bolseiro, para os efeitos previstos nos números anteriores.\n\n7 - Podem, igualmente, enquadrar-se no regime do seguro social voluntário previsto no presente diploma os bolseiros estrangeiros ou apátridas que exerçam a sua actividade em Portugal, independentemente do tempo de residência.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244486": {
+   "fragment_id": "58216199",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres dos bolseiros",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 12.º — Deveres dos bolseiros\n\nTodos os bolseiros devem:\n\na) Cumprir pontualmente o plano de actividades estabelecido, não podendo este ser alterado unilateralmente;\n\nb) Cumprir as regras de funcionamento interno da entidade de acolhimento e as directrizes do orientador científico;\n\nc) Apresentar atempadamente os relatórios a que esteja obrigado, nos termos do regulamento e do contrato;\n\nd) Comunicar à Fundação para a Ciência e a Tecnologia a ocorrência de qualquer facto que justifique a suspensão da bolsa;\n\ne) Colaborar com as entidades competentes para o acompanhamento do bolseiro, facilitando a sua actividade e respondendo prontamente a todas as solicitações que lhe forem feitas no âmbito desse acompanhamento;\n\nf) Elaborar um relatório final de apreciação do programa de bolsa, o qual deve conter uma listagem das publicações e trabalhos elaborados no âmbito do contrato, bem como cópia do respectivo trabalho final, no caso de bolsa concedida para obtenção de grau ou diploma académico;\n\ng) Cumprir os demais deveres decorrentes da lei, do regulamento e ou do contrato.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244487": {
+   "fragment_id": "58216201",
+   "type": 11,
+   "heading": "Artigo 13.º — Entidade de acolhimento",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 13.º — Entidade de acolhimento\n\n1 - A entidade de acolhimentodeve:\n\na) Acompanhar e fornecer o apoio técnico e logístico necessário ao cumprimento do plano de actividades por parte do bolseiro, designando-lhe, aquando do início da bolsa, um coordenador que supervisiona a actividade desenvolvida;\n\nb) Proceder à avaliação do desempenho do bolseiro;\n\nc) Comunicar, atempadamente, ao bolseiro as regras de funcionamento da entidade de acolhimento;\n\nd) Prestar, a todo o momento, a informação necessária, por forma a garantir ao bolseiro o conhecimento do seu Estatuto.\n\n2 - A actividade inserida no âmbito da bolsa pode, pela sua especial natureza e desde que previsto no regulamento e ou contrato, ser desenvolvida noutra entidade, pública ou privada, considerando-se, neste caso, extensíveis a esta todos os deveres que incumbem à entidade de acolhimento por força do número anterior.\n\n3 - A entidade de acolhimento é subsidiariamente responsável pelo pagamento da bolsa, sem prejuízo do direito de regresso contra a entidade financiadora, nos termos gerais.\n\n4 - O montante da bolsa pode ser majorado pela instituição de acolhimento desde que essa majoração não seja diretamente financiada pela Fundação para a Ciência e a Tecnologia, I. P., e não implique qualquer alteração ao programa de trabalhos.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244488": {
+   "fragment_id": "58216203",
+   "type": 11,
+   "heading": "Artigo 15.º — Núcleo do bolseiro",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 15.º — Núcleo do bolseiro\n\n1 - Em cada entidade de acolhimento deve existir um núcleo de acompanhamento dos bolseiros, responsável por prestar toda a informação relativa ao seu Estatuto.\n\n2 - O regulamento define a composição e modo de funcionamento do núcleo.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244499": {
+   "fragment_id": "58216204",
+   "type": 11,
+   "heading": "Artigo 16.º — Painel consultivo",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 16.º — Painel consultivo\n\n1 - O painel consultivo acompanha o desempenho de funções, por parte do bolseiro, podendo, na sequência da sua apreciação, dirigir recomendações às entidades financiadora e ou acolhedora.\n\n2 - No exercício da sua actividade, o painel pode solicitar informações e esclarecimentos às entidades financiadora, acolhedora e aos próprios bolseiros, bem como à Fundação para a Ciência e a Tecnologia.\n\n3 - Verificadas irregularidades no cumprimento do disposto na presente lei, o painel deve suscitar junto da Inspecção-Geral da Ciência e do Ensino Superior as medidas que entenda pertinentes, podendo, ainda, em qualquer momento, sugerir, mediante parecer escrito, dirigido ao membro do Governo responsável pela área da ciência, a adopção, modificação ou revogação de medidas de natureza legislativa, regulamentar ou administrativa, com incidência sobre as bolsas abrangidas pelo presente Estatuto.\n\n4 - O painel elabora um relatório anual de actividades, que poderá incluir parecer relativo à política de formação de recursos humanos na área da ciência e da tecnologia, devendo este, após apreciação por parte da tutela, ser objecto de publicação.\n\n5 - O painel consultivo é composto por três elementos, nomeados por despacho do membro do Governo responsável pela área da ciência, devendo a designação recair sobre personalidades de reconhecido mérito, sendo um dos elementos oriundo de organizações representativas dos bolseiros, considerando-se como tal, as que representem pelo menos 200 bolseiros.\n\n6 - As funções desempenhadas pelo painel consultivo não são exercidas em regime de permanência, nem a tempo inteiro.\n\n7 - O painel consultivo dispõe de apoio técnico e administrativo, funcionando na dependência orgânica e funcional do Ministério da Ciência e do Ensino Superior.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58224479": {
+   "fragment_id": "58216267",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Provedor do bolseiro",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 16.º-A — Provedor do bolseiro\n\n1 - O provedor do bolseiro é designado pelo membro do Governo responsável pela área da ciência, de entre personalidades de reconhecido mérito científico, pelo período de três anos.\n\n2 - O provedor do bolseiro tem como função defender e promover, sem poder de decisão, os direitos e legítimos interesses dos bolseiros de investigação no âmbito da aplicação do presente Estatuto.\n\n3 - Os bolseiros de investigação podem, individual ou coletivamente, apresentar ao provedor do bolseiro queixas e participações, por ações ou omissões, quer das instituições de acolhimento quer da entidade financiadora, bem como formular sugestões ou boas práticas no âmbito deste Estatuto.\n\n4 - O provedor do bolseiro, no âmbito da sua atividade, pode emitir recomendações às instituições de acolhimento bem como às instituições financiadoras.\n\n5 - O exercício das funções de provedor do bolseiro não é remunerado, sem prejuízo do direito ao pagamento de despesas com as deslocações, decorrentes das funções exercidas, nos termos previstos no regime jurídico do abono de ajudas de custo e transporte relativo às deslocações em serviço público da generalidade dos trabalhadores em funções públicas.\n\n6 - O apoio logístico, administrativo e técnico-jurídico ao provedor do bolseiro é prestado pela Fundação para a Ciência e a Tecnologia, I. P.»\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244489": {
+   "fragment_id": "58216205",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação do contrato",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 17.º — Cessação do contrato\n\nSão causas de cessação do contrato de bolsa, com o consequente cancelamento do Estatuto:\n\na) O incumprimento reiterado, por uma das partes;\n\nb) A prestação de falsas declarações pelo bolseiro ou respetivo orientador científico;\n\nc) A conclusão do plano de actividades;\n\nd) O decurso do prazo pelo qual a bolsa é atribuída;\n\ne) A revogação por mútuo acordo ou alteração das circunstâncias;\n\nf) A constituição de relação jurídico-laboral com a entidade de acolhimento;\n\ng) Outro motivo atendível, desde que previsto no regulamento e ou contrato.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244497": {
+   "fragment_id": "58216206",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": "2012-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1 - O incumprimento reiterado e grave por parte da entidade de acolhimento implica a proibição de receber novos bolseiros durante um período de um a dois anos.\n\n2 - No caso de incumprimento reiterado e grave por parte do bolseiro, a entidade financiadora tem direito a exigir a restituição das importâncias atribuídas.\n\n3 - (Revogado).\n\n4 - A entidade financiadora tem ainda direito a exigir do bolseiro e ou da entidade de acolhimento a restituição das importâncias atribuídas, salvo motivos ponderosos devidamente justificados, em caso de não entrega da tese para a obtenção do grau no período de três anos após a cessação do contrato de bolsa.\n\n5 - O disposto no número anterior é aplicável no caso de desistência de bolsa, por parte do bolseiro, depois de decorrido metade do período da duração da mesma e sem a entrega da tese para a obtenção do grau no período de três anos após a cessação do contrato de bolsa.\n\n6 - A decisão de aplicação das sanções a que se referem os n.os 1 e 2 compete ao membro do Governo responsável pela área da ciência, ouvido o provedor do bolseiro e a Fundação para a Ciência e a Tecnologia, I. P.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58224482": {
+   "fragment_id": "58216207",
+   "type": 11,
+   "heading": "Artigo 19.º — Extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extensão\n\nO regime estabelecido na presente lei aplica-se, com as devidas adaptações, em tudo o que não seja contrariado pelo direito comunitário e pelo direito internacional, aos bolseiros portugueses a desenvolver actividade no estrangeiro e aos bolseiros estrangeiros a desenvolver actividade em Portugal, sempre que as respectivas bolsas sejam concedidas por entidades nacionais."
+  },
+  "58244518": {
+   "fragment_id": "58216266",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Deveres do orientador científico",
+   "in_force_from": "2013-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 12/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/lei/12-2013-258166), em vigor a partir de 2013-02-03",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 5.º-A — Deveres do orientador científico\n\n1 - O bolseiro desenvolve a sua atividade sob a supervisão de um orientador científico designado pela entidade de acolhimento.\n\n2 - Ao orientador científico compete, designadamente:\n\na) Supervisionar a atividade desenvolvida pelo bolseiro no âmbito do plano de trabalhos;\n\nb) Garantir a afetação exclusiva do bolseiro ao cumprimento do plano de trabalhos;\n\nc) Emitir declarações comprovativas das atividades desenvolvidas pelo bolseiro na entidade de acolhimento;\n\nd) Elaborar, no âmbito das suas funções de supervisão, um relatório final de avaliação da atividade do bolseiro, a remeter à Fundação para a Ciência e a Tecnologia, I. P.\n\n3 - As falsas declarações do orientador científico impedem a continuidade da supervisão e são punidas nos termos da lei.\n\n> Alterado pelo/a [Lei n.º 12/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/lei/12-2013-258166), em vigor a partir de 2013-02-03\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244519": {
+   "fragment_id": "58216205",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação do contrato",
+   "in_force_from": "2013-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 12/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/lei/12-2013-258166), em vigor a partir de 2013-02-03",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 17.º — Cessação do contrato\n\nSão causas de cessação do contrato de bolsa, com o consequente cancelamento do Estatuto:\n\na) O incumprimento reiterado, por uma das partes;\n\nb) A prestação de falsas declarações pelo bolseiro;\n\nc) A conclusão do plano de actividades;\n\nd) O decurso do prazo pelo qual a bolsa é atribuída;\n\ne) A revogação por mútuo acordo ou alteração das circunstâncias;\n\nf) A constituição de relação jurídico-laboral com a entidade de acolhimento;\n\ng) Outro motivo atendível, desde que previsto no regulamento e ou contrato.\n\n> Alterado pelo/a [Lei n.º 12/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/lei/12-2013-258166), em vigor a partir de 2013-02-03\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "58244520": {
+   "fragment_id": "58216191",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções",
+   "in_force_from": "2013-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2013 - Diário da República n.º 130/2013, Série I de 2013-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), em vigor a partir de 2013-07-14",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 5.º — Exercício de funções\n\n1 - O bolseiro exerce funções em cumprimento estrito do plano de actividades acordado, sendo sujeito à supervisão de um orientador científico, bem como ao acompanhamento e fiscalização regulado no capítulo III do presente Estatuto.\n\n2 - O desempenho de funções a título de bolseiro é efectuado em regime de dedicação exclusiva, não sendo permitido o exercício de qualquer outra função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal, salvo o disposto nos números seguintes.\n\n3 - Considera-se, todavia, compatível com o regime de dedicação exclusiva a percepção de remunerações decorrentes de:\n\na) Direitos de autor e de propriedade industrial;\n\nb) Realização de conferências e palestras, cursos de formação profissional de curta duração e outras actividades análogas;\n\nc) Ajudas de custo e despesas de deslocação;\n\nd) Desempenho de funções em órgãos da instituição a que esteja vinculado;\n\ne) Participação em órgãos consultivos de instituição estranha àquela a que pertença, desde que com a anuência prévia desta última;\n\nf) Participação em júris de concursos, exames ou avaliações estranhos à instituição a que esteja vinculado;\n\ng) Participação em júris e comissões de avaliação e emissão de pareceres solicitados por organismos nacionais ou estrangeiros.\n\nh) Prestação de serviço docente pelos bolseiros em instituição de ensino superior quando, com a concordância dos próprios, a autorização prévia da instituição de acolhimento e sem prejuízo da exequibilidade do programa de trabalhos subjacente à bolsa, se realize até um máximo de quatro horas por semana, não excedendo um valor médio de três horas semanais por semestre, não podendo ainda abranger a responsabilidade exclusiva por cursos ou unidades curriculares.\n\n4 - Considera-se, ainda, compatível com o regime de dedicação exclusiva a realização de atividades externas à entidade de acolhimento, ainda que remuneradas, desde que diretamente relacionadas com o plano de atividades subjacente à bolsa e desempenhadas sem caráter de permanência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2013 - Diário da República n.º 130/2013, Série I de 2013-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), em vigor a partir de 2013-07-14\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "124264160": {
+   "fragment_id": "58216187",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2019-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Estatuto define o regime aplicável aos beneficiários de subsídios, atribuídos por entidades de natureza pública ou privada, destinados a financiar a realização, pelo próprio, de atividades de investigação, nos termos do artigo seguinte, sem prejuízo do disposto pelo direito da União Europeia e pelo direito internacional.\n\n2 - Os subsídios a que se refere o número anterior designam-se por bolsas, sendo concedidos no âmbito de um contrato celebrado entre o bolseiro e uma entidade de acolhimento.\n\n3 - Não são abrangidas pelo presente Estatuto as bolsas atribuídas ao abrigo da acção social escolar.\n\n4 - (Revogado).\n\n5 - É proibido o recurso a bolseiros de investigação para satisfação de necessidades permanentes dos serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "124264161": {
+   "fragment_id": "58216188",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2019-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - São abrangidas pelo presente Estatuto as bolsas destinadas a financiar:\n\na) Trabalhos de iniciação à investigação e de investigação associados à obtenção de graus e diplomas do ensino superior;\n\nb) Trabalhos de investigação por doutorados cujo grau académico tenha sido obtido há menos de três anos;\n\nc) (Revogada.)\n\n2 - A celebração do contrato relativo às bolsas referidas na alínea b) do número anterior é permitida apenas quando, cumulativamente:\n\na) A investigação pós-doutoral em causa seja realizada em entidade de acolhimento distinta da entidade onde foram desenvolvidos os trabalhos de investigação que conduziram à atribuição do grau de doutor;\n\nb) As atividades de investigação em causa não exijam experiência pós-doutoral;\n\nc) As atividades de investigação em causa tenham um prazo de desenvolvimento e execução igual ou inferior a três anos;\n\nd) O bolseiro não exceda, com a celebração do contrato de bolsa em causa, um período acumulado de três anos nessa condição, seguidos ou interpolados.\n\n3 - Independentemente do tipo de bolsa, são sempre exigidos a definição do objecto e um plano de actividades sujeito a acompanhamento e fiscalização, nos termos do capítulo III.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "124264162": {
+   "fragment_id": "58216189",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": "2019-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 3.º — Duração\n\n1 - A duração das bolsas é fixada nos respectivos regulamentos.\n\n2 - As bolsas não podem exceder dois anos no caso de mestrado, quatro anos no caso de doutoramento, três anos no caso de pós-doutoramento e um ano nas demais situações.\n\n3 - As bolsas podem ser renovadas por períodos adicionais, se o regulamento o permitir, sem prejuízo dos limites máximos previstos no número anterior.\n\n4 - Terminado o contrato relativo às bolsas referidas na alínea b) do n.º 1 do artigo anterior, não pode ser celebrado novo contrato de bolsa entre a mesma entidade de acolhimento e o mesmo bolseiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "124264163": {
+   "fragment_id": "58216191",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções",
+   "in_force_from": "2019-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2013 - Diário da República n.º 130/2013, Série I de 2013-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), em vigor a partir de 2013-07-14",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 5.º — Exercício de funções\n\n1 - O bolseiro exerce funções em cumprimento estrito do plano de actividades acordado, sendo sujeito à supervisão de um orientador científico, bem como ao acompanhamento e fiscalização regulado no capítulo III do presente Estatuto.\n\n2 - O desempenho de funções a título de bolseiro é efetuado em regime de dedicação exclusiva, não sendo permitido o exercício de profissão ou atividade remunerada, pública ou privada, incluindo o exercício de profissão liberal, salvo o disposto nos números seguintes.\n\n3 - Considera-se, todavia, compatível com o regime de dedicação exclusiva a percepção de remunerações decorrentes de:\n\na) Direitos de autor e de propriedade industrial;\n\nb) Realização de conferências e palestras, cursos de formação profissional de curta duração e outras actividades análogas;\n\nc) Ajudas de custo e despesas de deslocação;\n\nd) Desempenho de funções em órgãos da instituição a que esteja vinculado;\n\ne) Participação em órgãos consultivos de instituição estranha àquela a que pertença, desde que com a anuência prévia desta última;\n\nf) Participação em júris de concursos, exames ou avaliações estranhos à instituição a que esteja vinculado;\n\ng) Participação em júris e comissões de avaliação e emissão de pareceres solicitados por organismos nacionais ou estrangeiros.\n\nh) Prestação de serviço docente pelos bolseiros em instituição de ensino superior quando, com a concordância dos próprios, a autorização prévia da instituição de acolhimento e sem prejuízo da exequibilidade do programa de trabalhos subjacente à bolsa, se realize até um máximo de quatro horas por semana, não excedendo um valor médio de três horas semanais por semestre, não podendo ainda abranger a responsabilidade exclusiva por cursos ou unidades curriculares.\n\n4 - Considera-se, ainda, compatível com o regime de dedicação exclusiva a realização de atividades externas à entidade de acolhimento, mesmo que remuneradas, desde que diretamente relacionadas com o plano de atividades subjacente à bolsa ou desempenhadas sem caráter de permanência, não prejudicando a execução do referido programa de trabalhos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2013 - Diário da República n.º 130/2013, Série I de 2013-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), em vigor a partir de 2013-07-14\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "124264164": {
+   "fragment_id": "58216196",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos dos bolseiros",
+   "in_force_from": "2019-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos dos bolseiros\n\n1 - Todos os bolseiros têm direito a:\n\na) Receber pontualmente o financiamento de que beneficiem em virtude da concessão da bolsa;\n\nb) Obter da entidade de acolhimento o apoio técnico e logístico necessário à prossecução do seu plano de trabalhos;\n\nc) Beneficiar de um regime próprio de segurança social, nos termos do artigo 10.º;\n\nd) (Revogada).\n\ne) Beneficiar, por parte da entidade de acolhimento ou financiadora, de um seguro contra acidentes pessoais, incluindo as deslocações ao estrangeiro;\n\nf) Suspender as atividades financiadas pela bolsa por motivo de parentalidade, nos termos do regime previsto no Código do Trabalho;\n\ng) Suspender as actividades financiadas pela bolsa por motivo de doença do bolseiro, justificada por atestado médico ou declaração de doença passada por estabelecimento hospitalar;\n\nh) Beneficiar de um período de descanso que não exceda os 22 dias úteis por ano civil;\n\ni) Receber, por parte das entidades financiadora e acolhedora, todos os esclarecimentos que solicite a respeito do seu estatuto;\n\nj) Suspender o contrato de bolsa em caso de exercício transitório de outra função ou atividade remunerada, pública ou privada, incompatível com o regime de dedicação exclusiva previsto no artigo 5.º;\n\nk) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.\n\n2 - Sem prejuízo do disposto nos números seguintes, os bolseiros que sejam titulares de um vínculo jurídico-laboral têm ainda direito à contagem do tempo durante o qual beneficiaram do presente Estatuto, para todos os efeitos legais, como tempo de serviço efetivo.\n\n3 - Os bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas por tempo indeterminado, suspendem, obrigatoriamente, aquele contrato durante o período de duração da bolsa, ao abrigo do n.º 4 do artigo 232.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de setembro.\n\n4 - O disposto no número anterior é aplicável aos bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas a termo resolutivo, sem prejuízo do disposto no n.º 3 do artigo 231.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de setembro.\n\n5 - Os bolseiros detentores de uma prévia relação jurídica de emprego pública constituída por nomeação suspendem esta relação jurídica mediante a concessão de licença sem vencimento.\n\n6 - Na suspensão das atividades a que se referem as alíneas f) e g) do n.º 1 pode ser mantido o pagamento da bolsa pelo tempo correspondente, não havendo, nesse caso, lugar ao pagamento de outros subsídios aplicáveis nas eventualidades previstas naquelas disposições, nos termos legais gerais, reiniciando-se a contagem no 1.º dia útil de atividade do bolseiro após a interrupção.\n\n7 - As importâncias auferidas pelos bolseiros em razão da bolsa relevam para efeitos de candidatura que pressuponham a existência de rendimentos, designadamente para a obtenção de crédito à habitação própria e incentivos ao arrendamento para jovens, devendo, para este fim, a Fundação para a Ciência e a Tecnologia, I. P. passar comprovativo da condição de bolseiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "124264165": {
+   "fragment_id": "58216206",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": "2019-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1 - O incumprimento reiterado e grave por parte da entidade de acolhimento implica a proibição de receber novos bolseiros durante um período de um a dois anos.\n\n2 - No caso de incumprimento reiterado e grave por parte do bolseiro, a entidade financiadora tem direito a exigir a restituição das importâncias atribuídas.\n\n3 - (Revogado).\n\n4 - A entidade financiadora tem ainda direito a exigir do bolseiro e ou da entidade de acolhimento a restituição das importâncias atribuídas, salvo motivos ponderosos devidamente justificados, em caso de não entrega da tese para a obtenção do grau no período de três anos após a cessação do contrato de bolsa.\n\n5 - O disposto no número anterior é aplicável no caso de desistência de bolsa, por parte do bolseiro, depois de decorrido metade do período da duração da mesma e sem a entrega da tese para a obtenção do grau no período de três anos após a cessação do contrato de bolsa.\n\n6 - A decisão de aplicação das sanções a que se referem os n.os 1 e 2 compete ao conselho diretivo da Fundação para a Ciência e a Tecnologia, I. P., ouvido o provedor do bolseiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "889770131": {
+   "fragment_id": "58216191",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções",
+   "in_force_from": "2024-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2024 - Diário da República n.º 190/2024, Série I de 2024-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2024-889495844), em vigor a partir de 2024-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2013 - Diário da República n.º 130/2013, Série I de 2013-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), em vigor a partir de 2013-07-14",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 5.º — Exercício de funções\n\n1 - O bolseiro exerce funções em cumprimento estrito do plano de actividades acordado, sendo sujeito à supervisão de um orientador científico, bem como ao acompanhamento e fiscalização regulado no capítulo III do presente Estatuto.\n\n2 - O desempenho de funções a título de bolseiro é efetuado em regime de dedicação exclusiva, não sendo permitido o exercício de profissão ou atividade remunerada, pública ou privada, incluindo o exercício de profissão liberal, salvo o disposto nos números seguintes.\n\n3 - Considera-se, todavia, compatível com o regime de dedicação exclusiva a percepção de remunerações decorrentes de:\n\na) Direitos de autor e de propriedade industrial;\n\nb) Realização de conferências e palestras, cursos de formação profissional de curta duração e outras actividades análogas;\n\nc) Ajudas de custo e despesas de deslocação;\n\nd) Desempenho de funções em órgãos da instituição a que esteja vinculado;\n\ne) Participação em órgãos consultivos de instituição estranha àquela a que pertença, desde que com a anuência prévia desta última;\n\nf) Participação em júris de concursos, exames ou avaliações estranhos à instituição a que esteja vinculado;\n\ng) Participação em júris e comissões de avaliação e emissão de pareceres solicitados por organismos nacionais ou estrangeiros.\n\nh) Prestação de serviço docente pelos bolseiros em instituição de ensino superior quando, com a concordância dos próprios, a autorização prévia da instituição de acolhimento e sem prejuízo da exequibilidade do programa de trabalhos subjacente à bolsa, se realize até um máximo de quatro horas por semana, não excedendo um valor médio de três horas semanais por semestre, não podendo ainda abranger a responsabilidade exclusiva por cursos ou unidades curriculares.\n\ni) Prestação de serviço docente pelos bolseiros em estabelecimento de ensino básico, secundário ou básico e secundário quando, com a concordância dos próprios, a autorização prévia da instituição de acolhimento e sem prejuízo da exequibilidade do programa de trabalhos subjacente à bolsa, se realize até um máximo, em média, de 6 horas por semana, não excedendo um total de 150 horas por ano letivo.\n\n4 - A prestação de serviço docente referida nas alíneas h) e i) do número anterior abrange todas as atividades letivas que sejam como tal consideradas nos respetivos estatutos ou normas legais aplicáveis à carreira docente.\n\n5 - A remuneração devida pela prestação de serviço docente referida na alínea i) do n.º 3 é contabilizada por referência ao índice 167 da escala remuneratória do pessoal docente do ensino básico e secundário, calculada na proporção do horário atribuído.\n\n6 - Considera-se, ainda, compatível com o regime de dedicação exclusiva a realização de atividades externas à entidade de acolhimento, mesmo que remuneradas, desde que diretamente relacionadas com o plano de atividades subjacente à bolsa ou desempenhadas sem caráter de permanência, não prejudicando a execução do referido programa de trabalhos.\n\n7 - O exercício das atividades referidas nos números anteriores não pode, em caso algum, implicar qualquer alteração à duração, nem ao valor da bolsa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2024 - Diário da República n.º 190/2024, Série I de 2024-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2024-889495844), em vigor a partir de 2024-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2013 - Diário da República n.º 130/2013, Série I de 2013-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), em vigor a partir de 2013-07-14\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "889770132": {
+   "fragment_id": "58216196",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos dos bolseiros",
+   "in_force_from": "2024-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2024 - Diário da República n.º 190/2024, Série I de 2024-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2024-889495844), em vigor a partir de 2024-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos dos bolseiros\n\n1 - Todos os bolseiros têm direito a:\n\na) Receber pontualmente o financiamento de que beneficiem em virtude da concessão da bolsa;\n\nb) Obter da entidade de acolhimento o apoio técnico e logístico necessário à prossecução do seu plano de trabalhos;\n\nc) Beneficiar de um regime próprio de segurança social, nos termos do artigo 10.º;\n\nd) (Revogada).\n\ne) Beneficiar, por parte da entidade de acolhimento ou financiadora, de um seguro contra acidentes pessoais, incluindo as deslocações ao estrangeiro;\n\nf) Suspender as atividades financiadas pela bolsa por motivo de parentalidade, nos termos do regime previsto no Código do Trabalho;\n\ng) Suspender as actividades financiadas pela bolsa por motivo de doença do bolseiro, justificada por atestado médico ou declaração de doença passada por estabelecimento hospitalar;\n\nh) Beneficiar de um período de descanso que não exceda os 22 dias úteis por ano civil;\n\ni) Receber, por parte das entidades financiadora e acolhedora, todos os esclarecimentos que solicite a respeito do seu estatuto;\n\nj) Suspender o contrato de bolsa em caso de exercício transitório de outra função ou atividade remunerada, pública ou privada, incompatível com o regime de dedicação exclusiva previsto no artigo 5.º;\n\nk) Auferir remuneração pela prestação de serviço docente referida nas alíneas h) e i) do n.º 3 do artigo 5.º;\n\nl) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.\n\n2 - Sem prejuízo do disposto nos números seguintes, os bolseiros que sejam titulares de um vínculo jurídico-laboral têm ainda direito à contagem do tempo durante o qual beneficiaram do presente Estatuto, para todos os efeitos legais, como tempo de serviço efetivo.\n\n3 - Os bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas por tempo indeterminado, suspendem, obrigatoriamente, aquele contrato durante o período de duração da bolsa, ao abrigo do n.º 4 do artigo 278.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP).\n\n4 - O disposto no número anterior é aplicável aos bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas a termo resolutivo, sem prejuízo do disposto no n.º 3 do artigo 277.º da LTFP.\n\n5 - Os bolseiros detentores de uma prévia relação jurídica de emprego pública constituída por nomeação suspendem esta relação jurídica mediante a concessão de licença sem vencimento.\n\n6 - Na suspensão das atividades a que se referem as alíneas f) e g) do n.º 1 pode ser mantido o pagamento da bolsa pelo tempo correspondente, não havendo, nesse caso, lugar ao pagamento de outros subsídios aplicáveis nas eventualidades previstas naquelas disposições, nos termos legais gerais.\n\n7 - Para efeitos do disposto no número anterior, a contagem do tempo de bolsa reinicia-se no 1.º dia útil de atividade do bolseiro após cessar o motivo que determine a suspensão, não podendo a totalidade dos períodos de suspensão ser superior à duração do contrato de bolsa, salvo nos casos a que se refere a alínea g) do n.º 1.\n\n8 - As importâncias auferidas pelos bolseiros em razão da bolsa relevam para efeitos de candidatura que pressuponham a existência de rendimentos, designadamente para a obtenção de crédito à habitação própria e incentivos ao arrendamento para jovens, devendo, para este fim, a Fundação para a Ciência e a Tecnologia, I. P. passar comprovativo da condição de bolseiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2024 - Diário da República n.º 190/2024, Série I de 2024-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2024-889495844), em vigor a partir de 2024-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), em vigor a partir de 2019-08-29\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  },
+  "889770133": {
+   "fragment_id": "58216197",
+   "type": 11,
+   "heading": "Artigo 10.º — Segurança social",
+   "in_force_from": "2024-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2024 - Diário da República n.º 190/2024, Série I de 2024-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2024-889495844), em vigor a partir de 2024-10-02",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+   ],
+   "markdown": "###### Artigo 10.º — Segurança social\n\n1 - Os bolseiros que não se encontrem abrangidos por qualquer regime de protecção social podem assegurar o exercício do direito à segurança social mediante adesão ao regime do seguro social voluntário, nos termos do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, com as especialidades resultantes dos números seguintes.\n\n2 - São cobertas pelo seguro social voluntário as eventualidades de invalidez, velhice, morte, maternidade, paternidade, adopção, doença e doenças profissionais cobertas pelo sistema previdencial.\n\n3 - A eventualidade de doença é regulada nos termos do regime dos trabalhadores independentes.\n\n4 - Os beneficiários do Estatuto previsto na presente lei têm direito à assunção, por parte da instituição financiadora, dos encargos resultantes das contribuições que incidem sobre o primeiro dos escalões referidos no artigo 180.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, correndo por conta própria o acréscimo de encargos decorrente da opção por uma base de incidência superior.\n\n5 - Os beneficiários do Estatuto previsto na presente lei têm direito à assunção, por parte da instituição financiadora, dos encargos resultantes das contribuições em atraso e dos juros de mora decorrentes desse atraso que sejam imputáveis à própria instituição financiadora.\n\n6 - O disposto nos números anteriores é aplicável às bolsas com duração igual ou superior a seis meses, reportando-se o enquadramento no regime do seguro social voluntário à data de início da bolsa, desde que o requerimento seja efectuado no período mínimo de duração da mesma.\n\n7 - Compete à Fundação para a Ciência e a Tecnologia, I.P., emitir comprovativo do Estatuto do Bolseiro, para os efeitos previstos nos números anteriores.\n\n8 - Podem, igualmente, enquadrar-se no regime do seguro social voluntário previsto no presente diploma os bolseiros estrangeiros ou apátridas que exerçam a sua actividade em Portugal, independentemente do tempo de residência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2024 - Diário da República n.º 190/2024, Série I de 2024-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2024-889495844), em vigor a partir de 2024-10-02\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 202/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), em vigor a partir de 2012-08-28"
+  }
+ }
+}

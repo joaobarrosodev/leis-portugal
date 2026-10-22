@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:223663:por
+title: Portaria n.º 291/2003
+short_title: null
+summary: Fixa em 4% a taxa dos juros legais e dos estipulados sem determinação de taxa ou quantitativo. Revoga a Portaria
+  n.º 263/99, de 12 de Abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Justiça
+proposing_entity: null
+official_number: 291/2003
+official_date: null
+publication_date: '2003-04-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2003, Série I-B de 2003-04-08
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2314 - 2315
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/04/083b00/23142315.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/291/2003/04/08/p/dre/pt/html
+  oj: null
+  dre: '223663'
+  dre_path: /dr/detalhe/portaria/291-2003-223663
+  internal: pt:dre:223663:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-2003-223663
+  metadata_url: https://data.dre.pt/eli/port/291/2003/04/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-2003-223663
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-04-08T00:00:00Z'
+integrity:
+  source_sha256: 392d5a1face5d7a327637a38be3ebcde03414ede47767b52fdc6b133f03d6080
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-291-223663.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código Civil
+- JURO Legal
+- Juros
+- Direito Civil
+- Taxa
+- TAXA de JURO
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/263/1999/04/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/263/1999/04/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 291/2003
+
+de 8 de Abril
+
+A fixação da taxa dos juros legais e dos estipulados sem determinação de taxa ou quantitativo compete, nos termos do n.º 1 do artigo 559.º do Código Civil, na redacção dada pelo [Decreto-Lei n.º 200-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-c-1980-226039), de 24 de Junho, aos Ministros das Finanças e da Justiça.
+
+Atendendo à evolução verificada nas taxas de inflação e das operações passivas, a taxa fixada em 1999 encontra-se desajustada face à realidade sócio-económica.
+
+Assim:
+
+Manda o Governo, pelas Ministras de Estado e das Finanças e da Justiça, ao abrigo do n.º 1 do artigo 559.º do Código Civil, na redacção dada pelo [Decreto-Lei n.º 200-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-c-1980-226039), de 24 de Junho, o seguinte:
+
+1.º A taxa anual dos juros legais e dos estipulados sem determinação de taxa ou quantitativo é fixada em 4%.
+
+2.º É revogada a [Portaria n.º 263/99](https://diariodarepublica.pt/dr/detalhe/portaria/263-1999-543369), de 12 de Abril.
+
+3.º A presente portaria produz efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
+
+Em 18 de Março de 2003.
+
+**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona.**

@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:311450:por
+title: Portaria n.º 159/83
+short_title: null
+summary: Fixa as taxas a cobrar pela Junta Nacional dos Produtos Pecuários correspondentes aos serviços prestados nos seus
+  matadouros de aves
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Comércio e Pescas - Secretaria de Estado do Comércio
+proposing_entity: null
+official_number: 159/83
+official_date: null
+publication_date: '1983-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1983, Série I de 1983-02-19
+  number: '41'
+  series: I
+  supplement: null
+  pages: 531 - 532
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04100/05310532.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '311450'
+  dre_path: /dr/detalhe/portaria/159-1983-311450
+  internal: pt:dre:311450:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-1983-311450
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-1983-311450
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-02-19T00:00:00Z'
+integrity:
+  source_sha256: 89e05f130d7babf5b2e162074f6cabc185d566f80fd4b80bed8b787764f73626
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-159-311450.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 159/83
+
+de 19 de Fevereiro
+
+Considerando que os custos dos serviços prestado nos matadouros de aves da junta Nacional dos Produtos Pecuários, estabelecidos na [Portaria n.º 794/81](https://diariodarepublica.pt/dr/detalhe/portaria/794-1981-565005), de 11 de Setembro, já não correspondem às despesas reais inerentes aos serviços prestados devido aos aumentos significativos dos custos dos factores de produção;
+
+Considerando, assim, necessário proceder-se a um reajustamento das taxas fixadas na referida portaria.
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, nos termos do artigo 7.º do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro, o seguinte:
+
+1.º As taxas a cobrar pela Junta Nacional dos Produtos Pecuários correspondentes aos serviços prestados nos seus matadouros de aves são as seguintes:
+
+1) Utilização do matadouro, por quilograma de carcaça ... 6$00
+
+2) Abate e preparação, por quilograma de carcaça ... 2$00
+
+3) Preparação de miudezas e acondicionamento em sacos de plástico, por ave ... 1$20
+
+4) Identificação sanitária com selo metálico, por unidade ... 1$20
+
+5) Embalagem industrial das carcaças congeladas em saco de plástico apropriado, por quilograma ... 7$00
+
+6) Transporte e distribuição das carcaças frescas e congeladas e miudezas frescas e congeladas, por quilograma ... 3$00
+
+2.º As taxas a cobrar pela congelação e pela armazenagem em câmaras de refrigeração ou conservação de congelados são as seguintes:
+
+1) Congelação, por quilograma ... 2$00
+
+2) Armazenagem em câmaras de refrigeração ou de conservação de congelados, por quilograma e por mês, divisível ... 1$40
+
+3.º Esta portaria não se aplica às Regiões Autónomas da Madeira e dos Açores.
+
+4.º Fica revogada a [Portaria n.º 794/81](https://diariodarepublica.pt/dr/detalhe/portaria/794-1981-565005), de 11 de Setembro.
+
+5.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Secretaria de Estado do Comércio, 27 de Janeiro de 1983. - O Secretário de Estado do Comércio, António Escaja Gonçalves.

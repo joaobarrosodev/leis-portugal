@@ -1,0 +1,632 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:432862:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34495875",
+ "dre_path": "/dr/detalhe/decreto-lei/313-2003-432862",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-12-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122677758",
+    "46888675",
+    "46888775",
+    "46888875",
+    "46888975",
+    "46889075",
+    "46889175",
+    "46889275",
+    "46889375",
+    "46889475",
+    "46889575",
+    "46889675",
+    "46889775",
+    "46889875",
+    "46889975",
+    "46890075",
+    "46890175",
+    "46890275",
+    "46890375",
+    "46890475",
+    "46890575",
+    "46890675",
+    "46890775"
+   ]
+  },
+  {
+   "date": "2007-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641156:por",
+     "title": "Lei n.º 49/2007",
+     "published": "2007-08-31",
+     "dre_path": "/dr/detalhe/lei/49-2007-641156"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "48997275",
+    "46888675",
+    "46888775",
+    "46888875",
+    "46888975",
+    "46889075",
+    "46889175",
+    "46889275",
+    "46889375",
+    "46889475",
+    "46889575",
+    "46889675",
+    "46889775",
+    "46889875",
+    "46889975",
+    "46890075",
+    "46890175",
+    "46890275",
+    "46890375",
+    "48996575",
+    "48996675",
+    "48996775",
+    "48996875",
+    "48996975",
+    "48997075",
+    "48997175"
+   ]
+  },
+  {
+   "date": "2019-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122728684:por",
+     "title": "Decreto-Lei n.º 82/2019",
+     "published": "2019-06-27",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2019-122728684"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "122677758",
+    "122677759",
+    "122677760",
+    "122677761",
+    "122677762",
+    "122677763",
+    "122677764",
+    "122677765",
+    "122677766",
+    "122677767",
+    "122677768",
+    "122677769",
+    "122677770",
+    "122677771",
+    "122677772",
+    "122677773",
+    "122677774",
+    "122738775",
+    "122738776",
+    "122738777",
+    "122738778",
+    "122738779",
+    "122738780",
+    "122738781",
+    "122738782",
+    "122738783"
+   ]
+  }
+ ],
+ "fragments": {
+  "122677758": {
+   "fragment_id": "35115675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-10-25",
+   "changed_by": [],
+   "markdown": "A identificação dos animais de companhia é essencial nos domínios sanitário, zootécnico, jurídico e humanitário, pois visa tanto a defesa da saúde pública como animal, bem como o controlo da criação, comércio e utilização. Além disso, a identificação permite uma melhor relacionação do animal com o seu detentor, nomeadamente no que se refere à resolução de litígios por aquele causados, bem como uma adequada responsabilização do detentor face à necessidade da salvaguarda dos parâmetros sanitários e de bem-estar animal.\n\nPor outro lado, a problemática do abandono de animais de companhia tem vindo a assumir relevância crescente, não se afigurando suficiente e eficaz o quadro legal existente para o controlo desta situação.\n\nTambém os aspectos de natureza económica assumem importância significativa no contexto da valorização individual dos animais de companhia, sendo exigível um melhor controlo da respectiva comercialização.\n\nImporta, por estas razões, instituir medidas actualizadas de identificação dos cães e gatos.\n\nFace à evolução técnico-científica, o sistema electrónico é aquele que melhor responde às condições exigíveis de controlo e protecção daqueles animais de companhia, sendo porém necessário compatibilizar os diversos métodos de identificação electrónica com as normas da Organização Internacional de Normalização (ISO).\n\nPretende-se, igualmente, que um único documento - o boletim sanitário de cães e gatos - contenha todos os elementos de um animal, designadamente os respeitantes à identificação e às acções de profilaxia a que foi sujeito, e que, por outro lado, seja possível a correspondência inequívoca entre o documento e o animal.\n\nImporta igualmente criar uma base de dados nacional à qual, mediante certos requisitos, possam ter acesso as entidades envolvidas.\n\nÉ ao detentor dos animais que cabe a responsabilidade de assegurar a identificação dos mesmos. Tendo em vista facilitar e promover aquela operação, e à semelhança do que se encontra previsto para a vacinação anti-rábica, a identificação electrónica de cães e gatos poderá vir a ser realizada em regime de campanha.\n\nO sistema de identificação, devido a alguns condicionalismos de ordem prática e económica, deve ser implementado de forma progressiva, de modo a facilitar a sua aplicação e a permitir a consolidação do mesmo num intervalo de tempo razoável.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias, a Ordem dos Médicos Veterinários e a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46888675": {
+   "fragment_id": "35529275",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nÉ criado o Sistema de Identificação de Caninos e Felinos (SICAFE), que estabelece as exigências em matéria de identificação electrónica de cães e gatos, enquanto animais de companhia, e o seu registo numa base de dados nacional."
+  },
+  "46888775": {
+   "fragment_id": "35529375",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Animal de companhia» qualquer animal detido ou destinado a ser detido pelo homem, designadamente no seu lar, para seu entretenimento e companhia;\n\nb) «Detentor» qualquer pessoa, singular ou colectiva, responsável pelos animais de companhia, para efeitos de reprodução, criação, manutenção, acomodação ou utilização, com ou sem fins comerciais;\n\nc) «Identificação» a aplicação subcutânea num animal de uma cápsula com um código individual, único e permanente, seguido do preenchimento da ficha de registo;\n\nd) «Cápsula» o implante electrónico que contém um código com um número de dígitos que garanta a identificação individual do animal e permita a sua visualização através de um leitor;\n\ne) «Leitor» o aparelho destinado à leitura e visualização do código constante da cápsula;\n\nf) «Ficha de registo» o modelo aprovado pela Direcção-Geral de Veterinária (DGV), conforme ao anexo ao presente diploma, do qual faz parte integrante, no qual se insere um conjunto de dados que identificam o animal e o seu detentor, permitindo o seu registo;\n\ng) «Base de dados nacional» o conjunto de informação coligida informaticamente no território nacional, a partir das fichas de registo."
+  },
+  "46888875": {
+   "fragment_id": "35529475",
+   "type": 11,
+   "heading": "Artigo 3.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Identificação\n\n1 - Os cães e os gatos devem ser identificados por método electrónico e registados entre os 3 e os 6 meses de idade, nos termos do Regulamento de Registo, Classificação e Licenciamento de Cães e Gatos.\n\n2 - A identificação, em regime voluntário, fora dos prazos definidos no artigo 6.º pode ser realizada a partir da entrada em funcionamento do Sistema, quando existam condições que permitam o registo dos animais identificados na base de dados nacional.\n\n3 - A identificação só pode ser efectuada por um médico veterinário, através da aplicação subcutânea de uma cápsula no centro da face lateral esquerda do pescoço.\n\n4 - Antes de proceder à identificação de qualquer animal, o médico veterinário deve certificar-se sempre se este já se encontra identificado.\n\n5 - Depois de identificado o animal, o médico veterinário deve preencher a ficha de registo, sem rasuras e em triplicado, e apor a etiqueta com o número de identificação alfanumérico do animal no respectivo boletim sanitário, bem como no original, duplicado e triplicado da ficha de registo.\n\n6 - O original e o duplicado da ficha de registo são entregues ao detentor do animal, permanecendo o triplicado na posse do médico veterinário que procedeu à identificação."
+  },
+  "46888975": {
+   "fragment_id": "35529575",
+   "type": 11,
+   "heading": "Artigo 4.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Base de dados\n\n1 - É criada uma base de dados nacional na qual é coligida a informação relativa ao animal e ao detentor constante das fichas de registo que forem presentes às juntas de freguesia para aquele efeito.\n\n2 - À base de dados podem ter acesso as entidades credenciadas pela DGV.\n\n3 - A DGV é a entidade que detém e coordena a base de dados nacional, podendo delegar ou acordar, mediante a celebração de protocolos precedidos de parecer da Comissão Nacional de Protecção de Dados, a sua gestão noutras entidades públicas ou privadas.\n\n4 - Todos os detentores de animais constantes da base de dados podem sempre requerer, junto da DGV, que lhes sejam facultados gratuitamente todos os dados que a eles digam respeito."
+  },
+  "46889075": {
+   "fragment_id": "35529675",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxa devida pela utilização da base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Taxa devida pela utilização da base de dados\n\n1 - Aos utilizadores da base de dados é cobrada uma taxa destinada a custear a sua criação e manutenção, cujo produto constitui receita da DGV.\n\n2 - Por despacho dos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, é fixado o montante da taxa a cobrar, bem como os aspectos administrativos do pagamento da mesma."
+  },
+  "46889175": {
+   "fragment_id": "35529775",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigatoriedade da identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigatoriedade da identificação\n\nOs cães e gatos entre os 3 e os 6 meses de idade devem encontrar-se identificados nos termos do presente diploma:\n\n1) A partir de 1 de Julho de 2004:\n\na) Cães perigosos ou potencialmente perigosos, tal como definidos em legislação específica;\n\nb) Cães utilizados em acto venatório;\n\nc) Cães em exposição, para fins comerciais ou lucrativos, em estabelecimentos de venda, locais de criação, feiras e concursos, provas funcionais, publicidade ou fins similares;\n\n2) A partir de 1 de Julho de 2008, todos os cães nascidos após esta data;\n\n3) A obrigação de identificação dos gatos será fixada em data a definir por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "46889275": {
+   "fragment_id": "35529875",
+   "type": 11,
+   "heading": "Artigo 7.º — Isenção temporária de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Isenção temporária de identificação\n\n1 - Sempre que o médico veterinário executor entenda estar contra-indicada a aplicação da cápsula de identificação em determinados animais, elabora um atestado, devidamente assinado e carimbado, de onde constem o nome e morada do detentor, identificação do animal, o motivo da contra-indicação para a aplicação da cápsula e o período de tempo previsível para a manutenção da situação.\n\n2 - No prazo de 15 dias contados do final da contra-indicação que consta do atestado, o detentor deverá proceder à identificação electrónica do animal."
+  },
+  "46889375": {
+   "fragment_id": "35529975",
+   "type": 11,
+   "heading": "Artigo 8.º — Interdição de vacinação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Interdição de vacinação\n\nSempre que seja declarada obrigatória a vacinação anti-rábica ou outros actos de profilaxia médica, estes não poderão ser executados enquanto o animal não estiver identificado electronicamente, nos casos em que esse modo de identificação seja obrigatório."
+  },
+  "46889475": {
+   "fragment_id": "35530075",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da Direcção-Geral de Veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências da Direcção-Geral de Veterinária\n\nCompete à DGV:\n\na) Coordenar e gerir a base de dados nacional e definir as suas características;\n\nb) Fornecer aos médicos veterinários utilizadores do Sistema, através das direcções regionais de agricultura (DRA), a ficha de registo referida na alínea f) do artigo 2.º, mediante o pagamento de um montante a fixar por despacho do director-geral de Veterinária, a publicar por aviso no Diário da República, 2.ª série;\n\nc) Credenciar, para acesso à base de dados, as entidades utilizadoras."
+  },
+  "46889575": {
+   "fragment_id": "35530175",
+   "type": 11,
+   "heading": "Artigo 10.º — Atribuições do médico veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atribuições do médico veterinário\n\nCompete ao médico veterinário:\n\na) Efectuar a identificação de qualquer cão ou gato que lhe seja presente para o efeito e preencher a respectiva ficha de registo de acordo com o disposto no artigo 3.º;\n\nb) Apor a etiqueta com o número de identificação no boletim sanitário de cães e gatos;\n\nc) Salvaguardar que a identificação provoque o mínimo de dor, sofrimento ou angústia ao animal;\n\nd) Comunicar à entidade gestora da base de dados a identificação do detentor de qualquer animal cuja identificação não cumpra os requisitos do presente diploma, designadamente animais que se encontrem identificados e cujo detentor não apresente o respectivo boletim sanitário, bem como o original ou o duplicado da ficha de registo;\n\ne) Fornecer às juntas de freguesia da área de residência dos detentores a lista dos animais por si identificados, até ao dia 15 do mês seguinte àquele em que a identificação tiver sido efectuada."
+  },
+  "46889675": {
+   "fragment_id": "35530275",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências das juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências das juntas de freguesia\n\nCompete às juntas de freguesia:\n\na) Proceder ao registo dos cães e gatos nos termos definidos no Regulamento de Registo, Classificação e Licenciamento dos Cães e Gatos e introduzir os dados constantes da ficha de registo na base de dados nacional;\n\nb) Verificar que a etiqueta com o número de identificação se encontra aposta no boletim sanitário de cães e gatos antes de efectuar o registo e licenciamento previstos no Regulamento de Registo, Classificação e Licenciamento dos Cães e Gatos;\n\nc) Não proceder ao registo e licenciamento de animais que não se encontrem identificados nos termos do presente diploma."
+  },
+  "46889775": {
+   "fragment_id": "35530375",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos detentores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações dos detentores\n\nOs detentores de cães e gatos devem:\n\na) Identificar e registar os animais de que sejam detentores, nos termos e prazos previstos nos artigos 3.º e 6.º;\n\nb) Proceder ao registo dos animais de que são detentores na junta de freguesia da área da residência ou sede, nos termos do Regulamento de Registo, Classificação e Licenciamento dos Cães e Gatos;\n\nc) Comunicar, no prazo de cinco dias, à junta de freguesia da área da sua residência ou sede a morte ou extravio do animal;\n\nd) Comunicar à junta de freguesia da área da sua residência ou sede, no prazo de 30 dias, qualquer mudança de residência ou extravio do boletim sanitário;\n\ne) Entregar, em caso de alteração de detentor, o boletim sanitário ao novo detentor, devendo este último comunicar tal facto à junta de freguesia da área da sua residência ou sede, no prazo de 30 dias a contar do mesmo;\n\nf) Fazer prova junto da autoridade competente, quando introduza cão ou gato no território nacional, de que nessa data o animal já se encontrava identificado por método electrónico e proceder ao seu registo na junta de freguesia da área da sua residência;\n\ng) Proceder à identificação e registo no prazo de 30 dias a contar da introdução em território nacional de cão ou gato, sempre que não se verifique a situação prevista na alínea anterior e nos casos previstos no artigo 6.º;\n\nh) Fornecer à autoridade competente e às entidades fiscalizadoras, a pedido destas, todas as informações relativas à identificação, registo, origem, movimento, detenção e cedência de qualquer animal que detenha ou tenha detido;\n\ni) Comunicar à junta de freguesia da área da sua residência ou sede a posse de qualquer animal identificado que tenham encontrado na via pública ou em qualquer outro local."
+  },
+  "46889875": {
+   "fragment_id": "35530475",
+   "type": 11,
+   "heading": "Artigo 13.º — Identificação em regime de campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Identificação em regime de campanha\n\n1 - A identificação dos cães e gatos pode ser efectuada em regime de campanha, se assim for determinado pela DGV, a qual anunciará, através de aviso a publicar no Diário da República, os moldes em que a mesma decorrerá, devendo as DRA publicitá-la na área da sua respectiva jurisdição, por meio de editais a afixar em locais públicos, de forma a permitir a sua ampla divulgação.\n\n2 - À campanha de identificação são aplicáveis, com as necessárias adaptações, as disposições da Portaria n.º 81/2002, de 24 de Janeiro, relativas à vacinação anti-rábica em regime de campanha.\n\n3 - A taxa de identificação, em regime de campanha, é fixada por despacho conjunto dos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "46889975": {
+   "fragment_id": "35530575",
+   "type": 11,
+   "heading": "Artigo 14.º — Introdução no mercado de equipamentos de identificação electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Introdução no mercado de equipamentos de identificação electrónica\n\n1 - A introdução no mercado de equipamentos de identificação electrónica carece de autorização a conceder pela DGV.\n\n2 - Com o pedido de concessão de autorização, o interessado deve apresentar um processo, em língua portuguesa, do qual constem:\n\na) A composição e a descrição técnica do equipamento de identificação que pretende comercializar;\n\nb) Documento comprovativo da compatibilidade do equipamento com as normas da ISO;\n\nc) A documentação comprovativa da eficácia e segurança do equipamento;\n\nd) Documento que comprove a sua qualidade de representante do equipamento;\n\ne) A indicação dos países ou regiões onde o equipamento esteja a ser comercializado, se for caso disso.\n\n3 - Para além dos elementos previstos no número anterior, a DGV poderá, se entender necessário, solicitar elementos complementares.\n\n4 - As entidades que à data da publicação do presente diploma comercializem equipamentos de identificação electrónica devem, no prazo de 90 dias a contar daquela data, apresentar pedido de autorização nos termos previstos neste artigo."
+  },
+  "46890075": {
+   "fragment_id": "35530675",
+   "type": 11,
+   "heading": "Artigo 15.º — Renovação de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Renovação de autorização\n\n1 - A autorização de introdução no mercado tem a validade de cinco anos, renovável por iguais períodos a requerimento do responsável pela introdução no mercado, apresentado pelo menos três meses antes do termo da autorização, sem o que esta caducará.\n\n2 - Para efeitos do disposto no número anterior, o pedido de renovação deve, se for caso disso, ser acompanhado de documentação complementar actualizada que demonstre a adaptação ao progresso técnico e científico do equipamento anteriormente autorizado."
+  },
+  "46890175": {
+   "fragment_id": "35530775",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedidos de alteração de autorização de introdução no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pedidos de alteração de autorização de introdução no mercado\n\n1 - As alterações do equipamento de identificação devem ser previamente autorizadas pela DGV.\n\n2 - Com o requerimento de alteração, deve o responsável pela introdução no mercado apresentar um processo, em língua portuguesa, com os elementos previstos no n.º 2 do artigo 15.º que se justifiquem em função da alteração pretendida."
+  },
+  "46890275": {
+   "fragment_id": "35530875",
+   "type": 11,
+   "heading": "Artigo 17.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Taxas\n\n1 - Pela autorização de introdução no mercado de equipamento de identificação, suas alterações e renovações é devida uma taxa, de montante e condições de aplicação e cobrança a fixar por despacho conjunto dos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.\n\n2 - O produto das taxas referidas no número anterior constitui receita da DGV."
+  },
+  "46890375": {
+   "fragment_id": "35530975",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\n1 - Compete à DGV, às DRA, à Inspecção-Geral das Actividades Económicas, às câmaras municipais, aos médicos veterinários municipais, às juntas de freguesia, à GNR e a todas as autoridades policiais assegurar a fiscalização do cumprimento das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - As DRA, por si ou em colaboração com outras entidades, efectuam acções de fiscalização aos cães e gatos em exposição, para comércio ou não, em estabelecimentos de venda, feiras e concursos, bem como aos utilizados em actos venatórios, para verificar a sua identificação electrónica nos termos do presente diploma, devendo estas acções abranger anualmente, pelo menos, 5% das existências nas respectivas áreas de jurisdição.\n\n3 - Os relatórios anuais daquelas inspecções devem ser enviados à DGV até ao fim do mês de Março do ano seguinte."
+  },
+  "46890475": {
+   "fragment_id": "35531075",
+   "type": 11,
+   "heading": "Artigo 19.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível pelo presidente da câmara municipal com coima de (euro) 50 a (euro) 1850 ou (euro) 22000, consoante o agente seja pessoa singular ou colectiva, a não identificação dos cães e gatos nos termos do presente diploma e nos prazos previstos.\n\n2 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima de (euro) 50 a (euro) 1850 ou (euro) 22000, consoante o agente seja pessoa singular ou colectiva:\n\na) A não comunicação à entidade coordenadora da base de dados da posse de qualquer animal identificado encontrado na via pública ou em qualquer outro local;\n\nb) As falsas declarações prestadas pelo detentor do animal aquando da identificação do mesmo;\n\nc) A não comunicação da morte ou extravio do animal, da alteração de detentor ou da sua residência ou do extravio do boletim sanitário nos prazos estabelecidos;\n\nd) A inobservância das regras previstas para a introdução no mercado e comercialização dos métodos de identificação e respectivos equipamentos;\n\ne) A criação de obstáculos ou não permissão da verificação da identificação do animal.\n\n3 - A tentativa e a negligência são sempre punidas."
+  },
+  "46890575": {
+   "fragment_id": "35531175",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos e animais pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de um título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras, mercados, exposições, concursos ou manifestações similares;\n\ne) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior terão a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "46890675": {
+   "fragment_id": "35531275",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução, aplicação e destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução, aplicação e destino das coimas\n\n1 - A instrução dos processos relativos à contra-ordenação prevista no n.º 1 do artigo 19.º compete à câmara municipal da área da prática da infracção.\n\n2 - A instrução dos processos referentes às contra-ordenações previstas no n.º 2 do artigo 19.º compete à DRA da área da prática da infracção.\n\n3 - A afectação do produto das coimas cobradas em aplicação do artigo 19.º, n.º 1, far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 90% para a entidade que instruiu o processo e aplicou a coima.\n\n4 - A afectação do produto das coimas cobradas em aplicação do artigo 19.º, n.º 2, far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "46890775": {
+   "fragment_id": "35531375",
+   "type": 11,
+   "heading": "Artigo 22.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas à DGV e às DRA pelo presente diploma são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV na qualidade de autoridade nacional competente.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "48997275": {
+   "fragment_id": "35115675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "A identificação dos animais de companhia é essencial nos domínios sanitário, zootécnico, jurídico e humanitário, pois visa tanto a defesa da saúde pública como animal, bem como o controlo da criação, comércio e utilização. Além disso, a identificação permite uma melhor relacionação do animal com o seu detentor, nomeadamente no que se refere à resolução de litígios por aquele causados, bem como uma adequada responsabilização do detentor face à necessidade da salvaguarda dos parâmetros sanitários e de bem-estar animal.\n\nPor outro lado, a problemática do abandono de animais de companhia tem vindo a assumir relevância crescente, não se afigurando suficiente e eficaz o quadro legal existente para o controlo desta situação.\n\nTambém os aspectos de natureza económica assumem importância significativa no contexto da valorização individual dos animais de companhia, sendo exigível um melhor controlo da respectiva comercialização.\n\nImporta, por estas razões, instituir medidas actualizadas de identificação dos cães e gatos.\n\nFace à evolução técnico-científica, o sistema electrónico é aquele que melhor responde às condições exigíveis de controlo e protecção daqueles animais de companhia, sendo porém necessário compatibilizar os diversos métodos de identificação electrónica com as normas da Organização Internacional de Normalização (ISO).\n\nPretende-se, igualmente, que um único documento - o boletim sanitário de cães e gatos - contenha todos os elementos de um animal, designadamente os respeitantes à identificação e às acções de profilaxia a que foi sujeito, e que, por outro lado, seja possível a correspondência inequívoca entre o documento e o animal.\n\nImporta igualmente criar uma base de dados nacional à qual, mediante certos requisitos, possam ter acesso as entidades envolvidas.\n\nÉ ao detentor dos animais que cabe a responsabilidade de assegurar a identificação dos mesmos. Tendo em vista facilitar e promover aquela operação, e à semelhança do que se encontra previsto para a vacinação anti-rábica, a identificação electrónica de cães e gatos poderá vir a ser realizada em regime de campanha.\n\nO sistema de identificação, devido a alguns condicionalismos de ordem prática e económica, deve ser implementado de forma progressiva, de modo a facilitar a sua aplicação e a permitir a consolidação do mesmo num intervalo de tempo razoável.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias, a Ordem dos Médicos Veterinários e a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05"
+  },
+  "48996575": {
+   "fragment_id": "35531675",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Identificação do agente",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 18.º-A — Identificação do agente\n\n1 - Além das autoridades policiais, também os agentes de fiscalização devidamente credenciados pelas entidades referidas no artigo anterior podem, no exercício das suas funções e quando tal se mostre necessário, exigir do agente de uma contra-ordenação a respectiva identificação e solicitar a intervenção da autoridade policial.\n\n2 - A identificação é feita mediante a apresentação do bilhete de identidade ou outro documento autêntico que a permita ou ainda, na sua falta, através de uma testemunha identificada nos mesmos termos.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05"
+  },
+  "48996675": {
+   "fragment_id": "35531075",
+   "type": 11,
+   "heading": "Artigo 19.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível pelo presidente da câmara municipal com coima de (euro) 50 a (euro) 1850 ou (euro) 22000, consoante o agente seja pessoa singular ou colectiva, a não identificação dos cães e gatos nos termos do presente diploma e nos prazos previstos.\n\n2 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima de (euro) 50 a (euro) 1850 ou (euro) 22000, consoante o agente seja pessoa singular ou colectiva:\n\na) A não comunicação à entidade coordenadora da base de dados da posse de qualquer animal identificado encontrado na via pública ou em qualquer outro local;\n\nb) As falsas declarações prestadas pelo detentor do animal aquando da identificação do mesmo;\n\nc) A não comunicação da morte ou extravio do animal, da alteração de detentor ou da sua residência ou do extravio do boletim sanitário nos prazos estabelecidos;\n\nd) A inobservância das regras previstas para a introdução no mercado e comercialização dos métodos de identificação e respectivos equipamentos;\n\ne) A criação de obstáculos ou não permissão da verificação da identificação do animal.\n\n3 - A tentativa e a negligência são sempre punidas."
+  },
+  "48996775": {
+   "fragment_id": "35531175",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos e animais pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de um título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras, mercados, exposições, concursos ou manifestações similares;\n\ne) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior terão a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "48996875": {
+   "fragment_id": "35531275",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução, aplicação e destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução, aplicação e destino das coimas\n\n1 - A instrução dos processos relativos à contra-ordenação prevista no n.º 1 do artigo 19.º compete à câmara municipal da área da prática da infracção.\n\n2 - A instrução dos processos referentes às contra-ordenações previstas no n.º 2 do artigo 19.º compete à DRA da área da prática da infracção.\n\n3 - A afectação do produto das coimas cobradas em aplicação do artigo 19.º, n.º 1, far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 90% para a entidade que instruiu o processo e aplicou a coima.\n\n4 - A afectação do produto das coimas cobradas em aplicação do artigo 19.º, n.º 2, far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "48996975": {
+   "fragment_id": "35531375",
+   "type": 11,
+   "heading": "Artigo 22.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas à DGV e às DRA pelo presente diploma são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV na qualidade de autoridade nacional competente.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "48997075": {
+   "fragment_id": "35531475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.\n\nPromulgado em 20 de Novembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Novembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "48997175": {
+   "fragment_id": "35531575",
+   "type": 14,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n(ver modelo no documento original)"
+  },
+  "122677759": {
+   "fragment_id": "35529275",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nÉ criado o Sistema de Identificação de Caninos e Felinos (SICAFE), que estabelece as exigências em matéria de identificação electrónica de cães e gatos, enquanto animais de companhia, e o seu registo numa base de dados nacional.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677760": {
+   "fragment_id": "35529375",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Animal de companhia» qualquer animal detido ou destinado a ser detido pelo homem, designadamente no seu lar, para seu entretenimento e companhia;\n\nb) «Detentor» qualquer pessoa, singular ou colectiva, responsável pelos animais de companhia, para efeitos de reprodução, criação, manutenção, acomodação ou utilização, com ou sem fins comerciais;\n\nc) «Identificação» a aplicação subcutânea num animal de uma cápsula com um código individual, único e permanente, seguido do preenchimento da ficha de registo;\n\nd) «Cápsula» o implante electrónico que contém um código com um número de dígitos que garanta a identificação individual do animal e permita a sua visualização através de um leitor;\n\ne) «Leitor» o aparelho destinado à leitura e visualização do código constante da cápsula;\n\nf) «Ficha de registo» o modelo aprovado pela Direcção-Geral de Veterinária (DGV), conforme ao anexo ao presente diploma, do qual faz parte integrante, no qual se insere um conjunto de dados que identificam o animal e o seu detentor, permitindo o seu registo;\n\ng) «Base de dados nacional» o conjunto de informação coligida informaticamente no território nacional, a partir das fichas de registo.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677761": {
+   "fragment_id": "35529475",
+   "type": 11,
+   "heading": "Artigo 3.º — Identificação",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 3.º — Identificação\n\n1 - Os cães e os gatos devem ser identificados por método electrónico e registados entre os 3 e os 6 meses de idade, nos termos do Regulamento de Registo, Classificação e Licenciamento de Cães e Gatos.\n\n2 - A identificação, em regime voluntário, fora dos prazos definidos no artigo 6.º pode ser realizada a partir da entrada em funcionamento do Sistema, quando existam condições que permitam o registo dos animais identificados na base de dados nacional.\n\n3 - A identificação só pode ser efectuada por um médico veterinário, através da aplicação subcutânea de uma cápsula no centro da face lateral esquerda do pescoço.\n\n4 - Antes de proceder à identificação de qualquer animal, o médico veterinário deve certificar-se sempre se este já se encontra identificado.\n\n5 - Depois de identificado o animal, o médico veterinário deve preencher a ficha de registo, sem rasuras e em triplicado, e apor a etiqueta com o número de identificação alfanumérico do animal no respectivo boletim sanitário, bem como no original, duplicado e triplicado da ficha de registo.\n\n6 - O original e o duplicado da ficha de registo são entregues ao detentor do animal, permanecendo o triplicado na posse do médico veterinário que procedeu à identificação.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677762": {
+   "fragment_id": "35529575",
+   "type": 11,
+   "heading": "Artigo 4.º — Base de dados",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 4.º — Base de dados\n\n1 - É criada uma base de dados nacional na qual é coligida a informação relativa ao animal e ao detentor constante das fichas de registo que forem presentes às juntas de freguesia para aquele efeito.\n\n2 - À base de dados podem ter acesso as entidades credenciadas pela DGV.\n\n3 - A DGV é a entidade que detém e coordena a base de dados nacional, podendo delegar ou acordar, mediante a celebração de protocolos precedidos de parecer da Comissão Nacional de Protecção de Dados, a sua gestão noutras entidades públicas ou privadas.\n\n4 - Todos os detentores de animais constantes da base de dados podem sempre requerer, junto da DGV, que lhes sejam facultados gratuitamente todos os dados que a eles digam respeito.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677763": {
+   "fragment_id": "35529675",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxa devida pela utilização da base de dados",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 5.º — Taxa devida pela utilização da base de dados\n\n1 - Aos utilizadores da base de dados é cobrada uma taxa destinada a custear a sua criação e manutenção, cujo produto constitui receita da DGV.\n\n2 - Por despacho dos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, é fixado o montante da taxa a cobrar, bem como os aspectos administrativos do pagamento da mesma.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677764": {
+   "fragment_id": "35529775",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigatoriedade da identificação",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 6.º — Obrigatoriedade da identificação\n\nOs cães e gatos entre os 3 e os 6 meses de idade devem encontrar-se identificados nos termos do presente diploma:\n\n1) A partir de 1 de Julho de 2004:\n\na) Cães perigosos ou potencialmente perigosos, tal como definidos em legislação específica;\n\nb) Cães utilizados em acto venatório;\n\nc) Cães em exposição, para fins comerciais ou lucrativos, em estabelecimentos de venda, locais de criação, feiras e concursos, provas funcionais, publicidade ou fins similares;\n\n2) A partir de 1 de Julho de 2008, todos os cães nascidos após esta data;\n\n3) A obrigação de identificação dos gatos será fixada em data a definir por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677765": {
+   "fragment_id": "35529875",
+   "type": 11,
+   "heading": "Artigo 7.º — Isenção temporária de identificação",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 7.º — Isenção temporária de identificação\n\n1 - Sempre que o médico veterinário executor entenda estar contra-indicada a aplicação da cápsula de identificação em determinados animais, elabora um atestado, devidamente assinado e carimbado, de onde constem o nome e morada do detentor, identificação do animal, o motivo da contra-indicação para a aplicação da cápsula e o período de tempo previsível para a manutenção da situação.\n\n2 - No prazo de 15 dias contados do final da contra-indicação que consta do atestado, o detentor deverá proceder à identificação electrónica do animal.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677766": {
+   "fragment_id": "35529975",
+   "type": 11,
+   "heading": "Artigo 8.º — Interdição de vacinação",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 8.º — Interdição de vacinação\n\nSempre que seja declarada obrigatória a vacinação anti-rábica ou outros actos de profilaxia médica, estes não poderão ser executados enquanto o animal não estiver identificado electronicamente, nos casos em que esse modo de identificação seja obrigatório.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677767": {
+   "fragment_id": "35530075",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da Direcção-Geral de Veterinária",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 9.º — Competências da Direcção-Geral de Veterinária\n\nCompete à DGV:\n\na) Coordenar e gerir a base de dados nacional e definir as suas características;\n\nb) Fornecer aos médicos veterinários utilizadores do Sistema, através das direcções regionais de agricultura (DRA), a ficha de registo referida na alínea f) do artigo 2.º, mediante o pagamento de um montante a fixar por despacho do director-geral de Veterinária, a publicar por aviso no Diário da República, 2.ª série;\n\nc) Credenciar, para acesso à base de dados, as entidades utilizadoras.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677768": {
+   "fragment_id": "35530175",
+   "type": 11,
+   "heading": "Artigo 10.º — Atribuições do médico veterinário",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 10.º — Atribuições do médico veterinário\n\nCompete ao médico veterinário:\n\na) Efectuar a identificação de qualquer cão ou gato que lhe seja presente para o efeito e preencher a respectiva ficha de registo de acordo com o disposto no artigo 3.º;\n\nb) Apor a etiqueta com o número de identificação no boletim sanitário de cães e gatos;\n\nc) Salvaguardar que a identificação provoque o mínimo de dor, sofrimento ou angústia ao animal;\n\nd) Comunicar à entidade gestora da base de dados a identificação do detentor de qualquer animal cuja identificação não cumpra os requisitos do presente diploma, designadamente animais que se encontrem identificados e cujo detentor não apresente o respectivo boletim sanitário, bem como o original ou o duplicado da ficha de registo;\n\ne) Fornecer às juntas de freguesia da área de residência dos detentores a lista dos animais por si identificados, até ao dia 15 do mês seguinte àquele em que a identificação tiver sido efectuada.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677769": {
+   "fragment_id": "35530275",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências das juntas de freguesia",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 11.º — Competências das juntas de freguesia\n\nCompete às juntas de freguesia:\n\na) Proceder ao registo dos cães e gatos nos termos definidos no Regulamento de Registo, Classificação e Licenciamento dos Cães e Gatos e introduzir os dados constantes da ficha de registo na base de dados nacional;\n\nb) Verificar que a etiqueta com o número de identificação se encontra aposta no boletim sanitário de cães e gatos antes de efectuar o registo e licenciamento previstos no Regulamento de Registo, Classificação e Licenciamento dos Cães e Gatos;\n\nc) Não proceder ao registo e licenciamento de animais que não se encontrem identificados nos termos do presente diploma.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677770": {
+   "fragment_id": "35530375",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos detentores",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 12.º — Obrigações dos detentores\n\nOs detentores de cães e gatos devem:\n\na) Identificar e registar os animais de que sejam detentores, nos termos e prazos previstos nos artigos 3.º e 6.º;\n\nb) Proceder ao registo dos animais de que são detentores na junta de freguesia da área da residência ou sede, nos termos do Regulamento de Registo, Classificação e Licenciamento dos Cães e Gatos;\n\nc) Comunicar, no prazo de cinco dias, à junta de freguesia da área da sua residência ou sede a morte ou extravio do animal;\n\nd) Comunicar à junta de freguesia da área da sua residência ou sede, no prazo de 30 dias, qualquer mudança de residência ou extravio do boletim sanitário;\n\ne) Entregar, em caso de alteração de detentor, o boletim sanitário ao novo detentor, devendo este último comunicar tal facto à junta de freguesia da área da sua residência ou sede, no prazo de 30 dias a contar do mesmo;\n\nf) Fazer prova junto da autoridade competente, quando introduza cão ou gato no território nacional, de que nessa data o animal já se encontrava identificado por método electrónico e proceder ao seu registo na junta de freguesia da área da sua residência;\n\ng) Proceder à identificação e registo no prazo de 30 dias a contar da introdução em território nacional de cão ou gato, sempre que não se verifique a situação prevista na alínea anterior e nos casos previstos no artigo 6.º;\n\nh) Fornecer à autoridade competente e às entidades fiscalizadoras, a pedido destas, todas as informações relativas à identificação, registo, origem, movimento, detenção e cedência de qualquer animal que detenha ou tenha detido;\n\ni) Comunicar à junta de freguesia da área da sua residência ou sede a posse de qualquer animal identificado que tenham encontrado na via pública ou em qualquer outro local.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677771": {
+   "fragment_id": "35530475",
+   "type": 11,
+   "heading": "Artigo 13.º — Identificação em regime de campanha",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 13.º — Identificação em regime de campanha\n\n1 - A identificação dos cães e gatos pode ser efectuada em regime de campanha, se assim for determinado pela DGV, a qual anunciará, através de aviso a publicar no Diário da República, os moldes em que a mesma decorrerá, devendo as DRA publicitá-la na área da sua respectiva jurisdição, por meio de editais a afixar em locais públicos, de forma a permitir a sua ampla divulgação.\n\n2 - À campanha de identificação são aplicáveis, com as necessárias adaptações, as disposições da Portaria n.º 81/2002, de 24 de Janeiro, relativas à vacinação anti-rábica em regime de campanha.\n\n3 - A taxa de identificação, em regime de campanha, é fixada por despacho conjunto dos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677772": {
+   "fragment_id": "35530575",
+   "type": 11,
+   "heading": "Artigo 14.º — Introdução no mercado de equipamentos de identificação electrónica",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 14.º — Introdução no mercado de equipamentos de identificação electrónica\n\n1 - A introdução no mercado de equipamentos de identificação electrónica carece de autorização a conceder pela DGV.\n\n2 - Com o pedido de concessão de autorização, o interessado deve apresentar um processo, em língua portuguesa, do qual constem:\n\na) A composição e a descrição técnica do equipamento de identificação que pretende comercializar;\n\nb) Documento comprovativo da compatibilidade do equipamento com as normas da ISO;\n\nc) A documentação comprovativa da eficácia e segurança do equipamento;\n\nd) Documento que comprove a sua qualidade de representante do equipamento;\n\ne) A indicação dos países ou regiões onde o equipamento esteja a ser comercializado, se for caso disso.\n\n3 - Para além dos elementos previstos no número anterior, a DGV poderá, se entender necessário, solicitar elementos complementares.\n\n4 - As entidades que à data da publicação do presente diploma comercializem equipamentos de identificação electrónica devem, no prazo de 90 dias a contar daquela data, apresentar pedido de autorização nos termos previstos neste artigo.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677773": {
+   "fragment_id": "35530675",
+   "type": 11,
+   "heading": "Artigo 15.º — Renovação de autorização",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 15.º — Renovação de autorização\n\n1 - A autorização de introdução no mercado tem a validade de cinco anos, renovável por iguais períodos a requerimento do responsável pela introdução no mercado, apresentado pelo menos três meses antes do termo da autorização, sem o que esta caducará.\n\n2 - Para efeitos do disposto no número anterior, o pedido de renovação deve, se for caso disso, ser acompanhado de documentação complementar actualizada que demonstre a adaptação ao progresso técnico e científico do equipamento anteriormente autorizado.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122677774": {
+   "fragment_id": "35530775",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedidos de alteração de autorização de introdução no mercado",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 16.º — Pedidos de alteração de autorização de introdução no mercado\n\n1 - As alterações do equipamento de identificação devem ser previamente autorizadas pela DGV.\n\n2 - Com o requerimento de alteração, deve o responsável pela introdução no mercado apresentar um processo, em língua portuguesa, com os elementos previstos no n.º 2 do artigo 15.º que se justifiquem em função da alteração pretendida.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738775": {
+   "fragment_id": "35530875",
+   "type": 11,
+   "heading": "Artigo 17.º — Taxas",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 17.º — Taxas\n\n1 - Pela autorização de introdução no mercado de equipamento de identificação, suas alterações e renovações é devida uma taxa, de montante e condições de aplicação e cobrança a fixar por despacho conjunto dos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.\n\n2 - O produto das taxas referidas no número anterior constitui receita da DGV.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738776": {
+   "fragment_id": "35530975",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\n1 - Compete à DGV, às DRA, à Inspecção-Geral das Actividades Económicas, às câmaras municipais, aos médicos veterinários municipais, às juntas de freguesia, à GNR e a todas as autoridades policiais assegurar a fiscalização do cumprimento das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - As DRA, por si ou em colaboração com outras entidades, efectuam acções de fiscalização aos cães e gatos em exposição, para comércio ou não, em estabelecimentos de venda, feiras e concursos, bem como aos utilizados em actos venatórios, para verificar a sua identificação electrónica nos termos do presente diploma, devendo estas acções abranger anualmente, pelo menos, 5% das existências nas respectivas áreas de jurisdição.\n\n3 - Os relatórios anuais daquelas inspecções devem ser enviados à DGV até ao fim do mês de Março do ano seguinte.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738777": {
+   "fragment_id": "35531675",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Identificação do agente",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 18.º-A — Identificação do agente\n\n1 - Além das autoridades policiais, também os agentes de fiscalização devidamente credenciados pelas entidades referidas no artigo anterior podem, no exercício das suas funções e quando tal se mostre necessário, exigir do agente de uma contra-ordenação a respectiva identificação e solicitar a intervenção da autoridade policial.\n\n2 - A identificação é feita mediante a apresentação do bilhete de identidade ou outro documento autêntico que a permita ou ainda, na sua falta, através de uma testemunha identificada nos mesmos termos.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05"
+  },
+  "122738778": {
+   "fragment_id": "35531075",
+   "type": 11,
+   "heading": "Artigo 19.º — Contra-ordenações",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 19.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível pelo presidente da câmara municipal com coima de (euro) 50 a (euro) 1850 ou (euro) 22000, consoante o agente seja pessoa singular ou colectiva, a não identificação dos cães e gatos nos termos do presente diploma e nos prazos previstos.\n\n2 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima de (euro) 50 a (euro) 1850 ou (euro) 22000, consoante o agente seja pessoa singular ou colectiva:\n\na) A não comunicação à entidade coordenadora da base de dados da posse de qualquer animal identificado encontrado na via pública ou em qualquer outro local;\n\nb) As falsas declarações prestadas pelo detentor do animal aquando da identificação do mesmo;\n\nc) A não comunicação da morte ou extravio do animal, da alteração de detentor ou da sua residência ou do extravio do boletim sanitário nos prazos estabelecidos;\n\nd) A inobservância das regras previstas para a introdução no mercado e comercialização dos métodos de identificação e respectivos equipamentos;\n\ne) A criação de obstáculos ou não permissão da verificação da identificação do animal.\n\n3 - A tentativa e a negligência são sempre punidas.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738779": {
+   "fragment_id": "35531175",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções acessórias",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 20.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos e animais pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de um título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras, mercados, exposições, concursos ou manifestações similares;\n\ne) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior terão a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738780": {
+   "fragment_id": "35531275",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução, aplicação e destino das coimas",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 21.º — Instrução, aplicação e destino das coimas\n\n1 - A instrução dos processos relativos à contra-ordenação prevista no n.º 1 do artigo 19.º compete à câmara municipal da área da prática da infracção.\n\n2 - A instrução dos processos referentes às contra-ordenações previstas no n.º 2 do artigo 19.º compete à DRA da área da prática da infracção.\n\n3 - A afectação do produto das coimas cobradas em aplicação do artigo 19.º, n.º 1, far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 90% para a entidade que instruiu o processo e aplicou a coima.\n\n4 - A afectação do produto das coimas cobradas em aplicação do artigo 19.º, n.º 2, far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738781": {
+   "fragment_id": "35531375",
+   "type": 11,
+   "heading": "Artigo 22.º — Regiões Autónomas",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "###### Artigo 22.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas à DGV e às DRA pelo presente diploma são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV na qualidade de autoridade nacional competente.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738782": {
+   "fragment_id": "35531475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.\n\nPromulgado em 20 de Novembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Novembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  },
+  "122738783": {
+   "fragment_id": "35531575",
+   "type": 14,
+   "heading": "ANEXO",
+   "in_force_from": "2019-10-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+   ],
+   "markdown": "## ANEXO\n\n(ver modelo no documento original)\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 82/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), em vigor a partir de 2019-10-25"
+  }
+ }
+}

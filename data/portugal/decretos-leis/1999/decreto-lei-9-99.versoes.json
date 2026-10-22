@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489988:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-211056778",
+ "dre_path": "/dr/detalhe/decreto-lei/9-1999-489988",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-01-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211107221",
+    "211058176",
+    "211058177",
+    "211058178",
+    "211058179",
+    "211058180",
+    "211058181"
+   ]
+  }
+ ],
+ "fragments": {
+  "211107221": {
+   "fragment_id": "211056779",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 9/99\n\nde 8 de Janeiro\n\nO sistema de pensões do regime geral de segurança social está a aproximar-se da sua maturidade, como é patente no facto de as carreiras contributivas dos novos pensionistas registarem, ano após ano, uma duração média cada vez maior.\n\nNessa medida, alguns dos mecanismos de primeira geração, mais pronunciadamente redistributivos e necessários na fase inicial do sistema por óbvias razões de justiça social, podem e têm vindo a ser compatibilizados com o princípio fundamental do seguro social, que é o da contributividade. Quer a aquisição do direito à pensão do regime geral quer as regras de formação da mesma e o cálculo do respectivo montante hão-de reflectir o continuado esforço contributivo de cada beneficiário ao longo do período de actividade económica da sua vida.\n\nPor idêntica razão, a flexibilização da idade de acesso à pensão, segundo o perfil contributivo de cada beneficiário, pode e deve ser regulamentada, por forma a permitir a livre escolha do momento em que os trabalhadores assalariados, com significativas carreiras contributivas já cumpridas, beneficiam da pensão de velhice, em consonância com a prática generalizada na Comunidade Europeia, nos termos da Recomendação do Conselho n.º 82/857/CEE.\n\nA flexibilidade da idade de atribuição da pensão de velhice foi objecto de profunda reflexão, designadamente no âmbito do acordo de concertação estratégica, por se entender ainda que a mesma potenciava efeitos positivos a nível do mercado de emprego, assim como na tomada de decisões individuais dos trabalhadores, sempre que se lhes deparassem razões determinantes de alteração da actividade profissional, em idade próxima à do acesso à pensão.\n\nNesse sentido, foram perspectivadas medidas gerais de antecipação ou de dilação do acesso à pensão de velhice cuja previsão legal, tendo lugar no presente diploma, integra um quadro mais vasto da reforma da segurança social já em curso.\n\nA medida de flexibilização da idade de acesso à pensão de velhice insere-se num conjunto de outras medidas, igualmente previstas no acordo de concertação estratégica, das quais se destacam a progressividade de redução de actividade ou reforma parcial, a conversão dos contratos de trabalho em contratos a termo certo quando os trabalhadores atingem a idade legal de acesso à pensão por velhice e ainda a redução da taxa de contribuição social para a entidade empregadora a partir do momento em que se verifique a carreira contributiva completa do trabalhador.\n\nConsiderando que o alargamento da duração do período de pagamento da pensão implica significativo aumento de custos para o sistema de segurança social, não poderá tal medida ser tomada sem ter em consideração esse agravamento, pelo que se prevê adequado suporte financeiro e se define, em obediência ao princípio de rentabilidade financeira da antecipação, uma taxa de redução segundo critérios actuariais e tendo presente a promoção activa de emprego. Neste quadro tiveram-se, contudo, em conta as carreiras contributivas mais longas, que foram objecto de tratamento mais favorável ao interessado.\n\nNuma perspectiva de equidade, consagra-se, também, a bonificação da pensão sempre que a mesma seja requerida em idade superior a 65 anos e a carreira contributiva do beneficiário ultrapasse os 40 anos.\n\nAdmitindo-se ainda o desejo de os pensionistas da pensão antecipada com valor reduzido verem aumentado o respectivo montante, prevê-se a possibilidade de se efectuar um pagamento facultativo de contribuições, devendo, naturalmente, os respectivos termos ser definidos em regulamentação própria.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido na Lei n.º 28/84, de 14 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "211058176": {
+   "fragment_id": "211056780",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 20.º, 22.º, 23.º, 24.º, 25.º e 26.º do Decreto-Lei n.º 329/93, de 25 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 20.º\n\nPrincípio geral\n\nO reconhecimento do direito à pensão de velhice depende da verificação cumulativa das seguintes condições:\n\na) Decurso do prazo de garantia;\n\nb) Idade legalmente prevista;\n\nc) Manifestação de vontade do beneficiário.\n\nArtigo 22.º\n\nIdade da pensão por velhice\n\n1 - A idade de acesso à pensão por velhice é aos 65 anos, sem prejuízo dos regimes e medidas especiais e das regras de transição previstas neste diploma.\n\n2 - Os regimes e medidas especiais previstos no número anterior são os seguintes:\n\na) Regime de flexibilização da idade de pensão por velhice;\n\nb) Regimes de antecipação da idade de pensão por velhice, por motivo da natureza especialmente penosa ou desgastante da actividade profissional exercida, expressamente reconhecida por lei;\n\nc) Medidas temporárias de protecção específica a actividades ou empresas por razões conjunturais;\n\nd) Regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração.\n\nArtigo 23.º\n\nFlexibilização da idade de pensão por velhice\n\n1 - A flexibilização da idade de pensão por velhice, prevista na alínea a) do n.º 2 do artigo anterior, consiste no direito de requerer a pensão em idade inferior, ou superior, a 65 anos.\n\n2 - Têm direito à antecipação de idade de pensão por velhice, no âmbito do número anterior, os beneficiários que, tendo cumprido o prazo de garantia, tenham, pelo menos, 55 anos de idade e que, à data em que perfaçam esta idade, tenham completado 30 anos civis de registo de remunerações para efeito do cálculo da pensão.\n\n3 - O direito de requerer a pensão de velhice em idade superior a 65 anos não depende da verificação de condições especiais.\n\nArtigo 24.º\n\nAntecipação da idade de pensão por velhice por motivo da natureza da actividade exercida\n\nA antecipação da idade de pensão por velhice, prevista na alínea b) do n.º 2 do artigo 22.º, é estabelecida por lei própria, que define as respectivas condições, designadamente a natureza especialmente penosa ou desgastante da actividade profissional exercida pelo beneficiário e as particularidades específicas relevantes no seu exercício.\n\nArtigo 25.º\n\nLimite etário da antecipação da idade de pensão por velhice por razões conjunturais\n\nA antecipação da idade de pensão por velhice, no âmbito das medidas temporárias de protecção específica previstas na alínea c) do n.º 2 do artigo 22.º, é estabelecida em diploma próprio e tem como limite os 55 anos de idade do beneficiário, ressalvado o disposto em legislação anterior.\n\nArtigo 26.º\n\nSuporte financeiro da antecipação da idade da pensão por velhice\n\n1 - A antecipação da idade de acesso à pensão por velhice pressupõe a existência de adequado suporte financeiro para o efeito.\n\n2 - No regime de flexibilização da idade de pensão por velhice, previsto na alínea a) do n.º 2 do artigo 22.º, o suporte financeiro da antecipação da pensão é garantido pela aplicação de adequado factor de redução da pensão de velhice.\n\n3 - Nos restantes regimes e medidas de antecipação da idade da pensão por velhice, previstos nas alíneas b), c) e d) do n.º 2 do artigo 22.º, o suporte financeiro da antecipação da pensão por velhice é previsto em lei especial que estabeleça o respectivo financiamento.»"
+  },
+  "211058177": {
+   "fragment_id": "211056781",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão aditados ao Decreto-Lei n.º 329/93, de 25 de Setembro, os artigos 38.º-A e 38.º-B, com a seguinte redacção:                                              «Artigo 38.º-A\n\nMontante da pensão antecipada por velhice\n\n1 - O montante estatutário da pensão antecipada de velhice, atribuída no âmbito do disposto na alínea a) do n.º 2 do artigo 22.º, é calculado pela aplicação de um factor de redução ao valor da pensão estatutária, calculada nos termos gerais.\n\n2 - O factor de redução é determinado pela fórmula 1 - x, em que x é igual à taxa global de redução.\n\n3 - A taxa global de redução é o produto da taxa anual de 4,5% pelo número de anos de antecipação considerados para o efeito.\n\n4 - Quando o beneficiário aos 55 anos tiver carreira contributiva superior à exigida no n.º 2 do artigo 23.º, o número de anos de antecipação a considerar para a determinação da taxa global de redução da pensão é reduzido de 1 por cada período de 3 que exceda os 30.\n\n5 - Os beneficiários com pensão antecipada por velhice, reduzida nos termos dos números anteriores, que tenham cessado o exercício de actividade podem continuar a contribuir para efeito de acréscimo do montante da pensão, em termos a regulamentar.\n\n6 - Nos casos previstos nas alíneas b), c) e d) do n.º 2 do artigo 22.º, o montante da pensão antecipada é calculado nos termos gerais, com as particularidades previstas na legislação especial que se lhes aplique.\n\nArtigo 38.º-B\n\nMontante da pensão de velhice com aplicação de bonificação\n\n1 - O montante da pensão estatutária de velhice atribuída a beneficiário de idade superior a 65 anos e que, à data em que perfaça a idade de pensão referida no n.º 1 do artigo 22.º, tenha completado 40 anos civis com registo de remunerações no âmbito do regime geral é calculado nos termos gerais e bonificado pela aplicação do factor definido no número seguinte.\n\n2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.\n\n3 - A taxa global de bonificação é o produto da taxa anual de 10% pelo número de anos de carreira contributiva cumpridos a partir dos 65 anos e com o limite de 70.\n\n4 - Para efeito da taxa global de bonificação não se considera:\n\na) O ano civil em que o beneficiário perfaça 65 anos, caso o mesmo releve para a taxa global de formação da pensão;\n\nb) O ano civil em relação ao qual a efectiva entrada de contribuições tenha tido lugar por período inferior a 120 dias.»"
+  },
+  "211058178": {
+   "fragment_id": "211056782",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs taxas anuais de redução e de bonificação, estabelecidas neste diploma, são revistas no 3.º ano posterior ao da sua entrada em vigor."
+  },
+  "211058179": {
+   "fragment_id": "211056783",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nQuando o beneficiário activo falecer sem ter requerido a pensão bonificada de velhice, nos termos do artigo 38.º-B do Decreto-Lei n.º 329/93, de 25 de Setembro, reunindo as condições legalmente fixadas para o efeito, deve ser considerado para o cálculo da pensão de sobrevivência o montante da pensão bonificada."
+  },
+  "211058180": {
+   "fragment_id": "211056784",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs termos da antecipação da idade de pensão por velhice e as medidas temporárias de protecção previstas respectivamente nas alíneas b) e c) do artigo 22.º do Decreto-Lei n.º 329/93, de 25 de Setembro, bem como a regulamentação prevista no n.º 5 do artigo 38.º-A do mesmo diploma, são aprovados no prazo de um ano a partir da vigência do presente diploma."
+  },
+  "211058181": {
+   "fragment_id": "211056785",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entra em vigor no 1.º dia do 3.º mês seguinte ao da sua publicação."
+  }
+ }
+}

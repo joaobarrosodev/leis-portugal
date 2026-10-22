@@ -1,0 +1,198 @@
+---
+schema_version: '1.0'
+id: pt:dre:144405:por
+title: Portaria n.º 1137/81
+short_title: null
+summary: Determina a cessação de funções das comissões instaladoras das faculdades da Universidade Nova de Lisboa e põe em
+  funcionamento, embora transitoriamente, alguns novos órgãos de gestão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e das Universidades
+proposing_entity: null
+official_number: 1137/81
+official_date: null
+publication_date: '1981-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1981, 4º Suplemento, Série I de 1981-12-31
+  number: '300'
+  series: I
+  supplement: 4º Suplemento
+  pages: 3414-(49) a 3414-(50)
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30004/00490050.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '144405'
+  dre_path: /dr/detalhe/portaria/1137-1981-144405
+  internal: pt:dre:144405:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-1981-144405
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-1981-144405
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-12-31T00:00:00Z'
+integrity:
+  source_sha256: 81074f3c9bff0233eb0d894c7063f5f195df496b0098e6e4cd3175f7368a5e14
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-1137-144405.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1137/81
+
+de 31 de Dezembro
+
+Na Universidade Nova de Lisboa, criada pelo [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, tal como nas outras universidades, cessará no final de 1981, por força do disposto no artigo 1.º do [Decreto-Lei n.º 498-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-d-1979-197080), de 21 de Dezembro, o seu regime de instalação, com as consequências administrativas que desse facto resultarão. Por isso, as modalidades da sua gestão requerem algumas adaptações que simultaneamente beneficiem da experiência entretanto adquirida.
+
+Acresce o facto de que o conselho da Universidade já propôs a este Ministério o seu estatuto orgânico e a forma de gestão das faculdades e os órgãos centrais, de acordo com a legislação que se espera venha a regular a autonomia das universidades, pois que já está assim formalizada uma opção escolhida pela própria Universidade.
+
+Destas circunstâncias decorre que, para não haver sucessivas modalidades de gestão das faculdades e na medida em que o proposto não contraria a lei geral, parece conveniente pôr em funcionamento, embora transitoriamente, alguns novos órgãos com uma definição mínima de funções e competências. Logo que, em breve, for publicada legislação definitiva sobre a orgânica e gestão da Universidade Nova de Lisboa, estes órgãos, que vão entrar em funcionamento, enquadrar-se-ão harmonicamente na estrutura global da Universidade Nova de Lisboa que então vier a ser definida.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Educação e das Universidades:
+
+I - Em 31 de Dezembro de 1981 termina o regime de instalação na Universidade Nova de Lisboa, pelo que cessam funções as comissões instaladoras das suas faculdades, sem prejuízo do disposto no n.º XIII desta portaria.
+
+II - As faculdades da Universidade Nova de Lisboa continuam a ter autonomia administrativa, científica e pedagógica.
+
+III - Nas faculdades da Universidade Nova de Lisboa são criados os seguintes órgãos:
+
+Conselho da faculdade;
+
+Conselho directivo;
+
+Director.
+
+IV - 1 - O conselho da faculdade é composto por:
+
+a) Todos os professores catedráticos e associados;
+
+b) Um número de professores auxiliares igual a 20% do número total dos professores catedráticos e associados;
+
+c) Um número de membros do pessoal de investigação igual a 10% do número total dos professores catedráticos, associados e auxiliares;
+
+d) Um número de professores convidados igual a 10% do número total dos professores catedráticos, associados e auxiliares;
+
+e) Um número de assistentes, leitores, assistentes convidados e assistentes estagiários igual a 30% do número total dos professores catedráticos, associados e auxiliares;
+
+f) Um número de estudantes igual a 35% do número total dos professores catedráticos, associados e auxiliares;
+
+g) Um número de elementos do pessoal técnico, administrativo, operário e auxiliar igual a 15% do número total dos professores catedráticos, associados e auxiliares.
+
+2 - Os membros do conselho da faculdade a que se referem as alíneas b) a g) do número anterior são eleitos para o respectivo cargo por escrutínio secreto.
+
+3 - A eleição dos membros do conselho da faculdade é feita bienalmente, com excepção da dos alunos, que é feita anualmente.
+
+4 - Sempre que a repartição percentual referida no n.º 1 não constituir número exacto, far-se-á arredondamento por excesso até à unidade.
+
+5 - Sempre que numa das categorias não houver número de eleitores para atingir a quota elegível, estes podem pedir a junção com outra categoria, à sua escolha, para o cálculo das percentagens estabelecidas.
+
+6 - As primeiras eleições referidas no n.º 2 devem ter lugar até 20 de Fevereiro de 1982.
+
+V - 1 - No prazo de 15 dias a seguir à eleição dos membros referidos no n.º IV, n.º 2, o conselho da faculdade deve eleger, por escrutínio secreto, três professores catedráticos em efectividade de funções, de entre os quais será nomeado o director da faculdade por despacho do Ministro da Educação e das Universidades.
+
+2 - Se no prazo referido no número anterior não for recebida no Ministério da Educação e das Universidades a lista tríplice, o director será livremente nomeado por despacho do Ministro.
+
+VI - O conselho directivo é constituído por:
+
+a) Director, que preside;
+
+b) Subdirector;
+
+c) Presidente do conselho científico;
+
+d) Presidente do conselho pedagógico;
+
+e) Vogal eleito pelo conselho científico de entre os seus membros;
+
+f) Secretário da faculdade.
+
+VII - 1 - Compete ao conselho directivo:
+
+a) Administrar e dirigir a faculdade em todos os assuntos que não sejam da exclusiva competência de outros órgãos;
+
+b) Decidir das aquisições de bens e serviços necessários ao regular funcionamento da faculdade;
+
+c) Deliberar sobre qualquer assunto que lhe seja apresentado pelo director.
+
+2 - Os membros do conselho directivo referidos nas alíneas a), c) e f) do n.º VI integram o conselho administrativo, a quem compete a gestão administrativa e financeira da sociedade.
+
+3 - O conselho directivo e o conselho administrativo reúnem semanalmente.
+
+VIII - O director é nomeado por 3 anos pelo Ministro da Educação e das Universidades.
+
+IX - Compete ao director:
+
+a) Representar a faculdade em juízo e fora dele;
+
+b) Zelar pela observância das normas legais e regulamentos aplicáveis;
+
+c) Despachar os assuntos correntes;
+
+d) Submeter ao reitor todas as questões que careçam de resolução superior;
+
+e) Presidir ao conselho da faculdade, conselho directivo e conselho administrativo;
+
+f) Coordenar e dirigir os serviços de apoio da faculdade;
+
+g) Tomar, em termos legais, as iniciativas conducentes ao desenvolvimento da faculdade e ao bom cumprimento das funções a ela cometidas.
+
+X - 1 - O subdirector é nomeado pelo Ministro da Educação e das Universidades, mediante proposta do director, ouvido o reitor da Universidade, de entre os professores catedráticos e associados da faculdade.
+
+2 - O termo do mandato ou a exoneração do director determina o termo do mandato ou a exoneração do subdirector.
+
+3 - Compete ao subdirector substituir o director nas suas faltas ou impedimentos, assim como exercer as funções que o director nele delegar.
+
+XI - O exercício do mandato do director e do vogal do conselho directivo só termina com a entrada em funções do novo director e do novo vogal.
+
+XII - Até 31 do mês de Dezembro de 1981, o reitor da Universidade Nova de Lisboa submeterá à homologação do Ministro da Educação e das Universidades o regulamento do processo eleitoral, do qual será imediatamente dado conhecimento público nas faculdades.
+
+XIII - As actuais comissões instaladoras exercerão as competências referidas no n.º VII desta portaria até à tomada de posse dos novos conselhos directivos, mantendo as mesmas regalias.
+
+XIV - Os presidentes das actuais comissões instaladoras exercerão interinamente as competências referidas no n.º IX desta portaria até à tornada de posse dos novos directores.
+
+Ministério da Educação e das Universidades, 31 de Dezembro de 1981. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo.

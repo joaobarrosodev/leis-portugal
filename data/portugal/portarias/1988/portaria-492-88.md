@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:378496:por
+title: Portaria n.º 492/88
+short_title: null
+summary: Altera o quadro de pessoal da Direcção-Geral das Contribuições e Impostos (DGCI)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 492/88
+official_date: null
+publication_date: '1988-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/1988, Série I de 1988-07-27
+  number: '172'
+  series: I
+  supplement: null
+  pages: 3038 - 3038
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17200/30383038.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378496'
+  dre_path: /dr/detalhe/portaria/492-1988-378496
+  internal: pt:dre:378496:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1988-378496
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1988-378496
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-07-19T00:00:00Z'
+integrity:
+  source_sha256: 76063d4c2c14e30e8bb10f6b9a0ad978fc42d5554ce1cf30075998e7eade7c7a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-492-378496.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:299463:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 492/88
+
+de 27 de Julho
+
+A fase de mudança por que está a passar a Direcção-Geral das Contribuições e Impostos, devido à reforma fiscal em curso, tem levado à necessidade de admissão de funcionários através dos mecanismos de mobilidade previstos na lei geral.
+
+Justifica-se que alguns dos referidos funcionários, por satisfazerem necessidades permanentes dos serviços e ainda por terem adquirido formação e experiência em domínios que exigem qualificação especializada, sejam integrados nos quadros de pessoal da Direcção-Geral das Contribuições e Impostos, pelo que se torna necessário alterar o referido quadro.
+
+Nestes termos, tendo em conta o disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro no artigo 2.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e no n.º 2 do artigo 17.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro:
+
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+
+1.º O quadro de pessoal da Direcção-Geral das Contribuições e Impostos, aprovado pela [Portaria n.º 523/87](https://diariodarepublica.pt/dr/detalhe/portaria/523-1987-419776), de 27 de Junho, é acrescido do lugar que consta do mapa anexo à presente portaria.
+
+2.º O lugar referido no número anterior é contingentado no quadro do Serviço de Administração do Imposto sobre o Valor Acrescentado e dos Impostos Especiais sobre Consumo.
+
+3.º O encargo resultante do aumento do lugar previsto na presente portaria será suportado, no corrente ano, pelas verbas consignadas no orçamento vigente e despesas certas e permanentes com pessoal.
+
+Ministério das Finanças.
+
+**Assinada em 13 de Julho de 1988.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+
+Alteração do quadro do pessoal da Direcção-Geral das Contribuições e Impostos, nos termos do n.º 1.º da Portaria n.º 492/88
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17200/30383038.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17200/30383038.pdf)

@@ -1,0 +1,366 @@
+---
+schema_version: '1.0'
+id: pt:dre:552041:por
+title: Portaria n.º 150/2012
+short_title: null
+summary: Fixa a estrutura orgânica da Secretaria-Geral do Ministério da Educação e Ciência
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação e Ciência
+proposing_entity: null
+official_number: 150/2012
+official_date: null
+publication_date: '2012-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/2012, Série I de 2012-05-16
+  number: '95'
+  series: I
+  supplement: null
+  pages: 2549 - 2553
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09500/0254902553.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/150/2012/05/16/p/dre/pt/html
+  oj: null
+  dre: '552041'
+  dre_path: /dr/detalhe/portaria/150-2012-552041
+  internal: pt:dre:552041:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-2012-552041
+  metadata_url: https://data.dre.pt/eli/port/150/2012/05/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-2012-552041
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-09-05T00:00:00Z'
+integrity:
+  source_sha256: de957f726bff07f77812ba8ad2ab8e01fdfb56f8f2cd22d198e04e8fc48b545a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-150-552041.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Secretaria Geral
+- Ministério da Educação e Ciência
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:934278889:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/18/2012/01/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/18/2012/01/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 150/2012
+
+de 16 de maio
+
+O [Decreto Regulamentar n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-2012-543909), de 31 de janeiro, definiu a missão, atribuições e tipo de organização interna da Secretaria-Geral do Ministério da Educação e Ciência (MEC). Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis do serviço e as competências das respetivas unidades orgânicas nucleares.
+
+Assim:
+
+Ao abrigo do disposto nos n.os 4 e 5 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral
+
+1 - A Secretaria-Geral do MEC (SG) estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direção de Serviços de Planeamento, de Informação e de Sistemas de Gestão;
+
+b) Direção de Serviços de Assuntos Jurídicos;
+
+c) Direção de Serviços de Mediação de Conflitos e do Contencioso;
+
+d) Direção de Serviços de Emprego e das Relações de Trabalho;
+
+e) Direção de Serviços de Gestão de Recursos Humanos;
+
+f) Direção de Serviços de Gestão de Recursos Financeiros;
+
+g) Direção de Serviços de Contratação Pública;
+
+h) Direção de Serviços de Gestão do Património;
+
+i) Direção de Serviços de Documentação e de Arquivo;
+
+j) Direção de Serviços de Coordenação da Cooperação e das Relações Internacionais.
+
+2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.
+
+###### Artigo 2.º — Direção de Serviços de Planeamento, de Informação e de Sistemas de Gestão
+
+À Direção de Serviços de Planeamento, de Informação e de Sistemas de Gestão, abreviadamente designada por DSPISG, compete:
+
+a) Apoiar na identificação e definição de medidas tendentes a manter e aperfeiçoar o sistema de planeamento e de gestão estratégica da SG e promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no MEC, assegurando a articulação com as entidades com competências interministeriais nessas áreas;
+
+b) Assegurar o processo de avaliação do desempenho ao nível do SIADAP 1 da SG, através da elaboração dos respetivos QUAR e relatórios de autoavaliação, bem como assegurar a elaboração dos planos e dos relatórios de atividades e, ainda, do balanço social da SG;
+
+c) Elaborar, em articulação com as restantes unidades orgânicas da SG, o plano de gestão de riscos e o respetivo relatório de execução;
+
+d) Assegurar o funcionamento de sistema integrado de gestão da SG, designadamente através da definição, em articulação com as restantes unidades orgânicas da SG, de indicadores de gestão, garantindo a sua monitorização periódica e a administração do sistema de informação de suporte;
+
+e) Implementar e coordenar a aplicação de normas sobre condições ambientais, de segurança e saúde no trabalho e de responsabilidade social na SG;
+
+f) Prestar apoio técnico, quando solicitado, a outros serviços e organismos do MEC na aplicação de metodologias de gestão já implementadas na SG;
+
+g) Assegurar as atividades do MEC, no âmbito da informação, da comunicação, das relações públicas e do protocolo;
+
+h) Desenvolver estratégias de comunicação multimédia online e criar modelos comunicacionais e publicações em formato digital;
+
+i) Assegurar a manutenção e a permanente atualização do sítio da SG.
+
+###### Artigo 3.º — Direção de Serviços de Assuntos Jurídicos
+
+À Direção de Serviços de Assuntos Jurídicos, abreviadamente designada por DSAJ, compete:
+
+a) Prestar apoio jurídico aos membros do Governo, aos órgãos, serviços e organismos do MEC, sempre que solicitado;
+
+b) Preparar projetos de diplomas legais, de regulamentos e outros instrumentos normativos, elaborando os necessários estudos, bem como pronunciar-se sobre projetos de diplomas;
+
+c) Promover estudos de avaliação e impacto legislativo relativos à aplicação da legislação das áreas da educação e da ciência, que não se inscrevam nas atribuições e competências de outros órgãos, serviços e organismos ou de outras unidades orgânicas da SG;
+
+d) Contribuir para fixar a interpretação dos regimes jurídicos específicos das áreas de atuação do MEC que não se inscrevam nas atribuições e competências de outros órgãos, serviços e organismos ou de outras unidades orgânicas da SG, coordenando a aplicação das medidas daquela decorrentes;
+
+e) Emitir parecer sobre impugnações administrativas, nas diversas espécies, interpostas para os membros do Governo ou para o secretário-geral, sem prejuízo das competências de outros órgãos, serviços e organismos do MEC;
+
+f) Apreciar a legalidade dos estatutos das instituições e estabelecimentos de ensino superior, bem como das respetivas alterações, sujeitas a homologação ou registo dos membros do Governo;
+
+g) Proceder ao registo das associações de pais e de encarregados de educação, bem como assegurar os procedimentos respeitantes ao reconhecimento das associações de estudantes dos ensinos básico, secundário e superior;
+
+h) Proceder à recolha de legislação, de normas e instruções de interesse geral para as restantes unidades orgânicas da SG, bem como para os órgãos, serviços e organismos do MEC;
+
+i) Preparar normas e instruções destinadas a assegurar a aplicação de regimes jurídicos específicos das áreas de atuação do MEC, sem prejuízo das competências de outros órgãos, serviços e organismos ou de outras unidades orgânicas da SG.
+
+###### Artigo 4.º — Direção de Serviços de Mediação de Conflitos e do Contencioso
+
+À Direção de Serviços de Mediação de Conflitos e do Contencioso, abreviadamente designada por DSMCC, compete:
+
+a) Promover a articulação entre as partes interessadas na mediação de conflitos e realizar as diligências necessárias à justa composição dos interesses das partes envolvidas;
+
+b) Promover o recurso a instrumentos de resolução alternativa de litígios, com vista à diminuição dos índices de conflitualidade no âmbito da educação e da ciência;
+
+c) Coordenar, em articulação com outros órgãos e serviços do MEC que disponham de serviços de contencioso próprios, o contencioso da educação e da ciência;
+
+d) Realizar com patrocínio próprio o contencioso administrativo da educação e da ciência, em todas as suas espécies e formas, sem prejuízo das competências de outros órgãos, serviços e organismos do MEC;
+
+e) Promover e patrocinar a impugnação de decisões jurisdicionais que sejam desfavoráveis à parte que representa;
+
+f) Esclarecer os serviços e organismos do MEC, quanto à correta execução das decisões proferidas pelos tribunais;
+
+g) Acompanhar as ações judiciais em que o Estado seja parte e prestar a colaboração que for solicitada pelos magistrados do Ministério Público junto dos tribunais;
+
+h) Preparar normas e instruções destinadas a assegurar a aplicação de decisões judiciais, procedendo aos correspondentes estudos.
+
+###### Artigo 5.º — Direção de Serviços de Emprego e das Relações de Trabalho
+
+À Direção de Serviços de Emprego e das Relações de Trabalho, abreviadamente designada por DSERT, compete:
+
+a) Prestar apoio técnico em matéria de emprego público e das relações de trabalho aos membros do Governo, aos órgãos, serviços e organismos do MEC, sempre que solicitado;
+
+b) Preparar projetos de diplomas legais, de regulamentos e outros instrumentos normativos que incidam sobre matéria de emprego público e das relações de trabalho, elaborando os necessários estudos, bem como pronunciar-se sobre projetos de diplomas elaborados;
+
+c) Contribuir para fixar a interpretação dos regimes jurídicos de emprego público e das relações de trabalho no âmbito do MEC, sem prejuízo das competências de outros órgãos, serviços e organismos;
+
+d) Promover a aplicação no âmbito do MEC de medidas de emprego público e das relações de trabalho definidas para a Administração Pública, coordenando e apoiando os órgãos, serviços e organismos do MEC, quando necessário;
+
+e) Elaborar estudos, informações e orientações, no que concerne aos estatutos das carreiras docentes do ensino superior universitário e ensino superior politécnico e da carreira de investigação científica, bem como avaliar o desenvolvimento da sua aplicação, identificando necessidades de intervenção corretiva, sem prejuízo das competências próprias conferidas às instituições do ensino superior ou a outras entidades;
+
+f) Elaborar estudos, informações e orientações, no que concerne ao estatuto da carreira dos educadores de infância e dos professores dos ensinos básico e secundário, bem como avaliar o desenvolvimento da sua aplicação, identificando necessidades de intervenção corretiva, sem prejuízo das competências próprias conferidas a outros órgãos, serviços e organismos do MEC;
+
+g) Elaborar estudos, informações e orientações em matéria de aplicação do regime de avaliação do desempenho nos termos legais, bem como assegurar a realização dos procedimentos tendentes à avaliação do desempenho dos trabalhadores da SG (SIADAP 2 e 3);
+
+h) Estudar, propor e aplicar políticas de desenvolvimento profissional dos trabalhadores, sem prejuízo das competências próprias conferidas a outros órgãos, serviços e organismos do MEC;
+
+i) Gerir a formação profissional, incluindo o diagnóstico das necessidades, a elaboração dos planos de formação e a avaliação da eficácia da formação dos trabalhadores, bem como proceder à elaboração e gestão de perfis de competências profissionais de suporte.
+
+###### Artigo 6.º — Direção de Serviços de Gestão de Recursos Humanos
+
+À Direção de Serviços de Gestão de Recursos Humanos, abreviadamente designada por DSGRH, compete:
+
+a) Executar todas as ações relativas à constituição, à modificação e à extinção da relação jurídica de emprego dos trabalhadores dos gabinetes dos membros do Governo e da SG, bem como dos restantes órgãos, serviços e estruturas do MEC, cujo apoio seja prestado diretamente pela SG, e ainda dos trabalhadores colocados no Sistema de Mobilidade Especial (SME);
+
+b) Promover as ações de recrutamento e seleção dos trabalhadores da SG, bem como dos restantes serviços, órgãos e estruturas do MEC, cujo apoio seja prestado diretamente pela SG;
+
+c) Assegurar, organizar e executar os procedimentos administrativos respeitantes à gestão dos trabalhadores dos gabinetes dos membros do Governo e da SG, bem como dos restantes órgãos, serviços e estruturas do MEC, cujo apoio seja prestado diretamente pela SG;
+
+d) Aplicar os regimes relativos às situações de ausência por doença, acidentes em serviço e outras situações no âmbito da proteção social, relativamente aos trabalhadores dos gabinetes dos membros do Governo e da SG, bem como dos restantes órgãos, serviços e estruturas do MEC, cujo apoio seja prestado diretamente pela SG;
+
+e) Assegurar a gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos gabinetes dos membros do Governo e da SG, bem como dos restantes órgãos, serviços e estruturas do MEC, cujo apoio seja prestado diretamente pela SG, e ainda aos trabalhadores colocados no SME;
+
+f) Praticar os atos de administração relativos aos trabalhadores colocados no SME que sejam afetos à SG, em articulação com a entidade gestora da mobilidade;
+
+g) Organizar e manter atualizado um sistema de comunicação e informação, nomeadamente a gestão das bases de dados tendentes à caracterização permanente dos recursos humanos do MEC e à elaboração de indicadores de gestão.
+
+###### Artigo 7.º — Direção de Serviços de Gestão de Recursos Financeiros
+
+À Direção de Serviços de Gestão de Recursos Financeiros, abreviadamente designada por DSGRF, compete:
+
+a) Proceder à elaboração, ao acompanhamento e à gestão dos orçamentos dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG;
+
+b) Elaborar as contas de gerência dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG;
+
+c) Assegurar as ações necessárias ao processamento e liquidação das despesas dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG;
+
+d) Assegurar a gestão e o controlo contabilístico das receitas próprias da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG;
+
+e) Elaborar indicadores de gestão que permitam acompanhar a evolução da situação financeira dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG;
+
+f) Assegurar a gestão do economato dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado diretamente pela SG;
+
+g) Gerir o parque de viaturas dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG;
+
+h) Assegurar a gestão financeira do Centro de Caparide e do Teatro Thália.
+
+###### Artigo 8.º — Direção de Serviços de Contratação Pública
+
+À Direção de Serviços de Contratação Pública, abreviadamente designada por DSCP, compete:
+
+a) Assegurar as funções de Unidade Ministerial de Compras;
+
+b) Promover a aquisição agregada de bens e serviços abrangidos nos acordos-quadro, no âmbito do MEC;
+
+c) Promover a centralização ao nível do MEC da negociação e celebração de acordos-quadro ou de outros contratos públicos de bens e serviços não centralizados na entidade pública responsável pela centralização das compras;
+
+d) Desenvolver os procedimentos de contratação pública, fora do âmbito dos acordos-quadro, para garantir a atividade dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG;
+
+e) Elaborar informações e estudos técnicos que, no âmbito da respetiva competência, lhe sejam solicitados;
+
+f) Assegurar a aquisição de compras públicas, no âmbito da Estratégia Nacional para as Compras Públicas Ecológicas;
+
+g) Acompanhar a execução dos contratos celebrados e proceder à elaboração dos respetivos relatórios;
+
+h) Promover o reporte estatístico anual das compras públicas de bens e serviços, previsto no Código dos Contratos Públicos;
+
+i) Promover, em articulação com a entidade pública responsável pela centralização das compras, a aquisição ou locação de veículos ao serviço do Estado.
+
+###### Artigo 9.º — Direção de Serviços de Gestão do Património
+
+À Direção de Serviços de Gestão do Património, abreviadamente designada por DSGP, compete:
+
+a) Assegurar as funções de Unidade de Gestão Patrimonial;
+
+b) Acompanhar o processo de inventariação e atualização do cadastro dos bens imóveis do domínio público do Estado e dos imóveis do domínio privado do Estado e dos institutos públicos, no âmbito do Programa de Gestão do Património Imobiliário do Estado;
+
+c) Empreender as ações necessárias à preservação, à conservação e à valorização do património edificado afeto aos gabinetes dos membros do Governo, à SG e aos órgãos e às estruturas do MEC, cujo apoio seja prestado pela SG;
+
+d) Apoiar a Direção de Serviços de Contratação Pública no âmbito dos procedimentos tendentes à formação de contratos de empreitadas de obras públicas;
+
+e) Assegurar e organizar os procedimentos administrativos relativos à gestão do património mobiliário, mantendo atualizado o inventário dos bens afetos aos gabinetes dos membros do Governo, à SG e aos órgãos e às estruturas do MEC, cujo apoio seja prestado pela SG;
+
+f) Apoiar tecnicamente a Direção de Serviços de Documentação e de Arquivo na componente patrimonial, nomeadamente no âmbito da preservação e valorização do património mobiliário e imobiliário;
+
+g) Acompanhar o desenvolvimento dos sistemas de informação, assegurar a gestão e o funcionamento das infraestruturas tecnológicas dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado pela SG, de forma a garantir a sua adequação às necessidades dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC.
+
+###### Artigo 10.º — Direção de Serviços de Documentação e de Arquivo
+
+À Direção de Serviços de Documentação e de Arquivo, abreviadamente designada por DSDA, compete:
+
+a) Preservar e valorizar, de acordo com as orientações da política do património cultural, o património histórico da educação e da ciência, nas componentes arquivística, bibliográfica e museológica;
+
+b) Promover boas práticas de gestão de documentos nos gabinetes dos membros do Governo, na SG e nos órgãos, serviços e organismos do MEC e proceder à recolha, ao tratamento, à conservação e à comunicação dos arquivos que deixam de ser de uso corrente por parte dos serviços produtores;
+
+c) Desenvolver o modelo de organização e gestão dos arquivos correntes e intermédios do MEC, coordenando e apoiando a concretização do mesmo;
+
+d) Organizar, gerir e tratar a documentação do MEC, mantendo-a atualizada e disponível;
+
+e) Promover as boas práticas nos órgãos, serviços e organismos do MEC, no âmbito da recolha, tratamento, conservação e comunicação dos espólios biblioteconómico e museológico;
+
+f) Recolher, selecionar, conservar, inventariar, catalogar, digitalizar e estudar as coleções, nas componentes bibliográfica e museológicas existentes na SG e que se encontram à sua guarda;
+
+g) Assegurar a manutenção e o desenvolvimento do Museu Virtual da Educação e fomentar o papel educativo e comunitário na colaboração com o público escolar de todos os níveis de ensino, bem como do público em geral;
+
+h) Assegurar o atendimento e o apoio especializado aos utilizadores;
+
+i) Assegurar a gestão dos conteúdos expositivos do Teatro Thália.
+
+###### Artigo 11.º — Direção de Serviços de Coordenação da Cooperação e das Relações Internacionais
+
+À Direção de Serviços de Coordenação da Cooperação e das Relações Internacionais, abreviadamente designada por DSCCRI, compete:
+
+a) Contribuir, nos domínios de atuação do MEC, para a formulação das políticas relacionadas com a União Europeia e com a cooperação internacional;
+
+b) Coordenar as ações de cooperação e as atividades inerentes à participação de Portugal como membro da União Europeia nos domínios de atuação do MEC, garantindo a coerência das intervenções dos respetivos órgãos, serviços e organismos;
+
+c) Coordenar as ações de cooperação internacional, nos domínios de atuação do MEC, relativamente à participação em organizações internacionais de que Portugal é membro, garantindo a coerência das intervenções dos respetivos órgãos, serviços e organismos;
+
+d) Assessorar os membros do Governo do MEC e seus representantes no âmbito dos assuntos europeus e internacionais;
+
+e) Coordenar as atividades do MEC no que respeita às relações bilaterais e multilaterais, garantindo a coerência das intervenções dos respetivos órgãos, serviços e organismos;
+
+f) Coordenar a cooperação com os países de língua oficial portuguesa, nos domínios de atuação do MEC, garantindo a coerência das intervenções dos respetivos órgãos, serviços e organismos;
+
+g) Fomentar os contactos institucionais com as organizações internacionais de que Portugal é membro, nos domínios de atuação do MEC, sem prejuízo das competências conferidas a outros órgãos, serviços e organismos;
+
+h) Colaborar na negociação e redação de instrumentos internacionais de cooperação bilateral e multilateral nos domínios de atuação do MEC;
+
+i) Coordenar a articulação com o Ministério dos Negócios Estrangeiros nas áreas de competência do MEC.
+
+###### Artigo 12.º — Unidades orgânicas flexíveis
+
+O número máximo de unidades orgânicas flexíveis da Secretaria-Geral do MEC é fixado em dois.
+
+###### Artigo 13.º — Norma revogatória
+
+São revogadas:
+
+a) A Portaria n.º 357/2007, de 30 de março;
+
+b) A Portaria n.º 530/2008, de 27 de junho;
+
+c) A Portaria n.º 371/2008, de 21 de maio;
+
+d) A Portaria n.º 548/2007, de 30 de abril;
+
+e) A Portaria n.º 572/2007, de 30 de abril.
+
+###### Artigo 14.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 11 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 10 de maio de 2012.**

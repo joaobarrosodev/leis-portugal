@@ -1,0 +1,331 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70025055:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-220016474",
+ "dre_path": "/dr/detalhe/portaria/248-2015-70025055",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "219842354",
+    "219842355",
+    "219842356",
+    "219842357",
+    "219842358",
+    "219842359",
+    "219842360",
+    "219842362",
+    "219842363",
+    "219842364",
+    "219842365",
+    "219842366"
+   ]
+  },
+  {
+   "date": "2023-08-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:219826020:por",
+     "title": "Portaria n.º 259/2023",
+     "published": "2023-08-11",
+     "dre_path": "/dr/detalhe/portaria/259-2023-219826020"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "219842354",
+    "219842367",
+    "219842356",
+    "219842357",
+    "219842358",
+    "219842359",
+    "219842360",
+    "219842361",
+    "219842368",
+    "219842369",
+    "219842370",
+    "219842371",
+    "219842372"
+   ]
+  },
+  {
+   "date": "2025-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:934278893:por",
+     "title": "Portaria n.º 294/2025/1",
+     "published": "2025-09-05",
+     "dre_path": "/dr/detalhe/portaria/294-2025-934278893"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "219842354",
+    "934361130",
+    "219842356",
+    "219842357",
+    "219842358",
+    "219842359",
+    "219842360",
+    "219842361",
+    "934361138",
+    "934361139",
+    "934361140",
+    "934361141",
+    "934361142"
+   ]
+  }
+ ],
+ "fragments": {
+  "219842354": {
+   "fragment_id": "220060475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 248/2015\n\nde 17 de agosto\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente, por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e alterada pela Lei n.º 78/2013, de 21 de novembro, e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência dos estudos apresentados pelos Serviços Municipalizados de Abrantes, a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para as captações nos polos de captação de «Água das Casas», «Água Travessa», «Alvega», «Amoreira», «Arrancada», «Arreciadas», «Barrada», «Bicas», «Bouça», «Brunheirinho», «Caniceira», «Casal das Mansas», «Chaminé», «Concavada», «Esteveira», «Lampreia», «Martinchel», «Matagosa», «Pego», «S. Macário», «Vale da Custódia», «Vale da Zebra», «Vale das Cortiças», «Vale das Donas (Rossio ao Sul do Tejo)», «Vale das Donas (S. Miguel do Rio Torto)», «Vale das Mós», «Vale de Açor» e «Abrantes», no concelho de Abrantes.\n\nCompete, agora, ao Governo aprovar as referidas zonas de proteção.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação dada pelo artigo 88.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas nos termos da subalínea ii) da alínea a) e da subalínea iv) da alínea b) do n.º 1 do Despacho n.º 13322/2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro de 2013, com a redação dada pela alínea c) do n.º 1 do Despacho n.º 1941-A/2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2014, e alterado pelo Despacho n.º 9478/2014, publicado no Diário da República, 2.ª série, n.º 139, de 22 de julho de 2014, o seguinte:"
+  },
+  "219842355": {
+   "fragment_id": "220060476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação dos perímetros de proteção das seguintes captações, localizadas no concelho de Abrantes:\n\na) Dreno do polo de captação de Água das Casas;\n\nb) LS1 do polo de captação de Água Travessa;\n\nc) Poço e Dreno do polo de captação de Alvega;\n\nd) AC1 e AC2 do polo de captação de Amoreira;\n\ne) Dreno do polo de captação de Arrancada;\n\nf) AC1 e AC2 do polo de captação de Arreciadas;\n\ng) CPQ1 do polo de captação de Barrada;\n\nh) SL3 do polo de captação de Bicas;\n\ni) FD1 e Dreno do polo de captação de Bouça;\n\nj) AC1 do polo de captação de Brunheirinho;\n\nk) CPQ1 e LSR2 do polo de captação de Caniceira;\n\nl) FD1 do polo de captação de Casal das Mansas;\n\nm) AC1 do polo de captação de Chaminé;\n\nn) SL1 do polo de captação de Concavada;\n\no) Dreno do polo de captação de Esteveira;\n\np) Dreno do polo de captação de Lampreia;\n\nq) MF1 do polo de captação de Martinchel;\n\nr) Dreno 1 (Antigo) e dreno 2 (Novo) do polo de captação de Matagosa;\n\ns) SL2, AC1 e AC2 do polo de captação de Pego;\n\nt) CPQ1 do polo de captação de S. Macário;\n\nu) Dreno do polo de captação de Vale da Custódia;\n\nv) Dreno 1 e Dreno 2 do polo de captação de Vale da Zebra;\n\nw) Furo do polo de captação de Vale das Cortiças;\n\nx) Dreno do polo de captação de Vale das Donas (Rossio ao Sul do Tejo);\n\ny) Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 do polo de captação de Vale das Donas (S.\n\nMiguel do Rio Torto);\n\nz) FD2 do polo de captação de Vale das Mós;\n\naa) Nascente do polo de captação de Vale de Açor;\n\nbb) JK5 do polo de captação de Abrantes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, que dela faz parte integrante."
+  },
+  "219842356": {
+   "fragment_id": "220060477",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção das captações mencionadas no artigo anterior corresponde à área delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo II à presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007."
+  },
+  "219842357": {
+   "fragment_id": "220060478",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices cujas coordenadas são indicados nos quadros constantes do anexo III à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Infraestruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo.\n\n3 - Na zona de proteção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Pastorícia, que pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo;\n\nb) Usos agrícolas e pecuários, que apenas são permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis, ou através da rejeição de efluentes no solo;\n\nc) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nd) Estradas e caminhos-de-ferro, que podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\ne) Espaços destinados a práticas desportivas e os parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal;\n\nf) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\ng) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\nh) Cemitérios;\n\ni) Depósitos de sucata existentes à data da presente portaria, devendo ser assegurada a impermeabilização de solo e a recolha e/ou tratamento das águas de escorrência, nas zonas de armazenamento;\n\nj) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água e/ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;\n\nk) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nl) Unidades industriais, que podem ser permitidas desde que não produzam substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea."
+  },
+  "219842358": {
+   "fragment_id": "220060479",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices cujas coordenadas são indicadas nos quadros constantes do anexo IV à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, as seguintes atividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nb) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nf) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo.\n\n3 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\nc) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\nd) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\ne) Cemitérios existentes à data da presente portaria, devendo estar sujeitos a medidas de monitorização da qualidade da água;\n\nf) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água e/ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;\n\ng) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis e infraestruturas aeronáuticas são permitidas desde que seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes;\n\nh) Depósitos de sucata existentes à data da presente portaria, devendo ser assegurada a impermeabilização de solo e a recolha e/ou tratamento das águas de escorrência, nas zonas de armazenamento."
+  },
+  "219842359": {
+   "fragment_id": "220060480",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nAs zonas de proteção intermédia e alargada, respeitantes aos perímetros de proteção mencionados no artigo 1.º, encontram-se representadas nos quadros do anexo V da presente portaria, que dela faz parte integrante."
+  },
+  "219842360": {
+   "fragment_id": "220060481",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "219842362": {
+   "fragment_id": "220060483",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento original)"
+  },
+  "219842363": {
+   "fragment_id": "220060484",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\nPolo de captação de Água das Casas\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nFD1 e Dreno\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1\n\n(ver documento original)\n\nLRS2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\nFD1\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Lampreia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Martinchel\n\nMF1\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\nDreno 1 - Antigo\n\n(ver documento original)\n\nDreno 2 - Novo\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nDreno 3\n\n(ver documento original)\n\nDreno 4\n\n(ver documento original)\n\nDreno 5\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\nNascente\n\n(ver documento original)\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)"
+  },
+  "219842364": {
+   "fragment_id": "220060485",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 3.º)\n\nZona de proteção intermédia\n\nPolo de captação de Água das Casas\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nFD1 e Dreno\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1\n\n(ver documento original)\n\nLSR2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\nFD1\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Lampreia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Martinchel\n\nMF1\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\nDreno 1 - Antigo e Dreno 2 - Novo\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nDreno 1\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\nNascente\n\n(ver documento original)\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)"
+  },
+  "219842365": {
+   "fragment_id": "220060486",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)\n\nZona de proteção alargada\n\nPolo de captação de Água das Casas\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nAs zonas de proteção intermédia e alargada das captações FD1 e Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1 e LSR2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\nFD1\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Lampreia\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Martinchel\n\nMF1\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\nDreno 1 - Antigo e Dreno 2 - Novo\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nAs zonas de proteção intermédia e alargada das captações Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\nAs zonas de proteção intermédia e alargada da Nascente são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "219842366": {
+   "fragment_id": "220060487",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 4 dos artigos 3.º e 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o n.º 4 dos artigos 3.º e 4.º)\n\nPlanta de localização das zonas de proteção\n\nExtrato da Carta Militar de Portugal.\n\nSérie M888 - 1/25.000 (IGeoE)\n\nPolo de captação de Água das Casas\n\n(ver documento original)\n\nPolo de captação de Água Travessa\n\n(ver documento original)\n\nPolo de captação de Alvega\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\n(ver documento original)\n\nPolo de captação de Barrada\n\n(ver documento original)\n\nPolo de captação de Bicas\n\n(ver documento original)\n\nPolo de captação de Bouça\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\n(ver documento original)\n\nPolo de captação de Concavada\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\n(ver documento original)\n\nPolo de captação de Lampreia\n\n(ver documento original)\n\nPolo de captação de Martinchel\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\n(ver documento original)\n\nPolo de captação de Abrantes\n\n(ver documento original)"
+  },
+  "219842367": {
+   "fragment_id": "220060476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação dos perímetros de proteção das seguintes captações, localizadas no concelho de Abrantes:\n\na) Dreno do polo de captação de Água das Casas;\n\nb) LS1 do polo de captação de Água Travessa;\n\nc) Poço e Dreno do polo de captação de Alvega;\n\nd) AC1 e AC2 do polo de captação de Amoreira;\n\ne) Dreno do polo de captação de Arrancada;\n\nf) AC1 e AC2 do polo de captação de Arreciadas;\n\ng) CPQ1 do polo de captação de Barrada;\n\nh) SL3 do polo de captação de Bicas;\n\ni) Furo Novo e Dreno do polo de captação de Bouça;\n\nj) AC1 do polo de captação de Brunheirinho;\n\nk) CPQ1 e LSR2 do polo de captação de Caniceira;\n\nl) FD1 do polo de captação de Casal das Mansas;\n\nm) AC1 do polo de captação de Chaminé;\n\nn) SL1 do polo de captação de Concavada;\n\no) Dreno do polo de captação de Esteveira;\n\np) Dreno do polo de captação de Lampreia;\n\nq) MF1 do polo de captação de Martinchel;\n\nr) Dreno 1 (Antigo) e dreno 2 (Novo) do polo de captação de Matagosa;\n\ns) SL2, AC1 e AC2 do polo de captação de Pego;\n\nt) CPQ1 do polo de captação de S. Macário;\n\nu) Dreno do polo de captação de Vale da Custódia;\n\nv) Dreno 1 e Dreno 2 do polo de captação de Vale da Zebra;\n\nw) Furo do polo de captação de Vale das Cortiças;\n\nx) Dreno do polo de captação de Vale das Donas (Rossio ao Sul do Tejo);\n\ny) Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 do polo de captação de Vale das Donas (S.\n\nMiguel do Rio Torto);\n\nz) FD2 do polo de captação de Vale das Mós;\n\naa) Nascente do polo de captação de Vale de Açor;\n\nbb) JK5 do polo de captação de Abrantes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "219842361": {
+   "fragment_id": "220060482",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 23 de julho de 2015."
+  },
+  "219842368": {
+   "fragment_id": "220060483",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": "2023-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "219842369": {
+   "fragment_id": "220060484",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2023-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\nPolo de captação de Água das Casas\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nFD1 e Dreno\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1\n\n(ver documento original)\n\nLRS2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\nFD1\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Lampreia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Martinchel\n\nMF1\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\nDreno 1 - Antigo\n\n(ver documento original)\n\nDreno 2 - Novo\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nDreno 3\n\n(ver documento original)\n\nDreno 4\n\n(ver documento original)\n\nDreno 5\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\nNascente\n\n(ver documento original)\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "219842370": {
+   "fragment_id": "220060485",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": "2023-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 3.º)\n\nZona de proteção intermédia\n\nPolo de captação de Água das Casas\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nFD1 e Dreno\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1\n\n(ver documento original)\n\nLSR2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\nFD1\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Lampreia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Martinchel\n\nMF1\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\nDreno 1 - Antigo e Dreno 2 - Novo\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nDreno 1\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\nNascente\n\n(ver documento original)\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "219842371": {
+   "fragment_id": "220060486",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": "2023-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)\n\nZona de proteção alargada\n\nPolo de captação de Água das Casas\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nAs zonas de proteção intermédia e alargada das captações FD1 e Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1 e LSR2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\nFD1\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Lampreia\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Martinchel\n\nMF1\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\nDreno 1 - Antigo e Dreno 2 - Novo\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nAs zonas de proteção intermédia e alargada das captações Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\nAs zonas de proteção intermédia e alargada da Nascente são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "219842372": {
+   "fragment_id": "220060487",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 4 dos artigos 3.º e 4.º)",
+   "in_force_from": "2023-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo V — (a que se refere o n.º 4 dos artigos 3.º e 4.º)\n\nPlanta de localização das zonas de proteção\n\nExtrato da Carta Militar de Portugal.\n\nSérie M888 - 1/25.000 (IGeoE)\n\nPolo de captação de Água das Casas\n\n(ver documento original)\n\nPolo de captação de Água Travessa\n\n(ver documento original)\n\nPolo de captação de Alvega\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\n(ver documento original)\n\nPolo de captação de Arrancada\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\n(ver documento original)\n\nPolo de captação de Barrada\n\n(ver documento original)\n\nPolo de captação de Bicas\n\n(ver documento original)\n\nPolo de captação de Bouça\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\n(ver documento original)\n\nPolo de captação de Chaminé\n\n(ver documento original)\n\nPolo de captação de Concavada\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\n(ver documento original)\n\nPolo de captação de Lampreia\n\n(ver documento original)\n\nPolo de captação de Martinchel\n\n(ver documento original)\n\nPolo de captação de Matagosa\n\n(ver documento original)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de S. Macário\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\n(ver documento original)\n\nPolo de captação de Abrantes\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "934361130": {
+   "fragment_id": "220060476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação dos perímetros de proteção das seguintes captações, localizadas no concelho de Abrantes:\n\na) (Revogada.)\n\nb) LS1 do polo de captação de Água Travessa;\n\nc) Poço e Dreno do polo de captação de Alvega;\n\nd) (Revogada.)\n\ne) Dreno do polo de captação de Arrancada;\n\nf) AC1 e AC2 do polo de captação de Arreciadas;\n\ng) CPQ1 do polo de captação de Barrada;\n\nh) SL3 do polo de captação de Bicas;\n\ni) Furo Novo e Dreno do polo de captação de Bouça;\n\nj) AC1 do polo de captação de Brunheirinho;\n\nk) CPQ1 e LSR2 do polo de captação de Caniceira;\n\nl) (Revogada.)\n\nm) AC1 do polo de captação de Chaminé;\n\nn) SL1 do polo de captação de Concavada;\n\no)  (Revogada.)\n\np)  (Revogada.)\n\nq)  (Revogada.)\n\nr)  (Revogada.)\n\ns) SL2 e AC1 do polo de captação do Pego;\n\nt) CPQ1 do polo de captação de S. Macário;\n\nu) Dreno do polo de captação de Vale da Custódia;\n\nv) Dreno 1 e Dreno 2 do polo de captação de Vale da Zebra;\n\nw) Furo do polo de captação de Vale das Cortiças;\n\nx) Dreno do polo de captação de Vale das Donas (Rossio ao Sul do Tejo);\n\ny) Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 do polo de captação de Vale das Donas (S.\n\nMiguel do Rio Torto);\n\nz) FD2 do polo de captação de Vale das Mós;\n\naa) (Revogada.)\n\nbb) JK5 do polo de captação de Abrantes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "934361138": {
+   "fragment_id": "220060483",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(a que se refere o n.º 2 do artigo 1.º)\n\n| Polo de captação | Captação | M (m) | P (m) |\n| --- | --- | --- | --- |\n| Águas das Casas | (Revogado.) | (Revogado.) | (Revogado.) |\n| Água Travessa | LS1 | -6718,2 | -44667,8 |\n| Alvega | Poço | 7876,7 | -23026,7 |\n| Dreno | 7923,0 | -23018,2 |  |\n| Amoreira | (Revogado.) | (Revogado.) | (Revogado.) |\n| (Revogado.) | (Revogado.) | (Revogado.) |  |\n| Arrancada | Dreno | -209,0 | -38284,8 |\n| Arreciadas | AC1 | -3676,2 | -28529,9 |\n| AC2 | -3683,3 | -28427,3 |  |\n| Barrada | CPQ1 | 5590,4 | -28247,3 |\n| Bicas | SL3 | -8768,1 | -32188,0 |\n| Bouça | Furo Novo | -7329,2 | -9765,1 |\n| Dreno | -7315,0 | -9768,2 |  |\n| Brunheirinho | AC1 | 4437,0 | -37538,7 |\n| Caniceira | CPQ1 | -10492,4 | -29354,0 |\n| LSR2 | -9940,1 | -30183,0 |  |\n| Casal das Mansas | (Revogado.) | (Revogado.) | (Revogado.) |\n| Chaminé | AC1 | -2326,9 | -38374,7 |\n| Concavada | SL1 | 5445,7 | -24693,8 |\n| Esteveira | (Revogado.) | (Revogado.) | (Revogado.) |\n| Lampreia | (Revogado.) | (Revogado.) | (Revogado.) |\n| Martinchel | (Revogado.) | (Revogado.) | (Revogado.) |\n| Matagosa | (Revogado.) | (Revogado.) | (Revogado.) |\n| (Revogado.) | (Revogado.) | (Revogado.) |  |\n| Pego | SL2 | 1812,5 | -26419,1 |\n| AC1 | -3220,3 | -24080,9 |  |\n| (Revogado.) | (Revogado.) | (Revogado.) |  |\n| S.Macário | CPQ1 | -4387,2 | -27796,9 |\n| Vale da Custódia | Dreno | -8332,7 | -19577,8 |\n| Vale da Zebra | Dreno 1 | -4810,5 | -7357,1 |\n| Dreno 2 | -5246,8 | -7751,4 |  |\n| Vale das Cortiças | Furo | -2618,1 | -30565,9 |\n| Vale das Donas (Rossio ao Sul do Tejo) | Dreno | -5872,2 | -27827,9 |\n| Vale das Donas (S. Miguel do Rio Torto) | Dreno 1 | -6482,2 | -27306,9 |\n| Dreno 2 | -6382,2 | -27299,9 |  |\n| Dreno 3 | -6391,2 | -27220,9 |  |\n| Dreno 4 | -6309,2 | -27256,9 |  |\n| Dreno 5 | -6235,9 | -27223,9 |  |\n| Vale das Mós | FD2 | 6235,9 | -35662,7 |\n| Vale de Açor | (Revogado.) | (Revogado.) | (Revogado.) |\n| Abrantes | JK5 | -6703,4 | -21898,0 |\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "934361139": {
+   "fragment_id": "220060484",
+   "type": 14,
+   "heading": "Anexo II — Zona de proteção imediata",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo II — Zona de proteção imediata\n\n(a que se refere o n.º 1 do artigo 2.º)\n\nPolo de captação de Água das Casas\n\n(Revogado.)\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\n(Revogado.)\n\nPolo de captação de Arrancada\n\nDreno(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nFD1 e Dreno\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1\n\n(ver documento original)\n\nLRS2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\n(Revogado.)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\n(Revogado.)\n\nPolo de captação de Lampreia\n\n(Revogado.)\n\nPolo de captação de Martinchel\n\n(Revogado.)\n\nPolo de captação de Matagosa\n\n(Revogado.)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(Revogado.)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nDreno 3\n\n(ver documento original)\n\nDreno 4\n\n(ver documento original)\n\nDreno 5\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\n(Revogado.)\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "934361140": {
+   "fragment_id": "220060485",
+   "type": 14,
+   "heading": "Anexo III — Zona de proteção intermédia",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo III — Zona de proteção intermédia\n\n(a que se refere o n.º 1 do artigo 3.º)\n\nPolo de captação de Água das Casas\n\n(Revogado.)\n\nPolo de captação de Água Travessa\n\nLS1\n\n(ver documento original)\n\nPolo de captação de Alvega\n\nPoço e Dreno\n\n(ver documento original)\n\nPolo de captação de Amoreira\n\n(Revogado.)\n\nPolo de captação de Arrancada\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Arreciadas\n\nAC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Barrada\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Bicas\n\nSL3\n\n(ver documento original)\n\nPolo de captação de Bouça\n\nFD1 e Dreno\n\n(ver documento original)\n\nPolo de captação de Brunheirinho\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Caniceira\n\nCPQ1\n\n(ver documento original)\n\nLSR2\n\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n\n(Revogado.)\n\nPolo de captação de Chaminé\n\nAC1\n\n(ver documento original)\n\nPolo de captação de Concavada\n\nSL1\n\n(ver documento original)\n\nPolo de captação de Esteveira\n\n(Revogado.)\n\nPolo de captação de Lampreia\n\n(Revogado.)\n\nPolo de captação de Martinchel\n\n(Revogado.)\n\nPolo de captação de Matagosa\n\n(Revogado.)\n\nPolo de captação de Pego\n\nSL2\n\n(ver documento original)\n\nAC1\n\n(ver documento original)\n\nAC2\n\n(Revogado.)\n\nPolo de captação de S. Macário\n\nCPQ1\n\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale da Zebra\n\nDreno 1\n\n(ver documento original)\n\nDreno 2\n\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n\nFuro\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n\nDreno\n\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n\nDreno 1\n\n(ver documento original)\n\nPolo de captação de Vale das Mós\n\nFD2\n\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\n(Revogado.)\n\nPolo de captação de Abrantes\n\nJK5\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "934361141": {
+   "fragment_id": "220060486",
+   "type": 14,
+   "heading": "Anexo IV — Zona de proteção alargada",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo IV — Zona de proteção alargada\n\n(a que se refere o n.º 1 do artigo 4.º)\n\nPolo de captação de Água das Casas\n(Revogado.)\n\nPolo de captação de Alvega\nPoço e Dreno\n(ver documento original)\n\nPolo de captação de Amoreira\n(Revogado.)\n\nPolo de captação de Arrancada\nDreno\n(ver documento original)\n\nPolo de captação de Arreciadas\nAC1 e AC2\n(ver documento original)\n\nPolo de captação de Barrada\nCPQ1\n(ver documento original)\n\nPolo de captação de Bicas\nSL3\n(ver documento original)\n\nPolo de captação de Bouça\nAs zonas de proteção intermédia e alargada das captações FD1 e Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Brunheirinho\nAC1\n(ver documento original)\n\nPolo de captação de Caniceira\nCPQ1 e LSR2\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n(Revogado.)\n\nPolo de captação de Chaminé\nAC1\n(ver documento original)\n\nPolo de captação de Concavada\nSL1\n(ver documento original)\n\nPolo de captação de Esteveira\n(Revogado.)\n\nPolo de captação de Lampreia\n(Revogado.)\n\nPolo de captação de Martinchel\n(Revogado.)\n\nPolo de captação de Matagosa\n(Revogado.)\n\nPolo de captação de Pego\nSL2\n(ver documento original)\nAC1\n\nPolo de captação de S. Macário\nCPQ1\n(ver documento original)\n\nPolo de captação de Vale da Custódia\nAs zonas de proteção intermédia e alargada do Dreno são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Vale da Zebra\nDreno 1\n(ver documento original)\nDreno 2\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\nFuro\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\nDreno\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\nAs zonas de proteção intermédia e alargada das captações Dreno 1, Dreno 2, Dreno 3, Dreno 4 e Dreno 5 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo III da presente portaria.\n\nPolo de captação de Vale das Mós\nFD2\n(ver documento original)\n\nPolo de captação de Vale de Açor\n\n(Revogado.)\n\nPolo de captação de Abrantes\nJK5\n(ver documento original)\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  },
+  "934361142": {
+   "fragment_id": "220060487",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de proteção",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+   ],
+   "markdown": "## Anexo V — Planta de localização das zonas de proteção\n\n(a que se refere o n.º 4 dos artigos 3.º e 4.º)\n\nExtrato da Carta Militar de Portugal. \nSérie M888 - 1/25.000 (IGeoE)\n\nPolo de captação de Água das Casas\n(Revogado.)\n\nPolo de captação de Água Travessa\n(ver documento original)\n\nPolo de captação de Alvega\n(ver documento original)\n\nPolo de captação de Amoreira\n(ver documento original)\n\nPolo de captação de Arrancada\n(ver documento original)\n\nPolo de captação de Arreciadas\n(ver documento original)\n\nPolo de captação de Barrada\n(ver documento original)\n\nPolo de captação de Bicas\n(ver documento original)\n\nPolo de captação de Bouça\n(ver documento original)\n\nPolo de captação de Brunheirinho\n(ver documento original)\n\nPolo de captação de Caniceira\n(ver documento original)\n\nPolo de captação de Casal das Mansas\n(Revogado.)\n\nPolo de captação de Chaminé\n(ver documento original)\n\nPolo de captação de Concavada\n(ver documento original)\n\nPolo de captação de Esteveira\n(Revogado.)\n\nPolo de captação de Lampreia\n(Revogado.)\n\nPolo de captação de Martinchel\n(Revogado.)\n\nPolo de captação de Matagosa\n(Revogado.)\n\nPolo de captação de Pego\nSL2\n(ver documento original)\nAC1\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/934278893/934076423.png) |\n| --- |\n\nPolo de captação de S. Macário\n(ver documento original)\n\nPolo de captação de Vale da Custódia\n(ver documento original)\n\nPolo de captação de Vale da Zebra\nDreno 1\n(ver documento original)\nDreno 2\n(ver documento original)\n\nPolo de captação de Vale das Cortiças\n(ver documento original)\n\nPolo de captação de Vale das Donas (Rossio ao Sul do Tejo)\n(ver documento original)\n\nPolo de captação de Vale das Donas (S. Miguel do Rio Torto)\n(ver documento original)\n\nPolo de captação de Vale das Mós\n(ver documento original)\n\nPolo de captação de Vale de Açor\n(Revogado.)\n\nPolo de captação de Abrantes\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 294/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/294-2025-934278893), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 259/2023 - Diário da República n.º 156/2023, Série I de 2023-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/259-2023-219826020), em vigor a partir de 2023-08-12"
+  }
+ }
+}

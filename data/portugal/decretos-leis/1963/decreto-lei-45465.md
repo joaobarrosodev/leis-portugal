@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:680626:por
+title: Decreto-Lei n.º 45465
+short_title: null
+summary: Define o regime de instalação do Centro de António Flores, a integrar no Hospital de Júlio de Matos, em Lisboa, por
+  força de uma doação efectuada para esse fim pela Fundação Calouste Gulbenkian
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças, das Obras Públicas e da Saúde e Assistência
+proposing_entity: null
+official_number: '45465'
+official_date: null
+publication_date: '1963-12-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 302/1963, Série I de 1963-12-26
+  number: '302'
+  series: I
+  supplement: null
+  pages: 2134 - 2135
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/12/30200/21342135.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '680626'
+  dre_path: /dr/detalhe/decreto-lei/45465-1963-680626
+  internal: pt:dre:680626:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45465-1963-680626
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45465-1963-680626
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-12-26T00:00:00Z'
+integrity:
+  source_sha256: f144dacf90dee3fec35ab2f43f6c94e1c024aca78548492746da011634f6a57a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-45465-680626.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45465
+
+A benemérita Fundação Calouste Gulbenkian decidiu doar 4800000$00 com destino à construção de um centro de recuperação de alcoólicos e de um hospital de dia e de noite, a integrar no conjunto do Hospital de Júlio de Matos, desta cidade.
+
+Aceite a doação, ao abrigo do [Decreto-Lei n.º 31156](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31156-1941-416615), de 3 de Março de 1941, torna-se necessário definir o regime de movimentação dos respectivos fundos.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Ficará integrado no Hospital de Júlio de Matos, em Lisboa, o Centro de António Flores, a instalar por força da doação no montante de 4800000$00 a efectuar para esse fim pela Fundação Calouste Gulbenkian.
+
+§ único. O referido Centro será constituído por dois pavilhões, destinando-se um ao tratamento e recuperação de doentes alcoólicos e outros toxicómanos e o segundo à prestação de serviços psiquiátricos, de dia e de noite, a doentes em regime ambulatório.
+
+###### Art. 2.º A Comissão de Construções Hospitalares elaborará, de acordo com o Instituto de Assistência Psiquiátrica e com a Fundação Calouste Gulbenkian, os planos de construção e de apetrechamento das instalações, os quais serão submetidos à aprovação do Ministro das Obras Públicas, por intermédio da referida Comissão de Construções Hospitalares.
+
+###### Art. 3.º As despesas a efectuar, quer com a elaboração dos planos aludidos no artigo anterior, quer com a sua execução, serão satisfeitas em conta das verbas especialmente inscritas para esse fim em despesa extraordinária do orçamento do Ministério das Obras Públicas, no capítulo «Outros investimentos», artigo «Construções hospitalares no País».
+
+§ único. As verbas mencionadas no corpo deste artigo terão contrapartida na doação referida no artigo 1.º
+
+###### Art. 4.º Os montantes das despesas a efectuar nos dois próximos anos económicos são fixados em 2000000$00 e 2800000$00, respectivamente para 1964 e 1965, podendo os saldos porventura verificados ser despendidos nos anos imediatos.
+
+§ único. Consideram-se legalizadas, para todos os efeitos, as despesas já realizadas pelo Instituto de Assistência Psiquiátrica em conta da aludida doação, as quais serão regularizadas por conta da dotação de 2000000$00 fixada para 1964, por meio de processamento de todos os encargos a favor daquele Instituto, que promoverá a entrega do correspondente total em receita do Estado.
+
+###### Art. 5.º As contribuições da Fundação serão escrituradas em conta de operações de tesouraria, passando para receita efectiva do Estado à medida que as despesas forem sendo autorizadas.
+
+###### Art. 6.º As despesas realizar-se-ão sem dependência de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, ficando apenas sujeitas, para a sua legitimação, ao visto dos Ministros das Finanças e das Obras Públicas.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 26 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.

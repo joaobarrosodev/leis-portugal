@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:478056:por
+title: Portaria n.º 132/91
+short_title: null
+summary: Cria no Centro Regional de Segurança Social de Coimbra diversos serviços locais de segurança social
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 132/91
+official_date: null
+publication_date: '1991-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 36/1991, Série I-B de 1991-02-13
+  number: '36'
+  series: I
+  supplement: null
+  pages: 695 - 695
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/02/036b00/06950695.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/132/1991/02/13/p/dre/pt/html
+  oj: null
+  dre: '478056'
+  dre_path: /dr/detalhe/portaria/132-1991-478056
+  internal: pt:dre:478056:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-1991-478056
+  metadata_url: https://data.dre.pt/eli/port/132/1991/02/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-1991-478056
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-02-13T00:00:00Z'
+integrity:
+  source_sha256: 3a9c31f8e4de8ac68ee1b325a17dc539ebe65ef40931a67c95bb0e68df357372
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-132-478056.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Regional de Segurança Social
+- Criação de Serviços
+- Descentralização
+- Instituições de Segurança Social
+- Coimbra
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 132/91
+
+de 13 de Fevereiro
+
+Em cumprimento do disposto no n.º 2 do artigo 63.º da Constituição da República Portuguesa quanto ao carácter descentralizado do sistema de segurança social, o [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, definiu a estrutura orgânica do referido sistema ao nível central, regional e local, prevendo, neste último, os serviços locais de segurança social, a implantar de acordo com as necessidades das populações.
+
+A experiência adquirida ao longo dos 10 anos decorridos desde a instalação dos centros regionais de segurança social aconselha um criterioso ajuizamento dos locais de implantação progressiva da sede daqueles serviços locais, dentro do enquadramento de princípios e regras comuns a todas as instituições de segurança social de âmbito distrital, consubstanciados no [Decreto-Lei n.º 245/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1990-573109), de 27 de Julho, e tendo como objectivo assegurar a eficácia e o aperfeiçoamento da realização dos fins do sistema, de molde que estes se concretizem da forma mais humanizada e socialmente mais justa.
+
+Nestes termos, e em execução do disposto no [Decreto-Lei n.º 245/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1990-573109), de 27 de Julho, cujo n.º 1 do artigo 1.º determina que a criação dos serviços locais de segurança social seja formalizada mediante portaria:
+
+Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
+
+1.º São criados, no Centro Regional de Segurança Social de Coimbra, os serviços locais de segurança social de Arganil, Cantanhede, Condeixa-a-Nova, Figueira da Foz, Góis, Lousã, Mira, Miranda do Corvo, Montemor-o-Velho, Oliveira do Hospital, Pampilhosa da Serra, Penacova, Peneda, Soure, Tábua e Vila Nova de Poiares.
+
+2.º Os serviços referidos no número anterior localizam-se na sede do Município e abrangem a área geográfica correspondente à respectiva autarquia.
+
+3.º Para a prossecução das atribuições referidas no artigo 2.º do [Decreto-Lei n.º 245/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1990-573109), de 27 de Julho, os serviços locais de segurança social terão as competências que lhes forem determinadas pelo conselho directivo do respectivo Centro Regional de Segurança Social.
+
+4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério do Emprego e da Segurança Social.
+
+**Assinada em 22 de Janeiro de 1991.**
+
+**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**

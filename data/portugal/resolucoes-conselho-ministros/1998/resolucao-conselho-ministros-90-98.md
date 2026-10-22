@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:485034:por
+title: Resolução do Conselho de Ministros n.º 90/98
+short_title: null
+summary: Cria uma comissão com o objectivo de investigar, desenvolver e apresentar uma proposta de delimitação da Plataforma
+  Continental de Portugal
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 90/98
+official_date: null
+publication_date: '1998-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/1998, Série I-B de 1998-07-10
+  number: '157'
+  series: I
+  supplement: null
+  pages: 3263 - 3265
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/157b00/32633265.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/90/1998/07/10/p/dre/pt/html
+  oj: null
+  dre: '485034'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/90-1998-485034
+  internal: pt:dre:485034:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-1998-485034
+  metadata_url: https://data.dre.pt/eli/resolconsmin/90/1998/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-1998-485034
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-09-03T00:00:00Z'
+integrity:
+  source_sha256: 3a9d68f946a7a7cc0a25bb037e88d80eca6684b892dce01c073c4faaead9f973
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-90-485034.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direito Marítimo
+- Jurisdição
+- Comissão Interministerial
+- Ministro da Ciência e da Tecnologia
+- Zona Económica Exclusiva
+- Ministro da Economia
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Educação
+- Convenção
+- Portugal
+- Diretor Geral
+- Plataforma Continental
+- Mar Territorial
+- Marinha
+- ONU
+- Gestão dos Recursos
+- Ministro dos Negócios Estrangeiros
+- Conselho Consultivo
+- Instituto Hidrográfico
+- Meio Marinho
+- Ministério do Ambiente
+- Montego Bay
+- Nomeação
+- Presidente
+- Ministro da Defesa Nacional
+- Comissão para a Delimitação da Plataforma Continental
+relationships:
+- type: amended_by
+  target: pt:dre:551625:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decpresrep/67-a/1997/10/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/67-a/1997/10/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolassrep/60-b/1997/10/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/60-b/1997/10/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 90/98
+
+Portugal participou desde início nas negociações da Convenção das Nações Unidas sobre o Direito do Mar (CNUDM), concluída em Montego Bay em 10 de Dezembro de 1982, a qual assinou nessa mesma data e, identicamente, no que se refere ao Acordo Relativo à Aplicação da Parte XI desta Convenção (ARAP-XI), que também assinou, em 29 de Julho de 1994, dia seguinte ao da respectiva adopção pela Assembleia Geral das Nações Unidas.
+
+Portugal aprovou e ratificou a CNUDM e o ARAP-XI, através da aprovação para ratificação pela [Resolução da Assembleia da República n.º 60-B/97](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-b-1997-152897), de 3 de Abril, e pela ratificação por [Decreto do Presidente da República n.º 67-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/67-a-1997-152896), de 14 de Outubro.
+
+A CNUDM estabelece um novo quadro jurídico para o direito do mar, com importantes alterações relativamente à anterior Convenção, nomeadamente nos critérios de delimitação e jurisdição sobre a plataforma continental.
+
+Ao ratificar a Convenção, Portugal assumiu responsabilidades num dos territórios marítimos mais extensos da Europa (o terceiro a seguir ao da Rússia e ao da Noruega), salientando-se, entre outras, a obrigação de gerir os seus recursos de uma forma sustentável. De acordo com o artigo 77.º da Convenção, os Estados costeiros têm direitos soberanos para a prospecção e exploração económica dos recursos naturais da plataforma continental. O Estado costeiro tem, também, o direito exclusivo de autorizar as sondagens na plataforma continental qualquer que seja o seu objectivo.
+
+A nova Lei do Mar, além de conferir a obrigação de gerir os recursos naturais no mínimo até 200 milhas da costa correspondentes à zona económica exclusiva (ZEE), prevê que a plataforma, face ao estipulado no artigo 76.º da Convenção, possa vir a ser alargada para além das 200 milhas, caso as características geológicas e hidrográficas o justifiquem, Efectivamente, no caso de Portugal, alguns dados conhecidos indiciam poder haver fundamento para justificar o alargamento da plataforma continental.
+
+Qualquer pretensão de jurisdição portuguesa sobre a plataforma continental para além dos limites actuais das 200 milhas náuticas deverá ser apresentada pelo Estado Português à Comissão de Limites da Plataforma Continental, no prazo máximo de 10 anos a contar da vinculação do Estado Português à CNUDM, contendo as características do limite pretendido acompanhadas das informações científicas e técnicas que o fundamentem.
+
+Com o objectivo de estudar a possibilidade de alargamento da plataforma continental de Portugal é criada uma comissão interministerial, cuja actividade será exercida em articulação com a Comissão Oceanográfica Internacional.
+
+Assim:
+
+Ao abrigo da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar, na dependência dos Ministros dos Negócios Estrangeiros, da Defesa Nacional, da Economia e da Ciência e da Tecnologia, uma comissão com o objectivo de investigar e apresentar uma proposta de delimitação da plataforma continental de Portugal, adiante designada por comissão.
+
+2 - Para a prossecução dos seus objectivos, compete à comissão:
+
+a) Conhecer, com adequado detalhe, as características geológicas e hidrográficas do offshore de modo a poder vir a fundamentar a pretensão de Portugal em alargar os limites da sua plataforma continental para além das 200 milhas náuticas, em conformidade com o estipulado no artigo 76.º da Convenção das Nações Unidas sobre o Direito do Mar e do Acordo Relativo à Aplicação da Parte XI desta Convenção (ARAP-XI);
+
+b) Definir, com o maior rigor possível, os limites da plataforma continental, para submeter à aprovação pela Comissão de Limites da Plataforma Continental, em conformidade com o previsto na Convenção;
+
+c) Adquirir, aplicar e desenvolver novas tecnologias para conhecimento do fundo dos oceanos.
+
+3 - A comissão é presidida pelo director-geral do Instituto Hidrográfico da Marinha e dela fazem parte um representante do Ministério dos Negócios Estrangeiros, um representante do Ministério da Economia e um representante do Ministério da Ciência e da Tecnologia.
+
+4 - Junto da comissão funciona um conselho consultivo presidido por uma personalidade de reconhecido mérito a designar por despacho conjunto dos Ministros dos Negócios Estrangeiros, da Defesa Nacional, da Economia e da Ciência e da Tecnologia, sob proposta do Ministro da Defesa Nacional, e do qual fazem ainda parte:
+
+a) Os membros da comissão;
+
+b) Cinco personalidades de reconhecido mérito, a designar por despacho conjunto dos Ministros dos Negócios Estrangeiros, da Defesa Nacional, da Economia e da Ciência e da Tecnologia;
+
+c) Um representante do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+d) Um representante do Ministério da Educação;
+
+e) Um representante do Ministério do Ambiente.
+
+5 - A comissão deverá apresentar para aprovação no prazo de 120 dias, a contar da aprovação da presente resolução, um projecto de investigação interministerial com o objectivo de estabelecer num prazo inferior a oito anos, a delimitação da plataforma continental de Portugal nos termos da Convenção das Nações Unidas sobre o Direito do Mar, de 10 de Dezembro de 1982, e nos termos do Acordo Relativo à Aplicação da Parte XI da Convenção, adoptado pela Assembleia Geral das Nações Unidas.
+
+6 - A proposta de projecto mencionada no artigo anterior deverá conter elementos sobre as formas de participação dos vários departamentos intervenientes, elementos sobre a coordenação, faseamento e gestão das acções desenvolvidas no âmbito do projecto, identificação dos equipamentos a utilizar e a adquirir, pessoal envolvido, programação orçamental e financeira, cooperações internacionais previstas, bem como o envolvimento de equipas científicas das universidades, dos laboratórios do Estado e de outras instituições.
+
+7 - Os Ministérios dos Negócios Estrangeiros, da Defesa Nacional, da Economia e da Ciência e da Tecnologia definirão, por despacho conjunto, a forma de garantir o apoio logístico e administrativo necessário ao funcionamento da comissão.
+
+8 - Todos os encargos orçamentais decorrentes do previsto na presente resolução serão suportados por verbas provenientes dos Ministérios dos Negócios Estrangeiros, da Defesa Nacional, da Economia e da Ciência e da Tecnologia.
+
+9 - A presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 26 de Fevereiro de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

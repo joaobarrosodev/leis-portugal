@@ -1,0 +1,1326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145195:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-115326112",
+ "dre_path": "/dr/detalhe/decreto-lei/125-2011-145195",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "203833215",
+    "115326194",
+    "115326195",
+    "115326196",
+    "115326197",
+    "115326198",
+    "115326199",
+    "115326200",
+    "115326201",
+    "115326202",
+    "115326203",
+    "115326204",
+    "115326205",
+    "115326206",
+    "115326207",
+    "115326208",
+    "115326209",
+    "115326210",
+    "115326211",
+    "115326212",
+    "115326213",
+    "115326214",
+    "115326215",
+    "115326216",
+    "115326217",
+    "115326218",
+    "115326219",
+    "115326220",
+    "115326221",
+    "115326222",
+    "115326223",
+    "115326224",
+    "115326225",
+    "115326226",
+    "115326227",
+    "115326228",
+    "115326229",
+    "115326230",
+    "115326231",
+    "115326232",
+    "115326233",
+    "115326234",
+    "115326235",
+    "115326236",
+    "115326237",
+    "115326238",
+    "115326240",
+    "115326241"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:544424:por",
+     "title": "Declaração de Retificação n.º 3/2012",
+     "published": "2012-01-26",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/3-2012-544424",
+     "date": "2012-01-03"
+    }
+   ]
+  },
+  {
+   "date": "2012-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632419:por",
+     "title": "Decreto-Lei n.º 266-G/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/266-g-2012-632419"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 29.º-A",
+    "Revoga Artigo 29.º"
+   ],
+   "fragments": [
+    "203833215",
+    "115326194",
+    "115326195",
+    "115326196",
+    "115326197",
+    "115326198",
+    "203833219",
+    "203833216",
+    "115326201",
+    "115326202",
+    "115326203",
+    "115326204",
+    "115326205",
+    "115326206",
+    "115326207",
+    "115326208",
+    "203833220",
+    "115326210",
+    "203833221",
+    "115326212",
+    "115326213",
+    "115326214",
+    "203833225",
+    "115326215",
+    "203833222",
+    "115326217",
+    "203833217",
+    "115326219",
+    "115326220",
+    "115326221",
+    "115326222",
+    "115326223",
+    "115326224",
+    "115326225",
+    "115326226",
+    "115326227",
+    "115326228",
+    "115326229",
+    "203833237",
+    "203833226",
+    "203833227",
+    "203833228",
+    "203833229",
+    "203833230",
+    "203833231",
+    "203833232",
+    "203833233",
+    "203833234",
+    "115326239",
+    "203833235",
+    "203833236"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:632419:por",
+     "title": "Decreto-Lei n.º 266-G/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/266-g-2012-632419",
+     "date": "2013-01-05"
+    }
+   ]
+  },
+  {
+   "date": "2013-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498755:por",
+     "title": "Decreto-Lei n.º 102/2013",
+     "published": "2013-07-25",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2013-498755"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 21.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 31.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 33.º"
+   ],
+   "fragments": [
+    "203833215",
+    "115326194",
+    "115326195",
+    "115326196",
+    "115326197",
+    "115326198",
+    "203833243",
+    "203833238",
+    "115326201",
+    "115326202",
+    "115326203",
+    "115326204",
+    "115326205",
+    "115326206",
+    "115326207",
+    "115326208",
+    "203833220",
+    "115326210",
+    "203833221",
+    "115326212",
+    "115326213",
+    "203833244",
+    "203833225",
+    "115326215",
+    "203833222",
+    "115326217",
+    "203833217",
+    "115326219",
+    "203833242",
+    "115326220",
+    "115326221",
+    "115326222",
+    "115326223",
+    "115326224",
+    "115326225",
+    "115326226",
+    "115326227",
+    "115326228",
+    "115326229",
+    "203833237",
+    "203833226",
+    "203833227",
+    "203833239",
+    "203833229",
+    "203833245",
+    "203833231",
+    "203833232",
+    "203833233",
+    "203833234",
+    "115326239",
+    "203833240",
+    "203833241"
+   ]
+  },
+  {
+   "date": "2015-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67348949:por",
+     "title": "Decreto-Lei n.º 96/2015",
+     "published": "2015-05-29",
+     "dre_path": "/dr/detalhe/decreto-lei/96-2015-67348949"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 21.º-B",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 31.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "203833215",
+    "115326194",
+    "115326195",
+    "115326196",
+    "115326197",
+    "115326198",
+    "203833252",
+    "203833246",
+    "115326201",
+    "115326202",
+    "115326203",
+    "115326204",
+    "115326205",
+    "115326206",
+    "115326207",
+    "115326208",
+    "203833220",
+    "115326210",
+    "203833221",
+    "115326212",
+    "203833253",
+    "203833244",
+    "203833225",
+    "115326215",
+    "203833222",
+    "115326217",
+    "203833217",
+    "115326219",
+    "203833242",
+    "203833250",
+    "115326220",
+    "115326221",
+    "115326222",
+    "115326223",
+    "115326224",
+    "115326225",
+    "115326226",
+    "115326227",
+    "115326228",
+    "115326229",
+    "203833237",
+    "203833226",
+    "203833227",
+    "203833247",
+    "203833229",
+    "203833245",
+    "203833231",
+    "203833232",
+    "203833233",
+    "203833234",
+    "115326239",
+    "203833248",
+    "203833249"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "203833215",
+    "115326194",
+    "115326195",
+    "203833254",
+    "115326197",
+    "115326198",
+    "203833252",
+    "203833246",
+    "115326201",
+    "115326202",
+    "115326203",
+    "115326204",
+    "115326205",
+    "115326206",
+    "115326207",
+    "115326208",
+    "203833220",
+    "115326210",
+    "203833221",
+    "115326212",
+    "203833253",
+    "203833244",
+    "203833225",
+    "115326215",
+    "203833222",
+    "115326217",
+    "203833217",
+    "115326219",
+    "203833242",
+    "203833250",
+    "115326220",
+    "115326221",
+    "115326222",
+    "115326223",
+    "115326224",
+    "115326225",
+    "115326226",
+    "115326227",
+    "115326228",
+    "115326229",
+    "203833237",
+    "203833226",
+    "203833227",
+    "203833247",
+    "203833229",
+    "203833245",
+    "203833231",
+    "203833232",
+    "203833233",
+    "203833234",
+    "115326239",
+    "203833248",
+    "203833249"
+   ]
+  },
+  {
+   "date": "2022-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184108564:por",
+     "title": "Decreto-Lei n.º 38/2022",
+     "published": "2022-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2022-184108564"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 21.º-B",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "203833215",
+    "115326194",
+    "115326195",
+    "203833254",
+    "115326197",
+    "115326198",
+    "203833252",
+    "203833246",
+    "115326201",
+    "115326202",
+    "115326203",
+    "115326204",
+    "115326205",
+    "115326206",
+    "115326207",
+    "115326208",
+    "203833220",
+    "115326210",
+    "203833221",
+    "203833259",
+    "203833253",
+    "203833244",
+    "203833225",
+    "115326215",
+    "203833222",
+    "115326217",
+    "203833217",
+    "115326219",
+    "203833242",
+    "203833260",
+    "115326220",
+    "115326221",
+    "115326222",
+    "115326223",
+    "115326224",
+    "115326225",
+    "115326226",
+    "115326227",
+    "115326228",
+    "115326229",
+    "203833237",
+    "203833226",
+    "203833227",
+    "203833247",
+    "203833229",
+    "203833245",
+    "203833231",
+    "203833232",
+    "203833233",
+    "203833234",
+    "115326239",
+    "203833255",
+    "203833256"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213558633:por",
+     "title": "Decreto-Lei n.º 36/2023",
+     "published": "2023-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2023-213558633"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º-A"
+   ],
+   "fragments": [
+    "203833215",
+    "115326194",
+    "115326195",
+    "203833254",
+    "115326197",
+    "115326198",
+    "203833252",
+    "203833246",
+    "115326201",
+    "115326202",
+    "115326203",
+    "115326204",
+    "115326205",
+    "115326206",
+    "115326207",
+    "115326208",
+    "203833220",
+    "115326210",
+    "203833221",
+    "203833259",
+    "203833253",
+    "203833244",
+    "213622518",
+    "115326215",
+    "203833222",
+    "115326217",
+    "203833217",
+    "115326219",
+    "203833242",
+    "203833260",
+    "115326220",
+    "115326221",
+    "115326222",
+    "115326223",
+    "115326224",
+    "115326225",
+    "115326226",
+    "115326227",
+    "115326228",
+    "115326229",
+    "203833237",
+    "203833226",
+    "203833227",
+    "203833247",
+    "203833229",
+    "203833245",
+    "203833231",
+    "203833232",
+    "203833233",
+    "203833234",
+    "115326239",
+    "203833255",
+    "203833256"
+   ]
+  }
+ ],
+ "fragments": {
+  "203833215": {
+   "fragment_id": "115326113",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-01-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 125/2011\n\nde 29 de Dezembro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nO Ministério da Educação e Ciência sucede, de acordo com o programa do XIX Governo Constitucional, nas atribuições anteriormente prosseguidas pelo Ministério da Educação e pelo Ministério da Ciência, Tecnologia e Ensino Superior, agregando-se num mesmo departamento governamental a definição e a promoção da execução das políticas relativas à educação pré-escolar, à educação escolar - que compreende os ensinos básico, secundário e superior e integra as modalidades especiais de educação -, à educação extra-escolar e à ciência e tecnologia, bem como os respectivos modos de organização, financiamento e avaliação, por forma a potenciar as sinergias dos diferentes subsistemas, beneficiando da respectiva complementaridade.\n\nPretende-se, com a nova orgânica, dotar o Ministério da Educação e Ciência de uma estrutura simplificada e flexível, capaz de dar resposta aos desafios que Portugal enfrenta nestas áreas, sendo vários os serviços e organismos existentes que são objecto de extinção, fusão ou reestruturação.\n\nAssim, no quadro desse esforço de racionalização e economia, passam a existir apenas sete serviços da administração directa do Estado - a Secretaria-Geral, a Inspecção-Geral da Educação e Ciência, a Direcção-Geral de Educação, a Direcção-Geral do Ensino Superior, a Direcção-Geral da Administração Escolar, a Direcção-Geral de Estatísticas da Educação e Ciência e a Direcção-Geral de Planeamento e Gestão Financeira.\n\nNeste contexto, procede-se à extinção, por fusão, das secretarias-gerais e das inspecções-gerais dos anteriores departamentos governamentais, do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior, do Gabinete de Gestão Financeira, do Gabinete de Estatística e Planeamento da Educação, do Gabinete Coordenador do Sistema de Informação, da Direcção-Geral de Inovação e Desenvolvimento Curricular, do Gabinete Coordenador de Segurança Escolar, da Direcção-Geral dos Recursos Humanos da Educação e das Direcções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, todos do Ministério da Educação.\n\nRefira-se que a extinção das cinco Direcções Regionais de Educação, cujas atribuições são integradas na Direcção-Geral da Administração Escolar, permitirá aprofundar a autonomia das escolas, implementando modelos descentralizados de gestão e apoiando a execução dos seus projectos educativos e organização pedagógica.\n\nPor outro lado, a necessidade de desenvolver e consolidar uma cultura de avaliação e exigência em todos os níveis do sistema de ensino implicará a redefinição futura do papel atribuído ao Gabinete de Avaliação Educacional (GAVE), que deixará de integrar a administração directa do Estado, através da aprovação de novo enquadramento jurídico como entidade autónoma e independente, capaz de se relacionar com entidades internas e externas ao Ministério, com competências científicas em várias áreas, de forma a conceber e a aplicar provas e exames nacionais, validados, fiáveis e comparáveis.\n\nAo nível da administração indireta do Estado, verifica-se uma importante redução do número de organismos por comparação com a estrutura anterior. Optou-se por manter, ainda que reestruturados, a Fundação para a Ciência e a Tecnologia, I.P., o Estádio Universitário de Lisboa, I.P., o Centro Científico e Cultural de Macau, I.P., e a Agência Nacional para a Qualificação e o Ensino Profissional, I.P.\n\nDa anterior estrutura da administração indireta são integradas noutros organismos, deste ou de outros departamentos governamentais ou, ainda, em instituições de ensino superior, as competências do Instituto de Meteorologia, I.P., do Instituto Tecnológico e Nuclear, I.P., do Museu Nacional da Ciência e da Técnica Doutor Mário Silva, bem como da Agência para a Sociedade do Conhecimento, I.P.\n\nPor fim, é também extinto o Conselho Coordenador da Ciência e Tecnologia, órgão consultivo que tem por missão o aconselhamento do membro do Governo responsável pela política de ciência e tecnologia, o qual será substituído pelo Conselho Nacional de Ciência e Tecnologia, estrutura que terá por missão o aconselhamento do Governo em matérias transversais de ciência e tecnologia, numa perspectiva de definição de políticas e estratégias nacionais, de médio e longo prazo.\n\nA nova orgânica do Ministério da Educação e Ciência visa, assim, criar uma estrutura de apoio às políticas nacionais dirigidas aos sistemas educativo e científico e tecnológico, por forma a promover a qualificação dos portugueses e o reforço da ciência e da tecnologia enquanto eixos estratégicos do desenvolvimento sustentado da sociedade portuguesa.\n\nAssim:\n\nNos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115326194": {
+   "fragment_id": "115326114",
+   "type": 1,
+   "heading": "Capítulo I — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Missão e atribuições"
+  },
+  "115326195": {
+   "fragment_id": "115326115",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nO Ministério da Educação e Ciência, abreviadamente designado por MEC, é o departamento governamental que tem por missão definir, coordenar, promover, executar e avaliar as políticas nacionais dirigidas aos sistemas educativo e científico e tecnológico, articulando-as com as políticas de qualificação e formação profissional."
+  },
+  "115326196": {
+   "fragment_id": "115326116",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, são atribuições do MEC:\n\na) Definir e promover a execução das políticas relativas à educação pré-escolar, à educação escolar, compreendendo os ensinos básico, secundário e superior e integrando as modalidades especiais de educação, à educação extra-escolar e à ciência e tecnologia, bem como os respectivos modos de organização, financiamento e avaliação;\n\nb) Participar na definição e execução das políticas de qualificação e formação profissional;\n\nc) Promover a coordenação das políticas de educação, ciência, qualificação e formação profissional com as políticas relativas à promoção e difusão da língua portuguesa, ao apoio à família, à inclusão social e ao emprego;\n\nd) Garantir o direito à educação e assegurar a escolaridade obrigatória, de modo a promover a igualdade de oportunidades;\n\ne) Reforçar as condições de ensino e aprendizagem, de forma a contribuir para a qualificação da população e melhoria dos índices de empregabilidade e de sucesso escolar;\n\nf) Promover a valorização da diversidade de experiências, a liberdade de escolha e a formação ao longo da vida;\n\ng) Desenvolver e consolidar uma cultura de avaliação e exigência em todos os níveis dos sistemas educativo e científico e tecnológico;\n\nh) Definir o currículo nacional e o regime de avaliação dos alunos e aprovar os programas de ensino e as orientações para a sua concretização, compreendendo os do ensino português no estrangeiro;\n\ni) Assegurar as orientações pedagógicas e a certificação da aprendizagem do ensino português no estrangeiro de nível não superior e exercer a tutela sobre as escolas portuguesas no estrangeiro;\n\nj) Definir, gerir e acompanhar o desenvolvimento, a requalificação, modernização e conservação da rede escolar de estabelecimentos públicos de ensino não superior, tendo em consideração as iniciativas no âmbito do ensino particular e cooperativo;\n\nl) Apoiar a autonomia das escolas, implementando modelos descentralizados de gestão e apoiando a execução dos seus projectos educativos e organização pedagógica;\n\nm) Promover o desenvolvimento, modernização, qualidade, competitividade e avaliação internacional dos sistemas de ensino superior e científico e tecnológico, bem como estimular o reforço das instituições que fazem parte desses sistemas;\n\nn) Planear e administrar os recursos humanos, materiais e financeiros afectos aos sistemas educativo e científico e tecnológico, sem prejuízo da autonomia das instituições de ensino superior e das que integram o sistema científico e tecnológico nacional;\n\no) Promover a adequação da oferta do ensino superior, incluindo a articulação e complementaridade entre a oferta pública e privada e a redefinição da rede de instituições e suas formações;\n\np) Proceder à regulação e promover a observação permanente, a avaliação e a inspecção, nas diversas vertentes previstas na lei, dos estabelecimentos de ensino e das instituições que integram o sistema científico e tecnológico nacional;\n\nq) Criar um sistema de análise, monitorização, avaliação e apresentação de resultados de modo a avaliar os resultados e os impactos das políticas de educação e formação;\n\nr) Incentivar e apoiar o desenvolvimento da capacidade científica e tecnológica em Portugal, a formação e qualificação de recursos humanos em áreas de investigação e desenvolvimento, visando o reforço e a melhoria da produção científica e do emprego científico público e privado;\n\ns) Reforçar a cooperação entre o sistema de ensino superior e o sistema científico e tecnológico, possibilitando uma maior interligação entre estes e o sistema produtivo;\n\nt) Promover, estimular e apoiar o estabelecimento de consórcios, redes e programas entre empresas e unidades de investigação, a criação de empresas de base tecnológica, bem como o desenvolvimento de estratégias empresariais abertas à inovação, à demonstração tecnológica e à investigação aplicada;\n\nu) Desenvolver a cultura científica e tecnológica, estimulando e apoiando actividades de difusão, de informação e educação científica e de experimentação;\n\nv) Apoiar o esforço de qualificação dos portugueses no espaço europeu, assegurando níveis mais elevados de empregabilidade e estimulando o empreendedorismo;\n\nx) Desenvolver as relações internacionais e as actividades de cooperação no âmbito dos sistemas educativos e científico e tecnológico, de harmonia com as orientações de política externa portuguesa e sem prejuízo das atribuições do Ministério dos Negócios Estrangeiros;\n\nz) Estimular e desenvolver as actividades de ciência, tecnologia e inovação nos domínios fundamentais da agenda internacional e da cooperação internacional, promovendo a difusão de conhecimento e tecnologias, participando em organizações internacionais e contribuindo para a definição da política científica e tecnológica da União Europeia, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros."
+  },
+  "115326197": {
+   "fragment_id": "115326117",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "115326198": {
+   "fragment_id": "115326118",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\nO MEC prossegue as suas atribuições através de serviços integrados na administração directa do Estado, de organismos integrados na administração indirecta do Estado, de órgãos consultivos, de outras estruturas e de entidades integradas no sector empresarial do Estado."
+  },
+  "115326199": {
+   "fragment_id": "115326119",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\nIntegram a administração directa do Estado, no âmbito do MEC, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral do Ensino Superior;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\ng) A Direcção-Geral de Planeamento e Gestão Financeira;\n\nh) O Gabinete de Avaliação Educacional."
+  },
+  "115326200": {
+   "fragment_id": "115326120",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\n1 - Prosseguem atribuições do MEC, sob superintendência e tutela do respectivo ministro, os seguintes organismos:\n\na) A Fundação para a Ciência e a Tecnologia, I. P.;\n\nb) O Estádio Universitário de Lisboa, I. P.;\n\nc) O Centro Científico e Cultural de Macau, I. P.;\n\nd) A Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n2 - A superintendência e tutela relativas à Agência Nacional para a Qualificação e o Ensino Profissional, I. P., são exercidas em conjunto pelos membros do Governo responsáveis pelas áreas da educação e do emprego, sem prejuízo do disposto no n.º 3 do artigo 20.º"
+  },
+  "115326201": {
+   "fragment_id": "115326121",
+   "type": 11,
+   "heading": "Artigo 6.º — Estabelecimentos de ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estabelecimentos de ensino superior\n\n1 - As universidades públicas, os institutos politécnicos públicos e os estabelecimentos de ensino universitário e politécnico públicos não integrados encontram-se sujeitos à tutela do membro do Governo responsável pelas áreas da educação e ciência, nos termos da lei.\n\n2 - Excepcionam-se do disposto no número anterior os estabelecimentos de ensino superior que integram a estrutura de outros ministérios, em relação aos quais o membro do Governo responsável pelas áreas da educação e ciência dispõe da competência fixada pela lei no domínio do ensino que vise conferir graus e diplomas de ensino superior.\n\n3 - Em relação aos estabelecimentos de ensino superior reconhecidos de interesse público nos termos do Regime Jurídico das Instituições de Ensino Superior, bem como à Universidade Católica Portuguesa, o membro do Governo responsável pelas áreas da educação e ciência dispõe da competência fixada na lei e na Concordata celebrada entre Portugal e a Santa Sé.\n\n4 - A definição das orientações estratégicas e a fixação de objectivos para a Escola Náutica Infante D. Henrique, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência, dos transportes e do mar."
+  },
+  "115326202": {
+   "fragment_id": "115326122",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos consultivos\n\nSão órgãos consultivos do MEC:\n\na) O Conselho Nacional de Educação;\n\nb) O Conselho das Escolas;\n\nc) O Conselho Coordenador do Ensino Superior."
+  },
+  "115326203": {
+   "fragment_id": "115326123",
+   "type": 11,
+   "heading": "Artigo 8.º — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Outras estruturas\n\nNo âmbito do MEC funciona ainda o Conselho Nacional de Ciência e Tecnologia e a Academia das Ciências de Lisboa."
+  },
+  "115326204": {
+   "fragment_id": "115326124",
+   "type": 11,
+   "heading": "Artigo 9.º — Sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sector empresarial do Estado\n\n1 - As orientações estratégicas, a implementação dos respectivos planos e os relatórios de execução financeira ficam condicionados à apreciação e aprovação do membro do Governo responsável pela área das finanças.\n\n2 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao membro do Governo responsável pela área das finanças, a competência relativa à definição das orientações estratégicas das entidades do sector empresarial do Estado com atribuições nos domínios da educação e ciência, bem como o acompanhamento da respectiva execução, é exercida pelo membro do Governo responsável pela área da educação e ciência."
+  },
+  "115326205": {
+   "fragment_id": "115326125",
+   "type": 1,
+   "heading": "Capítulo III — Serviços, organismos, órgãos consultivos e outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços, organismos, órgãos consultivos e outras estruturas"
+  },
+  "115326206": {
+   "fragment_id": "115326126",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços da administração directa do Estado"
+  },
+  "115326207": {
+   "fragment_id": "115326127",
+   "type": 11,
+   "heading": "Artigo 10.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Secretaria-Geral\n\n1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão assegurar o apoio técnico especializado aos membros do Governo do MEC e aos demais órgãos, serviços e organismos nele integrados, nos domínios do apoio jurídico, da resolução de conflitos e do contencioso, dos regimes de emprego e de relações de trabalho, da gestão dos recursos humanos, financeiros, tecnológicos e patrimoniais, da contratação pública, dos assuntos europeus e das relações internacionais, bem como da política de qualidade, da informação e da comunicação.\n\n2 - A SG prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico e jurídico aos membros do Governo, bem como aos órgãos, serviços e organismos do MEC;\n\nb) Promover o recurso a meios de resolução alternativa de litígios, com vista à diminuição dos índices de conflitualidade no âmbito da educação e da ciência;\n\nc) Realizar o contencioso da educação e da ciência, com patrocínio próprio, e coordenar aquele contencioso, em articulação com outros órgãos, serviços e organismos do MEC que disponham de competências próprias nesta matéria;\n\nd) Promover a aplicação no MEC de medidas no âmbito dos regimes de emprego e de relações de trabalho, bem como de gestão de recursos humanos, coordenando e apoiando os órgãos, serviços e organismos do MEC;\n\ne) Proceder à elaboração, ao acompanhamento e à gestão dos orçamentos dos gabinetes dos membros do Governo, da SG e dos órgãos e estruturas do MEC, cujo apoio seja prestado directamente pela SG;\n\nf) Assegurar as funções de Unidade Ministerial de Compras e de Unidade de Gestão Patrimonial e empreender as acções necessárias à preservação, conservação e valorização do património edificado afecto aos gabinetes dos membros do Governo, à SG e aos órgãos e estruturas do MEC, cujo apoio seja prestado directamente pela SG;\n\ng) Preservar e valorizar, de acordo com as orientações da política do património cultural, o património histórico da educação e da ciência, nas componentes arquivística, bibliográfica e museológica, sem prejuízo das competências conferidas a outros órgãos, serviços e organismos do MEC;\n\nh) Assegurar as actividades de informação, de comunicação e de relações públicas, bem como programar e coordenar a aplicação de medidas tendentes a promover a inovação e a política de qualidade no MEC;\n\ni) Coordenar a actividade de âmbito internacional nos domínios de actuação do MEC, garantindo a coerência das intervenções dos respectivos órgãos, serviços e organismos e a sua articulação com o Ministério dos Negócios Estrangeiros.\n\n3 - A SG é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326208": {
+   "fragment_id": "115326128",
+   "type": 11,
+   "heading": "Artigo 11.º — Inspecção-Geral da Educação e Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inspecção-Geral da Educação e Ciência\n\n1 - A Inspecção-Geral da Educação e Ciência, abreviadamente designada por IGEC, tem por missão assegurar a legalidade e regularidade dos actos praticados pelos órgãos, serviços e organismos do MEC ou sujeitos à tutela do membro do Governo, bem como o controlo, a auditoria e a fiscalização do funcionamento do sistema educativo no âmbito da educação pré-escolar, da educação escolar, compreendendo os ensinos básico, secundário e superior e integrando as modalidades especiais de educação, da educação extra-escolar, da ciência e tecnologia e dos órgãos, serviços e organismos do MEC.\n\n2 - A IGEC prossegue, designadamente, as seguintes atribuições:\n\na) Apreciar a conformidade legal e regulamentar dos actos dos órgãos, serviços e organismos do MEC ou sujeitos à tutela do membro do Governo e avaliar o seu desempenho e gestão, através da realização de acções de inspecção e de auditoria, que podem conduzir a propostas de medidas correctivas quer na gestão quer no seu funcionamento;\n\nb) Auditar os sistemas e procedimentos de controlo interno dos órgãos, serviços e organismos da área de actuação do MEC ou sujeitos à tutela do membro do Governo, no quadro das responsabilidades cometidas ao sistema de controlo interno da administração financeira do Estado, visando, nomeadamente, o controlo da aplicação dos dinheiros públicos;\n\nc) Contribuir para a qualidade do sistema educativo no âmbito da educação pré-escolar, dos ensinos básico e secundário e da educação extra-escolar, designadamente através de acções de controlo, acompanhamento e avaliação, propondo medidas que visem a melhoria do sistema educativo e participando no processo de avaliação das escolas de ensino básico e secundário e das actividades com ele relacionadas;\n\nd) Zelar pela equidade nos sistemas educativo, científico e tecnológico, salvaguardando os interesses legítimos de todos os que o integram e dos respectivos utentes, nomeadamente registando e tratando queixas e reclamações;\n\ne) Conceber, planear e executar acções de inspecção e auditoria aos estabelecimentos de ensino superior, no respeito pela respectiva autonomia, aos serviços de acção social e aos órgãos, serviços e organismos tutelados pelo MEC em matéria de organização e de gestão administrativa, financeira e patrimonial, nomeadamente quando beneficiários de financiamentos nacionais ou europeus atribuídos pelo MEC;\n\nf) Avaliar a qualidade dos sistemas de informação de gestão, incluindo os indicadores de desempenho;\n\ng) Assegurar o serviço jurídico-contencioso decorrente dos processos contra-ordenacionais, em articulação com a SG, bem como a acção disciplinar e os procedimentos de contra-ordenação, previstos na lei.\n\n3 - A IGEC é dirigida por um inspector-geral, coadjuvado por três subinspectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326209": {
+   "fragment_id": "115326129",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção-Geral da Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção-Geral da Educação\n\n1 - A Direcção-Geral da Educação, abreviadamente designada por DGE, tem por missão assegurar a concretização das políticas relativas à componente pedagógica e didáctica da educação pré-escolar, dos ensinos básico e secundário e da educação extra-escolar, prestando apoio técnico à sua formulação e acompanhando e avaliando a sua concretização, coordenar a planificação das diversas provas e exames, conceber, organizar e executar as medidas de prevenção do risco, segurança e controlo da violência nas escolas.\n\n2 - A DGE prossegue, designadamente, as seguintes atribuições:\n\na) Desenvolver os currículos e os programas das disciplinas, as orientações relativas às áreas curriculares não disciplinares, bem como propor a respectiva revisão em coerência com os objectivos do sistema educativo;\n\nb) Desenvolver o estudo sobre a organização pedagógica das escolas, propondo medidas de reorganização;\n\nc) Coordenar a planificação das provas finais, dos exames nacionais e equivalentes, provas de equivalência à frequência e provas de aferição;\n\nd) Promover a investigação e os estudos técnicos, nomeadamente estudos de acompanhamento e avaliação, no âmbito do desenvolvimento e da inovação curricular, da organização e da avaliação pedagógica e didáctica do sistema educativo, da inovação educacional e da qualidade do ensino e das aprendizagens;\n\ne) Coordenar, acompanhar e propor orientações, em termos científico-pedagógicos e didácticos, para as actividades da educação pré-escolar e escolar, abrangendo as suas modalidades de educação especial e de ensino à distância, incluindo as escolas portuguesas no estrangeiro e de ensino português no estrangeiro, em articulação com o serviço do Ministério dos Negócios Estrangeiros responsável pela gestão da respectiva rede;\n\nf) Coordenar, acompanhar e propor orientações, em termos científico-pedagógicos e didácticos, para a promoção do sucesso e prevenção do abandono escolar e para as actividades de enriquecimento curricular e do desporto escolar, designadamente actividades de orientação e medidas de apoio, recuperação e complemento educativos, em particular as destinadas a alunos com necessidades educativas especiais;\n\ng) Identificar as necessidades de material didáctico, incluindo manuais escolares, e assegurar as condições para a respectiva avaliação e certificação;\n\nh) Contribuir para o planeamento das necessidades de formação inicial, contínua e especializada do pessoal docente, em articulação com a Direcção-Geral de Estatísticas da Educação e Ciência e a Direcção-Geral da Administração Escolar;\n\ni) Promover, coordenar e acompanhar a prevenção e intervenção na área da segurança escolar e assegurar a actividade de vigilância no espaço escolar, garantindo a necessária articulação com o Programa Escola Segura e com o Observatório da Segurança, promovendo a formação de pessoal docente e não docente na área da segurança escolar;\n\nj) Assegurar na sua área de actuação as relações internacionais, sem prejuízo da coordenação exercida pela SG e das atribuições próprias do Ministério dos Negócios Estrangeiros, bem como promover a cooperação internacional.\n\n3 - A DGE é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326210": {
+   "fragment_id": "115326130",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção-Geral do Ensino Superior\n\n1 - A Direcção-Geral do Ensino Superior, abreviadamente designada por DGES, tem por missão assegurar a concepção, a execução e a coordenação das políticas que, no âmbito do ensino superior, cabem ao MEC.\n\n2 - A DGES prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar o membro do Governo responsável pela área do ensino superior na definição das políticas para o sector, nomeadamente nas vertentes da definição e da organização da rede de instituições de ensino superior, do acesso e do ingresso no ensino superior e da acção social, bem como preparar e executar, sem prejuízo da autonomia das instituições de ensino superior, as decisões que cumpre àquele membro do Governo adoptar;\n\nb) Assegurar e coordenar a prestação de informação sobre o sistema de ensino superior;\n\nc) Coordenar as acções relativas ao acesso e ao ingresso no ensino superior;\n\nd) Prestar o apoio que lhe seja solicitado pela Agência de Avaliação e Acreditação do Ensino Superior, no âmbito dos processos de acreditação e de avaliação do ensino superior;\n\ne) Proceder ao registo dos ciclos de estudos de ensino superior e dos cursos de especialização tecnológica;\n\nf) Acompanhar as necessidades de qualificação e adequação das instalações e equipamentos do ensino superior e da rede de acção social;\n\ng) Assegurar na área do ensino superior as relações internacionais, sem prejuízo da coordenação exercida pela SG e das atribuições próprias do Ministério dos Negócios Estrangeiros, e promover a cooperação internacional, bem como a mobilidade dos estudantes do ensino superior português no espaço europeu;\n\nh) Gerir o Fundo de Acção Social e preparar a proposta de orçamento da acção social do ensino superior e acompanhar a sua execução, bem como avaliar a qualidade dos serviços de acção social no ensino superior, em articulação com a IGEC;\n\ni) Proceder ao reconhecimento dos serviços de acção social no âmbito da acção social no ensino superior privado.\n\n3 - A DGES é dirigida por um director-geral, coadjuvado por um subdirector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326211": {
+   "fragment_id": "115326131",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção-Geral da Administração Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção-Geral da Administração Escolar\n\n1 - A Direcção-Geral da Administração Escolar, abreviadamente designada por DGAE, tem por missão garantir a concretização das políticas de gestão estratégica e de desenvolvimento dos recursos humanos da educação afectos às estruturas educativas públicas situadas no território continental nacional, sem prejuízo das competências atribuídas às autarquias locais e aos órgãos de gestão e administração escolares e, também, das estruturas educativas nacionais que se encontram no estrangeiro, visando a promoção da língua e cultura portuguesas, e acompanhar e decidir as questões relacionadas com as qualificações profissionais e o exercício de funções docentes nos estabelecimentos de ensino particular, cooperativo e solidário.\n\n2 - A DGAE prossegue, designadamente, as seguintes atribuições:\n\na) Concretizar as políticas de desenvolvimento dos recursos humanos relativas ao pessoal docente e não docente das escolas, em particular as políticas relativas a recrutamento e selecção, carreiras, remunerações e formação;\n\nb) Definir as necessidades de pessoal docente e não docente das escolas;\n\nc) Promover e assegurar o recrutamento do pessoal docente e não docente das escolas;\n\nd) Promover a formação do pessoal docente e não docente das escolas;\n\ne) Decidir sobre questões relativas ao pessoal docente do ensino particular, cooperativo e solidário, incluindo os ensinos profissional e artístico e a educação de adultos, nomeadamente autorizações provisórias de leccionação, acumulação de funções e certificação do tempo de serviço;\n\nf) Definir, gerir e acompanhar a requalificação, modernização e conservação da rede escolar;\n\ng) Assegurar o serviço jurídico-contencioso, no âmbito das suas atribuições em articulação com a SG.\n\n3 - A DGAE é dirigida por um director-geral, coadjuvado por dois subdirectores gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326212": {
+   "fragment_id": "115326132",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção-Geral de Estatísticas da Educação e Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção-Geral de Estatísticas da Educação e Ciência\n\n1 - A Direcção-Geral de Estatísticas da Educação e Ciência, abreviadamente designada por DGEEC, tem por missão garantir a produção e análise estatística da educação e ciência, apoiando tecnicamente a formulação de políticas e o planeamento estratégico e operacional, criar e assegurar o bom funcionamento do sistema integrado de informação do MEC, observar e avaliar globalmente os resultados obtidos pelos sistemas educativo e científico e tecnológico, em articulação com os demais serviços do MEC.\n\n2 - A DGEEC prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico estatístico em matéria de definição e estruturação das políticas, prioridades e objectivos do MEC;\n\nb) Elaborar, difundir e apoiar a criação de instrumentos de planeamento e de avaliação das políticas e programas do MEC, procedendo ao respectivo acompanhamento e avaliação;\n\nc) Desenvolver e coordenar estudos sobre o sistema educativo, científico e tecnológico;\n\nd) Manter, actualizar e garantir o bom funcionamento do sistema integrado de informação do MEC, com vista à recolha, monitorização, tratamento e produção de informação estatística adequada, no quadro do Sistema Estatístico Nacional, nas áreas de intervenção do MEC;\n\ne) Gerir o sistema integrado de informação e gestão da oferta educativa e formativa;\n\nf) Assegurar o desenvolvimento de sistemas de informação e de comunicação no âmbito dos órgãos, serviços e organismos do MEC e, ainda, no âmbito das escolas;\n\ng) Garantir, a nível nacional, a inquirição e observação dos instrumentos dos sistemas educativo, científico e tecnológico definidos nos quadros europeu e na Organização para a Cooperação e o Desenvolvimento Económico (OCDE);\n\nh) Assegurar a articulação com estruturas congéneres, a nível nacional e internacional, tendo em vista a harmonização estatística e a intercomunicabilidade de dados.\n\n3 - A DGEEC é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326213": {
+   "fragment_id": "115326133",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção-Geral de Planeamento e Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção-Geral de Planeamento e Gestão Financeira\n\n1 - A Direcção-Geral de Planeamento e Gestão Financeira, abreviadamente designada por DGPGF, tem por missão garantir a programação, a gestão financeira e o planeamento estratégico e operacional do MEC, garantindo uma correcta execução orçamental, a gestão previsional fiável e sustentada do orçamento da educação e ciência, bem como a observação e avaliação global da execução das políticas e dos resultados obtidos pelo sistema educativo, o funcionamento dos sistemas integrados de informação financeira e acompanhar e avaliar os instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais órgãos, serviços e organismos do MEC.\n\n2 - A DGPGF prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico-financeiro à definição de políticas, prioridades e objectivos do MEC;\n\nb) Acompanhar e avaliar a execução das políticas e programas do MEC, na vertente económico-financeira;\n\nc) Elaborar, difundir e apoiar a criação de instrumentos de planeamento, de avaliação e programação financeira, com vista à monitorização e execução conducentes à eficácia e eficiência dos sistemas educativo e científico e tecnológico;\n\nd) Apoiar a definição das principais opções em matéria orçamental e das propostas e modelos de financiamento das instituições de ensino superior, em articulação com a DGES, procedendo ao seu acompanhamento e execução;\n\ne) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MEC e acompanhar e monitorizar as respectivas execuções;\n\nf) Coordenar o planeamento da rede escolar e a sua racionalização;\n\ng) Desenvolver as acções necessárias à optimização dos sistemas educativo e científico e tecnológico, tendo em vista a obtenção de ganhos de eficiência financeira;\n\nh) Contribuir para a definição das políticas e estratégias em matéria de sistemas de informação de suporte às áreas de planeamento e de gestão financeira e coordenar a sua aplicação;\n\ni) Monitorizar e orientar o desempenho dos serviços e organismos do MEC.\n\n3 - A DGPGF é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326214": {
+   "fragment_id": "115326134",
+   "type": 11,
+   "heading": "Artigo 17.º — Gabinete de Avaliação Educacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gabinete de Avaliação Educacional\n\n1 - O Gabinete de Avaliação Educacional, abreviadamente designado por GAVE, tem por missão desempenhar, no âmbito da componente pedagógica e didáctica do sistema educativo, funções de planeamento, coordenação, elaboração, validação, aplicação e controlo de instrumentos de avaliação externa da aprendizagem.\n\n2 - O GAVE prossegue, designadamente, as seguintes atribuições:\n\na) Planear o processo de elaboração e validação dos instrumentos de avaliação externa da aprendizagem;\n\nb) Organizar, em colaboração com as escolas, os sistemas de informação necessários à produção dos instrumentos de avaliação externa da aprendizagem;\n\nc) Colaborar com a DGE no processo de realização das provas de avaliação externa da aprendizagem;\n\nd) Supervisionar a correcção das provas de avaliação externa da aprendizagem;\n\ne) Participar em estudos e projectos internacionais relativos à avaliação da aprendizagem.\n\n3 - O GAVE é dirigido por um director, coadjuvado por um director adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "115326215": {
+   "fragment_id": "115326135",
+   "type": 8,
+   "heading": "Secção II — Organismos da administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organismos da administração indirecta do Estado"
+  },
+  "115326216": {
+   "fragment_id": "115326136",
+   "type": 11,
+   "heading": "Artigo 18.º — Fundação para a Ciência e a Tecnologia, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fundação para a Ciência e a Tecnologia, I. P.\n\n1 - A Fundação para a Ciência e a Tecnologia, I. P., abreviadamente designada por FCT, I. P., tem por missão o desenvolvimento, o financiamento e a avaliação de instituições, redes, infra-estruturas, equipamentos científicos, programas, projectos e recursos humanos em todos os domínios da ciência e da tecnologia, bem como o desenvolvimento da cooperação científica e tecnológica internacional e, ainda, a coordenação das políticas públicas de ciência e tecnologia.\n\n2 - A FCT, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover e apoiar a realização de programas e projectos nos domínios da investigação científica e do desenvolvimento tecnológico, e o desenvolvimento e a inovação em áreas estratégicas, através do financiamento e co-financiamento dos programas e projectos aprovados e o acompanhamento da respectiva execução;\n\nb) Financiar ou co-financiar os programas e projectos de formação e qualificação de investigadores, nomeadamente através da atribuição de bolsas de estudo no País e no estrangeiro e de subsídios de investigação;\n\nc) Avaliar as actividades nacionais de ciência e tecnologia;\n\nd) Assegurar as relações internacionais, sem prejuízo da coordenação exercida pela SG e das atribuições próprias do Ministério dos Negócios Estrangeiros, e promover a cooperação internacional, nos domínios da ciência e da tecnologia, bem como acompanhar a preparação e a execução dos Programas Quadro de I&D da União Europeia e de outros instrumentos em que estes se insiram;\n\ne) Celebrar contratos-programa ou protocolos e atribuir subsídios a instituições que promovam ou se dediquem à investigação científica ou ao desenvolvimento tecnológico e promover a transferência de conhecimento a nível nacional e internacional, designadamente através da concessão de subsídios a quaisquer projectos, programas ou eventos de interesse científico e tecnológico, bem como da concessão de apoio financeiro a publicações científicas;\n\nf) Promover a cultura científica e tecnológica, a difusão e divulgação do conhecimento científico e técnico e assegurar a inventariação, gestão e preservação do património científico e tecnológico nacional, bem como do acervo bibliográfico e documental à sua guarda, sem prejuízo da coordenação exercida pela SG;\n\ng) Promover a participação da comunidade científica, tecnológica e de inovação nacional em projectos internacionais relevantes, quer na criação, absorção e difusão de conhecimento e tecnologia, quer no acesso a equipamentos científicos altamente sofisticados;\n\nh) Promover a articulação das iniciativas de natureza central, regional e local nas áreas da ciência e da tecnologia;\n\ni) Promover e apoiar a criação e a modernização de infra-estruturas de apoio às actividades de investigação científica e de desenvolvimento tecnológico, nomeadamente o desenvolvimento da Rede Ciência, Tecnologia e Sociedade (RCTS), assegurando a sua evolução como rede integrada de apoio à investigação e ensino com os serviços necessários e a apropriada conectividade nacional e internacional.\n\n3 - A FCT, I. P., é dirigida por um conselho directivo, constituído por um presidente e dois vogais."
+  },
+  "115326217": {
+   "fragment_id": "115326137",
+   "type": 11,
+   "heading": "Artigo 19.º — Estádio Universitário de Lisboa, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Estádio Universitário de Lisboa, I. P.\n\n1 - O Estádio Universitário de Lisboa, I. P., abreviadamente designado por EUL, I. P., tem por missão administrar e gerir os espaços e instalações desportivas que lhe estão adstritos, garantindo a qualidade da sua fruição e orientação para o utente, com os devidos impactos educativos, culturais e de saúde e bem-estar, no âmbito da actividade física e do desporto no ensino superior e como parte integrante da comunidade em geral.\n\n2 - O EUL, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover e organizar programas de exercício físico, desporto e saúde junto dos estudantes e do pessoal docente e não docente das instituições de ensino superior de Lisboa, com abertura para a sociedade civil;\n\nb) Apoiar o associativismo desportivo dos estudantes das instituições de ensino superior de Lisboa e respectivas estruturas dirigentes, respeitando a sua autonomia e iniciativa;\n\nc) Apoiar os estudantes do ensino superior que sejam atletas integrados no regime de alta competição, através da atribuição de bolsas de estudo, prémios e da possibilidade de acesso às instalações em condições especiais;\n\nd) Manter, explorar e preservar o património imobiliário existente no complexo desportivo do EUL, I. P., promovendo uma utilização eficiente dos seus espaços, equipamentos e instalações desportivas, na lógica do interesse público geral;\n\ne) Promover a prática da educação física e do desporto escolar no ensino superior como instrumentos de estudo, ética e cidadania, educação e formação ao longo da vida, inovação e investigação, de forma a dar resposta às necessidades de lazer, desenvolvimento de competências, saúde e qualidade de vida dos estudantes;\n\nf) Prestar às instituições de ensino superior de Lisboa, nomeadamente aos seus estudantes, um conjunto de serviços de apoio que promovam a igualdade de oportunidades e a criação de um bom ambiente de aprendizagem facilitadores do sucesso escolar.\n\n3 - O EUL, I. P., é dirigido por um presidente."
+  },
+  "115326218": {
+   "fragment_id": "115326138",
+   "type": 11,
+   "heading": "Artigo 20.º — Centro Científico e Cultural de Macau, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Centro Científico e Cultural de Macau, I. P.\n\n1 - O Centro Científico e Cultural de Macau, I. P., abreviadamente designado por CCCM, I. P., tem por missão produzir, promover e divulgar o conhecimento sobre Macau e sobre as relações de Portugal com Macau e com a República Popular da China, bem como sobre as relações da Europa com a região Ásia-Pacífico, centradas, respectivamente, em Portugal e em Macau, promovendo, nomeadamente, através do Museu e da Biblioteca, seus instrumentos fundamentais, a investigação e a cooperação científica, cultural e artística nas áreas da Sinologia, dos estudos sobre Macau, da Japonologia, dos estudos de Ásia do Sueste e das Relações Eurasiáticas.\n\n2 - O CCCM, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Contribuir para um melhor conhecimento científico sobre a presença histórica e cultural portuguesa em Macau, bem como estimular os contactos e o diálogo com as culturas orientais;\n\nb) Promover, incentivar e apoiar manifestações científicas e culturais ligadas à vivência intercultural luso-chinesa;\n\nc) Contribuir para a preservação do património existente em Portugal que atesta a presença portuguesa em Macau e na região Ásia-Pacífico, em particular na República Popular da China;\n\nd) Promover a investigação em áreas relativas às relações entre Portugal e a região Ásia-Pacífico, especialmente as que respeitem à República Popular da China ou que interessem ao conhecimento e à preservação da herança cultural de Macau;\n\ne) Realizar programas de divulgação científica e animação cultural e promover estudos sobre a história e cultura de Macau e a presença dos Portugueses neste território, bem como sobre outros temas ligados à região Ásia-Pacífico e ao diálogo com a cultura portuguesa;\n\nf) Recolher, conservar e divulgar fontes históricas disponíveis relacionadas com o passado do território de Macau, utilizando o Museu e a Biblioteca como instrumentos essenciais ao cumprimento desta atribuição;\n\ng) Editar e co-editar, em suporte papel e digital, estudos científicos, fontes documentais inéditas e outros tipos de estudos sobre Macau e sobre as relações de Portugal, no presente e no passado, com Macau e as regiões da Ásia do Sueste e da Ásia Oriental, em particular com a República Popular da China;\n\nh) Celebrar acordos, protocolos e contratos com pessoas singulares ou colectivas, de natureza pública ou privada, nacionais e estrangeiras, para a realização conjunta de acções e de actividades que se enquadrem na missão do CCCM, I. P.\n\n3 - O CCCM, I. P., é dotado apenas de autonomia administrava.\n\n4 - O CCCM, I. P., é dirigido por um presidente."
+  },
+  "115326219": {
+   "fragment_id": "115326139",
+   "type": 11,
+   "heading": "Artigo 21.º — Agência Nacional para a Qualificação e o Ensino Profissional, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n1 - A Agência Nacional para a Qualificação e o Ensino Profissional, I. P., abreviadamente designada por ANQEP, I. P., tem por missão coordenar a execução das políticas de educação e formação profissional de jovens e adultos, assegurar o desenvolvimento e a gestão do sistema de reconhecimento, validação e certificação de competências.\n\n2 - A ANQEP, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Coordenar a oferta de dupla certificação de jovens e adultos e os correspondentes dispositivos de informação e orientação;\n\nb) Dinamizar a oferta de educação e formação profissional de jovens e adultos e monitorizar os seus resultados;\n\nc) Desenvolver e gerir a rede de reconhecimento, validação e certificação de competências;\n\nd) Coordenar o desenvolvimento curricular e as metodologias e materiais de intervenção específicos para a educação e formação de jovens e adultos, com dupla certificação, escolar e profissional;\n\ne) Fomentar, em cooperação com outros actores, o desenvolvimento de uma aprendizagem de qualidade ao longo da vida;\n\nf) Contribuir para o desenvolvimento, a nível europeu, de intercâmbios e cooperação, assim como da mobilidade entre sistemas de ensino e formação de jovens e adultos.\n\n3 - A definição das orientações estratégicas e a fixação de objectivos para a ANQEP, I. P., bem como o acompanhamento da sua execução, são articulados pelos membros do Governo responsáveis pelas áreas da educação e do emprego com o membro do Governo responsável pela área da segurança social.\n\n4 - A ANQEP, I. P., é dirigida por um conselho directivo constituído por um presidente e dois vogais."
+  },
+  "115326220": {
+   "fragment_id": "115326140",
+   "type": 8,
+   "heading": "Secção III — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgãos consultivos"
+  },
+  "115326221": {
+   "fragment_id": "115326141",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselho Nacional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conselho Nacional de Educação\n\n1 - O Conselho Nacional de Educação é um órgão independente com funções consultivas, que tem por missão proporcionar a participação das várias forças sociais, culturais e económicas na procura de consensos alargados relativamente à política educativa.\n\n2 - A composição, as competências e o modo de funcionamento do Conselho Nacional de Educação são definidos em diploma próprio."
+  },
+  "115326222": {
+   "fragment_id": "115326142",
+   "type": 11,
+   "heading": "Artigo 23.º — Conselho das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Conselho das Escolas\n\n1 - O Conselho das Escolas tem por missão representar junto do MEC os estabelecimentos de educação no tocante à definição das políticas pertinentes para a educação pré-escolar e os ensinos básico e secundário.\n\n2 - A composição, as competências e o modo de funcionamento do Conselho das Escolas são definidos em diploma próprio."
+  },
+  "115326223": {
+   "fragment_id": "115326143",
+   "type": 11,
+   "heading": "Artigo 24.º — Conselho Coordenador do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conselho Coordenador do Ensino Superior\n\n1 - O Conselho Coordenador do Ensino Superior tem por missão o aconselhamento do membro do Governo responsável pela área do ensino superior no domínio da política do ensino superior.\n\n2 - A composição, as competências e o modo de funcionamento do Conselho Coordenador do Ensino Superior são definidos em diploma próprio."
+  },
+  "115326224": {
+   "fragment_id": "115326144",
+   "type": 8,
+   "heading": "Secção V — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Outras estruturas"
+  },
+  "115326225": {
+   "fragment_id": "115326145",
+   "type": 11,
+   "heading": "Artigo 25.º — Conselho Nacional de Ciência e Tecnologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Conselho Nacional de Ciência e Tecnologia\n\n1 - O Conselho Nacional de Ciência e Tecnologia tem por missão o aconselhamento do Governo em matérias transversais de ciência e tecnologia, numa perspectiva de definição de políticas e estratégias nacionais, de médio e longo prazo.\n\n2 - A composição, competências e o modo de funcionamento do Conselho Nacional de Ciência e Tecnologia são definidos por diploma próprio."
+  },
+  "115326226": {
+   "fragment_id": "115326146",
+   "type": 11,
+   "heading": "Artigo 26.º — Academia das Ciências de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Academia das Ciências de Lisboa\n\nAs competências do membro do Governo responsável pela área da ciência relativas à Academia das Ciências de Lisboa, instituição científica de utilidade pública, exercem-se nos termos dos respectivos estatutos."
+  },
+  "115326227": {
+   "fragment_id": "115326147",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "115326228": {
+   "fragment_id": "115326148",
+   "type": 11,
+   "heading": "Artigo 27.º — Superintendências e tutelas conjuntas e articulações no âmbito do Ministério da Educação e Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Superintendências e tutelas conjuntas e articulações no âmbito do Ministério da Educação e Ciência\n\n1 - A definição das orientações estratégicas e a fixação de objectivos para o Instituto de Investigação Científica Tropical, I. P., do Ministério dos Negócios Estrangeiros, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência e dos negócios estrangeiros.\n\n2 - A definição das orientações estratégicas e a fixação de objectivos para o Instituto Nacional da Propriedade Industrial, I. P., do Ministério da Justiça, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência, da justiça e da economia.\n\n3 - A definição das orientações estratégicas e a fixação de objectivos para o Instituto Nacional de Medicina Legal e Ciências Forenses, I. P., do Ministério da Justiça, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência e da justiça.\n\n4 - A definição das orientações estratégicas e a fixação de objectivos para o Instituto Português do Mar e da Atmosfera, I. P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência e do mar.\n\n5 - A definição das orientações estratégicas e a fixação de objectivos para o Instituto Português da Qualidade, I. P., do Ministério da Economia e do Emprego, no domínio da metrologia científica, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência e da economia.\n\n6 - A definição das orientações estratégicas e a fixação de objectivos para o Laboratório Nacional de Energia e Geologia, I. P., do Ministério da Economia e do Emprego, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência e da energia e geologia.\n\n7 - A definição das orientações estratégicas e a fixação de objectivos para o Laboratório Nacional de Engenharia Civil, I. P., do Ministério da Economia e do Emprego, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da ciência e da economia."
+  },
+  "115326229": {
+   "fragment_id": "115326149",
+   "type": 11,
+   "heading": "Artigo 28.º — Editorial do Ministério da Educação e Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Editorial do Ministério da Educação e Ciência\n\n1 - A Editorial do Ministério da Educação e Ciência continua a reger-se pelas disposições normativas que lhe são aplicáveis até à redefinição do respectivo estatuto jurídico.\n\n2 - Sem prejuízo do disposto no número anterior, o conselho de administração da Editorial do MEC passa a ser constituído por um presidente e dois vogais, um dos quais é o director executivo, equiparado para efeitos remuneratórios a cargo de direcção superior de 2.º grau."
+  },
+  "115326230": {
+   "fragment_id": "115326150",
+   "type": 11,
+   "heading": "Artigo 29.º — Direcções Regionais de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direcções Regionais de Educação\n\nAs Direcções Regionais de Educação de Lisboa e Vale do Tejo (DREALVT), do Norte (DREN), do Centro (DREC), do Alentejo (DREALE) e do Algarve (DREALG), cujas atribuições são integradas na Direcção-Geral da Administração Escolar, mantêm-se, transitoriamente, até 31 de Dezembro de 2012, com a natureza de direcções-gerais."
+  },
+  "115326231": {
+   "fragment_id": "115326151",
+   "type": 11,
+   "heading": "Artigo 30.º — Mapas de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Mapas de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração directa e indirecta do MEC, constantes dos anexos i e ii do presente decreto-lei, respectivamente, do qual fazem parte integrante."
+  },
+  "115326232": {
+   "fragment_id": "115326152",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção, criação, fusão e reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Extinção, criação, fusão e reestruturação\n\n1 - São extintos:\n\na) O controlador financeiro do Ministério da Educação;\n\nb) O controlador financeiro do Ministério da Ciência, Tecnologia e Ensino Superior;\n\nc) O Conselho Coordenador da Ciência e Tecnologia.\n\n2 - São criadas:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral da Administração Escolar;\n\ne) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\nf) A Direcção-Geral de Planeamento e Gestão Financeira.\n\n3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:\n\na) A Secretaria-Geral do Ministério da Educação, sendo as suas atribuições integradas na Secretaria-Geral;\n\nb) A Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Secretaria-Geral;\n\nc) A Inspecção-Geral da Educação, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\nd) A Inspecção-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\ne) O Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições:\n\ni) No domínio do planeamento e da programação financeira e orçamental nas áreas da ciência, tecnologia, ensino superior e sociedade da informação, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da recolha, tratamento e produção de informação estatística nas áreas da ciência, tecnologia e ensino superior, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\niii) No domínio da cooperação internacional no âmbito do ensino superior e das actividades inerentes à participação de Portugal no âmbito da União Europeia, integradas na Direcção-Geral do Ensino Superior; e\n\niv) No domínio das relações internacionais e da coordenação das acções de cooperação bilateral e multilateral nas áreas de ciência e tecnologia, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nf) O Gabinete de Gestão Financeira, sendo as suas atribuições integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\ng) O Gabinete de Estatística e Planeamento da Educação, sendo as suas atribuições:\n\ni) No domínio de planeamento estratégico e operacional, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da produção e análise estatística e da observação e avaliação global de resultados obtidos pelo sistema educativo, integradas na Direcção-Geral de Estatísticas da Educação e Ciência; e\n\niii) No domínio das relações internacionais, integradas na Secretaria-Geral;\n\nh) O Gabinete Coordenador do Sistema de Informação, sendo as suas atribuições integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\ni) A Direcção-Geral de Inovação e Desenvolvimento Curricular, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nj) O Gabinete Coordenador de Segurança Escolar, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nl) A Direcção-Geral dos Recursos Humanos da Educação, sendo as suas atribuições integradas na Direcção-Geral da Administração Escolar;\n\nm) As Direcções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, sendo as suas atribuições integradas na Direcção-Geral da Administração Escolar;\n\nn) O Instituto de Meteorologia, I. P., sendo as suas atribuições integradas no Instituto Português do Mar e da Atmosfera, I. P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\no) A Agência para a Sociedade do Conhecimento, I. P. (UMIC), sendo as suas atribuições:\n\ni) No domínio da coordenação das políticas públicas para a sociedade da informação e do conhecimento, da mobilização da sociedade da informação e do conhecimento, bem como da promoção de relações de cooperação ou associação com entidades estrangeiras, nomeadamente no quadro na União Europeia e dos países de língua oficial portuguesa, naquelas áreas, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nii) No domínio da realização de estudos, análises estatísticas e prospectivas no âmbito da sociedade da informação e do conhecimento, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\np) A Comissão de Planeamento de Emergência do Ciberespaço, sendo as suas atribuições integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nq) A Agência Nacional para a Qualificação, I. P., que passa a designar-se Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n4 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.\n\n5 - O Museu Nacional da Ciência e da Técnica Doutor Mário Silva é integrado na Universidade de Coimbra.\n\n6 - São ainda objecto de reestruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º"
+  },
+  "115326233": {
+   "fragment_id": "115326153",
+   "type": 11,
+   "heading": "Artigo 32.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Referências legais\n\nAs referências legais feitas aos serviços e organismos objecto de extinção, fusão e reestruturação, mencionadas no artigo anterior, consideram-se feitas aos serviços e organismos que passam a integrar as respectivas atribuições."
+  },
+  "115326234": {
+   "fragment_id": "115326154",
+   "type": 11,
+   "heading": "Artigo 33.º — Reestruturação do GAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Reestruturação do GAVE\n\nO GAVE deixa de integrar a estrutura do MEC através da aprovação de novo enquadramento jurídico, mantendo-se transitoriamente na dependência do referido Ministério até 31 de Dezembro de 2012."
+  },
+  "115326235": {
+   "fragment_id": "115326155",
+   "type": 11,
+   "heading": "Artigo 34.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Produção de efeitos\n\n1 - As criações, fusões e reestruturações previstas no presente decreto-lei apenas produzem efeitos com a entrada em vigor dos respectivos diplomas orgânicos.\n\n2 - Exceptua-se do disposto no número anterior, a designação dos titulares dos cargos de direcção superior e dos órgãos de direcção dos organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - Nos casos de fusões, a designação prevista no número anterior depende da prévia cessação de funções, designadamente nos termos do número seguinte, de um número pelo menos igual de dirigentes, assegurando os dirigentes designados a direcção dos serviços e organismos objecto de fusão até à entrada em vigor dos novos diplomas orgânicos.\n\n4 - As comissões de serviço dos titulares de cargos de direcção superior de serviços cuja reestruturação ou fusão tenha sido determinada pelo presente decreto-lei podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da reestruturação ou fusão, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "115326236": {
+   "fragment_id": "115326156",
+   "type": 11,
+   "heading": "Artigo 35.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Legislação orgânica complementar\n\n1 - Os diplomas orgânicos pelos quais se procede à criação, fusão e reestruturação dos serviços e organismos do MEC devem ser aprovados no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços e organismos do MEC continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "115326237": {
+   "fragment_id": "115326157",
+   "type": 11,
+   "heading": "Artigo 36.º — Transição de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Transição de regimes\n\n1 - São revogadas as normas dos decretos-lei que aprovam a estrutura orgânica dos serviços da administração directa do Estado do MEC.\n\n2 - A revogação prevista no número anterior produz efeitos na data de entrada em vigor dos decretos regulamentares que aprovam as orgânicas dos serviços da administração directa do MEC que lhes sucedem, nos termos do n.º 4 do artigo 7.º e do n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro.\n\n3 - O disposto no número anterior não prejudica o recurso à forma de decreto-lei nos casos em que tal seja exigível.\n\n4 - Os diplomas que aprovam a estrutura orgânica dos institutos públicos revestem a forma prevista na Lei n.º 3/2004, de 15 de Janeiro."
+  },
+  "115326238": {
+   "fragment_id": "115326158",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 213/2006, de 27 de Outubro, alterado pelos Decretos-Lei n.os 164/2008, de 8 de Agosto, 117/2009, de 18 de Maio, e 208/2009, de 2 de Setembro;\n\nb) O Decreto-Lei n.º 214/2006, de 27 de Outubro."
+  },
+  "115326240": {
+   "fragment_id": "115326160",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 30.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 30.º)\n\nCargos de direcção superior da administração directa\n\n(ver documento original)"
+  },
+  "115326241": {
+   "fragment_id": "115326161",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 30.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 30.º)\n\nDirigentes de organismos da administração indirecta\n\n(ver documento original)"
+  },
+  "203833219": {
+   "fragment_id": "115326119",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\nIntegram a administração directa do Estado, no âmbito do MEC, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral do Ensino Superior;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\ng) A Direcção-Geral de Planeamento e Gestão Financeira;\n\nh) O Gabinete de Avaliação Educacional.\n\ni) A Direção-Geral dos Estabelecimentos Escolares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833216": {
+   "fragment_id": "115326120",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+   ],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\n1 - Prosseguem atribuições do MEC, sob superintendência e tutela do respectivo ministro, os seguintes organismos:\n\na) A Fundação para a Ciência e a Tecnologia, I. P.;\n\nb) O Estádio Universitário de Lisboa, I. P.;\n\nc) O Centro Científico e Cultural de Macau, I. P.;\n\nd) A Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n2 - A superintendência e tutela relativas à Agência Nacional para a Qualificação e o Ensino Profissional, I.P., são exercidas em conjunto pelos membros do Governo responsáveis pelas áreas da educação e do emprego, sem prejuízo do disposto no n.º 3 do artigo 21.º\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+  },
+  "203833220": {
+   "fragment_id": "115326129",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção-Geral da Educação",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 12.º — Direcção-Geral da Educação\n\n1 - A DGE tem por missão assegurar a concretização das políticas relativas à componente pedagógica e didática da educação pré-escolar, dos ensinos básico e secundário e da educação extra-escolar, prestando apoio técnico à sua formulação e acompanhando e avaliando a sua concretização, bem como coordenar a planificação das diversas provas e exames.\n\n2 - A DGE prossegue, designadamente, as seguintes atribuições:\n\na) Desenvolver os currículos e os programas das disciplinas, as orientações relativas às áreas curriculares não disciplinares, bem como propor a respectiva revisão em coerência com os objectivos do sistema educativo;\n\nb) Desenvolver o estudo sobre a organização pedagógica das escolas, propondo medidas de reorganização;\n\nc) Coordenar a planificação das provas finais, dos exames nacionais e equivalentes, provas de equivalência à frequência e provas de aferição;\n\nd) Promover a investigação e os estudos técnicos, nomeadamente estudos de acompanhamento e avaliação, no âmbito do desenvolvimento e da inovação curricular, da organização e da avaliação pedagógica e didáctica do sistema educativo, da inovação educacional e da qualidade do ensino e das aprendizagens;\n\ne) Coordenar, acompanhar e propor orientações, em termos científico-pedagógicos e didácticos, para as actividades da educação pré-escolar e escolar, abrangendo as suas modalidades de educação especial e de ensino à distância, incluindo as escolas portuguesas no estrangeiro e de ensino português no estrangeiro, em articulação com o serviço do Ministério dos Negócios Estrangeiros responsável pela gestão da respectiva rede;\n\nf) Coordenar, acompanhar e propor orientações, em termos científico-pedagógicos e didácticos, para a promoção do sucesso e prevenção do abandono escolar e para as actividades de enriquecimento curricular e do desporto escolar, designadamente actividades de orientação e medidas de apoio, recuperação e complemento educativos, em particular as destinadas a alunos com necessidades educativas especiais;\n\ng) Identificar as necessidades de material didáctico, incluindo manuais escolares, e assegurar as condições para a respectiva avaliação e certificação;\n\nh) Contribuir para o planeamento das necessidades de formação inicial, contínua e especializada do pessoal docente, em articulação com a Direcção-Geral de Estatísticas da Educação e Ciência e a Direcção-Geral da Administração Escolar;\n\ni) [Revogada];\n\nj) Assegurar na sua área de actuação as relações internacionais, sem prejuízo da coordenação exercida pela SG e das atribuições próprias do Ministério dos Negócios Estrangeiros, bem como promover a cooperação internacional.\n\n3 - A DGE é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833221": {
+   "fragment_id": "115326131",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção-Geral da Administração Escolar",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 14.º — Direcção-Geral da Administração Escolar\n\n1 - A Direcção-Geral da Administração Escolar, abreviadamente designada por DGAE, tem por missão garantir a concretização das políticas de gestão estratégica e de desenvolvimento dos recursos humanos da educação afectos às estruturas educativas públicas situadas no território continental nacional, sem prejuízo das competências atribuídas às autarquias locais e aos órgãos de gestão e administração escolares e, também, das estruturas educativas nacionais que se encontram no estrangeiro, visando a promoção da língua e cultura portuguesas, e acompanhar e decidir as questões relacionadas com as qualificações profissionais e o exercício de funções docentes nos estabelecimentos de ensino particular, cooperativo e solidário.\n\n2 - A DGAE prossegue, designadamente, as seguintes atribuições:\n\na) Concretizar as políticas de desenvolvimento dos recursos humanos relativas ao pessoal docente e não docente das escolas, em particular as políticas relativas a recrutamento e selecção, carreiras, remunerações e formação;\n\nb) Definir as necessidades de pessoal docente e não docente das escolas;\n\nc) Promover e assegurar o recrutamento do pessoal docente e não docente das escolas;\n\nd) Promover a formação do pessoal docente e não docente das escolas;\n\ne) Decidir sobre questões relativas ao pessoal docente do ensino particular, cooperativo e solidário, incluindo os ensinos profissional e artístico e a educação de adultos, nomeadamente autorizações provisórias de leccionação, acumulação de funções e certificação do tempo de serviço;\n\nf) [Revogada];\n\ng) Assegurar o serviço jurídico-contencioso, no âmbito das suas atribuições em articulação com a SG.\n\n3 - A DGAE é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833225": {
+   "fragment_id": "203802369",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Direção-Geral dos Estabelecimentos Escolares",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 17.º-A — Direção-Geral dos Estabelecimentos Escolares\n\n1 - A Direção-Geral dos Estabelecimentos Escolares, abreviadamente designada por DGEstE, tem por missão garantir a concretização regional das medidas de administração e o exercício das competências periféricas relativas às atribuições do MEC, sem prejuízo das competências dos restantes serviços centrais, assegurando a orientação, a coordenação e o acompanhamento das escolas promovendo o desenvolvimento da respetiva autonomia, cabendo-lhe ainda a articulação com as autarquias locais, organizações públicas e privadas nos domínios de intervenção no sistema educativo visando o aprofundamento das interações locais e o apoio ao desenvolvimento das boas práticas na atuação dos agentes locais e regionais da educação, bem como assegurar o serviço jurídico-contencioso decorrente da prossecução da sua missão.\n\n2 - A DGEstE prossegue, designadamente, as seguintes atribuições:\n\na) Assegurar a execução das políticas educativas definidas no âmbito do sistema educativo de forma articulada pelas diversas circunscrições regionais;\n\nb) Acompanhar, coordenar e apoiar a organização e funcionamento das escolas e a gestão dos respetivos recursos humanos e materiais, promovendo o desenvolvimento e consolidação da sua autonomia;\n\nc) Participar no planeamento da rede escolar;\n\nd) Assegurar a concretização da política nacional no domínio das instalações e equipamentos escolares;\n\ne) Definir, gerir e acompanhar a requalificação, modernização e conservação da rede de escolas;\n\nf) Divulgar aos agrupamentos de escolas ou escolas não agrupadas as orientações e a informação técnica dos serviços do MEC;\n\ng) Recolher as informações necessárias à conceção e execução das políticas de educação e formação;\n\nh) Acompanhar os procedimentos e as atividades desenvolvidas no âmbito do sistema educativo respeitantes ao controlo da qualidade do ensino;\n\ni) Cooperar com outros serviços, organismos e entidades, tendo em vista a realização de ações conjuntas em matéria de educação e formação profissional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833222": {
+   "fragment_id": "115326136",
+   "type": 11,
+   "heading": "Artigo 18.º — Fundação para a Ciência e a Tecnologia, I. P.",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 18.º — Fundação para a Ciência e a Tecnologia, I. P.\n\n1 - A Fundação para a Ciência e a Tecnologia, I.P., abreviadamente designada por FCT, I.P., tem por missão o desenvolvimento, o financiamento e a avaliação de instituições, redes, infraestruturas, equipamentos científicos, programas, projetos e recursos humanos em todos os domínios da ciência e da tecnologia, bem como o desenvolvimento da cooperação científica e tecnológica internacional, a coordenação das políticas públicas de ciência e tecnologia, e ainda o desenvolvimento dos meios nacionais de computação científica, promovendo a instalação e utilização de meios avançados e a sua articulação em rede.\n\n2 - A FCT, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover e apoiar a realização de programas e projectos nos domínios da investigação científica e do desenvolvimento tecnológico, e o desenvolvimento e a inovação em áreas estratégicas, através do financiamento e co-financiamento dos programas e projectos aprovados e o acompanhamento da respectiva execução;\n\nb) Financiar ou co-financiar os programas e projectos de formação e qualificação de investigadores, nomeadamente através da atribuição de bolsas de estudo no País e no estrangeiro e de subsídios de investigação;\n\nc) Avaliar as actividades nacionais de ciência e tecnologia;\n\nd) Assegurar as relações internacionais, sem prejuízo da coordenação exercida pela SG e das atribuições próprias do Ministério dos Negócios Estrangeiros, e promover a cooperação internacional, nos domínios da ciência e da tecnologia, bem como acompanhar a preparação e a execução dos Programas Quadro de I&D da União Europeia e de outros instrumentos em que estes se insiram;\n\ne) Celebrar contratos-programa ou protocolos e atribuir subsídios a instituições que promovam ou se dediquem à investigação científica ou ao desenvolvimento tecnológico e promover a transferência de conhecimento a nível nacional e internacional, designadamente através da concessão de subsídios a quaisquer projectos, programas ou eventos de interesse científico e tecnológico, bem como da concessão de apoio financeiro a publicações científicas;\n\nf) Promover a cultura científica e tecnológica, a difusão e divulgação do conhecimento científico e técnico e assegurar a inventariação, gestão e preservação do património científico e tecnológico nacional, bem como do acervo bibliográfico e documental à sua guarda, sem prejuízo da coordenação exercida pela SG;\n\ng) Promover a participação da comunidade científica, tecnológica e de inovação nacional em projectos internacionais relevantes, quer na criação, absorção e difusão de conhecimento e tecnologia, quer no acesso a equipamentos científicos altamente sofisticados;\n\nh) Promover a articulação das iniciativas de natureza central, regional e local nas áreas da ciência e da tecnologia;\n\ni) Promover e apoiar a criação e a modernização de infraestruturas de apoio às atividades de ensino e de investigação científica e de desenvolvimento tecnológico, nomeadamente o desenvolvimento da Rede Ciência, Tecnologia e Sociedade (RCTS) e Rede Escolar, assegurando a sua evolução como rede integrada de apoio à investigação e ensino com os serviços necessários e a apropriada conectividade nacional e internacional.\n\n3 - A FCT, I.P., é dirigida por um conselho diretivo, constituído por um presidente e quatro vogais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833217": {
+   "fragment_id": "115326138",
+   "type": 11,
+   "heading": "Artigo 20.º — Centro Científico e Cultural de Macau, I. P.",
+   "in_force_from": "2012-01-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+   ],
+   "markdown": "###### Artigo 20.º — Centro Científico e Cultural de Macau, I. P.\n\n1 - O Centro Científico e Cultural de Macau, I. P., abreviadamente designado por CCCM, I. P., tem por missão produzir, promover e divulgar o conhecimento sobre Macau e sobre as relações de Portugal com Macau e com a República Popular da China, bem como sobre as relações da Europa com a região Ásia-Pacífico, centradas, respectivamente, em Portugal e em Macau, promovendo, nomeadamente, através do Museu e da Biblioteca, seus instrumentos fundamentais, a investigação e a cooperação científica, cultural e artística nas áreas da Sinologia, dos estudos sobre Macau, da Japonologia, dos estudos de Ásia do Sueste e das Relações Eurasiáticas.\n\n2 - O CCCM, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Contribuir para um melhor conhecimento científico sobre a presença histórica e cultural portuguesa em Macau, bem como estimular os contactos e o diálogo com as culturas orientais;\n\nb) Promover, incentivar e apoiar manifestações científicas e culturais ligadas à vivência intercultural luso-chinesa;\n\nc) Contribuir para a preservação do património existente em Portugal que atesta a presença portuguesa em Macau e na região Ásia-Pacífico, em particular na República Popular da China;\n\nd) Promover a investigação em áreas relativas às relações entre Portugal e a região Ásia-Pacífico, especialmente as que respeitem à República Popular da China ou que interessem ao conhecimento e à preservação da herança cultural de Macau;\n\ne) Realizar programas de divulgação científica e animação cultural e promover estudos sobre a história e cultura de Macau e a presença dos Portugueses neste território, bem como sobre outros temas ligados à região Ásia-Pacífico e ao diálogo com a cultura portuguesa;\n\nf) Recolher, conservar e divulgar fontes históricas disponíveis relacionadas com o passado do território de Macau, utilizando o Museu e a Biblioteca como instrumentos essenciais ao cumprimento desta atribuição;\n\ng) Editar e co-editar, em suporte papel e digital, estudos científicos, fontes documentais inéditas e outros tipos de estudos sobre Macau e sobre as relações de Portugal, no presente e no passado, com Macau e as regiões da Ásia do Sueste e da Ásia Oriental, em particular com a República Popular da China;\n\nh) Celebrar acordos, protocolos e contratos com pessoas singulares ou colectivas, de natureza pública ou privada, nacionais e estrangeiras, para a realização conjunta de acções e de actividades que se enquadrem na missão do CCCM, I. P.\n\n3 - O CCCM, I. P., é dotado apenas de autonomia administrativa.\n\n4 - O CCCM, I. P., é dirigido por um presidente.\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+  },
+  "203833237": {
+   "fragment_id": "115326150",
+   "type": 11,
+   "heading": "Artigo 29.º — Direcções Regionais de Educação",
+   "in_force_from": "2012-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2012-12-31, produz efeitos a partir de 2013-01-05"
+   ],
+   "markdown": "###### Artigo 29.º — Direcções Regionais de Educação\n\nAs Direcções Regionais de Educação de Lisboa e Vale do Tejo (DREALVT), do Norte (DREN), do Centro (DREC), do Alentejo (DREALE) e do Algarve (DREALG), cujas atribuições são integradas na Direcção-Geral da Administração Escolar, mantêm-se, transitoriamente, até 31 de Dezembro de 2012, com a natureza de direcções-gerais.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2012-12-31, produz efeitos a partir de 2013-01-05"
+  },
+  "203833226": {
+   "fragment_id": "203802370",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Fundação para a Computação Científica Nacional",
+   "in_force_from": "2012-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2012-12-31, produz efeitos a partir de 2013-01-05"
+   ],
+   "markdown": "###### Artigo 29.º-A — Fundação para a Computação Científica Nacional\n\nA missão e as atribuições da Fundação para a Computação Científica Nacional são integradas na Fundação para a Ciência e Tecnologia, I.P., nos termos a definir em diploma próprio.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2012-12-31, produz efeitos a partir de 2013-01-05"
+  },
+  "203833227": {
+   "fragment_id": "115326151",
+   "type": 11,
+   "heading": "Artigo 30.º — Mapas de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Mapas de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração directa e indirecta do MEC, constantes dos anexos i e ii do presente decreto-lei, respectivamente, do qual fazem parte integrante."
+  },
+  "203833228": {
+   "fragment_id": "115326152",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção, criação, fusão e reestruturação",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+   ],
+   "markdown": "###### Artigo 31.º — Extinção, criação, fusão e reestruturação\n\n1 - São extintos:\n\na) O controlador financeiro do Ministério da Educação;\n\nb) O controlador financeiro do Ministério da Ciência, Tecnologia e Ensino Superior;\n\nc) O Conselho Coordenador da Ciência e Tecnologia.\n\n2 - São criadas:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral da Administração Escolar;\n\ne) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\nf) A Direcção-Geral de Planeamento e Gestão Financeira.\n\ng) A Direção-Geral dos Estabelecimentos Escolares.\n\n3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:\n\na) A Secretaria-Geral do Ministério da Educação, sendo as suas atribuições integradas na Secretaria-Geral;\n\nb) A Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Secretaria-Geral;\n\nc) A Inspecção-Geral da Educação, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\nd) A Inspecção-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\ne) O Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições:\n\ni) No domínio do planeamento e da programação financeira e orçamental nas áreas da ciência, tecnologia, ensino superior e sociedade da informação, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da recolha, tratamento e produção de informação estatística nas áreas da ciência, tecnologia e ensino superior, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\niii) No domínio da cooperação internacional no âmbito do ensino superior e das actividades inerentes à participação de Portugal no âmbito da União Europeia, integradas na Direcção-Geral do Ensino Superior; e\n\niv) No domínio das relações internacionais e da coordenação das acções de cooperação bilateral e multilateral nas áreas de ciência e tecnologia, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nf) O Gabinete de Gestão Financeira, sendo as suas atribuições integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\ng) O Gabinete de Estatística e Planeamento da Educação, sendo as suas atribuições:\n\ni) No domínio de planeamento estratégico e operacional, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da produção e análise estatística e da observação e avaliação global de resultados obtidos pelo sistema educativo, integradas na Direcção-Geral de Estatísticas da Educação e Ciência; e\n\niii) No domínio das relações internacionais, integradas na Secretaria-Geral;\n\nh) O Gabinete Coordenador do Sistema de Informação, sendo as suas atribuições integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\ni) A Direcção-Geral de Inovação e Desenvolvimento Curricular, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nj) O Gabinete Coordenador de Segurança Escolar, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nl) A Direcção-Geral dos Recursos Humanos da Educação, sendo as suas atribuições integradas na Direcção-Geral da Administração Escolar;\n\nm) As Direções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, sendo as suas atribuições integradas na Direção-Geral dos Estabelecimentos Escolares;\n\nn) O Instituto de Meteorologia, I. P., sendo as suas atribuições integradas no Instituto Português do Mar e da Atmosfera, I. P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\no) A Agência para a Sociedade do Conhecimento, I. P. (UMIC), sendo as suas atribuições:\n\ni) No domínio da coordenação das políticas públicas para a sociedade da informação e do conhecimento, da mobilização da sociedade da informação e do conhecimento, bem como da promoção de relações de cooperação ou associação com entidades estrangeiras, nomeadamente no quadro na União Europeia e dos países de língua oficial portuguesa, naquelas áreas, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nii) No domínio da realização de estudos, análises estatísticas e prospectivas no âmbito da sociedade da informação e do conhecimento, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\np) A Comissão de Planeamento de Emergência do Ciberespaço, sendo as suas atribuições integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nq) A Agência Nacional para a Qualificação, I. P., que passa a designar-se Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n4 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.\n\n5 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.\n\n6 - O Museu Nacional da Ciência e da Técnica Doutor Mário Silva é integrado na Universidade de Coimbra.\n\n7 - São ainda objeto de reestruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+  },
+  "203833229": {
+   "fragment_id": "115326153",
+   "type": 11,
+   "heading": "Artigo 32.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Referências legais\n\nAs referências legais feitas aos serviços e organismos objecto de extinção, fusão e reestruturação, mencionadas no artigo anterior, consideram-se feitas aos serviços e organismos que passam a integrar as respectivas atribuições."
+  },
+  "203833230": {
+   "fragment_id": "115326154",
+   "type": 11,
+   "heading": "Artigo 33.º — Reestruturação do GAVE",
+   "in_force_from": "2013-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 33.º — Reestruturação do GAVE\n\nO GAVE deixa de integrar a estrutura do MEC através da aprovação de novo enquadramento jurídico, mantendo-se transitoriamente na dependência do referido Ministério até 31 de março de 2013.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833231": {
+   "fragment_id": "115326155",
+   "type": 11,
+   "heading": "Artigo 34.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Produção de efeitos\n\n1 - As criações, fusões e reestruturações previstas no presente decreto-lei apenas produzem efeitos com a entrada em vigor dos respectivos diplomas orgânicos.\n\n2 - Exceptua-se do disposto no número anterior, a designação dos titulares dos cargos de direcção superior e dos órgãos de direcção dos organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - Nos casos de fusões, a designação prevista no número anterior depende da prévia cessação de funções, designadamente nos termos do número seguinte, de um número pelo menos igual de dirigentes, assegurando os dirigentes designados a direcção dos serviços e organismos objecto de fusão até à entrada em vigor dos novos diplomas orgânicos.\n\n4 - As comissões de serviço dos titulares de cargos de direcção superior de serviços cuja reestruturação ou fusão tenha sido determinada pelo presente decreto-lei podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da reestruturação ou fusão, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "203833232": {
+   "fragment_id": "115326156",
+   "type": 11,
+   "heading": "Artigo 35.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Legislação orgânica complementar\n\n1 - Os diplomas orgânicos pelos quais se procede à criação, fusão e reestruturação dos serviços e organismos do MEC devem ser aprovados no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços e organismos do MEC continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "203833233": {
+   "fragment_id": "115326157",
+   "type": 11,
+   "heading": "Artigo 36.º — Transição de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Transição de regimes\n\n1 - São revogadas as normas dos decretos-lei que aprovam a estrutura orgânica dos serviços da administração directa do Estado do MEC.\n\n2 - A revogação prevista no número anterior produz efeitos na data de entrada em vigor dos decretos regulamentares que aprovam as orgânicas dos serviços da administração directa do MEC que lhes sucedem, nos termos do n.º 4 do artigo 7.º e do n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro.\n\n3 - O disposto no número anterior não prejudica o recurso à forma de decreto-lei nos casos em que tal seja exigível.\n\n4 - Os diplomas que aprovam a estrutura orgânica dos institutos públicos revestem a forma prevista na Lei n.º 3/2004, de 15 de Janeiro."
+  },
+  "203833234": {
+   "fragment_id": "115326158",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 213/2006, de 27 de Outubro, alterado pelos Decretos-Lei n.os 164/2008, de 8 de Agosto, 117/2009, de 18 de Maio, e 208/2009, de 2 de Setembro;\n\nb) O Decreto-Lei n.º 214/2006, de 27 de Outubro."
+  },
+  "115326239": {
+   "fragment_id": "115326159",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Outubro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 9 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "203833235": {
+   "fragment_id": "115326160",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 30.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 30.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "203833236": {
+   "fragment_id": "115326161",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 30.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 30.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "203833243": {
+   "fragment_id": "115326119",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\nIntegram a administração directa do Estado, no âmbito do MEC, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral do Ensino Superior;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\ng) A Direcção-Geral de Planeamento e Gestão Financeira;\n\nh) Revogado.\n\ni) A Direção-Geral dos Estabelecimentos Escolares.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833238": {
+   "fragment_id": "115326120",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+   ],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\n1 - Prosseguem atribuições do MEC, sob superintendência e tutela do respectivo ministro, os seguintes organismos:\n\na) A Fundação para a Ciência e a Tecnologia, I. P.;\n\nb) O Estádio Universitário de Lisboa, I. P.;\n\nc) O Centro Científico e Cultural de Macau, I. P.;\n\nd) A Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\ne) O Instituto de Avaliação Educativa, I.P.\n\n2 - A superintendência e tutela relativas à Agência Nacional para a Qualificação e o Ensino Profissional, I.P., são exercidas em conjunto pelos membros do Governo responsáveis pelas áreas da educação e do emprego, sem prejuízo do disposto no n.º 3 do artigo 21.º\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+  },
+  "203833244": {
+   "fragment_id": "115326134",
+   "type": 11,
+   "heading": "Artigo 17.º — Gabinete de Avaliação Educacional",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30"
+   ],
+   "markdown": "###### Artigo 17.º — Gabinete de Avaliação Educacional\n\n1 - O Gabinete de Avaliação Educacional, abreviadamente designado por GAVE, tem por missão desempenhar, no âmbito da componente pedagógica e didáctica do sistema educativo, funções de planeamento, coordenação, elaboração, validação, aplicação e controlo de instrumentos de avaliação externa da aprendizagem.\n\n2 - O GAVE prossegue, designadamente, as seguintes atribuições:\n\na) Planear o processo de elaboração e validação dos instrumentos de avaliação externa da aprendizagem;\n\nb) Organizar, em colaboração com as escolas, os sistemas de informação necessários à produção dos instrumentos de avaliação externa da aprendizagem;\n\nc) Colaborar com a DGE no processo de realização das provas de avaliação externa da aprendizagem;\n\nd) Supervisionar a correcção das provas de avaliação externa da aprendizagem;\n\ne) Participar em estudos e projectos internacionais relativos à avaliação da aprendizagem.\n\n3 - O GAVE é dirigido por um director, coadjuvado por um director adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30"
+  },
+  "203833242": {
+   "fragment_id": "203802371",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Instituto de Avaliação Educativa, I.P.",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30"
+   ],
+   "markdown": "###### Artigo 21.º-A — Instituto de Avaliação Educativa, I.P.\n\n1 - O Instituto de Avaliação Educativa, I.P., abreviadamente designado por IAVE, I.P., tem por missão o planeamento, a conceção e validação dos instrumentos de avaliação externa de conhecimentos e capacidades dos alunos dos ensinos básico e secundário, o tratamento e a divulgação de informação relevante para a tomada de decisões que concorram para incrementar a qualidade, eficácia e eficiência do sistema educativo nacional, assegurar a coordenação da participação nacional em estudos internacionais de avaliação externa de alunos, bem como a elaboração de provas de certificação de conhecimentos e capacidades específicos, para outros fins e outros graus de ensino, quando solicitado.\n\n2 - O IAVE, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Planear, conceber e validar os instrumentos de avaliação externa de alunos, definindo os respetivos critérios de classificação, de certificação profissional de docentes dos ensinos básico e secundário e de comprovação de conhecimentos e capacidades específicos, para outros fins e outros graus de ensino;\n\nb) Acompanhar o processo de aplicação e de classificação dos instrumentos de avaliação externa, no âmbito da missão que lhe está atribuída, e proceder ao tratamento dos respetivos resultados;\n\nc) Constituir uma bolsa de professores classificadores de provas de avaliação externa, e conceber, organizar e gerir programas de formação dos mesmos;\n\nd) Promover a realização de estudos e relatórios que visem o diagnóstico e a avaliação do sistema de avaliação externa que suportem a tomada de decisões que concorram para incrementar a sua qualidade, eficácia e eficiência;\n\ne) Promover e difundir práticas inovadoras no domínio da avaliação e no domínio da recolha, tratamento e divulgação dos resultados, atendendo aos estudos nacionais e internacionais dedicados aos temas de avaliação educativa;\n\nf) Promover a cooperação institucional com os serviços e organismos do MEC no âmbito das suas atribuições;\n\ng) Coordenar a participação nacional em estudos e projetos internacionais de avaliação externa de alunos e desenvolver atividades de cooperação internacional que visem o desenvolvimento científico e técnico no âmbito das suas atribuições.\n\n3 - O IAVE, I.P., e os membros dos respetivos órgãos atuam com independência, nos termos da lei, com respeito pela política de educação fixada pelo MEC.\n\n4 - Sem prejuízo do disposto no número anterior, não pode o membro do Governo responsável pela área da educação, direta ou indiretamente, dirigir recomendações ou emitir diretivas destinadas ao IAVE, I.P. e aos respetivos órgãos sobre as suas atividades.\n\n5 - O IAVE, I.P., é dirigido por um conselho diretivo constituído por um presidente e dois vogais.\n\n> Aditado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30"
+  },
+  "203833239": {
+   "fragment_id": "115326152",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção, criação, fusão e reestruturação",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+   ],
+   "markdown": "###### Artigo 31.º — Extinção, criação, fusão e reestruturação\n\n1 - São extintos:\n\na) O controlador financeiro do Ministério da Educação;\n\nb) O controlador financeiro do Ministério da Ciência, Tecnologia e Ensino Superior;\n\nc) O Conselho Coordenador da Ciência e Tecnologia.\n\n2 - São criadas:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral da Administração Escolar;\n\ne) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\nf) A Direcção-Geral de Planeamento e Gestão Financeira.\n\ng) A Direção-Geral dos Estabelecimentos Escolares.\n\n3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:\n\na) A Secretaria-Geral do Ministério da Educação, sendo as suas atribuições integradas na Secretaria-Geral;\n\nb) A Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Secretaria-Geral;\n\nc) A Inspecção-Geral da Educação, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\nd) A Inspecção-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\ne) O Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições:\n\ni) No domínio do planeamento e da programação financeira e orçamental nas áreas da ciência, tecnologia, ensino superior e sociedade da informação, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da recolha, tratamento e produção de informação estatística nas áreas da ciência, tecnologia e ensino superior, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\niii) No domínio da cooperação internacional no âmbito do ensino superior e das actividades inerentes à participação de Portugal no âmbito da União Europeia, integradas na Direcção-Geral do Ensino Superior; e\n\niv) No domínio das relações internacionais e da coordenação das acções de cooperação bilateral e multilateral nas áreas de ciência e tecnologia, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nf) O Gabinete de Gestão Financeira, sendo as suas atribuições integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\ng) O Gabinete de Estatística e Planeamento da Educação, sendo as suas atribuições:\n\ni) No domínio de planeamento estratégico e operacional, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da produção e análise estatística e da observação e avaliação global de resultados obtidos pelo sistema educativo, integradas na Direcção-Geral de Estatísticas da Educação e Ciência; e\n\niii) No domínio das relações internacionais, integradas na Secretaria-Geral;\n\nh) O Gabinete Coordenador do Sistema de Informação, sendo as suas atribuições integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\ni) A Direcção-Geral de Inovação e Desenvolvimento Curricular, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nj) O Gabinete Coordenador de Segurança Escolar, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nl) A Direcção-Geral dos Recursos Humanos da Educação, sendo as suas atribuições integradas na Direcção-Geral da Administração Escolar;\n\nm) As Direções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, sendo as suas atribuições integradas na Direção-Geral dos Estabelecimentos Escolares;\n\nn) O Instituto de Meteorologia, I. P., sendo as suas atribuições integradas no Instituto Português do Mar e da Atmosfera, I. P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\no) A Agência para a Sociedade do Conhecimento, I. P. (UMIC), sendo as suas atribuições:\n\ni) No domínio da coordenação das políticas públicas para a sociedade da informação e do conhecimento, da mobilização da sociedade da informação e do conhecimento, bem como da promoção de relações de cooperação ou associação com entidades estrangeiras, nomeadamente no quadro na União Europeia e dos países de língua oficial portuguesa, naquelas áreas, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nii) No domínio da realização de estudos, análises estatísticas e prospectivas no âmbito da sociedade da informação e do conhecimento, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\np) A Comissão de Planeamento de Emergência do Ciberespaço, sendo as suas atribuições integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nq) A Agência Nacional para a Qualificação, I. P., que passa a designar-se Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\nr) O Gabinete de Avaliação Educacional, sendo as suas atribuições integradas no Instituto de Avaliação Educativa, I.P.\n\n4 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.\n\n5 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.\n\n6 - O Museu Nacional da Ciência e da Técnica Doutor Mário Silva é integrado na Universidade de Coimbra.\n\n7 - São ainda objeto de reestruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+  },
+  "203833245": {
+   "fragment_id": "115326154",
+   "type": 11,
+   "heading": "Artigo 33.º — Reestruturação do GAVE",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 33.º — Reestruturação do GAVE\n\nO GAVE deixa de integrar a estrutura do MEC através da aprovação de novo enquadramento jurídico, mantendo-se transitoriamente na dependência do referido Ministério até 31 de março de 2013.\n\n> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833240": {
+   "fragment_id": "115326160",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 30.º)",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 30.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "203833241": {
+   "fragment_id": "115326161",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 30.º)",
+   "in_force_from": "2013-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 30.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "203833252": {
+   "fragment_id": "115326119",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\nIntegram a administração directa do Estado, no âmbito do MEC, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral do Ensino Superior;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\ng) Revogada;\n\nh) Revogada.\n\ni) A Direção-Geral dos Estabelecimentos Escolares.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  },
+  "203833246": {
+   "fragment_id": "115326120",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+   ],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\n1 - Prosseguem atribuições do MEC, sob superintendência e tutela do respectivo ministro, os seguintes organismos:\n\na) A Fundação para a Ciência e a Tecnologia, I. P.;\n\nb) O Estádio Universitário de Lisboa, I. P.;\n\nc) O Centro Científico e Cultural de Macau, I. P.;\n\nd) A Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\ne) O Instituto de Avaliação Educativa, I.P.\n\nf) O Instituto de Gestão Financeira da Educação, I.P.\n\n2 - A superintendência e tutela relativas à Agência Nacional para a Qualificação e o Ensino Profissional, I.P., são exercidas em conjunto pelos membros do Governo responsáveis pelas áreas da educação e do emprego, sem prejuízo do disposto no n.º 3 do artigo 21.º\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+  },
+  "203833253": {
+   "fragment_id": "115326133",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção-Geral de Planeamento e Gestão Financeira",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 16.º — Direcção-Geral de Planeamento e Gestão Financeira\n\n1 - A Direcção-Geral de Planeamento e Gestão Financeira, abreviadamente designada por DGPGF, tem por missão garantir a programação, a gestão financeira e o planeamento estratégico e operacional do MEC, garantindo uma correcta execução orçamental, a gestão previsional fiável e sustentada do orçamento da educação e ciência, bem como a observação e avaliação global da execução das políticas e dos resultados obtidos pelo sistema educativo, o funcionamento dos sistemas integrados de informação financeira e acompanhar e avaliar os instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais órgãos, serviços e organismos do MEC.\n\n2 - A DGPGF prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico-financeiro à definição de políticas, prioridades e objectivos do MEC;\n\nb) Acompanhar e avaliar a execução das políticas e programas do MEC, na vertente económico-financeira;\n\nc) Elaborar, difundir e apoiar a criação de instrumentos de planeamento, de avaliação e programação financeira, com vista à monitorização e execução conducentes à eficácia e eficiência dos sistemas educativo e científico e tecnológico;\n\nd) Apoiar a definição das principais opções em matéria orçamental e das propostas e modelos de financiamento das instituições de ensino superior, em articulação com a DGES, procedendo ao seu acompanhamento e execução;\n\ne) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MEC e acompanhar e monitorizar as respectivas execuções;\n\nf) Coordenar o planeamento da rede escolar e a sua racionalização;\n\ng) Desenvolver as acções necessárias à optimização dos sistemas educativo e científico e tecnológico, tendo em vista a obtenção de ganhos de eficiência financeira;\n\nh) Contribuir para a definição das políticas e estratégias em matéria de sistemas de informação de suporte às áreas de planeamento e de gestão financeira e coordenar a sua aplicação;\n\ni) Monitorizar e orientar o desempenho dos serviços e organismos do MEC.\n\n3 - A DGPGF é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01"
+  },
+  "203833250": {
+   "fragment_id": "203802372",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Instituto de Gestão Financeira da Educação, I.P.",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 21.º-B — Instituto de Gestão Financeira da Educação, I.P.\n\n1 - O IGeFE, I.P., tem por missão garantir a programação, a gestão financeira e o planeamento estratégico e operacional do MEC, a gestão previsional fiável e sustentada do orçamento da educação e ciência, bem como a avaliação global da execução das políticas e dos resultados obtidos pelo sistema educativo e o funcionamento dos sistemas integrados de informação financeira, em articulação com os demais serviços e organismos do MEC.\n\n2 - O IGeFE, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico-financeiro à definição de políticas, prioridades e objetivos do MEC;\n\nb) Acompanhar e avaliar a execução das políticas e programas do MEC, na vertente económico-financeira;\n\nc) Elaborar, difundir e apoiar a criação de instrumentos de planeamento, de avaliação e programação financeira, com vista à monitorização e execução conducentes à eficácia e eficiência dos sistemas educativo e científico e tecnológico;\n\nd) Desenvolver as atividades de entidade coordenadora dos programas orçamentais do MEC;\n\ne) Assegurar a elaboração dos orçamentos de atividade e de projeto do MEC e acompanhar e monitorizar as respetivas execuções, em colaboração com os restantes serviços e organismos do MEC;\n\nf) Definir os critérios e procedimentos a que deve obedecer a elaboração e organização do orçamento das unidades orgânicas do ensino básico e secundário da rede pública do MEC, bem como as regras da sua execução;\n\ng) Gerir e acompanhar a execução financeira de projetos das unidades orgânicas do ensino básico e secundário da rede pública do MEC financiados por fundos europeus estruturais e de investimento;\n\nh) Coordenar o planeamento da rede escolar e a sua racionalização;\n\ni) Assegurar as funções de unidade ministerial de compras, no âmbito das unidades orgânicas do ensino básico e secundário da rede pública do MEC;\n\nj) Assegurar a gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos órgãos, serviços e organismos do MEC;\n\nk) Otimizar a gestão dos recursos financeiros do MEC afetos ao IGeFE, I.P., designadamente por recurso a instrumentos disponíveis no mercado, que visam assegurar a rendibilização de saldos de tesouraria.\n\n3 - O IGeFE, I.P., é dirigido por um conselho diretivo constituído por um presidente e por dois vogais.\n\n> Aditado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01"
+  },
+  "203833247": {
+   "fragment_id": "115326152",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção, criação, fusão e reestruturação",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31",
+    "Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+   ],
+   "markdown": "###### Artigo 31.º — Extinção, criação, fusão e reestruturação\n\n1 - São extintos:\n\na) O controlador financeiro do Ministério da Educação;\n\nb) O controlador financeiro do Ministério da Ciência, Tecnologia e Ensino Superior;\n\nc) O Conselho Coordenador da Ciência e Tecnologia.\n\n2 - São criadas:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral da Educação e Ciência;\n\nc) A Direcção-Geral da Educação;\n\nd) A Direcção-Geral da Administração Escolar;\n\ne) A Direcção-Geral de Estatísticas da Educação e Ciência;\n\nf) [Revogada];\n\ng) A Direção-Geral dos Estabelecimentos Escolares.\n\n3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:\n\na) A Secretaria-Geral do Ministério da Educação, sendo as suas atribuições integradas na Secretaria-Geral;\n\nb) A Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Secretaria-Geral;\n\nc) A Inspecção-Geral da Educação, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\nd) A Inspecção-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições integradas na Inspecção-Geral da Educação e Ciência;\n\ne) O Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior, sendo as suas atribuições:\n\ni) No domínio do planeamento e da programação financeira e orçamental nas áreas da ciência, tecnologia, ensino superior e sociedade da informação, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da recolha, tratamento e produção de informação estatística nas áreas da ciência, tecnologia e ensino superior, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\niii) No domínio da cooperação internacional no âmbito do ensino superior e das actividades inerentes à participação de Portugal no âmbito da União Europeia, integradas na Direcção-Geral do Ensino Superior; e\n\niv) No domínio das relações internacionais e da coordenação das acções de cooperação bilateral e multilateral nas áreas de ciência e tecnologia, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nf) A Direção-Geral de Planeamento e Gestão Financeira, sendo as suas atribuições integradas no Instituto de Gestão Financeira da Educação, I.P.;\n\ng) O Gabinete de Estatística e Planeamento da Educação, sendo as suas atribuições:\n\ni) No domínio de planeamento estratégico e operacional, integradas na Direcção-Geral de Planeamento e Gestão Financeira;\n\nii) No domínio da produção e análise estatística e da observação e avaliação global de resultados obtidos pelo sistema educativo, integradas na Direcção-Geral de Estatísticas da Educação e Ciência; e\n\niii) No domínio das relações internacionais, integradas na Secretaria-Geral;\n\nh) O Gabinete Coordenador do Sistema de Informação, sendo as suas atribuições integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\ni) A Direcção-Geral de Inovação e Desenvolvimento Curricular, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nj) O Gabinete Coordenador de Segurança Escolar, sendo as suas atribuições integradas na Direcção-Geral da Educação;\n\nl) A Direcção-Geral dos Recursos Humanos da Educação, sendo as suas atribuições integradas na Direcção-Geral da Administração Escolar;\n\nm) As Direções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, sendo as suas atribuições integradas na Direção-Geral dos Estabelecimentos Escolares;\n\nn) O Instituto de Meteorologia, I. P., sendo as suas atribuições integradas no Instituto Português do Mar e da Atmosfera, I. P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\no) A Agência para a Sociedade do Conhecimento, I. P. (UMIC), sendo as suas atribuições:\n\ni) No domínio da coordenação das políticas públicas para a sociedade da informação e do conhecimento, da mobilização da sociedade da informação e do conhecimento, bem como da promoção de relações de cooperação ou associação com entidades estrangeiras, nomeadamente no quadro na União Europeia e dos países de língua oficial portuguesa, naquelas áreas, integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nii) No domínio da realização de estudos, análises estatísticas e prospectivas no âmbito da sociedade da informação e do conhecimento, integradas na Direcção-Geral de Estatísticas da Educação e Ciência;\n\np) A Comissão de Planeamento de Emergência do Ciberespaço, sendo as suas atribuições integradas na Fundação para a Ciência e a Tecnologia, I. P.;\n\nq) A Agência Nacional para a Qualificação, I. P., que passa a designar-se Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\nr) O Gabinete de Avaliação Educacional, sendo as suas atribuições integradas no Instituto de Avaliação Educativa, I.P.\n\n4 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.\n\n5 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.\n\n6 - O Museu Nacional da Ciência e da Técnica Doutor Mário Silva é integrado na Universidade de Coimbra.\n\n7 - São ainda objeto de reestruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31\n\n> Retificado pelo/a [Declaração de Retificação n.º 3/2012 - Diário da República n.º 19/2012, Série I de 2012-01-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2012-544424), em vigor a partir de 2012-01-03"
+  },
+  "203833248": {
+   "fragment_id": "115326160",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 30.º)",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 30.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "203833249": {
+   "fragment_id": "115326161",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 30.º)",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 30.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "203833254": {
+   "fragment_id": "115326116",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições do MEC:\n\na) Definir e promover a execução das políticas relativas à educação pré-escolar, à educação escolar, compreendendo os ensinos básico, secundário e superior e integrando as modalidades especiais de educação, à educação extra-escolar e à ciência e tecnologia, bem como os respectivos modos de organização, financiamento e avaliação;\n\nb) Participar na definição e execução das políticas de qualificação e formação profissional;\n\nc) Promover a coordenação das políticas de educação, ciência, qualificação e formação profissional com as políticas relativas à promoção e difusão da língua portuguesa, ao apoio à família, à inclusão social e ao emprego;\n\nd) Garantir o direito à educação e assegurar a escolaridade obrigatória, de modo a promover a igualdade de oportunidades;\n\ne) Reforçar as condições de ensino e aprendizagem, de forma a contribuir para a qualificação da população e melhoria dos índices de empregabilidade e de sucesso escolar;\n\nf) Promover a valorização da diversidade de experiências, a liberdade de escolha e a formação ao longo da vida;\n\ng) Desenvolver e consolidar uma cultura de avaliação e exigência em todos os níveis dos sistemas educativo e científico e tecnológico;\n\nh) Definir o currículo nacional e o regime de avaliação dos alunos e aprovar os programas de ensino e as orientações para a sua concretização, compreendendo os do ensino português no estrangeiro;\n\ni) Assegurar as orientações pedagógicas e a certificação da aprendizagem do ensino português no estrangeiro de nível não superior e exercer a tutela sobre as escolas portuguesas no estrangeiro;\n\nj) Definir, gerir e acompanhar o desenvolvimento, a requalificação, modernização e conservação da rede escolar de estabelecimentos públicos de ensino não superior, tendo em consideração as iniciativas no âmbito do ensino particular e cooperativo;\n\nl) Apoiar a autonomia das escolas, implementando modelos descentralizados de gestão e apoiando a execução dos seus projectos educativos e organização pedagógica;\n\nm) Promover o desenvolvimento, modernização, qualidade, competitividade e avaliação internacional dos sistemas de ensino superior e científico e tecnológico, bem como estimular o reforço das instituições que fazem parte desses sistemas;\n\nn) Planear e administrar os recursos humanos, materiais e financeiros afectos aos sistemas educativo e científico e tecnológico, sem prejuízo da autonomia das instituições de ensino superior e das que integram o sistema científico e tecnológico nacional;\n\no) Promover a adequação da oferta do ensino superior, incluindo a articulação e complementaridade entre a oferta pública e privada e a redefinição da rede de instituições e suas formações;\n\np) Proceder à regulação e promover a observação permanente, a avaliação e a inspecção, nas diversas vertentes previstas na lei, dos estabelecimentos de ensino e das instituições que integram o sistema científico e tecnológico nacional;\n\nq) Criar um sistema de análise, monitorização, avaliação e apresentação de resultados de modo a avaliar os resultados e os impactos das políticas de educação e formação;\n\nr) Incentivar e apoiar o desenvolvimento da capacidade científica e tecnológica em Portugal, a formação e qualificação de recursos humanos em áreas de investigação e desenvolvimento, visando o reforço e a melhoria da produção científica e do emprego científico público e privado;\n\ns) Reforçar a cooperação entre o sistema de ensino superior e o sistema científico e tecnológico, possibilitando uma maior interligação entre estes e o sistema produtivo;\n\nt) Promover, estimular e apoiar o estabelecimento de consórcios, redes e programas entre empresas e unidades de investigação, a criação de empresas de base tecnológica, bem como o desenvolvimento de estratégias empresariais abertas à inovação, à demonstração tecnológica e à investigação aplicada;\n\nu) Desenvolver a cultura científica e tecnológica, estimulando e apoiando actividades de difusão, de informação e educação científica e de experimentação;\n\nv) Apoiar o esforço de qualificação dos portugueses no espaço europeu, assegurando níveis mais elevados de empregabilidade e estimulando o empreendedorismo;\n\nx) Desenvolver as relações internacionais e as actividades de cooperação no âmbito dos sistemas educativos e científico e tecnológico, de harmonia com as orientações de política externa portuguesa e sem prejuízo das atribuições do Ministério dos Negócios Estrangeiros;\n\nz) Estimular e desenvolver as actividades de ciência, tecnologia e inovação nos domínios fundamentais da agenda internacional e da cooperação internacional, promovendo a difusão de conhecimento e tecnologias, participando em organizações internacionais e contribuindo para a definição da política científica e tecnológica da União Europeia, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros.\n\n2 - A prossecução das atribuições estabelecidas no número anterior pode justificar, no quadro das disponibilidades orçamentais, a concessão de subvenções ou subsídios a estas equiparados, a entidades do setor privado, cooperativo e social que prossigam fins de interesse público relevante para a educação, designadamente nas seguintes áreas:\n\na) Apoio ao desenvolvimento de projetos e atividades que visem a salvaguarda dos direitos das crianças e jovens, com efetiva aplicação ou repercussão no serviço prestado, no âmbito das matérias especificamente relacionadas com a intervenção das escolas e dos serviços e organismos tutelados pelo Ministério da Educação;\n\nb) Apoio à promoção e organização de projetos, competições, programas desenvolvidos a nível nacional ou internacional, em diversas áreas da educação e do conhecimento científico, bem como ao nível da qualificação e formação profissional, no âmbito dos ensinos básico, secundário e da educação de adultos.\n\n3 - À concessão e à publicitação das subvenções referidas no número anterior são aplicáveis as normas e os procedimentos constantes da Lei n.º 64/2013, de 27 de agosto, e do Decreto-Lei n.º 167/2008, de 28 de agosto.\n\n> Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "203833259": {
+   "fragment_id": "115326132",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção-Geral de Estatísticas da Educação e Ciência",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 15.º — Direcção-Geral de Estatísticas da Educação e Ciência\n\n1 - A Direção-Geral de Estatísticas da Educação e Ciência (DGEEC), tem por missão garantir a produção e análise estatística da educação e ciência, apoiando tecnicamente a formulação de políticas e o planeamento estratégico e operacional, observar e avaliar globalmente os resultados obtidos pelos sistemas educativo e científico e tecnológico, em articulação com os demais serviços das áreas governativas da ciência, tecnologia, ensino superior e educação.\n\n2 - A DGEEC prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico estatístico em matéria de definição e estruturação das políticas, prioridades e objetivos das áreas governativas da ciência, tecnologia, ensino superior e educação;\n\nb) Elaborar, difundir e apoiar a criação de instrumentos estatísticos de planeamento e de avaliação das políticas e programas das áreas governativas da ciência, tecnologia, ensino superior e educação, procedendo ao respetivo acompanhamento e avaliação;\n\nc) Desenvolver e coordenar estudos sobre o sistema educativo, científico e tecnológico;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) Garantir, a nível nacional, a inquirição e observação dos instrumentos dos sistemas educativo, científico e tecnológico definidos nos quadros europeu e na Organização para a Cooperação e o Desenvolvimento Económico (OCDE);\n\nh) Assegurar a articulação com estruturas congéneres, a nível nacional e internacional, tendo em vista a harmonização estatística e a intercomunicabilidade de dados.\n\n3 - A DGEEC é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "203833260": {
+   "fragment_id": "203802372",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Instituto de Gestão Financeira da Educação, I.P.",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01",
+    "Aditado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 21.º-B — Instituto de Gestão Financeira da Educação, I.P.\n\n1 - O IGeFE, I. P., tem por missão garantir a programação, a gestão financeira e o planeamento estratégico e operacional das áreas governativas da ciência, tecnologia, ensino superior e educação, a gestão previsional fiável e sustentada dos respetivos programas orçamentais, bem como a avaliação global da execução das políticas e dos resultados obtidos pelo sistema educativo e a criação e o bom funcionamento do Sistema Integrado de Informação da Educação (SIIE), em articulação com os demais serviços e organismos das referidas áreas governativas.\n\n2 - O IGeFE, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico-financeiro à definição de políticas, prioridades e objetivos do MEC;\n\nb) Acompanhar e avaliar a execução das políticas e programas do MEC, na vertente económico-financeira;\n\nc) Elaborar, difundir e apoiar a criação de instrumentos de planeamento, de avaliação e programação financeira, com vista à monitorização e execução conducentes à eficácia e eficiência dos sistemas educativo e científico e tecnológico;\n\nd) Desenvolver as atividades de entidade coordenadora dos programas orçamentais do MEC;\n\ne) Assegurar a elaboração dos orçamentos de atividade e de projeto do MEC e acompanhar e monitorizar as respetivas execuções, em colaboração com os restantes serviços e organismos do MEC;\n\nf) Definir os critérios e procedimentos a que deve obedecer a elaboração e organização do orçamento das unidades orgânicas do ensino básico e secundário da rede pública do MEC, bem como as regras da sua execução;\n\ng) Gerir e acompanhar a execução financeira de projetos das unidades orgânicas do ensino básico e secundário da rede pública do MEC financiados por fundos europeus estruturais e de investimento;\n\nh) Coordenar o planeamento da rede escolar e a sua racionalização;\n\ni) Assegurar as funções de unidade ministerial de compras, no âmbito das unidades orgânicas do ensino básico e secundário da rede pública do MEC;\n\nj) Assegurar a gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos órgãos, serviços e organismos do MEC;\n\nk) Otimizar a gestão dos recursos financeiros do MEC afetos ao IGeFE, I.P., designadamente por recurso a instrumentos disponíveis no mercado, que visam assegurar a rendibilização de saldos de tesouraria.\n\nl) Contribuir para a definição das políticas e estratégias em matéria de sistemas de informação;\n\nm) Conceber, implementar, gerir, manter e garantir o bom funcionamento dos sistemas de informação dos processos da educação e ensino superior, científico e tecnológico, necessários à prossecução das suas atribuições;\n\n3 - (Revogado.)\n\n4 - O IGeFE, I. P., prossegue ainda as seguintes atribuições, relativamente à área governativa da educação:\n\na) Elaborar, implementar e manter atualizado um Plano Estratégico de Sistemas de Informação (PESI);\n\nb) Definir políticas, normas e procedimentos relativos à seleção, aquisição e utilização de infraestruturas tecnológicas e sistemas de informação para os órgãos, serviços e organismos da área governativa e controlar o respetivo cumprimento;\n\nc) Promover a unificação e a racionalização de processos, métodos, recursos e infraestruturas tecnológicas, nos termos definidos pelo PESI;\n\nd) Assegurar a construção, gestão e operação dos sistemas de informação e das infraestruturas tecnológicas de suporte nas áreas de tecnologias de informação e comunicação dos órgãos, serviços e organismos da área governativa e dos estabelecimentos de educação e ensino, numa lógica de serviços comuns partilhados;\n\ne) Assegurar o desenvolvimento coerente e eficiente do SIIE, enquanto agregador dos sistemas de informação no âmbito dos órgãos, serviços e organismos da área governativa, garantindo a qualidade, a consistência, a segurança e a disponibilidade da informação, articulando a configuração do tipo e da forma de acesso em função das atribuições de cada órgão, serviço e organismo;\n\nf) Prestar o apoio necessário aos estabelecimentos de educação e ensino na articulação entre as suas aplicações informáticas e o SIIE, promovendo as ações de divulgação e formação aos utilizadores, necessárias ao bom funcionamento e desempenho dos sistemas de informação e certificar as aplicações informáticas de gestão escolar;\n\ng) Assegurar a articulação com os organismos com atribuições interministeriais na área das tecnologias de informação e comunicação.\n\n5 - O IGeFE, I. P., é dirigido por um conselho diretivo constituído por um presidente., um vice-presidente e dois vogais.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01\n\n> Aditado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01"
+  },
+  "203833255": {
+   "fragment_id": "115326160",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 30.º)",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 30.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "203833256": {
+   "fragment_id": "115326161",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 30.º)",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 30.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 96/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949), em vigor a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 102/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2013-498755), em vigor a partir de 2013-07-30\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419)"
+  },
+  "213622518": {
+   "fragment_id": "203802369",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Direção-Geral dos Estabelecimentos Escolares",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+   ],
+   "markdown": "###### Artigo 17.º-A — Direção-Geral dos Estabelecimentos Escolares\n\n1 - A Direção-Geral dos Estabelecimentos Escolares, abreviadamente designada por DGEstE, tem por missão garantir a concretização regional das medidas de administração e o exercício das competências periféricas relativas às atribuições do MEC, sem prejuízo das competências dos restantes serviços centrais, assegurando a orientação, a coordenação e o acompanhamento das escolas promovendo o desenvolvimento da respetiva autonomia, cabendo-lhe ainda a articulação com as autarquias locais, organizações públicas e privadas nos domínios de intervenção no sistema educativo visando o aprofundamento das interações locais e o apoio ao desenvolvimento das boas práticas na atuação dos agentes locais e regionais da educação, bem como assegurar o serviço jurídico-contencioso decorrente da prossecução da sua missão.\n\n2 - A DGEstE prossegue, designadamente, as seguintes atribuições:\n\na) Assegurar a execução das políticas educativas definidas no âmbito do sistema educativo de forma articulada pelas diversas circunscrições regionais;\n\nb) Acompanhar, coordenar e apoiar a organização e funcionamento das escolas e a gestão dos respetivos recursos humanos e materiais, promovendo o desenvolvimento e consolidação da sua autonomia;\n\nc) Participar no planeamento da rede escolar;\n\nd) Revogada;\n\ne) Definir, gerir e acompanhar a requalificação, modernização e conservação da rede de escolas;\n\nf) Divulgar aos agrupamentos de escolas ou escolas não agrupadas as orientações e a informação técnica dos serviços do MEC;\n\ng) Recolher as informações necessárias à conceção e execução das políticas de educação e formação;\n\nh) Acompanhar os procedimentos e as atividades desenvolvidas no âmbito do sistema educativo respeitantes ao controlo da qualidade do ensino;\n\ni) Cooperar com outros serviços, organismos e entidades, tendo em vista a realização de ações conjuntas em matéria de educação e formação profissional.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266-G/2012 - Diário da República n.º 252/2012, 3º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-g-2012-632419), em vigor a partir de 2013-01-05, produz efeitos a partir de 2012-12-31"
+  }
+ }
+}

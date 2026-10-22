@@ -1,0 +1,902 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:554630:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-1019857715",
+ "dre_path": "/dr/detalhe/portaria/1109-f-2000-554630",
+ "source_lastmod": "2026-03-17",
+ "versions": [
+  {
+   "date": "2001-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:650304:por",
+     "title": "Portaria n.º 1103-B/2001",
+     "published": "2001-09-15",
+     "dre_path": "/dr/detalhe/portaria/1103-b-2001-650304"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 18.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "1020107975",
+    "1020108175",
+    "1020108375",
+    "1020108575",
+    "1020108775",
+    "1020108975",
+    "1020109175",
+    "1020109375",
+    "1020109575",
+    "1073618575",
+    "1020109975",
+    "1020110175",
+    "1020110375",
+    "1020110575",
+    "1020110775",
+    "1020110975",
+    "1020111175",
+    "1020111375",
+    "1020118775",
+    "1020118975",
+    "1020119175",
+    "1020119375",
+    "1020119575",
+    "1073618775",
+    "1020119975",
+    "1020120175",
+    "1020120375",
+    "1020120575",
+    "1020120775",
+    "1020120975",
+    "1020121175",
+    "1020121375",
+    "1020121575",
+    "1020121775",
+    "1020121975",
+    "1020122175",
+    "1020122375",
+    "1020122575",
+    "1020122775",
+    "1020122975",
+    "1020123175",
+    "1020123375",
+    "1020123575",
+    "1020123775",
+    "1020123975",
+    "1020124175",
+    "1020124375",
+    "1020124575",
+    "1020124775",
+    "1020124975",
+    "1020125175",
+    "1020125375",
+    "1020125575",
+    "1073618975",
+    "1020125975",
+    "1020126175",
+    "1020126375"
+   ]
+  },
+  {
+   "date": "2003-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:481372:por",
+     "title": "Portaria n.º 1199/2003",
+     "published": "2003-10-13",
+     "dre_path": "/dr/detalhe/portaria/1199-2003-481372"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 44.º",
+    "Altera Anexo I",
+    "Altera Anexo III",
+    "Revoga Artigo 45.º"
+   ],
+   "fragments": [
+    "1020107975",
+    "1020108175",
+    "1020108375",
+    "1020108575",
+    "1020108775",
+    "1020108975",
+    "1074148775",
+    "1020109375",
+    "1020109575",
+    "1073618575",
+    "1020109975",
+    "1020110175",
+    "1020110375",
+    "1020110575",
+    "1020110775",
+    "1020110975",
+    "1074149375",
+    "1020111375",
+    "1020118775",
+    "1020118975",
+    "1020119175",
+    "1020119375",
+    "1020119575",
+    "1073618775",
+    "1020119975",
+    "1020120175",
+    "1020120375",
+    "1020120575",
+    "1020120775",
+    "1020120975",
+    "1074149575",
+    "1020121375",
+    "1020121575",
+    "1020121775",
+    "1074148975",
+    "1020122175",
+    "1020122375",
+    "1020122575",
+    "1020122775",
+    "1020122975",
+    "1020123175",
+    "1020123375",
+    "1020123575",
+    "1020123775",
+    "1020123975",
+    "1020124175",
+    "1074151775",
+    "1020124575",
+    "1020124775",
+    "1020124975",
+    "1074149175",
+    "1020125375",
+    "1074151975",
+    "1075390675",
+    "1020125975",
+    "1074147575",
+    "1020126375"
+   ]
+  },
+  {
+   "date": "2004-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:269017:por",
+     "title": "Portaria n.º 508/2004",
+     "published": "2004-05-14",
+     "dre_path": "/dr/detalhe/portaria/508-2004-269017"
+    }
+   ],
+   "changes": [
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "1020107975",
+    "1020108175",
+    "1020108375",
+    "1020108575",
+    "1020108775",
+    "1020108975",
+    "1074148775",
+    "1020109375",
+    "1020109575",
+    "1073618575",
+    "1020109975",
+    "1020110175",
+    "1020110375",
+    "1020110575",
+    "1020110775",
+    "1020110975",
+    "1074149375",
+    "1020111375",
+    "1020118775",
+    "1020118975",
+    "1020119175",
+    "1020119375",
+    "1020119575",
+    "1073618775",
+    "1020119975",
+    "1020120175",
+    "1020120375",
+    "1020120575",
+    "1020120775",
+    "1020120975",
+    "1074149575",
+    "1020121375",
+    "1020121575",
+    "1020121775",
+    "1074148975",
+    "1020122175",
+    "1020122375",
+    "1020122575",
+    "1020122775",
+    "1020122975",
+    "1020123175",
+    "1020123375",
+    "1020123575",
+    "1020123775",
+    "1020123975",
+    "1020124175",
+    "1074151775",
+    "1020124575",
+    "1020124775",
+    "1020124975",
+    "1074149175",
+    "1020125375",
+    "1074151975",
+    "1075390675",
+    "1020125975",
+    "1076918675",
+    "1020126375"
+   ]
+  },
+  {
+   "date": "2006-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:541011:por",
+     "title": "Portaria n.º 84/2006",
+     "published": "2006-01-23",
+     "dre_path": "/dr/detalhe/portaria/84-2006-541011"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "1020107975",
+    "1020108175",
+    "1020108375",
+    "1020108575",
+    "1020108775",
+    "1020108975",
+    "1074148775",
+    "1020109375",
+    "1020109575",
+    "1073618575",
+    "1020109975",
+    "1020110175",
+    "1020110375",
+    "1020110575",
+    "1020110775",
+    "1020110975",
+    "1074149375",
+    "1020111375",
+    "1077888375",
+    "1020118975",
+    "1020119175",
+    "1020119375",
+    "1020119575",
+    "1073618775",
+    "1020119975",
+    "1020120175",
+    "1020120375",
+    "1020120575",
+    "1020120775",
+    "1020120975",
+    "1074149575",
+    "1020121375",
+    "1077890575",
+    "1020121775",
+    "1074148975",
+    "1020122175",
+    "1020122375",
+    "1020122575",
+    "1020122775",
+    "1020122975",
+    "1020123175",
+    "1020123375",
+    "1020123575",
+    "1020123775",
+    "1020123975",
+    "1020124175",
+    "1074151775",
+    "1020124575",
+    "1020124775",
+    "1020124975",
+    "1074149175",
+    "1020125375",
+    "1074151975",
+    "1075390675",
+    "1020125975",
+    "1076918675",
+    "1020126375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1020107975": {
+   "fragment_id": "1020107875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No âmbito do III Quadro Comunitário de Apoio para o período de 2000 a 2006 foram aprovados o Programa Operacional de Agricultura e Desenvolvimento Rural (Programa AGRO), bem como a medida Agricultura e Desenvolvimento Rural dos programas operacionais de âmbito regional, abreviadamente designada por AGRIS.\n\nA medida AGRIS integra a acção «Gestão de recursos hídricos e emparcelamento», enquadrada no âmbito do artigo 33.º do Regulamento (CE) n.º 1257/1999, do Conselho, de 17 de Maio, segundo travessão, na parte relativa ao emparcelamento, e oitavo travessão, no que se refere aos recursos hídricos.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:\n\nManda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Acção n.º 5, «Gestão de Recursos Hídricos e Emparcelamento», da medida Agricultura e Desenvolvimento Rural dos programas operacionais regionais, abreviadamente designada medida AGRIS, em anexo ao presente diploma e do qual faz parte integrante."
+  },
+  "1020108175": {
+   "fragment_id": "1020108075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 31 de Outubro de 2000.\n\nA Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "1020108375": {
+   "fragment_id": "1020108275",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Aplicação da Acção n.º 5 «Gestão de Recursos Hídricos e Emparcelamento»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento de Aplicação da Acção n.º 5 «Gestão de Recursos Hídricos e Emparcelamento»"
+  },
+  "1020108575": {
+   "fragment_id": "1020108475",
+   "type": 1,
+   "heading": "Capítulo I — Enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Enquadramento"
+  },
+  "1020108775": {
+   "fragment_id": "1020108675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece o regime de aplicação da acção n.º 5, «Gestão de recursos hídricos e emparcelamento», da medida AGRIS.\n\n2 - Ao presente Regulamento aplica-se o disposto no Decreto-Lei n.º 269/82, de 10 de Julho, e legislação complementar, bem como nos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 22 de Março."
+  },
+  "1020108975": {
+   "fragment_id": "1020108875",
+   "type": 11,
+   "heading": "Artigo 2.º — Subacções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Subacções\n\nA presente acção desenvolve-se através das seguintes subacções:\n\na) Novos regadios colectivos e beneficiação de regadios tradicionais;\n\nb) Reabilitação e modernização dos perímetros de rega;\n\nc) Emparcelamento rural."
+  },
+  "1020109175": {
+   "fragment_id": "1020109075",
+   "type": 11,
+   "heading": "Artigo 3.º — Organismos competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organismos competentes\n\nPara efeitos de aplicação do presente Regulamento consideram-se organismos competentes o Instituto de Hidráulica, Engenharia Rural e Ambiente (IHERA) e as direcções regionais de agricultura (DRA)."
+  },
+  "1020109375": {
+   "fragment_id": "1020109275",
+   "type": 1,
+   "heading": "Capítulo II — Novos regadios colectivos e beneficiação de regadios tradicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Novos regadios colectivos e beneficiação de regadios tradicionais"
+  },
+  "1020109575": {
+   "fragment_id": "1020109475",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos\n\nAs ajudas previstas neste capítulo visam:\n\na) A identificação de potencialidades hidro-agrícolas a nível regional, nomeadamente em zonas de boa aptidão agrícola e com possibilidades de reorientação produtiva;\n\nb) A melhoria da gestão dos recursos hidro-agrícolas numa perspectiva de completo e eficiente aproveitamento do potencial existente;\n\nc) A construção de aproveitamentos hidro-agrícolas de média e pequena dimensão com vista à diversificação e adaptação às novas condições de produção, bem como à implementação de projectos de uma forma integrada, técnica e ambientalmente equilibrada;\n\nd) A preservação e recuperação dos sistemas de regadio tradicional, de grande interesse económico e social, evitando os desperdícios de água que actualmente se verificam e permitindo em algumas situações a adopção de tecnologias de rega alternativas mais eficientes."
+  },
+  "1073618575": {
+   "fragment_id": "1020109675",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": "2001-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar das ajudas previstas neste capítulo:\n\na) No caso de novos regadios colectivos: os organismos competentes, autonomamente ou em conjunto com associações de regantes ou de beneficiários desses regadios, juntas de agricultores ou cooperativas de rega;\n\nb) No caso de beneficiação de regadios tradicionais: juntas de agricultores ou cooperativas de rega, autonomamente ou em conjunto com as autarquias locais e ou o organismo competente.\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+  },
+  "1020109975": {
+   "fragment_id": "1020109875",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e valor das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma e valor das ajudas\n\nAs ajudas serão concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis."
+  },
+  "1020110175": {
+   "fragment_id": "1020110075",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\nAs despesas elegíveis são as que constam do anexo I a este Regulamento."
+  },
+  "1020110375": {
+   "fragment_id": "1020110275",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação de formulário próprio, devendo este ser acompanhado do projecto de investimento e demais documentos indicados nas respectivas instruções.\n\n2 - As candidaturas serão entregues, ao longo de todo o ano, junto das direcções regionais de agricultura."
+  },
+  "1020110575": {
+   "fragment_id": "1020110475",
+   "type": 11,
+   "heading": "Artigo 9.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Análise das candidaturas\n\n1 - A análise das candidaturas compete ao coordenador da medida AGRIS, que as remeterá ao gestor do Programa, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - Nos casos de regadios tradicionais em que a DRA não se apresente como proponente ou co-proponente da candidatura esta deverá ser sujeita a parecer técnico daquela."
+  },
+  "1020110775": {
+   "fragment_id": "1020110675",
+   "type": 11,
+   "heading": "Artigo 10.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Parecer da unidade de gestão\n\nO gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão."
+  },
+  "1020110975": {
+   "fragment_id": "1020110875",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão sobre as candidaturas\n\n1 - A decisão sobre as candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento bem como as que não sejam aprovadas, em três períodos de decisão consecutivos, por insuficiência orçamental.\n\n3 - As candidaturas são aprovadas em função da dotação orçamental.\n\n4 - A decisão sobre as candidaturas terá em conta os critérios de prioridade constantes do anexo II."
+  },
+  "1020111175": {
+   "fragment_id": "1020111075",
+   "type": 11,
+   "heading": "Artigo 12.º — Contrato de atribuição das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas é feita ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário, no prazo máximo de 30 dias a contar da data de notificação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - Podem ser exigidas garantias para segurança do reembolso das ajudas atribuídas."
+  },
+  "1020111375": {
+   "fragment_id": "1020111275",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos beneficiários\n\nConstituem, nomeadamente, obrigações dos beneficiários:\n\na) Comunicar ao organismo competente a data do início dos trabalhos, nos casos em que aquele não seja beneficiário;\n\nb) Aplicar a ajuda exclusivamente na realização do projecto de investimento, com vista a atingir os objectivos que estiveram na base da sua atribuição;\n\nc) Manter integralmente os requisitos que estiveram na base da atribuição da ajuda, designadamente os relativos ao projecto;\n\nd) Receber a obra e assegurar a sua gestão, exploração e conservação, nos termos da legislação em vigor, após a conclusão da obra."
+  },
+  "1020118775": {
+   "fragment_id": "1020118675",
+   "type": 11,
+   "heading": "Artigo 14.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Execução dos investimentos\n\n1 - Os projectos devem ser executados de acordo com o calendário neles estabelecido e o prazo máximo para os responsáveis pela execução dos projectos iniciarem e concluírem os investimentos é de um e dois anos, respectivamente, contados a partir da data da assinatura do contrato, entendendo-se como início da execução dos investimentos o começo da realização física dos trabalhos previstos.\n\n2 - O coordenador da medida AGRIS pode, em casos excepcionais e devidamente fundamentados, conceder a prorrogação do prazo de conclusão da execução dos investimentos, no máximo, por mais um ano."
+  },
+  "1020118975": {
+   "fragment_id": "1020118875",
+   "type": 11,
+   "heading": "Artigo 15.º — Alterações aos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alterações aos projectos\n\nAs alterações aos projectos serão apreciadas e decididas de acordo com o processo de decisão estabelecido."
+  },
+  "1020119175": {
+   "fragment_id": "1020119075",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.\n\n2 - Os pedidos de pagamento serão apresentados através das DRA ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio do pedido de pagamento ao IFADAP, acompanhado do respectivo recapitulativo das despesas, com base no qual se procederá ao pagamento das ajudas.\n\n3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento de ajudas."
+  },
+  "1020119375": {
+   "fragment_id": "1020119275",
+   "type": 1,
+   "heading": "Capítulo III — Reabilitação e modernização dos perímetros de rega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Reabilitação e modernização dos perímetros de rega"
+  },
+  "1020119575": {
+   "fragment_id": "1020119475",
+   "type": 11,
+   "heading": "Artigo 17.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Objectivos\n\n1 - As ajudas previstas neste capítulo visam garantir:\n\na) A melhoria da gestão dos recursos hidro-agrícolas numa perspectiva de completo e eficiente aproveitamento do potencial existente;\n\nb) A melhoria de aproveitamentos hidro-agrícolas, abrangendo todas as infra-estruturas de forma integrada, técnica e ambientalmente equilibrada, que conduzam a uma gestão racional e eficiente dos recursos hídricos.\n\n2 - Estas ajudas contemplam o apoio à modernização das obras de fomento hidro-agrícola, nomeadamente através da reabilitação das estruturas de rega, de modo a proporcionar a ocorrência de transformações tecnológicas e estruturais que conduzam a uma melhor gestão da água, nomeadamente através da introdução da rega sob pressão e pela automatização das redes."
+  },
+  "1073618775": {
+   "fragment_id": "1020119675",
+   "type": 11,
+   "heading": "Artigo 18.º — Beneficiários",
+   "in_force_from": "2001-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+   ],
+   "markdown": "###### Artigo 18.º — Beneficiários\n\nPodem beneficiar das ajudas previstas neste capítulo os agricultores utentes dos aproveitamento hidro-agrícolas, organizados em associações de regantes ou de beneficiários desses regadios, em conjunto com o organismo competente, e este último, quando se trate de elaboração de estudos e projectos de execução.\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+  },
+  "1020119975": {
+   "fragment_id": "1020119875",
+   "type": 11,
+   "heading": "Artigo 19.º — Forma e valor das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Forma e valor das ajudas\n\nAs ajudas serão concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis."
+  },
+  "1020120175": {
+   "fragment_id": "1020120075",
+   "type": 11,
+   "heading": "Artigo 20.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Despesas elegíveis\n\nAs despesas elegíveis são as que constam do anexo I a este Regulamento."
+  },
+  "1020120375": {
+   "fragment_id": "1020120275",
+   "type": 11,
+   "heading": "Artigo 21.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação de formulário próprio, devendo este ser acompanhado do projecto de investimento e demais documentos indicados nas respectivas instruções.\n\n2 - As candidaturas serão entregues, ao longo de todo o ano, junto das direcções regionais de agricultura."
+  },
+  "1020120575": {
+   "fragment_id": "1020120475",
+   "type": 11,
+   "heading": "Artigo 22.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Análise das candidaturas\n\nA análise das candidaturas compete ao coordenador da medida AGRIS, que as remeterá ao gestor do programa operacional regional, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000."
+  },
+  "1020120775": {
+   "fragment_id": "1020120675",
+   "type": 11,
+   "heading": "Artigo 23.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Parecer da unidade de gestão\n\nO gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão."
+  },
+  "1020120975": {
+   "fragment_id": "1020120875",
+   "type": 11,
+   "heading": "Artigo 24.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Decisão sobre as candidaturas\n\n1 - A decisão sobre as candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento, bem como as que não sejam aprovadas, por insuficiência orçamental, em três períodos de decisão consecutivos.\n\n3 - As candidaturas são aprovadas em função da dotação orçamental.\n\n4 - A decisão sobre as candidaturas terá em conta os critérios de prioridade constantes do anexo II."
+  },
+  "1020121175": {
+   "fragment_id": "1020121075",
+   "type": 11,
+   "heading": "Artigo 25.º — Contrato de atribuição das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas é feita ao abrigo de contratos a celebrar entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e os beneficiários, no prazo máximo de 30 dias a contar da data de notificação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - Podem ser exigidas garantias para segurança do reembolso das ajudas atribuídas."
+  },
+  "1020121375": {
+   "fragment_id": "1020121275",
+   "type": 11,
+   "heading": "Artigo 26.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Obrigações dos beneficiários\n\nConstituem, nomeadamente, obrigações dos beneficiários:\n\na) Comunicar ao organismo competente a data do início dos trabalhos, no caso em que aquele não seja a entidade responsável pela execução do investimento;\n\nb) Aplicar a ajuda exclusivamente na realização do projecto de investimento, com vista a atingir os objectivos que estiveram na base da sua atribuição;\n\nc) Manter integralmente os requisitos que estiveram na base da atribuição da ajuda, designadamente os relativos ao projecto;\n\nd) Receber a obra e assegurar a sua gestão, exploração e conservação, nos termos da legislação em vigor, após a conclusão da obra."
+  },
+  "1020121575": {
+   "fragment_id": "1020121475",
+   "type": 11,
+   "heading": "Artigo 27.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Execução dos investimentos\n\n1 - O investimento deve ser executado de acordo com o calendário estabelecido e o prazo máximo para os proponentes iniciarem e concluírem a execução dos investimentos é de um ou dois anos, respectivamente, contados a partir da data da assinatura do contrato, entendendo-se como início da execução dos investimentos o começo da realização física dos trabalhos previstos.\n\n2 - O coordenador da medida AGRIS pode, em casos excepcionais e devidamente fundamentados, conceder a prorrogação do prazo de conclusão da execução dos investimentos, no máximo, por mais um ano."
+  },
+  "1020121775": {
+   "fragment_id": "1020121675",
+   "type": 11,
+   "heading": "Artigo 28.º — Alteração aos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Alteração aos projectos\n\nAs alterações aos projectos serão apreciadas e decididas de acordo com o processo de decisão estabelecido."
+  },
+  "1020121975": {
+   "fragment_id": "1020121875",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos do contrato.\n\n2 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio do pedido de pagamento ao IFADAP, acompanhado do respectivo recapitulativo das despesas, com base no qual se procederá ao pagamento das ajudas.\n\n3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento de ajudas."
+  },
+  "1020122175": {
+   "fragment_id": "1020122075",
+   "type": 1,
+   "heading": "Capítulo IV — Emparcelamento rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Emparcelamento rural"
+  },
+  "1020122375": {
+   "fragment_id": "1020122275",
+   "type": 11,
+   "heading": "Artigo 30.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Objectivos\n\nAs ajudas previstas neste capítulo visam promover a:\n\na) Realização de operações de emparcelamento tendo por objectivo melhorar as condições técnicas e económicas das explorações agrícolas, assegurando a preservação do ambiente e da paisagem em meio rural, o correcto ordenamento do território e a valorização económica e promoção do desenvolvimento das zonas rurais;\n\nb) Elaboração de planos de ordenamento do espaço rural, com vista a dotar os espaços rurais de estratégias específicas, minimizando os conflitos de uso do solo."
+  },
+  "1020122575": {
+   "fragment_id": "1020122475",
+   "type": 11,
+   "heading": "Artigo 31.º — Investimentos a apoiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Investimentos a apoiar\n\nOs objectivos definidos no artigo anterior serão alcançados através da preparação e ou execução de projectos que visem:\n\na) Operações de emparcelamento integral em zonas de grande potencial agrícola e com uma deficiente estrutura fundiária, em termos de fragmentação e dispersão da propriedade ou da exploração;\n\nb) Operações de emparcelamento integral em zonas de grande potencial agrícola e em que se verifique um acentuado conflito entre usos agrícolas e não agrícolas do solo, particularmente usos ambientais, nomeadamente devidas à sua integração em zonas de condicionantes ambientais, que exijam uma intervenção ao nível do ordenamento do território, designando-se estas operações, para efeitos do presente Regulamento, por operações de emparcelamento rural integrado;\n\nc) Operações de emparcelamento, de exploração, com ou sem redimensionamento da exploração, associadas ou não a processos de reconversão tecnológica, e visando a melhoria das condições de produção no conjunto da exploração ou em alguma das suas vertentes produtivas, em zonas onde a deficiente estrutura da exploração possa ser limitativa destas alterações;\n\nd) Planos de ordenamento do espaço rural, que, designadamente, identifiquem linhas de orientação para o desenvolvimento do espaço rural, proponham critérios para a melhor ocupação do solo e perspectivem intervenções devidamente enquadradas, quantificadas e priorizadas."
+  },
+  "1020122775": {
+   "fragment_id": "1020122675",
+   "type": 11,
+   "heading": "Artigo 32.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Beneficiários\n\n1 - Podem beneficiar das ajudas às operações de emparcelamento previstas nas alíneas a) e b) do artigo anterior:\n\na) Associações de agricultores;\n\nb) Autarquias locais;\n\nc) Organismos competentes.\n\n2 - As entidades referidas nas alíneas a) e b) do número anterior podem candidatar-se autonomamente ou em conjunto com os organismos competentes.\n\n3 - Podem beneficiar das ajudas aos investimentos previstos na alínea c) do artigo anterior as associações dos titulares dos prédios abrangidos.\n\n4 - Podem beneficiar das ajudas à elaboração dos planos de ordenamento do espaço rural previstos neste capítulo os organismos competentes, autonomamente ou em conjunto com autarquias locais."
+  },
+  "1020122975": {
+   "fragment_id": "1020122875",
+   "type": 11,
+   "heading": "Artigo 33.º — Condições de acesso dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Condições de acesso dos projectos\n\n1 - Podem beneficiar das ajudas previstas neste capítulo os projectos que satisfaçam os seguintes requisitos:\n\na) Sejam acompanhados de um programa de trabalhos e estimativa orçamental e de todos os documentos que vierem a ser definidos em normativo detalhado;\n\nb) Tenham a concordância de um número representativo dos titulares dos prédios da zona a emparcelar, no caso das operações de emparcelamento integral;\n\nc) Tenham a concordância da totalidade dos titulares das explorações abrangidas, no caso das operações de emparcelamento de exploração.\n\n2 - O disposto na alínea b) do n.º 1 não se aplica às operações de emparcelamento associadas a obras de hidráulica de iniciativa da administração central."
+  },
+  "1020123175": {
+   "fragment_id": "1020123075",
+   "type": 11,
+   "heading": "Artigo 34.º — Forma e valor das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Forma e valor das ajudas\n\nAs ajudas serão concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis."
+  },
+  "1020123375": {
+   "fragment_id": "1020123275",
+   "type": 11,
+   "heading": "Artigo 35.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Despesas elegíveis\n\nAs despesas elegíveis são as que constam do anexo III a este Regulamento."
+  },
+  "1020123575": {
+   "fragment_id": "1020123475",
+   "type": 11,
+   "heading": "Artigo 36.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação de formulário próprio, devendo este ser acompanhado dos documentos indicados nas respectivas instruções e demais elementos definidos em normativo específico.\n\n2 - As candidaturas serão entregues, ao longo de todo o ano, junto das direcções regionais de agricultura."
+  },
+  "1020123775": {
+   "fragment_id": "1020123675",
+   "type": 11,
+   "heading": "Artigo 37.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Análise das candidaturas\n\n1 - A análise das candidaturas compete ao coordenador da medida AGRIS, que as remeterá ao gestor do programa operacional regional, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000.\n\n2 - Nos casos em que os organismos da administração central competente não sejam beneficiários, a candidatura deverá ser sujeita a parecer técnico daquele."
+  },
+  "1020123975": {
+   "fragment_id": "1020123875",
+   "type": 11,
+   "heading": "Artigo 38.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Parecer da unidade de gestão\n\nO gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão."
+  },
+  "1020124175": {
+   "fragment_id": "1020124075",
+   "type": 11,
+   "heading": "Artigo 39.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Decisão sobre as candidaturas\n\n1 - A decisão sobre as candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento, bem como as que não sejam aprovadas, por insuficiência orçamental, em três períodos de decisão consecutivos.\n\n3 - As candidaturas são aprovadas em função da dotação orçamental.\n\n4 - A decisão sobre as candidaturas terá em conta os critérios de prioridade constantes do anexo IV."
+  },
+  "1020124375": {
+   "fragment_id": "1020124275",
+   "type": 11,
+   "heading": "Artigo 40.º — Contrato de atribuição das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas é feita ao abrigo de contrato celebrado entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e os beneficiários, no prazo máximo de 30 dias a contar da data de notificação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - Podem ser exigidas garantias para segurança do reembolso das ajudas atribuídas."
+  },
+  "1020124575": {
+   "fragment_id": "1020124475",
+   "type": 11,
+   "heading": "Artigo 41.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Obrigações dos beneficiários\n\nConstituem, nomeadamente, obrigações dos beneficiários:\n\na) Comunicar ao organismo competente a data do início dos trabalhos, no caso em que aquele não seja a entidade responsável pela execução;\n\nb) Aplicar a ajuda exclusivamente na realização do projecto de investimento, com vista a atingir os objectivos que estiveram na base da sua atribuição;\n\nc) Manter integralmente os requisitos que estiveram na base da atribuição da ajuda, designadamente os relativos ao projecto;\n\nd) Receber a obra e assegurar a sua gestão, exploração e conservação, nos termos da legislação em vigor, após a conclusão da obra."
+  },
+  "1020124775": {
+   "fragment_id": "1020124675",
+   "type": 11,
+   "heading": "Artigo 42.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Execução dos investimentos\n\n1 - Os projectos devem ser executados de acordo com o calendário estabelecido.\n\n2 - O prazo máximo para os responsáveis pela execução dos projectos iniciarem os investimentos é de seis meses contados a partir da data da assinatura do contrato ou da convenção de financiamento, entendendo-se como início da execução dos investimentos o começo da execução física dos trabalhos previstos.\n\n3 - O prazo máximo para a execução do investimento é o que tiver sido aprovado no projecto de candidatura.\n\n4 - O coordenador da medida AGRIS pode, em casos excepcionais e devidamente fundamentados, conceder a prorrogação do prazo de conclusão da execução dos investimentos, no máximo, por mais um ano."
+  },
+  "1020124975": {
+   "fragment_id": "1020124875",
+   "type": 11,
+   "heading": "Artigo 43.º — Alterações aos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Alterações aos projectos\n\nAs alterações aos projectos serão apreciadas e decididas de acordo com o processo de decisão estabelecido."
+  },
+  "1020125175": {
+   "fragment_id": "1020125075",
+   "type": 11,
+   "heading": "Artigo 44.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.\n\n2 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio do pedido de pagamento ao IFADAP, acompanhado do respectivo recapitulativo das despesas, com base no qual se procederá ao pagamento das ajudas.\n\n3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento de ajudas."
+  },
+  "1020125375": {
+   "fragment_id": "1020125275",
+   "type": 1,
+   "heading": "Capítulo V — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Norma transitória"
+  },
+  "1020125575": {
+   "fragment_id": "1020125475",
+   "type": 11,
+   "heading": "Artigo 45.º — Despesas já realizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Despesas já realizadas\n\nAs despesas efectuadas após 19 de Novembro de 1999 poderão ser consideradas elegíveis desde que os proponentes apresentem a respectiva candidatura no prazo de 60 dias contados a partir da data de entrada em vigor deste Regulamento."
+  },
+  "1073618975": {
+   "fragment_id": "1020125675",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis relativas às acções previstas nos capítulos II e III",
+   "in_force_from": "2001-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+   ],
+   "markdown": "## Anexo I — Despesas elegíveis relativas às acções previstas nos capítulos II e III\n\n(a que se referem os artigos 7.º e 20.º)\n\n1 - Elaboração de estudos e projectos de execução, até ao limite de 5% do custo da obra.\n\n2 - Execução de obras: construção, modernização ou reparação de barragens, charcas e açudes de derivação, açudes, reservatórios, estações elevatórias e de bombagem e respectivos equipamentos e tomadas de água; construção de pequenas barragens subterrâneas; prospecção e captação de águas subterrâneas através de furos e poços; construção ou recuperação de redes de rega, de drenagem, de enxugo e viária; construção de centrais mini-hídricas; aquisição e montagem de contadores de água em redes de rega colectiva sob pressão ou outro equipamento necessário a uma adequada gestão da água; construção de redes de electrificação; obras de defesa contra marés e cheias; desenvolvimento de acções de emparcelamento; adaptação ao regadio.\n\n3 - Desenvolvimento de acções de emparcelamento (excepto na beneficiação de regadios tradicionais).\n\n4 - Adaptação ao regadio (só nos novos regadios colectivos).\n\n5 - Recuperação e modernização das centrais hidro-eléctricas associadas aos perímetros de rega (só na reabilitação e modernização dos perímetros de rega).\n\n6 - Construção e recuperação dos edifícios sede das associações de regantes ou de beneficiários, juntas de agricultores ou cooperativas de rega e aquisição de equipamento de funcionamento (excepto na beneficiação de regadios tradicionais).\n\n7 - Expropriações e indemnizações a efectuar com as obras.\n\n8 - Acompanhamento e fiscalização, incluindo consultoria (jurídica, arqueológica, etc.).\n\n9 - Testagem das obras.\n\n10 - Aperfeiçoamento técnico em projectos, obras e exploração de regadios.\n\n11 - Equipamento para instalação de áreas piloto (só novos regadios colectivos e reabilitação e modernização dos perímetros de rega).\n\n12 - Implementação de sistemas de informação geográfica (só novos regadios colectivos e reabilitação e modernização dos perímetros de rega).\n\n13 - Instalação de sistemas de monitorização de qualidade da água, de eficiência de distribuição de água e da degradação de solos (novos regadios colectivos e reabilitação e modernização dos perímetros de rega).\n\n14 - Acções minimizadoras de impactes ambientais.\n\n15 - Outras acções necessárias à execução das obras.\n\n16 - Despesas com IVA, desde que o proponente comprove não o recuperar.\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+  },
+  "1020125975": {
+   "fragment_id": "1020125875",
+   "type": 14,
+   "heading": "Anexo II — Critérios de prioridade relativos aos novos regadios colectivos e beneficiação de regadios tradicionais e à reabilitação e modernização dos perímetros de rega.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Critérios de prioridade relativos aos novos regadios colectivos e beneficiação de regadios tradicionais e à reabilitação e modernização dos perímetros de rega.\n\n(a que se referem os artigos 11.º e 24.º)\n\n1 - Tratar-se de projectos de execução faseada com investimentos já realizados.\n\n2 - Existência de projecto de execução já aprovado tecnicamente (só na reabilitação e modernização dos perímetros de rega).\n\n3 - Interligação com outros investimentos colectivos em infra-estruturas.\n\n4 - Localização em zonas prioritárias de desenvolvimento.\n\n5 - Localização em zonas onde decorram acções de dinamização de desenvolvimento agrícola e rural (excepto na beneficiação de regadios tradicionais).\n\n6 - Localização em zonas desfavorecidas.\n\n7 - Dimensão da área a beneficiar (só na reabilitação e modernização dos perímetros de rega).\n\n8 - Número de agricultores envolvidos ou a beneficiar.\n\n9 - Custo de investimento por hectare e sua rentabilidade.\n\n10 - Tipo de solos a regar."
+  },
+  "1020126175": {
+   "fragment_id": "1020126075",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis relativas às acções previstas no capítulo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Despesas elegíveis relativas às acções previstas no capítulo IV\n\n(a que se refere o artigo 35.º)\n\n1 - São elegíveis as despesas com operações de emparcelamento a seguir indicadas:\n\na) Despesas com a preparação de candidaturas, quando tal se justifique;\n\nb) Elaboração de estudos prévios e projectos;\n\nc) Execução de projectos de:\n\ni) Infra-estruturas para uso essencialmente agrícola;\n\nii) Melhoramentos fundiários;\n\niii) Equipamentos de natureza colectiva com fins económicos;\n\niv) Equipamentos de natureza colectiva com fins sociais (só nas operações de emparcelamento rural integrado);\n\nv) Obras de conservação e protecção da natureza e da paisagem (só nas operações de emparcelamento rural integrado);\n\nvi) Indemnizações aos agricultores pelos danos causados aquando da elaboração e execução de projectos;\n\nvii) Equipamentos necessários ao funcionamento e manutenção das obras;\n\nviii) Acções minimizadoras de impacte ambiental;\n\nd) Constituição de associações de beneficiários;\n\ne) Fotografia aérea, ortofotocartografia e cadastro geométrico;\n\nf) Apoio técnico, acompanhamento, fiscalização e avaliação, incluindo consultoria;\n\ng) Estudos de impacte ambiental, bem como outros estudos específicos;\n\nh) Aperfeiçoamento técnico em projectos e obras.\n\n2 - São elegíveis as despesas relativas aos planos de ordenamento do espaço rural a seguir indicadas:\n\na) Estudos de ordenamento do espaço rural;\n\nb) Apoio técnico, acompanhamento, fiscalização e avaliação.\n\n3 - Despesas com IVA, desde que o proponente comprove não o recuperar."
+  },
+  "1020126375": {
+   "fragment_id": "1020126275",
+   "type": 14,
+   "heading": "Anexo IV — Critérios de prioridade relativos ao emparcelamento rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Critérios de prioridade relativos ao emparcelamento rural\n\n(a que se refere o artigo 39.º)\n\n1 - Nas operações de emparcelamento:\n\na) Existência de estudos prévios ou projectos aprovados;\n\nb) Potencial de desenvolvimento sócio-económico;\n\nc) Grau de deficiência estrutural da região;\n\nd) Existência de bases de planeamento que indiquem o ordenamento como meio essencial para o desenvolvimento;\n\ne) Interligação com outros investimentos colectivos;\n\nf) Existência de cadastro geométrico da propriedade.\n\n2 - Nos planos de ordenamento do espaço rural:\n\na) Zonas prioritárias de desenvolvimento;\n\nb) Potencial de desenvolvimento sócio-económico;\n\nc) Grau de deficiência estrutural da região;\n\nd) Grau de ruralidade;\n\ne) Complementaridade com outras acções de desenvolvimento."
+  },
+  "1074148775": {
+   "fragment_id": "1020109075",
+   "type": 11,
+   "heading": "Artigo 3.º — Organismos competentes",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "###### Artigo 3.º — Organismos competentes\n\nPara efeitos de aplicação do presente Regulamento, consideram-se organismos competentes o Instituto de Desenvolvimento Rural e Hidráulica (IDRHa) e as direcções regionais de agricultura (DRA).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1074149375": {
+   "fragment_id": "1020111075",
+   "type": 11,
+   "heading": "Artigo 12.º — Contrato de atribuição das ajudas",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "###### Artigo 12.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas é feita ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário, no prazo máximo de 30 dias a contar da data de notificação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1074149575": {
+   "fragment_id": "1020121075",
+   "type": 11,
+   "heading": "Artigo 25.º — Contrato de atribuição das ajudas",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "###### Artigo 25.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas é feita ao abrigo de contratos a celebrar entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e os beneficiários, no prazo máximo de 30 dias a contar da data de notificação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1074148975": {
+   "fragment_id": "1020121875",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamento das ajudas",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "###### Artigo 29.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos do contrato.\n\n2 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio do pedido de pagamento ao IFADAP, acompanhado do respectivo recapitulativo das despesas, com base no qual se procederá ao pagamento das ajudas.\n\n3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1074151775": {
+   "fragment_id": "1020124275",
+   "type": 11,
+   "heading": "Artigo 40.º — Contrato de atribuição das ajudas",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "###### Artigo 40.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas é feita ao abrigo de contrato celebrado entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e os beneficiários, no prazo máximo de 30 dias a contar da data de notificação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1074149175": {
+   "fragment_id": "1020125075",
+   "type": 11,
+   "heading": "Artigo 44.º — Pagamento das ajudas",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "###### Artigo 44.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.\n\n2 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio do pedido de pagamento ao IFADAP, acompanhado do respectivo recapitulativo das despesas, com base no qual se procederá ao pagamento das ajudas.\n\n3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1074151975": {
+   "fragment_id": "1020125475",
+   "type": 11,
+   "heading": "Artigo 45.º — Despesas já realizadas",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "###### Artigo 45.º — Despesas já realizadas\n\nAs despesas efectuadas após 19 de Novembro de 1999 poderão ser consideradas elegíveis desde que os proponentes apresentem a respectiva candidatura no prazo de 60 dias contados a partir da data de entrada em vigor deste Regulamento.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1075390675": {
+   "fragment_id": "1020125675",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis relativas às acções previstas nos capítulos II e III",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18.",
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+   ],
+   "markdown": "## Anexo I — Despesas elegíveis relativas às acções previstas nos capítulos II e III\n\n(a que se referem os artigos 7.º e 20.º)\n\n1 - Elaboração de estudos e projectos de execução, até ao limite de 5% do custo da obra.\n\n2 - Execução de obras: construção, modernização ou reparação de barragens, charcas e açudes de derivação, açudes, reservatórios, estações elevatórias e de bombagem e respectivos equipamentos e tomadas de água; construção de pequenas barragens subterrâneas; prospecção e captação de águas subterrâneas através de furos e poços; construção ou recuperação de redes de rega, de drenagem, de enxugo e viária; construção de centrais mini-hídricas; aquisição e montagem de contadores de água em redes de rega colectiva sob pressão ou outro equipamento necessário a uma adequada gestão da água; construção de redes de electrificação; obras de defesa contra marés e cheias; desenvolvimento de acções de emparcelamento; adaptação ao regadio.\n\n3 - Desenvolvimento de acções de emparcelamento (excepto na beneficiação de regadios tradicionais).\n\n4 - Adaptação ao regadio (só nos novos regadios colectivos).\n\n5 - Recuperação e modernização das centrais hidro-eléctricas associadas aos perímetros de rega (só na reabilitação e modernização dos perímetros de rega).\n\n6 - Construção e recuperação dos edifícios sede das associações de regantes ou de beneficiários, juntas de agricultores ou cooperativas de rega e aquisição de equipamento de funcionamento (excepto na beneficiação de regadios tradicionais).\n\n7 - Expropriações e indemnizações a efectuar com as obras.\n\n8 - Acompanhamento e fiscalização, incluindo consultoria (jurídica, arqueológica, etc.).\n\n9 - Testagem das obras.\n\n10 - Aperfeiçoamento técnico em projectos, obras e exploração de regadios.\n\n11 - Equipamento para instalação de áreas piloto (só novos regadios colectivos e reabilitação e modernização dos perímetros de rega).\n\n12 - Implementação de sistemas de informação geográfica (só novos regadios colectivos e reabilitação e modernização dos perímetros de rega).\n\n13 - Instalação de sistemas de monitorização de qualidade da água, de eficiência de distribuição de água e da degradação de solos (novos regadios colectivos e reabilitação e modernização dos perímetros de rega).\n\n14 - Acções minimizadoras de impactes ambientais.\n\n15 - Outras acções necessárias à execução das obras.\n\n16 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18.\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20."
+  },
+  "1074147575": {
+   "fragment_id": "1020126075",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis relativas às acções previstas no capítulo IV",
+   "in_force_from": "2003-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "## Anexo III — Despesas elegíveis relativas às acções previstas no capítulo IV\n\n(a que se refere o artigo 35.º)\n\n1 - São elegíveis as despesas com operações de emparcelamento a seguir indicadas:\n\na) Despesas com a preparação de candidaturas, quando tal se justifique;\n\nb) Elaboração de estudos prévios e projectos;\n\nc) Execução de projectos de:\n\ni) Infra-estruturas para uso essencialmente agrícola;\n\nii) Melhoramentos fundiários;\n\niii) Equipamentos de natureza colectiva com fins económicos;\n\niv) Equipamentos de natureza colectiva com fins sociais (só nas operações de emparcelamento rural integrado);\n\nv) Obras de conservação e protecção da natureza e da paisagem (só nas operações de emparcelamento rural integrado);\n\nvi) Indemnizações aos agricultores pelos danos causados aquando da elaboração e execução de projectos;\n\nvii) Equipamentos necessários ao funcionamento e manutenção das obras;\n\nviii) Acções minimizadoras de impacte ambiental;\n\nix) Reorganização predial;\n\nd) Constituição de associações de beneficiários;\n\ne) Fotografia aérea, ortofotocartografia e cadastro geométrico;\n\nf) Apoio técnico, acompanhamento, fiscalização e avaliação, incluindo consultoria;\n\ng) Estudos de impacte ambiental, bem como outros estudos específicos;\n\nh) Aperfeiçoamento técnico em projectos e obras.\n\n2 - São elegíveis as despesas relativas aos planos de ordenamento do espaço rural a seguir indicadas:\n\na) Estudos de ordenamento do espaço rural;\n\nb) Apoio técnico, acompanhamento, fiscalização e avaliação.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1076918675": {
+   "fragment_id": "1020126075",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis relativas às acções previstas no capítulo IV",
+   "in_force_from": "2004-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 508/2004 - Diário da República n.º 113/2004, Série I-B de 2004-05-14](https://diariodarepublica.pt/dr/detalhe/portaria/508-2004-269017), em vigor a partir de 2004-05-15.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+   ],
+   "markdown": "## Anexo III — Despesas elegíveis relativas às acções previstas no capítulo IV\n\n(a que se refere o artigo 35.º)\n\n1 - São elegíveis as despesas com operações de emparcelamento a seguir indicadas:\n\na) Despesas com a preparação de candidaturas, quando tal se justifique;\n\nb) Elaboração de estudos prévios e projectos;\n\nc) Execução de projectos de:\n\ni) Infra-estruturas para uso essencialmente agrícola;\n\nii) Melhoramentos fundiários;\n\niii) Equipamentos de natureza colectiva com fins económicos;\n\niv) Equipamentos de natureza colectiva com fins sociais (só nas operações de emparcelamento rural integrado);\n\nv) Obras de conservação e protecção da natureza e da paisagem (só nas operações de emparcelamento rural integrado);\n\nvi) Indemnizações aos agricultores pelos danos causados aquando da elaboração e execução de projectos;\n\nvii) Equipamentos necessários ao funcionamento e manutenção das obras;\n\nviii) Acções minimizadoras de impacte ambiental;\n\nix) Reorganização predial;\n\nx) Reconversão e instalação de culturas perenes;\n\nd) Constituição de associações de beneficiários;\n\ne) Fotografia aérea, ortofotocartografia e cadastro geométrico;\n\nf) Apoio técnico, acompanhamento, fiscalização e avaliação, incluindo consultoria;\n\ng) Estudos de impacte ambiental, bem como outros estudos específicos;\n\nh) Aperfeiçoamento técnico em projectos e obras.\n\n2 - São elegíveis as despesas relativas aos planos de ordenamento do espaço rural a seguir indicadas:\n\na) Estudos de ordenamento do espaço rural;\n\nb) Apoio técnico, acompanhamento, fiscalização e avaliação.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 508/2004 - Diário da República n.º 113/2004, Série I-B de 2004-05-14](https://diariodarepublica.pt/dr/detalhe/portaria/508-2004-269017), em vigor a partir de 2004-05-15.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1199/2003 - Diário da República n.º 237/2003, Série I-B de 2003-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/1199-2003-481372), em vigor a partir de 2003-10-18."
+  },
+  "1077888375": {
+   "fragment_id": "1020118675",
+   "type": 11,
+   "heading": "Artigo 14.º — Execução dos investimentos",
+   "in_force_from": "2006-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011), em vigor a partir de 2006-01-24."
+   ],
+   "markdown": "###### Artigo 14.º — Execução dos investimentos\n\n1 - Os projectos devem ser executados de acordo com o calendário neles estabelecido e o prazo máximo para os responsáveis pela execução dos projectos iniciarem e concluírem os investimentos é de um e dois anos, respectivamente, contados a partir da data da assinatura do contrato, entendendo-se como início da execução dos investimentos o começo da realização física dos trabalhos previstos.\n\n2 - O coordenador da medida AGRIS pode, em casos devidamente fundamentados, conceder a prorrogação dos prazos estabelecidos no número anterior.\n\n> Nota: [3.º, Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011) A alteração ao presente artigo aplica-se aos contratos celebrados após 1 de Dezembro de 2001.\n\n> Alterado pelo/a Artigo do/a [Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011), em vigor a partir de 2006-01-24."
+  },
+  "1077890575": {
+   "fragment_id": "1020121475",
+   "type": 11,
+   "heading": "Artigo 27.º — Execução dos investimentos",
+   "in_force_from": "2006-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011), em vigor a partir de 2006-01-24."
+   ],
+   "markdown": "###### Artigo 27.º — Execução dos investimentos\n\n1 - O investimento deve ser executado de acordo com o calendário estabelecido e o prazo máximo para os proponentes iniciarem e concluírem a execução dos investimentos é de um ou dois anos, respectivamente, contados a partir da data da assinatura do contrato, entendendo-se como início da execução dos investimentos o começo da realização física dos trabalhos previstos.\n\n2 - O coordenador da medida AGRIS pode, em casos devidamente fundamentados, conceder a prorrogação dos prazos estabelecidos no número anterior.\n\n> Nota: [3.º, Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011) A alteração ao presente artigo aplica-se aos contratos celebrados após 1 de Dezembro de 2001.\n\n> Alterado pelo/a Artigo do/a [Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011), em vigor a partir de 2006-01-24."
+  }
+ }
+}

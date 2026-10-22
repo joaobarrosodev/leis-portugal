@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25676898:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2014-920134008",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/43-2014-25676898",
+ "source_lastmod": "2025-06-02",
+ "versions": [
+  {
+   "date": "2014-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920131934"
+   ]
+  }
+ ],
+ "fragments": {
+  "920131934": {
+   "fragment_id": "920134009",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 43/2014 , de 19 de junho\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:\n\nÉ exonerado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Rui Alberto Manuppella Tereno do cargo de Embaixador de Portugal em Dakar, com efeitos a partir de 8 de agosto de 2014."
+  }
+ }
+}

@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:140431108:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 38/2020/M
+short_title: null
+summary: Apresenta à Assembleia da República a proposta de lei que procede à alteração do regime de seguro social voluntário,
+  aprovado pelo Decreto-Lei n.º 40/89, de 1 de fevereiro, na redação atual, bem como do Código dos Regimes Contributivos do
+  Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, na redação atual, a fim
+  de permitir a admissão de portugueses residentes na diáspora
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 38/2020/M
+official_date: null
+publication_date: '2020-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2020, Série I de 2020-08-17
+  number: '159'
+  series: I
+  supplement: null
+  pages: 58 - 60
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15900/0005800060.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/38/2020/08/17/m/dre/pt/html
+  oj: null
+  dre: '140431108'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/38-2020-140431108
+  internal: pt:dre:140431108:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/38-2020-140431108
+  metadata_url: https://data.dre.pt/eli/resolalram/38/2020/08/17/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/38-2020-140431108
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2020-08-17T00:00:00Z'
+integrity:
+  source_sha256: 9123375a2922fbceff6253b37f38d7da27a528c7d63e8830f193abec04530294
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2020/DRE-2020-38-140431108.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa Regional
+- Cidadão Nacional
+- Emigrante
+- Iniciativa Legislativa
+- Assembleia Legislativa
+- Assembleia da República
+- Emigração
+- Madeira.região Autónoma
+- Diploma Legal
+- Regime Contributivo da Segurança Social
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Residente no Estrangeiro
+- Segurança Social
+- Seguro Social Voluntário
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 38/2020/M
+
+Proposta de lei à Assembleia da República - Procede à alteração do regime de seguro social voluntário, aprovado pelo [Decreto-Lei n.º 40/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1989-610416), de 1 de fevereiro, na redação atual, bem como do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, na redação atual, a fim de permitir a admissão de portugueses residentes na diáspora.
+
+De acordo com a Constituição da República, no seu artigo 13.º, que consagra o princípio da igualdade: «Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei.» Nessa linha, o n.º 3 do artigo 63.º prevê que «o sistema de segurança social protegerá os cidadãos na doença, velhice, invalidez, viuvez e orfandade, bem como no desemprego e em todas as outras situações de falta ou diminuição de meios de subsistência ou de capacidade para o trabalho». Nesse sentido, apresenta-se uma proposta de alteração ao [Decreto-Lei n.º 40/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1989-610416), de 1 de fevereiro, na redação atual, que institui o seguro social voluntário no âmbito da segurança social, assim como ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, na redação atual, com o objetivo de incluir os portugueses residentes nos diferentes países de acolhimento no regime da segurança social voluntária.
+
+Portugal regozija-se por ter uma das mais fortes populações na diáspora, contando com perto de 5 milhões de portugueses nos países de acolhimento, que, somados aos 10 milhões de residentes no país, contabilizam um total de 15 milhões de Portugueses no mundo. Nesse sentido, é importante referir que esta nossa diáspora, apesar de serem residentes no estrangeiro, ficou sempre ligada à sua terra de origem e como tal fazem parte de um todo, fazem parte do nosso país. São portugueses, pelo que merecem ser protegidos nas mesmas condições dos que cá residem, com o mesmo respeito, a mesma igualdade de direitos, e sem qualquer tipo de discriminação e mais quando estão em situações de fragilidades sociais e económicas.
+
+O apelo a esta igualdade faz-se numa altura crucial, quando verificamos que, por exemplo na Venezuela, temos uma comunidade portuguesa imensurável que se encontra numa situação de extrema gravidade e debilidade social, em que a segurança social do referido país de acolhimento não consegue salvaguardar os direitos sociais dos nossos cidadãos, embora existindo entre Portugal e a Venezuela instrumentos internacionais como a Convenção sobre Segurança Social entre a República Portuguesa e a República da Venezuela, que não pode ser aplicada, impossibilitando os mesmos de terem um trato digno, igualitário e constitucional, no que se refere aos sistemas de segurança social, mais concretamente no que toca às pensões de reforma.
+
+Desta feita, consideramos que a alteração dos artigos 169.º e 282.º da [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, e do artigo 26.º do [Decreto-Lei n.º 40/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1989-610416), de 1 de fevereiro, que estabelece o regime da segurança social voluntária, permitiria a admissão de portugueses maiores, residentes nos países de acolhimento, no sistema de segurança social voluntário, mediante contribuições mensais tendo como base de incidência contributiva o correspondente a uma remuneração convencional e escolhida pelo beneficiário, de acordo com os escalões indexados ao valor do IAS nos termos da [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro. Tendo em conta que o próprio decreto-lei prevê que este regime facultativo possa garantir o direito à segurança social das pessoas que não se enquadrem, de forma obrigatória, no âmbito de regimes de proteção social, mais ainda quando se trata do património português na diáspora, o que dignificaria a nossa comunidade, o nosso país e ainda a nossa segurança social garantindo-lhe uma maior sustentabilidade.
+
+Assim, nos termos da alínea f) do n.º 1.º do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à alteração do [Decreto-Lei n.º 40/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1989-610416), de 1 de fevereiro, na redação atual, que institui o seguro social voluntário no âmbito da segurança social e do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, na redação atual.
+
+###### Artigo 2.º — Alteração ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social
+
+São alterados os artigos 169.º e 282.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, na redação atual, passando a ter a seguinte redação:
+
+«Artigo 169.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os cidadãos nacionais, maiores, que residam e/ou exerçam a sua atividade profissional em país estrangeiro que, embora estando abrangidos por instrumento internacional a que Portugal se encontre vinculado, o mesmo não possa ser cumprido por causas não imputáveis ao Estado Português.
+
+5 - Quando se verificarem situações extraordinárias no país de acolhimento, ainda poderão ser enquadrados neste regime aqueles cidadãos nacionais, maiores, que residam e/ou exerçam a sua atividade profissional em pais estrangeiro, por razões humanitárias.
+
+###### Artigo 282.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - A inscrição e o enquadramento dos cidadãos nacionais, maiores, que residam e/ou exerçam a sua atividade profissional em país estrangeiro, beneficiários do seguro social voluntário compete, além dos serviços do ISS, I. P., ou serviços da segurança social das Regiões Autónomas, aos serviços consulares em cujo âmbito territorial se situe a residência do cidadão português.»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 40/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1989-610416), de 1 de fevereiro
+
+É alterado o artigo 26.º do [Decreto-Lei n.º 40/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1989-610416), de 1 de fevereiro, na redação atual, que institui o seguro social voluntário no âmbito da segurança social, passando a ter a seguinte redação:
+
+«Artigo 26.º
+
+[...]
+
+1 - Os cidadãos nacionais residentes no estrangeiro devem ainda apresentar, conjuntamente com o requerimento, declaração relativa a uma das seguintes situações:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Exercício da atividade profissional no território do Estado de residência, em que, vigorando instrumento internacional que vincule o Estado Português, o mesmo não possa ser cumprido por causas não imputáveis ao Estado Português;
+
+e) Situação extraordinária no país de acolhimento, para serem enquadrados neste regime por razões humanitárias.
+
+2 - ...»
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor imediatamente após a sua publicação.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de julho de 2020.
+
+**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**

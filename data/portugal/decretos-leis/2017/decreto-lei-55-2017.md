@@ -1,0 +1,284 @@
+---
+schema_version: '1.0'
+id: pt:dre:107468879:por
+title: Decreto-Lei n.º 55/2017
+short_title: null
+summary: Procede à primeira alteração ao Decreto-Lei n.º 25/2017, de 3 de março, que estabelece as normas de execução do Orçamento
+  do Estado para 2017
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Finanças
+proposing_entity: null
+official_number: 55/2017
+official_date: null
+publication_date: '2017-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2017, Série I de 2017-06-05
+  number: '108'
+  series: I
+  supplement: null
+  pages: 2778 - 2780
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10800/0277802780.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/55/2017/06/05/p/dre/pt/html
+  oj: null
+  dre: '107468879'
+  dre_path: /dr/detalhe/decreto-lei/55-2017-107468879
+  internal: pt:dre:107468879:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2017-107468879
+  metadata_url: https://data.dre.pt/eli/dec-lei/55/2017/06/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2017-107468879
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-06-05T00:00:00Z'
+integrity:
+  source_sha256: 03aed44cdc9f233acf045e3ee917580e90851884da5f43b3e92a34d6f368c323
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-55-107468879.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência para o Desenvolvimento e Coesão
+- Aquisição de Bens e Serviços
+- Pessoal de Saúde
+- Financiamento
+- Contenção de Despesas
+- Despesas Públicas
+- Serviço Nacional de Saúde
+- Execução do Orçamento
+- Finanças Públicas
+- Horas Extraordinárias
+- Serviço Regional de Saúde
+- PORTUGAL 2020
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/25/2017/03/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/25/2017/03/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/159-e/2015/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/159-e/2015/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 55/2017
+
+de 5 de junho
+
+O [Decreto-Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), de 3 de março, que aprova as normas de execução do Orçamento do Estado para 2017, aprovado pela [Lei n.º 42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, determina, no seu artigo 8.º, as condições que permitem alterações orçamentais entre serviços integrados ou entre serviços e fundos autónomos ou entre aqueles subsetores, dentro de um mesmo programa, denominada gestão flexível.
+
+A mesma norma identifica, igualmente, as alterações orçamentais excluídas desta gestão flexível, competindo acrescentar situações que não se encontram, atualmente, previstas.
+
+Através do presente decreto-lei adita-se ainda uma alínea ao n.º 1 do artigo 42.º, por forma a permitir a aquisição através de ajuste direto com consulta obrigatória a pelo menos três entidades até aos limiares comunitários de serviços de peritos externos independentes para apreciação de mérito científico-tecnológico ou inovador, no âmbito dos procedimentos de análise, seleção ou decisão de candidaturas, garantindo-se uma maior agilidade no processo de atribuição dos fundos europeus às empresas.
+
+O mencionado [Decreto-Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), de 3 de março, estabelece, também, no seu artigo 55.º, alterações ao valor dos suplementos devidos pelo trabalho extraordinário, mediante o aumento, faseado, das percentagens de acréscimo estabelecidas no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de março.
+
+No entanto, a citada norma limita esta alteração ao trabalho extraordinário realizado pelos profissionais de saúde para assegurar o funcionamento dos serviços de urgência externa que constituam pontos da Rede de Urgência/Emergência, bem como das unidades de cuidados intensivos, não contemplando o mesmo trabalho noutras atividades dos estabelecimentos e serviços do Serviço Nacional de Saúde também essenciais para a adequada prestação de cuidados de saúde aos seus utentes e com o mesmo acréscimo de penosidade que constitui o fundamento para a atribuição dos referidos acréscimos remuneratórios.
+
+Nesta conformidade, torna-se necessária a alteração do regime estabelecido no artigo 55.º do [Decreto-Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), de 3 de março.
+
+É ainda introduzida uma alteração à redação da alínea b) do n.º 5 do artigo 124.º, que precisa que a referência que aí é feita ao orçamento da entidade não obriga à respetiva aprovação prévia.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à primeira alteração ao [Decreto-Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), de 3 de março, que aprova as normas de execução do Orçamento do Estado para 2017.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), de 3 de março
+
+Os artigos 8.º, 42.º, 55.º e 124.º do [Decreto-Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), de 3 de março, passam a ter a seguinte redação:
+
+«Artigo 8.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+a) [...]
+
+b) As que envolvam uma redução das verbas orçamentadas nas despesas com pessoal, nas despesas com produtos químicos, farmacêuticos e vendidos nas farmácias, nas despesas decorrentes da implementação do princípio da onerosidade, nas despesas com os sistemas de informação contabilística e as que envolvam uma redução das verbas financiadas por receitas gerais respeitantes à dotação destinada à reserva para pagamentos em atraso, exceto nas despesas com pessoal se compensadas entre os dois subagrupamentos remunerações certas e permanentes e segurança social, caso em que são da competência do dirigente do serviço;
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+###### Artigo 42.º — [...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+o) [...]
+
+p) A aquisição de serviços cofinanciados pelos programas do Portugal 2020 ou por outros fundos europeus para a contratação pela Agência de Desenvolvimento e Coesão, I. P., pelas autoridades de gestão e pelos organismos intermédios de peritos externos independentes para emissão de pareceres no âmbito dos procedimentos de análise, seleção, decisão de candidaturas a projetos com financiamento comunitário e de acompanhamento da respetiva execução, designadamente para apreciação do mérito científico-tecnológico ou inovador.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - [...]
+
+###### Artigo 55.º — [...]
+
+1 - A partir de 1 de abril de 2017, ao trabalho extraordinário prestado pelos profissionais de saúde nos estabelecimentos que integram o Serviço Nacional de Saúde e os Serviços Regionais de Saúde é aplicável o disposto no artigo 73.º da [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, alterada pelas [Leis n.os 159-E/2015](https://diariodarepublica.pt/dr/detalhe/lei/159-e-2015-73000151), de 30 de dezembro, e [7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, mantida em vigor pelo artigo 19.º da Lei do Orçamento do Estado, acrescido em 50 % da diferença apurada entre as percentagens previstas na tabela a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de março, e as estabelecidas no mencionado artigo 73.º
+
+2 - A partir de 1 de dezembro de 2017, ao trabalho referido no número anterior são aplicáveis as percentagens previstas na tabela a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de março.
+
+3 - [...]
+
+4 - Os estabelecimentos do Serviço Nacional de Saúde têm de reduzir os encargos trimestrais com a aquisição de serviços de profissionais de saúde, em, pelo menos, 35 % face ao trimestre homólogo.
+
+5 - A verificação dos previstos nos n.os 3 e 4 é realizada, trimestralmente, por uma comissão de acompanhamento nomeada pelos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+6 - (Anterior n.º 5.)
+
+7 - Os atos praticados em violação da presente norma são nulos e a violação da mesma determina responsabilidade civil, financeira e disciplinar por parte dos gestores das entidades abrangidas pelo regime estabelecido no presente decreto-lei.
+
+###### Artigo 124.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+a) [...]
+
+b) Que se encontrem numa fase de aumento de atividade ou de internacionalização, desde que o aumento dos gastos se encontre incluído no orçamento da entidade;
+
+c) [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - [...]»
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de abril de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Maria Fernanda Fernandes Garcia Rollo - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Amândio José de Oliveira Torres - Ana Paula Mendes Vitorino.
+
+**Promulgado em 19 de maio de 2017.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 24 de maio de 2017.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

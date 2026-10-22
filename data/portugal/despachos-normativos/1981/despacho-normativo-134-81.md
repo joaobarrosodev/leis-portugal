@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:573343:por
+title: Despacho Normativo n.º 134/81
+short_title: null
+summary: Alarga o seguro agrícola de colheitas a diversas culturas
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura e Pescas
+proposing_entity: null
+official_number: 134/81
+official_date: null
+publication_date: '1981-05-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/1981, Série I de 1981-05-06
+  number: '103'
+  series: I
+  supplement: null
+  pages: 1059 - 1060
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/05/10300/10591060.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '573343'
+  dre_path: /dr/detalhe/despacho-normativo/134-1981-573343
+  internal: pt:dre:573343:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1981-573343
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1981-573343
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-05-06T00:00:00Z'
+integrity:
+  source_sha256: 84eb83ec76fa39ddbf057920f2a81fb3a3c723d2305cd2562847384aa2401462
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-134-573343.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 134/81
+
+O seguro agrícola de colheitas, instituído pelo [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, pretende, por um lado, garantir aos agricultores a estabilidade dos seus rendimentos, através da minimização dos factores de insegurança e, por outro, funcionar como um instrumento da política de ordenamento cultural e de melhoria das técnicas produtivas.
+
+No entanto, e face à ausência quase total de experiência neste campo e à inexistência de elementos técnicos e económicos que permitissem quantificar os efeitos dos acidentes meteorológicos, tal seguro foi limitado, na sua fase inicial, a determinadas culturas e riscos.
+
+Embora não se disponha ainda de elementos técnicos e estatísticos suficientemente válidos sobre a matéria, em virtude do curto período de experiência decorrido, reconhece-se que há que procurar responder aos interesses e anseios legítimos dos agricultores. Assim, vai-se iniciar uma outra fase - sem prejuízo de futuras correcções que venham a revelar-se necessárias - tendente à realização plena do objectivo traçado pelo [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro. Deste modo, ao conceder-se uma mais ampla protecção aos agricultores portugueses, através do alargamento do seguro agrícola de colheitas e outras culturas e a mais um risco, contribui-se, simultaneamente, para um maior desenvolvimento do sector.
+
+Foram, pois, seleccionadas outras culturas que, pela sua relevância na economia agrícola regional ou até nacional, passam desde já a estar abrangidas pelo seguro de colheitas, esperando-se que, através de alargamentos progressivos, se possa, num futuro, que se pretende breve, proteger, mediante tal seguro, toda a produção agrícola nacional. Igualmente se vai garantir a cobertura de um outro risco meteorológico - a «geada negra» -, se bem que, por agora, apenas em determinadas circunstâncias bem definidas.
+
+Finalmente, e embora mantendo-se a competência atribuída ao Instituto Nacional de Seguros pelo n.º 22 do [Despacho Normativo n.º 144/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/144-1980-681394), de 28 de Abril, considerou-se preferível fixar desde já as taxas para a determinação dos prémios e agrupar as regiões e classes de riscos, em virtude do alargamento do seguro de colheitas ora verificado.
+
+Nestes termos, e face aos pareceres favoráveis do Instituto Nacional de Seguros e da Comissão de Gestão do Fundo de Compensação do Seguro de Colheitas, determina-se, em conformidade com o previsto no n.º 3 do artigo 4.º do [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, e ao abrigo do disposto no n.º 10 do [Despacho Normativo n.º 144/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/144-1980-681394), de 28 de Abril, o seguinte:
+
+1 - O seguro agrícola de colheitas, instituído pelo [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, é alargado:
+
+a) Às culturas de batata (cultura primaveril-estival), olival para produção de azeitona de conserva, prunóideas (pessegueiros e ameixoeiras), castanheiro, nogueira, aveleira, fava, grão-de-bico, ervilha (cultura primaveril-estival), feijão (grão), melão, lúpulo e tabaco;
+
+b) Ao risco de «geada negra», quando verificada em culturas em regime de forçagem, efectuadas em estufas com as características consignadas nas condições gerais da apólice.
+
+2 - Para os efeitos do disposto na alínea a) do número anterior, consideram-se as seguintes variedades de azeitona de conserva:
+
+Negrinha - no distrito de Bragança;
+
+Cordovil, carrasquenha e bical - no distrito de Castelo Branco;
+
+Redondil, carrasquenha, maçanilha, carrasquenha de almendrolejo, cordovil, gordal, conserva de Elvas e blanqueta de Badajoz - nos distritos de Portalegre, Évora e Beja;
+
+Maçanilha algarvia - no distrito de Faro.
+
+3 - O seguro de prunóideas, previsto na alínea a) do n.º 1, apenas pode ser efectivado em relação aos distritos de Viana do Castelo, Braga, Porto, Vila Real, Bragança, Aveiro, Coimbra, Viseu, Guarda e Castelo Branco, mediante parecer favorável dos serviços regionais de agricultura, que deverão ter em atenção a correcta utilização do solo, a localização das culturas, as variedades utilizadas, o emprego de tecnologias adequadas e o disposto nas condições gerais da apólice.
+
+4 - Para os efeitos da cobertura estabelecida na alínea b) do n.º 1, entende-se por «geada negra» o arrefecimento abaixo dos 0º da superfície das plantas expostas, causado por diminuição da temperatura, quando o ar adjacente não tem humidade suficiente para a formação de cristais de gelo (geada), e que provoca a morte por dessecação dos tecidos vegetais.
+
+5 - São fixadas, sem prejuízo do disposto no n.º 22 do [Despacho Normativo n.º 144/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/144-1980-681394), de 28 de Abril, as taxas a aplicar, no ano de 1981, para a determinação dos prémios de risco, de acordo com o seguinte quadro:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10300/10591060.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10300/10591060.pdf)
+
+Consideram-se incluídas na 1.ª classe de riscos as culturas de trigo, centeio, cevada, aveia, triticale, milho, arroz, cártamo, girassol, fava, grão-de-bico, feijão, ervilha, melão e tabaco; na 2.ª classe, as culturas de vinha, pomóideas, batata, tomate, castanheiro, nogueira, aveleira, lúpulo e hortícolas em regime de forçagem; na 3.ª classe, as culturas de prunóideas, olival para a produção de azeitona de conserva e hortícolas em regime de forçagem quando o risco de «geada negra» seja coberto.
+
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 19 de Março de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:196179:por
+title: Decreto Legislativo Regional n.º 10/86/A
+short_title: null
+summary: Aplica à Região Autónoma dos Açores o Decreto-Lei n.º 17-C/86, de 6 de Fevereiro
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 10/86/A
+official_date: null
+publication_date: '1986-03-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 74/1986, Série I de 1986-03-31
+  number: '74'
+  series: I
+  supplement: null
+  pages: 746 - 748
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07400/07460748.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '196179'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/10-1986-196179
+  internal: pt:dre:196179:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1986-196179
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1986-196179
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-12-04T00:00:00Z'
+integrity:
+  source_sha256: 0f9b2b236b048bf5b86c3dfca38177b66846f2b5995b0d5922df2a37936405d1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1986/DRE-1986-10-196179.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:584860:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 10/86/A
+
+Aplicação à Região de [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro
+
+Considerando que o regime do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, que alterou o processo de profissionalização dos professores, foi aplicado à Região Autónoma dos Açores, com as adaptações julgadas necessárias, pelo [Decreto Legislativo Regional n.º 8/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1985-182661), de 9 de Julho;
+
+Considerando que o disposto no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, implicou uma revisão das normas sobre concursos e colocações de professores efectivos dos ensinos preparatório e secundário, consagrada no [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro;
+
+Considerando que o [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, não é, pelos seus próprios meios - e como se colhe, entre outros, do seu artigo 6.º -, aplicável nas regiões autónomas;
+
+Considerando, porém, que se torna conveniente aplicar as regras deste decreto-lei à Região Autónoma dos Açores, mas tendo em conta os condicionalismos próprios da Região, impostos quer pela dispersão geográfica quer pelas disponibilidades materiais e humanas que essa dispersão implica;
+
+Considerando que, nos termos do artigo 1.º do [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683), de 25 de Agosto, compete aos órgãos de governo próprio da Região Autónoma dos Açores assegurar o correcto desenvolvimento da acção educativa na Região, promovendo a aplicação dos princípios gerais do sistema educativo português:
+
+A Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O regime do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, aplica-se à Região Autónoma dos Açores, com as adaptações constantes do presente diploma.
+
+2 - Nos preceitos do diploma citado no número anterior que não sofram alteração deverão entender-se as referências ao Ministério da Educação, à Direcção-Geral de Pessoal e ao director-geral de Pessoal como aplicadas ao Secretário Regional da Educação e Cultura, à Direcção Regional de Administração Escolar e ao director regional de Administração Escolar, respectivamente.
+
+###### Art. 2.º O artigo 1.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368) tem a seguinte redacção:
+
+###### Artigo 1.º - 1 - O provimento nos lugares de professor efectivo de cada grupo, subgrupo, disciplina ou especialidade dos ensinos preparatório e secundário será feito por concurso, a abrir anualmente pela Direcção Regional de Administração Escolar, mediante aviso a publicar no Diário da República até 31 de Março.
+
+2 - Do aviso de abertura do concurso constarão:
+
+a) As vagas existentes à data da respectiva abertura;
+
+b) As vagas a não recuperar de acordo com o n.º 3 do artigo 9.º deste diploma;
+
+c) Quaisquer outros elementos, tais como prazos, condições e locais de apresentação das candidaturas;
+
+d) As escolas preparatórias e secundárias da Região onde funcionará a formação em serviço e respectivos grupos, subgrupos, disciplinas ou especialidades.
+
+3 - O prazo para admissão a concurso será de dez dias a contar da publicação no Diário da República do aviso de abertura.
+
+4 - O prazo para admissão a concurso referido no número anterior sofrerá uma dilação de pelo menos 50% em relação aos candidatos que exerçam as suas funções na ilha das Flores, no estrangeiro, como cooperantes, em Macau, na Região Autónoma da Madeira ou no continente.
+
+###### Art. 3.º O artigo 2.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368) tem a seguinte redacção:
+
+###### Art. 2.º - 1 - Os candidatos ao concurso a que se refere o presente diploma serão ordenados de acordo com a ordem de prioridade estabelecida nas alíneas seguintes:
+
+a) Professores efectivos;
+
+b) Professores profissionalizados não efectivos;
+
+c) Professores que fizeram a opção a que se refere a alínea b) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio;
+
+d) Professores contratados plurianualmente sem profissionalização em exercício que reúnam as condições definidas no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, ainda os que, tendo estado naquela situação, obtiveram direito a provimento no concurso previsto no artigo 15.º do mesmo diploma;
+
+e) Outros professores provisórios que reúnam as condições estabelecidas no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
+
+2 - Integram-se na alínea a) do número anterior os professores efectivos que se encontrem numa das seguintes situações:
+
+a) Professores já profissionalizados, incluindo os referidos no artigo 26.º deste decreto-lei;
+
+b) Professores reintegrados como efectivos sob proposta da Comissão Nacional para a Reintegração dos Servidores Civis do Estado;
+
+c) Professores que adquiriram a categoria de efectivo ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
+
+3 - Nos concursos regulados por este diploma a realizar nos anos de 1987 e seguintes os professores referidos na alínea e) do n.º 1 deste artigo só poderão concorrer ao grupo, subgrupo, disciplina ou especialidade em que se encontrem colocados à data de abertura do concurso.
+
+4 - Aos professores abrangidos pelas alíneas d) e e) do n.º 1 deste artigo a Secretaria Regional da Educação e Cultura assegurará as condições necessárias à sua formação, da forma mais eficaz e a curto prazo, respeitando o período de quatro anos a contar do início da sua formação em serviço.
+
+5 - Para cumprimento do disposto nas alíneas d) e e) do n.º 1 deste artigo observar-se-á o seguinte:
+
+a) Se o candidato, após ter respeitado o disposto no artigo 3.º do [Decreto Legislativo Regional n.º 8/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1985-182661), de 9 de Julho, tendo mencionado obrigatoriamente os estabelecimentos de ensino com formação em serviço, for colocado em escola que não tenha sido definida nos termos do n.º 9 da [Portaria n.º 750/85](https://diariodarepublica.pt/dr/detalhe/portaria/750-1985-177037), de 2 de Outubro, como escola de formação em serviço, deverá o mesmo ser destacado para estabelecimento de ensino onde se realize a respectiva formação, respeitando-se as prioridades indicadas pelo candidato e ordenadas segundo a sua graduação profissional;
+
+b) Aos candidatos destacados, referidos na alínea anterior, serão atribuídos incentivos em regime a definir posteriormente por decreto regulamentar regional.
+
+###### Art. 4.º O artigo 4.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368) tem a seguinte redacção:
+
+###### Art. 4.º - 1 - Os docentes incluídos na alínea c) do n.º 1 do artigo 2.º deste decreto-lei são ordenados nos termos do disposto no artigo 16.º do [Decreto Regulamentar Regional n.º 7/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1985-325556), de 16 de Abril.
+
+2 - Os docentes incluídos nas alíneas d) e e) do n.º 1 do artigo 2.º deste decreto-lei são ordenados de acordo com o estabelecido no artigo 16.º do [Decreto Regulamentar Regional n.º 7/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1985-325556), de 16 de Abril, tendo em conta o disposto no artigo 6.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
+
+###### Art. 5.º O artigo 6.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368) tem a seguinte redacção:
+
+###### Art. 6.º Os candidatos ao concurso a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, por estabelecimentos de ensino, num e num só boletim.
+
+###### Art. 6.º O artigo 10.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368) tem a seguinte redacção:
+
+###### Art. 10.º - 1 - As listas provisórias de ordenação dos candidatos serão afixadas nos estabelecimentos de ensino da Região, podendo os mesmos reclamar, no prazo de oito dias a contar do dia imediato ao da mencionada afixação, dos elementos delas constantes.
+
+2 - A situação de cada opositor que concorra nas condições previstas no n.º 4 do artigo 2.º ser-lhe-á comunicada individualmente.
+
+3 - O prazo de reclamações a que se refere o n.º 1 deste artigo sofrerá uma dilação de 50% em relação aos candidatos que exerçam funções na ilha das Flores, no estrangeiro, como cooperantes, em Macau, na Região Autónoma da Madeira ou no continente.
+
+4 - É da competência do director regional de Administração Escolar a decisão sobre as reclamações referidas no n.º 1 deste artigo, que só serão consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais.
+
+###### Art. 7.º O artigo 20.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368) tem a seguinte redacção:
+
+###### Art. 20.º - 1 - Os professores efectivos na situação de licença ilimitada que pretendam reocupar lugar na sua categoria só o poderão fazer através do concurso regulamentado por este diploma, situando-se, para tal efeito, na alínea a) do n.º 1 do artigo 2.º do presente decreto-lei.
+
+2 - Os professores abrangidos pelo número anterior, enquanto não obtêm colocação em concurso de professores efectivos, poderão candidatar-se ao concurso de professores profissionalizados não efectivos, sendo, para o efeito, incluídos na alínea b) do n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 7/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1985-325556), de 16 de Abril.
+
+3 - Os professores abrangidos pelo número anterior cujo provimento, após o regresso da situação de licença ilimitada, tenha sido efectuado na qualidade de profissionalizados não efectivos mantêm, nos concursos subsequentes a que se submeterem para a categoria de efectivos, a situação referida no n.º 1 deste artigo.
+
+4 - O disposto nos números anteriores não é aplicável às situações decorrentes de licença ilimitada abrangidas pelo [Decreto-Lei n.º 122/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1980-473933), de 16 de Maio.
+
+###### Art. 8.º O artigo 23.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368) tem a seguinte redacção:
+
+###### Art. 23.º - 1 - As classificações profissionais dos docentes que fizeram a opção a que se refere a alínea b) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e requereram a realização da prova de avaliação nas condições previstas no n.º 3 do mesmo artigo serão publicadas no Diário da República até 31 de Dezembro de 1986.
+
+2 - Aos docentes que não tenham requerido a realização da prova referida no número anterior ou que, tendo-a requerido, não obtiveram aproveitamento serão dados por findos os respectivos provimentos provisórios como professores efectivos, passando à situação de professores provisórios com contrato anual na mesma escola e no mesmo grupo, subgrupo, disciplina ou especialidade em que se encontravam providos.
+
+3 - A alteração dos provimentos referida no número anterior verificar-se-á em 1 de Outubro de 1986 para os docentes que não tenham requerido a realização da prova e no dia seguinte ao da publicação do resultado no Diário da República para os que, tendo-a requerido, não obtiveram aproveitamento.
+
+4 - Para efeitos de candidatura ao concurso regulado pelo [Decreto Regulamentar Regional n.º 7/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1985-325556), de 16 de Abril, no ano de 1987, os docentes referidos no n.º 2 deste artigo integrar-se-ão na alínea d) do n.º 1 do artigo 3.º daquele diploma.
+
+5 - Os docentes referidos neste artigo integrar-se-ão na alínea e) do n.º 1 do artigo 2.º deste diploma, para efeitos de candidatura ao primeiro concurso a realizar após a data indicada no n.º 3 deste artigo, desde que reúnam as condições definidas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
+
+###### Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 6 de Março de 1986.
+
+**O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.**
+
+**Assinado em Angra do Heroísmo em 21 de Março de 1986.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**

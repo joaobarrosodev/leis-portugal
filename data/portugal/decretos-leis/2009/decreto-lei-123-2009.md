@@ -1,0 +1,2433 @@
+---
+schema_version: '1.0'
+id: pt:dre:608758:por
+title: Decreto-Lei n.º 123/2009
+short_title: null
+summary: Define o regime jurídico da construção, do acesso e da instalação de redes e infra-estruturas de comunicações electrónicas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 123/2009
+official_date: null
+publication_date: '2009-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2009, Série I de 2009-05-21
+  number: '98'
+  series: I
+  supplement: null
+  pages: 3253 - 3279
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09800/0325303279.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- Regime transitório consta no artigo 7.º do Decreto-Lei n.º 92/2017, de 31 de julho
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-11-15'
+version_history:
+  file: decreto-lei-123-2009.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-05-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-26'
+    amending: pt:dre:490675:por
+    amending_title: Decreto-Lei n.º 258/2009
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 67.º
+    - Altera Artigo 69.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 86.º
+    - Altera Artigo 89.º
+  - date: '2013-09-08'
+    amending: pt:dre:497859:por
+    amending_title: Lei n.º 47/2013
+    changes:
+    - Adita Artigo 94.º-A
+    - Adita Artigo 106.º-A
+    - Adita Artigo 107.º-A
+    - Adita Artigo 108.º-A
+    - Altera Artigo 19.º
+    - Altera Artigo 27.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Secção V
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+    - Altera Artigo 80.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+    - Altera Artigo 84.º
+    - Altera Artigo 86.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º
+    - Altera Artigo 90.º
+    - Altera Artigo 91.º
+  - date: '2015-01-01'
+    amending: pt:dre:66016527:por
+    amending_title: Lei n.º 82-B/2014
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 19.º
+    - Altera Artigo 34.º
+  - date: '2017-08-01'
+    amending: pt:dre:107785482:por
+    amending_title: Decreto-Lei n.º 92/2017
+    changes:
+    - Adita Artigo 9.º-A
+    - Adita Artigo 20.º-A
+    - Adita Artigo 24.º-A
+    - Adita Artigo 108.º-B
+    - Adita Anexo I
+    - Adita Anexo II
+    - Adita Anexo III
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Capítulo II
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Capítulo IV
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 36.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+  - date: '2019-11-15'
+    amending: pt:dre:123279819:por
+    amending_title: Decreto-Lei n.º 95/2019
+    changes:
+    - Altera Artigo 59.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/123/2009/p/cons/20190718/pt/html
+  oj: null
+  dre: '608758'
+  dre_path: /dr/detalhe/decreto-lei/123-2009-608758
+  internal: pt:dre:608758:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2009-608758
+  metadata_url: https://data.dre.pt/eli/dec-lei/123/2009/p/cons/20190718/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34550575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34550575
+  retrieved_at: '2026-10-22T11:52:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 70dbb380ab35905441cdebb5edd322ff5ce8bf3d66d440ec091a793defb5bab0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:52:07Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-123-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano Tecnológico
+- Multa
+- Entidade Certificadora
+- REDE Pública de Telecomunicações
+- Comunicações Eletrónicas
+- Controlo de Qualidade
+- Definição de Competências
+- Mudança Tecnológica
+- Equipamento
+- Fiscalização
+- Apoio ao Investimento
+- Instituto das Comunicações de Portugal
+- Sistema de Informação Centralizado
+- Licenciamento
+- Material Audiovisual
+- Normas de Segurança
+- Internet
+- Serviço Público
+- Prestação de Serviços
+- Proteção do Consumidor
+- REDE de NOVA Geração
+- Regime Jurídico
+- Sanção
+- Comércio Eletrónico
+- Prédio Urbano
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:490675:por
+  label: Altera Artigo 2.º; Altera Artigo 37.º; Altera Artigo 38.º; Altera Artigo 41.º; Altera Artigo 42.º; Altera Artigo
+    43.º; Altera Artigo 67.º; Altera Artigo 69.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 86.º; Altera Artigo
+    89.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675
+  date: '2009-09-25'
+- type: amended_by
+  target: pt:dre:497859:por
+  label: Adita Artigo 94.º-A; Adita Artigo 106.º-A; Adita Artigo 107.º-A; Adita Artigo 108.º-A; Altera Artigo 19.º; Altera
+    Artigo 27.º; Altera Artigo 37.º; Altera Artigo 38.º; Altera Artigo 39.º; Altera Artigo 41.º; Altera Artigo 42.º; Altera
+    Artigo 43.º; Altera Secção V; Altera Artigo 44.º; Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo 47.º; Altera Artigo
+    48.º; Altera Artigo 49.º; Altera Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859
+  date: '2013-07-10'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 19.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:107785482:por
+  label: Adita Artigo 9.º-A; Adita Artigo 20.º-A; Adita Artigo 24.º-A; Adita Artigo 108.º-B; Adita Anexo I; Adita Anexo II;
+    Adita Anexo III; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Capítulo II; Altera
+    Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo
+    13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482
+  date: '2017-07-31'
+- type: amended_by
+  target: pt:dre:123279819:por
+  label: Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/2003/01/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/2003/01/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/325
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/325
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/59/2000/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/2000/04/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/6/2008/01/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2008/01/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/46/2007/08/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/46/2007/08/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/120/2008/07/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/120/2008/07/30/p/dre
+article_structure:
+  article_count: 118
+  section_count: 30
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:52:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 123/2009
+
+A Resolução do Conselho de Ministros n.º 120/2008, de 30 de Julho, veio definir como prioridade estratégica para o País no sector das comunicações electrónicas a promoção do investimento em redes de nova geração.
+
+Contendo orientações estratégicas do Governo para as redes de nova geração (RNG) como sejam a abertura eficaz e não discriminatória de todas as condutas e outras infra-estruturas de todas as entidades que as detenham, a previsão de regras técnicas aplicáveis às infra-estruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios (ITUR), a adopção de soluções que eliminem ou atenuem as barreiras verticais à instalação de fibra óptica e que evitem a monopolização do acesso aos edifícios pelo primeiro operador, havia que definir um regime integrado, eventualmente complexo, mas que estabelecesse as linhas fundamentais de interacção, neste contexto, entre os vários agentes do processo tendente à operacionalização de redes de comunicações electrónicas.
+
+Neste contexto, no capítulo i estabelece-se que a concessionária do serviço público de telecomunicações continua sujeita ao regime, mais exigente, que resulta da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, e das medidas adoptadas pelo ICP-ANACOM no contexto do artigo 26.º daquela lei, não se aplicando a esta, por isso, o regime do presente decreto-lei no que se refere ao acesso a condutas, postes, outras instalações e locais detidos ou geridos por aquela. Salvaguarda-se, porém, a aplicação, à concessionária do serviço público de telecomunicações, das disposições do presente decreto-lei relativas à disponibilização de informação e cadastro das suas infra-estruturas, nos termos das regras e com as exigências do sistema de informação centralizado (SIC) previstas no capítulo iv. Até à implementação efectiva do SIC, o ICP-ANACOM, enquanto autoridade reguladora nacional, adapta os termos de disponibilização de informação sobre o acesso a condutas, postes, outras instalações e locais por parte da concessionária do serviço público de telecomunicações, de maneira a coordená-los com o SIC.
+
+Noutra perspectiva, excluem-se do âmbito de aplicação, pela sua especial natureza e fins a que estão afectas, as redes privativas dos órgãos políticos de soberania, do Ministério da Defesa Nacional, das forças e serviços de segurança, de emergência e de protecção civil.
+
+O presente decreto-lei fixa, igualmente, os princípios gerais enformadores de todo o regime, a saber, os princípios da concorrência, do acesso aberto, da não discriminação, da eficiência e da transparência.
+
+Os capítulos ii, iii e iv dirigem-se ao fomento da construção, instalação e acesso a infra-estruturas aptas ao alojamento de redes de comunicações electrónicas - numa abordagem tecnologicamente neutra - em bens detidos por entidades da área pública, abrangendo neste âmbito não apenas o Estado, as Regiões Autónomas e as autarquias locais, as entidades que estão sujeitas à sua tutela, ou superintendência, e que exerçam funções administrativas, independentemente da sua natureza empresarial, bem como, as empresas públicas, concessionárias ou outras entidades que detenham infra-estruturas instaladas no domínio público do Estado, Regiões Autónomas e das autarquias locais. Estabelece-se, assim, uma regra de acesso aberto e não discriminatório a condutas, postes e outras instalações pertencentes a entidades que, operando noutros sectores, são detentoras de redes de condutas de significativa importância.
+
+Com este regime pretende-se operar a remoção ou atenuação de barreiras à construção de infra-estruturas destinadas ao alojamento de redes de comunicações electrónicas, sendo previstas normas que, igualmente, visam facilitar a coordenação das intervenções no subsolo, nomeadamente pela obrigatoriedade de anunciar a realização de obras que viabilizem a construção de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas e admitir a associação de empresas deste sector a esta intervenção.
+
+Paralelamente, procede-se à criação de um sistema de informação centralizado (SIC) no qual se contém informação sobre o cadastro das infra-estruturas detidas pelas acima mencionadas entidades da área pública e pelos operadores de comunicações electrónicas.
+
+O capítulo ii incide especificamente sobre a construção de infra-estruturas. Neste regime destacam-se diversos aspectos.
+
+Desde logo, reafirma-se, nos termos da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, o direito de utilização do domínio público para a implantação, passagem ou atravessamento necessários à instalação de sistemas, equipamentos e demais recursos, através de procedimentos transparentes, céleres e não discriminatórios e adequadamente publicitados.
+
+Um outro aspecto relevante é o da harmonização de procedimentos, especialmente no relacionamento dos operadores com as autarquias locais, o que se reveste de importância inquestionável para eliminar incertezas e entraves à instalação de infra-estruturas aptas ao alojamento de redes de nova geração. Nesta medida, estabelece-se que a construção de infra-estruturas adequadas ao alojamento de redes de comunicações electrónicas está sujeita ao procedimento de comunicação prévia à câmara municipal previsto no regime jurídico da urbanização e edificação. Fixam-se, também, de forma taxativa as possíveis reacções à comunicação prévia e prevê-se que os elementos instrutórios que devem ser apresentados com a comunicação prévia são fixados por portaria a publicar nos termos do n.º 4 do artigo 9.º do regime jurídico da urbanização e edificação.
+
+No que respeita às taxas devidas pelos direitos de passagem nos bens do domínio público e privado municipal, o presente decreto-lei remete para a Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, a qual prevê a taxa municipal de direito de passagem (TMDP). Porém, e em cumprimento dos princípios constitucionais aplicáveis, é clarificado que neste âmbito não podem ser exigidas outras taxas, encargos ou remunerações pelos direitos de passagem, evitando-se, assim, a duplicação de taxas relativas ao mesmo facto.
+
+Desta forma procura-se a racionalização das intervenções nos espaços públicos, reduzindo o número de situações de obra em via pública e possibilitando uma redução dos encargos com a construção de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, sem sobrecarregar as entidades que promovem a construção.
+
+O capítulo iii - relativo ao acesso a infra-estruturas -contém um conjunto de disposições destinadas a assegurar o acesso aberto a infra-estruturas já existentes e a construir que, pelas suas características, estão aptas ao alojamento de redes de comunicações electrónicas, na linha do que foi preconizado pela Resolução do Conselho de Ministros n.º 120/2008, de 30 de Julho.
+
+Este direito só encontra limite perante a inaptidão das infra-estruturas para alojamento de redes de comunicações, quando a utilização das infra-estruturas inviabilize o fim principal para que as mesmas foram criadas, quando implique o incumprimento de obrigações de serviço público assumidas pelas entidades em causa, ou quando naquelas condutas não exista espaço disponível em consequência do seu estádio de ocupação, podendo ser condicionado ao respeito das instruções técnicas e de segurança estabelecidas pelas entidades detentoras das infra-estruturas ou do bem dominial onde estas se encontrem.
+
+O acesso a infra-estruturas consagrado neste capítulo deve ser assegurado em condições de igualdade, transparência e não discriminação e mediante condições remuneratórias orientadas para os custos.
+
+O efectivo exercício do direito de acesso nos termos definidos neste decreto-lei pressupõe a implementação de um sistema de informação centralizado (SIC), que é tratado no capítulo iv.
+
+O SIC conterá a informação considerada relevante para assegurar quer o direito de utilização do domínio público tutelado pelo capítulo ii, quer o direito de acesso a condutas e outras infra-estruturas aptas ao alojamento de redes de comunicações electrónicas previsto no capítulo iii.
+
+O SIC tem uma importância basilar para assegurar o acesso aberto e eficaz, por parte de todas as empresas de comunicações electrónicas, às infra-estruturas aptas ao alojamento das respectivas redes em conformidade como que preconizou a Resolução do Conselho de Ministros n.º 120/2008, de 30 de Julho. Trata-se, portanto, de um instrumento absolutamente estratégico no contexto do desenvolvimento de redes mas cuja utilidade ultrapassa o sector das comunicações electrónicas, podendo ser um poderoso auxiliar ao nível do planeamento de outras redes e do ordenamento do território.
+
+Esta componente estratégica imporá, naturalmente, que sejam adoptadas todas as regras necessárias a impedir o acesso não autorizado às informações que nele se contenham e que sejam consideradas confidenciais.
+
+Através do SIC será possível aceder à informação sobre os procedimentos e condições de que depende a atribuição de direitos de passagem, informações dos anúncios de construção de novas condutas e outras infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, informação completa e geo-referenciada de todas as infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, detidas por entidades da área pública e por empresas de comunicações electrónicas e informações sobre os procedimentos e condições aplicáveis ao acesso e utilização de cada uma das referidas infra-estruturas.
+
+Paralelamente, tanto as entidades da área pública, como as empresas de comunicações electrónicas, ficam obrigadas à elaboração de cadastros com todas as infra-estruturas que detenham e que sejam aptas ao alojamento de redes de comunicações electrónicas. As entidades adstritas a um dever de acesso às suas infra-estruturas devem, ainda, implementar um procedimento de resposta célere e não discriminatório a pedidos de informação por parte das empresas de comunicações electrónicas sobre tais infra-estruturas. O SIC possibilitará também que o ICP-ANACOM possa assegurar uma supervisão atenta e eficaz do cumprimento das obrigações previstas no presente decreto-lei.
+
+O SIC assenta num princípio de partilha de informação e de reciprocidade, a ele podendo aceder as entidades que assegurem o cumprimento das obrigações de informação que o integram.
+
+O capítulo v define, pela primeira vez e em cumprimento do determinado na Resolução do Conselho de Ministros n.º 120/2008, o regime jurídico aplicável às infra-estruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios (ITUR).
+
+Do seu regime destacam-se diversos aspectos.
+
+Estabelece-se o princípio de obrigatoriedade de construção das ITUR em fase de loteamento ou de urbanização, distinguindo-se duas realidades: i) as ITUR públicas, situadas em áreas públicas, as quais são obrigatoriamente constituídas por tubagens; e ii) as ITUR privadas, situadas em conjuntos de edifícios, as quais são constituídas por tubagem e cablagem. Para ambos os casos prevê-se que o ICP-ANACOM venha a emitir regras técnicas relativas ao projecto e instalação destas infra-estruturas, à semelhança do que existe hoje para as infra-estruturas de telecomunicações em edifícios (ITED).
+
+Estabelecem-se regimes distintos no que respeita à propriedade, gestão e acesso, consoante as ITUR sejam públicas ou privadas.
+
+Assim, em matéria de propriedade e gestão das ITUR públicas, estas integram o domínio público municipal, cabendo aos respectivos municípios a sua gestão e conservação, em conformidade com as normas fixadas no presente decreto-lei.
+
+Para este efeito, sobre o proprietário e demais titulares de direitos reais sobre o prédio a lotear recai a obrigação de ceder gratuitamente ao município as ITUR nele instaladas. Uma vez integradas no domínio público municipal, podem os respectivos municípios delegar em entidade autónoma por si seleccionada nos termos do Código dos Contratos Públicos a gestão e conservação das ITUR. A jusante, os procedimentos que venham a ser definidos pelos municípios com vista ao acesso às ITUR públicas por parte das empresas de comunicações electrónicas devem ser transparentes, céleres, não discriminatórios e adequadamente publicitados, devendo as condições aplicáveis ao exercício do direitos de acesso obedecer aos princípios da transparência e não discriminação, nos termos do capítulo iii.
+
+Quanto às ITUR privadas, estas integram as partes comuns dos conjuntos de edifícios e são detidas em compropriedade por todos os condóminos, cabendo à respectiva administração a sua gestão e conservação, em conformidade com o regime jurídico da propriedade horizontal e o regime proposto.
+
+Neste contexto, é de realçar a identificação das situações em que os proprietários ou as administrações dos conjuntos de edifícios se podem opor à instalação de uma infra-estrutura de telecomunicações para uso individual por qualquer condómino, arrendatário ou ocupante legal.
+
+Em matéria de acesso impõe-se aos promotores das obras, aos municípios e às entidades por si designadas (ITUR públicas) bem como aos proprietários e às administrações dos conjuntos de edifícios (ITUR privadas), a obrigação de garantir o acesso aberto, não discriminatório e transparente das empresas de comunicações electrónicas às ITUR, para efeitos de instalação, conservação, reparação e alteração das infra-estruturas.
+
+Ainda aqui cumpre distinguir o regime de acesso às ITUR públicas, onde pela instalação de cablagem e ocupação pode ser devida uma remuneração (orientada para os custos), e o acesso às ITUR privadas, que não pode ser condicionado ao pagamento de qualquer contrapartida financeira, ou de outra natureza, por parte dos proprietários ou administrações dos conjuntos de edifícios, sendo ainda proibida a celebração de acordos de exclusividade de acesso e nulo qualquer acordo que, em desrespeito pelo regime fixado, venha a ser celebrado.
+
+Prevê-se um regime para os técnicos ITUR (projectistas, instaladores, entidades formadoras), em grande parte alinhado com o enquadramento e as soluções que agora se propõem para os técnicos ITED.
+
+O capítulo vi estabelece o regime aplicável às infra-estruturas de telecomunicações em edifícios (ITED) e neste contexto consubstancia uma evolução do enquadramento definido pelo Decreto-Lei n.º 59/2000, de 19 de Abril, actualmente em vigor.
+
+Neste enquadramento, destacam-se diversos pontos.
+
+Prevê-se a obrigatoriedade da instalação de fibra óptica no âmbito das ITED, a qual acresce à obrigatoriedade de instalação de cobre e de cabo coaxial que já hoje vigora.
+
+Para além disso, procede-se à redefinição do regime de habilitação dos técnicos ITED (projectistas e instaladores). No enquadramento agora proposto não só se remete para as associações públicas de natureza profissional a identificação dos técnicos que considerem habilitados ao exercício da actividade de projectista ou instalador ITED, como se faz recair sobre essas mesmas associações a responsabilidade de proceder à actualização de conhecimentos dos técnicos nelas inscritos. Num cenário de migração para novas tecnologias como o que se vive presentemente, e com o particular destaque dado à expansão da fibra óptica, estas acções de formação revestem-se de particular importância.
+
+É também previsto o regime aplicável às alterações das ITED instaladas. Neste contexto, é de realçar, de forma idêntica ao regime das ITUR privadas, a fixação das situações em que os proprietários ou as administrações dos edifícios se podem opor à instalação de uma infra-estrutura de telecomunicações para uso individual por qualquer condómino, arrendatário ou ocupante legal.
+
+Em sede de regime transitório, ou seja, até à entrada em vigor do novo manual ITED, prevêem-se as regras aplicáveis tendo em vista o duplo objectivo de promover a instalação de fibra óptica nos edifícios e evitar a monopolização das infra-estruturas ITED pelo primeiro operador.
+
+O presente decreto-lei vem pois dar execução à necessidade clara de definição do enquadramento aplicável ao desenvolvimento e investimento por parte de investidores ou operadores de comunicações electrónicas em redes de nova geração, mas também para o funcionamento de um mercado que se quer concorrencial.
+
+Todos são chamados a intervir. Autarquias locais, operadores, comerciantes e instaladores, fabricantes e, naturalmente, consumidores de serviços de comunicações electrónicas, no sentido de levar mais longe o caminho do investimento na sociedade de informação.
+
+O presente decreto-lei foi submetido a consulta pública.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Objecto, princípios e definições
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece o regime aplicável à construção de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, à instalação de redes de comunicações electrónicas e à construção de infra-estruturas de telecomunicações em loteamentos, urbanizações, conjuntos de edifícios e edifícios.
+
+2 - O disposto no presente decreto-lei não prejudica o regime aplicável às redes e serviços de comunicações eletrónicas previsto na Lei n.º 5/2004, de 10 de fevereiro, a qual prevalece, em caso de conflito com as normas do presente decreto-lei.
+
+3 -  (Revogado.)
+
+4 - O regime previsto no presente decreto-lei não se aplica às redes privativas dos órgãos políticos de soberania, do membro do Governo responsável pela área da defesa nacional, ou sob sua responsabilidade, às redes das forças e serviços de segurança, de emergência e de proteção civil, sem prejuízo da possibilidade de estas entidades, querendo, poderem disponibilizar acesso às infraestruturas aptas ao alojamento de redes de comunicações eletrónicas que detenham, caso em que devem seguir o regime previsto no presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 2.º — Âmbito de aplicação
+
+As disposições dos capítulos ii, iii e iv aplicam-se:
+
+a) Ao Estado, às Regiões Autónomas e às autarquias locais;
+
+b) A todas as entidades sujeitas à tutela ou superintendência de órgãos do Estado, das Regiões Autónomas ou das autarquias locais, que exerçam funções administrativas, revistam ou não carácter empresarial, bem como às empresas públicas e às concessionárias, nomeadamente as que actuem na área das infra-estruturas rodoviárias, ferroviárias, portuárias, aeroportuárias, de abastecimento de água, de saneamento e de transporte e distribuição de gás e de electricidade;
+
+c) A outras entidades que detenham ou explorem infra-estruturas que se integrem no domínio público do Estado, das Regiões Autónomas e das autarquias locais.
+
+d) Às empresas de comunicações eletrónicas e às entidades que detenham ou explorem infraestruturas aptas utilizadas pelas primeiras no exercício da sua atividade;
+
+e) Às entidades que prestam serviços de produção, transporte ou distribuição de gás, de eletricidade, incluindo a iluminação pública, de aquecimento, de água, incluindo a eliminação ou o tratamento de águas residuais e esgotos e sistemas de drenagem, e que detenham ou explorem infraestruturas aptas ao alojamento de redes de comunicações eletrónicas e não se encontrem abrangidas pelas alíneas anteriores;
+
+f) Às entidades que prestam serviços de transporte, incluindo caminhos-de-ferro, estradas, portos e aeroportos, e que detenham ou explorem infraestruturas aptas ao alojamento de redes de comunicações eletrónicas e não se encontrem abrangidas pelas alíneas anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 3.º — Definições
+
+1 - Para os efeitos do disposto no presente decreto-lei entende-se por:
+
+a) «Acesso», disponibilização de infra-estruturas físicas, incluindo edifícios, condutas, postes, caixas, câmaras-de-visita, armários e instalações para alojamento, instalação e remoção de sistemas de transmissão, equipamentos ou recursos de redes de comunicações electrónicas, bem como para a realização de intervenções correctivas e desobstruções;
+
+b) «Armário de telecomunicações de edifício» (ATE), dispositivo de acesso restrito, onde se encontram alojados os repartidores gerais, que permitem a interligação entre as redes de edifício e as redes das empresas de comunicações electrónicas, ou as provenientes das infra-estruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios (ITUR);
+
+c) «Conjunto de edifícios», conjunto de edifícios contíguos funcionalmente ligados entre si pela existência de partes comuns afectas ao uso de todas ou algumas unidades ou fogos que os compõem, independentemente de estarem ou não constituídos em regime de propriedade horizontal;
+
+d) «Conduta», tubo ou conjunto de tubos, geralmente subterrâneos, ou dispostos ao longo de vias de comunicações, que suportam, acondicionam e protegem outros tubos (subcondutas) ou cabos de comunicações electrónicas;
+
+e) «Direito de passagem», faculdade de aceder e utilizar bens do domínio público, para construção, instalação, alteração e reparação de infra-estrutura apta ao alojamento de redes de comunicações electrónicas ou para reparação de cabos, sistemas, equipamentos ou quaisquer outros recursos ou elementos de redes de comunicações electrónicas;
+
+f) «Empresa de comunicações electrónicas», entidade que, nos termos da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, oferece redes ou serviços de comunicações electrónicas acessíveis ao público;
+
+g) «Fogo», fracção de um edifício que forma uma unidade independente, esteja ou não o edifício constituído em regime de propriedade horizontal;
+
+h) 'Infraestruturas aptas ao alojamento de redes de comunicações eletrónicas' ou 'infraestruturas aptas' a infraestrutura física que constitui um elemento de uma rede que se destina a alojar outros elementos de rede, sem se tornar, ele próprio, um elemento ativo da rede, tais como tubagens, postes, mastros, condutas, caixas, câmaras de visita, armários, edifícios ou entradas de edifícios, instalações de antenas, torres, respetivos acessórios e quaisquer infraestruturas associadas que sejam passíveis de ser utilizadas para o alojamento ou manutenção de cabos de comunicações eletrónicas, equipamentos ou quaisquer recursos de redes de comunicações, bem como dispositivos de derivação, juntas ou outros equipamentos necessários à transmissão de comunicações eletrónicas naquelas redes;
+
+i) «Instalador», pessoa singular ou colectiva habilitada a proceder à instalação e alteração de infra-estruturas de telecomunicações, de acordo com os projectos, bem como executar trabalhos de conservação das mesmas em loteamentos, urbanizações, edifícios e conjuntos de edifícios, nos termos do presente decreto-lei;
+
+j) «Instrução técnica», o conjunto de regras e procedimentos previstos nos capítulos ii e iii da presente lei relativos à elaboração dos projectos e à instalação das infra-estruturas aptas para alojamento de redes de comunicações electrónicas ou à instalação de redes em infra-estruturas já existentes, estabelecidas pela entidade a quem cabe a sua administração e gestão;
+
+l) 'Manual ITED' o conjunto das prescrições técnicas de projeto, instalação e ensaio, bem como das especificações técnicas de materiais, dispositivos e equipamentos que constituem as infraestruturas de telecomunicações em edifícios (ITED), bem como os procedimentos a aprovar pela ANACOM;
+
+m) 'Manual ITUR' o conjunto das prescrições técnicas de projeto, instalação e ensaio, bem como das especificações técnicas de materiais, dispositivos e equipamentos, que constituem as ITUR, bem como os procedimentos a aprovar pela ANACOM;
+
+n) 'Obras' a construção, reconstrução, ampliação, alteração, reparação, conservação, restauro, adaptação e beneficiação de imóveis, bem como das infraestruturas abrangidas pelo presente decreto-lei;
+
+o) 'Obras de escassa relevância urbanística' as obras previstas como tal no regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, bem como a construção, por empresas de comunicações eletrónicas, de infraestruturas aptas com menos de 10 metros lineares de extensão;
+
+p) 'Ponto de acesso' um ponto físico, situado dentro ou fora do edifício, acessível às entidades que fornecem ou estão autorizadas a fornecer redes de comunicações públicas, mediante o qual é disponibilizada uma ligação à infraestrutura física no edifício, tal como identificado no manual ITED;
+
+q) «Projectista», pessoa singular ou colectiva habilitada a proceder à elaboração de projectos de instalação e alteração de infra-estruturas de telecomunicações em loteamentos, urbanizações, conjuntos de edifícios e edifícios, nos termos do presente decreto-lei;
+
+r) 'Projeto técnico simplificado' o projeto técnico, no âmbito do ITUR ou do ITED, respeitante apenas à tecnologia que se pretende instalar;
+
+s) 'Rede de comunicações eletrónicas' os sistemas de transmissão e, se for o caso, os equipamentos de comutação ou encaminhamento e os demais recursos, nomeadamente elementos de rede que não se encontrem ativos, que permitem o envio de sinais por cabo, meios radioelétricos, meios óticos ou por outros meios eletromagnéticos, incluindo as redes de satélites, as redes terrestres fixas (com comutação de circuitos ou de pacotes, incluindo a Internet) e móveis, os sistemas de cabos de eletricidade, na medida em que sejam utilizados para a transmissão de sinais, as redes de radiodifusão sonora e televisiva e as redes de televisão por cabo, independentemente do tipo de informação transmitida;
+
+t) «Rede de tubagens ou tubagem», conjunto de tubos, calhas, caminhos de cabos, caixas e armários, destinados à passagem de cabos e ao alojamento de dispositivos e equipamentos;
+
+u) (Revogada.)
+
+v) «Rede pública de comunicações electrónicas», rede de comunicações electrónicas utilizada total ou parcialmente para o fornecimento de serviços de comunicações electrónicas acessíveis ao público;
+
+x) 'Remuneração do acesso' o valor a pagar pelas empresas de comunicações eletrónicas acessíveis ao público pela utilização das infraestruturas aptas, para efeitos de instalação, alojamento, reparação, manutenção preventiva e remoção de cabos;
+
+z) «Sistemas de cablagem tipo A», sistemas de cablagem, incluindo antenas, para a recepção e distribuição de sinais sonoros e televisivos por via hertziana terrestre;
+
+aa) 'Sistema de informação de infraestruturas aptas (SIIA)' o sistema que assegura a disponibilização de informação relativa às infraestruturas aptas ao alojamento de redes de comunicações eletrónicas, nos termos do artigo 24.º
+
+2 - Para efeitos da alínea h) do número anterior, deve-se entender o seguinte:
+
+a) Nas infraestruturas associadas incluem-se ramais de acesso a edifícios e restantes infraestruturas que forem indispensáveis à instalação, remoção, manutenção ou reparação de cabos de comunicações eletrónicas nas condutas e subcondutas;
+
+b) Não constituem infraestruturas aptas os cabos, incluindo a fibra escura, bem como os elementos de rede efetivamente utilizados para o fornecimento de água destinada ao consumo humano.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 4.º — Princípios gerais
+
+1 - O regime previsto no presente decreto-lei obedece aos princípios da concorrência, do acesso aberto, da igualdade e não discriminação, da eficiência, da transparência, da neutralidade tecnológica e da não subsidiação cruzada entre sectores.
+
+2 - A ANACOM deve, no âmbito de aplicação do presente decreto-lei e em matérias de interesse comum, solicitar a cooperação, sempre que necessário, das autoridades e serviços competentes, nomeadamente das entidades reguladoras setoriais.
+
+3 - Em matérias do setor elétrico, do gás natural, do petróleo bruto e de produtos de petróleo, a pronúncia da Entidade Reguladora dos Serviços Energéticos e da Direção-Geral de Energia e Geologia tem caráter vinculativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+### Capítulo II — Construção e ampliação de infraestruturas aptas
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 5.º — Expropriações, servidões e direitos de passagem das empresas de comunicações electrónicas
+
+1 - Às empresas de comunicações electrónicas são garantidos, no âmbito do presente decreto-lei, os direitos estabelecidos nas alíneas a) e b) do n.º 1 do artigo 24.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro.
+
+2 - O disposto nos n.os 5 e 6 do artigo 24.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, é aplicável à atribuição dos direitos referidos no número anterior, nos termos dessa lei.
+
+3 - A atribuição dos direitos de passagem, a que se refere o n.º 1, é efectuada através de licença, nos termos do artigo seguinte e do regime legal aplicável aos bens do domínio público.
+
+###### Artigo 6.º — Procedimentos para a atribuição de direitos de passagem em domínio público às empresas de comunicações electrónicas
+
+1 - Compete às entidades referidas no artigo 2.º estabelecer regulamentos contendo os procedimentos para a atribuição de direitos de passagem em domínio público, previsto no artigo anterior, se for o caso, incluindo as instruções técnicas referidas no artigo 11.º, as quais devem obedecer aos princípios estabelecidos nos n.os 3 e 4 do artigo 24.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro.
+
+2 - Os procedimentos para a atribuição de direitos de passagem em bens do domínio público sob gestão das entidades referidas no artigo 2.º, a estabelecer nos termos dos n.os 3 e 4 do artigo 24.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, devem, preferencialmente, ser tramitados por meios eletrónicos e devem conter:
+
+a) Os elementos que devem instruir o pedido para a construção e instalação de infra-estruturas, bem como a entidade a quem o mesmo deve ser dirigido;
+
+b) As disposições relativas à reserva de espaço em condutas e outras infra-estruturas para administração e utilização pela entidade administradora do bem dominial ou pela entidade por esta designada, quando aplicável;
+
+c) As obrigações de reparação de infra-estruturas que sejam danificadas em consequência da intervenção para instalação e ou reparação de tubos, cabos, condutas, caixas de visita, postes, equipamentos e outros recursos;
+
+d) As cauções ou outra garantia de reposição do local onde foi promovida a instalação de infra-estruturas nas suas condições normais de utilização;
+
+e) Os procedimentos de desobstrução de infra-estruturas;
+
+f) As regras relativas ao anúncio prévio destinado a captar a adesão à intervenção a realizar, de outras empresas de comunicações electrónicas que, na mesma área, pretendam instalar infra-estruturas de suporte a sistemas e equipamentos das suas redes.
+
+3 - As entidades responsáveis pela fixação dos procedimentos para a atribuição dos direitos de passagem devem assegurar a sua disponibilização no SIC a que se refere o capítulo iv.
+
+4 - Os procedimentos para a atribuição dos direitos de passagem a estabelecer pelas entidades concessionárias previstas na alínea b) do artigo 2.º, relativamente a bens do domínio público que estejam sob sua gestão, carecem de prévia aprovação da entidade concedente, a qual deve ser proferida no prazo máximo de 20 dias a contar da sua recepção.
+
+5 - Caso o prazo referido no número anterior seja excedido sem que tenha havido qualquer decisão, consideram-se os respectivos procedimentos aprovados.
+
+6 - O procedimento de atribuição de direitos de passagem relativamente a bens integrados no domínio público municipal é instruído em conformidade com o presente artigo, não podendo decorrer mais de 30 dias entre a data de apresentação do pedido e a sua decisão, correspondendo o decurso deste prazo sem que a câmara municipal se pronuncie à atribuição do direito de passagem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 7.º — Construção por empresas de comunicações eletrónicas de infraestruturas aptas
+
+1 - Sem prejuízo do disposto no artigo anterior, a construção por empresas de comunicações eletrónicas de infraestruturas aptas, fora do âmbito das operações de loteamento, de urbanização ou edificação, rege-se pelo presente decreto-lei, bem como pelo procedimento de comunicação prévia previsto nos artigos 34.º e 35.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, com as subsequentes alterações, excecionando-se deste regime:
+
+a) A instalação e funcionamento das infra-estruturas sujeitas a autorização municipal nos termos do Decreto-Lei n.º 11/2003, de 18 de Janeiro;
+
+b) As obras necessárias para evitar situações que ponham em causa a saúde e a segurança públicas, bem como as obras para a reparação de avarias ou resolução de desobstruções.
+
+2 - Nos casos referidos na alínea b) do número anterior, deve a empresa proceder, no dia útil seguinte, à comunicação ao município da realização das obras, pelos meios de comunicação disponíveis e que se mostrarem mais adequados.
+
+3 - Os elementos instrutórios da comunicação prévia são fixados de acordo com o previsto no n.º 4 do artigo 35.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, neles se incluindo obrigatoriamente:
+
+a) Comprovativo do anúncio prévio de realização das obras de construção, realizado no prazo e nos termos previstos no artigo 9.º;
+
+b) Extrato da consulta ao SIIA, do qual resulte a ausência de informação no SIIA relativa a infraestruturas aptas integradas no domínio público que permitam satisfazer as necessidades da empresa de comunicações eletrónicas interessada, ou comprovativo da recusa de acesso com fundamento numa das situações previstas no n.º 2 do artigo 14.º e no artigo 15.º;
+
+c) Comprovativo do deferimento do pedido de atribuição de direito de passagem ou do decurso do prazo, previsto nos n.os 4 e 6 do artigo anterior, se for aplicável ao caso.
+
+4 - O mero acesso físico a infraestruturas aptas para instalação ou manutenção de cabos de comunicações eletrónicas, equipamentos ou quaisquer recursos de redes de comunicações, bem como dispositivos de derivação, juntas ou outros equipamentos necessários à transmissão de comunicações eletrónicas naquelas redes, não configura obras de construção, pelo que não está abrangido pelo presente artigo.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Nota: [Artigo 7.º, Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482) O regime de comunicação prévia estabelecido no presente artigo, aplica-se apenas a procedimentos iniciados após a data de entrada em vigor do Decreto-Lei n.º 92/2017, de 31 de julho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 8.º — Obrigações das empresas de comunicações electrónicas perante os municípios
+
+Quando efectuem obras no domínio público municipal, as empresas de comunicações electrónicas ficam obrigadas:
+
+a) À reposição de pavimentos, espaços verdes e de utilização colectiva, quando existentes;
+
+b) À reparação das infra-estruturas que sejam danificadas em consequência da intervenção.
+
+###### Artigo 9.º — Publicitação de realização de obras de construção ou ampliação de infraestruturas
+
+1 - Salvo nas situações previstas no capítulo v, sempre que projectem a realização de obras que viabilizem a construção ou ampliação de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas, as entidades referidas no artigo 2.º devem tornar pública essa intenção, de forma a permitir que as empresas de comunicações electrónicas se associem à obra projectada.
+
+2 - As empresas de comunicações electrónicas podem associar-se às obras projectadas tendo em vista, designadamente, a construção ou ampliação, de forma isolada ou conjunta, de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas.
+
+3 - O anúncio de realização de obras previsto no n.º 1 deve ser disponibilizado no SIIA, pelas respetivas entidades promotoras, com a antecedência mínima de 20 dias em relação à data de início da sua execução, de acordo com o previsto na alínea b) do n.º 1 do artigo 25.º
+
+4 - Para efeitos do disposto no presente artigo, as entidades devem disponibilizar no SIIA as características da intervenção a realizar, indicando, designadamente, o local, o tipo de obra e os elementos de rede em causa, o prazo previsto para o início das obras e a sua duração, os encargos e outras condições a observar, bem como o prazo para adesão à obra a realizar, ponto de contacto para a obtenção de esclarecimentos e eventuais disposições preclusivas de futuras intervenções na área visada pela notificação.
+
+5 - O prazo para adesão à obra a realizar referido no número anterior não pode ser inferior a 15 dias a contar da data da publicação do anúncio no SIIA.
+
+6 - As empresas de comunicações eletrónicas que pretendam associar-se à intervenção anunciada devem, durante o prazo referido no número anterior, solicitar à entidade promotora da intervenção a associação à obra a realizar, especificando a zona prevista para a implantação dos elementos da rede de comunicações eletrónicas.
+
+7 - Sem prejuízo do disposto nos números anteriores, a entidade promotora da intervenção pode, no decurso da mesma, permitir a adesão à obra de outras entidades, de forma não discriminatória.
+
+8 - A publicitação da realização de obras de construção ou a adesão às mesmas não exonera as respetivas entidades promotoras das obrigações de acesso fixadas no capítulo iii.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 9.º-A — Exceções às obrigações de publicitação e de associação
+
+1 - O cumprimento das obrigações de publicitação e de associação de realização de obras de construção previstas no artigo anterior pode ser dispensado nos seguintes casos:
+
+a) Infraestruturas críticas nacionais, como tal qualificadas nos termos da lei;
+
+b) Quando a publicitação implique a divulgação de informação cujo acesso deva ser restringido por motivos de segurança e integridade das redes e segurança e saúde públicas.
+
+2 - O pedido de dispensa, fundamentado nos termos do número anterior, é apresentado pela entidade promotora da obra de construção à ANACOM, preferencialmente por via eletrónica, e deve identificar as entidades que, em razão da matéria, se devam pronunciar sobre o mesmo.
+
+3 - Compete à ANACOM decidir os casos em que é justificada a dispensa, ouvidos, consoante a matéria, o Gabinete Nacional de Segurança, a Comissão de Acesso aos Documentos Administrativos e demais entidades públicas com atribuições sobre a matéria, incluindo-se a Direção-Geral de Energia e Geologia nos casos relativos a infraestruturas do setor elétrico ou do gás natural e transporte de petróleo bruto e de produtos de petróleo.
+
+4 - A ANACOM pode tipificar casos de dispensa, após consulta pública e audição das entidades a que se refere o número anterior.
+
+5 - Aos pareceres do Gabinete Nacional de Segurança e da Comissão de Acesso aos Documentos Administrativos, previstos nos números anteriores, aplica-se o disposto no artigo 92.º do Código do Procedimento Administrativo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 10.º — Custos associados à construção ou ampliação de infraestruturas aptas
+
+1 - As empresas de comunicações electrónicas devem suportar a quota-parte do custo de investimento da obra, correspondente ao diferencial de custos de investimento que a sua associação vier a originar.
+
+2 - O disposto no número anterior não prejudica o direito de acesso à infra-estrutura, nos termos do presente decreto-lei, devendo, a remuneração desse acesso, ter em conta o montante já incorrido pela empresa de comunicações com o investimento feito na obra.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 11.º — Instruções técnicas aplicáveis à construção ou ampliação de infraestruturas aptas
+
+1 - Compete às entidades referidas no artigo 2.º, quando o considerem justificado, fixar e manter atualizadas instruções técnicas aplicáveis à construção ou ampliação de infraestruturas aptas, as quais devem ser publicitadas no SIIA, no prazo máximo de cinco dias a contar da data da sua aprovação.
+
+2 - As instruções técnicas devem ter em consideração as especificidades das infraestruturas a que se destinam e promover soluções técnicas e de segurança mais apropriadas para efeitos de instalação, reparação, manutenção, remoção e interligação das infraestruturas, assegurando o cumprimento dos princípios estabelecidos no artigo 4.º
+
+3 - As empresas de comunicações eletrónicas apenas estão vinculadas ao cumprimento de instruções técnicas publicadas no SIIA na data em que for apresentado o pedido de atribuição de direito de passagem a que se refere o artigo 6.º ou a comunicação prévia prevista no artigo 7.º
+
+4 - O ICP-ANACOM pode, sempre que considerar justificado, emitir orientações aplicáveis à definição das instruções técnicas previstas no número anterior.
+
+5 - As orientações referidas no número anterior carecem de audição prévia das entidades públicas com atribuições sobre a matéria em causa, designadamente a Direção-Geral de Energia e Geologia no caso de infraestruturas do setor elétrico ou do setor do gás natural e transporte de petróleo bruto e de produtos de petróleo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 12.º — Taxas pela utilização e aproveitamento do domínio público e privado
+
+1 - Pela utilização e aproveitamento dos bens do domínio público e privado municipal, que se traduza na construção ou instalação de infraestruturas aptas, por parte de empresas que ofereçam redes e serviços de comunicações eletrónicas acessíveis ao público, é devida a taxa municipal de direitos de passagem, nos termos do artigo 106.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, não sendo permitida a cobrança de quaisquer outras taxas, encargos ou remunerações por aquela utilização e aproveitamento, sem prejuízo do disposto no artigo 13.º
+
+2 - As autarquias locais, com observância do princípio da igualdade e da não discriminação, podem optar por não cobrar a taxa a que se refere o número anterior, tendo em vista a promoção do desenvolvimento de redes de comunicações eletrónicas, não podendo nesse caso, em sua substituição ou complemento, aplicar e cobrar quaisquer outras taxas, encargos ou remunerações.
+
+3 - À utilização do domínio público e privado do Estado e das Regiões Autónomas é aplicável o disposto no n.º 5 do artigo 106.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 183.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+### Capítulo III — Acesso a infra-estruturas aptas ao alojamento de redes de comunicações electrónicas
+
+###### Artigo 13.º — Direito de acesso a infraestruturas aptas
+
+1 - As entidades referidas no artigo 2.º estão obrigadas a assegurar às empresas de comunicações eletrónicas o acesso às infraestruturas aptas ao alojamento de redes de comunicações eletrónicas que detenham ou cuja gestão lhes incumba.
+
+2 - O acesso referido no número anterior deve ser assegurado em condições justas e razoáveis, de igualdade, transparência e não discriminação, mediante condições remuneratórias orientadas para os custos, nos termos do artigo 19.º
+
+3 - Os procedimentos para a obtenção do direito de acesso devem ser céleres, transparentes e adequadamente publicitados, devendo ser assegurado que qualquer pedido de acesso é apreciado e respondido no prazo máximo de 20 dias após a efetiva receção do pedido de acesso por parte da entidade competente, nos termos do n.º 2 do artigo 20.º
+
+4 - Pela utilização de infraestruturas aptas que pertençam ao domínio público ou privativo das autarquias locais é devida a remuneração a que se refere o artigo 19.º
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 183.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 14.º — Proibição de utilização exclusiva das infraestruturas aptas
+
+1 - São proibidas e nulas as cláusulas contratuais que prevejam a ocupação em exclusivo por uma empresa de comunicações eletrónicas, ou por uma das entidades referidas no artigo 2.º, ou por ambas em conjunto, das infraestruturas aptas.
+
+2 - O disposto no número anterior não prejudica que as entidades referidas no artigo 2.º possam prever reserva de espaço para uso próprio nas infraestruturas aptas, construídas e a construir, desde que tal reserva esteja devidamente fundamentada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 15.º — Recusa de acesso às infraestruturas aptas
+
+As entidades referidas no artigo 2.º só podem recusar o acesso às infraestruturas aptas que detenham ou estejam sob a sua gestão, de forma devidamente fundamentada, nas seguintes situações:
+
+a) Quando transitoriamente seja inviável, por razões técnicas, o alojamento de redes de comunicações eletrónicas nas infraestruturas em causa ou haja risco de os serviços de comunicações eletrónicas previstos interferirem de forma grave na oferta de outros serviços através das mesmas infraestruturas;
+
+b) Quando a utilização das infraestruturas pelas empresas de comunicações eletrónicas inviabilize o fim principal para que aquelas foram instaladas, ponha em causa a saúde pública e a segurança de pessoas ou bens ou venha a causar sério risco de incumprimento, pelas entidades referidas no artigo 2.º, de regras legais, regulamentares ou técnicas em matéria de obrigações de serviço público a que a respetiva prestação de serviço se encontre sujeita;
+
+c) Quando não haja espaço disponível em consequência do seu estado de ocupação ou da necessidade de assegurar espaço para uso próprio, nos termos do n.º 2 do artigo anterior, ou para intervenções de manutenção e reparação;
+
+d) Quando ponha em causa a integridade e a segurança das redes, em particular das infraestruturas críticas nacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 16.º — Procedimentos em caso de recusa de acesso às infraestruturas aptas
+
+1 - Quando, num caso concreto, uma entidade referida no artigo 2.º tenha recusado o acesso a infraestrutura, pode ser solicitada, por qualquer das partes envolvidas, a intervenção da ANACOM para proferir decisão vinculativa sobre a matéria e, se necessário, fixar as condições de acesso e utilização, incluindo a remuneração que deve ser aplicada nos termos do artigo 19.º
+
+2 - O pedido de intervenção referido no número anterior deve identificar as infra-estruturas a verificar, o seu traçado e afectação principal, bem como quaisquer outros elementos considerados relevantes para a avaliação da possibilidade de utilização das infra-estruturas em causa para o alojamento de redes de comunicações electrónicas.
+
+3 - Compete à ANACOM decidir sobre a possibilidade de, nas infraestruturas em questão, serem alojadas redes de comunicações eletrónicas, devendo, para o efeito, ouvir a entidade detentora ou gestora das infraestruturas, a respetiva entidade reguladora setorial, quando existente, bem como a Direção-Geral de Energia e Geologia nos casos relativos a infraestruturas do setor elétrico ou do gás natural e transporte de petróleo bruto e de produtos de petróleo, ou outra entidade pública com atribuições sobre a matéria e que seja indicada pela entidade detentora ou gestora das infraestruturas, bem como o requerente, sempre que o pedido seja apresentado por terceiros.
+
+4 - Para efeitos do disposto no número anterior, as entidades consultadas devem pronunciar-se no prazo máximo de 15 dias, correspondendo a não emissão de parecer dentro deste prazo à emissão de parecer favorável.
+
+5 - Quando a decisão da ANACOM seja, total ou parcialmente, contrária aos pareceres das entidades públicas consultadas, emitidos nos termos do número anterior, aquela deve ser devidamente fundamentada, justificando especificamente as razões para o não acolhimento das conclusões constantes daqueles pareceres.
+
+6 - Na resolução dos litígios a que se refere o presente artigo, a ANACOM deve assegurar o respeito pelo contraditório e ter em conta o princípio da proporcionalidade, na vertente da proibição do excesso, e os princípios previstos no artigo 4.º do presente decreto-lei, devendo seguir as regras de procedimento previstas no artigo 10.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, com as seguintes adaptações:
+
+a) Salvo circunstâncias excecionais, a decisão da ANACOM deve ser proferida no prazo máximo de 120 dias a contar da data da receção do pedido de intervenção completo, desde que o requerente faculte à ANACOM todos os elementos e informações necessários para a conformação dos factos e da matéria objeto de litígio;
+
+b) Quando o litígio esteja relacionado com o acesso a infraestruturas aptas detidas por empresas de comunicações eletrónicas, a ANACOM deve ter em consideração os objetivos de regulação estabelecidos no artigo 5.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro.
+
+7 - Em fase anterior à recusa de acesso podem as entidades referidas no artigo 2.º, numa situação concreta, solicitar a intervenção do ICP-ANACOM quando tenham dúvidas sobre a aplicabilidade de algum dos fundamentos de recusa previstos no artigo 15.º
+
+8 - O pedido de intervenção da ANACOM deve ser solicitado no prazo máximo de um ano a contar da data do início do litígio, findo o qual a ANACOM pode recusar-se a intervir.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 17.º — Obrigações gerais das entidades detentoras das infraestruturas aptas
+
+As entidades referidas no artigo 2.º que detenham a posse ou a gestão de infraestruturas aptas estão sujeitas às seguintes obrigações, nos termos do presente decreto-lei:
+
+a) (Revogada.)
+
+b) Elaborar cadastro com informação georreferenciada das infraestruturas aptas, nos termos previstos no capítulo iv;
+
+c) Elaborar e publicitar os procedimentos e condições de acesso e utilização das referidas infra-estruturas, nos termos do previsto nos artigos 18.º, 19.º e 21.º;
+
+d) Dar resposta aos pedidos de acesso às respectivas infra-estruturas, nos termos do artigo 20.º;
+
+e) Dar resposta a pedidos de informação sobre as respectivas infra-estruturas, nos termos do n.º 4 do artigo 24.º;
+
+f) Informar a ANACOM sobre as empresas de comunicações eletrónicas cujas redes se encontram instaladas nas infraestruturas aptas que detenham ou cuja gestão lhes incumba, no prazo previsto no n.º 2 do artigo 23.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 18.º — Procedimentos e condições aplicáveis ao acesso e utilização das infraestruturas aptas
+
+1 - As entidades sujeitas ao dever de acesso devem elaborar e disponibilizar no SIC regras relativas aos procedimentos e condições para o acesso e utilização das infra-estruturas, que devem conter, entre outros, os seguintes elementos:
+
+a) A entidade a quem devem ser dirigidos os pedidos de acesso e utilização para instalação, manutenção e reparação de redes de comunicações electrónicas a alojar nessas infra-estruturas, bem como os órgãos ou pontos de contacto a quem devem dirigir-se para esse efeito;
+
+b) Os elementos que devem instruir o pedido;
+
+c) Os prazos dos direitos de acesso e utilização, os procedimentos e as condições de renovação de tais direitos;
+
+d) As condições contratuais tipo aplicáveis, os formulários e a descrição de elementos e informações que devem constar do processo;
+
+e) As condições remuneratórias aplicáveis ao acesso e utilização das infra-estruturas;
+
+f) As instruções técnicas estabelecidas para a utilização das infra-estruturas;
+
+g) As sanções por incumprimento ou utilização indevida das infra-estruturas;
+
+h) Outras exigências que condicionem a atribuição de direitos de utilização.
+
+2 - Os procedimentos e condições aplicáveis ao acesso e utilização, a estabelecer pelas entidades concessionárias previstas na alínea b) do artigo 2.º, carecem de prévia aprovação da entidade concedente, a qual deve ser proferida no prazo máximo de 20 dias a contar da sua recepção.
+
+3 - Caso o prazo referido no número anterior seja excedido sem que tenha havido qualquer decisão, consideram-se os respectivos procedimentos e condições aprovados.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 19.º — Remuneração do acesso às infraestruturas aptas
+
+1 - A remuneração pelo acesso e utilização das infraestruturas detidas ou cuja gestão incumba às entidades referidas no artigo 2.º deve ser orientada para os custos, atendendo ao seguinte:
+
+a) Custos decorrentes da construção, manutenção, reparação e melhoramento das infraestruturas em questão;
+
+b) Custos administrativos incorridos com o tratamento dos pedidos, nomeadamente dos pedidos de instalação, de reparação ou remoção de cabos ou outros elementos de redes de comunicações eletrónicas;
+
+c) Custos de acompanhamento de intervenções.
+
+2 - (Revogado.)
+
+3 - Nas infraestruturas detidas ou geridas pelas autarquias locais, a definição da metodologia a utilizar para a fixação do valor da remuneração como contrapartida pelo acesso e utilização das infraestruturas aptas e da respetiva remuneração é da competência dos respetivos órgãos, nos termos previstos no regime jurídico das autarquias locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, e regime geral das taxas das autarquias locais, aprovado pela Lei n.º 53-E/2006, de 29 de dezembro.
+
+4 - Nas infraestruturas detidas ou geridas pelas demais entidades referidas no artigo 2.º, a ANACOM aprova, para efeitos do disposto no n.º 1, por regulamento, a metodologia a utilizar para a fixação do valor da remuneração a pagar pelas empresas de comunicações eletrónicas como contrapartida pelo acesso e utilização das infraestruturas aptas, ouvidas as entidades reguladores competentes, designadamente a Entidade Reguladora do Setor Elétrico para o setor elétrico ou setor do gás natural e transporte de petróleo bruto e de produtos de petróleo.
+
+5 - A metodologia prevista no número anterior deve permitir apurar o valor da remuneração do investimento realizado com a construção das infraestruturas, bem como o valor da remuneração que é devida como contrapartida pela gestão e manutenção das infraestruturas a assegurar pela entidade que é responsável pela sua exploração.
+
+6 - Sempre que, a pedido das empresas de comunicações eletrónicas ou de qualquer das entidades referidas no artigo 2.º, seja necessário apurar a adequação da remuneração solicitada com a metodologia fixada, a entidade gestora da infraestrutura deve facultar à ANACOM, no prazo máximo de 30 dias, os elementos demonstrativos da adequação da remuneração, bem como todos os elementos que lhe sejam pedidos por esta entidade para aquela avaliação.
+
+7 - Em caso de litígio sobre as condições específicas aplicáveis, incluindo o preço e respetivas condições de pagamento, as partes podem recorrer à ANACOM, decorridos 30 dias sobre a data da receção do pedido de acesso, aplicando-se, sem prejuízo do disposto nas alíneas seguintes, o regime de resolução de litígios previsto na Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, com as seguintes adaptações:
+
+a) Salvo circunstâncias excecionais, a decisão da ANACOM deve ser proferida num prazo máximo de 60 dias a contar da data da receção do pedido de intervenção, desde que o requerente faculte à ANACOM todos os elementos e informações necessários para a conformação dos factos e da matéria objeto de litígio;
+
+b) A ANACOM deve decidir de acordo com o disposto no presente decreto-lei e, na falta de outro critério, considerará as condições habitualmente fixadas nas demais ofertas de acesso a infraestruturas ou as condições estabelecidas em ofertas por ela reguladas.
+
+8 - Nos procedimentos previstos nos n.os 6 e 7, sempre que esteja em causa o acesso a infraestruturas detidas por entidade sujeita a regulação, a ANACOM deve consultar a respetiva entidade reguladora setorial, a qual deve pronunciar-se no prazo máximo improrrogável de 15 dias, correspondendo a não emissão de parecer dentro deste prazo à emissão de parecer favorável.
+
+9 - Quando a decisão do ICP-ANACOM seja, total ou parcialmente, contrária ao parecer da entidade reguladora sectorial emitido nos termos do número anterior, aquela deve ser devidamente fundamentada, justificando especificamente as razões para o não acolhimento das conclusões constantes daquele parecer.
+
+> Nota: [Artigo 7.º, Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482) Até à publicação do regulamento referido no n.º 4 do presente artigo, as entidades referidas no artigo 2.º do presente diploma, devem, na fixação da remuneração a pagar pelo acesso e utilização das infraestruturas que detêm, observar o disposto no n.º 1 do presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 183.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 20.º — Pedidos de acesso às infraestruturas aptas
+
+1 - As empresas de comunicações eletrónicas que pretendam instalar as respetivas redes em infraestruturas aptas, detidas ou geridas pelas entidades referidas no artigo 2.º, devem efetuar o pedido de acesso junto da entidade que detenha a posse ou gestão das mesmas.
+
+2 - O pedido de acesso deve especificar os elementos de rede que se projetam instalar nas infraestruturas aptas para os quais o acesso é solicitado, a zona em que se pretende instalar esses elementos e o calendário específico da intervenção a realizar.
+
+3 - Qualquer pedido de acesso para utilização de infraestruturas deve ser apreciado e respondido no prazo máximo de 20 dias após a sua efetiva receção por parte da entidade que detenha a posse ou gestão das infraestruturas aptas, considerando-se o pedido aceite quando, decorrido aquele prazo, não seja proferida decisão expressa.
+
+4 - Em caso de deferimento do pedido de acesso, a empresa de comunicações eletrónicas beneficiária deve, obrigatoriamente, concluir a instalação dos sistemas e equipamentos no prazo de 120 dias, sob pena de caducidade do direito de acesso respetivo.
+
+5 - A entidade que detenha a posse ou a gestão das infraestruturas aptas deve, conjuntamente com o deferimento do pedido de acesso, emitir a declaração que certifica o direito de acesso.
+
+6 - Quando o pedido de acesso se considere aceite nos termos da parte final do n.º 3, a ANACOM certifica o direito de acesso, no prazo de 10 dias contado a partir da receção do pedido de certificação, o qual deve ser acompanhado do comprovativo do pedido de acesso formulado nos termos do n.º 2.
+
+7 - A declaração e certificação previstas nos números anteriores obedecem ao modelo constante do anexo ii do presente decreto-lei, do qual faz parte integrante, e são invocáveis perante terceiros e autoridades públicas administrativas, incluindo forças policiais e agentes de serviços de fiscalização, designadamente na preparação e no decurso do acesso físico às infraestruturas e na sua utilização.
+
+8 - Os procedimentos referidos no presente artigo são tramitados, preferencialmente, por meios eletrónicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 20.º-A — Diferendos relativos à titularidade das infraestruturas aptas
+
+1 - A existência de um litígio sobre a titularidade de infraestruturas aptas não é fundamento de recusa de pedido de acesso ou de extinção ou modificação de acordo de acesso, desde que:
+
+a) O pedido tenha sido dirigido à entidade que tenha remetido a informação prevista no artigo 17.º; ou
+
+b) A entidade que assegura o acesso se apresente, perante o requerente do acesso, como detentora ou possuidora das infraestruturas, exercendo os respetivos poderes possessórios sobre estas.
+
+2 - O pagamento da remuneração devida pelo acesso à entidade que deferiu o respetivo pedido, feito nos termos do acordo de acesso ou de decisão da ANACOM emitida nos termos do artigo 19.º, exonera a empresa beneficiária de efetuar quaisquer outros pagamentos a terceiros, a esse título.
+
+3 - Se, por sentença transitada em julgado, vier a ser reconhecida a titularidade, o título possessório ou análogo relativo à infraestrutura apta a entidade diversa da que deferiu o acesso, deverá esta pagar àquela as quantias que tenha recebido, nos termos do número anterior, sem prejuízo de outras obrigações a que fique sujeita, nomeadamente a obrigação de pagar ao beneficiário do acesso os valores pagos em excesso.
+
+4 - No prazo de 30 dias a contar do trânsito em julgado da sentença referida no número anterior, a entidade titular da infraestrutura apta e a empresa beneficiária do acesso celebram novo acordo de acesso, aplicando-se, até à celebração do acordo de acesso, todas as condições constantes do acordo de acesso originalmente celebrado, incluindo as relativas a remuneração.
+
+5 - A celebração do novo acordo de acesso rege-se pelo disposto no presente decreto-lei, designadamente nos artigos 13.º a 19.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 21.º — Instruções técnicas para instalação em infraestruturas aptas
+
+1 - As entidades referidas no artigo 2.º podem elaborar e publicitar instruções técnicas a que se encontra sujeita a instalação de equipamentos e sistemas de redes de comunicações electrónicas nas infra-estruturas que detenham ou estejam sob a sua gestão.
+
+2 - A elaboração de instruções técnicas deve ter em consideração as especificidades das infra-estruturas a que se destinam e promover as soluções técnicas e de segurança mais apropriadas à instalação, reparação, manutenção, desmontagem e interligação de equipamentos e sistemas de redes de comunicações electrónicas.
+
+3 - A ANACOM, ouvidas as entidades com competência sobre a matéria, designadamente a Direção-Geral de Energia e Geologia no caso do setor elétrico e do setor do gás natural, do petróleo bruto e de produtos de petróleo, pode, sempre que considerar justificado, emitir orientações aplicáveis à definição das instruções técnicas previstas no presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 22.º — Utilização de infraestruturas aptas
+
+1 - As empresas de comunicações electrónicas devem utilizar de forma efectiva e eficiente as infra-estruturas afectas ao alojamento de sistemas, equipamentos e demais recursos das redes de comunicações electrónicas que exploram.
+
+2 - Sem prejuízo das condições contratuais estabelecidas, é permitido às empresas de comunicações electrónicas a substituição de sistemas, equipamentos e demais recursos alojados nas infra-estruturas a que se refere o número anterior, por outros tecnologicamente mais avançados e mais eficientes, desde que tal substituição não se traduza num aumento da capacidade ocupada.
+
+3 - As empresas de comunicações electrónicas estão obrigadas, suportando os respectivos custos, à remoção de cabos, equipamentos ou quaisquer elementos das suas redes que não estejam a ser efectivamente utilizados e cuja utilização não esteja prevista no período de um ano seguinte, sempre que as infra-estruturas em causa sejam necessárias para satisfazer as necessidades da entidade que detém ou gere as referidas infra-estruturas ou para alojar elementos de rede de outras empresas de comunicações electrónicas que nisso tenham demonstrado interesse.
+
+4 - Quando as empresas de comunicações electrónicas não procedam à remoção dos elementos de rede nos termos previstos no número anterior, a entidade gestora das infra-estruturas ou, com o acordo desta, a empresa de comunicações electrónicas interessada, pode, no prazo de 30 dias contados a partir da data do pedido de desocupação, proceder à remoção dos referidos elementos, suportando os custos dessa intervenção, sem prejuízo da responsabilização da empresa obrigada à sua execução.
+
+5 - Sem prejuízo do direito de recurso aos tribunais, a ANACOM, ouvidas as entidades com competência sobre a matéria, designadamente a Direção-Geral de Energia e Geologia sempre que aplicável, pode, por decisão vinculativa, solucionar os diferendos decorrentes da aplicação das regras previstas no presente artigo que lhe sejam submetidos por empresas de comunicações eletrónicas ou pelas entidades detentoras das infraestruturas utilizadas.
+
+6 - À resolução dos diferendos referidos no número anterior aplicam-se os n.os 6 e 8 do artigo 16.º, sem prejuízo do disposto nos números seguintes, devendo a ANACOM, salvo circunstâncias excecionais, proferir uma decisão num prazo máximo de 60 dias a contar da data da receção do pedido de intervenção completo.
+
+7 - Sempre que esteja em causa o acesso a infraestruturas detidas por entidade sujeita a regulação, a decisão a que se refere o n.º 5 deve ser precedida de parecer da entidade reguladora setorial respetiva, a qual deve pronunciar-se no prazo máximo de 15 dias, correspondendo a não emissão de parecer dentro deste prazo à emissão de parecer favorável.
+
+8 - Quando a decisão do ICP-ANACOM seja, total ou parcialmente, contrária ao parecer da entidade reguladora sectorial, emitido nos termos do número anterior, aquela deve ser devidamente fundamentada, justificando especificamente as razões para o não acolhimento das conclusões constantes daquele parecer.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 23.º — Partilha de locais e recursos pelas empresas de comunicações electrónicas
+
+1 - As empresas de comunicações electrónicas devem promover, entre si, a celebração de acordos com vista à partilha dos locais e dos recursos instalados ou a instalar, nos termos do artigo 25.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro.
+
+2 - Os acordos celebrados entre empresas de comunicações electrónicas com vista à partilha de condutas, postes, câmaras de visita, locais e recursos, instalados ou a instalar devem ser comunicados ao ICP-ANACOM no prazo de 10 dias após a sua celebração.
+
+3 - Quando em consequência do estado de ocupação das infra-estruturas já construídas, estas não possam alojar outros equipamentos ou recursos de redes e, por razões relacionadas com a protecção do ambiente, a saúde ou segurança públicas, o património cultural, o ordenamento do território e a defesa da paisagem urbana e rural, não existam alternativas viáveis à instalação de novas infra-estruturas, pode o ICP-ANACOM determinar a partilha de recursos, caso tal seja tecnicamente viável e não prejudique o bom funcionamento dos recursos existentes, nos termos do n.º 2 do artigo 25.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro.
+
+4 - As decisões da ANACOM referidas no número anterior podem ter como destinatária qualquer das entidades referidas no artigo 2.º
+
+5 - As determinações emitidas ao abrigo do n.º 3 podem incluir normas de repartição de custos.
+
+6 - Nos casos de partilha, o ICP-ANACOM pode adoptar medidas condicionantes do funcionamento dos recursos a instalar, designadamente uma limitação dos níveis máximos de potência de emissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+### Capítulo IV — Sistema de Informação de Infraestruturas Aptas
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 24.º — Dever de elaboração e manutenção de cadastro
+
+1 - As entidades referidas no artigo 2.º devem elaborar, possuir e manter permanentemente atualizado um cadastro do qual conste informação descritiva e georreferenciada das infraestruturas aptas que detenham ou estejam sob a sua gestão, nomeadamente condutas, caixas, câmaras de visita, e infraestruturas associadas.
+
+2 - Do cadastro referido no número anterior devem constar, nos termos a concretizar pelo ICP-ANACOM, os seguintes elementos mínimos:
+
+a) Localização, geo-referenciação, traçado e afectação principal;
+
+b) Características técnicas mais relevantes, incluindo dimensão, tipo de infra-estruturas e de utilização.
+
+3 - As entidades referidas no n.º 1 devem elaborar e disponibilizar no SIIA as informações referidas no número anterior, nos termos definidos pela ANACOM, observando os prazos previstos nos n.os 3 a 5 do artigo 25.º
+
+4 - As entidades referidas no n.º 1 estão obrigadas a:
+
+a) Responder de forma célere e não discriminatória, num prazo não superior a 10 dias, a pedidos de informação por parte das empresas de comunicações electrónicas interessadas, designando elementos de contacto para este efeito;
+
+b) Fornecer às empresas de comunicações electrónicas interessadas informação esclarecedora, designadamente com indicações precisas sobre a localização e a existência de capacidade disponível nas infra-estruturas existentes, sempre que for solicitada, num prazo máximo de 10 dias.
+
+5 - Em caso de dúvida sobre a aptidão das infra-estruturas para o alojamento de redes de comunicações electrónicas, compete ao ICP-ANACOM, a pedido das entidades referidas no n.º 1, decidir sobre a sua inclusão no cadastro, tendo em conta os fundamentos por aquelas apresentados e a utilidade das infra-estruturas em causa no contexto do desenvolvimento de redes de acesso de comunicações electrónicas, nomeadamente na ligação dos utilizadores finais às redes core.
+
+6 - A não inclusão no cadastro de infraestruturas aptas não prejudica o direito de acesso a essas infraestruturas por parte das empresas de comunicações eletrónicas, devendo as entidades referidas no artigo 2.º:
+
+a) Responder, no prazo de 10 dias, aos pedidos de informação sobre as matérias referidas nos n.os 2 e 4 do presente artigo;
+
+b) Autorizar, em condições proporcionadas, não discriminatórias, transparentes e no prazo de 10 dias, as empresas de comunicações eletrónicas a realizar levantamentos no terreno de elementos específicos das infraestruturas aptas, desde que tais pedidos sejam razoáveis e especifiquem os elementos de rede pertinentes para a implantação de redes de comunicações eletrónicas.
+
+7 - Em caso de litígio relativo aos direitos e obrigações previstos no presente artigo, aplica-se o disposto nos n.os 6 e 8 do artigo 16.º, devendo a ANACOM, salvo circunstâncias excecionais, proferir uma decisão num prazo não superior a 60 dias a contar da data da receção do pedido de intervenção completo.
+
+8 - Sempre que esteja em causa o acesso a infraestruturas detidas por entidade sujeita a regulação, aplica-se o disposto nos n.os 8 e 9 do artigo 19.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 24.º-A — Exceções à obrigação de disponibilização de informação no SIIA
+
+1 - O cumprimento da obrigação de disponibilização de informação no SIIA, prevista no n.º 3 do artigo 24.º, pode ser dispensado nos seguintes casos:
+
+a) Quando a informação respeite a infraestruturas críticas nacionais, como tal qualificadas nos termos da lei;
+
+b) Quando a publicitação implique a divulgação de informação cujo acesso deva ser restringido por motivos de segurança e integridade das redes e segurança e saúde públicas.
+
+2 - Para efeitos do número anterior, a entidade detentora das infraestruturas, no prazo máximo de 15 dias após assumir a posse ou gestão das mesmas, deve comunicar à ANACOM a localização exata das infraestruturas que considera que devem ser excluídas das obrigações previstas no presente capítulo, bem como os fundamentos que o justificam e as entidades que, em razão da matéria, se devam pronunciar sobre a exclusão requerida.
+
+3 - Compete à ANACOM decidir os casos em que é justificada a dispensa, ouvidos, consoante a matéria, o Gabinete Nacional de Segurança, a Comissão de Acesso aos Documentos Administrativos e demais entidades públicas com atribuições sobre a matéria.
+
+4 - A ANACOM pode tipificar casos de dispensa, após consulta pública e audição das entidades a que se refere o número anterior.
+
+5 - Aos pareceres do Gabinete Nacional de Segurança e da Comissão de Acesso aos Documentos Administrativos, previstos nos números anteriores, aplica-se o disposto no artigo 92.º do Código do Procedimento Administrativo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 25.º — Informação disponível no SIIA
+
+1 - Compete ao ICP-ANACOM a concepção, a gestão e a manutenção, acessibilidade e disponibilidade do SIC, assegurando a disponibilização da seguinte informação:
+
+a) Procedimentos e condições de que depende a atribuição dos direitos de passagem previstos no artigo 6.º;
+
+b) Anúncios da construção de infraestruturas aptas nos termos previstos no artigo 9.º;
+
+c) Cadastro, contendo informação georreferenciada, completa e integrada de todas as infraestruturas aptas, detidas ou geridas pelas entidades referidas no n.º 1 do artigo 24.º, incluindo as ITUR públicas a que se refere o artigo 31.º;
+
+d) Procedimentos e condições aplicáveis ao acesso e utilização de cada uma das infraestruturas referidas na alínea anterior, incluindo as instruções técnicas referidas no artigo 21.º quando existentes.
+
+2 - As entidades referidas no n.º 1 do artigo 24.º devem assegurar a disponibilização no SIIA das informações previstas no número anterior, garantindo a sua qualidade, fiabilidade, tempestividade e permanente atualização, e, sempre que lhes seja solicitado, prestar à ANACOM todos os esclarecimentos e elementos necessários com vista à sua introdução no SIIA.
+
+3 - As informações que em cada momento constam do SIC vinculam as entidades responsáveis pela sua elaboração e disponibilização.
+
+4 - As entidades responsáveis pela atribuição de direitos de passagem devem incluir no SIIA as informações referidas na alínea a) do n.º 1, no prazo máximo de 20 dias a contar da data em que lhes tenham sido conferidos poderes para a atribuição de direitos de passagem.
+
+5 - As entidades que detêm ou gerem infraestruturas aptas devem incluir no SIIA as informações indicadas nas alíneas c) e d) do n.º 1, no prazo máximo de 30 dias a contar da data em que tenham a posse ou a gestão das infraestruturas.
+
+6 - As alterações aos procedimentos e informações referidas nos números anteriores devem ser disponibilizadas no SIIA até ao quinto dia útil subsequente ao da sua aprovação ou da ocorrência das alterações.
+
+7 - Compete à ANACOM, após o procedimento de consulta previsto no artigo 8.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, definir o formato sob o qual devem ser disponibilizados os elementos no SIIA.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 26.º — Acesso ao SIIA
+
+1 - O SIC assenta num princípio de partilha de informação e de reciprocidade, a ele podendo aceder as entidades que assegurem o cumprimento das obrigações necessárias à inclusão das informações naquele sistema, nos termos previstos no presente decreto-lei.
+
+2 - A informação do SIIA é disponibilizada através da Internet, com recurso a uma conexão segura, com validação de acessos, à qual podem aceder remotamente as entidades indicadas no artigo 2.º que cumpram as condições previstas no número anterior, quando estas lhes sejam aplicáveis, bem como as entidades reguladoras setoriais, que obtenham credenciais de acesso junto da ANACOM, sem prejuízo do disposto na Lei n.º 46/2007, de 24 de agosto.
+
+3 - Sempre que verifique que as entidades credenciadas para acesso e utilização do SIIA não cumprem as obrigações previstas no artigo anterior, a ANACOM deve suspender o seu acesso ao sistema até que verifique o cumprimento das referidas obrigações.
+
+4 - As entidades indicadas no n.º 2 que tenham acesso às informações constantes do SIIA devem tomar as medidas adequadas para assegurar o respeito da confidencialidade e do segredo comercial e de exploração.
+
+5 - É proibida a obtenção de remuneração, por via direta ou indireta, pela disponibilização, utilização ou reutilização dos documentos ou informações extraídas do SIIA pelos respetivos utilizadores ou por terceiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+### Capítulo V — Infra-estruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios (ITUR)
+
+#### Secção I — Disposições gerais relativas às ITUR
+
+###### Artigo 27.º — Infraestruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios
+
+1- O presente capítulo estabelece o regime de instalação das ITUR e respectivas ligações às redes públicas de comunicações electrónicas, bem como o regime de avaliação de conformidade de equipamentos, materiais e infra-estruturas.
+
+2 - Os requisitos constantes do presente capítulo aplicam-se integralmente às empresas e aos profissionais que exerçam as atividades nele referidas em território nacional, em regime de livre prestação de serviços, excetuados os que claramente não resultem aplicáveis, pela sua própria natureza, a prestações ocasionais e esporádicas.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 28.º — Constituição das ITUR
+
+As ITUR são constituídas por:
+
+a) Espaços para a instalação de tubagem, cabos, caixas e câmaras de visita, armários para repartidores de edifício e para instalação de equipamentos e outros dispositivos;
+
+b) Rede de tubagens ou tubagem para a instalação dos diversos cabos, equipamentos e outros dispositivos, incluindo, nomeadamente, armários de telecomunicações, caixas e câmaras-de-visita;
+
+c) Cablagem, nomeadamente, em par de cobre, em cabo coaxial e em fibra óptica para ligação às redes públicas de comunicações;
+
+d) Sistemas de cablagem do tipo A;
+
+e) Instalações eléctricas de suporte a equipamentos e sistema de terra;
+
+f) Sistemas de cablagem para uso exclusivo do loteamento, urbanização ou conjunto de edifícios, nomeadamente domótica, videoportaria e sistemas de segurança.
+
+###### Artigo 29.º — Infra-estruturas obrigatórias nos loteamentos, urbanizações e conjuntos de edifícios
+
+1 - Nos loteamentos e urbanizações é obrigatória, de acordo com o previsto no presente capítulo e no manual ITUR, a instalação das seguintes infra-estruturas:
+
+a) Espaços para a instalação de tubagem, cabos, equipamentos e outros dispositivos, incluindo, nomeadamente, armários de telecomunicações, caixas e câmaras-de-visita;
+
+b) Rede de tubagens ou tubagem para a instalação dos diversos cabos, equipamentos e outros dispositivos.
+
+2 - Nos conjuntos de edifícios, além da infra-estrutura referida no número anterior, é ainda obrigatória a instalação de cablagem em par de cobre, em cabo coaxial e em fibra óptica para ligação às redes públicas de comunicações electrónicas, bem como instalações eléctricas de suporte a equipamentos e sistemas de terra.
+
+3 - No projecto, na instalação e na utilização das infra-estruturas de telecomunicações deve ser assegurado o sigilo das comunicações, a segurança e a não interferência entre as infra-estruturas de cablagem instaladas.
+
+4 - O início da obra deve ser previamente comunicado ao projetista ITUR.
+
+5 - O cumprimento das obrigações previstas no presente artigo recai sobre o promotor da operação urbanística.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 30.º — Princípios gerais relativos às ITUR
+
+1 - É obrigatória a utilização das ITUR já instaladas sempre que as mesmas permitam suportar os serviços a prestar e as tecnologias a disponibilizar.
+
+2 - A ocupação de espaços e tubagens deve ser dimensionada pelo projectista para as necessidades de comunicações e para o número de utilizadores previsíveis do loteamento, urbanização ou conjunto de edifícios, bem como para permitir a utilização dos mesmos por mais de um operador.
+
+3 - É interdita a ocupação dos espaços e tubagens por qualquer meio que não se justifique, tendo em conta os serviços a prestar e a tecnologia a disponibilizar.
+
+4 - O cumprimento do disposto no número anterior recai sobre o promotor da operação urbanística, o instalador, a empresa de comunicações electrónicas ou, quando aplicável, sobre a administração ou o proprietário do conjunto de edifícios.
+
+#### Secção II — Regime de propriedade, gestão e acesso das ITUR
+
+###### Artigo 31.º — Propriedade, gestão e conservação das ITUR públicas
+
+1 - As ITUR referidas no n.º 1 do artigo 29.º integram o domínio municipal, cabendo aos respectivos municípios a sua gestão e conservação, em conformidade com as normas fixadas no presente decreto-lei.
+
+2 - Para efeitos do número anterior, o proprietário e os demais titulares de direitos reais sobre o prédio sobre o qual recai a operação urbanística, cedem gratuitamente ao município as ITUR nele instaladas, nos termos do artigo 44.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99 de 16 de Dezembro.
+
+3 - Para os efeitos do número anterior, o requerente deve assinalar as ITUR em planta a entregar com o pedido de licenciamento ou comunicação prévia.
+
+4 - (Revogado.)
+
+5 - Os municípios podem atribuir a uma entidade autónoma, por si seleccionada nos termos do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, os poderes de gestão e conservação das ITUR que lhes tenham sido cedidas em conformidade com os números anteriores.
+
+6 - O ICP-ANACOM pode emitir orientações genéricas enformadoras dos procedimentos de selecção referidos no número anterior.
+
+7 - Os procedimentos que venham a ser definidos pelos municípios para permitirem o acesso às ITUR pelas empresas de comunicações electrónicas devem ser transparentes, céleres, não discriminatórios e adequadamente publicitados, devendo as condições aplicáveis ao exercício do direito de acesso obedecer aos princípios da transparência e da não discriminação, nos termos do capítulo iii.
+
+8 - Os procedimentos referidos no número anterior são obrigatoriamente aplicáveis pelas entidades a quem os municípios deleguem a gestão e conservação das ITUR nos termos do n.º 5.
+
+9 - A conservação da cablagem instalada pelas empresas de comunicações electrónicas é da sua responsabilidade, devendo para esse fim os municípios, ou as entidades por si designadas, permitir-lhes o acesso.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 32.º — Propriedade, gestão, conservação e alteração das ITUR privadas
+
+1 - As ITUR que integram conjuntos de edifícios são detidas em compropriedade por todos os proprietários cabendo-lhes a si, ou à respectiva administração, caso exista, a sua gestão e conservação, em conformidade com o regime jurídico da propriedade horizontal e com o presente decreto-lei.
+
+2 - As administrações ou os proprietários dos conjuntos de edifícios, consoante se encontrem ou não em regime de propriedade horizontal, devem zelar pelo bom estado de conservação, segurança e funcionamento das ITUR, suportando os encargos decorrentes da reparação de avarias, sem prejuízo do disposto no n.º 1 do artigo seguinte.
+
+3 - Os proprietários ou as administrações dos conjuntos de edifícios só podem opor-se à instalação de uma infra-estrutura de telecomunicações para uso individual por qualquer proprietário, condómino, arrendatário ou ocupante legal nos seguintes casos:
+
+a) Quando, após comunicação desta intenção por parte de um proprietário, condómino, arrendatário ou ocupante legal, procederem à instalação de uma infra-estrutura de telecomunicações para uso colectivo que permita assegurar os mesmos serviços e a mesma tecnologia no prazo de 60 dias;
+
+b) Quando o conjunto de edifícios já disponha de uma infra-estrutura de telecomunicações para uso colectivo que permita assegurar os mesmos serviços e a mesma tecnologia.
+
+4 - Nas situações em que os proprietários ou as administrações dos conjuntos de edifícios decidam não proceder à instalação da infra-estrutura de telecomunicações referida na alínea a) do número anterior ou em que decorrido o prazo previsto na mesma alínea a referida infra-estrutura de telecomunicações não esteja disponível, e caso sobre eles não recaia o encargo de suportar os custos decorrentes da alteração a efectuar sobre a infra-estrutura existente, os proprietários ou a administração do conjunto de edifícios só se podem opor à realização da alteração pretendida mediante deliberação de oposição de proprietários ou condóminos que representem pelo menos dois terços do capital investido.
+
+###### Artigo 33.º — Acesso aberto às ITUR
+
+1 - Os promotores das obras, os municípios e as entidades por si designadas nos termos do artigo 31.º, bem como os proprietários e as administrações dos conjuntos de edifícios estão obrigados a garantir o acesso aberto, não discriminatório e transparente das empresas de comunicações electrónicas às ITUR, para efeitos de instalação, conservação, reparação e alteração, nos termos do presente decreto-lei, sem prejuízo do direito à reparação por eventuais prejuízos daí resultantes.
+
+2 - O acesso e a utilização, pelas empresas de comunicações electrónicas, às ITUR privadas não pode ser condicionado à exigência de pagamento de qualquer contrapartida financeira ou de outra natureza por parte dos proprietários e administrações dos conjuntos de edifícios.
+
+3 - São proibidas e nulas as cláusulas contratuais que prevejam a exclusividade de acesso às ITUR instaladas, sendo obrigatoriamente resolvidos ou reduzidos os contratos que hajam sido celebrados em momento anterior ao da entrada em vigor do presente decreto-lei e que contenham cláusulas de exclusividade no acesso às ITUR.
+
+4 - No caso de a entidade gestora das ITUR públicas ser, simultaneamente, uma entidade que presta serviços de comunicações electrónicas, esta apenas pode iniciar a prestação de serviços aos clientes abrangidos pela ITUR que gere a partir do momento em que tenha procedido à publicação das condições previstas no presente artigo e nos n.os 7 e 8 do artigo 31.º
+
+5 - Caso as partes não consigam chegar a acordo quanto ao acesso às ITUR públicas no prazo de 30 dias a contar da data de receção do pedido de acesso, pode qualquer das partes solicitar a intervenção da ANACOM para proferir decisão vinculativa, visando a avaliação da conformidade com os requisitos estabelecidos no presente artigo.
+
+6 - Na resolução dos litígios a que se refere o número anterior, a ANACOM deve assegurar o respeito pelo contraditório e ter plenamente em conta o princípio da proporcionalidade, bem como os princípios previstos no artigo 4.º do presente diploma, devendo seguir as regras de procedimento previstas no artigo 10.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, sem prejuízo do disposto no número seguinte.
+
+7 - Salvo circunstâncias excecionais, a decisão da ANACOM deve ser proferida num prazo máximo de 60 dias a contar da data da receção do pedido de intervenção, desde que o requerente faculte à ANACOM todos os elementos e informações necessários para a conformação dos factos e da matéria objeto de litígio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 34.º — Remuneração pelo acesso às ITUR públicas
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 183.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+#### Secção III — Projectos técnicos de ITUR
+
+###### Artigo 35.º — Obrigatoriedade de projecto técnico de ITUR
+
+A instalação das ITUR obedece a um projecto técnico elaborado por um projectista, de acordo com o disposto no presente capítulo e no manual ITUR.
+
+###### Artigo 36.º — Termo de responsabilidade pelo projecto ITUR
+
+1 - Os projectos técnicos a que alude o artigo anterior devem ser instruídos com declaração dos projectistas legalmente habilitados que ateste a observância das normas gerais e específicas constantes das disposições legais e regulamentares aplicáveis.
+
+2 - A declaração a que alude o presente artigo reveste a natureza de um termo de responsabilidade dispensando a apreciação prévia dos projectos por parte dos serviços municipais.
+
+3 - Compete à ANACOM aprovar o modelo do termo de responsabilidade a que se refere o presente artigo, bem como as condições da respetiva emissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 37.º — Qualificação do projectista ITUR
+
+1 - Podem ser projectistas ITUR:
+
+a) Os engenheiros e os engenheiros técnicos inscritos em associações públicas de natureza profissional que, nos termos da lei que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, se considerem habilitados para o efeito;
+
+b) Os engenheiros e os engenheiros técnicos inscritos nas respetivas associações públicas de natureza profissional no seguimento do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, por reconhecimento de qualificações equivalentes às referidas na alínea anterior;
+
+c) Os cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu com qualificações, obtidas fora de Portugal, equivalentes às referidas na alínea a), que aqui pretendam exercer a atividade profissional em regime de livre prestação de serviços e para tanto informem mediante declaração prévia a Ordem dos Engenheiros ou a Ordem dos Engenheiros Técnicos, conforme aplicável, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+2 - As associações públicas de natureza profissional referidas no número anterior devem disponibilizar ao ICP-ANACOM, nos termos a acordar, informação relativa aos técnicos que consideram habilitados para realizar projetos ITUR.
+
+3 - Compete às associações públicas de natureza profissional assegurar que os técnicos nelas inscritos e habilitados para efeitos do presente decreto-lei como técnicos ITUR actualizem os respectivos conhecimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 38.º — Obrigações do projectista ITUR
+
+Constituem obrigações do projectista ITUR:
+
+a) Elaborar os projectos de acordo com o artigo seguinte e as normas técnicas aplicáveis;
+
+b) Emitir o termo de responsabilidade referido no artigo 36.º;
+
+c) Submeter à ANACOM e ao promotor da obra o termo de responsabilidade referido na alínea anterior, no prazo de 10 dias a contar da data da assinatura do projeto técnico;
+
+d) Assegurar, por si ou por seu mandatário, o acompanhamento da obra, assinalando no respectivo livro de obra o andamento dos trabalhos e a qualidade de execução da mesma, bem como a confirmação final, obrigatória, no respectivo livro, de que a instalação se encontra de acordo com o projecto;
+
+e) Frequentar ação de formação contínua de atualização científica e técnica, em cada período de cinco anos, de duração correspondente a, pelo menos, 50 horas, em entidade formadora referida no artigo 44.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 39.º — Elementos do projecto técnico ITUR
+
+1 - O projecto técnico ITUR deve incluir obrigatoriamente os seguintes elementos:
+
+a) Informação identificadora do projectista ITUR que assume a responsabilidade pelo projecto, nos termos do artigo 36.º, nomeadamente com indicação do número de inscrição em associação pública de natureza profissional;
+
+b) Identificação da operação de loteamento, obra de urbanização, ou conjunto de edifícios a que se destina, nomeadamente da sua finalidade;
+
+c) Memória descritiva contendo, nomeadamente:
+
+i) Descrição genérica da solução adoptada com vista à satisfação das disposições legais e regulamentares em vigor;
+
+ii) Indicação das características dos materiais, dos elementos de construção, dos sistemas, equipamentos e redes associadas às instalações técnicas;
+
+iii) Pressupostos que foram considerados, nomeadamente as características dos interfaces técnicos de acesso de redes públicas de comunicações electrónicas;
+
+iv) Características técnicas a que devem obedecer os equipamentos, materiais e componentes que irão ser utilizados na infra-estrutura;
+
+d) Medições e mapas de quantidade de trabalhos, dando a indicação da natureza e quantidade dos trabalhos necessários para a execução da obra;
+
+e) Orçamento baseado na espécie e quantidade de trabalhos constantes das medições;
+
+f) Outros elementos estruturantes do projecto, nomeadamente, fichas técnicas, plantas topográficas, esquemas da rede de tubagem e cablagem, quadros de dimensionamento, cálculos de níveis de sinal, esquemas de instalação eléctrica e terras das infra-estruturas, análise das especificidades das ligações às infra-estruturas de telecomunicações das empresas de comunicações electrónicas;
+
+g) Data e assinatura.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+#### Secção IV — Instalação das ITUR
+
+###### Artigo 40.º — Instalador ITUR
+
+1 - A instalação e a conservação das ITUR devem ser efectuadas por instalador habilitado nos termos e condições previstas no presente capítulo.
+
+2 - Compete ao promotor da obra escolher o instalador.
+
+###### Artigo 41.º — Qualificações do instalador ITUR
+
+1 - Podem ser instaladores ITUR:
+
+a) As pessoas singulares que disponham das qualificações referidas na alínea a) do n.º 1 do artigo 37.º e cuja associação pública de natureza profissional lhes reconheça habilitação adequada para o efeito, ou qualificações equivalentes, reconhecidas nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, ou no seguimento da receção da declaração prévia a que se refere o artigo 5.º da mesma lei;
+
+b) As pessoas singulares que disponham das seguintes habilitações:
+
+i) Detentores de qualificação de dupla certificação, obtida por via das modalidades de educação e formação do Sistema Nacional de Qualificações, que integrem as unidades de formação de curta duração ITUR que respeitam os conteúdos definidos no Catálogo Nacional de Qualificações, ou qualificação equiparada reconhecida nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, tramitado perante o ICP-ANACOM;
+
+ii) Técnicos de áreas de formação de eletricidade e energia e de eletrónica e automação, que tenham frequentado com aproveitamento as unidades de formação de curta duração ITUR integradas no Catálogo Nacional de Qualificações, ou qualificação equiparada reconhecida nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, tramitado perante o ICP-ANACOM;
+
+iii) Cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu com qualificações, obtidas fora de Portugal, equivalentes às referidas nas primeiras partes das subalíneas anteriores que aqui pretendam exercer a atividade profissional em regime de livre prestação de serviços e para tanto informem mediante declaração prévia o ICP-ANACOM, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;
+
+c) (Revogada.)
+
+2 - (Revogado.)
+
+3 - Compete às associações públicas de natureza profissional assegurar que os técnicos nelas inscritos e habilitados para efeitos do presente decreto-lei como técnicos ITUR actualizem os respectivos conhecimentos, competindo-lhes ainda disponibilizar ao ICP-ANACOM informação relativa aos técnicos que considerem habilitados para serem instaladores ITUR, nos termos previstos no n.º 2 do artigo 37.º, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 42.º — Título profissional de instalador ITUR habilitado pelo ICP-ANACOM
+
+1 - O exercício, em território nacional, da profissão de instalador ITUR por técnico referido nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo anterior depende da posse de título profissional válido, emitido pelo ICP-ANACOM.
+
+2 - Em caso de reconhecimento de qualificações equivalentes às referidas nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo anterior, obtidas fora de Portugal por cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu, o título profissional é emitido com a decisão de deferimento proferida nos termos do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+3 - Fora dos casos previstos no número anterior, o ICP-ANACOM dispõe de 20 dias para decidir sobre a emissão do título profissional, após a regular entrega do respetivo pedido, instruído com certificado de qualificações, após o que se considera aquele tacitamente deferido, valendo como título profissional, para todos os efeitos legais, os comprovativos de submissão do pedido e do pagamento da respetiva taxa.
+
+4 - As referências legislativas a instaladores ITUR habilitados pelo ICP-ANACOM devem entender-se como abrangendo também os profissionais referidos na subalínea iii) da alínea b) do n.º 1 do artigo anterior, exceto quando o contrário resulte da norma em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 43.º — Obrigações do instalador ITUR
+
+1 - Constituem obrigações dos instaladores ITUR:
+
+a) Manter atualizada a informação relativa ao seu título profissional, emitido pelo ICP-ANACOM, nos casos aplicáveis;
+
+b) Utilizar nas instalações apenas equipamentos e materiais que estejam em conformidade com os requisitos técnicos e legais aplicáveis;
+
+c) Instalar as infra-estruturas de telecomunicações de acordo com o projecto e com as normas técnicas aplicáveis;
+
+d) Emitir termo de responsabilidade de execução da instalação;
+
+e) Submeter à ANACOM, ao promotor da obra, ao diretor da obra, ao diretor de fiscalização da obra, ao proprietário ou, no caso de conjunto de edifícios, à respetiva administração, o termo de responsabilidade referido na alínea anterior, no prazo de 10 dias a contar da data da conclusão da instalação;
+
+f) Frequentar ação de formação contínua de atualização científica e técnica, em cada período de cinco anos, de duração correspondente a, pelo menos, 50 horas, em entidade formadora referida no artigo 44.º
+
+2 - (Revogado.)
+
+3 - Compete à ANACOM aprovar o modelo de termo de responsabilidade a que se refere a alínea d) do n.º 1, bem como as condições da respetiva emissão.
+
+4 - A ligação das ITUR às redes públicas de comunicações e a prestação de serviços de comunicações eletrónicas só pode ser efetuada após a emissão do termo de responsabilidade de execução da instalação e a sua submissão à ANACOM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+#### Secção V — Entidades formadoras ITUR
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 44.º — Formação de projetistas e instaladores ITUR
+
+1 - A formação para obtenção em Portugal das qualificações referidas nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo 41.º e a formação contínua a que se referem a alínea d) do artigo 38.º e a alínea e) do n.º 1 do artigo anterior são ministradas por entidades formadoras do Sistema Nacional de Qualificações, identificadas no n.º 1 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, com a redação conferida pelo Decreto-Lei n.º 14/2017, de 26 de janeiro, nas quais se incluem as entidades certificadas nos termos do artigo seguinte.
+
+2 - Os cursos de formação ministrados pelas entidades referidas no número anterior devem respeitar as unidades de formação de curta duração ITUR previstas no Catálogo Nacional de Qualificações.
+
+3 - Todas as entidades referidas no n.º 1 devem respeitar os requisitos específicos previstos na alínea d) do n.º 1 do artigo 45.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 45.º — Certificação de entidades formadoras de projetistas e instaladores ITUR
+
+1 - A certificação de entidades privadas formadoras para projetistas e instaladores ITUR segue os trâmites da portaria que regula a certificação de entidades formadoras, com as seguintes adaptações:
+
+a) A entidade competente para a certificação é o ICP-ANACOM;
+
+b) As entidades formadoras devem cumprir as obrigações previstas no artigo 49.º;
+
+c) O procedimento de revogação da certificação segue os termos do artigo 94.º-A;
+
+d) Outros requisitos específicos, em complemento ou derrogação dos requisitos constantes da portaria que regula a certificação de entidades formadoras, são aprovados por portaria dos membros do Governo responsáveis pelas áreas da formação profissional, das comunicações e da educação, observado o disposto no n.º 4.
+
+2 - A certificação das entidades formadoras referidas no número anterior, expressa ou tácita, é comunicada por meio eletrónico ao serviço central competente do ministério responsável pela área da formação profissional, no prazo de 10 dias.
+
+3 - O procedimento de certificação tem início após o pagamento das taxas devidas pela entidade formadora certificada, aquando da apresentação do pedido de certificação.
+
+4 - Os critérios de determinação do preenchimento dos requisitos técnicos materiais e das qualificações técnicas do pessoal, a constar da portaria referida na alínea d) do n.º 1, são propostos pelo ICP-ANACOM, em articulação com a Agência Nacional para a Qualificação, I. P., que coordena as ofertas educativas e formativas de dupla certificação e o Catálogo Nacional de Qualificações, bem como com o serviço competente do ministério responsável pela área da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 46.º — Regime do registo de entidades formadoras de instaladores ITUR
+
+(Revogado.)
+
+> Nota: [Artigo 5.º, Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859) Até à alteração da Portaria n.º 851/2010, de 6 de setembro, com vista à sua conformação com a Lei n.º 9/2009, de 4 de março e com o Decreto-Lei n.º 92/2010, de 26 de julho, aplica-se à certificação de entidades formadoras ITUR e ITED, com as devidas adaptações, o disposto nos artigos 46.º a 48.º do presente diploma.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 47.º — Revogação do registo de entidades formadoras de instaladores ITUR
+
+(Revogado.)
+
+> Nota: [Artigo 5.º, Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859) Até à alteração da Portaria n.º 851/2010, de 6 de setembro, com vista à sua conformação com a Lei n.º 9/2009, de 4 de março e com o Decreto-Lei n.º 92/2010, de 26 de julho, aplica-se à certificação de entidades formadoras ITUR e ITED, com as devidas adaptações, o disposto nos artigos 46.º a 48.º do presente diploma.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 48.º — Alterações ao registo de entidades formadoras de instaladores ITUR
+
+(Revogado.)
+
+> Nota: [Artigo 5.º, Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859) Até à alteração da Portaria n.º 851/2010, de 6 de setembro, com vista à sua conformação com a Lei n.º 9/2009, de 4 de março e com o Decreto-Lei n.º 92/2010, de 26 de julho, aplica-se à certificação de entidades formadoras ITUR e ITED, com as devidas adaptações, o disposto nos artigos 46.º a 48.º do presente diploma.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 49.º — Obrigações da entidade formadora de projetistas e instaladores ITUR
+
+Constituem obrigações da entidade formadora de projetistas e instaladores ITUR:
+
+a) Ministrar cursos de formação ITUR, incluindo de formação contínua, observado o disposto no artigo 44.º;
+
+b) Utilizar apenas os equipamentos e instalações que correspondam aos requisitos definidos pelo ICP-ANACOM;
+
+c) Assegurar que os formadores dos cursos referidos na alínea a) estão devidamente habilitados, nos termos do previsto na portaria referida na alínea d) do n.º 1 do artigo 45.º;
+
+d) Assegurar a calibração periódica dos equipamentos, de acordo com as instruções dos respectivos fabricantes, documentado em plano de calibração;
+
+e) Facultar ao ICP-ANACOM informação relativa aos formandos com e sem aproveitamento, por curso ministrado, no prazo máximo de 15 dias após o termo do mesmo;
+
+f) Comunicar previamente ao ICP-ANACOM a realização de cada ação de formação, com indicação dos respetivos, local, data e hora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+#### Secção VI — Alteração de infra-estruturas de telecomunicações em ITUR privadas
+
+###### Artigo 50.º — Alteração de infraestruturas de telecomunicações em ITUR
+
+1 - A alteração das ITUR públicas ou privadas, nomeadamente para a instalação de fibra ótica, deve ser precedida de projeto técnico simplificado, elaborado por projetista e executado por instalador devidamente habilitados, de acordo com o manual ITUR.
+
+2 - Nos casos referidos no número anterior, o projectista e o instalador devem emitir termos de responsabilidade e entregá-los ao dono da obra ou administração do conjunto de edifícios, aos proprietários, arrendatários, condóminos ou utilizadores legais requerentes da instalação e ao ICP-ANACOM, no prazo de 10 dias a contar da respectiva conclusão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+#### Secção VII — Avaliação de conformidade de equipamentos e infra-estruturas das ITUR
+
+###### Artigo 51.º — Requisitos de conformidade de equipamentos e infra-estruturas das ITUR
+
+1 - A todos os equipamentos, dispositivos e materiais utilizados nas ITUR são aplicáveis os seguintes requisitos de protecção:
+
+a) Os relativos à saúde e à segurança do utilizador ou de qualquer outra pessoa, incluindo os contidos no Decreto-Lei n.º 21/2017, de 21 de fevereiro, no que se refere aos requisitos de segurança, e demais legislação aplicável;
+
+b) Os contidos no Decreto-Lei n.º 31/2017, de 22 de março, no que se refere à compatibilidade eletromagnética, e demais legislação aplicável.
+
+2 - A instalação das ITUR deve respeitar:
+
+a) Os parâmetros como tal definidos nas especificações técnicas dos interfaces de acesso às redes públicas de comunicações electrónicas;
+
+b) Os guias de instalação dos fabricantes dos materiais, dispositivos e equipamentos;
+
+c) As regras técnicas das instalações eléctricas de baixa tensão, aprovadas pela Portaria n.º 949-A/2006, de 11 de Setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 52.º — Responsabilidade sobre a conformidade de equipamentos das ITUR
+
+1 - A demonstração da conformidade dos equipamentos, dispositivos e materiais a utilizar nas ITUR com os requisitos aplicáveis é da responsabilidade dos seus fabricantes ou dos seus representantes sedeados na União Europeia.
+
+2 - No caso de o fabricante ou o seu representante não estar sediado na União Europeia, a responsabilidade constante do número anterior recai sobre a pessoa que proceder à importação directa de equipamento.
+
+3 - Os fabricantes, seus representantes ou a pessoa responsável pela sua colocação no mercado devem manter toda a informação respeitante aos equipamentos, dispositivos e materiais à disposição do ICP-ANACOM por um período não inferior a 10 anos após a colocação no mercado do último exemplar em causa.
+
+###### Artigo 53.º — Procedimento de avaliação de conformidade de equipamentos, dispositivos e materiais das ITUR
+
+A avaliação de conformidade dos equipamentos, dispositivos e materiais com os requisitos aplicáveis constantes do n.º 1 do artigo 51.º pode ser demonstrada através dos procedimentos previstos na legislação relativa à compatibilidade electromagnética e à protecção à saúde e segurança nos equipamentos eléctricos.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 54.º — Fiscalização de equipamentos e infra-estruturas das ITUR
+
+Compete ao ICP-ANACOM proceder à recolha, periódica de forma aleatória e em qualquer ponto do circuito de distribuição, de amostra adequada aos equipamentos, dispositivos e materiais colocados no mercado a fim de avaliar da sua conformidade com os requisitos aplicáveis e com a informação constante dos respectivos certificados e declarações de conformidade.
+
+###### Artigo 55.º — Requisitos dos materiais das ITUR
+
+Os materiais utilizados nas ITUR devem obedecer às especificações técnicas constantes do manual ITUR.
+
+#### Secção VIII — Taxas relativas às ITUR
+
+###### Artigo 56.º — Taxas devidas ao ICP-ANACOM no âmbito das ITUR
+
+1 - Estão sujeitos a taxas os procedimentos de:
+
+a) Emissão de título profissional de instalador ITUR habilitado pelo ICP-ANACOM;
+
+b) Certificação das entidades formadoras de projetistas e instaladores ITUR.
+
+2 - Os montantes das taxas referidas no número anterior são fixados por portaria do membro do Governo responsável pela área das comunicações, constituindo receita do ICP-ANACOM.
+
+3 - Os montantes das taxas referidas no n.º 1 são determinados em função dos custos administrativos decorrentes do tipo de procedimento em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+### Capítulo VI — Infra-estruturas de telecomunicações em edifícios (ITED)
+
+#### Secção I — Disposições gerais relativas às ITED
+
+###### Artigo 57.º — Infraestruturas de telecomunicações em edifícios
+
+1 - O presente capítulo fixa o regime de instalação das ITED e respectivas ligações às redes públicas de comunicações electrónicas, bem como o regime da avaliação de conformidade de equipamentos, materiais e infra-estrutura.
+
+2 - Os requisitos constantes do presente capítulo aplicam-se integralmente às empresas e aos profissionais que exerçam as atividades nele referidas em território nacional, em regime de livre prestação de serviços, excetuados os que claramente não resultem aplicáveis, pela sua própria natureza, a prestações ocasionais e esporádicas.
+
+3 - Os edifícios equipados de acordo com as exigências previstas no presente capítulo são elegíveis para receber o rótulo facultativo 'Cumpre o ITED. Apto para banda larga', cujo formato e demais disposições constam do modelo previsto no anexo III ao presente decreto-lei, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 58.º — Constituição das ITED
+
+As ITED são constituídas por:
+
+a) Espaços para instalação de tubagem;
+
+b) Redes de tubagem necessárias para a instalação dos diversos equipamentos, cabos e outros dispositivos;
+
+c) Sistemas de cablagem em pares de cobre, em cabo coaxial, para distribuição de sinais sonoros e televisivos do tipo A (por via hertziana terrestre) e do tipo B (por via satélite), incluindo em ambos os casos as respectivas antenas, e em fibra óptica, constituídas pela rede colectiva e pela rede individual de cabos, para ligação às redes públicas de comunicações;
+
+d) Sistemas de cablagem do tipo A;
+
+e) Instalações eléctricas de suporte a equipamentos e sistema de terra;
+
+f) Sistemas de cablagem para uso exclusivo do edifício, nomeadamente domótica, videoportaria e sistemas de segurança.
+
+###### Artigo 59.º — Infra-estruturas obrigatórias nos edifícios
+
+1 - Nos edifícios é obrigatória a instalação das seguintes infra-estruturas:
+
+a) Espaços para instalação de tubagem;
+
+b) Redes de tubagem necessárias para a instalação dos diversos equipamentos, cabos e outros dispositivos;
+
+c) Sistemas de cablagem em pares de cobre, cabo coaxial, para distribuição de sinais sonoros e televisivos do tipo A e em fibra óptica;
+
+d) Instalações eléctricas de suporte a equipamentos e sistemas de terra.
+
+2 - A obrigatoriedade de instalação dos sistemas de distribuição de sinais sonoros e televisivos do tipo A, por via hertziana terrestre, é aplicável aos edifícios com dois ou mais fogos.
+
+3 - No projecto, na instalação e na utilização das ITED deve ser assegurado o sigilo das comunicações, a segurança e a não interferência entre as infra-estruturas de cablagem instaladas.
+
+4 - O início da obra deve ser previamente comunicado ao projetista ITED.
+
+5 - O cumprimento das obrigações previstas no presente artigo recai sobre o dono da obra.
+
+6 - Nos edifícios abrangidos pelo âmbito de aplicação da alínea f) do n.º 1 do artigo 2.º do decreto-lei que estabelece o regime aplicável à reabilitação de edifícios ou frações autónomas, apenas é obrigatória a instalação das seguintes infraestruturas de telecomunicações:
+
+a) Espaços para as tubagens da coluna montante do edifício;
+
+b) Redes de tubagem necessárias para a eventual instalação posterior de diversos equipamentos, cabos e outros dispositivos;
+
+c) Passagem aérea de topo e entrada de cabos subterrânea;
+
+d) Sistemas de cablagem em pares de cobre, cabo coaxial, para distribuição de sinais sonoros e televisivos do tipo A e em fibra ótica.
+
+7 - As tubagens referidas no número anterior devem garantir a ligação das redes e infraestruturas públicas de comunicações do exterior do edifício até ao interior do mesmo e, no caso das infraestruturas previstas nas alíneas b) e d), a uma das divisões secas de maior dimensão de cada fração.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 60.º — Excepções ao princípio da obrigatoriedade
+
+Exceptuam-se do disposto no presente capítulo os edifícios que, em razão da sua natureza e finalidade específica, apresentem uma remota probabilidade de vir a necessitar de infra-estruturas de comunicações electrónicas, desde que devidamente fundamentado e acompanhado por declaração de responsabilidade do projectista.
+
+###### Artigo 61.º — Princípios gerais relativos às ITED
+
+1 - É obrigatória a utilização das infra-estruturas de telecomunicações já instaladas sempre que as mesmas permitam suportar os serviços a prestar e a tecnologia a disponibilizar.
+
+2 - A instalação e utilização de infra-estruturas para uso colectivo têm preferência relativamente à instalação e utilização de infra-estruturas para uso individual.
+
+3 - A ocupação de espaços e tubagens deve ser dimensionada pelo projectista para as necessidades de comunicações e para o número de utilizadores previsíveis do edifício.
+
+4 - É interdita a ocupação dos espaços e tubagens por qualquer meio que não se justifique tendo em conta os serviços a prestar e a tecnologia a disponibilizar.
+
+5 - O cumprimento do disposto no número anterior recai sobre o dono da obra, o instalador, a empresa de comunicações electrónicas ou, quando aplicável, sobre a administração do edifício.
+
+#### Secção II — Regime de propriedade, gestão e acesso das ITED
+
+###### Artigo 62.º — Propriedade, gestão e conservação das ITED
+
+1 - As ITED pertencem ao proprietário do edifício.
+
+2 - As ITED, que nos termos do regime da propriedade horizontal integrem as partes comuns dos edifícios, são detidas em compropriedade por todos os condóminos, cabendo a sua gestão e conservação às respectivas administrações dos edifícios.
+
+3 - As ITED que integram cada fracção autónoma são da propriedade exclusiva do respectivo condómino.
+
+###### Artigo 63.º — Acesso aberto às ITED
+
+1 - Os proprietários e as administrações dos edifícios estão obrigados a garantir o acesso aberto, não discriminatório e transparente das empresas de comunicações electrónicas às ITED, para efeitos de instalação, conservação, reparação e alteração nos termos do presente decreto-lei, sem prejuízo do direito à reparação por eventuais prejuízos daí resultantes.
+
+2 - O acesso às ITED que integram as partes comuns dos edifícios nos termos do número anterior não pode ser condicionado ao pagamento de qualquer contrapartida financeira ou de outra natureza por parte dos proprietários ou administrações dos edifícios.
+
+3 - São proibidas e nulas as cláusulas contratuais que prevejam a exclusividade de acesso às ITED instaladas, sendo obrigatoriamente resolvidos ou reduzidos os contratos que hajam sido celebrados em momento anterior ao da entrada em vigor do presente decreto-lei e que contenham cláusulas de exclusividade no acesso às ITED.
+
+4 - As empresas de comunicações electrónicas que já se encontrem a prestar serviços num determinado edifício não podem, por qualquer modo, directa ou indirectamente, dificultar ou impedir a utilização das ITED por parte de outras empresas de comunicações electrónicas.
+
+###### Artigo 64.º — Condições para a alteração das infra-estruturas de telecomunicações instaladas em ITED
+
+1 - Os proprietários ou as administrações dos edifícios só podem opor-se à instalação de uma infra-estrutura de telecomunicações para uso individual por qualquer condómino, arrendatário ou ocupante legal nos seguintes casos:
+
+a) Quando, após comunicação desta intenção por parte de um condómino, arrendatário ou ocupante legal, procederem à instalação de uma infra-estrutura de telecomunicações para uso colectivo que permita assegurar os mesmos serviços e a mesma tecnologia no prazo de 60 dias;
+
+b) Quando o edifício já disponha de uma infra-estrutura de telecomunicações para uso colectivo que permita assegurar os mesmos serviços e a mesma tecnologia.
+
+2 - Nas situações em que os proprietários ou as administrações dos edifícios decidam não proceder à instalação da infra-estrutura de telecomunicações referida na alínea a) do número anterior ou em que decorrido o prazo previsto na mesma alínea a referida infra-estrutura de telecomunicações não esteja disponível, e caso sobre eles não recaia o encargo de suportar os custos decorrentes da alteração a efectuar sobre a infra-estrutura existente, os proprietários ou a administração do edifício só se podem opor à realização da alteração pretendida mediante deliberação de oposição de condóminos que representem pelo menos dois terços do capital investido.
+
+3 - Para efeitos do regime previsto no presente artigo, a assembleia de condóminos que apreciar a proposta de alteração da infra-estrutura deve ser convocada, nos termos previstos no Código Civil, pelo condómino interessado ou em representação do arrendatário ou ocupante legal que pretende aceder ao serviço de comunicações electrónicas acessíveis ao público.
+
+4 - Nas situações em que a proposta de alteração da infra-estrutura seja comunicada à administração do edifício depois da convocação de uma reunião da assembleia de condóminos deve a mesma ser aditada à ordem de trabalhos e para esse efeito notificada aos convocados, até cinco dias antes da data da reunião.
+
+5 - É obrigatória a desmontagem da infra-estrutura de telecomunicações para uso individual sempre que cumulativamente:
+
+a) Seja instalada infra-estrutura de telecomunicações para uso colectivo que permita assegurar a mesma tecnologia e os mesmos serviços da infra-estrutura individual;
+
+b) Seja comprovada a existência de danos para terceiros, causados pela instalação efectuada.
+
+#### Secção III — Projectos técnicos de ITED
+
+###### Artigo 65.º — Obrigatoriedade de projecto técnico de ITED
+
+1 - A instalação das ITED definidas no artigo 58.º obedece a um projecto técnico elaborado por um projectista, de acordo com o disposto no presente decreto-lei e no manual ITED.
+
+2 - A instalação de infra-estruturas de telecomunicações promovida pelos serviços ou organismos da administração directa ou indirecta do Estado, no exercício de competência estabelecida por lei, rege-se pelo presente decreto-lei.
+
+3 - O ICP-ANACOM pode publicar modelos de projectos técnicos a serem seguidos em determinados tipos de instalação.
+
+###### Artigo 66.º — Termo de responsabilidade pelo projecto ITED
+
+1 - Os projectos técnicos a que alude o artigo anterior devem ser instruídos com declaração dos projectistas legalmente habilitados que ateste a observância das normas gerais e específicas constantes das disposições legais e regulamentares aplicáveis.
+
+2 - A declaração a que alude o presente artigo reveste a natureza de um termo de responsabilidade dispensando a apreciação prévia dos projectos por parte dos serviços municipais.
+
+3 - Compete à ANACOM aprovar o modelo do termo de responsabilidade a que se refere o presente artigo, bem como as condições da respetiva emissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 67.º — Qualificação do projectista ITED
+
+1 - Podem ser projectistas ITED:
+
+a) Os engenheiros e os engenheiros técnicos inscritos em associações públicas de natureza profissional que, nos termos da lei que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, se considerem habilitados para o efeito;
+
+b) Os engenheiros e os engenheiros técnicos inscritos nas respetivas associações públicas de natureza profissional no seguimento do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, por reconhecimento de qualificações equivalentes às referidas na alínea anterior;
+
+c) Os cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu com qualificações, obtidas fora de Portugal, equivalentes às referidas na alínea a), que aqui pretendam exercer a atividade profissional em regime de livre prestação de serviços e para tanto informem mediante declaração prévia a Ordem dos Engenheiros ou a Ordem dos Engenheiros Técnicos, conforme aplicável, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;
+
+d) Outros técnicos que se encontrem inscritos no ICP-ANACOM como projetistas ITED à data de entrada em vigor do presente decreto-lei.
+
+2 - Os projetistas ITED referidos na alínea d) do número anterior apenas se encontram habilitados a subscrever projetos ITED em edifícios com uma estimativa orçamental global da obra até à classe 2, nos termos do regime jurídico de acesso e exercício da atividade da construção.
+
+3 - (Revogado.)
+
+4 - As associações públicas de natureza profissional referidas nas alíneas a) a c) do n.º 1 devem disponibilizar ao ICP-ANACOM, nos termos a acordar, informação relativa aos técnicos que consideram habilitados para realizar projetos ITED.
+
+5 - Compete às associações públicas de natureza profissional assegurar que os técnicos nelas inscritos e habilitados para efeitos do presente decreto-lei como técnicos ITED actualizem os respectivos conhecimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 68.º — Título profissional de projetista ITED habilitado pelo ICP-ANACOM
+
+1 -  O exercício em território nacional da profissão de projetista ITED, por técnico referido na alínea d) do n.º 1 do artigo anterior, depende da posse de título profissional válido, emitido pelo ICP-ANACOM.
+
+2 -  (Revogado.)
+
+3 - A renovação da inscrição deve ser condicionada pelo ICP-ANACOM à apresentação da documentação comprovativa da realização de unidades de formação de curta duração de ITED integradas no Catálogo Nacional de Qualificações, cujo conteúdo e duração são definidos pelo ICP-ANACOM, em articulação com a Agência Nacional para a Qualificação, I. P., a quem compete a gestão e a actualização do Catálogo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 69.º — Obrigações do projectista ITED
+
+1 - Constituem obrigações do projectista ITED:
+
+a) Elaborar projectos de acordo com o artigo 70.º e as normas técnicas aplicáveis;
+
+b) Emitir o termo de responsabilidade referido no artigo 66.º;
+
+c) Submeter à ANACOM e ao dono da obra o termo de responsabilidade referido na alínea anterior, no prazo de 10 dias a contar da data da assinatura do projeto técnico;
+
+d) Assegurar, por si ou por seu mandatário, o acompanhamento da obra, assinalando no respectivo livro de obra o andamento dos trabalhos e a qualidade de execução da mesma, bem como a confirmação final, obrigatória, no respectivo livro, de que a instalação se encontra de acordo com o projecto;
+
+e) Frequentar ação de formação contínua de atualização científica e técnica, em cada período de cinco anos, de duração correspondente a, pelo menos, 50 horas, em entidade formadora referida no artigo 77.º
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 70.º — Elementos do projecto técnico ITED
+
+1 - O projecto técnico ITED deve incluir obrigatoriamente os seguintes elementos:
+
+a) Informação identificadora do projectista ITED que assume a responsabilidade pelo projecto, nos termos do artigo 66.º, nomeadamente com indicação do número de inscrição em associação pública de natureza profissional;
+
+b) Identificação do edifício a que se destina, nomeadamente a sua finalidade;
+
+c) Memória descritiva contendo, nomeadamente:
+
+i) Descrição genérica da solução adoptada com vista à satisfação das disposições legais e regulamentares em vigor;
+
+ii) Indicação das características dos materiais, dos elementos de construção, dos sistemas, equipamentos e redes associadas às instalações técnicas;
+
+iii) Pressupostos que foram considerados, nomeadamente as características dos interfaces técnicos de acesso de redes públicas de comunicações electrónicas;
+
+iv) Características técnicas a que devem obedecer os equipamentos, materiais e componentes que irão ser utilizados na infra-estrutura;
+
+d) Medições e mapas de quantidade de trabalhos, dando a indicação da natureza e quantidade dos trabalhos necessários para a execução da obra;
+
+e) Orçamento baseado na espécie e quantidade de trabalhos constantes das medições;
+
+f) Outros elementos estruturantes do projecto, nomeadamente, fichas técnicas, plantas topográficas, esquemas da rede de tubagem e cablagem, quadros de dimensionamento, cálculos de níveis de sinal, esquemas de instalação eléctrica e terras das infra-estruturas, análise das especificidades das ligações às infra-estruturas de telecomunicações das empresas de comunicações electrónicas;
+
+g) Data e assinatura.
+
+2 - (Revogado.)
+
+3 - O ICP-ANACOM pode publicar modelos de projectos técnicos a serem seguidos em determinados tipos de instalação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 71.º — ITED abrangida em processo de licenciamento ou de comunicação prévia
+
+Sempre que a instalação das infra-estruturas de telecomunicações a que se refere o artigo 58.º se incluir no âmbito de controlo prévio da operação urbanística, nomeadamente de processo de licenciamento ou de comunicação prévia, é aplicável o regime dos projectos das especialidades previsto no regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99 de 16 de Dezembro.
+
+###### Artigo 72.º — ITED não abrangida em processo de licenciamento ou de comunicação prévia
+
+Quando a instalação das infra-estruturas de telecomunicações a que se refere o artigo 58.º não se incluir no âmbito de controlo prévio da operação urbanística, nomeadamente de processo de licenciamento ou de comunicação prévia nos termos do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-lei n.º 555/99 de 16 de Dezembro, os projectos técnicos devem ficar na posse e sob a responsabilidade do proprietário ou da administração do edifício, ficando estes obrigados à sua exibição para efeitos de fiscalização.
+
+#### Secção IV — Instalação das ITED
+
+###### Artigo 73.º — Instalador ITED
+
+1 - A instalação, a alteração e a conservação das ITED devem ser efectuadas por instalador habilitado nos termos e condições previstas no presente capítulo.
+
+2 - Compete ao dono da obra escolher o instalador.
+
+###### Artigo 74.º — Qualificações do instalador ITED
+
+1 - Podem ser instaladores ITED:
+
+a) As pessoas singulares que disponham das qualificações referidas na alínea a) do n.º 1 do artigo 67.º e cuja associação pública de natureza profissional lhes reconheça habilitação adequada para o efeito, ou qualificações equivalentes, reconhecidas nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, ou no seguimento da receção da declaração prévia a que se refere o artigo 5.º da mesma lei;
+
+b) As pessoas singulares que disponham das seguintes habilitações:
+
+i) Detentores de qualificação de dupla certificação, obtida por via das modalidades de educação e formação do Sistema Nacional de Qualificações, que integrem as unidades de formação de curta duração ITED que respeitam os conteúdos definidos no Catálogo Nacional de Qualificações, ou qualificação equiparada reconhecida nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, tramitado perante o ICP-ANACOM;
+
+ii) Técnicos de áreas de formação de eletricidade e energia e de eletrónica e automação, que tenham frequentado com aproveitamento as unidades de formação de curta duração ITED integradas no Catálogo Nacional de Qualificações, ou qualificação equiparada reconhecida nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, tramitado perante o ICP-ANACOM;
+
+iii) Cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu com qualificações, obtidas fora de Portugal, equivalentes às referidas nas primeiras partes das subalíneas anteriores, que aqui pretendam exercer a atividade profissional em regime de livre prestação de serviços e para tanto informem mediante declaração prévia o ICP-ANACOM, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+2 -  Compete às associações públicas de natureza profissional assegurar que os técnicos nelas inscritos e habilitados para efeitos do presente decreto-lei como técnicos ITED actualizem os respectivos conhecimentos, competindo-lhes ainda disponibilizar ao ICP-ANACOM informação relativa aos técnicos que considerem habilitados para serem instaladores ITED, nos termos previstos no n.º 4 do artigo 67.º, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+###### Artigo 75.º — Título profissional de instalador ITED habilitado pelo ICP-ANACOM
+
+1 - O exercício, em território nacional, da profissão de instalador ITED, por técnico referido nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo anterior depende da posse de título profissional válido, emitido pelo ICP-ANACOM.
+
+2 - Em caso de reconhecimento de qualificações equivalentes às referidas nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo anterior obtidas fora de Portugal por cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu, o título profissional é emitido com a decisão de deferimento proferida nos termos do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+3 - Fora dos casos previstos no número anterior, o ICP-ANACOM dispõe de 20 dias para decidir sobre a emissão do título profissional, após a regular entrega do respetivo pedido, instruído com certificado de qualificações, após o que se considera aquele tacitamente deferido, valendo como título profissional, para todos os efeitos legais, os comprovativos de submissão do pedido e do pagamento da respetiva taxa.
+
+4 - As referências legislativas a instaladores ITED habilitados pelo ICP-ANACOM devem entender-se como abrangendo também os profissionais referidos na subalínea iii) da alínea b) do n.º 1 do artigo anterior, exceto quando o contrário resulte da norma em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 76.º — Obrigações do instalador ITED
+
+1 - Constituem obrigações dos instaladores ITED:
+
+a) Manter atualizada a informação relativa ao seu título profissional, emitido pelo ICP-ANACOM, nos casos aplicáveis;
+
+b) Empregar nas instalações apenas equipamentos e materiais que estejam em conformidade com os requisitos técnicos e legais aplicáveis;
+
+c) Instalar as infra-estruturas de telecomunicações de acordo com o projecto e com as normas técnicas aplicáveis.
+
+d) Emitir termo de responsabilidade de execução da instalação;
+
+e) Submeter à ANACOM, ao dono da obra, ao diretor da obra, ao diretor de fiscalização da obra e ao proprietário ou à administração do edifício o termo de responsabilidade referido na alínea anterior, no prazo de 10 dias a contar da data da conclusão da instalação;
+
+f) Frequentar ação de formação contínua de atualização científica e técnica, em cada período de cinco anos, com duração correspondente a, pelo menos, 50 horas, em entidade formadora referida no artigo seguinte.
+
+2 - (Revogado.)
+
+3 - Compete à ANACOM aprovar o modelo de termo de responsabilidade a que se refere a alínea d) do n.º 1, bem como as condições da respetiva emissão.
+
+4 - A ligação das ITED às redes públicas de comunicações, ou a sua utilização para a prestação de serviços de comunicações eletrónicas acessíveis ao público, só pode ser efetuada após a emissão do termo de responsabilidade de execução da instalação e a sua submissão à ANACOM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+#### Secção V — Entidades formadoras ITED
+
+###### Artigo 77.º — Formação habilitante de projetistas e instaladores ITED
+
+1 - A formação para obtenção em Portugal das qualificações referidas nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo 74.º e a formação contínua a que se referem a alínea d) do n.º 1 do artigo 69.º e a alínea e) do n.º 1 do artigo anterior são ministradas por entidades formadoras do Sistema Nacional de Qualificações, identificadas no n.º 1 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, com a redação conferida pelo Decreto-Lei n.º 14/2017, de 26 de janeiro, nas quais se incluem as entidades certificadas nos termos do artigo seguinte.
+
+2 - Os cursos de formação ministrados pelas entidades referidas no número anterior devem respeitar as unidades de formação de curta duração ITED previstas no Catálogo Nacional de Qualificações.
+
+3 - As entidades referidas no n.º 1 devem respeitar os requisitos específicos previstos na alínea d) do n.º 1 do artigo seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 78.º — Certificação de entidades formadoras de projetistas e instaladores ITED
+
+1 - A certificação de entidades privadas formadoras para projetistas e instaladores ITED segue os trâmites da portaria que regula a certificação de entidades formadoras, com as seguintes adaptações:
+
+a) A entidade competente para a certificação é o ICP-ANACOM;
+
+b) As entidades formadoras devem cumprir as obrigações previstas no artigo seguinte;
+
+c) O procedimento de revogação da certificação segue os termos do artigo 94.º-A;
+
+d) Outros requisitos específicos, em complemento ou derrogação dos requisitos constantes da portaria que regula a certificação de entidades formadoras, são aprovados por portaria dos membros do Governo responsáveis pelas áreas da formação profissional, das comunicações e da educação, observado o disposto no n.º 4.
+
+2 - A certificação de entidades formadoras referidas no número anterior, expressa ou tácita, é comunicada por meio eletrónico ao serviço central competente do ministério responsável pela área da formação profissional no prazo de 10 dias.
+
+3 - O procedimento de certificação tem início após o pagamento das taxas devidas pela entidade formadora certificada, aquando da apresentação do pedido de certificação.
+
+4 - Os critérios de determinação do preenchimento dos requisitos técnicos materiais e das qualificações técnicas do pessoal a constar da portaria referida na alínea d) do n.º 1 são propostos pelo ICP-ANACOM, em articulação com a Agência Nacional para a Qualificação, I. P., que coordena as ofertas educativas e formativas de dupla certificação e o Catálogo Nacional de Qualificações, bem como com o serviço competente do ministério responsável pela área da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 79.º — Obrigações da entidade formadora de projetistas e instaladores ITED
+
+Constituem obrigações da entidade formadora ITED:
+
+a) Ministrar cursos de formação ITED, incluindo de formação contínua, observado o disposto no artigo 77.º;
+
+b) Utilizar apenas os equipamentos e instalações que correspondam aos requisitos definidos, pelo ICP-ANACOM;
+
+c) Assegurar que os formadores dos cursos referidos na alínea a) estão devidamente habilitados;
+
+d) Assegurar a calibração periódica dos equipamentos, de acordo com as instruções dos respectivos fabricantes, documentado em plano de calibração;
+
+e) Facultar ao ICP-ANACOM informação relativa aos formandos com e sem aproveitamento, por curso ministrado, no prazo máximo de 15 dias após o termo do mesmo;
+
+f) Comunicar previamente ao ICP-ANACOM a realização de cada ação de formação, com indicação dos respetivos, local, data e hora.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 80.º — Encargos de projecto e instalação das ITED
+
+Os encargos inerentes ao projeto e à instalação das ITED são da responsabilidade do dono da obra.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 81.º — Autorização de utilização do edifício
+
+1 - Os pedidos de autorização de utilização de edifícios ou suas frações autónomas a que alude o artigo 62.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, devem ser instruídos com o termo de responsabilidade pela execução da ITED.
+
+2 - O projectista e o instalador ITED participam na vistoria que precede a autorização de utilização do edifício sempre que para tal sejam convocados pela câmara municipal, nos termos do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 82.º — Divulgação de informação relativa às ITED
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+#### Secção VI — ITED dos edifícios construídos
+
+###### Artigo 83.º — Alteração de infraestruturas em edifícios
+
+1 - A alteração das infraestruturas de telecomunicações, nomeadamente para a instalação de fibra ótica, deve ser precedida de projeto técnico simplificado, elaborado por projetista, e instalada por instalador, devidamente habilitados, de acordo com o manual ITED.
+
+2 - Para efeitos do disposto no número anterior, o projetista e o instalador devem emitir termos de responsabilidade e entregá-los ao dono de obra ou à administração do condomínio, aos condóminos requerentes da instalação e ao ICP-ANACOM, no prazo de 10 dias a contar da respetiva conclusão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 84.º — Alteração de infra-estruturas em edifícios sem certificado ITED
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+#### Secção VII — Avaliação de conformidade de equipamentos das ITED
+
+###### Artigo 85.º — Regime aplicável à avaliação de conformidade de equipamentos das ITED
+
+À avaliação de conformidade dos equipamentos, dispositivos e materiais utilizados em infra-estruturas de telecomunicações em edifícios é aplicável o regime previsto nos artigos 51.º a 55.º
+
+#### Secção VIII — Taxas relativas às ITED
+
+###### Artigo 86.º — Taxas devidas ao ICP-ANACOM no âmbito das ITED
+
+1 - Estão sujeitos a taxas os procedimentos de:
+
+a) Emissão de título profissional de instalador ITED habilitado pelo ICP-ANACOM;
+
+b) Certificação das entidades formadoras de projetistas e instaladores ITED.
+
+2 - Os montantes das taxas referidas no número anterior são fixadas por portaria do membro do Governo responsável pela área das comunicações, constituindo receita do ICP-ANACOM.
+
+3 - Os montantes das taxas referidas no n.º 1 são determinados em função dos custos administrativos decorrentes do tipo de procedimento em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+### Capítulo VII — Fiscalização e regime sancionatório
+
+###### Artigo 87.º — Prestação de informações
+
+1 - As entidades abrangidas pelo âmbito do presente decreto-lei devem prestar ao ICP-ANACOM todas as informações relacionadas com a sua actividade relativa às obrigações previstas no presente decreto-lei.
+
+2 - Para efeitos do número anterior, as entidades devem identificar, de forma fundamentada, as informações que consideram confidenciais e devem juntar, caso se justifique, uma cópia não confidencial dos documentos em que se contenham tais informações.
+
+3 - Os pedidos de informações do ICP-ANACOM devem obedecer a princípios de adequação e de proporcionalidade ao fim a que se destinam e devem ser devidamente fundamentados.
+
+4 - As informações solicitadas devem ser prestadas dentro dos prazos, na forma e com o grau de pormenor especificados no pedido de informação do ICP-ANACOM, podendo ser estabelecidas as condições e a periodicidade do seu envio.
+
+###### Artigo 88.º — Fiscalização do cumprimento do presente decreto-lei
+
+1 - Compete ao ICP-ANACOM a fiscalização do cumprimento do disposto no presente decreto-lei, através dos seus agentes de fiscalização ou de mandatários devidamente credenciados pelo conselho de administração, sem prejuízo das competências atribuídas a outras entidades.
+
+2 - Os encargos decorrentes da realização de diligências de fiscalização para verificação do cumprimento das obrigações previstas nos capítulos v e vi, nomeadamente vistorias, análise de projeto, emissão de pareceres e ensaios de materiais, são suportados pelos agentes considerados responsáveis pelas não conformidades detetadas com as normas legais ou técnicas aplicáveis em processo de contraordenação.
+
+3 - Os encargos a que se refere o n.º 2 são fixados no anexo i do presente decreto-lei, do qual faz parte integrante, tendo por base os custos de realização das vistorias, análises de projeto, emissões de pareceres e ensaios de materiais, e são liquidados pela ANACOM na observância das normas da lei geral tributária e do Código do Procedimento e Processo Tributário, atualizados anualmente com base no Índice de Preços ao Consumidor (IPC).
+
+4 - Para efeitos da fiscalização do cumprimento das obrigações legais, regulamentares e técnicas decorrentes do regime previsto nos capítulos v e vi, devem as câmaras municipais facultar à ANACOM o acesso aos processos previstos no regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, que envolvam infraestruturas e redes de comunicações eletrónicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 89.º — Contra-ordenações e coimas
+
+1 - Constituem contraordenações:
+
+a) O incumprimento das disposições relativas aos procedimentos de atribuição de direitos de passagem em domínio público estabelecidas nos n.os 1, 2 e 3 do artigo 6.º;
+
+b) (Revogada.)
+
+c) O incumprimento da obrigação estabelecida nos n.os 1 e 3 do artigo 9.º;
+
+d) A inobservância da obrigação de publicitar no SIIA e manter atualizadas as instruções técnicas previstas no n.º 1 do artigo 11.º, quando existentes, bem como o incumprimento do disposto no n.º 2 do mesmo artigo;
+
+e) O incumprimento das obrigações de acesso estipuladas no artigo 13.º;
+
+f) O incumprimento das decisões proferidas pela ANACOM nos termos do artigo 16.º, bem como do n.º 7 do artigo 19.º;
+
+g) O incumprimento das obrigações das entidades detentoras das infraestruturas aptas previstas no artigo 17.º;
+
+h) O incumprimento da metodologia estabelecida pela ANACOM nos termos dos n.os 4 a 6 do artigo 19.º;
+
+i) O incumprimento da obrigação de publicitar e manter atualizadas as instruções técnicas previstas no n.º 1 do artigo 21.º, quando existentes, bem como o incumprimento do disposto no n.º 2 do mesmo artigo;
+
+j) A violação da obrigação de remoção de cabos, equipamentos ou quaisquer elementos de rede, prevista no n.º 3 do artigo 22.º;
+
+l) O incumprimento das decisões proferidas pelo ICP-ANACOM relativas aos diferendos previstos no n.º 5 do artigo 22.º;
+
+m) A violação da obrigação de comunicação dos acordos com vista à partilha de infraestruturas, prevista no n.º 2 do artigo 23.º;
+
+n) A inobservância das determinações de partilha de recursos previstas nos n.os 3 e 5 do artigo 23.º, bem como das medidas condicionantes previstas no n.º 6 do mesmo artigo;
+
+o) O não cumprimento das obrigações estabelecidas nos n.os 1, 2, 4, 5 e 6 do artigo 24.º;
+
+p) A inobservância das obrigações previstas no n.º 3 do artigo 24.º e nos n.os 2 a 5 do artigo 25.º;
+
+q) A obtenção de remuneração, em violação do n.º 5 do artigo 26.º;
+
+r) (Revogada.)
+
+2 - Sem prejuízo de outras sanções aplicáveis, no âmbito do regime ITUR constituem contra-ordenações:
+
+a) A não instalação das infra-estruturas obrigatórias previstas nas alíneas a) e b) do n.º 1 do artigo 29.º;
+
+b) A não instalação das infra-estruturas obrigatórias previstas no n.º 2 do artigo 29.º;
+
+c) O incumprimento, em fase de projecto, instalação ou utilização da infra-estrutura, das obrigações de sigilo das comunicações, segurança ou não interferência entre as infra-estruturas de cablagem instaladas, como previsto no n.º 3 do artigo 29.º;
+
+d) A ausência de comunicação do início da obra ao projetista, em violação do n.º 4 do artigo 29.º;
+
+e) O incumprimento da obrigação de utilização da infra-estrutura instalada nas situações previstas no n.º 1 do artigo 30.º;
+
+f) A ocupação de espaços e tubagens em desrespeito pelo disposto nos n.os 2 e 3 do artigo 30.º;
+
+g) A definição de procedimentos de acesso às ITUR e das condições aplicáveis ao exercício do direito de acesso, em desrespeito do regime previsto nos n.os 7 e 8 do artigo 31.º;
+
+h) O incumprimento da obrigação de acesso fixada no n.º 9 do artigo 31.º;
+
+i) A oposição à instalação de uma infra-estrutura de telecomunicações para uso individual fora das situações previstas nas alíneas a) ou b) do n.º 3 e do n.º 4 do artigo 32.º;
+
+j) A violação das obrigações previstas nos n.os 1 e 4 do artigo 33.º, bem como o incumprimento das decisões da ANACOM proferidas nos termos do n.º 5 do mesmo artigo;
+
+l) (Revogada.)
+
+m) (Revogada.)
+
+n) A exigência de pagamento ou de qualquer contrapartida financeira ou de outra natureza, por parte dos proprietários e administrações dos conjuntos de edifícios para permitir o acesso às ITUR privadas, em violação do regime previsto no n.º 2 do artigo 33.º;
+
+o) A elaboração de projeto técnico por pessoa não legalmente habilitada para o efeito, em violação do disposto no n.º 1 do artigo 36.º e no n.º 1 do artigo 66.º;
+
+p) (Revogada.)
+
+q) (Revogada.)
+
+r) O incumprimento da obrigação de disponibilização de informação à ANACOM, nos termos previstos no n.º 2 do artigo 37.º e no n.º 3 do artigo 41.º;
+
+s) O incumprimento pelo projetista das obrigações previstas no artigo 38.º e no n.º 1 do artigo 50.º;
+
+t) (Revogada.)
+
+u) A instalação e conservação de infra-estruturas ITUR por entidade não habilitada para o efeito, em desrespeito do regime previsto no n.º 1 do artigo 40.º;
+
+v) (Revogada.)
+
+x) O incumprimento pelo instalador das obrigações previstas no n.º 1 do artigo 43.º e no artigo 50.º;
+
+z) O incumprimento pelo promotor, pelo proprietário, pela administração do conjunto de edifícios e pela empresa de comunicações eletrónicas da obrigação prevista no n.º 4 do artigo 43.º;
+
+aa) A realização de cursos de formação, incluindo de formação contínua, em desrespeito pelo disposto no n.º 2 do artigo 44.º, bem como a sua realização por entidades não certificadas nos termos do artigo 45.º;
+
+bb) O incumprimento das obrigações previstas no artigo 49.º;
+
+cc) A colocação no mercado e a instalação de equipamentos, dispositivos e materiais em desconformidade com o disposto no artigo 51.º;
+
+dd) O incumprimento das obrigações de disponibilização da informação previstas no n.º 3 do artigo 52.º;
+
+ee) A alteração ou a construção de infra-estruturas em ITUR em desrespeito do regime previsto nos n.os 1 a 4 do artigo 100.º
+
+3 - Sem prejuízo de outras sanções aplicáveis, no âmbito do regime ITED constituem contra-ordenações:
+
+a) A aposição do rótulo referido no n.º 2 do artigo 57.º em infração ao disposto no mesmo artigo, bem como a não instalação das infraestruturas obrigatórias previstas nas alíneas a) a d) do n.º 1 do artigo 59.º;
+
+b) O incumprimento da obrigação de instalação das infra-estruturas previstas no n.º 2 do artigo 59.º;
+
+c) O incumprimento, em fase de projecto, instalação ou utilização da infra-estrutura, das obrigações de sigilo das comunicações, segurança ou não interferência entre as infra-estruturas de cablagem instaladas, como previsto no n.º 3 do artigo 59.º;
+
+d) A ausência de comunicação do início da obra ao projetista, em violação do n.º 4 do artigo 59.º;
+
+e) O incumprimento da obrigação de utilização da infra-estrutura instalada nas situações previstas no n.º 1 do artigo 61.º;
+
+f) A ocupação de espaços e tubagens em desrespeito pelo disposto nos n.os 3 e 4 do artigo 61.º;
+
+g) A violação da obrigação de acesso nos termos e condições previstas no n.º 1 do artigo 63.º, bem como a violação pelas empresas de comunicações electrónicas do disposto no n.º 4 do mesmo artigo;
+
+h) A exigência de pagamento ou de qualquer contrapartida financeira ou de outra natureza, por parte dos proprietários e administrações dos edifícios para permitir o acesso às ITED, em violação do regime previsto no n.º 2 do artigo 63.º;
+
+i) A oposição à instalação de uma infra-estrutura de telecomunicações para uso individual fora das situações previstas nas alíneas a) e b) do n.º 1 e no n.º 2 do artigo 64.º;
+
+j) A instalação das ITED sem projeto técnico elaborado por um projetista, em incumprimento do n.º 1 do artigo 65.º, bem como a elaboração do projeto técnico em violação do n.º 2 do mesmo artigo;
+
+l) (Revogada.)
+
+m) (Revogada.)
+
+n) O incumprimento da obrigação de disponibilização de informação ao ICP-ANACOM, nos termos previstos no n.º 4 do artigo 67.º;
+
+o) O incumprimento das obrigações previstas no n.º 1 do artigo 69.º e no n.º 2 do artigo 74.º;
+
+p) (Revogada.)
+
+q) A instalação, a alteração e a conservação de infra-estruturas ITED por entidade não habilitada para o efeito, em desrespeito do regime previsto no n.º 1 do artigo 73.º;
+
+r) O incumprimento, pelo instalador, das obrigações previstas no n.º 1 do artigo 76.º e o incumprimento, pelo dono da obra e pela empresa de comunicações electrónicas, do n.º 4 do artigo 76.º;
+
+s) A realização de cursos de formação, incluindo de formação contínua, em desrespeito pelo disposto nos n.os 2 e 3 do artigo 77.º, bem como a sua realização por entidades não certificadas nos termos do n.º 1 do artigo 78.º;
+
+t) (Revogada.)
+
+u) O incumprimento das obrigações previstas no artigo 79.º;
+
+v) (Revogada.)
+
+x) A alteração das infraestruturas de telecomunicações em edifícios, em desrespeito do regime fixado no artigo 83.º;
+
+z) O incumprimento das obrigações de disponibilização da informação previstas no n.º 3 do artigo 52.º, bem como a colocação no mercado de equipamentos, dispositivos e materiais em desconformidade com o disposto no artigo 51.º, todos por remissão do artigo 85.º;
+
+4 - Sem prejuízo de outras sanções aplicáveis, constituem ainda contra-ordenações:
+
+a) O não cumprimento das obrigações de informação previstas no artigo 87.º, nos termos e prazos estabelecidos pelo ICP-ANACOM;
+
+b) O incumprimento dos procedimentos de avaliação das ITED e das ITUR aprovados pelo ICP-ANACOM ao abrigo do artigo 105.º;
+
+c) O incumprimento das ordens, mandatos e decisões proferidos pelo ICP-ANACOM no exercício das competências previstas no presente decreto-lei.
+
+5 - São contraordenações graves as previstas nas alíneas d) e i) do n.º 1, nas alíneas d), i), j) e dd) do n.º 2 e nas alíneas d), h) e i) do n.º 3.
+
+6 - São contraordenações muito graves as previstas nas alíneas a), c), e), f), g), h), j), l), m), n), o), p) e q) do n.º 1, nas alíneas a), b), c), e), f), g), h), n), o), r), s), u), x), z), aa), bb), cc) e ee) do n.º 2, nas alíneas a), b), c), e), f), g), j), n), o), q), r), s), u), x) e z) do n.º 3 e no n.º 4.
+
+7 - As contraordenações graves previstas no n.º 1 são puníveis com as seguintes coimas:
+
+a) Se praticadas por pessoa singular, de (euro) 500 a (euro) 7500;
+
+b) Se praticadas por microempresa, de (euro) 1000 a (euro) 10 000;
+
+c) Se praticadas por pequena empresa, de (euro) 2000 a (euro) 25 000;
+
+d) Se praticadas por média empresa, de (euro) 4000 a (euro) 50 000;
+
+e) Se praticadas por grande empresa, de (euro) 10 000 a (euro) 1 000 000.
+
+8 - As contraordenações muito graves previstas no n.º 1, bem como as previstas no n.º 4, se relativas a matéria constante dos capítulos ii, iii e iv, são puníveis com as seguintes coimas:
+
+a) Se praticadas por pessoa singular, de (euro) 1000 a (euro) 20 000;
+
+b) Se praticadas por microempresa, de (euro) 2000 a (euro) 50 000;
+
+c) Se praticadas por pequena empresa, de (euro) 6000 a (euro) 150 000;
+
+d) Se praticadas por média empresa, de (euro) 10 000 a (euro) 450 000;
+
+e) Se praticadas por grande empresa, de (euro) 20 000 a (euro) 5 000 000.
+
+9 - As contraordenações graves previstas nos n.os 2 e 3 são puníveis com as seguintes coimas:
+
+a) Se praticadas por pessoa singular, de (euro) 500 a (euro) 5000;
+
+b) Se praticadas por microempresa, de (euro) 750 a (euro) 7500;
+
+c) Se praticadas por pequena empresa, de (euro) 1500 a (euro) 15 000;
+
+d) Se praticadas por média empresa, de (euro) 3000 a (euro) 50 000;
+
+e) Se praticadas por grande empresa, de (euro) 7500 a (euro) 250 000.
+
+10 - As contraordenações muito graves previstas nos n.os 2 e 3, bem como as previstas no n.º 4, se relativas a matéria constante dos capítulos v e vi, são puníveis com as seguintes coimas:
+
+a) Se praticadas por pessoa singular, de (euro) 1000 a (euro) 10 000;
+
+b) Se praticadas por microempresa, de (euro) 1500 a (euro) 15 000;
+
+c) Se praticadas por pequena empresa, de (euro) 4000 a (euro) 50 000;
+
+d) Se praticadas por média empresa, de (euro) 8000 a (euro) 250 000;
+
+e) Se praticadas por grande empresa, de (euro) 16 000 a (euro) 1 000 000.
+
+11 - Sem prejuízo da aplicação do regime da responsabilidade civil extracontratual das entidades públicas, as autarquias locais encontram-se sujeitas ao regime contra-ordenacional previsto no presente decreto-lei.
+
+12- Sempre que a contra-ordenação resulte da omissão do cumprimento de um dever jurídico ou de uma ordem emanada do ICP-ANACOM, a aplicação das sanções não dispensa o infractor do cumprimento do dever ou da ordem, se este ainda for possível.
+
+13 - Nas contraordenações previstas na presente lei são puníveis a tentativa e a negligência, nos termos previstos no artigo 4.º da Lei n.º 99/2009, de 4 de setembro, que aprova o regime aplicável às contraordenações do setor das comunicações, alterada pela Lei n.º 46/2011, de 24 de junho.
+
+14 - O disposto no presente decreto-lei não prejudica o regime de contra-ordenações previstas no regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99 de 16 de Dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675), em vigor a partir de 2009-09-26
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 90.º — Sanções acessórias
+
+1- Para além das coimas fixadas no artigo anterior, podem ainda ser aplicadas, sempre que a gravidade da infracção e a culpa do agente o justifique, as seguintes sanções acessórias:
+
+a) Perda a favor do Estado de objectos, equipamentos e dispositivos ilícitos, na contra-ordenação prevista na alínea z) do n.º 2 do artigo anterior;
+
+b) Interdição do exercício da respetiva atividade, até ao máximo de dois anos, nas contraordenações previstas nas alíneas e), n), o), primeira parte da alínea s), u) e x) do n.º 2 e e), i), j), o), q) e u) do n.º 3, ambos do artigo anterior;
+
+c) Privação do direito de participar em concursos ou arrematações promovidos no âmbito do presente decreto-lei e da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, até ao máximo de dois anos, nas contraordenações previstas nas alíneas f), g), h), o) e r) do n.º 1 e f) e i) do n.º 2, ambos do artigo anterior.
+
+2 - Sem prejuízo do disposto na alínea a) do número anterior, consideram-se perdidos a favor do Estado os objetos, equipamentos ou dispositivos ilícitos que tenham sido cautelar ou provisoriamente apreendidos e que, após notificação aos interessados, não tenham sido reclamados no prazo de 60 dias.
+
+3 - Os objetos, equipamentos ou dispositivos ilícitos perdidos a favor do Estado, nos termos da alínea a) do n.º 1 ou do número anterior, revertem para o ICP-ANACOM, que lhes dá o destino que julgar adequado.
+
+4 - O ICP-ANACOM suspende o título profissional por ele atribuído, sempre que, nos termos da alínea b) do n.º 1, ao seu titular seja aplicada a sanção acessória de interdição do exercício da respetiva atividade, pelo mesmo período.
+
+5 - No caso de suspensão do título profissional, o infrator é notificado para proceder, voluntariamente, à sua entrega no ICP-ANACOM, sob pena de o mesmo ser apreendido.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 91.º — Processamento e aplicação das contra-ordenações
+
+1 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei bem como o arquivamento dos processos de contra-ordenação são da competência do conselho de administração do ICP-ANACOM.
+
+2 - A instauração dos processos de contra-ordenação é da competência do conselho de administração do ICP-ANACOM, cabendo a instrução dos mesmos aos respectivos serviços.
+
+3 - As competências previstas nos números anteriores podem ser delegadas.
+
+4 - O ICP-ANACOM e os Municípios colaboram na fiscalização do cumprimento das obrigações constantes do presente decreto-lei, no âmbito das respectivas atribuições.
+
+5 - Sempre que estejam em causa contra-ordenações no domínio de operações cujo controlo caiba às autarquias locais, podem estes participar ao ICP-ANACOM a prática das respectivas infracções.
+
+6 - O montante das coimas reverte para o Estado em 60 % e para o ICP-ANACOM em 40 %.
+
+7 - Caso o processo de contra-ordenação tenha sido instaurado na sequência de participação por parte de um das autarquias locais, nos termos do n.º 5, o montante das coimas reverte para o Estado em 60 %, para o ICP-ANACOM em 20 % e para a autarquia local em 20 %.
+
+8 - (Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 92.º — Notificações em processo contra-ordenacional
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 93.º — Auto de notícia
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 94.º — Perda a favor do Estado
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 94.º-A — Falsidade de elemento comprovativo dos requisitos de emissão do título profissional e incumprimento
+
+1 - Quando se verifique a falsidade de qualquer elemento comprovativo dos requisitos para a emissão do título profissional, este é revogado e o infrator notificado para proceder, voluntariamente, à sua entrega no ICP-ANACOM, sob pena de o mesmo ser apreendido.
+
+2 - Sem prejuízo de outros mecanismos sancionatórios aplicáveis, em caso de incumprimento grave ou reiterado, pelos projetistas ITED ou instaladores ITUR ou ITED habilitados pelo ICP-ANACOM e pelas entidades formadoras ITUR e ITED certificadas, das obrigações previstas nos artigos 43.º, 49.º, 69.º, 76.º e 79.º, pode o ICP-ANACOM proceder à suspensão, até um máximo de seis meses, ou à revogação, total ou parcial, do título profissional ou da certificação, consoante a gravidade da infração e a intensidade da culpa.
+
+3 - A decisão de suspensão ou revogação a que se refere o número anterior observa o disposto no Código do Procedimento Administrativo, nomeadamente no que se refere à audiência prévia dos interessados.
+
+4 - Em caso de revogação, não pode ser emitido novo título antes de decorridos seis meses sobre a data em que a mesma teve lugar.
+
+5 - Nas situações referidas no n.º 2, o infrator é notificado para proceder, voluntariamente, à entrega do título profissional no ICP-ANACOM, sob pena de o mesmo ser apreendido.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+### Capítulo VIII — Disposições transitórias e finais
+
+#### Secção I — Disposições transitórias relativas aos capítulos II, III e IV
+
+###### Artigo 95.º — Fixação dos elementos que instruem a comunicação prévia
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 96.º — Obrigações de informação
+
+(Revogado.)
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 258/2009 - Diário da República n.º 187/2009, Série I de 2009-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2009-490675) As empresas de comunicações electrónicas dispõem de 30 dias, cuja contagem inicia no dia 25 de setembro de 2009, para cumprir o disposto no n.º 2 do presente artigo.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 97.º — Regime transitório de aplicação à concessionária do serviço público de telecomunicações
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 98.º — Comunicação de acordos de partilha
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 99.º — Regras para implementação do SIC
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+#### Secção II — Disposições transitórias relativas aos capítulos V e VI
+
+###### Artigo 100.º — Aplicação do regime às ITUR
+
+1 - Até 30 dias após a publicação do aviso previsto no n.º 2 do artigo 106.º, no que se refere ao manual ITUR, as alterações a efectuar nas infra-estruturas de telecomunicações em ITUR privadas, nomeadamente para a instalação de fibra óptica, devem prever espaço para a instalação de equipamento e cablagem de fibra óptica, respectiva entrada e ligação a infra-estruturas de telecomunicações já existentes por mais do que uma empresa de comunicações electrónicas.
+
+2 - Para efeitos do número anterior, devem existir as interligações com espaços adequados à passagem do número de cabos de fibra óptica necessários, adaptados ao número de edifícios existentes.
+
+3 - O regime previsto nos números anteriores aplica-se igualmente às ITUR privadas cujos processos de licenciamento, autorização ou comunicação prévia venham a ser entregues nos serviços camarários após a data de entrada em vigor do presente decreto-lei e até 30 dias após a data de publicação do aviso previsto no n.º 2 do artigo 106.º, no que se refere ao manual ITUR.
+
+4 - As ITUR públicas cujos processos de licenciamento, autorização ou comunicação prévia venham a ser entregues nos serviços camarários após a data de entrada em vigor do presente decreto-lei e até 30 dias após a data de publicação do aviso previsto no n.º 2 do artigo 106.º, no que se refere ao manual ITUR, devem possuir tubagem devidamente adaptada à instalação de cablagem de fibra óptica, bem como de cablagem de pares de cobre e coaxial, por mais do que uma empresa de comunicações electrónicas.
+
+5 - O regime relativo ao projecto e à instalação das ITUR previsto no capítulo v é obrigatório para as operações de loteamento e obras de urbanização cujos processos venham a ser entregues nos serviços camarários 30 dias após a data de publicação do aviso a que se refere o n.º 2 do artigo 106.º relativo ao manual ITUR, sem prejuízo das obrigações previstas nos n.os 3 e 4 do presente artigo.
+
+###### Artigo 101.º — Acordos com associações públicas de natureza profissional
+
+No prazo de 30 dias contados da data de entrada em vigor do presente decreto-lei o ICP-ANACOM e as associações públicas de natureza profissional devem acordar os termos da disponibilização da informação prevista no n.º 2 do artigo 37.º e no n.º 4 do artigo 67.º
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 102.º — Aplicação do regime às ITED
+
+Até à publicação do aviso previsto no n.º 2 do artigo 106.º, no que se refere ao manual ITED, aos projectos de ITED que venham a ser entregues nos serviços camarários após a entrada em vigor do presente decreto-lei nos termos do regime da edificação e da urbanização, aplica-se o manual ITED em vigor.
+
+###### Artigo 103.º — Actualização de técnicos ITED
+
+1 - Todos os técnicos ITED inscritos no ICP-ANACOM à data de publicação do presente decreto-lei devem realizar acções de formação, em entidades para tal devidamente habilitadas e a designar pelo ICP-ANACOM, tendo em vista assegurar a necessária actualização de conhecimentos face ao disposto no presente decreto-lei.
+
+2 - Compete às associações públicas de natureza profissional assegurar que os técnicos nelas inscritos e habilitados para efeitos do presente decreto-lei como técnicos ITED actualizem os respectivos conhecimentos.
+
+3 - As acções de formação previstas nos números anteriores devem ser realizadas no prazo de um ano após a data de publicação do aviso previsto no n.º 2 do artigo 106.º
+
+4 - Os técnicos ITED não abrangidos por associação pública de natureza profissional devem, dentro do prazo estabelecido no número anterior, fazer prova junto do ICP-ANACOM de que procederam à realização das acções de formação mencionadas, sob pena de revogação da respectiva inscrição.
+
+###### Artigo 104.º — Adaptação dos edifícios construídos à fibra óptica
+
+(Revogado.)
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 105.º — Avaliação das ITUR e das ITED
+
+Compete ao ICP-ANACOM, após procedimento geral de consulta nos termos do artigo 8.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, a aprovação dos procedimentos de avaliação das ITUR e das ITED, as quais são de cumprimento obrigatório pelos instaladores.
+
+#### Secção III — Disposições finais
+
+###### Artigo 106.º — Aprovação dos manuais ITUR e ITED
+
+1 - Os manuais ITUR e ITED são aprovados, após procedimento geral de consulta nos termos do artigo 8.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, por deliberação do conselho de administração do ICP-ANACOM, a qual é publicada na 2.ª série do Diário da República.
+
+2 - Os manuais referidos no número anterior são obrigatoriamente disponibilizados no sítio de Internet do ICP-ANACOM, devendo este facto ser publicitado em aviso publicado na 2.ª série do Diário da República.
+
+###### Artigo 106.º-A — Divulgação de informação relativa às ITUR e às ITED
+
+Compete ao ICP-ANACOM disponibilizar no seu sítio na Internet a seguinte informação:
+
+a) Projetistas ITED e instaladores ITUR e ITED com título profissional válido emitido pelo ICP-ANACOM;
+
+b) Projetistas e instaladores, não incluídos na alínea anterior, a operar em território nacional;
+
+c) Entidades formadoras certificadas;
+
+d) Instalações certificadas.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 107.º — Contagem de prazos
+
+À contagem dos prazos administrativos previstos no presente decreto-lei aplicam-se as regras constantes do artigo 87.º do Código do Procedimento Administrativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 107.º-A — Desmaterialização dos procedimentos
+
+1 - Sem prejuízo do disposto nos números seguintes, as comunicações e as notificações previstas no presente decreto-lei e o envio de documentos, de requerimentos ou de informações entre prestadores de serviços e autoridades competentes são realizados por via eletrónica através do balcão único eletrónico dos serviços ou por qualquer outro meio legalmente admissível, excetuadas as formalidades realizadas através do sistema informático referido no artigo 8.º-A do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro.
+
+2 - O disposto no número anterior não prejudica a tramitação de procedimentos no SIC, nos termos dos capítulos ii, iii e iv, devendo este sistema ser acessível a partir do balcão único eletrónico dos serviços.
+
+3 - O disposto no n.º 1 não é aplicável às comunicações, notificações e demais atos processuais no âmbito dos procedimentos contraordenacionais.
+
+4 - Sempre que os sistemas informáticos referidos no n.º 1 não estejam disponíveis, as formalidades a praticar nos termos do presente decreto-lei devem ser realizadas por qualquer outro meio legalmente admissível.
+
+> Nota: [Artigo 5.º, Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859) Até que esteja disponível o balcão único eletrónico dos serviços referido no presente artigo, as comunicações e as notificações que devam realizar-se através do mesmo, efetuam-se através de endereço de correio eletrónico único criado para o efeito pelo ICP-ANACOM, a indicar no respetivo sítio da Internet.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 108.º — Apresentação de documentos disponíveis na Internet
+
+Sempre que os documentos cuja apresentação é exigida pelo presente decreto-lei estejam disponíveis na Internet, podem as pessoas ou entidades que estão obrigadas a apresentá-los indicar ao ICP-ANACOM o endereço do sítio onde aqueles podem ser consultados, bem como a informação necessária a essa consulta.
+
+###### Artigo 108.º-A — Cooperação administrativa
+
+Para efeitos do presente decreto-lei, as autoridades competentes participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores e profissionais provenientes de outros Estados membros da União Europeia ou do Espaço Económico Europeu, nos termos do disposto no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente através do Sistema de Informação do Mercado Interno.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/lei/47-2013-497859), em vigor a partir de 2013-09-08
+
+###### Artigo 108.º-B — Resolução alternativa de litígios
+
+Para a resolução de litígios emergentes da aplicação do presente decreto-lei é permitido o recurso à arbitragem ou a outros meios de resolução alternativa de litígios.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+###### Artigo 109.º — Norma revogatória
+
+1 - São revogados:
+
+a) O Decreto-Lei n.º 59/2000, de 19 de Abril;
+
+b) O Decreto-Lei n.º 68/2005, de 15 de Março;
+
+c) Os n.os 5 a 7 do artigo 19.º e os n.os 5 a 7 do artigo 26.º da Lei n.º 5/2004, de 10 de Fevereiro.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 43/2009 - Diário da República n.º 121/2009, Série I de 2009-06-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2009-491970), produz efeitos a partir de 2009-05-22
+
+###### Artigo 110.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O certificado de conformidade da instalação de infra-estruturas de telecomunicações em edifícios prevista no Decreto-Lei n.º 59/2000, de 19 de Abril, não é exigido para efeitos de atribuição de autorização de utilização dos edifícios, cujos procedimentos respectivos se encontrem pendentes à data de entrada em vigor do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 26 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Fernando Pereira Serrasqueiro - Mário Lino Soares Correia.
+
+Promulgado em 8 de Maio de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 12 de Maio de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Encargos com ações de fiscalização ITED e ITUR
+
+Encargos com as diligências de ações de fiscalização (por ação) - 527,00 euros.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+## Anexo II — Modelo da declaração e certificação previstas no n.º 7 do artigo 20
+
+Modelo de declaração prevista nos n.os 5 e 7 do artigo 20.º
+
+(ver documento original)
+
+Modelo de certificação prevista nos n.os 6 e 7 do artigo 20.º
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01
+
+## Anexo III — Modelo do rótulo previsto no n.º 3 do artigo 57.º
+
+(ver documento original)
+
+O rótulo ITED deverá ser colocado no lado exterior da porta do ATI (armário de telecomunicações individual), para o caso dos edifícios de um fogo, ou no lado exterior da porta do ATE (armário de telecomunicações de edifício), para o caso dos edifícios de dois ou mais fogos.
+
+De forma a permitir uma maior exposição, poderá ser considerada a afixação adicional de rótulos ITED, nos locais que o instalador considerar adequados.
+
+As características do rótulo devem ser as seguintes:
+
+1 - Cores
+
+O rótulo ITED deve ser impresso, sempre que possível, em Pantone.
+
+Fundo: branco.
+
+Filete: preto.
+
+«Cumpre o»: cinzento.
+
+Pantone: 430C.
+
+Quadricromia (CMYK): 5 % cyan e 45 % preto.
+
+RGB: R=128; G=136; B=137.
+
+«ITED» e «Infraestruturas de Telecomunicações em Edifícios»: preto.
+
+Pantone: 100 % preto.
+
+Quadricromia (CMYK): 100 % preto.
+
+RGB: R=0; G=0; B=0.
+
+Símbolo do logótipo: amarelo (as duas primeiras e as duas últimas colunas) e cinzento (as duas colunas centrais).
+
+Pantone: amarelo (123C); cinzento (430C).
+
+Quadricromia (CMYK): amarelo (20 % magenta e 100 % amarelo); cinzento (5 % cyan e 45 % preto).
+
+RGB: amarelo (R=255; G=204; B=51); cinzento (R=128; G=136; B=137).
+
+«Apto para banda larga»: fundo amarelo e texto preto.
+
+Pantone: fundo amarelo (123C); texto preto (100 % preto).
+
+Quadricromia (CMYK): fundo amarelo (20 % magenta e 100 % amarelo); texto preto (100 % preto).
+
+RGB: fundo amarelo (R=255; G=204; B=51); texto preto (R=0; G=0; B=0).
+
+2 - Tipo de letra
+
+Na legenda Cumpre o Ited. Apto para banda larga é utilizada a fonte ITC Symbol na forma «bold italic» e «bold».
+
+(ver documento original)
+
+3 - Grelha
+
+(ver documento original)
+
+4 - Dimensões do rótulo
+
+4.1 - Dimensões mínimas do rótulo
+
+85 mm x 50 mm
+
+4.2 - Dimensões máximas do rótulo
+
+125 mm x 73 mm
+
+O rótulo ITED poderá ter dimensões superiores à máxima indicada no presente anexo nos casos em que as dimensões do ATI e ATE o justifiquem de forma a permitir uma maior exposição.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 92/2017 - Diário da República n.º 146/2017, Série I de 2017-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2017-107785482), em vigor a partir de 2017-08-01

@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:294368:por
+title: Portaria n.º 21316
+short_title: null
+summary: Alarga ao ultramar português a via radiotelegráfica de recurso que tem a designação de via Portucale-NAV
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Marinha e do Ultramar
+proposing_entity: null
+official_number: '21316'
+official_date: null
+publication_date: '1965-06-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 122/1965, Série I de 1965-06-01
+  number: '122'
+  series: I
+  supplement: null
+  pages: 762 - 764
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/06/12200/07620764.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294368'
+  dre_path: /dr/detalhe/portaria/21316-1965-294368
+  internal: pt:dre:294368:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21316-1965-294368
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21316-1965-294368
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1965-06-01T00:00:00Z'
+integrity:
+  source_sha256: 798ec0174ced0c4515e92f5ffd342913897f20d8528e7e6f6d0179285138d88e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-21316-294368.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21316
+
+A [Portaria n.º 9974](https://diariodarepublica.pt/dr/detalhe/portaria/9974-1941-345876), de 24 de Dezembro de 1941, criou a via radiotelegráfica de recurso designada por via Portucale-NAV, destinada a permitir que as guarnições dos navios da Armada, no mar, pudessem trocar telegramas particulares com os seus familiares residentes no continente e ilhas adjacentes;
+
+A situação que decorre no ultramar português implicou o aumento do número de navios atribuídos aos comandos territoriais da Armada das províncias ultramarinas, com as consequente fixação de muitos familiares do pessoal das guarnições dos navios nessas províncias;
+
+Considera-se agora oportuno alargar às províncias ultramarinas a via Portucale-NAV, de forma a permitir que as guarnições dos navios da Armada, no mar, possam trocar telegramas particulares com os seus familiares residentes naquelas províncias.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Marinha e do Ultramar, aprovar as seguintes normas reguladoras da extensão dos serviços radiotelegráficos pela via de recurso Portucale-NAV ao ultramar português:
+
+1.ª É alargada ao ultramar português a via radiotelegráfica de recurso que tem a designação de via Portucale-NAV, para pôr em ligação radiotelegráfica as estações dos CTT das províncias ultramarinas, dentro das áreas dos comandos navais e dos comandos das defesas marítimas territoriais, com as guarnições dos navios da Armada, em serviço fora das suas bases normais, e com o pessoal militar embarcado nos navios armados em transporte de tropas, para permuta de radiotelegramas particulares.
+
+2.ª A via de recurso Portucale-NAV será normalmente garantida pelas estações e postos radionavais do Ministério da Marinha em correspondência com as estações radiotelegráficas dos navios da Armada e dos navios armados em transporte de tropas, de um lado, e com estações dos CTT das províncias ultramarinas, do outro lado, sem prejuízo do serviço de carácter militar que competem àquelas estações e postos.
+
+3.ª Os radiotelegramas particulares permutados entre as estações em terra e as estações de bordo pela via Portucale-NAV terão sempre a indicação de serviço não taxado NAV, além de outras indicações referentes à categoria de radiotelegramas autorizados a circular por esta via.
+
+4.ª Os radiotelegramas NAV obedecerão às normas nacionais e internacionais estabelecidas para o serviço telegráfico e radiotelegráfico e pagarão as taxas fixadas na norma 8.ª
+
+Este serviço ficará sempre sujeito às restrições estabelecidas pelos comandos navais e de defesas marítimas territoriais.
+
+5.ª A aceitação dos radiotelegramas em terra será normalmente feita nas estações dos CTT das províncias ultramarinas ou nos postos telegráficos devidamente autorizados à execução desses serviços.
+
+Os impressos de aceitação, tanto em terra como a bordo, deverão obedecer às características dos do modelo oficial dos CTT com as necessárias anotações de origem impressas a cor ou apostas por meio de carimbos.
+
+6.ª A entrega dos radiotelegramas aos destinatários em terra é normalmente feita pelos serviços de distribuição dos CTT da província ultramarina a que for dirigido.
+
+Os radiotelegramas urgentes poderão, no entanto, ser telefonados directamente pelas estações radionavais aos destinatários que se encontrem dentro da sua área, não dispensando este facto a remessa de original aos serviços de distribuição dos CTT com a anotação de que «já foi telefonado ao destinatário às ... horas».
+
+7.ª Toda a receita do serviço radiotelegráfico NAV será entregue, juntamente com as relações do tráfego, na tesouraria da direcção do serviço (ou repartição provincial) dos CTT das províncias ultramarinas em questão, que lhe dará o destino previsto nos regulamentos ou normas de serviço em vigor.
+
+A Direcção do Serviço de Electricidade e Comunicações do Ministério da Marinha concentrará e remeterá à direcção do serviço (ou repartição provincial) dos CTT da província ultramarina interessada toda a documentação relativa à expedição do serviço NAV de bordo dos navios da Armada, dos navios armados em transporte de tropas e das estações radionavais a cargo daquele Ministério para os fins regulamentares em vigor.
+
+8.ª As taxas dos radiotelegramas a permutar com os navios da Armada e os navios armados em transporte de tropas serão idênticas às estabelecidas pela [Portaria n.º 9974](https://diariodarepublica.pt/dr/detalhe/portaria/9974-1941-345876), de 24 de Dezembro de 1941, considerando-se, para cada província ultramarina, como equivalente à área CAM, uma zona designada INT correspondente à área do respectivo coxeando naval; para o caso dos Comandos das Defesas Marítimas de Macau e Timor a área da zona INT é representada por uma zona circular de 100 milhas de raio em torno daquelas províncias.
+
+Os limites da zona INT encontram-se definidos no mapa anexo a esta portaria.
+
+Considera-se zona EXT, em relação a cada província ultramarina, a zona exterior à respectiva zona INT.
+
+O Ministério da Marinha isenta os expedidores dos radiotelegramas, enviados pela via Portucale-NAV, do pagamento de quaisquer taxas de bordo ou costeiras devidas ao serviço prestado pelos postos e estações radionavais do mesmo Ministério.
+
+As taxas a pagar do mar para terra ou de terra para o mar serão as seguintes:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1965/06/12200/07620764.pdf))](https://files.diariodarepublica.pt/1s/1965/06/12200/07620764.pdf)
+
+9.ª Sempre que os radiotelegramas tenham de ser passados em circuitos não pertencentes aos CTT do ultramar, serão cobradas as taxas em vigor que constarem das tabelas que cada direcção ou repartição provincial elaborará para os destinos mais frequentes e remeterá ao respectivo comando naval ou de defesa marítima territorial, fazendo-lhe progressivamente os aditamentos que a evolução das necessidades justificar.
+
+10.ª Quando as estações dos navios transmitirem os radiotelegramas directamente às estações costeiras dos CTT que executam o serviço de correspondência pública, as taxas serão as fixadas para os navios de passageiros, deduzidas as taxas de bordo.
+
+11.ª Ficam autorizadas a circular neste serviço as categorias de radiotelegramas admitidas na via Portucale-NAV.
+
+12.ª Não é permitido a qualquer elemento da guarnição dos navios da Armada ou pessoal militar dos navios armados em transporte de tropas prestar-se a desviar pela via Portucale-NAV o serviço terrestre da via Portucale.
+
+Sempre que tal desvio se verifique, os radiotelegramas serão suspensos, ficando o expedidor sujeito à multa do triplo das taxas terrestres que correspondem à via Portucale, independentemente das sanções disciplinares.
+
+Ministérios da Marinha e do Ultramar, 1 de Junho de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
+
+EXTENSÃO DA VIA PORTUCALE-NAV AO ULTRAMAR
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1965/06/12200/07620764.pdf))](https://files.diariodarepublica.pt/1s/1965/06/12200/07620764.pdf)
+
+Ministérios da Marinha e do Ultramar, 1 de Junho de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -1,0 +1,248 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25343692:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-108074407",
+ "dre_path": "/dr/detalhe/decreto-lei/74-2014-25343692",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-05-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108070617",
+    "108070618",
+    "108070619",
+    "108070620",
+    "108070621",
+    "108070622",
+    "108070623",
+    "108070624",
+    "108070625",
+    "108070626",
+    "108070627"
+   ]
+  },
+  {
+   "date": "2017-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108068704:por",
+     "title": "Decreto-Lei n.º 105/2017",
+     "published": "2017-08-29",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2017-108068704"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "108070617",
+    "108070618",
+    "108070619",
+    "108070620",
+    "108070621",
+    "108070632",
+    "108070623",
+    "108070624",
+    "108070633",
+    "108070634",
+    "108070629",
+    "108070630",
+    "108070631"
+   ]
+  },
+  {
+   "date": "2018-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117142870:por",
+     "title": "Decreto-Lei n.º 104/2018",
+     "published": "2018-11-29",
+     "dre_path": "/dr/detalhe/decreto-lei/104-2018-117142870"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "108070617",
+    "108070618",
+    "108070619",
+    "108070620",
+    "108070621",
+    "108070632",
+    "108070623",
+    "108070624",
+    "108070633",
+    "117133057",
+    "108070629",
+    "108070630",
+    "108070631"
+   ]
+  }
+ ],
+ "fragments": {
+  "108070617": {
+   "fragment_id": "108074408",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 74/2014\n\nde 13 de maio\n\nA progressiva prestação digital de serviços públicos em Portugal é um caso de sucesso, sendo disso paradigmática a utilização do portal das finanças, bem como a disponibilização de um variadíssimo leque de serviços no setor da Justiça, designadamente em matéria de registos e notariado, ou no portal da empresa e, em particular, no balcão do empreendedor. Aliás, é de tal forma significativo o número de interações entre os cidadãos e a Administração Pública que pode decorrer online, que se torna cada vez mais a exceção o número de serviços que não possam ser realizados de tal forma.\n\nNo entanto, tem sido salientado em diversos estudos que, em geral, o nível e a intensidade de utilização pelos cidadãos e agentes económicos dos serviços públicos disponibilizados na Internet não acompanham o nível de oferta e a sofisticação desses mesmos serviços públicos prestados através de meios digitais.\n\nTrata-se aqui, por conseguinte, de ir mais longe: consagrar o princípio da prestação digital de serviços públicos como regra, e dar um impulso decisivo com vista à conclusão dos esforços empreendidos com essa mesma prestação digital de serviços públicos, massificando a sua utilização pelos cidadãos e agentes económicos.\n\nNão obstante, para garantir a eficácia e a eficiência desta política pública e para promover a coesão territorial e a coesão social, dando uma atenção especial a quem não saiba, não possa ou não queira utilizar os meios digitais de interação com o Estado, num contexto de racionalização das redes de prestação de serviços do Estado, necessário se torna desenvolver uma rede complementar de espaços destinados a dar assistência digital aos cidadãos, com vista ao acesso de todos às vantagens da prestação online de serviços públicos.\n\nPara esse efeito, é estabelecida a Rede de Espaços do Cidadão, a qual resulta de parcerias a realizar entre a Administração Pública Central e outras entidades (autarquias, entidades do terceiro setor e entidades que prestem serviços de interesse público), e se destina a dar assistência digital e a formar os cidadãos para a utilização do digital, por um lado, e a servir como ponto único de contacto do cidadão com os diferentes serviços e organismos da Administração Pública, por outro.\n\nRegula-se ainda, com maior sentido de integração, a rede das já conhecidas Lojas do Cidadão, assegurando uma melhor e mais coerente presença das diversas entidades do Estado no território, conforme é política do XIX Governo, assumida no Programa Aproximar, consagrado pela Resolução do Conselho de Ministros n.º 15/2013, de 19 de março. A racionalização de custos daqui decorrente, através do aproveitamento das infraestruturas e equipamentos do Estado, cumpre ainda o disposto no Memorando de Entendimento celebrado no âmbito do Programa de Assistência Económica e Financeira entre o Estado Português, o Fundo Monetário Internacional, a Comissão Europeia e o Banco Central Europeu. Consagra-se, também, um modelo de gestão mais flexível das Lojas do Cidadão, podendo esta caber quer às autarquias locais, quer às entidades presentes na Loja, quer ainda à Agência para a Modernização Administrativa, I. P.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108070618": {
+   "fragment_id": "108074409",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece a regra da prestação digital de serviços públicos, consagra o atendimento digital assistido como seu complemento indispensável e define o modo de concentração de serviços públicos em Lojas do Cidadão."
+  },
+  "108070619": {
+   "fragment_id": "108074410",
+   "type": 11,
+   "heading": "Artigo 2.º — Digital como regra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Digital como regra\n\n1 - Os serviços públicos devem, sempre que a sua natureza a isso não se oponha, para além do atendimento presencial, ser também prestados de forma digital, através da sua progressiva disponibilização na Internet.\n\n2 - O Governo aprova, através de resolução do Conselho de Ministros, a Estratégia Digital para os Serviços Públicos, na qual se definem:\n\na) Os objetivos estratégicos a alcançar em matéria de prestação digital de serviços públicos;\n\nb) Os princípios e regras a observar pelos serviços e organismos da Administração Pública em matéria de prestação digital de serviços públicos, designadamente em matéria de usabilidade e acessibilidade dos portais e sítios na Internet da Administração Pública e de interoperabilidade;\n\nc) As prioridades em matéria de prestação digital de serviços públicos a serem cumpridas pelos diversos serviços e organismos da Administração Pública e respetiva calendarização.\n\n3 - A monitorização da execução da Estratégia Digital para os Serviços Públicos é garantida pela Rede Interministerial para a Modernização Administrativa (RIMA), prevista no Decreto-Lei n.º 4/97, de 4 de janeiro, republicado pelo Decreto-Lei n.º 72/2014, de 13 de maio.\n\n4 - De forma a garantir que a prestação digital de serviços públicos não implica a exclusão de quem não saiba ou não possa utilizar os serviços públicos disponibilizados online, é garantida a criação de uma rede nacional de serviços de atendimento digital assistido, designada Rede Espaços do Cidadão, coordenada pela Agência para a Modernização Administrativa, I. P. (AMA, I. P.)."
+  },
+  "108070620": {
+   "fragment_id": "108074411",
+   "type": 11,
+   "heading": "Artigo 3.º — Tratamento diferenciado em função do modo de prestação dos serviços públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tratamento diferenciado em função do modo de prestação dos serviços públicos\n\n1 - Os montantes cobrados pelos serviços e organismos da Administração Pública pela prestação de serviços públicos devem ser diferenciados em função do modo utilizado para o efeito, mediante a aplicação de reduções à prestação online de serviços públicos em relação ao valor base cobrado no atendimento presencial.\n\n2 - Os montantes cobrados pelo atendimento digital assistido correspondem ao valor devido pela prestação online de serviços públicos ou a um valor intermédio entre aqueles referidos no número anterior.\n\n3 - A cobrança da eventual diferença entre os valores devidos pelo atendimento digital assistido e pela prestação online de serviços públicos é feita de forma autónoma.\n\n4 - Na determinação dos montantes devidos pelo atendimento digital assistido é garantido um tratamento idêntico em todo o território nacional."
+  },
+  "108070621": {
+   "fragment_id": "108074412",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização\n\nA Administração Pública deve organizar-se, nomeadamente desenvolvendo as redes das Lojas do Cidadão e dos Espaços do Cidadão, tendo em vista:\n\na) Aproximar os serviços públicos dos cidadãos, em particular nos territórios de menor densidade populacional;\n\nb) Privilegiar a utilidade e comodidade para o cidadão no acesso aos serviços públicos;\n\nc) Racionalizar os custos da Administração Pública com instalações e equipamentos;\n\nd) Assegurar o atendimento digital assistido, prestado por mediadores de atendimento digital com formação adequada, como complemento indispensável da prestação digital de serviços públicos, garantindo o seu caráter inclusivo."
+  },
+  "108070622": {
+   "fragment_id": "108074413",
+   "type": 11,
+   "heading": "Artigo 5.º — Espaços do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Espaços do Cidadão\n\n1 - Para suprir as dificuldades no acesso direto pelos cidadãos aos serviços públicos prestados através do recurso aos meios digitais, é promovido o acesso a esses serviços através do atendimento digital assistido nos Espaços do Cidadão.\n\n2 - Os Espaços do Cidadão são constituídos mediante protocolo a celebrar entre a AMA, I. P., e autarquias locais, instituições particulares de solidariedade social, fundações, associações, nomeadamente empresariais, outras entidades de direito privado que prestem serviços públicos, bem como outras entidades de direito público.\n\n3 - No desenho do equipamento dos Espaços do Cidadão e na realização do atendimento digital assistido são garantidas as necessárias condições de privacidade e de confidencialidade ao cidadão, designadamente no momento em que seja necessária a sua autenticação.\n\n4 - A mediação prevista no n.º 1 é realizada por trabalhadores das entidades parceiras da AMA, I. P., após devida formação e credenciação pela referida entidade.\n\n5 - Os protocolos referidos no n.º 2 preveem necessariamente:\n\na) A assunção da gestão local do Espaço do Cidadão pela entidade parceira da AMA, I. P., incluindo a disponibilização de um espaço adequado para a sua instalação, sem prejuízo da possibilidade de poderem ser instalados Espaços do Cidadão móveis;\n\nb) A disponibilização, por essa entidade parceira, de recursos humanos para garantir o seu funcionamento;\n\nc) As regras a seguir pela entidade parceira em matéria de atendimento a prestar aos cidadãos em geral e aos agentes económicos em particular, sem prejuízo da necessária flexibilidade para efeitos de gestão de recursos humanos, definição de horários de atendimento e seleção dos serviços de atendimento digital assistido a prestar;\n\nd) A credenciação, pela AMA, I. P., das suas entidades parceiras e a formação dos respetivos trabalhadores que prestam atendimento digital assistido, garantida pela AMA, I. P., em colaboração com os demais serviços da Administração Pública que disponibilizem serviços públicos digitais;\n\ne) A disponibilização de serviços de back-office e de apoio pela AMA, I. P., em colaboração com os demais serviços da Administração Pública que disponibilizem serviços públicos digitais;\n\nf) O modo de aplicação do disposto nos n.os 2 e 3 do artigo 3.º;\n\ng) As obrigações de reporte da entidade parceira, a definição da sua responsabilidade decorrente do atendimento prestado, bem como os mecanismos e procedimentos de controlo por parte da AMA, I. P.\n\n6 - Sem prejuízo das especificidades que cada protocolo possa conter, a AMA, I. P., adota e divulga as condições gerais de instalação e funcionamento dos Espaços do Cidadão, para efeitos de celebração dos protocolos referidos nos números anteriores.\n\n7 - Podem igualmente ser instalados Espaços do Cidadão em locais de atendimento ao público dos serviços e organismos da Administração Pública Central, mediante acordo com a AMA, I. P., aplicando-se o presente artigo com as devidas adaptações.\n\n8 - Nos Espaços do Cidadão, as entidades parceiras têm plena autonomia para definir o horário de atendimento, devendo o mesmo constar do protocolo celebrado com a AMA, I. P.\n\n9 - A aplicação aos Espaços do Cidadão do disposto nos artigos 7.º, 9.º, 10.º, 35.º-A e 39.º-A do Decreto-Lei n.º 135/99, de 22 de abril, republicado pelo Decreto-Lei n.º 73/2014, de 13 de maio, é feita com as adaptações previstas nos protocolos referidos no n.º 2.\n\n10 - Podem também ser instalados, em moldes idênticos ao que se dispõe no presente artigo, locais de prestação de atendimento digital assistido especificamente vocacionados para a atividade empresarial."
+  },
+  "108070623": {
+   "fragment_id": "108074414",
+   "type": 11,
+   "heading": "Artigo 6.º — Atendimento digital assistido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atendimento digital assistido\n\n1 - O atendimento digital assistido corresponde ao auxílio ao cidadão ou agente económico no acesso e interação com os portais e sítios na Internet da Administração Pública, prestado por um trabalhador de uma entidade parceira devidamente credenciada pela AMA, I. P.\n\n2 - Para além de prestarem o atendimento digital assistido aos cidadãos que o solicitem, os trabalhadores referidos no número anterior, enquanto mediadores de atendimento digital, exercem um papel pedagógico na promoção da literacia digital dos cidadãos em matéria de utilização dos serviços digitalizados da Administração Pública.\n\n3 - As funções de atendimento digital assistido nos Espaços do Cidadão não incluem a prática de atos que a lei reserva a quem exerça específicas funções públicas ou a determinados profissionais.\n\n4 - Aplicam-se aos mediadores de atendimento digital, com as devidas adaptações, os deveres aplicáveis aos trabalhadores que exercem funções públicas, em especial os de prossecução do interesse público, de isenção, de imparcialidade, de informação, de zelo e de correção.\n\n5 - Através de protocolo celebrado entre a AMA, I. P., e o serviço ou organismo competente da Administração Pública, pode ser previsto que, nos Espaços do Cidadão, também seja disponibilizado o atendimento de serviços ou a prática de atos não abrangidos no âmbito do atendimento digital assistido.\n\n6 - A AMA, I. P., em colaboração com os serviços da Administração Pública que disponibilizem serviços públicos digitais, dá formação adequada aos mediadores de atendimento digital e disponibiliza um back-office próprio, especificamente desenvolvido para os apoiar, que progressivamente incluirá apoio telefónico, por correio eletrónico, através de chat em plataforma eletrónica, e através de teleconferência, nomeadamente através de Voice over Internet Protocol (VoIP).\n\n7 - O atendimento digital assistido exige o consentimento expresso dado pelo utente para que o mediador de atendimento digital que o atenda tenha acesso pontual aos seus dados pessoais, exclusivamente para os fins pretendidos pelo utente.\n\n8 - Os mediadores de atendimento digital estão sujeitos a segredo profissional, no exercício das suas funções.\n\n9 - Os mediadores de atendimento digital não podem executar qualquer outra tarefa que não aquelas solicitadas pelos utentes, nem podem utilizar para qualquer outro fim os dados dos utentes dos quais tomem conhecimento pelo auxílio prestado, sob pena de responsabilidade civil, disciplinar e penal.\n\n10 - As entidades parceiras da AMA, I. P., podem, quando necessário, recorrer aos mecanismos de mobilidade e de requalificação previstos na lei na seleção de mediadores de atendimento digital.\n\n11 - Os mediadores de atendimento digital prestam o atendimento digital assistido sob direção, poder disciplinar e responsabilidade da entidade parceira da AMA, I. P., gestora do respetivo Espaço do Cidadão, no quadro do protocolo referido no artigo anterior."
+  },
+  "108070624": {
+   "fragment_id": "108074415",
+   "type": 11,
+   "heading": "Artigo 7.º — Colaboração entre serviços de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colaboração entre serviços de atendimento\n\n1 - Os órgãos e serviços da Administração Pública colaboram entre si e prestam auxílio mútuo na prestação de serviços de atendimento ao cidadão, articulando os respetivos back-offices, em particular para apoiar o atendimento digital assistido.\n\n2 - No âmbito da colaboração referida no número anterior, para todo o serviço público prestado online é disponibilizado, no próprio sítio ou portal, um guia ou manual de referência para a sua utilização, quer pelos trabalhadores que prestam o atendimento do serviço, quer pelos utentes."
+  },
+  "108070625": {
+   "fragment_id": "108074416",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede de Espaços do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Rede de Espaços do Cidadão\n\n1 - Os Espaços do Cidadão constituem-se em Rede, cuja coordenação e gestão global compete à AMA, I. P.\n\n2 - A AMA, I. P., desenvolve e mantém uma plataforma online gratuita, disponível também em equipamentos móveis, onde se identificam e georreferenciam todos os Espaços do Cidadão e os serviços e organismos do Estado.\n\n3 - A plataforma referida no número anterior inclui a informação atualizada sobre os atos que o cidadão ou o agente económico pode em concreto realizar nos locais nela identificados, bem como outras informações relevantes tais como horários e contactos.\n\n4 - Na plataforma deve constar informação atualizada relativamente ao portal ou sítio na Internet onde os atos referidos no número anterior podem ser realizados autónoma e digitalmente pelo cidadão ou agente económico.\n\n5 - Em cada Espaço do Cidadão é sempre identificado, de forma visível para os utentes, o conjunto de atos que nele podem ser praticados, bem como os locais mais próximos onde se possam realizar aqueles que nele não estejam disponíveis."
+  },
+  "108070626": {
+   "fragment_id": "108074417",
+   "type": 11,
+   "heading": "Artigo 9.º — Rede de Lojas do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rede de Lojas do Cidadão\n\n1 - Sempre que possível, e garantindo-se a racionalização de custos da Administração Pública com instalações e equipamentos, os espaços de atendimento ao público (front-offices) dos serviços e organismos do Estado devem ser concentrados num mesmo local, de modo a privilegiar a utilidade e comodidade para o cidadão.\n\n2 - A concentração referida no número anterior determina a instituição de uma Loja do Cidadão e deve prever a instalação no mesmo local de um Espaço do Cidadão, nos termos previstos no n.º 7 do artigo 5.º, de modo a possibilitar o atendimento digital assistido de outros serviços públicos que não hajam sido objeto dessa concentração.\n\n3 - Anualmente, o Governo aprova, através de resolução do Conselho de Ministros, um plano de concretização do disposto nos números anteriores.\n\n4 - A gestão de uma Loja do Cidadão constituída nos termos do presente artigo é objeto de acordo entre os serviços e organismos públicos neles instalados, podendo a mesma ser atribuída:\n\na) A um dos serviços e organismos públicos instalados na Loja do Cidadão;\n\nb) A todos os serviços e organismos públicos instalados na Loja do Cidadão, através de uma gestão em condomínio da mesma; ou\n\nc) À AMA, I. P., enquanto entidade gestora da rede das Lojas do Cidadão.\n\n5 - O disposto no número anterior não prejudica que a gestão possa ser exercida diretamente pela autarquia proprietária do imóvel onde são concentrados os espaços de atendimento, por acordo entre ela e os serviços e organismos do Estado presentes nessa Loja do Cidadão.\n\n6 - As Lojas do Cidadão constituídas nos termos do presente artigo integram-se na rede das Lojas do Cidadão, cabendo à AMA, I. P., para além da celebração de um protocolo com vista à instalação de um Espaço do Cidadão, nos termos do n.º 2:\n\na) Emitir recomendações em matéria de boas práticas e de qualidade de atendimento dos serviços públicos;\n\nb) Garantir a inserção da imagem, marca e sistema local de gestão do atendimento na rede das Lojas do Cidadão."
+  },
+  "108070627": {
+   "fragment_id": "108074418",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma de adaptação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma de adaptação\n\nNo prazo de 120 dias após a entrada em vigor do presente decreto-lei os serviços e organismos da Administração Pública Central devem:\n\na) Apresentar à respetiva tutela as propostas de alterações legislativas e regulamentares necessárias para dar cumprimento ao disposto no artigo 3.º;\n\nb) Indicar à respetiva tutela quais os serviços públicos que, podendo-o ser, ainda não sejam integralmente prestados de forma digital;\n\nc) Dar cumprimento ao disposto no n.º 2 do artigo 7.º"
+  },
+  "108070632": {
+   "fragment_id": "108074413",
+   "type": 11,
+   "heading": "Artigo 5.º — Espaços Cidadão",
+   "in_force_from": "2017-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+   ],
+   "markdown": "###### Artigo 5.º — Espaços Cidadão\n\n1 - Para suprir as dificuldades no acesso direto pelos cidadãos aos serviços públicos prestados através do recurso aos meios digitais, é promovido o acesso a esses serviços através do atendimento digital assistido nos Espaços do Cidadão.\n\n2 - Os Espaços do Cidadão são constituídos mediante protocolo a celebrar entre a AMA, I. P., e autarquias locais, instituições particulares de solidariedade social, fundações, associações, nomeadamente empresariais, outras entidades de direito privado que prestem serviços públicos, bem como outras entidades de direito público.\n\n3 - No desenho do equipamento dos Espaços do Cidadão e na realização do atendimento digital assistido são garantidas as necessárias condições de privacidade e de confidencialidade ao cidadão, designadamente no momento em que seja necessária a sua autenticação.\n\n4 - A mediação prevista no n.º 1 é realizada por trabalhadores das entidades parceiras da AMA, I. P., após devida formação e credenciação pela referida entidade.\n\n5 - Os protocolos referidos no n.º 2 preveem necessariamente:\n\na) A assunção da gestão local do Espaço do Cidadão pela entidade parceira da AMA, I. P., incluindo a disponibilização de um espaço adequado para a sua instalação, sem prejuízo da possibilidade de poderem ser instalados Espaços do Cidadão móveis;\n\nb) A disponibilização, por essa entidade parceira, de recursos humanos para garantir o seu funcionamento;\n\nc) As regras a seguir pela entidade parceira em matéria de atendimento a prestar aos cidadãos em geral e aos agentes económicos em particular, sem prejuízo da necessária flexibilidade para efeitos de gestão de recursos humanos, definição de horários de atendimento e seleção dos serviços de atendimento digital assistido a prestar;\n\nd) A credenciação, pela AMA, I. P., das suas entidades parceiras e a formação dos respetivos trabalhadores que prestam atendimento digital assistido, garantida pela AMA, I. P., em colaboração com os demais serviços da Administração Pública que disponibilizem serviços públicos digitais;\n\ne) A disponibilização de serviços de back-office e de apoio pela AMA, I. P., em colaboração com os demais serviços da Administração Pública que disponibilizem serviços públicos digitais;\n\nf) O modo de aplicação do disposto nos n.os 2 e 3 do artigo 3.º;\n\ng) As obrigações de reporte da entidade parceira, a definição da sua responsabilidade decorrente do atendimento prestado, bem como os mecanismos e procedimentos de controlo por parte da AMA, I. P.\n\n6 - Sem prejuízo das especificidades que cada protocolo possa conter, a AMA, I. P., adota e divulga as condições gerais de instalação e funcionamento dos Espaços do Cidadão, para efeitos de celebração dos protocolos referidos nos números anteriores.\n\n7 - Podem igualmente ser instalados Espaços do Cidadão em locais de atendimento ao público dos serviços e organismos da Administração Pública Central, mediante acordo com a AMA, I. P., aplicando-se o presente artigo com as devidas adaptações.\n\n8 - Nos Espaços do Cidadão, as entidades parceiras têm plena autonomia para definir o horário de atendimento, devendo o mesmo constar do protocolo celebrado com a AMA, I. P.\n\n9 - A aplicação aos Espaços do Cidadão do disposto nos artigos 7.º, 9.º, 10.º, 35.º-A e 39.º-A do Decreto-Lei n.º 135/99, de 22 de abril, republicado pelo Decreto-Lei n.º 73/2014, de 13 de maio, é feita com as adaptações previstas nos protocolos referidos no n.º 2.\n\n10 - Podem também ser instalados, em moldes idênticos ao disposto no presente artigo, locais de prestação de atendimento digital assistido especificamente vocacionados para a atividade empresarial.\n\n11 - Podem ainda ser instalados locais de prestação de atendimento digital assistido no âmbito da rede consular da República Portuguesa, sujeitos ao disposto na Convenção de Viena sobre Relações Consulares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+  },
+  "108070633": {
+   "fragment_id": "108074416",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede de Espaços Cidadão",
+   "in_force_from": "2017-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+   ],
+   "markdown": "###### Artigo 8.º — Rede de Espaços Cidadão\n\n1 - Os Espaços do Cidadão constituem-se em Rede, cuja coordenação e gestão global compete à AMA, I. P.\n\n2 - A AMA, I. P., desenvolve e mantém uma plataforma online gratuita, disponível também em equipamentos móveis, onde se identificam e georreferenciam todos os Espaços do Cidadão e os serviços e organismos do Estado.\n\n3 - A plataforma referida no número anterior inclui a informação atualizada sobre os atos que o cidadão ou o agente económico pode em concreto realizar nos locais nela identificados, bem como outras informações relevantes tais como horários e contactos.\n\n4 - Na plataforma deve constar informação atualizada relativamente ao portal ou sítio na Internet onde os atos referidos no número anterior podem ser realizados autónoma e digitalmente pelo cidadão ou agente económico.\n\n5 - Em cada Espaço do Cidadão é sempre identificado, de forma visível para os utentes, o conjunto de atos que nele podem ser praticados, bem como os locais mais próximos onde se possam realizar aqueles que nele não estejam disponíveis.\n\n6 - A instalação e gestão dos Espaços Cidadão pode ser feita pelas freguesias, em articulação com a Rede de Lojas de Cidadão, através dos instrumentos previstos nos artigos 124.º e seguintes da Lei n.º 75/2013, de 12 de setembro, que aprovou o regime jurídico das autarquias locais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+  },
+  "108070634": {
+   "fragment_id": "108074417",
+   "type": 11,
+   "heading": "Artigo 9.º — Rede de Lojas de Cidadão",
+   "in_force_from": "2017-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+   ],
+   "markdown": "###### Artigo 9.º — Rede de Lojas de Cidadão\n\n1 - Sempre que possível, e garantindo-se a racionalização de custos da Administração Pública com instalações e equipamentos, os espaços de atendimento ao público (front-offices) dos serviços e organismos do Estado devem ser concentrados num mesmo local, de modo a privilegiar a utilidade e comodidade para o cidadão.\n\n2 - A concentração referida no número anterior determina a instituição de uma Loja do Cidadão e deve prever a instalação no mesmo local de um Espaço do Cidadão, nos termos previstos no n.º 7 do artigo 5.º, de modo a possibilitar o atendimento digital assistido de outros serviços públicos que não hajam sido objeto dessa concentração.\n\n3 - O Governo aprova, através de resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da modernização administrativa, um plano de concretização do disposto nos números anteriores.\n\n4 - A instalação de qualquer Loja de Cidadão deve integrar, pelo menos, dois dos seguintes serviços públicos:\n\na) Serviços da Segurança Social;\n\nb) Serviços da Autoridade Tributária e Aduaneira;\n\nc) Serviços do Instituto dos Registos e Notariado.\n\n5 - Nas Lojas de Cidadão devem ser criados espaços que permitam o atendimento ocasional por serviços públicos não sediados na Loja.\n\n6 - A instalação de novas Lojas de Cidadão é da iniciativa dos municípios, em articulação com a entidade gestora da rede das Lojas de Cidadão e dos Espaços Cidadão, aos quais cabe posteriormente a sua gestão.\n\n7 - A gestão de uma Loja de Cidadão é formalizada mediante protocolo a celebrar entre os municípios, a AMA, I. P., e os serviços e organismos públicos nela instalados, para os quais é fixada uma transferência mensal devida a título de reembolso das despesas suportadas pela entidade gestora, nomeadamente de:\n\na) Serviços de higiene e limpeza;\n\nb) Serviços de segurança;\n\nc) Serviços essenciais;\n\nd) Comunicações;\n\ne) Serviços técnicos;\n\nf) Utilização do espaço.\n\n8 - A instalação referida no n.º 6 e o protocolo referido no número anterior são realizados ao abrigo do regime previsto nos artigos 124.º e seguintes da Lei n.º 75/2013, de 12 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+  },
+  "108070629": {
+   "fragment_id": "108074420",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Entidade gestora da rede das Lojas de Cidadão e dos Espaços Cidadão",
+   "in_force_from": "2017-08-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+   ],
+   "markdown": "###### Artigo 9.º-A — Entidade gestora da rede das Lojas de Cidadão e dos Espaços Cidadão\n\nCompete à AMA, I. P., enquanto entidade gestora da rede das Lojas de Cidadão e dos Espaços Cidadão:\n\na) Definir o sistema de gestão de filas de espera e todos os elementos distintivos a utilizar em cada Loja de Cidadão, como a sinalética e os seus elementos gráficos, fundamentais para a identificação da rede e sua racionalização, sendo disponibilizados à entidade responsável pela gestão da loja, para a respetiva instalação;\n\nb) Efetuar a articulação com os serviços da Administração Pública no âmbito do projeto de instalação de uma Loja de Cidadão, em parceria com o município onde essa instalação ocorre;\n\nc) Assegurar a formação dos elementos a quem cabe a gestão da Loja de Cidadão, quer sejam indicados pela respetiva autarquia, pelos serviços presentes na Loja ou pela própria AMA, I. P.;\n\nd) Promover a assinatura de protocolos onde se estabeleçam os direitos e obrigações dos municípios e das entidades presentes na Loja;\n\ne) Emitir parecer, em conjunto com a Direção-Geral do Tesouro e Finanças, relativo à deslocalização de um posto de atendimento de uma Loja de Cidadão, nomeadamente decorrente de reestruturação territorial do atendimento de um organismo público, para um espaço privado relativamente ao qual seja necessário outorgar um contrato de arrendamento;\n\nf) Propor ao membro do Governo responsável pela modernização administrativa a fixação, juntamente com a entidade gestora da Loja de Cidadão, de horários de funcionamento e atendimento, nomeadamente quando estes devam ser mais reduzidos do que o previsto nos artigos 8.º e 9.º do Decreto-Lei n.º 187/99, de 2 de junho, sem prejuízo de os horários de atendimento poderem ser diferenciados por serviço, mas assegurando-se sempre o princípio da continuidade do atendimento, designadamente durante a hora de almoço;\n\ng) Definir e alargar a oferta de entidades e serviços constantes do catálogo dos Espaços Cidadão, em articulação com as entidades parceiras;\n\nh) Celebrar novos protocolos para instalação de Espaços Cidadão, em articulação com as autarquias locais e de acordo com a intenção e disponibilidade manifestada por estas, atendendo igualmente à possibilidade de captação de financiamento europeu;\n\ni) Emitir recomendações em matéria de boas práticas e de qualidade de atendimento dos serviços públicos;\n\nj) Garantir a inserção da imagem, marca e sistema local de gestão do atendimento na rede das Lojas de Cidadão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+  },
+  "108070630": {
+   "fragment_id": "108074418",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma de adaptação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma de adaptação\n\nNo prazo de 120 dias após a entrada em vigor do presente decreto-lei os serviços e organismos da Administração Pública Central devem:\n\na) Apresentar à respetiva tutela as propostas de alterações legislativas e regulamentares necessárias para dar cumprimento ao disposto no artigo 3.º;\n\nb) Indicar à respetiva tutela quais os serviços públicos que, podendo-o ser, ainda não sejam integralmente prestados de forma digital;\n\nc) Dar cumprimento ao disposto no n.º 2 do artigo 7.º"
+  },
+  "108070631": {
+   "fragment_id": "108074419",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de março de 2014. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - José Alberto Nunes Ferreira Gomes - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 9 de maio de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de maio de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "117133057": {
+   "fragment_id": "108074417",
+   "type": 11,
+   "heading": "Artigo 9.º — Rede de Lojas de Cidadão",
+   "in_force_from": "2018-12-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 104/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2018-117142870), em vigor a partir de 2018-12-04, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+   ],
+   "markdown": "###### Artigo 9.º — Rede de Lojas de Cidadão\n\n1 - Sempre que possível, e garantindo-se a racionalização de custos da Administração Pública com instalações e equipamentos, os espaços de atendimento ao público (front-offices) dos serviços e organismos do Estado devem ser concentrados num mesmo local, de modo a privilegiar a utilidade e comodidade para o cidadão.\n\n2 - A concentração referida no número anterior determina a instituição de uma Loja do Cidadão e deve prever a instalação no mesmo local de um Espaço do Cidadão, nos termos previstos no n.º 7 do artigo 5.º, de modo a possibilitar o atendimento digital assistido de outros serviços públicos que não hajam sido objeto dessa concentração.\n\n3 - O Governo aprova, através de resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da modernização administrativa, um plano de concretização do disposto nos números anteriores.\n\n4 - A instalação de qualquer Loja de Cidadão deve integrar, pelo menos, dois dos seguintes serviços públicos:\n\na) Serviços da Segurança Social;\n\nb) Serviços da Autoridade Tributária e Aduaneira;\n\nc) Serviços do Instituto dos Registos e Notariado.\n\n5 - Nas Lojas de Cidadão devem ser criados espaços que permitam o atendimento ocasional por serviços públicos não sediados na Loja.\n\n6 - A instalação de novas Lojas de Cidadão é da iniciativa dos municípios, em articulação com a entidade gestora da rede das Lojas de Cidadão e dos Espaços Cidadão, aos quais cabe posteriormente a sua gestão.\n\n7 - A gestão de uma Loja de Cidadão é formalizada mediante protocolo a celebrar entre os municípios, a AMA, I. P., e os serviços e organismos públicos nela instalados, para os quais é fixada uma transferência mensal devida a título de reembolso das despesas suportadas pela entidade gestora, nomeadamente de:\n\na) Serviços de higiene e limpeza;\n\nb) Serviços de segurança;\n\nc) Serviços essenciais;\n\nd) Comunicações;\n\ne) Serviços técnicos;\n\nf) Utilização do espaço.\n\n8 - A instalação referida no n.º 6 e o protocolo referido no número anterior são realizados ao abrigo do regime previsto no presente decreto-lei.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 104/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2018-117142870), em vigor a partir de 2018-12-04, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2017 - Diário da República n.º 166/2017, Série I de 2017-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2017-108068704), em vigor a partir de 2017-08-30"
+  }
+ }
+}

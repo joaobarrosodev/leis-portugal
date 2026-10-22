@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:931191:por
+title: Portaria n.º 107/2001 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Marinha - Gabinete do Chefe do Estado-Maior da Armada
+proposing_entity: null
+official_number: 107/2001 (2.ª série)
+official_date: null
+publication_date: '2001-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 25/2001, Série II de 2001-01-30
+  number: '25'
+  series: II
+  supplement: null
+  pages: 1910 - 1911
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/01/025000000/0191001911.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '931191'
+  dre_path: /dr/detalhe/portaria/107-2001-931191
+  internal: pt:dre:931191:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-2001-931191
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/107-2001-931191
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-01-30T00:00:00Z'
+integrity:
+  source_sha256: 21935eaab243b658706df99cfd3d0cb79e515bf5a1e07d595ed0b677a8b7309e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-107-931191.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 107/2001 (2.ª série)
+
+Portaria n.º 107/2001 (2.ª série). - Ao abrigo do artigo 2.º do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, manda o Chefe do Estado-Maior da Armada:
+
+1.º De harmonia com o preceituado no artigo 187.º do Regulamento da Escola Naval ([Portaria n.º 471/86](https://diariodarepublica.pt/dr/detalhe/portaria/471-1986-219141), de 28 de Agosto), admitir, em 13 de Outubro de 2000, como cadetes do curso vice-almirante Avelino Teixeira da Mota os cadetes candidatos a seguir mencionados, os quais foram classificados conforme o estabelecido no artigo 188.º do regulamento acima referido pela ordem seguinte:
+
+Classe de marinha:
+
+21000 - André Mateus de Carvalho Monteiro Faro Santana.
+
+21100 - Isabel Maria Morris Gonçalves Bué.
+
+21300 - Ana Laura Pacheco Queirós Cardoso.
+
+21400 - Luís Alberto Henriques Constantino.
+
+21500 - David Fernando Castelo Cardoso Pereira.
+
+21700 - Hugo Filipe Bravo da Guia.
+
+21800 - Vítor Bruno Campos Cavaleiro.
+
+21900 - Nádia Sofia Oliveira Rijo.
+
+22000 - Ricardo Beirão Cortez Saraiva da Rocha.
+
+22100 - Sofia Vitoriano Saldanha Junceiro.
+
+22200 - Ana Vanessa Santos Bernardes.
+
+22400 - Ricardo Miguel Alves Teixeira.
+
+22500 - Rui Pedro Robalo Franco.
+
+804796 - Vítor Monteiro Teixeira - 1.º MAR FZ QP.
+
+23200 - João Nuno Ferreira Fernandes.
+
+23700 - Tiago Henriques Carinhas.
+
+23800 - Ricardo Filipe de Oliveira Martins.
+
+23900 - Rui Pedro Hipólito Martins.
+
+24000 - Vera Barreiros Rocha Fernandes.
+
+24200 - Fernando Nuno Vargas Baptista e Alves Jeremias.
+
+24300 - Ricardo Jorge Martins Colaço.
+
+24400 - Rita João Ribeiro de Carvalho.
+
+402898 - Pedro Miguel Cavaca Neves - 2.º MAR L RC.
+
+24600 - Tomé Gonçalo Fonseca Cordeiro.
+
+24700 - Luís Filipe das Neves Cunha.
+
+24900 - Henrique Manuel Leite Miranda.
+
+9322998 - Luís Filipe Cardoso Nunes dos Santos - 2.º MAR L RC.
+
+25000 - Bruno Miguel Meixedo Venâncio.
+
+21500 - João Tiago Salvado Fialho.
+
+25200 - Ivone Manuela de Campos Oliveira.
+
+25400 - Ana Sofia Alface dos Reis.
+
+25500 - Hélder Miguel Marques Araújo.
+
+25600 - Bruno Miguel Lopes Simões.
+
+25700 - Filipe Alexandre Reis Vieira.
+
+26100 - Vítor dos Santos Morais Rodrigues.
+
+26200 - Nélson Tiago dos Santos Marques.
+
+26400 - Ester Eunice da Costa Pereira.
+
+26500 - Bruno Miguel Caldeira Ribeiro.
+
+26600 - Luís Carlos do Vale Alves Velho.
+
+Engenheiros navais:
+
+21200 - Paulo Alexandre Rosado Gaspar (ENAEL).
+
+21600 - Miguel Mendonça de Matos (ENMEC).
+
+22600 - João Luís Pacheco Raimundo (ENAEL).
+
+23000 - Ricardo José Santos Veloso (ENAEL).
+
+23300 - Filipe dos Santos Abreu Gomes (ENAEL).
+
+23500 - Bruno Manuel Correia Canha (ENAEL).
+
+24100 - Dinis Marques Belo (ENMEC).
+
+24500 - Tiago Rodrigues Quitério (ENAEL).
+
+24800 - Tito Fernandes Vieira (ENMEC).
+
+25800 - Ricardo Januário de Sousa (ENAEL).
+
+25900 - Rui Miguel Guilherme Marques Farinha Pereira (ENAEL).
+
+26000 - Pedro Miguel Frazão Cabral (ENMEC).
+
+26300 - Rui Manuel de Almeida Valverde (ENMEC).
+
+26700 - Milton Modesto Rocha (ENMEC).
+
+Administração naval:
+
+20300 - Ana Maria Vardasca Barbosa Queirós.
+
+20900 - António Joaquim Nunes Cardoso.
+
+22300 - Sílvia de Jesus Martins Seno.
+
+22700 - Ana Filipa de Jesus Simões Feijão.
+
+22900 - Sandra Marisa da Silva Cruz.
+
+23100 - Nélson Ricardo Martins Pereira.
+
+Fuzileiros:
+
+22800 - Paulo Alexandre Neiva Gomes.
+
+23400 - Philippe Dias.
+
+Médicos navais:
+
+20100 - Sónia Lopes Pereira.
+
+20200 - Diana Catarina Pinheiro Fernandes.
+
+20400 - Jaime Novais de Magalhães Santos.
+
+20500 - Cátia Eliana Lopes Magro.
+
+20600 - Jorge Carlos da Costa Lourenço.
+
+20700 - Sérgio Miguel Fernandes Teresinho de Sá.
+
+20800 - Tânia Maria Meira Carvalho.
+
+26800 - Isabel Maria de Mendonça Rosa.
+
+2.º Adoptar como patrono para os referidos cursos, de acordo com o disposto no artigo 178.º do Regulamento da Escola Naval, o vice-almirante Avelino Teixeira da Mota.
+
+Avelino Teixeira da Mota nasceu em Lisboa, a 22 de Setembro de 1920, efectuando os estudos secundários no Liceu Passos Manuel e ingressando na Escola Naval em 1939 como cadete da classe de Marinha. Em 1942 foi promovido a guarda-marinha e o seu estudo-memória do tirocínio para segundo-tenente versou sobre um tema de história marítima, que viria a merecer um rasgado elogio do então almirante Gago Coutinho e uma recomendação para que fosse publicado a expensas da própria Marinha. Tratava-se de um critério e inédito trabalho histórico sobre a possibilidade de cálculo da longitude terrestre segundo um processo aventado no século XVI pelo português Francisco Faleiro, um dos acompanhantes de Fernão de Magalhães na sua viagem de circum-navegação. O estudo viria a constituir a primeira obra publicada de uma extensa bibliografia que Teixeira da Mota viria a acumular ao longo de uma vida dedicada ao estudo da história da náutica e da cartografia, do processo dos descobrimentos e da expansão portuguesa nos séculos XV e XVI e da história de África, com especial relevo para a parte ocidental desse continente.
+
+Em Outubro de 1943, frequentou na Escócia um curso de defesa anti-submarina e nos anos que se seguiram foi oficial de guarnição da canhoneira Lagos e dos contratorpedeiros Dão e Lima. Em 1946, ao serviço do Ministério do Ultramar, estava na então Guiné portuguesa, de que era governador o comandante Sarmento Rodrigues, devendo-se à iniciativa e esforço destes dois oficiais a criação do Centro Cultural da Guiné portuguesa que, de imediato, iniciou a publicação de um boletim trimestral e de memóris esparsas, algumas delas assinadas pelo próprio Teixeira da Mota. A Guiné, aliás, viria a constituir uma paixão deste notável oficial de marinha, que a ela dedicou alguns dos seus mais brilhantes estudos publicados, como sejam O Descobrimento da Guiné e A Guiné Portuguesa, este último um trabalho de investigação histórica e antropológica sem par. Até 1957, desempenhando missões de diversa ordem, sempre a sua carreira esteve ligada à Guiné e a ela se deve a organização e realização em Bissau da 2.ª Conferência Internacional de Africanos Ocidentais, onde se reuniram peritos e estudiosos de todo o mundo. A par com a carreira de um brilhante oficial de marinha, desenhava-se o perfil do investigador, estudioso, historiador e humanista, discreto no próprio brilhantismo e cimentando um prestígio nacional e internacional expresso nos inúmeros convites, participações e colaborações em instituições científicas nacionais e estrangeiras. Teixeira da Mota foi membro da Academia Portuguesa de História, da Academia das Ciências de Lisboa, membro do Conselho Superior Científico do Institut Français d'Afrique Noir, representante português e conselheiro da Comission Internationale d'Histoire Maritime, membro correspondente da Real Academia de la História de Madrid, membro da Comissão Internacional de História da Náutica e da Hidrografia, sócio da Society of Discouveries, e integrou muitas outras instituições nacionais e internacionais que seria fastidioso enunciar exaustivamente. Em 1969 integrou o Grupo de Estudos de História Marítima, estrutura que viria a dar origem, em 1970, ao Centro de Estudos de Marinha e, em 1978, à actual Academia de Marinha, de que foi presidente de 1978 a 1980.
+
+A estima e consideração que mereceu em Portugal e no estrangeiro fizeram com que fosse incessantemente convidado para conferências, colóquios e congressos sobre temas relacionados com a História Africana, História da Cartografia Antiga e História da Expansão Marítima Europeia dos séculos XV, XVI e XVII, a ele se devendo a colaboração em prestigiosas obras. Em Portugal, para além dos trabalhos já citados, é de referir a organização da grande Portugaliae Monumenta Cartographica, obra em cinco volumes publicada em 1960 (aquando das comemorações do quinto centenário da morte do Infante D. Henrique) em parceria com o professor Armando Cortesão.
+
+O vice-almirante Teixeira da Mota desempenhou funções docentes na Escola Naval entre 1959 e 1964, acompanhando a reforma que a mesma efectuou na altura, e foi regente da cadeira de História dos Descobrimentos e da Expansão Portuguesa na Faculdade de Letras da Universidade de Lisboa.
+
+Em 1976, com o posto de capitão-de-mar-e-guerra, passou à situação de reserva, ficando na efectividade de serviço, mas os seus méritos não viriam a ser esquecidos, e em Setembro de 1981 foi promovido por distinção ao posto de vice-almirante.
+
+Avelino Teixeira da Mota morreu a 1 de Abril de 1982, legando à Biblioteca Central de Marinha um imenso e valioso espólio de Cerca de 15 mil livros, que constituíam a sua biblioteca privada e que hoje estão disponíveis para consulta pública.
+
+18 de Janeiro de 2001. - O Chefe do Estado-Maior da Armada, Nuno Gonçalo Vieira Matias, almirante.

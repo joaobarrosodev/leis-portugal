@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:616654:por
+title: Resolução do Conselho de Ministros n.º 13/91
+short_title: null
+summary: Cria a Comissão Nacional Preparatória da Conferência das Nações Unidas sobre Ambiente e Desenvolvimento
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 13/91
+official_date: null
+publication_date: '1991-05-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/1991, Série I-B de 1991-05-03
+  number: '101'
+  series: I
+  supplement: null
+  pages: 2406 - 2407
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/05/101b00/24062407.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/13/1991/05/03/p/dre/pt/html
+  oj: null
+  dre: '616654'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/13-1991-616654
+  internal: pt:dre:616654:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-1991-616654
+  metadata_url: https://data.dre.pt/eli/resolconsmin/13/1991/05/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-1991-616654
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-05-03T00:00:00Z'
+integrity:
+  source_sha256: cd06dfe6cb60ddbd3f3e1b83d2f404a60676250497a83a37c133ecbd18a3b60e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-13-616654.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Nacional Preparatória da Conferência das Nações Unidas sobre Ambiente e Desenvolvimento
+- ONU
+- Proteção do Ambiente
+- Conferência ONU
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/6/1991/02/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/6/1991/02/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 13/91
+
+A Conferência das Nações Unidas sobre Ambiente e Desenvolvimento, a realizar no Brasil, em Junho de 1992, constituirá sem dúvida um marco importante na evolução da política mundial na área do ambiente, estando prevista a tomada de decisões da mais alta importância sobre os grandes problemas ambientais que se colocam à humanidade.
+
+Considerando que Portugal assume no 1.º semestre de 1992 a Presidência do Conselho das Comunidades Europeias, facto pelo qual lhe caberão compromissos e responsabilidades acrescidas;
+
+Considerando ainda que, com vista à participação na conferência e reuniões preparatórias, recomenda a Organização das Nações Unidas que sejam constituídas comissões nacionais para acompanhar, coordenar e dinamizar os trabalhos no âmbito de cada país:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Criar a Comissão Nacional Preparatória da Conferência das Nações Unidas sobre Ambiente e Desenvolvimento, de 1992, adiante designada por Comissão.
+
+2 - A Comissão é presidida pelo Ministro do Ambiente e Recursos Naturais e tem a seguinte composição:
+
+a) Um representante do Ministro do Planeamento e da Administração do Território;
+
+b) Um representante do Ministro dos Negócios Estrangeiros;
+
+c) Um representante do Ministro do Ambiente e Recursos Naturais;
+
+d) Um representante das associações de defesa do ambiente.
+
+3 - Compete à Comissão:
+
+a) Preparar a participação portuguesa na referida Conferência;
+
+b) Aprovar os relatórios sectoriais a apresentar na Conferência;
+
+c) Promover a realização de acções de informação e sensibilização da opinião pública sobre a Conferência;
+
+d) Prestar aos países africanos de língua oficial portuguesa a colaboração que for solicitada com vista à respectiva participação na Conferência.
+
+4 - Para a prossecução dos objectivos referidos no número anterior, a Comissão, sempre que o entenda necessário, solicitará pareceres à Comissão Consultiva do Ambiente, criada pela [Resolução do Conselho de Ministros n.º 6/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-1991-479580), de 7 de Fevereiro.
+
+5 - A Comissão pode convidar a fazerem-se representar nas reuniões quaisquer entidades ou personalidades cuja participação seja considerada conveniente, designadamente das confederações patronais, das confederações sindicais e da Associação Nacional dos Municípios Portugueses.
+
+6 - O Gabinete do Ministro do Ambiente e Recursos Naturais assegura o secretariado e o apoio logístico ao bom funcionamento da Comissão.
+
+Presidência do Conselho de Ministros, 11 de Abril de 1991. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

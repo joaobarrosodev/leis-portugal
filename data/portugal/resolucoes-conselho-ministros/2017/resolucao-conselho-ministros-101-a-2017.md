@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:107685594:por
+title: Resolução do Conselho de Ministros n.º 101-A/2017
+short_title: null
+summary: Aprova a adoção de medidas de carácter extraordinário para fazer face aos danos provocados pelos incêndios ocorridos
+  entre os dias 17 e 21 de junho de 2017 nos municípios de Castanheira de Pêra, Figueiró dos Vinhos, Góis, Pampilhosa da Serra,
+  Pedrógão Grande, Penela e Sertã
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 101-A/2017
+official_date: null
+publication_date: '2017-07-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2017, 1º Suplemento, Série I de 2017-07-12
+  number: '133'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3714-(2) a 3714-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13301/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/101-a/2017/07/12/p/dre/pt/html
+  oj: null
+  dre: '107685594'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/101-a-2017-107685594
+  internal: pt:dre:107685594:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-a-2017-107685594
+  metadata_url: https://data.dre.pt/eli/resolconsmin/101-a/2017/07/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-a-2017-107685594
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-07-12T00:00:00Z'
+integrity:
+  source_sha256: adfdd92d4e2c682c8ddf5a2a55293ccd3eb4dc06a2d017184c8552b460a462c8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-101-A-107685594.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Incêndio
+- Financiamento
+- Castanheira de PÊRA
+- Figueiró dos Vinhos
+- Catástrofe
+- Fundo de Emergência Municipal
+- Fundo de Solidariedade da União Europeia
+- Góis
+- Pampilhosa da Serra
+- Pedrógão Grande
+- Penela
+- Habitação
+- Sertã
+- Infraestrutura Turística
+- PDR 2020
+- Fundo REVITA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 101-A/2017
+
+Deflagrou um incêndio de grandes dimensões, com início no passado dia 17 de junho de 2017, que afetou sobretudo os concelhos de Castanheira de Pêra, Figueiró dos Vinhos, Góis, Pampilhosa da Serra, Pedrógão Grande, Penela e Sertã, com consequências trágicas e que originou um conjunto de danos e prejuízos em habitações, na floresta e nas explorações agrícolas, infraestruturas, equipamentos e bens de pessoas, empresas e autarquias locais.
+
+Os dados do Instituto da Conservação da Natureza e das Florestas, I. P.,indicam uma área total ardida nos sete concelhos de 45.348 mil hectares com forte incidência nos concelhos de Castanheira de Pêra, Figueiró dos Vinhos e Pedrógão Grande, onde arderam 81 %, 66 % e 56 % da área florestal total, respetivamente.
+
+Dada a dimensão sem precedente assumida por este desastre, foram de imediato desencadeadas medidas de urgência em vários domínios de apoio às populações, nomeadamente ao nível de proteção social, emprego, formação profissional, saúde, alojamento de emergência, bem como ao nível da reposição das infraestruturas danificadas.
+
+A Comissão de Coordenação e Desenvolvimento Regional do Centro coordenou um grupo de trabalho que procedeu à avaliação dos danos e prejuízos ao nível das habitações particulares, floresta, atividade económica, agricultura, infraestruturas e equipamentos municipais, tendo apurado um conjunto de prejuízos imediatos e necessidades de reconstrução preventiva de 496,8 milhões de euros, conforme relatório publicado no Portal do Governo.
+
+O relatório identifica e quantifica dois tipos de medidas a implementar:
+
+a) Medidas de resposta de emergência, destinadas a reparar os danos causados pelos incêndios nas habitações, nas atividades económicas (agricultura, floresta, indústria e turismo) e nas infraestruturas (viárias, municipais e de proteção civil), visando assegurar as condições básicas para reposição da normalidade da vida das populações, a começar pelos mais atingidos, designadamente pela perda das suas habitações, sem prejuízo da reparação prioritária através dos respetivos contratos de seguro;
+
+b) Medidas de prevenção e de relançamento da economia, para desenvolver um conjunto de ações que minimizem o risco de incêndios, com intervenção ao nível da floresta e da proteção civil e, ainda, para desenvolver medidas de apoio à economia da região, através de um projeto-piloto de ordenamento do território florestal, do apoio à reflorestação das áreas ardidas, da diversificação da atividade económica e do aproveitamento dos recursos endógenos.
+
+O Governo reconhece que estes incêndios florestais configuram uma situação excecional, que exige a aplicação de medidas igualmente extraordinárias.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Declarar como particularmente afetados pelos incêndios cujo início se registou no passado dia 17 de junho de 2017, no contexto de ocorrências naturais de caráter excecional os concelhos de Castanheira de Pêra, Figueiró dos Vinhos, Góis, Pampilhosa da Serra, Pedrógão Grande, Penela e Sertã, designadamente para efeitos de aplicação do Fundo de Emergência Municipal, nos termos do n.º 2 do artigo 75.º do Orçamento do Estado para 2017, aprovado pela [Lei n.º 42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, e de fundos europeus.
+
+2 - Determinar a adoção das seguintes medidas de apoio imediato às populações, empresas e autarquias locais afetadas:
+
+a) Apoiar de imediato, através do Fundo de Apoio à Revitalização e de outras fontes de financiamento, a reabilitação e a reconstrução das habitações afetadas pelos incêndios, sob a coordenação do membro do Governo responsável pela área da solidariedade e da segurança social;
+
+b) Disponibilizar empréstimos financeiros para reabilitação e reconstrução das segundas habitações e habitações devolutas em condições vantajosas, sob a coordenação do membro do Governo responsável pela área do planeamento e infraestruturas, em articulação com o membro do Governo responsável pela área das finanças;
+
+c) Proceder à abertura de concursos no Plano de Desenvolvimento Regional 2020 (PDR 2020), no prazo de 30 dias, para apoio a ações de emergência florestal pós incêndio para minimização do risco de erosão e custos de recuperação de infraestruturas danificadas, incluindo caminhos, rede divisional, armazéns, pontos de água e sinalização, bem como para apoio da aquisição de máquinas e equipamentos florestais ou a construção ou adaptação de instalações, sob a coordenação do membro do Governo responsável pela área da agricultura e florestas;
+
+d) Proceder à definição das regras para a atribuição de apoios, por intermédio de protocolo ou aviso, no prazo de 30 dias, através do Fundo Ambiental, para apoiar as intervenções de reabilitação de linhas de água, designadamente limpeza e desobstrução do leito e margens, reposição da galeria ripícola autóctone e reabilitação dos açudes existentes, sob a coordenação do membro do Governo responsável pela área do ambiente;
+
+e) Proceder à abertura de concursos no Programa Operacional Centro 2020, nos 15 dias após a aprovação da reprogramação deste programa, para apoio ao restabelecimento da atividade económica das empresas atingidas pelos incêndios, visando a reposição de equipamentos, edifícios e outros bens da atividade produtiva danificados, sob a coordenação do membro do Governo responsável pela área do planeamento e infraestruturas, em articulação com o membro do Governo responsável pela área da economia;
+
+f) Apoiar, com início no mês de julho, a reposição de infraestruturas de interesse para o turismo, o lançamento de projetos de desenvolvimento de produto turístico e campanhas de promoção e divulgação turística interna e externa da Região Centro, sob a coordenação do membro do Governo responsável pela área da economia;
+
+g) Proceder à abertura de concursos no PDR 2020, no prazo de 30 dias, para apoio ao restabelecimento do potencial produtivo agrícola, incluindo reposição de animais, plantações plurianuais, máquinas, equipamentos agrícolas, armazéns e outras construções de apoio à atividade agrícola, sob a coordenação do membro do Governo responsável pela área da agricultura e florestas;
+
+h) Proceder à abertura de concursos no Programa Operacional Centro 2020, nos 15 dias após a aprovação da reprogramação deste programa, para apoio à reposição e reparação de infraestruturas e equipamentos municipais de suporte às populações, sob a coordenação do membro do Governo responsável pela área do planeamento e infraestruturas;
+
+i) Proceder à abertura de candidaturas ao Fundo de Emergência Municipal para apoio à reposição e reparação de infraestruturas e equipamentos municipais de suporte às populações, sob a coordenação do membro do Governo responsável pela área das autarquias locais;
+
+j) Concluir, até ao final do mês de agosto, a reposição das condições de segurança rodoviária das estradas nacionais e itinerários complementares atingidas pelos incêndios, sob a coordenação do membro do Governo responsável pela área do planeamento e infraestruturas;
+
+k) Proceder à abertura de concursos no Programa Operacional Sustentabilidade e Uso Eficiente de Recursos no prazo de 30 dias para apoio ao restabelecimento das condições de proteção civil e de prevenção e gestão de riscos, sob a coordenação do membro do Governo responsável pela área do ambiente, em articulação com o membro do Governo responsável pela área da proteção civil e do planeamento e infraestruturas;
+
+l) Promover as seguintes ações, sob a coordenação do membro do Governo responsável pela área do trabalho, da solidariedade e da segurança social:
+
+i) Desenvolver medidas de apoio às famílias que se encontrem em situação de carência ou perda de rendimento e que necessitem de proceder a despesas necessárias à sua subsistência ou à aquisição de bens imediatos e inadiáveis, designadamente despesas com rendas em situações de alojamento temporário, através da atribuição de subsídios de caráter eventual, de concessão única ou de manutenção;
+
+ii) Apoiar as organizações e instituições sociais que levem a cabo ações de solidariedade dirigidas aos territórios e populações afetadas pelos incêndios;
+
+iii) Proceder ao reforço dos técnicos da ação social dos serviços de segurança social dirigidos aos atendimento e acompanhamento da população afetada pelos incêndios, incluindo com o objetivo de acelerar os processos de atribuição das prestações sociais de apoio ao rendimento;
+
+iv) Criar, no âmbito contributivo, um regime excecional e temporário de isenção, total ou parcial, do pagamento de contribuições à segurança social, a atribuir nos seguintes termos:
+
+(1) Isenção total durante um período de seis meses, prorrogável até ao máximo de igual período, mediante avaliação, para as empresas e trabalhadores independentes, cuja atividade tenha sido diretamente afetada pelos incêndios;
+
+(2) Isenção parcial de 50 % da taxa contributiva a cargo da entidade empregadora durante um período de três anos para as empresas que contratem trabalhadores em situação de desemprego diretamente causado pelos incêndios;
+
+v) Conceder um período de seis meses de diferimento no pagamento de contribuições para as empresas do setor do turismo indiretamente afetadas pelos incêndios, nos termos legalmente previstos;
+
+vi) Promover, no domínio do emprego e da formação profissional, medidas de intervenção e acompanhamento dirigidas às pessoas e empresas particularmente afetadas, designadamente:
+
+(1) Apoio aos rendimentos dos trabalhadores de empresas abrangidas por medida de redução temporária do período normal de trabalho ou suspensão de contratos de trabalho, complementado com a definição de um plano de qualificação extraordinário, enquadrado no Programa Qualifica;
+
+(2) Definição de regime de exceção que assegure a elegibilidade e prioridade da seleção e encaminhamento nas medidas ativas de emprego dos desempregados afetados, bem como a possibilidade de cumulação de apoios;
+
+m) Promover as seguintes ações no domínio da saúde, sob a coordenação do membro do Governo responsável pela área da saúde:
+
+i) Continuar a promover a acessibilidade aos cuidados de saúde por parte das populações, dentro do tempo necessário para o efeito, com a valorização das soluções de proximidade, com o reforço das intervenções na resposta à doença aguda, gestão da doença crónica e eventuais descompensações, e ainda com respostas na comunidade no âmbito da saúde mental;
+
+ii) Reforçar as equipas comunitárias que desenvolvem a sua atividade nos concelhos afetados, bem como as equipas do Centro Hospitalar e Universitário de Coimbra, E. P. E., e do Instituto Nacional de Emergência Médica, I. P., afetos a estes territórios;
+
+iii) Fortalecer as parcerias com as entidades locais, nomeadamente as autarquias locais, as instituições sociais e as associações humanitárias de bombeiros, no sentido da partilha de recursos e da coordenação das intervenções em saúde, que assegurem a continuidade dos cuidados às populações desta região;
+
+iv) Implementar, no prazo de 30 dias, o plano estratégico no âmbito da saúde pública, que visa o controlo da eventual contaminação das águas e dos solos e o reforço da componente de observatório para a monitorização do impacto deste evento na saúde, nomeadamente nos mais vulneráveis, como as crianças, as grávidas, os idosos e os doentes com patologias prévias.
+
+3 - Articular as iniciativas de empresas do setor energético, em coordenação com os municípios dos territórios afetados, para a criação de parques de receção de biomassa florestal residual, com o objetivo de assegurar aos produtores florestais o valor de mercado do material lenhoso das áreas afetadas.
+
+4 - Iniciar de imediato a estruturação de um programa que visa adotar medidas de prevenção estrutural e de relançamento da economia, promovendo uma gestão florestal sustentada e o aumento da resiliência económica dos territórios, com os seguintes objetivos:
+
+a) Desenvolver um projeto-piloto na Região Centro que promova o reordenamento sustentado da floresta, através de medidas de gestão integrada da floresta, valorizando as zonas de intervenção florestal e as entidades de gestão florestal; sendo a floresta portuguesa maioritariamente propriedade privada, será promovida a constituição de entidades suscetíveis de apresentar candidaturas a projetos de financiamento no âmbito do PDR 2020 ou no âmbito do Fundo Europeu para Investimentos Estratégicos - Plano Juncker; o plano de rearborização da floresta ardida terá em consideração as novas orientações estratégicas resultantes deste projeto, em termos de ocupação da floresta e da sua gestão; deverá ainda ser avaliada a adequação da instalação de centrais de biomassa, com vista a um aproveitamento eficiente dos recursos; em paralelo, será desenvolvido um registo cadastral da propriedade;
+
+b) Desenvolver uma estratégia de dinamização empresarial nas regiões afetadas tendo em vista a atração e a fixação de investimento produtivo, que promova a criação de emprego mais sustentado através de abertura de concursos no âmbito do Portugal 2020 adaptados às especificidades dos territórios em causa; pretende-se, por um lado, adicionar valor aos principais recursos endógenos dos territórios, designadamente da fileira florestal, da agricultura e paisagísticos (turismo), qualificando e aumentando a oferta de bens e serviços tradicionais e, por outro lado, atrair novos investimentos nas áreas de indústria e serviços que propiciem a diversificação da atividade económica que possam contribuir para a criação de riqueza e a melhoria das condições de vida das populações;
+
+c) Em articulação com a gestão integrada da floresta acima referenciada no âmbito do projeto-piloto, implementar medidas de prevenção e gestão estratégicas de risco de incêndio, assumidas pelas autoridades e por todos os utilizadores das florestas, incluindo os produtores e a população em geral.
+
+5 - Assegurar, através da Comissão de Coordenação e Desenvolvimento Regional do Centro, o apoio à elaboração das candidaturas e outros meios de ajuda técnica, bem como a prestação de informação sobre todos os apoios disponíveis às autarquias locais e a todas as pessoas e empresas elegíveis.
+
+6 - Encarregar o Ministro do Planeamento e das Infraestruturas de promover a utilização de fundos europeus, designadamente:
+
+a) Desenvolver as iniciativas necessárias à reprogramação do Programa Operacional Centro 2020 para acolher as elegibilidades em matéria de reposição da atividade económica e de apoio às infraestruturas e equipamentos municipais;
+
+b) Submeter à Comissão Europeia candidatura ao Fundo de Solidariedade da União Europeia.
+
+7 - Determinar que todas as medidas identificadas na presente resolução devem ser implementadas em articulação com os municípios dos territórios afetados.
+
+8 - Estabelecer que é submetido à apreciação do Conselho de Ministros um relatório trimestral sobre a execução das ações e medidas descritas na presente resolução.
+
+9 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 6 de julho de 2017. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.

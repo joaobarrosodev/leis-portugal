@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:570115:por
+title: Portaria n.º 80/97
+short_title: null
+summary: Ratifica o Plano de Pormenor de Instalação de Equipamentos Colectivos em Aldeia das Pias, no município de Alandroal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 80/97
+official_date: null
+publication_date: '1997-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/1997, Série I-B de 1997-02-03
+  number: '28'
+  series: I
+  supplement: null
+  pages: 584 - 585
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/02/028b00/05840585.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/80/1997/02/03/p/dre/pt/html
+  oj: null
+  dre: '570115'
+  dre_path: /dr/detalhe/portaria/80-1997-570115
+  internal: pt:dre:570115:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-1997-570115
+  metadata_url: https://data.dre.pt/eli/port/80/1997/02/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-1997-570115
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-02-03T00:00:00Z'
+integrity:
+  source_sha256: 37675ae1749e76ba5da7fcbfb3fd4dfa3c16c9ed2e3136d1a49aad63f3ab006b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-80-570115.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alandroal
+- Ordenamento do Território
+- Plano Director Municipal
+- Proteção do Ambiente
+- Política de Solos
+- Plano de Pormenor
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 80/97
+
+de 3 de Fevereiro
+
+A Assembleia Municipal de Alandroal aprovou, em 28 de Junho de 1996, o Plano de Pormenor de Instalação de Equipamentos Colectivos em Aldeia das Pias, no município de Alandroal.
+
+Foi realizado o inquérito público nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, e emitidos os pareceres a que se refere o artigo 13.º do mesmo diploma legal.
+
+Verifica-se a conformidade formal do Plano de Pormenor com as disposições legais e regulamentares em vigor, sua articulação com outros planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
+
+O presente Plano de Pormenor carece de ratificação, nos termos da alínea c) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, conjugado com o disposto no n.º 4 do artigo 3.º, na redacção que lhe foi dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e no uso da delegação de competências conferida pelo Despacho n.º 48/96, do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 69, de 21 de Março de 1996:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento Território, que seja ratificado o Plano de Pormenor de Instalação de Equipamentos Colectivos em Aldeia das Pias, no município de Alandroal, cujo regulamento e planta de implantação se publicam em anexo à presente portaria e que dela fazem parte integrante.
+
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+
+**Assinada em 13 de Janeiro de 1997.**
+
+**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+
+REGULAMENTO
+
+###### Artigo 1.º
+
+O presente Regulamento tem como objectivo definir e regular a ocupação da área abrangida pelo Plano de Pormenor para Instalação de Equipamentos Colectivos a implementar na Aldeia das Pias, concelho de Alandroal.
+
+###### Artigo 2.º
+
+A área abrangida pelo Plano de Pormenor está dividida em quatro zonas: zona desportiva, zona de infra-estruturas, zona de equipamentos de apoio à 3.ª idade e zona de arruamentos.
+
+###### Artigo 3.º
+
+Na zona desportiva instalar-se-á um recinto desportivo para a prática de futebol, compreendendo o recinto propriamente dito e uma construção térrea para instalação de balneários de apoio à prática desportiva.
+
+###### Artigo 4.º
+
+Na zona de infra-estruturas localizar-se-á um depósito de água elevado, integrado na rede geral de abastecimento de água ao concelho, com uma altura máxima de 15 m acima do solo e com uma zona de protecção delimitada por uma vedação em rede com a altura máxima de 2,5 m.
+
+###### Artigo 5.º
+
+Na zona de equipamentos de apoio à 3.ª idade implantar-se-á um imóvel destinado a lar de idosos, com a cércea máxima de dois pisos, respeitando os afastamentos definidos na planta de implantação e com um índice de implantação não superior a 0,40.
+
+###### Artigo 6.º
+
+O edifício previsto no artigo anterior deverá ter uma dignidade arquitectónica correspondente ao fim a que se destina, utilizando materiais e cores, nos acabamentos exteriores, que não constituam dissonância com o aglomerado em que se insere.
+
+###### Artigo 7.º
+
+Na zona de arruamentos apenas se poderão construir vias de acesso às outras zonas e lugares de estacionamento para viaturas automóveis.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/028b00/05840585.pdf))](https://files.diariodarepublica.pt/1s/1997/02/028b00/05840585.pdf)

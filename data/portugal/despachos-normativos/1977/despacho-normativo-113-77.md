@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:252250:por
+title: Despacho Normativo n.º 113/77
+short_title: null
+summary: Estabelece normas relativas à concessão de crédito para o fomento da produção pecuária
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios do Plano e Coordenação Económica, das Finanças e da Agricultura e Pescas
+proposing_entity: null
+official_number: 113/77
+official_date: null
+publication_date: '1977-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/1977, Série I de 1977-05-13
+  number: '111'
+  series: I
+  supplement: null
+  pages: 1043 - 1045
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11100/10431045.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '252250'
+  dre_path: /dr/detalhe/despacho-normativo/113-1977-252250
+  internal: pt:dre:252250:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/113-1977-252250
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/113-1977-252250
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-05-13T00:00:00Z'
+integrity:
+  source_sha256: 390c8f2092a707c99dd9ab5484e79a7f5e12c051a9ae711656fed8bbb8d94f28
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-113-252250.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 113/77
+
+Apesar de se ter registado nos últimos tempos alguma recuperação no domínio da produção pecuária devido ao aumento dos efectivos e à elevação das produções unitárias, a sua carência mantém-se, essencialmente em consequência do aumento do consumo devido à elevação do nível de vida das camadas da população mais desfavorecidas e ao retorno dos nacionais vindos das ex-colónias.
+
+Encontra-se, pois, o País em grave situação quanto à produção animal, tornando-se absolutamente necessário e urgente desenvolver uma política de emergência no fomento pecuário. Com essa finalidade, encetou o Ministério da Agricultura e Pescas, através da Secretaria de Estado do Fomento Agrário, uma acção de fomento devidamente programada (assim técnica como financeira), que, pela primeira vez, permitirá aos produtores obterem as condições indispensáveis a uma produção eficiente e, como tal, rendível, de modo que, num futuro que se espera seja próximo, possa atingir-se o desejado equilíbrio entre a produção e o consumo.
+
+Foi também nesse sentido que, por resolução do Conselho de Ministros de 13 de Janeiro, se deliberou proceder à criação de uma linha de crédito a médio prazo, relativamente à qual convém, agora, definir os princípios orientadores da sua utilização.
+
+Assim, considerando que na concessão dos créditos há que ter em conta não só a rapidez como, e principalmente, a prudência na concessão dos empréstimos, sobretudo no período inicial, determina-se:
+
+1.1. Em consequência da resolução do Conselho de Ministros de 13 de Janeiro, o Banco de Portugal, de acordo com os poderes que lhe são conferidos pela sua lei orgânica, irá abrir uma linha de crédito a utilizar por agricultores cujas explorações, situadas em zonas ecologicamente mais favoráveis para os fins em vista, reúnam condições que assegurem o êxito dos investimentos programados, quer sob o ponto de vista das suas potencialidades forrageiras, quer das instalações, e que se comprometam a seguir os esquemas de exploração propostos pelos técnicos do Ministério da Agricultura e Pescas durante a fase de execução dos melhoramentos e no período de amortização dos empréstimos.
+
+1.2. A formalização do compromisso mencionado em 1.1 será efectuada através do respectivo contrato de empréstimo, que incluirá não só cláusulas financeiras mas também técnicas e as penalizações em que o mutuário incorrerá pelo seu não cumprimento.
+
+2.1. O crédito destinar-se-á ao financiamento dos investimentos seguintes:
+
+a) Instalação de culturas forrageiras e pratenses (incluindo as obras complementares indispensáveis, tais como arroteias, cercas, provimentos de água, estabelecimentos de regadios, drenagens, nivelamentos, etc.);
+
+b) Construção, reconstrução, adaptação ou ampliação de instalações pecuárias;
+
+c) Aquisição de todo o equipamento mecânico com aplicação na exploração pecuária, assim como obras de electrificação indispensáveis;
+
+d) Aquisição de gado.
+
+2.2. Admite-se também a concessão de empréstimos em espécie, relativamente a certos bens, como sejam, entre outros, sementes de certas espécies e variedades e gado, em condições a estabelecer, mediante parecer técnico do Ministério da Agricultura e Pescas.
+
+3.1. As brigadas concelhias do MAP - a quem os interessados deverão dirigir os seus pedidos - elaborarão os projectos, deles constando a análise da sua viabilidade técnica e económica, o prazo de utilização e amortização dos empréstimos e o regime de utilização dos fundos postos à disposição do devedor.
+
+3.2. Este regime supõe que as importâncias mutuadas serão, normalmente, entregues em prestações, de acordo com a execução do projecto e mediante fiscalização aos melhoramentos realizados pelos técnicos do MAP.
+
+4. Em face do parecer das brigadas concelhias do MAP, as instituições de crédito decidirão sobre os pedidos de empréstimos, comunicando às brigadas as operações autorizadas para que estas acompanhem, posteriormente, a execução do projecto e a respectiva exploração.
+
+5. A taxa de juro aplicável beneficiará do regime de bonificações estabelecido pelo Banco de Portugal para crédito ao investimento.
+
+6. O Estado reembolsará a diferença entre os juros cobrados aos mutuários e os resultantes da aplicação da taxa corrente no mercado, para o que inscreverá anualmente no Orçamento Geral do Estado a respectiva importância.
+
+7.1. O plano de amortização do empréstimo, considerando a respectiva finalidade, em princípio, não ultrapassará os prazos a seguir indicados:
+
+a) Para instalações de pastagens:
+
+Sem obras complementares - quatro semestralidades;
+
+Com obras complementares (cercas, provimentos de água, estabelecimentos de regadios, drenagens, etc.) - doze semestralidades;
+
+b) Para aquisição de animais:
+
+Bovinos para engorda - quatro semestralidades;
+
+Bovinos para reprodução (destinados à produção de leite ou carne) - doze semestralidades;
+
+Ovinos e caprinos para reprodução - seis semestralidades;
+
+c) Para construção, adaptação ou ampliação de instalações para gado, silos, nitreiras, etc. - catorze semestralidades;
+
+d) Para equipamento - dez semestralidades.
+
+7.2. A amortização dos empréstimos concedidos deverá iniciar-se dois anos depois da data da concessão do empréstimo.
+
+8.1. Atendendo a que nalgumas zonas de aplicação do presente despacho a exploração por arrendamento tem uma forte incidência, e considerando também a necessidade de se conseguir a maior operacionalidade possível, recomenda-se ao sistema bancário que as garantias a obter se baseiem fundamentalmente:
+
+a) Na idoneidade do mutuário e na sua capacidade empresarial;
+
+b) No valor do gado e do equipamento objecto de eventual penhor mercantil;
+
+c) Na possibilidade de obter consignação de receitas;
+
+d) No acompanhamento técnico da exploração pecuária através das brigadas do MAP, não só durante a execução do projecto mas também durante o período de amortização.
+
+8.2. Sempre que possível e tecnicamente aconselhável, poderão ser exigidas outras garantias admitidas em direito, nomeadamente fiança e hipoteca.
+
+9. Para cada uma das zonas de fomento pecuário definidas no mapa anexo ao presente despacho apenas vigorará uma linha de crédito, salvo os casos em que, técnica e economicamente, outras se imponham. Para concessão do crédito agrícola de emergência para fins pecuários será igualmente necessário o parecer dos técnicos das brigadas regionais.
+
+10.1. Os empréstimos concedidos em função da capacidade forrageira da exploração para a compra de animais, pagamento de salários, preparação de terras, aquisição de pesticidas, fertilizantes e correctivos dos solos, sementes, rações, complementos necessários à alimentação, equipamentos (incluindo a sua reparação) e combustíveis, até ao montante de 200 contos por empréstimo, e desde que o plafond total por empresário e para operações deste tipo não exceda 500 contos, poderão ser propostos directamente às entidades financiadoras pelas brigadas concelhias.
+
+10.2. Os empréstimos concedidos em função da capacidade forrageira da exploração para instalações pecuárias e os empréstimos para todos os outros fins previstos de montantes compreendidos entre 200 e 500 contos por empréstimo, e desde que o plafond total por empresário e para operações deste tipo não exceda 1000 contos, serão propostos directamente às entidades financiadoras pelos supervisores, os quais, no entanto, sempre que julguem conveniente, solicitarão o apoio necessário dos serviços regionais do MAP.
+
+10.3. Os empréstimos para todos os fins previstos de montantes compreendidos entre 500 e 800 contos por empréstimo, e desde que o plafond total por empresário e para operações deste tipo não exceda 2000 contos, serão propostos directamente as entidades financiadoras pelos chefes de brigada, com o apoio das estruturas técnicas regionais ou centrais do MAP.
+
+10.4. Os empréstimos de montantes superiores a 800 contos serão propostos pelos serviços centrais directamente às entidades financiadoras, depois de obtido o despacho favorável do Secretário de Estado do Fomento Agrário.
+
+Ministérios do Plano e Coordenação Económica, das Finanças e da Agricultura e Pescas, 18 de Abril de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/11100/10431045.pdf))](https://files.diariodarepublica.pt/1s/1977/05/11100/10431045.pdf)
+
+**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.**

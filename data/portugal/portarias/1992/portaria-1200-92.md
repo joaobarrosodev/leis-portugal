@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:624039:por
+title: Portaria n.º 1200/92
+short_title: null
+summary: Reconhece como adequados ao provimento em lugar de ingresso da carreira de técnico-adjunto de arquivo, constante
+  do quadro de pessoal da Secretaria-Geral do Ministério da Agricultura, vários cursos de formação profissional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura
+proposing_entity: null
+official_number: 1200/92
+official_date: null
+publication_date: '1992-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/1992, Série I-B de 1992-12-23
+  number: '295'
+  series: I
+  supplement: null
+  pages: 5921 - 5921
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/12/295b00/59215921.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1200/1992/12/23/p/dre/pt/html
+  oj: null
+  dre: '624039'
+  dre_path: /dr/detalhe/portaria/1200-1992-624039
+  internal: pt:dre:624039:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1200-1992-624039
+  metadata_url: https://data.dre.pt/eli/port/1200/1992/12/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1200-1992-624039
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-12-23T00:00:00Z'
+integrity:
+  source_sha256: 23bfdc7f56a9d14c9f08b262baf30d5d3ae762d48b73982e63cb6de2ef12aa37
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-1200-624039.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Agricultura
+- Recrutamento de Pessoal
+- Pessoal de BAD
+- Qualificação Profissional
+- Quadro de Pessoal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1200/92
+
+de 23 de Dezembro
+
+Ao abrigo do disposto na alínea b) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, que sejam reconhecidos como adequados ao provimento em lugar de ingresso da carreira de técnico-adjunto de arquivo, constante do quadro de pessoal da Secretaria-Geral do Ministério da Agricultura, os seguintes cursos de formação profissional, no seu conjunto, desde que complementares da habilitação do 11.º ano de escolaridade:
+
+Estágio de habilitação para pessoal técnico das bibliotecas universitárias de Lourenço Marques, realizado de 8 de Janeiro a 5 de Fevereiro de 1974;
+
+Curso de técnicas documentais, realizado pela empresa TEOR - Centro de Estudos e Organização Científica do Trabalho, S. A. R. L., de 5 de Março de 1979 a 14 de Fevereiro de 1980.
+
+Ministérios das Finanças e da Agricultura.
+
+**Assinada em 18 de Novembro de 1992.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, José Manuel Álvares da Costa e Oliveira, Subsecretário de Estado Adjunto do Ministro da Agricultura.

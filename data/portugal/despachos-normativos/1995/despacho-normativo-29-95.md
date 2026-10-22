@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:517398:por
+title: Despacho Normativo n.º 29/95
+short_title: null
+summary: Define para as colheitas de 1995, 1996 e 1997, no sector do tabaco em rama, os procedimentos de atribuição dos atestados
+  de quotas aos produtores, os critérios de repartição das quantidades disponíveis, as transferências de direitos e a obrigatoriedade
+  de publicação dos critérios e das quotas individuais de cada produtor
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 29/95
+official_date: null
+publication_date: '1995-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1995, Série I-B de 1995-06-17
+  number: '138'
+  series: I
+  supplement: null
+  pages: 3935 - 3936
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/06/138b00/39353936.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/29/1995/06/17/p/dre/pt/html
+  oj: null
+  dre: '517398'
+  dre_path: /dr/detalhe/despacho-normativo/29-1995-517398
+  internal: pt:dre:517398:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1995-517398
+  metadata_url: https://data.dre.pt/eli/despnorm/29/1995/06/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1995-517398
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-01-19T00:00:00Z'
+integrity:
+  source_sha256: 573a8824048bf137e17cb0cb6bed2c145b8a5e334299faafeb43645100b91714
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-29-517398.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agrupamento de Produtores
+- Comunidade Europeia
+- Definição de Competências
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Instituto de Alimentação e Mercados Agrícolas
+- Instituto dos Mercados Agrícolas e Indústria Agro-alimentar
+- Organização Comum de Mercado
+- Tabaco
+- Orientação Agrícola
+- Política Agrícola Comum
+- Quota de Produção
+- Produção Agrícola
+- Regulamento CE
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:151330:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31992R2075
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2075/oj
+- type: cites
+  target: celex:31992R3477
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/3477/oj
+- type: cites
+  target: celex:31995R0711
+  label: null
+  source: http://data.europa.eu/eli/reg/1995/711/oj
+- type: cites
+  target: celex:31995R1066
+  label: null
+  source: http://data.europa.eu/eli/reg/1995/1066/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 29/95
+
+O Regulamento (CEE) n.º [2075/92](http://data.europa.eu/eli/reg/1992/2075/oj?locale=pt), do Conselho, de 30 de Junho, que estabelece a organização comum de mercado no sector do tabaco em rama, alterado pelo Regulamento n.º [711/95](http://data.europa.eu/eli/reg/1995/711/oj?locale=pt), de 27 de Março, institui as medidas de orientação e de controlo da produção, de forma a garantir a sua manutenção nos limiares de garantia comunitários.
+
+O Regulamento (CEE) n.º [3477/92](http://data.europa.eu/eli/reg/1992/3477/oj?locale=pt), da Comissão, de 1 de Dezembro, relativo às normas de execução do regime de quotas a vigorar nas colheitas de 1993 e 1994, alterado pelo Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), da Comissão, de 13 de Maio, define para as colheitas de 1995, 1996 e 1997 os procedimentos de atribuição dos atestados de quotas aos produtores, os critérios de repartição das quantidades disponíveis, as transferências de direitos e a obrigatoriedade de publicação dos critérios e das quotas individuais de cada produtor.
+
+O Estado Português terá, para as colheitas de 1995, 1996 e 1997, de repartir a quota directamente entre os produtores, sendo necessária, à semelhança do que se passou nas colheitas de 1993 e 1994, uma gestão centralizada do regime, permitindo, por um lado, assegurar que os limiares de garantia atribuídos a Portugal pelo Conselho não sejam superados e, por outro, garantindo a distribuição pelos produtores de forma equitativa.
+
+As organizações de produtores e as empresas de primeira transformação foram consultadas sobre as disposições tomadas no presente diploma.
+
+Assim, a fim de aplicar em Portugal o regime do Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), da Comissão, de 13 de Maio, e ao abrigo do artigo 9.º do Regulamento (CEE) n.º [2075/92](http://data.europa.eu/eli/reg/1992/2075/oj?locale=pt), do Conselho, de 30 de Junho, determina-se:
+
+1.º Entende-se por «produtor», qualquer pessoa singular ou colectiva ou agrupamento dessas pessoas que entregue a uma empresa de primeira transformação tabaco em rama por ela produzido ou pelos seus membros, em seu nome e por sua conta, no quadro de um contrato de cultura por ela ou em seu nome celebrado.
+
+2.º O limiar de garantia fixado para Portugal na colheita de 1995 consta no anexo I do presente diploma.
+
+3.º A quantidade que figura no atestado de quota, a título de uma colheita, poderá vir a ser alterada nas colheitas posteriores.
+
+4.º A quota é atribuída a pedido dos interessados que se encontrem nas condições previstas no presente diploma.
+
+1 - Os produtores que entregaram tabaco às empresas de primeira transformação, nos anos de referência - 1990, 1991 e 1993 -, e aqueles que obtiveram um certificado de cultura para as colheitas de 1993 e 1994, em aplicação do segundo parágrafo do artigo 5.º do Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), de 13 de Maio, devem apresentar pedidos para obtenção de uma quota de produção.
+
+2 - O pedido de quota será efectuado pelo produtor individual e pelos agrupamentos de produtores, em nome dos seus associados, devendo neste último caso ser anexada uma lista nominativa.
+
+3 - O pedido de quota deverá ser formalizado para os produtores do continente junto do INGA - Instituto Nacional de Intervenção e Garantia Agrícola e para os produtores da Região Autónoma dos Açores junto do IAMA - Instituto de Alimentação e Mercados Agrícolas. Para as colheitas de 1996 e 1997, este pedido deverá ser efectuado até 15 de Janeiro do ano de colheita. Para a colheita de 1995, poderão ser efectuados até 15 de Maio do ano de colheita.
+
+5.º A atribuição de uma quota de produção para as colheitas de 1995, 1996 e 1997 é calculada para cada um dos produtores que reúna as condições específicas supramencionadas no n.º 4.º, n.º 1.
+
+1 - Para os agricultores que produziram tabaco nas três campanhas de referência, 1990, 1991 e 1993, em função da média das quantidades entregues às empresas de primeira transformação, com direito a prémio.
+
+2 - Para os produtores que tenham começado as suas actividades ou que tenham iniciado a cultura de uma nova variedade de tabaco após a colheita de 1992:
+
+a) Para a primeira colheita seguinte ao seu primeiro ano de actividade, o produtor receberá uma quota proporcional à sua primeira quota de produção para o grupo de variedades em causa;
+
+b) Para as colheitas seguintes, o produtor receberá uma quota de produção proporcional à média das quantidades entregues durante os anos anteriores ao ano da última colheita para o grupo de variedades em causa.
+
+6.º Pelo facto de o ano de 1993 ter gerado produções anormalmente baixas, nomeadamente no tabaco Virgínia, e que reflectem os efeitos da seca, Portugal entendeu, nos termos do quarto parágrafo do artigo 8.º do Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), de 13 de Maio, que na quantidade a tomar em consideração a título da colheita em questão, para efeitos do estabelecimento da quota de produção, fossem adoptados os seguintes critérios:
+
+1) Nos casos em que a quantidade produzida com direito a prémio for superior às quantidades de referência atribuídas para as colheitas de 1993 e 1994, a quota de produção atribuída a esse produtor a título individual seja equivalente à quantidade efectivamente produzida com direito a prémio;
+
+2) Nos casos em que a quantidade produzida com direito a prémio for inferior às quantidades de referência atribuídas para as colheitas de 1993 e 1994, a quota de produção atribuída a esse produtor a título individual seja equivalente à quantidade de referência.
+
+7.º A repartição de quotas entre os membros de um agrupamento é feita nos termos do artigo 19.º do Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), de 13 de Maio.
+
+8.º As quotas não podem ser transferidas nem ser objecto de transacções onerosas ou gratuitas e as quantidades produzidas por um produtor não podem ser tidas em conta a favor de um outro produtor para efeitos do cálculo da sua quota, salvo nos casos previstos nos n.os 1, 2 e 3.
+
+1 - Sempre que uma exploração de produção de tabaco seja transferida para um terceiro, a qualquer título, total ou parcial, designadamente venda, arrendamento ou herança, as quantidades de referência correspondentes à superfície objecto de transmissão são transferidas para o novo titular, desde que não existam disposições contratuais em contrário.
+
+2 - No caso do arrendamento, nos termos do terceiro parágrafo do artigo 13.º do Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), de 13 de Maio, as quantidades de referência e os direitos adquiridos manter-se-ão na titularidade do produtor arrendatário após o termo do contrato de arrendamento.
+
+3 - Sempre que vários membros de uma família explorem, ou tenham explorado, em comum uma exploração de tabaco devem solicitar que apenas um atestado de quota de produção seja emitido com base nas quantidades cumuladas a que tenham direito.
+
+4 - O pedido de transferência e documentação complementar constarão de formulários a distribuir pelo INGA.
+
+9.º - 1 - Nos casos em que haja agregação de quotas em entidade ou agrupamento de produtores, os pedidos devem constar do requerimento a apresentar de acordo com os formulários e documentação a distribuir pelo INGA.
+
+2 - Nos casos em que um produtor pretenda obter novamente a sua quota individual, deve formalizar o seu pedido, anexando documentos idênticos aos mencionados quando da agregação de quotas em entidade ou agrupamento de produtores.
+
+10.º - 1 - Os atestados de produção que não tenham sido utilizados para a celebração de contratos, nos termos do artigo 11.º do Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), de 13 de Maio, devem ser devolvidos pelo produtor ao INGA.
+
+2 - As quantidades disponíveis ou não utilizadas serão repartidas entre os produtores, considerando os seguintes aspectos:
+
+a) Rentabilização dos investimentos;
+
+b) Área de secagem instalada e rendimentos obtidos no período de referência;
+
+c) Qualidade do tabaco entregue nas colheitas anteriores, com o objectivo de incentivar a melhoria de qualidade na variedade.
+
+3 - A atribuição de um atestado de quota a novos produtores da colheita de 1995 fica condicionada à disponibilidade das quantidades devolvidas, depois de satisfeitos os pedidos dos produtores referidos supra no n.º 4.º, n.º 1.
+
+11.º Os produtores individuais e agrupamentos de produtores que detenham um atestado de quota podem efectuar contratos com as empresas de primeira transformação, de acordo com as seguintes normas:
+
+1) A celebração dos contratos deverá estar concluída em 31 de Março. Foi criada uma derrogação para a colheita de 1995, coincidindo a data limite com 30 de Junho;
+
+2) As quantidades não utilizadas pelo produtor serão devolvidas ao INGA para efeitos de redistribuição, nos termos do n.º 7.º deste diploma, nos cinco dias úteis posteriores à data limite de celebração de contratos;
+
+3) Se o produtor não devolver o atestado no prazo previsto, a sua quantidade de referência para a colheita seguinte e para o mesmo grupo de variedades será reduzida de 0,5% por cada dia de atraso, até um máximo de 15%;
+
+4) As quantidades não utilizadas nos termos do n.º 2 deste número, e outras quantidades eventualmente disponíveis, serão redistribuídas antes de 30 de Abril entre aqueles que pretendam um aumento de quota, salvo o caso da colheita de 1995, cuja data limite é 29 de Julho;
+
+5) As alterações dos contratos de cultura decorrentes da segunda redistribuição deverão dar-se por concluídas até 15 de Maio. Estas alterações e a celebração de contratos de cultura para novos produtores da colheita de 1995 deverão dar-se por concluídas em 12 de Agosto.
+
+12.º De acordo com o Regulamento (CE) n.º [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), de 13 de Maio, e nos termos dos artigos 2.º, alínea b), e 8.º, n.º 3, alínea b), do Decreto-Lei n.º 98/93, de 2 de Abril, compete ao IMAIAA propor as regras relativas à gestão do regime das quotas no tabaco e acompanhar a respectiva aplicação no âmbito da Comissão Consultiva do Mercado do Tabaco, respectivamente.
+
+13.º Compete ao INGA:
+
+1) Atribuir as quotas de produção e emitir os atestados de quota requeridos, bem como notificar os interessados da decisão;
+
+2) Assegurar a implementação e controlo de todas as medidas necessárias à boa execução do regime comunitário.
+
+14.º Para os efeitos previstos no artigo 18.º, n.º 4, do Regulamento (CE) [1066/95](http://data.europa.eu/eli/reg/1995/1066/oj?locale=pt), de 13 de Maio, o INGA promoverá a publicitação, através de edital a afixar em cada uma das zonas restritas de produção, da lista de quotas atribuídas por produtor, o mais tardar um mês após a data limite prevista para a entrega dos atestados da quota.
+
+15.º O acompanhamento da aplicação do sistema de quotas no tabaco previsto no presente diploma é efectuado no âmbito da Comissão Consultiva do Mercado do Tabaco, de acordo com o artigo 8.º, n.º 3, alínea b), do Decreto-Lei n.º 98/93, de 2 de Abril, que, para o efeito, integra um representante do INGA.
+
+Ministério da Agricultura, 17 Maio de 1995. - O Ministro da Agricultura, António Duarte Silva.
+
+## ANEXO — Limiares de garantia fixados para Portugal na colheita de 1995
+
+Grupo I - Flue-cured (Virginia p.): 5500 t.
+
+Grupo II - Light-air-cured (Burley p.): 1200 t.

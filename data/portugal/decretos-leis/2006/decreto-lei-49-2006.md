@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:694199:por
+title: Decreto-Lei n.º 49/2006
+short_title: null
+summary: Revoga os n.os 2, 3 e 4 do artigo 1.º do regulamento e tabela de taxas emolumentares devidas pelo registo de obras
+  literárias e artísticas anexo ao Decreto-Lei n.º 30/2005, de 10 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 49/2006
+official_date: null
+publication_date: '2006-03-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 43/2006, Série I-A de 2006-03-01
+  number: '43'
+  series: I
+  supplement: null
+  pages: 1651 - 1651
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/03/043a00/16511651.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/49/2006/03/01/p/dre/pt/html
+  oj: null
+  dre: '694199'
+  dre_path: /dr/detalhe/decreto-lei/49-2006-694199
+  internal: pt:dre:694199:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2006-694199
+  metadata_url: https://data.dre.pt/eli/dec-lei/49/2006/03/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2006-694199
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-09-26T00:00:00Z'
+integrity:
+  source_sha256: 6c10b4b6575f071ec2ced53c94c352930d5bdd04fe5db4f487311dc15aecca18
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-49-694199.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspecção Geral das Actividades Culturais
+- Direito de Autor
+- Propriedade Intelectual
+- Regulamento
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:57531377:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/30/2005/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/30/2005/02/10/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49/2006
+
+de 1 de Março
+
+O [Decreto-Lei n.º 30/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2005-618120), de 10 de Fevereiro, procedeu à actualização das taxas emolumentares do registo de obras literárias e artísticas da competência da Inspecção-Geral das Actividades Culturais do Ministério da Cultura.
+
+A actualização efectuou-se relativamente à cobertura dos custos dos serviços prestados, por forma que cada vez mais a sua qualidade possa garantir aos autores um serviço com maior eficácia, através da criação de condições adequadas à conservação dos títulos e obras depositados e do necessário desenvolvimento na área das novas tecnologias.
+
+Manteve-se, contudo, no essencial o texto da tabela de 1979, porquanto o diploma em que este se baseia, o Decreto-Lei n.º 4114, de 17 de Abril de 1918, ainda hoje se encontra em vigor por força do Código do Direito de Autor e dos Direitos Conexos.
+
+Verifica-se, todavia, que a fórmula aplicável às obras com edição comercial e venda ao público constante dos n.os 2, 3 e 4 do artigo 1.º do regulamento e tabela de taxas emolumentares devidas pelo registo de obras literárias e artísticas anexo ao referido [Decreto-Lei n.º 30/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2005-618120), de 10 de Fevereiro, exorbita o objecto e fim para o qual foi criado o registo da propriedade intelectual, não se coadunando com os princípios gerais do direito de autor, que visa essencialmente proteger as obras resultantes da criação intelectual do domínio literário e artístico, sendo irrelevante o facto de a obra se encontrar ou não comercializada, pelo que se opta pela aplicação da taxa normal de registo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Norma revogatória
+
+São revogados os n.os 2, 3 e 4 do artigo 1.º do regulamento e tabela de taxas emolumentares devidas pelo registo de obras literárias e artísticas anexo ao [Decreto-Lei n.º 30/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2005-618120), de 10 de Fevereiro, e que dele faz parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Isabel da Silva Pires de Lima.
+
+**Promulgado em 15 de Fevereiro de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 15 de Fevereiro de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

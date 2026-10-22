@@ -1,0 +1,248 @@
+---
+schema_version: '1.0'
+id: pt:dre:693442:por
+title: Decreto-Lei n.º 10/91
+short_title: null
+summary: Aprova o regime dos contratos de locação financeira de imóveis
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 10/91
+official_date: null
+publication_date: '1991-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/1991, Série I-A de 1991-01-09
+  number: '7'
+  series: I
+  supplement: null
+  pages: 104 - 106
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/01/007a00/01040106.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/10/1991/01/09/p/dre/pt/html
+  oj: null
+  dre: '693442'
+  dre_path: /dr/detalhe/decreto-lei/10-1991-693442
+  internal: pt:dre:693442:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1991-693442
+  metadata_url: https://data.dre.pt/eli/dec-lei/10/1991/01/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1991-693442
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-10-02T00:00:00Z'
+integrity:
+  source_sha256: 3d6075cc31889f7863dd1c7f7b2bd648368d51a29df4a579ce7cf79cd6ed9037
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-10-693442.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código Civil
+- Propriedade Horizontal
+- Contrato de Locação Financeira
+- Locação Financeira
+- Habitação
+- Prédio Urbano
+- Sociedade de Locação Financeira
+relationships:
+- type: amended_by
+  target: pt:dre:661566:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 20
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 10/91
+
+de 9 de Janeiro
+
+O contrato de locação financeira, regulado pelo [Decreto-Lei n.º 171/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1979-383421), de 6 de Junho, tem o seu campo de aplicação limitado à aquisição de bens de equipamento ou de imóveis afectados ou a afectar ao investimento produtivo na indústria, na agricultura, no comércio ou em outros sectores de serviços de manifesto interesse público.
+
+O presente diploma alarga a locação financeira ao domínio da habitação. Integrado nas tendências gerais da dinamização do mercado, o regime agora estabelecido vem colocar à disposição do público um instrumento flexível e capaz de proporcionar os meios necessários para a compra de habitação própria.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Locação financeira de imóveis para habitação
+
+É permitida a celebração de contratos de locação financeira de imóveis que sejam destinados a habitação própria do locatário, nos termos do presente diploma.
+
+###### Artigo 2.º — Partes
+
+São partes do contrato de locação financeira, como locadores, as sociedades de locação financeira imobiliária e, como locatários, as pessoas singulares que residam ou tencionem residir no imóvel objecto desse contrato.
+
+###### Artigo 3.º — Objecto
+
+1 - O contrato de locação financeira só pode ter por objecto prédios ou fracções autónomas em regime de propriedade horizontal com aptidão habitacional.
+
+2 - A aptidão referida no número anterior deve ser atestada por licença de utilização, passada pela autoridade municipal competente, mediante vistoria realizada menos de oito anos antes da celebração do contrato.
+
+###### Artigo 4.º — Fins
+
+Os imóveis objecto do contrato de locação financeira só podem destinar-se a habitação do locatário, sem prejuízo do exercício de indústrias domésticas, da residência das pessoas que vivam com o locatário em economia comum e da celebração, por ele, de contratos de hospedagem, nos termos aplicáveis ao arrendamento urbano para habitação e dentro dos limites aí impostos.
+
+### CAPÍTULO II — Formação do contrato
+
+###### Artigo 5.º — Aquisição do bem
+
+1 - Podem ser objecto do contrato de locação financeira bens que já fossem propriedade do locador ou que por este sejam adquiridos, sob proposta do interessado.
+
+2 - A proposta referida no número anterior deve conter a indicação da coisa a adquirir, do vendedor e das demais cláusulas do contrato.
+
+###### Artigo 6.º — Forma, registo e duração
+
+1 - O contrato de locação financeira fica sujeito a reconhecimento presencial e a registo, não podendo ser celebrado por período inferior a três anos.
+
+2 - Na celebração do contrato deverá ser feita prova da propriedade e da licença de habitação do imóvel.
+
+### CAPÍTULO III — Conteúdo do contrato
+
+###### Artigo 7.º — Menções obrigatórias no contrato
+
+1 - Do contrato de locação financeira devem constar os elementos seguintes:
+
+a) A renda e a respectiva fórmula de cálculo;
+
+b) A forma e o local do pagamento da renda;
+
+c) A duração do contrato;
+
+d) O preço pelo qual o locatário pode, no termo do prazo, adquirir a coisa locada;
+
+e) A indicação do número, data e entidade emitente da licença de habitação.
+
+2 - O contrato em causa deve ainda mencionar, quando seja o caso:
+
+a) A identificação dos locais de uso privativo do locatário, das partes comuns do edifício e dos anexos que sejam locados com o imóvel objecto do contrato;
+
+b) Regras restritivas da livre transmissibilidade da posição do locatário e relativas à cessação antecipada do contrato.
+
+3 - Ao contrato é anexado um documento assinado pelas partes, onde se descreva pormenorizadamente o estado de conservação do local e suas dependências, bem como do prédio, aplicando-se, na sua falta ou em caso de omissão ou dúvida, o disposto no n.º 2 do artigo 1043.º do Código Civil.
+
+###### Artigo 8.º — Obras
+
+1 - Salvo estipulação expressa em contrário, o custo das obras efectuadas na coisa locada é suportado pelo locatário, sem repercussão no montante da renda.
+
+2 - As obras que impliquem alterações externas na estrutura do prédio ou na disposição interna das suas divisões dependem de consentimento prévio do locador.
+
+###### Artigo 9.º — Propriedade horizontal
+
+1 - Nas situações de propriedade horizontal, o locatário assume, em nome próprio, todos os direitos e obrigações do locador relativos às partes comuns do edifício, suportando as despesas de administração, participando e votando nas assembleias de condónimos e podendo, nelas, ser eleito para os diversos cargos.
+
+2 - Exceptua-se do disposto no número anterior tudo aquilo que implique a disposição de partes comuns ou a alteração do título constitutivo.
+
+### CAPÍTULO IV — Cessão das disposições contratuais
+
+###### Artigo 10.º — Posição do locador
+
+O contrato de locação financeira subsiste, para todos os efeitos, nas transmissões do direito do locador, ocupando a sociedade de locação financeira imobiliária adquirente a mesma posição da sua antecessora.
+
+###### Artigo 11.º — Posição do locatário
+
+A posição do locatário é livremente transmissível entre vivos, salvo cláusula em contrário, e por morte.
+
+### CAPÍTULO V — Cessação do contrato
+
+###### Artigo 12.º — Cessação
+
+1 - O contrato de locação financeira pode cessar pelo decurso do prazo, por denúncia, por revogação ou por resolução.
+
+2 - À cessação do contrato de locação financeira não são aplicáveis as normas especiais relativas à cessação do contrato de arrendamento urbano.
+
+###### Artigo 13.º — Decurso do prazo
+
+1 - Ao locador compete, por carta registada com aviso de recepção, interpelar o locatário para que exerça o seu direito de aquisição da coisa locada com uma antecedência não inferior a 180 dias, relativamente ao termo do prazo do contrato.
+
+2 - O não cumprimento, pelo locador, da obrigação referida no número anterior envolve a prorrogação automática do contrato pelo período correspondente ao atraso verificado na interpelação, não podendo, contudo, o locador exigir o pagamento das rendas correspondentes a esse período.
+
+###### Artigo 14.º — Aquisição da coisa locada
+
+1 - O locatário deve comunicar ao locador, por carta registada com aviso de recepção, a sua intenção de adquirir a coisa, no termo do contrato.
+
+2 - A carta referida no número anterior deve ser remetida ao locador com uma antecedência mínima de 90 dias relativamente ao termo do contrato, tal como resulta do artigo anterior, sob pena de caducidade do direito de aquisição.
+
+###### Artigo 15.º — Atraso e execução específica
+
+1 - O atraso na realização da escritura, não imputável às partes, determina a continuação do dever de pagar rendas, a cargo do locatário, a descontar no preço de aquisição.
+
+2 - Havendo incumprimento da promessa, pode qualquer das partes obter sentença que produza os efeitos da declaração negocial do faltoso recorrendo à execução específica prevista no artigo 830.º do Código Civil ou, em alternativa, resolver o contrato por incumprimento.
+
+3 - O direito à execução específica referido no número anterior não pode ser afastado por convenção das partes.
+
+###### Artigo 16.º — Denúncia
+
+1 - O locatário pode denunciar o contrato, com ou sem aquisição da coisa locada, sempre que o contrato o permita.
+
+2 - O modo de efectivação da denúncia, o preço da coisa locada e o prémio de antecipação do seu pagamento, quando tenham lugar, são determinados ou calculados de acordo com o que contratualmente tiver sido estabelecido.
+
+###### Artigo 17.º — Revogação
+
+As partes podem, a todo o tempo, acordar na cessação do contrato de locação financeira e estipular as consequências daí derivadas.
+
+###### Artigo 18.º — Resolução
+
+O contrato de locação financeira pode ser resolvido por qualquer das partes, nos termos gerais, com fundamento no incumprimento das obrigações que assistem à outra parte.
+
+### CAPÍTULO VI — Disposições finais
+
+###### Artigo 19.º — Legislação subsidiária
+
+Ao contrato de locação financeira regulado no presente diploma são subsidiariamente aplicáveis as normas constantes do [Decreto-Lei n.º 171/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1979-383421), de 6 de Junho.
+
+###### Artigo 20.º
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 18 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 11 de Dezembro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 16 de Dezembro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

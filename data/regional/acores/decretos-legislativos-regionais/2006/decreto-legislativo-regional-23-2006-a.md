@@ -1,0 +1,568 @@
+---
+schema_version: '1.0'
+id: pt:dre:346744:por
+title: Decreto Legislativo Regional n.º 23/2006/A
+short_title: null
+summary: Estabelece o regime jurídico do transporte colectivo de crianças
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2006/A
+official_date: null
+publication_date: '2006-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2006, Série I-A de 2006-06-12
+  number: '113'
+  series: I
+  supplement: null
+  pages: 4149 - 4155
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/06/113a00/41494155.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-04-27'
+version_history:
+  file: decreto-legislativo-regional-23-2006-a.versoes.json
+  count: 2
+  source_lastmod: '2024-08-29'
+  versions:
+  - date: '2006-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-04-27'
+    amending: pt:dre:74243466:por
+    amending_title: Decreto Legislativo Regional n.º 8/2016/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Artigo 25.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 45.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 26.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/23/2006/a/cons/20190107/pt/html
+  oj: null
+  dre: '346744'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/23-2006-346744
+  internal: pt:dre:346744:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2006-346744
+  metadata_url: https://data.dre.pt/eli/declegreg/23/2006/a/cons/20190107/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-886305287
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-886305287
+  retrieved_at: '2026-10-22T13:13:32Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-29T00:00:00Z'
+integrity:
+  source_sha256: c624b3657f1ac74485955f3b8d3a011ee3af9a5013353429bba70fd730e8d714
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:13:32Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-23-2006-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Certificação Profissional
+- Multa
+- Criança
+- Contra-ordenação
+- Fiscalização
+- Fundo Regional dos Transportes
+- Seguro
+- Licenciamento
+- GNR
+- Condutor
+- Qualificação Profissional
+- Regime Jurídico
+- Seguro Automóvel
+- Seguro de Responsabilidade Civil Automóvel
+- Açores
+- Tacógrafo
+- Transporte
+relationships:
+- type: amended_by
+  target: pt:dre:74243466:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 15.º;
+    Altera Artigo 19.º; Altera Artigo 25.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 41.º; Altera Artigo 42.º;
+    Altera Artigo 45.º; Revoga Artigo 9.º; Revoga Artigo 16.º; Revoga Artigo 17.º; Revoga Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466
+  date: '2016-04-26'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/3/2001/01/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/3/2001/01/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/2006/04/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/2006/04/17/p/dre
+article_structure:
+  article_count: 48
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:13:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 23/2006/A
+
+Decreto Legislativo Regional n.º 23/2006/A
+
+Estabelece o regime jurídico do transporte colectivo de crianças
+
+A definição de um conjunto de regras básicas de segurança no transporte colectivo de crianças e jovens assume um papel fundamental na protecção da faixa etária mais jovem, contribuindo, nessa medida, para reduzir o risco de acidentes de viação.
+
+A adopção de medidas especiais aplicáveis a todos os operadores regionais que se destinem a transportar especificamente grupos de crianças e jovens constitui, assim, uma forma de promover condições acrescidas de segurança e qualidade, num segmento de transporte que tem vindo a crescer nos últimos anos.
+
+Neste contexto, procede-se à criação de soluções com o objectivo de compatibilizar as regras de segurança com as desejáveis condições de exequibilidade. Tais soluções vão desde a introdução de regimes de licenciamento para a actividade de transporte colectivo de crianças e jovens, a título principal, até à obrigatoriedade, em alguns casos, da presença de um encarregado, bem como de uso do cinto de segurança e sistemas de retenção durante a operação de transporte.
+
+Foram ouvidos os parceiros sociais.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime jurídico do transporte colectivo de crianças na Região Autónoma dos Açores.
+
+###### Artigo 2.º — Conceitos
+
+1 - Para efeitos do disposto no presente diploma e legislação complementar, considera-se:
+
+a) 'Transporte coletivo de crianças' o transporte regular especializado ou ocasional de crianças e jovens até aos 16 anos, em veículo ligeiro ou pesado de passageiros, por qualquer entidade pública ou privada;
+
+b) «Transporte público» o transporte de passageiros oferecido ao público ou a certas categorias de utentes que, nos termos da alínea seguinte, se não classifique como particular;
+
+c) «Transporte particular» o transporte que, ainda que remunerado, assume uma função complementar ou acessória ao exercício do comércio ou indústria da entidade transportadora, seja ela pessoa singular ou colectiva, e os veículos sejam da propriedade dessa entidade ou por ela tenham sido adquiridos em regime de locação financeira ou de contrato de locação a longo prazo e sejam conduzidos por um elemento do pessoal dessa pessoa singular ou colectiva ou pelo próprio, no caso de pessoa singular;
+
+d) (Revogada.)
+
+e) «Serviços regulares especializados» os serviços regulares que apenas asseguram o transporte colectivo de crianças entre o domicílio, ou paragem previamente estabelecida, e o respectivo estabelecimento de ensino;
+
+f) «Serviços ocasionais» os serviços que asseguram o transporte de grupos de crianças previamente constituídos e com uma finalidade conjunta, organizados por iniciativa de terceiro ou do próprio transportador;
+
+g) «Encarregado» indivíduo maior encarregue da vigilância e acompanhamento das crianças durante o serviço de transporte colectivo de crianças;
+
+h) «Documentos de controlo» os documentos exigidos para a realização de transportes de passageiros pela regulamentação regional, nacional e comunitária ou por convenção internacional sobre transportes rodoviários de passageiros, nomeadamente autorizações, contratos, folhas de itinerário, certificados e licença do veículo.
+
+2 - Para efeitos da alínea c) do número anterior, considera-se contrato de locação a longo prazo o que se celebra por período superior a um ano.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 3.º — Princípio geral
+
+O transportador colectivo de crianças garante as regras de segurança previstas no presente diploma às crianças transportadas, desde o momento em que estas entrem no veículo até à saída do mesmo.
+
+### Capítulo II — Regras de segurança
+
+###### Artigo 4.º — Cintos de segurança e sistemas de retenção
+
+1 - Todos os lugares dos veículos têm de estar equipados com cintos de segurança, os quais devem ser correctamente utilizados quando os veículos se encontrarem em circulação.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Nos veículos pesados de passageiros as crianças com idade inferior a seis anos devem ser seguras por um sistema de retenção especial, devidamente homologado e adaptado ao seu peso e tamanho, mantendo-se esse dever nos transportes em veículos ligeiros para crianças com menos de doze anos de idade, desde que tenham altura inferior a 135 cm.
+
+5 - Os bancos de passageiros que por construção sejam providos unicamente de cinto subabdominal ficam dispensados da obrigatoriedade de utilização de sistema de retenção do Grupo III.
+
+6 - Ficam isentas da obrigação da utilização de cinto de segurança ou sistema de retenção as crianças que possuam um atestado médico de isenção, por razões graves de saúde, passado pela autoridade de saúde da área de residência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 5.º — Lotação
+
+1 - O número de crianças e jovens a transportar nos veículos onde se efetua o transporte coletivo de crianças corresponde ao número de lugares sentados constante da respetiva lotação.
+
+2 - As crianças com idade inferior a doze anos, desde que tenham altura inferior a 135 cm, não podem ser transportadas nos bancos da frente, nem nos bancos contíguos à porta traseira ou no lugar central do banco de trás dos veículos pesados, se este ligar diretamente ao corredor do veículo, salvo se o transporte se fizer utilizando sistema de retenção devidamente homologado e adaptado ao seu tamanho e peso.
+
+3 - O transporte colectivo de crianças não pode ser efectuado em veículos de dois pisos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 6.º — Encarregados
+
+1 - Os veículos pesados de passageiros onde se efetue o transporte coletivo de crianças, em serviços regulares especializados ou em serviços ocasionais, devem circular com, pelo menos, um encarregado, para além do condutor.
+
+2 - O encarregado tem por obrigação o acompanhamento das crianças durante o serviço de transporte, bem como o auxílio da entrada e saída destas do veículo, assegurando que são entregues em segurança no seu destino.
+
+3 - Em caso de atravessamento da via, compete ao encarregado acompanhar as crianças, usando, para o efeito, colete retrorreflector e raqueta de sinalização, devidamente homologados.
+
+4 - O encarregado é responsável pelas infracções por não utilização do cinto de segurança ou sistema de retenção pelas crianças transportadas.
+
+5 - Cabe ao transportador colectivo de crianças assegurar a presença do encarregado, bem como a comprovação da sua idoneidade, nos termos do artigo 20.º
+
+6 - A presença do encarregado pode ser assegurada pela entidade organizadora do transporte, mediante acordo escrito para o efeito, ficando esta responsável pela comprovação da respectiva idoneidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 7.º — Entrada e saída do veículo
+
+1 - O veículo que efectua o transporte colectivo de crianças deve parar ou estacionar, sempre que possível, em locais próprios para o efeito devidamente assinalados.
+
+2 - Quando o veículo estiver parado ou estacionado para tomar ou largar crianças devem ser acionadas as luzes de perigo.
+
+3 - A entrada ou a saída de crianças para o veículo é feita pelo passeio.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 8.º — Portas e janelas
+
+1 - O sistema de abertura de portas deve ser através de comando ou, na sua ausência, as portas apenas podem ser abertas do exterior, havendo, neste caso, um sistema de saída de emergência.
+
+2 - Quando as janelas ficarem a um nível de alcance das crianças os vidros devem ser inamovíveis ou travados a um terço da abertura total.
+
+###### Artigo 9.º — Tacógrafo
+
+Os veículos pesados de passageiros devem estar equipados com tacógrafo devidamente homologado.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 10.º — Outros equipamentos
+
+O veículo onde se efectua o transporte colectivo de crianças deve estar provido com extintor de incêndios e caixa de primeiros socorros.
+
+###### Artigo 11.º — Sinalização em circulação
+
+Os veículos onde se efectua o transporte colectivo de crianças devem circular com as luzes de cruzamento acesas.
+
+###### Artigo 12.º — Transporte de volumes
+
+No interior do veículo só é permitido o transporte de volumes com dimensões, peso e características que permitam o seu acondicionamento nos locais apropriados e de modo que não constituam qualquer risco para as crianças.
+
+###### Artigo 13.º — Identificação do veículo
+
+O veículo através do qual se efectua o transporte colectivo de crianças deve ser identificado mediante a afixação de um dístico no vidro traseiro, definido por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
+
+### Capítulo III — Do exercício da actividade
+
+###### Artigo 14.º — Licenciamento da actividade
+
+1 - A actividade de transporte colectivo de crianças só pode ser exercida por quem se encontre licenciado ou certificado para o efeito pela direcção regional competente em matéria de transportes terrestres.
+
+2 - O licenciamento na actividade de transporte colectivo público de crianças só pode ser concedido às pessoas singulares e colectivas que comprovem reunir os requisitos de acesso à actividade.
+
+3 - O licenciamento para o exercício da actividade de transporte colectivo público de crianças é titulado por um alvará emitido pela direcção regional competente em matéria de transportes terrestres, por prazo não superior a cinco anos, intransmissível e renovável, por igual período, mediante comprovação de que se mantêm os requisitos de acesso à actividade.
+
+4 - O licenciamento na actividade de transporte colectivo regular de passageiros, actualmente válido, confere aos respectivos titulares a competência para o exercício, a título acessório, da actividade de transporte colectivo de crianças, sem prejuízo do cumprimento das regras de segurança previstas no capítulo II do presente diploma.
+
+5 - A direcção regional competente em matéria de transportes terrestres procede ao registo das pessoas singulares ou colectivas licenciadas e certificadas que realizem o transporte de crianças previsto neste diploma.
+
+###### Artigo 15.º — Requisitos de acesso à actividade
+
+São requisitos de acesso à atividade de transporte coletivo público de crianças a idoneidade e a capacidade financeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 16.º — Capacidade técnica e profissional dos administradores, directores ou gerentes
+
+1 - A capacidade técnica e profissional consiste na existência de recursos humanos que possuam conhecimentos adequados para o exercício da actividade de transportes colectivos públicos de crianças atestados por certificado de capacidade profissional.
+
+2 - A capacidade profissional deve ser preenchida por um administrador, director ou gerente que dirija a empresa em permanência e efectividade ou, no caso de empresas públicas ou serviços municipalizados, pela pessoa que tenha a seu cargo a direcção do serviço de exploração de transportes da empresa.
+
+3 - Os termos da avaliação da capacidade técnica e profissional são definidos por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 17.º — Reconhecimento da capacidade técnica e profissional
+
+1 - É emitido pela direcção regional competente em matéria de transportes terrestres um certificado de capacidade profissional para transportes colectivos de crianças aos administradores, directores ou gerentes que obtenham aprovação em exame sobre as matérias a definir por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
+
+2 - O exame a que se refere o número anterior é realizado em conformidade com regulamento aprovado por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
+
+3 - As pessoas diplomadas com curso do ensino superior, ou equiparado, que implique bom conhecimento de alguma ou algumas das matérias previstas na portaria a que se refere o n.º 1 do presente artigo, podem ser dispensadas do exame relativamente a essa ou a essas matérias.
+
+4 - A direcção regional competente em matéria de transportes terrestres reconhece os certificados de capacidade profissional para transportes rodoviários de passageiros emitidos em Portugal, ao abrigo do Decreto-Lei n.º 3/2001, de 10 de Janeiro, e em outros Estados membros da União Europeia, desde que atestados pela respectiva autoridade competente.
+
+5 - Na Região o nível de conhecimento a tomar em consideração, para efeitos do reconhecimento da capacidade técnica e profissional, não pode ser inferior à escolaridade obrigatória.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 18.º — Capacidade técnica, profissional, física e psicológica dos condutores
+
+1 - A capacidade técnica e profissional dos condutores pressupõe a posse de conhecimentos adequados para o exercício da actividade de transporte colectivo de crianças, atestados por certificado.
+
+2 - Os termos da avaliação da capacidade técnica, profissional, física e psicológica dos condutores são definidos por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
+
+3 - O Governo Regional, através do departamento com competência em matéria de transportes terrestres, deve apoiar a realização de acções de formação profissional para condutores, garantindo-lhes conhecimentos, designadamente sobre as regras e medidas específicas de segurança do transporte de crianças e sobre primeiros socorros.
+
+###### Artigo 19.º — Reconhecimento da capacidade técnica e profissional dos condutores
+
+1 - É emitido pela direcção regional competente em matéria de transportes terrestres um certificado de capacidade técnica e profissional aos condutores de transportes colectivos de crianças, públicos ou particulares, que:
+
+a) Obtenham aprovação em exame, após frequência de ação de formação, sobre as matérias a definir por portaria do membro do Governo Regional com competência em matéria de transportes terrestres;
+
+b) Tenham a escolaridade obrigatória;
+
+c) Tenham experiência de condução pelo menos de dois anos, comprovada curricularmente.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 20.º — Idoneidade
+
+Os administradores, directores ou gerentes, bem como os condutores e encarregados, são obrigados a preencher o requisito de idoneidade, nos termos da Lei n.º 13/2006, de 17 de Abril, e legislação complementar.
+
+###### Artigo 21.º — Capacidade financeira
+
+1 - A capacidade financeira consiste na posse dos recursos necessários para garantir o início da actividade e a boa gestão da empresa.
+
+2 - As empresas devem dispor de um capital social mínimo de (euro) 9000 para efeitos de início de actividade, no caso de ser utilizado um único veículo licenciado, ou de (euro) 5000 por cada veículo licenciado adicional que possuam, quer em regime de propriedade, quer tenha sido adquirido em regime de locação financeira ou por contrato de locação a longo prazo.
+
+3 - A comprovação do disposto no número anterior é feita, para efeitos de início de actividade, por certidão do registo comercial de que conste o capital social e, durante o exercício da actividade, por duplicado ou cópia autenticada do último balanço apresentado para efeitos do imposto sobre o rendimento de pessoas colectivas (IRC) ou por garantia bancária.
+
+###### Artigo 22.º — Seguro
+
+No exercício da actividade de transporte colectivo público de crianças é obrigatório, para além dos demais seguros exigidos por lei, seguro de responsabilidade civil pelo valor máximo legalmente permitido, que inclua os passageiros transportados e respectivos prejuízos.
+
+###### Artigo 23.º — Dever de comunicação
+
+1 - As empresas devem comunicar à direcção regional competente em matéria de transportes terrestres as alterações ao pacto social, designadamente modificações na administração, direcção ou gerência, bem como mudanças de sede, no prazo de 30 dias a contar da data da sua ocorrência.
+
+2 - A cessação de funções do responsável pelo serviço de exploração de transportes da empresa, quando este assegure o requisito de capacidade profissional, deve ser comunicada à direcção regional competente em matéria de transportes terrestres no prazo referido no número anterior.
+
+###### Artigo 24.º — Falta superveniente dos requisitos de acesso à actividade
+
+1 - Os requisitos de acesso à actividade são de verificação permanente, devendo as empresas comprovar o seu preenchimento, sempre que lhes for solicitado.
+
+2 - A falta superveniente de qualquer dos requisitos de acesso à actividade deve ser suprida no prazo de um ano a contar da data da sua ocorrência.
+
+3 - Decorrido o prazo previsto no número anterior sem que a falta seja suprida, caduca a licença comunitária ou o alvará para o exercício da actividade.
+
+###### Artigo 25.º — Isenção de licenciamento e requisitos de acesso à atividade
+
+1 - Às pessoas singulares e coletivas que efetuam transporte coletivo particular de crianças não é exigido o licenciamento e os requisitos de acesso à atividade.
+
+2 - As pessoas singulares e coletivas que pretendam efetuar transporte coletivo particular de crianças devem estar munidas de um certificado emitido pela direção regional competente em matéria de transportes terrestres, válido por cinco anos, cujas condições são definidas por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+### Capítulo IV — Regulação da actividade
+
+###### Artigo 26.º — Serviços regulares
+
+A realização de serviços regulares rege-se pelas regras de acesso e organização do mercado previstas por legislação especial.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 27.º — Serviços regulares especializados
+
+1 - O serviço regular especializado no transporte colectivo de crianças só pode realizar-se mediante contrato escrito entre o transportador e a entidade interessada na prestação de serviços, o qual, para além de identificar as partes, deve mencionar a categoria de utentes e indicar o itinerário, a frequência e as paragens.
+
+2 - Durante a realização de serviços regulares especializados, o contrato ou a sua cópia autenticada deve estar a bordo do veículo.
+
+###### Artigo 28.º — Serviços ocasionais
+
+1 - Os serviços ocasionais devem realizar-se ao abrigo de um documento descritivo do serviço ou folha de itinerário, o qual deve estar a bordo do veículo, devidamente preenchido e numerado.
+
+2 - Do documento descrito deve constar a identificação do transportador e do organizador, a finalidade do serviço e o respectivo itinerário, com indicação das localidades de origem, destino e de tomada e largada de passageiros, bem como as datas de início e termo da viagem.
+
+###### Artigo 29.º — Licenciamento de veículos
+
+1 - Os veículos a afectar ao transporte colectivo de crianças, público ou particular, estão sujeitos a licença a emitir pela Direcção Regional competente em matéria de transportes terrestres.
+
+2 - As condições de licenciamento e os requisitos dos veículos são definidos por portaria do membro do Governo Regional com competência em matéria de transportes terrestres, tendo em conta:
+
+a) A obrigatoriedade de uma inspecção prévia ao veículo a licenciar;
+
+b) A não atribuição de licença a veículos com mais de 18 anos, após a data da atribuição da primeira matrícula.
+
+3 - As licenças dos veículos suspendem-se nos casos de não aprovação do veículo em inspecção periódica ou de falta de seguro automóvel obrigatório.
+
+4 - Sempre que os veículos atinjam o limite de idade referido na alínea b) do n.º 2, as respectivas licenças caducam.
+
+###### Artigo 30.º — Documentos a bordo do veículo
+
+Durante a realização de transportes colectivos de crianças devem estar a bordo do veículo, designadamente, a cópia certificada do alvará ou do certificado, os comprovativos da habilitação do transportador e os documentos de controlo a que se refere a alínea h) do n.º 1 do artigo 2.º
+
+### Capítulo V — Fiscalização e regime sancionatório
+
+###### Artigo 31.º — Fiscalização
+
+1 - São competentes para a fiscalização do cumprimento do disposto no presente diploma as seguintes entidades:
+
+a) Direcção regional competente em matéria de transportes terrestres;
+
+b) Guarda Nacional Republicana;
+
+c) Polícia de Segurança Pública;
+
+d) Polícia Municipal.
+
+2 - As entidades referidas no número anterior podem proceder junto das pessoas singulares ou colectivas que efectuem os serviços a que se refere o presente diploma a todas as investigações e verificações necessárias para o exercício da sua competência fiscalizadora.
+
+3 - Os funcionários com competência na área da fiscalização e no exercício de funções, desde que devidamente credenciados, têm livre acesso aos locais destinados ao exercício da actividade das empresas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 32.º — Violação das regras de segurança
+
+1 - A violação do disposto no n.º 1 do artigo 4.º é punível com coima de (euro) 500 a (euro) 1500.
+
+2 - A violação do disposto no n.º 4 do artigo 4.º e no artigo 5.º é punível com coima de (euro) 100 a (euro) 250, por unidade.
+
+3 - A violação do disposto nos n.os 1, 2 e 3 do artigo 6.º e no artigo 7.º é punível com coima de (euro) 500 a (euro) l000.
+
+4 - A violação do disposto no artigo 8.º é punível com coima de (euro) 250 a (euro) 500.
+
+5 - A violação do disposto no artigo 10.º é punível com coima de (euro) 100 a (euro) 250.
+
+6 - A violação do disposto nos artigos 11.º, 12.º e 13.º é punível com coima de (euro) 200 a (euro) 350.
+
+7 - A realização de transporte coletivo de crianças por condutor não titular de certificado de capacidade técnica e profissional a que se refere o artigo 19.º ou com certificado caducado, é punível com coima de (euro) 250 a (euro) 500.
+
+8 - A tentativa e a negligência são puníveis.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 33.º — Realização de transportes por entidade não licenciada ou certificada
+
+A realização de transportes colectivos de crianças por entidade não licenciada ou certificada é punível com coima de (euro) 750 a (euro) 4000 ou de (euro) 5000 a (euro) 25000, consoante se trate de pessoa singular ou colectiva.
+
+###### Artigo 34.º — Falta de licenciamento dos veículos
+
+A realização de transportes colectivos de crianças por meio de veículo não licenciado nos termos do artigo 29.º é punível com coima de (euro) 500 a (euro) 2500.
+
+###### Artigo 35.º — Falta de seguro
+
+A falta de seguro de responsabilidade civil, nos termos do artigo 22.º, é punível com coima de (euro) 750 a (euro) 2500.
+
+###### Artigo 36.º — Infracções aos serviços regulares especializados
+
+1 - A realização de serviços regulares especializados sem o contrato a que se refere o artigo 27.º é punível com coima de (euro) 750 a (euro) 4000.
+
+2 - A falta de menção de qualquer dos elementos obrigatórios do contrato referidos no artigo 27.º é punível com coima de (euro) 200 a (euro) 1000.
+
+###### Artigo 37.º — Infracções aos serviços ocasionais
+
+1 - A realização de serviços ocasionais sem a folha de itinerário a que se refere o artigo 28.º é punível com coima de (euro) 500 a (euro) 2500.
+
+2 - O preenchimento incorrecto das folhas de itinerário a que se refere o número anterior é punível com coima de (euro) 250 a (euro) 1000.
+
+###### Artigo 38.º — Falta de apresentação de documentos
+
+A não apresentação dos documentos a que se refere o artigo 30.º, no acto da fiscalização, é punível com coima de (euro) 75 a (euro) 500.
+
+###### Artigo 39.º — Falta de comunicação
+
+O não cumprimento do dever de comunicação previsto no artigo 23.º é punível com coima de (euro) 250 a (euro) 1000.
+
+###### Artigo 40.º — Sanções acessórias
+
+1 - Às coimas previstas nos n.os 1 a 4 do artigo 32.º pode ser decretada a sanção acessória de suspensão de autorizações, licenças e alvarás, por um período de dois a cinco anos.
+
+2 - Com a aplicação da coima, pode ser simultaneamente decretada a sanção acessória de suspensão de autorizações, licenças e alvarás, até um máximo de dois anos, quando o transportador tiver praticado alguma das infracções referidas nos artigos 34.º, 36.º e 37.º, durante o prazo de um ano a contar da data da primeira decisão condenatória, quando definitiva e exequível, ou da data do pagamento voluntário da coima.
+
+3 - A aplicação da sanção acessória prevista nos números anteriores implica o depósito na direcção regional competente em matéria de transportes terrestres dos respectivos documentos, sem o que os mesmos serão apreendidos.
+
+###### Artigo 41.º — Processamento das contra-ordenações
+
+1 - O processamento das contra-ordenações previstas neste diploma compete à direcção regional competente em matéria de transportes terrestres.
+
+2 - A aplicação das coimas e das sanções acessórias é da competência do diretor regional competente em matéria de transportes terrestres, com a faculdade de delegação.
+
+3 - A direcção regional competente em matéria de transportes terrestres organiza o registo das infracções cometidas nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 42.º — Produto das coimas
+
+1 - O produto das coimas é distribuído da seguinte forma:
+
+a) 20% para a entidade fiscalizadora;
+
+b) 80 % para o Fundo Regional dos Transportes Terrestres, Instituto Público Regional (FRTT, I. P.R.A.).
+
+2 - Sempre que a entidade fiscalizadora pertença à administração regional autónoma, a percentagem do produto das coimas referida na alínea a) do número anterior constitui receita da Região.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 43.º — Delegação de competências
+
+Por despacho do membro do Governo Regional com competência em matéria de transportes terrestres, podem ser cometidas às delegações de ilha do respectivo departamento governamental regional, nos termos da orgânica do mesmo, algumas das competências cujo exercício se encontre a cargo da direcção regional competente em matéria de transportes terrestres.
+
+###### Artigo 44.º — Modelos de licenças e outros documentos
+
+Os modelos das licenças, alvarás, autorizações, dísticos, folhas de itinerário e certificados a que se refere o presente diploma, que não estejam previstos em regulamentação comunitária ou em acordos bilaterais ou convenções multilaterais, são aprovados por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
+
+###### Artigo 45.º — Afectação de receitas
+
+Constituem receita própria do Fundo Regional dos Transportes Terrestres, Instituto Público Regional (FRTT, I. P.R.A.) os montantes que vierem a ser fixados, por despacho conjunto dos membros do Governo Regional competentes em matéria de finanças e de transportes terrestres, para as inscrições em exame e a emissão de certificados, licenças, alvarás, autorizações e outros documentos de controlo referidos no presente diploma ou na sua regulamentação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2016/A - Diário da República n.º 80/2016, Série I de 2016-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466), em vigor a partir de 2016-04-27
+
+###### Artigo 46.º — Regulamentação
+
+O presente diploma é regulamentado no prazo de 120 dias contados a partir da data da sua entrada em vigor.
+
+###### Artigo 47.º — Adaptação de regime
+
+1 - No prazo de um ano, contado da data da entrada em vigor do presente diploma, as empresas que possuam capital social inferior ao estipulado no artigo 21.º procederão ao seu aumento, sob pena da suspensão e posterior cessação da concessão ou concessões de que sejam titulares.
+
+2 - Até 31 de Dezembro de 2009, não são aplicadas as disposições relativas ao limite de idade dos veículos, desde que estes reúnam as condições de segurança e transporte previstas no presente diploma.
+
+3 - Até 31 de Dezembro de 2007, os veículos matriculados em data anterior a 2000 e que não disponham, por construção, dos pontos de fixação necessários à adaptação de cintos de segurança e sistemas de retenção podem efectuar o transporte de crianças, excepto no banco da frente do veículo.
+
+4 - Até 31 de Dezembro de 2011, os veículos pesados de passageiros, sem tacógrafo, adquiridos antes da entrada em vigor do presente diploma podem efectuar o transporte colectivo de crianças.
+
+###### Artigo 48.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação e reporta os seus efeitos à data da entrada em vigor da Lei n.º 13/2006, de 17 de Abril.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de Maio de 2006.
+
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 31 de Maio de 2006.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

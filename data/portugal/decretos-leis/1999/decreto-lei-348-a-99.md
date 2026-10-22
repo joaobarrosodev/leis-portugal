@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:141840:por
+title: Decreto-Lei n.º 348-A/99
+short_title: null
+summary: Estabelece a continuidade do Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II,
+  por três tipos de apoios a projectos a vigorar até 31 de Dezembro de 1999, encerrando os restantes apoios a partir de 31
+  de Agosto de 1999
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 348-A/99
+official_date: null
+publication_date: '1999-08-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 203/1999, 1º Suplemento, Série I-A de 1999-08-31
+  number: '203'
+  series: I
+  supplement: 1º Suplemento
+  pages: 6080-(2) a 6080-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/203a01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/348-a/1999/08/31/p/dre/pt/html
+  oj: null
+  dre: '141840'
+  dre_path: /dr/detalhe/decreto-lei/348-a-1999-141840
+  internal: pt:dre:141840:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-a-1999-141840
+  metadata_url: https://data.dre.pt/eli/dec-lei/348-a/1999/08/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-a-1999-141840
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-08-31T00:00:00Z'
+integrity:
+  source_sha256: 062637739a2ea77106155f6fb84cc317edc550319bd3ac416af3e37f086ee649
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-348-A-141840.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Modernização Industrial
+- Regime de Apoio à PME de Menor Dimensão
+- Pedip II
+- Subsídio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/41/1998/06/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/41/1998/06/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/545/1994/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/545/1994/07/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/24-a/1998/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/24-a/1998/02/13/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 348-A/99
+
+de 31 de Agosto
+
+O [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, criou, nos termos do disposto nas Decisões da Comissão Europeia n.os C(94)376, de 25 de Fevereiro, e C(94)464 Final/3, de 4 de Março, o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa, aplicável a todo o território nacional durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.
+
+Na realidade, o PEDIP II é um programa nacional de auxílio à indústria, aprovado pela Comissão no respeito dos artigos 87.º e 88.º do Tratado de Roma e com um período de vigência até 31 de Dezembro de 1999.
+
+O facto de ter sido integrado no Quadro Comunitário de Apoio para 1994-1999 (QCA II) fê-lo beneficiar de um co-financiamento dos fundos estruturais, o que permitiu reforçar o orçamento nacional disponível. Tal circunstância em nada alterou o seu estatuto de ajuda nacional face aos artigos 87º e 88.º do Tratado de Roma.
+
+Da combinação das regras dos fundos estruturais relativas aos prazos de elegibilidade das despesas, com os procedimentos administrativos nacionais de análise e aprovação de candidaturas, torna-se impossível a utilização do co-financiamento comunitário nos últimos meses de vigência do Programa.
+
+No intuito de dar continuidade à execução do Programa do Governo em matéria de política industrial, correspondendo assim aos anseios e necessidades dos agentes económicos, julga-se conveniente proporcionar a manutenção de alguns apoios nesta área. Com efeito, a manutenção de um clima de confiança e de um enquadramento favorável, sem rupturas, às decisões de investimento por parte das empresas é uma condição necessária para que a indústria portuguesa mantenha elevados níveis de desempenho na produção e exportação e na criação de emprego e bem-estar social.
+
+Assim, o Governo Português entende dever tomar a iniciativa, a fim de evitar um hiato num importante instrumento da política industrial durante um período tendencialmente longo, de assegurar a continuação do PEDIP a partir de Setembro de 1999 e até ao seu termo em 31 de Dezembro de 1999, exclusivamente com base em meios financeiros nacionais.
+
+A cobertura orçamental será assegurada, nos termos da [Resolução do Conselho de Ministros n.º 24-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-a-1998-297400), de 13 de Fevereiro, por verbas provenientes dos reembolsos dos subsídios reembolsáveis atribuídos nos últimos anos.
+
+Manter-se-ão, assim, em vigor durante este período medidas de três dos regimes de apoio do PEDIP II.
+
+O quadro legislativo para a execução destas medidas é, com as adaptações que se revelem necessárias face ao facto do seu financiamento ser agora exclusivamente realizado com meios nacionais, o previsto para o PEDIP II.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma dá continuidade ao programa nacional de auxílio à indústria - Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II, instituído pelo [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, para os projectos previstos nas alíneas seguintes:
+
+a) Projectos de Inovação e Internacionalização das Estruturas Empresariais do Regime de Apoio à Realização de Estratégias Empresariais Integradas;
+
+b) Pequenos Projectos de Modernização Empresarial do Regime de Apoio a PME de Menor Dimensão;
+
+c) Projectos Estratégicos de Regime Contratual do Regime de Apoio à Realização de Estratégias Empresariais Integradas.
+
+2 - No âmbito dos projectos referidos na alínea c) do número anterior, só serão apoiados os projectos mencionados no despacho do Ministro da Economia n.º 12697/97, de 31 de Outubro, publicado no Diário da República, 2.ª série, n.º 287, de 13 de Dezembro de 1997, e os projectos constantes do despacho do Ministro da Economia n.º 13844/99, de 5 de Julho, publicado no Diário da República, 2.ª série, n.º 168, de 21 de Julho de 1999.
+
+3 - A data limite para recepção das candidaturas que ainda não estejam encerradas aos restantes regimes de apoio dos sistemas de incentivos do PEDIP II é fixada em 1 de Setembro de 1999.
+
+###### Artigo 2.º — Cobertura orçamental
+
+A cobertura orçamental dos apoios previstos no presente diploma será assegurada, nos termos da [Resolução do Conselho de Ministros n.º 24-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/24-a-1998-297400), de 13 de Fevereiro, por verbas provenientes dos reembolsos dos subsídios reembolsáveis.
+
+###### Artigo 3.º — Regime aplicável
+
+O quadro normativo para a execução das medidas previstas pelo presente diploma é o instituído, com as adaptações que se revelem necessárias, para o PEDIP II.
+
+###### Artigo 4.º — Selecção de projectos
+
+1 - A selecção dos projectos no âmbito do apoio a Pequenos Projectos de Modernização Empresarial do Regime de Apoio a PME de Menor Dimensão será feita por fases, cujos períodos e dotações orçamentais serão definidos por despacho do Ministro da Economia.
+
+2 - Os projectos serão classificados em termos da respectiva valia industrial, calculada segundo a metodologia constante do anexo B ao [Despacho Normativo n.º 41/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1998-471157), de 12 de Junho.
+
+3 - Os projectos a seleccionar em cada fase, desde que considerados enquadráveis e elegíveis, serão hierarquizados com base no critério da maior valia industrial.
+
+4 - No caso de igualdade da pontuação da valia industrial, a prioridade da concessão de apoios será estabelecida em função da data mais antiga de entrada das candidaturas no IAPMEI.
+
+5 - Os promotores de projectos que, de acordo com a metodologia constante dos números anteriores, sejam considerados não elegíveis ou cuja ordenação os impeça de usufruírem de apoios poderão apresentar alegações contrárias, nos termos do artigo 14.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890).
+
+6 - A apresentação de alegações contrárias não terá influência no processo de selecção das candidaturas da correspondente fase, estando, contudo, garantida, em caso de reapreciação favorável, a sua cobertura orçamental.
+
+###### Artigo 5.º — Recepção de candidaturas
+
+A data limite para a recepção de candidaturas aos apoios constantes do artigo 1.º é fixada em 31 de Dezembro de 1999.
+
+###### Artigo 6.º — Concretização dos projectos
+
+1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Junho de 2001.
+
+2 - Em casos excepcionais, devidamente fundamentados, o limite estabelecido no n.º 1 poderá ser ultrapassado mediante despacho do Ministro da Economia.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Setembro de 1999.
+
+Visto e aprovado em Conselho de Ministros de 29 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Augusto de Carvalho - Vítor Manuel Sampaio Caetano Ramalho.
+
+**Promulgado em 30 de Agosto de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 31 de Agosto de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

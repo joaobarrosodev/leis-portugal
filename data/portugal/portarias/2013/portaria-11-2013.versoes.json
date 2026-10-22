@@ -1,0 +1,1060 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:588812:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-58872957",
+ "dre_path": "/dr/detalhe/portaria/11-2013-588812",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "184543639",
+    "58873059",
+    "58873060",
+    "58873061",
+    "58873062",
+    "58873063",
+    "58873064",
+    "58873065",
+    "58873066",
+    "58873067",
+    "58873068",
+    "58873069",
+    "58873070",
+    "58873071",
+    "58873072",
+    "58873073",
+    "58873074",
+    "58888675",
+    "58888676",
+    "58888677",
+    "58888678",
+    "58888679",
+    "58888680",
+    "58888681",
+    "58888682",
+    "58888683",
+    "58888684",
+    "58888685",
+    "58888686",
+    "58888687",
+    "58888688",
+    "58888689",
+    "58888690",
+    "58888691",
+    "58888692",
+    "58888693",
+    "58888694",
+    "58888695",
+    "58888696",
+    "58888697",
+    "58888698",
+    "58888699",
+    "58888700",
+    "58888701",
+    "58888702",
+    "58888703"
+   ]
+  },
+  {
+   "date": "2014-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58851817:por",
+     "title": "Portaria n.º 232/2014",
+     "published": "2014-11-13",
+     "dre_path": "/dr/detalhe/portaria/232-2014-58851817"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "58873058",
+    "58873059",
+    "58873060",
+    "58873061",
+    "58873062",
+    "58873063",
+    "58873064",
+    "58873065",
+    "58873066",
+    "58873067",
+    "58873068",
+    "58873069",
+    "58873070",
+    "58873071",
+    "58888717",
+    "58873073",
+    "58888718",
+    "58888675",
+    "58888676",
+    "58888677",
+    "58888678",
+    "58888679",
+    "58888680",
+    "58888681",
+    "58888682",
+    "58888683",
+    "58888684",
+    "58888685",
+    "58888686",
+    "58888687",
+    "58888688",
+    "58888689",
+    "58888690",
+    "58888691",
+    "58888692",
+    "58888693",
+    "58888694",
+    "58888695",
+    "58888696",
+    "58888697",
+    "58888698",
+    "58888699",
+    "58888700",
+    "58888701",
+    "58888702",
+    "58888707",
+    "58888703"
+   ]
+  },
+  {
+   "date": "2022-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:181527360:por",
+     "title": "Portaria n.º 436/2022 - 2.ª Série",
+     "published": "2022-04-01",
+     "dre_path": "/dr/detalhe/portaria/436-2022-181527360"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "184543639",
+    "184543640",
+    "184543641",
+    "184543642",
+    "184543643",
+    "184543644",
+    "184543645",
+    "184543646",
+    "184543647",
+    "184543648",
+    "184543649",
+    "184543650",
+    "184543651",
+    "184543652",
+    "184543653",
+    "184543654",
+    "184543655",
+    "184543656",
+    "184543657",
+    "184543658",
+    "184543659",
+    "184543660",
+    "184543661",
+    "184543662",
+    "184543663",
+    "184543664",
+    "184543665",
+    "184543666",
+    "184543667",
+    "184543668",
+    "184543669",
+    "184543670",
+    "184543671",
+    "184543672",
+    "184543673",
+    "184543674",
+    "184547575",
+    "184547576",
+    "184547577",
+    "184547578",
+    "184547579",
+    "184547580",
+    "184547581",
+    "184547582",
+    "184547583",
+    "184547584",
+    "184547585"
+   ]
+  }
+ ],
+ "fragments": {
+  "184543639": {
+   "fragment_id": "58872958",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-04-02",
+   "changed_by": [],
+   "markdown": "Portaria n.º 11/2013\n\nde 11 de janeiro\n\nA Lei n.º 38/2012, de 28 de agosto, que aprovou a lei antidopagem no desporto, adotando na ordem jurídica interna as regras estabelecidas no Código Mundial Antidopagem, remeteu as normas de execução regulamentar para portaria do membro do Governo responsável pela área do desporto.\n\nAssim:\n\nManda o Governo, pelo Ministro Adjunto e dos Assuntos Parlamentares, ao abrigo do disposto no artigo 81.º da Lei n.º 38/2012, de 28 de agosto, o seguinte:\n\n> Nota: [Artigo 3.º, Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817) Todas as referências feitas no presente, incluindo no respetivo Anexo I, a médico responsável pelo controlo de dopagem (MRCD) consideram-se feitas a responsável pelo controlo de dopagem (RCD)."
+  },
+  "58873059": {
+   "fragment_id": "58872959",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nAs ações de controlo de dopagem têm por objeto as modalidades desportivas constituídas no âmbito das federações desportivas titulares do estatuto de utilidade pública desportiva, bem como todos os praticantes desportivos."
+  },
+  "58873060": {
+   "fragment_id": "58872960",
+   "type": 11,
+   "heading": "Artigo 2.º — Programa Nacional Antidopagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Programa Nacional Antidopagem\n\n1 - As ações de controlo de dopagem a realizar em cada época desportiva são realizadas de acordo com o Programa Nacional Antidopagem anualmente fixado pela Autoridade Antidopagem de Portugal (ADoP).\n\n2 - As federações desportivas titulares do estatuto de utilidade pública desportiva devem, até ao início de cada época desportiva, submeter à ADoP as suas necessidades no que concerne à realização das ações de controlo de dopagem, tanto em termos de controlos de dopagem em competição como fora de competição."
+  },
+  "58873061": {
+   "fragment_id": "58872961",
+   "type": 11,
+   "heading": "Artigo 3.º — Reciprocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reciprocidade\n\nPodem ser realizadas ações de controlo de dopagem no estrangeiro a cidadãos nacionais, bem como a cidadãos estrangeiros em território português, nomeadamente no âmbito de acordos bilaterais celebrados com organizações antidopagem de outros países."
+  },
+  "58873062": {
+   "fragment_id": "58872962",
+   "type": 11,
+   "heading": "Artigo 4.º — Grupo alvo de praticantes desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Grupo alvo de praticantes desportivos\n\n1 - Até ao início de cada época competitiva a ADoP define os praticantes desportivos a incluir no grupo alvo a submeter a controlos fora de competição, nomeadamente aqueles que:\n\na) Integrem o regime de alto rendimento, exceptuando os que já se encontram integrados no grupo alvo da respectiva federação internacional;\n\nb) Integrem as seleções nacionais;\n\nc) Participem em competições profissionais;\n\nd) Indiciem risco de utilização de substâncias ou métodos proibidos através do seu comportamento, da sua morfologia corporal, do seu estado de saúde e dos seus resultados desportivos;\n\ne) Se encontrem suspensos por violações de normas antidopagem.\n\n2 - Para efeitos do disposto no número anterior, compete às federações desportivas informar a ADoP do seguinte:\n\na) Do nome e contactos atualizados dos praticantes desportivos integrados no grupo alvo de praticantes desportivos a submeter a controlos fora de competição;\n\nb) Se um praticante desportivo integrado no grupo alvo se retirou da prática desportiva;\n\nc) Se um praticante desportivo que antes de se retirar da prática desportiva estava incluído no grupo alvo de praticantes, reiniciou a sua prática desportiva.\n\n3 - Os dados referidos no número anterior são facultados no prazo máximo de sete dias, contados da data da solicitação da ADoP ou do conhecimento da federação desportiva sobre os mesmos.\n\n4 - Compete à ADoP notificar os praticantes desportivos relativamente aos deveres previstos no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, bem como o responsável pelo poder paternal, no caso de praticantes desportivos menores de idade.\n\n5 - Compete às federações desportivas colaborar com a ADoP na divulgação de informação relativa aos deveres referidos no número anterior."
+  },
+  "58873063": {
+   "fragment_id": "58872963",
+   "type": 11,
+   "heading": "Artigo 5.º — Permanência no grupo alvo de praticantes desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Permanência no grupo alvo de praticantes desportivos\n\nOs praticantes desportivos permanecem integrados no grupo alvo até serem notificados em contrário pela ADoP."
+  },
+  "58873064": {
+   "fragment_id": "58872964",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão do sistema de informação sobre a localização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gestão do sistema de informação sobre a localização\n\nA gestão do sistema de informação sobre a localização dos praticantes desportivos é realizada pela ADoP de acordo com o definido nos artigos 38.º a 42.º da Lei n.º 38/2012, de 28 de agosto, e com os princípios definidos nas normas internacionais para controlo e de proteção da privacidade e da informação pessoal da Agência Mundial Antidopagem (AMA)."
+  },
+  "58873065": {
+   "fragment_id": "58872965",
+   "type": 11,
+   "heading": "Artigo 7.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dever de informação\n\n1 - O praticante desportivo incluído no sistema de informação sobre a localização envia à ADoP, trimestralmente, a informação prevista no n.º 1 do artigo 7.º da Lei n.º 38/2012, de 28 de agosto.\n\n2 - Para efeitos do disposto no número anterior, considera-se:\n\na) 1.º trimestre - o período compreendido entre o dia 1 de janeiro e 31 de março de cada ano civil;\n\nb) 2.º trimestre - o período compreendido entre o dia 1 de abril e 30 de junho de cada ano civil;\n\nc) 3.º trimestre - o período compreendido entre o dia 1 de julho e 30 de setembro de cada ano civil;\n\nd) 4.º trimestre - o período compreendido entre o dia 1 de outubro e 31 de dezembro de cada ano civil.\n\n3 - Para efeitos do disposto no n.º 1, bem como da atualização dessa informação, o praticante desportivo envia a informação trimestral à ADoP, tendo esta de ser recepcionada até às 24 horas do dia anterior ao início de cada um dos trimestres, através dos meios de comunicação estabelecidos pela ADoP, nomeadamente:\n\na) Endereço electrónico;\n\nb) Fax;\n\nc) Correio;\n\nd) Plataforma electrónica.\n\n4 - Para efeitos de notificação do praticante desportivo da ausência do envio da informação referida no n.º 1 dentro do prazo estabelecido no número anterior, do envio de informação incorreta, nos termos do disposto no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, e de qualquer notificação do mesmo relativamente a matéria relacionada com antidopagem, é utilizado para a primeira notificação o endereço fornecido pela respectiva federação desportiva e, após esta, o endereço constante da informação remetida pelo praticante desportivo.\n\n5 - Em caso de dois incumprimentos da obrigação referida no n.º 1, a ADoP notifica esse facto à federação desportiva respetiva e convoca o praticante desportivo para comparecer nas suas instalações.\n\n6 - A notificação referida no n.º 4 é realizada através de carta registada e considera-se efetuada depois de decorridos cinco dias úteis da data do seu envio."
+  },
+  "58873066": {
+   "fragment_id": "58872966",
+   "type": 11,
+   "heading": "Artigo 8.º — Informações incorretas e informações falsas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informações incorretas e informações falsas\n\n1 - A informação referida no artigo anterior considera-se incorreta quando a omissão de um ou mais elementos impeça a realização de controlos ao praticante desportivo, de acordo com critérios definidos pela ADoP em consonância com o estabelecido na norma internacional para controlo da AMA.\n\n2 - A informação referida no artigo anterior considera-se falsa quando o praticante desportivo que a providencie tenha a intenção de inviabilizar a realização do controlo de dopagem.\n\n3 - O envio de informação falsa por parte do praticante desportivo constitui violação da norma antidopagem prevista na alínea e) do n.º 2 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto, com as consequências previstas nesse diploma."
+  },
+  "58873067": {
+   "fragment_id": "58872967",
+   "type": 11,
+   "heading": "Artigo 9.º — Modalidades colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Modalidades colectivas\n\n1 - Nas modalidades colectivas, para cumprimento do disposto no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, o praticante desportivo pode delegar num representante do seu clube ou sociedade desportiva a responsabilidade pelo envio da informação e das respectivas alterações à ADoP, de acordo com critérios definidos por esta, em consonância com o estabelecido na norma internacional para controlo da AMA.\n\n2 - As regras previstas no artigo 7.º aplicam-se, com as devidas alterações, ao disposto no número anterior.\n\n3 - Presume-se que ocorreu a delegação prevista no presente artigo a menos que o praticante desportivo informe a ADoP do contrário no prazo que dispõe para prestar a informação, nos termos do artigo 7.º.\n\n4 - A delegação prevista no n.º 1 não afasta a responsabilidade do praticante desportivo em relação às obrigações descritas no artigo 7.º da Lei n.º 38/2012, de 28 de agosto."
+  },
+  "58873068": {
+   "fragment_id": "58872968",
+   "type": 11,
+   "heading": "Artigo 10.º — Praticante desportivo portador de deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Praticante desportivo portador de deficiência\n\n1 - O praticante desportivo portador de deficiência que o impeça de exercer o cumprimento do disposto no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, nomeadamente o portador de deficiência intelectual, motora ou visual, pode delegar num representante a responsabilidade pelo envio da informação e das respetivas atualizações à ADoP, de acordo com critérios definidos por esta, em consonância com a norma internacional para controlo da AMA.\n\n2 - As regras previstas no artigo 7.º aplicam-se, com as devidas alterações, ao disposto no número anterior.\n\n3 - A delegação prevista no presente artigo é solicitada pelo praticante desportivo nos termos definidos pela ADoP.\n\n4 - A delegação prevista no n.º 1 não afasta a responsabilidade do praticante desportivo em relação às obrigações descritas no artigo 7.º da Lei n.º 38/2012, de 28 de agosto."
+  },
+  "58873069": {
+   "fragment_id": "58872969",
+   "type": 11,
+   "heading": "Artigo 11.º — Verificação das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Verificação das informações\n\n1 - No caso de se verificar a ausência do envio, dentro do prazo estabelecido, ou o envio de informação incorreta relativamente à localização dos praticantes desportivos, nos termos do artigo 7.º da Lei n.º 38/2012, de 28 de agosto, compete à ADoP notificar o praticante desportivo ou o representante em que ele tenha delegado essa obrigação, bem como o responsável pelo poder paternal, no caso de praticantes desportivos menores de idade, em relação ao incumprimento verificado.\n\n2 - A notificação referida no número anterior é realizada de acordo com o disposto nos n.os 4 e 5 do artigo 7.º\n\n3 - O praticante desportivo, ou o representante em quem tenha delegado essa obrigação, pode remeter à ADoP, no prazo de 10 dias contados a partir da data da recepção da notificação, toda a informação que julgue pertinente, a qual deve ser tida em consideração pela ADoP na averiguação do incumprimento.\n\n4 - A ADoP, com base na informação mencionada no número anterior, decide se os factos ocorridos consubstanciam ou não um incumprimento, devendo essa decisão ser notificada ao praticante desportivo ou ao representante em quem tenha delegado essa obrigação, consoante o caso.\n\n5 - Da decisão proferida pela ADoP cabe recurso, no âmbito do procedimento disciplinar por eventual incumprimento do disposto na alínea f) do n.º 2 e no n.º 3 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto.\n\n6 - A ADoP só pode averiguar um segundo ou terceiro eventual incumprimento quando o praticante desportivo ou o seu representante, consoante o caso, tenham sido devidamente notificados de um incumprimento anterior relacionado com o disposto na alínea f) do n.º 2 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto."
+  },
+  "58873070": {
+   "fragment_id": "58872970",
+   "type": 11,
+   "heading": "Artigo 12.º — Recordes nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recordes nacionais\n\n1 - Compete às federações desportivas informar de imediato a ADoP relativamente à obtenção de um recorde nacional numa competição desportiva, sempre que o controlo de dopagem necessário à homologação do mesmo, de acordo com o n.º 4 do artigo 33.º da Lei n.º 38/2012, de 28 de agosto, não seja possível realizar no local da competição ou do evento desportivo.\n\n2 - Compete à ADoP diligenciar no sentido da realização do controlo de dopagem referido no número anterior o mais rapidamente possível e sempre dentro das vinte e quatro horas subsequentes à obtenção do recorde nacional."
+  },
+  "58873071": {
+   "fragment_id": "58872971",
+   "type": 11,
+   "heading": "Artigo 13.º — Apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apoio logístico\n\nPara efeitos do disposto no n.º 1 do artigo 34.º da Lei n.º 38/2012, de 28 de agosto, compete à ADoP, através da Estrutura de Suporte ao Programa Antidopagem (ESPAD), garantir o apoio logístico à realização dos controlos."
+  },
+  "58873072": {
+   "fragment_id": "58872972",
+   "type": 11,
+   "heading": "Artigo 14.º — Responsáveis pelo controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Responsáveis pelo controlo\n\n1 - Os controlos são atos médicos.\n\n2 - As ações de controlo são realizadas por médicos, os quais podem ser coadjuvados por paramédicos ou auxiliares de controlo de dopagem designados pela ADoP, nos termos previstos no n.º 5 do artigo 32.º da Lei n.º 38/2012, de 28 de agosto.\n\n3 - A seleção dos médicos responsáveis pelo controlo de dopagem é realizada mediante concurso público, através da celebração de contrato de prestação de serviços com o Instituto Português do Desporto e Juventude, I. P. (IPDJ, I.P.).\n\n4 - Os médicos, paramédicos e auxiliares de controlo de dopagem a que se refere o número 2 são credenciados pela ADoP.\n\n5 - A credenciação dos membros da ADoP, dos médicos, paramédicos e auxiliares de controlo de dopagem é atestada por cartão de identificação, de acordo com o modelo a aprovar por despacho do presidente da ADoP, publicado no Diário da República."
+  },
+  "58873073": {
+   "fragment_id": "58872973",
+   "type": 11,
+   "heading": "Artigo 15.º — Solicitação dos controlos de dopagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Solicitação dos controlos de dopagem\n\n1 - Compete às federações desportivas enviar à ADoP, com a antecedência mínima de quatro dias úteis em relação à data de realização de um controlo de dopagem inscrito no Programa Nacional Antidopagem, toda a informação relevante para a realização do mesmo, nomeadamente a data e o local da realização, a hora prevista para o início do controlo e o nome e o contacto do representante da entidade organizadora.\n\n2 - Compete à ADoP decidir sobre a realização de controlos de dopagem solicitados pelas federações desportivas, pelas ligas profissionais ou por outras entidades organizadoras de competições ou eventos desportivos que não integrem o Programa Nacional Antidopagem.\n\n3 - A solicitação de controlos de dopagem referida no número anterior é dirigida ao presidente da ADoP, acompanhada da informação descrita no n.º 1.\n\n4 - A informação referida nos n.os 1 e 3 é realizada através do preenchimento de um modelo disponibilizado pela ADoP."
+  },
+  "58873074": {
+   "fragment_id": "58872974",
+   "type": 11,
+   "heading": "Artigo 16.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instalações\n\n1 - As ações de controlo são realizadas em instalações adequadas, de fácil acesso e devidamente assinaladas, que garantam condições mínimas de higiene, segurança, privacidade e conforto dos seus utilizadores.\n\n2 - As instalações referidas no número anterior devem apresentar a seguinte tipologia, salvo nos casos devidamente justificados:\n\na) Sala de espera (20 m2 a 25 m2) - a capacidade desta sala deve possibilitar a presença em simultâneo de um mínimo de quatro praticantes desportivos e quatro acompanhantes, devendo estar equipada com cadeiras em número suficiente para a sua capacidade mínima e com um frigorífico para preservação de bebidas necessárias à hidratação dos praticantes desportivos;\n\nb) Sala de trabalho (15 m2 a 20 m2) - a capacidade desta sala deve possibilitar a presença em simultâneo do praticante desportivo, do seu acompanhante, do médico responsável pelo controlo de dopagem (MRCD) e de pessoal que o coadjuve, devendo ser contígua à sala referida na alínea a) e estar equipada com uma mesa de trabalho, quatro cadeiras, um frigorífico para preservação das amostras após a sua recolha e um armário com chave para colocação da documentação e equipamentos necessários à sessão de recolha de amostras;\n\nc) Instalações sanitárias (10 m2 a 15 m2) - estas instalações devem conter dois sanitários que possibilitem a presença de duas pessoas no seu interior e, idealmente, um chuveiro, devendo ser contíguas à sala de trabalho referida na alínea b).\n\n3 - As instalações para a realização dos controlos podem consistir, nomeadamente em:\n\na) Instalações disponibilizadas pelo promotor da competição ou evento desportivo;\n\nb) Unidades móveis especialmente concebidas para o efeito.\n\n4 - Os clubes, as sociedades desportivas e os promotores de competições ou eventos desportivos devem adaptar a tipologia descrita no n.º 2 no prazo de um ano a contar da publicação desta portaria.\n\n5 - O MRCD, caso não estejam garantidas as condições previstas nos n.os 1 e 2, determina a realização do controlo em instalações por si escolhidas, sendo os respectivos custos imputados ao promotor da competição ou do evento desportivo pela ADoP."
+  },
+  "58888675": {
+   "fragment_id": "58888775",
+   "type": 11,
+   "heading": "Artigo 17.º — Seleção do praticante desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seleção do praticante desportivo\n\n1 - A seleção do praticante desportivo a submeter a controlo em competição é realizada de acordo com a metodologia constante do respectivo regulamento federativo antidopagem.\n\n2 - A metodologia referida no número anterior deve respeitar os princípios definidos na norma internacional para controlo da AMA e no regulamento antidopagem da respectiva federação internacional.\n\n3 - O MRCD sujeita ao controlo qualquer outro praticante cujo comportamento na competição se tenha revelado anómalo do ponto de vista médico ou desportivo.\n\n4 - A seleção do praticante desportivo a submeter a controlo fora de competição é realizada pela ADoP, podendo ocorrer por sorteio ou de forma direcionada."
+  },
+  "58888676": {
+   "fragment_id": "58888776",
+   "type": 11,
+   "heading": "Artigo 18.º — Notificação da ação de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Notificação da ação de controlo\n\n1 - A realização de uma ação de controlo em competição ou num evento desportivo é notificada no local aos delegados dos clubes ou sociedades desportivas, da federação, da liga ou da entidade organizadora.\n\n2 - A notificação do praticante desportivo a submeter a controlo em competição é realizada de acordo com a metodologia constante do respectivo regulamento federativo antidopagem.\n\n3 - A metodologia referida no número anterior respeita os princípios definidos na norma internacional para controlo da AMA e no regulamento antidopagem da respectiva federação internacional.\n\n4 - O praticante desportivo é notificado pelo MRCD ou por outra pessoa por este delegada, recorrendo para o efeito ao formulário do controlo antidopagem aprovado e disponibilizado pela ADoP.\n\n5 - Os praticantes desportivos notificados nos termos do número anterior, ficam sob vigilância e à disposição do MRCD, não podendo, sem a autorização deste, abandonar o local onde se realiza o controlo.\n\n6 - Se um praticante desportivo não se apresentar no local de controlo dentro do prazo determinado, este facto deve ser registado pelo MRCD no relatório da ação de controlo e corresponde a uma recusa ao controlo de dopagem, de acordo com o disposto na alínea d) do n.º 2 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto.\n\n7 - O MRCD regista ainda no relatório da ação de controlo de dopagem todos os esforços realizados para que o praticante desportivo se apresente no local do controlo."
+  },
+  "58888677": {
+   "fragment_id": "58888777",
+   "type": 11,
+   "heading": "Artigo 19.º — Comparência no controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comparência no controlo\n\n1 - O praticante desportivo, após a notificação a que se refere o artigo anterior, deve dirigir-se de imediato para o local do controlo, acompanhado pelo MRCD ou por quem este delegar.\n\n2 - No caso do praticante desportivo não se poder deslocar imediatamente para o local do controlo, de acordo com os motivos definidos na norma internacional para controlo da AMA, deve ser acompanhado em permanência por um auxiliar de controlo de dopagem, devidamente credenciado pela ADoP e indicado pelo organizador da competição ou do evento desportivo ou pela ADoP para o efeito."
+  },
+  "58888678": {
+   "fragment_id": "58888778",
+   "type": 11,
+   "heading": "Artigo 20.º — Ausência no controlo por assistência médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Ausência no controlo por assistência médica\n\n1 - Os organizadores da competição ou do evento desportivo onde o controlo se realize informam de imediato o MRCD caso um praticante desportivo selecionado para o mesmo se tenha ausentado do local onde decorreu a competição ou evento desportivo, a fim de ser submetido a assistência médica.\n\n2 - A obrigação referida no número anterior aplica-se igualmente ao praticante desportivo e, no seu impedimento, ao seu pessoal de apoio.\n\n3 - No caso mencionado no n.º 1, o MRCD determina as medidas necessárias para assegurar a realização do controlo."
+  },
+  "58888679": {
+   "fragment_id": "58888779",
+   "type": 11,
+   "heading": "Artigo 21.º — Submissão ao controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Submissão ao controlo\n\n1 - O praticante desportivo, quando selecionado, deve submeter-se ao controlo fora de competição, logo que para tal seja notificado pelo MRCD, pela sua federação desportiva ou pela ADoP.\n\n2 - As ações de controlo a praticantes desportivos que se encontrem fora do território nacional podem ser solicitadas pela sua federação desportiva à ADoP que, se considerado necessário, as solicita à sua congénere do país em que o praticante desportivo se encontra, a fim de serem por esta, ou sob a sua égide, executadas."
+  },
+  "58888680": {
+   "fragment_id": "58888780",
+   "type": 11,
+   "heading": "Artigo 22.º — Colheita de amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Colheita de amostras\n\n1 - A colheita das amostras é feita pelo MRCD, podendo este ser coadjuvado pelo paramédico designado para o efeito.\n\n2 - A metodologia de colheita de amostras respeita os princípios definidos na norma internacional para controlo da AMA.\n\n3 - Antes do início da colheita de amostras, o praticante desportivo identifica-se mediante documento oficial com fotografia ou através do respectivo cartão emitido pela federação desportiva da modalidade.\n\n4 - O praticante desportivo pode fazer-se acompanhar, querendo, por uma pessoa da sua confiança, devendo esta identificar-se através de documento legal para os devidos efeitos.\n\n5 - O acompanhamento referido no número anterior é obrigatório para:\n\na) Os praticantes desportivos menores;\n\nb) Os praticantes desportivos portadores de deficiência visual ou mental.\n\n6 - O MRCD deve obrigatoriamente apresentar as suas credenciais ao praticante desportivo e ao seu acompanhante.\n\n7 - No início da operação de recolha, o MRCD explica ao praticante desportivo e ao seu acompanhante o procedimento do controlo e informa sobre os seus direitos e deveres.\n\n8 - Durante a sessão de colheita das amostras, o praticante desportivo deve observar o que lhe seja determinado pelo MRCD."
+  },
+  "58888681": {
+   "fragment_id": "58888781",
+   "type": 11,
+   "heading": "Artigo 23.º — Taxa de alcoolemia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Taxa de alcoolemia\n\n1 - O controlo da quantidade de álcool existente no sangue de um praticante desportivo é realizado através do método de análise expiratória.\n\n2 - O procedimento utilizado na detecção do álcool no ar expirado baseia-se no modelo de boas práticas da AMA e no procedimento técnico de detecção do álcool no ar expirado aprovado pela ADoP.\n\n3 - O praticante desportivo que apresente uma taxa de alcoolemia acima do limite permitido na lista de substâncias e métodos proibidos fica automaticamente proibido de participar nessa competição e sujeito obrigatoriamente a procedimento disciplinar, nos termos previstos no artigo 58.º da Lei n.º 38/2012, de 28 de agosto.\n\n4 - Em todos os procedimentos omissos aplica-se o estatuído na norma internacional para controlo da AMA relativamente à recolha de líquido orgânico."
+  },
+  "58888682": {
+   "fragment_id": "58888782",
+   "type": 11,
+   "heading": "Artigo 24.º — Formulários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Formulários\n\nCada sessão de colheita de amostras é registada em formulários, cujos modelos constam do anexo I à presente portaria, os quais são obrigatoriamente subscritos pelo MRCD e pelo praticante desportivo e, nos casos previstos no n.º 5 do artigo 22.º, pelo seu acompanhante."
+  },
+  "58888683": {
+   "fragment_id": "58888783",
+   "type": 11,
+   "heading": "Artigo 25.º — Responsáveis pelas condições de realização dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Responsáveis pelas condições de realização dos controlos\n\n1 - As federações desportivas, ligas profissionais, clubes, sociedades desportivas e demais entidades promotoras e organizadoras de competições ou eventos desportivos são responsáveis pela segurança dos MRCD e das pessoas que os coadjuvem, bem como do respectivo equipamento, devendo nomeadamente providenciar para que a sessão de colheita de amostras se realize sem perturbações.\n\n2 - Se o MRCD entender que não estão reunidas condições para desempenhar a sua missão, disso dá conta no relatório do controlo de dopagem, recusando-se a realizar o mesmo.\n\n3 - Os factos constantes no relatório do controlo de dopagem elaborado pelo MRCD, e por ele presenciados, fazem fé até prova em contrário."
+  },
+  "58888684": {
+   "fragment_id": "58888784",
+   "type": 11,
+   "heading": "Artigo 26.º — Administração pós-controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Administração pós-controlo\n\n1 - O MRCD, após a colheita das amostras, assegura-se que as mesmas, até à sua saída do local onde decorreu o controlo, são armazenadas e preservadas de forma a garantir a sua integridade, identidade e segurança.\n\n2 - O MRCD assegura-se que a documentação inerente a cada amostra e a todo o controlo é devidamente preenchida e manuseada, assim como garante que é disponibilizada a informação destinada ao laboratório antidopagem acreditado pela AMA sobre o tipo de análises requeridas."
+  },
+  "58888685": {
+   "fragment_id": "58888785",
+   "type": 11,
+   "heading": "Artigo 27.º — Transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transporte\n\n1 - O MRCD, após ter finalizado a sessão de colheita das amostras, providencia que as amostras sejam devidamente acondicionadas em mala apropriada, de forma a garantir a proteção da sua integridade, identidade e segurança, devendo a mala ser selada e acompanhada de um formulário de cadeia de custódia.\n\n2 - O MRCD garante, igualmente, que a documentação relativa à colheita das amostras e à sessão de controlo está devidamente acondicionada, de forma a garantir a proteção da sua integridade, identidade e segurança.\n\n3 - O envio das amostras e da respectiva documentação para a ESPAD, através de transporte seguro, é concretizado o mais rapidamente possível após a ação de controlo ter sido concluída.\n\n4 - A ESPAD providencia para que as amostras recolhidas, assim como documentação relevante, sejam enviadas ao Laboratório de Análises de Dopagem (LAD) ou a outro laboratório antidopagem acreditado pela AMA ou de outra forma aprovado pela AMA, a fim de serem analisadas."
+  },
+  "58888686": {
+   "fragment_id": "58888786",
+   "type": 11,
+   "heading": "Artigo 28.º — Realização dos exames laboratoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Realização dos exames laboratoriais\n\n1 - Os exames laboratoriais são realizados no LAD ou noutro laboratório antidopagem acreditado pela AMA.\n\n2 - Os exames laboratoriais destinam-se à deteção de substâncias e métodos proibidos identificados na lista de substâncias e métodos proibidos da AMA e de outras substâncias constantes do programa de monitorização da AMA ou a assistir a ADoP ou outras organizações antidopagem na elaboração de perfis longitudinais de parâmetros analisados em amostras orgânicas do praticante desportivo, incluindo DNA e perfil do genoma, para fins relacionados com estratégias antidopagem.\n\n3 - Os exames laboratoriais são realizados de acordo com os princípios definidos na norma internacional de laboratórios da AMA.\n\n4 - As amostras recolhidas no controlo podem ser reanalisadas dentro de um período de oito anos, contados da data da respectiva colheita, de acordo com o previsto no n.º 3 do artigo 43.º da Lei n.º 38/2012, de 28 de agosto, e com os princípios constantes da norma internacional de laboratórios da AMA."
+  },
+  "58888687": {
+   "fragment_id": "58888787",
+   "type": 11,
+   "heading": "Artigo 29.º — Instrução inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Instrução inicial\n\nA ADoP, ao recepcionar um resultado analítico positivo ou um resultado analítico atípico, realiza uma instrução inicial, de forma a verificar:\n\na) Se foi concedida uma autorização de utilização terapêutica;\n\nb) Se se verificou alguma violação da norma internacional para controlo da AMA ou da norma internacional para laboratórios da AMA que ponha em causa a validade do relatório analítico positivo ou do resultado analítico atípico;\n\nc) A necessidade de se proceder a exames complementares, de acordo com o previsto na alínea c) do n.º 3 do artigo 34.º e do artigo 36.º, ambos da Lei n.º 38/2012, de 28 de agosto."
+  },
+  "58888688": {
+   "fragment_id": "58888788",
+   "type": 11,
+   "heading": "Artigo 30.º — Notificações relativas a resultados analíticos positivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Notificações relativas a resultados analíticos positivos\n\n1 - A ADoP, após confirmar que não foi concedida uma autorização de utilização terapêutica e que não se verificou nenhuma violação das normas internacionais para controlo da AMA ou de laboratórios da AMA, procede à notificação referida no n.º 1 do artigo 35.º da Lei n.º 38/2012, de 28 de agosto, endereçada à respetiva federação desportiva.\n\n2 - Na notificação referida no número anterior, a ADoP informa a federação desportiva sobre a data e a hora para a eventual realização da segunda análise, proposta pelo LAD ou por outro laboratório antidopagem acreditado pela AMA, a qual deve ser efectuada o mais rapidamente possível e nunca depois de decorridos sete dias úteis após a notificação do relatório analítico positivo pelo laboratório.\n\n3 - A federação desportiva, ao recepcionar a notificação referida no número anterior, procede nas vinte e quatro horas seguintes à notificação do praticante desportivo em causa e do seu clube ou sociedade desportiva, de acordo com o previsto no n.º 2 do artigo 35.º da Lei n.º 38/2012, de 28 de agosto.\n\n4 - O praticante desportivo, após ter recebido a notificação do dia e da hora para a eventual realização da segunda análise, informa por qualquer meio escrito, o mais rapidamente possível e nunca depois de decorridas vinte e quatro horas após a recepção da mesma, a respectiva federação desportiva se deseja exercer os direitos conferidos pelas alíneas b), c) e d) do n.º 2 do artigo 35.º da Lei n.º 38/2012, de 28 de agosto.\n\n5 - A federação desportiva, ao receber a informação mencionada no número anterior informa de imediato a ADoP, por qualquer meio, confirmando posteriormente por qualquer meio escrito, e garantindo a confidencialidade da informação.\n\n6 - Compete à ADoP informar de imediato o LAD, ou o laboratório antidopagem acreditado pela AMA responsável pela realização da primeira análise, do teor da informação prestada nos termos do número anterior.\n\n7 - Caso o praticante desportivo informe a federação desportiva que prescinde da realização da segunda análise, a ADoP, ao ser notificada dessa decisão, informará a federação desportiva sobre a necessidade de abertura de procedimento disciplinar.\n\n8 - Caso o praticante desportivo não responda à notificação da federação desportiva no prazo estipulado no n.º 4, o LAD ou o laboratório antidopagem acreditado pela AMA responsável pela realização da primeira análise, procede à realização da segunda análise na data previamente definida, na presença de uma testemunha independente."
+  },
+  "58888689": {
+   "fragment_id": "58888789",
+   "type": 11,
+   "heading": "Artigo 31.º — Realização da segunda análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Realização da segunda análise\n\n1 - Na realização da segunda análise pode estar presente, para além das pessoas e entidades referidas no artigo 35.º da Lei n.º 38/2012, de 28 de agosto, um representante da respetiva federação desportiva.\n\n2 - O praticante desportivo deve ser portador da cópia do formulário do controlo antidopagem que lhe foi entregue no momento em que realizou a colheita das amostras.\n\n3 - Todas as pessoas e entidades presentes na realização da segunda análise devem ser portadoras de documento de identificação e de procuração com poderes de representação.\n\n4 - Do que se passar na segunda análise é lavrada ata, subscrita pelos presentes e remetida cópia para a respetiva federação desportiva, de forma a acionar os mecanismos disciplinares.\n\n5 - Compete ao LAD, ou ao laboratório antidopagem acreditado pela AMA responsável pela realização da primeira análise, emitir um relatório com o resultado da segunda análise, o qual deve ser remetido à ADoP.\n\n6 - Compete à ADoP remeter posteriormente o relatório referido no número anterior à respectiva federação desportiva.\n\n7 - Compete à federação desportiva, caso o resultado da segunda análise confirme o da primeira análise:\n\na) Suspender preventivamente o praticante desportivo em causa até ao 2.º dia posterior à recepção do relatório referido no n.º 5;\n\nb) Determinar a abertura de um procedimento disciplinar pelo órgão disciplinar federativo.\n\n8 - O disposto no número anterior não se aplica nos casos em que a ADoP determine a realização de exames complementares de acordo com o disposto no artigo 36.º da Lei n.º 38/2012, de 28 de agosto."
+  },
+  "58888690": {
+   "fragment_id": "58888790",
+   "type": 11,
+   "heading": "Artigo 32.º — Exames complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Exames complementares\n\n1 - Compete à ADoP notificar a federação desportiva da decisão tomada relativamente aos exames complementares efetuados no seguimento de um resultado analítico atípico ou de qualquer outro resultado que tenha originado a realização dos mesmos, de acordo com o previsto no artigo 36.º da Lei n.º 38/2012, de 28 de agosto, determinando se os seus resultados consubstanciam uma violação de norma antidopagem.\n\n2 - Tendo sido determinada pela ADoP a violação de uma norma antidopagem, aplica-se o disposto no n.º 7 do artigo anterior."
+  },
+  "58888691": {
+   "fragment_id": "58888791",
+   "type": 11,
+   "heading": "Artigo 33.º — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Procedimento disciplinar\n\n1 - A notificação, pela ADoP, de uma violação de norma antidopagem determina que a federação desportiva envie a mesma ao respetivo órgão disciplinar federativo, no prazo máximo de cinco dias úteis a contar da sua receção, de forma a que este proceda à abertura do respetivo procedimento disciplinar.\n\n2 - A entidade responsável pela elaboração da instrução do procedimento disciplinar emite a nota de culpa, no prazo de dez dias úteis, contados após o envio do processo para o respetivo órgão disciplinar federativo.\n\n3 - O prazo definido no n.º 3 do artigo 59.º da Lei n.º 38/2012, de 28 de agosto, inicia-se na data da receção da notificação de uma violação de norma antidopagem, por parte da ADoP, à respetiva federação desportiva."
+  },
+  "58888692": {
+   "fragment_id": "58888792",
+   "type": 11,
+   "heading": "Artigo 34.º — Controlo não realizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Controlo não realizado\n\n1 - Compete à ADoP, no caso de se verificar um controlo declarado como não realizado, de acordo com as regras definidas pela ADoP e em consonância com o estabelecido na norma internacional para controlo da AMA, notificar o praticante desportivo, o seu representante legal ou o representante da equipa em quem tenha delegado essa obrigação, em relação a esse eventual incumprimento.\n\n2 - À notificação referida no número anterior aplica-se o disposto nos n.os 4 e 5 do artigo 7.º.\n\n3 - O praticante desportivo, o seu representante legal ou o representante da equipa em quem tenha delegado essa obrigação, pode remeter à ADoP, no prazo de cinco dias úteis contados a partir da data da recepção da notificação, toda a informação que julgue pertinente.\n\n4 - A ADoP, com base na informação mencionada no número anterior, decide se os factos ocorridos consubstanciam ou não um incumprimento.\n\n5 - Dessa decisão é notificado o praticante desportivo, o seu representante legal ou o representante da equipa em quem tenha delegado essa obrigação.\n\n6 - A ADoP só pode averiguar um segundo ou terceiro eventual incumprimento se o praticante desportivo, o representante legal ou o representante da equipa em quem tenha delegado essa obrigação, tenha sido devidamente notificado de um incumprimento anterior relacionado com o previsto na alínea g) do artigo 3.º da Lei n.º 38/2012, de 28 de agosto."
+  },
+  "58888693": {
+   "fragment_id": "58888793",
+   "type": 11,
+   "heading": "Artigo 35.º — Parecer prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Parecer prévio\n\n1 - Para efeitos do disposto nos n.os 1 a 5 do artigo 67.º e no artigo 68.º da Lei n.º 38/2012, de 28 de agosto, compete à federação desportiva, ao praticante desportivo ou ao seu clube, requerer o parecer prévio à ADoP, que obrigatoriamente o remete ao Conselho Nacional Antidopagem (CNAD), para cumprimento do disposto nas alíneas a) a c) do n.º 1 do artigo 27.º da Lei n.º 38/2012, de 28 de agosto\n\n2 - O parecer prévio referido no número anterior é requerido após concluída a proposta de sanção disciplinar a aplicar e antes de ser proferida decisão disciplinar pelo respectivo órgão disciplinar federativo.\n\n3 - Requerido o parecer prévio, o CNAD pronuncia-se no prazo de 10 dias úteis.\n\n4 - Não pode ser proferida decisão antes de ser emitido o parecer prévio ou decorrido o prazo referido no número anterior."
+  },
+  "58888694": {
+   "fragment_id": "58888794",
+   "type": 11,
+   "heading": "Artigo 36.º — Suspensão dos praticantes desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Suspensão dos praticantes desportivos\n\nCompete às federações desportivas verificar o cumprimento do disposto no n.º 1 do artigo 70.º da Lei n.º 38/2012, de 28 de agosto, com a obrigação de notificar a ADoP caso seja detetado um incumprimento à referida norma."
+  },
+  "58888695": {
+   "fragment_id": "58888795",
+   "type": 11,
+   "heading": "Artigo 37.º — Autorização de utilização terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Autorização de utilização terapêutica\n\n1 - A ADoP, através da Comissão de Autorização de Utilização Terapêutica (CAUT) procede à recepção, análise e aprovação das solicitações de autorização de utilização terapêutica de substâncias e métodos proibidos, de acordo com os critérios e regras definidas na norma internacional de autorizações de utilização terapêutica da AMA.\n\n2 - Compete à ADoP aprovar os procedimentos inerentes ao sistema de autorização de utilização terapêutica de substâncias e métodos proibidos, mediante despacho do seu presidente, publicado no Diário da República.\n\n3 - Compete à ADoP, através da ESPAD e em cooperação com as federações desportivas, divulgar e dar publicidade às determinações referidas no número anterior junto dos praticantes desportivos e do seu pessoal de apoio.\n\n4 - A ADoP garante a total confidencialidade de todas as informações médicas relativas às autorizações de utilização terapêutica."
+  },
+  "58888696": {
+   "fragment_id": "58888796",
+   "type": 11,
+   "heading": "Artigo 38.º — Campanhas de informação e de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Campanhas de informação e de educação\n\n1 - Compete à ADoP, através da ESPAD e em cooperação com as federações desportivas e outras entidades públicas ou privadas, implementar campanhas de informação e de educação, com a finalidade de sensibilizar os praticantes desportivos, o respectivo pessoal de apoio e os jovens em particular relativamente à luta contra a dopagem.\n\n2 - As campanhas referidas no número anterior fornecem informação atualizada e correta sobre as matérias previstas no artigo 30.º da Lei n.º 38/2012, de 28 de agosto."
+  },
+  "58888697": {
+   "fragment_id": "58888797",
+   "type": 11,
+   "heading": "Artigo 39.º — Tabela de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Tabela de preços\n\n1 - Os custos com a realização dos controlos de dopagem integrados no Programa Nacional Antidopagem são suportados pela ADoP, com as seguintes exceções:\n\na) Os custos com a realização dos controlos efetuados em competições ou eventos desportivos organizados por ligas profissionais ou por entidades privadas, são da responsabilidade das mesmas, mesmo que integradas no Programa Nacional Antidopagem;\n\nb) Os custos com a realização dos controlos de dopagem que não integrem o Programa Nacional Antidopagem solicitados por federações desportivas ou por entidades promotoras ou organizadoras de competições e eventos desportivos, são suportados pelas entidades requisitantes.\n\n2 - Os valores relativos à realização dos controlos são definidos por despacho do presidente do IPDJ, I. P., mediante proposta do presidente da ADoP, publicado no Diário da República."
+  },
+  "58888698": {
+   "fragment_id": "58888798",
+   "type": 11,
+   "heading": "Artigo 40.º — Regulamentos federativos antidopagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regulamentos federativos antidopagem\n\n1 - Os regulamentos referidos no artigo 12.º da Lei n.º 38/2012, de 28 de agosto, são registados junto da ADoP, correspondendo a prova do registo à sua conformidade com a legislação antidopagem em vigor.\n\n2 - As alterações aos regulamentos referidos no número anterior estão sujeitas às mesmas formalidades e só são aplicáveis a partir do início da época desportiva imediatamente posterior à sua adoção."
+  },
+  "58888699": {
+   "fragment_id": "58888799",
+   "type": 11,
+   "heading": "Artigo 41.º — Recomendações e esclarecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Recomendações e esclarecimentos\n\n1 - Por deliberação da ADoP podem ser estabelecidos ou recomendados às federações desportivas os procedimentos administrativos mais convenientes para assegurar a confidencialidade das comunicações referidas na presente portaria.\n\n2 - A ADoP pode solicitar os esclarecimentos que julgar convenientes, com o objectivo de avaliar a ação desenvolvida por cada federação desportiva no cumprimento da legislação antidopagem."
+  },
+  "58888700": {
+   "fragment_id": "58888800",
+   "type": 11,
+   "heading": "Artigo 42.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Notificações\n\n1 - As notificações previstas na presente portaria, regra geral, revestem a forma escrita, sendo efectuadas com o recurso a meios passíveis de comprovar o seu conteúdo, envio e entrega.\n\n2 - Sempre que por motivos de celeridade processual as notificações sejam feitas pessoalmente ou por via telefónica, estas devem ser confirmadas nos termos do número anterior, no dia útil imediato."
+  },
+  "58888701": {
+   "fragment_id": "58888801",
+   "type": 11,
+   "heading": "Artigo 43.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1123/2009, de 1 de outubro."
+  },
+  "58888702": {
+   "fragment_id": "58888802",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "58888703": {
+   "fragment_id": "58888803",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  },
+  "58873058": {
+   "fragment_id": "58872958",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 11/2013\n\nde 11 de janeiro\n\nA Lei n.º 38/2012, de 28 de agosto, que aprovou a lei antidopagem no desporto, adotando na ordem jurídica interna as regras estabelecidas no Código Mundial Antidopagem, remeteu as normas de execução regulamentar para portaria do membro do Governo responsável pela área do desporto.\n\nAssim:\n\nManda o Governo, pelo Ministro Adjunto e dos Assuntos Parlamentares, ao abrigo do disposto no artigo 81.º da Lei n.º 38/2012, de 28 de agosto, o seguinte:\n\n> Nota: [Artigo 3.º, Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817) Todas as referências feitas no presente, incluindo no respetivo Anexo I, a médico responsável pelo controlo de dopagem (MRCD) consideram-se feitas a responsável pelo controlo de dopagem (RCD)."
+  },
+  "58888717": {
+   "fragment_id": "58872972",
+   "type": 11,
+   "heading": "Artigo 14.º — Responsáveis pelo controlo",
+   "in_force_from": "2014-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+   ],
+   "markdown": "###### Artigo 14.º — Responsáveis pelo controlo\n\n1 - [Revogado].\n\n2 - As ações de controlo são realizadas por médicos, enfermeiros e técnicos de diagnóstico e terapêutica (análises clínicas), os quais podem ser coadjuvados por auxiliares de controlo de dopagem designados pela ADoP, nos termos previstos no n.º 5 do artigo 32.º da Lei n.º 38/2012, de 28 de agosto.\n\n3 - A seleção dos médicos, enfermeiros e técnicos de diagnóstico e terapêutica (análises clínicas) é realizada mediante concurso público, através da celebração de contrato de prestação de serviços com o Instituto Português do Desporto e Juventude, I. P. (IPDJ, I.P.).\n\n4 - Os médicos, enfermeiros e técnicos de diagnóstico e terapêutica (análises clinicas) e auxiliares de controlo de dopagem a que se refere o n.º 2 são credenciados pela ADoP.\n\n5 - A credenciação dos membros da ADoP, dos médicos, enfermeiros, técnicos de diagnóstico e terapêutica (análises clínicas) e auxiliares de controlo de dopagem é atestada por cartão de identificação, de acordo com o modelo a aprovar por despacho do presidente da ADoP, publicado no Diário da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+  },
+  "58888718": {
+   "fragment_id": "58872974",
+   "type": 11,
+   "heading": "Artigo 16.º — Instalações",
+   "in_force_from": "2014-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+   ],
+   "markdown": "###### Artigo 16.º — Instalações\n\n1 - As ações de controlo são realizadas em instalações adequadas, de fácil acesso e devidamente assinaladas, que garantam condições mínimas de higiene, segurança, privacidade e conforto dos seus utilizadores.\n\n2 - As instalações referidas no número anterior devem apresentar a seguinte tipologia, salvo nos casos devidamente justificados:\n\na) Sala de espera (20 m2 a 25 m2) - a capacidade desta sala deve possibilitar a presença em simultâneo de um mínimo de quatro praticantes desportivos e quatro acompanhantes, devendo estar equipada com cadeiras em número suficiente para a sua capacidade mínima e com um frigorífico para preservação de bebidas necessárias à hidratação dos praticantes desportivos;\n\nb) Sala de trabalho (15 m2 a 20 m2) - a capacidade desta sala deve possibilitar a presença em simultâneo do praticante desportivo, do seu acompanhante, do responsável pelo controlo de dopagem (RCD) e de pessoal que o coadjuve, devendo ser contígua à sala referida na alínea a) e estar equipada com uma mesa de trabalho, quatro cadeiras, um frigorífico para preservação das amostras após a sua recolha e um armário com chave para colocação da documentação e equipame\n\nc) Instalações sanitárias (10 m2 a 15 m2) - estas instalações devem conter dois sanitários que possibilitem a presença de duas pessoas no seu interior e, idealmente, um chuveiro, devendo ser contíguas à sala de trabalho referida na alínea b).\n\n3 - As instalações para a realização dos controlos podem consistir, nomeadamente em:\n\na) Instalações disponibilizadas pelo promotor da competição ou evento desportivo;\n\nb) Unidades móveis especialmente concebidas para o efeito.\n\n4 - Os clubes, as sociedades desportivas e os promotores de competições ou eventos desportivos devem adaptar a tipologia descrita no n.º 2 no prazo de um ano a contar da publicação desta portaria.\n\n5 - O RCD, caso não estejam garantidas as condições previstas nos n.os 1 e 2, determina a realização do controlo em instalações por si escolhidas, sendo os respetivos custos imputados ao promotor da competição ou do evento desportivo pela ADoP.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+  },
+  "58888707": {
+   "fragment_id": "58888805",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas, em 4 de janeiro de 2013."
+  },
+  "184543640": {
+   "fragment_id": "58872959",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nAs ações de controlo de dopagem têm por objeto as modalidades desportivas constituídas no âmbito das federações desportivas titulares do estatuto de utilidade pública desportiva, bem como todos os praticantes desportivos.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543641": {
+   "fragment_id": "58872960",
+   "type": 11,
+   "heading": "Artigo 2.º — Programa Nacional Antidopagem",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 2.º — Programa Nacional Antidopagem\n\n1 - As ações de controlo de dopagem a realizar em cada época desportiva são realizadas de acordo com o Programa Nacional Antidopagem anualmente fixado pela Autoridade Antidopagem de Portugal (ADoP).\n\n2 - As federações desportivas titulares do estatuto de utilidade pública desportiva devem, até ao início de cada época desportiva, submeter à ADoP as suas necessidades no que concerne à realização das ações de controlo de dopagem, tanto em termos de controlos de dopagem em competição como fora de competição.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543642": {
+   "fragment_id": "58872961",
+   "type": 11,
+   "heading": "Artigo 3.º — Reciprocidade",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 3.º — Reciprocidade\n\nPodem ser realizadas ações de controlo de dopagem no estrangeiro a cidadãos nacionais, bem como a cidadãos estrangeiros em território português, nomeadamente no âmbito de acordos bilaterais celebrados com organizações antidopagem de outros países.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543643": {
+   "fragment_id": "58872962",
+   "type": 11,
+   "heading": "Artigo 4.º — Grupo alvo de praticantes desportivos",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 4.º — Grupo alvo de praticantes desportivos\n\n1 - Até ao início de cada época competitiva a ADoP define os praticantes desportivos a incluir no grupo alvo a submeter a controlos fora de competição, nomeadamente aqueles que:\n\na) Integrem o regime de alto rendimento, exceptuando os que já se encontram integrados no grupo alvo da respectiva federação internacional;\n\nb) Integrem as seleções nacionais;\n\nc) Participem em competições profissionais;\n\nd) Indiciem risco de utilização de substâncias ou métodos proibidos através do seu comportamento, da sua morfologia corporal, do seu estado de saúde e dos seus resultados desportivos;\n\ne) Se encontrem suspensos por violações de normas antidopagem.\n\n2 - Para efeitos do disposto no número anterior, compete às federações desportivas informar a ADoP do seguinte:\n\na) Do nome e contactos atualizados dos praticantes desportivos integrados no grupo alvo de praticantes desportivos a submeter a controlos fora de competição;\n\nb) Se um praticante desportivo integrado no grupo alvo se retirou da prática desportiva;\n\nc) Se um praticante desportivo que antes de se retirar da prática desportiva estava incluído no grupo alvo de praticantes, reiniciou a sua prática desportiva.\n\n3 - Os dados referidos no número anterior são facultados no prazo máximo de sete dias, contados da data da solicitação da ADoP ou do conhecimento da federação desportiva sobre os mesmos.\n\n4 - Compete à ADoP notificar os praticantes desportivos relativamente aos deveres previstos no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, bem como o responsável pelo poder paternal, no caso de praticantes desportivos menores de idade.\n\n5 - Compete às federações desportivas colaborar com a ADoP na divulgação de informação relativa aos deveres referidos no número anterior.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543644": {
+   "fragment_id": "58872963",
+   "type": 11,
+   "heading": "Artigo 5.º — Permanência no grupo alvo de praticantes desportivos",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 5.º — Permanência no grupo alvo de praticantes desportivos\n\nOs praticantes desportivos permanecem integrados no grupo alvo até serem notificados em contrário pela ADoP.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543645": {
+   "fragment_id": "58872964",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão do sistema de informação sobre a localização",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 6.º — Gestão do sistema de informação sobre a localização\n\nA gestão do sistema de informação sobre a localização dos praticantes desportivos é realizada pela ADoP de acordo com o definido nos artigos 38.º a 42.º da Lei n.º 38/2012, de 28 de agosto, e com os princípios definidos nas normas internacionais para controlo e de proteção da privacidade e da informação pessoal da Agência Mundial Antidopagem (AMA).\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543646": {
+   "fragment_id": "58872965",
+   "type": 11,
+   "heading": "Artigo 7.º — Dever de informação",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 7.º — Dever de informação\n\n1 - O praticante desportivo incluído no sistema de informação sobre a localização envia à ADoP, trimestralmente, a informação prevista no n.º 1 do artigo 7.º da Lei n.º 38/2012, de 28 de agosto.\n\n2 - Para efeitos do disposto no número anterior, considera-se:\n\na) 1.º trimestre - o período compreendido entre o dia 1 de janeiro e 31 de março de cada ano civil;\n\nb) 2.º trimestre - o período compreendido entre o dia 1 de abril e 30 de junho de cada ano civil;\n\nc) 3.º trimestre - o período compreendido entre o dia 1 de julho e 30 de setembro de cada ano civil;\n\nd) 4.º trimestre - o período compreendido entre o dia 1 de outubro e 31 de dezembro de cada ano civil.\n\n3 - Para efeitos do disposto no n.º 1, bem como da atualização dessa informação, o praticante desportivo envia a informação trimestral à ADoP, tendo esta de ser recepcionada até às 24 horas do dia anterior ao início de cada um dos trimestres, através dos meios de comunicação estabelecidos pela ADoP, nomeadamente:\n\na) Endereço electrónico;\n\nb) Fax;\n\nc) Correio;\n\nd) Plataforma electrónica.\n\n4 - Para efeitos de notificação do praticante desportivo da ausência do envio da informação referida no n.º 1 dentro do prazo estabelecido no número anterior, do envio de informação incorreta, nos termos do disposto no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, e de qualquer notificação do mesmo relativamente a matéria relacionada com antidopagem, é utilizado para a primeira notificação o endereço fornecido pela respectiva federação desportiva e, após esta, o endereço constante da informação remetida pelo praticante desportivo.\n\n5 - Em caso de dois incumprimentos da obrigação referida no n.º 1, a ADoP notifica esse facto à federação desportiva respetiva e convoca o praticante desportivo para comparecer nas suas instalações.\n\n6 - A notificação referida no n.º 4 é realizada através de carta registada e considera-se efetuada depois de decorridos cinco dias úteis da data do seu envio.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543647": {
+   "fragment_id": "58872966",
+   "type": 11,
+   "heading": "Artigo 8.º — Informações incorretas e informações falsas",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 8.º — Informações incorretas e informações falsas\n\n1 - A informação referida no artigo anterior considera-se incorreta quando a omissão de um ou mais elementos impeça a realização de controlos ao praticante desportivo, de acordo com critérios definidos pela ADoP em consonância com o estabelecido na norma internacional para controlo da AMA.\n\n2 - A informação referida no artigo anterior considera-se falsa quando o praticante desportivo que a providencie tenha a intenção de inviabilizar a realização do controlo de dopagem.\n\n3 - O envio de informação falsa por parte do praticante desportivo constitui violação da norma antidopagem prevista na alínea e) do n.º 2 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto, com as consequências previstas nesse diploma.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543648": {
+   "fragment_id": "58872967",
+   "type": 11,
+   "heading": "Artigo 9.º — Modalidades colectivas",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 9.º — Modalidades colectivas\n\n1 - Nas modalidades colectivas, para cumprimento do disposto no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, o praticante desportivo pode delegar num representante do seu clube ou sociedade desportiva a responsabilidade pelo envio da informação e das respectivas alterações à ADoP, de acordo com critérios definidos por esta, em consonância com o estabelecido na norma internacional para controlo da AMA.\n\n2 - As regras previstas no artigo 7.º aplicam-se, com as devidas alterações, ao disposto no número anterior.\n\n3 - Presume-se que ocorreu a delegação prevista no presente artigo a menos que o praticante desportivo informe a ADoP do contrário no prazo que dispõe para prestar a informação, nos termos do artigo 7.º.\n\n4 - A delegação prevista no n.º 1 não afasta a responsabilidade do praticante desportivo em relação às obrigações descritas no artigo 7.º da Lei n.º 38/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543649": {
+   "fragment_id": "58872968",
+   "type": 11,
+   "heading": "Artigo 10.º — Praticante desportivo portador de deficiência",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 10.º — Praticante desportivo portador de deficiência\n\n1 - O praticante desportivo portador de deficiência que o impeça de exercer o cumprimento do disposto no artigo 7.º da Lei n.º 38/2012, de 28 de agosto, nomeadamente o portador de deficiência intelectual, motora ou visual, pode delegar num representante a responsabilidade pelo envio da informação e das respetivas atualizações à ADoP, de acordo com critérios definidos por esta, em consonância com a norma internacional para controlo da AMA.\n\n2 - As regras previstas no artigo 7.º aplicam-se, com as devidas alterações, ao disposto no número anterior.\n\n3 - A delegação prevista no presente artigo é solicitada pelo praticante desportivo nos termos definidos pela ADoP.\n\n4 - A delegação prevista no n.º 1 não afasta a responsabilidade do praticante desportivo em relação às obrigações descritas no artigo 7.º da Lei n.º 38/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543650": {
+   "fragment_id": "58872969",
+   "type": 11,
+   "heading": "Artigo 11.º — Verificação das informações",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 11.º — Verificação das informações\n\n1 - No caso de se verificar a ausência do envio, dentro do prazo estabelecido, ou o envio de informação incorreta relativamente à localização dos praticantes desportivos, nos termos do artigo 7.º da Lei n.º 38/2012, de 28 de agosto, compete à ADoP notificar o praticante desportivo ou o representante em que ele tenha delegado essa obrigação, bem como o responsável pelo poder paternal, no caso de praticantes desportivos menores de idade, em relação ao incumprimento verificado.\n\n2 - A notificação referida no número anterior é realizada de acordo com o disposto nos n.os 4 e 5 do artigo 7.º\n\n3 - O praticante desportivo, ou o representante em quem tenha delegado essa obrigação, pode remeter à ADoP, no prazo de 10 dias contados a partir da data da recepção da notificação, toda a informação que julgue pertinente, a qual deve ser tida em consideração pela ADoP na averiguação do incumprimento.\n\n4 - A ADoP, com base na informação mencionada no número anterior, decide se os factos ocorridos consubstanciam ou não um incumprimento, devendo essa decisão ser notificada ao praticante desportivo ou ao representante em quem tenha delegado essa obrigação, consoante o caso.\n\n5 - Da decisão proferida pela ADoP cabe recurso, no âmbito do procedimento disciplinar por eventual incumprimento do disposto na alínea f) do n.º 2 e no n.º 3 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto.\n\n6 - A ADoP só pode averiguar um segundo ou terceiro eventual incumprimento quando o praticante desportivo ou o seu representante, consoante o caso, tenham sido devidamente notificados de um incumprimento anterior relacionado com o disposto na alínea f) do n.º 2 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543651": {
+   "fragment_id": "58872970",
+   "type": 11,
+   "heading": "Artigo 12.º — Recordes nacionais",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 12.º — Recordes nacionais\n\n1 - Compete às federações desportivas informar de imediato a ADoP relativamente à obtenção de um recorde nacional numa competição desportiva, sempre que o controlo de dopagem necessário à homologação do mesmo, de acordo com o n.º 4 do artigo 33.º da Lei n.º 38/2012, de 28 de agosto, não seja possível realizar no local da competição ou do evento desportivo.\n\n2 - Compete à ADoP diligenciar no sentido da realização do controlo de dopagem referido no número anterior o mais rapidamente possível e sempre dentro das vinte e quatro horas subsequentes à obtenção do recorde nacional.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543652": {
+   "fragment_id": "58872971",
+   "type": 11,
+   "heading": "Artigo 13.º — Apoio logístico",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 13.º — Apoio logístico\n\nPara efeitos do disposto no n.º 1 do artigo 34.º da Lei n.º 38/2012, de 28 de agosto, compete à ADoP, através da Estrutura de Suporte ao Programa Antidopagem (ESPAD), garantir o apoio logístico à realização dos controlos.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543653": {
+   "fragment_id": "58872972",
+   "type": 11,
+   "heading": "Artigo 14.º — Responsáveis pelo controlo",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+   ],
+   "markdown": "###### Artigo 14.º — Responsáveis pelo controlo\n\n1 - [Revogado].\n\n2 - As ações de controlo são realizadas por médicos, enfermeiros e técnicos de diagnóstico e terapêutica (análises clínicas), os quais podem ser coadjuvados por auxiliares de controlo de dopagem designados pela ADoP, nos termos previstos no n.º 5 do artigo 32.º da Lei n.º 38/2012, de 28 de agosto.\n\n3 - A seleção dos médicos, enfermeiros e técnicos de diagnóstico e terapêutica (análises clínicas) é realizada mediante concurso público, através da celebração de contrato de prestação de serviços com o Instituto Português do Desporto e Juventude, I. P. (IPDJ, I.P.).\n\n4 - Os médicos, enfermeiros e técnicos de diagnóstico e terapêutica (análises clinicas) e auxiliares de controlo de dopagem a que se refere o n.º 2 são credenciados pela ADoP.\n\n5 - A credenciação dos membros da ADoP, dos médicos, enfermeiros, técnicos de diagnóstico e terapêutica (análises clínicas) e auxiliares de controlo de dopagem é atestada por cartão de identificação, de acordo com o modelo a aprovar por despacho do presidente da ADoP, publicado no Diário da República.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+  },
+  "184543654": {
+   "fragment_id": "58872973",
+   "type": 11,
+   "heading": "Artigo 15.º — Solicitação dos controlos de dopagem",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 15.º — Solicitação dos controlos de dopagem\n\n1 - Compete às federações desportivas enviar à ADoP, com a antecedência mínima de quatro dias úteis em relação à data de realização de um controlo de dopagem inscrito no Programa Nacional Antidopagem, toda a informação relevante para a realização do mesmo, nomeadamente a data e o local da realização, a hora prevista para o início do controlo e o nome e o contacto do representante da entidade organizadora.\n\n2 - Compete à ADoP decidir sobre a realização de controlos de dopagem solicitados pelas federações desportivas, pelas ligas profissionais ou por outras entidades organizadoras de competições ou eventos desportivos que não integrem o Programa Nacional Antidopagem.\n\n3 - A solicitação de controlos de dopagem referida no número anterior é dirigida ao presidente da ADoP, acompanhada da informação descrita no n.º 1.\n\n4 - A informação referida nos n.os 1 e 3 é realizada através do preenchimento de um modelo disponibilizado pela ADoP.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543655": {
+   "fragment_id": "58872974",
+   "type": 11,
+   "heading": "Artigo 16.º — Instalações",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+   ],
+   "markdown": "###### Artigo 16.º — Instalações\n\n1 - As ações de controlo são realizadas em instalações adequadas, de fácil acesso e devidamente assinaladas, que garantam condições mínimas de higiene, segurança, privacidade e conforto dos seus utilizadores.\n\n2 - As instalações referidas no número anterior devem apresentar a seguinte tipologia, salvo nos casos devidamente justificados:\n\na) Sala de espera (20 m2 a 25 m2) - a capacidade desta sala deve possibilitar a presença em simultâneo de um mínimo de quatro praticantes desportivos e quatro acompanhantes, devendo estar equipada com cadeiras em número suficiente para a sua capacidade mínima e com um frigorífico para preservação de bebidas necessárias à hidratação dos praticantes desportivos;\n\nb) Sala de trabalho (15 m2 a 20 m2) - a capacidade desta sala deve possibilitar a presença em simultâneo do praticante desportivo, do seu acompanhante, do responsável pelo controlo de dopagem (RCD) e de pessoal que o coadjuve, devendo ser contígua à sala referida na alínea a) e estar equipada com uma mesa de trabalho, quatro cadeiras, um frigorífico para preservação das amostras após a sua recolha e um armário com chave para colocação da documentação e equipame\n\nc) Instalações sanitárias (10 m2 a 15 m2) - estas instalações devem conter dois sanitários que possibilitem a presença de duas pessoas no seu interior e, idealmente, um chuveiro, devendo ser contíguas à sala de trabalho referida na alínea b).\n\n3 - As instalações para a realização dos controlos podem consistir, nomeadamente em:\n\na) Instalações disponibilizadas pelo promotor da competição ou evento desportivo;\n\nb) Unidades móveis especialmente concebidas para o efeito.\n\n4 - Os clubes, as sociedades desportivas e os promotores de competições ou eventos desportivos devem adaptar a tipologia descrita no n.º 2 no prazo de um ano a contar da publicação desta portaria.\n\n5 - O RCD, caso não estejam garantidas as condições previstas nos n.os 1 e 2, determina a realização do controlo em instalações por si escolhidas, sendo os respetivos custos imputados ao promotor da competição ou do evento desportivo pela ADoP.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2014 - Diário da República n.º 220/2014, Série I de 2014-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/232-2014-58851817), em vigor a partir de 2014-11-14"
+  },
+  "184543656": {
+   "fragment_id": "58888775",
+   "type": 11,
+   "heading": "Artigo 17.º — Seleção do praticante desportivo",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 17.º — Seleção do praticante desportivo\n\n1 - A seleção do praticante desportivo a submeter a controlo em competição é realizada de acordo com a metodologia constante do respectivo regulamento federativo antidopagem.\n\n2 - A metodologia referida no número anterior deve respeitar os princípios definidos na norma internacional para controlo da AMA e no regulamento antidopagem da respectiva federação internacional.\n\n3 - O MRCD sujeita ao controlo qualquer outro praticante cujo comportamento na competição se tenha revelado anómalo do ponto de vista médico ou desportivo.\n\n4 - A seleção do praticante desportivo a submeter a controlo fora de competição é realizada pela ADoP, podendo ocorrer por sorteio ou de forma direcionada.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543657": {
+   "fragment_id": "58888776",
+   "type": 11,
+   "heading": "Artigo 18.º — Notificação da ação de controlo",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 18.º — Notificação da ação de controlo\n\n1 - A realização de uma ação de controlo em competição ou num evento desportivo é notificada no local aos delegados dos clubes ou sociedades desportivas, da federação, da liga ou da entidade organizadora.\n\n2 - A notificação do praticante desportivo a submeter a controlo em competição é realizada de acordo com a metodologia constante do respectivo regulamento federativo antidopagem.\n\n3 - A metodologia referida no número anterior respeita os princípios definidos na norma internacional para controlo da AMA e no regulamento antidopagem da respectiva federação internacional.\n\n4 - O praticante desportivo é notificado pelo MRCD ou por outra pessoa por este delegada, recorrendo para o efeito ao formulário do controlo antidopagem aprovado e disponibilizado pela ADoP.\n\n5 - Os praticantes desportivos notificados nos termos do número anterior, ficam sob vigilância e à disposição do MRCD, não podendo, sem a autorização deste, abandonar o local onde se realiza o controlo.\n\n6 - Se um praticante desportivo não se apresentar no local de controlo dentro do prazo determinado, este facto deve ser registado pelo MRCD no relatório da ação de controlo e corresponde a uma recusa ao controlo de dopagem, de acordo com o disposto na alínea d) do n.º 2 do artigo 3.º da Lei n.º 38/2012, de 28 de agosto.\n\n7 - O MRCD regista ainda no relatório da ação de controlo de dopagem todos os esforços realizados para que o praticante desportivo se apresente no local do controlo.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543658": {
+   "fragment_id": "58888777",
+   "type": 11,
+   "heading": "Artigo 19.º — Comparência no controlo",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 19.º — Comparência no controlo\n\n1 - O praticante desportivo, após a notificação a que se refere o artigo anterior, deve dirigir-se de imediato para o local do controlo, acompanhado pelo MRCD ou por quem este delegar.\n\n2 - No caso do praticante desportivo não se poder deslocar imediatamente para o local do controlo, de acordo com os motivos definidos na norma internacional para controlo da AMA, deve ser acompanhado em permanência por um auxiliar de controlo de dopagem, devidamente credenciado pela ADoP e indicado pelo organizador da competição ou do evento desportivo ou pela ADoP para o efeito.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543659": {
+   "fragment_id": "58888778",
+   "type": 11,
+   "heading": "Artigo 20.º — Ausência no controlo por assistência médica",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 20.º — Ausência no controlo por assistência médica\n\n1 - Os organizadores da competição ou do evento desportivo onde o controlo se realize informam de imediato o MRCD caso um praticante desportivo selecionado para o mesmo se tenha ausentado do local onde decorreu a competição ou evento desportivo, a fim de ser submetido a assistência médica.\n\n2 - A obrigação referida no número anterior aplica-se igualmente ao praticante desportivo e, no seu impedimento, ao seu pessoal de apoio.\n\n3 - No caso mencionado no n.º 1, o MRCD determina as medidas necessárias para assegurar a realização do controlo.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543660": {
+   "fragment_id": "58888779",
+   "type": 11,
+   "heading": "Artigo 21.º — Submissão ao controlo",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 21.º — Submissão ao controlo\n\n1 - O praticante desportivo, quando selecionado, deve submeter-se ao controlo fora de competição, logo que para tal seja notificado pelo MRCD, pela sua federação desportiva ou pela ADoP.\n\n2 - As ações de controlo a praticantes desportivos que se encontrem fora do território nacional podem ser solicitadas pela sua federação desportiva à ADoP que, se considerado necessário, as solicita à sua congénere do país em que o praticante desportivo se encontra, a fim de serem por esta, ou sob a sua égide, executadas.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543661": {
+   "fragment_id": "58888780",
+   "type": 11,
+   "heading": "Artigo 22.º — Colheita de amostras",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 22.º — Colheita de amostras\n\n1 - A colheita das amostras é feita pelo MRCD, podendo este ser coadjuvado pelo paramédico designado para o efeito.\n\n2 - A metodologia de colheita de amostras respeita os princípios definidos na norma internacional para controlo da AMA.\n\n3 - Antes do início da colheita de amostras, o praticante desportivo identifica-se mediante documento oficial com fotografia ou através do respectivo cartão emitido pela federação desportiva da modalidade.\n\n4 - O praticante desportivo pode fazer-se acompanhar, querendo, por uma pessoa da sua confiança, devendo esta identificar-se através de documento legal para os devidos efeitos.\n\n5 - O acompanhamento referido no número anterior é obrigatório para:\n\na) Os praticantes desportivos menores;\n\nb) Os praticantes desportivos portadores de deficiência visual ou mental.\n\n6 - O MRCD deve obrigatoriamente apresentar as suas credenciais ao praticante desportivo e ao seu acompanhante.\n\n7 - No início da operação de recolha, o MRCD explica ao praticante desportivo e ao seu acompanhante o procedimento do controlo e informa sobre os seus direitos e deveres.\n\n8 - Durante a sessão de colheita das amostras, o praticante desportivo deve observar o que lhe seja determinado pelo MRCD.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543662": {
+   "fragment_id": "58888781",
+   "type": 11,
+   "heading": "Artigo 23.º — Taxa de alcoolemia",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 23.º — Taxa de alcoolemia\n\n1 - O controlo da quantidade de álcool existente no sangue de um praticante desportivo é realizado através do método de análise expiratória.\n\n2 - O procedimento utilizado na detecção do álcool no ar expirado baseia-se no modelo de boas práticas da AMA e no procedimento técnico de detecção do álcool no ar expirado aprovado pela ADoP.\n\n3 - O praticante desportivo que apresente uma taxa de alcoolemia acima do limite permitido na lista de substâncias e métodos proibidos fica automaticamente proibido de participar nessa competição e sujeito obrigatoriamente a procedimento disciplinar, nos termos previstos no artigo 58.º da Lei n.º 38/2012, de 28 de agosto.\n\n4 - Em todos os procedimentos omissos aplica-se o estatuído na norma internacional para controlo da AMA relativamente à recolha de líquido orgânico.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543663": {
+   "fragment_id": "58888782",
+   "type": 11,
+   "heading": "Artigo 24.º — Formulários",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 24.º — Formulários\n\nCada sessão de colheita de amostras é registada em formulários, cujos modelos constam do anexo I à presente portaria, os quais são obrigatoriamente subscritos pelo MRCD e pelo praticante desportivo e, nos casos previstos no n.º 5 do artigo 22.º, pelo seu acompanhante.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543664": {
+   "fragment_id": "58888783",
+   "type": 11,
+   "heading": "Artigo 25.º — Responsáveis pelas condições de realização dos controlos",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 25.º — Responsáveis pelas condições de realização dos controlos\n\n1 - As federações desportivas, ligas profissionais, clubes, sociedades desportivas e demais entidades promotoras e organizadoras de competições ou eventos desportivos são responsáveis pela segurança dos MRCD e das pessoas que os coadjuvem, bem como do respectivo equipamento, devendo nomeadamente providenciar para que a sessão de colheita de amostras se realize sem perturbações.\n\n2 - Se o MRCD entender que não estão reunidas condições para desempenhar a sua missão, disso dá conta no relatório do controlo de dopagem, recusando-se a realizar o mesmo.\n\n3 - Os factos constantes no relatório do controlo de dopagem elaborado pelo MRCD, e por ele presenciados, fazem fé até prova em contrário.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543665": {
+   "fragment_id": "58888784",
+   "type": 11,
+   "heading": "Artigo 26.º — Administração pós-controlo",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 26.º — Administração pós-controlo\n\n1 - O MRCD, após a colheita das amostras, assegura-se que as mesmas, até à sua saída do local onde decorreu o controlo, são armazenadas e preservadas de forma a garantir a sua integridade, identidade e segurança.\n\n2 - O MRCD assegura-se que a documentação inerente a cada amostra e a todo o controlo é devidamente preenchida e manuseada, assim como garante que é disponibilizada a informação destinada ao laboratório antidopagem acreditado pela AMA sobre o tipo de análises requeridas.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543666": {
+   "fragment_id": "58888785",
+   "type": 11,
+   "heading": "Artigo 27.º — Transporte",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 27.º — Transporte\n\n1 - O MRCD, após ter finalizado a sessão de colheita das amostras, providencia que as amostras sejam devidamente acondicionadas em mala apropriada, de forma a garantir a proteção da sua integridade, identidade e segurança, devendo a mala ser selada e acompanhada de um formulário de cadeia de custódia.\n\n2 - O MRCD garante, igualmente, que a documentação relativa à colheita das amostras e à sessão de controlo está devidamente acondicionada, de forma a garantir a proteção da sua integridade, identidade e segurança.\n\n3 - O envio das amostras e da respectiva documentação para a ESPAD, através de transporte seguro, é concretizado o mais rapidamente possível após a ação de controlo ter sido concluída.\n\n4 - A ESPAD providencia para que as amostras recolhidas, assim como documentação relevante, sejam enviadas ao Laboratório de Análises de Dopagem (LAD) ou a outro laboratório antidopagem acreditado pela AMA ou de outra forma aprovado pela AMA, a fim de serem analisadas.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543667": {
+   "fragment_id": "58888786",
+   "type": 11,
+   "heading": "Artigo 28.º — Realização dos exames laboratoriais",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 28.º — Realização dos exames laboratoriais\n\n1 - Os exames laboratoriais são realizados no LAD ou noutro laboratório antidopagem acreditado pela AMA.\n\n2 - Os exames laboratoriais destinam-se à deteção de substâncias e métodos proibidos identificados na lista de substâncias e métodos proibidos da AMA e de outras substâncias constantes do programa de monitorização da AMA ou a assistir a ADoP ou outras organizações antidopagem na elaboração de perfis longitudinais de parâmetros analisados em amostras orgânicas do praticante desportivo, incluindo DNA e perfil do genoma, para fins relacionados com estratégias antidopagem.\n\n3 - Os exames laboratoriais são realizados de acordo com os princípios definidos na norma internacional de laboratórios da AMA.\n\n4 - As amostras recolhidas no controlo podem ser reanalisadas dentro de um período de oito anos, contados da data da respectiva colheita, de acordo com o previsto no n.º 3 do artigo 43.º da Lei n.º 38/2012, de 28 de agosto, e com os princípios constantes da norma internacional de laboratórios da AMA.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543668": {
+   "fragment_id": "58888787",
+   "type": 11,
+   "heading": "Artigo 29.º — Instrução inicial",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 29.º — Instrução inicial\n\nA ADoP, ao recepcionar um resultado analítico positivo ou um resultado analítico atípico, realiza uma instrução inicial, de forma a verificar:\n\na) Se foi concedida uma autorização de utilização terapêutica;\n\nb) Se se verificou alguma violação da norma internacional para controlo da AMA ou da norma internacional para laboratórios da AMA que ponha em causa a validade do relatório analítico positivo ou do resultado analítico atípico;\n\nc) A necessidade de se proceder a exames complementares, de acordo com o previsto na alínea c) do n.º 3 do artigo 34.º e do artigo 36.º, ambos da Lei n.º 38/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543669": {
+   "fragment_id": "58888788",
+   "type": 11,
+   "heading": "Artigo 30.º — Notificações relativas a resultados analíticos positivos",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 30.º — Notificações relativas a resultados analíticos positivos\n\n1 - A ADoP, após confirmar que não foi concedida uma autorização de utilização terapêutica e que não se verificou nenhuma violação das normas internacionais para controlo da AMA ou de laboratórios da AMA, procede à notificação referida no n.º 1 do artigo 35.º da Lei n.º 38/2012, de 28 de agosto, endereçada à respetiva federação desportiva.\n\n2 - Na notificação referida no número anterior, a ADoP informa a federação desportiva sobre a data e a hora para a eventual realização da segunda análise, proposta pelo LAD ou por outro laboratório antidopagem acreditado pela AMA, a qual deve ser efectuada o mais rapidamente possível e nunca depois de decorridos sete dias úteis após a notificação do relatório analítico positivo pelo laboratório.\n\n3 - A federação desportiva, ao recepcionar a notificação referida no número anterior, procede nas vinte e quatro horas seguintes à notificação do praticante desportivo em causa e do seu clube ou sociedade desportiva, de acordo com o previsto no n.º 2 do artigo 35.º da Lei n.º 38/2012, de 28 de agosto.\n\n4 - O praticante desportivo, após ter recebido a notificação do dia e da hora para a eventual realização da segunda análise, informa por qualquer meio escrito, o mais rapidamente possível e nunca depois de decorridas vinte e quatro horas após a recepção da mesma, a respectiva federação desportiva se deseja exercer os direitos conferidos pelas alíneas b), c) e d) do n.º 2 do artigo 35.º da Lei n.º 38/2012, de 28 de agosto.\n\n5 - A federação desportiva, ao receber a informação mencionada no número anterior informa de imediato a ADoP, por qualquer meio, confirmando posteriormente por qualquer meio escrito, e garantindo a confidencialidade da informação.\n\n6 - Compete à ADoP informar de imediato o LAD, ou o laboratório antidopagem acreditado pela AMA responsável pela realização da primeira análise, do teor da informação prestada nos termos do número anterior.\n\n7 - Caso o praticante desportivo informe a federação desportiva que prescinde da realização da segunda análise, a ADoP, ao ser notificada dessa decisão, informará a federação desportiva sobre a necessidade de abertura de procedimento disciplinar.\n\n8 - Caso o praticante desportivo não responda à notificação da federação desportiva no prazo estipulado no n.º 4, o LAD ou o laboratório antidopagem acreditado pela AMA responsável pela realização da primeira análise, procede à realização da segunda análise na data previamente definida, na presença de uma testemunha independente.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543670": {
+   "fragment_id": "58888789",
+   "type": 11,
+   "heading": "Artigo 31.º — Realização da segunda análise",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 31.º — Realização da segunda análise\n\n1 - Na realização da segunda análise pode estar presente, para além das pessoas e entidades referidas no artigo 35.º da Lei n.º 38/2012, de 28 de agosto, um representante da respetiva federação desportiva.\n\n2 - O praticante desportivo deve ser portador da cópia do formulário do controlo antidopagem que lhe foi entregue no momento em que realizou a colheita das amostras.\n\n3 - Todas as pessoas e entidades presentes na realização da segunda análise devem ser portadoras de documento de identificação e de procuração com poderes de representação.\n\n4 - Do que se passar na segunda análise é lavrada ata, subscrita pelos presentes e remetida cópia para a respetiva federação desportiva, de forma a acionar os mecanismos disciplinares.\n\n5 - Compete ao LAD, ou ao laboratório antidopagem acreditado pela AMA responsável pela realização da primeira análise, emitir um relatório com o resultado da segunda análise, o qual deve ser remetido à ADoP.\n\n6 - Compete à ADoP remeter posteriormente o relatório referido no número anterior à respectiva federação desportiva.\n\n7 - Compete à federação desportiva, caso o resultado da segunda análise confirme o da primeira análise:\n\na) Suspender preventivamente o praticante desportivo em causa até ao 2.º dia posterior à recepção do relatório referido no n.º 5;\n\nb) Determinar a abertura de um procedimento disciplinar pelo órgão disciplinar federativo.\n\n8 - O disposto no número anterior não se aplica nos casos em que a ADoP determine a realização de exames complementares de acordo com o disposto no artigo 36.º da Lei n.º 38/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543671": {
+   "fragment_id": "58888790",
+   "type": 11,
+   "heading": "Artigo 32.º — Exames complementares",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 32.º — Exames complementares\n\n1 - Compete à ADoP notificar a federação desportiva da decisão tomada relativamente aos exames complementares efetuados no seguimento de um resultado analítico atípico ou de qualquer outro resultado que tenha originado a realização dos mesmos, de acordo com o previsto no artigo 36.º da Lei n.º 38/2012, de 28 de agosto, determinando se os seus resultados consubstanciam uma violação de norma antidopagem.\n\n2 - Tendo sido determinada pela ADoP a violação de uma norma antidopagem, aplica-se o disposto no n.º 7 do artigo anterior.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543672": {
+   "fragment_id": "58888791",
+   "type": 11,
+   "heading": "Artigo 33.º — Procedimento disciplinar",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 33.º — Procedimento disciplinar\n\n1 - A notificação, pela ADoP, de uma violação de norma antidopagem determina que a federação desportiva envie a mesma ao respetivo órgão disciplinar federativo, no prazo máximo de cinco dias úteis a contar da sua receção, de forma a que este proceda à abertura do respetivo procedimento disciplinar.\n\n2 - A entidade responsável pela elaboração da instrução do procedimento disciplinar emite a nota de culpa, no prazo de dez dias úteis, contados após o envio do processo para o respetivo órgão disciplinar federativo.\n\n3 - O prazo definido no n.º 3 do artigo 59.º da Lei n.º 38/2012, de 28 de agosto, inicia-se na data da receção da notificação de uma violação de norma antidopagem, por parte da ADoP, à respetiva federação desportiva.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543673": {
+   "fragment_id": "58888792",
+   "type": 11,
+   "heading": "Artigo 34.º — Controlo não realizado",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 34.º — Controlo não realizado\n\n1 - Compete à ADoP, no caso de se verificar um controlo declarado como não realizado, de acordo com as regras definidas pela ADoP e em consonância com o estabelecido na norma internacional para controlo da AMA, notificar o praticante desportivo, o seu representante legal ou o representante da equipa em quem tenha delegado essa obrigação, em relação a esse eventual incumprimento.\n\n2 - À notificação referida no número anterior aplica-se o disposto nos n.os 4 e 5 do artigo 7.º.\n\n3 - O praticante desportivo, o seu representante legal ou o representante da equipa em quem tenha delegado essa obrigação, pode remeter à ADoP, no prazo de cinco dias úteis contados a partir da data da recepção da notificação, toda a informação que julgue pertinente.\n\n4 - A ADoP, com base na informação mencionada no número anterior, decide se os factos ocorridos consubstanciam ou não um incumprimento.\n\n5 - Dessa decisão é notificado o praticante desportivo, o seu representante legal ou o representante da equipa em quem tenha delegado essa obrigação.\n\n6 - A ADoP só pode averiguar um segundo ou terceiro eventual incumprimento se o praticante desportivo, o representante legal ou o representante da equipa em quem tenha delegado essa obrigação, tenha sido devidamente notificado de um incumprimento anterior relacionado com o previsto na alínea g) do artigo 3.º da Lei n.º 38/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184543674": {
+   "fragment_id": "58888793",
+   "type": 11,
+   "heading": "Artigo 35.º — Parecer prévio",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 35.º — Parecer prévio\n\n1 - Para efeitos do disposto nos n.os 1 a 5 do artigo 67.º e no artigo 68.º da Lei n.º 38/2012, de 28 de agosto, compete à federação desportiva, ao praticante desportivo ou ao seu clube, requerer o parecer prévio à ADoP, que obrigatoriamente o remete ao Conselho Nacional Antidopagem (CNAD), para cumprimento do disposto nas alíneas a) a c) do n.º 1 do artigo 27.º da Lei n.º 38/2012, de 28 de agosto\n\n2 - O parecer prévio referido no número anterior é requerido após concluída a proposta de sanção disciplinar a aplicar e antes de ser proferida decisão disciplinar pelo respectivo órgão disciplinar federativo.\n\n3 - Requerido o parecer prévio, o CNAD pronuncia-se no prazo de 10 dias úteis.\n\n4 - Não pode ser proferida decisão antes de ser emitido o parecer prévio ou decorrido o prazo referido no número anterior.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547575": {
+   "fragment_id": "58888794",
+   "type": 11,
+   "heading": "Artigo 36.º — Suspensão dos praticantes desportivos",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 36.º — Suspensão dos praticantes desportivos\n\nCompete às federações desportivas verificar o cumprimento do disposto no n.º 1 do artigo 70.º da Lei n.º 38/2012, de 28 de agosto, com a obrigação de notificar a ADoP caso seja detetado um incumprimento à referida norma.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547576": {
+   "fragment_id": "58888795",
+   "type": 11,
+   "heading": "Artigo 37.º — Autorização de utilização terapêutica",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 37.º — Autorização de utilização terapêutica\n\n1 - A ADoP, através da Comissão de Autorização de Utilização Terapêutica (CAUT) procede à recepção, análise e aprovação das solicitações de autorização de utilização terapêutica de substâncias e métodos proibidos, de acordo com os critérios e regras definidas na norma internacional de autorizações de utilização terapêutica da AMA.\n\n2 - Compete à ADoP aprovar os procedimentos inerentes ao sistema de autorização de utilização terapêutica de substâncias e métodos proibidos, mediante despacho do seu presidente, publicado no Diário da República.\n\n3 - Compete à ADoP, através da ESPAD e em cooperação com as federações desportivas, divulgar e dar publicidade às determinações referidas no número anterior junto dos praticantes desportivos e do seu pessoal de apoio.\n\n4 - A ADoP garante a total confidencialidade de todas as informações médicas relativas às autorizações de utilização terapêutica.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547577": {
+   "fragment_id": "58888796",
+   "type": 11,
+   "heading": "Artigo 38.º — Campanhas de informação e de educação",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 38.º — Campanhas de informação e de educação\n\n1 - Compete à ADoP, através da ESPAD e em cooperação com as federações desportivas e outras entidades públicas ou privadas, implementar campanhas de informação e de educação, com a finalidade de sensibilizar os praticantes desportivos, o respectivo pessoal de apoio e os jovens em particular relativamente à luta contra a dopagem.\n\n2 - As campanhas referidas no número anterior fornecem informação atualizada e correta sobre as matérias previstas no artigo 30.º da Lei n.º 38/2012, de 28 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547578": {
+   "fragment_id": "58888797",
+   "type": 11,
+   "heading": "Artigo 39.º — Tabela de preços",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 39.º — Tabela de preços\n\n1 - Os custos com a realização dos controlos de dopagem integrados no Programa Nacional Antidopagem são suportados pela ADoP, com as seguintes exceções:\n\na) Os custos com a realização dos controlos efetuados em competições ou eventos desportivos organizados por ligas profissionais ou por entidades privadas, são da responsabilidade das mesmas, mesmo que integradas no Programa Nacional Antidopagem;\n\nb) Os custos com a realização dos controlos de dopagem que não integrem o Programa Nacional Antidopagem solicitados por federações desportivas ou por entidades promotoras ou organizadoras de competições e eventos desportivos, são suportados pelas entidades requisitantes.\n\n2 - Os valores relativos à realização dos controlos são definidos por despacho do presidente do IPDJ, I. P., mediante proposta do presidente da ADoP, publicado no Diário da República.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547579": {
+   "fragment_id": "58888798",
+   "type": 11,
+   "heading": "Artigo 40.º — Regulamentos federativos antidopagem",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 40.º — Regulamentos federativos antidopagem\n\n1 - Os regulamentos referidos no artigo 12.º da Lei n.º 38/2012, de 28 de agosto, são registados junto da ADoP, correspondendo a prova do registo à sua conformidade com a legislação antidopagem em vigor.\n\n2 - As alterações aos regulamentos referidos no número anterior estão sujeitas às mesmas formalidades e só são aplicáveis a partir do início da época desportiva imediatamente posterior à sua adoção.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547580": {
+   "fragment_id": "58888799",
+   "type": 11,
+   "heading": "Artigo 41.º — Recomendações e esclarecimentos",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 41.º — Recomendações e esclarecimentos\n\n1 - Por deliberação da ADoP podem ser estabelecidos ou recomendados às federações desportivas os procedimentos administrativos mais convenientes para assegurar a confidencialidade das comunicações referidas na presente portaria.\n\n2 - A ADoP pode solicitar os esclarecimentos que julgar convenientes, com o objectivo de avaliar a ação desenvolvida por cada federação desportiva no cumprimento da legislação antidopagem.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547581": {
+   "fragment_id": "58888800",
+   "type": 11,
+   "heading": "Artigo 42.º — Notificações",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 42.º — Notificações\n\n1 - As notificações previstas na presente portaria, regra geral, revestem a forma escrita, sendo efectuadas com o recurso a meios passíveis de comprovar o seu conteúdo, envio e entrega.\n\n2 - Sempre que por motivos de celeridade processual as notificações sejam feitas pessoalmente ou por via telefónica, estas devem ser confirmadas nos termos do número anterior, no dia útil imediato.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547582": {
+   "fragment_id": "58888801",
+   "type": 11,
+   "heading": "Artigo 43.º — Norma revogatória",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 43.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1123/2009, de 1 de outubro.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547583": {
+   "fragment_id": "58888802",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547584": {
+   "fragment_id": "58888805",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas, em 4 de janeiro de 2013.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  },
+  "184547585": {
+   "fragment_id": "58888803",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2022-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 436/2022 - Diário da República n.º 65/2022, Série II de 2022-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/436-2022-181527360), em vigor a partir de 2022-04-02"
+  }
+ }
+}

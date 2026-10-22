@@ -1,0 +1,1669 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:502394:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-34520575",
+ "dre_path": "/dr/detalhe/lei/34-2004-502394",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53123175",
+    "53123275",
+    "53123375",
+    "53123475",
+    "53123575",
+    "53123675",
+    "53123775",
+    "53123875",
+    "53123975",
+    "53124075",
+    "53124175",
+    "53124275",
+    "53124375",
+    "53124475",
+    "53124575",
+    "53124675",
+    "53124775",
+    "53124875",
+    "53124975",
+    "53125075",
+    "53125175",
+    "53125275",
+    "53125375",
+    "53125475",
+    "53125575",
+    "53125675",
+    "53125775",
+    "53125875",
+    "53125975",
+    "53126075",
+    "53126175",
+    "53126275",
+    "53126375",
+    "53126475",
+    "53126575",
+    "53126675",
+    "53126775",
+    "53126875",
+    "53126975",
+    "53127075",
+    "53127175",
+    "53127275",
+    "53127375",
+    "53127475",
+    "53127575",
+    "53127675",
+    "53127775",
+    "53127875",
+    "53127975",
+    "53128075",
+    "53128175",
+    "53128275",
+    "53128375",
+    "53128475",
+    "53128575",
+    "53128675",
+    "53128775",
+    "53128875",
+    "53128975",
+    "53129075",
+    "53129175",
+    "53129275",
+    "53129375",
+    "53129475"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641076:por",
+     "title": "Lei n.º 47/2007",
+     "published": "2007-08-28",
+     "dre_path": "/dr/detalhe/lei/47-2007-641076"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 8.º-B",
+    "Adita Artigo 35.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 45.º",
+    "Altera Anexo",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º"
+   ],
+   "fragments": [
+    "53123175",
+    "53123275",
+    "53123375",
+    "53123475",
+    "66524303",
+    "53123675",
+    "66524304",
+    "66524339",
+    "53123975",
+    "53124075",
+    "53124175",
+    "66524305",
+    "66524306",
+    "66524287",
+    "66524293",
+    "66524294",
+    "66524308",
+    "66524309",
+    "66524297",
+    "66524310",
+    "53124975",
+    "66524311",
+    "66524312",
+    "53125275",
+    "66524313",
+    "66524315",
+    "66524314",
+    "53125675",
+    "53125775",
+    "66524316",
+    "66524340",
+    "66524345",
+    "66524317",
+    "66524318",
+    "66524319",
+    "66524346",
+    "66524320",
+    "66524321",
+    "66524322",
+    "66524323",
+    "66524325",
+    "66524327",
+    "66524328",
+    "66524329",
+    "66524330",
+    "66524299",
+    "66524331",
+    "66524301",
+    "66524302",
+    "53127775",
+    "66524332",
+    "66524341",
+    "66524333",
+    "66524335",
+    "66524336",
+    "66524337",
+    "53128475",
+    "66524338",
+    "66524342",
+    "66524343",
+    "66524344",
+    "53128975",
+    "53129075",
+    "53129175",
+    "53129275",
+    "53129375",
+    "53129575",
+    "66524275"
+   ]
+  },
+  {
+   "date": "2018-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115940705:por",
+     "title": "Lei n.º 40/2018",
+     "published": "2018-08-08",
+     "dre_path": "/dr/detalhe/lei/40-2018-115940705"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 36.º"
+   ],
+   "fragments": [
+    "53123175",
+    "53123275",
+    "53123375",
+    "53123475",
+    "66524303",
+    "53123675",
+    "66524304",
+    "66524339",
+    "53123975",
+    "53124075",
+    "53124175",
+    "66524305",
+    "66524306",
+    "66524287",
+    "66524293",
+    "66524294",
+    "66524308",
+    "66524309",
+    "66524297",
+    "66524310",
+    "53124975",
+    "66524311",
+    "66524312",
+    "53125275",
+    "66524313",
+    "66524315",
+    "66524314",
+    "53125675",
+    "53125775",
+    "66524316",
+    "66524340",
+    "66524345",
+    "66524317",
+    "66524318",
+    "66524319",
+    "66524346",
+    "66524320",
+    "66524321",
+    "66524322",
+    "66524323",
+    "66524325",
+    "66524327",
+    "66524328",
+    "66524329",
+    "66524330",
+    "66524299",
+    "115960780",
+    "66524301",
+    "66524302",
+    "53127775",
+    "66524332",
+    "66524341",
+    "66524333",
+    "66524335",
+    "66524336",
+    "66524337",
+    "53128475",
+    "66524338",
+    "66524342",
+    "66524343",
+    "66524344",
+    "53128975",
+    "53129075",
+    "53129175",
+    "53129275",
+    "53129375",
+    "53129575",
+    "66524275"
+   ]
+  },
+  {
+   "date": "2018-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117503936:por",
+     "title": "Decreto-Lei n.º 120/2018",
+     "published": "2018-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/120-2018-117503936"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 8.º-A",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "53123175",
+    "53123275",
+    "53123375",
+    "53123475",
+    "66524303",
+    "53123675",
+    "66524304",
+    "66524339",
+    "53123975",
+    "53124075",
+    "53124175",
+    "66524305",
+    "117509153",
+    "117509154",
+    "66524293",
+    "66524294",
+    "66524308",
+    "66524309",
+    "66524297",
+    "66524310",
+    "53124975",
+    "66524311",
+    "66524312",
+    "53125275",
+    "66524313",
+    "66524315",
+    "66524314",
+    "53125675",
+    "53125775",
+    "117509155",
+    "66524340",
+    "117509156",
+    "66524317",
+    "66524318",
+    "66524319",
+    "66524346",
+    "66524320",
+    "66524321",
+    "66524322",
+    "66524323",
+    "66524325",
+    "66524327",
+    "66524328",
+    "66524329",
+    "66524330",
+    "66524299",
+    "115960780",
+    "66524301",
+    "66524302",
+    "53127775",
+    "66524332",
+    "66524341",
+    "66524333",
+    "66524335",
+    "66524336",
+    "66524337",
+    "53128475",
+    "66524338",
+    "66524342",
+    "66524343",
+    "66524344",
+    "53128975",
+    "53129075",
+    "53129175",
+    "53129275",
+    "53129375",
+    "53129575",
+    "66524275"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-C"
+   ],
+   "fragments": [
+    "53123175",
+    "53123275",
+    "53123375",
+    "53123475",
+    "66524303",
+    "53123675",
+    "66524304",
+    "66524339",
+    "53123975",
+    "53124075",
+    "53124175",
+    "66524305",
+    "117509153",
+    "117509154",
+    "66524293",
+    "223417637",
+    "223417638",
+    "223417639",
+    "223417640",
+    "223417641",
+    "223417642",
+    "53124975",
+    "66524311",
+    "66524312",
+    "53125275",
+    "66524313",
+    "66524315",
+    "66524314",
+    "53125675",
+    "53125775",
+    "117509155",
+    "66524340",
+    "117509156",
+    "66524317",
+    "66524318",
+    "66524319",
+    "66524346",
+    "66524320",
+    "66524321",
+    "66524322",
+    "66524323",
+    "66524325",
+    "66524327",
+    "66524328",
+    "66524329",
+    "66524330",
+    "66524299",
+    "115960780",
+    "66524301",
+    "66524302",
+    "53127775",
+    "66524332",
+    "66524341",
+    "66524333",
+    "66524335",
+    "66524336",
+    "66524337",
+    "53128475",
+    "66524338",
+    "66524342",
+    "66524343",
+    "66524344",
+    "53128975",
+    "53129075",
+    "53129175",
+    "53129275",
+    "53129375",
+    "53129575",
+    "66524275"
+   ]
+  },
+  {
+   "date": "2023-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:219991255:por",
+     "title": "Lei n.º 45/2023",
+     "published": "2023-08-17",
+     "dre_path": "/dr/detalhe/lei/45-2023-219991255"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º-C"
+   ],
+   "fragments": [
+    "53123175",
+    "53123275",
+    "53123375",
+    "53123475",
+    "66524303",
+    "53123675",
+    "66524304",
+    "66524339",
+    "53123975",
+    "53124075",
+    "53124175",
+    "66524305",
+    "117509153",
+    "117509154",
+    "66524293",
+    "223417643",
+    "223417638",
+    "223417639",
+    "223417640",
+    "223417641",
+    "223417642",
+    "53124975",
+    "66524311",
+    "66524312",
+    "53125275",
+    "66524313",
+    "66524315",
+    "66524314",
+    "53125675",
+    "53125775",
+    "117509155",
+    "66524340",
+    "117509156",
+    "66524317",
+    "66524318",
+    "66524319",
+    "66524346",
+    "66524320",
+    "66524321",
+    "66524322",
+    "66524323",
+    "66524325",
+    "66524327",
+    "66524328",
+    "66524329",
+    "66524330",
+    "66524299",
+    "115960780",
+    "66524301",
+    "66524302",
+    "53127775",
+    "66524332",
+    "66524341",
+    "66524333",
+    "66524335",
+    "66524336",
+    "66524337",
+    "53128475",
+    "66524338",
+    "66524342",
+    "66524343",
+    "66524344",
+    "53128975",
+    "53129075",
+    "53129175",
+    "53129275",
+    "53129375",
+    "53129575",
+    "66524275"
+   ]
+  }
+ ],
+ "fragments": {
+  "53123175": {
+   "fragment_id": "35140375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 34/2004\n\nde 29 de Julho\n\nAltera o regime de acesso ao direito e aos tribunais e transpõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0008\" title=\"Link para Directiva da Comunidade Europeia\">2003/8/CE</a>, do Conselho, de 27 de Janeiro, relativa à melhoria do acesso à justiça nos litígios transfronteiriços através do estabelecimento de regras mínimas comuns relativas ao apoio judiciário no âmbito desses litígios.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "53123275": {
+   "fragment_id": "36269975",
+   "type": 1,
+   "heading": "Capítulo I — Concepção e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Concepção e objectivos"
+  },
+  "53123375": {
+   "fragment_id": "37816275",
+   "type": 11,
+   "heading": "Artigo 1.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Finalidades\n\n1 - O sistema de acesso ao direito e aos tribunais destina-se a assegurar que a ninguém seja dificultado ou impedido, em razão da sua condição social ou cultural, ou por insuficiência de meios económicos, o conhecimento, o exercício ou a defesa dos seus direitos.\n\n2 - Para concretizar os objectivos referidos no número anterior, desenvolver-se-ão acções e mecanismos sistematizados de informação jurídica e de protecção jurídica."
+  },
+  "53123475": {
+   "fragment_id": "37816375",
+   "type": 11,
+   "heading": "Artigo 2.º — Promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Promoção\n\n1 - O acesso ao direito e aos tribunais constitui uma responsabilidade do Estado, a promover, designadamente, através de dispositivos de cooperação com as instituições representativas das profissões forenses.\n\n2 - O acesso ao direito compreende a informação jurídica e a protecção jurídica."
+  },
+  "53123575": {
+   "fragment_id": "37816475",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funcionamento\n\n1 - O sistema de acesso ao direito e aos tribunais funcionará por forma que os serviços prestados aos seus utentes sejam qualificados e eficazes.\n\n2 - O Estado garante uma adequada remuneração bem como o reembolso das despesas realizadas aos profissionais forenses que intervierem no sistema de acesso ao direito e aos tribunais, em termos a regular por portaria conjunta dos Ministros das Finanças e da Justiça.\n\n3 - É vedado aos profissionais forenses que prestem serviços no âmbito do acesso ao direito em qualquer das suas modalidades auferir, com base neles, remuneração diversa da que tiverem direito nos termos da presente lei e da portaria referida no número anterior."
+  },
+  "53123675": {
+   "fragment_id": "36270075",
+   "type": 1,
+   "heading": "Capítulo II — Informação jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Informação jurídica"
+  },
+  "53123775": {
+   "fragment_id": "37816575",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dever de informação\n\nIncumbe ao Estado realizar, de modo permanente e planeado, acções tendentes a tornar conhecido o direito e o ordenamento legal, através de publicação e de outras formas de comunicação, com vista a proporcionar um melhor exercício dos direitos e o cumprimento dos deveres legalmente estabelecidos."
+  },
+  "53123875": {
+   "fragment_id": "37816675",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços de informação jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços de informação jurídica\n\n1 - No âmbito das acções referidas no artigo anterior serão gradualmente criados serviços de acolhimento nos tribunais e serviços judiciários.\n\n2 - Compete à Ordem dos Advogados, com a colaboração do Ministério da Justiça, prestar a informação jurídica, no âmbito da protecção jurídica, nas modalidades de consulta jurídica e apoio judiciário."
+  },
+  "53123975": {
+   "fragment_id": "36270175",
+   "type": 1,
+   "heading": "Capítulo III — Protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Protecção jurídica"
+  },
+  "53124075": {
+   "fragment_id": "37816775",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "53124175": {
+   "fragment_id": "39437775",
+   "type": 11,
+   "heading": "Artigo 6.º — Âmbito de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito de protecção\n\n1 - A protecção jurídica reveste as modalidades de consulta jurídica e de apoio judiciário.\n\n2 - A protecção jurídica é concedida para questões ou causas judiciais concretas ou susceptíveis de concretização em que o utente tenha um interesse próprio e que versem sobre direitos directamente lesados ou ameaçados de lesão.\n\n3 - Lei própria regulará os sistemas destinados à tutela dos interesses colectivos ou difusos e dos direitos só indirecta ou reflexamente lesados ou ameaçados de lesão.\n\n4 - No caso de litígio transfronteiriço, em que os tribunais competentes pertençam a outro Estado da União Europeia, a protecção jurídica abrange ainda o apoio pré-contencioso e os encargos específicos decorrentes do carácter transfronteiriço do litígio, em termos a definir por lei."
+  },
+  "53124275": {
+   "fragment_id": "39437875",
+   "type": 11,
+   "heading": "Artigo 7.º — Ambito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ambito pessoal\n\n1 - Têm direito a protecção jurídica, nos termos da presente lei, os cidadãos nacionais e da União Europeia, bem como os estrangeiros e os apátridas com título de residência válido num Estado membro da União Europeia, que demonstrem estar em situação de insuficiência económica.\n\n2 - Aos estrangeiros sem título de residência válido num Estado membro da União Europeia é reconhecido o direito a protecção jurídica, na medida em que ele seja atribuído aos Portugueses pelas leis dos respectivos Estados.\n\n3 - As pessoas colectivas têm apenas direito à protecção jurídica na modalidade de apoio judiciário, devendo para tal fazer a prova a que alude o n.º 1.\n\n4 - A protecção jurídica não pode ser concedida às pessoas que alienaram ou oneraram todos ou parte dos seus bens para se colocarem em condições de o obter, nem, tratando-se de apoio judiciário, aos cessionários do direito ou objecto controvertido, quando a cessão tenha sido realizada com o propósito de obter aquele benefício.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 242/2018 - Diário da República n.º 109/2018, Série I de 2018-06-07](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/242-2018-115460929) Declara a inconstitucionalidade, com força obrigatória geral, da norma do artigo 7.º, n.º 3, Lei n.º 34/2004, de 29 de julho, na parte em que recusa proteção jurídica a pessoas coletivas com fins lucrativos, sem consideração pela concreta situação económica das mesmas, por violação do artigo 20.º, n.º 1, da Constituição da República Portuguesa"
+  },
+  "53124375": {
+   "fragment_id": "39437975",
+   "type": 11,
+   "heading": "Artigo 8.º — Insuficiência económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Insuficiência económica\n\n1 - Encontra-se em situação de insuficiência económica aquele que, tendo em conta factores de natureza económica e a respectiva capacidade contributiva, não tem condições objectivas para suportar pontualmente os custos de um processo.\n\n2 - O disposto no número anterior aplica-se, com as necessárias adaptações, às pessoas colectivas não referidas no número seguinte.\n\n3 - A insuficiência económica das sociedades, dos comerciantes em nome individual nas causas relativas ao exercício do comércio e dos estabelecimentos individuais de responsabilidade limitada deve ser aferida tendo em conta, designadamente, o volume de negócios, o valor do capital e do património e o número de trabalhadores ao seu serviço e os lucros distribuídos nos três últimos exercícios findos.\n\n4 - Em caso de dúvida sobre a verificação de uma situação de insuficiência económica, pode ser solicitado pelo dirigente máximo do serviço de segurança social que aprecia o pedido que o requerente autorize, por escrito, o acesso a informações e documentos bancários e que estes sejam exibidos perante tal serviço e, quando tal se justifique, perante a administração tributária.\n\n5 - A prova e a apreciação da insuficiência económica devem ser feitas de acordo com os critérios estabelecidos e publicados em anexo à presente lei.\n\n> Nota: [Artigo 21.º, Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936) A alteração introduzida ao presente artigo produz efeitos a partir da data da entrada em vigor do decreto regulamentar nele previsto."
+  },
+  "53124475": {
+   "fragment_id": "39438075",
+   "type": 11,
+   "heading": "Artigo 9.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenções\n\nEstão isentos de impostos, emolumentos e taxas os requerimentos, certidões e quaisquer outros documentos pedidos para fins de protecção jurídica."
+  },
+  "53124575": {
+   "fragment_id": "39438175",
+   "type": 11,
+   "heading": "Artigo 10.º — Cancelamento da protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cancelamento da protecção jurídica\n\n1 - A protecção jurídica é retirada, quer na sua totalidade quer relativamente a alguma das suas modalidades:\n\na) Se o requerente adquirir meios suficientes para poder dispensá-la;\n\nb) Quando se prove por novos documentos a insubsistência das razões pelas quais foi concedida;\n\nc) Se os documentos que serviram de base à concessão forem declarados falsos por decisão com trânsito em julgado;\n\nd) Se, em recurso, for confirmada a condenação do requerente como litigante de má fé;\n\ne) Se, em acção de alimentos provisórios, for atribuída ao requerente uma quantia para custeio da demanda.\n\n2 - No caso da alínea a) do número anterior, o requerente deve declarar, logo que o facto se verifique, que está em condições de dispensar a protecção jurídica em alguma ou em todas as modalidades concedidas, sob pena de ficar sujeito às sanções previstas para a litigância de má fé.\n\n3 - A protecção jurídica pode ser retirada oficiosamente ou a requerimento do Ministério Público, da Ordem dos Advogados, da parte contrária, do patrono nomeado ou do solicitador de execução designado.\n\n4 - O requerente de protecção jurídica é sempre ouvido.\n\n5 - Sendo retirada a protecção jurídica concedida, a decisão é comunicada ao tribunal competente e à Ordem dos Advogados ou à Câmara dos Solicitadores, conforme os casos."
+  },
+  "53124675": {
+   "fragment_id": "39438275",
+   "type": 11,
+   "heading": "Artigo 11.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Caducidade\n\n1 - A protecção jurídica caduca nas seguintes situações:\n\na) Pelo falecimento da pessoa singular ou pela extinção ou dissolução da pessoa colectiva a quem foi concedido, salvo se os sucessores na lide, no incidente da sua habilitação, juntarem cópia do requerimento de apoio judiciário e os mesmos vierem a ser deferidos;\n\nb) Pelo decurso do prazo de um ano após a sua concessão sem que tenha sido prestada consulta ou instaurada acção em juízo, por razão imputável ao requerente.\n\n2 - O apoio judiciário nas modalidade de nomeação e pagamento de honorários de patrono e pagamento faseado de honorários de patrono nomeado é incompatível com o patrocínio pelo Ministério Público nos termos previstos no Código de Processo do Trabalho."
+  },
+  "53124775": {
+   "fragment_id": "39438375",
+   "type": 11,
+   "heading": "Artigo 12.º — Impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Impugnação\n\nDa decisão que determine o cancelamento ou verifique a caducidade da protecção jurídica cabe impugnação judicial, que segue os termos dos artigos 27.º e 28.º"
+  },
+  "53124875": {
+   "fragment_id": "39438475",
+   "type": 11,
+   "heading": "Artigo 13.º — Aquisição de meios económicos suficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aquisição de meios económicos suficientes\n\n1 - Caso se verifique que o requerente de protecção jurídica possuía, à data do pedido, ou adquiriu no decurso da causa ou no prazo de quatro anos após o seu termo, meios económicos suficientes para pagar honorários, despesas, custas, imposto, emolumentos, taxas e quaisquer outros encargos de cujo pagamento haja sido declarado isento, é instaurada acção para cobrança das respectivas importâncias pelo Ministério Público ou por qualquer outro interessado.\n\n2 - Para os efeitos do número anterior, presume-se aquisição de meios económicos suficientes a obtenção de vencimento na acção, ainda que meramente parcial, salvo se, pela sua natureza ou valor, o que se obtenha não possa ser tido em conta na apreciação da insuficiência económica nos termos do artigo 8.º\n\n3 - A acção a que se refere o n.º 1 segue a forma sumaríssima, podendo o juiz condenar no próprio processo, no caso previsto no número anterior.\n\n4 - Para fundamentar a decisão, na acção a que se refere o n.º 1, o tribunal deve pedir parecer à segurança social.\n\n5 - As importâncias cobradas revertem para o Cofre Geral dos Tribunais, sem prejuízo de serem pagos despesas e honorários nos termos de nota apresentada pelo patrono, deduzidos os montantes devidos a título de remuneração de patrono nos termos da presente lei.\n\n6 - O disposto nos números anteriores não prejudica a instauração de procedimento criminal se, para beneficiar da protecção jurídica, o requerente cometer crime."
+  },
+  "53124975": {
+   "fragment_id": "37816875",
+   "type": 8,
+   "heading": "Secção II — Consulta jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Consulta jurídica"
+  },
+  "53125075": {
+   "fragment_id": "39438575",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Âmbito\n\n1 - A consulta jurídica abrange a apreciação liminar da inexistência de fundamento legal da pretensão, para efeito de nomeação de patrono oficioso.\n\n2 - A consulta jurídica pode compreender a realização de diligências extrajudiciais ou comportar mecanismos informais de mediação e conciliação, conforme constar do regulamento dos gabinetes de consulta jurídica.\n\n3 - Da apreciação que conclua pela inexistência de fundamento legal de pretensão cabe reclamação para o conselho distrital da Ordem dos Advogados, que assegura sempre a reapreciação, nos termos do regulamento dos gabinetes de consulta jurídica.\n\n4 - O regulamento referido nos números anteriores é proposto pela Ordem dos Advogados e aprovado por portaria do Ministro da Justiça."
+  },
+  "53125175": {
+   "fragment_id": "39438675",
+   "type": 11,
+   "heading": "Artigo 15.º — Gabinetes de consulta jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Gabinetes de consulta jurídica\n\n1 - Em cooperação com a Ordem dos Advogados e com as autarquias locais interessadas, o Ministério da Justiça garante a existência de gabinetes de consulta jurídica, com vista à gradual cobertura territorial do País.\n\n2 - Os gabinetes de consulta jurídica referidos no número anterior podem abranger a prestação de serviços por solicitadores, em moldes a convencionar entre a respectiva Câmara e a Ordem dos Advogados."
+  },
+  "53125275": {
+   "fragment_id": "37816975",
+   "type": 8,
+   "heading": "Secção III — Apoio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Apoio judiciário"
+  },
+  "53125375": {
+   "fragment_id": "39438775",
+   "type": 11,
+   "heading": "Artigo 16.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Modalidades\n\n1 - O apoio judiciário compreende as seguintes modalidades:\n\na) Dispensa total ou parcial de taxa de justiça e demais encargos com o processo;\n\nb) Nomeação e pagamento de honorários de patrono;\n\nc) Pagamento da remuneração do solicitador de execução designado;\n\nd) Pagamento faseado de taxa de justiça e demais encargos com o processo, de honorários de patrono nomeado e de remuneração do solicitador de execução designado;\n\ne) Pagamento de honorários de defensor oficioso.\n\n2 - Na modalidade referida na alínea d) do número anterior não são exigíveis as prestações que se vençam após o decurso de quatro anos desde o trânsito em julgado da decisão final sobre a causa.\n\n3 - Se o requerente de apoio judiciário for uma pessoa colectiva, estabelecimento individual de responsabilidade limitada ou comerciante em nome individual e a causa for relativa ao exercício do comércio, o apoio judiciário não compreende a modalidade referida na alínea d) do n.º 1.\n\n4 - No caso de pedido de apoio judiciário por residente noutro Estado membro da União Europeia para acção em que tribunais portugueses sejam competentes, o apoio judiciário abrange os encargos específicos decorrentes do carácter transfronteiriço do litígio em termos a definir por lei."
+  },
+  "53125475": {
+   "fragment_id": "39438875",
+   "type": 11,
+   "heading": "Artigo 17.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Âmbito de aplicação\n\n1 - O regime de apoio judiciário aplica-se em todos os tribunais e nos julgados de paz, qualquer que seja a forma do processo.\n\n2 - O regime de apoio judiciário aplica-se, também, com as devidas adaptações, aos processos de contra-ordenações e aos processos de divórcio por mútuo consentimento, cujos termos corram nas conservatórias do registo civil."
+  },
+  "53125575": {
+   "fragment_id": "39438975",
+   "type": 11,
+   "heading": "Artigo 18.º — Oportunidade do pedido de apoio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Oportunidade do pedido de apoio judiciário\n\n1 - O apoio judiciário é concedido independentemente da posição processual que o requerente ocupe na causa e do facto de ter sido já concedido à parte contrária.\n\n2 - O apoio judiciário deve ser requerido antes da primeira intervenção processual, salvo se a situação de insuficiência económica for superveniente ou se, em virtude do decurso do processo, ocorrer um encargo excepcional, suspendendo-se, nestes casos, o prazo para pagamento da taxa de justiça e demais encargos com o processo até à decisão definitiva do pedido de apoio judiciário, aplicando-se o disposto nos n.os 4 e 5 do artigo 24.º\n\n3 - Nos casos referidos no número anterior, o apoio judiciário deve ser requerido antes da primeira intervenção processual que ocorra após o conhecimento da respectiva situação.\n\n4 - O apoio judiciário mantém-se para efeitos de recurso, qualquer que seja a decisão sobre a causa, e é extensivo a todos os processos que sigam por apenso àquele em que essa concessão se verificar, sendo-o também ao processo principal, quando concedido em qualquer apenso.\n\n5 - O apoio judiciário mantém-se ainda para as execuções fundadas em sentença proferida em processo em que essa concessão se tenha verificado.\n\n6 - Declarada a incompetência do tribunal, mantém-se, todavia, a concessão do apoio judiciário, devendo a decisão definitiva ser notificada ao patrono para este se pronunciar sobre a manutenção ou escusa do patrocínio.\n\n7 - No caso de o processo ser desapensado por decisão com trânsito em julgado, o apoio concedido manter-se-á, juntando-se oficiosamente ao processo desapensado certidão da decisão que o concedeu, sem prejuízo do disposto na parte final do número anterior."
+  },
+  "53125675": {
+   "fragment_id": "37817075",
+   "type": 8,
+   "heading": "Secção IV — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Procedimento"
+  },
+  "53125775": {
+   "fragment_id": "39439075",
+   "type": 11,
+   "heading": "Artigo 19.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Legitimidade\n\nA protecção jurídica pode ser requerida:\n\na) Pelo interessado na sua concessão;\n\nb) Pelo Ministério Público em representação do interessado;\n\nc) Por advogado, advogado estagiário ou solicitador, em representação do interessado, bastando para comprovar essa representação as assinaturas conjuntas do interessado e do patrono."
+  },
+  "53125875": {
+   "fragment_id": "39439175",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência para a decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência para a decisão\n\n1 - A decisão sobre a concessão de protecção jurídica compete ao dirigente máximo dos serviços de segurança social da área de residência ou sede do requerente, de acordo com os critérios estabelecidos e publicados em anexo à presente lei, sem prejuízo do disposto no artigo seguinte.\n\n2 - Se os serviços da segurança social, perante um caso concreto, entenderem não dever aplicar o resultado da apreciação efectuada nos termos do número anterior, remetem o pedido, acompanhado de informação fundamentada, para uma comissão constituída por um magistrado designado pelo Conselho Superior da Magistratura, um magistrado do Ministério Público designado pelo Conselho Superior do Ministério Público, um advogado designado pela Ordem dos Advogados e um representante do Ministério da Justiça, a qual decide e remete tal decisão aos serviços da segurança social.\n\n3 - No caso de o requerente não residir ou não ter a sua sede em território nacional, a decisão referida no número anterior compete ao dirigente máximo dos serviços de segurança social onde tiver sido entregue o requerimento.\n\n4 - A competência referida no número anterior é delegável, mas é insusceptível de subdelegação.\n\n> Nota: [Artigo 21.º, Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936) A alteração introduzida ao presente artigo produz efeitos a partir da data da entrada em vigor do decreto regulamentar nele previsto."
+  },
+  "53125975": {
+   "fragment_id": "39439275",
+   "type": 11,
+   "heading": "Artigo 21.º — Juízo sobre a existência de fundamento legal da pretensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Juízo sobre a existência de fundamento legal da pretensão\n\nA nomeação de patrono oficioso, pela Ordem dos Advogados, destinada à propositura de uma acção depende de juízo sobre a existência de fundamento legal da pretensão, feito em sede de consulta jurídica."
+  },
+  "53126075": {
+   "fragment_id": "39439375",
+   "type": 11,
+   "heading": "Artigo 22.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Requerimento\n\n1 - O requerimento de protecção jurídica é apresentado em qualquer serviço de atendimento ao público dos serviços de segurança social.\n\n2 - O requerimento de protecção jurídica é formulado em modelo, a aprovar por portaria dos ministros com a tutela da justiça e da segurança social, que é facultado, gratuitamente, junto da entidade referida no número anterior e pode ser apresentado pessoalmente, por telecópia, por via postal ou por transmissão electrónica, neste caso através do preenchimento do respectivo formulário digital, acessível por ligação e comunicação informática.\n\n3 - Quando o requerimento é apresentado por via postal, o serviço receptor remete ao requerente uma cópia com o carimbo de recepção aposto.\n\n4 - O pedido deve especificar a modalidade de protecção jurídica pretendida, nos termos dos artigos 6.º e 16.º, e, sendo caso disso, quais as modalidades que pretende cumular.\n\n5 - O pedido deve ser feito em duplicado se for apresentado por uma sociedade, estabelecimento individual de responsabilidade limitada ou comerciante em nome individual e a causa for relativa ao exercício do comércio, sendo uma das cópias remetida, pelos serviços de segurança social, ao Ministério Público da comarca da residência ou sede do requerente, a fim de, verificados os pressupostos legais, ser instaurado processo de insolvência ou de recuperação da empresa.\n\n6 - A prova da entrega do requerimento de protecção jurídica pode ser feita:\n\na) Mediante exibição ou entrega de cópia com carimbo de recepção do requerimento apresentado pessoalmente ou por via postal;\n\nb) Por qualquer meio idóneo de certificação mecânica ou electrónica da recepção no serviço competente do requerimento quando enviado por telecópia ou transmissão electrónica.\n\n7 - É da competência dos serviços da segurança social a identificação rigorosa dos elementos referentes aos beneficiários, bem como a identificação precisa do fim a que se destina o apoio judiciário, para os efeitos previstos no n.º 5 do artigo 24.º e nos artigos 30.º e 31.º\n\n> Nota: [Artigo 21.º, Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936) A alteração introduzida ao presente artigo produz efeitos a partir da data da entrada em vigor do decreto regulamentar nele previsto."
+  },
+  "53126175": {
+   "fragment_id": "39439475",
+   "type": 11,
+   "heading": "Artigo 23.º — Audiência prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Audiência prévia\n\nA audiência prévia do requerente de protecção jurídica tem obrigatoriamente lugar no casos em que está proposta uma decisão de indeferimento do pedido formulado, nos termos do Código do Procedimento Administrativo."
+  },
+  "53126275": {
+   "fragment_id": "39439575",
+   "type": 11,
+   "heading": "Artigo 24.º — Autonomia do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Autonomia do procedimento\n\n1 - O procedimento de protecção jurídica na modalidade de apoio judiciário é autónomo relativamente à causa a que respeite, não tendo qualquer repercussão sobre o andamento desta, com excepção do previsto nos números seguintes.\n\n2 - Nos casos previstos no n.º 4 do artigo 467.º do Código de Processo Civil e, bem assim, nos casos em que, independentemente das circunstâncias referidas naquele normativo, está pendente impugnação da decisão relativa à concessão de apoio judiciário e o autor pretende beneficiar deste para dispensa da taxa de justiça, deve juntar à petição inicial documento comprovativo da apresentação do respectivo pedido.\n\n3 - Nos casos previstos no número anterior, o autor deve efectuar o pagamento da taxa de justiça inicial no prazo de 10 dias a contar da data da notificação da decisão que indefira, em definitivo, o pedido de apoio judiciário, sob a cominação prevista no n.º 5 do artigo 467.º do Código de Processo Civil.\n\n4 - Quando o pedido de apoio judiciário é apresentado na pendência de acção judicial e o requerente pretende a nomeação de patrono, o prazo que estiver em curso interrompe-se com a junção aos autos do documento comprovativo da apresentação do requerimento com que é promovido o procedimento administrativo.\n\n5 - O prazo interrompido por aplicação do disposto no número anterior inicia-se, conforme os casos:\n\na) A partir da notificação ao patrono nomeado da sua designação;\n\nb) A partir da notificação ao requerente da decisão de indeferimento do pedido de nomeação de patrono.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 515/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/515-2020-148853507) Declara, com força obrigatória geral, a inconstitucionalidade da norma da al. a) do n.º 5 do presente artigo, por violação dos n.ºs 1 e 4 do art. 20.º da Constituição da República Portuguesa."
+  },
+  "53126375": {
+   "fragment_id": "39439675",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazo\n\n1 - O prazo para a conclusão do procedimento administrativo e decisão sobre o pedido de protecção jurídica é de 30 dias, é contínuo, não se suspende durante as férias judiciais e, se terminar em dia em que os serviços da segurança social estejam encerrados, transfere-se o seu termo para o 1.º dia útil seguinte.\n\n2 - Decorrido o prazo referido no número anterior sem que tenha sido proferida uma decisão, considera-se tacitamente deferido e concedido o pedido de protecção jurídica.\n\n3 - No caso previsto no número anterior é suficiente a menção em tribunal da formação do acto tácito e, quando estiver em causa um pedido de nomeação de patrono, a tramitação subsequente à formação do acto tácito obedecerá às seguintes regras:\n\na) Nos casos em que o pedido tiver sido apresentado na pendência de acção judicial, o tribunal em que a causa está pendente notifica a Ordem dos Advogados para proceder à nomeação do mandatário forense;\n\nb) Nos casos em que o pedido não tiver sido apresentado na pendência de acção judicial, incumbe ao interessado solicitar à Ordem dos Advogados a nomeação do mandatário forense, mediante exibição do documento comprovativo da apresentação do requerimento de protecção jurídica.\n\n4 - Os serviços da segurança social enviam mensalmente relação dos pedidos de protecção jurídica tacitamente deferidos à comissão prevista no n.º 2 do artigo 20.º, à Direcção-Geral da Administração da Justiça, à Ordem dos Advogados, se o pedido envolver a nomeação de patrono, e, se o requerimento tiver sido apresentado na pendência de acção judicial, ao tribunal em que esta se encontra pendente."
+  },
+  "53126475": {
+   "fragment_id": "39439775",
+   "type": 11,
+   "heading": "Artigo 26.º — Notificação e impugnação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Notificação e impugnação da decisão\n\n1 - A decisão final sobre o pedido de protecção jurídica é notificada ao requerente e, se o pedido envolver a designação de patrono, também à Ordem dos Advogados.\n\n2 - A decisão sobre o pedido de protecção jurídica não admite reclamação nem recurso hierárquico ou tutelar, sendo susceptível de impugnação judicial nos termos dos artigos 27.º e 28.º\n\n3 - A decisão a que se refere o artigo 21.º é susceptível de impugnação para o conselho distrital da Ordem dos Advogados territorialmente competente.\n\n4 - Se o requerimento tiver sido apresentado na pendência de acção judicial, a decisão final sobre o pedido de apoio judiciário é notificada ao tribunal em que a acção se encontra pendente, bem como, através deste, à parte contrária.\n\n5 - A parte contrária na acção judicial para que tenha sido concedido apoio judiciário tem legitimidade para impugnar a decisão nos termos do n.º 2."
+  },
+  "53126575": {
+   "fragment_id": "39439875",
+   "type": 11,
+   "heading": "Artigo 27.º — Impugnação judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Impugnação judicial\n\n1 - A impugnação judicial pode ser intentada directamente pelo interessado, não carecendo de constituição de advogado, e deve ser entregue no serviço de segurança social que apreciou o pedido de protecção jurídica ou no conselho distrital da Ordem dos Advogados que negou nomeação de patrono, no prazo de 15 dias após o conhecimento da decisão.\n\n2 - O pedido de impugnação deve ser escrito, mas não carece de ser articulado, sendo apenas admissível prova documental, cuja obtenção pode ser requerida através do tribunal.\n\n3 - Recebida a impugnação, o serviço de segurança social ou o conselho distrital da Ordem dos Advogados dispõe de 10 dias para revogar a decisão sobre o pedido de protecção jurídica ou, mantendo-a, enviar aquela e cópia autenticada do processo administrativo ao tribunal competente."
+  },
+  "53126675": {
+   "fragment_id": "39439975",
+   "type": 11,
+   "heading": "Artigo 28.º — Tribunal competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Tribunal competente\n\n1 - É competente para conhecer e decidir a impugnação o tribunal da comarca em que está sediado o serviço de segurança social que apreciou o pedido de protecção jurídica ou, caso o pedido tenha sido formulado na pendência da acção, o tribunal em que esta se encontra pendente.\n\n2 - Nas comarcas onde existem tribunais judiciais de competência especializada ou de competência específica, a impugnação deve respeitar as respectivas regras de competência.\n\n3 - Se o tribunal se considerar incompetente, remete para aquele que deva conhecer da impugnação e notifica o interessado.\n\n4 - Recebida a impugnação, esta é distribuída, quando for caso disso, e imediatamente conclusa ao juiz, que, por meio de despacho concisamente fundamentado, decide, concedendo ou recusando o provimento, por extemporaneidade ou manifesta inviabilidade.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 637/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/637-2013-503057) Declara, com força obrigatória geral, a inconstitucionalidade da norma constante do n.º 4 do artigo 28.º da Lei n.º 34/2004, de 29 de julho, na interpretação segundo a qual o juiz pode conceder provimento à impugnação apresentada pela parte contrária, nos termos do n.º 5 do artigo 26.º, do mesmo diploma, sem que ao beneficiário do apoio judiciário seja dado conhecimento da impugnação e sem que lhe seja dada possibilidade de a contraditar."
+  },
+  "53126775": {
+   "fragment_id": "39440075",
+   "type": 11,
+   "heading": "Artigo 29.º — Alcance da decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Alcance da decisão final\n\n1 - A decisão que defira o pedido de protecção jurídica especifica as modalidades e a concreta medida do apoio concedido.\n\n2 - Para concretização do benefício de apoio judiciário nas modalidades previstas na alínea a) e na primeira parte da alínea d) do artigo 16.º, deve o autor juntar à petição inicial documento comprovativo da sua concessão ou da apresentação do respectivo pedido.\n\n3 - O disposto no número anterior é aplicável, com as necessárias adaptações, à apresentação das peças processuais ou das notificações a que se referem os artigos 24.º e 26.º do Código das Custas Judiciais.\n\n4 - O indeferimento do pedido de apoio judiciário importa a obrigação do pagamento das custas devidas nos termos do Código das Custas Judiciais, bem como o pagamento ao Cofre Geral dos Tribunais da remuneração devida ao patrono nomeado.\n\n5 - Não havendo decisão final quanto ao pedido de apoio judiciário no momento em que deva ser efectuado o pagamento das custas e encargos do processo judicial, proceder-se-á do seguinte modo:\n\na) No caso de não ser ainda conhecida a decisão do serviço da segurança social competente, fica suspenso o prazo para proceder ao respectivo pagamento até que tal decisão seja comunicada ao requerente;\n\nb) Tendo havido já decisão negativa do serviço da segurança social, o pagamento é devido desde a data da sua comunicação ao requerente, de acordo com o disposto no Código das Custas Judiciais, sem prejuízo do posterior reembolso das quantias pagas no caso de procedência da impugnação daquela decisão."
+  },
+  "53126875": {
+   "fragment_id": "39440175",
+   "type": 11,
+   "heading": "Artigo 30.º — Nomeação de patrono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Nomeação de patrono\n\n1 - Nos casos em que é concedido apoio judiciário, na modalidade de nomeação de patrono, compete à Ordem dos Advogados a escolha e nomeação de advogado, de acordo com os respectivos estatutos, regras processuais e regulamentos internos.\n\n2 - A nomeação de patrono deve, em regra, recair em advogado com escritório na comarca onde o processo corre termos.\n\n3 - Na observância dos estatutos, regras processuais e regulamentos internos da Câmara dos Solicitadores, a nomeação pode igualmente recair sobre solicitador, em moldes a convencionar entre a respectiva Câmara e a Ordem dos Advogados.\n\n4 - Para concretização do disposto no n.º 1, a nomeação de patrono é feita no prazo de 15 dias contados a partir da notificação referida no n.º 1 do artigo 26.º, salvo quando haja lugar ao juízo referido no artigo 21.º, em que o prazo é de 30 dias.\n\n5 - Sem prejuízo do disposto no número anterior, o conselho distrital da Ordem dos Advogados pode impugnar a decisão que deferiu o pedido de apoio judiciário, nos termos dos artigos 27.º e 28.º"
+  },
+  "53126975": {
+   "fragment_id": "39440275",
+   "type": 11,
+   "heading": "Artigo 31.º — Notificação da nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Notificação da nomeação\n\n1 - A nomeação de patrono é notificada pela Ordem dos Advogados ao requerente e ao patrono nomeado e, nos casos previstos no n.º 4 do artigo 26.º, para além de ser feita com a expressa advertência do início do prazo judicial, é igualmente comunicada ao tribunal.\n\n2 - A notificação da decisão de nomeação do patrono é feita com menção expressa, quanto ao requerente, do nome e escritório do patrono bem como do dever de lhe dar colaboração, sob pena de o apoio judiciário lhe ser retirado.\n\n3 - A comunicação ao tribunal referida no n.º 1 pode ser realizada por via postal, por telecópia ou por meios telemáticos.\n\n4 - A notificação da decisão de nomeação de patrono, cumprido o disposto no artigo 21.º, é feita em sede de consulta jurídica, entregando-se ao beneficiário do apoio judiciário cópia da notificação a que se alude no n.º 2, devendo a mesma ser assinada por este."
+  },
+  "53127075": {
+   "fragment_id": "39440375",
+   "type": 11,
+   "heading": "Artigo 32.º — Substituição do patrono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Substituição do patrono\n\n1 - O beneficiário do apoio judiciário pode, em qualquer processo, requerer à Ordem dos Advogados a substituição do patrono nomeado, fundamentando o seu pedido.\n\n2 - Deferido o pedido de substituição, aplicam-se, com as devidas adaptações, os termos dos artigos 34.º e seguintes."
+  },
+  "53127175": {
+   "fragment_id": "39440475",
+   "type": 11,
+   "heading": "Artigo 33.º — Prazo de propositura da acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Prazo de propositura da acção\n\n1 - O patrono nomeado para a propositura da acção deve intentá-la nos 30 dias seguintes à notificação da nomeação, apresentando justificação à Ordem dos Advogados no caso de não instauração da acção naquele prazo.\n\n2 - O patrono nomeado pode requerer à Ordem dos Advogados a prorrogação do prazo previsto no número anterior, fundamentando o pedido.\n\n3 - Quando não for apresentada justificação, ou esta não for julgada satisfatória, a Ordem dos Advogados notifica o conselho de deontologia junto do conselho distrital onde o patrono nomeado se encontra inscrito, para que proceda à apreciação de eventual responsabilidade disciplinar, competindo à Ordem dos Advogados a nomeação de novo patrono ao requerente nos termos previstos no n.º 5 do artigo 34.º\n\n4 - A acção considera-se proposta na data em que for apresentado o pedido de nomeação de patrono."
+  },
+  "53127275": {
+   "fragment_id": "39440575",
+   "type": 11,
+   "heading": "Artigo 34.º — Pedido de escusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Pedido de escusa\n\n1 - O patrono nomeado pode pedir escusa, mediante requerimento dirigido ao presidente do conselho distrital da Ordem dos Advogados ou ao presidente da secção da Câmara dos Solicitadores, no qual se contenha a alegação dos motivos da escusa.\n\n2 - O pedido de escusa, formulado nos termos do número anterior e apresentado na pendência do processo, interrompe o prazo que estiver em curso, com a junção dos respectivos autos de documento comprovativo do referido pedido, aplicando-se o disposto no n.º 5 do artigo 24.º\n\n3 - O patrono nomeado deve comunicar no processo o facto de ter dirigido ao conselho distrital o pedido de escusa, para os efeitos previstos no n.º 2.\n\n4 - A Ordem dos Advogados ou a Câmara dos Solicitadores aprecia e delibera sobre o pedido de escusa no prazo de 15 dias.\n\n5 - Sendo concedida a escusa, a Ordem dos Advogados procede imediatamente à nomeação e designação de novo patrono, excepto no caso de fundamento do pedido de escusa ser a inexistência de fundamento legal da pretensão, caso em que pode recusar nova nomeação para o mesmo fim.\n\n6 - O disposto nos n.os 1 a 4 aplica-se aos casos de escusa por circunstâncias supervenientes."
+  },
+  "53127375": {
+   "fragment_id": "39440675",
+   "type": 11,
+   "heading": "Artigo 35.º — Substituição em diligência processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Substituição em diligência processual\n\n1 - O patrono nomeado pode substabelecer, com reserva, para diligência determinada, indicando logo o seu substituto ou pedindo à Ordem dos Advogados que proceda à nomeação do substituto.\n\n2 - O patrono nomeado deve comunicar à Ordem dos Advogados os precisos termos da realização do substabelecimento, justificando a conveniência do mesmo.\n\n3 - Quando não for apresentada comunicação, o conselho de deontologia junto do conselho distrital onde o patrono nomeado estiver inscrito procede à apreciação de eventual responsabilidade disciplinar."
+  },
+  "53127475": {
+   "fragment_id": "39440775",
+   "type": 11,
+   "heading": "Artigo 36.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Encargos\n\nSempre que haja um processo judicial, os encargos decorrentes da concessão de protecção jurídica, em qualquer das suas modalidades, são levados a regra de custas a final."
+  },
+  "53127575": {
+   "fragment_id": "39440875",
+   "type": 11,
+   "heading": "Artigo 37.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regime subsidiário\n\nSão aplicáveis ao procedimento de concessão de protecção jurídica as disposições do Código do Procedimento Administrativo em tudo o que não esteja especialmente regulado na presente lei."
+  },
+  "53127675": {
+   "fragment_id": "39440975",
+   "type": 11,
+   "heading": "Artigo 38.º — Contagem de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Contagem de prazos\n\nAos prazos processuais previstos na presente lei aplicam-se as disposições da lei processual civil."
+  },
+  "53127775": {
+   "fragment_id": "36270275",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições especiais sobre processo penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições especiais sobre processo penal"
+  },
+  "53127875": {
+   "fragment_id": "37817175",
+   "type": 11,
+   "heading": "Artigo 39.º — Nomeação de defensor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Nomeação de defensor\n\n1 - A nomeação do defensor ao arguido, a dispensa de patrocínio e a substituição são feitas nos termos do Código de Processo Penal e em conformidade com os artigos seguintes.\n\n2 - A nomeação é antecedida da advertência ao arguido do seu direito a escolher e constituir defensor e a requerer a concessão de apoio judiciário, podendo neste caso escolher de acordo com as disponibilidades de patrocínio a assegurar em regulamento aprovado pela Ordem dos Advogados, e que, não constituindo defensor, nem requerendo a concessão de apoio judiciário, ou este não lhe sendo concedido, pode ser responsável pelo pagamento dos honorários do defensor, bem como das despesas em que este incorrer com a sua defesa.\n\n3 - Nos casos em que o arguido não tiver escolhido defensor ou requerido e obtido apoio judiciário, no final do processo, deve o tribunal, tendo em atenção adequada ponderação da suficiência económica e as circunstâncias do caso, imputar-lhe o pagamento de taxa de justiça e demais encargos do processo, incluindo o pagamento dos honorários do defensor oficioso, nos termos legais.\n\n4 - O requerimento para a concessão de apoio judiciário não afecta a marcha do processo."
+  },
+  "53127975": {
+   "fragment_id": "37817275",
+   "type": 11,
+   "heading": "Artigo 40.º — Escolha de advogado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Escolha de advogado\n\n1 - A autoridade judiciária a quem incumbir a nomeação disponibiliza ao arguido listas de advogados para efeitos da escolha de defensor.\n\n2 - As listas referidas no número anterior são elaboradas nos termos do regulamento previsto no n.º 2 do artigo anterior, aprovado pela Ordem dos Advogados."
+  },
+  "53128075": {
+   "fragment_id": "37817375",
+   "type": 11,
+   "heading": "Artigo 41.º — Escalas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Escalas\n\n1 - Para a assistência ao primeiro interrogatório de arguido detido ou para audiência em processo sumário ou outras diligências urgentes previstas no Código de Processo Penal, a nomeação recai em defensor escolhido, independentemente da indicação prevista no artigo anterior.\n\n2 - A Ordem dos Advogados deve, para os efeitos da nomeação prevista no número anterior, organizar escalas de presenças de advogados, comunicando-as aos tribunais.\n\n3 - A nomeação deve recair em defensor que, constando das escalas, se encontre presente.\n\n4 - O defensor nomeado para um acto mantém-se para os actos subsequentes do processo, salvo se o defensor nomeado requerer a sua substituição, nos termos do artigo 35.º"
+  },
+  "53128175": {
+   "fragment_id": "37817475",
+   "type": 11,
+   "heading": "Artigo 42.º — Dispensa de patrocínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Dispensa de patrocínio\n\n1 - O advogado nomeado defensor pode pedir dispensa de patrocínio invocando fundamento que considere justo.\n\n2 - O tribunal decide no prazo de cinco dias após audição da Ordem dos Advogados, que se deve pronunciar, igualmente, em cinco dias.\n\n3 - Enquanto não for substituído, o defensor nomeado para um acto mantém-se para os actos subsequentes do processo.\n\n4 - Se o fundamento invocado para pedir a dispensa for a salvaguarda do segredo profissional, proceder-se-á em termos análogos aos do artigo 34.º\n\n5 - O tribunal pode, em caso de urgência, nomear outro defensor até que a Ordem dos Advogados se pronuncie."
+  },
+  "53128275": {
+   "fragment_id": "37817575",
+   "type": 11,
+   "heading": "Artigo 43.º — Constituição de mandatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Constituição de mandatário\n\n1 - Cessam as funções do defensor nomeado sempre que o arguido constitua mandatário.\n\n2 - O defensor nomeado não pode aceitar mandato do mesmo arguido, salvo se após a sua nomeação vier a ser recusada a concessão de apoio judiciário, implicando a aceitação do mandato a renúncia ao pagamento de qualquer quantia a título de honorários ou reembolso de despesas efectuadas enquanto defensor nomeado."
+  },
+  "53128375": {
+   "fragment_id": "37817675",
+   "type": 11,
+   "heading": "Artigo 44.º — Disposições aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Disposições aplicáveis\n\n1 - Em tudo o que não esteja especialmente regulado no presente capítulo relativamente à concessão de protecção jurídica ao arguido em processo penal aplicam-se, com as necessárias adaptações, as disposições do capítulo anterior, com excepção do disposto nos n.os 2 e 3 do artigo 18.º, devendo o apoio judiciário ser requerido até ao trânsito em julgado da decisão final.\n\n2 - Ao pedido de protecção jurídica por quem pretenda constituir-se assistente ou formular ou contestar pedido de indemnização cível em processo penal aplica-se o disposto no capítulo anterior, com as necessárias adaptações."
+  },
+  "53128475": {
+   "fragment_id": "36270375",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "53128575": {
+   "fragment_id": "37817775",
+   "type": 11,
+   "heading": "Artigo 45.º — Competências da Ordem dos Advogados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Competências da Ordem dos Advogados\n\n1 - Sem prejuízo das competências próprias dos serviços da segurança social, a Ordem dos Advogados poderá exercer as competências previstas nesta lei, nos exactos termos nela consagrados, por meio de unidade orgânica própria destinada a gerir o sistema de acesso ao direito, com autonomia funcional e organizacional relativamente às suas restantes atribuições.\n\n2 - A Ordem dos Advogados pode prever, ainda, no âmbito da regulamentação da unidade orgânica prevista no número anterior, a participação dos advogados estagiários, tendo em vista a prossecução dos interesses específicos da formação e do acesso à profissão de advogado.\n\n3 - As regras sobre selecção dos profissionais forenses envolvidos respeitarão os princípios aplicáveis às entidades públicas e serão definidas por regulamento da Ordem dos Advogados, homologado pelo Ministro da Justiça.\n\n4 - O Estado financia a Ordem dos Advogados no exercício das competências previstas nesta lei de acordo com regras a definir por portaria conjunta dos Ministros das Finanças e da Justiça.\n\n5 - Sem prejuízo das competências do Tribunal de Contas, o Ministério da Justiça fiscaliza a utilização das verbas transferidas para a Ordem dos Advogados através de representante nomeado para uma comissão de fiscalização a criar junto da Ordem dos Advogados, no âmbito do organismo referido no n.º 1."
+  },
+  "53128675": {
+   "fragment_id": "37817875",
+   "type": 11,
+   "heading": "Artigo 46.º — Colaboração de outras instituições com a Ordem dos Advogados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Colaboração de outras instituições com a Ordem dos Advogados\n\nA Ordem dos Advogados pode solicitar às instituições envolvidas no regime de acesso ao direito, designadamente à Câmara dos Solicitadores, a intervenção e colaboração adequada ao exercício das suas competências."
+  },
+  "53128775": {
+   "fragment_id": "37817975",
+   "type": 11,
+   "heading": "Artigo 47.º — Gabinetes de consulta jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Gabinetes de consulta jurídica\n\nOs gabinetes de consulta jurídica actualmente existentes no quadro de aplicação do artigo 15.º são integrados no regime de consulta disposto na presente lei."
+  },
+  "53128875": {
+   "fragment_id": "37818075",
+   "type": 11,
+   "heading": "Artigo 48.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Comissão de acompanhamento\n\nA avaliação periódica da execução do disposto na presente lei é assegurada por uma comissão de acompanhamento constituída por dois representantes do Ministério da Justiça, um representante do Ministério das Finanças, um representante do Ministério da Segurança Social e do Trabalho e um representante da Ordem dos Advogados."
+  },
+  "53128975": {
+   "fragment_id": "37818175",
+   "type": 11,
+   "heading": "Artigo 49.º — Encargos da segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Encargos da segurança social\n\nOs encargos decorrentes da presente lei a assumir pelos serviços da segurança social são suportados pelo Orçamento do Estado, mediante transferência das correspondentes verbas para o orçamento da segurança social."
+  },
+  "53129075": {
+   "fragment_id": "37818275",
+   "type": 11,
+   "heading": "Artigo 50.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Norma revogatória\n\nÉ revogada a Lei n.º 30-E/2000, de 20 de Dezembro."
+  },
+  "53129175": {
+   "fragment_id": "37818375",
+   "type": 11,
+   "heading": "Artigo 51.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Regime transitório\n\n1 - As alterações introduzidas pela presente lei aplicam-se apenas aos pedidos de apoio judiciário que sejam formulados após o dia 1 de Setembro de 2004.\n\n2 - Aos processos de apoio judiciário iniciados até à entrada em vigor da presente lei é aplicável o regime legal anterior.\n\n3 - Nos processos judiciais pendentes em 1 de Setembro de 2004 em que ainda não tenha sido requerido o benefício de apoio judiciário, este poderá ser requerido até ao trânsito em julgado da decisão final."
+  },
+  "53129275": {
+   "fragment_id": "37818475",
+   "type": 11,
+   "heading": "Artigo 52.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Transposição\n\nA presente lei efectua a transposição parcial da Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0008\" title=\"Link para Directiva da Comunidade Europeia\">2003/8/CE</a>, do Conselho, de 27 de Janeiro, relativa à melhoria do acesso à justiça nos litígios transfronteiriços, através do estabelecimento de regras mínimas comuns relativas ao apoio judiciário no âmbito desses litígios."
+  },
+  "53129375": {
+   "fragment_id": "37818575",
+   "type": 11,
+   "heading": "Artigo 53.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de Setembro de 2004, salvo o n.º 4 do artigo 6.º e o n.º 4 do artigo 16.º, que entram em vigor no dia 30 de Novembro de 2004."
+  },
+  "53129475": {
+   "fragment_id": "36270475",
+   "type": 14,
+   "heading": "Anexo — I - Apreciação da insuficiência económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — I - Apreciação da insuficiência económica\n\n1 - A insuficiência económica é apreciada da seguinte forma:\n\na) O requerente cujo agregado familiar tem um rendimento relevante para efeitos de protecção jurídica igual ou menor do que um quinto do salário mínimo nacional não tem condições objectivas para suportar qualquer quantia relacionada com os custos de um processo;\n\nb) O requerente cujo agregado familiar tem um rendimento relevante para efeitos de protecção jurídica superior a um quinto e igual ou menor do que metade do valor do salário mínimo nacional considera-se que tem condições objectivas para suportar os custos da consulta jurídica e por conseguinte não deve beneficiar de consulta jurídica gratuita, devendo, todavia, usufruir do benefício de apoio judiciário;\n\nc) O requerente cujo agregado familiar tem um rendimento relevante para efeitos de protecção jurídica superior a metade e igual ou menor do que duas vezes o valor do salário mínimo nacional tem condições objectivas para suportar os custos da consulta jurídica, mas não tem condições objectivas para suportar pontualmente os custos de um processo e, por esse motivo, deve beneficiar do apoio judiciário na modalidade de pagamento faseado, previsto na alínea d) do n.º 1 do artigo 16.º da presente lei;\n\nd) Não se encontra em situação de insuficiência económica o requerente cujo agregado familiar tem um rendimento relevante para efeitos de protecção jurídica superior a duas vezes o valor do salário mínimo nacional.\n\n2 - Se o valor dos créditos depositados em contas bancárias e o montante de valores mobiliários admitidos à negociação em mercado regulamentado de que o requerente ou qualquer membro do seu agregado familiar sejam titulares forem superiores a 40 vezes o valor do salário mínimo nacional, considera-se que o requerente de protecção jurídica não se encontra em situação de insuficiência económica, independentemente do valor do rendimento do agregado familiar.\n\n3 - Para os efeitos desta lei, considera-se que pertencem ao mesmo agregado familiar as pessoas que vivam em economia comum com o requerente de protecção jurídica.\n\nII - Cálculo do montante da prestação mensal na modalidade de pagamento faseado\n\nNos termos da alínea c) do n.º 1 do n.º I, o valor da prestação mensal do pagamento faseado de taxa de justiça e demais encargos com o processo, de honorários de patrono nomeado e de remuneração do solicitador de execução designado é o seguinte:\n\na) 1/72 do valor anual do rendimento relevante para efeitos de protecção jurídica, se este for igual ou inferior ao valor do salário mínimo nacional;\n\nb) 1/36 do valor anual do rendimento relevante para efeitos de protecção jurídica, se este for superior ao valor do salário mínimo nacional."
+  },
+  "66524303": {
+   "fragment_id": "37816475",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Funcionamento\n\n1 - O sistema de acesso ao direito e aos tribunais funcionará por forma que os serviços prestados aos seus utentes sejam qualificados e eficazes.\n\n2 - O Estado garante uma adequada compensação aos profissionais forenses que participem no sistema de acesso ao direito e aos tribunais.\n\n3 - É vedado aos profissionais forenses que prestem serviços no âmbito do acesso ao direito em qualquer das suas modalidades auferir, com base neles, remuneração diversa da que tiverem direito nos termos da presente lei e da portaria referida no n.º 2 do artigo 45.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524304": {
+   "fragment_id": "37816575",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever de informação",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Dever de informação\n\n1 - Incumbe ao Estado realizar, de modo permanente e planeado, acções tendentes a tornar conhecido o direito e o ordenamento legal, através de publicação e de outras formas de comunicação, com vista a proporcionar um melhor exercício dos direitos e o cumprimento dos deveres legalmente estabelecidos.\n\n2 - A informação jurídica é prestada pelo Ministério da Justiça, em colaboração com todas as entidades interessadas, podendo ser celebrados protocolos para esse efeito.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524339": {
+   "fragment_id": "37816675",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços de informação jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Serviços de informação jurídica\n\n1 - No âmbito das acções referidas no artigo anterior serão gradualmente criados serviços de acolhimento nos tribunais e serviços judiciários.\n\n2 - Compete à Ordem dos Advogados, com a colaboração do Ministério da Justiça, prestar a informação jurídica, no âmbito da protecção jurídica, nas modalidades de consulta jurídica e apoio judiciário.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524305": {
+   "fragment_id": "39437875",
+   "type": 11,
+   "heading": "Artigo 7.º — Ambito pessoal",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Ambito pessoal\n\n1 - Têm direito a protecção jurídica, nos termos da presente lei, os cidadãos nacionais e da União Europeia, bem como os estrangeiros e os apátridas com título de residência válido num Estado membro da União Europeia, que demonstrem estar em situação de insuficiência económica.\n\n2 - Aos estrangeiros sem título de residência válido num Estado membro da União Europeia é reconhecido o direito a protecção jurídica, na medida em que ele seja atribuído aos Portugueses pelas leis dos respectivos Estados.\n\n3 - As pessoas colectivas com fins lucrativos e os estabelecimentos individuais de responsabilidade limitada não têm direito a protecção jurídica.\n\n4 - As pessoas colectivas sem fins lucrativos têm apenas direito à protecção jurídica na modalidade de apoio judiciário devendo, para tal, fazer a prova a que alude o n.º 1.\n\n5 - A protecção jurídica não pode ser concedida às pessoas que alienaram ou oneraram todos ou parte dos seus bens para se colocarem em condições de o obter, nem, tratando-se de apoio judiciário, aos cessionários do direito ou objecto controvertido, quando a cessão tenha sido realizada com o propósito de obter aquele benefício.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524306": {
+   "fragment_id": "39437975",
+   "type": 11,
+   "heading": "Artigo 8.º — Insuficiência económica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Insuficiência económica\n\n1 - Encontra-se em situação de insuficiência económica aquele que, tendo em conta o rendimento, o património e a despesa permanente do seu agregado familiar, não tem condições objectivas para suportar pontualmente os custos de um processo.\n\n2 - O disposto no número anterior aplica-se, com as necessárias adaptações, às pessoas colectivas sem fins lucrativos.\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n5 - (Revogado) .\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524287": {
+   "fragment_id": "66507602",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Apreciação da insuficiência económica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Apreciação da insuficiência económica\n\n1 - A insuficiência económica das pessoas singulares é apreciada de acordo com os seguintes critérios:\n\na) O requerente cujo agregado familiar tenha um rendimento relevante para efeitos de protecção jurídica igual ou inferior a três quartos do indexante de apoios sociais não tem condições objectivas para suportar qualquer quantia relacionada com os custos de um processo, devendo igualmente beneficiar de atribuição de agente de execução e de consulta jurídica gratuita;\n\nb) O requerente cujo agregado familiar tenha um rendimento relevante para efeitos de protecção jurídica superior a três quartos e igual ou inferior a duas vezes e meia o valor do indexante de apoios sociais tem condições objectivas para suportar os custos de uma consulta jurídica sujeita ao pagamento prévio de uma taxa, mas não tem condições objectivas para suportar pontualmente os custos de um processo e, por esse motivo, beneficia de apoio judiciário nas modalidades de pagamento faseado e de atribuição de agente de execução;\n\nc) Não se encontra em situação de insuficiência económica o requerente cujo agregado familiar tenha um rendimento relevante para efeitos de protecção jurídica superior a duas vezes e meia o valor do indexante de apoios sociais.\n\n2 - O rendimento relevante para efeitos de protecção jurídica é o montante que resulta da diferença entre o valor do rendimento líquido completo do agregado familiar e o valor da dedução relevante para efeitos de protecção jurídica e calcula-se nos termos previstos no anexo à presente lei.\n\n3 - Considera-se que pertencem ao mesmo agregado familiar as pessoas que vivam em economia comum com o requerente de protecção jurídica.\n\n4 - O valor da taxa devida pela prestação da consulta jurídica a que se refere a alínea b) do n.º 1 é fixado por portaria do membro do Governo responsável pela área da justiça.\n\n5 - Se o valor dos créditos depositados em contas bancárias e o montante de valores mobiliários admitidos à negociação em mercado regulamentado de que o requerente ou qualquer membro do seu agregado familiar sejam titulares forem superiores a 24 vezes o valor do indexante de apoios sociais, considera-se que o requerente de protecção jurídica não se encontra em situação de insuficiência económica, independentemente do valor do rendimento relevante para efeitos de protecção jurídica do agregado familiar.\n\n6 - O requerente pode solicitar, excepcionalmente e por motivo justificado, que a apreciação da insuficiência económica tenha em conta apenas o rendimento, o património e a despesa permanente próprios ou dele e de alguns elementos do seu agregado familiar.\n\n7 - Em caso de litígio com um ou mais elementos do agregado familiar, a apreciação da insuficiência económica tem em conta apenas o rendimento, o património e a despesa permanente do requerente ou dele e de alguns elementos do seu agregado familiar, desde que ele o solicite.\n\n8 - Se, perante um caso concreto, o dirigente máximo dos serviços de segurança social competente para a decisão sobre a concessão de protecção jurídica entender que a aplicação dos critérios previstos nos números anteriores conduz a uma manifesta negação do acesso ao direito e aos tribunais pode, por despacho especialmente fundamentado e sem possibilidade de delegação, decidir de forma diversa daquela que resulta da aplicação dos referidos critérios.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524293": {
+   "fragment_id": "66507603",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Prova da insuficiência económica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-B — Prova da insuficiência económica\n\n1 - A prova da insuficiência económica é feita nos termos a definir por portaria conjunta dos ministros responsáveis pelas áreas da justiça e da segurança social.\n\n2 - Em caso de dúvida sobre a verificação de uma situação de insuficiência económica, pode ser solicitado pelo dirigente máximo do serviço de segurança social que aprecia o pedido que o requerente autorize, por escrito, o acesso a informações e documentos bancários e que estes sejam exibidos perante esse serviço e, quando tal se justifique, perante a administração tributária.\n\n3 - Se todos os elementos necessários à prova da insuficiência económica não forem entregues com o requerimento de protecção jurídica, os serviços da segurança social notificam o interessado, com referência expressa à cominação prevista no número seguinte, para que este os apresente no prazo de 10 dias, suspendendo-se o prazo para a formação de acto tácito.\n\n4 - No termo do prazo referido no número anterior, se o interessado não tiver procedido à apresentação de todos os elementos de prova necessários, o requerimento é indeferido, sem necessidade de proceder a nova notificação ao requerente.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524294": {
+   "fragment_id": "39438075",
+   "type": 11,
+   "heading": "Artigo 9.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenções\n\nEstão isentos de impostos, emolumentos e taxas os requerimentos, certidões e quaisquer outros documentos pedidos para fins de protecção jurídica."
+  },
+  "66524308": {
+   "fragment_id": "39438175",
+   "type": 11,
+   "heading": "Artigo 10.º — Cancelamento da protecção jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Cancelamento da protecção jurídica\n\n1 - A protecção jurídica é cancelada, quer na sua totalidade quer relativamente a alguma das suas modalidades:\n\na) Se o requerente ou o respectivo agregado familiar adquirir meios suficientes para poder dispensá-la;\n\nb) Quando se prove por novos documentos a insubsistência das razões pelas quais foi concedida;\n\nc) Se os documentos que serviram de base à concessão forem declarados falsos por decisão com trânsito em julgado;\n\nd) Se, em recurso, for confirmada a condenação do requerente como litigante de má fé;\n\ne) Se, em acção de alimentos provisórios, for atribuída ao requerente uma quantia para custeio da demanda.\n\nf) Se o requerente a quem tiver sido concedido apoio judiciário em modalidade de pagamento faseado não proceder ao pagamento de uma prestação e mantiver esse incumprimento no termo do prazo que lhe for concedido para proceder ao pagamento em falta acrescido de multa equivalente à prestação em falta.\n\n2 - No caso da alínea a) do número anterior, o requerente deve declarar, logo que o facto se verifique, que está em condições de dispensar a protecção jurídica em alguma ou em todas as modalidades concedidas, sob pena de ficar sujeito às sanções previstas para a litigância de má fé.\n\n3 - A protecção jurídica pode ser cancelada oficiosamente pelos serviços da segurança social ou a requerimento do Ministério Público, da Ordem dos Advogados, da parte contrária, do patrono nomeado ou do agente de execução atribuído.\n\n4 - O requerente de protecção jurídica é sempre ouvido.\n\n5 - Sendo cancelada a protecção jurídica concedida, a decisão é comunicada ao tribunal competente e à Ordem dos Advogados ou à Câmara dos Solicitadores, conforme os casos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524309": {
+   "fragment_id": "39438275",
+   "type": 11,
+   "heading": "Artigo 11.º — Caducidade",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Caducidade\n\n1 - A protecção jurídica caduca nas seguintes situações:\n\na) Pelo falecimento da pessoa singular ou pela extinção ou dissolução da pessoa colectiva a quem foi concedido, salvo se os sucessores na lide, no incidente da sua habilitação, juntarem cópia do requerimento de apoio judiciário e os mesmos vierem a ser deferidos;\n\nb) Pelo decurso do prazo de um ano após a sua concessão sem que tenha sido prestada consulta ou instaurada acção em juízo, por razão imputável ao requerente.\n\n2 - O apoio judiciário nas modalidades de nomeação e pagamento de honorários de patrono e de nomeação e pagamento faseado de honorários de patrono é incompatível com o patrocínio pelo Ministério Público nos termos previstos no Código de Processo do Trabalho.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524297": {
+   "fragment_id": "39438375",
+   "type": 11,
+   "heading": "Artigo 12.º — Impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Impugnação\n\nDa decisão que determine o cancelamento ou verifique a caducidade da protecção jurídica cabe impugnação judicial, que segue os termos dos artigos 27.º e 28.º"
+  },
+  "66524310": {
+   "fragment_id": "39438475",
+   "type": 11,
+   "heading": "Artigo 13.º — Aquisição de meios económicos suficientes",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Aquisição de meios económicos suficientes\n\n1 - Caso se verifique que o requerente de protecção jurídica possuía, à data do pedido, ou adquiriu no decurso da causa ou no prazo de quatro anos após o seu termo, meios económicos suficientes para pagar honorários, despesas, custas, imposto, emolumentos, taxas e quaisquer outros encargos de cujo pagamento haja sido declarado isento, é instaurada acção para cobrança das respectivas importâncias pelo Ministério Público ou por qualquer outro interessado.\n\n2 - Para os efeitos do número anterior, presume-se aquisição de meios económicos suficientes a obtenção de vencimento na acção, ainda que meramente parcial, salvo se, pela sua natureza ou valor, o que se obtenha não possa ser tido em conta na apreciação da insuficiência económica nos termos do artigo 8.º\n\n3 - A acção a que se refere o n.º 1 segue a forma sumaríssima, podendo o juiz condenar no próprio processo, no caso previsto no número anterior.\n\n4 - Para fundamentar a decisão, na acção a que se refere o n.º 1, o tribunal deve pedir parecer à segurança social.\n\n5 - As importâncias cobradas revertem para o Instituto de Gestão Financeira e de Infra-Estruturas de Justiça, I. P.\n\n6 - O disposto nos números anteriores não prejudica a instauração de procedimento criminal se, para beneficiar da protecção jurídica, o requerente cometer crime.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524311": {
+   "fragment_id": "39438575",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Âmbito\n\n1 - A consulta jurídica consiste no esclarecimento técnico sobre o direito aplicável a questões ou casos concretos nos quais avultem interesses pessoais legítimos ou direitos próprios lesados ou ameaçados de lesão.\n\n2 - No âmbito da consulta jurídica cabem ainda as diligências extrajudiciais que decorram directamente do conselho jurídico prestado ou que se mostrem essenciais para o esclarecimento da questão colocada.\n\n3 - (Revogado).\n\n4 - (Revogado) .\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524312": {
+   "fragment_id": "39438675",
+   "type": 11,
+   "heading": "Artigo 15.º — Prestação da consulta jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Prestação da consulta jurídica\n\n1 - A consulta jurídica pode ser prestada em gabinetes de consulta jurídica ou nos escritórios dos advogados que adiram ao sistema de acesso ao direito.\n\n2 - A prestação de consulta jurídica deve, tendencialmente, cobrir todo o território nacional.\n\n3 - A criação de gabinetes de consulta jurídica, bem como as suas regras de funcionamento, são aprovadas por portaria do membro do Governo responsável pela área da justiça, ouvida a Ordem dos Advogados.\n\n4 - Os gabinetes de consulta jurídica podem abranger a prestação de serviços por solicitadores, em moldes a convencionar entre a Câmara dos Solicitadores, a Ordem dos Advogados e o Ministério da Justiça.\n\n5 - O disposto nos números anteriores não obsta à prestação de consulta jurídica por outras entidades públicas ou privadas sem fins lucrativos, nos termos da lei ou a definir por protocolo celebrado entre estas entidades e a Ordem dos Advogados e sujeito a homologação pelo Ministério da Justiça.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524313": {
+   "fragment_id": "39438775",
+   "type": 11,
+   "heading": "Artigo 16.º — Modalidades",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Modalidades\n\n1 - O apoio judiciário compreende as seguintes modalidades:\n\na) Dispensa de taxa de justiça e demais encargos com o processo;\n\nb) Nomeação e pagamento da compensação de patrono;\n\nc) Pagamento da compensação de defensor oficioso;\n\nd) Pagamento faseado de taxa de justiça e demais encargos com o processo;\n\ne) Nomeação e pagamento faseado da compensação de patrono;\n\nf) Pagamento faseado da compensação de defensor oficioso;\n\ng) Atribuição de agente de execução.\n\n2 - Sem prejuízo de, em termos a definir por lei, a periodicidade do pagamento poder ser alterada em função do valor das prestações, nas modalidades referidas nas alíneas d) a f) do número anterior, o valor da prestação mensal dos beneficiários de apoio judiciário é o seguinte:\n\na) 1/72 do valor anual do rendimento relevante para efeitos de protecção jurídica, se este for igual ou inferior a uma vez e meia o valor do indexante de apoios sociais;\n\nb) 1/36 do valor anual do rendimento relevante para efeitos de protecção jurídica, se este for superior a uma vez e meia o valor do indexante de apoios sociais.\n\n3 - Nas modalidades referidas nas alíneas d) a f) do n.º 1 não são exigíveis as prestações que se vençam após o decurso de quatro anos desde o trânsito em julgado da decisão final da causa.\n\n4 - Havendo pluralidade de causas relativas ao mesmo requerente ou a elementos do seu agregado familiar, o prazo mencionado no número anterior conta-se desde o trânsito em julgado da última decisão final.\n\n5 - O pagamento das prestações relativas às modalidades mencionadas nas alíneas d) a f) do n.º 1 é efectuado em termos a definir por lei.\n\n6 - Se o requerente de apoio judiciário for uma pessoa colectiva, o apoio judiciário não compreende a modalidade referida nas alíneas d) a f) do n.º 1.\n\n7 - No caso de pedido de apoio judiciário por residente noutro Estado membro da União Europeia para acção em que tribunais portugueses sejam competentes, o apoio judiciário abrange os encargos específicos decorrentes do carácter transfronteiriço do litígio em termos a definir por lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524315": {
+   "fragment_id": "39438875",
+   "type": 11,
+   "heading": "Artigo 17.º — Âmbito de aplicação",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Âmbito de aplicação\n\n1 - O regime de apoio judiciário aplica-se em todos os tribunais, qualquer que seja a forma do processo, nos julgados de paz e noutras estruturas de resolução alternativa de litígios a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - O regime de apoio judiciário aplica-se, também, com as devidas adaptações, nos processos de contra-ordenação.\n\n3 - O apoio judiciário é aplicável nos processos que corram nas conservatórias, em termos a definir por lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524314": {
+   "fragment_id": "39438975",
+   "type": 11,
+   "heading": "Artigo 18.º — Pedido de apoio judiciário",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Pedido de apoio judiciário\n\n1 - O apoio judiciário é concedido independentemente da posição processual que o requerente ocupe na causa e do facto de ter sido já concedido à parte contrária.\n\n2 - O apoio judiciário deve ser requerido antes da primeira intervenção processual, salvo se a situação de insuficiência económica for superveniente, caso em que deve ser requerido antes da primeira intervenção processual que ocorra após o conhecimento da situação de insuficiência económica.\n\n3 - Se se verificar insuficiência económica superveniente, suspende-se o prazo para pagamento da taxa de justiça e demais encargos com o processo até à decisão definitiva do pedido de apoio judiciário, aplicando-se o disposto nos n.os 4 e 5 do artigo 24.º\n\n4 - O apoio judiciário mantém-se para efeitos de recurso, qualquer que seja a decisão sobre a causa, e é extensivo a todos os processos que sigam por apenso àquele em que essa concessão se verificar, sendo-o também ao processo principal, quando concedido em qualquer apenso.\n\n5 - O apoio judiciário mantém-se ainda para as execuções fundadas em sentença proferida em processo em que essa concessão se tenha verificado.\n\n6 - Declarada a incompetência do tribunal, mantém-se, todavia, a concessão do apoio judiciário, devendo a decisão definitiva ser notificada ao patrono para este se pronunciar sobre a manutenção ou escusa do patrocínio.\n\n7 - No caso de o processo ser desapensado por decisão com trânsito em julgado, o apoio concedido manter-se-á, juntando-se oficiosamente ao processo desapensado certidão da decisão que o concedeu, sem prejuízo do disposto na parte final do número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524316": {
+   "fragment_id": "39439175",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência para a decisão",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Competência para a decisão\n\n1 - A decisão sobre a concessão de protecção jurídica compete ao dirigente máximo dos serviços de segurança social da área de residência ou sede do requerente.\n\n2 - No caso de o requerente não residir ou não ter a sua sede em território nacional, a decisão referida no número anterior compete ao dirigente máximo dos serviços de segurança social onde tiver sido entregue o requerimento.\n\n3 - A competência referida nos números anteriores é susceptível de delegação e de subdelegação.\n\n4 - A decisão quanto ao pedido referido nos n.os 6 e 7 do artigo 8.º-A compete igualmente ao dirigente máximo dos serviços de segurança social competente para a decisão sobre a concessão de protecção jurídica, sendo susceptível de delegação e de subdelegação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524340": {
+   "fragment_id": "39439275",
+   "type": 11,
+   "heading": "Artigo 21.º — Juízo sobre a existência de fundamento legal da pretensão",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Juízo sobre a existência de fundamento legal da pretensão\n\nA nomeação de patrono oficioso, pela Ordem dos Advogados, destinada à propositura de uma acção depende de juízo sobre a existência de fundamento legal da pretensão, feito em sede de consulta jurídica.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524345": {
+   "fragment_id": "39439375",
+   "type": 11,
+   "heading": "Artigo 22.º — Requerimento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Requerimento\n\n1 - O requerimento de protecção jurídica é apresentado em qualquer serviço de atendimento ao público dos serviços de segurança social.\n\n2 - O requerimento de protecção jurídica é formulado em modelo, a aprovar por portaria dos ministros com a tutela da justiça e da segurança social, que é facultado, gratuitamente, junto da entidade referida no número anterior e pode ser apresentado pessoalmente, por telecópia, por via postal ou por transmissão electrónica, neste caso através do preenchimento do respectivo formulário digital, acessível por ligação e comunicação informática.\n\n3 - Quando o requerimento é apresentado por via postal, o serviço receptor remete ao requerente uma cópia com o carimbo de recepção aposto.\n\n4 - O pedido deve especificar a modalidade de protecção jurídica pretendida, nos termos dos artigos 6.º e 16.º, e, sendo caso disso, quais as modalidades que pretende cumular.\n\n5 -(Revogado).\n\n6 - A prova da entrega do requerimento de protecção jurídica pode ser feita:\n\na) Mediante exibição ou entrega de cópia com carimbo de recepção do requerimento apresentado pessoalmente ou por via postal;\n\nb) Por qualquer meio idóneo de certificação mecânica ou electrónica da recepção no serviço competente do requerimento quando enviado por telecópia ou transmissão electrónica.\n\n7 - É da competência dos serviços da segurança social a identificação rigorosa dos elementos referentes aos beneficiários, bem como a identificação precisa do fim a que se destina o apoio judiciário, para os efeitos previstos no n.º 5 do artigo 24.º e nos artigos 30.º e 31.º\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524317": {
+   "fragment_id": "39439475",
+   "type": 11,
+   "heading": "Artigo 23.º — Audiência prévia",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Audiência prévia\n\n1 - A audiência prévia do requerente de protecção jurídica tem obrigatoriamente lugar, por escrito, nos casos em que está proposta uma decisão de indeferimento, total ou parcial, do pedido formulado, nos termos do Código do Procedimento Administrativo.\n\n2 - Se o requerente de protecção jurídica, devidamente notificado para efeitos de audiência prévia, não se pronunciar no prazo que lhe for concedido, a proposta de decisão converte-se em decisão definitiva, não havendo lugar a nova notificação.\n\n3 - A notificação para efeitos de audiência prévia contém expressa referência à cominação prevista no número anterior, sob pena de esta não poder ser aplicada.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524318": {
+   "fragment_id": "39439575",
+   "type": 11,
+   "heading": "Artigo 24.º — Autonomia do procedimento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Autonomia do procedimento\n\n1 - O procedimento de protecção jurídica na modalidade de apoio judiciário é autónomo relativamente à causa a que respeite, não tendo qualquer repercussão sobre o andamento desta, com excepção do previsto nos números seguintes.\n\n2 - Nos casos previstos no n.º 4 do artigo 467.º do Código de Processo Civil e, bem assim, naqueles em que, independentemente das circunstâncias aí referidas, esteja pendente impugnação da decisão relativa à concessão de apoio judiciário, o autor que pretenda beneficiar deste para dispensa ou pagamento faseado da taxa de justiça deve juntar à petição inicial documento comprovativo da apresentação do respectivo pedido.\n\n3 - Nos casos previstos no número anterior, o autor deve efectuar o pagamento da taxa de justiça ou da primeira prestação, quando lhe seja concedido apoio judiciário na modalidade de pagamento faseado de taxa de justiça, no prazo de 10 dias a contar da data da notificação da decisão que indefira, em definitivo, o seu pedido, sob a cominação prevista no n.º 5 do artigo 467.º do Código de Processo Civil.\n\n4 - Quando o pedido de apoio judiciário é apresentado na pendência de acção judicial e o requerente pretende a nomeação de patrono, o prazo que estiver em curso interrompe-se com a junção aos autos do documento comprovativo da apresentação do requerimento com que é promovido o procedimento administrativo.\n\n5 - O prazo interrompido por aplicação do disposto no número anterior inicia-se, conforme os casos:\n\na) A partir da notificação ao patrono nomeado da sua designação;\n\nb) A partir da notificação ao requerente da decisão de indeferimento do pedido de nomeação de patrono.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524319": {
+   "fragment_id": "39439675",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazo",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Prazo\n\n1 - O prazo para a conclusão do procedimento administrativo e decisão sobre o pedido de protecção jurídica é de 30 dias, é contínuo, não se suspende durante as férias judiciais e, se terminar em dia em que os serviços da segurança social estejam encerrados, transfere-se o seu termo para o 1.º dia útil seguinte.\n\n2 - Decorrido o prazo referido no número anterior sem que tenha sido proferida uma decisão, considera-se tacitamente deferido e concedido o pedido de protecção jurídica.\n\n3 - No caso previsto no número anterior, é suficiente a menção em tribunal da formação do acto tácito e, quando estiver em causa um pedido de nomeação de patrono, a tramitação subsequente à formação do acto tácito obedecerá às seguintes regras:\n\na) Quando o pedido tiver sido apresentado na pendência de acção judicial, o tribunal em que a causa está pendente solicita à Ordem dos Advogados que proceda à nomeação do patrono, nos termos da portaria referida no n.º 2 do artigo 45.º;\n\nb) Quando o pedido não tiver sido apresentado na pendência de acção judicial, incumbe ao interessado solicitar a nomeação do patrono, nos termos da portaria referida no n.º 2 do artigo 45.º\n\n4 - O tribunal ou, no caso referido na alínea b) do número anterior, a Ordem dos Advogados devem confirmar junto dos serviços da segurança social a formação do acto tácito, devendo estes serviços responder no prazo máximo de dois dias úteis.\n\n5 - Enquanto não for possível disponibilizar a informação de forma desmaterializada e em tempo real, os serviços da segurança social enviam mensalmente a informação relativa aos pedidos de protecção jurídica tacitamente deferidos ao Gabinete para a Resolução Alternativa de Litígios, à Ordem dos Advogados, se o pedido envolver a nomeação de patrono, e ao tribunal em que a acção se encontra, se o requerimento tiver sido apresentado na pendência de acção judicial.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524346": {
+   "fragment_id": "39439775",
+   "type": 11,
+   "heading": "Artigo 26.º — Notificação e impugnação da decisão",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Notificação e impugnação da decisão\n\n1 - A decisão final sobre o pedido de protecção jurídica é notificada ao requerente e, se o pedido envolver a designação de patrono, também à Ordem dos Advogados.\n\n2 - A decisão sobre o pedido de protecção jurídica não admite reclamação nem recurso hierárquico ou tutelar, sendo susceptível de impugnação judicial nos termos dos artigos 27.º e 28.º\n\n3 - (Revogado).\n\n4 - Se o requerimento tiver sido apresentado na pendência de acção judicial, a decisão final sobre o pedido de apoio judiciário é notificada ao tribunal em que a acção se encontra pendente, bem como, através deste, à parte contrária.\n\n5 - A parte contrária na acção judicial para que tenha sido concedido apoio judiciário tem legitimidade para impugnar a decisão nos termos do n.º 2.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524320": {
+   "fragment_id": "39439875",
+   "type": 11,
+   "heading": "Artigo 27.º — Impugnação judicial",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Impugnação judicial\n\n1 - A impugnação judicial pode ser intentada directamente pelo interessado, não carecendo de constituição de advogado, e deve ser entregue no serviço de segurança social que apreciou o pedido de protecção jurídica, no prazo de 15 dias após o conhecimento da decisão.\n\n2 - O pedido de impugnação deve ser escrito, mas não carece de ser articulado, sendo apenas admissível prova documental, cuja obtenção pode ser requerida através do tribunal.\n\n3 - Recebida a impugnação, o serviço de segurança social dispõe de 10 dias para revogar a decisão sobre o pedido de protecção jurídica ou, mantendo-a, enviar aquela e cópia autenticada do processo administrativo ao tribunal competente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524321": {
+   "fragment_id": "39439975",
+   "type": 11,
+   "heading": "Artigo 28.º — Tribunal competente",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Tribunal competente\n\n1 - É competente para conhecer e decidir a impugnação o tribunal da comarca em que está sedeado o serviço de segurança social que apreciou o pedido de protecção jurídica ou, caso o pedido tenha sido formulado na pendência da acção, o tribunal em que esta se encontra pendente.\n\n2 - No caso de existirem tribunais de competência especializada ou de competência específica, a impugnação deve respeitar as respectivas regras de competência.\n\n3 - Se o tribunal se considerar incompetente, remete para aquele que deva conhecer da impugnação e notifica o interessado.\n\n4 - Recebida a impugnação, esta é distribuída, quando for caso disso, e imediatamente conclusa ao juiz, que, por meio de despacho concisamente fundamentado, decide, concedendo ou recusando o provimento, por extemporaneidade ou manifesta inviabilidade.\n\n5 - A decisão proferida nos termos do número anterior é irrecorrível.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524322": {
+   "fragment_id": "39440075",
+   "type": 11,
+   "heading": "Artigo 29.º — Alcance da decisão final",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Alcance da decisão final\n\n1 - A decisão que defira o pedido de protecção jurídica especifica as modalidades e a concreta medida do apoio concedido.\n\n2 - Para concretização do benefício de apoio judiciário nas modalidades previstas nas alíneas a) e d) do n.º 1 do artigo 16.º, devem os interessados apresentar o documento comprovativo da sua concessão ou da apresentação do respectivo pedido no momento em que deveriam apresentar o documento comprovativo do pagamento da taxa de justiça.\n\n3 - (Revogado).\n\n4 - O indeferimento do pedido de apoio judiciário importa a obrigação do pagamento das custas devidas, bem como, no caso de ter sido solicitada a nomeação de patrono, o pagamento ao Instituto de Gestão Financeira e de Infra-Estruturas de Justiça, I. P., da quantia prevista no n.º 2 do artigo 36.º\n\n5 - Não havendo decisão final quanto ao pedido de apoio judiciário no momento em que deva ser efectuado o pagamento da taxa de justiça e demais encargos do processo judicial, proceder-se-á do seguinte modo:\n\na) No caso de não ser ainda conhecida a decisão do serviço da segurança social competente, fica suspenso o prazo para proceder ao respectivo pagamento até que tal decisão seja comunicada ao requerente;\n\nb) Tendo havido já decisão do serviço da segurança social, concedendo apoio judiciário numa ou mais modalidades de pagamento faseado, o pagamento da primeira prestação é devido no prazo de 10 dias contados da data da sua comunicação ao requerente, sem prejuízo do posterior reembolso das quantias pagas no caso de procedência da impugnação daquela decisão;\n\nc) Tendo havido já decisão negativa do serviço da segurança social, o pagamento é devido no prazo de 10 dias contados da data da sua comunicação ao requerente, sem prejuízo do posterior reembolso das quantias pagas no caso de procedência da impugnação daquela decisão.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524323": {
+   "fragment_id": "39440175",
+   "type": 11,
+   "heading": "Artigo 30.º — Nomeação de patrono",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076)"
+   ],
+   "markdown": "###### Artigo 30.º — Nomeação de patrono\n\n1 - A nomeação de patrono, sendo concedida, é realizada pela Ordem dos Advogados, nos termos da portaria referida no n.º 2 do artigo 45.º\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076)"
+  },
+  "66524325": {
+   "fragment_id": "39440275",
+   "type": 11,
+   "heading": "Artigo 31.º — Notificação da nomeação",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Notificação da nomeação\n\n1 - A nomeação de patrono é notificada pela Ordem dos Advogados ao requerente e ao patrono nomeado e, nos casos previstos no n.º 4 do artigo 26.º, para além de ser feita com a expressa advertência do início do prazo judicial, é igualmente comunicada ao tribunal.\n\n2 - A notificação da decisão de nomeação do patrono é feita com menção expressa, quanto ao requerente, do nome e escritório do patrono bem como do dever de lhe dar colaboração, sob pena de o apoio judiciário lhe ser retirado.\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524327": {
+   "fragment_id": "39440375",
+   "type": 11,
+   "heading": "Artigo 32.º — Substituição do patrono",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Substituição do patrono\n\n1 - O beneficiário do apoio judiciário pode, em qualquer processo, requerer à Ordem dos Advogados a substituição do patrono nomeado, fundamentando o seu pedido.\n\n2 - Deferido o pedido de substituição, aplicam-se, com as devidas adaptações, os termos dos artigos 34.º e seguintes.\n\n3 - Se a substituição de patrono tiver sido requerida na pendência de um processo, a Ordem dos Advogados deve comunicar ao tribunal a nomeação do novo patrono.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524328": {
+   "fragment_id": "39440475",
+   "type": 11,
+   "heading": "Artigo 33.º — Prazo de propositura da acção",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Prazo de propositura da acção\n\n1 - O patrono nomeado para a propositura da acção deve intentá-la nos 30 dias seguintes à notificação da nomeação, apresentando justificação à Ordem dos Advogados ou à Câmara dos Solicitadores se não instaurar a acção naquele prazo.\n\n2 - O patrono nomeado pode requerer à Ordem dos Advogados ou à Câmara dos Solicitadores a prorrogação do prazo previsto no número anterior, fundamentando o pedido.\n\n3 - Quando não for apresentada justificação, ou esta não for considerada satisfatória, a Ordem dos Advogados ou a Câmara dos Solicitadores deve proceder à apreciação de eventual responsabilidade disciplinar, sendo nomeado novo patrono ao requerente.\n\n4 - A acção considera-se proposta na data em que for apresentado o pedido de nomeação de patrono.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524329": {
+   "fragment_id": "39440575",
+   "type": 11,
+   "heading": "Artigo 34.º — Pedido de escusa",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Pedido de escusa\n\n1 - O patrono nomeado pode pedir escusa, mediante requerimento dirigido à Ordem dos Advogados ou à Câmara dos Solicitadores, alegando os respectivos motivos.\n\n2 - O pedido de escusa, formulado nos termos do número anterior e apresentado na pendência do processo, interrompe o prazo que estiver em curso, com a junção dos respectivos autos de documento comprovativo do referido pedido, aplicando-se o disposto no n.º 5 do artigo 24.º\n\n3 - O patrono nomeado deve comunicar no processo o facto de ter apresentado um pedido de escusa, para os efeitos previstos no número anterior.\n\n4 - A Ordem dos Advogados ou a Câmara dos Solicitadores aprecia e delibera sobre o pedido de escusa no prazo de 15 dias.\n\n5 - Sendo concedida a escusa, procede-se imediatamente à nomeação e designação de novo patrono, excepto no caso de o fundamento do pedido de escusa ser a inexistência de fundamento legal da pretensão, caso em que pode ser recusada nova nomeação para o mesmo fim.\n\n6 - O disposto nos n.os 1 a 4 aplica-se aos casos de escusa por circunstâncias supervenientes.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524330": {
+   "fragment_id": "39440675",
+   "type": 11,
+   "heading": "Artigo 35.º — Substituição em diligência processual",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Substituição em diligência processual\n\n1 - O patrono nomeado pode substabelecer, com reserva, para diligência determinada, desde que indique substituto.\n\n2 - A remuneração do substituto é da responsabilidade do patrono nomeado.\n\n3 - (Revogado) .\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524299": {
+   "fragment_id": "66507604",
+   "type": 11,
+   "heading": "Artigo 35.º-A — Atribuição de agente de execução",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 35.º-A — Atribuição de agente de execução\n\nQuando seja concedido apoio judiciário na modalidade de atribuição de agente de execução, este é sempre um oficial de justiça, determinado segundo as regras da distribuição.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524331": {
+   "fragment_id": "39440775",
+   "type": 11,
+   "heading": "Artigo 36.º — Encargos",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Encargos\n\n1 - Sempre que haja um processo judicial, os encargos decorrentes da concessão de protecção jurídica, em qualquer das suas modalidades, são levados a regra de custas a final.\n\n2 - Os encargos decorrentes da concessão de apoio judiciário nas modalidades previstas nas alíneas b), c), e) e f) do n.º 1 do artigo 16.º são determinados nos termos de portaria do membro do Governo responsável pela área da justiça.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524301": {
+   "fragment_id": "39440875",
+   "type": 11,
+   "heading": "Artigo 37.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regime subsidiário\n\nSão aplicáveis ao procedimento de concessão de protecção jurídica as disposições do Código do Procedimento Administrativo em tudo o que não esteja especialmente regulado na presente lei."
+  },
+  "66524302": {
+   "fragment_id": "39440975",
+   "type": 11,
+   "heading": "Artigo 38.º — Contagem de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Contagem de prazos\n\nAos prazos processuais previstos na presente lei aplicam-se as disposições da lei processual civil."
+  },
+  "66524332": {
+   "fragment_id": "37817175",
+   "type": 11,
+   "heading": "Artigo 39.º — Nomeação de defensor",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 39.º — Nomeação de defensor\n\n1 - A nomeação do defensor ao arguido, a dispensa de patrocínio e a substituição são feitas nos termos do Código de Processo Penal, do presente capítulo e da portaria referida no n.º 2 do artigo 45.º\n\n2 - A nomeação é antecedida da advertência ao arguido do seu direito a constituir advogado.\n\n3 - Caso não constitua advogado, o arguido deve proceder, no momento em que presta termo de identidade e residência, à emissão de uma declaração relativa ao rendimento, património e despesa permanente do seu agregado familiar.\n\n4 - A secretaria do tribunal deve apreciar a insuficiência económica do arguido em função da declaração emitida e dos critérios estabelecidos na presente lei.\n\n5 - Se a secretaria concluir pela insuficiência económica do arguido, deve ser-lhe nomeado defensor ou, no caso contrário, adverti-lo de que deve constituir advogado.\n\n6 - A nomeação de defensor ao arguido, nos termos do número anterior, tem carácter provisório e depende de concessão de apoio judiciário pelos serviços da segurança social.\n\n7 - Se o arguido não solicitar a concessão de apoio judiciário, é responsável pelo pagamento do triplo do valor estabelecido nos termos do n.º 2 do artigo 36.º\n\n8 - Se os serviços da segurança social decidirem não conceder o benefício de apoio judiciário ao arguido, este fica sujeito ao pagamento do valor estabelecido nos termos do n.º 2 do artigo 36.º, salvo se se demonstrar que a declaração proferida nos termos do n.º 3 foi manifestamente falsa, caso em que fica sujeito ao pagamento do quíntuplo do valor estabelecido no n.º 2 do artigo 36.º\n\n9 - Se, no caso previsto na parte final do n.º 5, o arguido não constituir advogado e for obrigatória ou considerada necessária ou conveniente a assistência de defensor, deve este ser nomeado, ficando o arguido responsável pelo pagamento do triplo do valor estabelecido nos termos do n.º 2 do artigo 36.º\n\n10 - O requerimento para a concessão de apoio judiciário não afecta a marcha do processo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524341": {
+   "fragment_id": "37817275",
+   "type": 11,
+   "heading": "Artigo 40.º — Escolha de advogado",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Escolha de advogado\n\n1 - A autoridade judiciária a quem incumbir a nomeação disponibiliza ao arguido listas de advogados para efeitos da escolha de defensor.\n\n2 - As listas referidas no número anterior são elaboradas nos termos do regulamento previsto no n.º 2 do artigo anterior, aprovado pela Ordem dos Advogados.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524333": {
+   "fragment_id": "37817375",
+   "type": 11,
+   "heading": "Artigo 41.º — Escalas de prevenção",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 41.º — Escalas de prevenção\n\n1 - A nomeação de defensor para assistência ao primeiro interrogatório de arguido detido, para audiência em processo sumário ou para outras diligências urgentes previstas no Código de Processo Penal processa-se nos termos do artigo 39.º, devendo ser organizadas escalas de prevenção de advogados e advogados estagiários para esse efeito, em termos a definir na portaria referida no n.º 2 do artigo 45.º\n\n2 - A nomeação deve recair em defensor que, constando das escalas de prevenção, se apresente no local de realização da diligência após a sua chamada.\n\n3 - O defensor nomeado para um acto pode manter-se para os actos subsequentes do processo, em termos a regulamentar na portaria referida no n.º 2 do artigo 45.º\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524335": {
+   "fragment_id": "37817475",
+   "type": 11,
+   "heading": "Artigo 42.º — Dispensa de patrocínio",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Dispensa de patrocínio\n\n1 - O advogado nomeado defensor pode pedir dispensa de patrocínio, invocando fundamento que considere justo, em requerimento dirigido à Ordem dos Advogados.\n\n2 - A Ordem dos Advogados aprecia e delibera sobre o pedido de dispensa de patrocínio no prazo de cinco dias.\n\n3 - Enquanto não for substituído, o defensor nomeado para um acto mantém-se para os actos subsequentes do processo.\n\n4 - Pode, em caso de urgência, ser nomeado outro defensor ao arguido, nos termos da portaria referida no n.º 2 do artigo 45.º\n\n5 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524336": {
+   "fragment_id": "37817575",
+   "type": 11,
+   "heading": "Artigo 43.º — Constituição de mandatário",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 43.º — Constituição de mandatário\n\n1 - Cessam as funções do defensor nomeado sempre que o arguido constitua mandatário.\n\n2 - O defensor nomeado não pode, no mesmo processo, aceitar mandato do mesmo arguido.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524337": {
+   "fragment_id": "37817675",
+   "type": 11,
+   "heading": "Artigo 44.º — Disposições aplicáveis",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 44.º — Disposições aplicáveis\n\n1 - Em tudo o que não esteja especialmente regulado no presente capítulo relativamente à concessão de protecção jurídica ao arguido em processo penal aplicam-se, com as necessárias adaptações, as disposições do capítulo anterior, com excepção do disposto nos n.os 2 e 3 do artigo 18.º, devendo o apoio judiciário ser requerido até ao termo do prazo de recurso da decisão em primeira instância.\n\n2 - Ao pedido de protecção jurídica por quem pretenda constituir-se assistente ou formular ou contestar pedido de indemnização cível em processo penal aplica-se o disposto no capítulo anterior, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524338": {
+   "fragment_id": "37817775",
+   "type": 11,
+   "heading": "Artigo 45.º — Participação dos profissionais forenses no acesso ao direito",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 45.º — Participação dos profissionais forenses no acesso ao direito\n\n1 - A admissão dos profissionais forenses ao sistema de acesso ao direito, a nomeação de patrono e de defensor e o pagamento da respectiva compensação realizam-se nos termos seguintes:\n\na) A selecção dos profissionais forenses deve assegurar a qualidade dos serviços prestados aos beneficiários de protecção jurídica no âmbito do sistema de acesso ao direito;\n\nb) Os participantes no sistema de acesso ao direito podem ser advogados, advogados estagiários e solicitadores;\n\nc) Os profissionais forenses podem ser nomeados para lotes de processos e escalas de prevenção;\n\nd) Se o mesmo facto der causa a diversos processos, o sistema deve assegurar, preferencialmente, a nomeação do mesmo mandatário ou defensor oficioso ao beneficiário;\n\ne) Todas as notificações e comunicações entre os profissionais forenses, a Ordem dos Advogados, os serviços da segurança social, os tribunais e os requerentes previstos no sistema de acesso ao direito devem realizar-se, sempre que possível, por via electrónica;\n\nf) Os profissionais forenses participantes no sistema de acesso ao direito devem utilizar todos os meios electrónicos disponíveis no contacto com os tribunais, designadamente no que respeita ao envio de peças processuais e requerimentos autónomos;\n\ng) Os profissionais forenses que não observem as regras do exercício do patrocínio e da defesa oficiosos podem ser excluídos do sistema de acesso ao direito;\n\nh) Os profissionais forenses participantes no sistema de acesso ao direito que saiam do sistema, independentemente do motivo, antes do trânsito em julgado de um processo ou do termo definitivo de uma diligência para que estejam nomeados devem restituir, no prazo máximo de 30 dias, todas as quantias entregues por conta de cada processo ou diligência em curso;\n\ni) O disposto na alínea anterior aplica-se aos casos de escusa e de dispensa de patrocínio, relativamente aos processos em que cesse o patrocínio e a defesa oficiosa;\n\nj) O pagamento da compensação devida aos profissionais forenses deve ser processado até ao termo do mês seguinte àquele em que é devido;\n\nl) A resolução extrajudicial dos litígios, antes da audiência de julgamento, deve ser incentivada mediante a previsão de um montante de compensação acrescido.\n\n2 - A admissão dos profissionais forenses ao sistema de acesso ao direito, a nomeação de patrono e de defensor e o pagamento da respectiva compensação, nos termos do número anterior, é regulamentada por portaria do membro do Governo responsável pela área da justiça.\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524342": {
+   "fragment_id": "37817875",
+   "type": 11,
+   "heading": "Artigo 46.º — Colaboração de outras instituições com a Ordem dos Advogados",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 46.º — Colaboração de outras instituições com a Ordem dos Advogados\n\nA Ordem dos Advogados pode solicitar às instituições envolvidas no regime de acesso ao direito, designadamente à Câmara dos Solicitadores, a intervenção e colaboração adequada ao exercício das suas competências.\n\n> Revogado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524343": {
+   "fragment_id": "37817975",
+   "type": 11,
+   "heading": "Artigo 47.º — Gabinetes de consulta jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 47.º — Gabinetes de consulta jurídica\n\nOs gabinetes de consulta jurídica actualmente existentes no quadro de aplicação do artigo 15.º são integrados no regime de consulta disposto na presente lei.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "66524344": {
+   "fragment_id": "37818075",
+   "type": 11,
+   "heading": "Artigo 48.º — Comissão de acompanhamento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 48.º — Comissão de acompanhamento\n\nA avaliação periódica da execução do disposto na presente lei é assegurada por uma comissão de acompanhamento constituída por dois representantes do Ministério da Justiça, um representante do Ministério das Finanças, um representante do Ministério da Segurança Social e do Trabalho e um representante da Ordem dos Advogados.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "53129575": {
+   "fragment_id": "36270575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 27 de Maio de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 12 de Julho de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 16 de Julho de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "66524275": {
+   "fragment_id": "36270475",
+   "type": 14,
+   "heading": "Anexo — Cálculo do rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "## Anexo — Cálculo do rendimento relevante para efeitos de protecção jurídica\n\nI - Rendimento relevante para efeitos de protecção jurídica\n\n1 - O rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é o montante que resulta da diferença entre o valor do rendimento líquido completo do agregado familiar (Y(índice C)) e o valor da dedução relevante para efeitos de protecção jurídica (A), ou seja, Y(índice AP) = Y(índice C) - A.\n\n2 - O rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é expresso em múltiplos do indexante de apoios sociais.\n\nII - Rendimento líquido completo do agregado familiar\n\n1 - O valor do rendimento líquido completo do agregado familiar (Y(índice C)) resulta da soma do valor da receita líquida do agregado familiar (Y) com o montante da renda financeira implícita calculada com base nos activos patrimoniais do agregado familiar (Y(índice R)), ou seja, Y(índice C) = Y + Y(índice R).\n\n2 - Por receita líquida do agregado familiar (Y) entende-se o rendimento depois da dedução do imposto sobre o rendimento e das contribuições obrigatórias para regimes de protecção social.\n\n3 - O cálculo da renda financeira implícita é efectuado nos termos previstos no n.º v.\n\nIII - Dedução relevante para efeitos de protecção jurídica\n\n1 - O valor da dedução relevante para efeitos de protecção jurídica (A) resulta da soma do valor da dedução de encargos com necessidades básicas do agregado familiar (D) com o montante da dedução de encargos com a habitação do agregado familiar (H), ou seja, A = D + H.\n\n2 - O valor da dedução de encargos com necessidades básicas do agregado familiar (D) resulta da aplicação da seguinte fórmula:\n\n(ver documento original)\n\nem que n é o número de elementos do agregado familiar e d é o coeficiente de dedução de despesas com necessidades básicas do agregado familiar, determinado em função dos diversos escalões de rendimento, de acordo com o previsto na tabela do n.º vi.\n\n3 - O montante da dedução de encargos com a habitação do agregado familiar (H) resulta da aplicação do coeficiente (h) ao valor do rendimento líquido completo do agregado familiar (Y(índice C)),\n\nou seja, H = h + Y(índice C), em que h é determinado em função dos diversos escalões de rendimento, de acordo com o previsto na tabela do n.º vii.\n\nIV - Fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica\n\nO valor do rendimento relevante para efeitos de protecção jurídica, especificado nos n.os i a iii, é calculado através da seguinte fórmula:\n\n(ver documento original)\n\nA fórmula de cálculo resulta das seguintes identidades algébricas:\n\n(ver documento original)\n\nPortanto, por operações aritméticas elementares:\n\n(ver documento original)\n\nV - Cálculo da renda financeira implícita\n\n1 - O montante da renda financeira implícita a que se refere o n.º 1 do n.º ii é calculado mediante a aplicação de uma taxa de juro de referência ao valor dos activos patrimoniais do agregado familiar.\n\n2 - A taxa de juro de referência é a taxa EURIBOR a seis meses correspondente ao valor médio verificado nos meses de Dezembro ou de Junho últimos, consoante o requerimento de protecção jurídica seja apresentado, respectivamente, no 1.º ou no 2.º semestres do ano civil em curso.\n\n3 - Entende-se por valor dos bens imóveis aquele que for mais elevado entre o declarado pelo requerente no pedido de protecção jurídica, o inscrito na matriz predial e o constante do documento que haja titulado a respectiva aquisição.\n\n4 - Quando se trate da casa de morada de família, no cálculo referido no n.º 1 apenas se contabiliza o valor daquela se for superior a (euro) 100 000 e na estrita medida desse excesso.\n\n5 - O valor das participações sociais e dos valores mobiliários é aquele que resultar da cotação observada em bolsa no dia anterior ao da apresentação do requerimento de protecção jurídica ou, na falta deste, o seu valor nominal.\n\n6 - Entende-se por valor dos bens móveis sujeitos a registo o respectivo valor de mercado.\n\nVI - Tabela a que se refere o n.º 2 do n.º iii\n\n(ver documento original)\n\nVII - Tabela a que se refere o n.º 3 do n.º iii\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "115960780": {
+   "fragment_id": "39440775",
+   "type": 11,
+   "heading": "Artigo 36.º — Encargos",
+   "in_force_from": "2018-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 40/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/40-2018-115940705), em vigor a partir de 2018-08-13",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Encargos\n\n1 - Sempre que haja um processo judicial, os encargos decorrentes da concessão de protecção jurídica, em qualquer das suas modalidades, são levados a regra de custas a final.\n\n2 - Os encargos decorrentes da concessão de apoio judiciário nas modalidades previstas nas alíneas b), c), e) e f) do n.º 1 do artigo 16.º são atualizados anualmente por portaria do membro do Governo responsável pela área da justiça, tendo em conta a evolução da inflação e a necessidade de garantir uma remuneração digna e justa aos advogados intervenientes.\n\n3 - A portaria referida no número anterior é publicada até 31 de dezembro de cada ano para vigorar no ano seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 40/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/40-2018-115940705), em vigor a partir de 2018-08-13\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "117509153": {
+   "fragment_id": "39437975",
+   "type": 11,
+   "heading": "Artigo 8.º — Insuficiência económica",
+   "in_force_from": "2018-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Insuficiência económica\n\n1 - Encontra-se em situação de insuficiência económica aquele que não tem condições objetivas para suportar pontualmente os custos de um processo, nos termos definidos no artigo seguinte.\n\n2 - O disposto no número anterior aplica-se, com as necessárias adaptações, às pessoas colectivas sem fins lucrativos.\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n5 - (Revogado) .\n\n> Nota: [Artigo 21.º, Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936) A alteração introduzida ao presente artigo produz efeitos a partir da data da entrada em vigor do decreto regulamentar nele previsto.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "117509154": {
+   "fragment_id": "66507602",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Apreciação da insuficiência económica",
+   "in_force_from": "2018-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Apreciação da insuficiência económica\n\n1 - A apreciação da insuficiência económica das pessoas singulares, para os efeitos da presente lei, é efetuada considerando o rendimento médio mensal do agregado familiar do respetivo requerente, com vista à determinação sobre se este:\n\na) Não tem condições objetivas para suportar qualquer quantia relacionada com os custos de um processo, caso em que beneficia igualmente de atribuição de agente de execução e de consulta jurídica gratuita;\n\nb) Tem condições objetivas para suportar os custos de uma consulta jurídica sujeita ao pagamento prévio de uma taxa, mas não tem condições objetivas para suportar pontualmente os custos de um processo e, por esse motivo, beneficia de apoio judiciário nas modalidades de pagamento faseado e de atribuição de agente de execução;\n\nc) Não se encontra em situação de insuficiência económica.\n\n2 - As condições objetivas, a que se reportam as alíneas a) a c) do número anterior, são aferidas tendo por referência o indexante dos apoios sociais (IAS), em função de limiares a definir por decreto regulamentar.\n\n3 - O rendimento médio mensal do agregado familiar é apurado nos termos do decreto-lei que estabelece as regras uniformes para a determinação da situação de insuficiência económica a ter em conta no reconhecimento do direito à atribuição e manutenção dos apoios sociais ou subsídios sujeitos a condição de recursos.\n\n4 - O conceito e a composição do agregado familiar do requerente de proteção jurídica são os definidos no decreto-lei referido no número anterior.\n\n5 - O valor da taxa devida pela prestação da consulta jurídica a que se refere a alínea b) do n.º 1 é fixado por portaria do membro do Governo responsável pela área da justiça.\n\n6 - Se o valor dos créditos depositados em contas bancárias e o montante de valores mobiliários admitidos à negociação em mercado regulamentado de que o requerente ou qualquer membro do seu agregado familiar sejam titulares forem superiores a 24 vezes o valor do indexante de apoios sociais, considera-se que o requerente de protecção jurídica não se encontra em situação de insuficiência económica, independentemente do valor do rendimento relevante para efeitos de protecção jurídica do agregado familiar.\n\n7 - Excecionalmente e por motivo justificado, bem como em caso de litígio com um ou mais elementos do agregado familiar, a apreciação da situação de insuficiência económica do requerente tem em conta apenas o rendimento médio mensal do requerente ou dele e de alguns elementos do seu agregado familiar, desde que ele o solicite.\n\n8 - Se, perante um caso concreto, o dirigente máximo dos serviços de segurança social competente para a decisão sobre a concessão de protecção jurídica entender que a aplicação dos critérios previstos nos números anteriores conduz a uma manifesta negação do acesso ao direito e aos tribunais pode, por despacho especialmente fundamentado e sem possibilidade de delegação, decidir de forma diversa daquela que resulta da aplicação dos referidos critérios.\n\n> Nota: [Artigo 21.º, Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936) A alteração introduzida ao presente artigo produz efeitos a partir da data da entrada em vigor do decreto regulamentar nele previsto.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "117509155": {
+   "fragment_id": "39439175",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência para a decisão",
+   "in_force_from": "2018-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Competência para a decisão\n\n1 - A decisão sobre a concessão de protecção jurídica compete ao dirigente máximo dos serviços de segurança social da área de residência ou sede do requerente.\n\n2 - No caso de o requerente não residir ou não ter a sua sede em território nacional, a decisão referida no número anterior compete ao dirigente máximo dos serviços de segurança social onde tiver sido entregue o requerimento.\n\n3 - A competência referida nos números anteriores é susceptível de delegação e de subdelegação.\n\n4 - A decisão quanto ao pedido referido no n.º 7 do artigo 8.º-A compete igualmente ao dirigente máximo dos serviços de segurança social competente para a decisão sobre a concessão de proteção jurídica, sendo suscetível de delegação e de subdelegação.\n\n> Nota: [Artigo 21.º, Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936) A alteração introduzida ao presente artigo produz efeitos a partir da data da entrada em vigor do decreto regulamentar nele previsto.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "117509156": {
+   "fragment_id": "39439375",
+   "type": 11,
+   "heading": "Artigo 22.º — Requerimento",
+   "in_force_from": "2018-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Requerimento\n\n1 - O requerimento de proteção jurídica é apresentado através da plataforma informática disponibilizada pelo sítio eletrónico da segurança social, que emite prova da respetiva entrega.\n\n2 - Sem prejuízo do disposto no número anterior, em casos excecionais a definir na portaria referida no n.º 1 do artigo 8.º-B, pode o requerimento de proteção jurídica ser apresentado em serviço de atendimento da segurança social.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 -(Revogado).\n\n6 - (Revogado.)\n\n7 - É da competência dos serviços da segurança social a identificação rigorosa dos elementos referentes aos beneficiários, bem como a identificação precisa do fim a que se destina o apoio judiciário, para os efeitos previstos no n.º 5 do artigo 24.º e nos artigos 30.º e 31.º\n\n> Nota: [Artigo 21.º, Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936) A alteração introduzida ao presente artigo produz efeitos a partir da data da entrada em vigor do decreto regulamentar nele previsto.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 120/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936), em vigor a partir de 2018-12-28\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "223417637": {
+   "fragment_id": "223414038",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Vítimas de violência doméstica",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 389.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 8.º-C — Vítimas de violência doméstica\n\n1 - No caso de atribuição do estatuto de vítima do crime de violência doméstica previsto no artigo 152.º do Código Penal, nos termos da Lei n.º 112/2009, de 16 de setembro, presume-se, até prova em contrário, que a vítima se encontra em situação de insuficiência económica.\n\n2 - Nos casos previstos no número anterior, é garantida à vítima a célere e sequente concessão de apoio judiciário, com natureza urgente.\n\n> Aditado pelo/a Artigo 389.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "223417638": {
+   "fragment_id": "39438075",
+   "type": 11,
+   "heading": "Artigo 9.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenções\n\nEstão isentos de impostos, emolumentos e taxas os requerimentos, certidões e quaisquer outros documentos pedidos para fins de protecção jurídica."
+  },
+  "223417639": {
+   "fragment_id": "39438175",
+   "type": 11,
+   "heading": "Artigo 10.º — Cancelamento da protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Cancelamento da protecção jurídica\n\n1 - A protecção jurídica é cancelada, quer na sua totalidade quer relativamente a alguma das suas modalidades:\n\na) Se o requerente ou o respectivo agregado familiar adquirir meios suficientes para poder dispensá-la;\n\nb) Quando se prove por novos documentos a insubsistência das razões pelas quais foi concedida;\n\nc) Se os documentos que serviram de base à concessão forem declarados falsos por decisão com trânsito em julgado;\n\nd) Se, em recurso, for confirmada a condenação do requerente como litigante de má fé;\n\ne) Se, em acção de alimentos provisórios, for atribuída ao requerente uma quantia para custeio da demanda.\n\nf) Se o requerente a quem tiver sido concedido apoio judiciário em modalidade de pagamento faseado não proceder ao pagamento de uma prestação e mantiver esse incumprimento no termo do prazo que lhe for concedido para proceder ao pagamento em falta acrescido de multa equivalente à prestação em falta.\n\n2 - No caso da alínea a) do número anterior, o requerente deve declarar, logo que o facto se verifique, que está em condições de dispensar a protecção jurídica em alguma ou em todas as modalidades concedidas, sob pena de ficar sujeito às sanções previstas para a litigância de má fé.\n\n3 - A protecção jurídica pode ser cancelada oficiosamente pelos serviços da segurança social ou a requerimento do Ministério Público, da Ordem dos Advogados, da parte contrária, do patrono nomeado ou do agente de execução atribuído.\n\n4 - O requerente de protecção jurídica é sempre ouvido.\n\n5 - Sendo cancelada a protecção jurídica concedida, a decisão é comunicada ao tribunal competente e à Ordem dos Advogados ou à Câmara dos Solicitadores, conforme os casos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "223417640": {
+   "fragment_id": "39438275",
+   "type": 11,
+   "heading": "Artigo 11.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Caducidade\n\n1 - A protecção jurídica caduca nas seguintes situações:\n\na) Pelo falecimento da pessoa singular ou pela extinção ou dissolução da pessoa colectiva a quem foi concedido, salvo se os sucessores na lide, no incidente da sua habilitação, juntarem cópia do requerimento de apoio judiciário e os mesmos vierem a ser deferidos;\n\nb) Pelo decurso do prazo de um ano após a sua concessão sem que tenha sido prestada consulta ou instaurada acção em juízo, por razão imputável ao requerente.\n\n2 - O apoio judiciário nas modalidades de nomeação e pagamento de honorários de patrono e de nomeação e pagamento faseado de honorários de patrono é incompatível com o patrocínio pelo Ministério Público nos termos previstos no Código de Processo do Trabalho.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "223417641": {
+   "fragment_id": "39438375",
+   "type": 11,
+   "heading": "Artigo 12.º — Impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Impugnação\n\nDa decisão que determine o cancelamento ou verifique a caducidade da protecção jurídica cabe impugnação judicial, que segue os termos dos artigos 27.º e 28.º"
+  },
+  "223417642": {
+   "fragment_id": "39438475",
+   "type": 11,
+   "heading": "Artigo 13.º — Aquisição de meios económicos suficientes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Aquisição de meios económicos suficientes\n\n1 - Caso se verifique que o requerente de protecção jurídica possuía, à data do pedido, ou adquiriu no decurso da causa ou no prazo de quatro anos após o seu termo, meios económicos suficientes para pagar honorários, despesas, custas, imposto, emolumentos, taxas e quaisquer outros encargos de cujo pagamento haja sido declarado isento, é instaurada acção para cobrança das respectivas importâncias pelo Ministério Público ou por qualquer outro interessado.\n\n2 - Para os efeitos do número anterior, presume-se aquisição de meios económicos suficientes a obtenção de vencimento na acção, ainda que meramente parcial, salvo se, pela sua natureza ou valor, o que se obtenha não possa ser tido em conta na apreciação da insuficiência económica nos termos do artigo 8.º\n\n3 - A acção a que se refere o n.º 1 segue a forma sumaríssima, podendo o juiz condenar no próprio processo, no caso previsto no número anterior.\n\n4 - Para fundamentar a decisão, na acção a que se refere o n.º 1, o tribunal deve pedir parecer à segurança social.\n\n5 - As importâncias cobradas revertem para o Instituto de Gestão Financeira e de Infra-Estruturas de Justiça, I. P.\n\n6 - O disposto nos números anteriores não prejudica a instauração de procedimento criminal se, para beneficiar da protecção jurídica, o requerente cometer crime.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "223417643": {
+   "fragment_id": "223414038",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Vítimas de violência doméstica e vítimas de crimes contra a liberdade e autodeterminação sexual",
+   "in_force_from": "2023-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 45/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/lei/45-2023-219991255), em vigor a partir de 2023-10-01",
+    "Aditado pelo/a Artigo 389.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 8.º-C — Vítimas de violência doméstica e vítimas de crimes contra a liberdade e autodeterminação sexual\n\n1 - No caso de atribuição do estatuto de vítima do crime de violência doméstica previsto no artigo 152.º do Código Penal, nos termos da Lei n.º 112/2009, de 16 de setembro, e no caso de vítimas de crimes contra a liberdade e autodeterminação sexual presume-se, até prova em contrário, que a vítima se encontra em situação de insuficiência económica.\n\n2 - Nos casos previstos no número anterior, é garantida à vítima a célere e sequente concessão de apoio judiciário, com natureza urgente, assegurando-se de imediato o acesso a aconselhamento jurídico.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 45/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/lei/45-2023-219991255), em vigor a partir de 2023-10-01\n\n> Aditado pelo/a Artigo 389.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  }
+ }
+}

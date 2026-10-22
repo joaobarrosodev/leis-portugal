@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:144454581:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-144457058",
+ "dre_path": "/dr/detalhe/portaria/233-2020-144454581",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "144574804",
+    "144574805",
+    "144574806",
+    "144574807",
+    "144574808"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:147101681:por",
+     "title": "Declaração de Retificação n.º 42/2020",
+     "published": "2020-10-30",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/42-2020-147101681",
+     "date": "2020-10-03"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "144574804": {
+   "fragment_id": "144457059",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 233/2020\n\nde 2 de outubro\n\nSumário: Revoga a Portaria n.º 251/2012, de 20 de agosto, que estabelece o regime de atribuição de incentivos à garantia de potência disponibilizada pelos centros eletroprodutores ao Sistema Elétrico Nacional (SEN).\n\nO Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, prevê, no seu artigo 33.º-A a criação de um mecanismo de atribuição de incentivos à garantia de potência disponibilizada pelos centros eletroprodutores ao Sistema Elétrico Nacional (SEN).\n\nA Portaria n.º 251/2012, de 20 de agosto, regulamentou a garantia de potência, disciplinando a remuneração do serviço de disponibilidade prestado pelos centros eletroprodutores e a atribuição de incentivos ao investimento em capacidade de produção a partir de fontes hídricas.\n\nA Lei do Orçamento do Estado de 2017, aprovada pela Lei n.º 42/2016, de 28 de dezembro, veio determinar a suspensão do modelo de garantia de potência na modalidade de incentivo à disponibilidade, prevendo a sua substituição por um mecanismo de mercado.\n\nEsse mecanismo de mercado viria a ser estabelecido pela Portaria n.º 41/2017, de 27 de janeiro, que determina um modelo de leilão para definição da remuneração aplicável à reserva de segurança prestada ao SEN e no qual também os centros eletroprodutores abrangidos pelo incentivo ao investimento podem participar.\n\nAssim, verifica-se que da Portaria n.º 251/2012 já só subsiste o mecanismo de incentivo ao investimento que não se revela compatível com as regras e diretrizes europeias do mercado interno que elegeram procedimentos abertos, transparentes e não discriminatórios em detrimento de mecanismos de atribuição administrativa como o ainda previsto na mencionada portaria.\n\nNestes termos, importa proceder à uniformização dos modelos de atribuição de incentivos à garantia de potência acolhendo, por um lado, as diretrizes europeias do mercado interno e, por outro lado, as recomendações da Comissão Parlamentar de Inquérito ao Pagamento de Rendas Excessivas aos Produtores de Eletricidade.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e da Energia, ao abrigo do disposto no n.º 1 do artigo 33.º-A do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, e do ponto xiii) da alínea d) do n.º 1 do Despacho n.º 12149-A/2019, de 17 de dezembro, do Ministro do Ambiente e da Ação Climática, publicado no Diário da República, 2.ª série, n.º 243, de 18 de dezembro de 2019, na sua redação atual, o seguinte:"
+  },
+  "144574805": {
+   "fragment_id": "144457060",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à revogação da Portaria n.º 251/2012, de 20 de agosto, que estabelece o regime de atribuição de incentivos à garantia de potência disponibilizada pelos centros eletroprodutores ao Sistema Elétrico Nacional (SEN)."
+  },
+  "144574806": {
+   "fragment_id": "144457061",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime transitório\n\n1 - Não são devidos incentivos ao investimento relativos ao ano de 2020.\n\n2 - Os incentivos ao investimento relativos ao ano de 2019 são pagos pela entidade responsável pela gestão técnica global do SEN até ao final do ano de 2020.\n\n3 - Sem prejuízo do disposto no n.º 1, os incentivos ao investimento relativos a centros eletroprodutores que tenham obtido reconhecimento de elegibilidade durante o ano de 2020 são pagos até 2021."
+  },
+  "144574807": {
+   "fragment_id": "144457062",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 251/2012, de 20 de agosto."
+  },
+  "144574808": {
+   "fragment_id": "144457063",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

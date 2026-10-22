@@ -1,0 +1,200 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570558:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-165272074",
+ "dre_path": "/dr/detalhe/lei/151-1999-570558",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-09-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165274784",
+    "165274775",
+    "165274776",
+    "165274777"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:376234:por",
+     "title": "Lei n.º 60-A/2005",
+     "published": "2005-12-30",
+     "dre_path": "/dr/detalhe/lei/60-a-2005-376234"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "165261874",
+    "165274780",
+    "165274776",
+    "165274777",
+    "165274778"
+   ]
+  },
+  {
+   "date": "2008-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247448:por",
+     "title": "Decreto-Lei n.º 34/2008",
+     "published": "2008-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/34-2008-247448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "165261874",
+    "165274783",
+    "165274776",
+    "165274777",
+    "165274778"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "165274784",
+    "165274785",
+    "165274786",
+    "165274787",
+    "165274788"
+   ]
+  }
+ ],
+ "fragments": {
+  "165274784": {
+   "fragment_id": "165274675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-07-01",
+   "changed_by": [],
+   "markdown": "Lei n.º 151/99\n\nde 14 de Setembro\n\nActualiza o regime de regalias e isenções fiscais das pessoas colectivas de utilidade pública\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "165274775": {
+   "fragment_id": "165274676",
+   "type": 11,
+   "heading": "Artigo 1.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Isenções\n\nSem prejuízo de outros benefícios previstos na restante legislação aplicável, podem ser concedidas às pessoas colectivas de utilidade pública as seguintes isenções:\n\na) Imposto do selo;\n\nb) Imposto municipal de sisa pela aquisição dos imóveis destinados à realização dos seus fins estatutários;\n\nc) Imposto sobre as sucessões e doações relativo à transmissão de imóveis destinados à realização dos seus fins estatutários;\n\nd) Contribuição autárquica de prédios urbanos destinados à realização dos seus fins estatutários;\n\ne) Imposto sobre o rendimento das pessoas colectivas, a ser reconhecida nos termos e condições do respectivo Código;\n\nf) Imposto sobre veículos, imposto de circulação e imposto automóvel nos casos em que os veículos a adquirir a título oneroso sejam classificados como veículos ligeiros de mercadorias derivados de ligeiros de passageiros, todo-o-terreno e furgões ligeiros de passageiros, nos termos da legislação em vigor;\n\ng) Custas judiciais."
+  },
+  "165274776": {
+   "fragment_id": "165274677",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 260-D/81, de 2 de Setembro."
+  },
+  "165274777": {
+   "fragment_id": "165274678",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nSem prejuízo da sua entrada em vigor nos termos gerais, a presente lei só produz efeitos financeiros com a entrada em vigor da lei do Orçamento do Estado posterior à sua aprovação."
+  },
+  "165261874": {
+   "fragment_id": "165274675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 151/99\n\nde 14 de Setembro\n\nActualiza o regime de regalias e isenções fiscais das pessoas colectivas de utilidade pública\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "165274780": {
+   "fragment_id": "165274676",
+   "type": 11,
+   "heading": "Artigo 1.º — Isenções",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Isenções\n\nSem prejuízo de outros benefícios previstos na restante legislação aplicável, podem ser concedidas às pessoas colectivas de utilidade pública as seguintes isenções:\n\na) Imposto do selo;\n\nb) Imposto municipal de sisa pela aquisição dos imóveis destinados à realização dos seus fins estatutários;\n\nc) Imposto sobre as sucessões e doações relativo à transmissão de imóveis destinados à realização dos seus fins estatutários;\n\nd) Contribuição autárquica de prédios urbanos destinados à realização dos seus fins estatutários;\n\ne) Imposto sobre o rendimento das pessoas colectivas, a ser reconhecida nos termos e condições do respectivo Código;                                        f) Imposto sobre veículos, imposto de circulação e imposto automóvel nos casos em que os veículos a adquirir a título oneroso sejam tributados pelas tabelas III, IV, V e VI anexas ao Decreto-Lei n.º 40/93, de 18 de Fevereiro;\n\ng) Custas judiciais.\n\n> Alterado pelo/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01"
+  },
+  "165274778": {
+   "fragment_id": "165274679",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de Julho de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 26 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 2 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "165274783": {
+   "fragment_id": "165274676",
+   "type": 11,
+   "heading": "Artigo 1.º — Isenções",
+   "in_force_from": "2008-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01",
+    "Alterado pelo/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Isenções\n\nSem prejuízo de outros benefícios previstos na restante legislação aplicável, podem ser concedidas às pessoas colectivas de utilidade pública as seguintes isenções:\n\na) Imposto do selo;\n\nb) Imposto municipal de sisa pela aquisição dos imóveis destinados à realização dos seus fins estatutários;\n\nc) Imposto sobre as sucessões e doações relativo à transmissão de imóveis destinados à realização dos seus fins estatutários;\n\nd) Contribuição autárquica de prédios urbanos destinados à realização dos seus fins estatutários;\n\ne) Imposto sobre o rendimento das pessoas colectivas, a ser reconhecida nos termos e condições do respectivo Código;                                        f) Imposto sobre veículos, imposto de circulação e imposto automóvel nos casos em que os veículos a adquirir a título oneroso sejam tributados pelas tabelas III, IV, V e VI anexas ao Decreto-Lei n.º 40/93, de 18 de Fevereiro;\n\ng)  (Revogada).\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01\n\n> Alterado pelo/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01"
+  },
+  "165274785": {
+   "fragment_id": "165274676",
+   "type": 11,
+   "heading": "Artigo 1.º — Isenções",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01",
+    "Alterado pelo/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Isenções\n\nSem prejuízo de outros benefícios previstos na restante legislação aplicável, podem ser concedidas às pessoas colectivas de utilidade pública as seguintes isenções:\n\na) Imposto do selo;\n\nb) Imposto municipal de sisa pela aquisição dos imóveis destinados à realização dos seus fins estatutários;\n\nc) Imposto sobre as sucessões e doações relativo à transmissão de imóveis destinados à realização dos seus fins estatutários;\n\nd) Contribuição autárquica de prédios urbanos destinados à realização dos seus fins estatutários;\n\ne) Imposto sobre o rendimento das pessoas colectivas, a ser reconhecida nos termos e condições do respectivo Código;                                        f) Imposto sobre veículos, imposto de circulação e imposto automóvel nos casos em que os veículos a adquirir a título oneroso sejam tributados pelas tabelas III, IV, V e VI anexas ao Decreto-Lei n.º 40/93, de 18 de Fevereiro;\n\ng)  (Revogada).\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01\n\n> Alterado pelo/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01"
+  },
+  "165274786": {
+   "fragment_id": "165274677",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 260-D/81, de 2 de Setembro.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165274787": {
+   "fragment_id": "165274678",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nSem prejuízo da sua entrada em vigor nos termos gerais, a presente lei só produz efeitos financeiros com a entrada em vigor da lei do Orçamento do Estado posterior à sua aprovação.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165274788": {
+   "fragment_id": "165274679",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "Aprovada em 1 de Julho de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 26 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 2 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  }
+ }
+}

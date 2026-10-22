@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667136:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/1999-1011134091",
+ "dre_path": "/dr/detalhe/aviso/154-1999-667136",
+ "source_lastmod": "2026-10-08",
+ "versions": [
+  {
+   "date": "1999-10-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1178258075",
+    "1011165875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1178258075": {
+   "fragment_id": "1011165575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se tornam públicas as modificações ao Regulamento n.º 13 do Acordo, assinado em Genebra em 20 de Março de 1958, sobre Adopção de Prescrições Técnicas Uniformes para Veículos Rodoviários, Equipamentos e Peças Que Podem Ser Usados em Veículos Rodoviários e sobre Condições de Reconhecimento Recíproco de Aprovações Concedidas com Base Nestas Prescrições, modificações aquelas adoptadas em 14 de Abril de 1999.\n\nPortugal é Parte no mesmo Acordo, aprovado, por adesão, pelo Decreto n.º 138-A/79, de 22 de Dezembro, mas não no Regulamento n.º 17 atrás referido."
+  },
+  "1011165875": {
+   "fragment_id": "1011165775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Multilaterais, 20 de Setembro de 1999. - A Directora-Geral, Ana Martinho."
+  }
+ }
+}

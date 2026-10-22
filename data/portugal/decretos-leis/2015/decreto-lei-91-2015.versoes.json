@@ -1,0 +1,1085 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67348943:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-131246766",
+ "dre_path": "/dr/detalhe/decreto-lei/91-2015-67348943",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131229457",
+    "131229458",
+    "131229459",
+    "131229460",
+    "131229461",
+    "131229462",
+    "131229463",
+    "131229464",
+    "131229465",
+    "131229466",
+    "131229467",
+    "131229468",
+    "131229469",
+    "131229470",
+    "131229471",
+    "131229472",
+    "131229473",
+    "131229474",
+    "131290475",
+    "131290476",
+    "131290477",
+    "131290478",
+    "131290479",
+    "131290480",
+    "131290481",
+    "131290482",
+    "131290483",
+    "131290484",
+    "131290485",
+    "131290486",
+    "131290487",
+    "131290489",
+    "131290490",
+    "131290491",
+    "131290492",
+    "131290493",
+    "131290494",
+    "131290495",
+    "131290496",
+    "131290497",
+    "131290498",
+    "131290499",
+    "131290500",
+    "131290501",
+    "131290502",
+    "131290503",
+    "131290504",
+    "131290505",
+    "131290506",
+    "131290507",
+    "131290508",
+    "131290509",
+    "131290510",
+    "131290511",
+    "131290512",
+    "131290513",
+    "131290514",
+    "131290515",
+    "131290516",
+    "131290517",
+    "131290518",
+    "131290519",
+    "131290520",
+    "131290521",
+    "131290522",
+    "131290523",
+    "131290524",
+    "131290525",
+    "131290526",
+    "131290527",
+    "131290528"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537589:por",
+     "title": "Decreto-Lei n.º 124-A/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/124-a-2018-117537589"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "131229457",
+    "131229458",
+    "131229459",
+    "131229460",
+    "131229461",
+    "131229462",
+    "131229463",
+    "131229464",
+    "131290529",
+    "131229466",
+    "131229467",
+    "131229468",
+    "131229469",
+    "131229470",
+    "131229471",
+    "131229472",
+    "131229473",
+    "131229474",
+    "131290475",
+    "131290476",
+    "131290477",
+    "131290478",
+    "131290479",
+    "131290480",
+    "131290481",
+    "131290482",
+    "131290483",
+    "131290484",
+    "131290485",
+    "131290486",
+    "131290487",
+    "131290488",
+    "131290489",
+    "131290490",
+    "131290491",
+    "131290492",
+    "131290493",
+    "131290494",
+    "131290495",
+    "131290496",
+    "131290497",
+    "131290498",
+    "131290499",
+    "131290500",
+    "131290501",
+    "131290502",
+    "131290503",
+    "131290504",
+    "131290505",
+    "131290506",
+    "131290507",
+    "131290508",
+    "131290509",
+    "131290510",
+    "131290511",
+    "131290512",
+    "131290513",
+    "131290514",
+    "131290515",
+    "131290516",
+    "131290517",
+    "131290518",
+    "131290519",
+    "131290520",
+    "131290521",
+    "131290522",
+    "131290523",
+    "131290524",
+    "131290525",
+    "131290526",
+    "131290527",
+    "131290528"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "131229457",
+    "131229458",
+    "131229459",
+    "131229460",
+    "131229461",
+    "131229462",
+    "131229463",
+    "131229464",
+    "131290529",
+    "131229466",
+    "131229467",
+    "131229468",
+    "131229469",
+    "131229470",
+    "131229471",
+    "131229472",
+    "131229473",
+    "131229474",
+    "131290475",
+    "131290476",
+    "131290477",
+    "131290478",
+    "131290479",
+    "158294289",
+    "131290481",
+    "131290482",
+    "131290483",
+    "131290484",
+    "131290485",
+    "131290486",
+    "131290487",
+    "131290488",
+    "131290489",
+    "131290490",
+    "131290491",
+    "131290492",
+    "131290493",
+    "131290494",
+    "131290495",
+    "131290496",
+    "131290497",
+    "131290498",
+    "131290499",
+    "131290500",
+    "131290501",
+    "131290502",
+    "131290503",
+    "131290504",
+    "131290505",
+    "131290506",
+    "131290507",
+    "131290508",
+    "131290509",
+    "131290510",
+    "131290511",
+    "131290512",
+    "131290513",
+    "131290514",
+    "131290515",
+    "131290516",
+    "131290517",
+    "131290518",
+    "131290519",
+    "131290520",
+    "131290521",
+    "131290522",
+    "131290523",
+    "131290524",
+    "131290525",
+    "131290526",
+    "131290527",
+    "131290528"
+   ]
+  },
+  {
+   "date": "2022-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201450532:por",
+     "title": "Decreto-Lei n.º 63/2022",
+     "published": "2022-09-26",
+     "dre_path": "/dr/detalhe/decreto-lei/63-2022-201450532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "131229457",
+    "131229458",
+    "131229459",
+    "131229460",
+    "131229461",
+    "131229462",
+    "131229463",
+    "131229464",
+    "201507687",
+    "131229466",
+    "131229467",
+    "131229468",
+    "131229469",
+    "131229470",
+    "131229471",
+    "201507688",
+    "131229473",
+    "131229474",
+    "131290475",
+    "131290476",
+    "131290477",
+    "131290478",
+    "131290479",
+    "158294289",
+    "131290481",
+    "131290482",
+    "131290483",
+    "131290484",
+    "131290485",
+    "131290486",
+    "131290487",
+    "131290488",
+    "131290489",
+    "131290490",
+    "131290491",
+    "201507689",
+    "131290493",
+    "131290494",
+    "131290495",
+    "131290496",
+    "131290497",
+    "131290498",
+    "131290499",
+    "131290500",
+    "131290501",
+    "131290502",
+    "131290503",
+    "131290504",
+    "131290505",
+    "131290506",
+    "131290507",
+    "131290508",
+    "131290509",
+    "131290510",
+    "131290511",
+    "131290512",
+    "131290513",
+    "131290514",
+    "131290515",
+    "131290516",
+    "131290517",
+    "131290518",
+    "131290519",
+    "131290520",
+    "131290521",
+    "131290522",
+    "131290523",
+    "131290524",
+    "131290525",
+    "131290526",
+    "131290527",
+    "131290528"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205557185:por",
+     "title": "Lei n.º 24-E/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/lei/24-e-2022-205557185"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "131229457",
+    "131229458",
+    "131229459",
+    "131229460",
+    "131229461",
+    "131229462",
+    "131229463",
+    "131229464",
+    "201507687",
+    "131229466",
+    "131229467",
+    "131229468",
+    "131229469",
+    "131229470",
+    "131229471",
+    "201507688",
+    "131229473",
+    "131229474",
+    "131290475",
+    "131290476",
+    "205639773",
+    "131290478",
+    "131290479",
+    "158294289",
+    "131290481",
+    "131290482",
+    "131290483",
+    "131290484",
+    "131290485",
+    "131290486",
+    "131290487",
+    "131290488",
+    "131290489",
+    "131290490",
+    "131290491",
+    "201507689",
+    "131290493",
+    "131290494",
+    "131290495",
+    "131290496",
+    "131290497",
+    "131290498",
+    "131290499",
+    "131290500",
+    "131290501",
+    "131290502",
+    "131290503",
+    "131290504",
+    "131290505",
+    "131290506",
+    "131290507",
+    "131290508",
+    "131290509",
+    "131290510",
+    "131290511",
+    "131290512",
+    "131290513",
+    "131290514",
+    "131290515",
+    "131290516",
+    "131290517",
+    "131290518",
+    "131290519",
+    "131290520",
+    "131290521",
+    "131290522",
+    "131290523",
+    "131290524",
+    "131290525",
+    "131290526",
+    "131290527",
+    "131290528"
+   ]
+  }
+ ],
+ "fragments": {
+  "131229457": {
+   "fragment_id": "131246767",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 91/2015\n\nde 29 de maio\n\nNo âmbito do Plano Estratégico dos Transportes e Infraestruturas (PETI3+), o Governo consagrou, entre outras matérias, a fusão entre a Rede Ferroviária Nacional - REFER, E. P. E. (REFER, E. P. E.) e a EP - Estradas de Portugal, S. A. (EP, S. A.), com o objetivo de criar uma única empresa de gestão de infraestruturas de transportes em Portugal, numa visão integrada das infraestruturas ferroviárias e rodoviárias.\n\nA fusão das duas empresas permite alcançar dois grandes objetivos estratégicos. Por um lado, garante uma gestão integrada das redes ferroviária e rodoviária, potenciando a intermodalidade e a complementaridade entre os dois modos, assim como o aproveitamento das sinergias e do know-how de ambas as empresas, reduzindo encargos de funcionamento ao nível operacional. Por outro lado, assegura a existência de um modelo de negócio financeiramente sustentável, tendo por base linhas de orientação estratégica sólidas, num quadro de modelo de financiamento da infraestrutura ferroviária e da infraestrutura rodoviária que desonera os contribuintes.\n\nA fusão da REFER, E. P. E., e da EP, S. A., permite obter ganhos de eficiência ao nível da contratação externa, da eliminação da sobreposição de estruturas internas comuns às duas empresas, da redução de encargos por via de economias de escala e de uma melhor afetação de recursos disponíveis, traduzindo uma melhoria significativa da situação económico-financeira das duas empresas, alcançando sustentabilidade, com criação de valor para o Estado e para a economia nacional.\n\nA fusão das referidas empresas permite, ainda, a coordenação e a articulação da presença regional, a potenciação da experiência de gestão de concessões e o incremento das receitas das respetivas gestoras de infraestruturas.\n\nTambém ao nível do sistema de transportes, a atribuição a uma única entidade de coordenação e planeamento integrado das redes ferroviária e rodoviária promove uma melhor organização da rede de transportes, além de permitir uma melhor afetação de recursos.\n\nAcresce, ainda, que ambas as empresas administram domínio público do Estado, sendo que várias das suas atribuições se entrecruzam de forma muito direta, pelo que só de forma concertada e única se potencia e dinamiza toda a sua atividade, com a consequente redução de encargos, por via do aproveitamento de sinergias e «know-how».\n\nFoi neste contexto que, tendo em consideração o trabalho desenvolvido pela Comissão de Planeamento nomeada pelos Secretários de Estado do Tesouro e das Infraestruturas, Transportes e Comunicações, as administrações da REFER, E. P. E., e da EP, S. A., aprovaram e apresentaram um documento intitulado «Memorando da Fusão», nos termos do qual são elencados os traços gerais para a concretização da respetiva operação. Este documento contempla informação relacionada com a modalidade, os motivos, as condições e os objetivos da fusão, bem como uma descrição da atividade das empresas. Faz ainda referência ao projeto de estatutos da nova empresa, nomeadamente à estrutura de capitais próprios e aos resultados que se prevê alcançar com esta operação.\n\nNeste sentido, face à complementaridade e à necessidade de uma efetiva coordenação dos objetivos a prosseguir no âmbito do PETI3+, relativamente aos setores ferroviário e rodoviário, tendo subjacente princípios de qualidade, economia e eficiência, e tendo em vista a prossecução do interesse público, importa modificar a situação atual através da fusão das duas empresas, por incorporação da EP, S. A., na REFER, E. P. E., procedendo-se à respetiva transferência das atribuições e competências para a REFER, E. P. E., que é transformada em sociedade anónima, e passa a denominar-se Infraestruturas de Portugal, S. A., garantindo-se assim níveis de autonomia empresarial e operacional, adequados a uma maior agilização e posicionamento da empresa no mercado.\n\nA fusão por incorporação implica a extinção da EP, S. A., extinção essa que em conformidade com o atual regime do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, ocorre também por via do presente decreto-lei.\n\nA operação segue os termos estabelecidos no presente decreto-lei, que a determina, afastando a aplicação do Código das Sociedades Comerciais, por estar em causa uma entidade pública empresarial. Consequentemente, e de modo a atualizar e unificar o quadro jurídico aplicável, a operação implica a revogação dos estatutos de ambas as empresas, sendo por via do presente decreto-lei aprovados os novos estatutos que refletem já o disposto no regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, designadamente, a estrutura de administração e fiscalização cuja complexidade e especificidade justificam a exceção à regra constante do n.º 2 do artigo 31.º deste regime jurídico.\n\nRelativamente à proteção dos credores, consigna-se um regime próprio de oposição à fusão.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "131229458": {
+   "fragment_id": "131246768",
+   "type": 1,
+   "heading": "Capítulo I — Fusão e transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Fusão e transformação"
+  },
+  "131229459": {
+   "fragment_id": "131246769",
+   "type": 11,
+   "heading": "Artigo 1.º — Fusão, transformação e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Fusão, transformação e denominação\n\n1 - A Rede Ferroviária Nacional - Refer, E. P. E. (REFER, E. P. E.), incorpora, por fusão, a EP - Estradas de Portugal, S. A. (EP, S. A.), e é transformada em sociedade anónima, passando a denominar-se Infraestruturas de Portugal, S. A. (IP, S. A.), mantendo o seu número de matrícula e de identificação fiscal.\n\n2 - É extinta a EP, S. A., transferindo-se as suas atribuições e competências para a IP, S. A.\n\n3 - São aprovados os estatutos da IP, S. A., constantes do anexo I ao presente decreto-lei e que dele faz parte integrante.\n\n4 - O presente decreto-lei constitui título bastante, para todos os efeitos legais e contratuais, incluindo os de registo, ficando dispensada a elaboração e registo comercial do projeto de fusão."
+  },
+  "131229460": {
+   "fragment_id": "131246770",
+   "type": 11,
+   "heading": "Artigo 2.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sucessão\n\n1 - A IP, S. A., sucede à REFER, E. P. E., e à EP, S. A., conservando a universalidade dos bens, dos direitos e das obrigações, legais e contratuais, que integram as respetivas esferas jurídicas no momento da fusão.\n\n2 - A fusão não constitui alteração de circunstâncias ou variação dos contratos celebrados pela REFER, E. P. E., e pela EP, S. A., com terceiros.\n\n3 - Nos contratos em que foram prestadas garantias a favor da EP, S. A., estas mantêm-se válidas por força da transferência universal do património da EP, S. A., para a IP, S. A., mantendo-se igualmente válidas as garantias prestadas a favor da REFER, E. P. E.\n\n4 - A publicação do presente decreto-lei substitui, para todos os efeitos legais e contratuais, a necessidade de comunicação ou notificação da sucessão ou transmissão da posição contratual por parte da REFER, E. P. E., e da EP, S. A., nos contratos por estas celebrados.\n\n5 - Todas as referências legais, regulamentares e contratuais, feitas à REFER, E. P. E., e ou à EP, S. A., consideram-se feitas à IP, S. A."
+  },
+  "131229461": {
+   "fragment_id": "131246771",
+   "type": 11,
+   "heading": "Artigo 3.º — Oposição de credores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Oposição de credores\n\n1 - Podem deduzir oposição judicial à presente fusão, os credores cujos créditos sejam anteriores à data da publicação do presente decreto-lei, desde que tenham solicitado à sociedade a satisfação do seu crédito ou a prestação de garantia adequada, há pelo menos 15 dias, sem que o seu pedido tenha sido atendido.\n\n2 - Os credores previstos no número anterior apenas podem deduzir oposição judicial à fusão, com fundamento no prejuízo de que dela derive para a realização dos seus direitos e no prazo de 30 dias contados da data da publicação do presente decreto-lei.\n\n3 - A oposição dos credores não suspende a fusão e caso seja resolvida favoravelmente ao credor, a IP, S. A., fica responsável nos exatos termos decorrentes da respetiva decisão judicial transitada em julgado.\n\n4 - No caso de a decisão judicial referida no número anterior determinar o pagamento de um crédito pela IP, S. A., este goza de preferência sobre os de natureza idêntica constituídos após a fusão."
+  },
+  "131229462": {
+   "fragment_id": "131246772",
+   "type": 1,
+   "heading": "Capítulo II — Natureza, regime aplicável, objeto e património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Natureza, regime aplicável, objeto e património"
+  },
+  "131229463": {
+   "fragment_id": "131246773",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza e regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza e regime aplicável\n\n1 - A IP, S. A., reveste a natureza de empresa pública sob forma de sociedade anónima.\n\n2 - A IP, S. A., rege-se pelo presente decreto-lei, pelos seus estatutos, pelo regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, pelo Código das Sociedades Comerciais, pelos seus regulamentos internos, e pelas normas especiais que lhe sejam aplicáveis.\n\n3 - À IP, S. A., aplicam-se, quanto ao regime do serviço público de gestão da infraestrutura sob sua administração, as regras previstas no respetivo contrato de concessão."
+  },
+  "131229464": {
+   "fragment_id": "131246774",
+   "type": 11,
+   "heading": "Artigo 5.º — Jurisdição e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Jurisdição e sede\n\nA IP, S. A., tem jurisdição em todo o território nacional continental e tem sede na Praça da Portagem, em Almada."
+  },
+  "131229465": {
+   "fragment_id": "131290375",
+   "type": 11,
+   "heading": "Artigo 6.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objeto\n\n1 - A IP, S. A., tem por objeto a conceção, projeto, construção, financiamento, conservação, exploração, requalificação, alargamento e modernização das redes rodoviária e ferroviária nacionais, incluindo-se nesta última o comando e o controlo da circulação.\n\n2 - Para efeitos do disposto no número anterior, a IP, S. A., assume a posição de gestor de infraestruturas, nos termos do contrato de concessão geral da rede rodoviária nacional celebrado com o Estado e dos contratos de concessão que com o mesmo venham a ser celebrados, bem como a gestão das demais infraestruturas sob sua administração.\n\n3 - O Estado pode delegar na IP, S. A., a preparação dos processos de abertura à concorrência da exploração de serviço de transporte ferroviário em regime de serviço público, em linhas férreas, troços de linhas e ramais, que integram ou venham a integrar a Rede Ferroviária Nacional, os quais devem ser objeto de apreciação e parecer prévio vinculativo da Autoridade da Mobilidade e dos Transportes, nos termos das suas competências de regulação e de promoção e defesa da concorrência.\n\n4 - O Estado pode, ainda, enquanto autoridade de transportes competente quanto ao serviço público de transporte de passageiros, em modo ferroviário pesado, delegar ou concessionar a posição de autoridade competente para efeitos de atribuição a terceiros da exploração de serviço de transporte ferroviário em regime de serviço público, nos termos da legislação europeia e nacional aplicável.\n\n5 - Estão ainda incluídos no objeto da IP, S. A., as atividades de exploração do domínio público ferroviário e rodoviário do Estado, e do seu património autónomo, designadamente a exploração de áreas de serviço, de parques de estacionamento, bem como dos sistemas de informação e gestão de tráfego, dos sistemas de segurança ferroviária e rodoviária, do canal técnico e das redes de comunicações entre infraestruturas ou entre estas e os veículos, as estações, os terminais e outras instalações ferroviárias.\n\n6 - A IP, S. A., pode exercer também quaisquer atividades complementares ou subsidiárias do seu objeto principal, relativas, designadamente, à exploração do conhecimento, da inovação, da tecnologia e dos ativos materiais e imateriais da IP, S. A., em regime comercial ou concorrencial, no país ou no estrangeiro, bem como a exploração de outros ramos de atividades comercial ou industrial deles acessórios que não prejudiquem e não colidam com a prossecução do mesmo."
+  },
+  "131229466": {
+   "fragment_id": "131290376",
+   "type": 11,
+   "heading": "Artigo 7.º — Participações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Participações\n\nPara o desenvolvimento da sua atividade, a IP, S. A., pode constituir ou participar no capital social de quaisquer outras sociedades, independentemente do seu objeto, ou participar em agrupamentos complementares de sociedades, agrupamentos europeus de interesse económico, consórcios e associações em participação temporária ou permanente, entre sociedades ou com entidades de direito público ou privado, no país ou no estrangeiro."
+  },
+  "131229467": {
+   "fragment_id": "131290377",
+   "type": 11,
+   "heading": "Artigo 8.º — Titularidade e função acionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Titularidade e função acionista\n\n1 - As ações representativas da totalidade do capital social da IP, S. A., pertencem ao Estado, e são detidas pela Direção-Geral do Tesouro e Finanças.\n\n2 - As ações são nominativas e revestem a forma escritural."
+  },
+  "131229468": {
+   "fragment_id": "131290378",
+   "type": 11,
+   "heading": "Artigo 9.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Capital social\n\nO capital social da IP, S. A., em resultado da fusão é de (euro) 2 555 835 000 e encontra-se integralmente subscrito e realizado pelo Estado à data da entrada em vigor do presente decreto-lei."
+  },
+  "131229469": {
+   "fragment_id": "131290379",
+   "type": 11,
+   "heading": "Artigo 10.º — Património autónomo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Património autónomo\n\n1 - O património autónomo da IP, S. A., é constituído pela universalidade dos bens e direitos tangíveis e intangíveis que integram o património privado da REFER, E. P. E., e dos que integram o património autónomo da EP, S. A., na data da entrada em vigor do presente decreto-lei, incluindo os que resultam do contrato de concessão.\n\n2 - O património autónomo da IP, S. A., é também constituído pelos bens que sejam desafetados do domínio público e integrados nesse património nos termos previstos nos respetivos regimes do domínio público ferroviário e rodoviário do Estado.\n\n3 - Integram o património autónomo da IP, S. A., os bens imóveis que tenham sido expropriados pela REFER, E. P. E., ou pela EP, S. A., subconcessionárias desta e concessionárias do Estado, e aqueles que venham a ser expropriados pela IP, S. A., e que não careçam de integrar o domínio público ferroviário ou rodoviário.\n\n4 - O presente decreto-lei constitui título de aquisição bastante dos bens integrados no património da IP, S. A., para todos os efeitos legais, incluindo os de registo.\n\n5 - Compete à IP, S. A., promover junto das conservatórias e dos serviços competentes o registo dos bens e direitos sujeitos a registo que constituam o seu património autónomo.\n\n6 - A IP, S. A., pode administrar e dispor livremente dos bens que integram o seu património autónomo."
+  },
+  "131229470": {
+   "fragment_id": "131290380",
+   "type": 11,
+   "heading": "Artigo 11.º — Domínio público ferroviário e rodoviário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Domínio público ferroviário e rodoviário\n\n1 - A IP, S. A., conserva os direitos e assume as responsabilidades atribuídas ao Estado relativamente ao domínio público ferroviário nas disposições legais e regulamentares aplicáveis, nomeadamente no Decreto-Lei n.º 276/2003, de 4 de novembro, alterado pelo Decreto-Lei n.º 29-A/2011, de 1 de março.\n\n2 - As infraestruturas rodoviárias nacionais que integram o domínio público rodoviário do Estado e que estejam em regime de afetação ao trânsito público ficam neste regime sob administração da IP, S. A., que as pode rentabilizar, mediante concessão ou licença, salvo se a respetiva administração tiver sido atribuída por lei ou contrato a outra entidade.\n\n3 - Sem prejuízo das competências atribuídas a outras entidades, a IP, S. A., mantém atualizados os registos referentes ao cadastro dos bens e direitos do domínio público do Estado sob a sua gestão."
+  },
+  "131229471": {
+   "fragment_id": "131290381",
+   "type": 1,
+   "heading": "Capítulo III — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estatuto"
+  },
+  "131229472": {
+   "fragment_id": "131290382",
+   "type": 11,
+   "heading": "Artigo 12.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Poderes de autoridade\n\n1 - Compete à IP, S. A., relativamente às infraestruturas rodoviárias e ferroviárias nacionais sob sua administração, zelar pela manutenção permanente das condições de infraestruturação e conservação e pela segurança da circulação ferroviária e rodoviária.\n\n2 - Para o desenvolvimento da sua atividade principal, a IP, S. A., detém os poderes, prerrogativas e obrigações conferidos ao Estado pelas disposições legais e regulamentares aplicáveis, designadamente no que respeita:\n\na) Aos processos de expropriação, nos termos previstos no respetivo código, com a faculdade de transmitir os seus poderes a terceiros, por uma das formas previstas na lei ou por via contratual;\n\nb) Ao licenciamento e concessão, nos termos da legislação aplicável, da exploração, da utilização, da ocupação ou do exercício de quaisquer atividades nos terrenos, edificações e outras infraestruturas do domínio público ferroviário e rodoviário, integrados ou afetos às respetivas redes nacionais;\n\nc) A intimações, embargo administrativo e demolição de construções e edificações efetuadas em domínio público sob gestão da IP, S. A., em zonas non aedificandi e em zonas de proteção estabelecidas por lei, bem como à determinação da remoção de outras situações suscetíveis de violar estas zonas, e reposição do estado do terreno ou imóvel existente antes desta situação;\n\nd) A ocupação temporária e atravessamento de terrenos confinantes e vizinhos de bens de domínio público ferroviário e rodoviário, bem como ao desvio de linhas de águas, mediante autorização concedida pela autoridade competente, para efeitos de realização de estudos, obras ou trabalhos preparatórios de construção, renovação, conservação e consolidação das vias ferroviárias e rodoviárias ou de outros elementos das respetivas infraestruturas, em que não se justifique a respetiva expropriação;\n\ne) Ao encerramento compulsivo de instalações onde sejam exercidas atividades proibidas, perigosas, ou não autorizadas, bem como aos casos resultantes de incumprimento contratual;\n\nf) À liquidação e cobrança, voluntária e coerciva, de taxas e tarifas provenientes das suas atividades;\n\ng) À utilização, proteção, gestão e fiscalização das infraestruturas afetas ao serviço público;\n\nh) À execução coerciva das demais decisões de autoridade, com recurso à posse administrativa dos imóveis e terrenos, sempre que tal se revelar necessário como garantia de eficácia das decisões tomadas;\n\ni) À proteção das suas instalações e do seu pessoal;\n\nj) À regulamentação e fiscalização dos serviços prestados no âmbito das suas atividades e à aplicação das correspondentes sanções, nos termos da lei;\n\nk) À responsabilidade civil extracontratual, no exercício dos respetivos poderes públicos;\n\nl) À instauração, instrução e decisão de processos de contraordenação, incluindo a aplicação de sanções.\n\n3 - São ainda conferidos à IP, S. A., nos termos da lei, os seguintes poderes de autoridade necessários para garantir a integridade dos bens que lhe estão afetos, bem como a segurança da circulação e das infraestruturas a seu cargo:\n\na) Determinar a título preventivo e com efeitos imediatos, mediante ordem escrita devidamente fundamentada a suspensão ou cessação de atividades ou o encerramento de instalações que ponham em risco a circulação ferroviária e rodoviária, causem dano ou ameacem causá-lo às vias ou elementos das respetivas infraestruturas;\n\nb) Identificar as pessoas ou entidades que promovam quaisquer atividades em violação das disposições legais e regulamentares de proteção à ferrovia e rodovia e ao património público afeto à respetiva exploração, em especial à segurança ferroviária e rodoviária, procedendo à imediata denúncia perante as autoridades competentes, se tais atos forem suscetíveis de integrar um tipo legal de crime ou um tipo de ilícito contraordenacional;\n\nc) Solicitar a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações que, por razões de segurança ou de garantia de inviolabilidade dos bens públicos, devam ter execução imediata no âmbito do exercício dos poderes públicos atribuídos;\n\nd) Determinar e proceder à imediata remoção de ocupações indevidas de bens de domínio público sob sua gestão, ou afetos à sua atividade, recorrendo, se necessário, à colaboração das autoridades policiais;\n\ne) Substituir-se ao proprietário ou possuidor de prédios confinantes e vizinhos, a expensas dele, caso este não dê cumprimento ao que lhe é exigido no âmbito das alíneas anteriores."
+  },
+  "131229473": {
+   "fragment_id": "131290383",
+   "type": 1,
+   "heading": "Capítulo IV — Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Orgânica"
+  },
+  "131229474": {
+   "fragment_id": "131290384",
+   "type": 11,
+   "heading": "Artigo 13.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Órgãos sociais\n\n1 - São órgãos sociais da IP, S. A.:\n\na) A assembleia geral;\n\nb) O conselho de administração executivo;\n\nc) O conselho geral e de supervisão;\n\nd) O revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n2 - Sem prejuízo do disposto no n.º 4 do artigo 20.º, os titulares dos órgãos sociais são eleitos na primeira assembleia geral da IP, S. A., que reúne no dia seguinte à data da entrada em vigor do presente decreto-lei, e nos termos do artigo 54.º do Código das Sociedades Comerciais.\n\n3 - O conselho geral e de supervisão constitui uma comissão para as matérias financeiras.\n\n4 - O conselho de administração executivo pode aprovar a constituição de comissões e comités, com ou sem a presença dos seus membros, para acompanhar matérias específicas, de forma permanente ou temporária, definindo as respetivas competências e, se for o caso, a sua duração."
+  },
+  "131290475": {
+   "fragment_id": "131290385",
+   "type": 1,
+   "heading": "Capítulo V — Regime financeiro e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime financeiro e patrimonial"
+  },
+  "131290476": {
+   "fragment_id": "131290386",
+   "type": 11,
+   "heading": "Artigo 14.º — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gestão financeira e patrimonial\n\n1 - No âmbito da gestão financeira e patrimonial, a IP, S. A., deve observar as regras legais e regulamentares e aplicar os princípios da boa gestão empresarial, de forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro, na prossecução do interesse público inerente à sua atividade.\n\n2 - Salvo disposição legal em contrário e sem prejuízo do disposto no n.º 2 do artigo seguinte, é da exclusiva competência da IP, S. A., a cobrança de receitas proveniente da sua atividade ou que lhe sejam facultadas nos termos dos estatutos ou da lei, bem como a realização das despesas inerentes à prossecução do seu objeto."
+  },
+  "131290477": {
+   "fragment_id": "131290387",
+   "type": 11,
+   "heading": "Artigo 15.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Receitas\n\n1 - São receitas da IP, S. A.:\n\na) O produto da contribuição de serviço rodoviário;\n\nb) O valor de taxas de portagem;\n\nc) O produto de taxas, emolumentos e outras receitas cobradas por serviços prestados no âmbito da sua atividade;\n\nd) As taxas de utilização da infraestrutura ferroviária e outros proveitos resultantes do exercício da sua atividade e do aproveitamento da infraestrutura, designadamente os resultantes de serviços e prestações acessórios;\n\ne) As comparticipações, as dotações, os subsídios e as compensações financeiras do Estado ou de outras entidades públicas nacionais ou da União Europeia;\n\nf) As indemnizações, o produto de doações, heranças ou legados que lhe sejam concedidos ou devidos, por quaisquer entidades;\n\ng) Os montantes legais resultantes da aplicação de coimas e de outras sanções;\n\nh) O produto da venda de publicações e de processos patenteados para efeitos de adjudicação de projetos e obras;\n\ni) Os rendimentos provenientes de aplicações financeiras;\n\nj) Os lucros ou dividendos das sociedades em que participe;\n\nk) Todos os rendimentos provenientes da gestão e rentabilização do domínio público sob a sua gestão e do domínio privado do Estado sob sua administração;\n\nl) Os rendimentos de bens próprios e o produto da sua alienação e da constituição de direitos sobre eles;\n\nm) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que, por lei ou contrato, lhe sejam atribuídos;\n\nn) As receitas provenientes do exercício das atividades complementares ou subsidiárias.\n\n2 - A cobrança coerciva de receitas próprias decorrentes da sua atividade principal é efetuada nos termos do processo de execução fiscal previsto no Código de Procedimento e Processo Tributário, quando aplicável, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais, constituindo títulos executivos as respetivas faturas, certidões de dívida ou documentos equivalentes.\n\n3 - A IP, S. A., pode obter financiamentos, a curto, médio ou longo prazo, em moeda nacional ou estrangeira, junto de instituições financeiras, incluindo outras operações no mercado financeiro doméstico e internacional, nos termos previstos no regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, ou, desde que apresente capital próprio positivo e obtenha parecer prévio favorável da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., mediante autorização prévia do titular da função acionista."
+  },
+  "131290478": {
+   "fragment_id": "131290388",
+   "type": 1,
+   "heading": "Capítulo VI — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Recursos humanos"
+  },
+  "131290479": {
+   "fragment_id": "131290389",
+   "type": 11,
+   "heading": "Artigo 16.º — Manutenção dos direitos dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Manutenção dos direitos dos trabalhadores\n\n1 - Os contratos de trabalho dos trabalhadores da EP, S. A., abrangidos pelo regime jurídico do contrato de trabalho regulado pelo Código do Trabalho, transmitem-se, à data da entrada em vigor do presente decreto-lei, para a IP, S. A., que adquire a posição de empregador, nos termos previstos nos artigos 285.º e seguintes do Código do Trabalho.\n\n2 - O disposto no número anterior abrange quaisquer direitos decorrentes da lei, de instrumentos de regulamentação coletiva ou dos próprios contratos de trabalho, contando-se o tempo de serviço prestado na empresa transmitente."
+  },
+  "131290480": {
+   "fragment_id": "131290390",
+   "type": 11,
+   "heading": "Artigo 17.º — Quadro de pessoal transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Quadro de pessoal transitório\n\n1 - O quadro de pessoal transitório da EP, S. A., ao qual, nos termos do Decreto-Lei n.º 374/2007, de 7 de novembro, se encontram vinculados os trabalhadores sujeitos ao regime da Administração Pública provenientes dos quadros da extinta Junta Autónoma de Estradas, é mantido na IP, S. A.\n\n2 - Os trabalhadores integrados no quadro de pessoal transitório podem optar pela celebração de contrato de trabalho regulado pelo Código do Trabalho, mediante acordo escrito a celebrar entre a IP, S. A., e cada um dos trabalhadores.\n\n3 - Compete ao conselho de administração executivo, estabelecer os termos da operacionalização do processo de opção, definir as regras gerais relativas às condições de trabalho e a minuta do respetivo contrato de trabalho a celebrar.\n\n4 - A cessação do vínculo do contrato em funções públicas, para os trabalhadores que optarem pela celebração de contrato de trabalho nos termos dos números anteriores, torna-se efetiva com a sua publicação na 2.ª série do Diário da República.\n\n5 - Os trabalhadores que, nos termos do n.º 2, optem pela celebração de contrato individual de trabalho, passam a estar abrangidos pelo regime geral de segurança social, aplicando-se, sempre que necessário, o regime do Decreto-Lei n.º 117/2006, de 20 de junho, alterado pela Lei n.º 53-A/2006, de 29 de dezembro.\n\n6 - Compete ao conselho de administração executivo da IP, S. A., exercer, relativamente ao pessoal afeto ao quadro de pessoal transitório, todas as competências, designadamente os poderes de gestão, direção e disciplinares, cometidas ao dirigente máximo do serviço."
+  },
+  "131290481": {
+   "fragment_id": "131290391",
+   "type": 11,
+   "heading": "Artigo 18.º — Licença, mobilidade, cedência e comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Licença, mobilidade, cedência e comissão de serviço\n\nOs trabalhadores integrados no quadro de pessoal transitório que, à data da entrada em vigor do presente decreto-lei, se encontrem em situação de licença, mobilidade, cedência ou comissão de serviço, mantêm-se na mesma situação, sendo-lhes aplicável o regime previsto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, sem prejuízo do exercício do direito de opção por contrato de trabalho regulado pelo Código do Trabalho, nas condições previstas no artigo anterior."
+  },
+  "131290482": {
+   "fragment_id": "131290392",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "131290483": {
+   "fragment_id": "131290393",
+   "type": 11,
+   "heading": "Artigo 19.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Registo\n\nA IP, S. A., é registada na Conservatória do Registo Comercial mediante a apresentação do presente decreto-lei, que instrui o respetivo registo, sem dependência de outras formalidades."
+  },
+  "131290484": {
+   "fragment_id": "131290394",
+   "type": 11,
+   "heading": "Artigo 20.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposições transitórias\n\n1 - Até à celebração do contrato de concessão a que se refere o n.º 2 do artigo 6.º, no que respeita ao âmbito ferroviário, a IP, S. A., exerce, em regime de delegação de competências, por os efeitos do presente decreto-lei, no que respeita ao domínio público ferroviário, a prestação de serviço público de gestão da infraestrutura integrante da rede ferroviária nacional, sendo-lhe atribuída a competência prevista no n.º 2 do artigo 12.º, da Lei n.º 10/90, de 17 de março, alterada pela Lei n.º 3-B/2000, de 4 de abril, e pelos Decretos-Leis n.os 380/2007, de 13 de novembro, e 43/2008, de 10 de março.\n\n2 - Para efeitos do disposto no número anterior, entende-se por infraestrutura ferroviária o conjunto dos elementos referidos no anexo II ao presente decreto-lei, que dele faz parte integrante, e por gestão da infraestrutura ferroviária a gestão da capacidade, conservação e manutenção dessa infraestrutura, bem como gestão dos respetivos sistemas de regulação e segurança.\n\n3 - À operação de fusão por incorporação da EP, S. A., na REFER, E. P. E., é aplicável o regime fiscal constante dos artigos 74.º e dos n.os 1 e 2 do artigo 75.º-A do Código do Imposto de Rendimentos de Pessoas Coletivas, observando-se todas as condições legais de que depende a respetiva aplicação.\n\n4 - Os atuais membros dos conselhos de administração da EP, S. A., e da REFER, E. P. E., passam a integrar o conselho de administração executivo da IP, S. A., considerando-se, para todos os efeitos, a continuidade dos respetivos mandatos, pelo período de três anos, com termo a 31 de dezembro de 2017."
+  },
+  "131290485": {
+   "fragment_id": "131290395",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições finais\n\n1 - A IP, S. A., é declarada em situação de reestruturação até 31 de dezembro de 2017, para efeitos do disposto na alínea d) do n.º 2 do artigo 10.º do Decreto-Lei n.º 220/2006, de 3 de novembro.\n\n2 - Os trabalhadores integrados no quadro de pessoal transitório têm acesso à aposentação antecipada na situação de celebração de acordo da cessação da relação jurídica de emprego público com a IP, S. A., desde que reúnam as condições de idade e tempo de serviço estabelecidas no Estatuto de Aposentação, permanecendo no desempenho efetivo de funções até deferimento do pedido de aposentação."
+  },
+  "131290486": {
+   "fragment_id": "131290396",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 104/97, de 29 de abril, alterado pelos Decretos-Leis n.os 394-A/98, de 15 de dezembro, 270/2003, de 28 de outubro, 95/2008, de 6 de junho, e 141/2008, de 22 de julho, com exceção do n.º 1 do artigo 1.º, no que respeita à criação da REFER, E. P. E., e do artigo 5.º;\n\nb) O Decreto-Lei n.º 374/2007, de 7 de novembro, alterado pelo Decreto-Lei n.º 110/2009, de 18 de maio;\n\nc) O artigo 4.º do Decreto-Lei n.º 160/2014, de 29 de outubro."
+  },
+  "131290487": {
+   "fragment_id": "131290397",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação, data em que a fusão produz efeitos.\n\n2 - Para efeitos contabilísticos e fiscais, as operações da EP, S. A., consideram-se efetuadas por conta da IP, S. A., no dia 1 de janeiro de 2015."
+  },
+  "131290489": {
+   "fragment_id": "131290399",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 1.º)\n\nESTATUTOS DA INFRAESTRUTURAS DE PORTUGAL, S. A."
+  },
+  "131290490": {
+   "fragment_id": "131290400",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "131290491": {
+   "fragment_id": "131290401",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza, denominação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza, denominação e duração\n\nA sociedade adota a natureza de empresa pública sob forma de sociedade anónima e a denominação de Infraestruturas de Portugal, S. A., adiante abreviadamente designada por IP, S. A., e dura por tempo indeterminado."
+  },
+  "131290492": {
+   "fragment_id": "131290402",
+   "type": 11,
+   "heading": "Artigo 2.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objeto\n\n1 - A IP, S. A., tem por objeto a conceção, projeto, construção, financiamento, conservação, exploração, requalificação, alargamento e modernização das redes rodoviária e ferroviária nacionais, incluindo-se nesta última o comando e o controlo da circulação.\n\n2 - O Estado pode delegar na IP, S. A., a preparação dos processos de abertura à concorrência da exploração de serviço de transporte ferroviário em regime de serviço público, em linhas férreas, troços de linhas e ramais, que integram ou venham a integrar a Rede Ferroviária Nacional, os quais devem ser objeto de apreciação e parecer prévio vinculativo da Autoridade da Mobilidade e dos Transportes, nos termos das suas competências de regulação e de promoção e defesa da concorrência.\n\n3 - O Estado pode, ainda, enquanto autoridade de transportes competente quanto ao serviço público de transporte de passageiros, em modo ferroviário pesado, delegar ou concessionar a posição de autoridade competente para efeitos de atribuição a terceiros da exploração de serviço de transporte ferroviário em regime de serviço público, nos termos da legislação europeia e nacional aplicável.\n\n4 - A IP, S. A., pode, mediante delegação ou concessão do Estado, ser investida na posição de autoridade competente para efeitos de atribuição a terceiros da exploração de serviço de transporte ferroviário em regime de serviço público, em linhas férreas, troços de linhas e ramais, que integram ou venham a integrar a Rede Ferroviária Nacional.\n\n5 - Estão ainda incluídos no objeto da IP, S. A., as atividades de exploração do domínio público rodoviário e ferroviário do Estado, e do seu património autónomo, designadamente a exploração de áreas de serviço, parques de estacionamento, bem como dos sistemas de informação e gestão de tráfego, dos sistemas de segurança rodoviária e ferroviária, do canal técnico e das redes de comunicações entre infraestruturas ou entre estas e os veículos, as estações, os terminais e outras instalações ferroviárias.\n\n6 - A IP, S. A., pode exercer também quaisquer atividades complementares ou subsidiárias do seu objeto principal, relativas, designadamente, à exploração do conhecimento, inovação, tecnologia e ativos materiais e imateriais da IP, S. A., em regime comercial ou concorrencial, no país ou no estrangeiro, bem como a exploração de outros ramos de atividades comercial ou industrial deles acessórios que não prejudiquem e não colidam com a prossecução do mesmo."
+  },
+  "131290493": {
+   "fragment_id": "131290403",
+   "type": 11,
+   "heading": "Artigo 3.º — Participações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Participações\n\nPara o desenvolvimento da sua atividade, a IP, S. A., pode constituir ou participar no capital social de quaisquer sociedades, independentemente do seu objeto, ou participar em agrupamentos complementares de sociedades, agrupamentos europeus de interesse económico, consórcios e associações em participação temporária ou permanente, entre sociedades ou com entidades de direito público ou privado, no país ou no estrangeiro."
+  },
+  "131290494": {
+   "fragment_id": "131290404",
+   "type": 11,
+   "heading": "Artigo 4.º — Sede e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sede e serviços\n\n1 - A IP, S. A., tem sede em Almada, na Praça da Portagem, podendo instalar delegações ou serviços próprios em qualquer ponto do território continental.\n\n2 - A assembleia geral pode deliberar a deslocação da sede da sociedade para qualquer outro local no território português."
+  },
+  "131290495": {
+   "fragment_id": "131290405",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social e ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social e ações\n\n1 - O capital social é de (euro) 2 555 835 000 e está integralmente subscrito e realizado pelo Estado à data da entrada em vigor do decreto-lei que aprova os presentes Estatutos.\n\n2 - O capital social é representado por 511.167 ações, com o valor nominal de (euro) 5 000 cada, as quais são nominativas e revestem a forma escritural.\n\n3 - As ações representativas da totalidade do capital social da IP, S. A., pertencem ao Estado, e são detidas pela Direção-Geral do Tesouro e Finanças."
+  },
+  "131290496": {
+   "fragment_id": "131290406",
+   "type": 11,
+   "heading": "Artigo 6.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estrutura geral\n\nA estrutura orgânica dos serviços da IP, S. A., é aprovada pelo conselho de administração executivo."
+  },
+  "131290497": {
+   "fragment_id": "131290407",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos sociais"
+  },
+  "131290498": {
+   "fragment_id": "131290408",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos sociais\n\n1 - São órgãos sociais da IP, S. A.:\n\na) A assembleia geral;\n\nb) O conselho de administração executivo;\n\nc) O conselho geral e de supervisão;\n\nd) O revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n2 - O conselho geral e de supervisão constitui uma comissão para as matérias financeiras.\n\n3 - O conselho de administração executivo pode aprovar a constituição de comissões e comités, com ou sem a presença dos seus membros, para acompanhar matérias específicas, de forma permanente ou temporária, definindo as respetivas competências e, se for o caso, a sua duração."
+  },
+  "131290499": {
+   "fragment_id": "131290409",
+   "type": 11,
+   "heading": "Artigo 8.º — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Assembleia geral\n\n1 - A assembleia geral é composta pelos acionistas da IP, S. A.\n\n2 - Devem estar presentes nas assembleias gerais, sem direito a voto, os membros do conselho de administração executivo, do conselho geral e de supervisão, e na assembleia anual, o revisor oficial de contas ou sociedade de revisores oficiais de contas."
+  },
+  "131290500": {
+   "fragment_id": "131290410",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências da assembleia geral\n\n1 - Compete à assembleia geral:\n\na) Definir a estratégia da IP, S. A., e os seus objetivos básicos, particularmente para efeitos de preparação dos planos de investimentos e financiamentos e dos orçamentos;\n\nb) Deliberar, nos termos da lei, sobre a aquisição, a alienação ou a oneração de participações no capital de outras sociedades, bem como de obrigações e outros títulos semelhantes, ou sobre a criação de associações ou fundações cujo objeto social com elas se relacione;\n\nc) Deliberar sobre a aquisição, alienação ou oneração de bens do seu património autónomo, de valor superior a 10 % do capital social, bem como estabelecer os respetivos termos e condições;\n\nd) Apreciar e aprovar o relatório anual de gestão, as demonstrações financeiras e o parecer dos órgãos de fiscalização e deliberar sobre a aplicação dos resultados do exercício;\n\ne) Eleger e destituir os membros da mesa da assembleia geral e deliberar sobre a eleição e exoneração dos membros do conselho de administração executivo, do conselho geral e de supervisão e dos órgãos de fiscalização;\n\nf) Designar o presidente da comissão para as matérias financeiras;\n\ng) Deliberar sobre quaisquer alterações aos presentes Estatutos;\n\nh) Deliberar sobre as remunerações dos membros dos órgãos sociais;\n\ni) Aprovar o relatório anual de atividades do conselho geral e de supervisão;\n\nj) Deliberar sobre todos os assuntos para os quais a lei e os presentes estatutos lhe atribuam competência.\n\n2 - A eleição dos membros dos órgãos sociais deve ter em conta as normas relativas à respetiva composição, designadamente o disposto nos artigos 21.º, 31.º e 32.º do regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, e as normas do Estatuto do Gestor Público."
+  },
+  "131290501": {
+   "fragment_id": "131290411",
+   "type": 11,
+   "heading": "Artigo 10.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é composta por um presidente, um vice-presidente e um secretário, eleitos pela assembleia geral, por um período de três anos, renovável por deliberação da assembleia geral.\n\n2 - Os membros da mesa da assembleia geral mantêm-se em efetividade de funções até à eleição dos membros que os substituam."
+  },
+  "131290502": {
+   "fragment_id": "131290412",
+   "type": 11,
+   "heading": "Artigo 11.º — Reuniões da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reuniões da assembleia geral\n\n1 - A assembleia geral reúne, pelo menos, uma vez por ano e sempre que seja convocada, nos termos da lei, a requerimento do conselho de administração executivo, do conselho geral e de supervisão ou dos acionistas.\n\n2 - A convocação da assembleia geral faz-se, nos termos da lei, com uma antecedência mínima de 21 dias, por carta registada ou por correio eletrónico com recibo de leitura, com a indicação expressa dos assuntos a tratar."
+  },
+  "131290503": {
+   "fragment_id": "131290413",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho de administração executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho de administração executivo\n\n1 - O conselho de administração executivo é constituído por um número entre cinco a sete membros, dos quais um é o presidente e tem voto de qualidade.\n\n2 - Podem, ainda, ser designados, de entre os membros do conselho de administração executivo, até dois vice-presidentes, que substituem o presidente do conselho de administração executivo, com voto de qualidade, nas suas faltas e impedimentos, de acordo com a precedência fixada na nomeação.\n\n3 - A assembleia geral designa o presidente e os vice-presidentes, quando existam, na deliberação em que eleger os membros do conselho de administração executivo.\n\n4 - Faltando definitivamente algum administrador, o conselho de administração executivo deve promover as diligências necessárias para a respetiva substituição, terminando o mandato do novo administrador no termo do mandato para o qual os demais membros foram designados, caso tal venha entretanto a ocorrer."
+  },
+  "131290504": {
+   "fragment_id": "131290414",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do conselho de administração executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do conselho de administração executivo\n\n1 - Compete ao conselho de administração executivo:\n\na) Propor e apresentar a estratégia e fixar a política de gestão da IP, S. A.;\n\nb) Elaborar e propor o plano de atividades e orçamento, no quadro das orientações referidas no artigo 24.º e após definição das orientações e objetivos constantes das alíneas a) e b) do n.º 1 do artigo 38.º e do n.º 4 do artigo 39.º do regime do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, bem como dos demais instrumentos de gestão provisional legalmente previstos;\n\nc) Desenvolver e executar o plano de atividades e o orçamento aprovado;\n\nd) Elaborar o relatório anual de gestão e de controlo orçamental, as contas do exercício e os demais instrumentos de prestação de contas;\n\ne) Aprovar o regulamento interno, que inclui as regras de relacionamento com os restantes órgãos sociais;\n\nf) Elaborar os relatórios trimestrais de execução orçamental, acompanhados dos relatórios do órgão de fiscalização;\n\ng) Definir a estrutura e a organização interna da IP, S. A., e o seu funcionamento;\n\nh) Aprovar o estatuto de pessoal, designadamente os regimes retributivo, de carreiras, das condições de prestação e disciplina do trabalho e demais regulamentos internos;\n\ni) Elaborar e apresentar o relatório de boas práticas de governo societário, nos termos previstos no n.º 1 do artigo 54.º do regime do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro;\n\nj) Deliberar, nos termos da lei, sobre a realização de empréstimos ou outras operações financeiras;\n\nk) Deliberar sobre a aquisição, alienação ou a oneração de bens do seu património autónomo, até 10 % do capital social bem como estabelecer os respetivos termos e condições;\n\nl) Aceitar doações, heranças ou legados, em representação da IP, S. A.;\n\nm) Constituir mandatários, em juízo e fora dele, aos quais pode conferir o poder de substabelecer;\n\nn) Nomear os representantes da IP, S. A., em organismos exteriores;\n\no) Aprovar as minutas dos contratos em que a IP, S. A., seja parte;\n\np) Exercer os poderes de direção, gestão e disciplina do pessoal, nos termos da lei, dos estatutos e dos regulamentos em vigor na IP, S. A.;\n\nq) Requerer, através do presidente do conselho de administração executivo e nos termos do Código das Expropriações, às autoridades competentes, as providências de expropriação por utilidade pública, de ocupação de terrenos, de implantação de traçados e de estabelecimento de limitações ao uso de prédios ou de zonas de proteção e de exercício de servidões administrativas;\n\nr) Gerir os negócios sociais e praticar todos os atos do objeto social que não caibam na competência atribuída a outros órgãos da IP, S. A.;\n\ns) Aprovar a constituição de comissões e comités, com ou sem a presença dos seus membros, para acompanhar de forma permanente ou temporária certas matérias específicas, definindo as respetivas competências e, se for o caso, a sua duração;\n\nt) Exercer os poderes e praticar os atos conferidos ou previstos na lei ou atribuídos pela assembleia geral;\n\nu) Exercer os poderes de autoridade conferidos pelo Estado, através de lei ou de contrato, à IP, S. A.\n\n2 - O plano de atividades e o orçamento devem ser elaborados por forma a dar cumprimento às previsões do ano a que respeitam e para o respetivo triénio, incluindo o plano de investimentos e fontes de financiamento, devendo ser elaborados tendo em conta os procedimentos específicos no estatuto das sociedades públicas, designadamente os previstos no artigo 39.º do regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro.\n\n3 - Compete aos membros do conselho de administração executivo apresentar os relatórios trimestrais fundamentados, demonstrativos do grau de execução dos objetivos fixados no plano de atividades e orçamento.\n\n4 - O conselho de administração executivo deve comunicar ao conselho geral e de supervisão:\n\na) Pelo menos uma vez por ano, a política de gestão bem como os principais factos e questões que sustentaram, no fundamental, as suas principais opções;\n\nb) A situação geral da IP, S. A., e evolução da sua atividade geral e negócios, incluindo a execução de investimentos, financiamento e execução orçamental, antes de cada reunião trimestral do conselho geral e de supervisão;\n\nc) O relatório de gestão relativo ao exercício do ano anterior, na época determinada por lei para a sua elaboração e conclusão;\n\nd) Qualquer negócio que possa ter influência significativa na rentabilidade ou na liquidez na IP, S. A., ou qualquer situação anormal ou relevante para a situação presente ou futura da sociedade."
+  },
+  "131290505": {
+   "fragment_id": "131290415",
+   "type": 11,
+   "heading": "Artigo 14.º — Representação e delegação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Representação e delegação de poderes\n\n1 - A IP, S. A., é representada em juízo ou na prática de atos jurídicos pelo conselho de administração executivo, podendo esta competência ser delegada, em algum ou alguns dos seus membros, designadamente para representar a IP, S. A., para efeitos de depoimento de parte, definindo em deliberação os respetivos limites e condições, ou ainda, por mandatários especialmente designados.\n\n2 - O conselho de administração executivo pode delegar poderes, com poderes de subdelegação, em qualquer dos seus membros.\n\n3 - Pode haver atribuição de pelouros especiais aos membros do conselho de administração executivo, correspondentes à gestão de um ou mais serviços ou unidades orgânicas da IP, S. A."
+  },
+  "131290506": {
+   "fragment_id": "131290416",
+   "type": 11,
+   "heading": "Artigo 15.º — Vinculação da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Vinculação da sociedade\n\n1 - A IP, S. A., obriga-se:\n\na) Pela assinatura conjunta de dois membros do conselho de administração executivo;\n\nb) Pela assinatura de um membro do conselho de administração executivo, no âmbito de delegação de poderes;\n\nc) Pela assinatura de mandatários, no âmbito dos poderes que lhes tenham sido conferidos e nos limites dos respetivos instrumentos de mandato;\n\nd) Pela assinatura do presidente do conselho de administração executivo, nos contratos em que a IP, S. A., intervenha, em cumprimento das deliberações de órgãos sociais.\n\n2 - Tratando-se de títulos de obrigação da IP, S. A., ou de outros documentos emitidos em massa, as assinaturas podem ser de chancela."
+  },
+  "131290507": {
+   "fragment_id": "131290417",
+   "type": 11,
+   "heading": "Artigo 16.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Deliberações\n\n1 - O conselho de administração executivo reúne ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente o convocar, por sua iniciativa ou a requerimento de qualquer dos seus membros, sem prejuízo da fixação, pelo próprio órgão, de calendário de reuniões com maior frequência.\n\n2 - As deliberações são válidas quando estiverem presentes na reunião a maioria dos membros do conselho de administração executivo em exercício, tendo o presidente, ou o vice-presidente quando o substitua, voto de qualidade.\n\n3 - É proibido o voto por correspondência ou por procuração."
+  },
+  "131290508": {
+   "fragment_id": "131290418",
+   "type": 11,
+   "heading": "Artigo 17.º — Estatuto dos membros do conselho de administração executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Estatuto dos membros do conselho de administração executivo\n\n1 - Os membros do conselho de administração executivo estão sujeitos ao estatuto do gestor público e, especificamente, às obrigações de transparência, independência, isenção, equidade e informação, previstos no estatuto das sociedades públicas.\n\n2 - Os membros do conselho de administração executivo auferem a remuneração que for fixada pela assembleia geral.\n\n3 - Os membros do conselho de administração executivo ficam sujeitos ao regime geral de segurança social, se não optarem por outro que lhes seja aplicável."
+  },
+  "131290509": {
+   "fragment_id": "131290419",
+   "type": 11,
+   "heading": "Artigo 18.º — Presidente do conselho de administração executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Presidente do conselho de administração executivo\n\n1 - Compete ao presidente do conselho de administração executivo assegurar a representação institucional da sociedade e, para além dos poderes que lhe cabem como membro deste órgão, exercer as seguintes competências próprias:\n\na) Convocar e presidir às reuniões do conselho de administração executivo, coordenar a sua atividade e assegurar o cumprimento das respetivas deliberações;\n\nb) Assegurar o regular funcionamento de todos os serviços;\n\nc) Representar a sociedade em convenção arbitral, podendo designar mandatário para o efeito constituído;\n\nd) Assegurar as relações com os acionistas, órgãos de tutela e com os demais organismos públicos;\n\ne) Exercer as competências que lhe forem delegadas.\n\n2 - O presidente pode delegar competências nos restantes membros do conselho de administração executivo."
+  },
+  "131290510": {
+   "fragment_id": "131290420",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime de faltas dos membros do conselho de administração executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime de faltas dos membros do conselho de administração executivo\n\nA falta de um membro do conselho de administração a mais de duas reuniões deste órgão por ano, seguidas ou interpoladas, sem justificação aceite pelo conselho de administração executivo, conduz a uma falta definitiva do administrador, que pode ser declarada como tal para todos os efeitos legais."
+  },
+  "131290511": {
+   "fragment_id": "131290421",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho geral e de supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conselho geral e de supervisão\n\n1 - O conselho geral e de supervisão é constituído por seis a nove membros designados em assembleia geral, que designa também aquele que, de entre eles, exerce as funções de presidente, tendo este ou quem o substitua, voto de qualidade.\n\n2 - O conselho geral e de supervisão deve ser composto por membros com formação e competência adequadas, e incluir personalidades de reconhecida independência, idoneidade e conhecimento nos setores das infraestruturas ou transportes.\n\n3 - Nos impedimentos definitivos, os membros são substituídos, até ao final do período para o qual o conselho geral e de supervisão tenha sido designado, por quem for, para tal, designado pela assembleia geral.\n\n4 - Os membros do conselho de administração executivo, ou os dirigentes da sociedade que para tal sejam solicitados, devem assistir às reuniões ordinárias do conselho geral e de supervisão, quando convocados para o efeito, no âmbito das suas funções e responsabilidades perante o órgão."
+  },
+  "131290512": {
+   "fragment_id": "131290422",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências do conselho geral e de supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências do conselho geral e de supervisão\n\n1 - São competências do conselho geral e de supervisão:\n\na) Emitir parecer sobre o plano de atividades e orçamento, sob proposta do conselho de administração executivo;\n\nb) Aprovar o respetivo regulamento interno, que inclui as regras de relacionamento com os restantes órgãos sociais;\n\nc) Apreciar e emitir parecer sobre o relatório anual de gestão e de controlo orçamental, as contas do exercício e os demais instrumentos de prestação de contas;\n\nd) Pronunciar-se sobre o plano de investimentos e seu financiamento;\n\ne) Propor à assembleia geral a eleição ou designação do revisor oficial de contas ou da sociedade de revisores oficiais de contas, ou propor a sua exoneração e pronunciar-se sobre as suas condições de independência e outras relações com a sociedade;\n\nf) Proceder ao acompanhamento permanente das atividades do revisor oficial de contas e do auditor externo da sociedade;\n\ng) Acompanhar de forma permanente e avaliar os procedimentos internos relativos a matérias contabilísticas e de auditoria;\n\nh) Assegurar a existência dos mecanismos na IP, S. A., que garantam a observância das regras de bom governo da sociedade e, em especial, o cumprimento das obrigações específicas de prestação de informação e contas aos acionistas e entidades externas obrigatórias;\n\ni) Assegurar a existência e adequação dos sistemas de gestão de riscos, do sistema de controlo interno e de auditoria, de acordo com as melhores regras de controlo;\n\nj) Verificar se as políticas contabilísticas e os critérios valorimétricos adotados na IP, S. A., conduzem a uma correta avaliação do património e dos resultados;\n\nk) Verificar a regularidade dos livros, dos registos contabilísticos e dos documentos que lhes servem de suporte, assim como a situação de quaisquer bens ou valores detidos pela IP, S. A.;\n\nl) Fiscalizar o processo de preparação e divulgação de informação financeira;\n\nm) Analisar, em cada ano, a adequação global dos relatórios da IP, S. A., relativos às políticas de responsabilidade social, desenvolvimento sustentável, termos da prestação de serviço público, salvaguarda da competitividade da IP, S. A., desenvolvimento, inovação e integração das novas tecnologias no processo produtivo, integrantes do relatório de sustentabilidade;\n\nn) Propor à assembleia geral a destituição de qualquer dos membros do conselho de administração executivo, quando reunidas justificadamente as razões para o efeito e desde que por deliberação unânime dos seus membros;\n\no) Determinar a contratação de serviços de peritos que se afigurem como necessários ao exercício das suas funções, tendo em conta a situação económica da IP, S. A., e os recursos existentes e disponíveis;\n\np) Aprovar a constituição da comissão para as matérias financeiras e respetivas normas de funcionamento;\n\nq) Selecionar e substituir o auditor externo da IP, S. A., dando ao conselho de administração executivo as indicações relativas à sua contratação;\n\nr) Aferir do cumprimento das disposições relativas ao relatório de boas práticas de governo societário, nos termos previstos no n.º 2 do artigo 54.º do regime do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro;\n\ns) Representar a sociedade nas relações com os administradores;\n\nt) Fiscalizar as atividades do conselho de administração executivo;\n\nu) Zelar pelo cumprimento da lei e do contrato de sociedade;\n\nv) Pronunciar-se e deliberar sobre outros assuntos definidos ou atribuídos pela lei, pelos estatutos da sociedade ou a ele submetidos pelos restantes órgãos sociais.\n\n2 - O presidente do conselho geral e de supervisão, ou o seu substituto em funções, representa o órgão, interna e externamente, coordena as suas atividades, convoca e preside às respetivas reuniões e zela pela correta execução das suas deliberações.\n\n3 - Na sua falta ou impedimento, o presidente do conselho geral e de supervisão é substituído pelo respetivo vice-presidente, se o houver, ou, na falta deste, por quem o conselho geral e de supervisão determinar, com sujeição a ratificação na assembleia geral seguinte."
+  },
+  "131290513": {
+   "fragment_id": "131290423",
+   "type": 11,
+   "heading": "Artigo 22.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Deliberações\n\n1 - O conselho geral e de supervisão reúne ordinariamente uma vez por trimestre e, extraordinariamente, sempre que o seu presidente o convocar, por sua iniciativa ou a requerimento de qualquer dos seus membros, sem prejuízo de fixação, pelo próprio, de calendário de reuniões com maior frequência.\n\n2 - As deliberações são válidas quando se encontrar presente na reunião a maioria dos membros do conselho geral e de supervisão em exercício.\n\n3 - É proibido o voto por correspondência ou por procuração."
+  },
+  "131290514": {
+   "fragment_id": "131290424",
+   "type": 11,
+   "heading": "Artigo 23.º — Comissão para as matérias financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comissão para as matérias financeiras\n\n1 - O conselho geral e de supervisão deve nomear, de entre os seus membros, uma comissão especializada, composta por três membros efetivos, para verificação da matéria financeira, na qual delega, além de outras previstas na lei geral e no regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, as competências previstas nas alíneas f), g), h), i), j), k), l) e m) do artigo 21.º, cabendo a designação do respetivo presidente à assembleia geral.\n\n2 - A comissão deve reunir, de forma ordinária, pelo menos uma vez em cada trimestre ou, de forma extraordinária, sempre que para tal for convocada pelo seu presidente."
+  },
+  "131290515": {
+   "fragment_id": "131290425",
+   "type": 11,
+   "heading": "Artigo 24.º — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revisor oficial de contas\n\nO exame das contas da empresa compete a um revisor oficial de contas ou a uma sociedade de revisores oficiais de contas, designado pelo titular da função acionista, sob proposta do conselho geral e de supervisão, com os poderes e os deveres estabelecidos na lei e nos presentes estatutos."
+  },
+  "131290516": {
+   "fragment_id": "131290426",
+   "type": 11,
+   "heading": "Artigo 25.º — Duração dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Duração dos mandatos\n\n1 - Os membros da assembleia geral, do conselho de administração executivo, do conselho geral e de supervisão e da comissão para acompanhamento das matérias financeiras são eleitos por um período de três anos, incluindo o ano da respetiva eleição, e terminam no dia 31 de dezembro do ano em causa.\n\n2 - O número de mandatos exercidos sucessivamente não pode exceder o limite de quatro, sem prejuízo das regras especiais que puderem resultar, relativamente a algum deles, da aplicação da lei ou de normativos de natureza profissional.\n\n3 - Os membros dos órgãos sociais mantêm-se em funções para além do termo dos respetivos mandatos, até à eleição de novos órgãos sociais.\n\n4 - Os membros que vierem a ser eleitos ou designados para preenchimento ou substituição no mandato dos órgãos sociais, completam o mandato que estiver em curso."
+  },
+  "131290517": {
+   "fragment_id": "131290427",
+   "type": 11,
+   "heading": "Artigo 26.º — Reuniões e atas dos órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reuniões e atas dos órgãos sociais\n\n1 - As convocatórias para as reuniões dos órgãos sociais são feitas por escrito, admitindo-se o uso de meios eletrónicos para a sua transmissão, e devem incluir, entre outros requisitos específicos previstos na lei ou em normas regulamentares e de funcionamento, as indicações relativas à data, hora, local e presenças, bem como a respetiva agenda ou ordem de trabalhos.\n\n2 - As reuniões decorrem na sede local da IP, S. A., ou no local indicado na convocatória, sendo admitida a participação à distância, pelos meios de comunicação usuais, desde que sejam asseguradas as adequadas condições de integridade e segurança da participação do membro, a definir em regimento do órgão.\n\n3 - De todas as reuniões são lavradas atas, em livro próprio, assinadas por todos os membros presentes, das quais constam as deliberações tomadas e o sentido das respetivas votações.\n\n4 - As atas das reuniões da assembleia geral devem ser redigidas e assinadas pelos membros da mesa da assembleia geral que estiverem presentes."
+  },
+  "131290518": {
+   "fragment_id": "131290428",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do pessoal"
+  },
+  "131290519": {
+   "fragment_id": "131290429",
+   "type": 11,
+   "heading": "Artigo 27.º — Regime jurídico do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime jurídico do pessoal\n\n1 - O regime jurídico dos trabalhadores da IP, S. A., é o do contrato de trabalho regulado pelo Código do Trabalho, com as especificidades previstas nos presentes Estatutos e no decreto-lei que os aprova.\n\n2 - A matéria relativa à contratação coletiva que envolva a IP, S. A., é regulada pelo Código do Trabalho.\n\n3 - Os trabalhadores com vínculo de emprego público mantêm as condições remuneratórias que detêm à data da entrada em vigor dos presentes Estatutos, nos termos a estabelecer pelo conselho de administração executivo da IP, S. A., que não colidam com as normas legais em matéria de remunerações previstas na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho.\n\n4 - A IP, S. A., deve desenvolver políticas de inovação permanente na qualidade dos seus serviços e na motivação pessoal e profissional dos seus quadros, através da definição e da implementação de mecanismos rigorosos de controlo, auditoria e avaliação de desempenho e da concretização de planos de formação permanente para os seus colaboradores.\n\n5 - A IP, S. A., dispõe de uma estrutura que, de forma permanente, assegura a valorização e qualificação dos seus quadros através da formação contínua dos seus colaboradores."
+  },
+  "131290520": {
+   "fragment_id": "131290430",
+   "type": 11,
+   "heading": "Artigo 28.º — Responsabilidade civil, penal e disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Responsabilidade civil, penal e disciplinar\n\n1 - A IP, S. A., responde civilmente perante terceiros pelos atos ou omissões dos seus administradores, nos mesmos termos em que os comitentes respondem pelos atos ou omissões dos comissários, de acordo com a lei geral.\n\n2 - Os titulares de quaisquer órgãos da IP, S. A., respondem civilmente perante esta pelos prejuízos causados pelo incumprimento dos seus deveres legais ou estatutários, em qualquer caso, sem prejuízo da responsabilidade penal ou disciplinar em que incorram.\n\n3 - Os trabalhadores e quaisquer titulares dos órgãos da IP, S. A., quando demandados pessoalmente por terceiros em virtude do exercício das suas funções, e salvo conflito de interesses com a IP, S. A., e o seu acionista, têm direito a patrocínio judiciário, assegurado pelos serviços jurídicos da IP, S. A., ou por advogado contratado especificamente para o exercício daquele patrocínio, nos termos das regras internas da IP, S. A."
+  },
+  "131290521": {
+   "fragment_id": "131290431",
+   "type": 1,
+   "heading": "Capítulo IV — Resultados, avaliação, controlo e prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Resultados, avaliação, controlo e prestação de contas"
+  },
+  "131290522": {
+   "fragment_id": "131290432",
+   "type": 11,
+   "heading": "Artigo 29.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Controlo financeiro\n\nA IP, S. A., nos termos do regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, está submetida à jurisdição e ao controlo exercido pelo Tribunal de Contas, bem como ao controlo da Inspeção-Geral de Finanças, nos termos da lei."
+  },
+  "131290523": {
+   "fragment_id": "131290433",
+   "type": 11,
+   "heading": "Artigo 30.º — Instrumentos de gestão previsional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instrumentos de gestão previsional\n\n1 - A gestão económica e financeira da IP, S. A., é disciplinada, entre outros, pelos seguintes instrumentos de gestão previsional:\n\na) Plano de atividades e orçamento, de acordo com as orientações específicas e a estratégia definida para a empresa, a atualizar e a reformular sempre que as circunstâncias o justifiquem, estabelecido para um período plurianual, incluindo o programa de investimentos e as respetivas fontes de financiamento;\n\nb) Mapa calendarizado das responsabilidades efetivas e previsíveis da empresa ou em que esta atue em nome, por conta ou em representação do Estado, resultantes de contratos ou factos originadores de despesa com caráter plurianual, incluindo os contratos de concessão rodoviária do Estado Português, ou de outras formas de parceria entre os setores público e privado;\n\nc) Relatórios de execução e de controlo orçamental, adaptados à natureza e características das atividades e negócios da empresa, de acordo com as previsões e exigências legais e estatutárias, para informação do acionista e órgãos da empresa.\n\n2 - Os planos de atividades e orçamentos devem prever, em relação aos períodos a que respeitem, a evolução das receitas e despesas, os investimentos a realizar, as fontes de financiamento a que se pretende recorrer e devem ser elaborados com respeito pelos pressupostos macroeconómicos definidos pelo Governo, pelas orientações gerais e pelas diretrizes setoriais e específicas, pelos contratos e programas vinculativos, de acordo com as normas legais e estatutárias em vigor para o período."
+  },
+  "131290524": {
+   "fragment_id": "131290434",
+   "type": 11,
+   "heading": "Artigo 31.º — Aplicação de resultados e reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Aplicação de resultados e reservas\n\nSem prejuízo do cumprimento das reservas legais aplicáveis, os resultados positivos apurados em cada exercício, são objeto de deliberação específica da assembleia geral, de acordo com a lei, devendo ter em conta, em relação a cada exercício, a cobertura de eventuais prejuízos anteriores, o financiamento dos investimentos definidos e a sustentabilidade futura da IP, S. A."
+  },
+  "131290525": {
+   "fragment_id": "131290435",
+   "type": 11,
+   "heading": "Artigo 32.º — Contabilidade e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contabilidade e gestão\n\nA IP, S. A., dispõe de uma contabilidade organizada de acordo com os princípios adequados à sua natureza, dimensão e complexidade e com as regras definidas no sistema nacional de contabilidade e demais legislação aplicável."
+  },
+  "131290526": {
+   "fragment_id": "131290436",
+   "type": 1,
+   "heading": "Capítulo V — Transformação da sociedade e sua extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Transformação da sociedade e sua extinção"
+  },
+  "131290527": {
+   "fragment_id": "131290437",
+   "type": 11,
+   "heading": "Artigo 33.º — Fusão, cisão e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Fusão, cisão e liquidação\n\nÀ transformação, fusão, cisão e extinção da IP, S. A., são aplicáveis as disposições do Código das Sociedades Comerciais e do regime do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro."
+  },
+  "131290528": {
+   "fragment_id": "131290438",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 20.º)\n\nA infraestrutura ferroviária compõe-se dos seguintes elementos, desde que façam parte das vias principais e de serviço, com exceção das situadas no interior das oficinas de reparação do material e dos depósitos ou resguardos das unidades de tração, assim como dos ramais particulares:\n\nTerrenos;\n\nEstrutura e plataforma da via, nomeadamente aterros, trincheiras, drenos, valas, valetas de alvenaria, aquedutos, muros de revestimento e plantações para proteção dos taludes;\n\nCais de passageiros e de mercadorias;\n\nBermas e pistas;\n\nMuros de vedação, sebes vivas, paliçadas;\n\nFaixas protetoras contra o fogo;\n\nDispositivos para aquecimento das agulhas;\n\nAnteparos contra a neve;\n\nObras de arte: pontes, pontões e outras passagens superiores, túneis, valas cobertas e outras passagens inferiores;\n\nMuros de suporte e obras de proteção contra avalanchas e quedas de pedras;\n\nPassagens de nível, incluindo as instalações destinadas a garantir a segurança da circulação rodoviária;\n\nSuperstrutura, nomeadamente carris, carris de gola e contracarris;\n\nTravessas, longarinas e pequenas peças de ligação;\n\nBalastro, incluindo gravilha e areia;\n\nAparelhos de via;\n\nPlacas giratórias e carros transbordadores, com exceção dos exclusivamente reservados às unidades de tração;\n\nPátios das gares de passageiros e mercadorias, incluindo os acessos por estrada;\n\nInstalações de segurança, sinalização e telecomunicações das vias propriamente ditas, das gares e das triagens, incluindo instalações de produção, transformação e distribuição da corrente elétrica para sinalização e telecomunicações;\n\nFreios de via;\n\nInstalações de iluminação destinadas a assegurar a circulação dos veículos e a respetiva segurança;\n\nInstalações de transformação e de transporte da corrente elétrica para a tração dos comboios: subestações, linhas de alimentação entre as subestações e os fios de contacto, catenárias e suportes;\n\nCarril de transmissão, designado terceiro carril e os seus suportes;\n\nEdifícios afetos ao serviço das infraestruturas, incluindo a parte relativa às instalações de cobrança dos bilhetes de transporte."
+  },
+  "131290529": {
+   "fragment_id": "131290375",
+   "type": 11,
+   "heading": "Artigo 6.º — Objeto",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Objeto\n\n1 - A IP, S. A., tem por objeto a conceção, projeto, construção, financiamento, conservação, exploração, requalificação, alargamento e modernização das redes rodoviária e ferroviária nacionais, incluindo-se nesta última o comando e o controlo da circulação.\n\n2 - Para efeitos do disposto no número anterior, a IP, S. A., assume a posição de gestor de infraestruturas, nos termos do contrato de concessão geral da rede rodoviária nacional celebrado com o Estado e dos contratos de concessão que com o mesmo venham a ser celebrados, bem como a gestão das demais infraestruturas sob sua administração.\n\n3 - (Revogado).\n\n4 - O Estado pode, ainda, enquanto autoridade de transportes competente quanto ao serviço público de transporte de passageiros, em modo ferroviário pesado, delegar ou concessionar a posição de autoridade competente para efeitos de atribuição a terceiros da exploração de serviço de transporte ferroviário em regime de serviço público, nos termos da legislação europeia e nacional aplicável.\n\n5 - Estão ainda incluídos no objeto da IP, S. A., as atividades de exploração do domínio público ferroviário e rodoviário do Estado, e do seu património autónomo, designadamente a exploração de áreas de serviço, de parques de estacionamento, bem como dos sistemas de informação e gestão de tráfego, dos sistemas de segurança ferroviária e rodoviária, do canal técnico e das redes de comunicações entre infraestruturas ou entre estas e os veículos, as estações, os terminais e outras instalações ferroviárias.\n\n6 - A IP, S. A., pode exercer também quaisquer atividades complementares ou subsidiárias do seu objeto principal, relativas, designadamente, à exploração do conhecimento, da inovação, da tecnologia e dos ativos materiais e imateriais da IP, S. A., em regime comercial ou concorrencial, no país ou no estrangeiro, bem como a exploração de outros ramos de atividades comercial ou industrial deles acessórios que não prejudiquem e não colidam com a prossecução do mesmo.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+  },
+  "131290488": {
+   "fragment_id": "131290398",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 25 de maio de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de maio de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "158294289": {
+   "fragment_id": "131290390",
+   "type": 11,
+   "heading": "Artigo 17.º — Quadro de pessoal transitório",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 395.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 17.º — Quadro de pessoal transitório\n\n1 - O quadro de pessoal transitório da EP, S. A., ao qual, nos termos do Decreto-Lei n.º 374/2007, de 7 de novembro, se encontram vinculados os trabalhadores sujeitos ao regime da Administração Pública provenientes dos quadros da extinta Junta Autónoma de Estradas, é mantido na IP, S. A.\n\n2 - Os trabalhadores integrados no quadro de pessoal transitório podem optar pela integração no Sistema de Carreiras em Anexo ao Acordo Coletivo entre a Infraestruturas de Portugal, S. A., e outras e o Sindicato Nacional dos Trabalhadores do Sector Ferroviário e outros, publicado no Boletim do Trabalho e Emprego, n.º 22, de 15 de junho de 2019, sendo-lhes aplicadas nesse caso, enquanto em exercício efetivo de funções na Infraestruturas de Portugal, as normas daquele sistema de carreiras, incluindo nomeadamente descritivos funcionais das categorias profissionais, respetivas retribuições base e progressões na categoria.\n\n3 - Aos trabalhadores da Infraestruturas de Portugal, S. A., que exerçam a opção permitida no número anterior é aplicado o regime e valor de subsídio de refeição que consta do mesmo instrumento de regulamentação coletiva de trabalho.\n\n4 - Os trabalhadores integrados no quadro de pessoal transitório podem optar pela celebração de contrato de trabalho regulado pelo Código do Trabalho, mediante acordo escrito a celebrar entre a IP, S. A., e cada um dos trabalhadores.\n\n5 - Compete ao conselho de administração executivo, estabelecer os termos da operacionalização do processo de opção, definir as regras gerais relativas às condições de trabalho e a minuta do respetivo contrato de trabalho a celebrar.\n\n6 - A cessação do vínculo do contrato em funções públicas, para os trabalhadores que optarem pela celebração de contrato de trabalho nos termos dos números anteriores, torna-se efetiva com a sua publicação na 2.ª série do Diário da República.\n\n7 - Os trabalhadores que, nos termos do n.º 2, optem pela celebração de contrato individual de trabalho, passam a estar abrangidos pelo regime geral de segurança social, aplicando-se, sempre que necessário, o regime do Decreto-Lei n.º 117/2006, de 20 de junho, alterado pela Lei n.º 53-A/2006, de 29 de dezembro.\n\n8 - Compete ao conselho de administração executivo da IP, S. A., exercer, relativamente ao pessoal afeto ao quadro de pessoal transitório, todas as competências, designadamente os poderes de gestão, direção e disciplinares, cometidas ao dirigente máximo do serviço.\n\n> Alterado pelo/a Artigo 395.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "201507687": {
+   "fragment_id": "131290375",
+   "type": 11,
+   "heading": "Artigo 6.º — Objeto",
+   "in_force_from": "2022-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2022 - Diário da República n.º 186/2022, Série I de 2022-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2022-201450532), em vigor a partir de 2022-09-27",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Objeto\n\n1 - A IP, S. A., tem por objeto a conceção, projeto, construção, financiamento, conservação, exploração, requalificação, alargamento e modernização das redes rodoviária e ferroviária nacionais, incluindo-se nesta última o comando e o controlo da circulação.\n\n2 - Para efeitos do disposto no número anterior, a IP, S. A., assume a posição de gestor de infraestruturas, nos termos do contrato de concessão geral da rede rodoviária nacional celebrado com o Estado e dos contratos de concessão que com o mesmo venham a ser celebrados, bem como a gestão das demais infraestruturas sob sua administração.\n\n3 - (Revogado).\n\n4 - O Estado pode, ainda, enquanto autoridade de transportes competente quanto ao serviço público de transporte de passageiros, em modo ferroviário pesado, delegar ou concessionar a posição de autoridade competente para efeitos de atribuição a terceiros da exploração de serviço de transporte ferroviário em regime de serviço público, nos termos da legislação europeia e nacional aplicável.\n\n5 - Estão ainda incluídos no objeto da IP, S. A., as atividades de exploração do domínio público ferroviário e rodoviário do Estado, e do seu património autónomo, designadamente a exploração de áreas de serviço, de parques de estacionamento, bem como dos sistemas de informação e gestão de tráfego, dos sistemas de segurança ferroviária e rodoviária, do canal técnico e das redes de comunicações entre infraestruturas ou entre estas e os veículos, as estações, os terminais e outras instalações ferroviárias.\n\n6 - Estão ainda incluídas no objeto da IP, S. A., as atividades de conceção, projeto, construção, exploração, operação e manutenção, em regime de concessão, com faculdade de subconcessão, do sistema de cabos submarinos de comunicações eletrónicas entre o território de Portugal continental e os arquipélagos dos Açores e da Madeira.\n\n7 - A IP, S. A., pode exercer também quaisquer atividades complementares ou subsidiárias do seu objeto principal, relativas, designadamente, à exploração do conhecimento, da inovação, da tecnologia e dos ativos materiais e imateriais da IP, S. A., em regime comercial ou concorrencial, no país ou no estrangeiro, bem como a exploração de outros ramos de atividades comercial ou industrial deles acessórios que não prejudiquem e não colidam com a prossecução do mesmo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2022 - Diário da República n.º 186/2022, Série I de 2022-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2022-201450532), em vigor a partir de 2022-09-27\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+  },
+  "201507688": {
+   "fragment_id": "131290382",
+   "type": 11,
+   "heading": "Artigo 12.º — Poderes de autoridade",
+   "in_force_from": "2022-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2022 - Diário da República n.º 186/2022, Série I de 2022-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2022-201450532), em vigor a partir de 2022-09-27"
+   ],
+   "markdown": "###### Artigo 12.º — Poderes de autoridade\n\n1 - Compete à IP, S. A., relativamente às infraestruturas rodoviárias e ferroviárias nacionais sob sua administração e às infraestruturas afetas às atividades de conceção, projeto, construção, exploração, operação e manutenção, em regime de concessão, do sistema de cabos submarinos de comunicações eletrónicas entre o território de Portugal continental e os arquipélagos dos Açores e da Madeira, zelar pela manutenção permanente das condições de infraestruturação e conservação e pela segurança da circulação ferroviária e rodoviária.\n\n2 - Para o desenvolvimento da sua atividade principal, a IP, S. A., detém os poderes, prerrogativas e obrigações conferidos ao Estado pelas disposições legais e regulamentares aplicáveis, designadamente no que respeita:\n\na) Aos processos de expropriação, nos termos previstos no respetivo código, com a faculdade de transmitir os seus poderes a terceiros, por uma das formas previstas na lei ou por via contratual;\n\nb) Ao licenciamento e concessão, nos termos da legislação aplicável, da exploração, da utilização, da ocupação ou do exercício de quaisquer atividades nos terrenos, edificações e outras infraestruturas do domínio público ferroviário e rodoviário, integrados ou afetos às respetivas redes nacionais;\n\nc) A intimações, embargo administrativo e demolição de construções e edificações efetuadas em domínio público sob gestão da IP, S. A., em zonas non aedificandi e em zonas de proteção estabelecidas por lei, bem como à determinação da remoção de outras situações suscetíveis de violar estas zonas, e reposição do estado do terreno ou imóvel existente antes desta situação;\n\nd) A ocupação temporária e atravessamento de terrenos confinantes e vizinhos de bens de domínio público, incluindo ferroviário, rodoviário e hídrico, bem como ao desvio de linhas de águas, mediante autorização concedida pela autoridade competente, para efeitos de realização de estudos, obras ou trabalhos preparatórios de construção, renovação, conservação e consolidação das vias ferroviárias e rodoviárias ou de outros elementos das respetivas infraestruturas, bem como das infraestruturas afetas às atividades de conceção, projeto, construção, exploração, operação e manutenção, em regime de concessão, do sistema de cabos submarinos de comunicações eletrónicas entre o território de Portugal continental e os arquipélagos dos Açores e da Madeira, em que não se justifique a respetiva expropriação;\n\ne) Ao encerramento compulsivo de instalações onde sejam exercidas atividades proibidas, perigosas, ou não autorizadas, bem como aos casos resultantes de incumprimento contratual;\n\nf) À liquidação e cobrança, voluntária e coerciva, de taxas e tarifas provenientes das suas atividades;\n\ng) À utilização, proteção, gestão e fiscalização das infraestruturas afetas ao serviço público;\n\nh) À execução coerciva das demais decisões de autoridade, com recurso à posse administrativa dos imóveis e terrenos, sempre que tal se revelar necessário como garantia de eficácia das decisões tomadas;\n\ni) À proteção das suas instalações e do seu pessoal;\n\nj) À regulamentação e fiscalização dos serviços prestados no âmbito das suas atividades e à aplicação das correspondentes sanções, nos termos da lei;\n\nk) À responsabilidade civil extracontratual, no exercício dos respetivos poderes públicos;\n\nl) À instauração, instrução e decisão de processos de contraordenação, incluindo a aplicação de sanções.\n\n3 - São ainda conferidos à IP, S. A., nos termos da lei, os seguintes poderes de autoridade necessários para garantir a integridade dos bens que lhe estão afetos, bem como a segurança da circulação e das infraestruturas a seu cargo:\n\na) Determinar a título preventivo e com efeitos imediatos, mediante ordem escrita devidamente fundamentada a suspensão ou cessação de atividades ou o encerramento de instalações que ponham em risco a circulação ferroviária e rodoviária, causem dano ou ameacem causá-lo às vias ou elementos das respetivas infraestruturas;\n\nb) Identificar as pessoas ou entidades que promovam quaisquer atividades em violação das disposições legais e regulamentares de proteção à ferrovia e rodovia e ao património público afeto à respetiva exploração, em especial à segurança ferroviária e rodoviária, procedendo à imediata denúncia perante as autoridades competentes, se tais atos forem suscetíveis de integrar um tipo legal de crime ou um tipo de ilícito contraordenacional;\n\nc) Solicitar a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações que, por razões de segurança ou de garantia de inviolabilidade dos bens públicos, devam ter execução imediata no âmbito do exercício dos poderes públicos atribuídos;\n\nd) Determinar e proceder à imediata remoção de ocupações indevidas de bens de domínio público sob sua gestão, ou afetos à sua atividade, recorrendo, se necessário, à colaboração das autoridades policiais;\n\ne) Substituir-se ao proprietário ou possuidor de prédios confinantes e vizinhos, a expensas dele, caso este não dê cumprimento ao que lhe é exigido no âmbito das alíneas anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2022 - Diário da República n.º 186/2022, Série I de 2022-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2022-201450532), em vigor a partir de 2022-09-27"
+  },
+  "201507689": {
+   "fragment_id": "131290402",
+   "type": 11,
+   "heading": "Artigo 2.º — Objeto",
+   "in_force_from": "2022-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2022 - Diário da República n.º 186/2022, Série I de 2022-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2022-201450532), em vigor a partir de 2022-09-27"
+   ],
+   "markdown": "###### Artigo 2.º — Objeto\n\n1 - A IP, S. A., tem por objeto a conceção, projeto, construção, financiamento, conservação, exploração, requalificação, alargamento e modernização das redes rodoviária e ferroviária nacionais, incluindo-se nesta última o comando e o controlo da circulação.\n\n2 - O Estado pode delegar na IP, S. A., a preparação dos processos de abertura à concorrência da exploração de serviço de transporte ferroviário em regime de serviço público, em linhas férreas, troços de linhas e ramais, que integram ou venham a integrar a Rede Ferroviária Nacional, os quais devem ser objeto de apreciação e parecer prévio vinculativo da Autoridade da Mobilidade e dos Transportes, nos termos das suas competências de regulação e de promoção e defesa da concorrência.\n\n3 - O Estado pode, ainda, enquanto autoridade de transportes competente quanto ao serviço público de transporte de passageiros, em modo ferroviário pesado, delegar ou concessionar a posição de autoridade competente para efeitos de atribuição a terceiros da exploração de serviço de transporte ferroviário em regime de serviço público, nos termos da legislação europeia e nacional aplicável.\n\n4 - A IP, S. A., pode, mediante delegação ou concessão do Estado, ser investida na posição de autoridade competente para efeitos de atribuição a terceiros da exploração de serviço de transporte ferroviário em regime de serviço público, em linhas férreas, troços de linhas e ramais, que integram ou venham a integrar a Rede Ferroviária Nacional.\n\n5 - Estão ainda incluídos no objeto da IP, S. A., as atividades de exploração do domínio público rodoviário e ferroviário do Estado, e do seu património autónomo, designadamente a exploração de áreas de serviço, parques de estacionamento, bem como dos sistemas de informação e gestão de tráfego, dos sistemas de segurança rodoviária e ferroviária, do canal técnico e das redes de comunicações entre infraestruturas ou entre estas e os veículos, as estações, os terminais e outras instalações ferroviárias.\n\n6 - Estão ainda incluídas no objeto da IP, S. A., as atividades de conceção, projeto, construção, exploração e manutenção, em regime de concessão, com faculdade de subconcessão, do sistema de cabos submarinos de comunicações eletrónicas entre o território de Portugal continental e os arquipélagos dos Açores e da Madeira.\n\n7 - A IP, S. A., pode exercer também quaisquer atividades complementares ou subsidiárias do seu objeto principal, relativas, designadamente, à exploração do conhecimento, inovação, tecnologia e ativos materiais e imateriais da IP, S. A., em regime comercial ou concorrencial, no país ou no estrangeiro, bem como a exploração de outros ramos de atividades comercial ou industrial deles acessórios que não prejudiquem e não colidam com a prossecução do mesmo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2022 - Diário da República n.º 186/2022, Série I de 2022-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2022-201450532), em vigor a partir de 2022-09-27"
+  },
+  "205639773": {
+   "fragment_id": "131290387",
+   "type": 11,
+   "heading": "Artigo 15.º — Receitas",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Receitas\n\n1 - São receitas da IP, S. A.:\n\na) A receita parcial efetiva de imposto sobre os produtos petrolíferos e energéticos, a título de consignação de serviço rodoviário nacional;\n\nb) O valor de taxas de portagem;\n\nc) O produto de taxas, emolumentos e outras receitas cobradas por serviços prestados no âmbito da sua atividade;\n\nd) As taxas de utilização da infraestrutura ferroviária e outros proveitos resultantes do exercício da sua atividade e do aproveitamento da infraestrutura, designadamente os resultantes de serviços e prestações acessórios;\n\ne) As comparticipações, as dotações, os subsídios e as compensações financeiras do Estado ou de outras entidades públicas nacionais ou da União Europeia;\n\nf) As indemnizações, o produto de doações, heranças ou legados que lhe sejam concedidos ou devidos, por quaisquer entidades;\n\ng) Os montantes legais resultantes da aplicação de coimas e de outras sanções;\n\nh) O produto da venda de publicações e de processos patenteados para efeitos de adjudicação de projetos e obras;\n\ni) Os rendimentos provenientes de aplicações financeiras;\n\nj) Os lucros ou dividendos das sociedades em que participe;\n\nk) Todos os rendimentos provenientes da gestão e rentabilização do domínio público sob a sua gestão e do domínio privado do Estado sob sua administração;\n\nl) Os rendimentos de bens próprios e o produto da sua alienação e da constituição de direitos sobre eles;\n\nm) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que, por lei ou contrato, lhe sejam atribuídos;\n\nn) As receitas provenientes do exercício das atividades complementares ou subsidiárias.\n\n2 - A cobrança coerciva de receitas próprias decorrentes da sua atividade principal é efetuada nos termos do processo de execução fiscal previsto no Código de Procedimento e Processo Tributário, quando aplicável, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais, constituindo títulos executivos as respetivas faturas, certidões de dívida ou documentos equivalentes.\n\n3 - A IP, S. A., pode obter financiamentos, a curto, médio ou longo prazo, em moeda nacional ou estrangeira, junto de instituições financeiras, incluindo outras operações no mercado financeiro doméstico e internacional, nos termos previstos no regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, ou, desde que apresente capital próprio positivo e obtenha parecer prévio favorável da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., mediante autorização prévia do titular da função acionista.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+  }
+ }
+}

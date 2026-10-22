@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:391992:por
+title: Portaria n.º 538/82
+short_title: null
+summary: Altera os n.os 1.º, 2.º, 3.º, 10.º e 11.º da Portaria n.º 102/82, de 23 de Janeiro, que autoriza a Universidade Técnica
+  de Lisboa, através do Instituto Superior de Educação Física, a conceder o grau de mestre em Ciências da Educação na área
+  de especialização da Metodologia da Educação Física
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e das Universidades
+proposing_entity: null
+official_number: 538/82
+official_date: null
+publication_date: '1982-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/1982, Série I de 1982-05-29
+  number: '122'
+  series: I
+  supplement: null
+  pages: 1471 - 1472
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/12200/14711472.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '391992'
+  dre_path: /dr/detalhe/portaria/538-1982-391992
+  internal: pt:dre:391992:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-1982-391992
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-1982-391992
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-05-29T00:00:00Z'
+integrity:
+  source_sha256: b19a25eb181c4dcca0f7103008eecaf2526ad377e213ea4f0fa4a08cdbfdde7a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-538-391992.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 538/82
+
+de 29 de Maio
+
+Sob proposta do conselho científico do Instituto Superior de Educação Física da Universidade Técnica de Lisboa;
+
+Ao abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), ambos de 7 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades, o seguinte:
+
+1.º Os n.os 1.º, 2.º, 3.º, 10.º e 11.º da Portaria n.º 102/82, de 23 de Janeiro, passam a ter a seguinte redacção:
+
+1.º
+
+(Criação)
+
+A Universidade Técnica de Lisboa, através do Instituto Superior de Educação Física, concede o grau de mestre em Ciências da Educação na área de especialização da Metodologia da Educação Física.
+
+2.º
+
+(Organização do curso)
+
+O curso especializado conducente ao mestrado em Ciências da Educação na área de especialização da Metodologia da Educação Física, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.
+
+3.º
+
+(Área científica)
+
+A área científica do curso é a da Ciência da Educação.
+
+10.º
+
+(«Numerus clausus»)
+
+1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação e das Universidades
+
+2 - Uma percentagem do numerus clausus será reservada a docentes do ensino superior.
+
+11.º
+
+(Critérios de selecção)
+
+1 - ...
+
+2 - ...
+
+3 - Para as vagas referidas no n.º 2 do n.º 10.º será tida em consideração uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+Ministério da Educação e das Universidades, 12 de Maio de 1982. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo.

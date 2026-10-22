@@ -1,0 +1,254 @@
+---
+schema_version: '1.0'
+id: pt:dre:116108110:por
+title: Decreto Legislativo Regional n.º 16/2018/M
+short_title: null
+summary: Cria incentivos à fixação de médicos no Serviço Regional de Saúde na Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 16/2018/M
+official_date: null
+publication_date: '2018-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2018, Série I de 2018-08-20
+  number: '159'
+  series: I
+  supplement: null
+  pages: 4265 - 4267
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15900/0426504267.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/16/2018/08/20/m/dre/pt/html
+  oj: null
+  dre: '116108110'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/16-2018-116108110
+  internal: pt:dre:116108110:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2018-116108110
+  metadata_url: https://data.dre.pt/eli/declegreg/16/2018/08/20/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2018-116108110
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-08-20T00:00:00Z'
+integrity:
+  source_sha256: a35d3e4718aadf26e1f3e84491a2e9043686eeacd20f2eaa1f7740c08704e512
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2018/DRE-2018-16-116108110.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Lares
+- Terceira Idade
+- Despesas de Deslocação
+- Férias
+- Incentivo Profissional
+- Incentivos à Deslocação
+- Jardim de Infância
+- Preferência Conjugal
+- Estabelecimento de Ensino
+- Madeira.região Autónoma
+- Reembolso
+- Regime Jurídico
+- Serviço Regional de Saúde
+- Subsídio de Fixação
+- Subsídio de Transporte
+- Matrícula
+relationships:
+- type: cites
+  target: eli:http://data.
+  label: null
+  source: http://data.
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/10/2012/06/14/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/10/2012/06/14/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/18/2016/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/18/2016/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/70/2017/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/70/2017/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/73/2017/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/73/2017/08/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 16/2018/M
+
+Cria incentivos à fixação de médicos no Serviço Regional de Saúde da Região Autónoma da Madeira
+
+Na sequência dos compromissos assumidos pela Região Autónoma da Madeira, no âmbito do PAEF-programa de ajustamento económico e financeiro, o [Decreto Legislativo Regional n.º 10/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2012-178791), de 14 de junho, procedeu à revogação de vários diplomas que instituíram incentivos à fixação de médicos na Região.
+
+Considerando, todavia, que, por circunstâncias e vicissitudes várias, o Serviço Regional de Saúde da Região Autónoma da Madeira debate-se atualmente com graves carências de médicos, maxime nalgumas especialidades, e que esta carência obstaculiza uma adequada recuperação das listas de espera existentes, bem como a desejável produção clínica dos serviços de saúde, é imperioso que se criem incentivos à fixação de médicos no Serviço Regional de Saúde, procurando atenuar-se os reflexos da descontinuidade territorial insular.
+
+Para efeitos do presente diploma a fixação das especialidades especialmente carenciadas será regulamentada por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e da saúde.
+
+Os incentivos objeto do presente diploma, cuja perceção é limitada no tempo, procuram também atenuar os encargos que os trabalhadores médicos a abranger terão numa fase inicial de instalação na Região, razão pela qual se prevê a possibilidade de compensação das despesas de deslocação e transporte.
+
+Estabelece-se, ainda, a possibilidade de atribuição de apoios para formação e investigação, para além de apoios de âmbito familiar, a regulamentar pelo Governo Regional.
+
+A recente desvinculação de alguns médicos do Serviço de Saúde da Região Autónoma da Madeira E. P. E. obriga, a título excecional, a alargar o âmbito dos incentivos previstos no presente diploma, designadamente o pecuniário de fixação, aos profissionais admitidos desde 1 de abril de 2015.
+
+Foram cumpridos os procedimentos de auscultação estabelecidos no artigo 16.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pelas Leis n.os [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [84/2015](https://diariodarepublica.pt/dr/detalhe/lei/84-2015-69968702), de 7 de agosto, [18/2016](https://diariodarepublica.pt/dr/detalhe/lei/18-2016-74738647), de 20 de junho, [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, [25/2017](https://diariodarepublica.pt/dr/detalhe/lei/25-2017-107094720), de 30 de maio, [70/2017](https://diariodarepublica.pt/dr/detalhe/lei/70-2017-108002086), de 14 de agosto e [73/2017](https://diariodarepublica.pt/dr/detalhe/lei/73-2017-108001409), de 16 de agosto.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º e na alínea m) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho e revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente diploma estabelece os termos e as condições de atribuição de incentivos aos trabalhadores médicos a contratar pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E., em especialidades consideradas especialmente carenciadas e independentemente do vínculo jurídico e regime de trabalho.
+
+2 - A fixação das especialidades especialmente carenciadas a que se refere o número anterior é efetuada por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e da saúde.
+
+3 - As especialidades fixadas como especialmente carenciadas poderão ser alteradas, por redução ou alargamento, consoante as necessidades do Serviço de Saúde da Região Autónoma, E. P. E., nos termos do número anterior.
+
+###### Artigo 2.º — Tipo de incentivos
+
+1 - Os incentivos aos trabalhadores médicos podem ter natureza pecuniária ou não pecuniária.
+
+2 - Aos trabalhadores médicos a quem é aplicável o presente diploma, são atribuídos os seguintes incentivos de natureza pecuniária:
+
+a) Compensação das despesas de deslocação e transporte;
+
+b) Incentivo para fixação no Serviço Regional de Saúde.
+
+###### Artigo 3.º — Compensação das despesas de deslocação e transporte
+
+1 - Aos trabalhadores médicos a quem é aplicável o presente diploma e que não hajam efetuado o internato médico na Região, será prestado um abono por compensação das despesas resultantes da sua deslocação, correspondente ao valor despendido numa tarifa de transporte aéreo entre o continente português e a Região, para si e para o seu cônjuge ou pessoa com quem viva em união de facto, acrescido do valor do abono de 7 dias de ajudas de custo, nos termos legalmente previstos para os trabalhadores em regime de Contrato de Trabalho em Funções Públicas.
+
+2 - A compensação efetiva-se num único pagamento a realizar pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E., no mês seguinte à celebração do contrato de trabalho.
+
+###### Artigo 4.º — Incentivo à fixação no Serviço Regional de Saúde
+
+1 - O valor do incentivo pecuniário de fixação no Serviço de Saúde da Região Autónoma da Madeira, E. P. E., é fixado em 40 % da remuneração base correspondente à primeira posição remuneratória da categoria de assistente, da carreira especial médica ou da carreira médica, a pagar 12 meses por ano.
+
+2 - O incentivo pecuniário é atribuído pelo período de três anos após a celebração do contrato de trabalho com o Serviço de Saúde da Região Autónoma da Madeira, E. P. E., e cessa decorrido esse prazo.
+
+###### Artigo 5.º — Incentivos de natureza não pecuniária
+
+1 - Aos trabalhadores médicos a quem é aplicável o presente diploma são atribuídos os seguintes incentivos de natureza não pecuniária:
+
+a) A preferência pelo cônjuge ou pela pessoa com quem viva em união de facto na lista de ordenação final de candidatos, em caso de igualdade de classificação, nos procedimentos concursais de recrutamento publicitados ao abrigo e nos termos do artigo 30.º da Lei Geral de Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, alterada pelas Leis n.os [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, [84/2015](https://diariodarepublica.pt/dr/detalhe/lei/84-2015-69968702), de 7 de agosto, [18/2016](https://diariodarepublica.pt/dr/detalhe/lei/18-2016-74738647), de 20 de junho, [42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, [25/2017](https://diariodarepublica.pt/dr/detalhe/lei/25-2017-107094720), de 30 de maio, [70/2017](https://diariodarepublica.pt/dr/detalhe/lei/70-2017-108002086), de 14 de agosto e [73/2017](https://diariodarepublica.pt/dr/detalhe/lei/73-2017-108001409), de 16 de agosto, para ocupação de posto de trabalho em serviço ou organismo da administração direta e indireta da Região, desde que se trate de trabalhador com vínculo de emprego público constituído por tempo indeterminado;
+
+b) O aumento da duração do período de férias, em 3 dias;
+
+c) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo do período de férias a que legalmente tem direito, em simultâneo com o cônjuge ou a pessoa com quem viva em união de facto;
+
+d) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo de 11 dias úteis consecutivos do período de férias a que legalmente tem direito, durante as férias escolares dos seus filhos ou dos filhos do cônjuge ou pessoa com quem viva em união de facto que faça parte do seu agregado familiar;
+
+e) Participação em atividades de investigação ou desenvolvimento das correspondentes competências e qualificações profissionais, mediante exercício de funções em serviços ou estabelecimentos de saúde à sua escolha e com prévia autorização destes, situados em território nacional, pelo período máximo de 15 dias, por ano, seguido ou interpolado, com direito a ajudas de custo e transporte nos termos legais;
+
+f) A garantia de transferência escolar dos filhos de qualquer dos cônjuges ou de pessoa com quem viva em união de facto;
+
+g) Apoio à inscrição dos filhos de qualquer dos cônjuges ou de pessoa com quem viva em união de facto em creches e estabelecimentos de ensino oficiais;
+
+h) Apoio a ascendentes de qualquer dos cônjuges ou de pessoa com quem viva em união de facto na inscrição em lares da terceira idade e centros de dia oficiais.
+
+2 - Os incentivos de natureza não pecuniária a que se referem as alíneas g) e h) do número anterior são objeto de regulamentação por despacho conjunto dos membros do Governo Regional com tutela nas áreas da saúde, da educação e da segurança social.
+
+###### Artigo 6.º — Compromisso
+
+A atribuição dos incentivos objeto do presente diploma depende da assunção do compromisso por parte do trabalhador médico de prestar serviço no local onde foi admitido, pelo período de 3 anos.
+
+###### Artigo 7.º — Incumprimento
+
+1 - O incumprimento das obrigações previstas no presente diploma, por factos imputáveis ao trabalhador médico, implicam a devolução dos valores recebidos a título de incentivos pecuniários, acrescidos de juros devidos à taxa legal em vigor.
+
+2 - O pagamento deverá ser efetuado no prazo de 60 dias a contar do facto que lhe deu origem.
+
+3 - Caso o médico invoque e comprove que a sua situação económica não lhe permite proceder ao pagamento dentro do prazo referido no número anterior, poderá o mesmo ser prorrogado até o limite de um ano, e autorizado o pagamento em prestações.
+
+4 - A autorização e prorrogação referidas no número anterior dependem de requerimento dirigido ao membro do Governo com competência na área da Saúde, mediante parecer prévio do membro do Governo com competência na área das Finanças.
+
+###### Artigo 8.º — Norma excecional
+
+1 - O disposto no n.º 1 do artigo 4.º e nas alíneas b) e e) do n.º 1 do artigo 5.º, é aplicável aos trabalhadores médicos que estejam nas condições previstas no n.º 2 do artigo 1.º do presente diploma e que hajam celebrado contrato com o Serviço de Saúde da Região Autónoma da Madeira, E. P. E., desde 1 de abril de 2015.
+
+2 - O incentivo pecuniário de fixação a que se refere o número anterior é devido aos trabalhadores médicos a partir da entrada em vigor do despacho conjunto mencionado no n.º 2 do artigo 1.º pelo período de 3 anos e cessa decorrido esse prazo.
+
+###### Artigo 9.º — Regulamentação
+
+Os despachos conjuntos a que se referem o n.º 2 do artigo 1.º e o n.º 2 do artigo 5.º deverão ser publicados no prazo de 30 dias após a entrada em vigor do presente diploma.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 25 de julho de 2018.
+
+**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+
+**Assinado em 3 de agosto de 2018.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

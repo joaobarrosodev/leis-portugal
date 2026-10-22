@@ -1,0 +1,278 @@
+---
+schema_version: '1.0'
+id: pt:dre:146264:por
+title: Portaria n.º 634/70
+short_title: null
+summary: Aprova, em substituição do estabelecido por portaria inserta no Diário do Governo, 2.ª série, de 14 de Janeiro de
+  1948, o programa dos concursos de habilitação para os cargos de escriturários-dactilógrafos de 2.ª e 1.ª classes, terceiro-oficial,
+  segundo-oficial e primeiro-oficial do quadro da Secretaria-Geral e do quadro interno da Direcção-Geral de Administração
+  Política e Civil
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Interior - Secretaria-Geral
+proposing_entity: null
+official_number: 634/70
+official_date: null
+publication_date: '1970-12-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 288/1970, Série I de 1970-12-14
+  number: '288'
+  series: I
+  supplement: null
+  pages: 1888 - 1889
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/12/28800/18881889.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '146264'
+  dre_path: /dr/detalhe/portaria/634-1970-146264
+  internal: pt:dre:146264:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/634-1970-146264
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/634-1970-146264
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1970-12-14T00:00:00Z'
+integrity:
+  source_sha256: c1ee6fd78d0475c31efc8c53297267396826eb8e814dab130cd01e0a3a7696d0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-634-146264.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 634/70
+
+de 14 de Dezembro
+
+Considerando que o programa de concursos estabelecido por portaria de 8 de Janeiro de 1948, publicada no Diário do Governo, 2.ª série, de 14 do mesmo mês e ano, se encontra desactualizado e em desarmonia com alguns preceitos legais recentemente promulgados;
+
+Considerando, ainda, que o antigo cargo de dactilógrafo passou a escriturário-dactilógrafo, com duas classes, e que os escriturários-dactilógrafos têm, agora, a possibilidade legal de, independentemente de possuírem as habilitações do 2.º ciclo liceal ou equivalente, ascenderem até à categoria de segundo-oficial;
+
+Considerando, finalmente, o disposto no artigo 57.º do [Decreto n.º 36702](https://diariodarepublica.pt/dr/detalhe/decreto/36702-1947-639546), de 30 de Dezembro de 1947:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Interior, aprovar, em substituição do estabelecido por portaria de 8 de Janeiro de 1948, publicada no Diário do Governo, 2.ª série, de 14 do mesmo mês e ano, o programa dos concursos de habilitação para os cargos abaixo enumerados do quadro da Secretaria-Geral e do quadro interno da Direcção-Geral de Administração Política e Civil, o qual constará das seguintes provas escritas:
+
+Para escriturários-dactilógrafos de 2.ª classe
+
+I) Dactilografia e ortografia:
+
+1. Prova de digitação e velocidade. Cópia de documento oficial.
+
+Tempo máximo de vinte minutos.
+
+2. Prova de ortografia. Ditado de um trecho de quinze a vinte linhas.
+
+3. Prova de estética dactilográfica. Cópia de documento contendo trabalho estatístico ou mapa discriminativo.
+
+Tempo máximo de trinta minutos.
+
+II) Conhecimentos gerais:
+
+Resposta a perguntas elementares e resolução de problemas simples sobre:
+
+1. Organização da administração pública portuguesa:
+
+a) Administração central. Organização geral dos Ministérios. Serviços dotados de autonomia. As empresas públicas;
+
+b) Administração local. Divisão administrativa do território continental e das ilhas adjacentes.
+
+Noção de autarquia: o distrito, o concelho e a freguesia. Órgãos de administração local e suas principais atribuições (Código Administrativo e Estatuto dos Distritos Autónomos das Ilhas Adjacentes).
+
+2. Estatuto dos Funcionários:
+
+a) Requisitos gerais para o exercício da função pública. A nacionalidade. O pleno gozo dos direitos civis e políticos. A idade. As habilitações literárias. A sanidade física e mental. O cumprimento dos deveres militares. A idoneidade política. O exercício, em princípio, de um só cargo;
+
+b) Início do exercício da função pública. Conceito de posse;
+
+c) Direitos e deveres gerais dos funcionários;
+
+d) Faltas e licenças;
+
+e) Hierarquia e infracção disciplinar;
+
+f) Cessação do exercício da função pública. Aposentação, exoneração e demissão.
+
+Tempo máximo de duas horas.
+
+Para escriturários-dactilógrafos de 1.ª classe
+
+I) Dactilografia e ortografia:
+
+Programa idêntico ao fixado para o preenchimento dos lugares de escriturário-dactilógrafo de 2.ª classe.
+
+II) Conhecimentos gerais:
+
+Resposta a perguntas elementares e resolução de problemas simples sobre:
+
+1. Organização política da Nação:
+
+a) Nação e Estado;
+
+b) Funções do Estado;
+
+c) Constituição Política. Órgãos da soberania: Chefe do Estado, Assembleia Nacional, Governo e tribunais. Conselho de Estado e Câmara Corporativa.
+
+2. Organização da administração pública portuguesa:
+
+Os assuntos constantes do programa indicado na correspondente rubrica para o preenchimento dos lugares de escriturário-dactilógrafo de 2.ª classe, graduando-se a dificuldade dos pontos em relação à maior categoria do cargo.
+
+3. Orgânica do Ministério do Interior:
+
+Principais diplomas reguladores dos serviços do Gabinete do Ministro, da Secretaria-Geral e da Direcção-Geral de Administração Política e Civil, bem como do Serviço de Repressão da Mendicidade.
+
+4. Estatuto dos Funcionários:
+
+a) Os assuntos constantes do programa fixado nas várias alíneas que constituem a correspondente rubrica para o preenchimento dos lugares de escriturário-dactilógrafo de 2.ª classe;
+
+b) Quadros do pessoal, categorias e cargos;
+
+c) Processos de recrutamento;
+
+d) Investidura e suas formas;
+
+e) Diploma de provimento e termo de posse;
+
+f) Responsabilidade disciplinar. As penas e os seus efeitos. Competência disciplinar;
+
+g) Regalias dos funcionários;
+
+h) Incompatibilidades e acumulações;
+
+i) Listas de antiguidades.
+
+5. Contabilidade pública:
+
+a) Receitas e despesas públicas;
+
+b) Orçamento Geral do Estado e Conta Geral do Estado;
+
+c) A realização das despesas públicas. Requisitos essenciais. Dotações e cabimento;
+
+d) Duodécimos. Antecipação de duodécimos;
+
+e) Transferências de verbas;
+
+f) Constituição do orçamento do Ministério do Interior.
+
+Tempo máximo de duas horas.
+
+Para terceiros-oficiais
+
+I) Dactilografia e ortografia:
+
+Ditado de um trecho de quinze a vinte linhas.
+
+II) Redacção:
+
+Redacção de ofício, circular, informação ou relatório sobre matéria de serviço.
+
+Tempo máximo de duas horas.
+
+III) Conhecimentos gerais e especializados:
+
+Resposta a perguntas e resolução de problemas sobre:
+
+1. Organização política da Nação:
+
+a) Os assuntos constantes do programa estabelecido para o preenchimento dos lugares de escriturário-dactilógrafo de 1.ª classe, graduando-se a dificuldade dos pontos em relação à maior categoria do cargo;
+
+b) Eleições do Presidente da República e da Assembleia Nacional.
+
+2. Orgânica e serviços do Ministério do Interior:
+
+a) Principais diplomas reguladores dos serviços do Gabinete do Ministro, da Secretaria-Geral, da Direcção-Geral de Administração Política e Civil, da Direcção-Geral de Segurança, da Imprensa Nacional, da Polícia de Segurança Pública, da Guarda Nacional Republicana, do Serviço de Repressão da Mendicidade, do Conselho Nacional dos Serviços de Incêndios e do Conselho de Inspecção de Jogos;
+
+b) Mercês honoríficas;
+
+c) Naturalizações;
+
+d) Passaportes.
+
+3. Administração local:
+
+a) Divisão administrativa do território continental e das ilhas adjacentes;
+
+b) Organização administrativa local: órgãos de administração e órgãos consultivos. Sua composição, constituição, funcionamento e atribuições: serviços municipais e distritais;
+
+c) Intervenção do Governo no funcionamento dos corpos administrativos;
+
+d) Magistrados administrativos;
+
+e) Garantia administrativa;
+
+f) Organização dos serviços dos governos civis e das administrações de bairro: competência dos governadores civis e dos secretários dos governos civis, dos administradores de bairro e dos secretários das administrações;
+
+g) Pessoas colectivas de utilidade pública administrativa;
+
+h) Estatuto dos Funcionários Administrativos: diplomas reguladores dos concursos de habilitação e de provimento de lugares do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Política e Civil;
+
+i) Finanças locais: receitas e despesas, orçamentos e contas: diplomas reguladores dos serviços de contabilidade e tesouraria dos corpos administrativos;
+
+j) Cofres privativos dos governos civis: orçamentos e contas;
+
+l) Contencioso administrativo.
+
+4. Estatuto dos Funcionários do Estado:
+
+As matérias enunciadas nas várias alíneas que constituem a rubrica «Estatuto dos funcionários» do programa de concurso para o preenchimento dos lugares de escriturário-dactilógrafo de 1.ª classe, graduando-se a dificuldade dos pontos em relação à maior categoria do cargo.
+
+5. Contabilidade pública:
+
+a) As matérias enunciadas nas várias alíneas da correspondente rubrica do programa de concurso para o preenchimento dos lugares de escriturário-dactilógrafo de 1.ª classe, graduando-se a dificuldade dos pontos em relação à maior categoria do cargo;
+
+b) Contabilização de despesas e processamento de folhas;
+
+c) Vencimentos e descontos legais. Abono de família. Ajudas de custo e transportes.
+
+Tempo máximo de três horas.
+
+Para segundos e primeiros-oficiais
+
+Programa idêntico ao fixado nas rubricas II «Redacção» e III «Conhecimentos gerais e especializados» para o preenchimento dos lugares de terceiro-oficial, graduando-se a dificuldade dos pontos consoante as categorias dos cargos.
+
+Na prestação das provas que o exijam é ùnicamente permitida a consulta dos respectivos textos legislativos de que os candidatos deverão encontrar-se munidos.
+
+**O Ministro do Interior, António Manuel Gonçalves Rapazote.**

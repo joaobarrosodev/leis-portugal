@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:471918:por
+title: Resolução n.º 242/80
+short_title: null
+summary: Incumbe os Ministérios das Finanças e do Plano e da Agricultura e Pescas de prepararem e submeterem ao Conselho de
+  Ministros os instrumentos jurídicos necessários para a transferência do activo e passivo do actual Complexo Agro-Industrial
+  do Cachão para uma sociedade anónima a criar, que adoptará a denominação social Caica - Complexo Agro-Industrial do Cachão,
+  S. A. R. L.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 242/80
+official_date: null
+publication_date: '1980-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/1980, Série I de 1980-07-10
+  number: '157'
+  series: I
+  supplement: null
+  pages: 1587 - 1587
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15700/15871587.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471918'
+  dre_path: /dr/detalhe/resolucao/242-1980-471918
+  internal: pt:dre:471918:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/242-1980-471918
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/242-1980-471918
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-07-10T00:00:00Z'
+integrity:
+  source_sha256: 09e916dc25f97659641dba25834caaadf016e26de87b858e79ccc470cca1ad38
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-242-471918.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 242/80
+
+Considerando que o despacho conjunto de 9 de Abril de 1976, publicado no Diário da República, 2.ª série, n.º 95, de 22 de Abril de 1976, desanexou da ex-Federação dos Grémios da Lavoura do Nordeste Transmontano o Complexo Agro-Industrial do Cachão, que passou a constituir uma unidade autónoma com os bens, direitos e obrigações a ele afectos;
+
+Considerando que a resolução de 9 de Junho de 1976, publicada no Diário da República, 1.ª série, n.º 153, de 2 de Julho de 1976, criou uma comissão instaladora entre cujas funções estava a de elaborar o projecto de estatutos de uma empresa pública e avaliar o património líquido do Complexo a transferir para a nova empresa;
+
+Considerando que, no cumprimento desta última resolução, por despacho ministerial de 19 de Julho de 1979, publicado no Diário da República, 2.ª série, n.º 172, de 27 de Julho de 1979, foi nomeada a actual comissão instaladora;
+
+Considerando que o estudo atento e ponderado de todos os condicionamentos do desenvolvimento regional e de reestruturação do Complexo Agro-Industrial do Cachão aponta para a criação de uma nova forma de relação institucional entre as diversas actividades que o compõem, objectivo que se entende será melhor alcançado através de uma sociedade anónima do tipo sociedade de gestão - que proceda, por individualização de partes do seu património, à criação de novas sociedades - do que por meio de uma empresa pública;
+
+Considerando que para que o interesse do Estado fique devidamente salvaguardado este deve deter uma participação maioritária no capital das novas sociedades a criar;
+
+Considerando que o Governo está empenhado em dar solução ao problema dos técnicos agrícolas de fomento agrário da ex-Federação dos Grémios da Lavoura do Nordeste Transmontano e em, simultaneamente, assegurar o apoio técnico à nova sociedade a formar;
+
+Considerando que interessa salvaguardar os legítimos direitos dos actuais trabalhadores do Complexo Agro-Industrial do Cachão:
+
+O Conselho de Ministros, reunido em 26 de Junho de 1980, resolveu:
+
+1 - Os Ministérios das Finanças e do Plano e da Agricultura e Pescas prepararão e submeterão ao Conselho de Ministros os instrumentos jurídicos necessários para a transferência do activo e passivo do actual Complexo Agro-Industrial do Cachão para uma sociedade anónima a criar, que adoptará a denominação social Caica - Complexo Agro-Industrial do Cachão, S. A. R. L., e cujo capital será totalmente pertencente ao Estado, admitindo, no entanto, a possibilidade de alienação de parte ou partes do património da sociedade e das suas participações noutras sociedades.
+
+2 - Será constituída uma nova sociedade, participada pela anterior, à qual ficará afecto o matadouro industrial. Nesta sociedade participarão também agricultores da região, em nome individual ou através das suas associações, outras actividades da região interessadas no sector e a Companhia Industrial Portugal e Colónias, em proporções de capital social a definir. As participações regionais acima referidas, se não forem tomadas imediatamente aquando da constituição da sociedade, ficarão na posse da Caica, S. A. R. L., que, a todo o tempo, as reservará para esse fim.
+
+3 - Pelos Ministérios das Finanças e do Plano e da Agricultura e Pescas será atribuída à Caica, S. A. R. L., a importância de 340000 contos, proveniente dos fundos gerados pela PL-480, a qual será obrigatoriamente aplicada na conclusão das obras do matadouro industrial, a cargo da nova sociedade afiliada, sem prejuízo da desejável e necessária participação financeira dos outros sócios que dela venham a fazer parte.
+
+A fiscalização da aplicação da referida verba caberá ao IFADAP.
+
+4 - Os instrumentos jurídicos necessários para dar execução à presente resolução deverão ser elaborados até 31 de Julho de 1980.
+
+Presidência do Conselho de Ministros, 26 de Junho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.

@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:73882250:por
+title: Resolução do Conselho de Ministros n.º 13/2016
+short_title: null
+summary: Concretiza a implementação do Mar 2020, através do estabelecimento de prazos para proceder à publicação dos regulamentos
+  específicos das medidas de apoio previstas no Programa Operacional Mar 2020 e determina a abertura de concursos para os
+  DLBC - desenvolvimento local de base comunitária nas Regiões Autónomas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 13/2016
+official_date: null
+publication_date: '2016-03-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/2016, Série I de 2016-03-16
+  number: '53'
+  series: I
+  supplement: null
+  pages: 845 - 846
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05300/0084500846.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/13/2016/03/16/p/dre/pt/html
+  oj: null
+  dre: '73882250'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/13-2016-73882250
+  internal: pt:dre:73882250:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2016-73882250
+  metadata_url: https://data.dre.pt/eli/resolconsmin/13/2016/03/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-2016-73882250
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-03-16T00:00:00Z'
+integrity:
+  source_sha256: 8d2ec83b907a77286240f58169bc12c378321ed6739fb295f1cdf5e8f78aa7d1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-13-73882250.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Região Autónoma
+- Financiamento
+- Empresa
+- Investigação Científica e Tecnológica
+- Mar
+- Concurso
+- Competitividade Empresarial
+- Pesca
+- Fundos CE
+- Aquicultura
+- Desenvolvimento Económico
+- Jovem Empresário
+- Programa Operacional
+- Regulamento
+- Desenvolvimento Local
+- Eficiência Energética
+- Programa Operacional Mar 2020
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2015/04/02/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 13/2016
+
+O XXI Governo Constitucional assumiu, na sua Lei Orgânica, o Mar como um desafio de futuro, um desígnio político transversal, competindo à Ministra do Mar a implementação e acompanhamento da Estratégia Nacional para o Mar, através da promoção do conhecimento científico, da inovação e do desenvolvimento tecnológico.
+
+A definição e coordenação da execução das políticas de gestão e exploração dos recursos do mar, dos seus usos e de uma economia do mar sustentável, das pescas, do transporte marítimo e dos portos e a gestão dos fundos nacionais e europeus relativos ao mar passaram a ser objetivos prioritários do Governo.
+
+É no âmbito da designada estratégia «crescimento azul», que visa apoiar a longo prazo o crescimento sustentável no conjunto dos setores marinho e marítimo, reconhecendo a importância dos mares e oceanos, enquanto motores da economia europeia com grande potencial para a inovação e o crescimento, que este Governo vem colocar um maior enfoque no setor do mar e das pescas.
+
+Na União Europeia, a «economia azul» representa 5,4 milhões de postos de trabalho e um valor acrescentado bruto de quase 500 mil milhões de euros por ano.
+
+Todavia, em Portugal, a economia do mar está longe de ter um peso correspondente ao seu potencial, considerando o Governo estarem reunidas as condições para duplicar o peso do mar na economia nacional, sendo o Programa Operacional Mar 2020 (Mar 2020) um instrumento fundamental para esta concretização.
+
+O Mar 2020, cofinanciado pelo Fundo Europeu dos Assuntos Marítimos e Pescas (FEAMP), aprovado pela Decisão da Comissão C (2015) 8642 final, de 30 de novembro de 2016, vigorará no período de 2014-2020.
+
+O Mar 2020 deve contribuir para atingir os objetivos e as metas da Estratégia Europa 2020, em especial os relacionados com o emprego, as alterações climáticas e a sustentabilidade energética, o combate à pobreza e a inclusão social, promovendo um crescimento inteligente, sustentável e inclusivo e o reforço da coesão económica, social e territorial.
+
+O Mar 2020 é um programa nacional destinado a apoiar a execução da Política Comum das Pescas e da Política Marítima Integrada, dispõe de 392,5 milhões de euros de FEAMP, dos quais cerca de 214,8 milhões de euros serão canalizados para medidas que promovam a competitividade, que integram as compensações às Regiões Ultraperiféricas; cerca de 99,3 milhões de euros para medidas que visem a sustentabilidade; 37 milhões de euros para o domínio da inclusão e emprego; e os restantes 11 milhões de euros para a eficiência energética e uma economia de baixo carbono.
+
+Nesse contexto, o Mar 2020 prevê como prioridades a promoção de uma pesca e aquicultura ambientalmente sustentáveis, eficientes em termos de recursos, inovadoras, competitivas e baseadas no conhecimento, a promoção da comercialização e transformação dos produtos da pesca e da aquicultura, o aumento do emprego e da coesão territorial.
+
+Neste Programa Operacional surge, também, uma abordagem inovadora relativa ao Desenvolvimento Local de Base Comunitária (DLBC), um instrumento que funciona da base para o topo e tem como objetivo promover o desenvolvimento das zonas costeiras, integrando plenamente as necessidades multissetoriais e envolve parcerias locais, ligadas em rede, representativas do setor privado, do setor público e da sociedade civil.
+
+Aquando da tomada de posse do XXI Governo Constitucional, estava estabelecido o modelo de governação dos fundos europeus estruturais e de investimento (FEEI) e as regras gerais aplicáveis a estes fundos. Quanto ao Mar 2020 em concreto, apenas estava publicada a [Resolução do Conselho de Ministros n.º 16/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66902696/details/normal?l=1), de 2 de abril, que cria a autoridade de gestão do Programa Operacional, e o Despacho n.º 8273/2015, publicado no Diário da República, 2.ª série, n.º 146, de 29 de julho, mediante o qual foi nomeado o respetivo gestor.
+
+A operacionalização do Mar 2020 exige, contudo, um conjunto de outros pressupostos e procedimentos administrativos complexos, legalmente previstos, que no final de 2015 não estavam criados, dos quais se salienta a criação do sistema de gestão e controlo do PO e a elaboração da sua descrição, a designação das Autoridades de Gestão e de Certificação e a sua notificação à Comissão Europeia, a indicação dos Organismos Intermédios, a definição das competências neles delegáveis e celebração dos contratos de delegação, a criação da Comissão de Acompanhamento do Programa Operacional e a realização da sua 1.ª reunião com vista à adoção do regulamento interno e à aprovação dos critérios de seleção das principais medidas, a adaptação dos sistemas de informação às novas medidas e organismos intermédios envolvidos, a elaboração e publicação da legislação específica e, ainda, o cumprimento das exigências do Plano de Ação relativo à Recolha de Dados e do Plano de Ação relativo ao Controlo, enquanto condicionalidades ex-ante ao Programa Operacional.
+
+Apesar das dificuldades com que se deparou, o Governo já promoveu a assinatura dos contratos referentes ao DLBC Costeiro, numa estratégia de proximidade, que preveem a alocação de cerca de 39 milhões de euros à implementação de estratégias de desenvolvimento local, cobrindo praticamente todo o território litoral do Continente, com exceção das Regiões Autónomas, que também já manifestaram interesse na aplicação desta abordagem.
+
+No que respeita à Regiões Ultraperiféricas sublinha-se, ainda, que, desde 1 de janeiro de 2014, os operadores do setor da pesca das Regiões Autónomas não recebem qualquer tipo de compensação de sobrecusto a que estão sujeitos, uma vez que o Programa POSEI se encontra paralisado, sendo este mais um motivo de grande importância para implementar rapidamente o Mar 2020.
+
+A 1.ª reunião da Comissão de Acompanhamento também já teve lugar no passado dia 22 de fevereiro, tendo sido aprovado o regulamento interno e os critérios de seleção que permitem ao Governo regulamentar um conjunto significativo de medidas suscetíveis de fomentar a competitividade, a investigação científica, a inovação, a eficiência energética e o desenvolvimento sustentável da aquicultura e aptas a potenciar o ingresso de jovens na atividade pesqueira.
+
+É firme intenção do Governo recuperar o tempo perdido e imprimir uma nova dinâmica ao Mar 2020 que permita contribuir para o efetivo crescimento da economia do mar.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Impulsionar a implementação do Programa Operacional Mar 2020 (Mar 2020), com a publicação imediata das portarias que aprovam os regulamentos específicos das medidas de apoio previstas no Mar 2020, com especial enfoque para apoio à competitividade das empresas do setor, à investigação científica, à inovação, à aquicultura, à promoção da eficiência energética, à aposta clara no ingresso de jovens pescadores na atividade pesqueira e à compensação dos sobrecustos dos operadores económicos das Regiões Ultraperiféricas.
+
+2 - Que até 31 de março de 2016, estejam criadas as condições necessárias para a abertura de concursos para o Desenvolvimento Local de Base Comunitária, nas Regiões Autónomas em função da extensão da área costeira.
+
+3 - Determinar que, até 30 de abril de 2016, são aprovados os restantes regulamentos específicos das medidas de apoio previstas no Mar 2020.
+
+4 - Determinar que a presente resolução produz efeitos no dia seguinte à sua publicação.
+
+Presidência do Conselho de Ministros, 3 de março de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.

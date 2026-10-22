@@ -1,0 +1,223 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67401245:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-105821479",
+ "dre_path": "/dr/detalhe/decreto-lei/101-2015-67401245",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "105825975",
+    "105825976",
+    "105825977",
+    "105825978",
+    "105825979",
+    "105825980",
+    "105825981",
+    "105825982"
+   ]
+  },
+  {
+   "date": "2017-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105820580:por",
+     "title": "Decreto-Lei n.º 15/2017",
+     "published": "2017-01-27",
+     "dre_path": "/dr/detalhe/decreto-lei/15-2017-105820580"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "105825975",
+    "105825976",
+    "105826006",
+    "105825978",
+    "105826007",
+    "105826008",
+    "105826002",
+    "105826003",
+    "105826004",
+    "105826005"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "105825975",
+    "105825976",
+    "105826006",
+    "105825978",
+    "153013511",
+    "105826008",
+    "105826002",
+    "105826003",
+    "105826004",
+    "105826005"
+   ]
+  }
+ ],
+ "fragments": {
+  "105825975": {
+   "fragment_id": "105821480",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 101/2015\n\nde 4 de junho\n\nNo setor da saúde existe uma elevada concentração de médicos em estabelecimentos situados em determinadas zonas, em detrimento de outros que se encontram localizados fora dos grandes centros populacionais. Esta situação tem efeitos negativos para os cidadãos que assim se veem, em alguns casos, forçados a deslocar-se a estabelecimentos de saúde distantes do seu domicílio, que lhes garantam os cuidados de que necessitam, com os consequentes impactos financeiros para o Serviço Nacional de Saúde.\n\nNeste contexto, a necessária gestão de recursos humanos impõe que se promova uma adequada racionalização dos profissionais existentes, no sentido de serem minimizadas as assimetrias regionais, através da criação dos estímulos que garantem a correção destas assimetrias.\n\nO presente decreto-lei estabelece os termos e as condições de atribuição de incentivos à futura fixação em zonas carenciadas de trabalhadores médicos com contrato de trabalho por tempo indeterminado, ou a contratar, mediante vínculo de emprego público ou privado, com serviço ou estabelecimento integrado no Serviço Nacional de Saúde, cujas especialidades são definidas anualmente por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.\n\nForam observados os procedimentos decorrentes do Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "105825976": {
+   "fragment_id": "105821481",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece os termos e as condições de atribuição de incentivos aos trabalhadores médicos com contrato de trabalho por tempo indeterminado, ou a contratar, mediante vínculo de emprego público ou privado, com serviço ou estabelecimento integrado no Serviço Nacional de Saúde (SNS) situado em zona geográfica qualificada como carenciada."
+  },
+  "105825977": {
+   "fragment_id": "105821482",
+   "type": 11,
+   "heading": "Artigo 2.º — Tipos de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tipos de incentivos\n\n1 - Os incentivos aos trabalhadores médicos podem ter natureza pecuniária ou não pecuniária.\n\n2 - Aos trabalhadores médicos que sejam colocados em zonas carenciadas são atribuídos os seguintes incentivos de natureza pecuniária:\n\na) Compensação das despesas de deslocação e transporte;\n\nb) Incentivo para colocação em zona carenciada.\n\n3 - Aos trabalhadores médicos que sejam colocados em zonas carenciadas são atribuídos os seguintes incentivos de natureza não pecuniária:\n\na) A garantia de transferência escolar dos filhos de qualquer dos cônjuges ou de pessoa com quem viva em união de facto;\n\nb) O direito a dispensa de serviço, até cinco dias úteis, no período imediatamente anterior ou posterior ao início de funções no posto de trabalho qualificado como carenciado, que é considerada, para todos os efeitos legais, como prestação efetiva de serviço;\n\nc) A dispensa da anuência do órgão ou serviço de origem, no caso de trabalhador com vínculo de emprego público ou, sendo o caso, do órgão de gestão de serviço ou estabelecimento de saúde com a natureza de entidade pública empresarial integrado no SNS, nas situações em que o cônjuge ou a pessoa com quem vive em união de facto, requer a mobilidade para um serviço ou organismo sito na localidade onde o trabalhador médico é colocado;\n\nd) O aumento da duração do período de férias, em dois dias, durante os primeiros cinco anos;\n\ne) O gozo de 11 dias úteis consecutivos do período de férias a que legalmente tem direito, em simultâneo com o cônjuge ou a pessoa com quem vive em união de facto;\n\nf) O aumento, em dobro, do limite máximo de duração da licença sem perda de remuneração, previsto no artigo 25.º do Decreto-Lei n.º 177/2009, de 4 de agosto, a conceder pela entidade empregadora."
+  },
+  "105825978": {
+   "fragment_id": "105821483",
+   "type": 11,
+   "heading": "Artigo 3.º — Compensação das despesas de deslocação e transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Compensação das despesas de deslocação e transporte\n\n1 - Os trabalhadores médicos colocados em zonas carenciadas têm direito a um abono por compensação das despesas resultantes da sua deslocação e do seu agregado familiar, bem como do transporte da respetiva bagagem, correspondente ao valor do abono de 15 dias de ajuda de custo.\n\n2 - A compensação das despesas de deslocação e transporte efetiva-se num único pagamento, a realizar no mês seguinte ao início de funções no novo posto de trabalho.\n\n3 - O pagamento da compensação das despesas de deslocação e transporte a que se refere o número anterior é da responsabilidade do serviço ou estabelecimento de destino e deve ser efetuado no primeiro mês em que o serviço ou estabelecimento é responsável pelo processamento da correspondente remuneração.\n\n4 - O disposto no presente artigo não é aplicável aos médicos que, à data do recrutamento para zona geográfica carenciada, não se encontrem vinculados, em regime de contrato de trabalho em funções públicas ou de contrato individual de trabalho, independentemente, em ambos os casos, da sua modalidade, a serviços ou estabelecimentos de saúde, integrados no SNS, bem como aos que, tendo beneficiado do regime previsto no presente artigo, não tenham permanecido no estabelecimento de colocação pelo período mínimo de cinco anos."
+  },
+  "105825979": {
+   "fragment_id": "105821484",
+   "type": 11,
+   "heading": "Artigo 4.º — Incentivo para colocação em zona carenciada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Incentivo para colocação em zona carenciada\n\n1 - O incentivo para colocação é pago 12 meses por ano e visa compensar o trabalhador médico pelas condições mais exigentes de prestação em zona carenciada.\n\n2 - O valor do incentivo para colocação é fixado em (euro) 1 000, mensais.\n\n3 - O montante do incentivo para colocação fixado no número anterior é reduzido, para:\n\na) 50 %, após seis meses de duração da colocação no posto de trabalho carenciado;\n\nb) 25 %, após 12 meses de duração da colocação no posto de trabalho carenciado.\n\n4 - O incentivo para colocação, nos termos fixados nos n.os 2 e 3, é reduzido para um terço nos seguintes casos:\n\na) Sempre que o empregador disponibilize residência adequada à tipologia familiar durante o período de exercício de funções;\n\nb) Sempre que o trabalhador, o seu cônjuge ou quem com ele viva em união de facto, possuir habitação própria num raio de 30 km a partir do local do serviço ou estabelecimento de destino.\n\n5 - O incentivo para colocação é pago durante os primeiros cinco anos após a colocação no posto de trabalho e cessa decorrido este prazo.\n\n6 - Nos casos em que o trabalhador médico, por sua iniciativa, cesse funções antes do decurso do prazo de cinco anos, a contar da data do início das mesmas, é obrigado a devolver parte do incentivo para colocação, nos seguintes termos:\n\na) Até um ano de duração da colocação no posto de trabalho carenciado, procede à devolução de:\n\ni) 75% do montante previsto no n.º 2, desde que não tenham decorrido seis meses sobre a data da colocação;\n\nii) 25% do montante previsto no n.º 2, se já tiverem decorrido mais de seis meses sobre a data da colocação;\n\nb) Após um ano de colocação no posto de trabalho carenciado, o valor do incentivo a devolver é calculado através da fórmula 6000 (euro) x N:48, sendo N o número de meses completos que faltam para perfazer cinco anos de duração do incentivo.\n\n7 - O trabalhador médico que cesse funções nos termos do número anterior fica, ainda, impedido de beneficiar do regime de incentivos fixado no presente decreto-lei, durante o prazo de cinco anos a contar da data da cessação de funções."
+  },
+  "105825980": {
+   "fragment_id": "105821485",
+   "type": 11,
+   "heading": "Artigo 5.º — Zonas geográficas carenciadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Zonas geográficas carenciadas\n\nPara efeitos do disposto no presente decreto-lei, as zonas geográficas carenciadas, por estabelecimento de saúde e especialidade médica, são definidas, anualmente, no primeiro trimestre de cada ano civil, por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde."
+  },
+  "105825981": {
+   "fragment_id": "105821486",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposição transitória\n\nO despacho a que se refere o artigo anterior é, em 2015, publicado no prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei."
+  },
+  "105825982": {
+   "fragment_id": "105821487",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "105826006": {
+   "fragment_id": "105821482",
+   "type": 11,
+   "heading": "Artigo 2.º — Tipos de incentivos",
+   "in_force_from": "2017-01-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+   ],
+   "markdown": "###### Artigo 2.º — Tipos de incentivos\n\n1 - Os incentivos aos trabalhadores médicos podem ter natureza pecuniária ou não pecuniária.\n\n2 - Aos trabalhadores médicos que sejam colocados em zonas carenciadas são atribuídos os seguintes incentivos de natureza pecuniária:\n\na) Compensação das despesas de deslocação e transporte;\n\nb) Incentivo para colocação em zona carenciada.\n\n3 - Aos trabalhadores médicos que sejam colocados em zonas carenciadas são atribuídos os seguintes incentivos de natureza não pecuniária:\n\na) A garantia de transferência escolar dos filhos de qualquer dos cônjuges ou de pessoa com quem viva em união de facto;\n\nb) O direito a dispensa de serviço, até cinco dias úteis, no período imediatamente anterior ou posterior ao início de funções no posto de trabalho qualificado como carenciado, que é considerada, para todos os efeitos legais, como prestação efetiva de serviço;\n\nc) A dispensa da anuência do órgão ou serviço de origem, no caso de trabalhador com vínculo de emprego público ou, sendo o caso, do órgão de gestão de serviço ou estabelecimento de saúde com a natureza de entidade pública empresarial integrado no SNS, nas situações em que o cônjuge ou a pessoa com quem vive em união de facto, requer a mobilidade para um serviço ou organismo sito na localidade onde o trabalhador médico é colocado;\n\nd) A preferência pelo cônjuge ou pela pessoa com quem viva em união de facto na lista de ordenação final dos candidatos, em caso de igualdade de classificação, nos procedimentos concursais de recrutamento publicitados ao abrigo e nos termos do artigo 30.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, para ocupação de posto de trabalho em serviço ou organismo da administração direta e indireta do Estado sito na localidade onde o trabalhador médico é colocado, desde que se trate de trabalhador com vínculo de emprego público constituído por tempo indeterminado;\n\ne) O aumento da duração do período de férias, enquanto permanecer no estabelecimento cujo posto de trabalho identificado como carenciado, em dois dias, acrescidos de mais um dia de férias por cada cinco anos de serviço efetivamente prestado;\n\nf) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo do período de férias a que legalmente tem direito, em simultâneo com o cônjuge ou a pessoa com quem viva em união de facto;\n\ng) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo de 11 dias úteis consecutivos do período de férias a que legalmente tem direito, durante as férias escolares dos seus filhos ou dos filhos do cônjuge ou pessoa com quem viva em união de facto que faça parte do seu agregado familiar;\n\nh) O aumento, em dobro, do limite máximo de duração da licença sem perda de remuneração, previsto no artigo 25.º do Decreto-Lei n.º 177/2009, de 4 de agosto, a conceder pela entidade empregadora.\n\ni) Participação em atividades de investigação ou desenvolvimento das correspondentes competências e qualificações profissionais, mediante exercício de funções em serviços ou estabelecimento de saúde à sua escolha, situados em território nacional, pelo período máximo de 15 dias, por ano, seguido ou interpolado, com direito a ajudas de custo e transporte nos termos legais;\n\nj) Preferência, caso o trabalhador se candidate, nos termos legais, a procedimento concursal de recrutamento para preenchimento de postos de trabalho na categoria de assistente graduado sénior, na lista de ordenação final dos candidatos, em caso de igualdade de classificação, desde que o trabalhador nos termos previstos no presente decreto-lei, tenha sido colocado, e permaneça, em estabelecimento situado em zona qualificada como carenciada;\n\nk) A duração máxima do acordo de cedência de interesse público a que se refere o n.º 1 do artigo 243.º da LTFP, celebrado pelo cônjuge ou pela pessoa com quem viva em união de facto para exercício de funções no âmbito de serviço da administração direta ou indireta do Estado sito na localidade onde o trabalhador médico está colocado, coincide com o período de colocação do trabalhador na mesma localidade, sem prejuízo dos demais requisitos legais previstos para o referido acordo, nem de outras disposições legais mais favoráveis que lhe sejam aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+  },
+  "105826007": {
+   "fragment_id": "105821484",
+   "type": 11,
+   "heading": "Artigo 4.º — Incentivo para colocação em zona carenciada",
+   "in_force_from": "2017-01-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+   ],
+   "markdown": "###### Artigo 4.º — Incentivo para colocação em zona carenciada\n\n1 - O incentivo para colocação é pago 12 meses por ano e visa compensar o trabalhador médico pelas condições mais exigentes de prestação em zona carenciada.\n\n2 - O valor do incentivo para colocação é devido durante e enquanto o trabalhador médico permanecer no posto de trabalho situado em zona carenciada, sendo fixado em 40 % da remuneração base correspondente à primeira posição remuneratória da categoria de assistente, da carreira especial médica ou da carreira médica.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - O direito ao incentivo é atribuído pelo período de três anos, após a colocação no posto de trabalho e cessa decorrido este prazo.\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+  },
+  "105826008": {
+   "fragment_id": "105821485",
+   "type": 11,
+   "heading": "Artigo 5.º — Zonas geográficas carenciadas",
+   "in_force_from": "2017-01-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+   ],
+   "markdown": "###### Artigo 5.º — Zonas geográficas carenciadas\n\n1 - Para efeitos do disposto no presente decreto-lei, a definição de zonas geográficas qualificadas como carenciadas assenta, designadamente, nos seguintes fatores:\n\na) Percentagem do produto interno bruto (PIB), per capita, da região em que se situa o serviço ou estabelecimento de saúde;\n\nb) Número de trabalhadores médicos, em função da densidade populacional abrangida pelo serviço ou estabelecimento de saúde e sua comparação com outros estabelecimentos do mesmo grupo;\n\nc) Níveis de desempenho assistencial, produtividade e de acesso;\n\nd) Distância geográfica de outros serviços e estabelecimentos de saúde;\n\ne) Capacidade formativa dos serviços e estabelecimentos de saúde.\n\n2 - A identificação, por especialidade médica, dos serviços e estabelecimentos de saúde para os efeitos previstos no presente decreto-lei, faz-se, anualmente, no primeiro trimestre de cada ano, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+  },
+  "105826002": {
+   "fragment_id": "105821508",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Mobilidade",
+   "in_force_from": "2017-01-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+   ],
+   "markdown": "###### Artigo 5.º-A — Mobilidade\n\n1 - No caso de um trabalhador médico que se disponibilize para ocupar um posto de trabalho num serviço ou estabelecimento de saúde que, para a respetiva especialidade, se situe em zona geográfica qualificada como carenciada, é dispensado o acordo do órgão ou serviço de origem.\n\n2 - Ao trabalhador médico que, tendo permanecido, ao abrigo do regime fixado pelo presente decreto-lei, por três ou mais anos num serviço ou estabelecimento de saúde situado em zona geográfica qualificada como carenciada e requeira a mobilidade para novo posto e local de trabalho é dispensado o acordo do órgão ou serviço de origem.\n\n3 - Sem prejuízo do disposto no n.º 5 do artigo 22.º-A do Estatuto do Serviço Nacional de Saúde, nas situações de mobilidade a tempo parcial é aplicável o disposto no n.º 1.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+  },
+  "105826003": {
+   "fragment_id": "105821486",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposição transitória\n\nO despacho a que se refere o artigo anterior é, em 2015, publicado no prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei."
+  },
+  "105826004": {
+   "fragment_id": "105821487",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "105826005": {
+   "fragment_id": "105821488",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 28 de maio de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 29 de maio de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "153013511": {
+   "fragment_id": "105821484",
+   "type": 11,
+   "heading": "Artigo 4.º — Incentivo para colocação em zona carenciada",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 430.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+   ],
+   "markdown": "###### Artigo 4.º — Incentivo para colocação em zona carenciada\n\n1 - O incentivo para colocação é pago 12 meses por ano e visa compensar o trabalhador médico pelas condições mais exigentes de prestação em zona carenciada.\n\n2 - O valor do incentivo para colocação é devido durante e enquanto o trabalhador médico permanecer no posto de trabalho situado em zona carenciada, sendo fixado em 40 % da remuneração base correspondente à primeira posição remuneratória da categoria de assistente, da carreira especial médica ou da carreira médica.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - O direito ao incentivo é atribuído pelo período de seis anos, após a colocação no posto de trabalho e cessa decorrido este prazo.\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n> Alterado pelo/a Artigo 430.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28"
+  }
+ }
+}

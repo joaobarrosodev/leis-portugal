@@ -1,0 +1,235 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224139028:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-224163629",
+ "dre_path": "/dr/detalhe/portaria/346-a-2023-224139028",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224201695",
+    "224201696",
+    "224201697",
+    "224201698",
+    "224201699",
+    "224201700",
+    "224201701",
+    "224201702",
+    "224201703",
+    "224201704",
+    "224201705",
+    "224201706",
+    "224201707",
+    "224201708",
+    "224201709",
+    "224201710",
+    "224201711",
+    "224201712",
+    "224201713",
+    "224201714",
+    "224201715",
+    "224201716",
+    "224201717",
+    "224201718"
+   ]
+  }
+ ],
+ "fragments": {
+  "224201695": {
+   "fragment_id": "224163630",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 346-A/2023\n\nde 10 de novembro\n\nSumário: Procede à segunda alteração da Portaria n.º 277-A/2010, de 21 de maio, que regulamenta o Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual, que cria o programa de apoio financeiro Porta 65.\n\nO Programa Porta 65 - Arrendamento por Jovens tem por objeto o apoio aos jovens no acesso ao arrendamento, aliando objetivos de promoção da emancipação dos jovens e de promoção do arrendamento urbano.\n\nAs alterações introduzidas ao Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual, pelo Decreto-Lei n.º 90-C/2022, de 30 de dezembro, tiveram como principais objetivos aumentar o leque de jovens que podem aceder a este Programa, em particular, através da atualização dos tetos máximos de renda e, ainda, da sua simplificação e desburocratização.\n\nA presente portaria, em linha com as referidas alterações, vem, desde logo, prever um aumento do valor da renda máxima admitida por tipologia, através da aplicação dos limites gerais do preço de renda por tipologia previstos na alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, permitindo uma maior adequação à oferta de alojamentos atualmente existente no mercado de arrendamento.\n\nPor outro lado, procede à regulamentação dos elementos de informação necessários ao registo de candidaturas, prevendo a possibilidade de o candidato ficar dispensado de os facultar sempre que os mesmos possam ser obtidos com recurso aos mecanismos de interoperabilidade estabelecidos entre o Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), as entidades das finanças e da segurança social e as demais entidades públicas competentes na matéria.\n\nPor fim, as alterações introduzidas pelo Decreto-Lei n.º 38/2023, de 29 de maio, nomeadamente a alteração da forma de atribuição do «Porta 65 - Arrendamento por Jovens», passando as candidaturas a ser apresentadas em contínuo, bem como o alargamento do Programa, com a criação do Porta 65 +, aplicável independentemente da idade dos candidatos às situações de quebra de rendimentos superior a 20 % ou a famílias monoparentais, implicam as necessárias adaptações da presente portaria.\n\nAssim:\n\nManda o Governo, ao abrigo do disposto no n.º 1 do artigo 29.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual, pelo Secretário de Estado dos Assuntos Fiscais, no uso de competências delegadas pelo Despacho n.º 2868/2023, publicado no Diário da República, 2.ª série, n.º 44, de 2 de março de 2023, pelo Secretário de Estado da Juventude e do Desporto, no uso de competências delegadas pelo Despacho n.º 7663/2022, publicado no Diário da República, 2.ª série, n.º 118, de 21 de junho de 2022, pelo Secretário de Estado da Segurança Social, no uso de competências delegadas pelo Despacho n.º 7910/2022, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, e pela Secretária de Estado da Habitação, no uso de competências delegadas pelo Despacho n.º 7880/2023, publicado no Diário da República, 2.ª série, n.º 148, de 1 de agosto de 2023, o seguinte:"
+  },
+  "224201696": {
+   "fragment_id": "224163631",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à segunda alteração da Portaria n.º 277-A/2010, de 21 de maio, que regulamenta as disposições do Decreto-Lei n.º 308/2007, de 3 de setembro, alterado pelos Decretos-Leis n.os 61-A/2008, de 28 de março, e 43/2010, de 30 de abril, pelas Leis n.os 87/2017, de 18 de agosto, e 114/2017, de 29 de dezembro, e pelos Decretos-Leis n.os 90-C/2022, de 30 de dezembro, e 38/2023, de 29 de maio, que cria o programa de apoio financeiro Porta 65."
+  },
+  "224201697": {
+   "fragment_id": "224163632",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração da Portaria n.º 277-A/2010, de 21 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração da Portaria n.º 277-A/2010, de 21 de maio\n\nOs artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 17.º e 18.º da Portaria n.º 277-A/2010, de 21 de maio, bem como os quadros iii e v, anexos a esta, e que dela fazem parte integrante, passam a ter a seguinte redação:\n«Artigo 1.º\n[...]\nA presente portaria regulamenta o Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual, que cria o programa de apoio financeiro Porta 65.\nArtigo 2.º\n[...]\n1 - O apoio financeiro previsto no Programa Porta 65 é concedido sob a forma de subvenção mensal, não reembolsável.\n2 - No caso do Porta 65 - Jovem, a subvenção mensal é calculada mediante a aplicação das percentagens estabelecidas no quadro i, anexo à presente portaria e que desta faz parte integrante, ao valor da renda paga pelos beneficiários, de acordo com a pontuação atribuída à candidatura nos termos do quadro v, anexo à presente portaria e que desta faz parte integrante.\n3 - No caso do Porta 65 +, o montante da subvenção mensal é calculado de acordo com o n.º 3 do artigo 16.º-E do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual.\n4 - A subvenção é paga por 12 vezes, até ao dia 8 de cada mês, sem prejuízo do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual.\nArtigo 3.º\n[...]\n1 - Para efeito da concessão de apoio financeiro, o valor da renda máxima admitida (RMA) por tipologia é o previsto na alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, ou, sempre que mais favorável ao candidato, o constante do quadro ii anexo à presente portaria e que desta faz parte integrante.\n2 - O valor da RMA constante do quadro ii anexo à presente portaria e que desta faz parte integrante é atualizado anualmente, de acordo com o coeficiente fixado para a atualização das rendas habitacionais, arredondado à unidade de euro imediatamente superior.\nArtigo 4.º\n[...]\nPara efeito do acesso ao Programa é considerada adequada à dimensão do agregado a habitação cuja tipologia respeite os limites estabelecidos no quadro iii, anexo à presente portaria e que desta faz parte integrante, sem prejuízo do disposto nos n.os 4 e 5 do artigo 7.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual.\nArtigo 6.º \nCandidaturas \n1 - As candidaturas ao programa Porta 65 são aprovadas pelo Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), de acordo com o estabelecido nos números seguintes. \n2 - As candidaturas são apreciadas com base nas informações prestadas pelos candidatos na plataforma eletrónica e obtidas pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes nesta matéria. \n3 - As candidaturas formalizadas e devidamente instruídas são aprovadas pelo IHRU, I. P., de acordo com a ordem de entrada, até ao limite da dotação orçamental fixada anualmente.\n4 - Os agregados não podem candidatar-se, em simultâneo, ao Porta 65 - Jovem e ao Porta 65 +, nem acumular os respetivos apoios financeiros.\n5 - Os elementos do agregado autorizam o IHRU, I. P., a consultar a sua situação tributária e contributiva junto da Autoridade Tributária e Aduaneira e da segurança social, nos termos do artigo 31.º-A do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, sob pena de rejeição liminar da mesma.\n6 - Os elementos do agregado autorizam a visualização dos seus dados constantes da candidatura por todos os outros membros que o compõe, sob pena de rejeição liminar da mesma.\nArtigo 7.º \nInstrução das candidaturas no Porta 65 - Jovem \n1 - Para efeitos da apresentação das candidaturas no âmbito do Programa Porta 65 - Jovem na plataforma eletrónica, são necessários os seguintes elementos: \na) Comprovativo do registo do contrato de arrendamento no portal das finanças ou contrato-promessa de arrendamento, este último elaborado de acordo com o modelo constante do quadro vi, anexo à presente portaria e que desta faz parte integrante; \nb) (Revogada.)\nc) Identificação completa de cada um dos membros do agregado, nomeadamente o nome completo, a data de nascimento, o número e validade do bilhete de identidade, do cartão de cidadão ou da autorização de residência ou de permanência, o NIF, o NISS, o número da certidão de registo de nascimento no caso de menores de 6 anos à data da apresentação da candidatura;\nd) [...]\ne) [...]\nf) Declaração de início de atividade ou contrato de trabalho, nos casos previstos no n.º 5 do artigo 5.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual;\ng) Opcionalmente, comprovativo da existência de elementos do agregado jovem com deficiência e do respetivo grau de incapacidade;\nh) Opcionalmente, comprovativo de localização do locado numa das áreas previstas no n.º 5 do artigo 7.º e nas alíneas a) e b) do n.º 1 do artigo 13.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual;\ni) [...]\nj) Opcionalmente, planta da habitação e/ou certificado energético, nos casos previstos no artigo 5.º;\nk) (Revogada.)\n2 - Os elementos de informação previstos no número anterior são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n3 - O candidato fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n4 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n5 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\n6 - Os limites de idade previstos no Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual, reportam-se ao primeiro dia do mês da submissão da candidatura.\nArtigo 8.º\n[...]\n1 - Nas candidaturas ao Porta 65 - Jovem ou ao Porta 65 +, no caso dos agregados monoparentais, em que o candidato opte por apresentar os rendimentos dos últimos seis meses, a declaração do IRS é substituída por:\na) Comprovativos de todos os rendimentos auferidos nesse período emitidos pela entidade pagadora, nacional ou estrangeira, ou por outros documentos que evidenciem o respetivo recebimento, nomeadamente obtidos dos Portais da Autoridade Tributária e Aduaneira e da segurança social, que atestem os rendimentos de pensões, os rendimentos prediais, o valor mensal de prestações sociais recebidas de forma regular, o valor mensal de apoios à habitação recebidos de forma regular e os valores de outros rendimentos recebidos de forma regular ou periódica; ou\nb) Recibos ou, nos casos em que não seja obrigatória a sua emissão, faturas emitidas nos termos legais, que atestem os rendimentos empresariais ou profissionais da categoria B do CIRS.\n2 - Para efeitos do disposto no número anterior, considera-se, no caso de rendimentos de trabalho dependente, o total das remunerações registadas no sistema da segurança social referentes ao período em causa, aplicando-se os duodécimos do subsídio de férias e de Natal nas devidas proporções.\n3 - Os elementos de informação previstos nos números anteriores são obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n4 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n5 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\nArtigo 9.º\nCandidaturas subsequentes ao Porta 65 - Jovem\n1 - Nas candidaturas subsequentes ao Porta 65 - Jovem, os candidatos devem apresentar a candidatura atualizada com os seguintes elementos de informação:\na) Comprovativo do registo do contrato de arrendamento na Autoridade Tributária e Aduaneira ou cópia do contrato-promessa nos casos de mudança de habitação;\nb) [...]\nc) [...]\n2 - Os elementos de informação previstos no número anterior são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n3 - O candidato fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n4 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n5 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\nArtigo 10.º\n[...]\nÀs candidaturas apresentadas com base em contratos-promessa de arrendamento é aplicável o disposto no n.º 7 do artigo 7.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual.\nArtigo 11.º\n[...]\nA autenticação na plataforma é efetuada com recurso a método de autenticação seguro, mediante uso da Chave Móvel Digital, cartão do cidadão ou credenciais da Autoridade Tributária e Aduaneira, obrigatório para todos os candidatos, ascendentes e dependentes, quando aplicável.\nArtigo 12.º \nPlataforma eletrónica\n1 - Devem constar da candidatura apresentada na plataforma eletrónica referida no n.º 1 do artigo 7.º e no n.º 1 do artigo 7.º-A todos os elementos necessários à verificação dos requisitos de acesso ao programa, bem como outros elementos necessários à sua gestão. \n2 - Na fase de apreciação das candidaturas, o IHRU, I. P., pode solicitar aos candidatos os esclarecimentos que considere necessários, devendo estes responder no prazo de cinco dias úteis a contar da data de envio do pedido através da plataforma eletrónica. \n3 - Não são elegíveis as candidaturas que não estejam devidamente instruídas, sendo ainda objeto de rejeição aquelas que nos termos do número anterior não respondam adequada e atempadamente aos pedidos de esclarecimento. \nArtigo 14.º\nAprovação de candidaturas\n1 - As candidaturas ao Programa Porta 65 são aprovadas pelo IHRU, I. P., no prazo máximo de 45 dias úteis a contar da entrada do pedido devidamente instruído.\n2 - As candidaturas que não sejam aprovadas por falta de dotação orçamental podem transitar para o ano subsequente desde que o candidato o autorize.\n3 - (Revogado.)\nArtigo 15.º\n[...]\nO pagamento da subvenção é efetuado mediante transferência para o IBAN indicado pelo agregado na candidatura.\nArtigo 17.º\n[...]\nPara efeito de apresentação das candidaturas ao abrigo do Programa Porta 65, os agregados podem utilizar os meios técnicos e recorrer ao apoio existente nas lojas Ponto JA e no Portal da Juventude do Instituto Português da Juventude ou noutros organismos que para o efeito celebrem protocolos de colaboração com o IHRU, I. P., e com aquela entidade.\nArtigo 18.º\n[...]\nCabe ao IHRU, I. P., definir e elaborar os modelos e procedimentos necessários ao funcionamento da plataforma eletrónica, nos termos e para os efeitos previstos no Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual, e na presente portaria.\nQUADRO III\nDimensão do agregado e tipologia da habitação\n\n| Número de pessoas | Tipologia<br>da habitação |\n| --- | --- |\n|  |  |\n| 1 a 2... | Até T2 |\n| 3... | Até T3 |\n| 4... | Até T4 |\n| 5... | Até T5 |\n| (igual ou maior que) 6... | Até T6 |\n\nQUADRO V\nMapa de pontuação\n\n| Critérios de pontuação | Pontos |\n| --- | --- |\n|  |  |\n| A - Dimensão e composição do agregado:<br>A = 1 + 0,7 x (número de candidatos - 1) + 0,25 x (número de dependentes) + 0,25 x (número de portadores de deficiência (igual ou maior que) 60 %) + 0,25 x (número de dependentes em situação de monoparentalidade): |  |\n| A (igual ou maior que) 3... | 90 |\n| A (menor que) 3 = A x 30... | (igual ou maior que) 30 e (menor que) 90 |\n| B - Proporcionalidade da taxa de esforço (1): |  |\n| Taxa de esforço real/taxa de esforço máxima (TER/TEM) (TER/TEM) x 90... | (igual ou menor que) 90 |\n| C - Rendimento mensal (2): |  |\n| (menor que) 2,5 RMA... | 30 |\n| (igual ou maior que) 2,5 RMA e (menor que) 3,5 RMA... | 20 |\n| (igual ou maior que) 3,5 RMA e (igual ou menor que) 4 RMA... | 10 |\n| D - Proporcionalidade da renda (3): Valor real da renda mensal/renda máxima admitida (VRRM/RMA): |  |\n| (igual ou menor que) 50 %... | 30 |\n| (maior que) 50 % = [1 - (VRRM / RMA)] x 30 x 2... | (menor que) 30 |\n| E - Situação financeira dos ascendentes: |  |\n| Ascendentes com RSI... | 50 |\n| Ascendentes com rendimentos até 3 RMMG... | 20 |\n\n(1) Relação entre a taxa de esforço do agregado jovem, calculada de acordo com a alínea c) do artigo 3.º, e a taxa de esforço máxima, definida na alínea e) do n.º 1 do artigo 7.º, ambos do Decreto-Lei n.º 308/2007, de 3 de setembro.\n(2) Rendimento mensal calculado de acordo com o artigo 5.º do Decreto-Lei n.º 308/2007, de 3 de setembro.\n(3) Relação entre a renda efetivamente paga mencionada na candidatura e a renda máxima admitida para a área de residência de acordo com o previsto na alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, ou, sempre que mais favorável ao candidato, os limites de renda fixados no quadro ii.\nRMA - renda máxima admitida.\nRSI - rendimento social de inserção.\nRMMG - retribuição mínima mensal garantida.»"
+  },
+  "224201698": {
+   "fragment_id": "224163633",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à Portaria n.º 277-A/2010, de 21 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento à Portaria n.º 277-A/2010, de 21 de maio\n\nSão aditados à Portaria n.º 277-A/2010, de 21 de maio, os artigos 7.º-A e 9.º-A, com a seguinte redação:\n\n«Artigo 7.º-A\n\nInstrução das candidaturas do Porta 65 +\n\n1 - Para efeitos da apresentação das candidaturas no âmbito do Programa Porta 65 + na plataforma eletrónica, são necessários os seguintes elementos:\n\na) Comprovativo do registo do contrato de arrendamento no Portal das Finanças;\n\nb) Identificação completa de cada um dos membros do agregado, nomeadamente o nome completo, a data de nascimento, o número e validade do bilhete de identidade, do cartão de cidadão ou da autorização de residência ou de permanência, o NIF e o NISS.\n\n2 - Para efeitos da apresentação das candidaturas no âmbito do Programa Porta 65, no caso dos agregados monoparentais, aplica-se o disposto nas alíneas d) e e) do n.º 1 do artigo 7.º, bem como o disposto no artigo 8.º\n\n3 - No caso dos agregados monoparentais, é ainda necessária a indicação de que são beneficiários do abono de família para crianças e jovens com majoração de monoparentalidade, nos termos conjugados do artigo 8.º-A com o n.º 4 do artigo 14.º, ambos do Decreto-Lei n.º 176/2003, na sua redação atual, ou, nos demais casos, documento comprovativo que ateste a situação de monoparentalidade.\n\n4 - No caso dos agregados com quebra de rendimentos superior a 20 % face aos rendimentos dos três meses precedentes ou do mesmo período homólogo do ano anterior, são ainda necessários os seguintes elementos de informação:\n\na) Recibos de vencimento ou declaração da entidade patronal que atestem os rendimentos de trabalho dependente;\n\nb) Recibos ou, nos casos em que não seja obrigatória a sua emissão, faturas emitidas nos termos legais, que atestem os rendimentos empresariais ou profissionais da categoria B do CIRS;\n\nc) Documentos emitidos pelas entidades pagadoras ou por outros documentos que evidenciem o respetivo recebimento, nomeadamente obtidos dos Portais da Autoridade Tributária e Aduaneira e da segurança social, que atestem os rendimentos de pensões, os rendimentos prediais, o valor mensal de prestações sociais recebidas de forma regular, o valor mensal de apoios à habitação recebidos de forma regular e os valores de outros rendimentos recebidos de forma regular ou periódica;\n\nd) Data da quebra de rendimentos, que corresponde ao mês em que é submetida a candidatura ou ao mês anterior a esta;\n\ne) Data em que se verificou a alteração da composição do agregado que motivou a quebra de rendimentos, e documento comprovativo da composição do agregado imediatamente anterior àquela data, prevista na alínea anterior, emitido pelas entidades competentes, nos casos aplicáveis.\n\n5 - Para efeitos do disposto no número anterior, considera-se:\n\na) No caso de rendimentos de trabalho dependente, o respetivo valor mensal bruto;\n\nb) No caso dos rendimentos empresariais ou profissionais da categoria B do CIRS, o valor antes do IVA;\n\nc) No caso de rendimento de pensões, o respetivo valor mensal bruto;\n\nd) No caso de rendimentos prediais, o valor das rendas recebidas;\n\ne) As bolsas e os prémios atribuídos no exercício de atividades científicas, culturais e desportivas;\n\nf) Quaisquer outras prestações compensatórias da perda ou inexistência de rendimentos, garantidas pelo sistema previdencial ou pelo subsistema de solidariedade da segurança social, ou garantidas por outros sistemas de proteção social obrigatória.\n\n6 - Para efeito de apuramento do rendimento mensal bruto referido nas alíneas a) dos n.os 4 e 5, é considerado o total das remunerações registadas no sistema da segurança social referentes ao período em causa, aplicando-se os duodécimos do subsídio de férias e de Natal nas devidas proporções.\n\n7 - Para efeitos de elegibilidade, a quebra de rendimentos é apurada tendo por referência o mês da apresentação da candidatura ou o mês anterior a esta face aos rendimentos dos três meses precedentes ou do mesmo período homólogo do ano anterior.\n\n8 - No caso da quebra de rendimentos motivada por alteração do agregado familiar, que resulte na diminuição dos seus elementos, devem ser entregues as respetivas declarações do IRS.\n\n9 - Os elementos de informação previstos nos números anteriores são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n10 - O candidato fica dispensado de facultar os elementos de informação previstos nos números anteriores sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n\n11 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n12 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\n\nArtigo 9.º-A\n\nCandidaturas subsequentes ao Porta 65 +\n\n1 - As candidaturas subsequentes ao Porta 65 + dependem do cumprimento dos requisitos previstos no n.º 1 do artigo 16.º-A e no artigo 16.º-D do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua atual redação, devendo a quebra de rendimentos superior a 20 % manter-se, nos casos aplicáveis.\n\n2 - As candidaturas subsequentes são atualizadas com os seguintes elementos de informação:\n\na) Comprovativo do registo do contrato de arrendamento na Autoridade Tributária e Aduaneira ou cópia do contrato-promessa nos casos de mudança de habitação;\n\nb) Composição do agregado, nos termos previstos na alínea b) do n.º 1 do artigo 7.º-A;\n\nc) Rendimentos dos membros do agregado, nos termos previstos nos n.os 2 a 8 do artigo 7.º-A.\n\n3 - Os elementos de informação previstos no número anterior são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n4 - O candidato fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n\n5 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n6 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.»"
+  },
+  "224201699": {
+   "fragment_id": "224163634",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposições transitórias\n\n1 - A apresentação das candidaturas, nos termos previstos na presente portaria, depende da operacionalização dos mecanismos de interoperabilidade estabelecidos entre o IHRU, I. P., as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria ou, não estando implementados até à data da sua entrada em vigor, através de interconexão de dados, nos termos a definir por protocolo a celebrar entre as referidas entidades.\n\n2 - O protocolo de interconexão de dados referido no número anterior determina a forma como é efetuado o pedido dos dados pelo IHRU, I. P., e sua periodicidade, bem como a forma de envio por parte da Autoridade Tributária e Aduaneira e da segurança social dos dados solicitados e o respetivo prazo máximo de resposta.\n\n3 - O disposto no n.º 1 não prejudica a submissão de candidaturas, em formulário a disponibilizar pelo IHRU, I. P., retroagindo os efeitos, em caso de elegibilidade, ao mês da sua submissão.\n\n4 - Nos casos em que, ao abrigo do número anterior, se verifique que existem candidaturas ao Porta 65 + com os mesmos membros do agregado, o IHRU, I. P., aprecia a que se encontre com maior número de dados, ficando as restantes liminarmente rejeitadas, considerando-se a data da primeira submissão.\n\n5 - Nos casos em que, ao abrigo do n.º 3, se verifique que um candidato é membro de vários agregados, em diferentes candidaturas, o IHRU, I. P., solicita ao(s) candidato(s) esclarecimentos, a prestar no prazo de cinco dias úteis, a contar da respetiva notificação.\n\n6 - As candidaturas ao Programa Porta 65 apresentadas até à data da entrada em vigor da presente portaria são aprovadas pelo IHRU, I. P., no prazo máximo de 60 dias úteis."
+  },
+  "224201700": {
+   "fragment_id": "224163635",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados as alíneas b) e k) do n.º 1 do artigo 7.º, o artigo 13.º, o n.º 3 do artigo 14.º e o artigo 19.º da Portaria n.º 277-A/2010, de 21 de maio, na sua redação atual."
+  },
+  "224201701": {
+   "fragment_id": "224163636",
+   "type": 11,
+   "heading": "Artigo 6.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Republicação\n\nÉ republicada, em anexo à presente portaria, da qual faz parte integrante, a Portaria n.º 277-A/2010, de 21 de maio, na redação introduzida pela presente portaria."
+  },
+  "224201702": {
+   "fragment_id": "224163637",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nA presente portaria produz efeitos desde 1 de junho de 2023."
+  },
+  "224201703": {
+   "fragment_id": "224163638",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "224201704": {
+   "fragment_id": "224163639",
+   "type": 11,
+   "heading": "Artigo 9.º — Candidaturas subsequentes ao Porta 65 - Jovem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Candidaturas subsequentes ao Porta 65 - Jovem\n\n1 - Nas candidaturas subsequentes ao Porta 65 - Jovem, os candidatos devem apresentar a candidatura atualizada com os seguintes elementos de informação:\n\na) Comprovativo do registo do contrato de arrendamento na Autoridade Tributária e Aduaneira ou cópia do contrato-promessa nos casos de mudança de habitação;\n\nb) Composição do agregado jovem, através dos documentos referidos nas alíneas c) e g) do n.º 1 do artigo 7.º;\n\nc) Rendimentos dos membros do agregado jovem, através dos documentos referidos nas alíneas d) e e) do n.º 1 do artigo 7.º\n\n2 - Os elementos de informação previstos no número anterior são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n3 - O candidato fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n\n4 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n5 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas."
+  },
+  "224201705": {
+   "fragment_id": "224163640",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Candidaturas subsequentes ao Porta 65 +",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-A — Candidaturas subsequentes ao Porta 65 +\n\n1 - As candidaturas subsequentes ao Porta 65 + dependem do cumprimento dos requisitos previstos no n.º 1 do artigo 16.º-A e no artigo 16.º-D do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua atual redação, devendo a quebra de rendimentos superior a 20 % manter-se, nos casos aplicáveis.\n\n2 - As candidaturas subsequentes são atualizadas com os seguintes elementos de informação:\n\na) Comprovativo do registo do contrato de arrendamento na Autoridade Tributária e Aduaneira ou cópia do contrato-promessa nos casos de mudança de habitação;\n\nb) Composição do agregado, nos termos previstos na alínea b) do n.º 1 do artigo 7.º-A;\n\nc) Rendimentos dos membros do agregado, nos termos previstos nos n.os 2 a 8 do artigo 7.º-A.\n\n3 - Os elementos de informação previstos no número anterior são facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n4 - O candidato fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.\n\n5 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.\n\n6 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas."
+  },
+  "224201706": {
+   "fragment_id": "224163641",
+   "type": 11,
+   "heading": "Artigo 10.º — Contrato-promessa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contrato-promessa\n\nÀs candidaturas apresentadas com base em contratos-promessa de arrendamento é aplicável o disposto no n.º 7 do artigo 7.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual."
+  },
+  "224201707": {
+   "fragment_id": "224163642",
+   "type": 11,
+   "heading": "Artigo 11.º — Autenticação na plataforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autenticação na plataforma\n\nA autenticação na plataforma é efetuada com recurso a método de autenticação seguro, mediante uso da Chave Móvel Digital, Cartão do Cidadão ou credenciais da Autoridade Tributária e Aduaneira, obrigatório para todos os candidatos, ascendentes e dependentes, quando aplicável."
+  },
+  "224201708": {
+   "fragment_id": "224163643",
+   "type": 11,
+   "heading": "Artigo 12.º — Plataforma eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Plataforma eletrónica\n\n1 - Devem constar da candidatura apresentada na plataforma eletrónica referida no n.º 1 do artigo 7.º e no n.º 1 do artigo 7.º-A todos os elementos necessários à verificação dos requisitos de acesso ao programa, bem como outros elementos necessários à sua gestão.\n\n2 - Na fase de apreciação das candidaturas, o IHRU, I. P., pode solicitar aos candidatos os esclarecimentos que considere necessários, devendo estes responder no prazo de cinco dias úteis a contar da data de envio do pedido através da plataforma eletrónica.\n\n3 - Não são elegíveis as candidaturas que não estejam devidamente instruídas, sendo ainda objeto de rejeição aquelas que nos termos do número anterior não respondam adequada e atempadamente aos pedidos de esclarecimento."
+  },
+  "224201709": {
+   "fragment_id": "224163644",
+   "type": 11,
+   "heading": "Artigo 13.º — Períodos de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Períodos de candidatura\n\n(Revogado.)"
+  },
+  "224201710": {
+   "fragment_id": "224163645",
+   "type": 11,
+   "heading": "Artigo 14.º — Aprovação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aprovação de candidaturas\n\n1 - As candidaturas ao Programa Porta 65 são aprovadas pelo IHRU, I. P., no prazo máximo de 45 dias úteis a contar da entrada do pedido devidamente instruído.\n\n2 - As candidaturas que não sejam aprovadas por falta de dotação orçamental podem transitar para o ano subsequente desde que o candidato o autorize.\n\n3 - (Revogado.)"
+  },
+  "224201711": {
+   "fragment_id": "224163646",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento da subvenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento da subvenção\n\nO pagamento da subvenção é efetuado mediante transferência para o IBAN indicado pelo agregado na candidatura."
+  },
+  "224201712": {
+   "fragment_id": "224163647",
+   "type": 11,
+   "heading": "Artigo 16.º — Conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conservação dos dados\n\nOs documentos digitalizados na plataforma devem ser conservados pelos respetivos titulares durante cinco anos após o pagamento da última subvenção."
+  },
+  "224201713": {
+   "fragment_id": "224163648",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apoio técnico\n\nPara efeito de apresentação das candidaturas ao abrigo do Programa Porta 65, os agregados podem utilizar os meios técnicos e recorrer ao apoio existente nas lojas Ponto JA e no Portal da Juventude do Instituto Português da Juventude ou noutros organismos que para o efeito celebrem protocolos de colaboração com o IHRU, I. P., e com aquela entidade."
+  },
+  "224201714": {
+   "fragment_id": "224163649",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Procedimentos\n\nCabe ao IHRU, I. P., definir e elaborar os modelos e procedimentos necessários ao funcionamento da plataforma eletrónica, nos termos e para os efeitos previstos no Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual, e na presente portaria."
+  },
+  "224201715": {
+   "fragment_id": "224163650",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposição transitória\n\n(Revogado.)"
+  },
+  "224201716": {
+   "fragment_id": "224163651",
+   "type": 11,
+   "heading": "Artigo 20.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revogação\n\nÉ revogada a Portaria n.º 1515-A/2007, de 30 de novembro, alterada pela Portaria n.º 249-A/2008, de 28 de março."
+  },
+  "224201717": {
+   "fragment_id": "224163652",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "224201718": {
+   "fragment_id": "224163653",
+   "type": 14,
+   "heading": "Anexo — QUADROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — QUADROS\n\n| Escalão | Número de pontos | Valor do apoio à renda (percentagem) |  |  |\n| --- | --- | --- | --- | --- |\n| (igual ou menor que) 12 prestações | (maior que) 12 e (igual ou menor que) 24 prestações | (maior que) 24 e (igual ou menor que) 36 prestações |  |  |\n|  |  |  |  |  |\n| 1.º... | (igual ou maior que) 120 e (igual ou menor que) 290 | 50 | 35 | 25 |\n| 2.º... | (igual ou maior que) 90 e (igual ou menor que) 120 | 40 | 30 | 20 |\n| 3.º... | (menor que) 90 | 30 | 2 | 10 |\n\nQUADRO II\nRenda máxima admitida por NUTS III\n\n|  |  |  | (em euros) |\n| --- | --- | --- | --- |\n| NUTS III | T0 a T1 | T2 a T3 | T4 a T5 |\n|  |  |  |  |\n| Minho-Lima... | 309 | 432 | 545 |\n| Cávado... | 309 | 432 | 545 |\n| Ave... | 268 | 381 | 484 |\n| Grande Porto... | 412 | 514 | 669 |\n| Tâmega... | 268 | 381 | 484 |\n| Entre Douro e Vouga... | 309 | 432 | 545 |\n| Douro... | 268 | 381 | 484 |\n| Alto Trás-os-Montes... | 268 | 381 | 484 |\n| Baixo Vouga... | 340 | 463 | 597 |\n| Baixo Mondego... | 412 | 514 | 669 |\n| Pinhal Litoral... | 340 | 432 | 545 |\n| Pinhal Interior Norte... | 268 | 381 | 484 |\n| Dão-Lafões... | 309 | 432 | 545 |\n| Pinhal Interior Sul... | 268 | 381 | 484 |\n| Serra da Estrela... | 268 | 381 | 484 |\n| Beira Interior Norte... | 268 | 381 | 484 |\n| Beira Interior Sul... | 268 | 381 | 484 |\n| Cova da Beira... | 268 | 381 | 484 |\n| Oeste... | 340 | 463 | 597 |\n| Médio Tejo... | 309 | 432 | 545 |\n| Lezíria do Tejo... | 340 | 463 | 597 |\n| Grande Lisboa... | 514 | 669 | 771 |\n| Península de Setúbal... | 412 | 514 | 669 |\n| Alentejo Litoral... | 340 | 463 | 597 |\n| Alto Alentejo... | 268 | 381 | 484 |\n| Alentejo Central... | 340 | 463 | 597 |\n| Baixo Alentejo... | 309 | 432 | 545 |\n| Algarve... | 412 | 514 | 669 |\n| Região Autónoma dos Açores... | 340 | 463 | 597 |\n| Região Autónoma da Madeira... | 412 | 514 | 669 |\n\nQUADRO III\nDimensão do agregado e tipologia da habitação\n\n| Número de pessoas | Tipologia<br>da habitação |\n| --- | --- |\n|  |  |\n| 1 a 2... | Até T2 |\n| 3... | Até T3 |\n| 4... | Até T4 |\n| 5... | Até T5 |\n| (igual ou maior que) 6... | Até T6 |\n\nQUADRO IV\nQuadro de áreas de tipologias habitacionais\n(de acordo com a Portaria n.º 500/97, de 21 de julho)\n\n| Tipologias | T0 | T1 | T2 | T3 | T4 | T5 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n| Área máxima (área bruta em metros quadrados)... | 50 | 65 | 85 | 105 | 114 | 130 |\n\nQUADRO V\nMapa de pontuação\n\n| Critérios de pontuação | Pontos |\n| --- | --- |\n|  |  |\n| A - Dimensão e composição do agregado:<br>A = 1 + 0,7 x (número de candidatos - 1) + 0,25 x (número de dependentes) + 0,25 x (número de portadores de deficiência (igual ou maior que) 60 %) + 0,25 x (número de dependentes em situação de monoparentalidade): |  |\n| A (igual ou maior que) 3... | 90 |\n| A (menor que) 3 = A x 30... | (igual ou maior que) 30 e (menor que) 90 |\n| B - Proporcionalidade da taxa de esforço (1): |  |\n| Taxa de esforço real/taxa de esforço máxima (TER/TEM) (TER/TEM) x 90... | (igual ou menor que) 90 |\n| C - Rendimento mensal (2): |  |\n| (menor que) 2,5 RMA... | 30 |\n| (igual ou maior que) 2,5 RMA e (menor que) 3,5 RMA... | 20 |\n| (igual ou maior que) 3,5 RMA e (igual ou menor que) 4 RMA... | 10 |\n| D - Proporcionalidade da renda (3): Valor real da renda mensal/renda máxima admitida (VRRM/RMA): |  |\n| (igual ou menor que) 50 %... | 30 |\n| (maior que) 50 % = [1 - (VRRM / RMA)] x 30 x 2... | (menor que) 30 |\n| E - Situação financeira dos ascendentes: |  |\n| Ascendentes com RSI... | 50 |\n| Ascendentes com rendimentos até 3 RMMG... | 20 |\n\n(1) Relação entre a taxa de esforço do agregado jovem, calculada de acordo com a alínea c) do artigo 3.º, e a taxa de esforço máxima, definida na alínea e) do n.º 1 do artigo 7.º, ambos do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual.\n(2) Rendimento mensal calculado de acordo com o artigo 5.º do Decreto-Lei n.º 308/2007, de 3 de setembro, na sua redação atual.\n(3) Relação entre a renda efetivamente paga mencionada na candidatura e a renda máxima admitida para a área de residência de acordo com o previsto na alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, ou, sempre que mais favorável ao candidato, os limites de renda fixados no quadro ii.\nRMA - renda máxima admitida.\nRSI - rendimento social de inserção.\nRMMG - retribuição mínima mensal garantida.\nQUADRO VI\nElementos essenciais do contrato-promessa de arrendamento\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224139028/224139778.png) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224139028/224139779.png) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224139028/224139780.png) |\n| --- |\n\n117043131"
+  }
+ }
+}

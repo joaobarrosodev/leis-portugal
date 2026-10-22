@@ -1,0 +1,568 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67552512:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-123728936",
+ "dre_path": "/dr/detalhe/portaria/181-d-2015-67552512",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123763097",
+    "123763098",
+    "123763099",
+    "123763100",
+    "123763101",
+    "123763102",
+    "123763104",
+    "123763105",
+    "123763106",
+    "123763107",
+    "123763108",
+    "123763109",
+    "123763110",
+    "123763111",
+    "123763112",
+    "123763113",
+    "123763114",
+    "123763115",
+    "123763116",
+    "123763117",
+    "123763118",
+    "123763119",
+    "123763120",
+    "123763121",
+    "123763122",
+    "123763123",
+    "123763124",
+    "123763125",
+    "123763126",
+    "123763127",
+    "123763128",
+    "123763129",
+    "123763130",
+    "123763131",
+    "123763132",
+    "123763133",
+    "123763134",
+    "123763135"
+   ]
+  },
+  {
+   "date": "2016-12-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105322292:por",
+     "title": "Portaria n.º 305/2016",
+     "published": "2016-12-06",
+     "dre_path": "/dr/detalhe/portaria/305-2016-105322292"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "123763097",
+    "123763098",
+    "123763099",
+    "123763100",
+    "123763101",
+    "123763102",
+    "123763103",
+    "123763104",
+    "123763105",
+    "123763106",
+    "123763107",
+    "123763108",
+    "123763109",
+    "123763110",
+    "123763111",
+    "123763112",
+    "123763113",
+    "123763114",
+    "123763115",
+    "123763116",
+    "123763117",
+    "123763118",
+    "123763119",
+    "123763120",
+    "123763121",
+    "123763122",
+    "123763123",
+    "123763124",
+    "123763125",
+    "123763126",
+    "123763127",
+    "123763128",
+    "123763129",
+    "123763130",
+    "123763131",
+    "123763132",
+    "123763136",
+    "123763134",
+    "123763135"
+   ]
+  },
+  {
+   "date": "2019-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123666172:por",
+     "title": "Portaria n.º 249-A/2019",
+     "published": "2019-08-05",
+     "dre_path": "/dr/detalhe/portaria/249-a-2019-123666172"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "123763097",
+    "123763098",
+    "123763099",
+    "123763100",
+    "123763101",
+    "123763102",
+    "123763103",
+    "123763104",
+    "123763105",
+    "123763106",
+    "123763107",
+    "123763108",
+    "123763109",
+    "123763110",
+    "123763111",
+    "123763112",
+    "123763113",
+    "123763114",
+    "123763115",
+    "123763116",
+    "123763117",
+    "123763118",
+    "123763119",
+    "123763120",
+    "123763121",
+    "123763122",
+    "123763123",
+    "123763124",
+    "123763125",
+    "123763126",
+    "123763127",
+    "123763128",
+    "123763129",
+    "123763130",
+    "123763131",
+    "123763132",
+    "123763137",
+    "123763134",
+    "123763135"
+   ]
+  },
+  {
+   "date": "2020-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:136237681:por",
+     "title": "Portaria n.º 150/2020",
+     "published": "2020-06-22",
+     "dre_path": "/dr/detalhe/portaria/150-2020-136237681"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "123763097",
+    "123763098",
+    "123763099",
+    "123763100",
+    "123763101",
+    "123763102",
+    "123763103",
+    "123763104",
+    "123763105",
+    "123763106",
+    "123763107",
+    "123763108",
+    "123763109",
+    "123763110",
+    "123763111",
+    "123763112",
+    "123763113",
+    "123763114",
+    "123763115",
+    "123763116",
+    "123763117",
+    "123763118",
+    "136236136",
+    "123763120",
+    "123763121",
+    "123763122",
+    "123763123",
+    "123763124",
+    "123763125",
+    "123763126",
+    "123763127",
+    "123763128",
+    "123763129",
+    "123763130",
+    "123763131",
+    "123763132",
+    "123763137",
+    "123763134",
+    "123763135"
+   ]
+  }
+ ],
+ "fragments": {
+  "123763097": {
+   "fragment_id": "123728937",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 181-D/2015\n\nde 19 de junho\n\nAs regras gerais relativas aos regimes de reingresso, mudança de curso e transferência encontram-se hoje fixadas pelo Regulamento dos Regimes de Mudança de Curso, Transferência e Reingresso no Ensino Superior, aprovado pela Portaria n.º 401/2007, de 5 de abril, alterada pela Portaria n.º 232-A/2013, de 22 de julho, e pelo Decreto-Lei n.º 113/2014, de 16 de julho.\n\nAlgumas alterações introduzidas recentemente no âmbito do sistema de ensino superior justificam uma revisão dessas regras.\n\nEntre essas alterações destacam-se:\n\na) A introdução de um novo ciclo de estudos no sistema de ensino superior, através da criação, pelo Decreto-Lei n.º 43/2014, de 18 de março, dos cursos técnicos superiores profissionais correspondentes ao ciclo curto ligado a um 1.º ciclo do Processo de Bolonha;\n\nb) As alterações ao sistema de creditação de formações introduzida pelo Decreto-Lei n.º 115/2013, de 7 de agosto, que modificou o regime fixado pelo Decreto-Lei n.º 74/2006, de 24 de março, alterado pelos Decretos-Leis n.os 107/2008, de 25 de junho, e 230/2009, de 14 de setembro, retificado pela Declaração de Retificação n.º 81/2009, de 27 de outubro;\n\nc) As disposições constantes do artigo 25.º do Decreto-Lei n.º 113/2014, de 16 de julho, acerca da articulação do processo de fixação das vagas.\n\nPor outro lado, a experiência de oito anos de aplicação do regulamento em vigor recomendava que fossem introduzidos alguns aperfeiçoamentos, designadamente:\n\na) Não permitindo a utilização destes regimes de mobilidade por estudantes acabados de ingressar no ensino superior através de um dos concursos do regime geral de acesso ou dos concursos especiais;\n\nb) Estabelecendo princípios claros em matéria de condições habilitacionais para a realização das mudanças;\n\nc) Mantendo as normas referentes à obrigatoriedade de creditação total das formações superiores anteriores apenas no caso do reingresso e introduzindo alguma flexibilidade no procedimento.\n\nFinalmente, no contexto atual de autonomia das instituições de ensino superior para fixar os planos de estudos dos seus cursos, o conceito de transferência vem perdendo razão de ser, pelo que se optou pela substituição dos regimes de transferência e de mudança de curso por um único regime denominado «mudança de par instituição/curso».\n\nForam ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, a Associação Portuguesa do Ensino Superior Privado e as Associações de Estudantes.\n\nAssim:\n\nAo abrigo do artigo 1.º do Decreto-Lei n.º 196/2006, de 10 de outubro:\n\nNo uso das competências delegadas pelo Ministro da Educação e Ciência através do Despacho n.º 10 368/2013 (2.ª série), de 8 de agosto;\n\nManda o Governo, pelo Secretário de Estado do Ensino Superior, o seguinte:"
+  },
+  "123763098": {
+   "fragment_id": "123728938",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\n1 - É aprovado o Regulamento dos Regimes de Reingresso e de Mudança de Par Instituição/Curso no Ensino Superior cujo texto se publica em anexo à presente portaria.\n\n2 - O texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria."
+  },
+  "123763099": {
+   "fragment_id": "123728939",
+   "type": 11,
+   "heading": "Artigo 2.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação\n\nSem prejuízo do disposto no artigo seguinte, o Regulamento Geral dos Regimes de Reingresso e de Mudança de Par Instituição/Curso no Ensino Superior aplica-se às candidaturas destinadas à matrícula e ou inscrição no ano letivo de 2016-2017, inclusive."
+  },
+  "123763100": {
+   "fragment_id": "123728940",
+   "type": 11,
+   "heading": "Artigo 3.º — Ano letivo de 2015-2016",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ano letivo de 2015-2016\n\nÀs candidaturas destinadas à matrícula e inscrição no ano letivo de 2015-2016 através dos regimes de mudança de curso e de transferência aplicam-se as normas do Regulamento Geral dos Regimes de Reingresso e de Mudança de Par Instituição/Curso no Ensino Superior referentes à mudança de par instituição/curso constantes dos artigos 9.º a 13.º, 19.º e do n.º 2 do artigo 20.º"
+  },
+  "123763101": {
+   "fragment_id": "123728941",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição revogatória\n\nÉ revogada, com efeitos a partir do fim da candidatura à matrícula e inscrição no ano letivo de 2015-2016, a Portaria n.º 401/2007, de 5 de abril, alterada pela Portaria n.º 232-A/2013, de 22 de julho, e pelo Decreto-Lei n.º 113/2014, de 16 de julho."
+  },
+  "123763102": {
+   "fragment_id": "123728942",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "123763104": {
+   "fragment_id": "123728944",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "123763105": {
+   "fragment_id": "123728945",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "123763106": {
+   "fragment_id": "123728946",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento disciplina os regimes de reingresso e de mudança de par instituição/curso nas instituições de ensino superior."
+  },
+  "123763107": {
+   "fragment_id": "123728947",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO disposto no presente Regulamento aplica-se:\n\na) Às instituições de ensino superior públicas, com exceção das instituições de ensino superior militar e policial, e aos estabelecimentos de ensino superior privados;\n\nb) Aos ciclos de estudos conducentes ao diploma de técnico superior profissional, ao grau de licenciado, e ao grau de mestre através de um ciclo de estudos integrado de mestrado, adiante todos genericamente designados por cursos."
+  },
+  "123763108": {
+   "fragment_id": "123728948",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do disposto no presente Regulamento, entende-se por:\n\na) «Créditos» os créditos segundo o ECTS - European Credit Transfer and Accumulation System (sistema europeu de transferência e acumulação de créditos), cuja atribuição é regulada pelo Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;\n\nb) «Escala de classificação portuguesa» aquela a que se refere o artigo 15.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;\n\nc) «Instituição de ensino superior» uma universidade, instituto universitário, escola de ensino superior universitário não integrada em universidade, instituto politécnico ou escola de ensino superior politécnica não integrada em instituto politécnico ou universidade, de natureza pública ou privada;\n\nd) «Regime geral de acesso» o regime de acesso e ingresso regulado pelo Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho."
+  },
+  "123763109": {
+   "fragment_id": "123728949",
+   "type": 1,
+   "heading": "Capítulo II — Reingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Reingresso"
+  },
+  "123763110": {
+   "fragment_id": "123728950",
+   "type": 11,
+   "heading": "Artigo 4.º — Reingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reingresso\n\nReingresso é o ato pelo qual um estudante, após interrupção dos estudos num par instituição/curso de ensino superior, se matricula na mesma instituição e se inscreve no mesmo curso ou em curso que lhe tenha sucedido."
+  },
+  "123763111": {
+   "fragment_id": "123728951",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento de reingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requerimento de reingresso\n\nPodem requerer o reingresso num par instituição/curso os estudantes que:\n\na) Tenham estado matriculados e inscritos nesse par instituição/curso ou em par que o tenha antecedido;\n\nb) Não tenham estado inscritos nesse par instituição/curso no ano letivo anterior àquele em que pretendem reingressar."
+  },
+  "123763112": {
+   "fragment_id": "123728952",
+   "type": 11,
+   "heading": "Artigo 6.º — Limitações quantitativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limitações quantitativas\n\nO reingresso não está sujeito a limitações quantitativas."
+  },
+  "123763113": {
+   "fragment_id": "123728953",
+   "type": 11,
+   "heading": "Artigo 7.º — Creditação das formações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Creditação das formações\n\n1 - O número de créditos a realizar para a atribuição do grau ou diploma não pode ser superior à diferença entre o número de créditos total necessário para a atribuição do grau ou diploma e os créditos da totalidade da formação obtida durante a anterior inscrição no mesmo par instituição/curso ou no par que o antecedeu.\n\n2 - Em casos devidamente fundamentados em que, face ao nível ou conteúdo de algumas unidades curriculares, não seja possível considerar a totalidade da formação obtida durante a anterior inscrição, o número de créditos a realizar para a atribuição do grau ou diploma não pode ser superior em 10 % ao que resulta da aplicação da regra fixada pelo número anterior."
+  },
+  "123763114": {
+   "fragment_id": "123728954",
+   "type": 1,
+   "heading": "Capítulo III — Mudança de par instituição/curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Mudança de par instituição/curso"
+  },
+  "123763115": {
+   "fragment_id": "123728955",
+   "type": 11,
+   "heading": "Artigo 8.º — Mudança de par instituição/curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mudança de par instituição/curso\n\n1 - Mudança de par instituição/curso é o ato pelo qual um estudante se matricula e ou inscreve em par instituição/curso diferente daquele(s) em que, em anos letivos anteriores, realizou uma inscrição.\n\n2 - A mudança de par instituição/curso pode ter lugar com ou sem interrupção de matrícula e inscrição numa instituição de ensino superior."
+  },
+  "123763116": {
+   "fragment_id": "123728956",
+   "type": 11,
+   "heading": "Artigo 9.º — Requerimento de mudança de par instituição/curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requerimento de mudança de par instituição/curso\n\n1 - Podem requerer a mudança para um par instituição/curso os estudantes que:\n\na) Tenham estado matriculados e inscritos noutro par instituição/curso e não o tenham concluído;\n\nb) Tenham realizado os exames nacionais do ensino secundário correspondentes às provas de ingresso fixadas para esse par, para esse ano, no âmbito do regime geral de acesso;\n\nc) Tenham, nesses exames, a classificação mínima exigida pela instituição de ensino superior, nesse ano, no âmbito do regime geral de acesso.\n\n2 - O regime de mudança de par instituição/curso aplica-se igualmente aos estudantes que tenham estado matriculados e inscritos em instituição de ensino superior estrangeira em curso definido como superior pela legislação do país em causa, e não o tenham concluído.\n\n3 - Não é permitida a mudança de par instituição/curso técnico superior profissional, ou curso estrangeiro de nível correspondente, para ciclos de estudos de licenciatura ou ciclos de estudos integrados de mestrado."
+  },
+  "123763117": {
+   "fragment_id": "123728957",
+   "type": 11,
+   "heading": "Artigo 10.º — Estudantes titulares de cursos de ensino secundário não portugueses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estudantes titulares de cursos de ensino secundário não portugueses\n\nPara os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo anterior pode ser satisfeita através da aplicação do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual."
+  },
+  "123763118": {
+   "fragment_id": "123728958",
+   "type": 11,
+   "heading": "Artigo 11.º — Cursos com pré-requisitos ou que exijam aptidões vocacionais específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cursos com pré-requisitos ou que exijam aptidões vocacionais específicas\n\nA mudança para par instituição/curso para os quais sejam exigidos, nos termos do regime geral de acesso, pré-requisitos ou aptidões vocacionais específicas avaliadas através de concursos locais, está condicionada à satisfação dos mesmos."
+  },
+  "123763119": {
+   "fragment_id": "123728959",
+   "type": 11,
+   "heading": "Artigo 12.º — Estudantes que ingressaram através de modalidades especiais de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estudantes que ingressaram através de modalidades especiais de acesso\n\n1 - Para os estudantes que ingressaram no ensino superior através das provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, reguladas pelo Decreto-Lei n.º 64/2006, de 21 de março, alterado pelo Decreto-Lei n.º 113/2014, de 16 de julho, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação dos n.os 2 e 3 do artigo 12.º do referido diploma.\n\n2 - Para os estudantes que ingressaram no ensino superior com a titularidade de um diploma de especialização tecnológica, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação dos artigos 7.º e 8.º do Decreto-Lei n.º 113/2014, de 16 de julho.\n\n3 - Para os estudantes que ingressaram no ensino superior com a titularidade de um diploma de técnico superior profissional, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação dos artigos 10.º e 11.º do Decreto-Lei n.º 113/2014, de 16 de julho.\n\n4 - Para os estudantes internacionais, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação do disposto nos artigos 5.º e 6.º do Decreto-Lei n.º 36/2014, de 10 de março, alterado pelo Decreto-Lei n.º 113/2014, de 16 de julho."
+  },
+  "123763120": {
+   "fragment_id": "123728960",
+   "type": 11,
+   "heading": "Artigo 13.º — Data de realização dos exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Data de realização dos exames\n\nOs exames a que se referem a alínea b) do n.º 1 do artigo 9.º e o artigo 10.º podem ter sido realizados em qualquer ano letivo."
+  },
+  "123763121": {
+   "fragment_id": "123728961",
+   "type": 11,
+   "heading": "Artigo 14.º — Limitações quantitativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Limitações quantitativas\n\n1 - A mudança de par instituição/curso está sujeita a limitações quantitativas.\n\n2 - O número de vagas para cada par instituição/curso é fixado anualmente pelo órgão legal e estatutariamente competente da instituição de ensino superior, de acordo com as regras e limites estabelecidos pelo artigo 25.º do Decreto-Lei n.º 113/2014, de 16 de julho, para o conjunto dos concursos de mudança de curso e de transferência."
+  },
+  "123763122": {
+   "fragment_id": "123728962",
+   "type": 1,
+   "heading": "Capítulo IV — Integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Integração"
+  },
+  "123763123": {
+   "fragment_id": "123728963",
+   "type": 11,
+   "heading": "Artigo 15.º — Integração curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Integração curricular\n\nOs alunos integram-se nos programas e organização de estudos em vigor na instituição de ensino superior onde se matriculam e inscrevem no ano letivo em que o fazem."
+  },
+  "123763124": {
+   "fragment_id": "123728964",
+   "type": 11,
+   "heading": "Artigo 16.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Creditação\n\n1 - A creditação das formações é realizada nos termos fixados pelos artigos 44.º a 45.º-B do Decreto-Lei n.º 74/2006, de 24 de março, na redação que lhe foi dada pelo Decreto-Lei n.º 115/2013, de 7 de agosto.\n\n2 - O órgão legal e estatutariamente competente da instituição de ensino superior procede à expressão em créditos das formações de que o estudante é titular quando não o estejam, recorrendo, se necessário, à colaboração da instituição de ensino superior de origem.\n\n3 - O procedimento de creditação deve ser realizado em prazo compatível com a inscrição do estudante e a frequência do curso no ano ou semestre letivo para que aquela é requerida."
+  },
+  "123763125": {
+   "fragment_id": "123728965",
+   "type": 11,
+   "heading": "Artigo 17.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Classificação\n\n1 - As unidades curriculares creditadas conservam as classificações obtidas nas instituições de ensino superior onde foram realizadas.\n\n2 - Quando se trate de unidades curriculares realizadas em instituições de ensino superior portuguesas, a classificação das unidades curriculares creditadas é a classificação atribuída pela instituição de ensino superior onde foram realizadas.\n\n3 - Quando se trate de unidades curriculares realizadas em instituições de ensino superior estrangeiras, a classificação das unidades curriculares creditadas:\n\na) É a classificação atribuída pela instituição de ensino superior estrangeira, quando esta adote a escala de classificação portuguesa;\n\nb) É a classificação resultante da conversão proporcional da classificação obtida para a escala de classificação portuguesa, quando a instituição de ensino superior estrangeira adote uma escala diferente desta.\n\n4 - No caso a que se refere o número anterior, e com fundamento em manifestas diferenças de distribuição estatística entre as classificações atribuídas pela instituição de ensino superior estrangeira e a instituição de ensino superior portuguesa:\n\na) O órgão legal e estatutariamente competente da instituição de ensino superior pode atribuir uma classificação superior ou inferior à resultante da aplicação das regras gerais;\n\nb) O estudante pode requerer ao órgão legal e estatutariamente competente da instituição de ensino superior a atribuição de uma classificação superior à resultante da aplicação das regras gerais.\n\n5 - Como instrumento para a aplicação do disposto no número anterior podem ser utilizadas, se existirem, as classificações na escala europeia de comparabilidade de classificações.\n\n6 - No âmbito do cálculo da classificação final do grau académico, que é realizada nos termos do disposto nos artigos 12.º e 24.º do Decreto-Lei n.º 74/2006, de 24 de março, na redação dada pelo Decreto-Lei n.º 115/2013, de 7 de agosto, a adoção de ponderações específicas para as classificações das unidades curriculares creditadas deve ser fundamentada."
+  },
+  "123763126": {
+   "fragment_id": "123728966",
+   "type": 1,
+   "heading": "Capítulo V — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições comuns"
+  },
+  "123763127": {
+   "fragment_id": "123728967",
+   "type": 11,
+   "heading": "Artigo 18.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Requerimento\n\nO reingresso e a mudança de par instituição/curso são requeridos ao órgão legal e estatutariamente competente da instituição de ensino superior em que o estudante se pretende matricular e ou inscrever."
+  },
+  "123763128": {
+   "fragment_id": "123728968",
+   "type": 11,
+   "heading": "Artigo 19.º — Estudantes colocados no mesmo ano letivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Estudantes colocados no mesmo ano letivo\n\nNão é permitida a mudança de par instituição/curso no ano letivo em que o estudante tenha sido colocado em par instituição/curso de ensino superior ao abrigo de qualquer regime de acesso e ingresso e se tenha matriculado e inscrito."
+  },
+  "123763129": {
+   "fragment_id": "123728969",
+   "type": 11,
+   "heading": "Artigo 20.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Prazos\n\n1 - Os prazos em que devem ser requeridos o reingresso e a mudança de par instituição/curso são fixados por despacho do órgão legal e estatutariamente competente da instituição de ensino superior e publicados no sítio da instituição na Internet.\n\n2 - Os requerimentos de reingresso e de mudança de par instituição/curso no decurso do ano letivo só podem ser aceites a título excecional, por motivos especialmente atendíveis, e desde que existam condições para a integração académica dos requerentes."
+  },
+  "123763130": {
+   "fragment_id": "123728970",
+   "type": 11,
+   "heading": "Artigo 21.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Vagas\n\nAs vagas aprovadas:\n\na) São divulgadas através de edital a afixar na instituição de ensino superior e a publicar no seu sítio na Internet;\n\nb) São comunicadas à Direção-Geral do Ensino Superior e à Direção-Geral de Estatísticas da Educação e Ciência."
+  },
+  "123763131": {
+   "fragment_id": "123728971",
+   "type": 11,
+   "heading": "Artigo 22.º — Decisão e validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Decisão e validade\n\nAs decisões sobre os requerimentos de reingresso e de mudança de par instituição/curso são da competência do órgão legal e estatutariamente competente da instituição de ensino superior e válidas apenas para a inscrição no ano letivo a que respeitam."
+  },
+  "123763132": {
+   "fragment_id": "123728972",
+   "type": 11,
+   "heading": "Artigo 23.º — Alunos não colocados com matrícula válida no ano letivo anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alunos não colocados com matrícula válida no ano letivo anterior\n\nOs estudantes que tenham tido uma matrícula e inscrição válidas em instituição de ensino superior no ano letivo imediatamente anterior e cujo requerimento seja indeferido podem, no prazo de sete dias sobre a publicação da decisão, proceder à inscrição no curso onde haviam estado inscritos no ano letivo anterior."
+  },
+  "123763133": {
+   "fragment_id": "123728973",
+   "type": 11,
+   "heading": "Artigo 24.º — Cursos cuja acreditação seja revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cursos cuja acreditação seja revogada\n\n1 - Quando a acreditação de um par instituição/curso em funcionamento seja revogada e circunstâncias específicas não permitam a salvaguarda das expectativas dos estudantes nele inscritos através do prolongamento do seu funcionamento, o membro do Governo responsável pela área do ensino superior, sob proposta da Agência de Avaliação e Acreditação do Ensino Superior, pode, por seu despacho, autorizar que as instituições de ensino superior abram vagas especificamente destinadas à mudança de par instituição/curso destes estudantes.\n\n2 - Aos concursos para o preenchimento das vagas abertas nos termos do número anterior apenas podem ser admitidos os estudantes que se encontrem inscritos no par instituição/curso na data da deliberação de cancelamento da acreditação.\n\n3 - As vagas eventualmente sobrantes dos concursos a que se refere o presente artigo não podem ser destinadas a qualquer outro fim.\n\n> Nota: [Artigo 2.º, Portaria n.º 249-A/2019 - Diário da República n.º 148/2019, 1º Suplemento, Série I de 2019-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2019-123666172) As alterações aprovadas pela portaria n.º 249-A/2019, de 5 de agosto aplicam-se a partir do ano letivo 2018-2019, inclusive."
+  },
+  "123763134": {
+   "fragment_id": "123728974",
+   "type": 11,
+   "heading": "Artigo 25.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regulamento\n\n1 - O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova um regulamento para os regimes de reingresso e de mudança de par instituição/curso.\n\n2 - Do regulamento constam, obrigatoriamente, as seguintes matérias:\n\na) Condições habilitacionais a satisfazer para o requerimento de mudança de par instituição/curso, de acordo com o disposto nos artigos 9.º a 12.º;\n\nb) Condições a satisfazer para o reingresso dos estudantes cuja matrícula tenha caducado por força da aplicação do regime de prescrições a que se refere o n.º 2 do artigo 5.º da Lei n.º 37/2003, de 22 de agosto (estabelece as bases do financiamento do ensino superior), alterada pela Lei n.º 49/2005, de 30 de agosto;\n\nc) Condições em que tem lugar o indeferimento liminar;\n\nd) Critérios de seriação para os requerimentos de mudança de par instituição/curso, quando o número de pedidos exceda o número de vagas fixado;\n\ne) Documentos que devem instruir os requerimentos;\n\nf) Forma e local de submissão do requerimento e de divulgação das decisões sobre os requerimentos.\n\n3 - Os regulamentos são publicados na 2.ª série do Diário da República e divulgados através do sítio na Internet da instituição de ensino superior."
+  },
+  "123763135": {
+   "fragment_id": "123763475",
+   "type": 11,
+   "heading": "Artigo 26.º — Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comunicação\n\nAs instituições de ensino superior comunicam, até ao dia 31 de dezembro de cada ano, à Direção-Geral do Ensino Superior, nos termos por esta fixados, o número de requerentes de reingresso e de mudança de par instituição/curso para cada par instituição/curso, o número de estudantes admitidos e o número de estudantes efetivamente matriculados e ou inscritos."
+  },
+  "123763103": {
+   "fragment_id": "123728943",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes, em 18 de junho de 2015.\n\nRegulamento Geral dos Regimes de Reingresso e de Mudança de Par Instituição/Curso no Ensino Superior"
+  },
+  "123763136": {
+   "fragment_id": "123728973",
+   "type": 11,
+   "heading": "Artigo 24.º — Cursos cuja acreditação seja revogada",
+   "in_force_from": "2016-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 305/2016 - Diário da República n.º 233/2016, Série I de 2016-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/305-2016-105322292), em vigor a partir de 2016-12-07"
+   ],
+   "markdown": "###### Artigo 24.º — Cursos cuja acreditação seja revogada\n\n1 - Quando a acreditação de um par instituição/curso em funcionamento seja revogada e circunstâncias específicas não permitam a salvaguarda das expectativas dos estudantes nele inscritos através do prolongamento do seu funcionamento, o membro do Governo responsável pela área do ensino superior, sob proposta da Agência de Avaliação e Acreditação do Ensino Superior, pode, por seu despacho, autorizar que as instituições de ensino superior abram vagas especificamente destinadas à mudança de par instituição/curso destes estudantes.\n\n2 - Aos concursos para o preenchimento das vagas abertas nos termos do número anterior apenas podem ser admitidos os estudantes que se encontrem inscritos no par instituição/curso na data da deliberação de cancelamento da acreditação.\n\n3 - As vagas eventualmente sobrantes dos concursos a que se refere o presente artigo não podem ser destinadas a qualquer outro fim.\n\n4 - Nos concursos a que se refere o presente artigo, as condições habilitacionais fixadas pelas alíneas b) e c) do n.º 1 do artigo 9.º bem como pelos artigos 10.º e 12.º podem, por decisão do órgão legal e estatutariamente competente da instituição de ensino superior que abre o concurso, ser substituídas por uma avaliação do currículo já realizado pelo estudante no curso encerrado que demonstre que dispõe da formação adequada ao prosseguimento dos estudos naquela instituição.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 305/2016 - Diário da República n.º 233/2016, Série I de 2016-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/305-2016-105322292), em vigor a partir de 2016-12-07"
+  },
+  "123763137": {
+   "fragment_id": "123728973",
+   "type": 11,
+   "heading": "Artigo 24.º — Situações especiais de mudança de par instituição/curso",
+   "in_force_from": "2019-08-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 249-A/2019 - Diário da República n.º 148/2019, 1º Suplemento, Série I de 2019-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2019-123666172), em vigor a partir de 2019-08-06",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 305/2016 - Diário da República n.º 233/2016, Série I de 2016-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/305-2016-105322292), em vigor a partir de 2016-12-07"
+   ],
+   "markdown": "###### Artigo 24.º — Situações especiais de mudança de par instituição/curso\n\n1 - Quando se verifique o encerramento compulsivo de instituições de ensino superior ou quando a acreditação de um par instituição/curso em funcionamento seja revogada e circunstâncias específicas não permitam a salvaguarda das expectativas dos estudantes inscritos através do prolongamento do seu funcionamento por um prazo limitado, o membro do Governo responsável pela área do ensino superior, pode, por despacho, autorizar que as instituições de ensino superior abram vagas especificamente destinadas à mudança de par instituição/curso destes estudantes.\n\n2 - Aos concursos para o preenchimento das vagas abertas nos termos do número anterior apenas podem ser admitidos os estudantes que se encontrem inscritos nos pares instituição/curso na data ou período temporal identificados no despacho que autoriza a abertura das vagas.\n\n3 - As vagas eventualmente sobrantes dos concursos a que se refere o presente artigo não podem ser destinadas a qualquer outro fim.\n\n4 - Nos concursos a que se refere o presente artigo, as condições habilitacionais e pré-requisitos fixados pelas alíneas b) e c) do n.º 1 do artigo 9.º bem como pelos artigos 10.º a 12.º podem, por decisão do órgão legal e estatutariamente competente da instituição de ensino superior que abre o concurso, ser substituídas por uma avaliação do currículo já realizado pelo estudante no curso encerrado que demonstre que dispõe da formação adequada ao prosseguimento dos estudos naquela instituição.\n\n> Nota: [Artigo 2.º, Portaria n.º 249-A/2019 - Diário da República n.º 148/2019, 1º Suplemento, Série I de 2019-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2019-123666172) As alterações aprovadas pela portaria n.º 249-A/2019, de 5 de agosto aplicam-se a partir do ano letivo 2018-2019, inclusive.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 249-A/2019 - Diário da República n.º 148/2019, 1º Suplemento, Série I de 2019-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2019-123666172), em vigor a partir de 2019-08-06\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 305/2016 - Diário da República n.º 233/2016, Série I de 2016-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/305-2016-105322292), em vigor a partir de 2016-12-07"
+  },
+  "136236136": {
+   "fragment_id": "123728959",
+   "type": 11,
+   "heading": "Artigo 12.º — Estudantes que ingressaram através de modalidades especiais de acesso",
+   "in_force_from": "2020-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 150/2020 - Diário da República n.º 119/2020, Série I de 2020-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/150-2020-136237681), em vigor a partir de 2020-06-23"
+   ],
+   "markdown": "###### Artigo 12.º — Estudantes que ingressaram através de modalidades especiais de acesso\n\n1 - Para os estudantes que ingressaram no ensino superior através das provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, reguladas pelo Decreto-Lei n.º 64/2006, de 21 de março, alterado pelo Decreto-Lei n.º 113/2014, de 16 de julho, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação dos n.os 2 e 3 do artigo 12.º do referido diploma.\n\n2 - Para os estudantes que ingressaram no ensino superior com a titularidade de um diploma de especialização tecnológica, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação dos artigos 7.º e 8.º do Decreto-Lei n.º 113/2014, de 16 de julho.\n\n3 - Para os estudantes que ingressaram no ensino superior com a titularidade de um diploma de técnico superior profissional, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação dos artigos 10.º e 11.º do Decreto-Lei n.º 113/2014, de 16 de julho.\n\n4 - Para os estudantes internacionais, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pela aplicação do disposto nos artigos 5.º e 6.º do Decreto-Lei n.º 36/2014, de 10 de março, alterado pelo Decreto-Lei n.º 113/2014, de 16 de julho.\n\n5 - Para os estudantes que ingressaram no ensino superior com a titularidade de cursos de dupla certificação de nível secundário ou cursos artísticos especializados, a condição estabelecida pelas alíneas b) e c) do n.º 1 do artigo 9.º pode ser substituída pelas provas referidas nas alíneas b) e c) do n.º 1 do artigo 13.º-C do Decreto-Lei n.º 113/2014, de 16 de julho, alterado pelos Decretos-Leis n.os 63/2016, de 13 de setembro, e 11/2020, de 2 de abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 150/2020 - Diário da República n.º 119/2020, Série I de 2020-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/150-2020-136237681), em vigor a partir de 2020-06-23"
+  }
+ }
+}

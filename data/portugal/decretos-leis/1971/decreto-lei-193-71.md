@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:644481:por
+title: Decreto-Lei n.º 193/71
+short_title: null
+summary: Determina que sejam alienados, por reduções anuais de 10 por cento do direito de base, a que se refere o artigo 1.º
+  do Decreto-Lei n.º 43295, os direitos que ainda subsistem para as mercadorias mencionadas nas listas A e B anexas ao presente
+  diploma, quando importadas em condições de beneficiarem do tratamento pautal previsto na Convenção que instituiu a Associação
+  Europeia do Comércio Livre - Determina, ainda, que a partir de 1 de Julho de 1971 passem ao regime do artigo 3 da referida
+  Convenção as mercadorias constantes dos artigos pautais descritos na lista C, também anexa ao presente diploma, pelo que
+  deverão ser retiradas da lista junta ao Decreto-Lei n.º 86/70 e incluídas na lista do Decreto-Lei n.º 47958
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 193/71
+official_date: null
+publication_date: '1971-05-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 110/1971, Série I de 1971-05-11
+  number: '110'
+  series: I
+  supplement: null
+  pages: 667 - 668
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/05/11000/06670668.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '644481'
+  dre_path: /dr/detalhe/decreto-lei/193-1971-644481
+  internal: pt:dre:644481:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1971-644481
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1971-644481
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-12-29T00:00:00Z'
+integrity:
+  source_sha256: fd6c9f762a841a0a873619eae28eb83fb393f85ef297c9e80aca246e7af03dd3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-193-644481.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:423217:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 193/71
+
+de 11 de Maio
+
+Tendo em vista as disposições da Convenção que instituiu a Associação Europeia de Comércio Livre;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Nos termos do preceituado no § 5.º do Anexo G à Convenção que instituiu a Associação Europeia de Comércio Livre, os direitos que ainda subsistem para as mercadorias mencionadas nas listas A e B, anexas ao presente decreto-lei, quando importadas em condições de beneficiarem do tratamento pautal previsto naquela Convenção, serão eliminados por reduções anuais de 10 por cento do direito de base, a que se refere o artigo 1.º do [Decreto-Lei n.º 43295](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43295-1960-514597), de 5 de Novembro de 1960.
+
+###### Art. 2.º A primeira das reduções anuais referidas no artigo anterior entra em vigor em 1 de Julho de 1971, e será de 20 por cento para as mercadorias constantes dos artigos pautais incluídos na lista A e de 30 por cento para as mercadorias constantes dos artigos pautais incluídos na lista B; as subsequentes reduções entrarão em vigor em 1 de Janeiro dos anos seguintes e serão de 10 por cento cada uma.
+
+###### Art. 3.º A partir de 1 de Julho de 1971, passam ao regime do artigo 3 da Convenção que instituiu a Associação Europeia de Comércio Livre as mercadorias constantes dos artigos pautais descritos na lista C, junta ao presente decreto-lei, pelo que deverão ser retiradas da lista anexa ao [Decreto-Lei n.º 86/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1970-228398), de 7 de Março, e incluídas na lista do [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+**Promulgado em 5 de Maio de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+LISTA A
+
+29.44 ... Antibióticos:
+
+ex 04 ... Oxitetraciclina e seus sais.
+
+44.18 ... Painéis, pranchas, blocos e semelhantes, de madeira «artificial» ou «reconstituída», obtida de cavacos, serradura, farinha de madeira ou outros resíduos lenhosos, aglomerados com resinas naturais ou artificiais ou com outros produtos orgânicos.
+
+ex 84.45 ... Máquinas-ferramentas para trabalhar metais e carbonetos metálicos, com exclusão das compreendidas nos n.os 84.49 e 84.50:
+
+Tornos mecânicos paralelos, limadores, plainas, máquinas de afiar serras, serrotes mecânicos, serras circulares e serras de fita com ou sem carro:
+
+01 ... Pesando até 1000 kg cada um.
+
+02 ... com mais de 1000 kg até 2000 kg.
+
+03 ... Balancés pesando até 1000 kg cada um
+
+Prensas hidráulicas:
+
+04 ... Pesando até 2000 kg cada uma.
+
+05 ... com mais de 2000 kg até 5000 kg.
+
+06 ... Prensas de transmissão mecânica e martelos-pilões, até ao peso de 1000 kg.
+
+08 ... Máquinas-ferramentas não especificadas.
+
+LISTA B
+
+29.39 ... Hormonas, naturais ou sintéticas, bem como os seus derivados utilizados principalmente como hormonas.
+
+80.02 ... Soros de animais ou de pessoas imunizados; vacinas microbianas, toxinas, culturas de microrganismos (compreendendo os fermentos, mas excluindo as leveduras) e produtos semelhantes.
+
+39.03 ... Celulose regenerada; nitratos, acetados e outros ésteres da celulose, éteres da celulose e outros derivados químicos da celulose, plastificados ou não (tais como celoidina, colódios e celulóide); fibra vulcanizada:
+
+Matérias plásticas artificiais, mesmo com incorporação de papel, de tecidos ou de outras substâncias:
+
+Outros produtos:
+
+10 ... Em chapas, folhas ou tiras, rígidas, pesando mais de 160 g por metro quadrado, com ou sem dizeres.
+
+61.11 ... Outros acessórios em obra para vestuário, tais como sovacos, chumaços e ombreiras, cintos e cinturões, regalos e mangas protectoras:
+
+02 ... De outras fibras.
+
+70.14 ... Objectos de vidro para iluminação ou sinalização de óptica comum:
+
+01 ... Chaminés.
+
+Não especificados:
+
+02 ... De vidro corado, fosco, gravado, irisado, lapidado, marmorizado, opaco, opalino, pintado ou o moldado apresentando sulcos ou relevos.
+
+03 ... De vidro não especificado.
+
+82.05 ... Ferramentas intermutáveis para máquinas e aparelhos de uso manual, mesmo mecânicos (de cunhar, estampar, roscar, alisar, fresar, mandrilar, cortar e entalhar, tornear e para outros usos), compreendendo as fieiras de extrusão e estiragem de metais e as ferramentas destinadas a perfurar terrenos:
+
+ex 02 ... Barrenas.
+
+85.01 ... Geradores, motores e conversores rotativos; transformadores e conversores estáticos; bobinas de reactância e de auto-indução:
+
+ex 08 ... Bobinas de reactância e de auto-indução, pesando até 500 kg cada uma.
+
+85.15 ... Aparelhos de transmissão e recepção para radiotelefonia e radiotelegrafia; aparelhos emissores e receptores para radiodifusão ou televisão, compreendendo os receptores combinados com gramofone e os aparelhos de tomada de vistas para televisão; aparelhos de radiodirecção, radiodetecção, radiossondagem e radiotelecomando:
+
+01 ... Aparelhos receptores para radiodifusão.
+
+85.19 ... Aparelhagem para interrupção, seccionamento, protecção, derivação e ligação dos circuitos eléctricos (tais como interruptores, comutadores, relais, corta-circuitos, pára-raios, tomadas de corrente e caixas de junção); resistências, com excepção das que se destinem a aquecimento, potenciómetros e reóstatos; quadros de manobra e de distribuição:
+
+10 ... Relais para centrais telefónicas automáticas.
+
+LISTA C
+
+91.01 ... Relógios de algibeira, de pulso e semelhantes, compreendendo os contadores de tempo dos mesmos tipos:
+
+Relógios, com exclusão dos contadores de tempo:
+
+Não ornamentados com pérolas ou gemas, naturais ou artificiais:
+
+Sem abraçadeiras, pulseiras ou qualquer outro acessório:
+
+01 ... De ouro ou platina.
+
+02 ... De prata.
+
+03 ... Dourados ou chapeados de ouro.
+
+04 ... Não especificados.
+
+Com abraçadeiras, pulseiras ou qualquer outro acessório inseparável:
+
+05 ... Em que entram metais preciosos.
+
+06 ... Dourados ou chapeados de metais preciosos.
+
+07 ... Ornamentados com pérolas ou gemas, naturais ou artificiais.
+
+08 ... Contadores de tempo.
+
+**O Ministro das Finanças, João Augusto Dias Rosas.**

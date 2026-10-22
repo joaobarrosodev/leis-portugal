@@ -1,0 +1,327 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:601699:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2009-213505462",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/3-2009-601699",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-02-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213504092",
+    "213504093",
+    "213504094",
+    "213504095",
+    "213504096",
+    "213504097",
+    "213504098",
+    "213504099",
+    "213504100",
+    "213504101",
+    "213504102",
+    "213504103",
+    "213504104",
+    "213504105",
+    "213504106",
+    "213504107"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176071:por",
+     "title": "Decreto-Lei n.º 209/2012",
+     "published": "2012-09-19",
+     "dre_path": "/dr/detalhe/decreto-lei/209-2012-176071"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "213504092",
+    "213504093",
+    "213504094",
+    "213504095",
+    "213504109",
+    "213504110",
+    "213504123",
+    "213504124",
+    "213504125",
+    "213504126",
+    "213504127",
+    "213504128",
+    "213504129",
+    "213504130",
+    "213504131",
+    "213504132",
+    "213504133",
+    "213504134",
+    "213504135"
+   ]
+  }
+ ],
+ "fragments": {
+  "213504092": {
+   "fragment_id": "213505463",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 3/2009\n\nde 3 de Fevereiro\n\nO Programa do XVII Governo Constitucional estabelece o reforço dos meios e programas de prevenção e combate à criminalidade organizada, à corrupção e à criminalidade económico-financeira em geral. A constatação de que a corrupção e a criminalidade económico-financeira mina os fundamentos da democracia e vulnerabiliza a capacidade de atracção de investimento nacional e estrangeiro justifica o reforço de meios no combate a este tipo de criminalidade.\n\nO XVII Governo tem-se preocupado em dotar os organismos competentes dos meios legislativos, materiais e humanos adequados à prevenção e repressão da corrupção e, em geral, da criminalidade económica e financeira.\n\nEm primeiro lugar, entre as várias iniciativas legislativas apresentadas pelo Governo à Assembleia da República actualmente já em vigor, destacam-se: i) a lei relativa à corrupção no sector privado e à corrupção com prejuízo do comércio internacional; ii) a lei sobre o novo regime da criminalidade no fenómeno desportivo (corrupção, tráfico de influência e associação criminosa); e iii) a lei de alteração à Lei de Protecção de Testemunhas, através da qual é alargado o leque de medidas de protecção e se passou a incluir o crime de corrupção na lista dos crimes que admitem a aplicação à testemunha de programas especiais de segurança e de medidas como a não revelação da sua identidade.\n\nEm segundo lugar, no âmbito do combate aos crimes de corrupção e de branqueamento de capitais são ainda de realçar: i) a responsabilização penal das pessoas colectivas, pela primeira vez, por crimes previstos no Código Penal, entre os quais a corrupção e o branqueamento; ii) a previsão, no Código de Processo Penal, das condutas de corrupção, tráfico de influência e branqueamento na categoria de «criminalidade altamente organizada», o que implica que, em relação a elas, possa sempre ser aplicada prisão preventiva e que passam a ser permitidas buscas domiciliárias nocturnas.\n\nNo quadro da União Europeia, em terceiro lugar, foram transpostas directivas comunitárias relativas à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais e do financiamento do terrorismo.\n\nEm quarto lugar, destaca-se ainda a inclusão, na Lei sobre Política Criminal para o biénio 2007-2009, da corrupção, do tráfico de influência, do branqueamento e do peculato entre os crimes de prevenção prioritária e de investigação prioritária e a criação, na nova Lei Orgânica da Polícia Judiciária, de uma Unidade Nacional de Combate à Corrupção, bem como a publicação de um guia explicativo sobre a corrupção e crimes conexos - «Prevenir a corrupção».\n\nFinalmente, em quinto lugar, também as medidas de simplificação burocrática e de eliminação de formalidades têm permitido introduzir novos elementos de transparência. Do ponto de vista da prevenção, milhares de actos e procedimentos comportando ocasiões de corrupção são por essa via eliminados. Um Estado sobrecarregado de burocracia, complexidade, hermetismo e lentidão representa sempre um contexto amigo para a corrupção. Ao invés, um Estado que aposta na simplicidade, na agilidade, na resposta rápida ou imediata representa um destruidor de ocasiões de corrupção.\n\nEm conformidade, são agora adoptados novos mecanismos no sentido do reforço da transparência e dos meios de combate à corrupção, criando-se uma base de dados de registo obrigatório de procurações irrevogáveis que contenham poderes de transferência da titularidade de imóveis.\n\nCom a criação desta base de dados, passa a ser obrigatório o registo das procurações irrevogáveis que confiram poderes para a transferência da titularidade de imóveis, bem como a respectiva extinção, o que permitirá o acesso a esta informação pelas entidades com competência de investigação criminal e de combate à criminalidade económico-financeira. A base de dados de procurações irrevogáveis visa dotar o Estado de mecanismos que permitam combater mais eficazmente fenómenos de corrupção associados à utilização de procurações irrevogáveis para transacções imobiliárias.\n\nO presente decreto regulamentar regulamenta, pois, os termos e condições em que deve ser promovido o registo, por via electrónica, de procurações irrevogáveis que contenham poderes de transferência da titularidade de imóveis. Assim, o presente diploma estabelece ainda os elementos que devem constar do pedido de registo electrónico e enumera as entidades que podem aceder à informação constante da base de dados das procurações, fixando os termos e condições do respectivo acesso, respeitando as normas e princípios constitucionais e os constantes na Lei n.º 67/98, de 26 de Outubro (Lei de Protecção de Dados Pessoais).\n\nAproveita-se ainda para permitir que, a título facultativo, a base de dados agora criada possa conter procurações de outro tipo, o que ajuda a incrementar a segurança associada a verificação dos poderes dos intervenientes em actos jurídicos que tenham poderes ao abrigo de procurações.\n\nForam ouvidos o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais, o Conselho Superior do Ministério Público, a Comissão Nacional de Protecção de Dados, a Ordem dos Advogados, a Guarda Nacional Republicana, a Polícia de Segurança Pública e a Polícia Judiciária.\n\nForam promovidas as diligências necessárias à audição da Câmara dos Solicitadores, da Ordem dos Notários, da Câmara de Comércio e Indústria da Madeira, da Associação Comercial de Lisboa - Câmara de Comércio e Indústria Portuguesa, da Câmara de Comércio e Indústria da Horta, da Câmara de Comércio e Indústria do Centro e da Câmara do Comércio de Ponta Delgada.\n\nAssim:\n\nNos termos da alínea c) do artigo 199.º da Constituição e do artigo 1.º da Lei n.º 19/2008, de 21 de Abril, o Governo decreta o seguinte:\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071) A validade dos códigos de identificação atribuídos às procurações registadas eletronicamente ao abrigo do presente Decreto Regulamentar, expira no prazo de três meses após 1 de outubro de 2012"
+  },
+  "213504093": {
+   "fragment_id": "213505464",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e finalidade da base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e finalidade da base de dados\n\n1 - É criada no âmbito do Ministério da Justiça uma base de dados de procurações destinada a organizar e manter actualizada a informação respeitante às procurações, em especial a relativa às procurações irrevogáveis que contenham poderes de transferência da titularidade de imóveis.\n\n2 - A base de dados tem por finalidades:\n\na) Criar meios adicionais para o combate de fenómenos de corrupção associados à utilização de procurações irrevogáveis para transacções imobiliárias;\n\nb) Criar meios adicionais para a verificação dos poderes dos representantes que utilizem procurações em negócios jurídicos.\n\n3 - Os dados constantes da base de dados referida no n.º 1 não podem exceder as finalidades determinantes da sua recolha, nem ser utilizados para finalidade diversa incompatível com as mesmas."
+  },
+  "213504094": {
+   "fragment_id": "213505465",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de procurações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo de procurações\n\n1 - São obrigatoriamente registadas por meios electrónicos junto do Instituto dos Registos e do Notariado, I. P., pela entidade perante a qual foram outorgadas, as procurações irrevogáveis que contenham poderes de transferência da titularidade de imóveis e as demais procurações irrevogáveis cuja obrigatoriedade de registo venha a ser estabelecida por lei.\n\n2 - Sempre que ocorra extinção da procuração registada nos termos do número anterior, a mesma é obrigatoriamente registada por meios electrónicos pela entidade que titulou a extinção.\n\n3 - Os registos referidos nos n.os 1 e 2 são promovidos no próprio dia, ou no dia útil imediato, a contar da data da outorga ou da titulação.\n\n4 - Se, em virtude de dificuldades de carácter técnico respeitantes ao funcionamento do site referido no artigo 3.º ou do envio electrónico de documentos, não for possível aceder ao sistema, este facto deve ser expressamente mencionado no documento a registar, devendo o registo do mesmo ser efectuado nas vinte e quatro horas seguintes.\n\n5 - As procurações referidas no n.º 1 apenas produzem efeitos depois de registadas nos termos do presente decreto regulamentar.\n\n6 - Também pode ser promovido o registo por meios electrónicos junto do Instituto dos Registos e do Notariado, I. P., de quaisquer outras procurações celebradas por escrito, independentemente da forma pela qual sejam outorgadas.\n\n7 - O pedido de registo referido no número anterior pode ser promovido pelo mandante, pelo mandatário ou pela entidade perante a qual for outorgada a procuração ou reconhecidas as respectivas assinaturas."
+  },
+  "213504095": {
+   "fragment_id": "213505466",
+   "type": 11,
+   "heading": "Artigo 3.º — Promoção do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Promoção do registo\n\n1 - Os registos referidos no artigo anterior efectuam-se por transmissão electrónica de dados e de documentos através de sítio da Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - O sítio deve permitir, designadamente, as seguintes funções:\n\na) A autenticação dos utilizadores através de certificados digitais ou de outros meios seguros;\n\nb) A indicação da data da outorga da procuração ou da sua extinção;\n\nc) O preenchimento electrónico dos dados referidos no artigo 5.º;\n\nd) O envio electrónico dos documentos necessários para promover o respectivo registo;\n\ne) A certificação da data e da hora em que o pedido de registo foi concluído;\n\nf) O envio automático do comprovativo electrónico do pedido de registo ao requerente do registo, com menção do código de identificação atribuído ao respectivo registo;\n\ng) A realização do registo da procuração de forma automática e por meios electrónicos, sem necessidade de validação ou confirmação do mesmo por meios humanos.\n\n3 - Para efeitos da alínea e) do número anterior, a hora de recepção dos pedidos de registo tem por referência a hora do meridiano de Greenwich.\n\n4 - O registo de procurações e de extinção de procurações é integrado automaticamente na base de dados, imediatamente após a recepção, por via electrónica, da informação e dos documentos necessários à realização do registo."
+  },
+  "213504096": {
+   "fragment_id": "213505467",
+   "type": 11,
+   "heading": "Artigo 4.º — Comprovativo do registo de procurações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comprovativo do registo de procurações\n\n1 - Por cada registo de procuração é disponibilizado um comprovativo com menção do código de identificação atribuído ao documento, o qual é enviado por e-mail e, sempre que possível, por short message service (sms) à entidade que procedeu ao registo e aos sujeitos que constam da procuração.\n\n2 - A entidade referida no número anterior e os sujeitos que constam da procuração podem, em caso de extravio, solicitar ao Instituto dos Registos e do Notariado, I. P., informação sobre o código de acesso referido no número anterior."
+  },
+  "213504097": {
+   "fragment_id": "213505468",
+   "type": 11,
+   "heading": "Artigo 5.º — Dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dados\n\n1 - São recolhidos para tratamento automatizado os seguintes dados relativos aos mandantes e aos mandatários que sejam pessoas singulares:\n\na) Nome;\n\nb) Estado civil;\n\nc) Sendo casado, o nome do cônjuge e o regime de bens;\n\nd) Residência habitual ou domicílio profissional;\n\ne) Número de identificação fiscal;\n\nf) Número de identificação civil.\n\n2 - São recolhidos para tratamento automatizado os seguintes dados relativos aos mandantes e aos mandatários que sejam pessoas colectivas:\n\na) Firma;\n\nb) Sede;\n\nc) Número de pessoa colectiva.\n\n3 - No caso de procuração outorgada para celebração de negócio jurídico sobre bem imóvel, são ainda recolhidos para tratamento automatizado os seguintes dados relativos à identificação desse bem:\n\na) Número da descrição predial, freguesia e concelho, caso o imóvel se encontre descrito; ou\n\nb) artigo matricial, freguesia e concelho, caso o imóvel não se encontre descrito."
+  },
+  "213504098": {
+   "fragment_id": "213505469",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma de recolha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma de recolha\n\n1 - Os dados referidos no artigo anterior são recolhidos da informação e dos documentos enviados electronicamente nos termos do artigo 3.º\n\n2 - À recolha dos dados pela forma prevista no número anterior é aplicável o disposto no artigo 10.º da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "213504099": {
+   "fragment_id": "213505470",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidade responsável pelo tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidade responsável pelo tratamento de dados\n\n1 - O Instituto dos Registos e do Notariado, I. P., é o responsável pelo tratamento dos dados, nos termos e para os efeitos definidos na Lei n.º 67/98, de 26 de Outubro.\n\n2 - Cabe ao presidente do Instituto dos Registos e do Notariado, I. P.:\n\na) Velar pela legalidade da consulta ou comunicação da informação;\n\nb) Garantir o cumprimento das medidas necessárias à segurança da informação e do tratamento de dados;\n\nc) Assegurar o direito de informação e de acesso aos dados pelo respectivo titular."
+  },
+  "213504100": {
+   "fragment_id": "213505471",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso directo e gratuito à base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso directo e gratuito à base de dados\n\n1 - Podem aceder directamente e de forma gratuita à base de dados de procurações:\n\na) Os magistrados judiciais e do Ministério Público, no âmbito da prossecução das suas atribuições, os quais se podem fazer substituir por funcionário judicial por si designado;\n\nb) Os órgãos de polícia criminal competentes para a investigação criminal ou para a realização de acções de prevenção, ou aos quais incumba cooperar internacionalmente na prevenção e repressão da criminalidade económica e financeira e corrupção;\n\nc) As demais entidades públicas às quais a lei atribua competências em matéria de prevenção e combate à corrupção e à criminalidade económico-financeira.\n\n2 - A consulta de procurações registadas nos termos do presente decreto regulamentar pode ainda ser efectuada, através da introdução do código de identificação disponibilizado, nos termos do artigo 4.º, à entidade que procedeu ao registo e aos sujeitos que constam da procuração.\n\n3 - As regras técnicas a que obedece o acesso pelas entidades referidas nos números anteriores são definidas por despacho do presidente do Instituto dos Registos e do Notariado, I. P."
+  },
+  "213504101": {
+   "fragment_id": "213505472",
+   "type": 11,
+   "heading": "Artigo 9.º — Acessos electrónicos com valor de certidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acessos electrónicos com valor de certidão\n\n1 - Podem ser disponibilizados acessos electrónicos com valor de certidão às procurações registadas, nos termos e condições a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - Faz igualmente prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada a disponibilização da informação constante da certidão ou da versão em suporte de papel em sítio da Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "213504102": {
+   "fragment_id": "213505473",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de acesso pelo titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito de acesso pelo titular\n\nQualquer pessoa tem o direito de obter informação sobre os dados que lhe digam respeito, bem como, quanto a tais dados, de exigir a actualização e correcção de informações inexactas, o preenchimento das total ou parcialmente omissas e a eliminação das indevidamente registadas, nos termos do artigo 11.º da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "213504103": {
+   "fragment_id": "213505474",
+   "type": 11,
+   "heading": "Artigo 11.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Segurança da informação\n\n1 - O responsável pelo tratamento de dados assegura, para proteger os dados contra a sua destruição acidental ou ilícita, a sua perda acidental, a sua alteração, difusão ou acesso não autorizados e outras formas de tratamento ilícito:\n\na) O controlo da entrada nas instalações físicas utilizadas para o armazenamento de dados;\n\nb) O controlo do acesso aos dados mediante autenticação do utilizador por certificado digital;\n\nc) A utilização de um canal que garanta a comunicação dos dados de forma segura;\n\nd) A manutenção de um registo electrónico contendo informação que permita identificar a pessoa que acedeu aos dados, os dados acedidos e a data e hora do acesso;\n\ne) A realização periódica de cópias de segurança dos dados.\n\n2 - Quando o acesso directo aos dados pelas entidades referidas no n.º 1 do artigo 8.º se fizer através de comunicação entre sistemas, tais entidades adoptam as medidas e procedimentos necessários à estrita observância das regras de segurança estabelecidas no número anterior.\n\n3 - O responsável pelo tratamento de dados bem como as entidades referidas no n.º 1 do artigo 8.º mantêm uma lista actualizada das pessoas autorizadas a aceder à base de dados."
+  },
+  "213504104": {
+   "fragment_id": "213506475",
+   "type": 11,
+   "heading": "Artigo 12.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sigilo profissional\n\nQuem, no exercício das suas funções, tome conhecimento dos dados constantes da base de dados de procurações fica obrigado a sigilo profissional, nos termos do artigo 17.º da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "213504105": {
+   "fragment_id": "213506476",
+   "type": 11,
+   "heading": "Artigo 13.º — Prazos de conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prazos de conservação dos dados\n\n1 - Os dados recolhidos ao abrigo do presente diploma são eliminados consoante o facto que ocorrer em primeiro lugar:\n\na) Com o registo da extinção da procuração a que digam respeito;\n\nb) Decorridos 15 anos a contar da data da outorga da procuração; ou\n\nc) Logo que deixem de ser estritamente necessários para os fins para que foram recolhidos.\n\n2 - Para efeitos das alíneas a) e b) do número anterior, o sistema informático assegura a eliminação imediata e automática dos dados referidos no artigo 5.º"
+  },
+  "213504106": {
+   "fragment_id": "213506477",
+   "type": 11,
+   "heading": "Artigo 14.º — Incumprimento da obrigação de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Incumprimento da obrigação de registo\n\nO incumprimento da obrigação de registo prevista nos n.os 1 e 2 do artigo 2.º gera responsabilidade disciplinar nos termos do disposto no artigo 61.º do Decreto-Lei n.º 26/2004, de 4 de Fevereiro."
+  },
+  "213504107": {
+   "fragment_id": "213506478",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto regulamentar entra em vigor no dia 30 de Junho de 2009.\n\n2 - O disposto nos n.os 1 e 2 do artigo 2.º entra em vigor no dia 31 de Março de 2009."
+  },
+  "213504109": {
+   "fragment_id": "213505467",
+   "type": 11,
+   "heading": "Artigo 4.º — Comprovativo do registo de procurações",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Comprovativo do registo de procurações\n\n1 - Por cada registo de procuração é disponibilizado um comprovativo com menção do código de identificação atribuído ao documento, o qual é enviado por correio eletrónico à entidade que procedeu ao registo e aos sujeitos que constam da procuração, após confirmação do pagamento da quantia devida.\n\n2 - A entidade referida no número anterior e os sujeitos que constam da procuração podem, em caso de extravio, solicitar ao Instituto dos Registos e do Notariado, I. P., informação sobre o código de acesso referido no número anterior.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+  },
+  "213504110": {
+   "fragment_id": "213506484",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Prazo de validade e encargos",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Prazo de validade e encargos\n\n1 - O código de identificação a que se reporta o artigo anterior é disponibilizado pelo prazo de três meses.\n\n2 - Pela disponibilização do código de identificação é devido o montante de (euro) 10.\n\n3 - A taxa prevista no número anterior constitui receita do Instituto dos Registos e do Notariado, I. P.\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+  },
+  "213504123": {
+   "fragment_id": "213506485",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Pagamento",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º-B — Pagamento\n\n1 - Após o pedido de registo da procuração, é gerada automaticamente uma referência para pagamento do encargo previsto no artigo anterior, caso este não seja efetuado de imediato através de cartão de crédito.\n\n2 - O pagamento deve ser efetuado no prazo de cinco dias após a geração da referência para pagamento, sob pena de inutilização do pedido de registo.\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+  },
+  "213504124": {
+   "fragment_id": "213505468",
+   "type": 11,
+   "heading": "Artigo 5.º — Dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dados\n\n1 - São recolhidos para tratamento automatizado os seguintes dados relativos aos mandantes e aos mandatários que sejam pessoas singulares:\n\na) Nome;\n\nb) Estado civil;\n\nc) Sendo casado, o nome do cônjuge e o regime de bens;\n\nd) Residência habitual ou domicílio profissional;\n\ne) Número de identificação fiscal;\n\nf) Número de identificação civil.\n\n2 - São recolhidos para tratamento automatizado os seguintes dados relativos aos mandantes e aos mandatários que sejam pessoas colectivas:\n\na) Firma;\n\nb) Sede;\n\nc) Número de pessoa colectiva.\n\n3 - No caso de procuração outorgada para celebração de negócio jurídico sobre bem imóvel, são ainda recolhidos para tratamento automatizado os seguintes dados relativos à identificação desse bem:\n\na) Número da descrição predial, freguesia e concelho, caso o imóvel se encontre descrito; ou\n\nb) artigo matricial, freguesia e concelho, caso o imóvel não se encontre descrito."
+  },
+  "213504125": {
+   "fragment_id": "213505469",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma de recolha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma de recolha\n\n1 - Os dados referidos no artigo anterior são recolhidos da informação e dos documentos enviados electronicamente nos termos do artigo 3.º\n\n2 - À recolha dos dados pela forma prevista no número anterior é aplicável o disposto no artigo 10.º da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "213504126": {
+   "fragment_id": "213505470",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidade responsável pelo tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidade responsável pelo tratamento de dados\n\n1 - O Instituto dos Registos e do Notariado, I. P., é o responsável pelo tratamento dos dados, nos termos e para os efeitos definidos na Lei n.º 67/98, de 26 de Outubro.\n\n2 - Cabe ao presidente do Instituto dos Registos e do Notariado, I. P.:\n\na) Velar pela legalidade da consulta ou comunicação da informação;\n\nb) Garantir o cumprimento das medidas necessárias à segurança da informação e do tratamento de dados;\n\nc) Assegurar o direito de informação e de acesso aos dados pelo respectivo titular."
+  },
+  "213504127": {
+   "fragment_id": "213505471",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso directo e gratuito à base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso directo e gratuito à base de dados\n\n1 - Podem aceder directamente e de forma gratuita à base de dados de procurações:\n\na) Os magistrados judiciais e do Ministério Público, no âmbito da prossecução das suas atribuições, os quais se podem fazer substituir por funcionário judicial por si designado;\n\nb) Os órgãos de polícia criminal competentes para a investigação criminal ou para a realização de acções de prevenção, ou aos quais incumba cooperar internacionalmente na prevenção e repressão da criminalidade económica e financeira e corrupção;\n\nc) As demais entidades públicas às quais a lei atribua competências em matéria de prevenção e combate à corrupção e à criminalidade económico-financeira.\n\n2 - A consulta de procurações registadas nos termos do presente decreto regulamentar pode ainda ser efectuada, através da introdução do código de identificação disponibilizado, nos termos do artigo 4.º, à entidade que procedeu ao registo e aos sujeitos que constam da procuração.\n\n3 - As regras técnicas a que obedece o acesso pelas entidades referidas nos números anteriores são definidas por despacho do presidente do Instituto dos Registos e do Notariado, I. P."
+  },
+  "213504128": {
+   "fragment_id": "213505472",
+   "type": 11,
+   "heading": "Artigo 9.º — Acessos electrónicos com valor de certidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acessos electrónicos com valor de certidão\n\n1 - Podem ser disponibilizados acessos electrónicos com valor de certidão às procurações registadas, nos termos e condições a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - Faz igualmente prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada a disponibilização da informação constante da certidão ou da versão em suporte de papel em sítio da Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "213504129": {
+   "fragment_id": "213505473",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de acesso pelo titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito de acesso pelo titular\n\nQualquer pessoa tem o direito de obter informação sobre os dados que lhe digam respeito, bem como, quanto a tais dados, de exigir a actualização e correcção de informações inexactas, o preenchimento das total ou parcialmente omissas e a eliminação das indevidamente registadas, nos termos do artigo 11.º da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "213504130": {
+   "fragment_id": "213505474",
+   "type": 11,
+   "heading": "Artigo 11.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Segurança da informação\n\n1 - O responsável pelo tratamento de dados assegura, para proteger os dados contra a sua destruição acidental ou ilícita, a sua perda acidental, a sua alteração, difusão ou acesso não autorizados e outras formas de tratamento ilícito:\n\na) O controlo da entrada nas instalações físicas utilizadas para o armazenamento de dados;\n\nb) O controlo do acesso aos dados mediante autenticação do utilizador por certificado digital;\n\nc) A utilização de um canal que garanta a comunicação dos dados de forma segura;\n\nd) A manutenção de um registo electrónico contendo informação que permita identificar a pessoa que acedeu aos dados, os dados acedidos e a data e hora do acesso;\n\ne) A realização periódica de cópias de segurança dos dados.\n\n2 - Quando o acesso directo aos dados pelas entidades referidas no n.º 1 do artigo 8.º se fizer através de comunicação entre sistemas, tais entidades adoptam as medidas e procedimentos necessários à estrita observância das regras de segurança estabelecidas no número anterior.\n\n3 - O responsável pelo tratamento de dados bem como as entidades referidas no n.º 1 do artigo 8.º mantêm uma lista actualizada das pessoas autorizadas a aceder à base de dados."
+  },
+  "213504131": {
+   "fragment_id": "213506475",
+   "type": 11,
+   "heading": "Artigo 12.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sigilo profissional\n\nQuem, no exercício das suas funções, tome conhecimento dos dados constantes da base de dados de procurações fica obrigado a sigilo profissional, nos termos do artigo 17.º da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "213504132": {
+   "fragment_id": "213506476",
+   "type": 11,
+   "heading": "Artigo 13.º — Prazos de conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prazos de conservação dos dados\n\n1 - Os dados recolhidos ao abrigo do presente diploma são eliminados consoante o facto que ocorrer em primeiro lugar:\n\na) Com o registo da extinção da procuração a que digam respeito;\n\nb) Decorridos 15 anos a contar da data da outorga da procuração; ou\n\nc) Logo que deixem de ser estritamente necessários para os fins para que foram recolhidos.\n\n2 - Para efeitos das alíneas a) e b) do número anterior, o sistema informático assegura a eliminação imediata e automática dos dados referidos no artigo 5.º"
+  },
+  "213504133": {
+   "fragment_id": "213506477",
+   "type": 11,
+   "heading": "Artigo 14.º — Incumprimento da obrigação de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Incumprimento da obrigação de registo\n\nO incumprimento da obrigação de registo prevista nos n.os 1 e 2 do artigo 2.º gera responsabilidade disciplinar nos termos do disposto no artigo 61.º do Decreto-Lei n.º 26/2004, de 4 de Fevereiro."
+  },
+  "213504134": {
+   "fragment_id": "213506478",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto regulamentar entra em vigor no dia 30 de Junho de 2009.\n\n2 - O disposto nos n.os 1 e 2 do artigo 2.º entra em vigor no dia 31 de Março de 2009."
+  },
+  "213504135": {
+   "fragment_id": "213506479",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2008. - Luís Filipe Marques Amado - Rui Carlos Pereira - José Manuel Vieira Conde Rodrigues.\n\nPromulgado em 23 de Janeiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de Janeiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

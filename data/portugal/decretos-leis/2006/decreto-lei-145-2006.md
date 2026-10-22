@@ -1,0 +1,1497 @@
+---
+schema_version: '1.0'
+id: pt:dre:539387:por
+title: Decreto-Lei n.º 145/2006
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 10/2006, de 4 de Abril, transpõe para a ordem jurídica interna
+  a Directiva n.º 2002/87/CE, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativa à supervisão complementar de
+  instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro, e a Directiva n.º
+  2005/1/CE, do Parlamento Europeu e do Conselho, de 9 de Março, que estabelece uma nova estrutura orgânica para os comités
+  no domínio dos serviços financeiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 145/2006
+official_date: null
+publication_date: '2006-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/2006, Série I de 2006-07-31
+  number: '146'
+  series: I
+  supplement: null
+  pages: 5416 - 5432
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14600/54165432.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-01'
+version_history:
+  file: decreto-lei-145-2006.versoes.json
+  count: 5
+  source_lastmod: '2026-10-06'
+  versions:
+  - date: '2006-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-02-07'
+    amending: pt:dre:258114:por
+    amending_title: Decreto-Lei n.º 18/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+  - date: '2014-06-25'
+    amending: pt:dre:25676934:por
+    amending_title: Decreto-Lei n.º 91/2014
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Anexo
+    - Altera Capítulo I
+    - Altera Capítulo II
+  - date: '2022-02-01'
+    amending: pt:dre:175744218:por
+    amending_title: Decreto-Lei n.º 109-H/2021
+    changes:
+    - Altera Artigo 2.º
+  - date: '2026-09-01'
+    amending: pt:dre:1161839915:por
+    amending_title: Decreto-Lei n.º 171/2026
+    changes:
+    - Adita Artigo 16.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/145/2006/p/cons/20211210/pt/html
+  oj: null
+  dre: '539387'
+  dre_path: /dr/detalhe/decreto-lei/145-2006-539387
+  internal: pt:dre:539387:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387
+  metadata_url: https://data.dre.pt/eli/dec-lei/145/2006/p/cons/20211210/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-66773651
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-66773651
+  retrieved_at: '2026-10-22T13:58:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-06T00:00:00Z'
+integrity:
+  source_sha256: 64cf56e6f1ee37cc883d42eccafa3a829ec4a3bb51bc2a788d47b844efdf43eb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:58:42Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-145-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Seguradora
+- Contrato de Seguro
+- Aproximação das Legislações
+- CE Países
+- Contrato de Investimento
+- Coordenador
+- Definição de Competências
+- União Europeia
+- Fiscalização
+- Banco de Portugal
+- Instituto de Seguros de Portugal
+- Margem de Solvência
+- Mercado Financeiro
+- Países Terceiros
+- Prestação de Serviços
+- Produto Financeiro
+- Regime Geral das Instituições de Crédito e Sociedades Financeiras
+- Regime Jurídico
+- Companhia de Seguros
+- Instituição Financeira
+- Sociedade de Investimento
+- Sucursal
+- Empresa Estrangeira
+relationships:
+- type: amended_by
+  target: pt:dre:258114:por
+  label: Altera Artigo 2.º; Altera Artigo 7.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 24.º;
+    Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:25676934:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º;
+    Altera Artigo 11.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º;
+    Altera Artigo 22.º; Altera Anexo; Altera Capítulo I; Altera Capítulo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934
+  date: '2014-06-20'
+- type: amended_by
+  target: pt:dre:175744218:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218
+  date: '2021-12-10'
+- type: amended_by
+  target: pt:dre:1161839915:por
+  label: Adita Artigo 16.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915
+  date: '2026-08-26'
+- type: cites
+  target: celex:31973L0239
+  label: null
+  source: http://data.europa.eu/eli/dir/1973/239/oj
+- type: cites
+  target: celex:31979L0267
+  label: null
+  source: http://data.europa.eu/eli/dir/1979/267/oj
+- type: cites
+  target: celex:31985L0611
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/611/oj
+- type: cites
+  target: celex:31991L0067
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/67
+- type: cites
+  target: celex:31992L0049
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/49/oj
+- type: cites
+  target: celex:31992L0096
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/96/oj
+- type: cites
+  target: celex:31993L0006
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/6/oj
+- type: cites
+  target: celex:31993L0022
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/22/oj
+- type: cites
+  target: celex:31998L0078
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/78/oj
+- type: cites
+  target: celex:32000L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/12/oj
+- type: cites
+  target: celex:32002L0087
+  label: null
+  source: http://data.europa.eu/eli/dir/2002/87/oj
+- type: cites
+  target: celex:32005L0001
+  label: null
+  source: http://data.europa.eu/eli/dir/2005/1/oj
+- type: cites
+  target: celex:32010R1093
+  label: null
+  source: null
+- type: cites
+  target: celex:32010R1094
+  label: null
+  source: null
+- type: cites
+  target: celex:32010R1095
+  label: null
+  source: null
+- type: cites
+  target: celex:32023R2859
+  label: null
+  source: null
+article_structure:
+  article_count: 39
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:58:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 145/2006
+
+Decreto-Lei n.º 145/2006
+
+de 31 de Julho
+
+A recente evolução dos mercados financeiros tem conduzido à criação de grupos que fornecem serviços e produtos em diferentes sectores, denominados «conglomerados financeiros». Alguns destes conglomerados encontram-se entre os maiores grupos financeiros prestadores de serviços ao nível mundial. Se as instituições de crédito, empresas de seguros e empresas de investimento que pertencem a estes conglomerados forem confrontadas com dificuldades financeiras, estas podem desestabilizar seriamente o sistema financeiro e afectar os depositantes, os tomadores de seguros e os investidores.
+
+Até agora a legislação comunitária apenas previa um conjunto global de regras sobre a supervisão prudencial das instituições de crédito, empresas de seguros e empresas de investimento numa base individual e das entidades integradas num grupo bancário e de investimento ou num grupo segurador, ou seja, grupos com actividades financeiras homogéneas. Não existia qualquer regulamentação prudencial que permitisse a supervisão, ao nível do conglomerado, das entidades nele integradas, nomeadamente quanto a solvabilidade, concentração de riscos, operações intragrupo, processos internos de gestão de riscos e aptidão e idoneidade dos dirigentes.
+
+O plano de acção para os serviços financeiros elaborado pela Comissão Europeia identifica um conjunto de acções para assegurar a realização do mercado único dos serviços financeiros e anuncia a elaboração de legislação complementar sobre os conglomerados financeiros susceptível de colmatar as lacunas na regulamentação sectorial actual. Outros fóruns internacionais identificaram, igualmente, a necessidade de desenvolver conceitos adequados neste âmbito. Em Portugal, o reconhecimento da importância da actividade prosseguida pelos conglomerados financeiros e da oportunidade de as diversas autoridades de supervisão estreitarem a respectiva cooperação, criarem canais eficientes de comunicação de informações relevantes e coordenarem a sua actuação conduziu à instituição do Conselho Nacional dos Supervisores Financeiros, pelo Decreto-Lei n.º 228/2000, de 23 de Setembro.
+
+Considerando que um objectivo tão ambicioso só se alcançaria por etapas e que a introdução de uma supervisão complementar das instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro consubstanciasse uma dessas etapas, o Parlamento Europeu e o Conselho da União Europeia adoptaram, em finais de 2002, a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, de 16 de Dezembro, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro.
+
+Para ser eficaz, a supervisão complementar deve abranger todos os conglomerados com actividades financeiras intersectoriais significativas, daí que a regulamentação estabeleça limiares para a sua aplicação aos grupos financeiros, independentemente da forma como os mesmos se encontrem estruturados.
+
+Por outro lado, as autoridades de supervisão devem ter poderes para avaliar, ao nível do grupo, a situação financeira das instituições de crédito, empresas de seguros e empresas de investimento do conglomerado financeiro, nomeadamente quanto à solvência, à concentração de riscos e às operações intragrupo.
+
+Tendo em vista facilitar a supervisão complementar dos conglomerados financeiros, as autoridades de supervisão envolvidas deverão nomear de entre elas um coordenador, cujas atribuições não deverão afectar as funções e responsabilidades das autoridades de supervisão previstas na regulamentação sectorial.
+
+No que se refere à obtenção de informação, a nova regulamentação exige que as autoridades de supervisão envolvidas, e em especial o coordenador, disponham dos meios apropriados para obter das entidades de um conglomerado financeiro, ou de outras entidades competentes, os elementos pertinentes à execução das suas funções. Para o efeito, torna-se necessária a cooperação entre as autoridades supervisoras, designadamente mediante a celebração de acordos de cooperação.
+
+Relativamente às instituições de crédito, às empresas de seguros e às empresas de investimento sediadas na União Europeia que integrem um conglomerado financeiro mas cuja empresa-mãe seja de um país terceiro, há que sujeitá-las a um regime de supervisão complementar equivalente, que atinja objectivos e resultados semelhantes aos prosseguidos pela directiva. Para o efeito, são de maior importância a transparência das regras e o intercâmbio de informações com as autoridades de países terceiros, sempre que as circunstâncias o exijam. A existência de um regime de supervisão complementar equivalente pressupõe que as autoridades de supervisão do país terceiro acordem em cooperar com as autoridades de supervisão interessadas quanto às modalidades e aos objectivos do exercício da supervisão complementar.
+
+Para evitar discrepâncias entre as regras sectoriais e as regras relativas aos conglomerados financeiros, as primeiras devem ser minimamente complementadas.
+
+Aproveita-se o ensejo para, no que respeita ao regime do co-seguro, introduzir regras relativas à assinatura da apólice consentâneas com os novos sistemas de contratação entre as co-seguradoras e com a manutenção da protecção dos interesses dos tomadores. Finalmente, utiliza-se ainda esta oportunidade para transpor a Directiva n.º <a href="eurlex.asp?ano=2005&id=305L0001" title="Link para Directiva da Comunidade Europeia">2005/1/CE</a>, do Parlamento Europeu e do Conselho, de 9 de Março, que estabelece uma nova estrutura orgânica para os comités no domínio dos serviços financeiros, por forma a evitar modificações legislativas sucessivas nos regimes sectoriais.
+
+Assim, vem prever-se que a comunicação do Banco de Portugal e do Instituto de Seguros de Portugal à Comissão Europeia sobre certas ocorrências registadas relativamente ao acesso aos mercados nacionais, respectivamente bancário e financeiro e segurador, por empresas de países terceiros passa a ser efectuada, também respectivamente, às autoridades de supervisão bancárias e de sociedades financeiras e às autoridades de supervisão de seguros dos demais Estados membros.
+
+Foi ouvida a Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 10/2006, de 4 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro e que altera as Directivas n.os <a href="eurlex.asp?ano=1973&id=373L0239" title="Link para Directiva da Comunidade Europeia">73/239/CEE</a>, <a href="eurlex.asp?ano=1979&id=379L0267" title="Link para Directiva da Comunidade Europeia">79/267/CEE</a>, <a href="eurlex.asp?ano=1992&id=392L0049" title="Link para Directiva da Comunidade Europeia">92/49/CEE</a>, <a href="eurlex.asp?ano=1992&id=392L0096" title="Link para Directiva da Comunidade Europeia">92/96/CEE</a>, <a href="eurlex.asp?ano=1993&id=393L0006" title="Link para Directiva da Comunidade Europeia">93/6/CEE</a> e <a href="eurlex.asp?ano=1993&id=393L0022" title="Link para Directiva da Comunidade Europeia">93/22/CEE</a>, todas do Conselho, e as Directivas n.os <a href="eurlex.asp?ano=1998&id=398L0078" title="Link para Directiva da Comunidade Europeia">98/78/CE</a> e <a href="eurlex.asp?ano=2000&id=300L0012" title="Link para Directiva da Comunidade Europeia">2000/12/CE</a>, do Parlamento Europeu e do Conselho, bem como a Directiva n.º <a href="eurlex.asp?ano=2005&id=305L0001" title="Link para Directiva da Comunidade Europeia">2005/1/CE</a>, do Parlamento e do Conselho, de 9 de Março, que altera as Directivas n.os <a href="eurlex.asp?ano=1973&id=373L0239" title="Link para Directiva da Comunidade Europeia">73/239/CEE</a>, <a href="eurlex.asp?ano=1985&id=385L0611" title="Link para Directiva da Comunidade Europeia">85/611/CEE</a>, <a href="eurlex.asp?ano=1991&id=391L0675" title="Link para Directiva da Comunidade Europeia">91/675/CEE</a>, <a href="eurlex.asp?ano=1992&id=392L0049" title="Link para Directiva da Comunidade Europeia">92/49/CEE</a> e <a href="eurlex.asp?ano=1993&id=393L0006" title="Link para Directiva da Comunidade Europeia">93/6/CEE</a>, todas do Conselho, e as Directivas n.os <a href="eurlex.asp?ano=1994&id=394L0019" title="Link para Directiva da Comunidade Europeia">94/19/CE</a>, <a href="eurlex.asp?ano=1998&id=398L0078" title="Link para Directiva da Comunidade Europeia">98/78/CE</a>, <a href="eurlex.asp?ano=2000&id=300L0012" title="Link para Directiva da Comunidade Europeia">2000/12/CE</a>, <a href="eurlex.asp?ano=2001&id=301L0034" title="Link para Directiva da Comunidade Europeia">2001/34/CE</a>, <a href="eurlex.asp?ano=2002&id=302L0083" title="Link para Directiva da Comunidade Europeia">2002/83/CE</a> e <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, com vista a estabelecer uma nova estrutura orgânica para os comités no domínio dos serviços financeiros.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Instituição de crédito», uma empresa cuja atividade consiste em receber do público depósitos ou outros fundos reembolsáveis e em conceder crédito por conta própria;
+
+b) «Empresa de seguros», uma empresa nas seguintes aceções:
+
+i) Empresa que tenha recebido uma autorização administrativa para o exercício da atividade seguradora e resseguradora;
+
+ii) Empresa de seguros detida por uma instituição financeira que não seja uma empresa de seguros ou de resseguros, ou um grupo segurador ou ressegurador, ou por uma empresa não financeira, cujo objeto consista em fornecer uma cobertura de seguro exclusivamente aos riscos da empresa ou empresas a que pertence ou de uma empresa ou empresas do grupo de que faz parte (empresa de seguros cativa);
+
+iii) Empresa que seria obrigada a dispor de uma autorização administrativa enquanto empresa de seguros se a sua sede estivesse situada na União Europeia (empresa de seguros de um país terceiro);
+
+c) «Empresa de investimento», uma empresa de investimento tal como definida no Regime das Empresas de Investimento, ou uma sociedade cuja sede estatutária se situe num país terceiro e que necessitaria de autorização, ao abrigo daquele Regime, caso a sua sede estatutária se situasse em Portugal;
+
+d) «Entidade regulamentada», uma instituição de crédito, uma empresa de seguros ou de resseguros, uma empresa de investimento, uma sociedade gestora autorizada a gerir organismos de investimento coletivo em valores mobiliários ou uma sociedade autorizada a gerir organismos de investimento alternativo;
+
+e) «Regras setoriais», a legislação e regulamentação relativa à supervisão prudencial das entidades regulamentadas;
+
+f) «Sector financeiro» o sector composto por uma ou mais das seguintes entidades:
+
+i) Instituições de crédito, sociedades financeiras, instituições financeiras ou sociedades de serviços auxiliares (subsector bancário);
+
+ii) Empresas de seguros, na aceção das subalíneas i) e ii) da alínea b), empresas de resseguros, na aceção das subalíneas i) e ii) da alínea v), ou sociedades gestoras de participações no setor dos seguros, na aceção da alínea y) (subsetor dos seguros);
+
+iii) Empresas de investimento, sociedades financeiras ou instituições financeiras (subsector dos serviços de investimento);
+
+iv) [Revogada];
+
+g) «Empresa-mãe» uma empresa relativamente à qual se verifique alguma das seguintes situações:
+
+i) Ter a maioria dos direitos de voto de uma empresa, por si só ou na sequência de um acordo concluído com outros titulares de capital;
+
+ii) Ter o direito de designar ou de destituir a maioria dos membros do órgão de administração ou de fiscalização de uma outra empresa, sendo simultaneamente titular de capital dessa empresa;
+
+iii) Ter o direito de exercer uma influência dominante sobre uma empresa, por força de um contrato celebrado ou de uma cláusula dos estatutos, sendo simultaneamente titular de capital dessa empresa;
+
+iv) Ter nomeado, por efeito do exercício dos seus direitos de voto, a maioria dos membros do órgão de administração ou de fiscalização de uma empresa em funções durante o exercício em curso, bem como no exercício anterior e até à elaboração das contas consolidadas, sendo simultaneamente titular de capital dessa empresa;
+
+v) Exercer efectivamente uma influência dominante sobre outra empresa, no parecer das autoridades de supervisão;
+
+h) «Empresa filial» uma pessoa colectiva relativamente à qual outra pessoa colectiva, designada por empresa-mãe, se encontra numa das situações previstas na alínea anterior, considerando-se que a filial de uma filial é igualmente filial da empresa-mãe de que ambas dependem;
+
+i) «Participação» os direitos no capital de outras empresas desde que criem ligações duradouras com estas e se destinem a contribuir para a actividade da empresa, sendo que é sempre considerada uma participação a detenção, directa ou indirecta, de pelo menos 20% ou dos direitos de voto ou do capital de uma empresa;
+
+j) «Grupo» um conjunto de empresas:
+
+i) Constituído por uma empresa-mãe, pelas suas filiais e pelas participações da empresa-mãe e das filiais; ou
+
+ii) Colocadas sob uma direcção única por força de um contrato ou de cláusulas estatutárias; ou
+
+iii) Cujos órgãos de administração ou de fiscalização sejam compostos na maioria pelas mesmas pessoas que exerciam funções durante o exercício e até à elaboração das contas consolidadas;
+
+l) «Companhia financeira mista» uma empresa-mãe, que não é uma entidade regulamentada, a qual, em conjunto com as suas filiais, de que pelo menos uma é uma entidade regulamentada sediada na União Europeia, e com quaisquer outras entidades, constitui um conglomerado financeiro;
+
+m) «Autoridades de supervisão», as autoridades nacionais dos Estados-Membros da União Europeia dotadas dos poderes legais ou regulamentares para supervisionar, quer individualmente quer ao nível do grupo, as instituições de crédito, as empresas de seguros e de resseguros, as empresas de investimento, as sociedades autorizadas a gerir organismos de investimento coletivo em valores mobiliários e as sociedades autorizadas a gerir organismos de investimento alternativo;
+
+n) «Autoridades de supervisão relevantes»:
+
+i) As autoridades responsáveis pela supervisão setorial de qualquer das entidades regulamentadas de um conglomerado financeiro e em particular da empresa-mãe líder de um subsetor;
+
+ii) O coordenador nomeado em conformidade com o artigo 17.º, se for diferente das autoridades referidas na subalínea anterior;
+
+iii) Outras autoridades de supervisão consideradas relevantes pelas autoridades de supervisão e pelo coordenador referidos nas subalíneas anteriores, tendo especialmente em conta a quota de mercado das entidades regulamentadas do conglomerado financeiro noutros Estados-Membros, em particular sendo superior a 5 %, e a importância de qualquer entidade regulamentada de outro Estado-Membro nesse conglomerado financeiro;
+
+o) «Operações intragrupo» todas as operações, para cumprimento de uma obrigação, contratual ou não, e a título oneroso ou não, em que as entidades regulamentadas recorrem directa ou indirectamente a outras empresas do mesmo grupo ou a qualquer pessoa, singular ou colectiva, ligada às empresas pertencentes a esse grupo:
+
+i) Através de uma participação;
+
+ii) Através de uma relação de controlo;
+
+iii) De modo duradouro a uma mesma entidade através de uma relação de controlo;
+
+p) «Concentração de riscos» qualquer exposição a riscos, designadamente a riscos de contraparte ou de crédito, de investimento, de seguro ou de mercado ou de uma combinação destes riscos que implique eventuais perdas a suportar pelas entidades de um conglomerado financeiro, desde que essa exposição ponha em perigo a solvência ou a situação financeira geral das entidades regulamentadas desse conglomerado;
+
+q) «Subsector financeiro de menor dimensão» o subsector de um conglomerado financeiro com a média mais baixa, calculada de acordo com as regras da subalínea i) da alínea b) do n.º 2 do artigo 3.º, sendo que para este cálculo o subsector bancário e o subsector dos serviços de investimento são considerados conjuntamente;
+
+r) «Subsector financeiro de maior dimensão» o subsector de um conglomerado financeiro com a média mais elevada, calculada nos termos da alínea anterior.
+
+s) «Autoridades Europeias de Supervisão», a Autoridade Bancária Europeia, criada pelo Regulamento (UE) n.º 1093/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma, criada pelo Regulamento (UE) n.º 1094/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, e a Autoridade Europeia dos Valores Mobiliários e dos Mercados, criada pelo Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
+
+t) «Sociedade autorizada a gerir organismos de investimento coletivo em valores mobiliários», uma sociedade cuja atividade habitual consista na gestão de organismos de investimento coletivo em valores mobiliários, podendo gerir, em paralelo, outros organismos de investimento coletivo, ou uma sociedade cuja sede estatutária se situe num país terceiro e que necessitaria de autorização, caso a sua sede estatutária se situasse em Portugal e pretendesse exercer a referida atividade habitual;
+
+u) «Sociedade autorizada a gerir organismos de investimento alternativo», uma sociedade cuja atividade habitual consista na gestão de organismos de investimento coletivo que não sejam organismos de investimento coletivo em valores mobiliários ou uma sociedade cuja sede estatutária se situe num país terceiro e que necessitaria de autorização, caso a sua sede estatutária se situasse em Portugal e pretendesse exercer a referida atividade habitual;
+
+v) «Empresa de resseguros», uma empresa nas seguintes aceções:
+
+i) Empresa que tenha recebido uma autorização administrativa para o exercício da atividade resseguradora;
+
+ii) Empresa de resseguros detida por uma instituição financeira que não seja uma empresa de seguros ou de resseguros ou um grupo segurador ou ressegurador, ou por uma empresa não financeira, cujo objeto consista em fornecer uma cobertura de resseguro exclusivamente aos riscos da empresa ou empresas a que pertence ou de uma empresa ou empresas do grupo de que faz parte (empresa de resseguros cativa);
+
+iii) Empresa que seria obrigada a dispor de uma autorização administrativa enquanto empresa de resseguros se a sua sede estivesse situada na União Europeia (empresa de resseguros de um país terceiro);
+
+iv) Empresa, com ou sem personalidade jurídica, que não seja uma empresa de seguros ou de resseguros, que assume riscos de empresas de seguros e de resseguros e financia integralmente as exposições a esses riscos através do produto da emissão de títulos de dívida ou de qualquer outro mecanismo de financiamento em que os direitos de reembolso dos investidores nesses títulos de dívida ou mecanismos de financiamento estão subordinados às obrigações de resseguro da empresa em questão (entidade com objeto específico de titularização de riscos de seguros);
+
+x) «Controlo», a relação entre uma empresa mãe e uma empresa filial ou uma relação da mesma natureza entre uma pessoa singular ou coletiva e uma empresa;
+
+y) «Sociedade gestora de participações no setor dos seguros», uma empresa mãe que não seja uma companhia financeira mista e cuja atividade principal consista na aquisição e detenção de participações em empresas filiais, quando essas empresas sejam exclusiva ou principalmente empresas de seguros, empresas de resseguros ou empresas de seguros ou de resseguros de um país terceiro, sendo pelo menos uma destas filiais uma empresa de seguros ou uma empresa de resseguros.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934) Os critérios previstos na subalínea iii) da alínea n) do presente artigo, são aplicáveis até à entrada em vigor das normas técnicas de regulamentação adotadas nos termos da alínea c) do n.º 1 do artigo 21.º-A da Diretiva n.º 2002/87/CE, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2002.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+### Capítulo II — Identificação de um conglomerado financeiro
+
+###### Artigo 3.º — Condições
+
+1 - Considera-se um conglomerado financeiro um grupo que satisfaz uma das seguintes condições:
+
+a) Ser liderado por uma entidade regulamentada autorizada na União Europeia que é uma empresa-mãe de uma entidade do sector financeiro, uma entidade detentora de uma participação numa entidade do sector financeiro ou uma entidade ligada a uma entidade do sector financeiro por uma relação de grupo;
+
+b) Não sendo liderado por uma entidade regulamentada autorizada na União Europeia, pelo menos uma das filiais do grupo ser uma entidade regulamentada autorizada nesse espaço e o rácio entre o total do balanço das entidades do sector financeiro regulamentadas e não regulamentadas do grupo e o total do balanço de todo o grupo exceder 40%.
+
+2 - Verificada uma das situações previstas no número anterior, para que um grupo possa ser considerado um conglomerado financeiro devem ainda ser satisfeitas, cumulativamente, as seguintes condições:
+
+a) Pelo menos uma das entidades do grupo deve pertencer ao subsector dos seguros e outra ao subsector bancário ou dos serviços de investimento;
+
+b) As actividades consolidadas e ou agregadas do grupo no subsector dos seguros e as actividades consolidadas e ou agregadas do grupo nos subsectores bancário e dos serviços de investimentos serem significativas, ou seja:
+
+i) Evidenciarem, para cada subsector, uma média do rácio entre o total do seu balanço e o total do balanço das entidades do sector financeiro do grupo e do rácio entre os requisitos de solvência do mesmo subsector e os requisitos de solvência totais das entidades do sector financeiro do grupo superior a 10%; ou
+
+ii) O total do balanço do subsector financeiro de menor dimensão do grupo exceder 6 mil milhões de euros.
+
+3 - Para efeitos do número anterior, o subsector bancário e o subsector dos serviços de investimento são considerados em conjunto.
+
+4 - Qualquer subgrupo de um grupo que satisfaça as condições dos números anteriores é um conglomerado financeiro.
+
+5 - As sociedades autorizadas a gerir organismos de investimento coletivo em valores mobiliários e as sociedades autorizadas a gerir organismos de investimento alternativo são incluídas no subsetor a que pertencem no seio do grupo e, se não pertencerem exclusivamente a um subsetor no seio do grupo, são incluídas no subsetor financeiro de menor dimensão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 4.º — Regras especiais
+
+1 - Para efeitos da identificação de um conglomerado financeiro nos termos do artigo anterior, as autoridades de supervisão relevantes podem, de comum acordo:
+
+a) Excluir uma entidade do cálculo dos rácios, nos casos referidos no n.º 1 do artigo 12.º, a menos que a entidade se tenha deslocado de um Estado-Membro para um país terceiro e haja provas de que tal mudança se destinou a evitar a regulação;
+
+b) Tomar em consideração o cumprimento dos limiares previstos na alínea b) do n.º 1 do artigo anterior e na subalínea i) da alínea b) do n.º 2 do mesmo artigo durante três anos consecutivos, de modo a evitar alterações súbitas de regime, e não ter em conta esse cumprimento verificando-se alterações significativas da estrutura do grupo;
+
+c) Em casos excecionais, substituir ou acrescentar ao critério baseado no total do balanço a estrutura dos proveitos, as atividades extrapatrimoniais e ou o total de ativos sob gestão, desde que estes assumam especial importância para efeitos da supervisão complementar prevista nos termos do presente decreto-lei;
+
+d) Excluir uma ou mais participações do subsetor de menor dimensão, caso tais participações sejam determinantes para a identificação de um conglomerado financeiro e, no seu conjunto, sejam de interesse negligenciável a respeito dos objetivos da supervisão complementar.
+
+2 - Identificado um conglomerado financeiro nos termos do disposto na alínea b) do n.º 1 do artigo anterior e na subalínea i) da alínea b) do n.º 2 do mesmo artigo, as decisões referidas nas alíneas a) e b) do número anterior tomam-se com base numa proposta apresentada pelo respectivo coordenador.
+
+3 - Para efeitos de aplicação da alínea b) do n.º 1 do artigo anterior e da subalínea i) da alínea b) do n.º 2 do mesmo artigo, se os rácios nelas referidos forem inferiores, respectivamente, a 40% e a 10% para os conglomerados financeiros já sujeitos a supervisão complementar, aplica-se, durante os três anos subsequentes, um rácio de 35% e de 8%, respectivamente, por forma a evitar alterações súbitas de regime.
+
+4 - Para efeitos de aplicação da subalínea ii) da alínea b) do n.º 2 do artigo anterior, se o total do balanço do subsector financeiro de menor dimensão for inferior a 6 mil milhões de euros para os conglomerados financeiros já sujeitos a supervisão complementar, aplica-se, durante os três anos subsequentes, um valor de 5 mil milhões de euros, por forma a evitar alterações súbitas de regime.
+
+5 - Durante o período referido nos n.os 3 e 4, o coordenador pode, com o acordo das demais autoridades de supervisão relevantes, decidir que os limites mais baixos referidos nesses números deixem de se aplicar.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 5.º — Exclusão do regime de supervisão complementar
+
+1 - Se o total do balanço do subsetor financeiro de menor dimensão do grupo exceder os seis mil milhões de euros previstos na subalínea ii) da alínea b) do n.º 2 do artigo 3.º, mas não atingir a média do rácio dos 10 % referido na subalínea i) da alínea b) do n.º 2 do mesmo artigo, as autoridades de supervisão relevantes podem decidir, de comum acordo, não considerar o grupo um conglomerado financeiro ou não aplicar as regras da supervisão complementar relativas à concentração de riscos, às operações intragrupo, aos processos de gestão de riscos e aos mecanismos de controlo interno, se entenderem que a inclusão do grupo no âmbito do presente decreto-lei ou a aplicação das referidas regras não é necessária, não é adequada ou induz em erro relativamente aos objetivos de supervisão complementar.
+
+2 - Se o grupo atingir a média do rácio superior a 10 %, referida na subalínea i) da alínea b) do n.º 2 do artigo 3.º, mas o subsetor de menor dimensão não exceder seis mil milhões de euros, as autoridades de supervisão relevantes podem decidir, de comum acordo, não considerar o grupo um conglomerado financeiro ou não aplicar as regras da supervisão complementar relativas à concentração de riscos, às operações intragrupo, aos processos de gestão de riscos e aos mecanismos de controlo interno, se entenderem que a inclusão do grupo no âmbito do presente decreto-lei ou a aplicação das referidas regras não é necessária, não é adequada ou induz em erro relativamente aos objetivos de supervisão complementar.
+
+3 - As decisões tomadas de acordo com o presente artigo são notificadas às demais autoridades de supervisão interessadas pelo coordenador, ou pela autoridade que seria o coordenador caso o grupo fosse considerado um conglomerado financeiro e, salvo em circunstâncias excecionais, são divulgadas publicamente pelas autoridades de supervisão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 6.º — Regras de cálculo
+
+1 - O cálculo relativo ao total do balanço a que se refere o artigo 3.º efectua-se com base no balanço consolidado, quando disponível, ou no total do balanço agregado das entidades do grupo, de acordo com as respectivas contas anuais.
+
+2 - O cálculo do total do balanço agregado toma em consideração a quota-parte proporcional agregada do total do balanço das empresas em que o grupo detenha uma participação.
+
+3 - O cálculo dos requisitos de solvência a que se refere a alínea b) do n.º 2 do artigo 3.º segue o disposto nas regras sectoriais relevantes.
+
+###### Artigo 7.º — Processo de identificação
+
+1 - As entidades regulamentadas informam as autoridades de supervisão relevantes de que constituem um conglomerado financeiro, caso considerem preenchidas as condições previstas no artigo 3.º
+
+2 - A identificação dos conglomerados financeiros cabe às autoridades de supervisão que autorizaram as entidades regulamentadas desse grupo, as quais cooperam estreitamente entre si.
+
+3 - Se uma autoridade de supervisão considerar que uma entidade regulamentada, por si autorizada, é membro de um grupo que pode ser considerado um conglomerado financeiro, que não tenha ainda sido identificado como tal, informa de tal facto as demais autoridades de supervisão interessadas e o Comité Conjunto das Autoridades Europeias de Supervisão.
+
+4 - Compete ao coordenador informar as seguintes entidades da identificação de determinado grupo como conglomerado financeiro e da sua nomeação como coordenador:
+
+a) A empresa-mãe líder do grupo ou, na sua falta, a entidade regulamentada com o total do balanço mais elevado do subsector financeiro de maior dimensão;
+
+b) As autoridades de supervisão que autorizaram as entidades regulamentadas do grupo;
+
+c) As autoridades de supervisão dos Estados membros onde a companhia financeira mista tem a sua sede;
+
+d) O Comité Conjunto das Autoridades Europeias de Supervisão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+### Capítulo III — Supervisão complementar
+
+#### Secção I — Âmbito de aplicação
+
+###### Artigo 8.º — Regras sectoriais
+
+O presente capítulo aplica-se à supervisão complementar, sem prejuízo das disposições em matéria de supervisão constantes das regras sectoriais.
+
+###### Artigo 9.º — Entidades sujeitas a supervisão complementar
+
+1 - Está sujeita a supervisão complementar ao nível do conglomerado financeiro qualquer entidade regulamentada autorizada na União Europeia que satisfaça uma das seguintes condições:
+
+a) Lidere um conglomerado financeiro;
+
+b) A respectiva empresa-mãe seja uma companhia financeira mista sediada na União Europeia;
+
+c) Esteja ligada a outra entidade do sector financeiro por uma relação de grupo.
+
+2 - Sendo o conglomerado financeiro um subgrupo de outro conglomerado financeiro que satisfaça os requisitos do número anterior, ficam ambos sujeitos a supervisão complementar.
+
+3 - As autoridades de supervisão relevantes podem decidir de comum acordo dispensar o subgrupo da supervisão complementar se considerarem que a mesma não se justifica no caso de um conglomerado financeiro ser liderado por uma entidade regulamentada autorizada em Portugal.
+
+4 - Qualquer entidade regulamentada que não esteja sujeita a supervisão complementar em conformidade com o n.º 1 e cuja empresa-mãe seja uma entidade regulamentada ou uma companhia financeira mista sediada fora da União Europeia fica sujeita a supervisão complementar ao nível do conglomerado financeiro, na medida e na forma previstas nos artigos 29.º e 30.º
+
+5 - Nos casos em que pessoas detêm participações no capital de uma ou mais entidades regulamentadas ou têm com elas ligações de capital, ou exercem uma influência significativa sobre tais entidades sem deterem uma participação ou uma ligação de capital, com exclusão dos casos referidos nos números anteriores, as autoridades de supervisão relevantes determinam, de comum acordo, se e em que medida as entidades regulamentadas são sujeitas a supervisão complementar e se estas constituem um conglomerado financeiro.
+
+6 - Para efeitos da aplicação da supervisão complementar prevista no número anterior, pelo menos uma das entidades deve ser uma entidade regulamentada autorizada num dos Estados membros e devem ser satisfeitas as condições referidas no n.º 2 do artigo 3.º
+
+7 - [Revogado].
+
+8 - As autoridades de supervisão reavaliam anualmente as dispensas à aplicação da supervisão complementar e reveem os indicadores quantitativos estabelecidos no presente artigo e as avaliações baseadas no risco aplicadas aos grupos financeiros.
+
+9 - O exercício da supervisão complementar a nível do conglomerado financeiro não implica, para as autoridades de supervisão, a obrigação de sujeitarem a supervisão, numa base individual, as companhias financeiras mistas, as entidades regulamentadas de países terceiros de um conglomerado financeiro ou as entidades não regulamentadas de um conglomerado financeiro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 10.º — Domínios da supervisão complementar
+
+A supervisão complementar abrange os seguintes domínios:
+
+a) A adequação de fundos próprios;
+
+b) A concentração de riscos;
+
+c) As operações intragrupo;
+
+d) Os processos de gestão de riscos;
+
+e) Os mecanismos de controlo interno.
+
+#### Secção II — Domínios da supervisão complementar
+
+###### Artigo 11.º — Adequação de fundos próprios
+
+1 - As entidades sujeitas a supervisão complementar devem dispor de fundos próprios cujo montante, ao nível do conglomerado financeiro, é pelo menos igual aos requisitos de fundos próprios, calculados em conformidade com um dos métodos previstos no anexo relativo à adequação de fundos próprios, que faz parte integrante do presente decreto-lei.
+
+2 - Quando um conglomerado financeiro seja liderado por uma entidade regulamentada autorizada em Portugal ou por uma entidade não regulamentada e todas as autoridades de supervisão relevantes são nacionais, o cálculo referido no número anterior é efectuado de acordo com o método de consolidação contabilístico previsto no anexo.
+
+3 - Na ausência de contas consolidadas ao nível do conglomerado financeiro, mediante a consolidação dos subsectores bancário e dos serviços de investimentos com o subsector dos seguros, o cálculo é realizado pela conjugação dos métodos da consolidação contabilística e da dedução e agregação.
+
+4 - Nos restantes casos, o cálculo realiza-se segundo o método a decidir pelo coordenador, após consulta das restantes autoridades de supervisão relevantes e do conglomerado financeiro.
+
+5 - As companhias financeiras mistas e todas as entidades do conglomerado financeiro que integram o setor financeiro são incluídas no cálculo da adequação de fundos próprios, na forma e na medida definidas no anexo ao presente decreto-lei.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 12.º — Exclusão de entidades para efeitos de cálculo de adequação de fundos próprios
+
+1 - O coordenador pode decidir não incluir uma determinada entidade no âmbito do cálculo do requisito de adequação de fundos próprios nos seguintes casos:
+
+a) Se a entidade estiver estabelecida num país terceiro onde existam obstáculos jurídicos à transferência das informações necessárias;
+
+b) Se a entidade apresentar um interesse negligenciável relativamente aos objectivos da supervisão complementar;
+
+c) Se a inclusão da entidade for inadequada ou for susceptível de induzir em erro do ponto de vista dos objectivos da supervisão complementar.
+
+2 - Quando houver lugar à exclusão de várias entidades nos termos do disposto na alínea b) do número anterior, estas são incluídas se no seu conjunto apresentarem um interesse não negligenciável.
+
+3 - Para efeitos do disposto na alínea c) do n.º 1, o coordenador, salvo em caso de urgência, consulta as demais autoridades de supervisão relevantes antes de tomar a decisão.
+
+4 - Nas situações previstas nas alíneas b) e c) do n.º 1, as autoridades de supervisão do Estado membro da entidade regulamentada excluída podem requerer à entidade que lidera o conglomerado financeiro as informações susceptíveis de facilitar a supervisão dessa entidade.
+
+###### Artigo 13.º — Concentração de riscos e operações intragrupo
+
+1 - Na supervisão complementar nos domínios da concentração de riscos e das operações intragrupo cabe ao coordenador, após consulta das restantes autoridades de supervisão relevantes:
+
+a) Determinar o tipo dos riscos e das operações sobre os quais são prestadas informações;
+
+b) Definir os limiares adequados, baseados nos fundos próprios regulamentares ou nas provisões técnicas, ou em ambos, para efeitos de determinar quais são as operações intragrupo e as concentrações de risco significativas a notificar.
+
+2 - Sem prejuízo do disposto na alínea b) do número anterior, considera-se significativa a operação intragrupo cujo valor exceda, pelo menos, 5% do valor total dos requisitos de fundos próprios ao nível de um conglomerado financeiro.
+
+3 - Para efeitos do disposto nos números anteriores, são tomadas em consideração a estrutura específica do grupo e a da sua gestão dos riscos.
+
+4 - Ao proceder à supervisão das concentrações de riscos e das operações intragrupo, o coordenador atende, em especial, ao eventual risco de contágio no conglomerado financeiro, ao risco de conflito de interesses e ao risco de incumprimento das regras sectoriais, bem como ao nível e ao volume desses riscos.
+
+5 - Sendo o conglomerado financeiro liderado por uma companhia financeira mista, as regras sectoriais relativas à concentração de riscos e às operações intragrupo do subsector financeiro de maior dimensão, se existirem, aplicam-se a todo o sector financeiro, incluindo a companhia financeira mista.
+
+###### Artigo 14.º — Prestação de informação
+
+1 - No âmbito da supervisão complementar, devem ser submetidas ao coordenador informações relativamente:
+
+a) Ao cálculo da adequação de fundos próprios, bem como aos dados que o suportem;
+
+b) Às concentrações de riscos importantes à escala do conglomerado financeiro;
+
+c) Às operações intragrupo significativas no quadro do conglomerado financeiro.
+
+2 - Os resultados do cálculo da adequação de fundos próprios e os dados que o suportam, bem como a informação relativa à concentração de riscos, reportam-se ao final de cada semestre e são enviados ao coordenador no prazo de 60 dias após a data a que se referem.
+
+3 - A informação relativa às operações intragrupo realizadas durante o semestre é enviada ao coordenador no prazo de 60 dias após o final daquele período.
+
+4 - O coordenador pode determinar o envio da informação noutras datas, ou com uma periodicidade diferente da definida.
+
+5 - Para efeitos do presente artigo, as informações são submetidas ao coordenador pela entidade regulamentada autorizada na União Europeia que lidere o conglomerado financeiro ou, não existindo, pela companhia financeira mista ou pela entidade regulamentada do conglomerado financeiro identificado pelo coordenador após consulta das demais autoridades de supervisão relevantes e do conglomerado financeiro.
+
+###### Artigo 15.º — Processos de gestão de riscos
+
+1 - As entidades sujeitas a supervisão complementar devem possuir, ao nível do conglomerado financeiro, processos adequados de gestão de riscos.
+
+2 - Os processos adequados de gestão de riscos incluem:
+
+a) A boa gestão e governação, com a aprovação e a revisão periódica das estratégias e políticas pelos órgãos de administração competentes ao nível do conglomerado financeiro, relativamente a todos os riscos assumidos;
+
+b) Uma política de adequação de fundos próprios que permita antecipar o impacte da sua estratégia de negócio no perfil de risco e nos requisitos de fundos próprios;
+
+c) Procedimentos que garantam a boa integração dos sistemas de acompanhamento do risco na organização e a consistência dos sistemas implementados de forma a medir, acompanhar e controlar os riscos.
+
+d) Procedimentos de gestão de riscos que contribuam, quando necessário, para desencadear mecanismos e planos adequados de recuperação e resolução.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 16.º — Mecanismos de controlo interno
+
+1 - As entidades sujeitas a supervisão complementar devem possuir, ao nível do conglomerado financeiro, mecanismos adequados de controlo interno, incluindo procedimentos administrativos e contabilísticos sólidos.
+
+2 - Os mecanismos adequados de controlo interno incluem:
+
+a) Procedimentos relativos à adequação de fundos próprios que permitam identificar e medir os riscos materiais incorridos e que estabeleçam uma relação adequada entre os fundos próprios e os riscos;
+
+b) Procedimentos de prestação de informações e contabilísticos sólidos que permitam medir, acompanhar e controlar as operações intragrupo e as concentrações de riscos;
+
+c) Mecanismos que assegurem a produção de quaisquer dados e informações relevantes para a supervisão complementar.
+
+3 - As entidades sujeitas a supervisão complementar ao nível do conglomerado financeiro fornecem no mínimo anualmente, com referência a 31 de dezembro do ano anterior, às respetivas autoridades de supervisão, dados pormenorizados sobre a sua estrutura jurídica, organizativa e de governo, incluindo todas as entidades regulamentadas, filiais não regulamentadas e sucursais significativas.
+
+4 - As entidades regulamentadas publicam anualmente, ao nível do conglomerado financeiro, expressamente ou por remissão para informações equivalentes, uma descrição da sua estrutura jurídica, organizativa e de governo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 16.º-A — Acessibilidade da informação no ponto de acesso único europeu
+
+1 - As entidades regulamentadas sujeitas a supervisão complementar ao nível do conglomerado financeiro, quando publicam as informações previstas no n.º 4 do artigo anterior, fornecem-nas simultaneamente ao organismo de recolha competente, para efeitos de as tornar acessíveis no ponto de acesso único europeu (ESAP).
+
+2 - As informações previstas no número anterior são:
+
+a) Transmitidas num formato que permita a extração de dados, na aceção do ponto 3 do artigo 2.º do Regulamento (UE) 2023/2859, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023, ou, quando tal for exigido pelo direito da União Europeia, num formato legível por máquina, na aceção do ponto 4 do artigo 2.º desse regulamento;
+
+b) Acompanhadas dos seguintes metadados:
+
+i) A denominação social da entidade regulamentada à qual as informações dizem respeito;
+
+ii) O identificador designado por Legal Entity Identifier, conforme definido no Decreto-Lei n.º 202/2015, de 17 de setembro, da entidade regulamentada;
+
+iii) A dimensão da entidade regulamentada por categoria, especificada nos termos da alínea d) do n.º 4 do artigo 7.º do Regulamento (UE) 2023/2859, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023;
+
+iv) O tipo de informação, classificado nos termos da alínea c) do n.º 4 do mesmo artigo;
+
+v) A indicação sobre se as informações contêm dados pessoais.
+
+3 - Para efeitos do disposto na subalínea ii) da alínea b) do número anterior, as entidades regulamentadas obtêm o identificador designado por Legal Entity Identifier, conforme definido no Decreto-Lei n.º 202/2015, de 17 de setembro.
+
+4 - Para efeitos do disposto neste artigo, o organismo de recolha competente é, consoante aplicável:
+
+a) A Autoridade de Supervisão de Seguros e Fundos de Pensões, para as entidades regulamentadas que sejam autorizadas como empresa de seguros ou como empresa de resseguros, de acordo com as definições constantes do artigo 2.º;
+
+b) O Banco de Portugal, para as entidades regulamentadas que sejam autorizadas como instituição de crédito, de acordo com a definição constante do artigo 2.º;
+
+c) A Comissão do Mercado de Valores Mobiliários, para as entidades regulamentadas que sejam autorizadas como empresa de investimento, sociedade gestora autorizada a gerir organismos de investimento coletivo em valores mobiliários ou sociedade autorizada a gerir organismos de investimento alternativo, de acordo com a definição constante do artigo 2.º
+
+> Nota: [Artigo 17.º, Decreto-Lei n.º 171/2026 - Diário da República n.º 165/2026, Série I de 2026-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915) O disposto no presente artigo, produz efeitos a partir do dia 10 de janeiro de 2030, sendo a primeira informação disponibilizada pelas entidades regulamentadas à autoridade de recolha competente até 31 de março de 2030, por referência a 31 de dezembro do ano anterior.
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 171/2026 - Diário da República n.º 165/2026, Série I de 2026-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915), em vigor a partir de 2026-09-01.
+
+#### Secção III — Coordenador
+
+###### Artigo 17.º — Nomeação do coordenador
+
+1 - As autoridades de supervisão dos Estados membros interessados, incluindo as do Estado membro em que a companhia financeira mista tem sede, nomeiam, de entre si, um único coordenador, responsável pela coordenação e pelo exercício da supervisão complementar das entidades sujeitas a supervisão complementar.
+
+2 - A nomeação do coordenador baseia-se nos seguintes critérios:
+
+a) Quando a empresa-mãe que lidera um conglomerado financeiro seja uma entidade regulamentada, a função de coordenador é desempenhada pela autoridade de supervisão que autorizou essa entidade;
+
+b) Quando um conglomerado financeiro não seja liderado por uma entidade regulamentada, a função de coordenador é desempenhada pela autoridade de supervisão identificada em conformidade com os seguintes princípios:
+
+i) Quando a empresa-mãe de uma entidade regulamentada seja uma companhia financeira mista, a função de coordenador é desempenhada pela autoridade de supervisão que autorizou essa entidade;
+
+ii) Quando pelo menos duas entidades regulamentadas sediadas na União Europeia tenham como empresa-mãe a mesma companhia financeira mista e uma dessas entidades tenha sido autorizada no Estado-Membro em que a companhia financeira mista tem a sua sede, a função de coordenador é desempenhada pela autoridade de supervisão que autorizou a referida entidade regulamentada;
+
+iii) Quando várias entidades regulamentadas que operam em diferentes subsectores financeiros tenham sido autorizadas no Estado membro em que a companhia financeira mista que lidera o conglomerado financeiro tem a sua sede, a função de coordenador é desempenhada pela autoridade de supervisão da entidade regulamentada que opera no subsector financeiro de maior dimensão;
+
+iv) Quando pelo menos duas entidades regulamentadas sediadas na União Europeia tenham como empresa-mãe a mesma companhia financeira mista e nenhuma dessas entidades regulamentadas tenha sido autorizada no Estado-Membro em que a companhia financeira mista tem a sua sede, a função de coordenador é desempenhada pela autoridade de supervisão que autorizou a entidade regulamentada com o total do balanço mais elevado do subsetor financeiro de maior dimensão;
+
+v) Quando o conglomerado financeiro seja liderado por várias companhias financeiras mistas sediadas em diferentes Estados membros e exista uma entidade regulamentada em cada um destes Estados membros, a função de coordenador é desempenhada pela autoridade de supervisão da entidade regulamentada com o total do balanço mais elevado, se essas entidades operarem no mesmo subsector financeiro, ou pela autoridade de supervisão da entidade regulamentada que opera no subsector financeiro de maior dimensão;
+
+vi) Quando o conglomerado financeiro seja um grupo sem uma empresa-mãe, ou em qualquer outro caso, a função de coordenador é desempenhada pela autoridade de supervisão que autorizou a entidade regulamentada com o total do balanço mais elevado do subsector financeiro de maior dimensão.
+
+3 - Em casos especiais, as autoridades de supervisão relevantes podem, de comum acordo, não aplicar os critérios do número anterior se a sua aplicação for inadequada, tendo em conta a estrutura do conglomerado financeiro e a importância relativa das suas actividades em diferentes países, e nomear uma autoridade de supervisão diferente como coordenador.
+
+4 - Nos casos referidos no número anterior, antes de tomarem uma decisão, as autoridades de supervisão relevantes dão ao conglomerado financeiro a oportunidade de se pronunciar sobre essa nomeação.
+
+5 - A identidade do coordenador é publicada no sítio na Internet do Comité Conjunto das Autoridades Europeias de Supervisão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 18.º — Funções do coordenador
+
+1 - No âmbito da supervisão complementar, são funções do coordenador:
+
+a) Coordenar a recolha e a difusão das informações pertinentes ou essenciais, tanto no que respeita a questões correntes como a situações de emergência ao nível de um conglomerado financeiro, bem como das informações importantes para o exercício da supervisão no âmbito das regras sectoriais;
+
+b) Avaliar a situação financeira de um conglomerado financeiro e proceder à sua supervisão;
+
+c) Avaliar a conformidade com as regras relativas à adequação de fundos próprios, à concentração de riscos e às operações intragrupo;
+
+d) Avaliar a estrutura, a organização e os sistemas de controlo interno do conglomerado financeiro;
+
+e) Planificar e coordenar as actividades de supervisão ao nível do conglomerado financeiro, tanto no que respeita a questões correntes como a situações de emergência, em cooperação com as autoridades de supervisão relevantes envolvidas;
+
+f) Realizar quaisquer outras tarefas ou tomar medidas ou decisões atribuídas por acordos de cooperação ou em consequência da aplicação do presente decreto-lei.
+
+g) Assegurar, quando necessário, a realização de testes de esforço adequados e regulares dos conglomerados financeiros;
+
+h) Decidir, na qualidade de presidente do colégio criado no subsetor relevante, quais as outras autoridades de supervisão que participam numa reunião ou numa atividade desse colégio;
+
+i) Prestar ao Comité Conjunto das Autoridades Europeias de Supervisão as informações previstas na alínea c) do n.º 2 do artigo 16.º e na alínea a) do artigo 20.º
+
+2 - Sem prejuízo da possibilidade de delegação de competências, a presença de um coordenador responsável pelas tarefas específicas da supervisão complementar em nada afecta as tarefas e responsabilidades que incumbem às autoridades de supervisão ao abrigo das regras sectoriais.
+
+3 - O tratamento de dados pessoais de accionistas e membros dos órgãos de administração e fiscalização de entidades sujeitas a supervisão complementar, quando o coordenador seja uma autoridade de supervisão nacional, deve respeitar as normas procedimentais, as normas de protecção de dados pessoais e as medidas especiais de segurança previstas na Lei n.º 67/98, de 26 de Outubro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+#### Secção IV — Cooperação
+
+###### Artigo 19.º — Autoridades abrangidas pela cooperação
+
+1 - As autoridades de supervisão das entidades sujeitas a supervisão complementar e o coordenador do conglomerado financeiro operam em estreita cooperação entre si.
+
+2 - As autoridades de supervisão nacionais trocam entre si e com as autoridades de supervisão de outros Estados membros, sempre que tal lhes for pedido ou por sua iniciativa, quaisquer informações essenciais ou pertinentes para a execução das tarefas de supervisão ao abrigo das regras sectoriais e do presente decreto-lei.
+
+3 - Sempre que necessário para o exercício das suas funções e sem prejuízo das regras setoriais respectivas, as autoridades de supervisão podem trocar informações com os bancos centrais, com o Banco Central Europeu, com o Sistema Europeu de Bancos Centrais e com o Comité Europeu do Risco Sistémico.
+
+4 - O tratamento de dados pessoais de accionistas e membros dos órgãos de administração e fiscalização de entidades sujeitas a supervisão complementar, por autoridade de supervisão nacional, deve respeitar as normas procedimentais, as normas de protecção de dados pessoais e as medidas especiais de segurança previstas na Lei n.º 67/98, de 26 de Outubro.
+
+5 - As autoridades de supervisão nacionais cooperam com o Comité Conjunto das Autoridades Europeias de Supervisão e facultam todas as informações necessárias ao cumprimento das suas obrigações.
+
+6 - A cooperação e coordenação entre as autoridades de supervisão, incluindo as autoridades de supervisão relevantes de países terceiros, se for caso disso, são asseguradas através dos colégios de autoridades de supervisão criados nos subsetores relevantes.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 20.º — Âmbito da cooperação
+
+1 - A cooperação a que se refere o artigo anterior deve assegurar, no mínimo, a recolha e a troca de informações relativamente aos seguintes elementos:
+
+a) Identificação da estrutura jurídica, organizativa e de governo do grupo, incluindo todas as entidades regulamentadas, filiais não regulamentadas e sucursais significativas que fazem parte do conglomerado financeiro, dos detentores de participações qualificadas ao nível da empresa-mãe líder e das autoridades de supervisão das entidades regulamentadas sujeitas a supervisão complementar;
+
+b) Política estratégica do conglomerado financeiro;
+
+c) Situação financeira do conglomerado financeiro, nomeadamente em termos de adequação de fundos próprios, de concentrações de riscos, de operações intragrupo e de rendibilidade;
+
+d) Principais accionistas e membros dos órgãos de administração e de fiscalização das entidades do conglomerado financeiro;
+
+e) Organização, gestão dos riscos e sistemas de controlo interno ao nível do conglomerado financeiro;
+
+f) Procedimentos de recolha de informações junto das entidades de um conglomerado financeiro e verificação destas informações;
+
+g) Dificuldades enfrentadas pelas entidades regulamentadas, ou por outras entidades do conglomerado financeiro, susceptíveis de as afectar seriamente;
+
+h) Sanções importantes e outras medidas excepcionais tomadas pelas autoridades de supervisão ao abrigo das regras sectoriais ou do presente decreto-lei.
+
+2 - As autoridades de supervisão relevantes cooperam plenamente com o coordenador na realização de testes de esforço.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 21.º — Consultas
+
+1 - As autoridades de supervisão nacionais consultam-se mutuamente e consultam as autoridades de supervisão interessadas de outros Estados membros antes de tomarem uma decisão relevante para as funções de supervisão exercidas pelas outras autoridades de supervisão, designadamente quando essas decisões se referem aos seguintes domínios:
+
+a) Alterações ao nível da estrutura dos accionistas, da organização ou da gestão das entidades sujeitas a supervisão complementar que requeiram uma aprovação ou autorização das autoridades de supervisão;
+
+b) Sanções importantes e outras medidas excepcionais tomadas pelas autoridades de supervisão.
+
+2 - Em caso de urgência ou quando a consulta possa comprometer a eficácia das decisões, a autoridade de supervisão pode prescindir dessa consulta, informando sem demora as demais autoridades de supervisão.
+
+###### Artigo 22.º — Acordos de cooperação
+
+1 - A fim de facilitar a supervisão complementar, podem ser celebrados acordos de cooperação entre o coordenador e as demais autoridades de supervisão, através dos quais podem, designadamente, ser confiadas funções suplementares ao coordenador e ser especificadas as regras do processo de tomada de decisões entre as autoridades de supervisão relevantes, bem como as regras de cooperação com outras autoridades de supervisão.
+
+2 - Os acordos de cooperação relativos à supervisão complementar são refletidos separadamente nos acordos escritos de coordenação celebrados para efeitos da supervisão em base consolidada.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+###### Artigo 23.º — Sigilo
+
+As informações trocadas no quadro da supervisão complementar estão sujeitas às disposições que regem o sigilo profissional e a comunicação de informações confidenciais estabelecidas nas regras sectoriais.
+
+#### Secção V — Informação
+
+###### Artigo 24.º — Acesso à informação
+
+1 - As entidades sujeitas à supervisão complementar ao nível do conglomerado financeiro trocam entre si todas as informações pertinentes para efeitos do exercício dessa supervisão.
+
+2 - As entidades sujeitas à supervisão complementar ao nível do conglomerado financeiro trocam com as Autoridades Europeias de Supervisão as informações devidas nos termos do presente diploma e do artigo 35.º dos Regulamentos (UE) n.os 1093/2010, 1094/2010 e 1095/2010, todos do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
+
+3 - As autoridades de supervisão responsáveis pela supervisão complementar têm acesso a quaisquer informações pertinentes para efeitos da supervisão complementar, mediante contacto directo ou indirecto com as entidades, regulamentadas ou não, de um conglomerado financeiro.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 25.º — Obtenção de informação
+
+1 - Quando o coordenador necessite de informações já prestadas a outra autoridade de supervisão em conformidade com as regras sectoriais, obtém-nas, se possível, junto dessa autoridade.
+
+2 - Não sendo possível obter a informação nos termos do número anterior, o coordenador pode solicitá-la à entidade sobre quem recai o dever de prestação de informação, caso esta esteja sediada em Portugal.
+
+3 - Estando a entidade supervisionada sobre quem recai o dever de prestação de informação sediada noutro Estado membro, o coordenador pode solicitar à respectiva autoridade de supervisão a obtenção junto dessa entidade de quaisquer informações pertinentes.
+
+###### Artigo 26.º — Verificação da informação
+
+1 - As autoridades de supervisão nacionais podem proceder ou mandar proceder à verificação das informações relativas a uma entidade, regulamentada ou não, de um conglomerado financeiro estabelecida em Portugal.
+
+2 - Se as autoridades de supervisão nacionais necessitarem de proceder à verificação de informações relativas a uma entidade, regulamentada ou não, que esteja estabelecida num outro Estado membro, solicitam às autoridades de supervisão desse Estado membro que procedam a essa verificação ou que autorizem que essas informações sejam verificadas pelas autoridades de supervisão nacionais, quer directamente quer através de pessoa ou entidade mandatada para o efeito.
+
+3 - As autoridades de supervisão nacionais procedem ainda à verificação de informações a pedido de autoridades de supervisão de outros Estados membros que nela podem participar, ou permitem a sua realização por essas autoridades, quer directamente quer através de pessoa ou entidade mandatada para o efeito.
+
+#### Secção VI — Outras medidas relativas à supervisão complementar
+
+###### Artigo 27.º — Órgão de administração e fiscalização das companhias financeiras mistas
+
+1 - Os membros dos órgãos de administração e de fiscalização de uma companhia financeira mista, incluindo os membros do conselho geral e os administradores não executivos, estão sujeitos às disposições sobre requisitos de idoneidade constantes do artigo 30.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras ou do artigo 51.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, consoante a autoridade de supervisão responsável pelo exercício da supervisão complementar ao nível de um conglomerado financeiro seja o Banco de Portugal ou o Instituto de Seguros de Portugal.
+
+2 - As pessoas referidas no número anterior estão igualmente sujeitas às disposições sobre registo constantes dos artigos 65.º e seguintes do Regime Geral das Instituições de Crédito e Sociedades Financeiras ou do artigo 54.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, consoante a autoridade de supervisão responsável pelo exercício da supervisão complementar ao nível de um conglomerado financeiro seja o Banco de Portugal ou o Instituto de Seguros de Portugal.
+
+3 - Os membros do órgão de administração a quem caiba assegurar a gestão corrente da companhia financeira mista e os revisores oficiais de contas do órgão de fiscalização estão sujeitos, com as devidas adaptações, às disposições relativas aos requisitos de experiência profissional constantes do artigo 31.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras ou do artigo 51.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, consoante a autoridade de supervisão responsável pelo exercício da supervisão complementar ao nível de um conglomerado financeiro seja o Banco de Portugal ou o Instituto de Seguros de Portugal.
+
+###### Artigo 28.º — Adopção de medidas de execução
+
+1 - Sempre que as entidades regulamentadas de um conglomerado financeiro não satisfizerem as condições enunciadas nos artigos 11.º a 16.º, ou se estas condições estiverem verificadas mas a capacidade de solvência das entidades sujeitas a supervisão complementar estiver comprometida, ou ainda se as concentrações de riscos ou as operações intragrupo constituírem uma ameaça para a situação financeira das entidades regulamentadas, devem ser adoptadas, o mais rapidamente possível, as medidas de execução necessárias para sanar as referidas situações.
+
+2 - As medidas a adoptar nos termos do número anterior são tomadas:
+
+a) Pelo coordenador, no que diz respeito às companhias financeiras mistas;
+
+b) Pelas autoridades de supervisão nacionais, no que diz respeito às entidades regulamentadas, devendo, para o efeito, o coordenador informar as autoridades de supervisão das suas conclusões.
+
+3 - O coordenador e as autoridades de supervisão envolvidas na supervisão complementar coordenam, se for caso disso, a adopção das medidas de execução necessárias.
+
+4 - As medidas a adoptar nos termos dos números anteriores correspondem às providências de saneamento e recuperação e aos procedimentos por contra-ordenação e ainda a outras medidas consideradas necessárias previstas nos respectivos regimes sectoriais.
+
+#### Secção VII — Países terceiros
+
+###### Artigo 29.º — Verificação da equivalência dos regimes de supervisão
+
+1 - A autoridade de supervisão que seria o coordenador caso fossem aplicáveis os critérios enunciados no n.º 2 do artigo 17.º verifica se as entidades regulamentadas cuja empresa-mãe está sediada num país terceiro estão sujeitas, nesse país, a uma supervisão complementar equivalente à prevista nas disposições do presente decreto-lei.
+
+2 - A verificação é efectuada a pedido da empresa-mãe, de qualquer das entidades sujeitas a supervisão complementar autorizadas na União Europeia ou por iniciativa própria.
+
+3 - A referida autoridade de supervisão consulta as demais autoridades de supervisão relevantes e o Comité Conjunto das Autoridades Europeias de Supervisão, cujas orientações aplicáveis tem em consideração na verificação da equivalência.
+
+4 - Caso uma das autoridades de supervisão relevantes discorde da decisão adotada ao abrigo do n.º 1, pode recorrer ao mecanismo de resolução de diferendos entre autoridades competentes, previsto nos Regulamentos (UE) n.os 1093/2010, 1094/2010 e 1095/2010, todos do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07
+
+###### Artigo 30.º — Métodos aplicáveis na ausência de supervisão equivalente
+
+1 - Na ausência de uma supervisão complementar equivalente, aplicam-se, com as devidas adaptações, as disposições sobre a supervisão complementar previstas no presente decreto-lei.
+
+2 - Em alternativa ao disposto no número anterior, o coordenador, depois de consultar as demais autoridades de supervisão relevantes, pode aplicar outros métodos que garantam uma supervisão complementar adequada, podendo, nomeadamente, exigir a constituição de uma companhia financeira mista sediada na União Europeia e aplicar às entidades regulamentadas do conglomerado financeiro liderado por essa companhia financeira mista as disposições do presente decreto-lei.
+
+3 - Os métodos a adoptar nos termos do número anterior devem permitir a prossecução dos objectivos da supervisão complementar, tal como definidos no presente decreto-lei, sendo notificados às demais autoridades de supervisão envolvidas e à Comissão Europeia.
+
+###### Artigo 31.º — Acordos de cooperação com autoridades de supervisão de países terceiros
+
+1 - As autoridades de supervisão nacionais podem celebrar acordos de cooperação, em regime de reciprocidade, com as autoridades de supervisão de países terceiros, tendo em vista a troca de quaisquer informações essenciais ou pertinentes para efeitos do exercício da supervisão complementar.
+
+2 - Quando a troca de informações prevista no número anterior envolva o tratamento de dados pessoais de accionistas e membros dos órgãos de administração e fiscalização de entidades sujeitas a supervisão complementar, deve respeitar as normas procedimentais, as normas de protecção de dados pessoais e as medidas especiais de segurança previstas na Lei n.º 67/98, de 26 de Outubro.
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 32.º — Alteração ao Decreto-Lei n.º 94-B/98, de 17 de Abril
+
+Os artigos 15.º, 44.º, 51.º, 96.º, 98.º, 135.º, 157.º-B a 157.º-D, 172.º-A, 172.º-E e 236.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, republicado pelo Decreto-Lei n.º 251/2003, de 14 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 15.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O Instituto de Seguros de Portugal consulta a autoridade de supervisão do Estado membro envolvido responsável pela supervisão da empresa de seguros, instituição de crédito ou empresa de investimento previamente à concessão de uma autorização a uma empresa de seguros que seja:
+
+a) Uma filial de uma empresa de seguros, de uma instituição de crédito ou de uma empresa de investimento autorizada noutro Estado membro; ou
+
+b) Uma filial da empresa-mãe de uma empresa de seguros, de uma instituição de crédito ou de uma empresa de investimento autorizada noutro Estado membro; ou
+
+c) Controlada pela mesma pessoa singular ou colectiva que controla uma empresa de seguros, uma instituição de crédito ou uma empresa de investimento autorizada noutro Estado membro.
+
+5 - O Instituto de Seguros de Portugal consulta o Banco de Portugal previamente à concessão de uma autorização a uma empresa de seguros que seja:
+
+a) Uma filial de uma instituição de crédito ou de uma empresa de investimento autorizada em Portugal; ou
+
+b) Uma filial da empresa mãe de uma instituição de crédito ou de uma empresa de investimento autorizada em Portugal; ou
+
+c) Controlada pela mesma pessoa singular ou colectiva que controla uma instituição de crédito ou uma empresa de investimento autorizada em Portugal.
+
+6 - O Banco de Portugal dispõe de um prazo de dois meses para efeitos da consulta prevista no número anterior.
+
+7 - Nos termos dos n.os 4 e 5, o Instituto de Seguros de Portugal consulta as autoridades de supervisão, designadamente para efeitos de avaliação da adequação dos accionistas para garantir a gestão sã e prudente da empresa e quanto a matérias que sejam de interesse para a concessão da autorização.
+
+8 - (Anterior n.º 4.)
+
+Artigo 44.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Se o adquirente da participação referida no presente artigo for uma empresa de seguros, uma instituição de crédito ou uma empresa de investimento autorizada noutro Estado membro, ou a empresa-mãe dessa entidade, ou uma pessoa singular ou colectiva que controle essa entidade, e se, por força desta aquisição, a empresa na qual o adquirente tenciona deter uma participação passar a ser uma filial do adquirente ou a ser controlada por este, a avaliação da sua aquisição fica sujeita a consulta prévia da autoridade competente.
+
+6 - Se o adquirente da participação referida no presente artigo for uma instituição de crédito ou uma empresa de investimento autorizada em Portugal, ou a empresa-mãe dessa entidade, ou uma pessoa singular ou colectiva que controle essa entidade, e se, por força desta aquisição, a empresa na qual o adquirente tenciona deter uma participação passar a ser uma filial do adquirente ou a ser controlada por este, a avaliação da sua aquisição fica sujeita a consulta prévia do Banco de Portugal, que dispõe para o efeito de um prazo de um mês.
+
+Artigo 51.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - O Instituto de Seguros de Portugal, para efeitos da verificação dos requisitos previstos no presente artigo, consulta as autoridades de supervisão previstas nos n.os 4 e 5 do artigo 15.º e a Comissão do Mercado de Valores Mobiliários.
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+96.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Participações, na acepção da alínea f) do artigo 172.º-A, detidas pela empresa de seguros:
+
+i) Em empresas de seguros na acepção das alíneas a) e b) do artigo 172.º-A;
+
+ii) Em empresas de resseguros na acepção da alínea c) do artigo 172.º-A;
+
+iii) Em sociedades gestoras de participações no sector dos seguros na acepção da alínea i) do artigo 172.º-A;
+
+iv) Em instituições de crédito, sociedades financeiras e instituições financeiras na acepção, respectivamente, dos artigos 2.º, 5.º e 13.º, n.º 4, do Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+v) Em empresas de investimento na acepção do n.º 3 do artigo 199.º-A do referido Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+e) Os instrumentos referidos no n.º 2 que a empresa de seguros detenha relativamente às entidades definidas na alínea anterior em que detém uma participação;
+
+f) Os empréstimos subordinados e os instrumentos referidos nos n.os 8), 9), 11), 12) e 13) do n.º 3 do aviso do Banco de Portugal n.º 12/92, publicado no Diário da República, 2.ª série, n.º 299, de 29 de Dezembro de 1992, que a empresa de seguros detenha relativamente às entidades definidas na alínea d) em que detém uma participação;
+
+g) [Anterior alínea d).]
+
+5 - Sempre que haja detenção temporária de acções de uma outra instituição de crédito, empresa de investimento, sociedade financeira, instituição financeira, empresa de seguros ou de resseguros ou sociedade gestora de participações no sector dos seguros para efeitos de uma operação de assistência financeira destinada a sanear e recuperar essa entidade, o Instituto de Seguros de Portugal pode autorizar derrogações às disposições em matéria de dedução a que se referem as alíneas d) a f) do número anterior.
+
+6 - Em alternativa à dedução dos elementos previstos nas alíneas d) a f) do n.º 4, o Instituto de Seguros de Portugal pode autorizar que a empresa de seguros efectue, com as devidas adaptações, o cálculo da adequação de fundos próprios previsto no artigo 11.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro.
+
+7 - A opção prevista no número anterior, assim como a forma de cálculo da adequação de fundos próprios, deve ser aplicada de modo consistente ao longo do tempo.
+
+8 - A dedução dos elementos previstos nas alíneas d) a f) do n.º 4 não tem de ser efectuada sempre que a empresa de seguros esteja sujeita à supervisão complementar ao nível do grupo de seguros ou à supervisão complementar ao nível do conglomerado financeiro.
+
+9 - (Anterior n.º 5.)
+
+10 - (Anterior n.º 6.)
+
+11 - Para efeitos da determinação da margem de solvência disponível das sucursais com sede fora do território da União Europeia, devem ser deduzidos aos elementos referidos no número anterior os montantes mencionados nas alíneas b) a g) do n.º 4 e no n.º 5, aplicando-se igualmente o disposto nos n.os 6 a 9.
+
+98.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Participações, na acepção da alínea f) do artigo 172.º-A, detidas pela empresa de seguros:
+
+i) Em empresas de seguros na acepção das alíneas a) e b) do artigo 172.º-A;
+
+ii) Em empresas de resseguros na acepção da alínea c) do artigo 172.º-A;
+
+iii) Em sociedades gestoras de participações no sector dos seguros na acepção da alínea i) do artigo 172.º-A;
+
+iv) Em instituições de crédito, sociedades financeiras e instituições financeiras na acepção, respectivamente, dos artigos 2.º, 5.º e 13.º, n.º 4, do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro;
+
+v) Em empresas de investimento na acepção do n.º 3 do artigo 199.º-A do referido Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+e) Os instrumentos referidos no n.º 2 que a empresa de seguros detenha relativamente às entidades definidas na alínea anterior em que detém uma participação;
+
+f) Os empréstimos subordinados e os instrumentos referidos nos n.os 8), 9), 11), 12) e 13) do n.º 3 do aviso do Banco de Portugal n.º 12/92, publicado no Diário da República, 2.ª série, n.º 299, de 29 de Dezembro de 1992, que a empresa de seguros detenha relativamente às entidades definidas na alínea d) em que detém uma participação;
+
+g) [Anterior alínea d).]
+
+5 - Sempre que haja detenção temporária de acções de uma outra instituição de crédito, empresa de investimento, sociedade financeira, instituição financeira, empresa de seguros ou de resseguros ou sociedade gestora de participações no sector dos seguros para efeitos de uma operação de assistência financeira destinada a sanear e recuperar essa entidade, o Instituto de Seguros de Portugal pode autorizar derrogações às disposições em matéria de dedução a que se referem as alíneas d) a f) do número anterior.
+
+6 - Em alternativa à dedução dos elementos previstos nas alíneas d) a f) do n.º 4, o Instituto de Seguros de Portugal pode autorizar que a empresa de seguros efectue, com as devidas adaptações, o cálculo da adequação de fundos próprios previsto no artigo 11.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+7 - A opção prevista no número anterior, assim como a forma de cálculo da adequação de fundos próprios, deve ser aplicada de modo consistente ao longo do tempo.
+
+8 - A dedução dos elementos previstos nas alíneas d) a f) do n.º 4 não tem de ser efectuada sempre que a empresa de seguros esteja sujeita à supervisão complementar ao nível do grupo de seguros ou à supervisão complementar ao nível do conglomerado financeiro.
+
+9 - (Anterior n.º 5.)
+
+10 - (Anterior n.º 6.)
+
+11 - Para efeitos da determinação da margem de solvência disponível das sucursais com sede fora do território da União Europeia, devem ser deduzidos aos elementos referidos no número anterior os montantes mencionados nas alíneas b) a g) do n.º 4 e no n.º 5, aplicando-se igualmente o disposto nos n.os 6 a 9.
+
+135.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - No caso previsto na alínea a) do artigo 138.º, em derrogação do previsto na alínea c) do n.º 1, a apólice pode ser assinada apenas pela co-seguradora líder, em nome de todas as co-seguradoras, mediante acordo escrito entre todas, que deve ser mencionado na apólice.
+
+157.º-B
+
+[...]
+
+1 - ...
+
+2 - Às sociedades gestoras de participações sociais sujeitas à supervisão do Instituto de Seguros de Portugal nos termos do número anterior é aplicável o disposto no capítulo II do título VI deste diploma.
+
+3 - Quando o Instituto de Seguros de Portugal seja a autoridade de supervisão responsável pelo exercício da supervisão complementar a nível de um conglomerado financeiro, a companhia financeira mista que lidere o conglomerado financeiro fica sujeita ao disposto no capítulo II do título VI pelas infracções às disposições legais ou regulamentares aplicáveis à supervisão complementar no âmbito de um conglomerado financeiro.
+
+4 - Se duas ou mais sociedades gestoras de participações sociais estiverem entre si em relação de grupo, ou por outro qualquer modo actuarem concertadamente, são consideradas como uma única sociedade para os efeitos do n.º 1.
+
+5 - A Inspecção-Geral de Finanças informa o Instituto de Seguros de Portugal das situações referidas no n.º 1 e que sejam do seu conhecimento.
+
+6 - (Anterior n.º 4.)
+
+7 - (Anterior n.º 5.)
+
+157.º-C
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Ainda que a verificação seja efectuada pelo Instituto de Seguros de Portugal, a autoridade de supervisão que apresentou o pedido pode, se o desejar, participar na verificação.
+
+157.º-D
+
+[...]
+
+1 - (Anterior corpo do artigo.)
+
+2 - No caso de uma empresa de seguros estabelecida em Portugal estar em relação de participação com uma empresa de seguros estabelecida num país terceiro e seja pela União Europeia negociado um acordo com esse país relativamente às modalidades de exercício da supervisão complementar, o Instituto de Seguros de Portugal pode trocar com as autoridades de supervisão desse país informações necessárias à supervisão complementar.
+
+Artigo 172.º-A
+
+[...]
+
+Para os efeitos da supervisão complementar de empresas de seguros que fazem parte de um grupo segurador, considera-se:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) 'Empresa participante' uma empresa-mãe, uma empresa que detenha uma participação ou uma empresa ligada a outra empresa por uma relação tal como previsto nas subalíneas ii) e iii) da alínea j) do artigo 2.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro;
+
+h) 'Empresa participada' uma empresa que seja uma filial, qualquer outra empresa na qual se detenha uma participação ou uma empresa ligada a outra empresa por uma relação tal como previsto nas subalíneas ii) e iii) da alínea j) do artigo 2.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro;
+
+i) 'Sociedade gestora de participações no sector dos seguros' uma empresa-mãe cuja actividade principal consista na aquisição e na detenção de participações em empresas filiais quando essas empresas sejam exclusiva ou principalmente empresas de seguros, empresas de resseguros ou empresas de seguros de um país terceiro, sendo pelo menos uma destas filiais uma empresa de seguros e que não seja uma companhia financeira mista na acepção da alínea l) do artigo 2.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro;
+
+j) 'Sociedade gestora de participações mistas de seguros' uma empresa-mãe que não seja uma empresa de seguros, uma empresa de seguros de um país terceiro, uma empresa de resseguros ou uma companhia financeira mista na acepção da alínea l) do artigo 2.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, sendo pelo menos uma das suas filiais uma empresa de seguros.
+
+Artigo 172.º-E
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - As empresas de seguros devem possuir processos de gestão dos riscos e mecanismos de controlo interno adequados, incluindo procedimentos de prestação de informações e contabilísticos sólidos que lhes permitam identificar, medir, acompanhar e controlar, de modo adequado, as operações referidas no presente artigo.
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+Artigo 236.º
+
+Comunicações relativas ao acesso de empresas de países terceiros
+
+O Instituto de Seguros de Portugal informa a Comissão Europeia e as autoridades competentes dos outros Estados membros das seguintes situações:
+
+a) ...
+
+b) ...»
+
+###### Artigo 33.º — Aditamento ao Decreto-Lei n.º 94-B/98, de 17 de Abril
+
+São aditados ao Decreto-Lei n.º 94-B/98, de 17 de Abril, republicado pelo Decreto-Lei n.º 251/2003, de 14 de Outubro, os artigos 172.º-H e 172.º-I, com a seguinte redacção:
+
+«Artigo 172.º-H
+
+Órgãos de administração e de fiscalização das sociedades gestoras de participações no sector dos seguros
+
+Aos membros dos órgãos de administração e de fiscalização de uma sociedade gestora de participações no sector dos seguros são aplicáveis os requisitos de qualificação e idoneidade previstos no artigo 51.º
+
+Artigo 172.º-I
+
+Supervisão complementar de empresas de seguros que sejam filiais de uma companhia financeira mista
+
+Sem prejuízo da aplicação das disposições relativas à supervisão complementar ao nível do conglomerado financeiro, nos casos em que a empresa-mãe de uma empresa de seguros seja uma companhia financeira mista, o Instituto de Seguros de Portugal pode continuar a aplicar as disposições relativas à supervisão complementar ao nível do grupo de seguros na mesma medida em que tais disposições seriam aplicadas caso não existisse a supervisão complementar ao nível do conglomerado financeiro.»
+
+###### Artigo 34.º — Alteração ao Regime Geral das Instituições de Crédito e Sociedades Financeiras
+
+Os artigos 16.º, 18.º, 30.º, 58.º, 100.º, 103.º, 117.º, 130.º, 132.º e 137.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, e alterado pelos Decretos-Leis n.os 246/95, de 14 de Setembro, 232/96, de 5 de Dezembro, 222/99, de 22 de Junho, 250/2000, de 13 de Outubro, 285/2001, de 3 de Novembro, 201/2002, de 26 de Setembro, 319/2002, de 28 de Dezembro, e 252/2003, de 17 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 16.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Se a instituição de crédito se encontrar nas situações a que se refere o n.º 2, a comunicação prevista no número anterior deve especificar a estrutura do grupo a que pertence e é ainda comunicada às autoridades competentes dos outros Estados membros.
+
+5 - ...
+
+6 - ...
+
+Artigo 18.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O disposto no n.º 1 é também aplicável quando a instituição a constituir for filial de empresa de seguros autorizada em país estrangeiro, ou seja filial da empresa-mãe de empresa nestas condições ou for dominada pelas mesmas pessoas singulares ou colectivas que dominem uma empresa de seguros autorizada noutro país.
+
+Artigo 30.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O Banco de Portugal, para efeitos do presente artigo, troca informações com o Instituto de Seguros de Portugal e com a Comissão do Mercado de Valores Mobiliários, bem como com as autoridades de supervisão referidas no artigo 18.º
+
+Artigo 58.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O Banco de Portugal notifica a Comissão Europeia e o Comité Bancário Europeu das autorizações concedidas ao abrigo do disposto no n.º 1 deste artigo.
+
+Artigo 100.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - O disposto no presente artigo não se aplica às participações noutras instituições de crédito, em sociedades financeiras, em instituições financeiras, em sociedades gestoras de fundos de pensões, em empresas de seguros e em empresas de resseguros.
+
+Artigo 103.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Se o interessado for uma instituição de crédito ou uma empresa de seguros autorizada noutro Estado membro da União Europeia ou uma empresa-mãe de uma entidade nestas condições, ou pessoa singular ou colectiva que domine aquelas entidades, e se, por força da operação projectada, a entidade em que a participação venha a ser detida se transformar em sua filial, o Banco de Portugal, para apreciação do projecto, solicitará parecer da autoridade de supervisão do Estado membro de origem.
+
+5 - ...
+
+6 - O Banco de Portugal informa a Comissão Europeia e as autoridades competentes dos outros Estados membros de qualquer tomada de participações numa instituição de crédito sempre que o participante seja pessoa singular não nacional de Estados membros da União Europeia, ou pessoa colectiva que tenha a sua sede principal e efectiva de administração em país terceiro à União Europeia, e, em virtude da participação, a instituição se transforme em sua filial.
+
+7 - ...
+
+8 - ...
+
+9 - Sempre que as condições referidas no n.º 4 se verifiquem relativamente a uma empresa de seguros sujeita à supervisão do Instituto de Seguros de Portugal, o Banco de Portugal solicita informações àquela autoridade de supervisão, a qual, se for caso disso, presta as referidas informações no prazo de um mês.
+
+Artigo 117.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O disposto nos artigos 30.º, 31.º e 43.º-A é aplicável às sociedades gestoras de participações sociais sujeitas à supervisão do Banco de Portugal.
+
+Artigo 130.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) Companhia financeira: alguma das entidades equiparadas a instituições de crédito, cujas filiais sejam exclusiva ou principalmente instituições de crédito ou entidades equiparadas, sendo pelo menos uma destas filiais uma instituição de crédito, e que não seja uma companhia financeira mista na acepção da alínea l) do artigo 2.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro;
+
+c) Companhia mista: qualquer empresa-mãe que não seja uma companhia financeira ou uma instituição de crédito ou uma companhia financeira mista na acepção da alínea l) do artigo 2.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, em cujas filiais se inclua, pelo menos, uma instituição de crédito;
+
+d) Participação: os direitos no capital de outras empresas desde que criem ligações duradouras com estas e se destinem a contribuir para a actividade da empresa, sendo sempre considerada uma participação a detenção, directa ou indirecta, de pelo menos 20% ou dos direitos de voto ou do capital de uma empresa;
+
+e) ...
+
+Artigo 132.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Sem prejuízo da aplicação das disposições relativas à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro, nos casos em que a empresa-mãe de uma instituição de crédito for uma companhia financeira mista, o Banco de Portugal pode aplicar as disposições relativas à supervisão em base consolidada, na mesma medida em que tais disposições seriam aplicadas caso não existisse a referida supervisão complementar.
+
+Artigo 137.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Quando não efectua ela própria a verificação, a autoridade de supervisão que apresenta o pedido pode, se o desejar, participar na verificação.»
+
+###### Artigo 35.º — Aditamento ao Regime Geral das Instituições de Crédito e Sociedades Financeiras
+
+São aditados ao Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, e alterado pelos Decretos-Leis n.os 246/95, de 14 de Setembro, 232/96, de 5 de Dezembro, 222/99, de 22 de Junho, 250/2000, de 13 de Outubro, 285/2001, de 3 de Novembro, 201/2002, de 26 de Setembro, 319/2002, de 28 de Dezembro, e 252/2003, de 17 de Outubro, os artigos 29.º-B, 132.º-A e 132.º-B, com a seguinte redacção:
+
+«Artigo 29.º-B
+
+Intervenção do Instituto de Seguros de Portugal
+
+1 - A concessão da autorização para constituir uma instituição de crédito filial de uma empresa de seguros sujeita à supervisão do Instituto de Seguros de Portugal, ou filial da empresa-mãe de uma empresa nestas condições, deve ser precedida de consulta àquela autoridade de supervisão.
+
+2 - O disposto no número anterior é igualmente aplicável quando a instituição de crédito a constituir seja dominada pelas mesmas pessoas singulares ou colectivas que dominem uma empresa de seguros nas condições indicadas no número anterior.
+
+3 - Se for caso disso, o Instituto de Seguros de Portugal presta as informações no prazo de dois meses.
+
+Artigo 132.º-A
+
+Empresas-mães sediadas em países terceiros
+
+1 - Quando uma instituição de crédito, cuja empresa-mãe seja uma instituição de crédito ou uma companhia financeira sediada fora da União Europeia, que não esteja sujeita a supervisão em base consolidada em termos equivalentes aos da presente secção, deve ser verificado se está sujeita, por parte de uma autoridade de supervisão do país terceiro, a uma supervisão equivalente à exigida pelos princípios estabelecidos na presente secção.
+
+2 - A verificação referida no número anterior é efectuada pelo Banco de Portugal no caso em que, pela aplicação dos critérios estabelecidos nos artigos 130.º e seguintes, este seria a autoridade responsável pela supervisão em base consolidada se esta fosse realizada.
+
+3 - Compete ao Banco de Portugal proceder à verificação referida no n.º 1:
+
+a) A pedido da empresa-mãe;
+
+b) A pedido de qualquer das entidades sujeitas a supervisão autorizadas na União Europeia;
+
+c) Por iniciativa própria.
+
+4 - O Banco de Portugal deve consultar as demais autoridades de supervisão das referidas filiais e o Comité Bancário Europeu.
+
+5 - Na ausência de uma supervisão equivalente, aplicam-se, por analogia, as disposições da presente secção.
+
+6 - Em alternativa ao disposto no número anterior, o Banco de Portugal, quando for a autoridade responsável e após consulta às autoridades referidas no n.º 3, pode adoptar outros métodos adequados que permitam atingir os objectivos da supervisão numa base consolidada, nomeadamente exigindo a constituição de uma companhia financeira sediada na União Europeia e aplicando-lhe as disposições sobre a supervisão numa base consolidada.
+
+7 - No caso referido no número anterior, o Banco de Portugal notifica às autoridades de supervisão referidas no n.º 3 e à Comissão Europeia os métodos adoptados.
+
+Artigo 132.º-B
+
+Operações intragrupo com as companhias mistas
+
+1 - As instituições de crédito devem informar o Banco de Portugal de quaisquer operações significativas que efectuem com a companhia mista em cujo grupo estão integradas e com as filiais desta companhia, devendo, para o efeito, possuir processos de gestão dos riscos e mecanismos de controlo interno adequados, incluindo procedimentos de prestação de informação e contabilísticos sólidos que lhes permitam identificar, medir, acompanhar e avaliar, de modo adequado, estas operações.
+
+2 - O Banco de Portugal toma as medidas adequadas quando as operações previstas no número anterior possam constituir uma ameaça para a situação financeira de uma instituição de crédito.»
+
+###### Artigo 36.º — Regulamentação da composição dos fundos próprios
+
+1 - O Banco de Portugal fica autorizado a modificar as regras sobre a composição dos fundos próprios das instituições sujeitas à sua supervisão, de acordo com o previsto neste artigo.
+
+2 - Para além das deduções previstas no n.º 9 do aviso do Banco de Portugal n.º 12/92, publicado no Diário da República, 2.ª série, n.º 299, de 29 de Dezembro de 1992, as instituições devem deduzir aos fundos próprios:
+
+a) As participações detidas em:
+
+i) Empresas de seguros;
+
+ii) Empresas de resseguros;
+
+iii) Sociedades gestora de participações no sector dos seguros;
+
+b) Os instrumentos enquadráveis no n.º 2 do artigo 96.º e no n.º 2 do artigo 98.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, republicado pelo Decreto-Lei n.º 251/2003, de 14 de Outubro, que as instituições detenham relativamente às entidades definidas na alínea anterior em que participem.
+
+3 - Em alternativa à dedução prevista no número anterior, as instituições podem ser autorizadas a aplicar, com as devidas adaptações, o cálculo da adequação de fundos próprios previsto no artigo 11.º do decreto-lei que transpõe a Directiva n.º <a href="eurlex.asp?ano=2002&id=302L0087" title="Link para Directiva da Comunidade Europeia">2002/87/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+
+4 - A opção prevista no número anterior deve ser aplicada de modo consistente ao longo do tempo.
+
+###### Artigo 37.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos relativamente às contas do semestre que termine após a respectiva entrada em vigor.
+
+###### Artigo 38.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 15 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 18 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
+
+Promulgado em 13 de Julho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 17 de Julho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — Adequação de fundos próprios
+
+(a que se refere o artigo 11.º)
+
+O cálculo da adequação complementar dos fundos próprios das entidades sujeitas a supervisão complementar realiza-se em conformidade com os princípios técnicos e com um dos métodos descritos no presente anexo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+### Capítulo I — Princípios técnicos
+
+1 - Independentemente do método utilizado para o cálculo de adequação dos fundos próprios das entidades do conglomerado financeiro, o coordenador e, se necessário, as restantes autoridades de supervisão envolvidas zelam para que se apliquem os princípios técnicos relevantes.
+
+2 - Princípio da proporcionalidade:
+
+a) No cálculo da adequação de fundos próprios considera-se a parte proporcional detida pela empresa participante nas suas empresas participadas;
+
+b) Por parte proporcional entende-se:
+
+i) A fracção do capital subscrito detida, directa ou indirectamente, pela empresa participante, no caso da aplicação dos métodos 2 e 3;
+
+ii) As percentagens utilizadas para a elaboração das contas consolidadas, no caso da aplicação do método 1;
+
+c) Não existindo ligações de capital entre as entidades de um conglomerado financeiro, o coordenador, depois de consultar as restantes autoridades de supervisão relevantes, determina a parte proporcional a considerar, tendo em conta a responsabilidade decorrente das relações existentes;
+
+d) Independentemente do método utilizado, sempre que a empresa participada é uma filial e, em termos individuais, apresenta insuficiência da margem de solvência/fundos próprios, ou se é uma entidade não regulamentada do sector financeiro que apresenta um défice de solvência nocional, a insuficiência total verificada integra o cálculo da adequação de fundos próprios;
+
+e) Estando a responsabilidade da empresa-mãe que detém uma parte do capital claramente limitada a essa parte do capital, o coordenador pode permitir que o défice de solvência da filial se calcule numa base proporcional.
+
+3 - Princípio da eliminação da utilização múltipla de fundos próprios:
+
+a) No cálculo de adequação de fundos próprios, elimina-se a múltipla utilização dos elementos elegíveis para esse cálculo e a criação inadequada destes fundos ao nível do conglomerado financeiro;
+
+b) Para garantir a eliminação da utilização múltipla de capitais e da criação de fundos próprios no âmbito do grupo, aplicam-se os princípios pertinentes estipulados nas regras sectoriais.
+
+4 - Princípio da elegibilidade de fundos próprios:
+
+a) Os requisitos de solvência aplicáveis aos diferentes subsectores representados num conglomerado financeiro devem estar cobertos por elementos de fundos próprios, em conformidade com as regras sectoriais;
+
+b) Verificando-se um défice de fundos próprios ao nível do conglomerado financeiro, só os elementos de fundos próprios elegíveis ao abrigo de todas as regras sectoriais (fundos próprios intersectoriais) podem considerar-se para efeitos de verificação do respeito pelos requisitos complementares de solvência;
+
+c) Sempre que as regras sectoriais estabeleçam limites à elegibilidade de determinados instrumentos de fundos próprios susceptíveis de serem considerados como fundos próprios intersectoriais, esses limites aplicam-se, com as devidas adaptações, ao cálculo dos fundos próprios ao nível do conglomerado financeiro.
+
+5 - Princípio da transferência de fundos próprios - as autoridades de supervisão têm em conta a disponibilidade e a possibilidade de transferência dos fundos próprios entre as diferentes entidades do grupo, face aos objectivos fixados pelas regras relativas à adequação dos fundos próprios.
+
+6 - Regras sectoriais pertinentes:
+
+a) O cálculo dos elementos relativos aos fundos próprios e aos requisitos de solvência para cada subsector realizam-se em conformidade com as regras sectoriais correspondentes;
+
+b) As regras sectoriais são as constantes dos avisos n.os 12/92, publicado no Diário da República, 2.ª série, n.º 299, de 29 de Dezembro de 1992, 1/93, publicado no Diário da República, 2.ª série, n.º 133, de 8 de Junho de 1993, e 7/96, publicado no Diário da República, 2.ª série, n.º 297, de 24 de Dezembro de 1996, relativamente às instituições de crédito e empresas de investimento, e dos artigos 93.º a 101.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, relativamente às empresas de seguros;
+
+c) No caso das sociedades gestoras de fundos de investimento mobiliário, o requisito de solvência corresponde ao requisito de capital constante da alínea a) do n.º 1 do artigo 16.º-A do Decreto-Lei n.º 319/2002, de 28 de Dezembro.
+
+7 - Entidade não regulamentadas do sector financeiro:
+
+a) Aplicam-se aos fundos próprios e aos requisitos de solvência das entidades não regulamentadas do sector financeiro as regras sectoriais aplicáveis às entidades regulamentadas do subsector em que se incluam;
+
+b) As companhias financeiras mistas estão sujeitas ao requisito de solvência nocional calculado em conformidade com as regras sectoriais do subsector mais importante do conglomerado financeiro.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.
+
+### Capítulo II — Métodos de cálculo
+
+8 - Método 1 - método da «consolidação contabilística»:
+
+a) A adequação de fundos próprios corresponde à diferença entre:
+
+i) Os fundos próprios do conglomerado financeiro calculados a partir da posição consolidada do grupo; e
+
+ii) A soma dos requisitos de solvência para cada subsetor financeiro diferente representado no grupo;
+
+b) A diferença prevista na alínea anterior não deve ser negativa;
+
+c) O cálculo de adequação dos fundos próprios é efetuado a partir das contas consolidadas, tendo em conta as regras setoriais correspondentes relativas à forma e ao âmbito da consolidação, tal como fixadas, nomeadamente, no artigo 131.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras e no artigo 3.º da Norma Regulamentar n.º 23-R/2002, de 5 de dezembro, publicada como regulamento n.º 48/2002, no Diário da República, 2.ª série, n.º 299, de 17 de dezembro de 2002.
+
+9 - Método 2 - método de «dedução e agregação»:
+
+a) A adequação de fundos próprios corresponde à diferença entre:
+
+i) A soma dos fundos próprios de cada entidade do setor financeiro regulamentada e não regulamentada do conglomerado financeiro; e
+
+ii) A soma:
+
+Dos requisitos de solvência para cada entidade do setor financeiro regulamentada e não regulamentada do grupo; e
+
+Do valor contabilístico das participações noutras entidades do grupo;
+
+b) A diferença prevista na alínea anterior não deve ser negativa;
+
+c) O cálculo de adequação dos fundos próprios efetua-se a partir das contas de cada uma das entidades do grupo;
+
+d) Os fundos próprios e os requisitos de solvência são tidos em conta pela sua parte proporcional, conforme o estabelecido no n.º 2 do artigo 6.º e em conformidade com o capítulo I do presente anexo.
+
+10 - [Revogado].
+
+11 - Método 3 - combinação dos métodos 1 e 2 - as autoridades de supervisão podem permitir uma combinação dos métodos 1 e 2.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25.

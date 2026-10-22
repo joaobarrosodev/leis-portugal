@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:178350:por
+title: Decreto-Lei n.º 389/85
+short_title: null
+summary: Dá nova redacção ao n.º 2 do artigo 16.º e aos n.os 2 e 3 do artigo 17.º do Decreto-Lei n.º 84/85, de 28 de Março
+  (estabelece normas relativas à organização e exploração dos concursos de apostas mútuas denominados «totobola» e «totoloto»)
+  e ao n.º 2 do artigo 1.º do Decreto-Lei n.º 193/73, de 30 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 389/85
+official_date: null
+publication_date: '1985-10-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1985, Série I de 1985-10-09
+  number: '232'
+  series: I
+  supplement: null
+  pages: 3321 - 3322
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/10/23200/33213322.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '178350'
+  dre_path: /dr/detalhe/decreto-lei/389-1985-178350
+  internal: pt:dre:178350:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1985-178350
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1985-178350
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-09-06T00:00:00Z'
+integrity:
+  source_sha256: a6b26a2923651f46bd3b32b5795191652d68ca4d8294657032bcea47962a6bea
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-389-178350.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:170794638:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 389/85
+
+de 9 de Outubro
+
+Nos termos do n.º 3 do artigo 17.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, as verbas provenientes das receitas do totobola e do totoloto destinadas aos clubes de futebol da 1.ª e 2.ª divisões nacionais e as destinadas a suportar os encargos com as despesas, por via aérea, com a deslocação de equipas entre o continente e as regiões autónomas deverão ser entregues à Secretaria de Estado dos Desportos, a qual procederá à sua repartição e gestão, com rigorosa afectação aos mencionados fins. Torna-se, porém, necessário clarificar a forma pela qual tais verbas são postas à disposição da Secretaria de Estado dos Desportos.
+
+Dispondo a Secretaria de Estado dos Desportos de um fundo financeiro - o Fundo de Fomento do Desporto - dotado de autonomia administrativa e financeira, ponderou-se que a melhor solução seria fazer transitar aquelas verbas por este Fundo, o qual posteriormente as destinaria às finalidades previstas na lei.
+
+Por outro lado, pelo presente diploma é alterada a redacção da actual alínea 1) do n.º 2 do artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, por forma a permitir o financiamento de deslocações de outras equipas para além das previstas na redacção inicial daquele diploma, bem como o n.º 2 do artigo 16.º e os n.os 2 e 3 do artigo 17.º do mesmo decreto-lei, por forma a fazer beneficiar também, como é justo, os clubes da 3.ª divisão nacional.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O n.º 2 do artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, passa a ter a seguinte redacção:
+
+###### Art. 16.º - 1 - ...
+
+2 - São beneficiários em percentagem sobre o referido produto líquido:
+
+a) Santa Casa da Misericórdia de Lisboa - 21,5;
+
+b) Outras instituições de solidariedade social - 7;
+
+c) Instituto de Gestão Financeira da Segurança Social - 27;
+
+d) Fundo de Socorro Social - 8;
+
+e) Fundo de Fomento do Desporto - 11,5;
+
+f) Federação Portuguesa de Futebol - 3;
+
+g) Instituto Nacional para o Aproveitamento dos Tempos Livres dos Trabalhadores - 3;
+
+h) Clubes de futebol da 1.ª divisão - 3;
+
+i) Clubes de futebol da 2.ª divisão - 3;
+
+j) Clubes de futebol da 3.ª divisão - 3;
+
+l) Subsídio às despesas com a deslocação, por via aérea, de equipas de futebol que disputem os campeonatos das três divisões nacionais, a taça de Portugal, as provas de apuramento e a fase final do campeonato nacional de juniores e com a deslocação das respectivas equipas de arbitragem, podendo os eventuais remanescentes desta rubrica ser aplicados no apoio a outras áreas desportivas, segundo esquemas de comparticipação a definir por despacho do Secretário de Estado dos Desportos - 2;
+
+m) Fundo de Fomento da Cultura - 3,5;
+
+n) Apoio às empresas jornalísticas - 2,5;
+
+o) Apoio às associações de bombeiros voluntários - 2.
+
+###### Art. 2.º Os n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, passam a ter a seguinte redacção:
+
+###### Art. 17.º - 1 - ...
+
+2 - Os montantes correspondentes às percentagens referidas nas alíneas h), i) e j) do n.º 2 do artigo anterior serão repartidos em partes iguais pelos clubes de cada uma das mencionadas divisões.
+
+3 - Esses montantes e o referido na alínea l) serão entregues mensalmente ao Fundo de Fomento do Desporto, o qual, mediante despacho do membro do Governo competente, procederá à sua repartição e gestão, com rigorosa afectação aos mencionados fins.
+
+###### Art. 3.º Ao n.º 2 do artigo 1.º do [Decreto-Lei n.º 193/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1973-421995), de 30 de Abril, na redacção que lhe foi dada pelo artigo 7.º do [Decreto-Lei n.º 694/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/694-1974-466829), de 5 de Dezembro, é aditada uma alínea h), com a seguinte redacção:
+
+###### Artigo 1.º - 1 - ...
+
+2 - ...
+
+h) Repartir e gerir, mediante despacho do membro do Governo competente, com rigorosa afectação aos respectivos fins, os montantes referidos nas alíneas h), i), i) e l) do n.º 2 do artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março.
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Amândio Anes de Azevedo - Júlio Miranda Calha.
+
+**Promulgado em 1 de Outubro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 3 de Outubro de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

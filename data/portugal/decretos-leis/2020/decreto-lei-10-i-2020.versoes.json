@@ -1,0 +1,1006 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130779508:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-131338946",
+ "dre_path": "/dr/detalhe/decreto-lei/10-i-2020-130779508",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202009172",
+    "131331504",
+    "131331506",
+    "131331505",
+    "131331507",
+    "131331508",
+    "131331509",
+    "131331510",
+    "131331511",
+    "131331512",
+    "131331513",
+    "131331514",
+    "131331515",
+    "131331516",
+    "131331517"
+   ]
+  },
+  {
+   "date": "2020-04-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:132721067:por",
+     "title": "Declaração de Retificação n.º 18/2020",
+     "published": "2020-04-30",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/18-2020-132721067"
+    },
+    {
+     "id": "pt:dre:131338917:por",
+     "title": "Lei n.º 7/2020",
+     "published": "2020-04-10",
+     "dre_path": "/dr/detalhe/lei/7-2020-131338917"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 11.º",
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "131331503",
+    "131331504",
+    "131331505",
+    "131331506",
+    "131331507",
+    "131331508",
+    "131331509",
+    "131331510",
+    "131331511",
+    "131331512",
+    "131331513",
+    "131331524",
+    "131331519",
+    "131331520",
+    "131331521",
+    "131331522",
+    "131331523"
+   ]
+  },
+  {
+   "date": "2020-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:134762426:por",
+     "title": "Lei n.º 19/2020",
+     "published": "2020-05-29",
+     "dre_path": "/dr/detalhe/lei/19-2020-134762426"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "131331503",
+    "134770848",
+    "134867590",
+    "134770850",
+    "134770847",
+    "134867596",
+    "134867591",
+    "134867592",
+    "134867597",
+    "134867593",
+    "134867580",
+    "134867581",
+    "134867594",
+    "134867583",
+    "134867595",
+    "134867585",
+    "134867586",
+    "134867587",
+    "134867588",
+    "134867589"
+   ]
+  },
+  {
+   "date": "2021-01-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154361179:por",
+     "title": "Decreto-Lei n.º 6-E/2021",
+     "published": "2021-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/6-e-2021-154361179"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "131331503",
+    "134770848",
+    "154484836",
+    "134770850",
+    "134770847",
+    "134867596",
+    "154484837",
+    "134867592",
+    "134867597",
+    "134867593",
+    "134867580",
+    "134867581",
+    "134867594",
+    "134867583",
+    "134867595",
+    "134867585",
+    "134867586",
+    "134867587",
+    "134867588",
+    "134867589"
+   ]
+  },
+  {
+   "date": "2021-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160923378:por",
+     "title": "Decreto-Lei n.º 26-A/2021",
+     "published": "2021-04-05",
+     "dre_path": "/dr/detalhe/decreto-lei/26-a-2021-160923378"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-B",
+    "Adita Artigo 5.º-C",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "131331503",
+    "134770848",
+    "160984978",
+    "134770850",
+    "134770847",
+    "134867596",
+    "160984979",
+    "134867592",
+    "160984977",
+    "160900853",
+    "160900865",
+    "160900866",
+    "160900867",
+    "160900868",
+    "160900869",
+    "160900870",
+    "160984980",
+    "160900872",
+    "160900873",
+    "160900874",
+    "160984981",
+    "160984976"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202009172",
+    "202009173",
+    "202011875",
+    "202009174",
+    "202011876",
+    "202011877",
+    "202011878",
+    "202011879",
+    "202011880",
+    "202011881",
+    "202011882",
+    "202011883",
+    "202011884",
+    "202011885",
+    "202011886",
+    "202011887",
+    "202011888",
+    "202011889",
+    "202011890",
+    "202011891",
+    "202011892",
+    "202011893"
+   ]
+  }
+ ],
+ "fragments": {
+  "202009172": {
+   "fragment_id": "131338947",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-I/2020\n\nde 26 de março\n\nSumário: Estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos não realizados.\n\nAtendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação, no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.\n\nA Direção-Geral de Saúde (DGS), enquanto Autoridade Nacional da Saúde Pública, produziu, a 28 de fevereiro, a Informação n.º 006/2020 sobre a frequência de eventos de massa, tendo-se seguido a Orientação n.º 007/2020, de 10 de março, atualizada em 16 de março de 2020, onde recomenda o cancelamento de eventos de massas com o objetivo de evitar a transmissão do vírus entre um elevado número de pessoas em espaços confinados.\n\nEsta orientação da DGS, que, desde logo, teve um efeito alargado no cancelamento ou adiamento de vários espetáculos ao vivo de natureza artística, então agendados, tornou-se posteriormente obrigatória com a declaração de Estado de Alerta, emitida pelo Governo no dia 13 de março.\n\nNo dia 18 de março de 2020, foi decretado o estado de emergência em Portugal, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, tendo o Governo aprovado o Decreto n.º 2-A/2020, de 20 de março, para a sua execução.\n\nA aplicação de medidas extraordinárias e de caráter urgente de restrição de direitos e liberdades, em especial no que respeita aos direitos de circulação e às liberdades económicas, em articulação com as autoridades europeias, com vista a evitar a transmissão do vírus, passaram, nomeadamente, pelo encerramento de instalações e estabelecimentos onde se desenvolvem atividades culturais e artísticas, ao abrigo do artigo 7.º do Decreto n.º 2-A/2020, de 20 de março.\n\nNeste contexto, impõe-se a adoção de um regime de caráter excecional, que confira uma proteção especial aos agentes culturais envolvidos na realização dos espetáculos não realizados em virtude da pandemia. Por outro lado, alguns espetáculos carecem de preparação, ensaios, montagens e outros atos técnicos que não podem ser realizados no período em que vivemos, impossibilitando a realização dos mesmos ainda que agendados para uma data posterior ao fim do estado de emergência.\n\nDeste modo, o presente decreto-lei aplica-se a todos os espetáculos que não podem ser realizados no lugar, dia ou hora agendados, entre os dias 28 de fevereiro de 2020 e até ao 90.º dia útil seguinte ao fim do estado de emergência. Assim, em primeiro lugar, os espetáculos não realizados devem, sempre que possível, ser reagendados, devendo todos os agentes culturais envolvidos na realização do espetáculo intentar todos os esforços para a sua concretização, segundo as regras da boa-fé.\n\nEm segundo lugar, o espetáculo reagendado deve ocorrer no prazo de um ano a contar da data inicialmente prevista. Caso seja necessário substituir o bilhete de ingresso do espetáculo reagendado, por mudança de local, data ou hora, o mesmo não terá custos acrescidos para o consumidor final.\n\nEm terceiro lugar, caso o espetáculo não possa ser reagendado, o seu cancelamento deve igualmente ser anunciado, devendo ser indicado o local, físico e eletrónico, o modo e o prazo de restituição do preço dos bilhetes de ingresso já adquiridos, garantindo-se os direitos dos consumidores.\n\nEm quarto lugar, estabelece-se uma proibição de cobrança de comissões pelas entidades que vendem bilhetes aos agentes culturais pelos espetáculos não realizados.\n\nEm quinto lugar, aplicam-se, com as necessárias adaptações, aos proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos as regras relativas ao reagendamento e cancelamento de espetáculos e respetivas devoluções de valores pagos. Deste modo, caso o espetáculo seja reagendado, não pode ser cobrado qualquer valor suplementar ao promotor do evento. Porém, caso o espetáculo seja cancelado, o valor pago pela reserva da sala ou recinto deve ser devolvido ao promotor do evento ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização de outro espetáculo.\n\nPor último, de forma a garantir a sustentabilidade dos agentes culturais envolvidos na criação, produção e realização dos espetáculos, permite-se que as entidades públicas promotoras, em caso de reagendamento dos espetáculos, se socorreram dos regimes de adiantamento do preço, revisão de preços e ainda do regime dos bens, serviços ou trabalhos complementares. Em caso de cancelamento podem a entidades públicas promotoras proceder ao pagamento dos compromissos assumidos e efetivamente realizados, na respetiva proporção.\n\nForam ouvidas as associações representativas do setor, a saber APEC - Associação Portuguesa de Empresas Cinematográficas, APEFE - Associação de Promotores Espetáculos, GEDIPE - Associação para a Gestão Coletiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais, SPA - Sociedade Portuguesa de Autores, AUDIOGEST - Associação para a Gestão e Distribuição de Direitos, a FEVIP - Federação de Editores de Videogramas e a GDA - Cooperativa de Gestão dos Direitos dos Artistas, CRL.\n\nFoi promovida a audição do Conselho Nacional de Consumo.\n\nAssim,\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 4.º, Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426) Este Decreto-Lei, na redação introduzida pela Lei n.º 19/2020, de 29 de maio, vigora até 31 de janeiro de 2022."
+  },
+  "131331504": {
+   "fragment_id": "131338948",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos de natureza artística, promovidos por entidades públicas ou privadas, não realizados no local, data e hora previamente agendados.\n\n2 - Para efeitos do presente decreto-lei entende-se por espetáculos de natureza artística os referidos na alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual, doravante «espetáculos»."
+  },
+  "131331506": {
+   "fragment_id": "131338950",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação subjetivo\n\nO presente decreto-lei aplica-se, independentemente da natureza pública ou privada, a todos:\n\na) Os agentes culturais, nomeadamente, aos artistas, intérpretes e executantes, autores, produtores, promotores de espetáculos, agentes, doravante agentes culturais;\n\nb) Os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos;\n\nc) As agências, postos de venda e plataformas de venda eletrónica de bilhetes."
+  },
+  "131331505": {
+   "fragment_id": "131338949",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - O presente decreto-lei é aplicável ao reagendamento ou cancelamento de espetáculos não realizados entre os dias 28 de fevereiro de 2020 e até 90 dias úteis após o término do estado de emergência.\n\n2 - O presente decreto-lei estabelece as regras aplicáveis à:\n\na) Venda, substituição e restituição do preço dos bilhetes de ingresso daqueles espetáculos;\n\nb) Restituição dos valores pagos com as reservas das salas e recintos daqueles espetáculos."
+  },
+  "131331507": {
+   "fragment_id": "131338951",
+   "type": 11,
+   "heading": "Artigo 4.º — Reagendamento de espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reagendamento de espetáculos\n\n1 - Os espetáculos abrangidos pelo presente decreto-lei devem, sempre que possível, ser reagendados.\n\n2 - O espetáculo reagendado tem de ocorrer no prazo máximo de um ano após a data inicialmente prevista.\n\n3 - O reagendamento pode implicar, alternativa ou cumulativamente, a alteração de local, data e hora, mediante acordo entre os agentes culturais envolvidos e as entidades referidas na alínea b) do artigo anterior.\n\n4 - A alteração do local do espetáculo fica limitada à cidade, área metropolitana ou a um raio de 50 km relativamente à localização inicialmente prevista.\n\n5 - O reagendamento do espetáculo pode, se necessário, implicar a substituição dos bilhetes de ingresso já vendidos.\n\n6 - A alteração do local, da data e/ou da hora da realização de espetáculos, e se aplicável, o local, físico e eletrónico, o modo e o prazo de substituição dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes cultuais.\n\n7 - Pela substituição do bilhete de ingresso não pode ser cobrado qualquer outro valor ou comissão.\n\n8 - O reagendamento do espetáculo não pode implicar o aumento do custo do bilhete de ingresso para aqueles que à data do reagendamento já fossem portadores dos mesmos."
+  },
+  "131331508": {
+   "fragment_id": "131338952",
+   "type": 11,
+   "heading": "Artigo 5.º — Cancelamento de espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cancelamento de espetáculos\n\n1 - Sempre que não seja possível o reagendamento do espetáculo, o mesmo deve ser cancelado.\n\n2 - O cancelamento do espetáculo, bem como o local, físico e eletrónico, o modo e o prazo de restituição do preço dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes culturais.\n\n3 - O cancelamento do espetáculo dá lugar à restituição do preço dos bilhetes de ingresso já vendidos, o qual deve ocorrer no prazo máximo de 60 dias úteis após o anúncio do cancelamento."
+  },
+  "131331509": {
+   "fragment_id": "131338953",
+   "type": 11,
+   "heading": "Artigo 6.º — Substituição bilhetes de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Substituição bilhetes de ingresso\n\nEm alternativa ao previsto no n.º 4 do artigo 4.º e no n.º 3 do artigo 5.º, a pedido do portador do bilhete de ingresso, os agentes culturais podem proceder à substituição do bilhete do espetáculo por outro espetáculo diferente, ajustando-se o preço devido."
+  },
+  "131331510": {
+   "fragment_id": "131338954",
+   "type": 11,
+   "heading": "Artigo 7.º — Cobrança de comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cobrança de comissões\n\nAs agências, os postos de venda e as plataformas de venda eletrónica de bilhetes, bem como os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos que tenham bilhética própria, não podem exigir aos agentes culturais a comissão devida pelos espetáculos não realizados ou cancelados abrangidos pelo artigo 2.º"
+  },
+  "131331511": {
+   "fragment_id": "131338955",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalações e estabelecimentos de espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instalações e estabelecimentos de espetáculos\n\n1 - Pelo reagendamento do espetáculo não podem os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos cobrar qualquer valor suplementar ao agente cultural.\n\n2 - Em caso de cancelamento do espetáculo os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos devem proceder ao reembolso do valor da reserva ao agente cultural, no prazo de 90 dias úteis após o término do estado de emergência ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização posterior de outro espetáculo."
+  },
+  "131331512": {
+   "fragment_id": "131338956",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\nA violação das obrigações previstas no presente decreto-lei constitui contraordenação nos termos do n.º 1 do artigo 36.º do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual."
+  },
+  "131331513": {
+   "fragment_id": "131338957",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nCompete à Inspeção-Geral das Atividades Culturais a fiscalização do cumprimento do previsto no presente decreto-lei."
+  },
+  "131331514": {
+   "fragment_id": "131338958",
+   "type": 11,
+   "heading": "Artigo 11.º — Espetáculos promovidos por entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Espetáculos promovidos por entidades públicas\n\n1 - As entidades públicas, promotoras de espetáculos abrangidos pelo presente decreto-lei, podem aplicar aos contratos celebrados e a celebrar as normas previstas nos artigos 2.º a 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\n2 - As entidades públicas que tenham que proceder ao reagendamento dos espetáculos podem contratar bens, serviços ou trabalhos complementares, ao abrigo do disposto nos artigos 438.º e 454.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, bem como aplicar o regime da revisão de preços, se aplicável.\n\n3 - As entidades públicas que tenham de cancelar os espetáculos por impossibilidade de reagendamento dos mesmos podem proceder ao pagamento do preço dos compromissos anteriormente assumidos, caso o bem ou serviço tenha sido efetivamente prestados, ou na respetiva proporção, aplicando-se o disposto no artigo 299.º do CCP."
+  },
+  "131331515": {
+   "fragment_id": "131338959",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito subsidiário\n\nEm tudo o que não estiver expressamente previsto no presente decreto-lei, aplica-se o disposto no Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual."
+  },
+  "131331516": {
+   "fragment_id": "131338960",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito transitório formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito transitório formal\n\nO presente decreto-lei aplica-se aos contratos celebrados relativos à realização dos espetáculos referidos no artigo 2.º, em data anterior à sua entrada em vigor, prevalecendo sobre os mesmos."
+  },
+  "131331517": {
+   "fragment_id": "131338961",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora pelo período de um ano após o término do estado de emergência."
+  },
+  "131331503": {
+   "fragment_id": "131338947",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-I/2020\n\nde 26 de março\n\nSumário: Estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos não realizados.\n\nAtendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação, no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.\n\nA Direção-Geral de Saúde (DGS), enquanto Autoridade Nacional da Saúde Pública, produziu, a 28 de fevereiro, a Informação n.º 006/2020 sobre a frequência de eventos de massa, tendo-se seguido a Orientação n.º 007/2020, de 10 de março, atualizada em 16 de março de 2020, onde recomenda o cancelamento de eventos de massas com o objetivo de evitar a transmissão do vírus entre um elevado número de pessoas em espaços confinados.\n\nEsta orientação da DGS, que, desde logo, teve um efeito alargado no cancelamento ou adiamento de vários espetáculos ao vivo de natureza artística, então agendados, tornou-se posteriormente obrigatória com a declaração de Estado de Alerta, emitida pelo Governo no dia 13 de março.\n\nNo dia 18 de março de 2020, foi decretado o estado de emergência em Portugal, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, tendo o Governo aprovado o Decreto n.º 2-A/2020, de 20 de março, para a sua execução.\n\nA aplicação de medidas extraordinárias e de caráter urgente de restrição de direitos e liberdades, em especial no que respeita aos direitos de circulação e às liberdades económicas, em articulação com as autoridades europeias, com vista a evitar a transmissão do vírus, passaram, nomeadamente, pelo encerramento de instalações e estabelecimentos onde se desenvolvem atividades culturais e artísticas, ao abrigo do artigo 7.º do Decreto n.º 2-A/2020, de 20 de março.\n\nNeste contexto, impõe-se a adoção de um regime de caráter excecional, que confira uma proteção especial aos agentes culturais envolvidos na realização dos espetáculos não realizados em virtude da pandemia. Por outro lado, alguns espetáculos carecem de preparação, ensaios, montagens e outros atos técnicos que não podem ser realizados no período em que vivemos, impossibilitando a realização dos mesmos ainda que agendados para uma data posterior ao fim do estado de emergência.\n\nDeste modo, o presente decreto-lei aplica-se a todos os espetáculos que não podem ser realizados no lugar, dia ou hora agendados, entre os dias 28 de fevereiro de 2020 e até ao 90.º dia útil seguinte ao fim do estado de emergência. Assim, em primeiro lugar, os espetáculos não realizados devem, sempre que possível, ser reagendados, devendo todos os agentes culturais envolvidos na realização do espetáculo intentar todos os esforços para a sua concretização, segundo as regras da boa-fé.\n\nEm segundo lugar, o espetáculo reagendado deve ocorrer no prazo de um ano a contar da data inicialmente prevista. Caso seja necessário substituir o bilhete de ingresso do espetáculo reagendado, por mudança de local, data ou hora, o mesmo não terá custos acrescidos para o consumidor final.\n\nEm terceiro lugar, caso o espetáculo não possa ser reagendado, o seu cancelamento deve igualmente ser anunciado, devendo ser indicado o local, físico e eletrónico, o modo e o prazo de restituição do preço dos bilhetes de ingresso já adquiridos, garantindo-se os direitos dos consumidores.\n\nEm quarto lugar, estabelece-se uma proibição de cobrança de comissões pelas entidades que vendem bilhetes aos agentes culturais pelos espetáculos não realizados.\n\nEm quinto lugar, aplicam-se, com as necessárias adaptações, aos proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos as regras relativas ao reagendamento e cancelamento de espetáculos e respetivas devoluções de valores pagos. Deste modo, caso o espetáculo seja reagendado, não pode ser cobrado qualquer valor suplementar ao promotor do evento. Porém, caso o espetáculo seja cancelado, o valor pago pela reserva da sala ou recinto deve ser devolvido ao promotor do evento ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização de outro espetáculo.\n\nPor último, de forma a garantir a sustentabilidade dos agentes culturais envolvidos na criação, produção e realização dos espetáculos, permite-se que as entidades públicas promotoras, em caso de reagendamento dos espetáculos, se socorreram dos regimes de adiantamento do preço, revisão de preços e ainda do regime dos bens, serviços ou trabalhos complementares. Em caso de cancelamento podem a entidades públicas promotoras proceder ao pagamento dos compromissos assumidos e efetivamente realizados, na respetiva proporção.\n\nForam ouvidas as associações representativas do setor, a saber APEC - Associação Portuguesa de Empresas Cinematográficas, APEFE - Associação de Promotores Espetáculos, GEDIPE - Associação para a Gestão Coletiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais, SPA - Sociedade Portuguesa de Autores, AUDIOGEST - Associação para a Gestão e Distribuição de Direitos, a FEVIP - Federação de Editores de Videogramas e a GDA - Cooperativa de Gestão dos Direitos dos Artistas, CRL.\n\nFoi promovida a audição do Conselho Nacional de Consumo.\n\nAssim,\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "131331524": {
+   "fragment_id": "131338958",
+   "type": 11,
+   "heading": "Artigo 11.º — Espetáculos promovidos por entidades públicas",
+   "in_force_from": "2020-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º — Espetáculos promovidos por entidades públicas\n\n1 - As entidades públicas e os organismos de direito público referidos no Código dos Contratos Públicos ou entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos, promotores de espetáculos abrangidos pelo presente decreto-lei, podem aplicar aos contratos celebrados e a celebrar as normas previstas nos artigos 2.º e 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março.\n\n2 - As entidades referidas no n.º 1 que tenham que proceder ao reagendamento dos espetáculos podem contratar bens, serviços ou trabalhos complementares, ao abrigo do disposto nos artigos 438.º e 454.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, bem como aplicar o regime da revisão de preços, se aplicável.\n\n3 - As entidades referidas no n.º 1 que tenham de cancelar os espetáculos por impossibilidade de reagendamento dos mesmos podem proceder ao pagamento do preço dos compromissos anteriormente assumidos, caso o bem ou serviço tenha sido efetivamente prestado, ou na respetiva proporção, aplicando-se o disposto no artigo 299.º do CCP.\n\n4 - As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 24 meses após a cessação das medidas de proibição ou limitação de realização de espetáculos.\n\n5 - As entidades referidas no n.º 1 devem garantir, nos casos de cancelamento e reagendamentos, a realização dos pagamentos nos prazos contratualmente estipulados ou, o mais tardar, na data que se encontrava inicialmente agendado o espetáculo, no montante mínimo de 50 % do preço contratual, sem prejuízo de eventual alteração do contrato com vista à nova calendarização do espetáculo e pagamentos subsequentes.\n\n6 - As entidades referidas no n.º 1 devem garantir a conclusão dos procedimentos de formação de contratos públicos para os quais já tenha sido emitida a decisão de contratar e envio de convite à apresentação de propostas, nos casos de programação já anunciada, mas ainda não contratualizada, aplicando-se o disposto nos números anteriores após a assinatura do contrato.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "131331519": {
+   "fragment_id": "131338963",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Intermediários",
+   "in_force_from": "2020-04-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º-A — Intermediários\n\n1 - Sempre que os pagamentos previstos no artigo anterior sejam efetuados a agentes, produtores e companhias de espetáculo ou a quaisquer outros intermediários, devem estes, no prazo de 10 dias úteis, após receberem o pagamento da entidade contratante referida no n.º 1 do artigo anterior, proceder ao pagamento proporcional e equitativo aos trabalhadores envolvidos nos eventos respetivos, designadamente autores, artistas, técnicos e outros profissionais e empresas que tenham sido contratados para o espetáculo em questão, sem prejuízo da cobrança proporcional de comissões que lhes sejam devidas.\n\n2 - Nos casos de reagendamento, os pagamentos referidos no número anterior são havidos como sinal e princípio de pagamento da prestação a efetuar na data para a qual o espetáculo vier a ser reagendado.\n\n> Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "131331520": {
+   "fragment_id": "131338959",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito subsidiário\n\nEm tudo o que não estiver expressamente previsto no presente decreto-lei, aplica-se o disposto no Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual."
+  },
+  "131331521": {
+   "fragment_id": "131338960",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito transitório formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito transitório formal\n\nO presente decreto-lei aplica-se aos contratos celebrados relativos à realização dos espetáculos referidos no artigo 2.º, em data anterior à sua entrada em vigor, prevalecendo sobre os mesmos."
+  },
+  "131331522": {
+   "fragment_id": "131338961",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora pelo período de um ano após o término do estado de emergência."
+  },
+  "131331523": {
+   "fragment_id": "131338962",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149049"
+  },
+  "134770848": {
+   "fragment_id": "131338948",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos de natureza artística, promovidos por entidades públicas ou privadas, não realizados no local, data e hora previamente agendados.\n\n2 - Para efeitos do presente decreto-lei entende-se por espetáculos de natureza artística os referidos na alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual, doravante «espetáculos»."
+  },
+  "134867590": {
+   "fragment_id": "131338949",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - O presente decreto-lei é aplicável ao reagendamento ou cancelamento de espetáculos que não possam ser realizados entre os dias 28 de fevereiro de 2020 e 30 de setembro de 2020, inclusive.\n\n2 - Para efeitos do número anterior, entende-se que um espetáculo não pode ser realizado sempre que estiver abrangido por uma proibição ou interdição legal ou sempre que as limitações impostas à sua realização por razões de saúde pública desvirtuem a sua natureza ou tornem economicamente inviável a realização.\n\n3 - O presente decreto-lei estabelece as regras aplicáveis à:\n\na) Venda, substituição e restituição do preço dos bilhetes de ingresso daqueles espetáculos;\n\nb) Restituição dos valores pagos com as reservas das salas e recintos daqueles espetáculos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134770850": {
+   "fragment_id": "131338950",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação subjetivo\n\nO presente decreto-lei aplica-se, independentemente da natureza pública ou privada, a todos:\n\na) Os agentes culturais, nomeadamente, aos artistas, intérpretes e executantes, autores, produtores, promotores de espetáculos, agentes, doravante agentes culturais;\n\nb) Os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos;\n\nc) As agências, postos de venda e plataformas de venda eletrónica de bilhetes."
+  },
+  "134770847": {
+   "fragment_id": "134867390",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Reabertura gradual",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 3.º-A — Reabertura gradual\n\nO Governo assegura, com uma periodicidade não superior a 30 dias, o anúncio do calendário do levantamento ou não das restrições à realização de espetáculos ao vivo, adequando-o à evolução das condições do combate à pandemia.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134867596": {
+   "fragment_id": "134867391",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Força maior",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 3.º-B — Força maior\n\n1 - O cancelamento de espetáculos decorrente de interdições e limitações de funcionamento de atividades ou recintos de espetáculos é considerado como resultando de motivo de força maior para todos os efeitos legais e contratuais em relação a contratos e negócios jurídicos celebrados, bem como a outras obrigações e compromissos assumidos que tenham por causa a realização do espetáculo cancelado.\n\n2 - Devem as partes, sempre que possível, manter os respetivos contratos, assegurando os seus objetos e objetivos, e cumprindo as suas obrigações em relação à data que vier a ser escolhida para reagendamento e, em qualquer caso, procurar alcançar a repartição equitativa de custos e riscos contratuais, evitando prejuízos ou benefícios injustificados.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134867591": {
+   "fragment_id": "131338951",
+   "type": 11,
+   "heading": "Artigo 4.º — Reagendamento de espetáculos",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 4.º — Reagendamento de espetáculos\n\n1 - Os espetáculos abrangidos pelo presente decreto-lei devem, sempre que possível, ser reagendados até ao termo do prazo previsto no n.º 1 do artigo 2.º, sob pena de o adiamento ser havido, para todos os efeitos, como cancelamento.\n\n2 - O espetáculo reagendado tem de ocorrer no prazo máximo de um ano após a data inicialmente prevista.\n\n3 - O reagendamento pode implicar, alternativa ou cumulativamente, a alteração de local, data e hora, mediante acordo entre os agentes culturais envolvidos e as entidades referidas na alínea b) do artigo anterior.\n\n4 - A alteração do local do espetáculo fica limitada à cidade, área metropolitana ou a um raio de 50 km relativamente à localização inicialmente prevista.\n\n5 - O reagendamento do espetáculo pode, se necessário, implicar a substituição dos bilhetes de ingresso já vendidos.\n\n6 - A alteração do local, da data e/ou da hora da realização de espetáculos, e se aplicável, o local, físico e eletrónico, o modo e o prazo de substituição dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes cultuais.\n\n7 - Pela substituição do bilhete de ingresso não pode ser cobrado qualquer outro valor ou comissão.\n\n8 - O reagendamento do espetáculo não dá lugar à restituição do preço do bilhete, nem pode implicar o aumento do respetivo custo para quem já fosse seu portador à data do reagendamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134867592": {
+   "fragment_id": "131338952",
+   "type": 11,
+   "heading": "Artigo 5.º — Cancelamento de espetáculos",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 5.º — Cancelamento de espetáculos\n\n1 - Sempre que não seja objetivamente possível o reagendamento do espetáculo, ou a sua impossibilidade não possa ser imputada ao promotor, o mesmo deve ser cancelado.\n\n2 - O cancelamento do espetáculo, bem como o local, físico e eletrónico, o modo e o prazo de restituição do preço dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes culturais.\n\n3 - O cancelamento do espetáculo dá lugar à restituição do preço dos bilhetes de ingresso já vendidos, o qual deve ocorrer no prazo máximo de 60 dias úteis após o anúncio do cancelamento.\n\n4 - Para efeitos do disposto no n.º 1, considera-se:\n\na) Objetivamente impossível o reagendamento do espetáculo para a celebração de festividades locais ou regionais ou de determinados dias específicos que não sejam repetíveis no prazo previsto no n.º 2 do artigo 4.º;\n\nb) Que o reagendamento não é imputável ao promotor sempre que não exista nenhuma sala ou recinto de espetáculo com a lotação da inicialmente contratada, na área prevista no n.º 4 do artigo 4.º, no prazo estabelecido no n.º 1 do mesmo artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134867597": {
+   "fragment_id": "134867392",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Festivais e espetáculos de natureza análoga",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 5.º-A — Festivais e espetáculos de natureza análoga\n\n1 - É proibida, até 30 de setembro de 2020, a realização ao vivo em recintos cobertos ou ao ar livre de festivais e espetáculos de natureza análoga declarados como tais no ato de comunicação feito nos termos do Decreto-Lei n.º 90/2019, de 5 de junho.\n\n2 - Os espetáculos referidos no número anterior podem excecionalmente ter lugar, em recinto coberto ou ao ar livre, com lugar marcado, após comunicação nos termos do número anterior e no respeito pela lotação especificamente definida pela Direção-Geral da Saúde em função das regras de distanciamento físico que sejam adequadas face à evolução da pandemia da doença COVID-19.\n\n3 - O Governo pode, com fundamento em recomendação da Direção-Geral da Saúde, antecipar o fim da proibição ou prorrogar a proibição consagrada no n.º 1, através de decreto-lei.\n\n4 - Os portadores de bilhetes de ingresso dos espetáculos referidos no n.º 1 têm direito à emissão de um vale de igual valor ao preço pago.\n\n5 - O vale referido no número anterior:\n\na) É emitido à ordem do portador do bilhete de ingresso e é transmissível a terceiros por mera tradição;\n\nb) É válido até 31 de dezembro de 2021;\n\nc) Refere a possibilidade de ser utilizado na aquisição de bilhetes de ingresso para o mesmo espetáculo a realizar em nova data ou para outros eventos realizados pelo mesmo promotor;\n\nd) Mantém o seguro que tiver sido contratado no momento da aquisição do bilhete de ingresso.\n\n6 - Caso o vale referido no n.º 4 não seja utilizado até ao dia 31 de dezembro de 2021, o portador tem direito ao reembolso do valor do mesmo, a solicitar no prazo de 14 dias úteis.\n\n7 - Os agentes culturais devem publicitar, designadamente, as seguintes informações:\n\na) O cancelamento do espetáculo ou a nova data para a sua realização;\n\nb) O local, físico ou eletrónico, o modo e o prazo para emissão de vale;\n\nc) Todos os espetáculos a realizar pelo mesmo promotor, até 31 de dezembro de 2021, que permitam a utilização dos vales emitidos, bem como o local, físico e eletrónico, o modo e o prazo para utilização do mesmo;\n\nd) A lista das agências, postos de venda e plataformas de venda eletrónica de bilhetes que permitam a utilização do vale;\n\ne) O local, físico ou eletrónico, o modo e o prazo de reembolso do vale não utilizado.\n\n8 - A emissão e utilização do vale previsto no n.º 4, bem como o reembolso previsto no número anterior, não podem implicar a cobrança de qualquer outro valor ou comissão ao portador do bilhete de ingresso.\n\n9 - O reagendamento do espetáculo não pode implicar o aumento do custo do bilhete de ingresso para aqueles que à data do reagendamento já fossem portadores dos mesmos.\n\n10 - Quando, nos termos da alínea c) do n.º 5, o valor do bilhete de ingresso para outro evento realizado pelo mesmo promotor seja superior ao valor do vale, este poderá ser utilizado como princípio de pagamento de bilhetes de ingresso de valor superior, para outros eventos realizados pelo mesmo promotor.\n\n11 - Quando, nos termos da alínea c) do n.º 5, o valor do bilhete de ingresso para outro evento realizado pelo mesmo promotor seja inferior ao valor do vale, o remanescente pode ser utilizado para aquisição de bilhetes de ingresso para outros eventos do mesmo promotor.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134867593": {
+   "fragment_id": "131338953",
+   "type": 11,
+   "heading": "Artigo 6.º — Substituição bilhetes de ingresso",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 6.º — Substituição bilhetes de ingresso\n\nEm alternativa ao previsto no n.º 5 do artigo 4.º e no n.º 3 do artigo 5.º, a pedido do portador do bilhete de ingresso, que não tenha sido reembolsado do valor do mesmo, os agentes culturais podem proceder à substituição do bilhete do espetáculo por outro espetáculo diferente, ajustando-se o preço devido.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134867580": {
+   "fragment_id": "131338954",
+   "type": 11,
+   "heading": "Artigo 7.º — Cobrança de comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cobrança de comissões\n\nAs agências, os postos de venda e as plataformas de venda eletrónica de bilhetes, bem como os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos que tenham bilhética própria, não podem exigir aos agentes culturais a comissão devida pelos espetáculos não realizados ou cancelados abrangidos pelo artigo 2.º"
+  },
+  "134867581": {
+   "fragment_id": "131338955",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalações e estabelecimentos de espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instalações e estabelecimentos de espetáculos\n\n1 - Pelo reagendamento do espetáculo não podem os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos cobrar qualquer valor suplementar ao agente cultural.\n\n2 - Em caso de cancelamento do espetáculo os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos devem proceder ao reembolso do valor da reserva ao agente cultural, no prazo de 90 dias úteis após o término do estado de emergência ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização posterior de outro espetáculo."
+  },
+  "134867594": {
+   "fragment_id": "131338956",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Sem prejuízo de outras responsabilidades penais e civis que ao caso sejam aplicáveis, as infrações ao disposto nos n.os 1 e 2 do artigo 11.º e no n.º 1 do artigo 11.º-A constituem contraordenação punível com coima entre 250 (euro) e 2500 (euro), no caso das pessoas singulares, e de 500 (euro) a 15 000 (euro), no caso das pessoas coletivas.\n\n2 - A negligência é punível, sendo os montantes mínimos e máximos da coima reduzidos para metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "134867583": {
+   "fragment_id": "131338957",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nCompete à Inspeção-Geral das Atividades Culturais a fiscalização do cumprimento do previsto no presente decreto-lei."
+  },
+  "134867595": {
+   "fragment_id": "131338958",
+   "type": 11,
+   "heading": "Artigo 11.º — Espetáculos promovidos por entidades públicas",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º — Espetáculos promovidos por entidades públicas\n\n1 - Quando os espetáculos abrangidos pelo presente decreto-lei forem promovidos por entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos (CCP) ou, independentemente da natureza pública ou privada do promotor, sejam financiados maioritariamente por fundos públicos, deve o promotor, quer nos casos de cancelamento quer nos casos de reagendamento, realizar os pagamentos nos termos contratualmente estipulados, devendo garantir que, o mais tardar, na data que se encontrava inicialmente agendado o espetáculo, é pago um montante mínimo equivalente a 50 % do preço contratual, sem prejuízo, nos casos de reagendamento, da nova calendarização do espetáculo e da realização dos demais pagamentos a que houver lugar nos termos do contrato.\n\n2 - Caso o preço das prestações contratuais já realizadas supere o preço a pagar nos termos do número anterior, devem as entidades aí referidas pagar a diferença, aplicando-se o disposto no artigo 299.º do CCP.\n\n3 - Para dar integral cumprimento ao disposto nos números anteriores, as entidades referidas no n.º 1 podem, nos casos de reagendamento, contratar bens, serviços ou trabalhos complementares, ao abrigo do disposto nos artigos 370.º, 438.º e 454.º do CCP, bem como aplicar o regime da revisão de preços, se aplicável.\n\n4 - As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 18 meses após a cessação da vigência das medidas legislativas de proibição ou limitação de realização de espetáculos.\n\n5 - As obrigações previstas no presente artigo aplicam-se, igualmente, aos casos em que ainda não tivesse sido finalizada a celebração do contrato à data da entrada em vigor do presente decreto-lei, desde que:\n\na) O procedimento da respetiva formação já tivesse sido iniciado; ou\n\nb) A programação tivesse sido anunciada; ou\n\nc) As entidades promotoras tivessem comunicado por escrito ao agente cultural a confirmação da realização do espetáculo em causa, aceitando o preço e respetiva data.\n\n6 - Nos casos referidos no número anterior, as entidades adjudicantes referidas no n.º 1 devem iniciar ou concluir os procedimentos de aprovação da despesa e de formação de contratos públicos necessários à celebração efetiva do contrato e à realização dos pagamentos a que haja lugar, quer nos casos de cancelamento quer nos casos de reagendamento, podendo, quer no caso de procedimentos a iniciar quer no caso de procedimentos já iniciados, adotar as normas previstas nos artigos 2.º e 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março, com as necessárias adaptações.\n\n7 - Caso a data inicial do espetáculo ocorra até ao termo do prazo previsto no n.º 1 do artigo 2.º, deve a entidade promotora informar o agente cultural, com pelo menos 30 dias de antecedência, se pretende manter a data inicial.\n\n8 - O disposto no presente artigo aplica-se, igualmente, com as necessárias adaptações, a eventos que se repetem anualmente, relativamente aos quais não tenha sido possível, seja porque razão for, iniciar o procedimento de formação do respetivo contrato.8 - O disposto no presente artigo aplica-se, igualmente, com as necessárias adaptações, a eventos que se repetem anualmente, relativamente aos quais não tenha sido possível, seja porque razão for, iniciar o procedimento de formação do respetivo contrato.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "134867585": {
+   "fragment_id": "131338963",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Intermediários",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º-A — Intermediários\n\n1 - Sempre que os pagamentos previstos no artigo anterior sejam efetuados a agentes, produtores e companhias de espetáculo ou a quaisquer outros intermediários, devem estes, no prazo de 10 dias úteis, após receberem o pagamento da entidade contratante referida no n.º 1 do artigo anterior, proceder ao pagamento proporcional e equitativo aos trabalhadores envolvidos nos eventos respetivos, designadamente autores, artistas, técnicos e outros profissionais e empresas que tenham sido contratados para o espetáculo em questão, sem prejuízo da cobrança proporcional de comissões que lhes sejam devidas.\n\n2 - Nos casos de reagendamento, os pagamentos referidos no número anterior são havidos como sinal e princípio de pagamento da prestação a efetuar na data para a qual o espetáculo vier a ser reagendado.\n\n> Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "134867586": {
+   "fragment_id": "131338959",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito subsidiário\n\nEm tudo o que não estiver expressamente previsto no presente decreto-lei, aplica-se o disposto no Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual."
+  },
+  "134867587": {
+   "fragment_id": "131338960",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito transitório formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito transitório formal\n\nO presente decreto-lei aplica-se aos contratos celebrados relativos à realização dos espetáculos referidos no artigo 2.º, em data anterior à sua entrada em vigor, prevalecendo sobre os mesmos."
+  },
+  "134867588": {
+   "fragment_id": "131338961",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora pelo período de um ano após o término do estado de emergência."
+  },
+  "134867589": {
+   "fragment_id": "131338962",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149049"
+  },
+  "154484836": {
+   "fragment_id": "131338949",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": "2021-01-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - O presente decreto-lei é aplicável ao reagendamento ou cancelamento de espetáculos não realizados entre os dias 28 de fevereiro de 2020 e 31 de março de 2021.\n\n2 - Para efeitos do número anterior, entende-se que um espetáculo não pode ser realizado sempre que estiver abrangido por uma proibição ou interdição legal ou sempre que as limitações impostas à sua realização por razões de saúde pública desvirtuem a sua natureza ou tornem economicamente inviável a realização.\n\n3 - O presente decreto-lei estabelece as regras aplicáveis à:\n\na) Venda, substituição e restituição do preço dos bilhetes de ingresso daqueles espetáculos;\n\nb) Restituição dos valores pagos com as reservas das salas e recintos daqueles espetáculos.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "154484837": {
+   "fragment_id": "131338951",
+   "type": 11,
+   "heading": "Artigo 4.º — Reagendamento de espetáculos",
+   "in_force_from": "2021-01-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 4.º — Reagendamento de espetáculos\n\n1 - Os espetáculos abrangidos pelo presente decreto-lei devem, sempre que possível, ser reagendados até ao termo do prazo previsto no n.º 1 do artigo 2.º, sob pena de o adiamento ser havido, para todos os efeitos, como cancelamento.\n\n2 - O espetáculo reagendado tem de ocorrer até 30 de setembro de 2021.\n\n3 - O reagendamento pode implicar, alternativa ou cumulativamente, a alteração de local, data e hora, mediante acordo entre os agentes culturais envolvidos e as entidades referidas na alínea b) do artigo anterior.\n\n4 - A alteração do local do espetáculo fica limitada à cidade, área metropolitana ou a um raio de 50 km relativamente à localização inicialmente prevista.\n\n5 - O reagendamento do espetáculo pode, se necessário, implicar a substituição dos bilhetes de ingresso já vendidos.\n\n6 - A alteração do local, da data e/ou da hora da realização de espetáculos, e se aplicável, o local, físico e eletrónico, o modo e o prazo de substituição dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes cultuais.\n\n7 - Pela substituição do bilhete de ingresso não pode ser cobrado qualquer outro valor ou comissão.\n\n8 - O reagendamento do espetáculo não dá lugar à restituição do preço do bilhete, nem pode implicar o aumento do respetivo custo para quem já fosse seu portador à data do reagendamento.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "160984978": {
+   "fragment_id": "131338949",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": "2021-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - O presente decreto-lei é aplicável ao reagendamento ou cancelamento de espetáculos não realizados, por determinação legislativa ou administrativa de fonte governamental, bem como da autoridade nacional de saúde.\n\n2 - Para efeitos do número anterior, entende-se que um espetáculo não pode ser realizado sempre que estiver abrangido por uma proibição ou interdição legal ou sempre que as limitações impostas à sua realização por razões de saúde pública desvirtuem a sua natureza ou tornem economicamente inviável a realização.\n\n3 - O presente decreto-lei estabelece as regras aplicáveis à:\n\na) Venda, substituição e restituição do preço dos bilhetes de ingresso daqueles espetáculos;\n\nb) Restituição dos valores pagos com as reservas das salas e recintos daqueles espetáculos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "160984979": {
+   "fragment_id": "131338951",
+   "type": 11,
+   "heading": "Artigo 4.º — Reagendamento de espetáculos",
+   "in_force_from": "2021-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 4.º — Reagendamento de espetáculos\n\n1 - Os espetáculos abrangidos pelo presente decreto-lei devem, sempre que possível, ser reagendados até 14 dias úteis antes da data prevista para a realização do evento, sob pena de o adiamento ser havido, para todos os efeitos, como cancelamento.\n\n2 - O espetáculo reagendado tem de ocorrer até 31 de dezembro de 2022.\n\n3 - O reagendamento pode implicar, alternativa ou cumulativamente, a alteração de local, data e hora, mediante acordo entre os agentes culturais envolvidos e as entidades referidas na alínea b) do artigo 3.º\n\n4 - A alteração do local do espetáculo fica limitada à cidade, área metropolitana ou a um raio de 50 km relativamente à localização inicialmente prevista.\n\n5 - O reagendamento do espetáculo pode, se necessário, implicar a substituição dos bilhetes de ingresso já vendidos.\n\n6 - A alteração do local, da data e/ou da hora da realização de espetáculos, e se aplicável, o local, físico e eletrónico, o modo e o prazo de substituição dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes cultuais.\n\n7 - Pela substituição do bilhete de ingresso não pode ser cobrado qualquer outro valor ou comissão.\n\n8 - O reagendamento do espetáculo não dá lugar à restituição do preço do bilhete, nem pode implicar o aumento do respetivo custo para quem já fosse seu portador à data do reagendamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "160984977": {
+   "fragment_id": "134867392",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Festivais e espetáculos de natureza análoga no ano de 2020",
+   "in_force_from": "2021-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 5.º-A — Festivais e espetáculos de natureza análoga no ano de 2020\n\n1 - É proibida, até 30 de setembro de 2020, a realização ao vivo em recintos cobertos ou ao ar livre de festivais e espetáculos de natureza análoga declarados como tais no ato de comunicação feito nos termos do Decreto-Lei n.º 90/2019, de 5 de junho.\n\n2 - Os espetáculos referidos no número anterior podem excecionalmente ter lugar, em recinto coberto ou ao ar livre, com lugar marcado, após comunicação nos termos do número anterior e no respeito pela lotação especificamente definida pela Direção-Geral da Saúde em função das regras de distanciamento físico que sejam adequadas face à evolução da pandemia da doença COVID-19.\n\n3 - O Governo pode, com fundamento em recomendação da Direção-Geral da Saúde, antecipar o fim da proibição ou prorrogar a proibição consagrada no n.º 1, através de decreto-lei.\n\n4 - Os portadores de bilhetes de ingresso dos espetáculos referidos no n.º 1 têm direito à emissão de um vale de igual valor ao preço pago.\n\n5 - O vale referido no número anterior:\n\na) É emitido à ordem do portador do bilhete de ingresso e é transmissível a terceiros por mera tradição;\n\nb) É válido até 31 de dezembro de 2021;\n\nc) Refere a possibilidade de ser utilizado na aquisição de bilhetes de ingresso para o mesmo espetáculo a realizar em nova data ou para outros eventos realizados pelo mesmo promotor;\n\nd) Mantém o seguro que tiver sido contratado no momento da aquisição do bilhete de ingresso.\n\n6 - Caso o vale referido no n.º 4 não seja utilizado até ao dia 31 de dezembro de 2021, o portador tem direito ao reembolso do valor do mesmo, a solicitar no prazo de 14 dias úteis.\n\n7 - Os agentes culturais devem publicitar, designadamente, as seguintes informações:\n\na) O cancelamento do espetáculo ou a nova data para a sua realização;\n\nb) O local, físico ou eletrónico, o modo e o prazo para emissão de vale;\n\nc) Todos os espetáculos a realizar pelo mesmo promotor, até 31 de dezembro de 2021, que permitam a utilização dos vales emitidos, bem como o local, físico e eletrónico, o modo e o prazo para utilização do mesmo;\n\nd) A lista das agências, postos de venda e plataformas de venda eletrónica de bilhetes que permitam a utilização do vale;\n\ne) O local, físico ou eletrónico, o modo e o prazo de reembolso do vale não utilizado.\n\n8 - A emissão e utilização do vale previsto no n.º 4, bem como o reembolso previsto no número anterior, não podem implicar a cobrança de qualquer outro valor ou comissão ao portador do bilhete de ingresso.\n\n9 - O reagendamento do espetáculo não pode implicar o aumento do custo do bilhete de ingresso para aqueles que à data do reagendamento já fossem portadores dos mesmos.\n\n10 - Quando, nos termos da alínea c) do n.º 5, o valor do bilhete de ingresso para outro evento realizado pelo mesmo promotor seja superior ao valor do vale, este poderá ser utilizado como princípio de pagamento de bilhetes de ingresso de valor superior, para outros eventos realizados pelo mesmo promotor.\n\n11 - Quando, nos termos da alínea c) do n.º 5, o valor do bilhete de ingresso para outro evento realizado pelo mesmo promotor seja inferior ao valor do vale, o remanescente pode ser utilizado para aquisição de bilhetes de ingresso para outros eventos do mesmo promotor.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968) A proibição consagrada no n.º 1 do presente artigo é prorrogada até 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "160900853": {
+   "fragment_id": "160900551",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Festivais e espetáculos de natureza análoga no ano de 2021",
+   "in_force_from": "2021-04-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+   ],
+   "markdown": "###### Artigo 5.º-B — Festivais e espetáculos de natureza análoga no ano de 2021\n\n1 - No ano de 2021, a realização ao vivo, em recintos cobertos ou ao ar livre, de festivais ou espetáculos de natureza análoga, declarados como tais no ato de comunicação feito nos termos do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na redação dada pelo Decreto-Lei n.º 90/2019, de 5 de julho, obedece às orientações emitidas pela Direção-Geral de Saúde face à evolução da pandemia da doença COVID-19.\n\n2 - Podem ser promovidos, em articulação com a Direção-Geral da Saúde, eventos teste-piloto para a definição das orientações técnicas, nomeadamente relativas à ocupação de lugares, à lotação e ao distanciamento físico.\n\n3 - Os espetadores, artistas e técnicos, bem como todos os trabalhadores e prestadores de serviços envolvidos na organização, realização e produção de festivais e espetáculos de natureza análoga podem ser sujeitos à realização de testes de diagnóstico de SARS-CoV-2.\n\n4 - Ao reagendamento e cancelamento de festivais e espetáculos de natureza análoga, aplicam-se com as necessárias adaptações, o disposto nos n.os 4 a 11 do artigo anterior, nomeadamente:\n\na) Os vales são válidos até 31 de dezembro de 2022;\n\nb) Os espetáculos reagendados devem ocorrer até 31 de dezembro de 2022.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+  },
+  "160900865": {
+   "fragment_id": "160900552",
+   "type": 11,
+   "heading": "Artigo 5.º-C — Casos especiais de reagendamento de espetáculos, festivais e espetáculos de natureza análoga",
+   "in_force_from": "2021-04-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+   ],
+   "markdown": "###### Artigo 5.º-C — Casos especiais de reagendamento de espetáculos, festivais e espetáculos de natureza análoga\n\n1 - O reagendamento de espetáculos, festivais e espetáculos de natureza análoga inicialmente agendados para o ano de 2020 e que ocorram apenas em 2022, dá lugar à restituição do preço do bilhete de ingresso ao respetivo portador, nos termos do disposto nos números seguintes.\n\n2 - O portador do bilhete tem direito a solicitar a devolução do respetivo preço no prazo de 14 dias úteis a contar da data prevista para a realização do evento no ano de 2021.\n\n3 - O portador de um vale emitido com data de validade até 31 de dezembro de 2021 tem direito a solicitar o reembolso do seu valor no prazo de 14 dias úteis após o término de validade do respetivo vale.\n\n4 - Na falta de pedido de reembolso, nos prazos referidos nos n.os 2 e 3, considera-se que o portador do bilhete ou do vale aceita o reagendamento do espetáculo, festival ou espetáculo de natureza análoga sem direito ao reembolso do respetivo valor, aplicando-se com as necessárias adaptações o disposto no artigo 4.º e nos n.os 4 a 11 do artigo 5.º-A, nomeadamente:\n\na) Os vales são válidos até 31 de dezembro de 2022;\n\nb) Os espetáculos reagendados devem ocorrer até 31 de dezembro de 2022.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+  },
+  "160900866": {
+   "fragment_id": "131338953",
+   "type": 11,
+   "heading": "Artigo 6.º — Substituição bilhetes de ingresso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 6.º — Substituição bilhetes de ingresso\n\nEm alternativa ao previsto no n.º 5 do artigo 4.º e no n.º 3 do artigo 5.º, a pedido do portador do bilhete de ingresso, que não tenha sido reembolsado do valor do mesmo, os agentes culturais podem proceder à substituição do bilhete do espetáculo por outro espetáculo diferente, ajustando-se o preço devido.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "160900867": {
+   "fragment_id": "131338954",
+   "type": 11,
+   "heading": "Artigo 7.º — Cobrança de comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cobrança de comissões\n\nAs agências, os postos de venda e as plataformas de venda eletrónica de bilhetes, bem como os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos que tenham bilhética própria, não podem exigir aos agentes culturais a comissão devida pelos espetáculos não realizados ou cancelados abrangidos pelo artigo 2.º"
+  },
+  "160900868": {
+   "fragment_id": "131338955",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalações e estabelecimentos de espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instalações e estabelecimentos de espetáculos\n\n1 - Pelo reagendamento do espetáculo não podem os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos cobrar qualquer valor suplementar ao agente cultural.\n\n2 - Em caso de cancelamento do espetáculo os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos devem proceder ao reembolso do valor da reserva ao agente cultural, no prazo de 90 dias úteis após o término do estado de emergência ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização posterior de outro espetáculo."
+  },
+  "160900869": {
+   "fragment_id": "131338956",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Sem prejuízo de outras responsabilidades penais e civis que ao caso sejam aplicáveis, as infrações ao disposto nos n.os 1 e 2 do artigo 11.º e no n.º 1 do artigo 11.º-A constituem contraordenação punível com coima entre 250 (euro) e 2500 (euro), no caso das pessoas singulares, e de 500 (euro) a 15 000 (euro), no caso das pessoas coletivas.\n\n2 - A negligência é punível, sendo os montantes mínimos e máximos da coima reduzidos para metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "160900870": {
+   "fragment_id": "131338957",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nCompete à Inspeção-Geral das Atividades Culturais a fiscalização do cumprimento do previsto no presente decreto-lei."
+  },
+  "160984980": {
+   "fragment_id": "131338958",
+   "type": 11,
+   "heading": "Artigo 11.º — Espetáculos promovidos por entidades públicas",
+   "in_force_from": "2021-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º — Espetáculos promovidos por entidades públicas\n\n1 - Quando os espetáculos abrangidos pelo presente decreto-lei forem promovidos por entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos (CCP) ou, independentemente da natureza pública ou privada do promotor, sejam financiados maioritariamente por fundos públicos, deve o promotor, quer nos casos de cancelamento quer nos casos de reagendamento, realizar os pagamentos nos termos contratualmente estipulados, devendo garantir que, o mais tardar, na data que se encontrava inicialmente agendado o espetáculo, é pago um montante mínimo equivalente a 50 % do preço contratual, sem prejuízo, nos casos de reagendamento, da nova calendarização do espetáculo e da realização dos demais pagamentos a que houver lugar nos termos do contrato.\n\n2 - Caso o preço das prestações contratuais já realizadas supere o preço a pagar nos termos do número anterior, devem as entidades aí referidas pagar a diferença, aplicando-se o disposto no artigo 299.º do CCP.\n\n3 - Para dar integral cumprimento ao disposto nos números anteriores, as entidades referidas no n.º 1 podem, nos casos de reagendamento, contratar bens, serviços ou trabalhos complementares, ao abrigo do disposto nos artigos 370.º, 438.º e 454.º do CCP, bem como aplicar o regime da revisão de preços, se aplicável.\n\n4 - As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 18 meses após a cessação da vigência das medidas legislativas de proibição ou limitação de realização de espetáculos.\n\n5 - As obrigações previstas no presente artigo aplicam-se, igualmente, aos casos em que ainda não tivesse sido finalizada a celebração do contrato à data da entrada em vigor do presente decreto-lei, desde que:\n\na) O procedimento da respetiva formação já tivesse sido iniciado; ou\n\nb) A programação tivesse sido anunciada; ou\n\nc) As entidades promotoras tivessem comunicado por escrito ao agente cultural a confirmação da realização do espetáculo em causa, aceitando o preço e respetiva data.\n\n6 - Nos casos referidos no número anterior, as entidades adjudicantes referidas no n.º 1 devem iniciar ou concluir os procedimentos de aprovação da despesa e de formação de contratos públicos necessários à celebração efetiva do contrato e à realização dos pagamentos a que haja lugar, quer nos casos de cancelamento quer nos casos de reagendamento, podendo, quer no caso de procedimentos a iniciar quer no caso de procedimentos já iniciados, adotar as normas previstas nos artigos 2.º e 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março, com as necessárias adaptações.\n\n7 - A entidade promotora deve informar o agente cultural, com pelo menos 30 dias de antecedência, se pretende manter a data inicial.\n\n8 - O disposto no presente artigo aplica-se, igualmente, com as necessárias adaptações, a eventos que se repetem anualmente, relativamente aos quais não tenha sido possível, seja porque razão for, iniciar o procedimento de formação do respetivo contrato.8 - O disposto no presente artigo aplica-se, igualmente, com as necessárias adaptações, a eventos que se repetem anualmente, relativamente aos quais não tenha sido possível, seja porque razão for, iniciar o procedimento de formação do respetivo contrato.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "160900872": {
+   "fragment_id": "131338963",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Intermediários",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º-A — Intermediários\n\n1 - Sempre que os pagamentos previstos no artigo anterior sejam efetuados a agentes, produtores e companhias de espetáculo ou a quaisquer outros intermediários, devem estes, no prazo de 10 dias úteis, após receberem o pagamento da entidade contratante referida no n.º 1 do artigo anterior, proceder ao pagamento proporcional e equitativo aos trabalhadores envolvidos nos eventos respetivos, designadamente autores, artistas, técnicos e outros profissionais e empresas que tenham sido contratados para o espetáculo em questão, sem prejuízo da cobrança proporcional de comissões que lhes sejam devidas.\n\n2 - Nos casos de reagendamento, os pagamentos referidos no número anterior são havidos como sinal e princípio de pagamento da prestação a efetuar na data para a qual o espetáculo vier a ser reagendado.\n\n> Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "160900873": {
+   "fragment_id": "131338959",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito subsidiário\n\nEm tudo o que não estiver expressamente previsto no presente decreto-lei, aplica-se o disposto no Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual."
+  },
+  "160900874": {
+   "fragment_id": "131338960",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito transitório formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito transitório formal\n\nO presente decreto-lei aplica-se aos contratos celebrados relativos à realização dos espetáculos referidos no artigo 2.º, em data anterior à sua entrada em vigor, prevalecendo sobre os mesmos."
+  },
+  "160984981": {
+   "fragment_id": "131338961",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2021-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+  },
+  "160984976": {
+   "fragment_id": "131338962",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149049"
+  },
+  "202009173": {
+   "fragment_id": "131338948",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos de natureza artística, promovidos por entidades públicas ou privadas, não realizados no local, data e hora previamente agendados.\n\n2 - Para efeitos do presente decreto-lei entende-se por espetáculos de natureza artística os referidos na alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual, doravante «espetáculos».\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011875": {
+   "fragment_id": "131338950",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação subjetivo",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação subjetivo\n\nO presente decreto-lei aplica-se, independentemente da natureza pública ou privada, a todos:\n\na) Os agentes culturais, nomeadamente, aos artistas, intérpretes e executantes, autores, produtores, promotores de espetáculos, agentes, doravante agentes culturais;\n\nb) Os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos;\n\nc) As agências, postos de venda e plataformas de venda eletrónica de bilhetes.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009174": {
+   "fragment_id": "131338949",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - O presente decreto-lei é aplicável ao reagendamento ou cancelamento de espetáculos não realizados, por determinação legislativa ou administrativa de fonte governamental, bem como da autoridade nacional de saúde.\n\n2 - Para efeitos do número anterior, entende-se que um espetáculo não pode ser realizado sempre que estiver abrangido por uma proibição ou interdição legal ou sempre que as limitações impostas à sua realização por razões de saúde pública desvirtuem a sua natureza ou tornem economicamente inviável a realização.\n\n3 - O presente decreto-lei estabelece as regras aplicáveis à:\n\na) Venda, substituição e restituição do preço dos bilhetes de ingresso daqueles espetáculos;\n\nb) Restituição dos valores pagos com as reservas das salas e recintos daqueles espetáculos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011876": {
+   "fragment_id": "134867390",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Reabertura gradual",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 3.º-A — Reabertura gradual\n\nO Governo assegura, com uma periodicidade não superior a 30 dias, o anúncio do calendário do levantamento ou não das restrições à realização de espetáculos ao vivo, adequando-o à evolução das condições do combate à pandemia.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011877": {
+   "fragment_id": "134867391",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Força maior",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 3.º-B — Força maior\n\n1 - O cancelamento de espetáculos decorrente de interdições e limitações de funcionamento de atividades ou recintos de espetáculos é considerado como resultando de motivo de força maior para todos os efeitos legais e contratuais em relação a contratos e negócios jurídicos celebrados, bem como a outras obrigações e compromissos assumidos que tenham por causa a realização do espetáculo cancelado.\n\n2 - Devem as partes, sempre que possível, manter os respetivos contratos, assegurando os seus objetos e objetivos, e cumprindo as suas obrigações em relação à data que vier a ser escolhida para reagendamento e, em qualquer caso, procurar alcançar a repartição equitativa de custos e riscos contratuais, evitando prejuízos ou benefícios injustificados.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011878": {
+   "fragment_id": "131338951",
+   "type": 11,
+   "heading": "Artigo 4.º — Reagendamento de espetáculos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 4.º — Reagendamento de espetáculos\n\n1 - Os espetáculos abrangidos pelo presente decreto-lei devem, sempre que possível, ser reagendados até 14 dias úteis antes da data prevista para a realização do evento, sob pena de o adiamento ser havido, para todos os efeitos, como cancelamento.\n\n2 - O espetáculo reagendado tem de ocorrer até 31 de dezembro de 2022.\n\n3 - O reagendamento pode implicar, alternativa ou cumulativamente, a alteração de local, data e hora, mediante acordo entre os agentes culturais envolvidos e as entidades referidas na alínea b) do artigo 3.º\n\n4 - A alteração do local do espetáculo fica limitada à cidade, área metropolitana ou a um raio de 50 km relativamente à localização inicialmente prevista.\n\n5 - O reagendamento do espetáculo pode, se necessário, implicar a substituição dos bilhetes de ingresso já vendidos.\n\n6 - A alteração do local, da data e/ou da hora da realização de espetáculos, e se aplicável, o local, físico e eletrónico, o modo e o prazo de substituição dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes cultuais.\n\n7 - Pela substituição do bilhete de ingresso não pode ser cobrado qualquer outro valor ou comissão.\n\n8 - O reagendamento do espetáculo não dá lugar à restituição do preço do bilhete, nem pode implicar o aumento do respetivo custo para quem já fosse seu portador à data do reagendamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-E/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-15\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011879": {
+   "fragment_id": "131338952",
+   "type": 11,
+   "heading": "Artigo 5.º — Cancelamento de espetáculos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 5.º — Cancelamento de espetáculos\n\n1 - Sempre que não seja objetivamente possível o reagendamento do espetáculo, ou a sua impossibilidade não possa ser imputada ao promotor, o mesmo deve ser cancelado.\n\n2 - O cancelamento do espetáculo, bem como o local, físico e eletrónico, o modo e o prazo de restituição do preço dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes culturais.\n\n3 - O cancelamento do espetáculo dá lugar à restituição do preço dos bilhetes de ingresso já vendidos, o qual deve ocorrer no prazo máximo de 60 dias úteis após o anúncio do cancelamento.\n\n4 - Para efeitos do disposto no n.º 1, considera-se:\n\na) Objetivamente impossível o reagendamento do espetáculo para a celebração de festividades locais ou regionais ou de determinados dias específicos que não sejam repetíveis no prazo previsto no n.º 2 do artigo 4.º;\n\nb) Que o reagendamento não é imputável ao promotor sempre que não exista nenhuma sala ou recinto de espetáculo com a lotação da inicialmente contratada, na área prevista no n.º 4 do artigo 4.º, no prazo estabelecido no n.º 1 do mesmo artigo.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011880": {
+   "fragment_id": "134867392",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Festivais e espetáculos de natureza análoga no ano de 2020",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 5.º-A — Festivais e espetáculos de natureza análoga no ano de 2020\n\n1 - É proibida, até 30 de setembro de 2020, a realização ao vivo em recintos cobertos ou ao ar livre de festivais e espetáculos de natureza análoga declarados como tais no ato de comunicação feito nos termos do Decreto-Lei n.º 90/2019, de 5 de junho.\n\n2 - Os espetáculos referidos no número anterior podem excecionalmente ter lugar, em recinto coberto ou ao ar livre, com lugar marcado, após comunicação nos termos do número anterior e no respeito pela lotação especificamente definida pela Direção-Geral da Saúde em função das regras de distanciamento físico que sejam adequadas face à evolução da pandemia da doença COVID-19.\n\n3 - O Governo pode, com fundamento em recomendação da Direção-Geral da Saúde, antecipar o fim da proibição ou prorrogar a proibição consagrada no n.º 1, através de decreto-lei.\n\n4 - Os portadores de bilhetes de ingresso dos espetáculos referidos no n.º 1 têm direito à emissão de um vale de igual valor ao preço pago.\n\n5 - O vale referido no número anterior:\n\na) É emitido à ordem do portador do bilhete de ingresso e é transmissível a terceiros por mera tradição;\n\nb) É válido até 31 de dezembro de 2021;\n\nc) Refere a possibilidade de ser utilizado na aquisição de bilhetes de ingresso para o mesmo espetáculo a realizar em nova data ou para outros eventos realizados pelo mesmo promotor;\n\nd) Mantém o seguro que tiver sido contratado no momento da aquisição do bilhete de ingresso.\n\n6 - Caso o vale referido no n.º 4 não seja utilizado até ao dia 31 de dezembro de 2021, o portador tem direito ao reembolso do valor do mesmo, a solicitar no prazo de 14 dias úteis.\n\n7 - Os agentes culturais devem publicitar, designadamente, as seguintes informações:\n\na) O cancelamento do espetáculo ou a nova data para a sua realização;\n\nb) O local, físico ou eletrónico, o modo e o prazo para emissão de vale;\n\nc) Todos os espetáculos a realizar pelo mesmo promotor, até 31 de dezembro de 2021, que permitam a utilização dos vales emitidos, bem como o local, físico e eletrónico, o modo e o prazo para utilização do mesmo;\n\nd) A lista das agências, postos de venda e plataformas de venda eletrónica de bilhetes que permitam a utilização do vale;\n\ne) O local, físico ou eletrónico, o modo e o prazo de reembolso do vale não utilizado.\n\n8 - A emissão e utilização do vale previsto no n.º 4, bem como o reembolso previsto no número anterior, não podem implicar a cobrança de qualquer outro valor ou comissão ao portador do bilhete de ingresso.\n\n9 - O reagendamento do espetáculo não pode implicar o aumento do custo do bilhete de ingresso para aqueles que à data do reagendamento já fossem portadores dos mesmos.\n\n10 - Quando, nos termos da alínea c) do n.º 5, o valor do bilhete de ingresso para outro evento realizado pelo mesmo promotor seja superior ao valor do vale, este poderá ser utilizado como princípio de pagamento de bilhetes de ingresso de valor superior, para outros eventos realizados pelo mesmo promotor.\n\n11 - Quando, nos termos da alínea c) do n.º 5, o valor do bilhete de ingresso para outro evento realizado pelo mesmo promotor seja inferior ao valor do vale, o remanescente pode ser utilizado para aquisição de bilhetes de ingresso para outros eventos do mesmo promotor.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968) A proibição consagrada no n.º 1 do presente artigo é prorrogada até 31 de dezembro de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011881": {
+   "fragment_id": "160900551",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Festivais e espetáculos de natureza análoga no ano de 2021",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+   ],
+   "markdown": "###### Artigo 5.º-B — Festivais e espetáculos de natureza análoga no ano de 2021\n\n1 - No ano de 2021, a realização ao vivo, em recintos cobertos ou ao ar livre, de festivais ou espetáculos de natureza análoga, declarados como tais no ato de comunicação feito nos termos do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na redação dada pelo Decreto-Lei n.º 90/2019, de 5 de julho, obedece às orientações emitidas pela Direção-Geral de Saúde face à evolução da pandemia da doença COVID-19.\n\n2 - Podem ser promovidos, em articulação com a Direção-Geral da Saúde, eventos teste-piloto para a definição das orientações técnicas, nomeadamente relativas à ocupação de lugares, à lotação e ao distanciamento físico.\n\n3 - Os espetadores, artistas e técnicos, bem como todos os trabalhadores e prestadores de serviços envolvidos na organização, realização e produção de festivais e espetáculos de natureza análoga podem ser sujeitos à realização de testes de diagnóstico de SARS-CoV-2.\n\n4 - Ao reagendamento e cancelamento de festivais e espetáculos de natureza análoga, aplicam-se com as necessárias adaptações, o disposto nos n.os 4 a 11 do artigo anterior, nomeadamente:\n\na) Os vales são válidos até 31 de dezembro de 2022;\n\nb) Os espetáculos reagendados devem ocorrer até 31 de dezembro de 2022.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+  },
+  "202011882": {
+   "fragment_id": "160900552",
+   "type": 11,
+   "heading": "Artigo 5.º-C — Casos especiais de reagendamento de espetáculos, festivais e espetáculos de natureza análoga",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+   ],
+   "markdown": "###### Artigo 5.º-C — Casos especiais de reagendamento de espetáculos, festivais e espetáculos de natureza análoga\n\n1 - O reagendamento de espetáculos, festivais e espetáculos de natureza análoga inicialmente agendados para o ano de 2020 e que ocorram apenas em 2022, dá lugar à restituição do preço do bilhete de ingresso ao respetivo portador, nos termos do disposto nos números seguintes.\n\n2 - O portador do bilhete tem direito a solicitar a devolução do respetivo preço no prazo de 14 dias úteis a contar da data prevista para a realização do evento no ano de 2021.\n\n3 - O portador de um vale emitido com data de validade até 31 de dezembro de 2021 tem direito a solicitar o reembolso do seu valor no prazo de 14 dias úteis após o término de validade do respetivo vale.\n\n4 - Na falta de pedido de reembolso, nos prazos referidos nos n.os 2 e 3, considera-se que o portador do bilhete ou do vale aceita o reagendamento do espetáculo, festival ou espetáculo de natureza análoga sem direito ao reembolso do respetivo valor, aplicando-se com as necessárias adaptações o disposto no artigo 4.º e nos n.os 4 a 11 do artigo 5.º-A, nomeadamente:\n\na) Os vales são válidos até 31 de dezembro de 2022;\n\nb) Os espetáculos reagendados devem ocorrer até 31 de dezembro de 2022.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+  },
+  "202011883": {
+   "fragment_id": "131338953",
+   "type": 11,
+   "heading": "Artigo 6.º — Substituição bilhetes de ingresso",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 6.º — Substituição bilhetes de ingresso\n\nEm alternativa ao previsto no n.º 5 do artigo 4.º e no n.º 3 do artigo 5.º, a pedido do portador do bilhete de ingresso, que não tenha sido reembolsado do valor do mesmo, os agentes culturais podem proceder à substituição do bilhete do espetáculo por outro espetáculo diferente, ajustando-se o preço devido.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011884": {
+   "fragment_id": "131338954",
+   "type": 11,
+   "heading": "Artigo 7.º — Cobrança de comissões",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Cobrança de comissões\n\nAs agências, os postos de venda e as plataformas de venda eletrónica de bilhetes, bem como os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos que tenham bilhética própria, não podem exigir aos agentes culturais a comissão devida pelos espetáculos não realizados ou cancelados abrangidos pelo artigo 2.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011885": {
+   "fragment_id": "131338955",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalações e estabelecimentos de espetáculos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Instalações e estabelecimentos de espetáculos\n\n1 - Pelo reagendamento do espetáculo não podem os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos cobrar qualquer valor suplementar ao agente cultural.\n\n2 - Em caso de cancelamento do espetáculo os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos devem proceder ao reembolso do valor da reserva ao agente cultural, no prazo de 90 dias úteis após o término do estado de emergência ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização posterior de outro espetáculo.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011886": {
+   "fragment_id": "131338956",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Sem prejuízo de outras responsabilidades penais e civis que ao caso sejam aplicáveis, as infrações ao disposto nos n.os 1 e 2 do artigo 11.º e no n.º 1 do artigo 11.º-A constituem contraordenação punível com coima entre 250 (euro) e 2500 (euro), no caso das pessoas singulares, e de 500 (euro) a 15 000 (euro), no caso das pessoas coletivas.\n\n2 - A negligência é punível, sendo os montantes mínimos e máximos da coima reduzidos para metade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30"
+  },
+  "202011887": {
+   "fragment_id": "131338957",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nCompete à Inspeção-Geral das Atividades Culturais a fiscalização do cumprimento do previsto no presente decreto-lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011888": {
+   "fragment_id": "131338958",
+   "type": 11,
+   "heading": "Artigo 11.º — Espetáculos promovidos por entidades públicas",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º — Espetáculos promovidos por entidades públicas\n\n1 - Quando os espetáculos abrangidos pelo presente decreto-lei forem promovidos por entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos (CCP) ou, independentemente da natureza pública ou privada do promotor, sejam financiados maioritariamente por fundos públicos, deve o promotor, quer nos casos de cancelamento quer nos casos de reagendamento, realizar os pagamentos nos termos contratualmente estipulados, devendo garantir que, o mais tardar, na data que se encontrava inicialmente agendado o espetáculo, é pago um montante mínimo equivalente a 50 % do preço contratual, sem prejuízo, nos casos de reagendamento, da nova calendarização do espetáculo e da realização dos demais pagamentos a que houver lugar nos termos do contrato.\n\n2 - Caso o preço das prestações contratuais já realizadas supere o preço a pagar nos termos do número anterior, devem as entidades aí referidas pagar a diferença, aplicando-se o disposto no artigo 299.º do CCP.\n\n3 - Para dar integral cumprimento ao disposto nos números anteriores, as entidades referidas no n.º 1 podem, nos casos de reagendamento, contratar bens, serviços ou trabalhos complementares, ao abrigo do disposto nos artigos 370.º, 438.º e 454.º do CCP, bem como aplicar o regime da revisão de preços, se aplicável.\n\n4 - As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 18 meses após a cessação da vigência das medidas legislativas de proibição ou limitação de realização de espetáculos.\n\n5 - As obrigações previstas no presente artigo aplicam-se, igualmente, aos casos em que ainda não tivesse sido finalizada a celebração do contrato à data da entrada em vigor do presente decreto-lei, desde que:\n\na) O procedimento da respetiva formação já tivesse sido iniciado; ou\n\nb) A programação tivesse sido anunciada; ou\n\nc) As entidades promotoras tivessem comunicado por escrito ao agente cultural a confirmação da realização do espetáculo em causa, aceitando o preço e respetiva data.\n\n6 - Nos casos referidos no número anterior, as entidades adjudicantes referidas no n.º 1 devem iniciar ou concluir os procedimentos de aprovação da despesa e de formação de contratos públicos necessários à celebração efetiva do contrato e à realização dos pagamentos a que haja lugar, quer nos casos de cancelamento quer nos casos de reagendamento, podendo, quer no caso de procedimentos a iniciar quer no caso de procedimentos já iniciados, adotar as normas previstas nos artigos 2.º e 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março, com as necessárias adaptações.\n\n7 - A entidade promotora deve informar o agente cultural, com pelo menos 30 dias de antecedência, se pretende manter a data inicial.\n\n8 - O disposto no presente artigo aplica-se, igualmente, com as necessárias adaptações, a eventos que se repetem anualmente, relativamente aos quais não tenha sido possível, seja porque razão for, iniciar o procedimento de formação do respetivo contrato.8 - O disposto no presente artigo aplica-se, igualmente, com as necessárias adaptações, a eventos que se repetem anualmente, relativamente aos quais não tenha sido possível, seja porque razão for, iniciar o procedimento de formação do respetivo contrato.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/19-2020-134762426), em vigor a partir de 2020-05-30\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "202011889": {
+   "fragment_id": "131338963",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Intermediários",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 11.º-A — Intermediários\n\n1 - Sempre que os pagamentos previstos no artigo anterior sejam efetuados a agentes, produtores e companhias de espetáculo ou a quaisquer outros intermediários, devem estes, no prazo de 10 dias úteis, após receberem o pagamento da entidade contratante referida no n.º 1 do artigo anterior, proceder ao pagamento proporcional e equitativo aos trabalhadores envolvidos nos eventos respetivos, designadamente autores, artistas, técnicos e outros profissionais e empresas que tenham sido contratados para o espetáculo em questão, sem prejuízo da cobrança proporcional de comissões que lhes sejam devidas.\n\n2 - Nos casos de reagendamento, os pagamentos referidos no número anterior são havidos como sinal e princípio de pagamento da prestação a efetuar na data para a qual o espetáculo vier a ser reagendado.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 11.º do/a [Lei n.º 7/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/7-2020-131338917), em vigor a partir de 2020-04-11"
+  },
+  "202011890": {
+   "fragment_id": "131338959",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito subsidiário",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Direito subsidiário\n\nEm tudo o que não estiver expressamente previsto no presente decreto-lei, aplica-se o disposto no Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011891": {
+   "fragment_id": "131338960",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito transitório formal",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Direito transitório formal\n\nO presente decreto-lei aplica-se aos contratos celebrados relativos à realização dos espetáculos referidos no artigo 2.º, em data anterior à sua entrada em vigor, prevalecendo sobre os mesmos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011892": {
+   "fragment_id": "131338961",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2021 - Diário da República n.º 65/2021, 3º Suplemento, Série I de 2021-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2021-160923378), em vigor a partir de 2021-04-10, produz efeitos a partir de 2021-04-01"
+  },
+  "202011893": {
+   "fragment_id": "131338962",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149049\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

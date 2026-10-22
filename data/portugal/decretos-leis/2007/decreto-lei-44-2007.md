@@ -1,0 +1,248 @@
+---
+schema_version: '1.0'
+id: pt:dre:517839:por
+title: Decreto-Lei n.º 44/2007
+short_title: null
+summary: Altera o Decreto-Lei n.º 73/90, de 6 de Março, que aprova o regime legal das carreiras médicas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 44/2007
+official_date: null
+publication_date: '2007-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 39/2007, Série I de 2007-02-23
+  number: '39'
+  series: I
+  supplement: null
+  pages: 1332 - 1335
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03900/13321335.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/44/2007/02/23/p/dre/pt/html
+  oj: null
+  dre: '517839'
+  dre_path: /dr/detalhe/decreto-lei/44-2007-517839
+  internal: pt:dre:517839:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2007-517839
+  metadata_url: https://data.dre.pt/eli/dec-lei/44/2007/02/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2007-517839
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-12-31T00:00:00Z'
+integrity:
+  source_sha256: db9495751b007fb38474702fe4fc151afc7c33ad864e64d8f7c998332fa8c11b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-44-517839.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Carreira Médica
+- Carreira Médica Hospitalar
+- Serviço Nacional de Saúde
+- Horas Extraordinárias
+- Centro de Saúde
+- Cuidados Médicos
+- Regime de Exclusividade
+- Mobilidade de Pessoal
+- Serviço de Atendimento Permanente
+- Serviços de Urgência
+relationships:
+- type: amended_by
+  target: pt:dre:632430:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/170/2006/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/170/2006/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44/2007
+
+de 23 de Fevereiro
+
+Encontra-se em preparação neste momento uma importante reforma do sistema público de saúde que coloca múltiplos desafios à cultura dominante das organizações do sector. A reorientação da oferta de cuidados primários para serviços de proximidade, com acesso imediato ao centro de saúde e ao médico de família, e um eficaz sistema de resposta às situações de urgência e de emergência constituem dois pilares fundamentais da reconfiguração da rede prestadora do Serviço Nacional de Saúde, com impacte assegurado na qualidade do serviço prestado aos cidadãos e no aumento de ganhos em saúde.
+
+Como forma de melhorar o acesso aos cuidados de saúde primários, privilegia-se a fixação dos médicos da carreira de clínica geral nos centros de saúde, desconcentrados em unidades operativas ágeis e flexíveis, com horários de funcionamento diário e semanal alargados, de forma a prestar à população um serviço mais oportuno e adequado às suas necessidades.
+
+Ora, uma errada política de criação de serviços de atendimento permanente em muitos centros de saúde desviou os limitados recursos médicos para atendimentos fora de horas, despersonalizados e sem reunir as necessárias condições de qualidade e segurança.
+
+Para garantir estes dois atributos na resposta às necessidades do atendimento urgente de toda a população portuguesa, aposta-se numa profunda reestruturação dos cuidados de urgência e de emergência, assente na concentração de meios e na requalificação dos serviços prestadores, através de uma rede hierarquizada de níveis de resposta, e constituição progressiva de equipas médicas sediadas naqueles serviços.
+
+O trabalho médico nos serviços de urgência terá de ser objecto de novas regras, enquadradas por um modelo remuneratório que associa ao pagamento pela disponibilidade uma remuneração adicional por contrapartida do desempenho da equipa médica e da prestação individual e que deve também prever contrapartidas financeiras para as equipas que dediquem a totalidade ou parte do seu horário normal de trabalho ao serviço de urgência.
+
+No entanto, impõe-se que, desde já, e a título transitório, se estabeleça um regime remuneratório para o trabalho extraordinário prestado em serviços de urgência quando este implique o exercício de funções para além das quarenta e duas horas semanais.
+
+Quando se reconheça indispensável à boa prestação dos cuidados de saúde, também a mobilidade dos médicos carece de ser facilitada para o pleno aproveitamento e valorização dos recursos disponíveis.
+
+Neste contexto, afigura-se necessário proceder a alterações aos regimes de trabalho das carreiras médicas de clínica geral e hospitalar que colidem com as reformas em curso, na esteira da revogação do regime de remuneração dos médicos integrados em equipas de urgência hospitalar e em urgências dos centros de saúde, operada pelo [Decreto-Lei n.º 170/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2006-538817), de 17 de Agosto.
+
+No quadro de referência dos regimes de organização do trabalho dos médicos das carreiras de clínica geral e hospitalar, previstos no Decreto-Lei n..º 73/90, de 6 de Março, estabelece-se para os primeiros o princípio da excepcionalidade que deverá presidir à prestação de trabalho extraordinário nos estabelecimentos da rede de serviços de urgência e para os segundos, com horário de trabalho semanal de trinta e cinco horas, o princípio da liberdade, em vez da anterior obrigatoriedade da prestação de trabalho extraordinário nas urgências, acautelando necessariamente situações excepcionais de interesse público. Sem embargo das reformas de fundo em preparação, desde já se providencia a gestão equilibrada do trabalho normal nas diversas vertentes da actividade médica, flexibilizando-a pelo equilíbrio da conveniência dos serviços com os legítimos interesses dos profissionais.
+
+Importa, por fim, salientar que as presentes alterações terão uma vigência transitória na medida em que está prevista uma revisão global das carreiras médicas no âmbito do processo de revisão do sistema de carreiras e remunerações nos termos do n.º 4 da [Resolução do Conselho de Ministros n.º 102/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/102-2005-233957), de 3 de Janeiro, momento em que se procederá à transposição da directiva comunitária que prevê o número máximo de horas de trabalho semanal.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março
+
+Os artigos 24.º e 31.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, passam a ter a seguinte redacção:
+
+«Artigo 24.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - A passagem ao regime de dedicação exclusiva nos termos do número anterior faz-se a pedido do médico e é autorizada por despacho do órgão máximo de gestão do estabelecimento de saúde, a proferir no prazo máximo de 60 dias, desde que exista comprovado interesse para o serviço, o qual deve ser objectivamente fundamentado e publicitado no local de estilo, e se verifiquem as seguintes condições cumulativas:
+
+a) O médico requerente manifestar expressamente a sua disponibilidade para assegurar horários de funcionamento alargado do centro de saúde;
+
+b) O médico requerente comprometer-se expressamente a manter a sua disponibilidade para prestar o serviço referido na alínea anterior pelo período mínimo de cinco anos.
+
+4 - ...
+
+5 - Os médicos desta carreira devem prestar, quando necessário, consoante o respectivo horário semanal seja de quarenta e duas ou trinta e cinco horas, um período semanal máximo de doze ou seis horas de trabalho extraordinário, para garantir o regular funcionamento do centro de saúde, sem prejuízo de os médicos com horário semanal de trinta e cinco horas serem, a seu pedido, e por um período mínimo de um ano, dispensados desta prestação.
+
+6 - Quando se verifiquem situações susceptíveis de comprometer o acesso aos cuidados de saúde, reconhecidas por despacho do Ministro da Saúde, designadamente em períodos em que ocorra elevada afluência de doentes por razões de afluxo turístico, em períodos de maior incidência de patologias sazonais, ou ainda em situações de prevenção e defesa contra epidemias ou catástrofes, a faculdade de dispensa prevista no número anterior pode ser suspensa.
+
+7 - Em situações excepcionais de comprovada carência de recursos, os médicos que não usem da faculdade de dispensa prevista no n.º 5, bem como os que estão sujeitos ao regime de quarenta e duas horas semanais, podem acordar prestar trabalho extraordinário em outros estabelecimentos da rede de serviços de urgência, mediante autorização dos órgãos máximos de gestão dos respectivos serviços, a homologar pela administração regional de saúde territorialmente competente.
+
+8 - O pagamento do trabalho prestado nos termos do número anterior, incluindo eventuais despesas de deslocação e de alojamento, constitui encargo do estabelecimento que dele beneficia.
+
+9 - A dispensa a que se refere o n.º 5 deste artigo inibe aqueles a quem tenha sido concedida de poderem ser contratados, directa ou indirectamente, para exercer funções no âmbito do Serviço Nacional de Saúde, para além do seu horário normal de trabalho ou das horas extraordinárias prestadas nos termos do n.º 6.
+
+10 - (Anterior n.º 7.)
+
+11 - (Anterior n.º 8.)
+
+12 - (Anterior n.º 9.)
+
+13 - (Anterior n.º 10.)
+
+14 - (Anterior n.º 11.)
+
+###### Artigo 31.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - A passagem ao regime de dedicação exclusiva nos termos do número anterior faz-se a pedido do médico e é autorizada por despacho do órgão máximo de gestão do estabelecimento de saúde, a proferir no prazo máximo de 60 dias, desde que exista comprovado interesse para o serviço, o qual deve ser objectivamente fundamentado e publicitado no local de estilo, e se verifiquem as seguintes condições cumulativas:
+
+a) O médico requerente manifestar a sua disponibilidade para prestar serviço de urgência e ou consulta externa;
+
+b) O médico comprometer-se expressamente a manter a sua disponibilidade para prestar o serviço referido na alínea anterior pelo período mínimo de cinco anos.
+
+4 - ...
+
+5 - Os médicos desta carreira devem prestar, quando necessário, um período semanal máximo de doze horas de trabalho normal no serviço de urgência, convertíveis, por conveniência de serviço, em vinte e quatro horas de prevenção, com o acordo do médico.
+
+6 - Os médicos desta carreira devem prestar, quando necessário, um período semanal máximo de doze horas de trabalho extraordinário no serviço de urgência, sem prejuízo de os médicos com horário semanal de trinta e cinco horas serem, a seu pedido, e por um período mínimo de um ano, dispensados desta prestação.
+
+7 - A dispensa referida no número anterior pode ser diferida para um momento posterior, quando a mesma inviabilize, comprovadamente, a prestação de cuidados de saúde, designadamente o funcionamento do respectivo serviço de urgência, e a presença física do médico não seja susceptível de ser substituída pela prevenção, sendo esta da sua preferência.
+
+8 - Quando se verifiquem situações susceptíveis de comprometer o acesso aos cuidados de saúde, reconhecidas por despacho do Ministro da Saúde, designadamente em períodos em que ocorra elevada afluência de doentes por razões de afluxo turístico, em períodos de maior incidência de patologias sazonais, ou ainda em situações de prevenção e defesa contra epidemias ou catástrofes, pode ser suspensa a faculdade prevista no n.º 6 deste artigo.
+
+9 - Consideradas as necessidades dos serviços, os médicos que não usem da faculdade de dispensa prevista no n.º 6, bem como os que estão sujeitos ao regime de quarenta e duas horas semanais, podem acordar prestar trabalho extraordinário na rede de serviços de urgência, mediante autorização dos órgãos máximos de gestão dos estabelecimentos respectivos, a informar mensalmente à administração regional de saúde territorialmente competente.
+
+10 - O pagamento do trabalho prestado nos termos do número anterior, incluindo eventuais despesas de deslocação e de alojamento, constitui encargo do estabelecimento que dele beneficia.
+
+11 - A dispensa a que se refere o n.º 6 deste artigo inibe aqueles a quem tenha sido concedida de poderem ser contratados, directa ou indirectamente, para exercer funções no âmbito do Serviço Nacional de Saúde para além do seu horário normal de trabalho ou das horas extraordinárias prestadas nos termos do n.º 8.
+
+12 - (Anterior n.º 7.)
+
+13 - (Anterior n.º 8.)
+
+14 - (Anterior n.º 9.)
+
+15 - (Anterior n.º 10.)
+
+16 - (Anterior n.º 11.)»
+
+###### Artigo 2.º — Mobilidade
+
+1 - Os médicos da carreira médica hospitalar podem, nos termos da lei geral aplicável ao regime da mobilidade, ser chamados a prestar, quando necessário, um período semanal de doze horas de trabalho normal em outros estabelecimentos da rede de serviços de urgência, designadamente nas seguintes situações:
+
+a) Quando o estabelecimento de origem não possua serviço de urgência ou não disponibilize serviço de urgência na especialidade respectiva;
+
+b) Quando não prejudique o regular funcionamento do serviço de urgência do estabelecimento de origem.
+
+2 - O pagamento do trabalho prestado ao abrigo do disposto no número anterior, incluindo eventuais despesas de deslocação e de alojamento, constitui encargo do estabelecimento que dele beneficia.
+
+###### Artigo 3.º — Norma transitória
+
+1 - Até à aprovação do regime remuneratório que venha a ser previsto para o trabalho prestado no âmbito da rede de serviços de urgência, o trabalho extraordinário realizado nos termos do n.º 7 do artigo 24.º, bem como nos termos dos n.os 6 a 9 do artigo 31.º, ambos do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, com a redacção que lhes foi conferida pelo presente decreto-lei, sem prejuízo das demais regras fixadas no diploma que disciplina o regime de trabalho e sua remuneração nos estabelecimentos hospitalares, é remunerado nos seguintes termos:
+
+a) Da 1.ª hora até à 7.ª, inclusive, é pago com base na remuneração correspondente ao regime de trabalho praticado, para a respectiva categoria e escalão;
+
+b) A partir da 8.ª hora é pago, independentemente do regime de trabalho praticado, com base na remuneração correspondente ao regime de trabalho de dedicação exclusiva com o horário de quarenta e duas horas semanais, para a respectiva categoria e escalão.
+
+2 - Até à extinção dos serviços de atendimento permanente, e sem prejuízo do disposto no n.º 5 do artigo 24.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, na redacção conferida pelo presente diploma, aplica-se, com as devidas adaptações, aos médicos da carreira médica de clínica geral dos centros de saúde com serviços de atendimento permanente, o disposto no artigo 31.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, com a redacção dada por este diploma, bem como o disposto no número anterior no que se reporta aos efeitos remuneratórios do trabalho extraordinário prestado nestes serviços.
+
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
+
+**Promulgado em 6 de Fevereiro de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 9 de Fevereiro de 2007.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

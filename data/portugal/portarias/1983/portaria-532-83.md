@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:450853:por
+title: Portaria n.º 532/83
+short_title: null
+summary: Altera disposições relativas aos serviços administrativos do Comando Logístico-Administrativo da Força Aérea
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Estado-Maior da Força Aérea
+proposing_entity: null
+official_number: 532/83
+official_date: null
+publication_date: '1983-05-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/1983, Série I de 1983-05-06
+  number: '104'
+  series: I
+  supplement: null
+  pages: 1601 - 1602
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/10400/16011602.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '450853'
+  dre_path: /dr/detalhe/portaria/532-1983-450853
+  internal: pt:dre:450853:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/532-1983-450853
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/532-1983-450853
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-05-06T00:00:00Z'
+integrity:
+  source_sha256: f87cd30a89884d7337913ae86ab2bdfe3374a90de0e1997b10677771a2e37bca
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-532-450853.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 532/83
+
+de 6 de Maio
+
+Considerando o disposto no § 4.º do artigo 48.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado para § 5.º pelo [Decreto-Lei n.º 41758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41758-1958-351557), de 25 de Julho de 1958:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que os serviços administrativos do Comando Logístico-Administrativo da Força Aérea exerçam a sua acção no que respeita a todas as dotações inscritas no capítulo 03, com a designação «Despesas gerais da Força Aérea», do Orçamento Ordinário da Defesa Nacional - Departamento da Força Aérea para 1983.
+
+Ministério da Defesa Nacional.
+
+**Assinada em 22 de Abril de 1983.**
+
+Pelo Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta.

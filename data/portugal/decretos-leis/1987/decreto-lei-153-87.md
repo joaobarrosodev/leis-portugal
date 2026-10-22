@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:666526:por
+title: Decreto-Lei n.º 153/87
+short_title: null
+summary: Altera algumas disposições do Decreto-Lei n.º 23/86, de 18 de Fevereiro (adapta o regime legal português de licenciamento
+  de instituições de crédito às disposições do direito comunitário sobre a matéria)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 153/87
+official_date: null
+publication_date: '1987-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 74/1987, Série I de 1987-03-30
+  number: '74'
+  series: I
+  supplement: null
+  pages: 1268 - 1270
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/03/07400/12681270.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666526'
+  dre_path: /dr/detalhe/decreto-lei/153-1987-666526
+  internal: pt:dre:666526:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1987-666526
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1987-666526
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: 0982d10fb31d8f9a68ab6f7d8d83447ff57ac8b87b3a7b430c64a1c3a6cd010b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-153-666526.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 153/87
+
+de 30 de Março
+
+Pelo Decreto-Lei n.º 23/86, de 18 de Fevereiro, procedeu-se à adaptação do regime legal português de licenciamento de instituições de crédito às disposições do direito comunitário sobre a matéria.
+
+A fim de adequar inteiramente aquele diploma à legislação comunitária, importa alterar algumas das suas disposições e ainda introduzir certos aditamentos, tendo em conta as observações formuladas pela Comissão das Comunidades Europeias relativamente à aplicação por Portugal das Directivas n.os [73/183/CEE](https://data.europa.eu/eli/dir/1973/183/oj?locale=pt), de 28 de Junho de 1973, e [77/780/CEE](https://data.europa.eu/eli/dir/1977/780/oj?locale=pt), de 12 de Dezembro de 1977.
+
+Aproveita-se ainda a oportunidade para efectuar no referido diploma dois ligeiros ajustamentos que a prática da sua aplicação aconselha.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O n.º 2 do artigo 4.º, as alíneas f), h) e i) do n.º 2 do artigo 5.º, a alínea c) do n.º 1 do artigo 10.º, o n.º 6 do artigo 24.º, os n.os 1 e 2 do artigo 37.º e o artigo 39.º do Decreto-Lei n.º 23/86, de 18 de Fevereiro, passam a ter a seguinte redacção:
+
+###### Artigo 4.º — Condições gerais
+
+1 - ...
+
+2 - Na apreciação da necessidade e oportunidade da instituição cuja autorização se requer ter-se-ão em conta os seguintes critérios:
+
+...
+
+###### Artigo 5.º — Instrução do requerimento
+
+1 - ...
+
+2 - ...
+
+...
+
+f) Relação das representações da requerente fora do seu país de origem;
+
+...
+
+h) Certificado, emitido pela autoridade competente do país de origem, do qual conste que a requerente foi autorizada a participar na instituição a constituir ou de que não é necessária tal autorização;
+
+i) Memória explicativa da actividade da requerente no âmbito internacional e, nomeadamente, das relações comerciais, financeiras ou de outro tipo mantidas com empresas ou entidades estabelecidas na Comunidade Económica Europeia.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+###### Artigo 10.º — Revogação da autorização
+
+1 - ...
+
+...
+
+c) Deixar de verificar-se alguma das condições exigidas nas alíneas a), b) e c) do n.º 1 do artigo 4.º;
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+###### Artigo 24.º — Revogação da autorização
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - A revogação é efectuada nos termos referidos no artigos 11.º
+
+###### Artigo 37.º — Caducidade e revogação da autorização
+
+1 - A autorização caduca se a requerente a ela expressamente renunciar ou se for revogada a autorização concedida à instituição a que a agência pertence.
+
+2 - A autorização pode ser revogada se a agência não abrir ao público no prazo de seis meses a contar da data da notificação do despacho de autorização ou se, relativamente à agência ou seus gerentes, se verificar, na parte aplicável, algumas das situações previstas nas alíneas a), b), d), e), f) e g) do n.º 1 do artigo 10.º
+
+3 - ...
+
+4 - ...
+
+###### Artigo 39.º — Agências de instituições de crédito comunitárias
+
+As filiais e sucursais referidas, respectivamente, no n.º 2 do artigo 2.º e no artigo 20.º serão autorizadas a abrir:
+
+a) A partir de 1 de Janeiro de 1988, uma agência e, a partir de 1 de Janeiro de 1990, duas agências suplementares;
+
+b) A partir de 1 de Janeiro de 1993, as agências que requererem, em pé de igualdade com as instituições de crédito portuguesas e de acordo com o princípio da não discriminação.
+
+###### Art. 2.º São aditados os n.os 8, 9 e 10 ao artigo 5.º do Decreto-Lei n.º 23/86, de 18 de Fevereiro, com a seguinte redacção:
+
+8 - Relativamente a accionistas fundadores que sejam nacionais de outros Estados membros da Comunidade Económica Europeia ou sociedades e outras pessoas colectivas a eles equiparadas, nos termos do artigo 58.º do Tratado constitutivo da mesma Comunidade e de outras disposições de direito comunitário, valerão:
+
+a) Como certificado referido na alínea g) do n.º 1 deste artigo o documento exigido para o mesmo fim no Estado membro de origem ou de proveniência ou, na sua falta, um documento equivalente passado pela autoridade judiciária ou administrativa competente do mesmo Estado;
+
+b) Como declaração referida na alínea h) do n.º 1 deste artigo o atestado passado habitualmente para o mesmo fim pelas autoridades competentes do Estado membro de origem ou de proveniência.
+
+9 - Os documentos e atestados referidos no número anterior que, de acordo com as respectivas leis, não forem passados pelo Estado membro de origem ou de proveniência poderão ser substituídos por uma declaração sob juramento ou, nos Estados membros cuja lei não preveja tal juramento, por uma declaração com carácter solene, uma e outra feitas pelo interessado perante a autoridade judiciária ou administrativa competente ou, sendo caso disso, perante um notário do Estado membro de origem ou de proveniência. A declaração referida na alínea h) do n.º 1 deste artigo poderá igualmente ser feita perante o organismo profissional competente do Estado de origem ou de proveniência.
+
+10 - Aplica-se o disposto no n.º 4 aos documentos, atestados e declarações previstos nos n.os 8 e 9 deste artigo.
+
+###### Art. 3.º É aditado o n.º 5 ao artigo 37.º do Decreto-Lei n.º 23/86, de 18 de Fevereiro, com a seguinte redacção:
+
+5 - Tratando-se de agências de filiais ou sucursais referidas, respectivamente, no n.º 2 do artigo 2.º e no artigo 20.º, é aplicável o disposto nos n.os 3 e 4 do artigo 24.º e nos n.os 2 e 3 do artigo 11.º
+
+###### Art. 4.º É aditado o artigo 40.º-A ao Decreto-Lei n.º 23/86, de 18 de Fevereiro, com a seguinte redacção:
+
+###### Artigo 40.º-A — Firma
+
+1 - As instituições de crédito com sede no estrangeiro estabelecidas em Portugal poderão usar a firma ou denominação que utilizam no Estado da respectiva sede.
+
+2 - Se o uso da faculdade concedida no número anterior for susceptível de provocar confusão, o Banco de Portugal pode exigir, no intuito de clareza, que à firma ou denominação seja acrescentada uma menção explicativa.
+
+3 - Na prestação, em Portugal, de serviços que o direito comunitário lhes consinta, as instituições de crédito com sede noutros Estados membros da Comunidade Económica Europeia não estabelecidas em Portugal poderão usar a sua firma ou denominação de origem, desde que não dêem lugar a dúvidas quanto ao estatuto nacional a que estão submetidas e sem prejuízo do disposto no número anterior.
+
+4 - Para os efeitos do número anterior, as instituições de crédito em causa deverão previamente requerer ao Banco de Portugal a sua inscrição num registo especial de instituições de crédito estrangeiras não estabelecidas, mediante apresentação de certificado, emitido pelas autoridades de controle do país de origem, que especifique o estatuto da requerente por referência à lei nacional que lhe é aplicável. Quanto ao mais, aplica-se a este registo, com as necessárias adaptações, o disposto no Decreto-Lei n.º 353-S/77, de 29 de Agosto.
+
+5 - Com vista à informação do público, o Banco de Portugal pode proceder à publicação da lista das instituições de crédito referidas no n.º 3 e determinar-lhes que esclareçam as pessoas ou entidades às quais se dirijam acerca do seu estatuto legal e das características e elementos principais da sua actividade e da sua situação financeira.
+
+Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+**Promulgado em 11 de Março de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 19 de Março de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

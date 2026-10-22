@@ -1,0 +1,154 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222609:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-869609443",
+ "dre_path": "/dr/detalhe/decreto-lei/329-1998-222609",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869608831",
+    "869608801",
+    "869608802",
+    "869608803",
+    "869608804",
+    "869608805",
+    "869608806",
+    "869608807",
+    "869608808",
+    "869608809",
+    "869608810",
+    "869608811",
+    "869608812",
+    "869608813",
+    "869608814"
+   ]
+  }
+ ],
+ "fragments": {
+  "869608831": {
+   "fragment_id": "869609444",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 329/98\n\nde 2 de Novembro\n\nA Constituição da República Portuguesa consagra no seu artigo 41.º a inviolabilidade da liberdade de consciência, de religião e de culto, garantindo a liberdade de ensino de qualquer religião praticado no âmbito da respectiva confissão.\n\nA consagração de tais direitos obriga a que o Estado, na salvaguarda do princípio da igualdade, crie condições de tratamento idêntico às confissões religiosas implantadas no País, de acordo com a sua expressão social, com vista a garantir o ensino dos seus princípios orientadores, de ordem moral e religiosa.\n\nPor outro lado, o Despacho Normativo n.º 104/89, de 16 de Novembro, definiu, em regime de experiência pedagógica, as condições que têm permitido a leccionação nas escolas dos 2.º e 3.º ciclos do ensino básico e no ensino secundário dos princípios morais e religiosos das confissões religiosas que, para além da Igreja Católica, se encontram implantadas em Portugal.\n\nTodavia, concluída a fase experimental, importa agora converter tal leccionação em regime de permanência e de generalização em todo o ensino básico e no ensino secundário, assegurando plenamente, em articulação com as respectivas autoridades, o cumprimento da liberdade religiosa e a livre opção de famílias e estudantes no tocante à frequência das disciplinas de Educação Moral e Religiosa, de acordo com os princípios constitucionais, introduzindo ainda as alterações no regime que a experiência mostrou aconselhável.\n\nO Decreto-Lei n.º 407/89, de 16 de Novembro, que garante a frequência, em regime facultativo, de uma disciplina de formação católica, veio criar nas escolas dos 2.º e 3.º ciclos do ensino básico e nas escolas do ensino secundário lugares para professores desta disciplina e definir a forma como serão preenchidos esses lugares.\n\nApós sete anos de aplicação do referido diploma, há que proceder a alguns ajustamentos pontuais ao regime então aprovado que confiram uma maior adequação ao actual corpo docente daquela disciplina, considerando o princípio da igualdade e a salvaguarda do direito dos docentes em exercício de funções.\n\nForam ouvidas a Comissão Episcopal de Educação Cristã e a Comissão para a Acção Educativa Evangélica nas Escolas Públicas (COMACEP).\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "869608801": {
+   "fragment_id": "869609445",
+   "type": 11,
+   "heading": "Artigo 1.º — Disciplina de Educação Moral e Religiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Disciplina de Educação Moral e Religiosa\n\nA frequência da disciplina de Educação Moral e Religiosa nas escolas públicas é facultativa, nos termos da legislação em vigor, e encontra-se subordinada ao princípio constitucional da inviolabilidade da liberdade de consciência, religião e culto."
+  },
+  "869608802": {
+   "fragment_id": "869609446",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime legal\n\n1 - A leccionação da disciplina de Educação Moral e Religiosa das confissões religiosas com implantação em Portugal, introduzida em regime de experiência pedagógica pelo Despacho Normativo n.º 104/89, de 16 de Novembro, passa, a partir da entrada em vigor do presente diploma, a ser feita em regime de permanência e generalização nas escolas dos ensinos básico e secundário.\n\n2 - A disciplina de Educação Moral e Religiosa Católica rege-se pelo disposto no Decreto-Lei n.º 407/89, de 16 de Novembro, e regulamentação complementar."
+  },
+  "869608803": {
+   "fragment_id": "869609447",
+   "type": 11,
+   "heading": "Artigo 3.º — Leccionação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Leccionação\n\n1 - Nas escolas públicas dos ensinos básico e secundário podem ser ministradas aulas de Educação Moral e Religiosa de cada uma das confissões religiosas com implantação em Portugal.\n\n2 - Para efeitos do disposto no número anterior, cada confissão religiosa, através da autoridade própria, mandatada para o efeito, deve requerer a necessária autorização de leccionação ao Ministro da Educação, identificando a escola ou escolas onde pretende que sejam ministradas as respectivas aulas.\n\n3 - A autorização de leccionação apenas pode ser recusada no caso de as orientações morais e religiosas do ensino que se pretende ministrar serem contrárias à lei ou à ordem pública do Estado Português.\n\n4 - A leccionação da disciplina de Educação Moral e Religiosa de cada confissão depende da verificação na própria escola dos requisitos para a constituição de turmas, nos termos do artigo 6.º do presente diploma, considerando-se a respectiva matrícula, até esse momento, como realizada condicionalmente."
+  },
+  "869608804": {
+   "fragment_id": "869609448",
+   "type": 11,
+   "heading": "Artigo 4.º — Frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Frequência\n\n1 - A disciplina de Educação Moral e Religiosa é frequentada em alternativa à disciplina de Desenvolvimento Pessoal e Social, segundo opção do aluno, devendo o encarregado de educação ou o aluno maior de 16 anos ser informado, no âmbito do processo da matrícula ou da sua renovação, de tal faculdade de opção.\n\n2 - A opção referida no número anterior deve ser feita de forma expressa e com identificação da respectiva confissão religiosa, no caso da opção pela disciplina de Educação Moral e Religiosa.\n\n3 - A frequência da disciplina de Educação Moral e Religiosa fica sujeita ao regime de faltas em vigor."
+  },
+  "869608805": {
+   "fragment_id": "869609449",
+   "type": 11,
+   "heading": "Artigo 5.º — Matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Matrícula\n\nPara efeitos de matrícula e da opção prevista no artigo anterior, os departamentos centrais responsáveis pelo ensino básico e secundário comunicam às direcções regionais de educação, até ao final do mês de Maio de cada ano, as confissões religiosas cuja leccionação nas escolas se encontra autorizada."
+  },
+  "869608806": {
+   "fragment_id": "869609450",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição de turmas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Constituição de turmas\n\n1 - A leccionação da disciplina de Educação Moral e Religiosa de uma determinada confissão religiosa depende da existência de um número de candidatos à frequência de aulas dessa mesma disciplina não inferior a 10 alunos por turma.\n\n2 - No caso de o número de alunos por turma não permitir a leccionação da referida disciplina, nos termos do número anterior, pode para tal finalidade proceder-se à junção de alunos de turmas diferentes de um mesmo ano de escolaridade.\n\n3 - Não sendo possível a constituição de turmas por aplicação do disposto número anterior, o órgão de gestão do estabelecimento de ensino poderá, com vista a garantir a leccionação da disciplina, proceder à constituição de turmas com alunos matriculados em anos de escolaridade diferentes, desde que pertencentes ao mesmo ciclo, ou a vários ciclos de estudos.\n\n4 - Da aplicação dos números anteriores não pode resultar a constituição de turmas com um número de alunos superior a 25 nem incompatibilidade de cumprimento do restante horário lectivo dos alunos."
+  },
+  "869608807": {
+   "fragment_id": "869609451",
+   "type": 11,
+   "heading": "Artigo 7.º — Programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Programas\n\n1 - A elaboração de programas e manuais de ensino da disciplina é da exclusiva responsabilidade das autoridades religiosas das respectivas confissões, devendo os programas respeitar os princípios gerais sobre a definição dos conteúdos dos planos curriculares constantes do Decreto-Lei n.º 286/89, de 29 de Agosto.\n\n2 - Para efeitos do disposto no número anterior, os programas devem incluir a definição de objectivos, por anos de escolaridade e ciclos de estudo, conteúdos e orientações metodológicas e de avaliação, que visem demonstrar o seu contributo para o desenvolvimento global do aluno nos domínios dos valores e atitudes e das aptidões e conhecimentos.\n\n3 - Os programas, antes da sua aplicação, carecem da prévia homologação do Ministro da Educação, sendo aplicados, a título experimental, durante o período mínimo de um ano."
+  },
+  "869608808": {
+   "fragment_id": "869609452",
+   "type": 11,
+   "heading": "Artigo 8.º — Avaliação e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação e certificação\n\n1 - A avaliação da disciplina de Educação Moral e Religiosa será feita nos termos em vigor para a disciplina de Desenvolvimento Pessoal e Social.\n\n2 - Nas certidões de disciplinas ou de habilitação deverá constar a frequência e aproveitamento da disciplina de Educação Moral e Religiosa, quando tal for requerido."
+  },
+  "869608809": {
+   "fragment_id": "869609453",
+   "type": 11,
+   "heading": "Artigo 9.º — Formação inicial para a docência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formação inicial para a docência\n\n1 - A formação inicial para a docência da disciplina de Educação Moral e Religiosa de cada confissão realiza-se com base num programa de formação superior, de nível de licenciatura, que proporcione uma dupla habilitação para a docência na disciplina de Educação Moral e Religiosa e noutra ou noutras disciplinas ou áreas disciplinares.\n\n2 - Podem igualmente adquirir a habilitação referida no número anterior os docentes já profissionalizados para outros grupos de docência que realizem um complemento de formação, necessário para que possam adquirir habilitação profissional para o exercício de funções docentes na disciplina de Educação Moral e Religiosa de determinada confissão."
+  },
+  "869608810": {
+   "fragment_id": "869609454",
+   "type": 11,
+   "heading": "Artigo 10.º — Habilitações próprias e suficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Habilitações próprias e suficientes\n\n1 - As habilitações próprias e suficientes para a leccionação da disciplina de Educação Moral e Religiosa de cada confissão constam de despacho normativo do Ministro da Educação, sob proposta da competente autoridade religiosa, com respeito pelo disposto no artigo anterior e ainda nos números seguintes.\n\n2 - A habilitação própria é reconhecida aos titulares de formação de grau superior, em qualquer domínio ou área científica que confira habilitação própria para a docência do ensino básico e secundário, acrescida de um complemento de formação na área específica da respectiva confissão religiosa, de acordo com a seguinte ordem de prioridades:\n\na) Licenciatura;\n\nb) Bacharelato;\n\nc) Curso superior ou equivalente.\n\n3 - A habilitação suficiente é reconhecida a quem estiver habilitado com um complemento de formação na área específica da respectiva confissão religiosa e seja titular de formação científica adequada, de acordo com a seguinte ordem de prioridades:\n\na) Curso superior do ensino secundário;\n\nb) Antigos cursos das escolas do Magistério Primário e das escolas normais de educadores de infância;\n\nc) Outras habilitações que, sob proposta da entidade religiosa competente, sejam consideradas no despacho referido no n.º 1."
+  },
+  "869608811": {
+   "fragment_id": "869609455",
+   "type": 11,
+   "heading": "Artigo 11.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vinculação\n\n1 - O pessoal docente da disciplina de Educação Moral e Religiosa de cada confissão é provido por nomeação em lugar dos quadros correspondente ao grupo de docência a que pertence a outra disciplina ou área disciplinar para que igualmente detém habilitação profissional.\n\n2 - Para satisfação de necessidades transitórias do sistema educativo pode ainda ser provido pessoal docente em regime de contrato administrativo, nos termos da legislação específica sobre colocações de pessoal docente."
+  },
+  "869608812": {
+   "fragment_id": "869609456",
+   "type": 11,
+   "heading": "Artigo 12.º — Disciplina de Educação Moral e Religiosa Católica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disciplina de Educação Moral e Religiosa Católica\n\nO artigo 4.º do Decreto-Lei n.º 407/89, de 16 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n1 - ...\n\na) ...\n\nb) Terem leccionado, no ensino oficial ou no ensino particular e cooperativo, a disciplina de Educação Moral e Religiosa Católica no ano lectivo anterior ao da abertura do concurso;\n\nc) ...\n\nd) ...\n\n2 - ...\n\n3 - ...\n\n4 - A habilitação complementar referida na alínea d) do n.º 1 pode ser adquirida, durante o exercício de funções, pelos docentes que vierem a ingressar no quadro, aplicando-se-lhes, neste caso, o disposto nos n.os 1, 2 e 3 do artigo 36.º do Decreto-Lei n.º 287/88, de 19 de Agosto, no que respeita à redução de tempos lectivos semanais.\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n8 - O disposto na alínea b) do n.º 1 vigora até à entrada em vigor do diploma referido no n.º 7.»"
+  },
+  "869608813": {
+   "fragment_id": "869609457",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Despacho Normativo n.º 104/89, de 16 de Novembro."
+  },
+  "869608814": {
+   "fragment_id": "869609458",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

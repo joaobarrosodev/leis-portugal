@@ -1,0 +1,435 @@
+---
+schema_version: '1.0'
+id: pt:dre:552048:por
+title: Decreto-Lei n.º 103/2012
+short_title: null
+summary: Aprova a orgânica da Direção-Geral do Livro, dos Arquivos e das Bibliotecas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 103/2012
+official_date: null
+publication_date: '2012-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/2012, Série I de 2012-05-16
+  number: '95'
+  series: I
+  supplement: null
+  pages: 2535 - 2537
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09500/0253502537.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-05-01'
+version_history:
+  file: decreto-lei-103-2012.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-08-01'
+    amending: pt:dre:69920316:por
+    amending_title: Decreto-Lei n.º 141/2015
+    changes:
+    - Altera Anexo I
+  - date: '2024-11-29'
+    amending: pt:dre:898201693:por
+    amending_title: Decreto-Lei n.º 96/2024
+    changes:
+    - Altera Artigo 2.º
+  - date: '2025-05-01'
+    amending: pt:dre:913816379:por
+    amending_title: Decreto-Lei n.º 62/2025
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Anexo I
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/103/2012/p/cons/20250404/pt/html
+  oj: null
+  dre: '552048'
+  dre_path: /dr/detalhe/decreto-lei/103-2012-552048
+  internal: pt:dre:552048:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2012-552048
+  metadata_url: https://data.dre.pt/eli/dec-lei/103/2012/p/cons/20250404/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-69920362
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-69920362
+  retrieved_at: '2026-10-22T12:01:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 79ac5f9c8ded78642603c82af2c9752bebb39332f7c335f6cd2951a1dfd23b1c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:01:06Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-103-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Biblioteca Pública de Évora
+- Direcção Geral do Livro e das Bibliotecas
+- Definição de Competências
+- Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Diretor
+- Direcção Geral dos Arquivos
+- Orgânica
+- Subdirector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:69920316:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2015-69920316
+  date: '2015-07-31'
+- type: amended_by
+  target: pt:dre:898201693:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693
+  date: '2024-11-28'
+- type: amended_by
+  target: pt:dre:913816379:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379
+  date: '2025-04-04'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/1999/03/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1999/03/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/84/2009/04/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/84/2009/04/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/92/2007/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/92/2007/03/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/93/2007/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/93/2007/03/29/p/dre
+article_structure:
+  article_count: 13
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:01:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 103/2012
+
+Decreto-Lei n.º 103/2012
+
+de 16 de maio
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado.Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, em consonância com a orgânica da Presidência do Conselho de Ministros, instituída pelo Decreto-Lei n.º 126-A/2011, de 29 de dezembro, no que respeita aos serviços e organismos da área da cultura, o presente decreto-lei estabelece a orgânica da Direção-Geral do Livro, dos Arquivos e das Bibliotecas, que resulta da fusão da Direção-Geral do Livro e das Bibliotecas com a Direção-Geral dos Arquivos, sucedendo nas respetivas atribuições, com exceção das atribuições da Direção-Geral do Livro e das Bibliotecas relativas à Biblioteca Pública de Évora.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - A Direção-Geral do Livro, dos Arquivos e das Bibliotecas, abreviadamente designada por DGLAB, é um serviço central da administração direta do Estado, dotado de autonomia administrativa.
+
+2 - A DGLAB dispõe dos serviços dependentes identificados no anexo i ao presente decreto-lei, que dele faz parte integrante.
+
+3 - Os serviços dependentes previstos nas alíneas r) e s) do anexo i do presente decreto-lei podem ser unidades orgânicas territorialmente deslocalizadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), em vigor a partir de 2025-05-01
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGLAB tem por missão assegurar a coordenação do sistema nacional de arquivos e a execução de uma política integrada do livro não escolar, das bibliotecas e da leitura.
+
+2 - São atribuições da DGLAB na área do livro:
+
+a) Assegurar o desenvolvimento de uma política do livro não escolar e da leitura;
+
+b) Promover a leitura, em articulação com os setores públicos e privado;
+
+c) Fomentar a criação em todos os domínios da produção literária, através do apoio à criação e à edição, a prémios e a entidades que concorram para o desenvolvimento do setor do livro, em termos a definir em diploma próprio;
+
+d) Estimular a pesquisa e a elaboração de estudos, em particular sobre o mercado do livro e sobre os hábitos de leitura, em articulação com o GEPAC;
+
+e) Elaborar e desenvolver programas e projetos que contribuam para a consolidação de uma economia sustentável do setor do livro;
+
+f) Planear e executar a difusão dos autores portugueses e das respetivas obras no estrangeiro;
+
+g) Intensificar a difusão do livro português nos países de língua oficial portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;
+
+h) Produzir e disponibilizar informação sobre autores portugueses, editores e livrarias.
+
+3 - São atribuições da DGLAB na área dos arquivos:
+
+a) Assegurar a execução e o desenvolvimento da política arquivística nacional e o cumprimento das obrigações do Estado no domínio da património arquivístico e da gestão de arquivos, em qualquer forma ou suporte e em todo o território nacional;
+
+b) Promover a qualidade dos arquivos enquanto recurso fundamental ao exercício da atividade administrativa, de prova ou de informação visando a sua eficiência e eficácia, nomeadamente no que se refere às suas relações com os cidadãos;
+
+c) Superintender técnica e normativamente e realizar ações de auditorias em todos os arquivos do Estado, autarquias locais e empresas públicas, bem como em todos os conjuntos documentais que, nos termos da lei, venham a integrar o património arquivístico e fotográfico protegido;
+
+d) Assegurar a aplicação das disposições integrantes da lei de bases da política cultural e do regime de proteção e valorização do património cultural, no âmbito do património arquivístico, fotográfico e fonográfico;
+
+e) Promover o desenvolvimento e a qualificação da rede nacional de arquivos e facilitar o acesso integrado à informação arquivística;
+
+f) Assegurar, em articulação com as entidades competentes, a cooperação internacional no domínio arquivístico;
+
+g) Exercer, em representação do Estado, o direito de preferência em caso de alienação, designadamente em hasta pública ou leilão, de espécies arquivísticas valiosas ou de interesse histórico-cultural do património arquivístico e fotográfico, independentemente da sua classificação ou inventariação;
+
+h) Exercer, em representação do Estado, os demais direitos patrimoniais relativos ao acervo de que é depositário;
+
+i) Aceitar, em representação do Estado, doações, heranças e legados desde que previamente autorizados pelo membro do Governo responsável pela área da cultura, bem como aceitar dação, depósito, incorporação, permuta ou reintegração de documentos de arquivo;
+
+j) Efetuar a gestão integrada do arquivo histórico, nomeadamente da Secretaria-Geral do Governo e das entidades públicas localizadas no Campus XXI;
+
+k) Proceder à recolha, tratamento e conservação dos arquivos que deixem de ser de uso corrente por parte dos serviços produtores, designadamente da Secretaria-Geral do Governo, assegurando a otimização dos custos globais de ocupação e funcionamento e a sua preservação, sempre que esta atribuição não esteja acometida a outro serviço ou entidade;
+
+l) Assegurar a gestão e o funcionamento do Arquivo Nacional do Som;
+
+m) Promover a salvaguarda e valorização do património documental sonoro, procedendo ao seu tratamento arquivístico, garantindo a aplicação de diretivas técnicas que assegurem a preservação e a proteção dos bens documentais sonoros;
+
+n) Assegurar os procedimentos e formalidades técnicas necessários à proteção legal do património sonoro, nomeadamente processos de classificação de bens fonográficos em articulação com a Museus e Monumentos de Portugal, E. P. E.;
+
+o) Participar com outras entidades, nacionais e internacionais, na conceção e execução de projetos, ações, e programas específicos, a nível local, nacional e internacional no domínio da arquivística do som e do património documental sonoro;
+
+p) Estabelecer protocolos e contratos de prestação de serviços, a título oneroso ou não, com entidades privadas, nacionais ou estrangeiras, no desempenho de qualquer atividade no domínio dos documentos sonoros;
+
+q) Elaborar, implementar, e coordenar uma estratégia nacional para a promoção do património sonoro e combate a iliteracia sonora;
+
+r) Planear e executar programas e ações de divulgação do património documental sonoro no estrangeiro, contribuindo para uma crescente difusão e reconhecimento da cultura e práticas musicais em Portugal no estrangeiro;
+
+s) Fazer-se representar junto de entidades e organismos internacionais no domínio da arquivística do som e do património sonoro em articulação com o Ministério dos Negócios Estrangeiros, com o Ministério da Educação, Ciência e Inovação e com o Ministério da Cultura;
+
+t) Promover e apoiar ações de salvaguarda do património documental sonoro em países de língua oficial portuguesa, através de apoio técnico e desenvolvimento de projetos de cooperação em articulação com o Ministério dos Negócios Estrangeiros;
+
+u) Dar apoio técnico, em articulação com a Museus e Monumentos de Portugal, E. P. E., com o Património Cultural, I. P., e com a Direção-Geral das Artes, na identificação, reunião e tratamento de fundos documentais sonoros;
+
+v) Preparar um plano de funcionamento adequado que garanta a salvaguarda do património documental sonoro identificado no prazo de uma década, em conformidade com o alerta da UNESCO e da International Association of Sound and Audiovisual Archives, sob o título «Magnetic Tape Alert Project Report», de 2020;
+
+w) Articular com entidades nacionais detentoras de património sonoro no sentido de planear a sua transferência (por depósito ou doação) para o Arquivo Nacional do Som com o propósito de assegurar as melhores condições físicas de preservação dos suportes de som, salvaguarda dos documentos sonoros e gestão do acesso, procurando uma administração eficaz deste património.
+
+4 - São atribuições da DGLAB na área das bibliotecas:
+
+a) Assegurar a execução da política nacional para as bibliotecas públicas, em conformidade com as orientações dos organismos do setor, em articulação com as autarquias, às quais compete a tutela e gestão desses equipamentos;
+
+b) Superintender técnica e normativamente as bibliotecas públicas, de acordo com o quadro legislativo para o setor;
+
+c) Acompanhar a evolução da sociedade da informação e do conhecimento, promovendo no setor das bibliotecas públicas a produção e o acesso a recursos e serviços eletrónicos;
+
+d) Promover a qualidade do serviço de biblioteca pública procedendo, regularmente e em articulação com o GEPAC, à sua avaliação, bem como à elaboração de estudos;
+
+e) Promover, em conjunto com outras entidades, a formação dos técnicos de bibliotecas;
+
+f) Representar o setor do livro, dos arquivos e das bibliotecas em organismos e fóruns internacionais em articulação com o GEPAC;
+
+g) Efetuar a gestão da biblioteca da Secretaria-Geral do Governo e das entidades públicas localizadas no Campus XXI.
+
+5 - A DGLAB possui capacidade editorial própria, bem como capacidade de promover a produção de réplicas e demais material de apoio ao público, assegurando os direitos editoriais ou de autor.
+
+6 - A DGLAB presta serviços de acesso, reprodução e apoio à pesquisa aos fundos documentais que possui.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379) A alteração às alíneas d) e l) a w) do n.º 3 do presente artigo, produzem efeitos a partir da extinção do mandato da equipa de instalação do Arquivo Nacional do Som, nos termos do n.º 11 da Resolução do Conselho de Ministros n.º 36/2019, de 18 de fevereiro. A alteração à alínea j) do n.º 3 e à alínea g) do n.º 4 do presente artigo, produz efeitos a partir de 1 de novembro de 2024.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), em vigor a partir de 2025-05-01
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 96/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2024-898201693), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 3.º — Órgãos
+
+A DGLAB é dirigida por um diretor-geral, coadjuvado por três subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+###### Artigo 4.º — Diretor-geral
+
+1 - Compete ao diretor-geral dirigir e orientar a ação da DGLAB, nos termos das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+2 - Os subdiretores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna da DGLAB obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A DGLAB dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A DGLAB dispõe ainda das seguintes receitas próprias:
+
+a) As comparticipações, donativos e subsídios concedidos por quaisquer entidades, de direito público ou privado, nacionais ou estrangeiras;
+
+b) O produto da realização de estudos, inquéritos ou outros trabalhos e serviços de carácter técnico confiados à DGLAB, mediante contrato com entidades nacionais ou estrangeiras;
+
+c) Os valores cobrados pela inscrição e frequência das ações de formação promovidas pela DGLAB, no âmbito das suas atribuições;
+
+d) O produto da prestação de serviços, designadamente de acesso, reprodução e apoio à pesquisa aos fundos documentais que possui;
+
+e) O produto de cedência temporária de espaços, bens próprios e daqueles que a qualquer título fruir, bem como de exploração económica das exposições produzidas e realizadas;
+
+f) O produto da venda de publicações, edições, reedições e outros materiais próprios, assim como de outros produtos de idêntica natureza;
+
+g) O produto da venda de qualquer tipo de reprodução de peças em arquivo que esteja autorizada;
+
+h) O produto resultante do exercício de direitos patrimoniais relativos ao acervo documental de que é depositário;
+
+i) As heranças, legados ou doações, bem como as dações, depósitos, incorporações, permutas ou reintegrações aceites;
+
+j) A percentagem do montante das coimas aplicadas resultantes dos processos de contraordenação instruídos pela DGLAB, enquanto entidade competente no âmbito da proteção legal do património arquivístico, fotográfico e fonográfico;
+
+k) As contrapartidas financeiras decorrentes da concessão de exploração de livrarias, zonas de restauração e similares em instalações da DGLAB e seus serviços dependentes;
+
+l) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As doações efetuadas à DGLAB são consideradas donativos de interesse público, beneficiando automaticamente do regime previsto no Estatuto do Mecenato, aprovado pelo Decreto-Lei n.º 74/99, de 16 de março, com as alterações que lhe foram introduzidas.
+
+4 - As receitas próprias referidas no n.º 2 são consignadas à realização de despesas da DGLAB durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.
+
+5 - Os bens e serviços prestados pela DGLAB no âmbito da sua missão são remunerados segundo critérios e tabelas a aprovar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura, neles não se incluindo a venda de bens e produtos próprios das lojas dos serviços.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), em vigor a partir de 2025-05-01
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da DGLAB as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Mapa de cargos de direção
+
+Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa do anexo ii ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 9.º — Poderes de autoridade
+
+No exercício das suas funções, os dirigentes e os trabalhadores da DGLAB gozam dos poderes de autoridade do Estado constantes das disposições da lei de bases da política e do regime de proteção e valorização do património cultural e demais legislação regulamentar, nomeadamente no que respeita ao património arquivístico, fotográfico e fonográfico, quando em serviço e sempre que tal se demonstre necessário à aplicação dos respetivos regimes jurídicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), em vigor a partir de 2025-05-01
+
+###### Artigo 10.º — Sucessão
+
+A DGLAB sucede nas atribuições da Direção-Geral do Livro e das Bibliotecas e da Direção-Geral de Arquivos, com exceção das atribuições relativas à Biblioteca Pública de Évora.
+
+###### Artigo 11.º — Critérios de seleção de pessoal
+
+São fixados como critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições da DGLAB:
+
+a) O desempenho de funções na Direção-Geral do Livro e das Bibliotecas, com exceção do exercício de funções na Biblioteca Pública de Évora;
+
+b) O desempenho de funções na Direção-Geral de Arquivos.
+
+###### Artigo 12.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 92/2007, de 29 de março, e o Decreto-Lei n.º 93/2007, de 29 de março, alterado pelo Decreto-Lei n.º 84/2009, de 2 de abril.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 29 de março de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
+
+Promulgado em 4 de maio de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 10 de maio de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo I — Serviços a que se refere o n.º 2 do artigo 1.º
+
+a) O Arquivo Nacional da Torre do Tombo/arquivo distrital de Lisboa;
+
+b) O Centro Português de Fotografia;
+
+c) O arquivo distrital do Porto;
+
+d) O arquivo distrital de Aveiro;
+
+e) O arquivo distrital de Beja;
+
+f) O arquivo distrital de Bragança;
+
+g) O arquivo distrital de Castelo Branco;
+
+h) O arquivo distrital de Évora;
+
+i) O arquivo distrital de Faro;
+
+j) O arquivo distrital da Guarda;
+
+k) O arquivo distrital de Leiria;
+
+l) O Arquivo distrital de Portalegre;
+
+m) O arquivo distrital de Santarém;
+
+n) O arquivo distrital de Setúbal;
+
+o) O arquivo distrital de Viana do Castelo;
+
+p) O arquivo distrital de Vila Real;
+
+q) O Arquivo Histórico Ultramarino;
+
+r) O Arquivo Nacional do Som;
+
+s) O Arquivo Geral da Administração Central.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379) A alteração à alínea r) do presente anexo, produz efeitos a partir da extinção do mandato da equipa de instalação do Arquivo Nacional do Som, nos termos do n.º 11 da Resolução do Conselho de Ministros n.º 36/2019, de 18 de fevereiro.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), em vigor a partir de 2025-05-01
+
+> Alterado pelo/a Anexo V do/a [Decreto-Lei n.º 141/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2015-69920316), em vigor a partir de 2015-08-01
+
+## Anexo II — Mapa a que se refere o artigo 8.º
+
+| Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |
+| --- | --- | --- | --- |
+| Diretor-geral | Direção superior | 1.º | 1 |
+| Subdiretor-geral | Direção superior | 2.º | 3 |
+| Diretor de serviços | Direção intermédia | 1.º | 10 |
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379) Um lugar de direção intermédia de 1.º grau, previsto no presente anexo, produz efeitos a partir da extinção do mandato da equipa de instalação do Arquivo Nacional do Som, nos termos do n.º 11 da Resolução do Conselho de Ministros n.º 36/2019, de 18 de fevereiro.
+
+> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 62/2025 - Diário da República n.º 67/2025, Série I de 2025-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2025-913816379), em vigor a partir de 2025-05-01

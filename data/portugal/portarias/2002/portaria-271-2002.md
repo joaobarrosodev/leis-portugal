@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:264938:por
+title: Portaria n.º 271/2002
+short_title: null
+summary: Cria a Comissão de Protecção de Crianças e Jovens do Concelho de Ponte de Sor
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Justiça e do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 271/2002
+official_date: null
+publication_date: '2002-03-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2002, Série I-B de 2002-03-14
+  number: '62'
+  series: I
+  supplement: null
+  pages: 2333 - 2334
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/03/062b00/23332334.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/271/2002/03/14/p/dre/pt/html
+  oj: null
+  dre: '264938'
+  dre_path: /dr/detalhe/portaria/271-2002-264938
+  internal: pt:dre:264938:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-2002-264938
+  metadata_url: https://data.dre.pt/eli/port/271/2002/03/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-2002-264938
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-03-14T00:00:00Z'
+integrity:
+  source_sha256: 6af5fd7bf68781d100faa1e5bb7176d9af1aa828ba764bb6674a7a5472495a8a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-271-264938.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Protecção de Crianças e Jovens
+- Menoridade
+- Ponte de Sor
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 271/2002
+
+de 14 de Março
+
+A [Lei n.º 147/99](https://diariodarepublica.pt/dr/detalhe/lei/147-1999-581619), de 1 de Setembro, designada lei de protecção de crianças e jovens em perigo, regula a criação, a competência e o funcionamento das comissões de protecção de crianças e jovens em todos os concelhos do País, determinando que a respectiva instalação seja declarada por portaria conjunta dos Ministros da Justiça e do Trabalho e da Solidariedade.
+
+Acções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Ponte de Sor, com vista à instalação da respectiva Comissão de Protecção, dando assim cumprimento ao preceituado na lei de protecção.
+
+Assim, ao abrigo do n.º 3 do artigo 12.º da lei de protecção, manda o Governo, pelos Ministros da Justiça e do Trabalho e da Solidariedade, o seguinte:
+
+1.º É criada a Comissão de Protecção de Crianças e Jovens do Concelho de Ponte de Sor, que fica instalada em edifício da Câmara Municipal.
+
+2.º A Comissão é constituída, nos termos do artigo 17.º da lei de protecção, pelos seguintes elementos:
+
+a) Um representante do município;
+
+b) Um representante do Instituto de Solidariedade e Segurança Social;
+
+c) Um representante dos serviços locais do Ministério da Educação;
+
+d) Um médico, em representação dos serviços de saúde;
+
+e) Um representante das instituições particulares de solidariedade social (ou de organizações não governamentais) que desenvolvam actividades de carácter não institucional;
+
+f) Um representante das instituições particulares de solidariedade social (ou de organizações não governamentais) que desenvolvam actividades de carácter institucional;
+
+g) Um representante das associações de pais;
+
+h) Um representante de associações (ou organizações privadas) que desenvolvam actividades desportivas, culturais ou recreativas destinadas a crianças e jovens;
+
+i) Um representante das associações de jovens (ou um representante dos serviços de juventude);
+
+j) Um ou dois representantes das forças de segurança, PSP e GNR;
+
+l) Quatro pessoas designadas pela Assembleia Municipal (ou pela Assembleia de Freguesia);
+
+m) Os técnicos que venham a ser cooptados pela Comissão.
+
+3.º O presidente da Comissão de Protecção é eleito pela comissão alargada, de entre todos os seus membros, na primeira reunião plenária, por um período de dois anos, renovável por duas vezes. As funções de secretário são desempenhadas por um membro da Comissão, designado pelo presidente.
+
+4.º A Comissão, a funcionar em modalidade restrita, é composta, nos termos do artigo 20.º da lei de protecção, sempre por um número ímpar nunca inferior a cinco, de entre os membros que integram a comissão alargada, designados para o efeito em reunião plenária após a instalação, sendo membros por inerência o presidente da Comissão de Protecção, o representante do município e o do Instituto de Solidariedade e Segurança Social.
+
+5.º Os membros da comissão restrita exercem funções em regime de tempo parcial ou de tempo completo, nos termos do n.º 3 do artigo 22.º da lei de protecção, durante o período de um ano, tempo findo o qual é obrigatoriamente reavaliado.
+
+6.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicam os seus membros nominalmente, bem como o presidente e o secretário da Comissão de Protecção, ao presidente da Comissão Nacional de Protecção das Crianças e Jovens em Risco.
+
+7.º O apoio logístico necessário ao funcionamento da Comissão de Protecção é assegurado pelo município nos termos previstos pelo artigo 14.º da lei de protecção, podendo vir a ser celebrados protocolos de cooperação com os serviços do Estado representados na Comissão Nacional de Protecção das Crianças e Jovens em Risco para efeitos do suporte com os encargos financeiros resultantes deste apoio.
+
+8.º O fundo de maneio, previsto pelo artigo 14.º da lei de protecção, é assegurado transitoriamente pelo Instituto de Solidariedade e Segurança Social, tendo como conteúdo, montante e forma de gestão o previsto no diploma regulamentar aprovado em 21 de Dezembro de 2000.
+
+9.º Os efeitos da presente portaria rectroagem ao dia 25 de Janeiro de 2002, data do início de funções da Comissão de Protecção de Crianças e Jovens.
+
+Em 15 de Fevereiro de 2002.
+
+Pelo Ministro da Justiça, Eduardo Arménio do Nascimento Cabrita, Secretário de Estado Adjunto do Ministro da Justiça. - Pelo Ministro do Trabalho e da Solidariedade, José Manuel Simões de Almeida, Secretário de Estado da Solidariedade e da Segurança Social.

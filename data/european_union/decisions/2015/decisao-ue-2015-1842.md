@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: eu:celex:32015D1842:por
+title: Decisão de Execução (UE) 2015/1842 da Comissão, de 9 de outubro de 2015
+short_title: null
+summary: Decisão de Execução (UE) 2015/1842 da Comissão, de 9 de outubro de 2015, relativa às especificações técnicas para
+  a configuração, conceção e formato das advertências de saúde combinadas para produtos do tabaco para fumar [notificada com
+  o número C(2015) 6729] (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2015/1842
+official_date: null
+publication_date: '2015-10-14'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 267 de 14.10.2015
+  number: '267'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/a25e7210-7240-11e5-9317-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2015-10-12'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32015D1842
+  eli: http://data.europa.eu/eli/dec_impl/2015/1842/oj
+  oj: oj:JOL_2015_267_R_0003
+  dre: null
+  dre_path: null
+  internal: eu:celex:32015D1842:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32015D1842
+  metadata_url: http://publications.europa.eu/resource/cellar/a25e7210-7240-11e5-9317-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/a25e7210-7240-11e5-9317-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T03:17:31Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-13T00:41:19.454+02:00'
+integrity:
+  source_sha256: f1f9c7ea9321b0232c7e28f489d0e10248f249c70fdc20b8f5a6b5bcd87ae0a3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:17:31Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- embalagem
+- especificação técnica
+- indústria do tabaco
+- informação do consumidor
+- norma de comercialização
+- risco sanitário
+- rotulagem
+- tabagismo
+relationships:
+- type: based_on
+  target: celex:32014L0040
+  label: null
+  source: http://publications.europa.eu/resource/cellar/797a78a6-cf66-11e3-b682-01aa75ed71a1
+  date: '2014-04-29'
+- type: cited_by
+  target: pt:dre:73650546:por
+  label: null
+  source: null
+- type: corrected_by
+  target: celex:32015D1842R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a8fc2e4a-29d9-11e6-b616-01aa75ed71a1
+  date: '2016-06-04'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:17:31Z'
+  warnings:
+  - Versão consolidada 02015D1842-20151014 indisponível (Sem expressão na língua por para CELEX 02015D1842-20151014.); usado
+    o texto do JO.
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2015/1842 DA COMISSÃO
+
+de 9 de outubro de 2015
+
+relativa às especificações técnicas para a configuração, conceção e formato das advertências de saúde combinadas para produtos do tabaco para fumar
+
+*[notificada com o número C(2015) 6729]*
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2014/40/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros no que respeita ao fabrico, apresentação e venda de produtos do tabaco e produtos afins e que revoga a Diretiva 2001/37/CE [([^1])](http://publications.europa.eu/resource/cellar/a25e7210-7240-11e5-9317-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2015267PT.01000501-E0001), nomeadamente o artigo 10.º, n.º 4,
+
+Considerando o seguinte:
+
+(1) A Diretiva 2014/40/UE estabeleceu novas regras em matéria de advertências de saúde, incluindo advertências de saúde combinadas, que devem ser colocadas nos produtos do tabaco para fumar. As advertências de saúde combinadas devem conter uma das advertências em texto enumeradas no anexo I da referida diretiva, uma fotografia a cores correspondente, especificada na biblioteca de imagens no anexo II da referida diretiva, e informações para deixar de fumar. As advertências devem cobrir 65 % de ambas as faces externas, dianteira e traseira, da embalagem individual e de qualquer embalagem exterior.
+
+(2) Devem ser estabelecidas as especificações técnicas para a conceção, a configuração e o formato das advertências de saúde combinadas, tendo em conta as diferentes formas das embalagens. Em especial, a posição da fotografia, da advertência em texto e da informação para parar de fumar na advertência de saúde combinada, a dimensão desses elementos, o formato, as cores e os tipos de letra a utilizar devem ser especificados por forma a garantir que cada elemento é completamente visível.
+
+(3) Tendo em conta as diferentes formas das embalagens e dimensões presentes no mercado, é adequado exigir que as advertências de saúde combinadas sejam apresentadas num formato sobreposto ou lado a lado. Quando a altura da advertência de saúde combinada for superior a 70 % da sua largura, deve ser utilizado um formato sobreposto. Quando a altura da advertência de saúde combinada for superior a 20 % mas inferior a 65 % da sua largura, deve ser utilizado um formato lado a lado. Quando a altura da advertência de saúde combinada for superior ou igual a 65 % e inferior ou igual a 70 % da sua largura, os fabricantes de produtos do tabaco devem ser autorizados a escolher o formato a utilizar, desde que todos os elementos da advertência de saúde combinada estejam totalmente visíveis e não sejam falseados.
+
+(4) A fim de assegurar que a fotografia é o elemento mais marcante da advertência de saúde combinada, no formato sobreposto, ela deve ser posicionada na parte superior da advertência de saúde combinada e, no formato lado a lado, na metade esquerda da advertência de saúde combinada. A fotografia deve ser igualmente o maior elemento da advertência de saúde combinada.
+
+(5) Sempre que, devido à forma da embalagem individual ou embalagem exterior, a advertência de saúde combinada for significativamente mais larga do que a altura, é, todavia, conveniente prever regras especiais no que respeita às dimensões dos elementos da advertência de saúde combinada, de modo a garantir que a fotografia não é falseada em termos de escala e que a advertência em texto e a informação para deixar de fumar estão totalmente visíveis e legíveis.
+
+(6) A fim de assegurar a visibilidade e a clareza da advertência de saúde combinada, devem ser estabelecidas regras sobre as cores, resolução mínima, carateres e espaço entre as linhas. As tolerâncias de impressão inevitáveis são consideradas aceitáveis.
+
+(7) É conveniente prever regras especiais para as advertências de saúde combinadas, que devem ser colocadas na parte da frente das embalagens individuais com uma aba articulada, em que a aba cubra uma superfície superior ou inferior a 50 % da superfície prevista para a fotografia e a abertura da aba articulada dê lugar a uma separação da fotografia, da advertência em texto ou da informação para deixar de fumar. Nestes casos, é adequado prever regras mais flexíveis no que se refere à dimensão de cada um dos três elementos da advertência de saúde combinada. Os fabricantes ou importadores devem também ser autorizados a reduzir o tamanho dos carateres, o espaço entre as linhas na advertência em texto e na informação para deixar de fumar, nos casos em que a advertência de saúde combinada na frente dessas embalagens esteja em mais de uma língua ou caso tal seja inevitável nos produtos do tabaco para fumar, com exceção dos cigarros, do tabaco de enrolar e do tabaco para cachimbo de água, desde que todos os elementos continuem a ser plenamente visíveis.
+
+(8) As medidas previstas na presente decisão são conformes com o parecer do comité referido no artigo 25.º da Diretiva 2014/40/UE,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+A presente decisão estabelece regras relativas à conceção, configuração e formato das advertências de saúde combinadas para produtos do tabaco para fumar.
+
+###### Artigo 2.º — Conceção e formato das advertências de saúde combinadas
+
+1. Quando a altura da advertência de saúde combinada for superior a 70 % da sua largura, os fabricantes devem conceber as advertências de saúde combinadas num formato sobreposto, tal como ilustrado no n.º 1 do anexo.
+
+Quando a altura da advertência de saúde combinada for superior a 20 % mas inferior a 65 % da sua largura, os fabricantes devem conceber as advertências de saúde combinadas num formato lado a lado, tal como ilustrado no n.º 2 do anexo.
+
+Quando a altura da advertência de saúde combinada for superior ou igual a 65 % mas inferior ou igual a 70 % da sua largura, os fabricantes devem ser autorizados a escolher o formato sobreposto ou lado a lado, desde que todos os elementos da advertência de saúde combinada estejam totalmente visíveis e não sejam falseados.
+
+2. Sempre que for utilizado um formato sobreposto, a fotografia deve ser colocada no topo da advertência de saúde combinada, devendo a advertência em texto e a informação para deixar de fumar figurar por baixo, tal como ilustrado no n.º 1 do anexo. A fotografia deve ocupar 50 %, a advertência em texto 38 % e a informação para deixar de fumar 12 % da superfície da advertência de saúde combinada dentro do bordo exterior preto.
+
+Sempre que for utilizado um formato lado a lado, a fotografia deve ser colocada na parte esquerda da advertência de saúde combinada, devendo a advertência em texto e a informação para deixar de fumar figurar na parte inferior direita, tal como ilustrado no n.º 2 do anexo. A fotografia deve ocupar 50 %, a advertência em texto 40 % e a informação para deixar de fumar 10 % da superfície da advertência de saúde combinada dentro do bordo exterior preto.
+
+3. Sempre que, devido à forma da embalagem individual ou da embalagem exterior, a altura da advertência de saúde combinada for igual ou inferior a 20 % da sua largura, a advertência de saúde combinada deve ser concebida num formato lado a lado extra largo, tal como ilustrado no n.º 3 do anexo. A fotografia deve ocupar 35 %, a advertência em texto 50 % e a informação para deixar de fumar 15 % da superfície da advertência de saúde combinada dentro do bordo exterior preto.
+
+###### Artigo 3.º — Conceção da advertência de saúde combinada
+
+1. A advertência de saúde combinada deve ser impressa em quatro cores CMYK. Todos os elementos em preto serão C0, M0, Y0 e K100 e os elementos em amarelo quente serão C0, M10, Y100 e K0.
+
+A advertência de saúde combinada deve ser reproduzida em resolução mínima de 300 dpi quando impressa em tamanho real.
+
+2. A advertência em texto deve ser impressa em branco sobre fundo preto.
+
+Se os produtos do tabaco para fumar se destinarem a ser colocados no mercado de Estados-Membros com mais de uma língua oficial, a advertência em texto da primeira língua deve ser impressa em branco, a da segunda língua em amarelo quente e a da terceira língua, se aplicável, em branco.
+
+A informação para deixar de fumar deve ser impressa em preto sobre um fundo amarelo quente, tal como ilustrado no anexo.
+
+3. No caso de ser utilizado um formato lado a lado, sobreposto invertido ou um formato lado a lado extra largo, deve ser impresso um bordo negro de 1 mm entre a informação para deixar de fumar e a fotografia no painel da informação para deixar de fumar.
+
+4. Os fabricantes ou os importadores devem garantir que a fotografia:
+
+a) é reproduzida sem aplicação de efeitos, ajustamento de cores, retoques ou aumento da imagem de fundo;
+
+b) não é recortada demasiadamente perto ou longe do ponto focal da imagem;
+
+c) é adaptada proporcionalmente, sem ser estirada ou reduzida.
+
+5. Os fabricantes devem garantir que:
+
+a) a advertência em texto e a informação para deixar de fumar são alinhadas à esquerda e centradas na vertical;
+
+b) a advertência em texto e a informação para deixar de fumar são impressas em *Neue Frutiger Condensed Bold*;
+
+c) a advertência em texto é impressa em carateres de tamanho uniforme;
+
+d) os carateres da advertência em texto e da informação para deixar de fumar devem ser tão grandes quanto possível, para assegurar o máximo de visibilidade do texto;
+
+e) o tamanho mínimo dos carateres da advertência em texto é de 6 pt e o tamanho mínimo dos carateres da informação para deixar de fumar de 5 pt;
+
+f) o espaço entre linhas é 2 pt maior do que o tamanho dos carateres da advertência em texto e 1 a 2 pt maior do que o tamanho dos carateres da informação para deixar de fumar;
+
+g) a advertência em texto é reproduzida tal como consta do anexo I da Diretiva 2014/40/UE, incluindo no que diz respeito à utilização de maiúsculas, mas excluindo a numeração.
+
+Em derrogação das alíneas e) e f), os fabricantes ou importadores de produtos do tabaco para fumar, que não os cigarros, o tabaco de enrolar e o tabaco para cachimbo de água, podem reduzir o tamanho dos carateres ou a distância entre as linhas da advertência em texto e da informação para deixar de fumar, quando tal se revelar inevitável, desde que todos os elementos da advertência de saúde combinada estejam totalmente visíveis.
+
+###### Artigo 4.º — Regras especiais para certas embalagens individuais com aba articulada
+
+1. Em derrogação do artigo 2.º, n.º 2, primeiro parágrafo, são aplicáveis as seguintes regras às advertências de saúde combinadas a colocar na frente das embalagens individuais com aba macia articulada:
+
+a) quando a aba for menor que a superfície prevista para a fotografia no artigo 2.º, n.º 2, e o cumprimento dessa disposição leve a que a fotografia seja separada aquando da abertura: i) a advertência em texto deve ser colocada por cima da advertência de saúde combinada, com a informação para deixar de fumar e a fotografia por baixo, tal como ilustrado na secção 4 do anexo, e ii) a fotografia deve ocupar pelo menos 50 % da superfície da advertência de saúde combinada, a advertência em texto pelo menos 30 % e a informação para deixar de fumar pelo menos 10 %, mas não mais de 12 % da superfície da advertência de saúde combinada dentro do bordo exterior preto;
+
+i) a advertência em texto deve ser colocada por cima da advertência de saúde combinada, com a informação para deixar de fumar e a fotografia por baixo, tal como ilustrado na secção 4 do anexo, e
+
+ii) a fotografia deve ocupar pelo menos 50 % da superfície da advertência de saúde combinada, a advertência em texto pelo menos 30 % e a informação para deixar de fumar pelo menos 10 %, mas não mais de 12 % da superfície da advertência de saúde combinada dentro do bordo exterior preto;
+
+b) quando a aba for inferior à superfície prevista para a fotografia no artigo 2.º, n.º 2, e o cumprimento dessa disposição leve a que a advertência em texto ou a informação para deixar de fumar sejam separadas aquando da abertura: i) a fotografia deve ser colocada no topo da advertência de saúde combinada, com a advertência em texto e a informação para deixar de fumar por baixo, tal como ilustrado na secção 1 do anexo, e ii) a fotografia deve ocupar pelo menos 50 % da superfície da advertência de saúde combinada, a advertência em texto pelo menos 30 % e a informação para deixar de fumar pelo menos 10 %, mas não mais de 12 % da superfície da advertência de saúde combinada dentro do bordo exterior preto.
+
+i) a fotografia deve ser colocada no topo da advertência de saúde combinada, com a advertência em texto e a informação para deixar de fumar por baixo, tal como ilustrado na secção 1 do anexo, e
+
+ii) a fotografia deve ocupar pelo menos 50 % da superfície da advertência de saúde combinada, a advertência em texto pelo menos 30 % e a informação para deixar de fumar pelo menos 10 %, mas não mais de 12 % da superfície da advertência de saúde combinada dentro do bordo exterior preto.
+
+Os fabricantes devem assegurar que nenhum dos três elementos da advertência de saúde combinada é dividido aquando da abertura da embalagem individual.
+
+2. Em derrogação do artigo 3.º, n.º 5, alíneas e) e f), os fabricantes ou importadores de cigarros, tabaco de enrolar e tabaco para cachimbo de água em embalagens individuais com aba articulada podem reduzir o tamanho dos carateres ou a distância entre as linhas da advertência em texto e da informação para deixar de fumar na parte da frente nos casos em que a advertência de saúde combinada esteja em mais do que uma língua, desde que todos os elementos da advertência de saúde combinada estejam totalmente visíveis.
+
+###### Artigo 5.º — Destinatários
+
+Os destinatários da presente decisão são os Estados-Membros.
+
+Feito em Bruxelas, em 9 de outubro de 2015.
+
+***Pela Comissão***
+
+**Vytenis ANDRIUKAITIS**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/a25e7210-7240-11e5-9317-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2015267PT.01000501-E0001) [JO L 127 de 29.4.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_127_R_TOC).

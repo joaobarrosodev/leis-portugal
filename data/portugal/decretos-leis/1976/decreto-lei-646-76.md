@@ -1,0 +1,223 @@
+---
+schema_version: '1.0'
+id: pt:dre:431002:por
+title: Decreto-Lei n.º 646/76
+short_title: null
+summary: Cria o Conselho Nacional de Rendimentos e Preços
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 646/76
+official_date: null
+publication_date: '1976-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1976, Série I de 1976-07-31
+  number: '178'
+  series: I
+  supplement: null
+  pages: 1829 - 1832
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17800/18291832.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '431002'
+  dre_path: /dr/detalhe/decreto-lei/646-1976-431002
+  internal: pt:dre:431002:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/646-1976-431002
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/646-1976-431002
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-08-17T00:00:00Z'
+integrity:
+  source_sha256: 1aa8883959c9923ad91085352e0dca8fc63d4e6ed7ac30144e4f915891551ffc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-646-431002.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:674430:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 646/76
+
+de 31 de Julho
+
+1. Uma política global de repartição da riqueza e do rendimento é instrumento privilegiado na construção da sociedade sem classes em que está empenhada a República Portuguesa.
+
+Para esse objectivo tal política contribui directamente quer pela correcção de desigualdades na distribuição da riqueza e do rendimento quer pelo aumento do bem-estar social e económico do povo e em especial das classes mais desfavorecidas quer ainda pelo suporte e coerência que fornece à planificação do desenvolvimento económico e social e às medidas concretas em domínios como os salários, os rendimentos não salariais, os preços, a fiscalidade e a segurança social.
+
+2. Definidas e estabilizadas as orientações fundamentais da sociedade portuguesa pela Constituição promulgada em 2 de Abril de 1976, impõe-se estabelecer neste domínio uma política global que permita avançar nas transformações necessárias de forma a salvaguardar a dominante socialista em cada etapa do processo de transição e a integrar e harmonizar as diversas medidas que entretanto, e de forma um tanto dispersa têm vindo a ser tomadas.
+
+3. Nesse sentido, e como estrutura encarregada de contribuir para a definição de uma política global de rendimento, é criado pelo presente diploma o Conselho Nacional de Rendimentos e Preços.
+
+Além de exercer funções consultivas e de apoio na definição de linhas políticas neste domínio, o Conselho tomará também a iniciativa de propor ao Governo as medidas que entenda convenientes e procederá à informação regular da opinião pública sobre a situação e evolução da repartição da riqueza e do rendimento.
+
+A sua composição foi estabelecida com vista a assegurar a ligação com os diversos agentes que intervêm na realidade da economia portuguesa. Procurou-se, ainda, que a representação das classes trabalhadores fosse devidamente significativa.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É criado, para funcionar na directa dependência do Primeiro-Ministro, um órgão de carácter técnico, informativo e consultivo, denominado Conselho Nacional de Rendimentos e Preços.
+
+###### Art. 2.º - 1. Compete genericamente ao Conselho Nacional de Rendimentos e Preços contribuir para a definição de uma política global de rendimentos e preços, tendente à correcção das desigualdades na distribuição da riqueza e do rendimento e à justa repartição individual e regional do produto nacional e, nomeadamente:
+
+a) Apresentar propostas ao Conselho de Ministros;
+
+b) Elaborar os pareceres que lhe sejam solicitados pelo Conselho de Ministros;
+
+c) Acompanhar a execução das medidas adoptadas pelo Governo em matéria de política de rendimentos e preços através da análise de indicadores de avaliação dos respectivos resultados;
+
+d) Manter um serviço regular de informação ao público em ordem a assegurar o conhecimento e a cooperação activa da população em geral e das classes trabalhadoras em especial na definição, contrôle e execução das medidas de acção política em matéria de rendimentos e preços.
+
+2. Incumbe-lhe especificamente:
+
+a) Propor ao Conselho de Ministros objectivos e metas globais em matéria de política de rendimentos não salariais e sugerir formas de intervenção e actuação conducentes à sua concretização;
+
+b) Propor ao Conselho de Ministros objectivos finais e intermédios em matéria de política de salários e sugerir formas de intervenção e actuação conducentes à sua concretização, nomeadamente as relativas à determinação da massa salarial global e por sectores de actividade ao estabelecimento da grelha salarial e à fixação do salário mínimo nacional;
+
+c) Propor ao Conselho de Ministros critérios de actualização do salário mínimo nacional e dos rendimentos de pensões que lhe sejam inferiores, bem como, até onde isso se revele possível, dos rendimentos não salariais em todos os casos em função da evolução do custo de vida;
+
+d) Propor ao Conselho de Ministros formas de intervenção e actuação na formação e no contrôle dos preços, nomeadamente os de bens essenciais, em ordem à estabilização do custo de vida e sua compatibilização com o poder aquisitivo das classes mais desfavorecidas;
+
+e) Propor ao Conselho de Ministros formas de intervenção e actuação em matéria de política fiscal, com vista à diminuição das desigualdades e à definição anual de um rendimento máximo nacional;
+
+f) Propor ao Conselho de Ministros formas de intervenção e actuação em matéria de política de segurança social, com significado no âmbito da política global de repartição da riqueza e do rendimento;
+
+g) Elaborar relatórios periódicos por sua iniciativa ou a pedido do Conselho de Ministros, sobre as matérias das alíneas anteriores.
+
+3. No exercício da sua competência, e no desempenho das suas funções, deverá o Conselho Nacional de Rendimentos e Preços ter presentes:
+
+a) A salvaguarda da normal satisfação das necessidades financeiras do Estado;
+
+b) A salvaguarda do normal desenvolvimento da economia nacional;
+
+c) A salvaguarda do pontual cumprimento do seu dever de cooperação com o Governo, no âmbito das matérias da sua competência.
+
+###### Art. 3.º O Conselho Nacional de Rendimentos e Preços, no desempenho das suas funções, deve conjugar a sua actividade com a dos departamentos da administração pública competentes.
+
+###### Art. 4.º Para o desempenho das suas atribuições pode o Conselho Nacional de Rendimentos e Preços:
+
+a) Encomendar a quaisquer entidades, públicas ou privadas, os estudos e trabalhos técnicos necessários;
+
+b) Obter junto de quaisquer serviços públicos, ou solicitar a entidades privadas, as informações de que careça;
+
+c) Estabelecer esquemas ou acordos de cooperação com outras entidades nomeadamente instituições universitárias ou centros de investigação;
+
+d) Publicar relatórios, pareceres ou quaisquer outros trabalhos cuja divulgação considere conveniente.
+
+###### Art. 5.º - 1. O Conselho Nacional de Rendimentos e Preços é constituído por um presidente e por um vice-presidente designados pelo Conselho de Ministros, e por vinte e cinco vogais, dois dos quais peritos de reconhecida competência designados também pelo Conselho de Ministros, sendo os restantes:
+
+a) Oito representantes dos trabalhadores a designar pelas associações sindicais representativas dos principais sectores de actividade;
+
+b) Quatro representantes da actividade económica privada, a designar pelas associações patronais representativas dos principais sectores de actividade;
+
+c) Quatro representantes do sector público da actividade económica a designar pelos Ministros da Tutela dos sectores de maior peso na economia;
+
+d) Cinco representantes dos departamentos governamentais competentes em matéria de planeamento, finanças, trabalho, assuntos sociais e função pública a designar pelos titulares das respectivas pastas;
+
+e) Um representante do Instituto Nacional de Estatística, a designar pelo respectivo director ou quem as suas vezes fizer;
+
+f) Um representante do Instituto de Apoio às Pequenas e Médias Empresas, a designar pelo seu presidente ou quem as suas vezes fizer.
+
+2. Em caso de dúvida sobre quais sejam as associações sindicais referidas na alínea a) do número antecedente, as associações patronais referidas na alínea b) e os sectores de maior peso mencionados na alínea e), a mesma será desfeita por resolução do Conselho de Ministros.
+
+3. Por cada vogal efectivo deverão as entidades referidas no antecedente n.º 1 designar simultaneamente um vogal suplente, que substituirá aquele nas suas falias e impedimentos.
+
+4. Na designação dos seus representantes deverão as entidades representadas, nos termos do antecedente n.º 1, ter em conta a competência especializada e o grau de responsabilidade que a actividade normal do Conselho exige dos seus membros.
+
+5. Os membros do Conselho poderão, a todo o tempo, ser destituídos e substituídos pela entidade que os tiver designado, a seu pedido ou por iniciativa desta.
+
+6. A não designação pelas entidades referidas no n.º 1 dos respectivos representantes, ou a sua demora, não impedirá o válido funcionamento do Conselho desde que se mostre respeitada a exigência do n.º 3 do artigo 6.º
+
+7. O Conselho poderá convocar ou convidar para participarem nas suas reuniões quaisquer entidades cuja presença seja julgada útil.
+
+8. Os membros do Conselho poderão fazer-se acompanhar de assessores especializados, mas estes só assistirão às reuniões quando a sua presença tiver sido autorizada pelo próprio Conselho.
+
+###### Art. 6.º - 1. As reuniões do Conselho Nacional de Rendimentos e Preços são ordinárias e extraordinárias e convocadas pelo presidente, ou quem as suas vezes fizer, por sua iniciativa ou a pedido justificado de qualquer dos seus membros.
+
+2. O Conselho deliberará validamente desde que esteja presente a maioria do número legal dos seus membros e desde que as deliberações sejam tornadas à pluralidade de votos dos membros presentes, tendo o presidente, ou quem as suas vezes fizer, voto de qualidade.
+
+3. São, no entanto, permitidas reuniões restritas a apenas alguns membros do Conselho para tratar de assuntos sectoriais ou especializados, competindo ao presidente convocar os membros que a elas devam assistir, aplicando-se a esses membros a regra do número antecedente. Para que as deliberações tomadas em reunião restrita possam responsabilizar o Conselho, deverão ser ulteriormente votadas em reunião plenária.
+
+4. As reuniões do Conselho são privadas e delas deverá ser elaborada uma acta com menção dos membros presentes e do que nelas se passar, assinada pelo presidente, ou quem as suas vezes fizer e por, pelo menos, três vogais.
+
+###### Art. 7.º De acordo com as suas necessidades, o Conselho Nacional de Rendimentos e Preços poderá tomar a iniciativa da criação de comissões especializadas de carácter permanente ou temporário, com a composição, as funções e o funcionamento que o próprio Conselho definir em proposta que apresentará, para aprovação, ao Conselho de Ministros.
+
+###### Art. 8.º - 1. O Conselho Nacional de Rendimentos e Preços tem o apoio permanente de um secretariado e de um núcleo técnico, cuja orientação compete ao presidente ou, na falta ou por delegação deste, ao vice-presidente.
+
+2. O secretariado assegura o expediente administrativo do Conselho.
+
+3. O núcleo técnico realiza os estudos e demais trabalhos técnicos necessários.
+
+4. O pessoal do secretariado e do núcleo técnico é o que consta do quadro anexo a este diploma e o seu recrutamento obedecerá às regras vigentes para as categorias similares do quadro do pessoal da Presidência do Conselho de Ministros.
+
+5. Poderão, com a sua anuência, ser requisitados temporariamente outros funcionários, mediante despacho do Primeiro-Ministro.
+
+###### Art. 9.º O presidente e o vice-presidente e os peritos referidos no corpo do n.º 1 do artigo 5.º auferirão as remunerações que vierem a ser estabelecidas por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, podendo ser requisitados a tempo inteiro ou parcial.
+
+###### Art. 10.º O Ministro das Finanças inscreverá no Orçamento Geral do Estado as verbas necessárias ao funcionamento do Conselho Nacional de Rendimentos e Preços.
+
+###### Art. 11.º O Conselho Nacional de Rendimentos e Preços elaborará, no prazo de trinta dias, a contar da sua primeira sessão, um regulamento interno que disciplinará o seu funcionamento.
+
+###### Art. 12.º O presente diploma será obrigatoriamente revisto dentro dos dois anos subsequentes à data da sua entrada em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Joaquim Jorge Magalhães Mota - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete.
+
+**Promulgado em 13 de Julho de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+Quadro anexo referido no n.º 4 do artigo 8.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17800/18291832.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17800/18291832.pdf)
+
+**O Primeiro-Ministro, Vasco Fernando Leote de Almeida e Costa.**

@@ -1,0 +1,2060 @@
+---
+schema_version: '1.0'
+id: pt:dre:640931:por
+title: Decreto-Lei n.º 306/2007
+short_title: null
+summary: Estabelece o regime da qualidade da água destinada ao consumo humano, revendo o Decreto-Lei n.º 243/2001, de 5 de
+  Setembro, que transpôs para a ordem jurídica interna a Directiva n.º 98/83/CE, do Conselho, de 3 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 306/2007
+official_date: null
+publication_date: '2007-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 164/2007, Série I de 2007-08-27
+  number: '164'
+  series: I
+  supplement: null
+  pages: 5747 - 5765
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16400/0574705765.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- O presente decreto-lei foi revogado pelo Decreto-Lei n.º 69/2023, de 21 de agosto. Todavia, o artigo 14.º-A e as alíneas
+  m), n), o) e p) do n.º 2 do artigo 31.º mantêm-se em vigor até dia 31 de dezembro de 2027.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-08-22'
+version_history:
+  file: decreto-lei-306-2007.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-01'
+    amending: pt:dre:334094:por
+    amending_title: Decreto-Lei n.º 92/2010
+    changes:
+    - Adita Artigo 37.º-A
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 31.º
+    - Altera Artigo 37.º
+  - date: '2018-01-01'
+    amending: pt:dre:114315242:por
+    amending_title: Decreto-Lei n.º 152/2017
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 26.º-A
+    - Adita Artigo 28.º-A
+    - Adita Artigo 34.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 38.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Revoga Artigo 13.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+  - date: '2023-08-22'
+    amending: pt:dre:220113533:por
+    amending_title: Decreto-Lei n.º 69/2023
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Capítulo II
+    - Revoga Artigo 8.º
+    - Revoga Artigo 8.º-A
+    - Revoga Artigo 8.º-B
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Capítulo V
+    - Revoga Artigo 26.º
+    - Revoga Artigo 26.º-A
+    - Revoga Artigo 28.º
+    - Revoga Artigo 28.º-A
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 34.º-A
+    - Revoga Capítulo VII
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 37.º-A
+    - Revoga Artigo 38.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/306/2007/p/cons/20230821/pt/html
+  oj: null
+  dre: '640931'
+  dre_path: /dr/detalhe/decreto-lei/306-2007-640931
+  internal: pt:dre:640931:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2007-640931
+  metadata_url: https://data.dre.pt/eli/dec-lei/306/2007/p/cons/20230821/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-114324026
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-114324026
+  retrieved_at: '2026-10-22T12:15:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d808219d880c682cf60f1329f24fd469edd58110c670e803be730f04cb99a8d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:15:57Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-306-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Contra-ordenação
+- Controlo de Qualidade
+- Recursos Hídricos
+- Definição de Competências
+- Controlo Sanitário
+- Saúde Pública
+- Fiscalização
+- ASAE
+- Licenciamento
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Poluição da água
+- Abastecimento de Água
+- Tratamento de ÁGUA
+relationships:
+- type: amended_by
+  target: pt:dre:334094:por
+  label: Adita Artigo 37.º-A; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 31.º; Altera Artigo 37.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:114315242:por
+  label: Adita Artigo 8.º-A; Adita Artigo 8.º-B; Adita Artigo 26.º-A; Adita Artigo 28.º-A; Adita Artigo 34.º-A; Altera Artigo
+    2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º;
+    Altera Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242
+  date: '2017-12-07'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 31.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:220113533:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º;
+    Revoga Artigo 7.º; Revoga Capítulo II; Revoga Artigo 8.º; Revoga Artigo 8.º-A; Revoga Artigo 8.º-B; Revoga Artigo 9.º;
+    Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 16.º;
+    Revoga Artigo 17.º; Revoga Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533
+  date: '2023-08-21'
+- type: cites
+  target: celex:31989L0106
+  label: null
+  source: http://data.europa.eu/eli/dir/1989/106/oj
+- type: cites
+  target: celex:31996L0029
+  label: null
+  source: null
+- type: cites
+  target: celex:31998L0083
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/83/oj
+- type: cites
+  target: celex:31998L0093
+  label: null
+  source: null
+- type: cites
+  target: celex:32005R2073
+  label: null
+  source: null
+- type: cites
+  target: celex:32008R0765
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0090
+  label: null
+  source: null
+- type: cites
+  target: celex:32012R0528
+  label: null
+  source: null
+- type: transposes
+  target: celex:32000L0060
+  label: null
+  source: null
+article_structure:
+  article_count: 48
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:15:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 306/2007
+
+Decreto-Lei n.º 306/2007
+
+de 27 de Agosto
+
+O Decreto-Lei n.º 243/2001, de 5 de Setembro, que transpôs para ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, do Conselho, de 3 de Novembro, relativa à qualidade da água destinada ao consumo humano, manteve aspectos fundamentais do anterior diploma, o Decreto-Lei n.º 236/98, de 1 de Agosto. Este definia já o essencial das obrigações das entidades gestoras, nomeadamente a apresentação do programa de controlo da qualidade da água para consumo humano, a frequência de amostragem de acordo com a população servida, a comunicação dos incumprimentos de valores paramétricos e de outras situações que comportassem risco para a saúde humana, a publicação trimestral dos resultados obtidos nas análises de demonstração de conformidade, a comunicação, até 31 de Março de cada ano, dos dados analíticos da implementação do programa de controlo da qualidade da água relativos ao ano transacto, a realização de análises preferencialmente em laboratórios de ensaios credenciados e os métodos analíticos de referência.
+
+Relativamente ao anterior diploma legal, o Decreto-Lei n.º 243/2001, de 5 de Setembro, modificou a lista dos parâmetros a realizar, alterou alguns valores paramétricos, abordou de uma forma mais racionalizada o controlo dos pesticidas, estabeleceu que o controlo da qualidade da água passava a ser feito na torneira do consumidor e definiu a necessidade de regulamentação das situações em que a gestão e a exploração de um sistema de abastecimento público de água estão sob a responsabilidade de duas ou mais entidades gestoras.
+
+Contudo, a alteração mais significativa foi a criação de uma autoridade competente, o Instituto Regulador de Águas e Resíduos (IRAR), responsável pela coordenação da implementação do diploma. Procedeu-se, assim, à concentração de um conjunto essencial de atribuições, anteriormente dispersas por várias entidades públicas, o que dificultava uma maior eficiência da Administração na fiscalização de uma matéria essencial à protecção da saúde humana. Deste modo, criou-se um quadro institucional mais favorável à consecução do objectivo tendente a alcançar melhores indicadores da qualidade para a água de consumo humano.
+
+Passaram mais de cinco anos sobre a publicação daquele diploma, que se traduziu em consequências globalmente muito positivas para a qualidade da água destinada ao consumo humano, materializadas através de diversos indicadores objectivos. No entanto, um balanço rigoroso sobre a sua implementação não pode deixar de identificar um conjunto de aspectos que importa rever, e que estão na base da presente revisão. Não estando prevista, a curto ou médio prazo, a revisão da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, do Conselho, de 3 de Novembro, diploma que procedeu à sua transposição, torna-se inadiável a revisão do Decreto-Lei n.º 243/2001, de 5 de Setembro.
+
+Optou-se na presente revisão por incorporar os aspectos vertidos no anterior diploma legal e na Portaria n.º 1216/2003, de 16 de Outubro, relativa à repartição de responsabilidades entre entidades gestoras quanto ao controlo da qualidade da água para consumo humano.
+
+Há, no entanto, um conjunto de razões que justificam a revisão do Decreto-Lei n.º 243/2001, de 5 de Setembro.
+
+Por um lado, a necessidade de proceder à definição de uma abordagem mais racionalizada para as zonas de abastecimento com volumes médios diários inferiores a 100 m3, nomeadamente no que concerne à frequência de amostragem.
+
+Acresce a necessidade de garantir a desinfecção como processo de tratamento para a redução da ainda elevada percentagem de incumprimentos dos valores paramétricos relativos aos parâmetros microbiológicos. De facto, o esforço técnico e financeiro realizado nos sistemas em alta, materializado em vultuosos investimentos, nem sempre foi acompanhado pela renovação e ampliação dos sistemas em baixa, pelo que ainda não se reflectiu plenamente na qualidade da água que chega ao utilizador final.
+
+Torna-se ainda indispensável a definição e a implementação de um programa de controlo operacional, já que é essencial o controlo regular e frequente de todos os componentes do sistema de abastecimento, por forma a optimizar a qualidade da água no consumidor.
+
+Por outro lado, a experiência decorrente da aplicação do regime ora revisto sustenta a necessidade de introdução de novos parâmetros no controlo da qualidade da água, tendo em conta a existência, em algumas zonas do País, de águas com dureza elevada ou agressivas, ou com frequente aparecimento de florescências de cianobactérias, razões pelas quais deverão ser controladas através da análise de parâmetros específicos.
+
+Tendo em conta que a água para consumo humano pode ser fornecida através de sistemas públicos ou particulares de abastecimento, torna-se também necessário proceder ao tratamento das especificidades destes últimos.
+
+Relevante para a decisão de revisão do actual diploma foi igualmente a necessidade de adaptar melhor a legislação nacional relativa à qualidade da água para consumo humano à Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, do Conselho, de 3 de Novembro.
+
+Para além destas razões, há outras situações que, embora de menor importância, foram objecto de clarificação no presente decreto-lei.
+
+Foram ouvidos a Associação Nacional de Municípios Portugueses e os órgãos de governo próprio das Regiões Autónomas.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece o regime da qualidade da água destinada ao consumo humano, procedendo à revisão do Decreto-Lei n.º 243/2001, de 5 de Setembro, que transpôs para o ordenamento jurídico interno a Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, do Conselho, de 3 de Novembro, tendo por objectivo proteger a saúde humana dos efeitos nocivos resultantes da eventual contaminação dessa água e assegurar a disponibilização tendencialmente universal de água salubre, limpa e desejavelmente equilibrada na sua composição.
+
+2 - O presente decreto-lei estabelece ainda os critérios de repartição da responsabilidade pela gestão de um sistema de abastecimento público de água para consumo humano, quando a mesma seja partilhada por duas ou mais entidades gestoras.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) 'Acreditação', a declaração, por um organismo nacional de acreditação, de que um organismo de avaliação da conformidade cumpre, para executar as atividades específicas de avaliação da conformidade, os requisitos definidos em normas harmonizadas e, se for o caso, quaisquer requisitos adicionais, nomeadamente os estabelecidos em sistemas setoriais;
+
+b) «Água destinada ao consumo humano»:
+
+i) Toda a água no seu estado original, ou após tratamento, destinada a ser bebida, a cozinhar, à preparação de alimentos, à higiene pessoal ou a outros fins domésticos, independentemente da sua origem e de ser fornecida a partir de uma rede de distribuição, de um camião ou navio-cisterna, em garrafas ou outros recipientes, com ou sem fins comerciais;
+
+ii) Toda a água utilizada numa empresa da indústria alimentar para fabrico, transformação, conservação ou comercialização de produtos ou substâncias destinados ao consumo humano, assim como a utilizada na limpeza de superfícies, objectos e materiais que podem estar em contacto com os alimentos, excepto quando a utilização dessa água não afecta a salubridade do género alimentício na sua forma acabada;
+
+c) 'Águas superficiais', as águas interiores, com exceção das águas subterrâneas, as águas de transição e as águas costeiras, incluindo, no que se refere ao estado químico, as águas territoriais, conforme definido no Decreto-Lei n.º 103/2010, de 24 de setembro, na sua redação atual;
+
+d) 'Águas subterrâneas', as águas que se encontram abaixo da superfície do solo, na zona saturada, e em contacto direto com o solo ou com o subsolo;
+
+e) 'Autoridade de saúde',a entidade à qual compete a decisão de intervenção do Estado na defesa da saúde pública, na prevenção da doença e na promoção e proteção da saúde, bem como no controlo dos fatores de risco e das situações suscetíveis de causarem ou acentuarem prejuízos graves à saúde dos cidadãos ou dos aglomerados populacionais;
+
+f) 'Avaliação do risco', o processo de recolha e análise de dados das condições que levam à presença de perigos, efetuado pelas entidades gestoras de modo sistemático ao longo de todo o sistema de abastecimento, e que levam à decisão de quais são significativos para a segurança da água para consumo humano;
+
+g) «Controlo» o conjunto de acções de avaliação da qualidade da água realizadas com carácter regular pelas entidades gestoras, com vista à manutenção da sua qualidade, em conformidade com as normas estabelecidas legalmente;
+
+h) 'Dose indicativa' ou 'DI', a dose efetiva comprometida para um ano da ingestão de todos os radionuclídeos cuja presença tiver sido detetada num abastecimento de água destinada ao consumo humano, tanto de origem natural como artificial, excluindo o trítio, o potássio-40, o radão e os produtos de vida curta da desintegração do radão;
+
+i) «Entidade gestora de sistema de abastecimento particular» a entidade responsável pela exploração e gestão de sistemas de abastecimento de água destinada ao consumo humano para fins privativos;
+
+j) «Entidade gestora de sistema de abastecimento público» a entidade responsável pela exploração e gestão de um sistema de água para consumo humano, através de redes fixas ou de outros meios de fornecimento de água, no âmbito das atribuições de serviço público;
+
+l) «Entidade gestora de sistema de abastecimento público em alta» a entidade responsável por um sistema destinado, no todo ou em parte, ao represamento, à captação, à elevação, ao tratamento, ao armazenamento e à adução de água para consumo público;
+
+m) «Entidade gestora de sistema de abastecimento público em baixa» a entidade responsável por um sistema destinado, no todo ou em parte, ao armazenamento, à elevação e à distribuição de água para consumo público aos sistemas prediais, aos quais liga através de ramais de ligação;
+
+n)                                                'Organismo de avaliação da conformidade', o organismo que efetua atividades de avaliação da conformidade, nomeadamente calibração, ensaio, certificação e inspeção;
+
+o) «Parâmetros conservativos» os parâmetros em relação aos quais seja possível demonstrar não haver alterações negativas entre a estação de tratamento de água para consumo humano e as torneiras dos consumidores;
+
+p) «Parâmetros indicadores» os parâmetros cujo valor deve ser considerado como valor guia, nos termos do presente decreto-lei;
+
+q) 'Perigo', o agente biológico, químico, físico ou radiológico presente na água com potencial para causar um efeito adverso na saúde;
+
+r) «Ponto de amostragem» o local onde é efectuada a colheita de amostra de água para verificação da sua conformidade, nos termos definidos no presente decreto-lei;
+
+s) «Ponto de entrega» o local físico ou conjunto de locais físicos onde é feita a entrega de água para consumo humano por uma entidade gestora a outra entidade gestora, caracterizado por uma uniformidade da qualidade de água;
+
+t) «População servida» o número de habitantes ligados a um sistema de abastecimento, no âmbito de uma zona de abastecimento;
+
+u) 'PCQA', programa de controlo da qualidade da água;
+
+v) «Rede de distribuição» o conjunto de tubagens e acessórios instalados para a distribuição da água para consumo humano desde os reservatórios, ou captações ou estações de tratamento de água, até à entrada nos sistemas de distribuição prediais;
+
+x) 'Risco', a combinação da probabilidade de ocorrência de um perigo com efeito adverso para a saúde com a severidade do mesmo;
+
+z) «Sistema de abastecimento» o conjunto de equipamentos e infra-estruturas que englobam a captação, o tratamento, a adução, o armazenamento e a distribuição da água para consumo humano;
+
+aa) «Sistema de distribuição predial» o conjunto de canalizações, acessórios e aparelhos instalados entre as torneiras normalmente utilizadas para consumo humano e o ramal de ligação;
+
+bb) 'Substância radioativa', qualquer substância que contenha um ou mais radionuclídeos, cuja atividade ou concentração não possa ser menosprezada do ponto de vista da proteção contra as radiações;
+
+cc) «Valor paramétrico» o valor máximo ou mínimo fixado para cada um dos parâmetros a controlar, tendo em atenção o disposto no presente decreto-lei;
+
+dd) 'Valor paramétrico para substâncias radioativas', o valor de substâncias radioativas em água destinada ao consumo humano acima do qual se deve verificar se a presença destas substâncias representa um risco para a saúde humana perante o qual se imponha agir, e, se necessário, se devem tomar as medidas de correção adequadas a fim de elevar a qualidade da água para um nível consentâneo com os requisitos de proteção da saúde humana, em termos de proteção contra as radiações;
+
+ee) 'Vigilância sanitária',o conjunto de ações desenvolvidas pelos serviços competentes da área da saúde, sob a coordenação e responsabilidade das autoridades de saúde, com vista à avaliação do risco para a saúde humana da qualidade da água destinada ao consumo humano e à prevenção de riscos para a saúde decorrentes da sua utilização;
+
+ff) «Zona de abastecimento» a área geográfica servida por um sistema de abastecimento na qual a água proveniente de uma ou mais origens pode ser considerada uniforme.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 3.º — Autoridade competente
+
+A Entidade Reguladora dos Serviços de Águas e Resíduos, I. P., abreviadamente designada por ERSAR, I. P., é a autoridade competente para a coordenação e fiscalização da aplicação do presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 4.º — Autoridade de saúde
+
+1 - As funções de autoridade de saúde relativas à aplicação do presente decreto-lei na componente de saúde pública são exercidas por:
+
+a) No caso dos sistemas municipais ou particulares, pelo delegado de saúde com competências nesse município;
+
+b) No caso dos sistemas multimunicipais ou intermunicipais que abranjam mais de um agrupamento de centros de saúde (ACES) ou unidades locais de saúde (ULS), pelo delegado de saúde regional ou o seu representante designado, assessorado pelos delegados de saúde coordenadores dos ACES ou ULS envolvidos;
+
+c) No caso dos sistemas multimunicipais ou intermunicipais que abranjam mais de uma região de saúde, pelos delegados de saúde regionais com competências nos municípios envolvidos;
+
+d) [Revogada.]
+
+2 - A autoridade de saúde assegura de forma regular e periódica a vigilância sanitária da qualidade da água para consumo humano fornecida pelas entidades gestoras, bem como as demais funções constantes do presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 5.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se às águas destinadas ao consumo humano.
+
+2 - Para as águas referidas na subalínea ii) da alínea b) do artigo 2.º, a Autoridade de Segurança Alimentar e Económica (ASAE), define e comunica à ERSAR e à Direção-Geral da Saúde (DGS) a lista das utilizações nas indústrias alimentares em que a salubridade do produto final não é afetada pela qualidade da água utilizada.
+
+3 - O presente decreto-lei não se aplica:
+
+a) Às águas minerais naturais abrangidas pelo disposto na legislação em vigor sobre a matéria;
+
+b) Às águas de nascente abrangidas pelo Decreto-Lei n.º 156/98, de 6 de Junho, excepto os valores paramétricos estabelecidos no anexo i do presente decreto-lei para os parâmetros fixados pela entidade licenciadora;
+
+c) Às águas que são produtos medicinais, na acepção dada a medicamentos pela alínea ee) do n.º 1 do artigo 3.º do Decreto-Lei n.º 176/2006, de 30 de Agosto;
+
+d) Às massas de água destinadas à produção de água para consumo humano, designadas como zonas protegidas, nos termos da subalínea i) da alínea jjj) do artigo 4.º da Lei n.º 58/2005, de 29 de dezembro, e do Decreto-Lei n.º 236/98, de 1 de agosto.
+
+4 - O disposto no presente decreto-lei aplica-se, com as devidas adaptações, às entidades gestoras dos sistemas de abastecimento particular, com exceção dos deveres de aprovação do programa de controlo da qualidade da água (PCQA), nos termos do artigo 14.º, de submissão dos dados da qualidade da água, conforme disposto no n.º 4 do artigo 15.º e de utilização do Módulo da Qualidade da Água do Portal ERSAR referida no n.º 8 do artigo 19.º
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 6.º — Normas de qualidade
+
+1 - A água destinada ao consumo humano deve respeitar os valores paramétricos dos parâmetros constantes do anexo I ao presente decreto-lei, do qual faz parte integrante.
+
+2 - Quando a protecção da saúde humana assim o exija, a DGS fixa os valores aplicáveis a outros parâmetros não incluídos no anexo i do presente decreto-lei, cujos valores paramétricos devem respeitar o disposto no n.º 2 do artigo 8.º
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 7.º — Isenções
+
+1 - Estão isentas da aplicação das normas de qualidade constantes do presente decreto-lei:
+
+a) A água que se destina exclusivamente a fins para os quais a autoridade de saúde tenha determinado que a qualidade da água não tem qualquer influência, directa ou indirecta, na saúde dos consumidores;
+
+b) A água destinada ao consumo humano fornecida no âmbito de sistemas de abastecimento particular que sirvam menos de 50 pessoas ou que sejam objecto de consumos inferiores a 10 m3/dia, em média, excepto se essa água for fornecida no âmbito de uma actividade pública ou privada de natureza comercial, industrial ou de serviços.
+
+2 - Nos casos previstos na alínea b) do número anterior, as entidades licenciadoras informam a respectiva autoridade de saúde dos licenciamentos concedidos, devendo esta assegurar que a população afectada é informada da isenção, bem como das medidas necessárias para proteger a saúde humana dos efeitos nocivos resultantes de qualquer contaminação da água para consumo humano.
+
+3 - Sempre que, no âmbito da alínea b) do n.º 1, seja identificado um perigo potencial para a saúde humana devido à qualidade da água, a autoridade de saúde presta o aconselhamento adequado à população servida.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+### Capítulo II — Obrigações de qualidade da água
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 8.º — Obrigações gerais
+
+1 - As entidades gestoras de sistemas de abastecimento público em baixa devem, tendencialmente, disponibilizar, por rede fixa ou outros meios, água própria para consumo humano devidamente controlada, em quantidade que satisfaça as necessidades básicas da população e em qualidade, na sua área geográfica de influência.
+
+2 - Compete às entidades gestoras garantir que a água destinada ao consumo humano seja salubre, limpa e desejavelmente equilibrada, designadamente que:
+
+a) Não contenha nenhum microrganismo, parasita ou substância em quantidade ou concentração que possa constituir um perigo potencial para a saúde humana;
+
+b) Cumpra as normas da qualidade fixadas no anexo i do presente decreto-lei;
+
+c) Não seja agressiva nem incrustante ao longo do sistema de abastecimento, devendo tomar as medidas para dar cumprimento ao disposto no presente decreto-lei.
+
+3 - As entidades gestoras devem estabelecer um programa de controlo da qualidade da água destinada ao consumo humano que dê cumprimento aos parâmetros e às frequências fixadas nos anexos I e II ao presente decreto-lei, que dele fazem parte integrante, baseando-se numa avaliação do risco, conforme previsto no artigo 14.º-A e no anexo II ao presente decreto-lei.
+
+4 - Em função da avaliação do risco, as entidades gestoras devem garantir a realização, de forma casuística, de controlos suplementares de substâncias e ou microrganismos para os quais não tenham sido fixados os valores paramétricos a que se refere o artigo 6.º, se houver razões para suspeitar que os mesmos podem estar presentes em quantidades que constituem um risco potencial para a saúde humana.
+
+5 - A autoridade de saúde nacional, em articulação com a autoridade de saúde regional e local, fixa o valor paramétrico dos controlos suplementares, realizados nos termos do número anterior, ouvidas a entidade gestora e a ERSAR.
+
+6 - As entidades gestoras devem implementar um programa de monitorização operacional nos termos definidos na parte A do anexo II ao presente decreto-lei.
+
+7 - A implementação do presente decreto-lei por parte das entidades gestoras não pode provocar, directa ou indirectamente, qualquer deterioração da qualidade da água para consumo humano relevante para a protecção da saúde humana, nem produzir qualquer aumento da poluição das águas utilizadas para a produção de água potável.
+
+8 - As entidades gestoras devem elaborar um plano de comunicação para situações de emergência relacionadas com a qualidade da água destinada ao consumo humano.
+
+9 - As entidades gestoras devem manter os registos relativos ao controlo da qualidade da água para consumo humano e a respectiva documentação por um período mínimo de cinco anos.
+
+> Nota: [Artigo 7.º, Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242) O n.º 8 do artigo 8.º com a redação dada pelo presente decreto-lei, entra em vigor a 1 de janeiro de 2019.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 8.º-A — Gestão do risco
+
+1 - As entidades gestoras devem assegurar as medidas necessárias para a melhoria contínua da qualidade da água fornecida aos utilizadores.
+
+2 - Para efeitos do número anterior, as entidades gestoras devem implementar progressivamente uma abordagem de avaliação e gestão do risco, garantindo uma água segura em todas as zonas de abastecimento ou pontos de entrega.
+
+3 - A abordagem de gestão do risco referida no número anterior deve basear-se nos princípios de normas europeias e internacionais, designadamente a norma EN 15975-2, ou na adaptação da estrutura dos planos de segurança da água da abordagem promovida pela Organização Mundial de Saúde.
+
+4 - As entidades gestoras devem manter atualizados os registos associados à implementação da gestão do risco, em especial os registos relativos aos resultados da verificação da eficácia da abordagem de avaliação e gestão do risco implementada, bem como do plano de melhorias previsto para a redução do risco para um nível aceitável.
+
+5 - A verificação da eficácia da gestão do risco é da competência da ERSAR no âmbito da sua atividade de fiscalização.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 8.º-B — Medidas de proteção da integridade dos sistemas de abastecimento
+
+1 - As entidades gestoras de sistemas públicos de abastecimento de água, quer em alta quer em baixa, devem assegurar as medidas necessárias para a proteção da integridade dos sistemas no que diz respeito a comportamentos humanos destinados a prejudicar a qualidade da água.
+
+2 - Para efeito do número anterior, as entidades gestoras devem elaborar um plano de comunicação e resposta a situações de emergência de eventos relacionados com o terrorismo e vandalismo de acordo com as orientações emanadas pela ERSAR.
+
+3 - A ERSAR fiscaliza a implementação pelas entidades gestoras das medidas previstas no plano referido no número anterior.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 9.º — Tratamento da água destinada ao consumo humano
+
+1 - As entidades gestoras asseguram obrigatoriamente um adequado tratamento da água destinada ao consumo humano, de molde a dar cumprimento ao disposto no artigo 6.º e no n.º 2 do artigo 8.º
+
+2 - A água distribuída deve ser submetida a um processo de desinfecção.
+
+3 - As entidades gestoras podem ser dispensadas pela autoridade de saúde do cumprimento do disposto no número anterior se, através do histórico analítico, demonstrarem não terem tido incumprimentos aos parâmetros microbiológicos sem recurso à desinfecção.
+
+4 - Compete às entidades gestoras assegurar a eficácia da desinfecção e garantir, sem comprometer a desinfecção, que a contaminação por subprodutos da água seja mantida a um nível tão baixo quanto possível e não ponha em causa a sua qualidade para consumo humano.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 10.º — Verificação da conformidade
+
+1 - A verificação de conformidade da qualidade da água realiza-se de acordo com o disposto no PCQA e no anexo II ao presente decreto-lei.
+
+2 - A verificação do cumprimento dos valores paramétricos fixados nos termos do presente decreto-lei é feita:
+
+a) No caso da água fornecida a partir de uma rede de distribuição, no ponto em que, no interior de uma instalação ou estabelecimento, sai das torneiras normalmente utilizadas para consumo humano;
+
+b) No caso da água fornecida a partir de fontanários não ligados à rede de distribuição, no ponto de utilização;
+
+c) No caso da água fornecida por entidades gestoras em alta, nos pontos de amostragem dos pontos de entrega aos respectivos utilizadores;
+
+d) No caso da água fornecida a partir de camiões, navios-cisterna e reservatórios não ligados à rede de distribuição, no ponto de utilização;
+
+e) [Revogada];
+
+f) No caso da água utilizada numa empresa da indústria alimentar, no ponto de utilização.
+
+3 - A escolha do ponto de amostragem para a verificação do cumprimento dos valores paramétricos, nos termos das alíneas a) e c) do número anterior pode incidir sobre qualquer ponto na zona de abastecimento, ponto de entrega ou na instalação de tratamento, desde que não haja qualquer alteração adversa ao valor de concentração entre o ponto de amostragem e o ponto da verificação da conformidade definidos nos termos do número anterior.
+
+4 - Nas situações a que se refere a alínea a) do n.º 2, a responsabilidade das entidades gestoras cessa sempre que se comprove que o incumprimento dos valores paramétricos fixados nos termos do presente decreto-lei é imputável ao sistema de distribuição predial ou à sua manutenção, exceto nas instalações e nos estabelecimentos em que se fornece água ao público, tais como escolas, hospitais e restaurantes, caso em que aquelas devem comunicar, por escrito, os incumprimentos dos valores paramétricos decorrentes dos seus sistemas específicos, logo que deles tenham conhecimento, aos responsáveis desses estabelecimentos ou instalações.
+
+5 - Da informação referida no número anterior deve ser dado conhecimento à ERSAR e à autoridade de saúde.
+
+6 - Quando o incumprimento dos valores paramétricos fixados nos termos do presente decreto-lei seja imputável ao sistema de distribuição predial ou à sua manutenção, a ERSAR, ouvida, se necessário, a autoridade de saúde, pode determinar aos responsáveis dos estabelecimentos ou das instalações em que se forneça água ao público a adoção de medidas a implementar nas redes prediais para reduzir ou eliminar os riscos de incumprimento dos valores paramétricos, bem como os respetivos prazos, dando conhecimento às entidades gestoras.
+
+7 - Não sendo adotadas as medidas referidas no número anterior no prazo fixado, a ERSAR, ouvida a autoridade de saúde, pode determinar que a entidade gestora suspenda o fornecimento de água, caso esteja em risco a saúde humana.
+
+8 - A ERSAR pode ainda, em articulação com as entidades gestoras, determinar a adoção de outras medidas, tais como a introdução de técnicas de tratamento adequadas para modificar a natureza ou as propriedades da água antes da distribuição, por forma a reduzir ou eliminar os riscos de incumprimento dos valores paramétricos após a distribuição.
+
+9 - A ERSAR garante ainda que os consumidores afetados são devidamente informados e aconselhados sobre eventuais medidas de correção suplementares que devam tomar.
+
+10 - A colheita de amostras deve ser realizada por laboratórios acreditados para o efeito, ou, em alternativa, se for da responsabilidade da entidade gestora, realizada por técnicos de amostragem de água devidamente certificados para o efeito por um organismo de avaliação da conformidade.
+
+11 - O controlo efetuado nos termos do presente artigo deve garantir que os valores obtidos com a medição são representativos da qualidade da água consumida durante todo o ano.
+
+12 - Os procedimentos de colheita das amostras devem seguir as orientações fixadas no anexo III ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 11.º — Controlo dos parâmetros conservativos
+
+1 - No estabelecimento dos PCQA, são considerados parâmetros conservativos:
+
+a) Acrilamida;
+
+b) Antimónio;
+
+c) Arsénio;
+
+d) Benzeno;
+
+e) Boro;
+
+f) Bromatos;
+
+g) Cádmio;
+
+h) Cianetos;
+
+i) Cloretos;
+
+j) [Revogada];
+
+l) 1,2-dicloroetano;
+
+m) Fluoretos;
+
+n) Mercúrio;
+
+o) Nitratos;
+
+p) Pesticidas;
+
+q) Radioatividade, com exceção do radão;
+
+r) Selénio;
+
+s) Sódio;
+
+t) Sulfatos;
+
+u) Tetracloroeteno e tricloroeteno.
+
+2 - O controlo dos parâmetros conservativos é obrigatório para as entidades gestoras que produzam água para consumo humano, devendo ser efectuado com a frequência estabelecida para as entidades gestoras em baixa.
+
+3 - A entidade gestora que distribua água adquirida exclusivamente a outra entidade gestora está dispensada do controlo dos parâmetros conservativos nas zonas de abastecimento onde ocorra essa aquisição exclusiva.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 12.º — Controlo dos pesticidas
+
+1 - As entidades gestoras devem controlar os pesticidas cuja presença seja provável numa determinada zona de abastecimento, tendo em conta a localização das suas origens de água.
+
+2 - Para efeitos do número anterior, a Direção-Geral de Alimentação e Veterinária (DGAV) fixa, até ao dia 31 de maio anterior ao início de cada triénio, a lista dos pesticidas a controlar pelas entidades gestoras no âmbito dos PCQA a implementar durante um período de três anos, sem prejuízo de atualizações intercalares devidamente justificadas.
+
+3 - A elaboração da lista referida no número anterior deve ser articulada com a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), tendo por base informação relativa aos programas de monitorização das bacias hidrográficas.
+
+4 - A lista referida n.º 2 é refletida no PCQA online do Módulo da Qualidade da Água do Portal da ERSAR.
+
+5 - A DGAV fixa os períodos de amostragem mais adequados para a sua pesquisa, podendo este período ser fixado em articulação com a APA, I. P., e com a ERSAR.
+
+6 - Se uma entidade gestora pretender a dispensa, total ou parcial, do controlo dos pesticidas da lista referida no n.º 2 relativamente a uma ou mais zonas de abastecimento ou pontos de entrega, deve requerê-la à Direção Regional de Agricultura competente, com base nas práticas agrícolas e no tipo e na localização geográfica da captação.
+
+7 - O requerimento referido no número anterior é enviado pela entidade gestora à DGAV, acompanhado da pronúncia da Direção Regional de Agricultura competente e da APA, I. P., tendo também em consideração informação relativa aos programas de monitorização das bacias hidrográficas, emitindo aquela um parecer no prazo de 30 dias.
+
+8 - O parecer referido no número anterior é vinculativo, devendo as entidades gestoras remetê-lo à ERSAR, a qual decide em conformidade no prazo de 15 dias a contar da sua receção.
+
+9 - A ERSAR deve elaborar, em cooperação com a APA e a DGAV, uma lista de pesticidas a pesquisar nos rios internacionais, a qual deve ser atualizada, regra geral, até ao dia 31 de maio anterior ao início de cada triénio, de forma a suportar a avaliação do risco efetuada nos termos do artigo 14.º-A, sendo a lista publicitada através do sítio na Internet da ERSAR.
+
+10 - No caso dos sistemas de abastecimento público a dispensa concedida é refletida no PCQA online do Módulo da Qualidade da Água do Portal da ERSAR.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 13.º — Dispensa do controlo analítico
+
+1 - As entidades gestoras podem solicitar à autoridade competente a dispensa da análise de um ou mais parâmetros do controlo de inspecção para as zonas de abastecimento com volumes médios diários inferiores a 100 m3.
+
+2 - O disposto no número anterior não se aplica aos parâmetros Enterococos e Clostridium perfringens.
+
+3 - Para efeitos do disposto no n.º 1, as entidades gestoras devem evidenciar os resultados obtidos em laboratório considerado apto pelo autoridade competente, nos termos deste decreto-lei, correspondentes a pelo menos três determinações analíticas distribuídas equitativamente no tempo, durante um período mínimo de um ano, relevando, para este efeito, os valores obtidos a partir de 1 de Janeiro de 2004.
+
+4 - A dispensa da determinação dos parâmetros do controlo de inspecção é válida por um período de três anos.
+
+5 - No termo da validade da dispensa, a entidade gestora deve incluir no programa de controlo da qualidade da água, abreviadamente designado por PCQA, a determinação de todos os parâmetros do controlo de inspecção, de acordo com a frequência estabelecida no anexo ii do presente decreto-lei.
+
+6 - O pedido de dispensa referido no n.º 1 pode ser renovado, desde que não tenham sido detectados incumprimentos no ano a que se refere o PCQA mencionado no número anterior.
+
+7 - As entidades gestoras devem comunicar à autoridade competente, logo que dela tenha conhecimento, qualquer alteração das circunstâncias com base nas quais foi concedida a dispensa do controlo analítico.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+### Capítulo III — Programa de controlo da qualidade da água
+
+###### Artigo 14.º — Elaboração e aprovação
+
+1 - As entidades gestoras devem dispor, no início de cada ano civil, de um PCQA aprovado pela ERSAR.
+
+2 - O PCQA é elaborado nos termos definidos nos artigos 11.º, 12.º e 14.º-A e nos anexos II e III ao presente decreto-lei, e submetido à aprovação da ERSAR:
+
+a) No caso das entidades gestoras em alta, até 15 de Setembro do ano anterior ao período a que diz respeito;
+
+b) No caso das entidades gestoras em baixa, até 30 de Setembro do ano anterior ao período a que diz respeito.
+
+3 - A submissão do PCQA para aprovação por parte da ERSAR deve ser realizada no formato por esta definido, através do Portal da ERSAR.
+
+4 - O PCQA considera-se tacitamente aprovado na ausência de pronúncia da ERSAR no prazo de 45 dias contado a partir da data de submissão.
+
+5 - A não aprovação do PCQA não dispensa as entidades gestoras de realizarem o controlo da qualidade da água para consumo humano, de acordo com o disposto no presente decreto-lei.
+
+6 - O PCQA deve integrar o controlo da qualidade da água de todas as zonas de abastecimento ou pontos de entrega sob a gestão e operação da entidade gestora.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 14.º-A — Avaliação do risco
+
+1 - O estabelecimento de um PCQA deve ser suportado por uma avaliação do risco a efetuar pela entidade gestora nos termos do presente artigo e da parte D do anexo II ao presente decreto-lei.
+
+2 - A avaliação do risco deve seguir uma metodologia sistemática de análise de perigos e avaliação do risco ao longo de todo o sistema de abastecimento de água, desde a área envolvente da captação até à torneira do consumidor, nos termos das recomendações da ERSAR, devendo ser atualizada com uma periodicidade mínima de cinco anos.
+
+3 - A avaliação do risco a que se refere o número anterior deve basear-se nos princípios de normas europeias e internacionais, designadamente a norma EN 15975-2.
+
+4 - As entidades gestoras dos sistemas de abastecimento público submetem à autoridade de saúde um pedido de parecer sobre a severidade dos perigos que pretende aplicar na matriz de avaliação do risco, dando conhecimento desse pedido à ERSAR.
+
+5 - A autoridade de saúde emite o parecer referido no número anterior no prazo de 45 dias, ouvindo, se considerar necessário a autoridade de saúde de âmbito nacional ou a ERSAR, após a receção do pedido da entidade gestora.
+
+6 - No caso de ausência de emissão de parecer por parte da autoridade de saúde, a ERSAR pode no prazo de 15 dias emitir parecer, aplicando-se a proposta da entidade gestora na ausência de pronúncia.
+
+7 - A autoridade de saúde ou a ERSAR, para efeitos de emissão do parecer referido no n.º 5, pode solicitar informação complementar à entidade gestora.
+
+8 - No caso dos sistemas de abastecimento público, a avaliação do risco é apreciada pela ERSAR, que define o tipo de informação a disponibilizar pela entidade gestora, os critérios de apreciação e, se necessário, ouve a autoridade de saúde ou outras entidades.
+
+9 - As entidades gestoras dos sistemas de abastecimento público devem submeter à apreciação da ERSAR a avaliação do risco, devidamente instruída, referenciada à zona de abastecimento ou ao ponto de entrega, até ao dia 30 de abril, para que a ERSAR se pronuncie sobre os resultados da avaliação antes do prazo de submissão do PCQA do ano seguinte, fixado nos termos do artigo 14.º
+
+10 - Com base nos resultados da avaliação do risco, a lista de parâmetros, fixada nos termos dos anexos I e II ao presente decreto-lei, deve ser alargada e as frequências de amostragem devem ser aumentadas, sempre que preenchidas as condições fixadas na parte D do anexo II ao presente decreto-lei.
+
+11 - Com base nos resultados da avaliação do risco e sempre que preenchidas as condições fixadas na parte D do anexo II ao presente decreto-lei, a lista de parâmetros e a frequência de amostragem, fixada nos termos dos anexos I e II ao presente decreto-lei, pode ser reduzida.
+
+12 - A supressão de um parâmetro ou a redução da frequência de amostragem concedidas são renovadas anualmente com base na avaliação do risco.
+
+13 - As entidades gestoras dos sistemas de abastecimento público devem comunicar à ERSAR, logo que dela tenham conhecimento, qualquer alteração das circunstâncias com base nas quais foi concedida a supressão ou redução da frequência do controlo analítico, bem como a dispensa do controlo dos pesticidas prevista no artigo 12.º
+
+14 - Em sede de fiscalização são verificados os registos a que se refere o presente artigo, podendo a ERSAR, ou a ASAE no caso das entidades gestoras dos sistemas de abastecimento particular, suspender a supressão de parâmetros ou redução de frequência concedida ou definir controlos suplementares, em situações devidamente justificadas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2022-01-01
+
+###### Artigo 15.º — Implementação
+
+1 - As entidades gestoras devem implementar integralmente o PCQA aprovado pela ERSAR e comunicar-lhe, no dia útil seguinte, qualquer alteração ao PCQA aprovado, exceto as relativas aos pontos de amostragem, quando os pontos de amostragem alternativos sejam representativos da área da zona de abastecimento que se pretende controlar.
+
+2 - As entidades gestoras devem preparar e manter um registo atualizado do PCQA e das eventuais alterações, conforme fixado no anexo III ao presente decreto-lei.
+
+3 -  [Revogado.]
+
+4 - Os registos referidos nos números anteriores devem ser tornados acessíveis ao público ou aos clientes e sempre que for solicitada a sua consulta, com exceção da informação que possa colocar em risco a segurança física do sistema de abastecimento de água.
+
+5 - Os resultados da verificação da qualidade da água para consumo humano obtidos na implementação do PCQA aprovado devem ser comunicados pelas entidades gestoras à ERSAR, até 31 de março do ano seguinte àquele a que dizem respeito, por via eletrónica e no formato por esta definido, publicitado através do Portal da ERSAR.
+
+6 - O disposto no presente artigo e no artigo anterior não se aplica às entidades gestoras de sistemas de abastecimento particular, sem prejuízo do cumprimento das restantes obrigações constantes do presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 16.º — Controlo de fontanários não ligados à rede pública
+
+1 - Os fontanários não ligados à rede pública de distribuição de água que sejam origem única de água para consumo humano e propriedade do município ou das juntas de freguesia devem integrar o PCQA do serviço em baixa.
+
+2 - Os contratos relativos a sistemas de gestão delegada ou concessionada celebrados a partir da entrada em vigor do presente decreto-lei devem indicar a quem compete o cumprimento do disposto no número anterior, independentemente da propriedade dos fontanários.
+
+3 - As entidades titulares dos sistemas de abastecimento que tenham delegado ou concessionado as obrigações referidas no n.º 1 apenas para parte da sua área geográfica de influência mantêm aquelas obrigações na área geográfica não incluída no âmbito da delegação ou da concessão.
+
+4 - Quando os fontanários referidos no n.º 1 não reúnam condições para ser origem de água para consumo humano, as entidades gestoras devem providenciar uma alternativa de fornecimento de água, em quantidade e qualidade.
+
+5 - As entidades gestoras em baixa podem integrar no PCQA os fontanários propriedade do município ou das juntas de freguesia, não ligados à rede pública de distribuição de água, que não sejam origem única de água para consumo humano.
+
+6 - No caso dos fontanários que não sejam origem única de água para consumo humano e que não tenham sido integrados no PCQA, as entidades gestoras devem providenciar a colocação de placas informativas de água não controlada ou de água imprópria para consumo humano, de acordo com as orientações da autoridade da saúde.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 17.º — Divulgação dos dados da qualidade da água
+
+1 - As entidades gestoras dos sistemas públicos de abastecimento de água em alta devem publicitar trimestralmente no seu sítio na Internet, no prazo de 45 dias úteis após o termo do trimestre a que dizem respeito, a informação resultante da implementação do PCQA nesse período, sem prejuízo da divulgação adicional por outros formatos, dando conhecimento às entidades gestoras em baixa da data da publicação.
+
+2 - As entidades gestoras dos sistemas públicos de abastecimento de água em baixa devem publicitar trimestralmente no seu sítio na Internet, no prazo de 60 dias úteis após o termo do trimestre a que dizem respeito, a informação resultante da implementação do PCQA nesse período, sem prejuízo da divulgação adicional por outros formatos.
+
+3 - A informação referida nos números anteriores deve permanecer disponível para consulta pelo período de um ano.
+
+4 -  [Revogado.]
+
+5 - A informação referida nos números anteriores deve conter, no mínimo, por parâmetro e por ponto de entrega ou zona de abastecimento:
+
+a) O número de análises previstas no PCQA;
+
+b) A percentagem de análises realizadas relativamente ao PCQA aprovado;
+
+c) O valor paramétrico;
+
+d) Os valores máximo e mínimo obtidos nas análises realizadas;
+
+e) A percentagem de análises que cumprem a legislação;
+
+f) A informação complementar relativa às causas dos incumprimentos e às medidas corretivas implementadas para regularizar a qualidade da água;
+
+g) A informação relativa aos parâmetros conservativos de água exclusivamente comprada.
+
+6 - A entidade gestora deve disponibilizar a informação relativa a cada zona de abastecimento, quando solicitada.
+
+7 - As entidades gestoras de sistemas de abastecimento particular devem publicitar trimestralmente nas suas instalações a informação resultante da implementação do PCQA e enviá-los à respetiva autoridade de saúde, no prazo definido no n.º 2.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+### Capítulo IV — Incumprimentos
+
+###### Artigo 18.º — Comunicação de incumprimentos dos valores paramétricos
+
+1 - As situações de incumprimento dos valores paramétricos estabelecidos no anexo I ao presente decreto-lei devem ser comunicadas, de forma auditável e até ao fim do dia útil seguinte àquele em que tiveram conhecimento da sua ocorrência, pelos laboratórios de análises encarregues do controlo da qualidade da água às entidade gestoras, as quais, por sua vez, devem comunicá-las à autoridade de saúde e à ERSAR até ao fim do dia útil seguinte àquele em que tiveram conhecimento da sua ocorrência.
+
+2 - Nas situações previstas no número anterior, as entidades gestoras em alta devem ainda informar as respetivas entidades gestoras em baixa, no mesmo prazo.
+
+3 - Qualquer outra situação relacionada com a ocorrência de incumprimentos na qualidade da água com potencial risco para a saúde humana ou situação de emergência relacionada com a contaminação da água para consumo humano deve ser comunicada, de forma auditável, logo que dela tenha conhecimento, pela entidade gestora à ERSAR e à autoridade de saúde.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 19.º — Investigação e adoção de medidas de correção
+
+1 - Verificada uma situação de incumprimento dos valores paramétricos das partes I e II do anexo I ao presente decreto-lei, as entidades gestoras devem iniciar a investigação da situação, no prazo de cinco dias úteis, de forma a identificar as causas do incumprimento, e adotar as medidas corretivas necessárias para restabelecer a qualidade da água destinada ao consumo humano, tendo especialmente em atenção o desvio em relação ao valor paramétrico fixado e o perigo potencial para a saúde humana.
+
+2 - No caso de situações de incumprimento dos valores paramétricos da parte III e IV do anexo I ao presente decreto-lei, a autoridade de saúde deve, no prazo de cinco dias úteis após tomar conhecimento desse incumprimento, pronunciar-se por escrito junto das entidades gestoras sobre se existe um risco significativo para a saúde humana, dando conhecimento à ERSAR.
+
+3 - No âmbito do disposto no número anterior, e caso a autoridade de saúde considere que há um risco significativo para a saúde humana, a mesma define as medidas de gestão de riscos a adotar para minimizar eventuais efeitos na saúde da população, e a entidade gestora adota as medidas corretivas necessárias para o restabelecimento da qualidade da água, dando ambas as entidades conhecimento dessas medidas à ERSAR.
+
+4 - Sem prejuízo da não consideração da existência de risco significativo para a saúde humana, a ERSAR pode, no prazo de 30 dias e em colaboração com a entidade gestora, determinar a implementação de medidas corretivas para cumprimento dos valores paramétricos.
+
+5 - A eficácia das medidas correctivas implementadas no âmbito do presente artigo deve ser avaliada mediante a realização, pelas entidades gestoras, de análises de verificação da qualidade da água aos parâmetros em incumprimento.
+
+6 - As entidades gestoras devem dar conhecimento dos resultados da investigação das causas de incumprimento dos valores paramétricos, das medidas corretivas adotadas e dos resultados das análises de verificação à autoridade de saúde e à ERSAR até ao quinto dia útil seguinte à data de conclusão do processo, não devendo o processo de investigação ultrapassar o prazo de 45 dias úteis.
+
+7 - Na situação prevista no número anterior, as entidades gestoras em alta devem ainda informar as respetivas entidades gestoras em baixa até ao quinto dia útil seguinte à data da conclusão do processo.
+
+8 - As entidades gestoras com um PCQA aprovado pela ERSAR devem utilizar o Módulo da Qualidade da Água do Portal ERSAR para a comunicação da informação relativa às situações de incumprimento dos valores paramétricos.
+
+9 - A autoridade de saúde, na sequência da avaliação de risco prevista no n.º 2, deve avisar os consumidores do risco identificado e aconselhá-los sobre quaisquer medidas de precaução que possam ser necessárias para a proteção da saúde, sempre que considerar necessário.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 20.º — Persistência de incumprimentos
+
+1 - Nas situações em que, apesar das medidas corretivas adotadas, persista o incumprimento dos valores paramétricos, a ERSAR pode colaborar com as entidades gestoras, por sua solicitação, na investigação das respetivas causas.
+
+2 - Nas situações descritas no número anterior, a autoridade de saúde pode determinar a adopção de medidas excepcionais quando estiver em risco a saúde humana, incluindo a restrição ou a proibição do abastecimento, devendo informar imediatamente os consumidores e aconselhá-los devidamente.
+
+3 - Nas situações referidas no número anterior, as entidades gestoras devem providenciar uma alternativa de água para consumo humano aos respectivos consumidores, desde que aquelas se mantenham por mais de vinte e quatro horas.
+
+4 - Sem prejuízo do disposto no n.º 4 do artigo 10.º, a responsabilidade pelo incumprimento dos valores paramétricos recai sobre a entidade gestora da parte do sistema em que o mesmo se verificou, salvo quando essa entidade demonstre que o incumprimento é imputável a outra entidade, independentemente do dever de tomar medidas corretivas para regularizar a situação de incumprimento.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 21.º — Utilização de materiais e produtos em contacto com a água
+
+1 - As entidades gestoras devem assegurar que as substâncias ou materiais utilizados em contacto com a água destinada ao consumo humano, em instalações de produção e distribuição de água construídas, remodeladas ou que entrem em uso após a entrada em vigor do presente decreto-lei, não provocam alterações na qualidade da água que impliquem a redução, direta ou indiretamente, do nível de proteção da saúde humana.
+
+2 - As entidades gestoras devem assegurar que as substâncias e os produtos químicos utilizados no tratamento da água para consumo humano, bem como quaisquer impurezas neles presentes, não permanecem na água distribuída em concentrações superiores às necessárias para os fins a que se destinam, nem originam, direta ou indiretamente, riscos para a saúde humana.
+
+3 - As entidades gestoras devem utilizar produtos biocidas notificados à DGS, de acordo com as regras previstas nos artigos 92.º e 93.º do Regulamento (UE) n.º 528/2012, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, ou que estejam autorizados pela DGS, de acordo com os artigos 17.º e seguintes do referido regulamento.
+
+4 - A ERSAR deve aprovar, sob a forma de regulamento, um esquema de aprovação nacional para as substâncias e produtos químicos utilizados no tratamento da água, bem como para os materiais em contacto com a água para consumo humano.
+
+5 - Após a publicação do regulamento previsto no número anterior, as entidades gestoras devem, sempre que aplicável, selecionar os produtos aprovados ao abrigo do esquema de aprovação nacional, quer sejam as substâncias ou materiais para aplicação em instalações novas ou renovadas, ou as substâncias e produtos químicos para o tratamento da água destinada ao consumo humano.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 22.º — Controlo operacional
+
+1 - As entidades gestoras devem tomar as medidas necessárias para assegurarem a melhoria contínua da qualidade da água fornecida, através de programas de controlo operacional para todos os sistemas de abastecimento.
+
+2 - As entidades gestoras devem manter registos actualizados das acções desenvolvidas no âmbito da implementação dos programas de controlo operacional e disponibilizá-los nas acções de fiscalização.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 23.º — Derrogações
+
+1 - Nos casos em que não seja possível corrigir os incumprimentos nos termos do disposto nos artigos 18.º, 19.º e 20.º, num período máximo de 30 dias contado a partir da data de conclusão da investigação das suas causas, as entidades gestoras podem requerer à autoridade competente uma derrogação para um ou mais valores paramétricos fixados na parte ii do anexo i do presente decreto-lei ou nos termos do n.º 2 do artigo 6.º para uma dada água e até um valor máximo a estabelecer por esta.
+
+2 - Do requerimento constam os seguintes elementos:
+
+a) Exposição das razões pelas quais não é possível corrigir o incumprimento nos termos do número anterior;
+
+b) Indicação dos parâmetros para os quais as entidades gestoras pretendem a derrogação e proposta dos novos valores paramétricos;
+
+c) Identificação da zona de abastecimento afectada, do volume médio diário fornecido e do número de habitantes atingidos, assim como das eventuais repercussões para as indústrias alimentares servidas;
+
+d) Estabelecimento, se necessário, de um programa específico de monitorização da qualidade da água que permita às entidades gestoras acompanhar adequadamente a evolução da concentração dos parâmetros para os quais é solicitada a derrogação;
+
+e) Indicação das medidas correctivas a aplicar, acompanhadas do plano de trabalhos e da estimativa dos respectivos custos;
+
+f) Indicação da duração pretendida para a derrogação.
+
+3 - A autoridade competente pode conceder a derrogação, fixando os valores máximos e o respectivo prazo, desde que não esteja em causa um perigo potencial para a saúde humana e o abastecimento não possa ser mantido por outro meio razoável.
+
+4 - A decisão a que se refere o número anterior é precedida de parecer emitido pela autoridade de saúde no prazo máximo de 20 dias a contar da data em que tome conhecimento do pedido de derrogação, ou, na sua ausência, de audição da DGS.
+
+5 - A autoridade competente, após tomar conhecimento do parecer referido no número anterior, profere decisão final no prazo de 20 dias.
+
+6 - O disposto nos números anteriores não é aplicável se a autoridade de saúde considerar o incumprimento do valor paramétrico insignificante e se as medidas correctivas adoptadas nos termos dos artigos 19.º e 20.º permitirem resolver o incumprimento.
+
+7 - Para efeitos do disposto no número anterior, a autoridade de saúde deve estabelecer o valor máximo para o parâmetro em causa e o prazo para resolver o problema, que não pode ser superior a 30 dias seguidos.
+
+8 - O disposto nos n.os 6 e 7 não se aplica sempre que o incumprimento do valor paramétrico se tiver verificado durante mais de 30 dias seguidos nos 12 meses anteriores.
+
+9 - A derrogação é concedida por um período tão curto quanto possível, não superior a três anos, sendo da mesma dado conhecimento à autoridade de saúde.
+
+10 - Nos casos em que seja concedida uma derrogação a uma entidade gestora em alta, esta é extensível às respectivas entidades gestoras em baixa para as zonas abastecidas com água adquirida à respectiva entidade gestora em alta, que para este efeito deve informar a entidade gestora em baixa.
+
+11 - O disposto no presente artigo e nos artigos seguintes não se aplica à água para consumo humano colocada à venda em garrafas e outros recipientes.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 24.º — Termo das derrogações
+
+1 - Terminado o período de derrogação, a entidade gestora deve apresentar à autoridade competente um balanço que permita avaliar os progressos efectuados.
+
+2 - A concessão de uma segunda derrogação, por período nunca superior a três anos, segue a tramitação estabelecida no artigo anterior, sendo precedida pelo envio à Comissão Europeia do balanço relativo à primeira derrogação, acompanhado dos motivos que a justificam.
+
+3 - Em circunstâncias excepcionais e devidamente fundamentadas, as entidades gestoras podem solicitar à autoridade competente uma terceira derrogação, por um período máximo de três anos, a qual é submetida à Comissão Europeia caso a autoridade competente entenda existirem razões ponderosas que a justifiquem.
+
+4 - Na sequência do disposto no número anterior, a Comissão Europeia toma uma decisão no prazo máximo de três meses.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 25.º — Comunicação de derrogações
+
+1 - A autoridade competente comunica à Comissão Europeia, no prazo de dois meses, as derrogações por si concedidas relativas a abastecimentos superiores a 1000 m3 por dia em média ou a 5000 pessoas, bem como os elementos enumerados no n.º 2 do artigo 23.º
+
+2 - Sempre que seja concedida uma derrogação, as entidades gestoras em baixa informam imediata e devidamente as populações afectadas pela decisão da autoridade competente, através de edital afixado nos lugares próprios e na imprensa regional ou nos boletins municipais.
+
+3 - A autoridade de saúde deve prestar, em articulação com as entidades gestoras e sempre que considere relevante, o aconselhamento necessário aos consumidores para os quais a derrogação possa representar um risco especial.
+
+4 - O disposto nos n.os 2 e 3 não se aplica aos casos a que se refere o n.º 6 do artigo 23.º, salvo decisão em contrário da autoridade competente, ouvida a autoridade de saúde.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+### Capítulo V — Laboratórios de ensaios
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 26.º — Aptidão e acreditação dos laboratórios
+
+1 - Apenas se consideram aptos para a realização dos ensaios de verificação de conformidade da qualidade da água, fixada nos termos do artigo 10.º, e para as respetivas atividades de amostragem, os laboratórios de ensaios acreditados para o efeito.
+
+2 - A acreditação deve ser concedida por um organismo nacional de acreditação, na aceção dada pelo Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008, signatário do Acordo de Reconhecimento Mútuo relevante da infraestrutura europeia de acreditação prevista no referido regulamento.
+
+3 - De forma a permitir a submissão do PCQA online, nos termos do artigo 14.º, pelas entidades gestoras que os contratem, os laboratórios que preencham os requisitos previstos nos números anteriores submetem, por meios eletrónicos, um pedido de aptidão à ERSAR, com os dados que permitam aceder à informação que comprove a sua acreditação.
+
+4 - O pedido de aptidão deve identificar quais os parâmetros acreditados realizados pelo laboratório, comprovado pela cópia do documento comprovativo da sua acreditação, e quais os parâmetros a subcontratar a outro laboratório acreditado para o efeito, se for o caso, devendo este ser considerado apto pela ERSAR.
+
+5 - Os laboratórios de ensaios devem assegurar a atualização anual do documento comprovativo da sua aptidão junto da ERSAR, ou sempre que existam alterações que tenham impacto sobre o âmbito de aptidão concedida ao abrigo deste decreto-lei, ou sobre a vigência da sua acreditação.
+
+6 - A ERSAR divulga a lista atualizada dos laboratórios de ensaios, considerados aptos ao abrigo do presente decreto-lei, através do seu sítio na Internet, acessível através do Balcão do Empreendedor.
+
+7 - Sem prejuízo da possibilidade de recurso a outras formas de comunicação, a tramitação dos procedimentos previstos no presente artigo é realizada por via eletrónica, através do Balcão do Empreendedor.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 92/2010 - Diário da República n.º 143/2010, Série I de 2010-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), em vigor a partir de 2010-10-01
+
+###### Artigo 26.º-A — Recusa de realização de ensaios em laboratório
+
+1 - A ERSAR pode recusar a realização de determinados ensaios por um laboratório acreditado quando verifique que o mesmo não cumpre os requisitos técnicos necessários para garantir a fiabilidade dos resultados analíticos, por exemplo pelo incumprimento dos prazos de análise especificados nas normas de ensaio aplicáveis.
+
+2 - A decisão de recusa da ERSAR, tomada nos termos do número anterior, deve ser comunicada ao laboratório no prazo de 10 dias úteis contados da data de receção do pedido de aptidão, devidamente instruído.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 27.º — Prova de acreditação
+
+1 - De forma a permitir a submissão do PCQA-online, nos termos do n.º 3 do artigo 14.º, pelas entidades gestoras que os contratem, os laboratórios que preencham os requisitos previstos no artigo anterior submetem à autoridade competente, por meios electrónicos, a cópia do documento comprovativo da sua acreditação, emitido por organismo de acreditação competente nos termos do n.º 3 do artigo anterior.
+
+2 - Sem prejuízo do disposto no artigo anterior, a autoridade competente pode recusar a realização de determinados ensaios por um laboratório acreditado quando verifique que o mesmo não cumpre os requisitos técnicos necessários para garantir a fiabilidade dos resultados analíticos, nomeadamente pelo incumprimento dos prazos de análise especificados nas normas de ensaio aplicáveis.
+
+3 - A decisão de recusa da autoridade competente, tomada nos termos do número anterior, deve ser comunicada ao laboratório no prazo máximo de 10 dias úteis contados da recepção da comunicação prevista no n.º 1.
+
+4 - Os laboratórios de ensaios devem assegurar a actualização do documento comprovativo da sua acreditação junto da autoridade competente sempre que existam alterações que tenham impacto sobre o âmbito de actuação neste decreto-lei ou sobre a vigência da sua acreditação.
+
+5 - A autoridade competente divulga a lista actualizada dos laboratórios de ensaios referidos no n.º 1 através do seu sítio na Internet, acessível através do Portal do Cidadão e do Portal da Empresa.
+
+6 - Sem prejuízo da possibilidade de recurso a outras formas de comunicação, a tramitação dos procedimentos previstos no presente artigo é realizada igualmente por via electrónica, através do balcão único electrónico dos serviços.
+
+7 - A actividade dos laboratórios no âmbito do presente decreto-lei está sujeita a acções de supervisão pela autoridade competente, designadamente para controlo do disposto no artigo 18.º e da subcontratação de ensaios a outros laboratórios acreditados para o efeito.
+
+8 - Os laboratórios cooperam com a autoridade competente para o esclarecimento das actividades prestadas no âmbito do presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 92/2010 - Diário da República n.º 143/2010, Série I de 2010-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), em vigor a partir de 2010-10-01
+
+###### Artigo 28.º — Ensaios de controlo da qualidade
+
+1 - Os ensaios de controlo da qualidade devem ser realizados com recurso aos métodos analíticos constantes do anexo iv ao presente decreto-lei, que dele faz parte integrante.
+
+2 - Os laboratórios de ensaios podem recorrer a métodos analíticos alternativos aos especificados no anexo IV ao presente decreto-lei, desde que comprovem, junto da ERSAR, que os resultados obtidos são, no mínimo, tão fiáveis como os que seriam obtidos pelos métodos especificados.
+
+3 - Para efeitos da avaliação da equivalência de métodos alternativos com o método previsto no anexo IV ao presente decreto-lei, os laboratórios podem recorrer à norma EN ISO 17994 ou, em alternativa, à série da norma EN ISO 16140 ou a quaisquer outros protocolos idênticos internacionalmente aceites, conforme previsto no n.º 5 do artigo 5.º do Regulamento (CE) n.º 2073/2005 da Comissão, de 15 de dezembro de 2005, com vista a determinar a equivalência de métodos baseados em princípios distintos dos aplicáveis à cultura, que transcendem o âmbito de aplicação da norma EN ISO 17994.
+
+4 - Para os parâmetros enunciados no n.º 3 do anexo IV ao presente decreto-lei, os laboratórios de ensaios podem utilizar qualquer método, desde que comprovem junto da ERSAR que o mesmo satisfaz os requisitos de desempenho analítico estabelecidos no referido anexo.
+
+5 - Para as colheitas de amostras e para os ensaios de controlo da qualidade para os quais não estejam especificados métodos de recolha de amostras e análise no anexo IV ao presente decreto-lei, devem observar-se os métodos constantes de documentos normativos nacionais ou internacionais ou reconhecidos pela ERSAR.
+
+6 - O controlo respeitante à dose indicativa e as características de desempenho dos métodos analíticos a utilizar devem cumprir os requisitos estabelecidos nos anexos III e IV ao presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 28.º-A — Supervisão dos laboratórios
+
+1 - A atividade dos laboratórios no âmbito do presente decreto-lei está sujeita a ações de supervisão pela ERSAR, em articulação com as ações de avaliação do IPAC, designadamente para verificação do disposto nos artigos 18.º e 26.º, no anexo IV ao presente decreto-lei e do processo de subcontratação de ensaios a outros laboratórios acreditados para o efeito.
+
+2 - A ERSAR pode delegar no IPAC a supervisão da atividade dos laboratórios nacionais no que diz respeito à verificação do cumprimento do disposto no artigo 18.º e da subcontratação de ensaios a outros laboratórios acreditados para o efeito.
+
+3 - O IPAC comunica à ERSAR todas as situações de incumprimento detetadas nas ações de supervisão referidas no número anterior.
+
+4 - Os laboratórios cooperam com a ERSAR para o esclarecimento das atividades prestadas no âmbito do presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+### Capítulo VI — Fiscalização e regime contra-ordenacional
+
+###### Artigo 29.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente decreto-lei é realizada pela ERSAR e pela ASAE.
+
+2 - A ERSAR realiza, em qualquer ponto dos sistemas públicos de abastecimento e nas instalações das entidades gestoras, ações de fiscalização para verificar o cumprimento do presente decreto-lei, comunicando às mesmas as irregularidades detetadas.
+
+3 - A fiscalização das entidades gestoras de sistemas particulares de abastecimento são realizadas pela ASAE, a qual reporta à ERSAR, por setor de atividade, até 31 de março do ano seguinte àquele a que dizem respeito, os seguintes elementos:
+
+a) O número de acções de fiscalização realizadas;
+
+b) A estimativa de população servida e volume anual;
+
+c) O número de processos de contra-ordenação instruídos;
+
+d) As principais infracções detectadas.
+
+4 - [Revogado.]
+
+5 - No âmbito das ações de fiscalização referidas nos n.os 2 e 3, as entidades gestoras devem facultar à ERSAR e à ASAE o acesso a qualquer ponto dos seus sistemas de abastecimento e às suas instalações.
+
+6 - [Revogado.]
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 30.º — Vigilância sanitária
+
+1 - As ações de vigilância sanitária são realizadas pela autoridade de saúde, e incluem:
+
+a) A realização de vistorias às instalações técnicas do sistema de abastecimento de água, quando considerado necessário pela autoridade de saúde;
+
+b) A realização de análises complementares ao PCQA, e de outras ações consideradas necessárias para a avaliação da qualidade da água para consumo humano;
+
+c) A avaliação do risco para a saúde humana da qualidade da água destinada ao consumo humano.
+
+2 - As acções de vigilância sanitária devem ter em conta o conhecimento do sistema de água e o seu funcionamento e as características da água e das zonas de abastecimento consideradas mais problemáticas.
+
+3 - A entidade gestora deve fornecer o PCQA aprovado pela ERSAR, informação sobre a caracterização e funcionamento dos sistemas de abastecimento de água, bem como as alterações introduzidas aos sistemas, ou a utilização de novas origens, à autoridade de saúde no prazo de cinco dias úteis.
+
+4 - No âmbito das acções de vigilância sanitária, a autoridade de saúde deve informar a entidade gestora dos incumprimentos aos valores paramétricos detectados, no prazo de cinco dias a contar da data em que deles toma conhecimento.
+
+5 - Quer os valores paramétricos tenham ou não sido respeitados, sempre que a autoridade de saúde verifique que a qualidade da água distribuída constitui um perigo potencial para a saúde humana, deve, em articulação com a entidade gestora, determinar as medidas a adotar para minimizar tais efeitos, designadamente a determinação da proibição ou restrição do abastecimento e a informação e o aconselhamento aos consumidores, delas dando conhecimento à ERSAR.
+
+6 - A autoridade de saúde pode ainda determinar a proibição do abastecimento, tendo em consideração os riscos para a saúde humana decorrentes da interrupção do abastecimento ou da restrição da utilização da água.
+
+7 - Da decisão referida no número anterior deve ser dado imediato conhecimento à entidade gestora e à ERSAR, devendo ainda ser prestado o aconselhamento e a informação adequados aos consumidores afetados.
+
+8 - Os licenciamentos de captações de águas para sistemas de abastecimento particular devem ser comunicados pelas respetivas entidades licenciadoras às autoridades de saúde.
+
+9 - A autoridade de saúde deve comunicar à ERSAR e à entidade gestora qualquer situação relacionada com a ocorrência de incumprimentos na qualidade da água com potencial risco para a saúde humana ou situação de emergência relacionada com a contaminação da água para consumo humano, logo que dela tenha conhecimento.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 31.º — Contra-ordenações
+
+1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) O não estabelecimento de um PCQA, nos termos previstos no n.º 3 do artigo 8.º;
+
+b) A omissão da implementação de um programa de monitorização operacional, nos termos previstos no n.º 6 do artigo 8.º;
+
+c) A distribuição de água sem a sujeição a um processo adequado de tratamento, nos termos previstos no n.º 1 do artigo 9.º;
+
+d) A distribuição de água sem a sujeição a um processo de desinfeção, nos termos previstos no n.º 2 do artigo 9.º;
+
+e) O incumprimento da obrigação de suspensão do fornecimento de água, nos termos previstos no n.º 7 do artigo 10.º;
+
+f) A omissão da adoção das medidas determinadas pela ERSAR, nos termos previstos no n.º 8 do artigo 10.º;
+
+g) A realização da colheita por laboratório que não seja acreditado ou por técnico que não seja certificado, nos termos previstos no n.º 10 do artigo 10.º;
+
+h) O incumprimento, por parte das entidades gestoras que produzem água para consumo humano, da frequência de análise dos parâmetros conservativos aplicável às entidades gestoras em baixa, nos termos previstos no n.º 2 do artigo 11.º;
+
+i) A ausência de controlo dos pesticidas cuja presença seja provável numa determinada zona de abastecimento, tendo em conta a localização das suas origens de água, nos termos previstos no n.º 1 do artigo 12.º;
+
+j) A inexistência no início de cada ano civil de um PCQA aprovado pela ERSAR, nos termos previstos no n.º 1 do artigo 14.º;
+
+k) A omissão da realização do controlo da qualidade da água, nas situações previstas no n.º 5 do artigo 14.º;
+
+l) O não estabelecimento de um programa de controlo da qualidade da água suportado por uma avaliação do risco, nos termos previstos no n.º 1 do artigo 14.º-A;
+
+m) O incumprimento da metodologia sistemática de análise de perigos e avaliação do risco, nos termos previstos no n.º 2 do artigo 14.º-A;
+
+n) A não solicitação do parecer sobre a severidade dos perigos à autoridade de saúde, nos termos previstos no n.º 4 do artigo 14.º-A;
+
+o) A omissão de cumprimento da solicitação de informação complementar, nos termos previstos no n.º 7 do artigo 14.º-A;
+
+p) A não disponibilização pela entidade gestora do tipo de informação definido pela ERSAR, nos termos previstos no n.º 8 do artigo 14.º-A;
+
+q) O incumprimento das medidas determinadas pela ERSAR ou ASAE, nos termos previstos no n.º 14 do artigo 14.º-A;
+
+r) A ausência de implementação do PCQA, nos termos previstos no n.º 1 do artigo 15.º;
+
+s) A falta de comunicação das situações de incumprimento dos valores paramétricos dos parâmetros constantes das partes I e II do anexo I ao presente decreto-lei pelo laboratório à entidade gestora e por esta à ERSAR, à autoridade de saúde e à entidade gestora em baixa, se aplicável, nos termos previstos nos n.os 1 e 2 do artigo 18.º;
+
+t) A falta de comunicação à ERSAR e à autoridade de saúde das situações de incumprimentos na qualidade da água com potencial risco para a saúde humana ou situação de emergência relacionada com a contaminação da água para consumo humano, nos termos previstos no n.º 3 do artigo 18.º;
+
+u) A falta de investigação das causas dos incumprimentos, nos termos previstos no n.º 1 do artigo 19.º;
+
+v) A não adoção das medidas corretivas, nos termos previstos no n.º 1 do artigo 19.º;
+
+w) O incumprimento das determinações da autoridade de saúde, nos termos previstos no n.º 3 do artigo 19.º;
+
+x) A não implementação das medidas corretivas determinadas pela ERSAR, nos termos previstos no n.º 4 do artigo 19.º;
+
+y) O incumprimento das medidas excecionais determinadas pela autoridade de saúde, nos termos previstos no n.º 2 do artigo 20.º;
+
+z) A violação do dever de providenciar uma alternativa de abastecimento de água, nos termos previstos no n.º 3 do artigo 20.º;
+
+aa) A realização de ensaios por laboratórios que não sejam considerados aptos, nos termos previstos no n.º 1 do artigo 26.º;
+
+bb) A falta de cooperação dos laboratórios com a ERSAR para o esclarecimento das atividades prestadas no âmbito do presente decreto-lei, nos termos previstos no n.º 4 do artigo 28.º-A;
+
+cc) A recusa, durante ações de fiscalização, do acesso a qualquer ponto dos sistemas de abastecimento ou às instalações pela ERSAR e pela ASAE, nos termos previstos no n.º 5 do artigo 29.º
+
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE:
+
+a) A omissão da realização de controlos suplementares, nos termos previstos no n.º 4 do artigo 8.º;
+
+b) A não manutenção dos registos e respetiva documentação, nos termos previstos no n.º 9 do artigo 8.º;
+
+c) A violação do dever de assegurar a eficácia da desinfeção, nos termos previstos no n.º 4 do artigo 9.º;
+
+d) A omissão de verificação de conformidade de acordo com os PCQA, nos termos previstos no n.º 1 do artigo 10.º;
+
+e) A omissão da verificação do cumprimento dos valores paramétricos, nos termos previstos no n.º 2 do artigo 10.º;
+
+f) A violação do dever de esclarecimento por escrito por parte das entidades gestoras, nos termos previstos no n.º 4 do artigo 10.º;
+
+g) A falta de comunicação da informação, nos termos previstos no n.º 5 do artigo 10.º;
+
+h) A falta de implementação das medidas determinadas pela ERSAR, nos termos previstos no n.º 6 do artigo 10.º;
+
+i) A omissão de cumprimento dos procedimentos de colheita de amostras, nos termos previstos no n.º 12 do artigo 10.º;
+
+j) A falta de apresentação do PCQA, nos termos previstos no n.º 2 do artigo 14.º;
+
+k) A falta de apresentação do PCQA, nos termos previstos no n.º 3 do artigo 14.º;
+
+l) A não inclusão no PCQA de todas as zonas de abastecimento ou pontos de entrega, nos termos previstos no n.º 6 do artigo 14.º;
+
+m) O incumprimento do prazo para submissão à ERSAR da avaliação do risco, nos termos do n.º 9 do artigo 14.º-A;
+
+n) A falta de comunicação à ERSAR das alterações ocorridas, nos termos previstos no n.º 13 do artigo 14.º-A;
+
+o) A inexistência de um registo atualizado, nos termos previstos no n.º 2 do artigo 15.º;
+
+p) A falta de disponibilização dos registos ao público ou aos clientes, nos termos previstos no n.º 4 do artigo 15.º;
+
+q) A falta de comunicação à ERSAR dos resultados da verificação da qualidade da água para consumo humano obtidos na implementação do PCQA, nos termos previstos no n.º 5 do artigo 15.º;
+
+r) A omissão da integração no PCQA dos fontanários não ligados à rede pública de distribuição de água, nos termos previstos no n.º 1 do artigo 16.º;
+
+s) A não indicação da responsabilidade de controlo nos termos previstos no n.º 2 do artigo 16.º;
+
+t) A não assunção das obrigações dos delegantes ou concedentes, nos termos previstos no n.º 3 do artigo 16.º;
+
+u) O não providenciar uma alternativa de fornecimento de água, nos termos previstos no n.º 4 do artigo 16.º;
+
+v) A falta de divulgação dos dados da qualidade da água, nos termos previstos no artigo 17.º;
+
+w) A falta de comunicação das situações de incumprimento dos valores paramétricos dos parâmetros das partes III e IV do anexo I ao presente decreto-lei pelo laboratório à entidade gestora e por esta à ERSAR, à autoridade de saúde e à entidade gestora em baixa, se aplicável, nos termos previstos nos n.os 1 e 2 do artigo 18.º;
+
+x) A falta de realização de análises de verificação da qualidade da água aos parâmetros em incumprimento, nos termos do n.º 5 do artigo 19.º;
+
+y) A falta de atualização do documento comprovativo de acreditação, nos termos previstos no n.º 5 do artigo 26.º;
+
+z) A não utilização dos métodos analíticos constantes do anexo IV ao presente decreto-lei, nos termos previstos no n.º 1 do artigo 28.º;
+
+aa) A falta de comprovação de equivalência dos métodos alternativos, nos termos previstos no n.º 2 do artigo 28.º;
+
+bb) A não utilização dos métodos constantes de documentos normativos nacionais ou internacionais ou reconhecidos pela ERSAR, nos termos previstos no n.º 3 do artigo 28.º;
+
+cc) A falta de comprovação dos requisitos de desempenho analítico, nos termos previstos no n.º 4 do artigo 28.º;
+
+dd) O não cumprimento dos requisitos estabelecidos nos anexos III e IV ao presente decreto-lei, nos termos previstos no n.º 6 do artigo 28.º;
+
+ee) A falta de implementação das medidas determinadas pela autoridade de saúde, decorrentes das ações de vigilância sanitária, nos termos previstos nos n.os 5 e 6 do artigo 30.º
+
+3 - Constitui contraordenação económica leve, punível nos termos do RJCE:
+
+a) A falta de colocação de placas informativas de água não controlada ou de água imprópria para consumo humano, nos termos previstos no n.º 6 do artigo 16.º;
+
+b) A não comunicação da informação, nos termos previstos no n.º 6 do artigo 19.º;
+
+c) A violação do dever de prestação de informação previsto no n.º 7 do artigo 19.º;
+
+d) A não utilização do Módulo da Qualidade da Água do Portal ERSAR, nos termos previstos no n.º 8 do artigo 19.º;
+
+e) A omissão de fornecimento de informação sobre a caracterização e funcionamento dos sistemas de abastecimento de água e as alterações sofridas à autoridade de saúde, nos termos previstos no n.º 3 do artigo 30.º
+
+4 - (Revogado.)
+
+5 - A negligência e a tentativa são puníveis nos termos do RJCE.
+
+6- Sempre que a contra-ordenação consista na omissão de um dever, o pagamento da coima não dispensa o infractor do seu cumprimento se este ainda for possível.
+
+> Alterado pelo/a Artigo 82.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 92/2010 - Diário da República n.º 143/2010, Série I de 2010-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), em vigor a partir de 2010-10-01
+
+###### Artigo 32.º — Sanções acessórias
+
+1 - Às contraordenações económicas previstas no artigo anterior podem, em simultâneo com a coima e nos termos do RJCE, ser aplicadas as seguintes sanções acessórias, caso a gravidade da infração e a culpa do infrator o justifiquem:
+
+a) [Revogada];
+
+b) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+c) Encerramento de instalação sujeita a autorização ou licença de autoridade administrativa;
+
+d) Suspensão de autorizações, licenças e alvarás.
+
+e) Publicação do resumo da decisão final de condenação, com indicação expressa da entidade punida e da sanção aplicada, através da página oficial da ERSAR;
+
+f) Publicação, num jornal de expansão nacional, no sítio na Internet do próprio infrator e divulgação através de um canal de rádio ou de televisão, a expensas daquele, do resumo da decisão final de condenação proferida no processo de contraordenação ou, caso esta seja objeto de impugnação judicial, da decisão judicial transitada em julgado, sem prejuízo da sua publicação pela ERSAR.
+
+2 - As sanções referidas nas alíneas b) a f) do número anterior têm a duração máxima de dois anos, contados da decisão condenatória proferida pela ERSAR ou, caso esta seja objeto de impugnação judicial, da decisão judicial transitada em julgado.
+
+3 - A sanção prevista na alínea d) do n.º 1 só pode ser decretada quando a contraordenação tiver sido praticada no exercício ou por causa da atividade a favor da qual é atribuído o subsídio.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 82.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 33.º — Instrução de processos de contra-ordenação e aplicação de sanções
+
+1 - No caso dos sistemas de abastecimento público, a instrução dos processos e a aplicação das coimas é realizada pela ERSAR.
+
+2 - No caso dos sistemas de abastecimento particular, a instrução dos processos e a aplicação das coimas compete à ASAE.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 34.º — Destino das coimas
+
+O produto das coimas aplicadas nos termos do presente decreto-lei é repartido da seguinte forma:
+
+a) 60 % para o Fundo Ambiental;
+
+b) 40 % para a entidade que instrui o processo e aplica a coima;
+
+c) [Revogada.]
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 34.º-A — Tramitação das comunicações e notificações
+
+1 - Todas as comunicações e as notificações previstas no presente decreto-lei, bem como o envio de documentos, de requerimentos ou de informações, são realizadas por via eletrónica, através do Balcão do Empreendedor.
+
+2 - Os registos que as entidades gestoras estão obrigadas a manter ao abrigo do presente decreto-lei devem estar disponíveis em suporte informático e por um período de cinco anos.
+
+3 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, a transmissão da informação em causa pode ser efetuada por outros meios previstos na lei.
+
+4 - Nas situações de indisponibilidade temporária do Balcão do Empreendedor, bem como até à sua adaptação, a tramitação eletrónica relativa aos pedidos constantes do presente decreto-lei pode ser feita por outro meio legalmente admissível.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+### Capítulo VII — Disposições complementares, transitórias e finais
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 35.º — Elaboração e divulgação de relatórios
+
+1 - A ERSAR elabora anualmente um relatório técnico de aplicação do presente decreto-lei, com base nos dados da qualidade da água disponibilizados pelas entidades gestoras, o qual é objeto de divulgação pública até 30 de setembro do ano seguinte àquele a que diz respeito, sem prejuízo do disposto no n.º 1 do artigo 17.º
+
+2 - A ERSAR elabora um relatório trienal relativo à qualidade da água para consumo humano, com base nos relatórios anuais mencionados no número anterior, para efeitos do disposto na alínea g) do artigo seguinte.
+
+3 - O relatório trienal referido no número anterior deve incluir, pelo menos, os abastecimentos superiores a 1000 m3/dia em média ou a 5000 pessoas, abranger três anos civis e ser publicado antes do termo do ano seguinte ao período a que respeita.
+
+4 - [Revogado.]
+
+5 - O modelo e o conteúdo mínimo do relatório referido no número anterior são determinados tendo especialmente em conta as medidas referidas nos artigos 6.º, 7.º, 14.º, 15.º e 18.º a 20.º e as alterações introduzidas pelo comité do artigo 12.º da Diretiva n.º 98/93/CE, do Conselho, de 3 de novembro de 1998.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 36.º — Comunicação à Comissão Europeia
+
+A ERSAR comunica à Comissão Europeia:
+
+a) Os valores paramétricos adoptados ao abrigo do n.º 2 do artigo 6.º;
+
+b) As isenções concedidas nos termos do n.º 1 do artigo 7.º;
+
+c) Um relatório relativo às medidas, tomadas ou a tomar, para dar cumprimento ao disposto nos n.os 6 e 8 do artigo 10.º e no anexo I ao presente decreto-lei;
+
+d) Os métodos analíticos alternativos aos especificados no n.º 2 do anexo IV ao presente decreto-lei e respetivos resultados, de acordo com o disposto no n.º 2 do artigo 28.º, até dois meses após o envio do estudo de fiabilidade à ERSAR;
+
+e) [Revogada];
+
+f)  [Revogada];
+
+g) O relatório técnico trienal a que se refere o artigo anterior, a remeter à Comissão Europeia no prazo de dois meses após a sua publicação.
+
+h) As isenções concedidas e as respetivas avaliações do risco relativas à monitorização das substâncias radioativas.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 37.º — Regime transitório
+
+1 - Os parâmetros radiológicos constantes da parte iii do anexo i do presente decreto-lei não são de determinação obrigatória até à definição de directrizes por parte da Comissão Europeia, nos termos do disposto no artigo 12.º da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, do Conselho, de 3 de Novembro.
+
+2 - Sem prejuízo do disposto no número anterior, a autoridade competente promove, após a entrada em vigor do presente decreto-lei, uma caracterização radiológica nacional das águas subterrâneas e superficiais tendente à definição das áreas geográficas em relação às quais passe a ser obrigatória a determinação dos parâmetros radiológicos.
+
+3 - O estudo referido no número anterior é objecto de divulgação no sítio da Internet da autoridade competente, acessível através do Portal do Cidadão e do Portal da Empresa.
+
+4 - Para os efeitos do disposto no n.º 4 do artigo 16.º, os instrumentos de delegação ou concessão já existentes à data de entrada em vigor do presente decreto-lei podem ser alterados para contemplar as obrigações previstas no n.º 1 do mesmo artigo, sendo, até esse momento, o seu cumprimento da responsabilidade do delegante ou concedente.
+
+5 - A ASAE deve realizar a primeira comunicação a que se refere o n.º 2 do artigo 5.º no prazo de um ano a contar da data da sua entrada em vigor.
+
+6 - As entidades gestoras devem cumprir o disposto no n.º 2 do artigo 9.º no prazo de um ano a contar da data da sua entrada em vigor.
+
+7 - A autoridade competente deve criar o esquema de aprovação nacional a que se refere o n.º 3 do artigo 21.º no prazo de um ano a contar da data da sua entrada em vigor.
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 92/2010 - Diário da República n.º 143/2010, Série I de 2010-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), em vigor a partir de 2010-10-01
+
+###### Artigo 37.º-A — Balcão único e registos informáticos
+
+1 - Todas as comunicações e as notificações previstas no presente decreto-lei, bem como o envio de documentos, de requerimentos ou de informações, são realizadas por via electrónica, através do balcão único electrónico dos serviços.
+
+2 - Os registos que as entidades gestoras estão obrigadas a manter ao abrigo do presente decreto-lei devem estar disponíveis em suporte informático.
+
+3 - Quando, por motivos de indisponibilidade das plataformas electrónicas, não for possível o cumprimento do disposto no n.º 1, a transmissão da informação em causa pode ser efectuada por outros meios previstos na lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Aditado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 92/2010 - Diário da República n.º 143/2010, Série I de 2010-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), em vigor a partir de 2010-10-01
+
+###### Artigo 38.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo da sua adequação à especificidade regional, a introduzir através de decreto legislativo regional, cabendo a sua execução aos serviços competentes das respetivas administrações regionais.
+
+2 - Os serviços e organismos das administrações regionais autónomas devem remeter à ERSAR a informação necessária ao cumprimento das comunicações à Comissão Europeia previstas no artigo 36.º até 30 dias úteis antes do termo do prazo de que esta disponha para efetuar a respetiva comunicação.
+
+3 - O produto das coimas aplicadas nas regiões autónomas constitui receita própria das mesmas.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+###### Artigo 39.º — Norma transitória
+
+Até à entrada em vigor da Lei Orgânica da Entidade Reguladora dos Serviços de Águas e Resíduos, I. P., as competências que lhe são atribuídas pelo presente decreto-lei são exercidas pelo Instituto Regulador das Águas e Resíduos.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 40.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 243/2001, de 5 de Setembro;
+
+b) A Portaria n.º 1216/2003, de 16 de Outubro.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+###### Artigo 41.º — Entrada em vigor
+
+1 - Sem prejuízo do disposto nos números seguintes, o presente decreto-lei entra em vigor em 1 de Janeiro de 2008.
+
+2 - O n.º 2 do artigo 9.º do presente decreto-lei entra em vigor em 1 de Janeiro de 2009.
+
+3 - O capítulo iii do presente decreto-lei entra em vigor no dia seguinte à sua publicação.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+Visto e aprovado em Conselho de Ministros de 28 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Carmen Madalena da Costa Gomes e Cunha Pignatelli.
+
+Promulgado em 4 de Agosto de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 9 de Agosto de 2007.
+
+Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.
+
+## Anexo I — (a que se refere o n.º 1 do artigo 6.º)
+
+Parâmetros e valores paramétricos
+
+Os valores paramétricos estabelecidos para efeitos de verificação da conformidade da qualidade da água destinada ao consumo humano fornecida por redes de distribuição, por fontanários não ligados à rede de distribuição, por pontos de entrega, por camiões ou navios-cisterna, por reservatórios não ligados à rede de distribuição, utilizada numa empresa da indústria alimentar são os seguintes:
+
+Parte I - Parâmetros microbiológicos
+
+(ver documento original)
+
+Parte II - Parâmetros químicos
+
+(ver documento original)
+
+Notas
+
+1) O valor paramétrico refere-se à concentração residual do monómero na água, calculada em função das especificações, fornecidas pelo fabricante, da migração máxima do polímero correspondente em contacto com a água.
+
+2) O valor deve ser tão baixo quanto possível sem comprometer a eficácia da desinfeção.
+
+3) No caso das entidades gestoras em baixa, o valor aplica-se a uma amostra de água destinada ao consumo humano obtida na torneira, por um método de amostragem adequado, e recolhida de modo a ser representativa do valor médio semanal ingerido pelos consumidores. Sempre que apropriado, os métodos de amostragem e de controlo serão postos em prática de maneira harmonizada, a elaborar de acordo com o n.º 12 do artigo 10.º do presente decreto-lei. Para as entidades gestoras em alta, não há um método de amostragem específico, o que não as isenta da pesquisa destes parâmetros na água fornecida.
+
+4) As entidades gestoras devem seguir as recomendações emanadas pela ERSAR no que diz respeito à amostragem.
+
+5) Compete às entidades gestoras, nomeadamente dos sistemas com estações de tratamento de água, assegurar à saída dessas estações a condição [nitratos]/50 + [nitritos]/3 (igual ou menor que) 1, em que os parênteses retos representam as concentrações em mg/l para os nitratos (NO(índice 3)) e para os nitritos (NO(índice 2)), bem como do valor limite de 0,10 mg/l para os nitritos.
+
+6) Entende-se por pesticidas:
+
+a) Inseticidas orgânicos;
+
+b) Herbicidas orgânicos;
+
+c) Fungicidas orgânicos;
+
+d) Nematocidas orgânicos;
+
+e) Acaricidas orgânicos;
+
+f) Algicidas orgânicos;
+
+g) Rodenticidas orgânicos;
+
+h) Controladores orgânicos de secreções viscosas;
+
+i) Produtos afins (nomeadamente reguladores do crescimento), seus metabolitos, produtos de degradação e de reação importantes.
+
+7) Só necessitam de ser pesquisados os pesticidas cuja presença seja provável num determinado sistema de fornecimento de água para consumo humano.
+
+8) Quando a lista referida no n.º 2 do artigo 12.º incluir novos pesticidas para os quais não haja métodos analíticos, nem em Portugal, nem na Europa, a sua pesquisa só é obrigatória quando tais métodos estejam devidamente validados.
+
+9) O valor paramétrico aplica-se individualmente a cada pesticida. No caso da aldrina, da dialdrina, do heptacloro e do epóxido do cloro, o valor paramétrico é de 0,030 (mi)g/l.
+
+10) Pesticidas-total, significa a soma de todos os pesticidas detetados e quantificados na mesma amostra do controlo da qualidade da água.
+
+11) O valor paramétrico corresponde à soma das concentrações dos compostos especificados, que são:
+
+a) Benzo[b]fluoranteno;
+
+b) Benzo[k]fluoranteno;
+
+c) Benzo[ghi]perileno;
+
+d) Indeno[1,2,3 -cd]pireno.
+
+12) O valor paramétrico corresponde à soma das concentrações dos compostos especificados, que são: clorofórmio, bromofórmio, dibromoclorometano e bromodiclorometano. Sempre que possível, sem que, no entanto, se comprometa a desinfeção, deve ser reduzida a concentração em compostos organoclorados na água. Para as entidades gestoras em alta responsáveis pelo tratamento da água, o valor paramétrico a cumprir nos pontos de entrega deve ser 80 (mi)g/l.
+
+Parte III - Parâmetros indicadores
+
+(ver documento original)
+
+Notas
+
+1) A água não deve ser fator de deterioração dos materiais com os quais está em contacto, ou seja, deve ser desejavelmente equilibrada. Para verificar esta propriedade podem ser utilizados diversos métodos, nomeadamente o índice de Langelier (IL), que, se possível, deve estar compreendido entre  1 < IL < + 1.
+
+2) Não é recomendável que a concentração de cálcio seja superior a 100 mg/l Ca.
+
+3) Não é recomendável que a concentração de magnésio seja superior a 50 mg/l Mg.
+
+4) É recomendável que a dureza total em carbonato de cálcio esteja compreendida entre 150 e 500 mg/l CaCO3
+
+5) Caso se verifique o incumprimento deste valor paramétrico, deve ser investigado todo o sistema de abastecimento para identificar a causa e avaliar o risco para a saúde humana devido à presença de outros microrganismos patogénicos, por exemplo, o Criptosporidium e ou a Giardia. Os resultados de todas as investigações devem ser comunicados à ERSAR para serem incluídos no relatório trienal.
+
+6) Nos controlos de inspeção, a análise da oxidabilidade não é obrigatória desde que na mesma amostra seja determinado o teor de COT.
+
+7) A análise do parâmetro COT é obrigatória para todas as zonas de abastecimento com volumes médios diários superiores a 10 000 m3.
+
+8) No caso de tratamento de águas superficiais, o valor paramétrico da turvação à saída da estação de tratamento não deve ser superior a 1,0 UNT.
+
+9) Sempre que as concentrações de radão excedam 1000 Bq/l considera-se que se justificam medidas de correção por motivos de proteção radiológica.
+
+10) Uma vez que os níveis elevados de trítio podem indicar a presença de outros radionuclídeos artificiais, se a concentração de trítio exceder o correspondente valor paramétrico, é obrigatório proceder a uma análise da presença de outros radionuclídeos artificiais.
+
+11) O valor da dose indicativa (DI) é determinado quando os valores encontrados para o (alfa)  total e ou (beta)  total são superiores aos respetivos níveis de verificação (0,10 e 1,0 respetivamente). Nestes casos, procede-se à determinação da DI a partir das concentrações dos radionuclídeos específicos emissores (alfa) e ou (beta) (ver Parte IV).
+
+12) Soma das concentrações de Microcistina - LR dissolvida e particulada. Parâmetro a controlar quando a água for de origem superficial ou por ela influenciada. Este parâmetro deve ser determinado à saída da estação de tratamento de água, quando houver suspeitas de eutrofização da massa de água superficial. Caso seja confirmado um número de cianobactérias potencialmente produtoras de microcistinas superior a 2000 células/ml deve ser aumentada a frequência de amostragem, nos termos da avaliação do risco referida no artigo 14.º-A.
+
+13) Não é desejável que o número de colónias a 22°C e a 36°C seja superior a 100 e 20, respetivamente.
+
+14) Sem alteração anormal significa, com base num histórico de análises, resultados dentro dos critérios estabelecidos pelas entidades gestoras. Quando ocorre uma alteração anormal, é desejável que a entidade gestora averigue as respetivas causas.
+
+15) Recomenda-se que a concentração deste parâmetro na água da torneira do consumidor esteja entre 0,2 e 0,6 mg/l de cloro residual livre ou 0,1 e 0,4 mg/l de dióxido de cloro. No caso dos abastecimentos em alta, recomenda-se que a concentração do desinfetante residual nos pontos de entrega seja, no mínimo, igual ao valor máximo dos intervalos referidos para a torneira do consumidor. A determinação deste parâmetro não é obrigatória nas situações previstas no n.º 3 do artigo 9.º do presente decreto-lei.
+
+16) O valor deve ser tão baixo quanto possível sem comprometer a eficácia da desinfeção e deve apenas ser controlado quando é utilizado o dióxido de cloro no processo de tratamento da água.
+
+Parte IV - Controlo da dose indicativa e características do comportamento funcional analítico
+
+1 - Controlo respeitante à Dose indicativa (DI)
+
+Podem ser aplicadas várias estratégias fiáveis de verificação para detetar a presença de radioatividade na água destinada ao consumo humano. As estratégias podem incluir o rastreio de determinados radionuclídeos ou de um radionuclídeo em particular, ou a verificação da atividade alfa total ou da atividade beta total.
+
+a) Rastreio de determinados radionuclídeos ou de um radionuclídeo em particular
+
+Se uma das concentrações de atividade for superior a 20 % do correspondente valor derivado ou se a concentração de trítio ultrapassar o seu valor paramétrico, indicado na lista constante da parte III do presente anexo, é exigida uma análise para verificar a presença de outros radionuclídeos constantes no quadro 1 do presente anexo.
+
+b) Estratégias de verificação da atividade alfa total e da atividade beta total
+
+São utilizadas estratégias de verificação da atividade alfa total e da atividade beta total para controlar o valor do indicador paramétrico para a dose indicativa. Sendo caso disso, a atividade beta total pode ser substituída pela atividade beta residual após subtração da concentração de atividade correspondente ao K-40.
+
+O nível de verificação para a atividade alfa total é 0,10 Bq/l.
+
+O nível de verificação para a atividade beta total é 1,0 Bq/l.
+
+Se a atividade alfa total e a atividade beta total forem inferiores a 0,10 Bq/l e 1,0 Bq/l, respetivamente, presume-se que a dose indicativa é inferior ao valor do indicador paramétrico de 0,10 mSv e que não é necessária investigação radiológica detalhada, a menos que seja conhecida, a partir de outras fontes de informação, a existência de radionuclídeos específicos no abastecimento de água e que são suscetíveis de originar uma dose indicativa superior a 0,10 mSv.
+
+Se a atividade alfa for superior a 0,10 Bq/l, devem ser verificados os seguintes radionuclídeos específicos: U-238, U-234, Ra-226 e Po-210. Adicionalmente, a ERSAR ou a autoridade de saúde podem ainda solicitar a verificação dos restantes radionuclídeos de origem natural presentes no quadro 1 do presente anexo. Para os parâmetros e radionuclídeos referidos, o método de análise utilizado deverá permitir medir, no mínimo, as concentrações de atividade com um limite de deteção especificado no n.º 3 do presente anexo.
+
+Se a atividade beta total for superior a 1,0 Bq/l, deve ser verificada, em primeiro lugar, a presença do radionuclídeo K-40. Se após a sua determinação a atividade beta residual for superior a 1,0 Bq/1, devem ser verificados os seguintes radionuclídeos específicos: Sr-90 e Cs-137. Adicionalmente, a ERSAR ou a autoridade de saúde podem ainda solicitar a verificação dos restantes radionuclídeos de origem artificial presentes no quadro 1 do presente anexo.
+
+Para os parâmetros e radionuclídeos referidos, o método de análise utilizado deve permitir medir, no mínimo, as concentrações de atividade com um limite de deteção especificado no quadro 3 do anexo IV.
+
+Dado que níveis elevados de trítio podem indicar a presença de outros radionuclídeos artificiais, o trítio, a atividade alfa total e a atividade beta total devem ser medidos na mesma amostra.
+
+Quando o controlo da Dose Indicativa for realizado através de estratégias de verificação da atividade alfa total e da atividade beta total, deve ser garantido que todas as pesquisas de radionuclídeos acima referidas são realizadas na mesma amostra que originou a excedência do nível de verificação correspondente.
+
+2 - Cálculo da DI
+
+A dose indicativa é calculada a partir das concentrações de radionuclídeos medidas e dos coeficientes de dose fixados no quadro A do anexo III da Diretiva 96/29/EURATOM do Conselho, de 13 de maio de 1996, ou de informações mais recentes reconhecidas pelas autoridades competentes, com base na ingestão anual de água (730 l para os adultos). Caso se verifique a fórmula seguinte, pode concluir-se que a dose indicativa é inferior ao valor paramétrico de 0,10 mSv e que não é necessária nova investigação:
+
+(ver documento original)
+
+O quadro 1 apresenta os valores da concentração derivada para os radionuclídeos naturais e artificiais mais comuns. Os valores são exatos, calculados para uma dose de 0,10 mSv, uma ingestão anual de 730 litros e com aplicação dos coeficientes de dose estabelecidos no quadro A do anexo III da Diretiva 96/29/EURATOM do Conselho, de 13 de maio de 1996. As concentrações derivadas de outros radionuclídeos podem ser calculadas na mesma base e os valores podem ser atualizados à luz das informações mais recentes reconhecidas pelas autoridades competentes.
+
+Em relação ao urânio, prevê-se apenas as propriedades radiológicas do urânio e não a sua toxicidade química.
+
+QUADRO 1
+
+Concentrações derivadas de radioatividade na água destinada ao consumo humano
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+## Parte I — - Parâmetros microbiológicos
+
+1 - Os valores paramétricos para a água destinada ao consumo humano fornecida por redes de distribuição, por fontanários não ligados à rede de distribuição, por pontos de entrega, por camiões ou navios-cisterna, por reservatórios não ligados à rede de distribuição ou utilizada numa empresa da indústria alimentar são os seguintes:
+
+(ver documento original)
+
+2 - Os valores paramétricos para as águas colocadas à venda em garrafas ou outros recipientes são os seguintes:
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+## Parte II — - Parâmetros químicos
+
+Os valores paramétricos para a água destinada ao consumo humano fornecida por redes de distribuição, por fontanários não ligados à rede de distribuição, por pontos de entrega, por camiões ou navios-cisterna, por reservatórios não ligados à rede de distribuição, utilizada numa empresa da indústria alimentar ou posta à venda em garrafas ou outros recipientes, são os seguintes:
+
+(ver documento original)
+
+Notas
+
+1 - O valor paramétrico refere-se à concentração residual do monómero na água, calculada em função das especificações, fornecidas pelo fabricante, da migração máxima do polímero correspondente em contacto com a água.
+
+2 - O valor deve ser tão baixo quanto possível sem comprometer a eficácia da desinfecção. Quanto à água a que se refere as alíneas a), b), c), d) e f) do n.º 2 do artigo 10.º, este valor deve ser respeitado, o mais tardar, 10 anos civis após a data de entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>. No período compreendido entre os 5 e 10 anos após a entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, o valor paramétrico para os bromatos é de 25 (mi)g/l BrO(índice 3).
+
+3 - No caso das entidades gestoras em baixa, o valor aplica-se a uma amostra de água destinada ao consumo humano obtida na torneira, por um método de amostragem adequado, e recolhida de modo a ser representativa do valor médio semanal ingerido pelos consumidores. Sempre que apropriado, os métodos de amostragem e de controlo serão postos em prática de maneira harmonizada, a elaborar de acordo com o n.º 4 do artigo 7.º da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, devendo até lá as entidades gestoras seguir as recomendações emanadas pela autoridade competente. Para as entidades gestoras em alta, não há um método de amostragem específico, o que não as isenta da pesquisa destes parâmetros.
+
+4 - Quanto à água a que se referem as alíneas a), b), c), d) e f) do n.º 2 do artigo 10.º, este valor deve ser respeitado, o mais tardar, 15 anos civis após a entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>. No período compreendido entre 5 e 15 anos após a entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, o valor paramétrico para o chumbo é de 25 (mi)g/l Pb. Devem ser tomadas todas as medidas necessárias para reduzir, tanto quanto possível, a concentração do chumbo na água destinada ao consumo humano durante o período necessário ao cumprimento do valor paramétrico. A aplicação destas medidas deve, prioritariamente, privilegiar os pontos em que as concentrações de chumbo na água destinada ao consumo humano são as mais elevadas. As entidades gestoras devem seguir as recomendações emanadas pela autoridade competente no que diz respeito à amostragem.
+
+5 - Compete às entidades gestoras, nomeadamente dos sistemas com estações de tratamento de água, assegurar à saída dessas estações a condição [nitratos]/50 + [nitritos]/3 (igual ou menor que) 1, em que os parênteses rectos representam as concentrações em mg/l para os nitratos (NO(índice 3) e para os nitritos (NO(índice 2), bem como do valor limite de 0,10 mg/l para os nitritos.
+
+6 - Entende-se por pesticidas:
+
+a) Insecticidas orgânicos;
+
+b) Herbicidas orgânicos;
+
+c) Fungicidas orgânicos;
+
+d) Nematocidas orgânicos;
+
+e) Acaricidas orgânicos;
+
+f) Algicidas orgânicos;
+
+g) Rodenticidas orgânicos;
+
+h) Controladores orgânicos de secreções viscosas;
+
+i) Produtos afins (nomeadamente reguladores do crescimento), seus metabolitos, produtos de degradação e de reacção importantes.
+
+Só necessitam de ser pesquisados os pesticidas cuja presença seja provável num determinado sistema de fornecimento de água para consumo humano.
+
+Quando a lista referida no n.º 2 do artigo 12.º incluir novos pesticidas para os quais não haja métodos analíticos, nem em Portugal, nem na Europa, a sua pesquisa só é obrigatória quando tais métodos estejam devidamente validados.
+
+7 - O valor paramétrico aplica-se individualmente a cada pesticida. No caso da aldrina, da dialdrina, do heptacloro e do epóxido do cloro, o valor paramétrico é de 0,030 (mi)g/l.
+
+8 - Pesticidas - total significa a soma de todos os pesticidas detectados e quantificados durante o controlo da qualidade da água.
+
+9 - Os compostos especificados são:
+
+a) Benzo[b]fluoranteno;
+
+b) Benzo[k]fluoranteno;
+
+c) Benzo[ghi]perileno;
+
+d) Indeno[1,2,3-cd]pireno.
+
+10 - Sempre que possível, sem que, no entanto, se comprometa a desinfecção, deve ser reduzida a concentração em compostos organoclorados na água. Os compostos especificados são: clorofórmio, bromofórmio, dibromoclorometano e bromodiclorometano. Quanto à água a que se referem as alíneas a), b), c), d) e f) do n.º 2 do artigo 10.º, este valor (100 (mi)g/l) deve ser respeitado, o mais tardar 10 anos civis após a entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>. O valor de THM de 150 (mi)g/l deve ser respeitado no período compreendido entre os 5 e os 10 anos após a entrada em vigor da referida directiva.
+
+Devem ser adoptadas todas as medidas necessárias para reduzir, tanto quanto possível, a concentração de THM na água destinada ao consumo humano, durante o período previsto, até o cumprimento do valor paramétrico. A aplicação das medidas deve, prioritariamente, privilegiar os pontos em que as concentrações de THM na água destinada ao consumo humano são mais elevadas.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+## Parte III — - Parâmetros indicadores
+
+Os valores paramétricos estabelecidos apenas para efeitos de controlo da qualidade da água destinada ao consumo humano fornecida por redes de distribuição, por fontanários não ligados à rede de distribuição, por pontos de entrega, por camiões ou navios-cisterna, por reservatórios não ligados à rede de distribuição, utilizada numa empresa da indústria alimentar ou posta à venda em garrafas ou outros recipientes, são os seguintes:
+
+(ver documento original)
+
+Notas
+
+1 - A água não deve ser factor de deterioração dos materiais com os quais está em contacto, ou seja, deve ser desejavelmente equilibrada. Para verificar esta propriedade, podem ser utilizados diversos métodos, nomeadamente o índice de Langelier (IL), que, desejavelmente, deve estar compreendido entre - 0,5 (menor que) IL (menor que) + 0,5.
+
+2 - Não é desejável que a concentração de cálcio seja superior a 100 mg/l Ca.
+
+3 - Não é desejável que a concentração de magnésio seja superior a 50 mg/l Mg.
+
+4 - É desejável que a dureza total em carbonato de cálcio esteja compreendida entre 150 mg e 500 mg/l CaCO(índice 3).
+
+5 - Quando um sistema de abastecimento é gerido apenas por uma entidade gestora, estes parâmetros devem ser também determinados a montante da distribuição, no âmbito do programa de controlo operacional.
+
+6 - Caso se verifique o incumprimento deste valor paramétrico, deve ser investigado todo o sistema de abastecimento para identificar existência de risco para a saúde humana devido à presença de outros microrganismos patogénicos, por exemplo, o Criptosporidium. Os resultados de todas as investigações devem ser incluídas no relatório trienal.
+
+7 - Para a água sem gás contida em garrafas ou outros recipientes, o valor mínimo do pH pode ser reduzido para 4,5 unidades. Para a água, em garrafas ou outros recipientes, naturalmente rica ou artificialmente enriquecida em dióxido de carbono, o valor mínimo pode ser mais baixo.
+
+8 - Nos controlos de inspecção, a análise da oxidabilidade não é obrigatória desde que nessa amostra seja determinado o teor de COT. Esta nota não se aplica às zonas de abastecimento com volumes médios diários inferiores a 10 000 m3, devendo ser sempre determinada a oxidabilidade no controlo de rotina 2.
+
+9 - A unidade é N/250 ml para as águas contidas em garrafas ou outros recipientes.
+
+10 - A análise do parâmetro COT é obrigatória para todas as zonas de abastecimento com volumes médios diários superiores a 10 000 m3.
+
+11 - No caso de águas superficiais, o valor paramétrico da turvação à saída do tratamento deve ser 1 UNT.
+
+12 - Frequências de controlo a estabelecer posteriormente no anexo II ao presente decreto-lei.
+
+13 - Com excepção do trítio, potássio-40, radão e produtos de desintegração do radão, frequências de controlo, métodos de controlo e localizações mais adequadas para os pontos de controlo a estabelecer posteriormente no anexo ii ao presente decreto-lei.
+
+14 - As propostas a apresentar nos termos da n. 11, sobre frequências de controlo, e da n. 12, sobre frequências de controlo, métodos de controlo e localizações mais adequadas para os pontos de controlo, do anexo ii ao presente decreto-lei serão adoptadas nos termos do artigo 12.º da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>.
+
+15 - A dose indicativa total só é determinada quando ocorrem incumprimentos dos parâmetros (alfa)-total e ou (beta)-total. Nestes casos procede-se à determinação das concentrações dos radionuclídeos específicos emissores (alfa) e ou (beta).
+
+16 - Este parâmetro deve ser determinado à saída da estação de tratamento de água, quando há suspeitas de eutrofização da massa de água superficial. Caso seja confirmado um número de cianobactérias potencialmente produtoras de microcistinas superior a 2000 células/ml deve ser aumentada a frequência de amostragem, no âmbito do programa de controlo operacional.
+
+17 - Não é desejável que o número de colónias a 22°C e a 37°C seja superior a 100 e 20, respectivamente.
+
+18 - Sem alteração anormal significa, com base num histórico de análises, resultados dentro dos critérios estabelecidos pelas entidades gestoras. Quando ocorre uma alteração anormal, é desejável que a entidade gestora averigúe as respectivas causas.
+
+19 - Recomenda-se que as concentrações deste parâmetro estejam entre 0,2 e 0,6 mg/l de cloro residual livre. A determinação deste parâmetro não é obrigatória nas situações previstas no n.º 3 do artigo 9.º do presente decreto-lei.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+## Anexo II — (a que se referem os artigos 8.º, 10.º e 14.º-A)
+
+Parte A - Monitorização operacional
+
+1 - As entidades gestoras devem implementar um programa de monitorização operacional, que pode ser suportado numa avaliação do risco e que permita:
+
+a) Verificar a eficácia das medidas de controlo dos riscos para a saúde humana, identificados em todo o sistema de abastecimento de água, desde a área envolvente da captação até à torneira do consumidor, passando pelo tratamento e pelo armazenamento, até à distribuição, bem como a salubridade e a limpeza da água nos limiares de conformidade;
+
+b) Prestar informações sobre a qualidade da água para consumo humano a fim de demonstrar o cumprimento das obrigações enunciadas no presente decreto-lei;
+
+c) Identificar os meios mais adequados para a minimização do risco para a saúde humana.
+
+2 - O programa de monitorização operacional deverá consistir em:
+
+a) Recolha e análise de amostras discretas de água;
+
+b) Medições registadas mediante um processo de monitorização contínua;
+
+c) Inspeções de registos do estado de funcionalidade e manutenção do equipamento;
+
+d) Inspeções da área envolvente e da infraestrutura de captação, do tratamento, do armazenamento e da rede de distribuição de água.
+
+3 - Para efeitos da avaliação da área envolvente prevista nos números anteriores, deverão ser tidos em consideração os resultados dos programas de monitorização da região hidrográfica, bem como informação relevante do Plano de Gestão da Região Hidrográfica em vigor correspondente, no âmbito da Lei da Água e demais legislação aplicável, disponíveis no sítio na Internet da Agência Portuguesa do Ambiente, I. P. (APA, I. P.).
+
+4 - O programa de monitorização operacional poderá ser suportado na avaliação do risco, conforme previsto no artigo 14.º-A do presente decreto-lei.
+
+Parte B - Verificação da conformidade da qualidade da água
+
+Este anexo tem por objetivo definir o grupo de parâmetros que constituem o controlo de rotina e de inspeção dos PCQA, assim como as frequências mínimas de amostragem, a aplicar na verificação de conformidade da água destinada ao consumo humano fornecida por sistemas de abastecimento público, redes de distribuição, fontanários, camiões ou navios-cisterna, utilizada numa empresa de indústria alimentar.
+
+1 - A fim de determinar a conformidade com todos os valores paramétricos indicados no anexo I, todos os parâmetros fixados em conformidade com o quadro A devem ser monitorizados com a frequência mínima prevista nos quadros B1 e B2.
+
+No caso de fornecimento intermitente de curto prazo, compete à autoridade de saúde, em conjunto com a ERSAR, fixar a frequência a cumprir e os parâmetros a determinar.
+
+O número de amostragens correspondentes à avaliação de conformidade deve ser distribuído equitativamente no espaço e no tempo, de acordo com os critérios definidos pela ERSAR.
+
+As entidades gestoras devem colher amostras de água, nos pontos de amostragem definidos nos termos do n.º 2 do artigo 10.º, para se assegurarem de que a água destinada ao consumo humano satisfaz os requisitos de qualidade do presente decreto-lei. No entanto, no caso de uma rede de distribuição, as entidades gestoras podem colher amostras dentro da zona de abastecimento ou na estação de tratamento de água para a análise de determinados parâmetros, se for possível demonstrar que não há alteração negativa no valor dos parâmetros medidos.
+
+A determinação dos parâmetros correspondentes ao controlo de rotina 2 implica, em simultâneo, a determinação dos parâmetros contidos no controlo de rotina 1 e, identicamente, o controlo de inspeção implica os controlos de rotina 1 e de rotina 2.
+
+2 - O controlo de rotina tem como objetivo fornecer regularmente informações sobre a qualidade organolética e microbiológica da água destinada ao consumo humano, bem como sobre a eficácia dos tratamentos existentes, especialmente a desinfeção, tendo em vista determinar a conformidade da água com os valores paramétricos estabelecidos no presente decreto-lei.
+
+Neste sentido, definem-se os parâmetros do controlo de rotina 1 e do controlo de rotina 2, conforme indicado no quadro A, devendo aplicar-se os seguintes critérios em relação ao controlo de rotina 2:
+
+Critério A: Em circunstâncias especiais, alguns dos parâmetros do controlo de inspeção devem ser aditados aos parâmetros do controlo de rotina 2, como:
+
+i) Clostridium perfringens, incluindo esporos: quando a origem da água é superficial ou influenciada por água superficial;
+
+ii) Alumínio e ferro: se utilizados como produtos químicos de tratamento da água;
+
+iii) Amónio e Nitritos: quando é utilizada a cloraminação (utilização em simultâneo de amónia e cloro);
+
+iv) Todos os parâmetros com concentrações na água bruta acima do valor paramétrico e com sistema de tratamento específico instalado para a remoção desse parâmetro, por exemplo: Alumínio, Ferro, Manganês, Arsénio, Nitratos.
+
+Critério B: Em conformidade com a avaliação do risco prevista no artigo 14.º-A, outros parâmetros considerados relevantes no programa de monitorização operacional (quando identificado como um risco a eliminar ou a reduzir para um nível aceitável), podem ser aditados ao controlo de rotina 2, como por exemplo: pesticidas, arsénio, selénio, nitratos, fluoretos, Microcistinas - LR, subprodutos de desinfeção (Bromatos, Cloritos, Cloratos e Trihalometanos).
+
+3 - O controlo de inspeção deve incluir todos os parâmetros fixados no anexo I não analisados nos controlos de rotina 1 e de rotina 2, com a frequência fixada nos quadros B1 ou B2, com exceção dos casos de dispensa de controlo concedidos ao abrigo do artigo 14.º-A ou nos casos em que a autoridade de saúde ou a ERSAR autorize a sua não determinação, por um período por elas fixado por entenderem que é improvável a presença desse parâmetro em concentrações que impliquem o incumprimento dos valores paramétricos respetivos.
+
+QUADRO A
+
+Parâmetros a analisar por tipo de controlo
+
+(ver documento original)
+
+Nota 1. -  Todos os parâmetros fixados no anexo I não monitorizados no controlo de rotina 1 e nem no controlo de rotina 2, com exceção dos casos de dispensa de controlo, conforme fixado no n.º 2 da Parte B do presente anexo
+
+QUADRO B1
+
+Frequência mínima de amostragem e de análise da água destinada para consumo humano fornecida por uma rede de distribuição, por fontanários, por um camião-cisterna ou fornecida para uma empresa da indústria alimentar
+
+(ver documento original)
+
+QUADRO B2
+
+Frequência mínima de amostragem e de análise da água destinada para consumo humano fornecida por uma entidade gestora em alta
+
+(ver documento original)
+
+Nota 1. - Para os parâmetros conservativos, o controlo analítico deve ser
+
+Parte C - Controlo das substâncias radioativas
+
+Princípios gerais e frequência de controlo dos parâmetros radioativos
+
+Todos os parâmetros, relativamente aos quais os valores paramétricos tenham de ser fixados nos termos do artigo 6.º, são sujeitos a controlo. Contudo, não é exigido qualquer controlo de um parâmetro específico nos casos em que a ERSAR possa apurar que, durante um certo período por esta estabelecido, não é provável que esse parâmetro esteja presente num determinado abastecimento de água destinada a consumo humano em concentrações que possam superar o correspondente valor paramétrico.
+
+No caso dos radionuclídeos naturais, se os resultados anteriores tiverem revelado que a concentração de radionuclídeos é estável, a frequência, em derrogação aos requisitos mínimos de amostragem estabelecidos nos termos do ponto 5, deve ser determinada pela ERSAR, depois de ouvida a autoridade de saúde, tendo em conta o risco para a saúde humana. Não é necessário controlar a água destinada ao consumo humano para detetar a presença de radão ou trítio ou para determinar a Dose Indicativa se, com base em levantamentos representativos, dados de controlo ou outras informações fiáveis, os níveis de radão ou trítio ou da Dose Indicativa calculada permanecem abaixo dos correspondentes valores paramétricos fixados no anexo I. Nesse caso, são comunicadas à Comissão Europeia as razões que motivaram esta determinação e facultar-lhe-ão os documentos que fundamentaram essa decisão, incluindo as conclusões das avaliações de risco, controlos ou investigações que tenham sido efetuados. Neste contexto, não são aplicáveis as disposições sobre os requisitos mínimos de amostragem e de análise.
+
+1 - Radão
+
+O controlo ao radão é efetuado para determinar o nível e a natureza da provável exposição a este parâmetro na água destinada ao consumo humano, com origem em diferentes tipos de fontes e captações de água subterrânea em diferentes áreas geológicas. O controlo é concebido para que os parâmetros subjacentes e, em especial, a geologia e a hidrologia da área, a radioatividade das rochas ou do solo e o tipo de captação possam ser identificados e utilizados no sentido de orientar outras ações para áreas com probabilidade de exposição elevada. São efetuados controlos das concentrações de radão sempre que existam motivos para crer, com base nos resultados das avaliações de risco ou outras informações fiáveis, que pode haver superação dos valores paramétricos estabelecidos nos termos do artigo 6.º
+
+2 - Trítio
+
+O controlo da existência de trítio na água destinada ao consumo humano é efetuado sempre que uma fonte antropogénica de trítio ou outros radionuclídeos artificiais esteja presente na bacia hidrográfica e que não seja possível demonstrar, com base noutros programas de vigilância, nomeadamente, o programa de vigilância previsto nos termos do Decreto-Lei n.º 138/2005, de 17 de agosto, ou noutras investigações, que o nível de trítio é inferior ao valor paramétrico indicado no anexo I.
+
+3 - Dose indicativa (DI)
+
+O controlo da água destinada ao consumo humano para determinar a DI é efetuado sempre que esteja presente uma fonte de radioatividade artificial ou uma fonte de radioatividade natural elevadas e que não seja possível demonstrar, com base noutros programas de controlo representativos ou noutras investigações, que o nível de dose indicativa é inferior ao valor paramétrico indicado no anexo I. Quando for exigido o controlo dos níveis de radionuclídeos artificiais, este é efetuado com a frequência indicada no quadro B1 da Parte B. Se for necessário controlar os níveis de radionuclídeos naturais, a ERSAR define a frequência do controlo da atividade alfa total, da atividade beta total ou de determinados radionuclídeos naturais, consoante a estratégia de verificação adotada (em conformidade com o presente anexo). A frequência dos controlos pode variar entre uma única medição de verificação e a frequência indicada no quadro B1 da Parte B. Quando for necessária apenas uma verificação da radioatividade natural, é exigida nova verificação se ocorrer pelo menos uma alteração ao nível do abastecimento que seja suscetível de influenciar as concentrações de radionuclídeos na água destinada ao consumo humano.
+
+4 - Tratamento da água
+
+Sempre que se tenha procedido a um tratamento para redução do nível de radionuclídeos na água destinada ao consumo humano, são efetuados controlos com a frequência indicada para o controlo de rotina 2, de forma a assegurar a eficácia continuada desse tratamento.
+
+5 - Frequência mínima de amostragem e de análise
+
+Aplica-se a frequência mínima de amostragem e análise fixada nos termos do presente anexo para efeitos de controlo da água destinada ao consumo humano fornecida por uma rede de distribuição ou por um camião-cisterna ou utilizada numa empresa da indústria alimentar.
+
+6 - Estabelecimento de uma média
+
+Se um valor paramétrico for excedido numa determinada amostra, a autoridade de saúde determina o número de amostras para assegurar que os valores medidos sejam representativos de uma concentração de atividade média durante um ano inteiro.
+
+Parte D - Avaliação do risco
+
+O estabelecimento do programa de monitorização operacional ou do PCQA deve ter por base a avaliação do risco efetuada pela entidade gestora, seguindo uma metodologia sistemática de análise de perigos e avaliação do risco ao longo de todo o sistema de abastecimento de água, desde a área envolvente da captação até à torneira do consumidor, baseada nos princípios gerais da avaliação do risco enunciados em relação a normas europeias e internacionais, designadamente a norma EN 15975-2.
+
+1 - A avaliação do risco efetuada pela entidade gestora deve ter em conta:
+
+a) Os resultados dos PCQA dos anos anteriores aprovados pela ERSAR;
+
+b) Os resultados da monitorização efetuada pela entidade gestora na água bruta, de cada origem de água identificada no PCQA;
+
+c) Os resultados dos programas de monitorização nas massas de água superficiais e subterrâneas, nomeadamente das zonas protegidas referentes a massas de água destinadas à captação de água para consumo humano, ao abrigo da Lei da Água que transpõe para o ordenamento jurídico nacional a Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro, disponíveis no sítio na Internet da APA, I. P.;
+
+d) A implementação das restrições estabelecidas para os perímetros de proteção das origens de água definidos nos termos legais aplicáveis, bem como as medidas estabelecidas no Plano de Gestão de Região Hidrográfica em vigor correspondente, disponíveis no sítio na Internet da APA, I. P.;
+
+e) Os resultados da monitorização operacional efetuada no sistema de abastecimento pela entidade gestora.
+
+2 - Com base nos resultados da avaliação do risco, a lista de parâmetros a definir nos controlos de rotina e de inspeção do PCQA, conforme fixado na parte B, deve ser alargada e ou as frequências de amostragem devem ser aumentadas, sempre que esteja preenchida uma das seguintes condições:
+
+a) A lista de parâmetros ou de frequências constantes do anexo I e da parte B do presente anexo é insuficiente para dar cumprimento às obrigações impostas pelo artigo 8.º;
+
+b) São necessários controlos suplementares para efeitos do disposto no n.º 2 do artigo 8.º;
+
+c) É necessário dar as garantias previstas na alínea a) do n.º 1 da Parte A do anexo II.
+
+3 - Com base nos resultados da avaliação do risco, a lista de parâmetros e a frequência de amostragem do PCQA, fixada nos termos do anexo I e da parte B do presente anexo, pode ser reduzida, sempre que estejam preenchidas as seguintes condições:
+
+a) A frequência de amostragem para Escherichia coli não deve ser reduzida, em nenhuma circunstância, abaixo da prevista na parte B;
+
+b) No respeitante a todos os outros parâmetros:
+
+i) A localização e a frequência de amostragem devem ser determinadas em relação à origem do parâmetro, bem como à variabilidade e à tendência a longo prazo da sua concentração, tendo em conta o disposto no artigo 10.º;
+
+ii) A fim de reduzir a frequência mínima de amostragem de um parâmetro, conforme previsto no anexo II, os resultados obtidos a partir de amostras colhidas a intervalos regulares, durante um período mínimo de três anos consecutivos, em pontos de amostragem representativos de toda a zona de abastecimento devem ser inferiores a 60 % do valor paramétrico e não evidenciar uma tendência crescente;
+
+iii) A fim de suprimir um parâmetro da lista de parâmetros a monitorizar no controlo de inspeção, conforme previsto na parte B, os resultados obtidos a partir de amostras colhidas a intervalos regulares, durante um período mínimo de três anos consecutivos, em pontos representativos de toda a zona de abastecimento, devem ser inferiores a 30 % do valor paramétrico e não evidenciar uma tendência crescente;
+
+iv) A supressão de um parâmetro específico, constante na parte B, da lista de parâmetros a monitorizar no controlo de inspeção deve basear-se no resultado da avaliação de risco, assente nos resultados da monitorização de origens de água destinada ao consumo humano, confirmando que a saúde humana se encontra protegida dos efeitos adversos de qualquer contaminação da água destinada ao consumo humano;
+
+v) A frequência de amostragem pode ser reduzida ou um parâmetro pode ser suprimido da lista de parâmetros a monitorizar, conforme previsto nas subalíneas ii) e iii), apenas se a avaliação de risco confirmar que nenhum fator razoavelmente previsível pode deteriorar a qualidade da água destinada ao consumo humano;
+
+vi) No caso dos parâmetros microbiológicos, a redução da frequência mínima de amostragem, nunca superior a 50 %, depende da verificação, nos três anos anteriores àquele a que se refere o pedido de redução, da percentagem de cumprimento dos valores paramétricos, que deve ser superior a 99,50 % por parâmetro microbiológico.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+## Anexo III — (a que se refere o artigo 14.º)
+
+Programa de controlo da qualidade da água
+
+Em conformidade com o artigo 6.º e o artigo 8.º, os PCQA devem ter em conta os parâmetros a que se referem os anexos I e II, inclusive os que são importantes para a avaliação do impacto dos sistemas de distribuição domésticos sobre a qualidade da água na torneira do consumidor. Por ocasião da escolha dos parâmetros adequados de monitorização, devem ser tidas em conta as condições locais de cada zona de abastecimento de água. A definição do PCQA deve basear-se numa avaliação do risco, conforme o previsto no artigo 14.º-A e na parte D do anexo II.
+
+1 - Os PCQA devem dar cumprimento aos parâmetros e às frequências fixadas de acordo com o anexo II e que consistam na recolha e análise de amostras discretas de água.
+
+2 - Os PCQA devem determinar os pontos de amostragem de modo a garantir a conformidade na torneira do consumidor, conforme definido no artigo 10.º No caso de uma rede de distribuição, podem ser colhidas amostras na zona de abastecimento ou nas instalações de tratamento, relativamente a parâmetros específicos, se for possível demonstrar que o valor medido dos parâmetros em causa não será afetado de forma negativa. Sempre que possível, o número de amostras deve ser distribuído equitativamente no espaço e no tempo.
+
+3 - A amostragem na torneira dos consumidores deve preencher os seguintes requisitos, bem como seguir com as orientações emitidas pela ERSAR:
+
+a) Devem ser colhidas amostras de água na torneira do consumidor, sem descarga prévia, para verificação de conformidade de determinados parâmetros químicos, nomeadamente cobre, chumbo e níquel. Nestas colheitas deve ser recolhida uma amostra aleatória diurna com o volume de um litro. Em alternativa, podem ser utilizados métodos com tempo de estagnação fixo que reflitam melhor a respetiva situação na zona de abastecimento, desde que tal não se traduza em menos casos de incumprimento do que o recurso ao método aleatório diurno;
+
+b) Devem ser colhidas amostras de água na torneira do consumidor, e tratadas de acordo com a norma EN ISO 19458, para efeitos da amostragem B prevista nesta norma, para verificação de conformidade dos parâmetros microbiológicos, seguindo as orientações emitidas pela ERSAR;
+
+c) A amostragem na rede de distribuição, à exceção da amostragem na torneira do consumidor, deve ser conforme com o disposto na norma ISO 5667-5. No respeitante aos parâmetros microbiológicos, a amostragem na rede de distribuição deve ser efetuada e tratada, para efeitos da amostragem A, em conformidade com a norma EN ISO 19458, seguindo as orientações emitidas pela ERSAR.
+
+4 - Fazem parte do PCQA, a enviar no formato definido pela ERSAR, os seguintes elementos:
+
+a) Identificação da entidade gestora responsável pelo controlo da qualidade da água para consumo humano;
+
+b) Identificação e localização das origens de água, com indicação da sua natureza superficial ou subterrânea;
+
+c) Identificação e localização dos pontos de entrega de água entre entidades gestoras;
+
+d) Identificação e localização das zonas de abastecimento, no caso das entidades gestoras em baixa;
+
+e) Descrição do tipo de processo de tratamento e tipo de substâncias químicas aplicadas à água fornecida em cada ponto de entrega ou zona de abastecimento;
+
+f) Volumes médios diários anuais fornecidos nos pontos de entrega entre entidades gestoras durante os 12 meses anteriores à data da submissão do PCQA para apreciação pela ERSAR;
+
+g) Volumes médios diários anuais à entrada das zonas de abastecimento durante os 12 meses anteriores à data da submissão do PCQA para apreciação pela ERSAR, no caso das entidades gestoras em baixa. Os volumes indicados pela entidade gestora devem ser preferencialmente medidos. Na ausência destes valores, deve-se utilizar a capitação de 200 l/hab.dia. Quando uma entidade gestora adquire a água a outra, deve considerar o volume médio diário comprado;
+
+h) População servida por zona de abastecimento, no caso das entidades gestoras em baixa. Não tendo a entidade gestora dados exatos, deve recorrer ao valor constante dos últimos censos populacionais;
+
+i) Identificação dos pontos de amostragem por ponto de entrega entre entidades gestoras;
+
+j) Identificação dos pontos de amostragem por zona de abastecimento, no caso das entidades gestoras em baixa. No caso das entidades gestoras em baixa, o número de pontos de amostragem não pode ser inferior a 75 % do número mínimo legal de controlos de rotina 1 a efetuar por zona de abastecimento, excluindo-se casos excecionais que deverão ser apreciados pela ERSAR. Estes pontos devem estar distribuídos equitativamente no espaço, respeitando os critérios emanados pela ERSAR. No caso das entidades gestoras em alta, todos os locais físicos do ponto de entrega devem constituir pontos de amostragem;
+
+k) Cronograma da amostragem, que deverá conter, além da indicação dos pontos de amostragem, as datas exatas, respeitando uma distribuição equitativa no tempo para os diferentes tipos de controlo, de acordo com os critérios emanados pela ERSAR;
+
+l) Lista de parâmetros a analisar por tipo de controlo, incluindo os pesticidas a pesquisar, por ponto de entrega ou zona de abastecimento;
+
+m) Identificação da entidade responsável pela colheita das amostras, nomeadamente a entidade gestora ou o laboratório;
+
+n) Laboratório responsável pelo controlo da qualidade da água;
+
+o) Indicação por zona de abastecimento ou ponto de entrega da implementação de uma abordagem de avaliação e gestão do risco;
+
+p) Os dados da avaliação do risco submetida pela entidade gestora à apreciação da ERSAR, ao abrigo do artigo 14.º-A.
+
+5 - As entidades gestoras em alta devem preparar e manter um registo atualizado do PCQA contendo:
+
+a) Planta esquemática com a localização e a identificação das origens de água, dos pontos de entrega e das infraestruturas existentes e respetivas interligações;
+
+b) Estimativa do volume fornecido por ponto de entrega;
+
+c) Avaliação do risco;
+
+d) Informação das dispensas (supressão e da redução de controlo) autorizadas pela ERSAR ou autoridade de saúde;
+
+e) Plano de ação que contemple as medidas para a redução das situações de risco significativo para o nível aceitável;
+
+f) Descrição das medidas corretivas tomadas para cumprir com os valores paramétricos, nos termos do artigo 19.º;
+
+g) Informação das situações de restrição à utilização da água para consumo humano que tenham ocorrido.
+
+6 - As entidades gestoras em baixa devem preparar e manter um registo atualizado contendo:
+
+a) Planta do concelho com a delimitação das zonas de abastecimento e indicação esquemática das origens de água e infraestruturas existentes;
+
+b) Estimativa da população servida, por zona de abastecimento;
+
+c) Avaliação do risco;
+
+d) Informação das dispensas (supressão e da redução de controlo) autorizadas pela ERSAR ou autoridade de saúde;
+
+e) Plano de ação que contemple as medidas para a redução das situações de risco significativo para o nível aceitável;
+
+f) Descrição das medidas corretivas tomadas para cumprir com os valores paramétricos, nos termos do artigo 19.º;
+
+g) Informação das situações de restrição à utilização da água para consumo humano que tenham ocorrido.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01
+
+## Anexo IV — (a que se refere o artigo 28.º)
+
+Especificações para análise dos parâmetros
+
+1 - Os métodos de análise utilizados para efeitos de monitorização e demonstração da conformidade com a presente diretiva devem ser validados e documentados em conformidade com a norma EN ISO/IEC 17025 ou outras normas equivalentes aceites no plano internacional, devendo os laboratórios ou as partes contratadas por laboratórios ser acreditados para o efeito.
+
+Na ausência de um método analítico que satisfaça as características mínimas de desempenho enunciadas no quadro 1, os laboratórios devem garantir que a monitorização se efetua utilizando as melhores técnicas disponíveis e sem envolver custos excessivos.
+
+2 - Os métodos a utilizar na monitorização dos parâmetros microbiológicos são os seguintes:
+
+a) Bactérias coliformes e Escherichia coli (E. coli) (EN ISO 9308-1 ou EN ISO 9308-2);
+
+b) Enterococos (EN ISO 7899-2);
+
+c) Pseudomona aeruginosa (EN ISO 16266);
+
+d) Enumeração de microrganismos viáveis - número de colónias a 22ºC (EN ISO 6222);
+
+e) Enumeração de microrganismos viáveis - número de colónias a 36ºC (EN ISO 6222);
+
+f) Clostridium perfringens (incluindo esporos) - (EN ISO 14189).
+
+Podem ser utilizados métodos alternativos, desde que sejam cumpridas as disposições do artigo 28.º
+
+3 - Parâmetros químicos e indicadores para os quais são especificadas as características de desempenho dos métodos analíticos a utilizar:
+
+a) Para os parâmetros do quadro 1, as características de desempenho dos métodos utilizados devem, no mínimo, ser capazes de medir concentrações iguais ao valor paramétrico com um limite de quantificação, conforme definido no n.º 2 do artigo 2.º da Diretiva 2009/90/CE da Comissão, igual ou inferior a 30 % do valor paramétrico pertinente e uma incerteza de medição especificada no quadro 1 do presente anexo. Qualquer que seja a sensibilidade do método de análise utilizado, o resultado deve ser expresso usando, no mínimo, o mesmo número de casas decimais que os valores paramétricos especificados no anexo I;
+
+b) Até 31 de dezembro de 2019, os laboratórios podem recorrer aos parâmetros de 'exatidão', 'precisão' e 'limite de deteção', especificados no quadro 2 do presente anexo, como conjunto alternativo de características de desempenho ao 'limite de quantificação' e à 'incerteza de medição' especificadas no primeiro parágrafo e no quadro 1 do presente anexo, respetivamente;
+
+c) A incerteza de medição a que se refere o quadro 1 não deve ser utilizada como tolerância adicional aos valores paramétricos previstos no anexo I;
+
+d) Em relação aos parâmetros do controlo da radioatividade na água, o método de análise utilizado deve permitir medir, no mínimo, as concentrações de atividade com um limite de deteção especificado no quadro 3.
+
+QUADRO 1
+
+Característica mínima de desempenho 'incerteza de medição'
+
+(ver documento original)
+
+QUADRO 2
+
+Características mínimas de desempenho que podem ser utilizadas até 31 de dezembro de 2019
+
+(ver documento original)
+
+Notas ao Quadro 1 e Quadro 2
+
+Nota 1. - A incerteza de medição é um parâmetro não negativo que caracteriza a dispersão dos valores quantitativos atribuídos a um mensurando que se baseia na informação utilizada. O critério de desempenho para a incerteza de medição (k = 2) é a percentagem do valor paramétrico declarado no quadro ou melhor (exceto para o pH que é expresso em unidades de pH). A incerteza de medição deve ser calculada ao nível do valor paramétrico, salvo especificação em contrário.
+
+Nota 2. - A exatidão é uma medição do erro sistemático e é a diferença entre o valor médio de um grande número de medições repetidas e o valor real. Na norma ISO 5725-1 figuram outras especificações.
+
+Nota 3. - A precisão é uma medição do erro aleatório e é geralmente expressa como o desvio-padrão (no interior de cada lote e entre lotes) da dispersão dos resultados em relação à média. Uma precisão aceitável corresponde ao dobro do desvio-padrão relativo. Este termo é definido de forma mais completa na norma ISO 5725-1.
+
+Nota 4. - O limite de deteção é:
+
+- quer o triplo do desvio-padrão no interior de um lote de uma amostra natural que contenha uma concentração pouco elevada do parâmetro, quer
+
+- o quíntuplo do desvio-padrão de uma amostra de controlo (no interior de um lote).
+
+Nota 5. - Se não for possível satisfazer o valor da incerteza de medição, deve ser selecionada a melhor técnica disponível (até 60 %).
+
+Nota 6. - O método determina os cianetos totais, em todas as suas formas.
+
+Nota 7. - Os valores da exatidão, da precisão e da incerteza de medição são expressos em unidades de pH.
+
+Nota 8. - Método de referência: EN ISO 8467.
+
+Nota 9. - As características de desempenho para os pesticidas são facultadas a título indicativo. Podem alcançar-se valores respeitantes à incerteza de medição de apenas 30 % para diversos pesticidas e, para uma série destes, podem ser autorizados valores mais elevados, até 80 %.
+
+Nota 10. - As características de desempenho aplicam-se às substâncias individuais especificadas, a 25 % do valor paramétrico constante do anexo I.
+
+Nota 11. - As características de desempenho aplicam-se às substâncias individuais especificadas, a 50 % do valor paramétrico constante do anexo I.
+
+Nota 12. - A incerteza de medição deve estimar-se ao nível de 3 mg/l do carbono orgânico total (COT). Deve ser utilizada a norma EN 1484
+
+relativa a diretrizes para a determinação do COT e do carbono orgânico dissolvido (COD).
+
+Nota 13. - A incerteza de medição deve estimar-se ao nível de 1,0 UTN (unidades de turvação nefelométrica) em conformidade com a série da norma EN ISO 7027.
+
+QUADRO 3
+
+Características mínimas de desempenho 'limite de deteção' dos parâmetros radioativos
+
+(ver documento original)
+
+Nota 1. - O limite de deteção é calculado segundo a norma ISO 11929, para a determinação dos limites característicos (limiar de decisão, limite de deteção e limites do intervalo de confiança) para as medições de radiação ionizante, com probabilidades de erros de primeira e segunda espécie de 0,05 cada.
+
+Nota 2. - As incertezas da medição devem ser calculadas e comunicadas como incertezas completas da norma, ou como incertezas expandidas da norma, com um fator de expansão de 1,96, de acordo com o Guia ISO/IEC 98 -3, para a expressão da incerteza de medição.
+
+Nota 3. - O limite de deteção para o radão e para o trítio é de 10 % do valor paramétrico de 100 Bq/l.
+
+Nota 4. - O limite de deteção para a atividade alfa total e para a atividade beta total é de 40 % dos valores de verificação de 0,10 Bq/l e 1,0 Bq/l, respetivamente.
+
+Nota 5. - Este limite de deteção é aplicável apenas à verificação inicial para a DI relativamente a uma nova fonte de abastecimento de água; se a verificação inicial indicar que não é plausível que o Ra-228 ultrapasse 20 % da concentração derivada, o limite de deteção pode ser aumentado para 0,08 Bq/l relativamente às medições específicas de rotina para o nuclídeo Ra-228, até que seja exigida uma nova verificação subsequente.
+
+> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 152/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2017-114315242), em vigor a partir de 2018-01-01

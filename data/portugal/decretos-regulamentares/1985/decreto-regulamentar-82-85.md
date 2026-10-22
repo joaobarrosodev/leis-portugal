@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:250640:por
+title: Decreto Regulamentar n.º 82/85
+short_title: null
+summary: Fixa as normas para as embalagens de acondicionamento do ananás, os requisitos a que devem obedecer os armazéns de
+  acondicionamento, embalagem e amadurecimento e as normas e condições técnicas do transporte rodoviário, marítimo e aéreo
+  do ananás
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Indústria e Comércio
+proposing_entity: null
+official_number: 82/85
+official_date: null
+publication_date: '1985-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1985, 3º Suplemento, Série I de 1985-12-30
+  number: '300'
+  series: I
+  supplement: 3º Suplemento
+  pages: 4252-(14) a 4252-(16)
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30003/00140016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '250640'
+  dre_path: /dr/detalhe/decreto-regulamentar/82-1985-250640
+  internal: pt:dre:250640:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/82-1985-250640
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/82-1985-250640
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-12-30T00:00:00Z'
+integrity:
+  source_sha256: ebae1d6ea4fc4d3c0ae87249c3538158519252d4f732ab1cc7d736b545c18fe3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-82-250640.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 82/85
+
+de 30 de Dezembro
+
+Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e do n.º 2 do artigo 3.º do [Decreto-Lei n.º 504/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1985-250606), de 30 de Dezembro, o seguinte:
+
+## TÍTULO I — Embalagens
+
+###### Artigo 1.º - 1 - No acondicionamento do ananás deverão utilizar-se caixas com as seguintes características:
+
+Caixas de madeira:
+
+Caixas rectangulares de madeira limpa aparelhada, para 6 frutos, com as dimensões interiores de 43 cm x 30 cm x 28 cm;
+
+Caixas de cartão:
+
+a) De 6 frutos, com as dimensões de 43 cm x 29 cm x 28 cm;
+
+b) De 6 frutos, com as dimensões de 43 cm x 29 cm x 22 cm;
+
+Caixas de poliestireno expansível:
+
+a) De 6 frutos, com as dimensões de 52 cm x 31 cm x 35 cm;
+
+b) De 6 frutos, com as dimensões de 46 cm x 26 cm x 30 cm;
+
+c) De 3 frutos, com as dimensões de 52 cm x 31 cm x 17 cm;
+
+d) De 3 frutos, com as dimensões de 44 cm x 26 cm x 16 cm.
+
+2 - As embalagens referidas no número anterior ficam sujeitas à aprovação, no continente, da Junta Nacional das Frutas, na Região Autónoma dos Açores, da Secretaria Regional do Comércio e Indústria, e na Região Autónoma da Madeira, da Secretaria Regional da Economia.
+
+3 - Poderão ser admitidas novas embalagens, desde que homologadas pelos serviços indicados no número anterior.
+
+###### Art. 2.º É obrigatória a utilização de habitáculos individuais, em cartão, para os ananases acondicionados nas embalagens «caixas de madeira» e «caixas de cartão» mencionadas no artigo anterior.
+
+###### Art. 3.º Sem prejuízo do disposto nos Decretos-Leis n.os [89/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1984-661762), de 23 de Março, e [440/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1985-178084), de 24 de Outubro, as embalagens dos ananases produzidos na Região Autónoma dos Açores deverão apresentar, no seu exterior, em caracteres legíveis e indeléveis, a seguinte indicação: «Açores».
+
+## TÍTULO II — Acondicionamento
+
+###### Art. 4.º O ananás a expedir ou exportar deverá ser embalado nos centros de acondicionamento, onde será sujeito a selecção e limpeza.
+
+###### Art. 5.º Os centros de acondicionamento devem manter-se limpos, respeitar as normas legais vigentes e reunir as seguintes condições específicas:
+
+a) Destinar-se à utilização exclusiva para produtos hortofrutícolas;
+
+b) Possuir um diagrama de funcionamento conveniente, que garanta um circuito racional e eficiente do produto nas várias fases de acondicionamento;
+
+c) Dispor de uma área funcional coberta compatível com o volume da fruta a manipular, mas nunca inferior a 300 m2;
+
+d) Ter ventilação suficiente;
+
+e) Dispor de um pé direito nunca inferior a 4 m;
+
+f) Possuir iluminação natural ou artificial adequada e água canalizada;
+
+g) Dispor de instalações hígio-sanitárias para o pessoal, devidamente aprovadas pela entidade competente;
+
+h) Possuir balanças protegidas com almofadas de espuma ou outro material semelhante;
+
+i) Ter pavimento liso, facilmente lavável e com escoamento adequado;
+
+j) Dispor de condições de acesso para veículos pesados;
+
+l) Ser provido de área coberta para carga e descarga do ananás embalado, com possibilidade de acesso e de estacionamento de veículos pesados com contentores;
+
+m) Dispor de espaço suficiente para a armazenagem de embalagens vazias, armadas ou não, e ainda de uma área para a armação das mesmas.
+
+###### Art. 6.º - 1 - Os centros de acondicionamento não poderão iniciar a sua actividade sem licença de funcionamento, válida até 31 de Dezembro do respectivo ano, concedida pelos departamentos competentes do Governos das Regiões Autónomas dos Açores e da Madeira e pela Junta Nacional das Frutas, consoante o local onde estão instalados.
+
+2 - A revalidação da licença de funcionamento será solicitada pelo interessado, anualmente, no mês de Janeiro, ao departamento referido no n.º 1 deste artigo, indicando o volume de ananás manuseado no ano anterior.
+
+3 - As licenças previstas nos n.os 1 e 2 deste artigo só serão concedidas após vistoria das instalações, e o mais tardar no prazo de 2 meses a partir do pedido, considerando-se automaticamente concedidas se ultrapassado aquele prazo.
+
+4 - Os armazenistas actualmente inscritos deverão, no prazo de 1 ano a partir da publicação deste diploma, proceder às necessárias obras de beneficiação nos seus actuais armazéns ou adquirir novas instalações, de acordo com os requisitos mínimos exigidos.
+
+5 - Os armazenistas referidos no número anterior, para efeito de revalidação de licença de funcionamento, deverão cumprir o estipulado no n.º 2 deste artigo e na alínea e) do artigo 16.º deste diploma.
+
+## TÍTULO III — Transporte
+
+###### Art. 7.º - 1 - O transporte do ananás para o cais de embarque terá de ser efectuado em condições de segurança, de modo que as caixas não sofram quaisquer danos e mantenham a sua forma e rigidez.
+
+2 - Enquanto não é efectuado o embarque do ananás, este deverá estar protegido dos efeitos do sol e da chuva.
+
+3 - O intervalo entre a colheita e o embarque do produto embalado deve ser reduzido ao mínimo indispensável, com vista a salvaguardar a qualidade intrínseca dos frutos.
+
+###### Art. 8.º - 1 - A partir de 1 de Janeiro de 1987, o transporte marítimo do ananás só será permitido em contentores open-side ou climatizados.
+
+2 - Os contentores deverão ser carregados nos centros de acondicionamento, por forma a salvaguardar a qualidade do produto.
+
+###### Art. 9.º O transporte marítimo deverá ser realizado em barcos fruteiros ou outros navios devidamente apetrechados para o efeito, de preferência climatizados.
+
+###### Art. 10.º Nos navios dotados de ventilação dinâmica, a renovação e a distribuição do ar deverá ser feita por forma a garantir a boa conservação da fruta durante a viagem.
+
+###### Art. 11.º O transporte em navios climatizados deverá realizar-se a uma temperatura não inferior e próxima dos 12º Celsius, devendo manter-se a uma humidade relativa entre 85% e 90%.
+
+###### Art. 12.º No transporte aéreo, embora não seja obrigatório o agrupamento de caixas, deverão ser acauteladas as condições de estiva e de ambiente que garantam a preservação da qualidade do produto.
+
+###### Art. 13.º O ananás não deverá ser transportado conjuntamente com produtos que, pelas suas características e emanações, possam prejudicar a sua qualidade e apresentação.
+
+## TÍTULO IV — Disposições gerais
+
+###### Art. 14.º As actividades de exportação e de expedição de ananás podem ser exercidas por qualquer pessoa singular ou colectiva.
+
+###### Art. 15.º - 1 - São consideradas como armazenistas todas as pessoas singulares ou colectivas que exerçam a actividade de acondicionamento, armazenagem e conservação de ananás.
+
+2 - Todos os armazenistas estão obrigados à inscrição prévia no departamento competente da Secretaria Regional do Comércio e Indústria ou da Secretaria Regional da Economia, quando exerçam a sua actividade, respectivamente, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, bem como na Junta Nacional das Frutas, quando exerçam a sua actividade no continente.
+
+###### Art. 16.º As entidades referidas no artigo anterior, para efeitos da correspondente inscrição, deverão apresentar os seguintes documentos:
+
+a) Requerimento em papel selado;
+
+b) Certidão do registo comercial, quando se trate de uma sociedade;
+
+c) Declaração do exercício da respectiva actividade, nos termos do Código da Contribuição Industrial;
+
+d) Documento comprovativo da posse das instalações necessárias ao exercício daquela actividade;
+
+e) Esquema das instalações, com plantas e alçados, e respectivo diagrama de funcionamento, em que se demonstre estarem cumpridos os requisitos exigidos para os centros de acondicionamento, embalagem e conservação.
+
+Aníbal António Cavaco Silva - Lino Dias Miguel - Tomás George Conceição Silva - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
+
+**Promulgado em 30 de Dezembro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 30 de Dezembro de 1985.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

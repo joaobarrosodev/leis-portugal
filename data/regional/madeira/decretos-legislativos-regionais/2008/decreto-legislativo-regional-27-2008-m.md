@@ -1,0 +1,367 @@
+---
+schema_version: '1.0'
+id: pt:dre:456487:por
+title: Decreto Legislativo Regional n.º 27/2008/M
+short_title: null
+summary: Aprova a adaptação orgânica e funcional da legislação fiscal nacional à Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 27/2008/M
+official_date: null
+publication_date: '2008-07-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/2008, Série I de 2008-07-03
+  number: '127'
+  series: I
+  supplement: null
+  pages: 4123 - 4128
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/07/12700/0412304128.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/27/2008/07/03/m/dre/pt/html
+  oj: null
+  dre: '456487'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/27-2008-456487
+  internal: pt:dre:456487:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-456487
+  metadata_url: https://data.dre.pt/eli/declegreg/27/2008/07/03/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-456487
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-03T00:00:00Z'
+integrity:
+  source_sha256: f522a6f34c313059ffa751a0509b794733b140e01489547fd589f78336f18f93
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2008/DRE-2008-27-456487.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código de Procedimento e de Processo Tributário
+- Código do Imposto do SELO
+- Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Código do Imposto Único de Circulação
+- Código do IRS
+- Código do IVA
+- Imposto Municipal sobre Imóveis
+- Estatuto Fiscal Cooperativo
+- Estatuto
+- Estatuto dos Benefícios Fiscais
+- Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Código do Imposto Municipal sobre Imóveis
+- IRS
+- IVA
+- Infracção Fiscal
+- Imposto Único de Circulação
+- Lei Geral Tributária
+- IRC
+- Procedimento Tributário
+- Processo Tributário
+- Madeira.região Autónoma
+- Regime Complementar do Procedimento de Inspecção Tributária
+- Benefícios Fiscais
+- Direcção Regional dos Assuntos Fiscais
+- Transacção Intracomunitária
+- Tribunal Administrativo e Fiscal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2005/01/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2005/01/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/290/1992/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/290/1992/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/29-a/2005/08/31/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/29-a/2005/08/31/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67-a/2007/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/85/1998/12/1
+  label: null
+  source: http://data.dre.pt/eli/lei/85/1998/12/1
+article_structure:
+  article_count: 18
+  section_count: 19
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 27/2008/M
+
+Aprova a adaptação orgânica e funcional da legislação fiscal nacional à Região Autónoma da Madeira
+
+De acordo com o n.º 2 do artigo 1.º do [Decreto-Lei n.º 18/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2005-624873), de 18 de Janeiro, o Governo Regional da Madeira passou a exercer a plenitude das competências previstas nos n.os 1 e 2 do artigo 225.º da Constituição da República Portuguesa e nas alíneas i), j) e r) do artigo 227.º da mesma Lei.
+
+Estes preceitos determinam quais os poderes próprios das Regiões Autónomas, designadamente o exercício do poder tributário próprio nos termos da lei. Consagra-se ainda a possibilidade de adaptação do sistema fiscal às especificidades regionais, nos termos da Lei Quadro da Assembleia da República.
+
+São reconhecidas às Regiões Autónomas a capacidade de dispor das receitas fiscais nelas cobradas ou geradas e a participação nas receitas tributárias do Estado, nas condições legalmente estabelecidas, bem como de outras receitas que lhes sejam atribuídas, afectando-as às suas despesas.
+
+A transferência para a Região Autónoma da Madeira das atribuições e competências fiscais constitui mais uma etapa da autonomia financeira regional, contribuindo esta política de descentralização tributária para uma melhoria dos interesses da respectiva população, tornando mais próxima, ajustada e simultaneamente mais célere a capacidade de resposta aos contribuintes.
+
+Através do [Decreto Regulamentar Regional n.º 29-A/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-a-2005-692577), de 31 de Agosto, foi criada a Direcção Regional dos Assuntos Fiscais visando a prossecução na Região Autónoma da Madeira das atribuições e competências cometidas à extinta Direcção de Finanças da Região Autónoma da Madeira.
+
+Em consequência, as competências e atribuições fiscais que vinham sendo exercidas na Região Autónoma da Madeira pelo Governo da República, através do Ministro das Finanças e do director-geral dos Impostos, passaram a ser exercidas pelo Secretário Regional do Plano e Finanças e pelo director regional dos Assuntos Fiscais, de acordo com o previsto no artigo 54.º do decreto regulamentar regional referido no parágrafo supra.
+
+Face à realidade da regionalização dos serviços fiscais, e considerando o princípio da certeza jurídica, a legislação fiscal nacional carece de adaptação orgânica e funcional, em conformidade com o disposto na alínea b) do artigo 134.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, tornando-a mais clara para os contribuintes.
+
+Nestes termos, adapta-se à Região Autónoma da Madeira o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Colectivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transacções Intracomunitárias, o Código do Imposto Único de Circulação, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis, o Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, o Estatuto dos Benefícios Fiscais, o Estatuto Fiscal Cooperativo, a Lei Geral Tributária, o Código de Procedimento e de Processo Tributário, o Regime Geral das Infracções Tributárias e o Regime Complementar da Inspecção Tributária e a restante legislação fiscal extravagante dentro dos limites legalmente estabelecidos.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, no artigo 39.º e na alínea ff) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, na redacção e numeração introduzidas pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, e nos termos do [Decreto-Lei n.º 18/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2005-624873), de 18 de Janeiro, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovada a adaptação orgânica e funcional da legislação fiscal nacional à Região Autónoma da Madeira, publicada em anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de Maio de 2008.
+
+**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+
+**Assinado em 26 de Junho de 2008.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+## ANEXO — Adaptação orgânica e funcional da legislação fiscal nacional à Região Autónoma da Madeira
+
+### CAPÍTULO I — Impostos directos
+
+#### SECÇÃO I — Imposto sobre o rendimento das pessoas singulares
+
+###### Artigo 1.º — Adaptação orgânica e funcional à RAM do Código do Imposto sobre o Rendimento das Pessoas Singulares
+
+1 - As referências legais feitas nos artigos 6.º, n.º 5, 28.º, n.os 7 e 12, 29.º, n.º 4, 31.º-A, n.º 3, 52.º, n.º 1, 57.º, n.º 4, 65.º, n.os 1, 2 e 4, 75.º, 76.º, n.º 1, alínea b), 90.º, 108.º, n.os 1 e 2, 110.º, 119.º, n.os 1, alínea c), 2, alínea a), 4, 7, alínea a), 120.º, alínea a), 123.º, 124.º, 125.º, n.º 1, alínea a), 126.º, n.º 2, 127.º, n.º 1, 128.º, n.º 1, 130.º, n.º 1, 132.º, 138.º, n.º 1, 148.º, n.º 3, e 150.º, n.º 1, do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, à Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+2 - A referência legal feita no artigo 65.º, n.º 5, do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, ao director de Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao director regional dos Assuntos Fiscais.
+
+#### SECÇÃO II — Imposto sobre o rendimento das pessoas colectivas
+
+###### Artigo 2.º — Adaptação orgânica e funcional à RAM do Código do Imposto sobre o Rendimento das Pessoas Colectivas
+
+1 - As referências legais feitas nos artigos 8.º, n.º 3, 10.º, n.º 2, 13.º, 47.º, n.º 9, e 69.º, n.os 1 e 6, do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, ao Ministro das Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao secretário regional com a tutela das finanças.
+
+2 - As referências legais feitas nos artigos 10.º, n.º 2, 16.º, n.os 2 e 3, 19.º, n.º 6, 26.º, n.os 2 e 5, 27.º, n.º 2, 28.º, n.º 3, 29.º, n.os 3 e 5, alínea b), 30.º, n.º 2, 33.º, n.º 1, alínea d), 38.º, n.º 2, 40.º, n.os 1, 12 e 14, 42.º, n.º 4, 49.º, n.º 2, 50.º, n.º 2, 53.º, n.º 11, 58.º, n.os 11 e 12, 58.º-A, n.º 6, 59.º, n.º 3, 63.º, n.os 7 e 8, alínea d), 69.º, n.º 1, 82.º, alínea b), 89.º, n.º 1, 89.º-A, n.º 4, 91.º, n.os 1 e 2, 92.º, 95.º, n.º 1, 101.º, 102.º, n.º 1, 109.º, n.º 5, 118.º, n.º 3, 124.º, 126.º, n.os 1 e 3, e 129.º, n.º 4, do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, à Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+3 - A referência legal feita no artigo 128.º-A, n.os 1, 4 e 7, do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, à DGCI, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à Direcção Regional dos Assuntos Fiscais.
+
+4 - As referências legais feitas nos artigos 10.º, n.º 3, alínea b), 15.º, n.º 1, alínea c), alínea 1), 57.º, n.º 1, 115.º, n.º 7, e 128.º-A, n.º 3, do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, ao director-geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao director regional dos Assuntos Fiscais.
+
+5 - As referências legais feitas nos artigos 54.º, 79.º-B, 128.º, n.º 4, e 129.º, n.º 3, do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, ao director de finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao director regional dos Assuntos Fiscais.
+
+6 - As referências legais feitas nos artigos 10.º, n.º 2, e 13.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, ao Diário da República, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao Jornal Oficial da Região Autónoma da Madeira.
+
+### CAPÍTULO II — Impostos indirectos
+
+#### SECÇÃO I — Imposto sobre o valor acrescentado
+
+###### Artigo 3.º — Adaptação orgânica e funcional à RAM do Código do Imposto sobre o Valor Acrescentado
+
+1 - As referências legais feitas nos artigos 22.º, n.os 9 e 10, 23.º, n.º 9, 28.º, n.os 11 e 12, 35.º, n.º 8, e 39.º, n.º 5, do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, ao Ministro das Finanças, em matéria que se insira nas competências e atribuições fiscais da Região Autónoma da Madeira, devem entender-se como sendo feitas ao secretário regional com a tutela das finanças.
+
+2 - As referências legais feitas nos artigos 4.º, n.º 6, 22.º, n.os 7, 8 e 9, 23.º, n.º 2, 26.º, n.º 5, 27.º, n.º 2, 34.º, n.os 2 e 3, 35.º, n.º 12, 40.º, n.os 7 e 8, 47.º, n.º 2, 50.º, n.º 5, 52.º, n.os 5 e 6, 53.º, n.º 3, 56.º, n.º 1, 58.º, n.º 4, 60.º, n.º 4, 64.º, n.º 1, 76.º, 83.º, n.os 1 e 3, 87.º-A, n.º 1, 88.º, n.º 5, e 125.º, n.º 1, do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, à Direcção-Geral dos Impostos, em matéria que se insira nas competências e atribuições fiscais da Região Autónoma da Madeira, devem entender-se como sendo feitas à Direcção Regional dos Assuntos Fiscais.
+
+3 - A referência legal feita no artigo 9.º, n.º 10, do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, ao Sistema Nacional de Educação, em matéria que se insira nas competências e atribuições da Região Autónoma da Madeira, entende-se como sendo feita ao Sistema Regional de Educação.
+
+4 - A referência legal feita no artigo 9.º, n.º 10, do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, aos ministérios competentes, em matéria que se insira nas competências e atribuições da Região Autónoma da Madeira, entende-se como sendo feita às secretarias regionais competentes.
+
+###### Artigo 4.º — Adaptação orgânica e funcional à RAM do regime do IVA nas transacções intracomunitárias
+
+A referência legal feita no artigo 21.º, n.º 1, do regime do IVA nas transacções intracomunitárias, aprovado pelo [Decreto-Lei n.º 290/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1992-621714), de 28 de Dezembro, ao director-geral dos Impostos, em matéria em que se insira nas competências e atribuições fiscais da Região Autónoma da Madeira, deve entender-se como sendo feita ao director regional dos Assuntos Fiscais.
+
+#### SECÇÃO II — Imposto do selo
+
+###### Artigo 5.º — Adaptação orgânica e funcional à RAM do Código do Imposto do Selo
+
+1 - A referência legal feita no artigo 50.º, n.º 1, do Código do Imposto do Selo, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, ao Ministro das Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao secretário regional com a tutela das finanças.
+
+2 - A referência legal feita no artigo 31.º, n.º 1, do Código do Imposto de Selo, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, à Direcção de Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à Direcção Regional dos Assuntos Fiscais.
+
+3 - A referência legal feita no artigo 37.º do Código do Imposto de Selo, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, ao director de finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao director regional dos Assuntos Fiscais.
+
+### CAPÍTULO III — Impostos especiais
+
+#### SECÇÃO I — Imposto único de circulação
+
+###### Artigo 6.º — Adaptação orgânica e funcional à RAM do Código do Imposto Único de Circulação
+
+1 - A referência legal feita no artigo 5.º, n.os 3 e 6, do Código de Imposto Único de Circulação, aprovado pela [Lei n.º 22-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/22-a-2007-226204), de 29 de Junho, ao director-geral dos Impostos, entende-se reportada, no caso da Região Autónoma da Madeira, ao director regional dos Assuntos Fiscais.
+
+2 - As referências legais feitas nos artigos 16.º, n.º 1, 18.º, n.º 2, 19.º e 20.º, n.º 1, do Código de Imposto Único de Circulação, aprovado pela [Lei n.º 22-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/22-a-2007-226204), de 29 de Junho, à Direcção-Geral dos Impostos, em matéria que se insira nas competências e atribuições fiscais da Região Autónoma da Madeira, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+### CAPÍTULO IV — Impostos locais
+
+#### SECÇÃO I — Imposto municipal sobre imóveis
+
+###### Artigo 7.º — Adaptação orgânica e funcional à RAM do Código do Imposto Municipal sobre Imóveis
+
+1 - A referência legal feita no artigo 109.º n.º 1 do Código do Imposto Municipal sobre Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, ao Ministro das Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao secretário regional com a tutela das finanças.
+
+2 - As referências legais feitas nos artigos 20.º, 95.º, n.os 1 e 2, 97.º, n.º 1, 98.º, n.º 3, 103.º, 105.º, n.º 2, 107.º, n.º 1, e 112.º, n.º 11, do Código do Imposto Municipal sobre Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, à Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+3 - As referências legais feitas nos artigos 50.º, n.º 1, alínea a), 56.º, n.os 1 e 2, 65.º, n.º 1, 67.º, 71.º, n.º 1, 96.º e 109.º do Código do Imposto Municipal sobre Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, ao director-geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao director regional dos Assuntos Fiscais.
+
+4 - A referência legal feita no artigo 133.º, n.º 2, do Código do Imposto Municipal sobre Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, aos serviços regionais, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à Direcção Regional dos Assuntos Fiscais.
+
+#### SECÇÃO II — Imposto municipal sobre as transmissões onerosas de imóveis
+
+###### Artigo 8.º — Adaptação orgânica e funcional à RAM do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+
+1 - As referências legais feita nos artigos 10.º, n.º 6, alínea b), 11.º, n.º 1, e 47.º, n.º 1, do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, ao Ministro das Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao secretário regional com a tutela das finanças.
+
+2 - As referências legais feitas nos artigos 10.º, n.os 4, 5, 6, alínea b), e 7, 11.º, n.º 8, 49.º, n.º 4, 51.º, n.º 2, 54.º, n.os 1 e 2, e 55.º, n.º 5, do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, à Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+3 - A referência legal feita no artigo 10.º, n.º 6, alínea d), do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, ao director-geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao director regional dos Assuntos Fiscais.
+
+### CAPÍTULO V — Benefícios fiscais
+
+#### SECÇÃO I — Estatuto dos Benefícios Fiscais
+
+###### Artigo 9.º — Adaptação orgânica e funcional à RAM do Estatuto dos Benefícios Fiscais
+
+1 - As referências legais feitas nos artigos 12.º, n.º 3, 13.º, n.º 3, 27.º, 33.º-A, n.º 6, 35.º, n.º 4, 36.º, n.º 3, 37.º, n.º 3, 40.º, n.º 3, 55.º, n.º 1, 56.º-B, n.os 6 e 10, 56.º-D, n.º 9, e 59.º, n.º 2, do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, ao Ministro das Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao secretário regional com a tutela das finanças.
+
+2 - As referências legais feitas nos artigos 6.º, 27.º, 55.º, n.os 1 e 2, 56.º-B, n.os 6 e 9, e 56.º-H, n.º 1, alínea c), do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, à Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+3 - As referências legais feitas nos artigos 40.º, n.º 6, e 56.º-A, n.º 1, do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, ao director-geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao director regional dos Assuntos Fiscais.
+
+4 - As referências legais feitas nos artigos 55.º, n.º 2, e 56.º-B, n.º 8, do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, ao ministério da tutela, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à secretaria regional da tutela.
+
+5 - A referência legal feita no artigo 56.º-D, n.º 6, alínea g), do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, ao ministério competente, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à secretaria regional competente.
+
+6 - A referência legal feita no artigo 56.º-D, n.os 9 e 10, do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, ao ministro da tutela, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao secretário regional da tutela.
+
+7 - A referência legal feita no artigo 59.º, n.º 2, do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, com a nova redacção dada pela [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), de 31 de Dezembro, ao Ministro da Administração Pública, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao órgão do Governo Regional da RAM com a tutela da Administração Pública.
+
+###### Artigo 10.º — Adaptação orgânica e funcional à RAM do Estatuto Fiscal Cooperativo
+
+A referência legal feita no artigo 5.º do Estatuto Fiscal Cooperativo, aprovado pela [Lei n.º 85/98](https://diariodarepublica.pt/dr/detalhe/lei/85-1998-219165), de 16 de Dezembro, à Direcção-Geral dos Impostos, em matéria em que se insira nas competências e atribuições fiscais da Região Autónoma da Madeira, deve entender-se como sendo feita à Direcção Regional dos Assuntos Fiscais.
+
+### CAPÍTULO VI — Procedimento, processo e infracções tributárias
+
+#### SECÇÃO I — Lei geral tributária
+
+###### Artigo 11.º — Adaptação orgânica e funcional à RAM da lei geral tributária
+
+1 - As referências legais feitas nos artigos 1.º, n.º 3, e 91.º, n.º 11, da lei geral tributária, aprovada pelo [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de Dezembro, ao Ministro das Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao secretário regional com a tutela das finanças.
+
+2 - As referências legais feitas nos artigos 1.º, n.º 3, e 77.º, n.º 3, alínea c), a Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+3 - As referências legais feitas nos artigos 63.º, n.º 6, alíneas a) e c), 63.º-A, n.º 3, e 63.º-B, n.º 4, ao director-geral de Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao director regional dos Assuntos Fiscais.
+
+4 - A referência legal feita no artigo 89.º-A, n.º 6, ao director de finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à Direcção Regional dos Assuntos Fiscais.
+
+#### SECÇÃO II — Procedimento e processo tributário
+
+###### Artigo 12.º — Adaptação orgânica e funcional à RAM do Código de Procedimento e de Processo Tributário
+
+1 - A referência legal feita no artigo 6.º, n.º 1, do [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, que aprovou o Código de Procedimento e de Processo Tributário, às repartições de finanças e tesourarias da Fazenda Pública da Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada aos serviços de finanças e tesourarias da Fazenda Pública da Direcção Regional dos Assuntos Fiscais.
+
+2 - A referência legal feita no artigo 6.º, n.º 3, do [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, que aprovou o Código de Procedimento e de Processo Tributário, às direcções de finanças da DGCI, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à Direcção Regional dos Assuntos Fiscais.
+
+3 - As referências legais feitas nos artigos 87.º, n.º 3, 89.º, n.º 7, 90.º, n.º 5, 201.º, n.os 1, 3, 4, 7 e 15, e 202.º, n.os 1, 2 e 3, do Código de Procedimento e de Processo Tributário, aprovado pelo [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, ao ministro, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao secretário regional com a tutela das finanças.
+
+4 - A referência legal feita no artigo 146.º-B, n.º 4, do Código de Procedimento e de Processo Tributário, aprovado pelo [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, ao director-geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à director regional dos Assuntos Fiscais.
+
+5 - As referências legais feitas nos artigos 201.º, n.º 4, e 255.º, alínea d), do Código de Procedimento e de Processo Tributário, aprovado pelo [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, à Direcção-Geral do Património, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional do Património.
+
+6 - A referência legal feita no artigo 201.º, n.º 4, do Código de Procedimento e de Processo Tributário, aprovado pelo [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, à Direcção-Geral do Tesouro, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à Direcção Regional de Finanças.
+
+7 - A referência legal feita no artigo 90.º, n.º 5, do Código de Procedimento e de Processo Tributário, aprovado pelo [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, ao Ministro de que dependa o serviço devedor, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada à secretaria de que dependa o serviço devedor.
+
+#### SECÇÃO III — Infracções tributárias
+
+###### Artigo 13.º — Adaptação orgânica e funcional à RAM do Regime Geral das Infracções Tributárias
+
+1 - As referências legais feitas nos artigos 8.º, n.º 3, e 59.º, alíneas a), b), j) e l), do Regime Geral das Infracções Tributárias, aprovado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho, à Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+2 - A referência legal feita no artigo 90.º do Regime Geral das Infracções Tributárias, aprovado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho, ao director-geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao director regional dos Assuntos Fiscais.
+
+3 - As referências legais feitas nos artigos 41.º, n.º 1, alínea b), e 52.º, alínea b), do Regime Geral das Infracções Tributárias, aprovado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho, ao director de Finanças, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+#### SECÇÃO IV — Outras disposições
+
+###### Artigo 14.º — Adaptação orgânica e funcional à RAM do Regime Complementar da Inspecção Tributária
+
+1 - As referências legais feitas nos artigos 19.º, alínea b), 20.º, n.º 1, 30.º, n.º 1, 44.º, n.º 2, e 46.º, n.º 2, do Regime Complementar da Inspecção Tributária, aprovado pelo [Decreto-Lei n.º 413/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1998-285557), de 31 de Dezembro, alterado pela [Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/lei/50-2005-245332), de 30 de Agosto, à Direcção-Geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas à Direcção Regional dos Assuntos Fiscais.
+
+2 - As referências legais feitas nos artigos 18.º, n.º 2, 19.º, alínea c), 49.º, n.º 2, e 64.º, n.º 1, do Regime Complementar da Inspecção Tributária, aprovado pelo [Decreto-Lei n.º 413/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1998-285557), de 31 de Dezembro, ao director-geral dos Impostos, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas ao director regional dos Assuntos Fiscais.
+
+3 - A referência legal feita no artigo 18.º, n.º 1, do Regime Complementar da Inspecção Tributária, aprovado pelo [Decreto-Lei n.º 413/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1998-285557), de 31 de Dezembro, à Direcção de Serviços de Planeamento e Coordenação da Inspecção Tributária, em matéria que se insira nas atribuições e competências fiscais da RAM, entende-se reportada ao Gabinete de Estudos, Planeamento e Controlo de Gestão, da Direcção Regional dos Assuntos Fiscais.
+
+### CAPÍTULO VII — Disposições gerais
+
+###### Artigo 15.º — Cooperação e colaboração recíproca da DGCI e da DRAF
+
+A adaptação legislativa operada pelo presente decreto legislativo regional é feita sem prejuízo do disposto no artigo 46.º no [Decreto Regulamentar Regional n.º 29-A/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-a-2005-692577), de 31 de Agosto, diploma que aprovou a orgânica da Direcção Regional dos Assuntos Fiscais.
+
+###### Artigo 16.º — Referências legais
+
+1 - As referências legais ao Ministro das Finanças ou ao director-geral dos Impostos feitas na legislação em vigor e não expressamente referidas nos artigos anteriores, em matéria que se insira nas atribuições e competências fiscais da Região Autónoma da Madeira, entendem-se reportadas, respectivamente, ao secretário regional com a tutela das finanças e ao director regional dos Assuntos Fiscais.
+
+2 - As referências legais feitas no artigo 54.º da [Lei n.º 13/2002](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), de 19 de Fevereiro, com a redacção dada pela [Lei n.º 107-D/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-d-2003-673600), de 31 de Dezembro, ao director-geral dos Impostos e aos respectivos representantes legais, em matéria que se insira nas atribuições e competências fiscais da RAM, entendem-se reportadas respectivamente ao director regional dos Assuntos Fiscais e aos representantes por este designados.

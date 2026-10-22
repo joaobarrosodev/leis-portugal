@@ -1,0 +1,435 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:564850:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1990-115344117",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/41-1990-564850",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115348596",
+    "115348597",
+    "115348598",
+    "115348599",
+    "115348600",
+    "115348601",
+    "115348602",
+    "115348603",
+    "115348604",
+    "115348605",
+    "115348606",
+    "115348607",
+    "115348608",
+    "115348609",
+    "115348610",
+    "115348611",
+    "115348612",
+    "115348613",
+    "115348614",
+    "115348615"
+   ]
+  },
+  {
+   "date": "1991-07-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:649127:por",
+     "title": "Decreto Regulamentar n.º 36/91",
+     "published": "1991-07-01",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/36-1991-649127"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "115348596",
+    "115348597",
+    "115348598",
+    "115348620",
+    "115348600",
+    "115348601",
+    "115348602",
+    "115348603",
+    "115348604",
+    "115348605",
+    "115348606",
+    "115348607",
+    "115348608",
+    "115348609",
+    "115348610",
+    "115348611",
+    "115348612",
+    "115348613",
+    "115348614",
+    "115348615",
+    "115348616"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:643282:por",
+     "title": "Decreto-Lei n.º 503/99",
+     "published": "1999-11-20",
+     "dre_path": "/dr/detalhe/decreto-lei/503-1999-643282",
+     "date": "1999-05-01"
+    }
+   ]
+  },
+  {
+   "date": "2008-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629383:por",
+     "title": "Decreto-Lei n.º 377/2007",
+     "published": "2007-11-09",
+     "dre_path": "/dr/detalhe/decreto-lei/377-2007-629383"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "115348596",
+    "115348597",
+    "115348598",
+    "115348622",
+    "115348600",
+    "115348601",
+    "115348602",
+    "115348621",
+    "115348623",
+    "115348605",
+    "115348606",
+    "115348607",
+    "115348608",
+    "115348609",
+    "115348610",
+    "115348611",
+    "115348612",
+    "115348613",
+    "115348614",
+    "115348615",
+    "115348616"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "115348596",
+    "115348597",
+    "115348598",
+    "115348624",
+    "115348600",
+    "115348601",
+    "115348602",
+    "115348621",
+    "115348623",
+    "115348605",
+    "115348606",
+    "115348607",
+    "115348608",
+    "115348609",
+    "115348610",
+    "115348611",
+    "115348612",
+    "115348613",
+    "115348614",
+    "115348615",
+    "115348616"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "115348596",
+    "115348597",
+    "115348598",
+    "207919278",
+    "115348600",
+    "115348601",
+    "115348602",
+    "115348621",
+    "115348623",
+    "115348605",
+    "115348606",
+    "115348607",
+    "115348608",
+    "115348609",
+    "115348610",
+    "115348611",
+    "115348612",
+    "115348613",
+    "115348614",
+    "115348615",
+    "115348616"
+   ]
+  }
+ ],
+ "fragments": {
+  "115348596": {
+   "fragment_id": "115344118",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 41/90\n\nde 29 de Novembro\n\nO Decreto-Lei n.º 497/88, de 30 de Dezembro, estabelece o regime de férias, faltas e licenças dos funcionários e agentes da Administração Pública, disciplinando, nomeadamente, o instituto da verificação domiciliária da doença, complementado pela intervenção de junta médica, a qual funciona na dependência da ADSE.\n\nA primeira inovação decorrente do presente diploma reporta-e à composição e ao funcionamento da junta médica. Nesse sentido, entende-se adequado fixar a dependência orgânica e funcional da junta no dirigente máximo da ADSE, promovendo, paralelamente, o funcionamento de secções de âmbito regional, bem como a eventual criação de secções de âmbito geográfico mais restrito, sempre que a experiência o aconselhe e as disponibilidades da Administração o permitam.\n\nValora-se, assim, o elemento desconcentrado da Administração, sem prejuízo de a ADSE coordenar e superintender a actuação da junta.\n\nQuanto à competência da junta médica, ela foi delineada de modo a permitir uma intervenção tão plena e actuante quanto o diploma habilitante o permite, no que concerne à apreciação da capacidade ou aptidão dos funcionários e agentes da Administração para o exercício de funções públicas.\n\nPor outro lado, face à extinção da junta médica existente na Secretaria-Geral do Ministério das Finanças, houve ainda que consagrar no presente diploma a transferência para a ADSE das atribuições que, no âmbito da realização de inspecções e juntas médicas em matéria de acidentes em serviço, competem, no Município de Lisboa, aos médicos que exercem funções naquela Secretaria-Geral e às juntas médicas dos diferentes ministérios.\n\nPor fim, e tendo presente objectivos de economia de recursos, de simplificação, desburocratização, celeridade, eficiência de procedimentos e de colaboração entre as diversas entidades processadoras de vencimentos de funcionários e agentes, é prevista a celebração de protocolos que permitam fazer submeter à junta médica da ADSE funcionários e agentes das Regiões Autónomas dos Açores e da Madeira e do Território de Macau que se encontrem doentes na área geográfica de intervenção das suas secções.\n\nOuvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira;\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 46.º do Decreto-Lei n.º 497/88, de 30 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115348597": {
+   "fragment_id": "115344119",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - As disposições constantes no presente diploma aplicam-se aos funcionários e agentes da administração central, regional e local, incluindo os institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.\n\n2 - Mediante protocolos a celebrar com as entidades interessadas e nos termos neles previstos poderão ser submetidos à junta médica da ADSE funcionários e agentes das Regiões Autónomas dos Açores e da Madeira e do Território de Macau que se encontrem doentes na área geográfica das suas secções."
+  },
+  "115348598": {
+   "fragment_id": "115344120",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O presente diploma regulamenta a composição, a competência e o funcionamento da junta médica da ADSE.\n\n2 - As juntas médicas previstas no n.º 3 do artigo 46.º do Decreto-Lei n.º 497/88, de 30 de Dezembro, regem-se, na parte aplicável, pelo disposto no presente diploma."
+  },
+  "115348599": {
+   "fragment_id": "115344121",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - A junta médica funciona na dependência do director-geral da ADSE.\n\n2 - A junta médica é constituída por secções de âmbito regional, funcionando em sessões cuja frequência é determinada por despacho do director-geral da ADSE.\n\n3 - Cada secção é constituída, sem prejuízo do disposto nos números seguintes, por um representante da ADSE, que presidirá, e por dois médicos.\n\n4 - O representante da ADSE nas secções será um dos médicos do respectivo quadro, a designar pelo director-geral, ou o funcionário mais categorizado dos serviços dependentes do representante do Governo.\n\n5 - Enquanto não forem implementadas as regiões administrativas, os representantes da ADSE nas secções do Norte, Centro e Sul serão, respectivamente, os secretários dos Governos Civis do Porto, de Coimbra e de Évora."
+  },
+  "115348600": {
+   "fragment_id": "115344122",
+   "type": 11,
+   "heading": "Artigo 4.º — Participação de especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Participação de especialidades\n\n1 - Sempre que pela análise de história clínica do doente se reconheça aconselhável o parecer de um médico de determinada especialidade, poderá ser designado para integrar a junta um médico dessa especialidade.\n\n2 - Sempre que, nos termos da legislação em vigor, o funcionário ou agente indicar o seu médico assistente para fazer parte da junta médica, esta será integrada também pelo referido clínico."
+  },
+  "115348601": {
+   "fragment_id": "115344123",
+   "type": 11,
+   "heading": "Artigo 5.º — Secções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secções\n\n1 - As áreas de jurisdição de cada secção da junta médica corresponderão às regiões administrativas e funcionarão:\n\na) Na Região de Lisboa, em instalações dependentes da ADSE;\n\nb) Nas restantes regiões, em instalações dependentes do representante do Governo.\n\n2 - Enquanto não forem implementadas as regiões administrativas, são criadas, desde já, as seguintes secções:\n\na) Do Norte, com sede no Porto, abrangendo os distritos de Viana do Castelo, Braga, Porto, Vila Real e Bragança, a funcionar em instalações dependentes do Governo Civil do Porto;\n\nb) Do Centro, com sede em Coimbra, abrangendo os distritos de Aveiro, Coimbra, Viseu, Guarda e Leiria, a funcionar em instalações dependentes do Governo Civil de Coimbra;\n\nc) De Lisboa, com sede em Lisboa, abrangendo os distritos de Lisboa, Castelo Branco, Santarém e Setúbal, a funcionar em instalações dependentes da ADSE;\n\nd) Do sul, com sede em Évora, abrangendo os distritos de Beja, Évora, Portalegre e Faro, a funcionar em instalações dependentes do Governo Civil de Évora.\n\n3 - Sempre que a experiência o aconselhar e as disponibilidades da Administração o permitam, poderão, mediante despacho do Ministro das Finanças, ser criadas secções de âmbito geográfico mais restrito."
+  },
+  "115348602": {
+   "fragment_id": "115344124",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência\n\nCompete à junta médica da ADSE, quando solicitada pelas entidades competentes:\n\na) Pronunciar-se sobre o estado de doença do funcionário ou agente cuja ausência ao serviço atingiu 60 dias consecutivos de faltas, mesmo nos casos em que haja transição de um ano civil para outro;\n\nb) Pronunciar-se sobre a situação de doença que impossibilite o funcionário ou agente de se apresentar ao serviço;\n\nc) Pronunciar-se sobre a situação dos funcionários e agentes que lhe sejam submetidos, nos termos do disposto no artigo 37.º do Decreto-Lei n.º 497/88, de 30 de Dezembro;\n\nd) Determinar a duração previsível da doença nos casos previstos nas alíneas anteriores;\n\ne) Avaliar as capacidades do funcionário ou agente que se revele incapaz para o exercício das suas funções mas apto para o desempenho de outras;\n\nf) Determinar a observação clínica do funcionário ou agente ou a realização de exames complementares de diagnóstico por serviços oficiais especializados;\n\ng) Pronunciar-se sobre situações de doença que devam ser objecto de deliberação pela junta médica da Caixa Geral de Aposentações."
+  },
+  "115348603": {
+   "fragment_id": "115344125",
+   "type": 11,
+   "heading": "Artigo 7.º — Acidentes em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acidentes em serviço\n\nSão cometidas à ADSE as atribuições que, no âmbito da realização de inspecções e juntas médicas em matéria de acidentes em serviço, competem, no Município de Lisboa, aos médicos da Secretaria-Geral do Ministério das Finanças e às juntas médicas dos diferentes ministérios."
+  },
+  "115348604": {
+   "fragment_id": "115344126",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - O presidente da junta médica providenciará para que seja assegurado o seu regular funcionamento, promovendo com a devida oportunidade quer a nomeação de suplentes quer a preparação dos processos e outro expediente a examinar.\n\n2 - As sessões da junta são reservadas e os seus pareceres tomados por unanimidade ou maioria de votos, só tendo validade quando estiverem presentes todos os seus membros.\n\n3 - Nas situações referidas no artigo 4.º o presidente tem voto de qualidade em caso de empate na votação."
+  },
+  "115348605": {
+   "fragment_id": "115344127",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação à junta médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação à junta médica\n\n1 - Os serviços devem comunicar à secção da junta médica que funciona na respectiva área quais os funcionários e agentes que lhe deverão ser presentes e informar estes de que deverão ser portadores de relatório circunstanciado e actualizado da sua situação clínica, devidamente documentado com elementos auxiliares de diagnóstico com interesse para apreciação dessa situação.\n\n2 - As secções da junta médica, em função dos pedidos, farão de imediato a convocação dos funcionários e agentes através de carta registada com aviso de recepção e com a antecedência mínima de cinco dias úteis relativamente à data de realização da junta médica."
+  },
+  "115348606": {
+   "fragment_id": "115344128",
+   "type": 11,
+   "heading": "Artigo 10.º — Falta de comparência à junta médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Falta de comparência à junta médica\n\n1 - O funcionário ou agente impossibilitado, por motivo de doença, de comparecer no local para onde tiver sido convocado deve comunicar o facto à secção da junta médica que o haja convocado, e será observado no seu domicílio ou no local onde tiver indicado estar doente por um dos médicos membros da junta, que elaborará relatório circunstanciado para ser presente à junta médica, que sobre ele deliberará.\n\n2 - Qualquer outro impedimento deve ser comunicado e comprovado por qualquer meio admitido em direito.\n\n3 - A não aceitação da justificação da falta de comparência à junta médica implica a injustificação das faltas dadas."
+  },
+  "115348607": {
+   "fragment_id": "115344129",
+   "type": 11,
+   "heading": "Artigo 11.º — Deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deliberação\n\n1 - A junta médica fundamenta os seus pareceres na observação clínica e no exame dos processos.\n\n2 - A junta médica deve elaborar parecer escrito fundamentado em relação a cada funcionário ou agente que lhe seja presente, do mesmo devendo constar, conforme a situação:\n\na) Se o funcionário ou agente se encontra apto a regressar ao serviço;\n\nb) A impossibilidade de regressar ao serviço e a data em que deve apresentar-se de novo a exame;\n\nc) Se o funcionário ou agente necessita de exames clínicos complementares;\n\nd) Se a situação do funcionário ou agente impõe que lhe sejam atribuídos serviços moderados e em que condições devem ser prestados;\n\ne) Se o funcionário ou agente se encontra incapaz para o exercício das suas funções mas apto para o desempenho de outras;\n\nf) Se o funcionário ou agente, para efeitos do disposto no artigo 37.º do Decreto-Lei n.º 497/88, de 30 de Dezembro, se encontra física e psicofisiologicamente apto para o exercício de funções na Administração Pública;\n\ng) A eventual incapacidade permanente para o serviço, com recomendação ao respectivo serviço sugerindo a apresentação à junta médica da Caixa Geral de Aposentações.\n\n3 - Os membros que discordarem da deliberação votada assinarão «vencidos», devendo justificar o seu voto por meio de declaração escrita fundamentada."
+  },
+  "115348608": {
+   "fragment_id": "115344130",
+   "type": 11,
+   "heading": "Artigo 12.º — Situações de deficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Situações de deficientes\n\nA junta médica, ao pronunciar-se sobre a situação de funcionários ou agentes com deficiência que, no decurso das suas funções, vêem a sua deficiência agravar-se, ou de funcionários ou agentes que, por factores supervenientes, ficam deficientes, deverá sempre ter em consideração as especificidades do processo de reconversão ou reclassificação profissional inerentes às situações de deficiência agravada ou tardia."
+  },
+  "115348609": {
+   "fragment_id": "115344131",
+   "type": 11,
+   "heading": "Artigo 13.º — Comunicação de deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comunicação de deliberação\n\nO parecer da junta médica deve ser comunicado ao funcionário ou agente no próprio dia e enviado de imediato ao respectivo serviço."
+  },
+  "115348610": {
+   "fragment_id": "115344132",
+   "type": 11,
+   "heading": "Artigo 14.º — Enxames requisitados pela junta médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Enxames requisitados pela junta médica\n\nOs serviços de saúde, quando solicitados pela ADSE, devem proceder à observação clínica e à realização dos exames requisitados pela junta médica, sem prejuízo do funcionamento normal dos serviços."
+  },
+  "115348611": {
+   "fragment_id": "115344133",
+   "type": 11,
+   "heading": "Artigo 15.º — Médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Médicos\n\n1 - A junta médica pode integrar médicos da ADSE ou médicos avençados.\n\n2 - Por despacho do Ministro das Finanças será estabelecido o limite remuneratório máximo a auferir pelos médicos avençados referidos no número anterior.\n\n3 - Os médicos avençados serão compensados das despesas de deslocação que efectuarem para realização de inspecções domiciliárias, quando deslocados para fora do município em cuja área esteja sediada a secção da junta médica a que se encontrem afectos, sendo ainda abonados de ajudas de custo equivalentes às atribuídas aos funcionários e agentes da Administração Pública com a categoria de técnico superior principal."
+  },
+  "115348612": {
+   "fragment_id": "115344134",
+   "type": 11,
+   "heading": "Artigo 16.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apoio administrativo\n\n1 - O apoio administrativo das secções, com exclusão da sediada em Lisboa, será assegurado por um funcionário dos serviços dependentes do representante do Governo na respectiva região administrativa ou por um funcionário do Governo Civil.\n\n2 - Ao funcionário referido no número anterior será atribuída uma gratificação de montante a fixar por despacho do Ministro das Finanças, automaticamente actualizável em função do aumento médio da tabela geral da função pública."
+  },
+  "115348613": {
+   "fragment_id": "115344135",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\n1 - Os encargos com o funcionamento da junta médica, incluindo os decorrentes do disposto nos artigos 4.º e 5.º, na alínea f) do artigo 6.º, no artigo 7.º, no n.º 1 do artigo 10.º e nos artigos 14.º, 15.º e 16.º do presente diploma, são suportados pelo orçamento da ADSE.\n\n2 - Os encargos decorrentes da participação na junta médica do médico assistente pelo funcionário ou agente são por este suportados.\n\n3 - Os encargos decorrentes da apresentação do funcionário ou agente à junta médica por iniciativa da Administração serão suportados pelo serviço de que aquele depende, com base na tabela de ajudas de custo em vigor à data da deslocação, sempre que esta se verifique para fora do município em cuja área está situado o respectivo local de trabalho.\n\n4 - Os protocolos referidos no n.º 2 do artigo 1.º estabelecerão as normas necessárias à efectivação do reembolso, pelas entidades interessadas, dos encargos suportados pela ADSE decorrentes da realização de juntas médicas relativamente a funcionários e agentes que lhes sejam submetidos."
+  },
+  "115348614": {
+   "fragment_id": "115344136",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposições finais e transitórias\n\n1 - Os médicos que exercem funções na Secretaria-Geral do Ministério das Finanças em regime de comissão de serviço amovível poderão ser contratados pela ADSE, mediante autorização do Ministro das Finanças.\n\n2 - Até à extinção da junta médica existente na Secretaria-Geral do Ministério das Finanças, esta ultimará os processos em curso e procederá à transferência dos seus arquivos para a ADSE."
+  },
+  "115348615": {
+   "fragment_id": "115344137",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "115348620": {
+   "fragment_id": "115344121",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "1991-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - A junta médica funciona na dependência do director-geral da ADSE.\n\n2 - A junta médica é constituída por secções de âmbito regional, funcionando em sessões cuja frequência é determinada por despacho do director-geral da ADSE.\n\n3 - Cada secção é constituída, sem prejuízo do disposto nos números seguintes, por um representante da ADSE, que presidirá, e por dois médicos.\n\n4 - O representante da ADSE nas secções será um dos médicos do respectivo quadro, a designar pelo director-geral, ou o funcionário mais categorizado dos serviços dependentes do representante do Governo.\n\n5 - Enquanto não forem implementadas as regiões administrativas, os representantes da ADSE nas secções do Norte, Centro e Sul serão, respectivamente, os secretários dos Governos Civis do Porto, de Coimbra e de Évora.\n\n6 - Os representantes da ADSE nas secções têm direito, pelo exercício das respectivas funções, a uma remuneração igual a 50% ou 100% do limite máximo a que se refere o n.º 2 do artigo 15.º, consoante presidirem, respectivamente, a uma ou mais sessões semanais.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+  },
+  "115348616": {
+   "fragment_id": "115344138",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 24 de Setembro de 1990. - Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.\n\nPromulgado em 10 de Novembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Novembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "115348622": {
+   "fragment_id": "115344121",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2008-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - A junta médica funciona na dependência do director-geral da ADSE.\n\n2 - A junta médica é constituída por secções de âmbito regional, funcionando em sessões cuja frequência é determinada por despacho do director-geral da ADSE.\n\n3 - Cada secção é composta por três médicos.\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n6 - Os representantes da ADSE nas secções têm direito, pelo exercício das respectivas funções, a uma remuneração igual a 50% ou 100% do limite máximo a que se refere o n.º 2 do artigo 15.º, consoante presidirem, respectivamente, a uma ou mais sessões semanais.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+  },
+  "115348621": {
+   "fragment_id": "115344125",
+   "type": 11,
+   "heading": "Artigo 7.º — Acidentes em serviço",
+   "in_force_from": "1999-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 1999-05-01"
+   ],
+   "markdown": "###### Artigo 7.º — Acidentes em serviço\n\nSão cometidas à ADSE as atribuições que, no âmbito da realização de inspecções e juntas médicas em matéria de acidentes em serviço, competem, no Município de Lisboa, aos médicos da Secretaria-Geral do Ministério das Finanças e às juntas médicas dos diferentes ministérios.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 1999-05-01"
+  },
+  "115348623": {
+   "fragment_id": "115344126",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": "2008-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - (Revogado).\n\n2 - (Revogado).\n\n3 - Nas situações referidas no artigo 4.º o presidente tem voto de qualidade em caso de empate na votação.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08"
+  },
+  "115348624": {
+   "fragment_id": "115344121",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - A junta médica funciona na dependência do director-geral da ADSE.\n\n2 - A junta médica é constituída por secções de âmbito regional, funcionando em sessões cuja frequência é determinada por despacho do director-geral da ADSE.\n\n3 - Cada secção é constituída por dois médicos da ADSE, um dos quais preside, a qual pode ainda ser integrada por um médico da escolha do trabalhador.\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n6 - Os representantes da ADSE nas secções têm direito, pelo exercício das respectivas funções, a uma remuneração igual a 50% ou 100% do limite máximo a que se refere o n.º 2 do artigo 15.º, consoante presidirem, respectivamente, a uma ou mais sessões semanais.\n\n> Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+  },
+  "207919278": {
+   "fragment_id": "115344121",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 192.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - A junta médica funciona na dependência do director-geral da ADSE.\n\n2 - A junta médica é constituída por secções de âmbito regional, funcionando em sessões cuja frequência é determinada por despacho do director-geral da ADSE.\n\n3 - Cada secção é constituída por dois médicos, um dos quais preside, podendo o trabalhador, no caso previsto no artigo 26.º da Lei n.º 35/2014, de 20 de junho, indicar um médico por si escolhido para integrar a junta médica.\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n6 - Os representantes da ADSE nas secções têm direito, pelo exercício das respectivas funções, a uma remuneração igual a 50% ou 100% do limite máximo a que se refere o n.º 2 do artigo 15.º, consoante presidirem, respectivamente, a uma ou mais sessões semanais.\n\n7 - Se o trabalhador não indicar à ADSE o médico da sua escolha no prazo de 10 dias úteis contados da notificação da data da realização da junta médica, esta é unicamente composta pelos dois médicos indicados pela ADSE.\n\n8 - Compete ao sinistrado assegurar a comparência à junta médica do médico por si indicado, não constituindo a falta deste motivo para adiamento da junta médica, salvo em casos excecionais devidamente comprovados.\n\n> Alterado pelo/a Artigo 192.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), em vigor a partir de 2008-01-08\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 36/91 - Diário da República n.º 148/1991, Série I-B de 1991-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1991-649127), em vigor a partir de 1991-07-06"
+  }
+ }
+}

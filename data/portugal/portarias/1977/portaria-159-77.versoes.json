@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140531:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1977-919825990",
+ "dre_path": "/dr/detalhe/portaria/159-1977-140531",
+ "source_lastmod": "2025-05-28",
+ "versions": [
+  {
+   "date": "1977-03-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919708845"
+   ]
+  },
+  {
+   "date": "1977-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:252806:por",
+     "title": "Declaração",
+     "published": "1977-05-25",
+     "dre_path": "/dr/detalhe/declaracao/1977-252806"
+    }
+   ],
+   "changes": [
+    "Retifica 5.º"
+   ],
+   "fragments": [
+    "919708845",
+    "919708846",
+    "919708847",
+    "919708848",
+    "919708849",
+    "919708858",
+    "919708851",
+    "919708852",
+    "919708853",
+    "919708854",
+    "919708855"
+   ]
+  }
+ ],
+ "fragments": {
+  "919708845": {
+   "fragment_id": "919825991",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 159/77\n\nde 24 de MarçoConsiderando a necessidade de coordenar a prestação de serviços médicos de urgência e intensificar o ensino das modernas técnicas de reanimação;\n\nConsiderando a real possibilidade de promover desde já, no âmbito da Comissão Inter-Hospitalar do Porto, uma experiência pioneira nesse sentido, tendo em vista a integração de um plano global de emergência médica para a Região Norte:\n\nManda o Governo da República Portuguesa, em execução do artigo 84.º, n.º 1, do Regulamento Geral dos Serviços do Ministério da Saúde e Assistência, aprovado pelo Decreto n.º 351/72, de 8 de Setembro, pelos Ministros da Defesa e dos Assuntos Sociais, o seguinte:\n\n> Nota: [1.º, Portaria n.º 730/81 - Diário da República n.º 197/1981, Série I de 1981-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/730-1981-577926) A Portaria n.º 730/81, de 28 de agosto extingue o Serviço de Assistência Médica de Urgência e Reanimação (SAMUR), criado na Comissão Inter-Hospitalar do Porto ao abrigo da presente Portaria."
+  },
+  "919708846": {
+   "fragment_id": "919825992",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ criado na Comissão Inter-Hospitalar do Porto o Serviço de Assistência Médica de Urgência e Reanimação (SAMUR), a integrar futuramente na Administração Distrital dos Serviços de Saúde do Porto."
+  },
+  "919708847": {
+   "fragment_id": "919825993",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO SAMUR é dotado de autonomia técnica e fica no regime de instalação previsto nos artigos 79.º e seguintes do Decreto-Lei n.º 413/71, de 27 de Setembro."
+  },
+  "919708848": {
+   "fragment_id": "919825994",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nAo SAMUR, que se integrará no sistema de emergência médica da Região Norte, compete, em especial:\n\na) Coordenar e colaborar num sistema de emergência médica nas suas fases de alerta, socorro e transporte para a Região do Porto;\n\nb) Apoiar e colaborar no sistema de transporte inter-hospitalar da Região Norte;\n\nc) Apoiar os serviços de emergência da Região Norte através de um sector de informação médica permanente e especializado;\n\nd) Fomentar o ensino do socorrismo com vista à criação de técnicos auxiliares de emergência médica;\n\ne) Formar o pessoal médico e de enfermagem necessário ao SAMUR no âmbito das carreiras e funções hospitalares;\n\nf) Promover a formação do socorrismo básico de todo o pessoal hospitalar."
+  },
+  "919708849": {
+   "fragment_id": "919825995",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nNo exercício das competências indicadas no número anterior serão celebrados acordos entre o SAMUR, o Serviço Nacional de Ambulâncias e a Escola de Socorrismo da Cruz Vermelha Portuguesa, respectivamente no que respeita aos aspectos de emergência médica pré-hospitalar e ao ensino do socorrismo."
+  },
+  "919708858": {
+   "fragment_id": "919825996",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "1977-05-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 121/1977, Série I de 1977-05-25](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-252806), em vigor a partir de 1977-05-25"
+   ],
+   "markdown": "###### 5.º\n\nDurante o período de instalação o SAMUR é dirigido por uma comissão instaladora composta por cinco membros, a nomear, nos termos da lei, pelo Secretário de Estado da Saúde.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 121/1977, Série I de 1977-05-25](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-252806), em vigor a partir de 1977-05-25"
+  },
+  "919708851": {
+   "fragment_id": "919825997",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nA comissão instaladora submeterá a despacho do Secretário de Estado da Saúde os projectos de regulamentos necessários ao bom funcionamento do SAMUR no prazo de noventa dias."
+  },
+  "919708852": {
+   "fragment_id": "919825998",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nO financiamento será efectuado através da Comissão Inter-Hospitalar do Porto, que, para o efeito, receberá as dotações necessárias, podendo receber subsídios resultantes dos acordos a realizar com o Serviço Nacional de Ambulâncias e outras entidades."
+  },
+  "919708853": {
+   "fragment_id": "919825999",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nO SAMUR poderá cobrar as taxas que forem devidas nos termos legais."
+  },
+  "919708854": {
+   "fragment_id": "919826000",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nEsta portaria entra em vigor com a tomada de posse da comissão instaladora."
+  },
+  "919708855": {
+   "fragment_id": "919826001",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios da Defesa Nacional e dos Assuntos Sociais, 16 de Fevereiro de 1977. - O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro dos Assuntos Sociais, Armando Bacelar."
+  }
+ }
+}

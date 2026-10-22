@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:176075694:por
+title: Portaria n.º 308/2021
+short_title: null
+summary: Estabelece medidas adicionais de proteção fitossanitária destinadas ao controlo, no território nacional, da bactéria
+  Erwinia amylovora (Burr.) Winsl. et al.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura
+proposing_entity: null
+official_number: 308/2021
+official_date: null
+publication_date: '2021-12-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 243/2021, Série I de 2021-12-17
+  number: '243'
+  series: I
+  supplement: null
+  pages: 226 - 228
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/12/24300/0022600228.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-21'
+version_history:
+  file: portaria-308-2021.versoes.json
+  count: 3
+  source_lastmod: '2026-07-21'
+  versions:
+  - date: '2021-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-10-31'
+    amending: pt:dre:943290586:por
+    amending_title: Portaria n.º 370/2025/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2026-07-21'
+    amending: pt:dre:1149265700:por
+    amending_title: Portaria n.º 304/2026/1
+    changes:
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/308/2021/p/cons/20260720/pt/html
+  oj: null
+  dre: '176075694'
+  dre_path: /dr/detalhe/portaria/308-2021-176075694
+  internal: pt:dre:176075694:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/308-2021-176075694
+  metadata_url: https://data.dre.pt/eli/port/308/2021/p/cons/20260720/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-943418789
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-943418789
+  retrieved_at: '2026-10-22T13:45:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-21T00:00:00Z'
+integrity:
+  source_sha256: c5dbe72a5de9a21cea2aa0ad4d481b1bf3eb52c2b3589cb5e2c1f8be4384f27b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:45:55Z'
+  notes: 3 versão(ões); histórico completo em portaria-308-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Doença Vegetal
+- Direcção Regional de Agricultura e Pescas
+- Controlo Sanitário
+- Direito à Informação
+- Notificação
+- Proteção Fitossanitária
+- Vegetais
+relationships:
+- type: amended_by
+  target: pt:dre:943290586:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/370-2025-943290586
+  date: '2025-10-30'
+- type: amended_by
+  target: pt:dre:1149265700:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/304-2026-1149265700
+  date: '2026-07-20'
+- type: cites
+  target: celex:32016R2031
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/2031/oj
+- type: cites
+  target: celex:32031R2016
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/67/2020/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/67/2020/09/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:45:55Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 308/2021
+
+Portaria n.º 308/2021
+
+de 17 de dezembro
+
+Sumário: Estabelece medidas adicionais de proteção fitossanitária destinadas ao controlo, no território nacional, da bactéria Erwinia amylovora (Burr.) Winsl. et al.
+
+O Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, bem como das suas alterações e dos atos de execução ou delegados nele previstos, estabelece as regras para determinar os riscos fitossanitários colocados por qualquer espécie, estirpe ou biótipo de agentes patogénicos, animais ou vegetais parasitas nocivos para os vegetais ou os produtos vegetais, que o regulamento designa genericamente por pragas, bem como medidas para reduzir esses riscos para um nível aceitável.
+
+O Decreto-Lei n.º 67/2020, de 15 de setembro, alterado pelo Decreto-Lei n.º 9/2021, de 29 de janeiro, que assegura a execução e garante o cumprimento das obrigações decorrentes do referido regulamento, prevê no seu artigo 27.º a adoção de medidas de proteção fitossanitária adicionais e ou de emergência destinadas a evitar a introdução e dispersão no território nacional de organismos prejudiciais aos vegetais e produtos vegetais, por portaria do membro do Governo responsável pela área da agricultura.
+
+A bactéria Erwinia amylovora (Burr.) Winsl. et al. é o agente causal da doença denominada por «fogo bacteriano», que afeta várias espécies vegetais, em particular da família das rosáceas, designadamente pereiras, macieiras, marmeleiros e algumas espécies ornamentais, provocando importantes danos económicos e, no limite, a total perda de produção e dos pomares.
+
+Desta forma, em conformidade com o previsto no referido diploma, importa estabelecer as medidas adicionais de proteção fitossanitária destinadas ao controlo, no território nacional, da bactéria Erwinia amylovora (Burr.) Winsl. et al., com vista à sua contenção.
+
+Assim:
+
+Ao abrigo do artigo 27.º do Decreto-Lei n.º 67/2020, de 15 de setembro, na sua redação atual, manda o Governo, pela Ministra da Agricultura, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria estabelece medidas adicionais de proteção fitossanitária destinadas ao controlo, no território nacional, da bactéria Erwinia amylovora (Burr.) Winsl. et al.
+
+2 - A presente portaria não se aplica à produção de vegetais para plantação, na definição prevista no Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais.
+
+###### Artigo 2.º — Definições
+
+Sem prejuízo das definições constantes do Decreto-Lei n.º 67/2020, de 15 de setembro, na sua redação atual, para efeitos da presente portaria, entende-se por:
+
+a) «Bactéria» a bactéria Erwinia amylovora (Burr.) Winsl. et al.;
+
+b) «Vegetais hospedeiros» todos os vegetais da família das rosáceas, designadamente Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. e Sorbus L., com exceção dos respetivos frutos e sementes;
+
+c) ‘Zonas contaminadas’ as áreas, ao nível mínimo da freguesia, onde é detetada a presença da bactéria em resultado laboratorial positivo ou em sintomas, e que sejam declaradas contaminadas pela Direção-Geral de Alimentação e Veterinária (DGAV)
+
+d) ‘Poda sanitária’ o processo de remoção de partes de plantas, nomeadamente lançamentos e pernadas secas, doentes, danificados ou infestados por pragas ou doenças, com o objetivo de melhorar a saúde da planta, prevenir a propagação e promover um crescimento equilibrado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2025/1 - Diário da República n.º 210/2025, Série I de 2025-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/370-2025-943290586), em vigor a partir de 2025-10-31, produz efeitos a partir de 2025-12-01
+
+###### Artigo 3.º — Publicitação das listas das zonas contaminadas
+
+1 - A definição das freguesias com zonas contaminadas e as medidas de contenção aplicáveis são aprovadas por despacho do diretor-geral de Alimentação e Veterinária.
+
+2 - O despacho a que se refere o número anterior é publicitado no Portal da DGAV, em www.dgav.pt, e da Comissão de Coordenação e Desenvolvimento Regional, I. P. (CCDR), territorialmente competente, sendo igualmente publicitado por esta através de edital, o qual deve ser:
+
+a) Afixado nas respetivas instalações;
+
+b) Remetido às câmaras municipais e juntas de freguesias incluídas na lista, para que estas promovam a sua divulgação nos respetivos locais de afixação; e
+
+c) Remetido às organizações de produtores e de fileira.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2025/1 - Diário da República n.º 210/2025, Série I de 2025-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/370-2025-943290586), em vigor a partir de 2025-10-31, produz efeitos a partir de 2025-12-01
+
+###### Artigo 4.º — Medidas de contenção aplicáveis nas zonas contaminadas
+
+1 - Nas zonas contaminadas são obrigatoriamente aplicadas as seguintes medidas:
+
+a) Arranque e destruição imediata, por queima ou enterramento, de toda a parcela do pomar com mais de 50 % de plantas com sintomas visíveis e com pelo menos um terço da copa infetada, incluindo nos troncos;
+
+b) [Revogada.]
+
+c) [Revogada.]
+
+d) Proibição de transporte para fora da zona contaminada de vegetais ou partes de vegetais hospedeiros, salvo autorização expressa dos serviços de inspeção fitossanitária regionais da DGAV;
+
+e) Proibição de introdução e movimentação de apiários no interior dos pomares infetados no período desde 1 de março a 30 de junho de cada ano civil.
+
+2 - As medidas sanitárias previstas na alínea a) devem ser executadas desde o momento da observação dos primeiros sintomas, até ao dia 30 de novembro de cada ano civil.
+
+3 - É permitida a replantação ou plantação de novos pomares, desde que, nas zonas limítrofes, seja efetuada a plantação de vegetais ou culturas não hospedeiras da bactéria.
+
+4 - A exigência prevista no número anterior é dispensada nos casos em que os pomares não se encontrem delimitados por pomares de vegetais hospedeiros da bactéria.
+
+5 - É proibida a plantação de vegetais hospedeiros da bactéria em áreas públicas ajardinadas e separadores de vias rodoviárias sitas em zonas declaradas como contaminadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 304/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/304-2026-1149265700), em vigor a partir de 2026-07-21.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2025/1 - Diário da República n.º 210/2025, Série I de 2025-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/370-2025-943290586), em vigor a partir de 2025-10-31, produz efeitos a partir de 2025-12-01
+
+###### Artigo 5.º — Notificações oficiais e aplicação das medidas de proteção fitossanitária
+
+1 - Os proprietários, usufrutuários ou rendeiros de vegetais especificados nas zonas demarcadas são notificados pela DGAV, para o cumprimento das medidas de proteção fitossanitária aplicáveis.
+
+2 - As notificações são efetuadas por via postal, transmissão eletrónica de dados ou por contacto pessoal com o notificando, no lugar em que for encontrado e, caso este se revele impossível, por edital nos locais de afixação da DGAV, bem como nos locais de afixação das CCDR e autarquias locais territorialmente competentes, a par dos respetivos sítios de Internet.
+
+3 - Às notificações de medidas de proteção fitossanitária ao abrigo da presente portaria aplica-se o disposto no artigo 17.º do Decreto-Lei n.º 67/2020, de 15 de setembro, na sua redação atual.
+
+4 - O incumprimento das medidas de proteção fitossanitária está sujeito a responsabilidade contraordenacional, nos termos previstos no Decreto-Lei n.º 67/2020, de 15 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2025/1 - Diário da República n.º 210/2025, Série I de 2025-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/370-2025-943290586), em vigor a partir de 2025-10-31, produz efeitos a partir de 2025-12-01
+
+###### Artigo 6.º — Dever de informação em relação ao organismo prejudicial
+
+Qualquer pessoa que tiver conhecimento ou suspeita da presença da bactéria em vegetais de fruteiras e ornamentais da família das rosáceas deve informar de imediato os serviços de inspeção fitossanitária regionais da DGAV, as organizações de produtores ou as juntas de freguesia, os quais comunicam essa informação aos serviços regionais da DGAV territorialmente competentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2025/1 - Diário da República n.º 210/2025, Série I de 2025-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/370-2025-943290586), em vigor a partir de 2025-10-31, produz efeitos a partir de 2025-12-01
+
+###### Artigo 7.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Ministra da Agricultura, Maria do Céu de Oliveira Antunes, em 7 de dezembro de 2021.
+
+114800947

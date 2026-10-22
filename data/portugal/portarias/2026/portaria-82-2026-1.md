@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:1053378383:por
+title: Portaria n.º 82/2026/1
+short_title: null
+summary: Procede à primeira alteração à Portaria n.º 62/2026/1, de 6 de fevereiro, que estabelece um regime excecional e temporário
+  de isenção do pagamento de taxas pela emissão e renovação do cartão de cidadão.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Justiça
+proposing_entity: null
+official_number: 82/2026/1
+official_date: null
+publication_date: '2026-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/2026, Série I de 2026-02-19
+  number: '35'
+  series: I
+  supplement: null
+  pages: 12 - 13
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03500/0001200013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/82/2026/02/19/p/dre/pt/html
+  oj: null
+  dre: '1053378383'
+  dre_path: /dr/detalhe/portaria/82-2026-1053378383
+  internal: pt:dre:1053378383:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2026-1053378383
+  metadata_url: https://data.dre.pt/eli/port/82/2026/02/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2026-1053378383
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-02-19T00:00:00Z'
+integrity:
+  source_sha256: 692e166c74745239ce445d09c4a6d36db112d70978b2db4b5342b6648d2c94da
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-82-1053378383.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção Civil
+- Bilhete de Identidade
+- Cartão de Cidadão
+- Regulamentação de Atos Legislativos
+- Catástrofe
+- Situação de Calamidade
+- Tempestade Kristin
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/62/2026/02/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/62/2026/02/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/15-b/2026/01/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/15-b/2026/01/30/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 82/2026/1
+
+de 19 de fevereiro
+
+Através da [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, foi declarada a situação de calamidade na sequência dos danos causados pela tempestade «Kristin» e dos eventos meteorológicos que se seguiram, entretanto, prorrogada.
+
+A par das medidas excecionais e dos apoios a atribuir às populações afetadas, foi aprovada a [Portaria n.º 62/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/62-2026-1039107599), de 6 de fevereiro, que veio determinar a isenção do pagamento de taxas pela renovação do cartão de cidadão perdido, extraviado ou inutilizado e pela emissão de cartão de cidadão nos casos de perda, extravio ou inutilização de bilhete de identidade vitalício, por motivo imputável aos fenómenos adversos ocorridos.
+
+A presente portaria vem adequar a [Portaria n.º 62/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/62-2026-1039107599), de 6 de fevereiro, ao âmbito temporal e geográfico da declaração de calamidade, clarificando os modos de comprovação do motivo que determinou a perda, o extravio ou a inutilização do documento de identificação.
+
+Assim, ao abrigo do disposto no n.º 2 do artigo 34.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, na sua redação atual, e no uso das competências delegadas pela Ministra da Justiça, através do [Despacho n.º 9883/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9883-2025-932716527), publicado no Diário da República, 2.ª série, n.º 159, de 20 de agosto de 2025, manda o Governo, pela Secretária de Estado da Justiça, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à primeira alteração à [Portaria n.º 62/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/62-2026-1039107599), de 6 de fevereiro, que estabelece um regime excecional e temporário de isenção do pagamento de taxas pela emissão e renovação do cartão de cidadão.
+
+###### Artigo 2.º — Alteração à [Portaria n.º 62/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/62-2026-1039107599), de 6 de fevereiro
+
+Os artigos 1.º e 2.º da [Portaria n.º 62/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/62-2026-1039107599), de 6 de fevereiro, passam a ter a seguinte redação:
+
+«Artigo 1.º
+
+[...]
+
+A presente portaria estabelece um regime excecional e temporário de isenção do pagamento de taxas pela renovação do cartão de cidadão perdido, extraviado ou inutilizado e pela emissão de cartão de cidadão nos casos de perda, extravio ou inutilização de bilhete de identidade vitalício, por motivo imputável aos fenómenos adversos ocorridos nos concelhos abrangidos pela declaração de calamidade determinada pela [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e respetivas prorrogações.
+
+###### Artigo 2.º — [...]
+
+1 - A renovação, solicitada até 30 dias após a cessação da declaração de calamidade, do cartão de cidadão perdido, extraviado ou inutilizado por motivo imputável aos fenómenos adversos ocorridos nos concelhos abrangidos pela declaração de calamidade determinada pela [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e respetivas prorrogações, bem como nos concelhos adicionalmente identificados como afetados por despacho, nos termos daquela resolução, está isenta do pagamento de taxas, desde que não haja lugar a alteração dos dados do titular.
+
+2 - A emissão de cartão de cidadão, solicitada até 30 dias após a cessação da declaração de calamidade, nos casos de perda, extravio ou inutilização de bilhete de identidade vitalício, por motivo imputável aos fenómenos adversos ocorridos nos concelhos abrangidos pela declaração de calamidade determinada pela [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro, e respetivas prorrogações, bem como nos concelhos adicionalmente identificados como afetados por despacho, nos termos daquela resolução, está isenta do pagamento de taxas, desde que não haja lugar a alteração dos dados do titular.
+
+3 - O motivo que determinou a perda, extravio ou inutilização pode ser atestado por trabalhador que exerça funções de atendimento nos espaços cidadão, fixos ou móveis, por declaração emitida pelo município ou pela junta de freguesia da área afetada ou por declaração sob compromisso de honra do titular do cartão de cidadão ou do bilhete de identidade.»
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**A Secretária de Estado da Justiça, Ana Luísa da Silva Gonçalves Machado, em 16 de fevereiro de 2026.**

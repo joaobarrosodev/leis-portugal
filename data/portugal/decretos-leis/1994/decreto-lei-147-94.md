@@ -1,0 +1,344 @@
+---
+schema_version: '1.0'
+id: pt:dre:269402:por
+title: Decreto-Lei n.º 147/94
+short_title: null
+summary: Determina a obrigatoriedade de as seguradoras elaborarem contas consolidadas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 147/94
+official_date: null
+publication_date: '1994-05-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/1994, Série I-A de 1994-05-25
+  number: '121'
+  series: I
+  supplement: null
+  pages: 2766 - 2769
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/05/121a00/27662769.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-05-16'
+version_history:
+  file: decreto-lei-147-94.versoes.json
+  count: 3
+  source_lastmod: '2025-06-06'
+  versions:
+  - date: '1994-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-06-30'
+    amending: pt:dre:345969:por
+    amending_title: Declaração de Rectificação n.º 86/94
+    changes:
+    - Retifica Artigo 5.º
+  - date: '2007-05-16'
+    amending: pt:dre:520659:por
+    amending_title: Decreto-Lei n.º 188/2007
+    changes:
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/147/1994/p/cons/20070511/pt/html
+  oj: null
+  dre: '269402'
+  dre_path: /dr/detalhe/decreto-lei/147-1994-269402
+  internal: pt:dre:269402:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1994-269402
+  metadata_url: https://data.dre.pt/eli/dec-lei/147/1994/p/cons/20070511/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-886333844
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-886333844
+  retrieved_at: '2026-10-22T13:28:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-06T00:00:00Z'
+integrity:
+  source_sha256: 760add03b1269a6dd021eca05b90dddfa0300dc1ca2499f101f43a1c086bb7fd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:28:20Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-147-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Empresa
+- Contabilidade
+- Controlo Financeiro
+- Cooperação Interempresas
+- Seguro
+- Prestação de Contas
+- Companhia de Seguros
+relationships:
+- type: amended_by
+  target: pt:dre:345969:por
+  label: Retifica Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/86-1994-345969
+  date: '1994-06-30'
+- type: amended_by
+  target: pt:dre:520659:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2007-520659
+  date: '2007-05-11'
+- type: cites
+  target: celex:31983L0349
+  label: null
+  source: http://data.europa.eu/eli/dir/1983/349/oj
+- type: cites
+  target: celex:31991L0674
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/674/oj
+- type: cites
+  target: celex:31993L0022
+  label: null
+  source: null
+- type: transposes
+  target: celex:31983L0349
+  label: null
+  source: null
+- type: transposes
+  target: celex:31991L0674
+  label: null
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:28:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 147/94
+
+Decreto-Lei n.º 147/94
+
+de 25 de Maio
+
+O Decreto-Lei n.º 238/91, de 2 de Julho, que transpôs para o direito interno as normas de consolidação de contas, estabelecidas na Directiva n.º 83/349/CEE, do Conselho, de 13 de Junho, relativa ao direito das sociedades, não alargou às seguradoras a obrigatoriedade de procederem à elaboração e publicação de contas consolidadas.
+
+Não obstante, as contas consolidadas têm como objectivo dar uma imagem verdadeira e apropriada da situação financeira e dos resultados da actividade de um conjunto de empresas (empresas de grupo) em que há uma relação de domínio ou controlo.
+
+Por isso, as contas consolidadas permitem uma melhor avaliação da situação económico-financeira dos grupos económicos e uma maior eficácia na supervisão a efectuar pelas entidades de controlo.
+
+Afigura-se importante estender às seguradoras a exigência de, também elas, consolidarem as suas contas, procedendo à transposição parcial da Directiva n.º 91/674/CEE, do Conselho, de 19 de Dezembro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) Empresas-mãe - as empresas referidas no n.º 1 do artigo 2.º, que são obrigadas a elaborar contas consolidadas e um relatório consolidado de gestão;
+
+b) Empresas filiais - as empresas que se encontrem em relação à empresa-mãe em alguma das circunstâncias referidas no n.º 2 do artigo 2.º;
+
+c) Empresas associadas - as empresas participadas nas quais a empresa participante exerça uma influência significativa sobre a sua gestão e a sua política financeira, presumindo-se existir essa influência quando a participação corresponda a, pelo menos, 20% dos direitos de voto;
+
+d) Contas consolidadas - o balanço consolidado, a demonstração consolidada de resultados e o anexo às contas consolidadas;
+
+e) Órgão de administração - o conselho de gestão, o conselho de administração, a direcção ou órgão com funções análogas;
+
+f) Órgão de fiscalização - o conselho fiscal, o conselho geral ou outro órgão com funções análogas.
+
+###### Artigo 2.º — Empresas-mãe
+
+1 - São obrigadas a elaborar contas consolidadas e um relatório consolidado de gestão, nos termos previstos neste diploma, as empresas que controlem, de modo exclusivo ou em conjunto com outra ou outras empresas não incluídas na consolidação, uma ou várias empresas e pertençam aos tipos seguintes:
+
+a) Sociedades anónimas e mútuas, de direito português, autorizadas a exercer a actividade seguradora em Portugal;
+
+b) Sociedades cuja actividade consista em tomar ou deter participações sociais, designadamente sociedades de gestão de participações sociais, de empresas do tipo das indicadas na alínea anterior, sempre que controlem directa ou indirectamente pelo menos uma;
+
+c) Outras sociedades que controlem directa ou indirectamente mais de uma empresa do tipo das indicadas nas alíneas anteriores.
+
+2 - Uma empresa controla de modo exclusivo outra empresa quando, em relação a esta, se verificar alguma das seguintes situações:
+
+a) Ter a maioria dos direitos de voto dos titulares do capital dessa empresa;
+
+b) Ter o direito de designar ou destituir a maioria dos membros dos órgãos de administração ou de fiscalização, sendo, simultaneamente, titular de capital dessa empresa;
+
+c) Ter o direito de exercer uma influência dominante sobre a empresa da qual seja um dos titulares do respectivo capital por força de um contrato celebrado com esta ou de uma sua cláusula estatutária;
+
+d) Ser titular de capital de uma empresa cuja maioria dos membros dos órgãos de administração ou de fiscalização, em funções durante o exercício em curso, bem como no exercício anterior e até à elaboração das contas consolidadas, tenham sido exclusivamente nomeados por efeito do seu direito de voto, desde que estes representem, pelo menos, 40% do total e que nenhum outro titular de capital da empresa disponha, directa ou indirectamente, de uma fracção de capital superior àquela;
+
+e) Controlar por si só, por força de um acordo celebrado com outros titulares da empresa filial, a maioria dos direitos de voto dos titulares do capital da mesma;
+
+f) Puder exercer, ou exercer efectivamente, influência dominante ou controlo sobre essa empresa;
+
+g) Gerir essa empresa como se ambas constituíssem uma única entidade.
+
+3 - Verifica-se uma situação de controlo conjunto quando o controlo efectivo de uma empresa é exercido por um número limitado de titulares do capital e as decisões a ela relativas resultam de comum acordo entre estes.
+
+4 - Para efeitos da aplicação das alíneas a), b), d) e e) do n.º 2 devem ser observadas as seguintes regras:
+
+a) Aos direitos de voto, de designação e de destituição de que a empresa-mãe seja titular devem ser adicionados os direitos de qualquer outra empresa sua filial e os das filiais desta, bem como os de qualquer pessoa que actue em seu próprio nome, mas por conta da empresa-mãe ou de qualquer outra empresa filial;
+
+b) À totalidade dos direitos de voto dos titulares de capital da empresa filial devem deduzir-se os direitos de voto relativos às acções ou quotas próprias detidas por esta empresa, por uma empresa filial desta ou por uma pessoa que actue no seu próprio nome, mas por conta destas empresas.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2005-605330), produz efeitos a partir de 2005-01-01
+
+###### Artigo 3.º — Contas a consolidar
+
+1 - Sem prejuízo do disposto nos artigos 4.º e 5.º, as contas da empresa-mãe e as de todas as suas filiais devem ser consolidadas nos termos previstos nos artigos anteriores, qualquer que seja o local da sede destas.
+
+2 - Para efeitos do número anterior, qualquer empresa filial de uma empresa filial é considerada como filial da empresa-mãe de que ambas dependem.
+
+3 - Devem igualmente ser incluídas na consolidação, na proporção dos direitos de capital detidos pelas empresas naquela compreendidas, as contas das empresas sujeitas ao controlo conjunto.
+
+###### Artigo 4.º — Dispensa de consolidação
+
+1 - Ficam dispensadas da obrigação prevista no artigo 2.º as instituições, com sede em Portugal, que sejam filiais de uma empresa sujeita ao direito de um Estado membro da Comunidade Europeia, adiante designada por empresa-mãe comunitária, quando essa empresa, em alternativa:
+
+a) Seja titular de todas as partes de capital daquela;
+
+b) Detenha 90% ou mais das mesmas partes de capital e os restantes titulares de capital tenham aprovado a referida dispensa.
+
+2 - Para efeitos do número anterior, não são consideradas as partes de capital detidas por membros dos órgãos de administração ou de fiscalização por força de uma obrigação legal ou estatutária.
+
+3 - A dispensa referida no n.º 1 depende da verificação cumulativa das condições seguintes:
+
+a) A empresa-mãe comunitária deve ser uma seguradora e ter-se declarado garante dos compromissos assumidos pela empresa dispensada, devendo esta declaração ser publicada juntamente com as contas desta;
+
+b) As contas da empresa dispensada, bem como as de todas as suas empresas filiais, devem ser consolidadas com as contas de uma empresa-mãe comunitária que esteja sujeita ao direito de um Estado membro da Comunidade Europeia;
+
+c) As contas consolidadas e o relatório consolidado de gestão devem ser elaborados e fiscalizados de acordo com o direito do Estado membro a que a empresa-mãe comunitária esteja sujeita, em conformidade com a Directiva n.º 83/349/CEE, do Conselho, de 13 de Junho de 1983;
+
+d) As contas consolidadas e o relatório consolidado de gestão, bem como a certificação da entidade encarregada da revisão destas contas, devem ser objecto de publicidade por parte da empresa dispensada, efectuada segundo as modalidades previstas para as suas próprias contas em língua portuguesa;
+
+e) O anexo das contas anuais da empresa dispensada devem incluir a indicação da denominação e da sede da empresa-mãe comunitária que elabora as contas consolidadas e a menção da dispensa a que se refere o n.º 1;
+
+f) A empresa dispensada deve publicar em anexo, relativamente à sua actividade e às suas filiais:
+
+i) Montante de prémios e seus adicionais de seguro directo e resseguro aceite;
+
+ii) Resultado do exercício e total do capital próprio;
+
+iii) Número de trabalhadores utilizados, em média, durante o exercício.
+
+4 - O presente artigo não é aplicável a sociedades cujos valores mobiliários sejam admitidos, ou estejam em processo de vir a ser admitidos, à negociação num mercado regulamentado de qualquer Estado membro na acepção do n.º 13 do artigo 1.º da Directiva n.º 93/22/CEE.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2005-605330), produz efeitos a partir de 2005-01-01
+
+###### Artigo 5.º — Exclusões da consolidação
+
+1 - (Revogado.)
+
+2 - Uma empresa pode ser excluída da consolidação quando se verifique, pelo menos, uma das seguintes condições:
+
+a) Se verificar a ocorrência de circunstâncias que, de modo substancial e duradouro, prejudiquem o exercício pela empresa-mãe dos seus direitos sobre o património ou a gestão da empresa em causa;
+
+b) As informações necessárias à elaboração das contas consolidadas não possam ser obtidas sem custos desproporcionados;
+
+c) As informações necessárias à elaboração das contas consolidadas não possam ser obtidas senão com demora justificada;
+
+d) As partes representativas do seu capital social forem exclusivamente detidas, tendo em vista a sua cessão posterior a curto prazo.
+
+3 - Não podem ser excluídas da consolidação, ao abrigo do n.º 1, as empresas sujeitas à supervisão do Instituto de Seguros de Portugal ou de entidades de supervisão homólogas em outros países, incluindo as sociedades gestoras de fundos de pensões, bem como as que, não obedecendo a este critério, desenvolvem uma actividade complementar ou auxiliar da empresa-mãe ou de filiais incluídas na consolidação, designadamente empresas de prestação de serviços informáticos, empresas de gestão de imóveis, hospitais e empresas de mediação de seguros.
+
+4 - Quando a empresa excluída por força da alínea d) do n.º 2 for uma seguradora e a referida detenção temporária das acções for motivada por uma operação de recuperação financeira, destinada ao seu saneamento ou à sua viabilização, as respectivas contas anuais devem ser anexadas às contas consolidadas, das quais a referida empresa foi excluída, devendo ser dada no anexo informação adicional relativa à natureza e aos termos da operação de recuperação financeira.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2005-605330), produz efeitos a partir de 2005-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 86/94 - Diário da República n.º 149/1994, 3º Suplemento, Série I-A de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/86-1994-345969), em vigor a partir de 1994-06-30
+
+###### Artigo 6.º — Objectivo das contas consolidadas
+
+1 - As contas consolidadas devem ser elaboradas com clareza, de acordo com o disposto no presente diploma, com o objectivo de ser dada uma imagem fiel do património, da situação financeira e dos resultados do conjunto das empresas compreendidas na consolidação.
+
+2 - As contas consolidadas devem apresentar os activos, os passivos, os capitais próprios e os resultados das empresas incluídas na consolidação como se se tratasse de uma única empresa, devendo das mesmas ser eliminados, designadamente:
+
+a) As dívidas entre as empresas incluídas na consolidação;
+
+b) Os custos e perdas e os proveitos e ganhos relativos às operações efectuadas entre as empresas compreendidas na consolidação;
+
+c) Os resultados provenientes das operações entre as empresas compreendidas na consolidação, quando estejam incluídos os valores contabilísticos dos activos.
+
+3 - Quando uma operação tenha sido concluída de acordo com as condições normais do mercado e tiver instituído direitos a favor dos segurados, não dá lugar à eliminação prevista na alínea c) do número anterior.
+
+4 - (Revogado.)
+
+5 - As eliminações previstas nas alíneas a), b) e c) do n.º 2 podem não ser efectuadas quando envolvam montantes materialmente irrelevantes para o objectivo mencionado no n.º 1.
+
+6 - Deverão ser fornecidas no anexo todas as informações complementares que se revelarem necessárias à apresentação da imagem fiel referida no n.º 1.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2005-605330), produz efeitos a partir de 2005-01-01
+
+###### Artigo 7.º — Estrutura das contas consolidadas
+
+A estrutura e o conteúdo das contas consolidadas, bem como os métodos e critérios que devem ser utilizados na sua elaboração, são objecto de instruções do Instituto de Seguros de Portugal.
+
+###### Artigo 8.º — Margem de solvência
+
+As empresas abrangidas pela consolidação, nos termos previstos no artigo 2.º, devem dispor a cada momento, como cobertura da margem de solvência, de um património consolidado livre de qualquer responsabilidade, suficiente para cobrir as exigências legais de solvência aplicáveis a cada uma das empresas individualizadas.
+
+###### Artigo 9.º — Dever de cooperação
+
+As empresas filiais, as empresas sujeitas a controlo conjunto e as empresas associadas são obrigadas a fornecer às empresas-mãe todas as informações e dados que sejam indispensáveis à preparação das contas consolidadas.
+
+###### Artigo 10.º — Publicidade
+
+Compete ao Instituto de Seguros de Portugal, sem prejuízo do disposto na lei geral sobre publicação dos documentos de prestação de contas, definir por norma regulamentar os elementos, o modo e o prazo de publicação das contas consolidadas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 188/2007 - Diário da República n.º 91/2007, Série I de 2007-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2007-520659), em vigor a partir de 2007-05-16
+
+###### Artigo 11.º — Suportes de consolidação
+
+1 - As empresas-mãe devem manter suportes e registos adequados à verificação das operações de consolidação.
+
+2 - Os suportes e registos a que se refere o número anterior devem ser conservados pelo prazo fixado no artigo 40.º do Código Comercial.
+
+###### Artigo 12.º — Regime jurídico
+
+São aplicáveis à prestação de contas consolidadas a que se refere o presente diploma em tudo o que não o contrarie as disposições do Código das Sociedades Comerciais, do Código Cooperativo e do Código do Registo Comercial relativas à prestação de contas consolidadas e à elaboração e apresentação do relatório consolidado de gestão.
+
+###### Artigo 13.º — Fiscalização
+
+O Instituto de Seguros de Portugal pode solicitar às empresas sujeitas à consolidação as informações que considere necessárias para verificação do cumprimento do disposto neste diploma, assim como inspeccionar a sua contabilidade, registos e documentação.
+
+###### Artigo 14.º — Produção de efeitos
+
+O presente diploma produz efeitos a partir de 1 de Janeiro de 1995, aplicando-se, pela primeira vez, às contas do exercício de 1995.
+
+Visto e aprovado em Conselho de Ministros de 7 de Abril de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
+
+Promulgado em 4 de Maio de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 5 de Maio de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

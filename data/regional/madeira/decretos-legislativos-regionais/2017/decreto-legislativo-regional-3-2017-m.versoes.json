@@ -1,0 +1,281 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105770276:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-115414271",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2017-105770276",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-01-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176886846",
+    "115393806",
+    "115393807",
+    "115393808",
+    "115393809",
+    "115393810"
+   ]
+  },
+  {
+   "date": "2018-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115414263:por",
+     "title": "Decreto Legislativo Regional n.º 8/2018/M",
+     "published": "2018-05-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2018-115414263"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "115393805",
+    "115393806",
+    "115393807",
+    "115393808",
+    "115393809",
+    "115393816",
+    "115393811"
+   ]
+  },
+  {
+   "date": "2020-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:132244587:por",
+     "title": "Decreto Legislativo Regional n.º 5/2020/M",
+     "published": "2020-04-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/5-2020-132244587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "115393805",
+    "115393806",
+    "115393807",
+    "115393808",
+    "115393809",
+    "132294091",
+    "115393811"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639812:por",
+     "title": "Decreto Legislativo Regional n.º 18/2020/M",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2020-152639812"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "115393805",
+    "115393806",
+    "115393807",
+    "115393808",
+    "115393809",
+    "176886845",
+    "115393811"
+   ]
+  },
+  {
+   "date": "2021-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176800365:por",
+     "title": "Decreto Legislativo Regional n.º 28-A/2021/M",
+     "published": "2021-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "176886846",
+    "176886847",
+    "176886848",
+    "176886849",
+    "176886850",
+    "176886851",
+    "176886852"
+   ]
+  }
+ ],
+ "fragments": {
+  "176886846": {
+   "fragment_id": "115414272",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-12-31",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 3/2017/M\n\nAdapta à Região Autónoma da Madeira o Decreto-Lei n.º 169/2009, 31 de julho, que define o regime contraordenacional aplicável ao incumprimento das regras relativas à instalação e uso do tacógrafo estabelecidas no Regulamento (CEE) n.º 3821/85, do Conselho, de 20 de dezembro, alterado pelo Regulamento (CE) n.º 2135/98, do Conselho, de 24 de setembro, e pelo Regulamento (CE) n.º 561/2006, do Parlamento Europeu e do Conselho, de 15 de março.\n\nConsiderando a necessidade de garantir o melhoramento das condições de trabalho e da segurança rodoviária, a União Europeia, em regulamento, consagrou, para um conjunto determinado de veículos, a obrigatoriedade de instalação e utilização de um aparelho de controlo dos tempos de condução, das pausas e períodos de repouso dos condutores envolvidos no transporte rodoviário.\n\nConsiderando que, pelo Decreto Legislativo Regional n.º 2/2008/M, de 14 de janeiro, foi instituído um regime de isenção de instalação e utilização de tacógrafo nos veículos afetos ao transporte de mercadorias ou de passageiros que circulem exclusivamente nas ilhas da Região Autónoma da Madeira.\n\nConsiderando por medida de segurança rodoviária importa proceder ao controlo dos tempos de condução, pausas e períodos de repouso para os condutores do transporte rodoviário de mercadorias e passageiros.\n\nConsiderando que deve ser dado um prazo para a implementação do sistema do aparelho de controlo nos veículos.\n\nConsiderando que importa adaptar à Região Autónoma da Madeira o Decreto-Lei n.º 169/2009, de 31 de julho, identificando as entidades que devem exercer as competências nele previstas.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º e da alínea ll) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, com as alterações introduzidas pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "115393806": {
+   "fragment_id": "115414273",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma adapta à Região Autónoma da Madeira, o Decreto-Lei n.º 169/2009, de 31 de julho, que define o regime contraordenacional aplicável ao incumprimento das regras relativas à instalação e uso do tacógrafo estabelecidas no Regulamento (CEE) n.º 3821/85, do Conselho, de 20 de dezembro, alterado pelo Regulamento (CE) n.º 2135/98, do Conselho, de 24 de setembro, e pelo Regulamento (CE) n.º 561/2006, do Parlamento Europeu e do Conselho, de 15 de março."
+  },
+  "115393807": {
+   "fragment_id": "115414274",
+   "type": 11,
+   "heading": "Artigo 2.º — Normas de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Normas de aplicação\n\nAs referências feitas no Decreto-Lei n.º 169/2009, de 31 de julho, ao Instituto da Mobilidade e Transportes, I. P. (IMTT, I. P.), e à Autoridade para as Condições do Trabalho consideram-se, na Região Autónoma da Madeira, reportadas à Direção Regional de Economia e Transportes (DRET) e à Direção Regional do Trabalho e da Ação Inspetiva (DRTAI), respetivamente."
+  },
+  "115393808": {
+   "fragment_id": "115416875",
+   "type": 11,
+   "heading": "Artigo 3.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Destino das coimas\n\nO produto das coimas aplicadas nos termos do Decreto-Lei n.º 169/2009, de 31 de julho, constitui receita da Região Autónoma da Madeira."
+  },
+  "115393809": {
+   "fragment_id": "115416876",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 2/2008/M, de 14 de janeiro."
+  },
+  "115393810": {
+   "fragment_id": "115416877",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de janeiro de 2018."
+  },
+  "115393805": {
+   "fragment_id": "115414272",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 3/2017/M\n\nAdapta à Região Autónoma da Madeira o Decreto-Lei n.º 169/2009, 31 de julho, que define o regime contraordenacional aplicável ao incumprimento das regras relativas à instalação e uso do tacógrafo estabelecidas no Regulamento (CEE) n.º 3821/85, do Conselho, de 20 de dezembro, alterado pelo Regulamento (CE) n.º 2135/98, do Conselho, de 24 de setembro, e pelo Regulamento (CE) n.º 561/2006, do Parlamento Europeu e do Conselho, de 15 de março.\n\nConsiderando a necessidade de garantir o melhoramento das condições de trabalho e da segurança rodoviária, a União Europeia, em regulamento, consagrou, para um conjunto determinado de veículos, a obrigatoriedade de instalação e utilização de um aparelho de controlo dos tempos de condução, das pausas e períodos de repouso dos condutores envolvidos no transporte rodoviário.\n\nConsiderando que, pelo Decreto Legislativo Regional n.º 2/2008/M, de 14 de janeiro, foi instituído um regime de isenção de instalação e utilização de tacógrafo nos veículos afetos ao transporte de mercadorias ou de passageiros que circulem exclusivamente nas ilhas da Região Autónoma da Madeira.\n\nConsiderando por medida de segurança rodoviária importa proceder ao controlo dos tempos de condução, pausas e períodos de repouso para os condutores do transporte rodoviário de mercadorias e passageiros.\n\nConsiderando que deve ser dado um prazo para a implementação do sistema do aparelho de controlo nos veículos.\n\nConsiderando que importa adaptar à Região Autónoma da Madeira o Decreto-Lei n.º 169/2009, de 31 de julho, identificando as entidades que devem exercer as competências nele previstas.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º e da alínea ll) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, com as alterações introduzidas pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "115393816": {
+   "fragment_id": "115416877",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2018-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia 1 de janeiro de 2018.\n\n2 - O regime contraordenacional previsto no Decreto-Lei n.º 169/2009, de 31 de julho, não se aplica na Região Autónoma da Madeira até à adaptação da plataforma informática gerida pelo IMT, I. P., que permite a emissão de cartões tacográficos, a implementar no prazo de dois anos a partir da produção de efeitos do presente diploma.\n\n3 - Os equipamentos de controlo analógico ou digital devem ser instalados nos veículos de transporte de passageiros e mercadorias obrigados ao uso de tacógrafo, no prazo previsto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+  },
+  "115393811": {
+   "fragment_id": "115416878",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de dezembro de 2016.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nPublique-se.\n\nAssinado em 28 de dezembro de 2016.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "132294091": {
+   "fragment_id": "115416877",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2020-04-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2020/M - Diário da República n.º 79/2020, Série I de 2020-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-132244587), em vigor a partir de 2020-04-23, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia 1 de janeiro de 2018.\n\n2 - O regime contraordenacional previsto no Decreto-Lei n.º 169/2009, de 31 de julho, não se aplica na Região Autónoma da Madeira até à adaptação da plataforma informática gerida pelo IMT, I. P., que permite a emissão de cartões tacográficos, a efetuar no prazo de três anos a partir da produção de efeitos do presente diploma.\n\n3 - Os equipamentos de controlo analógico ou digital devem ser instalados nos veículos de transporte de passageiros e mercadorias obrigados ao uso de tacógrafo, no prazo previsto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2020/M - Diário da República n.º 79/2020, Série I de 2020-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-132244587), em vigor a partir de 2020-04-23, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+  },
+  "176886845": {
+   "fragment_id": "115416877",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2020/M - Diário da República n.º 79/2020, Série I de 2020-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-132244587), em vigor a partir de 2020-04-23, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia 1 de janeiro de 2018.\n\n2 - O regime contraordenacional previsto no Decreto-Lei n.º 169/2009, de 31 de julho, não se aplica na Região Autónoma da Madeira até 31 de dezembro de 2021.\n\n3 - Os equipamentos de controlo analógico ou digital devem ser instalados nos veículos de transporte de passageiros e mercadorias obrigados ao uso de tacógrafo, no prazo previsto no número anterior.\n\n> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2020/M - Diário da República n.º 79/2020, Série I de 2020-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-132244587), em vigor a partir de 2020-04-23, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+  },
+  "176886847": {
+   "fragment_id": "115414273",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma adapta à Região Autónoma da Madeira, o Decreto-Lei n.º 169/2009, de 31 de julho, que define o regime contraordenacional aplicável ao incumprimento das regras relativas à instalação e uso do tacógrafo estabelecidas no Regulamento (CEE) n.º 3821/85, do Conselho, de 20 de dezembro, alterado pelo Regulamento (CE) n.º 2135/98, do Conselho, de 24 de setembro, e pelo Regulamento (CE) n.º 561/2006, do Parlamento Europeu e do Conselho, de 15 de março.\n\n> Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+  },
+  "176886848": {
+   "fragment_id": "115414274",
+   "type": 11,
+   "heading": "Artigo 2.º — Normas de aplicação",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Normas de aplicação\n\nAs referências feitas no Decreto-Lei n.º 169/2009, de 31 de julho, ao Instituto da Mobilidade e Transportes, I. P. (IMTT, I. P.), e à Autoridade para as Condições do Trabalho consideram-se, na Região Autónoma da Madeira, reportadas à Direção Regional de Economia e Transportes (DRET) e à Direção Regional do Trabalho e da Ação Inspetiva (DRTAI), respetivamente.\n\n> Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+  },
+  "176886849": {
+   "fragment_id": "115416875",
+   "type": 11,
+   "heading": "Artigo 3.º — Destino das coimas",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Destino das coimas\n\nO produto das coimas aplicadas nos termos do Decreto-Lei n.º 169/2009, de 31 de julho, constitui receita da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+  },
+  "176886850": {
+   "fragment_id": "115416876",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 2/2008/M, de 14 de janeiro.\n\n> Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+  },
+  "176886851": {
+   "fragment_id": "115416877",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2020/M - Diário da República n.º 79/2020, Série I de 2020-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-132244587), em vigor a partir de 2020-04-23, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia 1 de janeiro de 2018.\n\n2 - O regime contraordenacional previsto no Decreto-Lei n.º 169/2009, de 31 de julho, não se aplica na Região Autónoma da Madeira até 31 de dezembro de 2021.\n\n3 - Os equipamentos de controlo analógico ou digital devem ser instalados nos veículos de transporte de passageiros e mercadorias obrigados ao uso de tacógrafo, no prazo previsto no número anterior.\n\n> Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2020/M - Diário da República n.º 79/2020, Série I de 2020-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-132244587), em vigor a partir de 2020-04-23, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2018/M - Diário da República n.º 104/2018, Série I de 2018-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2018-115414263), em vigor a partir de 2018-05-31, produz efeitos a partir de 2018-01-01"
+  },
+  "176886852": {
+   "fragment_id": "115416878",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de dezembro de 2016.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nPublique-se.\n\nAssinado em 28 de dezembro de 2016.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n> Revogado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01"
+  }
+ }
+}

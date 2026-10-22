@@ -1,0 +1,352 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122393535:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-122395566",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2019-122393535",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-05-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122397313",
+    "122397314",
+    "122397315",
+    "122397316",
+    "122397317",
+    "122397318",
+    "122397319",
+    "122397320",
+    "122397321",
+    "122397322",
+    "122397323",
+    "122397324",
+    "122397325",
+    "122397326",
+    "122397327",
+    "122397328",
+    "122397329",
+    "122397330",
+    "122397331",
+    "122397332",
+    "122397333",
+    "122397334",
+    "122397335",
+    "122397336",
+    "122397337",
+    "122397338",
+    "122397339",
+    "122397340",
+    "122397341",
+    "122397342",
+    "122397343",
+    "122397344",
+    "122397345",
+    "122397346",
+    "122397347",
+    "122397348",
+    "122397350"
+   ]
+  }
+ ],
+ "fragments": {
+  "122397313": {
+   "fragment_id": "122395567",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 11/2019/A\n\nPrograma Casa Renovada, Casa Habitada\n\nO Decreto Legislativo Regional n.º 6/2002/A, de 11 de março, estabeleceu o regime jurídico da concessão dos apoios financeiros a obras de reabilitação, reparação e beneficiação em habitações degradadas através de uma comparticipação financeira em materiais e mão-de-obra.\n\nTrata-se de um regime legal que já conta com dezasseis anos de existência, pese embora ter sido alvo de três alterações pontuais, que visaram, sobretudo, a criação de um regime de exceção que vigorou pelo prazo de dois anos (2010 e 2011) e que permitiu o acesso ao apoio de todos aqueles que, não sendo titulares do direito de propriedade do imóvel candidatado, nele residissem a título permanente há mais de cinco anos, excetuando os casos de arrendamentos urbanos, e ainda a majoração dos apoios previstos que se destinavam a ser executados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo.\n\nDecorrido este hiato temporal, urge proceder a novas alterações que possibilitem fazer face aos novos desafios que se colocam às famílias e à administração pública regional, nomeadamente por força do impacto que a atual conjuntura social e económica tem provocado no mercado de arrendamento.\n\nTorna-se, assim, imperioso fomentar a reconversão de imóveis devolutos em fogos suscetíveis de integrar o mercado de arrendamento, pelo que se estenderá o âmbito de aplicação dos apoios instituídos à recuperação da habitação degradada aos proprietários de imóveis que estejam devolutos e que, comprovadamente, não tenham condições de o reabilitar com os produtos bancários disponíveis no mercado, em contrapartida da afetação dos mesmos ao regime de arrendamento urbano por um período de tempo que permita o reembolso do investimento público efetuado na reabilitação, com base no regime da renda condicionada.\n\nCom estas medidas, pretende dar-se um impulso ao mercado de arrendamento, de forma a responder eficaz e eficientemente às reais necessidades habitacionais das famílias açorianas proporcionando-lhes o acesso a uma habitação condigna, adequada e a custos suportáveis, e promover a reabilitação do parque degradado e a requalificação do ambiente urbano.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º, do n.º 4 do artigo 112.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "122397314": {
+   "fragment_id": "122395568",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "122397315": {
+   "fragment_id": "122395569",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece o regime jurídico da concessão dos apoios financeiros a obras de reabilitação, reparação e beneficiação de edifícios ou de frações, para habitação própria permanente ou para arrendamento, no âmbito do Programa Casa Renovada, Casa Habitada."
+  },
+  "122397316": {
+   "fragment_id": "122395570",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente regime aplica-se às operações de reabilitação em edifícios ou frações nos quais se justifique uma intervenção destinada a conferir características adequadas de desempenho, de segurança funcional e construtiva em virtude da sua degradação ou obsolescência, designadamente no que se refere às suas condições de uso, solidez, segurança e salubridade."
+  },
+  "122397317": {
+   "fragment_id": "122395571",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nA reabilitação de fogos habitacionais deve contribuir, de forma articulada, para a prossecução dos seguintes objetivos:\n\na) Assegurar a reabilitação de edifícios, com afetação de habitação, que se encontram degradados ou funcionalmente inadequados;\n\nb) Desenvolver novas soluções de acesso a uma habitação condigna;\n\nc) Recuperar espaços habitacionais funcionalmente obsoletos, promovendo o seu potencial de atração de populações aos centros urbanos desertificados;\n\nd) Fomentar a adoção de critérios de eficiência energética, de eficiência material e de respeito pelo património construído."
+  },
+  "122397318": {
+   "fragment_id": "122395572",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\nO Programa obedece aos seguintes princípios:\n\na) Princípio da proteção do edificado existente, fomentando a realização de intervenções no edificado, tendo como resultado a melhoria das condições de segurança, de salubridade, do desempenho funcional, estrutural e construtivo da edificação, e a preservação das fachadas principais do edifício com todos os seus elementos não dissonantes, no caso de imóveis localizados nas áreas com legislação específica;\n\nb) Princípio da observância das regras de construção adequadas à segurança estrutural do edifício;\n\nc) Princípio da sustentabilidade, garantindo que a intervenção assenta num modelo financeiramente sustentado e equilibrado e que contribui para a valorização dos edifícios intervencionados;\n\nd) Princípio da responsabilização dos proprietários e titulares de outros direitos, ónus e encargos sobre os edifícios habitacionais, conferindo-se à sua iniciativa um papel preponderante na reabilitação do edificado;\n\ne) Princípio da contratualização, incentivando modelos de execução e promoção de operações de reabilitação baseados na concertação entre a iniciativa pública e a iniciativa privada;\n\nf) Princípio da subsidiariedade da ação pública, garantindo que as ações de reabilitação são comparticipadas apenas na medida em que os particulares não possam assegurá-las;\n\ng) Princípio da equidade, assegurando a justa repartição dos encargos e benefícios decorrentes da execução das operações de reabilitação."
+  },
+  "122397319": {
+   "fragment_id": "122395573",
+   "type": 11,
+   "heading": "Artigo 5.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Agregado familiar»:\n\ni) Conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, e seus ascendentes e descendentes até ao 2.º grau, adotados restritamente, e menores confiados àqueles com vista a futura adoção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com eles vivam em regime de comunhão de mesa e habitação;\n\nii) Conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes até ao 2.º grau, adotados restritamente, e menores confiados àquela com vista a futura adoção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com ela vivam em comunhão de mesa e habitação;\n\nb) «Beneficiário», todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ter apoio;\n\nc) «Custo total da operação de reabilitação», o valor total dos encargos a suportar pelo promotor, incluindo, para além do preço da empreitada, das prestações de serviços e dos fornecimentos relacionados com a mesma, todas as despesas que se evidenciem necessárias para efeito daquela operação;\n\nd) «Dependências do fogo», os espaços privados periféricos desse fogo, tais como as varandas, os balcões, os terraços, as arrecadações em cave, em sótão (nos edifícios multifamiliares) ou em corpos anexos, e os telheiros e alpendres (nos edifícios unifamiliares), espaços esses exteriores à envolvente que confina o fogo;\n\ne) «Edifício», a construção permanente, dotada de acesso independente, coberta, limitada por paredes exteriores ou paredes meeiras que vão das fundações à cobertura, destinada a utilização humana ou a outros fins;\n\nf) «Fogo», conjunto dos espaços privados nucleares de cada habitação, ou seja, dos espaços tais como a sala, os quartos, a cozinha, as instalações sanitárias, os arrumos, a despensa, as arrecadações em cave e em sótão, os corredores e os vestíbulos; conjunto esse confinado por uma envolvente que separa o fogo do resto do edifício;\n\ng) «Fração», a parte autónoma de um edifício que reúna os requisitos estabelecidos no artigo 1415.º do Código Civil, esteja ou não o mesmo constituído em regime de propriedade horizontal;\n\nh) «Habitação», a unidade na qual se processa a vida de cada agregado familiar residente no edifício, unidade essa que compreende o fogo e as suas dependências;\n\ni) «Habitação própria permanente», aquela onde o beneficiário e o seu agregado familiar mantêm estabilizado o seu centro de vida familiar;\n\nj) «Imóvel devoluto», o edifício ou a fração que assim for considerado nos termos dos artigos 2.º e 3.º do Decreto-Lei n.º 159/2006, de 8 de agosto;\n\nk) «Indexante dos apoios sociais» (IAS), o valor base de referência ao cálculo e atualização das contribuições, pensões e demais prestações sociais atribuídas pela segurança social, nos termos previstos na Lei n.º 53-B/2006, de 29 de dezembro;\n\nl) «Investimento total», a soma de todos os recursos financeiros necessários para suportar a operação de reabilitação, constituídos por capitais próprios afetos pelo promotor e por financiamento concedido ao abrigo do presente Programa;\n\nm) «Obras de reabilitação integral», as obras através das quais se confere a um edifício, no seu todo, adequadas características de desempenho e de segurança funcional, estrutural e construtiva;\n\nn) «Operação de reabilitação», as ações e as obras necessárias para assegurar a reabilitação de um edifício;\n\no) «Património mobiliário», os depósitos bancários e outros valores mobiliários como tal definidos em lei, designadamente ações, obrigações, certificados de aforro, títulos de participação e unidades de participação em instituições de investimento coletivo;\n\np) «Pessoa com deficiência», aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica suscetível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60 %;\n\nq) «Prédios rústicos e urbanos», os classificados como tal no Código do Imposto Municipal sobre Imóveis (Código do IMI);\n\nr) «Promotor», a pessoa singular, a instituição particular de solidariedade social e a pessoa coletiva de utilidade pública administrativa que prossiga fins sociais, que seja proprietária do edifício ou de parte do edifício a reabilitar ou que demonstre ser titular de direitos e poderes sobre o mesmo que lhe permitam onerá-lo e agir como dono de obra e que promova a operação de reabilitação por si ou em conjunto com outros contitulares;\n\ns) «Proprietário, comproprietário, usufrutuário, usuário e titular de direito de habitação» bem como os modos de constituição das respetivas situações jurídicas, são os definidos no Código Civil;\n\nt) «Reabilitação de edifícios», a forma de intervenção destinada a conferir adequadas características de desempenho e de segurança funcional, estrutural e construtiva a um ou a vários edifícios, às construções funcionalmente adjacentes incorporadas no seu logradouro, bem como às frações eventualmente integradas nesse edifício;\n\nu) «Renda condicionada», a renda determinada nos termos da Lei n.º 80/2014, de 19 de dezembro, utilizando o coeficiente de vetustez igual a um para efeitos da determinação do valor patrimonial tributário;\n\nv) «Rendimento mensal bruto» (Rmb), o valor que resulte da divisão por doze dos rendimentos auferidos, sem dedução de quaisquer encargos, por todos os elementos do agregado familiar durante o ano civil anterior ao da candidatura;\n\nw) «Rendimentos de capitais», os rendimentos como tal considerados nos termos do disposto no Código do Imposto do Rendimento das Pessoas Singulares (Código do IRS), designadamente os juros de depósitos bancários, dividendos de ações ou rendimentos de outros ativos financeiros;\n\nx) «Rendimentos de trabalho dependente», os rendimentos anuais ilíquidos como tal considerados nos termos do disposto no Código do IRS;\n\ny) «Rendimentos empresariais e profissionais», o rendimento anual no domínio das atividades dos trabalhadores independentes, a que se refere o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, através da aplicação dos coeficientes previstos no n.º 2 do artigo 31.º do Código do IRS ao valor das vendas de mercadorias e de produtos e ao valor dos serviços prestados;\n\nz) «Rendimentos prediais», os rendimentos como tal considerados nos termos do disposto no Código do IRS, designadamente as rendas dos prédios rústicos, urbanos e mistos, pagas ou colocadas à disposição dos respetivos titulares, bem como as importâncias relativas à cedência do uso do prédio ou de parte dele e aos serviços relacionados com aquela cedência; a diferença auferida pelo sublocador entre a renda recebida do subarrendatário e a paga ao senhorio, à cedência do uso, total ou parcial, de bens imóveis e a cedência de uso de partes comuns de prédios;\n\naa) «Sustentabilidade económica e financeira da operação de reabilitação», a demonstração da viabilidade financeira, através da análise da operação tendo em conta o prazo de reembolso do financiamento;\n\nbb) «Taxa de esforço», quociente entre os encargos mensais com empréstimos bancários relacionados com a habitação candidatada, adicionados aos encargos que resultam do presente diploma, e o rendimento mensal bruto auferido por todos os elementos do agregado familiar do candidato."
+  },
+  "122397320": {
+   "fragment_id": "122395574",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura é instruído pelo departamento do Governo Regional com competência em matéria de habitação, nos termos a definir em diploma regulamentar.\n\n2 - São prioritariamente propostos para decisão os processos que configurem situações de urgência ou grave carência habitacional.\n\n3 - São liminarmente indeferidas as candidaturas cujos imóveis objeto das mesmas, pelas suas características ou localização, não sejam suscetíveis de garantir segurança aos respetivos ocupantes, nem mesmo mediante a concessão do apoio previsto no presente diploma."
+  },
+  "122397321": {
+   "fragment_id": "122399075",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Rendimentos\n\nSão considerados no apuramento do rendimento mensal bruto do agregado familiar, as seguintes categorias de rendimentos:\n\na) Rendimentos de trabalho dependente;\n\nb) Rendimentos de trabalho independente empresariais e profissionais;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Pensões;\n\nf) Prestações sociais, excluindo as prestações por encargos familiares, por deficiência e por dependência;\n\ng) Outros rendimentos, fixos ou variáveis."
+  },
+  "122397322": {
+   "fragment_id": "122399076",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\n1 - São elegíveis para concessão dos apoios financeiros previstos no presente diploma as despesas a incorrer com o processo de reabilitação bem como com o registo do ónus de inalienabilidade referido no artigo 19.º e no artigo 26.º, e o registo do direito de preferência previsto no n.º 2 do artigo 21.º\n\n2 - As despesas referidas no número anterior incluem o valor do Imposto sobre o Valor Acrescentado (IVA) aplicável, salvo no caso da entidade financiada poder exercer o direito à sua dedução.\n\n3 - Não são elegíveis as despesas financiadas por outras entidades para o mesmo fim."
+  },
+  "122397323": {
+   "fragment_id": "122399077",
+   "type": 11,
+   "heading": "Artigo 9.º — Decisão do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Decisão do processo de candidatura\n\nO processo de candidatura está sujeito a decisão do membro do Governo Regional com competência em matéria de habitação, podendo esta ser objeto de delegação."
+  },
+  "122397324": {
+   "fragment_id": "122399078",
+   "type": 11,
+   "heading": "Artigo 10.º — Contratação do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contratação do apoio\n\nA aprovação da candidatura dá lugar à celebração de um contrato, a formalizar no prazo máximo de noventa dias a contar da data da comunicação do seu deferimento."
+  },
+  "122397325": {
+   "fragment_id": "122399079",
+   "type": 1,
+   "heading": "Capítulo II — Renovar para habitar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Renovar para habitar"
+  },
+  "122397326": {
+   "fragment_id": "122399080",
+   "type": 11,
+   "heading": "Artigo 11.º — Formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formas de apoio\n\n1 - O apoio financeiro para reabilitação de habitação própria permanente reveste a forma de subsídio reembolsável e não reembolsável, concedido a pessoas singulares constituídas em agregados familiares cuja situação socioeconómica não lhes permita procederem às intervenções necessárias à consecução dos fins previstos no presente diploma.\n\n2 - O apoio a conceder pode ser integrado em projetos de âmbito social plurissectoriais e que se dirijam aos agregados familiares em causa, podendo tais ações ser desencadeadas até à sua integral concretização.\n\n3 - A administração regional pode celebrar acordos de colaboração com as autarquias locais, bem como protocolos com instituições particulares de solidariedade social ou outras pessoas coletivas de utilidade pública administrativa que prossigam fins sociais.\n\n4 - Os referidos acordos e protocolos implicam, necessariamente, que as respetivas entidades comparticipem financeiramente ou em espécie na execução dos mesmos e que os destinatários do apoio satisfaçam as condições de acesso ao regime contido no presente diploma."
+  },
+  "122397327": {
+   "fragment_id": "122399081",
+   "type": 11,
+   "heading": "Artigo 12.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos de acesso\n\n1 - Podem aceder ao apoio previsto no presente capítulo as pessoas singulares titulares do direito de propriedade sobre o imóvel candidatado, sendo este destinado à habitação própria permanente do agregado familiar do candidato, há, pelo menos, um ano.\n\n2 - Podem, ainda, ter acesso ao apoio referido no presente capítulo comproprietários, usufrutuários, usuários e titulares do direito de habitação, que residam a título permanente na habitação degradada objeto do apoio e, quanto a esta, se posicionem nos termos seguintes:\n\na) Os comproprietários, desde que algum elemento do seu agregado familiar a habite a título permanente há mais de cinco anos;\n\nb) Os usufrutuários, usuários e titulares de direito de habitação, desde que provem essa condição nos termos previstos na lei e o respetivo título haja sido constituído há, pelo menos, cinco anos e de modo vitalício.\n\n3 - A elegibilidade das candidaturas de comproprietários, bem como as de usufrutuários, usuários e titulares de direito de habitação depende ainda:\n\na) Do enquadramento dos rendimentos dos agregados familiares na classe mais baixa de apoio prevista no n.º 5 do artigo 15.º;\n\nb) Da junção de documento comprovativo da autorização dos demais consortes da habitação a beneficiar, no caso de candidatura de comproprietários;\n\nc) Da junção de documento comprovativo da autorização do proprietário da habitação a beneficiar, nos restantes casos.\n\n4 - São equiparadas às candidaturas de proprietários as candidaturas de comproprietários cuja totalidade dos consortes integre o respetivo agregado familiar.\n\n5 - Cumulativamente com as condições enunciadas nos números anteriores, o acesso ao apoio previsto no presente capítulo depende da verificação dos seguintes requisitos:\n\na) Ter a sua situação tributária e contributiva devidamente regularizada;\n\nb) O interessado ou qualquer outro elemento do seu agregado familiar não pode ter sido ou estar a ser beneficiado por este ou por outro apoio à habitação própria, atribuído por organismos da administração regional autónoma, salvas as situações abrangidas por regimes de apoio excecional, que declarem serem os apoios nele previstos cumuláveis;\n\nc) O requerente ou qualquer outro elemento do seu agregado familiar não pode ser proprietário de prédio urbano para além daquele que é objeto de candidatura, exceto nos seguintes casos:\n\ni) Se o prédio urbano estiver exclusivamente afeto à atividade profissional do candidato;\n\nii) Se o prédio urbano se encontrar em estado de ruína ou degradação que impeça a sua habitabilidade, desde que não exceda o valor a definir em diploma regulamentar;\n\niii) Se o valor do prédio urbano não ultrapassar o valor a definir em diploma regulamentar;\n\niv) Se o prédio urbano cumprir com os requisitos de elegibilidade ao apoio previsto no Capítulo III;\n\nd) O requerente ou qualquer outro elemento do seu agregado familiar não pode ser proprietário de prédios rústicos cujo somatório das respetivas áreas ultrapasse um valor a fixar e desde que os mesmos não sejam passíveis de operações de loteamento e obras de urbanização;\n\ne) O rendimento mensal bruto do agregado familiar não pode ser superior ao limite máximo resultante do produto dos coeficientes indicados na Tabela I, do anexo ao presente diploma, do qual é parte integrante, pelo IAS, do ano a que aquele se reporta, e pelo número de elementos do agregado familiar.\n\n6 - Caso os prédios referidos na alínea c) do número anterior sejam a única fonte de rendimento do agregado familiar e não sejam passíveis de operações de loteamento e obras de urbanização, não pode o somatório das respetivas áreas exceder o valor a definir em diploma regulamentar.\n\n7 - O valor do património mobiliário e dos bens móveis sujeitos a registo do requerente e do seu agregado familiar não ser superior ao valor a definir em diploma regulamentar.\n\n8 - O candidato deve fornecer todos os meios de prova que sejam solicitados no âmbito da instrução do processo, nomeadamente ao nível da avaliação da situação patrimonial, económica e financeira do requerente e dos membros do seu agregado familiar, sob pena de exclusão da candidatura.\n\n9 - Os valores referidos no presente artigo serão fixados em diploma regulamentar."
+  },
+  "122397328": {
+   "fragment_id": "122399082",
+   "type": 11,
+   "heading": "Artigo 13.º — Requisitos de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos de elegibilidade das operações\n\nOs promotores podem apresentar candidaturas a financiamento ao abrigo do presente Programa para operações de reabilitação em edifícios que, à data da decisão sobre a candidatura, preencham cumulativamente os seguintes requisitos:\n\na) Cuja construção, legalmente existente, tenha sido concluída há pelo menos trinta anos;\n\nb) Após a reabilitação, o edifício ou as frações de uso habitacional e respetivas partes acessórias sejam de uso exclusivo para habitação permanente do beneficiário e do seu agregado familiar;\n\nc) Não tenham sido reabilitados ou recuperados com apoios públicos;\n\nd) Não estejam, no momento da candidatura, a ser objeto de arresto, penhora ou nomeação à penhora em processo executivo;\n\ne) Não estejam localizados em zona de risco."
+  },
+  "122397329": {
+   "fragment_id": "122399083",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime excecional\n\nSem prejuízo do disposto na alínea b) do n.º 5 do artigo 12.º e nas alíneas a) e c) do artigo 13.º, podem ser concedidos, por despacho do membro do Governo Regional com competência em matéria de habitação, apoios excecionais destinados, designadamente, à eliminação de barreiras arquitetónicas dos imóveis apoiados, se algum membro do agregado familiar for idoso ou for pessoa com deficiência, ou por outro motivo, superveniente à atribuição do apoio e devidamente fundamentado."
+  },
+  "122397330": {
+   "fragment_id": "122399084",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio financeiro\n\n1 - O apoio financeiro é determinado com base no orçamento das obras a executar e, em função da classe de apoio em que o agregado familiar se enquadra, reveste-se de uma componente de subsídio reembolsável e uma componente de subsídio não reembolsável.\n\n2 - O cálculo do valor mensal a devolver pelos beneficiários cujo subsídio atribuído apresente componente reembolsável, tem por limite a taxa de esforço prevista no regime de arrendamento apoiado.\n\n3 - Para efeitos de determinação da taxa de esforço referida no número anterior, são tidos em conta os encargos mensais, devidamente comprovados, que o candidato suporta com empréstimos bancários relacionados com a habitação candidatada.\n\n4 - O valor limite de rendimento mensal bruto (VLRMB) para cada uma das classes de apoio é o que resulta da multiplicação do número de elementos do agregado familiar pelo coeficiente de correção, determinado em função do número de elementos daquele, de acordo com a Tabela I do anexo ao presente diploma, e pelo IAS.\n\n5 - As classes de apoio, determinadas em função do VLRMB a que se refere o número anterior, são as constantes da Tabela II do anexo ao presente diploma.\n\n6 - São definidos por diploma regulamentar os valores máximo de apoio por metro quadrado de reabilitação e a área máxima por tipologia, bem como as respetivas formas de concretização e de gestão."
+  },
+  "122397331": {
+   "fragment_id": "122399085",
+   "type": 11,
+   "heading": "Artigo 16.º — Majorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Majorações\n\n1 - A comparticipação financeira prevista no presente capítulo pode ser majorada:\n\na) Nos casos em que o agregado familiar do candidato integre pessoas portadoras de deficiência, idosos ou três ou mais descendentes;\n\nb) Nos casos em que os cônjuges ou as duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, ou a pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, tenham idade compreendida entre os 18 e os 35 anos;\n\nc) Tenha por objeto habitações sitas nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo.\n\n2 - As majorações previstas no número anterior são fixadas em diploma regulamentar."
+  },
+  "122397332": {
+   "fragment_id": "122399086",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações\n\n1 - Sem prejuízo das obrigações gerais respeitantes à intervenção de qualquer cidadão num procedimento administrativo, o promotor fica especialmente obrigado a:\n\na) Assegurar o registo do ónus previsto no artigo 19.º e fazer prova do mesmo antes da concretização do subsídio;\n\nb) Iniciar as obras no prazo máximo de seis meses a contar da data da notificação do deferimento do apoio, salvo impedimento que lhe não seja imputável;\n\nc) Concluir as obras no prazo máximo de doze meses a contar da data do seu início, salvo impedimento que lhe não seja imputável;\n\nd) Realizar os trabalhos descritos no relatório técnico de obras aprovado, de acordo com as regras da boa execução;\n\ne) Comunicar antecipadamente o início das obras e o início de cada uma das fases críticas dos trabalhos a executar de acordo com o plano aprovado;\n\nf) Cooperar nas ações de fiscalização e controlo exercidas pelo departamento do Governo Regional com competência em matéria de habitação e respeitantes quer ao processo de candidatura, quer à execução dos trabalhos, quer ao acatamento das obrigações supervenientes;\n\ng) Apresentar os documentos comprovativos de despesa emitidos pelos respetivos fornecedores dos bens e pelos prestadores dos serviços;\n\nh) Celebrar, após a realização dos trabalhos, contrato de seguro respeitante à habitação apoiada;\n\ni) Comunicar, até à data da notificação da decisão, todas as alterações entretanto ocorridas e relevantes para a atribuição do apoio ou do seu montante.\n\n2 - O contrato de seguro referido na alínea h) do número anterior deve abranger, no mínimo, o prazo de vigência do ónus de inalienabilidade.\n\n3 - A omissão da comunicação referida na alínea i) do n.º 1 é equiparada, para todos os efeitos, à prestação de falsas declarações."
+  },
+  "122397333": {
+   "fragment_id": "122399087",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1 - Excetuando as situações de justo impedimento ou força maior:\n\na) O incumprimento do disposto na alínea a) do n.º 1 do artigo anterior implica a suspensão da concretização do apoio;\n\nb) O incumprimento do previsto na alínea b) do n.º 1 do artigo anterior implica a prescrição do direito ao apoio;\n\nc) O incumprimento do disposto na alínea c) do n.º 1 do artigo anterior implica a cessação imediata do apoio e o reembolso à Região do montante do apoio já atribuído;\n\nd) O incumprimento do previsto na alínea d) do n.º 1 do artigo anterior implica a cessação do apoio ainda não concretizado e o reembolso à Região do valor correspondente ao dos trabalhos previstos e não executados, salvo se o referido incumprimento se ficou a dever a motivos tecnicamente comprovados e reconhecidos pelos serviços do departamento do Governo Regional com competência em matéria de habitação;\n\ne) O incumprimento do previsto na alínea e) do n.º 1 do artigo anterior não só implica a desresponsabilização da administração regional autónoma relativamente a qualquer trabalho considerado elegível que não seja executado, como implica a perda imediata do direito ao apoio e, caso este já tenha sido concretizado, a sua devolução;\n\nf) O incumprimento do previsto nas alíneas f) e g) do n.º 1 do artigo anterior implica:\n\ni) A suspensão do montante relativo às fases ainda por atribuir;\n\nii) A devolução dos montantes adiantados, na medida do incumprimento verificado, acrescidos de 10 %;\n\ng) O incumprimento do previsto na alínea h) do n.º 1 do artigo anterior implica:\n\ni) Caso o seguro não tenha sido constituído, o reembolso à Região do montante do apoio atribuído;\n\nii) Caso o seguro venha a ser cancelado durante o período de vigência do ónus de inalienabilidade, a suspensão do prazo de vigência do referido ónus, contada a partir da data do referido cancelamento;\n\nh) O incumprimento do previsto na alínea b) do artigo 13.º determina o reembolso à Região do:\n\ni) Dobro da comparticipação financeira concedida, e não reembolsada à Região, no caso de a não afetação do imóvel a habitação permanente se verificar nos primeiros cinco anos;\n\nii) Montante da comparticipação financeira concedida, e não reembolsada à Região, acrescido de 50 %, no caso de a não afetação do imóvel a habitação permanente se verificar após os cinco anos.\n\n2 - A prestação culposa de falsas declarações nas candidaturas determina, sem prejuízo de comunicação às autoridades competentes para instauração do competente processo criminal:\n\na) Na fase de instrução, a exclusão das mesmas;\n\nb) Na fase compreendida entre a decisão e a concretização do apoio, a extinção do direito ao mesmo;\n\nc) Após a concretização do apoio, o reembolso opera-se nos termos da alínea h) do n.º 1.\n\n3 - O incumprimento de alguma das obrigações referidas no artigo anterior, com exceção da alínea i) do n.º 1, implica a impossibilidade do faltoso se candidatar a qualquer outro programa de apoio à habitação pelo período de cinco anos.\n\n4 - A prestação de falsas declarações implica, ainda, a impossibilidade do declarante se candidatar a qualquer outro programa de apoio à habitação."
+  },
+  "122397334": {
+   "fragment_id": "122399088",
+   "type": 11,
+   "heading": "Artigo 19.º — Ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ónus de inalienabilidade\n\n1 - As habitações comparticipadas para habitação permanente estão sujeitas a um ónus de inalienabilidade pelo período de dez anos, a contar da data de conclusão das obras.\n\n2 - O ónus previsto no número anterior está sujeito a registo, cuja inscrição deve mencionar a respetiva natureza e prazo.\n\n3 - Se o proprietário pretender alienar a habitação antes do termo do prazo referido no n.º 1, pode requerer ao departamento do Governo Regional com competência em matéria de habitação o levantamento do regime de inalienabilidade, mediante o pagamento à Região dos valores seguintes:\n\na) O dobro da comparticipação financeira concedida, e não reembolsada, no caso de a alienação se verificar antes do decurso de 50 % do prazo do ónus de inalienabilidade;\n\nb) O montante da comparticipação financeira concedida, e não reembolsada, acrescido de 50 %, no caso de a alienação se verificar após o decurso de 50 % do prazo do ónus de inalienabilidade."
+  },
+  "122397335": {
+   "fragment_id": "122399089",
+   "type": 11,
+   "heading": "Artigo 20.º — Caducidade do ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Caducidade do ónus de inalienabilidade\n\n1 - O ónus de inalienabilidade caduca nos casos em que haja lugar à venda ou adjudicação da habitação em processo de execução por dívidas decorrentes de empréstimos de que o prédio seja garantia, mas não exonera o executado do pagamento à Região das importâncias referidas no n.º 3 do artigo anterior, consoante o momento em que se verifique a adjudicação ou a venda.\n\n2 - A caducidade do ónus de inalienabilidade pelo decurso do prazo determina o averbamento oficioso deste facto.\n\n3 - A verificação do disposto nos números anteriores é aferida pelo notário no momento da celebração da escritura de compra e venda ou da adjudicação da habitação."
+  },
+  "122397336": {
+   "fragment_id": "122399090",
+   "type": 11,
+   "heading": "Artigo 21.º — Alienação decorrido o prazo do ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alienação decorrido o prazo do ónus de inalienabilidade\n\n1 - A alienação da habitação comparticipada, decorrido o prazo do ónus de inalienabilidade, obriga o beneficiário a restituir, à Região, 30 % da comparticipação financeira não reembolsável, atualizada anualmente por portaria do membro do Governo Regional com competência em matéria de habitação.\n\n2 - Sem prejuízo do disposto no número anterior, a Região pode exercer direito de preferência na aquisição da habitação comparticipada."
+  },
+  "122397337": {
+   "fragment_id": "122399091",
+   "type": 1,
+   "heading": "Capítulo III — Renovar para arrendar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Renovar para arrendar"
+  },
+  "122397338": {
+   "fragment_id": "122399092",
+   "type": 11,
+   "heading": "Artigo 22.º — Formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Formas de apoio\n\n1 - O apoio financeiro a obras de reabilitação, reparação e beneficiação de habitações devolutas destinadas a arrendamento, reveste a forma de subsídio reembolsável, sem juros, concedido a pessoas singulares.\n\n2 - O apoio financeiro referido no número anterior pode, ainda, ser concedido a instituições particulares de solidariedade social e a pessoas coletivas de utilidade pública administrativa que prossigam fins sociais."
+  },
+  "122397339": {
+   "fragment_id": "122399093",
+   "type": 11,
+   "heading": "Artigo 23.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Requisitos de acesso\n\n1 - Podem aceder ao apoio previsto no presente capítulo os titulares do direito de propriedade sobre o imóvel candidatado que tenham a sua situação tributária e contributiva devidamente regularizada e que comprovadamente não tenham condições de reabilitar os edifícios com recurso aos produtos bancários disponíveis, capitais próprios ou outros meios de financiamento.\n\n2 - Os critérios de avaliação das condições referidas no número anterior são definidos por diploma regulamentar."
+  },
+  "122397340": {
+   "fragment_id": "122399094",
+   "type": 11,
+   "heading": "Artigo 24.º — Requisitos de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Requisitos de elegibilidade das operações\n\n1 - Os promotores podem apresentar candidaturas a financiamento ao abrigo do presente Programa para operações de reabilitação em edifícios que, à data da decisão sobre a candidatura preencham cumulativamente os seguintes requisitos:\n\na) Não tenham sido reabilitados ou recuperados com apoios públicos;\n\nb) Após a reabilitação, o edifício ou as frações de uso habitacional e respetivas partes acessórias sejam arrendadas nos regimes de renda condicionada ou de renda apoiada nos termos do artigo 27.º;\n\nc) Não estejam, no momento da candidatura, a ser objeto de arresto, penhora ou nomeação à penhora em processo executivo;\n\nd) Não estejam localizados em zona de risco.\n\n2 - As operações de reabilitação são inelegíveis quando se verifique qualquer das seguintes situações:\n\na) Não haver interesse da Região no arrendamento das habitações no regime de renda condicionada;\n\nb) O período de tempo de reembolso da comparticipação, em função do valor do investimento, seja superior a cento e vinte meses.\n\n3 - São definidos por diploma regulamentar:\n\na) O valor máximo de apoio por metro quadrado de reabilitação;\n\nb) O montante máximo do apoio financeiro bem como as respetivas formas de concretização."
+  },
+  "122397341": {
+   "fragment_id": "122399095",
+   "type": 11,
+   "heading": "Artigo 25.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Apoio financeiro\n\n1 - O apoio financeiro a conceder obedece às seguintes condições:\n\na) O montante máximo para a operação de reabilitação é o que resulta do previsto na alínea b) do n.º 3 do artigo 24.º;\n\nb) O período máximo de utilização do apoio é de doze meses, contados da data da primeira prestação, sem prejuízo de poder ser prorrogado em casos devidamente fundamentados pelo promotor e aceites pelo departamento do Governo Regional com competência em matéria de habitação.\n\n2 - O reembolso do apoio financeiro concedido observa o seguinte:\n\na) O prazo de reembolso é o determinado no contrato de cedência do imóvel, não podendo ser superior a cento e vinte meses, contados a partir do início da sua utilização em regime de renda condicionada a celebrar com a Região;\n\nb) O reembolso é efetuado em prestações mensais de montante igual ao valor da renda em regime de renda condicionada.\n\n3 - Para efeitos de reembolso, são adicionados ao investimento inicial as despesas efetuadas em obras de conservação que tenham sido realizadas pela Região, devidamente justificadas, durante a execução do contrato.\n\n4 - No final do período de utilização, o imóvel é devolvido ao proprietário em condições de habitabilidade ou, havendo interesse de ambas as partes, a Região continua a utilizá-lo ao abrigo do previsto no Novo Regime de Arrendamento Urbano.\n\n5 - É possível o reembolso antecipado, total ou parcial, do apoio, sem prejuízo da afetação do edifício ou das frações de uso habitacional ao fim previsto na alínea b) do n.º 1 do artigo 24.º"
+  },
+  "122397342": {
+   "fragment_id": "122399096",
+   "type": 11,
+   "heading": "Artigo 26.º — Ónus e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Ónus e garantias\n\n1 - As habitações comparticipadas, no âmbito do presente capítulo, estão sujeitas a um ónus de inalienabilidade pelo período equivalente ao do reembolso do apoio financeiro atribuído, a contar da data de celebração do contrato de arrendamento previsto no artigo 27.º\n\n2 - Ao ónus de inalienabilidade referido no número anterior são aplicáveis as regras previstas nos artigos 19.º e 20.º, com as necessárias adaptações.\n\n3 - O ónus de inalienabilidade cessa ainda no caso de reembolso antecipado e integral do apoio.\n\n4 - O apoio financeiro destinado à reabilitação do fogo é reembolsado com as rendas em regime de renda condicionada, sem prejuízo da exigência de outras garantias consideradas idóneas e adequadas ao risco do apoio concedido.\n\n5 - Os beneficiários do apoio devem contratar um seguro multirriscos para os edifícios e frações objeto do financiamento que segure, pelo menos, o valor da reconstrução do imóvel em caso de incêndio, raio ou explosão, inundações e catástrofes naturais, que deverá vigorar até ao reembolso integral do apoio, sob pena de ser aplicável o previsto na alínea g) do n.º 1 do artigo 18.º"
+  },
+  "122397343": {
+   "fragment_id": "122399097",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Obrigações\n\n1 - O promotor fica sujeito às seguintes obrigações:\n\na) Dar início à execução da operação de reabilitação no prazo máximo de noventa dias após a data de assinatura do contrato de atribuição do apoio e assegurar o seu termo no prazo estabelecido para o efeito no contrato;\n\nb) Assegurar que a operação é executada em conformidade com a descrição técnica e em cumprimento do calendário contratado, não podendo ainda alterar o cronograma financeiro inicial sem autorização prévia do departamento governamental com competência em matéria de habitação;\n\nc) Assegurar os registos do pacto de preferência previsto no n.º 2 do artigo 21.º e do ónus de inalienabilidade referido no artigo 26.º, e fazer prova dos mesmos antes da concretização do subsídio;\n\nd) Comunicar antecipadamente o início das obras e o início de cada uma das fases críticas dos trabalhos a executar de acordo com o plano aprovado;\n\ne) Cooperar nas ações de fiscalização e controlo exercidas pelo departamento do Governo Regional com competência em matéria de habitação e respeitantes quer ao processo de candidatura, quer à execução dos trabalhos, quer ao acatamento das obrigações supervenientes;\n\nf) Apresentar os documentos comprovativos de despesa emitidos pelos respetivos fornecedores dos bens e pelos prestadores dos serviços;\n\ng) Comunicar, até à data da notificação da decisão, todas as alterações entretanto ocorridas e relevantes para a atribuição do apoio ou do seu montante;\n\nh) Contratualizar com a Região o arrendamento dos edifícios ou frações reabilitadas no âmbito do presente capítulo, até ao limite do prazo definido na alínea a) do n.º 2 do artigo 25.º, não podendo o valor da renda aplicada ao edifício ou à fração exceder o valor da renda condicionada que lhe corresponde.\n\n2 - A omissão da comunicação referida na alínea g) do número anterior é equiparada, para todos os efeitos, à prestação de falsas declarações."
+  },
+  "122397344": {
+   "fragment_id": "122399098",
+   "type": 11,
+   "heading": "Artigo 28.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sanções\n\n1 - Excetuando as situações de justo impedimento ou de força maior:\n\na) O incumprimento do previsto na alínea a) do n.º 1 do artigo anterior determina a prescrição do direito ao apoio;\n\nb) O incumprimento do previsto na alínea b) do n.º 1 do artigo anterior determina a cessação imediata do apoio e o reembolso à Região do montante do apoio atribuído;\n\nc) O incumprimento do previsto na alínea c) do n.º 1 do artigo anterior determina a suspensão da atribuição do apoio;\n\nd) O incumprimento do previsto na alínea d) do n.º 1 do artigo anterior determina a desresponsabilização da administração regional autónoma relativamente a qualquer trabalho considerado elegível que não seja executado, como implica a perda imediata do direito ao apoio e, caso este já tenha sido concretizado, a sua devolução;\n\ne) O incumprimento do previsto nas alíneas e) e f) do n.º 1 do artigo anterior implica:\n\ni) A suspensão do montante relativo às fases ainda por atribuir;\n\nii) A devolução dos montantes adiantados, na medida do incumprimento verificado, acrescidos de 10 %.\n\n2 - Sem prejuízo de participação criminal às autoridades competentes, a prestação de falsas declarações pelo promotor implica, para além do previsto no n.º 4 do presente artigo, o seguinte:\n\na) Na fase de instrução, a exclusão das mesmas;\n\nb) Na fase compreendida entre a decisão e a concretização do apoio, a extinção do direito ao mesmo;\n\nc) Após a concretização do apoio, ao reembolso aplica-se o disposto nas alíneas a) e b) do n.º 3 do artigo 19.º\n\n3 - A falta de comparência do promotor na data prevista para a assinatura do contrato de arrendamento, se não for devidamente justificada, é equiparada para todos os efeitos legais a desistência do processo de candidatura e determina o reembolso à Região do valor do apoio atribuído.\n\n4 - A resolução unilateral, por parte do promotor, do contrato previsto na alínea h) do n.º 1 do artigo 27.º antes de decorrido o prazo definido na alínea a) do n.º 2 do artigo 25.º, determina o reembolso à Região do:\n\ni) Dobro da comparticipação financeira concedida, e não reembolsada à Região, no caso de a resolução do contrato se verificar antes do decurso de 50 % desse prazo;\n\nii) Montante da comparticipação financeira concedida, e não reembolsada à Região, acrescido de 50 %, no caso de a resolução do contrato se verificar após o decurso de 50 % desse prazo.\n\n5 - A aplicação de qualquer sanção referida no presente artigo determina a impossibilidade de o promotor se candidatar a qualquer programa de apoio à habitação pelo período de cinco anos."
+  },
+  "122397345": {
+   "fragment_id": "122399099",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "122397346": {
+   "fragment_id": "122399100",
+   "type": 11,
+   "heading": "Artigo 29.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regulamentação\n\nO presente diploma será regulamentado no prazo de noventa dias."
+  },
+  "122397347": {
+   "fragment_id": "122399101",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto Legislativo Regional n.º 6/2002/A, de 11 de março, alterado pelos Decretos Legislativos Regionais n.os 37/2006/A, de 31 de outubro, e 22/2009/A, de 16 de dezembro;\n\nb) O Decreto Regulamentar Regional n.º 1/2003/A, de 6 de fevereiro, alterado pelos Decretos Regulamentares Regionais n.os 7/2004/A, de 26 de março, 2/2008/A, de 14 de fevereiro, 17/2008/A, de 9 de julho, e 10/2011/A, de 13 de abril;\n\nc) A Portaria n.º 17/2006, de 9 de fevereiro, da Secretaria Regional da Habitação e Equipamentos.\n\n2 - Sem prejuízo do disposto no número anterior, mantêm-se em vigor as normas referentes ao ónus da inalienabilidade, às obrigações e sanções constantes do Decreto Legislativo Regional n.º 6/2002/A, de 11 de março, alterado pelos Decretos Legislativos Regionais n.os 37/2006/A, de 31 de outubro, e 22/2009/A, de 16 de dezembro, para os contratos celebrados ao abrigo daquele diploma."
+  },
+  "122397348": {
+   "fragment_id": "122399102",
+   "type": 11,
+   "heading": "Artigo 31.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir da data da entrada em vigor do diploma regulamentar previsto no artigo 29.º, aplicando-se às candidaturas pendentes que se encontrem em fase de instrução."
+  },
+  "122397350": {
+   "fragment_id": "122399104",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nTABELA I\n\nCritério de elegibilidade (VLRMB)\n\n[a que se refere a alínea e) do n.º 5 do artigo 12.º e o n.º 4 do artigo 15.º]\n\n(ver documento original)\n\nTABELA II\n\nLimites das Classes de Apoio\n\n(a que se refere o n.º 5 do artigo 15.º)\n\n(ver documento original)\n\n112297837"
+  }
+ }
+}

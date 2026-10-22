@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:649908:por
+title: Portaria n.º 387/2006
+short_title: null
+summary: Estabelece as regras relativas à atribuição de licenças de emissão a novas instalações
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Economia e da Inovação
+proposing_entity: null
+official_number: 387/2006
+official_date: null
+publication_date: '2006-04-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/2006, Série I-B de 2006-04-21
+  number: '79'
+  series: I
+  supplement: null
+  pages: 2867 - 2870
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/04/079b00/28672870.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/387/2006/04/21/p/dre/pt/html
+  oj: null
+  dre: '649908'
+  dre_path: /dr/detalhe/portaria/387-2006-649908
+  internal: pt:dre:649908:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2006-649908
+  metadata_url: https://data.dre.pt/eli/port/387/2006/04/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2006-649908
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-07-06T00:00:00Z'
+integrity:
+  source_sha256: 95dbc3b218bd0a7e0f5e00f8f9fcfd05e4a0d784661fe52d60c0d92e8ca6374c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-387-649908.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Pnale
+- Efeito de Estufa
+- Licença de Emissão
+- Licenciamento
+- Alteração Climática
+relationships:
+- type: amended_by
+  target: pt:dre:492216:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32003L0087
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/87/oj
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 387/2006
+
+de 21 de Abril
+
+O Decreto-Lei n.º 233/2004, de 14 de Dezembro, que estabelece o regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade Europeia e transpõe para a ordem jurídica nacional a Directiva n.º [2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de Outubro, com as alterações introduzidas pelos Decretos-Leis n.os 243-A/2004, de 31 de Dezembro, e 230/2005, de 29 de Dezembro, remete, nos termos do n.º 6 do seu anexo III, para o Plano Nacional de Atribuição de Licenças de Emissão (PNALE) a definição dos meios que permitem às novas instalações começar a participar no regime de comércio de licenças de emissão.
+
+A Resolução do Conselho de Ministros n.º 53/2005, de 3 de Março, aprovou o PNALE para o período de 2005-2007, criando, nos termos do seu n.º 5 uma reserva de licenças de emissão para novas instalações, cuja atribuição, segundo o n.º 6, deve ter em conta a metodologia utilizada na atribuição às instalações existentes, o momento de entrada em funcionamento da instalação e a estimativa das licenças de emissão necessárias ao seu normal funcionamento, até ao fim do período de mercado em curso, tendo em conta o recurso às melhores tecnologias disponíveis. Por sua vez, o n.º 7 da referida resolução do Conselho de Ministros estabelece que as regras relativas à atribuição das licenças de emissão às novas instalações são definidas por portaria conjunta dos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Economia e da Inovação.
+
+Assim:
+
+Ao abrigo do disposto no n.º 7 da Resolução do Conselho de Ministros n.º 53/2005, de 3 de Março:
+
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Economia e da Inovação, o seguinte:
+
+###### Artigo 1.º — Novas instalações
+
+1 - A atribuição de licenças de emissão às novas instalações é realizada a título gratuito, com base nas emissões previstas, desde o seu primeiro arranque, incluindo as correspondentes ao período de testes ou ensaios, até ao fim do período de mercado em curso.
+
+2 - Estão incluídas na definição de novas instalações prevista no número anterior as alterações às instalações existentes que configurem um aumento da capacidade instalada de produção ou uma alteração da natureza ou do funcionamento da instalação resultante de obrigações decorrentes de outros regimes legais aplicáveis, devendo neste caso a atribuição ser realizada, adicionalmente às licenças já atribuídas à instalação existente, com base nas emissões previstas associadas.
+
+###### Artigo 2.º — Cálculo de licenças de emissão
+
+1 - O cálculo das emissões previstas para o período de funcionamento da instalação, excluindo o período de testes ou ensaios, decorre da aplicação da seguinte fórmula:
+
+EP = CP x EE x TU
+
+em que:
+
+EP são as emissões previstas, expressas em toneladas CO(índice 2)/ano;
+
+CP é a capacidade instalada de produção expressa em unidade de produção/ano;
+
+EE é o coeficiente de emissões específicas, expresso em toneladas CO(índice 2)/unidade de produção;
+
+TU é a taxa de utilização, expressa em produção anual prevista/capacidade instalada de produção.
+
+2 - A definição do coeficiente de emissões específicas (EE), para cada sector de actividade e para cada período, será igual à emissão específica mais reduzida verificada no conjunto das instalações em operação nesse sector de actividade para o período em questão, tendo em consideração o processo tecnológico e do combustível utilizado. Para o período de 2005-2007, os sectores e subsectores de actividade serão os definidos no n.º 56 do anexo da Resolução do Conselho de Ministros n.º 53/2005, de 3 de Março.
+
+3 - A taxa de utilização a aplicar em cada sector de actividade e para cada período será igual ao valor médio da taxa de utilização (TU) da capacidade de produção do quartil do conjunto de instalações do mesmo sector, com título de emissão de gases com efeito de estufa válido com maior taxa de utilização, tendo em consideração o processo tecnológico e do combustível utilizado. Para o período de 2005-2007, os sectores e subsectores de actividade serão os definidos no n.º 56 do anexo da Resolução do Conselho de Ministros n.º 53/2005, de 3 de Março.
+
+4 - O Instituto do Ambiente (IA), no sentido de criar a maior transparência possível no processo de utilização da reserva para novas instalações, deve recolher a informação mais actualizada e fazer publicar, após parecer da Direcção-Geral de Geologia e Energia (DGGE) e num prazo de 60 dias úteis a contar da data da publicação da presente portaria, na sua página da Internet, os valores de EE e da TU dos vários sectores de actividade representados no regime de comércio de emissões, ao nível nacional.
+
+5 - Para os períodos de 2008-2012 e seguintes, a publicação dos valores da EE e da TU referida no número anterior deverá ocorrer no prazo de 60 dias após a aprovação do respectivo PNALE.
+
+6 - A fórmula prevista no n.º 1 do presente artigo não é aplicável quando no âmbito do arranque da nova instalação se verifique um período de testes ou ensaios prévios ao início do normal funcionamento da instalação, caso em que, na atribuição de licenças de emissão para esse período, o IA deve ter em conta a duração e os consumos médios típicos do período de testes ou ensaios de cada sector.
+
+7 - Nas situações em que um operador de uma instalação entender que se justifica a aplicação, à sua situação particular, de um coeficiente de emissões específicas ou de taxas de utilização diferentes daqueles definidos e publicados pelo IA, pode requerer ao IA a aplicação de coeficientes próprios, fundamentando essa situação de excepção.
+
+8 - O IA decide sobre o requerimento referido no número anterior mediante parecer da DGGE, tendo em atenção os comentários que lhe sejam remetidos em consequência de um período de consulta pública não inferior a uma semana.
+
+###### Artigo 3.º — Atribuição de licenças
+
+1 - Para os efeitos da atribuição das licenças de emissão aos operadores das novas instalações, estes devem submeter, simultaneamente com o pedido de licenciamento da actividade, devidamente instruído, e com o pedido de título de emissão de gases com efeito de estufa, a seguir designado por pedido de título, a apresentar nos termos do n.º 1 do artigo 9.º do Decreto-Lei n.º 233/2004, de 14 de Dezembro, na sua redacção actual, a informação necessária para o cálculo das emissões futuras, de acordo com o modelo de formulário constante do anexo da presente portaria, da qual faz parte integrante.
+
+2 - A data da entrada da totalidade dos elementos referidos no número anterior em papel constitui a base para a definição de uma regra de precedência no acesso à reserva para novas instalações.
+
+3 - Para os efeitos do previsto no número anterior, o operador deve enviar ao IA o comprovativo da entrega destes elementos.
+
+4 - No prazo de cinco dias úteis após a recepção do pedido de licenciamento da actividade, a entidade coordenadora do licenciamento deverá informar o IA naqueles casos em que o processo submetido tenha sido considerado como não devidamente instruído, caso em que o processo de atribuição de licenças de emissão é imediatamente interrompido.
+
+5 - No caso de novas instalações para as quais, à data da publicação desta portaria, esteja já em curso um processo de licenciamento, a data referida no n.º 2 do presente artigo é a da entrada do pedido de licenciamento da actividade.
+
+6 - Para os efeitos da aplicação do presente diploma às instalações de produção de energia eléctrica, ao pedido de licenciamento da actividade corresponde o pedido de licença de estabelecimento, devidamente instruído nos termos do Regulamento de Licenças para as Instalações Eléctricas e demais legislação aplicável.
+
+###### Artigo 4.º — Cativação das licenças de emissão
+
+1 - O IA, após a entrada do conjunto completo de elementos referidos no artigo anterior, cativa, na reserva para novas instalações, o montante de licenças de emissão que resulte da aplicação da fórmula prevista nos n.os 1 e 5 do artigo 2.º da presente portaria, como reserva para a sua atribuição futura.
+
+2 - Quando o total de licenças de emissão disponível na reserva para novas instalações se verifique insuficiente para cobrir o montante de licenças de emissão a atribuir a uma nova instalação, o IA procede à cativação do número de licenças de emissão necessárias, até ao limite de licenças de emissão disponíveis na reserva para novas instalações, com prejuízo para a nova instalação.
+
+3 - A cativação efectuada nos termos dos números anteriores é anulada se passados 12 meses após a data de cativação inicial o pedido de licenciamento ou autorização da nova instalação ainda não se encontrar deferido, em consequência de acção ou omissão da exclusiva responsabilidade do operador da instalação.
+
+4 - Nos casos em que venha a verificar-se um indeferimento do pedido de licenciamento da actividade por parte da entidade coordenadora do licenciamento, esta deverá informar imediatamente o IA de que anulará a cativação efectuada nos termos dos n.os 1 e 2 do presente artigo.
+
+5 - A cativação efectuada nos termos dos n.os 1 e 2 é anulada se o arranque da nova instalação ainda não se tiver verificado 12 meses após a data prevista para o início de operação da nova instalação, previsto no pedido de título.
+
+###### Artigo 5.º — Esgotamento da reserva
+
+O esgotamento da reserva para novas instalações determina a não cativação de quaisquer licenças de emissão, devendo os operadores das novas instalações suprir as necessidades de licenças, por recurso ao mercado de licenças de emissão.
+
+###### Artigo 6.º — Actualização de dados
+
+Os operadores das novas instalações, a partir da data de cativação das respectivas licenças de emissão, devem submeter ao IA, todos os 120 dias seguidos, uma versão actualizada do formulário referido no n.º 1 do artigo 3.º, incluindo a informação necessária para o cálculo das emissões futuras, por forma a permitir ao IA actualizar o montante de licenças de emissão a cativar nos termos do n.º 1 do artigo 4.º
+
+###### Artigo 7.º — Atribuição de licenças
+
+1 - A atribuição efectiva de licenças ao operador de uma nova instalação é concretizada imediatamente após a instalação ter recebido autorização da entidade coordenadora do licenciamento para iniciar o período de testes ou ensaios ou a exploração, sendo o quantitativo de licenças de emissão a atribuir determinado pelo IA, nos termos dos n.os 1 e 5 do artigo 2.º
+
+2 - A entidade coordenadora do licenciamento notifica o IA da autorização concedida para início do período de testes ou ensaios ou de exploração em simultâneo com a notificação ao operador.
+
+###### Artigo 8.º — Reforço da reserva
+
+1 - A actualização dos montantes a cativar ou a atribuir a cada nova instalação pode dar lugar à disponibilização de licenças de emissão para reforço da reserva para novas instalações ou ao recurso às licenças de emissão disponíveis na mesma reserva para complementar a cativação ou atribuição adequada a uma nova instalação.
+
+2 - Nos casos previstos no número anterior ou em qualquer outra situação em que se verifique a disponibilização de licenças de emissão para a reserva para novas instalações, numa situação de exaustão desta, as licenças entretanto repostas são atribuídas às instalações referidas no n.º 2 do artigo 4.º e no artigo 5.º de acordo com a regra de precedência estabelecida no n.º 2 do artigo 3.º e nos termos da fórmula estabelecida no n.º 1 do artigo 2.º, mesmo que entretanto já tenha ocorrido o início de funcionamento dessa nova instalação.
+
+3 - Em qualquer situação de actualização do montante de licenças de emissão a cativar ou a atribuir em que se verifique a necessidade de recorrer à reserva para novas instalações, o aumento de licenças de emissão a atribuir fica condicionado ao montante de licenças de emissão disponíveis.
+
+###### Artigo 9.º — Disponibilização de informação ao público
+
+A lista de novas instalações, as respectivas cronologia e licenças de emissão cativadas e o valor remanescente da reserva para novas instalações constam da página da Internet do IA, sendo objecto de actualização mensal.
+
+###### Artigo 10.º — Cessação de actividade
+
+1 - Qualquer instalação que cesse totalmente a operação mantém todas as licenças já atribuídas para o ano em curso, independentemente da data de encerramento da instalação, devendo o IA cancelar o direito do operador a receber licenças nos anos subsequentes à data de encerramento da instalação.
+
+2 - As licenças de emissão disponibilizadas nos termos do número anterior, revertem para a reserva para novas instalações.
+
+3 - Para os efeitos do disposto no n.º 1 do presente artigo, considera-se encerramento de uma instalação a cessação total da actividade de uma instalação e o cancelamento da respectiva licença de exploração ou a declaração de desactivação por parte do operador.
+
+###### Artigo 11.º — Anulação de licenças de emissão da reserva
+
+Se no final dos períodos do mercado se verificar a existência de licenças não atribuídas na reserva para novas instalações, estas são anuladas pelo IA.
+
+###### Artigo 12.º — Transferência de licenças
+
+1 - Nos casos em que se verifique o encerramento de uma instalação e a sua substituição por uma nova instalação da mesma actividade e gerida pelo mesmo operador, pode ser requerida a transferência automática das licenças de emissão previstas a atribuir à antiga instalação, nos anos subsequentes ao do seu encerramento para a conta da nova instalação.
+
+2 - A transferência de licenças de emissão para uma determinada instalação nos termos do número anterior inibe essa instalação de se candidatar à atribuição de licenças de emissão da reserva para novas instalações, na fracção correspondente à capacidade da instalação encerrada.
+
+###### Artigo 13.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Em 16 de Março de 2006.
+
+**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+
+## ANEXO — Formulário para atribuição de licenças de emissão da reserva para novas instalações
+
+1 - Identificação da instalação:
+
+1.1 - Designação da instalação;
+
+1.2 - Morada;
+
+1.3 - Sector de actividade (ver nota 1);
+
+1.4 - Nome do operador;
+
+1.5 - Pessoa a contactar (nome, e-mail e telefone).
+
+2 - Descrição do projecto:
+
+2.1 - Nova instalação ou alteração de instalação existente;
+
+2.2 - Resumo do projecto;
+
+2.3 - Capacidade de produção a instalar;
+
+2.4 - Combustíveis e materiais a utilizar (quantidades características).
+
+3 - Calendário de execução do projecto:
+
+3.1 - Data de início da construção/instalação;
+
+3.2 - Data prevista para o início e duração dos testes ou ensaios;
+
+3.3 - Consumo previsto de combustíveis e materiais no período de testes ou ensaios;
+
+3.4 - Data prevista para o início do funcionamento industrial;
+
+3.5 - Produção média prevista até ao fim do período de mercado.
+
+4 - Informação complementar:
+
+4.1 - Documentação relativa ao projecto que permita a demonstração da informação referida nos n.os 2 e 3, nomeadamente contratos de fornecimento/construção ou declarações objectivas do promotor sobre a formalização desses contratos.
+
+(nota 1) De acordo com o anexo I do Decreto-Lei n.º 233/2004, de 14 de Dezembro, na sua redacção actual.

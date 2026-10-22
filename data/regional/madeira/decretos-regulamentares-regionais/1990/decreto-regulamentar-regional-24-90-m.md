@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:564234:por
+title: Decreto Regulamentar Regional n.º 24/90/M
+short_title: null
+summary: Regulamenta as categorias profissionais de motorista de turismo, transferista, guia-intérprete regional, guia-intérprete
+  nacional, correio de turismo, guia de mar, guia de montanha e recepcionista de turismo
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 24/90/M
+official_date: null
+publication_date: '1990-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 298/1990, Série I de 1990-12-28
+  number: '298'
+  series: I
+  supplement: null
+  pages: 5254 - 5256
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29800/52545256.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '564234'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/24-1990-564234
+  internal: pt:dre:564234:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1990-564234
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1990-564234
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-06-17T00:00:00Z'
+integrity:
+  source_sha256: d4ae4d40399838ca5d23992b0466e5a0fe150dbc4e6192d92c7408e4212753f1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1990/DRE-1990-24-564234.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:496760:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 24/90/M
+
+Regulamenta as categorias profissionais de motorista de turismo, transferista, guia-intérprete regional, guia-intérprete nacional, correio de turismo, guia de mar, guia de montanha e recepcionista de turismo.
+
+O Governo Regional da Madeira, nos termos do artigo 3.º do [Decreto Legislativo Regional n.º 5/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1985-326941), de 20 de Março, e ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
+
+###### Artigo 1.º As categorias profissionais de motorista de turismo, tranferista, guia-intérprete regional, guia-intérprete nacional, correio de turismo, guia de mar, guia de montanha e recepcionista de turismo ficam sujeitas ao disposto no presente regulamento.
+
+###### Art. 2.º Motorista de turismo é o profissional que acompanha turistas nacionais ou estrangeiros em veículos ligeiros com a lotação máxima de nove passageiros, conduzindo o respectivo veículo e prestando informações de carácter histórico, cultural e geral.
+
+###### Art. 3.º Transferista é o profissional que acolhe e acompanha turistas de estações terrestres, marítimas ou aéreas para locais de alojamento ou destes para aqueles, em trânsito de uma estação para outra ou em deslocações cuja exclusiva finalidade seja a ligação entre dois locais onde forem prestados outros serviços turísticos.
+
+###### Art. 4.º Guia-intérprete regional é o profissional que acompanha turistas em viagens e visitas a locais de interesse turístico, tais como museus, palácios e monumentos nacionais, prestando informações de carácter geral, histórico e cultural, cuja actividade se exerça exclusivamente nesta Região.
+
+###### Art. 5.º Guia-intérprete nacional é o profissional que acompanha turistas em viagens e visitas locais de interesse turístico, tais como museus, palácios e monumentos nacionais, prestando informações de carácter geral, histórico e cultural, cuja actividade abranja todo o território nacional.
+
+###### Art. 6.º Correio de turismo é o profissional que acompanha turistas em viagens ao País e ao estrangeiro, como representante dos respectivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens, sendo-lhe vedado conduzir visitas a museus, palácios e monumentos nacionais.
+
+###### Art. 7.º Guia de mar é o profissional que acompanha turistas em viagens marítimas de recreio, efectuadas entre as várias ilhas que compõem o arquipélago, bem como ao longo das respectivas costas, prestando informações de carácter geral, cultural e histórico relativo à Região e, em especial, sobre a fauna e características específicas de toda a zona marítima envolvente.
+
+###### Art. 8.º Guia de montanha é o profissional que acompanha turistas em percursos essencialmente pedestres, ao longo dos caminhos, veredas e levadas das serras da Região, prestando informações de carácter geral, histórico e cultural e, em especial, sobre a fauna, flora e características geológicas locais.
+
+###### Art. 9.º Recepcionista de turismo é o profissional que, em local fixo, faculta aos turistas informações de carácter geral, elucidando-os, nomeadamente, quanto ao património natural e cultural existente, características do clima, alojamento e restauração, transportes e excursões turísticas, locais de divertimento, bem como qualquer outra informação que possa ter interesse para os mesmos.
+
+###### Art. 10.º O guia-intérprete regional, habilitado para exercer a sua profissão unicamente nesta Região, poderá, todavia, acompanhar viagens turísticas que a excedam, no caso de falta comprovada de guias-intérpretes nacionais ou de guias-intérpretes da região a visitar.
+
+###### Art. 11.º Os correios de turismo de nacionalidade estrangeira que entrem em Portugal no exercício da sua profissão são autorizados a assistir os turistas que acompanham, não podendo, contudo, conduzir visitas em território nacional.
+
+###### Art. 12.º - 1 - Sempre que as viagens acompanhadas por correios de turismo, de nacionalidade portuguesa ou estrangeira, incluam visitas a museus, palácios e monumentos nacionais, deverá a entidade organizadora, se for uma agência de viagens e turismo nacional ou se a viagem vier consignada a uma agência nacional, directamente ou através do profissional, requisitar para essas visitas os serviços de um guia-intérprete regional ou nacional.
+
+2 - No caso de falta comprovada do profissional adequado, poderá o correio de turismo conduzir as visitas programadas.
+
+###### Art. 13.º A mesma pessoa poderá exercer, cumulativamente, mais de uma profissão de informação turística, desde que satisfaça, em simultâneo, as condições exigidas para cada uma delas.
+
+###### Art. 14.º Considera-se que não há profissionais de informação turística desocupados quando, tendo sido pedido ao sindicato respectivo com a antecedência mínima de 24 horas, este informe que não existem profissionais disponíveis para a realização do serviço pretendido.
+
+###### Art. 15.º - 1 - Verificada, nos termos do artigo anterior, a falta de motoristas de turismo, transferistas, guias-intérpretes regionais, guias-intérpretes nacionais, correios de turismo, guias de mar e de montanha, as agências de viagens serão autorizadas a utilizar empregados seus no exercício daquelas actividades exclusivamente para o serviço em questão.
+
+2 - A agência de viagens comunicará à Direcção Regional de Turismo as circunstâncias previstas no número anterior, prévia ou posteriormente à realização do serviço, num prazo que não exceda 24 horas após a realização do mesmo.
+
+3 - A comunicação referida no número anterior deverá conter a identificação do empregado que vai efectuar o serviço, a indicação deste e a sua duração, em impresso de modelo aprovado pela Direcção Regional de Turismo, sendo o empregado portador de uma cópia durante a realização do serviço, a qual constitui título bastante para a sua realização.
+
+4 - Desta comunicação será enviada cópia pela empresa ao sindicato no prazo de 24 horas.
+
+###### Art. 16.º - 1 - No caso previsto no artigo 14.º, a informação do sindicato poderá ser prestada verbalmente.
+
+2 - O sindicato deverá possuir um registo de todas as informações verbais prestadas nos termos do número anterior, o qual deverá ser facultado para consulta às agências de viagens e turismo, sempre que por elas seja requerido.
+
+###### Art. 17.º - 1 - Os profissionais de informação turística deverão apresentar a carteira profissional às entidades fiscalizadoras referidas no artigo 12.º do [Decreto Legislativo Regional n.º 5/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1985-326941), de 20 de Março, sempre que tal lhes seja pedido.
+
+2 - A obrigação estabelecida no número anterior recai igualmente sobre os portadores do documento referido no n.º 3 do artigo 15.º
+
+###### Art. 18.º - 1 - Os profissionais a que este diploma respeita deverão velar pelo cumprimento do programa de viagens, sendo-lhes, designadamente, vedado desviar turistas de agências de viagens, estabelecimento hoteleiro e similar ou outra organização a que forem destinados.
+
+2 - Os profissionais de informação turística que receberem comissões ou gratificações relativas a vendas que venham a ser julgadas crimes de especulação por sentença dos tribunais incorrerão nas sanções disciplinares previstas neste regulamento, sem prejuízo do procedimento criminal a que houver lugar.
+
+###### Art. 19.º - 1 - No exercício da respectiva actividade, os profissionais de informação turística serão portadores da carteira profissional e usarão obrigatoriamente um distintivo de modelo aprovado pela Direcção Regional de Turismo.
+
+2 - O disposto neste artigo não se aplica aos empregados das agências de viagens em exercício acidental da actividade nos termos do n.º 1 do artigo 15.º e aos correios de turismo estrangeiros.
+
+###### Art. 20.º - 1 - As pessoas que exercerem qualquer profissão de informação turística com violação do disposto no artigo 8.º do [Decreto Legislativo Regional n.º 5/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1985-326941), de 20 de Março, serão punidas com multa de 5000$00 a 20000$00, sendo o limite máximo aplicável apenas em caso de reincidência.
+
+2 - As empresas a que forem prestados os serviços referidos no número anterior serão punidas com multa de 10000$00 a 25000$00.
+
+###### Art. 21.º - 1 - As pessoas não abrangidas pelo disposto no artigo 8.º do [Decreto Legislativo Regional n.º 5/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1985-326941), de 20 de Março, que forem encontradas a exercer actividades de informação turística, não sendo titulares de carteira profissional e não possuindo os requisitos legais para a sua obtenção, serão punidas com multa de 5000$00 a 20000$00, sendo o limite máximo aplicável apenas em caso de reincidência.
+
+2 - As empresas que contratem pessoas abrangidas pelo disposto no número anterior serão punidas com multa de 10000$00 a 35000$00.
+
+###### Art. 22.º - 1 - Os profissionais que infrinjam o disposto no n.º 1 do artigo 12.º deste diploma serão punidos com multa de 1000$00 a 2000$00.
+
+2 - As empresas que tomem a iniciativa ou consintam no comportamento referido no número anterior serão punidas com multa de 2000$00 a 5000$00.
+
+###### Art. 23.º A inobservância do disposto no n.º 1 do artigo 19.º será punida com advertência.
+
+###### Art. 24.º - 1 - As pessoas que forem encontradas a exercer actividades de informação turística, não sendo titulares de carteira profissional, mas possuindo os demais requisitos para o seu exercício, serão punidas com multa de 1000$00 a 5000$00.
+
+2 - As empresas que contratarem pessoas abrangidas pelo disposto no número anterior serão punidas com multa de 1000$00.
+
+###### Art. 25.º - 1 - A infracção ao disposto no n.º 1 do artigo 18.º será punida com advertência e, em caso de reincidência, com multa de 1000$00 a 5000$00.
+
+2 - A infracção ao disposto no n.º 2 do referido artigo será punida com multa de 1000$00 a 5000$00 e, em caso de reincidência, com suspensão do exercício da profissão de um mês a um ano.
+
+###### Art. 26.º - 1 - As empresas que pagarem aos profissionais de informação turística remunerações ou outras prestações de natureza pecuniária inferiores aos valores mínimos da tabela de honorários em vigor serão punidas com multa igual ao quádruplo da diferença entre o valor mínimo fixado para o serviço e o quantitativo pago, até ao limite de 35000$00, sem prejuízo do dever de pagamento da diferença devida ao profissional.
+
+2 - A multa não poderá, em qualquer caso, ser inferior a 2000$00.
+
+Aprovado em Conselho do Governo Regional em 19 de Outubro de 1990.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 9 de Novembro de 1990.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**

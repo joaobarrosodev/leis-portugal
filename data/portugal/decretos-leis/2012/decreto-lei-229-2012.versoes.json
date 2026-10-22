@@ -1,0 +1,534 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:192440:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-70865650",
+ "dre_path": "/dr/detalhe/decreto-lei/229-2012-192440",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70876290",
+    "70876291",
+    "70876292",
+    "70876293",
+    "70876294",
+    "70876295",
+    "70876296",
+    "70876297",
+    "70876298",
+    "70876299",
+    "70876300",
+    "70876301",
+    "70876302",
+    "70876303",
+    "70876304",
+    "70876305",
+    "70876306",
+    "70876307",
+    "70876308",
+    "70876309",
+    "70876310",
+    "70876311",
+    "70876312",
+    "70876313",
+    "70876314",
+    "70876315",
+    "70876316",
+    "70876317",
+    "70876318",
+    "70876319",
+    "70876320",
+    "70876321",
+    "70876322",
+    "70876323",
+    "70876324",
+    "70876325"
+   ]
+  },
+  {
+   "date": "2015-10-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70485719:por",
+     "title": "Decreto-Lei n.º 219/2015",
+     "published": "2015-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/219-2015-70485719"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "70876290",
+    "70876291",
+    "70876292",
+    "70876293",
+    "70876294",
+    "70876295",
+    "70876326",
+    "70876296",
+    "70876297",
+    "70876298",
+    "70876299",
+    "70876300",
+    "70876301",
+    "70876302",
+    "70876332",
+    "70876333",
+    "70876305",
+    "70876306",
+    "70876307",
+    "70876308",
+    "70876309",
+    "70876310",
+    "70876311",
+    "70876312",
+    "70876313",
+    "70876314",
+    "70876315",
+    "70876316",
+    "70876317",
+    "70876318",
+    "70876319",
+    "70876320",
+    "70876321",
+    "70876322",
+    "70876334",
+    "70876324",
+    "70876325"
+   ]
+  },
+  {
+   "date": "2020-09-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:143741480:por",
+     "title": "Decreto-Lei n.º 75/2020",
+     "published": "2020-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/75-2020-143741480"
+    }
+   ],
+   "changes": [
+    "Altera Capítulo III",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "70876290",
+    "70876291",
+    "70876292",
+    "70876293",
+    "70876294",
+    "70876295",
+    "70876326",
+    "70876296",
+    "70876297",
+    "70876298",
+    "70876299",
+    "70876300",
+    "70876301",
+    "70876302",
+    "70876332",
+    "70876333",
+    "70876305",
+    "70876306",
+    "70876307",
+    "70876308",
+    "70876309",
+    "70876310",
+    "143857637",
+    "70876312",
+    "70876313",
+    "70876314",
+    "70876315",
+    "143857638",
+    "70876317",
+    "143857639",
+    "143857640",
+    "70876320",
+    "70876321",
+    "70876322",
+    "70876334",
+    "70876324",
+    "70876325"
+   ]
+  }
+ ],
+ "fragments": {
+  "70876290": {
+   "fragment_id": "70865651",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 229/2012\n\nde 26 de outubro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nO Decreto-Lei n.º 86-A/2011, de 12 de julho, determina a integração da Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), na Presidência do Conselho de Ministros, ficando esta empresa dependente do Primeiro-Ministro.\n\nPosteriormente, pelo despacho n.º 15681/2011, de 15 de novembro, do Primeiro-Ministro, publicado no Diário da República, 2.ª série, n.º 222, de 18 de novembro de 2011, foi delegada no Ministro de Estado e dos Negócios Estrangeiros, em articulação com o Ministro da Economia e Emprego, a competência relativa à definição das orientações estratégicas e ao acompanhamento da sua execução relativamente à AICEP, E. P. E., entidade que assume a responsabilidade pela promoção da imagem global de Portugal, das exportações de bens e serviços e da captação de investimento direto estruturante, nacional ou estrangeiro, bem como do investimento direto português no estrangeiro.\n\nO Decreto-Lei n.º 121/2011, de 29 de dezembro, que aprovou a nova orgânica do Ministério dos Negócios Estrangeiros, procedeu à extinção da Direção-Geral dos Assuntos Técnicos e Económicos e transferiu para a AICEP, E. P. E., as atribuições daquela direção-geral nos domínios da diplomacia económica e informação macroeconómica.\n\nA Resolução do Conselho de Ministros n.º 44/2011, de 25 de outubro, alterada pela Resolução do Conselho de Ministros n.º 35/2012, de 16 de março, estabeleceu o quadro de colaboração institucional necessário à definição e execução de uma política de internacionalização da economia portuguesa, de promoção e captação de investimento estrangeiro e de cooperação para o desenvolvimento, exigente e ambiciosa, instituindo o Conselho Estratégico para a Internacionalização da Economia, na dependência direta do Primeiro-Ministro. A referida resolução determina ainda a unificação das redes externas, mediante o total aproveitamento das missões diplomáticas com o respetivo reforço do papel dos chefes de missão.\n\nA crescente integração da economia mundial apresenta grandes oportunidades para as empresas portuguesas, incumbindo à AICEP, E. P. E., trabalhar em conjunto com as empresas, suas associações e entidades públicas, em parcerias público-privadas, com o objetivo de criar aos níveis global, nacional e local as melhores condições para que as mesmas respondam com sucesso aos desafios da globalização e às oportunidades de um mundo em constante mudança.\n\nO investimento estrangeiro, o comércio externo e a presença internacional das empresas portuguesas trazem consigo vantagens para a economia nacional, permitindo que se concentrem recursos onde as empresas são mais competitivas, aumentando assim a produtividade e competitividade.\n\nNeste sentido, a AICEP, E. P. E., deverá criar as condições que tornem Portugal uma localização privilegiada para atrair novos projetos de investimento nacional ou estrangeiro ou para que as empresas estrangeiras já presentes em Portugal expandam os seus negócios no nosso país, bem como estimular a crescente internacionalização do nosso tecido empresarial para permitir o seu contacto com novas tecnologias e novas formas de gestão que reforce a necessidade de inovarem os seus produtos.\n\nCom o presente diploma procede-se à revogação dos atuais Estatutos da AICEP, E. P. E., tendo em vista a adaptação ao objeto que lhe é agora atribuído.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70876291": {
+   "fragment_id": "70865652",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados os Estatutos da Agência para o Investimento e Comércio Externo de Portugal, E. P. E., abreviadamente designada por AICEP, E. P. E., publicados em anexo ao presente diploma e do qual fazem parte integrante."
+  },
+  "70876292": {
+   "fragment_id": "70865653",
+   "type": 11,
+   "heading": "Artigo 2.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sucessão\n\nA Agência para o Investimento e Comércio Externo de Portugal, E. P. E., sucede nas atribuições da Direção-Geral dos Assuntos Técnicos e Económicos nos domínios da diplomacia económica e da informação macroeconómica e de mercados."
+  },
+  "70876293": {
+   "fragment_id": "70865654",
+   "type": 11,
+   "heading": "Artigo 3.º — Critérios de seleção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de seleção de pessoal\n\n1 - É fixado como critério geral e abstrato de seleção de pessoal necessário à prossecução das atribuições da Agência para o Investimento e Comércio Externo de Portugal, E. P. E., o desempenho de funções na Direção-Geral dos Assuntos Técnicos e Económicos, diretamente relacionadas com as atribuições transferidas.\n\n2 - Ao pessoal que transite, nos termos do número anterior, para a Agência para o Investimento e Comércio Externo de Portugal, E. P. E., é aplicável o disposto no artigo 45.º da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro."
+  },
+  "70876294": {
+   "fragment_id": "70865655",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 245/2007, de 25 de junho."
+  },
+  "70876295": {
+   "fragment_id": "70865656",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "70876296": {
+   "fragment_id": "70865657",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA AGÊNCIA PARA O INVESTIMENTO E COMÉRCIO EXTERNO DE PORTUGAL, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DA AGÊNCIA PARA O INVESTIMENTO E COMÉRCIO EXTERNO DE PORTUGAL, E. P. E.\n\n(a que se refere o artigo 1.º)"
+  },
+  "70876297": {
+   "fragment_id": "70865658",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, regime, sede e capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, regime, sede e capital"
+  },
+  "70876298": {
+   "fragment_id": "70865659",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Agência para o Investimento e Comércio Externo de Portugal, E. P. E., abreviadamente designada por AICEP, E. P. E., é uma pessoa coletiva de direito público, com natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial e dos poderes de autoridade pública administrativa inerentes à prossecução do seu objeto.\n\n2 - A AICEP, E. P. E.,exerce poderes de autoridade pública administrativa quando atua em representação do Estado, nos termos definidos no Decreto-Lei n.º 203/2003, de 10 de setembro.\n\n3 - A AICEP, E. P. E.,fica sujeita à superintendência e tutela do Primeiro-Ministro, as quais podem ser delegadas.\n\n4 - A AICEP, E. P. E., utiliza a denominação de AICEP para fins de promoção e imagem em Portugal e no estrangeiro, podendo ser objeto de tradução ou de adaptação."
+  },
+  "70876299": {
+   "fragment_id": "70865660",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\nA AICEP, E. P. E., rege-se pelos presentes Estatutos, pelos seus regulamentos internos e, subsidiariamente, pelo regime jurídico das entidades públicas empresariais."
+  },
+  "70876300": {
+   "fragment_id": "70865661",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede e delegações\n\nA AICEP, E. P. E., tem sede no Porto, podendo ter delegações ou qualquer outra forma de representação em território nacional e no estrangeiro."
+  },
+  "70876301": {
+   "fragment_id": "70865662",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital estatutário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital estatutário\n\n1 - A AICEP, E. P. E., tem um capital estatutário de (euro) 114 927 979,87, detido integralmente pelo Estado.\n\n2 - O capital estatutário da AICEP, E. P. E., pode ser alterado mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros.\n\n3 - Às entradas de capital que sejam realizadas em espécie são aplicáveis as regras do Código das Sociedades Comerciais, nomeadamente no que respeita à sua avaliação e verificação."
+  },
+  "70876302": {
+   "fragment_id": "70865663",
+   "type": 1,
+   "heading": "Capítulo II — Objeto e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Objeto e atribuições"
+  },
+  "70876303": {
+   "fragment_id": "70865664",
+   "type": 11,
+   "heading": "Artigo 5.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objeto\n\nA AICEP, E. P. E., tem por objeto o desenvolvimento e a execução de políticas estruturantes e de apoio à internacionalização da economia portuguesa, englobando:\n\na) A promoção das condições propícias à captação, realização e acompanhamento de projetos de investimento, de origem nacional ou estrangeira, independentemente da natureza jurídica do investidor, cujo valor seja igual ou superior a 25 milhões de euros, ou que, não atingindo esse valor, sejam da iniciativa de uma empresa com faturação anual consolidada superior a 75 milhões de euros ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nb) A promoção, captação e o acompanhamento de projetos de investimento não incluídos na alínea anterior, que pelo seu mérito ou pelos efeitos que produzam na cadeia de valor possam contribuir para o desenvolvimento ou expansão das empresas nacionais, desde que o respetivo acompanhamento pela AICEP, E. P. E., tenha o acordo prévio do Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P., (IAPMEI, I. P.), ou do Instituto do Turismo de Portugal, I. P., (Turismo de Portugal, I. P.), ou de outras entidades competentes na matéria;\n\nc) O acolhimento dos projetos de investimento direto estrangeiro não incluídos nas alíneas anteriores, sem prejuízo das competências de outros organismos para o respetivo acompanhamento;\n\nd) A promoção e divulgação no exterior, ou que neste se reflita, das atividades económicas desenvolvidas em Portugal, nomeadamente na área do comércio de bens e serviços;\n\ne) O apoio a projetos de internacionalização de empresas portuguesas, independentemente da sua dimensão e natureza jurídica, em cooperação com outros organismos públicos com responsabilidades ao nível do desenvolvimento e capacitação empresarial, nomeadamente o IAPMEI, I. P.;\n\nf) A promoção da imagem de Portugal no exterior e das marcas portuguesas de modo global e com impacto nas vertentes de promoção de exportações, internacionalização e captação de investimento, em articulação com o Turismo de Portugal, I. P., e com outras entidades competentes."
+  },
+  "70876304": {
+   "fragment_id": "70865665",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuições\n\nCom vista à realização do seu objeto, são atribuições da AICEP, E. P. E.:\n\na) Contribuir para a competitividade das empresas portuguesas através da sua internacionalização, da promoção e aumento das exportações e do investimento direto estrangeiro no País;\n\nb) Participar na conceção, aplicação e avaliação das políticas de apoio e desenvolvimento das estratégias empresariais de investimento nacional e internacional;\n\nc) Contribuir para um contexto de eficiência propício e adequado ao investimento, internacionalização das empresas portuguesas e aumento das exportações;\n\nd) Promover condições favoráveis à captação de investimento estrangeiro para Portugal, em parceria com os vários agentes públicos e privados;\n\ne) Apoiar, coordenar e estimular o desenvolvimento de ações de cooperação externa no domínio do setor empresarial;\n\nf) Apoiar, coordenar e estimular iniciativas de divulgação e promoção no exterior das competências, produtos e serviços das empresas portugueses;\n\ng) Gerir, negociar e participar no desenvolvimento, caso a caso, de apoios ao investimento em Portugal e às empresas portuguesas no exterior, no âmbito dos sistemas de incentivos em vigor;\n\nh) Gerir e negociar programas de apoio relacionados com a promoção das marcas portuguesas no exterior e com a promoção da internacionalização da economia portuguesa;\n\ni) Gerir fundos de apoio ao investimento constituídos pelas verbas provenientes dos reembolsos dos incentivos financeiros atribuídos ou a atribuir a projetos de investimento, que nos termos da lei possam ser atribuídos à AICEP, E. P. E.;\n\nj) Acompanhar projetos de investimento em Portugal e projetos de internacionalização no exterior, nos termos previstos no artigo anterior;\n\nk) Conceber e propor acordos de cooperação económica empresarial em colaboração com outras entidades oficiais, participando na sua negociação e execução;\n\nl) Promover, constituir e participar em empresas ou outras formas de associação que tenham por objeto o reforço da competitividade e da imagem de Portugal nos mercados externos e a internacionalização das atividades dessas empresas;\n\nm) Constituir ou participar em entidades de direito privado e participar direta ou indiretamente na gestão de parques industriais e áreas de localização empresarial;\n\nn) Colaborar, em articulação estratégica com o Ministério dos Negócios Estrangeiros (MNE), no desenvolvimento da cooperação económica externa, bilateral, regional e multilateral;\n\no) Promover o fortalecimento da diplomacia económica de forma unificada com os serviços periféricos externos do MNE;\n\np) A recolha, tratamento e difusão das informações macroeconómicas e de mercados."
+  },
+  "70876305": {
+   "fragment_id": "70865666",
+   "type": 11,
+   "heading": "Artigo 7.º — Rede externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Rede externa\n\n1 - A rede externa da AICEP, E. P. E., deve adequar-se às várias áreas de intervenção, tendo em vista a prossecução do seu objeto e a satisfação das necessidades dos seus clientes.\n\n2 - A rede externa da AICEP, E. P. E., atua de forma unificada com os serviços periféricos externos do MNE, da respetiva área geográfica e na dependência funcional do chefe de missão diplomática, ou a ele equiparado.\n\n3 - A rede externa da AICEP, E. P. E., pode assegurar a prestação de serviços para a realização de ações de promoção da oferta portuguesa em áreas de atividade não abrangidas pelo seu objeto.\n\n4 - Os responsáveis da rede externa da AICEP, E. P. E., em cada país, são acreditados como conselheiros, adidos ou vice-cônsules junto das missões diplomáticas e postos consulares portugueses, por despacho do membro do Governo responsável pela área dos negócios estrangeiros."
+  },
+  "70876306": {
+   "fragment_id": "70865667",
+   "type": 11,
+   "heading": "Artigo 8.º — Contexto de eficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contexto de eficiência\n\n1 - A AICEP, E. P. E., tem como obrigação contribuir para um contexto de eficiência e de competitividade propício à internacionalização da economia portuguesa.\n\n2 - Com vista ao cumprimento do disposto no número anterior, a AICEP, E. P. E., promove as diligências adequadas junto de todas as entidades públicas e equiparadas, identificando a existência de custos de contexto que prejudiquem a competitividade das atividades em causa e propondo soluções no sentido da sua eliminação.\n\n3 - A AICEP, E. P. E., solicita, e as entidades públicas e equiparadas têm o dever de prestar, em tempo útil, os esclarecimentos e a cooperação necessários à realização do fim definido no n.º 1.\n\n4 - Para efeitos do disposto no presente artigo, a AICEP, E. P. E., atua como interlocutor único, representando todas as entidades administrativas envolvidas, sem prejuízo das respetivas competências próprias."
+  },
+  "70876307": {
+   "fragment_id": "70865668",
+   "type": 11,
+   "heading": "Artigo 9.º — Incentivos ao investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incentivos ao investimento\n\n1 - A AICEP, E. P. E., é o organismo responsável pela administração e gestão dos sistemas de apoios e incentivos que lhe sejam atribuídos pela lei, respeitantes a projetos de investimento, à internacionalização das empresas e à promoção externa das marcas portuguesas enquadráveis no seu objeto.\n\n2 - Os incentivos aos projetos podem, excecionalmente, incluir específicas contrapartidas para atenuar custos de contexto, tais como a escassez de especialidades profissionais e a distância das fontes de saber e inovação, entre outras.\n\n3 - As contrapartidas referidas no número anterior são, quando necessário, sujeitas a prévia demonstração de cobertura orçamental e autorização dos competentes membros do Governo, bem como das competentes instâncias comunitárias.\n\n4 - A AICEP, E. P. E., tem competência para propor ao membro do Governo responsável pelo sistema de incentivos em causa novos sistemas e melhorias aos sistemas de incentivos vigentes, dentro da cabimentação prevista no número anterior, em função da avaliação que faça quanto às necessidades de cumprimento do seu objeto e aproveitando as melhores práticas de países concorrentes."
+  },
+  "70876308": {
+   "fragment_id": "70865669",
+   "type": 11,
+   "heading": "Artigo 10.º — Capital de risco e de desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Capital de risco e de desenvolvimento\n\nA AICEP, E. P. E., pode ser titular de unidades de participação de fundos de capital de risco e similares e deter participações em entidades gestoras desses fundos, em sociedades de capital de risco ou similares e em sociedades gestoras de participações sociais ou similares, desde que qualquer desses fundos ou sociedades seja instrumental para o seu objeto."
+  },
+  "70876309": {
+   "fragment_id": "70865670",
+   "type": 11,
+   "heading": "Artigo 11.º — Localização empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Localização empresarial\n\nA AICEP, E. P. E., pode participar em entidades especializadas na gestão de parques empresariais ou em sociedades gestoras de áreas de localização empresarial, de modo a dispor de instrumentos que facilitem a disponibilização de espaços infraestruturados para a implantação física de investimentos."
+  },
+  "70876310": {
+   "fragment_id": "70865671",
+   "type": 11,
+   "heading": "Artigo 12.º — Execução das atribuições da AICEP, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Execução das atribuições da AICEP, E. P. E.\n\n1 - A AICEP, E. P. E., pode prosseguir as atribuições preferencialmente através dos seguintes meios:\n\na) Contratos de investimento no âmbito dos projetos de investimento em Portugal e no exterior;\n\nb) Protocolos ou acordos preliminares no âmbito do apoio a projetos de investimento em Portugal e no exterior;\n\nc) Contratos ou protocolos celebrados no âmbito da sua ação promocional externa e de apoio às exportações.\n\n2 - Dos contratos de investimento referidos na alínea a) do número anterior constam obrigatoriamente os seguintes elementos:\n\na) A fundamentada explicitação do interesse do projeto para a economia nacional;\n\nb) A calendarização dos objetivos e das metas do projeto respeitantes às variáveis mais relevantes para o mérito do investimento, quer na ótica do investidor quer na ótica da economia portuguesa;\n\nc) As eventuais contrapartidas do Estado, conforme disposto no artigo 9.º;\n\nd) O acompanhamento e verificação pela AICEP, E. P. E., do cumprimento contratual, em particular nas fases de investimento e de produção dos projetos de investimento;\n\ne) As implicações do incumprimento contratual por razões imputáveis a cada uma das partes."
+  },
+  "70876311": {
+   "fragment_id": "70865672",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura orgânica da AICEP, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura orgânica da AICEP, E. P. E.\n\nArtigo 13.º\n\nÓrgãos\n\n1 - São órgãos da AICEP, E. P. E.:\n\na) O conselho de administração;\n\nb) O fiscal único.\n\n2 - O mandato dos órgãos da AICEP, E. P. E., tem a duração de três anos.\n\nArtigo 14.º\n\nRepresentação e vinculação da AICEP, E. P. E.\n\n1 - A AICEP, E. P. E., faz-se representar em juízo ou fora dele pelo presidente do conselho de administração.\n\n2 - A AICEP, E. P. E., obriga-se:\n\na) Pela assinatura do presidente do conselho de administração;\n\nb) Pela assinatura de dois administradores com funções executivas;\n\nc) Pela assinatura de procurador legalmente constituído, nos termos e no âmbito do respetivo mandato."
+  },
+  "70876312": {
+   "fragment_id": "70865673",
+   "type": 8,
+   "heading": "Secção I — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho de administração"
+  },
+  "70876313": {
+   "fragment_id": "70865674",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição\n\n1 - O conselho de administração é composto pelo presidente e por quatro vogais executivos, que integram uma comissão executiva, devendo a maioria ter relevante experiência empresarial.\n\n2 - O conselho de administração pode integrar até três vogais não executivos, aos quais cabe assegurar a representação cruzada entre a administração da AICEP, E. P. E., do IAPMEI, I. P., e do Turismo de Portugal, I. P.\n\n3 - Os vogais não executivos não são remunerados.\n\n4 - O presidente e os vogais do conselho de administração são nomeados mediante resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia."
+  },
+  "70876314": {
+   "fragment_id": "70888875",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do conselho de administração\n\n1 - As competências do conselho de administração são as que decorrem do artigo 6.º e da lei aplicável, nomeadamente do Decreto-Lei n.º 558/99, de 17 de dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de agosto, e pelas Leis n.os 64-A/2008 e 55-A/2010, ambas de 31 de dezembro, e da lei comercial.\n\n2 - O presidente do conselho de administração é, por inerência, o presidente da comissão executiva, competindo-lhe a atribuição dos pelouros aos restantes administradores executivos.\n\n3 - O conselho de administração estabelece o regulamento interno da comissão executiva, incluindo os limites da delegação e os termos em que a AICEP, E. P. E., se vincula no âmbito da delegação.\n\n4 - Com as devidas adaptações, não são suscetíveis de delegação nos termos dos números anteriores as matérias previstas nas alíneas a), b), c), d), f), l) e m) do artigo 406.º do Código das Sociedades Comerciais."
+  },
+  "70876315": {
+   "fragment_id": "70888876",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime\n\nOs membros do conselho de administração estão sujeitos ao Estatuto do Gestor Público."
+  },
+  "70876316": {
+   "fragment_id": "70888877",
+   "type": 11,
+   "heading": "Artigo 18.º — Funcionamento do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne ordinariamente, pelo menos, uma vez por mês.\n\n2 - O conselho de administração reúne extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer por solicitação do fiscal único ou de, pelo menos, três vogais.\n\n3 - Consideram-se validamente convocadas as reuniões que se realizem periodicamente em local, dias e horas preestabelecidos e ainda as reuniões cuja realização tenha sido deliberada em reunião anterior, na presença ou com conhecimento de todos os membros do conselho de administração, com a indicação do local, do dia e da hora.\n\n4 - As reuniões do conselho de administração podem ser realizadas por videoconferência ou outros meios análogos, sem prejuízo das formalidades legais e estatutárias aplicáveis, incluindo a prévia distribuição dos elementos necessários à análise de cada ponto da ordem de trabalhos.\n\n5 - Ao presidente do conselho de administração é atribuído voto de qualidade nas deliberações do conselho."
+  },
+  "70876317": {
+   "fragment_id": "70888878",
+   "type": 8,
+   "heading": "Secção II — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Fiscalização"
+  },
+  "70876318": {
+   "fragment_id": "70888879",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fiscal único\n\n1 - A fiscalização da AICEP, E. P. E., cabe a um fiscal único, que deve ser um revisor oficial de contas ou uma sociedade de revisores oficiais de contas, nomeado por despacho do membro do Governo responsável pela área das finanças, que designa ainda um suplente.\n\n2 - O suplente do fiscal único, designado nos termos do número anterior, será igualmente um revisor oficial de contas ou uma sociedade de revisores oficiais de contas.\n\n3 - A AICEP, E. P. E., pode, em consonância com o fiscal único e sem prejuízo da competência deste, atribuir a auditoria das contas a uma entidade externa de reconhecido mérito, que coadjuva aquele órgão no exercício das suas funções de verificação e certificação das contas."
+  },
+  "70876319": {
+   "fragment_id": "70888880",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência\n\nO fiscal único tem os poderes e deveres estabelecidos na lei comercial para os fiscais únicos previstos para as sociedades anónimas, com as devidas adaptações."
+  },
+  "70876320": {
+   "fragment_id": "70888881",
+   "type": 8,
+   "heading": "Secção III — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgão consultivo"
+  },
+  "70876321": {
+   "fragment_id": "70888882",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho Consultivo para o Investimento e Comércio Externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conselho Consultivo para o Investimento e Comércio Externo\n\n1 - O Conselho Consultivo para o Investimento e Comércio Externo é composto por representantes de empresas líderes de investimento, empresas portuguesas com estratégias de internacionalização e entidades coletivas ou personalidades de reconhecido prestígio nacional e internacional, sendo presidido pelo presidente do conselho de administração da AICEP, E. P. E.\n\n2 - A composição do Conselho Consultivo para o Investimento e Comércio Externo é fixada por despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do conselho de administração da AICEP, E. P. E.\n\n3 - O funcionamento do Conselho Consultivo para o Investimento e Comércio Externo é definido no regulamento interno da AICEP, E. P. E.\n\n4 - Os membros do Conselho Consultivo para o Investimento e Comércio Externo não são remunerados.\n\n5 - Compete ao Conselho Consultivo para o Investimento e Comércio Externo a apresentação de sugestões e propostas no âmbito da atividade da AICEP, E. P. E., que contribuam para o reforço das condições de atratividade do País e para o incremento da competitividade da economia portuguesa."
+  },
+  "70876322": {
+   "fragment_id": "70888883",
+   "type": 1,
+   "heading": "Capítulo IV — Regime patrimonial e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime patrimonial e financeiro"
+  },
+  "70876323": {
+   "fragment_id": "70888884",
+   "type": 11,
+   "heading": "Artigo 22.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Receitas\n\n1 - São receitas da AICEP, E. P. E., no exercício dos poderes de autoridade pública administrativa:\n\na) Uma comissão de gestão devida pelo Estado por serviços prestados, fixada e regulamentada por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros, incidente sobre o saldo do investimento acompanhado pela AICEP, E. P. E., entendendo-se como tal o somatório dos valores efetivamente investidos que hajam sido objeto de apoios e incentivos de qualquer natureza contratados e que estejam em acompanhamento pela AICEP, E. P. E.;\n\nb) Uma comissão de gestão resultante da ação da AICEP, E. P. E., fixada e regulamentada por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros, calculada sobre o contributo da AICEP, E. P. E., para as exportações de bens e serviços e seu valor acrescentado;\n\nc) Comissões de gestão devidas por entidades participadas maioritariamente pela AICEP, E. P. E.\n\n2 - São igualmente receitas da AICEP, E. P. E.:\n\na) Os juros ativos;\n\nb) Os dividendos e remunerações de capital;\n\nc) As dotações do Orçamento do Estado para projetos especiais a cargo da AICEP, E. P. E.;\n\nd) As remunerações por serviços prestados a empresas, por solicitação destas, institutos ou outras entidades que se situem para além do âmbito corrente dos serviços da AICEP, E. P. E.;\n\ne) O produto da venda de publicações e outros documentos;\n\nf) Os rendimentos provenientes da gestão do seu património mobiliário e imobiliário e de outros bens próprios e do produto da sua alienação e da constituição de direitos sobre eles, designadamente os montantes de empréstimos ou outras operações financeiras que seja, nos termos legais, autorizada a contrair;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, ato ou contrato ou lhe possam advir do exercício das suas atribuições."
+  },
+  "70876324": {
+   "fragment_id": "70888885",
+   "type": 1,
+   "heading": "Capítulo V — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições comuns"
+  },
+  "70876325": {
+   "fragment_id": "70888886",
+   "type": 11,
+   "heading": "Artigo 23.º — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Segredo profissional\n\n1 - Os membros dos órgãos da AICEP, E. P. E., e o respetivo pessoal ficam sujeitos a segredo profissional sobre os factos cujo conhecimento lhes advenha do exercício das suas funções e, seja qual for a finalidade, não podem divulgar nem utilizar, em proveito próprio ou alheio, diretamente ou por interposta pessoa, o conhecimento que tenham desses factos.\n\n2 - O dever de segredo profissional mantém-se ainda que as pessoas ou entidades a ele sujeitas nos termos do número anterior deixem de prestar serviço à AICEP, E. P. E."
+  },
+  "70876326": {
+   "fragment_id": "70888887",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José de Almeida Cesário - Álvaro Santos Pereira.\n\nPromulgado em 16 de outubro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 22 de outubro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "70876332": {
+   "fragment_id": "70865664",
+   "type": 11,
+   "heading": "Artigo 5.º — Objeto",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 219/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2015-70485719), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 5.º — Objeto\n\nA AICEP, E. P. E., tem por objeto o desenvolvimento e a execução de políticas estruturantes e de apoio à internacionalização da economia portuguesa, englobando:\n\na) A promoção das condições propícias à captação, realização e acompanhamento de projetos de investimento, de origem nacional ou estrangeira, independentemente da natureza jurídica do investidor, cujo valor seja igual ou superior a 25 milhões de euros, ou que, não atingindo esse valor, sejam da iniciativa de uma empresa com faturação anual consolidada superior a 75 milhões de euros ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nb) A promoção, captação e o acompanhamento de projetos de investimento não incluídos na alínea anterior, que pelo seu mérito ou pelos efeitos que produzam na cadeia de valor possam contribuir para o desenvolvimento ou expansão das empresas nacionais, desde que o respetivo acompanhamento pela AICEP, E. P. E., tenha o acordo prévio do Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P., (IAPMEI, I. P.), ou do Instituto do Turismo de Portugal, I. P., (Turismo de Portugal, I. P.), ou de outras entidades competentes na matéria;\n\nc) O acolhimento dos projetos de investimento direto estrangeiro não incluídos nas alíneas anteriores, sem prejuízo das competências de outros organismos para o respetivo acompanhamento;\n\nd) A promoção e divulgação no exterior, ou que neste se reflita, das atividades económicas desenvolvidas em Portugal, nomeadamente na área do comércio de bens e serviços;\n\ne) O apoio a projetos de internacionalização de empresas portuguesas, independentemente da sua dimensão e natureza jurídica, em cooperação com outros organismos públicos com responsabilidades ao nível do desenvolvimento e capacitação empresarial, nomeadamente o IAPMEI, I. P.;\n\nf) A promoção da imagem de Portugal no exterior e das marcas portuguesas de modo global e com impacto nas vertentes de promoção de exportações, internacionalização e captação de investimento, em articulação com o Turismo de Portugal, I. P., e com outras entidades competentes;\n\ng) O planeamento, a organização e a articulação da participação portuguesa em exposições universais e internacionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 219/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2015-70485719), em vigor a partir de 2015-10-13"
+  },
+  "70876333": {
+   "fragment_id": "70865665",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 219/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2015-70485719), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 6.º — Atribuições\n\nCom vista à realização do seu objeto, são atribuições da AICEP, E. P. E.:\n\na) Contribuir para a competitividade das empresas portuguesas através da sua internacionalização, da promoção e aumento das exportações e do investimento direto estrangeiro no País;\n\nb) Participar na conceção, aplicação e avaliação das políticas de apoio e desenvolvimento das estratégias empresariais de investimento nacional e internacional;\n\nc) Contribuir para um contexto de eficiência propício e adequado ao investimento, internacionalização das empresas portuguesas e aumento das exportações;\n\nd) Promover condições favoráveis à captação de investimento estrangeiro para Portugal, em parceria com os vários agentes públicos e privados;\n\ne) Apoiar, coordenar e estimular o desenvolvimento de ações de cooperação externa no domínio do setor empresarial;\n\nf) Apoiar, coordenar e estimular iniciativas de divulgação e promoção no estrangeiro das competências, produtos e serviços das empresas nacionais, incluindo as referentes à participação portuguesa em exposições universais e internacionais;\n\ng) Gerir, negociar e participar no desenvolvimento, caso a caso, de apoios ao investimento em Portugal e às empresas portuguesas no exterior, no âmbito dos sistemas de incentivos em vigor;\n\nh) Gerir e negociar programas de apoio relacionados com a promoção das marcas portuguesas no exterior e com a promoção da internacionalização da economia portuguesa;\n\ni) Gerir fundos de apoio ao investimento constituídos pelas verbas provenientes dos reembolsos dos incentivos financeiros atribuídos ou a atribuir a projetos de investimento, que nos termos da lei possam ser atribuídos à AICEP, E. P. E.;\n\nj) Acompanhar projetos de investimento em Portugal e projetos de internacionalização no exterior, nos termos previstos no artigo anterior;\n\nk) Conceber e propor acordos de cooperação económica empresarial em colaboração com outras entidades oficiais, participando na sua negociação e execução;\n\nl) Promover, constituir e participar em empresas ou outras formas de associação que tenham por objeto o reforço da competitividade e da imagem de Portugal nos mercados externos e a internacionalização das atividades dessas empresas;\n\nm) Constituir ou participar em entidades de direito privado e participar direta ou indiretamente na gestão de parques industriais e áreas de localização empresarial;\n\nn) Colaborar, em articulação estratégica com o Ministério dos Negócios Estrangeiros (MNE), no desenvolvimento da cooperação económica externa, bilateral, regional e multilateral;\n\no) Promover o fortalecimento da diplomacia económica de forma unificada com os serviços periféricos externos do MNE;\n\np) A recolha, tratamento e difusão das informações macroeconómicas e de mercados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 219/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2015-70485719), em vigor a partir de 2015-10-13"
+  },
+  "70876334": {
+   "fragment_id": "70888884",
+   "type": 11,
+   "heading": "Artigo 22.º — Receitas",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 219/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2015-70485719), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 22.º — Receitas\n\n1 - São receitas da AICEP, E. P. E., no exercício dos poderes de autoridade pública administrativa:\n\na) Uma comissão de gestão devida pelo Estado por serviços prestados, fixada e regulamentada por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros, incidente sobre o saldo do investimento acompanhado pela AICEP, E. P. E., entendendo-se como tal o somatório dos valores efetivamente investidos que hajam sido objeto de apoios e incentivos de qualquer natureza contratados e que estejam em acompanhamento pela AICEP, E. P. E.;\n\nb) Uma comissão de gestão resultante da ação da AICEP, E. P. E., fixada e regulamentada por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros, calculada sobre o contributo da AICEP, E. P. E., para as exportações de bens e serviços e seu valor acrescentado;\n\nc) Comissões de gestão devidas por entidades participadas maioritariamente pela AICEP, E. P. E.\n\n2 - São igualmente receitas da AICEP, E. P. E.:\n\na) Os juros ativos;\n\nb) Os dividendos e remunerações de capital;\n\nc) As dotações do Orçamento do Estado para projetos especiais a cargo da AICEP, E. P. E.;\n\nd) Comissões de gestão respeitantes à participação portuguesa em exposições universais e internacionais, fixadas e regulamentadas por despacho dos membros do Governo responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia;\n\ne) O produto da venda de publicações e outros documentos;\n\nf) Os rendimentos provenientes da gestão do seu património mobiliário e imobiliário e de outros bens próprios e do produto da sua alienação e da constituição de direitos sobre eles, designadamente os montantes de empréstimos ou outras operações financeiras que seja, nos termos legais, autorizada a contrair;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, ato ou contrato ou lhe possam advir do exercício das suas atribuições.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 219/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2015-70485719), em vigor a partir de 2015-10-13"
+  },
+  "143857637": {
+   "fragment_id": "70865672",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura orgânica da AICEP, E. P. E.",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+   ],
+   "markdown": "### Capítulo III — Estrutura orgânica da AICEP, E. P. E.\n\nArtigo 13.º\n\nÓrgãos\n\n1 - São órgãos da AICEP, E. P. E.:\n\na) O conselho de administração;\n\nb) O conselho fiscal;\n\nc) O revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n2 - O mandato dos órgãos da AICEP, E. P. E., tem a duração de três anos.\n\nArtigo 14.º\n\nRepresentação e vinculação da AICEP, E. P. E.\n\n1 - A AICEP, E. P. E., faz-se representar em juízo ou fora dele pelo presidente do conselho de administração.\n\n2 - A AICEP, E. P. E., obriga-se:\n\na) Pela assinatura do presidente do conselho de administração;\n\nb) Pela assinatura de dois administradores com funções executivas;\n\nc) Pela assinatura de procurador legalmente constituído, nos termos e no âmbito do respetivo mandato.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+  },
+  "143857638": {
+   "fragment_id": "70888877",
+   "type": 11,
+   "heading": "Artigo 18.º — Funcionamento do conselho de administração",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+   ],
+   "markdown": "###### Artigo 18.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne ordinariamente, pelo menos, uma vez por mês.\n\n2 - O conselho de administração reúne extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer por solicitação do conselho fiscal ou de, pelo menos, três vogais do órgão de administração.\n\n3 - Consideram-se validamente convocadas as reuniões que se realizem periodicamente em local, dias e horas preestabelecidos e ainda as reuniões cuja realização tenha sido deliberada em reunião anterior, na presença ou com conhecimento de todos os membros do conselho de administração, com a indicação do local, do dia e da hora.\n\n4 - As reuniões do conselho de administração podem ser realizadas por videoconferência ou outros meios análogos, sem prejuízo das formalidades legais e estatutárias aplicáveis, incluindo a prévia distribuição dos elementos necessários à análise de cada ponto da ordem de trabalhos.\n\n5 - Ao presidente do conselho de administração é atribuído voto de qualidade nas deliberações do conselho.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+  },
+  "143857639": {
+   "fragment_id": "70888879",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho fiscal e revisor oficial de contas",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+   ],
+   "markdown": "###### Artigo 19.º — Conselho fiscal e revisor oficial de contas\n\n1 - A fiscalização da atividade social compete a um conselho fiscal, composto por um presidente, dois vogais efetivos e um suplente, e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.\n\n2 - Os membros do conselho fiscal são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros, que fixa a respetiva remuneração, por um período de três anos, renovável nos termos da lei.\n\n3 - O revisor oficial de contas é nomeado, sob proposta fundamentada do conselho fiscal, por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros, que fixa a respetiva remuneração, tendo o mandato a duração de três anos, renovável nos termos da lei.\n\n4 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+  },
+  "143857640": {
+   "fragment_id": "70888880",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+   ],
+   "markdown": "###### Artigo 20.º — Competência\n\n1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes Estatutos.\n\n2 - Ao conselho fiscal compete, especialmente, sem prejuízo das demais competências que lhe sejam atribuídas por lei:\n\na) Fiscalizar a gestão e o cumprimento das normas reguladoras da atividade da empresa, tendo em vista, nomeadamente, a realização dos objetivos fixados nos orçamentos anuais;\n\nb) Apreciar e emitir parecer sobre o relatório anual de gestão e de controlo orçamental, as contas do exercício e os demais instrumentos de prestação de contas;\n\nc) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;\n\nd) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\ne) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;\n\nf) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;\n\ng) Dar parecer sobre Plano de Atividades e Orçamento;\n\nh) Dar parecer prévio à realização de operações de financiamento ou celebração de atos ou negócios jurídicos dos quais resultem obrigações para a AICEP, E. P. E., superiores a 5 % do ativo líquido, salvo nos casos em que os mesmos tenham sido aprovados no plano de atividades e orçamento;\n\ni) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração.\n\n3 - Compete ao revisor oficial de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:\n\na) Verificar da regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;\n\nb) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;\n\nc) Verificar a exatidão dos documentos de prestação de contas;\n\nd) Verificar se os critérios valorimétricos adotados pela AICEP, E. P. E., conduzem a uma correta avaliação do património e dos resultados;\n\ne) Elaborar, a pedido do conselho fiscal, revisão limitada das demonstrações financeiras integradas nos relatórios trimestrais e no Plano de Atividades e Orçamento, elaborados e apresentados pelo conselho de administração.\n\n4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal deve emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros.\n\n5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26"
+  }
+ }
+}

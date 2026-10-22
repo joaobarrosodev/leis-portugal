@@ -1,0 +1,204 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667556:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-169418529",
+ "dre_path": "/dr/detalhe/decreto-lei/148-2003-667556",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-07-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169418714",
+    "169418715",
+    "169418716",
+    "169418717",
+    "169418718",
+    "169418719",
+    "169418720",
+    "169418721"
+   ]
+  },
+  {
+   "date": "2005-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240042:por",
+     "title": "Decreto-Lei n.º 120/2005",
+     "published": "2005-07-26",
+     "dre_path": "/dr/detalhe/decreto-lei/120-2005-240042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "169418714",
+    "169418756",
+    "169418716",
+    "169418717",
+    "169418757",
+    "169418719",
+    "169418758",
+    "169418759",
+    "169418722"
+   ]
+  },
+  {
+   "date": "2007-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520473:por",
+     "title": "Decreto-Lei n.º 69/2007",
+     "published": "2007-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/69-2007-520473"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "169418714",
+    "169418756",
+    "169418764",
+    "169418717",
+    "169418757",
+    "169418719",
+    "169418758",
+    "169418759",
+    "169418722"
+   ]
+  }
+ ],
+ "fragments": {
+  "169418714": {
+   "fragment_id": "169418530",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 148/2003\n\nde 11 de Julho\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1980&id=380L0723\" title=\"Link para Directiva da Comunidade Europeia\">80/723/CEE</a>, da Comissão, de 25 de Junho, com a última redacção que lhe foi dada pela Directiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0052\" title=\"Link para Directiva da Comunidade Europeia\">2000/52/CE</a>, de 26 de Julho, exige que os Estados membros garantam a transparência das relações financeiras entre as entidades públicas e determinadas empresas e que recolham e comuniquem à Comissão, a pedido desta, determinados dados financeiros, devendo ser fornecidas informações adicionais sob a forma de relatórios anuais.\n\nDiversos sectores da economia que se caracterizavam no passado pela existência de monopólios nacionais, regionais ou locais foram ou estão a ser abertos parcial ou totalmente à concorrência, por força do Tratado que instituiu a Comunidade Europeia ou de normas adoptadas pelos Estados membros e a Comunidade. Este processo evidencia a importância de uma aplicação equitativa e efectiva a estes sectores das regras de concorrência do Tratado, nomeadamente para que não se verifique um abuso de posição dominante nos termos do artigo 82.º do Tratado, nem a concessão de auxílios estatais nos termos do artigo 87.º do Tratado, a menos que tal seja compatível com o mercado comum, sem prejuízo da eventual aplicação do n.º 2 do artigo 86.º do Tratado.\n\nNos sectores acima referidos, os Estados membros concedem frequentemente direitos especiais ou exclusivos a determinadas empresas ou efectuam pagamentos ou concedem outros tipos de compensação a determinadas empresas encarregadas da gestão de serviços de interesse económico geral. Frequentemente, estas empresas encontram-se em concorrência com outras empresas.\n\nO n.º 1 do artigo 86.º do Tratado exige que, no que respeita às empresas públicas e às empresas a que concedam direitos especiais ou exclusivos, os Estados membros não tomem nem mantenham qualquer medida contrária às disposições do Tratado. O n.º 2 do artigo 86.º do Tratado é aplicável às empresas encarregadas da gestão de serviços de interesse económico geral.\n\nSituações complexas decorrentes da diversidade de formas que assumem as empresas públicas e privadas às quais foram concedidos direitos especiais ou exclusivos ou que foram encarregues da gestão de serviços de interesse económico geral, bem como a gama de actividades que podem ser exercidas por uma só empresa e o diferente grau de liberalização dos mercados nos diversos Estados membros, podem dificultar a aplicação das regras de concorrência, em especial do artigo 86.º do Tratado.\n\nÉ, pois, este o fundamento para que os Estados membros disponham de informações pormenorizadas sobre a estrutura interna destas empresas, em termos financeiros e organizacionais, em especial de contas distintas e fiáveis relativas às diferentes actividades exercidas pela mesma empresa.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias e a Comissão de Normalização Contabilística.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "169418715": {
+   "fragment_id": "169418531",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para o ordenamento jurídico interno a Directiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0052\" title=\"Link para Directiva da Comunidade Europeia\">2000/52/CE</a>, da Comissão, de 26 de Julho, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1980&id=380L0723\" title=\"Link para Directiva da Comunidade Europeia\">80/723/CEE</a>, da Comissão, de 25 de Junho, relativa à transparência das relações financeiras entre as entidades públicas dos Estados membros e as empresas públicas, bem como à transparência financeira relativamente a determinadas empresas."
+  },
+  "169418716": {
+   "fragment_id": "169418532",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Estão sujeitas ao regime de transparência financeira, nos termos do disposto no presente diploma, as empresas públicas, na acepção dos artigos 3.º e 5.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n2 - Estão ainda sujeitas ao regime da transparência financeira as empresas que:\n\na) Beneficiem de um direito especial ou exclusivo, concedido por um Estado membro ao abrigo do n.º 1 do artigo 86.º do Tratado das Comunidades Europeias;\n\nb) Tenham sido classificadas como encarregadas da gestão de um serviço de interesse económico geral, ao abrigo do n.º 2 do artigo 86.º do Tratado das Comunidades Europeias e nos termos do disposto no artigo 19.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, e que recebam quaisquer auxílios, seja qual for a forma que os mesmos revistam, incluindo subvenção, apoio ou compensação, atribuídos em conexão com o exercício desse serviço e que prossigam outras actividades."
+  },
+  "169418717": {
+   "fragment_id": "169418533",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do artigo anterior entende-se por:\n\n1) «Direitos exclusivos» aqueles que, tendo sido conferidos por uma entidade pública, mediante acto legislativo, regulamentar ou administrativo, reservem a prestação de um serviço ou o exercício de uma actividade, numa determinada área geográfica, a uma única empresa;\n\n2) «Direitos especiais» aqueles que, tendo sido conferidos, sem ser em função de critérios objectivos, proporcionais e não discriminatórios, por uma entidade pública, mediante acto legislativo, regulamentar ou administrativo:\n\na) Apenas autorizem duas ou mais empresas, em regime de concorrência ou não, a prestar um serviço ou exercer uma actividade numa determinada área geográfica;\n\nb) Concedam, a uma ou mais empresas, quaisquer vantagens de carácter legal ou regulamentar que afectem substancialmente a capacidade de qualquer outra empresa de prestar o mesmo serviço ou exercer a mesma actividade, na área geográfica abrangida, em condições substancialmente equivalentes."
+  },
+  "169418718": {
+   "fragment_id": "169418534",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusões\n\n1 - Estão excluídas do âmbito de aplicação do presente diploma as seguintes empresas:\n\na) Empresas públicas, no que se refere à prestação de serviços não susceptíveis de afectar sensivelmente o comércio entre os Estados membros;\n\nb) Empresas públicas que tenham apresentado um volume de negócios líquido total de montante inferior a 40 milhões de euros ou um balanço total máximo de 800 milhões de euros, se se tratar de instituições públicas de crédito, durante os dois exercícios anteriores àqueles em que os recursos públicos foram utilizados ou colocados à disposição, ou em que os direitos exclusivos ou especiais foram conferidos, consoante o caso;\n\nc) Instituições públicas de crédito não abrangidas na alínea anterior, mas em que as relações financeiras que mantenham com o Estado ou qualquer outra entidade pública estadual digam respeito ao depósito de fundos públicos por aquelas entidades em condições comerciais normais.\n\n2 - As relações de transparência financeira reguladas no presente diploma não se aplicam ao Banco de Portugal.\n\n3 - Sem prejuízo do disposto no n.º 1 do presente artigo, o n.º 2 do artigo 2.º não se aplica às empresas cujo direito aos auxílios tenha sido fixado por determinado período e na sequência de um procedimento aberto, transparente e não discriminatório."
+  },
+  "169418719": {
+   "fragment_id": "169418535",
+   "type": 11,
+   "heading": "Artigo 5.º — Transmissão e conservação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão e conservação de dados\n\n1 - As informações previstas nos artigos 6.º e 7.º devem ser enviadas pelas empresas anualmente, no prazo de seis meses a contar da aprovação das contas do exercício, à Inspecção-Geral de Finanças, devidamente certificados por revisor oficial de contas.\n\n2 - A Direcção-Geral do Tesouro tem acesso às informações previstas nos artigos 6.º e 7.º, relativamente às empresas públicas, nos termos estabelecidos por despacho do Ministro das Finanças.\n\n3 - As empresas são obrigadas a conservar os dados exigidos nos termos do presente diploma por um período de cinco anos a contar do final do exercício ao qual a informação diga respeito ou no qual tenha sido utilizado o benefício, consoante o caso."
+  },
+  "169418720": {
+   "fragment_id": "169418536",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime da transparência financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime da transparência financeira\n\n1 - Sem prejuízo do disposto no artigo 13.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, as empresas públicas devem prestar informação, nos documentos de prestação de contas, em termos a regulamentar por portaria do Ministro das Finanças, sobre as relações financeiras estabelecidas com o Estado ou qualquer entidade pública, que envolvam, nomeadamente:\n\na) Compensação de perdas de exploração;\n\nb) Entradas de capital, dotações ou liberalidades e respectivas condições;\n\nc) Subsídios não reembolsáveis ou os empréstimos em condições privilegiadas;\n\nd) Concessão de vantagens financeiras sob a forma de não percepção de benefícios ou de não cobrança de créditos;\n\ne) Renúncia a uma remuneração normal dos recursos públicos utilizados;\n\nf) Compensação de encargos impostos por qualquer entidade pública, territorial ou não.\n\n2 - Sem prejuízo das obrigações de informação previstas no número anterior, as empresas públicas cujo volume de negócios anual total do exercício mais recente seja superior a 250 milhões de euros e que resulte, em pelo menos 50%, de actividades de transformação, nos termos definidos na Classificação das Actividades Económicas - Rev. 2, secção D, devem ainda prestar, sobre as relações financeiras estabelecidas com o Estado ou qualquer entidade pública, a informação seguinte:\n\na) Concessão de empréstimos à empresa, incluindo os empréstimos a descoberto e os adiantamentos sobre entradas de capital, bem como as taxas de juro aplicadas, as respectivas condições e eventuais garantias prestadas ao mutuante pela empresa beneficiária;\n\nb) Concessão de garantias à empresa, bem como as condições e prémios da respectiva emissão;\n\nc) Dividendos pagos e lucros não distribuídos."
+  },
+  "169418721": {
+   "fragment_id": "169418537",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime de apresentação de contas de exploração separadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime de apresentação de contas de exploração separadas\n\n1 - As empresas referidas no n.º 2 do artigo 2.º estão obrigadas a manter as actividades previstas nas alíneas a) e b) do mesmo número em contas de exploração separadas, relativamente às suas restantes actividades, se as tiverem.\n\n2 - A afectação de custos e proveitos às actividades previstas nas alíneas a) e b) do n.º 2 do artigo 2.º deverá resultar da aplicação coerente de princípios contabilísticos, os quais deverão resultar de bases objectivas, devidamente fundamentadas e explicitadas.\n\n3 - A aplicação do número anterior será regulamentada por portaria do Ministro das Finanças."
+  },
+  "169418756": {
+   "fragment_id": "169418531",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2005-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para o ordenamento jurídico interno a Directiva n.º 2000/52/CE, da Comissão, de 26 de Julho, que altera a Directiva n.º 80/723/CEE, da Comissão, de 25 de Junho, cujo objectivo consiste em garantir que os Estados membros assegurem quer a transparência das relações financeiras entre os poderes públicos e as empresas públicas, por via da imposição de determinados deveres de informação, quer a exigência de que a estrutura financeira e organizativa de quaisquer empresas obrigadas a manter contas distintas seja reflectida de forma adequada nessas contas.\n\n> Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+  },
+  "169418757": {
+   "fragment_id": "169418534",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusões",
+   "in_force_from": "2005-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusões\n\n1 - Estão excluídas do âmbito de aplicação do presente diploma as seguintes empresas:\n\na) Empresas públicas, no que se refere à prestação de serviços não susceptíveis de afectar sensivelmente o comércio entre os Estados membros;\n\nb) Empresas públicas que tenham apresentado um volume de negócios líquido total de montante inferior a 40 milhões de euros ou um balanço total máximo de 800 milhões de euros, se se tratar de instituições públicas de crédito, durante os dois exercícios anteriores àqueles em que os recursos públicos foram utilizados ou colocados à disposição, ou em que os direitos exclusivos ou especiais foram conferidos, consoante o caso;\n\nc) Instituições públicas de crédito não abrangidas na alínea anterior, apenas no tocante às obrigações decorrentes do n.º 1 do artigo 6.º, caso as relações financeiras que mantenham com o Estado ou qualquer outra entidade pública estadual respeitem ao depósito de fundos públicos por aquelas entidades, em condições comerciais normais.\n\n2 - As relações de transparência financeira reguladas no presente diploma não se aplicam ao Banco de Portugal.\n\n3 - Sem prejuízo do disposto no n.º 1 do presente artigo, o n.º 2 do artigo 2.º não se aplica às empresas cujo direito aos auxílios tenha sido fixado por determinado período e na sequência de um procedimento aberto, transparente e não discriminatório.\n\n> Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+  },
+  "169418758": {
+   "fragment_id": "169418536",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime da transparência financeira",
+   "in_force_from": "2005-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+   ],
+   "markdown": "###### Artigo 6.º — Regime da transparência financeira\n\n1 - Sem prejuízo do disposto no artigo 13.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, as empresas públicas devem prestar informação, nos documentos de prestação de contas, em nota constante dos anexos às demonstrações financeiras, sobre as relações financeiras estabelecidas com o Estado ou qualquer entidade pública que envolvam, nomeadamente:\n\na) Compensação de perdas de exploração;\n\nb) Entradas de capital, dotações ou liberalidades e respectivas condições;\n\nc) Subsídios não reembolsáveis ou os empréstimos em condições privilegiadas;\n\nd) Concessão de vantagens financeiras sob a forma de não percepção de benefícios ou de não cobrança de créditos;\n\ne) Renúncia a uma remuneração normal dos recursos públicos utilizados;\n\nf) Compensação de encargos impostos por qualquer entidade pública, territorial ou não.\n\n2 - Sem prejuízo das obrigações de informação previstas no número anterior, as empresas públicas cujo volume de negócios anual total do exercício mais recente seja superior a 250 milhões de euros e que resulte, em pelo menos 50%, de actividades de transformação, nos termos definidos na Classificação das Actividades Económicas - Rev. 2, secção D, devem ainda prestar, sobre as relações financeiras estabelecidas com o Estado ou qualquer entidade pública, a informação seguinte:\n\na) Concessão de empréstimos à empresa, incluindo os empréstimos a descoberto e os adiantamentos sobre entradas de capital, bem como as taxas de juro aplicadas, as respectivas condições e eventuais garantias prestadas ao mutuante pela empresa beneficiária;\n\nb) Concessão de garantias à empresa, bem como as condições e prémios da respectiva emissão;\n\nc) Dividendos pagos e lucros não distribuídos.\n\nd) As convocatórias das assembleias de sócios e quaisquer outras informações pertinentes.\n\n3 - As informações previstas no número anterior podem ser prestadas em documento autónomo.\n\n> Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+  },
+  "169418759": {
+   "fragment_id": "169418537",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime de apresentação de contas de exploração separadas",
+   "in_force_from": "2005-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+   ],
+   "markdown": "###### Artigo 7.º — Regime de apresentação de contas de exploração separadas\n\n1 - As empresas referidas no n.º 2 do artigo 2.º estão obrigadas a manter em contas de exploração separadas as actividades previstas nas alíneas a) e b) do mesmo número, bem como as restantes actividades que prossigam.\n\n2 - A afectação de custos e proveitos às diferentes actividades previstas no número anterior, por parte das empresas no mesmo referidas, resulta da aplicação coerente de princípios contabilísticos de custeio, a estabelecer claramente e em bases objectivas, devidamente fundamentadas e explicitadas, carecendo de concordância da Inspecção-Geral de Finanças.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 120/2005 - Diário da República n.º 142/2005, Série I-A de 2005-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), em vigor a partir de 2005-07-31"
+  },
+  "169418722": {
+   "fragment_id": "169418538",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz.\n\nPromulgado em 26 de Junho de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Julho de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "169418764": {
+   "fragment_id": "169418532",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2007-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2007-520473), em vigor a partir de 2007-03-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Estão sujeitas ao regime de transparência financeira, nos termos do disposto no presente diploma, as empresas públicas, na acepção dos artigos 3.º e 5.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n2 - Estão ainda sujeitas ao regime da transparência financeira as empresas que:\n\na) Beneficiem de um direito especial ou exclusivo, concedido por um Estado membro ao abrigo do n.º 1 do artigo 86.º do Tratado das Comunidades Europeias;\n\nb) Tenham sido classificadas como encarregadas da gestão de um serviço de interesse económico geral, ao abrigo do n.º 2 do artigo 86.º do Tratado das Comunidades Europeias e nos termos do disposto no artigo 19.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, e que recebam uma compensação em relação ao serviço público prestado, qualquer que seja a forma que a mesma assuma, e que prossigam outras actividades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2007-520473), em vigor a partir de 2007-03-31"
+  }
+ }
+}

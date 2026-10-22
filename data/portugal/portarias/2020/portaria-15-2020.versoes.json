@@ -1,0 +1,100 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:128415686:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-128415700",
+ "dre_path": "/dr/detalhe/portaria/15-2020-128415686",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-01-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128414449",
+    "128414450",
+    "128414451",
+    "128414452",
+    "128414453",
+    "128414454",
+    "128414455",
+    "128414457"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:129090034:por",
+     "title": "Declaração de Retificação n.º 5/2020",
+     "published": "2020-02-10",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/5-2020-129090034",
+     "date": "2020-01-24"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "128414449": {
+   "fragment_id": "128415701",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 15/2020\n\nde 23 de janeiro\n\nSumário: Fixa os valores das taxas devidas no âmbito dos procedimentos administrativos relativos às atividades de produção e comercialização de eletricidade.\n\nO Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, estabelece o regime jurídico aplicável ao exercício das atividades de produção, armazenamento, transporte, distribuição e comercialização de eletricidade, à mudança de comercializador e à organização dos mercados.\n\nO n.º 11 do artigo 47.º do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, determina que a apreciação do pedido de registo de comercialização de eletricidade e a sua efetivação estão sujeitos ao pagamento de taxas a fixar pelo membro do Governo responsável para área da energia.\n\nDo mesmo modo, os n.os 1 e 7 do artigo 68.º daquele decreto-lei estabelecem que são devidas taxas pelos atos relativos a licenças, registos, comunicações prévias e a concessões.\n\nNestes termos, a presente portaria visa dar cumprimento às aludidas disposições legais, abrangendo numa só portaria todas as taxas devidas relativas ao controlo prévio referente às atividades de produção e comercialização de eletricidade, cujos procedimentos se encontrem regulados no mencionado regime jurídico.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e da Energia, ao abrigo do disposto nos n.os 11 do artigo 47.º e 1 e 7 do artigo 68.º, ambos do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, e no ponto xiii) da alínea d) do n.º 1 do Despacho n.º 12149-A/2019, de 17 de dezembro, do Ministro do Ambiente e da Ação Climática, publicado no Diário da República, 2.ª série, n.º 243, de 18 de dezembro de 2019, o seguinte:"
+  },
+  "128414450": {
+   "fragment_id": "128415702",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria fixa os valores das taxas devidas no âmbito dos procedimentos administrativos relativos às atividades de produção e comercialização de eletricidade sujeitos ao regime do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual."
+  },
+  "128414451": {
+   "fragment_id": "128415703",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas devidas no âmbito dos procedimentos relativos à atividade de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxas devidas no âmbito dos procedimentos relativos à atividade de produção\n\n1 - As taxas devidas pelos procedimentos administrativos relativos à atividade de produção de eletricidade, previstas no n.º 1 do artigo 68.º do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, são as definidas na tabela i constante do anexo, que faz parte integrante da presente portaria.\n\n2 - As taxas devidas pelo registo prévio de produção de eletricidade a partir de fontes renováveis, previstas no n.º 7 do artigo 68.º do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, são as definidas na tabela ii constante do anexo, que faz parte integrante da presente portaria."
+  },
+  "128414452": {
+   "fragment_id": "128415704",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxas devidas no âmbito do registo da comercialização de eletricidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Taxas devidas no âmbito do registo da comercialização de eletricidade\n\nA taxa devida pela apreciação do pedido de registo da atividade de comercialização de eletricidade e pela sua efetivação, prevista no n.º 11 do artigo 47.º do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, está definida na tabela iii constante do anexo, que faz parte integrante da presente portaria."
+  },
+  "128414453": {
+   "fragment_id": "128415705",
+   "type": 11,
+   "heading": "Artigo 4.º — Pagamento e atualização das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pagamento e atualização das taxas\n\n1 - As taxas são liquidadas nos termos da alínea a) do n.º 4 do artigo 9.º e da alínea a) do n.º 4 do artigo 27.º-B, todos do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, pela Direção-Geral de Energia e Geologia (DGEG), e devem ser pagas no prazo máximo de 10 dias após a receção da respetiva notificação de cobrança.\n\n2 - A DGEG diligencia pela disponibilização de mecanismos que permitam o pagamento das taxas através de meios eletrónicos, utilizando preferencialmente a plataforma de pagamentos disponibilizada pela Interoperabilidade na Administração Pública (iAP)."
+  },
+  "128414454": {
+   "fragment_id": "128415706",
+   "type": 11,
+   "heading": "Artigo 5.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Revogação\n\nÉ revogada a Portaria n.º 83/2013, de 26 de fevereiro, no que respeita à aplicação da taxa devida pela apreciação do pedido de registo e da efetivação do registo da atividade de comercialização de eletricidade."
+  },
+  "128414455": {
+   "fragment_id": "128415707",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "128414457": {
+   "fragment_id": "128415709",
+   "type": 14,
+   "heading": "Anexo — TABELA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — TABELA I\n\n(ver documento original)\n\nTABELA II\n\n(ver documento original)\n\nTABELA III\n\n(ver documento original)\n\n112946014"
+  }
+ }
+}

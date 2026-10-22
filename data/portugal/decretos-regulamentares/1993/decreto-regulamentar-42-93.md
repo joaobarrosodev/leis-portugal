@@ -1,0 +1,212 @@
+---
+schema_version: '1.0'
+id: pt:dre:680781:por
+title: Decreto Regulamentar n.º 42/93
+short_title: null
+summary: Estabelece o regime do licenciamento e da fiscalização das unidades privadas na área da toxicodependência
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 42/93
+official_date: null
+publication_date: '1993-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 278/1993, Série I-B de 1993-11-27
+  number: '278'
+  series: I
+  supplement: null
+  pages: 6677 - 6678
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/11/278b00/66776678.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/42/1993/11/27/p/dre/pt/html
+  oj: null
+  dre: '680781'
+  dre_path: /dr/detalhe/decreto-regulamentar/42-1993-680781
+  internal: pt:dre:680781:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1993-680781
+  metadata_url: https://data.dre.pt/eli/decregul/42/1993/11/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1993-680781
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-01-25T00:00:00Z'
+integrity:
+  source_sha256: 03c09c300296b0b1c2520bee264057039dc988172fdae7b42cf4f38fadd5c1a2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-42-680781.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ALTO Comissário para o Projecto VIDA
+- Assistência Médica
+- Apoio Psicológico
+- Medicina Privada
+- Direção Geral da Saúde
+- Fiscalização
+- Licenciamento
+- Toxicodependente
+- Serviço de Prevenção e Tratamento da Toxicodependência
+relationships:
+- type: amended_by
+  target: pt:dre:181067:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/13/1993/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/1993/01/15/p/dre
+article_structure:
+  article_count: 9
+  section_count: 1
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 42/93
+
+de 27 de Novembro
+
+A toxicodependência constitui um dos mais preocupantes problemas sociais da actualidade, cuja magnitude exige uma resposta eficaz que contemple globalmente a dimensão holística dos indivíduos.
+
+Neste sentido, importa tomar medidas que tenham presente as várias vertentes do problema, com especial relevo para a saúde, o emprego e segurança social, a justiça e a educação.
+
+O impacte da toxicodependência e os efeitos nefastos que potencia exigem que nos centros de tratamento e recuperação se procure dar resposta adequada ao indivíduo toxicodependente e respectva família, sem esquecer a subsequente reintegração social.
+
+Importa agora criar as condições que garantam a idoneidade de tais centros de tratamento, através dos mecanismos de licenciamento e fiscalização.
+
+A regulamentação de tais mecanismos, respeitando a singularidade destes centros, segue de perto o regime regra de licenciamento e fiscalização das unidades privadas de saúde, sem prejuízo das especificidades que a realidade da toxicodependência aconselha.
+
+Foram ouvidos a Ordem dos Médicos e o Alto-Comissário para o Projecto Vida.
+
+Assim:
+
+Ao abrigo do n.º 3 do artigo 1.º do [Decreto-Lei n.º 13/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1993-586007), de 15 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime do licenciamento e da fiscalização das unidades privadas, com ou sem fins lucrativos, que actuem no campo da prevenção secundária, através da prestação de cuidados de saúde na área da toxicodependência.
+
+###### Artigo 2.º — Tipos de estabelecimentos
+
+1 - A prestação de cuidados de saúde a que se refere o artigo anterior pode ter lugar em unidades de internamento e unidades de tratamento ambulatório.
+
+2 - São unidades de internamento:
+
+a) As clínicas de desabituação ou clínicas de desintoxicação;
+
+b) As comunidades terapêuticas ou comunidades residenciais de estada prolongada.
+
+3 - São unidades de tratamento ambulatório:
+
+a) Os centros de consultas;
+
+b) Os centros de dia.
+
+###### Artigo 3.º — Unidades de internamento
+
+1 - As clínicas de desabituação ou clínicas de desintoxicação são unidades assistenciais onde se realiza o tratamento de síndromas de privação em toxicodependentes, mediante terapêutica, medicamentos e apoio psicológico, sob responsabilidade médica, com apoio de enfermagem e consultoria em psiquiatria.
+
+2 - As comunidades terapêuticas ou comunidades residenciais de estada prolongada são unidades de internamento para estadas prolongadas, habitualmente sem recurso regular a terapêuticas medicamentosas, com apoio psicoterapêutico e ou sócio-terapêutico e apoio médico de clínica geral e consultoria em psiquiatria.
+
+###### Artigo 4.º — Unidades de tratamento ambulatório
+
+1 - Os centros de consultas são unidades assistenciais para tratamento ambulatório de doentes, apoio aos familiares ou terapia familiar, dotadas de equipas compostas por médicos, psicólogos e outros técnicos de saúde, sob a supervisão de um psiquiatra.
+
+2 - Os centros de dia são unidades de apoio psicológico e sócio-terapêutico, dispondo de actividades ocupacionais diversificadas.
+
+###### Artigo 5.º — Dever de cooperação
+
+As unidades privadas a que se refere o artigo 1.º devem colaborar com o Serviço de Prevenção e Tratamento da Toxicodependência (SPTT), com a Direcção-Geral da Saúde (DGS), com as administrações regionais de saúde e com o Alto-Comissário para o Projecto Vida nas campanhas e programas de saúde pública.
+
+###### Artigo 6.º — Remissão
+
+1 - Para efeitos do disposto no presente diploma aplicam-se, com as necessárias adaptações, os artigos 4.º a 17.º do [Decreto-Lei n.º 13/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1993-586007), de 15 de Janeiro, com excepção do n.º 2 do seu artigo 7.º, entendendo-se as referências nele feitas à DGS como sendo feitas ao SPTT.
+
+2 - A atribuição da licença de funcionamento é precedida de uma vistoria a efectuar pelos serviços competentes da DGS, coadjuvados por técnicos do SPTT.
+
+3 - Efectuada a vistoria a que se refere o número anterior e elaborado o parecer da DGS, deve o SPTT submeter o pedido, devidamente instruído e informado, ao Ministro da Saúde.
+
+###### Artigo 7.º — Contra-ordenações
+
+1 - O funcionamento das unidades a que se refere o artigo 1.º sem a atribuição da licença concedida por despacho do Ministro da Saúde constitui contra-ordenação punível com coima de 500000$00 a 3000000$00.
+
+2 - O funcionamento das unidades a que se refere o número anterior sem que disponham do respectivo regulamento interno, tabela de preços e livro de reclamações constitui contra-ordenação punível com coima de 250000$00 a 1500000$00.
+
+3 - O incumprimento da notificação ao SPTT no prazo de 30 dias sobre a transferência de titularidade ou a cessão de exploração total ou parcial ou de unidade de saúde, bem como das alterações das suas estruturas, constitui contra-ordenação punível com coima de 250000$00 a 1500000$00.
+
+4 - A falta de meios humanos e materiais exigíveis segundo os leges artis para o funcionamento das unidades constitui contra-ordenação punível com coima de 500000$00 a 3000000$00.
+
+5 - Os montantes máximos das coimas previstas nos números anteriores são reduzidos a 500000$00 quando o titular da unidade ou quem proceder à sua exploração for pessoa singular.
+
+6 - A negligência é punível.
+
+###### Artigo 8.º — Aplicação e destino das coimas
+
+1 - A fiscalização do disposto no presente diploma compete à DGS e a aplicação das coimas ao director-geral da Saúde.
+
+2 - O produto das coimas reverte:
+
+a) Em 60% para o Estado;
+
+b) Em 30% para o SPTT;
+
+c) Em 10% para a DGS.
+
+###### Artigo 9.º — Disposição transitória
+
+1 - As unidades privadas que se encontrem em funcionamento à data da entrada em vigor do presente diploma devem, no prazo de 90 dias contados desde aquela data, requerer a respectiva licença de funcionamento.
+
+2 - Ocorrendo razões ponderosas de saúde pública devidamente justificadas, pode o prazo previsto no número anterior ser prorrogado, por períodos sucessivos de 30 dias, até ao limite máximo de 180 dias.
+
+3 - Compete ao presidente do SPTT a verificação, por despacho, dos pressupostos previstos no número anterior.
+
+Presidência do Conselho de Ministros, 14 de Junho de 1993.
+
+Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho - Luís Manuel Gonçalves Marques Mendes.
+
+**Promulgado em 3 de Novembro de 1993.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 4 de Novembro de 1993.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

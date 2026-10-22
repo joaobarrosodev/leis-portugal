@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:678427:por
+title: Decreto-Lei n.º 50/80
+short_title: null
+summary: Reintegra no Ministério da Educação e Ciência o Instituto de Cultura Portuguesa (Icap)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 50/80
+official_date: null
+publication_date: '1980-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 69/1980, Série I de 1980-03-22
+  number: '69'
+  series: I
+  supplement: null
+  pages: 526 - 527
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/03/06900/05260527.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '678427'
+  dre_path: /dr/detalhe/decreto-lei/50-1980-678427
+  internal: pt:dre:678427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1980-678427
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1980-678427
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-07-15T00:00:00Z'
+integrity:
+  source_sha256: 2bdb36dee95d6b888467eb1c7c2d3daa2b5ec28c91de4ed5df8aeff9fc08d7ce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-50-678427.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:300396:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 50/80
+
+de 22 de Março
+
+O Instituto de Cultura Portuguesa (Icap), criado pelo [Decreto-Lei n.º 541/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1976-431456), de 9 de Julho, por transformação do Instituto de Alta Cultura, tem como principal atribuição a difusão da língua e cultura portuguesas nas Universidades e instituições congéneres estrangeiras. Estas atribuições situam-se mais correctamente no âmbito do Ministério da Educação e Ciência do que no da Secretaria de Estado da Cultura, pelo que urge fazer regressar o Icap àquele Ministério, donde saiu por força do [Decreto n.º 7/79](https://diariodarepublica.pt/dr/detalhe/decreto/7-1979-392608), de 27 de Janeiro.
+
+O ensino de Português no estrangeiro reveste-se de características específicas, tornando-se necessário que as acções nesse domínio obedeçam a um planeamento global comum, exigido por uma eficaz coordenação e desejável racionalização dos meios humanos e materiais existentes. Impõe-se, por isso, concentrá-lo num só organismo central no âmbito do Ministério da Educação e Ciência. Por essa razão, são transferidos para o Icap os serviços de ensino de Português no estrangeiro, até agora dependentes das Direcções-Gerais dos Ensinos Básico e Secundário.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O Instituto de Cultura Portuguesa (Icap) deixa de depender da Secretaria de Estado da Cultura e é reintegrado no Ministério da Educação e Ciência, passando a denominar-se Instituto de Cultura e Língua Portuguesa.
+
+2 - Aos quadros únicos do pessoal daquele Ministério devem ser acrescidos os lugares correspondentes, constantes do quadro anexo ao [Decreto n.º 19/78](https://diariodarepublica.pt/dr/detalhe/decreto/19-1978-448522), de 10 de Fevereiro.
+
+###### Art. 2.º As atribuições relacionadas com o ensino português no estrangeiro a nível dos ensinos básico e secundário, previstas nos Decretos-Leis n.os [44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007) e [45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, passarão a competir ao Icap.
+
+###### Art. 3.º O pessoal que, a qualquer título, se encontra colocado no serviço previsto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), de 12 de Fevereiro, e no Serviço de Ensino Básico Português no Estrangeiro referido no artigo 16.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008), de 12 de Fevereiro, ficará em regime de destacamento no Icap até à sua reestruturação.
+
+###### Art. 4.º O pessoal mencionado no artigo anterior será distribuído pelos serviços mediante despacho do Ministro da Educação e Ciência.
+
+###### Art. 5.º É transferido para o Icap o equipamento que à data da entrada em vigor do presente diploma esteja afecto aos serviços previstos no n.º 2 do artigo 8.º do [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007) e no artigo 16.º do [Decreto-Lei n.º 45/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1973-685008).
+
+###### Art. 6.º Transitam para o orçamento privativo do Icap todas as verbas inscritas no Ministério da Educação e Ciência destinadas aos ensinos básico e secundário português no estrangeiro.
+
+###### Art. 7.º No prazo de trinta dias, a contar da data da publicação do presente decreto-lei, será publicado diploma relativo à reestruturação do Icap.
+
+###### Art. 8.º Fica revogado o [Decreto-Lei n.º 541/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1979-230886), de 31 de Dezembro.
+
+###### Art. 9.º As dúvidas suscitadas pela execução do presente decreto-lei serão resolvidas por despacho do Ministro da Educação e Ciência.
+
+###### Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
+
+**Promulgado em 5 de Março de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

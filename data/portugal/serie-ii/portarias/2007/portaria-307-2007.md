@@ -1,0 +1,88 @@
+---
+schema_version: '1.0'
+id: pt:dre:994874:por
+title: Portaria n.º 307/2007
+short_title: null
+summary: Graduação ao posto de capitão-tenente da classe de capelães do 7100199, capelão titular graduado em primeiro-tenente
+  António Rodrigues Borges da Silva (no quadro)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Marinha - Gabinete do Chefe do Estado-Maior da Armada
+proposing_entity: null
+official_number: 307/2007
+official_date: null
+publication_date: '2007-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2007, Série II de 2007-03-13
+  number: '51'
+  series: II
+  supplement: null
+  pages: 6772 - 6772
+  pdf_url: https://files.diariodarepublica.pt/2s/2007/03/051000000/0677206772.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '994874'
+  dre_path: /dr/detalhe/portaria/307-2007-994874
+  internal: pt:dre:994874:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-2007-994874
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-2007-994874
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-03-13T00:00:00Z'
+integrity:
+  source_sha256: d274f5262b56f3de3b147c15af14e7e1262b279304650413e55bb3148e6d3173
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-307-994874.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 307/2007
+
+Manda o almirante Chefe do Estado-Maior da Armada, ao abrigo das disposições conjugadas do n.º 3 do artigo 69.º e da alínea c) do n.º 1 do artigo 68.º do Estatuto dos Militares das Forças Armadas (EMFAR), graduar no posto de capitão-tenente o 7100199, capelão titular graduado em primeiro-tenente António Rodrigues Borges da Silva (no quadro), nos termos da alínea c) do n.º 3 do artigo 15.º do [Decreto-Lei n.º 93/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1991-484415), de 26 de Fevereiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 54/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1997-515444), de 6 de Março, a contar de 23 de Setembro de 2006, data a partir da qual lhe são devidos os vencimentos correspondentes ao 1.º escalão do posto de graduação, nos termos do n.º 2 do artigo 68.º do Estatuto dos Militares das Forças Armadas.
+
+13 de Fevereiro de 2007. - O Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, almirante.

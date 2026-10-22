@@ -1,0 +1,117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:160076721:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2021-898053195",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/32-2021-160076721",
+ "source_lastmod": "2024-11-27",
+ "versions": [
+  {
+   "date": "2021-03-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "898157478"
+   ]
+  },
+  {
+   "date": "2024-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:897994593:por",
+     "title": "Resolução do Conselho de Ministros n.º 168/2024",
+     "published": "2024-11-27",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593"
+    }
+   ],
+   "changes": [
+    "Altera 1.º",
+    "Altera 2.º",
+    "Altera 5.º"
+   ],
+   "fragments": [
+    "898157478",
+    "898157490",
+    "898157491",
+    "898157483",
+    "898157482",
+    "898157492",
+    "898157480",
+    "898157479"
+   ]
+  }
+ ],
+ "fragments": {
+  "898157478": {
+   "fragment_id": "898053196",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 32/2021\n\nSumário: Autoriza a Universidade de Coimbra a realizar a despesa com a celebração do contrato de empreitada da construção do edifício MIA Portugal - Centro de Excelência em Investigação do Envelhecimento.\n\nO projeto MIA-Portugal (Multidisciplinary Institute of Ageing), que mereceu a aprovação da União Europeia, constitui-se como o primeiro centro de investigação de excelência nesta área no sul da Europa e, sendo um projeto estratégico para a Universidade de Coimbra, vai juntar várias disciplinas em torno do mesmo objetivo: o envelhecimento ativo e saudável.\n\nA concretização deste projeto implica a construção de um edifício contíguo às Faculdades de Farmácia e Medicina do Polo das Ciências da Saúde da Universidade de Coimbra, que albergará o Instituto.\n\nA Universidade de Coimbra pretende, assim, dar início a uma empreitada de obras públicas de construção do edifício que albergará o MIA Portugal - Centro de Excelência em Investigação do Envelhecimento no seu Polo das Ciências da Saúde.\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 36.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:"
+  },
+  "898157490": {
+   "fragment_id": "898053203",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2024-11-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Resolução do Conselho de Ministros n.º 168/2024 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593), em vigor a partir de 2024-11-28"
+   ],
+   "markdown": "###### 1.º\n\nAutorizar a Universidade de Coimbra a realizar a despesa decorrente da celebração do contrato de empreitada da obra pública de construção das instalações do MIA Portugal - Centro de Excelência em Investigação do Envelhecimento, até ao montante global máximo de € 25 103 468,23, ao qual acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.\n\n> Alterado pelo/a 1.º do/a [Resolução do Conselho de Ministros n.º 168/2024 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593), em vigor a partir de 2024-11-28"
+  },
+  "898157491": {
+   "fragment_id": "898053202",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2024-11-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Resolução do Conselho de Ministros n.º 168/2024 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593), em vigor a partir de 2024-11-28"
+   ],
+   "markdown": "###### 2.º\n\nDeterminar que os encargos orçamentais com a despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:\n\na) 2021 - (euro) 1 951 530,00;\n\nb) 2022 - € 4 103 944,37;\n\nc) 2023 - € 9 744 828,42;\n\nd) 2024 - € 10 702 861,59;\n\ne) 2025 - € 500 000,00.\n\n> Alterado pelo/a 1.º do/a [Resolução do Conselho de Ministros n.º 168/2024 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593), em vigor a partir de 2024-11-28"
+  },
+  "898157483": {
+   "fragment_id": "898053201",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nEstabelecer que o montante fixado no número anterior, para cada ano económico, pode ser acrescido do saldo apurado no ano que lhe antecede."
+  },
+  "898157482": {
+   "fragment_id": "898053200",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nDeterminar que os encargos financeiros decorrentes da presente resolução são suportados maioritariamente através de fundos europeus, por receitas provenientes do Fundo Europeu de Desenvolvimento Regional, no âmbito do Programa Operacional Regional do Centro, e a correspondente contrapartida pública nacional por receitas próprias do orçamento da Universidade de Coimbra."
+  },
+  "898157492": {
+   "fragment_id": "898053199",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "2024-11-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Resolução do Conselho de Ministros n.º 168/2024 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593), em vigor a partir de 2024-11-28"
+   ],
+   "markdown": "###### 5.º\n\nDelegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da educação, ciência e inovação a competência para a prática de todos os atos subsequentes a realizar no âmbito previsto na presente resolução.\n\n> Alterado pelo/a 1.º do/a [Resolução do Conselho de Ministros n.º 168/2024 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/168-2024-897994593), em vigor a partir de 2024-11-28"
+  },
+  "898157480": {
+   "fragment_id": "898053198",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nEstabelecer que a presente resolução produz efeitos a partir da data da sua aprovação."
+  },
+  "898157479": {
+   "fragment_id": "898053197",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 11 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.\n\n114081529"
+  }
+ }
+}

@@ -1,0 +1,334 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131338919:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-134866077",
+ "dre_path": "/dr/detalhe/lei/9-2020-131338919",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175979994",
+    "134866186",
+    "134866187",
+    "134866188",
+    "134866189",
+    "134866190",
+    "134866191",
+    "134866192",
+    "134866193",
+    "134866194",
+    "134866195",
+    "134866196"
+   ]
+  },
+  {
+   "date": "2020-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:134762423:por",
+     "title": "Lei n.º 16/2020",
+     "published": "2020-05-29",
+     "dre_path": "/dr/detalhe/lei/16-2020-134762423"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "134866185",
+    "134866186",
+    "134866187",
+    "134866188",
+    "134866189",
+    "134866190",
+    "134866191",
+    "134866192",
+    "134866193",
+    "134866194",
+    "134866198",
+    "134866196",
+    "134866197"
+   ]
+  },
+  {
+   "date": "2021-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175923954:por",
+     "title": "Lei n.º 86/2021",
+     "published": "2021-12-15",
+     "dre_path": "/dr/detalhe/lei/86-2021-175923954"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "175979994",
+    "175979995",
+    "175979996",
+    "175979997",
+    "175979998",
+    "175979999",
+    "175980000",
+    "175980001",
+    "175980002",
+    "175980003",
+    "175980004",
+    "175980005",
+    "175980006"
+   ]
+  }
+ ],
+ "fragments": {
+  "175979994": {
+   "fragment_id": "134866078",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-12-16",
+   "changed_by": [],
+   "markdown": "Lei n.º 9/2020\n\nde 10 de abril\n\nSumário: Regime excecional de flexibilização da execução das penas e das medidas de graça, no âmbito da pandemia da doença COVID-19.\n\nRegime excecional de flexibilização da execução das penas e das medidas de graça, no âmbito da pandemia da doença COVID-19\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "134866186": {
+   "fragment_id": "134866079",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece, excecionalmente, no âmbito da emergência de saúde pública ocasionada pela doença COVID-19, as seguintes medidas:\n\na) Um perdão parcial de penas de prisão;\n\nb) Um regime especial de indulto das penas;\n\nc) Um regime extraordinário de licença de saída administrativa de reclusos condenados;\n\nd) A antecipação extraordinária da colocação em liberdade condicional.\n\n2 - As medidas previstas na presente lei não se aplicam a condenados por crimes cometidos contra membro das forças policiais e de segurança, das forças armadas e funcionários e guardas dos serviços prisionais, no exercício das respetivas funções."
+  },
+  "134866187": {
+   "fragment_id": "134866080",
+   "type": 11,
+   "heading": "Artigo 2.º — Perdão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Perdão\n\n1 - São perdoadas as penas de prisão de reclusos condenados por decisão transitada em julgado, de duração igual ou inferior a dois anos.\n\n2 - São também perdoados os períodos remanescentes das penas de prisão de reclusos condenados por decisão transitada em julgado, de duração superior à referida no número anterior, se o tempo que faltar para o seu cumprimento integral for igual ou inferior a dois anos, e o recluso tiver cumprido, pelo menos, metade da pena.\n\n3 - O perdão referido nos números anteriores abrange a prisão subsidiária resultante da conversão da pena de multa e a execução da pena de prisão por não cumprimento da pena de multa de substituição e, em caso de cúmulo jurídico, incide sobre a pena única.\n\n4 - Em caso de condenação do mesmo recluso em penas sucessivas sem que haja cúmulo jurídico, o perdão incide apenas sobre o remanescente do somatório dessas penas, se o tempo que faltar para o seu cumprimento integral for igual ou inferior a dois anos.\n\n5 - Relativamente a condenações em penas de substituição, o perdão a que se refere este artigo só deve ser aplicado se houver lugar à revogação ou suspensão.\n\n6 - Ainda que também tenham sido condenados pela prática de outros crimes, não podem ser beneficiários do perdão referido nos n.os 1 e 2 os condenados pela prática:\n\na) Do crime de homicídio previsto nos artigos 131.º, 132.º e 133.º do Código Penal, aprovado pelo Decreto-Lei n.º 48/95, de 15 de março, na sua redação atual;\n\nb) Do crime de violência doméstica e de maus tratos previstos, respetivamente, nos artigos 152.º e 152.º-A do Código Penal;\n\nc) De crimes contra a liberdade pessoal, previstos no capítulo IV do título I do livro II do Código Penal;\n\nd) De crimes contra a liberdade sexual e autodeterminação sexual, previstos no capítulo V do título I do livro II do Código Penal;\n\ne) Dos crimes previstos na alínea a) do n.º 2 e no n.º 3 do artigo 210.º do Código Penal, ou previstos nessa alínea e nesse número em conjugação com o artigo 211.º do mesmo Código;\n\nf) De crimes contra a identidade cultural e integridade pessoal, previstos no título III do livro II do Código Penal;\n\ng) Dos crimes previstos nos artigos 272.º, 273.º e 274.º do Código Penal, quando tenham sido cometidos com dolo;\n\nh) Do crime previsto no artigo 299.º do Código Penal;\n\ni) Pelo crime previsto no artigo 368.º-A do Código Penal;\n\nj) Dos crimes previstos nos artigos 372.º, 373.º e 374.º do Código Penal;\n\nk) Dos crimes previstos nos artigos 21.º, 22.º e 28.º do Decreto-Lei n.º 15/93, de 22 de janeiro, na sua redação atual;\n\nl) De crime enquanto membro das forças policiais e de segurança, das forças armadas ou funcionários e guardas dos serviços prisionais, no exercício das suas funções, envolvendo violação de direitos, liberdades e garantias pessoais dos cidadãos, independentemente da pena;\n\nm) De crime enquanto titular de cargo político ou de alto cargo público, magistrado judicial ou do Ministério Público, no exercício de funções ou por causa delas;\n\nn) Dos crimes previstos nos artigos 144.º, 145.º, n.º 1, alínea c), e 147.º do Código Penal.\n\n7 - O perdão a que se referem os n.os 1 e 2 é concedido a reclusos cujas condenações tenham transitado em julgado em data anterior à da entrada em vigor da presente lei e sob a condição resolutiva de o beneficiário não praticar infração dolosa no ano subsequente, caso em que à pena aplicada à infração superveniente acresce a pena perdoada.\n\n8 - Compete aos tribunais de execução de penas territorialmente competentes proceder à aplicação do perdão estabelecido na presente lei e emitir os respetivos mandados com caráter urgente.\n\n9 - O perdão a que se referem os n.os 1 e 2 só pode ser aplicado uma vez por cada condenado."
+  },
+  "134866188": {
+   "fragment_id": "134866081",
+   "type": 11,
+   "heading": "Artigo 3.º — Indulto excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Indulto excecional\n\n1 - O membro do Governo responsável pela área da justiça pode propor ao Presidente da República o indulto, total ou parcial, da pena de prisão aplicada a recluso que tenha 65 ou mais anos de idade à data da entrada em vigor da presente lei e seja portador de doença, física ou psíquica, ou de um grau de autonomia incompatível com a normal permanência em meio prisional, no contexto desta pandemia.\n\n2 - O diretor do estabelecimento prisional a que está afeto o recluso condenado, obtido o consentimento deste, remete, em 48 horas, ao diretor-geral de Reinserção e Serviços Prisionais, proposta de indulto excecional acompanhada dos seguintes elementos:\n\na) Informação médica sobre o estado de saúde, física ou psíquica, do recluso e o seu grau de autonomia e a sua incompatibilidade com a normal manutenção em meio prisional;\n\nb) Informações constantes do processo individual do recluso;\n\nc) Registo criminal atualizado do condenado;\n\nd) Cômputo da pena, homologado pela autoridade judiciária competente.\n\n3 - Obtidos os elementos referidos no número anterior e o parecer do diretor-geral de Reinserção e Serviços Prisionais, a proposta é remetida, em 48 horas, ao Ministério da Justiça, que a leva à decisão do Presidente da República.\n\n4 - À concessão e à revogação do indulto é aplicável o disposto no artigo 223.º, nos n.os 2 e 3 do artigo 227.º e no artigo 228.º do Código da Execução das Penas e Medidas Privativas da Liberdade, aprovado pela Lei n.º 115/2009, de 12 de outubro, na sua redação atual.\n\n5 - Não podem ser beneficiários do indulto excecional os reclusos condenados pela prática dos crimes previstos no n.º 6 do artigo 2.º\n\n6 - Os pedidos de indulto podem ser apresentados pelos interessados no prazo de três dias úteis contados da entrada em vigor da presente lei, devendo ser subsequentemente instruídos em cinco dias úteis."
+  },
+  "134866189": {
+   "fragment_id": "134866082",
+   "type": 11,
+   "heading": "Artigo 4.º — Licença de saída administrativa extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Licença de saída administrativa extraordinária\n\n1 - O diretor-geral de Reinserção e Serviços Prisionais ou, por delegação deste, os subdiretores-gerais de Reinserção e Serviços Prisionais podem conceder ao recluso condenado, mediante o seu consentimento, licença de saída pelo período de 45 dias, desde que cumulativamente se verifiquem os seguintes requisitos:\n\na) O preenchimento dos pressupostos e critérios gerais de concessão da licença de saída previstos no artigo 78.º do Código da Execução das Penas e Medidas Privativas da Liberdade;\n\nb) O gozo prévio de pelo menos uma licença de saída jurisdicional ao recluso que cumpre pena em regime aberto ou o gozo prévio de duas saídas jurisdicionais ao recluso que cumpre pena em regime comum;\n\nc) A inexistência de qualquer situação de evasão, ausência ilegítima ou revogação da liberdade condicional nos 12 meses antecedentes.\n\n2 - Recaem sobre o condenado os deveres de permanecer na habitação e de aceitar a vigilância dos serviços de reinserção social e dos elementos dos órgãos de polícia criminal territorialmente competentes, cumprindo as suas orientações e respondendo aos contactos periódicos que com ele vierem a estabelecer, nomeadamente por via telefónica.\n\n3 - A licença de saída pode ser renovada, mais do que uma vez e por períodos de até 45 dias, por decisão do diretor-geral de Reinserção e Serviços Prisionais, em função da conduta assumida pelo recluso e do contexto sanitário decorrente da doença COVID-19.\n\n4 - Durante a vigência da licença de saída, o diretor-geral de Reinserção e Serviços Prisionais pode autorizar o recluso que cumpre pena em regime aberto a manter a atividade laboral que desenvolvia fora do estabelecimento prisional.\n\n5 - Os serviços de reinserção social competentes podem autorizar a deslocação do recluso a estabelecimento de saúde para receber cuidados médicos.\n\n6 - Se, durante a licença de saída, o recluso deixar de cumprir injustificadamente qualquer das condições impostas, os serviços de reinserção social devem informar a delegação regional de reinserção, cujo diretor promove de imediato a aplicação de uma solene advertência pelo diretor do estabelecimento prisional ou a revogação da licença de saída pelo diretor-geral de Reinserção e Serviços Prisionais.\n\n7 - O recluso pode impugnar a legalidade da decisão de revogação perante o tribunal de execução das penas.\n\n8 - Em caso de revogação, os serviços prisionais comunicam tal facto ao representante do Ministério Público junto do tribunal de execução das penas, para efeitos do disposto na alínea h) do artigo 141.º do Código da Execução das Penas e Medidas Privativas da Liberdade.\n\n9 - A concessão da licença de saída referida no n.º 1, bem como a sua cessação, é comunicada, de imediato, ao representante do Ministério Público junto do tribunal de execução das penas, para efeitos do disposto na alínea b) do artigo 141.º do Código da Execução das Penas e Medidas Privativas da Liberdade.\n\n10 - O período de saída é considerado tempo de execução da pena ou da medida privativa da liberdade, exceto se a licença for revogada."
+  },
+  "134866190": {
+   "fragment_id": "134866083",
+   "type": 11,
+   "heading": "Artigo 5.º — Adaptação à liberdade condicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Adaptação à liberdade condicional\n\n1 - Para efeito de adaptação à liberdade condicional, verificado o gozo, com êxito, de licença de saída administrativa concedida nos termos do artigo anterior, a colocação em liberdade condicional pode ser antecipada pelo tribunal de execução das penas, por um período máximo de seis meses.\n\n2 - A duração da medida prevista no artigo anterior é equivalente ao período que o recluso condenado tem de cumprir para atingir dois terços ou cinco sextos da pena, conforme se trate de pena de prisão em medida inferior ou superior a seis anos.\n\n3 - O condenado fica obrigado, durante o período da antecipação, para além do cumprimento das demais condições impostas, ao regime de permanência na habitação, aceitando a vigilância dos serviços de reinserção social e dos órgãos de polícia criminal territorialmente competentes, cumprindo as suas orientações e respondendo aos contactos periódicos, que com ele vierem a estabelecer, nomeadamente por via telefónica.\n\n4 - É aplicável o regime dos artigos 62.º do Código Penal e 188.º do Código da Execução das Penas e Medidas Privativas da Liberdade, se este se revelar, em concreto, mais favorável ao recluso."
+  },
+  "134866191": {
+   "fragment_id": "134866084",
+   "type": 11,
+   "heading": "Artigo 6.º — Regresso ao meio prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regresso ao meio prisional\n\nEm qualquer das circunstâncias que, nos termos da presente lei, ditam o regresso do condenado ao meio prisional, há lugar ao cumprimento prévio de um período de quarentena de 14 dias, nos termos que tenham sido determinados pela Direção-Geral de Reinserção e Serviços Prisionais."
+  },
+  "134866192": {
+   "fragment_id": "134866085",
+   "type": 11,
+   "heading": "Artigo 7.º — Prisão preventiva e reclusos especialmente vulneráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prisão preventiva e reclusos especialmente vulneráveis\n\n1 - O juiz deve proceder ao reexame dos pressupostos da prisão preventiva independentemente do decurso dos três meses referidos no artigo 213.º do Código de Processo Penal, sobretudo quando os arguidos estiverem em alguma das situações descritas no n.º 1 do artigo 3.º, de modo a reponderar a necessidade da medida, avaliando, nomeadamente, a efetiva subsistência dos requisitos gerais previstos no artigo 204.º daquele Código.\n\n2 - Nos termos do artigo 193.º do Código de Processo Penal, a prisão preventiva só pode ser aplicada quando se revelarem manifestamente inadequadas ou insuficientes as outras medidas de coação."
+  },
+  "134866193": {
+   "fragment_id": "134866086",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimentos de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimentos de saúde pública\n\nA libertação de reclusos ao abrigo da presente lei é antecedida dos procedimentos indicados pela Direção-Geral da Saúde."
+  },
+  "134866194": {
+   "fragment_id": "134866087",
+   "type": 11,
+   "heading": "Artigo 9.º — Afetação extraordinária de juízes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Afetação extraordinária de juízes\n\nPara implementação do disposto na presente lei, e durante o período em que a mesma vigorar, o Conselho Superior da Magistratura, no âmbito dos seus poderes de gestão, afeta aos tribunais de execução das penas os juízes necessários."
+  },
+  "134866195": {
+   "fragment_id": "134866088",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cessação de vigência\n\nA presente lei cessa a sua vigência na data fixada pelo decreto-lei previsto no n.º 2 do artigo 7.º da Lei n.º 1-A/2020, de 19 de março, o qual declara o termo da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19."
+  },
+  "134866196": {
+   "fragment_id": "134866089",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "134866185": {
+   "fragment_id": "134866078",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 9/2020\n\nde 10 de abril\n\nSumário: Regime excecional de flexibilização da execução das penas e das medidas de graça, no âmbito da pandemia da doença COVID-19.\n\nRegime excecional de flexibilização da execução das penas e das medidas de graça, no âmbito da pandemia da doença COVID-19\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "134866198": {
+   "fragment_id": "134866088",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação de vigência",
+   "in_force_from": "2020-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 16/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/16-2020-134762423), em vigor a partir de 2020-06-03"
+   ],
+   "markdown": "###### Artigo 10.º — Cessação de vigência\n\nA presente lei cessa a sua vigência na data a fixar em lei que declare o final do regime excecional de medidas de flexibilização da execução das penas e das medidas de graça no âmbito da prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 16/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/16-2020-134762423), em vigor a partir de 2020-06-03"
+  },
+  "134866197": {
+   "fragment_id": "134866090",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 9 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 10 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113178209"
+  },
+  "175979995": {
+   "fragment_id": "134866079",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece, excecionalmente, no âmbito da emergência de saúde pública ocasionada pela doença COVID-19, as seguintes medidas:\n\na) Um perdão parcial de penas de prisão;\n\nb) Um regime especial de indulto das penas;\n\nc) Um regime extraordinário de licença de saída administrativa de reclusos condenados;\n\nd) A antecipação extraordinária da colocação em liberdade condicional.\n\n2 - As medidas previstas na presente lei não se aplicam a condenados por crimes cometidos contra membro das forças policiais e de segurança, das forças armadas e funcionários e guardas dos serviços prisionais, no exercício das respetivas funções.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175979996": {
+   "fragment_id": "134866080",
+   "type": 11,
+   "heading": "Artigo 2.º — Perdão",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 2.º — Perdão\n\n1 - São perdoadas as penas de prisão de reclusos condenados por decisão transitada em julgado, de duração igual ou inferior a dois anos.\n\n2 - São também perdoados os períodos remanescentes das penas de prisão de reclusos condenados por decisão transitada em julgado, de duração superior à referida no número anterior, se o tempo que faltar para o seu cumprimento integral for igual ou inferior a dois anos, e o recluso tiver cumprido, pelo menos, metade da pena.\n\n3 - O perdão referido nos números anteriores abrange a prisão subsidiária resultante da conversão da pena de multa e a execução da pena de prisão por não cumprimento da pena de multa de substituição e, em caso de cúmulo jurídico, incide sobre a pena única.\n\n4 - Em caso de condenação do mesmo recluso em penas sucessivas sem que haja cúmulo jurídico, o perdão incide apenas sobre o remanescente do somatório dessas penas, se o tempo que faltar para o seu cumprimento integral for igual ou inferior a dois anos.\n\n5 - Relativamente a condenações em penas de substituição, o perdão a que se refere este artigo só deve ser aplicado se houver lugar à revogação ou suspensão.\n\n6 - Ainda que também tenham sido condenados pela prática de outros crimes, não podem ser beneficiários do perdão referido nos n.os 1 e 2 os condenados pela prática:\n\na) Do crime de homicídio previsto nos artigos 131.º, 132.º e 133.º do Código Penal, aprovado pelo Decreto-Lei n.º 48/95, de 15 de março, na sua redação atual;\n\nb) Do crime de violência doméstica e de maus tratos previstos, respetivamente, nos artigos 152.º e 152.º-A do Código Penal;\n\nc) De crimes contra a liberdade pessoal, previstos no capítulo IV do título I do livro II do Código Penal;\n\nd) De crimes contra a liberdade sexual e autodeterminação sexual, previstos no capítulo V do título I do livro II do Código Penal;\n\ne) Dos crimes previstos na alínea a) do n.º 2 e no n.º 3 do artigo 210.º do Código Penal, ou previstos nessa alínea e nesse número em conjugação com o artigo 211.º do mesmo Código;\n\nf) De crimes contra a identidade cultural e integridade pessoal, previstos no título III do livro II do Código Penal;\n\ng) Dos crimes previstos nos artigos 272.º, 273.º e 274.º do Código Penal, quando tenham sido cometidos com dolo;\n\nh) Do crime previsto no artigo 299.º do Código Penal;\n\ni) Pelo crime previsto no artigo 368.º-A do Código Penal;\n\nj) Dos crimes previstos nos artigos 372.º, 373.º e 374.º do Código Penal;\n\nk) Dos crimes previstos nos artigos 21.º, 22.º e 28.º do Decreto-Lei n.º 15/93, de 22 de janeiro, na sua redação atual;\n\nl) De crime enquanto membro das forças policiais e de segurança, das forças armadas ou funcionários e guardas dos serviços prisionais, no exercício das suas funções, envolvendo violação de direitos, liberdades e garantias pessoais dos cidadãos, independentemente da pena;\n\nm) De crime enquanto titular de cargo político ou de alto cargo público, magistrado judicial ou do Ministério Público, no exercício de funções ou por causa delas;\n\nn) Dos crimes previstos nos artigos 144.º, 145.º, n.º 1, alínea c), e 147.º do Código Penal.\n\n7 - O perdão a que se referem os n.os 1 e 2 é concedido a reclusos cujas condenações tenham transitado em julgado em data anterior à da entrada em vigor da presente lei e sob a condição resolutiva de o beneficiário não praticar infração dolosa no ano subsequente, caso em que à pena aplicada à infração superveniente acresce a pena perdoada.\n\n8 - Compete aos tribunais de execução de penas territorialmente competentes proceder à aplicação do perdão estabelecido na presente lei e emitir os respetivos mandados com caráter urgente.\n\n9 - O perdão a que se referem os n.os 1 e 2 só pode ser aplicado uma vez por cada condenado.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175979997": {
+   "fragment_id": "134866081",
+   "type": 11,
+   "heading": "Artigo 3.º — Indulto excecional",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 3.º — Indulto excecional\n\n1 - O membro do Governo responsável pela área da justiça pode propor ao Presidente da República o indulto, total ou parcial, da pena de prisão aplicada a recluso que tenha 65 ou mais anos de idade à data da entrada em vigor da presente lei e seja portador de doença, física ou psíquica, ou de um grau de autonomia incompatível com a normal permanência em meio prisional, no contexto desta pandemia.\n\n2 - O diretor do estabelecimento prisional a que está afeto o recluso condenado, obtido o consentimento deste, remete, em 48 horas, ao diretor-geral de Reinserção e Serviços Prisionais, proposta de indulto excecional acompanhada dos seguintes elementos:\n\na) Informação médica sobre o estado de saúde, física ou psíquica, do recluso e o seu grau de autonomia e a sua incompatibilidade com a normal manutenção em meio prisional;\n\nb) Informações constantes do processo individual do recluso;\n\nc) Registo criminal atualizado do condenado;\n\nd) Cômputo da pena, homologado pela autoridade judiciária competente.\n\n3 - Obtidos os elementos referidos no número anterior e o parecer do diretor-geral de Reinserção e Serviços Prisionais, a proposta é remetida, em 48 horas, ao Ministério da Justiça, que a leva à decisão do Presidente da República.\n\n4 - À concessão e à revogação do indulto é aplicável o disposto no artigo 223.º, nos n.os 2 e 3 do artigo 227.º e no artigo 228.º do Código da Execução das Penas e Medidas Privativas da Liberdade, aprovado pela Lei n.º 115/2009, de 12 de outubro, na sua redação atual.\n\n5 - Não podem ser beneficiários do indulto excecional os reclusos condenados pela prática dos crimes previstos no n.º 6 do artigo 2.º\n\n6 - Os pedidos de indulto podem ser apresentados pelos interessados no prazo de três dias úteis contados da entrada em vigor da presente lei, devendo ser subsequentemente instruídos em cinco dias úteis.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175979998": {
+   "fragment_id": "134866082",
+   "type": 11,
+   "heading": "Artigo 4.º — Licença de saída administrativa extraordinária",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 4.º — Licença de saída administrativa extraordinária\n\n1 - O diretor-geral de Reinserção e Serviços Prisionais ou, por delegação deste, os subdiretores-gerais de Reinserção e Serviços Prisionais podem conceder ao recluso condenado, mediante o seu consentimento, licença de saída pelo período de 45 dias, desde que cumulativamente se verifiquem os seguintes requisitos:\n\na) O preenchimento dos pressupostos e critérios gerais de concessão da licença de saída previstos no artigo 78.º do Código da Execução das Penas e Medidas Privativas da Liberdade;\n\nb) O gozo prévio de pelo menos uma licença de saída jurisdicional ao recluso que cumpre pena em regime aberto ou o gozo prévio de duas saídas jurisdicionais ao recluso que cumpre pena em regime comum;\n\nc) A inexistência de qualquer situação de evasão, ausência ilegítima ou revogação da liberdade condicional nos 12 meses antecedentes.\n\n2 - Recaem sobre o condenado os deveres de permanecer na habitação e de aceitar a vigilância dos serviços de reinserção social e dos elementos dos órgãos de polícia criminal territorialmente competentes, cumprindo as suas orientações e respondendo aos contactos periódicos que com ele vierem a estabelecer, nomeadamente por via telefónica.\n\n3 - A licença de saída pode ser renovada, mais do que uma vez e por períodos de até 45 dias, por decisão do diretor-geral de Reinserção e Serviços Prisionais, em função da conduta assumida pelo recluso e do contexto sanitário decorrente da doença COVID-19.\n\n4 - Durante a vigência da licença de saída, o diretor-geral de Reinserção e Serviços Prisionais pode autorizar o recluso que cumpre pena em regime aberto a manter a atividade laboral que desenvolvia fora do estabelecimento prisional.\n\n5 - Os serviços de reinserção social competentes podem autorizar a deslocação do recluso a estabelecimento de saúde para receber cuidados médicos.\n\n6 - Se, durante a licença de saída, o recluso deixar de cumprir injustificadamente qualquer das condições impostas, os serviços de reinserção social devem informar a delegação regional de reinserção, cujo diretor promove de imediato a aplicação de uma solene advertência pelo diretor do estabelecimento prisional ou a revogação da licença de saída pelo diretor-geral de Reinserção e Serviços Prisionais.\n\n7 - O recluso pode impugnar a legalidade da decisão de revogação perante o tribunal de execução das penas.\n\n8 - Em caso de revogação, os serviços prisionais comunicam tal facto ao representante do Ministério Público junto do tribunal de execução das penas, para efeitos do disposto na alínea h) do artigo 141.º do Código da Execução das Penas e Medidas Privativas da Liberdade.\n\n9 - A concessão da licença de saída referida no n.º 1, bem como a sua cessação, é comunicada, de imediato, ao representante do Ministério Público junto do tribunal de execução das penas, para efeitos do disposto na alínea b) do artigo 141.º do Código da Execução das Penas e Medidas Privativas da Liberdade.\n\n10 - O período de saída é considerado tempo de execução da pena ou da medida privativa da liberdade, exceto se a licença for revogada.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175979999": {
+   "fragment_id": "134866083",
+   "type": 11,
+   "heading": "Artigo 5.º — Adaptação à liberdade condicional",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 5.º — Adaptação à liberdade condicional\n\n1 - Para efeito de adaptação à liberdade condicional, verificado o gozo, com êxito, de licença de saída administrativa concedida nos termos do artigo anterior, a colocação em liberdade condicional pode ser antecipada pelo tribunal de execução das penas, por um período máximo de seis meses.\n\n2 - A duração da medida prevista no artigo anterior é equivalente ao período que o recluso condenado tem de cumprir para atingir dois terços ou cinco sextos da pena, conforme se trate de pena de prisão em medida inferior ou superior a seis anos.\n\n3 - O condenado fica obrigado, durante o período da antecipação, para além do cumprimento das demais condições impostas, ao regime de permanência na habitação, aceitando a vigilância dos serviços de reinserção social e dos órgãos de polícia criminal territorialmente competentes, cumprindo as suas orientações e respondendo aos contactos periódicos, que com ele vierem a estabelecer, nomeadamente por via telefónica.\n\n4 - É aplicável o regime dos artigos 62.º do Código Penal e 188.º do Código da Execução das Penas e Medidas Privativas da Liberdade, se este se revelar, em concreto, mais favorável ao recluso.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175980000": {
+   "fragment_id": "134866084",
+   "type": 11,
+   "heading": "Artigo 6.º — Regresso ao meio prisional",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 6.º — Regresso ao meio prisional\n\nEm qualquer das circunstâncias que, nos termos da presente lei, ditam o regresso do condenado ao meio prisional, há lugar ao cumprimento prévio de um período de quarentena de 14 dias, nos termos que tenham sido determinados pela Direção-Geral de Reinserção e Serviços Prisionais.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175980001": {
+   "fragment_id": "134866085",
+   "type": 11,
+   "heading": "Artigo 7.º — Prisão preventiva e reclusos especialmente vulneráveis",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 7.º — Prisão preventiva e reclusos especialmente vulneráveis\n\n1 - O juiz deve proceder ao reexame dos pressupostos da prisão preventiva independentemente do decurso dos três meses referidos no artigo 213.º do Código de Processo Penal, sobretudo quando os arguidos estiverem em alguma das situações descritas no n.º 1 do artigo 3.º, de modo a reponderar a necessidade da medida, avaliando, nomeadamente, a efetiva subsistência dos requisitos gerais previstos no artigo 204.º daquele Código.\n\n2 - Nos termos do artigo 193.º do Código de Processo Penal, a prisão preventiva só pode ser aplicada quando se revelarem manifestamente inadequadas ou insuficientes as outras medidas de coação.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175980002": {
+   "fragment_id": "134866086",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimentos de saúde pública",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimentos de saúde pública\n\nA libertação de reclusos ao abrigo da presente lei é antecedida dos procedimentos indicados pela Direção-Geral da Saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175980003": {
+   "fragment_id": "134866087",
+   "type": 11,
+   "heading": "Artigo 9.º — Afetação extraordinária de juízes",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 9.º — Afetação extraordinária de juízes\n\nPara implementação do disposto na presente lei, e durante o período em que a mesma vigorar, o Conselho Superior da Magistratura, no âmbito dos seus poderes de gestão, afeta aos tribunais de execução das penas os juízes necessários.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175980004": {
+   "fragment_id": "134866088",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação de vigência",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 16/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/16-2020-134762423), em vigor a partir de 2020-06-03"
+   ],
+   "markdown": "###### Artigo 10.º — Cessação de vigência\n\nA presente lei cessa a sua vigência na data a fixar em lei que declare o final do regime excecional de medidas de flexibilização da execução das penas e das medidas de graça no âmbito da prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 16/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/16-2020-134762423), em vigor a partir de 2020-06-03"
+  },
+  "175980005": {
+   "fragment_id": "134866089",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  },
+  "175980006": {
+   "fragment_id": "134866090",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "Aprovada em 8 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 9 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 10 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113178209\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 86/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/86-2021-175923954), em vigor a partir de 2021-12-16"
+  }
+ }
+}

@@ -1,0 +1,664 @@
+---
+schema_version: '1.0'
+id: pt:dre:342131:por
+title: Decreto-Lei n.º 103/2010
+short_title: null
+summary: Estabelece as normas de qualidade ambiental no domínio da política da água e transpõe a Directiva n.º 2008/105/CE,
+  do Parlamento Europeu e do Conselho, de 16 de Dezembro, e parcialmente a Directiva n.º 2009/90/CE, da Comissão, de 31 de
+  Julho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 103/2010
+official_date: null
+publication_date: '2010-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/2010, Série I de 2010-09-24
+  number: '187'
+  series: I
+  supplement: null
+  pages: 4289 - 4296
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18700/0428904296.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-10-08'
+version_history:
+  file: decreto-lei-103-2010.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-25'
+    amending: pt:dre:670030:por
+    amending_title: Decreto-Lei n.º 83/2011
+    changes:
+    - Altera Artigo 9.º
+  - date: '2015-10-08'
+    amending: pt:dre:70476206:por
+    amending_title: Decreto-Lei n.º 218/2015
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 10.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Artigo 5.º
+    - Revoga Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/103/2010/p/cons/20151007/pt/html
+  oj: null
+  dre: '342131'
+  dre_path: /dr/detalhe/decreto-lei/103-2010-342131
+  internal: pt:dre:342131:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131
+  metadata_url: https://data.dre.pt/eli/dec-lei/103/2010/p/cons/20151007/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-70686155
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-70686155
+  retrieved_at: '2026-10-22T12:02:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ceb90a6314870e77cf5938adc6d88ff2acc2aeeec68d66c439ea50faf7d522d0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:02:54Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-103-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- ARH
+- Produto Químico
+- Água
+- ÁGUA Superficial
+- Aproximação das Legislações
+- Instituto da ÁGUA
+- Gestão de Resíduos
+- Controlo de Qualidade
+- Definição de Competências
+- Mar Territorial
+- Controlo Sanitário
+- Especificação Técnica
+- Proteção do Ambiente
+- Plano de Bacia Hidrográfica
+- Poluição da água
+- Poluição das Costas
+- Poluição Marinha
+- Poluição Transfronteiriça
+- Poluição
+- Sistema Nacional de Informação dos Títulos de Utilização dos Recursos Hídricos
+relationships:
+- type: amended_by
+  target: pt:dre:670030:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2011-670030
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:70476206:por
+  label: Adita Artigo 7.º-A; Adita Artigo 10.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º;
+    Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Anexo I; Altera Anexo II; Revoga Artigo
+    5.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206
+  date: '2015-10-07'
+- type: cites
+  target: celex:31982L0176
+  label: null
+  source: http://data.europa.eu/eli/dir/1982/176/oj
+- type: cites
+  target: celex:31983L0513
+  label: null
+  source: http://data.europa.eu/eli/dir/1983/513/oj
+- type: cites
+  target: celex:31984L0156
+  label: null
+  source: http://data.europa.eu/eli/dir/1984/156/oj
+- type: cites
+  target: celex:31984L0491
+  label: null
+  source: http://data.europa.eu/eli/dir/1984/491/oj
+- type: cites
+  target: celex:31986L0280
+  label: null
+  source: http://data.europa.eu/eli/dir/1986/280/oj
+- type: cites
+  target: celex:32000L0060
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/60/oj
+- type: cites
+  target: celex:32001D2455
+  label: null
+  source: http://data.europa.eu/eli/dec/2001/2455/oj
+- type: cites
+  target: celex:32008L0105
+  label: null
+  source: http://data.europa.eu/eli/dir/2008/105/oj
+- type: cites
+  target: celex:32009L0090
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/90/oj
+- type: cites
+  target: celex:32009R1107
+  label: null
+  source: null
+- type: transposes
+  target: celex:32008L0105
+  label: null
+  source: null
+- type: transposes
+  target: celex:32013L0039
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:02:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 103/2010
+
+Decreto-Lei n.º 103/2010
+
+de 24 de Setembro
+
+O Programa do XVIII Governo Constitucional prevê como um domínio de intervenção prioritário da política ambiental os recursos hídricos e, em especial, a qualidade da água.
+
+A poluição das águas superficiais constitui uma ameaça para o ambiente, para a saúde humana e para a qualidade de vida das pessoas.
+
+O presente decreto-lei procede à transposição para a ordem jurídica interna da Directiva n.º <a href="eurlex.asp?ano=2008&id=308L0105" title="Link para Directiva da Comunidade Europeia">2008/105/CE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativa a normas de qualidade ambiental no domínio da política da água.
+
+As normas de qualidade ambiental (NQA) têm como objectivo o controlo da poluição, estabelecendo níveis máximos de concentração de determinadas substâncias na água, nos sedimentos e no biota, que não devem ser ultrapassados para protecção da saúde humana e do ambiente.
+
+Assim, em primeiro lugar, através do presente decreto-lei, estabelecem-se NQA para determinados poluentes classificados como substâncias prioritárias às quais foi atribuída prioridade de acção, bem como para outras substâncias designadas «outros poluentes».
+
+Em segundo lugar, são ainda estabelecidas especificações técnicas para a análise e monitorização químicas do estado da água, no que respeita às substâncias acima referidas, a observar pelos laboratórios, transpondo parcialmente a Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0090" title="Link para Directiva da Comunidade Europeia">2009/90/CE</a>, da Comissão, de 31 de Julho, que estabelece as especificações técnicas para a análise e monitorização químicas do estado da água, e procedendo à regulamentação parcial do n.º 6 do artigo 54.º da Lei n.º 58/2005, de 29 de Dezembro (Lei da Água).
+
+A Directiva n.º <a href="eurlex.asp?ano=2000&id=300L0060" title="Link para Directiva da Comunidade Europeia">2000/60/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Outubro, que estabeleceu as bases e o quadro institucional para a gestão sustentável das águas, tem entre os seus objectivos a redução gradual da poluição provocada por substâncias prioritárias e a supressão das emissões, descargas e perdas de substâncias perigosas prioritárias.
+
+A primeira lista de substâncias prioritárias, referidas no anexo x da Directiva n.º <a href="eurlex.asp?ano=2000&id=300L0060" title="Link para Directiva da Comunidade Europeia">2000/60/CE</a>, foi estabelecida através da Decisão n.º <a href="eurlex.asp?ano=2001&id=301D2455" title="Link para Decisão da Comunidade Europeia">2455/2001/CE</a>, do Parlamento Europeu e d Conselho, de 20 de Novembro, a qual veio classificar como prioritárias 33 substâncias.
+
+A referida Directiva n.º <a href="eurlex.asp?ano=2000&id=300L0060" title="Link para Directiva da Comunidade Europeia">2000/60/CE</a> foi transposta para o ordenamento jurídico nacional pela Lei da Água e pelo Decreto-Lei n.º 77/2006, de 30 de Março, o qual adoptou a lista de substâncias prioritárias mencionada.
+
+A Directiva n.º <a href="eurlex.asp?ano=2008&id=308L0105" title="Link para Directiva da Comunidade Europeia">2008/105/CE</a>, que ora se transpõe, estabelece as NQA que devem ser respeitadas nas águas superficiais para as 33 substâncias prioritárias referidas, bem como para as 8 outras substâncias designadas «outros poluentes», substituindo as NQA estabelecidas pelas Directivas n.os <a href="eurlex.asp?ano=1982&id=382L0176" title="Link para Directiva da Comunidade Europeia">82/176/CEE</a>, <a href="eurlex.asp?ano=1983&id=383L0513" title="Link para Directiva da Comunidade Europeia">83/513/CEE</a>, <a href="eurlex.asp?ano=1984&id=384L0156" title="Link para Directiva da Comunidade Europeia">84/156/CEE</a>, <a href="eurlex.asp?ano=1984&id=384L0491" title="Link para Directiva da Comunidade Europeia">84/491/CEE</a> e <a href="eurlex.asp?ano=1986&id=386L0280" title="Link para Directiva da Comunidade Europeia">86/280/CEE</a>. O nosso ordenamento jurídico passa, assim, a dispor de NQA relativas às águas superficiais para 33 substâncias prioritárias e para 8 substâncias designadas «outros poluentes», estabelecidas à luz dos mais recentes conhecimentos científicos.
+
+Em terceiro lugar, o presente decreto-lei estabelece, também, a obrigatoriedade de elaboração de um inventário de emissões para as águas superficiais, assegurando a articulação com o Decreto-Lei n.º 127/2008, de 21 de Julho, relativo ao Registo Europeu das Emissões e Transferência de Poluentes (PRTR), e com o Decreto-Lei n.º 94/98, de 15 de Abril, relativo à colocação de produtos fitofarmacêuticos no mercado.
+
+Por último, atribui-se às administrações das regiões hidrográficas a responsabilidade de garantir a execução das disposições do presente decreto-lei, nomeadamente as relacionadas com a elaboração de inventários de emissões, descargas e perdas de substâncias perigosas para as águas superficiais, a monitorização destas águas, a avaliação da sua conformidade com as NQA, e a articulação com os planos de gestão de bacia hidrográfica tendo em vista os objectivos ambientais neles fixados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece normas de qualidade ambiental (NQA) para as substâncias prioritárias, identificadas no anexo I e na parte A do anexo II, e para os poluentes que constam na parte A do anexo II, todos do presente decreto-lei, do qual fazem parte integrante, tendo em vista assegurar a redução gradual da poluição provocada por substâncias prioritárias e alcançar o bom estado químico das águas superficiais, nos termos do artigo 46.º da Lei n.º 58/2005, de 29 de dezembro, alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, 60/2012, de 14 de março, e 130/2012, de 22 de junho, adiante designada por Lei da Água, e transpõe para a ordem jurídica interna a Diretiva n.º 2008/105/CE, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativa a normas de qualidade ambiental no domínio da política da água, alterada pela Diretiva n.º 2013/39/UE, do Parlamento Europeu e do Conselho, de 12 de agosto de 2013.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 -[Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 2.º — Âmbito
+
+O presente decreto-lei aplica-se:
+
+a) Às águas superficiais interiores, incluindo todas as massas de água artificiais e todas as massas de água fortemente modificadas com elas relacionadas;
+
+b) Às águas de transição;
+
+c) Às águas costeiras;
+
+d) Às águas territoriais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 3.º — Definições
+
+1 - Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) «Águas superficiais», as águas interiores, com exceção das águas subterrâneas, as águas de transição e as águas costeiras, incluindo, no que se refere ao estado químico, as águas territoriais;
+
+b) «Amostra integral de água», a amostra de água em que a fase sólida e a fase líquida não foram separadas;
+
+c) «Biota», o conjunto de seres vivos de um ecossistema que inclui a flora, a fauna, os fungos e outros grupos de organismos que vivem na água ou que dela dependem;
+
+d) «Emissão, descarga e perda», a introdução de substâncias prioritárias ou de outros poluentes em qualquer um dos compartimentos ambientais que sejam passíveis de alcançar as águas superficiais;
+
+e) «Matriz», um compartimento do meio aquático (água, sedimento ou biota);
+
+f) «Norma de qualidade ambiental expressa em concentração máxima admissível» ou «NQA-CMA», norma de qualidade ambiental que deve ser comparada com a concentração máxima anual medida para a substância prioritária ou outro poluente e que não deve ser excedida;
+
+g) «Norma de qualidade ambiental expressa em valor médio anual ou NQA-MA», norma de qualidade ambiental que deve ser comparada com a média aritmética das concentrações da substância prioritária ou outro poluente medidos num determinado ano e que não deve ser excedida;
+
+h) «Outros poluentes», as substâncias que fazem parte do grupo das substâncias que requerem medidas específicas com o objetivo de conseguir o bom estado químico das águas e que constam da parte A do anexo II ao presente decreto-lei;
+
+i) «Poluente», qualquer das substâncias que no presente decreto-lei são identificadas por substância prioritária ou por «outros poluentes»;
+
+j) «Ponto de monitorização representativo», local da massa de água onde já tenha tido lugar a mistura de poluentes com a água cujas características de qualidade se pretendem monitorizar;
+
+k) «Sedimento», a matéria depositada por ação da gravidade;
+
+l) «Substâncias prioritárias», as substâncias que representam risco significativo para o ambiente aquático ou por seu intermédio, sendo a sua identificação feita através de procedimentos de avaliação de risco legalmente previstos ou, por razões de calendário, através de avaliações de risco simplificadas, e que constam do anexo I e parte A do anexo II, ambos do presente decreto-lei;
+
+m) «Táxon do biota», um determinado táxon aquático com grau taxonómico de «subfilo», «classe» ou equivalente.
+
+2 - Sem prejuízo das definições previstas no número anterior, são aplicáveis as definições constantes do artigo 4.º da Lei da Água e os conceitos relativos a critérios de desempenho mínimo dos métodos analíticos estabelecidos no n.º 6 do artigo 4.º do Decreto-Lei n.º 83/2011, de 20 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+### Capítulo II — Normas de qualidade ambiental, monitorização e inventário de emissões
+
+###### Artigo 4.º — Normas de qualidade ambiental
+
+1 - Às massas de águas superficiais incluídas no âmbito do presente decreto-lei aplicam-se as NQA para as substâncias prioritárias e poluentes previstos na tabela da parte A do anexo II ao presente decreto-lei, de acordo com os requisitos previstos na parte B desse mesmo anexo, sem prejuízo do disposto nos números seguintes.
+
+2 - No que respeita às substâncias identificadas com n.os 2), 5), 15), 20), 22), 23) e 28), as NQA previstas na parte A do anexo II ao presente decreto-lei, aplicam-se com efeitos a partir de 22 de dezembro de 2015, com o fim de, até 22 de dezembro de 2021, se alcançar um bom estado químico das águas superficiais através de programas de medidas previstas nos planos de gestão de região hidrográfica, elaborados nos termos do n.º 3 do artigo 29.º da Lei da Água.
+
+3 - No que respeita às substâncias identificadas com os n.os 34) a 45), as NQA previstas na parte A do anexo II ao presente decreto-lei, aplicam-se com efeitos a partir de 22 de dezembro de 2018 com o fim de, até 22 de dezembro de 2027, se alcançar um bom estado químico das águas superficiais no que se refere a essas substâncias e de se evitar a deterioração do estado químico das massas de água de superfície.
+
+4 - No que respeita às substâncias previstas no número anterior, são estabelecidos:
+
+a) Até 22 de dezembro de 2018, um programa de monitorização complementar e um programa preliminar de medidas;
+
+b) Até 22 de dezembro de 2021, um programa final de medidas nos termos do disposto no artigo 30.º da Lei da Água, a aplicar e a operacionalizar até 22 de dezembro de 2024.
+
+5 - Os artigos 50.º a 52.º da Lei da Água são aplicáveis, com as necessárias adaptações, às substâncias previstas nos n.os 2 e 3.
+
+6 - Às substâncias identificadas com os n.os 5), 15) a 17), 21), 28), 34), 35), 37), 43) e 44) na parte A do anexo II ao presente decreto-lei, aplicam-se as NQA para o biota estabelecidas na parte A do mesmo anexo, sem prejuízo de a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), poder optar, no que se refere a uma ou mais categorias de águas superficiais, por aplicar NQA correspondentes a matrizes diferentes ou, se for caso disso, a um táxon do biota diferente, dos indicados no referido anexo.
+
+7 - No caso da opção referida no número anterior, se nenhuma NQA estiver prevista na parte A do anexo II para a matriz ou para o táxon do biota em causa, a APA, I. P., deve estabelecer uma NQA que proporcione, pelo menos, o mesmo nível de proteção da inicialmente aplicável.
+
+8 - A opção prevista nos n.os 6 e 7 exige que o método de análise utilizado para a matriz ou para o táxon do biota escolhido cumpra os critérios de desempenho mínimo definidos no artigo 4.º do Decreto-Lei n.º 83/2011, de 20 de junho, ou que seja garantido que a monitorização é efetuada utilizando as melhores técnicas disponíveis, sem custos excessivos, e que o desempenho do método de análise seja, pelo menos, equivalente ao método disponível para a matriz indicada no n.º 6 para a substância em causa.
+
+9 - Quando seja identificado um risco potencial para o meio aquático, ou por seu intermédio, resultante de uma exposição aguda, com base nas concentrações ou emissões medidas ou estimadas no ambiente, e seja aplicada uma NQA para o biota ou os sedimentos deve assegurar-se que são efetuadas monitorizações nas águas superficiais e devem aplicar as NQA-CMA constantes da parte A do anexo II ao presente decreto-lei, caso tenham sido estabelecidas.
+
+10 - Quando, nos termos do disposto no artigo 5.º do Decreto-Lei n.º 83/2011, de 20 de junho, o valor médio calculado dos resultados de uma medição, realizada utilizando a melhor técnica disponível sem custos excessivos, for considerado inferior ao limite de quantificação, e quando o limite de quantificação dessa técnica seja superior à NQA, o resultado obtido para a substância objeto de medições não é considerado para efeitos da avaliação do estado químico geral daquela massa de água.
+
+11 - As substâncias a que se aplique uma NQA para os sedimentos ou biota, ou ambos, são objeto de monitorização da substância na matriz em causa, pelo menos, uma vez por ano, salvo se os conhecimentos técnicos e o parecer dos peritos justificarem outra periodicidade.
+
+12 - Nas atualizações dos planos de gestão de região hidrográfica efetuadas nos termos do disposto no n.º 3 do artigo 29.º da Lei da Água, a APA, I. P., devem incluir-se os seguintes elementos:
+
+a) Um quadro com os limites de quantificação dos métodos de análise aplicados e com os elementos referentes ao desempenho desses métodos, relativamente aos critérios de desempenho mínimo definidos no artigo 4.º do Decreto-Lei n.º 83/2011, de 20 de junho;
+
+b) No que respeita às substâncias relativamente às quais tenha sido aplicada a possibilidade prevista no n.º 8:
+
+i) Fundamentação da opção;
+
+ii) Se relevante, as NQA alternativas estabelecidas, a prova de que o grau de proteção que essas NQA conferem é, pelo menos, idêntico ao das NQA previstas na parte A do anexo II ao presente decreto-lei, incluindo os dados e a metodologia utilizados para determinar as NQA e as categorias de águas superficiais às quais se aplicam;
+
+iii) Os limites de quantificação dos métodos de análise utilizados para as matrizes especificadas na parte A do anexo II ao presente decreto-lei, incluindo a referência ao desempenho desses métodos relativamente aos critérios de desempenho mínimo definidos no artigo 4.º do Decreto-Lei n.º 83/2011, de 20 de junho, para efeitos de comparação com os elementos previstos na alínea a);
+
+c) A justificação da frequência da monitorização aplicada nos termos do número anterior, caso os intervalos entre monitorizações excedam um ano.
+
+13 - A APA, I. P., adota as medidas necessárias para garantir que os planos atualizados de gestão de região hidrográfica, apresentados nos termos do n.º 3 do artigo 29.º da Lei da Água, que contêm os resultados e o impacto das medidas adotadas para prevenir a poluição das águas superficiais, e o relatório intercalar que dá conta dos progressos registados na execução do programa de medidas, sejam disponibilizados eletronicamente através do seu portal na internet.
+
+14 - A APA, I. P., procede à análise das tendências a longo prazo das concentrações das substâncias prioritárias enumeradas na parte A do anexo II ao presente decreto-lei, que tendam a acumular-se nos sedimentos ou no biota, ou em ambos, dando uma atenção especial às substâncias identificadas com os n.os 2), 5) a 7), 12), 15) a 18), 20), 21), 26), 28), 30), 34) a 37), 43) e 44), na parte A do referido anexo, com base na monitorização do estado das águas superficiais, efetuada de acordo com o artigo 54.º da Lei da Água, devendo ser implementadas as medidas destinadas a garantir que, sem prejuízo do cumprimento dos objetivos ambientais da referida lei, tais concentrações não aumentam significativamente nos sedimentos ou no biota, ou em ambos.
+
+15 - A APA, I. P., determina a frequência da monitorização nos sedimentos ou no biota, ou em ambos, de modo a dispor de dados suficientes para uma análise fiável das tendências a longo prazo, tomando como referência uma frequência mínima de três em três anos, salvo se os conhecimentos técnicos e o parecer dos peritos justificarem outra periodicidade mais alargada.
+
+16 - A APA, I. P., define, nos termos da alínea h) do n.º 2 do artigo 8.º da Lei da Água, a metodologia a adotar no estabelecimento das NQA previstas no n.º 8 e os critérios de verificação de conformidade, devendo a metodologia e os critérios ser publicados nos planos de gestão de região hidrográfica (PGRH).
+
+17 - Para o parâmetro TPH (hidrocarbonetos totais derivados do petróleo de C10 a C40) define-se o valor de 10 (mi)g/l como NQA-MA (norma de qualidade ambiental - média anual) para as águas superficiais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 5.º — Monitorização e análise de tendências
+
+1 - Compete às ARH estabelecer, nos termos da alínea l) do n.º 6 do artigo 9.º da Lei da Água, e da alínea e) do n.º 2 do artigo 3.º do Decreto-Lei n.º 208/2007, de 29 de Maio, para as águas superficiais abrangidas pelo presente decreto-lei, a rede de monitorização, na água, nos sedimentos e no biota, das substâncias que constam dos anexos i e ii do presente decreto-lei.
+
+2 - A verificação do cumprimento das NQA na água e a análise de tendências a longo prazo das concentrações das substâncias enumeradas nos anexos i e ii do presente decreto-lei devem ser efectuadas a partir de amostras de água representativas da qualidade do meio aquático na região afectada pelas descargas de poluentes e colhidas em pontos representativos da rede de monitorização estabelecida nos termos do artigo 54.º da Lei da Água e do anexo vi ao Decreto-Lei n.º 77/2006, de 30 de Março.
+
+3 - Para efeitos do número anterior, deve ser observado o disposto no ponto 3 do anexo vi ao Decreto-Lei n.º 77/2006, de 30 de Março, no que respeita às regras de selecção dos pontos de monitorização para as substâncias prioritárias no programa de monitorização operacional.
+
+4 - A análise de tendências constitui a verificação da evolução da presença nas massas de água de substâncias prioritárias e outros poluentes através da aplicação de métodos estatísticos.
+
+5 - Para efeitos do disposto no n.º 2 deve ser dada preferência às substâncias prioritárias que tendem a acumular-se nos sedimentos ou no biota, especialmente aquelas a que correspondem os n.os 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28 e 30 da coluna (C1) do anexo i do presente decreto-lei.
+
+6 - Com base na avaliação dos impactos a longo prazo das actividades antropogénicas, as ARH devem incluir nos PGBH medidas que garantam que os níveis de contaminação por substâncias prioritárias não aumentam significativamente nos sedimentos e no biota.
+
+7 - Considera-se que os níveis de contaminação por substâncias prioritárias aumentam significativamente se os objectivos ambientais a que se referem os artigos 45.º a 48.º da Lei da Água não puderem ser cumpridos se esse aumento se mantiver.
+
+8 - A análise nos sedimentos de substâncias prioritárias que são contaminantes orgânicos deve ser efectuada na fracção do sedimento inferior a 2 mm e a análise dos metais deve ser efectuada na fracção inferior a 63 (mi)m.
+
+9 - A monitorização das substâncias prioritárias na água, nos sedimentos e no biota deve ser efectuada com a frequência adequada para pôr em evidência as modificações eventuais do meio aquático tendo em conta, nomeadamente, as variações naturais do regime hidrológico e a possibilidade de permitir obter dados suficientes para uma análise fiável das tendências a longo prazo.
+
+10 - A monitorização das substâncias prioritárias a que se refere o número anterior deve ser incluída, consoante os casos, no programa de vigilância, no programa operacional ou no programa de investigação a que se refere o anexo vi do Decreto-Lei n.º 77/2006, de 30 de Março, e deve ter lugar pelo menos uma vez em cada três anos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 6.º — Avaliação de conformidade com as normas de qualidade ambiental
+
+1 - A APA, I. P., verifica a conformidade dos resultados da monitorização com as NQA aplicáveis, nos termos do artigo 4.º
+
+2 - Considera-se que uma massa de água superficial interior está em conformidade com os requisitos de qualidade previstos no presente decreto-lei quando, em cada ponto de monitorização representativo situado na massa de água, se verificarem, cumulativamente, as seguintes condições, em relação a cada substância indicada na tabela da parte A do anexo II ao presente decreto-lei:
+
+a) A média aritmética das concentrações medidas em momentos diferentes do ano não ultrapassa o correspondente valor da coluna C4 (NQA-MA) da mesma tabela;
+
+b) Nenhuma das concentrações medidas ultrapassa o correspondente valor da coluna C6 (NQA-CMA) da mesma tabela.
+
+3 - Considera-se que uma massa de água de transição, uma massa de água costeira ou uma massa de água territorial está em conformidade com os requisitos de qualidade previstos no presente decreto-lei quando em cada ponto de monitorização representativo situado na massa de água se verificarem cumulativamente as seguintes condições, em relação a cada substância indicada na tabela da parte A do anexo II ao presente decreto-lei:
+
+a) A média aritmética das concentrações medidas em momentos diferentes do ano não ultrapassa o correspondente valor da coluna C5 (NQA-MA) da mesma tabela;
+
+b) Nenhuma das concentrações medidas ultrapassa o correspondente valor da coluna C7 (NQA-CMA) da mesma tabela.
+
+4 - Às substâncias identificadas com os n.os 5), 15) a 17), 21), 28), 34), 35), 37), 43) e 44) deve aplicar-se a NQA para o biota, de acordo com a coluna C8 da tabela da parte A do anexo II ao presente decreto-lei.
+
+5 - Sem prejuízo do disposto na alínea b) do n.º 2 e a alínea b) do n.º 3, a verificação da conformidade da água com as normas NQA-CMA a que se referem pode também ser efetuada por métodos estatísticos, como o cálculo de um percentil, de acordo com os procedimentos aprovados pela Comissão Europeia.
+
+6 - As normas NQA-MA e NQA-CMA aplicam-se às concentrações das substâncias obtidas por análise da amostra integral de água, com exceção para os metais cádmio, chumbo, mercúrio e níquel em que as referidas normas se aplicam às concentrações desses metais na fase dissolvida.
+
+7 - No caso dos metais cádmio, chumbo, mercúrio e níquel, ao verificarem a conformidade dos resultados da monitorização com as NQA, a APA, I. P., pode ter em consideração:
+
+a) As concentrações de fundo naturais dos metais e respectivos compostos se impedirem a conformidade com as NQA;
+
+b) A dureza, o carbono orgânico dissolvido (COD), o pH ou outros parâmetros de qualidade da água que afetem a biodisponibilidade dos metais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 7.º — Garantia de qualidade e harmonização de resultados analíticos
+
+1 - As ARH devem certificar-se de que todos os métodos analíticos de campo, de laboratório e em linha que são utilizados para a determinação das substâncias abrangidas pelo presente decreto-lei estão validados e documentados de acordo com a norma NP EN ISO/IEC 17025 ou outras normas equivalentes aceites internacionalmente.
+
+2 - Para efeitos do disposto no número anterior, entende-se por método em linha um método de análises automáticas no qual a amostra é colhida de uma massa de água com uma sonda e conduzida para um aparelho de medição através de tubagem apropriada.
+
+3 - As ARH devem certificar-se de que os critérios mínimos de desempenho para todos os métodos de análise são baseados numa incerteza expandida de medição igual ou inferior a 50 %, para um factor de expansão (k) igual a 2, estimada ao nível das NQA relevantes e num limite de quantificação igual ou inferior a 30 % da mesma NQA.
+
+4 - Na ausência de método analítico que cumpra os critérios de desempenho mínimos a que se refere o número anterior ou na ausência de NQA relevante para um determinado parâmetro, as ARH devem certificar-se de que a monitorização é efectuada de acordo com as melhores técnicas disponíveis que não acarretam custos excessivos.
+
+5 - Para o cálculo da média aritmética a que se refere a alínea a) do n.º 2 e a alínea a) do n.º 3 do artigo 6.º, os valores obtidos para as concentrações das substâncias que são inferiores ao limite de quantificação do método (LQ) devem ser considerados iguais a metade do valor desse limite de quantificação.
+
+6 - Se nos casos abrangidos pelo número anterior o valor da média anual resultante for inferior ao LQ deve ser referida como «inferior ao limite de quantificação» ou «(menor que)LQ».
+
+7 - Para efeitos do disposto no presente artigo, entende-se por:
+
+a) «Limite de quantificação (LQ)», um determinado múltiplo do limite de detecção para uma concentração do determinando que pode ser razoavelmente determinada com um nível aceitável de exactidão e de fidelidade;
+
+b) «Limite de detecção (LD)», o sinal de saída ou o valor de concentração acima do qual se pode afirmar, com um determinado nível de confiança, que uma amostra é diferente de uma amostra em branco que não contenha qualquer determinando de interesse.
+
+8 - Quando estiver em causa um grupo de substâncias, as concentrações individuais ou as concentrações de isómeros, metabolitos, produtos da degradação ou de reacção que sejam inferiores ao limite de quantificação do método devem ser consideradas iguais a zero para efeitos do cálculo da soma das concentrações.
+
+9 - Os resultados analíticos destinados a avaliar, nos termos do artigo anterior, a conformidade da água com as NQA estabelecidas devem ser fornecidos pelos laboratórios que executam as análises no formato «resultado analítico(mais ou menos)Um», em que «Um» é a incerteza expandida da medição calculada de acordo com o Vocabulário Internacional de Metrologia (VIM) e o Guia IPAC OG 007.
+
+10 - As ARH devem certificar-se de que os laboratórios que, no âmbito do presente decreto-lei, efectuam as análises das substâncias prioritárias e de outros poluentes estão acreditados por organismo nacional ou internacional de acreditação ou que, não estando acreditados, dispõem de um sistema interno de garantia e de controlo de qualidade.
+
+11 - As ARH devem ainda certificar-se de que os laboratórios podem demonstrar a sua aptidão através da participação em testes de intercalibração organizados por entidades acreditadas ou por organizações internacionais que satisfaçam os requisitos do Guia ISO/IEC 17043 ou de outras normas equivalentes aceites a nível internacional.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 7.º-A — Disposições específicas para certas substâncias
+
+1 - Nos planos de gestão de região hidrográfica, sem prejuízo dos requisitos previstos para a apresentação do estado químico geral, e dos objetivos e obrigações fixadas na alínea e) do n.º 3 do artigo 30.º e nos artigos 45.º e 46.º da Lei da Água, podem ser fornecidos mapas suplementares que apresentem os dados relativos ao estado químico de uma ou mais das seguintes substâncias, separadamente dos dados relativos às restantes substâncias identificadas na parte A do anexo II ao presente decreto-lei:
+
+a) Com os n.os 5), 21), 28), 30), 35), 37), 43) e 44), tratando-se de substâncias que se comportam como persistentes, bioacumuláveis e tóxicas muito disseminadas;
+
+b) Com os n.os 34) a 45), tratando-se de substâncias recém-identificadas;
+
+c) Com os n.os 2), 5), 15), 20), 22), 23) e 28), tratando-se de substâncias para as quais são estabelecidas NQA revistas e mais exigentes.
+
+2 - Os planos de gestão de região hidrográfica também podem apresentar, para as substâncias previstas nas alíneas do número anterior, o desvio em relação ao valor referente às NQA.
+
+3 - No caso dos planos de gestão de região hidrográfica integrarem os mapas suplementares previstos no n.º 1, deve garantir-se a sua intercomparabilidade a nível da região hidrográfica, nacional e da União Europeia.
+
+4 - As substâncias identificadas com os n.os 5), 21), 28), 30), 35), 37), 43) e 44) da parte A do anexo II ao presente decreto-lei podem ser monitorizadas menos intensivamente do que o exigido para as substâncias prioritárias nos termos do n.º 13 do artigo 4.º do presente decreto-lei e do anexo VI do Decreto-Lei n.º 77/2006, de 30 de março, alterado pelo Decreto-Lei n.º 103/2010, de 24 de setembro, desde que a monitorização efetuada seja representativa e que se disponha de dados de base estatisticamente sólidos relativos à presença dessas substâncias no meio aquático.
+
+5 - Nos termos do disposto no n.º 17 do artigo 4.º, a monitorização deve realizar-se de três em três anos, salvo se os conhecimentos técnicos e o parecer dos peritos justificarem outra periodicidade.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 8.º — Inventário de emissões, descargas e perdas de substâncias prioritárias e outros poluentes
+
+1 - A APA, I. P., estabelece um inventário, que pode incluir mapas de emissões, descargas e perdas de todas as substâncias prioritárias e outros poluentes previstos na parte A do anexo II ao presente decreto-lei para cada região hidrográfica, com base na informação respeitante à sua caracterização, identificação das pressões e descrição dos impactos da atividade humana sobre o estado das massas de água e análise económica da utilização da água, e na informação obtida no âmbito do programa de monitorização previsto no artigo 54.º da Lei da Água e ao abrigo do Decreto-Lei n.º 127/2008, de 21 de julho, alterado pelo Decreto-Lei n.º 6/2011, de 10 de janeiro, e nos demais dados disponíveis.
+
+2 - O inventário previsto no número anterior refere-se apenas ao território nacional.
+
+3 -  [Revogado].
+
+4 - Sempre que existam valores referentes às concentrações nos sedimentos ou no biota das substâncias referidas no número anterior, esses valores devem constar do inventário.
+
+5 - O primeiro inventário deve ser efectuado em 2011 com base nos valores das concentrações dos poluentes verificados no ano de referência, o qual é um ano entre os anos de 2008 e 2010.
+
+6 - O inventário e o ano de referência devem ser revistos e, se necessário, actualizados pela primeira vez em 2013 e posteriormente de seis em seis anos, no âmbito da revisão periódica a que se referem as alíneas g) e h) do n.º 2 do artigo 8.º da Lei da Água.
+
+7 - O período de referência para o estabelecimento dos valores inscritos nos inventários atualizados é o ano anterior ao da conclusão da análise, sendo que, para as substâncias prioritárias ou para os poluentes abrangidos pelo Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, os dados podem ser calculados como a média dos três anos anteriores à conclusão dessa análise.
+
+8 - Os inventários previstos nos números anteriores e as suas atualizações, são incluídos nos respetivos planos de gestão de região hidrográfica.
+
+9 -  [Revogado].
+
+10 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 9.º — Zonas de mistura
+
+1 - A APA, I. P., pode designar zonas de mistura de substâncias prioritárias indicadas nos anexos I e II ao presente decreto-lei.
+
+2 - A zona de mistura constitui a área adjacente a qualquer descarga de uma ou mais substâncias prioritárias indicadas nos anexos I e II ao presente decreto-lei onde, cumulativamente:
+
+a) Ainda não tenha tido lugar a mistura completa da substância descarregada com a água superficial, cujas características de qualidade se pretendem determinar;
+
+b) As concentrações de uma ou mais substâncias indicadas na parte A do anexo I ao presente decreto-lei possam ultrapassar as respetivas NQA nas zonas de mistura, desde que não afetem a conformidade das restantes massas de água superficial em relação a essas NQA.
+
+3 - Os planos de gestão de região hidrográfica, elaborados de acordo com o artigo 29.º da Lei da Água, devem incluir, para cada zona de mistura designada, uma descrição:
+
+a) Das abordagens e dos métodos aplicados para determinar tais zonas; e
+
+b) Das medidas tomadas para reduzir a dimensão da zona de mistura, nomeadamente as indicadas na alínea e) do n.º 3 do artigo 30.º da Lei da Água, e as associadas à reavaliação das condições de licenças de rejeição de águas residuais emitidas ao abrigo do Decreto-Lei n.º 226-A/2007, de 31 de Maio, ou de legislação anterior, de acordo com o princípio da abordagem combinada a que se refere o artigo 53.º da referida Lei da Água.
+
+4 - Na designação das zonas de mistura, deve assegurar-se que a sua dimensão é:
+
+a) Limitada à proximidade do ponto de descarga;
+
+b) Proporcionada à rejeição, atendendo à concentração de poluentes no ponto de descarga, às normas de rejeição constantes das licenças de rejeição de águas residuais ou aos valores limite de emissão previstos na legislação em vigor, em consonância com o princípio da abordagem combinada a que se refere o artigo 53.º da Lei da Água.
+
+5 - A APA, I. P., disponibiliza as orientações técnicas para a identificação das zonas de mistura, de acordo com os procedimentos aprovados pela Comissão Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 83/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2011-670030), em vigor a partir de 2011-06-25
+
+###### Artigo 10.º — Poluição fora de território sob jurisdição nacional
+
+1 - O incumprimento, em determinada massa de água, de uma ou mais NQA que conste da parte A do anexo II ao presente decreto-lei, não é considerado violação ao presente decreto-lei, quando seja demonstrado, cumulativamente, o seguinte:
+
+a) A causa do incumprimento é uma fonte de poluição situada fora da jurisdição nacional;
+
+b) Não puderam ser tomadas medidas eficazes em território sob jurisdição nacional devido ao carácter transfronteiriço da poluição;
+
+c) Foram aplicados os mecanismos de coordenação com Espanha no âmbito da Comissão para a Aplicação e o Desenvolvimento da Convenção de Albufeira quando o incumprimento ocorreu numa região hidrográfica internacional.
+
+2 - Os casos de poluição transfronteiriça fora das áreas abrangidas pelas regiões hidrográficas internacionais são tratados de acordo com o disposto no Decreto-Lei n.º 108/2010, de 13 de outubro, alterado pelos Decretos-Leis n.os 201/2012, de 27 de agosto, 136/2013, de 7 de outubro, e 143/2015, de 31 de julho, e nas convenções internacionais aplicáveis, nomeadamente, no artigo 21.º da Convenção para a Proteção do Ambiente Marinho do Atlântico Nordeste (OSPAR), ratificada e emendada nos termos, respetivamente, do Decreto n.º 59/97, de 31 de outubro, e do Decreto n.º 7/2006, de 9 de janeiro.
+
+3 - O plano de gestão de região hidrográfica, o relatório de caracterização da região hidrográfica e o relatório intercalar de avaliação da implementação das medidas definidas no referido plano incluem um resumo das medidas que foram tomadas relativamente à poluição transfronteiriça provocada por substâncias prioritárias.
+
+4 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+###### Artigo 10.º-A — Lista de vigilância
+
+1 - A APA, I. P., monitoriza cada substância constante da lista de vigilância definida pela Comissão Europeia em estações de monitorização representativas durante um período mínimo de 12 meses.
+
+2 - No caso da primeira lista de vigilância, o período de monitorização inicia-se na data da entrada em vigor do presente decreto-lei.
+
+3 - Para cada substância constante das listas subsequentes, a monitorização inicia-se no prazo de seis meses a contar da sua inclusão.
+
+4 - A definição do número de estações a monitorizar deve compreender o mínimo de duas estações de monitorização, acrescidas, cumulativamente:
+
+a) Do número de estações correspondente à área geográfica nacional em km2 dividida por 60 000, arredondado ao número inteiro seguinte; e
+
+b) Do número de estações correspondente à população nacional dividida por cinco milhões, arredondado ao número inteiro seguinte.
+
+5 - Na seleção das estações de monitorização representativas e no estabelecimento da frequência e do calendário de monitorização para cada substância, devem ter-se em conta os padrões de utilização e a possível ocorrência da substância em causa, sendo que a frequência mínima de monitorização não deve ser inferior a uma vez por ano.
+
+6 - Sempre que, para uma dada substância, existam dados de monitorização suficientes, comparáveis, representativos e recentes provenientes de programas de monitorização ou estudos, pode decidir-se não proceder a monitorizações adicionais ao abrigo do mecanismo da lista de vigilância para essa substância, desde que a mesma seja monitorizada com recurso a uma metodologia que satisfaça os requisitos das orientações técnicas adotadas pela Comissão Europeia.
+
+7 - A APA, I. P., apresenta à Comissão Europeia um relatório sobre os resultados da monitorização efetuada nos termos do n.º 1, com frequência anual, enquanto a substância se mantiver na lista.
+
+8 - No caso da primeira lista de vigilância, o relatório referido no número anterior é apresentado dentro do prazo de 21 meses a contar da elaboração da lista de vigilância.
+
+9 - Para as substâncias incluídas em listas subsequentes, os resultados são transmitidos à Comissão Europeia no prazo de 21 meses a contar da inclusão da substância na lista de vigilância e, posteriormente, anualmente, enquanto a substância se mantiver na lista.
+
+10 - Os relatórios previstos nos números anteriores incluem elementos sobre a representatividade das estações de monitorização e a estratégia de monitorização.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+### Capítulo III — Disposições finais
+
+###### Artigo 11.º — Revisão da lista de substâncias prioritárias
+
+1 - As substâncias prioritárias e as substâncias perigosas prioritárias definidas nas alíneas ccc) e ddd) do artigo 4.º da Lei da Água, e referidas no artigo 8.º do Decreto-Lei n.º 77/2006, de 30 de Março, são as indicadas no anexo i do presente decreto-lei.
+
+2 - A tabela referida no número anterior é objecto de actualizações periódicas à medida que forem sendo identificadas como prioritárias ou como substâncias perigosas prioritárias outras substâncias ou revistas as substâncias existentes.
+
+###### Artigo 12.º — Alteração ao Decreto-Lei n.º 77/2006, de 30 de Março
+
+O anexo x do Decreto-Lei n.º 77/2006, de 30 de Março, é substituído pelo anexo i do presente decreto-lei.
+
+###### Artigo 13.º — Norma revogatória
+
+São revogadas:
+
+a) As disposições do anexo i do Decreto-Lei n.º 236/98, de 1 de Agosto, relativas aos parâmetros cádmio, chumbo, hidrocarbonetos dissolvidos ou emulsionados, hidrocarbonetos aromáticos polinucleares, mercúrio, níquel, pesticidas totais e substâncias extraíveis com clorofórmio;
+
+b) As disposições do anexo xx do Decreto-Lei n.º 236/98, de 1 de Agosto, relativas ao parâmetro hexaclorociclohexano (HCH);
+
+c) As disposições do anexo xxi do Decreto-Lei n.º 236/98, de 1 de Agosto, relativas às substâncias clorofenóis, hidrocarbonetos aromáticos polinucleares, pesticidas totais, pesticidas por substância individualizada, bifenilospoliclorados (PCB), chumbo total e níquel total;
+
+d) A alínea B) do anexo do Decreto-Lei n.º 52/99, de 20 de Fevereiro;
+
+e) A alínea B) do anexo do Decreto-Lei n.º 53/99, de 20 de Fevereiro;
+
+f) A alínea B) do anexo do Decreto-Lei n.º 54/99, de 20 de Fevereiro;
+
+g) As alíneas B) das rubricas i a xi do anexo ii do Decreto-Lei n.º 56/99, de 26 de Fevereiro, alterado pelo Decreto-Lei n.º 390/99, de 30 de Setembro;
+
+h) A alínea B) do anexo i do Decreto-Lei n.º 431/99, de 22 de Outubro;
+
+i) As disposições do anexo do Decreto-Lei n.º 506/99, de 20 de Novembro, alterado pelo Decreto-Lei n.º 261/2003, de 21 de Outubro, relativas às substâncias antraceno, benzeno, endossulfão, naftaleno, tributil-estanho, trifluralina, atrazina e simazina.
+
+###### Artigo 14.º — Regiões Autónomas
+
+Os actos e os procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa.
+
+Visto e aprovado em Conselho de Ministros de 1 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Luís Medeiros Vieira - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
+
+Promulgado em 7 de Setembro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 9 de Setembro de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Listas das substâncias prioritárias no domínio da política da água
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+## Anexo II — Lista de outros poluentes no domínio da política da água
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206), em vigor a partir de 2015-10-08
+
+## Parte A
+
+MA: média anual.
+
+CMA: concentração máxima admissível.
+
+Unidades:
+
+(mi)g/l para as colunas 4 a 7;
+
+(mi)g/Kg de peso húmido para a coluna 8.
+
+(ver documento original)
+
+## Parte B — Aplicação das normas de qualidade ambiental (NQA) estabelecidas na parte A
+
+1 - Colunas 4 e 5 do quadro: Para uma dada massa de água de superfície, o cumprimento de uma NQA-MA exige que, em cada ponto de monitorização representativo situado na massa de água, a média aritmética das concentrações medidas em momentos diferentes do ano não exceda a norma.
+
+O cálculo da média aritmética, o método analítico utilizado e, sempre que não exista um método analítico adequado que cumpra os critérios de desempenho mínimos, o método de aplicação de uma NQA devem estar de acordo com atos de execução que aprovem especificações técnicas para a monitorização química e a qualidade dos resultados analíticos nos termos da Diretiva n.º 2000/60/CE.
+
+2 - Colunas 6 e 7 do quadro: Para uma dada massa de água superficial, o cumprimento de uma NQA-CMA exige que a concentração medida não exceda a norma em nenhum ponto de monitorização representativo situado na massa de água.
+
+Contudo, de acordo com o ponto 1.3.4 do anexo V da Diretiva n.º 2000/60/CE, podem aplicar-se métodos estatísticos, como o cálculo de percentis, para garantir, na determinação do cumprimento das NQA-CMA, um nível de confiança e precisão aceitável. Esses métodos estatísticos devem cumprir as regras de execução estabelecidas pelo procedimento de exame a que se refere o n.º 2 do artigo 9.º da Diretiva n.º 2013/39/UE.
+
+3 - As NQA da água superficial estabelecidas no presente anexo são expressas em concentração total na amostra integral de água.
+
+Não obstante o primeiro parágrafo deste número, no caso do cádmio, do chumbo, do mercúrio e do níquel (a seguir designados por «metais»), as NQA da água superficiais referem-se à concentração em solução, ou seja, na fase dissolvida de uma amostra de água obtida após filtração através de um filtro de 0,45 (mi)m ou por qualquer pré-tratamento equivalente ou, se expressamente indicado, à concentração biodisponível.
+
+Ao confrontarem os resultados da monitorização com as NQA aplicáveis, a Agência Portuguesa do Ambiente, I. P., pode tomar em consideração:
+
+a) As concentrações de fundo naturais dos metais e respetivos compostos, caso estas concentrações impeçam o respeito das NQA aplicáveis;
+
+b) A dureza, o carbono orgânico dissolvido (COD), o pH ou outros parâmetros de qualidade da água que afetem a biodisponibilidade dos metais, sendo as concentrações biodisponíveis determinadas mediante a utilização de modelos de biodisponibilidade adequados.»
+
+## Anexo III — Normas de qualidade ambiental (NQA) para substâncias prioritárias e outros poluentes
+
+## Parte A — Normas de qualidade ambiental para substâncias prioritárias, expressas em (mi)g/l
+
+(ver documento original)
+
+## Parte B — Normas de qualidade ambiental para outros poluentes, expressas em (mi)g/l
+
+(ver documento original)
+
+## Parte C
+
+- Normas de qualidade ambiental para o mercúrio e compostos de mercúrio para o hexaclorobenzeno e para o hexaclorobutadieno, a aplicar ao biota em certas categorias de águas superficiais.
+
+(ver documento original)

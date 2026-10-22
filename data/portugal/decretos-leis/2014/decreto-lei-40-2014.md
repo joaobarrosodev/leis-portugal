@@ -1,0 +1,1357 @@
+---
+schema_version: '1.0'
+id: pt:dre:571934:por
+title: Decreto-Lei n.º 40/2014
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 6/2014, de 12 de fevereiro, aprova as medidas nacionais
+  necessárias à aplicação em Portugal do Regulamento (UE) n.º 648/2012, do Parlamento Europeu e do Conselho, de 4 de julho
+  de 2012, relativo aos derivados do mercado de balcão, às contrapartes centrais e aos repositórios de transações, incluindo
+  o respetivo regime sancionatório, e altera o Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13
+  de novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 40/2014
+official_date: null
+publication_date: '2014-03-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 54/2014, Série I de 2014-03-18
+  number: '54'
+  series: I
+  supplement: null
+  pages: 2059 - 2069
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05400/0205902069.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-01-11'
+version_history:
+  file: decreto-lei-40-2014.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-14'
+    amending: pt:dre:70237675:por
+    amending_title: Lei n.º 147/2015
+    changes:
+    - Altera Artigo 2.º
+  - date: '2018-08-01'
+    amending: pt:dre:115740680:por
+    amending_title: Lei n.º 35/2018
+    changes:
+    - Adita Capítulo IV-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 18.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+  - date: '2023-08-09'
+    amending: pt:dre:216771968:por
+    amending_title: Decreto-Lei n.º 66/2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º-A
+  - date: '2025-01-11'
+    amending: pt:dre:902120308:por
+    amending_title: Lei n.º 1/2025
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Secção I
+    - Adita Secção II
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
+    - Altera Artigo 1.º
+    - Altera Capítulo II
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/40/2014/p/cons/20250106/pt/html
+  oj: null
+  dre: '571934'
+  dre_path: /dr/detalhe/decreto-lei/40-2014-571934
+  internal: pt:dre:571934:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934
+  metadata_url: https://data.dre.pt/eli/dec-lei/40/2014/p/cons/20250106/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-55536403
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-55536403
+  retrieved_at: '2026-10-22T11:54:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 82849d78144c388b49c47ac224e76ed104092471d6a0fe854ef84c0fac1f4403
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:56Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-40-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Insolvência
+- Assembleia de VOTO
+- Crime
+- Associação Portuguesa de Bancos
+- Associação Portuguesa de Seguradores
+- Valores Mobiliários
+- Auditor
+- Mercado de Títulos
+- Autoridade Europeia dos Seguros e Pensões Complementares de Reforma
+- Autoridade Europeia dos Valores Mobiliários e dos Mercados
+- Financiamento
+- Sociedade Anónima
+- Instituição de Crédito
+- Bolsa de Valores
+- Capital Social
+- Sistema de Indemnização aos Investidores
+- Código das Sociedades Comerciais
+- Código de Processo Penal
+- Código do Mercado de Valores Mobiliários
+- Código dos Valores Mobiliários
+- Comité Europeu do Risco Sistémico
+- Supervisão Financeira
+- Conselho Nacional de Supervisores Financeiros
+- Conselho Nacional do Consumo
+- Contra-ordenação
+- Portugal
+- Fundo de Garantia Automóvel
+- Fundo de Garantia de Depósitos
+- Banco de Portugal
+- Fundos de Garantia
+- Pagamento
+- Ilícito de MERA Ordenação Social
+- Instituto de Seguros de Portugal
+- Liquidação de Valores Mobiliários
+- Mercado de Capitais
+- Mercado de Valores
+- Sociedade Gestora de Sistemas Centralizados
+- Mercado Financeiro
+- Obrigações
+- OMI Clear
+- Participação Qualificada
+- Código Penal
+- Regime Geral das Instituições de Crédito e Sociedades Financeiras
+- Regime Jurídico
+- Regulamento
+- Associação
+- CMVM
+- Sociedade Gestora de Contraparte Central
+- Sociedade Gestora de Mercados Regulamentados
+- Sociedade Gestora de Sistemas de Liquidação
+- Sociedade Gestora de Sistemas de Negociação Multilateral
+- Direito de Voto
+relationships:
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Adita Capítulo IV-A; Adita Artigo 18.º-A; Adita Artigo 18.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:70237675:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675
+  date: '2015-09-09'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Adita Capítulo IV-A; Adita Artigo 18.º-A; Adita Artigo 18.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680
+  date: '2018-07-20'
+- type: amended_by
+  target: pt:dre:216771968:por
+  label: Altera Artigo 2.º; Altera Artigo 18.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968
+  date: '2023-08-08'
+- type: amended_by
+  target: pt:dre:902120308:por
+  label: Adita Artigo 3.º-A; Adita Secção I; Adita Secção II; Adita Artigo 5.º-A; Adita Artigo 5.º-B; Altera Artigo 1.º; Altera
+    Capítulo II; Altera Artigo 3.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 13.º; Altera Artigo
+    14.º; Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308
+  date: '2025-01-06'
+- type: cites
+  target: celex:31998L0026
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/26/oj
+- type: cites
+  target: celex:32012R0648
+  label: null
+  source: http://data.europa.eu/eli/reg/2012/648/oj
+- type: cites
+  target: celex:32015R2365
+  label: null
+  source: null
+- type: cites
+  target: celex:32021R0023
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/6/2014/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/6/2014/02/12/p/dre
+article_structure:
+  article_count: 45
+  section_count: 15
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 40/2014
+
+Decreto-Lei n.º 40/2014
+
+de 18 de março
+
+A crise financeira evidenciou os riscos inerentes à utilização de contratos de derivados negociados fora de mercado regulamentado, atenta a complexa rede de interdependências que estabelecem e a ausência de transparência, uma vez que são negociados de forma exclusivamente bilateral.
+
+Nessa medida, foi aprovado o Regulamento (UE) n.º <a href="eurlex.asp?ano=2012&id=312R0648" title="Link para Regulamento da Comunidade Europeia">648/2012</a>, do Parlamento Europeu e do Conselho, de 4 de julho de 2012 (Regulamento), relativo aos derivados do mercado de balcão, às contrapartes centrais e aos repositórios de transações, vulgarmente designado pelo acrónimo EMIR (da designação em língua inglesa European Market Infrastructure Regulation).
+
+O regime previsto no Regulamento estabelece a obrigatoriedade de determinadas classes destes contratos de derivados, pela sua padronização e relevância financeira, serem compensadas através de contrapartes centrais, com o intuito de assegurar o regular funcionamento do mercado, evitando a propagação de episódios de incumprimento com efeitos sistémicos relevantes.
+
+As classes de contratos de derivados não elegíveis para compensação através de contraparte central, na medida em que comportam igualmente riscos operacionais e risco de crédito da contraparte, ficam sujeitas a procedimentos e mecanismos apropriados para medir, acompanhar e atenuar os referidos riscos, exigindo-se a prestação atempada de garantias adequadas e segregadas entre as contrapartes.
+
+As referidas obrigações impendem sobre as contrapartes financeiras nos contratos de derivados, que abrangem as entidades autorizadas a exercer atividades nos setores bancário, segurador e dos fundos de pensões e dos valores mobiliários, bem como sobre as contrapartes não financeiras, ainda que em termos menos exigentes.
+
+Em determinadas condições, o Regulamento estabelece isenções para as transações intragrupo, quer quanto à compensação, quer quanto aos mecanismos de mitigação de riscos, como seja a troca bilateral de garantias.
+
+Ainda como elemento central do regime previsto pelo Regulamento, avulta o dever de comunicação a repositórios de transações dos dados relativos a todos os contratos de derivados celebrados, quer sejam, ou não, compensados através de contraparte central. Este dever recai sobre as contrapartes financeiras e contrapartes não financeiras e sobre as contrapartes centrais, destinando-se a armazenar centralmente toda a informação relativa a este tipo de contratos e a permitir o acesso à mesma pelas autoridades de supervisão.
+
+O Regulamento consagra, ainda, as regras aplicáveis à autorização, ao exercício da atividade e à supervisão das contrapartes centrais, estabelecendo, designadamente, requisitos de organização e de governação e requisitos de natureza prudencial.
+
+Por último, o Regulamento contém regras relativas aos repositórios de transações, sendo a Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA) a autoridade responsável pelo registo, reconhecimento, supervisão e sancionamento destas entidades.
+
+Embora o Regulamento tenha entrado em vigor em 16 de agosto de 2012, a aplicação de algumas das obrigações previstas ficou dependente da entrada em vigor de normas técnicas de regulamentação e de normas técnicas de execução a adotar pela Comissão Europeia sob a forma, respetivamente, de atos delegados e de atos de execução.
+
+Para além da referida regulamentação, foi cometida aos Estados-Membros a definição de determinados aspetos do regime, o que justifica e impõe a aprovação do presente decreto-lei, com vista a garantir a execução e operacionalização do Regulamento na ordem jurídica interna.
+
+Deste modo, são designadas como autoridades nacionais competentes para a supervisão das contrapartes financeiras o Banco de Portugal, a Comissão do Mercado dos Valores Mobiliários (CMVM) e o Instituto de Seguros de Portugal, no que respeita às entidades sujeitas à respetiva supervisão. A CMVM é, ainda, designada como a autoridade nacional competente para a supervisão das contrapartes não financeiras, para a autorização e supervisão das contrapartes centrais e para a verificação da autenticidade das decisões da ESMA em matéria de aplicação de sanções a repositórios de transações.
+
+O presente decreto-lei estabelece ainda, em anexo ao mesmo, o regime jurídico aplicável às contrapartes centrais nos aspetos não regulados pelo Regulamento. As regras do novo regime jurídico foram adaptadas e autonomizadas do Decreto-Lei n.º 357-C/2007, de 31 de outubro, alterado pelos Decretos-Leis n.os 52/2010, de 26 de maio, e 18/2013, de 6 de fevereiro, que estabelece o regime jurídico de constituição e funcionamento das entidades gestoras de mercados e sistemas, alterando-se tal diploma em conformidade. Neste âmbito, optou-se por manter no Código dos Valores Mobiliários, em versão revista, os princípios gerais que regem a matéria relativa à compensação com interposição de contraparte central.
+
+Face às regras do Regulamento que consagram a exclusividade do objeto das contrapartes centrais, deixa de permitir-se que as instituições atuem, em cumulação com outras atividades, como contrapartes centrais. Mantém-se a figura das câmaras de compensação, deixando, porém, as respetivas entidades gestoras de poder atuar cumulativamente como contraparte central, função que fica reservada às contrapartes centrais.
+
+O presente decreto-lei define, igualmente, o regime sancionatório aplicável às contrapartes financeiras e contrapartes não financeiras em contratos de derivados em caso de violação dos deveres previstos no Regulamento, estabelecendo, por imposição do mesmo, a divulgação das sanções aplicadas.
+
+Para maior coerência sistemática, uma vez que as normas relativas à atividade de contraparte central estão previstas no Código dos Valores Mobiliários, o regime sancionatório aplicável às contrapartes centrais mantém-se neste mesmo Código.
+
+Por último, o Regulamento alterou a Diretiva n.º <a href="eurlex.asp?ano=1998&id=398L0026" title="Link para Directiva da Comunidade Europeia">98/26/CE</a>, do Parlamento Europeu e do Conselho, de 19 de maio de 1998, relativa ao caráter definitivo da liquidação nos sistemas de pagamento e de liquidação de valores mobiliários, no sentido de proteger os direitos dos operadores que, no quadro de um sistema interoperável, tenham constituído garantias a favor do operador de um sistema recetor, em caso de insolvência do mesmo. Consequentemente, procede-se à alteração pontual do Decreto-Lei n.º 221/2000, de 9 de setembro, alterado pelos Decretos-Leis n.os 85/2011, de 29 de junho, e 18/2013, de 6 de fevereiro, que transpôs a Diretiva em apreço, bem como do Código dos Valores Mobiliários nesta matéria.
+
+Foram ouvidos o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, o Instituto de Seguros de Portugal, o Conselho Nacional de Supervisores Financeiros, a Associação Portuguesa de Bancos, a Associação Portuguesa de Seguradores, a Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios, e a OMIClear - Sociedade de Compensação de Mercados de Energia, S.G.C.C.C.C., S. A.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 6/2014, de 12 de fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680) Onde se lê «Regulamento», deve ler-se «Regulamento EMIR»
+
+### Capítulo I — Disposição geral
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei assegura a execução, na ordem jurídica interna:
+
+a) Do Regulamento (UE) n.º 648/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo aos derivados do mercado de balcão, às contrapartes centrais e aos repositórios de transações (Regulamento EMIR), bem como dos atos delegados e atos de execução que o desenvolvem;
+
+b) Do Regulamento (UE) 2015/2365, do Parlamento Europeu e do Conselho, de 25 de novembro de 2015, relativo à transparência das operações de financiamento através de valores mobiliários e de reutilização e que altera o Regulamento (UE) n.º 648/2012 (Regulamento OFVM), bem como dos atos delegados e atos de execução que o desenvolvem.
+
+c) Do Regulamento (UE) 2021/23, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2020, relativo ao regime da recuperação e resolução das contrapartes centrais [Regulamento (UE) 2021/23] e que altera os Regulamentos (UE) n.º 1095/2010, (UE) n.º 648/2012, (UE) n.º 600/2014, (UE) n.º 806/2014 e (UE) 2015/2365 e as Diretivas 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE e (UE) 2017/1132.
+
+2 - Para efeitos do disposto nas alíneas a) e b) do número anterior, o presente decreto-lei procede:
+
+a) À designação das autoridades competentes para a supervisão de contrapartes financeiras, contrapartes não financeiras e contrapartes centrais e à designação da autoridade competente para a verificação da autenticidade das decisões da Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA) no âmbito do Regulamento EMIR;
+
+b) À designação das autoridades competentes para a supervisão de contrapartes financeiras e não financeiras quanto aos deveres de transparência vertidos no Regulamento OFVM;
+
+c) À definição do regime sancionatório aplicável às contrapartes financeiras e às contrapartes não financeiras pela violação das normas do Regulamento EMIR;
+
+d) À definição do regime sancionatório aplicável às contrapartes financeiras e às contrapartes não financeiras pela violação das normas do Regulamento OFVM;
+
+e) À alteração:
+
+i) Ao Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro,
+
+ii) Ao Decreto-Lei n.º 221/2000, de 9 de setembro, alterado pelos Decretos-Leis n.os 85/2011, de 29 de junho, e 18/2013, de 6 de fevereiro,
+
+iii) Ao Decreto-Lei n.º 357-C/2007, de 31 de outubro, alterado pelos Decretos-Leis n.os 52/2010, de 26 de maio; 18/2013, de 6 de fevereiro;
+
+iv) À Portaria n.º 1619/2007, de 26 de dezembro; e
+
+f) À aprovação do regime jurídico das contrapartes centrais.
+
+3 - Para efeitos do disposto na alínea c) do n.º 1, o presente decreto-lei procede:
+
+a) À designação da autoridade de resolução de contrapartes centrais e do ministério competente nos termos e para os efeitos do Regulamento (UE) 2021/23;
+
+b) À definição do regime sancionatório aplicável às contrapartes centrais pela violação do Regulamento (UE) 2021/23.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo II — Designações
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+###### Artigo 2.º — Autoridades competentes para a supervisão de contrapartes financeiras e de contrapartes não financeiras
+
+1 - Nos termos das disposições conjugadas dos pontos 8 e 13 do artigo 2.º do Regulamento EMIR e da alínea a) do n.º 1 do artigo 16.º do Regulamento OFVM, as autoridades competentes para a supervisão do cumprimento dos deveres impostos por estes Regulamentos às contrapartes financeiras, bem como para a averiguação das respetivas infrações, a instrução processual e a aplicação de coimas e sanções acessórias, são:
+
+a) O Banco de Portugal, relativamente a instituições de crédito;
+
+b) A Comissão do Mercado de Valores Mobiliários (CMVM), relativamente a organismos de investimento coletivo e respetivas sociedades gestoras, a empresas de investimento, a centrais de valores mobiliários e, enquanto contrapartes financeiras no âmbito do Regulamento OFVM, a contrapartes centrais;
+
+c) A Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), no que respeita a empresas de seguros e de resseguros, fundos de pensões profissionais e respetivas entidades gestoras.
+
+2 - Nos termos do n.º 5 do artigo 10.º do Regulamento EMIR e da alínea b) do n.º 1 do artigo 16.º do Regulamento OFVM, as autoridades competentes para a supervisão do cumprimento dos deveres impostos por estes regulamentos às contrapartes não financeiras, bem como para a averiguação das respetivas infrações, a instrução processual e a aplicação de coimas e sanções acessórias, são:
+
+a) O Banco de Portugal, no que respeita a entidades que estejam sujeitas à sua supervisão, designadamente:
+
+i) Instituições financeiras, na aceção da alínea ee) do n.º 1 do artigo 2.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado em anexo ao Decreto-Lei n.º 298/92, de 31 de dezembro;
+
+ii) Instituições de moeda eletrónica;
+
+b) A ASF, no que respeita a entidades que estejam sujeitas à sua supervisão, designadamente, fundos de pensões distintos dos referidos na alínea c) do número anterior e respetivas entidades gestoras e mediadores de seguros ou de resseguros desde que não sujeitos à supervisão de outra autoridade nos termos do número anterior;
+
+c) A CMVM, no que respeita às contrapartes não financeiras não incluídas nas alíneas anteriores.
+
+3 - A CMVM é a autoridade competente para a supervisão do cumprimento dos deveres referidos nas alíneas c) e d) do n.º 1 do artigo 16.º do Regulamento OFVM, incluindo os decorrentes da respetiva regulamentação, pelas entidades responsáveis pela gestão de organismos de investimento coletivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2015-09-14, produz efeitos a partir de 2016-01-01
+
+###### Artigo 3.º — Autoridade competente para a autorização e supervisão de contrapartes centrais
+
+A CMVM é a autoridade competente para supervisão de contrapartes centrais, nos termos e para os efeitos do Regulamento EMIR e do Regulamento (UE) 2021/23.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+###### Artigo 3.º-A — Resolução de contrapartes centrais
+
+1 - O Banco de Portugal é a autoridade de resolução nacional para efeitos do disposto no n.º 1 do artigo 3.º do Regulamento (UE) 2021/23, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2020 (Regulamento CCPRR).
+
+2 - O membro do Governo responsável pela área das finanças exerce as funções atribuídas ao ministério competente, nos termos do Regulamento CCPRR.
+
+3 - Para efeitos do n.º 1, é aplicável, com as devidas adaptações, o disposto no artigo 12.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual.
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+###### Artigo 4.º — Verificação da autenticidade das decisões da Autoridade Europeia dos Valores Mobiliários e dos Mercados
+
+Para efeitos do disposto no n.º 4 do artigo 68.º do Regulamento, compete à CMVM a verificação da autenticidade das decisões da ESMA que aplicam coimas e sanções pecuniárias compulsórias a repositórios de transações.
+
+### Capítulo III — Contrapartes centrais
+
+#### Secção I — Regime jurídico
+
+> Aditado pelo/a Artigo 27.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+###### Artigo 5.º — Regime jurídico das contrapartes centrais
+
+Em complemento ao disposto no Regulamento e no Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, é aprovado o regime jurídico das contrapartes centrais, publicado em anexo ao presente decreto-lei, que dele faz parte integrante.
+
+> Alterado pelo/a Artigo 27.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308)
+
+#### Secção II — Regime de resolução
+
+> Aditado pelo/a Artigo 27.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+###### Artigo 5.º-A — Privilégio creditório
+
+1 - Para efeitos do disposto no artigo 64.º do Regulamento CCPRR, o crédito do Banco de Portugal, na qualidade de autoridade de resolução, beneficia de privilégio creditório geral e especial, respetivamente, sobre os bens móveis e imóveis próprios das entidades referidas nesse artigo.
+
+2 - É aplicável o disposto no n.º 2 do artigo 166.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual.
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+###### Artigo 5.º-B — Contratos de garantia financeira, convenções de compensação e convenções de compensação e de novação (netting agreements)
+
+O disposto no capítulo v do título v do Regulamento CCPRR, cuja aplicação seja suscetível de, por qualquer modo, afetar a execução ou restringir os efeitos de contratos de garantia financeira, aplica-se independentemente do disposto no Decreto-Lei n.º 105/2004, de 8 de maio, na sua redação atual, e prevalece sobre quaisquer outras normas, gerais ou especiais, em contrário.
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+### Capítulo IV — Regime sancionatório
+
+###### Artigo 6.º — Contraordenações graves
+
+Constitui contraordenação grave a violação pelas contrapartes financeiras e contrapartes não financeiras dos deveres constantes dos Regulamentos EMIR ou OFVM, bem como dos seus atos delegados e restante regulamentação europeia ou nacional, nomeadamente:
+
+a) Comunicação de dados respeitantes a contratos de derivados;
+
+b) Conservação de dados respeitantes a contratos de derivados;
+
+c) Avaliação diária do saldo dos contratos em curso;
+
+d) Divulgação pública de informações sobre a isenção concedida;
+
+e) Deveres impostos na regulamentação emitida pelas entidades supervisoras, nomeadamente a ASF, o Banco de Portugal e a CMVM, para assegurar a supervisão do cumprimento dos deveres impostos pelos regulamentos EMIR ou OFVM.
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 7.º — Contraordenações muito graves
+
+1 - Constituem contraordenação muito grave a violação dos seguintes deveres constantes dos regulamentos EMIR ou OFVM, bem como dos seus atos delegados e restante regulamentação europeia ou nacional:
+
+a) Pelas contrapartes financeiras e contrapartes não financeiras:
+
+i) De compensação de contratos de derivados de balcão (contratos de derivados OTC);
+
+ii) De assegurar o estabelecimento de procedimentos e mecanismos apropriados de medição, acompanhamento e atenuação de riscos operacionais e de risco de crédito de contraparte em caso de celebração de contratos de derivados OTC sem compensação através de uma contraparte central;
+
+iii) Relativos à obrigação de notificação e de salvaguarda no que respeita às operações de financiamento de valores mobiliários;
+
+iv) Relativos à reutilização de instrumentos financeiros recebidos no âmbito de um acordo de garantia;
+
+b) Pelas contrapartes financeiras:
+
+i) De estabelecer procedimentos de gestão de risco relativamente aos contratos OTC celebrados a partir de 16 de agosto de 2012;
+
+ii) De detenção de um montante de capital adequado e proporcional para gerir o risco não coberto por trocas de garantias adequadas;
+
+c) Pelas contrapartes não financeiras:
+
+i) Decorrentes da assunção de posições em contratos de derivados OTC que excedam o limiar de compensação aplicável;
+
+ii) De estabelecer procedimentos de gestão de risco relativamente aos contratos OTC celebrados a partir da data em que o limiar de compensação seja excedido;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+2 - Constitui contraordenação muito grave a violação, pelas contrapartes centrais, dos seguintes deveres previstos no Regulamento (UE) 2021/23 e respetiva regulamentação:
+
+a) De elaborar, manter e atualizar o plano de recuperação;
+
+b) De prestar, à autoridade de resolução, a informação necessária à elaboração e execução do plano de resolução;
+
+c) De respeitar as medidas determinadas pela autoridade de resolução para efeitos de redução dos impedimentos à resolubilidade;
+
+d) De não praticar ou omitir atos suscetíveis de impedir ou dificultar a aplicação de medidas de intervenção corretiva ou de resolução;
+
+e) De notificar a CMVM, quando se encontre em situação ou em risco de insolvência.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 8.º — Responsabilidade pelas contraordenações
+
+1 - Pela prática das contraordenações previstas no presente capítulo podem ser responsabilizadas:
+
+a) As contrapartes financeiras, tal como definidas no ponto 8 do artigo 2.º do Regulamento EMIR e do ponto 3 do artigo 3.º do Regulamento OFVM;
+
+b) As contrapartes não financeiras, tal como definidas no ponto 9 do artigo 2.º do Regulamento EMIR e do ponto 4 do artigo 3.º do Regulamento OFVM;
+
+c) As entidades gestoras caso estejam em causa organismos de investimento coletivo sob a forma contratual ou sob a forma societária heterogeridos;
+
+d) As contrapartes centrais, tal como definidas no n.º 1 do artigo 2.º do Regulamento EMIR;
+
+e) As pessoas singulares que sejam membros dos órgãos sociais das entidades referidas nas alíneas anteriores ou que nelas exerçam cargos de administração, gerência, direção ou chefia, ou atuem em sua representação, legal ou voluntária.
+
+2 - As pessoas coletivas referidas no número anterior, independentemente da regularidade da sua constituição, são responsáveis pelas contraordenações previstas no presente capítulo quando os factos tenham sido praticados pelos titulares dos cargos de administração, gerência, direção ou chefia, no exercício das suas funções, bem como por mandatários, representantes ou trabalhadores em nome e no interesse da pessoa coletiva.
+
+3 - A responsabilidade da pessoa coletiva é excluída quando o agente atue contra ordens ou instruções expressas de quem de direito.
+
+4 - A responsabilidade da pessoa coletiva não preclude a responsabilidade individual dos respetivos agentes.
+
+5 - Não obsta à responsabilidade individual dos agentes a circunstância de o tipo legal da infração exigir determinados elementos pessoais e estes só se verificarem na pessoa coletiva, ou exigir que o agente pratique o facto no seu interesse, tendo aquele atuado no interesse de outrem.
+
+6 - A invalidade ou a ineficácia dos atos em que se funde a relação entre o agente individual e a pessoa coletiva não obstam à responsabilidade desta.
+
+7 - Se a contraordenação for aplicada a uma entidade sem personalidade jurídica responde por ela o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos associados.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 9.º — Formas de infração
+
+As contraordenações previstas no presente capítulo são imputadas a título de dolo ou de negligência.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+###### Artigo 10.º — Cumprimento do dever omitido
+
+1 - Sempre que a contraordenação resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infrator do seu cumprimento, se este ainda for possível.
+
+2 - O infrator pode ser sujeito à injunção de cumprir o dever omitido.
+
+3 - Se a injunção não for cumprida no prazo fixado, o infrator incorre na sanção prevista para as contraordenações muito graves.
+
+###### Artigo 11.º — Prescrição
+
+1 - O procedimento relativo às contraordenações previstas no presente capítulo prescreve no prazo de cinco anos a contar da data da sua prática.
+
+2 - As coimas e as sanções acessórias prescrevem no prazo de cinco anos a contar do dia em que a decisão administrativa se tornar definitiva ou do dia em que a decisão judicial transitar em julgado.
+
+###### Artigo 12.º — Destino das coimas
+
+Independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, o produto das coimas reverte a favor:
+
+a) Do Fundo de Garantia de Depósitos, criado pelo artigo 154.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, no caso de coimas aplicadas pelo Banco de Portugal;
+
+b) Do Sistema de Indemnização aos Investidores, criado pelo Decreto-Lei n.º 222/99, de 22 de junho, alterado pelos Decretos-Leis n.os 252/2003, de 17 de outubro, e 162/2009, de 20 de junho, no caso de coimas aplicadas pela CMVM;
+
+c) Do Fundo de Garantia Automóvel, regulado pelo Decreto-Lei n.º 291/2007, de 21 de agosto, alterado pelo Decreto-Lei n.º 153/2008, de 6 de agosto, e do Fundo de Acidentes de Trabalho, criado pelo Decreto-Lei n.º 142/99, de 30 de abril, alterado pelos Decretos-Leis n.os 382-A/99, de 22 de setembro, e 185/2007, de 10 de maio, em partes iguais, no caso de coimas aplicadas pelo Instituto de Seguros de Portugal.
+
+###### Artigo 13.º — Responsabilidade pelo pagamento das coimas
+
+1 - Caso sejam condenadas as pessoas singulares referidas na alínea e) do n.º 1 do artigo 8.º, as respetivas pessoas coletivas respondem solidariamente pelo pagamento das coimas e das custas em que as primeiras sejam condenadas.
+
+2 - Os titulares dos órgãos de administração das pessoas coletivas que, podendo fazê-lo, não se tenham oposto à prática da infração respondem individual e subsidiariamente pelo pagamento da coima e das custas em que aquelas sejam condenadas, ainda que as mesmas, à data da condenação, hajam sido dissolvidas ou entrado em liquidação.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 14.º — Coimas
+
+1 - As contraordenações graves são puníveis com coima de (euro) 2 500 a (euro) 2 500 000 e de (euro) 1 500 a (euro) 1 500 000, consoante sejam aplicadas a pessoa coletiva ou singular.
+
+2 - As contraordenações muito graves são puníveis com coima de (euro) 10 000 a (euro) 10 000 000 e de (euro) 5 000 a (euro) 5 000 000, consoante sejam aplicadas a pessoa coletiva ou singular.
+
+3 - A contraordenação muito grave prevista na subalínea iv) da alínea a) do n.º 1 do artigo 7.º é punível com coima de € 15 000 a € 15 000 000 e de € 5000 a € 5 000 000, consoante seja aplicada a pessoa coletiva ou singular.
+
+4 - O limite máximo das coimas aplicáveis nos termos dos números anteriores é elevado ao maior dos seguintes valores, sempre que determináveis:
+
+a) O triplo do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas; ou
+
+b) No caso das contraordenações previstas no n.º 2 do artigo 7.º, o dobro do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas;
+
+c) No caso de contraordenações praticadas por pessoa coletiva, 10 % do volume de negócios, de acordo com as últimas contas individuais, ou consolidadas caso esteja sujeita à sua elaboração, que tenham sido aprovadas pelo órgão de administração.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 15.º — Sanções acessórias
+
+Conjuntamente com a coima, e em função da gravidade da infração e da culpa do agente, podem ser-lhe aplicadas pela prática de qualquer das contraordenações previstas nos artigos 6.º e 7.º, além das previstas no Regime Geral dos Ilícitos de Mera Ordenação Social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, as seguintes sanções acessórias:
+
+a) Interdição, por um período até três anos contados da decisão condenatória definitiva, do exercício da atividade a que a contraordenação respeita;
+
+b) Inibição, por um período até três anos contados da decisão condenatória definitiva, do exercício de cargos sociais e de funções de administração, gerência, direção, chefia e fiscalização em contrapartes financeiras e na pessoa coletiva onde tenha ocorrido a infração, quando o infrator seja membro dos órgãos sociais, exerça cargos de administração, gerência, direção ou chefia ou atue em representação legal ou voluntária da pessoa coletiva.
+
+c) Publicação pela autoridade competente da decisão condenatória, a expensas do infrator.
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 16.º — Suspensão da execução da sanção
+
+1 - A autoridade competente para a aplicação da sanção pode suspender, total ou parcialmente, a execução daquela.
+
+2 - A suspensão pode ficar condicionada ao cumprimento de certas obrigações, designadamente as consideradas necessárias para a regularização de situações ilegais, a reparação de danos ou a prevenção de perigos.
+
+3 - O tempo de suspensão da sanção é fixado entre dois e cinco anos, contando-se o seu início a partir da data em que a decisão condenatória se tornar definitiva ou transitar em julgado.
+
+4 - A suspensão não abrange as custas.
+
+5 - Decorrido o tempo de suspensão sem que o arguido tenha praticado qualquer contraordenação prevista no presente decreto-lei, e sem que tenha violado as obrigações que lhe hajam sido impostas, considera-se extinta a sanção cuja execução tinha sido suspensa.
+
+6 - A suspensão da execução da sanção é revogada, tornando-se esta efetiva, se durante o período de suspensão:
+
+a) Se revelar que as finalidades que estiveram na base da suspensão não podem, por meio dela, ser alcançadas;
+
+b) O arguido violar as obrigações que lhe tenham sido impostas como condição para a suspensão da sanção;
+
+c) O arguido pratique qualquer contraordenação prevista no presente decreto-lei.
+
+###### Artigo 17.º — Divulgação de decisões condenatórias
+
+1 - As autoridades competentes designadas no artigo 2.º divulgam publicamente as decisões aplicadas por violação do disposto nos artigos 4.º, 5.º e 7.º a 11.º do Regulamento EMIR, designadamente nos respetivos sítios na Internet, durante cinco anos após a sua publicação, mesmo que tenha sido requerida a sua impugnação judicial, sendo, neste caso, feita expressa menção desse facto.
+
+2 - A divulgação das decisões aplicadas por violação do disposto nos artigos 4.º e 15.º do Regulamento OFVM é feita, designadamente, nos respetivos sítios na Internet, pelas autoridades competentes designadas no artigo 2.º, imediatamente após o agente delas ter sido informado da decisão e tem lugar nos termos e prazos a que se refere o n.º 1 e contém, pelo menos, o tipo e a natureza da infração e a identidade da pessoa responsável, coletiva ou singular.
+
+3 - Decorrido o prazo para impugnação, as decisões condenatórias determinadas pela prática das infrações previstas no n.º 2 do artigo 7.º são divulgadas pelas autoridades competentes para o respetivo processo no seu sítio na Internet, na íntegra ou por extrato que inclua, pelo menos, a identidade da pessoa singular ou coletiva condenada e informação sobre o tipo e a natureza da infração, mesmo que tenha sido judicialmente impugnada, sendo, neste caso, feita expressa menção deste facto
+
+4 - Se a divulgação efetuada nos termos dos números anteriores, nomeadamente a relativa à identidade da pessoa responsável, puder afetar gravemente os mercados financeiros, comprometer uma investigação em curso ou causar prejuízos desproporcionados para as partes interessadas, as autoridades competentes podem:
+
+a) Diferir a divulgação da decisão até ao momento em que deixem de existir as razões para o diferimento;
+
+b) Divulgar a decisão em regime de anonimato;
+
+c) Nos casos previstos nos n.os 1 e 2, não publicar a decisão se considerar que a publicação nos termos das alíneas anteriores é insuficiente para assegurar que não seja comprometida a estabilidade dos mercados financeiros ou a proporcionalidade da divulgação dessas decisões relativamente a medidas consideradas de menor gravidade.
+
+5 - A divulgação efetuada nos termos do n.º 3 é anonimizada quando diga respeito a pessoas singulares e se demonstre que a publicação de dados pessoais é desproporcionada, através de uma avaliação prévia da proporcionalidade da divulgação realizada nos termos do artigo 35.º do Regulamento (UE) n.º 2016/679 do Parlamento Europeu e do Conselho de 27 de abril de 2016.
+
+6 - A decisão judicial que confirme, altere, anule ou revogue a decisão condenatória da autoridade competente ou do tribunal da 1.ª instância é comunicada de imediato à autoridade competente e obrigatoriamente divulgada nos termos dos números anteriores.
+
+7 - As decisões divulgadas nos sítios da Internet das autoridades competentes, nos termos dos números anteriores, não podem ser indexadas a motores de pesquisa da Internet.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 18.º — Direito subsidiário
+
+1 - É subsidiariamente aplicável às contraordenações previstas no presente decreto-lei e aos processos às mesmas respeitantes, quando se trate de contraordenações cujo processamento seja da competência da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), nos termos do artigo 2.º, o disposto no regime processual aplicável aos crimes especiais do setor segurador e dos fundos de pensões e às contraordenações cujo processamento compete à ASF, aprovado como anexo ii à Lei n.º 147/2015, de 9 de setembro, e, consoante o caso:
+
+a) O regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado como anexo i à Lei n.º 147/2015, de 9 de setembro, na sua redação atual;
+
+b) O regime jurídico da constituição e do funcionamento dos fundos de pensões e das entidades gestoras de fundos de pensões, aprovado em anexo à Lei n.º 27/2020, de 23 de julho; ou
+
+c) O regime jurídico da distribuição de seguros e de resseguros, aprovado em anexo à Lei n.º 7/2019, de 16 de janeiro.
+
+2 - É subsidiariamente aplicável às contraordenações previstas no presente decreto-lei e aos processos às mesmas respeitantes, quando se trate de contraordenações cujo processamento seja da competência do Banco de Portugal, nos termos dos artigos 2.º e 3.º-A, o disposto no capítulo ii do título xi do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado em anexo ao Decreto-Lei n.º 298/92, de 31 de dezembro.
+
+3 - Às infrações previstas no presente decreto-lei, e em função da competência para o efeito pertencer à CMVM, nos termos dos artigos 2.º e 3.º, é subsidiariamente aplicável o regime previsto no Código dos Valores Mobiliários.
+
+4 - Para prossecução das atribuições decorrentes do presente diploma a ASF, o Banco de Portugal e a CMVM exercem todos os poderes e prerrogativas que lhes são conferidos por lei.
+
+5 - Não se aplica o regime sancionatório previsto no presente diploma quando aos factos corresponda sanção mais grave nos termos de regime aplicável pela respetiva autoridade competente.
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo IV-A — Participação de infrações
+
+> Aditado pelo/a Artigo 21.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 18.º-A — Participação interna de infrações
+
+1 - As contrapartes devem implementar os meios específicos, independentes e autónomos adequados de receção, tratamento e arquivo das participações relativas a infrações aos Regulamentos EMIR ou OFVM, ao presente diploma e às respetivas normas regulamentares, nos termos previstos nos números seguintes.
+
+2 - As participações podem dizer respeito a infrações já consumadas, em execução ou que, à luz dos elementos disponíveis, se possa prever com probabilidade que venham a ser praticadas.
+
+3 - À participação de infrações que caibam no âmbito de supervisão da ASF aplica-se o disposto no artigo 305.º do Regime Jurídico de Acesso e Exercício da Atividade Seguradora e Resseguradora, aprovado pela Lei n.º 147/2015, de 9 de setembro, com as necessárias adaptações.
+
+4 - À participação de infrações que caibam no âmbito de supervisão do Banco de Portugal aplica-se o disposto no artigo 115.º-X do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, com as necessárias adaptações.
+
+5 - À participação de infrações que caibam no âmbito de supervisão da CMVM aplica-se o disposto no artigo 305.º-F do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09
+
+> Aditado pelo/a Artigo 21.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 18.º-B — Participação de infrações às autoridades competentes
+
+1 - Qualquer pessoa que tenha conhecimento de dados relativos a infrações aos Regulamentos EMIR ou OFVM, ao presente diploma e às respetivas normas regulamentares pode apresentar uma participação à autoridade competente responsável pela sua supervisão, nos termos previstos nos números seguintes.
+
+2 - As participações podem dizer respeito a infrações já consumadas, em execução ou que, à luz dos elementos disponíveis, se possa prever com probabilidade que venham a ser praticadas.
+
+3 - À participação de infrações que caibam no âmbito de supervisão da ASF aplica-se o disposto no artigo 31.º-A do Regime Jurídico de Acesso e Exercício da Atividade Seguradora e Resseguradora, aprovado pela Lei n.º 147/2015, de 9 de setembro, com as necessárias adaptações.
+
+4 - À participação de infrações que caibam no âmbito de supervisão do Banco de Portugal aplica-se o disposto no artigo 116.º-AB do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, com as necessárias adaptações.
+
+5 - À participação de infrações que caibam no âmbito de supervisão da CMVM aplica-se o disposto nos artigos 368.º-A a 368.º-E do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, com as necessárias adaptações.
+
+> Aditado pelo/a Artigo 21.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+### Capítulo V — Alterações legislativas
+
+###### Artigo 19.º — Alteração ao Código dos Valores Mobiliários
+
+Os artigos 6.º, 35.º, 258.º, 259.º, 260.º, 265.º, 268.º, 274.º, 279.º, 280.º, 281.º, 284.º, 352.º, 355.º, 359.º, 361.º, 363.º, 372.º, 388.º, 389.º, 395.º, 396.º e 400.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, passam a ter a seguinte redação:
+
+«Artigo 6.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - A CMVM e as entidades gestoras de mercados regulamentados, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e as contrapartes centrais podem exigir a tradução para português de documentos redigidos em língua estrangeira que lhes sejam remetidos no âmbito das suas funções.
+
+Artigo 35.º
+
+[...]
+
+1 - As entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação e de câmara de compensação e as contrapartes centrais podem constituir ou promover a constituição de fundos de garantia.
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+Artigo 258.º
+
+[...]
+
+1 - O disposto no presente capítulo é aplicável a todas as operações em que intervenha uma contraparte central.
+
+2 - Sem prejuízo do disposto nos artigos seguintes, e na demais legislação aplicável, a autorização e o exercício da atividade das contrapartes centrais obedecem ao disposto no Regulamento (UE) n.º <a href="eurlex.asp?ano=2012&id=312R0648" title="Link para Regulamento da Comunidade Europeia">648/2012</a>, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, e nos respetivos atos delegados e atos de execução.
+
+3 - As operações em que intervenha uma contraparte central tornam-se eficazes perante esta após o seu registo junto da mesma.
+
+4 - Além das operações previstas no Regulamento (UE) n.º <a href="eurlex.asp?ano=2012&id=312R0648" title="Link para Regulamento da Comunidade Europeia">648/2012</a>, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, estão ainda sujeitas a compensação com interposição de contraparte central as operações realizadas em mercado regulamentado e sistema de negociação multilateral sobre os instrumentos financeiros referidos nas alíneas e) e f) do n.º 1 do artigo 2.º
+
+Artigo 259.º
+
+[...]
+
+1 - A contraparte central deve assegurar a boa gestão das operações.
+
+2 - [Revogado].
+
+3 - [...].
+
+4 - [...].
+
+Artigo 260.º
+
+Princípios gerais
+
+1 - A contraparte central deve adotar medidas adequadas à prevenção e gestão dos riscos, nomeadamente de crédito, de liquidez e operacionais, bem como medidas adequadas ao bom funcionamento dos mecanismos adotados e à proteção dos mercados.
+
+2 - A contraparte central deve ter mecanismos de governo sólidos, que permitam a sua gestão sã e prudente.
+
+3 - [Revogado].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+Artigo 265.º
+
+Registo de regras da contraparte central
+
+1 - [Revogado].
+
+2 - As regras da contraparte central que assegurem o adequado exercício da sua atividade, designadamente as relativas ao seu governo, funcionamento, gestão de riscos, segregação, portabilidade, admissão e manutenção de membros compensadores, são objeto de registo na CMVM, o qual visa a verificação da sua suficiência, adequação e legalidade.
+
+3 - [Revogado].
+
+4 - [...].
+
+Artigo 268.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) Entidades gestoras de câmara de compensação; e
+
+d) Contrapartes centrais.
+
+3 - [Revogado].
+
+4 - [...].
+
+5 - De acordo com as regras do sistema, o mesmo participante pode atuar apenas como agente de liquidação ou câmara de compensação, ou exercer ambas as funções.
+
+6 - As regras das câmaras de compensação são objeto de registo na CMVM, o qual visa a verificação da sua suficiência, adequação e legalidade, devendo as mesmas ser divulgadas ao público.
+
+7 - [Anterior n.º 6].
+
+Artigo 274.º
+
+[...]
+
+1 - As ordens de transferência são introduzidas no sistema pelos participantes ou, por delegação destes, pela entidade gestora do mercado regulamentado ou do sistema de negociação multilateral onde os instrumentos financeiros foram transacionados, pela entidade que assuma as funções de câmara de compensação ou pela contraparte central relativamente às operações realizadas nesse mercado ou sistema.
+
+2 - [...].
+
+3 - [...].
+
+Artigo 279.º
+
+[...]
+
+1 - [...].
+
+2 - A obrigação a que se refere o número anterior incumbe ao participante que introduziu no sistema a ordem de transferência ou que tenha sido indicado pela entidade gestora do mercado regulamentado ou do sistema de negociação multilateral onde se efetuaram as operações a liquidar, pela entidade que assuma as funções de câmara de compensação ou pela contraparte central relativamente a essas operações.
+
+3 - [...].
+
+4 - [...].
+
+Artigo 280.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - Nos casos em que exista contraparte central, é esta que aciona os procedimentos previstos para as situações de incumprimento.
+
+5 - [...].
+
+6 - [...].
+
+Artigo 281.º
+
+[...]
+
+1 - [...]:
+
+a) [...];
+
+b) Entidades que assumam as funções de câmara de compensação ou contrapartes centrais;
+
+c) [...];
+
+d) [...];
+
+e) [...].
+
+2 - [...].
+
+Artigo 284.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - Se o operador do sistema de liquidação tiver constituído garantias em favor de outro operador no quadro de um sistema interoperável, os direitos do operador do sistema que constituiu as garantias não são afetados por um eventual processo de insolvência relativo ao operador do sistema que as recebeu.
+
+Artigo 352.º
+
+[...]
+
+1 - [...].
+
+2 - Quando no mercado de instrumentos financeiros se verifique perturbação que ponha em grave risco a economia nacional, pode o Governo, por portaria do Primeiro-Ministro e do membro do Governo responsável pela área das finanças, ordenar as medidas apropriadas, nomeadamente a suspensão temporária de mercados regulamentados ou sistemas de negociação multilateral, de certas categorias de operações ou da atividade de entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e de contrapartes centrais.
+
+Artigo 355.º
+
+[...]
+
+1 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) Entidades gestoras de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e contrapartes centrais;
+
+d) [...];
+
+e) [...];
+
+f) [...].
+
+2 - [...].
+
+3 - [...].
+
+Artigo 359.º
+
+[...]
+
+1 - [...]:
+
+a) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e contrapartes centrais;
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) [...];
+
+g) [...];
+
+h) [...];
+
+i) [...];
+
+j) [...];
+
+k) [...].
+
+2 - [...].
+
+3 - [...].
+
+Artigo 361.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) Substituir-se às entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e às contrapartes centrais quando estas não adotem as medidas necessárias à regularização de situações anómalas que ponham em causa o regular funcionamento do mercado, da atividade exercida ou os interesses dos investidores;
+
+f) [...];
+
+g) [...].
+
+3 - [...].
+
+4 - [...].
+
+Artigo 363.º
+
+[...]
+
+1 - [...]:
+
+a) As entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e as contrapartes centrais;
+
+b) [...];
+
+c) [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+Artigo 372.º
+
+[...]
+
+1 - Nos limites da lei e dos regulamentos, as entidades gestoras dos mercados regulamentados, dos sistemas de negociação multilateral, dos sistemas de liquidação, das câmaras de compensação, dos sistemas centralizados de valores mobiliários e as contrapartes centrais podem regular autonomamente as atividades por si geridas.
+
+2 - [...].
+
+Artigo 388.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...]:
+
+a) [...];
+
+b) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, contrapartes centrais ou sociedades gestoras de participações sociais nestas entidades.
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+Artigo 389.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...]:
+
+a) [...];
+
+b) Envio às entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e às contrapartes centrais de informação que não seja completa, verdadeira, atual, clara, objetiva e lícita;
+
+c) [...];
+
+d) [...];
+
+e) [...].
+
+4 - [...].
+
+5 - [...].
+
+Artigo 395.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) A realização de operações por titulares de órgãos de administração, direção e fiscalização de intermediários financeiros ou de entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e contrapartes centrais, bem como pelos respetivos trabalhadores, se tais operações lhes estiverem vedadas;
+
+d) [...].
+
+3 - [...].
+
+Artigo 396.º
+
+[...]
+
+1 - [...]:
+
+a) O exercício das funções de câmara de compensação, da atividade de contraparte central e das funções de sistema de liquidação fora dos casos e termos previstos em lei ou regulamento, em particular o exercício por entidade não autorizada para o efeito;
+
+b) O funcionamento de câmara de compensação, de contraparte central ou de sistema de liquidação sem registo das regras na CMVM, sem a divulgação ao público das regras ou com violação de regras registadas;
+
+c) [...];
+
+d) [...];
+
+e) A violação, por entidade que exerça as funções de câmara de compensação ou por contraparte central, do dever de adotar as medidas necessárias à minimização dos riscos e adequadas ao bom funcionamento dos mecanismos adotados e à proteção dos mercados;
+
+f) A violação, por contraparte central, dos deveres relativos a segregação e portabilidade e aos requisitos prudenciais.
+
+2 - [Revogado].
+
+Artigo 400.º
+
+[...]
+
+[...]:
+
+a) [...];
+
+b) Contraordenação grave, quando o agente seja intermediário financeiro ou qualquer das entidades a que se refere a alínea b) do n.º 3 do artigo 388.º, no exercício das respetivas atividades;
+
+c) [...].»
+
+###### Artigo 20.º — Alteração ao Decreto-Lei n.º 221/2000, de 9 de setembro
+
+O artigo 6.º do Decreto-Lei n.º 221/2000, de 9 de setembro, alterado pelos Decretos-Leis n.os 85/2011, de 29 de junho, e 18/2013, de 6 de fevereiro, passa a ter a seguinte redação:
+
+«Artigo 6.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - Se o operador tiver constituído garantias em favor de outro operador no quadro de um sistema interoperável, os direitos do operador do sistema que constituiu as garantias não são afetados por um eventual processo de insolvência relativo ao operador do sistema que as recebeu.
+
+4 - [Anterior n.º 3].»
+
+###### Artigo 21.º — Alteração ao Decreto-Lei n.º 357-C/2007, de 31 de outubro
+
+1 - Os artigos 1.º, 2.º, 42.º e 44.º do Decreto-Lei n.º 357-C/2007, de 31 de outubro, alterado pelos Decretos-Leis n.os 52/2010, de 26 de maio, e 18/2013, de 6 de fevereiro passam a ter a seguinte redação:
+
+«Artigo 1.º
+
+[...]
+
+1 - O presente decreto-lei regula o regime jurídico das sociedades gestoras de mercado regulamentado, das sociedades gestoras de sistemas de negociação multilateral, das sociedades gestoras de câmara de compensação, das sociedades gestoras de sistema de liquidação e das sociedades gestoras de sistema centralizado de valores mobiliários.
+
+2 - [...].
+
+3 - [...].
+
+Artigo 2.º
+
+[...]
+
+As sociedades gestoras de mercado regulamentado, as sociedades gestoras de sistema de negociação multilateral, as sociedades gestoras de câmara de compensação, as sociedades gestoras de sistema de liquidação e as sociedades gestoras de sistema centralizado de valores mobiliários devem adotar o tipo sociedade anónima.
+
+Artigo 42.º
+
+[...]
+
+1 - As sociedades gestoras referidas na alínea c) do n.º 2 do artigo 268.º do Código dos Valores Mobiliários devem usar na sua firma a denominação «sociedade gestora de câmara de compensação» ou abreviadamente «SGCC».
+
+2 - [Revogado].
+
+3 - Sem prejuízo do disposto no presente título, às sociedades referidas no n.º 1 é aplicável, com as devidas adaptações, o título II do presente decreto-lei, com exceção do seu capítulo III.
+
+Artigo 44.º
+
+[...]
+
+[...]:
+
+a) Exercício da atividade de sociedades gestoras de câmara de compensação;
+
+b) Meios técnicos, humanos e materiais e técnicas de gestão de risco necessárias para a concessão de registo às sociedades gestoras de câmara de compensação;
+
+c) [...].»
+
+2 - É alterada a epígrafe do título III do Decreto-Lei n.º 357-C/2007, de 31 de outubro, alterado pelos Decretos-Leis n.os 52/2010, de 26 de maio, e 18/2013, de 6 de fevereiro, que passa a ter a seguinte redação:
+
+«TÍTULO III
+
+Sociedades gestoras de câmara de compensação»
+
+### Capítulo VI — Disposições transitórias e finais
+
+###### Artigo 22.º — Disposições transitórias
+
+1 - As disposições previstas nos Regulamentos da CMVM n.os 4/2007 sobre Entidades Gestoras de Mercados, Sistemas e Serviços, e 5/2007 sobre Compensação, Contraparte Central e Liquidação mantêm-se em vigor em tudo o que não contrarie o regime aprovado pelo presente decreto-lei.
+
+2 - As remissões legais ou contratuais para o Decreto-Lei n.º 357-C/2007, de 31 de outubro, alterado pelos Decretos-Leis n.os 52/2010, de 26 de maio, e 18/2013, de 6 de fevereiro, relativas às contrapartes centrais consideram-se feitas para as disposições correspondentes do regime jurídico das contrapartes centrais aprovado em anexo ao presente decreto-lei.
+
+###### Artigo 23.º — Disposições regulamentares
+
+1 - Cabe ao Banco de Portugal, à CMVM e à ASF aprovar a regulamentação necessária para assegurar a supervisão do cumprimento dos deveres impostos pelo Regulamento EMIR e pelo Regulamento OFVM, na respetiva área de atuação.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 24.º — Norma revogatória
+
+São revogados:
+
+a) O n.º 2 do artigo 259.º, o n.º 3 do artigo 260.º, os artigos 261.º a 264.º, os n.os 1 e 3 do artigo 265.º, o n.º 3 do artigo 268.º e o n.º 2 do artigo 396.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro;
+
+b) O n.º 2 do artigo 42.º e o artigo 43.º do Decreto-Lei n.º 357-C/2007, de 31 de outubro, alterado pelos Decretos-Leis n.os 52/2010, de 26 de maio, e 18/2013, de 6 de fevereiro;
+
+c) A alínea e) do ponto 1.º da Portaria n.º 1619/2007, de 26 de dezembro.
+
+###### Artigo 25.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias a contar da data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de fevereiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima.
+
+Promulgado em 12 de março de 2014.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 13 de março de 2014.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — (a que se refere o artigo 5.º)
+
+Regime jurídico das contrapartes centrais
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Tipo societário, firma e sede
+
+1 - As contrapartes centrais adotam o tipo sociedade anónima.
+
+2 - A firma das contrapartes centrais inclui a denominação «contraparte central» ou abreviadamente «CC».
+
+3 - As contrapartes centrais têm a sua sede estatutária e efetiva administração em Portugal.
+
+###### Artigo 2.º — Número de acionistas
+
+As contrapartes centrais constituem-se e subsistem com qualquer número de acionistas.
+
+###### Artigo 3.º — Aquisição de imóveis
+
+As contrapartes centrais não podem adquirir imóveis que não sejam indispensáveis à sua instalação e funcionamento.
+
+### Capítulo II — Participações qualificadas e divulgação de participações
+
+###### Artigo 4.º — Imputação de direitos de voto e elementos para a avaliação prudencial
+
+1 - No cômputo dos direitos de voto do participante na contraparte central é aplicável o disposto nos artigos 20.º, 20.º-A e 21.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, com as devidas adaptações.
+
+2 - No cômputo das participações qualificadas, tal como definidas no ponto 20 do artigo 2.º do Regulamento (UE) n.º <a href="eurlex.asp?ano=2012&id=312R0648" title="Link para Regulamento da Comunidade Europeia">648/2012</a>, do Parlamento Europeu e do Conselho, de 4 de julho de 2012 (Regulamento), nas contrapartes centrais não são considerados:
+
+a) Os direitos de voto detidos em resultado da tomada firme ou da colocação com garantia de instrumentos financeiros, desde que os direitos de voto não sejam exercidos ou de outra forma utilizados para intervir na gestão da sociedade e sejam cedidos no prazo de um ano a contar da aquisição;
+
+b) As ações transacionadas exclusivamente para efeitos de operações de compensação;
+
+c) As participações de intermediário financeiro atuando como criador de mercado que atinjam ou ultrapassem 5 % dos direitos de voto correspondentes ao capital social, desde que aquele não intervenha na gestão da sociedade participada, nem a influencie a adquirir essas ações ou a apoiar o seu preço;
+
+d) As ações detidas por entidades de custódia, atuando nessa qualidade, desde que demonstrem perante a Comissão do Mercado de Valores Mobiliários (CMVM) que apenas podem exercer os direitos de voto associados às ações sob instruções comunicadas por escrito ou por meios eletrónicos.
+
+3 - Para efeitos das alíneas b) e c) do número anterior, aplica-se o disposto no artigo 16.º-A e no artigo 18.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro.
+
+4 - Para efeitos do artigo 32.º do Regulamento, a CMVM estabelece por regulamento os elementos exigíveis para a avaliação da adequação do adquirente potencial e da solidez financeira do projeto de aquisição.
+
+5 - Para efeitos da apreciação prevista no número anterior, a CMVM solicita o parecer do Banco de Portugal ou do Instituto de Seguros de Portugal, consoante aplicável, caso o proposto adquirente esteja sujeito à supervisão de alguma dessas autoridades.
+
+###### Artigo 5.º — Comunicação à Comissão do Mercado de Valores Mobiliários
+
+1 - Os atos mediante os quais seja concretizada a aquisição, o aumento, a alienação ou a diminuição de participação qualificada sujeitos à comunicação prévia prevista no n.º 2 do artigo 31.º do Regulamento, são comunicados à CMVM e à contraparte central pelos participantes, no prazo de 15 dias.
+
+2 - A contraparte central comunica à CMVM, logo que dela tenha conhecimento, qualquer alteração na sua composição acionista.
+
+###### Artigo 6.º — Inibição de direitos de voto
+
+1 - A aquisição ou o reforço de participação qualificada determina a inibição do exercício dos direitos de voto inerentes à participação na medida necessária para impedir o adquirente de exercer na sociedade, através do voto, influência superior àquela que detinha antes da aquisição ou do reforço da participação, desde que se verifique alguma das seguintes situações:
+
+a) Não ter o adquirente cumprido a obrigação de comunicação da aquisição da referida participação, nos termos do n.º 2 do artigo 31.º do Regulamento;
+
+b) Ter o adquirente adquirido ou aumentado a sua participação depois de ter cumprido a comunicação prevista no n.º 2 do artigo 31.º, mas antes de a CMVM se ter pronunciado, nos termos dos artigos 31.º e 32.º, todos do Regulamento;
+
+c) Ter-se a CMVM oposto ao projeto de aquisição ou de aumento de participação qualificada.
+
+2 - O incumprimento do dever de comunicação referido no n.º 1 do artigo anterior determina a inibição dos direitos de voto, até à realização da comunicação em falta.
+
+###### Artigo 7.º — Regime especial de invalidade de deliberações
+
+1 - Sempre que a CMVM ou o órgão de administração da contraparte central tenha conhecimento de alguma situação de inibição de exercício de direitos de voto, nos termos do disposto no artigo anterior, deve comunicar imediatamente esse facto ao presidente da mesa da assembleia geral da sociedade, devendo este atuar de forma a impedir o exercício dos direitos de voto inibidos.
+
+2 - São anuláveis as deliberações sociais tomadas com base em votos inibidos, salvo se se provar que a deliberação teria sido adotada sem aqueles votos.
+
+3 - A anulabilidade da deliberação pode ser arguida nos termos gerais ou, ainda, pela CMVM.
+
+###### Artigo 8.º — Divulgação de participações
+
+O órgão de administração da contraparte central deve promover a divulgação no respetivo sítio na Internet:
+
+a) De informação relativa a participações qualificadas, incluindo a aquisição, aumento, diminuição e cessação das mesmas, bem como a identidade dos respetivos titulares, em relação quer ao capital social representado por ações com direito a voto, quer ao capital social total;
+
+b) Até ao quinto dia anterior ao da realização da assembleia geral, da lista dos acionistas que sejam titulares de ações representativas de mais de 2 % do capital social representado por ações com direito de voto ou do capital social total.
+
+### Capítulo III — Administração e fiscalização
+
+###### Artigo 9.º — Idoneidade, disponibilidade e qualificação dos titulares dos órgãos de administração e de fiscalização
+
+1 - À apreciação dos requisitos de idoneidade, qualificação profissional, independência e disponibilidade dos titulares dos órgãos de administração e dos órgãos de fiscalização das contrapartes centrais são aplicáveis, com as devidas adaptações, os artigos 30.º-D, 31.º, 31.º-A e n.os 1, 2 e 11 do artigo 33.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
+
+2 - A CMVM, para efeitos da verificação dos requisitos previstos no presente artigo, troca informações com o Banco de Portugal e com o Instituto de Seguros de Portugal.
+
+3 - Para efeitos do presente artigo, considera-se verificada a idoneidade, qualificação profissional, independência e disponibilidade dos membros dos órgãos de administração e dos órgãos de fiscalização que se encontrem registados junto do Banco de Portugal ou do Instituto de Seguros de Portugal, quando esse registo esteja sujeito a condições de idoneidade, a menos que factos supervenientes à data do referido registo conduzam a CMVM a pronunciar-se em sentido contrário.
+
+4 - A CMVM comunica ao Banco de Portugal ou ao Instituto de Seguros de Portugal, consoante aplicável, qualquer decisão no sentido da não verificação da idoneidade, qualificação profissional, independência e disponibilidade dos membros dos órgãos de administração e dos órgãos de fiscalização que se encontrem registados junto dessas autoridades de supervisão.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2018-11-23
+
+###### Artigo 10.º — Comunicação de designação dos titulares dos órgãos de administração e de fiscalização
+
+1 - A designação de titulares dos órgãos de administração e de fiscalização é comunicada à CMVM pela contraparte central até 15 dias após a sua ocorrência.
+
+2 - A contraparte central ou qualquer interessado podem comunicar à CMVM a intenção de designação de titulares dos órgãos de administração ou de fiscalização daquela.
+
+3 - A CMVM pode deduzir oposição àquela designação ou intenção de designação, com fundamento na falta de idoneidade, disponibilidade ou qualificação profissional, no prazo de 30 dias após ter recebido a comunicação da designação ou intenção de designação da pessoa em causa.
+
+4 - A dedução de oposição com fundamento em falta de idoneidade, disponibilidade ou qualificação profissional dos titulares dos órgãos de administração ou de fiscalização é comunicada aos interessados e à contraparte central.
+
+5 - Os titulares dos órgãos de administração e de fiscalização, ainda que já designados, não podem iniciar o exercício daquelas funções antes de decorrido o prazo referido no n.º 3.
+
+6 - A falta de comunicação à CMVM ou o exercício de funções antes de decorrido o prazo de oposição referido no n.º 3 não determina a invalidade dos atos praticados pela pessoa em causa no exercício das suas funções.
+
+7 - Se em relação a qualquer titular dos órgãos de administração ou de fiscalização deixarem de se verificar, por facto superveniente ou não conhecido pela CMVM à data do ato de não oposição, os requisitos enunciados no n.º 1 do artigo anterior, a CMVM notifica a contraparte central para, no prazo que seja fixado, pôr termo às funções das pessoas em causa e promover a respetiva substituição.
+
+### Capítulo IV — Exercício da atividade
+
+###### Artigo 11.º — Código deontológico
+
+1 - As contrapartes centrais aprovam um código deontológico ao qual ficam sujeitos:
+
+a) Os titulares dos seus órgãos sociais;
+
+b) Os seus trabalhadores;
+
+c) Os membros compensadores.
+
+2 - O código deontológico regula, designadamente:
+
+a) As regras relativas ao exercício de funções e à detenção de participações qualificadas pelos titulares dos seus órgãos de administração noutras entidades, destinadas a prevenir a ocorrência de conflitos de interesses;
+
+b) Os padrões de diligência e aptidão profissional que devam ser observados em todas as atividades da sociedade;
+
+c) As sanções adequadas à gravidade da violação das suas regras.
+
+3 - As normas que tenham por destinatários os titulares dos órgãos sociais, os trabalhadores da sociedade e os membros compensadores devem estabelecer níveis elevados de exigência.
+
+4 - O código deontológico e respetivas alterações devem ser comunicados à CMVM no prazo de 15 dias após a sua aprovação.
+
+###### Artigo 12.º — Segredo profissional
+
+1 - Os titulares dos órgãos sociais das contrapartes centrais, os seus colaboradores e as pessoas que lhe prestem, a título permanente ou ocasional, quaisquer serviços, estão sujeitos a segredo profissional quanto a todos os factos e elementos cujo conhecimento lhes advenha do exercício das suas funções ou da prestação dos seus serviços.
+
+2 - O dever de segredo não cessa com o termo das funções ou dos serviços.
+
+3 - Os factos e elementos abrangidos pelo dever de segredo só podem ser revelados nos termos previstos na lei.
+
+###### Artigo 13.º — Poder disciplinar e deveres de notificação
+
+1 - Estão sujeitas ao poder disciplinar da contraparte central, nos termos previstos no código deontológico, as pessoas referidas nas alíneas b) e c) do n.º 1 do artigo 11.º
+
+2 - Constitui infração disciplinar a violação dos deveres a que estão sujeitas as pessoas referidas no n.º 1, previstos na lei, em regulamento ou no código deontológico.
+
+3 - As sanções disciplinares aplicadas são comunicadas à CMVM.
+
+4 - Se a infração configurar igualmente contraordenação ou crime público, o órgão de administração da sociedade comunica-o, de imediato, à CMVM.
+
+### Capítulo V — Intervenção da Comissão do Mercado de Valores Mobiliários
+
+###### Artigo 14.º — Registo de contraparte central
+
+A CMVM mantém um registo das contrapartes centrais por si autorizadas nos termos dos artigos 14.º e 17.º do Regulamento.
+
+###### Artigo 15.º — Regulamentação
+
+Cabe à CMVM, no prazo de 90 dias, a regulamentação das matérias relativas à concretização do regime aplicável às contrapartes centrais no que respeita a:
+
+a) Instrução do pedido de autorização de uma contraparte central nos termos do Regulamento;
+
+b) Requisitos informativos relativos à divulgação e a comunicações respeitantes a participações qualificadas e à designação de titulares dos órgãos de administração e de fiscalização;
+
+c) Informação financeira a reportar à CMVM e a divulgar ao público.

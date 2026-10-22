@@ -1,0 +1,328 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:277603:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-75038774",
+ "dre_path": "/dr/detalhe/portaria/121-2011-277603",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75044297",
+    "75044298",
+    "75044299",
+    "75044300",
+    "75044301",
+    "75044302",
+    "75044303",
+    "75044304",
+    "75044306"
+   ]
+  },
+  {
+   "date": "2012-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553938:por",
+     "title": "Portaria n.º 77/2012",
+     "published": "2012-03-26",
+     "dre_path": "/dr/detalhe/portaria/77-2012-553938"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "75044297",
+    "75044298",
+    "75044299",
+    "75044311",
+    "75044312",
+    "75044302",
+    "75044303",
+    "75044304",
+    "75044305",
+    "75044313"
+   ]
+  },
+  {
+   "date": "2014-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571896:por",
+     "title": "Portaria n.º 64/2014",
+     "published": "2014-03-12",
+     "dre_path": "/dr/detalhe/portaria/64-2014-571896"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "75044297",
+    "75044298",
+    "75044299",
+    "75044311",
+    "75044312",
+    "75044317",
+    "75044303",
+    "75044304",
+    "75044305",
+    "75044313"
+   ]
+  },
+  {
+   "date": "2015-06-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67477869:por",
+     "title": "Portaria n.º 176-A/2015",
+     "published": "2015-06-12",
+     "dre_path": "/dr/detalhe/portaria/176-a-2015-67477869"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "75044297",
+    "75044298",
+    "75044299",
+    "75044311",
+    "75044312",
+    "75044322",
+    "75044303",
+    "75044304",
+    "75044305",
+    "75044313"
+   ]
+  },
+  {
+   "date": "2016-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74699730:por",
+     "title": "Portaria n.º 165-A/2016",
+     "published": "2016-06-14",
+     "dre_path": "/dr/detalhe/portaria/165-a-2016-74699730"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "75044297",
+    "75044298",
+    "75044328",
+    "75044329",
+    "75044330",
+    "75044331",
+    "75044303",
+    "75044304",
+    "75044305",
+    "75044332"
+   ]
+  }
+ ],
+ "fragments": {
+  "75044297": {
+   "fragment_id": "75044875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 121/2011\n\nde 30 de Março\n\nA Lei n.º 55-A/2010, de 31 de Dezembro, estabeleceu no seu artigo 141.º um regime de contribuição sobre o sector bancário, definindo os elementos essenciais deste tributo público em termos semelhantes aos de contribuições já introduzidas por outros Estados membros da União Europeia, com o duplo propósito de reforçar o esforço fiscal feito pelo sector financeiro e de mitigar de modo mais eficaz os riscos sistémicos que lhe estão associados.\n\nO Governo acompanha a evolução da matéria a nível comunitário, podendo haver alterações ao presente regime de acordo com as decisões que venham a ser adoptadas no plano europeu.\n\nApelando às noções do Regime Geral das Instituições de Crédito e Sociedades Financeiras, a contribuição sobre o sector bancário incide, assim, sobre as instituições de crédito com sede principal e efectiva da administração situada em território português, sobre as filiais de instituições de crédito que não tenham a sua sede principal e efectiva da administração em território português e sobre as sucursais, instaladas em território português, de instituições de crédito com sede principal e efectiva da administração fora da União Europeia.\n\nA presente portaria densifica também os conceitos relevantes para a determinação da base de incidência estabelecida pela Lei n.º 55-A/2010, de 31 de Dezembro, em função, quer da experiência levada a cabo por outros Estados membros, quer da discussão técnica que entretanto tem vindo a ser feita ao nível europeu em torno destas figuras tributárias.\n\nAssim, explicita-se desde logo que para efeitos da aplicação da contribuição sobre o sector bancário se qualificam por regra como passivo todos os elementos reconhecidos em balanço que representem dívida para com terceiros, independentemente da sua forma ou modalidade. Excluído para este efeito do passivo fica um conjunto de realidades muito circunscrito, tal como os capitais próprios ou os passivos associados ao reconhecimento de responsabilidades por planos de benefício definido, os passivos resultantes da reavaliação de instrumentos financeiros derivados e os passivos por activos não desreconhecidos em operações de titularização, ou os passivos por provisões, atento o objectivo da mitigação de riscos sistémicos que subjaz largamente à criação desta contribuição. É também o objectivo da mitigação de riscos sistémicos que dita a desconsideração, para efeitos da base tributável, dos depósitos abrangidos pelo Fundo de Garantia de Depósitos na parcela do respectivo valor que seja objecto de cobertura por esse mesmo fundo. Idêntica razão explica que não se integrem na base tributável os instrumentos financeiros derivados de cobertura de risco, bem como aqueles cujas posições em risco se compensem mutuamente (back to back derivatives).\n\nFoi ouvido o Banco de Portugal.\n\nAssim:\n\nAo abrigo do disposto no artigo 8.º do regime sobre a contribuição sobre o sector bancário aprovado pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de Dezembro, manda o Governo, pelo Ministro de Estado e das Finanças, o seguinte:"
+  },
+  "75044298": {
+   "fragment_id": "75044876",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria tem por objecto a regulamentação da contribuição sobre o sector bancário estabelecida pelo artigo 141.º da Lei n.º 55-A/2010, de 31 de Dezembro, bem como das suas condições de aplicação."
+  },
+  "75044299": {
+   "fragment_id": "75044877",
+   "type": 11,
+   "heading": "Artigo 2.º — Incidência subjectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incidência subjectiva\n\n1 - São sujeitos passivos da contribuição sobre o sector bancário:\n\na) As instituições de crédito com sede principal e efectiva da administração situada em território português;\n\nb) As filiais, em Portugal, de instituições de crédito que não tenham a sua sede principal e efectiva da administração em território português;\n\nc) As sucursais, em Portugal, de instituições de crédito com sede principal e efectiva da administração fora da União Europeia.\n\n2 - Para efeitos do disposto no número anterior, consideram-se instituições de crédito, filiais e sucursais as referidas, respectivamente, no artigo 2.º e nos n.os 1 e 5 do artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro."
+  },
+  "75044300": {
+   "fragment_id": "75044878",
+   "type": 11,
+   "heading": "Artigo 3.º — Incidência objectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Incidência objectiva\n\nA contribuição sobre o sector bancário incide sobre:\n\na) O passivo apurado e aprovado pelos sujeitos passivos deduzido dos fundos próprios de base (tier 1) e complementares (tier 2) e dos depósitos abrangidos pelo Fundo de Garantia de Depósitos;\n\nb) O valor nocional dos instrumentos financeiros derivados fora do balanço apurado pelos sujeitos passivos."
+  },
+  "75044301": {
+   "fragment_id": "75044879",
+   "type": 11,
+   "heading": "Artigo 4.º — Quantificação da base de incidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Quantificação da base de incidência\n\n1 - Para efeitos do disposto na alínea a) do artigo anterior, entende-se por passivo o conjunto dos elementos reconhecidos em balanço que, independentemente da sua forma ou modalidade, representem uma dívida para com terceiros, com excepção dos seguintes:\n\na) Elementos que, segundo as normas de contabilidade aplicáveis, sejam reconhecidos como capitais próprios;\n\nb) Passivos associados ao reconhecimento de responsabilidades por planos de benefício definido;\n\nc) Passivos por provisões;\n\nd) Passivos resultantes da reavaliação de instrumentos financeiros derivados;\n\ne) Receitas com rendimento diferido, sem consideração das referentes a operações passivas; e\n\nf) Passivos por activos não desreconhecidos em operações de titularização.\n\n2 - Para efeitos do disposto na alínea a) do artigo anterior, observam-se as regras seguintes:\n\na) O valor dos fundos próprios de base e dos fundos próprios complementares compreende os elementos positivos de qualquer uma dessas duas componentes, nos termos do Aviso do Banco de Portugal n.º 6/2010, de 30 de Dezembro, e que simultaneamente se enquadrem no conceito de passivo tal como definido no número anterior;\n\nb) O valor dos fundos próprios complementares é determinado desconsiderando os limites de elegibilidade previstos no artigo 16.º do Aviso do Banco de Portugal n.º 6/2010, de 30 de Dezembro;\n\nc) Os depósitos abrangidos pelo Fundo de Garantia de Depósitos relevam apenas na medida do montante efectivamente coberto por esse Fundo.\n\n3 - Para efeitos do disposto na alínea b) do artigo anterior, entende-se por instrumento financeiro derivado o que seja qualificado como tal pelas normas de contabilidade aplicáveis, com excepção dos instrumentos financeiros derivados de cobertura ou cujas posições em risco se compensem mutuamente."
+  },
+  "75044302": {
+   "fragment_id": "75044880",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Taxas\n\n1 - A taxa aplicável à base de incidência definida pela alínea a) do artigo 3.º é de 0,05 % sobre o valor apurado.\n\n2 - A taxa aplicável à base de incidência definida pela alínea b) do artigo 3.º é de 0,000 15 % sobre o valor apurado."
+  },
+  "75044303": {
+   "fragment_id": "75044881",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento e forma de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento e forma de liquidação\n\n1 - A contribuição sobre o sector bancário é liquidada anualmente pelo sujeito passivo através da declaração de modelo oficial n.º 26, que é aprovada e consta do anexo à presente portaria.\n\n2 - A base de incidência apurada nos termos dos artigos 3.º e 4.º é calculada por referência à média anual dos saldos finais de cada mês, que tenham correspondência nas contas aprovadas no próprio ano em que é devida a contribuição.\n\n3 - A declaração a que se refere o n.º 1 é enviada por transmissão electrónica de dados até ao último dia do mês de Junho, podendo ser obtida por impressão em papel formato A4 a partir do site www.portaldasfinancas.gov.pt.\n\n4 - A liquidação prevista no n.º 1 pode ser corrigida pela administração fiscal nos prazos previstos nos artigos 45.º e 46.º da lei geral tributária, caso sejam verificados erros ou omissões que determinem a exigência de um valor da contribuição superior ao liquidado.\n\n5 - Na falta de liquidação da contribuição nos termos do n.º 1, a mesma tem por base os elementos de que a administração fiscal disponha."
+  },
+  "75044304": {
+   "fragment_id": "75044882",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pagamento\n\n1 - A contribuição sobre o sector bancário devida é paga até ao último dia do prazo estabelecido para o envio da declaração referida no artigo anterior nos locais de cobrança legalmente autorizados.\n\n2 - Não sendo efectuado o pagamento da contribuição até ao termo do respectivo prazo, começam a correr imediatamente juros de mora e a cobrança da dívida é promovida pela administração fiscal, nos termos do Código de Procedimento e de Processo Tributário.\n\n3 - São aplicáveis as regras previstas na lei geral tributária e no Código de Procedimento e de Processo Tributário, designadamente em matéria de fiscalização e de recurso aos meios processuais tributários."
+  },
+  "75044306": {
+   "fragment_id": "75044884",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  },
+  "75044311": {
+   "fragment_id": "75044878",
+   "type": 11,
+   "heading": "Artigo 3.º — Incidência objectiva",
+   "in_force_from": "2012-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+   ],
+   "markdown": "###### Artigo 3.º — Incidência objectiva\n\nA contribuição sobre o setor bancário incide sobre:\n\na) O passivo apurado e aprovado pelos sujeitos passivos deduzidos dos fundos próprios de base (tier 1) e complementares (tier 2), dos depósitos abrangidos pelo Fundo de Garantia de Depósitos e pelo Fundo de Garantia do Crédito Agrícola Mútua, e dos depósitos na Caixa Central constituídos por Caixas de Crédito Agrícola Mútuo pertencentes ao Sistema Integrado do Crédito Agrícola Mútuo, ao abrigo do artigo 72.º do Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola, aprovado pelo Decreto-Lei n.º 24/91, de 11 de janeiro, republicado pelo Decreto-Lei n.º 142/2009, de 16 de junho;\n\nb) O valor nocional dos instrumentos financeiros derivados fora do balanço apurado pelos sujeitos passivos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+  },
+  "75044312": {
+   "fragment_id": "75044879",
+   "type": 11,
+   "heading": "Artigo 4.º — Quantificação da base de incidência",
+   "in_force_from": "2012-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+   ],
+   "markdown": "###### Artigo 4.º — Quantificação da base de incidência\n\n1 - Para efeitos do disposto na alínea a) do artigo anterior, entende-se por passivo o conjunto dos elementos reconhecidos em balanço que, independentemente da sua forma ou modalidade, representem uma dívida para com terceiros, com excepção dos seguintes:\n\na) Elementos que, segundo as normas de contabilidade aplicáveis, sejam reconhecidos como capitais próprios;\n\nb) Passivos associados ao reconhecimento de responsabilidades por planos de benefício definido;\n\nc) Passivos por provisões;\n\nd) Passivos resultantes da reavaliação de instrumentos financeiros derivados;\n\ne) Receitas com rendimento diferido, sem consideração das referentes a operações passivas; e\n\nf) Passivos por activos não desreconhecidos em operações de titularização.\n\n2 - Para efeitos do disposto na alínea a) do artigo anterior, observam-se as regras seguintes:\n\na) O valor dos fundos próprios de base e dos fundos próprios complementares compreende os elementos positivos de qualquer uma dessas duas componentes, nos termos do Aviso do Banco de Portugal n.º 6/2010, de 30 de Dezembro, e que simultaneamente se enquadrem no conceito de passivo tal como definido no número anterior;\n\nb) O valor dos fundos próprios complementares é determinado desconsiderando os limites de elegibilidade previstos no artigo 16.º do Aviso do Banco de Portugal n.º 6/2010, de 30 de Dezembro;\n\nc) Os depósitos abrangidos pelo Fundo de Garantia de Depósitos e pelo Fundo de Garantia do Crédito Agrícola Mútuo relevam apenas na medida do montante efetivamente coberto por esses Fundos.\n\n3 - Para efeitos do disposto na alínea b) do artigo anterior, entende-se por instrumento financeiro derivado o que seja qualificado como tal pelas normas de contabilidade aplicáveis, com excepção dos instrumentos financeiros derivados de cobertura ou cujas posições em risco se compensem mutuamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+  },
+  "75044305": {
+   "fragment_id": "75044883",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 17 de Março de 2011."
+  },
+  "75044313": {
+   "fragment_id": "75044884",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2012-03-31",
+   "changed_by": [
+    "Alterado pelo/a Assinatura do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Alterado pelo/a Assinatura do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+  },
+  "75044317": {
+   "fragment_id": "75044880",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxas",
+   "in_force_from": "2014-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 64/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/64-2014-571896), em vigor a partir de 2014-03-17"
+   ],
+   "markdown": "###### Artigo 5.º — Taxas\n\n1 - A taxa aplicável à base de incidência definida pela alínea a) do artigo 3.º é de 0,07 % sobre o valor apurado.\n\n2 - A taxa aplicável à base de incidência definida pela alínea b) do artigo 3.º é de 0,000 30 % sobre o valor apurado.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 64/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/64-2014-571896), em vigor a partir de 2014-03-17"
+  },
+  "75044322": {
+   "fragment_id": "75044880",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxas",
+   "in_force_from": "2015-06-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176-A/2015 - Diário da República n.º 113/2015, 1º Suplemento, Série I de 2015-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2015-67477869), em vigor a partir de 2015-06-13",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 64/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/64-2014-571896), em vigor a partir de 2014-03-17"
+   ],
+   "markdown": "###### Artigo 5.º — Taxas\n\n1 - A taxa aplicável à base de incidência definida pela alínea a) do artigo 3.º é de 0,085 % sobre o valor apurado.\n\n2 - A taxa aplicável à base de incidência definida pela alínea b) do artigo 3.º é de 0,000 30 % sobre o valor apurado.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176-A/2015 - Diário da República n.º 113/2015, 1º Suplemento, Série I de 2015-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2015-67477869), em vigor a partir de 2015-06-13\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 64/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/64-2014-571896), em vigor a partir de 2014-03-17"
+  },
+  "75044328": {
+   "fragment_id": "75044877",
+   "type": 11,
+   "heading": "Artigo 2.º — Incidência subjectiva",
+   "in_force_from": "2016-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15"
+   ],
+   "markdown": "###### Artigo 2.º — Incidência subjectiva\n\n1 - São sujeitos passivos da contribuição sobre o sector bancário:\n\na) As instituições de crédito com sede principal e efectiva da administração situada em território português;\n\nb) As filiais, em Portugal, de instituições de crédito que não tenham a sua sede principal e efectiva da administração em território português;\n\nc) As sucursais em Portugal de instituições de crédito com sede principal e efetiva fora do território português.\n\n2 - Para efeitos do disposto no número anterior, consideram-se instituições de crédito, filiais e sucursais as definidas, respetivamente, nas alíneas w), u) e ll) do artigo 2.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15"
+  },
+  "75044329": {
+   "fragment_id": "75044878",
+   "type": 11,
+   "heading": "Artigo 3.º — Incidência objectiva",
+   "in_force_from": "2016-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+   ],
+   "markdown": "###### Artigo 3.º — Incidência objectiva\n\nA contribuição sobre o setor bancário incide sobre:\n\na) O passivo apurado e aprovado pelos sujeitos passivos deduzido, quando aplicável, dos elementos do passivo que integram os fundos próprios, dos depósitos abrangidos pela garantia do Fundo de Garantia de Depósitos, pelo Fundo de Garantia do Crédito Agrícola Mútuo ou por um sistema de garantia de depósitos oficialmente reconhecido nos termos do artigo 4.º da Diretiva 2014/49/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014, ou considerado equivalente nos termos do disposto na alínea b) do n.º 1 do artigo 156.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, dentro dos limites previstos nas legislações aplicáveis, e dos depósitos na Caixa Central constituídos por caixas de crédito agrícola mútuo pertencentes ao sistema integrado do crédito agrícola mútuo, ao abrigo do artigo 72.º do Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola, aprovado pelo Decreto-Lei n.º 24/91, de 11 de janeiro, e republicado pelo Decreto-Lei n.º 142/2009, de 16 de junho;\n\nb) O valor nocional dos instrumentos financeiros derivados fora do balanço apurado pelos sujeitos passivos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+  },
+  "75044330": {
+   "fragment_id": "75044879",
+   "type": 11,
+   "heading": "Artigo 4.º — Quantificação da base de incidência",
+   "in_force_from": "2016-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+   ],
+   "markdown": "###### Artigo 4.º — Quantificação da base de incidência\n\n1 - Para efeitos do disposto na alínea a) do artigo anterior, entende-se por passivo o conjunto dos elementos reconhecidos em balanço que, independentemente da sua forma ou modalidade, representem uma dívida para com terceiros, com excepção dos seguintes:\n\na) Elementos que, segundo as normas de contabilidade aplicáveis, sejam reconhecidos como capitais próprios;\n\nb) Passivos associados ao reconhecimento de responsabilidades por planos de benefício definido;\n\nc) Passivos por provisões;\n\nd) Passivos resultantes da reavaliação de instrumentos financeiros derivados;\n\ne) Receitas com rendimento diferido, sem consideração das referentes a operações passivas; e\n\nf) Passivos por activos não desreconhecidos em operações de titularização.\n\n2 - Para efeitos do disposto na alínea a) do artigo anterior, observam-se as regras seguintes:\n\na) O valor dos fundos próprios, incluindo os fundos próprios de nível 1 e os fundos próprios de nível 2, compreende os elementos positivos que contam para o seu cálculo de acordo com o disposto na Parte II do Regulamento (UE) 575/2013 do Parlamento Europeu e do Conselho, de 26 de junho, tendo em consideração as disposições transitórias previstas na Parte X do mesmo Regulamento que, simultaneamente, se enquadrem no conceito de passivo tal como definido no número anterior;\n\nb) Os depósitos abrangidos pela garantia do Fundo de Garantia de Depósitos, pelo Fundo de Garantia do Crédito Agrícola Mútuo ou por um sistema de garantia de depósitos oficialmente reconhecido nos termos do artigo 4.º da Diretiva 2014/49/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014, ou considerado equivalente nos termos do disposto na alínea b) do n.º 1 do artigo 156.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, dentro dos limites previstos nas legislações aplicáveis relevam apenas na medida do montante efetivamente coberto por esses Fundos.\n\n3 - Para efeitos do disposto na alínea b) do artigo anterior, entende-se por instrumento financeiro derivado o que seja qualificado como tal pelas normas de contabilidade aplicáveis, com excepção dos instrumentos financeiros derivados de cobertura ou cujas posições em risco se compensem mutuamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+  },
+  "75044331": {
+   "fragment_id": "75044880",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxas",
+   "in_force_from": "2016-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176-A/2015 - Diário da República n.º 113/2015, 1º Suplemento, Série I de 2015-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2015-67477869), em vigor a partir de 2015-06-13",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 64/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/64-2014-571896), em vigor a partir de 2014-03-17"
+   ],
+   "markdown": "###### Artigo 5.º — Taxas\n\n1 - A taxa aplicável à base de incidência definida pela alínea a) do artigo 3.º é de 0,110 % sobre o valor apurado.\n\n2 - A taxa aplicável à base de incidência definida pela alínea b) do artigo 3.º é de 0,000 30 % sobre o valor apurado.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176-A/2015 - Diário da República n.º 113/2015, 1º Suplemento, Série I de 2015-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2015-67477869), em vigor a partir de 2015-06-13\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 64/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/64-2014-571896), em vigor a partir de 2014-03-17"
+  },
+  "75044332": {
+   "fragment_id": "75044884",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2016-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15",
+    "Alterado pelo/a Assinatura do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165-A/2016 - Diário da República n.º 112/2016, 1º Suplemento, Série I de 2016-06-14](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2016-74699730), em vigor a partir de 2016-07-15\n\n> Alterado pelo/a Assinatura do/a [Portaria n.º 77/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/77-2012-553938), em vigor a partir de 2012-03-31"
+  }
+ }
+}

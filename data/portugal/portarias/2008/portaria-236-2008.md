@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:247034:por
+title: Portaria n.º 236/2008
+short_title: null
+summary: Altera a Portaria n.º 1323/2007, de 4 de Outubro (aprova o plano de estudos do ciclo de estudos conducente ao grau
+  de licenciado em Engenharia Biomédica ministrado pela Escola Superior de Tecnologia e de Gestão do Instituto Politécnico
+  de Bragança)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 236/2008
+official_date: null
+publication_date: '2008-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2008, Série I de 2008-03-12
+  number: '51'
+  series: I
+  supplement: null
+  pages: 1576 - 1577
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/236/2008/03/12/p/dre/pt/html
+  oj: null
+  dre: '247034'
+  dre_path: /dr/detalhe/portaria/236-2008-247034
+  internal: pt:dre:247034:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034
+  metadata_url: https://data.dre.pt/eli/port/236/2008/03/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-2008-247034
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-03-12T00:00:00Z'
+integrity:
+  source_sha256: 32362b2dd7d0af593a7eed29f2195678124604c546cf5b3eb46b88036a91e18b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-236-247034.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano de Estudos
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia e Gestão
+- Instituto Politécnico
+- Licenciatura
+- Bragança
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1323/2007/10/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1323/2007/10/04/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 236/2008
+
+de 12 de Março
+
+Sob proposta do Instituto Politécnico de Bragança e da sua Escola Superior de Tecnologia e de Gestão;
+
+Considerando o disposto na [Portaria n.º 1323/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1323-2007-641753), de 4 de Outubro, que aprovou o plano de estudos do ciclo de estudos conducente ao grau de licenciado em Engenharia Biomédica ministrado pela Escola Superior de Tecnologia e de Gestão do Instituto Politécnico de Bragança;
+
+Considerando o disposto nos artigos 13.º e 31.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os [115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro, e [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de Agosto;
+
+Ao abrigo do disposto na [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro (regime jurídico das instituições de ensino superior), no capítulo iii do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março:
+
+Manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:
+
+1.º
+
+Alteração
+
+O anexos i e ii à [Portaria n.º 1323/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1323-2007-641753), de 4 de Outubro, passam a ter a redacção constante em anexo à presente portaria.
+
+2.º
+
+Aplicação
+
+O disposto na presente portaria aplica-se a partir do ano lectivo de 2006-2007, inclusive.
+
+**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 25 de Fevereiro de 2008.**
+
+## ANEXO I — Instituto Politécnico de Bragança
+
+Escola Superior de Tecnologia e de Gestão
+
+Grau de licenciado
+
+Engenharia Biomédica
+
+Áreas científicas e créditos que devem ser reunidos para a obtenção do grau
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)
+
+## ANEXO II — Instituto Politécnico de Bragança
+
+Escola Superior de Tecnologia e de Gestão
+
+Grau de licenciado
+
+Engenharia Biomédica
+
+QUADRO N.º 1
+
+1.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)
+
+QUADRO N.º 2
+
+2.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)
+
+QUADRO N.º 3
+
+3.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)
+
+QUADRO N.º 4
+
+4.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)
+
+QUADRO N.º 5
+
+5.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)
+
+QUADRO N.º 6
+
+6.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05100/0157601577.pdf)

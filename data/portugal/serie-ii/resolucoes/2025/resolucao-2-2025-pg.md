@@ -1,0 +1,339 @@
+---
+schema_version: '1.0'
+id: pt:dre:942958355:por
+title: Resolução n.º 2/2025-PG
+short_title: null
+summary: Aprova as instruções sobre a organização, documentação e remessa ao Tribunal de Contas, na sede e nas Secções Regionais
+  dos Açores e da Madeira dos atos e contratos adicionais a contratos de empreitada de obras públicas para efeitos de fiscalização
+  concomitante e dos requerimentos com eles relacionados. ― Resolução n.º 2/2025-PG.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Tribunal de Contas
+proposing_entity: null
+official_number: 2/2025-PG
+official_date: null
+publication_date: '2025-10-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2025, Série II de 2025-10-29
+  number: '209'
+  series: II
+  supplement: null
+  pages: 166 - 173
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/10/209000000/0016600173.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '942958355'
+  dre_path: /dr/detalhe/resolucao/2-2025-942958355
+  internal: pt:dre:942958355:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-2025-942958355
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-2025-942958355
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-10-29T00:00:00Z'
+integrity:
+  source_sha256: eb5543870df6eacd8775a5d0cf3bcd869cd2e21c0ff82ebd8140926b7e202e42
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-2-942958355.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 24
+  section_count: 7
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 2/2025-PG
+
+A [Resolução n.º 4/2022-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/4-2022-181704620), publicada no Diário da República, 2.ª série, n.º 68, de 6 de abril, aprovou as instruções sobre a organização, documentação e remessa ao Tribunal de Contas dos atos e contratos adicionais a contratos de empreitada de obras públicas para efeitos de fiscalização concomitante.
+
+Na mencionada Resolução determinou-se que a remessa daqueles atos e contratos se realizaria através da Plataforma eContas, enquanto o envio de eventuais documentos destinados a completar a instrução dos respetivos processos seria efetuada por correio eletrónico.
+
+Considerando as vantagens inerentes ao uso de um único canal - a Plataforma eContas - para a integral execução das ações/operações que as entidades necessitem de realizar no contexto daquela fiscalização, foram incorporadas naquela infraestrutura tecnológica as funcionalidades necessárias para o efeito.
+
+Nestes termos, ao abrigo dos artigos 6.º, alínea b), e 75.º, alíneas d), 2.ª parte, e g), da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de agosto, na redação atualmente em vigor (Lei de Organização e Processo do Tribunal de Contas, doravante LOPTC), do disposto no artigo 15.º, alínea b), do Regulamento do Tribunal de Contas (Regulamento n.º 112/2018-PG, de 24 de janeiro de 2018, alterado por último, pela Resolução n.º 1/2025-PG, publicada no Diário da República, 2.ª série, n.º 65, de 2 de abril de 2025) e considerando ainda o estatuído no artigo 132.º do Código de Processo Civil, aplicável ex vi artigo 80.º da LOPTC, o Plenário Geral do Tribunal de Contas, em sessão de 23 de outubro de 2025, delibera:
+
+1 - Aprovar as Instruções 1/2025, sobre a organização, documentação e remessa ao Tribunal de Contas, na Sede e nas Secções Regionais dos Açores e da Madeira, dos atos e contratos adicionais a contratos de empreitada de obras públicas para efeitos de fiscalização concomitante e dos requerimentos com eles relacionados, constantes do anexo I à presente Resolução.
+
+2 - Revogar a [Resolução n.º 4/2022-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/4-2022-181704620), publicada no Diário da República, 2.ª série, n.º 68, de 6 de abril.
+
+3 - Determinar que as instruções ora aprovadas se aplicam às solicitações do Tribunal e às respostas e junção de documentos, por parte das entidades fiscalizadas, após a entrada em vigor desta Resolução, no âmbito dos processos de atos e contratos adicionais que já tenham sido submetidos à fiscalização concomitante.
+
+4 - A presente Resolução entra em vigor em 15 de dezembro de 2025.
+
+**Publique-se, nos termos da alínea d) do n.º 2 e do n.º 3 do artigo 9.º da LOPTC:**
+
+a) Na 2.ª série do Diário da República;
+
+b) No Jornal Oficial da Região Autónoma dos Açores;
+
+c) No Jornal Oficial da Região Autónoma da Madeira.
+
+23 de outubro de 2025. - A Presidente, Filipa Urbano Calvão.
+
+## Anexo à Resolução n.º 2/2025 - PG
+
+Instruções 1/2025
+
+Organização, documentação e remessa, ao Tribunal de Contas, na Sede e nas Secções Regionais dos Açores e da Madeira, dos atos e contratos adicionais a contratos de empreitada de obras públicas através da Plataforma eContas.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - As presentes instruções regulam a organização, documentação e remessa dos atos ou contratos que titulem modificações a contratos de empreitada de obras públicas já visados ou com decisão de procedência pelo Tribunal de Contas (TdC) relativas a trabalhos a mais, de suprimento de erros e omissões ou complementares, nos termos previstos no n.º 2 do artigo 47.º da LOPTC.
+
+2 - Para efeitos das presentes instruções, as modificações contratuais referidas no número anterior são doravante designadas atos ou contratos adicionais.
+
+3 - São ainda estabelecidas as regras de acesso e utilização da plataforma eContas, para efeitos de remessa dos atos ou contratos adicionais para fiscalização concomitante e de requerimentos com eles relacionados.
+
+###### Artigo 2.º — Remessa eletrónica dos processos e requerimentos
+
+1 - A remessa dos atos ou contratos adicionais para fiscalização concomitante ao Tribunal de Contas, bem como dos requerimentos com eles relacionados, é realizada, em regra, por via eletrónica através da Plataforma eContas, de acordo com as regras definidas nestas Instruções.
+
+2 - Os documentos entregues por via eletrónica devem ser corretamente digitalizados e integralmente inteligíveis.
+
+3 - A entidade fica dispensada de remeter os originais dos documentos enviados por via eletrónica, sem prejuízo do dever de os juntar sempre que o Tribunal de Contas o determine.
+
+###### Artigo 3.º — Remessa em suporte físico por impedimento técnico
+
+1 - A requerimento da entidade, o Tribunal de Contas pode autorizar, a título excecional, a remessa do ato ou contrato adicional em suporte físico, de papel ou ótico, designadamente CD-R, DVD-R ou Pen Drive (USB Flash Drive).
+
+2 - O requerimento mencionado no número anterior deve ser enviado através da Plataforma eContas ou, na impossibilidade de utilização desta, por correio eletrónico, acompanhado da documentação que comprove o impedimento técnico do envio do ato ou contrato adicional pela referida Plataforma, e de que o mesmo não é resolúvel em tempo útil.
+
+3 - Se o requerimento referido no n.º 1 do presente artigo for formulado em mensagem de correio eletrónico, esta deve ser enviada, e consoante o caso, para a caixa de correio eletrónico do Departamento de Fiscalização Concomitante na Sede, com o endereço econtas-cc@tcontas.pt, da Secção Regional dos Açores com o endereço econtas-sra-cc@tcontas.pt e na Secção Regional da Madeira com o endereço econtas-srm-cc@tcontas.pt.
+
+4 - No caso de deferimento do pedido, a instrução do respetivo processo de adicional observa, com as necessárias adaptações, o disposto nas presentes Instruções.
+
+5 - Se for autorizada a remessa do processo em suporte físico constituído por papel, a Direção-Geral do Tribunal de Contas ou o Serviço de Apoio da Secção Regional competente procede à digitalização dos requerimentos e documentos assim remetidos.
+
+### CAPÍTULO II — ORGANIZAÇÃO E INSTRUÇÃO DOS PROCESSOS DE ADICIONAIS
+
+###### Artigo 4.º — Individualização do processo do adicional
+
+Por cada ato ou contrato adicional é organizado e remetido ao TdC um processo que integra os elementos instrutórios referidos nestas instruções.
+
+###### Artigo 5.º — Elementos instrutórios comuns
+
+1 - O processo relativo a ato ou contrato adicional integra, obrigatoriamente, a decisão ou deliberação de adjudicação ou de autorização dos trabalhos e, caso exista, o respetivo contrato adicional;
+
+2 - Para além dos elementos instrutórios previstos no artigo seguinte, o processo deve ser acompanhado dos seguintes documentos:
+
+a) Fundamentação da adjudicação ou da autorização dos trabalhos;
+
+b) Relação discriminada dos trabalhos objeto do ato ou contrato adicional;
+
+c) Comunicações do gestor do contrato ao contraente público respeitantes a desvios, defeitos ou outras anomalias na execução do contrato e eventuais relatórios produzidos por aquele contendo as respetivas medidas corretivas, quando for o caso;
+
+d) Evidência da publicitação do contrato adicional no Portal dos Contratos Públicos e no Jornal Oficial da União Europeia nos casos em que é legalmente exigido;
+
+e) Ordens de execução dos trabalhos objeto do ato ou contrato adicional incluindo, se for o caso, as que determinam a não execução de trabalhos contratuais.
+
+3 - As entidades podem ainda apresentar outros documentos que reputem indispensáveis ao conhecimento de factos essenciais à instrução do processo relativo ao ato ou contrato adicional.
+
+###### Artigo 6.º — Elementos instrutórios específicos
+
+1 - Sempre que legalmente exigíveis, o processo integra ainda os seguintes documentos:
+
+a) A autorização da respetiva despesa exceto se esta constar do documento que integra a decisão ou deliberação de adjudicação ou de autorização dos trabalhos referida no n.º 1 do artigo anterior;
+
+b) Informações de cabimento e compromisso orçamentais da despesa;
+
+c) Comprovativo do registo do compromisso, com evidência da respetiva numeração e data de registo, extraído do sistema informático de apoio à execução orçamental;
+
+d) A existência de fundos disponíveis para a assunção do respetivo compromisso, evidenciada em mapa extraído do sistema informático;
+
+e) Informação de controlo dos fundos disponíveis, demonstrativa de que o compromisso assumido não ultrapassou os fundos disponíveis.
+
+2 - As entidades não incluídas no âmbito de aplicação da Lei de Enquadramento Orçamental deverão juntar uma declaração que ateste que os saldos da execução orçamental da despesa permitem suportar os encargos financeiros decorrentes do ato ou contrato adicional, devidamente datada e assinada, com a identificação nominal e funcional do signatário.
+
+3 - A informação exigida no presente artigo deve ser prestada em conformidade com os mapas e modelos de declaração disponibilizados para o efeito na Plataforma eContas.
+
+###### Artigo 7.º — Pluralidade de contraentes públicos
+
+1 - Se várias entidades figurarem no contrato de empreitada visado ou com decisão de procedência como contraentes públicos na aceção do Código dos Contratos Públicos, o envio do respetivo ato ou contrato adicional deve ser efetuado por aquela que, no pretérito, submeteu o contrato de empreitada a fiscalização prévia do TdC.
+
+2 - Na situação prevista no número anterior, o ato ou contrato deve ainda ser instruído com os elementos indicados no n.º 2 do artigo 5.º e no artigo 6.º referentes aos demais contraentes públicos em função das obrigações assumidas por cada um deles no quadro da execução do contrato da empreitada.
+
+###### Artigo 8.º — Identificação dos autores dos atos
+
+Os atos que integram o processo do adicional, incluindo as declarações prestadas de acordo com os modelos disponibilizados na Plataforma eContas, nomeadamente os relativos à autorização das respetivas despesas, devem ser datados e conter de forma legível a identificação nominal e funcional dos respetivos autores.
+
+###### Artigo 9.º — Deliberações de órgãos colegiais
+
+1 - Quando os processos forem instruídos com deliberações de órgãos colegiais, é remetida cópia da ata da reunião em que foram tomadas.
+
+2 - Sem prejuízo do regime aplicável às deliberações do respetivo órgão, a ata deve conter, pelo menos, a indicação do número de membros em efetividade de funções, a clara identificação dos membros presentes, a menção da data da reunião, o sentido de voto de cada participante e eventuais declarações de voto.
+
+###### Artigo 10.º — Delegação ou subdelegação de competências e suplência
+
+1 - Quando algum ato tenha sido praticado ou algum contrato outorgado ao abrigo de delegação ou subdelegação de poderes, para além da menção dessa circunstância, deve o processo ser instruído com os documentos necessários à sua comprovação, nomeadamente com cópia da respetiva publicação no Diário da República ou no Boletim Autárquico, consoante o caso e sempre que legalmente exigível.
+
+2 - O disposto no número anterior é aplicável, com as devidas adaptações, aos casos de suplência.
+
+3 - As entidades a que se referem as alíneas a), b) e c) do n.º 2 do artigo 2.º, bem como as previstas na segunda parte da alínea c) do n.º 1 do artigo 5.º, ambos da LOPTC, devem instruir os respetivos processos com documento que evidencie a distribuição interna de competências no que respeita às áreas financeira e de contratação e, caso existam delegações de competências para as referidas áreas ou para a prática de atos no âmbito do processo relativo ao ato ou contrato adicional submetido a fiscalização concomitante, documento que o comprove.
+
+###### Artigo 11.º — Informações e elementos complementares
+
+Para completa instrução dos processos ou para o seu esclarecimento, podem ser solicitadas as informações ou os elementos complementares que se mostrem necessários.
+
+### CAPÍTULO III — PRAZO PARA A REMESSA DE ATOS E CONTRATOS ADICIONAIS
+
+###### Artigo 12.º — Prazo de remessa
+
+1 - A remessa do ato ou contrato adicional para fiscalização concomitante observa o prazo estabelecido no n.º 2 do artigo 47.º da LOPTC e é contado em dias úteis.
+
+2 - O prazo referido no número anterior começa a correr com o início da execução dos trabalhos previstos no ato ou contrato adicional.
+
+### CAPÍTULO IV — REGRAS DE ACESSO E UTILIZAÇÃO DA PLATAFORMA ECONTAS
+
+#### SECÇÃO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 12.º — Plataforma eContas
+
+A Plataforma eContas encontra-se disponível no sítio da Internet com o endereço https://econtas.tcontas.pt, também acessível através do sítio do Tribunal de Contas na Internet, com o endereço http://www.tcontas.pt/.
+
+###### Artigo 13.º — Regras de acesso e utilização da Plataforma eContas
+
+1 - São aplicáveis aos processos dos adicionais, com as necessárias adaptações, as regras de acesso e utilização da Plataforma eContas previstas nos artigos 21.º a 23.º das Instruções 1/2022, constantes do Anexo I à [Resolução n.º 3/2022-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2022-181847611), publicada no Diário da República, 2.ª série, n.º 70, de 8 de abril de 2022, alterada pela [Resolução n.º 3/2024-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2025-901997664), publicada no Diário da República, 2.ª série, n.º 2, de 3 de janeiro de 2025.
+
+2 - São ainda aplicáveis, com as necessárias adaptações, as condições gerais de utilização da Plataforma eContas, previstas no Anexo II da mencionada Resolução.
+
+3 - Para além das presentes instruções, os procedimentos relativos ao envio dos processos respeitantes a atos e contratos adicionais, consulta dos processos remetidos e demais informação explicativa de outras funcionalidades facultadas pela Plataforma eContas constam na área da «Fiscalização Concomitante», bem como da reservada a “Perguntas frequentes” (FAQ).
+
+#### SECÇÃO II — COMPOSIÇÃO E SUBMISSÃO DE REQUERIMENTOS
+
+###### Artigo 14.º — Formulários
+
+A apresentação de requerimentos relativos a atos e contratos adicionais é efetuada através do preenchimento interativo de formulários.
+
+###### Artigo 15.º — Requerimentos
+
+1 - A Plataforma eContas disponibiliza requerimentos para fins específicos, nomeadamente:
+
+a) Remessa de ato ou contrato adicional para fiscalização concomitante;
+
+b) Pedido de prorrogação do prazo de remessa de ato ou contrato adicional para fiscalização concomitante;
+
+c) Resposta a solicitação de elementos ou diligências instrutórias por parte do Tribunal de Contas;
+
+d) Remessa de elementos destinados a completar a instrução do processo relativo a ato ou contrato adicional.
+
+2 - Na ausência de requerimento específico para a finalidade que se pretende, a entidade deve utilizar um modelo de requerimento avulso, também disponibilizado na Plataforma eContas.
+
+3 - Os requerimentos específicos disponibilizados na Plataforma eContas são de utilização obrigatória.
+
+4 - A entidade pode formular o pedido em local próprio do requerimento ou complementá-lo em documento anexo.
+
+5 - Os requerimentos devem ser acompanhados de ficheiros com os documentos necessários à apreciação da pretensão formulada no requerimento.
+
+6 - A informação inserida nos formulários é refletida num documento eletrónico que, juntamente com os ficheiros anexos, faz parte, para todos os efeitos, do requerimento apresentado.
+
+7 - Em caso de desconformidade entre o conteúdo dos formulários e o conteúdo dos ficheiros anexos, prevalece a informação constante destes últimos, sem prejuízo da possibilidade de correção dos formulários, a requerimento da entidade.
+
+###### Artigo 16.º — Resposta a solicitação de elementos ou diligências instrutórias
+
+A resposta da entidade a solicitação de elementos ou diligências instrutórias do Tribunal de Contas deve ser prestada em local próprio do requerimento ou complementada em documento a este anexo.
+
+###### Artigo 17.º — Organização e nomenclatura dos ficheiros anexos a requerimentos
+
+1 - Cada ficheiro deve conter um único documento instrutório, exceto quando entre eles exista uma conexão direta, nomeadamente se a separação dos documentos e subsequente integração em ficheiros diferenciados não for tecnicamente possível ou comprometa a integridade dos documentos assinados com recurso a certificado de assinatura eletrónica avançada.
+
+2 - O nome dos ficheiros obedece às seguintes regras:
+
+a) Não pode exceder 70 caracteres, incluindo espaços;
+
+b) Admite qualquer letra de A a Z (maiúscula e minúscula) não acentuada, números (0 a 9), os sinais gráficos hífen (“ -“) e underscore (“_”), bem como o espaço (“ “), desde que este último não anteceda o sinal (“.”), que marca a extensão do ficheiro (ex. “Projeto.pdf”);
+
+c) Deve permitir identificar o seu conteúdo (exs: “Deliberacao da Camara_maio_2025”, “Parecer_dos_Servicos”).
+
+3 - Cada ficheiro deve ter um nome diferente dos demais e o seu conteúdo ser obrigatoriamente descrito com suficiente exatidão em local próprio do requerimento.
+
+###### Artigo 18.º — Formato e dimensão dos ficheiros anexos
+
+1 - Os ficheiros anexos ao requerimento devem ter os seguintes formatos:
+
+a) Portable document format (PDF), preferencialmente na versão PDF/A e com conteúdo pesquisável, quando se trate de documento escrito;
+
+b) Portable Network Graphics (PNG) ou Joint Photographic Experts Group (JPEG),
+
+quando o documento seja exclusivamente uma imagem.
+
+2 - Cada ficheiro anexo não pode exceder a dimensão de 30 Mb.
+
+3 - Nos casos em que a dimensão do ficheiro exceda o limite indicado no número anterior, aquele deve ser dividido no menor número possível de ficheiros que respeitem esse limite.
+
+###### Artigo 19.º — Submissão de requerimentos
+
+1 - A submissão de requerimentos só é permitida a utilizadores com o perfil de “Responsável máximo da entidade” ou de “Utilizador autorizado” nos termos definidos nas condições gerais de utilização da Plataforma eContas, constantes no Anexo II da [Resolução n.º 3/2022-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2022-181847611), referida no n.º 1 do artigo 13.º
+
+2 - O disposto no número anterior não é aplicável à submissão de requerimentos avulsos conexos com a fiscalização concomitante, a qual pode ser efetuada por qualquer utilizador, independentemente do seu perfil de acesso.
+
+3 - A submissão dos requerimentos é condicionada pela prestação da informação obrigatória indicada nos formulários que os integram e, quando for o caso, pela junção de ficheiros com o conteúdo neles identificado.
+
+4 - A finalização do procedimento de submissão dos requerimentos fica dependente:
+
+a) Da inserção de um código próprio; ou
+
+b) No caso dos requerimentos referidos no n.º 2 do presente artigo, de expressa confirmação do seu envio.
+
+5 - O requerimento só é considerado validamente submetido após a emissão do respetivo comprovativo eletrónico de entrega, com a indicação da data e da hora em que esta ocorreu.
+
+###### Artigo 20.º — Registo de requerimentos
+
+A submissão de requerimentos é objeto de registo eletrónico automático, assegurado pelo sistema informático de apoio à atividade do Tribunal de Contas, que disponibiliza de imediato os respetivos documentos comprovativos de entrega.
+
+###### Artigo 21.º — Comunicações e notificações
+
+1 - As comunicações e notificações à entidade, relativas a requerimentos recebidos, são realizadas por via eletrónica através do sistema informático de apoio à atividade do Tribunal de Contas, que assegura automaticamente a sua disponibilização e consulta na área reservada da entidade na Plataforma eContas.
+
+2 - A entidade é avisada da existência de novas comunicações e notificações do Tribunal de Contas, por mensagem enviada para o endereço de correio eletrónico anteriormente indicado pela entidade no seu pedido de registo no sistema informático referido no número anterior.
+
+### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+###### Artigo 22.º — Utilizadores registados na Plataforma eContas
+
+Os utilizadores das entidades que, na data de entrada em vigor destas instruções, já se encontrem registados e ativos na área da fiscalização concomitante da plataforma eContas, mantêm o acesso àquela área em conformidade com o seu perfil de utilizador.
+
+###### Artigo 23.º — Direito aplicável
+
+Em tudo quanto não estiver regulado nas presentes instruções, é subsidiariamente aplicável, com as necessárias adaptações, as instruções em vigor relativas à organização, impulso e tramitação de processos de fiscalização prévia do Tribunal de Contas por via eletrónica através da Plataforma eContas.

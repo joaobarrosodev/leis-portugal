@@ -1,0 +1,367 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:609646:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-162830372",
+ "dre_path": "/dr/detalhe/decreto-lei/167-1991-609646",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162834646",
+    "162834613",
+    "162834614",
+    "162834615",
+    "162834616",
+    "162834617",
+    "162834618",
+    "162834619",
+    "162834620",
+    "162834621",
+    "162834622",
+    "162834623",
+    "162834624"
+   ]
+  },
+  {
+   "date": "1999-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:667351:por",
+     "title": "Decreto-Lei n.º 419/99",
+     "published": "1999-10-21",
+     "dre_path": "/dr/detalhe/decreto-lei/419-1999-667351"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "162834612",
+    "162834613",
+    "162834614",
+    "162834615",
+    "162834644",
+    "162834645",
+    "162834618",
+    "162834619",
+    "162834620",
+    "162834621",
+    "162834622",
+    "162834623",
+    "162834624",
+    "162834625"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162834646",
+    "162834647",
+    "162834648",
+    "162834649",
+    "162834650",
+    "162834651",
+    "162834652",
+    "162834653",
+    "162834654",
+    "162834655",
+    "162834656",
+    "162834657",
+    "162834658",
+    "162834659"
+   ]
+  }
+ ],
+ "fragments": {
+  "162834646": {
+   "fragment_id": "162830373",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 167/91\n\nde 9 de Maio\n\nNos últimos anos o papel da Direcção-Geral do Tesouro foi substancialmente alterado, tendo deixado de ser o de mero banqueiro do Orçamento do Estado, arrecadando as receitas e efectuando o pagamento das despesas, como órgão, essencialmente, de tesouraria.\n\nNeste momento, o Tesouro abarca, com efeito, um conjunto de funções que vão desde a tradicional administração do Tesouro e administração financeira do Estado até à intervenção no estudo, execução e controlo das políticas monetária, financeira e cambial.\n\nAs alterações descritas determinam que, para além do aumento considerável de volume de trabalho, também a Direcção-Geral do Tesouro se veja confrontada com uma série de funções de maior complexidade e em que o seu pessoal está obrigado a assegurar um mais elevado grau de produtividade, com a consequente necessidade de maior aperfeiçoamento e tecnicidade do trabalho desenvolvido.\n\nIsto ficou, aliás, bem claro no preâmbulo do Decreto-Lei n.º 76/90, de 12 de Março, em que foi criada no Ministério das Finanças uma Comissão para a Reforma do Tesouro.\n\nIndependentemente de outras medidas, torna-se imperioso proceder, desde já, à reformulação das carreiras do pessoal técnico, as quais, para além do desfasamento face às circunstâncias atrás referidas, viram, ainda, aumentar esse desfasamento em relação às carreiras técnicas de regime geral com a publicação do Decreto-Lei n.º 265/88, de 28 de Julho.\n\nVem, pois, o presente diploma repor e adaptar a estrutura da carreira técnica de fazenda e do pessoal das tesourarias da Fazenda Pública aos condicionalismos referidos.\n\nPor outro lado, sendo as referidas carreiras consideradas de regime especial pelo artigo 29.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, importa dar-lhe execução, fixando as respectivas estruturas remuneratórias e de transição, bem como a escala de transição da carreira técnica superior, por forma a garantir, de imediato, o necessário equilíbrio interno.\n\nO presente diploma foi, nos termos do Decreto-Lei n.º 45-A/84, de 3 de Fevereiro, antecedido de negociações com as organizações sindicais, as quais concluíram pelo estabelecimento de protocolos de acordo com a FESAP e com o Sindicato dos Trabalhadores dos Impostos, pelo que toca ao pessoal dirigente e técnico das tesourarias da Fazenda Pública.\n\nAssim:\n\nAo abrigo do disposto no artigo 29.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "162834613": {
+   "fragment_id": "162830374",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO pessoal dirigente e o pessoal técnico exactor das tesourarias da Fazenda Pública, referido no Decreto-Lei n.º 519-A1/79, de 29 de Dezembro, passa a ser remunerado pelas escalas indiciárias constantes dos mapas I e II anexos a este decreto-lei."
+  },
+  "162834614": {
+   "fragment_id": "162834675",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Sem prejuízo do disposto nos números seguintes, o recrutamento para as categorias de pessoal dirigente e técnico exactor das tesourarias da Fazenda Pública faz-se nos termos das disposições legais aplicáveis.\n\n2 - O recrutamento para a categoria de tesoureiro de 3.ª classe é feito de entre:\n\na) Indivíduos habilitados com curso superior adequado que não confira o grau de licenciatura;\n\nb) Tesoureiros-ajudantes principais com três anos de bom e efectivo serviço.\n\n3 - Só podem ser providos nos termos da alínea b) do número anterior 50% dos lugares postos a concurso, sendo que, no caso de se tratar de número ímpar de lugares, o lugar remanescente é provido de entre os candidatos com os requisitos estabelecidos na alínea a)."
+  },
+  "162834615": {
+   "fragment_id": "162834676",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- A categoria de director de fazenda prevista no grupo de pessoal dirigente do quadro a que se refere a Portaria n.º 956/87, de 26 de Dezembro, passa a ser remunerada pela escala indiciária constante do mapa III anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "162834616": {
+   "fragment_id": "162834677",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A carreira a que se refere o artigo 4.º do Decreto-Lei n.º 163/81, de 12 de Junho, integrada no grupo de pessoal técnico do quadro estabelecido pela Portaria n.º 956/87, de 26 de Dezembro, passa a desenvolver-se pelas categorias de subdirector de fazenda, técnico de fazenda especialista, técnico de fazenda principal, técnico de fazenda de 1.ª classe e técnico de fazenda de 2.ª classe, correspondendo-lhe a escala indiciária constante do mapa IV anexo a este diploma, do qual faz parte integrante.\n\n2 - O recrutamento para as categorias da carreira técnica de fazenda obedece às seguintes regras:\n\na) Subdirector de fazenda, de entre técnicos de fazenda especialistas aprovados em curso complementar de formação profissional, com, pelo menos, três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados de Bom;\n\nb) Técnico de fazenda especialista, de entre técnicos de fazenda principais com, pelo menos, três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados de Bom;\n\nc) Técnico de fazenda principal, de entre técnicos de fazenda de 1.ª classe, aprovados no curso geral de formação profissional, com, pelo menos, três anos de serviço na categoria, classificados, no mínimo, de Bom;\n\nd) Técnico de fazenda de 1.ª classe, de entre técnicos de fazenda de 2.ª classe, com, pelo menos, três anos de serviço na categoria, classificados, no mínimo, de Bom;\n\ne) Técnico de fazenda de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira grau de licenciatura considerado adequado e que sejam aprovados em estágio, com classificação não inferior a Bom (14 valores)."
+  },
+  "162834617": {
+   "fragment_id": "162834678",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - O regime de estágio para a carreira técnica de fazenda é o previsto no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, com as alterações decorrentes do disposto no Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n2 - O regulamento, programas e provas dos cursos de formação profissional exigidos para acesso na carreira, a que se refere o artigo 4.º, serão fixados por portaria do Ministro das Finanças."
+  },
+  "162834618": {
+   "fragment_id": "162834679",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - A promoção nas carreiras abrangidas pelo presente diploma faz-se da seguinte forma:\n\na) Para o escalão 1 da categoria para a qual se faz a promoção;\n\nb) Para o escalão a que, na estrutura remuneratória da categoria para a qual se faz a promoção, corresponda o índice superior mais aproximado, se o funcionário auferir já remuneração igual ou superior à do escalão 1.\n\n2 - A progressão faz-se por mudança de escalão após a permanência de três anos no escalão imediatamente anterior."
+  },
+  "162834619": {
+   "fragment_id": "162834680",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - A transição para a nova estrutura das carreiras técnica de fazenda e técnico exactor das tesourarias da Fazenda Pública obedece à tabela constante do mapa V anexo ao presente diploma e às regras constantes dos números seguintes.\n\n2 - Transitam para a categoria de técnico de fazenda de 2.ª classe os auxiliares de fazenda de 1.ª e 2.ª classes, providos em lugares do quadro à data da publicação do presente diploma, que contem mais de três anos de efectivo serviço no conjunto das referidas categorias ou em qualquer delas, classificados, no mínimo, de Bom.\n\n3 - Transitam, também, para a categoria de técnico de fazenda de 2.ª classe, ocupando lugares no quadro, os agentes que, como auxiliares de fazenda de 2.ª classe, ingressaram no quadro de efectivos interdepartamentais do Ministério das Finanças e se encontrem a exercer funções na Direcção-Geral do Tesouro há mais de três anos.\n\n4 - Transitam para a categoria de tesoureiro-ajudante os tesoureiros-ajudantes de 1.ª e 2.ª classes."
+  },
+  "162834620": {
+   "fragment_id": "162834681",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Para todos os efeitos legais, com excepção dos remuneratórios, releva o tempo de serviço prestado nas actuais categorias da carreira técnica de fazenda como se fosse prestado nas categorias para que se processa a transição.\n\n2 - Releva para os mesmos efeitos, com se fora prestado na categoria de tesoureiro-ajudante, o tempo de serviço prestado nas actuais categorias de tesoureiro-ajudante de 1.ª e 2.ª classes."
+  },
+  "162834621": {
+   "fragment_id": "162834682",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO pessoal dirigente e técnico exactor das tesourarias da Fazenda Pública, bem como o pessoal técnico superior e técnico de fazenda da Direcção-Geral do Tesouro, transitam para a nova estrutura salarial de acordo, respectivamente, com os mapas VI, VII e VIII anexos ao presente diploma, do qual fazem parte integrante."
+  },
+  "162834622": {
+   "fragment_id": "162834683",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.\n\n2 - Para efeitos de cálculo das remunerações no período compreendido entre 1 de Outubro de 1989 e a data da entrada em vigor do presente diploma atender-se-á, nos casos previstos no número precedente, ao índice atribuído à situação que o funcionário detinha até à data em que se verificou a mudança de categoria."
+  },
+  "162834623": {
+   "fragment_id": "162834684",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO quadro de pessoal aprovado pela Portaria n.º 956/87, de 26 de Dezembro, é alterado, na parte respeitante à carreira técnica de fazenda, nos termos do mapa IX anexo ao presente diploma."
+  },
+  "162834624": {
+   "fragment_id": "162834685",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- Mantêm-se válidos os concursos abertos à data da entrada em vigor do presente diploma, fazendo-se os provimentos para as categorias que resultarem da nova estrutura das carreiras a que se referem os artigos 1.º e 4.º\n\nArti. 13.º Em tudo o que não esteja expressamente previsto no presente diploma é aplicável ao pessoal referido nos artigos 1.º, 3.º e 4.º o disposto no Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\nArt. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no que respeita à nova estrutura salarial, desde 1 de Outubro de 1989."
+  },
+  "162834612": {
+   "fragment_id": "162830373",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 167/91\n\nde 9 de Maio\n\nNos últimos anos o papel da Direcção-Geral do Tesouro foi substancialmente alterado, tendo deixado de ser o de mero banqueiro do Orçamento do Estado, arrecadando as receitas e efectuando o pagamento das despesas, como órgão, essencialmente, de tesouraria.\n\nNeste momento, o Tesouro abarca, com efeito, um conjunto de funções que vão desde a tradicional administração do Tesouro e administração financeira do Estado até à intervenção no estudo, execução e controlo das políticas monetária, financeira e cambial.\n\nAs alterações descritas determinam que, para além do aumento considerável de volume de trabalho, também a Direcção-Geral do Tesouro se veja confrontada com uma série de funções de maior complexidade e em que o seu pessoal está obrigado a assegurar um mais elevado grau de produtividade, com a consequente necessidade de maior aperfeiçoamento e tecnicidade do trabalho desenvolvido.\n\nIsto ficou, aliás, bem claro no preâmbulo do Decreto-Lei n.º 76/90, de 12 de Março, em que foi criada no Ministério das Finanças uma Comissão para a Reforma do Tesouro.\n\nIndependentemente de outras medidas, torna-se imperioso proceder, desde já, à reformulação das carreiras do pessoal técnico, as quais, para além do desfasamento face às circunstâncias atrás referidas, viram, ainda, aumentar esse desfasamento em relação às carreiras técnicas de regime geral com a publicação do Decreto-Lei n.º 265/88, de 28 de Julho.\n\nVem, pois, o presente diploma repor e adaptar a estrutura da carreira técnica de fazenda e do pessoal das tesourarias da Fazenda Pública aos condicionalismos referidos.\n\nPor outro lado, sendo as referidas carreiras consideradas de regime especial pelo artigo 29.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, importa dar-lhe execução, fixando as respectivas estruturas remuneratórias e de transição, bem como a escala de transição da carreira técnica superior, por forma a garantir, de imediato, o necessário equilíbrio interno.\n\nO presente diploma foi, nos termos do Decreto-Lei n.º 45-A/84, de 3 de Fevereiro, antecedido de negociações com as organizações sindicais, as quais concluíram pelo estabelecimento de protocolos de acordo com a FESAP e com o Sindicato dos Trabalhadores dos Impostos, pelo que toca ao pessoal dirigente e técnico das tesourarias da Fazenda Pública.\n\nAssim:\n\nAo abrigo do disposto no artigo 29.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, e nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "162834644": {
+   "fragment_id": "162834677",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1999-10-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A carreira a que se refere o artigo 4.º do Decreto-Lei n.º 163/81, de 12 de Junho, integrada no grupo de pessoal técnico do quadro estabelecido pela Portaria n.º 956/87, de 26 de Dezembro, passa a desenvolver-se pelas categorias de subdirector de fazenda, técnico de fazenda especialista, técnico de fazenda principal, técnico de fazenda de 1.ª classe e técnico de fazenda de 2.ª classe, correspondendo-lhe a escala indiciária constante do mapa IV anexo a este diploma, do qual faz parte integrante.\n\n2 - O recrutamento para as categorias da carreira técnica de fazenda obedece às seguintes regras:\n\na) Subdirector de fazenda, de entre técnicos de fazenda especialistas aprovados em curso complementar de formação profissional, com, pelo menos, três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados de Bom;\n\nb) Técnico de fazenda especialista, de entre técnicos de fazenda principais com, pelo menos, três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados de Bom;\n\nc) Técnico de fazenda principal, de entre técnicos de fazenda de 1.ª classe, aprovados no curso geral de formação profissional, com, pelo menos, três anos de serviço na categoria, classificados, no mínimo, de Bom;\n\nd) Técnico de fazenda de 1.ª classe, de entre técnicos de fazenda de 2.ª classe, com, pelo menos, três anos de serviço na categoria, classificados, no mínimo, de Bom;\n\ne) Técnico de fazenda de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira grau de licenciatura considerado adequado e que sejam aprovados em estágio, com classificação não inferior a Bom (14 valores).\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+  },
+  "162834645": {
+   "fragment_id": "162834678",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1999-10-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - O regime de estágio para a carreira técnica de fazenda é o previsto no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, com as alterações decorrentes do disposto no Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n2 - O regulamento, programas e provas dos cursos de formação profissional exigidos para acesso na carreira, a que se refere o artigo 4.º, serão fixados por portaria do Ministro das Finanças.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+  },
+  "162834625": {
+   "fragment_id": "162834686",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 24 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Abril de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nDo MAPA I ao MAPA IX\n\n(ver documento original)"
+  },
+  "162834647": {
+   "fragment_id": "162830374",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO pessoal dirigente e o pessoal técnico exactor das tesourarias da Fazenda Pública, referido no Decreto-Lei n.º 519-A1/79, de 29 de Dezembro, passa a ser remunerado pelas escalas indiciárias constantes dos mapas I e II anexos a este decreto-lei.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834648": {
+   "fragment_id": "162834675",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Sem prejuízo do disposto nos números seguintes, o recrutamento para as categorias de pessoal dirigente e técnico exactor das tesourarias da Fazenda Pública faz-se nos termos das disposições legais aplicáveis.\n\n2 - O recrutamento para a categoria de tesoureiro de 3.ª classe é feito de entre:\n\na) Indivíduos habilitados com curso superior adequado que não confira o grau de licenciatura;\n\nb) Tesoureiros-ajudantes principais com três anos de bom e efectivo serviço.\n\n3 - Só podem ser providos nos termos da alínea b) do número anterior 50% dos lugares postos a concurso, sendo que, no caso de se tratar de número ímpar de lugares, o lugar remanescente é provido de entre os candidatos com os requisitos estabelecidos na alínea a).\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834649": {
+   "fragment_id": "162834676",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\n- A categoria de director de fazenda prevista no grupo de pessoal dirigente do quadro a que se refere a Portaria n.º 956/87, de 26 de Dezembro, passa a ser remunerada pela escala indiciária constante do mapa III anexo ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834650": {
+   "fragment_id": "162834677",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A carreira a que se refere o artigo 4.º do Decreto-Lei n.º 163/81, de 12 de Junho, integrada no grupo de pessoal técnico do quadro estabelecido pela Portaria n.º 956/87, de 26 de Dezembro, passa a desenvolver-se pelas categorias de subdirector de fazenda, técnico de fazenda especialista, técnico de fazenda principal, técnico de fazenda de 1.ª classe e técnico de fazenda de 2.ª classe, correspondendo-lhe a escala indiciária constante do mapa IV anexo a este diploma, do qual faz parte integrante.\n\n2 - O recrutamento para as categorias da carreira técnica de fazenda obedece às seguintes regras:\n\na) Subdirector de fazenda, de entre técnicos de fazenda especialistas aprovados em curso complementar de formação profissional, com, pelo menos, três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados de Bom;\n\nb) Técnico de fazenda especialista, de entre técnicos de fazenda principais com, pelo menos, três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados de Bom;\n\nc) Técnico de fazenda principal, de entre técnicos de fazenda de 1.ª classe, aprovados no curso geral de formação profissional, com, pelo menos, três anos de serviço na categoria, classificados, no mínimo, de Bom;\n\nd) Técnico de fazenda de 1.ª classe, de entre técnicos de fazenda de 2.ª classe, com, pelo menos, três anos de serviço na categoria, classificados, no mínimo, de Bom;\n\ne) Técnico de fazenda de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira grau de licenciatura considerado adequado e que sejam aprovados em estágio, com classificação não inferior a Bom (14 valores).\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+  },
+  "162834651": {
+   "fragment_id": "162834678",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - O regime de estágio para a carreira técnica de fazenda é o previsto no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, com as alterações decorrentes do disposto no Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n2 - O regulamento, programas e provas dos cursos de formação profissional exigidos para acesso na carreira, a que se refere o artigo 4.º, serão fixados por portaria do Ministro das Finanças.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 419/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351), em vigor a partir de 1999-10-26"
+  },
+  "162834652": {
+   "fragment_id": "162834679",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - A promoção nas carreiras abrangidas pelo presente diploma faz-se da seguinte forma:\n\na) Para o escalão 1 da categoria para a qual se faz a promoção;\n\nb) Para o escalão a que, na estrutura remuneratória da categoria para a qual se faz a promoção, corresponda o índice superior mais aproximado, se o funcionário auferir já remuneração igual ou superior à do escalão 1.\n\n2 - A progressão faz-se por mudança de escalão após a permanência de três anos no escalão imediatamente anterior.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834653": {
+   "fragment_id": "162834680",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 7.º\n\n- 1 - A transição para a nova estrutura das carreiras técnica de fazenda e técnico exactor das tesourarias da Fazenda Pública obedece à tabela constante do mapa V anexo ao presente diploma e às regras constantes dos números seguintes.\n\n2 - Transitam para a categoria de técnico de fazenda de 2.ª classe os auxiliares de fazenda de 1.ª e 2.ª classes, providos em lugares do quadro à data da publicação do presente diploma, que contem mais de três anos de efectivo serviço no conjunto das referidas categorias ou em qualquer delas, classificados, no mínimo, de Bom.\n\n3 - Transitam, também, para a categoria de técnico de fazenda de 2.ª classe, ocupando lugares no quadro, os agentes que, como auxiliares de fazenda de 2.ª classe, ingressaram no quadro de efectivos interdepartamentais do Ministério das Finanças e se encontrem a exercer funções na Direcção-Geral do Tesouro há mais de três anos.\n\n4 - Transitam para a categoria de tesoureiro-ajudante os tesoureiros-ajudantes de 1.ª e 2.ª classes.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834654": {
+   "fragment_id": "162834681",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Para todos os efeitos legais, com excepção dos remuneratórios, releva o tempo de serviço prestado nas actuais categorias da carreira técnica de fazenda como se fosse prestado nas categorias para que se processa a transição.\n\n2 - Releva para os mesmos efeitos, com se fora prestado na categoria de tesoureiro-ajudante, o tempo de serviço prestado nas actuais categorias de tesoureiro-ajudante de 1.ª e 2.ª classes.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834655": {
+   "fragment_id": "162834682",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 9.º\n\nO pessoal dirigente e técnico exactor das tesourarias da Fazenda Pública, bem como o pessoal técnico superior e técnico de fazenda da Direcção-Geral do Tesouro, transitam para a nova estrutura salarial de acordo, respectivamente, com os mapas VI, VII e VIII anexos ao presente diploma, do qual fazem parte integrante.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834656": {
+   "fragment_id": "162834683",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.\n\n2 - Para efeitos de cálculo das remunerações no período compreendido entre 1 de Outubro de 1989 e a data da entrada em vigor do presente diploma atender-se-á, nos casos previstos no número precedente, ao índice atribuído à situação que o funcionário detinha até à data em que se verificou a mudança de categoria.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834657": {
+   "fragment_id": "162834684",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 11.º\n\nO quadro de pessoal aprovado pela Portaria n.º 956/87, de 26 de Dezembro, é alterado, na parte respeitante à carreira técnica de fazenda, nos termos do mapa IX anexo ao presente diploma.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834658": {
+   "fragment_id": "162834685",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 12.º\n\n- Mantêm-se válidos os concursos abertos à data da entrada em vigor do presente diploma, fazendo-se os provimentos para as categorias que resultarem da nova estrutura das carreiras a que se referem os artigos 1.º e 4.º\n\nArti. 13.º Em tudo o que não esteja expressamente previsto no presente diploma é aplicável ao pessoal referido nos artigos 1.º, 3.º e 4.º o disposto no Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\nArt. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no que respeita à nova estrutura salarial, desde 1 de Outubro de 1989.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162834659": {
+   "fragment_id": "162834686",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 24 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Abril de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nDo MAPA I ao MAPA IX\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

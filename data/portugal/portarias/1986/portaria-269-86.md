@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:226856:por
+title: Portaria n.º 269/86
+short_title: null
+summary: Regulamenta alguns normativos do Decreto-Lei n.º 100-B/85, de 8 de Abril, e estabelece regras para um mais eficiente
+  regime de fiscalização do ensino superior particular e cooperativo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 269/86
+official_date: null
+publication_date: '1986-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/1986, Série I de 1986-06-03
+  number: '126'
+  series: I
+  supplement: null
+  pages: 1312 - 1313
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12600/13121313.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '226856'
+  dre_path: /dr/detalhe/portaria/269-1986-226856
+  internal: pt:dre:226856:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-1986-226856
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-1986-226856
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-01-19T00:00:00Z'
+integrity:
+  source_sha256: 5fd579936cb3c1c14859a418d4bc0c0ae6b72ab21a949e3a1c401f47d770bbdf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-269-226856.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:283492:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 269/86
+
+de 3 de Junho
+
+A experiência já obtida pela aplicação do regime estabelecido pelo [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, se, por um lado, permitiu já detectar a existência de algumas lacunas na sua regulamentação, por outro forneceu argumentos práticos que impõem que não seja adiada por mais tempo a previsão do artigo 33.º daquele diploma.
+
+Trata-se, naturalmente, de uma regulamentação transitória, tendo em conta que o ensino superior particular ou cooperativo terá de ter o seu estatuto regulamentar próprio. Contudo, as regras agora estabelecidas fornecerão, por certo, ensinamentos úteis à elaboração futura daquele estatuto.
+
+Ao abrigo do disposto no artigo 33.º do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, o seguinte:
+
+1.º À criação de novos cursos ou à alteração curricular dos já ministrados em estabelecimento de ensino superior particular ou cooperativo autorizado a funcionar nos termos do artigo 13.º do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, é aplicável, com as necessárias adaptações, o estabelecido nos artigos 2.º, 3.º e 10.º a 14.º do mesmo diploma.
+
+2.º A composição mínima do órgão científico-pedagógico prevista no artigo 23.º daquele diploma deve respeitar a cada curso ou grupo de cursos afins autorizados, sendo obrigatório que os docentes que o integram sejam docentes responsáveis pelo ensino de disciplinas da sua área de formação integrados no plano de estudo respectivo.
+
+3.º Nos cursos que constituam inovação no sistema nacional de ensino em que não seja possível satisfazer os requisitos fixados no número anterior pode ser dispensado o cumprimento integral da exigência estabelecida no citado artigo 23.º, mediante despacho fundamentado do Ministro da Educação e Cultura, exarado em requerimento justificativo apresentado pela entidade responsável pelo estabelecimento.
+
+4.º Os diplomas de cursos emitidos pelas entidades responsáveis por estabelecimento de ensino superior particular ou cooperativo deverão conter:
+
+a) A denominação do estabelecimento e, eventualmente, o seu logotipo;
+
+b) O nome, naturalidade, filiação e número do bilhete de identidade do diplomado;
+
+c) A denominação e autorização do curso concluído;
+
+d) A identificação dos despachos de autorização de funcionamento do estabelecimento e curso, bem como, eventualmente, do reconhecimento oficial do respectivo nível;
+
+e) As assinaturas da autoridade académica responsável do estabelecimento e do titular do estabelecimento ou seu representante legal.
+
+5.º - 1 - As certidões confirmativas da situação escolar dos alunos que frequentam ou frequentaram estabelecimentos de ensino superior particulares ou cooperativos devem ser emitidas no prazo máximo de dois meses após a apresentação de pedido pelos interessados e serão necessariamente assinadas pela autoridade académica.
+
+2 - Os preços a praticar para pagamento do ensino ou de qualquer acto dele decorrente ou de qualquer acto de formalidades administrativas devem ser homologados pelo Ministro da Educação e Cultura.
+
+6.º Até fins de Novembro de cada ano, as entidades responsáveis por estabelecimentos de ensino superior particular ou cooperativo deverão apresentar na Direcção-Geral do Ensino Superior relatório de actividades, donde conste, nomeadamente:
+
+a) Número de alunos matriculados, por curso e ano curricular, no ano lectivo anterior;
+
+b) Número de alunos, por curso e ano curricular, matriculados no ano lectivo decorrente;
+
+c) Valor da matrícula e propinas cobradas por aluno/curso;
+
+d) Listas dos diplomados, por curso, no ano lectivo anterior;
+
+e) Horário escolar a vigorar no ano lectivo decorrente, em cada curso e ano curricular, e nome do docente responsável por cada aula do respectivo horário;
+
+f) Mapa donde constem os exames do ano lectivo anterior, com indicação do número de alunos aprovados, reprovados e desistentes;
+
+g) Mapa de distribuição das disciplinas/alunos por salas de aula, de acordo com o horário escolar;
+
+h) Quadro do pessoal docente, com a indicação da(s) disciplina(s) leccionada(s).
+
+7.º - 1 - A Inspecção do Ensino Superior Particular e Cooperativo (IESP), da Direcção-Geral do Ensino Superior, procederá, em cada semestre, a uma visita de inspecção aos estabelecimentos em funcionamento, no que poderá ser acompanhada por especialistas das áreas científicas dos respectivos cursos, nomeados por despacho ministerial.
+
+2 - O relatório com o resultado da visita de inspecção será apresentado, no prazo de 30 dias, ao director-geral do Ensino Superior.
+
+8.º O Ministro da Educação e Cultura poderá designar, em despacho, professores de outros estabelecimentos de ensino, designadamente públicos, para integrarem ou constituírem os júris das provas de avaliação dos cursos do ensino superior particular ou cooperativo.
+
+9.º Em cada estabelecimento de ensino superior particular ou cooperativo existirão livros de termos das provas de avaliação, devidamente identificados e autenticados pela IESP, onde devem ser registados, no prazo máximo de cinco dias úteis após a realização das provas, os resultados das mesmas, com as assinaturas de todos os membros do júri.
+
+Ministério da Educação e Cultura.
+
+**Assinada em 23 de Maio de 1986.**
+
+**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**

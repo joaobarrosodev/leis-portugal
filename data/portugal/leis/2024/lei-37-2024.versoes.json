@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:875716581:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2024-875716621",
+ "dre_path": "/dr/detalhe/lei/37-2024-875716581",
+ "source_lastmod": "2026-01-12",
+ "versions": [
+  {
+   "date": "2024-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "874584266",
+    "874584267",
+    "874584268",
+    "874584269",
+    "874584270"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993270096:por",
+     "title": "Lei n.º 73-A/2025",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/lei/73-a-2025-993270096"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "874584266",
+    "874584267",
+    "1004362944",
+    "874584269",
+    "874584270",
+    "874584271"
+   ]
+  }
+ ],
+ "fragments": {
+  "874584266": {
+   "fragment_id": "875716622",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 37/2024\n\nde 7 de agosto\n\nElimina as taxas de portagem nos lanços e sublanços das autoestradas do Interior e em vias onde não existam alternativas que permitam um uso com qualidade e segurança, revogando o Decreto-Lei n.º 97/2023, de 17 de outubro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "874584267": {
+   "fragment_id": "875716623",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei elimina as taxas de portagem cobradas aos utilizadores em determinados lanços e sublanços de autoestradas do Interior, de antigas autoestradas sem custos para o utilizador (SCUT), e de vias onde não existam alternativas que permitam um uso com qualidade e segurança, revogando o Decreto-Lei n.º 97/2023, de 17 de outubro."
+  },
+  "874584268": {
+   "fragment_id": "875716624",
+   "type": 11,
+   "heading": "Artigo 2.º — Eliminação de taxas de portagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Eliminação de taxas de portagens\n\nSão eliminadas as taxas de portagem cobradas aos utilizadores nos lanços e sublanços das seguintes autoestradas:\n\na) A4 - Transmontana e Túnel do Marão;\n\nb) A13 e A13-1 - Pinhal Interior;\n\nc) A22 - Algarve;\n\nd) A23 - Beira Interior;\n\ne) A24 - Interior Norte;\n\nf) A25 - Beiras Litoral e Alta;\n\ng) A28 - Litoral Norte, nos troços entre Esposende e Antas, e entre Neiva e Darque."
+  },
+  "874584269": {
+   "fragment_id": "875716625",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 97/2023, de 17 de outubro."
+  },
+  "874584270": {
+   "fragment_id": "875716626",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 de janeiro de 2025."
+  },
+  "1004362944": {
+   "fragment_id": "875716624",
+   "type": 11,
+   "heading": "Artigo 2.º — Eliminação de taxas de portagens",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 258.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Eliminação de taxas de portagens\n\nSão eliminadas as taxas de portagem cobradas aos utilizadores nos lanços e sublanços das seguintes autoestradas:\n\na) A4 - Transmontana e Túnel do Marão;\n\nb) A13 e A13-1 - Pinhal Interior;\n\nc) A22 - Algarve;\n\nd) A23 - Beira Interior;\n\ne) A24 - Interior Norte;\n\nf) A25 - Costa da Prata e Beiras Litoral e Alta, em toda a sua extensão;\n\ng) A28 - Litoral Norte, nos troços entre Esposende e Antas, e entre Neiva e Darque.\n\n> Alterado pelo/a Artigo 258.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01"
+  },
+  "874584271": {
+   "fragment_id": "875716627",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 21 de junho de 2024.\n\nO Presidente da Assembleia da República, José Pedro Aguiar Branco.\n\nPromulgada em 23 de julho de 2024.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 30 de julho de 2024.\n\nO Primeiro-Ministro, Luís Montenegro.\n\n117988671"
+  }
+ }
+}

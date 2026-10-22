@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:546387:por
+title: Decreto Regulamentar Regional n.º 37/2004/A
+short_title: null
+summary: Altera o quadro de pessoal do Centro de Saúde de Vila Franca do Campo
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 37/2004/A
+official_date: null
+publication_date: '2004-11-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 265/2004, Série I-B de 2004-11-11
+  number: '265'
+  series: I
+  supplement: null
+  pages: 6701 - 6702
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/11/265b00/67016702.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/37/2004/11/11/a/dre/pt/html
+  oj: null
+  dre: '546387'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/37-2004-546387
+  internal: pt:dre:546387:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-2004-546387
+  metadata_url: https://data.dre.pt/eli/decregulreg/37/2004/11/11/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-2004-546387
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-11-11T00:00:00Z'
+integrity:
+  source_sha256: 68b6c80851613b34194e882944ce17b4d6f0b05cfb5ce8e7c469b5453a23970f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2004/DRE-2004-37-546387.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Operário
+- Centro de Saúde
+- Pessoal Auxiliar
+- Quadro de Pessoal
+- Açores
+- VILA Franca do Campo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/22/2004/07/01/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/22/2004/07/01/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/34/2004/09/10/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/34/2004/09/10/a/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 37/2004/A
+
+Pelo [Decreto Regulamentar Regional n.º 34/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2004-620357), de 10 de Setembro, procedeu-se à alteração dos quadros de pessoal dos Centros de Saúde de Vila Franca do Campo, de Santa Cruz da Graciosa e da Horta, dado as suas necessidades não terem sido correctamente enunciadas, no âmbito do [Decreto Regulamentar Regional n.º 22/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2004-517637), de 1 de Julho, tal como o exigia a prestação de cuidados de saúde a seu cargo.
+
+Tal alteração, todavia, no que concerne ao quadro de pessoal do Centro de Saúde de Vila Franca do Campo, ainda não reflecte as reais necessidades sentidas por aquele serviço.
+
+Assim, em execução do disposto no artigo 21.º do [Decreto Legislativo Regional n.º 28/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-1999-346705), de 31 de Julho, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º
+
+O quadro de pessoal do Centro de Saúde de Vila Franca do Campo é alterado de acordo com o mapa anexo a este diploma, do qual faz parte integrante.
+
+###### Artigo 2.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 30 de Setembro de 2004.
+
+Pelo Presidente do Governo Regional, Roberto de Sousa Rocha Amaral, Secretário Regional da Presidência para as Finanças e Planeamento.
+
+**Assinado em Angra do Heroísmo em 19 de Outubro de 2004.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+
+Centro de Saúde de Vila Franca do Campo
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/11/265b00/67016702.pdf)

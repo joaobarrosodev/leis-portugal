@@ -1,0 +1,1020 @@
+---
+schema_version: '1.0'
+id: pt:dre:569761:por
+title: Decreto-Lei n.º 35/2004
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 29/2003, de 22 de Agosto, altera o regime jurídico do exercício
+  da actividade de segurança privada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 35/2004
+official_date: null
+publication_date: '2004-02-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2004, Série I-A de 2004-02-21
+  number: '44'
+  series: I
+  supplement: null
+  pages: 932 - 941
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/02/044a00/09320941.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-06-15'
+version_history:
+  file: decreto-lei-35-2004.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-02-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-13'
+    amending: pt:dre:455125:por
+    amending_title: Lei n.º 38/2008
+    changes:
+    - Adita Secção i
+    - Adita Artigo 32.º-A
+    - Adita Artigo 32.º-B
+    - Adita Secção ii
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+  - date: '2011-01-01'
+    amending: pt:dre:306578:por
+    amending_title: Decreto-Lei n.º 135/2010
+    changes:
+    - Altera Artigo 22.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
+  - date: '2011-12-01'
+    amending: pt:dre:146221:por
+    amending_title: Decreto-Lei n.º 114/2011
+    changes:
+    - Altera Artigo 28.º
+  - date: '2013-06-15'
+    amending: pt:dre:261089:por
+    amending_title: Lei n.º 34/2013
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/35/2004/p/cons/20130516/pt/html
+  oj: null
+  dre: '569761'
+  dre_path: /dr/detalhe/decreto-lei/35-2004-569761
+  internal: pt:dre:569761:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2004-569761
+  metadata_url: https://data.dre.pt/eli/dec-lei/35/2004/p/cons/20130516/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-864698975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-864698975
+  retrieved_at: '2026-10-22T13:09:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d6585ba4ab67fcb72f4026fbc21dfb79764678d44136e253fdf924de4656e288
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:09:02Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-35-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvará
+- Capital Social
+- Cartão de Identificação
+- Formação Profissional
+- Certificação Profissional
+- Conselho de Segurança Privada
+- Contra-ordenação
+- Definição de Competências
+- Serviços de Segurança
+- Empresa de Segurança
+- Fiscalização
+- Incompatibilidades
+- Prestação de Serviços
+- Vigilância Electrónica
+- Regime Jurídico
+- Pessoal de Vigilância
+- Segredo Profissional
+- Segurança Privada
+- Uso e porte de arma
+relationships:
+- type: amended_by
+  target: pt:dre:455125:por
+  label: Adita Secção i; Adita Artigo 32.º-A; Adita Artigo 32.º-B; Adita Secção ii; Altera Artigo 6.º; Altera Artigo 12.º;
+    Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 28.º; Altera Artigo 31.º;
+    Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:306578:por
+  label: Altera Artigo 22.º; Altera Artigo 28.º; Altera Artigo 30.º; Altera Artigo 33.º; Altera Artigo 35.º; Altera Artigo
+    38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2010-306578
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:146221:por
+  label: Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:261089:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089
+  date: '2013-05-16'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/231/1998/07/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/231/1998/07/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/94/2002/04/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94/2002/04/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/29/2003/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/29/2003/08/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1325/2001/12/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1325/2001/12/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/485/2003/06/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/485/2003/06/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/969/1998/11/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/969/1998/11/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/971/1998/11/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/971/1998/11/16/p/dre
+article_structure:
+  article_count: 41
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:09:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 35/2004
+
+Decreto-Lei n.º 35/2004
+
+de 21 de Fevereiro
+
+A actividade de segurança privada tem vindo a assumir uma inegável importância em Portugal, quer na protecção de pessoas e bens quer na prevenção e dissuasão da prática de actos ilícitos.
+
+A experiência adquirida e consolidada nos últimos anos, a recente jurisprudência do Tribunal Constitucional e a necessidade de adaptação da legislação ao direito comunitário foram determinantes para a aprovação do actual diploma.
+
+No presente normativo mantêm-se sem alteração os princípios definidores do exercício desta actividade, concretamente a prossecução do interesse público e a complementaridade e a subsidiariedade face às competências desempenhadas pelas forças e serviços de segurança.
+
+No entanto, verifica-se uma clara evolução do regime ora aprovado face ao Decreto-Lei n.º 231/98, de 22 de Julho.
+
+Clarifica-se o objecto da actividade de segurança privada, distinguindo-se a prestação de serviços a terceiros e a organização interna de serviços de segurança privada. Do mesmo passo, estabelecem-se condições distintas para a obtenção da respectiva autorização.
+
+Concretizam-se as funções a desempenhar pelo pessoal de vigilância, consagrando-se, pela primeira vez, a faculdade de os vigilantes de segurança privada poderem efectuar revistas de prevenção e segurança no controlo de acessos a determinados locais.
+
+Esta nova modalidade de revista tem como estrito objectivo impedir a introdução de artigos proibidos ou potencialmente perigosos em locais de acesso condicionado ao público, pelo que não se confunde nem visa os objectivos de obtenção de prova da prática de ilícito criminal previstos na legislação processual penal.
+
+Ainda neste âmbito, importa realçar que os vigilantes de segurança privada não têm poderes para efectuar apreensão de quaisquer objectos ou efectuar detenções.
+
+Noutra vertente, e com o objectivo de aumentar a eficácia da actuação das empresas e o nível de preparação e treino do pessoal de vigilância, introduz-se a possibilidade de as entidades que exercem a actividade de segurança privada poderem ser obrigadas a dispor de um director de segurança, nos termos e condições a fixar em regulamentação própria.
+
+Por outro lado, o director de segurança bem como os formadores de segurança privada vão dispor de formação específica especialmente dirigida à obtenção dos conhecimentos teóricos e práticos necessários para que o pessoal de vigilância desempenhe cabalmente as suas funções.
+
+Paralelamente, redefinem-se os requisitos gerais e específicos dos intervenientes na actividade de segurança privada, garantindo-se a clara separação entre fiscalizador e fiscalizado e impedindo-se o exercício de determinadas funções a quem tiver sido condenado por um determinado número de infracções muito graves no exercício da actividade ou a quem tiver sido sancionado com pena de separação de serviço ou pena de natureza expulsiva das Forças Armadas, dos serviços que integram o Sistema de Informações da República ou das forças e serviços de segurança.
+
+No que se refere ao cartão profissional, é alterada a filosofia subjacente à sua emissão, quer quanto à entidade emissora quer quanto ao prazo da respectiva validade, quer ainda quanto às condições da respectiva renovação, criando uma maior dignificação da profissão e permitindo a verificação das qualidades pessoais do vigilante.
+
+Procurou-se também reduzir as obrigações de carácter eminentemente burocrático, mantendo-se, contudo, um controlo rigoroso do exercício desta actividade indissociavelmente ligada à prossecução do interesse público.
+
+Quanto à composição do Conselho de Segurança Privada, considerou-se oportuno introduzir como membros não permanentes o Banco de Portugal e um representante das entidades que são obrigadas a dispor de um sistema de segurança, permitindo a sua convocação quando as matérias objecto de consulta se revistam de interesse para este sector.
+
+Paralelamente, e por se considerar que o Decreto-Lei n.º 298/79, de 17 de Agosto, que regula a segurança específica das instituições de crédito, se encontra desajustado da nova realidade bancária, bem como por se entender que os sistemas de segurança específicos que vierem a ser adoptados ao abrigo do presente diploma, via regulamentação própria, permitem garantir a segurança física naquelas instituições, é revogada, em conformidade, aquela legislação.
+
+O presente diploma procede ainda a uma revisão do regime sancionatório.
+
+Foram ouvidos a Comissão Nacional de Protecção de Dados, o Instituto de Reinserção Social, os representantes das empresas de segurança e dos trabalhadores e os restantes membros do Conselho de Segurança Privada.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 29/2003, de 22 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma regula o exercício da actividade de segurança privada.
+
+2 - A actividade de segurança privada só pode ser exercida nos termos do presente diploma e de regulamentação complementar e tem uma função subsidiária e complementar da actividade das forças e dos serviços de segurança pública do Estado.
+
+3 - Para efeitos do presente diploma, considera-se actividade de segurança privada:
+
+a) A prestação de serviços a terceiros por entidades privadas com vista à protecção de pessoas e bens, bem como à prevenção da prática de crimes;
+
+b) A organização, por quaisquer entidades e em proveito próprio, de serviços de autoprotecção, com vista à protecção de pessoas e bens, bem como à prevenção da prática de crimes.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 2.º — Serviços de segurança privada
+
+1 - A actividade de segurança privada compreende os seguintes serviços:
+
+a) A vigilância de bens móveis e imóveis e o controlo de entrada, presença e saída de pessoas, bem como a prevenção da entrada de armas, substâncias e artigos de uso e porte proibidos ou susceptíveis de provocar actos de violência no interior de edifícios ou locais de acesso vedado ou condicionado ao público, designadamente estabelecimentos, certames, espectáculos e convenções;
+
+b) A protecção pessoal, sem prejuízo das competências exclusivas atribuídas às forças de segurança;
+
+c) A exploração e a gestão de centrais de recepção e monitorização de alarmes;
+
+d) O transporte, a guarda, o tratamento e a distribuição de valores.
+
+2 - A prestação dos serviços previstos no número anterior obriga as entidades de segurança privada a possuírem instalações e meios materiais e humanos adequados ao exercício da sua actividade, cujos requisitos mínimos e regime sancionatório são definidos por portaria do Ministro da Administração Interna, sem prejuízo do estabelecido no presente diploma.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 3.º — Organização de serviços de autoprotecção
+
+1 - Os serviços de autoprotecção referidos na alínea b) do n.º 3 do artigo 1.º devem ser organizados com recurso exclusivo a trabalhadores vinculados por contrato individual de trabalho com entidade titular da respectiva licença.
+
+2 - Os serviços de autoprotecção previstos no número anterior podem ser complementados com o recurso à prestação de serviços de entidades titulares de alvará adequado para o efeito.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 4.º — Obrigatoriedade de adopção de sistema de segurança privada
+
+1 - O Banco de Portugal, as instituições de crédito e as sociedades financeiras são obrigados a adoptar um sistema de segurança em conformidade com o disposto no presente diploma.
+
+2 - As instituições de crédito e as sociedades financeiras podem ser obrigadas a adoptar meios de segurança específicos estabelecidos em portaria do Ministro da Administração Interna.
+
+3 - Os estabelecimentos de restauração e de bebidas que disponham de salas ou de espaços destinados a dança ou onde habitualmente se dance, nomeadamente os recintos de diversão, bares, discotecas e boîtes, são obrigados a dispor de um sistema de segurança no espaço físico onde é exercida a actividade nos termos e condições fixados em legislação própria.
+
+4 - A realização de espectáculos em recintos desportivos depende, nos termos e condições fixados por portaria conjunta do Ministro da Administração Interna e do membro do Governo que tutela a área do desporto, do cumprimento da obrigação de disporem de um sistema de segurança que inclua assistentes de recinto desportivo e demais meios de vigilância previstos no presente diploma.
+
+5 - Os responsáveis pelos espaços de acesso condicionado ao público que, pelas suas características, possam ser considerados de elevado risco de segurança podem ser obrigados a adoptar um sistema de segurança nos termos e condições a aprovar por despacho do Ministro da Administração Interna.
+
+6 - Os sistemas de segurança a adoptar nos termos dos números anteriores, sem prejuízo de outras disposições legais e regulamentares aplicáveis, obedecem às normas do presente diploma, designadamente quanto ao regime fiscalizador e sancionatório.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 5.º — Proibições
+
+É proibido, no exercício da actividade de segurança privada:
+
+a) A prática de actividades que tenham por objecto a prossecução de objectivos ou o desempenho de funções correspondentes a competências exclusivas das autoridades judiciárias ou policiais;
+
+b) Ameaçar, inibir ou restringir o exercício de direitos, liberdades e garantias ou outros direitos fundamentais, sem prejuízo do estabelecido nos n.os 5 e 6 do artigo seguinte;
+
+c) A protecção de bens, serviços ou pessoas envolvidas em actividades ilícitas.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+### Capítulo II — Pessoal e meios de segurança privada
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+#### Secção I — Pessoal de segurança privada
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 6.º — Pessoal e funções de vigilância
+
+1 - Para os efeitos do presente diploma, considera-se pessoal de vigilância os indivíduos vinculados por contrato de trabalho às entidades titulares de alvará ou de licença habilitados a exercerem funções de vigilante, de protecção pessoal ou de assistente de recinto desportivo.
+
+2 - Os vigilantes de segurança privada exercem, entre outras, as seguintes funções:
+
+a) Vigiar e proteger pessoas e bens em locais de acesso vedado ou condicionado ao público, bem como prevenir a prática de crimes;
+
+b) Controlar a entrada, presença e saída de pessoas nos locais de acesso vedado ou condicionado ao público;
+
+c) Efectuar o transporte, o tratamento e a distribuição de valores;
+
+d) Operar as centrais de recepção e monitorização de alarme.
+
+3 -  As diversas categorias de vigilantes de segurança privada, designadamente coordenador de segurança, segurança, porteiro, entre outros, o seu modelo de cartão identificativo, funções, meios, formação e outros requisitos necessários, bem como as taxas respectivas, são definidas por portaria do membro do Governo responsável pela área da administração interna.
+
+4 - A função de protecção pessoal é desempenhada por vigilantes especializados e compreende o acompanhamento de pessoas para a sua defesa e protecção.
+
+5 - Os assistentes de recinto desportivo são vigilantes especializados que desempenham funções de segurança e protecção de pessoas e bens em recintos desportivos e anéis de segurança, nos termos previstos em portaria do Ministro da Administração Interna e do membro do Governo que tutela a área do desporto.
+
+6 - Os assistentes de recinto desportivo, no controlo de acesso aos recintos desportivos, podem efectuar revistas pessoais de prevenção e segurança com o estrito objectivo de impedir a entrada de objectos e substâncias proibidas ou susceptíveis de gerar ou possibilitar actos de violência, podendo, para o efeito, recorrer ao uso de raquetes de detecção de metais e de explosivos.
+
+7 - Mediante autorização expressa do membro do Governo responsável pela área da administração interna e por um período delimitado no tempo, o pessoal de vigilância devidamente qualificado para o exercício de funções de controlo de acesso a instalações aeroportuárias e portuárias, bem como a outros locais de acesso vedado ou condicionado ao público que justifiquem protecção reforçada, podem efectuar revistas pessoais e buscas de prevenção e segurança, utilizando meios técnicos adequados, designadamente raquetes de detecção de metais e de explosivos, bem como equipamentos de inspecção não intrusiva de bagagem, com o estrito objectivo de detectar e impedir a entrada de pessoas ou objectos proibidos e substâncias proibidas ou susceptíveis de gerar ou possibilitar actos que ponham em causa a segurança de pessoas e bens.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 7.º — Director de segurança
+
+1 - As entidades que prestem serviços de segurança ou organizem serviços de autoprotecção podem ser obrigadas a dispor de um director de segurança, nas condições previstas em portaria do Ministro da Administração Interna.
+
+2 - O director de segurança tem como funções ser responsável pela preparação, treino e actuação do pessoal de vigilância.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 8.º — Requisitos e incompatibilidades para o exercício da actividade de segurança privada
+
+1 - Os administradores ou gerentes de sociedades que exerçam a actividade de segurança privada devem preencher permanente e cumulativamente os seguintes requisitos:
+
+a) Ser cidadão português, de um Estado membro da União Europeia, de um Estado parte do Acordo sobre o Espaço Económico Europeu ou, em condições de reciprocidade, de um Estado de língua oficial portuguesa;
+
+b) Possuir a escolaridade obrigatória;
+
+c) Possuir plena capacidade civil;
+
+d) Não ter sido condenado, por sentença transitada em julgado, pela prática de crime doloso contra a vida, a integridade física ou a reserva da vida privada, contra o património, de falsificação, contra a segurança das telecomunicações, contra a ordem e tranquilidade públicas, de resistência ou desobediência à autoridade pública, de detenção ilegal de armas ou por qualquer outro crime doloso punível com pena de prisão superior a 3 anos, sem prejuízo da reabilitação judicial;
+
+e) Não exercer, nem ter exercido, as funções de gerente ou administrador de sociedade de segurança privada condenada, por decisão transitada em julgado, pela prática de três contra-ordenações muito graves no exercício dessa actividade nos três anos precedentes;
+
+f) Não exercer, nem ter exercido, a qualquer título, cargo ou função de fiscalização do exercício da actividade de segurança privada nos três anos precedentes;
+
+g) Não ter sido sancionado, por decisão transitada em julgado, com a pena de separação de serviço ou pena de natureza expulsiva das Forças Armadas, dos serviços que integram o Sistema de Informações da República ou das forças e serviços de segurança.
+
+2 - O responsável pelos serviços de autoprotecção e o pessoal de vigilância devem preencher permanente e cumulativamente os requisitos previstos nas alíneas a) a d), f) e g) do número anterior.
+
+3 - O director de segurança deve preencher permanente e cumulativamente os requisitos previstos nas alíneas a), c), d), f) e g) do n.º 1, bem como ter concluído o ensino secundário.
+
+4 - Os formadores de segurança privada devem preencher permanente e cumulativamente os requisitos previstos nas alíneas c) e e) do n.º 1, bem como terem concluído o ensino secundário.
+
+5 - São requisitos específicos de admissão e permanência na profissão do pessoal de vigilância:
+
+a) Possuir a robustez física e o perfil psicológico necessários para o exercício das suas funções, comprovados por ficha de aptidão, acompanhada de exame psicológico obrigatório, emitida por médico do trabalho, nos termos da legislação em vigor, ou comprovados por ficha de aptidão ou exame equivalente efectuado noutro Estado membro da União Europeia;
+
+b) Ter frequentado, com aproveitamento, cursos de formação nos termos estabelecidos no artigo 9.º, ou cursos idênticos ministrados e reconhecidos noutro Estado membro da União Europeia.
+
+6 - Os nacionais de outro Estado membro da União Europeia legalmente habilitados e autorizados a exercer a actividade de segurança privada nesse Estado podem desempenhar essas funções em Portugal nos termos estabelecidos no presente diploma desde que demonstrem que foram cumpridos os seguintes requisitos:
+
+a) Para desempenhar as funções de director de segurança, os requisitos previstos nos n.os 3 e 7;
+
+b) Para desempenhar as funções de responsável pela autoprotecção, o requisito previsto no n.º 2;
+
+c) Para desempenhar as funções de vigilância, de protecção pessoal ou de assistente de recinto, os requisitos previstos nos n.os 2 e 5.
+
+7 - É requisito específico de admissão e permanência na profissão de director de segurança a frequência, com aproveitamento, de cursos de conteúdo programático e duração fixados em portaria do Ministro da Administração Interna ou de cursos equivalentes ministrados e reconhecidos noutro Estado membro da União Europeia.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 9.º — Formação profissional
+
+1 - A formação profissional do pessoal de vigilância bem como as respectivas especialidades e cursos de actualização podem ser ministrados por entidades que sejam titulares de alvará ou por entidades especializadas, autorizadas nos termos do presente diploma e em regulamentação especial.
+
+2 - A definição do conteúdo e duração dos cursos referidos no número anterior, assim como os requisitos do respectivo corpo docente, consta de portaria conjunta dos Ministros da Administração Interna e da Segurança Social e do Trabalho e, no caso dos assistentes de recinto desportivo, de portaria conjunta dos Ministros da Administração Interna e da Segurança Social e do Trabalho e do membro do Governo que tutela a área do desporto.
+
+3 - As entidades não inseridas no sistema nacional de ensino que pretendam ministrar a formação prevista nos números anteriores devem, para o efeito, ser autorizadas nos termos a definir em portaria própria a aprovar pelo Ministro da Administração Interna.
+
+4 - A elaboração, a realização e a fiscalização de exames, bem como a respectiva avaliação dos candidatos à protecção pessoal, competem às forças de segurança, nos termos de portaria a aprovar pelo Ministro da Administração Interna na qual se prevê o pagamento a efectuar a essas forças.
+
+5 - Os formadores de segurança privada devem frequentar, com aproveitamento, um curso de conteúdo programático e duração fixados em portaria do Ministro da Administração Interna ou cursos equivalentes ministrados e reconhecidos noutro Estado membro da União Europeia.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 10.º — Cartão profissional
+
+1 - Para o exercício das suas funções, o pessoal de vigilância deve ser titular de cartão profissional emitido pela Secretaria-Geral do Ministério da Administração Interna, válido pelo prazo de cinco anos e susceptível de renovação por iguais períodos de tempo.
+
+2 - O cartão profissional é emitido, nos termos do número anterior, a nacionais de outro Estado membro da União Europeia que possuam os requisitos enunciados no artigo 8.º ou que comprovem reunir tais requisitos, de acordo com os controlos e verificações efectuados no Estado de origem.
+
+3 - A renovação do cartão profissional implica a frequência de um curso de actualização ministrado nos termos e pelas entidades referidas no artigo anterior, ou de um curso equivalente ministrado e reconhecido noutro Estado membro da União Europeia, bem como a comprovação do requisito previsto na alínea d) do n.º 1 do artigo 8.º
+
+4 - Os modelos dos cartões profissionais do pessoal de vigilância referidos no n.º 1 são aprovados por portaria do Ministro da Administração Interna.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2005 - Diário da República n.º 216/2005, Série I-A de 2005-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2005-584642), produz efeitos a partir de 2004-03-22
+
+###### Artigo 11.º — Elementos de uso obrigatório
+
+1 - O pessoal de vigilância, quando no exercício das funções previstas nas alíneas a), c) e d) do artigo 2.º, deve obrigatoriamente usar:
+
+a) Uniforme;
+
+b) Cartão profissional aposto visivelmente.
+
+2 - O pessoal de vigilância, quando exerça funções de assistente de recinto desportivo, deve obrigatoriamente usar sobreveste de identificação onde conste de forma perfeitamente visível a palavra «Assistente», com as características fixadas em portaria do Ministro da Administração Interna, sendo, neste caso, dispensável a aposição visível do cartão profissional, de que obrigatoriamente é portador.
+
+3 - A entidade patronal deve desenvolver todos os esforços para que os seus trabalhadores cumpram integralmente os requisitos previstos no n.º 1.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+#### Secção II — Meios de segurança
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 12.º — Contacto permanente
+
+As entidades titulares de alvará devem assegurar a presença permanente nas suas instalações de pessoal que garanta o contacto, a todo o tempo, através de rádio ou outro meio de comunicação idóneo, com o pessoal de vigilância, os utilizadores dos serviços e as forças de segurança.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 13.º — Meios de vigilância electrónica
+
+1 - As entidades titulares de alvará ou de licença para o exercício dos serviços estabelecidos nas alíneas a), c) e d) do artigo 2.º podem utilizar equipamentos electrónicos de vigilância com o objectivo de proteger pessoas e bens desde que sejam ressalvados os direitos e interesses constitucionalmente protegidos.
+
+2 - A gravação de imagens e som feita por entidades de segurança privada ou serviços de autoprotecção, no exercício da sua actividade, através de equipamentos electrónicos de vigilância deve ser conservada pelo prazo de 30 dias, findo o qual será destruída, só podendo ser utilizada nos termos da legislação processual penal.
+
+3 - Nos lugares objecto de vigilância com recurso aos meios previstos nos números anteriores é obrigatória a afixação em local bem visível de um aviso com os seguintes dizeres, consoante o caso, «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão» ou «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem e som», seguido de símbolo identificativo.
+
+4 - A autorização para a utilização dos meios de vigilância electrónica nos termos do presente diploma não prejudica a aplicação do regime geral em matéria de protecção de dados previsto na Lei n.º 67/98, de 26 de Outubro, designadamente em matéria de direito de acesso, informação, oposição de titulares e regime sancionatório.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 14.º — Porte de arma
+
+1 - O pessoal de vigilância está sujeito ao regime geral de uso e porte de arma, podendo recorrer, designadamente, a aerossóis e armas eléctricas, meios de defesa não letais da classe E, nos termos da Lei n.º 5/2006, de 23 de Fevereiro.
+
+2 - Em serviço, o porte de arma só é permitido se autorizado por escrito pela entidade patronal, podendo a autorização ser revogada a todo o tempo.
+
+3 - A autorização prevista no número anterior é anual e expressamente renovável.
+
+A autorização prevista no n.º 2 é comunicada no mais curto prazo, que não pode exceder vinte e quatro horas, à entidade competente para a fiscalização da actividade de segurança privada.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 15.º — Canídeos
+
+1 - As entidades titulares de alvará ou de licença podem utilizar canídeos, acompanhados de pessoal de vigilância devidamente habilitado pela entidade competente.
+
+2 - A utilização de canídeos está sujeita ao respectivo regime geral de identificação, registo e licenciamento.
+
+3 - Em serviço, a utilização de canídeos só é permitida desde que autorizada por escrito pela entidade patronal, podendo a autorização ser revogada a todo o tempo.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 16.º — Outros meios técnicos de segurança
+
+1 - As entidades titulares de alvará ou de licença devem assegurar a distribuição e uso pelo seu pessoal de vigilância de coletes de protecção balística, sempre que o risco das actividades a desenvolver o justifique.
+
+2 - Pode ser autorizada a utilização de meios técnicos de segurança não previstos no presente diploma, por despacho do membro do Governo responsável pela área da administração interna, ouvido o Conselho de Segurança Privada.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+#### Secção III — Deveres
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 17.º — Dever de colaboração
+
+1 - As entidades titulares de alvará ou de licença, bem como o respectivo pessoal, devem prestar às autoridades públicas toda a colaboração que lhes for solicitada.
+
+2 - Em caso de intervenção das forças ou serviços de segurança em locais onde também actuem entidades de segurança privada, estas devem colocar os seus meios humanos e materiais à disposição e sob a direcção do comando daquelas forças.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 18.º — Deveres especiais
+
+1 - Constituem deveres especiais das entidades titulares de alvará ou de licença:
+
+a) Comunicar de imediato à autoridade judiciária ou policial competente a prática de qualquer crime de que tenham conhecimento no exercício das suas actividades;
+
+b) Diligenciar para que a actuação do pessoal de vigilância privada não induza o público a confundi-lo com as forças e serviços de segurança;
+
+c) Organizar e manter actualizado um registo de actividades permanentemente disponível para consulta das entidades fiscalizadoras;
+
+d) Fazer prova, até ao dia 31 de Março de cada ano, junto da Secretaria-Geral do Ministério da Administração Interna, da existência e manutenção dos seguros e da caução respeitantes ao ano anterior exigidos nos termos do presente diploma, da inexistência de dívidas ao Estado e à segurança social, ou de que o seu pagamento se encontra assegurado, e de que foram cumpridas as obrigações fiscais relativas ao ano a que respeita a comprovação;
+
+e) Comunicar à Secretaria-Geral do Ministério da Administração Interna, até ao dia 15 do mês seguinte em que tiverem ocorrido, as alterações ao pacto social e de administradores, gerentes ou responsáveis pelos serviços de autoprotecção, fazendo prova do cumprimento dos requisitos estabelecidos no artigo 8.º, bem como a abertura ou encerramento de filiais e instalações operacionais;
+
+f) Verificar, a todo o tempo, o cumprimento dos requisitos previstos no artigo 8.º, comunicando à Secretaria-Geral do Ministério da Administração Interna todas as ocorrências que impliquem perda de capacidade para o exercício de funções;
+
+g) Organizar e manter actualizados ficheiros individuais do pessoal de vigilância ao seu serviço, incluindo cópia do cartão de identificação e do certificado do registo criminal, número do cartão profissional de que é titular e data de admissão ao serviço;
+
+h) Comunicar à Secretaria-Geral do Ministério da Administração Interna as admissões e cessações contratuais do pessoal de vigilância e do director de segurança até ao dia 15 do mês seguinte em que tiverem ocorrido;
+
+i) Comunicar à Secretaria-Geral do Ministério da Administração Interna, no prazo de oito dias, a cessação da actividade, para efeitos de cancelamento do alvará ou da licença concedida.
+
+2 - Constitui ainda dever especial das entidades titulares de alvará mencionar o respectivo número na facturação, correspondência e publicidade.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 19.º — Segredo profissional
+
+1 - As entidades titulares de alvará ou de licença e o respectivo pessoal ficam obrigados a segredo profissional.
+
+2 - A quebra do segredo profissional apenas pode ser determinada nos termos da legislação penal e processual penal.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+### Capítulo III — Conselho de Segurança Privada
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 20.º — Natureza e composição
+
+1 - O Conselho de Segurança Privada (CSP) é um órgão de consulta do Ministro da Administração Interna.
+
+2 - São membros permanentes do CSP:
+
+a) O Ministro da Administração Interna, que preside;
+
+b) O inspector-geral da Administração Interna;
+
+c) O comandante-geral da Guarda Nacional Republicana;
+
+d) O director nacional da Polícia de Segurança Pública;
+
+e) O director nacional da Polícia Judiciária;
+
+f) O secretário-geral do Ministério da Administração Interna;
+
+g) Dois representantes das associações de empresas de segurança privada;
+
+h) Dois representantes das associações representativas do pessoal de vigilância.
+
+3 - Atendendo à matéria objecto de consulta, podem ainda ser convocados, como membros não permanentes:
+
+a) Um representante do Conselho para a Ética e Segurança no Desporto;
+
+b) Um representante do Banco de Portugal;
+
+c) Um representante das entidades previstas no n.º 3 do artigo 4.º
+
+4 - As entidades referidas nas alíneas a) a f) do n.º 2 podem designar representantes.
+
+5 - Os membros do CSP referidos nas alíneas g) e h) do n.º 2 e na alínea c) do n.º 3 são designados pelo Ministro da Administração Interna, mediante proposta das entidades nele representadas.
+
+6 - A Secretaria-Geral do Ministério da Administração Interna presta o apoio técnico e administrativo necessário ao funcionamento do CSP.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 21.º — Competência
+
+Compete ao CSP:
+
+a) Elaborar o regulamento de funcionamento interno;
+
+b) Elaborar um relatório anual sobre a actividade de segurança privada;
+
+c) Pronunciar-se sobre a concessão e cancelamento de alvarás e licenças, sempre que solicitado pelo membro do Governo responsável pela área da administração interna;
+
+d) Pronunciar-se sobre a admissibilidade de novos meios de segurança;
+
+e) Pronunciar-se e propor iniciativas legislativas em matéria de segurança privada;
+
+f) Propor ao Ministro da Administração Interna orientações a adoptar pelas entidades competentes na fiscalização da actividade de segurança privada;
+
+g) Emitir recomendações, no âmbito da actividade da segurança privada.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+### Capítulo IV — Emissão de alvará e de licença
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 22.º — Alvará e licença
+
+1 - A actividade de segurança privada a que se refere a alínea a) do n.º 3 do artigo 1.º só pode ser exercida com a autorização do Ministro da Administração Interna, titulada por alvará e após cumpridos todos os requisitos e condições estabelecidos no presente diploma e em regulamentação complementar.
+
+2 - A actividade de segurança privada a que se refere a alínea b) do n.º 3 do artigo 1.º só pode ser exercida com a autorização do Ministro da Administração Interna, titulada por licença e após cumpridos todos os requisitos e condições estabelecidos no presente diploma e em regulamentação complementar.
+
+3 - O alvará e a licença referidos nos n.os 1 e 2 do presente artigo são válidos pelo prazo de cinco anos, a partir da data da sua emissão, e renováveis por igual período.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 135/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2010-306578), em vigor a partir de 2011-01-01
+
+###### Artigo 23.º — Requisitos das entidades de segurança privada
+
+1 - As sociedades que pretendam exercer a actividade de segurança privada prevista na alínea a) do n.º 3 do artigo 1.º devem constituir-se de acordo com a legislação de um Estado membro da União Europeia ou de um Estado parte do Acordo sobre o Espaço Económico Europeu e possuir sede ou delegação em Portugal.
+
+2 - O capital social das entidades referidas no número anterior não pode ser inferior a:
+
+a) (euro) 50000, se prestarem algum dos serviços previstos na alínea c) do n.º 1 do artigo 2.º;
+
+b) (euro) 125000, se prestarem algum dos serviços previstos nas alíneas a) e b) do n.º 1 do artigo 2.º;
+
+c) (euro) 250000, se prestarem algum dos serviços previstos na alínea d) do n.º 1 do artigo 2.º
+
+3 - O disposto nos números anteriores não se aplica:
+
+a)  Às entidades, pessoas singulares ou colectivas, estabelecidas noutro Estado membro da União Europeia, legalmente autorizadas e habilitadas para exercer a actividade de segurança privada nesse Estado, que pretendam exercer a sua actividade em Portugal de forma contínua e duradoura e que detenham neste país delegação, sucursal ou qualquer outra forma de estabelecimento secundário;
+
+b) Às entidades, pessoas singulares ou colectivas, estabelecidas noutro Estado membro da União Europeia, legalmente autorizadas e habilitadas para exercer a actividade de segurança privada nesse Estado, que pretendam exercer a sua actividade em Portugal de forma temporária e não duradoura ao abrigo da liberdade de prestação de serviços.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2005 - Diário da República n.º 216/2005, Série I-A de 2005-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2005-584642), produz efeitos a partir de 2004-03-22
+
+###### Artigo 24.º — Instrução do processo
+
+Compete à Secretaria-Geral do Ministério da Administração Interna a instrução dos processos de autorização para o exercício da actividade de segurança privada, bem como a emissão de alvarás, licenças e respectivos averbamentos.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 25.º — Elementos que instruem o requerimento
+
+1 - O pedido de autorização para o exercício da actividade de segurança privada é formulado em requerimento dirigido ao Ministro da Administração Interna, acompanhado dos seguintes elementos:
+
+a) Certidão de teor da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Comercial;
+
+b) Identificação dos administradores, gerentes ou responsável pelos serviços de autoprotecção, consoante o caso, e documentos comprovativos de que satisfazem os requisitos exigidos nos n.os 1 e 2 do artigo 8.º;
+
+c) Identificação das instalações a afectar ao serviço para o qual é requerido o alvará ou a licença;
+
+d) Certidão comprovativa da inexistência de dívidas ao Estado e à segurança social, ou de que o seu pagamento se encontra assegurado, e do cumprimento das obrigações fiscais respeitantes ao ano em que o requerimento é apresentado;
+
+e) Modelo de uniforme a utilizar pelo pessoal de vigilância, no caso de pedido de autorização para a prestação dos serviços de segurança enunciados nas alíneas a), c) e d) do n.º 1 do artigo 2.º
+
+2 - O disposto no número anterior aplica-se, com as necessárias adaptações, às situações previstas no n.º 3 do artigo 23.º, sendo tidos em conta os elementos, justificações e garantias já exigidos no Estado membro de origem.
+
+3 - Os documentos referidos nos números anteriores são arquivados em processo individual organizado pela Secretaria-Geral do Ministério da Administração Interna.
+
+4 - É dispensada a apresentação de documentos que já constem do processo individual da entidade requerente, quando solicitar autorização para prestar novos tipos de serviços de segurança privada.
+
+5 - A Secretaria-Geral do Ministério da Administração Interna pode, no prazo de 30 dias a contar da data de entrada dos requerimentos, solicitar as informações e os documentos complementares necessários ao esclarecimento dos seus elementos instrutórios.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 26.º — Requisitos de emissão de alvará
+
+1 - Concluída a instrução, o processo será submetido ao Ministro da Administração Interna para decisão, a proferir no prazo máximo de 30 dias.
+
+2 - Após o despacho referido no número anterior, o início do exercício da actividade de segurança privada fica condicionado à comprovação, pelo requerente e no prazo de 90 dias a contar da notificação, da existência de:
+
+a) Instalações e meios humanos e materiais adequados;
+
+b) Caução a favor do Estado, prestada mediante depósito em instituição bancária, seguro-caução à primeira solicitação ou garantia bancária à primeira solicitação, de montante, não superior a (euro) 40000, a fixar por despacho do Ministro da Administração Interna;
+
+c) Director de segurança, quando obrigatório;
+
+d) Quinze trabalhadores a ele vinculados por contrato de trabalho e inscritos num regime de protecção social, quando os serviços de segurança privada requeridos se inserem nas alíneas a) ou d) do n.º 1 do artigo 2.º;
+
+e) Seguro de responsabilidade civil no valor mínimo de (euro) 250000 e demais condições a aprovar por portaria conjunta dos Ministros das Finanças e da Administração Interna;
+
+f) Seguro contra roubo e furto no valor mínimo de (euro) 2000000 e demais condições a aprovar por portaria conjunta dos Ministros das Finanças e da Administração Interna, no caso da prestação dos serviços de segurança previstos na alínea d) do n.º 1 do artigo 2.º;
+
+g) Pagamento da taxa de emissão de alvará.
+
+3 - O prazo para entrega dos elementos referidos no número anterior pode ser prorrogado por igual período mediante pedido devidamente fundamentado.
+
+4 - A não emissão de alvará no prazo previsto nos números anteriores por causa imputável ao requerente determina a caducidade da autorização concedida nos termos do n.º 1.
+
+5 - Nos casos previstos no n.º 3 do artigo 23.º, são tidos em conta os elementos, justificações e garantias já exigidos no Estado membro de origem e que sejam apresentados pelo requerente.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 27.º — Requisitos para a emissão de licença
+
+1 - Concluída a instrução, o processo será submetido ao Ministro da Administração Interna para decisão, a proferir no prazo máximo de 30 dias.
+
+2 - Após o despacho referido no número anterior, o início do exercício da actividade de segurança privada fica condicionado à comprovação, pelo requerente, no prazo de 90 dias, da existência de:
+
+a) Instalações e meios materiais e humanos adequados;
+
+b) Caução a favor do Estado, prestada mediante depósito em instituição bancária, seguro-caução à primeira solicitação ou garantia bancária à primeira solicitação, de montante, não superior a (euro) 40000, a fixar por despacho do Ministro da Administração Interna;
+
+c) Director de segurança, quando obrigatório;
+
+d) Pagamento da taxa de emissão da licença.
+
+3 - O prazo para entrega dos elementos referidos no número anterior pode ser prorrogado por igual período mediante pedido devidamente fundamentado.
+
+4 - A não emissão da licença no prazo previsto nos números anteriores por causa imputável ao requerente determina a caducidade da autorização concedida nos termos do n.º 1.
+
+5 - Nos casos previstos no n.º 3 do artigo 23.º, são tidos em conta os elementos, justificações e garantias já exigidos no Estado membro de origem e que sejam apresentados pelo requerente.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 28.º — Especificações do alvará e da licença
+
+1 - Do alvará e da licença constam os seguintes elementos:
+
+a) Denominação da entidade autorizada;
+
+b) Sede social, filiais, delegações, estabelecimentos secundários e instalações operacionais;
+
+c) Indicação do despacho que aprovou o modelo de uniforme, se aplicável;
+
+d) Discriminação dos serviços de segurança autorizados.
+
+2 - As alterações aos elementos constantes do respectivo alvará ou licença fazem-se por meio de averbamento.
+
+3 - A Direcção Nacional da Polícia de Segurança Pública emite o alvará, a licença e respectivos averbamentos e comunica os seus termos ao Comando-Geral da Guarda Republicana, à Direcção Nacional da Polícia Judiciária e à Inspecção-Geral da Administração Interna.
+
+4 - Não é admitida a transmissão ou a cedência, a qualquer título, do alvará emitido.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 135/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2010-306578), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 29.º — Suspensão e cancelamento de alvará e de licença
+
+1 - Verifica-se a suspensão imediata do alvará ou da licença logo que haja conhecimento de que algum dos requisitos ou condições necessários ao exercício da actividade de segurança privada, estabelecidos no presente diploma ou em regulamentação complementar, deixaram de se verificar.
+
+2 - No caso de incumprimento reiterado das normas previstas no presente diploma ou em regulamentação complementar, por despacho do Ministro da Administração Interna e sob proposta do secretário-geral do Ministério da Administração Interna, pode ser cancelado o alvará ou a licença emitido.
+
+3 - Para efeitos do número anterior, considera-se incumprimento reiterado, designadamente:
+
+a) O não cumprimento, durante dois anos seguidos, dos deveres especiais previstos na alínea d) do n.º 1 do artigo 18.º;
+
+b) A inexistência ou insuficiência de meios humanos ou materiais ou de instalações operacionais, definidos na portaria aprovada nos termos do n.º 2 do artigo 2.º, por um período superior a seis meses;
+
+c) A suspensão do alvará ou da licença prevista no n.º 1 por um período superior a seis meses.
+
+4 - As decisões de suspensão e cancelamento de alvarás ou licenças são notificadas aos membros permanentes do Conselho de Segurança Privada.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 30.º — Taxas
+
+1 - A emissão do alvará e da licença e os respectivos averbamentos estão sujeitos ao pagamento de uma taxa que constitui receita do Estado, revertendo 50 % para a Polícia de Segurança Pública.
+
+2 - O valor da taxa referida no número anterior é fixado por portaria conjunta dos Ministros das Finanças e da Administração Interna, podendo ser objecto de revisão anual.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 135/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2010-306578), em vigor a partir de 2011-01-01
+
+### Capítulo V — Fiscalização
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 31.º — Entidades competentes
+
+A fiscalização da actividade de segurança privada e respectiva formação é assegurada pela Direcção Nacional da Polícia de Segurança Pública, com a colaboração da Guarda Nacional Republicana, sem prejuízo das competências das forças e serviços de segurança e da Inspecção-Geral da Administração Interna.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 32.º — Organização de ficheiros
+
+A Secretaria-Geral do Ministério da Administração Interna organiza e mantém actualizado um ficheiro das entidades que exerçam a actividade de segurança privada, dos administradores, dos gerentes, dos responsáveis pelos serviços de autoprotecção, dos directores de segurança e do pessoal de vigilância.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+### Capítulo VI — Disposições sancionatórias
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+#### Secção i — Crimes
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 32.º-A — Exercício ilícito da actividade de segurança privada
+
+1 - Quem prestar serviços de segurança sem o necessário alvará ou licença ou exercer funções de vigilância não sendo titular do cartão profissional é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+
+2 - Na mesma pena incorre quem utilizar os serviços da pessoa referida no número anterior, sabendo que a prestação de serviços de segurança se realiza sem o necessário alvará ou licença ou que as funções de vigilância não são exercidas por titular de cartão profissional.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 32.º-B — Responsabilidade criminal das pessoas colectivas e equiparadas
+
+As pessoas colectivas e entidades equiparadas são responsáveis, nos termos gerais, pelo crime previsto no n.º 1 do artigo anterior.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+#### Secção ii — Contra-ordenações
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 33.º — Contra-ordenações e coimas
+
+1 - De acordo com o disposto no presente decreto-lei, constituem contra-ordenações muito graves:
+
+a) O exercício das actividades proibidas previstas no artigo 5.º;
+
+b) A não existência de director de segurança, quando obrigatório;
+
+c) O não cumprimento do preceituado no artigo 12.º;
+
+d) O não cumprimento dos deveres previstos no artigo 17.º e na alínea a) do n.º 1 do artigo 18.º;
+
+e) O porte de arma em serviço sem autorização da entidade patronal;
+
+f)  A utilização de meios materiais ou técnicos susceptíveis de causar danos à vida ou à integridade física;
+
+g) O não cumprimento do preceituado no n.º 2 do artigo 13.º;
+
+h) Manter ao serviço pessoal de vigilância que não satisfaça os requisitos previstos no artigo 8.º;
+
+i) O incumprimento dos requisitos exigidos aos veículos afectos ao transporte de valores;
+
+j) O incumprimento dos requisitos exigidos para o transporte de valores igual ou superior a (euro) 10 000.
+
+2 - São graves as seguintes contra-ordenações:
+
+a) Não comunicar, ou comunicar fora do prazo previsto, ao Ministério da Administração Interna as admissões ou rescisões contratuais do pessoal de vigilância;
+
+b) O não cumprimento dos deveres especiais previstos nas alíneas b) a g) e i) do n.º 1 do artigo 18.º;
+
+c) O não cumprimento do preceituado no n.º 3 do artigo 13.º;
+
+d) A utilização de canídeos em infracção ao preceituado no artigo 15.º;
+
+e) O incumprimento dos requisitos exigidos para o transporte de valores inferior a (euro) 10 000.
+
+3 - São contra-ordenações leves:
+
+a) O não cumprimento do estabelecido na alínea b) do n.º 1 do artigo 11.º e no n.º 2 do artigo 18.º;
+
+b) O não uso de uniforme, quando obrigatório;
+
+c) O não cumprimento das obrigações, formalidades e requisitos estabelecidos no presente diploma, quando não constituam contra-ordenações graves ou muito graves.
+
+4 - Quando cometidas por pessoas colectivas, as contra-ordenações previstas nos números anteriores são punidas com as seguintes coimas:
+
+a) De (euro) 1500 a (euro) 7500, no caso das contra-ordenações leves;
+
+b) De (euro) 7500 a (euro) 37 500, no caso das contra-ordenações graves;
+
+c) De (euro) 15 000 a (euro) 44 500, no caso das contra-ordenações muito graves.
+
+5 - Quando cometidas por pessoas singulares, as contra-ordenações previstas nos n.os 1 a 3 são punidas com as seguintes coimas:
+
+a) De (euro) 150 a (euro) 750, no caso das contra-ordenações leves;
+
+b) De (euro) 300 a (euro) 1500, no caso das contra-ordenações graves;
+
+c) De (euro) 600 a (euro) 3000, no caso das contra-ordenações muito graves.
+
+6 - Se a contra-ordenação tiver sido cometida por um órgão de pessoa colectiva ou de associação sem personalidade jurídica, no exercício das suas funções e no interesse do representado, é aplicada a este a coima correspondente, sem prejuízo da responsabilidade individual do agente da contra-ordenação.
+
+7 - Se o agente retirou da infracção um benefício económico calculável superior ao limite máximo da coima, e não existirem outros meios de o eliminar, pode esta elevar-se até ao montante do benefício, não devendo, todavia, a elevação exceder o limite máximo estabelecido no regime geral das contra-ordenações.
+
+8 - A tentativa e a negligência são puníveis.
+
+9 - Nos casos de cumplicidade e de tentativa, bem como nas demais situações em que houver lugar à atenuação especial da sanção, os limites máximo e mínimo da coima são reduzidos para metade.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 135/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2010-306578), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125), em vigor a partir de 2008-08-13
+
+###### Artigo 34.º — Sanções acessórias
+
+1 - Em processo de contra-ordenação, podem ser aplicadas simultaneamente com a coima as seguintes sanções acessórias:
+
+a) A apreensão de objectos que tenham servido para a prática da contra-ordenação;
+
+b) O encerramento do estabelecimento por um período não superior a dois anos;
+
+c) A suspensão, por um período não superior a dois anos, do alvará ou da licença concedido para o exercício da actividade de segurança privada ou da autorização para a utilização de meios de segurança;
+
+d) A interdição do exercício de funções ou de prestação de serviços de segurança por período não superior a dois anos.
+
+2 - Se o facto constituir simultaneamente crime, o agente é punido por este, sem prejuízo das sanções acessórias previstas para a contra-ordenação.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125)
+
+###### Artigo 35.º — Competência
+
+1 - São competentes para o levantamento dos autos de contra-ordenação previstos no presente diploma as entidades referidas no artigo 31.º
+
+2 - É competente para a instrução dos processos de contra-ordenação o secretário-geral do Ministério da Administração Interna, o qual pode delegar aquela competência nos termos da lei e sem prejuízo das competências próprias das forças de segurança.
+
+3 - A aplicação das coimas e sanções acessórias previstas no presente diploma compete ao Ministro da Administração Interna.
+
+4 - O produto das coimas referidas no número anterior reverte para o Estado, sendo 50 % para a Polícia de Segurança Pública.
+
+5 - Na execução para a cobrança da coima, responde por esta a caução prestada nos termos previstos no presente diploma.
+
+6 - Na Secretaria-Geral do Ministério da Administração Interna, é mantido, em registo próprio, o cadastro de cada entidade a que foram aplicadas sanções previstas no presente diploma.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 135/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2010-306578), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125)
+
+###### Artigo 36.º — Legislação aplicável
+
+Às contra-ordenações previstas no presente diploma é aplicado o regime geral que regula o processo contra-ordenacional, nos termos da respectiva lei geral, com as adaptações constantes dos artigos 31.º a 35.º
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a [Lei n.º 38/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/lei/38-2008-455125)
+
+### Capítulo VII — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 37.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 298/79, de 17 de Agosto, e 231/98, de 22 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 94/2002, de 12 de Abril.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+###### Artigo 38.º — Norma transitória
+
+1 - Os alvarás e licenças emitidos ao abrigo do Decreto-Lei n.º 231/98, de 22 de Julho, passam a valer, independentemente de quaisquer formalidades, como os alvarás e licenças emitidos ao abrigo do presente diploma, nos seguintes termos:
+
+a) Os alvarás e licenças emitidos ao abrigo das alíneas b) e c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 231/98, de 22 de Julho, autorizam o exercício das actividades previstas na alínea a) do n.º 1 do artigo 2.º do presente diploma;
+
+b) O alvará e a licença emitidos ao abrigo da alínea d) do n.º 1 do artigo 2.º do Decreto-Lei n.º 231/98, de 22 de Julho, autorizam o exercício das actividades previstas na alínea b) do n.º 1 do artigo 2.º do presente diploma;
+
+c) O alvará e a licença emitidos ao abrigo da alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 231/98, de 22 de Julho, autorizam o exercício das actividades previstas na alínea c) do n.º 1 do artigo 2.º do presente diploma;
+
+d) O alvará e a licença emitidos ao abrigo da alínea e) do n.º 1 do artigo 2.º do Decreto-Lei n.º 231/98, de 22 de Julho, autorizam o exercício das actividades previstas na alínea d) do n.º 1 do artigo 2.º do presente diploma.
+
+2 - Sem prejuízo do disposto no número anterior, as entidades já detentoras de alvará ou licença emitido ao abrigo do Decreto-Lei n.º 231/98, de 22 de Julho, devem adaptar-se às condições impostas nas alíneas b), d) e e) do n.º 2 do artigo 26.º e na alínea b) do n.º 2 do artigo 27.º, respectivamente, no prazo de um ano a contar da data da entrada em vigor do presente diploma.
+
+3 - Sem prejuízo do disposto no n.º 1, as entidades já detentoras de alvará ou licença emitido ao abrigo do Decreto-Lei n.º 231/98, de 22 de Julho, devem adaptar-se à condição imposta na alínea c) do n.º 2 dos artigos 26.º e 27.º, respectivamente, no prazo de um ano a contar da data da entrada em vigor da portaria prevista no n.º 1 do artigo 7.º do presente diploma.
+
+4 - Os cartões emitidos ao abrigo do artigo 9.º do Decreto-Lei n.º 231/98, de 22 de Julho, e regulamentação complementar mantêm-se em vigor até ao termo da respectiva validade, sendo substituídos nos termos e condições previstos no n.º 3 do artigo 10.º do presente diploma.
+
+5 - Enquanto não forem aprovadas as portarias previstas nas alíneas e) e f) do n.º 2 do artigo 26.º, é apenas exigível a cobertura dos riscos aí previstos nos montantes aí indicados.
+
+6 - Mantêm-se em vigor as Portarias n.os 969/98, de 16 de Novembro, 1325/2001, de 4 de Dezembro, 971/98, de 16 de Novembro, alterada pela Portaria n.º 485/2003, de 17 de Junho, 135/99, de 26 de Fevereiro, 25/99, de 16 de Janeiro, 972/98, de 16 de Novembro, e 1522-B/2002 e 1522-C/2002, ambas de 20 de Dezembro, publicadas ao abrigo do Decreto-Lei n.º 231/98, de 22 de Julho, na parte em que não forem materialmente incompatíveis com o presente diploma, até serem substituídas.
+
+7 - Os alvarás e licenças que em 2011 perfaçam cinco ou mais anos de vigência devem ser renovados nesse ano até ao dia e mês da data da sua emissão.
+
+8 - Os alvarás e licenças não contemplados no número anterior devem ser renovados quando completem cinco anos de vigência até ao dia e mês da data da sua emissão.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 135/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2010-306578), em vigor a partir de 2011-01-01
+
+###### Artigo 39.º — Entrada em vigor
+
+O presente diploma entra em vigor no 30.º dia após o da respectiva publicação.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15
+
+Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix.
+
+Promulgado em 6 de Fevereiro de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 11 de Fevereiro de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+> Revogado pelo/a Artigo 67.º do/a [Lei n.º 34/2013 - Diário da República n.º 94/2013, Série I de 2013-05-16](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), em vigor a partir de 2013-06-15

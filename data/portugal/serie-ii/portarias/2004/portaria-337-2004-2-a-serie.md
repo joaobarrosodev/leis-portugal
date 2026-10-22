@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:1163509:por
+title: Portaria n.º 337/2004 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Ciência e do Ensino Superior e da Saúde
+proposing_entity: null
+official_number: 337/2004 (2.ª série)
+official_date: null
+publication_date: '2004-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/2004, Série II de 2004-03-25
+  number: '72'
+  series: II
+  supplement: null
+  pages: 4664 - 4664
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/03/072000000/0466404664.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1163509'
+  dre_path: /dr/detalhe/portaria/337-2004-1163509
+  internal: pt:dre:1163509:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-2004-1163509
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-2004-1163509
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-03-25T00:00:00Z'
+integrity:
+  source_sha256: faf8308eeafb6ad50a0a676655795efb204de1d55e2f2b93c9611c1905f8fad1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-337-1163509.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 337/2004 (2.ª série)
+
+Portaria n.º 337/2004 (2.ª série). - Considerando o disposto no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, alterado pelos Decretos-Lei n.os [294/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), de 24 de Julho, [247/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1989-618878), de 5 de Agosto, [311/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1994-571600), de 21 de Dezembro, e [188/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2003-654680), de 20 de Agosto;
+
+Considerando o protocolo celebrado, nos termos e ao abrigo do disposto no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), entre a Faculdade de Ciências Médicas da Universidade Nova de Lisboa e os Hospitais Civis de Lisboa, homologado pela [Portaria n.º 916/85](https://diariodarepublica.pt/dr/detalhe/portaria/916-1985-170366), de 29 de Novembro;
+
+Considerando o protocolo celebrado entre a Faculdade de Ciências Médicas da Universidade Nova de Lisboa e o Hospital de Curry Cabral, publicado no Diário da República, 2.ª série, de 11 de Dezembro de 1992;
+
+Considerando a primeira alteração a este protocolo, publicada no Diário da República, 2.ª série, de 14 de Maio de 1997;
+
+Considerando que as duas instituições deliberaram alterar o referido protocolo;
+
+Considerando que, nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), os protocolos só terão eficácia depois de homologados por portaria conjunta dos Ministros da Ciência e do Ensino Superior e da Saúde;
+
+Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665):
+
+Manda o Governo, pelos Ministros da Ciência e do Ensino Superior e da Saúde, homologar a anexa segunda alteração ao protocolo celebrado, nos termos e ao abrigo do disposto no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665) entre a Faculdade de Ciências Médicas da Universidade Nova de Lisboa e o Hospital de Curry Cabral.
+
+6 de Fevereiro de 2004. - A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro da Saúde, Luís Filipe Pereira.
+
+## ANEXO
+
+Protocolo celebrado entre a Faculdade de Ciências Médicas da Universidade Nova de Lisboa e o Hospital de Curry Cabral, nos termos e ao abrigo do disposto no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), alterado pelos Decretos-Lei n.os [294/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), de 24 de Julho, [247/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1989-618878), de 5 de Agosto, [311/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1994-571600), de 21 de Dezembro, e [188/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2003-654680), de 20 de Agosto (aviso publicado no Diário da República, 2.ª série, de 11 de Dezembro de 1992, e aviso publicado no Diário da República, 2.ª série, de 14 de Maio de 1997) - Segunda alteração.
+
+O n.º 1 passa a ter a seguinte redacção:
+
+"1 - ...
+
+1.1 - As disciplinas cujo ensino será ministrado no Hospital de Curry Cabral serão, durante a vigência deste protocolo, as seguintes:
+
+a) Urologia;
+
+b) Iniciação à Clínica;
+
+c) Patologia Médica;
+
+d) Patologia Cirúrgica;
+
+e) Clínica Médica (6.º ano profissionalizante);
+
+f) Clínica Cirúrgica (6.º ano profissionalizante);
+
+g) Medicina Física e de Reabilitação.
+
+1.2 - O ensino das disciplinas referidas anteriormente será ministrado nos seguintes serviços hospitalares:
+
+a) Urologia;
+
+b) Medicina 1;
+
+c) Nefrologia;
+
+d) Cirurgia;
+
+e) Unidade de transplantes;
+
+f) Medicina física e de reabilitação;
+
+g) Urgência."

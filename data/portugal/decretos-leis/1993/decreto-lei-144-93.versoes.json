@@ -1,0 +1,1888 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:665346:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-868101338",
+ "dre_path": "/dr/detalhe/decreto-lei/144-1993-665346",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868102987",
+    "867991352",
+    "867991353",
+    "867991354",
+    "867991355",
+    "867991356",
+    "867991357",
+    "867991358",
+    "867991359",
+    "867991360",
+    "867991361",
+    "867991362",
+    "867991363",
+    "867991364",
+    "867991365",
+    "867991366",
+    "867991367",
+    "867991368",
+    "867991369",
+    "867991370",
+    "867991371",
+    "867991372",
+    "867991373",
+    "867991374",
+    "868102575",
+    "868102576",
+    "868102577",
+    "868102578",
+    "868102579",
+    "868102580",
+    "868102581",
+    "868102582",
+    "868102583",
+    "868102584",
+    "868102585",
+    "868102586",
+    "868102587",
+    "868102588",
+    "868102589",
+    "868102590",
+    "868102591",
+    "868102592",
+    "868102593",
+    "868102594",
+    "868102595",
+    "868102596",
+    "868102597",
+    "868102598",
+    "868102599",
+    "868102600",
+    "868102601",
+    "868102602",
+    "868102603",
+    "868102604",
+    "868102605",
+    "868102606",
+    "868102607",
+    "868102608",
+    "868102609",
+    "868102610",
+    "868102611",
+    "868102612",
+    "868102613"
+   ]
+  },
+  {
+   "date": "1997-05-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:384599:por",
+     "title": "Decreto-Lei n.º 111/97",
+     "published": "1997-05-09",
+     "dre_path": "/dr/detalhe/decreto-lei/111-1997-384599"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A",
+    "Adita Artigo 18.º-B",
+    "Adita Artigo 26.º-A",
+    "Adita Artigo 26.º-B",
+    "Altera Artigo 17.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 44.º"
+   ],
+   "fragments": [
+    "867991351",
+    "867991352",
+    "867991353",
+    "867991354",
+    "867991355",
+    "867991356",
+    "867991357",
+    "867991358",
+    "867991359",
+    "867991360",
+    "867991361",
+    "867991362",
+    "867991363",
+    "867991364",
+    "867991365",
+    "867991366",
+    "867991367",
+    "867991368",
+    "867991369",
+    "867991370",
+    "868102655",
+    "868102624",
+    "868102980",
+    "868102981",
+    "868102982",
+    "867991374",
+    "868102575",
+    "868102576",
+    "868102577",
+    "868102578",
+    "868102579",
+    "868102580",
+    "868102645",
+    "868102582",
+    "868102626",
+    "868102629",
+    "868102637",
+    "868102646",
+    "868102639",
+    "868102640",
+    "868102647",
+    "868102648",
+    "868102649",
+    "868102644",
+    "868102591",
+    "868102650",
+    "868102593",
+    "868102594",
+    "868102595",
+    "868102596",
+    "868102651",
+    "868102652",
+    "868102653",
+    "868102600",
+    "868102601",
+    "868102602",
+    "868102654",
+    "868102604",
+    "868102605",
+    "868102606",
+    "868102607",
+    "868102608",
+    "868102609",
+    "868102610",
+    "868102611",
+    "868102612",
+    "868102613",
+    "868102614"
+   ]
+  },
+  {
+   "date": "1999-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:426156:por",
+     "title": "Decreto-Lei n.º 303/99",
+     "published": "1999-08-06",
+     "dre_path": "/dr/detalhe/decreto-lei/303-1999-426156"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º"
+   ],
+   "fragments": [
+    "867991351",
+    "867991352",
+    "867991353",
+    "867991354",
+    "867991355",
+    "867991356",
+    "867991357",
+    "867991358",
+    "867991359",
+    "867991360",
+    "867991361",
+    "867991362",
+    "867991363",
+    "867991364",
+    "867991365",
+    "867991366",
+    "867991367",
+    "867991368",
+    "867991369",
+    "867991370",
+    "868102655",
+    "868102624",
+    "868102980",
+    "868102981",
+    "868102982",
+    "867991374",
+    "868102575",
+    "868102576",
+    "868102577",
+    "868102975",
+    "868102579",
+    "868102580",
+    "868102645",
+    "868102582",
+    "868102626",
+    "868102629",
+    "868102637",
+    "868102646",
+    "868102639",
+    "868102640",
+    "868102647",
+    "868102648",
+    "868102649",
+    "868102644",
+    "868102591",
+    "868102650",
+    "868102983",
+    "868102984",
+    "868102985",
+    "868102986",
+    "868102651",
+    "868102652",
+    "868102653",
+    "868102600",
+    "868102601",
+    "868102602",
+    "868102654",
+    "868102604",
+    "868102605",
+    "868102606",
+    "868102607",
+    "868102608",
+    "868102609",
+    "868102610",
+    "868102611",
+    "868102612",
+    "868102613",
+    "868102614"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:345127:por",
+     "title": "Lei n.º 112/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/112-1999-345127",
+     "date": "1999-08-08"
+    }
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243744:por",
+     "title": "Decreto-Lei n.º 248-B/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/248-b-2008-243744"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma",
+    "Revoga Capítulo I",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Capítulo II",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Capítulo III",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 18.º-A",
+    "Revoga Artigo 18.º-B",
+    "Revoga Artigo 19.º",
+    "Revoga Capítulo IV",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Secção II",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 26.º-A",
+    "Revoga Artigo 26.º-B",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Secção IV",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Capítulo V",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Capítulo VI",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º"
+   ],
+   "fragments": [
+    "868102987",
+    "868172429",
+    "868172436",
+    "868172437",
+    "868172438",
+    "868172439",
+    "868172440",
+    "868172441",
+    "868172442",
+    "868172448",
+    "868172449",
+    "868172450",
+    "868172451",
+    "868172452",
+    "868172453",
+    "868172464",
+    "868172465",
+    "868172466",
+    "868172467",
+    "868172468",
+    "868172469",
+    "868172470",
+    "868172471",
+    "868172472",
+    "868172473",
+    "868172474",
+    "868416875",
+    "868416908",
+    "868416909",
+    "868416878",
+    "868416910",
+    "868416924",
+    "868416925",
+    "868416926",
+    "868416927",
+    "868416928",
+    "868416929",
+    "868416930",
+    "868416931",
+    "868416932",
+    "868416933",
+    "868416934",
+    "868416935",
+    "868416936",
+    "868416893",
+    "868416937",
+    "868416895",
+    "868416896",
+    "868416897",
+    "868416898",
+    "868416938",
+    "868416939",
+    "868416940",
+    "868416941",
+    "868416947",
+    "868416948",
+    "868416949",
+    "868416950",
+    "868416951",
+    "868416952",
+    "868416956",
+    "868416957",
+    "868416958",
+    "868416959",
+    "868416963",
+    "868416964",
+    "868416965",
+    "868103054"
+   ]
+  }
+ ],
+ "fragments": {
+  "868102987": {
+   "fragment_id": "868101339",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 144/93\n\nde 26 de Abril\n\nO enquadramento normativo das federações desportivas, enquanto segmento do fenómeno desportivo, é essencial para o desenvolvimento do desporto nacional, com especial relevo no percurso da alta competição.\n\nTal fenómeno, que alia tradição e modernidade, não pode desconhecer que a própria Carta Olímpica renunciou ao amadorismo e a Carta Europeia do Desporto consagrou, no seu artigo 8.º, o desporto profissional como realidade autónoma.\n\nOra, e na sequência da Lei de Bases do Sistema Desportivo, importa, sem pôr em causa a natureza do movimento desportivo e das suas estruturas, dotar o desporto profissional com uma forma diversa e específica de organização e funcionamento, no seio do sistema desportivo. Para além disso, e ainda nos termos da Lei n.º 1/90, de 13 de Janeiro, torna-se necessário encontrar a adequada tradução normativa dessa realidade no regime jurídico das federações desportivas.\n\nDefinidas como associações de direito privado sem fins lucrativos, as federações dotadas de utilidade pública desportiva exercem em exclusivo poderes de natureza pública inscritos na lei. Desta sorte, garantida a sua independência face ao Estado, o presente diploma assegura a liberdade da sua organização associativa, respeitados os princípios democráticos e de representatividade.\n\nA especificidade do sector profissional no fenómeno desportivo reflecte-se na constituição, no seio das federações referentes a modalidades em que se disputam competições desportivas de carácter profissional, do organismo previsto no artigo 24.º da Lei n.º 1/90, de 13 de Janeiro, integrado obrigatória e exclusivamente pelos clubes ou sociedades com fins desportivos que tenham específicos vínculos de carácter laboral com os seus praticantes.\n\nA tal organismo, cuja natureza e possibilidade de personalização não foram objecto de regulação expressa, competirá, entre outras funções, organizar e regulamentar as competições profissionais da respectiva modalidade, administrar o sistema de arbitragem e exercer o poder disciplinar em primeiro grau de decisão.\n\nAs relações de carácter desportivo e financeiro entre as estruturas do desporto profissional e do desporto amador resultarão de protocolos a celebrar entre ambas, no seio da respectiva federação, observados os princípios estabelecidos neste diploma.\n\nA transparência necessária à actuação dos órgãos das entidades intervenientes no desporto é assegurada pelo depósito, para fins de conhecimento público, dos documentos que titulam os actos mais relevantes praticados no seu seio.\n\nNo plano da organização interna das federações, constitui inovação a elevação do presidente a órgão federativo com competências próprias, sobretudo no plano de representação e coordenação.\n\nFinalmente, salienta-se a obrigatoriedade de participação nas selecções nacionais de praticantes desportivos que, nessa qualidade, tenham recebido apoios do Estado e o envolvimento do Conselho Superior de Desporto e do Comité Olímpico de Portugal na concessão e no cancelamento do estatuto de utilidade pública desportiva.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "867991352": {
+   "fragment_id": "868101340",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "867991353": {
+   "fragment_id": "868101341",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico das federações desportivas e as condições de atribuição do estatuto de utilidade pública desportiva."
+  },
+  "867991354": {
+   "fragment_id": "868101342",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\n1 - Federação desportiva é a pessoa colectiva que, integrando agentes desportivos, clubes ou agrupamentos de clubes, se constitua sob a forma de associação sem fim lucrativo, propondo-se prosseguir, a nível nacional, exclusiva ou cumulativamente, os objectivos enunciados no artigo 21.º da Lei n.º 1/90, de 13 de Janeiro.\n\n2 - As federações desportivas podem ser unidesportivas ou multidesportivas.\n\n3 - A aplicação do presente diploma às federações multidesportivas faz-se com as adaptações impostas pela sua natureza, atendendo às exigências específicas da organização social em que promovam o desenvolvimento da prática desportiva."
+  },
+  "867991355": {
+   "fragment_id": "868101343",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime jurídico\n\nÀs federações desportivas é aplicável o disposto no presente diploma e, subsidiariamente, o regime jurídico das associações de direito privado."
+  },
+  "867991356": {
+   "fragment_id": "868101344",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de organização e funcionamento\n\n1 - As federações desportivas organizam-se e prosseguem as suas actividades de acordo com os princípios da liberdade, da democraticidade e da representatividade.\n\n2 - As federações desportivas são independentes do Estado, dos partidos políticos e das instituições religiosas."
+  },
+  "867991357": {
+   "fragment_id": "868101345",
+   "type": 11,
+   "heading": "Artigo 5.º — Denominação e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Denominação e sede\n\n1 - As federações desportivas devem, na sua denominação, mencionar a modalidade desportiva a que dedicam a sua actividade.\n\n2 - As federações desportivas têm a sua sede em território nacional."
+  },
+  "867991358": {
+   "fragment_id": "868101346",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade\n\n1 - As federações desportivas respondem civilmente perante terceiros pelos actos ou omissões dos seus órgãos, nos mesmos termos em que os comitentes respondem pelos actos ou omissões dos seus comissários.\n\n2 - Os titulares dos órgãos das federações desportivas respondem civilmente perante estas pelos prejuízos causados pelo incumprimento dos seus deveres legais ou estatutários.\n\n3 - A responsabilidade prevista no número anterior cessa com a aprovação do relatório e contas em assembleia geral, salvo no tocante a factos que a esta hajam sido ocultados ou que, pela sua natureza, não devam constar daqueles documentos.\n\n4 - O disposto nos números anteriores não prejudica a responsabilidade penal ou disciplinar em que eventualmente incorram os titulares dos órgãos das federações desportivas."
+  },
+  "867991359": {
+   "fragment_id": "868101347",
+   "type": 1,
+   "heading": "Capítulo II — Utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Utilidade pública desportiva"
+  },
+  "867991360": {
+   "fragment_id": "868101348",
+   "type": 11,
+   "heading": "Artigo 7.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conteúdo\n\nO estatuto de utilidade pública desportiva atribui a uma federação desportiva, em exclusivo, a competência para o exercício, dentro do respectivo âmbito, de poderes de natureza pública, bem como a titularidade de direitos especialmente previstos na lei."
+  },
+  "867991361": {
+   "fragment_id": "868101349",
+   "type": 11,
+   "heading": "Artigo 8.º — Poderes públicos das federações dotadas de utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Poderes públicos das federações dotadas de utilidade pública desportiva\n\n1 - Têm natureza pública os poderes das federações exercidos no âmbito da regulamentação e disciplina das competições desportivas, que sejam conferidos pela lei para a realização obrigatória de finalidades compreendidas nas atribuições do Estado e envolvam, perante terceiros, o desempenho de prerrogativas de autoridade ou a prestação de apoios ou serviços legalmente determinados.\n\n2 - Dos actos praticados pelos órgãos das federações dotadas de utilidade pública desportiva no exercício de poderes públicos cabe recurso contencioso para os tribunais administrativos."
+  },
+  "867991362": {
+   "fragment_id": "868101350",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito de inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direito de inscrição\n\nAs federações desportivas dotadas de utilidade pública desportiva não podem recusar a inscrição dos cidadãos nacionais, bem como os dos clubes ou sociedades com fins desportivos com sede em território nacional que a solicitem, desde que preencham as condições regulamentares de filiação."
+  },
+  "867991363": {
+   "fragment_id": "868101351",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nA fiscalização pela Administração Pública do exercício de poderes públicos e da utilização de dinheiros públicos é efectuada, nos termos da lei, mediante a realização de inspecções, inquéritos e sindicâncias."
+  },
+  "867991364": {
+   "fragment_id": "868101352",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos das federações desportivas com utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos das federações desportivas com utilidade pública desportiva\n\n1 - As federações desportivas dotadas de utilidade pública desportiva têm direito, nomeadamente:\n\na) À participação na definição da política desportiva nacional;\n\nb) À representação no Conselho Superior de Desporto;\n\nc) Ao apoio do Estado para o estabelecimento de relações com organismos internacionais;\n\nd) À isenção de imposto de sucessões e doações relativamente aos bens adquiridos a título gratuito, nos termos do n.º 3 do artigo 18.º da Lei n.º 1/90, de 13 de Janeiro;\n\ne) Às receitas que lhes sejam consignadas por lei;\n\nf) À coordenação e orientação dos quadros competitivos da própria modalidade, no âmbito do livre associativismo e nos termos do presente diploma;\n\ng) Ao reconhecimento das selecções nacionais por elas organizadas;\n\nh) Ao uso da qualificação «utilidade pública desportiva», ou, abreviadamente, «UPD», a seguir à sua denominação.\n\n2 - Para além dos previstos no número anterior e de todos aqueles que lhes advenham da prossecução do respectivo escopo social, as federações exercem, ainda, os direitos que nos estatutos lhes sejam conferidos pelos seus associados.\n\n3 - Pode o Estado conceder às federações apoio em meios técnicos, materiais, humanos e, eventualmente, financeiros."
+  },
+  "867991365": {
+   "fragment_id": "868101353",
+   "type": 1,
+   "heading": "Capítulo III — Titularidade do estatuto de utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Titularidade do estatuto de utilidade pública desportiva"
+  },
+  "867991366": {
+   "fragment_id": "868101354",
+   "type": 11,
+   "heading": "Artigo 12.º — Titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Titularidade\n\n1 - O estatuto de utilidade pública é concedido a, conforme o caso, uma federação unidesportiva ou multidesportiva.\n\n2 - Compete ao Conselho Superior de Desporto dar parecer, para efeitos do número anterior, sobre o âmbito de uma modalidade desportiva ou de uma área específica de organização social, consoante os casos."
+  },
+  "867991367": {
+   "fragment_id": "868101355",
+   "type": 11,
+   "heading": "Artigo 13.º — Atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Atribuição\n\n1 - A atribuição do estatuto de utilidade pública desportiva é decidida em função dos seguintes critérios:\n\na) Democraticidade e representatividade dos órgãos federativos;\n\nb) Independência e competência técnica dos órgãos jurisdicionais próprios;\n\nc) Grau de implantação social e desportiva a nível nacional;\n\nd) Enquadramento em federação internacional de reconhecida representatividade.\n\n2 - A ponderação do critério previsto na alínea c) do número anterior é feita com base, designadamente, nos seguintes indicadores:\n\na) Número de praticantes desportivos filiados;\n\nb) Número de clubes e associações de clubes filiados;\n\nc) Distribuição geográfica dos praticantes e clubes desportivos filiados;\n\nd) Frequência e regularidade das competições desportivas organizadas;\n\ne) Nível quantitativo e qualitativo das competições desportivas organizadas.\n\n3 - Podem ser estabelecidos, por diploma próprio, requisitos especiais para as federações multidesportivas, atendendo às exigências das áreas específicas de organização social em que pretendam promover o desenvolvimento da prática desportiva."
+  },
+  "867991368": {
+   "fragment_id": "868101356",
+   "type": 11,
+   "heading": "Artigo 14.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Requerimento\n\n1 - O pedido de atribuição do estatuto de utilidade pública desportiva é dirigido ao Primeiro-Ministro e entregue no Instituto do Desporto.\n\n2 - As regras de instrução do processo para a concessão da utilidade pública desportiva constam de diploma próprio."
+  },
+  "867991369": {
+   "fragment_id": "868101357",
+   "type": 11,
+   "heading": "Artigo 15.º — Audição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Audição\n\n1 - Para a atribuição do estatuto de utilidade pública desportiva são ouvidos, sobre o requerimento dos interessados, o Conselho Superior de Desporto e o Comité Olímpico de Portugal.\n\n2 - As entidades referidas no número anterior devem emitir o seu parecer nos 60 dias subsequentes à recepção do respectivo pedido."
+  },
+  "867991370": {
+   "fragment_id": "868101358",
+   "type": 11,
+   "heading": "Artigo 16.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Publicidade\n\nOs despachos de atribuição ou recusa do estatuto de utilidade pública desportiva são publicados no Diário da República."
+  },
+  "867991371": {
+   "fragment_id": "868101359",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cessação de efeitos\n\n1 - O estatuto de utilidade pública desportiva e os inerentes poderes públicos cessam:\n\na) Com a extinção da federação desportiva;\n\nb) Por decisão da entidade competente para a atribuição do estatuto de utilidade pública desportiva.\n\n2 - Cessa, de imediato, o estatuto de utilidade pública desportiva se nos 180 dias subsequentes à publicação do despacho da atribuição do estatuto de utilidade pública desportiva não estiverem cumpridas as regras de organização previstas nos artigos 20.º a 40.º"
+  },
+  "867991372": {
+   "fragment_id": "868101360",
+   "type": 11,
+   "heading": "Artigo 18.º — Cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cancelamento\n\n1 - O cancelamento do estatuto de utilidade pública desportiva só pode ter lugar verificado um dos seguintes fundamentos:\n\na) Terem as federações desportivas incorrido, por acção ou omissão, em ilegalidade grave ou em prática continuada de irregularidades, quando no exercício de poderes públicos ou na utilização de dinheiros públicos, verificadas em inspecção, inquérito ou sindicância;\n\nb) Falta de qualquer dos requisitos previstos nos n.os 1 e 2 do artigo 13.º\n\n2 - O cancelamento do estatuto de utilidade pública desportiva com fundamento na falta de implantação social e desportiva só pode basear-se na insuficiência manifesta dos respectivos indicadores, de acordo com os critérios aplicáveis à sua avaliação no momento do cancelamento, ou na insuficiência relativa de tais indicadores em confronto com os apresentados por entidade concorrente à concessão do estatuto no âmbito da mesma modalidade."
+  },
+  "867991373": {
+   "fragment_id": "868101361",
+   "type": 11,
+   "heading": "Artigo 19.º — Iniciativa e processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Iniciativa e processo\n\n1 - O processo de cancelamento do estatuto de utilidade pública desportiva é instaurado pelo Instituto do Desporto, oficiosamente ou por iniciativa do Conselho Superior de Desporto, do Comité Olímpico de Portugal ou de uma entidade concorrente à concessão do estatuto no âmbito da mesma modalidade.\n\n2 - A entidade referida na parte final do número anterior só pode solicitar o cancelamento desde que, simultaneamente, requeira para si a concessão do estatuto de utilidade pública desportiva, não podendo, em caso de indeferimento, apresentar novo pedido, fundamentado no n.º 2 do artigo anterior, antes de decorrido o ciclo olímpico em curso.\n\n3 - Ao processo de cancelamento é aplicável, com as necessárias adaptações, o disposto nos artigos 15.º e 16.º, dispensando-se o parecer do Conselho Superior de Desporto ou do Comité Olímpico de Portugal quando o processo tenha sido desencadeado por iniciativa de uma destas entidades."
+  },
+  "867991374": {
+   "fragment_id": "868101362",
+   "type": 1,
+   "heading": "Capítulo IV — Organização interna das federações dotadas de utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Organização interna das federações dotadas de utilidade pública desportiva"
+  },
+  "868102575": {
+   "fragment_id": "868101363",
+   "type": 8,
+   "heading": "Secção I — Estatutos e regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Estatutos e regulamentos"
+  },
+  "868102576": {
+   "fragment_id": "868101364",
+   "type": 11,
+   "heading": "Artigo 20.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estatutos\n\nOs estatutos das federações desportivas dotadas de utilidade pública desportiva devem especificar e regular, para além das exigidas pela lei geral, as seguintes matérias:\n\na) Estrutura territorial;\n\nb) Órgãos e sua composição, competência e funcionamento;\n\nc) Sistema eleitoral dos órgãos;\n\nd) Aquisição e perda de qualidade do associado;\n\ne) Regras de relacionamento com os clubes e com as associações de clubes;\n\nf) Regime orçamental e de prestação de contas;\n\ng) Processos de coordenação dos diferentes vectores competitivos da modalidade;\n\nh) Processo de alteração dos estatutos;\n\ni) Causas de extinção e dissolução;\n\nj) Definição e regime de relacionamento entre os órgãos federativos e o organismo encarregado de dirigir a actividade desportiva no âmbito das competições de carácter profissional na respectiva modalidade;\n\nl) Definição, composição, competência e funcionamento da estrutura de direcção da actividade técnico-desportiva no âmbito do fomento, desenvolvimento e progresso técnico da modalidade, designadamente nas variáveis de formação de praticantes, técnicos e outros agentes, da detecção de talentos e da constituição das selecções nacionais."
+  },
+  "868102577": {
+   "fragment_id": "868101365",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamentos\n\nPara além de outras que se mostrem necessárias, as federações desportivas dotadas de utilidade pública desportiva devem elaborar regulamentos que contemplem as seguintes matérias:\n\na) Funcionamento e articulação de órgãos e serviços;\n\nb) Organização de provas;\n\nc) Participação nas selecções nacionais;\n\nd) Participação de praticantes estrangeiros nas provas;\n\ne) Disciplina;\n\nf) Arbitragem e juízes;\n\ng) Medidas de defesa da ética desportiva, designadamente nos domínios da prevenção e da punição da violência associada ao desporto, da dopagem e da corrupção no fenómeno desportivo;\n\nh) Atribuição do estatuto de alta competição e respectivos critérios."
+  },
+  "868102578": {
+   "fragment_id": "868101366",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime disciplinar\n\n1 - No âmbito desportivo, o poder disciplinar das federações dotadas de utilidade pública desportiva exerce-se sobre os clubes, dirigentes, praticantes, treinadores, técnicos, árbitros, juízes e, em geral, sobre todos os agentes desportivos que, encontrando-se nelas filiados, desenvolvam a actividade desportiva compreendida no seu objecto estatutário, nos termos do respectivo regime disciplinar.\n\n2 - O regime disciplinar deve prever, designadamente, as seguintes matérias:\n\na) Graduação das infracções como leves, graves e muito graves e determinação das correspondentes sanções;\n\nb) Sujeição aos princípios da igualdade, irretroactividade e proporcionalidade da aplicação de sanções;\n\nc) Exclusão das penas de irradiação ou de duração indeterminada;\n\nd) Enumeração das causas ou circunstâncias que eximam, atenuem ou agravem a responsabilidade do infractor, bem como os requisitos da extinção desta;\n\ne) Exigência de processo disciplinar, para a aplicação de sanções, quando estejam em causa infracções qualificadas como muito graves e, em qualquer caso, quando a sanção a aplicar determine a suspensão de actividade por período superior a um mês;\n\nf) Consagração das garantias de defesa do arguido, designadamente exigindo que a acusação seja suficientemente esclarecedora dos factos determinantes do exercício do poder disciplinar e estabelecendo a obrigatoriedade de audiência do arguido nos casos em que seja necessária a instauração de processo disciplinar;\n\ng) Garantia de recurso, seja ou não obrigatória a instauração de processo disciplinar.\n\n3 - Se a infracção revestir carácter contra-ordenacional ou criminal, o órgão disciplinar competente deve dar conhecimento do facto às entidades competentes."
+  },
+  "868102579": {
+   "fragment_id": "868101367",
+   "type": 8,
+   "heading": "Secção II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estrutura orgânica"
+  },
+  "868102580": {
+   "fragment_id": "868101368",
+   "type": 11,
+   "heading": "Artigo 23.º — Órgãos estatutários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Órgãos estatutários\n\n1 - As federações desportivas dotadas de utilidade pública desportiva devem, na sua estrutura orgânica, contemplar os seguintes órgãos:\n\na) Assembleia geral;\n\nb) Presidente;\n\nc) Direcção;\n\nd) Conselho de arbitragem;\n\ne) Conselho fiscal;\n\nf) Conselho jurisdicional;\n\ng) Conselho disciplinar.\n\n2 - No seio de cada federação dotada de utilidade pública desportiva cuja modalidade inclua praticantes profissionais deve existir um organismo encarregado de dirigir especificamente as actividades desportivas de carácter profissional com autonomia administrativa, técnica e financeira."
+  },
+  "868102581": {
+   "fragment_id": "868101369",
+   "type": 11,
+   "heading": "Artigo 24.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Eleição\n\n1 - Os titulares dos órgãos das federações desportivas dotadas de utilidade pública desportiva referidos nas alíneas c) a g) do n.º 2 do artigo anterior são eleitos, em listas separadas, através de sufrágio directo e secreto.\n\n2 - Na falta de disposição diversa constante dos estatutos, o presidente da federação é o primeiro candidato da lista mais votada nas eleições para a direcção, sendo, em caso de renúncia ou impedimento definitivo, substituído pelo candidato que o segue na ordem estabelecida da lista referida no número anterior.\n\n3 - O conselho de arbitragem é eleito por maioria de dois terços dos membros da assembleia geral."
+  },
+  "868102582": {
+   "fragment_id": "868101370",
+   "type": 11,
+   "heading": "Artigo 25.º — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Assembleia geral\n\nA assembleia geral é o órgão deliberativo da federação dotada de utilidade pública desportiva, cabendo-lhe:\n\na) A eleição e a destituição dos titulares dos órgãos federativos referidos no n.º 1 do artigo 23.º;\n\nb) A aprovação do relatório, do balanço, do orçamento e dos documentos de prestação de contas;\n\nc) As alterações dos estatutos;\n\nd) A aprovação dos regulamentos previstos no artigo 21.º, incluindo o regime disciplinar;\n\ne) A aprovação da proposta de extinção da federação."
+  },
+  "868102583": {
+   "fragment_id": "868101371",
+   "type": 11,
+   "heading": "Artigo 26.º — Composição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Composição da assembleia geral\n\n1 - Integram a assembleia geral:\n\na) Sociedades com fins desportivos, clubes ou agrupamentos de clubes;\n\nb) Representantes de praticantes desportivos;\n\nc) Representantes de treinadores;\n\nd) Representantes de árbitros e juízes;\n\ne) Representantes de outros agentes desportivos englobados na respectiva federação desportiva.\n\n2 - A representação das sociedades com fins desportivos e dos clubes ou agrupamentos de clubes na assembleia geral faz-se de acordo com o estabelecido nos estatutos da federação, não lhes podendo corresponder, no conjunto, um número de votos superior a três quartos.\n\n3 - Os estatutos federativos não podem impedir os clubes e as sociedades com fins desportivos de participar na assembleia geral.\n\n4 - Relativamente aos clubes e sociedades com fins desportivos dotados de direito de voto, devem os estatutos definir os factores de ponderação aplicáveis com base, entre outros critérios, no número de associados que possuam e nos níveis de competição em que participam.\n\n5 - Os membros referidos nas alíneas b) e e) do n.º 1, quando existam associações de âmbito nacional representativas dos respectivos elementos, devem ser designados por estas."
+  },
+  "868102584": {
+   "fragment_id": "868101372",
+   "type": 11,
+   "heading": "Artigo 27.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Presidente\n\n1 - O presidente representa a federação, assegura o seu regular funcionamento e promove a colaboração entre os seus órgãos.\n\n2 - Compete, em especial, ao presidente da federação:\n\na) Representar a federação junto da Administração Pública;\n\nb) Representar a federação junto das suas organizações congéneres, nacionais, estrangeiras ou internacionais;\n\nc) Representar a federação em juízo;\n\nd) Assegurar a organização e o funcionamento dos serviços, bem como a escrituração dos livros, nos termos da lei;\n\ne) Contratar e gerir o pessoal ao serviço da federação;\n\nf) Assegurar a gestão corrente dos negócios federativos."
+  },
+  "868102585": {
+   "fragment_id": "868101373",
+   "type": 11,
+   "heading": "Artigo 28.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direcção\n\n1 - A direcção é o órgão colegial de administração da federação desportiva, constituída por um número ímpar de membros.\n\n2 - Compete à direcção administrar a federação, incumbindo-lhe, designadamente:\n\na) Organizar as selecções nacionais;\n\nb) Organizar as competições desportivas não profissionais;\n\nc) Garantir a efectivação dos direitos e deveres dos associados;\n\nd) Elaborar anualmente o plano de actividades;\n\ne) Elaborar anualmente e submeter a parecer do conselho fiscal o orçamento, o balanço e os documentos de prestação de contas;\n\nf) Administrar os negócios da federação em matérias que não sejam especialmente atribuídas a outros órgãos;\n\ng) Zelar pelo cumprimento dos estatutos e das deliberações dos órgãos da federação."
+  },
+  "868102586": {
+   "fragment_id": "868101374",
+   "type": 11,
+   "heading": "Artigo 29.º — Conselho de arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Conselho de arbitragem\n\nCabe ao conselho de arbitragem, sem prejuízo de outras competências atribuídas pelos estatutos, coordenar e administrar a actividade da arbitragem, aprovar as respectivas normas reguladoras, estabelecer os parâmetros de formação dos árbitros e proceder à classificação técnica destes."
+  },
+  "868102587": {
+   "fragment_id": "868102675",
+   "type": 11,
+   "heading": "Artigo 30.º — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conselho fiscal\n\n1 - O conselho fiscal, constituído por número ímpar de membros, fiscaliza os actos de administração financeira da federação, bem como o cumprimento dos estatutos e das disposições legais aplicáveis.\n\n2 - Compete, em especial, ao conselho fiscal:\n\na) Emitir parecer sobre o orçamento, o balanço e os documentos de prestação de contas;\n\nb) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte;\n\nc) Acompanhar o funcionamento da federação, participando aos órgãos competentes as irregularidades de que tenha conhecimento.\n\n3 - Um dos membros do conselho fiscal deve ser, obrigatoriamente, revisor oficial de contas."
+  },
+  "868102588": {
+   "fragment_id": "868102676",
+   "type": 11,
+   "heading": "Artigo 31.º — Conselho jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conselho jurisdicional\n\n1 - Para além de outras competências que lhe sejam cometidas pelos estatutos, cabe ao conselho jurisdicional conhecer dos recursos interpostos das decisões disciplinares em matéria desportiva.\n\n2 - O conselho jurisdicional é composto por um número ímpar de membros, podendo funcionar em secções especializadas.\n\n3 - Os membros do conselho jurisdicional são obrigatoriamente licenciados em Direito."
+  },
+  "868102589": {
+   "fragment_id": "868102677",
+   "type": 11,
+   "heading": "Artigo 32.º — Conselho disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Conselho disciplinar\n\n1 - Ao conselho disciplinar cabe, sem prejuízo de outras competências atribuídas pelos estatutos, apreciar e punir, de acordo com a lei e os regulamentos federativos, as infracções disciplinares em matéria desportiva.\n\n2 - O conselho disciplinar é composto por um número ímpar de membros, licenciados em Direito."
+  },
+  "868102590": {
+   "fragment_id": "868102678",
+   "type": 11,
+   "heading": "Artigo 33.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Actas\n\nDas reuniões de qualquer órgão colegial das federações desportivas é sempre lavrada acta, que deve ser assinada por todos os presentes ou, no caso da assembleia geral, pelos membros da respectiva mesa."
+  },
+  "868102591": {
+   "fragment_id": "868102679",
+   "type": 8,
+   "heading": "Secção III — Organização do sector profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Organização do sector profissional"
+  },
+  "868102592": {
+   "fragment_id": "868102680",
+   "type": 11,
+   "heading": "Artigo 34.º — Organismo autónomo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Organismo autónomo\n\n1 - Nas federações desportivas em cuja modalidade se disputem competições de carácter profissional deve ser constituído um organismo dotado de autonomia administrativa, técnica e financeira, integrado, obrigatória e exclusivamente, pelos clubes ou sociedades com fins desportivos federados que participem em tais competições.\n\n2 - Cabe ao organismo a que se refere o número anterior exercer, relativamente às competições de carácter profissional, as competências da federação em matéria de organização, direcção e disciplina, nos termos dos artigos seguintes.\n\n3 - O disposto no número anterior é aplicável aos direitos a que se refere o n.º 2 do artigo 11.º"
+  },
+  "868102593": {
+   "fragment_id": "868102681",
+   "type": 11,
+   "heading": "Artigo 35.º — Carácter profissional das competições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Carácter profissional das competições\n\nCabe ao Conselho Superior de Desporto reconhecer, a solicitação do presidente da respectiva federação, o carácter profissional das competições desportivas, em cada modalidade, bem como aprovar, nos termos do disposto no presente diploma, o número de clubes ou sociedades com fins desportivos participantes nessas competições."
+  },
+  "868102594": {
+   "fragment_id": "868102682",
+   "type": 11,
+   "heading": "Artigo 36.º — Pedido de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento do carácter profissional das competições é aprovado, por maioria de dois terços, por uma assembleia reunindo os clubes ou sociedades com fins desportivos que, pretendendo participar nessas competições e estando filiadas na federação respectiva, reúnam os pressupostos de natureza financeira e de organização fixados por diploma próprio.\n\n2 - O pedido de reconhecimento deve ser instruído com os seguintes elementos, relativos às competições cujo carácter profissional se pretende ver reconhecido:\n\na) Massa salarial média dos praticantes e treinadores, por cada clube ou sociedade com fins desportivos;\n\nb) Limites mínimos dos orçamentos, dos clubes ou sociedades com fins desportivos, destinados à competição respectiva;\n\nc) Volume médio de negócios correspondente à competição, por cada clube ou sociedade com fins desportivos;\n\nd) Número médio significativo de espectadores, por cada jogo ou prova realizados no âmbito da competição;\n\ne) Percentagem média de autofinanciamento dos clubes ou sociedades com fins desportivos.\n\n3 - O requerimento deve ser submetido pelo presidente da federação ao Conselho Superior de Desporto nos 30 dias subsequentes à sua aprovação pela assembleia a que se refere o n.º 1."
+  },
+  "868102595": {
+   "fragment_id": "868102683",
+   "type": 11,
+   "heading": "Artigo 37.º — Homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Homologação\n\nAs deliberações a que se refere o artigo 35.º são submetidas à homologação do membro do Governo responsável pela área do desporto, no prazo máximo de 30 dias a contar da data de emissão."
+  },
+  "868102596": {
+   "fragment_id": "868102684",
+   "type": 11,
+   "heading": "Artigo 38.º — Pedido de reconhecimento da natureza profissional de competições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Pedido de reconhecimento da natureza profissional de competições\n\n1 - Relativamente às modalidades em que haja sido já atribuída a uma federação o estatuto de utilidade pública desportiva, sem que tenha tido lugar o reconhecimento de competições profissionais, pode, decorrido o prazo fixado no n.º 2 do artigo 17.º, qualquer clube ou agrupamento de clubes nela federados solicitar ao Conselho Superior de Desporto o reconhecimento de competições dessa natureza, para efeitos do disposto no presente diploma.\n\n2 - Nos 30 dias subsequentes à recepção do requerimento, deve o Conselho Superior de Desporto decidir, fundamentadamente, sobre a admissão do pedido, cabendo-lhe, quando se verificar a sua admissão, solicitar à federação respectiva o envio, nos 60 dias subsequentes, dos elementos a que se refere o artigo 36.º\n\n3 - O disposto no número anterior é aplicável quando não seja cumprido o disposto no n.º 3 do artigo 36.º"
+  },
+  "868102597": {
+   "fragment_id": "868102685",
+   "type": 11,
+   "heading": "Artigo 39.º — Competências do organismo autónomo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Competências do organismo autónomo\n\n1 - Sem prejuízo de outras competências previstas nos estatutos da federação, cabe ao organismo autónomo:\n\na) Organizar e regulamentar as competições profissionais da respectiva modalidade, respeitando as regras técnicas definidas pelos órgãos federativos competentes, nacionais e internacionais;\n\nb) Coordenar e administrar o específico sistema de arbitragem, nos termos definidos pelos estatutos federativos;\n\nc) Exercer, relativamente às competições profissionais, o poder disciplinar em primeiro grau de decisão, nos termos dos estatutos federativos;\n\nd) Definir critérios de afectação e assegurar a supervisão das receitas directamente provenientes das competições profissionais;\n\ne) Definir regras de gestão e fiscalização de contas aplicáveis aos clubes ou sociedades com fins desportivos nele integrados;\n\nf) Registar os contratos de trabalho dos respectivos praticantes desportivos profissionais;\n\ng) Promover acções de formação dos agentes desportivos.\n\n2 - Cabe ao organismo autónomo aprovar, no âmbito das competições de carácter profissional, os regulamentos a que se referem as alíneas b), e) e f) do artigo 21.º"
+  },
+  "868102598": {
+   "fragment_id": "868102686",
+   "type": 11,
+   "heading": "Artigo 40.º — Protocolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Protocolo\n\n1 - Por protocolo celebrado entre o organismo autónomo e a direcção da federação, é definido o regime aplicável em matéria de:\n\na) Relações desportivas, financeiras e patrimoniais entre aquele organismo e os órgãos federativos, nomeadamente quanto à formação dos agentes desportivos, ao regime de acesso entre as diferentes competições, à delimitação dos estatutos de praticantes profissionais e não profissionais, à organização da actividade das selecções nacionais e ao apoio à actividade desportiva não profissional;\n\nb) Relações com as competições desportivas não profissionais, designadamente quanto à possibilidade de participação nestas competições de praticantes não profissionais.\n\n2 - Os protocolos aprovados nos termos do número anterior devem ser submetidos à ratificação pela assembleia geral."
+  },
+  "868102599": {
+   "fragment_id": "868102687",
+   "type": 11,
+   "heading": "Artigo 41.º — Regimento do organismo autónomo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regimento do organismo autónomo\n\n1 - O regimento do organismo autónomo é aprovado pelos representantes dos clubes e sociedades com fins desportivos dele integrantes.\n\n2 - O regimento deve prever os seguintes órgãos:\n\na) Comissão directiva;\n\nb) Comissão disciplinar.\n\n3 - A comissão directiva é dirigida por um presidente, designado nos termos do regimento.\n\n4 - Do regimento deve, ainda, constar o regime disciplinar aplicável às competições profissionais, o qual deve obedecer ao disposto nos n.os 2 e 3 do artigo 22.º"
+  },
+  "868102600": {
+   "fragment_id": "868102688",
+   "type": 8,
+   "heading": "Secção IV — Titulares dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Titulares dos órgãos"
+  },
+  "868102601": {
+   "fragment_id": "868102689",
+   "type": 11,
+   "heading": "Artigo 42.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Direitos\n\nO estatuto dos titulares de órgãos federativos é definido no diploma que aprova o estatuto do dirigente desportivo."
+  },
+  "868102602": {
+   "fragment_id": "868102690",
+   "type": 11,
+   "heading": "Artigo 43.º — Requisitos de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Requisitos de elegibilidade\n\nSão elegíveis para os órgãos de federação desportiva dotado de utilidade pública desportiva os maiores não afectados por qualquer incapacidade de exercício, que não sejam devedores da federação respectiva, nem hajam sido punidos por infracções de natureza criminal, contra-ordenacional ou disciplinar em matéria de violência, corrupção ou dopagem associadas ao desporto, até cinco anos após o cumprimento da pena, nem tenham sido punidos por crimes praticados no exercício de cargos dirigentes em federações desportivas, bem como por crimes contra o património destas, até cinco anos após o cumprimento da pena."
+  },
+  "868102603": {
+   "fragment_id": "868102691",
+   "type": 11,
+   "heading": "Artigo 44.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Incompatibilidades\n\nÉ incompatível com a função de titular de órgão federativo:\n\na) O exercício de outro cargo na mesma federação;\n\nb) A intervenção, directa ou indirecta, em contratos celebrados com a federação respectiva;\n\nc) Relativamente aos membros da direcção, o exercício de cargo directivo em outra federação desportiva."
+  },
+  "868102604": {
+   "fragment_id": "868102692",
+   "type": 11,
+   "heading": "Artigo 45.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Duração do mandato\n\nO mandato dos titulares dos órgãos das federações desportivas é de quatro anos, em regra coincidentes com o ciclo olímpico."
+  },
+  "868102605": {
+   "fragment_id": "868102693",
+   "type": 11,
+   "heading": "Artigo 46.º — Perda de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Perda de mandato\n\n1 - Sem prejuízo de outros factos previstos nos estatutos, perdem o mandato os titulares de órgãos federativos que, após a eleição, sejam colocados em situação que os torne inelegíveis, ou relativamente aos quais se apure uma das incompatibilidades previstas no artigo 44.º\n\n2 - Perdem, ainda, o mandato os titulares dos órgãos federativos que, no exercício das suas funções ou por causa delas, intervenham em contrato no qual tenham interesse, por si, como gestor de negócios ou representante de outra pessoa, e, bem assim, quando nele tenham interesse o seu cônjuge, algum parente ou afim na linha recta ou até ao 2.º grau da linha colateral ou qualquer pessoa com quem viva em economia comum.\n\n3 - Os contratos em que tiverem intervindo titulares de órgãos federativos que impliquem a perda do seu mandato são anuláveis nos termos gerais, sem prejuízo de outra sanção mais grave especialmente prevista."
+  },
+  "868102606": {
+   "fragment_id": "868102694",
+   "type": 1,
+   "heading": "Capítulo V — Competições e selecções nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Competições e selecções nacionais"
+  },
+  "868102607": {
+   "fragment_id": "868102695",
+   "type": 11,
+   "heading": "Artigo 47.º — Competições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Competições\n\n1 - As competições organizadas com vista à atribuição de títulos nacionais ou outros de carácter oficial, bem como as destinadas a apurar os praticantes ou clubes desportivos que hão-de representar o País em competições internacionais, devem obedecer aos seguintes princípios:\n\na) Liberdade de acesso de todos os cidadãos nacionais e clubes com sede em território nacional que se encontrem regularmente inscritos na respectiva federação desportiva e preencham os requisitos de participação por ela definidos;\n\nb) Igualdade de todos os praticantes no desenvolvimento da competição, sem prejuízo dos escalonamentos estabelecidos com base em critérios exclusivamente desportivos;\n\nc) Publicidade dos regulamentos próprios de cada competição, bem como das decisões que os apliquem e, quando reduzidas a escrito, das razões que as fundamentam;\n\nd) Imparcialidade e isenção no julgamento das questões que se suscitarem em matéria técnica e disciplinar.\n\n2 - No âmbito das competições desportivas de carácter profissional, a competência para definir os requisitos de participação é exercida pelo organismo autónomo a que se refere o artigo 34.º"
+  },
+  "868102608": {
+   "fragment_id": "868102696",
+   "type": 11,
+   "heading": "Artigo 48.º — Condições de reconhecimento de títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Condições de reconhecimento de títulos\n\n1 - As competições organizadas pelas federações desportivas, ou no seu âmbito, que atribuam títulos nacionais ou regionais, disputam-se em território nacional.\n\n2 - As competições referidas no número anterior só podem ser disputadas por clubes ou sociedades com fins desportivos com sede no território nacional e, em caso de atribuição de título individual, por cidadãos nacionais."
+  },
+  "868102609": {
+   "fragment_id": "868102697",
+   "type": 11,
+   "heading": "Artigo 49.º — Selecções nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Selecções nacionais\n\n1 - A participação em selecção nacional organizada por federação desportiva é reservada a cidadãos nacionais.\n\n2 - As condições a que obedece a participação dos praticantes desportivos nas selecções nacionais são definidas nos estatutos federativos ou nos respectivos regulamentos internos, tendo em consideração o interesse público dessa participação e os legítimos interesses das federações, dos clubes e dos praticantes desportivos.\n\n3 - A participação nas selecções nacionais é obrigatória, salvo motivo justificado, para os praticantes desportivos que tenham beneficiado de medidas específicas de apoio no âmbito do consagrado no regime de alta competição.\n\n4 - Os modelos dos equipamentos das selecções nacionais são aprovados pelo Conselho Superior de Desporto, mediante proposta das respectivas federações."
+  },
+  "868102610": {
+   "fragment_id": "868102698",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "868102611": {
+   "fragment_id": "868102699",
+   "type": 11,
+   "heading": "Artigo 50.º — Depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Depósito\n\nDevem ser depositados no Instituto do Desporto, pelas federações dotadas de utilidade pública desportiva:\n\na) Os respectivos estatutos, regulamentos e regimentos;\n\nb) O elenco dos titulares dos respectivos órgãos sociais, bem como dos clubes e agrupamentos de clubes filiados nas federações dotadas de utilidade pública desportiva;\n\nc) O respectivo relatório anual e conta de gerência, bem como o dos clubes e agrupamentos de clubes nelas filiados que participem nas competições de natureza profissional ou que hajam recebido apoio do Estado."
+  },
+  "868102612": {
+   "fragment_id": "868102700",
+   "type": 11,
+   "heading": "Artigo 51.º — Manutenção e isenção e regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Manutenção e isenção e regalias\n\nAs federações desportivas já qualificadas como pessoas colectivas de utilidade pública conservam esse estatuto e mantêm a titularidade dos direitos e deveres previstos na lei."
+  },
+  "868102613": {
+   "fragment_id": "868102701",
+   "type": 11,
+   "heading": "Artigo 52.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Regime transitório\n\nAs federações desportivas já existentes e que pretendam obter o estatuto de utilidade pública desportiva devem requerer a sua concessão no prazo de 45 dias após a entrada em vigor do diploma previsto no n.º 2 do artigo 14.º"
+  },
+  "867991351": {
+   "fragment_id": "868101339",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O enquadramento normativo das federações desportivas, enquanto segmento do fenómeno desportivo, é essencial para o desenvolvimento do desporto nacional, com especial relevo no percurso da alta competição.\n\nTal fenómeno, que alia tradição e modernidade, não pode desconhecer que a própria Carta Olímpica renunciou ao amadorismo e a Carta Europeia do Desporto consagrou, no seu artigo 8.º, o desporto profissional como realidade autónoma.\n\nOra, e na sequência da Lei de Bases do Sistema Desportivo, importa, sem pôr em causa a natureza do movimento desportivo e das suas estruturas, dotar o desporto profissional com uma forma diversa e específica de organização e funcionamento, no seio do sistema desportivo. Para além disso, e ainda nos termos da Lei n.º 1/90, de 13 de Janeiro, torna-se necessário encontrar a adequada tradução normativa dessa realidade no regime jurídico das federações desportivas.\n\nDefinidas como associações de direito privado sem fins lucrativos, as federações dotadas de utilidade pública desportiva exercem em exclusivo poderes de natureza pública inscritos na lei. Desta sorte, garantida a sua independência face ao Estado, o presente diploma assegura a liberdade da sua organização associativa, respeitados os princípios democráticos e de representatividade.\n\nA especificidade do sector profissional no fenómeno desportivo reflecte-se na constituição, no seio das federações referentes a modalidades em que se disputam competições desportivas de carácter profissional, do organismo previsto no artigo 24.º da Lei n.º 1/90, de 13 de Janeiro, integrado obrigatória e exclusivamente pelos clubes ou sociedades com fins desportivos que tenham específicos vínculos de carácter laboral com os seus praticantes.\n\nA tal organismo, cuja natureza e possibilidade de personalização não foram objecto de regulação expressa, competirá, entre outras funções, organizar e regulamentar as competições profissionais da respectiva modalidade, administrar o sistema de arbitragem e exercer o poder disciplinar em primeiro grau de decisão.\n\nAs relações de carácter desportivo e financeiro entre as estruturas do desporto profissional e do desporto amador resultarão de protocolos a celebrar entre ambas, no seio da respectiva federação, observados os princípios estabelecidos neste diploma.\n\nA transparência necessária à actuação dos órgãos das entidades intervenientes no desporto é assegurada pelo depósito, para fins de conhecimento público, dos documentos que titulam os actos mais relevantes praticados no seu seio.\n\nNo plano da organização interna das federações, constitui inovação a elevação do presidente a órgão federativo com competências próprias, sobretudo no plano de representação e coordenação.\n\nFinalmente, salienta-se a obrigatoriedade de participação nas selecções nacionais de praticantes desportivos que, nessa qualidade, tenham recebido apoios do Estado e o envolvimento do Conselho Superior de Desporto e do Comité Olímpico de Portugal na concessão e no cancelamento do estatuto de utilidade pública desportiva.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "868102655": {
+   "fragment_id": "868101359",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação de efeitos",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 17.º — Cessação de efeitos\n\n1 - O estatuto de utilidade pública desportiva e os inerentes poderes públicos cessam:\n\na) Com a extinção da federação desportiva;\n\nb) Por decisão da entidade competente para a atribuição do estatuto de utilidade pública desportiva.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102624": {
+   "fragment_id": "868101360",
+   "type": 11,
+   "heading": "Artigo 18.º — Cancelamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 18.º — Cancelamento\n\n1 - O cancelamento do estatuto de utilidade pública desportiva só pode ter lugar verificado um dos seguintes fundamentos:\n\na) Terem as federações desportivas incorrido, por acção ou omissão, em ilegalidade grave ou em prática continuada de irregularidades, quando no exercício de poderes públicos ou na utilização de dinheiros públicos, verificadas em inspecção, inquérito ou sindicância;\n\nb) Falta de qualquer dos requisitos previstos nos n.os 1 e 3 do artigo 13.º\n\n2 - O cancelamento do estatuto de utilidade pública desportiva com fundamento na falta de implantação social e desportiva só pode basear-se na insuficiência manifesta dos respectivos indicadores, de acordo com os critérios aplicáveis à sua avaliação no momento do cancelamento, ou na insuficiência relativa de tais indicadores em confronto com os apresentados por entidade concorrente à concessão do estatuto no âmbito da mesma modalidade.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+  },
+  "868102980": {
+   "fragment_id": "868102717",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Suspensão da utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 18.º-A — Suspensão da utilidade pública desportiva\n\n1 - Verificados os requisitos constantes das alíneas a) ou b) do n.º 1 do artigo 18.º, por despacho fundamentado do membro do Governo responsável pela área do desporto poderá ser suspenso o estatuto de utilidade pública desportiva, quando tal medida seja considerada suficiente para se eliminarem os fundamentos constantes daquele artigo.\n\n2 - O prazo da suspensão será fixado pelo despacho referido no número anterior, até ao limite de um ano, eventualmente renovável por idêntico período, devendo aquela ser dada por finda se, entretanto, a federação desportiva em causa tiver eliminado as circunstâncias que constituíram fundamento da suspensão.\n\n3 - A suspensão do estatuto de utilidade pública desportiva implicará a impossibilidade de, durante o referido período, a federação desportiva ser beneficiária de quaisquer apoios ou fundos públicos, nomeadamente os decorrentes de contratos-programa em curso ou de verbas que lhe estejam legalmente consignadas, devendo estas ser reafectadas aos fins que forem fixados pelo membro do Governo responsável pela área do desporto.\n\n4 - As verbas que a federação tiver deixado de receber durante o período da suspensão não lhe poderão voltar a ser atribuídas, ainda que entretanto cesse tal suspensão.\n\n5 - Decorrido o período da suspensão da utilidade pública desportiva, sem que a federação desportiva tenha eliminado os fundamentos que deram origem a tal suspensão, o estatuto de utilidade pública desportiva será cancelado.\n\n6 - No caso referido no número anterior e até à decisão final do processo de cancelamento, a federação em causa continuará sujeita às consequências decorrentes da suspensão do estatuto de utilidade pública desportiva.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+  },
+  "868102981": {
+   "fragment_id": "868102718",
+   "type": 11,
+   "heading": "Artigo 18.º-B — Consequências jurídicas do cancelamento da utilidade pública desportiva",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 18.º-B — Consequências jurídicas do cancelamento da utilidade pública desportiva\n\n1 - O cancelamento do estatuto de utilidade pública desportiva poderá ainda implicar, para além das demais consequências previstas na lei:\n\na) Em relação à federação desportiva em causa: o cancelamento do estatuto de mera utilidade pública;\n\nb) Em relação às pessoas colectivas, que venham a participar nos campeonatos através dos quais se atribuem títulos de campeão nacional, ou nas selecções nacionais, organizadas por tal federação: o cancelamento do estatuto de mera utilidade pública, bem como das concessões de exploração de salas de jogo do bingo, de que aquelas entidades sejam titulares.\n\n2 - O cancelamento referido no número anterior será determinado por despacho do membro do Governo responsável pela área do desporto, ou conjuntamente com o membro do Governo responsável pela área do turismo, no caso das concessões de exploração de salas de jogo do bingo.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+  },
+  "868102982": {
+   "fragment_id": "868101361",
+   "type": 11,
+   "heading": "Artigo 19.º — Iniciativa e processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Iniciativa e processo\n\n1 - O processo de cancelamento do estatuto de utilidade pública desportiva é instaurado pelo Instituto do Desporto, oficiosamente ou por iniciativa do Conselho Superior de Desporto, do Comité Olímpico de Portugal ou de uma entidade concorrente à concessão do estatuto no âmbito da mesma modalidade.\n\n2 - A entidade referida na parte final do número anterior só pode solicitar o cancelamento desde que, simultaneamente, requeira para si a concessão do estatuto de utilidade pública desportiva, não podendo, em caso de indeferimento, apresentar novo pedido, fundamentado no n.º 2 do artigo anterior, antes de decorrido o ciclo olímpico em curso.\n\n3 - Ao processo de cancelamento é aplicável, com as necessárias adaptações, o disposto nos artigos 15.º e 16.º, dispensando-se o parecer do Conselho Superior de Desporto ou do Comité Olímpico de Portugal quando o processo tenha sido desencadeado por iniciativa de uma destas entidades."
+  },
+  "868102645": {
+   "fragment_id": "868101369",
+   "type": 11,
+   "heading": "Artigo 24.º — Eleição",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14",
+    "Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 24.º — Eleição\n\nOs titulares dos órgãos das federações desportivas dotadas de utilidade pública desportiva referidos no n.º 1 do artigo anterior são eleitos, em listas únicas, através de sufrágio directo e secreto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14\n\n> Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+  },
+  "868102626": {
+   "fragment_id": "868101371",
+   "type": 11,
+   "heading": "Artigo 26.º — Composição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 26.º — Composição da assembleia geral\n\n1 - Integram a assembleia geral:\n\na) Sociedades com fins desportivos, clubes ou agrupamentos de clubes;\n\nb) Representantes de praticantes desportivos;\n\nc) Representantes de treinadores;\n\nd) Representantes de árbitros e juízes;\n\ne) Representantes de outros agentes desportivos englobados na respectiva federação desportiva.\n\n2 - A representação das sociedades com fins desportivos e dos clubes ou agrupamentos de clubes na assembleia geral faz-se de acordo com o estabelecido nos estatutos da federação, não lhes podendo corresponder, no conjunto, um número de votos superior a três quartos.\n\n3 - Os estatutos federativos não podem impedir os clubes e as sociedades com fins desportivos de participar na assembleia geral.\n\n4 - Relativamente aos clubes e sociedades com fins desportivos dotados de direito de voto, devem os estatutos definir os factores de ponderação aplicáveis com base, entre outros critérios, no número de associados que possuam e nos níveis de competição em que participam.\n\n5 - Os membros referidos nas alíneas b) a e) do n.º 1, quando existam associações de âmbito nacional representativas dos respectivos elementos, devem ser designados por estas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+  },
+  "868102629": {
+   "fragment_id": "868102719",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Federações com competições de natureza profissional",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 26.º-A — Federações com competições de natureza profissional\n\n1 - Nas federações no âmbito das quais as competições desportivas profissionais integrem clubes agrupados em mais de uma divisão, compõem a assembleia geral:\n\na) Clubes integrados na liga profissional de clubes;\n\nb) Clubes integrados nos agrupamentos de clubes de base geográfica;\n\nc) Representantes dos praticantes desportivos;\n\nd) Representantes dos árbitros e juízes;\n\ne) Representantes dos treinadores;\n\nf) Representantes de outros agentes desportivos englobados na respectiva federação desportiva.\n\n2 - Aos clubes integrados nos agrupamentos de base geográfica não podem corresponder menos de 55% dos votos.\n\n3 - Aos clubes integrados na liga profissional de clubes não podem corresponder menos de 20% dos votos.\n\n4 - Aos representantes dos praticantes desportivos não podem corresponder menos de 10% dos votos.\n\n5 - Aos representantes dos árbitros e juízes não podem corresponder menos de 6% dos votos.\n\n6 - Aos representantes dos treinadores não podem corresponder menos de 6% dos votos.\n\n7 - Aos representantes de outros agentes desportivos corresponderá o restante número de votos.\n\n8 - Os membros referidos nas alíneas c), d) e e) do n.º 1, quando existam associações de âmbito nacional representativas dos respectivos elementos, devem ser designados por estas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102637": {
+   "fragment_id": "868102720",
+   "type": 11,
+   "heading": "Artigo 26.º-B — Repartição de votos",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 26.º-B — Repartição de votos\n\nOs votos referidos no n.º 2 do artigo 26.º-A serão repartidos pelos diversos agrupamentos de clubes de base geográfica de acordo com os seguintes princípios:\n\na) Os clubes que participam nas competições de natureza profissional não poderão ser contabilizados para efeitos do cálculo dos votos destes agrupamentos;\n\nb) A fórmula de cálculo dos votos que devam competir a cada agrupamento não poderá levar em linha de conta a integração dos respectivos clubes nas diversas divisões nacionais.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102646": {
+   "fragment_id": "868101372",
+   "type": 11,
+   "heading": "Artigo 27.º — Presidente",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 27.º — Presidente\n\n1 - O presidente representa a federação, assegura o seu regular funcionamento e promove a colaboração entre os seus órgãos.\n\n2 - Compete, em especial, ao presidente da federação:\n\na) Representar a federação junto da Administração Pública;\n\nb) Representar a federação junto das suas organizações congéneres, nacionais, estrangeiras ou internacionais;\n\nc) Representar a federação em juízo;\n\nd) Assegurar a organização e o funcionamento dos serviços, bem como a escrituração dos livros, nos termos da lei;\n\ne) Contratar e gerir o pessoal ao serviço da federação;\n\nf) Assegurar a gestão corrente dos negócios federativos.\n\ng) Participar, quando o entenda conveniente, nas reuniões de quaisquer órgãos federativos, podendo nelas intervir na discussão, mas sem direito a voto;\n\nh) Convocar extraordinariamente a assembleia geral da federação, podendo nela participar nos termos da alínea anterior.\n\n3 - Nas federações no âmbito das quais se disputem competições de natureza profissional, o presidente será coadjuvado por um vice-presidente, designado pela liga profissional de clubes, ao qual compete substituí-lo nas suas faltas, ausências ou impedimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102639": {
+   "fragment_id": "868101373",
+   "type": 11,
+   "heading": "Artigo 28.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direcção\n\n1 - A direcção é o órgão colegial de administração da federação desportiva, constituída por um número ímpar de membros.\n\n2 - Compete à direcção administrar a federação, incumbindo-lhe, designadamente:\n\na) Organizar as selecções nacionais;\n\nb) Organizar as competições desportivas não profissionais;\n\nc) Garantir a efectivação dos direitos e deveres dos associados;\n\nd) Elaborar anualmente o plano de actividades;\n\ne) Elaborar anualmente e submeter a parecer do conselho fiscal o orçamento, o balanço e os documentos de prestação de contas;\n\nf) Administrar os negócios da federação em matérias que não sejam especialmente atribuídas a outros órgãos;\n\ng) Zelar pelo cumprimento dos estatutos e das deliberações dos órgãos da federação."
+  },
+  "868102640": {
+   "fragment_id": "868101374",
+   "type": 11,
+   "heading": "Artigo 29.º — Conselho de arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Conselho de arbitragem\n\nCabe ao conselho de arbitragem, sem prejuízo de outras competências atribuídas pelos estatutos, coordenar e administrar a actividade da arbitragem, aprovar as respectivas normas reguladoras, estabelecer os parâmetros de formação dos árbitros e proceder à classificação técnica destes."
+  },
+  "868102647": {
+   "fragment_id": "868102675",
+   "type": 11,
+   "heading": "Artigo 30.º — Conselho fiscal",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 30.º — Conselho fiscal\n\n1 - O conselho fiscal, constituído por número ímpar de membros, fiscaliza os actos de administração financeira da federação, bem como o cumprimento dos estatutos e das disposições legais aplicáveis.\n\n2 - Compete, em especial, ao conselho fiscal:\n\na) Emitir parecer sobre o orçamento, o balanço e os documentos de prestação de contas;\n\nb) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte;\n\nc) Acompanhar o funcionamento da federação, participando aos órgãos competentes as irregularidades de que tenha conhecimento.\n\n3 - Quando um dos membros do conselho fiscal não tenha tal qualidade, as contas das federações desportivas deverão ser, obrigatoriamente, certificadas por um revisor oficial de contas antes da sua aprovação em assembleia geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102648": {
+   "fragment_id": "868102676",
+   "type": 11,
+   "heading": "Artigo 31.º — Conselho jurisdicional",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 31.º — Conselho jurisdicional\n\n1 - Para além de outras competências que lhe sejam cometidas pelos estatutos, cabe ao conselho jurisdicional conhecer dos recursos interpostos das decisões disciplinares em matéria desportiva.\n\n2 - O conselho jurisdicional é composto por um número ímpar de membros, podendo funcionar em secções especializadas.\n\n3 - Nas federações no âmbito das quais se disputem competições de natureza profissional, os membros do conselho jurisdicional são obrigatoriamente licenciados em Direito.\n\n4 - Nas federações não referidas no número anterior, o presidente do conselho jurisdicional deve ser licenciado em Direito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102649": {
+   "fragment_id": "868102677",
+   "type": 11,
+   "heading": "Artigo 32.º — Conselho disciplinar",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 32.º — Conselho disciplinar\n\n1 - Ao conselho disciplinar cabe, sem prejuízo de outras competências atribuídas pelos estatutos, apreciar e punir, de acordo com a lei e os regulamentos federativos, as infracções disciplinares em matéria desportiva.\n\n2 - Nas federações no âmbito das quais se disputem competições de natureza profissional, o conselho disciplinar é composto por um número ímpar de membros, licenciados em Direito.\n\n3 - Nas federações não referidas no número anterior, o presidente do conselho disciplinar deve ser licenciado em Direito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102644": {
+   "fragment_id": "868102678",
+   "type": 11,
+   "heading": "Artigo 33.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Actas\n\nDas reuniões de qualquer órgão colegial das federações desportivas é sempre lavrada acta, que deve ser assinada por todos os presentes ou, no caso da assembleia geral, pelos membros da respectiva mesa."
+  },
+  "868102650": {
+   "fragment_id": "868102680",
+   "type": 11,
+   "heading": "Artigo 34.º — Liga profissional de clubes",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 34.º — Liga profissional de clubes\n\n1 - No seio das federações unidesportivas em que se disputem competições desportivas de natureza profissional, deverá constituir-se uma liga de clubes, integrada obrigatória e exclusivamente por todos os clubes que disputem tais competições, dotada de personalidade jurídica e autonomia administrativa, técnica e financeira.\n\n2 - A liga será o órgão autónomo da federação para o desporto profissional.\n\n3 - Cabe à liga profissional de clubes exercer, relativamente às competições de carácter profissional, as competências da federação em matéria de organização, direcção e disciplina, nos termos dos artigos seguintes.\n\n4 - O disposto no número anterior é aplicável aos direitos a que se refere o n.º 2 do artigo 11.º\n\n5 - No âmbito das restantes federações desportivas em que existam praticantes desportivos profissionais poderão ser constituídos organismos destinados a assegurar, de forma específica, a sua representatividade no seio da respectiva federação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102651": {
+   "fragment_id": "868102685",
+   "type": 11,
+   "heading": "Artigo 39.º — Competências da liga profissional de clubes",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 39.º — Competências da liga profissional de clubes\n\n1 - Sem prejuízo de outras competências previstas nos estatutos da federação, cabe à liga profissional de clubes:\n\na) Organizar e regulamentar as competições de natureza profissional que se disputem no âmbito da respectiva federação, respeitando as regras técnicas definidas pelos órgãos federativos competentes, nacionais e internacionais;\n\nb) Exercer, relativamente aos clubes seus associados, as funções de tutela, controlo e supervisão que forem estabelecidas legalmente ou pelos estatutos e regulamentos desportivos;\n\nc) Exercer o poder disciplinar e gerir o específico sector de arbitragem nos termos definidos pelos estatutos federativos e pelo protocolo referido no artigo 40.º;\n\nd) Definir critérios de afectação e assegurar a supervisão das receitas directamente provenientes das competições profissionais;\n\ne) Definir regras de gestão e fiscalização de contas aplicáveis aos clubes nela integrados;\n\nf) Registar os contratos de trabalho dos respectivos praticantes desportivos profissionais;\n\ng) Promover acções de formação dos agentes desportivos;\n\nh) Exercer as demais competências que lhe sejam atribuídas por lei ou pelos estatutos federativos.\n\n2 - Cabe à liga profissional de clubes aprovar, no âmbito das competições de carácter profissional, os regulamentos a que se referem as alíneas b), e) e f) do artigo 21.º, nos termos definidos pelos estatutos federativos e pelo protocolo referido no artigo 40.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102652": {
+   "fragment_id": "868102686",
+   "type": 11,
+   "heading": "Artigo 40.º — Protocolo",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 40.º — Protocolo\n\n1 - Por protocolo celebrado entre a liga profissional de clubes e a direcção da federação, é definido o regime aplicável em matéria de:\n\na) Relações desportivas, financeiras e patrimoniais entre aquela liga e os órgãos federativos, nomeadamente quanto à formação dos agentes desportivos, ao regime de acesso entre as diferentes competições, à delimitação dos estatutos dos praticantes profissionais e não profissionais, à organização da actividade das selecções nacionais, ao apoio à actividade desportiva não profissional, ao regime disciplinar e ao funcionamento do sistema da arbitragem;\n\nb) Relações com as competições desportivas não profissionais, designadamente quanto à possibilidade de participação nestas competições de praticantes não profissionais.\n\n2 - Os protocolos aprovados nos termos do número anterior devem ser submetidos à ratificação pela assembleia geral.\n\n3 - Os protocolos referidos neste artigo serão celebrados por períodos não inferiores a quatro anos, eventualmente renováveis por idêntico período se não forem denunciados por qualquer das partes com, pelo menos, seis meses de antecedência em relação ao seu termo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102653": {
+   "fragment_id": "868102687",
+   "type": 11,
+   "heading": "Artigo 41.º — Regimento da liga profissional de clubes",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 41.º — Regimento da liga profissional de clubes\n\n1 - O regimento da liga profissional de clubes é aprovado pelos representantes dos clubes dela integrantes.\n\n2 - Do regimento deverá ainda constar que todos os órgãos da liga profissional de clubes são eleitos na respectiva assembleia geral.\n\n3 - As competências que, nos termos estatutários e do protocolo referido no artigo 40.º, a liga profissional de clubes deva exercer relativamente à arbitragem competirão a uma comissão de arbitragem eleita nos termos referidos no número anterior.\n\n4 - Um dos membros do conselho fiscal da liga profissional de clubes deve ser, obrigatoriamente, revisor oficial de contas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102654": {
+   "fragment_id": "868102691",
+   "type": 11,
+   "heading": "Artigo 44.º — Incompatibilidades",
+   "in_force_from": "1997-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 44.º — Incompatibilidades\n\nÉ incompatível com a função de titular de órgão federativo:\n\na) O exercício de outro cargo na mesma federação;\n\nb) A intervenção, directa ou indirecta, em contratos celebrados com a federação respectiva;\n\nc) Relativamente aos membros da direcção, o exercício de cargo directivo em outra federação desportiva.\n\nd) Relativamente aos órgãos da federação ou da liga profissional de clubes, o exercício, no seu âmbito, de funções como dirigente de clube ou de associação, árbitro, juiz ou treinador no activo, quando nela se disputem competições de natureza profissional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868102614": {
+   "fragment_id": "868102702",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1993. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos.\n\nPromulgado em 24 de Março de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 25 de Março de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "868102975": {
+   "fragment_id": "868101366",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime disciplinar",
+   "in_force_from": "1999-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 112/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/112-1999-345127), em vigor a partir de 1999-08-08"
+   ],
+   "markdown": "###### Artigo 22.º — Regime disciplinar\n\n1 - No âmbito desportivo, o poder disciplinar das federações dotadas de utilidade pública desportiva exerce-se sobre os clubes, dirigentes, praticantes, treinadores, técnicos, árbitros, juízes e, em geral, sobre todos os agentes desportivos que, encontrando-se nelas filiados, desenvolvam a actividade desportiva compreendida no seu objecto estatutário, nos termos do respectivo regime disciplinar.\n\n2 - O regime disciplinar deve prever, designadamente, as seguintes matérias:\n\na) Graduação das infracções como leves, graves e muito graves e determinação das correspondentes sanções;\n\nb) Sujeição aos princípios da igualdade, irretroactividade e proporcionalidade da aplicação de sanções;\n\nc) Exclusão das penas de irradiação ou de duração indeterminada;\n\nd) Enumeração das causas ou circunstâncias que eximam, atenuem ou agravem a responsabilidade do infractor, bem como os requisitos da extinção desta;\n\ne) Exigência de processo disciplinar, para a aplicação de sanções, quando estejam em causa infracções qualificadas como muito graves e, em qualquer caso, quando a sanção a aplicar determine a suspensão de actividade por período superior a um mês;\n\nf) Consagração das garantias de defesa do arguido, designadamente exigindo que a acusação seja suficientemente esclarecedora dos factos determinantes do exercício do poder disciplinar e estabelecendo a obrigatoriedade de audiência do arguido nos casos em que seja necessária a instauração de processo disciplinar;\n\ng) Garantia de recurso, seja ou não obrigatória a instauração de processo disciplinar.\n\n3 - Se a infracção revestir carácter contra-ordenacional ou criminal, o órgão disciplinar competente deve dar conhecimento do facto às entidades competentes.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 112/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/112-1999-345127), em vigor a partir de 1999-08-08"
+  },
+  "868102983": {
+   "fragment_id": "868102681",
+   "type": 11,
+   "heading": "Artigo 35.º — Carácter profissional das competições",
+   "in_force_from": "1999-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 35.º — Carácter profissional das competições\n\nCabe ao Conselho Superior de Desporto reconhecer, a solicitação do presidente da respectiva federação, o carácter profissional das competições desportivas, em cada modalidade, bem como aprovar, nos termos do disposto no presente diploma, o número de clubes ou sociedades com fins desportivos participantes nessas competições.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868102984": {
+   "fragment_id": "868102682",
+   "type": 11,
+   "heading": "Artigo 36.º — Pedido de reconhecimento",
+   "in_force_from": "1999-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 36.º — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento do carácter profissional das competições é aprovado, por maioria de dois terços, por uma assembleia reunindo os clubes ou sociedades com fins desportivos que, pretendendo participar nessas competições e estando filiadas na federação respectiva, reúnam os pressupostos de natureza financeira e de organização fixados por diploma próprio.\n\n2 - O pedido de reconhecimento deve ser instruído com os seguintes elementos, relativos às competições cujo carácter profissional se pretende ver reconhecido:\n\na) Massa salarial média dos praticantes e treinadores, por cada clube ou sociedade com fins desportivos;\n\nb) Limites mínimos dos orçamentos, dos clubes ou sociedades com fins desportivos, destinados à competição respectiva;\n\nc) Volume médio de negócios correspondente à competição, por cada clube ou sociedade com fins desportivos;\n\nd) Número médio significativo de espectadores, por cada jogo ou prova realizados no âmbito da competição;\n\ne) Percentagem média de autofinanciamento dos clubes ou sociedades com fins desportivos.\n\n3 - O requerimento deve ser submetido pelo presidente da federação ao Conselho Superior de Desporto nos 30 dias subsequentes à sua aprovação pela assembleia a que se refere o n.º 1.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868102985": {
+   "fragment_id": "868102683",
+   "type": 11,
+   "heading": "Artigo 37.º — Homologação",
+   "in_force_from": "1999-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 37.º — Homologação\n\nAs deliberações a que se refere o artigo 35.º são submetidas à homologação do membro do Governo responsável pela área do desporto, no prazo máximo de 30 dias a contar da data de emissão.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868102986": {
+   "fragment_id": "868102684",
+   "type": 11,
+   "heading": "Artigo 38.º — Pedido de reconhecimento da natureza profissional de competições",
+   "in_force_from": "1999-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 38.º — Pedido de reconhecimento da natureza profissional de competições\n\n1 - Relativamente às modalidades em que haja sido já atribuída a uma federação o estatuto de utilidade pública desportiva, sem que tenha tido lugar o reconhecimento de competições profissionais, pode, decorrido o prazo fixado no n.º 2 do artigo 17.º, qualquer clube ou agrupamento de clubes nela federados solicitar ao Conselho Superior de Desporto o reconhecimento de competições dessa natureza, para efeitos do disposto no presente diploma.\n\n2 - Nos 30 dias subsequentes à recepção do requerimento, deve o Conselho Superior de Desporto decidir, fundamentadamente, sobre a admissão do pedido, cabendo-lhe, quando se verificar a sua admissão, solicitar à federação respectiva o envio, nos 60 dias subsequentes, dos elementos a que se refere o artigo 36.º\n\n3 - O disposto no número anterior é aplicável quando não seja cumprido o disposto no n.º 3 do artigo 36.º\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868172429": {
+   "fragment_id": "868101340",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172436": {
+   "fragment_id": "868101341",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico das federações desportivas e as condições de atribuição do estatuto de utilidade pública desportiva.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172437": {
+   "fragment_id": "868101342",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definição\n\n1 - Federação desportiva é a pessoa colectiva que, integrando agentes desportivos, clubes ou agrupamentos de clubes, se constitua sob a forma de associação sem fim lucrativo, propondo-se prosseguir, a nível nacional, exclusiva ou cumulativamente, os objectivos enunciados no artigo 21.º da Lei n.º 1/90, de 13 de Janeiro.\n\n2 - As federações desportivas podem ser unidesportivas ou multidesportivas.\n\n3 - A aplicação do presente diploma às federações multidesportivas faz-se com as adaptações impostas pela sua natureza, atendendo às exigências específicas da organização social em que promovam o desenvolvimento da prática desportiva.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172438": {
+   "fragment_id": "868101343",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Regime jurídico\n\nÀs federações desportivas é aplicável o disposto no presente diploma e, subsidiariamente, o regime jurídico das associações de direito privado.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172439": {
+   "fragment_id": "868101344",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de organização e funcionamento",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios de organização e funcionamento\n\n1 - As federações desportivas organizam-se e prosseguem as suas actividades de acordo com os princípios da liberdade, da democraticidade e da representatividade.\n\n2 - As federações desportivas são independentes do Estado, dos partidos políticos e das instituições religiosas.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172440": {
+   "fragment_id": "868101345",
+   "type": 11,
+   "heading": "Artigo 5.º — Denominação e sede",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Denominação e sede\n\n1 - As federações desportivas devem, na sua denominação, mencionar a modalidade desportiva a que dedicam a sua actividade.\n\n2 - As federações desportivas têm a sua sede em território nacional.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172441": {
+   "fragment_id": "868101346",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Responsabilidade\n\n1 - As federações desportivas respondem civilmente perante terceiros pelos actos ou omissões dos seus órgãos, nos mesmos termos em que os comitentes respondem pelos actos ou omissões dos seus comissários.\n\n2 - Os titulares dos órgãos das federações desportivas respondem civilmente perante estas pelos prejuízos causados pelo incumprimento dos seus deveres legais ou estatutários.\n\n3 - A responsabilidade prevista no número anterior cessa com a aprovação do relatório e contas em assembleia geral, salvo no tocante a factos que a esta hajam sido ocultados ou que, pela sua natureza, não devam constar daqueles documentos.\n\n4 - O disposto nos números anteriores não prejudica a responsabilidade penal ou disciplinar em que eventualmente incorram os titulares dos órgãos das federações desportivas.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172442": {
+   "fragment_id": "868101347",
+   "type": 1,
+   "heading": "Capítulo II — Utilidade pública desportiva",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "### Capítulo II — Utilidade pública desportiva\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172448": {
+   "fragment_id": "868101348",
+   "type": 11,
+   "heading": "Artigo 7.º — Conteúdo",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Conteúdo\n\nO estatuto de utilidade pública desportiva atribui a uma federação desportiva, em exclusivo, a competência para o exercício, dentro do respectivo âmbito, de poderes de natureza pública, bem como a titularidade de direitos especialmente previstos na lei.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172449": {
+   "fragment_id": "868101349",
+   "type": 11,
+   "heading": "Artigo 8.º — Poderes públicos das federações dotadas de utilidade pública desportiva",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Poderes públicos das federações dotadas de utilidade pública desportiva\n\n1 - Têm natureza pública os poderes das federações exercidos no âmbito da regulamentação e disciplina das competições desportivas, que sejam conferidos pela lei para a realização obrigatória de finalidades compreendidas nas atribuições do Estado e envolvam, perante terceiros, o desempenho de prerrogativas de autoridade ou a prestação de apoios ou serviços legalmente determinados.\n\n2 - Dos actos praticados pelos órgãos das federações dotadas de utilidade pública desportiva no exercício de poderes públicos cabe recurso contencioso para os tribunais administrativos.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172450": {
+   "fragment_id": "868101350",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito de inscrição",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Direito de inscrição\n\nAs federações desportivas dotadas de utilidade pública desportiva não podem recusar a inscrição dos cidadãos nacionais, bem como os dos clubes ou sociedades com fins desportivos com sede em território nacional que a solicitem, desde que preencham as condições regulamentares de filiação.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172451": {
+   "fragment_id": "868101351",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nA fiscalização pela Administração Pública do exercício de poderes públicos e da utilização de dinheiros públicos é efectuada, nos termos da lei, mediante a realização de inspecções, inquéritos e sindicâncias.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172452": {
+   "fragment_id": "868101352",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos das federações desportivas com utilidade pública desportiva",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Direitos das federações desportivas com utilidade pública desportiva\n\n1 - As federações desportivas dotadas de utilidade pública desportiva têm direito, nomeadamente:\n\na) À participação na definição da política desportiva nacional;\n\nb) À representação no Conselho Superior de Desporto;\n\nc) Ao apoio do Estado para o estabelecimento de relações com organismos internacionais;\n\nd) À isenção de imposto de sucessões e doações relativamente aos bens adquiridos a título gratuito, nos termos do n.º 3 do artigo 18.º da Lei n.º 1/90, de 13 de Janeiro;\n\ne) Às receitas que lhes sejam consignadas por lei;\n\nf) À coordenação e orientação dos quadros competitivos da própria modalidade, no âmbito do livre associativismo e nos termos do presente diploma;\n\ng) Ao reconhecimento das selecções nacionais por elas organizadas;\n\nh) Ao uso da qualificação «utilidade pública desportiva», ou, abreviadamente, «UPD», a seguir à sua denominação.\n\n2 - Para além dos previstos no número anterior e de todos aqueles que lhes advenham da prossecução do respectivo escopo social, as federações exercem, ainda, os direitos que nos estatutos lhes sejam conferidos pelos seus associados.\n\n3 - Pode o Estado conceder às federações apoio em meios técnicos, materiais, humanos e, eventualmente, financeiros.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172453": {
+   "fragment_id": "868101353",
+   "type": 1,
+   "heading": "Capítulo III — Titularidade do estatuto de utilidade pública desportiva",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "### Capítulo III — Titularidade do estatuto de utilidade pública desportiva\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172464": {
+   "fragment_id": "868101354",
+   "type": 11,
+   "heading": "Artigo 12.º — Titularidade",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Titularidade\n\n1 - O estatuto de utilidade pública é concedido a, conforme o caso, uma federação unidesportiva ou multidesportiva.\n\n2 - Compete ao Conselho Superior de Desporto dar parecer, para efeitos do número anterior, sobre o âmbito de uma modalidade desportiva ou de uma área específica de organização social, consoante os casos.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172465": {
+   "fragment_id": "868101355",
+   "type": 11,
+   "heading": "Artigo 13.º — Atribuição",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Atribuição\n\n1 - A atribuição do estatuto de utilidade pública desportiva é decidida em função dos seguintes critérios:\n\na) Democraticidade e representatividade dos órgãos federativos;\n\nb) Independência e competência técnica dos órgãos jurisdicionais próprios;\n\nc) Grau de implantação social e desportiva a nível nacional;\n\nd) Enquadramento em federação internacional de reconhecida representatividade.\n\n2 - A ponderação do critério previsto na alínea c) do número anterior é feita com base, designadamente, nos seguintes indicadores:\n\na) Número de praticantes desportivos filiados;\n\nb) Número de clubes e associações de clubes filiados;\n\nc) Distribuição geográfica dos praticantes e clubes desportivos filiados;\n\nd) Frequência e regularidade das competições desportivas organizadas;\n\ne) Nível quantitativo e qualitativo das competições desportivas organizadas.\n\n3 - Podem ser estabelecidos, por diploma próprio, requisitos especiais para as federações multidesportivas, atendendo às exigências das áreas específicas de organização social em que pretendam promover o desenvolvimento da prática desportiva.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172466": {
+   "fragment_id": "868101356",
+   "type": 11,
+   "heading": "Artigo 14.º — Requerimento",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Requerimento\n\n1 - O pedido de atribuição do estatuto de utilidade pública desportiva é dirigido ao Primeiro-Ministro e entregue no Instituto do Desporto.\n\n2 - As regras de instrução do processo para a concessão da utilidade pública desportiva constam de diploma próprio.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172467": {
+   "fragment_id": "868101357",
+   "type": 11,
+   "heading": "Artigo 15.º — Audição",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Audição\n\n1 - Para a atribuição do estatuto de utilidade pública desportiva são ouvidos, sobre o requerimento dos interessados, o Conselho Superior de Desporto e o Comité Olímpico de Portugal.\n\n2 - As entidades referidas no número anterior devem emitir o seu parecer nos 60 dias subsequentes à recepção do respectivo pedido.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172468": {
+   "fragment_id": "868101358",
+   "type": 11,
+   "heading": "Artigo 16.º — Publicidade",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Publicidade\n\nOs despachos de atribuição ou recusa do estatuto de utilidade pública desportiva são publicados no Diário da República.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172469": {
+   "fragment_id": "868101359",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação de efeitos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 17.º — Cessação de efeitos\n\n1 - O estatuto de utilidade pública desportiva e os inerentes poderes públicos cessam:\n\na) Com a extinção da federação desportiva;\n\nb) Por decisão da entidade competente para a atribuição do estatuto de utilidade pública desportiva.\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868172470": {
+   "fragment_id": "868101360",
+   "type": 11,
+   "heading": "Artigo 18.º — Cancelamento",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 18.º — Cancelamento\n\n1 - O cancelamento do estatuto de utilidade pública desportiva só pode ter lugar verificado um dos seguintes fundamentos:\n\na) Terem as federações desportivas incorrido, por acção ou omissão, em ilegalidade grave ou em prática continuada de irregularidades, quando no exercício de poderes públicos ou na utilização de dinheiros públicos, verificadas em inspecção, inquérito ou sindicância;\n\nb) Falta de qualquer dos requisitos previstos nos n.os 1 e 3 do artigo 13.º\n\n2 - O cancelamento do estatuto de utilidade pública desportiva com fundamento na falta de implantação social e desportiva só pode basear-se na insuficiência manifesta dos respectivos indicadores, de acordo com os critérios aplicáveis à sua avaliação no momento do cancelamento, ou na insuficiência relativa de tais indicadores em confronto com os apresentados por entidade concorrente à concessão do estatuto no âmbito da mesma modalidade.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+  },
+  "868172471": {
+   "fragment_id": "868102717",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Suspensão da utilidade pública desportiva",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 18.º-A — Suspensão da utilidade pública desportiva\n\n1 - Verificados os requisitos constantes das alíneas a) ou b) do n.º 1 do artigo 18.º, por despacho fundamentado do membro do Governo responsável pela área do desporto poderá ser suspenso o estatuto de utilidade pública desportiva, quando tal medida seja considerada suficiente para se eliminarem os fundamentos constantes daquele artigo.\n\n2 - O prazo da suspensão será fixado pelo despacho referido no número anterior, até ao limite de um ano, eventualmente renovável por idêntico período, devendo aquela ser dada por finda se, entretanto, a federação desportiva em causa tiver eliminado as circunstâncias que constituíram fundamento da suspensão.\n\n3 - A suspensão do estatuto de utilidade pública desportiva implicará a impossibilidade de, durante o referido período, a federação desportiva ser beneficiária de quaisquer apoios ou fundos públicos, nomeadamente os decorrentes de contratos-programa em curso ou de verbas que lhe estejam legalmente consignadas, devendo estas ser reafectadas aos fins que forem fixados pelo membro do Governo responsável pela área do desporto.\n\n4 - As verbas que a federação tiver deixado de receber durante o período da suspensão não lhe poderão voltar a ser atribuídas, ainda que entretanto cesse tal suspensão.\n\n5 - Decorrido o período da suspensão da utilidade pública desportiva, sem que a federação desportiva tenha eliminado os fundamentos que deram origem a tal suspensão, o estatuto de utilidade pública desportiva será cancelado.\n\n6 - No caso referido no número anterior e até à decisão final do processo de cancelamento, a federação em causa continuará sujeita às consequências decorrentes da suspensão do estatuto de utilidade pública desportiva.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+  },
+  "868172472": {
+   "fragment_id": "868102718",
+   "type": 11,
+   "heading": "Artigo 18.º-B — Consequências jurídicas do cancelamento da utilidade pública desportiva",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 18.º-B — Consequências jurídicas do cancelamento da utilidade pública desportiva\n\n1 - O cancelamento do estatuto de utilidade pública desportiva poderá ainda implicar, para além das demais consequências previstas na lei:\n\na) Em relação à federação desportiva em causa: o cancelamento do estatuto de mera utilidade pública;\n\nb) Em relação às pessoas colectivas, que venham a participar nos campeonatos através dos quais se atribuem títulos de campeão nacional, ou nas selecções nacionais, organizadas por tal federação: o cancelamento do estatuto de mera utilidade pública, bem como das concessões de exploração de salas de jogo do bingo, de que aquelas entidades sejam titulares.\n\n2 - O cancelamento referido no número anterior será determinado por despacho do membro do Governo responsável pela área do desporto, ou conjuntamente com o membro do Governo responsável pela área do turismo, no caso das concessões de exploração de salas de jogo do bingo.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1997-05-14"
+  },
+  "868172473": {
+   "fragment_id": "868101361",
+   "type": 11,
+   "heading": "Artigo 19.º — Iniciativa e processo",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Iniciativa e processo\n\n1 - O processo de cancelamento do estatuto de utilidade pública desportiva é instaurado pelo Instituto do Desporto, oficiosamente ou por iniciativa do Conselho Superior de Desporto, do Comité Olímpico de Portugal ou de uma entidade concorrente à concessão do estatuto no âmbito da mesma modalidade.\n\n2 - A entidade referida na parte final do número anterior só pode solicitar o cancelamento desde que, simultaneamente, requeira para si a concessão do estatuto de utilidade pública desportiva, não podendo, em caso de indeferimento, apresentar novo pedido, fundamentado no n.º 2 do artigo anterior, antes de decorrido o ciclo olímpico em curso.\n\n3 - Ao processo de cancelamento é aplicável, com as necessárias adaptações, o disposto nos artigos 15.º e 16.º, dispensando-se o parecer do Conselho Superior de Desporto ou do Comité Olímpico de Portugal quando o processo tenha sido desencadeado por iniciativa de uma destas entidades.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868172474": {
+   "fragment_id": "868101362",
+   "type": 1,
+   "heading": "Capítulo IV — Organização interna das federações dotadas de utilidade pública desportiva",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "### Capítulo IV — Organização interna das federações dotadas de utilidade pública desportiva\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416875": {
+   "fragment_id": "868101363",
+   "type": 8,
+   "heading": "Secção I — Estatutos e regulamentos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "#### Secção I — Estatutos e regulamentos\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416908": {
+   "fragment_id": "868101364",
+   "type": 11,
+   "heading": "Artigo 20.º — Estatutos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Estatutos\n\nOs estatutos das federações desportivas dotadas de utilidade pública desportiva devem especificar e regular, para além das exigidas pela lei geral, as seguintes matérias:\n\na) Estrutura territorial;\n\nb) Órgãos e sua composição, competência e funcionamento;\n\nc) Sistema eleitoral dos órgãos;\n\nd) Aquisição e perda de qualidade do associado;\n\ne) Regras de relacionamento com os clubes e com as associações de clubes;\n\nf) Regime orçamental e de prestação de contas;\n\ng) Processos de coordenação dos diferentes vectores competitivos da modalidade;\n\nh) Processo de alteração dos estatutos;\n\ni) Causas de extinção e dissolução;\n\nj) Definição e regime de relacionamento entre os órgãos federativos e o organismo encarregado de dirigir a actividade desportiva no âmbito das competições de carácter profissional na respectiva modalidade;\n\nl) Definição, composição, competência e funcionamento da estrutura de direcção da actividade técnico-desportiva no âmbito do fomento, desenvolvimento e progresso técnico da modalidade, designadamente nas variáveis de formação de praticantes, técnicos e outros agentes, da detecção de talentos e da constituição das selecções nacionais.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416909": {
+   "fragment_id": "868101365",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Regulamentos\n\nPara além de outras que se mostrem necessárias, as federações desportivas dotadas de utilidade pública desportiva devem elaborar regulamentos que contemplem as seguintes matérias:\n\na) Funcionamento e articulação de órgãos e serviços;\n\nb) Organização de provas;\n\nc) Participação nas selecções nacionais;\n\nd) Participação de praticantes estrangeiros nas provas;\n\ne) Disciplina;\n\nf) Arbitragem e juízes;\n\ng) Medidas de defesa da ética desportiva, designadamente nos domínios da prevenção e da punição da violência associada ao desporto, da dopagem e da corrupção no fenómeno desportivo;\n\nh) Atribuição do estatuto de alta competição e respectivos critérios.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416878": {
+   "fragment_id": "868101366",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime disciplinar",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 112/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/112-1999-345127), em vigor a partir de 1999-08-08"
+   ],
+   "markdown": "###### Artigo 22.º — Regime disciplinar\n\n1 - No âmbito desportivo, o poder disciplinar das federações dotadas de utilidade pública desportiva exerce-se sobre os clubes, dirigentes, praticantes, treinadores, técnicos, árbitros, juízes e, em geral, sobre todos os agentes desportivos que, encontrando-se nelas filiados, desenvolvam a actividade desportiva compreendida no seu objecto estatutário, nos termos do respectivo regime disciplinar.\n\n2 - O regime disciplinar deve prever, designadamente, as seguintes matérias:\n\na) Graduação das infracções como leves, graves e muito graves e determinação das correspondentes sanções;\n\nb) Sujeição aos princípios da igualdade, irretroactividade e proporcionalidade da aplicação de sanções;\n\nc) Exclusão das penas de irradiação ou de duração indeterminada;\n\nd) Enumeração das causas ou circunstâncias que eximam, atenuem ou agravem a responsabilidade do infractor, bem como os requisitos da extinção desta;\n\ne) Exigência de processo disciplinar, para a aplicação de sanções, quando estejam em causa infracções qualificadas como muito graves e, em qualquer caso, quando a sanção a aplicar determine a suspensão de actividade por período superior a um mês;\n\nf) Consagração das garantias de defesa do arguido, designadamente exigindo que a acusação seja suficientemente esclarecedora dos factos determinantes do exercício do poder disciplinar e estabelecendo a obrigatoriedade de audiência do arguido nos casos em que seja necessária a instauração de processo disciplinar;\n\ng) Garantia de recurso, seja ou não obrigatória a instauração de processo disciplinar.\n\n3 - Se a infracção revestir carácter contra-ordenacional ou criminal, o órgão disciplinar competente deve dar conhecimento do facto às entidades competentes.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 112/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/112-1999-345127), em vigor a partir de 1999-08-08"
+  },
+  "868416910": {
+   "fragment_id": "868101367",
+   "type": 8,
+   "heading": "Secção II — Estrutura orgânica",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "#### Secção II — Estrutura orgânica\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416924": {
+   "fragment_id": "868101368",
+   "type": 11,
+   "heading": "Artigo 23.º — Órgãos estatutários",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Órgãos estatutários\n\n1 - As federações desportivas dotadas de utilidade pública desportiva devem, na sua estrutura orgânica, contemplar os seguintes órgãos:\n\na) Assembleia geral;\n\nb) Presidente;\n\nc) Direcção;\n\nd) Conselho de arbitragem;\n\ne) Conselho fiscal;\n\nf) Conselho jurisdicional;\n\ng) Conselho disciplinar.\n\n2 - No seio de cada federação dotada de utilidade pública desportiva cuja modalidade inclua praticantes profissionais deve existir um organismo encarregado de dirigir especificamente as actividades desportivas de carácter profissional com autonomia administrativa, técnica e financeira.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416925": {
+   "fragment_id": "868101369",
+   "type": 11,
+   "heading": "Artigo 24.º — Eleição",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14",
+    "Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 24.º — Eleição\n\nOs titulares dos órgãos das federações desportivas dotadas de utilidade pública desportiva referidos no n.º 1 do artigo anterior são eleitos, em listas únicas, através de sufrágio directo e secreto.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14\n\n> Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+  },
+  "868416926": {
+   "fragment_id": "868101370",
+   "type": 11,
+   "heading": "Artigo 25.º — Assembleia geral",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Assembleia geral\n\nA assembleia geral é o órgão deliberativo da federação dotada de utilidade pública desportiva, cabendo-lhe:\n\na) A eleição e a destituição dos titulares dos órgãos federativos referidos no n.º 1 do artigo 23.º;\n\nb) A aprovação do relatório, do balanço, do orçamento e dos documentos de prestação de contas;\n\nc) As alterações dos estatutos;\n\nd) A aprovação dos regulamentos previstos no artigo 21.º, incluindo o regime disciplinar;\n\ne) A aprovação da proposta de extinção da federação.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416927": {
+   "fragment_id": "868101371",
+   "type": 11,
+   "heading": "Artigo 26.º — Composição da assembleia geral",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 26.º — Composição da assembleia geral\n\n1 - Integram a assembleia geral:\n\na) Sociedades com fins desportivos, clubes ou agrupamentos de clubes;\n\nb) Representantes de praticantes desportivos;\n\nc) Representantes de treinadores;\n\nd) Representantes de árbitros e juízes;\n\ne) Representantes de outros agentes desportivos englobados na respectiva federação desportiva.\n\n2 - A representação das sociedades com fins desportivos e dos clubes ou agrupamentos de clubes na assembleia geral faz-se de acordo com o estabelecido nos estatutos da federação, não lhes podendo corresponder, no conjunto, um número de votos superior a três quartos.\n\n3 - Os estatutos federativos não podem impedir os clubes e as sociedades com fins desportivos de participar na assembleia geral.\n\n4 - Relativamente aos clubes e sociedades com fins desportivos dotados de direito de voto, devem os estatutos definir os factores de ponderação aplicáveis com base, entre outros critérios, no número de associados que possuam e nos níveis de competição em que participam.\n\n5 - Os membros referidos nas alíneas b) a e) do n.º 1, quando existam associações de âmbito nacional representativas dos respectivos elementos, devem ser designados por estas.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 129/93 - Diário da República n.º 178/1993, 1º Suplemento, Série I-A de 1993-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/129-1993-616588), produz efeitos a partir de 1993-05-01"
+  },
+  "868416928": {
+   "fragment_id": "868102719",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Federações com competições de natureza profissional",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 26.º-A — Federações com competições de natureza profissional\n\n1 - Nas federações no âmbito das quais as competições desportivas profissionais integrem clubes agrupados em mais de uma divisão, compõem a assembleia geral:\n\na) Clubes integrados na liga profissional de clubes;\n\nb) Clubes integrados nos agrupamentos de clubes de base geográfica;\n\nc) Representantes dos praticantes desportivos;\n\nd) Representantes dos árbitros e juízes;\n\ne) Representantes dos treinadores;\n\nf) Representantes de outros agentes desportivos englobados na respectiva federação desportiva.\n\n2 - Aos clubes integrados nos agrupamentos de base geográfica não podem corresponder menos de 55% dos votos.\n\n3 - Aos clubes integrados na liga profissional de clubes não podem corresponder menos de 20% dos votos.\n\n4 - Aos representantes dos praticantes desportivos não podem corresponder menos de 10% dos votos.\n\n5 - Aos representantes dos árbitros e juízes não podem corresponder menos de 6% dos votos.\n\n6 - Aos representantes dos treinadores não podem corresponder menos de 6% dos votos.\n\n7 - Aos representantes de outros agentes desportivos corresponderá o restante número de votos.\n\n8 - Os membros referidos nas alíneas c), d) e e) do n.º 1, quando existam associações de âmbito nacional representativas dos respectivos elementos, devem ser designados por estas.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416929": {
+   "fragment_id": "868102720",
+   "type": 11,
+   "heading": "Artigo 26.º-B — Repartição de votos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 26.º-B — Repartição de votos\n\nOs votos referidos no n.º 2 do artigo 26.º-A serão repartidos pelos diversos agrupamentos de clubes de base geográfica de acordo com os seguintes princípios:\n\na) Os clubes que participam nas competições de natureza profissional não poderão ser contabilizados para efeitos do cálculo dos votos destes agrupamentos;\n\nb) A fórmula de cálculo dos votos que devam competir a cada agrupamento não poderá levar em linha de conta a integração dos respectivos clubes nas diversas divisões nacionais.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416930": {
+   "fragment_id": "868101372",
+   "type": 11,
+   "heading": "Artigo 27.º — Presidente",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 27.º — Presidente\n\n1 - O presidente representa a federação, assegura o seu regular funcionamento e promove a colaboração entre os seus órgãos.\n\n2 - Compete, em especial, ao presidente da federação:\n\na) Representar a federação junto da Administração Pública;\n\nb) Representar a federação junto das suas organizações congéneres, nacionais, estrangeiras ou internacionais;\n\nc) Representar a federação em juízo;\n\nd) Assegurar a organização e o funcionamento dos serviços, bem como a escrituração dos livros, nos termos da lei;\n\ne) Contratar e gerir o pessoal ao serviço da federação;\n\nf) Assegurar a gestão corrente dos negócios federativos.\n\ng) Participar, quando o entenda conveniente, nas reuniões de quaisquer órgãos federativos, podendo nelas intervir na discussão, mas sem direito a voto;\n\nh) Convocar extraordinariamente a assembleia geral da federação, podendo nela participar nos termos da alínea anterior.\n\n3 - Nas federações no âmbito das quais se disputem competições de natureza profissional, o presidente será coadjuvado por um vice-presidente, designado pela liga profissional de clubes, ao qual compete substituí-lo nas suas faltas, ausências ou impedimentos.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416931": {
+   "fragment_id": "868101373",
+   "type": 11,
+   "heading": "Artigo 28.º — Direcção",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Direcção\n\n1 - A direcção é o órgão colegial de administração da federação desportiva, constituída por um número ímpar de membros.\n\n2 - Compete à direcção administrar a federação, incumbindo-lhe, designadamente:\n\na) Organizar as selecções nacionais;\n\nb) Organizar as competições desportivas não profissionais;\n\nc) Garantir a efectivação dos direitos e deveres dos associados;\n\nd) Elaborar anualmente o plano de actividades;\n\ne) Elaborar anualmente e submeter a parecer do conselho fiscal o orçamento, o balanço e os documentos de prestação de contas;\n\nf) Administrar os negócios da federação em matérias que não sejam especialmente atribuídas a outros órgãos;\n\ng) Zelar pelo cumprimento dos estatutos e das deliberações dos órgãos da federação.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416932": {
+   "fragment_id": "868101374",
+   "type": 11,
+   "heading": "Artigo 29.º — Conselho de arbitragem",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Conselho de arbitragem\n\nCabe ao conselho de arbitragem, sem prejuízo de outras competências atribuídas pelos estatutos, coordenar e administrar a actividade da arbitragem, aprovar as respectivas normas reguladoras, estabelecer os parâmetros de formação dos árbitros e proceder à classificação técnica destes.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416933": {
+   "fragment_id": "868102675",
+   "type": 11,
+   "heading": "Artigo 30.º — Conselho fiscal",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 30.º — Conselho fiscal\n\n1 - O conselho fiscal, constituído por número ímpar de membros, fiscaliza os actos de administração financeira da federação, bem como o cumprimento dos estatutos e das disposições legais aplicáveis.\n\n2 - Compete, em especial, ao conselho fiscal:\n\na) Emitir parecer sobre o orçamento, o balanço e os documentos de prestação de contas;\n\nb) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte;\n\nc) Acompanhar o funcionamento da federação, participando aos órgãos competentes as irregularidades de que tenha conhecimento.\n\n3 - Quando um dos membros do conselho fiscal não tenha tal qualidade, as contas das federações desportivas deverão ser, obrigatoriamente, certificadas por um revisor oficial de contas antes da sua aprovação em assembleia geral.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416934": {
+   "fragment_id": "868102676",
+   "type": 11,
+   "heading": "Artigo 31.º — Conselho jurisdicional",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 31.º — Conselho jurisdicional\n\n1 - Para além de outras competências que lhe sejam cometidas pelos estatutos, cabe ao conselho jurisdicional conhecer dos recursos interpostos das decisões disciplinares em matéria desportiva.\n\n2 - O conselho jurisdicional é composto por um número ímpar de membros, podendo funcionar em secções especializadas.\n\n3 - Nas federações no âmbito das quais se disputem competições de natureza profissional, os membros do conselho jurisdicional são obrigatoriamente licenciados em Direito.\n\n4 - Nas federações não referidas no número anterior, o presidente do conselho jurisdicional deve ser licenciado em Direito.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416935": {
+   "fragment_id": "868102677",
+   "type": 11,
+   "heading": "Artigo 32.º — Conselho disciplinar",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 32.º — Conselho disciplinar\n\n1 - Ao conselho disciplinar cabe, sem prejuízo de outras competências atribuídas pelos estatutos, apreciar e punir, de acordo com a lei e os regulamentos federativos, as infracções disciplinares em matéria desportiva.\n\n2 - Nas federações no âmbito das quais se disputem competições de natureza profissional, o conselho disciplinar é composto por um número ímpar de membros, licenciados em Direito.\n\n3 - Nas federações não referidas no número anterior, o presidente do conselho disciplinar deve ser licenciado em Direito.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416936": {
+   "fragment_id": "868102678",
+   "type": 11,
+   "heading": "Artigo 33.º — Actas",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Actas\n\nDas reuniões de qualquer órgão colegial das federações desportivas é sempre lavrada acta, que deve ser assinada por todos os presentes ou, no caso da assembleia geral, pelos membros da respectiva mesa.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416893": {
+   "fragment_id": "868102679",
+   "type": 8,
+   "heading": "Secção III — Organização do sector profissional",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "#### Secção III — Organização do sector profissional\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416937": {
+   "fragment_id": "868102680",
+   "type": 11,
+   "heading": "Artigo 34.º — Liga profissional de clubes",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 34.º — Liga profissional de clubes\n\n1 - No seio das federações unidesportivas em que se disputem competições desportivas de natureza profissional, deverá constituir-se uma liga de clubes, integrada obrigatória e exclusivamente por todos os clubes que disputem tais competições, dotada de personalidade jurídica e autonomia administrativa, técnica e financeira.\n\n2 - A liga será o órgão autónomo da federação para o desporto profissional.\n\n3 - Cabe à liga profissional de clubes exercer, relativamente às competições de carácter profissional, as competências da federação em matéria de organização, direcção e disciplina, nos termos dos artigos seguintes.\n\n4 - O disposto no número anterior é aplicável aos direitos a que se refere o n.º 2 do artigo 11.º\n\n5 - No âmbito das restantes federações desportivas em que existam praticantes desportivos profissionais poderão ser constituídos organismos destinados a assegurar, de forma específica, a sua representatividade no seio da respectiva federação.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416895": {
+   "fragment_id": "868102681",
+   "type": 11,
+   "heading": "Artigo 35.º — Carácter profissional das competições",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 35.º — Carácter profissional das competições\n\nCabe ao Conselho Superior de Desporto reconhecer, a solicitação do presidente da respectiva federação, o carácter profissional das competições desportivas, em cada modalidade, bem como aprovar, nos termos do disposto no presente diploma, o número de clubes ou sociedades com fins desportivos participantes nessas competições.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868416896": {
+   "fragment_id": "868102682",
+   "type": 11,
+   "heading": "Artigo 36.º — Pedido de reconhecimento",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 36.º — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento do carácter profissional das competições é aprovado, por maioria de dois terços, por uma assembleia reunindo os clubes ou sociedades com fins desportivos que, pretendendo participar nessas competições e estando filiadas na federação respectiva, reúnam os pressupostos de natureza financeira e de organização fixados por diploma próprio.\n\n2 - O pedido de reconhecimento deve ser instruído com os seguintes elementos, relativos às competições cujo carácter profissional se pretende ver reconhecido:\n\na) Massa salarial média dos praticantes e treinadores, por cada clube ou sociedade com fins desportivos;\n\nb) Limites mínimos dos orçamentos, dos clubes ou sociedades com fins desportivos, destinados à competição respectiva;\n\nc) Volume médio de negócios correspondente à competição, por cada clube ou sociedade com fins desportivos;\n\nd) Número médio significativo de espectadores, por cada jogo ou prova realizados no âmbito da competição;\n\ne) Percentagem média de autofinanciamento dos clubes ou sociedades com fins desportivos.\n\n3 - O requerimento deve ser submetido pelo presidente da federação ao Conselho Superior de Desporto nos 30 dias subsequentes à sua aprovação pela assembleia a que se refere o n.º 1.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868416897": {
+   "fragment_id": "868102683",
+   "type": 11,
+   "heading": "Artigo 37.º — Homologação",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 37.º — Homologação\n\nAs deliberações a que se refere o artigo 35.º são submetidas à homologação do membro do Governo responsável pela área do desporto, no prazo máximo de 30 dias a contar da data de emissão.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868416898": {
+   "fragment_id": "868102684",
+   "type": 11,
+   "heading": "Artigo 38.º — Pedido de reconhecimento da natureza profissional de competições",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+   ],
+   "markdown": "###### Artigo 38.º — Pedido de reconhecimento da natureza profissional de competições\n\n1 - Relativamente às modalidades em que haja sido já atribuída a uma federação o estatuto de utilidade pública desportiva, sem que tenha tido lugar o reconhecimento de competições profissionais, pode, decorrido o prazo fixado no n.º 2 do artigo 17.º, qualquer clube ou agrupamento de clubes nela federados solicitar ao Conselho Superior de Desporto o reconhecimento de competições dessa natureza, para efeitos do disposto no presente diploma.\n\n2 - Nos 30 dias subsequentes à recepção do requerimento, deve o Conselho Superior de Desporto decidir, fundamentadamente, sobre a admissão do pedido, cabendo-lhe, quando se verificar a sua admissão, solicitar à federação respectiva o envio, nos 60 dias subsequentes, dos elementos a que se refere o artigo 36.º\n\n3 - O disposto no número anterior é aplicável quando não seja cumprido o disposto no n.º 3 do artigo 36.º\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 303/99 - Diário da República n.º 182/1999, Série I-A de 1999-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1999-426156), em vigor a partir de 1999-08-07"
+  },
+  "868416938": {
+   "fragment_id": "868102685",
+   "type": 11,
+   "heading": "Artigo 39.º — Competências da liga profissional de clubes",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 39.º — Competências da liga profissional de clubes\n\n1 - Sem prejuízo de outras competências previstas nos estatutos da federação, cabe à liga profissional de clubes:\n\na) Organizar e regulamentar as competições de natureza profissional que se disputem no âmbito da respectiva federação, respeitando as regras técnicas definidas pelos órgãos federativos competentes, nacionais e internacionais;\n\nb) Exercer, relativamente aos clubes seus associados, as funções de tutela, controlo e supervisão que forem estabelecidas legalmente ou pelos estatutos e regulamentos desportivos;\n\nc) Exercer o poder disciplinar e gerir o específico sector de arbitragem nos termos definidos pelos estatutos federativos e pelo protocolo referido no artigo 40.º;\n\nd) Definir critérios de afectação e assegurar a supervisão das receitas directamente provenientes das competições profissionais;\n\ne) Definir regras de gestão e fiscalização de contas aplicáveis aos clubes nela integrados;\n\nf) Registar os contratos de trabalho dos respectivos praticantes desportivos profissionais;\n\ng) Promover acções de formação dos agentes desportivos;\n\nh) Exercer as demais competências que lhe sejam atribuídas por lei ou pelos estatutos federativos.\n\n2 - Cabe à liga profissional de clubes aprovar, no âmbito das competições de carácter profissional, os regulamentos a que se referem as alíneas b), e) e f) do artigo 21.º, nos termos definidos pelos estatutos federativos e pelo protocolo referido no artigo 40.º\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416939": {
+   "fragment_id": "868102686",
+   "type": 11,
+   "heading": "Artigo 40.º — Protocolo",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 40.º — Protocolo\n\n1 - Por protocolo celebrado entre a liga profissional de clubes e a direcção da federação, é definido o regime aplicável em matéria de:\n\na) Relações desportivas, financeiras e patrimoniais entre aquela liga e os órgãos federativos, nomeadamente quanto à formação dos agentes desportivos, ao regime de acesso entre as diferentes competições, à delimitação dos estatutos dos praticantes profissionais e não profissionais, à organização da actividade das selecções nacionais, ao apoio à actividade desportiva não profissional, ao regime disciplinar e ao funcionamento do sistema da arbitragem;\n\nb) Relações com as competições desportivas não profissionais, designadamente quanto à possibilidade de participação nestas competições de praticantes não profissionais.\n\n2 - Os protocolos aprovados nos termos do número anterior devem ser submetidos à ratificação pela assembleia geral.\n\n3 - Os protocolos referidos neste artigo serão celebrados por períodos não inferiores a quatro anos, eventualmente renováveis por idêntico período se não forem denunciados por qualquer das partes com, pelo menos, seis meses de antecedência em relação ao seu termo.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416940": {
+   "fragment_id": "868102687",
+   "type": 11,
+   "heading": "Artigo 41.º — Regimento da liga profissional de clubes",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 41.º — Regimento da liga profissional de clubes\n\n1 - O regimento da liga profissional de clubes é aprovado pelos representantes dos clubes dela integrantes.\n\n2 - Do regimento deverá ainda constar que todos os órgãos da liga profissional de clubes são eleitos na respectiva assembleia geral.\n\n3 - As competências que, nos termos estatutários e do protocolo referido no artigo 40.º, a liga profissional de clubes deva exercer relativamente à arbitragem competirão a uma comissão de arbitragem eleita nos termos referidos no número anterior.\n\n4 - Um dos membros do conselho fiscal da liga profissional de clubes deve ser, obrigatoriamente, revisor oficial de contas.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416941": {
+   "fragment_id": "868102688",
+   "type": 8,
+   "heading": "Secção IV — Titulares dos órgãos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "#### Secção IV — Titulares dos órgãos\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416947": {
+   "fragment_id": "868102689",
+   "type": 11,
+   "heading": "Artigo 42.º — Direitos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Direitos\n\nO estatuto dos titulares de órgãos federativos é definido no diploma que aprova o estatuto do dirigente desportivo.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416948": {
+   "fragment_id": "868102690",
+   "type": 11,
+   "heading": "Artigo 43.º — Requisitos de elegibilidade",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 43.º — Requisitos de elegibilidade\n\nSão elegíveis para os órgãos de federação desportiva dotado de utilidade pública desportiva os maiores não afectados por qualquer incapacidade de exercício, que não sejam devedores da federação respectiva, nem hajam sido punidos por infracções de natureza criminal, contra-ordenacional ou disciplinar em matéria de violência, corrupção ou dopagem associadas ao desporto, até cinco anos após o cumprimento da pena, nem tenham sido punidos por crimes praticados no exercício de cargos dirigentes em federações desportivas, bem como por crimes contra o património destas, até cinco anos após o cumprimento da pena.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416949": {
+   "fragment_id": "868102691",
+   "type": 11,
+   "heading": "Artigo 44.º — Incompatibilidades",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+   ],
+   "markdown": "###### Artigo 44.º — Incompatibilidades\n\nÉ incompatível com a função de titular de órgão federativo:\n\na) O exercício de outro cargo na mesma federação;\n\nb) A intervenção, directa ou indirecta, em contratos celebrados com a federação respectiva;\n\nc) Relativamente aos membros da direcção, o exercício de cargo directivo em outra federação desportiva.\n\nd) Relativamente aos órgãos da federação ou da liga profissional de clubes, o exercício, no seu âmbito, de funções como dirigente de clube ou de associação, árbitro, juiz ou treinador no activo, quando nela se disputem competições de natureza profissional.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/97 - Diário da República n.º 107/1997, Série I-A de 1997-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599), em vigor a partir de 1997-05-14"
+  },
+  "868416950": {
+   "fragment_id": "868102692",
+   "type": 11,
+   "heading": "Artigo 45.º — Duração do mandato",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 45.º — Duração do mandato\n\nO mandato dos titulares dos órgãos das federações desportivas é de quatro anos, em regra coincidentes com o ciclo olímpico.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416951": {
+   "fragment_id": "868102693",
+   "type": 11,
+   "heading": "Artigo 46.º — Perda de mandato",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 46.º — Perda de mandato\n\n1 - Sem prejuízo de outros factos previstos nos estatutos, perdem o mandato os titulares de órgãos federativos que, após a eleição, sejam colocados em situação que os torne inelegíveis, ou relativamente aos quais se apure uma das incompatibilidades previstas no artigo 44.º\n\n2 - Perdem, ainda, o mandato os titulares dos órgãos federativos que, no exercício das suas funções ou por causa delas, intervenham em contrato no qual tenham interesse, por si, como gestor de negócios ou representante de outra pessoa, e, bem assim, quando nele tenham interesse o seu cônjuge, algum parente ou afim na linha recta ou até ao 2.º grau da linha colateral ou qualquer pessoa com quem viva em economia comum.\n\n3 - Os contratos em que tiverem intervindo titulares de órgãos federativos que impliquem a perda do seu mandato são anuláveis nos termos gerais, sem prejuízo de outra sanção mais grave especialmente prevista.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416952": {
+   "fragment_id": "868102694",
+   "type": 1,
+   "heading": "Capítulo V — Competições e selecções nacionais",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "### Capítulo V — Competições e selecções nacionais\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416956": {
+   "fragment_id": "868102695",
+   "type": 11,
+   "heading": "Artigo 47.º — Competições",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 47.º — Competições\n\n1 - As competições organizadas com vista à atribuição de títulos nacionais ou outros de carácter oficial, bem como as destinadas a apurar os praticantes ou clubes desportivos que hão-de representar o País em competições internacionais, devem obedecer aos seguintes princípios:\n\na) Liberdade de acesso de todos os cidadãos nacionais e clubes com sede em território nacional que se encontrem regularmente inscritos na respectiva federação desportiva e preencham os requisitos de participação por ela definidos;\n\nb) Igualdade de todos os praticantes no desenvolvimento da competição, sem prejuízo dos escalonamentos estabelecidos com base em critérios exclusivamente desportivos;\n\nc) Publicidade dos regulamentos próprios de cada competição, bem como das decisões que os apliquem e, quando reduzidas a escrito, das razões que as fundamentam;\n\nd) Imparcialidade e isenção no julgamento das questões que se suscitarem em matéria técnica e disciplinar.\n\n2 - No âmbito das competições desportivas de carácter profissional, a competência para definir os requisitos de participação é exercida pelo organismo autónomo a que se refere o artigo 34.º\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416957": {
+   "fragment_id": "868102696",
+   "type": 11,
+   "heading": "Artigo 48.º — Condições de reconhecimento de títulos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 48.º — Condições de reconhecimento de títulos\n\n1 - As competições organizadas pelas federações desportivas, ou no seu âmbito, que atribuam títulos nacionais ou regionais, disputam-se em território nacional.\n\n2 - As competições referidas no número anterior só podem ser disputadas por clubes ou sociedades com fins desportivos com sede no território nacional e, em caso de atribuição de título individual, por cidadãos nacionais.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416958": {
+   "fragment_id": "868102697",
+   "type": 11,
+   "heading": "Artigo 49.º — Selecções nacionais",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 49.º — Selecções nacionais\n\n1 - A participação em selecção nacional organizada por federação desportiva é reservada a cidadãos nacionais.\n\n2 - As condições a que obedece a participação dos praticantes desportivos nas selecções nacionais são definidas nos estatutos federativos ou nos respectivos regulamentos internos, tendo em consideração o interesse público dessa participação e os legítimos interesses das federações, dos clubes e dos praticantes desportivos.\n\n3 - A participação nas selecções nacionais é obrigatória, salvo motivo justificado, para os praticantes desportivos que tenham beneficiado de medidas específicas de apoio no âmbito do consagrado no regime de alta competição.\n\n4 - Os modelos dos equipamentos das selecções nacionais são aprovados pelo Conselho Superior de Desporto, mediante proposta das respectivas federações.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416959": {
+   "fragment_id": "868102698",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416963": {
+   "fragment_id": "868102699",
+   "type": 11,
+   "heading": "Artigo 50.º — Depósito",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 50.º — Depósito\n\nDevem ser depositados no Instituto do Desporto, pelas federações dotadas de utilidade pública desportiva:\n\na) Os respectivos estatutos, regulamentos e regimentos;\n\nb) O elenco dos titulares dos respectivos órgãos sociais, bem como dos clubes e agrupamentos de clubes filiados nas federações dotadas de utilidade pública desportiva;\n\nc) O respectivo relatório anual e conta de gerência, bem como o dos clubes e agrupamentos de clubes nelas filiados que participem nas competições de natureza profissional ou que hajam recebido apoio do Estado.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416964": {
+   "fragment_id": "868102700",
+   "type": 11,
+   "heading": "Artigo 51.º — Manutenção e isenção e regalias",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 51.º — Manutenção e isenção e regalias\n\nAs federações desportivas já qualificadas como pessoas colectivas de utilidade pública conservam esse estatuto e mantêm a titularidade dos direitos e deveres previstos na lei.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868416965": {
+   "fragment_id": "868102701",
+   "type": 11,
+   "heading": "Artigo 52.º — Regime transitório",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 52.º — Regime transitório\n\nAs federações desportivas já existentes e que pretendam obter o estatuto de utilidade pública desportiva devem requerer a sua concessão no prazo de 45 dias após a entrada em vigor do diploma previsto no n.º 2 do artigo 14.º\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  },
+  "868103054": {
+   "fragment_id": "868102702",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1993. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos.\n\nPromulgado em 24 de Março de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 25 de Março de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 248-B/2008 - Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744), em vigor a partir de 2009-01-01"
+  }
+ }
+}

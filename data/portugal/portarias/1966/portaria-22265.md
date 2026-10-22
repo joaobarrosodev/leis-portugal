@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:478384:por
+title: Portaria n.º 22265
+short_title: null
+summary: Fixa o diferencial a cobrar pela Junta de Comércio Externo com destino ao Fundo de Fomento de Produção e Exportação,
+  criado pela Portaria n.º 12079, nas exportações de banana e abacaxi da província ultramarina de Angola com destino à metrópole,
+  a realizar nos navios de carreira
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: '22265'
+official_date: null
+publication_date: '1966-10-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 247/1966, Série I de 1966-10-24
+  number: '247'
+  series: I
+  supplement: null
+  pages: 1740 - 1740
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/10/24700/17401740.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '478384'
+  dre_path: /dr/detalhe/portaria/22265-1966-478384
+  internal: pt:dre:478384:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22265-1966-478384
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22265-1966-478384
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-09-04T00:00:00Z'
+integrity:
+  source_sha256: 0baa5aee35a0c12dda316d825a35ce019958042ca9331808b0efcc708ed61bdb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-22265-478384.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:265099:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22265
+
+Considerando que se revela indispensável, com vista à regularização do tráfego fruteiro entre Angola e a metrópole, que se proceda ao nivelamento dos encargos da fruta transportada nas câmaras frigoríficas dos navios de carreira aos da fruta carregada nos navios fruteiros;
+
+Sob proposta do Governo-Geral da província de Angola:
+
+Manda o Ministro do Ultramar o seguinte:
+
+1.º Nas exportações de banana e abacaxi, com destino à metrópole, a realizar nos navios de carreira, será cobrado pela Junta de Comércio Externo, com destino ao Fundo de Fomento de Produção e Exportação, criado pela [Portaria n.º 12079](https://diariodarepublica.pt/dr/detalhe/portaria/12079-1947-638961), de 21 de Fevereiro de 1962, o diferencial de 300$00 por cada metro cúbico a embarcar.
+
+§ único. Sempre que se registe qualquer alteração no valor do frete cobrado pelos navios fruteiros, poderá o Governo-Geral da província de Angola, por simples despacho a publicar no Boletim Oficial, ajustar o valor do diferencial referido no corpo deste número de acordo com as modificações verificadas.
+
+2.º Para facilidade de contrôle, os serviços de alfândega remeterão à Junta de Comércio Externo, sempre que se efectuarem carregamentos de bananas e abacaxis nos navios nacionais com destino à metrópole, um exemplar do manifesto de carga dentro dos quinze dias posteriores à saída dos navios.
+
+3.º Os exportadores que por meio de falsas declarações, ou qualquer outra forma, se eximirem ao pagamento do presente diferencial quando a sua cobrança seja devida, ficarão sujeitos a sanções disciplinares traduzidas em multa correspondente ao valor da importância devida e à suspensão da actividade, como exportadores de banana e abacaxi, pelo período de três meses.
+
+Ministério do Ultramar, 24 de Outubro de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

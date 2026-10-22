@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:474552:por
+title: Decreto n.º 36/80
+short_title: null
+summary: Aprova para ratificação o Acordo Luso-Espanhol sobre Cooperação em Matéria de Segurança das Instalações Nucleares
+  de Fronteira
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: 36/80
+official_date: null
+publication_date: '1980-05-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/1980, Série I de 1980-05-30
+  number: '125'
+  series: I
+  supplement: null
+  pages: 1272 - 1275
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12500/12721275.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '474552'
+  dre_path: /dr/detalhe/decreto/36-1980-474552
+  internal: pt:dre:474552:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1980-474552
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1980-474552
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-05-30T00:00:00Z'
+integrity:
+  source_sha256: 4aed3ba82cf7cf211832032b4d51a9783ffaf398c2df32f50b2f180c29822317
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-36-474552.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 36/80
+
+de 30 de Maio
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+###### Artigo único. É aprovado para ratificação o Acordo Luso-Espanhol sobre Cooperação em Matéria de Segurança das Instalações Nucleares de Fronteira, assinado em Lisboa em 31 de Março de 1980, cujos textos em português e espanhol acompanham o presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 13 de Maio de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
+
+**Assinado em 22 de Maio de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Acordo Luso-Espanhol sobre Cooperação em Matéria de Segurança das Instalações Nucleares de Fronteira
+
+Os Governos de Portugal e Espanha, desejando alargar a cooperação já existente entre ambos os Países em matéria de energia nuclear e outros aspectos de interesse mútuo, como são as questões relativas à segurança nuclear de instalações de fronteira e o intercâmbio de informações sobre segurança nuclear e protecção radiológica daquelas instalações que sejam susceptíveis de exercer influência recíproca nos seus territórios, acordam no seguinte:
+
+###### ARTIGO 1.º
+
+Para os fins do presente Acordo, estabelecem-se as seguintes definições:
+
+a) Instalações nucleares são:
+
+Os reactores, com excepção dos que fazem parte de um meio de transporte; as fábricas de preparação ou fabrico de materiais nucleares; as fábricas de separação de isótopos de combustíveis nucleares; as fábricas de tratamento de combustíveis nucleares irradiados; as instalações para armazenamento de materiais nucleares, com excepção da armazenagem desses materiais no decurso de transporte, a menos que tais instalações sejam chamadas a exercer uma influência desprezável do ponto de vista da segurança nuclear e protecção radiológica no País Vizinho ou pelo menos assim o considere o País Construtor.
+
+b) Instalações nucleares de fronteira são:
+
+As instalações nucleares cuja localização esteja situada a uma distância inferior a 30 km da linha da fronteira entre ambos os Países, ou qualquer outra distância que internacionalmente se defina e aceite por ambas as Partes.
+
+c) Autoridades Competentes são:
+
+As que em cada um dos Países estão especificamente investidas da autoridade para conceder as licenças de localização, construção e exploração das instalações nucleares.
+
+###### ARTIGO 2.º
+
+As Autoridades Competentes do País Construtor notificarão as do País Vizinho dos pedidos de licenças de localização, construção e exploração das instalações nucleares de fronteira que lhes sejam apresentadas, sem que tal notificação afecte a relação existente entre o requerente da licença e as Autoridades Competentes do País Construtor.
+
+###### ARTIGO 3.º
+
+As Autoridades Competentes do País Construtor farão as notificações, acompanhadas da documentação relativa à segurança nuclear e protecção radiológica da instalação cuja licença se requer, com antecedência suficiente para permitir que os eventuais comentários e observações do País Vizinho possam ser tidos em conta pelas Autoridades Competentes do País Construtor antes de tomar a decisão correspondente. As Autoridades Competentes do País Vizinho devem, pelo seu lado, examinar sem demoras a documentação que receberem.
+
+###### ARTIGO 4.º
+
+As Autoridades Competentes do País Vizinho deverão fornecer em tempo útil as informações necessárias à avaliação da localização, construção ou exploração da instalação que lhes sejam solicitadas pelo País Construtor, tanto durante o processo de licenciamento como durante o funcionamento da mesma. As despesas ocasionadas ao País Vizinho pelo fornecimento destas informações serão reembolsadas pelo País Construtor com base nos mesmos critérios que sejam de aplicação no seu território.
+
+###### ARTIGO 5.º
+
+As Autoridades Competentes de ambos os Países comprometem-se a estabelecer nos seus territórios os sistemas necessários à detecção de condições de alarme radioactivo e a informarem-se mutuamente no caso de o mesmo poder ter repercussões no outro País.
+
+###### ARTIGO 6.º
+
+Se as Autoridades Competentes de um dos Países tiverem razões válidas para reclamar no que respeita a questões de segurança nuclear e protecção radiológica, deverão iniciar-se imediatamente negociações entre as ditas Autoridades Competentes do País Vizinho.
+
+As Autoridades Competentes de ambos os Países esforçar-se-ão por concluir as referidas negociações com a brevidade possível.
+
+###### ARTIGO 7.º
+
+As Autoridades Competentes de ambos os Países comprometem-se a respeitar as restrições estabelecidas por qualquer das Partes no que refere ao sigilo das informações e dos documentos fornecidos relativos a dispositivos, processos técnicos, condições de exploração e relações comerciais.
+
+###### ARTIGO 8.º
+
+Os Governos de ambos os Países adoptarão as medidas necessárias para estabelecer fórmulas de excepção na travessia de fronteira, em caso de emergência, por agentes devidamente acreditados.
+
+###### ARTIGO 9.º
+
+Independentemente dos compromissos anteriores, as Autoridades Competentes do País Construtor manterão informadas as Autoridades Competentes do País Vizinho sobre as incidências significativas das demais instalações nucleares que possam afectar o seu território.
+
+###### ARTIGO 10.º
+
+A responsabilidade civil por danos nucleares reger-se-á pelas disposições das convenções sobre responsabilidade civil no domínio da energia nuclear em vigor ratificadas por ambos os Países.
+
+###### ARTIGO 11.º
+
+Para zelar pelo cumprimento do presente Acordo é criada uma Comissão Técnica Permanente, constituída paritariamente por especialistas designados pelas Autoridades Competentes dos dois Países, não podendo o seu número exceder oito.
+
+A Comissão Técnica Permanente reunir-se-á alternadamente em Lisboa e Madrid, pelo menos uma vez por ano e, extraordinariamente, sempre que se justifique, por iniciativa de um dos Países, no local que se decida de comum acordo.
+
+###### ARTIGO 12.º
+
+O presente Acordo entrará em vigor na data da troca dos instrumentos de ratificação.
+
+###### ARTIGO 13.º
+
+O presente Acordo será válido por um período de dez anos, que se entenderão tacitamente prorrogados por períodos de cinco anos, a não ser que um dos Países comunique ao outro a sua intenção de dá-lo por terminado com um pré-aviso de um ano.
+
+###### ARTIGO 14.º
+
+O presente Acordo poderá ser denunciado por qualquer dos Países, mas a denúncia não produzirá efeitos até um ano após a sua apresentação.
+
+Em fé do que os representantes do Governo Português e do Governo Espanhol, devidamente autorizados, assinaram o presente Acordo.
+
+Feito em Lisboa, no dia 31 de Março de 1980, em dois exemplares, um em português e outro em espanhol, ambos os textos fazendo igualmente fé.
+
+Pelo Governo de Portugal:
+
+Diogo Pinto de Freitas do Amaral.
+
+Pelo Governo de Espanha:
+
+(Assinatura ilegível.)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12500/12721275.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12500/12721275.pdf)

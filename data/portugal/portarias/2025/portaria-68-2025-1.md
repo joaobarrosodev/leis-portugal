@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:909307242:por
+title: Portaria n.º 68/2025/1
+short_title: null
+summary: Portaria de extensão do contrato coletivo e suas alterações entre a Confederação Nacional das Instituições de Solidariedade
+  ― CNIS e a FNE ― Federação Nacional da Educação e outros.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 68/2025/1
+official_date: null
+publication_date: '2025-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2025, Série I de 2025-02-28
+  number: '42'
+  series: I
+  supplement: null
+  pages: 22 - 24
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/02/04200/0002200024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/68/2025/02/28/p/dre/pt/html
+  oj: null
+  dre: '909307242'
+  dre_path: /dr/detalhe/portaria/68-2025-909307242
+  internal: pt:dre:909307242:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/68-2025-909307242
+  metadata_url: https://data.dre.pt/eli/port/68/2025/02/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/68-2025-909307242
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-02-28T00:00:00Z'
+integrity:
+  source_sha256: e5c51ff3bb51071162588cc88cd5620dfb3aad0be5559ba086e88f96d6452463
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-68-909307242.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato Coletivo de Trabalho
+- Educação
+- Regime Laboral
+- Convenção Coletiva de Trabalho
+- Entidade Patronal
+- IPSS
+- Regulamento de Extensão
+- Relações de Trabalho
+- Remuneração
+- Sindicato
+- Tabela Salarial
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172-a/2014/11/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172-a/2014/11/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/82/2017/06/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/90/2012/10/31/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 68/2025/1
+
+de 28 de fevereiro
+
+Portaria de extensão do contrato coletivo e suas alterações entre a Confederação Nacional das Instituições de Solidariedade - CNIS e a FNE - Federação Nacional da Educação e outros
+
+O contrato coletivo entre a Confederação Nacional das Instituições de Solidariedade - CNIS e a FNE - Federação Nacional da Educação e outros, publicado no Boletim do Trabalho e Emprego (BTE), n.º 47, de 22 de setembro de 2022, e suas alterações publicadas no BTE, n.º 20, de 29 de maio de 2023, e n.º 14, de 15 de abril de 2024, abrangem, no território nacional, as relações de trabalho entre instituições particulares de solidariedade social representadas pela confederação outorgante, e trabalhadores ao seu serviço, representados pelas associações sindicais outorgantes.
+
+A FNE - Federação Nacional da Educação requereu a extensão do contrato coletivo e suas alterações na área da sua aplicação às instituições particulares de solidariedade social não filiadas na confederação outorgante e trabalhadores ao seu serviço das profissões e categorias profissionais nela previstas, não representados pelas associações sindicais outorgantes, com exclusão das instituições particulares de solidariedade social filiadas na União das Misericórdias Portuguesas - UMP e na União das Mutualidades Portuguesas.
+
+De acordo com o n.º 1 do artigo 514.º do Código do Trabalho, a convenção coletiva pode ser aplicada, no todo ou em parte, por portaria de extensão a empregadores e a trabalhadores integrados no âmbito do setor de atividade e profissional definido naquele instrumento. O n.º 2 do referido normativo legal determina ainda que a extensão é possível mediante a ponderação de circunstâncias sociais e económicas que a justifiquem, nomeadamente a identidade ou semelhança económica e social das situações no âmbito da extensão e no instrumento a que se refere.
+
+Existindo identidade económica e social entre as situações que se pretende abranger com a extensão e as previstas na convenção em apreço, foi promovida a realização do estudo de avaliação dos indicadores previstos nas alíneas a) a e) do n.º 1 da [Resolução do Conselho de Ministros (RCM) n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho, através dos elementos disponíveis no apuramento do Relatório Único/Quadros de Pessoal de 2022. De acordo com o estudo estavam abrangidos pelo instrumento de regulamentação coletiva de trabalho, direta e indiretamente, 18 956 trabalhadores por conta de outrem a tempo completo (TCO), excluindo os praticantes e aprendizes e o residual, dos quais 7,5 % homens e 92,5 % mulheres. Segundo os dados da amostra, o estudo indica que para 6467 TCO (34,1 % do total) as remunerações devidas são superiores às remunerações convencionais, enquanto para 12 489 TCO (65,9 % do total) as remunerações devidas são inferiores às convencionais, dos quais 7,0 % são homens e 93,0 % são mulheres. Quanto ao impacto salarial da extensão, a atualização das remunerações representa um acréscimo de 2,1 % na massa salarial do total dos trabalhadores e de 3,5 % para os trabalhadores cujas remunerações devidas serão alteradas. Na perspetiva da promoção de melhores níveis de coesão e igualdade social o estudo indica que há redução no leque salarial e diminuição dos rácios de desigualdade calculados.
+
+Neste contexto, ponderadas as circunstâncias sociais e económicas justificativas da extensão de acordo com o disposto no n.º 2 do artigo 514.º do Código do Trabalho, promove-se o alargamento do âmbito de aplicação do contrato coletivo e suas alterações em vigor às relações de trabalho entre instituições particulares de solidariedade social não abrangidas por regulamentação coletiva negocial porquanto tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência no setor social.
+
+Considerando que a convenção tem por âmbito geográfico de aplicação todo o território nacional e que a extensão de convenção coletiva nas Regiões Autónomas compete aos respetivos Governos Regionais, a presente portaria apenas é aplicável no território de Portugal continental.
+
+Considerando ainda que a convenção coletiva regula diversas condições de trabalho, procede-se à ressalva do âmbito de aplicação da extensão de cláusulas contrárias a normas legais imperativas.
+
+Nos termos da alínea c) do n.º 1 do artigo 478.º do Código do Trabalho e dos n.<sup>os</sup>2 e 4 da referida RCM, na fixação da eficácia das cláusulas de natureza pecuniária foi tido em conta a data do pedido de emissão de portaria de extensão, que é posterior à data do depósito da última alteração da convenção, e o termo do prazo para a emissão da portaria de extensão, com produção de efeitos a partir do primeiro dia do mês em causa.
+
+Foi publicado o aviso relativo ao projeto da presente extensão no Boletim do Trabalho e Emprego (BTE), separata, n.º 28, de 30 de dezembro de 2024, ao qual deduziu oposição a APM-RedeMut - Associação Portuguesa de Mutualidades e a Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - FNSTFPS.
+
+Em síntese, a APM-RedeMut - Associação Portuguesa de Mutualidades alega que: i) tem contrato coletivo próprio, publicado no BTE, n.º 15, de 22 de abril de 2024, gozando por isso de capacidade negocial, resultante do artigo 93.º-A do Estatuto das Instituições Particulares de Solidariedade Social (IPSS) (aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de fevereiro, na redação introduzida pelo [Decreto-Lei n.º 172-A/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-2014-58900566), de 14 de novembro); ii) representa 80 % do setor mutualista e emprega mais de dois terços dos trabalhadores do setor; iii) não existem quaisquer circunstâncias sociais e económicas que justifiquem a emissão da portaria de extensão do contrato coletivo em apreço às suas associadas, nem foram aferidos os indicadores previstos na [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho.
+
+Analisada a argumentação expendida pela oponente, clarifica-se que a presente extensão visa a atualização de condições mínimas de trabalho que anteriormente foram objeto de portaria de extensão a todas as associações mutualistas não abrangidas por regulamentação coletiva negocial, nos termos do artigo 515.º do Código do Trabalho. Neste sentido, com a entrada em vigor do contrato coletivo entre a APM-RedeMut - Associação Portuguesa de Mutualidades e o Sindicato Nacional dos Profissionais da Educação - SINAPE e outro, publicado no BTE, n.º 15, de 22 de abril de 2024, as portarias de extensão anteriormente emitidas deixem ser aplicáveis às relações de trabalho entre as associadas filiadas na associação outorgante e trabalhadores ao seu serviço, das profissões e categorias profissionais nele previstas, filiados nas associações sindicais outorgantes; O argumento no sentido de que a presente portaria de extensão não pode ser emitida porque a associação outorgante do contrato coletivo a estender não é representativa do setor mutualista, não tem cabimento no regime jurídico aplicável. Efetivamente, sem prejuízo do disposto nos artigos 514.º e 515.º do Código do Trabalho, com a revogação da [RCM n.º 90/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/90-2012-191563) e entrada em vigor da [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho, o requisito naquela previsto relativo à representatividade da associação de empregadores outorgante no setor deixou de ser critério para a ponderação da emissão de portaria de extensão; A alegação no sentido de que não existem circunstâncias sociais e económicas que justifiquem a emissão da presente portaria de extensão às associadas da APM-RedeMut e que não foram aferidos os indicadores previstos na [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), de 9 de junho, não colhe. Contrariamente ao alegado pela oponente, a ponderação das circunstâncias sociais e económicas que justificam a extensão encontra-se suficientemente demonstrada no projeto e na presente extensão, onde resulta evidente a identidade e semelhança económica e social das situações abrangidas pela extensão e as previstas no instrumento a que se refere. Ademais, consta expressamente a referência à análise dos indicadores previstos nas alíneas a) a e) do n.º 1 da referida [RCM n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701) e que os mesmos evidenciam que a presente extensão tem impacto no plano social, promovendo a uniformização das condições mínimas de trabalho dos trabalhadores, e no plano económico aproximando as condições de concorrência entre os empregadores do setor mutualista. Nesta confluência, importa ter em conta que uma das incumbências do Estado, numa economia de mercado, é assegurar que os empregadores do setor atuem em condições de concorrência sã e leal, de forma a evitar práticas anticoncorrenciais que possam afetar o próprio funcionamento do setor, preocupações que justificam, do ponto de vista económico, a emissão da portaria de extensão de contratos coletivos aos empregadores do mesmo setor de atividade, não filiadas na associação outorgante e trabalhadores ao seu serviço, cujas relações de trabalho não sejam abrangidas por regulamentação coletiva negocial. Por outro lado, do ponto de vista social, a extensão de contrato coletivo justifica-se não só como garante da aplicação de idênticas condições de trabalho a todos os trabalhadores do mesmo, mas também de paz social, sendo por isso um instrumento determinante para a inexistência de políticas salariais desiguais e injustificadas. No entanto, considerando que a oponente pretende a exclusão dos seus associados da presente extensão; considerando ainda que a portaria pretende abranger as relações de trabalho onde não se verifique o princípio da dupla filiação e que assiste à associação oponente a defesa dos direitos e interesses dos empregadores nela filiados, por força da celebração do contrato coletivo publicado no BTE, n.º 15, de 22 de abril de 2024, ao abrigo do artigo 93.º-A do Estatuto das IPSS - que lhe concede em matéria de regulamentação coletiva capacidade análoga à das associações de empregadores constituídas ao abrigo do Código do Trabalho - procede-se à exclusão do âmbito de aplicação da presente extensão dos empregadores mutualistas nela filiados.
+
+A Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - FNSTFPS, alega, em síntese, a existência de contrato coletivo próprio celebrado com a CNIS, termos em que pretende que os trabalhadores filiados em sindicatos por si representadas sejam excluídos do âmbito de aplicação da extensão.
+
+Considerando que assiste à federação sindical oponente a defesa dos direitos e interesses dos referidos trabalhadores, procede-se à exclusão dos mesmos do âmbito de aplicação da presente extensão.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado do Trabalho, no uso da competência delegada pelo [Despacho n.º 5948/2024](https://diariodarepublica.pt/dr/detalhe/despacho/5948-2024-867194121), de 20 de maio, da Ministra do Trabalho, Solidariedade e Segurança Social, publicado no Diário da República, 2.ª série, n.º 102, de 27 de maio de 2024, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho e da [Resolução do Conselho de Ministros n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2017-107495701), publicada no Diário da República, 1.ª série, n.º 112, de 9 de junho de 2017, o seguinte:
+
+###### Artigo 1.º
+
+1 - As condições de trabalho em vigor constantes do contrato coletivo e suas alterações entre a Confederação Nacional das Instituições de Solidariedade - CNIS e a FNE - Federação Nacional da Educação e outros, publicadas no Boletim do Trabalho e Emprego (BTE), n.º 47, de 22 de setembro de 2022, n.º 20, de 29 de maio de 2023, e n.º 14, de 15 de abril de 2024, são estendidas no território do continente:
+
+a) Às relações de trabalho entre instituições particulares de solidariedade social não filiadas na confederação outorgante que prossigam as atividades reguladas pela convenção e trabalhadores ao seu serviço das profissões e categorias profissionais nela previstas;
+
+b) Às relações de trabalho entre instituições particulares de solidariedade social filiadas na confederação outorgante que prossigam as atividades reguladas pela convenção e trabalhadores ao seu serviço, das referidas profissões e categorias profissionais, não representados pelas associações sindicais outorgantes.
+
+2 - O disposto na alínea a) do número anterior não é aplicável às instituições particulares de solidariedade social filiadas na União das Misericórdias Portuguesas - UMP, na União das Mutualidades Portuguesas e na APM-RedeMut - Associação Portuguesa de Mutualidades.
+
+3 - A presente extensão não é aplicável aos trabalhadores filiados em sindicatos representados pela Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais - FNSTFPS.
+
+4 - Não são objeto de extensão as cláusulas contrárias a normas legais imperativas.
+
+5 - A presente extensão não é aplicável às relações de trabalho que no mesmo âmbito sejam reguladas por instrumento de regulamentação coletiva de trabalho negocial, de acordo com o artigo 515.º do Código do Trabalho.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor no quinto dia após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e as cláusulas de natureza pecuniária em vigor previstas na convenção produzem efeitos a partir de 1 de maio de 2024.
+
+**O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 24 de fevereiro de 2025.**

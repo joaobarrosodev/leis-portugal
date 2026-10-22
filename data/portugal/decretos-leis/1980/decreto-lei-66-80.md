@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: pt:dre:682053:por
+title: Decreto-Lei n.º 66/80
+short_title: null
+summary: Define as normas inerentes à estrutura departamental do ensino superior universitário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 66/80
+official_date: null
+publication_date: '1980-04-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/1980, Série I de 1980-04-09
+  number: '83'
+  series: I
+  supplement: null
+  pages: 696 - 698
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/04/08300/06960698.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '682053'
+  dre_path: /dr/detalhe/decreto-lei/66-1980-682053
+  internal: pt:dre:682053:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-07-08T00:00:00Z'
+integrity:
+  source_sha256: ec68d26662878cfb12d0a3408ce6d3bb60d77b57c06e2e03e272b6c31e9096a2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-66-682053.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:182992:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 66/80
+
+de 9 de Abril
+
+1. A dinâmica intrínseca das instituições universitárias, na prossecução dos seus objectivos de desenvolvimento, conservação, transmissão e difusão do saber, vem reclamando com premência uma redimensionação das estruturas compreendidas nas escolas tendente à criação de unidades susceptíveis de congregar e dinamizar os docentes e investigadores interessados na mesma área científica e de proporcionar uma descentralização que coloque os órgãos de decisão mais próximos das pessoas e dos problemas.
+
+O quadro legal a criar terá de ser, todavia, flexível, por forma a permitir que cada escola se organize em sintonia com as suas exigências específicas. Daí que a criação de uma estrutura departamental deva ser operada através da fixação dos elementos indispensáveis à sua caracterização, deixando-se a cada departamento a tarefa de regulamentar por si a globalidade dos aspectos a considerar.
+
+2. O departamento constitui uma unidade na escola, delimitada em função de áreas consolidadas do saber, onde se reúnem as dimensões humanas e materiais adequadas para o ensino e investigação.
+
+A sua configuração não coincide necessariamente com a dos cursos de licenciatura, na medida em que as matérias científicas que abrange são afins em função do seu objecto e metodologia, sem prejuízo de poder ter um carácter interdisciplinar ou pluridisciplinar.
+
+3. Relativamente à estrutura orgânica departamental, a exigência de uniformidade dos critérios de selecção e programação do trabalho científico, a alta qualidade do corpo docente universitário e a justa avaliação do trabalho e capacidade de todos quantos, no departamento, desenvolvem actividades de ensino e de investigação implicam a existência de um órgão directivo colegial, o conselho de departamento, predominantemente composto por docentes e investigadores doutorados e titulares de lugares definitivos.
+
+A necessidade de garantir uma gestão racional e eficiente justifica a existência de uma comissão executiva, à qual caberá a preparação das reuniões e execução das deliberações do conselho.
+
+4. Pretendeu-se, através da criação de meios de acção adequados e articulados com os indispensáveis meios humanos e materiais do departamento, garantir uma dinâmica funcional eficaz, consentânea com a participação activa da Universidade no desenvolvimento cultural e sócio-económico da comunidade.
+
+5. Resta assinalar que os departamentos não afectam a unidade da escola, cujos órgãos de gestão garantem a unidade pedagógica dos cursos e definem a política geral da actividade científica do estabelecimento de ensino.
+
+Em função desta perspectiva, definiram-se os objectivos próprios dos departamentos por forma a inserirem-se nos objectivos mais amplos da escola e a apontarem para uma interligação e colaboração com outras unidades orgânicas nela existentes.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Nas Universidades poderão ser criados departamentos anexos às respectivas escolas, de acordo com os princípios orientadores consagrados no presente diploma.
+
+2 - Os departamentos são unidades orgânicas permanentes, dirigidas à realização continuada, num âmbito mais restrito e específico, das tarefas de investigação e de ensino compreendidas nos fins institucionais dos estabelecimentos de ensino superior.
+
+3 - Os departamentos gozam de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade e ou da escola.
+
+###### Art. 2.º - 1 - A iniciativa para a criação de departamentos pertence ao corpo de professores e investigadores doutorados das escolas, laboratórios, institutos, secções e grupos que o pretendam e desde que se verifiquem as condições exigidas pelo presente diploma.
+
+2 - A proposta de criação, devidamente fundamentada e acompanhada do projecto de regulamento do departamento a constituir, será apreciada pelos conselhos científico e directivo da escola respectiva e pelo reitor da Universidade, que a enviará ao Ministro da Educação e Ciência para aprovação.
+
+3 - O regulamento referido no número anterior será publicado por portaria.
+
+###### Art. 3.º - 1 - Cada departamento deverá corresponder a uma área fundamental e consolidada do saber, delimitada em função de um objecto próprio e de metodologia e técnicas de investigação específicas, correspondente ou não a disciplinas professadas na escola, à qual se dedique um mínimo de quinze docentes e ou investigadores, entre os quais se contem, pelo menos, cinco doutorados em tempo integral.
+
+2 - Os departamentos poderão subdividir-se em secções, sempre que a sua dimensão ou a pluralidade de matérias científicas compreendidas na sua área o justifique, devendo tal subdivisão constar do regulamento previsto no n.º 2 do artigo 2.º e no n.º 2 do artigo 8.º
+
+3 - As unidades existentes na escola, laboratórios, institutos, secções ou grupos que, pela sua dimensão ou por decisão dos elementos nelas integrados, não se constituam em departamentos mantêm-se na dependência dos órgãos de gestão do respectivo estabelecimento de ensino.
+
+###### Art. 4.º Sem prejuízo da unidade da escola e da cooperação dos seus membros, o departamento deve estimular e promover a liberdade fundamental de criação e de investigação científica dos docentes e investigadores nele agrupados.
+
+###### Art. 5.º Com vista ao progresso da investigação, à qualidade do ensino e à prestação de serviços especializados à comunidade, incumbe especialmente ao departamento:
+
+a) Fomentar e desenvolver a investigação;
+
+b) Promover a formação de docentes e investigadores, nomeadamente através da organização de cursos de pós-graduação, de actualização e estágios;
+
+c) Garantir o ensino das disciplinas compreendidas na sua área científica e professadas na escola;
+
+d) Propor à Universidade a celebração de convénios e contratos de prestação de serviços entre o departamento e outras entidades públicas ou privadas;
+
+e) Contribuir para o funcionamento eficaz da escola, nomeadamente pela colaboração com outros departamentos ou unidades nela existentes.
+
+###### Art. 6.º O departamento terá os seguintes órgãos:
+
+a) O conselho de departamento;
+
+b) A comissão executiva.
+
+###### Art. 7.º - 1 - O conselho de departamento será constituído por membros permanentes e por membros não permanentes.
+
+2 - São membros permanentes todos os professores catedráticos, associados e auxiliares e investigadores doutorados incluídos na área científica abrangida pelo departamento.
+
+3 - São membros não permanentes os representantes eleitos pelos docentes e investigadores, não doutorados, da área departamental, por períodos bienais, não podendo o seu número exceder um terço do número de membros permanentes.
+
+4 - O conselho de departamento é presidido por um professor catedrático ou associado do departamento, eleito por dois anos pelos membros do conselho, sendo empossado pelo presidente do conselho directivo da escola.
+
+5 - Nas suas ausências ou impedimentos, o presidente do conselho de departamento será substituído pelo professor mais antigo da categoria mais elevada do departamento.
+
+6 - O conselho de departamento reúne por iniciativa do seu presidente ou de metade dos seus membros, mediante convocatória assinada por aquele ou seu substituto e após prévia fixação da ordem de trabalhos.
+
+7 - As deliberações do conselho de departamento só produzirão efeitos quando tomadas pela maioria dos membros em efectividade de funções.
+
+###### Art. 8.º - 1 - Ao conselho de departamento compete:
+
+a) Elaborar propostas de alteração ao regulamento do departamento;
+
+b) Eleger e propor a demissão do presidente do conselho de departamento;
+
+c) Eleger os representantes do departamento aos órgãos de gestão da escola e da Universidade;
+
+d) Elaborar propostas de nomeação e contratação de pessoal docente e não docente e de aquisição de bens e serviços;
+
+e) Deliberar sobre a inclusão de docentes e investigadores na área científica abrangida pelo departamento;
+
+f) Coordenar todos os meios ao dispor do departamento, em ordem a assegurar a execução dos seus objectivos;
+
+g) Submeter à aprovação das entidades competentes o programa, orçamento e contas anuais e plurianuais;
+
+h) Deliberar sobre outras matérias que, nos termos deste diploma, se mostrem relevantes para o departamento.
+
+2 - As propostas de alteração referidas na alínea a) do número anterior estarão sujeitas aos trâmites fixados no artigo 2.º do presente diploma.
+
+###### Art. 9.º A comissão executiva será constituída pelo presidente do conselho de departamento, que a ela presidirá, e por dois outros membros, por este designados.
+
+###### Art. 10.º À comissão executiva compete:
+
+a) Preparar as reuniões do conselho de departamento e executar as suas deliberações;
+
+b) Assegurar a gestão dos meios humanos e materiais postos à disposição do departamento, nomeadamente das dotações orçamentais que lhe forem atribuídas;
+
+c) Preparar convénios, acordos e contratos de prestação de serviços;
+
+d) Zelar pela conservação e manutenção das instalações e outros bens afectados ao departamento.
+
+###### Art. 11.º - 1 - As deliberações do conselho de departamento só poderão ser alteradas, ouvido este, pelos órgãos centrais da escola, quando as julguem incompatíveis com os interesses gerais prosseguidos pela escola ou possam prejudicar o seu funcionamento.
+
+2 - Das alterações às deliberações do conselho de departamento cabe recurso para o reitor.
+
+###### Art. 12.º - 1 - As atribuições das comissões de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, ficam cometidas às comissões a constituir pelos professores do conselho de departamento.
+
+2 - Os professores que prestem serviço em mais de um departamento ou num grupo e num departamento só poderão integrar-se numa comissão de grupo ou de departamento.
+
+###### Art. 13.º - 1 - Para prover aos fins prosseguidos pelos departamentos ser-lhes-ão atribuídos os serviços e instalações mais convenientes da Universidade e ou da escola.
+
+2 - Os serviços de expediente e de contabilidade dos departamentos correrão pelos serviços próprios da respectiva escola, que dará todo o apoio necessário.
+
+###### Art. 14.º - 1 - O pessoal indispensável a cada departamento será destacado da respectiva escola, por onde continuará a perceber os vencimentos e outros abonos a que tenha direito.
+
+2 - Para efeitos do número anterior, as escolas procederão à reorganização dos quadros.
+
+###### Art. 15.º - 1 - Os departamentos poderão celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de trabalhos técnicos ou científicos e outros serviços de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+
+2 - Os contratos ou termos de tarefa não conferirão, em caso algum, a qualidade de agente administrativo.
+
+###### Art. 16.º Os departamentos poderão subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas, nacionais ou estrangeiras, relacionadas com as suas actividades e de reconhecido interesse para a prossecução dos seus fins e atribuições.
+
+###### Art. 17.º - 1 - O orçamento de cada departamento constituirá uma subdivisão orgânica do orçamento da respectiva Universidade no Orçamento Geral do Estado.
+
+2 - Enquanto não for possível estabelecer no Orçamento Geral do Estado dotação própria, serão satisfeitos pelas disponibilidades da respectiva escola e ou Universidade os encargos resultantes da criação e funcionamento dos departamentos.
+
+###### Art. 18.º - 1 - Com o fim de estimular as suas actividades, os departamentos poderão arrecadar receitas provenientes da prestação de serviços, bem como de subsídios concedidos por quaisquer entidades.
+
+2 - As receitas referidas no número anterior serão entregues nos cofres do Estado e escrituradas em «Contas de ordem» no OGE, podendo ser aplicadas no próprio ano ou em anos futuros através de orçamentos privativos.
+
+###### Art. 19.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo 18.º, e só neste caso, os departamentos ficarão sujeitos à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
+
+2 - Nos termos do número anterior, o conselho de departamento gozará da competência atribuída aos responsáveis dos serviços com autonomia administrativa e financeira.
+
+###### Art. 20.º As dúvidas que ocorrerem na aplicação do presente diploma serão resolvidas por despacho dos Ministros da Educação e Ciência e das Finanças e do Plano, de acordo com as respectivas competências.
+
+###### Art. 21.º O presente diploma não é aplicável aos estabelecimentos de ensino superior em regime de instalação.
+
+###### Art. 22.º O presente diploma entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - Vítor Pereira Crespo.
+
+**Promulgado em 27 de Março de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

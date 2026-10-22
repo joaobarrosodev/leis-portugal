@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534202:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-920636801",
+ "dre_path": "/dr/detalhe/aviso/192-2005-534202",
+ "source_lastmod": "2025-06-04",
+ "versions": [
+  {
+   "date": "2005-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920636887"
+   ]
+  }
+ ],
+ "fragments": {
+  "920636887": {
+   "fragment_id": "920636802",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 192/2005\n\nPor ordem superior se torna público que o Malawi depositou, em 27 de Setembro de 2004, o seu instrumento de ratificação dos seguintes Actos Finais do XXII Congresso da União Postal Universal (UPU), realizado de 23 de Agosto a 15 de Setembro de 1999:\n\nQuarto Protocolo Adicional à Constituição da União Postal Universal;\n\nSexto Protocolo Adicional à Constituição da União Postal Universal;\n\nRegulamento Geral da União Postal Universal;\n\nConvenção Postal Universal e o seu Protocolo Final;\n\ne assinados em Beijing em 15 de Setembro de 1999, o Malawi depositou também o seu instrumento de adesão ao Acordo Referente aos Serviços de Pagamento do Correio.\n\nPortugal é Parte dos mesmos Actos, aprovados, para ratificação, pela Resolução da Assembleia da República n.º 36-A/95, tendo sido ratificados pelo Decreto do Presidente da República n.º 64-A/95, publicado no Diário da República, 1.ª série, n.º 118, suplemento, de 16 de Agosto de 1995.\n\nOs Actos Finais do XXII Congresso da União Postal Universal (UPU) e o Acordo Referente aos Serviços de Pagamento do Correio entraram em vigor para o Malawi em 1 de Janeiro de 2001."
+  }
+ }
+}

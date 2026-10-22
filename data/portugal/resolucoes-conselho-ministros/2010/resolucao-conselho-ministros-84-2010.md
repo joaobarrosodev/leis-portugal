@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:309071:por
+title: Resolução do Conselho de Ministros n.º 84/2010
+short_title: null
+summary: Procede à criação de um registo central de auxílios de minimis no sector das pescas, ao abrigo do disposto no n.º
+  3 do artigo 4.º do Regulamento (CE) n.º 875/2007, da Comissão, de 24 de Julho
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 84/2010
+official_date: null
+publication_date: '2010-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/2010, Série I de 2010-11-04
+  number: '214'
+  series: I
+  supplement: null
+  pages: 4967 - 4968
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/11/21400/0496704968.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/84/2010/11/04/p/dre/pt/html
+  oj: null
+  dre: '309071'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/84-2010-309071
+  internal: pt:dre:309071:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2010-309071
+  metadata_url: https://data.dre.pt/eli/resolconsmin/84/2010/11/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2010-309071
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-11-04T00:00:00Z'
+integrity:
+  source_sha256: 329e345af3e572d303cdb8618b6c1002f681076f7c279c268b9fdcebb3953858
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-84-309071.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Definição de Competências
+- Difusão da Informação
+- Auxílio de Minimis
+- Pesca
+- IFAP
+relationships:
+- type: cites
+  target: celex:31998R0994
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/994/oj
+- type: cites
+  target: celex:32004R1860
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/1860/oj
+- type: cites
+  target: celex:32007R0875
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/875/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 84/2010
+
+A necessidade de criação de um registo central de auxílios de minimis no sector das pescas resulta do disposto no n.º 3 do artigo 4.º do Regulamento (CE) n.º [875/2007](https://data.europa.eu/eli/reg/2007/875/oj?locale=pt), da Comissão, de 24 de Julho, de forma que o Estado Português disponha de informações completas sobre todos os auxílios deste tipo, concedidos por qualquer entidade nacional, com vista a que seja garantido um controlo eficaz e seguro dos apoios atribuídos naquele sector, obstando a que os limiares comunitários fixados possam ser ultrapassados.
+
+Com efeito, o n.º 3 do artigo 88.º do Tratado que institui a Comunidade Europeia estipula a obrigatoriedade de notificação dos auxílios estatais à Comissão Europeia a fim de estabelecer a sua compatibilidade com o mercado comum, segundo os critérios definidos no n.º 1 do artigo 87.º do referido Tratado.
+
+Porém, o Regulamento (CE) n.º [994/98](https://data.europa.eu/eli/reg/1998/994/oj?locale=pt), do Conselho, de 7 de Maio, conferiu à Comissão Europeia poderes para fixar, através de regulamento, um limiar abaixo do qual se considera que certas medidas de auxílios podem estar isentas da referida obrigação de notificação.
+
+Neste contexto, o Regulamento (CE) n.º [1860/2004](https://data.europa.eu/eli/reg/2004/1860/oj?locale=pt), da Comissão, de 6 de Outubro, veio, pela primeira vez, permitir a concessão de auxílios de minimis ao sector agrícola e ao sector das pescas, tendo estabelecido um limiar máximo por beneficiário, bem como um montante cumulado por Estado membro.
+
+Este Regulamento foi posteriormente alterado pelo Regulamento (CE) n.º [875/2007](https://data.europa.eu/eli/reg/2007/875/oj?locale=pt), da Comissão, de 24 de Julho, que excluiu o sector das pescas do âmbito de aplicação do Regulamento atrás referido e criou regras específicas para este sector, nomeadamente o aumento do montante total de auxílio a conceder por beneficiário.
+
+Estabelece o artigo 4.º deste Regulamento comunitário que os Estados membros só podem conceder novos auxílios de minimis depois de terem verificado que tal concessão não implica que o montante total dos auxílios de minimis recebido por cada empresa nesse Estado membro, durante o exercício financeiro em causa, bem como nos dois exercícios financeiros anteriores, exceda os limiares de minimis estabelecidos.
+
+Como tal, os auxílios concedidos estão sujeitos a controlo, o que pode ser efectuado através da criação de um registo central ou da obtenção junto do beneficiário de informações completas sobre todos os auxílios de minimis recebidos durante um período de três anos.
+
+A Resolução do Conselho de Ministros n.º 53/2009, de 9 de Junho, determinou a criação de um registo central de auxílios de minimis no sector da produção primária de produtos agrícolas e atribuiu ao Instituto de Financiamento da Agricultura e Pescas, I P. (IFAP, I. P.), a responsabilidade pelo controlo de acumulação dos apoios financeiros concedidos naquele sector.
+
+A experiência adquirida por este Instituto ao nível do controlo da acumulação dos apoios de minimis concedidos ao sector da produção primária de produtos agrícolas recomenda que lhe seja atribuída a missão de desempenhar igual tarefa, agora no que respeita aos apoios concedidos no sector da pesca.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Proceder à criação de um registo central de auxílios de minimis no sector das pescas que contenha informações completas sobre todos os auxílios deste tipo, concedidos por qualquer entidade nacional, ao abrigo do disposto no n.º 3 do artigo 4.º do Regulamento (CE) n.º [875/2007](https://data.europa.eu/eli/reg/2007/875/oj?locale=pt), da Comissão, de 24 de Julho.
+
+2 - Atribuir ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), a responsabilidade pelo controlo de acumulação dos apoios financeiros concedidos ao abrigo da regra de minimis, nos termos do citado Regulamento (CE) n.º [875/2007](https://data.europa.eu/eli/reg/2007/875/oj?locale=pt), da Comissão, de 24 de Julho.
+
+3 - Incumbir o IFAP, I. P., de estabelecer os elementos e os procedimentos necessários ao cumprimento das funções de controlo da atribuição dos auxílios de minimis no sector das pescas, que consistem, designadamente:
+
+a) Na definição da informação objecto de recolha;
+
+b) No estabelecimento dos procedimentos de comunicação das ajudas;
+
+c) Na elaboração e na divulgação dos relatórios de actividade de controlo dos auxílios de minimis.
+
+4 - Incumbir o IFAP, I. P., para implementar os procedimentos referidos no número anterior junto de todas as entidades responsáveis pela atribuição dos auxílios em causa e cuja colaboração se afigura indispensável para um funcionamento efectivo e eficaz deste registo.
+
+Presidência do Conselho de Ministros, 21 de Outubro de 2010. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

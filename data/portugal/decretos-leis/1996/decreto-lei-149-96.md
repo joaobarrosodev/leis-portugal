@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:243916:por
+title: Decreto-Lei n.º 149/96
+short_title: null
+summary: Aprova a orgânica do Conselho Nacional de Cultura
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 149/96
+official_date: null
+publication_date: '1996-08-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/1996, Série I-A de 1996-08-29
+  number: '200'
+  series: I
+  supplement: null
+  pages: 2806 - 2807
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/200a00/28062807.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/149/1996/08/29/p/dre/pt/html
+  oj: null
+  dre: '243916'
+  dre_path: /dr/detalhe/decreto-lei/149-1996-243916
+  internal: pt:dre:243916:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1996-243916
+  metadata_url: https://data.dre.pt/eli/dec-lei/149/1996/08/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1996-243916
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-03-29T00:00:00Z'
+integrity:
+  source_sha256: 14df493bcbf6739ffd13f2904ce35ff7f0a749d3edfa24b065bd766029b1cabc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-149-243916.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Ministério da Cultura
+- Conselho Nacional de Cultura
+- Orgânica
+- Política Cultural
+relationships:
+- type: amended_by
+  target: pt:dre:520449:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 149/96
+
+de 29 de Agosto
+
+Sendo inquestionável a importância e a necessidade de se proceder com regularidade à avaliação da política cultural do Estado Português, ela deve ser feita de um modo abrangente, assegurando a diversos agentes da cultura na sociedade portuguesa uma representação institucional.
+
+Tal avaliação, que deve poder constituir um elemento de referência para o membro do Governo que tutela a execução da política cultural, passa pela existência de um órgão de consulta do Ministério para todas as grandes questões em que haja interesse na obtenção de parecer, conforme se encontra, aliás, reconhecido na nova Lei Orgânica do Ministério da Cultura.
+
+Pelo presente diploma procede-se à constituição daquele órgão de consulta, denominado Conselho Nacional de Cultura, no seguimento do já estatuído no [Decreto-Lei n.º 42/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1996-469652), de 7 de Maio, que aprova a Lei Orgânica do Ministério da Cultura.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Conselho Nacional de Cultura
+
+É criado no Ministério da Cultura o Conselho Nacional de Cultura, adiante designado por Conselho, como órgão de consulta do Ministro da Cultura.
+
+###### Artigo 2.º — Competências
+
+Compete ao Conselho, por solicitação do Ministro da Cultura, emitir pareceres e recomendações sobre questões relativas à realização dos objectivos de política cultural e propor medidas que julgue necessárias ao seu desenvolvimento.
+
+###### Artigo 3.º — Composição
+
+O Conselho Nacional de Cultura é um órgão colegial, presidido pelo Ministro da Cultura, com a seguinte composição:
+
+a) Um representante do Centro Português de Fundações;
+
+b) Um representante da Associação Nacional de Municípios Portugueses (ANMP);
+
+c) Um representante das associações de consumidores;
+
+d) Oito individualidades de reconhecido mérito, a designar pelo presidente, representativas das várias áreas da cultura;
+
+e) Um secretário, sem direito a voto.
+
+2 - Os membros do Conselho referidos no número anterior designam, de entre si, aquele que exerce funções de coordenador.
+
+###### Artigo 4.º — Regime de funcionamento e reuniões
+
+1 - O Conselho funciona em plenário e reúne em sessões ordinárias e extraordinárias.
+
+2 - As sessões ordinárias realizam-se trimestralmente, em dia, hora e local a fixar pelo presidente.
+
+3 - As sessões extraordinárias realizam-se por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos membros do Conselho.
+
+###### Artigo 5.º — Quórum e deliberações
+
+1 - As sessões plenárias funcionam desde que esteja presente a maioria dos seus membros, entre os quais o presidente ou o vice-presidente.
+
+2 - As deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.
+
+###### Artigo 6.º — Regimento
+
+O Conselho elabora e aprova o seu próprio regimento.
+
+###### Artigo 7.º — Direito de informação
+
+O Conselho pode requerer a quaisquer entidades públicas ou privadas os elementos que julgue indispensáveis para a realização das suas tarefas.
+
+###### Artigo 8.º — Direitos e garantias de trabalho
+
+1 - Aos membros do Conselho que, em serviço dele, se ausentarem do local da sua residência são abonadas despesas de transporte, bem como ajudas de custo, sendo para este efeito equiparados a funcionários com vencimentos superiores ao valor do índice 405.
+
+2 - Os membros do Conselho são dispensados das suas actividades profissionais, públicas ou privadas, quando se encontrem no exercício efectivo de funções.
+
+3 - As funções dos membros do Conselho podem ser exercidas cumulativamente com outras funções, sem prejuízo das disposições legais sobre incompatibilidades.
+
+###### Artigo 9.º — Entrada em funcionamento
+
+O Conselho deve estar constituído no prazo de 60 dias a contar da data da entrada em vigor do presente diploma e entrar em funcionamento nos 60 dias subsequentes, desde que estejam designados mais de metade dos seus membros.
+
+###### Artigo 10.º — Apoio técnico e logístico e instalações
+
+1 - O apoio técnico e logístico ao funcionamento do Conselho é prestado pelo orçamento do Gabinete do Ministro da Cultura.
+
+2 - Cabe ao Ministério da Cultura dotar o Conselho de instalações próprias, adequadas ao seu bom funcionamento.
+
+3 - O apoio administrativo de que o Conselho carece para o seu funcionamento regular será prestado pela Secretaria-Geral do Ministério da Cultura.
+
+Visto e aprovado em Conselho de Ministros de 18 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Augusto de Carvalho - Maria João Fernandes Rodrigues - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
+
+**Promulgado em 9 de Agosto de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 13 de Agosto de 1996.**
+
+**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**

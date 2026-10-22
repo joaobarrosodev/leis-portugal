@@ -1,0 +1,1039 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:134394010:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-139805387",
+ "dre_path": "/dr/detalhe/decreto-lei/24-2020-134394010",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "172178610",
+    "139870784",
+    "139870785",
+    "139870786",
+    "139870787",
+    "139870788",
+    "139870789",
+    "139870790",
+    "139870791",
+    "139870792",
+    "139870793",
+    "139870794",
+    "139870795",
+    "139870796",
+    "139870797",
+    "139870798",
+    "139870799",
+    "139870800",
+    "139870801",
+    "139870802",
+    "139870803",
+    "139870804",
+    "139870805",
+    "139870806",
+    "139870807",
+    "139870808",
+    "139870809",
+    "139870810",
+    "139870811",
+    "139870812",
+    "139870813",
+    "139870814",
+    "139870815",
+    "139870816",
+    "139870817",
+    "139870818",
+    "139870819",
+    "139870820",
+    "139870821",
+    "139870822",
+    "139870823",
+    "139870824",
+    "139870825",
+    "139870826",
+    "139870827"
+   ]
+  },
+  {
+   "date": "2020-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:139804819:por",
+     "title": "Decreto-Lei n.º 51/2020",
+     "published": "2020-08-07",
+     "dre_path": "/dr/detalhe/decreto-lei/51-2020-139804819"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "139870783",
+    "139870784",
+    "139870785",
+    "139870786",
+    "139870787",
+    "139870788",
+    "139870789",
+    "139870790",
+    "139870791",
+    "139870792",
+    "139870829",
+    "139870794",
+    "139870795",
+    "139870796",
+    "139870797",
+    "139870798",
+    "139870799",
+    "139870800",
+    "139870801",
+    "139870802",
+    "139870803",
+    "139870804",
+    "139870805",
+    "139870806",
+    "139870807",
+    "139870808",
+    "139870809",
+    "139870810",
+    "139870811",
+    "139870812",
+    "139870813",
+    "139870814",
+    "139870830",
+    "139870816",
+    "139870817",
+    "139870818",
+    "139870819",
+    "139870820",
+    "139870821",
+    "139870822",
+    "139870823",
+    "139870824",
+    "139870825",
+    "139870826",
+    "139870827",
+    "139870828"
+   ]
+  },
+  {
+   "date": "2021-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172153527:por",
+     "title": "Decreto-Lei n.º 78-A/2021",
+     "published": "2021-09-29",
+     "dre_path": "/dr/detalhe/decreto-lei/78-a-2021-172153527"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "172178610",
+    "172178611",
+    "172178612",
+    "172178613",
+    "172178614",
+    "172178615",
+    "172178616",
+    "172178617",
+    "172178618",
+    "172178619",
+    "172178620",
+    "172178621",
+    "172178622",
+    "172178623",
+    "172178624",
+    "172178625",
+    "172178626",
+    "172178627",
+    "172178628",
+    "172178629",
+    "172178630",
+    "172178631",
+    "172178632",
+    "172178633",
+    "172178634",
+    "172178635",
+    "172178636",
+    "172178637",
+    "172178638",
+    "172178639",
+    "172178640",
+    "172178641",
+    "172178642",
+    "172178643",
+    "172178644",
+    "172178645",
+    "172178646",
+    "172178647",
+    "172178648",
+    "172178649",
+    "172178650",
+    "172178651",
+    "172178652",
+    "172178653",
+    "172178654",
+    "172178655"
+   ]
+  }
+ ],
+ "fragments": {
+  "172178610": {
+   "fragment_id": "139805388",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-09-30",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 24/2020\n\nde 25 de maio\n\nSumário: Regula o acesso, a ocupação e a utilização das praias de banhos, no contexto da pandemia da doença COVID-19, para a época balnear de 2020.\n\nAs praias constituem espaços lúdicos muito importantes em Portugal, visitadas todos os anos por milhares de pessoas, pelo que, no atual contexto da pandemia da doença COVID-19, importa definir os procedimentos a ter em consideração na utilização destes espaços, de forma a não colocar em risco a estratégia adotada no controlo da pandemia.\n\nO risco de contaminação através das secreções respiratórias (tosse e espirros) de uma pessoa infetada continua a ser o veículo direto de transmissão, que também acontece nestes espaços, pelo que a utilização das praias não constitui uma exceção ao cumprimento das medidas gerais para a pandemia da doença COVID-19, definidas pelas autoridades de saúde, que recomendam o distanciamento físico e evicção de concentração de pessoas, a higiene frequente das mãos, a etiqueta respiratória, a limpeza e higienização dos espaços, e a utilização de máscara ou viseira, quando tal se revele necessário e adequado.\n\nCom base em dados de surtos anteriores de SARS e MERS, os cientistas estimam que há um baixo risco de transmissão do vírus que causa a doença COVID-19 através da água. Também é estimado que o risco de transmissão através de sistemas de águas residuais ou águas de uso recreativo seja baixo. Além disso, outros estudos indicam que, para além de atualmente não existirem dados da persistência do SARS-CoV-2 na água do mar, o efeito de diluição, assim como a presença de sal, são fatores que provavelmente contribuem para uma diminuição da carga viral e sua inativação, por analogia ao que acontece em outros coronavírus.\n\nComplementarmente, não existem, à data, estudos sobre a presença do SARS-CoV-2 na areia. Porém, a ação conjunta da radiação ultravioleta solar, a alta temperatura que a areia pode alcançar durante o verão e o sal da água do mar favorecem a inativação de agentes patogénicos, tais como coronavírus.\n\nNo entanto, considerando o princípio da precaução, é apropriado adotar medidas de manutenção do risco tão baixo quanto possível, o que pode ser alcançado através da divulgação intensiva à população dos cuidados a ter nestes espaços públicos, na preparação destes espaços para que induzam à adoção de boas práticas e na promoção de uma articulação de todas as entidades com competência para potenciar as ações de prevenção e fiscalização.\n\nNeste sentido, são definidas regras relativas à circulação nos acessos à praia, evitando-se o cruzamento de pessoas, às instalações balneares e à ocupação do areal, de forma a respeitar o distanciamento físico recomendado.\n\nO presente decreto-lei define, no essencial, as regras aplicáveis às águas balneares identificadas como praias de banhos, uma vez que nestas existe maior concentração de utentes, a comercialização de bens e serviços e, ainda, um maior número de espaços e equipamentos, o que pode resultar num aumento do risco de contágio, caso não sejam adotadas as regras de higiene e segurança.\n\nEste regime aplica-se, com as necessárias adaptações, à utilização das piscinas ao ar livre, devendo as regras especiais aplicáveis a estas ser objeto de regulamentação.\n\nFoi promovida a audição da Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819) O disposto nos artigos 2.º e 3.º produz efeitos no dia 1 de agosto de 2020."
+  },
+  "139870784": {
+   "fragment_id": "139805389",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "139870785": {
+   "fragment_id": "139805390",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime excecional e temporário aplicável à ocupação e utilização das praias, no contexto da pandemia da doença COVID-19, para a época balnear de 2020."
+  },
+  "139870786": {
+   "fragment_id": "139805391",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se a todas as águas balneares identificadas como praias de banhos, compreendendo as praias costeiras, de transição e interiores integradas no domínio hídrico, respetivos acessos, estacionamentos e espaços contíguos de fruição pública, para apoio balnear, no território continental.\n\n2 - As regras de utilização do areal previstas nos n.os 1 a 3 do artigo 23.º aplicam-se as todas as praias."
+  },
+  "139870787": {
+   "fragment_id": "139805392",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Praias de grande dimensão», as que têm uma capacidade potencial, determinada nos termos do artigo 11.º, superior a 500 utentes;\n\nb) «Praias de pequena dimensão», as que têm uma capacidade potencial, determinada nos termos do artigo 11.º, de até 500 utentes."
+  },
+  "139870788": {
+   "fragment_id": "139805393",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\nA ocupação e a utilização das praias obedecem aos seguintes princípios:\n\na) Proteção da saúde pública;\n\nb) Prevenção do risco;\n\nc) Fruição pública em segurança das águas identificadas como balneares em portaria a aprovar pelos membros do Governo responsáveis pelas áreas da defesa nacional e do ambiente, prevista no n.º 6 do artigo 4.º do Decreto-Lei n.º 135/2009, de 3 de junho, na sua redação atual, e no n.º 2 do artigo 11.º do Decreto-Lei n.º 159/2012, de 24 de julho, na sua redação atual;\n\nd) Fruição pública das infraestruturas existentes;\n\ne) Adaptabilidade das medidas de gestão previstas no presente decreto-lei em função do contexto local;\n\nf) Direito de acesso de todos os cidadãos à fruição das praias, salvo as de uso restrito ou interdito."
+  },
+  "139870789": {
+   "fragment_id": "139805394",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres gerais dos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres gerais dos utentes\n\nOs utentes das praias devem:\n\na) Cumprir as medidas de etiqueta respiratória;\n\nb) Assegurar o distanciamento físico de segurança entre utentes no acesso e na utilização da praia e no banho no mar ou no rio;\n\nc) Proceder à limpeza frequente das mãos;\n\nd) Evitar o acesso a zonas identificadas com ocupação elevada ou plena;\n\ne) Cumprir as determinações das autoridades competentes;\n\nf) Depositar os resíduos gerados nos locais destinados a esse efeito."
+  },
+  "139870790": {
+   "fragment_id": "139805395",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres gerais das entidades concessionárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres gerais das entidades concessionárias\n\n1 - As entidades concessionárias devem:\n\na) Cumprir as determinações e orientações das autoridades de saúde no que respeita à higienização e limpeza dos equipamentos e instalações;\n\nb) Contratar os meios necessários a assegurar o cumprimento do regime estabelecido no presente decreto-lei;\n\nc) Afixar, de modo visível, as informações previstas no presente decreto-lei que sejam destinadas aos utentes;\n\nd) Assegurar a assistência a banhistas nas praias concessionadas;\n\ne) Assegurar uma articulação estreita com as autoridades competentes, designadamente a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e a Autoridade Marítima Nacional (AMN), efetuando com prontidão os reportes que se mostrem necessários a garantir a segurança na área concessionada, bem como na área não concessionada no que respeita às praias de pequena dimensão.\n\n2 - Podem ser celebrados, até 31 de dezembro de 2020, protocolos entre a APA, I. P., e as autarquias locais para o apoio à adoção de medidas decorrentes das obrigações previstas no presente decreto-lei por parte das entidades concessionárias e ou das autarquias locais, designadamente de ordem financeira."
+  },
+  "139870791": {
+   "fragment_id": "139805396",
+   "type": 11,
+   "heading": "Artigo 7.º — Campanhas de sensibilização e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Campanhas de sensibilização e informação\n\n1 - A APA, I. P., e as autarquias locais devem promover campanhas de informação e sensibilização que garantam a divulgação das regras, de forma clara e simples, relativas à ocupação e à utilização segura das praias.\n\n2 - A AMN colabora com a APA, I. P., no sentido da mais ampla divulgação das campanhas referidas no número anterior."
+  },
+  "139870792": {
+   "fragment_id": "139805397",
+   "type": 1,
+   "heading": "Capítulo II — Gestão dos estacionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão dos estacionamentos"
+  },
+  "139870793": {
+   "fragment_id": "139805398",
+   "type": 11,
+   "heading": "Artigo 8.º — Interdições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Interdições\n\n1 - É interdito o estacionamento fora dos parques e zonas de estacionamento licenciados para o efeito.\n\n2 - É interdita a permanência de autocaravanas ou similares nos parques e zonas de estacionamento.\n\n3 - Ao incumprimento do disposto nos números anteriores aplicam-se as coimas previstas nos regulamentos aplicáveis, devendo a moldura da sanção ser sempre agravada para o dobro, sem prejuízo dos limites máximos aplicáveis nos termos gerais.\n\n4 - Deve ser reforçada, pela entidade competente, a sinalização nos locais onde é proibido o estacionamento."
+  },
+  "139870794": {
+   "fragment_id": "139805399",
+   "type": 11,
+   "heading": "Artigo 9.º — Delimitação do espaço de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Delimitação do espaço de estacionamento\n\n1 - As entidades gestoras dos parques e zonas de estacionamento devem, sempre que possível, proceder ao ordenamento do espaço.\n\n2 - Quando os parques e zonas de estacionamento formais não existam, compete às autarquias locais proceder à criação e ao ordenamento do espaço de estacionamento, sem fazer perigar os valores naturais em presença."
+  },
+  "139870795": {
+   "fragment_id": "139805400",
+   "type": 11,
+   "heading": "Artigo 10.º — Regras de higiene e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regras de higiene e segurança\n\n1 - As entidades gestoras dos parques e zonas de estacionamento devem:\n\na) Assegurar a afixação de instruções de higiene e segurança em locais bem visíveis;\n\nb) Desinfetar com frequência os equipamentos utilizados pelos utentes, designadamente os terminais utilizados para o pagamento do serviço;\n\nc) Disponibilizar soluções desinfetantes cutâneas aos utentes ou, caso não seja possível, recomendar a desinfeção das mãos antes de os utentes se dirigirem à praia;\n\nd) Assegurar o cumprimento das regras definidas pela Direção-Geral da Saúde (DGS) na limpeza e higienização das instalações e equipamentos.\n\n2 - O disposto na alínea c) do número anterior não se aplica nos parques de estacionamento associados às áreas urbanas."
+  },
+  "139870796": {
+   "fragment_id": "139805401",
+   "type": 1,
+   "heading": "Capítulo III — Acessos às praias de banhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acessos às praias de banhos"
+  },
+  "139870797": {
+   "fragment_id": "139805402",
+   "type": 11,
+   "heading": "Artigo 11.º — Capacidade potencial de ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Capacidade potencial de ocupação\n\n1 - A APA, I. P., determina, mediante despacho, publicado no Diário da República e disponibilizado no seu sítio na Internet, o método de cálculo e a capacidade potencial de ocupação das praias de banhos, no contexto da pandemia da doença COVID-19, para garantir a segurança dos utentes e a proteção da saúde pública, tendo em consideração a área útil da zona destinada ao uso balnear, as marés, se aplicável, e uma área de segurança mínima por utente, bem como a lista das praias de pequena dimensão.\n\n2 - A área útil da zona destinada ao uso balnear é calculada a partir da extensão da frente de praia e de uma faixa de profundidade da área utilizável, contada a partir do limite do espraiamento das vagas, no caso das praias costeiras, ou da oscilação do nível da água, no caso das águas de transição e interiores.\n\n3 - O despacho previsto no n.º 1 deve ser publicado no prazo máximo de sete dias a contar da data da publicação do presente decreto-lei."
+  },
+  "139870798": {
+   "fragment_id": "139805403",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação sobre estado de ocupação no acesso às praias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação sobre estado de ocupação no acesso às praias\n\n1 - De forma a evitar a afluência excessiva às praias, as entidades concessionárias devem sinalizar o estado de ocupação das praias de banhos que correspondem à sua concessão, incluindo a respetiva frente de praia, utilizando sinalética de cores, nos seguintes termos:\n\na) Verde: ocupação baixa, que corresponde a uma utilização até um terço;\n\nb) Amarelo: ocupação elevada, que corresponde a uma utilização entre um terço e dois terços;\n\nc) Vermelho: ocupação plena.\n\n2 - No caso das praias de pequena dimensão, a obrigação prevista no número anterior diz respeito a toda a praia.\n\n3 - No caso de praias de grande dimensão com uma só entidade concessionária, a informação prestada por esta diz apenas respeito à área da sua concessão, incluindo a respetiva frente de praia, devendo a sinalética deixar claro que esta informação apenas se refere à área da sua concessão, sinalética essa que deve também reportar que se trata de uma praia de grande dimensão.\n\n4 - Nas praias de banho não concessionadas, a responsabilidade prevista no n.º 1 é das autarquias locais."
+  },
+  "139870799": {
+   "fragment_id": "139805404",
+   "type": 11,
+   "heading": "Artigo 13.º — Divulgação da informação sobre o estado de ocupação das praias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Divulgação da informação sobre o estado de ocupação das praias\n\n1 - De forma a permitir a tomada atempada de decisão, pelos utentes, sobre a escolha da praia, a APA, I. P., disponibiliza informação atualizada de forma contínua, em tempo real, através de aplicação móvel «Info praia», e no seu sítio na Internet, sobre o estado de ocupação das praias, sem prejuízo do desenvolvimento de outras aplicações.\n\n2 - Para efeitos do disposto no número anterior, o despacho referido no n.º 1 do artigo 11.º determina os métodos e tecnologias que permitem estimar o estado de ocupação das praias, podendo, para esse efeito, ser obtidos, designadamente, dados não pessoais sobre o número de equipamentos eletrónicos ou serem processadas automaticamente manchas de ocupação das praias a partir de dispositivos já existentes que permitam estimar o número de utentes presentes em cada praia.\n\n3 - Para efeitos do número anterior, são definidos, por despacho dos membros do Governo responsáveis pelas áreas do ambiente e das comunicações, os operadores autorizados a fornecer aquela informação à APA, I. P., bem como as entidades responsáveis pela fiscalização e pelo cumprimento dos limites nele estabelecidos, em observância pelo regime de tratamento de dados pessoais e à livre circulação dos mesmos.\n\n4 - A informação prevista nos números anteriores deve ser divulgada, sempre que possível, nos órgãos de comunicação social, nos acessos, nos transportes coletivos de passageiros, estações e paragens que servem as praias."
+  },
+  "139870800": {
+   "fragment_id": "139805405",
+   "type": 11,
+   "heading": "Artigo 14.º — Zonas de passagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Zonas de passagem\n\n1 - Deve ser definido, salvo impossibilidade física, apenas um sentido de circulação nos acessos à praia.\n\n2 - Nas praias de banhos com mais de uma entrada deve privilegiar-se uma zona de entrada e outra de saída, assinaladas de forma bem visível e com indicação clara a partir da zona de estacionamento, quando exista.\n\n3 - Nas zonas de passagem estreitas pode ser realizada uma divisão longitudinal, preferencialmente no piso, de forma a permitir a circulação em sentido único e à direita.\n\n4 - A circulação nas zonas de passagem implica a manutenção do distanciamento físico de segurança de um metro e meio entre cada utente, evitando-se as paragens nos acessos.\n\n5 - As entidades concessionárias devem disponibilizar soluções desinfetantes cutâneas que permitam a desinfeção das mãos ou lavatório com sabão líquido junto aos acessos ou, caso não seja possível, recomendar a desinfeção das mãos antes de os utentes se dirigirem à praia.\n\n6 - As entidades concessionárias devem garantir que todos os colaboradores que têm contacto com utentes ou circulam nos espaços comuns utilizam os equipamentos de proteção individual recomendados pela DGS e adequados às suas tarefas."
+  },
+  "139870801": {
+   "fragment_id": "139805406",
+   "type": 1,
+   "heading": "Capítulo IV — Passadeiras, paredão e marginal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Passadeiras, paredão e marginal"
+  },
+  "139870802": {
+   "fragment_id": "139805407",
+   "type": 11,
+   "heading": "Artigo 15.º — Regras de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regras de circulação\n\n1 - Na circulação nas passadeiras, em paredão e marginal deve ser mantido o distanciamento físico de segurança de um metro e meio entre cada utente.\n\n2 - Para efeitos do disposto no número anterior, devem ser definidos sentidos de circulação e marcas de distanciamento físico indicativas, nos termos do artigo anterior, com as necessárias adaptações.\n\n3 - Nas passadeiras deve destinar-se, preferencialmente, uma para o acesso e outra para a saída, com marcações de espaçamento e de sentido do movimento ou, quando não seja possível, em virtude de a circulação entre as unidades balneares se realizar por uma só passadeira, afixar-se sinalização que informe a necessidade de cumprimento da distância de segurança entre utentes.\n\n4 - Deve ser assegurada a limpeza e desinfeção frequentes das superfícies, de acordo com as orientações definidas pelas autoridades de saúde, e aumentada a periodicidade de manutenção das passadeiras."
+  },
+  "139870803": {
+   "fragment_id": "139805408",
+   "type": 1,
+   "heading": "Capítulo V — Acesso e funcionamento dos estabelecimentos de praia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Acesso e funcionamento dos estabelecimentos de praia"
+  },
+  "139870804": {
+   "fragment_id": "139805409",
+   "type": 11,
+   "heading": "Artigo 16.º — Sinalética e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sinalética e informação\n\n1 - Os apoios de praia, bares, restaurantes, esplanadas, os parques de merendas e os postos de primeiros socorros nas praias de banhos devem afixar informação de sensibilização aos utentes para cumprimento de procedimentos de higiene e segurança a cumprir nas áreas respetivas.\n\n2 - As informações previstas no número anterior devem estar acessíveis aos utentes e constar em vários idiomas, designadamente em português, castelhano e inglês."
+  },
+  "139870805": {
+   "fragment_id": "139805410",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoios de praia, bares, restaurantes e esplanadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apoios de praia, bares, restaurantes e esplanadas\n\n1 - Os apoios de praia, bares, restaurantes e esplanadas nas praias de banhos devem definir um manual de procedimentos que assegure o cumprimento das recomendações definidas pela DGS por parte de trabalhadores e utentes, nomeadamente a higienização dos espaços e instalações sanitárias, a lotação máxima e o distanciamento físico de segurança de dois metros entre utentes, bem como nas zonas de espera.\n\n2 - Os estabelecimentos referidos no número anterior devem garantir a regular higienização das áreas comuns, de superfícies, piso e outras áreas, objetos e equipamentos, com a periodicidade mínima de quatro limpezas diárias, mantendo o respetivo registo, devendo ser seguidas as orientações definidas pela DGS, nomeadamente em matéria de limpeza e desinfeção das superfícies.\n\n3 - Os responsáveis dos apoios de praia, bares e restaurantes avaliam, casuisticamente, a necessidade de reorganização das áreas destinadas a esplanadas, de modo a assegurar o cumprimento do distanciamento físico de segurança.\n\n4 - Para efeitos do disposto no número anterior, pode ser aumentada a área destinada a esplanadas, a autorizar, casuisticamente, pelas autoridades competentes, não podendo interferir com outros usos nem colocar em causa os valores naturais em presença.\n\n5 - Nos casos em que seja aumentada a área nos termos do número anterior, fica a entidade concessionária isenta do pagamento de taxa de recursos hídricos na área da esplanada que resulte desse aumento.\n\n6 - Os estabelecimentos referidos no presente artigo regem-se, supletivamente, pelas regras aplicáveis aos bares, restaurantes e esplanadas fora dos espaços balneares."
+  },
+  "139870806": {
+   "fragment_id": "139805411",
+   "type": 11,
+   "heading": "Artigo 18.º — Parques de merendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Parques de merendas\n\nDeve ser efetuada a higienização e limpeza frequente das mesas e cadeiras existentes nos parques de merendas e ser aumentado o número de dispositivos de recolha de resíduos, aumentando a frequência da sua limpeza, e assegurada a distância de dois metros entre cada equipamento."
+  },
+  "139870807": {
+   "fragment_id": "139805412",
+   "type": 11,
+   "heading": "Artigo 19.º — Postos de primeiros socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Postos de primeiros socorros\n\n1 - Os postos de primeiros socorros devem estar dotados com termómetros e equipamento de proteção individual, e compreender uma área destinada ao isolamento de casos suspeitos da doença COVID-19.\n\n2 - Deve ser desenvolvido um plano de contingência para lidar com as situações consideradas suspeitas da doença COVID-19, de acordo com as regras definidas pela DGS, incluindo a identificação do local para onde se deve dirigir qualquer caso suspeito.\n\n3 - O responsável pela gestão do posto de primeiros socorros deve encaminhar os casos suspeitos para o espaço de isolamento e prestar todo o apoio que se revele necessário, interditando a aproximação de qualquer outra pessoa até à chegada da equipa de emergência médica."
+  },
+  "139870808": {
+   "fragment_id": "139805413",
+   "type": 11,
+   "heading": "Artigo 20.º — Instalações sanitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Instalações sanitárias\n\n1 - As instalações sanitárias, incluídas ou não no apoio de praia, devem definir protocolos de higienização, bem como garantir a disponibilização de soluções que permitam a desinfeção cutânea das mãos ou lavatório com sabão líquido para a lavagem das mãos.\n\n2 - Nas instalações sanitárias é obrigatória a utilização de calçado, devendo adotar-se comportamentos de proteção pessoal, tais como a higienização das mãos, a utilização de máscara ou viseira no interior da instalação, a distância de segurança e as medidas de etiqueta respiratória.\n\n3 - No exterior das instalações sanitárias deve ser disponibilizada a informação sobre o número máximo de utentes e a prescrição do distanciamento físico.\n\n4 - Deve ser aumentada a frequência de higienização das instalações sanitárias, devendo manter-se o registo das ações de limpeza efetuadas, bem como garantir a utilização de equipamentos de proteção individual por parte dos trabalhadores responsáveis pelo serviço de limpeza.\n\n5 - Sem prejuízo do disposto no n.º 1 do artigo 25.º, nos chuveiros é obrigatória a utilização de calçado."
+  },
+  "139870809": {
+   "fragment_id": "139805414",
+   "type": 1,
+   "heading": "Capítulo VI — Resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Resíduos"
+  },
+  "139870810": {
+   "fragment_id": "139805415",
+   "type": 11,
+   "heading": "Artigo 21.º — Gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Gestão de resíduos\n\n1 - Devem ser disponibilizados, em toda a extensão de praia concessionada, contentores para deposição de resíduos, quer da fração indiferenciada, quer das frações recolhidas seletivamente, com tampa e, preferencialmente, de abertura acionada por pedal.\n\n2 - Em alternativa aos contentores, podem ser disponibilizados suportes para sacos para deposição de resíduos, quer da fração indiferenciada, quer das frações recolhidas seletivamente.\n\n3 - Na extensão de praia não concessionada devem ser disponibilizados, pelas autarquias locais, contentores da fração indiferenciada.\n\n4 - Na zona envolvente aos contentores deve ser colocada uma rede de proteção, de forma a evitar a dispersão dos resíduos, em especial das máscaras, viseiras e luvas.\n\n5 - Deve ser disponibilizada informação sobre as frações a depositar em cada um dos contentores junto aos contentores de deposição de resíduos, constando a informação de que as máscaras, viseiras, luvas e outros equipamentos de proteção individual devem ser colocados no contentor que respeite a resíduos indiferenciados.\n\n6 - Caso se revele necessário, devem ser colocados mais contentores para depósito dos resíduos da fração indiferenciada.\n\n7 - Os contentores devem ser forrados com sacos resistentes.\n\n8 - Deve ser aumentada a frequência de recolha de resíduos, acautelando que o enchimento dos sacos não exceda dois terços da sua capacidade.\n\n9 - Sempre que possível, deve ser adotado o código de cores utilizado a nível nacional."
+  },
+  "139870811": {
+   "fragment_id": "139805416",
+   "type": 11,
+   "heading": "Artigo 22.º — Recolha de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Recolha de resíduos\n\n1 - Deve ser cumprido um plano de higienização diário dos contentores ou suportes para sacos, incidindo, sobretudo, nos pontos de contacto, e cumprindo os procedimentos de limpeza e desinfeção definidos pela DGS.\n\n2 - A recolha de resíduos deve ser efetuada com os sacos imediatamente fechados com nó, braçadeira ou atilho, evitando o contacto dos trabalhadores com os resíduos, não devendo os sacos ser calcados ou apertados.\n\n3 - As áreas envolventes aos contentores devem ser desinfetadas e, no caso de existirem resíduos no chão, estes devem ser recolhidos com equipamento apropriado.\n\n4 - Devem ser disponibilizados cinzeiros para recolha de beatas, os quais devem ser higienizados diariamente.\n\n5 - Os estabelecimentos de restauração e bebidas referidos no artigo 17.º devem dispor de contentores para deposição de resíduos com tampa e abertura de acionamento não manual, devendo cumprir os procedimentos de recolha dos resíduos e higienização dos equipamentos.\n\n6 - Os trabalhadores responsáveis pela recolha de resíduos na zona balnear e pela sua higienização devem usar equipamento de proteção individual durante a abertura e o manuseamento dos contentores."
+  },
+  "139870812": {
+   "fragment_id": "139805417",
+   "type": 1,
+   "heading": "Capítulo VII — Utilização do areal ou da área definida para uso balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Utilização do areal ou da área definida para uso balnear"
+  },
+  "139870813": {
+   "fragment_id": "139805418",
+   "type": 11,
+   "heading": "Artigo 23.º — Utilização do areal ou da área definida para uso balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Utilização do areal ou da área definida para uso balnear\n\n1 - Na utilização do areal ou da área definida para uso balnear em qualquer praia, devem ser observadas as regras de higiene e segurança definidas pela DGS, mantendo a distância física de segurança de um metro e meio entre cada utente.\n\n2 - O cumprimento da distância física de segurança não é exigível aos utentes que integrem o mesmo grupo.\n\n3 - Em qualquer praia, os chapéus de sol dos utentes que se encontrem sozinhos ou em grupo, devem estar afastados, no mínimo, três metros, contados a partir do limite exterior dos chapéus de sol de outros utentes, que se encontrem sozinhos ou em grupo.\n\n4 - As regras referidas no n.º 1, bem como a informação de sensibilização aos utentes para a adoção de boas práticas, são afixadas em sinalética junto das zonas de acesso à praia.\n\n5 - Podem ser definidos corredores de circulação, paralelos e perpendiculares à linha de costa ou à margem, de acordo com a área disponível e com as condições de cada praia, de modo a desincentivar a circulação aleatória em áreas ocupadas.\n\n6 - As regras de distanciamento físico e os limites de concentração de pessoas aplicam-se na utilização do areal."
+  },
+  "139870814": {
+   "fragment_id": "139805419",
+   "type": 11,
+   "heading": "Artigo 24.º — Toldos, colmos e barracas de praia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Toldos, colmos e barracas de praia\n\n1 - Nas áreas concessionadas, deve ser assegurado o afastamento de, pelo menos:\n\na) Três metros entre toldos e entre colmos, contados a partir do limite exterior;\n\nb) Um metro e meio entre os limites das barracas, contados a partir do limite exterior.\n\n2 - Pode ser autorizado pelas autoridades competentes o alargamento excecional da área concessionada definida para a colocação de toldos, colmos e barracas, atendendo à necessidade de manter o distanciamento físico de segurança entre os utentes da praia.\n\n3 - A área referida no número anterior pode ser alargada até ocupar, no máximo, dois terços da área útil da praia, devendo ficar reservado pelo menos um terço para a área não concessionada, desde que não coloque em causa outros usos nem os valores naturais em presença.\n\n4 - O aluguer de toldos, colmos ou barracas faz-se por referência a dois períodos temporais do dia, decorrendo o da manhã até às 13h30m, e iniciando-se o da tarde às 14h00m.\n\n5 - A cada pessoa, bem como aos elementos que compõem o mesmo grupo de ocupantes, é apenas permitido o aluguer de toldos, colmos ou barracas, na mesma área concessionada, para um dos períodos de cada dia previstos no número anterior, de modo a permitir que um maior número de pessoas possa usufruir desses equipamentos.\n\n6 - Pode ser excecionado o disposto no número anterior quando o nível de utilização da área concessionada o permita.\n\n7 - O número de utentes por toldo, colmo ou barraca não deve ultrapassar os cinco utentes, devendo o espaço envolvente ser utilizado de forma a garantir a distância de segurança para os ocupantes do toldo, colmo ou barraca seguintes.\n\n8 - Podem ser criadas zonas reservadas a grupos de crianças associadas a atividades de férias e para pessoas com mobilidade condicionada, caso tal permita uma melhor ordenação do espaço.\n\n9 - As entidades concessionárias devem disponibilizar, de forma clara e acessível, informação sobre comportamentos a adotar na utilização dos toldos, colmos e barracas.\n\n10 - A entidade concessionária deve proceder à limpeza dos toldos, colmos e barracas sempre que se regista mudança de utente.\n\n11 - Nas praias com elevada afluência de utentes e em que a hidrodinâmica sedimentar tenha reduzido a área útil da praia, pode ser determinado, pelas autoridades competentes, a redução da área concessionada, por forma a assegurar a necessidade de manter o distanciamento físico de segurança entre os utentes da praia."
+  },
+  "139870815": {
+   "fragment_id": "139805420",
+   "type": 11,
+   "heading": "Artigo 25.º — Equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Equipamentos\n\n1 - Fica interdita a disponibilização e a utilização de quaisquer equipamentos de uso coletivo, nomeadamente gaivotas, escorregas, chuveiros interiores de corpo ou de pés, e outras estruturas similares.\n\n2 - Os outros equipamentos balneares, nomeadamente chuveiros exteriores de corpo ou de pés, espreguiçadeiras, colchões, cinzeiros de praia, devem ser limpos diariamente de acordo com as orientações definidas pela DGS, relativas à limpeza e desinfeção de superfícies, aquando da respetiva montagem ou colocação e, no decorrer do dia, sempre que se registe a mudança de utente, salvo no que respeita aos chuveiros exteriores em que deve ser reforçada a limpeza ao longo do dia.\n\n3 - No acompanhamento de pessoas com mobilidade reduzida, deve ser garantido o cumprimento dos procedimentos de higiene e segurança, nomeadamente higienização das cadeiras anfíbias após cada utilização, colocação de viseira, pelo utente e acompanhante.\n\n4 - Após cada utilização, cada cadeira anfíbia deve ser lavada no mar, ou, no caso das águas interiores, com uma mangueira."
+  },
+  "139870816": {
+   "fragment_id": "139805421",
+   "type": 11,
+   "heading": "Artigo 26.º — Equipamentos flutuantes nas águas interiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Equipamentos flutuantes nas águas interiores\n\nSó podem ser instalados equipamentos flutuantes de apoio ao banho nas águas interiores, caso os mesmos sejam essenciais para prevenir riscos associados à segurança no banho, devendo ser definido, para cada equipamento, um número máximo de utentes, de forma a salvaguardar o distanciamento físico de segurança recomendado, cujo controlo compete ao nadador-salvador."
+  },
+  "139870817": {
+   "fragment_id": "139805422",
+   "type": 11,
+   "heading": "Artigo 27.º — Venda ambulante na praia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Venda ambulante na praia\n\n1 - É permitida a venda ambulante nas praias, desde que respeitadas as regras e orientações de higiene e segurança definidas pelas autoridades de saúde.\n\n2 - É obrigatório o uso de máscara ou viseira pelo vendedor no contacto com os utentes.\n\n3 - A circulação de vendedores ambulantes na praia deve fazer-se, preferencialmente, nos corredores de circulação de utentes da praia, devendo os vendedores respeitar as regras de distanciamento físico de segurança, efetuar a disponibilização dos alimentos através de pinça, sempre que adequado, e respeitar as orientações definidas pela DGS relativas à limpeza e desinfeção de superfícies."
+  },
+  "139870818": {
+   "fragment_id": "139805423",
+   "type": 11,
+   "heading": "Artigo 28.º — Atividades não individuais no mar ou na área definida para uso balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Atividades não individuais no mar ou na área definida para uso balnear\n\n1 - Na área definida para o uso balnear das praias, não são permitidas as atividades de natureza desportiva que envolvam duas ou mais pessoas, bem como atividades de prestação de serviços de massagens e atividades análogas, não devendo ser montados ou colocados equipamentos ou definidos espaços que promovam a sua realização.\n\n2 - Excetuam-se do disposto no número anterior as aulas promovidas por escolas ou instrutores de surf e de desportos similares, desde que respeitado o número máximo de cinco participantes por instrutor, devendo garantir-se o distanciamento físico de segurança recomendado de um metro e meio entre cada participante, tanto em terra como no mar.\n\n3 - Nas atividades náuticas individuais, devem ser cumpridas as regras e orientações de distanciamento físico de segurança, de etiqueta respiratória, de higiene das mãos e de limpeza e desinfeção de superfícies, definidas pela DGS.\n\n4 - Na limpeza dos equipamentos prevista no número anterior, é proibida a utilização de produtos com hipoclorito de sódio e de produtos biocidas.\n\n5 - As atividades culturais e religiosas na área definida para uso balnear das praias devem respeitar as regras de distanciamento social e de higiene e segurança."
+  },
+  "139870819": {
+   "fragment_id": "139805424",
+   "type": 11,
+   "heading": "Artigo 29.º — Higienização de espaços de uso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Higienização de espaços de uso público\n\nNa higienização de espaços de uso público, nomeadamente passadeiras, paredões e equipamentos na área definida para uso balnear, é proibida a utilização de produtos com hipoclorito de sódio e biocidas."
+  },
+  "139870820": {
+   "fragment_id": "139805425",
+   "type": 1,
+   "heading": "Capítulo VIII — Piscinas ao ar livre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Piscinas ao ar livre"
+  },
+  "139870821": {
+   "fragment_id": "139805426",
+   "type": 11,
+   "heading": "Artigo 30.º — Piscinas ao ar livre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Piscinas ao ar livre\n\n1 - O regime do presente decreto-lei é aplicável ao funcionamento das piscinas ao ar livre com as necessárias adaptações.\n\n2 - As regras especiais a adotar quanto à ocupação e à utilização das piscinas ao ar livre, e bem assim quanto à garantia da qualidade da água, salubridade e segurança das instalações, são aprovadas, no prazo máximo de sete dias a contar da data da publicação do presente decreto-lei, por despacho dos membros do Governo responsáveis pelas áreas da economia, das autarquias locais e da saúde, considerando as orientações da DGS."
+  },
+  "139870822": {
+   "fragment_id": "139805427",
+   "type": 1,
+   "heading": "Capítulo IX — Assistência e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Assistência e fiscalização"
+  },
+  "139870823": {
+   "fragment_id": "139805428",
+   "type": 11,
+   "heading": "Artigo 31.º — Assistência a banhistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Assistência a banhistas\n\n1 - As autoridades competentes e as autarquias locais devem reforçar os meios para a assistência a banhistas nas áreas não concessionadas em praias de grande dimensão.\n\n2 - Nas ações de salvamento, as ações do suporte básico de vida, no contexto da pandemia da doença COVID-19, devem seguir as recomendações emitidas pelo Instituto de Socorros a Náufragos.\n\n3 - O disposto no número anterior aplica-se também às situações particulares das águas não identificadas como águas balneares, previstas na portaria a aprovar pelos membros do Governo responsáveis pelas áreas da defesa nacional e do ambiente, nos termos previstos no n.º 6 do artigo 4.º do Decreto-Lei n.º 135/2009, de 3 de junho, na sua redação atual, e na Lei n.º 44/2004, de 19 de agosto, na sua redação atual, em que possa ser garantida a presença de nadadores-salvadores."
+  },
+  "139870824": {
+   "fragment_id": "139805429",
+   "type": 11,
+   "heading": "Artigo 32.º — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acompanhamento e fiscalização\n\n1 - Compete às autoridades de saúde, em conjunto com a APA, I. P., através dos seus serviços regionais, e em articulação com os órgãos locais da Direção-Geral da Autoridade Marítima e com a proteção civil municipal, efetuar a avaliação e monitorização das situações que podem colocar em risco a segurança dos utentes para proteção da saúde pública nas praias, bem como definir e implementar as respetivas medidas que sejam necessárias adotar.\n\n2 - A fiscalização do cumprimento do disposto no presente decreto-lei compete aos órgãos locais da AMN e à Polícia Marítima em particular, à Guarda Nacional Republicana, à Polícia de Segurança Pública, às Polícias Municipais, às autoridades de proteção civil, às autoridades de saúde, à APA, I. P., à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, às autoridades portuárias, as quais se devem articular entre si."
+  },
+  "139870825": {
+   "fragment_id": "139805430",
+   "type": 11,
+   "heading": "Artigo 33.º — Interdição de praias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Interdição de praias\n\nA APA, I. P., a AMN, o Comando Distrital de Proteção Civil e as autarquias locais podem determinar a interdição de acesso à praia por motivos de saúde pública, designadamente em virtude do incumprimento grave dos deveres que impendem sobre as entidades concessionárias e os utentes."
+  },
+  "139870826": {
+   "fragment_id": "139805431",
+   "type": 1,
+   "heading": "Capítulo X — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Disposição final"
+  },
+  "139870827": {
+   "fragment_id": "139805432",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "139870783": {
+   "fragment_id": "139805388",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 24/2020\n\nde 25 de maio\n\nSumário: Regula o acesso, a ocupação e a utilização das praias de banhos, no contexto da pandemia da doença COVID-19, para a época balnear de 2020.\n\nAs praias constituem espaços lúdicos muito importantes em Portugal, visitadas todos os anos por milhares de pessoas, pelo que, no atual contexto da pandemia da doença COVID-19, importa definir os procedimentos a ter em consideração na utilização destes espaços, de forma a não colocar em risco a estratégia adotada no controlo da pandemia.\n\nO risco de contaminação através das secreções respiratórias (tosse e espirros) de uma pessoa infetada continua a ser o veículo direto de transmissão, que também acontece nestes espaços, pelo que a utilização das praias não constitui uma exceção ao cumprimento das medidas gerais para a pandemia da doença COVID-19, definidas pelas autoridades de saúde, que recomendam o distanciamento físico e evicção de concentração de pessoas, a higiene frequente das mãos, a etiqueta respiratória, a limpeza e higienização dos espaços, e a utilização de máscara ou viseira, quando tal se revele necessário e adequado.\n\nCom base em dados de surtos anteriores de SARS e MERS, os cientistas estimam que há um baixo risco de transmissão do vírus que causa a doença COVID-19 através da água. Também é estimado que o risco de transmissão através de sistemas de águas residuais ou águas de uso recreativo seja baixo. Além disso, outros estudos indicam que, para além de atualmente não existirem dados da persistência do SARS-CoV-2 na água do mar, o efeito de diluição, assim como a presença de sal, são fatores que provavelmente contribuem para uma diminuição da carga viral e sua inativação, por analogia ao que acontece em outros coronavírus.\n\nComplementarmente, não existem, à data, estudos sobre a presença do SARS-CoV-2 na areia. Porém, a ação conjunta da radiação ultravioleta solar, a alta temperatura que a areia pode alcançar durante o verão e o sal da água do mar favorecem a inativação de agentes patogénicos, tais como coronavírus.\n\nNo entanto, considerando o princípio da precaução, é apropriado adotar medidas de manutenção do risco tão baixo quanto possível, o que pode ser alcançado através da divulgação intensiva à população dos cuidados a ter nestes espaços públicos, na preparação destes espaços para que induzam à adoção de boas práticas e na promoção de uma articulação de todas as entidades com competência para potenciar as ações de prevenção e fiscalização.\n\nNeste sentido, são definidas regras relativas à circulação nos acessos à praia, evitando-se o cruzamento de pessoas, às instalações balneares e à ocupação do areal, de forma a respeitar o distanciamento físico recomendado.\n\nO presente decreto-lei define, no essencial, as regras aplicáveis às águas balneares identificadas como praias de banhos, uma vez que nestas existe maior concentração de utentes, a comercialização de bens e serviços e, ainda, um maior número de espaços e equipamentos, o que pode resultar num aumento do risco de contágio, caso não sejam adotadas as regras de higiene e segurança.\n\nEste regime aplica-se, com as necessárias adaptações, à utilização das piscinas ao ar livre, devendo as regras especiais aplicáveis a estas ser objeto de regulamentação.\n\nFoi promovida a audição da Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819) O disposto nos artigos 2.º e 3.º produz efeitos no dia 1 de agosto de 2020."
+  },
+  "139870829": {
+   "fragment_id": "139805398",
+   "type": 11,
+   "heading": "Artigo 8.º — Interdições",
+   "in_force_from": "2020-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+   ],
+   "markdown": "###### Artigo 8.º — Interdições\n\n1 - É interdito o estacionamento fora dos parques e zonas de estacionamento licenciados para o efeito.\n\n2 - É interdita a permanência de autocaravanas ou similares nos parques e zonas de estacionamento, salvo nos locais especificamente designados para estes veículos pelas entidades gestoras dos parques e zonas de estacionamento, apenas entre as 07h00 e as 21h00, e com observância de todas as disposições aplicáveis.\n\n3 - Ao incumprimento do disposto nos números anteriores aplicam-se as coimas previstas nos regulamentos aplicáveis, devendo a moldura da sanção ser sempre agravada para o dobro, sem prejuízo dos limites máximos aplicáveis nos termos gerais.\n\n4 - Deve ser reforçada, pela entidade competente, a sinalização nos locais onde é proibido o estacionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+  },
+  "139870830": {
+   "fragment_id": "139805420",
+   "type": 11,
+   "heading": "Artigo 25.º — Equipamentos",
+   "in_force_from": "2020-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+   ],
+   "markdown": "###### Artigo 25.º — Equipamentos\n\n1 - Fica interdita a disponibilização e a utilização de quaisquer equipamentos de uso coletivo, considerando-se como tal chuveiros interiores, de corpo ou de pés, e equipamentos passíveis de utilização por mais de duas pessoas em simultâneo, com a exceção prevista no número seguinte.\n\n2 - Quanto aos equipamentos passíveis de utilização por mais de duas pessoas em simultâneo, a sua disponibilização fica sujeita às seguintes condições:\n\na) Não ocupação da área útil da zona destinada ao uso balnear, nomeadamente para efeitos de armazenamento permanente ou temporário dos equipamentos ou para o exercício de atividade relacionada com a disponibilização dos equipamentos;\n\nb) Controlo pelo responsável pela disponibilização dos equipamentos de que os mesmos apenas são utilizados por aqueles a quem foram disponibilizados e que não são utilizados por mais do que uma pessoa, a menos que estejam em causa utentes que compõem um mesmo grupo na praia, sem prejuízo do respeito pela lotação máxima do respetivo equipamento;\n\nc) Cumprimento das obrigações enunciadas no número seguinte.\n\n3 - Os demais equipamentos balneares, nomeadamente chuveiros exteriores de corpo ou de pés, espreguiçadeiras, colchões, cinzeiros de praia, devem ser limpos diariamente de acordo com as orientações definidas pela DGS, relativas à limpeza e desinfeção de superfícies, aquando da respetiva montagem ou colocação e, no decorrer do dia, sempre que se registe a mudança de utente, salvo no que respeita aos chuveiros exteriores em que deve ser reforçada a limpeza ao longo do dia.\n\n4 - No acompanhamento de pessoas com mobilidade reduzida, deve ser garantido o cumprimento dos procedimentos de higiene e segurança, nomeadamente higienização das cadeiras anfíbias após cada utilização, colocação de viseira, pelo utente e acompanhante.\n\n5 - Após cada utilização, cada cadeira anfíbia deve ser lavada no mar, ou, no caso das águas interiores, com uma mangueira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+  },
+  "139870828": {
+   "fragment_id": "139805433",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado no Conselho de Ministros de 15 de maio de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 20 de maio de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de maio de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113264417"
+  },
+  "172178611": {
+   "fragment_id": "139805389",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178612": {
+   "fragment_id": "139805390",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime excecional e temporário aplicável à ocupação e utilização das praias, no contexto da pandemia da doença COVID-19, para a época balnear de 2020.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178613": {
+   "fragment_id": "139805391",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se a todas as águas balneares identificadas como praias de banhos, compreendendo as praias costeiras, de transição e interiores integradas no domínio hídrico, respetivos acessos, estacionamentos e espaços contíguos de fruição pública, para apoio balnear, no território continental.\n\n2 - As regras de utilização do areal previstas nos n.os 1 a 3 do artigo 23.º aplicam-se as todas as praias.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178614": {
+   "fragment_id": "139805392",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Praias de grande dimensão», as que têm uma capacidade potencial, determinada nos termos do artigo 11.º, superior a 500 utentes;\n\nb) «Praias de pequena dimensão», as que têm uma capacidade potencial, determinada nos termos do artigo 11.º, de até 500 utentes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178615": {
+   "fragment_id": "139805393",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\nA ocupação e a utilização das praias obedecem aos seguintes princípios:\n\na) Proteção da saúde pública;\n\nb) Prevenção do risco;\n\nc) Fruição pública em segurança das águas identificadas como balneares em portaria a aprovar pelos membros do Governo responsáveis pelas áreas da defesa nacional e do ambiente, prevista no n.º 6 do artigo 4.º do Decreto-Lei n.º 135/2009, de 3 de junho, na sua redação atual, e no n.º 2 do artigo 11.º do Decreto-Lei n.º 159/2012, de 24 de julho, na sua redação atual;\n\nd) Fruição pública das infraestruturas existentes;\n\ne) Adaptabilidade das medidas de gestão previstas no presente decreto-lei em função do contexto local;\n\nf) Direito de acesso de todos os cidadãos à fruição das praias, salvo as de uso restrito ou interdito.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178616": {
+   "fragment_id": "139805394",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres gerais dos utentes",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 5.º — Deveres gerais dos utentes\n\nOs utentes das praias devem:\n\na) Cumprir as medidas de etiqueta respiratória;\n\nb) Assegurar o distanciamento físico de segurança entre utentes no acesso e na utilização da praia e no banho no mar ou no rio;\n\nc) Proceder à limpeza frequente das mãos;\n\nd) Evitar o acesso a zonas identificadas com ocupação elevada ou plena;\n\ne) Cumprir as determinações das autoridades competentes;\n\nf) Depositar os resíduos gerados nos locais destinados a esse efeito.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178617": {
+   "fragment_id": "139805395",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres gerais das entidades concessionárias",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres gerais das entidades concessionárias\n\n1 - As entidades concessionárias devem:\n\na) Cumprir as determinações e orientações das autoridades de saúde no que respeita à higienização e limpeza dos equipamentos e instalações;\n\nb) Contratar os meios necessários a assegurar o cumprimento do regime estabelecido no presente decreto-lei;\n\nc) Afixar, de modo visível, as informações previstas no presente decreto-lei que sejam destinadas aos utentes;\n\nd) Assegurar a assistência a banhistas nas praias concessionadas;\n\ne) Assegurar uma articulação estreita com as autoridades competentes, designadamente a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e a Autoridade Marítima Nacional (AMN), efetuando com prontidão os reportes que se mostrem necessários a garantir a segurança na área concessionada, bem como na área não concessionada no que respeita às praias de pequena dimensão.\n\n2 - Podem ser celebrados, até 31 de dezembro de 2020, protocolos entre a APA, I. P., e as autarquias locais para o apoio à adoção de medidas decorrentes das obrigações previstas no presente decreto-lei por parte das entidades concessionárias e ou das autarquias locais, designadamente de ordem financeira.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178618": {
+   "fragment_id": "139805396",
+   "type": 11,
+   "heading": "Artigo 7.º — Campanhas de sensibilização e informação",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 7.º — Campanhas de sensibilização e informação\n\n1 - A APA, I. P., e as autarquias locais devem promover campanhas de informação e sensibilização que garantam a divulgação das regras, de forma clara e simples, relativas à ocupação e à utilização segura das praias.\n\n2 - A AMN colabora com a APA, I. P., no sentido da mais ampla divulgação das campanhas referidas no número anterior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178619": {
+   "fragment_id": "139805397",
+   "type": 1,
+   "heading": "Capítulo II — Gestão dos estacionamentos",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo II — Gestão dos estacionamentos\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178620": {
+   "fragment_id": "139805398",
+   "type": 11,
+   "heading": "Artigo 8.º — Interdições",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+   ],
+   "markdown": "###### Artigo 8.º — Interdições\n\n1 - É interdito o estacionamento fora dos parques e zonas de estacionamento licenciados para o efeito.\n\n2 - É interdita a permanência de autocaravanas ou similares nos parques e zonas de estacionamento, salvo nos locais especificamente designados para estes veículos pelas entidades gestoras dos parques e zonas de estacionamento, apenas entre as 07h00 e as 21h00, e com observância de todas as disposições aplicáveis.\n\n3 - Ao incumprimento do disposto nos números anteriores aplicam-se as coimas previstas nos regulamentos aplicáveis, devendo a moldura da sanção ser sempre agravada para o dobro, sem prejuízo dos limites máximos aplicáveis nos termos gerais.\n\n4 - Deve ser reforçada, pela entidade competente, a sinalização nos locais onde é proibido o estacionamento.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+  },
+  "172178621": {
+   "fragment_id": "139805399",
+   "type": 11,
+   "heading": "Artigo 9.º — Delimitação do espaço de estacionamento",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 9.º — Delimitação do espaço de estacionamento\n\n1 - As entidades gestoras dos parques e zonas de estacionamento devem, sempre que possível, proceder ao ordenamento do espaço.\n\n2 - Quando os parques e zonas de estacionamento formais não existam, compete às autarquias locais proceder à criação e ao ordenamento do espaço de estacionamento, sem fazer perigar os valores naturais em presença.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178622": {
+   "fragment_id": "139805400",
+   "type": 11,
+   "heading": "Artigo 10.º — Regras de higiene e segurança",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 10.º — Regras de higiene e segurança\n\n1 - As entidades gestoras dos parques e zonas de estacionamento devem:\n\na) Assegurar a afixação de instruções de higiene e segurança em locais bem visíveis;\n\nb) Desinfetar com frequência os equipamentos utilizados pelos utentes, designadamente os terminais utilizados para o pagamento do serviço;\n\nc) Disponibilizar soluções desinfetantes cutâneas aos utentes ou, caso não seja possível, recomendar a desinfeção das mãos antes de os utentes se dirigirem à praia;\n\nd) Assegurar o cumprimento das regras definidas pela Direção-Geral da Saúde (DGS) na limpeza e higienização das instalações e equipamentos.\n\n2 - O disposto na alínea c) do número anterior não se aplica nos parques de estacionamento associados às áreas urbanas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178623": {
+   "fragment_id": "139805401",
+   "type": 1,
+   "heading": "Capítulo III — Acessos às praias de banhos",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo III — Acessos às praias de banhos\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178624": {
+   "fragment_id": "139805402",
+   "type": 11,
+   "heading": "Artigo 11.º — Capacidade potencial de ocupação",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 11.º — Capacidade potencial de ocupação\n\n1 - A APA, I. P., determina, mediante despacho, publicado no Diário da República e disponibilizado no seu sítio na Internet, o método de cálculo e a capacidade potencial de ocupação das praias de banhos, no contexto da pandemia da doença COVID-19, para garantir a segurança dos utentes e a proteção da saúde pública, tendo em consideração a área útil da zona destinada ao uso balnear, as marés, se aplicável, e uma área de segurança mínima por utente, bem como a lista das praias de pequena dimensão.\n\n2 - A área útil da zona destinada ao uso balnear é calculada a partir da extensão da frente de praia e de uma faixa de profundidade da área utilizável, contada a partir do limite do espraiamento das vagas, no caso das praias costeiras, ou da oscilação do nível da água, no caso das águas de transição e interiores.\n\n3 - O despacho previsto no n.º 1 deve ser publicado no prazo máximo de sete dias a contar da data da publicação do presente decreto-lei.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178625": {
+   "fragment_id": "139805403",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação sobre estado de ocupação no acesso às praias",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 12.º — Informação sobre estado de ocupação no acesso às praias\n\n1 - De forma a evitar a afluência excessiva às praias, as entidades concessionárias devem sinalizar o estado de ocupação das praias de banhos que correspondem à sua concessão, incluindo a respetiva frente de praia, utilizando sinalética de cores, nos seguintes termos:\n\na) Verde: ocupação baixa, que corresponde a uma utilização até um terço;\n\nb) Amarelo: ocupação elevada, que corresponde a uma utilização entre um terço e dois terços;\n\nc) Vermelho: ocupação plena.\n\n2 - No caso das praias de pequena dimensão, a obrigação prevista no número anterior diz respeito a toda a praia.\n\n3 - No caso de praias de grande dimensão com uma só entidade concessionária, a informação prestada por esta diz apenas respeito à área da sua concessão, incluindo a respetiva frente de praia, devendo a sinalética deixar claro que esta informação apenas se refere à área da sua concessão, sinalética essa que deve também reportar que se trata de uma praia de grande dimensão.\n\n4 - Nas praias de banho não concessionadas, a responsabilidade prevista no n.º 1 é das autarquias locais.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178626": {
+   "fragment_id": "139805404",
+   "type": 11,
+   "heading": "Artigo 13.º — Divulgação da informação sobre o estado de ocupação das praias",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 13.º — Divulgação da informação sobre o estado de ocupação das praias\n\n1 - De forma a permitir a tomada atempada de decisão, pelos utentes, sobre a escolha da praia, a APA, I. P., disponibiliza informação atualizada de forma contínua, em tempo real, através de aplicação móvel «Info praia», e no seu sítio na Internet, sobre o estado de ocupação das praias, sem prejuízo do desenvolvimento de outras aplicações.\n\n2 - Para efeitos do disposto no número anterior, o despacho referido no n.º 1 do artigo 11.º determina os métodos e tecnologias que permitem estimar o estado de ocupação das praias, podendo, para esse efeito, ser obtidos, designadamente, dados não pessoais sobre o número de equipamentos eletrónicos ou serem processadas automaticamente manchas de ocupação das praias a partir de dispositivos já existentes que permitam estimar o número de utentes presentes em cada praia.\n\n3 - Para efeitos do número anterior, são definidos, por despacho dos membros do Governo responsáveis pelas áreas do ambiente e das comunicações, os operadores autorizados a fornecer aquela informação à APA, I. P., bem como as entidades responsáveis pela fiscalização e pelo cumprimento dos limites nele estabelecidos, em observância pelo regime de tratamento de dados pessoais e à livre circulação dos mesmos.\n\n4 - A informação prevista nos números anteriores deve ser divulgada, sempre que possível, nos órgãos de comunicação social, nos acessos, nos transportes coletivos de passageiros, estações e paragens que servem as praias.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178627": {
+   "fragment_id": "139805405",
+   "type": 11,
+   "heading": "Artigo 14.º — Zonas de passagem",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 14.º — Zonas de passagem\n\n1 - Deve ser definido, salvo impossibilidade física, apenas um sentido de circulação nos acessos à praia.\n\n2 - Nas praias de banhos com mais de uma entrada deve privilegiar-se uma zona de entrada e outra de saída, assinaladas de forma bem visível e com indicação clara a partir da zona de estacionamento, quando exista.\n\n3 - Nas zonas de passagem estreitas pode ser realizada uma divisão longitudinal, preferencialmente no piso, de forma a permitir a circulação em sentido único e à direita.\n\n4 - A circulação nas zonas de passagem implica a manutenção do distanciamento físico de segurança de um metro e meio entre cada utente, evitando-se as paragens nos acessos.\n\n5 - As entidades concessionárias devem disponibilizar soluções desinfetantes cutâneas que permitam a desinfeção das mãos ou lavatório com sabão líquido junto aos acessos ou, caso não seja possível, recomendar a desinfeção das mãos antes de os utentes se dirigirem à praia.\n\n6 - As entidades concessionárias devem garantir que todos os colaboradores que têm contacto com utentes ou circulam nos espaços comuns utilizam os equipamentos de proteção individual recomendados pela DGS e adequados às suas tarefas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178628": {
+   "fragment_id": "139805406",
+   "type": 1,
+   "heading": "Capítulo IV — Passadeiras, paredão e marginal",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo IV — Passadeiras, paredão e marginal\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178629": {
+   "fragment_id": "139805407",
+   "type": 11,
+   "heading": "Artigo 15.º — Regras de circulação",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 15.º — Regras de circulação\n\n1 - Na circulação nas passadeiras, em paredão e marginal deve ser mantido o distanciamento físico de segurança de um metro e meio entre cada utente.\n\n2 - Para efeitos do disposto no número anterior, devem ser definidos sentidos de circulação e marcas de distanciamento físico indicativas, nos termos do artigo anterior, com as necessárias adaptações.\n\n3 - Nas passadeiras deve destinar-se, preferencialmente, uma para o acesso e outra para a saída, com marcações de espaçamento e de sentido do movimento ou, quando não seja possível, em virtude de a circulação entre as unidades balneares se realizar por uma só passadeira, afixar-se sinalização que informe a necessidade de cumprimento da distância de segurança entre utentes.\n\n4 - Deve ser assegurada a limpeza e desinfeção frequentes das superfícies, de acordo com as orientações definidas pelas autoridades de saúde, e aumentada a periodicidade de manutenção das passadeiras.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178630": {
+   "fragment_id": "139805408",
+   "type": 1,
+   "heading": "Capítulo V — Acesso e funcionamento dos estabelecimentos de praia",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo V — Acesso e funcionamento dos estabelecimentos de praia\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178631": {
+   "fragment_id": "139805409",
+   "type": 11,
+   "heading": "Artigo 16.º — Sinalética e informação",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 16.º — Sinalética e informação\n\n1 - Os apoios de praia, bares, restaurantes, esplanadas, os parques de merendas e os postos de primeiros socorros nas praias de banhos devem afixar informação de sensibilização aos utentes para cumprimento de procedimentos de higiene e segurança a cumprir nas áreas respetivas.\n\n2 - As informações previstas no número anterior devem estar acessíveis aos utentes e constar em vários idiomas, designadamente em português, castelhano e inglês.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178632": {
+   "fragment_id": "139805410",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoios de praia, bares, restaurantes e esplanadas",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 17.º — Apoios de praia, bares, restaurantes e esplanadas\n\n1 - Os apoios de praia, bares, restaurantes e esplanadas nas praias de banhos devem definir um manual de procedimentos que assegure o cumprimento das recomendações definidas pela DGS por parte de trabalhadores e utentes, nomeadamente a higienização dos espaços e instalações sanitárias, a lotação máxima e o distanciamento físico de segurança de dois metros entre utentes, bem como nas zonas de espera.\n\n2 - Os estabelecimentos referidos no número anterior devem garantir a regular higienização das áreas comuns, de superfícies, piso e outras áreas, objetos e equipamentos, com a periodicidade mínima de quatro limpezas diárias, mantendo o respetivo registo, devendo ser seguidas as orientações definidas pela DGS, nomeadamente em matéria de limpeza e desinfeção das superfícies.\n\n3 - Os responsáveis dos apoios de praia, bares e restaurantes avaliam, casuisticamente, a necessidade de reorganização das áreas destinadas a esplanadas, de modo a assegurar o cumprimento do distanciamento físico de segurança.\n\n4 - Para efeitos do disposto no número anterior, pode ser aumentada a área destinada a esplanadas, a autorizar, casuisticamente, pelas autoridades competentes, não podendo interferir com outros usos nem colocar em causa os valores naturais em presença.\n\n5 - Nos casos em que seja aumentada a área nos termos do número anterior, fica a entidade concessionária isenta do pagamento de taxa de recursos hídricos na área da esplanada que resulte desse aumento.\n\n6 - Os estabelecimentos referidos no presente artigo regem-se, supletivamente, pelas regras aplicáveis aos bares, restaurantes e esplanadas fora dos espaços balneares.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178633": {
+   "fragment_id": "139805411",
+   "type": 11,
+   "heading": "Artigo 18.º — Parques de merendas",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 18.º — Parques de merendas\n\nDeve ser efetuada a higienização e limpeza frequente das mesas e cadeiras existentes nos parques de merendas e ser aumentado o número de dispositivos de recolha de resíduos, aumentando a frequência da sua limpeza, e assegurada a distância de dois metros entre cada equipamento.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178634": {
+   "fragment_id": "139805412",
+   "type": 11,
+   "heading": "Artigo 19.º — Postos de primeiros socorros",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 19.º — Postos de primeiros socorros\n\n1 - Os postos de primeiros socorros devem estar dotados com termómetros e equipamento de proteção individual, e compreender uma área destinada ao isolamento de casos suspeitos da doença COVID-19.\n\n2 - Deve ser desenvolvido um plano de contingência para lidar com as situações consideradas suspeitas da doença COVID-19, de acordo com as regras definidas pela DGS, incluindo a identificação do local para onde se deve dirigir qualquer caso suspeito.\n\n3 - O responsável pela gestão do posto de primeiros socorros deve encaminhar os casos suspeitos para o espaço de isolamento e prestar todo o apoio que se revele necessário, interditando a aproximação de qualquer outra pessoa até à chegada da equipa de emergência médica.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178635": {
+   "fragment_id": "139805413",
+   "type": 11,
+   "heading": "Artigo 20.º — Instalações sanitárias",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 20.º — Instalações sanitárias\n\n1 - As instalações sanitárias, incluídas ou não no apoio de praia, devem definir protocolos de higienização, bem como garantir a disponibilização de soluções que permitam a desinfeção cutânea das mãos ou lavatório com sabão líquido para a lavagem das mãos.\n\n2 - Nas instalações sanitárias é obrigatória a utilização de calçado, devendo adotar-se comportamentos de proteção pessoal, tais como a higienização das mãos, a utilização de máscara ou viseira no interior da instalação, a distância de segurança e as medidas de etiqueta respiratória.\n\n3 - No exterior das instalações sanitárias deve ser disponibilizada a informação sobre o número máximo de utentes e a prescrição do distanciamento físico.\n\n4 - Deve ser aumentada a frequência de higienização das instalações sanitárias, devendo manter-se o registo das ações de limpeza efetuadas, bem como garantir a utilização de equipamentos de proteção individual por parte dos trabalhadores responsáveis pelo serviço de limpeza.\n\n5 - Sem prejuízo do disposto no n.º 1 do artigo 25.º, nos chuveiros é obrigatória a utilização de calçado.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178636": {
+   "fragment_id": "139805414",
+   "type": 1,
+   "heading": "Capítulo VI — Resíduos",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo VI — Resíduos\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178637": {
+   "fragment_id": "139805415",
+   "type": 11,
+   "heading": "Artigo 21.º — Gestão de resíduos",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 21.º — Gestão de resíduos\n\n1 - Devem ser disponibilizados, em toda a extensão de praia concessionada, contentores para deposição de resíduos, quer da fração indiferenciada, quer das frações recolhidas seletivamente, com tampa e, preferencialmente, de abertura acionada por pedal.\n\n2 - Em alternativa aos contentores, podem ser disponibilizados suportes para sacos para deposição de resíduos, quer da fração indiferenciada, quer das frações recolhidas seletivamente.\n\n3 - Na extensão de praia não concessionada devem ser disponibilizados, pelas autarquias locais, contentores da fração indiferenciada.\n\n4 - Na zona envolvente aos contentores deve ser colocada uma rede de proteção, de forma a evitar a dispersão dos resíduos, em especial das máscaras, viseiras e luvas.\n\n5 - Deve ser disponibilizada informação sobre as frações a depositar em cada um dos contentores junto aos contentores de deposição de resíduos, constando a informação de que as máscaras, viseiras, luvas e outros equipamentos de proteção individual devem ser colocados no contentor que respeite a resíduos indiferenciados.\n\n6 - Caso se revele necessário, devem ser colocados mais contentores para depósito dos resíduos da fração indiferenciada.\n\n7 - Os contentores devem ser forrados com sacos resistentes.\n\n8 - Deve ser aumentada a frequência de recolha de resíduos, acautelando que o enchimento dos sacos não exceda dois terços da sua capacidade.\n\n9 - Sempre que possível, deve ser adotado o código de cores utilizado a nível nacional.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178638": {
+   "fragment_id": "139805416",
+   "type": 11,
+   "heading": "Artigo 22.º — Recolha de resíduos",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 22.º — Recolha de resíduos\n\n1 - Deve ser cumprido um plano de higienização diário dos contentores ou suportes para sacos, incidindo, sobretudo, nos pontos de contacto, e cumprindo os procedimentos de limpeza e desinfeção definidos pela DGS.\n\n2 - A recolha de resíduos deve ser efetuada com os sacos imediatamente fechados com nó, braçadeira ou atilho, evitando o contacto dos trabalhadores com os resíduos, não devendo os sacos ser calcados ou apertados.\n\n3 - As áreas envolventes aos contentores devem ser desinfetadas e, no caso de existirem resíduos no chão, estes devem ser recolhidos com equipamento apropriado.\n\n4 - Devem ser disponibilizados cinzeiros para recolha de beatas, os quais devem ser higienizados diariamente.\n\n5 - Os estabelecimentos de restauração e bebidas referidos no artigo 17.º devem dispor de contentores para deposição de resíduos com tampa e abertura de acionamento não manual, devendo cumprir os procedimentos de recolha dos resíduos e higienização dos equipamentos.\n\n6 - Os trabalhadores responsáveis pela recolha de resíduos na zona balnear e pela sua higienização devem usar equipamento de proteção individual durante a abertura e o manuseamento dos contentores.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178639": {
+   "fragment_id": "139805417",
+   "type": 1,
+   "heading": "Capítulo VII — Utilização do areal ou da área definida para uso balnear",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo VII — Utilização do areal ou da área definida para uso balnear\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178640": {
+   "fragment_id": "139805418",
+   "type": 11,
+   "heading": "Artigo 23.º — Utilização do areal ou da área definida para uso balnear",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 23.º — Utilização do areal ou da área definida para uso balnear\n\n1 - Na utilização do areal ou da área definida para uso balnear em qualquer praia, devem ser observadas as regras de higiene e segurança definidas pela DGS, mantendo a distância física de segurança de um metro e meio entre cada utente.\n\n2 - O cumprimento da distância física de segurança não é exigível aos utentes que integrem o mesmo grupo.\n\n3 - Em qualquer praia, os chapéus de sol dos utentes que se encontrem sozinhos ou em grupo, devem estar afastados, no mínimo, três metros, contados a partir do limite exterior dos chapéus de sol de outros utentes, que se encontrem sozinhos ou em grupo.\n\n4 - As regras referidas no n.º 1, bem como a informação de sensibilização aos utentes para a adoção de boas práticas, são afixadas em sinalética junto das zonas de acesso à praia.\n\n5 - Podem ser definidos corredores de circulação, paralelos e perpendiculares à linha de costa ou à margem, de acordo com a área disponível e com as condições de cada praia, de modo a desincentivar a circulação aleatória em áreas ocupadas.\n\n6 - As regras de distanciamento físico e os limites de concentração de pessoas aplicam-se na utilização do areal.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178641": {
+   "fragment_id": "139805419",
+   "type": 11,
+   "heading": "Artigo 24.º — Toldos, colmos e barracas de praia",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 24.º — Toldos, colmos e barracas de praia\n\n1 - Nas áreas concessionadas, deve ser assegurado o afastamento de, pelo menos:\n\na) Três metros entre toldos e entre colmos, contados a partir do limite exterior;\n\nb) Um metro e meio entre os limites das barracas, contados a partir do limite exterior.\n\n2 - Pode ser autorizado pelas autoridades competentes o alargamento excecional da área concessionada definida para a colocação de toldos, colmos e barracas, atendendo à necessidade de manter o distanciamento físico de segurança entre os utentes da praia.\n\n3 - A área referida no número anterior pode ser alargada até ocupar, no máximo, dois terços da área útil da praia, devendo ficar reservado pelo menos um terço para a área não concessionada, desde que não coloque em causa outros usos nem os valores naturais em presença.\n\n4 - O aluguer de toldos, colmos ou barracas faz-se por referência a dois períodos temporais do dia, decorrendo o da manhã até às 13h30m, e iniciando-se o da tarde às 14h00m.\n\n5 - A cada pessoa, bem como aos elementos que compõem o mesmo grupo de ocupantes, é apenas permitido o aluguer de toldos, colmos ou barracas, na mesma área concessionada, para um dos períodos de cada dia previstos no número anterior, de modo a permitir que um maior número de pessoas possa usufruir desses equipamentos.\n\n6 - Pode ser excecionado o disposto no número anterior quando o nível de utilização da área concessionada o permita.\n\n7 - O número de utentes por toldo, colmo ou barraca não deve ultrapassar os cinco utentes, devendo o espaço envolvente ser utilizado de forma a garantir a distância de segurança para os ocupantes do toldo, colmo ou barraca seguintes.\n\n8 - Podem ser criadas zonas reservadas a grupos de crianças associadas a atividades de férias e para pessoas com mobilidade condicionada, caso tal permita uma melhor ordenação do espaço.\n\n9 - As entidades concessionárias devem disponibilizar, de forma clara e acessível, informação sobre comportamentos a adotar na utilização dos toldos, colmos e barracas.\n\n10 - A entidade concessionária deve proceder à limpeza dos toldos, colmos e barracas sempre que se regista mudança de utente.\n\n11 - Nas praias com elevada afluência de utentes e em que a hidrodinâmica sedimentar tenha reduzido a área útil da praia, pode ser determinado, pelas autoridades competentes, a redução da área concessionada, por forma a assegurar a necessidade de manter o distanciamento físico de segurança entre os utentes da praia.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178642": {
+   "fragment_id": "139805420",
+   "type": 11,
+   "heading": "Artigo 25.º — Equipamentos",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+   ],
+   "markdown": "###### Artigo 25.º — Equipamentos\n\n1 - Fica interdita a disponibilização e a utilização de quaisquer equipamentos de uso coletivo, considerando-se como tal chuveiros interiores, de corpo ou de pés, e equipamentos passíveis de utilização por mais de duas pessoas em simultâneo, com a exceção prevista no número seguinte.\n\n2 - Quanto aos equipamentos passíveis de utilização por mais de duas pessoas em simultâneo, a sua disponibilização fica sujeita às seguintes condições:\n\na) Não ocupação da área útil da zona destinada ao uso balnear, nomeadamente para efeitos de armazenamento permanente ou temporário dos equipamentos ou para o exercício de atividade relacionada com a disponibilização dos equipamentos;\n\nb) Controlo pelo responsável pela disponibilização dos equipamentos de que os mesmos apenas são utilizados por aqueles a quem foram disponibilizados e que não são utilizados por mais do que uma pessoa, a menos que estejam em causa utentes que compõem um mesmo grupo na praia, sem prejuízo do respeito pela lotação máxima do respetivo equipamento;\n\nc) Cumprimento das obrigações enunciadas no número seguinte.\n\n3 - Os demais equipamentos balneares, nomeadamente chuveiros exteriores de corpo ou de pés, espreguiçadeiras, colchões, cinzeiros de praia, devem ser limpos diariamente de acordo com as orientações definidas pela DGS, relativas à limpeza e desinfeção de superfícies, aquando da respetiva montagem ou colocação e, no decorrer do dia, sempre que se registe a mudança de utente, salvo no que respeita aos chuveiros exteriores em que deve ser reforçada a limpeza ao longo do dia.\n\n4 - No acompanhamento de pessoas com mobilidade reduzida, deve ser garantido o cumprimento dos procedimentos de higiene e segurança, nomeadamente higienização das cadeiras anfíbias após cada utilização, colocação de viseira, pelo utente e acompanhante.\n\n5 - Após cada utilização, cada cadeira anfíbia deve ser lavada no mar, ou, no caso das águas interiores, com uma mangueira.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2020 - Diário da República n.º 153/2020, Série I de 2020-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819), em vigor a partir de 2020-08-08"
+  },
+  "172178643": {
+   "fragment_id": "139805421",
+   "type": 11,
+   "heading": "Artigo 26.º — Equipamentos flutuantes nas águas interiores",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 26.º — Equipamentos flutuantes nas águas interiores\n\nSó podem ser instalados equipamentos flutuantes de apoio ao banho nas águas interiores, caso os mesmos sejam essenciais para prevenir riscos associados à segurança no banho, devendo ser definido, para cada equipamento, um número máximo de utentes, de forma a salvaguardar o distanciamento físico de segurança recomendado, cujo controlo compete ao nadador-salvador.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178644": {
+   "fragment_id": "139805422",
+   "type": 11,
+   "heading": "Artigo 27.º — Venda ambulante na praia",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 27.º — Venda ambulante na praia\n\n1 - É permitida a venda ambulante nas praias, desde que respeitadas as regras e orientações de higiene e segurança definidas pelas autoridades de saúde.\n\n2 - É obrigatório o uso de máscara ou viseira pelo vendedor no contacto com os utentes.\n\n3 - A circulação de vendedores ambulantes na praia deve fazer-se, preferencialmente, nos corredores de circulação de utentes da praia, devendo os vendedores respeitar as regras de distanciamento físico de segurança, efetuar a disponibilização dos alimentos através de pinça, sempre que adequado, e respeitar as orientações definidas pela DGS relativas à limpeza e desinfeção de superfícies.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178645": {
+   "fragment_id": "139805423",
+   "type": 11,
+   "heading": "Artigo 28.º — Atividades não individuais no mar ou na área definida para uso balnear",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 28.º — Atividades não individuais no mar ou na área definida para uso balnear\n\n1 - Na área definida para o uso balnear das praias, não são permitidas as atividades de natureza desportiva que envolvam duas ou mais pessoas, bem como atividades de prestação de serviços de massagens e atividades análogas, não devendo ser montados ou colocados equipamentos ou definidos espaços que promovam a sua realização.\n\n2 - Excetuam-se do disposto no número anterior as aulas promovidas por escolas ou instrutores de surf e de desportos similares, desde que respeitado o número máximo de cinco participantes por instrutor, devendo garantir-se o distanciamento físico de segurança recomendado de um metro e meio entre cada participante, tanto em terra como no mar.\n\n3 - Nas atividades náuticas individuais, devem ser cumpridas as regras e orientações de distanciamento físico de segurança, de etiqueta respiratória, de higiene das mãos e de limpeza e desinfeção de superfícies, definidas pela DGS.\n\n4 - Na limpeza dos equipamentos prevista no número anterior, é proibida a utilização de produtos com hipoclorito de sódio e de produtos biocidas.\n\n5 - As atividades culturais e religiosas na área definida para uso balnear das praias devem respeitar as regras de distanciamento social e de higiene e segurança.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178646": {
+   "fragment_id": "139805424",
+   "type": 11,
+   "heading": "Artigo 29.º — Higienização de espaços de uso público",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 29.º — Higienização de espaços de uso público\n\nNa higienização de espaços de uso público, nomeadamente passadeiras, paredões e equipamentos na área definida para uso balnear, é proibida a utilização de produtos com hipoclorito de sódio e biocidas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178647": {
+   "fragment_id": "139805425",
+   "type": 1,
+   "heading": "Capítulo VIII — Piscinas ao ar livre",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo VIII — Piscinas ao ar livre\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178648": {
+   "fragment_id": "139805426",
+   "type": 11,
+   "heading": "Artigo 30.º — Piscinas ao ar livre",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 30.º — Piscinas ao ar livre\n\n1 - O regime do presente decreto-lei é aplicável ao funcionamento das piscinas ao ar livre com as necessárias adaptações.\n\n2 - As regras especiais a adotar quanto à ocupação e à utilização das piscinas ao ar livre, e bem assim quanto à garantia da qualidade da água, salubridade e segurança das instalações, são aprovadas, no prazo máximo de sete dias a contar da data da publicação do presente decreto-lei, por despacho dos membros do Governo responsáveis pelas áreas da economia, das autarquias locais e da saúde, considerando as orientações da DGS.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178649": {
+   "fragment_id": "139805427",
+   "type": 1,
+   "heading": "Capítulo IX — Assistência e fiscalização",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo IX — Assistência e fiscalização\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178650": {
+   "fragment_id": "139805428",
+   "type": 11,
+   "heading": "Artigo 31.º — Assistência a banhistas",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 31.º — Assistência a banhistas\n\n1 - As autoridades competentes e as autarquias locais devem reforçar os meios para a assistência a banhistas nas áreas não concessionadas em praias de grande dimensão.\n\n2 - Nas ações de salvamento, as ações do suporte básico de vida, no contexto da pandemia da doença COVID-19, devem seguir as recomendações emitidas pelo Instituto de Socorros a Náufragos.\n\n3 - O disposto no número anterior aplica-se também às situações particulares das águas não identificadas como águas balneares, previstas na portaria a aprovar pelos membros do Governo responsáveis pelas áreas da defesa nacional e do ambiente, nos termos previstos no n.º 6 do artigo 4.º do Decreto-Lei n.º 135/2009, de 3 de junho, na sua redação atual, e na Lei n.º 44/2004, de 19 de agosto, na sua redação atual, em que possa ser garantida a presença de nadadores-salvadores.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178651": {
+   "fragment_id": "139805429",
+   "type": 11,
+   "heading": "Artigo 32.º — Acompanhamento e fiscalização",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 32.º — Acompanhamento e fiscalização\n\n1 - Compete às autoridades de saúde, em conjunto com a APA, I. P., através dos seus serviços regionais, e em articulação com os órgãos locais da Direção-Geral da Autoridade Marítima e com a proteção civil municipal, efetuar a avaliação e monitorização das situações que podem colocar em risco a segurança dos utentes para proteção da saúde pública nas praias, bem como definir e implementar as respetivas medidas que sejam necessárias adotar.\n\n2 - A fiscalização do cumprimento do disposto no presente decreto-lei compete aos órgãos locais da AMN e à Polícia Marítima em particular, à Guarda Nacional Republicana, à Polícia de Segurança Pública, às Polícias Municipais, às autoridades de proteção civil, às autoridades de saúde, à APA, I. P., à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, às autoridades portuárias, as quais se devem articular entre si.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178652": {
+   "fragment_id": "139805430",
+   "type": 11,
+   "heading": "Artigo 33.º — Interdição de praias",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 33.º — Interdição de praias\n\nA APA, I. P., a AMN, o Comando Distrital de Proteção Civil e as autarquias locais podem determinar a interdição de acesso à praia por motivos de saúde pública, designadamente em virtude do incumprimento grave dos deveres que impendem sobre as entidades concessionárias e os utentes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178653": {
+   "fragment_id": "139805431",
+   "type": 1,
+   "heading": "Capítulo X — Disposição final",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "### Capítulo X — Disposição final\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178654": {
+   "fragment_id": "139805432",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172178655": {
+   "fragment_id": "139805433",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "Visto e aprovado no Conselho de Ministros de 15 de maio de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 20 de maio de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de maio de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113264417\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  }
+ }
+}

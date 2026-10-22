@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:256604:por
+title: Decreto-Lei n.º 48802
+short_title: null
+summary: Cria os Serviços Sociais da Guarda Fiscal e define os seus objectivos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Comando-Geral da Guarda Fiscal
+proposing_entity: null
+official_number: '48802'
+official_date: null
+publication_date: '1968-12-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 304/1968, Série I de 1968-12-27
+  number: '304'
+  series: I
+  supplement: null
+  pages: 1926 - 1927
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30400/19261927.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '256604'
+  dre_path: /dr/detalhe/decreto-lei/48802-1968-256604
+  internal: pt:dre:256604:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-12-27T00:00:00Z'
+integrity:
+  source_sha256: 4a8a136d4720b76344475e3d5831aa109fc3a3593db1629dcc8b80580839e24e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1968/DRE-1968-48802-256604.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48802
+
+Entre as providências adoptadas pelo Governo no sentido de melhorar as condições económico-sociais dos servidores do Estado figura a criação de organismos especialmente destinados a exercer adequada acção social.
+
+Vários têm sido os diplomas legais publicados nesse domínio. E ainda recentemente o [Decreto-Lei n.º 48687](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48687-1968-263727), de 15 de Novembro de 1968, instituiu os Serviços Sociais do Ministério da Economia.
+
+As forças armadas, a Guarda Nacional Republicana e a Polícia de Segurança Pública já possuem os seus serviços sociais. O presente diploma vem satisfazer idênticos objectivos em relação à Guarda Fiscal.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º São criados os Serviços Sociais da Guarda Fiscal (S. S. G. F.), os quais têm por fim desenvolver os laços de solidariedade entre os componentes da Guarda Fiscal e seus familiares, auxiliando a satisfação das suas necessidades de ordem económica, social e cultural.
+
+###### Art. 2.º - 1. Os S. S. G. F. são dotados de personalidade jurídica, gozam de autonomia jurídica e financeira, estão isentos de custas e selos em todos os processos em que forem partes ou interessados e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficiam de todas as facilidades conferidas por lei às instituições oficiais de assistência.
+
+2. Ficam integrados desde já nos S. S. G. F. todos os valores, móveis e imóveis da Assistência da Guarda Fiscal e do Cofre de Previdência dos Oficiais e Praças da Guarda Fiscal ou a estes já destinados.
+
+###### Art. 3.º A acção dos S. S. G. F. exercer-se-á nos domínios da previdência, da assistência, da habitação, dos abastecimentos, do alojamento temporário e convívio social, do repouso e recreação, da educação e cultura e de outras actividades afins, em termos a definir em portaria do Ministro das Finanças.
+
+###### Art. 4.º Para efeito da comparticipação do Fundo de Desemprego, a que se refere o artigo 110.º do [Decreto n.º 21699](https://diariodarepublica.pt/dr/detalhe/decreto/21699-1932-598347), de 30 de Setembro de 1932, são consideradas incluídas na alínea b) do artigo 109.º do citado decreto a construção de casas económicas destinadas a arrendamento simples, assim como a construção de edifícios para qualquer dos fins designados no artigo 3.º do presente diploma.
+
+###### Art. 5.º São obrigatòriamente beneficiários dos S. S. G. F. os sargentos e praças, os quais pagarão por desconto nos seus vencimentos quotizações legalmente fixadas para a Assistência e Cofre da corporação.
+
+###### Art. 6.º Podem ser admitidos como beneficiários dos S. S. G. F., ficando sujeitos às respectivas quotizações:
+
+a) Os oficiais em serviço na Guarda Fiscal, mesmo que continuem a usufruir dos benefícios concedidos pelos Serviços Sociais das Forças Armadas;
+
+b) Os oficiais subscritores dos S. S. G. F., mesmo depois de finda a comissão de serviço na corporação;
+
+c) Os sargentos e praças na situação de reforma, salvo se esta tiver sido compulsiva;
+
+d) O pessoal civil contratado ou assalariado pela Guarda Fiscal.
+
+###### Art. 7.º Beneficiam igualmente dos S. S. G. F. as pessoas de família a cargo dos subscritores.
+
+###### Art. 8.º - 1. Os S. S. G. F. compreendem uma direcção e uma inspecção e têm por órgãos de execução um conselho administrativo e uma secretaria.
+
+2. A direcção é composta por um director e um secretário-geral, sendo estes cargos desempenhados, respectivamente, pelo comandante-geral e pelo 2.º comandante-geral da Guarda Fiscal.
+
+###### Art. 9.º A direcção actua na dependência do Ministro das Finanças, a quem incumbe, por intermédio do comandante-geral da Guarda Fiscal, definir a política orientadora das actividades sociais.
+
+###### Art. 10.º - 1. Enquanto não for fixado um quadro próprio, o serviço dos S. S. G. F. pode ser desempenhado, em regime de acumulação, por oficiais em serviço na Guarda Fiscal e, bem assim, por graduados e praças designados pelo comandante-geral.
+
+2. Mediante aprovação do Ministro das Finanças, o comandante-geral pode contratar ou assalariar o pessoal civil necessário ao funcionamento dos serviços, sendo os correspondentes encargos suportados pelos fundos próprios dos S. S. G. F.
+
+###### Art. 11.º Constituem receita dos S. S. G. F.:
+
+a) A quotização dos subscritores e os juros dos empréstimos a eles concedidos;
+
+b) Os rendimentos dos bens próprios e o produto da sua alienação;
+
+c) As percentagens, a fixar pelo comandante-geral, sobre os lucros anuais das cantinas da Guarda Fiscal, sobre os saldos anuais do fundo de alfaiataria e das oficinas de calçado e sobre os lucros anuais das explorações agro-pecuárias;
+
+d) 10 por cento dos emolumentos cobrados pelo pessoal da Guarda Fiscal, depois de deduzidas as percentagens estabelecidas para o Estado;
+
+e) 10 por cento da parte que pertencer aos apreensores ou participantes na venda de mercadorias e transportes apreendidos ou nas multas impostas por infracções fiscais, desde que a apreensão ou participação tenha sido feita por pessoal da Guarda Fiscal;
+
+f) Os subsídios, comparticipações, donativos, doações e legados do Estado e de outras entidades públicas ou particulares;
+
+g) O produto líquido das festas organizadas pela Guarda Fiscal com fins assistenciais;
+
+h) O produto da venda de vinhetas dos S. S. G. F. destinadas a ser facultativamente apostas nos requerimentos, certidões, queixas, solicitações e vistos apresentados na Guarda Fiscal;
+
+i) Quaisquer outras receitas que lhe venham a ser atribuídas.
+
+###### Art. 12.º A realização de empréstimos e a alienação de imóveis carecem de autorização do Ministro das Finanças.
+
+###### Art. 13.º Os saldos das contas de gerência verificados num ano económico transitarão, qualquer que seja a sua proveniência, para a nova conta, podendo ser aplicados no pagamento de despesas orçamentadas para anos económicos seguintes.
+
+###### Art. 14.º - 1. A organização e funcionamento dos S. S. G. F. constarão de regulamentos aprovados pelo Ministro das Finanças.
+
+2. Enquanto não forem publicados os regulamentos dos S. S. G. F., continuarão em vigor o Estatuto de Assistência da Guarda Fiscal, aprovado por portaria do Ministério das Finanças de 30 de Novembro de 1943 e publicado no Boletim Oficial da Guarda Fiscal n.º 4, de 31 de Dezembro de 1943, e os Estatutos do Cofre de Previdência dos Oficiais e Praças da Guarda Fiscal, aprovados pelo Decreto-Lei n.º 41042, de 25 de Março de 1957.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+**Promulgado em 18 de Dezembro de 1968.**
+
+**Publique-se.**
+
+Presidência da República, 27 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

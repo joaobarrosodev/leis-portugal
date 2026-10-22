@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:335211:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-123422996",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2010-335211",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123426753",
+    "123356807",
+    "123356808",
+    "123356809",
+    "123356810",
+    "123356811",
+    "123356812",
+    "123356813",
+    "123356814",
+    "123356815",
+    "123356816",
+    "123356817",
+    "123356818",
+    "123356820",
+    "123356821",
+    "123356822",
+    "123356823"
+   ]
+  },
+  {
+   "date": "2015-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72909748:por",
+     "title": "Decreto Legislativo Regional n.º 25/2015/A",
+     "published": "2015-12-17",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/25-2015-72909748"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "123356806",
+    "123356807",
+    "123356808",
+    "123426752",
+    "123356810",
+    "123356811",
+    "123356812",
+    "123356813",
+    "123356814",
+    "123356815",
+    "123356816",
+    "123356817",
+    "123356818",
+    "123356819",
+    "123356820",
+    "123356821",
+    "123356822",
+    "123356823"
+   ]
+  },
+  {
+   "date": "2019-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123407858:por",
+     "title": "Decreto Legislativo Regional n.º 16/2019/A",
+     "published": "2019-07-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2019-123407858"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "123426753",
+    "123426754",
+    "123426755",
+    "123426756",
+    "123426757",
+    "123426758",
+    "123426759",
+    "123426760",
+    "123426761",
+    "123426762",
+    "123426763",
+    "123426764",
+    "123426765",
+    "123426766",
+    "123426767",
+    "123426768",
+    "123426769",
+    "123426770"
+   ]
+  }
+ ],
+ "fragments": {
+  "123426753": {
+   "fragment_id": "123422997",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-07-28",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/2010/A\n\nEstabelece os princípios orientadores da organização e da gestão curricular da educação básica para o sistema educativo regional\n\nO conceito de currículo regional foi introduzido na política educativa açoriana através do Decreto Legislativo Regional n.º 15/2001/A, de 4 de Agosto. Ao definir currículo regional como «o conjunto de aprendizagens e competências a desenvolver pelos alunos que se fundamentam nas características geográficas, económicas, sociais, culturais e político-administrativas dos Açores», ao garantir o respeito pelo currículo nacional e ao eleger a relevância das aprendizagens como um dos princípios orientadores da organização e gestão do currículo na Região, assumiu-se que a açorianidade, enquanto condição justificadora de adequação curricular, constitui uma referência incontornável na construção de uma abordagem mais significativa ao currículo nacional.\n\nA publicação da Resolução n.º 124/2004, de 9 de Setembro, constituiu mais um passo importante na progressiva explicitação de aprendizagens cuja realização por parte dos alunos açorianos deve ser promovida através de abordagens que tenham em conta as características dos Açores. Com esta iniciativa, através da qual se aprovou um conjunto de competências essenciais do currículo regional do ensino básico e se situou parte dessas competências em contextos de insularidade e açorianidade, a organização do currículo na Região tornou-se mais facilitadora da promoção de aprendizagens especialmente significativas para os jovens açorianos. O destaque destes contextos de significado, através da enumeração de competências a eles associadas, sendo vantajoso em termos de explicitação de pistas de contextualização regional das aprendizagens, comporta, no entanto, o risco de veiculação de uma ideia de currículo regional como adição ao currículo nacional. Para evitar este risco, importa, agora, reforçar a afirmação da ideia de currículo regional como adaptação orgânica do currículo nacional. Além disto, é necessário ter em conta que o próprio currículo nacional tem sido cada vez mais sujeito a um fenómeno de convergência internacional, resultante da globalização em geral e, num plano mais particular, da articulação entre as políticas nacionais e as políticas europeias de educação e formação. Por isso, e porque o respeito pela identidade regional é compatível com a demanda de padrões nacionais e internacionais de qualidade, importa, também, continuar a apostar, por um lado, num currículo orientado para o desenvolvimento de competências, na linha das recomendações dos órgãos de governo da União Europeia, e, por outro, na criação de condições para que o domínio dessas competências, por parte dos alunos, seja progressivamente melhorado. Num contexto de escola inclusiva, a prossecução deste desiderato exige que, em simultâneo, se encare a identidade regional como factor de relevância curricular e se maximize a exploração de ligações entre fenómenos regionais e fenómenos globais.\n\nA necessidade de equilíbrio entre a fidelidade ao currículo nacional, a valorização da autonomia curricular das escolas e a assunção de responsabilidades de política curricular a nível regional aconselham, ainda, a consolidação de um desenho curricular que, em simultâneo, seja compatível com o que é veiculado pelo Decreto-Lei n.º 6/2001, de 18 de Janeiro, alterado pelo Decreto-Lei n.º 209/2002, de 17 de Outubro, e reflicta as ênfases e prioridades de política curricular legitimamente assumidas na Região Autónoma dos Açores, tais como o aumento do tempo dedicado ao ensino da Língua Portuguesa e da Matemática e a obrigatoriedade de frequência de uma língua estrangeira desde o 1.º ciclo. Neste sentido, o despacho n.º 858/2009, de 30 de Julho, possibilitou a aplicação, em regime de inovação pedagógica, durante o ano lectivo de 2009-2010, de um desenho curricular que o presente diploma visa melhorar e consolidar, na sequência de um processo de auscultação a um amplo conjunto de entidades que, de forma directa ou indirecta, se relacionam com o sistema educativo regional.\n\nForam ouvidas as associações sindicais do sector da educação.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, no desenvolvimento da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de Outubro, e nos termos das alíneas a) e c) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:\n\n> Nota: [Artigo 22.º, Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858) A revogação operada pelo decreto legislativo regional n.º 16/2019/A, de 23 de julho, produz efeitos a partir do ano letivo de: a) 2019/2020, no que respeita ao pré-escolar e aos 1.º, 5.º e 7.º anos de escolaridade; b) 2020/2021, no que respeita aos 2.º, 6.º e 8.º anos de escolaridade; c) 2021/2022, no que respeita aos 3.º e 9.º anos de escolaridade; d) 2022/2023, no que respeita ao 4.º ano de escolaridade."
+  },
+  "123356807": {
+   "fragment_id": "123422998",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "123356808": {
+   "fragment_id": "123422999",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma estabelece os princípios orientadores da organização e da gestão curricular da educação básica no sistema educativo regional.\n\n2 - Os princípios orientadores definidos no presente diploma aplicam-se às diferentes ofertas formativas da educação básica."
+  },
+  "123356809": {
+   "fragment_id": "123423000",
+   "type": 11,
+   "heading": "Artigo 2.º — Currículo regional da educação básica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Currículo regional da educação básica\n\n1 - Entende-se por currículo regional da educação básica (CREB) o conjunto de competências a desenvolver pelos alunos que frequentam o sistema educativo regional ao longo da educação básica, o desenho curricular, as orientações metodológicas, os possíveis contributos das diferentes áreas curriculares para a abordagem da açorianidade e as orientações para a avaliação das competências e aprendizagens dos alunos.\n\n2 - O currículo regional da educação básica concretiza-se no respeito pelos objectivos consagrados na Lei de Bases do Sistema Educativo, pelos princípios orientadores do currículo nacional e pelas competências e aprendizagens essenciais estabelecidas a nível nacional para cada ciclo de ensino.\n\n3 - O currículo regional da educação básica procura criar condições para uma maior qualidade do processo de ensino e de aprendizagem e para a consequente melhoria dos resultados escolares dos alunos, nomeadamente através da adequação dos desenhos curriculares, anexos ao presente diploma, às necessidades do sistema educativo regional.\n\n4 - As estratégias de desenvolvimento do currículo da educação básica são objecto de um projecto curricular de escola, concebido, aprovado e avaliado pelos órgãos de administração e gestão da unidade orgânica, tendo em vista a sua adequação ao contexto.\n\n5 - O projecto curricular de escola, enquanto instrumento de exercício da autonomia curricular, deve ser organizado da forma que a unidade orgânica considerar mais adequada ao desempenho da sua missão, sem prejuízo da explicitação das seguintes componentes fundamentais:\n\na) As características da escola e da comunidade em que se insere, com destaque para os elementos susceptíveis de serem explorados numa perspectiva curricular;\n\nb) A oferta formativa;\n\nc) As opções assumidas pela unidade orgânica em termos de distribuição da carga horária, nas áreas curriculares em que tal situação esteja prevista;\n\nd) As principais estratégias a desenvolver para dar resposta, no plano curricular, às características da escola e da comunidade educativa, visando o desenvolvimento das competências curriculares e a demanda dos mais elevados níveis de desempenho;\n\ne) As orientações metodológicas e de selecção e organização de materiais curriculares;\n\nf) As estratégias promotoras da articulação curricular horizontal entre diferentes áreas curriculares num mesmo ano de escolaridade;\n\ng) As estratégias promotoras da articulação curricular vertical entre ciclos e entre anos de escolaridade;\n\nh) As modalidades e os critérios de avaliação das aprendizagens.\n\n6 - O projecto curricular de turma deve ser coerente com o projecto curricular de escola e incluir a caracterização da turma, destacando os elementos susceptíveis de serem explorados numa perspectiva curricular e as linhas estratégicas de desenvolvimento do currículo em função desta caracterização.\n\n7 - O projecto curricular de turma deve contemplar as estratégias metodológicas específicas de desenvolvimento do currículo e da avaliação caso as características e as necessidades da turma exijam respostas diferenciadas das definidas no projecto curricular de escola.\n\n8 - O processo educativo do aluno, formalizado em modelo a aprovar por despacho do membro do Governo Regional com competência em matéria de educação, acompanha o percurso escolar do aluno, facilitando a sua integração aquando da transição entre turmas, ciclos ou escolas.\n\n9 - A elaboração e actualização do processo educativo do aluno é da responsabilidade do educador/professor titular de turma ou do director de turma, nos 2.º e 3.º ciclos, e contém toda a informação sobre o aluno que possa contribuir para a construção de respostas educativas adequadas às suas características."
+  },
+  "123356810": {
+   "fragment_id": "123423001",
+   "type": 1,
+   "heading": "Capítulo II — Organização e gestão do currículo regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e gestão do currículo regional"
+  },
+  "123356811": {
+   "fragment_id": "123423002",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nA organização e a gestão do currículo regional da educação básica subordinam-se aos seguintes princípios orientadores:\n\na) Respeito pelo currículo nacional do ensino básico;\n\nb) Coerência com as políticas curriculares da União Europeia;\n\nc) Assunção da identidade açoriana enquanto factor incontornável de relevância curricular e significatividade das aprendizagens;\n\nd) Valorização de outras referências identitárias, numa perspectiva de educação inclusiva, respeitadora da diversidade cultural, étnica e religiosa e promotora da diferenciação curricular;\n\ne) Respeito pela autonomia curricular das escolas, expressa nos seus projectos curriculares;\n\nf) Promoção de uma cultura de exigência, através da demanda de padrões nacionais e internacionais de qualidade;\n\ng) Maximização da exploração da relação entre o significado local e o significado global das aprendizagens."
+  },
+  "123356812": {
+   "fragment_id": "123423003",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização\n\n1 - São aprovados os desenhos curriculares da educação básica, constantes dos anexos i, ii, iii e iv do presente diploma e do qual fazem parte integrante.\n\n2 - O desenho curricular da educação pré-escolar, constante do anexo i, integra a área de formação pessoal e social, a área de expressão e comunicação e a área de conhecimento do mundo. A área de expressão e comunicação compreende três domínios: o domínio das expressões, com diferentes vertentes: expressão motora, expressão dramática, expressão plástica e expressão musical; o domínio da linguagem oral e abordagem à escrita e o domínio da matemática.\n\n3 - Na educação pré-escolar devem promover-se dinâmicas de trabalho que privilegiem a pesquisa e a experimentação.\n\n4 - O desenho curricular dos três ciclos do ensino básico, constante dos anexos ii, iii e iv, integra áreas curriculares disciplinares e não disciplinares, bem como a carga horária semanal de cada uma delas.\n\n5 - Para efeitos do disposto no número anterior, consideram-se as seguintes áreas curriculares não disciplinares:\n\na) No 1.º ciclo a «Cidadania» corresponde a um espaço curricular privilegiado para o desenvolvimento da formação pessoal e social e da consciência cívica dos alunos como elementos fundamentais no processo de formação de cidadãos responsáveis, participativos e críticos, a partir de um conjunto de temáticas e de orientações curriculares adequadas;\n\nb) No 2.º ciclo a «Cidadania» corresponde a um espaço curricular privilegiado para o desenvolvimento da formação pessoal e social e da literacia digital, a partir de um conjunto de temáticas e de orientações curriculares adequadas, e com recurso às tecnologias da informação e da comunicação, pretendendo-se que os alunos desenvolvam projectos promotores de uma consciência cívica crítica e empreendedora e que dominem progressivamente essas tecnologias;\n\nc) No 3.º ciclo a «Cidadania» corresponde a um espaço curricular privilegiado para o desenvolvimento da formação pessoal e social e da literacia digital, a partir de um conjunto de temáticas e de orientações curriculares adequadas, e com recurso às tecnologias da informação e da comunicação, pretendendo-se que os alunos aperfeiçoem o seu domínio dessas tecnologias e reforcem a sua consciência cívica crítica e empreendedora, através do desenvolvimento de projectos com impacte na comunidade.\n\n6 - No 1.º ciclo do ensino básico o docente titular de turma é directamente responsável pela gestão das áreas curriculares nucleares identificadas no anexo ii, quer as disciplinares quer a não disciplinar, em regime de monodocência, durante 25 horas semanais.\n\n7 - Nos 2.º e 3.º ciclos, a área curricular não disciplinar, Cidadania, é assegurada por um par pedagógico, sendo um dos elementos o director de turma e o outro um docente de Tecnologias da Informação e Comunicação ou com conhecimentos nesta área.\n\n8 - O trabalho a desenvolver pelos alunos no 1.º ciclo inclui actividades experimentais, nomeadamente no ensino das ciências, assim como actividades de pesquisa e de utilização das tecnologias da informação e comunicação, adequadas à idade dos alunos e à natureza das diferentes áreas curriculares.\n\n9 - No 1.º ciclo a área de expressões inclui a Expressão Artística e a Expressão Físico-Motora.\n\n10 - A Expressão Físico-Motora desenvolve-se em três momentos semanais, sendo que o docente titular de turma conta com a coadjuvação de um professor de Educação Física, do 2.º ciclo, em dois momentos semanais de quarenta e cinco minutos cada.\n\n11 - Nos 2.º e 3.º ciclos as componentes do currículo organizam-se em blocos de noventa minutos, respeitando-se os tempos mínimos e máximos constantes dos anexos iii e iv.\n\n12 - No 2.º ciclo cabe a cada unidade orgânica definir, no seu Projecto Curricular de Escola, a distribuição da carga horária da área curricular de Educação Artística e Tecnológica, respeitando o total obrigatório do ciclo e assegurando que nenhuma disciplina tem menos de dois blocos no fim do ciclo.\n\n13 - No 3.º ciclo cabe a cada unidade orgânica definir, no seu Projecto Curricular de Escola, a distribuição da carga horária das áreas curriculares de Língua Estrangeira, Ciências Humanas e Sociais e Ciências Físicas e Naturais, respeitando os tempos mínimos e máximos constantes do anexo iv.\n\n14 - No 3.º ciclo pode ser oferecida a possibilidade de os alunos dos 7.º e 8.º anos frequentarem uma disciplina da área da educação artística - Educação Musical, Teatro ou Dança - numa organização equitativa com Educação Tecnológica. Caso a escola não ofereça esta possibilidade, a disciplina de Educação Tecnológica tem a mesma carga horária de Educação Visual.\n\n15 - No 9.º ano do conjunto de disciplinas da área artística e tecnológica os alunos escolhem uma de entre as que frequentaram nos 7.º e 8.º anos.\n\n16 - No 2.º ciclo, na disciplina de Educação Visual e Tecnológica, e no 3.º ciclo, na disciplina de Educação Tecnológica, a leccionação é assegurada por um par pedagógico sempre que as turmas tenham mais de 15 alunos.\n\n17 - No 3.º ciclo as disciplinas da área curricular de Ciências Físicas e Naturais organizam-se em turnos de quarenta e cinco ou de noventa minutos, conforme opção expressa no Projecto Curricular de Escola, para permitir o desenvolvimento de actividades laboratoriais.\n\n18 - Em todos os ciclos do ensino básico é obrigatória a oferta da disciplina de Educação Moral e Religiosa, sendo a sua frequência facultativa.\n\n19 - Nos 2.º e 3.º ciclos a Educação Moral e Religiosa é leccionada em regime opcional a outra disciplina ou área curricular não disciplinar a definir pela unidade orgânica."
+  },
+  "123356813": {
+   "fragment_id": "123423004",
+   "type": 11,
+   "heading": "Artigo 5.º — Formações transdisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formações transdisciplinares\n\nConstituem formações transdisciplinares a Educação para a Cidadania, o Desenvolvimento da Autonomia e de Competências de Investigação, bem como o domínio da Língua Portuguesa e da Literacia Digital."
+  },
+  "123356814": {
+   "fragment_id": "123423005",
+   "type": 11,
+   "heading": "Artigo 6.º — Línguas estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Línguas estrangeiras\n\n1 - A aprendizagem de uma língua estrangeira inicia-se obrigatoriamente no 1.º ciclo, de modo a proporcionar aos alunos o domínio da língua, num crescendo de apropriação e fluência, com ênfase na sua expressão oral e segundo orientações curriculares aprovadas por portaria do membro do Governo Regional com competência em matéria de educação.\n\n2 - A língua estrangeira no 1.º ciclo é uma área curricular de enriquecimento, leccionada por um docente com habilitação para o 2.º ciclo, em duas sessões semanais de quarenta e cinco minutos cada, para além das 25 horas do currículo nuclear dos alunos.\n\n3 - A aprendizagem de uma segunda língua estrangeira é obrigatória no 3.º ciclo."
+  },
+  "123356815": {
+   "fragment_id": "123423006",
+   "type": 11,
+   "heading": "Artigo 7.º — Língua portuguesa como segunda língua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Língua portuguesa como segunda língua\n\nAs escolas devem proporcionar actividades curriculares específicas para a aprendizagem da língua portuguesa como segunda língua aos alunos cuja língua materna não seja a portuguesa, a regulamentar por portaria do membro do Governo Regional com competência em matéria de educação."
+  },
+  "123356816": {
+   "fragment_id": "123423007",
+   "type": 11,
+   "heading": "Artigo 8.º — Actividades de enriquecimento do currículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Actividades de enriquecimento do currículo\n\nAs escolas, no desenvolvimento do seu projecto educativo e curricular, devem proporcionar aos alunos actividades de enriquecimento do currículo de carácter facultativo, de natureza eminentemente lúdica e cultural, incidindo, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e voluntariado e da dimensão europeia na educação."
+  },
+  "123356817": {
+   "fragment_id": "123423008",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nAs matérias definidas no n.º 1 do artigo 2.º do presente diploma, com excepção do desenho curricular, são regulamentadas por decreto regulamentar regional."
+  },
+  "123356818": {
+   "fragment_id": "123423009",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir do ano escolar de 2010-2011 em todos os anos da educação básica."
+  },
+  "123356820": {
+   "fragment_id": "123423011",
+   "type": 14,
+   "heading": "Anexo I — Matriz curricular do pré-escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Matriz curricular do pré-escolar\n\n(ver documento original)"
+  },
+  "123356821": {
+   "fragment_id": "123423012",
+   "type": 14,
+   "heading": "Anexo II — Matriz curricular do 1.º ciclo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Matriz curricular do 1.º ciclo\n\n(ver documento original)"
+  },
+  "123356822": {
+   "fragment_id": "123423013",
+   "type": 14,
+   "heading": "Anexo III — Matriz curricular do 2.º ciclo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Matriz curricular do 2.º ciclo\n\n(ver documento original)"
+  },
+  "123356823": {
+   "fragment_id": "123423014",
+   "type": 14,
+   "heading": "Anexo IV — Matriz curricular do 3.º ciclo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Matriz curricular do 3.º ciclo\n\n(ver documento original)"
+  },
+  "123356806": {
+   "fragment_id": "123422997",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/2010/A\n\nEstabelece os princípios orientadores da organização e da gestão curricular da educação básica para o sistema educativo regional\n\nO conceito de currículo regional foi introduzido na política educativa açoriana através do Decreto Legislativo Regional n.º 15/2001/A, de 4 de Agosto. Ao definir currículo regional como «o conjunto de aprendizagens e competências a desenvolver pelos alunos que se fundamentam nas características geográficas, económicas, sociais, culturais e político-administrativas dos Açores», ao garantir o respeito pelo currículo nacional e ao eleger a relevância das aprendizagens como um dos princípios orientadores da organização e gestão do currículo na Região, assumiu-se que a açorianidade, enquanto condição justificadora de adequação curricular, constitui uma referência incontornável na construção de uma abordagem mais significativa ao currículo nacional.\n\nA publicação da Resolução n.º 124/2004, de 9 de Setembro, constituiu mais um passo importante na progressiva explicitação de aprendizagens cuja realização por parte dos alunos açorianos deve ser promovida através de abordagens que tenham em conta as características dos Açores. Com esta iniciativa, através da qual se aprovou um conjunto de competências essenciais do currículo regional do ensino básico e se situou parte dessas competências em contextos de insularidade e açorianidade, a organização do currículo na Região tornou-se mais facilitadora da promoção de aprendizagens especialmente significativas para os jovens açorianos. O destaque destes contextos de significado, através da enumeração de competências a eles associadas, sendo vantajoso em termos de explicitação de pistas de contextualização regional das aprendizagens, comporta, no entanto, o risco de veiculação de uma ideia de currículo regional como adição ao currículo nacional. Para evitar este risco, importa, agora, reforçar a afirmação da ideia de currículo regional como adaptação orgânica do currículo nacional. Além disto, é necessário ter em conta que o próprio currículo nacional tem sido cada vez mais sujeito a um fenómeno de convergência internacional, resultante da globalização em geral e, num plano mais particular, da articulação entre as políticas nacionais e as políticas europeias de educação e formação. Por isso, e porque o respeito pela identidade regional é compatível com a demanda de padrões nacionais e internacionais de qualidade, importa, também, continuar a apostar, por um lado, num currículo orientado para o desenvolvimento de competências, na linha das recomendações dos órgãos de governo da União Europeia, e, por outro, na criação de condições para que o domínio dessas competências, por parte dos alunos, seja progressivamente melhorado. Num contexto de escola inclusiva, a prossecução deste desiderato exige que, em simultâneo, se encare a identidade regional como factor de relevância curricular e se maximize a exploração de ligações entre fenómenos regionais e fenómenos globais.\n\nA necessidade de equilíbrio entre a fidelidade ao currículo nacional, a valorização da autonomia curricular das escolas e a assunção de responsabilidades de política curricular a nível regional aconselham, ainda, a consolidação de um desenho curricular que, em simultâneo, seja compatível com o que é veiculado pelo Decreto-Lei n.º 6/2001, de 18 de Janeiro, alterado pelo Decreto-Lei n.º 209/2002, de 17 de Outubro, e reflicta as ênfases e prioridades de política curricular legitimamente assumidas na Região Autónoma dos Açores, tais como o aumento do tempo dedicado ao ensino da Língua Portuguesa e da Matemática e a obrigatoriedade de frequência de uma língua estrangeira desde o 1.º ciclo. Neste sentido, o despacho n.º 858/2009, de 30 de Julho, possibilitou a aplicação, em regime de inovação pedagógica, durante o ano lectivo de 2009-2010, de um desenho curricular que o presente diploma visa melhorar e consolidar, na sequência de um processo de auscultação a um amplo conjunto de entidades que, de forma directa ou indirecta, se relacionam com o sistema educativo regional.\n\nForam ouvidas as associações sindicais do sector da educação.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, no desenvolvimento da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de Outubro, e nos termos das alíneas a) e c) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "123426752": {
+   "fragment_id": "123423000",
+   "type": 11,
+   "heading": "Artigo 2.º — Currículo regional da educação básica",
+   "in_force_from": "2015-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+   ],
+   "markdown": "###### Artigo 2.º — Currículo regional da educação básica\n\n1 - Entende-se por currículo regional da educação básica (CREB) o conjunto de competências a desenvolver pelos alunos que frequentam o sistema educativo regional ao longo da educação básica, o desenho curricular, as orientações metodológicas, os possíveis contributos das diferentes áreas curriculares para a abordagem da açorianidade e as orientações para a avaliação das competências e aprendizagens dos alunos.\n\n2 - O currículo regional da educação básica concretiza-se no respeito pelos objectivos consagrados na Lei de Bases do Sistema Educativo, pelos princípios orientadores do currículo nacional e pelas competências e aprendizagens essenciais estabelecidas a nível nacional para cada ciclo de ensino.\n\n3 - O currículo regional da educação básica procura criar condições para uma maior qualidade do processo de ensino e de aprendizagem e para a consequente melhoria dos resultados escolares dos alunos, nomeadamente através da adequação dos desenhos curriculares, anexos ao presente diploma, às necessidades do sistema educativo regional.\n\n4 - As estratégias de desenvolvimento do currículo da educação básica são objecto de um projecto curricular de escola, concebido, aprovado e avaliado pelos órgãos de administração e gestão da unidade orgânica, tendo em vista a sua adequação ao contexto.\n\n5 - O projecto curricular de escola, enquanto instrumento de exercício da autonomia curricular, deve ser organizado da forma que a unidade orgânica considerar mais adequada ao desempenho da sua missão, sem prejuízo da explicitação das seguintes componentes fundamentais:\n\na) As características da escola e da comunidade em que se insere, com destaque para os elementos susceptíveis de serem explorados numa perspectiva curricular;\n\nb) A oferta formativa;\n\nc) As opções assumidas pela unidade orgânica em termos de distribuição da carga horária, nas áreas curriculares em que tal situação esteja prevista;\n\nd) As principais estratégias a desenvolver para dar resposta, no plano curricular, às características da escola e da comunidade educativa, visando o desenvolvimento das competências curriculares e a demanda dos mais elevados níveis de desempenho;\n\ne) As orientações metodológicas e de selecção e organização de materiais curriculares;\n\nf) As estratégias promotoras da articulação curricular horizontal entre diferentes áreas curriculares num mesmo ano de escolaridade;\n\ng) As estratégias promotoras da articulação curricular vertical entre ciclos e entre anos de escolaridade;\n\nh) As modalidades e os critérios de avaliação das aprendizagens.\n\n6 - O projecto curricular de turma deve ser coerente com o projecto curricular de escola e incluir a caracterização da turma, destacando os elementos susceptíveis de serem explorados numa perspectiva curricular e as linhas estratégicas de desenvolvimento do currículo em função desta caracterização.\n\n7 - O projecto curricular de turma deve contemplar as estratégias metodológicas específicas de desenvolvimento do currículo e da avaliação caso as características e as necessidades da turma exijam respostas diferenciadas das definidas no projecto curricular de escola.\n\n8 - O processo educativo do aluno, formalizado em modelo a aprovar por despacho do membro do Governo Regional com competência em matéria de educação, acompanha o percurso escolar do aluno, facilitando a sua integração aquando da transição entre turmas, ciclos ou escolas.\n\n9 - A elaboração e actualização do processo educativo do aluno é da responsabilidade do educador/professor titular de turma ou do director de turma, nos 2.º e 3.º ciclos, e contém toda a informação sobre o aluno que possa contribuir para a construção de respostas educativas adequadas às suas características.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+  },
+  "123356819": {
+   "fragment_id": "123423010",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Maio de 2010.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 11 de Junho de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "123426754": {
+   "fragment_id": "123422998",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "### Capítulo I — Princípios gerais\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426755": {
+   "fragment_id": "123422999",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma estabelece os princípios orientadores da organização e da gestão curricular da educação básica no sistema educativo regional.\n\n2 - Os princípios orientadores definidos no presente diploma aplicam-se às diferentes ofertas formativas da educação básica.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426756": {
+   "fragment_id": "123423000",
+   "type": 11,
+   "heading": "Artigo 2.º — Currículo regional da educação básica",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+   ],
+   "markdown": "###### Artigo 2.º — Currículo regional da educação básica\n\n1 - Entende-se por currículo regional da educação básica (CREB) o conjunto de competências a desenvolver pelos alunos que frequentam o sistema educativo regional ao longo da educação básica, o desenho curricular, as orientações metodológicas, os possíveis contributos das diferentes áreas curriculares para a abordagem da açorianidade e as orientações para a avaliação das competências e aprendizagens dos alunos.\n\n2 - O currículo regional da educação básica concretiza-se no respeito pelos objectivos consagrados na Lei de Bases do Sistema Educativo, pelos princípios orientadores do currículo nacional e pelas competências e aprendizagens essenciais estabelecidas a nível nacional para cada ciclo de ensino.\n\n3 - O currículo regional da educação básica procura criar condições para uma maior qualidade do processo de ensino e de aprendizagem e para a consequente melhoria dos resultados escolares dos alunos, nomeadamente através da adequação dos desenhos curriculares, anexos ao presente diploma, às necessidades do sistema educativo regional.\n\n4 - As estratégias de desenvolvimento do currículo da educação básica são objecto de um projecto curricular de escola, concebido, aprovado e avaliado pelos órgãos de administração e gestão da unidade orgânica, tendo em vista a sua adequação ao contexto.\n\n5 - O projecto curricular de escola, enquanto instrumento de exercício da autonomia curricular, deve ser organizado da forma que a unidade orgânica considerar mais adequada ao desempenho da sua missão, sem prejuízo da explicitação das seguintes componentes fundamentais:\n\na) As características da escola e da comunidade em que se insere, com destaque para os elementos susceptíveis de serem explorados numa perspectiva curricular;\n\nb) A oferta formativa;\n\nc) As opções assumidas pela unidade orgânica em termos de distribuição da carga horária, nas áreas curriculares em que tal situação esteja prevista;\n\nd) As principais estratégias a desenvolver para dar resposta, no plano curricular, às características da escola e da comunidade educativa, visando o desenvolvimento das competências curriculares e a demanda dos mais elevados níveis de desempenho;\n\ne) As orientações metodológicas e de selecção e organização de materiais curriculares;\n\nf) As estratégias promotoras da articulação curricular horizontal entre diferentes áreas curriculares num mesmo ano de escolaridade;\n\ng) As estratégias promotoras da articulação curricular vertical entre ciclos e entre anos de escolaridade;\n\nh) As modalidades e os critérios de avaliação das aprendizagens.\n\n6 - O projecto curricular de turma deve ser coerente com o projecto curricular de escola e incluir a caracterização da turma, destacando os elementos susceptíveis de serem explorados numa perspectiva curricular e as linhas estratégicas de desenvolvimento do currículo em função desta caracterização.\n\n7 - O projecto curricular de turma deve contemplar as estratégias metodológicas específicas de desenvolvimento do currículo e da avaliação caso as características e as necessidades da turma exijam respostas diferenciadas das definidas no projecto curricular de escola.\n\n8 - O processo educativo do aluno, formalizado em modelo a aprovar por despacho do membro do Governo Regional com competência em matéria de educação, acompanha o percurso escolar do aluno, facilitando a sua integração aquando da transição entre turmas, ciclos ou escolas.\n\n9 - A elaboração e actualização do processo educativo do aluno é da responsabilidade do educador/professor titular de turma ou do director de turma, nos 2.º e 3.º ciclos, e contém toda a informação sobre o aluno que possa contribuir para a construção de respostas educativas adequadas às suas características.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+  },
+  "123426757": {
+   "fragment_id": "123423001",
+   "type": 1,
+   "heading": "Capítulo II — Organização e gestão do currículo regional",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "### Capítulo II — Organização e gestão do currículo regional\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426758": {
+   "fragment_id": "123423002",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nA organização e a gestão do currículo regional da educação básica subordinam-se aos seguintes princípios orientadores:\n\na) Respeito pelo currículo nacional do ensino básico;\n\nb) Coerência com as políticas curriculares da União Europeia;\n\nc) Assunção da identidade açoriana enquanto factor incontornável de relevância curricular e significatividade das aprendizagens;\n\nd) Valorização de outras referências identitárias, numa perspectiva de educação inclusiva, respeitadora da diversidade cultural, étnica e religiosa e promotora da diferenciação curricular;\n\ne) Respeito pela autonomia curricular das escolas, expressa nos seus projectos curriculares;\n\nf) Promoção de uma cultura de exigência, através da demanda de padrões nacionais e internacionais de qualidade;\n\ng) Maximização da exploração da relação entre o significado local e o significado global das aprendizagens.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426759": {
+   "fragment_id": "123423003",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 4.º — Organização\n\n1 - São aprovados os desenhos curriculares da educação básica, constantes dos anexos i, ii, iii e iv do presente diploma e do qual fazem parte integrante.\n\n2 - O desenho curricular da educação pré-escolar, constante do anexo i, integra a área de formação pessoal e social, a área de expressão e comunicação e a área de conhecimento do mundo. A área de expressão e comunicação compreende três domínios: o domínio das expressões, com diferentes vertentes: expressão motora, expressão dramática, expressão plástica e expressão musical; o domínio da linguagem oral e abordagem à escrita e o domínio da matemática.\n\n3 - Na educação pré-escolar devem promover-se dinâmicas de trabalho que privilegiem a pesquisa e a experimentação.\n\n4 - O desenho curricular dos três ciclos do ensino básico, constante dos anexos ii, iii e iv, integra áreas curriculares disciplinares e não disciplinares, bem como a carga horária semanal de cada uma delas.\n\n5 - Para efeitos do disposto no número anterior, consideram-se as seguintes áreas curriculares não disciplinares:\n\na) No 1.º ciclo a «Cidadania» corresponde a um espaço curricular privilegiado para o desenvolvimento da formação pessoal e social e da consciência cívica dos alunos como elementos fundamentais no processo de formação de cidadãos responsáveis, participativos e críticos, a partir de um conjunto de temáticas e de orientações curriculares adequadas;\n\nb) No 2.º ciclo a «Cidadania» corresponde a um espaço curricular privilegiado para o desenvolvimento da formação pessoal e social e da literacia digital, a partir de um conjunto de temáticas e de orientações curriculares adequadas, e com recurso às tecnologias da informação e da comunicação, pretendendo-se que os alunos desenvolvam projectos promotores de uma consciência cívica crítica e empreendedora e que dominem progressivamente essas tecnologias;\n\nc) No 3.º ciclo a «Cidadania» corresponde a um espaço curricular privilegiado para o desenvolvimento da formação pessoal e social e da literacia digital, a partir de um conjunto de temáticas e de orientações curriculares adequadas, e com recurso às tecnologias da informação e da comunicação, pretendendo-se que os alunos aperfeiçoem o seu domínio dessas tecnologias e reforcem a sua consciência cívica crítica e empreendedora, através do desenvolvimento de projectos com impacte na comunidade.\n\n6 - No 1.º ciclo do ensino básico o docente titular de turma é directamente responsável pela gestão das áreas curriculares nucleares identificadas no anexo ii, quer as disciplinares quer a não disciplinar, em regime de monodocência, durante 25 horas semanais.\n\n7 - Nos 2.º e 3.º ciclos, a área curricular não disciplinar, Cidadania, é assegurada por um par pedagógico, sendo um dos elementos o director de turma e o outro um docente de Tecnologias da Informação e Comunicação ou com conhecimentos nesta área.\n\n8 - O trabalho a desenvolver pelos alunos no 1.º ciclo inclui actividades experimentais, nomeadamente no ensino das ciências, assim como actividades de pesquisa e de utilização das tecnologias da informação e comunicação, adequadas à idade dos alunos e à natureza das diferentes áreas curriculares.\n\n9 - No 1.º ciclo a área de expressões inclui a Expressão Artística e a Expressão Físico-Motora.\n\n10 - A Expressão Físico-Motora desenvolve-se em três momentos semanais, sendo que o docente titular de turma conta com a coadjuvação de um professor de Educação Física, do 2.º ciclo, em dois momentos semanais de quarenta e cinco minutos cada.\n\n11 - Nos 2.º e 3.º ciclos as componentes do currículo organizam-se em blocos de noventa minutos, respeitando-se os tempos mínimos e máximos constantes dos anexos iii e iv.\n\n12 - No 2.º ciclo cabe a cada unidade orgânica definir, no seu Projecto Curricular de Escola, a distribuição da carga horária da área curricular de Educação Artística e Tecnológica, respeitando o total obrigatório do ciclo e assegurando que nenhuma disciplina tem menos de dois blocos no fim do ciclo.\n\n13 - No 3.º ciclo cabe a cada unidade orgânica definir, no seu Projecto Curricular de Escola, a distribuição da carga horária das áreas curriculares de Língua Estrangeira, Ciências Humanas e Sociais e Ciências Físicas e Naturais, respeitando os tempos mínimos e máximos constantes do anexo iv.\n\n14 - No 3.º ciclo pode ser oferecida a possibilidade de os alunos dos 7.º e 8.º anos frequentarem uma disciplina da área da educação artística - Educação Musical, Teatro ou Dança - numa organização equitativa com Educação Tecnológica. Caso a escola não ofereça esta possibilidade, a disciplina de Educação Tecnológica tem a mesma carga horária de Educação Visual.\n\n15 - No 9.º ano do conjunto de disciplinas da área artística e tecnológica os alunos escolhem uma de entre as que frequentaram nos 7.º e 8.º anos.\n\n16 - No 2.º ciclo, na disciplina de Educação Visual e Tecnológica, e no 3.º ciclo, na disciplina de Educação Tecnológica, a leccionação é assegurada por um par pedagógico sempre que as turmas tenham mais de 15 alunos.\n\n17 - No 3.º ciclo as disciplinas da área curricular de Ciências Físicas e Naturais organizam-se em turnos de quarenta e cinco ou de noventa minutos, conforme opção expressa no Projecto Curricular de Escola, para permitir o desenvolvimento de actividades laboratoriais.\n\n18 - Em todos os ciclos do ensino básico é obrigatória a oferta da disciplina de Educação Moral e Religiosa, sendo a sua frequência facultativa.\n\n19 - Nos 2.º e 3.º ciclos a Educação Moral e Religiosa é leccionada em regime opcional a outra disciplina ou área curricular não disciplinar a definir pela unidade orgânica.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426760": {
+   "fragment_id": "123423004",
+   "type": 11,
+   "heading": "Artigo 5.º — Formações transdisciplinares",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Formações transdisciplinares\n\nConstituem formações transdisciplinares a Educação para a Cidadania, o Desenvolvimento da Autonomia e de Competências de Investigação, bem como o domínio da Língua Portuguesa e da Literacia Digital.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426761": {
+   "fragment_id": "123423005",
+   "type": 11,
+   "heading": "Artigo 6.º — Línguas estrangeiras",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Línguas estrangeiras\n\n1 - A aprendizagem de uma língua estrangeira inicia-se obrigatoriamente no 1.º ciclo, de modo a proporcionar aos alunos o domínio da língua, num crescendo de apropriação e fluência, com ênfase na sua expressão oral e segundo orientações curriculares aprovadas por portaria do membro do Governo Regional com competência em matéria de educação.\n\n2 - A língua estrangeira no 1.º ciclo é uma área curricular de enriquecimento, leccionada por um docente com habilitação para o 2.º ciclo, em duas sessões semanais de quarenta e cinco minutos cada, para além das 25 horas do currículo nuclear dos alunos.\n\n3 - A aprendizagem de uma segunda língua estrangeira é obrigatória no 3.º ciclo.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426762": {
+   "fragment_id": "123423006",
+   "type": 11,
+   "heading": "Artigo 7.º — Língua portuguesa como segunda língua",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Língua portuguesa como segunda língua\n\nAs escolas devem proporcionar actividades curriculares específicas para a aprendizagem da língua portuguesa como segunda língua aos alunos cuja língua materna não seja a portuguesa, a regulamentar por portaria do membro do Governo Regional com competência em matéria de educação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426763": {
+   "fragment_id": "123423007",
+   "type": 11,
+   "heading": "Artigo 8.º — Actividades de enriquecimento do currículo",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Actividades de enriquecimento do currículo\n\nAs escolas, no desenvolvimento do seu projecto educativo e curricular, devem proporcionar aos alunos actividades de enriquecimento do currículo de carácter facultativo, de natureza eminentemente lúdica e cultural, incidindo, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e voluntariado e da dimensão europeia na educação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426764": {
+   "fragment_id": "123423008",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nAs matérias definidas no n.º 1 do artigo 2.º do presente diploma, com excepção do desenho curricular, são regulamentadas por decreto regulamentar regional.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426765": {
+   "fragment_id": "123423009",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir do ano escolar de 2010-2011 em todos os anos da educação básica.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426766": {
+   "fragment_id": "123423010",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Maio de 2010.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 11 de Junho de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426767": {
+   "fragment_id": "123423011",
+   "type": 14,
+   "heading": "Anexo I — Matriz curricular do pré-escolar",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "## Anexo I — Matriz curricular do pré-escolar\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426768": {
+   "fragment_id": "123423012",
+   "type": 14,
+   "heading": "Anexo II — Matriz curricular do 1.º ciclo",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "## Anexo II — Matriz curricular do 1.º ciclo\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426769": {
+   "fragment_id": "123423013",
+   "type": 14,
+   "heading": "Anexo III — Matriz curricular do 2.º ciclo",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "## Anexo III — Matriz curricular do 2.º ciclo\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  },
+  "123426770": {
+   "fragment_id": "123423014",
+   "type": 14,
+   "heading": "Anexo IV — Matriz curricular do 3.º ciclo",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+   ],
+   "markdown": "## Anexo IV — Matriz curricular do 3.º ciclo\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 16/2019/A - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2019-123407858), em vigor a partir de 2019-07-28"
+  }
+ }
+}

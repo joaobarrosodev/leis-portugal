@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114602434:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/2018-114816585",
+ "dre_path": "/dr/detalhe/decreto/6-2018-114602434",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114918176"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:114908236:por",
+     "title": "Declaração de Retificação n.º 12/2018",
+     "published": "2018-03-23",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/12-2018-114908236",
+     "date": "2018-02-04"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "114918176": {
+   "fragment_id": "114816586",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-02-04",
+   "changed_by": [],
+   "markdown": "Decreto n.º 6/2018\n\nde 30 de janeiro\n\nO Governo decreta, nos termos da alínea e) do artigo 199.º da Constituição o seguinte:\n\nConsiderando o disposto no n.º 2 do artigo 24.º do Decreto-Lei n.º 204/2006, de 27 de outubro, conjugado com o disposto no artigo 30.º do Decreto-Lei n.º 121/2011, de 29 de dezembro, e no artigo 20.º do Decreto-Lei n.º 40-A/98, de 27 de fevereiro;\n\nO Ministro Plenipotenciário de 1.ª classe Bernardo Luís de Carvalho Futscher Pereira é promovido a Embaixador, com efeitos a 1 de janeiro de 2018, na vaga resultante da passagem à situação de disponibilidade do Embaixador Paulo Tiago Fernandes Jerónimo da Silva.\n\nEm 22 de dezembro de 2017. - O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva."
+  }
+ }
+}

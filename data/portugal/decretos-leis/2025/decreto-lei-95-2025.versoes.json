@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:928937305:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-928937343",
+ "dre_path": "/dr/detalhe/decreto-lei/95-2025-928937305",
+ "source_lastmod": "2026-09-10",
+ "versions": [
+  {
+   "date": "2026-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1166155909:por",
+     "title": "Decreto-Lei n.º 176/2026",
+     "published": "2026-09-03",
+     "dre_path": "/dr/detalhe/decreto-lei/176-2026-1166155909"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "929017201",
+    "1166973875",
+    "1166974075",
+    "1166974275",
+    "929017205",
+    "929017206",
+    "929017207"
+   ]
+  }
+ ],
+ "fragments": {
+  "929017201": {
+   "fragment_id": "928937344",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A crescente utilização de equipamentos ou aparelhos eletrónicos com acesso à Internet, como telemóveis comummente designados smartphones, por crianças e jovens em contexto escolar tem suscitado séria preocupação acerca dos impactos negativos no desenvolvimento das aprendizagens, na socialização e no bem-estar dos alunos, como tem sido amplamente reconhecido pela comunidade científica e por organismos nacionais e internacionais. A evidência empírica, de âmbito nacional e internacional, associa o uso excessivo destes equipamentos tecnológicos a situações de isolamento social e ao aumento de casos de indisciplina e de comportamentos de risco.\n\nNeste quadro, e em face da massificação do acesso e da utilização deste tipo de equipamentos tecnológicos no espaço escolar, a adoção de medidas de restrição ou, mesmo, de proibição tem vindo a ser considerada, por diretores e por outros responsáveis operacionais de escolas, como um importante contributo para a melhoria do clima educativo, pelo que se revela necessário e uma mais-valia proceder ao desenvolvimento do regime jurídico aplicável neste domínio.\n\nNeste sentido, é essencial concretizar o disposto na Lei n.º 51/2012, de 5 de setembro, que aprova o Estatuto do Aluno e Ética Escolar, em especial no respetivo artigo 10.º, na parte relativa à regulação das condições de utilização no espaço escolar de equipamentos ou aparelhos eletrónicos de comunicação móvel com acesso à Internet por parte dos alunos do 1.º e do 2.º ciclos do ensino básico. Em decorrência, torna-se necessário prever regras claras, aplicáveis a nível nacional, que promovam ambientes escolares mais seguros, inclusivos e propícios à aprendizagem e, assim, o desenvolvimento dos alunos, os objetivos pedagógicos e educativos das escolas e o bem-estar das crianças e dos jovens.\n\nDeste modo, e em consonância com os compromissos assumidos no Programa do XXV Governo Constitucional, estabelece-se a regra geral da proibição da utilização de telemóveis e de quaisquer outros equipamentos ou aparelhos eletrónicos de comunicação móvel com acesso à Internet pelos alunos do 1.º e do 2.º ciclos do ensino básico, em todo o espaço escolar e durante o horário de funcionamento do estabelecimento de ensino, incluindo nos períodos não letivos.\n\nSem prejuízo da autonomia pedagógica das escolas na organização do quotidiano educativo, o regime estabelecido no presente decreto-lei contempla um conjunto de exceções, expressamente delimitadas, que permitem a utilização destes equipamentos tecnológicos em situações devidamente justificadas por razões pedagógicas, de saúde ou de tradução, desde que previamente autorizadas por um docente responsável ou pelo responsável da atividade.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, o Conselho Nacional de Educação, o Conselho das Escolas, a Associação dos Estabelecimentos de Ensino Particular e Cooperativo e a CONFAP - Confederação Nacional das Associações de Pais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1166973875": {
+   "fragment_id": "928937345",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2026 - Diário da República n.º 171/2026, Série I de 2026-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2026-1166155909), em vigor a partir de 2026-09-04."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula a utilização, no espaço escolar, de equipamentos ou aparelhos eletrónicos de comunicação móvel com acesso à Internet pelos alunos dos 1.º, 2.º e 3.º ciclos do ensino básico, desenvolvendo o regime previsto no artigo 10.º da Lei n.º 51/2012, de 5 de setembro, que aprova o Estatuto do Aluno e Ética Escolar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2026 - Diário da República n.º 171/2026, Série I de 2026-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2026-1166155909), em vigor a partir de 2026-09-04."
+  },
+  "1166974075": {
+   "fragment_id": "928937346",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2026-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2026 - Diário da República n.º 171/2026, Série I de 2026-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2026-1166155909), em vigor a partir de 2026-09-04."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei é aplicável aos alunos dos 1.º, 2.º e 3.º ciclos do ensino básico:\n\na) Dos estabelecimentos públicos de educação escolar, incluindo nas suas modalidades especiais, bem como das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação, Ciência e Inovação;\n\nb) Dos estabelecimentos de ensino particular e cooperativo de nível não superior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2026 - Diário da República n.º 171/2026, Série I de 2026-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2026-1166155909), em vigor a partir de 2026-09-04."
+  },
+  "1166974275": {
+   "fragment_id": "928937347",
+   "type": 11,
+   "heading": "Artigo 3.º — Proibição de utilização",
+   "in_force_from": "2026-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2026 - Diário da República n.º 171/2026, Série I de 2026-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2026-1166155909), em vigor a partir de 2026-09-04."
+   ],
+   "markdown": "###### Artigo 3.º — Proibição de utilização\n\n1 - Durante o horário de funcionamento do estabelecimento de ensino, incluindo nos períodos não letivos, e em todo o espaço escolar, o aluno tem o dever de não utilizar equipamentos ou quaisquer outros aparelhos eletrónicos de comunicação móvel com acesso à Internet, designadamente telemóveis ou tablets.\n\n2 - O disposto no número anterior não se aplica nas seguintes situações, desde que previamente autorizadas pelo docente responsável ou pelo responsável pelo trabalho ou pela atividade:\n\na) Quando se trate de aluno com domínio muito reduzido da língua portuguesa, para o qual a utilização do equipamento ou aparelho eletrónico com acesso à Internet se revele necessária para efeitos de tradução;\n\nb) Quando se trate de aluno que, por razões de saúde devidamente comprovadas, careça das funcionalidades do equipamento ou aparelho eletrónico com acesso à Internet; ou\n\nc) Quando a utilização do equipamento ou aparelho eletrónico com acesso à Internet decorra no âmbito de atividades pedagógicas ou de avaliação, em sala de aula ou fora dela, incluindo em visitas de estudo;\n\nd) Quando se trate de aluno em regime de internato, no período não letivo, em horários e espaços definidos pelas direções dos estabelecimentos de ensino.\n\n3 - Nas situações previstas no número anterior, havendo necessidade de utilização permanente ou continuada, pode o diretor do estabelecimento público ou o diretor pedagógico do estabelecimento particular e cooperativo, consoante o caso, conceder autorização para o efeito, fixando a respetiva duração, a qual pode ser renovada se os respetivos pressupostos se mantiverem.\n\n4 - A violação pelo aluno do disposto no n.º 1 constitui infração disciplinar, a qual é passível da aplicação de medida corretiva ou de medida disciplinar sancionatória, nos termos previstos na Lei n.º 51/2012, de 5 de setembro, que aprova o Estatuto do Aluno e Ética Escolar.\n\n5 - Em caso de infração ao disposto no n.º 1, compete aos docentes e aos funcionários dos estabelecimentos de ensino adotar as medidas que se revelem necessárias, adequadas e proporcionais à cessação da conduta ilícita.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2026 - Diário da República n.º 171/2026, Série I de 2026-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2026-1166155909), em vigor a partir de 2026-09-04."
+  },
+  "929017205": {
+   "fragment_id": "928937348",
+   "type": 11,
+   "heading": "Artigo 4.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regulamentos internos\n\n1 - Os regulamentos internos dos estabelecimentos escolares devem, no prazo de 90 dias, a contar da data da entrada em vigor do presente decreto-lei, ser adaptados ao regime nele previsto.\n\n2 - A aplicação do regime estabelecido no presente decreto-lei, incluindo a proibição da utilização de equipamentos ou aparelhos eletrónicos de comunicação móvel com acesso à Internet, não depende da adaptação prevista no número anterior."
+  },
+  "929017206": {
+   "fragment_id": "928937349",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "929017207": {
+   "fragment_id": "928937350",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de julho de 2025. - Luís Montenegro - Fernando Alexandre.\n\nPromulgado em 7 de agosto de 2025.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de agosto de 2025.\n\nO Primeiro-Ministro, Luís Montenegro.\n\n119423893"
+  }
+ }
+}

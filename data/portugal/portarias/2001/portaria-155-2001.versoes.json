@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:372987:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-934135250",
+ "dre_path": "/dr/detalhe/portaria/155-2001-372987",
+ "source_lastmod": "2025-09-04",
+ "versions": [
+  {
+   "date": "2001-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "933651646"
+   ]
+  }
+ ],
+ "fragments": {
+  "933651646": {
+   "fragment_id": "934135251",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 155/2001\n\nde 3 de Março\n\nSob proposta do Instituto Politécnico de Santarém e da sua Escola Superior de Educação;\n\nConsiderando o disposto no artigo 31.º da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro);\n\nConsiderando o disposto na Portaria n.º 760-A/98, de 14 de Setembro;\n\nConsiderando o disposto na Portaria n º 281-B/99, de 24 de Abril;\n\nAo abrigo do disposto na Lei do Estatuto e Autonomia dos Estabelecimentos de Ensino Superior Politécnico (Lei n.º 54/90, de 5 de Setembro), no Decreto-Lei n.º 255/98, de 11 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:"
+  }
+ }
+}

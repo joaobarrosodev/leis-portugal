@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:575169:por
+title: Portaria n.º 454/90
+short_title: null
+summary: Estabelece o regime simplificado de introdução em livre prática e ou no consumo de produtos petrolíferos e seus derivados
+  saídos de armazéns afiançados ou dos locais de produção
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 454/90
+official_date: null
+publication_date: '1990-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/1990, Série I de 1990-06-20
+  number: '140'
+  series: I
+  supplement: null
+  pages: 2581 - 2584
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14000/25812584.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575169'
+  dre_path: /dr/detalhe/portaria/454-1990-575169
+  internal: pt:dre:575169:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/454-1990-575169
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/454-1990-575169
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-06-20T00:00:00Z'
+integrity:
+  source_sha256: 9e4031db43dbe2e3e79d1f0d595ac93addb2b5bcf189f79ac5ea295eaa91bc55
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-454-575169.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 454/90
+
+de 20 de Junho
+
+Considerando a elevada sensibilidade aduaneira e fiscal dos produtos petrolíferos e seus derivados e a necessidade de se fixarem regras claras de controlo na sua movimentação e armazenagem;
+
+Considerando as características específicas destes produtos, no que se refere à complexidade da medição, elevada volatilidade e dificuldades de transporte;
+
+Considerando a necessidade de se instituírem mecanismos simplificados de desalfandegamento, na senda das orientações adoptadas no âmbito das Comunidades Europeias:
+
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, o seguinte:
+
+I
+
+Disposições gerais
+
+1.º A presente portaria estabelece o regime simplificado de introdução em livre prática e ou no consumo de produtos petrolíferos e seus derivados saídos de armazéns afiançados ou dos locais de produção.
+
+2.º Para efeitos da presente portaria, considera-se:
+
+a) Locais de produção - instalações industriais onde são produzidos os produtos petrolíferos por destilação, refinação, mistura ou qualquer outro processo, mediante autorização e controlo das autoridades aduaneiras;
+
+b) Armazém afiançado de produtos petrolíferos - o conjunto dos tanques de terra e dos tanques dos batelões utilizados pelo depositário para armazenar o mesmo produto petrolífero, mediante autorização e controlo das autoridades aduaneiras;
+
+c) Estância aduaneira competente - a estância aduaneira a que seja atribuída competência, por despacho do Ministro das Finanças, para aceitação das declarações de introdução em livre prática e ou no consumo de produtos petrolíferos e seus derivados;
+
+d) Declaração simplificada - a declaração, conforme modelo constante do anexo I à presente portaria, individualizada por regime precedente, meio de transporte, origem do produto e ou destinatários que beneficiem de isenção ou redução de impostos internos, respeitante às saídas diárias de cada armazém afiançado constantes das respectivas notas de carregamento. Esta declaração pode ser elaborada por meios informáticos;
+
+e) Nota de carregamento - o registo de cada saída do armazém afiançado, contendo, obrigatoriamente, os seguintes elementos: o número sequencial de saída, a identificação do produto, a quantidade à temperatura observada, a temperatura observada e o número do tanque;
+
+f) Depositário - qualquer pessoa, singular ou colectiva, autorizada a gerir um armazém afiançado de produtos petrolíferos e seus derivados;
+
+g) Óleos leves - os óleos e preparados que destilem, em volume, compreendendo as perdas, 90% ou mais à temperatura de 210ºC, segundo o método ASTM D 86;
+
+h) Óleos médios - os óleos e preparados que destilem, em volume, compreendendo as perdas, menos de 90% à temperatura de 210ºC e 65% ou mais à temperatura de 250ºC, segundo o método ASTM D 86;
+
+i) Óleos pesados - os óleos e preparados que destilem, em volume, compreendendo as perdas, menos de 65% à temperatura de 250ºC ou relativamente aos quais a percentagem de destilação, à temperatura de 250ºC, não se possa determinar por esse método;
+
+j) Método ASTM - os métodos fixados pela American Society for Testing and Materials sobre definições e especificações de referência para os produtos petrolíferos e seus derivados.
+
+3.º O regime instituído pela presente portaria será concedido às empresas que satisfaçam os seguintes requisitos:
+
+a) Prestem na alfândega respectiva uma garantia anual, de acordo com as modalidades permitidas pela legislação aduaneira, arbitrada pelo director da mesma alfândega, que responda pelos direitos e demais imposições devidos pelas mercadorias saídas do armazém afiançado ou dos locais de produção durante o período de globalização;
+
+b) Possuam uma contabilidade organizada por armazém afiançado, de acordo com os modelos de fichas constantes dos anexos II e III, consoante a unidade de tributação seja o litro a 15ºC ou o quilograma (ar), podendo tais modelos ser impressos por computador.
+
+4.º A gestão dos produtos de origem nacional depositados nestes armazéns deverá obedecer ao sistema de contabilização FIFO (first in first out), de tal modo que, em termos contabilísticos, as existências nos armazéns afiançados correspondam sempre às últimas mercadorias entradas.
+
+II
+
+Tolerâncias admissíveis nas transferências e na armazenagem de produtos petrolíferos e seus derivados
+
+5.º As estâncias aduaneiras competentes procederão a controlos das quantidades de produtos saídos dos locais de produção e das quantidades entradas nos armazéns afiançados e das transferências de produtos efectuadas entre estes armazéns, sendo toleradas, desde que efectivamente constatadas, as seguintes diferenças médias, por trimestre:
+
+a) Se o meio de transporte utilizado for navio-tanque, será permitida uma tolerância, para mais ou para menos, até ao limite de 0,4% para os óleos leves e médios e 0,35% para os óleos pesados;
+
+b) Se o meio de transporte utilizado for vagão-cisterna ou camião-cisterna, será permitida uma tolerância, para mais ou para menos, até ao limite de 0,5% para os óleos leves e médios e 0,4% para os óleos pesados;
+
+c) Se a transferência for efectuada por tubagem, será permitida uma tolerância, para mais ou para menos, até ao limite de 0,02% para os óleos leves e médios e 0,01% para os óleos pesados.
+
+6.º A empresa recebedora será responsável pelas diferenças, para menos, que ultrapassem os limites previstos no n.º 5.º, mediante a observância dos seguintes procedimentos:
+
+a) Pagamento dos direitos e demais imposições, nos termos do § único do artigo 133.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, salvo se provar, a contento das autoridades aduaneiras, que essas diferenças ocorreram em consequência de caso fortuito ou de força maior;
+
+b) Processamento, no final de cada trimestre, de declaração de introdução em livre prática e ou no consumo, feita no modelo de formulário do documento único (DU), sem prejuízo da instauração de processo por infracção fiscal.
+
+7.º Para cálculo dos direitos e demais imposições, em dívida referidos no n.º 6.º ter-se-á em conta o valor aduaneiro médio do respectivo trimestre.
+
+8.º Os quantitativos que ultrapassem para mais os limites referidos no n.º 5.º ficam à disposição do recebedor, sem prejuízo da instauração de processo por infracção fiscal.
+
+9.º Em qualquer dos casos referidos nos n.os 5.º, 6.º e 8.º, serão registadas na ficha de armazém as quantidades efectivamente entradas em armazém afiançado.
+
+10.º Para controlo das existências nos armazéns afiançados, as estâncias aduaneiras competentes procederão, com carácter regular, a varejos, sendo adoptados os seguintes procedimentos para as diferenças encontradas:
+
+a) Se as quantidades constatadas no varejo forem inferiores às que figuram na ficha do armazém, são devidos direitos e demais imposições, sobre o quantitativo que ultrapasse o limite de 0,55% para os óleos leves e médios e 0,2% para os óleos pesados, sendo calculado esse limite com base nas quantidades de produto entradas em armazém após o último varejo, incluídas as quantidades constatadas neste, devendo processar-se, para a cobrança dos montantes devidos, declaração de introdução em livre prática e ou no consumo, feita no modelo de formulário do documento único, sem prejuízo da instauração de processo por infracção fiscal;
+
+b) Se as quantidades constatadas no varejo forem superiores às que figuram na ficha de armazém, o quantitativo excedentário fica à disposição do interessado, sem prejuízo de instauração de processo por infracção fiscal, sempre que os quantitativos constatados ultrapassarem os limites fixados na alínea anterior;
+
+c) Em qualquer caso, a ficha de armazém será sempre rectificada quando o saldo desta não coincidir com as quantidades constatadas no varejo;
+
+d) O disposto nas alíneas a) e b) não se aplica se o interessado provar, a contento das autoridades aduaneiras, que essas diferenças ocorreram em consequência de caso fortuito ou de força maior.
+
+III
+
+Formalidades e tramitação aduaneira
+
+11.º A introdução em livre prática e ou consumo de produtos petrolíferos e seus derivados saídos dos armazéns afiançados ou dos locais de produção fica sujeita à observância dos procedimentos seguintes:
+
+a) Por cada saída do armazém afiançado ou dos locais de produção será apresentada a nota de carregamento referida na alínea d) do n.º 2.º;
+
+b) O conjunto diário das notas de carregamento do mesmo armazém afiançado será objecto de declarações simplificadas, individualizadas por meio de transporte, origem do produto e ou destinatários que beneficiem de isenção ou redução de impostos internos, devendo tais declarações ser entregues na estância aduaneira competente no 1.º dia útil seguinte à data a que respeitam as notas de carregamento;
+
+c) A delegação aduaneira competente, efectivado o controlo da aceitação, datará e numerará a declaração simplificada, registando-se de seguida em livro próprio, após o que o respectivo chefe poderá nomear o funcionário que irá proceder à respectiva conferência.
+
+12.º As declarações simplificadas serão constituídas por quatro vias, que terão o seguinte destino:
+
+Original - arquivo da estância aduaneira competente;
+
+Duplicado - estância aduaneira, para conferência e junção à declaração global;
+
+Triplicado - declarante;
+
+Quadruplicado - importador.
+
+13.º A recepção da nota de carregamento tem o mesmo valor jurídico da aceitação da declaração de introdução no consumo feita no modelo de formulário do documento único (DU).
+
+14.º A data a considerar para determinação dos direitos de importação e demais imposições é a data de emissão da nota de carregamento.
+
+15.º As declarações simplificadas relativas ao período de globalização serão objecto de declarações globais, individualizadas por meio de transporte, origem do produto e ou destinatários que beneficiem de isenção ou redução de impostos internos, que serão processadas no modelo de formulário do documento único (DU).
+
+16.º Os períodos de globalização terão a duração máxima de 16 dias e serão fixados pelos chefes das estâncias aduaneiras competentes, tomando como referência o mês de calendário, de tal modo que o último dia do último período de globalização coincida com o último dia de cada mês de calendário.
+
+17.º As declarações globais referidas no n.º 15.º deverão ser apresentadas na estância aduaneira competente no prazo máximo de dois dias úteis a contar do último dia de cada período de globalização.
+
+18.º O registo de liquidação relativo à declaração global deverá efectuar-se no prazo máximo de cinco dias a contar do último dia do período de globalização considerado.
+
+19.º Sempre que o montante da dívida indicado pelo declarante na declaração global corresponder ao montante que foi objecto do registo de liquidação, considera-se que o devedor foi notificado do respectivo montante no termo do prazo referido no n.º 18.º
+
+20.º Efectivado o registo de liquidação, o declarante poderá proceder ao pagamento das imposições em dívida ou requerer a sua prorrogação, nos termos do número seguinte.
+
+21.º Os chefes das estâncias aduaneiras competentes poderão autorizar a prorrogação do pagamento dos direitos e demais imposições mediante a constituição de uma garantia apropriada, podendo a caução global para desalfandegamento, criada pelo Decreto-Lei n.º 289/88, de 24 de Agosto, ser considerada garantia apropriada para a concessão da faculdade prevista neste número, desde que sejam respeitados os prazos especiais de prorrogação previstos na alínea c) do n.º 1 do artigo 13.º do Regulamento (CEE) n.º [1854/89](http://data.europa.eu/eli/reg/1989/1854/oj?locale=pt), do Conselho, de 14 de Junho.
+
+22.º Da declaração global deve constar sempre a referência aos números de ordem das declarações simplificadas correspondentes, de modo a estabelecer-se uma completa conexão e identificação.
+
+23.º Para efeitos do disposto no número anterior, devem as declarações simplificadas ser numeradas em série anual privativa de cada estância aduaneira competente.
+
+24.º Em caso de divergência entre:
+
+a) Os elementos constantes das notas de carregamento e das declarações simplificadas correspondentes, prevalecem os elementos constantes das notas de carregamento;
+
+b) Os elementos constantes das declarações simplificadas e a declaração global correspondente, prevalecem os elementos constantes das declarações simplificadas.
+
+IV
+
+Disposições finais e transitórias
+
+25.º Os valores fixados nas alíneas a), b) e c) do n.º 5.º serão revistos no prazo de um ano contado a partir da entrada em vigor da presente portaria.
+
+26.º Os valores fixados nos n.os 5.º e 10.º são aplicáveis a partir de 1 de Março de 1990.
+
+27.º Em tudo o que não esteja previsto nesta portaria é, subsidiariamente, aplicável o regime geral regulado pelo Decreto-Lei n.º 507/85, de 31 de Dezembro, e pelas disposições adoptadas para a sua aplicação.
+
+Ministério das Finanças.
+
+**Assinada em 11 de Maio de 1990.**
+
+**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14000/25812584.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14000/25812584.pdf)

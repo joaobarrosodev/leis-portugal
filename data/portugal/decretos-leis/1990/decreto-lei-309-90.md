@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:555041:por
+title: Decreto-Lei n.º 309/90
+short_title: null
+summary: Estabelece regras relativas ao registo de liquidação e às condições de pagamento de direitos de importação ou exportação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 309/90
+official_date: null
+publication_date: '1990-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/1990, Série I de 1990-09-29
+  number: '226'
+  series: I
+  supplement: null
+  pages: 4046 - 4046
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/09/22600/40464046.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '555041'
+  dre_path: /dr/detalhe/decreto-lei/309-1990-555041
+  internal: pt:dre:555041:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1990-555041
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1990-555041
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-09-29T00:00:00Z'
+integrity:
+  source_sha256: a95fa373d25314fe1801896559df7f6a64600b3d1e1ca7d5fbb00939f7f0a492
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-309-555041.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 309/90
+
+de 29 de Setembro
+
+O Regulamento (CEE, EURATOM) n.º [1552/89](http://data.europa.eu/eli/reg/1989/1552/oj?locale=pt), do Conselho, de 29 de Maio de 1989, relativo à aplicação da Decisão n.º [88/376/CEE](http://data.europa.eu/eli/dec/1988/376/oj?locale=pt), EURATOM, prevê, no seu artigo 6.º, que cada Estado membro mantenha a contabilidade dos recursos próprios, a qual assume um carácter inovador relativamente à até agora adoptada. Com efeito, prevê-se que, para além da contabilidade ordinária, os Estados mantenham uma contabilidade separada para inscrição de direitos devidos e não cobrados, pelo que se torna necessário criar os meios adequados à execução da obrigação prevista naquele artigo 6.º
+
+Por outro lado, o Regulamento (CEE) n.º [1854/89](http://data.europa.eu/eli/reg/1989/1854/oj?locale=pt), do Conselho, de 14 de Junho de 1989, relativo ao registo de liquidação e às condições de pagamento dos montantes dos direitos de importação ou dos direitos de exportação resultantes de uma dívida aduaneira, estabelece novas regras no que diz respeito ao registo de liquidação, comunicação dos montantes dos direitos devidos e respectivo pagamento. Ora, para além dos direitos de importação ou de exportação, são também cobradas imposições de natureza diversa, pelo que, por razões de simplificação e de uniformidade de procedimentos administrativos, se torna aconselhável prever a aplicação das mesmas regras às demais imposições cobradas pelas alfândegas. Exceptuam-se, evidentemente, as regras de registo de liquidação e pagamento dos impostos sobre o consumo cobrado na importação, que são objecto de legislação especial.
+
+Por último, procede-se à revogação expressa da legislação nacional adoptada para a execução de actos comunitários ora revogados pelo Regulamento (CEE, EURATOM n.º [1552/89](http://data.europa.eu/eli/reg/1989/1552/oj?locale=pt) e pelo Regulamento (CEE) n.º [1854/89](http://data.europa.eu/eli/reg/1989/1854/oj?locale=pt).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º Todos os montantes de direitos de importação ou de exportação liquidados pelas alfândegas são registados em livros próprios, denominados «Registo de liquidação», ou em suportes informáticos equivalentes, sendo o respectivo número aposto nos documentos que lhes digam respeito.
+
+###### Art. 2.º Sem prejuízo das normas especiais sobre a matéria relativa aos impostos sobre o consumo cobrados na importação, as disposições relativas ao registo de liquidação e às condições de pagamento previstas no Regulamento (CEE) n.º [1854/89](http://data.europa.eu/eli/reg/1989/1854/oj?locale=pt), do Conselho, de 14 de Junho de 1989, são aplicáveis a todas as imposições cobradas pelas alfândegas.
+
+###### Art. 3.º São revogados, com efeitos reportados a 1 de Julho de 1990, os Decretos-Leis n.os 504-D/85 e 504-E/85, ambos de 30 de Dezembro, e, com efeitos reportados à data da entrada em vigor do presente diploma, o Decreto-Lei n.º 7/86, de 10 de Janeiro.
+
+Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
+
+**Promulgado em 13 de Setembro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 17 de Setembro de 1990.**
+
+Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

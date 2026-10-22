@@ -1,0 +1,370 @@
+---
+schema_version: '1.0'
+id: pt:dre:444680:por
+title: Decreto-Lei n.º 66/96
+short_title: null
+summary: Revê o regime jurídico dos emolumentos do Tribunal de Contas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 66/96
+official_date: null
+publication_date: '1996-05-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/1996, Série I-A de 1996-05-31
+  number: '127'
+  series: I
+  supplement: null
+  pages: 1351 - 1354
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/05/127a00/13511354.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1999-09-02'
+version_history:
+  file: decreto-lei-66-96.versoes.json
+  count: 3
+  source_lastmod: '2025-06-16'
+  versions:
+  - date: '1996-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-06-29'
+    amending: pt:dre:306010:por
+    amending_title: Declaração de Rectificação n.º 11-A/96
+    changes:
+    - Retifica Artigo 5.º
+  - date: '1999-09-02'
+    amending: pt:dre:532454:por
+    amending_title: Lei n.º 139/99
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/66/1996/p/cons/20000404/pt/html
+  oj: null
+  dre: '444680'
+  dre_path: /dr/detalhe/decreto-lei/66-1996-444680
+  internal: pt:dre:444680:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1996-444680
+  metadata_url: https://data.dre.pt/eli/dec-lei/66/1996/p/cons/20000404/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-132965132
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-132965132
+  retrieved_at: '2026-10-22T13:29:14Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-16T00:00:00Z'
+integrity:
+  source_sha256: c7ff72c919c8dca5db2949cdb41cd273b7552da3537fec8a5969de1465f4b5db
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:29:14Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-66-96.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cofre do Tribunal de Contas
+- Emolumento
+- Tribunal de Contas
+- Regime Jurídico
+- Responsabilidade Financeira
+- Visto do Tribunal de Contas
+relationships:
+- type: amended_by
+  target: pt:dre:306010:por
+  label: Retifica Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-a-1996-306010
+  date: '1996-06-29'
+- type: amended_by
+  target: pt:dre:532454:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/139-1999-532454
+  date: '1999-08-28'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/161/1994/06/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/161/1994/06/04/p/dre
+article_structure:
+  article_count: 25
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:29:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 66/96
+
+Decreto-Lei n.º 66/96
+
+de 31 de Maio
+
+O Tribunal de Contas tem vindo a assumir crescente importância nas suas funções de fiscalização e controlo das finanças públicas, sendo de assinalar a sua modernização, actualização e desenvolvimento, quer em termos de evolução estrutural, quer em termos de reconhecimento normativo de novas atribuições e formas de actuação, como se constata através de várias alterações legislativas recentes e em curso.
+
+Esta evolução é, aliás, espelho das grandes alterações e desenvolvimento observados nos últimos anos na sociedade portuguesa e na Administração Pública, decorrendo também do contacto com instituições congéneres de outros países e do enraizamento crescente do entendimento de que o Tribunal de Contas, enquanto órgão fiscalizador, se deve debruçar sobre todo o fenómeno financeiro público e privilegiar mecanismos de fiscalização sucessiva.
+
+Tradicionalmente, pelo menos desde 1915, têm os destinatários dos actos do Tribunal suportado, a título de emolumentos, os serviços por ele prestados. Na continuidade desta tradição, justifica-se que o desenvolvimento que o Tribunal tem conhecido ao nível das suas atribuições e competências tenha implicações também a nível emolumentar.
+
+A preocupação de assegurar esta reforma prende-se também com o facto de as receitas cobradas a título emolumentar consubstanciarem um autêntico pressuposto da independência e condição de exercício das competências do Tribunal, princípios estes consignados no artigo 3.º da Lei n.º 86/89, de 8 de Setembro, e dos quais deriva a existência de cofres privativos e a sua autonomia administrativa e financeira.
+
+Convirá ter presente que o Decreto-Lei n.º 356/73, de 14 de Julho, diploma que actualmente regia a matéria dos emolumentos do Tribunal, surgiu 40 anos após o Decreto n.º 22257, de 25 de Fevereiro de 1933, e teve como objectivos fundamentais a revisão das percentagens emolumentares, bem como das matérias sobre as quais os emolumentos incidiam.
+
+Volvidos 23 anos sobre a publicação do Decreto-Lei n.º 356/73 e da sua tabela emolumentar, e apesar das actualizações resultantes dos Decretos-Leis n.os 667/76, de 5 de Agosto, e 131/82, de 23 de Abril, encontra-se este regime de novo profundamente desactualizado, quer qualitativa, quer quantitativamente.
+
+De facto, a reforma em curso no Tribunal de Contas e os critérios utilizados na tabela, na sua maior parte sem indexações que tivessem em conta os níveis da inflação, tornaram cada vez mais anacrónico o regime emolumentar, não só ao nível das taxas previstas como também da tipologia e natureza dos actos geradores dos emolumentos, hoje já sem integral correspondência nos actos efectivamente praticados pelo Tribunal e seus serviços de apoio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É aprovado o novo regime jurídico dos emolumentos do Tribunal de Contas, anexo ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 2.º
+
+1 - São revogados os Decretos-Leis n.os 356/73, de 14 de Julho, e 161/94, de 4 de Junho.
+
+2 - São também revogadas todas as disposições especiais contrárias ao disposto neste decreto-lei.
+
+###### Artigo 3.º
+
+O regime constante deste diploma aplica-se aos processos que derem entrada no Tribunal de Contas ou forem iniciados após a sua entrada em vigor.
+
+Visto e aprovado em Conselho de Ministros de 2 de Maio de 1996. - António Manuel de Oliveira Guterres. - António Luciano Pacheco de Sousa Franco.
+
+Promulgado em 16 de Maio de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 20 de Maio de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — REGIME JURÍDICO DOS EMOLUMENTOS DO TRIBUNAL DE CONTAS
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito
+
+1 - Pelos serviços do Tribunal de Contas, abreviadamente designado por Tribunal, e dos seus serviços de apoio são devidos emolumentos nos termos do presente diploma.
+
+2 - As importâncias devidas como emolumentos constituem receitas do cofre do Tribunal ou dos cofres das suas secções regionais.
+
+###### Artigo 2.º — Fixação dos emolumentos
+
+1 - Os emolumentos são fixados pelo Tribunal no momento da decisão final do processo, quando esta lhe competir, ou pelos serviços de apoio, nos restantes casos.
+
+2 - O valor dos emolumentos a pagar, ou a declaração de isenção, deve constar do respectivo processo.
+
+3 - Nos casos em que o presente diploma assim o determine, na fixação dos emolumentos atender-se-á a um valor de referência, abreviadamente designado «VR», que corresponde ao índice 100 da escala indiciária das carreiras de regime geral da função pública, arredondado para o milhar de escudos mais próximo ou, se a proximidade for igual, para o imediatamente superior.
+
+4 - O montante dos emolumentos apurado é arredondado para a centena de escudos imediatamente superior.
+
+###### Artigo 3.º — Prazo geral de pagamento
+
+O pagamento dos emolumentos deve ser feito até ao último dia do mês seguinte àquele em que for feita a notificação da decisão do processo a que respeitam, salvo disposição especial.
+
+###### Artigo 4.º — Procedimentos de cobrança
+
+1 - Os procedimentos de cobrança dos emolumentos constarão de instruções do Tribunal de Contas, a publicar na 2.ª série do Diário da República.
+
+2 - Os procedimentos referidos no número anterior devem garantir a identificação dos elementos indispensáveis ao controlo da cobrança.
+
+### Capítulo II — Processos de fiscalização prévia
+
+###### Artigo 5.º — Emolumentos
+
+1 - Os emolumentos devidos em processo de fiscalização prévia são os seguintes:
+
+a) Actos e contratos relacionados com o pessoal: 2,5% da remuneração mensal ilíquida, excluindo eventuais suplementos remuneratórios, com o limite mínimo de 3% do VR;
+
+b) Outros actos ou contratos: 1 (por mil) do seu valor, certo ou estimado, com o limite mínimo de 6% do VR.
+
+2 - Nos contratos de execução periódica, nomeadamente nos de avença e de locação, os emolumentos serão calculados sobre o valor total correspondente à sua vigência quando esta for inferior a um ano ou sobre o seu valor anual, nos restantes casos.
+
+3 - Nos casos em que a decisão do processo seja desfavorável ou não seja proferida no prazo legal, são devidos os emolumentos mínimos previstos no n.º 1 aplicáveis em função da natureza dos actos.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 11-A/96 - Diário da República n.º 149/1996, 2º Suplemento, Série I-A de 1996-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-a-1996-306010), em vigor a partir de 1996-06-29
+
+###### Artigo 6.º — Sujeitos passivos
+
+1 - Os emolumentos constituem encargo da entidade fiscalizada pelo Tribunal, salvo o disposto nos números seguintes.
+
+2 - Nos casos previstos na alínea b) do n.º 1 do artigo anterior a obrigação emolumentar transfere-se para aquele que contrata com a entidade pública sujeita a controlo sempre que a decisão do Tribunal lhe seja favorável e do acto fiscalizado resultem pagamentos a seu favor, ainda que em espécie.
+
+3 - Nos contratos celebrados entre pessoas colectivas públicas a obrigação emolumentar recai sobre:
+
+a) O contratante ou contratantes que perceberem recursos financeiros, na proporção da fracção recebida, se não obtiverem outras vantagens;
+
+b) Os contratantes, em partes iguais, nos restantes casos.
+
+###### Artigo 7.º — Prazo e responsabilidade
+
+1 - Os emolumentos devidos nos termos do n.º 2 do artigo 6.º devem ser pagos no prazo de 30 dias a contar do início da execução do contrato.
+
+2 - Salvo nos casos especialmente previstos na lei, não poderão ser feitos quaisquer pagamentos por força dos actos ou contratos objecto de fiscalização prévia sem que se mostrem pagos os correspondentes emolumentos.
+
+3 - As autoridades ou funcionários que autorizem pagamentos em violação do disposto no número anterior são solidariamente responsáveis pelo pagamento dos emolumentos em falta.
+
+###### Artigo 8.º — Isenções
+
+Estão isentos de emolumentos os contratos:
+
+a) De empréstimos ao Estado e às autarquias locais;
+
+b) De aquisições efectuadas pelo Estado directamente a outros Estados;
+
+c) De empréstimos e outras operações efectuadas pelo Estado no âmbito da cooperação financeira internacional;
+
+d) Celebrados com as instituições da União Europeia;
+
+e) Celebrados ou executados fora do território nacional com entidades estrangeiras.
+
+### Capítulo III — Processos de fiscalização sucessiva
+
+###### Artigo 9.º — Emolumentos em processos de contas
+
+1 - Pela verificação de contas são devidos emolumentos no montante de 1% do valor da receita própria da gerência.
+
+2 - Pela verificação de contas das autarquias locais são devidos emolumentos no montante de 0,2% do valor da receita própria da gerência.
+
+3 - Nas contas dos estabelecimentos fabris militares e das empresas os emolumentos são apurados sobre os lucros da gerência.
+
+4 - No cálculo da receita própria a que se referem os n.os 1 e 2 não são considerados os encargos de cobrança da receita, as transferências correntes e de capital, o produto de empréstimos e os reembolsos e reposições.
+
+5 - Os emolumentos previstos nos números anteriores têm o valor máximo de 50 vezes o VR e o mínimo de 5 vezes o VR.
+
+6 - Nas contas das entidades que não dispõem de receitas próprias aplicam-se os emolumentos mínimos previstos no número anterior.
+
+7 - Ocorrendo mais de uma gerência no mesmo exercício, a soma dos emolumentos liquidados em cada um dos processos deve respeitar os limites fixados no n.º 3, sendo o acerto feito no processo encerrado em último lugar.
+
+> Nota: [Artigo 2.º, Lei n.º 139/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/139-1999-532454) As alterações constantes no presente artigo aplicam-se aos processos pendentes no Tribunal de Contas, bem como àqueles que derem entrada ou forem iniciados após a sua entrada em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 139/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/139-1999-532454), em vigor a partir de 1999-09-02
+
+###### Artigo 10.º — Emolumentos em outros processos
+
+1 - Pela emissão de decisões, relatórios ou pareceres que ponham termo a auditorias, inquéritos ou outras acções de fiscalização concomitante ou sucessiva não inseridas em outros processos, nomeadamente de contas, são devidos emolumentos entre os valores máximo de 50 vezes o VR e mínimo de 5 vezes o VR, a fixar pelo Tribunal em função do âmbito, duração e meios envolvidos na acção.
+
+2 - Quando a entidade fiscalizada não disponha de receitas próprias, aplicam-se os emolumentos mínimos previstos no número anterior.
+
+3 - Nos casos em que o Tribunal recorrer a empresas de auditoria para a realização de acções de fiscalização e controlo, designadamente inquéritos e auditorias, e os respectivos encargos devam ser suportados, nos termos da lei, pela entidade sujeita ao controlo, os emolumentos são reduzidos em função da duração e dos meios próprios do Tribunal directamente envolvidos na acção.
+
+> Nota: [Artigo 2.º, Lei n.º 139/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/139-1999-532454) As alterações constantes no presente artigo aplicam-se aos processos pendentes no Tribunal de Contas, bem como àqueles que derem entrada ou forem iniciados após a sua entrada em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 139/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/139-1999-532454), em vigor a partir de 1999-09-02
+
+###### Artigo 11.º — Sujeitos passivos
+
+1 - Os emolumentos a que se refere o presente capítulo são encargo do serviço ou entidade objecto de fiscalização, sem prejuízo do disposto nos números seguintes.
+
+2 - Nas acções de fiscalização a programas ou projectos, a obrigação emolumentar recai sobre o serviço ou entidade que execute os mesmos.
+
+3 - Quando haja mais de um sujeito passivo da mesma obrigação emolumentar, o encargo é repartido por aplicação a cada um deles dos critérios definidos no artigo 10.º
+
+###### Artigo 12.º — Prazo
+
+Quando o sujeito passivo for um serviço público sem autonomia financeira, deve efectuar o pagamento dos emolumentos até 31 de Março do ano seguinte àquele em que o respectivo processo for decidido.
+
+###### Artigo 13.º — Isenções
+
+Ficam isentos de emolumentos os seguintes processos:
+
+a) Contas dos serviços e organismos extintos cujos saldos hajam sido entregues ao Estado;
+
+b) Contas das entidades autárquicas que disponham de um montante de receitas próprias da gerência igual ou inferior a 1500 vezes o VR.
+
+> Nota: [Artigo 2.º, Lei n.º 139/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/139-1999-532454) As alterações constantes no presente artigo aplicam-se aos processos pendentes no Tribunal de Contas, bem como àqueles que derem entrada ou forem iniciados após a sua entrada em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 139/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/139-1999-532454), em vigor a partir de 1999-09-02
+
+### Capítulo IV — Processos de multa ou de efectivação de responsabilidade financeira
+
+###### Artigo 14.º — Emolumentos
+
+1 - O valor dos emolumentos devidos em processo de multa ou de julgamento de responsabilidade financeira é de 15% sobre o valor da sanção aplicada ou da reposição ordenada, com o limite máximo correspondente ao valor do VR.
+
+2 - Os emolumentos previstos neste artigo constituem encargo do infractor ou responsável pela reposição.
+
+###### Artigo 15.º — Isenção
+
+Não são devidos emolumentos sempre que no processo seja proferida decisão de absolvição.
+
+### Capítulo V — Processos de recurso
+
+###### Artigo 16.º — Emolumentos
+
+1 - Em processo de recurso são devidos os seguintes emolumentos:
+
+a) Havendo indeferimento liminar, 20% do VR;
+
+b) Havendo julgamento, 40% do VR.
+
+2 - Os emolumentos são pagos pelo recorrente.
+
+###### Artigo 17.º — Isenção ou redução
+
+1 - Não são devidos emolumentos quando seja dado provimento ao recurso.
+
+2 - Quando o recurso merecer provimento parcial, pode o Tribunal decretar a isenção ou a redução dos emolumentos.
+
+3 - No âmbito da fiscalização prévia, havendo concessão de visto em processo de recurso, são aplicáveis os emolumentos previstos nos capítulo II deste diploma.
+
+### Capítulo VI — Outros processos
+
+###### Artigo 18.º — Emolumentos
+
+O valor dos emolumentos devidos pelas decisões proferidas em quaisquer outros processos, nomeadamente averiguações ou inquéritos no âmbito da fiscalização prévia, fixação de débitos dos responsáveis quando haja omissão de contas, e extinção de responsabilidades, é de 40% do VR, devendo a decisão indicar o responsável pelo respectivo pagamento.
+
+### Capítulo VII — Certidões
+
+###### Artigo 19.º — Emolumentos
+
+Pelas certidões emitidas com base em elementos ou documentos constantes de processos de fiscalização ou outros da competência do Tribunal são devidos emolumentos no valor de 3% do VR, a pagar no acto do pedido.
+
+### Capítulo VIII — Disposições finais e transitórias
+
+###### Artigo 20.º — Ministério Público
+
+O Ministério Público está isento do pagamento de quaisquer emolumentos previstos no presente diploma.
+
+###### Artigo 21.º — Reclamação e recurso
+
+As reclamações e os recursos em matéria emolumentar regem-se pelo disposto na lei de processo do Tribunal e, subsidiariamente, pelo disposto no Código das Custas Judiciais e no Código de Processo Civil.
+
+###### Artigo 22.º — Procedimentos de cobrança
+
+Enquanto não forem emitidas as instruções referidas no n.º 1 do artigo 4.º, aplicam-se os procedimentos de cobrança estabelecidos ao abrigo do Decreto-Lei n.º 356/73, de 14 de Julho.

@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:853780170:por
+title: Portaria n.º 71/2024
+short_title: null
+summary: Procede à extensão do projeto «Ligue antes, salve vidas» à Unidade Local de Saúde de Gaia/Espinho, E. P. E., e à
+  Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Saúde
+proposing_entity: null
+official_number: 71/2024
+official_date: null
+publication_date: '2024-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2024, Série I de 2024-02-27
+  number: '41'
+  series: I
+  supplement: null
+  pages: 2 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/02/04100/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-20'
+version_history:
+  file: portaria-71-2024.versoes.json
+  count: 2
+  source_lastmod: '2024-12-19'
+  versions:
+  - date: '2024-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-12-20'
+    amending: pt:dre:900706906:por
+    amending_title: Portaria n.º 343/2024/1
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/71/2024/p/cons/20241219/pt/html
+  oj: null
+  dre: '853780170'
+  dre_path: /dr/detalhe/portaria/71-2024-853780170
+  internal: pt:dre:853780170:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-2024-853780170
+  metadata_url: https://data.dre.pt/eli/port/71/2024/p/cons/20241219/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-900705389
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-900705389
+  retrieved_at: '2026-10-22T13:20:32Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-12-19T00:00:00Z'
+integrity:
+  source_sha256: 2895fbe63061cc9819197b4552ed318a16c9b9dbbb563e06213584fbd3a10de1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:20:32Z'
+  notes: 2 versão(ões); histórico completo em portaria-71-2024.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- INEM
+- Espinho
+- Serviço Nacional de Saúde
+- GAIA
+- Medicina de Urgência
+- Serviços de Urgência
+- Unidade Local de Saúde
+- Vouga
+- Direção Executiva do Serviço Nacional de Saúde
+- Projeto Ligue antes salve vidas
+relationships:
+- type: amended_by
+  target: pt:dre:900706906:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/343-2024-900706906
+  date: '2024-12-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/95/2019/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/438/2023/12/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/438/2023/12/15/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:20:32Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 71/2024
+
+Portaria n.º 71/2024
+
+de 27 de fevereiro
+
+Sumário: Procede à extensão do projeto «Ligue antes, salve vidas» à Unidade Local de Saúde de Gaia/Espinho, E. P. E., e à Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.
+
+O projeto-piloto «Ligue antes, salve vidas» foi implementado nos concelhos da Póvoa de Varzim e Vila do Conde, em maio de 2023, pela Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS), com o apoio da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS), e das autarquias locais. Foi estabelecida uma urgência referenciada no Centro Hospitalar da Póvoa de Varzim/Vila do Conde, E. P. E. (CHPVVC), em articulação com o Agrupamento de Centros de Saúde (ACeS) Póvoa de Varzim/Vila do Conde. Para acesso ao serviço de urgência (SU) do CHPVVC estabeleceu-se como regra de admissão a necessidade de existência de uma referenciação prévia, ressalvadas determinadas situações, em linha com a circular normativa n.º 11/2022, da Administração Central do Sistema de Saúde, I. P. A segunda fase deste projeto foi iniciada em janeiro de 2024, de acordo com a Portaria n.º 438/2023, de 15 de dezembro, tendo os resultados evidenciado um excelente nível de acesso, com satisfação dos utentes e dos profissionais.
+
+Por outro lado, foi colocada em discussão pública e recebido um conjunto de propostas, sobre o projeto de portaria que procede à definição da forma como os estabelecimentos e serviços prestadores de cuidados de saúde do Serviço Nacional de Saúde desenvolvem respostas de proximidade às necessidades assistenciais em situação de urgência. Pretende-se, assim, criar condições para um processo global de reforma do acesso aos serviços de urgência.
+
+Enquanto se prepara esse processo de progressiva generalização, importa alargar o projeto «Ligue antes, salve vidas» à Unidade Local de Saúde de Gaia/Espinho, E. P. E., e à Unidade Local de Saúde de Entre Douro e Vouga, E. P. E., em função da área geográfica, da população coberta com médico de família, da organização dos cuidados de saúde primários (CSP) em unidades de saúde familiar (USF) do tipo B, e do trabalho que já tinha sido efetuado anteriormente por estas duas instituições.
+
+Verifica-se que o recurso ao SU, por autorreferenciação, continua a ser realizado por parte significativa de utentes com pouca gravidade clínica, pelo que se impõe uma organização administrativa do fluxo de doentes capaz de otimizar a capacidade de resposta do SNS. Com efeito, o serviço de urgência é uma porta de entrada dos utentes no SNS que deve estar reservada aos doentes que necessitem desse tipo de cuidados que lhes devem ser prestados de forma célere e dedicada. O afluxo à urgência de doentes com pouca gravidade, que podiam ser melhor atendidos noutros pontos do sistema e, desde logo, nos cuidados de saúde primários (CSP), tem importantes implicações, quer ao nível da qualidade dos cuidados prestados, em especial para os utentes que a ele recorrem inadequadamente, quer ao nível da eficiência. Nos termos da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, constitui fundamento da política de saúde a «gestão dos recursos disponíveis segundo critérios de efetividade, eficiência e qualidade», devendo o Estado assegurar os recursos necessários à efetivação do direito à proteção da saúde no quadro da organização e funcionamento do SNS que se sustenta em diferentes níveis de cuidados e tipologias de unidades de saúde, que trabalham de forma articulada, integrada e intersectorial. No que toca à organização dos serviços, o Estatuto do SNS, aprovado pelo Decreto-Lei n.º 52/2022, de 4 de agosto, veio consagrar, efetivamente, a existência de níveis de cuidados no SNS, salientando-se, neste particular, os CSP, que representam o primeiro nível de contacto dos indivíduos, da família e da comunidade com os cuidados de saúde e que constituem uma resposta de proximidade e continuidade no processo assistencial e os cuidados hospitalares, que envolvem intervenções de maior diferenciação de meios técnicos, mediante referenciação clínica ou em contexto de urgência ou emergência. Por seu turno, o direito à proteção da saúde é exercido tomando em consideração as regras de organização dos serviços de saúde, impendendo sobre os utentes o dever de respeito das regras sobre a organização, o funcionamento e a utilização dos estabelecimentos e serviços de saúde.
+
+Neste contexto, em nome da efetividade, da eficiência, da qualidade dos cuidados prestados e da otimização dos recursos, entende-se, sob proposta da DE-SNS, ser de proceder à extensão do projeto «Ligue antes, salve vidas» à Unidade Local de Saúde de Gaia/Espinho, E. P. E., e à Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.
+
+Assim, ao abrigo do disposto no artigo 25.º do Decreto-Lei n.º 32/2022, de 9 de maio, e dos artigos 7.º e 8.º do Decreto-Lei n.º 52/2022, de 4 de agosto, ambos na sua redação atual, manda o Governo, pelo Ministro da Saúde, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à extensão do projeto «Ligue antes, salve vidas» à Unidade Local de Saúde de Gaia/Espinho, E. P. E., e à Unidade Local de Saúde de Entre Douro e Vouga, E. P. E., no sentido do desenvolvimento de respostas de proximidade às necessidades assistenciais em situação de urgência.
+
+###### Artigo 2.º — Referenciação
+
+O acesso aos cuidados de saúde hospitalares do Serviço Nacional de Saúde (SNS) deve, nos termos no artigo 7.º do Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual, ser precedido de referenciação através de um dos seguintes meios:
+
+a) Centro de Orientação de Doentes Urgentes (CODU-INEM);
+
+b) SNS 24 - Centro de Contacto do Serviço Nacional de Saúde (SNS24);
+
+c) Cuidados de saúde primários (CSP);
+
+d) Médico, com informação clínica assinada;
+
+e) Outra instituição de saúde, pública, privada ou social.
+
+###### Artigo 3.º — Acesso ao serviço de urgência
+
+1 - Sem prejuízo do disposto no artigo anterior, aos utentes que acorram ao serviço de urgência hospitalar (SU) sem referenciação prévia deve ser assegurado meio de contacto com o SNS24 para efeitos de correta referenciação, através do serviço administrativo e de disponibilização de telefone instalado no local.
+
+2 - Se o utente recusar, ou, por qualquer outra razão, não seja possível o encaminhamento através do SNS24, deve ser assegurada a sua inscrição no SU e posterior triagem de acordo com o sistema de Triagem de Manchester (TM) ou o sistema adaptado para uso em idades pediátricas.
+
+3 - Quando, nos termos do número anterior, o utente seja triado com a cor ‘azul’ ou ‘verde’ não é observado no SU desde que, de acordo com a sua condição clínica, seja garantido o seu encaminhamento preferencial para os CSP ou para consulta/hospital de dia na instituição em que se integra o SU, através de efetivo agendamento de consulta para o próprio dia ou para o dia seguinte, sem prejuízo da possibilidade de adoção de outras alternativas de atendimento clínico para situações agudas de menor complexidade e urgência clínica, destinadas ao atendimento a doentes não urgentes ou pouco urgentes.
+
+4 - Excecionam-se do disposto nos números anteriores as seguintes situações em que é obrigatória a avaliação do utente no SU, apesar de triado com a cor «azul» ou «verde» da TM:
+
+a) Utentes acamados ou em cadeira de rodas, sem possibilidade de mobilização por meios próprios;
+
+b) Vítimas de trauma recente, com menos de 48 horas;
+
+c) Situações cardiovasculares agudas, tais como dor torácica e síncope;
+
+d) Défices neurológicos (hemiparesias, paraparésias, monoparésias) de instalação progressiva subaguda, em mais de 24 horas, mas menos de 30 dias;
+
+e) Situações agudas, do foro psiquiátrico (incluindo situações de risco de suicídio), obstétricas ou outras, desde que necessitem de tratamento urgente e inadiável;
+
+f) Idade menor do que 1 ano ou maior ou igual a 70 anos;
+
+g) Utentes acompanhados por forças de segurança;
+
+h) Utentes com indicação de perícia médico-legal;
+
+i) Utentes orientados pelos seguintes fluxogramas de triagem:
+
+i) Agressão;
+
+ii) Doenças sexualmente transmissíveis;
+
+iii) Embriaguez aparente;
+
+iv) Exposição a químicos, incluindo a ingestão de cáusticos;
+
+v) Feridas;
+
+vi) Gravidez;
+
+vii) Hemorragia gastrointestinal;
+
+viii) Icterícia;
+
+ix) Hemorragia vaginal;
+
+x) Infeções locais e abcessos;
+
+xi) Problemas oftalmológicos;
+
+xii) Queda;
+
+xiii) Queimaduras profundas e superficiais;
+
+xiv) Sobredosagem e envenenamento;
+
+xv) Traumatismo crânioencefálico;
+
+xvi) Convulsões;
+
+xvii) Corpo estranho;
+
+xviii) Antecedentes de:
+
+1) Doença oncológica ativa;
+
+2) Doença cursando com imunossupressão;
+
+3) Doença renal crónica;
+
+4) Doença arterial periférica.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/343-2024-900706906), em vigor a partir de 2024-12-20
+
+###### Artigo 4.º — Encaminhamento para os cuidados de saúde primários
+
+Os utentes que devam ser observados nos CSP ou em local com competência de atendimento clínico para situações agudas de menor complexidade e urgência clínica devem ser orientados para respostas no âmbito dos CSP, seja pela unidade de saúde familiar onde estão inscritos ou no caso de utentes não inscritos ou esporádicos, por inclusão em carteira adicional das USF, em outros atendimentos com natureza complementar ou em local a ser contratualizado pela ULS.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/343-2024-900706906), em vigor a partir de 2024-12-20
+
+###### Artigo 5.º — Disposições finais e transitórias
+
+1 - Da aplicação do disposto na presente portaria não pode resultar falta de resposta em saúde no SNS ajustada à condição clínica do utente, devendo ser garantida a triagem nos termos previstos, bem como aconselhamento e encaminhamento adequados aos utentes e seus acompanhantes.
+
+2 - A Direção-Geral da Saúde e o Instituto Nacional de Emergência Médica, I. P., devem, em articulação com a DE-SNS, I. P., e a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., manter permanentemente ajustados os algoritmos do SNS24 e do CODU, de forma a assegurar alinhamento com a abordagem realizada pelo sistema de Triagem de Manchester.
+
+3 - Sem prejuízo do disposto nos números anteriores, a TM realizada presencialmente aquando da admissão no SU prevalece relativamente ao encaminhamento efetuado telefonicamente pelo SNS24.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/343-2024-900706906), em vigor a partir de 2024-12-20
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação, devendo a DE-SNS, I. P., definir o calendário da sua efetiva implementação.
+
+O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 22 de fevereiro de 2024.
+
+117390266

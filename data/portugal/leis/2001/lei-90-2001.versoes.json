@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516044:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2001-107787674",
+ "dre_path": "/dr/detalhe/lei/90-2001-516044",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107793414",
+    "107793415",
+    "107793416",
+    "107793417",
+    "107793418",
+    "107793419"
+   ]
+  },
+  {
+   "date": "2017-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107791610:por",
+     "title": "Lei n.º 60/2017",
+     "published": "2017-08-01",
+     "dre_path": "/dr/detalhe/lei/60-2017-107791610"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107793414",
+    "107793415",
+    "107793416",
+    "107793430",
+    "107793418",
+    "107793427",
+    "107793428",
+    "107793429"
+   ]
+  }
+ ],
+ "fragments": {
+  "107793414": {
+   "fragment_id": "107796775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 90/2001\n\nde 20 de Agosto\n\nDefine medidas de apoio social às mães e pais estudantes\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "107793415": {
+   "fragment_id": "107796776",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nA presente lei determina formas de apoio social e escolar às mães e pais estudantes, tendo como objectivo prioritário o combate ao abandono e insucesso escolares, bem como a promoção da formação dos jovens."
+  },
+  "107793416": {
+   "fragment_id": "107796777",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nEstão abrangidos pela presente lei as mães e pais estudantes que se encontrem a frequentar os ensinos básico e secundário, o ensino profissional ou o ensino superior, em especial as jovens grávidas, puérperas e lactantes."
+  },
+  "107793417": {
+   "fragment_id": "107796778",
+   "type": 11,
+   "heading": "Artigo 3.º — Direitos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direitos de ensino\n\n1 - As mães e pais estudantes abrangidos pela presente lei cujos filhos tenham até 3 anos de idade gozam dos seguintes direitos:\n\na) Um regime especial de faltas, consideradas justificadas, sempre que devidamente comprovadas, para consultas pré-natais, para período de parto, amamentação, doença e assistência a filhos;\n\nb) Adiamento da apresentação ou da entrega de trabalhos e da realização em data posterior de testes sempre que, por algum dos factos indicados na alínea anterior, seja impossível o cumprimento dos prazos estabelecidos ou a comparência aos testes;\n\nc) Isenção de cumprimento de mecanismos legais que façam depender o aproveitamento escolar da frequência de um número mínimo de aulas;\n\nd) Dispensa da obrigatoriedade de inscrição num número mínimo de disciplinas no ensino superior.\n\n2 - As grávidas e mães têm direito:\n\na) A realizar exames em época especial, a determinar com os serviços escolares, designadamente no caso de o parto coincidir com a época de exames;\n\nb) À transferência de estabelecimento de ensino;\n\nc) A inscreverem-se em estabelecimentos de ensino fora da área da sua residência.\n\n3 - A relevação de faltas às aulas, a leccionação de aulas de compensação e a realização de exames em época especial dependem da apresentação de documento demonstrativo da coincidência com horário lectivo do facto que, à luz da presente lei, impossibilite a sua presença."
+  },
+  "107793418": {
+   "fragment_id": "107796779",
+   "type": 11,
+   "heading": "Artigo 4.º — Preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preferência\n\nOs filhos das mães e pais estudantes menores, determinados na presente lei, gozam dos direitos de preferência, até completarem 5 anos de idade, nomeadamente para admissão e frequência nos estabelecimentos da rede pré-escolar pública, nas creches e jardins-de-infância de instituições com acordos de cooperação com o Estado e para colocação em amas credenciadas pelos serviços de segurança social."
+  },
+  "107793419": {
+   "fragment_id": "107796780",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor no 30.º dia após a publicação."
+  },
+  "107793430": {
+   "fragment_id": "107796778",
+   "type": 11,
+   "heading": "Artigo 3.º — Direitos de ensino",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/lei/60-2017-107791610), em vigor a partir de 2017-08-02"
+   ],
+   "markdown": "###### Artigo 3.º — Direitos de ensino\n\n1 - As mães e pais estudantes abrangidos pela presente lei cujos filhos tenham até 5 anos de idade gozam dos seguintes direitos:\n\na) Um regime especial de faltas, consideradas justificadas, sempre que devidamente comprovadas, para consultas pré-natais, para período de parto, amamentação, doença e assistência a filhos;\n\nb) Adiamento da apresentação ou da entrega de trabalhos e da realização em data posterior de testes sempre que, por algum dos factos indicados na alínea anterior, seja impossível o cumprimento dos prazos estabelecidos ou a comparência aos testes;\n\nc) Isenção de cumprimento de mecanismos legais que façam depender o aproveitamento escolar da frequência de um número mínimo de aulas;\n\nd) Dispensa da obrigatoriedade de inscrição num número mínimo de disciplinas no ensino superior.\n\n2 - As grávidas, as mães e os pais têm direito:\n\na) A realizar exames em época especial, a determinar com os serviços escolares, designadamente no caso de o parto coincidir com a época de exames;\n\nb) À transferência de estabelecimento de ensino;\n\nc) A inscreverem-se em estabelecimentos de ensino fora da área da sua residência.\n\nd) A um regime especial de faltas, consideradas justificadas, sempre que devidamente comprovadas, para consultas pré-natais.\n\n3 - As mães e pais estudantes gozam de um regime especial de faltas, consideradas justificadas, para prestar assistência, em caso de doença ou acidente, a filho menor de 12 anos ou, independentemente da idade, a filho com deficiência ou doença crónica, bem como durante todo o período de eventual hospitalização.\n\n4 - A relevação de faltas às aulas, a leccionação de aulas de compensação e a realização de exames em época especial dependem da apresentação de documento demonstrativo da coincidência com horário lectivo do facto que, à luz da presente lei, impossibilite a sua presença.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 60/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/lei/60-2017-107791610), em vigor a partir de 2017-08-02"
+  },
+  "107793427": {
+   "fragment_id": "107796789",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Avaliação e acompanhamento",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 60/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/lei/60-2017-107791610), em vigor a partir de 2017-08-02"
+   ],
+   "markdown": "###### Artigo 4.º-A — Avaliação e acompanhamento\n\nCompete ao Governo, no âmbito da avaliação e acompanhamento da execução do disposto na presente lei:\n\na) Verificar o cumprimento da sua aplicação pelas escolas e instituições do ensino superior público;\n\nb) Proceder ao levantamento do número de alunos que beneficiaram dos direitos nela consagrados, desde a sua publicação;\n\nc) Elaborar um relatório sobre a realidade da gravidez precoce e da gravidez em jovens estudantes, com base nos elementos que anualmente resultem do previsto nas alíneas anteriores;\n\nd) Estudar e implementar medidas de apoio social, designadamente no âmbito da ação social escolar, que garantam os necessários apoios económicos e sociais para que as mães e pais estudantes prossigam os seus estudos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 60/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/lei/60-2017-107791610), em vigor a partir de 2017-08-02"
+  },
+  "107793428": {
+   "fragment_id": "107796780",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor no 30.º dia após a publicação."
+  },
+  "107793429": {
+   "fragment_id": "107796781",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Junho de 2001.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 4 de Agosto de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Agosto de 2001.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  }
+ }
+}

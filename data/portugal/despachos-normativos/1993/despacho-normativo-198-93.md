@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:357530:por
+title: Despacho Normativo n.º 198/93
+short_title: null
+summary: Aprova o Regulamento de Estágio para Ingresso nas Carreiras do Grupo de Pessoal Técnico Superior do Quadro da Direcção-Geral
+  da Navegação e dos Transportes Marítimos
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 198/93
+official_date: null
+publication_date: '1993-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 185/1993, Série I-B de 1993-08-09
+  number: '185'
+  series: I
+  supplement: null
+  pages: 4251 - 4252
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/08/185b00/42514252.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/198/1993/08/09/p/dre/pt/html
+  oj: null
+  dre: '357530'
+  dre_path: /dr/detalhe/despacho-normativo/198-1993-357530
+  internal: pt:dre:357530:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/198-1993-357530
+  metadata_url: https://data.dre.pt/eli/despnorm/198/1993/08/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/198-1993-357530
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-08-09T00:00:00Z'
+integrity:
+  source_sha256: 703f933a62092fb9d748e73db7222de9ddabbd18667745dad40a5698dbc33768
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-198-357530.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Direcção Geral da Navegação e dos Transportes Marítimos
+- Carreira Profissional
+- Pessoal Técnico Superior
+- Estágio de Formação
+- Regulamento de Estágio
+relationships: []
+article_structure:
+  article_count: 13
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 198/93
+
+Ao abrigo dos n.os 9 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, e de harmonia com as regras contidas no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, é aprovado o Regulamento de Estágio para Ingresso nas Carreiras do Grupo de Pessoal Técnico Superior do Quadro da Direcção-Geral da Navegação e dos Transportes Marítimos anexo ao presente despacho, que dele faz parte integrante.
+
+Ministério do Mar, 6 de Julho de 1993. - O Secretário de Estado Adjunto e das Pescas, João Prates Bebiana.
+
+## ANEXO
+
+Regulamento de Estágio para Ingresso nas Carreiras do Grupo de Pessoal Técnico Superior do Quadro da Direcção-Geral da Navegação e dos Transportes Marítimos.
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos do estágio
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se aos estagiários das carreiras do grupo de pessoal técnico superior da Direcção-Geral da Navegação e dos Transportes Marítimos (DGNTM).
+
+###### Artigo 2.º — Objectivos do estágio
+
+O estágio tem como objectivos proporcionar aos estagiários um conhecimento global das atribuições e funcionamento da DGNTM e a sua preparação com vista ao desempenho das funções para que foram recrutados, bem como a avaliação da sua capacidade de adaptação à função.
+
+### CAPÍTULO II — Da realização do estágio
+
+###### Artigo 3.º — Natureza e duração
+
+O estágio tem carácter probatório e a duração de um ano.
+
+###### Artigo 4.º — Programa
+
+O programa do estágio será aprovado por despacho do director-geral
+
+###### Artigo 5.º — Coordenação
+
+1 - O estágio decorrerá sob a coordenação de um dirigente do serviço onde o estagiário irá exercer funções.
+
+2 - Ao coordenador compete:
+
+a) Definir o plano do estágio e submetê-lo à aprovação do director-geral;
+
+b) Acompanhar o desenvolvimento do estágio, atribuindo progressivamente ao estagiário tarefas de maior complexidade e responsabilidade;
+
+c) Definir as acções de formação necessárias e avaliar os seus resultados;
+
+d) Atribuir a classificação de serviço relativa ao período de estágio.
+
+###### Artigo 6.º
+
+1 - O estágio compreende duas fases:
+
+a) Fase de sensibilização;
+
+b) Fase teórico-prática.
+
+2 - A fase de sensibilização desta-se ao estabelecimento de um contacto inicial com os serviços e visará dar a conhecer ao estagiário as atribuições e funcionamento dos serviços da DGNTM, bem como proporcionar-lhe o conhecimento dos direitos e deveres dos funcionários da Administração Pública.
+
+3 - A fase teórico-prática decorre no serviço onde o estagiário vai desempenhar funções e destina-se a:
+
+a) Proporcionar uma visão mais detalhada das atribuições, competências e estrutura do serviço onde é colocado e da sua articulação com os restantes serviços da DGNTM;
+
+b) Fornecer os conhecimentos indispensáveis ao exercício das respectivas funções e proporcionar a aquisição das metodologias de trabalho apropriadas;
+
+c) Fornecer formação complementar, quando a natureza das funções o exijam;
+
+d) Avaliar a capacidade de adaptação à função.
+
+### CAPÍTULO III — Da avaliação e classificação final
+
+###### Artigo 7.º — Elementos de avaliação
+
+A avaliação e classificação final serão feitas nos termos fixados no aviso de abertura do concurso e terão em atenção o relatório de estágio, a classificação de serviço relativa ao período de estágio e a avaliação dos cursos de formação caso estes tenham sido efectuados.
+
+###### Artigo 8.º — Relatório de estágio
+
+1 - O relatório de estágio deverá ser apresentado ao júri até 15 dias úteis contados a partir do termo do período de estágio.
+
+2 - Da avaliação do relatório constituem parâmetros de ponderação obrigatória a estrutura, a criatividade, a profundidade de análise, a capacidade de síntese, a forma de expressão e a clareza de exposição.
+
+3 - A nota final será expressa numa escala de 0 a 20 valores.
+
+###### Artigo 9.º — Classificação de serviço
+
+A classificação de serviço será atribuída pelo coordenador do estágio, com observância das regras previstas na lei geral.
+
+###### Artigo 10.º — Júri de estágio
+
+1 - A avaliação e classificação final competem a um júri constituído nos termos definidos no aviso de abertura do concurso.
+
+2 - O funcionamento do júri rege-se pelas disposições do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+
+###### Artigo 11.º — Classificação final
+
+A classificação final, expressa na escala de 0 a 20 valores, resultará da média ponderada dos elementos de avaliação, de acordo com as seguintes fórmulas:
+
+Com acções de formação sujeitas a avaliação final:
+
+CF = (4RE + 4(2CS) + 2FP)/10
+
+Sem acções de formação:
+
+CF = (4RE + 4(2CS))/8
+
+em que:
+
+CF = classificação final;
+
+RE = relatório de estágio;
+
+CS = classificação de serviço;
+
+FP = formação profissional (média das notas das acções de formação, na escala de 0 a 20 valores).
+
+###### Artigo 12.º — Ordenação final
+
+1 - Os estagiários serão ordenados pelo júri em função da classificação final do estágio.
+
+2 - Compete ao júri estabelecer critérios de desempate, sempre que se verifique igualdade de classificação.
+
+###### Artigo 13.º — Homologação, publicitação e recurso da lista de classificação final
+
+Em matéria de homologação, publicitação e recurso da lista de classificação final, aplicam-se as regras contidas no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.

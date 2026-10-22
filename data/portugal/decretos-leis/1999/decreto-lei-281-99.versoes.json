@@ -1,0 +1,268 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:353354:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-212243417",
+ "dre_path": "/dr/detalhe/decreto-lei/281-1999-353354",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-07-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212074987",
+    "212074988",
+    "212074989",
+    "212074990",
+    "212074991",
+    "212074992",
+    "212074993",
+    "212074994",
+    "212074995"
+   ]
+  },
+  {
+   "date": "2008-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456492:por",
+     "title": "Decreto-Lei n.º 116/2008",
+     "published": "2008-07-04",
+     "dre_path": "/dr/detalhe/decreto-lei/116-2008-456492"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "212074987",
+    "212074997",
+    "212074989",
+    "212074990",
+    "212074991",
+    "212074992",
+    "212074993",
+    "212074994",
+    "212074995",
+    "212074996"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:836222484:por",
+     "title": "Decreto-Lei n.º 10/2024",
+     "published": "2024-01-08",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2024-836222484",
+     "date": "2024-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2024-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836222484:por",
+     "title": "Decreto-Lei n.º 10/2024",
+     "published": "2024-01-08",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2024-836222484"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "212074987",
+    "854640505",
+    "854640498",
+    "854640499",
+    "854640500",
+    "854640501",
+    "854640502",
+    "854640503",
+    "854640504",
+    "212074996"
+   ]
+  }
+ ],
+ "fragments": {
+  "212074987": {
+   "fragment_id": "212243418",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 281/99\n\nde 26 de Julho\n\nO artigo 44.º da Lei n.º 46/85, de 20 de Setembro, na redacção atribuída pelo Decreto-Lei n.º 74/86, de 23 de Abril, foi mantido em vigor por força do n.º 6 do artigo 3.º do Decreto-Lei n.º 321-B/90, de 15 de Outubro.\n\nA disposição do seu n.º 1 daquele preceito tem suscitado duas interpretações opostas: segundo uns, a expressão «licença de construção ou de utilização, quando exigível» significa que a escritura pública que envolva a transmissão da propriedade de prédios urbanos pode ser celebrada desde que uma das licenças seja exibida, aludindo a expressão «quando exigível» aos prédios para cuja construção a lei não obrigava a licenciamento; segundo outros, a mesma expressão não atribui valor equivalente àquelas licenças, querendo significar que deve ser exibida a licença que, em concreto, couber, ou seja: a de construção, no caso de a compra incidir sobre prédio em construção; a de utilização, se respeitar a prédio já concluído.\n\nA divergência, pelo seu relevo no tecido económico-social, carece de aprofundada reflexão e inserção na sistemática normativa do regime de licenciamento de obras particulares, pois é, por excelência, nesse domínio que a norma em causa decisivamente interfere.\n\nEntretanto, importa transitoriamente superar os efeitos gravemente nocivos de tal diferendo interpretativo, o qual, no segundo termo da alternativa, pode inviabilizar a transmissão de milhares de prédios urbanos; do mesmo passo, é necessário pôr cobro à incerteza em que se encontram numerosos adquirentes de fracções autónomas transmitidas apenas mediante licença de construção.\n\nAté melhor estudo, de carácter mais genérico, opta-se por uma solução que, salvaguardando os limites razoáveis de segurança do comércio jurídico, vá de encontro às compreensíveis preocupações de todos os interessados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "212074988": {
+   "fragment_id": "212243419",
+   "type": 11,
+   "heading": "Artigo 1.º — Apresentação da licença de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Apresentação da licença de utilização\n\n1 - Não podem ser celebradas escrituras públicas que envolvam a transmissão da propriedade de prédios urbanos ou de suas fracções autónomas sem que se faça perante o notário prova suficiente da inscrição na matriz predial, ou da respectiva participação para a inscrição, e da existência da correspondente licença de utilização, de cujo alvará, ou isenção de alvará, se faz sempre menção expressa na escritura.\n\n2 - Para efeitos do disposto no número anterior, nos prédios submetidos ao regime de propriedade horizontal, a menção deve especificar se a licença de utilização foi atribuída ao prédio na sua totalidade ou apenas à fracção autónoma a transmitir."
+  },
+  "212074989": {
+   "fragment_id": "212243420",
+   "type": 11,
+   "heading": "Artigo 2.º — Apresentação de licença de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Apresentação de licença de construção\n\n1 - A apresentação do alvará de licença de utilização, no caso de já ter sido requerido e não emitido, pode ser substituída pela exibição do alvará da licença de construção do imóvel, independentemente do respectivo prazo de validade, desde que:\n\na) O transmitente faça prova de que está requerida a licença de utilização;\n\nb) O transmitente declare que a construção se encontra concluída, que não está embargada, que não foi notificado de apreensão do alvará de licença de construção, que o pedido de licença de utilização não foi indeferido, que decorreram mais de 50 dias sobre a data do seu requerimento e que não foi notificado para o pagamento das taxas devidas.\n\n2 - Nas subsequentes transmissões de fracções autónomas, de prédios constituídos em regime de propriedade horizontal, o transmitente apenas tem de fazer prova de que foi requerida a licença de utilização e declarar que o pedido não foi indeferido nem a licença emitida no prazo de 50 dias sobre a data do seu requerimento e que não foi notificado para o pagamento das taxas devidas.\n\n3 - No caso da transmissão de fracções autónomas de prédio urbano alienado a diferentes condóminos nas condições do n.º 1, são sempre responsáveis solidariamente pela obtenção da licença de utilização o titular do alvará da licença de construção e o primeiro transmitente.\n\n4 - Na transmissão de prédios urbanos que o alienante declare como não concluídos, com licença de construção em vigor, ou na situação dos edifícios inacabados prevista no artigo 73.º-A do Decreto-Lei n.º 445/91, de 20 de Novembro, na redacção dada pelo Decreto-Lei n.º 250/94, de 15 de Outubro, é bastante a exibição do alvará de licença de construção, independentemente do seu prazo de validade.\n\n5 - O disposto no número anterior não é aplicável à transmissão de fracções autónomas de prédios urbanos constituídos em propriedade horizontal nem a moradias unifamiliares.\n\n6 - O notário deve consignar no documento o número e a data de emissão da licença de construção e o respectivo prazo de validade, bem como a advertência aos outorgantes sobre o teor dos n.os 2 e 3 do presente artigo e do artigo seguinte."
+  },
+  "212074990": {
+   "fragment_id": "212243421",
+   "type": 11,
+   "heading": "Artigo 3.º — Efeito das declarações prestadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Efeito das declarações prestadas\n\nSem prejuízo de outra responsabilidade que no caso couber, o autor das declarações previstas na alínea b) do n.º 1 e no n.º 2 do artigo anterior constitui-se responsável pelos danos causados ao adquirente ou a terceiros em virtude da declaração emitida em desconformidade com a verdade."
+  },
+  "212074991": {
+   "fragment_id": "212243422",
+   "type": 11,
+   "heading": "Artigo 4.º — Justificação relativa ao trato sucessivo no registo predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Justificação relativa ao trato sucessivo no registo predial\n\nA justificação para os efeitos do artigo 116.º do Código do Registo Predial que tiver por objecto prédios urbanos fica sujeita à disciplina deste diploma, na parte que lhe for aplicável."
+  },
+  "212074992": {
+   "fragment_id": "212243423",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\n1 - Constituem contra-ordenações as declarações a que se referem a alínea b) do n.º 1 e o n.º 2 do artigo 2.º, quando emitidas em desconformidade com a verdade.\n\n2 - As contra-ordenações mencionadas no número anterior são puníveis com coima no montante mínimo de 100000$00 e máximo de 750000$00, para as pessoas singulares, e entre 500000$00 e 9000000$00, para as pessoas colectivas.\n\n3 - São puníveis a tentativa e a negligência.\n\n4 - A competência para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas pertence à câmara municipal, podendo ser delegada em qualquer dos seus membros."
+  },
+  "212074993": {
+   "fragment_id": "212243424",
+   "type": 11,
+   "heading": "Artigo 6.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sanções acessórias\n\nAs contra-ordenações previstas no n.º 1 do artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:\n\na) A interdição do exercício no município, até ao máximo de dois anos, da profissão ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nb) A privação do direito a subsídios outorgados por entidades ou serviços públicos."
+  },
+  "212074994": {
+   "fragment_id": "212243425",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o n.º 1 do artigo 44.º da Lei n.º 46/85, de 20 de Setembro."
+  },
+  "212074995": {
+   "fragment_id": "212243426",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "212074997": {
+   "fragment_id": "212243419",
+   "type": 11,
+   "heading": "Artigo 1.º — Apresentação da licença de utilização",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 1.º — Apresentação da licença de utilização\n\n1 - Não podem ser realizados actos que envolvam a transmissão da propriedade de prédios urbanos ou de suas fracções autónomas sem que se faça prova da existência da correspondente autorização de utilização, perante a entidade que celebrar a escritura ou autenticar o documento particular.\n\n2 - Nos actos de transmissão de imóveis é feita sempre menção do alvará da autorização de utilização, com a indicação do respectivo número e data de emissão, ou da sua isenção.\n\n3 - Nos prédios submetidos ao regime da propriedade horizontal, a menção deve especificar se a autorização de utilização foi atribuída ao prédio na sua totalidade ou apenas à fracção autónoma a transmitir.\n\n4 - A apresentação de autorização de utilização nos termos do n.º 1 é dispensada se a existência desta estiver anotada no registo predial e o prédio não tiver sofrido alterações.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21"
+  },
+  "212074996": {
+   "fragment_id": "212243427",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 8 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "854640505": {
+   "fragment_id": "212243419",
+   "type": 11,
+   "heading": "Artigo 1.º — Apresentação da licença de utilização",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 1.º — Apresentação da licença de utilização\n\n1 - Não podem ser realizados actos que envolvam a transmissão da propriedade de prédios urbanos ou de suas fracções autónomas sem que se faça prova da existência da correspondente autorização de utilização, perante a entidade que celebrar a escritura ou autenticar o documento particular.\n\n2 - Nos actos de transmissão de imóveis é feita sempre menção do alvará da autorização de utilização, com a indicação do respectivo número e data de emissão, ou da sua isenção.\n\n3 - Nos prédios submetidos ao regime da propriedade horizontal, a menção deve especificar se a autorização de utilização foi atribuída ao prédio na sua totalidade ou apenas à fracção autónoma a transmitir.\n\n4 - A apresentação de autorização de utilização nos termos do n.º 1 é dispensada se a existência desta estiver anotada no registo predial e o prédio não tiver sofrido alterações.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2008-07-21"
+  },
+  "854640498": {
+   "fragment_id": "212243420",
+   "type": 11,
+   "heading": "Artigo 2.º — Apresentação de licença de construção",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+   ],
+   "markdown": "###### Artigo 2.º — Apresentação de licença de construção\n\n1 - A apresentação do alvará de licença de utilização, no caso de já ter sido requerido e não emitido, pode ser substituída pela exibição do alvará da licença de construção do imóvel, independentemente do respectivo prazo de validade, desde que:\n\na) O transmitente faça prova de que está requerida a licença de utilização;\n\nb) O transmitente declare que a construção se encontra concluída, que não está embargada, que não foi notificado de apreensão do alvará de licença de construção, que o pedido de licença de utilização não foi indeferido, que decorreram mais de 50 dias sobre a data do seu requerimento e que não foi notificado para o pagamento das taxas devidas.\n\n2 - Nas subsequentes transmissões de fracções autónomas, de prédios constituídos em regime de propriedade horizontal, o transmitente apenas tem de fazer prova de que foi requerida a licença de utilização e declarar que o pedido não foi indeferido nem a licença emitida no prazo de 50 dias sobre a data do seu requerimento e que não foi notificado para o pagamento das taxas devidas.\n\n3 - No caso da transmissão de fracções autónomas de prédio urbano alienado a diferentes condóminos nas condições do n.º 1, são sempre responsáveis solidariamente pela obtenção da licença de utilização o titular do alvará da licença de construção e o primeiro transmitente.\n\n4 - Na transmissão de prédios urbanos que o alienante declare como não concluídos, com licença de construção em vigor, ou na situação dos edifícios inacabados prevista no artigo 73.º-A do Decreto-Lei n.º 445/91, de 20 de Novembro, na redacção dada pelo Decreto-Lei n.º 250/94, de 15 de Outubro, é bastante a exibição do alvará de licença de construção, independentemente do seu prazo de validade.\n\n5 - O disposto no número anterior não é aplicável à transmissão de fracções autónomas de prédios urbanos constituídos em propriedade horizontal nem a moradias unifamiliares.\n\n6 - O notário deve consignar no documento o número e a data de emissão da licença de construção e o respectivo prazo de validade, bem como a advertência aos outorgantes sobre o teor dos n.os 2 e 3 do presente artigo e do artigo seguinte.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+  },
+  "854640499": {
+   "fragment_id": "212243421",
+   "type": 11,
+   "heading": "Artigo 3.º — Efeito das declarações prestadas",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+   ],
+   "markdown": "###### Artigo 3.º — Efeito das declarações prestadas\n\nSem prejuízo de outra responsabilidade que no caso couber, o autor das declarações previstas na alínea b) do n.º 1 e no n.º 2 do artigo anterior constitui-se responsável pelos danos causados ao adquirente ou a terceiros em virtude da declaração emitida em desconformidade com a verdade.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+  },
+  "854640500": {
+   "fragment_id": "212243422",
+   "type": 11,
+   "heading": "Artigo 4.º — Justificação relativa ao trato sucessivo no registo predial",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+   ],
+   "markdown": "###### Artigo 4.º — Justificação relativa ao trato sucessivo no registo predial\n\nA justificação para os efeitos do artigo 116.º do Código do Registo Predial que tiver por objecto prédios urbanos fica sujeita à disciplina deste diploma, na parte que lhe for aplicável.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+  },
+  "854640501": {
+   "fragment_id": "212243423",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+   ],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\n1 - Constituem contra-ordenações as declarações a que se referem a alínea b) do n.º 1 e o n.º 2 do artigo 2.º, quando emitidas em desconformidade com a verdade.\n\n2 - As contra-ordenações mencionadas no número anterior são puníveis com coima no montante mínimo de 100000$00 e máximo de 750000$00, para as pessoas singulares, e entre 500000$00 e 9000000$00, para as pessoas colectivas.\n\n3 - São puníveis a tentativa e a negligência.\n\n4 - A competência para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas pertence à câmara municipal, podendo ser delegada em qualquer dos seus membros.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+  },
+  "854640502": {
+   "fragment_id": "212243424",
+   "type": 11,
+   "heading": "Artigo 6.º — Sanções acessórias",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+   ],
+   "markdown": "###### Artigo 6.º — Sanções acessórias\n\nAs contra-ordenações previstas no n.º 1 do artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:\n\na) A interdição do exercício no município, até ao máximo de dois anos, da profissão ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nb) A privação do direito a subsídios outorgados por entidades ou serviços públicos.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+  },
+  "854640503": {
+   "fragment_id": "212243425",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+   ],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o n.º 1 do artigo 44.º da Lei n.º 46/85, de 20 de Setembro.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+  },
+  "854640504": {
+   "fragment_id": "212243426",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2024-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04"
+  }
+ }
+}

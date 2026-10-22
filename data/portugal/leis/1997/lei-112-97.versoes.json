@@ -1,0 +1,465 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:649166:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-107755551",
+ "dre_path": "/dr/detalhe/lei/112-1997-649166",
+ "source_lastmod": "2024-09-06",
+ "versions": [
+  {
+   "date": "1997-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107756643",
+    "107756644",
+    "107756645",
+    "107756646",
+    "107756647",
+    "107756648",
+    "107756649",
+    "107756650",
+    "107756651",
+    "107756652",
+    "107756653",
+    "107756654",
+    "107756655",
+    "107756656",
+    "107756657",
+    "107756658",
+    "107756659",
+    "107756660",
+    "107756661",
+    "107756662",
+    "107756663"
+   ]
+  },
+  {
+   "date": "2012-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:190201:por",
+     "title": "Lei n.º 64/2012",
+     "published": "2012-12-20",
+     "dre_path": "/dr/detalhe/lei/64-2012-190201"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "107756643",
+    "107756644",
+    "107756645",
+    "107756646",
+    "107756647",
+    "107756648",
+    "107756649",
+    "107756650",
+    "107756651",
+    "107756652",
+    "107756653",
+    "107756654",
+    "107756655",
+    "107756656",
+    "107756657",
+    "872631105",
+    "107756659",
+    "107756660",
+    "107756661",
+    "107756662",
+    "107756663",
+    "872631083",
+    "872631084",
+    "872631085",
+    "872631086",
+    "872631088",
+    "872631087",
+    "872631089",
+    "872631090",
+    "872631091",
+    "872631092",
+    "872631093",
+    "872631094",
+    "872631095",
+    "872631096",
+    "872631097",
+    "107756664"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "107756643",
+    "107756644",
+    "107756645",
+    "107756646",
+    "107756647",
+    "107756648",
+    "107756649",
+    "107756650",
+    "107756651",
+    "107756652",
+    "107756653",
+    "107756654",
+    "107756655",
+    "107756656",
+    "107756657",
+    "872631106",
+    "107756659",
+    "107756660",
+    "107756661",
+    "107756662",
+    "107756663",
+    "872631083",
+    "872631084",
+    "872631085",
+    "872631086",
+    "872631088",
+    "872631087",
+    "872631089",
+    "872631090",
+    "872631091",
+    "872631092",
+    "872631093",
+    "872631094",
+    "872631095",
+    "872631096",
+    "872631097",
+    "107756664"
+   ]
+  }
+ ],
+ "fragments": {
+  "107756643": {
+   "fragment_id": "107755552",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 112/97\n\nde 16 de Setembro\n\nEstabelece o regime jurídico da concessão de garantias pessoais pelo Estado ou por outras pessoas colectivas de direito público\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "107756644": {
+   "fragment_id": "107755553",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "107756645": {
+   "fragment_id": "107755554",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e princípios gerais\n\n1 - O presente diploma aplica-se à concessão de garantias pessoais pelo Estado e por outras pessoas colectivas de direito público.\n\n2 - A concessão de garantias pessoais reveste-se de carácter excepcional, fundamenta-se em manifesto interesse para a economia nacional e faz-se com respeito pelo princípio da igualdade, pelas regras de concorrência nacionais e comunitárias e em obediência ao disposto na presente lei."
+  },
+  "107756646": {
+   "fragment_id": "107755555",
+   "type": 11,
+   "heading": "Artigo 2.º — Assunção de garantias pessoais pelo Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Assunção de garantias pessoais pelo Estado\n\n1 - A assunção de garantias pessoais pelo Estado apenas poderá ser realizada de acordo com as normas previstas no presente diploma, sob pena de nulidade.\n\n2 - A violação, por parte de membros do Governo, do disposto na presente lei constitui crime de responsabilidade punível nos termos do artigo 14.º da Lei n.º 34/87, de 16 de Julho."
+  },
+  "107756647": {
+   "fragment_id": "107755556",
+   "type": 11,
+   "heading": "Artigo 3.º — Fundos e serviços autónomos e institutos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fundos e serviços autónomos e institutos públicos\n\nA concessão de garantias a favor de terceiros por parte dos fundos e serviços autónomos e dos institutos públicos está sujeita, com as necessárias adaptações, ao disposto no presente diploma, e só será válida mediante despacho de aprovação do Ministro das Finanças, que terá a faculdade de delegar."
+  },
+  "107756648": {
+   "fragment_id": "107755557",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades com independência orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades com independência orçamental\n\nA disciplina prevista no presente diploma não prejudica o regime próprio da prestação de garantias pessoais por entidades que, nos termos da lei, gozem de independência orçamental."
+  },
+  "107756649": {
+   "fragment_id": "107755558",
+   "type": 11,
+   "heading": "Artigo 5.º — Limite máximo para a concessão de garantias pelo Estado e por outras pessoas colectivas de direito público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limite máximo para a concessão de garantias pelo Estado e por outras pessoas colectivas de direito público\n\n1 - A Assembleia da República fixa, na Lei do Orçamento ou em lei especial, o limite máximo das garantias pessoais a conceder em cada ano pelo Estado e por outras pessoas colectivas de direito público, o qual não pode ser excedido.\n\n2 - A Direcção-Geral do Tesouro informará previamente sobre o cabimento de cada operação de garantias pessoais no limite máximo fixado para cada ano, incorrendo em responsabilidade financeira pelo montante em excesso, se for efectivado, a entidade responsável pela informação, se esta for omissa ou errada, ou o autor do acto ou o membro do Governo competente, se decidir contra a informação prestada.\n\n3 - No caso de não estar aprovada Lei do Orçamento no início do ano económico, poderá ser excedido, por duodécimos, o montante fixado no ano anterior, sempre que a respectiva lei de autorização o não proibir."
+  },
+  "107756650": {
+   "fragment_id": "107755559",
+   "type": 1,
+   "heading": "Capítulo II — Operações a garantir, beneficiários e modalidades das garantias pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Operações a garantir, beneficiários e modalidades das garantias pessoais"
+  },
+  "107756651": {
+   "fragment_id": "107755560",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações a garantir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações a garantir\n\nAs garantias pessoais destinam-se a assegurar a realização de operações de crédito ou de outras operações financeiras, nacionais ou internacionais, de que sejam beneficiárias entidades públicas, empresas nacionais ou outras empresas que legalmente gozem de igualdade de tratamento."
+  },
+  "107756652": {
+   "fragment_id": "107755561",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades de garantias pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modalidades de garantias pessoais\n\nO Estado adoptará na concessão de garantias pessoais a fiança ou o aval."
+  },
+  "107756653": {
+   "fragment_id": "107755562",
+   "type": 1,
+   "heading": "Capítulo III — Dos critérios de autorização das garantias pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos critérios de autorização das garantias pessoais"
+  },
+  "107756654": {
+   "fragment_id": "107755563",
+   "type": 11,
+   "heading": "Artigo 8.º — Finalidades das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Finalidades das operações\n\nAs garantias pessoais serão prestadas quando se trate de operações de crédito ou financeiras relativas a empreendimentos ou projectos de manifesto interesse para a economia nacional."
+  },
+  "107756655": {
+   "fragment_id": "107755564",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições para a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições para a autorização\n\n1 - As garantias pessoais só podem ser autorizadas ou aprovadas quando se verifiquem cumulativamente as seguintes condições:\n\na) Ter o Estado participação na empresa ou interesse no empreendimento, projecto ou operação financeira que justifique a concessão da garantia;\n\nb) Existir um projecto concreto de investimento ou um estudo especificado da operação a garantir, bem como uma programação financeira rigorosa;\n\nc) Apresentar o beneficiário da garantia características económicas, financeiras e organizacionais que ofereçam segurança suficiente para fazer face às responsabilidades que pretende assumir;\n\nd) A concessão de garantia se mostre imprescindível para a realização da operação de crédito ou financeira, designadamente por inexistência ou insuficiência de outras garantias.\n\n2 - Sem prejuízo do disposto no número anterior, a garantia destina-se a assegurar a realização de operações, projectos ou empreendimentos que visem pelo menos um dos seguintes objectivos:\n\na) Realização de investimentos de reduzida rentabilidade, designadamente tendo em conta o risco envolvido, desde que integrados em empreendimentos de interesse económico e social;\n\nb) Realização de investimentos de rentabilidade adequada, mas em que a entidade beneficiária, sendo economicamente viável, apresente, contudo, deficiência transitória da sua situação financeira;\n\nc) Manutenção da exploração enquanto se proceda, por intermédio de qualquer entidade designada pelo Governo, ao estudo e concretização de acções de viabilização;\n\nd) Concessão de auxílio financeiro extraordinário.\n\n3 - Salvo no caso previsto na alínea c) do número anterior, a garantia nunca poderá ser autorizada para garantir operações que visem o mero reforço da tesouraria da entidade beneficiária ou o financiamento dos seus gastos correntes.\n\n4 - No caso de as operações de crédito ou financeiras se destinarem ou forem utilizadas para um fim diferente dos previstos no despacho de autorização ou de aprovação, a garantia caduca."
+  },
+  "107756656": {
+   "fragment_id": "107755565",
+   "type": 11,
+   "heading": "Artigo 10.º — Proibição de utilização dos empréstimos por outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Proibição de utilização dos empréstimos por outras entidades\n\n1 - Não é autorizada a utilização, total ou parcial, dos empréstimos a que tiver sido dada garantia do Estado, em harmonia com a presente lei, para financiamento de operações a realizar por quaisquer outras entidades.\n\n2 - A violação do disposto no número anterior determina a caducidade da garantia."
+  },
+  "107756657": {
+   "fragment_id": "107755566",
+   "type": 11,
+   "heading": "Artigo 11.º — Contragarantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contragarantias\n\nA concessão de garantias poderá ficar dependente da prestação de contragarantias, em termos a fixar pelo Ministério das Finanças."
+  },
+  "107756658": {
+   "fragment_id": "107755567",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazos de utilização e de reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazos de utilização e de reembolso\n\nSob pena de caducidade da garantia, os créditos garantidos terão prazos de utilização não superiores a 5 anos e deverão ser totalmente reembolsados no prazo máximo de 20 anos a contar das datas dos respectivos contratos."
+  },
+  "107756659": {
+   "fragment_id": "107755568",
+   "type": 1,
+   "heading": "Capítulo IV — Do processo de concessão e execução das garantias pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do processo de concessão e execução das garantias pessoais"
+  },
+  "107756660": {
+   "fragment_id": "107755569",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação e instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação e instrução do pedido\n\n1 - O pedido de concessão de garantia do Estado será dirigido ao Ministro das Finanças pela entidade solicitante do crédito ou beneficiária da operação financeira.\n\n2 - O pedido de concessão da garantia será obrigatoriamente instruído com os seguintes elementos:\n\na) Apreciação da situação económico-financeira da entidade beneficiária e apresentação de indicadores de funcionamento em perspectiva evolutiva;\n\nb) Identificação da operação a garantir nos termos do presente diploma;\n\nc) Demonstração do preenchimento dos critérios de concessão de garantias previstos no presente diploma;\n\nd) Indicação de eventuais contra garantias facultadas ao Estado;\n\ne) Minuta do contrato de empréstimo ou da operação financeira, plano de utilização do financiamento e esquema de reembolso e demonstração da sua compatibilidade com a capacidade financeira previsível da empresa, tendo, designadamente, em conta os reflexos de medidas de natureza económica e financeira que se encontrem programadas para o período de vigência do crédito.\n\n3 - A elaboração dos elementos referidos no número precedente, quando se trate de operações de crédito bancário, será efectuada conjuntamente pela entidade beneficiária e pelo credor.\n\n4 - O Ministério das Finanças poderá solicitar outros elementos instrutórios que considere necessários para avaliar o risco da garantia a conceder."
+  },
+  "107756661": {
+   "fragment_id": "107755570",
+   "type": 11,
+   "heading": "Artigo 14.º — Pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pareceres\n\n1 - O pedido a que se refere o artigo anterior será submetido a parecer dos Ministros responsáveis pelo sector de actividade da entidade beneficiária, o qual incidirá, designadamente, sobre os seguintes aspectos:\n\na) Inserção da operação a garantir na política económica do Governo e apreciação do papel da empresa no conjunto do sector ou da região em que se situa;\n\nb) Medidas de política económica eventualmente previstas, com reflexos sobre a situação da empresa,\n\nc) Elementos a que se refere a alínea e) do n.º 2 do artigo anterior.\n\n2 - O Ministério das Finanças só dará seguimento ao pedido de concessão de garantia após emissão do parecer referido, o qual deverá ser emitido no prazo de 15 dias após a sua solicitação, sem prejuízo de prorrogação por idêntico período."
+  },
+  "107756662": {
+   "fragment_id": "107755571",
+   "type": 11,
+   "heading": "Artigo 15.º — Despacho de autorização ou de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Despacho de autorização ou de aprovação\n\n1 - Em qualquer caso de concessão de garantias é sempre necessário despacho de autorização do Ministro das Finanças.\n\n2 - O despacho referido no número anterior será sempre acompanhado de uma fundamentação clara dos motivos de facto e de direito que determinaram a sua concessão, nomeadamente concretizando de forma explícita o conceito de «interesse para a economia nacional» subjacente, sendo publicado na 2.ª série do Diário da República.\n\n3 - Os despachos devidamente fundamentados que recusem a concessão da garantia devem ser notificados à entidade solicitante."
+  },
+  "107756663": {
+   "fragment_id": "107755572",
+   "type": 11,
+   "heading": "Artigo 16.º — Anexo ao despacho de autorização ou de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Anexo ao despacho de autorização ou de aprovação\n\n1 - Em anexo ao despacho de autorização ou de aprovação figurará sempre a respectiva minuta do contrato de empréstimo ou da operação financeira a garantir, incluindo o plano de reembolso do capital mutuado e do pagamento dos juros, bem como a informação prestada pelo serviço competente do Ministério das Finanças e o parecer a que se refere o artigo 14.º\n\n2 - Sob pena de caducidade da garantia, o plano de reembolso só poderá ser alterado a título excepcional e mediante prévio consentimento do Ministro das Finanças, devendo ser publicado e fundamentado nos termos do n.º 2 do artigo anterior."
+  },
+  "872631105": {
+   "fragment_id": "107755567",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazos de utilização e de reembolso",
+   "in_force_from": "2012-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+   ],
+   "markdown": "###### Artigo 12.º — Prazos de utilização e de reembolso\n\nSob pena de caducidade da garantia, os créditos garantidos terão prazos de utilização não superiores a cinco anos e deverão ser totalmente reembolsados no prazo máximo de 30 a 50 anos a contar das datas dos respetivos contratos.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+  },
+  "872631083": {
+   "fragment_id": "872998608",
+   "type": 11,
+   "heading": "Artigo 17.º — Concessão de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Concessão de garantias\n\n1 - A concessão de garantias, quando autorizada pelo Ministério das Finanças, compete ao director-geral do Tesouro ou seu substituto legal.\n\n2 - Para o efeito, o director-geral do Tesouro poderá outorgar nos respectivos contratos, emitir declarações de garantia autenticadas com o selo branco daquela Direcção-Geral ou assinar títulos representativos das operações garantidas.\n\n3 - A inobservância do disposto no número anterior determina a ineficácia da garantia.\n\n4 - O acto de concessão da garantia deve ser comunicado por escrito pela Direcção-Geral do Tesouro à entidade beneficiária e ao credor."
+  },
+  "872631084": {
+   "fragment_id": "872998609",
+   "type": 11,
+   "heading": "Artigo 18.º — Prazo para o início da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Prazo para o início da operação\n\nA garantia caduca 60 dias após a respectiva comunicação da concessão, se entretanto não tiver sido dado início à operação, salvo fixação expressa e devidamente fundamentada de prazo superior no respectivo acto de concessão."
+  },
+  "872631085": {
+   "fragment_id": "872998610",
+   "type": 1,
+   "heading": "Capítulo V — Das garantias do Estado pela prestação de garantias pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Das garantias do Estado pela prestação de garantias pessoais"
+  },
+  "872631086": {
+   "fragment_id": "872998611",
+   "type": 11,
+   "heading": "Artigo 19.º — Comunicações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comunicações dos beneficiários\n\n1 - As entidades a quem tiver sido concedida garantia do Estado enviarão à Direcção-Geral do Tesouro, no prazo de cinco dias a contar dos respectivos factos, cópia dos documentos comprovativos das amortizações do capital e do pagamento de juros, indicando sempre as correspondentes importâncias que deixam de constituir objecto de garantia do Estado.\n\n2 - As referidas entidades, sempre que reconheçam que não se encontram habilitadas a satisfazer os encargos de amortização e de juros nas datas fixadas para o respectivo pagamento, darão do facto conhecimento à aludida Direcção-Geral, com a antecedência mínima de 30 dias em relação ao vencimento dos referidos encargos.\n\n3 - Em caso de incumprimento da obrigação referida no número anterior, o Estado só pode ser chamado a executar a garantia mediante interpelação feita pelo credor."
+  },
+  "872631088": {
+   "fragment_id": "872998614",
+   "type": 11,
+   "heading": "Artigo 20.º — Outras obrigações dos beneficiários e poder de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Outras obrigações dos beneficiários e poder de fiscalização\n\n1 - As entidades a quem tenha sido concedida garantia do Estado enviarão regularmente à Direcção-Geral do Tesouro e ao credor os documentos de prestação de contas e respectivos anexos, bem como os orçamentos e demais elementos previsionais necessários à detecção de eventuais dificuldades de cumprimento das correspondentes obrigações.\n\n2 - A concessão da garantia do Estado confere ao Governo o direito de proceder à fiscalização da actividade da entidade beneficiária da garantia, tanto do ponto de vista financeiro e económico como do ponto de vista administrativo e técnico."
+  },
+  "872631087": {
+   "fragment_id": "872998612",
+   "type": 11,
+   "heading": "Artigo 21.º — Fiscalização do cumprimento de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiscalização do cumprimento de encargos\n\nCompete à Direcção-Geral do Tesouro assegurar e fiscalizar o cumprimento dos encargos emergentes da execução de garantias do Estado."
+  },
+  "872631089": {
+   "fragment_id": "872998615",
+   "type": 11,
+   "heading": "Artigo 22.º — Garantias do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Garantias do Estado\n\n1 - Sem prejuízo das garantias que em cada caso sejam estipuladas, o Estado goza de privilégio mobiliário geral sobre os bens das entidades beneficiárias de garantia pelas quantias que tiver efectivamente despendido, a qualquer título, em razão da garantia concedida.\n\n2 - O privilégio creditório referido no número anterior será graduado conjuntamente com os previstos na alínea a) do n.º 1 do artigo 747.º do Código Civil."
+  },
+  "872631090": {
+   "fragment_id": "872998616",
+   "type": 11,
+   "heading": "Artigo 23.º — Taxas das garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Taxas das garantias\n\nAs taxas das garantias concedidas, a pagar pelas entidades beneficiárias, serão fixadas por despacho do Ministro das Finanças."
+  },
+  "872631091": {
+   "fragment_id": "872998617",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime supletivo\n\nSem prejuízo das garantias especiais atribuídas ao Estado pela legislação vigente e do disposto neste diploma, as relações entre os vários intervenientes nas operações de garantia disciplinadas pela presente lei estão sujeitas supletivamente ao regime jurídico da fiança previsto no Código Civil, excepto quando seja aposta assinatura no título cambiário, caso em que serão aplicáveis os regimes da Lei Uniforme sobre Letras e Livranças e da Lei Uniforme Relativa ao Cheque."
+  },
+  "872631092": {
+   "fragment_id": "872998618",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "872631093": {
+   "fragment_id": "872998619",
+   "type": 11,
+   "heading": "Artigo 25.º — Relação de beneficiários e respectivas responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Relação de beneficiários e respectivas responsabilidades\n\n1 - Será publicada em anexo à Conta Geral do Estado a relação nominal dos beneficiários das garantias pessoais do Estado, com indicação das respectivas responsabilidades, apuradas em relação a 31 de Dezembro de cada ano, bem como com a indicação das responsabilidades totais do Estado por garantias prestadas, devidamente discriminadas e com referência à mesma data.\n\n2 - Os fundos e serviços autónomos e os institutos públicos enviarão mensalmente à Direcção-Geral do Tesouro a relação nominal dos beneficiários das garantias concedidas, com discriminação das modalidades e condições financeiras aprovadas, prazos de utilização e contrapartidas."
+  },
+  "872631094": {
+   "fragment_id": "872998620",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime de cobrança coercivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime de cobrança coercivo\n\nA cobrança coerciva das dívidas resultantes da concessão de garantias pessoais será feita através do processo de execução fiscal."
+  },
+  "872631095": {
+   "fragment_id": "872998621",
+   "type": 11,
+   "heading": "Artigo 27.º — Regime transitório dos valores das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime transitório dos valores das taxas\n\nEnquanto não forem fixadas novas taxas a que se refere o artigo 23.º mantêm-se em vigor para as garantias pessoais as taxas previstas para o aval do Estado."
+  },
+  "872631096": {
+   "fragment_id": "872998622",
+   "type": 11,
+   "heading": "Artigo 28.º — Normas revogadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Normas revogadas\n\nSão revogados o Decreto-Lei n.º 45337, de 4 de Novembro de 1963, a Lei n.º 1/73, de 2 de Janeiro, e todos os diplomas que contrariem o disposto na presente lei."
+  },
+  "872631097": {
+   "fragment_id": "872998623",
+   "type": 11,
+   "heading": "Artigo 29.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Aplicação no tempo\n\nO presente diploma apenas se aplica às garantias autorizadas ou aprovadas após a sua entrada em vigor."
+  },
+  "107756664": {
+   "fragment_id": "107755573",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 17 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 27 de Agosto de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 2 de Setembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "872631106": {
+   "fragment_id": "107755567",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazos de utilização e de reembolso",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 178.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+   ],
+   "markdown": "###### Artigo 12.º — Prazos de utilização e de reembolso\n\nSob pena de caducidade da garantia, os créditos garantidos terão prazos de utilização não superiores a 7 anos e deverão ser totalmente reembolsados no prazo máximo de 50 anos, a contar das datas dos respetivos contratos.\n\n> Alterado pelo/a Artigo 178.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+  }
+ }
+}

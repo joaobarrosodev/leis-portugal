@@ -1,0 +1,345 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:689182:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1970-899756291",
+ "dre_path": "/dr/detalhe/decreto-lei/653-1970-689182",
+ "source_lastmod": "2024-12-10",
+ "versions": [
+  {
+   "date": "1970-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "899755730",
+    "899755731",
+    "899755732",
+    "899755733",
+    "899755734",
+    "899755735",
+    "899755736",
+    "899755737",
+    "899755738",
+    "899755739",
+    "899755740",
+    "899755741",
+    "899755742",
+    "899755743",
+    "899755744",
+    "899755745",
+    "899755746",
+    "899755747",
+    "899755748",
+    "899755749",
+    "899755750",
+    "899755751"
+   ]
+  },
+  {
+   "date": "1971-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:445920:por",
+     "title": "Declaração",
+     "published": "1971-01-27",
+     "dre_path": "/dr/detalhe/declaracao/1971-445920"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "899755730",
+    "899755731",
+    "899755732",
+    "899755733",
+    "899755734",
+    "899755735",
+    "899755736",
+    "899756476",
+    "899755738",
+    "899755739",
+    "899755740",
+    "899755741",
+    "899755742",
+    "899755743",
+    "899755744",
+    "899755745",
+    "899755746",
+    "899755747",
+    "899755748",
+    "899755749",
+    "899755750",
+    "899755751",
+    "899755752",
+    "899755773",
+    "899755774"
+   ]
+  },
+  {
+   "date": "1974-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:411132:por",
+     "title": "Decreto-Lei n.º 697/73",
+     "published": "1973-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/697-1973-411132"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "899755730",
+    "899755731",
+    "899755732",
+    "899755733",
+    "899755734",
+    "899755735",
+    "899755736",
+    "899756476",
+    "899755738",
+    "899755739",
+    "899755740",
+    "899755741",
+    "899755742",
+    "899755743",
+    "899755744",
+    "899755745",
+    "899755746",
+    "899755747",
+    "899755748",
+    "899756477",
+    "899755750",
+    "899755751",
+    "899755752",
+    "899755773",
+    "899755774"
+   ]
+  }
+ ],
+ "fragments": {
+  "899755730": {
+   "fragment_id": "899756292",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 653/70\n\nde 28 de Dezembro\n\nCom o presente decreto-lei dá-se cumprimento, na sua maior parte, ao preceito do artigo 10.º da lei de autorização das receitas e despesas para 1971.\n\nA redução da taxa da contribuição industrial pode considerar-se a medida verdadeiramente fulcral e determinativa da quase totalidade dos preceitos deste diploma.\n\nAo objectivo predominante que com ela se pretende alcançar - o estímulo ao investimento produtivo e o desenvolvimento das actividades económicas - acresce o propósito de recuperar ou actualizar tanto quanto possível, no campo dos impostos directos sobre o rendimento, o equilíbrio de que partiu, na sua reforma, o sistema tributário actualmente em vigor.\n\nCom a elevação da contribuição predial urbana nos termos em que é feita, procura-se, por agora, predominantemente, fomentar, por via indirecta, a orientação dos investimentos para campos mais produtivos ou de maior interesse económico e social do que o dos imóveis destinados a habitação susceptíveis de rendas havidas como exageradas ou mesmo até, por vezes, como inconvenientes. Tem-se a medida como de efeitos seguramente exíguos no campo financeiro; mas, mesmo assim - e apesar das dificuldades da sua execução -, não se hesita em tomá-la, como contributo do sector fiscal para a política geral de adequação das construções e habitações de rendas mais moderadas, em que o Governo está interessado.\n\nÉ no domínio dos impostos indirectos que se vai procurar obter a compensação das receitas que se perdem na contribuição industrial. Houve o cuidado de não afectar os sectores essenciais da despesa individual e de estabelecer, no imposto de transacções, um termo médio entre os consumos correntes e os sumptuários, por forma a corresponder a uma diferenciação realista da vida corrente entre as transacções de produtos que podem ou não ser adquiridos por todos e que oferecem ainda, no campo da justiça tributária, sensível margem de relatividade na fundamentação das taxas sobre a despesa.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição e nos termos da autorização concedida pelo artigo 10.º da Lei n.º 10/70, de 28 de Dezembro de 1970, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nA) Contribuição industrial"
+  },
+  "899755731": {
+   "fragment_id": "899756293",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO artigo 80.º do Código da Contribuição Industrial, aprovado pelo Decreto-Lei n.º 45103, de 1 de Julho de 1963, passa a ter a seguinte redacção:\n\nArt. 80.º A taxa da contribuição industrial é de 15 por cento, sendo, porém, reduzida a 6 por cento quando se tratar de lucros de organismos corporativos."
+  },
+  "899755732": {
+   "fragment_id": "899756294",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1. A alteração ao artigo 80.º do Código da Contribuição Industrial é aplicável na liquidação da contribuição respeitante aos lucros do exercício de 1970 e seguintes, salvo tratando-se de contribuintes que cessaram a sua actividade, nos termos do Código, em data anterior a 31 de Dezembro de 1970, os quais serão tributados, relativamente aos lucros daquele exercício, pelas taxas em vigor na data da publicação deste diploma.\n\n2. Tratando-se de contribuintes do grupo B, e tendo havido liquidação provisória nos termos da alínea b) do artigo 85.º do Código, a diferença proveniente da redução de taxa será considerada na correcção a fazer nos termos do § único do mesmo artigo.\n\nB) Contribuição predial"
+  },
+  "899755733": {
+   "fragment_id": "899756295",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs artigos 12.º e 220.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo Decreto-Lei n.º 45104, de 1 de Julho de 1963, passam a ter a seguinte redacção:\n\nArt. 12.º ...\n\n...\n\n7.º Os rendimentos dos prédios urbanos adquiridos ao Estado, a qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, autarquias locais, ou instituições de previdência social e, bem assim, dos adquiridos ou construídos total ou parcialmente com o produto de empréstimos concedidos para esse fim por qualquer das referidas entidades, desde que destinados a residência permanente dos seus proprietários e estes sejam funcionários públicos ou administrativos, beneficiários ou sócios daquelas instituições:\n\na) Pelo prazo de dez anos, a contar da data da aquisição, ou, na hipótese de serem construídos pelos próprios, desde a data em que sejam considerados habitáveis nos termos do artigo 20.º, se o seu valor locativo não exceder a importância de 30000$00;\n\nb) Pelo período de cinco anos, nas mesmas condições da alínea anterior, se o seu valor locativo exceder 30000$00 mas não for superior a 60000$00.\n\n...\n\nArt. 220.º ...\n\n§ único. A taxa da contribuição predial urbana é de 16 por cento quanto às habitações cujas rendas, convencionadas a partir de 1 de Janeiro de 1971, sejam superiores aos seguintes limites:\n\n(ver documento original)"
+  },
+  "899755734": {
+   "fragment_id": "899756296",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nFicam ressalvadas, relativamente aos prédios já construídos, em construção ou a construir em terrenos para o efeito adquiridos até à entrada em vigor deste decreto-lei e não abrangidos pelo regime transitório do artigo 6.º do Decreto-Lei n.º 45104, de 1 de Julho de 1963, com a prorrogação prevista no Decreto-Lei n.º 46304, de 27 de Abril de 1965, as isenções temporárias de contribuição predial estabelecidas no Decreto-Lei n.º 48290, de 25 de Março de 1968.\n\nC) Imposto de capitais"
+  },
+  "899755735": {
+   "fragment_id": "899756297",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO artigo 21.º do Código do Imposto de Capitais, aprovado pelo Decreto-Lei n.º 44561, de 10 de Setembro de 1962, passa a ter a seguinte redacção:\n\nArt. 21.º A taxa do imposto de capitais é de 18 por cento, salvo nos casos previstos nos parágrafos seguintes:\n\n§ 1.º Quando se trate de lucros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 6,5 por cento.\n\n...\n\n§ 5.º Quando se trate de juros a que se refere o n.º 7.º do artigo 6.º, a taxa será de 15 por cento."
+  },
+  "899755736": {
+   "fragment_id": "899756298",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs alterações ao artigo 21.º do Código do Imposto de Capitais são aplicáveis do modo seguinte:\n\na) No imposto de capitais, secção A, na liquidação a efectuar posteriormente a 31 de Dezembro de 1970, relativamente aos rendimentos desse mesmo ano e seguintes;\n\nb) No imposto de capitais, secção B, aos rendimentos relativamente aos quais o acto que determina a obrigação de entrega do imposto ao Estado ocorra posteriormente a 31 de Dezembro de 1970.\n\nD) Sisa e imposto sobre as sucessões e doações"
+  },
+  "899755737": {
+   "fragment_id": "899756299",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ dada nova redacção aos artigos 11.º e 115.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958, e aditado o artigo 39.º-A, nos termos seguintes:\n\nArt. 11.º ...\n\n...\n\n21.º A aquisição de habitação, para a sua residência permanente, por funcionários públicos ou administrativos ou por beneficiários ou sócios de instituições de previdência social, quando sejam alienantes o Estado, qualquer dos seus serviços, estabelecimentos ou organismos, ainda que personalizados, as autarquias locais ou as referidas instituições, ou ainda quando tal aquisição seja feita, total ou parcialmente, com o produto de empréstimos, concedidos para esse fim, por qualquer das referidas entidades e desde que, em qualquer dos casos, o valor sobre que incidiria a sisa não ultrapasse 500000$00 e, no caso de empréstimo, desde que este seja superior a um terço do preço da aquisição.\n\n...\n\nArt. 39.º-A. É ainda de 4 por cento a taxa da sisa pela aquisição de habitações nos termos e condições referidos no n.º 21.º do artigo 11.º, quando o valor sobre que incide a sisa exceda 500000$00, mas não ultrapasse 1000000$00, e, no caso de empréstimo, desde que este seja superior a um terço do preço da aquisição.\n\n§ 1.º Se o adquirente ou o seu agregado familiar não mantiver na habitação adquirida residência permanente pelo período de dez anos, contados da data da aquisição, salvo caso de falecimento do adquirente ou de justificação aceite por despacho do Ministro das Finanças, liquidar-se-á a diferença entre a taxa de 4 por cento e a estabelecida no artigo 33.º\n\n§ 2.º À justificação a que se refere o parágrafo anterior é aplicável o disposto no § 2.º do artigo 16.º\n\n...\n\nArt. 115.º ...\n\n...\n\n3.º Se os bens se transmitirem por arrematação e venda judicial ou administrativa, adjudicação, transacção e conciliação, assim como se houver de exigir-se o imposto pela diferença de taxas, nos termos do § 2.º do artigo 38.º e § único do artigo 39.º-A, a sisa deverá ser paga dentro de trinta dias, contados da assinatura do respectivo auto, da sentença que julgar a transacção ou da data em que a redução da taxa ficar sem efeito.\n\nE) Imposto do selo"
+  },
+  "899755738": {
+   "fragment_id": "899756300",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1. Pode ser dispensado o emprego das estampilhas especiais a que se refere o Decreto-Lei n.º 36607, de 24 de Novembro de 1947, para prova de pagamento do imposto do selo sobre especialidades farmacêuticas nacionais e estrangeiras e águas minero-medicinais estrangeiras, mediante despacho do Ministro das Finanças e nas condições que nele forem estabelecidas.\n\n2. A falta de cumprimento de alguma das obrigações impostas no aludido despacho implica, além das sanções que ao caso corresponderem, a cessação do regime autorizado."
+  },
+  "899755739": {
+   "fragment_id": "899756301",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAlém das estampilhas fiscais cujas taxas são referidas no § 2.º do artigo 12.º do Regulamento do Imposto do Selo, aprovado pelo Decreto n.º 12700, de 20 de Novembro de 1926, passarão a ser emitidas estampilhas fiscais da taxa de 35$00."
+  },
+  "899755740": {
+   "fragment_id": "899756302",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nPassam a ter a seguinte redacção os artigos 46.º e 249.º do Regulamento do Imposto do Selo e os artigos 12.º, 41.º, 82.º e 147.º da Tabela Geral do Imposto do Selo, aprovada pelo Decreto n.º 21916, de 28 de Novembro de 1932:\n\nRegulamento do Imposto do Selo\n\nArt. 46.º A taxa a que se refere a alínea a) do n.º 2 do artigo 12 da Tabela Geral do Imposto do Selo, quanto a anúncios pagos, publicados em qualquer periódico, incluindo o Diário do Governo, incidirá sobre o custo dos mesmos, devendo tomar-se por base para liquidação do imposto a receita cobrada dos anunciantes, nunca inferior, porém, à resultante da respectiva tabela de preços e descontos normais que as empresas editoras ou proprietárias das publicações adoptem e sem ter de atender-se a contratos especiais ou a quaisquer outras reduções.\n\n...\n\nArt. 249.º As transgressões deste Regulamento não mencionadas nos artigos antecedentes serão punidas com pena de multa de 20$00 até 2000$00.\n\nTabela Geral do Imposto do Selo\n\n...\n\nArt. 12. Anúncios ou qualquer outra publicidade ou reclamo:\n\n1. Publicidade, feita directamente pelo anunciante, de produtos, de serviços ou de quaisquer indústrias, comércios ou divertimentos:\n\na) Em catálogos, programas, reclamos, etiquetas e outros impressos de qualquer natureza, por cada edição de 1000 ou fracção, sem afixação ou exposição:\n\nAnunciantes de Lisboa e Porto (selo especial) ... 20$00\n\nAnunciantes das outras cidades (selo especial) ... 15$00\n\nAnunciantes das demais terras (selo especial) ... 10$00\n\nTratando-se de objectos-brindes, as taxas são elevadas ao triplo.\n\n...\n\nb) Por processos sonoros ou de projecção, por cada mês ou fracção:\n\nAnunciantes de Lisboa e Porto (selo especial) ... 100$00\n\nAnunciantes das outras cidades (selo especial) ... 50$00\n\nAnunciantes das demais terras (selo especial) ... 20$00\n\n2. Publicidade feita por intermédio de terceiros:\n\na) Por inserção de anúncios em periódicos, incluindo o Diário do Governo, ou em livros, catálogos, programas, folhetos, embalagens ou em qualquer outro meio de publicidade, sobre o custo do anúncio (selo especial) ... 10%\n\nO imposto relativo aos anúncios de processos de execução fiscal publicados no Diário do Governo é reduzido a um terço nas execuções até 500$00 e a metade nas de valor superior a 500$00 até 2000$00.\n\n...\n\nb) Por emissões radiofónicas, televisionadas ou difundidas por qualquer processo sonoro ou de projecção, sobre o custo do anúncio (selo especial) ... 10%\n\n...\n\nArt. 41. Cartazes ou anúncios afixados ou expostos em qualquer lugar, que façam propaganda de produtos, serviços ou de quaisquer indústrias, comércios ou divertimentos:\n\n1. Feitos de papel, por cada um e em cada ano civil:\n\nAnunciantes de Lisboa e Porto (selo especial) (a) ... 4$00\n\nAnunciantes de outras cidades (selo especial) (a) ... 3$00\n\nAnunciantes das demais terras (selo especial) (a) ... 2$00\n\n2. Feitos de qualquer outra substância que não seja papel, por cada um e em cada ano civil:\n\nAnunciantes de Lisboa e Porto (selo especial) ... 12$00\n\nAnunciantes das outras cidades (selo especial) ... 8$00\n\nAnunciantes das demais terras (seio especial) ... 4$00\n\n3. Pintados em parede, madeira ou placas metálicas ou análogas, gravados, feitos com letras em relevo, em azulejos, ou por qualquer outro processo, e bem assim os expostos em caixilhos, por cada um, por metro quadrado de superfície ou fracção, em cada mês ou fracção do mês:\n\nAnunciantes de Lisboa e Porto (selo especial) ... 6$00\n\nAnunciantes das outras cidades (selo especial) ... 4$00\n\nAnunciantes das demais terras (selo especial) ... 2$00\n\n...\n\nArt. 82. Diplomas de habilitações literárias ou científicas:\n\n...\n\nIX - Carta ou diploma de enfermeiro (estampilha) ... 30$00\n\nX - Outros diplomas profissionais (estampilha) ... 100$00\n\nAverbamentos, certidão ou registo desses diplomas (estampilha) ... 50$00\n\n...\n\nArt. 147. Registo de transmissão de propriedade de veículos automóveis, nos casos em que a transmissão não esteja sujeita à taxa para o Fundo de Fomento de Exportação:\n\nAutomóveis ligeiros (selo de verba) ... 2000$00\n\nAutomóveis pesados, com exclusão dos tractores agrícolas (selo de verba) ... 500$00\n\nMotociclos (selo de verba) ... 300$00\n\nNão está abrangido neste artigo o registo inicial da propriedade a favor do que tiver importado, montado, construído ou reconstruído o veículo.\n\nO imposto é pago no serviço onde o registo for efectuado e entregue na respectiva tesouraria da Fazenda Pública até ao dia 10 do mês imediato ao da cobrança, mediante a apresentação de guias, em duplicado, ficando um dos exemplares de cada guia arquivado no serviço onde a cobrança tenha sido efectuada."
+  },
+  "899755741": {
+   "fragment_id": "899756303",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO imposto liquidado antes da data da entrada em vigor deste diploma sobre anúncios, cartazes ou outros meios de publicidade destinados a ser utilizados ou difundidos a partir daquela data, bem como as avenças que, nas mesmas condições, tenham sido concedidas, serão corrigidos por forma que a respectiva liquidação obedeça ao disposto no presente decreto-lei.\n\nF) Imposto sobre o consumo de tabacos"
+  },
+  "899755742": {
+   "fragment_id": "899756304",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO artigo 2.º do Decreto-Lei n.º 43766, de 30 de Junho de 1961, passa a ter a seguinte redacção:\n\nArt. 2.º As espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:\n\na) 1.º grupo:\n\nPicados - taxa de 1$50 sobre cada unidade de 15 g.\n\nCigarros:\n\nTaxa de $90 sobre cada maço ou caixa de 10 ou 12 cigarros, quando de peso superior a 7,5 g;\n\nTaxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;\n\nTaxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.\n\nCharutos - taxa de 4$00 sobre cada charuto.\n\nb) 2.º grupo:\n\nPicados - taxa de 1$50 sobre cada 15 g ou fracção.\n\nCigarros:\n\nTaxa de $90 sobre cada maço ou caixa de 10 a 12 cigarros, quando de peso superior a 7,5 g;\n\nTaxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;\n\nTaxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.\n\nCharutos - taxa de 4$00 sobre cada charuto.\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º ...\n\nG) Imposto de transacções"
+  },
+  "899755743": {
+   "fragment_id": "899756305",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs artigos 7.º e 22.º do Código do Imposto de Transacções, aprovado pelo Decreto-Lei n.º 47066, de 1 de Julho de 1966, passam a ter a seguinte redacção:\n\nArt. 7.º Ficam ainda isentas de imposto as transacções de mercadorias sujeitas a algum dos seguintes impostos:\n\na) Taxa de salvação nacional;\n\nb) Impostos sobre o fabrico, venda e consumo de tabacos;\n\nc) Taxa para o Fundo de Fomento de Exportação sobre automóveis ligeiros, classificados aduaneiramente de «passageiros» ou de «mistos de passageiros e carga»;\n\nd) Imposto de fabrico de fósforos;\n\ne) Imposto do selo sobre as especialidades farmacêuticas.\n\n...\n\nArt. 22.º A taxa do imposto é de 7 por cento, salvo nas transacções compreendidas nas alíneas seguintes:\n\na) Mercadorias constantes da lista C anexa ao Código - taxa de 12 por cento;\n\nb) Mercadorias constantes da lista B anexa ao Código - taxa de 20 por cento;\n\nc) Cerveja - taxa específica de 2$80 por litro.\n\n§ 1.º Às mercadorias importadas sujeitas à taxa especial de 30 por cento ad valorem estabelecida no artigo 2.º do Decreto-Lei n.º 43400, de 15 de Dezembro de 1960, e no artigo 1.º do Decreto-Lei n.º 49471, de 27 de Dezembro de 1969, é sempre aplicável a taxa de 7 por cento quando não isentas nos termos do artigo 5.º\n\n§ 2.º As transacções de produtos que possam ser simultâneamente compreendidas nas listas B e C serão tributadas pela taxa mais elevada.\n\n§ 3.º Os concentrados de cerveja serão tributados pela taxa referida na alínea c) deste artigo, elevada ao décuplo."
+  },
+  "899755744": {
+   "fragment_id": "899756306",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nÉ dada nova redacção às verbas n.os 6, 13 e 30 da lista A anexa ao Código, nos seguintes termos:\n\n6. Animais vivos exclusiva ou principalmente destinados à alimentação, ao trabalho agrícola ou a reprodução.\n\n...\n\n13. Embarcações de qualquer natureza não abrangidas nas verbas n.º 6 da lista B e n.º 5 da lista C.\n\n...\n\n30. Produtos alimentícios, com excepção dos de confeitaria, doçaria e pastelaria, de chocolates e seus compostos e de bebidas de qualquer natureza contidas em garrafas, garrafões, botijas, frascos ou outros recipientes.\n\nCompreende-se nesta isenção o leite engarrafado.\n\n..."
+  },
+  "899755745": {
+   "fragment_id": "899756307",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nSão aditadas à lista B anexa ao Código as verbas n.os 1-A, 3-A, 3-B e 4-A e é dada nova redacção às verbas n.os 1, 2, 3, 4 e 10 da mesma lista, nos seguintes termos:\n\n1. Aeronaves não abrangidas pela verba n.º 2 da lista A.\n\n1-A. Aparelhos de massagem, estética e outros aparelhos para tratamento de beleza.\n\n2. Armas de qualquer natureza e munições, salvo as de guerra.\n\nCompreendem-se nesta verba, designadamente:\n\na) Armas de fogo de caça, de defesa, de recreio e de ornamentação;\n\nb) Espingardas, carabinas e pistolas de mola, de ar comprimido ou de gás;\n\nc) Partes, acessórios e peças separadas das referidas armas;\n\nd) Projécteis e munições, respectivas partes e peças separadas, compreendendo, nomeadamente, zagalotes, chumbo de caça, balas de chumbo, setas, buchas para cartuchos e cartuchos de qualquer espécie.\n\n3. Artefactos total ou parcialmente de metais preciosos, com ou sem pérolas naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.\n\nNão se compreendem nesta verba os artefactos totalmente de prata as filigranas e as alianças de ouro ou prata, nem os instrumentos de trabalho, quando da aplicação das matérias referidas resulte maior utilidade para o fim a que eles se destinam.\n\n3-A. Artigos de caça e de pesca desportiva, incluindo a submarina, bem como os respectivos equipamentos individuais.\n\n3-B. Artigos para divertimentos carnavalescos e fogos de artifício para recreio.\n\n4. Bebidas alcoólicas e extractos concentrados e compostos para a sua preparação ou fabrico, de preço superior a 50$00 por litro.\n\n4-A. Charuteiras, cigarreiras, fosforeiras e tabaqueiras.\n\n10. Metais preciosos, salvo a prata, e suas ligas."
+  },
+  "899755746": {
+   "fragment_id": "899756308",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nÉ criada a lista C de mercadorias anexa ao presente diploma legal, a qual se considera inserida no Código do Imposto de Transacções."
+  },
+  "899755747": {
+   "fragment_id": "899756309",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n- 1. Nas transacções tributadas por taxa específica o imposto é devido à saída do local de produção, sendo a ele sujeito ùnicamente o produtor.\n\n2. O imposto referente a mercadorias importadas será, porém, sempre cobrado no acto do desembaraço alfandegário.\n\n3. Para além das regras especificadas nas alíneas anteriores, é aplicável às transacções a que se reporta este artigo, na medida do possível e com as necessárias adaptações, o regime do Código do Imposto de Transacções."
+  },
+  "899755748": {
+   "fragment_id": "899756310",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n- 1. A taxa específica sobre a cerveja, estabelecida na alínea c) do artigo 22.º do Código do Imposto de Transacções, substitui o imposto de fabricação e consumo de cerveja.\n\n2. O disposto no número anterior não prejudica a correcção, com base no montante efectivo da cerveja lançada no consumo no ano de 1970, das avenças acordadas para o mesmo ano.\n\nH) Fundo de Fomento de Exportação"
+  },
+  "899755749": {
+   "fragment_id": "899756311",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO artigo 1.º do Decreto n.º 38208, de 16 de Março de 1951, alterado pelo artigo 1.º do Decreto n.º 43770, de 30 de Junho de 1961, passa a ter a seguinte redacção:\n\nArtigo 1.º As percentagens estabelecidas no artigo 1.º do Decreto n.º 37539, de 2 de Setembro de 1949, passam a determinar-se sobre os preços de venda ao público, nos termos seguintes:\n\n(ver documento original)"
+  },
+  "899755750": {
+   "fragment_id": "899756312",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA diferença entre a aplicação do factor estipulado no artigo 1.º do Decreto n.º 38208 e das percentagens fixadas no artigo anterior constitui receita geral do Estado.\n\nI) Disposição final"
+  },
+  "899755751": {
+   "fragment_id": "899756313",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente decreto-lei entrará em vigor em todo o continente e ilhas adjacentes no dia 1 de Janeiro de 1971."
+  },
+  "899756476": {
+   "fragment_id": "899756299",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1971-01-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 22/1971, Série I de 1971-01-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1971-445920), em vigor a partir de 1971-01-27"
+   ],
+   "markdown": "###### Artigo 7.º\n\nÉ dada nova redacção aos artigos 11.º e 115.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958, e aditado o artigo 39.º-A, nos termos seguintes:\n\nArt. 11.º ...\n\n...\n\n21.º A aquisição de habitação, para a sua residência permanente, por funcionários públicos ou administrativos ou por beneficiários ou sócios de instituições de previdência social, quando sejam alienantes o Estado, qualquer dos seus serviços, estabelecimentos ou organismos, ainda que personalizados, as autarquias locais ou as referidas instituições, ou ainda quando tal aquisição seja feita, total ou parcialmente, com o produto de empréstimos, concedidos para esse fim, por qualquer das referidas entidades e desde que, em qualquer dos casos, o valor sobre que incidiria a sisa não ultrapasse 500000$00 e, no caso de empréstimo, desde que este seja superior a um terço do preço da aquisição.\n\n...\n\nArt. 39.º-A. É ainda de 4 por cento a taxa da sisa pela aquisição de habitações nos termos e condições referidos no n.º 21.º do artigo 11.º, quando o valor sobre que incide a sisa exceda 500000$00, mas não ultrapasse 1000000$00, e, no caso de empréstimo, desde que este seja superior a um terço do preço da aquisição.\n\n§ 1.º Se o adquirente ou o seu agregado familiar não mantiver na habitação adquirida residência permanente pelo período de dez anos, contados da data da aquisição, salvo caso de falecimento do adquirente ou de justificação aceite por despacho do Ministro das Finanças, liquidar-se-á a diferença entre a taxa de 4 por cento e a estabelecida no artigo 33.º\n\n§ 2.º À justificação a que se refere o parágrafo anterior é aplicável o disposto no § 2.º do artigo 16.º\n\n...\n\nArt. 115.º ...\n\n...\n\n3.º Se os bens se transmitirem por arrematação e venda judicial ou administrativa, adjudicação, transacção e conciliação, assim como se houver de exigir-se o imposto pela diferença de taxas, nos termos do § 2.º do artigo 38.º e § 1.º do artigo 39.º-A, a sisa deverá ser paga dentro de trinta dias, contados da assinatura do respectivo auto, da sentença que julgar a transacção ou da data em que a redução da taxa ficar sem efeito.\n\nE) Imposto do selo\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 22/1971, Série I de 1971-01-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1971-445920), em vigor a partir de 1971-01-27"
+  },
+  "899755752": {
+   "fragment_id": "899756314",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.\n\nPromulgado em 23 de Dezembro de 1970.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "899755773": {
+   "fragment_id": "899756337",
+   "type": 4,
+   "heading": "LISTA C — Transacções sujeitas à taxa de 12 por cento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## LISTA C — Transacções sujeitas à taxa de 12 por cento\n\n1. Antiguidades, raridades e objectos de colecção, ou quaisquer mercadorias transaccionadas como tais.\n\n2. Aparelhos de aquecimento central.\n\n3. Aparelhos para registo e reprodução de som:\n\na) Máquinas de ditar e outros aparelhos de gravação e reprodução de som, compreendendo os gira-discos e dispositivos semelhantes. Compreende as partes, peças, acessórios e respectivos estojos;\n\nb) Suportes de som para as máquinas e aparelhos abrangidos pela alínea anterior, ou para usos análogos, tais como discos, cilindros, ceras, tiras, fitas e fios, preparados para gravação de som ou já gravados e respectivos álbuns.\n\n4. Artefactos totalmente de prata, com ou sem pérolas naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.\n\nNão se compreendem nesta verba as filigranas e as alianças de prata, nem os instrumentos de trabalho, quando da aplicação da matéria-prima referida resulte maior utilidade para o fim a que eles se destinam.\n\n5. Embarcações de recreio ou desporto não compreendidas na verba n.º 6 da lista B, bem como todos os artigos pneumáticos para recreio e desportos náuticos.\n\nCompreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados.\n\n6. Estatuetas e outros objectos de ornamentação para interiores.\n\n7. Instrumentos e aparelhos de óptica, fotografia e cinematografia:\n\na) Máquinas fotográficas; aparelhos ou dispositivos para produção de luz-relâmpago para fotografia e cinematografia;\n\nb) Aparelhos de tomadas de vistas e de som, mesmo combinados, e aparelhos de projecção, com ou sem reprodução de som, para cinematografia;\n\nc) Aparelhos de projecção fixa e móvel; aparelhos de ampliação ou de redução fotográfica;\n\nd) Alvos para projecções;\n\ne) Binóculos e óculos de grande alcance;\n\nf) Óculos de protecção (de sol, para alpinismo e desportos de Inverno, submarinos e estereoscópicos). Compreendem-se as partes, peças e acessórios dos referidos aparelhos, instrumentos e máquinas quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.\n\n8. Joalharia de imitação e de fantasia, incluindo imitações de pérolas, de gemas, de pedras preciosas e de artigos similares.\n\n9. Máquinas e aparelhos eléctricos e a gás:\n\na) Aparelhos frigoríficos;\n\nb) Máquinas de lavar e secar louça;\n\nc) Máquinas de lavar e secar roupa;\n\nd) Aspiradores de poeira e enceradoras;\n\ne) Esmagadores e misturadores de alimentos, batedores e espremedores de frutas;\n\nf) Máquinas de fazer café, chaleiras, torradeiras, grelhadores, assadores e aquecedores de alimentos;\n\ng) Máquinas e aparelhos de cozinha não especificados nesta verba, com excepção dos fogões;\n\nh) Ventoinhas, aparelhos renovadores de ar e secadores de cabelo;\n\ni) Máquinas de barbear, incluindo as de pilhas;\n\nj) Aquecedores de água, compreendendo os de imersão;\n\nl) Aparelhos para aquecimento de casas e usos semelhantes, incluindo os climatizadores;\n\nm) Microfones e respectivos suportes;\n\nn) Altifalantes e amplificadores de som;\n\no) Aparelhos receptores para radiodifusão ou televisão, incluindo os receptores combinados em gramofones ou giradiscos.\n\nCompreendem-se nesta verba as partes, peças e acessórios quando reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n10. Marfim preparado ou em obra;\n\n11. Objectos de cristal;\n\n12. Objectos de estanho e suas ligas para fins domésticos, decorativos ou de ornamentação;\n\n13. Objectos e madrepérola, de âmbar ou de coral para ornamentação de interiores ou para adorno pessoal;\n\n14. Objectos de porcelana para decoração, para ornamentação, para guarnecimento de interiores, para adorno pessoal e de fantasia.\n\nCompreendem-se nesta verba os objectos de toucador.\n\n15. Papel para vitrais.\n\n16. Prata.\n\n17. Produtos para fotografia e cinematografia:\n\na) Chapas, películas de qualquer espécie, papel, cartolina, cartão e tecidos para fotografia;\n\nb) Chapas, películas e fitas cinematográficas, incluindo os diapositivos."
+  },
+  "899755774": {
+   "fragment_id": "899756338",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, João Augusto Dias Rosas."
+  },
+  "899756477": {
+   "fragment_id": "899756311",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1974-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 697/73 - Diário do Governo n.º 299/1973, Série I de 1973-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), em vigor a partir de 1974-01-01"
+   ],
+   "markdown": "###### Artigo 19.º\n\nO artigo 1.º do Decreto n.º 38208, de 16 de Março de 1951, alterado pelo artigo 1.º do Decreto n.º 43770, de 30 de Junho de 1961, passa a ter a seguinte redacção:\n\nArtigo 1.º As percentagens estabelecidas no artigo 1.º do Decreto n.º 37539, de 2 de Setembro de 1949, passam a determinar-se sobre os preços de venda ao público, nos termos seguintes:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 697/73 - Diário do Governo n.º 299/1973, Série I de 1973-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), em vigor a partir de 1974-01-01"
+  }
+ }
+}

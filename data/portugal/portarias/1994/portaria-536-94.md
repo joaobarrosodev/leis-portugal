@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:290664:por
+title: Portaria n.º 536/94
+short_title: null
+summary: Altera o n.º 2.º da Portaria n.º 636-A/88, de 15 de Setembro (sujeita ao regime cinegético especial várias propriedades
+  situadas nas freguesias de Raposa e Vale de Cavalos, municípios de Almeirim e da Chamusca
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 536/94
+official_date: null
+publication_date: '1994-07-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/1994, Série I-B de 1994-07-08
+  number: '156'
+  series: I
+  supplement: null
+  pages: 3666 - 3667
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/156b00/36663667.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/536/1994/07/08/p/dre/pt/html
+  oj: null
+  dre: '290664'
+  dre_path: /dr/detalhe/portaria/536-1994-290664
+  internal: pt:dre:290664:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-1994-290664
+  metadata_url: https://data.dre.pt/eli/port/536/1994/07/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-1994-290664
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-03-01T00:00:00Z'
+integrity:
+  source_sha256: fc88bc2a0d5debd33635d200d86c91f40bd8dfa356a5e8e01aa4cddc1a6efd0a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-536-290664.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Almeirim
+- Chamusca
+- CAÇA
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:621506:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 536/94
+
+de 8 de Julho
+
+Pela [Portaria n.º 636-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/636-a-1988-529441), de 15 de Setembro, foi concessionada à Calha do Grou - Associação de Caçadores, a zona de caça associativa das Herdades de Roças, Arneiro Alto, Casal do Zebro e das Mulas, situadas nas freguesias de Raposa e Vale de Cavalos, municípios de Almeirim e da Chamusca (processo n.º 6-IF).
+
+Verificou-se entretanto a existência de erro no período de concessão da referida zona de caça, o que implica que se proceda à respectiva correcção.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, que o n.º 2.º da referida portaria passe a ter a seguinte redacção:
+
+2.º Nesta área é concedida à Calha do Grou - Associação de Caçadores a exploração de uma zona de caça associativa (processo n.º 6 do Instituto Florestal) por um período de sete anos.
+
+Ministério da Agricultura.
+
+**Assinada em 16 de Junho de 1994.**
+
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

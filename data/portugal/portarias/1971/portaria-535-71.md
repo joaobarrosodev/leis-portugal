@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:633129:por
+title: Portaria n.º 535/71
+short_title: null
+summary: Dá nova redacção aos n.os 6.º e 7.º da Portaria n.º 22021, que actualiza as disposições relativas à estrutura dos
+  comandos navais e de defesas marítimas, fixada na Portaria n.º 19621, com as alterações que lhe foram impostas pelas Portarias
+  n.os 20526 e 21120
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: 535/71
+official_date: null
+publication_date: '1971-10-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 233/1971, Série I de 1971-10-02
+  number: '233'
+  series: I
+  supplement: null
+  pages: 1478 - 1478
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/10/23300/14781478.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '633129'
+  dre_path: /dr/detalhe/portaria/535-1971-633129
+  internal: pt:dre:633129:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-1971-633129
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-1971-633129
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-10-02T00:00:00Z'
+integrity:
+  source_sha256: 8a53196770a25baa6a6b59ed2dd277f8b692cac3f0c61fc4bdab09f6f165dc57
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-535-633129.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 535/71
+
+de 2 de Outubro
+
+Tornando-se necessário alterar a [Portaria n.º 22021](https://diariodarepublica.pt/dr/detalhe/portaria/22021-1966-473364), de 31 de Maio de 1966, em virtude da necessidade de criar órgãos de assistência religiosa no âmbito dos comandos territoriais:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+
+1.º Que o n.º 6.º da [Portaria n.º 22021](https://diariodarepublica.pt/dr/detalhe/portaria/22021-1966-473364), de 31 de Maio de 1966, passe a ter a seguinte redacção:
+
+6.º Os serviços são os seguintes:
+
+a) Pessoal;
+
+b) Navegação;
+
+c) Artilharia;
+
+d) Armas submarinas;
+
+e) Electrotecnia;
+
+f) Assistência oficinal;
+
+g) Saúde;
+
+h) Abastecimento;
+
+i) Gerais;
+
+j) Vigilância e polícia;
+
+Quando necessário, poderão ser criadas junto dos comandos territoriais chefias regionais do serviço de assistência religiosa orgânicamente idênticas àqueles serviços e com a competência que lhes for atribuída.
+
+2.º Que o n.º 7.º da [Portaria n.º 22021](https://diariodarepublica.pt/dr/detalhe/portaria/22021-1966-473364), de 31 de Maio de 1966, passe a ter a seguinte redacção:
+
+7.º O serviço do pessoal trata de todos os assuntos que respeitam ao pessoal militar e civil, como recrutamento, instrução, movimento, disciplina, bem-estar, educação física e assistência religiosa, se não tiver sido estabelecida a chefia regional do serviço de assistência religiosa.
+
+**O Ministro da Marinha, Manuel Pereira Crespo.**

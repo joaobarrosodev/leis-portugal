@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:494527:por
+title: Portaria n.º 633/2009
+short_title: null
+summary: Segunda alteração à Portaria n.º 1451/2004, de 26 de Novembro, que estabelece normas relativas às condições de emissão
+  de certificado de aptidão profissional (CAP) e de homologação dos respectivos cursos de formação profissional relativas
+  ao perfil profissional de técnico(a) instalador(a) de sistemas solares térmicos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Inovação e do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 633/2009
+official_date: null
+publication_date: '2009-06-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2009, Série I de 2009-06-09
+  number: '111'
+  series: I
+  supplement: null
+  pages: 3595 - 3596
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11100/0359503596.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/633/2009/06/09/p/dre/pt/html
+  oj: null
+  dre: '494527'
+  dre_path: /dr/detalhe/portaria/633-2009-494527
+  internal: pt:dre:494527:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-2009-494527
+  metadata_url: https://data.dre.pt/eli/port/633/2009/06/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-2009-494527
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-07-27T00:00:00Z'
+integrity:
+  source_sha256: 1b2eb6200ac0f159b34a2868f081585cdf1c5f1a847482b12861e13d92996a7d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-633-494527.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificado de Aptidão Profissional
+- Formação Profissional
+- Definição de Competências
+- Diploma
+- Energia Renovável
+- Equipamento Térmico
+- Direcção Geral de Geologia e Energia
+- Qualificação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:669541:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/95/1992/05/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/95/1992/05/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1451/2004/11/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1451/2004/11/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/561/2006/06/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/561/2006/06/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/173/2007/11/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/173/2007/11/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 633/2009
+
+de 9 de Junho
+
+A [Portaria n.º 1451/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1451-2004-534384), de 26 de Novembro, com a redacção que lhe foi dada pela [Portaria n.º 561/2006](https://diariodarepublica.pt/dr/detalhe/portaria/561-2006-346727), de 12 de Junho, estabelece as normas de emissão dos certificados de aptidão profissional e as condições de homologação dos cursos de formação profissional relativos ao perfil profissional dos técnicos instaladores de sistemas solares térmicos (TISST) com o objectivo de estabelecer as normas relativas às condições de emissão do certificado de aptidão profissional e de homologação dos cursos de formação profissional de qualificação inicial relativas ao perfil profissional daqueles técnicos.
+
+De acordo com o regime definido, compete à Direcção-Geral de Energia e Geologia (DGEG), enquanto entidade certificadora integrada no Sistema Nacional de Certificação, a emissão dos certificados de aptidão profissional (CAP) relativos ao perfil profissional dos TISST, bem como a homologação dos referidos cursos de formação profissional.
+
+A [Portaria n.º 1451/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1451-2004-534384), de 26 de Novembro, estabelece, no seu n.º 17.º, um período transitório de um ano para a aplicação do seu normativo legal. No entanto, tendo-se revelado manifestamente insuficiente esse período, tornou-se necessário proceder a alguns ajustamentos, nomeadamente um indispensável alargamento do período transitório, o que veio a acontecer com a publicação da [Portaria n.º 561/2006](https://diariodarepublica.pt/dr/detalhe/portaria/561-2006-346727), de 12 de Junho, de modo a concretizar a implementação do sistema de certificação profissional e de homologação de cursos de formação.
+
+De acordo com o previsto no n.º 1 do artigo 9.º da [Portaria n.º 1451/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1451-2004-534384), de 26 de Novembro, o curso de formação profissional de qualificação inicial relativo ao perfil profissional de técnico(a) instalador(a) de sistemas solares térmicos aponta para uma duração não inferior a 1000 horas, integrando uma componente teórica e uma componente prática, a desenvolver em contexto de formação e em contexto real de trabalho.
+
+Considerando no entanto que, ainda não se encontram homologados os cursos de formação profissional de técnico instalador de sistemas solares térmicos com uma duração não inferior a 1000 horas, nos termos definidos no diploma anteriormente referido, sendo desejável a manutenção de condições que visam a prossecução dos objectivos do Programa Água Quente Solar para Portugal (AQSpP);
+
+Considerando que, a entrada em vigor da legislação sobre a eficiência energética dos edifícios veio introduzir uma nova e crescente dinâmica do mercado das instalações solares térmicas que importa assegurar; sendo que desde aquela data se tem registado uma rápida evolução das tecnologias de informação aplicadas à formação (e-learning) de instaladores a que acresce, em contexto nacional, a nova reforma da formação profissional aprovada pela [Resolução do Conselho de Ministros n.º 173/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/173-2007-629163), de 7 de Novembro, torna-se necessário proceder à sua harmonização com os objectivos da reforma da formação profissional estabelecidos naquela resolução, bem como com o Sistema de Regulação do Acesso a Profissões por forma a responder cabalmente à actual situação dos mercados de formação e emprego:
+
+Considerando finalmente, as medidas de incentivo e apoio recentemente preconizadas pelo Governo para criar condições facilitadoras à adesão ao solar térmico por parte do sector doméstico, torna-se necessário alterar a redacção do n.º 17.º da [Portaria n.º 1451/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1451-2004-534384), na sua actual redacção, no sentido de assegurar a adequação e optimização dos meios existentes às actuais e reais necessidades ao nível da formação profissional dos técnicos instaladores de sistemas solares térmicos.
+
+Assim:
+
+Ao abrigo do disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, manda o Governo, pelos Ministros da Economia e da Inovação e do Trabalho e da Solidariedade Social, o seguinte:
+
+1.º O artigo 17.º da [Portaria n.º 1451/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1451-2004-534384), de 26 de Novembro, alterada pela [Portaria n.º 561/2006](https://diariodarepublica.pt/dr/detalhe/portaria/561-2006-346727), de 12 de Junho, passa a ter a seguinte redacção:
+
+«Artigo 17.º
+
+[...]
+
+1 - Os candidatos que tenham concluído, com aproveitamento, cursos de formação profissional considerados adequados pela entidade certificadora podem solicitar a emissão do competente CAP, com base no certificado relativo à formação concluída até 31 de Janeiro de 2010.
+
+2 - ...
+
+3 - Os candidatos podem solicitar a emissão do respectivo CAP ou candidatar-se à certificação pela via da experiência profissional, com base no disposto, respectivamente, nos n.os 1 e 2, até 12 de Junho de 2010.»
+
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 2 de Junho de 2009.
+
+**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**

@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:332227:por
+title: Decreto n.º 11/90
+short_title: null
+summary: Aprova o Acordo Especial, por troca de notas, entre o Governo da República Portuguesa e o Governo da República Federal
+  da Alemanha, para reafectação de créditos no âmbito da cooperação financeira luso-alemã
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 11/90
+official_date: null
+publication_date: '1990-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/1990, Série I de 1990-04-30
+  number: '99'
+  series: I
+  supplement: null
+  pages: 2042 - 2044
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09900/20422044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '332227'
+  dre_path: /dr/detalhe/decreto/11-1990-332227
+  internal: pt:dre:332227:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1990-332227
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1990-332227
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-04-30T00:00:00Z'
+integrity:
+  source_sha256: aea0c625c0b77b689606d62a544417cc056d1c00a9f77711381f7a3bf51b6bbb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-11-332227.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 11/90
+
+de 30 de Abril
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Acordo Especial, por troca de notas, concluído em Lisboa, em 28 de Novembro de 1989, entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha, para reafectação de créditos no âmbito da cooperação financeira luso-alemã, cujo texto original, na língua portuguesa e na língua alemã, segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 15 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
+
+**Assinado em 11 de Abril de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 17 de Abril de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Lisboa, 25 de Outubro de 1989.
+
+O Embaixador da República Federal da Alemanha, Alexander Graf York.
+
+A S. Ex.ª o Ministro dos Negócios Estrangeiros da República Portuguesa, Prof. Doutor João de Deus Pinheiro, Lisboa.
+
+Sr. Ministro:
+
+Em referência aos Acordos sobre cooperação financeira assinados em 18 de Outubro de 1979, 7 de Março de 1980, 4 de Fevereiro de 1983, 31 de Outubro de 1985 e 6 de Maio de 1987, entre os nossos dois Governos, bem como à troca de notas de 7 de Fevereiro de 1985/31 de Outubro de 1985, tenho a honra de propor a V. Ex.ª, em nome do Governo da República Federal da Alemanha, o seguinte Acordo Especial:
+
+1 - 1) - a) Do montante previsto no artigo 1.º do Acordo de 18 de Outubro de 1979 para o financiamento do projecto Irrigação da Cova da Beira já não será necessário o montante parcial de DM 10 milhões, sendo este aplicado em parcelas de DM 5 milhões nos projectos:
+
+Commodity Aid (Equipamentos para Escolas Agrárias Profissionalizantes); e
+
+Digitalização da Rede Telefónica - CTT e TLP.
+
+A Commodity Aid destina-se ao financiamento das despesas de divisas, resultantes da aquisição de mercadorias e serviços provenientes da parte alemã da área de vigência do Acordo em que se baseia, destinados a satisfazer a procura corrente para fins civis e respectivas despesas de transporte, seguro e instalação, em moeda estrangeira e nacional, ligadas às mercadorias de importação financiada. Deverá tratar-se aqui de fornecimentos e serviços constantes da lista anexa a esta nota, para os quais foram assinados contratos de fornecimento de bens ou de serviços após o dia 1 de Janeiro de 1988. A lista é parte integrante deste Acordo Especial.
+
+b) Igualmente será utilizado para o projecto Digitalização da Rede Telefónica - CTT e TLP o montante parcial de DM 0,5 milhões, que já não é necessário para o financimento do projecto Fundo de Estudos, previsto no artigo 1.º, parágrafo 2, do Acordo de 18 de Outubro de 1979.
+
+c) Dos montantes previstos no artigo 1.º, parágrafo 2, do Acordo de 7 de Março de 1980, para o financiamento dos projectos:
+
+Parque Industrial da Covilhã; e
+
+Parque Industrial de Beja;
+
+serão aplicados montantes parciais, que já não são necessários, no valor total de DM 13660509,69, no projecto Banco de Fomento Nacional IV (BFN IV).
+
+d) Dos montantes previstos no artigo 1.º, parágrafo 2, do Acordo de 4 de Fevereiro de 1983 para o financiamento dos projectos:
+
+Porto de Pesca da Figueira da Foz (reforço);
+
+Porto de Pesca de Viana do Castelo;
+
+Porto de Pesca de Peniche; e
+
+Porto de Pesca de Portimão;
+
+serão aplicados montantes parciais, que já não são necessários, no valor total de DM 22,8 milhões nos projectos:
+
+Regularização da Zona Estuarina do Mondego (DM 10 milhões);
+
+Porto de Pesca da Póvoa de Varzim II (DM 3,5 milhões); e
+
+BFN IV (DM 9,3 milhões).
+
+e) O montante de DM 28 milhões previsto no artigo 1.º da troca de notas de 7 de Fevereiro de 1985/31 de Outubro de 1985, que já não é necessário para o financiamento do projecto Programa Hídrico do Algarve, será aplicado nos projectos:
+
+Digitalização da Rede Telefónica - CTT e TLP (DM 26 milhões); e
+
+BFN IV (DM 2 milhões).
+
+f) Dos montantes previstos no artigo 1.º, parágrafo 2, do Acordo de 31 de Outubro de 1985 para o financiamento dos projectos:
+
+Programa Agro-Pecuário do Pico;
+
+Programa Hídrico do Algarve; e
+
+Equipamentos Hospitalares;
+
+serão aplicados montantes parciais, que já não são necessários, no valor total de DM 22 milhões, também nos projectos:
+
+BFN IV (DM 10 milhões); e
+
+Digitalização da Rede Telefónica - CTT e TLP (DM 12 milhões).
+
+g) O montante de DM 15 milhões, previsto no artigo 1.º, parágrafo 2, do Acordo de 6 de Maio de 1987, que já não é necessário para o financiamento do projecto Laboratório de Metrologia, será utilizado para o financiamento do projecto Caixa Geral de Depósitos - Infra-estruturas Municipais II.
+
+2) Os projectos mencionados no parágrafo 1) deste número:
+
+a) Só serão financiados se, depois de examinados, forem considerados dignos de promoção;
+
+b) Poderão ser substituídos por outros projectos por comum acordo entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha.
+
+2 - Aplicar-se-ão também ao presente Acordo Especial as disposições dos acima referidos Acordos intergovernamentais de 18 de Outubro de 1979, 7 de Março de 1980, 4 de Fevereiro de 1983, 31 de Outubro de 1985 e 6 de Maio de 1987, bem como da troca de notas de 7 de Fevereiro de 1985/31 de Outubro de 1985.
+
+3 - O presente Acordo Especial aplicar-se-á também ao Land de Berlim, desde que o Governo da República Federal da Alemanha não apresente ao Governo da República Portuguesa uma declaração em contrário, dentro de três meses após a entrada em vigor do presente Acordo Especial.
+
+Caso o Governo da República Portuguesa concorde com as propostas contidas nos n.os 1 a 3, esta nota e a de resposta de V. Ex.ª, em que se expresse a concordância do seu Governo, constituirão um Acordo Especial entre os nossos dois Governos, que entrará em vigor logo que cada um dos Governos informe o outro de que foram compridos os requisitos estabelecidos na sua legislação.
+
+Permita-me, Sr. Ministro, apresentar a V. Ex.ª os protestos da minha mais alta consideração.
+
+York.
+
+## Anexo ao Acordo Especial entre o Governo da República Portuguesa e a República Federal da Alemanha sobre cooperação financeira de 25 de Outubro de 1989.
+
+1 - Lista das mercadorias e serviços que, conforme o n.º 1, parágrafo 1), alínea a), do Acordo Especial, poderão ser financiados com o empréstimo:
+
+Máquinas e utensílios agrícolas;
+
+Equipamentos de irrigação e jardinagem;
+
+Equipamentos e software para o sector do processamento de dados.
+
+2 - Os bens de importação não contidos na presente lista só poderão ser financiados se para tanto houver a aprovação prévia do Governo da República Federal da Alemanha.
+
+3 - Está excluída do financiamento com o empréstimo a importação de bens de luxo e de bens de consumo para a procura privada, bem como de mercadorias e equipamentos que sirvam para fins militares.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09900/20422044.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09900/20422044.pdf)

@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:294551:por
+title: Decreto-Lei n.º 120/78
+short_title: null
+summary: Define regras para a celebração de contratos de viabilização
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 120/78
+official_date: null
+publication_date: '1978-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/1978, Série I de 1978-06-01
+  number: '125'
+  series: I
+  supplement: null
+  pages: 989 - 989
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12500/09890989.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294551'
+  dre_path: /dr/detalhe/decreto-lei/120-1978-294551
+  internal: pt:dre:294551:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1978-294551
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1978-294551
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-06-01T00:00:00Z'
+integrity:
+  source_sha256: ba51e957f48d2623123e6badbec0b5c5a5ec8982096db009ba103418e3ce8092
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-120-294551.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 120/78
+
+de 1 de Junho
+
+O [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, contém um conjunto de incentivos de natureza económica e financeira, destinado a permitir às empresas em crise a sua recuperação económica, sendo-lhes imposta, em contrapartida, a celebração de um contrato visando a obtenção de metas de produção e rentabilidade. Aquele diploma representou um instrumento de intervenção económica destinado a actuar numa conjuntura específica, originada pelas modificações económicas, políticas e sociais ocorridas em 1974, 1975 e 1976, assumindo, por isso, uma natureza transitória.
+
+Entende assim o Governo, em conformidade com a natureza excepcional do regime constante do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e independentemente de outras formas de estímulo e apoio à iniciativa privada que se venham a instituir, fixar um prazo para o recurso a este diploma, exceptuando embora, por razões evidentes, as empresas sujeitas ao regime do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto, bem como as empresas intervencionadas ou em regime provisório de gestão, sempre que aquando da cessação destes regimes se determine a realização de contratos de viabilização.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os contratos de viabilização previstos no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, só poderão ser celebrados pelas empresas que, até 31 de Dezembro de 1978, enviem à Comissão de Apreciação, nos termos do n.º 2 do artigo 7.º do citado diploma legal, cópia do respectivo processo.
+
+###### Art. 2.º Exceptuam-se do disposto no artigo anterior:
+
+a) As empresas intervencionadas ou em regime provisório de gestão por parte do Estado em relação às quais a competente resolução de desintervenção ou de cessação da gestão estabeleça a realização de contratos de viabilização para data posterior a 31 de Dezembro de 1978;
+
+b) As empresas sujeitas ao regime do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
+
+**Promulgado nos termos do artigo 135.º da Constituição da República Portuguesa, em 24 de Maio de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República Interino, VASCO DA GAMA FERNANDES.**

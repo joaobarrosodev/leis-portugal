@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:643931:por
+title: Decreto n.º 241/71
+short_title: null
+summary: Aprova várias alterações aos estatutos do Banco de Angola, votadas em assembleia geral ordinária realizada em 17
+  de Abril de 1971
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministérios das Finanças e do Ultramar
+proposing_entity: null
+official_number: 241/71
+official_date: null
+publication_date: '1971-06-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 128/1971, Série I de 1971-06-01
+  number: '128'
+  series: I
+  supplement: null
+  pages: 836 - 836
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/06/12800/08360836.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '643931'
+  dre_path: /dr/detalhe/decreto/241-1971-643931
+  internal: pt:dre:643931:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/241-1971-643931
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/241-1971-643931
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-06-01T00:00:00Z'
+integrity:
+  source_sha256: 482c29b53bf6a340953c8afea4dbd96c8d853336bc7a35752df6b59859089439
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-241-643931.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 241/71
+
+de 1 de Junho
+
+Atendendo ao que expôs o Banco de Angola no sentido de serem alterados os seus estatutos e a que as alterações foram apreciadas em assembleia geral ordinária realizada em 17 de Abril de 1971, tendo a respectiva proposta sido aprovada por unanimidade;
+
+Dado o disposto no artigo 3.º do [Decreto n.º 12131](https://diariodarepublica.pt/dr/detalhe/decreto/12131-1926-162168), de 14 de Agosto de 1926;
+
+Usando da faculdade conferida pelo n.º 3º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo único. São aprovadas as seguintes alterações aos estatutos do Banco de Angola, votadas em assembleia geral ordinária realizada em 17 de Abril de 1971:
+
+a) Passa a ser a seguinte a redacção do § 2.º do artigo 10.º e do corpo do artigo 25.º:
+
+###### Art. 10.º ...
+
+...
+
+§ 2.º Em qualquer aumento de capital o Estado terá o direito de preferência na subscrição de todas as novas acções. Não exercendo o Estado esse direito, ou exercendo parcialmente, a assembleia geral ou o conselho geral do Banco, por delegação desta, fixarão as condições em que as respectivas acções serão oferecidas à subscrição, com ou sem atribuição de outros direitos de preferência.
+
+...
+
+###### Art. 25.º As operações de crédito comercial na província de Angola serão as seguintes:
+
+...
+
+b) É adicionado ao artigo 25.º um § único, com a seguinte redacção:
+
+§ único. Na sede e dependências que possua fora da província de Angola a actividade do Banco processar-se-á de conformidade com a legislação aplicável aos bancos comerciais.
+
+Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
+
+**Promulgado em 17 de Maio de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:680470:por
+title: Decreto n.º 45472
+short_title: null
+summary: Altera para Agência Nacional de Linhas a Grande Distância - NALLA a designação da Comissão Mista Nacional de Telecomunicações
+  e define a composição e atribuições da mesma Agência
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '45472'
+official_date: null
+publication_date: '1963-12-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 304/1963, Série I de 1963-12-28
+  number: '304'
+  series: I
+  supplement: null
+  pages: 2160 - 2161
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/12/30400/21602161.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '680470'
+  dre_path: /dr/detalhe/decreto/45472-1963-680470
+  internal: pt:dre:680470:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45472-1963-680470
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45472-1963-680470
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-12-28T00:00:00Z'
+integrity:
+  source_sha256: 10e45dd2e97c386b6f6d9defaaad50fa009e7c03d6b2a2ee34b810dfa49ffec6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-45472-680470.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 2
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45472
+
+Criada em 1954 a Comissão Mista Nacional de Telecomunicações (CMNT), torna-se indispensável proceder aos ajustamentos que a prática do seu funcionamento e a evolução das condições de trabalho das agências OTAN de telecomunicações têm aconselhado.
+
+Além da mudança de designação desta Comissão, que passará a chamar-se Agência Nacional de Linhas a Grande Distância, abreviadamente NALLA, de acordo com a nomenclatura em inglês dos organismos similares OTAN, é alterada a sua orgânica e definidas a composição e competência, por forma a colocá-la em condições de satisfazer as exigências dos organismos de telecomunicações desta categoria.
+
+Os problemas cuja coordenação e estudo ficam entregues a esta agência são os relativos à satisfação das necessidades em circuitos filares - cabos subterrâneos, aéreos e subaquáticos e linhas aéreas - e feixes hertzianos para apoio das forças militares nacionais, das forças OTAN com interesses no território nacional reconhecidos pelo Governo e dos organismos civis nacionais e OTAN considerados de fundamental importância para o esforço global de guerra e para a sobrevivência nacional.
+
+Nestas condições:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º A Comissão Mista Nacional de Telecomunicações passa a designar-se Agência Nacional de Linhas a Grande Distância - NALLA, tendo a composição e atribuições definidas pelo presente diploma.
+
+###### Art. 2.º A NALLA portuguesa funcionará provisòriamente na dependência do Secretariado-Geral da Defesa Nacional, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 37955](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37955-1950-481550), de 9 de Setembro de 1950, e a sua integração definitiva no esquema das telecomunicações nacionais será estabelecida quando tiver lugar a revisão geral do referido esquema.
+
+###### Art. 3.º Compete à Agência Nacional de Linhas a Grande Distância - NALLA portuguesa:
+
+a) Promover a satisfação das necessidades militares e civis OTAN em circuitos filares e feixes hertzianos, quer em coordenação com a agência internacional ELLA (European Long Lines Agency), quer por entendimentos bilaterais com outras NALLAS;
+
+b) Promover a satisfação dos pedidos de circuitos telefónicos e telegráficos interurbanos e internacionais de natureza filar e hertziana para apoio das unidades e forças militares nacionais e dos organismos nacionais de sobrevivência.
+
+§ único. Para cumprimento destas missões deve a NALLA:
+
+a) Receber os pedidos de circuitos daquela natureza formulados pela ELLA, pelas forças militares OTAN com interesses reconhecidos no território nacional, pelas autoridades militares nacionais e pelos organismos civis nacionais de sobrevivência;
+
+b) Coordenar o conjunto dos pedidos recebidos e promover a sua satisfação tão completa quanto possível;
+
+c) Informar os interessados da possibilidade de satisfação dos seus pedidos ou das alterações que lhes são propostas para os tornar exequíveis;
+
+d) Obter da Administração-Geral dos Correios, Telégrafos e Telefones as informações relativas aos encargos com a montagem, reserva ou aluguer de circuitos, tanto para os casos de utilização imediata como para a satisfação de necessidades futuras;
+
+e) Fornecer à Administração-Geral dos Correios, Telégrafos e Telefones os elementos relativos à previsão das necessidades militares e dos organismos civis de sobrevivência, de forma a poderem ser considerados nos planeamentos daquela Administração-Geral;
+
+f) Manter actualizados nos seus arquivos os elementos técnicos, as cartas e as informações relativas às redes de telecomunicações existentes ou em projecto.
+
+###### Art. 4.º A NALLA portuguesa terá inicialmente à sua responsabilidade uma zona geográfica limitada ao território nacional situado na Europa, com inclusão dos arquipélagos dos Açores e da Madeira. A medida que as circunstâncias o aconselharem, serão constituídos organismos regionais, com a designação de RELLAS (agências regionais de linhas a grande distância), organizados em moldes semelhantes aos da agência nacional e adequados às respectivas necessidades.
+
+As RELLAS poderão socorrer-se directamente da NALLA para efeitos de orientação.
+
+###### Art. 5.º Para a NALLA portuguesa é estabelecida a seguinte composição:
+
+a) Comissão plenária:
+
+Presidente - oficial de transmissões ou comunicações de qualquer dos ramos das forças armadas com a categoria de coronel ou equivalente.
+
+Delegados:
+
+Um representante qualificado da Administração-Geral dos Correios, Telégrafos e Telefones. Um representante de cada um dos três ramos das forças armadas nacionais especializado em transmissões ou comunicações.
+
+Um representante de cada um dos comandos qualificadas OTAN possuindo interesses reconhecidos no território nacional.
+
+Um representante de cada um dos organismos nacionais encarregados dos planos de urgência no domínio civil.
+
+Um representante dos organismos civis OTAN com sede ou delegação estabelecida em território nacional.
+
+Secretário - um dos oficiais especializados em transmissões ou comunicações dos órgãos de execução da NALLA.
+
+b) Órgãos de execução:
+
+Funcionarão sob a direcção do presidente da comissão plenária e compreendem:
+
+#### Secção de planeamento e informação - a cargo de um oficial especializado em transmissões ou comunicações de qualquer dos três ramos das forças armadas. Colaborará nesta secção um delegado da Inspecção Superior da Mobilização Civil, técnico de telecomunicações.
+
+#### Secção de coordenação e ligação - a cargo de um oficial especializado em transmissões ou comunicações de qualquer dos três ramos das forças armadas.
+
+Secretaria - a cargo de um oficial, não especializado, de qualquer dos três ramos das forças armadas.
+
+§ único. Os oficiais da NALLA podem ser do activo ou da reserva.
+
+###### Art. 6.º O quadro de efectivos da NALLA e o seu regulamento interno serão estudados em pormenor pela comissão plenária e submetidos à aprovação ministerial.
+
+###### Art. 7.º As despesas com a NALLA portuguesa constituirão encargo do Secretariado-Geral da Defesa Nacional.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 28 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Carlos Gomes da Silva Ribeiro - Francisco António das Chagas.

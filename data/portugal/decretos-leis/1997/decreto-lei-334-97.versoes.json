@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406483:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34490875",
+ "dre_path": "/dr/detalhe/decreto-lei/334-1997-406483",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "46569175",
+    "46569275",
+    "46569375",
+    "46569475",
+    "46569575",
+    "46569675"
+   ]
+  },
+  {
+   "date": "2032-07-04",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:214524782:por",
+     "title": "Decreto-Lei n.º 47/2023",
+     "published": "2023-06-19",
+     "dre_path": "/dr/detalhe/decreto-lei/47-2023-214524782"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "46569175",
+    "46569275",
+    "46569375",
+    "214566502",
+    "46569575",
+    "46569675",
+    "46569775"
+   ]
+  }
+ ],
+ "fragments": {
+  "46569175": {
+   "fragment_id": "35110675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente decreto-lei visa transpor para a ordem jurídica portuguesa a Directiva comunitária n.º <a href=\"eurlex.asp?ano=1993&id=393L0098\" title=\"Link para Directiva da Comunidade Europeia\">93/98/CEE</a>, do Conselho, de 29 de Outubro, que implica alterações ao Código do Direito de Autor e dos Direitos Conexos, em matéria respeitante à harmonização do prazo de protecção dos direitos de autor e de certos direitos conexos.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela alínea c) do artigo 2.º da Lei n.º 99/97, de 3 de Setembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46569275": {
+   "fragment_id": "35497975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna o disposto na Directiva n.º <a href=\"eurlex.asp?ano=1993&id=393L0098\" title=\"Link para Directiva da Comunidade Europeia\">93/98/CEE</a>, do Conselho, de 29 de Outubro, relativa à harmonização do prazo de protecção dos direitos de autor e de certos direitos conexos."
+  },
+  "46569375": {
+   "fragment_id": "35498075",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração\n\nOs artigos 31.º a 39.º e 183.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de Março, e alterado pelas Leis n.os 45/85, de 17 de Setembro, e 141/91, de 3 de Setembro, adiante designado por Código, passam a ter a seguinte redacção:\n\n«Artigo 31.º\n\nRegra geral\n\nO direito de autor caduca, na falta de disposição especial, 70 anos após a morte do criador intelectual, mesmo que a obra só tenha sido publicada ou divulgada postumamente.\n\nArtigo 32.º\n\nObra de colaboração e obra colectiva\n\n1 - O direito de autor sobre a obra feita em colaboração, como tal, caduca 70 anos após a morte do colaborador que falecer em último lugar.\n\n2 - O direito de autor sobre a obra colectiva ou originariamente atribuída a pessoa colectiva caduca 70 anos após a primeira publicação ou divulgação lícitas, salvo se as pessoas físicas que a criaram foram identificadas nas versões da obra tornadas acessíveis ao público.\n\n3 - A duração do direito de autor atribuído individualmente aos colaboradores de obra colectiva, em relação às respectivas contribuições que possam discriminar-se, é a que se estabelece no artigo 31.º\n\nArtigo 33.º\n\nObra anónima e equiparada\n\n1 - A duração da protecção de obra anónima ou licitamente publicada ou divulgada sem identificação do autor é de 70 anos após a publicação ou divulgação.\n\n2 - Se a utilização de nome, que não o próprio, não deixar dúvidas quanto à identidade do autor, ou se este a revelar dentro do prazo referido no número anterior, a duração da protecção será a dispensada à obra publicada ou divulgada sob nome próprio.\n\nArtigo 34.º\n\nObra cinematográfica ou áudio-visual\n\nO direito de autor sobre obra cinematográfica ou qualquer outra obra áudio-visual caduca 70 anos após a morte do último sobrevivente de entre as pessoas seguintes:\n\na) O realizador;\n\nb) O autor do argumento ou da adaptação;\n\nc) O autor dos diálogos;\n\nd) O autor das composições musicais especialmente criadas para a obra.\n\nArtigo 35.º\n\nObra publicada ou divulgada em partes\n\n1 - Se as diferentes partes, volumes ou episódios de uma obra não forem publicados ou divulgados simultaneamente, os prazos de protecção legal contam-se separadamente para cada parte, volume ou episódio.\n\n2 - Aplica-se o mesmo princípio aos números ou fascículos de obras colectivas de publicação periódica, tais como jornais ou publicações similares.\n\nArtigo 36.º\n\nPrograma de computador\n\n1 - O direito atribuído ao criador intelectual sobre a criação do programa extingue-se 70 anos após a sua morte.\n\n2 - Se o direito for atribuído originariamente a pessoa diferente do criador intelectual, o direito extingue-se 70 anos após a data em que o programa foi pela primeira vez licitamente publicado ou divulgado.\n\nArtigo 37.º\n\nObra estrangeira\n\nAs obras que tiverem como país de origem um país estrangeiro não pertencente à União Europeia e cujo autor não seja nacional de um país da União gozam da duração de protecção prevista na lei do país de origem, se não exceder a fixada nos artigos precedentes.\n\nArtigo 38.º\n\nDomínio público\n\n1 - A obra cai no domínio público quando tiverem decorrido os prazos de protecção estabelecidos neste diploma.\n\n2 - Cai igualmente no domínio público a obra que não for licitamente publicada ou divulgada no prazo de 70 anos a contar da sua criação, quando esse prazo não seja calculado a partir da morte do autor.\n\nArtigo 39.º\n\nObras no domínio público\n\n1 - Quem fizer publicar ou divulgar licitamente, após a caducidade do direito de autor, uma obra inédita beneficia durante 25 anos a contar da publicação ou divulgação de protecção equivalente à resultante dos direitos patrimoniais do autor.\n\n2 - As publicações críticas e científicas de obras caídas no domínio público beneficiam de protecção durante 25 anos a contar da primeira publicação lícita.\n\nArtigo 183.º\n\nDuração dos direitos conexos\n\n1 - Os direitos conexos caducam decorrido um período de 50 anos:\n\na) Após a representação ou execução pelo artista intérprete ou executante;\n\nb) Após a primeira fixação, pelo produtor, do fonograma, videograma ou filme;\n\nc) Após a primeira emissão pelo organismo de radiodifusão, quer a emissão seja efectuada com ou sem fio, incluindo cabo ou satélite.\n\n2 - Se, no decurso do período referido no número anterior, forem objecto de publicação ou comunicação lícita ao público uma fixação da representação ou execução do artista intérprete ou executante, o fonograma, o videograma ou o filme protegidos, o prazo de caducidade do direito conta-se a partir destes factos e não a partir dos factos referidos, respectivamente, nas alíneas a) e b) do mesmo número.\n\n3 - O termo «filme» designa uma obra cinematográfica ou áudio-visual e toda e qualquer sequência de imagens em movimento, acompanhadas ou não de som.\n\n4 - É aplicável às entidades referidas nas alíneas a), b) e c) do n.º 1 o disposto no artigo 37.º»"
+  },
+  "46569475": {
+   "fragment_id": "35498175",
+   "type": 11,
+   "heading": "Artigo 3.º — Contagem do prazo de caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contagem do prazo de caducidade\n\nA caducidade só opera após o dia 1 de Janeiro do ano seguinte àquele em que o prazo se completar."
+  },
+  "46569575": {
+   "fragment_id": "35498275",
+   "type": 11,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\nSão revogados os artigos 186.º e 188.º do Código do Direito de Autor e dos Direitos Conexos e 4.º do Decreto-Lei n.º 252/94, de 20 de Outubro."
+  },
+  "46569675": {
+   "fragment_id": "35498375",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito de aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito de aplicação no tempo\n\n1 - As disposições deste diploma são aplicáveis desde o dia 1 de Julho de 1995 e aplicam-se a todas as obras, prestações e produções protegidas nessa data em qualquer país da União Europeia.\n\n2 - Os sucessores do autor beneficiam da reactivação dos direitos decorrente do disposto no número anterior, sem prejuízo dos actos de exploração já praticados e dos direitos adquiridos por terceiros."
+  },
+  "214566502": {
+   "fragment_id": "35498175",
+   "type": 11,
+   "heading": "Artigo 3.º — Contagem do prazo de caducidade",
+   "in_force_from": "2032-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2032-07-04"
+   ],
+   "markdown": "###### Artigo 3.º — Contagem do prazo de caducidade\n\nA caducidade só opera após o dia 1 de Janeiro do ano seguinte àquele em que o prazo se completar.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 47/2023 - Diário da República n.º 117/2023, Série I de 2023-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), em vigor a partir de 2032-07-04"
+  },
+  "46569775": {
+   "fragment_id": "35498475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.\n\nPromulgado em 13 de Novembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 17 de Novembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

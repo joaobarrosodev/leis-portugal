@@ -1,0 +1,1356 @@
+---
+schema_version: '1.0'
+id: pt:dre:243736:por
+title: Portaria n.º 320-C/2011
+short_title: null
+summary: Aprova a Tabela de Emolumentos Consulares, a cobrar pelos serviços externos do Ministério dos Negócios Estrangeiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 320-C/2011
+official_date: null
+publication_date: '2011-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2011, 2º Suplemento, Série I de 2011-12-30
+  number: '250'
+  series: I
+  supplement: 2º Suplemento
+  pages: 5538-(275) a 5538-(285)
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/12/25002/0027500285.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-01'
+version_history:
+  file: portaria-320-c-2011.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-10-01'
+    amending: pt:dre:175541:por
+    amending_title: Portaria n.º 296/2012
+    changes:
+    - Adita Artigo 10.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 38.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 87.º
+  - date: '2014-01-21'
+    amending: pt:dre:571024:por
+    amending_title: Portaria n.º 11/2014
+    changes:
+    - Altera Artigo 3.º
+  - date: '2022-01-01'
+    amending: pt:dre:173509616:por
+    amending_title: Portaria n.º 229/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/320-c/2011/12/30/p/dre/pt/html
+  oj: null
+  dre: '243736'
+  dre_path: /dr/detalhe/portaria/320-c-2011-243736
+  internal: pt:dre:243736:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2011-243736
+  metadata_url: https://data.dre.pt/eli/port/320-c/2011/12/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-128907275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-128907275
+  retrieved_at: '2026-10-22T12:30:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0657addacf5eecd10d7ece3dfbcbaf3efdb021b256478009461cba4c56a089e5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:30:35Z'
+  notes: 4 versão(ões); histórico completo em portaria-320-c-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embaixada
+- Consulado
+- Emolumento Consular
+- Ministério dos Negócios Estrangeiros
+relationships:
+- type: amended_by
+  target: pt:dre:175541:por
+  label: Adita Artigo 10.º-A; Adita Artigo 12.º-A; Adita Artigo 38.º-A; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo
+    13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 22.º; Altera Artigo 24.º; Altera Artigo 87.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541
+  date: '2012-09-28'
+- type: amended_by
+  target: pt:dre:571024:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/11-2014-571024
+  date: '2014-01-20'
+- type: amended_by
+  target: pt:dre:128865462:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/38-2020-128865462
+  date: '2020-02-05'
+- type: amended_by
+  target: pt:dre:173509616:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616
+  date: '2021-10-28'
+- type: cites
+  target: celex:32009R0810
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/810/oj
+- type: cites
+  target: celex:32016L0801
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2005/761/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2005/761/oj
+article_structure:
+  article_count: 93
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:30:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 320-C/2011
+
+Portaria n.º 320-C/2011
+
+de 30 de Dezembro
+
+A Tabela de Emolumentos Consulares estabelece os valores a cobrar pelos serviços externos do Ministério dos Negócios Estrangeiros.
+
+A entrada em vigor do Regulamento (CE) n.º <a href="eurlex.asp?ano=2009&id=309R0810" title="Link para Regulamento da Comunidade Europeia">810/2009</a>, do Parlamento Europeu e do Conselho, de 13 de julho, que estabelece o Código Comunitário de Vistos; do Decreto-Lei n.º 99/2010, de 2 de setembro, que altera o Regulamento Emolumentar dos Registos e do Notariado; da Portaria n.º 992/2010, de 29 de setembro, que atualiza as taxas a cobrar pelos pedidos de cartão de cidadão; e da Portaria n.º 418/2011, de 16 de março, que altera a Portaria n.º 1245/2006, de 25 de agosto, por efeito da introdução da segunda versão do passaporte eletrónico (PEPv2), determina que se proceda à harmonização dos valores a cobrar pela Tabela de Emolumentos Consulares.
+
+Por outro lado, os valores emolumentares agora definidos contemplam os atuais custos de produção dos atos consulares, refletindo-se neles o processo de modernização consular implementado ao longo dos últimos anos com recurso às novas Tecnologias de Informação e Comunicação, contribuindo para a desmaterialização, simplificação processual, segurança e qualidade do trabalho realizado, assim como para uma maior celeridade e eficácia no atendimento dos utentes que necessitam dos serviços consulares portugueses.
+
+Assim:
+
+Ao abrigo do disposto no artigo 199.º alínea g) da Constituição e do artigo 59.º do Regulamento Consular, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros, o seguinte:
+
+###### Artigo 1.º — Aprovação
+
+É aprovada a Tabela de Emolumentos Consulares a cobrar pelos serviços externos do Ministério dos Negócios Estrangeiros, constante do anexo ao presente diploma e que dele faz parte integrante.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 2.º — Revogação
+
+É revogada a Portaria n.º 19/2003, de 11 de janeiro.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente Portaria entra em vigor no 1.º dia útil do mês seguinte à data da sua publicação.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+## Anexo — (a que se refere o artigo 1.º)
+
+Tabela de Emolumentos Consulares
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+### Capítulo I — Atos consulares
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+#### Secção I — Proteção consular
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 1.º
+
+Pela inscrição consular - gratuita.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 2.º
+
+Pela cédula ou certificado de inscrição consular com validade de cinco anos - (euro) 10.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 3.º
+
+1 - Pela concessão, produção, personalização e remessa de passaporte comum eletrónico - (euro) 75.
+
+2 - Pelos serviços especiais previstos no artigo 5.º da Portaria n.º 1245/2006, de 25 de agosto, referentes ao ato previsto no n.º 1, acresce a quantia de:
+
+a) (euro) 30, quando seja solicitada a remessa do passaporte por correio seguro para a morada do titular;
+
+b) (euro) 35, quando seja solicitado o serviço expresso para remessa do passaporte;
+
+c) (euro) 45, quando seja solicitado o serviço urgente para remessa do passaporte.
+
+3 - Pelo serviço externo de recolha dos elementos necessários para a concessão do passaporte, nos casos em que a lei o permita, é devida a quantia de (euro)50, a acrescer aos restantes emolumentos.
+
+4 - Pela concessão e emissão de novo passaporte para titular de passaporte válido, em caso de não apresentação do que se visa substituir, é devida a quantia de (euro) 40, a acrescer aos restantes emolumentos.
+
+5 - Pela emissão e concessão de segundo passaporte, nos casos em que a lei o permita, é devida a quantia de (euro) 10, a acrescer aos restantes emolumentos.
+
+6 - Pela emissão de passaporte para estrangeiros ou substituição de passaporte válido para estrangeiros são devidas as quantias de (euro) 100 e (euro) 75, respetivamente.
+
+7 - O emolumento previsto no n.º 1 reverte:
+
+a) Para a Imprensa Nacional-Casa da Moeda (INCM), através da Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas (DGACCP), em (euro) 22,50;
+
+b) Do remanescente, para o Serviço de Estrangeiros e Fronteiras (SEF) em 20 % e para o Fundo para as Relações Internacionais (FRI) em 80 %.
+
+8 - As quantias previstas no n.º 2 revertem para a INCM, através da DGACCP.
+
+9 - O produto das quantias previstas nos n.os 3 a 6 é atribuído do seguinte modo:
+
+a) A quantia prevista no n.º 3 do presente artigo constitui receita do FRI;
+
+b) As quantias previstas nos n.os 4 e 5 são em 80 % receita do SEF e em 20 % receita da entidade concedente;
+
+c) A quantia prevista no n.º 6 reverte em 20 % para o FRI e em 80 % para o SEF.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 11/2014 - Diário da República n.º 13/2014, Série I de 2014-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/11-2014-571024), em vigor a partir de 2014-01-21, produz efeitos a partir de 2013-11-01
+
+###### Artigo 4.º
+
+1 - Pelo título individual de viagem única - (euro) 25.
+
+2 - Pelo Emergency Travel Document - (euro) 25.
+
+3 - Pela emissão de passaporte temporário - (euro) 150.
+
+4 - É gratuita a emissão de passaporte temporário nos casos em que a necessidade de deslocação para fora de país estrangeiro ou a impossibilidade de uso do passaporte comum se devam a catástrofe, guerra, alteração grave da ordem pública ou outro caso de força maior.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 5.º
+
+1 - Pelo visto em cédulas de marítimos - (euro) 11.
+
+2 - Pelo averbamento em cédulas de marítimos - (euro) 11.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 6.º
+
+Pela intervenção de funcionário consular em diligências junto das autoridades locais ou de qualquer outra entidade, a solicitação dos interessados - (euro) 30.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 7.º
+
+1 - Por informações solicitadas sobre paradeiro de portugueses ou sobre qualquer outra matéria:
+
+a) Obtidas na sede do posto consular - (euro) 15;
+
+b) Obtidas fora da sede do posto consular - (euro) 40.
+
+2 - As informações referentes à residência de portugueses ou a outros elementos sobre identificação civil só podem ser concedidas às pessoas referidas na Lei n.º 33/99, de 18 de maio.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 8.º
+
+Pelo visto em contratos de trabalho ou em pedidos numéricos de trabalhadores - (euro) 14.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 9.º
+
+Pela carta de chamada (termo de responsabilidade) - (euro) 28.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 10.º
+
+Não são devidos emolumentos pela intervenção referida no artigo 6.º quando efetuada em favor dos interesses dos ausentes e incapazes, praticando em seu benefício os atos conservatórios que as circunstâncias exijam e para proteção dos órfãos e todos os portugueses naufragados, desvalidos ou detidos.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 10.º-A
+
+Pelo assento de transcrição de qualquer ato lavrado nos termos do n.º 4 do artigo 6.º do Código do Registo Civil - (euro) 180.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+#### Secção II — Atos de registo civil
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 11.º
+
+1 - Pelas convenções antenupciais, sua alteração ou revogação, se for convencionado um dos regimes tipo previstos no Código Civil - (euro) 120.
+
+1.1 - Pelas convenções antenupciais, sua alteração ou revogação, se for convencionado um dos regimes atípico de bens - (euro) 180.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Pelo registo da convenção ou alteração do regime de bens efetuada perante entidade diversa do posto consular - (euro) 30.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 12.º
+
+1 - Pelo processo e registo de casamento - (euro) 120.
+
+2 - O emolumento previsto no número anterior inclui, consoante os casos:
+
+a) A organização de processo de casamento;
+
+b) (Revogada.)
+
+c) A declaração de dispensa de prazo internupcial;
+
+d) A declaração de consentimento para casamento de menores;
+
+e) (Revogada.)
+
+f) Os certificados previstos nos artigos 146.º e 163.º do Código do Registo Civil;
+
+g) O assento de casamento ou assento de transcrição de casamento lavrado no estrangeiro perante autoridade estrangeira, respeitante a nacional português.
+
+3 - O emolumento previsto no n.º 1 é devido ao posto consular organizador do processo de casamento, ainda que um ou mais dos restantes atos previstos no número anterior sejam promovidos ou efetuados noutro posto consular ou conservatória.
+
+4 - Pelo processo de suprimento da certidão de registo para efeitos de casamento, por cada - (euro) 100.
+
+5 - Pelo processo de dispensa de impedimentos matrimoniais - (euro) 60.
+
+6 - Pelo processo de suprimento de autorização para casamento de menores - (euro) 60.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 12.º-A
+
+1 - Pelo processo de suprimento de certidão de registo quando requerido ao abrigo do artigo 270.º do Código do Registo Civil - (euro) 100.
+
+2 - Pela desistência ou não conclusão dos atos, processos e procedimentos por motivos imputáveis às partes é devido metade do emolumento
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 13.º
+
+1 - Pelo processo de alteração do nome - (euro) 200.
+
+1.1 - Pelo procedimento de mudança de sexo e correspondente alteração de nome próprio - (euro) 200.
+
+2 - O emolumento previsto no número anterior pertence à Conservatória dos Registos Centrais.
+
+3 - Pela desistência ou não conclusão dos atos, processos e procedimentos por motivos imputáveis às partes é devido metade do emolumento previsto.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 14.º
+
+1 - Pelos processos de justificação judicial e administrativa, quando requeridos pelos interessados - (euro) 100.
+
+2 - Pelas retificações por simples despacho de irregularidades ou deficiências não imputáveis aos serviços - (euro) 40.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 15.º
+
+1 - Por cada certidão de registo - (euro) 20.
+
+1.1 - Por cada certidão de documento ou de processos, até 10 páginas - (euro) 30.
+
+2 - Por cada certidão negativa de registo - (euro) 25.
+
+3 - Por cada certidão para fins de abono de família ou de segurança social - (euro) 10.
+
+4 - As certidões referidas no número anterior devem mencionar o fim a que se destinam, único para que podem ser utilizadas.
+
+5 - Pela certidão de documento, além dos emolumentos previstos nos n.os 1 e 1.1, acresce, por cada página - (euro) 2,50.
+
+6 - Pela emissão de certificado relativo a processo ou procedimento não concluído por motivo imputável às partes - (euro) 50.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 16.º
+
+1 - Por cada consulta de nome - (euro) 50.
+
+2 - Por cada consulta de nome que envolva parecer onomástico - (euro) 75.
+
+3 - Os emolumentos referidos nos números anteriores pertencem à Conservatória dos Registos Centrais.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 17.º
+
+Pela tradução de documentos de registo civil será cobrada apenas metade dos emolumentos previstos nos artigos 39.º e 40.º
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 18.º
+
+1 - São gratuitos os seguintes atos e processos:
+
+a) Assento de nascimento, de declaração de maternidade ou de perfilhação;
+
+b) Assento de óbito ou depósito do certificado médico de morte fetal;
+
+c) Assento de casamento civil ou católico urgente;
+
+d) Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira;
+
+e) Assento de transcrição de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português;
+
+f) Reconstituição de ato ou de processo;
+
+g) Processo de impedimento do casamento;
+
+h) Processo de sanação da anulabilidade do casamento por falta de testemunhas;
+
+i) O registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14 de junho, bem como os documentos e processos a ele respeitantes;
+
+j) Certidões a que se referem os n.os 5 e 6 do artigo 215.º do Código do Registo Civil, bem como certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no referido Código e em legislação avulsa aplicável ao registo civil que não devam entrar em regra de custas;
+
+k) Certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais;
+
+l) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de março.
+
+2 - Beneficiam ainda de gratuitidade dos atos de registo civil, dos processos e declarações que lhes respeitem, dos documentos necessários e processos relativos ao suprimento destes, bem como das certidões requeridas para quaisquer fins, os indivíduos que provem a sua insuficiência económica pelos seguintes meios:
+
+a) Documento emitido pela competente autoridade administrativa;
+
+b) Declaração passada por instituição pública de assistência social onde o indivíduo se encontre internado.
+
+3 - Para efeitos do disposto no número anterior, nos atos, processos e procedimentos requeridos por mais de uma pessoa, em que apenas um requerente beneficie da gratuitidade, é devido pelo requerente não beneficiário o pagamento de metade do emolumento previsto para ato, processo e procedimento.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+#### Secção III — Atos de identificação civil
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 19.º
+
+1 - Pela requisição de cada bilhete de identidade - (euro) 5.
+
+2 - Pela emissão de cada bilhete de identidade - (euro) 3.
+
+3 - Por cada informação sobre identidade civil - (euro) 8.
+
+4 - Pela realização de serviço externo - (euro) 30.
+
+5 - Os emolumentos referidos nos n.os 2 e 3 pertencem ao Instituto dos Registos e do Notariado.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 20.º
+
+São gratuitas:
+
+a) A emissão do primeiro bilhete de identidade desde que o requerente seja menor;
+
+b) A emissão do bilhete de identidade quando o requerente comprove encontrar-se em insuficiência económica ou que se encontra internado em instituição de assistência ou de beneficência;
+
+c) As informações prestadas nos termos do artigo 24.º da Lei n.º 33/99, de 18 de maio.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 21.º
+
+1 - Pela emissão ou substituição do cartão de cidadão são devidas as seguintes taxas:
+
+a) Pedido normal com entrega no território nacional ou no estrangeiro - (euro) 15;
+
+b) Pedido urgente com entrega no território nacional - (euro) 30;
+
+c) Pedido urgente com entrega no estrangeiro - (euro) 45;
+
+d) Pedido urgente com entrega no próprio dia do pedido ou no prazo de um dia, com levantamento em balcão do Instituto dos Registos e do Notariado, I. P. (IRN), em Lisboa - (euro) 35;
+
+e) Serviço de expedição para o estrangeiro - (euro) 5, a acrescer à taxa aplicável nos termos da alínea a).
+
+2 - Nos pedidos urgentes referidos nas alíneas b) e c) do número anterior, os prazos máximos de entrega das cartas de ativação que permitem o levantamento do cartão de cidadão pelos interessados constam do Anexo à Portaria n.º 203/2007, de 13 de fevereiro, da qual faz parte integrante.
+
+3 - Caso os prazos constantes no Anexo referido no número anterior não sejam cumpridos, é devolvido aos interessados o montante correspondente à diferença entre a taxa cobrada e a taxa referida na alínea a) do n.º 1.
+
+4 - Pedido autónomo de alteração de morada - (euro) 3.
+
+5 - Na primeira emissão do cartão de cidadão, em regime normal, até à idade prevista no n.º 1 do artigo 3.º da Lei n.º 7/2007, de 5 de fevereiro, a taxa aplicável é reduzida em 50 %.
+
+6 - Com vista a incentivar a expansão do uso de assinaturas digitais, a taxa prevista na alínea a) do n.º 1 pode ser reduzida em 20 % no quadro de campanhas de promoção do cartão de cidadão envolvendo serviços públicos e entidades privadas, mediante protocolo a celebrar com o IRN, homologado pela tutela.
+
+7 - O regime previsto no número anterior é igualmente aplicável no quadro de campanhas de incentivo à substituição, em regime normal, de bilhetes de identidade vitalícios por cartões de cidadão.
+
+8 - Sem prejuízo no disposto na lei sobre os atos de identificação civil gratuitos, quando, no âmbito do pedido de emissão ou substituição do cartão de cidadão, for solicitada a realização de serviço externo, é devida uma taxa de (euro) 40, que acresce às taxas de emissão ou substituição do cartão.
+
+9 - A realização do serviço externo só pode ser solicitada quando se trate dos pedidos referidos nas alíneas a) e b) do n.º 1.
+
+10 - Os emolumentos referidos nos n.os 1, 4 e 5 são repartidos na proporção de 75 % para o IRN e 25 % para o FRI.
+
+11 - Os emolumentos referidos nos n.os 6 e 7 são repartidos na proporção de 75 % para o IRN e 25 % para o FRI.
+
+12 - O emolumento referido no n.º 8 constitui receita do FRI.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+#### Secção IV — Atos de nacionalidade
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 22.º
+
+1 - Atribuição:
+
+a) Por cada procedimento de inscrição de nascimento ocorrido no estrangeiro referente a maior - (euro) 220.
+
+b) Por cada procedimento de atribuição da nacionalidade portuguesa referente a maior, bem como pelos autos de redução a escrito das declarações prestadas para esse efeito, pelos respetivos registos e documentos oficiosamente obtidos - (euro) 175.
+
+2 - Aquisição:
+
+a) Por cada procedimento de aquisição da nacionalidade por efeito da vontade, por adoção ou por naturalização referentes a maior, incluindo o auto de redução a escrito das declarações verbais prestadas para esse efeito, o respetivo registo e documentos oficiosamente obtidos - (euro) 250;
+
+b) Por cada procedimento de aquisição da nacionalidade por efeito da vontade ou por naturalização referentes a incapaz, incluindo o auto de redução a escrito das declarações verbais prestadas para esse efeito, o respetivo registo e documentos oficiosamente obtidos - (euro) 200.
+
+3 - Perda:
+
+a) Por cada procedimento de perda da nacionalidade, bem como pela redução a escrito da declaração verbal prestada para esse efeito, pelo respetivo registo e documentos oficiosamente obtidos - (euro) 150.
+
+4 - São ainda cobradas aos interessados as despesas resultantes do previsto no n.º 9 do artigo 37.º do Decreto-Lei n.º 237-A/2006, de 14 de dezembro.
+
+5 - Pelos custos decorrentes da organização dos atos referidos na alínea b) do n.º 1 e nos n.os 2, 3 e 4 acresce, quando praticados no estrangeiro, (euro) 100.
+
+6 - A receita emolumentar referida na alínea b) do n.º 1 e nos n.os 2 e 3 do presente artigo reverte para a Conservatória dos Registos Centrais, constituindo receita do FRI o valor emolumentar constante na alínea a) do n.º 1 e no n.º 5.
+
+7 - Em caso de indeferimento liminar, os emolumentos previstos nos números anteriores são devidos na sua totalidade.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 23.º
+
+1 - São gratuitos os seguintes atos:
+
+a) Declaração atributiva da nacionalidade portuguesa, para inscrição de nascimento ocorrido no estrangeiro, ou declaração para fins de atribuição da referida nacionalidade, bem como os documentos necessários para tais fins, desde que referentes a menor;
+
+b) Assento de nascimento ocorrido no estrangeiro, atributivo da nacionalidade portuguesa, ou registo de atribuição da referida nacionalidade, desde que referentes a menor;
+
+c) Declaração para aquisição da nacionalidade, nos termos dos artigos 30.º e 31.º da Lei n.º 37/81, de 3 de outubro;
+
+d) Registo da declaração para aquisição da nacionalidade, nos termos dos artigos referidos na alínea anterior e registos oficiosos lavrados nos termos do artigo 33.º da Lei n.º 37/81, de 3 de outubro, bem como os procedimentos e documentos necessários a uns e outros;
+
+e) Certidões, fotocópias e comunicações que decorram do cumprimento das obrigações previstas no Regulamento da Nacionalidade e em legislação avulsa aplicável à nacionalidade e que não devem entrar em regra de custas.
+
+2 - Beneficiam ainda de gratuitidade dos atos de nacionalidade, dos processos e declarações que lhes respeitem, dos documentos necessários e processos relativos ao suprimento destes, bem como das certidões requeridas para quaisquer fins, os indivíduos que provem a sua insuficiência económica pelos meios enumerados nas alíneas a) ou b) do n.º 2 do artigo 18.º da presente tabela.
+
+3 - Procedimento de aquisição de nacionalidade portuguesa a quem foi identificado como português por erro imputável à administração.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 24.º
+
+1 - Por cada certificado de nacionalidade - (euro) 50.
+
+2 - O emolumento referido no número anterior constitui receita do IRN, I. P.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+#### Secção V — Atos de processo
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 25.º
+
+Pela arrecadação, administração e liquidação de espólios - (euro) 100.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 26.º
+
+1 - Pela intervenção do funcionário consular em diligência ou ato praticado fora da respetiva chancelaria consular:
+
+a) Na localidade - (euro) 60;
+
+b) Fora da sede - (euro) 100;
+
+c) Durante a diligência mais de um dia, por cada dia além do primeiro - (euro) 60.
+
+2 - Efetuando-se duas ou mais diligências no mesmo local e dia, com referência a um único ato, são aplicados os emolumentos precedentes, como se de uma só diligência se tratasse.
+
+3 - Comparecendo o funcionário consular no local da diligência mas deixando esta de se verificar por motivo ou facto alheio ao mesmo funcionário, cobrar-se-ão os emolumentos como se ela tivesse sido efetuada.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 27.º
+
+Pela intervenção do funcionário consular em conciliação ou arbitragem - (euro) 60.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 28.º
+
+Pela intervenção do funcionário consular em processo de tutela ou curatela, quando o valor dos bens seja superior a (euro) 500 - (euro) 60.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 29.º
+
+Pela nomeação de louvados ou peritos - (euro) 60.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 30.º
+
+Por anúncios, éditos ou editais, cada lauda - (euro) 20.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 31.º
+
+1 - Por diligências efetuadas no âmbito de processos judiciais ou de procedimentos administrativos a solicitação de autoridades judiciárias, de entidades do setor público ou de autarquias locais, por cada:
+
+a) Informação avulsa - (euro) 50;
+
+b) Inquirição de testemunha - (euro) 50;
+
+c) Notificação ou citação - (euro) 50;
+
+d) Inquérito - (euro) 90.
+
+2 - Quando exista utilização de meios tecnológicos especiais, pela prática dos atos previstos no ponto anterior, são cobrados (euro) 100, acrescendo (euro) 100 por cada hora adicional.
+
+3 - Os emolumentos referidos nos números anteriores não serão devidos nos casos em que esteja legalmente prevista a isenção subjetiva.
+
+4 - Os atos solicitados nos termos do n.º 1 são pagos com a apresentação do pedido.
+
+5 - Quando o ato solicitado não puder ser satisfeito por motivo alheio ao posto ou ao funcionário consular encarregue da sua prática, cobrar-se-ão os emolumentos como se ele tivesse sido efetuado.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 32.º
+
+Pelo exame de livros, processos, títulos ou quaisquer documentos para averiguação de determinado fato - (euro) 55.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 33.º
+
+Não são devidos emolumentos:
+
+a) Pelos atos referidos no artigo 25.º, quando o seu valor seja inferior a (euro) 500;
+
+b) Pela arrecadação de espólios de não residentes no distrito consular, quando efetuada por motivo de sinistro.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+#### Secção VI — Atos de notariado
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 34.º
+
+1 - Por cada escritura com um só ato - (euro) 200.
+
+2:
+
+a) Por cada testamento público, testamento internacional, instrumento de aprovação ou abertura de testamento cerrado - (euro) 300;
+
+b) Pela revogação de testamento - (euro) 100.
+
+3 - Pelo distrate, resolução ou revogação de atos notariais será devido um emolumento correspondente a 80 % do emolumento do respetivo ato.
+
+4 - Por quaisquer outros instrumentos avulsos, com exceção dos de protesto de títulos de crédito - (euro) 50.
+
+5 - Por cada instrumento de ata de reunião de organismo social e assistência a ela:
+
+a) Durante a reunião, até uma hora - (euro) 75;
+
+b) Por cada hora a mais ou fração - (euro) 25;
+
+c) Os valores previstos nas alíneas anteriores serão reduzidos em 50 % quando solicitados por Instituições de Solidariedade Social, Culturais ou Desportivas.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 35.º
+
+1 - Quando uma escritura contiver mais de um ato, cobram-se por inteiro os emolumentos devidos por cada um deles.
+
+2 - Há pluralidade de atos se a denominação correspondente a cada um dos negócios jurídicos cumulados for diferente ou se os respetivos sujeitos ativos e passivos não forem os mesmos.
+
+3 - Não são considerados novos atos:
+
+a) As intervenções, aquiescências e renúncias de terceiros necessárias à plenitude dos efeitos jurídicos ou à perfeição do ato a que respeitam;
+
+b) As garantias entre os mesmos sujeitos;
+
+c) As garantias a obrigações constituídas por sociedades, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico prestadas por sócios e pelos membros dos agrupamentos no mesmo instrumento em que a dívida tenha sido contraída.
+
+4 - Contar-se-ão como um só ato, tributado pelo emolumento de maior valor previsto para os atos cumulados:
+
+a) A venda e a cessão onerosa entre os mesmos sujeitos;
+
+b) O arrendamento e o aluguer, bem como o contrato misto de locação e de parceria, entre os mesmos sujeitos e pelo mesmo prazo;
+
+c) A dissolução de sociedades e a liquidação ou partilha do respetivo património;
+
+d) A aquiescência recíproca entre os cônjuges ou a aquiescência conjunta do marido e mulher, para atos lavrados ou a lavrar noutro instrumento;
+
+e) A outorga de poderes de representação ou o seu substabelecimento por marido e mulher contanto que o representante seja o mesmo;
+
+f) As diversas garantias de terceiros a obrigações entre os mesmos sujeitos prestados no título em que estas são constituídas, sem prejuízo do disposto na alínea c) do número anterior;
+
+g) As diversas garantias a obrigações entre os mesmos sujeitos em título posterior àquele em que foram constituídas.
+
+5 - O disposto nos números anteriores é igualmente aplicável aos instrumentos avulsos que contenham mais de um ato.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 36.º
+
+1 - Por cada instrumento de protesto de títulos de crédito - (euro) 10.
+
+2 - Pelo levantamento de cada título antes de protestado - (euro) 10.
+
+3 - Pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título - (euro) 10.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 37.º
+
+Por cada notificação de titular inscrito efetuada nos termos do n.º 4 do artigo 99.º do Código do Notariado - (euro) 50.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 38.º
+
+1 - Pelo reconhecimento de cada assinatura - (euro) 15.
+
+2 - Por cada reconhecimento de letra e de assinatura - (euro) 15.
+
+3 - Pelo reconhecimento que contenha, a pedido do interessado, a menção de qualquer circunstância especial - (euro) 20.
+
+4 - Por cada termo de autenticação com um só interveniente - (euro) 30.
+
+5 - Por cada interveniente a mais - (euro) 10.
+
+6 - É gratuito o reconhecimento presencial de assinatura efetuado em declarações ou requerimentos para fins de atribuição, aquisição ou perda da nacionalidade portuguesa.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 38.º-A
+
+1 - Por cada termo de autenticação de procuração com um só mandante e mandatário - (euro) 20.
+
+2 - Por cada mandante ou mandatário adicional - (euro) 10.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01
+
+###### Artigo 39.º
+
+Tradução de documentos feita na chancelaria consular e respetivo certificado de exatidão:
+
+a) De língua estrangeira para portuguesa, cada lauda ou fração - (euro) 40;
+
+b) De língua portuguesa para estrangeira, cada lauda ou fração - (euro) 45;
+
+c) De línguas orientais para português, cada lauda ou fração - (euro) 60;
+
+d) De português para línguas orientais, cada lauda ou fração - (euro)70.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 40.º
+
+Certificado de exatidão de tradução de cada documento realizado por tradutor ajuramentado:
+
+a) Sendo a tradução de língua estrangeira para portuguesa - (euro) 30;
+
+b) Sendo a tradução de língua portuguesa para estrangeira - (euro) 35.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 41.º
+
+1 - Por cada certidão, certificado diverso dos previstos na presente secção, pública-forma, fotocópia e respetiva conferência até quatro páginas, inclusive - (euro) 23.
+
+2 - Por cada certidão, certificado diverso dos previstos na presente secção, pública-forma, fotocópia e respetiva conferência a partir da 5.ª página, por cada página a mais - (euro) 3.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 42.º
+
+Por cada extrato para publicação - (euro) 25.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 43.º
+
+Por cada registo lavrado no livro a que se refere a alínea f) do artigo 7.º do Código do Notariado - (euro) 30.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 44.º
+
+1 - Pelos atos requisitados que não sejam outorgados por motivos imputáveis às partes é devido o emolumento correspondente a 80 % do emolumento do respetivo ato.
+
+2 - Tratando-se, porém, de escrituras de partilha ou doação, ao emolumento do número anterior acrescerá o emolumento previsto no n.º 2 do artigo 34.º reduzido a metade.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 45.º
+
+Não são devidos emolumentos pelos certificados para efeitos de cobrança de pensões por acidente de trabalho, sobrevivência, reforma, aposentação ou para efeitos de subsídio de desemprego.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 46.º
+
+São gratuitos os seguintes atos:
+
+a) Retificação resultante de erro imputável ao notário ou de inexatidão proveniente de deficiência de título emitido pelos serviços dos registos e notariado;
+
+b) Sanação e revalidação de atos notariais.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 47.º
+
+São devidos à Conservatória dos Registos Centrais:
+
+a) Pela transcrição de cada escritura ou testamento outorgado no estrangeiro - (euro) 45;
+
+b) Por cada boletim de informação ou certidão referente à existência de escritura ou testamento - (euro) 25;
+
+c) Pelo registo na Conservatória dos Registos Centrais de cada escritura, testamento público, testamento internacional, instrumento de aprovação, de depósito e abertura de testamento cerrado - (euro) 9.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+#### Secção VII — Atos de comércio e navegação
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 48.º
+
+Pelo visto na declaração relativa à venda de carga no porto de arribada - (euro) 45.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 49.º
+
+Pelos vistos nos seguintes atos:
+
+a) No rol de tripulação - (euro) 18;
+
+b) No rol de tripulação com designação dos portos de destino e declaração do modo como tiver o capitão observado a lei e regulamentos vigentes - (euro) 18.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 50.º
+
+1 - Pelo despacho de navio que, conforme as circunstâncias e respetivas prescrições do Regulamento Consular, deva ser expedido ou legalizado em cada porto estrangeiro:
+
+a) Navio português ou estrangeiro tomando carga para porto português - (euro) 56;
+
+b) Navio português ou estrangeiro seguindo em lastro, sem lastro algum, não tomando carga para portos portugueses - (euro) 31;
+
+c) Qualquer ato de despacho em caso não previsto nas alíneas a) e b) - (euro) 28.
+
+2 - Tratando-se de navio português em navegação costeira e de cabotagem, cobrar-se-á nos casos previstos do número anterior metade do emolumento respetivo.
+
+3 - As taxas indicadas nos n.os 1 e 2 incidem sobre os despachos efetuados no primeiro porto de saída, sendo reduzidas a metade nos restantes portos em que toque o navio.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 51.º
+
+Pelo relatório ou protesto de mar, seu recebimento e legalização - (euro) 39.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 52.º
+
+Pela numeração e rubrica de qualquer dos livros de bordo - (euro) 56.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 53.º
+
+Pelo inventário de navio, seus aprestos e carga:
+
+a) Pela primeira lauda - (euro) 56;
+
+b) Por cada lauda a mais - (euro) 24.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 54.º
+
+Pela declaração de inavegabilidade e autorização para venda do navio - (euro) 80.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 55.º
+
+Pela emissão de licença de embarque de marítimos portugueses em embarcações estrangeiras - (euro) 10.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 56.º
+
+1 - Por inscrições de hipoteca provisórias ou definitivas, de consignação de rendimentos, penhora, arresto, arrolamento, providências cautelares e locação financeira - (euro) 80.
+
+2 - Por cada inscrição de aquisição anterior à daquele que se apresente a requerer o registo em seu nome - (euro) 80.
+
+3 - Por cada inscrição transcrita em consequência de mudança de capitania ou delegação marítima - (euro) 60.
+
+4 - Pelo fato previsto na alínea f) do artigo 89.º do Decreto-Lei n.º 42 645, de 14 de novembro de 1959 - (euro) 60.
+
+5 - O fato que respeite a diversos navios é cobrado por inteiro relativamente ao primeiro, acrescido de 50 % do valor do emolumento previsto para o registo, por cada navio a mais até ao limite de (euro) 5000.
+
+6 - Pelo averbamento à inscrição não especialmente previsto - (euro) 50.
+
+7 - Pelo averbamento de cancelamento - (euro) 80.
+
+8 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao ato.
+
+9 - Pela desistência do pedido de registo - (euro) 34.
+
+10 - Pela recusa do registo - (euro) 50.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 57.º
+
+Pelo exame e legalização de escritura de compra de navio - (euro) 106.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 58.º
+
+Pela mudança de bandeira:
+
+1) De portuguesa para estrangeira, incluindo o registo e a receção em depósito dos papéis da embarcação, além de outra taxa a pagar no caso de venda - (euro) 222;
+
+2) De estrangeira para portuguesa, além de outra taxa a pagar no caso de venda - (euro) 84.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 59.º
+
+Pelo certificado de navegabilidade provisório - (euro) 66.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 60.º
+
+1 - Pela requisição e emissão de certidão negativa - (euro) 26.
+
+2 - Pela requisição e emissão de certidão ou fotocópia de atos de registo:
+
+a) Respeitante a um só navio - (euro) 20;
+
+b) Por cada navio a mais - (euro) 16.
+
+3 - Pela requisição e emissão de certidão ou fotocópia de documentos, além do emolumento do ato respeitante a um só navio, acresce por cada página - (euro) 2,50.
+
+4 - Pela confirmação do conteúdo da certidão ou fotocópia é devido o emolumento da respetiva emissão, reduzido a metade.
+
+5 - Pela informação dada por escrito:
+
+a) Em relação ao navio - (euro) 11;
+
+b) Por cada navio a mais até ao máximo de (euro) 800 - (euro) 11.
+
+6 - Por fotocópia não certificada, por cada página - (euro) 3.
+
+7 - O emolumento devido pelas certidões e fotocópias é cobrado no ato do pedido, sendo restituído no caso de recusa da sua emissão.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 61.º
+
+O registo de retificação é gratuito, salvo se se tratar de inexatidão proveniente de deficiência dos títulos que não sejam emitidos pelos serviços dos registos e notariado.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+#### Secção VIII — Vistos
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 62.º
+
+1 - Pelos custos administrativos do tratamento de pedidos de vistos para efeitos de estada de duração não superior a 90 dias num período de 180 dias ou de trânsito através da zona internacional de trânsito de aeroportos nacionais, regulados pelo Código Comunitário de Vistos (Código de Vistos), estabelecido pelo Regulamento (CE) n.º 810/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009, é cobrado o emolumento de (euro) 80 ou, se destinado a crianças a partir dos 6 anos e com menos de 12 anos, de (euro) 40.
+
+2 - São abrangidos pelo disposto no número anterior os seguintes tipos de visto:
+
+a) Visto uniforme, tal como definido no ponto 3 do artigo 2.º do Código de Vistos;
+
+b) Visto com validade territorial limitada, tal como definido no ponto 4 do artigo 2.º do Código de Vistos;
+
+c) Visto de escala aeroportuária, tal como definido no ponto 5 do artigo 2.º do Código de Vistos.
+
+3 - Sempre que uma decisão de execução seja adotada pelo Conselho nos termos da alínea b) do n.º 5 do artigo 25.º-A do Código de Vistos, é cobrado o emolumento de (euro) 120 ou de (euro) 160 no tratamento de pedidos de vistos previstos nos números anteriores, desde que o requerente tenha idade superior a 12 anos.
+
+4 - Pelos custos administrativos do tratamento de pedidos de visto nacionais:
+
+a) De residência - (euro) 90;
+
+b) De estada temporária - (euro) 75.
+
+5 - Estão isentos do pagamento dos emolumentos relativos aos vistos previstos no n.º 1 os requerentes de visto de uma das seguintes categorias:
+
+a) Crianças com menos de seis anos;
+
+b) Alunos dos ensinos básico e secundário, estudantes do ensino superior, inclusive de cursos de pós-graduação, e professores acompanhantes que realizem viagens para fins de estudo ou de formação;
+
+c) Investigadores nacionais de países terceiros, nos termos definidos no ponto 2 do artigo 3.º da Diretiva (UE) 2016/801 do Parlamento Europeu e do Conselho, de 11 de maio de 2016, que se desloquem para efeitos de investigação científica ou que participem num seminário científico ou conferência;
+
+d) Representantes de organizações sem fins lucrativos, até aos 25 anos de idade, que participem em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos.
+
+6 - Estão isentos do pagamento dos custos administrativos relativos ao tratamento de pedido de visto:
+
+a) Vistos concedidos a cidadãos estrangeiros que beneficiem de bolsas de estudo atribuídas pelo Estado Português;
+
+b) Os nacionais de países terceiros que sejam familiares de cidadãos da União Europeia ou do espaço económico europeu que exerçam o seu direito à livre circulação, entendendo-se por familiares neste contexto:
+
+i) O cônjuge de um cidadão da União Europeia;
+
+ii) O parceiro com quem um cidadão da União Europeia vive em união de fato constituída nos termos da lei ou com quem o cidadão mantém uma relação permanente devidamente certificada pela autoridade competente do Estado membro onde reside;
+
+iii) O descendente direto com menos de 21 anos de idade ou que esteja a cargo de um cidadão da União Europeia, assim como o do cônjuge ou do parceiro na aceção da subalínea anterior;
+
+iv) O ascendente direto que esteja a cargo de um cidadão da União Europeia, assim como o seu cônjuge ou do parceiro na aceção da subalínea ii);
+
+c) Os nacionais portugueses que tenham também a nacionalidade do país de residência e que por imposições locais não possam viajar com o passaporte português;
+
+d) Os doentes beneficiários de acordos de cooperação com Portugal no domínio da saúde e respetivo acompanhante;
+
+e) Vistos concedidos a descendentes de titulares de autorização de residência, ao abrigo das disposições sobre reagrupamento familiar;
+
+f) Vistos de estada temporária e vistos de residência para atividades de investigação altamente qualificada.
+
+7 - Podem ficar isentos do pagamento dos custos administrativos relativos ao tratamento de pedidos de vistos:
+
+a) As crianças a partir dos 6 anos e com menos de 18 anos;
+
+b) Os titulares de passaportes diplomáticos, de serviço, oficiais e especiais ou documentos de viagem emitidos por organizações internacionais;
+
+c) Os participantes, até aos 25 anos de idade, em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos.
+
+> Nota: [Artigo 3.º, Portaria n.º 38/2020 - Diário da República n.º 25/2020, Série I de 2020-02-05](https://diariodarepublica.pt/dr/detalhe/portaria/38-2020-128865462) O disposto no artigo 62.º, na redação introduzida pela presente portaria, é aplicável aos pedidos de vistos requeridos a partir de 2 de fevereiro de 2020.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 38/2020 - Diário da República n.º 25/2020, Série I de 2020-02-05](https://diariodarepublica.pt/dr/detalhe/portaria/38-2020-128865462), em vigor a partir de 2022-02-06
+
+#### Secção IX — Atos diversos
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 63.º
+
+Pelo certificado expedido a favor de sociedades estrangeiras que desejam estabelecer ou criar sucursais em Portugal, que se encontrem constituídas segundo as leis do respetivo país - (euro) 190.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 64.º
+
+Pela intervenção do funcionário consular na venda de navio português - (euro) 120.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 65.º
+
+Pela presidência de funcionário consular a um leilão ou arrematação em hasta pública, exceto no caso a que se refere o artigo anterior - (euro) 60.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 66.º
+
+Pelo depósito de documentos, processos ou registos a requerimento particular, incluindo o respetivo termo - (euro) 70.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 67.º
+
+1 - Pela guarda e depósito de dinheiro, bens ou quaisquer valores ou títulos alheios a espólios, incluindo o ato de levantamento - (euro) 50.
+
+2 - Ao valor previsto no número anterior acresce (euro) 50 por cada mês de permanência.
+
+3 - Não é devido qualquer emolumento relativamente ao período de indisponibilidade dos valores depositados em virtude de restrições impostas pelas autoridades locais.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 68.º
+
+Por cada página ou fração de fotocópia simples não certificada - (euro) 3.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 69.º
+
+Pela receção e encaminhamento de pedidos de emissão, de renovação ou de averbamentos de documentos oficiais - (euro) 10.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 70.º
+
+1 - Pela utilização do serviço de telecópia nos serviços consulares para emissão de documentos são cobrados os seguintes emolumentos:
+
+a) Por qualquer documento que contenha até sete folhas, incluindo as do pedido e resposta e uma eventual folha de certificação ou encerramento:
+
+Nos serviços consulares portugueses na Europa - (euro) 20;
+
+Nos serviços consulares portugueses fora da Europa - (euro) 50;
+
+b) Por cada folha a mais, nos casos previstos na alínea anterior, acrescem, respetivamente, (euro) 3 e (euro) 8.
+
+2 - O pedido a que se refere a alínea a) do número anterior pode substituir o modelo legal de requisição de certidão a que haja lugar desde que dele constem os elementos nesta contidos.
+
+3 - Se o pedido não for satisfeito por culpa dos serviços, o utente é reembolsado das quantias entregues.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 71.º
+
+Pela intervenção na cobrança de créditos ou de quaisquer valores decorrente da intervenção em espólios:
+
+a) Até (euro) 500 - (euro) 20;
+
+b) Entre (euro) 500 e (euro) 5000 - (euro) 50;
+
+c) Entre (euro) 5000 e (euro) 25000 - (euro) 250;
+
+d) De (euro) 25000 a (euro) 50000 - (euro) 500;
+
+e) Superior a (euro) 50000 - (euro) 750.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 72.º
+
+1 - Diligência não judicial de busca nos livros, papéis ou processos de posto consular:
+
+a) Por cada ano indicado pela parte - (euro) 20;
+
+b) Indicando a parte o dia, o mês e o ano - (euro) 10.
+
+2 - Os emolumentos referidos no número anterior não podem exceder (euro) 150.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 73.º
+
+Pela licença para transporte de cadáver - (euro) 30.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 74.º
+
+Certificado de residência - (euro) 30.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 75.º
+
+Certificado pela importação de automóvel - (euro) 100.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 76.º
+
+Por qualquer ato não especificado na tabela - (euro) 30.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 77.º
+
+Não estão sujeitas a quaisquer emolumentos importâncias dos atos referentes às importâncias cobradas pelos consulados destinadas às famílias de portugueses vítimas de acidentes de trabalho.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+### Capítulo II — Disposições finais
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 78.º
+
+Nenhum ato para a realização do qual se torne necessário comprovar a identidade do requerente será praticado a favor de cidadão português sem que este se encontre inscrito.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 79.º
+
+A dedução das percentagens fixadas na secção viii do capítulo i não prejudica o pagamento de emolumentos devidos pelos atos previstos nas outras secções e das necessárias despesas de conservação, bem como da cobrança de quaisquer rendimentos ou créditos.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 80.º
+
+As remunerações de peritos são arbitradas segundo as leis e usos locais.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 81.º
+
+1 - Pelos atos praticados fora da chancelaria, ou nesta mas fora das horas regulamentares, ou em dia em que aquela esteja encerrada, a solicitação dos interessados, serão cobrados emolumentos correspondentes ao dobro dos fixados na tabela para o respetivo ano.
+
+2 - Excetua-se do número anterior o tratamento de pedidos de visto.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 82.º
+
+São pagos antecipadamente os emolumentos dos atos solicitados pelo correio.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 83.º
+
+1 - Para além dos emolumentos previstos na tabela, são cobrados:
+
+a) O imposto do selo;
+
+b) O valor dos impressos fornecidos pelos serviços competentes do Ministério dos Negócios Estrangeiros;
+
+c) O valor dos impressos, taxas e emolumentos devidos a outras entidades;
+
+d) As despesas de correio, telefone, telecópia, comunicação de dados e telex.
+
+e) O valor dos encargos decorrentes da realização de presenças consulares, que correspondem a 15 % de cada ato praticado.
+
+2 - Excetuam-se do previsto no número anterior o tratamento de pedidos de visto.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 84.º
+
+São cobrados os custos de transferência eletrónica de fundos relativos a pedidos de atos efetuados por transmissão eletrónica de dados.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 85.º
+
+1 - Ao interessado será passado recibo das importâncias pagas, de modelo aprovado nos termos do Decreto Regulamentar n.º 5/94, de 24 de fevereiro.
+
+2 - Quando for praticado um número plural de atos entre si relacionados, o recibo referido no número anterior é emitido pelo montante total dos emolumentos cobrados.
+
+3 - O recibo passado nos termos do número anterior é acompanhado de uma nota discriminativa de todos os atos praticados e respetivos emolumentos.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 86.º
+
+1 - Para além dos atos previstos no capítulo i, são igualmente gratuitos:
+
+a) Os atos como tal qualificados por norma interna ou internacional;
+
+b) Os atos requeridos por indigentes ou indivíduos que se encontrem privados dos meios necessários à sua subsistência, desde que o comprovem nos termos do disposto n.º 2 do artigo 18.º da presente tabela;
+
+c) Os atos requeridos por deficientes das Forças Armadas Portuguesas;
+
+d) Os atos relativos à expedição de navios da Armada Portuguesa, se beneficiarem de gratuitidade em território nacional;
+
+e) As certidões, atestados, legalizações e informações solicitados para fins de interesse público por entidades oficiais que beneficiem de isenção de emolumentos legalmente prevista;
+
+f) Os atos solicitados a favor de funcionários em missão oficial, bem como a favor dos professores de Português no estrangeiro, na área consular em que exerçam funções;
+
+g) Os atos solicitados a favor de funcionários diplomáticos ou consulares portugueses ou membros do pessoal assalariado local das missões diplomáticas e postos consulares na localidade do posto onde se encontrem a exercer funções;
+
+h) Os vistos em passaportes de serviço, diplomáticos ou comuns de funcionários diplomáticos, cônsules ou vice-cônsules, de suas famílias e pessoal do seu serviço doméstico;
+
+i) A passagem de certidões ou fotocópias requeridas para fins de serviço militar;
+
+j) Os assentos, certidões ou quaisquer outros atos ou documentos que tenham de ser renovados, substituídos ou retificados em consequência de os anteriores se mostrarem afetados de vício, irregularidade ou deficiência imputáveis aos serviços;
+
+k) A inscrição no recenseamento eleitoral.
+
+2 - As isenções previstas no número anterior e no capítulo I da tabela devem ser declaradas no título de receita, com expressa menção do artigo ou disposição que as preveem.
+
+3 - Por autorização do Ministro com a tutela dos Negócios Estrangeiros pode ser concedida a isenção ou a redução dos emolumentos previstos na tabela.
+
+4 - Excetuando a alínea a), as isenções previstas nos n.os 1 e 3 só se aplicam ao ato consular ou parte dele cujo emolumento reverte a favor do FRI.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+###### Artigo 87.º
+
+1 - O pagamento dos emolumentos consulares é feito em moeda local quando convertível em euros ou noutra moeda convertível.
+
+2 - A conversão em euros para a moeda onde forem cobrados os emolumentos consulares, exceto quando se trate do pagamento de pedidos de visto Schengen, será calculada segundo a taxa de câmbio consular, que não poderá desviar-se mais de 6 % em relação ao câmbio de compra, do último dia útil do mês anterior, das divisas cotadas pelo Banco de Portugal.
+
+3 - A taxa de câmbio consular será obrigatoriamente revista sempre que for superior a 6 % do desvio entre o seu valor e a cotação de compra da respetiva divisa pelo Banco de Portugal, no último dia útil de cada mês.
+
+4 - A taxa revista em consequência do desvio referido no número anterior aplicar-se-á a partir do último dia do mês seguinte àquele em que se verificou o desvio em causa.
+
+5 - Quando uma divisa não for cotada pelo Banco de Portugal, a taxa de câmbio consular será calculada por meio de câmbio cruzado em função do euro ou do dólar norte-americano e com base nas cotações praticadas no último dia útil do mês anterior.
+
+6 - A taxa de câmbio consular da divisa referida no número anterior será revista em termos análogos ao previsto no n.º 3.
+
+7 - As quantias em moeda estrangeira resultantes da conversão ao abrigo dos números anteriores serão arredondadas, por excesso, para a unidade divisionária imediatamente superior.
+
+8 - Quando se trate da cobrança de emolumentos relativos a pedidos de visto Schengen aplica-se a taxa de câmbio de referência para o euro fixada pelo Banco Central Europeu, nos termos previstos no n.º 7 do artigo 16.º do Regulamento (CE) n.º 810/2009, do Parlamento Europeu e do Conselho, de 13 de julho.
+
+9 - As quantias em moeda estrangeira resultantes da aplicação do número anterior podem ser arredondadas por excesso e, no âmbito da Cooperação Schengen Local, os consulados devem assegurar que cobram emolumentos similares.
+
+O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas, em 28 de dezembro de 2011.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 229/2021 - Diário da República n.º 210/2021, Série I de 2021-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/229-2021-173509616), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/portaria/296-2012-175541), em vigor a partir de 2012-10-01

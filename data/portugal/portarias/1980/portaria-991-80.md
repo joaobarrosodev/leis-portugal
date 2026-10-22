@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:458219:por
+title: Portaria n.º 991/80
+short_title: null
+summary: Autoriza a TAP - Transportes Aéreos Portugueses, E. P., a emitir um empréstimo por obrigações para saneamento financeiro
+  até ao montante de 1350000 contos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 991/80
+official_date: null
+publication_date: '1980-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 266/1980, Série I de 1980-11-17
+  number: '266'
+  series: I
+  supplement: null
+  pages: 3890 - 3891
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/11/26600/38903891.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '458219'
+  dre_path: /dr/detalhe/portaria/991-1980-458219
+  internal: pt:dre:458219:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/991-1980-458219
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/991-1980-458219
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-11-17T00:00:00Z'
+integrity:
+  source_sha256: c82ef058197f073ed567a672e398b432b4a21d1488dccaceac296fc2761ad204
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-991-458219.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 991/80
+
+de 17 de Novembro
+
+Nos termos do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, tendo em vista o saneamento económico e financeiro da TAP - Transportes Aéreos Portugueses, E. P., que foi objecto de acordo celebrado com o Estado, e considerando ainda o protocolo financeiro estabelecido entre esta empresa pública e as instituições de crédito nacionais suas credoras:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Transportes e Comunicações, ao abrigo do n.º 1 do artigo 2.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, o seguinte:
+
+1.º É autorizada a TAP - Transportes Aéreos Portugueses, E. P., a emitir um empréstimo por obrigações para saneamento financeiro até ao montante de 1350000 contos, conforme previsto no n.º 1 do aludido protocolo financeiro.
+
+2.º A emissão correspondente aos créditos das instituições de crédito nacionais subscritoras do aludido empréstimo será feita logo após a entrada em vigor desta portaria.
+
+3.º O empréstimo será amortizado em sete anuidades iguais, vencendo-se a primeira em 15 de Dezembro de 1984 e a última em 15 de Dezembro de 1990. O montante de cada anuidade de amortização será dividido pelas instituições subscritoras, na proporção dos montantes totais subscritos por cada uma.
+
+4.º Nos termos do n.º 1 do artigo 2.º da [Portaria n.º 416/78](https://diariodarepublica.pt/dr/detalhe/portaria/416-1978-297014), de 27 de Julho, as obrigações cuja emissão é agora autorizada proporcionarão juros, contados diariamente a uma taxa igual, em cada momento, à taxa básica de desconto do Banco de Portugal, pagos anualmente em 15 de Dezembro de cada ano.
+
+5.º Os primeiros juros serão pagos em 15 de Dezembro de 1980 e corresponderão ao período que decorre desde a data da emissão das obrigações até 14 de Dezembro de 1980.
+
+6.º Nos termos dos n.os 1 e 3 do n.º 1.º da [Portaria n.º 416/78](https://diariodarepublica.pt/dr/detalhe/portaria/416-1978-297014), à TAP - Transportes Aéreos Portugueses, E. P., será concedida e paga, em 15 de Dezembro de cada um dos anos de vida do empréstimo obrigacionista, uma bonificação de taxa de juro, que é fixada em 5%.
+
+Em relação aos anos futuros, se as condições gerais de exploração da empresa aconselharem a rever o quantitativo fixado no n.º 1 da citada portaria, o Ministro das Finanças e do Plano fixará, por despacho, o quantitativo da bonificação a conceder.
+
+7.º Nos termos do n.º 3.º da [Portaria n.º 416/78](https://diariodarepublica.pt/dr/detalhe/portaria/416-1978-297014), de 27 de Julho, pelas instituições de crédito subscritoras do empréstimo obrigacionista a que se refere a presente portaria é devida uma comissão de garantia fixada em 10% do valor dos créditos regularizados pelo referido empréstimo obrigacionista, a reverter para crédito da conta especial para o efeito criada na Direcção-Geral do Tesouro.
+
+8.º Nos termos da [Portaria n.º 26-Z/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-z-1980-508778), de 9 de Janeiro, a importância devida pelas instituições de crédito a título de comissão de garantia será paga diferidamente em três prestações de 25%, 50% e 25%, que se vencerão, respectivamente, nos dias 30 de Novembro de 1981, 1982 e 1983.
+
+9.º Nos termos do artigo 11.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), o pagamento do serviço da dívida do empréstimo obrigacionista será considerado pela TAP - Transportes Aéreos Portugueses, E. P., no âmbito do acordo de saneamento económico-financeiro celebrado em 16 de Setembro findo com o Estado.
+
+10.º Em anexo se publica um resumo do protocolo financeiro celebrado em 16 de Setembro findo entre a TAP - Transportes Aéreos Portugueses, E. P., e as instituições de crédito nacionais suas credoras, que constitui parte integrante da presente portaria.
+
+11.º Eventuais dúvidas e lacunas serão interpretadas ou integradas, respectivamente, por despacho do Ministro das Finanças e do Plano.
+
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 10 de Outubro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
+
+Resumo do protocolo financeiro celebrado em 16 de Setembro de 1980 entre o Estado e a TAP - Transportes Aéreos Portugueses, E. P.
+
+1.º No âmbito do protocolo financeiro celebrado em 16 de Setembro de 1980 com as instituições de crédito nacionais suas credoras, a TAP - Transportes Aéreos Portugueses, E. P., foi autorizada a liquidar, através da subscrição de um empréstimo obrigacionista até ao montante de 1350000 contos, a emitir nos termos do disposto no artigo 4.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, os financiamentos detidos pelos bancos em 31 de Dezembro de 1979.
+
+2.º O prazo de vida das obrigações será de dez anos, iniciando-se a sua amortização a partir do quarto ano após a respectiva emissão.
+
+3.º A participação de cada um dos bancos na tomada do referido empréstimo é a seguinte e foi determinada pelo montante dos créditos detidos por cada um deles na data atrás referida:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26600/38903891.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26600/38903891.pdf)
+
+4.º Nos termos do n.º 2 do artigo 9.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), a empresa compromete-se a inscrever nos seus orçamentos anuais, a elaborar nos termos e para os efeitos previstos no artigo 24.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e demais legislação aplicável, as verbas necessárias ao serviço da dívida do empréstimo obrigacionista.
+
+5.º Semestralmente, a empresa compromete-se a submeter à apreciação dos bancos, através do BPA, mapas demonstrativos da sua situação económica e financeira.

@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:381372:por
+title: Resolução n.º 237/79
+short_title: null
+summary: Cria uma linha de crédito bonificado a conceder a cooperativas de comerciantes a retalho e agrupamentos complementares
+  de empresas retalhistas
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 237/79
+official_date: null
+publication_date: '1979-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1979, Série I de 1979-08-03
+  number: '178'
+  series: I
+  supplement: null
+  pages: 1793 - 1794
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17800/17931794.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '381372'
+  dre_path: /dr/detalhe/resolucao/237-1979-381372
+  internal: pt:dre:381372:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/237-1979-381372
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/237-1979-381372
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-08-03T00:00:00Z'
+integrity:
+  source_sha256: f63ba9e14be1b6428ca9283a5c615c31587de119a5cd2db40661fd4d0a1a9d7b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-237-381372.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 237/79
+
+Considerando a conveniência de proporcionar ao comércio a retalho condições mais favoráveis à constituição de estruturas que lhe permita assegurar melhor as exigências do abastecimento público, designadamente no tocante a aspectos de salubridade;
+
+Considerando que para isso é necessária a concessão de crédito bonificado:
+
+O Conselho de Ministros, reunido em 18 de Julho de 1979, resolveu:
+
+1.º Criar uma linha de crédito bonificado a conceder a cooperativas de comerciantes a retalho e agrupamentos complementares de empresas retalhistas, tendo em vista facultar-lhes recursos para financiamento de construção de armazéns ou outras instalações para conservação ou venda dos produtos indispensáveis ao abastecimento público.
+
+2.º O crédito a conceder ao abrigo desta linha, à taxa de juro de 12% ao ano, não poderá, em termos globais, exceder 300000 contos.
+
+3.º A taxa de juro referida no n.º 2 será ajustada de harmonia com a taxa de redesconto praticada pelo Banco de Portugal sempre que esta se altere.
+
+4.º O refinanciamento e bonificação relativos a esta linha de crédito serão feitos pelo Banco de Portugal, de harmonia com as directrizes que vierem a ser por ele definidas.
+
+5.º Os custos com a bonificação de juros serão pagos pelo Estado ao Banco de Portugal, para o que se deve fixar anualmente a correspondente dotação no Orçamento Geral do Estado.
+
+Presidência do Conselho de Ministros, 18 de Julho de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

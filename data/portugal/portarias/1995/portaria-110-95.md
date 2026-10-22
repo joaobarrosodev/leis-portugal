@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: pt:dre:138542:por
+title: Portaria n.º 110/95
+short_title: null
+summary: Altera o Regulamento da Classificação de Serviço dos Funcionários da Direcção-Geral das Alfândegas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 110/95
+official_date: null
+publication_date: '1995-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/1995, Série I-B de 1995-02-03
+  number: '29'
+  series: I
+  supplement: null
+  pages: 668 - 670
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/02/029b00/06680670.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/110/1995/02/03/p/dre/pt/html
+  oj: null
+  dre: '138542'
+  dre_path: /dr/detalhe/portaria/110-1995-138542
+  internal: pt:dre:138542:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1995-138542
+  metadata_url: https://data.dre.pt/eli/port/110/1995/02/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1995-138542
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-06-09T00:00:00Z'
+integrity:
+  source_sha256: a8739ece6b274b513af9eed769b43c728beabaa309ebe6123865b758603edbfa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-110-138542.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Alfândegas
+- Regulamento
+- Avaliação do Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:406093:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 110/95
+
+de 3 de Fevereiro
+
+Pelo [Decreto-Lei n.º 324/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), de 25 de Setembro, foi alterada a estrutura orgânica da Direcção-Geral das Alfândegas, com particular relevância para os serviços periféricos, cuja unidade orgânica de referência passou a ser a alfândega.
+
+Esta nova estrutura orgânica não podia deixar de se reflectir no processo de classificação de serviço, nomeadamente quanto à determinação dos dirigentes com competência para notar e avaliar.
+
+Impõe-se, pois, adaptar o Regulamento da Classificação de Serviço dos Funcionários da Direcção-Geral das Alfândegas, aprovado pela [Portaria n.º 31/88](https://diariodarepublica.pt/dr/detalhe/portaria/31-1988-283368), de 15 de Janeiro, à nova realidade estrutural da Direcção-Geral.
+
+Nestes termos, e ao abrigo do disposto no artigo 41.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho:
+
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+
+1.º É suprimido o n.º 2 do artigo 1.º do Regulamento da Classificação de Serviço dos Funcionários da Direcção-Geral das Alfândegas, aprovado pela [Portaria n.º 31/88](https://diariodarepublica.pt/dr/detalhe/portaria/31-1988-283368), de 15 de Janeiro, passando o n.º 3 do mesmo artigo a constituir o n.º 2.
+
+2.º Os artigos 2.º, 3.º, 4.º, 7.º, 8.º, 9.º e 11.º do Regulamento referido no número anterior passam a ter a seguinte redacção:
+
+###### Artigo 2.º — Competência para avaliar e notar
+
+1 - A competência para avaliar e notar nos serviços centrais, pertence:
+
+a) Ao director-geral, para o pessoal colocado no seu gabinete de apoio;
+
+b) Ao vogal aduaneiro permanente mais antigo, para o pessoal de apoio ao Conselho Técnico Aduaneiro;
+
+c) Ao director de serviços, para o pessoal colocado em direcções de serviços sem divisões ou em serviço equiparado a direcção de serviços;
+
+d) Ao chefe de divisão ou chefe de repartição e ao director de serviços, para o pessoal colocado nas direcções de serviços;
+
+e) Ao chefe de divisão para o pessoal colocado em serviços equiparados a divisão e não integrados em direcções de serviços.
+
+2 - A competência para avaliar e notar nas Direcções das Alfândegas de Lisboa e do Porto (DAL e DAP) e nas alfândegas nestas integradas pertence:
+
+a) Ao director da DAL e da DAP, para o pessoal não integrado em divisões que se encontra na sua dependência directa;
+
+b) Ao chefe de divisão e ao director da DAL e da DAP para o pessoal colocado nas divisões das respectivas Direcções;
+
+c) Ao director de alfândega e ao director da DAL e da DAP, para o pessoal colocado nas respectivas alfândegas integradas;
+
+d) Ao chefe de delegação e ao director de alfândega, para o pessoal colocado nas delegações aduaneiras;
+
+e) Ao chefe de delegação e ou ao director de alfândega, para o pessoal colocado nos postos aduaneiros, consoante estes estiverem na dependência da delegação aduaneira ou da alfândega.
+
+3 - A competência para avaliar e notar nas Alfândegas do Funchal e de Ponta Delgada e ainda nas alfândegas continentais não integradas nas Direcções das Alfândegas de Lisboa e do Porto pertence:
+
+a) Ao director de alfândega, para o pessoal colocado na respectiva alfândega;
+
+b) Ao chefe de delegação e ao director de alfândega, para o pessoal colocado nas delegações aduaneiras;
+
+c) Ao chefe de delegação e ou ao director de alfândega, para o pessoal colocado nos postos aduaneiros, consoante estes estiverem na dependência da delegação aduaneira ou da alfândega.
+
+4 - A competência para avaliar os chefes de delegação pertence:
+
+a) Ao director de alfândega e ao director da DAL e da DAP, relativamente aos chefes de delegação colocados nas respectivas delegações aduaneiras dependentes de alfândegas integradas;
+
+b) Ao director de alfândega, nos demais casos.
+
+5 - A competência para avaliar e notar o pessoal colocado no Tribunal Fiscal Aduaneiro pertence ao respectivo juiz.
+
+6 - O pessoal deslocado temporariamente será notado e avaliado, conforme os casos, pelos notadores a que se referem os n.os 2 e 3 do presente artigo, com os quais tenham mantido seis meses de contacto funcional.
+
+###### Artigo 3.º — Tempo mínimo de contacto funcional com os notados
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - No período que decorre entre os dias 25 de Novembro e 10 de Dezembro, a Divisão de Gestão de Recursos Humanos, para o pessoal dos serviços centrais, os serviços da DAL e da DAP, para o pessoal das respectivas direcções, alfândegas integradas, delegações aduaneiras e postos aduaneiros na sua dependência, e os serviços das alfândegas não integradas e ainda as Alfândegas do Funchal e de Ponta Delgada, para o respectivo pessoal, bem como o pessoal dos serviços na sua dependência, deverão identificar os notadores e afixar as respectivas listas em local de fácil consulta pelos notados.
+
+###### Artigo 4.º — Reunião para acerto de critérios
+
+1 - No período que decorre entre os dias 10 e 31 de Dezembro, cumprido o disposto no n.º 4 do artigo anterior, efectuar-se-á uma reunião entre o director-geral, os directores de serviço, os directores das Direcções das Alfândegas de Lisboa e do Porto, os directores das alfândegas não integradas, os directores das Alfândegas do Funchal e de Ponta Delgada e chefes de divisão de serviços equiparados a divisões não integradas nas direcções de serviços, para acerto de critérios a observar na avaliação e notação dos funcionários.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 7.º — Conhecimento ao interessado
+
+1 - ...
+
+2 - ...
+
+3 - No caso de não ser possível concretizar a entrevista em virtude de os notadores ou os notados terem sido colocados ou deslocados em serviços geograficamente distantes, a ficha de notação será dada a conhecer ao interessado através de carta registada com aviso de recepção.
+
+###### Artigo 8.º — Reclamação
+
+1- A ficha de notação, após a tomada de conhecimento da classificação atribuída, deverá ser remetida, no dia imediato, por um dos notadores ou pelo notado, na situação prevista no n.º 3 do artigo anterior, para os serviços referidos no n.º 4 do artigo 3.º, consoante a colocação do pessoal.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+###### Artigo 9.º — Despacho de homologação
+
+1 - Decorridos os prazos de reclamação para os notadores os serviços da DAL e da DAP, das alfândegas não integradas e das Alfândegas do Funchal e de Ponta Delgada referidos no n.º 4 do artigo 3.º, conforme os casos, farão chegar, até 15 de Março, as fichas de notação à Divisão de Gestão de Recursos Humanos, que as submeterá a despacho de homologação, devendo as que tenham sido reclamadas ser acompanhadas da reclamação apresentada pelo notado e da resposta dada pelos notadores.
+
+2 - ...
+
+###### Artigo 11.º — Conhecimento após a homologação e prazo para a interposição do recurso hierárquico
+
+1 - ...
+
+2 - A publicação do aviso referido no número anterior será dada a conhecer, por telecópia ou via telegráfica, no mesmo dia ou no primeiro dia útil seguinte, pela Divisão de Gestão de Recursos Humanos, às Alfândegas do Funchal e de Ponta Delgada e às alfândegas continentais não integradas, que as darão a conhecer às respectivas delegações aduaneiras e postos aduaneiros e pela DAL e DAP aos serviços na sua dependência.
+
+3 - Quando se verifique, no acto de homologação, alteração da classificação de serviço atribuída pelos notadores, será, no primeiro dia útil após a data da publicação do aviso no Diário da República, dado conhecimento desse facto aos interessados, pela Divisão de Gestão de Recursos Humanos, através de carta registada com aviso de recepção.
+
+4 - ...
+
+5 - ...
+
+3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério das Finanças.
+
+**Assinada em 15 de Dezembro de 1994.**
+
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias.

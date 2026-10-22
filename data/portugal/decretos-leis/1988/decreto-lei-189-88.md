@@ -1,0 +1,1009 @@
+---
+schema_version: '1.0'
+id: pt:dre:374244:por
+title: Decreto-Lei n.º 189/88
+short_title: null
+summary: Estabelece normas relativas à actividade de produção de energia eléctrica por pessoas singulares ou por pessoas colectivas
+  de direito público ou privado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 189/88
+official_date: null
+publication_date: '1988-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/1988, Série I de 1988-05-27
+  number: '123'
+  series: I
+  supplement: null
+  pages: 2289 - 2296
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12300/22892296.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-06-01'
+version_history:
+  file: decreto-lei-189-88.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1988-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-11-29'
+    amending: pt:dre:692422:por
+    amending_title: Decreto-Lei n.º 313/95
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 27.º
+  - date: '1997-03-19'
+    amending: pt:dre:517247:por
+    amending_title: Decreto-Lei n.º 56/97
+    changes:
+    - Altera Artigo 22.º
+  - date: '1999-05-23'
+    amending: pt:dre:323075:por
+    amending_title: Decreto-Lei n.º 168/99
+    changes:
+    - Adita Anexo I
+    - Adita Anexo II
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 22.º
+    - Altera Artigo 27.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 26.º
+  - date: '2002-01-03'
+    amending: pt:dre:201849:por
+    amending_title: Decreto-Lei n.º 339-C/2001
+    changes:
+    - Altera Anexo II
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+  - date: '2005-02-17'
+    amending: pt:dre:517381:por
+    amending_title: Decreto-Lei n.º 33-A/2005
+    changes:
+    - Altera Anexo II
+  - date: '2007-06-01'
+    amending: pt:dre:638769:por
+    amending_title: Decreto-Lei n.º 225/2007
+    changes:
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/189/1988/p/cons/20070531/pt/html
+  oj: null
+  dre: '374244'
+  dre_path: /dr/detalhe/decreto-lei/189-1988-374244
+  internal: pt:dre:374244:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1988-374244
+  metadata_url: https://data.dre.pt/eli/dec-lei/189/1988/p/cons/20070531/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-211712488
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-211712488
+  retrieved_at: '2026-10-22T12:56:14Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2d0694869b22e77ffdbf21cf0be934d6cf619b89963572732edce7d4e9313acf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:56:14Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-189-88.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Produção de Energia Elétrica
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:692422:por
+  label: Altera Artigo 1.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º;
+    Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422
+  date: '1995-11-24'
+- type: amended_by
+  target: pt:dre:517247:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247
+  date: '1997-03-14'
+- type: amended_by
+  target: pt:dre:323075:por
+  label: Adita Anexo I; Adita Anexo II; Adita Artigo 1.º; Adita Artigo 2.º; Adita Artigo 3.º; Adita Artigo 4.º; Adita Artigo
+    5.º; Adita Artigo 6.º; Adita Artigo 7.º; Adita Artigo 8.º; Altera Artigo 1.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera
+    Artigo 22.º; Altera Artigo 27.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 19.º; Revoga Artigo 23.º; Revoga
+    Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075
+  date: '1999-05-18'
+- type: amended_by
+  target: pt:dre:201849:por
+  label: Altera Anexo II; Altera Artigo 1.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-c-2001-201849
+  date: '2001-12-29'
+- type: amended_by
+  target: pt:dre:517381:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2005-517381
+  date: '2005-02-16'
+- type: amended_by
+  target: pt:dre:638769:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769
+  date: '2007-05-31'
+article_structure:
+  article_count: 35
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:56:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 189/88
+
+Decreto-Lei n.º 189/88
+
+de 27 de Maio
+
+1. A figura de pequeno produtor de energia eléctrica está desde há muito consagrada no ordenamento jurídico português.
+
+Com efeito, a Lei n.º 2002, de 26 de Dezembro de 1944, que promulgou a electrificação do País, a ela se refere na sua base XXX e a legislação subsequente sobre a matéria sempre a tem ressalvado, reconhecendo tratar-se de uma realidade a ter em conta pela ordem jurídica.
+
+O próprio diploma que criou a Empresa Pública Electricidade de Portugal (EDP), Decreto-Lei n.º 502/76, de 30 de Junho, posteriormente alterado pelo Decreto-Lei n.º 427/82, de 21 de Outubro, previu aquela figura no seu artigo 2.º, n.º 4.
+
+Contudo, o âmbito da figura do pequeno produtor de energia eléctrica tem sofrido alterações, motivadas sobretudo pelos denominados «choques petrolíferos», que tiveram o mérito de evidenciar o carácter finito não só da fonte de energia mais vulgarmente utilizada, como também das demais, e, ainda, a necessidade de as diversificar e de a todas aproveitar.
+
+2. Assim, e no seguimento da legislação anteriormente referida, o Decreto-Lei n.º 20/81, de 28 de Janeiro, veio estabelecer medidas tendentes a incentivar a autoprodução de energia eléctrica, restringindo, porém, a qualidade de autoprodutor às pessoas sigulares e colectivas que acessoriamente a produzissem.
+
+Posteriormente, a Assembleia da Repúblia, no uso da competência conferida pela alínea d) do artigo 164.º da Constituição, veio regular, pela Lei n.º 21/82, de 28 de Julho, a qualidade de produtor independente de energia eléctrica e a possibilidade de as pessoas nela mencinoadas - e são todas: privadas, públicas e cooperativas - poderem proceder à respectiva distribuição, desde que respeitem determinadas condições.
+
+Em sintonia, o Governo veio, oportunamente, alargar o conceito de autoprodutor através do Decreto-Lei n.º 149/86, de 18 de Junho, alterando a redacção de algumas disposições do aludido Decreto-Lei n.º 20/81, de modo a reconhecer também aquela qualidade às entidades que explorassem instalações exclusivamente produtoras de energia eléctrica.
+
+Pelo presente decreto-lei, o Governo altera, criando regime especial, o artigo 4.º, alínea a), da Lei n.º 46/77, de 8 de Julho, circunscrita esta alteração aos propósitos específicos deste diploma.
+
+3. Mais recentemente, a aprovação do programa comunitário VALOREN, criado pelo Regulamento (CEE) n.º <a href="eurlex.asp?ano=1986&id=386R3301" title="Link para Regulamento da Comunidade Europeia">3301/86</a>, de 27 de Outubro, veio pôr de novo em foco esta questão.
+
+Efectivamente, o aproveitamento daquele programa em Portugal só será possível pelo acesso de pequenos produtores à actividade de produção de energia eléctrica, através de um processo mais expedito que o até agora existente, bem como da criação de condições que permitam a viabilização económica de pequenas unidades produtoras comprovadamente eficientes.
+
+No caso contrário, Portugal não teria acesso a parte significativa do financiamento que será canalizado por aquele programa comunitário.
+
+4. Acresce ainda que o aproveitamento optimizado dos recursos energéticos nacionais é um vector necessário ao desenvolvimento e ao progresso económico. Os vários choques petrolíferos, com o resultante agravamento das condições de dependência do nosso país, devem também ser lembrados exactamente no momento em que a conjuntura energética internacional não se apresenta tão nublada e em que se coloca aos Portugueses o grande desafio de mostrar que sabem investir, valorizando recursos existentes mas ainda não aproveitados.
+
+Torna-se, assim, necessário criar condições para que aos esforços do Estado e do sector público empresarial se associem, de forma convergente, iniciativas das autarquias locais e de entidades privadas e cooperativas.
+
+5. Por estarem envolvidas matérias da reserva relativa de competência legislativa da Assembleia da República, o Governo solicitou a respectiva autorização legislativa. Efectivamente, estabelecem-se agora regimes especiais para a expropriação por utilidade pública e para a utilização de bens do domínio público, devidamente adequados aos objectivos que se pretendem atingir.
+
+O presente diploma revoga a Lei n.º 21/82, de 28 de Julho, e o Decreto-Lei n.º 20/81, de 20 de Janeiro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 149/86, de 18 de Junho. Pretende-se, por esta via, não só alterar algumas das normas até aqui em vigor, mas também reunir num só diploma todo o quadro legal referente à actividade em causa, garantindo a sua coerência interna e tornando-o mais transparente para os agentes económicos envolvidos. No entanto, não é intenção do Governo prejudicar experiências válidas dos pequenos produtores de energia eléctrica, pelo que se salvaguardaram as situações eventualmente criadas ao abrigo daquela legislação.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 34/88, de 2 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma regula a actividade de produção de energia eléctrica que se integre, nos termos do Decreto-Lei n.º 182/95, de 27 de Julho, no Sistema Eléctrico Independente, mediante utilização de recursos renováveis ou resíduos industriais, agrícolas ou urbanos.
+
+2 - Quando se trate de aproveitamentos hidroeléctricos, as disposições do presente diploma só se aplicam desde que a potência instalada seja, no seu conjunto, limitada a 10 MW.
+
+3 - A actividade de produção de energia eléctrica regulada pelo presente diploma pode ser exercida por pessoas singulares ou colectivas, públicas ou privadas, independentemente da forma jurídica que assumam.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 2.º — Imparcialidade
+
+Sempre que haja mais de um interessado na concretização de um projecto de aproveitamento de energia no âmbito deste diploma e, em especial, quando tal projecto envolva a utilização de bens dos domínios público ou privado da administração central ou das autarquias locais, cabe às autoridades públicas assegurar a igualdade de oportunidades entre os interessados.
+
+### Capítulo II — Meios
+
+###### Artigo 3.º — Normas gerais
+
+1 - Para além dos bens ou direitos próprios, podem as entidades que sejam produtoras de energia ao abrigo do presente diploma ou de legislação anterior utilizar bens dos domínios público ou privado da administração central ou dos municípios, nos termos previstos nos artigos seguintes, e requerer a expropriação por utilidade pública nos termos do Código das Expropriações, com a especialidade prevista no artigo seguinte.
+
+2 - Para a prossecução dos fins previstos no presente diploma, podem os municípios participar no capital de sociedades, com ou sem maioria sua ou de outras entidades públicas, por deliberação da assembleia municipal, sob proposta da câmara municipal.
+
+###### Artigo 4.º — Expropriações por utilidade pública
+
+1 - As entidades que, ao abrigo do presente diploma ou de legislação anterior, sejam produtoras de energia eléctrica podem requerer a expropriação por utilidade pública de bens imóveis ou direitos a eles relativos.
+
+2 - Com a expropriação, o bem ou direito passa para o património da administração central ou da autarquia local, mas fica afecto à actividade de produção de energia eléctrica pela entidade que requereu a expropriação pelo prazo de 35 anos, a troco de um pagamento periódico actualizável, fixado no momento da cedência pela entidade pública que tenha suportado a justa indemnização e a seu favor.
+
+3 - A competência para a fixação do pagamento periódico e do seu montante, para cada caso, é exercida por despacho conjunto dos Ministros do Planeamento e da Administração do Território e da Indústria e Energia.
+
+4 - O encargo com a justa indemnização poderá ainda ser suportado pela entidade que tenha requerido a expropriação, sendo tal facto tido em consideração na fixação do pagamento periódico previsto no número anterior.
+
+###### Artigo 5.º — Cedência de bens do domínio privado
+
+1 - A administração central ou as autarquias locais podem ceder, a título contratual, bens do seu domínio privado às entidades produtoras de energia eléctrica.
+
+2 - A faculdade prevista no n.º 1 deste artigo não prejudica a venda de bens às mesmas entidades nos termos gerais.
+
+###### Artigo 6.º — Utilização de bens do domínio público
+
+1 - A administração central ou as autarquias locais podem consentir na utilização de bens do domínio público para a produção de energia eléctrica, sem necessidade de recorrer à concessão, titulando esse consentimento através de licença.
+
+2 - Pela utilização desses bens é devida uma renda, fixada no momento da outorga da licença de utilização.
+
+3 - A licença de utilização deve conter o prazo admitido para a utilização dos bens, cujo encurtamento pela entidade pública confere direito a indemnização.
+
+###### Artigo 7.º — Autorização da instalação
+
+1 - As instalações de produção de energia eléctrica carecem de autorização.
+
+2 - A autorização prevista no número anterior é concedida nos termos do Regulamento que consta do anexo I ao presente diploma e que dele faz parte integrante.
+
+a) Ao Ministro da Indústria e Energia, no caso de instalações com potência aparente instalada superior a 1 MVA;
+
+b) Ao director-geral de Energia, no caso de instalações com potência até ao valor referido na alínea anterior.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Nota: [Artigo 91.º, Decreto-Lei n.º 46/94 - Diário da República n.º 44/1994, Série I-A de 1994-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806) determina a não aplicação do presente artigo, na matéria respeitante ao presente decreto-lei.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 8.º — Servidões administrativas
+
+À constituição de servidões administrativas a favor dos municípios aplica-se, com as necessárias adaptações, o regime do artigo 4.º, bem como a demais legislação aplicável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+### Capítulo III — Requisitos técnicos e de segurança
+
+#### Secção I — Condições técnicas gerais
+
+###### Artigo 9.º — Disposições a observar
+
+1 - Os requisitos técnicos e de segurança estabelecidos no presente diploma visam:
+
+a) Estabelecer os condicionamentos técnicos básicos que a construção e exploração das instalações licenciadas ao abrigo do presente decreto-lei devem respeitar;
+
+b) Garantir a observância dos critérios de segurança aprovados pela DGE e pela Entidade Reguladora do Sector Eléctrico para o planeamento e a exploração das redes de distribuição vinculada e da Rede Nacional de Transporte;
+
+c) Assegurar a manutenção da qualidade do serviço fornecido aos consumidores da rede pública;
+
+d) Medir adequadamente as grandezas de que depende a facturação da energia fornecida pelo produtor;
+
+e) Assegurar a viabilidade de soluções que permitam, no quadro de uma adequada qualidade técnica, minorar os investimentos na instalação de produção e na sua ligação à rede pública.
+
+2 - A instalação de produção de energia eléctrica deve respeitar as disposições estabelecidas no presente diploma, nos regulamentos previstos no Decreto-Lei n.º 182/95, de 27 de Julho, e nos regulamentos de segurança aplicáveis.
+
+3 - A ligação das instalações à rede receptora deve ser executada de acordo com as normas de projecto e construção aplicáveis, podendo, para o efeito, o gestor da rede pública fiscalizar tecnicamente a obra.
+
+4 - O ramal de ligação deve ser executado por prestadores de serviço qualificados, de acordo com as normas de garantia de qualidade aplicáveis ou, na sua ausência, as que tenham sido previamente aceites pelo gestor da rede pública.
+
+5 - O gestor da rede pública pode propor o sobredimensionamento do ramal de ligação, com o objectivo de obter solução globalmente mais económica para o conjunto das utilizações possíveis do ramal, comparticipando nos respectivos encargos de constituição, nos termos estabelecidos no anexo previsto no artigo 7.º
+
+6 - No exercício da sua actividade, compete ao produtor observar as disposições legais aplicáveis em matéria de ambiente, bem como os pareceres prestados pelos serviços competentes às entidades licenciadoras, adoptando, para o efeito, as providências adequadas à minimização de impactes ambientais.
+
+7 - Para efeitos do disposto no presente artigo, o produtor deve, após o licenciamento, informar o gestor da rede pública das datas previsíveis em que os trabalhos de construção do ramal de ligação serão desenvolvidos, incluindo a data prevista para a entrada em funcionamento da instalação licenciada.
+
+8 - Para efeitos do disposto no número anterior, a DGE deve informar o gestor da rede pública das instalações que forem sendo autorizadas ao abrigo do presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 10.º — Ligação à rede receptora
+
+1 - Por rede receptora designa-se a rede preexistente à qual se liga a instalação de produção.
+
+2 - A ligação da instalação de produção à rede receptora é feita por um ramal construído a expensas da entidade proprietária da instalação de produção, mas que fica fazendo parte da rede receptora.
+
+3 - O ramal será estabelecido com secção e outras características que assegurem, em condições técnica e economicamente satisfatórias, a transmissão da potência máxima posta à disposição da rede pública pelo produtor.
+
+4 - No omisso, o ramal deve satisfazer todas as normas técnicas em vigor que lhe sejam aplicáveis.
+
+5 - Para efeitos contratuais, considera-se a ligação à rede receptora localizada nos terminais do lado da rede, do órgão de corte colocado no início do ramal, do lado da instalação de produção.
+
+6 - O ponto da rede receptora preexistente onde se liga a extremidade do ramal designa-se por ponto de interligação.
+
+7 - O ponto de interligação será escolhido de comum acordo entre as duas partes, de forma a corresponder à solução mais económica respeitando as condições técnicas definidas neste diploma.
+
+8 - Em caso de divergência relativamente à solução referida no número anterior, incumbe à Direcção-Geral de Energia (DGE) a arbitragem do conflito, dispondo para o efeito de um prazo de 30 dias, findo o qual, não tendo havido decisão arbitral, qualquer das partes poderá submeter a matéria em litígio a decisão do Ministro da Indústria e Energia.
+
+9 - Designa-se por sistema de produção o conjunto de equipamentos principais e auxiliares, e obras que o servem, situados a montante dos terminais do órgão de corte referido no n.º 5.
+
+10 - Os encargos com o eventual reforço do ramal, para permitir a ligação de outros produtores ou consumidores, serão na totalidade repartidos entre a entidade proprietária da rede receptora, os novos produtores e os consumidores, nos termos da legislação aplicável.
+
+11 - Se o produtor também for consumidor, a ligação dos geradores pode ser feita na rede interna do consumidor, desde que respeitadas as demais condições do presente diploma.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 11.º — Potência de ligação à rede pública
+
+1 - Nos casos em que a interligação à rede pública seja feita em baixa tensão, a potência de ligação não pode exceder 4% da potência de curto-circuito mínima no ponto de interligação, tendo como máximo o valor de 100 kVA.
+
+2 - Nos casos em que a interligação à rede pública não seja feita em baixa tensão, a potência de ligação não pode exceder 5% da potência de curto-circuito mínima no ponto de interligação.
+
+3 - No caso de geradores assíncronos ligados a redes de médias tensão ou tensão superior, a potência de cada gerador não pode exceder os 5000 kVA.
+
+4 - A ligação às redes de média, alta ou muito alta tensão far-se-á sempre através de transformadores em que um dos enrolamentos esteja ligado em triângulo.
+
+5 - A ligação à rede pública de uma central ou de um conjunto de centrais que injectam a sua produção numa única linha ou subestação e em que o somatório das potências ultrapasse os 10 MVA será objecto de acerto, caso a caso, entre a rede pública e o produtor, tendo em vista a salvaguarda da qualidade de serviço.
+
+6 - Para efeitos do disposto no número anterior, incumbe à DGE arbitrar as divergências entre o produtor e a rede pública, dispondo, para o efeito, de um prazo de 30 dias.
+
+7 - O aumento da potência de curto-circuito da rede devido à interligação com o produtor deve ser compatível com as características do equipamento da rede.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 12.º — Factor de potência
+
+1 - O factor de potência da energia fornecida por geradores assíncronos durante as horas cheias e de ponta não será inferior a 0,85 indutivo, para o que o produtor instalará as baterias de condensadores que forem necessárias.
+
+2 - Os geradores síncronos poderão manter um factor de potência entre 0,8 indutivo e 0,8 capacitivo perante variações na tensão da rede pública dentro dos limites legais que constarem da concessão da rede pública.
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 13.º — Distorção harmónica
+
+1 - A tensão gerada nas centrais dos produtores será praticamente sinusoidal, de modo a evitar efeitos prejudiciais nos equipamentos instalados pelos consumidores.
+
+2 - Cabe à entidade que explora a rede receptora identificar as causas de distorção harmónica quando esta se revelar prejudicial para os consumidores e propor disposições que reduzam a distorção a níveis aceitáveis, podendo consistir em processos de redução da injecção harmónica ou na utilização de filtragem adequada.
+
+3 - Os encargos com estas disposições serão suportados pelo produtor de energia na medida em que for a instalação de produção a causadora da distorção excessiva.
+
+4 - Os produtores ficam sujeitos às disposições em vigor sobre a qualidade de serviço nas redes eléctricas.
+
+#### Secção II — Protecções
+
+###### Artigo 14.º — Geral
+
+1 - Os sistemas de produção estarão equipados com protecções que assegurem a sua rápida desligação quando ocorrem defeitos.
+
+2 - Se os sistemas de produção estiverem ligados a redes públicas em que se pratique o reengate automático, serão equipados com meios de desligação coordenados com os equipamentos de reengate de rede pública.
+
+3 - Os sistemas de produção deverão ser equipados com protecções que os desliguem automaticamente da rede quando esta é desligada da rede primária, de modo a serem efectuadas com segurança as operações de inspecção, manutenção e reparação.
+
+4 - A religação do sistema de produção, depois de desligado pelas protecções referidas no número anterior, só poderá ser feita:
+
+a) Três minutos depois da reposição do serviço;
+
+b) Depois de a tensão da rede ter atingido, pelo menos, 80% do seu valor normal;
+
+c) Com intervalos de quinze segundos entre as religações dos diferentes geradores.
+
+#### Secção III — Condições técnicas especiais
+
+###### Artigo 15.º — Ligação de geradores assíncronos
+
+1 - A queda transitória da tensão da rede pública devida à ligação de geradores assíncronos não será superior a:
+
+a) 5% no caso de centrais hidroeléctricas ou termoeléctricas;
+
+b) 2% no caso de aerogeradores.
+
+2 - Para limitar as quedas de tensão transitória aos valores indicados no número anterior poderão ser usados equipamentos auxiliares adequados.
+
+3 - O número de ligações dos aerogeradores à rede não excederá uma por minuto.
+
+4 - A ligação de um gerador assíncrono à rede será feita depois de atingidos 90% da velocidade síncrona, no caso de a potência do gerador não exceder 500 kVA. Para potências superiores a 500 kVA, a ligação só será feita depois de atingidos 95% da velocidade síncrona.
+
+5 - Para evitar a auto-excitação dos geradores assíncronos quando faltar a tensão na rede pública, serão instalados dispositivos que, nesse caso, desliguem automaticamente os condensadores.
+
+###### Artigo 16.º — Ligação de geradores síncronos
+
+1 - A ligação de geradores síncronos só poderá ser feita quando a tensão, frequência e fase do gerador a ligar estiverem compreendidas entre os limites indicados no seguinte quadro:
+
+(ver documento original)
+
+2 - Os geradores síncronos de potência não superior a 500 kVA poderão ser ligados como assíncronos desde que respeitadas as limitações impostas pelo artigo 15.º e desde que a duração da marcha assíncrona não exceda dois segundos.
+
+###### Artigo 17.º — Regime de neutro
+
+1 - O regime de neutro no sistema de produção estará de acordo com o que se praticar na rede a que fornece energia.
+
+2 - No caso de interligação com a rede de baixa tensão, o neutro dos geradores será ligado ao neutro da rede de baixa tensão.
+
+3 - O dispositivo que interrompe a ligação entre o sistema de produção e a rede pública deverá interromper também a ligação dos neutros.
+
+#### Secção IV — Medida da energia fornecida pelo produtor
+
+###### Artigo 18.º — Equipamentos e regras técnicas de medida
+
+1 - As medidas da energia e da potência, para efeitos da facturação da energia fornecida pelo produtor, serão feitas por contadores distintos dos usados para a medida da energia eventualmente fornecida ao produtor.
+
+2 - Os transformadores de medida poderão ser comuns às medidas da energia fornecida e da energia recebida.
+
+3 - Os equipamentos e as regras técnicas usados nas medições da energia fornecida pelos produtores serão análogos aos usados pela rede pública para a medição da energia fornecida a consumidores.
+
+#### Secção V — Projecto e vistoria
+
+###### Artigo 19.º — Elaboração do projecto e vistoria da instalação
+
+1 - A entidade que pretenda instalar uma unidade de produção de energia eléctrica solicitará à entidade que explora a rede pública a que se pretende interligar as informações necessárias para a elaboração do projecto, designadamente as relativas a:
+
+a) Ponto de interligação;
+
+b) Tensão nominal no ponto de interligação e banda de regulação da tensão nesse ponto;
+
+c) Potência de curto-circuito, máxima e mínima, no ponto de interligação;
+
+d) Regime do neutro;
+
+e) Dispositivos de reengate automático eventualmente existentes.
+
+2 - A solicitação das informações referidas no número anterior será acompanhada por uma descrição sumária do projecto da instalação de produção, incluindo o local ou os locais previsíveis de implantação, o número, a potência e o tipo de geradores, bem como os dados necessários para serem calculadas as potências de curto-circuito previsíveis.
+
+3 - A entidade que explora a rede pública dispõe de 60 dias para fornecer as informações, findos os quais, caso não tenham sido fornecidos, o requerente pode requerer ao Ministro da Indústria e Energia que determine o envio das informações solicitadas.
+
+4 - A aprovação do projecto e a vistoria das instalações serão feitos nos termos previstos no artigo 7.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 20.º — Exploração e inspecções
+
+1 - As operações de exploração, manutenção e reparação no ramal de interligação serão efectuadas pela entidade que explora a rede que recebe a energia, a qual, se necessário e em qualquer momento, terá acesso a esse ramal e ao órgão de manobra que permite desligar o sistema de produção da rede receptora.
+
+2 - No contrato a celebrar entre o produtor e a entidade receptora serão indicados quais os interlocutores a que cada uma das partes se deverá dirigir no caso de pretender efectuar qualquer intervenção para além do ponto de ligação definido no n.º 5 do artigo 10.º
+
+3 - A exploração do sistema de produção será conduzida manual ou automaticamente, de modo a não perturbar o funcionamento normal da rede pública que recebe energia.
+
+4 - A entidade que explora a rede que recebe a energia terá o direito de inspeccionar periodicamente as regulações e as protecções das instalações de produção ligadas à sua rede.
+
+### Capítulo IV — Facturação da energia pelo produtor
+
+###### Artigo 21.º — Diagramas previstos
+
+1 - O produtor dará conhecimento à entidade exploradora da rede receptora do diagrama previsto para o fornecimento.
+
+2 - As informações que o diagrama previsto deverá conter serão fixadas pela DGE, ouvidas a entidade exploradora da rede pública receptora e o produtor quando tal se mostre necessário.
+
+###### Artigo 22.º — Tarifário de venda de energia eléctrica
+
+1 - Os produtores de energia eléctrica abrangidos no âmbito do presente diploma gozam de uma obrigação de compra, pela rede pública, da energia produzida durante o prazo de vigência das licenças previstas no presente diploma.
+
+2 - O tarifário de venda da energia produzida pelo centro produtor à rede pública deve basear-se num somatório de parcelas que contemplem:
+
+a) Os custos evitados pelo Sistema Eléctrico Público com a entrada em serviço e funcionamento do centro electroprodutor, incluindo:
+
+i) O investimento evitado em novos centros de produção;
+
+ii) Os custos de transporte, operação e manutenção, incluindo a aquisição de matéria-prima;
+
+b) Os benefícios de natureza ambiental proporcionados pelo uso dos recursos endógenos utilizados no centro produtor.
+
+3 - O tarifário de venda de energia eléctrica pelo centro produtor à rede pública é fixado nos termos do anexo II ao presente diploma, que dele faz parte integrante, o qual determina igualmente as disposições relativas ao período de vigência das modalidades desse tarifário.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 56/97 - Diário da República n.º 62/1997, Série I-A de 1997-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247), em vigor a partir de 1997-03-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 23.º — Garantia do tarifário de venda de energia eléctrica
+
+1 - Para os fornecimentos que correspondam a potências mensais facturadas que não ultrapassem 10 MVA, o Estado garante ao produtor, durante o período de retorno do investimento ou durante os oito primeiros anos de exploração da instalação de produção de energia eléctrica, se o período de retorno do investimento for superior, uma receita igual a 90% da receita que seria obtida pela aplicação dos preços em vigor no ano da entrada em exploração da instalação, devidamente corrigidos pelo índice de preços no consumidor total, excepto habitação, publicado pelo Instituto Nacional de Estatística.
+
+2 - Para efeitos do disposto no número anterior, o período de retorno do investimento deve ser calculado levando em linha de conta todos os proveitos e custos auferidos, suportados ou evitados pela instalação de produção de energia eléctrica, excluindo os encargos financeiros, nos termos de estudo económico a apresentar aquando da instrução do respectivo processo de autorização.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+###### Artigo 24.º — Independência de facturações
+
+A facturação pelo produtor da energia que fornece será feita independentemente de qualquer facturação feita pela empresa de transporte e distribuição correspondente à energia que eventualmente forneça ao produtor.
+
+### Capítulo V — Incentivos
+
+###### Artigo 25.º — Investimento estrangeiro
+
+A produção de energia eléctrica, nos termos do presente diploma, é sempre considerada como de relevante interesse nacional e como sector prioritário para todos os efeitos previstos na legislação sobre investimento estrangeiro e transferências de tecnologia.
+
+### Capítulo VI — Distribuição autónoma de energia
+
+###### Artigo 26.º — Distribuição em rede própria
+
+1 - É reconhecido às entidades produtoras de energia eléctrica previstas no presente diploma o direito à sua distribuição, em rede própria e para consumo público, desde que:
+
+a) Não exista nem esteja em vias de instalação uma rede de distribuição que sirva ou possa vir a servir a zona ou os consumidores em causa;
+
+b) Tratando-se de rede já existente, exista um acordo com a entidade proprietária da mesma para a sua aquisição pelo produtor independente;
+
+c) Esteja de acordo com as disposições regulamentares vigentes em tudo o que não contrarie o princípio exposto neste número.
+
+2 - No caso de o produtor vender a energia que produz através de rede própria, as condições de venda, nomeadamente em matéria de preços e respectiva incidência fiscal, serão as legalmente definidas para a entidade que explora a rede pública da área geográfica onde se situe a distribuição de energia em causa.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+### Capítulo VII
+
+###### Artigo 27.º — Disposições finais
+
+1 - As normas técnicas necessárias à execução do presente diploma são objecto de portaria do Ministro da Indústria e Energia.
+
+2 - As instalações para produção de energia eléctrica que usem recursos do domínio público ou privado do Estado ou de autarquias locais, compreendidas nos limites do artigo 1.º, que se encontrem abandonadas, ou sem funcionarem por tempo superior a cinco anos, bem como as respectivas concessões, licenças, autorizações e direitos, revertem para o município onde se situa o empreendimento ou, em compropriedade, para os municípios confinantes, no caso de haver mais de um.
+
+3 - A propriedade das instalações obtida pelos municípios, nos termos do número anterior, não obsta à sua exploração por outras entidades, como previsto no artigo 1.º, a qual só poderá ser impedida no caso de os municípios optarem pela sua exploração directa ou através de sociedade em que participe, após o que existe o prazo de um ano para se retomar a exploração.
+
+4 - As referências feitas no presente diploma à rede pública consideram-se feitas à rede do Sistema Eléctrico de Abastecimento Público (SEP).
+
+5 - Pela apreciação dos pedidos apresentados ao abrigo do presente diploma poderão ser cobradas taxas, cujo montante será fixado por portaria do Ministro da Indústria e Energia.
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/95 - Diário da República n.º 272/1995, Série I-A de 1995-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1995-692422), em vigor a partir de 1995-11-29
+
+Visto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
+
+Promulgado em 13 de Maio de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 16 de Maio de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo I — Regulamento para Autorização das Instalações de Produção de Energia Eléctrica Integradas no Sistema Eléctrico Independente e Baseadas na Utilização de Recursos Renováveis
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 1.º — Autorização da instalação
+
+1 - O processos de autorização das instalações de produção de energia eléctrica são instruídos pela Direcção-Geral da Energia (DGE), competindo a respectiva decisão:
+
+a) Ao Ministro da Economia, no caso de instalações com potência superior a 1 MW;
+
+b) Ao director-geral da Energia, no caso de instalações com potência até 1 MW.
+
+2 - Para efeitos do disposto no número anterior, o interessado deverá apresentar o respectivo pedido na DGE, o qual será acompanhado do projecto das instalações e demais elementos previstos no presente Regulamento e demais disposições aplicáveis.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 339-C/2001 - Diário da República n.º 300/2001, 1º Suplemento, Série I-A de 2001-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-c-2001-201849), em vigor a partir de 2002-01-03
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 2.º — Elaboração do projecto da instalação
+
+1 - A entidade que pretenda instalar uma unidade de produção de energia eléctrica solicitará ao gestor da rede pública a que se pretende interligar as informações necessárias para a elaboração do projecto, designadamente as relativas a:
+
+a) Ponto de interligação, nos termos do presente diploma e após consulta, pelo gestor da rede pública, à DGE;
+
+b) Tensão nominal no ponto de interligação e banda de regulação da tensão nesse ponto;
+
+c) Potência de curto-circuito, máxima e mínima, no ponto de interligação;
+
+d) Regime do neutro;
+
+e) Dispositivos de reengate automático eventualmente existentes.
+
+2 - A solicitação das informações referidas no número anterior será acompanhada por uma descrição sumária do projecto da instalação de produção, incluindo o local ou os locais previsíveis de implantação, o número, a potência e o tipo de geradores, bem como os dados necessários para serem calculadas as potências de curto-circuito previsíveis.
+
+3 - A entidade que explora a rede pública dispõe de 60 dias para fornecer ao produtor e à DGE as informações, findos os quais, caso não tenham sido fornecidas, o promotor pode requerer ao Ministro da Economia que determine o envio das informações solicitadas.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 3.º — Ligação ao Sistema Eléctrico de Serviço Público (SEP)
+
+1 - A ligação da instalação de produção à rede receptora é feita por um ramal construído por iniciativa da entidade proprietária da instalação de produção, o qual fica a fazer parte da rede receptora.
+
+2 - Por rede receptora entende-se a rede preexistente à qual se liga a instalação de produção, designando-se por ponto de interligação o ponto da rede receptora onde se liga a extremidade do ramal.
+
+3 - O ramal será estabelecido com secção e outras características que assegurem, em condições técnica e economicamente satisfatórias, a transmissão da potência máxima posta à disposição da rede pública pelo produtor, devendo, no omisso, satisfazer todas as normas técnicas em vigor que lhe sejam aplicáveis.
+
+4 - Para efeitos contratuais, considera-se a ligação à rede receptora localizada nos terminais, do lado da rede, do órgão de corte colocado no início do ramal, do lado da instalação de produção.
+
+5 - O SEP tem o direito de inspeccionar periodicamente as regulações e as protecções das instalações de produção de energia eléctrica ligadas à sua rede.
+
+6 - As condições técnicas de ligação, bem como de execução do ramal de ligação, serão definidas em portaria a emitir para o efeito pelo Ministro da Economia.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 4.º — Responsabilidade pelos encargos da ligação ao SEP
+
+1 - A ligação da instalação de produção à rede receptora é feita a expensas da entidade proprietária dessa instalação, quando para seu uso exclusivo.
+
+2 - Quando um ramal é originariamente de uso partilhado por mais de um produtor pertencente, nos termos do Decreto-Lei n.º 182/95, de 27 de Julho, ao Sistema Eléctrico Independente, os encargos com a construção dos troços de linha comuns serão repartidos na proporção da potência a contratar.
+
+3 - Sempre que um ramal passar a ser utilizado por um novo produtor do Sistema Eléctrico Independente dentro do período da sua amortização, os produtores que tiverem suportado os encargos com a sua construção são ressarcidos na parte ainda não amortizada, nos termos previstos no número anterior.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 5.º — Ponto de interligação
+
+1 - O ponto de interligação deve corresponder à solução mais económica que respeite as condições definidas neste diploma e na respectiva regulamentação.
+
+2 - No caso de o produtor discordar do ponto de interligação indicado pelo gestor da rede pública, deverá, no prazo de 30 dias após a referida indicação, comunicar o facto à DGE, à qual cabe a decisão final sobre a determinação do ponto de interligação, para o que dispõe de um prazo de 60 dias.
+
+3 - Considera-se atribuído o ponto de interligação que resulte:
+
+a) Da não discordância pelo produtor do ponto de interligação indicado pelo gestor da rede pública, nos termos do artigo 7.º, n.º 1, alínea a); ou
+
+b) No caso de discordância, da determinação pela DGE, nos termos do número anterior.
+
+4 - A atribuição do ponto de interligação, nos termos do número anterior, implica a sua reserva, que caduca com a não entrega, no prazo de 120 dias, do pedido de autorização de utilização de água mencionado no n.º 3 do artigo 1.º do presente Regulamento, no caso de aproveitamentos hidroeléctricos ou, nos restantes casos, do pedido de autorização de instalação mencionado no n.º 1 do referido artigo 1.º
+
+5 - O produtor pode ainda solicitar ao gestor da rede pública a indicação de um segundo ponto de interligação, o qual deve ter em conta as perspectivas de expansão da rede pública e a economia dos meios necessários à ligação da instalação de produção à rede receptora.
+
+6 - A DGE constituirá uma lista ordenada cronologicamente dos pontos de interligação indicados nos termos do número anterior, tendo em vista a gestão da atribuição dos referidos pontos, designadamente face ao disposto no n.º 4 deste artigo e no artigo 7.º do presente Regulamento ou a uma eventual expansão da rede pública.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 6.º — Licença de exploração
+
+1 - A entrada em funcionamento das instalações depende de licença de exploração, que será precedida de vistoria.
+
+2 - A vistoria das instalações de potência até 10 MW cabe à direcção regional do Ministério da Economia (DRME) territorialmente competente, competindo à DGE a vistoria das instalações de potência superior a 10 MW.
+
+3 - A licença de exploração será concedida pela DRME territorialmente competente ou pela DGE, consoante se trate, respectivamente, de instalações com potência até 10 MW ou superior a 10 MW.
+
+4 - No caso de aproveitamento hidroeléctrico:
+
+a) A entrada em funcionamento das instalações, para além da vistoria referida no n.º 1, deve ser precedida de parecer da direcção regional de ambiente e do ordenamento do território territorialmente competente que confirme as condições de segurança na construção do açude ou de barragem, assim como o cumprimento de outras condicionantes ambientais que aquela considere necessárias, constantes do processo conducente à atribuição do alvará de licença de utilização da água;
+
+b) A atribuição de licença de exploração será precedida da obtenção do alvará referido na alínea a), a ser atribuída pela direcção regional do ambiente e do ordenamento do território territorialmente competente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 339-C/2001 - Diário da República n.º 300/2001, 1º Suplemento, Série I-A de 2001-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2005-517381), em vigor a partir de 2002-01-03
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 7.º — Caducidade
+
+1 - Os produtores de energia eléctrica têm um prazo de 18 meses, a contar da data da notificação da decisão de autorização referida no n.º 1 do artigo 1.º do presente Regulamento, para iniciarem a construção da instalação, sob pena de caducidade da referida autorização.
+
+2 - É de seis meses a contar da data da notificação da decisão de conferir a licença de exploração mencionada no artigo anterior o prazo de início da exploração da instalação, sob pena de caducidade da referida licença.
+
+3 - Os prazos previstos nos números anteriores podem ser prorrogados, a pedido do produtor, pela mesma entidade que autorizou a instalação, se a insuficiência do prazo tiver resultado de facto não imputável ao produtor, designadamente por dificuldades havidas no processo de licenciamento.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+###### Artigo 8.º — Potência de ligação à rede do SEP
+
+1 - Designa-se por sistema de produção o conjunto de equipamentos principais e auxiliares e as obras que o servem, situados a montante dos terminais do órgão de corte referido no n.º 4 do artigo 3.º do presente Regulamento.
+
+2 - Nos casos em que a interligação à rede do Sistema Eléctrico de Abastecimento Público (SEP) seja feita em baixa tensão, a potência de ligação do sistema de produção não pode exceder 4% da potência de curto-circuito mínima no ponto de interligação, tendo como máximo o valor de 100 kW.
+
+3 - Nos casos em que a interligação à rede do SEP não seja feita em baixa tensão, a potência de ligação do sistema de produção não pode exceder:
+
+a) No caso de centrais equipadas com geradores síncronos ou equiparáveis, 8% da potência de curto-circuito mínima no ponto de interligação;
+
+b) No caso de centrais equipadas com geradores assíncronos:
+
+i) 8% da potência de curto-circuito mínima no ponto de interligação, desde que a potência do maior gerador do sistema de produção não exceda 2000 kW nem 5% da referida potência de curto-circuito;
+
+ii) 5% da potência de curto-circuito mínima no ponto de interligação, nos restantes casos.
+
+4 - Para efeitos do disposto na alínea a) do número anterior, consideram-se equiparáveis a geradores síncronos os geradores equipados com sistemas do tipo alternador/rectificador/inversor, com velocidade variável e controlo de tensão e de factor de potência.
+
+5 - No caso de geradores assíncronos ligados a redes de média tensão ou tensão superior, a potência de cada gerador não pode exceder 4500 kW.
+
+6 - A ligação às redes de média, alta ou muito alta tensão deve fazer-se obrigatoriamente através de transformador em que um dos enrolamentos esteja ligado em triângulo.
+
+7 - Sempre que o gestor da rede pública avalie que determinado ponto de interligação, no qual seja económico proceder à ligação de um centro produtor em vias de concretização, não pode suportar a potência prevista no n.º 2, sem provocar prejuízos graves à qualidade de serviço dessa rede ou a jusante dela, aquele gestor deve apresentar, à DGE, para decisão, um estudo que sustente essa avaliação.
+
+8 - No caso previsto no número anterior, a DGE toma a iniciativa de ouvir o produtor, no prazo de 30 dias contados da data de recepção do estudo do gestor da rede pública, tomando uma decisão no prazo de 45 dias contados desde a data de recepção da resposta deste.
+
+9 - A ligação à rede pública de sistemas de produção com potências superiores aos limites fixados neste artigo pode ser objecto de acerto, caso a caso, entre a rede pública, o produtor e a DGE, em função de justificada evolução da rede receptora ou do progresso tecnológico dos equipamentos.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23
+
+## Anexo II
+
+1 - As instalações licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, adiante designadas por centrais renováveis, serão remuneradas pelo fornecimento da electricidade entregue à rede através da fórmula seguinte:
+
+VRD(índice m) = KMHO(índice m) x [PF (VRD)(índice m) + PV(VRD)(índice m) + PA (VRD)(índice m) x Z] x [IPC(índice m - 1)/IPC(índice ref)] x [1/(1 - LEV)]
+
+2 - Na fórmula do número anterior:
+
+a) VRD(índice m) é a remuneração aplicável a centrais renováveis, no mês m;
+
+b) KMHOm é um coeficiente que modula os valores de PF(VRD)m, de PV(VRD)m e de PA(VRD)m em função do posto horário em que a electricidade tenha sido fornecida;
+
+c) PF(VRD)(índice m) é a parcela fixa da remuneração aplicável a centrais renováveis, no mês m;
+
+d) PV(VRD)(índice m) é a parcela variável da remuneração aplicável a centrais renováveis, no mês m;
+
+e) PA(VRD)(índice m) é a parcela ambiental da remuneração aplicável a centrais renováveis, no mês m;
+
+f) IPC(índice m - 1) é o índice de preço no consumidor, sem habitação, no continente, referente ao mês m - 1;
+
+g) Z, coeficiente adimensional que traduz as características específicas do recurso endógeno e da tecnologia utilizada na instalação licenciada;
+
+h) IPCref é o índice de preços no consumidor, sem habitação, no continente, referente ao mês anterior ao do início do fornecimento de electricidade à rede pela central renovável;
+
+i) LEV representa as perdas, nas redes de transporte e distribuição, evitadas pela central renovável.
+
+3 - Relativamente à modulação tarifária traduzida pelo coeficiente KMHOm, as centrais renováveis deverão decidir, no acto do licenciamento, se optam ou não por ela, com excepção das centrais hídricas para as quais esta é obrigatória.
+
+4 - Para as centrais renováveis que, no acto de licenciamento e nos termos do número anterior, tiverem optado pela modulação tarifária traduzida pelo coeficiente KMHO, este tomará o seguinte valor:
+
+KMHO = (KMHO(índice pc) x ECR(índice pc,m) + KMHO(índice v) x ECR(índice v,m))/(ECR(índice m))
+
+5 - Na fórmula do número anterior:
+
+a) KMHO(índice pc) é um factor que representa a modulação correspondente a horas cheias e de ponta, o qual, para efeitos do presente anexo, toma o valor de 1,15 para as centrais hídricas e o valor de 1,25 para as restantes instalações de produção licenciadas ao abrigo do Decreto-Lei n.º 189/88, de 27 de Maio, e instalações de bombagem;
+
+b) ECR(índice pc,m) é a energia produzida pela central renovável nas horas cheias e de ponta do mês m, expressa em kWh;
+
+c) KMHO(índice v) é um factor que representa a modulação correspondente a horas de vazio, o qual, para efeitos do presente anexo, toma o valor de 0,80 para as centrais hídricas e o valor de 0,65 para as restantes instalações de produção licenciadas ao abrigo do Decreto-Lei n.º 189/88, de 27 de Maio;
+
+d) ECR(índice vm) é a energia produzida pela central renovável nas horas de vazio do mês m, expressa em kWh;
+
+e) ECR(índice m) é a energia produzida pela central renovável no mês m, expressa em kWh.
+
+6 - Para as centrais renováveis que, no acto de licenciamento e nos termos do n.º 3, não tiverem optado pela modulação tarifária traduzida pelo coeficiente KMHOm, este tomará o valor 1.
+
+7 - Para efeitos do disposto no n.º 3 considera-se que:
+
+a) No período de hora legal de Inverno, as horas vazias ocorrem entre as 0 e as 8 e entre as 22 e as 24 horas, sendo as restantes horas do dia consideradas horas cheias e de ponta;
+
+b) No período de hora legal de Verão, as horas vazias ocorrem entre as 0 e as 9 e entre as 23 e as 24 horas, sendo as restantes horas do dia consideradas horas cheias e de ponta.
+
+8 - O valor de PF(VRD)(índice m), previsto no n.º 1, é calculado através da fórmula seguinte:
+
+PF(VRD)(índice m) = PF(U)(índice ref) x COEF(índice pot,m) x POT(índice med,m)
+
+9 - Na fórmula do número anterior:
+
+a) PF(U)(índice ref) é o valor unitário de referência para PF(VRD)(índice m), o qual:
+
+i) Deve corresponder à mensualização do custo unitário de investimento nos novos meios de produção cuja construção é evitada por uma central renovável que assegure o mesmo nível de garantia de potência que seria proporcionado por esses novos meios de produção;
+
+ii) Toma o valor de 1090 PTE/kW por mês;
+
+iii) Será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável;
+
+b) COEF(índice pot,m) é um coeficiente adimensional que traduz a contribuição da central renovável, no mês m, para a garantia de potência proporcionada pela rede pública;
+
+c) POT(índice med,m) é a potência média disponibilizada pela central renovável à rede pública no mês m, expressa em kW.
+
+10 - O valor de COEF(índice po,m), previsto no n.º 8, é calculado através da fórmula seguinte:
+
+(ver fórmula no documento original)
+
+12 - O valor de POT(índice med,m), previsto no n.º 8, é calculado através da fórmula seguinte:
+
+(ver fórmula no documento original)
+
+13 - O valor de PV(VRD)(índice m), previsto no n.º 1, é calculado através da fórmula seguinte:
+
+PV(VRD)(índice m) = PV(U)(índice ref) x ECR(índice m)
+
+14 - Na fórmula do número anterior, PV(U)(índice ref) é o valor unitário de referência para PV(VRD)(índice m), o qual:
+
+a) Deve corresponder aos custos de operação e manutenção que seriam necessários à exploração dos novos meios de produção cuja construção é evitada pela central renovável;
+
+b) Toma o valor de (euro) 0,036/kilowatts-hora;
+
+c) Será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável.
+
+15 - O valor de PA (VRD)(índice m), previsto no n.º 1, é aplicado de acordo com o disposto no n.º 17, sendo calculado através da seguinte fórmula:
+
+PA (VRD)(índice m) = ECE (U)(índice ref) x CCR(índice ref) x ECR(índice m)
+
+16 - Na fórmula do número anterior:
+
+a) ECE(U)(índice ref) é o valor unitário de referência para as emissões de dióxido de carbono evitadas pela central renovável, o qual:
+
+i) Deve corresponder a uma valorização unitária do dióxido de carbono que seria emitido pelos novos meios de produção cuja construção é evitada pela central renovável;
+
+ii) Toma o valor de 2 * 10 - 5 EUR/g;
+
+iii) Será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável;
+
+b) CCR(índice ref) é o montante unitário das emissões de dióxido de carbono da central de referência, o qual toma o valor de 370 g/kWh e será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável.
+
+17 - O parâmetro LEV, previsto no n.º 1, toma os seguintes valores:
+
+a) 0,015, no caso de centrais com potência maior ou igual a 5 MW;
+
+b) 0,035, no caso de centrais com potência menor que 5 MW.
+
+18 - O coeficiente Z, aplicável aos seguintes tipos de centrais, assume, para os respectivos regimes de funcionamento anual, os seguintes valores:
+
+a) Para as centrais eólicas - 4,6;
+
+b) Para as centrais hídricas:
+
+i) Com POTdec até 10 MW, inclusive - 4,5;
+
+ii) Com POTdec entre 10 MW e 30 MW - valor definido na subalínea i) subtraído de 0,075 por cada megawatt adicional face ao limite superior definido na subalínea i);
+
+iii) Com POTdec superior a 30 MW - valor a definir em portaria do ministro que tutela a DGGE;
+
+iv) Instalações de bombagem - 0;
+
+c) Para as centrais de energia solar, até ao limite de uma potência instalada, a nível nacional, de 150 MW:
+
+i) Instalações fotovoltaicas com potência inferior ou igual a 5 kW, com excepção das previstas na alínea d) - 52;
+
+ii) Instalações fotovoltaicas com potência superior a 5 kW - 35;
+
+iii) Instalações termoeléctricas com potência inferior ou igual a 10 MW - 29,3;
+
+iv) Instalações termoeléctricas com potência superior a 10 MW - o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto, entre o valor de 15 e 20;
+
+d) Para as centrais fotovoltaicas de microgeração quando instaladas em edifícios de natureza residencial, comercial, de serviços ou industrial, até ao limite de uma potência instalada, a nível nacional, de 50 MW:
+
+i) Com potência inferior ou igual a 5 kW - 55;
+
+ii) Com potência superior a 5 kW e inferior ou igual a 150 kW - 40;
+
+e) Para as centrais de biomassa cujo combustível, até ao limite de uma potência instalada, a nível nacional, de 250 MW, seja:
+
+i) Biomassa florestal residual - 8,2;
+
+ii) Biomassa animal - 7,5;
+
+f) Para as centrais de valorização energética de biogás:
+
+i) Na vertente de digestão anaeróbia de resíduos sólidos urbanos (RSU), de lamas das estações de tratamento das águas residuais (ETAR) e de efluentes e resíduos provenientes da agro-pecuária e da indústria agro-alimentar, até ao limite de uma potência instalada, a nível nacional, de 150 MW - 9,2;
+
+ii) Na vertente de gás de aterro, até ao limite de uma potência instalada, a nível nacional, de 20 MW - 7,5;
+
+iii) Quando superados os limites de potência instalada a nível nacional estabelecidos nas subalíneas i) e ii) anteriores - 3,8;
+
+g) Para as centrais de valorização energética, na vertente de queima, até ao limite de uma potência instalada, a nível nacional, de 150 MW:
+
+i) De resíduos sólidos urbanos indiferenciados (RSU) - 1;
+
+ii) De combustíveis derivados de resíduos (CdR) - 3,8;
+
+h) Para as centrais utilizadoras de energia das ondas:
+
+i) Para os projectos de demonstração de conceito, até um limite de 4 MW de potência por projecto e até ao limite de uma potência instalada, a nível nacional, de 20 MW - 28,4;
+
+ii) Para os projectos em regime pré-comercial, até um limite de 20 MW por projecto e até ao limite de uma potência instalada, a nível nacional, de 100 MW, o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto, entre o valor de 16 e 22;
+
+iii) Para os projectos em regime comercial, o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto:
+
+1) Aos primeiros 100 MW e até um limite de potência instalada por tecnologia a nível mundial de 300 MW entre 8 e 16;
+
+2) Aos 150 MW seguintes e até um limite de potência instalada por tecnologia a nível mundial de 600 MW entre 6 e 10;
+
+3) Quando superados os limites de potência estabelecidos nos números anteriores - 4,6.
+
+i) Para as instalações relativas às tecnologias renováveis não referidas nas alíneas anteriores ou quando os limites de potência instalada a nível nacional previstos nas alíneas anteriores forem ultrapassados, o coeficiente Z assume o valor 1, sem prejuízo do disposto no n.º 19.
+
+19 - Novos tipos de tecnologias e correspondentes valores, bem como, a título excepcional, projectos que sejam reconhecidos como de interesse nacional pelas suas características inovadoras, podem ser objecto de atribuição de um coeficiente Z diferente do que seria aplicável à correspondente tecnologia mediante portaria do membro do Governo que tutele a DGGE.
+
+20 - O montante de remuneração definido por VRD é aplicável, para cada megawatt de potência de injecção na rede atribuído, determinado com base num factor de potência de 0,98:
+
+a) Para as centrais eólicas, aos primeiros 33 GWh entregues à rede, por megawatt de potência de injecção na rede atribuído, até ao limite máximo dos primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+b) Para as centrais hídricas, aos primeiros 52 GWh entregues à rede, por megawatt de injecção na rede atribuído, até ao limite máximo dos primeiros 20 anos a contar desde o início do fornecimento de electricidade à rede que poderá, em casos excepcionais devidamente fundamentados, ser prorrogado por mais cinco anos, mediante despacho do membro do Governo que tutela a área da energia, a requerimento do promotor interessado;
+
+c) Para as centrais de energia solar, durante os primeiros 21 GWh entregues à rede por megawatt de potência de injecção na rede atribuído, até ao limite máximo dos primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+d) Para as centrais fotovoltaicas de microgeração quando instaladas em edifícios de natureza residencial, comercial, de serviços ou industrial, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+e) Para as centrais cujo combustível seja biomassa florestal residual ou biomassa animal, durante os primeiros 25 anos a contar desde o início do fornecimento de electricidade à rede;
+
+f) Para as centrais de valorização energética de biogás, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+g) Para todas as centrais de valorização energética, na vertente de queima, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+h) Para as centrais utilizadoras de energia das ondas, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+i) Para as instalações relativas às energias renováveis não referidas nas alíneas anteriores, durante os primeiros 12 anos a contar desde o início do fornecimento de electricidade à rede.
+
+21 - Nos casos de prorrogação previstos nas alíneas b) e d) do n.º 20, bem como nos outros casos de prorrogação autorizados pelo membro do Governo que tutele a DGGE, sob proposta da DGGE, os parâmetros de valorização da tarifa serão os vigentes à data da prorrogação e o IPCref o do mês anterior ao da prorrogação.
+
+22 - Sem prejuízo do disposto no número anterior, atingidos os limites estabelecidos no n.º 20, as centrais renováveis serão remuneradas pelo fornecimento da electricidade entregue à rede a preços de mercado e pelas receitas obtidas da venda de certificados verdes.
+
+23 - As condições relativas à energia reactiva a fornecer pelos produtores serão estabelecidas nos regulamentos da rede de distribuição e transporte.
+
+24 - As centrais electroprodutoras já licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, poderão requerer a integração no regime de remuneração resultante da aplicação das fórmulas contidas no presente anexo, sendo que o IPC(índice ref) a considerar será o do mês anterior à decisão do director-geral de Geologia e Energia que aprovar o pedido, sem prejuízo da contagem dos prazos a partir da atribuição da licença de exploração, nos termos previstos no n.º 20.
+
+25 - Sem prejuízo do disposto no n.º 29, os valores referidos no presente anexo, incluindo os dos limites máximos deles constantes, devem ser revistos, mediante decreto-lei com a regularidade que for julgada conveniente, de forma a reflectir, designadamente, a actualização dos custos de investimento e exploração para cada tecnologia, a inflação e o preço da energia.
+
+26 - O decreto-lei referido no número anterior aplica-se à electricidade produzida em instalações cuja licença de estabelecimento seja atribuída após 1 mês da entrada em vigor do mesmo, podendo ainda a sua aplicação ser limitada às instalações que obtenham licença de exploração no prazo de 24 meses após a data da licença de estabelecimento.
+
+27 - Para centrais eólicas, tendo presente a conveniência de reflectir uma repartição dos benefícios globais que lhe são inerentes a nível nacional e local, é devida aos municípios, pelas empresas detentoras das licenças de exploração de parques eólicos, uma renda de 2,5% sobre o pagamento mensal feito pela entidade receptora da electricidade produzida, em cada instalação, nos seguintes termos:
+
+a) Quando as instalações licenciadas estejam instaladas em mais de um município, a renda é repartida proporcionalmente à potência instalada em cada município;
+
+b) Nos casos em que as empresas detentoras das licenças de exploração tenham celebrado quaisquer acordos ou contratos com as autarquias locais em cuja área estão implantadas, a título de compensação pela respectiva exploração, aplicar-se-á o seguinte:
+
+i) Manutenção da situação actual contratualizada, se esse pagamento for previsionalmente igual ou superior à renda definida na alínea a) durante o período de vigência da licença de exploração da central;
+
+ii) Prevalência do disposto neste diploma, em caso de opção da autarquia, caso tal pagamento for previsionalmente inferior à renda definida na alínea a) durante o período de vigência da licença de exploração da central.
+
+28 - A entidade concessionária da RNT, com o apoio das entidades titulares de licenças vinculadas de distribuição de electricidade em média e alta tensões, proporá à aprovação da Direcção-Geral da Energia um manual de procedimentos para aplicação do presente anexo, o qual deverá ser apenso aos contratos celebrados ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro.
+
+29 - A remuneração resultante da aplicação dos critérios de fixação da remuneração constantes do presente anexo é garantida a todos os promotores que obtenham licença de estabelecimento após a entrada em vigor do presente anexo, desde que lhes seja atribuída licença de exploração no prazo de três anos após a data de emissão da referida licença de estabelecimento para as PCH (pequenas centrais hídricas) e no prazo de dois anos para as restantes tecnologias.
+
+30 - (Revogado.)
+
+31 - (Revogado.)
+
+32 - (Revogado.)
+
+33 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2007 - Diário da República n.º 105/2007, Série I de 2007-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33-A/2005 - Diário da República n.º 33/2005, 1º Suplemento, Série I-A de 2005-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2005-517381), em vigor a partir de 2005-02-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 339-C/2001 - Diário da República n.º 300/2001, 1º Suplemento, Série I-A de 2001-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-c-2001-201849), em vigor a partir de 2002-01-03
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 168/99 - Diário da República n.º 115/1999, Série I-A de 1999-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), em vigor a partir de 1999-05-23

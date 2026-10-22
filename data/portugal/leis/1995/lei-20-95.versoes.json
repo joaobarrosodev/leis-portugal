@@ -1,0 +1,798 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:461219:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1995-877088287",
+ "dre_path": "/dr/detalhe/lei/20-1995-461219",
+ "source_lastmod": "2024-08-13",
+ "versions": [
+  {
+   "date": "1995-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "877087471",
+    "877087472",
+    "877087473",
+    "877087474",
+    "877103875",
+    "877103876",
+    "877103877",
+    "877103878",
+    "877103879",
+    "877103880",
+    "877103881",
+    "877103882",
+    "877103883",
+    "877103884",
+    "877103885",
+    "877103886",
+    "877103887",
+    "877103888",
+    "877103889",
+    "877103890",
+    "877103891",
+    "877103892",
+    "877103893",
+    "877103894",
+    "877103895",
+    "877103896",
+    "877103897",
+    "877103898",
+    "877103899",
+    "877103900",
+    "877103901",
+    "877103902",
+    "877103903",
+    "877103904",
+    "877103905",
+    "877103906",
+    "877103907",
+    "877103908",
+    "877103909",
+    "877103910",
+    "877103911",
+    "877103912",
+    "877103913",
+    "877103914",
+    "877103915",
+    "877103916",
+    "877103917",
+    "877103918",
+    "877103919",
+    "877103920",
+    "877103921",
+    "877103922",
+    "877103923",
+    "877103924",
+    "877103925",
+    "877103926",
+    "877103927",
+    "877103928",
+    "877103929",
+    "877103930",
+    "877103931",
+    "877103932",
+    "877103933"
+   ]
+  },
+  {
+   "date": "2004-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:446475:por",
+     "title": "Lei n.º 100/2003",
+     "published": "2003-11-15",
+     "dre_path": "/dr/detalhe/lei/100-2003-446475"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 49.º"
+   ],
+   "fragments": [
+    "877087471",
+    "877087472",
+    "877087473",
+    "877087474",
+    "877103875",
+    "877103876",
+    "877103877",
+    "877103878",
+    "877103879",
+    "877103880",
+    "877103881",
+    "877103882",
+    "877103883",
+    "877103884",
+    "877103885",
+    "877103886",
+    "877103887",
+    "877103888",
+    "877103889",
+    "877103890",
+    "877103891",
+    "877103892",
+    "877103893",
+    "877103894",
+    "877103895",
+    "877103896",
+    "877103897",
+    "877103898",
+    "877103899",
+    "877103900",
+    "877103901",
+    "877103902",
+    "877103903",
+    "877103904",
+    "877103905",
+    "877103906",
+    "877103907",
+    "877103908",
+    "877103909",
+    "877103910",
+    "877103911",
+    "877103912",
+    "877103913",
+    "877103914",
+    "877103915",
+    "877103916",
+    "877103917",
+    "877103918",
+    "877103919",
+    "877103920",
+    "877103921",
+    "877103922",
+    "877103923",
+    "877103924",
+    "877103925",
+    "877103926",
+    "877103927",
+    "877103928",
+    "877103935",
+    "877103930",
+    "877103931",
+    "877103932",
+    "877103933",
+    "877103934"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146220:por",
+     "title": "Lei Orgânica n.º 1/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/lei-organica/1-2011-146220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "877087471",
+    "877087472",
+    "877087473",
+    "877087474",
+    "877103875",
+    "877103876",
+    "877103877",
+    "877103878",
+    "877103879",
+    "877103880",
+    "877103881",
+    "877103936",
+    "877103883",
+    "877103884",
+    "877103885",
+    "877103886",
+    "877103887",
+    "877103888",
+    "877103889",
+    "877103890",
+    "877103937",
+    "877103892",
+    "877103893",
+    "877103894",
+    "877103895",
+    "877103896",
+    "877103897",
+    "877103898",
+    "877103899",
+    "877103900",
+    "877103901",
+    "877103938",
+    "877103903",
+    "877103904",
+    "877103905",
+    "877103906",
+    "877103907",
+    "877103908",
+    "877103909",
+    "877103910",
+    "877103911",
+    "877103912",
+    "877103913",
+    "877103914",
+    "877103915",
+    "877103916",
+    "877103917",
+    "877103918",
+    "877103919",
+    "877103920",
+    "877103921",
+    "877103922",
+    "877103923",
+    "877103924",
+    "877103925",
+    "877103926",
+    "877103927",
+    "877103928",
+    "877103935",
+    "877103930",
+    "877103931",
+    "877103932",
+    "877103933",
+    "877103934"
+   ]
+  }
+ ],
+ "fragments": {
+  "877087471": {
+   "fragment_id": "877088288",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 20/95\n\nde 13 de Julho\n\nRegula a mobilização e a requisição no interesse da defesa nacional\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 168.º, n.º 1, alíneas b) e c), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "877087472": {
+   "fragment_id": "877088289",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "877087473": {
+   "fragment_id": "877088290",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto do presente diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto do presente diploma\n\nA presente lei regula a mobilização e a requisição no interesse da defesa nacional."
+  },
+  "877087474": {
+   "fragment_id": "877088291",
+   "type": 11,
+   "heading": "Artigo 2.º — Mobilização e requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mobilização e requisição\n\nA mobilização e a requisição compreendem o conjunto de acções preparadas e desenvolvidas pelo Estado, com oportunidade e eficácia, destinadas à obtenção dos recursos humanos e materiais imprescindíveis para a garantia e realização integral dos objectivos permanentes da política de defesa nacional."
+  },
+  "877103875": {
+   "fragment_id": "877088292",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - Estão sujeitos a mobilização os cidadãos portugueses, quer residam em território nacional, em território sob administração portuguesa ou no estrangeiro.\n\n2 - Estão sujeitos a requisição as empresas, coisas ou serviços situados ou exercidos em território nacional ou sob administração portuguesa, salvo tratado ou convenção internacional em contrário.\n\n3 - Sem prejuízo de convenção internacional em contrário, estão ainda sujeitos a requisição os meios de transporte que se achem matriculados em território nacional ou sob administração portuguesa, bem como os direitos de propriedade industrial que aí sejam objecto de patente, depósito ou registo."
+  },
+  "877103876": {
+   "fragment_id": "877088293",
+   "type": 11,
+   "heading": "Artigo 4.º — Modalidades de mobilização e requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modalidades de mobilização e requisição\n\n1 - A mobilização tem natureza militar ou civil, consoante as pessoas por ela abrangidas devam prestar serviço militar efectivo ou desempenhar tarefas nas estruturas referidas no artigo 28.º\n\n2 - A requisição tem natureza militar ou civil, consoante o objecto sobre que incida seja utilizado na dependência das Forças Armadas ou das autoridades civis."
+  },
+  "877103877": {
+   "fragment_id": "877088294",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípio da legalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípio da legalidade\n\n1 - A actuação das entidades competentes para a preparação e execução das medidas de mobilização e de requisição, no interesse da defesa nacional, militares ou civis, está subordinada à Constituição e à lei.\n\n2 - As medidas a que se refere o número anterior regem-se exclusivamente pela Constituição e pelo disposto no presente diploma e respectiva legislação complementar."
+  },
+  "877103878": {
+   "fragment_id": "877088295",
+   "type": 11,
+   "heading": "Artigo 6.º — Sistema Nacional de Mobilização e Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema Nacional de Mobilização e Requisição\n\nO Sistema Nacional de Mobilização e Requisição compreende o conjunto de órgãos e serviços encarregados de assegurar a preparação e a execução da mobilização e da requisição, bem como os procedimentos inerentes."
+  },
+  "877103879": {
+   "fragment_id": "877088296",
+   "type": 11,
+   "heading": "Artigo 7.º — Preparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Preparação\n\n1 - A preparação da mobilização e da requisição compreende o conjunto de acções de planeamento, organização, coordenação, direcção, controlo, comunicações e informações desenvolvidas de forma permanente e continuada, destinadas a assegurar a sua execução oportuna e eficaz.\n\n2 - Constituem acções de preparação da mobilização e da requisição, designadamente:\n\na) A elaboração de planos de emergência que definam as necessidades a satisfazer por mobilização e requisição, relativas a cada área ou sector da vida nacional, nas diversas situações;\n\nb) A elaboração e permanente actualização do registo e cadastro dos recursos humanos e materiais a abranger prioritariamente por mobilização e requisição;\n\nc) A determinação dos recursos humanos e materiais disponíveis e a identificação da necessidade de reservas estratégicas e a sua constituição em áreas consideradas críticas;\n\nd) A organização de sistemas coordenados de informação, prevenção, aviso e alerta que permitam o desenvolvimento gradual da execução da mobilização e da requisição;\n\ne) A realização de treinos e exercícios.\n\n3 - A administração central, através dos ministérios e dos órgãos e serviços que os integram ou que deles dependem, os órgãos e serviços das Regiões Autónomas e das autarquias locais ou destas dependentes, os institutos públicos e as empresas públicas, bem como as empresas privadas e cooperativas de interesse colectivo, devem elaborar e manter actualizados os registos e cadastros a que se refere a alínea b) do número anterior."
+  },
+  "877103880": {
+   "fragment_id": "877088297",
+   "type": 11,
+   "heading": "Artigo 8.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução\n\nA execução da mobilização e da requisição tem carácter imediato e obrigatório, abrangendo o conjunto de acções destinadas a possibilitar a utilização dos recursos humanos e materiais disponíveis e a promover, através da adaptação das estruturas, se necessário, a produção e obtenção de meios adicionais indispensáveis para a realização dos objectivos visados."
+  },
+  "877103881": {
+   "fragment_id": "877088298",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do Governo\n\n1 - O Governo é o órgão responsável pela prossecução de todas as acções relativas à mobilização e à requisição, competindo-lhe, designadamente:\n\na) Organizar o Sistema Nacional de Mobilização e Requisição;\n\nb) Assegurar a preparação e a execução da mobilização e da requisição em todas as áreas e sectores da vida nacional, de forma coordenada e no respeito pela organização política e administrativa do País;\n\nc) Determinar a mobilização e a requisição nos termos do presente diploma.\n\n2 - Ao Ministro da Defesa Nacional compete, em especial:\n\na) Apresentar ao Conselho Superior de Defesa Nacional, para efeitos das alíneas c) e d) do n.º 2 do artigo 47.º da Lei de Defesa Nacional e das Forças Armadas, bem como ao Conselho de Ministros, propostas relativas à mobilização e à requisição, necessárias à prossecução dos objectivos permanentes da política de defesa nacional;\n\nb) Dirigir a preparação e execução da mobilização e da requisição militares, através dos órgãos de planeamento e execução competentes das Forças Armadas.\n\n3 - Aos ministros compete dirigir a preparação e a execução da mobilização civil e da requisição, em cada uma das áreas e sectores da vida nacional sob sua responsabilidade, através dos órgãos competentes dos respectivos ministérios, nomeadamente dos que intervêm no planeamento civil de emergência e dos que concorrem para a protecção civil."
+  },
+  "877103882": {
+   "fragment_id": "877088299",
+   "type": 11,
+   "heading": "Artigo 10.º — Intervenção de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Intervenção de outras entidades\n\nIntervêm ainda na preparação e execução da mobilização e da requisição:\n\na) Os Ministros da República das Regiões Autónomas dos Açores e da Madeira;\n\nb) Os órgãos de governo próprio e os órgãos e serviços da administração regional das Regiões Autónomas dos Açores e da Madeira;\n\nc) Os governos civis;\n\nd) Os demais órgãos e serviços da administração directa e indirecta do Estado;\n\ne) As autarquias locais;\n\nf) As forças de segurança;\n\ng) Os serviços de correios e telecomunicações, bem como os serviços de transportes pertencentes a qualquer sector de propriedade;\n\nh) As empresas públicas, privadas e cooperativas de interesse colectivo;\n\ni) Os órgãos de comunicação social."
+  },
+  "877103883": {
+   "fragment_id": "877088300",
+   "type": 1,
+   "heading": "Capítulo II — Mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Mobilização"
+  },
+  "877103884": {
+   "fragment_id": "877088301",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "877103885": {
+   "fragment_id": "877088302",
+   "type": 11,
+   "heading": "Artigo 11.º — Circunstâncias determinantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Circunstâncias determinantes\n\n1 - A mobilização militar pode ser decretada, nos termos do artigo 13.º da Lei de Defesa Nacional e das Forças Armadas, sempre que os meios humanos sobre que incide se tenham tornado imprescindíveis para garantir e realizar integralmente os objectivos permanentes da política de defesa nacional em tempo de guerra, bem como perante qualquer agressão, efectiva ou iminente, ou ameaça externas.\n\n2 - Sem prejuízo do disposto no artigo 22.º, a mobilização militar só pode ser decretada depois de declarada a guerra ou os estados de sítio ou de emergência por causa das circunstâncias referidas no número anterior e de acordo com a gravidade destas."
+  },
+  "877103886": {
+   "fragment_id": "877088303",
+   "type": 11,
+   "heading": "Artigo 12.º — Critério de mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critério de mobilização\n\nA mobilização obedece ao critério da necessidade, de acordo com as aptidões e capacidades de cada cidadão abrangido."
+  },
+  "877103887": {
+   "fragment_id": "877088304",
+   "type": 11,
+   "heading": "Artigo 13.º — Âmbito da mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Âmbito da mobilização\n\n1 - A mobilização é geral ou parcial, conforme abranja a totalidade ou parte dos cidadãos a ela sujeitos.\n\n2 - A mobilização executa-se em todo o território nacional ou em parte dele, bem como em território sob administração portuguesa.\n\n3 - A mobilização vigora por períodos de tempo determinados."
+  },
+  "877103888": {
+   "fragment_id": "877088305",
+   "type": 11,
+   "heading": "Artigo 14.º — Prevalência da mobilização militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prevalência da mobilização militar\n\nQuando recaia sobre o mesmo indivíduo, a mobilização militar deve executar-se com preferência sobre a mobilização civil, sem prejuízo da dispensa do serviço militar efectivo, nos termos do disposto no n.º 2 do artigo 27.º"
+  },
+  "877103889": {
+   "fragment_id": "877088306",
+   "type": 11,
+   "heading": "Artigo 15.º — Desenvolvimento da mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Desenvolvimento da mobilização\n\n1 - A mobilização desenvolve-se por períodos determinados, prorrogáveis ou não, e pode ser escalonada no tempo.\n\n2 - A mobilização geral desenvolve-se, em princípio, de forma progressiva, de acordo com a evolução das necessidades e tendo em contra as capacidades de enquadramento dos recursos humanos mobilizados e o seu emprego efectivo por parte das estruturas a que se destinam.\n\n3 - O âmbito das medidas de mobilização deve ajustar-se permanentemente à evolução da situação que as determinou, por forma a assegurar a plena satisfação das necessidades verificadas e a evitar o deficiente aproveitamento dos recursos humanos."
+  },
+  "877103890": {
+   "fragment_id": "877088307",
+   "type": 11,
+   "heading": "Artigo 16.º — Diploma de mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Diploma de mobilização\n\nA mobilização é decretada pelo Governo, sob a forma de decreto-lei, conforme o artigo 14.º, n.º 4, da Lei de Defesa Nacional e das Forças Armadas."
+  },
+  "877103891": {
+   "fragment_id": "877088308",
+   "type": 11,
+   "heading": "Artigo 17.º — Publicidade da decretação da mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Publicidade da decretação da mobilização\n\n1 - O conteúdo do diploma que decreta a mobilização deve constar de editais, afixados nas juntas de freguesia, câmaras municipais, governos civis e postos consulares.\n\n2 - Os órgãos de comunicação social têm o dever de divulgar gratuitamente o conteúdo integral do diploma de mobilização, nos termos por este previstos."
+  },
+  "877103892": {
+   "fragment_id": "877088309",
+   "type": 11,
+   "heading": "Artigo 18.º — Identificação dos cidadãos mobilizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Identificação dos cidadãos mobilizados\n\nOs cidadãos mobilizados são identificados:\n\na) Por grupos etários, unidades constituídas, contingentes ou classes anuais, a partir das mais recentes, por profissões ou por especialidades;\n\nb) Com base no registo civil, nos registos do recrutamento militar e do serviço cívico, no recenseamento eleitoral ou noutros censos oficiais, gerais ou sectoriais."
+  },
+  "877103893": {
+   "fragment_id": "877088310",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dever de apresentação\n\nDecretada a mobilização, os cidadãos abrangidos, qualquer que seja a sua situação e o lugar onde se encontrem, devem apresentar-se ao órgão de mobilização militar a que estejam afectos ou à entidade responsável pela execução da mobilização civil, conforme o caso, sem esperar notificação individual."
+  },
+  "877103894": {
+   "fragment_id": "877088311",
+   "type": 11,
+   "heading": "Artigo 20.º — Desmobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Desmobilização\n\nA desmobilização é progressiva, iniciando-se, em princípio, pelos indivíduos mobilizados há mais tempo."
+  },
+  "877103895": {
+   "fragment_id": "877088312",
+   "type": 8,
+   "heading": "Secção II — Mobilização militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Mobilização militar"
+  },
+  "877103896": {
+   "fragment_id": "877088313",
+   "type": 11,
+   "heading": "Artigo 21.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Objectivo\n\nA mobilização militar tem por objectivo o aumento da capacidade militar do País pela afectação às Forças Armadas de meios humanos de que estas não dispõem em permanência."
+  },
+  "877103897": {
+   "fragment_id": "877088314",
+   "type": 11,
+   "heading": "Artigo 22.º — Preparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Preparação\n\nA preparação da mobilização militar consiste:\n\na) Na organização e permanente actualização, desde tempo de paz, de registos dos dados dos cidadãos sujeitos a mobilização militar;\n\nb) Na realização de cursos especiais de qualificação ou de actualização, para os cidadãos na reserva de disponibilidade e de licenciamento, necessários para completar o enquadramento das unidades a mobilizar;\n\nc) Na permanente actualização, com base nos quadros orgânicos ou lotações aprovados, da ordem de batalha das unidades, órgãos e formações militares, organizados desde tempo de paz, existentes ou a criar, incluídos nos planos de forças dos ramos das Forças Armadas, para cada situação;\n\nd) Na elaboração dos planos de mobilização militar;\n\ne) Na convocação periódica das tropas do escalão da disponibilidade:\n\ni) Para a prestação de serviço efectivo, com vista à realização de instrução complementar, exercícios ou manobras, nos termos do disposto na Lei do Serviço Militar;\n\nii) Para a apresentação em local e data determinados ou simples resposta dos disponíveis, na forma que for fixada, a fim de testar a operacionalidade do sistema convocatório."
+  },
+  "877103898": {
+   "fragment_id": "877088315",
+   "type": 11,
+   "heading": "Artigo 23.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Execução\n\nLogo que decretada, a execução da mobilização militar envolve sucessivamente as seguintes acções:\n\na) Chamada às fileiras dos cidadãos das unidades constituídas e das classes abrangidas pela mobilização;\n\nb) Guarnição dos órgãos, serviços e infra-estruturas do âmbito das Forças Armadas com os meios humanos necessários de que não dispõem em permanência;\n\nc) Constituição efectiva e colocação em estado de prontidão das unidades, órgãos e formações militares, organizados desde tempo de paz de acordo com o previsto nos planos de mobilização militar."
+  },
+  "877103899": {
+   "fragment_id": "877088316",
+   "type": 11,
+   "heading": "Artigo 24.º — Cidadãos sujeitos a mobilização militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cidadãos sujeitos a mobilização militar\n\n1 - A mobilização militar abrange todos os cidadãos sujeitos a obrigações militares, incorporados ou a incorporar, bem como nas situações de reserva de disponibilidade e licenciamento e de reserva territorial, que possam ser chamados para prestar serviço militar efectivo nas Forças Armadas.\n\n2 - Podem ainda ser abrangidos pela mobilização militar quaisquer cidadãos fora daquelas situações que, pelas suas qualificações ou especialidades técnico-profissionais, sejam indispensáveis às Forças Armadas e tenham de ser colocados na sua dependência.\n\n3 - Não estão sujeitos a mobilização militar os objectores de consciência."
+  },
+  "877103900": {
+   "fragment_id": "877088317",
+   "type": 11,
+   "heading": "Artigo 25.º — Diploma de mobilização militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Diploma de mobilização militar\n\nO diploma de mobilização militar deve fixar, entre outros que se revelem necessários pelas circunstâncias, os seguintes elementos:\n\na) Fundamentação, âmbito, objectivos, data e hora do início, vigência e fases de execução;\n\nb) Unidades constituídas, classes de mobilização, classes de reserva territorial, especialidades e especialistas abrangidos;\n\nc) Período de mobilização de cada militar ou classe, condições em que o período pode ser prorrogado e forma prevista de desmobilização;\n\nd) Cidadãos a mobilizar nos termos do n.º 2 do artigo anterior;\n\ne) Forma, termos e prazos de notificação e de apresentação dos cidadãos."
+  },
+  "877103901": {
+   "fragment_id": "877088318",
+   "type": 11,
+   "heading": "Artigo 26.º — Estatuto dos cidadãos mobilizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Estatuto dos cidadãos mobilizados\n\nOs cidadãos abrangidos pela mobilização militar têm o estatuto dos militares das Forças Armadas."
+  },
+  "877103902": {
+   "fragment_id": "877088319",
+   "type": 11,
+   "heading": "Artigo 27.º — Indisponibilidade para a mobilização militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Indisponibilidade para a mobilização militar\n\n1 - São considerados indisponíveis para efeitos de mobilização militar e, como tal, dispensados das respectivas obrigações, enquanto no exercício das suas funções:\n\na) Os membros do Governo;\n\nb) Os Ministros da República para as Regiões Autónomas;\n\nc) Os membros dos governos das Regiões Autónomas, bem como o Governador de Macau e respectivos secretários-adjuntos;\n\nd) Os deputados à Assembleia da República, às assembleias legislativas regionais e à Assembleia Legislativa de Macau;\n\ne) Os deputados ao Parlamento Europeu;\n\nf) O provedor de Justiça;\n\ng) Os magistrados judiciais e do Ministério Público;\n\nh) Os juízes em funções no Tribunal Constitucional, no Tribunal de Contas e nos tribunais da Comunidade Europeia, bem como, quanto a estes, os respectivos advogados-gerais;\n\ni) Os diplomatas em funções de representação nacional no estrangeiro;\n\nj) Os governadores e os vice-governadores civis;\n\nk) Os presidentes e vereadores a tempo inteiro das câmaras municipais;\n\nl) Os directores-gerais da função pública;\n\nm) Os funcionários de organismos internacionais de que o País seja membro ocupando lugares atribuídos a cidadãos nacionais.\n\n2 - Para além dos cidadãos a que se refere o n.º 1, o diploma de mobilização militar pode dispensar do serviço militar efectivo os cidadãos mobilizados necessários ao funcionamento básico dos órgãos integrantes da organização do poder político do País e de actividades imprescindíveis ao interesse público, à economia ou às necessidades das Forças Armadas, ficando, porém, sujeitos à legislação militar aplicável enquanto não for desmobilizada a classe de mobilização a que pertençam.\n\n3 - Logo que cessem o exercício das funções previstas nos números anteriores, ficam os cidadãos imediatamente obrigados ao respeito do conteúdo integral do seu estatuto de mobilizados."
+  },
+  "877103903": {
+   "fragment_id": "877088320",
+   "type": 8,
+   "heading": "Secção III — Mobilização civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Mobilização civil"
+  },
+  "877103904": {
+   "fragment_id": "877088321",
+   "type": 11,
+   "heading": "Artigo 28.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Objectivo\n\nA mobilização civil tem por objectivo a obtenção e afectação dos recursos humanos que se tenham tornado imprescindíveis para o regular funcionamento das estruturas empresariais ou de serviços, civis ou militares, públicos, privados ou cooperativos, necessários à integral realização dos objectivos permanentes da política de defesa nacional, bem como o reforço e adaptação dos mesmos, conforme as circunstâncias o determinem."
+  },
+  "877103905": {
+   "fragment_id": "877088322",
+   "type": 11,
+   "heading": "Artigo 29.º — Preparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Preparação\n\nA preparação da mobilização civil consiste na elaboração e permanente actualização:\n\na) Dos estudos e planos, a cargo dos competentes órgãos e serviços do Estado e, em especial, dos serviços que intervêm no planeamento civil de emergência e que concorrem para a protecção civil, relativos à definição dos recursos humanos a abranger ou obter por mobilização civil, necessários para:\n\ni) Desenvolver acções no domínio do apoio às Forças Armadas, da segurança das populações e protecção dos seus bens e da salvaguarda do património nacional;\n\nii) Activar programas civis de emergência, em áreas e sectores essenciais da vida nacional, com particular relevo para os relacionados com a saúde, os transportes, os recursos alimentares e energéticos, as matérias-primas, a produção industrial e as telecomunicações;\n\niii) Reforçar os efectivos de pessoal dos órgãos e serviços referidos na alínea b), de modo a permitir a necessária adaptação do seu funcionamento às situações de excepção, bem como suprir faltas que se verifiquem por motivos extraordinários nos quadros de pessoal dos mesmos organismos e serviços, designadamente as resultantes de mobilização militar;\n\niv) Promover acções que visem o aumento da capacidade de resistência e sobrevivência da comunidade nacional;\n\nb) Dos cadastros e registos que incluam a situação relativa à mobilização do pessoal dos ministérios e dos órgãos e serviços que os integram ou que deles dependem, dos órgãos e serviços das Regiões Autónomas e das autarquias locais ou destas dependentes, dos institutos públicos e das empresas públicas, privadas ou cooperativas de interesse colectivo."
+  },
+  "877103906": {
+   "fragment_id": "877088323",
+   "type": 11,
+   "heading": "Artigo 30.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Execução\n\nLogo que decretada, a mobilização civil é de execução imediata, envolvendo, por parte das entidades responsáveis, a notificação dos cidadãos por ela abrangidos, para manutenção no posto de trabalho que detenham à data da mobilização ou para apresentação às entidades que, nos termos do diploma de mobilização, lhes sejam indicadas."
+  },
+  "877103907": {
+   "fragment_id": "877088324",
+   "type": 11,
+   "heading": "Artigo 31.º — Cidadãos sujeitos a mobilização civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cidadãos sujeitos a mobilização civil\n\n1 - A mobilização civil abrange todos os cidadãos maiores de 18 anos que não estejam no exercício de funções decorrentes de serviço efectivo nas Forças Armadas ou nas forças de segurança.\n\n2 - A afectação dos cidadãos mobilizados deve ter em consideração as suas aptidões físicas e intelectuais, bem como, se possível, as respectivas profissões, a idade e a situação familiar.\n\n3 - Os cidadãos aposentados podem ser chamados a desempenhar tarefas compatíveis com as suas aptidões e capacidades.\n\n4 - Os objectores de consciência não podem ser mobilizados para trabalhar no fabrico, reparação ou comércio de armas de qualquer natureza ou no fabrico e comércio das respectivas munições, bem como para trabalhar em investigação científica relacionada com essas actividades."
+  },
+  "877103908": {
+   "fragment_id": "877088325",
+   "type": 11,
+   "heading": "Artigo 32.º — Diploma de mobilização civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Diploma de mobilização civil\n\nO diploma de mobilização civil deve fixar, entre outros que se revelem necessários pelas circunstâncias, os seguintes elementos:\n\na) Fudamentação, âmbito, objectivos, data e hora do início e vigência;\n\nb) Cidadãos abrangidos e entidades a que ficam afectos;\n\nc) Critérios e normas de afectação;\n\nd) Termos e prazos de chamada e de apresentação dos cidadãos mobilizados nos locais de destino ou emprego;\n\ne) Sectores de actividade abrangidos;\n\nf) Forma prevista de desmobilização;\n\ng) Entidades responsáveis pela execução;\n\nh) Conteúdo do estatuto dos cidadãos mobilizados, nos termos do artigo seguinte."
+  },
+  "877103909": {
+   "fragment_id": "877088326",
+   "type": 11,
+   "heading": "Artigo 33.º — Estatuto dos cidadãos mobilizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Estatuto dos cidadãos mobilizados\n\n1 - Os cidadãos mobilizados têm os direitos e obrigações decorrentes do estatuto inerente à função ou à profissão que, pela mobilização, são chamados a desempenhar, sem prejuízo do disposto nos números seguintes e das condições especialmente fixadas no diploma de mobilização.\n\n2 - Não é reconhecido aos cidadãos mobilizados o direito à greve.\n\n3 - A remuneração devida aos cidadãos mobilizados pelas funções desempenhadas, bem como a entidade que a deve suportar, são definidas pelo diploma de mobilização, de acordo com critérios de justiça e equidade, ponderando a gravidade da situação de excepção, o estado da economia nacional, a natureza das funções desempenhadas e as necessidades dos cidadãos mobilizados.\n\n4 - No diploma de mobilização é definido o horário de trabalho a que os cidadãos mobilizados ficam sujeitos, ou os critérios e competência para essa definição, bem como os termos da sua eventual sujeição às disposições do Regulamento de Disciplina Militar.\n\n5 - O serviço prestado por efeito da mobilização civil não substitui as obrigações militares relativas ao serviço efectivo normal."
+  },
+  "877103910": {
+   "fragment_id": "877088327",
+   "type": 11,
+   "heading": "Artigo 34.º — Indisponibilidade para a mobilização civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Indisponibilidade para a mobilização civil\n\n1 - São considerados indisponíveis para efeitos de mobilização civil que não determine a manutenção do posto de trabalho que detenham, e, como tal, dispensados das respectivas obrigações enquanto no exercício das suas funções, os cidadãos que ocupem qualquer dos cargos referidos no artigo 27.º, n.º 1, ou enunciados no diploma de mobilização, nos termos do n.º 2 da mesma disposição, bem como os cidadãos que integrem o quadro de pessoal das empresas ou serviços requisitados.\n\n2 - Logo que cessem o exercício das funções referidas no número anterior, ficam os cidadãos imediatamente obrigados ao respeito do conteúdo integral do seu estatuto de mobilizados."
+  },
+  "877103911": {
+   "fragment_id": "877088328",
+   "type": 1,
+   "heading": "Capítulo III — Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Requisição"
+  },
+  "877103912": {
+   "fragment_id": "877088329",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "877103913": {
+   "fragment_id": "877088330",
+   "type": 11,
+   "heading": "Artigo 35.º — Circunstâncias determinantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Circunstâncias determinantes\n\nA requisição militar e a requisição civil para prossecução de interesses inerentes à defesa nacional podem ser determinadas sempre que os recursos materiais sobre que incidem se tenham tornado imprescindíveis nos termos e para os efeitos previstos no artigo 11.º"
+  },
+  "877103914": {
+   "fragment_id": "877088331",
+   "type": 11,
+   "heading": "Artigo 36.º — Empresas, serviços, coisas e direitos sujeitos a requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Empresas, serviços, coisas e direitos sujeitos a requisição\n\n1 - Podem ser requisitadas as empresas e os serviços, bem como as coisas e os direitos necessários:\n\na) À exploração de indústrias essenciais à defesa nacional;\n\nb) À exploração dos serviços de correios e telecomunicações de qualquer natureza e à comunicação social, conforme o artigo 10.º, alínea i);\n\nc) Ao abastecimento de água, incluindo a sua captação, tratamento, armazenagem e distribuição;\n\nd) À exploração dos serviços de transportes terrestres, marítimos, fluviais e aéreos, bem como dos serviços de operação das infra-estruturas relacionadas com aqueles;\n\ne) À construção e à reparação naval, automóvel ferroviária e aeronáutica;\n\nf) À produção e à importação de recursos energéticos;\n\ng) À produção, transformação, armazenagem, transporte e distribuição de carvão, electricidade, produtos petrolíferos e gás;\n\nh) À exploração das indústrias químico-farmacêuticas e química de base;\n\ni) Às explorações mineiras essenciais;\n\nj) À produção, transformação, armazenagem e distribuição de produtos alimentares, em particular os de primeira necessidade;\n\nk) À prestação de cuidados hospitalares, médicos e medicamentosos, bem como à produção, transformação, armazenagem e distribuição de medicamentos e especialidades médicas;\n\nl) Ao alojamento de pessoas;\n\nm) À salubridade pública;\n\nn) Ao funcionamento do sistema financeiro;\n\no) Aos organismos e instituições de pesquisa científica e de ensino técnico-profissional;\n\np) À importação, produção, armazenagem e distribuição de matérias-primas.\n\n2 - A requisição das empresas e serviços pode limitar-se a determinada prestação de serviços ou produção de bens, com a obrigação de os executar com prioridade, utilizando os meios de que dispõem e conservando a direcção da respectiva actividade.\n\n3 - No caso de requisição de uma empresa ou serviço público, podem estes ser utilizados para fins diferentes, sempre que os objectivos da requisição o justifiquem.\n\n4 - Todas as empresas e serviços cuja actividade se inscreva em qualquer das áreas referidas no n.º 1 devem fornecer às entidades competentes, quando solicitadas, todas as informações referentes às respectivas estruturas e capacidade de produção, para efeitos da preparação da requisição.\n\n5 - As informações fornecidas nos termos do número anterior são classificadas, sendo interdita a sua utilização ou divulgação para outros fins."
+  },
+  "877103915": {
+   "fragment_id": "877088332",
+   "type": 11,
+   "heading": "Artigo 37.º — Intervenção do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Intervenção do Estado\n\nO cumprimento dos termos da requisição pode exigir que o Governo assegure o funcionamento das empresas ou serviços requisitados mediante a intervenção na sua gestão, dando as orientações que se imponham e podendo, quando isso se revele necessário, substituir temporariamente os respectivos órgãos de gestão."
+  },
+  "877103916": {
+   "fragment_id": "877088333",
+   "type": 11,
+   "heading": "Artigo 38.º — Preparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Preparação\n\n1 - A preparação da requisição consiste na prévia definição das empresas, serviços, coisas e direitos indispensáveis à defesa nacional, nomeadamente:\n\na) Na identificação das necessidades e na proposta de estabelecimento de reservas de bens, assim como na fixação dos níveis mínimos de funcionamento de empresas ou serviços integrados em sectores essenciais, pelos órgãos competentes da administração central do Estado;\n\nb) Na elaboração e permanente actualização, pelos ministérios e órgãos e serviços que os integram ou deles dependem, pelos órgãos e serviços das Regiões Autónomas e das autarquias locais ou destas dependentes, pelos institutos públicos e empresas públicas, bem como pelas empresas privadas e cooperativas de interesse colectivo, dos cadastros do respectivo pessoal, material e infra-estruturas existentes e dos efectivos mínimos necessários ao seu funcionamento regular.\n\n2 - A preparação da requisição visa, por parte do Estado:\n\na) A manutenção de níveis mínimos de coisas ou bens essenciais, de forma temporária ou permanente;\n\nb) A garantia do funcionamento mínimo imprescindível de serviços e sectores essenciais para a defesa nacional."
+  },
+  "877103917": {
+   "fragment_id": "877088334",
+   "type": 11,
+   "heading": "Artigo 39.º — Determinação da requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Determinação da requisição\n\n1 - A requisição é determinada por portaria dos membros do Governo competentes, mediante prévio reconhecimento da sua necessidade pelo Conselho de Ministros, sem prejuízo do disposto no artigo 45.º\n\n2 - A determinação da requisição baseia-se em proposta fundamentada dos ministros interessados.\n\n3 - O diploma de requisição deve fixar, clara e expressamente, entre outros que se revelem necessários pelas circunstâncias, os seguintes elementos:\n\na) Fundamentação, âmbito, objectivos, data e hora do início, vigência e fases de execução;\n\nb) Autoridade responsável pela sua execução;\n\nc) Modalidade de gestão da empresa ou serviço requisitado;\n\nd) Estatuto aplicável ao pessoal das empresas e serviços requisitados, nos termos do artigo 43.º;\n\ne) Aplicação das normas de segurança relativas a matérias classificadas;\n\nf) Suspensão, se necessário, da importação, da exportação, da circulação, da utilização e da detenção de determinados bens ou o racionamento do seu consumo."
+  },
+  "877103918": {
+   "fragment_id": "877088335",
+   "type": 11,
+   "heading": "Artigo 40.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Execução\n\n1 - Logo que determinada, a requisição é de execução imediata, devendo as entidades responsáveis pela sua execução:\n\na) Apresentar aos titulares, órgãos de gestão, proprietários ou outros responsáveis, consoante os casos, as notificações de requisição das empresas, dos serviços, das coisas ou dos direitos;\n\nb) Assegurar a conformidade dos serviços prestados e das coisas ou direitos cedidos com os termos das respectivas notificações.\n\n2 - A partir do momento em que tomem conhecimento da requisição, impende sobre os responsáveis pelas empresas e serviços requisitados a obrigação de notificar a data de início dessa requisição aos trabalhadores respectivos, fixando aos ausentes o respectivo prazo de apresentação."
+  },
+  "877103919": {
+   "fragment_id": "877088336",
+   "type": 11,
+   "heading": "Artigo 41.º — Limites da requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Limites da requisição\n\nAs medidas de requisição devem respeitar:\n\na) A compatibilidade entre a requisição e a salvaguarda da vida económica do País;\n\nb) A adequação e a proporcionalidade entre a extensão e a duração das medidas e a satisfação das necessidades verificadas;\n\nc) A reversão ou reconstituição, finda a requisição, de todos os bens ou direitos afectados por esta;\n\nd) O estatuto de objector de consciência."
+  },
+  "877103920": {
+   "fragment_id": "877088337",
+   "type": 11,
+   "heading": "Artigo 42.º — Indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Indemnizações\n\n1 - Sem prejuízo do disposto no artigo 66.º da Lei de Defesa Nacional e das Forças Armadas, os proprietários das empresas e das coisas, os titulares dos direitos e os prestadores dos serviços requisitados têm direito a uma justa indemnização a cargo do Estado, a qual deve ressarcir os danos efectivamente sofridos, calculada nos termos gerais de direito, tendo, no entanto, em consideração a gravidade da situação que determinou a requisição e o estado da economia nacional.\n\n2 - O montante da indemnização é calculado com referência à data em que cessa a requisição, sendo actualizado à data da decisão final do processo, de acordo com critérios de equidade que atendam à evolução do índice de preços no consumidor, mas não deixando de considerar o estado da economia nacional.\n\n3 - O montante da indemnização e a forma de pagamento são fixados por negociação ou por arbitragem, com recurso para os tribunais nos termos gerais, aplicando-se o regime estatuído para a expropriação por utilidade pública, com as necessárias adaptações."
+  },
+  "877103921": {
+   "fragment_id": "877088338",
+   "type": 11,
+   "heading": "Artigo 43.º — Estatuto do pessoal das empresas e serviços requisitados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Estatuto do pessoal das empresas e serviços requisitados\n\n1 - O estatuto do pessoal das empresas e serviços requisitados é idêntico ao dos cidadãos abrangidos pela mobilização civil, conforme o artigo 28.º\n\n2 - Para efeitos do disposto no número anterior, o diploma de requisição civil conterá os elementos referidos na alínea h) do artigo 32.º\n\n3 - O pessoal das empresas e serviços requisitados não tem direito a qualquer indemnização, para além da remuneração correspondente ao respectivo contrato e ao trabalho suplementar que seja obrigado a prestar.\n\n4 - O pessoal das empresas e dos serviços requisitados que se encontre nas situações de reserva de disponibilidade ou de licenciamento e de reserva territorial pode ser chamado ao serviço efectivo durante o tempo em que se mantiver a requisição e para efeitos desta."
+  },
+  "877103922": {
+   "fragment_id": "877088339",
+   "type": 11,
+   "heading": "Artigo 44.º — Substituição de pessoal de nacionalidade estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Substituição de pessoal de nacionalidade estrangeira\n\nTendo em consideração o interesse da defesa nacional, pode o diploma de requisição determinar a substituição dos trabalhadores nacionais de países inimigos, que prestem serviço nas empresas ou nos serviços requisitados, enquanto se mantiver a requisição."
+  },
+  "877103923": {
+   "fragment_id": "877088340",
+   "type": 8,
+   "heading": "Secção II — Situações especiais de requisição militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Situações especiais de requisição militar"
+  },
+  "877103924": {
+   "fragment_id": "877088341",
+   "type": 11,
+   "heading": "Artigo 45.º — Situações especiais de determinação da requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Situações especiais de determinação da requisição\n\nEm tempo de guerra, bem como nos casos em que tenha sido declarado o estado de sítio em virtude de agressão efectiva ou iminente por forças estrangeiras, pode a requisição militar efectivar-se em situação de campanha, por ordem escrita do comandante militar dentro da sua área de responsabilidade, quando ocorram operações militares e o decurso destas imponha a execução imediata da requisição."
+  },
+  "877103925": {
+   "fragment_id": "877088342",
+   "type": 11,
+   "heading": "Artigo 46.º — Bens, direitos, locais e instalações prioritárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Bens, direitos, locais e instalações prioritárias\n\n1 - São prioritariamente sujeitos a requisição militar, quando considerados indispensáveis à satisfação de necessidades impreteríveis das Forças Armadas, os seguintes bens e direitos:\n\na) Armamento, equipamento, tecidos, vestuário e calçado;\n\nb) Aeronaves, navios, embarcações e veículos de qualquer tipo, com ou sem a respectiva tripulação, guarnição e pessoal de apoio essencial;\n\nc) Combustíveis e lubrificantes, bens de uso e consumo, víveres e animais para abate;\n\nd) Matérias-primas, aparelhagem e sobresselentes, de qualquer género e especialidade;\n\ne) Medicamentos, especialidades médicas e farmacêuticas e meios sanitários;\n\nf) Direitos de propriedade industrial.\n\n2 - São ainda prioritariamente sujeitos a requisição militar os locais e instalações com condições adequadas à montagem e funcionamento de:\n\na) Estados-maiores, comandos e chefias, corpos de guarda e segurança prisional;\n\nb) Comunicações militares e seus meios e equipamentos;\n\nc) Cozinhas e refeitórios, incluindo os meios e equipamentos;\n\nd) Postos de assistência médica e sanitária;\n\ne) Aparcamento de viaturas, material e equipamento que acompanham as tropas;\n\nf) Aboletamento e bivaque do pessoal militar e civil ao serviço das Forças Armadas;\n\ng) Armazenagem de víveres e materiais."
+  },
+  "877103926": {
+   "fragment_id": "877088343",
+   "type": 11,
+   "heading": "Artigo 47.º — Requisição de alojamento e outros bens para forças em campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Requisição de alojamento e outros bens para forças em campanha\n\n1 - Quando, em situação de campanha e nas zonas de operações, as forças, em marcha ou acantonadas, não possam ser alojadas, no todo ou em parte, nos quartéis ou em quaisquer outras instalações do Estado, militares ou não, os comandantes têm autoridade para proceder à requisição dos meios e do direito de alojamento das instalações ou serviços indispensáveis ao cumprimento da sua missão.\n\n2 - Esgotadas as capacidades de alojamento dos quartéis, são prioritariamente requisitáveis as instalações do Estado ou das autarquias locais, devendo a requisição incidir sucessivamente sobre as unidades existentes de hotelaria e actividades afins e sobre as disponibilidades de alojamento nas residências dos habitantes da área, podendo incluir a alimentação.\n\n3 - Os comandantes das forças mencionadas no n.º 1 têm autoridade para, em caso de urgência, procederem, no próprio local e mediante ordem escrita, à requisição dos utensílios, equipamentos, materiais, serviços e meios auxiliares que se tornem necessários, na contingência, para o cumprimento da sua missão.\n\n4 - Consideram-se equivalentes a forças em marcha ou acantonadas, em situação de campanha na zona de operações, para efeitos de alojamento:\n\na) Os militares enquadrados e os militares portadores de guia de marcha, em trânsito para as unidades naquela zona a que se destinam;\n\nb) As forças cujo concurso foi reclamado para efectuar trabalhos de interesse geral, designadamente em casos de sinistro, acidentes graves ou calamidade pública, em tempo de guerra ou estado de sítio declarado em virtude de agressão efectiva ou iminente por forças estrangeiras."
+  },
+  "877103927": {
+   "fragment_id": "877088344",
+   "type": 11,
+   "heading": "Artigo 48.º — Condições de requisição de locais de alojamento de forças em campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Condições de requisição de locais de alojamento de forças em campanha\n\n1 - A requisição, nos termos do artigo anterior, de um local de habitação ocupado só pode efectuar-se quando se trate de necessidades militares de carácter excepcional e imediato e as circunstâncias verificadas impossibilitem o recurso a outra solução.\n\n2 - Quando, nos termos previstos no número anterior, seja necessário proceder à requisição da totalidade de um local de habitação ocupado de forma efectiva, as autoridades responsáveis pela requisição devem assegurar o imediato alojamento dos habitantes, em condições tão próximas quanto possível daquelas de que dispunham, em especial nos casos de habitação onde haja mulher em adiantado estado de gravidez ou pessoa permanentemente acamada, inválida, deficiente ou carente de cuidados intensivos ou, ainda, que padeça de doença grave.\n\n3 - A requisição de locais para alojamento de forças é interdita quando se trate de:\n\na) Habitações onde se encontrem pessoas sofrendo de doença infecto-contagiosa;\n\nb) Hospitais, clínicas e quaisquer outros locais reservados a hospitalização ou assistência aos feridos e doentes, salvo quando as autoridades militares os considerem como ambulatórios, postos de saúde e assistência ou enfermarias e, como tal, os anexarem aos serviços de saúde militares."
+  },
+  "877103928": {
+   "fragment_id": "877088345",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "877103929": {
+   "fragment_id": "877088346",
+   "type": 11,
+   "heading": "Artigo 49.º — Crime de deserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Crime de deserção\n\n1 - Os cidadãos abrangidos pela mobilização civil que não se apresentem no local que lhes tenha sido determinado, nos 10 dias subsequentes à data fixada para a sua apresentação, bem como os que abandonem o serviço de que estavam incumbidos por efeito da mobilização civil, por 8 dias consecutivos, cometem o crime essencialmente militar de deserção, sendo punidos, em tempo de paz, com a pena de prisão militar de 2 a 5 anos.\n\n2 - Os trabalhadores a que se aplica o estatuto de cidadãos abrangidos pela mobilização civil, nos termos do n.º 1 do artigo 43.º, que abandonem o serviço de que estavam incumbidos, por 8 dias consecutivos durante a vigência da requisição que lhes tenha sido notificada pelo respectivo órgão de gestão, bem como os que, estando ausentes da empresa ou serviço requisitado, não compareçam aí nos 10 dias subsequentes ao fim do prazo que lhes tenha sido notificado para a sua apresentação, cometem o crime previsto no número anterior, sendo punidos, em tempo de paz, com a pena de prisão militar de 2 a 5 anos.\n\n3 - Aquele que, em tempo de guerra ou estado de sítio declarado em virtude de agressão efectiva ou iminente por forças estrangeiras, praticar qualquer dos factos descritos nos números anteriores, mas sendo os respectivos prazos reduzidos a metade, é punido com prisão militar de 10 a 15 anos."
+  },
+  "877103930": {
+   "fragment_id": "877088347",
+   "type": 11,
+   "heading": "Artigo 50.º — Crime de desobediência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Crime de desobediência\n\nO não cumprimento de qualquer ordem legítima dada em execução do disposto no presente diploma e respectiva legislação complementar, para além da punição disciplinar a que der lugar, é punido como desobediência qualificada quando não integrar outro tipo penal comum ou militar."
+  },
+  "877103931": {
+   "fragment_id": "877088348",
+   "type": 11,
+   "heading": "Artigo 51.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Regulamentação\n\n1 - O Governo regulamentará, por decreto-lei, o presente diploma.\n\n2 - A regulamentação concretizará, nomeadamente, as seguintes matérias:\n\na) Definição da estrutura e funcionamento do Sistema Nacional de Mobilização e Requisição;\n\nb) Termos da intervenção das várias entidades responsáveis pela preparação e execução da mobilização e da requisição;\n\nc) Termos da intervenção do Estado nas empresas requisitadas;\n\nd) Critérios de cálculo da indemnização por requisição, processo tendente à sua fixação, entidades responsáveis pela sua liquidação e modos de pagamento, bem como condições de reversão dos direitos abrangidos pela requisição;\n\ne) Eventual sujeição às normas sobre protecção das matérias classificadas relativas às informações, documentos e actividades desenvolvidas no âmbito da defesa nacional."
+  },
+  "877103932": {
+   "fragment_id": "877088349",
+   "type": 11,
+   "heading": "Artigo 52.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 32670, de 17 de Fevereiro de 1943, bem como toda a demais legislação que contrarie o disposto na presente lei e legislação complementar."
+  },
+  "877103933": {
+   "fragment_id": "877088350",
+   "type": 11,
+   "heading": "Artigo 53.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Entrada em vigor\n\nA presente lei, com excepção do artigo 51.º, entra em vigor simultaneamente com o decreto-lei que a regulamenta."
+  },
+  "877103935": {
+   "fragment_id": "877088346",
+   "type": 11,
+   "heading": "Artigo 49.º — Crime de deserção",
+   "in_force_from": "2004-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 100/2003 - Diário da República n.º 265/2003, Série I-A de 2003-11-15](https://diariodarepublica.pt/dr/detalhe/lei/100-2003-446475), em vigor a partir de 2004-09-14"
+   ],
+   "markdown": "###### Artigo 49.º — Crime de deserção\n\n1 - Os cidadãos abrangidos pela mobilização civil que não se apresentem no local que lhes tenha sido determinado, nos 10 dias subsequentes à data fixada para a sua apresentação, bem como os que abandonem o serviço de que estavam incumbidos por efeito da mobilização civil, por 8 dias consecutivos, cometem o crime essencialmente militar de deserção, sendo punidos, em tempo de paz, com a pena de prisão militar de 2 a 5 anos.\n\n2 - Os trabalhadores a que se aplica o estatuto de cidadãos abrangidos pela mobilização civil, nos termos do n.º 1 do artigo 43.º, que abandonem o serviço de que estavam incumbidos, por 8 dias consecutivos durante a vigência da requisição que lhes tenha sido notificada pelo respectivo órgão de gestão, bem como os que, estando ausentes da empresa ou serviço requisitado, não compareçam aí nos 10 dias subsequentes ao fim do prazo que lhes tenha sido notificado para a sua apresentação, cometem o crime previsto no número anterior, sendo punidos, em tempo de paz, com a pena de prisão militar de 2 a 5 anos.\n\n3 - Aquele que, em tempo de guerra ou estado de sítio declarado em virtude de agressão efectiva ou iminente por forças estrangeiras, praticar qualquer dos factos descritos nos números anteriores, mas sendo os respectivos prazos reduzidos a metade, é punido com prisão militar de 10 a 15 anos.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 100/2003 - Diário da República n.º 265/2003, Série I-A de 2003-11-15](https://diariodarepublica.pt/dr/detalhe/lei/100-2003-446475), em vigor a partir de 2004-09-14"
+  },
+  "877103934": {
+   "fragment_id": "877088351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Maio de 1995.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 17 de Junho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 21 de Junho de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "877103936": {
+   "fragment_id": "877088299",
+   "type": 11,
+   "heading": "Artigo 10.º — Intervenção de outras entidades",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 10.º — Intervenção de outras entidades\n\nIntervêm ainda na preparação e execução da mobilização e da requisição:\n\na) Os Representantes da República das Regiões Autónomas dos Açores e da Madeira;\n\nb) Os órgãos de governo próprio e os órgãos e serviços da administração regional das Regiões Autónomas dos Açores e da Madeira;\n\nc) (Revogada.)\n\nd) Os demais órgãos e serviços da administração directa e indirecta do Estado;\n\ne) As autarquias locais;\n\nf) As forças de segurança;\n\ng) Os serviços de correios e telecomunicações, bem como os serviços de transportes pertencentes a qualquer sector de propriedade;\n\nh) As empresas públicas, privadas e cooperativas de interesse colectivo;\n\ni) Os órgãos de comunicação social.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "877103937": {
+   "fragment_id": "877088308",
+   "type": 11,
+   "heading": "Artigo 17.º — Publicidade da decretação da mobilização",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 17.º — Publicidade da decretação da mobilização\n\n1 - O conteúdo do diploma que decreta a mobilização deve constar de editais afixados nas juntas de freguesia, câmaras municipais e postos consulares.\n\n2 - Os órgãos de comunicação social têm o dever de divulgar gratuitamente o conteúdo integral do diploma de mobilização, nos termos por este previstos.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "877103938": {
+   "fragment_id": "877088319",
+   "type": 11,
+   "heading": "Artigo 27.º — Indisponibilidade para a mobilização militar",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 27.º — Indisponibilidade para a mobilização militar\n\n1 - São considerados indisponíveis para efeitos de mobilização militar e, como tal, dispensados das respectivas obrigações, enquanto no exercício das suas funções:\n\na) Os membros do Governo;\n\nb) Os Representantes da República para as Regiões Autónomas;\n\nc) Os membros dos Governos das Regiões Autónomas;\n\nd) Os deputados à Assembleia da República;\n\ne) Os deputados ao Parlamento Europeu;\n\nf) O provedor de Justiça;\n\ng) Os magistrados judiciais e do Ministério Público;\n\nh) Os juízes em funções no Tribunal Constitucional, no Tribunal de Contas e nos tribunais da Comunidade Europeia, bem como, quanto a estes, os respectivos advogados-gerais;\n\ni) Os diplomatas em funções de representação nacional no estrangeiro;\n\nj) (Revogada.)\n\nk) Os presidentes e vereadores a tempo inteiro das câmaras municipais;\n\nl) Os directores-gerais da função pública;\n\nm) Os funcionários de organismos internacionais de que o País seja membro ocupando lugares atribuídos a cidadãos nacionais.\n\n2 - Para além dos cidadãos a que se refere o n.º 1, o diploma de mobilização militar pode dispensar do serviço militar efectivo os cidadãos mobilizados necessários ao funcionamento básico dos órgãos integrantes da organização do poder político do País e de actividades imprescindíveis ao interesse público, à economia ou às necessidades das Forças Armadas, ficando, porém, sujeitos à legislação militar aplicável enquanto não for desmobilizada a classe de mobilização a que pertençam.\n\n3 - Logo que cessem o exercício das funções previstas nos números anteriores, ficam os cidadãos imediatamente obrigados ao respeito do conteúdo integral do seu estatuto de mobilizados.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  }
+ }
+}

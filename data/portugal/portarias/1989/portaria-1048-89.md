@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:550782:por
+title: Portaria n.º 1048/89
+short_title: null
+summary: Altera o quadro do pessoal da Auditoria Jurídica do Ministério da Justiça
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Justiça
+proposing_entity: null
+official_number: 1048/89
+official_date: null
+publication_date: '1989-12-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 279/1989, Série I de 1989-12-05
+  number: '279'
+  series: I
+  supplement: null
+  pages: 5300 - 5300
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/12/27900/53005300.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '550782'
+  dre_path: /dr/detalhe/portaria/1048-1989-550782
+  internal: pt:dre:550782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1048-1989-550782
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1048-1989-550782
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-12-05T00:00:00Z'
+integrity:
+  source_sha256: 89550f8994966a04cf075344127bf836802684ef8856820fddf54a02beb92333
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-1048-550782.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1048/89
+
+de 5 de Dezembro
+
+Considerando a conveniência de alterar o quadro do pessoal da Auditoria Jurídica do Ministério da Justiça constante do quadro anexo à [Portaria n.º 275/88](https://diariodarepublica.pt/dr/detalhe/portaria/275-1988-373617), de 4 de Maio, alterado por força do preceituado pelo [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho;
+
+Ao abrigo do disposto no artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças e da Justiça, que o quadro do pessoal da Auditoria Jurídica do Ministério da Justiça passe a ser o constante do mapa anexo à presente portaria, da qual faz parte integrante.
+
+Ministérios das Finanças e da Justiça.
+
+**Assinada em 30 de Setembro de 1989.**
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Justiça, Joaquim Fernando Nogueira.
+
+Quadro anexo à Portaria n.º 1048/89
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/27900/53005300.pdf))](https://files.diariodarepublica.pt/1s/1989/12/27900/53005300.pdf)

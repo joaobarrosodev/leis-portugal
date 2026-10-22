@@ -1,0 +1,591 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:216759:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-871579576",
+ "dre_path": "/dr/detalhe/portaria/1085-a-2004-216759",
+ "source_lastmod": "2024-07-10",
+ "versions": [
+  {
+   "date": "2004-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871579810",
+    "871579776",
+    "871579777",
+    "871579778",
+    "871579779",
+    "871579780",
+    "871579781",
+    "871579782",
+    "871579783",
+    "871579784",
+    "871579785",
+    "871579786",
+    "871579787",
+    "871579788",
+    "871579789",
+    "871579790",
+    "871579791",
+    "871579792",
+    "871579793",
+    "871579794",
+    "871579795",
+    "871579796",
+    "871579797",
+    "871579798",
+    "871579799",
+    "871579800",
+    "871579801",
+    "871579802",
+    "871579804",
+    "871579805",
+    "871579806",
+    "871579807"
+   ]
+  },
+  {
+   "date": "2005-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:578540:por",
+     "title": "Portaria n.º 288/2005",
+     "published": "2005-03-21",
+     "dre_path": "/dr/detalhe/portaria/288-2005-578540"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Anexo III",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "871579810",
+    "871579776",
+    "871579817",
+    "871579778",
+    "871579779",
+    "871579780",
+    "871579781",
+    "871579782",
+    "871579820",
+    "871579784",
+    "871579811",
+    "871579786",
+    "871579821",
+    "871579818",
+    "871579789",
+    "871579790",
+    "871579791",
+    "871579792",
+    "871579793",
+    "871579794",
+    "871579795",
+    "871579796",
+    "871579797",
+    "871579798",
+    "871579799",
+    "871579800",
+    "871579801",
+    "871579802",
+    "871579803",
+    "871579804",
+    "871579805",
+    "871579819",
+    "871579807"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641076:por",
+     "title": "Lei n.º 47/2007",
+     "published": "2007-08-28",
+     "dre_path": "/dr/detalhe/lei/47-2007-641076"
+    }
+   ],
+   "changes": [
+    "Revoga Secção II",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Capítulo IV",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "871579810",
+    "871579776",
+    "871579817",
+    "871579778",
+    "871579779",
+    "871579780",
+    "871579781",
+    "871579782",
+    "871579820",
+    "871579822",
+    "871579828",
+    "871579829",
+    "871579830",
+    "871579831",
+    "871579832",
+    "871579790",
+    "871579791",
+    "871579792",
+    "871579793",
+    "871579794",
+    "871579795",
+    "871579796",
+    "871579833",
+    "871579837",
+    "871579838",
+    "871579839",
+    "871579801",
+    "871579802",
+    "871579803",
+    "871579804",
+    "871579805",
+    "871579819",
+    "871579807"
+   ]
+  }
+ ],
+ "fragments": {
+  "871579810": {
+   "fragment_id": "871579577",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1085-A/2004\n\nde 31 de Agosto\n\nA Lei n.º 34/2004, de 29 de Julho, procedeu a alterações profundas no regime de acesso ao direito e aos tribunais com o claro fito de introduzir um maior rigor na concessão da protecção jurídica, assim assegurando o efectivo exercício de um direito constitucionalmente garantido.\n\nA concessão do benefício passa agora a depender da apreciação da situação de insuficiência económica do requerente, efectuada de acordo com critérios objectivos previstos no referido diploma. Assim se restringe a disparidade de resultados na avaliação dos requerimentos, garantindo-se, outrossim, que o benefício é concedido a todos os que dele carecem, mas só aos que realmente precisam e na medida da sua necessidade.\n\nA presente portaria procede à concretização dos critérios de prova e de apreciação da insuficiência económica, com vista à sua boa execução.\n\nEnumeram-se, por um lado, os documentos que devem acompanhar o requerimento de protecção jurídica, procurando evitar, desta forma, a multiplicação de pedidos de informação complementar e, consequentemente, acelerar a tomada de decisão pela entidade competente.\n\nÉ também concretizada a fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica a que se refere o critério de avaliação da insuficiência económica do requerente previsto na lei.\n\nReconhecendo as vantagens, para o Estado e para os beneficiários da protecção jurídica, da uniformização dos montantes e das datas de liquidação das prestações correspondentes ao apoio judiciário na modalidade de pagamento faseado, definem-se cinco valores fixos de prestações e regras quanto à periodicidade da respectiva liquidação. A presente regulamentação responde assim ao propósito de simplificação do procedimento administrativo gizado na lei, atribuindo, simultaneamente, uma vantagem adicional aos beneficiários de apoio judiciário na modalidade de pagamento faseado cujo valor da prestação, apurado nos termos da lei e concretizado pela presente portaria, se situe no intervalo entre um valor fixo e o valor fixo imediatamente seguinte. Nestes casos, o montante a liquidar é, pois, definido por referência ao valor fixo mais baixo.\n\nAinda no âmbito do apoio judiciário na modalidade de pagamento faseado, prevê-se a possibilidade de suspensão do pagamento das prestações sempre que o respectivo somatório atinja determinado montante, sem prejuízo de eventual acerto a final.\n\nCumpre, por último, desenvolver o regime consagrado no n.º 2 do artigo 20.º da Lei n.º 34/2004, de 29 de Julho, fixando a duração do mandato dos membros da comissão aí prevista e definindo regras relativas ao procedimento de decisão de concessão do pedido de protecção jurídica.\n\nAssim:\n\nManda o Governo, pelos Ministros da Justiça e da Segurança Social, da Família e da Criança, ao abrigo do disposto na alínea c) do artigo 199.º da Constituição e da Lei n.º 34/2004, de 29 de Julho, o seguinte:"
+  },
+  "871579776": {
+   "fragment_id": "871579578",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "871579777": {
+   "fragment_id": "871579579",
+   "type": 11,
+   "heading": "Artigo 1.º — Apresentação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Apresentação de documentos\n\n1 - Com o requerimento de protecção jurídica devem ser juntos os documentos referidos nos artigos 3.º a 5.º e 14.º e 15.º da presente portaria.\n\n2 - O requerente deve juntar ainda, com o requerimento de protecção jurídica, outros documentos comprovativos das declarações prestadas, incluindo documentos de identificação pessoal do requerente e do respectivo agregado familiar, no caso de se tratar de pessoa singular, ou, tratando-se de pessoa colectiva ou equiparada, cópia do pacto social actualizado, no caso das sociedades, e outros documentos de identificação do requerente e respectivos representantes legais, se existirem.\n\n3 - Sem prejuízo do pedido de apresentação de provas a que haja lugar nos termos da lei, a falta de entrega dos documentos referidos nos números anteriores suspende o prazo de produção do deferimento tácito do pedido de protecção jurídica."
+  },
+  "871579778": {
+   "fragment_id": "871579580",
+   "type": 11,
+   "heading": "Artigo 2.º — Apreciação em concreto da insuficiência económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Apreciação em concreto da insuficiência económica\n\nO disposto na presente portaria não prejudica a possibilidade de ser concretamente apreciada a situação económica dos requerentes de protecção jurídica, nos termos previstos no n.º 2 do artigo 20.º da Lei n.º 34/2004, de 29 de Julho."
+  },
+  "871579779": {
+   "fragment_id": "871579581",
+   "type": 1,
+   "heading": "Capítulo II — Pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Pessoas singulares"
+  },
+  "871579780": {
+   "fragment_id": "871579582",
+   "type": 8,
+   "heading": "Secção I — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Documentos"
+  },
+  "871579781": {
+   "fragment_id": "871579583",
+   "type": 11,
+   "heading": "Artigo 3.º — Documentos relativos ao rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Documentos relativos ao rendimento\n\n1 - Os factos relativos ao rendimento do requerente e das pessoas do seu agregado familiar são acompanhados das cópias da última declaração de rendimentos para efeitos de imposto sobre o rendimento das pessoas singulares (IRS) que tenha sido apresentada e da respectiva nota de liquidação, se já tiver sido emitida, ou, na falta da referida declaração, de certidão emitida pelo serviço de finanças competente.\n\n2 - É igualmente necessária a junção dos seguintes documentos, quer respeitantes ao requerente de protecção jurídica, quer às pessoas que com aquele vivam em economia comum:\n\na) Cópias dos recibos de vencimento emitidos pela entidade patronal nos últimos seis meses, no caso de se tratar de trabalhador dependente;\n\nb) Cópias das declarações de imposto sobre o valor acrescentado (IVA) referentes aos dois últimos trimestres e documentos comprovativos do respectivo pagamento, bem como cópias dos recibos emitidos nos últimos seis meses, no caso de se tratar de trabalhador independente;\n\nc) Documento comprovativo do valor actualizado de qualquer prestação social de que seja beneficiário que tenha sido atribuída por sistema diverso do sistema de segurança social português;\n\nd) Declaração de inscrição no centro de emprego, se se tratar de desempregado que não beneficie de qualquer subsídio."
+  },
+  "871579782": {
+   "fragment_id": "871579584",
+   "type": 11,
+   "heading": "Artigo 4.º — Documentos relativos aos activos patrimoniais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Documentos relativos aos activos patrimoniais\n\n1 - O requerente deve juntar os seguintes documentos relativos aos activos patrimoniais de que ele ou qualquer elemento do seu agregado familiar seja titular:\n\na) Cópia da caderneta predial actualizada ou certidão de teor matricial emitida pelo serviço de finanças competente e cópia do documento que haja titulado a respectiva aquisição, no caso de se tratar de bens imóveis;\n\nb) Documento comprovativo do valor da cotação verificada no dia anterior ao da apresentação do requerimento ou cópia do documento que haja titulado a respectiva aquisição, tratando-se de valores mobiliários cotados em mercado regulamentado ou de participações sociais;\n\nc) Cópias do livrete e do registo de propriedade, no caso de se tratar de veículos automóveis.\n\n2 - Se o requerente ou as pessoas que com ele vivam em economia comum forem titulares dos órgãos de administração de pessoa colectiva ou sócios detentores de uma participação social igual ou superior a 10% do capital social de uma sociedade devem ser juntos ao requerimento de protecção jurídica os documentos exigidos no artigo 14.º relativamente à pessoa colectiva."
+  },
+  "871579783": {
+   "fragment_id": "871579585",
+   "type": 11,
+   "heading": "Artigo 5.º — Documentos relativos a despesas com habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Documentos relativos a despesas com habitação\n\nO requerente deve juntar os seguintes documentos comprovativos da despesa suportada pelo agregado familiar com a respectiva habitação:\n\na) Cópia do contrato de arrendamento da casa de morada de família ou do último recibo de renda; ou\n\nb) Documento comprovativo do pagamento da última prestação relativa a empréstimo para aquisição da casa de morada de família."
+  },
+  "871579784": {
+   "fragment_id": "871579586",
+   "type": 8,
+   "heading": "Secção II — Apreciação do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Apreciação do requerimento"
+  },
+  "871579785": {
+   "fragment_id": "871579587",
+   "type": 11,
+   "heading": "Artigo 6.º — Rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rendimento relevante para efeitos de protecção jurídica\n\n1 - Para efeitos do disposto no anexo da Lei n.º 34/2004, de 29 de Julho, o rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é o montante que resulta da diferença entre o valor do rendimento líquido completo do agregado familiar (Y(índice C)) e o valor da dedução relevante para efeitos de protecção jurídica (A), ou seja, Y(índice AP) = Y(índice B) - A.\n\n2 - O rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é expresso em múltiplos do salário mínimo nacional.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579786": {
+   "fragment_id": "871579588",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimento líquido completo do agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Rendimento líquido completo do agregado familiar\n\n1 - O valor do rendimento líquido completo do agregado familiar (Y(índice C)) resulta da soma do valor da receita líquida do agregado familiar (Y) com o montante da renda financeira implícita calculada com base nos activos patrimoniais do agregado familiar (Y(índice R)), ou seja, Y(índice C) = Y + Y(índice R).\n\n2 - Por receita líquida do agregado familiar (Y) entende-se o rendimento depois da dedução do imposto sobre o rendimento, das contribuições obrigatórias dos empregados para regimes de segurança social e das contribuições dos empregadores para a segurança social.\n\n3 - O cálculo da renda financeira implícita é efectuado nos termos previstos no artigo 10.º da presente portaria.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579787": {
+   "fragment_id": "871579589",
+   "type": 11,
+   "heading": "Artigo 8.º — Dedução relevante para efeitos de protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dedução relevante para efeitos de protecção jurídica\n\n1 - O valor da dedução relevante para efeitos de protecção jurídica (A) resulta da soma do valor da dedução de encargos com necessidades básicas do agregado familiar (D) com o montante da dedução de encargos com a habitação do agregado familiar (H), ou seja, A = D + H.\n\n2 - O valor da dedução de encargos com necessidades básicas do agregado familiar (D) resulta da aplicação da seguinte fórmula:\n\n(ver fórmula no documento original)\n\n3 - O montante da dedução de encargos com a habitação do agregado familiar (H) resulta da aplicação do coeficiente h ao valor do rendimento líquido completo do agregado familiar (Y(índice C)), ou seja, H = h x Y(índice C), em que h é determinado em função dos diversos escalões de rendimento, de acordo com o previsto no anexo II.\n\n4 - O cálculo do montante da dedução de encargos com a habitação do agregado familiar (H) apenas tem lugar se o seu valor for superior ao montante da despesa efectivamente suportada pelo agregado familiar com o pagamento de renda da casa de morada de família ou de prestações para a sua aquisição ou no caso de não ter sido declarada qualquer despesa com a habitação do agregado familiar; caso o valor realmente despendido (B) seja inferior, é este o valor considerado.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579788": {
+   "fragment_id": "871579590",
+   "type": 11,
+   "heading": "Artigo 9.º — Fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica\n\n1 - Sem prejuízo do disposto no número seguinte, a fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica, especificada nos artigos anteriores e no anexo III, é a seguinte:\n\n(ver fórmula no documento original)\n\n2 - Se, porém, o montante da despesa efectivamente suportada pelo agregado familiar com o pagamento de renda da casa de morada de família ou de prestações para a sua aquisição (B) for inferior ao montante que resulte da aplicação do coeficiente de dedução de encargos com a habitação do agregado familiar previsto no artigo anterior, a fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica é a seguinte:\n\n(ver fórmula no documento original)\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579789": {
+   "fragment_id": "871579591",
+   "type": 11,
+   "heading": "Artigo 10.º — Cálculo da renda financeira implícita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cálculo da renda financeira implícita\n\n1 - O montante da renda financeira implícita a que se refere o n.º 1 do artigo 7.º é calculado mediante a aplicação de uma taxa de juro de referência ao valor dos activos patrimoniais do agregado familiar.\n\n2 - A taxa de juro de referência é a taxa EURIBOR a seis meses correspondente ao valor médio verificado nos meses de Dezembro ou de Junho últimos, consoante o requerimento de protecção jurídica seja apresentado, respectivamente, no 1.º ou no 2.º semestre do ano civil em curso.\n\n3 - Entende-se por valor dos bens imóveis aquele que for mais elevado entre o declarado pelo requerente no pedido de protecção jurídica, o inscrito na matriz predial e o constante do documento que haja titulado a respectiva aquisição.\n\n4 - Quando se trate da casa de morada de família, no cálculo referido no n.º 1 apenas se contabiliza o valor daquela se for superior a (euro) 100000 e na estrita medida desse excesso.\n\n5 - O valor das participações sociais e dos valores mobiliários é aquele que resultar da cotação observada em bolsa no dia anterior ao da apresentação do requerimento de protecção jurídica ou, na falta deste, o seu valor nominal.\n\n6 - Entende-se por valor dos veículos automóveis o respectivo valor de mercado.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579790": {
+   "fragment_id": "871579592",
+   "type": 8,
+   "heading": "Secção III — Modalidade de pagamento faseado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Modalidade de pagamento faseado"
+  },
+  "871579791": {
+   "fragment_id": "871579593",
+   "type": 11,
+   "heading": "Artigo 11.º — Periodicidade da liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Periodicidade da liquidação\n\n1 - Sem prejuízo do disposto no artigo seguinte, a prestação mensal para pagamento faseado de taxa de justiça e demais encargos com o processo, de honorários de patrono nomeado e de remuneração do solicitador de execução designado, apurada de acordo com os critérios definidos no n.º II do anexo da Lei n.º 34/2004, de 29 de Julho, é liquidada mensal, trimestral, semestral ou anualmente, pelo montante correspondente ao período em referência, nos termos definidos nos números seguintes.\n\n2 - Se o valor da prestação apurado de acordo com os critérios definidos no n.º II do anexo da Lei n.º 34/2004, de 29 de Julho, for igual ou superior a 0,5 UC, a liquidação é efectuada mensalmente.\n\n3 - Se o valor da prestação apurado de acordo com os critérios definidos no n.º II do anexo da Lei n.º 34/2004, de 29 de Julho, for inferior a 0,5 UC, a liquidação é efectuada trimestral ou semestralmente, consoante, respectivamente, o seu triplo ou o seu sêxtuplo perfaçam, no mínimo, 0,5 UC.\n\n4 - Nos casos não abrangidos nos números anteriores, a liquidação da prestação apurada de acordo com os critérios definidos no n.º II do anexo da Lei n.º 34/2004, de 29 de Julho, é efectuada anualmente."
+  },
+  "871579792": {
+   "fragment_id": "871579594",
+   "type": 11,
+   "heading": "Artigo 12.º — Valor a liquidar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Valor a liquidar\n\nO valor a liquidar pelo requerente é o constante da tabela do anexo IV desta portaria, o qual é definido por referência ao montante mensal, trimestral, semestral ou anual apurado nos termos do artigo anterior.\n\n> Nota: [III - Decisão, Acórdão do Tribunal Constitucional n.º 275/2026 - Diário da República n.º 66/2026, Série I de 2026-04-06](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/275-2026-1081202647) declara inconstitucional, com força obrigatória geral, o presente artigo, interpretado no sentido segundo o qual a insuficiência económica demonstrada pelo requerente do benefício do apoio judiciário não lhe permite obter o benefício da dispensa de pagamento da taxa de justiça e demais encargos com o processo, mas apenas o respetivo pagamento faseado, quando o rendimento mensal disponível é substancialmente equivalente ao valor da taxa de justiça inicial a suportar no processo e o valor da prestação mensal a suportar na modalidade de pagamento faseado tem como consequência uma diminuição do rendimento mensal líquido do beneficiário para um valor inferior ao da remuneração mínima mensal garantida."
+  },
+  "871579793": {
+   "fragment_id": "871579595",
+   "type": 11,
+   "heading": "Artigo 13.º — Limitação do número de prestações do pagamento faseado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Limitação do número de prestações do pagamento faseado\n\n1 - Se o somatório das prestações pagas pelo beneficiário de apoio judiciário na modalidade de pagamento faseado for, em dado momento, superior a quatro vezes o valor da taxa de justiça inicial, o beneficiário pode suspender o pagamento das restantes prestações; tratando-se de processo em que não seja devida taxa de justiça inicial, a suspensão pode ter lugar quando o somatório das prestações pagas pelo beneficiário for superior a 2 UC.\n\n2 - Caso o beneficiário suspenda o pagamento das prestações, nos termos do número anterior, e da elaboração da conta resulte a existência de quantias em dívida por parte do mesmo, o seu pagamento pode ser efectuado, de forma faseada, em prestações de montante idêntico ao anteriormente estipulado pelos serviços de segurança social."
+  },
+  "871579794": {
+   "fragment_id": "871579596",
+   "type": 1,
+   "heading": "Capítulo III — Pessoas colectivas ou equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pessoas colectivas ou equiparadas"
+  },
+  "871579795": {
+   "fragment_id": "871579597",
+   "type": 11,
+   "heading": "Artigo 14.º — Documentos relativos ao rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Documentos relativos ao rendimento\n\nSe o requerente for uma pessoa colectiva, um estabelecimento individual de responsabilidade limitada ou um comerciante em nome individual em causa relativa ao exercício do comércio o requerimento de protecção jurídica deve ser acompanhado dos seguintes documentos relativos ao seu rendimento:\n\na) Cópia da última declaração de rendimentos para efeitos de imposto sobre o rendimento das pessoas colectivas (IRC) ou de IRS, consoante os casos, que tenha sido apresentada e da respectiva nota de liquidação, se já tiver sido emitida, ou, na falta da referida declaração, de certidão emitida pelo serviço de finanças competente;\n\nb) Cópias das declarações de IVA referentes aos últimos 12 meses e documentos comprovativos do respectivo pagamento;\n\nc) Cópias dos documentos de prestação de contas dos três últimos exercícios findos ou dos exercícios findos desde a constituição, no caso de esta ter ocorrido há menos de três anos;\n\nd) Cópia do balancete do último trimestre, quando se trate de sociedade."
+  },
+  "871579796": {
+   "fragment_id": "871579598",
+   "type": 11,
+   "heading": "Artigo 15.º — Documentos relativos ao activo e passivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Documentos relativos ao activo e passivo\n\n1 - Se o requerente for uma pessoa colectiva, um estabelecimento individual de responsabilidade limitada ou um comerciante em nome individual em causa relativa ao exercício do comércio, o requerimento de protecção jurídica deve ser acompanhado dos documentos relativos aos activos patrimoniais, enunciados no n.º 1 do artigo 4.º da presente portaria, de que seja titular e, bem assim, do título de registo de outros bens móveis sujeitos a registo.\n\n2 - O requerente deve juntar ainda uma relação de todos os bens móveis sujeitos a registo que detenha por contratos de locação financeira, de aluguer de longa duração ou outros similares, com indicação do tipo, matrícula ou registo, marca, modelo, ano e valor."
+  },
+  "871579797": {
+   "fragment_id": "871579599",
+   "type": 1,
+   "heading": "Capítulo IV — Comissão de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Comissão de apreciação"
+  },
+  "871579798": {
+   "fragment_id": "871579600",
+   "type": 11,
+   "heading": "Artigo 16.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mandato\n\nO mandato dos membros da comissão competente para decidir da concessão do pedido de protecção jurídica, nos termos do n.º 2 do artigo 20.º da Lei n.º 34/2004, de 29 de Julho, tem a duração de três anos, é renovável e cessa com a designação dos respectivos substitutos.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579799": {
+   "fragment_id": "871579601",
+   "type": 11,
+   "heading": "Artigo 17.º — Remessa do pedido para a comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Remessa do pedido para a comissão\n\n1 - A remessa do pedido de protecção jurídica para a comissão suspende o prazo de produção do deferimento tácito.\n\n2 - A comissão decide da concessão do pedido de protecção jurídica no prazo de 15 dias contados da data da sua recepção.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579800": {
+   "fragment_id": "871579602",
+   "type": 11,
+   "heading": "Artigo 18.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funcionamento\n\nCompete à comissão elaborar o seu regimento.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008."
+  },
+  "871579801": {
+   "fragment_id": "871579603",
+   "type": 1,
+   "heading": "Capítulo V — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposição final"
+  },
+  "871579802": {
+   "fragment_id": "871579604",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente portaria produz efeitos a partir do dia 1 de Setembro de 2004."
+  },
+  "871579804": {
+   "fragment_id": "871579606",
+   "type": 14,
+   "heading": "Anexo I — Tabela a que se refere o n.º 2 do artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela a que se refere o n.º 2 do artigo 8.º\n\n(ver tabela no documento original)"
+  },
+  "871579805": {
+   "fragment_id": "871579607",
+   "type": 14,
+   "heading": "Anexo II — Tabela a que se refere o n.º 3 do artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tabela a que se refere o n.º 3 do artigo 8.º\n\n(ver tabela no documento original)"
+  },
+  "871579806": {
+   "fragment_id": "871579608",
+   "type": 14,
+   "heading": "Anexo III — Fórmula a que se refere o n.º 1 do artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Fórmula a que se refere o n.º 1 do artigo 9.º\n\nA fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica resulta das seguintes identidades algébricas:\n\n(ver fórmulas no documento original)\n\nPortanto, por operações aritméticas elementares:\n\n(ver fórmulas no documento original)"
+  },
+  "871579807": {
+   "fragment_id": "871579609",
+   "type": 14,
+   "heading": "Anexo IV — Tabela a que se refere o artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Tabela a que se refere o artigo 12.º\n\n(ver tabela no documento original)\n\n> Nota: [III - Decisão, Acórdão do Tribunal Constitucional n.º 275/2026 - Diário da República n.º 66/2026, Série I de 2026-04-06](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/275-2026-1081202647) declara inconstitucional, com força obrigatória geral, o presente anexo, interpretado no sentido segundo o qual a insuficiência económica demonstrada pelo requerente do benefício do apoio judiciário não lhe permite obter o benefício da dispensa de pagamento da taxa de justiça e demais encargos com o processo, mas apenas o respetivo pagamento faseado, quando o rendimento mensal disponível é substancialmente equivalente ao valor da taxa de justiça inicial a suportar no processo e o valor da prestação mensal a suportar na modalidade de pagamento faseado tem como consequência uma diminuição do rendimento mensal líquido do beneficiário para um valor inferior ao da remuneração mínima mensal garantida."
+  },
+  "871579817": {
+   "fragment_id": "871579579",
+   "type": 11,
+   "heading": "Artigo 1.º — Apresentação de documentos",
+   "in_force_from": "2005-03-22",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+   ],
+   "markdown": "###### Artigo 1.º — Apresentação de documentos\n\n1 - Com o requerimento de protecção jurídica devem ser juntos os documentos referidos nos artigos 3.º, 4.º, 14.º e 15.º da presente portaria.\n\n2 - O requerente deve juntar ainda, com o requerimento de protecção jurídica, outros documentos comprovativos das declarações prestadas, incluindo documentos de identificação pessoal do requerente e do respectivo agregado familiar, no caso de se tratar de pessoa singular, ou, tratando-se de pessoa colectiva ou equiparada, cópia do pacto social actualizado, no caso das sociedades, e outros documentos de identificação do requerente e respectivos representantes legais, se existirem.\n\n3 - Sem prejuízo do pedido de apresentação de provas a que haja lugar nos termos da lei, a falta de entrega dos documentos referidos nos números anteriores suspende o prazo de produção do deferimento tácito do pedido de protecção jurídica.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+  },
+  "871579820": {
+   "fragment_id": "871579585",
+   "type": 11,
+   "heading": "Artigo 5.º — Documentos relativos a despesas com habitação",
+   "in_force_from": "2005-03-22",
+   "changed_by": [
+    "Revogado pelo/a 2.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+   ],
+   "markdown": "###### Artigo 5.º — Documentos relativos a despesas com habitação\n\nO requerente deve juntar os seguintes documentos comprovativos da despesa suportada pelo agregado familiar com a respectiva habitação:\n\na) Cópia do contrato de arrendamento da casa de morada de família ou do último recibo de renda; ou\n\nb) Documento comprovativo do pagamento da última prestação relativa a empréstimo para aquisição da casa de morada de família.\n\n> Revogado pelo/a 2.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+  },
+  "871579811": {
+   "fragment_id": "871579587",
+   "type": 11,
+   "heading": "Artigo 6.º — Rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 91/2004 - Diário da República n.º 248/2004, Série I-B de 2004-10-21](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/91-2004-577506), produz efeitos a partir de 2004-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Rendimento relevante para efeitos de protecção jurídica\n\n1 - Para efeitos do disposto no anexo da Lei n.º 34/2004, de 29 de Julho, o rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é o montante que resulta da diferença entre o valor do rendimento líquido completo do agregado familiar (Y(índice C)) e o valor da dedução relevante para efeitos de protecção jurídica (A), ou seja, Y(índice AP) = Y(índice C) - A.\n\n2 - O rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é expresso em múltiplos do salário mínimo nacional.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 91/2004 - Diário da República n.º 248/2004, Série I-B de 2004-10-21](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/91-2004-577506), produz efeitos a partir de 2004-09-01"
+  },
+  "871579821": {
+   "fragment_id": "871579589",
+   "type": 11,
+   "heading": "Artigo 8.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": "2005-03-22",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+   ],
+   "markdown": "###### Artigo 8.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica\n\n1 - O valor da dedução relevante para efeitos de protecção jurídica (A) resulta da soma do valor da dedução de encargos com necessidades básicas do agregado familiar (D) com o montante da dedução de encargos com a habitação do agregado familiar (H), ou seja, A = D + H.\n\n2 - O valor da dedução de encargos com necessidades básicas do agregado familiar (D) resulta da aplicação da seguinte fórmula:\n\n(ver fórmula no documento original)\n\n3 - O montante da dedução de encargos com a habitação do agregado familiar (H) resulta da aplicação do coeficiente h ao valor do rendimento líquido completo do agregado familiar (Y(índice C)), ou seja, H = h x Y(índice C), em que h é determinado em função dos diversos escalões de rendimento, de acordo com o previsto no anexo II.\n\n4 - (Revogado.)\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+  },
+  "871579818": {
+   "fragment_id": "871579590",
+   "type": 11,
+   "heading": "Artigo 9.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": "2005-03-22",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+   ],
+   "markdown": "###### Artigo 9.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica\n\nO valor do rendimento relevante para efeitos de protecção jurídica, especificado nos artigos anteriores, é calculado através da fórmula prevista no anexo III desta portaria.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+  },
+  "871579803": {
+   "fragment_id": "871579605",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 26 de Agosto de 2004.\n\nO Ministro da Justiça, José Pedro Correia de Aguiar Branco. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão."
+  },
+  "871579819": {
+   "fragment_id": "871579608",
+   "type": 14,
+   "heading": "Anexo III — Fórmula a que se refere o artigo 9.º",
+   "in_force_from": "2005-03-22",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+   ],
+   "markdown": "## Anexo III — Fórmula a que se refere o artigo 9.º\n\nA fórmula de cálculo do valor do rendimento relevante para efeitos de protecção jurídica é a seguinte:\n\n(ver fórmula no documento original)\n\nA fórmula de cálculo resulta das seguintes identidades algébricas:\n\n(ver fórmulas no documento original)\n\nPortanto, por operações aritméticas elementares:\n\n(ver fórmulas no documento original)\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+  },
+  "871579822": {
+   "fragment_id": "871579586",
+   "type": 8,
+   "heading": "Secção II — Apreciação do requerimento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "#### Secção II — Apreciação do requerimento\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "871579828": {
+   "fragment_id": "871579587",
+   "type": 11,
+   "heading": "Artigo 6.º — Rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 91/2004 - Diário da República n.º 248/2004, Série I-B de 2004-10-21](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/91-2004-577506), produz efeitos a partir de 2004-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Rendimento relevante para efeitos de protecção jurídica\n\n1 - Para efeitos do disposto no anexo da Lei n.º 34/2004, de 29 de Julho, o rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é o montante que resulta da diferença entre o valor do rendimento líquido completo do agregado familiar (Y(índice C)) e o valor da dedução relevante para efeitos de protecção jurídica (A), ou seja, Y(índice AP) = Y(índice C) - A.\n\n2 - O rendimento relevante para efeitos de protecção jurídica (Y(índice AP)) é expresso em múltiplos do salário mínimo nacional.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 91/2004 - Diário da República n.º 248/2004, Série I-B de 2004-10-21](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/91-2004-577506), produz efeitos a partir de 2004-09-01"
+  },
+  "871579829": {
+   "fragment_id": "871579588",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimento líquido completo do agregado familiar",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Rendimento líquido completo do agregado familiar\n\n1 - O valor do rendimento líquido completo do agregado familiar (Y(índice C)) resulta da soma do valor da receita líquida do agregado familiar (Y) com o montante da renda financeira implícita calculada com base nos activos patrimoniais do agregado familiar (Y(índice R)), ou seja, Y(índice C) = Y + Y(índice R).\n\n2 - Por receita líquida do agregado familiar (Y) entende-se o rendimento depois da dedução do imposto sobre o rendimento, das contribuições obrigatórias dos empregados para regimes de segurança social e das contribuições dos empregadores para a segurança social.\n\n3 - O cálculo da renda financeira implícita é efectuado nos termos previstos no artigo 10.º da presente portaria.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "871579830": {
+   "fragment_id": "871579589",
+   "type": 11,
+   "heading": "Artigo 8.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a 2.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+   ],
+   "markdown": "###### Artigo 8.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica\n\n1 - O valor da dedução relevante para efeitos de protecção jurídica (A) resulta da soma do valor da dedução de encargos com necessidades básicas do agregado familiar (D) com o montante da dedução de encargos com a habitação do agregado familiar (H), ou seja, A = D + H.\n\n2 - O valor da dedução de encargos com necessidades básicas do agregado familiar (D) resulta da aplicação da seguinte fórmula:\n\n(ver fórmula no documento original)\n\n3 - O montante da dedução de encargos com a habitação do agregado familiar (H) resulta da aplicação do coeficiente h ao valor do rendimento líquido completo do agregado familiar (Y(índice C)), ou seja, H = h x Y(índice C), em que h é determinado em função dos diversos escalões de rendimento, de acordo com o previsto no anexo II.\n\n4 - (Revogado.)\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+  },
+  "871579831": {
+   "fragment_id": "871579590",
+   "type": 11,
+   "heading": "Artigo 9.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+   ],
+   "markdown": "###### Artigo 9.º — Cálculo do valor do rendimento relevante para efeitos de protecção jurídica\n\nO valor do rendimento relevante para efeitos de protecção jurídica, especificado nos artigos anteriores, é calculado através da fórmula prevista no anexo III desta portaria.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 288/2005 - Diário da República n.º 56/2005, Série I-B de 2005-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/288-2005-578540), em vigor a partir de 2005-03-22"
+  },
+  "871579832": {
+   "fragment_id": "871579591",
+   "type": 11,
+   "heading": "Artigo 10.º — Cálculo da renda financeira implícita",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Cálculo da renda financeira implícita\n\n1 - O montante da renda financeira implícita a que se refere o n.º 1 do artigo 7.º é calculado mediante a aplicação de uma taxa de juro de referência ao valor dos activos patrimoniais do agregado familiar.\n\n2 - A taxa de juro de referência é a taxa EURIBOR a seis meses correspondente ao valor médio verificado nos meses de Dezembro ou de Junho últimos, consoante o requerimento de protecção jurídica seja apresentado, respectivamente, no 1.º ou no 2.º semestre do ano civil em curso.\n\n3 - Entende-se por valor dos bens imóveis aquele que for mais elevado entre o declarado pelo requerente no pedido de protecção jurídica, o inscrito na matriz predial e o constante do documento que haja titulado a respectiva aquisição.\n\n4 - Quando se trate da casa de morada de família, no cálculo referido no n.º 1 apenas se contabiliza o valor daquela se for superior a (euro) 100000 e na estrita medida desse excesso.\n\n5 - O valor das participações sociais e dos valores mobiliários é aquele que resultar da cotação observada em bolsa no dia anterior ao da apresentação do requerimento de protecção jurídica ou, na falta deste, o seu valor nominal.\n\n6 - Entende-se por valor dos veículos automóveis o respectivo valor de mercado.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "871579833": {
+   "fragment_id": "871579599",
+   "type": 1,
+   "heading": "Capítulo IV — Comissão de apreciação",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "### Capítulo IV — Comissão de apreciação\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "871579837": {
+   "fragment_id": "871579600",
+   "type": 11,
+   "heading": "Artigo 16.º — Mandato",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Mandato\n\nO mandato dos membros da comissão competente para decidir da concessão do pedido de protecção jurídica, nos termos do n.º 2 do artigo 20.º da Lei n.º 34/2004, de 29 de Julho, tem a duração de três anos, é renovável e cessa com a designação dos respectivos substitutos.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "871579838": {
+   "fragment_id": "871579601",
+   "type": 11,
+   "heading": "Artigo 17.º — Remessa do pedido para a comissão",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Remessa do pedido para a comissão\n\n1 - A remessa do pedido de protecção jurídica para a comissão suspende o prazo de produção do deferimento tácito.\n\n2 - A comissão decide da concessão do pedido de protecção jurídica no prazo de 15 dias contados da data da sua recepção.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  },
+  "871579839": {
+   "fragment_id": "871579602",
+   "type": 11,
+   "heading": "Artigo 18.º — Funcionamento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Funcionamento\n\nCompete à comissão elaborar o seu regimento.\n\n> Nota: [Artigo 6.º, Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076) As alterações introduzidas pela Lei n.º 47/2007 aplicam-se apenas aos pedidos de protecção jurídica apresentados após 1 de janeiro de 2008.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 47/2007 - Diário da República n.º 165/2007, Série I de 2007-08-28](https://diariodarepublica.pt/dr/detalhe/lei/47-2007-641076), em vigor a partir de 2008-01-01"
+  }
+ }
+}

@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:407679:por
+title: Decreto-Lei n.º 864/76
+short_title: null
+summary: Regulamenta as condições em que pode haver suspensão das convenções colectivas nas empresas intervencionadas ou com
+  avales do Estado e em situação económica grave
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho
+proposing_entity: null
+official_number: 864/76
+official_date: null
+publication_date: '1976-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 298/1976, Série I de 1976-12-23
+  number: '298'
+  series: I
+  supplement: null
+  pages: 2823 - 2824
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/12/29800/28232824.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '407679'
+  dre_path: /dr/detalhe/decreto-lei/864-1976-407679
+  internal: pt:dre:407679:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/864-1976-407679
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/864-1976-407679
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-08-29T00:00:00Z'
+integrity:
+  source_sha256: b78d488420b0d87f58add0ae0bb4c75326e55a1afa4a40bf6b828f120b1f85f7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-864-407679.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:240853:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 864/76
+
+de 23 de Dezembro
+
+1. O Governo e a população em geral têm conhecimento de todo um conjunto de situações a necessitarem de urgente correcção de acordo com os limites do actual contexto sócio-económico-laboral português, de empresas que, sem contrapartida relevante de produção de riqueza, em bens ou serviços, ou com contrapartida que fica muito aquém daquilo que consome o seu funcionamento, vivem artificialmente à custa do orçamento do Estado, ao abrigo de intervenção ou de recebimento sistemático do que só formalmente se pode chamar «avales» do Estado, já que o respectivo reembolso se mostra ou impossível ou de difícil exequibilidade.
+
+2. Por outro lado, verifica-se, por dados indesmentíveis, que certos sectores públicos ou nacionalizados representam no conjunto da economia portuguesa estatutos laborais que podem considerar-se privilegiados relativamente aos do sector privado com que coexistem e do funcionalismo público, cujo preço é pago em larga medida igualmente pelo orçamento do Estado, assim desviado da sua função de contributo para a recuperação da economia nacional.
+
+3. Quanto às situações detectáveis nos sectores público ou nacionalizado, o Governo está consciente de que a solução para o problema apontado reside fundamentalmente na afirmação da autonomia de gestão e de correspondente responsabilização daqueles a quem a mesma é cometida e que a aceitam, nos termos, aliás, que virão a ser consagrados no estatuto do gestor público, em vias de elaboração.
+
+De igual modo, e pelas mesmas razões, terão de ser encaradas, a prazo, as restantes situações em que o Estado garante a perdurabilidade das empresas.
+
+4. De imediato, a fim de energicamente pôr cobro às situações já referidas, algumas delas ofensivas do povo português, por beneficiarem exclusivamente minorias insignificantes de estratos bem determináveis, prevê-se no presente diploma a possibilidade de declaração da situação de crise económica das empresas em causa, com sucedâneo de medidas correctoras, assegurando-se a consulta aos representantes dos trabalhadores interessados.
+
+5. Espera-se que o presente diploma constitua motivo de reflexão por parte dos responsáveis pelas empresas que venham a ser visadas, por forma a decidirem consciente e responsavelmente na sequência das medidas previstas.
+
+Certo é que o Governo, na medida em que disponha de meios para tal, entende não dever nem poder sancionar, à custa da bondade das soluções e dos interesses da economia nacional, a sobrevivência ou manutenção dos níveis artificiais de condições de trabalho das empresas que não possuam situação económico-financeira capaz de as suportar. Recusar-se-á, sempre que seja caso disso, a manter a subvenção para cobertura de prejuízos de gestão originados ou agravados pela existência de estatutos laborais elevados. Na matéria só um duplo limite se imporá o Governo: o da remuneração mínima garantida e o da estabilidade de postos de trabalho minimamente viáveis.
+
+Por forma a dar cumprimento aos princípios consignados na Constituição tomaram parte na elaboração do presente diploma comissões de trabalhadores e associações sindicais, que para o efeito foram ouvidas pelo Ministério do Trabalho, sendo diversas das sugestões por eles apresentadas incorporadas no texto final.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1. As entidades patronais e os conselhos de gerência ou órgãos equiparados de empresas ou daquelas em que se verifique a intervenção do Estado ou a quem por este hajam sido concedidos avales poderão requerer, aos Ministros do Trabalho e da Tutela ou responsável pelo sector de actividade respectiva, a declaração da empresa em situação de crise económica.
+
+2. O requerimento será obrigatoriamente acompanhado de descrição circunstanciada e fundamentada da situação económico-financeira da empresa e das medidas consideradas necessárias à superação da crise.
+
+3. Os Ministros a quem for dirigido o requerimento declararão, se for caso disso, a empresa em situação de crise económica, através de despacho conjunto, precedendo consulta às associações sindicais interessadas e à Comissão Interministerial criada pelo [Decreto-Lei n.º 822/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/822-1976-407123), de 12 de Novembro.
+
+4. O requerimento de declaração da situação de crise económica prevista nos números anteriores não tem efeito suspensivo da obrigatoriedade de cumprimento da lei e regulamentação colectiva vigentes, salvo se acompanhado de declaração expressa dos representantes dos trabalhadores interessados de aceitação da produção desse efeito suspensivo.
+
+###### Art. 2.º - 1. Declarada a empresa em situação de crise económica, nos termos do artigo anterior, os Ministros competentes podem, através de despacho conjunto:
+
+a) Isentar as entidades patronais, conselhos de gerência ou órgãos equiparados da obrigação do pagamento das remunerações mínimas garantidas;
+
+b) Isentar as entidades patronais, conselhos de gerência ou órgãos equiparados da obrigação de darem cumprimento às condições de trabalho fixadas em instrumentos de regulamentação colectiva de trabalho;
+
+c) Fixar condições de trabalho sucedâneas das isenções previstas nas alíneas anteriores;
+
+d) Estabelecer um regime de reconversão obrigatória.
+
+2. Em caso algum poderão ser fixadas ou praticadas remunerações inferiores à remuneração mínima garantida que vigorar nem preterido o direito às prestações da segurança social do trabalhador e seus familiares.
+
+3. O despacho conjunto previsto no n.º 1 especificará sempre o prazo de vigência das medidas adoptadas, a entidade que, substituindo-se à entidade patronal, assegurará as condições mínimas garantidas aos trabalhadores afectados, bem como a forma como esta o fará, e definirá o regime transitório das condições de trabalho que ficarem prejudicadas.
+
+4. Para os efeitos do disposto no n.º 1, os Ministros competentes deverão consultar as associações sindicais interessadas e a Comissão Interministerial criada pelo [Decreto-Lei n.º 822/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/822-1976-407123), de 12 de Novembro.
+
+###### Art. 3.º Fica revogado o [Decreto-Lei n.º 530/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1976-431429), de 17 de Julho.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares.
+
+**Promulgado em 9 de Dezembro de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

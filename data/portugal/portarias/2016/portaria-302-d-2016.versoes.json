@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105300341:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-108002104",
+ "dre_path": "/dr/detalhe/portaria/302-d-2016-105300341",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107991867",
+    "107991868",
+    "107991869",
+    "107991870",
+    "107991871",
+    "107991872"
+   ]
+  },
+  {
+   "date": "2017-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108002087:por",
+     "title": "Portaria n.º 255/2017",
+     "published": "2017-08-14",
+     "dre_path": "/dr/detalhe/portaria/255-2017-108002087"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107991867",
+    "107991868",
+    "107991874",
+    "108001875",
+    "107991871",
+    "107991872",
+    "107991873"
+   ]
+  },
+  {
+   "date": "2018-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114771733:por",
+     "title": "Portaria n.º 58/2018",
+     "published": "2018-02-27",
+     "dre_path": "/dr/detalhe/portaria/58-2018-114771733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107991867",
+    "107991868",
+    "114778079",
+    "114778080",
+    "107991871",
+    "107991872",
+    "107991873"
+   ]
+  }
+ ],
+ "fragments": {
+  "107991867": {
+   "fragment_id": "108002105",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 302-D/2016\n\nde 2 de dezembro\n\nO Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, que transpôs para o ordenamento jurídico nacional a Diretiva 2014/107/UE, do Conselho, de 9 de dezembro de 2014, que altera a Diretiva 2011/16/UE e consagrou as normas jurídicas para a implementação da Norma Comum de Comunicação, introduziu, através de alterações ao Decreto-Lei n.º 61/2013, de 10 de maio, novas regras aplicáveis ao regime de acesso e troca automática de informações financeiras no domínio da fiscalidade.\n\nPretende-se promover um maior alargamento no acesso e troca automática de informações para finalidades fiscais, incidente sobre dados de contas financeiras, tomando como base a norma mundial única desenvolvida pela OCDE, comummente designada como Common Reporting Standard [adiante designada (CRS) - Norma Comum de Comunicação], a qual, por sua vez, se constituiu como matriz para as modificações introduzidas nos instrumentos de cooperação administrativa existentes ao nível da União Europeia no que respeita à troca automática de informações obrigatória no domínio da fiscalidade.\n\nCom este regime visa-se o estabelecimento de um mecanismo geral de acesso e troca automática de informações financeiras no domínio da fiscalidade e a garantia de uma cooperação administrativa mútua mais ampla, quer com outros Estados-Membros da União Europeia, quer com outras jurisdições participantes com os quais Portugal deva efetuar troca automática de informação de contas financeiras no âmbito do Acordo Multilateral das Autoridades Competentes para a Troca Automática de Informações de Contas Financeiras, celebrado ao abrigo da Convenção sobre a Assistência Mútua em Matéria Fiscal conforme alterada pelo Protocolo de Alteração à Convenção sobre a Assistência Mútua em Matéria Fiscal.\n\nNos termos do n.º 6 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, a lista das jurisdições participantes, com expressa menção àquelas que reúnam as condições previstas nos n.os 4 e 5, consta de portaria aprovada pelo membro do Governo responsável pela área das finanças.\n\nOra, de acordo com os n.os 4 e 5 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, para a realização da troca automática de informação deve estar garantido que as jurisdições destinatárias da troca automática de informação asseguram uma proteção adequada de dados pessoais. Nos casos em que não tenham sido proferidas pela Comissão Europeia ou pela Comissão Nacional de Proteção de Dados decisões sobre a adequação do nível de proteção de jurisdições não integrantes da União Europeia, considera-se que existe um nível de proteção adequado quando as autoridades competentes da jurisdição destinatária assegurem mecanismos suficientes de garantia de proteção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, sujeito, em qualquer caso, à verificação da Comissão Nacional de Proteção de Dados.\n\nA presente portaria tem, assim, como objetivo aprovar a lista das jurisdições participantes, prevista no n.º 6 do artigo 2.º do Decreto-Lei n.º 642016, de 11 de outubro de 2016.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 6 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, o seguinte:"
+  },
+  "107991868": {
+   "fragment_id": "108002106",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece a lista das jurisdições participante, prevista no n.º 6 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016."
+  },
+  "107991869": {
+   "fragment_id": "108002107",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição participante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição participante\n\n1 - Para efeitos do conceito de «Jurisdição participante» previsto no n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, na redação dada pelo Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, considera-se que podem ser como tal qualificáveis os seguintes países ou jurisdições:\n\na) Os Estados-Membros da União Europeia e os territórios aos quais seja aplicável o Tratado sobre o Funcionamento da União Europeia, bem como outras jurisdições que implementem a Norma Comum de Comunicação ao abrigo de instrumento jurídico da União Europeia;\n\nb) Quaisquer outros países ou territórios relativamente às quais se pretende que o Acordo Multilateral das Autoridades Competentes (MCAA) se aplique, e sobre as quais deve ser aferido o nível de proteção adequada de dados pessoais e da confidencialidade, em conformidade com os n.os 1 a 3 do artigo 3.º da presente portaria.\n\n2 - Os países e territórios a que se reporta a alínea b) do número anterior são os constantes da lista publicada pelo Secretariado do órgão de coordenação a que se refere o n.º 3 do artigo 24.º da Convenção sobre a Assistência Mútua em Matéria Fiscal, conforme alterada pelo respetivo Protocolo de Alteração, considerando-se esta lista automaticamente atualizada em função dos acordos que venham a ser celebrados e que preencham as condições previstas nas alíneas b) e c) do n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, sendo válida, para tal efeito, a informação disponibilizada no sítio eletrónico oficial da Organização para a Cooperação e Desenvolvimento Económico (OCDE)."
+  },
+  "107991870": {
+   "fragment_id": "108002108",
+   "type": 11,
+   "heading": "Artigo 3.º — Lista das jurisdições participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Lista das jurisdições participantes\n\n1 - Para a realização da troca automática de informação com as jurisdições mencionadas no artigo anterior deve estar garantido que as jurisdições destinatárias da troca automática de informação asseguram uma proteção adequada de dados pessoais e da confidencialidade.\n\n2 - O nível de proteção adequada a que se refere o número anterior é aferido pela aplicação das decisões proferidas pela Comissão Europeia, disponibilizadas no sítio eletrónico oficial http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm, bem como pela Comissão Nacional de Proteção de Dados.\n\n3 - Nos casos em que não tenham sido proferidas pela Comissão Europeia ou pela Comissão Nacional de Proteção de Dados decisões sobre a adequação do nível de proteção de jurisdições não integrantes da União Europeia, considera-se que existe um nível de proteção adequado quando as autoridades competentes da jurisdição destinatária assegurem mecanismos suficientes de garantia de proteção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, sujeito, em qualquer caso, à verificação da Comissão Nacional de Proteção de Dados.\n\n4 - Para todos os efeitos legais, e em conformidade com o previsto no presente artigo, a lista das jurisdições participantes é a seguinte:\n\n1) Albânia;\n\n2) Andorra;\n\n3) Anguila;\n\n4) Antígua e Barbuda;\n\n5) Argentina;\n\n6) Aruba;\n\n7) Austrália;\n\n8) Áustria\n\n9) Barbados;\n\n10) Bélgica;\n\n11) Belize;\n\n12) Ilhas Bermudas;\n\n13) Brasil;\n\n14) Ilhas Virgens Britânicas;\n\n15) Bulgária;\n\n16) Canadá;\n\n17) Ilhas Caimão;\n\n18) Chile;\n\n19) China;\n\n20) Colômbia;\n\n21) Costa Rica;\n\n22) Ilhas Cook;\n\n23) Croácia;\n\n24) Curaçau;\n\n25) Chipre;\n\n26) República Checa;\n\n27) Dinamarca;\n\n28) Estónia;\n\n29) Ilhas Faroé;\n\n30) Finlândia;\n\n31) França;\n\n32) Alemanha;\n\n33) Gana;\n\n34) Gibraltar;\n\n35) Grécia;\n\n36) Gronelândia;\n\n37) Grenada;\n\n38) Guernsey;\n\n39) Hungria;\n\n40) Islândia;\n\n41) Índia;\n\n42) Indonésia;\n\n43) Irlanda;\n\n44) Israel;\n\n45) Ilha de Man;\n\n46) Itália;\n\n47) Japão;\n\n48) Jersey;\n\n49) Coreia;\n\n50) Koweit;\n\n51) Letónia;\n\n52) Liechtenstein;\n\n53) Lituânia;\n\n54) Luxemburgo;\n\n55) Malásia;\n\n56) Malta;\n\n57) Ilhas Marshall;\n\n58) Maurícias;\n\n59) México;\n\n60) Mónaco;\n\n61) Montserrat;\n\n62) Holanda;\n\n63) Nauru;\n\n64) Nova Zelândia;\n\n65) Niue;\n\n66) Noruega;\n\n67) Polónia;\n\n68) Roménia;\n\n69) Federação da Rússia;\n\n70) São Cristóvão e Nevis;\n\n71) Santa Lúcia;\n\n72) São Vicente e Granadinas;\n\n73) Samoa;\n\n74) São Marino;\n\n75) Arábia Saudita;\n\n76) Seicheles;\n\n77) Sint Maarten;\n\n78) República Eslovaca;\n\n79) Eslovénia;\n\n80) África do Sul;\n\n81) Espanha;\n\n82) Suécia;\n\n83) Suíça;\n\n84) Ilhas Turcos e Caicos;\n\n85) Reino Unido;\n\n86) Uruguai."
+  },
+  "107991871": {
+   "fragment_id": "108002109",
+   "type": 11,
+   "heading": "Artigo 4.º — Existência de um nível de proteção adequado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Existência de um nível de proteção adequado\n\nNo caso de jurisdições a que se refere a alínea b) do n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, a Autoridade Tributária e Aduaneira não procede ao envio, mediante troca automática de informações de contas financeiras, sempre que da avaliação sobre os níveis de proteção de dados e confidencialidade efetuada pelo Fórum Global sobre Transparência e Troca de Informações para Efeitos Fiscais resulte que a jurisdição destinatária não assegura um nível de proteção adequado."
+  },
+  "107991872": {
+   "fragment_id": "108002110",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107991874": {
+   "fragment_id": "108002107",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição participante",
+   "in_force_from": "2017-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+   ],
+   "markdown": "###### Artigo 2.º — Jurisdição participante\n\n1 - Para efeitos do conceito de «Jurisdição participante» previsto no n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, na redação dada pelo Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, considera-se que podem ser como tal qualificáveis os seguintes países ou jurisdições:\n\na) Os Estados-Membros da União Europeia e os territórios aos quais seja aplicável o Tratado sobre o Funcionamento da União Europeia, bem como outras jurisdições que implementem a Norma Comum de Comunicação ao abrigo de instrumento jurídico da União Europeia;\n\nb) Quaisquer outros países ou territórios relativamente às quais se pretende que o Acordo Multilateral das Autoridades Competentes (MCAA) se aplique, e sobre as quais deve ser aferido o nível de proteção adequada de dados pessoais e da confidencialidade, em conformidade com os n.os 1 a 3 do artigo 3.º da presente portaria.\n\nc) Quaisquer outros países e territórios em relação aos quais exista obrigação de troca automática de informações de contas financeiras nos termos dos artigos 4.º e seguintes e dos anexos ii e iii do Decreto-Lei n.º 64/2016, de 11 de outubro, decorrente de acordos bilaterais entre autoridades competentes baseados em convenção ou outro instrumento jurídico internacional celebrado entre essas jurisdições e a República Portuguesa, sem prejuízo da aferição do nível de proteção adequada de dados pessoais e da confidencialidade, em conformidade com os n.os 1 a 3 do artigo 3.º da presente portaria.\n\n2 - Os países e territórios a que se reporta a alínea b) do número anterior são os constantes da lista publicada pelo Secretariado do órgão de coordenação a que se refere o n.º 3 do artigo 24.º da Convenção sobre a Assistência Mútua em Matéria Fiscal, conforme alterada pelo respetivo Protocolo de Alteração, considerando-se esta lista automaticamente atualizada em função dos acordos que venham a ser celebrados e que preencham as condições previstas nas alíneas b) e c) do n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, sendo válida, para tal efeito, a informação disponibilizada no sítio eletrónico oficial da Organização para a Cooperação e Desenvolvimento Económico (OCDE).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+  },
+  "108001875": {
+   "fragment_id": "108002108",
+   "type": 11,
+   "heading": "Artigo 3.º — Lista das jurisdições participantes",
+   "in_force_from": "2017-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+   ],
+   "markdown": "###### Artigo 3.º — Lista das jurisdições participantes\n\n1 - Para a realização da troca automática de informação com as jurisdições mencionadas no artigo anterior deve estar garantido que as jurisdições destinatárias da troca automática de informação asseguram uma proteção adequada de dados pessoais e da confidencialidade.\n\n2 - O nível de proteção adequada a que se refere o número anterior é aferido pela aplicação das decisões proferidas pela Comissão Europeia, disponibilizadas no sítio eletrónico oficial http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm, bem como pela Comissão Nacional de Proteção de Dados.\n\n3 - Nos casos em que não tenham sido proferidas pela Comissão Europeia ou pela Comissão Nacional de Proteção de Dados decisões sobre a adequação do nível de proteção de jurisdições não integrantes da União Europeia, considera-se que existe um nível de proteção adequado quando as autoridades competentes da jurisdição destinatária assegurem mecanismos suficientes de garantia de proteção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, sujeito, em qualquer caso, à verificação da Comissão Nacional de Proteção de Dados.\n\n4 - Para todos os efeitos legais, e em conformidade com o previsto no presente artigo, a lista das jurisdições participantes é a seguinte:\n\n1) Albânia;\n\n2) Andorra;\n\n3) Anguila;\n\n4) Antígua e Barbuda;\n\n5) Argentina;\n\n6) Aruba;\n\n7) Austrália;\n\n8) Áustria;\n\n9) Barbados;\n\n10) Bélgica;\n\n11) Belize;\n\n12) Ilhas Bermudas;\n\n13) Brasil;\n\n14) Ilhas Virgens Britânicas;\n\n15) Bulgária;\n\n16) Canadá;\n\n17) Ilhas Caimão;\n\n18) Chile;\n\n19) China;\n\n20) Colômbia;\n\n21) Costa Rica;\n\n22) Ilhas Cook;\n\n23) Croácia;\n\n24) Curaçau;\n\n25) Chipre;\n\n26) República Checa;\n\n27) Dinamarca;\n\n28) Estónia;\n\n29) Ilhas Faroé;\n\n30) Finlândia;\n\n31) França:\n\n32) Alemanha;\n\n33) Gana;\n\n34) Gibraltar;\n\n35) Grécia;\n\n36) Gronelândia;\n\n37) Grenada;\n\n38) Guernsey;\n\n39) Hong Kong;\n\n40) Hungria;\n\n41) Islândia;\n\n42) Índia;\n\n43) Indonésia;\n\n44) Irlanda;\n\n45) Israel;\n\n46) Ilha de Man;\n\n47) Itália;\n\n48) Japão;\n\n49) Jersey;\n\n50) Coreia;\n\n51) Koweit;\n\n52) Letónia;\n\n53) Líbano;\n\n54) Liechtenstein;\n\n55) Lituânia;\n\n56) Luxemburgo;\n\n57) Malásia;\n\n58) Malta;\n\n59) Ilhas Marshall;\n\n60) Ilhas Maurícias;\n\n61) México;\n\n62) Mónaco;\n\n63) Montserrat;\n\n64) Nauru;\n\n65) Holanda;\n\n66) Nova Zelândia;\n\n67) Niue;\n\n68) Noruega;\n\n69) Paquistão;\n\n70) Polónia;\n\n71) Roménia;\n\n72) Federação da Rússia;\n\n73) São Cristóvão e Nevis;\n\n74) Santa Lúcia;\n\n75) São Vicente e Granadinas;\n\n76) Samoa;\n\n77) São Marino;\n\n78) Arábia Saudita;\n\n79) Seicheles;\n\n80) Singapura;\n\n81) Sint Maarten;\n\n82) República Eslovaca;\n\n83) Eslovénia;\n\n84) África do Sul;\n\n85) Espanha;\n\n86) Suécia;\n\n87) Suíça;\n\n88) Turquia;\n\n89) Ilhas Turcos e Caicos;\n\n90) Emirados Árabes Unidos;\n\n91) Reino Unido;\n\n92) Uruguai.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+  },
+  "107991873": {
+   "fragment_id": "108002111",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 30 de novembro de 2016."
+  },
+  "114778079": {
+   "fragment_id": "108002107",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição participante",
+   "in_force_from": "2018-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2018 - Diário da República n.º 41/2018, Série I de 2018-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/58-2018-114771733), em vigor a partir de 2018-02-28",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+   ],
+   "markdown": "###### Artigo 2.º — Jurisdição participante\n\n1 - Para efeitos do conceito de «Jurisdição participante» previsto no n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, na redação dada pelo Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, considera-se que podem ser como tal qualificáveis os seguintes países ou jurisdições:\n\na) Os Estados-Membros da União Europeia e os territórios aos quais seja aplicável o Tratado sobre o Funcionamento da União Europeia, bem como outras jurisdições que implementem a Norma Comum de Comunicação ao abrigo de instrumento jurídico da União Europeia;\n\nb) Quaisquer outros países ou territórios relativamente às quais se pretende que o Acordo Multilateral das Autoridades Competentes (MCAA) se aplique, e sobre as quais deve ser aferido o nível de proteção adequada de dados pessoais e da confidencialidade, em conformidade com os n.os 1 a 3 do artigo 3.º da presente portaria.\n\nc) Quaisquer outros países e territórios em relação aos quais exista obrigação de troca automática de informações de contas financeiras nos termos dos artigos 4.º e seguintes e dos anexos ii e iii do Decreto-Lei n.º 64/2016, de 11 de outubro, decorrente de acordos bilaterais entre autoridades competentes baseados em convenção ou outro instrumento jurídico internacional celebrado entre essas jurisdições e a República Portuguesa, sem prejuízo da aferição do nível de proteção adequada de dados pessoais e da confidencialidade, em conformidade com os n.os 1 a 3 do artigo 3.º da presente portaria.\n\n2 - A lista definida no n.º 4 do artigo 3.º da presente portaria considera-se automaticamente atualizada, sendo válida para os mesmos efeitos, com a inclusão de outros países e territórios na lista disponibilizada no sítio eletrónico oficial da Organização para a Cooperação e Desenvolvimento Económico (OCDE) pelo Secretariado do órgão de coordenação a que se refere o n.º 3 do artigo 24.º da Convenção sobre a Assistência Mútua em Matéria Fiscal, conforme alterada pelo respetivo Protocolo de Alteração, em função dos acordos que venham a ser celebrados.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2018 - Diário da República n.º 41/2018, Série I de 2018-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/58-2018-114771733), em vigor a partir de 2018-02-28\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+  },
+  "114778080": {
+   "fragment_id": "108002108",
+   "type": 11,
+   "heading": "Artigo 3.º — Lista das jurisdições participantes",
+   "in_force_from": "2018-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2018 - Diário da República n.º 41/2018, Série I de 2018-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/58-2018-114771733), em vigor a partir de 2018-02-28",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+   ],
+   "markdown": "###### Artigo 3.º — Lista das jurisdições participantes\n\n1 - Para a realização da troca automática de informação com as jurisdições mencionadas no artigo anterior deve estar garantido que as jurisdições destinatárias da troca automática de informação asseguram uma proteção adequada de dados pessoais e da confidencialidade.\n\n2 - O nível de proteção adequada a que se refere o número anterior é aferido pela aplicação das decisões proferidas pela Comissão Europeia, disponibilizadas no sítio eletrónico oficial http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm, bem como pela Comissão Nacional de Proteção de Dados.\n\n3 - Nos casos em que não tenham sido proferidas pela Comissão Europeia ou pela Comissão Nacional de Proteção de Dados decisões sobre a adequação do nível de proteção de jurisdições não integrantes da União Europeia, considera-se que existe um nível de proteção adequado quando as autoridades competentes da jurisdição destinatária assegurem mecanismos suficientes de garantia de proteção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, sujeito, em qualquer caso, à verificação da Comissão Nacional de Proteção de Dados.\n\n4 - Para todos os efeitos legais, e em conformidade com o previsto no presente artigo, a lista das jurisdições participantes é a seguinte:\n\n1) Albânia;\n\n2) Andorra;\n\n3) Anguila;\n\n4) Antígua e Barbuda;\n\n5) Argentina;\n\n6) Aruba;\n\n7) Austrália;\n\n8) Áustria;\n\n9) Azerbaijão:\n\n10) Bahamas;\n\n11) Bahrain;\n\n12) Barbados;\n\n13) Bélgica;\n\n14) Belize;\n\n15) Ilhas Bermudas;\n\n16) Brasil;\n\n17) Ilhas Virgens Britânicas;\n\n18) Bulgária;\n\n19) Canadá;\n\n20) Ilhas Caimão;\n\n21) Chile;\n\n22) China;\n\n23) Colômbia;\n\n24) Costa Rica;\n\n25) Ilhas Cook;\n\n26) Croácia;\n\n27) Curaçau;\n\n28) Chipre;\n\n29) República Checa;\n\n30) Dinamarca;\n\n31) Estónia;\n\n32) Ilhas Faroé;\n\n33) Finlândia;\n\n34) França:\n\n35) Alemanha;\n\n36) Gana;\n\n37) Gibraltar;\n\n38) Grécia;\n\n39) Gronelândia;\n\n40) Grenada;\n\n41) Guernsey;\n\n42) Hong Kong;\n\n43) Hungria;\n\n44) Islândia;\n\n45) Índia;\n\n46) Indonésia;\n\n47) Irlanda;\n\n48) Israel;\n\n49) Ilha de Man;\n\n50) Itália;\n\n51) Japão;\n\n52) Jersey;\n\n53) Coreia;\n\n54) Koweit;\n\n55) Letónia;\n\n56) Líbano;\n\n57) Liechtenstein;\n\n58) Lituânia;\n\n59) Luxemburgo;\n\n60) Malásia;\n\n61) Malta;\n\n62) Ilhas Marshall;\n\n63) Ilhas Maurícias;\n\n64) México;\n\n65) Mónaco;\n\n66) Montserrat;\n\n67) Nauru;\n\n68) Holanda;\n\n69) Nova Zelândia;\n\n70) Nigéria;\n\n71) Niue;\n\n72) Noruega;\n\n73) Panamá;\n\n74) Paquistão;\n\n75) Polónia;\n\n76) Qatar;\n\n77) Roménia;\n\n78) Federação da Rússia;\n\n79) São Cristóvão e Nevis;\n\n80) Santa Lúcia;\n\n81)São Vicente e Granadinas;\n\n82) Samoa;\n\n83) São Marino;\n\n84) Arábia Saudita;\n\n85) Seicheles;\n\n86) Singapura;\n\n87) Sint Maarten;\n\n88) República Eslovaca;\n\n89) Eslovénia;\n\n90) África do Sul;\n\n91) Espanha;\n\n92) Suécia;\n\n93) Suíça;\n\n94) Turquia;\n\n95) Ilhas Turcos e Caicos;\n\n96) Emirados Árabes Unidos;\n\n97) Reino Unido;\n\n98) Uruguai.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2018 - Diário da República n.º 41/2018, Série I de 2018-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/58-2018-114771733), em vigor a partir de 2018-02-28\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15"
+  }
+ }
+}

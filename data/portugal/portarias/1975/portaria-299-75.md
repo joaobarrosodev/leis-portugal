@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:336298:por
+title: Portaria n.º 299/75
+short_title: null
+summary: Define os critérios gerais para a classificação dos níveis de intensidade cultural de vários tipos de exploração
+  agrícola
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 299/75
+official_date: null
+publication_date: '1975-05-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 107/1975, Série I de 1975-05-09
+  number: '107'
+  series: I
+  supplement: null
+  pages: 665 - 666
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/05/10700/06650666.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '336298'
+  dre_path: /dr/detalhe/portaria/299-1975-336298
+  internal: pt:dre:336298:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/299-1975-336298
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/299-1975-336298
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-06-29T00:00:00Z'
+integrity:
+  source_sha256: 55da8095a88f9bffe2fbfa6e856bc57baef4a7bb0996ac2eaba95b4b407dabd5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-299-336298.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:395521:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 299/75
+
+de 9 de Maio
+
+Com a entrada em vigor do diploma que prevê a intervenção do Estado nos prédios incultos e subaproveitados, torna-se urgente definir critérios gerais para a classificação dos níveis de intensidade cultural das explorações.
+
+Reconhece-se a conveniência, numa primeira fase, em fixar uma plataforma mínima de intensidade cultural por cada um dos diversos tipos de aproveitamento, muito embora a intensificação desejada para o futuro se situe a nível mais elevado.
+
+Os critérios agora estabelecidos, constituindo apenas orientação geral para aquela classificação, deverão revestir-se na sua aplicação de uma grande elasticidade, por forma a adaptarem-se à diversidade das situações consideradas.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, o seguinte:
+
+1. Consideram-se subaproveitadas, para os efeitos da legislação em vigor, as terras cujo nível de intensidade cultural não atinge a plataforma mínima a seguir estabelecida para cada tipo de aproveitamento:
+
+a) Para terras de cultura arvense de regadio exige-se ocupação do solo a 100% (uma cultura por ano agrícola adequada à sua aptidão);
+
+b) Para terras de cultura arvense de sequeiro intensiva, correspondentes a solos normalmente incluídos na classe de capacidade de uso A e alguns da classe B, exige-se ocupação a 75% (três culturas em cada quatro anos agrícolas);
+
+c) Para terras de cultura arvense de sequeiro com limitações, correspondentes a solos normalmente incluídos na classe de capacidade de uso B e alguns de classe C, exige-se ocupação a 50% (duas culturas em cada quatro anos);
+
+d) Para terras de cultura arvense de sequeiro com muitas limitações, correspondentes a solos normalmente incluídos na classe de capacidade de uso C, exige-se ocupação a 25% (uma cultura em cada quatro anos);
+
+e) Para terras com culturas arbóreo-arbustivas, nomeadamente as de olival, pomar e vinhas, exige-se condução segundo as normas preconizadas pelos serviços regionais para as operações culturais (podas, fertilizações, mobilização de solo, tratamentos fitossanitários, etc.).
+
+As terras com oliveiras só serão incluídas nesta alínea quando tenham uma densidade de povoamento superior a sessenta árvores por hectare. Nos outros casos, serão incluídas nas alíneas b), c), d) ou f), conforme a ocupação cultural restante, sem prejuízo da obrigação de cumprimento das normas preconizadas para a condução do olival;
+
+f) Para as terras com aptidão pastoril ou silvo-pastoril, correspondentes aos solos das classes de capacidades de uso D e E, com ou sem montado de azinho ou sobro, e ainda os com montado de sobro que, ocupando solos das classes A, B e C, tenham uma densidade de povoamento superior a quarenta árvores por hectare, exigem-se encabeçamentos mínimos de 0,05 a 0,25 cabeças normais por hectare, de acordo com as condições edafo-climáticas. Exige-se ainda que os montados sejam conduzidos segundo as normas preconizadas pelos serviços regionais;
+
+g) Para terras ocupadas por povoamentos florestais exige-se que estas sejam conduzidas segundo as normas preconizadas pelos serviços regionais;
+
+h) Para terras com aptidão florestal, correspondentes a solos das classes de capacidade de uso D e E, com aptidão para a implantação de espécies de rápido crescimento, exige-se a sua florestação desde que abrangidas por planos de arborização concentrada.
+
+2. O nível mínimo de aproveitamento pecuário de solos dos tipos definidos nas alíneas a), b), c) e d) será fixado caso por caso, tendo em conta os respectivos níveis mínimos de ocupação cultural e as condições edafo-climáticas do conjunto da exploração.
+
+3. Em todos os casos será considerado subaproveitamento a existência de efectivos pecuários em estado de nítida subnutrição.
+
+4. Não será tomada em consideração, para efeitos de subaproveitamento, a existência de matos climáxicos nos povoamentos florestais em que a sua presença se mostre necessária à defesa e conservação do solo, sem prejuízo da obrigatoriedade de serem devidamente roçados, segundo as normas preconizadas pelos respectivos serviços regionais.
+
+5. As práticas ou operações culturais que notoriamente dêem origem ou agravamento do processo erosivo dos solos por forma a diminuir a sua capacidade produtiva serão tomadas em consideração para efeitos de subaproveitamento.
+
+6. O estado de subaproveitamento será decretado com base em parecer técnico que deverá obedecer aos seguintes requisitos:
+
+1.º Ser elaborado e subscrito por três técnicos;
+
+2.º Respeitar à totalidade dos prédios que formem a exploração;
+
+3.º Descrever pormenorizadamente os tipos de aproveitamento praticados e a respectiva intensidade cultural e pecuária;
+
+4.º Conter em anexo, sempre que possível, cartas agrícolas e florestais, cartas de solos e de capacidade de uso referentes ao conjunto da exploração, completadas ou corrigidas pela observação in loco dos perfis culturais, quer de arborização, topografia, hidrografia e outros dados úteis, e, bem assim, uma carta de ordenamento cultural de onde constem as disponibilidades hídricas imediatas e os diversos tipos de aproveitamento, segundo a classificação constante no n.º 2.
+
+7. O titular da exploração deverá prestar todas as informações que interessarem à elaboração do parecer e facultar, para consulta, quaisquer documentos respeitantes à exploração, nomeadamente cadernetas prediais, licenças e alvarás, contratos de fornecimento ou de financiamento.
+
+Ministério da Agricultura e Pescas, 6 de Maio de 1975. - O Ministro da Agricultura e Pescas, Fernando Oliveira Baptista.

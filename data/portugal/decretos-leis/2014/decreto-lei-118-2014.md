@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:55076561:por
+title: Decreto-Lei n.º 118/2014
+short_title: null
+summary: Estabelece os princípios e o enquadramento da atividade do enfermeiro de família no âmbito das unidades funcionais
+  de prestação de cuidados de saúde primários, nomeadamente nas Unidades de Saúde Familiar e Unidades de Cuidados de Saúde
+  Personalizados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 118/2014
+official_date: null
+publication_date: '2014-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/2014, Série I de 2014-08-05
+  number: '149'
+  series: I
+  supplement: null
+  pages: 4069 - 4071
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/08/14900/0406904071.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/118/2014/08/05/p/dre/pt/html
+  oj: null
+  dre: '55076561'
+  dre_path: /dr/detalhe/decreto-lei/118-2014-55076561
+  internal: pt:dre:55076561:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2014-55076561
+  metadata_url: https://data.dre.pt/eli/dec-lei/118/2014/08/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2014-55076561
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-08-05T00:00:00Z'
+integrity:
+  source_sha256: 8745ae2af9b72eb20f8fe427a8d58c7f6e66cfaf051952cc816e235cf72aa5ed
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-118-55076561.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direção Geral da Saúde
+- Cuidados de Enfermagem
+- Unidade de Saúde Familiar
+- Definição de Competências
+- Enfermagem
+- Administração Central do Sistema de Saúde
+- Pessoal de Enfermagem
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/28/2008/02/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/28/2008/02/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/298/2007/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/2007/08/22/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 118/2014
+
+de 5 de agosto
+
+O Programa do XIX Governo Constitucional tem como um dos seus objetivos estratégicos o reforço do papel das entidades integrantes da Rede de Cuidados Primários, visando não só contribuir para a melhoria da qualidade e do acesso efetivo dos cidadãos aos cuidados de saúde, como permitir a criação de mecanismos de reavaliação do papel dos enfermeiros.
+
+Em Portugal, os cuidados de saúde primários (CSP) constituem-se como a base de acesso ao Serviço Nacional de Saúde, configurando parte integrante da arquitetura do sistema de saúde português, de que resulta maior equidade e melhores níveis de saúde e satisfação das populações.
+
+A figura do enfermeiro de família tem vindo a ser criada nos sistemas de saúde de vários países da Região Europeia da Organização Mundial de Saúde (OMS), reforçando a importância dos contributos da enfermagem para a promoção da saúde e prevenção da doença, como é o caso de Espanha e Reino Unido, nos quais a figura do enfermeiro de família já foi estabelecida, trabalhando em cuidados primários juntamente com os demais profissionais de saúde e baseando-se no conhecimento do paciente no contexto da família e da comunidade.
+
+A inclusão da família como alvo dos cuidados de enfermagem nos CSP em Portugal tem, pois, enquadramento internacional e conceptual nas políticas de saúde da OMS - Região Europeia.
+
+Neste contexto, colocam-se novos desafios aos enfermeiros dos CSP, pelo reconhecimento da sua contribuição na promoção da saúde individual, familiar e coletiva e pelo seu papel de referência como gestor de cuidados de enfermagem, potencializando a saúde do indivíduo no contexto familiar.
+
+De acordo com o Plano Nacional de Saúde 2012/2016, a reorganização dos CSP enfatiza a intervenção local, em rede, com relevância nas Unidades de Saúde Familiar (USF) e com particular atenção para os cuidados centrados na família, ao longo das várias fases da vida. A compreensão da estrutura, processos de desenvolvimento e estilo de funcionamento das famílias permitirá a efetivação de uma prática de enfermagem direcionada para a sua capacitação funcional face às exigências e especificidades.
+
+Esta reforma dos CSP, orientada para a obtenção de ganhos em saúde e melhoria da equidade e acessibilidade aos cuidados de saúde, consagra uma estrutura organizativa matricial, baseada em unidades funcionais e assentes em equipas multiprofissionais.
+
+Neste contexto, torna-se agora possível evidenciar o papel do enfermeiro integrado nas diferentes unidades funcionais de CSP e direcionado para a prestação de cuidados de enfermagem globais a famílias, em todas as fases da vida e em todos os contextos da comunidade.
+
+O presente decreto-lei estabelece os princípios e o enquadramento da atividade do enfermeiro de família no âmbito das unidades funcionais de prestação de cuidados de saúde primários, nomeadamente nas USF e Unidades de Cuidados de Saúde Personalizados, cuja implementação decorrerá de experiências piloto.
+
+Foi promovida a audição da Ordem dos Médicos, da Ordem dos Enfermeiros, do Sindicato dos Enfermeiros Portugueses, do Sindicato Independente dos Profissionais de Enfermagem e do Sindicato dos Enfermeiros.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece os princípios e o enquadramento da atividade do enfermeiro de família no âmbito das unidades funcionais de prestação de cuidados de saúde primários, nomeadamente nas Unidades de Saúde Familiar (USF) e Unidades de Cuidados de Saúde Personalizados (UCSP).
+
+###### Artigo 2.º — Definição
+
+Para efeitos do disposto no presente decreto-lei, o enfermeiro de família é o profissional de enfermagem que, integrado na equipa multiprofissional de saúde, assume a responsabilidade pela prestação de cuidados de enfermagem globais a famílias, em todas as fases da vida e em todos os contextos da comunidade.
+
+###### Artigo 3.º — Âmbito
+
+1 - O enfermeiro de família, na sua área de intervenção, cuida da família como unidade de cuidados e presta cuidados gerais e específicos nas diferentes fases da vida do indivíduo e da família, ao nível da prevenção primária, secundária e terciária, em articulação ou complementaridade com outros profissionais de saúde, nos termos legais aplicáveis.
+
+2 - O enfermeiro de família contribui para a ligação entre a família, os outros profissionais e os recursos da comunidade, nomeadamente, grupos de voluntariado solidário, serviços de saúde e serviços de apoio social, garantindo maior equidade no acesso aos cuidados de saúde.
+
+###### Artigo 4.º — Áreas de atividade
+
+1 - Sendo um recurso de proximidade, o enfermeiro de família disponibiliza cuidados de enfermagem, efetuando, em articulação com a restante equipa de saúde, a avaliação da situação de saúde e das fases da vida, relativamente ao seu grupo de famílias, privilegiando as áreas da educação e promoção da saúde, prevenção da doença, da deteção precoce de doenças não transmissíveis, da gestão da doença crónica e da visitação domiciliária.
+
+2 - No âmbito do exercício das suas funções, o enfermeiro de família, considerando a família como unidade de cuidados, promove a capacitação da mesma, face às exigências e especificidades do seu desenvolvimento, designadamente:
+
+a) Desenvolvendo o processo de cuidados em colaboração com a família e estimulando a participação significativa dos seus membros em todas as fases daquele processo;
+
+b) Focalizando-se na família como um todo e nos seus membros individualmente e prestando cuidados nas diferentes fases da vida da família;
+
+c) Avaliando e promovendo as intervenções que se mostrem mais adequadas a promover e a facilitar as mudanças no funcionamento familiar, de acordo com as decisões estabelecidas no âmbito da coordenação da equipa multiprofissional.
+
+###### Artigo 5.º — Responsabilidade e coordenação
+
+Sem prejuízo da autonomia técnica garantida aos enfermeiros nos termos legais aplicáveis, o enfermeiro de família desenvolve a sua atividade sob a coordenação do coordenador da equipa multiprofissional constituída na respetiva USF e UCSP, com respeito pelas competências previstas no artigo 12.º do [Decreto-Lei n.º 298/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), de 22 de agosto, aplicável por força do disposto nos artigos 9.º e 10.º do [Decreto-Lei n.º 28/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2008-247675), de 22 de fevereiro.
+
+###### Artigo 6.º — Áreas de partilha
+
+A identificação das áreas de partilha de responsabilidade na prestação de cuidados de saúde em articulação com outros profissionais de saúde, nomeadamente com os médicos, é elaborada pela Direção-Geral da Saúde (DGS), em colaboração com a Administração Central do Sistema de Saúde, I.P. (ACSS, I.P.), no respeito pelas competências e organização da equipa multiprofissional e da carteira de serviços de USF e UCSP e ouvidas as ordens profissionais respetivas, sendo implementada mediante:
+
+a) A definição das intervenções de enfermagem, segundo uma carteira de serviços específica de cuidados de enfermagem;
+
+b) A produção de um portfólio de normas e orientações de enfermagem, com particular enfoque nas intervenções do enfermeiro de família nas áreas da gestão da doença crónica e nos programas de saúde;
+
+c) A elaboração de uma norma organizacional sobre a articulação e complementaridade na organização dos cuidados de saúde;
+
+d) A criação de protocolos de atuação que harmonizem e respeitem as áreas de intervenção partilhada;
+
+e) A elaboração de um quadro de monitorização de cuidados preventivos e a avaliação do risco no âmbito dos programas prioritários de saúde.
+
+###### Artigo 7.º — Monitorização da qualidade do modelo assistencial
+
+1 - A avaliação da qualidade dos cuidados prestados pelo enfermeiro de família rege-se por normas e orientações em enfermagem, emitidas pela DGS, ouvida a Ordem dos Enfermeiros.
+
+2 - O processo de monitorização da qualidade dos cuidados prestados pelo enfermeiro de família é efetuado periodicamente e tem em conta indicadores de desempenho decorrentes da carteira de serviços, indicadores de impacte assistencial relativos, nomeadamente, à metodologia de trabalho, ao desempenho (produtividade, efetividade, eficiência, valor dos cuidados), ao acesso aos cuidados e à articulação com outros serviços.
+
+3 - A monitorização do modelo assistencial é realizada em estreita colaboração entre a DGS e a ACSS, I.P., ouvidas a Ordem dos Médicos e a Ordem dos Enfermeiros.
+
+###### Artigo 8.º — Implementação da atividade do enfermeiro de família
+
+A atividade do enfermeiro de família é implementada através de experiências piloto a realizar em cada Administração Regional de Saúde, I.P., no segundo semestre de 2014, de acordo com um plano de ação que define os requisitos e diretrizes, bem como o modelo de governação, locais de implementação e o período temporal de execução, fixados por portaria do membro do Governo responsável pela área da saúde, aprovada no prazo de 90 dias após a publicação do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 19 de junho de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Paulo José de Ribeiro Moita de Macedo.
+
+**Promulgado em 28 de julho de 2014.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 31 de julho de 2014.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

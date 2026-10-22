@@ -1,0 +1,480 @@
+---
+schema_version: '1.0'
+id: pt:dre:120272925:por
+title: Decreto-Lei n.º 30/2019
+short_title: null
+summary: Aprova o plano de intervenção para a requalificação e construção de residências de estudantes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ciência, Tecnologia e Ensino Superior
+official_number: 30/2019
+official_date: null
+publication_date: '2019-02-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 40/2019, Série I de 2019-02-26
+  number: '40'
+  series: I
+  supplement: null
+  pages: 1420 - 1428
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/02/04000/0142001428.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-01-12'
+version_history:
+  file: decreto-lei-30-2019.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-02-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-17'
+    amending: pt:dre:123183036:por
+    amending_title: Decreto-Lei n.º 94/2019
+    changes:
+    - Altera Artigo 4.º
+    - Altera Anexo III
+  - date: '2021-01-12'
+    amending: pt:dre:153519406:por
+    amending_title: Decreto-Lei n.º 5/2021
+    changes:
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/30/2019/p/cons/20230724/pt/html
+  oj: null
+  dre: '120272925'
+  dre_path: /dr/detalhe/decreto-lei/30-2019-120272925
+  internal: pt:dre:120272925:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2019-120272925
+  metadata_url: https://data.dre.pt/eli/dec-lei/30/2019/p/cons/20230724/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-123183046
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-123183046
+  retrieved_at: '2026-10-22T12:27:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a2e17a725d17b018ec7e3869170d814cdf000c54ea32fb72c8c0d0c8d0a892e6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:27:16Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-30-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- BENS Imóveis
+- Aquisição de Bens e Serviços
+- Financiamento
+- Renovação Urbana
+- Regulamentação de Atos Legislativos
+- Estudante
+- Obras Públicas
+- Política de Habitação
+- Ensino Superior
+- Residência de Estudantes
+- Fundo Nacional de Reabilitação do Edificado
+relationships:
+- type: amended_by
+  target: pt:dre:123183036:por
+  label: Altera Artigo 4.º; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2019-123183036
+  date: '2019-07-16'
+- type: amended_by
+  target: pt:dre:153519406:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2021-153519406
+  date: '2021-01-11'
+- type: cites
+  target: celex:32014L0024
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/24/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-l
+  label: null
+  source: http://data.dre.pt/eli/dec-l
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/106/2018/11/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/106/2018/11/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/150/2017/12/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/150/2017/12/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/36/2018/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/36/2018/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/48/2016/09/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+article_structure:
+  article_count: 30
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:27:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 30/2019
+
+Decreto-Lei n.º 30/2019
+
+de 26 de fevereiro
+
+A disponibilização de alojamento para os estudantes do ensino superior que se encontram deslocados do local da sua residência, de forma condigna e a preços acessíveis, é essencial para o alargamento e a democratização do acesso ao ensino superior, assumidos como prioridades no Programa do XXI Governo Constitucional.
+
+Com o objetivo de dar uma resposta integrada e de longo prazo às necessidades de alojamento dos estudantes do ensino superior em todo o território nacional, foi apresentado, em maio de 2018, o Plano Nacional de Alojamento para o Ensino Superior, assente nos princípios e missão da Nova Geração de Políticas de Habitação, aprovada pela Resolução do Conselho de Ministros n.º 50-A/2018, de 2 de maio.
+
+É também nesse sentido, e cumprindo a Lei n.º 36/2018, de 24 de julho, que o presente decreto-lei aprova o plano de intervenção para a requalificação e construção de residências de estudantes, tendo por base as necessidades dos estudantes das instituições de ensino superior e respeitando a sua distribuição por todo o território nacional, e apoiado também nos objetivos e instrumentos subjacentes à Nova Geração de Políticas de Habitação.
+
+O plano de intervenção, que será executado de forma faseada, num horizonte temporal de 10 anos, prevê, desde logo, a integração de imóveis sem utilização, da propriedade das instituições de ensino superior e de outras entidades, no Fundo Nacional de Reabilitação do Edificado (FNRE), cuja criação foi determinada pela Resolução do Conselho de Ministros n.º 48/2016, de 1 de setembro, na sua redação atual, para a sua reabilitação, nos termos do regime especial estabelecido pelo Decreto-Lei n.º 150/2017, de 6 de dezembro.
+
+Além da integração de imóveis no FNRE, são estabelecidas outras modalidades de criação de alojamentos para estudantes deslocados do ensino superior, com vista a maximizar a capacidade de resposta e de intervenção atempada, em articulação entre as autarquias locais, instituições de ensino superior e outras entidades.
+
+Por um lado, assegura-se a possibilidade de promoção da criação de alojamentos diretamente pelas instituições de ensino superior, designadamente através da reabilitação ou ampliação de residências de estudantes do ensino superior atualmente em funcionamento ou de edifícios utilizados para outros fins, consagrando-se as garantias essenciais para possibilitar o acesso ao financiamento das obras a realizar, designadamente através do Instrumento Financeiro para a Reabilitação e Reconversão Urbana e do Programa Reabilitar para Arrendar.
+
+Por outro lado, promove-se a utilização das disponibilidades de alojamento existentes em imóveis de outras entidades, através de protocolos a celebrar entre estas e as instituições de ensino superior.
+
+Para acompanhar a execução do plano de intervenção, com o propósito de otimizar a oferta de alojamentos para estudantes do ensino superior em todo o território nacional, o presente decreto-lei institui um mecanismo de monitorização do alojamento disponível, através da comunicação anual à Direção-Geral de Ensino Superior (DGES) da oferta de alojamento disponibilizada no ano letivo seguinte, bem como da comunicação contínua dos novos projetos de construção, requalificação e entrada em funcionamento de residências. Atribui-se ainda competência à DGES e ao Instituto da Habitação e da Reabilitação Urbana, I. P., para o acompanhamento da execução do plano de intervenção.
+
+Em paralelo, o presente decreto-lei estabelece um regime especial para execução da primeira fase do plano de intervenção, que complementa as intervenções presentemente em curso em relação a um conjunto de imóveis que já integraram o FNRE para a criação de alojamentos para estudantes, e, em qualquer caso, sem prejuízo do desenvolvimento imediato das diligências necessárias à concretização das fases subsequentes. Com efeito, do levantamento realizado acerca do estado e das necessidades das residências de estudantes nas instituições de ensino superior, resultou a necessidade de intervir, com urgência e eficácia, para garantir um aumento significativo da oferta de alojamento a estudantes do ensino superior a partir do ano letivo 2019/2020. Ademais, foi já identificado um conjunto de imóveis da Administração direta e indireta do Estado que se encontram atualmente degradados e sem uso, e que, pela sua localização e características, apresentam grande potencial para a satisfação, a curto prazo, de carências de habitação acessível nos centros urbanos.
+
+Foram ouvidos a Associação Nacional de Municípios Portugueses, o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e as associações de estudantes do ensino superior.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova o plano de intervenção para a requalificação e construção de residências de estudantes (plano de intervenção), previsto no artigo 2.º da Lei n.º 36/2018, de 24 de julho, e estabelece um regime especial para execução da primeira fase do plano de intervenção.
+
+###### Artigo 2.º — Plano de intervenção
+
+É aprovado o plano de intervenção em anexo i ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 3.º — Primeira fase
+
+1 - A primeira fase do plano de intervenção compreende os imóveis elencados nos anexos ii e iii ao presente decreto-lei, que dele fazem parte integrante.
+
+2 - A execução da primeira fase do plano de intervenção rege-se pelo disposto no plano de intervenção aprovado em anexo i ao presente decreto-lei, com as necessárias adaptações, e pelo capítulo seguinte.
+
+### Capítulo II — Regime especial para a execução da primeira fase do plano de intervenção
+
+#### Secção I — Contratação pública e obtenção de financiamento
+
+###### Artigo 4.º — Procedimento para a formação de contratos
+
+1 - Para a formação de contratos de valor inferior aos limiares previstos no artigo 4.º da Diretiva 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, no seu valor atual, relativos aos imóveis destinados à execução da primeira fase do plano de intervenção e elencados nos anexos II e III ao presente decreto-lei, e cuja decisão de contratar, nos termos do n.º 1 do artigo 36.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, seja tomada até 31 de dezembro de 2019, é adotado o procedimento de consulta prévia, com convite a, pelo menos, três entidades.
+
+2 - O prazo da decisão de contratar referido no número anterior para a formação de contratos relativos a imóveis, elencados nos anexos ii e iii ao presente decreto-lei, que sejam bens classificados, estende-se pelo período de tempo necessário para a obtenção de licença, nos termos da Lei n.º 107/2001, de 8 de setembro, e do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 94/2019 - Diário da República n.º 134/2019, Série I de 2019-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2019-123183036), em vigor a partir de 2019-07-17
+
+###### Artigo 5.º — Financiamento
+
+Para pedidos de financiamento pelas instituições de ensino superior, através do Instrumento Financeiro para a Reabilitação e Reconversão Urbana e do programa Reabilitar para Arrendar, apresentados até 30 de junho de 2019 é dispensada a autorização a que se refere o n.º 2 do artigo 115.º da Lei n.º 62/2007, de 10 de setembro, salvo em caso de constituição de hipoteca sobre imóveis que não sejam da propriedade das referidas instituições.
+
+> Nota: [Artigo 192.º, Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662) prorroga, até 31 de dezembro de 2022, o prazo previsto no presente artigo.
+
+#### Secção II — Integração no Fundo Nacional de Reabilitação do Edificado
+
+###### Artigo 6.º — Âmbito
+
+1 - Os imóveis indicados no anexo ii ao presente decreto-lei são disponibilizados para integração no Fundo Nacional de Reabilitação do Edificado (FNRE), nos termos do Decreto-Lei n.º 150/2017, de 6 de dezembro, com as especificidades previstas nos artigos seguintes.
+
+2 - O disposto no número anterior não obsta à integração no FNRE de imóveis não previstos no anexo ii ao presente decreto-lei, de acordo com o regime estabelecido no Decreto-Lei n.º 150/2017, de 6 de dezembro, que sejam da propriedade de instituições de ensino superior ou de outras entidades.
+
+###### Artigo 7.º — Finalidades
+
+1 - A integração dos imóveis no FNRE prevista no artigo anterior destina-se à reabilitação dos mesmos para criação de alojamentos para estudantes do ensino superior, em execução da primeira fase do plano de intervenção aprovado em anexo i ao presente decreto-lei.
+
+2 - O disposto no número anterior não impede a afetação de parte minoritária dos imóveis a outros fins, na medida estritamente necessária para assegurar a viabilidade financeira do investimento do FNRE, de acordo com a sua política de investimento.
+
+###### Artigo 8.º — Informação e acesso ao imóvel
+
+1 - No prazo de 30 dias a partir da entrada em vigor do presente decreto-lei, a entidade gestora do património imobiliário de cada um dos imóveis constante do anexo ii envia à sociedade gestora do FNRE os elementos de informação referidos do n.º 2 do artigo 4.º do Decreto-Lei n.º 150/2017, de 6 de dezembro, acrescidos dos seguintes, quando existentes:
+
+a) Plantas e demais elementos de projeto ou de caracterização;
+
+b) Licenças e autorizações em vigor;
+
+c) Levantamentos, estudos ou projetos relativos ao seu estado atual ou às suas possibilidades de aproveitamento;
+
+d) Contratos de arrendamento, bem como os respeitantes à constituição, extinção ou modificação de direitos reais sobre o imóvel;
+
+e) Sentenças ou acórdãos e ações pendentes, nomeadamente arbitrais, relativas ao imóvel.
+
+2 - Durante 120 dias após a entrada em vigor do presente decreto-lei, a sociedade gestora do FNRE pode aceder ao interior dos imóveis elencados no anexo ii ao presente decreto-lei, para realização de vistorias técnicas e demais trabalhos de levantamento e caracterização.
+
+###### Artigo 9.º — Análise da viabilidade
+
+1 - No prazo de 60 dias a partir da entrada em vigor do presente decreto-lei, a sociedade gestora do FNRE comunica os resultados de avaliação de cada imóvel e as conclusões da análise da sua aptidão para integração no FNRE à entidade gestora do património imobiliário e às instituições de ensino superior com sede ou unidades orgânicas no concelho onde o imóvel se localiza.
+
+2 - Em casos de especial complexidade, designadamente quando a análise da viabilidade requeira a realização de estudos arquitetónicos ou urbanísticos, elaboração de propostas de contratos para planeamento ou a negociação com outras entidades públicas ou privadas, a sociedade gestora do FNRE pode prorrogar o prazo previsto no número anterior até 60 dias, mediante notificação à entidade gestora do património imobiliário e às instituições de ensino superior referidas no número anterior.
+
+###### Artigo 10.º — Integração no Fundo Nacional de Reabilitação do Edificado
+
+1 - Em caso de viabilidade de integração do imóvel no FNRE, aplica-se o disposto nos n.os 6 a 9 do artigo 7.º e nos artigos 8.º a 13.º do Decreto-Lei n.º 150/2017, de 6 de dezembro, sem prejuízo do disposto no número seguinte.
+
+2 - A proibição de alienação ou oneração prevista no artigo 10.º do Decreto-Lei n.º 150/2017, de 6 de dezembro, aplica-se a partir da data de entrada em vigor do presente decreto-lei e cessa, no caso de inaptidão do imóvel para integração do FNRE, com a comunicação referida no artigo anterior.
+
+###### Artigo 11.º — Salvaguarda da posição dos municípios
+
+Se à data de entrada em vigor do presente decreto-lei algum dos imóveis constantes no anexo ii ao presente decreto-lei tiver sido objeto da comunicação prevista no artigo 5.º do Decreto-Lei n.º 106/2018, de 29 de novembro, a integração desse imóvel no FNRE depende da concordância expressa do município respetivo.
+
+### Capítulo III — Disposição final
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Pedro Gramaxo de Carvalho Siza Vieira - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Pedro Manuel Dias de Jesus Marques - João Pedro Soeiro de Matos Fernandes.
+
+Promulgado em 22 de fevereiro de 2019.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 20 de fevereiro de 2019.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo I — (a que se referem o artigo 2.º, o n.º 2 do artigo 3.º e o n.º 1 do artigo 7.º)
+
+Plano de intervenção para a requalificação e construção de residências de estudantes
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objetivo
+
+O plano de intervenção para a requalificação e construção de residências de estudantes (plano de intervenção) tem por objetivo a promoção de iniciativas das instituições de ensino superior, das autarquias locais e de outras entidades com vista à criação de alojamento para estudantes das instituições de ensino superior públicas de todo o território nacional.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente plano de intervenção, entende-se por:
+
+a) «Alojamentos para estudantes do ensino superior», as frações autónomas ou os prédios urbanos ou mistos destinados, no todo ou em parte, a habitação temporária por estudantes deslocados do ensino superior, incluindo as residências de estudantes do ensino superior, compreendendo necessariamente quartos, casas de banho, cozinhas e espaços de refeição e podendo compreender espaços de estudo e de convívio, estacionamento e equipamentos;
+
+b) «Entidade gestora do património imobiliário», o proprietário do imóvel ou, no caso de imóveis do domínio privado do Estado, a Direção-Geral do Tesouro e Finanças;
+
+c) «Estudante deslocado do ensino superior», o estudante que, em consequência da distância entre a sua residência e a localidade onde frequenta o ciclo de estudos em que está matriculado e inscrito, necessita de residir nesta localidade ou nas suas limítrofes para frequentar as atividades curriculares do respetivo curso;
+
+d) «Fundo Nacional de Reabilitação do Edificado», igualmente designado por «FNRE», o fundo de investimento imobiliário especial previsto na Resolução do Conselho de Ministros n.º 48/2016, de 1 de setembro, na sua redação atual, incluindo os respetivos subfundos;
+
+e) «Residências de estudantes do ensino superior», os prédios urbanos, mistos ou frações autónomas da propriedade de instituições de ensino superior ou afetos às suas atribuições, destinados a alojamento para estudantes do ensino superior;
+
+f) «Sociedade gestora do FNRE», a entidade designada como sociedade gestora do FNRE, nos termos do n.º 4 da Resolução do Conselho de Ministros n.º 48/2016, de 1 de setembro, na sua redação atual.
+
+###### Artigo 3.º — Horizonte temporal de execução
+
+O plano de intervenção, com um horizonte temporal de 10 anos, é faseado e executado de forma incremental, sendo revisto anualmente, nos termos do disposto no artigo 18.º
+
+###### Artigo 4.º — Medidas
+
+O plano de intervenção compreende as seguintes medidas:
+
+a) A requalificação de residências de estudantes do ensino superior, designadamente através da melhoria e ampliação de infraestruturas, do reequipamento ou da melhoria das condições materiais;
+
+b) A criação de novos alojamentos, designadamente através de construção, reabilitação ou reconversão de imóveis;
+
+c) A disponibilização de alojamento temporário quando necessário, designadamente enquanto decorrem obras de reabilitação, requalificação e construção de residências, nos termos das alíneas anteriores;
+
+d) A monitorização regular da capacidade instalada de alojamentos de estudantes, e respetiva oferta e procura, e o planeamento, em articulação com as instituições de ensino superior, das ações necessárias atendendo aos resultados da monitorização.
+
+###### Artigo 5.º — Modalidades de criação de alojamentos
+
+A criação de alojamentos para estudantes do ensino superior pode processar-se através das seguintes modalidades:
+
+a) Reabilitação de imóveis através de afetação ao FNRE;
+
+b) Promoção pelas instituições de ensino superior;
+
+c) Utilização de disponibilidades de alojamento de outras entidades.
+
+###### Artigo 6.º — Residências de estudantes do ensino superior
+
+Devem ser criadas residências de estudantes do ensino superior quando:
+
+a) Não existam residências de estudantes do ensino superior nas instituições de ensino superior públicas; ou
+
+b) As instituições de ensino superior públicas tenham unidades orgânicas em concelhos onde não existam residências de estudantes do ensino superior.
+
+###### Artigo 7.º — Fixação do preço do alojamento
+
+A criação de alojamentos para estudantes do ensino superior prevista no artigo 5.º tem por base uma política de fixação de preços mensais de alojamento conforme o previsto nos n.os 3 e 4 do artigo 6.º da Lei n.º 36/2018, de 24 de julho, respetivamente quanto às residências de estudantes do ensino superior e aos demais tipos de alojamento.
+
+### Capítulo II — Afetação ao Fundo Nacional de Reabilitação do Edificado
+
+###### Artigo 8.º — Integração de imóveis para reabilitação
+
+1 - As instituições de ensino superior e outras entidades podem promover a integração de imóveis de que são proprietárias no FNRE para reabilitação com vista à criação de alojamentos para estudantes do ensino superior, nos termos do disposto no Decreto-Lei n.º 150/2017, de 6 de dezembro.
+
+2 - O disposto no número anterior não impede a afetação de parte minoritária dos imóveis a outros fins, na medida estritamente necessária para assegurar a viabilidade financeira do investimento do FNRE, de acordo com a sua política de investimento.
+
+###### Artigo 9.º — Gestão dos alojamentos
+
+A gestão dos alojamentos a criar nos termos do artigo anterior pode ser realizada mediante protocolo a celebrar entre a sociedade gestora do FNRE e as seguintes entidades:
+
+a) A instituição de ensino superior detentora das unidades de participação correspondentes ao imóvel;
+
+b) As instituições de ensino superior com sede ou unidades orgânicas no concelho onde o imóvel se localiza;
+
+c) O município em cujo território se localiza o imóvel, em articulação com as instituições de ensino superior com sede ou unidades orgânicas nesse concelho;
+
+d) Outras entidades públicas ou privadas.
+
+### Capítulo III — Promoção pelas instituições de ensino superior
+
+###### Artigo 10.º — Formas de intervenção
+
+1 - Sem prejuízo do disposto no artigo 109.º da Lei n.º 62/2007, de 10 de setembro, as instituições de ensino superior podem promover diretamente a criação de alojamentos para estudantes do ensino superior, através das seguintes formas de intervenção:
+
+a) Reabilitação, ampliação ou reconstrução de edifícios ou frações autónomas, incluindo residências de estudantes do ensino superior ou outros edifícios, atualmente utilizados para outros fins;
+
+b) Utilização de edifícios ou frações autónomas, da propriedade das instituições de ensino superior ou afetos às suas atribuições, atualmente utilizados para outros fins;
+
+c) Construção de edifícios.
+
+2 - A promoção direta prevista no número anterior pode ser realizada em colaboração com outras entidades públicas ou privadas, mediante protocolo, que pode envolver a gestão das obras, o financiamento ou a gestão dos alojamentos para estudantes e dos demais espaços objeto da intervenção, bem como a correspondente remuneração.
+
+###### Artigo 11.º — Título habilitante
+
+1 - Quando a intervenção prevista no n.º 1 do artigo anterior tenha por objeto prédios urbanos, mistos ou frações autónomas de que a instituição de ensino superior não seja proprietária, o protocolo previsto no n.º 2 do mesmo artigo contempla a celebração de um contrato com a entidade gestora do património imobiliário em causa que habilite a realização da intervenção.
+
+2 - Tratando-se de bens imóveis do domínio privado do Estado ou de institutos públicos, a habilitação prevista no número anterior segue o regime previsto no Decreto-Lei n.º 280/2007, de 7 de agosto, na sua redação atual, sem prejuízo do disposto na Lei Orgânica n.º 6/2015, de 18 de maio, no Decreto-Lei n.º 84/2012, de 30 de março, na sua redação atual, e na Lei n.º 10/2017, de 3 de março.
+
+3 - O prazo de vigência dos títulos previstos nos números anteriores deve ser suficiente para assegurar o pagamento de todos os encargos a suportar com a realização da intervenção, tendo por base a estimativa dos custos de execução, financiamento e exploração, e das receitas de exploração do imóvel.
+
+###### Artigo 12.º — Financiamento
+
+Sem prejuízo do recurso a dotações provenientes do Orçamento do Estado, para os efeitos do disposto no presente capítulo, a instituição de ensino superior pode candidatar-se aos financiamentos ou apoios públicos disponíveis para as intervenções em causa, designadamente através do Instrumento Financeiro para a Reabilitação e Reconversão Urbana (IFRRU 2020) e do programa Reabilitar para Arrendar.
+
+###### Artigo 13.º — Garantias
+
+1 - Para garantia de pagamento dos encargos assumidos com a realização das obras ou com o respetivo financiamento, a instituição de ensino superior pode constituir hipoteca sobre bens imóveis de que seja proprietária, nos termos e com as condições estabelecidas na lei.
+
+2 - Relativamente a bens imóveis de que a instituição de ensino superior não seja proprietária, e caso não seja possível a constituição de outra garantia, a entidade gestora do património imobiliário respetiva pode constituir hipoteca sobre os mesmos para garantia do pagamento dos encargos decorrentes do financiamento concedido através do IFRRU 2020 e do programa Reabilitar para Arrendar.
+
+3 - Salvo no caso de constituição de outras garantias que salvaguardem o ressarcimento de todos os encargos assumidos, as receitas de exploração do imóvel objeto da intervenção são consignadas ao pagamento dos encargos assumidos com a realização das obras a que haja lugar.
+
+4 - A denúncia do contrato ou a cessação do título habilitante da intervenção sobre determinado imóvel, por iniciativa da entidade gestora do património imobiliário respeitante ao imóvel, antes de decorrido o prazo contratual ou o prazo de exploração estabelecido no protocolo, obriga a entidade gestora do património imobiliário ao reembolso imediato, à instituição de ensino superior promotora da intervenção, dos encargos com a realização das obras, incluindo os relativos ao respetivo financiamento, independentemente da data do seu vencimento, salvo convenção em contrário no protocolo.
+
+### Capítulo IV — Disponibilidades de alojamento de outras entidades
+
+###### Artigo 14.º — Utilização de disponibilidades de alojamento em imóveis de outras entidades
+
+1 - As instituições de ensino superior podem utilizar disponibilidades de alojamento existentes em prédios urbanos ou mistos ou em frações autónomas da propriedade de outras entidades públicas ou privadas, através de protocolo a celebrar com estas.
+
+2 - Os imóveis a disponibilizar para alojamento para estudantes do ensino superior nos termos do número anterior são objeto de protocolo de gestão, que estabelece, designadamente:
+
+a) A identificação e caracterização dos alojamentos a afetar a residência temporária de estudantes do ensino superior;
+
+b) O período de afetação do imóvel a alojamento para estudantes do ensino superior;
+
+c) O modelo de gestão dos alojamentos, que prevê a disponibilização de alojamento a estudantes de todas as instituições de ensino superior, públicas ou privadas, com ciclos de estudos a funcionar no concelho onde se localiza o imóvel.
+
+3 - Quando a intervenção implicar a realização de obras de conservação ou adaptação com valor igual ou inferior a (euro) 150 000, o Instituto da Habitação e da Reabilitação Urbana, I. P., pode colaborar na execução da intervenção através das seguintes modalidades:
+
+a) Gestão, em representação da entidade pública promotora, dos procedimentos necessários à contratação e execução da empreitada;
+
+b) Atribuição de financiamento à execução das obras.
+
+4 - No caso previsto na alínea b) do número anterior, é aplicável, com as necessárias adaptações, o disposto no artigo anterior.
+
+5 - Quando a intervenção implicar a atribuição à instituição de ensino superior de poderes de administração do imóvel, são aplicáveis as disposições do capítulo anterior, com as necessárias adaptações.
+
+###### Artigo 15.º — Residências de estudantes do ensino básico e secundário
+
+A forma de intervenção prevista no presente capítulo pode incluir a utilização total ou parcial de edifícios destinados a residências de estudantes do ensino básico e secundário afetas ou da propriedade dos municípios, mediante protocolo a celebrar com estes, que define as condições de utilização e assegura a satisfação das necessidades de alojamento dos referidos estudantes.
+
+### Capítulo V — Acompanhamento e revisão do plano de intervenção
+
+###### Artigo 16.º — Monitorização da oferta
+
+1 - Todas as entidades que iniciem procedimentos com vista à criação de alojamentos nos termos dos capítulos II a IV comunicam, no prazo de 30 dias, à Direção-Geral do Ensino Superior (DGES), a localização dos alojamentos, o número de estudantes a que se destinam, a data prevista para a sua entrada em funcionamento, bem como, no caso da requalificação de residências, o incremento face à oferta anterior.
+
+2 - Até 31 de janeiro de cada ano, a DGES realiza um inquérito a todas as instituições de ensino superior, para a monitorização da oferta existente, incluindo os alojamentos criados nos termos dos capítulos II a IV.
+
+3 - A monitorização referida nos números anteriores é feita em modelos próprios, disponibilizados no sítio da DGES na Internet.
+
+###### Artigo 17.º — Acompanhamento do plano de intervenção
+
+Compete à DGES e ao Instituto da Habitação e da Reabilitação Urbana, I. P., o acompanhamento da execução do plano de intervenção, em articulação com as instituições de ensino superior.
+
+###### Artigo 18.º — Revisão do plano de intervenção
+
+O plano de intervenção é revisto até 31 de março de cada ano, através de despacho do membro do Governo responsável pela área do ensino superior, ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e as associações de estudantes do ensino superior.
+
+## Anexo II — (a que se referem o n.º 1 do artigo 3.º e os artigos 4.º, 6.º, 8.º e 11.º)
+
+Imóveis a integrar no Fundo Nacional de Reabilitação do Edificado
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 5/2021 - Diário da República n.º 6/2021, Série I de 2021-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2021-153519406), em vigor a partir de 2021-01-12
+
+## Anexo III — (a que se referem o n.º 1 do artigo 3.º e o artigo 4.º)
+
+Outros imóveis para execução da primeira fase no plano de intervenção
+
+(ver documento original)
+
+112094226
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 94/2019 - Diário da República n.º 134/2019, Série I de 2019-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2019-123183036), em vigor a partir de 2019-07-17

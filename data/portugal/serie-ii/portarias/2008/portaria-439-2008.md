@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:2189023:por
+title: Portaria n.º 439/2008
+short_title: null
+summary: Promoção a Capitão de 10 tenentes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Comando do Pessoal - Direcção de Administração de Recursos Humanos - Repartição
+  de Pessoal Militar
+proposing_entity: null
+official_number: 439/2008
+official_date: null
+publication_date: '2008-04-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 76/2008, Série II de 2008-04-17
+  number: '76'
+  series: II
+  supplement: null
+  pages: 17680 - 17680
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/04/076000000/1768017680.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2189023'
+  dre_path: /dr/detalhe/portaria/439-2008-2189023
+  internal: pt:dre:2189023:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/439-2008-2189023
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/439-2008-2189023
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-04-17T00:00:00Z'
+integrity:
+  source_sha256: f9b5bb092e1984d817bf0b69d81f73f8749e884f48bf596817075083912a10db
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-439-2189023.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 439/2008
+
+Por portaria de 07 de Outubro de 2007 do major-general director da Administração de Recursos Humanos, no uso da subdelegação de competências do Exmo. tenente-general ajudante-general do Exército por delegação de S.Exa. o general Chefe do Estado-Maior do Exército conferida pelo [Despacho n.º 4316/2007](https://diariodarepublica.pt/dr/detalhe/despacho/4316-2007-2526910) de 31 de Janeiro e publicado no Diário da República, 2.º série, n.º 49, de 9 de Março de 2007, foram promovidos ao posto de capitão, nos termos do n.º 1 do artigo 183.º e da alínea b) do n.º 1 do artigo 217.º do EMFAR, por satisfazerem às condições gerais e especiais de promoção estabelecidas nos artigos 56.º, n.º 1 do 60.º, e 239.º do referido Estatuto, os seguintes militares:
+
+CAP GRAD INF 14295496 Alexandre José Vieira Capote
+
+CAP GRAD INF 12488095 Pedro Manuel Cardoso da Costa
+
+CAP GRAD INF 13163696 Fausto Ferreira de Campos
+
+CAP GRAD CAV 19438195 Mário Rocha Silva
+
+CAP GRAD CAV 19066496 Duarte Jorge Heitor Caldeira
+
+CAP GRAD CAV 16466194 Fernando Jorge Ferreira Lopes
+
+CAP GRAD ENG 12926496 Ernesto da Fonseca
+
+CAP GRAD ENG 14507695 João Pedro Santos Mascarenhas Andrade Pereira
+
+CAP GRAD TM 07509196 Paulo Miguel Ramires dos Santos
+
+CAP GRAD TEDT 14359089 Pedro Jorge Alagoa João
+
+Estes oficiais contam a antiguidade do novo posto, desde 01OUT2006, data a partir da qual lhes são devidos os respectivos vencimentos, ficando integrados no escalão 1 da estrutura remuneratória do novo posto, nos termos do n.º 1 do artigo 12.º do Decreto-Lei 328/99, de 18 de Agosto.
+
+Ficam inscritos na lista geral de antiguidades dos seus Quadros Especiais nos termos do n.º 1 do artigo 178.º do EMFAR.
+
+15 de Outubro de 2007. - O Chefe da Repartição, Óscar Humberto Almeida Megre Barbosa, COR INF.

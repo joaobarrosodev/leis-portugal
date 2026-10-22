@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:400813:por
+title: Decreto-Lei n.º 358/84
+short_title: null
+summary: Aprova o regime jurídico das carteiras profissionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Justiça, da Educação e do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 358/84
+official_date: null
+publication_date: '1984-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 263/1984, Série I de 1984-11-13
+  number: '263'
+  series: I
+  supplement: null
+  pages: 3449 - 3451
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/11/26300/34493451.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '400813'
+  dre_path: /dr/detalhe/decreto-lei/358-1984-400813
+  internal: pt:dre:400813:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1984-400813
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1984-400813
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-07-27T00:00:00Z'
+integrity:
+  source_sha256: 082027fda45a6a3c2e0cc893055d4a4c3df3020e3890072e134ddf2ba5cf9d3c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-358-400813.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:669541:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 358/84
+
+de 13 de Novembro
+
+1. O regime jurídico das carteiras profissionais, adoptado no presente diploma, é justificado pelo propósito de harmonizar com os princípios do actual sistema jurídico um instituto cuja origem remonta à época inicial da organização corporativa. Criada pelo [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939, a carteira profissional vinha secundar a obrigatoriedade de pagamento de quotas aos grémios e sindicatos por todas as empresas e trabalhadores, para assegurar a estabilidade dos organismos corporativos. A imposição da carteira profissional a qualquer profissão realizava-se por despacho do membro do Governo competente, sem especificar a lei, o critério ou o fim da decisão. A sua passagem, segundo regulamentos previamente aprovados, competia aos sindicatos para permitir que arrecadassem uma taxa e controlar o pagamentos das quotas.
+
+A evolução do sistema jurídico, marcada pelo reconhecimento do princípio da liberdade sindical, eliminou as regras de quotização obrigatória mas não atingiu o instituto da carteira profissional, que continuou a ser praticada sem oposição da doutrina e da jurisprudência. Esta sobrevivência foi possível através de algumas adaptações do regime em relação aos fins e aos meios. Eliminado o fim de promover a estabilidade financeira dos sindicatos, passou a destacar-se a certificação pública da aptidão profissional dos titulares das carteiras, garantida pelos requisitos regulamentares de cursos escolares, aprovação em exames prévios ou frequência de estágios. A passagem das carteiras pelos sindicatos acomodou-se às novas situações de pluralismo sindical e de trabalhadores sem sindicalização, através de determinações administrativas e de lei que proibiu que ela fosse recusada por falta de pagamento de quotas.
+
+2. No contexto da preparação do novo regime jurídico, foi publicado um projecto, para apreciação pública, na separata n.º 1 do Boletim do Trabalho e Emprego de 11 de Junho de 1979. Emitiram pareceres várias associações sindicais e uma confederação patronal.
+
+Do lado sindical, as raras expressões contrárias ao projecto limitaram-se a afirmações não fundamentadas ou a invocar uma indefinida inconstitucionalidade. As posições mais elaboradas, das confederações sindicais, não impugnaram abertamente nenhuma das regras principais: aceitaram umas e expressaram perante outras receios de utilização abusiva por parte do Governo ou da Administração. A confederação patronal não criticou as soluções do projecto.
+
+As alterações mais sensíveis entre o projecto e o texto final localizaram-se em dois aspectos, influenciados por importantes modificações legislativas entretanto verificadas. Previam-se restrições ao exercício da profissão como efeito da condenação em certos crimes, que foram eliminadas em benefício da aplicação do disposto na lei penal sobre a suspensão do exercício de funções como pena acessória da condenação. Alterou-se a natureza contravencional do ilícito e das sanções nos casos de violação da exigência legal da carteira ou das regras de conduta profissional e adoptou-se o regime do direito de mera ordenação social, especificamente apropriado a este tipo de intervenção legislativa que impõe condutas despidas de fundamentação ético-jurídica.
+
+3. O novo regime estrutura-se sobre três regras fundamentais: a definição dos fins que podem justificar o condicionamento ao exercício de determinadas profissões; a concretização por portaria das profissões condicionadas e das qualificações especiais exigidas, e a atribuição da competência para a passagem das carteiras à Administração.
+
+A primeira regra reconhece como de interesse colectivo a defesa de bens jurídicos essenciais contra possíveis lesões praticadas por causa do exercício inábil de certas funções. Identifica os bens jurídicos e apenas para a sua protecção permite que se condicione o exercício de certas profissões. Deverá existir uma ligação estreita entre a profissão e um qualquer destes bens, de modo que as regras de experiência manifestem uma causalidade adequada entre a execução defeituosa das funções e a lesão do bem protegido.
+
+A diversidade e permanente evolução das actividades económicas e sociais e das regras técnicas não permitem a concentração num único diploma de toda a regulamentação relativa ao exercício das várias profissões. Manteve-se, por isso, o sistema de remeter para diplomas regulamentares a concretização das profissões condicionadas com base na lei que lhes determina as finalidades, os instrumentos e as garantias.
+
+Finalmente, atribui-se a competência para a passagem das carteiras profissionais à Administração. O condicionamento das profissões impõe-se por razões de ordem pública, pelo que deve caber aos órgãos estaduais a totalidade da regulamentação, execução e garantia do sistema. Afasta-se imediatamente a competência dos sindicatos, mesmo no âmbito de regulamentos anteriores que transitoriamente continuam em vigor; nenhuma razão existe que a justificasse e, decisivamente, ela é, como já demonstrou o Tribunal Constitucional, contrária ao princípio da liberdade sindical.
+
+Nos termos constitucionais foram ouvidas as Regiões Autónomas dos Açores e da Madeira.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Condicionamento do exercício de profissões)
+
+1 - O exercício de profissões cuja natureza exija qualificações especiais só pode ser condicionado à existência dessas qualificações para defesa da saúde e da integridade física e moral das pessoas ou da segurança dos bens.
+
+2 - O regime previsto no presente diploma não é aplicável às profissões cujo exercício dependa de inscrição em ordens.
+
+###### Artigo 2.º — (Determinação das profissões)
+
+1 - As profissões a que se refere o n.º 1 do artigo anterior serão definidas em portaria conjunta do Ministro do Trabalho e Segurança Social, do ministro da tutela do sector de actividade em que são exercidas e, para os efeitos das alíneas a) e b) do n.º 2 do artigo 3.º, do Ministro da Educação.
+
+2 - Na preparação das portarias serão ouvidas as associações sindicais e patronais interessadas.
+
+###### Artigo 3.º — (Requisitos)
+
+1 - A existência das qualificações especiais necessárias para o exercício das profissões referidas no n.º 1 do artigo 1.º pode ser provada por certificado de curso escolar adequado ou apurada mediante provas a realizar para o efeito.
+
+2 - A portaria determina, relativamente a cada profissão:
+
+a) Cursos escolares com cuja habilitação é permitido o exercício da profissão;
+
+b) Regras aplicáveis às provas de habilitação, domínios do conhecimento abrangidos e composição do júri;
+
+c) Os requisitos e, quando se julgar conveniente, o prazo de validade da carteira profissional;
+
+d) O prazo máximo do exercício da profissão no caso previsto no n.º 2 do artigo 4.º;
+
+e) A idade mínima exigida para o exercício da profissão.
+
+3 - A portaria pode exigir que o exercício da profissão seja precedido de estágio, a realizar em condições que regulará.
+
+###### Artigo 4.º — (Carteira profissional)
+
+1 - O exercício de profissões que constem das portarias emitidas ao abrigo deste diploma obriga à posse de carteira profissional passada pelos serviços competentes do Ministério do Trabalho e Segurança Social e das Secretarias Regionais do Trabalho dos Açores e da Madeira.
+
+2 - O exercício temporário de profissões referidas no n.º 1 em território nacional pode ser autorizado, mediante certificado, a quem, habilitado com título escolar ou profissional adequado, as tenha exercido em país estrangeiro.
+
+###### Artigo 5.º — (Regras de conduta no exercício da profissão)
+
+As portarias referidas no n.º 1 do artigo 2.º podem incluir regras de conduta a observar no exercício da profissão.
+
+###### Artigo 6.º — (Efeitos de falta de carteira profissional ou certificado)
+
+1 - É nulo o contrato pelo qual alguém se obrigue a exercer, mediante remuneração, profissões abrangidas por portarias emitidas ao abrigo deste diploma sem que possua carteira profissional ou certificado.
+
+2 - O exercício das referidas profissões por quem não possua carteira profissional ou certificado constitui contra-ordenação punível com coima de 30000$00 a 200000$00.
+
+3 - No caso previsto no número anterior, a entidade empregadora fica sujeita a coima de 60000$00 a 200000$00 ou, tratando-se de pessoa colectiva, de 60000$00 a 600000$00.
+
+###### Artigo 7.º — (Autoridade administrativa competente)
+
+Para o processamento das contra-ordenações referidas nos n.os 2 e 3 do artigo 6.º e aplicação das coimas são competentes a Inspecção-Geral do Trabalho e as Inspecções Regionais do Trabalho dos Açores e da Madeira.
+
+###### Artigo 8.º — (Disposições finais e transitórias)
+
+1 - Os regulamentos de carteiras profissionais aprovados ao abrigo do [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939, mantêm-se em vigor até que sejam revogados ou substituídos, nos termos do n.º 1 do artigo 2.º
+
+2 - A passagem de carteiras profissionais ao abrigo de regulamentos mantidos em vigor nos termos do número anterior será feita pelos serviços competentes do Ministério do Trabalho e Segurança Social e das Secretarias Regionais do Trabalho dos Açores e da Madeira.
+
+3 - As carteiras profissionais emitidas ao abrigo do regime anterior mantêm a sua validade, sem prejuízo do que vier a ser disposto nas portarias a que se refere o n.º 1 do artigo 2.º
+
+###### Artigo 9.º — (Norma revogatória)
+
+É revogado o artigo 3.º do [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939.
+
+Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1984. - O Primeiro-Ministro em exercício, Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - José Augusto Seabra - Amândio Anes de Azevedo.
+
+**Promulgado em 31 de Outubro de 1984.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 5 de Novembro de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

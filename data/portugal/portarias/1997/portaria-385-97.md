@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:359676:por
+title: Portaria n.º 385/97
+short_title: null
+summary: Altera o plano de estudos do curso de licenciatura em Design Industrial ministrado na Universidade Lusíada, no Porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 385/97
+official_date: null
+publication_date: '1997-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/1997, Série I-B de 1997-06-12
+  number: '134'
+  series: I
+  supplement: null
+  pages: 2868 - 2869
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/06/134b00/28682869.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/385/1997/06/12/p/dre/pt/html
+  oj: null
+  dre: '359676'
+  dre_path: /dr/detalhe/portaria/385-1997-359676
+  internal: pt:dre:359676:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/385-1997-359676
+  metadata_url: https://data.dre.pt/eli/port/385/1997/06/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/385-1997-359676
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-01-04T00:00:00Z'
+integrity:
+  source_sha256: 1498d9074394298efac221dc04e39d5115a8a9cfe4e34f99320e9764b0fd4213
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-385-359676.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Universidade Lusíada
+- Plano de Estudos
+- Curso de Design Industrial
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:203446:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1413/1995/11/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1413/1995/11/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 385/97
+
+de 12 de Junho
+
+A requerimento da CEUL - Cooperativa de Ensino Universidade Lusíada, C. R. L., entidade instituidora da Universidade Lusíada (Porto) a que se refere a [Portaria n.º 1132/91](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1991-321923), de 31 de Outubro;
+
+Tendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;
+
+Ao abrigo do disposto no artigo 64.º do referido Estatuto:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Alteração
+
+O plano de estudos do curso de licenciatura em Design Industrial ministrado pela Universidade Lusíada (Porto) ao abrigo do disposto na [Portaria n.º 1413/95](https://diariodarepublica.pt/dr/detalhe/portaria/1413-1995-692410), de 24 de Novembro, passa a ser o constante em anexo à presente portaria.
+
+2.º
+
+Aplicação
+
+As alterações aprovadas pela presente portaria aplicam-se a partir do ano lectivo de 1996-1997, inclusive.
+
+Ministério da Educação.
+
+**Assinada em 12 de Maio de 1997.**
+
+Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
+
+## ANEXO — Universidade Lusíada (Porto)
+
+Licenciatura em Design Industrial
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/134b00/28682869.pdf))](https://files.diariodarepublica.pt/1s/1997/06/134b00/28682869.pdf)

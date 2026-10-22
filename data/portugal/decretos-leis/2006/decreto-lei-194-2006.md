@@ -1,0 +1,1811 @@
+---
+schema_version: '1.0'
+id: pt:dre:541592:por
+title: Decreto-Lei n.º 194/2006
+short_title: null
+summary: Regula a produção, controlo, certificação e comercialização de materiais de propagação vegetativa de videira, transpondo
+  para a ordem jurídica interna a Directiva n.º 2005/43/CE, da Comissão, de 23 de Junho, que altera os anexos da Directiva
+  n.º 68/193/CEE, do Conselho, de 9 de Abril, relativa à comercialização dos materiais de propagação vegetativa da videira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 194/2006
+official_date: null
+publication_date: '2006-09-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/2006, Série I de 2006-09-27
+  number: '187'
+  series: I
+  supplement: null
+  pages: 7058 - 7075
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/09/18700/70587075.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-194-2006.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-09-30'
+    amending: pt:dre:144010960:por
+    amending_title: Decreto-Lei n.º 78/2020
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 9.º-A
+    - Adita Artigo 10.º-A
+    - Adita Artigo 16.º-A
+    - Adita Artigo 17.º-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 42.º-A
+    - Adita Parte C
+    - Adita Parte A
+    - Adita Parte B
+    - Altera Parte B
+    - Altera Parte A
+    - Altera Artigo 3.º
+    - Altera Capítulo II
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º
+    - Altera Capítulo VII
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Anexo II
+    - Altera Anexo IV
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/194/2006/p/cons/20210129/pt/html
+  oj: null
+  dre: '541592'
+  dre_path: /dr/detalhe/decreto-lei/194-2006-541592
+  internal: pt:dre:541592:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2006-541592
+  metadata_url: https://data.dre.pt/eli/dec-lei/194/2006/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-144127318
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-144127318
+  retrieved_at: '2026-10-22T12:34:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 77dbf409a7b03bf8d9107578436e97fea4c9b89fa90c24e3afe03cd3b0f2bbf8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:34:54Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-194-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Análise Laboratorial
+- Aproximação das Legislações
+- Doença Animal
+- Catálogo Nacional de Variedades
+- Multa
+- Vinho
+- Organismo Geneticamente Modificado
+- Cnevv
+- Contra-ordenação
+- Direcção Geral de Protecção das Culturas
+- Direcção Regional de Agricultura
+- Diretor Geral
+- Controlo Sanitário
+- Fiscalização
+- Importação
+- Instituto da Vinha e do Vinho
+- ASAE
+- Licenciamento
+- Praga
+- Produtor
+- Proteção Fitossanitária
+- Madeira.região Autónoma
+- Açores
+- Comércio
+- Produto Vitivinícola
+- Vitivinicultor
+- Vinha
+relationships:
+- type: amended_by
+  target: pt:dre:144010960:por
+  label: Adita Artigo 7.º-A; Adita Artigo 9.º-A; Adita Artigo 10.º-A; Adita Artigo 16.º-A; Adita Artigo 17.º-A; Adita Artigo
+    18.º-A; Adita Artigo 42.º-A; Adita Parte C; Adita Parte A; Adita Parte B; Altera Parte B; Altera Parte A; Altera Artigo
+    3.º; Altera Capítulo II; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 11.º;
+    Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960
+  date: '2020-09-29'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 37.º; Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:31968L0193
+  label: null
+  source: http://data.europa.eu/eli/dir/1968/193/oj
+- type: cites
+  target: celex:31999R1493
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1493/oj
+- type: cites
+  target: celex:32000R1227
+  label: null
+  source: http://data.europa.eu/eli/reg/2000/1227/oj
+- type: cites
+  target: celex:32002R0178
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/178/oj
+- type: cites
+  target: celex:32003R1829
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/1829/oj
+- type: cites
+  target: celex:32004L0029
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/29/oj
+- type: cites
+  target: celex:32005L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/2005/43/oj
+- type: cites
+  target: celex:32031R2016
+  label: null
+  source: null
+article_structure:
+  article_count: 54
+  section_count: 26
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:34:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 194/2006
+
+Decreto-Lei n.º 194/2006
+
+de 27 de Setembro
+
+A matéria respeitante aos materiais de propagação vegetativa da videira rege-se, no âmbito do direito comunitário, pelo disposto na Directiva n.º <a href="eurlex.asp?ano=1968&id=368L0193" title="Link para Directiva da Comunidade Europeia">68/193/CEE</a>, do Conselho, de 9 de Abril, relativa à comercialização de materiais de propagação vegetativa da videira, e suas alterações, e na Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0029" title="Link para Directiva da Comunidade Europeia">2004/29/CE</a>, da Comissão, de 4 de Março, relativa à fixação de caracteres e das condições mínimas para o exame de variedades de videira.
+
+A nível nacional, esta matéria insere-se no âmbito do Decreto-Lei n.º 277/91, de 8 de Agosto, que estabelece as normas gerais aplicáveis à produção e comercialização de materiais de viveiro, alterado pelos Decretos-Leis n.os 33/93, de 12 de Fevereiro, 237/2000, de 29 de Setembro, 205/2003, de 12 de Setembro, e 21/2004, de 22 de Janeiro.
+
+Ao abrigo do Decreto-Lei n.º 277/91, de 8 de Agosto, o acervo legislativo constante da Directiva n.º <a href="eurlex.asp?ano=1968&id=368L0193" title="Link para Directiva da Comunidade Europeia">68/193/CEE</a>, do Conselho, de 9 de Abril, e suas alterações, e da Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0029" title="Link para Directiva da Comunidade Europeia">2004/29/CE</a>, da Comissão, de 4 de Março, esta codificadora de duas directivas transpostas, foi harmonizado no direito nacional pela Portaria n.º 1137/91, de 5 de Novembro, que aprovou o Regulamento da Produção, Certificação e Comercialização de Materiais de Viveiro Vitícolas, na redacção que lhe foi dada pelas Portarias n.os 607/96, de 25 de Outubro, e 68/2002, de 18 de Janeiro, e pelo Decreto-Lei n.º 266/2003, de 25 de Outubro.
+
+Esta harmonização foi, também, complementada pelo Despacho Normativo n.º 38/96, de 1 de Outubro, que aprovou normas técnicas necessárias à boa execução do citado Regulamento.
+
+Foi, entretanto, aprovada a Directiva n.º <a href="eurlex.asp?ano=2005&id=305L0043" title="Link para Directiva da Comunidade Europeia">2005/43/CE</a>, da Comissão, de 23 de Junho, relativa à comercialização dos materiais de propagação vegetativa da videira, que alterou integralmente os anexos da Directiva n.º <a href="eurlex.asp?ano=1968&id=368L0193" title="Link para Directiva da Comunidade Europeia">68/193/CEE</a>, do Conselho, de 9 de Abril. O disposto na directiva agora publicada veio culminar um primeiro processo de revisão da legislação comunitária no âmbito daqueles materiais de propagação, estabelecendo novas regras no que respeita às condições a preencher quanto à cultura, aos materiais de propagação, seu acondicionamento e etiquetagem.
+
+Perante a relevância que os materiais de propagação vegetativa da videira assumem na agricultura do País, aliada à obrigação de proceder à transposição para o direito nacional da directiva e, por outro lado, tendo presente que a legislação interna sobre a matéria foi publicada no início da década de 90, reconhece-se a necessidade de proceder à sua adequada actualização.
+
+Nestes termos, indo ao encontro dos anseios manifestados pelos agentes do sector, opta-se pela publicação de um novo diploma que reúne as regras aplicáveis à produção, controlo, certificação e comercialização dos materiais de propagação vegetativa de videira.
+
+Simultaneamente, introduzem-se novos procedimentos de certificação dos materiais vitícolas, no sentido de implementar um sistema que permita diversificar, sem perda de qualidade, a realização das operações que visam aquela certificação, autorizando terceiros a realizar, sob supervisão oficial, tarefas tradicionalmente cometidas ao Estado, que, deste modo, se estendem à iniciativa privada, tais como inspecções de campo e de materiais vitícolas, análises e testes laboratoriais, colheita de amostras e emissão de etiquetas de certificação.
+
+Procede-se, ainda, tendo em consideração a especificidade dos materiais de propagação vegetativa da videira, à formalização em catálogo nacional das variedades de videira e respectivos clones através da criação de um regime específico para a sua avaliação e inscrição no Catálogo Nacional de Variedades de Espécies Agrícolas e de Espécies Hortícolas (CNV), em substituição da actual lista de variedades e clones admitidos à certificação, com vista a uma adequada publicitação daquelas variedades.
+
+Realce, também, para outros aspectos inovadores, tais como, por um lado, a inclusão no sistema de certificação de materiais de propagação vegetativa da videira da categoria inicial e a certificação daqueles materiais herbáceos e, por outro, a simplificação das exigências fitossanitárias para a «cabeça de clone».
+
+Consolidam-se e actualizam-se, deste modo, as disposições legais relativas aos materiais de propagação vegetativa da videira, retirando-os da sujeição ao regime genérico do referido Decreto-Lei n.º 277/91, de 8 de Agosto, o qual, por razões que respeitam à abrangência da sua aplicação, importa manter em vigor, deixando, no entanto, de ser aplicável aos materiais vitícolas. Assim, o referido diploma mantém a sua vigência apenas para os restantes materiais de propagação vegetativa, designadamente de fruteiras, de morangueiro, citrícolas e jovens plantas hortícolas.
+
+Pelo exposto, o presente decreto-lei vem simplificar os procedimentos de certificação dos materiais vitícolas, procede à transposição da Directiva n.º <a href="eurlex.asp?ano=2005&id=305L0043" title="Link para Directiva da Comunidade Europeia">2005/43/CE</a>, da Comissão, de 23 de Junho, e simultaneamente, na prossecução de uma política de simplificação legislativa, consolida num único diploma toda a matéria em apreço.
+
+Em consequência, procede-se à revogação da legislação que actualmente regula a produção e comercialização dos materiais de propagação vegetativa da videira.
+
+Foi promovida a consulta ao Conselho Nacional do Consumo.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto-lei regula a produção, controlo, certificação e comercialização de materiais de propagação vegetativa de videira.
+
+2 - O presente decreto-lei aplica-se exclusivamente aos materiais de propagação vegetativa de videira, adiante designados por materiais vitícolas, das diferentes espécies cultivadas do género botânico Vitis (L.), incluindo os seus híbridos interespecíficos e intervarietais.
+
+3 - O presente decreto-lei é aplicável:
+
+a) Aos materiais vitícolas do produtor licenciado que sejam destinados à instalação das suas próprias culturas, com vista à certificação;
+
+b) Aos materiais vitícolas de variedades geneticamente modificadas, sem prejuízo do disposto em legislação especial.
+
+4 - Ficam excluídos do âmbito de aplicação do presente decreto-lei os materiais vitícolas destinados a ensaios ou fins científicos, a trabalhos de selecção, à conservação da diversidade genética e à exportação para países terceiros.
+
+###### Artigo 2.º — Transposição de directivas
+
+1 - O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2005&id=305L0043" title="Link para Directiva da Comunidade Europeia">2005/43/CE</a>, da Comissão, de 23 de Junho, que altera os anexos da Directiva n.º <a href="eurlex.asp?ano=1968&id=368L0193" title="Link para Directiva da Comunidade Europeia">68/193/CEE</a>, do Conselho, de 9 de Abril.
+
+2 - O presente decreto-lei procede simultaneamente à consolidação na ordem jurídica interna da transposição das seguintes directivas comunitárias:
+
+a) Directiva n.º <a href="eurlex.asp?ano=1968&id=368L0193" title="Link para Directiva da Comunidade Europeia">68/193/CEE</a>, do Conselho, de 9 de Abril, relativa à comercialização dos materiais de propagação vegetativa da videira, e respectivas alterações;
+
+b) Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0029" title="Link para Directiva da Comunidade Europeia">2004/29/CE</a>, da Comissão, de 4 de Março, relativa à fixação de caracteres e das condições mínimas para o exame de variedades de videira.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Videira» as plantas do género Vitis (L.) destinadas à produção de uvas ou à utilização como materiais de propagação vegetativa;
+
+b) «Variedade» o conjunto de plantas pertencente a um só táxon botânico, da ordem mais baixa conhecida, que, cumulativamente, satisfaça as seguintes condições:
+
+i) Seja definido pela expressão dos carateres morfológicos, fisiológicos e outros resultantes de um genótipo ou de uma combinação de genótipos;
+
+ii) Seja distinto de qualquer outro conjunto de plantas pela expressão de pelo menos um desses carateres;
+
+iii) Seja considerado como uma entidade com aptidão para ser propagado sem alteração dos seus carateres;
+
+c) «Clone» a descendência vegetativa de uma variedade de videira obtida a partir de uma cepa selecionada pela sua identidade varietal, os seus carateres fenotípicos e o seu estado sanitário;
+
+d) «Variedade distinta» a variedade que se distingue nitidamente, através da expressão dos carateres que resultam de um dado genótipo ou combinação de genótipos de qualquer outra variedade que esteja inscrita ou em fase de inscrição no catálogo de variedades de um Estado-Membro;
+
+e) «Variedade homogénea» uma variedade é considerada homogénea se, sob reserva das variações que possam resultar das especificidades da sua propagação, for suficientemente homogénea na expressão dos carateres compreendidos no exame da distinção e de qualquer outro caráter utilizado para a descrição da variedade;
+
+f) «Variedade estável» uma variedade é considerada estável quando a expressão dos carateres compreendidos no exame da distinção e de qualquer outro caráter utilizado para a descrição da variedade permanecer inalterada na sequência de propagações sucessivas;
+
+g) «Partes de plantas»:
+
+i) «Sarmento ou vara» o ramo lenhoso de um ano;
+
+ii) «Ramo herbáceo» o ramo não lenhoso;
+
+iii) «Estaca para enraizar» a fração de sarmento ou de ramo herbáceo de videira destinada à produção de bacelos;
+
+iv) «Estaca para enxertar» a fração de sarmento ou de ramo herbáceo de videira destinada a formar a parte subterrânea dos bacelos enxertados;
+
+v) «Garfo» a fração de sarmento ou de ramo herbáceo de videira destinada a formar a parte aérea dos bacelos enxertados ou a ser enxertada no local definitivo;
+
+h) «Plantas»:
+
+i) «Bacelo» a fração de sarmento ou de ramo herbáceo de videira enraizada mas não enxertada, destinada à plantação de pé-franco ou a ser utilizada como porta-enxerto;
+
+ii) «Bacelo enxertado ou enxerto pronto» as frações de sarmentos ou de ramos herbáceos de videira unidas entre si por enxertia e com a parte subterrânea enraizada;
+
+i) «Vinha mãe» a cultura de videiras destinadas à produção de estacas para enraizar, estacas para enxertar ou garfos;
+
+j) «Viveiro» a cultura de videiras destinadas à produção de bacelos ou de bacelos enxertados;
+
+k) «Material inicial» o material:
+
+i) Que tenha sido produzido, se for caso disso, sob a responsabilidade do obtentor, segundo métodos geralmente admitidos, a partir de uma cepa selecionada ou das plantas que constituem a sua descendência direta, tendo em vista a preservação da identidade da variedade ou clone e do seu estado sanitário;
+
+ii) Que se destina à produção de material base ou certificado;
+
+iii) Que satisfaz os requisitos exigidos para todos os materiais vitícolas e para os desta categoria em particular;
+
+iv) Para o qual se tenha verificado, aquando de uma inspeção oficial, que foram respeitadas as condições enunciadas na presente alínea k);
+
+l) «Material base» o material:
+
+i) Que tenha sido produzido, se for caso disso, sob responsabilidade do obtentor, segundo métodos geralmente admitidos, tendo em vista a preservação da identidade da variedade ou clone e o seu estado sanitário, e que provenha diretamente de material inicial;
+
+ii) Que se destina à produção de material certificado;
+
+iii) Que satisfaz os requisitos exigidos para todos os materiais vitícolas e para os desta categoria em particular;
+
+iv) Para o qual se tenha verificado, aquando de uma inspeção oficial ou sob supervisão oficial, que foram respeitadas as condições enunciadas na presente alínea l);
+
+m) «Material certificado» o material:
+
+i) Que provém diretamente de material base ou de material inicial;
+
+ii) Que se destina à produção de plantas ou partes de plantas a utilizar nas plantações para produção de uvas;
+
+iii) Que satisfaz os requisitos exigidos para todos os materiais vitícolas e para os desta categoria em particular;
+
+iv) Para o qual se tenha verificado, aquando de uma inspeção oficial ou sob supervisão oficial, que foram respeitadas as condições enunciadas na presente alínea m);
+
+n) «Material standard» o material:
+
+i) Que possui identidade e pureza varietal;
+
+ii) Que se destina à produção de plantas ou partes de plantas a utilizar nas plantações para produção de uvas;
+
+iii) Que satisfaz os requisitos exigidos para todos os materiais vitícolas e para os desta categoria em particular;
+
+iv) Para o qual se tenha verificado, aquando de uma inspeção oficial ou sob supervisão oficial, que foram respeitadas as condições enunciadas na presente alínea n);
+
+o) «Seleção de manutenção da variedade» a cultura e multiplicação, por via vegetativa, da descendência de uma cepa selecionada, reconhecida como sã e típica da variedade em causa, tendo em vista garantir a existência da variedade ou, se for o caso, do clone, e a produção de materiais vitícolas;
+
+p) «Indexagem biológica ou teste sobre plantas indicadoras do género Vitis (L.)» a metodologia utilizada para a comprovação do estado sanitário dos materiais vitícolas, recorrendo à enxertia em plantas indicadoras;
+
+q) «Lote» o conjunto de materiais vitícolas de uma mesma variedade ou clone e categoria, suficientemente homogéneos e provenientes de uma mesma parcela, tratando-se de material inicial e base, ou de uma ou várias parcelas do mesmo local e produtor, tratando-se de materiais certificado ou standard;
+
+r) «Certificação» a verificação do cumprimento das normas definidas no presente decreto-lei, através da realização de inspeções e exames oficiais ou sob supervisão oficial, traduzindo-se, se for o caso, no ato oficial de aposição da etiqueta de certificação;
+
+s) «Obtentor» a pessoa singular ou coletiva, pública ou privada, que, dispondo dos meios apropriados, criou ou selecionou e desenvolveu uma nova variedade ou, se for o caso, um clone;
+
+t) «Produtor de materiais vitícolas» a entidade singular ou coletiva, pública ou privada, que, dispondo dos meios adequados, procede à produção de materiais vitícolas destinados à comercialização, segundo o definido no presente decreto-lei;
+
+u) «Fornecedor de materiais vitícolas» a entidade singular ou coletiva, pública ou privada, que, dispondo dos meios adequados, procede à comercialização de materiais vitícolas certificados, segundo o definido no presente decreto-lei;
+
+v) «Parcela» a área de vinha mãe ou de viveiro com um povoamento homogéneo e contínuo de plantas ou partes de plantas de videira da mesma variedade ou clone, categoria e origem;
+
+w) «Comercialização» a venda, detenção com vista à venda, oferta de venda e qualquer cessão, fornecimento ou transferência de materiais vitícolas a terceiros, com remuneração ou não, com vista a uma exploração comercial, não sendo consideradas comercialização as trocas de materiais vitícolas que não visem a exploração comercial da variedade, como, por exemplo, as seguintes operações:
+
+i) Fornecimento de materiais vitícolas a organismos de investigação e de controlo;
+
+ii) Fornecimento de materiais vitícolas a prestadores de serviços, com vista à sua transformação ou acondicionamento, desde que o prestador não adquira um título sobre o material vitícola fornecido;
+
+x) «Disposições oficiais» as disposições que forem tomadas:
+
+i) Pelas autoridades competentes; ou
+
+ii) Sob a responsabilidade da Direção-Geral de Alimentação e Veterinária (DGAV), por pessoas coletivas de direito público; ou
+
+iii) Para atividades auxiliares, igualmente sob controlo da DGAV, por pessoas singulares devidamente autorizadas pela DGAV, com a condição de as pessoas referidas nas alíneas b) e c) não obterem qualquer proveito específico do resultado dessas disposições.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 4.º — Entidades competentes
+
+1 - A Direcção-Geral de Protecção das Culturas (DGPC) é a autoridade nacional responsável pelo controlo da produção e certificação de materiais vitícolas, competindo-lhe zelar pelo efectivo cumprimento das disposições legais aplicáveis orientar e apoiar a actividade de outras entidades intervenientes, compreendendo as actividades que em matéria de comercialização lhe estão cometidas pelo presente decreto-lei.
+
+2 - Às direcções regionais de agricultura (DRA) e aos correspondentes serviços das Regiões Autónomas dos Açores e da Madeira, sob orientação da DGPC, compete, na sua área geográfica, proceder à emissão de pareceres sobre licenciamentos e admissão de inscrições de parcelas de vinhas mãe e viveiros, bem como executar as acções de controlo previstas nos termos do presente decreto-lei.
+
+3 - Os serviços referidos nos números anteriores dispõem de inspectores fitossanitários e de qualidade de materiais de propagação vegetativa, nomeados pelo director-geral de Protecção das Culturas, adiante designados por inspectores oficiais.
+
+4 - A DGPC pode autorizar que pessoas singulares ou colectivas, públicas ou privadas, executem, mediante supervisão oficial, as funções que lhe estão atribuídas, nomeadamente inspecções de campo e de materiais vitícolas, análises e testes laboratoriais, colheita de amostras e emissão de etiquetas de certificação.
+
+5 - A concessão e os termos da autorização referida no número anterior são definidos por despacho do director-geral de Protecção das Culturas, mediante garantia de cumprimento das regras próprias correspondentes às funções autorizadas.
+
+6 - Ao Instituto da Vinha e do Vinho (IVV) compete conceder as devidas autorizações para a plantação de vinhas mãe para a produção de materiais vitícolas.
+
+7 - À Autoridade de Segurança Alimentar e Económica (ASAE) compete proceder à fiscalização de materiais vitícolas em comercialização, com a colaboração técnica da DGPC e das DRA.
+
+### Capítulo II — Catálogo Nacional de Variedades de Videira
+
+> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 5.º — Catálogo Nacional de Variedades de Videira e lista de clones admitidos à certificação
+
+1 - Apenas podem ser admitidas à produção e comercialização:
+
+a) As variedades inscritas no Catálogo Nacional de Variedades de Videira (CNVV);
+
+b) As variedades que estejam inscritas no Catálogo Comum de Variedades de Videira ou no Catálogo de outro Estado-Membro, sem prejuízo do disposto na Organização Comum de Mercado, no que diz respeito às regras relativas à classificação das variedades de videira.
+
+2 - O CNVV é de livre acesso e é disponibilizado no sítio na Internet da DGAV.
+
+3 - O CNVV é estabelecido com base nas principais características morfológicas e fisiológicas que permitem a diferenciação entre as variedades.
+
+4 - Os clones admitidos oficialmente à certificação em Portugal são objeto de avaliação e de inscrição, pela DGAV, na lista de clones admitidos oficialmente à certificação.
+
+5 - Os clones admitidos à certificação noutro Estado-Membro são admitidos à certificação em Portugal.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 6.º — Condições para a inscrição de variedades e clones
+
+1 - São inscritas no CNVV as variedades de videira que satisfaçam as seguintes condições:
+
+a) (Revogada.)
+
+b) Sejam distintas, suficientemente homogéneas e estáveis;
+
+c) Tenham um valor agronómico e de utilização satisfatório, determinado em função das condições estabelecidas no anexo I, publicado em anexo ao presente decreto-lei e do qual faz parte integrante;
+
+d) Tenham uma denominação e eventuais sinonímias aprovadas em Portugal ou noutro Estado-Membro;
+
+e) Disponham da respectiva selecção de manutenção;
+
+f) Sendo geneticamente modificados, na aceção do disposto na alínea b) do artigo 2.º do Decreto-Lei n.º 72/2003, de 10 de abril, que regula a libertação deliberada no ambiente de organismos geneticamente modificados:
+
+i) Estarem autorizados para comercialização, incluindo o cultivo;
+
+ii) No caso de material proveniente de uma variedade, que se destine a ser utilizado em géneros alimentícios abrangidos pelo artigo 3.º, ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º, ambos do Regulamento (CE) n.º <a href="eurlex.asp?ano=2003&id=303R1829" title="Link para Regulamento da Comunidade Europeia">1829/2003</a>, do Parlamento Europeu e do Conselho, de 22 de Setembro, relativo a géneros alimentícios e alimentos para animais geneticamente modificados, essa variedade tenha sido aprovada em conformidade com o disposto no referido Regulamento;
+
+iii) No caso de material proveniente de uma variedade, do qual tenham sido derivados produtos destinados a ser utilizados em géneros alimentícios ou em alimentos para animais, tal como definidos nos artigos 2.º e 3.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2002&id=302R0178" title="Link para Regulamento da Comunidade Europeia">178/2002</a>, do Parlamento Europeu e do Conselho, de 28 de Janeiro, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos alimentos, essa variedade tenha sido autorizada ao abrigo da legislação pertinente.
+
+2 - Para a inscrição de variedades no CNVV, são realizados exames oficiais para avaliar as variedades de acordo com o disposto no anexo i e com o procedimento previsto no artigo 7.º-A e a avaliação prevista no artigo 8.º
+
+3 - As variedades nacionais de reconhecido interesse para a atividade vitícola no país para as quais não exista seleção clonal podem ser inscritas no CNVV, desde que seja fornecida pelo proponente a sua descrição varietal e cumpram o disposto na alínea e) do n.º 1, ficando a produção de materiais vitícolas restringida à categoria standard.
+
+4 - As condições para a inscrição de clones na lista de clones admitidos oficialmente à certificação em Portugal são definidas por despacho do diretor-geral de Alimentação e Veterinária.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 7.º — Pedido de inscrição
+
+1 - O interessado em apresentar um pedido de inscrição no CNVV de uma nova variedade deve formular um pedido escrito à DGAV conforme formulário disponibilizado no sítio na Internet desta.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - O pedido de inscrição, para além de incluir a denominação proposta para a variedade, deve ser acompanhado de um processo do qual devem constar:
+
+a) Processo e objetivos da seleção;
+
+b) No caso de uma variedade geneticamente modificada, as provas de que o organismo geneticamente modificado que está contido na variedade está autorizado para cultivo, nos termos do Decreto-Lei n.º 72/2003, de 10 de abril, na sua redação atual, ou do Regulamento (CE) n.º 1829/2003, do Parlamento Europeu e do Conselho, de 22 de setembro de 2003;
+
+c) Quaisquer outros elementos disponíveis e relevantes para a apreciação do pedido.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - O requerente do pedido de inscrição deve, no ato da sua apresentação, indicar se foi efetuado idêntico pedido noutro Estado-Membro e, se for o caso, se já foi realizada a respetiva inscrição, disponibilizando a respetiva descrição oficial.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 7.º-A — Exame aos pedidos de inscrição
+
+1 - O pedido de inscrição de uma variedade deve ser sujeito a exames, nos termos previstos nos números seguintes e de acordo com o disposto no anexo i.
+
+2 - Os exames oficiais aos pedidos de inscrição no CNVV podem ser realizados pelas seguintes entidades:
+
+a) DGAV;
+
+b) Organismo oficial responsável doutro Estado-Membro que tenha aceitado realizar esses ensaios; ou
+
+c) Qualquer pessoa coletiva, em conformidade com o disposto no n.º 4 do artigo 4.º, devendo, neste caso, a DGAV assegurar que, se os ensaios forem instalados em entidades privadas, não há interferência com a avaliação oficial.
+
+3 - Caso o requerente do pedido apresente a descrição oficial das variedades em conformidade com o disposto no n.º 7 do artigo 7.º, é dispensada a realização de exames para avaliar a distinção, homogeneidade e estabilidade.
+
+4 - Para as variedades referidas no n.º 3 do artigo 6.º, o pedido de inscrição apenas deve ser acompanhado de uma descrição da variedade e de elementos que permitam localizar a seleção de manutenção da variedade.
+
+5 - A seleção de manutenção é assegurada pela entidade proponente ou por entidade delegada, de acordo com o método proposto para o efeito pelo respetivo requerente do pedido de inscrição, podendo ser controlada pelos serviços oficiais.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 8.º — Comissão Nacional para o Exame de Variedades de Videira
+
+1 - A Comissão Nacional para o Exame de Variedades de Videira (CNEVV) representa os vários setores da fileira vitivinícola nacional, nomeadamente as organizações representativas de viticultores, de vinicultores e de produtores de materiais vitícolas, os serviços do Ministério da Agricultura envolvidos e os organismos competentes das Regiões Autónomas dos Açores e da Madeira.
+
+2 - À CNEVV compete:
+
+a) Proceder ao acompanhamento dos ensaios, análises e testes referidos no artigo anterior, podendo, a qualquer momento, mandar repetir ensaios ou exames ou simplesmente solicitar esclarecimentos sobre ensaios já realizados ou em curso, visitar os ensaios, consultar documentos e verificar os dados que lhe são apresentados;
+
+b) Avaliar os processos técnicos que integram os pedidos de inscrição no CNVV e na lista de clones admitidos oficialmente à certificação em Portugal, fornecidos pela DGAV;
+
+c) Emitir parecer sobre os pedidos de inscrição a que se refere a alínea anterior.
+
+3 - A composição da CNEVV e o seu modo de funcionamento são definidos por despacho do membro do Governo responsável pela área da agricultura.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 9.º — Inscrição, renovação e exclusão
+
+1 - A inscrição das variedades e clones no CNV:
+
+a) É válida por 30 anos;
+
+b) Pode ser renovada por um período de 25 anos, desde que solicitada cinco anos antes do fim do prazo de inscrição pelo respectivo interessado ou entidade por ele credenciada para o efeito.
+
+2 - A inscrição das variedades e clones mantém a sua eficácia até que seja tomada decisão relativa à renovação da inscrição no CNV.
+
+3 - A renovação da inscrição é efectuada se for verificado que se mantém a distinção, homogeneidade e estabilidade da variedade e que os testes sanitários realizados cumpriram o definido aquando da inscrição, conforme indicado na alínea c) do n.º 4 do artigo 7.º, devendo estes ensaios e testes ser realizados sobre o material em selecção de manutenção.
+
+4 - Uma variedade ou clone é excluído do CNV quando:
+
+a) O requerente que solicitou a inscrição assim o pretenda, mediante pedido escrito dirigido ao director-geral de Protecção das Culturas;
+
+b) For constatado, através de ensaios adequados, que a variedade deixou de ser distinta, suficientemente homogénea e estável;
+
+c) Deixar de estar assegurada a respectiva selecção de manutenção;
+
+d) For provado que durante a fase de admissão ao CNV foram apresentadas informações falsas sobre a variedade ou clone;
+
+e) Se constate o incumprimento da legislação fitossanitária referida no artigo 27.º
+
+5 - A exclusão de uma variedade ou clone do CNV implica a proibição imediata da produção de material vitícola das categorias inicial e base desse clone, podendo, no entanto, ser autorizada a produção e comercialização de materiais da categoria certificado por mais seis campanhas, excepto se a exclusão tiver sido efectuada nos termos da alínea e) do número anterior.
+
+6 - Para as variedades e clones inscritos no CNV, quando a selecção de manutenção é realizada noutro Estado membro, a DGPC fornece a esse país os caracteres morfológicos, fisiológicos e outros, constantes do anexo I, necessários à realização do respectivo controlo varietal.
+
+7 - Para efeitos da realização de controlo de variedades e clones inscritos no CNV, podem ser pedidas amostras ao respectivo responsável pela selecção de manutenção e, em caso de necessidade, estas podem ser colhidas oficialmente.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 9.º-A — Inscrição no Catálogo Nacional de Variedades de Videira e na lista de clones
+
+1 - A inscrição de uma variedade no CNVV é feita por despacho do diretor-geral de Alimentação e Veterinária e publicitada pela DGAV no seu sítio na Internet, com as seguintes informações:
+
+a) Nome da variedade;
+
+b) Nome do proponente e do ou dos responsáveis pela seleção de manutenção, ficando dispensada dessa apresentação em caso de essa seleção ser assegurada por várias entidades, devendo, no entanto, a DGAV dispor de uma lista com o nome das mesmas;
+
+c) Cor do bago, caso se trate de variedades com aptidão para vinho ou mesa, e indicação da sua aptidão;
+
+d) Ano de inscrição;
+
+e) No caso das variedades geneticamente modificadas, a identificação clara desse facto;
+
+f) Sinónimos utilizados.
+
+2 - A inscrição de um clone na lista de clones admitidos oficialmente à certificação é feita por despacho do diretor-geral de Alimentação e Veterinária e publicitada pela DGAV no seu sítio na Internet.
+
+3 - São igualmente objeto de despacho do diretor-geral de Alimentação e Veterinária as alterações efetuadas ao CNVV ou à lista de clones admitidos oficialmente à certificação.
+
+4 - As inscrições e respetivas alterações ao CNVV são comunicadas pela DGAV aos Estados-Membros e à Comissão Europeia.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 10.º — Informação e publicação
+
+1 - A inscrição das variedades e clones no CNV é feita pela DGPC através de publicação na 2.ª série do Diário da República da qual constam as seguintes informações:
+
+a) Nome da variedade, designação dos respectivos clones, se for o caso, informação sobre a sua aptidão e nome do responsável pela selecção de manutenção;
+
+b) No caso de variedades geneticamente modificadas, a indicação expressa do respectivo evento e seu identificador único;
+
+c) Ano da inscrição.
+
+2 - A DGPC procede à publicação na 2.ª série do Diário da República de todas as alterações efectuadas no CNV, constituindo a publicação condição de eficácia da inscrição, renovação ou exclusão.
+
+3 - Todas as inscrições e alterações ao CNV são comunicadas pela DGPC ao IVV, aos Estados membros e à Comissão Europeia.
+
+4 - A DGPC edita anualmente o CNV, o qual disponibiliza as informações relativas às variedades e clones de videira inscritos.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 10.º-A — Exclusão de variedades e clones
+
+1 - Uma variedade é excluída do CNVV quando:
+
+a) O requerente que solicitou a inscrição assim o pretenda, mediante pedido escrito dirigido ao diretor-geral de Alimentação e Veterinária;
+
+b) For constatado, através de ensaios adequados, que a variedade deixou de ser distinta, suficientemente homogénea e estável;
+
+c) Deixar de estar assegurada a respetiva seleção de manutenção;
+
+d) For provado que durante a fase de admissão ao CNVV foram apresentadas informações falsas sobre a variedade;
+
+e) O titular da inscrição não proceda ao pagamento das taxas a que se refere o artigo 35.º
+
+2 - A exclusão de uma variedade do CNVV implica a proibição imediata da produção de material vitícola dessa variedade.
+
+3 - Para as variedades inscritas no CNVV, quando a seleção de manutenção é realizada noutro Estado-Membro, a DGAV fornece a esse Estado-Membro os carateres morfológicos, fisiológicos e outros, constantes do anexo i, necessários à realização do respetivo controlo varietal.
+
+4 - No caso de variedades geneticamente modificadas, a validade da inscrição limita-se ao período para o qual o organismo geneticamente modificado que está contido na variedade está autorizado para cultivo, em conformidade com o disposto no Decreto-Lei n.º 72/2003, de 10 de abril, na sua redação atual, ou no Regulamento (CE) n.º 1829/2003, do Parlamento Europeu e do Conselho, de 22 de setembro de 2003.
+
+5 - Um clone é excluído da lista de clones admitidos oficialmente à certificação quando se verifiquem as situações previstas nas alíneas a), c), d) ou e) do n.º 1, ou quando deixa de cumprir as condições estabelecidas no anexo ii.
+
+6 - A exclusão de um clone da lista de clones admitidos oficialmente à certificação implica a proibição imediata das categorias inicial e base desse clone, podendo, no entanto, ser autorizada a produção e comercialização de materiais da categoria certificada por mais seis campanhas, dependendo dos motivos da exclusão.
+
+7 - A exclusão de uma variedade ou de um clone do CNVV ou da lista de clones admitidos oficialmente à certificação é feita por despacho do diretor-geral de Alimentação e Veterinária e publicitada pela DGAV no seu sítio na Internet.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+### Capítulo III — Produção de materiais vitícolas
+
+#### Secção I — Produtores
+
+###### Artigo 11.º — Registo de produtores
+
+1 - Só podem intervir na produção de materiais vitícolas as pessoas singulares ou coletivas, públicas ou privadas, que estejam registadas pela DGAV para o efeito.
+
+2 - Os interessados na obtenção do registo devem:
+
+a) Dispor de pessoal com experiência na produção de material vitícola, incluindo o estabelecimento e condução técnica das parcelas de vinhas-mãe e de viveiros vitícolas, qualquer que seja o modo de produção utilizado;
+
+b) Dispor de terrenos ou substratos que cumpram o definido no anexo ii, relativo às condições das culturas, para a produção de materiais vitícolas;
+
+c) Dispor de instalações e equipamentos que permitam garantir uma correta receção, acondicionamento e armazenamento dos materiais vitícolas produzidos;
+
+d) Recorrer a laboratórios reconhecidos pela DGAV para a avaliação do estado sanitário das culturas, dos materiais vitícolas produzidos e da presença de nemátodes no solo;
+
+e) Manter um registo escrito ou gravado de forma indelével dos dados referentes à identificação dos pontos críticos da produção, à implementação dos controlos da execução da produção e às ocorrências de caráter fitossanitário verificadas nas instalações ou nas culturas e das medidas tomadas relativamente a essas ocorrências, bem como um registo respeitante à produção e comercialização de materiais vitícolas, os quais, quando solicitados, são postos à disposição das autoridades competentes.
+
+3 - O pedido de registo de produtor é efetuado através da plataforma CERTIGES (CERTIGES), disponibilizada no sítio na Internet da DGAV.
+
+4 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada por qualquer outro meio previsto na lei, nomeadamente através de correio eletrónico para o endereço eletrónico indicado nas páginas oficiais eletrónicas das DRAP.
+
+5 - O pedido de registo é dirigido à DRAP territorialmente competente, a qual, com base na avaliação sobre o cumprimento das exigências estabelecidas no presente decreto-lei, emite uma proposta de decisão final.
+
+6 - Com base na proposta da DRAP, o diretor-geral de Alimentação e Veterinária decide sobre a concessão do registo e, sendo o caso, é atribuído o respetivo número de registo ao interessado, sendo posteriormente emitido o respetivo cartão de registo oficial de fornecedor, no modelo aprovado por despacho do diretor-geral de Alimentação e Veterinária.
+
+7 - A notificação ao produtor da decisão final sobre o seu pedido de registo é realizada através da plataforma CERTIGES.
+
+8 - No caso de uma entidade registada pretender produzir materiais vitícolas de acordo com o modo de produção biológico, deve apresentar prova do respetivo licenciamento pela entidade nacional competente em matéria de agricultura biológica.
+
+9 - As entidades registadas como produtores de materiais vitícolas são, simultaneamente, registadas como fornecedores daqueles materiais.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 12.º — Validade, renovação e cancelamento de registos de produtores
+
+1 - Os registos de produtores de materiais vitícolas são válidos até 31 de dezembro do ano da sua atribuição sendo renovados automaticamente, por cada ano civil subsequente, mediante o cumprimento das condições previstas no número seguinte.
+
+2 - Os registos são renovados mediante a verificação, prévia e cumulativa, do cumprimento pelos produtores das condições seguintes:
+
+a) Cumprimento das exigências previstas no n.º 2 do artigo anterior e restantes disposições do presente decreto-lei, conforme aplicável;
+
+b) Pagamento das taxas a que se refere o artigo 35.º
+
+3 - O cancelamento do registo, em resultado do não cumprimento do disposto na alínea a) do número anterior, não obsta a que os interessados possam proceder à comercialização dos materiais produzidos em data anterior ao cancelamento, desde que se demonstre que os materiais em causa preenchem todos os requisitos exigidos no presente decreto-lei.
+
+4 - O produtor a quem foi cancelado o registo em razão do não cumprimento do disposto na alínea b) do n.º 2 só pode realizar novo pedido de registo após pagamento das taxas devidas em falta.
+
+5 - Os produtores devem comunicar à DRAP territorialmente competente ou à DGAV a cessação ou alterações no exercício da sua atividade ou, ainda, quaisquer alterações aos dados registados no prazo de 30 dias contados a partir da respetiva ocorrência.
+
+6 - Os pedidos de alteração de locais de atividade são sujeitos a decisão do diretor-geral de Alimentação e Veterinária, mediante parecer prévio da DRAP territorialmente competente, sendo essa decisão notificada ao produtor pela DRAP referida.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+#### Secção II — Produção
+
+###### Artigo 13.º — Requisitos de produção
+
+1 - Só podem ser produzidos e certificados em Portugal os materiais vitícolas de variedades que obedeçam a uma das seguintes condições:
+
+a) Estejam inscritas no CNVV;
+
+b) Estejam inscritas no Catálogo Comum de Variedades de Videira ou no catálogo de outro Estado-Membro;
+
+c) (Revogada.)
+
+2 - Só são certificados os materiais vitícolas pertencentes às seguintes categorias:
+
+a) Material inicial;
+
+b) Material base;
+
+c) Material certificado;
+
+d) Material standard.
+
+3 - Não é autorizada a produção de porta-enxertos da categoria standard.
+
+4 - A produção de materiais vitícolas inicial e base só pode ser realizada sob responsabilidade do obtentor da respectiva variedade ou clone ou por entidade a quem o obtentor tenha concedido o direito de propriedade ou de utilização.
+
+5 - A instalação de vinhas mãe para a produção de materiais vitícolas depende de autorização prévia do IVV.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - Com base em legislação comunitária e ainda que em derrogação ao disposto no presente decreto-lei, a DGPC poderá autorizar a produção de materiais vitícolas com recurso a técnicas de propagação in vitro.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 14.º — Inscrição de vinhas mãe e de viveiros
+
+1 - São inscritas pelo produtor de material vitícola através da plataforma CERTIGES todas as parcelas de vinhas-mãe, de viveiros e de culturas em contentores, hidropónicas e outras destinadas à produção de materiais vitícolas para a comercialização, incluindo os materiais objeto de contratos de prestação de serviços a terceiros ou para utilização própria.
+
+2 - A inscrição das parcelas para a produção de materiais vitícolas deve ser realizada nos seguintes períodos:
+
+a) No caso de vinhas mãe para a produção de material inicial e base, até um mês antes da plantação;
+
+b) No caso de vinhas mãe para a produção de material certificado, até 30 de Junho do ano da plantação;
+
+c) No caso de vinhas mãe para a produção de garfos da categoria standard, até 31 de Maio;
+
+d) No caso de viveiros ao ar livre, até 30 de Junho, e, em ambiente confinado, até uma semana após a plantação.
+
+3 - (Revogado.)
+
+4 - Após submissão das inscrições na plataforma CERTIGES, o pedido é reencaminhado para a DRAP territorialmente competente, que efetua o controlo documental.
+
+5 - O pedido de inscrição deve ser acompanhado:
+
+a) Do croquis de localização e identificação das respetivas parcelas;
+
+b) Dos resultados das análises nematológicas das parcelas realizadas sobre amostras de terreno colhidas segundo o estabelecido no n.º 3 do anexo ii, sob a responsabilidade do produtor, e efetuadas por laboratórios reconhecidos pela DGAV;
+
+c) Do original ou da cópia de uma etiqueta de certificação e comprovativo da quantidade adquirida, devendo os originais, na sua totalidade, ser conservados pelo produtor, pelo menos, por dois anos;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+6 - O disposto na alínea c) do número anterior não é aplicável às vinhas-mãe para produção de material standard.
+
+7 - (Revogado.)
+
+8 - São recusadas as inscrições que não se apresentem conformes ao preceituado no presente artigo.
+
+9 - Cada parcela inscrita para a produção dos materiais vitícolas referidos no n.º 1 é identificada através de um código de lote atribuído automaticamente pela plataforma CERTIGES constituído da seguinte forma:
+
+a) Para vinhas-mãe, os dois primeiros dígitos são os dois últimos algarismos do ano em que a inscrição é feita, seguido do número de ordem das inscrições existentes na base de dados da plataforma CERTIGES;
+
+b) Para viveiros, o primeiro dígito é o último algarismo do ano em que a inscrição é feita, seguido do número do viveiro, com dois dígitos, e terminando com o número da parcela, com três dígitos.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 15.º — Identificação das vinhas mãe e viveiros
+
+1 - Nas vinhas-mãe, nos viveiros, nas culturas de materiais vitícolas em contentores, como sejam vasos, cartonagem ou outros, e durante a propagação em verde ou por qualquer outra técnica, os respetivos materiais vitícolas devem ser cultivados separadamente de acordo com o lote, a variedade, o clone e a categoria e devem estar identificados de acordo com o disposto no n.º 9 do artigo anterior.
+
+2 - As vinhas-mãe e os viveiros devem encontrar-se identificados de forma facilmente visível e localizável, constando obrigatoriamente a identificação do produtor e do código de lote da parcela.
+
+3 - As plantas mãe mantidas em cultura hidropónica ou em contentores devem estar etiquetadas, devendo constar das etiquetas o código de lote e a indicação da variedade e, se for o caso, do respetivo clone.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 16.º — Validade, renovação e anulação das inscrições de vinhas mãe e de viveiros
+
+1 - A validade da inscrição das parcelas de viveiros para a produção de materiais vitícolas é anual.
+
+2 - A validade da inscrição das parcelas de vinhas mãe para a produção de materiais vitícolas é de:
+
+a) Cinco anos para a categoria inicial, podendo ser renovadas por igual período;
+
+b) Seis anos para a categoria base, podendo ser renovadas por igual período;
+
+c) Para a categoria certificado, de:
+
+i) 10 anos, podendo ser renovadas por igual período, desde que seja cumprido o definido na subalínea i) da alínea b) do n.º 2 do artigo 21.º;
+
+ii) Cinco anos, em alternativa ao referido na alínea anterior, podendo ser renovadas por períodos subsequentes de 10 anos desde que seja cumprido o definido na subalínea ii) da alínea b) do n.º 2 do artigo 21.º;
+
+d) 12 anos para a categoria standard, podendo ser renovadas por igual período.
+
+3 - Para a renovação da inscrição das parcelas de vinha mãe das alíneas a), b) e c) do número anterior, é obrigatório que o produtor de materiais vitícolas apresente o resultado dos testes sanitários efectuados e que comprove o cumprimento dos requisitos sanitários definidos no n.º 5 até 31 de Maio do ano da renovação.
+
+4 - Para a renovação da inscrição das parcelas de vinhas mãe para a produção de material da categoria standard, é obrigatório cumprir o definido no n.º 8 do artigo 17.º
+
+5 - Os testes referidos no n.º 3 devem ser realizados sobre material lenhoso:
+
+a) Em laboratórios reconhecidos pela DGPC;
+
+b) Para os vírus referidos nas alíneas a) e b) do n.º 1 da parte B do anexo II, de acordo com as seguintes condições:
+
+i) Pelo método ELISA (Enzyme-Linked Immuno Sorbent Assay), ou outros internacionalmente reconhecidos, sobre a totalidade das cepas que constituem a parcela de vinha mãe para a produção das categorias inicial ou base;
+
+ii) Pelo método ELISA, ou outros internacionalmente reconhecidos, sobre amostra representativa das cepas que constituem a parcela de vinha mãe para a produção da categoria certificado.
+
+6 - Em derrogação ao definido nos n.os 2, 3 e 5, devem ser realizados, em amostra de cada uma das parcelas, testes sanitários para pesquisa dos vírus definidos na alínea b) do número anterior, para as vinhas mãe instaladas ou a instalar até:
+
+a) 31 de Julho de 2011, para a produção de material inicial e base;
+
+b) 31 de Julho de 2012, para a produção de material certificado.
+
+7 - A não renovação da inscrição da parcela de vinha mãe ou a sua desclassificação para categoria inferior tem lugar quando:
+
+a) O resultado dos testes sanitários não for apresentado no prazo previsto no n.º 3, não havendo neste caso a possibilidade de desclassificação;
+
+b) Nos testes sanitários efectuados, conforme previsto na alínea b) do n.º 5, se verificarem resultados positivos, com os seguintes níveis de infecção:
+
+i) Para a produção do material inicial, uma ou mais plantas infectadas;
+
+ii) Para a produção do material base, mais de 1% de plantas infectadas;
+
+iii) Para a produção do material certificado, mais de 5% de plantas infectadas;
+
+c) Não forem eliminadas as plantas infectadas da parcela de acordo com os níveis de infecção enunciados na alínea anterior.
+
+8 - Quando se justificar, serão realizados testes sanitários pelos serviços oficiais sobre amostras de parcelas de vinhas mãe para comprovar os resultados apresentados pelo produtor.
+
+9 - Sempre que se verificar a não renovação da inscrição de uma parcela de vinha mãe, o facto é comunicado ao IVV.
+
+10 - A anulação da inscrição de uma vinha mãe tem lugar quando, comprovadamente, deixar de cumprir os requisitos do presente decreto-lei.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 16.º-A — Validade das inscrições de viveiros e de vinhas-mãe e incumprimentos
+
+1 - A validade da inscrição das parcelas de viveiros para a produção de materiais vitícolas é anual.
+
+2 - A validade da inscrição das parcelas de vinhas-mãe para a produção de materiais vitícolas depende do cumprimento do disposto no anexo ii e é renovada anualmente mediante evidência desse cumprimento.
+
+3 - As parcelas de vinhas-mãe que deixem de cumprir qualquer dos requisitos constantes do anexo ii são excluídas da certificação.
+
+4 - As parcelas de vinhas-mãe que deixem de cumprir os requisitos constantes do anexo ii para a sua categoria, mas cumpram os requisitos de categoria inferior, são desclassificadas.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 17.º — Requisitos a satisfazer pelas culturas
+
+1 - As culturas para a produção de materiais vitícolas devem satisfazer as seguintes condições:
+
+a) Possuir identidade e pureza no que diz respeito à variedade e, se for o caso, ao clone, pelo que, para os materiais das categorias inicial, base e certificado, devem ser eliminadas todas as plantas que não correspondam à variedade;
+
+b) Apresentarem um estado cultural e um desenvolvimento vegetativo que permitam uma inspecção adequada da identidade e pureza varietal, bem como do estado sanitário das plantas;
+
+c) A retancha de falhas nas vinhas mãe apenas pode ser efectuada com plantas da mesma categoria, da mesma variedade e do mesmo clone.
+
+2 - As parcelas de vinhas mãe e de viveiros para a produção de materiais vitícolas devem encontrar-se devidamente isoladas e de acordo com o disposto nos números seguintes.
+
+3 - No que respeita ao isolamento em relação a outras vinhas:
+
+a) Vinhas mãe para a produção de material inicial e base - 30 m em relação a vinhas para a produção de uva;
+
+b) Vinhas mãe para a produção de material certificado - 6 m em relação a vinhas para a produção de uva;
+
+c) Viveiros:
+
+i) 3 m em relação a qualquer vinha;
+
+ii) 1 m em relação a parcelas de categoria diferente.
+
+4 - No que respeita à separação entre parcelas de variedades ou clones dentro da mesma vinha mãe:
+
+a) 4 m em vinha mãe não aramada;
+
+b) 2 m em vinha mãe aramada.
+
+5 - As parcelas de vinhas mãe e viveiros devem cumprir o disposto na legislação fitossanitária referida no artigo 27.º e o definido no anexo II.
+
+6 - A percentagem total de falhas devidas aos vírus referidos nas alíneas a) e b) do n.º 1 da parte B do anexo II não deve ser superior a:
+
+a) 1%, tratando-se de vinhas mãe para a produção de material base;
+
+b) 5%, tratando-se de vinhas mãe para a produção de material certificado.
+
+7 - As falhas devidas aos vírus referidos no número anterior dizem respeito à eliminação de plantas:
+
+a) Comprovadamente infectadas por vírus e que foram detectados nos testes sanitários;
+
+b) Com sintomas atribuíveis aos vírus assinalados durante a inspecção de campo.
+
+8 - Nas vinhas mãe destinadas à produção de material standard, são admitidos, no máximo, 10% de plantas com sintomas atribuíveis aos vírus referidos nas alíneas a) e b) do n.º 1 da parte B do anexo II.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 17.º-A — Condições relativas às culturas
+
+1 - As culturas para a produção de materiais vitícolas devem cumprir o disposto na legislação fitossanitária referida no artigo 27.º e as condições estabelecidas no anexo ii.
+
+2 - No que diz respeito à amostragem e testagem, previstas no anexo ii, devem aplicar-se os protocolos da Organização Europeia e Mediterrânica de Proteção das Plantas ou outros protocolos reconhecidos a nível internacional, sendo que, caso esses protocolos não existam, são aplicáveis os protocolos pertinentes estabelecidos pela DGAV, devendo os mesmos ser disponibilizados aos outros Estados-Membros e à Comissão Europeia se solicitados.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 18.º — Requisitos a satisfazer pelos materiais
+
+1 - Os materiais vitícolas devem, sem prejuízo do cumprimento dos requisitos fitossanitários constantes do anexo II, satisfazer as seguintes condições gerais:
+
+a) Possuir identidade e pureza varietal para os materiais das categorias inicial, base e certificado, admitindo-se uma tolerância de 1% de impureza varietal nos materiais de categoria standard;
+
+b) Apresentar uma pureza técnica mínima de 96%, considerando-se como tecnicamente impuros:
+
+i) Os materiais parcial ou completamente dessecados, incluindo os que tenham sido objecto de imersão em água posteriormente à sua dessecação;
+
+ii) Os materiais deteriorados, torcidos ou feridos, em particular os danificados por granizo, geada ou gelo, esmagados ou partidos;
+
+iii) Os materiais que não satisfaçam os requisitos indicados no anexo IV, publicado em anexo ao presente decreto-lei e do qual faz parte integrante, relativo aos calibres dos materiais vitícolas.
+
+2 - Os materiais vitícolas devem satisfazer as seguintes condições particulares:
+
+a) Os sarmentos e suas fracções devem apresentar-se suficientemente atempados, com uma relação lenho/medula característica da variedade;
+
+b) As plantas devem apresentar-se adequadamente enraizadas, com um lançamento e respectivos gomos suficientemente desenvolvidos e, tratando-se de bacelos enxertados, com a soldadura bem consolidada e o calo bem distribuído;
+
+c) Os bacelos enxertados obtidos pela combinação de porta-enxertos e garfos da mesma categoria são classificados nessa categoria e os produzidos a partir da enxertia de porta-enxertos e garfos de categorias diferentes são classificados na mais baixa das categorias em causa;
+
+d) Exceptuam-se do disposto na alínea anterior os bacelos enxertados que consistam na combinação de materiais da categoria inicial enxertados em materiais de categoria base, os quais podem ser, até 31 de Julho de 2010, classificados como materiais da categoria inicial.
+
+3 - Requisitos mais rigorosos definidos para os materiais vitícolas produzidos no território nacional não se aplicam, no caso da enxertia, aos materiais importados nos termos do n.º 1 do artigo 32.º, ou produzidos noutro Estado membro.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 18.º-A — Condições relativas aos materiais
+
+1 - Durante a colheita, acondicionamento, armazenagem, transporte e circulação os materiais vitícolas devem ser mantidos separadamente de acordo com o lote, a variedade, o clone e a categoria e devem estar convenientemente identificados de acordo com o disposto no n.º 9 do artigo 14.º
+
+2 - Os materiais vitícolas devem cumprir o disposto na legislação fitossanitária referida no artigo 27.º e as condições estabelecidas no anexo iii.
+
+3 - Os requisitos mais rigorosos definidos para os materiais vitícolas produzidos no território nacional não se aplicam, no caso da enxertia, aos materiais importados nos termos do n.º 1 do artigo 32.º, ou produzidos noutro Estado-Membro.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+### Capítulo IV — Controlo da produção e certificação de materiais vitícolas
+
+#### Secção I — Inspecções às culturas e aos materiais
+
+###### Artigo 19.º — Inspeções oficiais
+
+1 - O material de propagação produzido nas vinhas-mãe e viveiros deve estar conforme com os requisitos previstos nos n.os 2 a 4 do anexo ii, com base em inspeções oficiais anuais da cultura.
+
+2 - As inspeções oficiais anuais da cultura devem ser efetuadas pelas entidades competentes mencionadas no artigo 4.º em conformidade com o previsto no n.º 7 do anexo ii.
+
+3 - Podem ser efetuadas inspeções oficiais suplementares à cultura em caso de reclamação do produtor e relativamente a matérias que não interfiram com a qualidade do material de propagação.
+
+4 - Para além das inspeções previstas nos números anteriores, são efetuadas inspeções às instalações tecnológicas e aos registos da atividade, bem como sobre os materiais vitícolas durante a sua colheita, armazenagem, manipulação, confeção, circulação e comercialização.
+
+5 - Para a realização das inspeções deve ser facultado o livre acesso às instalações tecnológicas e aos registos da atividade, às culturas, seja qual for o processo de produção seguido, bem como aos materiais produzidos, durante a sua colheita, armazenagem, manipulação e confeção, circulação e comercialização, sob pena de cancelamento do licenciamento previsto no n.º 1 do artigo 11.º e no n.º 1 do artigo 28.º
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 20.º — Inspectores
+
+1 - As inspecções são realizadas por inspectores oficiais ou por técnicos autorizados, os quais dispõem das qualificações técnicas necessárias, obtidas em cursos de formação organizados pela DGPC.
+
+2 - Os técnicos a autorizar podem ser:
+
+a) Pessoas singulares independentes;
+
+b) Pessoas ao serviço de empresas que prestam serviços a produtores de materiais vitícolas.
+
+3 - Os técnicos autorizados não podem obter qualquer benefício privado da realização das inspecções que efectuem.
+
+4 - Os técnicos autorizados:
+
+a) Devem apresentar à DGPC uma declaração escrita nos termos da qual se comprometem a aplicar as regras que regem as inspecções previstas no presente decreto-lei;
+
+b) Devem realizar as inspecções em conformidade com o definido no presente decreto-lei;
+
+c) São sujeitos a supervisão oficial.
+
+5 - As inspecções previstas no n.º 2 do artigo seguinte, quando realizadas pelos técnicos autorizados, são submetidas a supervisão oficial pelo menos nas seguintes proporções:
+
+a) 15% das inspecções realizadas à categoria base;
+
+b) 5% das inspecções realizadas às categorias certificado e standard.
+
+6 - Face ao não cumprimento, pelos técnicos autorizados, das normas que regem as inspecções previstas no presente decreto-lei, o director-geral de Protecção das Culturas pode cancelar a respectiva autorização.
+
+7 - Além do cancelamento da autorização, pode ser, também, determinada a anulação de toda a certificação dos materiais vitícolas provenientes das vinhas mãe ou viveiros inspeccionados pelo técnico autorizado em infracção, excepto se puder ser demonstrado que os materiais vitícolas em questão continuam a preencher todos os requisitos exigidos.
+
+###### Artigo 21.º — Periodicidade das inspecções
+
+1 - Todas as culturas devem obedecer à periodicidade de inspeções estabelecida no anexo ii.
+
+2 - (Revogado.)
+
+3 - Anualmente, os materiais vitícolas, após colheita, são submetidos a inspecção de forma aleatória em pelo menos 5% dos lotes aprovados.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 22.º — Execução e resultados das inspecções
+
+1 - As inspeções às culturas e aos materiais vitícolas devem ser acompanhadas pelo respetivo produtor ou por um seu representante.
+
+2 - As inspecções referidas no número anterior são realizadas:
+
+a) Para a categoria inicial, por inspectores oficiais;
+
+b) Para as categorias base, certificado e standard, por inspectores oficiais ou por técnicos autorizados.
+
+3 - O inspetor oficial ou o técnico autorizado, na sequência das inspeções efetuadas, podem determinar a execução de trabalhos, incluindo a destruição de materiais vitícolas, depurações, tratamentos fitossanitários, e outros, nas culturas ou nos materiais vitícolas inspecionados.
+
+4 - Conforme o resultado que se verificar no termo das inspecções realizadas às culturas e aos materiais vitícolas, estes são:
+
+a) Aprovados para certificação;
+
+b) Desclassificados para categoria inferior, desde que a razão da desclassificação não seja de ordem fitossanitária por aplicação da legislação a que se refere o artigo 27.º;
+
+c) Excluídos da certificação.
+
+5 - As culturas e os materiais vitícolas desclassificados em categoria inferior devem cumprir com as normas definidas para essa categoria.
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 23.º — Destruição de materiais
+
+1 - Os viveiros e os materiais vitícolas excluídos da certificação são obrigatoriamente destruídos pelo produtor, o qual suporta os encargos decorrentes da destruição.
+
+2 - O produtor é notificado pelos serviços oficiais para proceder à destruição dos materiais vitícolas, preferencialmente num prazo acordado com o produtor, emitindo-se o respetivo auto de destruição, assinado pelos presentes, de entre os quais devem constar, pelo menos, dois técnicos da DRAP.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+#### Secção II — Análises e ensaios laboratoriais
+
+###### Artigo 24.º — Laboratórios reconhecidos
+
+1 - Os terrenos, as culturas e os materiais vitícolas a certificar são submetidos a análises e testes a realizar por laboratórios oficiais ou laboratórios reconhecidos.
+
+2 - No que diz respeito às análises e testes, os laboratórios devem cumprir o estipulado no n.º 2 do artigo 17.º
+
+3 - Os laboratórios que pretendam o reconhecimento devem submeter, por meios eletrónicos, um pedido à DGAV com os seguintes elementos:
+
+a) A indicação do tipo de atividade que pretendem desenvolver, especificando os organismos nocivos para os quais pretendem desenvolver o diagnóstico;
+
+b) O responsável técnico com formação ou experiência comprovada nas boas práticas laboratoriais e na aplicação das metodologias de análises e testes adequados aos fins em vista;
+
+c) A identificação do pessoal de laboratório possuidor de formação ou experiência necessárias à execução das metodologias de análises e testes;
+
+d) A descrição das instalações e do equipamento disponíveis para efeitos de análises e testes;
+
+e) A declaração de garantia de imparcialidade, confidencialidade e de inexistência de conflito de interesses para o exercício das tarefas que se propõem realizar.
+
+4 - Para efeitos da manutenção do reconhecimento do laboratório, os laboratórios reconhecidos são submetidos a monitorização do seu desempenho, baseada em auditorias, testes de proficiência ou outros métodos.
+
+5 - Os relatórios das análises e testes executados devem conter a informação exigida pela DGAV disponibilizados no seu sítio na Internet.
+
+6 - Face ao não cumprimento, pelos laboratórios reconhecidos, das regras que regem as análises e ensaios de materiais vitícolas previstas no presente decreto-lei, o director-geral de Protecção das Culturas pode cancelar a respectiva autorização.
+
+7 - Além do cancelamento do reconhecimento, pode ser também determinada a anulação da renovação das vinhas mãe e de toda a certificação dos lotes de materiais vitícolas analisados pelo laboratório em infracção, excepto se for demonstrado que os materiais em questão continuam a preencher todos os requisitos exigidos.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+#### Secção III — Identificação, acondicionamento e certificação dos materiais vitícolas
+
+###### Artigo 25.º — Identificação e acondicionamento
+
+1 - Os materiais vitícolas, desde a colheita à certificação, devem ser transportados, confeccionados, acondicionados e armazenados separadamente, bem como mantidos em lotes individuais devidamente identificados de acordo com o tipo de material e a variedade e, tratando-se de materiais de categoria inicial, base ou certificado, segundo o clone.
+
+2 - Cada lote de material vitícola é identificado pelo número da parcela ou das parcelas que o constituem, tendo em conta o previsto no n.º 9 do artigo 14.º
+
+3 - Os materiais vitícolas a certificar são obrigatoriamente acondicionados em embalagens ou molhos, à excepção das plantas enraizadas em qualquer substrato, em vasos, caixas ou cartões e de pequenas quantidades, conforme determinado no anexo V, publicado em anexo ao presente decreto-lei e do qual faz parte integrante, relativo ao acondicionamento.
+
+4 - Os materiais vitícolas acondicionados em molhos ou embalagens devem ser dotados de um sistema de fecho que assegure a inviolabilidade da etiqueta oficial de certificação e do molho ou embalagem por ele protegidos.
+
+5 - Os molhos e as embalagens devem ter apensas as etiquetas oficiais de certificação, que respeitem o definido no anexo Iv.
+
+6 - Nas embalagens ou molhos de pequenas quantidades de plantas, nas plantas isoladas e nas plantas enraizadas em qualquer substrato, vasos, caixas ou cartões:
+
+a) A identificação é feita de acordo com o definido no n.º 3 da parte A do anexo iv;
+
+b) Cada embalagem não pode conter uma quantidade igual ou superior à definida para cada tipo de material, conforme determinado no n.º 1 do anexo V.
+
+7 - Os materiais vitícolas produzidos e a comercializar em contentores, como sejam vasos, caixas ou cartões, podem, em caso de não ser possível a aposição de etiqueta, ser identificados conforme o previsto no n.º 4 da parte A do anexo iv devendo ser portadores do documento de acompanhamento a que se refere a parte B do anexo iv.
+
+8 - A cor das etiquetas de certificação é:
+
+a) Branca com uma barra diagonal violeta para o material inicial;
+
+b) Branca para o material base;
+
+c) Azul para o material certificado;
+
+d) Amarelo-torrado para o material standard.
+
+9 - Os materiais vitícolas de variedades geneticamente modificadas devem ter impresso, de forma bem visível, nas etiquetas ou no documento de acompanhamento que a variedade é geneticamente modificada e especificar qual o respectivo evento e o seu identificador único.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 26.º — Certificação
+
+1 - Os lotes de materiais vitícolas provenientes das vinhas mãe e viveiros, seja qual for o processo de produção seguido, aprovados nas inspecções realizadas pelos inspectores oficiais ou pelos técnicos autorizados, que cumpram as normas definidas no presente decreto-lei relativas à variedade e clone, se for o caso, estado sanitário, calibre, acondicionamento e identificação são certificados e podem ser comercializados.
+
+2 - A identificação é assegurada por etiquetas de certificação oficiais emitidas pela DGPC, podendo ser igualmente emitidas pelos produtores e por outras entidades desde que devidamente autorizadas pela DGPC para esse efeito.
+
+3 - A aposição das etiquetas de certificação nos molhos ou embalagens dos materiais vitícolas a que respeitam é realizada:
+
+a) Para o material inicial e base, por inspectores oficiais ou sob supervisão oficial;
+
+b) Para o material certificado e standard, pelo produtor.
+
+###### Artigo 27.º — Legislação fitossanitária
+
+1 - Para além do definido no presente decreto-lei, os materiais vitícolas e respetivas culturas devem apresentar-se isentos de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União e estão sujeitos a requisitos especiais fitossanitários definidos no Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e legislação de execução complementar.
+
+2 - Os materiais vitícolas e respetivas culturas devem ainda, ao abrigo do Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, apresentar-se isentos de pragas regulamentadas não sujeitas a quarentena (RNPQ) ou abaixo dos limiares definidos, ficando sujeitos às medidas adotadas para prevenir a presença dessas pragas, sem prejuízo da adoção de outras previstas no presente decreto-lei.
+
+3 - O passaporte fitossanitário previsto na legislação referida no n.º 1 integra a etiqueta a que se refere o anexo iv.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+### Capítulo V — Comercialização dos materiais vitícolas
+
+#### Secção I — Fornecedores
+
+###### Artigo 28.º — Registo de fornecedores
+
+1 - Só podem comercializar materiais vitícolas produzidos em Portugal, na União Europeia ou importados segundo as normas definidas no presente decreto-lei as pessoas singulares ou coletivas, públicas ou privadas, que estejam registadas pela DGAV para o efeito.
+
+2 - Os interessados na obtenção do registo devem:
+
+a) Dispor de instalações adequadas à comercialização e à correcta conservação dos materiais vitícolas na sua posse;
+
+b) Manter os materiais vitícolas perfeitamente separados por variedade, clone, bem como por categoria e lote;
+
+c) Comprovar a origem dos materiais vitícolas por si adquiridos para comercialização, sempre que tal lhes seja solicitado pelas entidades competentes, e manter, pelo menos durante um ano, o registo de todo o movimento de materiais vitícolas por si realizado.
+
+3 - O pedido de registo de fornecedor é efetuado através da plataforma CERTIGES de acesso disponibilizado no sítio na Internet da DGAV.
+
+4 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada por qualquer outro meio previsto na lei, nomeadamente através de correio eletrónico para o endereço eletrónico indicado nas páginas oficiais eletrónicas das DRAP.
+
+5 - O pedido de registo é dirigido à DRAP territorialmente competente, a qual, com base na avaliação sobre o cumprimento das exigências estabelecidas no presente decreto-lei, emite uma proposta de decisão final.
+
+6 - Com base na proposta da DRAP, o diretor-geral de Alimentação e Veterinária decide sobre a concessão do registo e, sendo o caso, é atribuído o respetivo número de registo ao interessado, sendo posteriormente emitido o respetivo cartão de registo oficial de fornecedor, no modelo aprovado por despacho do diretor-geral de Alimentação e Veterinária.
+
+7 - A notificação ao fornecedor da decisão final sobre o seu pedido de registo é realizada através da plataforma CERTIGES.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 29.º — Validade, renovação e cancelamento de registos de fornecedores
+
+1 - Os registos de fornecedor de materiais vitícolas são válidos até 31 de dezembro do ano da sua atribuição, sendo renovados automaticamente, por cada ano civil subsequente, mediante o cumprimento das condições previstas no número seguinte.
+
+2 - Os registos são renovados mediante a verificação, prévia e cumulativa, do cumprimento pelos produtores das condições seguintes:
+
+a) Cumprimento das exigências previstas no presente decreto-lei, nomeadamente as condições estabelecidas no n.º 2 do artigo anterior, no artigo 18.º-A e nos anexos iii a v;
+
+b) Pagamento das taxas a que se refere o artigo 35.º
+
+3 - O cancelamento do registo, em resultado do não cumprimento do disposto na alínea a) do número anterior, não obsta a que os interessados possam proceder à comercialização dos materiais produzidos em data anterior ao cancelamento, desde que se demonstre que os materiais em causa preenchem todos os requisitos exigidos no presente decreto-lei.
+
+4 - O fornecedor a quem foi cancelado o registo em razão do não cumprimento do disposto na alínea b) do n.º 2 só pode realizar novo pedido de registo após pagamento das taxas devidas em falta.
+
+5 - Os fornecedores devem comunicar à DRAP territorialmente competente ou à DGAV a cessação ou alterações no exercício da sua atividade ou, ainda, quaisquer alterações aos dados registados, no prazo de 30 dias contados a partir da respetiva ocorrência.
+
+6 - Os pedidos de alteração de locais de atividade são sujeitos a decisão do diretor-geral de Alimentação e Veterinária, mediante parecer prévio da DRAP territorialmente competente, que notifica o fornecedor da decisão.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+#### Secção II — Comercialização
+
+###### Artigo 30.º — Materiais vitícolas que podem ser comercializados
+
+1 - Apenas podem ser comercializados no País os materiais vitícolas que cumpram, cumulativamente, as seguintes condições:
+
+a) Sejam certificados, nos termos do artigo 26.º, como:
+
+i) Material inicial, material base e material certificado, no caso de os materiais vitícolas se destinarem a ser utilizados como porta-enxertos;
+
+ii) Material inicial, material base, material certificado e material standard, no caso dos materiais vitícolas que se destinam à produção de plantas ou partes de plantas de variedades para produção de uva;
+
+b) Pertençam às variedades inscritas, nos termos do n.º 1 do artigo 13.º;
+
+c) Cumpram os requisitos previstos na legislação fitossanitária referida no artigo 27.º
+
+2 - Os materiais vitícolas em comercialização devem satisfazer os requisitos previstos no presente decreto-lei, nomeadamente os que respeitam ao seu transporte, acondicionamento, identificação e armazenamento.
+
+3 - Os materiais vitícolas que satisfaçam o disposto n.º 1 e demais exigências relativas à sua comercialização e sejam provenientes da Comunidade ou importados de acordo com o definido no artigo 32.º não devem ser submetidos a nenhuma outra restrição de comercialização no País.
+
+4 - Com base em legislação comunitária, pode ser proibida a comercialização de material vitícola de variedades para produção de uva, da categoria standard, na medida em que as necessidades da Comunidade, relativamente a essas variedades, possam ser cobertas tendo em conta a sua diversidade genética e haja material suficiente na Comunidade das categorias inicial, base e certificado.
+
+5 - Em derrogação ao disposto no n.º 4 do artigo 1.º e com base em legislação comunitária, a DGPC, a pedido dos interessados, pode autorizar a comercialização de quantidades adequadas de materiais vitícolas destinados àqueles fins previstos, excepto à exportação.
+
+###### Artigo 31.º — Exigências reduzidas
+
+1 - Com base em legislação comunitária, a fim de eliminar dificuldades passageiras de abastecimento de materiais vitícolas, que não possam ser resolvidas na Comunidade, em derrogação ao definido no n.º 1 do artigo anterior, a DGPC pode autorizar a comercialização de materiais vitícolas de uma categoria sujeita a exigências reduzidas.
+
+2 - As condições a satisfazer, as quantidades necessárias para ultrapassar essas dificuldades e o período em que vigoram estas excepções são definidos por despacho do director-geral de Protecção das Culturas.
+
+3 - Os materiais vitícolas de uma determinada categoria para os quais tenha sido autorizada a comercialização com exigências reduzidas devem ser portadores de etiqueta que, para além de cumprir o definido na parte A do anexo iv, seja da mesma cor e tenha impressa a menção 'Exigências reduzidas'.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 32.º — Importação
+
+1 - Só podem ser importados materiais vitícolas de países terceiros para os quais seja reconhecida equivalência aos respectivos sistemas de certificação, nos termos a fixar pelo Conselho das Comunidades Europeias, no que diz respeito às condições de admissão, às disposições tomadas para assegurar a sua produção, aos tipos de materiais e às categorias de materiais vitícolas em que podem ser admitidos à comercialização no território comunitário.
+
+2 - Até à tomada de decisão do Conselho referida no número anterior e sem prejuízo do cumprimento do disposto na legislação referida no artigo 27.º, a DGPC, com base em legislação comunitária, pode autorizar a importação dos referidos materiais vitícolas, devendo, para tal, ser assegurado que os materiais vitícolas a importar:
+
+a) Oferecem garantias equivalentes, sob todos os pontos de vista, às dos materiais vitícolas produzidos na Comunidade;
+
+b) São acompanhados de um documento emitido pelo serviço de controlo do país exportador, em que figuram as seguintes informações:
+
+i) Espécie, por designação botânica;
+
+ii) Variedade e, se for caso disso, clone, sendo que, tratando-se de bacelos enxertados, esta indicação é exigida tanto para o porta-enxerto como para o garfo;
+
+iii) Categoria;
+
+iv) Tipo de material;
+
+v) País de produção e serviço responsável pelo de controlo oficial;
+
+vi) País de expedição, caso seja diferente do país produtor;
+
+vii) Importador;
+
+viii) Quantidade.
+
+#### Secção III — Ensaios dos materiais vitícolas
+
+###### Artigo 33.º — Ensaios de controlo a posteriori
+
+1 - Com o objectivo de avaliar a execução das normas definidas no presente decreto-lei e a efectiva qualidade dos materiais vitícolas certificados e comercializados, a DGPC pode realizar ensaios de campo e testes laboratoriais dos materiais vitícolas a comercializar ou em comercialização no País.
+
+2 - As amostras a submeter a ensaios e testes, para além das amostras dos lotes de materiais vitícolas certificados no País, podem também incluir amostras colhidas nos lotes de materiais vitícolas provenientes de outros Estados membros ou de países terceiros.
+
+###### Artigo 34.º — Ensaios comparativos comunitários
+
+1 - Para os materiais vitícolas cuja comercialização seja efectuada no País, a DGPC participa nos ensaios e testes comparativos comunitários, promovidos pela Comissão Europeia, os quais têm por objectivo harmonizar os métodos técnicos de inspecção ou de análise dos materiais vitícolas e verificar se estes cumprem a legislação em vigor, nomeadamente no que respeita aos aspectos de carácter varietal e sanitário.
+
+2 - As amostras a submeter aos ensaios e testes são colhidas oficialmente.
+
+### Capítulo VI — Serviços prestados
+
+###### Artigo 35.º — Taxas
+
+1 - Pelos serviços prestados inerentes à avaliação dos processos e à inscrição de variedades no CNVV e de clones na lista de clones admitidos à certificação em Portugal e pelos serviços prestados no âmbito do licenciamento de produtores e fornecedores, controlo e certificação de materiais vitícolas destinados a comercialização são devidas taxas, nos termos previstos na Portaria n.º 298/2017, de 12 de outubro.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+### Capítulo VII — Regime contraordenacional
+
+> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 36.º — Fiscalização
+
+1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização do cumprimento do presente decreto-lei compete às DRAP e à ASAE.
+
+2 - Nos termos do n.º 7 do artigo 4.º, conjugado com a legislação que já faz parte das suas atribuições, a fiscalização dos materiais vitícolas em comercialização é da competência da ASAE.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 37.º — Contra-ordenações
+
+1 - Constituem contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:
+
+a) A produção de materiais vitícolas por quem não seja titular de licença de produtor, em violação do disposto nos artigos 11.º e 12.º;
+
+b) (Revogada.)
+
+c) A não destruição de viveiros e de materiais vitícolas nos termos notificados, em violação do disposto no artigo 23.º;
+
+d) (Revogada.)
+
+e) A comercialização de materiais vitícolas por quem não seja titular de licença de fornecedor, em violação do disposto nos artigos 28.º e 29.º;
+
+f) (Revogada.)
+
+g) A comercialização de materiais vitícolas que não respeitem as regras de etiquetagem, documento de acompanhamento, calibres e acondicionamento, em violação do definido nos anexos III a V.
+
+2 - Constituem contraordenação económica grave, punível nos termos do RJCE, as seguintes infrações:
+
+a) A produção de materiais vitícolas de variedades ou clones, em violação do disposto no n.º 1 do artigo 13.º;
+
+b) A colheita, transporte, confeção, armazenamento, identificação e acondicionamento dos materiais vitícolas, em violação do disposto no artigo 25.º ;
+
+c) A comercialização de materiais vitícolas de variedades ou clones, em violação do disposto no artigo 30.º, com exceção do disposto na sua alínea c) do n.º 1.
+
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+4 - (Revogado.)
+
+5 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
+
+> Alterado pelo/a Artigo 68.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 38.º — Sanções acessórias
+
+1 - Em função da gravidade da infracção e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+f) Suspensão de autorizações.
+
+2 - As sanções referidas nas alíneas b) a f) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória.
+
+###### Artigo 39.º — Levantamento, instrução e decisão das contra-ordenações
+
+1 - O levantamento dos autos e a instrução dos processos de contra-ordenação pelas infracções referidas nas alíneas a) a d) do artigo 37.º são da competência da DRA da área da prática da contra-ordenação.
+
+2 - O levantamento dos autos e a instrução dos processos de contra-ordenação pelas infracções referidas nas alíneas e) a g) do artigo 37.º são da competência da ASAE.
+
+3 - A aplicação das coimas e sanções acessórias a que se refere o n.º 1 compete ao director-geral de Protecção das Culturas.
+
+4 - A aplicação das coimas e sanções acessórias a que se refere o n.º 2 compete ao inspetor-geral da ASAE
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 40.º — Destino das coimas
+
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 68.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+### Capítulo VIII — Disposições finais e transitórias
+
+###### Artigo 41.º — Experiências temporárias
+
+Com base em legislação comunitária, com o objectivo de encontrar melhores soluções para certos requisitos fixados no presente decreto-lei e demais legislação complementar, a DGPC pode promover a participação em experiências temporárias a realizar a nível comunitário.
+
+###### Artigo 42.º — Inscrições e licenças em vigor
+
+1 - Com a entrada em vigor do presente decreto-lei e em consequência da legislação por este revogada:
+
+a) As variedades e clones inscritos na lista de variedades de videira admitidas à certificação transitam directamente para o CNV, sem prejuízo de serem objecto de publicação nos termos do artigo 10.º;
+
+b) Mantêm-se inscritos na DGPC as vinhas mãe e viveiros registados;
+
+c) Mantêm-se em vigor as licenças de produtores e fornecedores de materiais vitícolas concedidas.
+
+2 - As inscrições e licenças a que se refere o número anterior ficam subordinadas ao regime de validade, renovação e revogação previsto no presente decreto-lei.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 42.º-A — Regulamentação
+
+Por portaria do membro do Governo responsável pela área da agricultura, podem ser fixados procedimentos e requisitos para o tratamento por água quente dos materiais vitícolas, para o reconhecimento oficial de instalações à prova de inseto, para a produção, controlo e certificação de material policlonal e outras matérias que no âmbito do presente decreto-lei careçam de vir a ser regulamentadas.
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 43.º — Aplicação às Regiões Autónomas
+
+1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, cabendo a sua execução administrativa aos serviços competentes das respectivas administrações regionais, a estabelecer através de diploma regional adequado.
+
+2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas.
+
+###### Artigo 44.º — Aplicação do Decreto-Lei n.º 277/91, de 8 de Agosto
+
+Com a entrada em vigor do presente decreto-lei, o Decreto-Lei n.º 277/91, de 8 de Agosto, que estabelece as normas gerais aplicáveis à produção e comercialização de materiais de viveiro, na redacção que lhe foi dada pelos Decretos-Leis n.os 33/93, de 12 de Fevereiro, 237/2000, de 29 de Setembro, 205/2003, de 12 de Setembro, e 21/2004, de 22 de Janeiro, passa a ser aplicável somente aos materiais de propagação vegetativa de fruteiras, de morangueiro, citrícolas e jovens plantas hortícolas.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+###### Artigo 45.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 266/2003, de 25 de Outubro;
+
+b) A Portaria n.º 1137/91, de 5 de Novembro, alterada pela Portaria n.º 607/96, de 25 de Outubro;
+
+c) O Despacho Normativo n.º 38/96, de 1 de Outubro.
+
+###### Artigo 46.º — Remissões
+
+Todas as referências feitas para os decretos-leis que agora se revogam consideram-se efectuadas para o presente decreto-lei.
+
+###### Artigo 47.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Agosto de 2006. - António Luís Santos Costa - Manuel Lobo Antunes - João José Amaral Tomaz - José Manuel Vieira Conde Rodrigues - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Jaime de Jesus Lopes Silva.
+
+Promulgado em 8 de Setembro de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 12 de Setembro de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I
+
+Avaliação e manutenção de variedades e clones de videira a inscrever no Catálogo Nacional de Variedades de Espécies Agrícolas e de Espécies Hortícolas (CNV)
+
+## Anexo II — Requisitos fitossanitários
+
+1 - Identidade, pureza e condições culturais:
+
+1.1 - Devem possuir identidade e pureza no que diz respeito à variedade e, se for o caso, ao clone.
+
+1.2 - Devem apresentar um estado cultural e um nível de desenvolvimento vegetativo que permitam uma inspeção adequada da identidade e da pureza varietal e, se for o caso, clonal, bem como do estado sanitário das plantas.
+
+2 - Requisitos sanitários gerais para todas as categorias:
+
+2.1 - A presente secção aplica-se às vinhas-mãe destinadas à produção de todas as categorias de material de propagação e aos viveiros de todas essas categorias.
+
+2.2 - As vinhas-mãe e os viveiros devem, após inspeção visual, ser considerados isentos das pragas regulamentadas não sujeitas a quarentena (RNQP) referidas nos n.os 5 e 6, no que se refere ao género ou espécie em causa.
+
+2.3 - As vinhas-mãe e os viveiros devem ser objeto de amostragem e testagens para deteção das RNQP mencionadas no n.º 6, no que se refere ao género ou espécie em causa. Em caso de dúvida, por parte do inspetor, quanto à presença das RNQP referidas nos n.os 5 e 6, no que se refere ao género ou espécie em causa, as vinhas-mãe e os viveiros devem ser objeto de amostragem e de testagem.
+
+2.4 - A inspeção visual e, se for caso disso, a amostragem e a testagem das vinhas-mãe e dos viveiros em causa devem ser efetuadas em conformidade com o disposto no n.º 7.
+
+2.5 - A amostragem e a testagem, tal como previstas no n.º 2, devem realizar-se nos períodos do ano mais adequados, tendo em conta as condições climáticas e de cultivo da videira, bem como a biologia das RNQP relevantes para a cultura.
+
+2.6 - A cepa selecionada que venha a produzir material para a instalação de uma vinha-mãe destinada à produção de material de propagação inicial deve ser sujeita a indexagem biológica para avaliar a presença de vírus, viroides, doenças similares a vírus e fitoplasmas. Quaisquer outros protocolos equivalentes apenas se poderão utilizar se foram internacionalmente reconhecidos.
+
+3 - Requisitos relativos ao solo e condições de produção para todas as categorias:
+
+3.1 - Os terrenos e substratos, as culturas e os materiais vitícolas devem estar isentos de todos os vetores dos vírus referidos no n.º 6. A ausência destes vetores deve ser determinada por meio de amostragem e de testagem.
+
+3.2 - A amostragem e a testagem devem ser efetuadas tendo em conta as condições climáticas e a biologia dos vetores dos vírus referidos no n.º 6.
+
+3.3 - A amostragem e a testagem não devem ser efetuadas quando, com base numa inspeção oficial, se concluir que o solo está isento de quaisquer vetores dos vírus referidos no n.º 6.
+
+3.4 - A amostragem e a testagem não devem igualmente ser efetuadas quando não tenham sido cultivadas videiras no local de produção durante um período de, pelo menos, cinco anos e quando não haja dúvidas quanto à ausência, nesse solo, dos vetores dos vírus referidos no n.º 6.
+
+4 - Requisitos aplicáveis à parcela, ao local de produção ou à área:
+
+4.1 - As vinhas-mãe e os viveiros devem ser instalados em condições adequadas para evitar qualquer risco de contaminação pelos vetores dos vírus referidos no n.º 6.
+
+4.2 - Os viveiros não devem ser estabelecidos no interior ou junto de vinhas ou vinhas-mãe. A distância mínima de um viveiro ao ar livre para uma vinha ou vinha-mãe é de três metros.
+
+4.3 - Para além dos requisitos sanitários, os requisitos relativos ao solo e das condições de produção dos n.os 2 e 3, o material de propagação deve ser produzido em conformidade com os requisitos aplicáveis à parcela, ao local de produção ou à área estabelecidos no n.º 7, a fim de limitar a presença dos organismos enumerados nesse número.
+
+5 - Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a testagem são necessárias para determinar a respetiva presença, nos termos do n.º 2.2 do n.º 2 e do n.º 7:
+
+(ver documento original)
+
+6 - Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a testagem são necessárias para determinar a respetiva presença, nos termos do n.º 2.2 do n.º 2 e do n.º 7:
+
+(ver documento original)
+
+7 - Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros por categoria, nos termos do n.º 2.2 do n.º 2:
+
+7.1 - Inspeções visuais: material de propagação de todas as categorias:
+
+Todas as vinhas-mãe e viveiros devem ser sujeitos a uma inspeção visual pelo menos uma vez por ciclo vegetativo para todas as RNQP referidas nos n.os 5 e 6.
+
+7.2 - Amostragem e testagem:
+
+7.2.1 - Material de propagação inicial:
+
+Todas as videiras nas vinhas-mãe destinadas à produção de material de propagação inicial devem ser objeto de amostragem e testagem no que diz respeito à presença de Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll-associated virus 1 e Grapevine leafroll-associated virus 3. Essas amostragem e testagem devem ser repetidas a intervalos subsequentes de cinco anos.
+
+As vinhas-mãe destinadas à produção de porta-enxertos devem, para além da amostragem e testagem dos vírus referidos no parágrafo anterior, ser objeto de amostragem e testagem uma única vez no que se refere à presença do Grapevine fleck virus.
+
+Os resultados da amostragem e da testagem devem estar disponíveis antes da aprovação das vinhas-mãe em causa.
+
+7.2.2 - Material de propagação base:
+
+Todas as videiras nas vinhas-mãe destinadas à produção de material de propagação base devem ser objeto de amostragem e testagem no que diz respeito à presença de Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll-associated virus 1 e Grapevine leafroll-associated virus 3.
+
+A amostragem e a testagem devem ter início em vinhas-mãe de seis anos e ser realizadas a intervalos subsequentes de seis anos.
+
+Os resultados da amostragem e da testagem devem estar disponíveis antes da aprovação das vinhas-mãe em causa.
+
+7.2.3 - Material certificado:
+
+Uma parte representativa das videiras numa vinha-mãe destinada à produção de material certificado deve ser objeto de amostragem e testagem no que diz respeito à presença de Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll-associated virus 1 e Grapevine leafrollassociated virus 3.
+
+A amostragem e a testagem devem ter início em vinhas-mãe de 10 anos e ser realizadas a intervalos subsequentes de 10 anos.
+
+Os resultados da amostragem e da testagem devem estar disponíveis antes da aprovação das vinhas-mãe em causa.
+
+7.3 - Requisitos aplicáveis à parcela, ao local de produção ou à área e de acordo com as RNQP em causa:
+
+7.3.1 - Material de propagação inicial, material de propagação base e material certificado:
+
+a) Candidatus Phytoplasma solani Quaglino et al.:
+
+i) As videiras devem estar instaladas em áreas conhecidas como isentas de Candidatus Phytoplasma solani Quaglino et al., ou
+
+ii) Não se observaram sintomas de Candidatus Phytoplasma solani Quaglino et al. na parcela durante o ultimo ciclo vegetativo completo, ou
+
+iii) Devem ser satisfeitas as seguintes condições no que se refere à presença de Candidatus Phytoplasma solani Quaglino et al.:
+
+Todas as videiras em vinhas-mãe destinadas à produção de material de propagação inicial, de material de propagação base e de material certificado que tiverem apresentado sintomas de Candidatus Phytoplasma solani Quaglino et al. foram arrancadas, e
+
+Se tiverem sido detetados sintomas de Candidatus Phytoplasma solani Quaglino et al., na parcela, o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da Organização Europeia e Mediterrânica para a Proteção das Plantas (OEPP), ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de Candidatus Phytoplasma solani Quaglino et al.
+
+b) Xylophilus ampelinus Willems et al.:
+
+i) As videiras devem estar instaladas em áreas conhecidas como isentas de Xylophilus ampelinus Willems et al., ou
+
+ii) Não se observaram sintomas de Xylophilus ampelinus Willems et al. na parcela durante o ultimo ciclo vegetativo completo, ou
+
+iii) Devem ser satisfeitas as seguintes condições no que se refere à presença de Xylophilus ampelinus Willems et al.:
+
+Todas as videiras em vinhas-mãe destinadas à produção de material de propagação inicial, de material de propagação base e de material certificado que apresentaram sintomas de Xylophilus ampelinus Willems et al. foram arrancadas, e
+
+As videiras situadas numa parcela onde se registaram plantas sintomáticas de Xylophilus ampelinus Willems et al. devem ser tratadas com um bactericida após a poda, a fim de assegurar a ausência de Xylophilus ampelinus Willems et al., e
+
+Se forem detetados sintomas de Xylophilus ampelinus Willems et al., em material vegetativo para comercialização, o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos internacionalmente reconhecidos, para assegurar a isenção de Xylophilus ampelinus Willems et al.
+
+c) Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll-associated virus 1 e Grapevine leafroll-associated virus 3:
+
+i) As seguintes condições devem estar preenchidas no que se refere à presença de Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll-associated virus 1 e Grapevine leafrollassociated virus 3:
+
+Não se observaram sintomas desses vírus nas videiras em vinhas-mãe destinadas à produção de material de propagação inicial e de material de propagação base, e
+
+Foram observados sintomas desses vírus em não mais de 5 % das videiras em vinhas-mãe destinadas à produção de material certificado, e essas videiras foram arrancadas e destruídas, ou
+
+ii) Todas as videiras em vinhas-mãe destinadas à produção de material de propagação inicial, e o material de propagação inicial, devem ser mantidos em instalações à prova de insetos para assegurar a ausência de Grapevine leafroll-associated virus 1 e Grapevine leafroll-associated virus 3.
+
+d) Viteus vitifoliae Fitch:
+
+i) As videiras devem ser produzidas em áreas conhecidas como isentas de Viteus vitifoliae Fitch, ou
+
+ii) As videiras devem ser enxertadas em porta-enxertos resistentes a Viteus vitifoliae Fitch, ou
+
+Todas as videiras em vinhas-mãe destinadas à produção de material de propagação inicial e todo o material de propagação inicial devem ser mantidos em instalações à prova de insetos e não tenham sido observados sintomas de Viteus vitifoliae Fitch nessas videiras durante o último ciclo vegetativo completo;
+
+Se forem detetados sintomas de Viteus vitifoliae Fitch, em material vegetativo para comercialização, o lote completo desse material deve ser sujeito a um tratamento com água quente ou outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de Viteus vitifoliae Fitch.
+
+7.3.2 - Materiais standard:
+
+a) Candidatus Phytoplasma solani Quaglino et al.:
+
+i) As videiras devem ser produzidas em áreas conhecidas como isentas de Candidatus Phytoplasma solani Quaglino et al., ou
+
+ii) Não se observaram sintomas de Candidatus Phytoplasma solani Quaglino et al. na parcela durante o último ciclo vegetativo completo, ou
+
+Todas as videiras nas vinhas-mãe destinadas à produção de material standard que tiverem apresentado sintomas de Candidatus Phytoplasma solani Quaglino et al. foram, arrancadas, e
+
+Caso o material de propagação destinado à comercialização apresente sintomas de Candidatus Phytoplasma solani Quaglino et al., o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de Candidatus Phytoplasma solani Quaglino et al.
+
+b) Xylophilus ampelinus Willems et al.:
+
+i) As videiras devem ser produzidas em áreas conhecidas como isentas de Xylophilus ampelinus Willems et al., ou
+
+ii) Não se observaram sintomas de Xylophilus ampelinus Willems et al. nas videiras no sítio de produção durante a última estação vegetativa completa, ou
+
+iii) Devem ser satisfeitas as seguintes condições no que se refere à presença de Xylophilus ampelinus Willems et al.:
+
+Todas as videiras nas vinhas-mãe destinadas à produção de material standard que apresentem sintomas de Xylophilus ampelinus Willems et al. foram eliminadas e são tomadas medidas de higiene adequadas, e
+
+As videiras situadas numa parcela onde se registaram plantas sintomáticas de Xylophilus ampelinus Willems et al. devem ser tratadas com um bactericida após a poda, a fim de assegurar a ausência de Xylophilus ampelinus Willems et al., e
+
+Caso o material de propagação destinado à comercialização apresente sintomas de Xylophilus ampelinus Willems et al., o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de Xylophilus ampelinus Willems et al.
+
+c) Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll-associated virus 1 e Grapevine leafroll-associated virus 3:
+
+Não se observaram sintomas de qualquer dos vírus (Arabis mosaic virus, Grapevine fanleaf virus, Grapevine leafroll-associated virus 1 e Grapevine leafroll-associated virus 3) em mais de 10 % das videiras em vinhas-mãe destinadas à produção de material standard, e essas videiras foram eliminadas da propagação.
+
+> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+## Parte C — Seleção de manutenção de variedades de videira
+
+1 - De cada variedade a inscrever no Catálogo Nacional de Variedades de Videira deve, obrigatoriamente, existir uma seleção de manutenção.
+
+2 - De cada seleção de manutenção deve ser indicado:
+
+a) O local onde está instalada (georreferenciação, nome do local, freguesia e concelho);
+
+b) O número de plantas que a constituem;
+
+c) Se está sob abrigo à prova de insetos ou ao ar livre;
+
+d) Se as plantas estão em pé-franco ou enxertadas, indicando neste caso a variedade e o clone do porta-enxerto.
+
+> Aditado pelo/a Anexo I do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+## Parte C — Requisitos relativos aos materiais vitícolas
+
+1 - A presença de organismos nocivos que reduzam o valor de utilização dos materiais vitícolas é tolerada no mais baixo nível possível.
+
+2 - Os materiais vitícolas que apresentem sinais ou sintomas claramente atribuíveis a organismos nocivos para os quais não existam tratamentos eficazes devem ser eliminados.
+
+## Anexo III — Etiquetagem e documento de acompanhamento
+
+## Anexo IV — Calibres dos materiais vitícolas
+
+1 - Estacas para enxertar, estacas para enraizar e garfos - o diâmetro maior da secção da estaca não herbácea deve ser:
+
+a) Estacas para enxertar e garfos:
+
+i) Diâmetro na extremidade superior - 6,5 mm a 12 mm;
+
+ii) Diâmetro máximo na extremidade inferior - 15 mm, salvo se se tratar de garfos destinados à enxertia no local definitivo;
+
+b) Estacas para enraizar - diâmetro mínimo na extremidade superior - 3,5 mm.
+
+2 - Bacelos:
+
+a) Diâmetro, em materiais não herbáceos - o diâmetro medido a meio do entrenó, abaixo do lançamento superior e segundo o eixo maior, deve ser pelo menos igual a 5 mm;
+
+b) Comprimento, em materiais não herbáceos - o comprimento, medido do ponto inferior de inserção das raízes à base do lançamento superior, não deve ser inferior a:
+
+i) 30 cm, no caso dos bacelos destinadas à enxertia, excepto no caso dos bacelos com destino à Sicília, cujo comprimento é de 20 cm;
+
+ii) 20 cm, no caso dos outros bacelos;
+
+c) Raízes - exceptuando as plantas de vaso, cada planta deve ter pelo menos três raízes bem desenvolvidas e convenientemente repartidas; no entanto, a variedade 420 A pode ter apenas duas raízes bem desenvolvidas, desde que sejam opostas;
+
+d) Talão - o corte deve ter sido feito a uma distância suficiente abaixo do diafragma de modo a não o danificar, mas nunca a mais de 1 cm.
+
+3 - Bacelos enxertados:
+
+a) Comprimento em materiais não herbáceos - o caule deve ter pelo menos 20 cm de comprimento;
+
+b) Raízes - exceptuando as plantas de vaso, cada planta deve ter pelo menos três raízes bem desenvolvidas e convenientemente repartidas; no entanto, a variedade 420 A pode ter apenas duas raízes bem desenvolvidas, desde que sejam opostas;
+
+c) Soldadura da enxertia - cada planta deve apresentar uma soldadura satisfatória, regular e sólida;
+
+d) Talão - o corte deve ter sido feito a uma distância suficiente abaixo do diafragma de modo a não o danificar, mas nunca a mais de 1 cm.
+
+> Alterado pelo/a Anexo IV do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+## Parte C — Calibres
+
+1 - Estacas para enxertar, estacas para enraizar e garfos - o diâmetro maior da secção da estaca atempada deve ser:
+
+a) Estacas para enxertar e garfos:
+
+i) Diâmetro na extremidade superior - 6,5 mm a 12 mm;
+
+ii) Diâmetro máximo na extremidade inferior - 15 mm, salvo se se tratar de garfos destinados à enxertia no local definitivo;
+
+b) Estacas para enraizar - diâmetro mínimo na extremidade superior - 3,5 mm.
+
+2 - Bacelos:
+
+a) Diâmetro, em materiais atempados - o diâmetro medido a meio do entrenó, abaixo do lançamento superior e segundo o eixo maior, deve ser pelo menos igual a 5 mm;
+
+b) Comprimento, em materiais atempados - o comprimento, medido do ponto inferior de inserção das raízes à base do lançamento superior, não deve ser inferior a:
+
+i) 30 cm, no caso dos bacelos destinados à enxertia, exceto no caso dos bacelos com destino à Sicília, cujo comprimento é de 20 cm;
+
+ii) 20 cm, no caso dos outros bacelos;
+
+c) Raízes - cada planta deve ter pelo menos três raízes bem desenvolvidas e convenientemente repartidas; no entanto, a variedade 420 A pode ter apenas duas raízes bem desenvolvidas, desde que sejam opostas;
+
+d) Talão - o corte deve ter sido feito a uma distância suficiente abaixo do diafragma de modo a não o danificar, mas nunca a mais de 1 cm.
+
+3 - Bacelos enxertados:
+
+a) Comprimento em materiais atempados - o caule deve ter pelo menos 20 cm de comprimento;
+
+b) Raízes - cada planta deve ter pelo menos três raízes bem desenvolvidas e convenientemente repartidas; no entanto, a variedade 420 A pode ter apenas duas raízes bem desenvolvidas, desde que sejam opostas;
+
+c) Soldadura da enxertia - cada planta deve apresentar uma soldadura satisfatória, regular e sólida;
+
+d) Talão - o corte deve ter sido feito a uma distância suficiente abaixo do diafragma de modo a não o danificar, mas nunca a mais de 1 cm.
+
+> Aditado pelo/a Anexo III do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+## Parte A — Etiqueta
+
+1 - Informações requeridas e que devem constar das etiquetas:
+
+a) Norma UE;
+
+b) País de produção;
+
+c) Autoridade responsável pela certificação ou controlo e Estado-Membro ou as respetivas iniciais;
+
+d) Nome e endereço da pessoa responsável pela aposição da etiqueta ou o seu número de identificação;
+
+e) Espécie;
+
+f) Tipo de material;
+
+g) Categoria;
+
+h) Variedade e, se for o caso, o clone (para os bacelos enxertados, esta indicação aplica-se ao porta-enxertos e ao garfo);
+
+i) Número de referência do lote;
+
+j) Quantidade;
+
+k) Comprimento (apenas no caso das estacas para enxertar);
+
+l) Campanha de produção;
+
+m) Número de série;
+
+n) Número de licença de fornecedor de material de propagação;
+
+o) Passaporte fitossanitário conforme estabelecido no Regulamento de Execução (UE) n.º 2016/2031, da Comissão, de 13 de dezembro de 2016;
+
+p) Número de registo oficial fitossanitário de operador económico.
+
+2 - Condições mínimas:
+
+a) A etiqueta deve cumprir os seguintes requisitos:
+
+i) Ser impressa de modo indelével e ser claramente legível;
+
+ii) Ser colocada num local em evidência de modo a ser facilmente visível;
+
+b) As informações referidas no n.º 1:
+
+i) Não devem ser dissimuladas, disfarçadas ou separadas por outras informações ou imagens;
+
+ii) Devem figurar no mesmo plano visual.
+
+3 - Derrogação ao disposto no n.º 1, no que respeita a pequenas quantidades:
+
+a) Mais de uma unidade - na etiqueta, a informação relativa à quantidade, referida na alínea j) do n.º 1, deve ser substituída pela informação «Número exato de unidades na embalagem ou no molho»;
+
+b) Apenas uma unidade - as informações requeridas são unicamente as seguintes:
+
+i) Norma UE;
+
+ii) País de produção;
+
+iii) Autoridade responsável pela certificação ou controlo e Estado-Membro ou as respetivas iniciais;
+
+iv) Nome e endereço da pessoa responsável pela aposição das etiquetas ou o seu número de identificação;
+
+v) Espécie;
+
+vi) Variedade e, se for o caso, o clone (para os bacelos enxertados, esta indicação aplica-se ao porta-enxertos e ao garfo);
+
+vii) Número de referência do lote;
+
+viii) Passaporte fitossanitário conforme estabelecido no Regulamento de Execução (UE) n.º 2016/2031, da Comissão, de 13 de dezembro de 2016;
+
+ix) Número de registo oficial fitossanitário de operador económico.
+
+4 - Derrogação relativa às plantas em vasos, caixas ou cartões - no caso de plantas enraizadas em qualquer substrato, em vasos, caixas ou cartões, quando as embalagens desses materiais não possam satisfazer os requisitos de fecho, incluindo a etiquetagem, devido à sua composição:
+
+a) Os materiais vitícolas são mantidos em lotes separados, adequadamente identificados por variedade e, se for o caso, por clone e por número de indivíduos;
+
+b) Os materiais vitícolas em que não seja possível colocar a etiqueta oficial devem ser portadores do documento de acompanhamento, conforme estabelecido na parte B.
+
+## Parte B — Documento de acompanhamento
+
+1 - Condições a cumprir - o documento de acompanhamento a emitir, quando for o caso, deve:
+
+a) Ser constituído, pelo menos, por dois exemplares, sendo um destinado ao destinatário e o outro ao expedidor;
+
+b) No caso do exemplar do destinatário, acompanhar a remessa desde o local de expedição até ao destinatário;
+
+c) Referir todas as informações referidas no n.º 2 relativas aos lotes individuais da remessa;
+
+d) Ser conservado, pelo menos, durante um ano e estar à disposição da autoridade de controlo oficial.
+
+2 - Informações requeridas e que devem constar do documento de acompanhamento:
+
+a) Norma UE;
+
+b) País de produção;
+
+c) Autoridade responsável pela certificação ou controlo e Estado-Membro ou as respetivas iniciais;
+
+d) Número de série;
+
+e) Expedidor (endereço, número de licença de fornecedor de material de propagação e número de registo oficial fitossanitário de operador económico);
+
+f) Destinatário (endereço);
+
+g) Espécie;
+
+h) Tipo(s) de material;
+
+i) Categoria(s);
+
+j) Variedade e, se for o caso, o clone (para os bacelos enxertados, esta indicação aplica-se ao porta-enxertos e ao garfo);
+
+k) Número de unidades de cada lote;
+
+l) Número total de lotes;
+
+m) Data de fornecimento.
+
+> Aditado pelo/a Anexo IV do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30
+
+## Anexo V — Acondicionamento
+
+1 - Número de plantas ou parte de plantas contidas em cada embalagem ou molho:
+
+QUADRO
+
+(ver documento original)
+
+2 - Condições especiais:
+
+2.1 - Para pequenas quantidades, se necessário, o número de indivíduos nas embalagens e nos molhos de todos os tipos de materiais vitícolas enumerados na col. 1 do quadro indicado no n.º 1 pode ser inferior às quantidades mínimas indicadas na col. 2 do mesmo quadro;
+
+2.2 - Para plantas enraizadas em qualquer substrato, em vasos, caixas ou cartões, o número de indivíduos e a quantidade máxima não se aplicam.

@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:201838710:por
+title: Decreto-Lei n.º 67/2022
+short_title: null
+summary: Estabelece medidas excecionais de apoio às empresas e à economia social, para mitigação dos efeitos da inflação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 67/2022
+official_date: null
+publication_date: '2022-10-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/2022, Série I de 2022-10-04
+  number: '192'
+  series: I
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19200/0000300004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/67/2022/10/04/p/dre/pt/html
+  oj: null
+  dre: '201838710'
+  dre_path: /dr/detalhe/decreto-lei/67-2022-201838710
+  internal: pt:dre:201838710:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2022-201838710
+  metadata_url: https://data.dre.pt/eli/dec-lei/67/2022/10/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2022-201838710
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-09-04T00:00:00Z'
+integrity:
+  source_sha256: 50633e7bb7b20b7602789e96ca90c59b2fe32a709349c6eff2c932c1d75bf19a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-67-201838710.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Transitária
+- Gás Natural
+- Financiamento
+- Empresa
+- CE Países
+- Cobrança de Impostos
+- Código dos Impostos Especiais de Consumo
+- Imposto sobre Produtos Petrolíferos
+- Contrato Administrativo
+- Transporte Rodoviário
+- Regulamentação de Atos Legislativos
+- Empreitada de Obras Públicas
+- Empresa Transitária
+- Política Energética
+- Produto Petrolífero
+- Combustível
+- Gasóleo
+- Co-geração
+- Obras Públicas
+- Transporte de Mercadorias
+- Política de Preços
+- Produção de Energia Elétrica
+- Prorrogação de Prazo
+- Trabalhador por Conta de Outrem
+- Tributação
+- Contratação Pública
+relationships:
+- type: amended_by
+  target: pt:dre:221278508:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/36/2022/05/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/36/2022/05/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43-a/2022/07/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43-a/2022/07/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 67/2022
+
+de 4 de outubro
+
+Para fazer face à inflação que presentemente se verifica em Portugal, é necessário estabelecer um conjunto de medidas que mitiguem os seus efeitos.
+
+Neste contexto, o Governo determina a suspensão dos efeitos, entre 1 de outubro e 31 de dezembro de 2022, da disposição transitória do imposto sobre os produtos petrolíferos e energéticos aplicável ao gás natural usado na produção de eletricidade ou cogeração por entidades que desenvolvam essas atividades como sua atividade principal, usando a autorização legislativa concedida pelo artigo 298.º da [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho.
+
+Paralelamente, o Governo prorroga o mecanismo de gasóleo profissional extraordinário previsto no [Decreto-Lei n.º 43-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2022-185780383), de 6 de julho, para os abastecimentos elegíveis que ocorram até ao fim do ano de 2022.
+
+Por fim, prorroga-se a vigência, até meados de 2023, do mecanismo de revisão extraordinária de preços nas empreitadas de obras públicas previsto no [Decreto-Lei n.º 36/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2022-183691731), de 20 de maio.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 298.º da [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede:
+
+a) À suspensão dos efeitos do disposto nos n.os 7 e 9 do artigo 297.º da [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho, no que se refere aos produtos energéticos classificados pelo código NC 2711;
+
+b) À prorrogação da vigência do artigo 2.º do [Decreto-Lei n.º 43-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2022-185780383), de 6 de julho, para os abastecimentos elegíveis que ocorram até 31 de dezembro de 2022;
+
+c) À alteração ao [Decreto-Lei n.º 36/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2022-183691731), de 20 de maio, que estabelece um regime excecional e temporário no âmbito do aumento dos preços com impacto em contratos públicos.
+
+###### Artigo 2.º — Disposição transitória em matéria de produtos petrolíferos e energéticos
+
+No período compreendido entre 1 de outubro e 31 de dezembro de 2022 suspendem-se os efeitos do disposto nos n.os 7 e 9 do artigo 297.º da [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho, no que se refere aos produtos energéticos classificados pelo código NC 2711.
+
+###### Artigo 3.º — Mecanismo de gasóleo profissional extraordinário
+
+O disposto no artigo 2.º do [Decreto-Lei n.º 43-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2022-185780383), de 6 de julho, aplica-se aos abastecimentos elegíveis que ocorram até 31 de dezembro de 2022.
+
+###### Artigo 4.º — Alteração ao [Decreto-Lei n.º 36/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2022-183691731), de 20 de maio
+
+Os artigos 6.º e 8.º do [Decreto-Lei n.º 36/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2022-183691731), de 20 de maio, passam a ter a seguinte redação:
+
+«Artigo 6.º
+
+[...]
+
+A revisão de preços nas entidades da administração central realizada ao abrigo do presente decreto-lei é suportada por verbas inscritas no programa orçamental da respetiva área setorial, dentro da dotação inicial aprovada pelo Orçamento do Estado de 2022 e a aprovar no Orçamento do Estado de 2023, sem prejuízo de eventuais reforços a realizar nos termos gerais aplicáveis.
+
+###### Artigo 8.º — [...]
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2023.
+
+2 - O regime previsto no presente decreto-lei é aplicável a todos os pedidos efetuados nos termos do n.º 1 do artigo 3.º até 30 de junho de 2023.»
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 15 de setembro de 2022. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Pedro Nuno de Oliveira Santos.
+
+**Promulgado em 29 de setembro de 2022.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 29 de setembro de 2022.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

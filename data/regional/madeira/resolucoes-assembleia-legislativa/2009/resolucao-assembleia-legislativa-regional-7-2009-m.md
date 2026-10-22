@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:494775:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 7/2009/M
+short_title: null
+summary: Resolve apresentar à Assembleia da República a proposta de lei de alteração ao Decreto-Lei n.º 66/2008, de 9 de Abril,
+  que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários no âmbito dos serviços aéreos entre
+  o continente e a Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 7/2009/M
+official_date: null
+publication_date: '2009-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/2009, Série I de 2009-06-18
+  number: '116'
+  series: I
+  supplement: null
+  pages: 4067 - 4069
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11600/0406704069.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/7/2009/06/18/m/dre/pt/html
+  oj: null
+  dre: '494775'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2009-494775
+  internal: pt:dre:494775:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2009-494775
+  metadata_url: https://data.dre.pt/eli/resolalram/7/2009/06/18/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2009-494775
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-06-18T00:00:00Z'
+integrity:
+  source_sha256: d4e21dd11c5a97e4166ff4322542c505fb08817c1615c5bcbd263a58171ac3f3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2009/DRE-2009-7-494775.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Beneficiário
+- Transporte Aéreo
+- Madeira.região Autónoma
+- Subsídio de Apoio Social
+- Tarifa Aérea
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/66/2008/04/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/66/2008/04/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 7/2009/M
+
+Proposta de lei à Assembleia da República - Alteração ao [Decreto-Lei n.º 66/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2008-249844), de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários no âmbito dos serviços aéreos entre o continente e a Região Autónoma da Madeira.
+
+Exposição de motivos
+
+No contexto da liberalização da rota do transporte aéreo entre a Madeira e o continente, foi publicado o [Decreto-Lei n.º 66/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2008-249844), de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos residentes e estudantes, através da concessão de um valor fixo de (euro) 60 por viagem de ida e volta, desde que a tarifa exigida seja superior a esse montante.
+
+Passado um ano da aplicação deste diploma, verifica-se que este regime veio proporcionar preços variáveis nas tarifas. Para usufruir dos preços mais competitivos o seu beneficiário tem sempre de adquirir o seu título de transporte antecipadamente, atendendo ao aumento crescente do preço, quanto mais perto da data da viagem.
+
+Ora, no caso dos estudantes esta situação é praticamente impossível de concretizar, uma vez que estão dependentes do calendário de exames. E se tivermos em consideração os estudantes que ingressam no ensino superior, tal situação é ainda mais imprevisível, perante a data de saída dos resultados de acesso ao ensino superior.
+
+Apesar de o actual quadro vigente ter trazido algumas vantagens, a verdade é que não salvaguardou o estatuto do passageiro estudante, anteriormente previsto, tratando os estudantes madeirenses a estudar fora da Região como residentes, sem o direito à discriminação positiva decorrente da sua necessidade imperiosa de deslocação por motivos de estudos e contínua formação.
+
+De facto, é-lhe impossível prever com tanta antecedência as datas dos seus exames e épocas de recurso, não conseguindo, por esta razão, planear com certeza e marcar com antecedência as suas viagens, para que não veja agravado o preço final da sua deslocação aérea.
+
+Deste modo, de um modo precipitado, o passageiro estudante vê-se obrigado, no início de cada ano lectivo, à programação das suas três ou quatro deslocações médias anuais, o que exige a disponibilidade financeira imediata das famílias para o pagamento das mesmas. E no caso de alteração posterior, agrava-se a situação face à penalização imposta pelas transportadoras. A situação torna-se ainda mais prejudicial pelo facto de as deslocações ocorrerem nas chamadas épocas altas (Natal, Páscoa, Verão), onde a procura é maior e os preços dos voos são muito mais elevados.
+
+Considerando que a liberalização tem como objectivo oferecer condições mais favoráveis nas tarifas aéreas entre a Região Autónoma da Madeira e o continente português, torna-se premente acautelar convenientemente o seu impacte sobre a população residente e, particularmente, sobre a condição especial dos estudantes madeirenses;
+
+Considerando que é um dever do Governo da República assegurar o princípio da continuidade territorial, que assenta na necessidade de corrigir as desigualdades estruturais originadas pelo afastamento e pela insularidade e visa a plena consagração dos direitos de cidadania da população madeirense, vinculando, designadamente, o Estado ao seu cumprimento, de acordo com as suas obrigações constitucionais;
+
+Considerando que cada madeirense que aposta na sua formação é também uma mais-valia para o País, não apenas para a Região, é, igualmente, dever do Estado assegurar a igualdade de acesso à educação, visto que esta constitui o mais importante pilar de desenvolvimento de qualquer sociedade:
+
+Nestes termos, é alterada a forma de atribuição do actual subsídio social, passando a modalidade do seu pagamento a ser feita através de um valor percentual aplicado sobre o valor da tarifa, uma vez que essa alteração representa uma compensação mais justa do gasto real com as deslocações em transporte aéreo entre o continente e a Região Autónoma da Madeira. Assim, pretende-se que, ao invés da tarifa fixa, exista um reembolso de 50 % do valor total da viagem para residentes, o qual deve ser majorado em 15 % para os passageiros estudantes, em quatro viagens de ida e volta, por ano lectivo.
+
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto na alínea f) do n.º 1 do artigo 227.º e na alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, com as alterações introduzidas pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, apresenta à Assembleia da República a seguinte proposta de lei:
+
+###### Artigo 1.º — Alterações ao [Decreto-Lei n.º 66/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2008-249844), de 9 de Abril
+
+Os artigos 2.º, 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 66/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2008-249844), de 9 de Abril, passam a ter a seguinte redacção:
+
+«Artigo 2.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+i) ...
+
+ii) Frequência efectiva de qualquer nível de ensino oficial ou equivalente, incluindo pós-graduação, realização de mestrados ou doutoramentos, em instituições públicas, particulares ou cooperativas; e
+
+iii) Com última residência habitual em local distinto do local onde estudam, no continente, nas Regiões Autónomas dos Açores e da Madeira, noutro Estado da União Europeia ou em qualquer outro Estado com o qual Portugal ou a União Europeia tenham celebrado um acordo relativo à livre circulação de pessoas;
+
+b) Serão considerados ainda passageiros estudantes os cidadãos que residam e frequentem na Região Autónoma da Madeira um qualquer nível de ensino oficial ou equivalente, incluindo pós-graduação, realização de mestrados ou doutoramentos, em instituições públicas, particulares e que se desloquem para fora da Região Autónoma da Madeira para efeitos de formação;
+
+c) [Anterior alínea b).]
+
+d) [Anterior alínea c).]
+
+e) [Anterior alínea d).]
+
+f) [Anterior alínea e).]
+
+g) [Anterior alínea f).]
+
+###### Artigo 4.º — [...]
+
+1 - O subsídio a atribuir ao beneficiário reporta-se ao pagamento e utilização efectiva do título de transporte pelo beneficiário, assumindo a modalidade de pagamento de um valor percentual de 50 % do montante da tarifa, sem prejuízo do disposto no número seguinte.
+
+2 - Os passageiros estudantes beneficiam, em quatro viagens de ida e volta por ano lectivo, de uma majoração de 15 % sobre o valor percentual previsto no número anterior.
+
+###### Artigo 5.º — [...]
+
+1 - A prestação do serviço de pagamento do subsídio é efectuada pelos CTT e pelas instituições de crédito que aceitem prestá-lo, nas condições fixadas para aquela empresa pública.
+
+2 - ...
+
+###### Artigo 6.º — [...]
+
+1 - ...
+
+2 - Sem prejuízo do disposto no artigo 3.º do presente diploma, quando o beneficiário viajar ao serviço, ou por conta, de uma pessoa colectiva ou singular, o reembolso pode ser solicitado por esta última, desde que na factura emitida em nome desta conste o nome do beneficiário e o respectivo número de contribuinte e sejam anexados os respectivos talões de embarque, bem como os restantes documentos previstos no artigo 7.º
+
+3 - (Anterior n.º 2.)
+
+###### Artigo 7.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Para além da documentação exigida no n.º 1, os beneficiários da alínea a) do artigo 2.º devem ainda exibir documento emitido e autenticado pelo estabelecimento de ensino que comprove estarem devidamente matriculados no ano em referência e a frequentar o curso ministrado pelo referido estabelecimento de ensino, sem prejuízo do número seguinte.
+
+5 - No caso específico dos estudantes residentes que frequentam estabelecimento de ensino na Região Autónoma da Madeira, devem apresentar comprovativo da pertinência da deslocação emitido pelo respectivo estabelecimento, bem como comprovativo da frequência da acção de formação complementar em causa, emitido pela entidade promotora.
+
+6 - (Anterior n.º 5.)»
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente diploma entra em vigor com a aprovação da Lei do Orçamento do Estado para o ano de 2010, reportando-se os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 66/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2008-249844), de 9 de Abril.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de Maio de 2009.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**

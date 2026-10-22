@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:329850:por
+title: Portaria n.º 513/78
+short_title: null
+summary: Cria um quadro paralelo junto da Direcção-Geral dos Registos e do Notariado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa
+proposing_entity: null
+official_number: 513/78
+official_date: null
+publication_date: '1978-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 205/1978, Série I de 1978-09-06
+  number: '205'
+  series: I
+  supplement: null
+  pages: 1827 - 1828
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/09/20500/18271828.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '329850'
+  dre_path: /dr/detalhe/portaria/513-1978-329850
+  internal: pt:dre:329850:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/513-1978-329850
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/513-1978-329850
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-08-01T00:00:00Z'
+integrity:
+  source_sha256: 8a3e7a820388c88b7e907e30111fb708b62dce26f32070922b9ecf9b9253d771
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-513-329850.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:381347:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 513/78
+
+de 6 de Setembro
+
+Considerando a necessidade de promover a rápida integração na nossa Administração dos agentes ingressados no quadro geral de adidos;
+
+Considerando que essa integração deve realizar-se segundo fórmulas maleáveis que respeitem os diversos interesses em presença e que visem o aproveitamento das qualificações profissionais dos adidos;
+
+Considerando que esse objectivo se garante, preferentemente, através da colocação dos mesmos em sectores da nossa Administração, homólogos daqueles em que exerciam actividade nos territórios descolonizados, a presente portaria prossegue a criação de um quadro paralelo junto da Direcção-Geral dos Registos e do Notariado para os agentes que prestaram serviço nas secretarias e cartórios notariais e, bem assim, nas conservatórias dos registos e respectivas delegações daqueles territórios;
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Reforma Administrativa, da Justiça e das Finanças e do Plano, com base nos artigos 13.º e 41.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, o seguinte:
+
+1.º
+
+(Quadro paralelo da Direcção-Geral dos Registos e do Notariado)
+
+1 - É criado junto da Direcção-Geral dos Registos e do Notariado um quadro paralelo onde serão obrigatoriamente integrados os agentes que nos territórios descolonizados exerciam actividade em secretarias e cartórios notariais e, bem assim, em conservatórias dos registos e respectivas delegações.
+
+2 - Ao mesmo quadro poderão ter acesso os adidos provenientes de outros serviços ou organismos dos territórios descolonizados que, encontrando-se destacados em serviços dependentes da Direcção-Geral dos Registos e do Notariado à data da publicação deste diploma, tenham demonstrado aptidão para o exercício das funções que estejam a exercer.
+
+3 - Exceptuam-se do disposto no n.º 1:
+
+a) Os agentes que, segundo a legislação aplicável ao quadro geral de adidos, tenham sido aposentados ou venham a sê-lo por o terem requerido à data da publicação deste diploma;
+
+b) Os agentes que tenham requerido a exoneração daquele quadro;
+
+c) Os agentes que tenham sido integrados em quadros de outros serviços ou organismos;
+
+d) Os agentes que, encontrando-se destacados ou requisitados junto de outros serviços ou organismos públicos, optem pela permanência no quadro geral de adidos naquela situação, desde que tenham garantia de futura integração nos quadros desses serviços ou organismos, ou justifiquem a sua opção por motivos ponderosos, devidamente fundamentados e aceites.
+
+A opção deverá ser feita até trinta dias após a publicação desta portaria.
+
+4 - O director-geral dos Registos e do Notariado decidirá, no prazo de um mês, a contar da publicação da presente portaria, quais os agentes referidos no n.º 2 que virão a ser integrados no quadro paralelo.
+
+2.º
+
+(Estrutura e natureza do quadro paralelo)
+
+1 - As categorias que integrarão o quadro paralelo e respectivos efectivos serão definidos por despacho dos Ministros das Finanças e do Plano, da Justiça e da Reforma Administrativa, a publicar na 1.ª série do Diário da República, até noventa dias após a publicação deste diploma.
+
+2 - O quadro paralelo tem natureza transitória, extinguindo-se logo que se verifique a integração dos adidos que dele façam parte e a inexistência de efectivos susceptíveis de nele serem integrados.
+
+3.º
+
+(Categoria em que é feita a integração no quadro paralelo)
+
+1 - A integração dos agentes a que se refere o n.º 1.º, 1, será feita nas categorias fixadas no mapa de equivalências anexo à presente portaria.
+
+2 - A categoria de integração dos agentes mencionados no n.º 1.º, 2, será estabelecida por despacho dos Ministros da Reforma Administrativa e da Justiça, após o cumprimento do disposto no n.º 1.º, 4.
+
+4.º
+
+(Verificação dos requisitos de ingresso)
+
+A verificação dos requisitos de ingresso no quadro paralelo será feita pelo Serviço Central de Pessoal.
+
+5.º
+
+(Forma de integração)
+
+A integração no quadro paralelo far-se-á mediante listas nominativas aprovadas por despacho dos Ministros da Reforma Administrativa e da Justiça, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+
+6.º
+
+(Regime geral de pessoal)
+
+1 - Ao pessoal que vier a ser integrado no quadro paralelo será aplicável o regime geral de pessoal estabelecido para idênticas categorias dos serviços dependentes da Direcção-Geral dos Registos e do Notariado.
+
+2 - Os adidos integrados no quadro paralelo serão, porém, considerados concorrentes obrigatórios em todos os concursos da respectiva categoria.
+
+3 - Nos concursos de provimento de lugares de escriturário-dactilógrafo é reconhecida preferência legal aos funcionários do quadro paralelo apenas sobre candidatos que não façam parte dos quadros dos serviços dos registos e do notariado ou não sejam nestes assalariados à data da publicação da presente portaria.
+
+4 - Ao pessoal do quadro paralelo será contado, para todos os efeitos, o tempo de serviço prestado nas ex-colónias e no quadro geral de adidos.
+
+7.º
+
+(Gestão do quadro paralelo)
+
+Até serem integrados nos quadros respectivos, os agentes do quadro paralelo serão colocados em cartórios ou conservatórias, mediante despacho do director-geral dos Registos e do Notariado, de harmonia com as necessidades de serviço.
+
+8.º
+
+(Isenção das restrições à admissão de pessoal na função pública)
+
+A Direcção-Geral dos Registos e do Notariado fica isenta das restrições à admissão de pessoal na função pública, estabelecidas no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro, no tocante ao recrutamento de pessoal para os quadros dos cartórios e conservatórias, até à integração nos quadros privativos dos cartórios e conservatórias de todos os agentes do quadro paralelo.
+
+9.º
+
+(Providências orçamentais)
+
+Enquanto o orçamento do Cofre dos Conservadores, Notários e Funcionários de Justiça não for dotado com as verbas indispensáveis à satisfação dos encargos decorrentes da aprovação do presente diploma, os vencimentos base dos agentes integrados no quadro paralelo da Direcção-Geral dos Registos e do Notariado que devam ser suportados pelo mesmo orçamento serão processados pela Direcção de Serviços dos Cofres, por conta das correspondentes verbas da rubrica «Remunerações certas e permanentes - Pessoal do quadro geral de adidos», inscrita no orçamento do Serviço Central de Pessoal.
+
+10.º
+
+(Resolução de dúvidas)
+
+As dúvidas resultantes da aplicação do presente diploma serão esclarecidas mediante despacho dos Ministros da Justiça, da Reforma Administrativa e das Finanças e do Plano, de harmonia com a respectiva competência.
+
+Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 11 de Agosto de 1978. - O Ministro da Justiça, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Administração Pública, José Manuel San-Bento Meneses.
+
+Mapa de equivalências a que se refere o n.º 3.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/20500/18271828.pdf))](https://files.diariodarepublica.pt/1s/1978/09/20500/18271828.pdf)
+
+**O Ministro da Justiça, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Administração Pública, José Manuel San-Bento Meneses.**

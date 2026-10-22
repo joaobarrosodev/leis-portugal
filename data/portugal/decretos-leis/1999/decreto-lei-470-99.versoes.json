@@ -1,0 +1,221 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:693592:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-1009146967",
+ "dre_path": "/dr/detalhe/decreto-lei/470-1999-693592",
+ "source_lastmod": "2026-10-07",
+ "versions": [
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469069:por",
+     "title": "Decreto-Lei n.º 229/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "1010783175",
+    "1010783375",
+    "1177967275",
+    "1010783775",
+    "1010783975",
+    "1010784175",
+    "1010784375",
+    "1010784575",
+    "1010784775",
+    "1010784975",
+    "1010785175",
+    "1010785375",
+    "1010785575",
+    "1010785775",
+    "1178140875",
+    "1010786175",
+    "1010786375",
+    "1010786575",
+    "1010786775",
+    "1010786975",
+    "1010787175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1010783175": {
+   "fragment_id": "1010783075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A crescente importância atribuída ao ambiente e a prossecução da política traçada neste domínio implicam, entre outras medidas, o reforço qualitativo dos meios humanos que lhe estão afectos, mormente aqueles que têm acção directa e permanente junto das populações e das áreas a preservar.\n\nNeste contexto, o Programa do XIII Governo Constitucional preconiza que se leve a efeito, de forma modelar relativamente ao ambiente, o objectivo de valorizar e modernizar toda a estrutura administrativa como condição de prestígio e credibilidade indispensáveis para garantir a eficácia no cumprimento da lei, aumentando os níveis de incentivo, de exigência e de responsabilização dos agentes envolvidos.\n\nEm conformidade, também se preconiza, no Programa do Governo, um reforço dos níveis de protecção da rede de áreas protegidas, nomeadamente através da constituição de um corpo de vigilância unificado na área da conservação da natureza, que contribua para a melhor eficácia da detecção de delitos ambientais.\n\nTrata-se, pois, de dar execução prática ao grande objectivo de preservação e defesa do património natural, enquadrado no lema «pensar global, agir local», definido no referido Programa.\n\nPor outro lado, a valorização dos recursos humanos é também imprescindível à consecução das medidas preconizadas para a área do ambiente, nas Grandes Opções do Plano Nacional.\n\nEssa valorização passa fundamentalmente por um recrutamento mais selectivo, apoiado numa maior exigência do nível habilitacional para ingresso, complementado com estágio e formação adequados, de carácter obrigatório, consentâneos com as funções actualmente exercidas pelos vigilantes da natureza e guardas da natureza, carreiras que, no Instituto da Conservação da Natureza e nas direcções regionais do ambiente, desempenham aquela missão.\n\nTambém a realidade tem vindo a evidenciar uma prática funcional comum por parte dos vigilantes da natureza e dos guardas da natureza, não se justificando, hoje, a existência de carreiras distintas.\n\nPor isso, as medidas consagradas traduzem-se na unificação das referidas carreiras, por razões de equidade que devem reger a gestão de pessoal na Administração Pública, procedendo-se ainda à sua revalorização, particularmente justificada pelo acréscimo de competências, das quais relevam o carácter excepcional da formação e das funções que têm vindo a obter e a desempenhar na prevenção, detecção e combate a incêndios florestais em estreita articulação com o Serviço Nacional de Bombeiros, destacando-se a constituição de brigadas de detecção precoce e de intervenção em fogos nascentes.\n\nRealçam-se ainda os conhecimentos técnicos requeridos, nomeadamente no campo da hidrometria, legislação e biologia, exigindo um corpo de pessoal competente e motivado, capaz de abranger um tão amplo leque de atribuições efectivas, sobressaindo pela sua excepcionalidade no contexto da Administração Pública.\n\nFoi este carácter absolutamente excepcional que determinou a especial definição do regime da carreira de vigilantes da natureza, facto que, atentas as especificidades próprias de um tal regime, não deverá constituir precedente relativamente a outras situações preexistentes ou a criar no âmbito da função pública. Estas mesmas preocupações foram reiteradas pelo Governo às organizações representativas dos trabalhadores.\n\nCom o presente decreto-lei, pretende-se ainda reunir num único diploma matéria dispersa, facilitando o seu conhecimento e a coerência de procedimentos.\n\nAo abrigo dos artigos 6.º e 7.º da Lei n.º 23/98, de 26 de Maio, as soluções adoptadas no presente diploma foram objecto de ampla discussão e negociação com as organizações sindicais representativas dos trabalhadores, assentes nas propostas das organizações sindicais e nas contrapropostas da parte do Governo, tendo-se chegado a acordo relativamente a um vasto elenco de matérias, quer de natureza formal quer substancial, sem prejuízo da filosofia de base subjacente ao diploma.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1010783375": {
+   "fragment_id": "1010783275",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma define a estrutura e o regime da carreira de vigilante da natureza dos quadros de pessoal do Ministério do Ambiente e as respectivas condições de prestação de trabalho."
+  },
+  "1177967275": {
+   "fragment_id": "1010783475",
+   "type": 11,
+   "heading": "Artigo 2 — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 23-C/99 - Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-c-1999-249986), com efeitos a partir de 1999-11-11."
+   ],
+   "markdown": "###### Artigo 2 — Conteúdo funcional\n\n1 - Os vigilantes da natureza asseguram, nas respectivas áreas de actuação, as funções de vigilância, fiscalização e monitorização relativas ao ambiente e recursos naturais, nomeadamente no âmbito do domínio hídrico, do património natural e da conservação da natureza.\n\n2 - Para prossecução das funções consagradas no número anterior compete, especialmente, aos vigilantes da natureza:\n\na) Zelar pelo cumprimento da legislação relativa à conservação da natureza e dos regulamentos das áreas protegidas ou zonas de intervenção, colaborando com outras entidades, quando para isso forem solicitados, e requerendo o auxílio de autoridades policiais, sempre que justificado;\n\nb) Zelar pelo cumprimento da legislação aplicável à caça, à pesca e aos incêndios florestais em áreas protegidas, bem como da legislação aplicável às acções de reflorestação das mesmas;\n\nc) Proceder à recolha de elementos no âmbito da protecção e recuperação do ambiente, com vista à participação na realização de estudos neste domínio, e colaborar nos levantamentos dos usos, costumes ou práticas culturais no interior das áreas protegidas;\n\nd) Contribuir para a sensibilização das populações no sentido de compatibilizar o desenvolvimento e o bem-estar das mesmas com a conservação da natureza e gestão dos recursos naturais;\n\ne) Fiscalizar e informar do estado de conservação das infra-estruturas e equipamentos das áreas protegidas, ou das zonas de fiscalização, visando a conservação das mesmas e promovendo o necessário acompanhamento;\n\nf) Colaborar com os visitantes das áreas protegidas, orientando-os e prestando-lhes os esclarecimentos necessários à boa compreensão e interpretação do sentido da legislação;\n\ng) Verificar a eventual prática de infracções, na área de que são responsáveis, tendo em conta as disposições legais, no que se refere ao domínio hídrico, ambiente, recursos naturais e património natural, e elaborar autos de notícia relativos às infracções por si presenciadas ou verificadas;\n\nh) Dar execução ao embargo, ou outras actuações coercivas determinadas pelas entidades competentes, de obras ou acções que ocorram em violação da lei;\n\ni) Efectuar vistorias, quando necessárias ou requeridas, nos termos da lei;\n\nj) Recolher e tratar informação tendente à tomada de decisão no âmbito dos processos de licenciamento e de análise das reclamações;\n\nl) Verificar o cumprimento da legislação relativa ao domínio hídrico superficial ou subterrâneo, segurança de barragens e outras infra-estruturas hidráulicas, lançamento de efluentes, extracção e exploração de materiais inertes, designadamente pedreiras e estabelecimentos industriais afins, protecção dos ecossistemas costeiros, Reserva Ecológica Nacional, ruído e emissões poluentes, resíduos sólidos urbanos e industriais, queimadas e queima de resíduos a céu aberto.\n\n3 - As funções cometidas nos números anteriores aos vigilantes da natureza são exercidas nos termos das competências atribuídas nas leis orgânicas dos serviços do Ministério do Ambiente a cujos quadros estejam afectos.\n\n4 - Quando, por razões de serviço público, outro pessoal dos respectivos serviços seja chamado a prestar a sua colaboração às acções definidas no n.º 2, ser-lhe-á aplicável o disposto no artigo 13.º e no n.º 2 do artigo 18.º do presente diploma, de acordo com o número de dias de deslocação efectiva.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 23-C/99 - Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-c-1999-249986), com efeitos a partir de 1999-11-11."
+  },
+  "1010783775": {
+   "fragment_id": "1010783675",
+   "type": 11,
+   "heading": "Artigo 3.º — Carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Carreira\n\n1 - A carreira de vigilante da natureza desenvolve-se pelas categorias constantes do quadro anexo ao presente diploma, correspondendo às mesmas a escala indiciária naquele inserta.\n\n2 - O ingresso efectua-se, mediante estágio, de entre indivíduos diplomados com adequado curso tecnológico do ensino secundário ou curso equiparado, constituindo ainda requisitos de admissão a concurso a posse de carta de condução e idade inferior a 30 anos.\n\n3 - A promoção efectua-se, mediante concurso, após a permanência de, pelo menos, três anos na categoria imediatamente inferior classificados de Bom.\n\n4 - A progressão realiza-se de acordo com o estabelecido na lei geral para as carreiras verticais.\n\n5 - Os vigilantes da natureza especialistas principais do 3.º escalão ou superior, possuidores de um dos cursos referidos no n.º 2 do presente artigo, poderão ascender à categoria de técnico principal através das regras de intercomunicabilidade vertical e mediante formação adequada, nos termos estabelecidos na lei geral.\n\n6 - Os vigilantes da natureza especialistas principais, bem como os vigilantes da natureza especialistas com, pelo menos, três anos de serviço na categoria, poderão ascender à categoria de técnico de 1.ª classe, preenchidos que estejam os requisitos habilitacionais e demais condições previstos no número antecedente."
+  },
+  "1010783975": {
+   "fragment_id": "1010783875",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de estágio\n\n1 - O regime de estágio obedece ao disposto na lei geral, às normas vigentes no Ministério do Ambiente e, ainda, ao disposto no presente diploma.\n\n2 - O estágio, que tem a duração de um ano, decorrerá sob orientação do organismo a que se destinem os indivíduos admitidos e incluirá formação nos termos do artigo 5.º do presente diploma.\n\n3 - Os estagiários serão remunerados de acordo com o índice 180 da tabela do regime geral da função pública.\n\n4 - O estágio a que se referem os números anteriores reger-se-á ainda com as necessárias adaptações pelo disposto no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, e legislação subsequente.\n\n5 - Os indivíduos aprovados em estágio e que se encontrem dentro das vagas serão providos a título definitivo, contando o tempo de estágio para efeitos de promoção e progressão na categoria de ingresso da respectiva carreira."
+  },
+  "1010784175": {
+   "fragment_id": "1010784075",
+   "type": 11,
+   "heading": "Artigo 5.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formação\n\n1 - Durante o estágio, os vigilantes da natureza frequentarão obrigatoriamente formação adequada ao exercício das suas competências, da qual será feita avaliação final.\n\n2 - Os serviços assegurarão ainda a formação contínua dos vigilantes da natureza, com vista à permanente actualização de conhecimentos e ao seu aperfeiçoamento profissional.\n\n3 - A formação a ministrar nos termos dos números anteriores será regulamentada, mediante despacho do membro do Governo da tutela, nomeadamente quanto à sua natureza e duração."
+  },
+  "1010784375": {
+   "fragment_id": "1010784275",
+   "type": 11,
+   "heading": "Artigo 6.º — Meios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Meios\n\n1 - Para cumprimento do disposto no artigo 2.º, é permitido aos vigilantes da natureza o uso e porte de arma, como meio de autodefesa e dissuasão, de acordo com as condições fixadas em portaria dos Ministros da Administração Interna e do Ambiente.\n\n2 - Os serviços devem fornecer os meios de transporte e de comunicação individual adequados ao desempenho das funções dos vigilantes da natureza, cabendo aos vigilantes da natureza, sempre que necessário, a condução das viaturas nas acções enquadradas no conteúdo funcional definido no artigo 2.º do presente diploma."
+  },
+  "1010784575": {
+   "fragment_id": "1010784475",
+   "type": 11,
+   "heading": "Artigo 7.º — Ajuramentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ajuramentação\n\nO pessoal da carreira de vigilante da natureza é ajuramentado perante o juiz do tribunal da comarca, de acordo com o local onde exerce funções, devendo o juramento ser ratificado pelo tribunal competente sempre que se verifique colocação em área diferente."
+  },
+  "1010784775": {
+   "fragment_id": "1010784675",
+   "type": 11,
+   "heading": "Artigo 8.º — Fardamento e identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fardamento e identificação\n\nO pessoal da carreira de vigilante da natureza no exercício das suas funções é obrigado a:\n\na) Apresentar-se devidamente fardado, em conformidade com o prescrito em regulamento aprovado por portaria do Ministro do Ambiente, ouvidas as organizações representativas dos vigilantes da natureza;\n\nb) Usar o respectivo cartão de identificação, de modelo aprovado por portaria do Ministro do Ambiente."
+  },
+  "1010784975": {
+   "fragment_id": "1010784875",
+   "type": 11,
+   "heading": "Artigo 9.º — Trabalho semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Trabalho semanal\n\n1 - A semana de trabalho do pessoal da carreira de vigilante da natureza é de cinco dias e tem a duração de trinta e cinco horas.\n\n2 - São considerados dias normais de trabalho todos os dias da semana, incluindo sábados, domingos e feriados.\n\n3 - Os dias de descanso semanal e descanso complementar são definidos na programação de serviço a estabelecer mensalmente pelos serviços respectivos, designadamente os serviços locais do Instituto da Conservação da Natureza e as divisões sub-regionais das direcções regionais do ambiente, devendo ser gozados seguidos, e, pelo menos, uma vez por mês, fazer-se coincidir aqueles dias de descanso com o sábado e o domingo.\n\n4 - A programação a que se refere o número precedente pode ser alterada em casos excepcionais, devendo ser comunicada aos interessados com a antecedência mínima de uma semana, salvo situações de manifesta impossibilidade de cumprimento desse prazo.\n\n5 - Sempre que o horário de trabalho coincida no todo ou em parte com o período de trabalho nocturno, a remuneração respectiva é acrescida nos termos da lei geral.\n\n6 - As situações de trabalho extraordinário e a prestação de trabalho em dias de descanso semanal e de descanso complementar, programados nos termos dos números anteriores, bem como nos dias feriados, são igualmente remuneradas nos termos da lei geral."
+  },
+  "1010785175": {
+   "fragment_id": "1010785075",
+   "type": 11,
+   "heading": "Artigo 10.º — Serviço permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço permanente\n\n1 - O serviço do pessoal da carreira vigilante da natureza considera-se de carácter permanente e obrigatório.\n\n2 - O pessoal, ainda que se encontre em período de folga ou descanso, deve tomar todas as providências necessárias para prevenir ou resolver sinistros, ocorrências e infracções inerentes às normas legais de conservação da natureza e de protecção do ambiente."
+  },
+  "1010785375": {
+   "fragment_id": "1010785275",
+   "type": 11,
+   "heading": "Artigo 11.º — Ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Ajudas de custo\n\nA atribuição de ajudas de custo rege-se pelo disposto na lei geral, sem prejuízo de a sua percepção ficar condicionada, em qualquer caso, apenas às deslocações que se realizem para além de 20 km do domicílio necessário."
+  },
+  "1010785575": {
+   "fragment_id": "1010785475",
+   "type": 11,
+   "heading": "Artigo 12.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Patrocínio judiciário\n\n1 - Os vigilantes da natureza arguidos em processo judicial por actos cometidos ou ocorridos no exercício e por causa das suas funções têm direito a ser assistidos por advogado retribuído a expensas do Estado, através dos serviços respectivos, bem como a transporte e ajudas de custo quando a localização do tribunal ou das entidades policiais o justifiquem.\n\n2 - O advogado referido no número anterior é indicado pelo serviço respectivo, ouvido o interessado, em termos a regulamentar.\n\n3 - Os direitos previstos nos números anteriores manter-se-ão, independentemente da passagem à situação de aposentado, relativamente aos actos praticados no exercício efectivo de funções."
+  },
+  "1010785775": {
+   "fragment_id": "1010785675",
+   "type": 11,
+   "heading": "Artigo 13.º — Suplemento de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Suplemento de risco\n\nA atribuição do suplemento de risco aos vigilantes da natureza será regulamentada nos termos do Decreto-Lei n.º 53-A/98, de 11 de Março, mediante diploma próprio."
+  },
+  "1178140875": {
+   "fragment_id": "1010785875",
+   "type": 11,
+   "heading": "Artigo 14.º — Aposentação",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 14.º — Aposentação\n\nO pessoal da carreira de vigilante da natureza pode requerer a passagem à situação de aposentado logo que atinja 55 anos de idade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01."
+  },
+  "1010786175": {
+   "fragment_id": "1010786075",
+   "type": 11,
+   "heading": "Artigo 15.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Quadros de pessoal\n\nPara execução do disposto no presente diploma, os quadros de pessoal do Instituto da Conservação da Natureza e das direcções regionais do ambiente consideram-se alterados nos seguintes termos:\n\na) Os actuais lugares da categoria de guarda da natureza são atribuídos à categoria de vigilante da natureza de 2.ª classe;\n\nb) Os actuais lugares das categorias de guarda da natureza especialista e de vigilante da natureza de 2.ª classe são atribuídos à categoria de vigilante da natureza de 1.ª classe;\n\nc) Os actuais lugares das categorias de guarda da natureza especialista principal e de vigilante da natureza de 1.ª classe são atribuídos à categoria de vigilante da natureza principal;\n\nd) Os actuais lugares da categoria de vigilante da natureza principal são atribuídos à categoria de vigilante da natureza especialista;\n\ne) Os actuais lugares da categoria de vigilante da natureza especialista são atribuídos à categoria de vigilante da natureza especialista principal;\n\nf) Os lugares da categoria de origem do pessoal objecto de transição nos termos do n.º 4 do artigo 16.º do presente diploma convertem-se em lugares da nova categoria, com efeitos a partir da data da transição, extinguindo-se simultaneamente na categoria de origem."
+  },
+  "1010786375": {
+   "fragment_id": "1010786275",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime de transição\n\n1 - Os actuais vigilantes da natureza e guardas da natureza transitam para a nova carreira de vigilante da natureza, com observância do disposto no artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, extinguindo-se as anteriores carreiras a partir da data da transição e observando-se as seguintes regras especiais:\n\na) Vigilantes da natureza especialistas posicionados no escalão 5 transitam para o escalão 2 da categoria de vigilante da natureza especialista principal;\n\nb) Vigilantes da natureza principais posicionados no escalão 5 transitam para o escalão 2 da categoria de vigilante da natureza especialista;\n\nc) Vigilantes da natureza principais posicionados no escalão 4 transitam para o escalão 1 da categoria de vigilante da natureza especialista;\n\nd) Vigilantes da natureza principais posicionados no escalão 3 transitam para o escalão 2 da categoria de vigilante da natureza principal;\n\ne) Vigilantes da natureza de 1.ª classe posicionados no escalão 5 transitam para o escalão 2 da categoria de vigilante da natureza principal;\n\nf) Vigilantes da natureza de 1.ª classe posicionados no escalão 4 transitam para o escalão 1 da categoria de vigilante da natureza principal;\n\ng) Vigilantes da natureza de 1.ª classe posicionados no escalão 3 transitam para o escalão 2 da categoria de vigilante da natureza de 1.ª classe;\n\nh) Vigilantes da natureza de 2.ª classe posicionados no escalão 5 transitam para o escalão 6 da categoria de vigilante da natureza de 2.ª classe;\n\ni) Vigilantes da natureza de 2.ª classe posicionados no escalão 3 transitam para o escalão 4 da categoria de vigilante da natureza de 2.ª classe;\n\nj) Vigilantes da natureza de 2.ª classe posicionados no escalão 2 transitam para o escalão 3 da categoria de vigilante da natureza de 2.ª classe;\n\nl) Guardas da natureza posicionados no escalão 7 transitam para o escalão 2 da categoria de vigilante da natureza de 1.ª classe;\n\nm) Guardas da natureza posicionados no escalão 6 transitam para o escalão 1 da categoria de vigilante da natureza de 1.ª classe;\n\nn) Guardas da natureza posicionados no escalão 5 transitam para o escalão 5 da categoria de vigilante da natureza de 2.ª classe;\n\no) Guardas da natureza posicionados no escalão 4 transitam para o escalão 4 da categoria de vigilante da natureza de 2.ª classe;\n\np) Guardas da natureza posicionados no escalão 3 transitam para o escalão 3 da categoria de vigilante da natureza de 2.ª classe;\n\nq) Guardas da natureza posicionados no escalão 2 transitam para o escalão 2 da categoria de vigilante da natureza de 2.ª classe;\n\nr) Guardas da natureza posicionados no escalão 1 transitam para o escalão 1 da categoria de vigilante da natureza de 2.ª classe.\n\n2 - Nos casos em que da aplicação da regra constante do número anterior resulte um impulso salarial igual ou inferior a 10 pontos, releva, para efeitos de progressão, o tempo de permanência no índice de origem.\n\n3 - A transição prevista nos números anteriores produz efeitos a partir de 1 de Setembro de 1999.\n\n4 - Poderá ainda ser objecto de transição o pessoal que venha desempenhando funções correspondentes ao conteúdo funcional descrito no artigo 2.º do presente diploma, sem prejuízo das habilitações literárias exigidas, e ainda o pessoal que preencha as seguintes condições:\n\na) Com, pelo menos, três anos no exercício das referidas funções, habilitação do 9.º ano de escolaridade ou equiparado e frequência, com aproveitamento, de curso de formação adequado, cujo programa será aprovado por despacho do Ministro do Ambiente;\n\nb) Com, pelo menos, 10 anos no exercício das referidas funções e frequência, com aproveitamento, do curso referido na alínea anterior.\n\n5 - A transição nos termos do número anterior obedece ao normativo do artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, não sendo aplicável o disposto no n.º 3 do presente artigo ao pessoal referido nas alíneas a) e b) do número antecedente.\n\n6 - Ao pessoal referido no n.º 1 do presente artigo será contado, na nova categoria, para efeitos de promoção, o tempo de serviço prestado na anterior categoria.\n\n7 - O disposto no número antecedente é também aplicável ao pessoal possuidor das habilitações legais que seja objecto de transição nos termos do n.º 4, relativamente ao tempo de serviço prestado na anterior categoria no exercício de funções idênticas.\n\n8 - Mantêm-se em vigor os concursos abertos e os estágios a decorrer à data da entrada em vigor do presente diploma, os quais se consideram reportados à nova carreira de vigilante da natureza, sendo os candidatos aprovados integrados na categoria para onde transitaram os titulares das categorias a que se candidataram que estavam posicionados no mesmo escalão.\n\n9 - O estabelecimento de habilitações literárias ou profissionais mais exigentes para ingresso na carreira de vigilante da natureza, nos termos deste diploma, não prejudica o acesso e a intercomunicabilidade do pessoal objecto de transição por força do disposto no n.º 1 antecedente, bem como do pessoal oriundo dos grupos técnico-profissional e administrativo que transite para a nova carreira nos termos do n.º 4 do presente artigo."
+  },
+  "1010786575": {
+   "fragment_id": "1010786475",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\nOs encargos resultantes da aplicação do presente diploma serão suportados por dotação a inscrever no orçamento do Instituto da Conservação da Natureza e das direcções regionais do ambiente."
+  },
+  "1010786775": {
+   "fragment_id": "1010786675",
+   "type": 11,
+   "heading": "Artigo 18.º — Legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Legislação\n\n1 - São revogados os Decretos-Leis n.os 321/90, de 15 de Outubro, 79/93, de 12 de Março, e 143/95, de 14 de Junho, sem prejuízo do disposto nos números seguintes.\n\n2 - Até à regulamentação do suplemento de risco nos termos do Decreto-Lei n.º 53-A/98, de 11 de Março, mantém-se transitoriamente em vigor o disposto no artigo 7.º do Decreto-Lei n.º 321/90, de 15 de Outubro.\n\n3 - Em tudo o que não contrarie o presente diploma, mantêm-se em vigor as normas regulamentares aplicáveis aos vigilantes da natureza e guardas da natureza.\n\n4 - As referências feitas, na legislação em vigor, aos guardas da natureza consideram-se feitas à carreira de vigilante da natureza a que refere o presente diploma."
+  },
+  "1010786975": {
+   "fragment_id": "1010786875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 6 de Outubro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1010787175": {
+   "fragment_id": "1010787075",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver quadro no documento original)"
+  }
+ }
+}

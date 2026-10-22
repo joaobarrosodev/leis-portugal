@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177455559:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-213707063",
+ "dre_path": "/dr/detalhe/portaria/29-b-2022-177455559",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213749730",
+    "213749731",
+    "213749732",
+    "213749733",
+    "213749734",
+    "213749735",
+    "213749736",
+    "213749737",
+    "213749738",
+    "213749739",
+    "213749740",
+    "213749741",
+    "213749742",
+    "213749743",
+    "213749744",
+    "213749745",
+    "213749746",
+    "213749747",
+    "213749748",
+    "213749750",
+    "213749751"
+   ]
+  },
+  {
+   "date": "2023-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213706997:por",
+     "title": "Portaria n.º 143/2023",
+     "published": "2023-05-30",
+     "dre_path": "/dr/detalhe/portaria/143-2023-213706997"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "213749730",
+    "213749731",
+    "213749732",
+    "213749733",
+    "213749734",
+    "213749735",
+    "213749736",
+    "213749737",
+    "213749738",
+    "213749739",
+    "213749740",
+    "213749741",
+    "213749742",
+    "213749743",
+    "213749744",
+    "213749745",
+    "213749746",
+    "213749747",
+    "213749748",
+    "213749749",
+    "213749758",
+    "213749759"
+   ]
+  }
+ ],
+ "fragments": {
+  "213749730": {
+   "fragment_id": "213707064",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 29-B/2022\n\nde 11 de janeiro\n\nSumário: Regulamenta o registo dos profissionais da área da cultura.\n\nO Estatuto dos Profissionais da Área da Cultura foi aprovado em anexo ao Decreto-Lei n.º 105/2021, de 29 de novembro.\n\nDe forma a abranger todas as relações de trabalho que se estabelecem no âmbito do setor da cultura, bem como o respetivo regime de proteção social, o Estatuto encontra-se dividido em três partes essenciais: i) o registo dos profissionais da área da cultura (RPAC); ii) o regime contratual de trabalho e de prestação de atividade, e iii) o regime de proteção social.\n\nA presente portaria regulamenta o RPAC, o qual tem por finalidade, para além da identificação individual dos profissionais da área da cultura, a estruturação e a identificação estatística do setor da cultura para posterior definição de políticas públicas de valorização profissional e técnica, apoios e outros benefícios públicos.\n\nDeste modo, são estabelecidos os termos e as condições para inscrição e manutenção do registo dos profissionais da área da cultura. Apesar de o registo ser de inscrição facultativa, apenas os profissionais inscritos beneficiam da aplicação do regime contributivo e de proteção social especial previsto no Estatuto.\n\nFoi ouvida a Comissão Nacional da Proteção de Dados.\n\nAssim:\n\nManda o Governo, pelo Ministro de Estado e das Finanças, pela Ministra da Modernização do Estado e da Administração Pública, pela Ministra da Cultura e pela Ministra do Trabalho, Solidariedade e Segurança Social, ao abrigo do n.º 4 do artigo 2.º, do n.º 5 do artigo 5.º e da alínea b) do artigo 62.º do Estatuto dos Profissionais da Área da Cultura, aprovado em anexo ao Decreto-Lei n.º 105/2021, de 29 de novembro, o seguinte:"
+  },
+  "213749731": {
+   "fragment_id": "213707065",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta o registo dos profissionais da área da cultura (RPAC), criado pelo n.º 5 do artigo 5.º do Estatuto dos Profissionais da Área da Cultura (Estatuto), aprovado em anexo ao Decreto-Lei n.º 105/2021, de 29 de novembro, definindo:\n\na) As profissões abrangidas pelo Estatuto;\n\nb) Os termos e as condições de inscrição no RPAC e do respetivo cartão."
+  },
+  "213749732": {
+   "fragment_id": "213707066",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Finalidades\n\nO RPAC tem como finalidades:\n\na) Identificação individual do profissional;\n\nb) Estruturação e identificação estatística do setor da cultura;\n\nc) Definição de políticas públicas de valorização profissional e técnica, apoios e outros benefícios públicos;\n\nd) Aplicação do regime de proteção social constante do Estatuto."
+  },
+  "213749733": {
+   "fragment_id": "213707067",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza\n\nA inscrição no RPAC é facultativa e gratuita."
+  },
+  "213749734": {
+   "fragment_id": "213707068",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade gestora\n\nCompete à Inspeção-Geral das Atividades Culturais (IGAC) a gestão do RPAC."
+  },
+  "213749735": {
+   "fragment_id": "213707069",
+   "type": 11,
+   "heading": "Artigo 5.º — Disponibilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disponibilização\n\nO RPAC está disponível no sítio da Internet da IGAC e é acessível através do Portal da Cultura e do Portal ePortugal."
+  },
+  "213749736": {
+   "fragment_id": "213707070",
+   "type": 11,
+   "heading": "Artigo 6.º — Profissionais da área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Profissionais da área da cultura\n\nPodem inscrever-se no RPAC, a todo o tempo, todos os profissionais das artes do espetáculo, do audiovisual, das artes visuais e da criação literária que exerçam uma atividade autoral, artística, técnico-artística ou de mediação cultural com residência legal em território nacional."
+  },
+  "213749737": {
+   "fragment_id": "213707071",
+   "type": 11,
+   "heading": "Artigo 7.º — Trabalhadores por conta de outrem e membros de órgãos estatutários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Trabalhadores por conta de outrem e membros de órgãos estatutários\n\n1 - Para efeitos de inscrição no RPAC, os trabalhadores por conta de outrem da área da cultura têm de exercer uma das profissões constantes da lista aprovada no anexo i da presente portaria, da qual faz parte integrante.\n\n2 - O disposto no número anterior é aplicável aos membros de órgãos estatutários (MOE) de pessoas coletivas da área da cultura.\n\n3 - Para efeitos de benefício do regime especial de proteção social previsto no capítulo v do Estatuto é considerado exclusivamente o rendimento decorrente do exercício de profissão constante do anexo i."
+  },
+  "213749738": {
+   "fragment_id": "213707072",
+   "type": 11,
+   "heading": "Artigo 8.º — Trabalhadores independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Trabalhadores independentes\n\n1 - Para efeitos de inscrição no RPAC, os trabalhadores independentes da área da cultura têm de:\n\na) Estar inscritos, a título principal ou secundário, na base de dados da Autoridade Tributária e Aduaneira (AT), com uma das atividades ou códigos do IRS constantes do anexo ii da presente portaria, da qual faz parte integrante;\n\nb) Ter declarado o início de atividade na Autoridade Tributária e Aduaneira.\n\n2 - Para efeitos de benefício do regime especial de proteção social previsto no capítulo v do Estatuto, é considerado exclusivamente o volume de negócios decorrente do exercício de atividade associado diretamente aos CAE ou CIRS constantes do anexo ii."
+  },
+  "213749739": {
+   "fragment_id": "213707073",
+   "type": 11,
+   "heading": "Artigo 9.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inscrição\n\n1 - A IGAC disponibiliza no seu sítio da Internet o formulário eletrónico de inscrição no RPAC.\n\n2 - A inscrição no RPAC é realizada diretamente pelo profissional da área da cultura, utilizando um dos seguintes meios de autenticação eletrónica:\n\na) Cartão de cidadão;\n\nb) Chave Móvel Digital;\n\nc) Sistema de autenticação do Portal das Finanças;\n\nd) Certificado digital emitido por Estado-Membro da União Europeia no âmbito do STORK;\n\ne) Outros meios de identificação eletrónica emitidos noutros Estados-Membros da União Europeia, reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014, do Parlamento Europeu e do Conselho, de 23 de julho.\n\n3 - Para além dos dados relativos à identificação, a inscrição no RPAC implica a prova do cumprimento do disposto nos artigos 7.º e 8.º para os trabalhadores por conta de outrem, para os MOE e para os trabalhadores independentes, respetivamente, através da verificação a que se refere o n.º 1 do artigo seguinte, ou através da apresentação do certificado a que se refere o n.º 6 do artigo 5.º do Estatuto."
+  },
+  "213749740": {
+   "fragment_id": "213707074",
+   "type": 11,
+   "heading": "Artigo 10.º — Verificação da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Verificação da inscrição\n\n1 - A IGAC pode verificar eletronicamente junto da Autoridade Tributária e Aduaneira e da segurança social as informações e declarações prestadas para efeitos de inscrição, nos termos dos artigos 7.º, 8.º, 9.º, n.º 3, 13.º e 14.º\n\n2 - Sem prejuízo do disposto nos n.os 6 e 7 do artigo 5.º do Estatuto, a IGAC verifica anualmente, para efeitos estatísticos não nominativos, se os profissionais da área da cultura:\n\na) Continuam com enquadramento ativo com atividade principal ou secundária da área da cultura nas bases de dados da AT ou da segurança social, quando aplicável;\n\nb) Obtiveram rendimentos no âmbito das profissões ou atividades referidas nos artigos 7.º e 8.º"
+  },
+  "213749741": {
+   "fragment_id": "213750075",
+   "type": 11,
+   "heading": "Artigo 11.º — Cartão do profissional da área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cartão do profissional da área da cultura\n\nÉ emitido eletronicamente ao profissional inscrito no RPAC o cartão do profissional da área da cultura, o qual pode ser consultado no sítio da Internet da IGAC e acedido através da aplicação móvel que permita a comprovação dos dados, nos termos dos n.os 1 e 4 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual."
+  },
+  "213749742": {
+   "fragment_id": "213750076",
+   "type": 11,
+   "heading": "Artigo 12.º — Vicissitudes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vicissitudes\n\n1 - A inscrição no RPAC pode cessar por:\n\na) Pedido do profissional da área da cultura;\n\nb) Morte do respetivo profissional da área da cultura;\n\nc) Desconformidade do registo;\n\nd) Abuso ou fraude na utilização do registo.\n\n2 - Com uma periodicidade trienal, iniciada a partir da data de inscrição no RPAC, a IGAC verifica se o profissional da área da cultura cumpre o disposto nos artigos 7.º e 9.º e se tem, pelo menos, 360 dias, seguidos ou interpolados, de carreira contributiva registada na segurança social ou contribuições pagas ao Fundo Especial de Segurança Social dos Profissionais da Área da Cultura em atividade na área da cultura, consoante o caso, desde a última verificação, sob pena de caducidade da respetiva inscrição.\n\n3 - Para efeitos do disposto no número anterior, é ainda verificada a disponibilidade para a atividade na área da cultura a que se refere a alínea b) do artigo 62.º do Estatuto, devendo, para tal, o profissional da área da cultura que seja trabalhador independente ter mantido atividade aberta desde a última verificação com uma profissão ou atividade na área da cultura."
+  },
+  "213749743": {
+   "fragment_id": "213750077",
+   "type": 11,
+   "heading": "Artigo 13.º — Informações e pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informações e pareceres\n\n1 - A IGAC pode solicitar a entidades públicas ou privadas, incluindo às entidades representativas do setor e associações sindicais da área da cultura, pareceres e informações sobre os profissionais da área da cultura para efeitos de registo, desde que os titulares expressamente autorizem a sua obtenção, o que não impede a respetiva inscrição.\n\n2 - Podem ainda ser solicitados aos profissionais da área da cultura, ou por eles entregues, nomeadamente os seguintes elementos instrutórios:\n\na) Indicação do número de registo das obras literárias e artísticas;\n\nb) Certificados de trabalho ou de prestação de atividade;\n\nc) Código de acesso à certidão permanente do registo comercial, no caso dos membros dos órgãos estatutários de pessoas coletivas da área da cultura;\n\nd) Documentos comprovativos da participação em espetáculos, eventos, catálogos, entre outros;\n\ne) Curriculum vitae atualizado;\n\nf) Comprovativo de atribuição de subsídios ou apoios concedidos por serviços e entidades da Administração Pública da área da cultura;\n\ng) Certificados de qualificação profissional de nível 4 ou superior específica na área da cultura;\n\nh) Carta de recomendação de entidades representativas do setor e associações sindicais da área da cultura.\n\n3 - Os documentos eletrónicos submetidos com os pedidos de inscrição devem preferencialmente ser assinados com recurso a assinaturas eletrónicas qualificadas, incluindo as do cartão de cidadão e Chave Móvel Digital ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual, sendo admissível a utilização do Sistema de Certificação de Atributos Profissionais.\n\n4 - É dispensada a apresentação de documentos que já se encontrem na posse de serviços e entidades da Administração Pública, quando os profissionais da área da cultura derem o seu consentimento para que se proceda à sua obtenção, utilizando a Plataforma de Interoperabilidade da Administração Pública, ou recorrendo ao mecanismo de portabilidade de dados previsto no n.º 2 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual."
+  },
+  "213749744": {
+   "fragment_id": "213750078",
+   "type": 11,
+   "heading": "Artigo 14.º — Troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Troca de informações\n\n1 - As trocas de dados entre o sistema de suporte do RPAC, a AT e a segurança social devem ser realizadas através do mecanismo de federação de identidades, salvaguardando a confidencialidade dos mesmos, utilizando a Plataforma de Interoperabilidade da Administração Pública ou recorrendo ao mecanismo de portabilidade de dados.\n\n2 - Quando, por motivos de indisponibilidade dos sistemas de informação, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser realizada por outros meios de transmissão eletrónica de dados que garantam a segurança dos dados transmitidos.\n\n3 - Podem ainda ser trocadas informações estatísticas não nominativas entre a IGAC, a AT e a segurança social, referentes a 31 de dezembro de cada ano."
+  },
+  "213749745": {
+   "fragment_id": "213750079",
+   "type": 11,
+   "heading": "Artigo 15.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Protocolos\n\nA IGAC, a AT e a segurança social celebram os protocolos necessários à operacionalização da presente portaria."
+  },
+  "213749746": {
+   "fragment_id": "213750080",
+   "type": 11,
+   "heading": "Artigo 16.º — Dados abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dados abertos\n\nA publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos da presente portaria, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt."
+  },
+  "213749747": {
+   "fragment_id": "213750081",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime transitório\n\n1 - Os profissionais da área da cultura que tenham registo válido no registo nacional de profissionais do setor das atividades artísticas, culturais e de espetáculo (RNPSAACE) são notificados pela IGAC para efeitos de confirmação da respetiva inscrição no RPAC.\n\n2 - Nos termos do disposto na alínea b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 105/2021, de 29 de novembro, a inscrição no RPAC durante o ano de 2022 implica a manutenção da inscrição pelo prazo de 36 meses, sob pena de restituição dos valores recebidos a título de subsídio de suspensão a atividade cultural."
+  },
+  "213749748": {
+   "fragment_id": "213750082",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente portaria produz efeitos a 1 de janeiro de 2022."
+  },
+  "213749750": {
+   "fragment_id": "213750084",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 7.º)\n\n(ver documento original)"
+  },
+  "213749751": {
+   "fragment_id": "213750085",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 8.º)\n\n1 - Lista de atividades de acordo com a Classificação Portuguesa de Atividades Económicas, revista pelo Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual (CAE):\n\n58110;\n\n59110;\n\n59120;\n\n59130;\n\n59140;\n\n59200;\n\n74900\n\n90010;\n\n90020;\n\n90030;\n\n90040;\n\n93291.\n\n2 - Lista de códigos de IRS (CIRS) de acordo com a tabela aprovada pela Portaria n.º 1011/2001, de 21 de agosto, na sua redação atual:\n\n2010;\n\n2011;\n\n2012;\n\n2013;\n\n2014;\n\n2015;\n\n2016;\n\n2017;\n\n2019;\n\n3010;\n\n3019;\n\n8013.\n\n114883202"
+  },
+  "213749749": {
+   "fragment_id": "213750083",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 7 de janeiro de 2022. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão, em 9 de janeiro de 2022. - A Ministra da Cultura, Graça Maria da Fonseca Caetano Gonçalves, em 7 de janeiro de 2022. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 7 de janeiro de 2022."
+  },
+  "213749758": {
+   "fragment_id": "213750084",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 7.º)",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/143-2023-213706997), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 7.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/143-2023-213706997), em vigor a partir de 2023-05-31"
+  },
+  "213749759": {
+   "fragment_id": "213750085",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 8.º)",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/143-2023-213706997), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 8.º)\n\n1 - Lista de atividades de acordo com a Classificação Portuguesa de Atividades Económicas, revista pelo Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual (CAE):\n\n58110;\n\n59110;\n\n59120;\n\n59130;\n\n59140;\n\n59200;\n\n74900;\n\n85520;\n\n90010;\n\n90020;\n\n90030;\n\n90040;\n\n93291.\n\n2 - Lista de códigos de IRS (CIRS) de acordo com a tabela aprovada pela Portaria n.º 1011/2001, de 21 de agosto, na sua redação atual:\n\n1337;\n\n2010;\n\n2011;\n\n2012;\n\n2013;\n\n2014;\n\n2015;\n\n2016;\n\n2017;\n\n2019;\n\n3010;\n\n3019;\n\n8013.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/143-2023-213706997), em vigor a partir de 2023-05-31"
+  }
+ }
+}

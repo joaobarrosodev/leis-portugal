@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:227206:por
+title: Portaria n.º 219/86
+short_title: null
+summary: Ajusta a regulamentação dos parâmetros gerais definidores do regime de crédito à aquisição de casa para residência
+  permanente de jovens
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 219/86
+official_date: null
+publication_date: '1986-05-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/1986, Série I de 1986-05-15
+  number: '111'
+  series: I
+  supplement: null
+  pages: 1150 - 1150
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11100/11501150.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '227206'
+  dre_path: /dr/detalhe/portaria/219-1986-227206
+  internal: pt:dre:227206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-1986-227206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-1986-227206
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-05-15T00:00:00Z'
+integrity:
+  source_sha256: c19f1708114168bbf6277c58362a8acbbcf07430e700025b4ad8c14120d00f78
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-219-227206.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 219/86
+
+de 15 de Maio
+
+Com a publicação do [Decreto-Lei n.º 20-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-1986-222852), de 13 de Fevereiro, veio o Governo melhorar as condições de acesso à habitação das camadas mais jovens da população, suprindo algumas das dificuldades existentes, como, por exemplo, o pagamento do sinal normalmente exigido pelo promotor ao adquirente.
+
+A regulamentação deste diploma carece no momento de ser ajustada, não apenas quanto aos parâmetros necessários ao método de cálculo das prestações, como também por força da recente redução da taxa de juro.
+
+Assim:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, nos termos e em execução do disposto no artigo 4.º do referido [Decreto-Lei n.º 20-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-1986-222852), de 13 de Fevereiro, o seguinte:
+
+1.º Os parâmetros gerais definidores do regime de crédito à aquisição de casa para residência permanente dos jovens são os estabelecidos na [Portaria n.º 217/86](https://diariodarepublica.pt/dr/detalhe/portaria/217-1986-227201), de 15 de Maio.
+
+2.º O subsídio familiar constante do quadro III anexo à referida portaria, que variará em função do rendimento anual bruto do agregado familiar do mutuário, manter-se-á constante nos primeiros três anos de vigência do empréstimo e reduzir-se-á nos anos seguintes pela forma como segue:
+
+Do 4.º ao 7.º ano, 0,5% em cada ano;
+
+A partir do 7.º ano, 1% em cada ano.
+
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 18 de Abril de 1986.**
+
+Pelo Ministro das Finanças, José Alberto Tavares Moreira, Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.

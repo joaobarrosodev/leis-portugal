@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:450666:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1983-912107259",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-1983-450666",
+ "source_lastmod": "2025-03-24",
+ "versions": [
+  {
+   "date": "1983-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "912261303",
+    "912252931",
+    "912252932",
+    "912252933",
+    "912252934"
+   ]
+  },
+  {
+   "date": "2025-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912066250:por",
+     "title": "Decreto Legislativo Regional n.º 13/2025/A",
+     "published": "2025-03-24",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2025-912066250"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "912261303",
+    "912261304",
+    "912261305",
+    "912261306",
+    "912261307",
+    "912261308",
+    "912261309"
+   ]
+  }
+ ],
+ "fragments": {
+  "912261303": {
+   "fragment_id": "912107260",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-03-25",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 17/83/A\n\nObrigatoriedade do uso de placas de sinalização reflectoras\n\nConsiderando a premente necessidade de criar melhores condições de segurança na circulação dos vários tipos de veículos;\n\nConsiderando a vantagem, na Região, da extensão a outros tipos de veículos da obrigatoriedade do uso de placas reflectoras, para além dos previstos no n.º 4 do artigo 30.º do Código da Estrada, tendo em vista as características que os mesmos apresentam, bem como a deterioração frequente a que se encontram sujeitos os respectivos dispositivos de iluminação e de sinalização:\n\nA Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229.º da Constituição da República Portuguesa, decreta o seguinte:"
+  },
+  "912252931": {
+   "fragment_id": "912107261",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Na Região Autónoma dos Açores deverão ser sinalizados com 1 ou 2 placas de material reflector amarelo e vermelho, fluorescente, apostas na zona posterior, além dos veículos referidos no n.º 4 do artigo 30.º do Código da Estrada, os veículos a seguir indicados:\n\na) Veículos ligeiros de mercadorias de caixa aberta ou com cobertura amovível;\n\nb) Triciclos com motor e caixa de carga à retaguarda;\n\nc) Reboques agrícolas ou industriais;\n\nd) Tractores agrícolas equipados com acessórios cujo painel posterior tenha dimensões suficientes para a colocação das placas.\n\n2 - Os veículos referidos na alínea b) do número anterior deverão, para o efeito, ser sinalizados com uma placa, de acordo com o modelo n.º 4 do quadro anexo.\n\n3 - Por sua vez, os veículos referidos nas alíneas a), d) e e) do n.º 1 deverão ser sinalizados com placas de acordo com um dos modelos n.os 1, 2, 3 ou 4. Os modelos n.os 3 e 4 só serão admitidos no caso de não ser possível ou aconselhável a utilização dos modelos n.os 1 e 2, tendo em atenção as características da caixa ou da parte posterior do veículo."
+  },
+  "912252932": {
+   "fragment_id": "912107262",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - As placas de sinalização em causa serão rectangulares e terão a cor e dimensões constantes do quadro anexo ao presente diploma.\n\n2 - Todas as placas serão fixadas à retaguarda dos veículos, num plano vertical perpendicular ao plano longitudinal médio do veículo e simetricamente em relação a este, por forma a serem inteiramente visíveis, qualquer que seja a carga do veículo.\n\n3 - As placas dos modelos n.os 2 e 3 serão colocadas o mais próximo possível das extremidades laterais da face posterior dos veículos, mas de modo a não formarem saliências sobre as faces laterais dos mesmos.\n\n4 - O bordo inferior das placas deverá ficar sempre em posição horizontal e deve procurar-se que a respectiva altura ao solo fique compreendida entre 0,50 m e 1,50 m.\n\nQuando se verifique o transporte de carga indivisível que ultrapasse as dimensões da caixa do veículo, obrigando à cobertura do taipal, dever-se-á sinalizar a própria carga nos termos legalmente estabelecidos.\n\n5 - Todas as placas deverão ser inamovíveis e mantidas sempre limpas e em bom estado de conservação.\n\n6 - Só poderão ser utilizadas placas de modelos aprovados pela Secretaria Regional dos Transportes e Turismo ou as que tenham sido aprovadas pela Direcção-Geral de Viação."
+  },
+  "912252933": {
+   "fragment_id": "912107263",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs infracções ao disposto no presente diploma serão punidas:\n\na) Com coima de 1000$00 a 5000$00, quando os veículos se não apresentem com as placas em causa ou estas não correspondam aos modelos aprovados;\n\nb) Com coima de 600$00 a 3000$00, quando as mesmas placas não respeitem as condições de fixação estabelecidas;\n\nc) Com coima de 300$00 a 1500$00, quando as placas não se apresentem limpas ou em bom estado de conservação."
+  },
+  "912252934": {
+   "fragment_id": "912107264",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma entra em vigor 60 dias após a sua publicação."
+  },
+  "912261304": {
+   "fragment_id": "912107261",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2025-03-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25",
+    "Retificado pelo/a [Declaração - Diário da República n.º 174/1983, 3º Suplemento, Série I de 1983-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-435808), produz efeitos a partir de 1983-07-12"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Na Região Autónoma dos Açores deverão ser sinalizados com 1 ou 2 placas de material reflector amarelo e vermelho, fluorescente, apostas na zona posterior, além dos veículos referidos no n.º 4 do artigo 30.º do Código da Estrada, os veículos a seguir indicados:\n\na) Veículos ligeiros de mercadorias de caixa aberta ou com cobertura amovível;\n\nb) Triciclos com motor e caixa de carga à retaguarda;\n\nc) Reboques agrícolas ou industriais;\n\nd) Tractores agrícolas equipados com acessórios cujo painel posterior tenha dimensões suficientes para a colocação das placas.\n\n2 - Os veículos referidos na alínea b) do número anterior deverão, para o efeito, ser sinalizados com uma placa, de acordo com o modelo n.º 4 do quadro anexo.\n\n3 - Por sua vez, os veículos referidos nas alíneas a), d) e e) do n.º 1 deverão ser sinalizados com placas de acordo com um dos modelos n.os 1, 2, 3 ou 4. Os modelos n.os 3 e 4 só serão admitidos no caso de não ser possível ou aconselhável a utilização dos modelos n.os 1 e 2, tendo em atenção as características da caixa ou da parte posterior do veículo.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25\n\n> Retificado pelo/a [Declaração - Diário da República n.º 174/1983, 3º Suplemento, Série I de 1983-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-435808), produz efeitos a partir de 1983-07-12"
+  },
+  "912261305": {
+   "fragment_id": "912107262",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2025-03-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - As placas de sinalização em causa serão rectangulares e terão a cor e dimensões constantes do quadro anexo ao presente diploma.\n\n2 - Todas as placas serão fixadas à retaguarda dos veículos, num plano vertical perpendicular ao plano longitudinal médio do veículo e simetricamente em relação a este, por forma a serem inteiramente visíveis, qualquer que seja a carga do veículo.\n\n3 - As placas dos modelos n.os 2 e 3 serão colocadas o mais próximo possível das extremidades laterais da face posterior dos veículos, mas de modo a não formarem saliências sobre as faces laterais dos mesmos.\n\n4 - O bordo inferior das placas deverá ficar sempre em posição horizontal e deve procurar-se que a respectiva altura ao solo fique compreendida entre 0,50 m e 1,50 m.\n\nQuando se verifique o transporte de carga indivisível que ultrapasse as dimensões da caixa do veículo, obrigando à cobertura do taipal, dever-se-á sinalizar a própria carga nos termos legalmente estabelecidos.\n\n5 - Todas as placas deverão ser inamovíveis e mantidas sempre limpas e em bom estado de conservação.\n\n6 - Só poderão ser utilizadas placas de modelos aprovados pela Secretaria Regional dos Transportes e Turismo ou as que tenham sido aprovadas pela Direcção-Geral de Viação.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+  },
+  "912261306": {
+   "fragment_id": "912107263",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2025-03-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs infracções ao disposto no presente diploma serão punidas:\n\na) Com coima de 1000$00 a 5000$00, quando os veículos se não apresentem com as placas em causa ou estas não correspondam aos modelos aprovados;\n\nb) Com coima de 600$00 a 3000$00, quando as mesmas placas não respeitem as condições de fixação estabelecidas;\n\nc) Com coima de 300$00 a 1500$00, quando as placas não se apresentem limpas ou em bom estado de conservação.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+  },
+  "912261307": {
+   "fragment_id": "912107264",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2025-03-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+   ],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma entra em vigor 60 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+  },
+  "912261308": {
+   "fragment_id": "912107265",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-03-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+   ],
+   "markdown": "Aprovado pela Assembleia Regional dos Açores em 3 de Fevereiro de 1983.\n\nO Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 7 de Março de 1983.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25"
+  },
+  "912261309": {
+   "fragment_id": "912256293",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2025-03-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25",
+    "Retificado pelo/a [Declaração - Diário da República n.º 174/1983, 3º Suplemento, Série I de 1983-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-435808), produz efeitos a partir de 1983-07-12"
+   ],
+   "markdown": "## Anexo\n\nQUADRO N.º 19\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25\n\n> Retificado pelo/a [Declaração - Diário da República n.º 174/1983, 3º Suplemento, Série I de 1983-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-435808), produz efeitos a partir de 1983-07-12"
+  }
+ }
+}

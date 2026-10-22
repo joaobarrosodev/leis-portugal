@@ -1,0 +1,406 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448725:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2002-808260255",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/30-2002-448725",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "809904481",
+    "809904482",
+    "809904483",
+    "809904484",
+    "809904485",
+    "809904486",
+    "809904487",
+    "809904488"
+   ]
+  },
+  {
+   "date": "2005-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243362:por",
+     "title": "Decreto Regulamentar Regional n.º 19/2005/A",
+     "published": "2005-08-17",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/19-2005-243362"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "809904481",
+    "809904502",
+    "809904483",
+    "809904503",
+    "809904504",
+    "809904505",
+    "809904487",
+    "809904488",
+    "809904489"
+   ]
+  },
+  {
+   "date": "2008-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448959:por",
+     "title": "Decreto Regulamentar Regional n.º 11/2008/A",
+     "published": "2008-06-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/11-2008-448959"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "809904481",
+    "809904502",
+    "809904483",
+    "809904506",
+    "809904504",
+    "809904507",
+    "809904487",
+    "809904488",
+    "809904489"
+   ]
+  },
+  {
+   "date": "2009-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492759:por",
+     "title": "Decreto Regulamentar Regional n.º 10/2009/A",
+     "published": "2009-07-28",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2009-492759"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "809904481",
+    "809904516",
+    "809904483",
+    "809904517",
+    "809904504",
+    "809904507",
+    "809904518",
+    "809904488",
+    "809904489"
+   ]
+  },
+  {
+   "date": "2014-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572575:por",
+     "title": "Decreto Regulamentar Regional n.º 3/2014/A",
+     "published": "2014-02-13",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2014-572575"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "809904481",
+    "809904531",
+    "809904532",
+    "809904533",
+    "809904534",
+    "809904535",
+    "809904518",
+    "809904488",
+    "809904489"
+   ]
+  },
+  {
+   "date": "2023-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:808125342:por",
+     "title": "Decreto Regulamentar Regional n.º 36/2023/A",
+     "published": "2023-12-20",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/36-2023-808125342"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "809904481",
+    "809904531",
+    "809904532",
+    "835545434",
+    "809904534",
+    "809904535",
+    "809904518",
+    "809904488",
+    "809904489"
+   ]
+  }
+ ],
+ "fragments": {
+  "809904481": {
+   "fragment_id": "808260256",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 30/2002/A\n\nNos últimos anos tem-se verificado, na Região Autónoma dos Açores, um acréscimo significativo de trabalhadores imigrantes, designadamente provenientes de países de língua portuguesa, assim como de trabalhadores oriundos dos países do leste europeu, o que constitui um factor de enriquecimento da sociedade açoriana.\n\nNo entanto, esse fenómeno imigratório origina a necessidade de se criarem mecanismos que permitam apoiar a integração desses imigrantes na sociedade e cultura açorianas, por forma a que a respectiva inserção se faça de modo harmonioso, sem prejuízo do integral respeito pela sua identidade sócio-cultural.\n\nNesse sentido, com o presente diploma pretende-se instituir um órgão de natureza consultiva, designado por Conselho Consultivo Regional para os Assuntos da Imigração, que visa a promoção da audição e diálogo entre representantes do Governo, de imigrantes residentes na Região, de parceiros sociais e instituições de solidariedade social e outras entidades que tenham intervenção nos domínios conexos da problemática em causa.\n\nAssim, nos termos da alínea p) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 5 do artigo 231.º da Constituição, o Governo Regional decreta o seguinte:"
+  },
+  "809904482": {
+   "fragment_id": "808260257",
+   "type": 11,
+   "heading": "Artigo 1.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Conselho consultivo\n\nÉ criado, no âmbito da Presidência do Governo Regional, o Conselho Consultivo Regional para os Assuntos da Imigração, com vista a assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais e das instituições de solidariedade social na definição e coordenação das políticas de integração social e de combate à exclusão."
+  },
+  "809904483": {
+   "fragment_id": "808260258",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\nAo Conselho Consultivo Regional para os Assuntos da Imigração, adiante designado por Conselho Consultivo, compete:\n\na) Pronunciar-se sobre os projectos de diploma relativos aos direitos dos imigrantes que lhe sejam submetidos pelo Governo Regional;\n\nb) Colaborar na execução das políticas de integração social que visem a eliminação das discriminações e promovam a igualdade;\n\nc) Participar na definição de medidas e acções que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução, tendo em vista a melhor coordenação de acções entre todos os parceiros e entidades intervenientes;\n\nd) Participar na defesa dos direitos dos imigrantes, com respeito pela sua identidade e cultura, formulando propostas com vista à sua promoção;\n\ne) Exercer outras competências que lhe sejam atribuídas por lei."
+  },
+  "809904484": {
+   "fragment_id": "808260259",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Consultivo é presidido pelo Secretário Regional Adjunto da Presidência e tem a seguinte composição:\n\na) O director regional das Comunidades;\n\nb) O director regional da Educação;\n\nc) O director regional da Solidariedade e Segurança Social;\n\nd) O director regional da Juventude, Emprego e Formação Profissional;\n\ne) O director regional da Saúde;\n\nf) O inspector regional da Inspecção Regional do Trabalho;\n\ng) O inspector regional da Inspecção Regional das Actividades Económicas;\n\nh) Um representante de cada uma das comunidades de imigrantes de língua portuguesa, eleitos cada um pelas associações de imigrantes da respectiva comunidade, bem como três representantes eleitos pelas associações de imigrantes de outras comunidades com presença na Região;\n\ni) Um representante de cada uma das confederações sindicais;\n\nj) Um representante das instituições particulares de solidariedade social que trabalham com imigrantes, designado pela União das Instituições Particulares de Solidariedade Social;\n\nk) Um representante das Misericórdias que trabalham com imigrantes, designado pela União Regional das Misericórdias dos Açores;\n\nl) Um representante do Serviço Diocesano de Apoio à Pastoral da Mobilidade Humana da Igreja Católica;\n\nm) Dois representantes da Associação de Municípios da Região Autónoma dos Açores;\n\nn) Um representante da Câmara de Comércio e Indústria dos Açores, um da Associação de Jovens Empresários dos Açores e outro da Associação dos Industriais de Construção Civil e Obras Públicas dos Açores;\n\no) Um representante do Serviço de Estrangeiros e Fronteiras nos Açores;\n\np) Um representante do Alto-Comissário para a Imigração e Minorias Étnicas.\n\n2 - As instituições, associações e comunidades representadas no Conselho Consultivo designarão membros efectivos e um número de suplentes não superior àqueles.\n\n3 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença."
+  },
+  "809904485": {
+   "fragment_id": "808260260",
+   "type": 11,
+   "heading": "Artigo 4.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reuniões\n\n1 - O Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente ou quando, pelo menos, um terço dos seus membros o solicite, devendo, neste último caso, indicar a matéria a ser incluída na ordem de trabalhos.\n\n2 - O Conselho Consultivo reúne, em regra, na ilha Terceira."
+  },
+  "809904486": {
+   "fragment_id": "808260261",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo\n\n1 - Compete aos serviços dependentes do Secretário Regional Adjunto da Presidência prestar o apoio técnico e administrativo ao funcionamento do Conselho Consultivo.\n\n2 - As despesas de transporte e alojamento dos representantes previstos na alínea h) do n.º 1 do artigo 3.º serão, quando necessário, suportadas pelo Gabinete do Secretário Regional Adjunto da Presidência."
+  },
+  "809904487": {
+   "fragment_id": "808260262",
+   "type": 11,
+   "heading": "Artigo 6.º — Regimento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regimento interno\n\nO Conselho Consultivo aprova o seu regimento interno, sob proposta do seu presidente, o qual será objecto de publicação na 2.ª série do Jornal Oficial."
+  },
+  "809904488": {
+   "fragment_id": "808260263",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação, reunindo o Conselho nos 30 dias posteriores, para efeitos do previsto no artigo anterior."
+  },
+  "809904502": {
+   "fragment_id": "808260257",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": "2005-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nÉ criado, no âmbito da Presidência do Governo Regional, o Conselho Consultivo Regional para os Assuntos da Imigração, com vista a assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais, das instituições de solidariedade social e outras organizações que prestem apoio social e cultural aos imigrantes na definição e coordenação das políticas de integração social e de combate à exclusão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904503": {
+   "fragment_id": "808260259",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2005-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Consultivo é presidido pelo director regional com competência em matéria de imigração e tem a seguinte composição:\n\na) O director regional da Educação;\n\nb) O director regional da Solidariedade e Segurança Social;\n\nc) O director regional da Juventude, Emprego e Formação Profissional;\n\nd) O director regional da Saúde;\n\ne) O inspector regional do Trabalho;\n\nf) O inspector regional das Actividades Económicas;\n\ng) Um representante de cada uma das comunidades de imigrantes de língua portuguesa, eleitos cada um pelas associações de imigrantes da respectiva comunidade, bem como três representantes eleitos pelas associações de imigrantes de outras comunidades com presença na Região;\n\nh) Um representante de cada uma das confederações sindicais;\n\ni) Um representante das instituições particulares de solidariedade social que trabalham com imigrantes, designado pela União das Instituições Particulares de Solidariedade Social;\n\nj) Um representante das misericórdias que trabalham com imigrantes, designado pela União Regional das Misericórdias dos Açores;\n\nk) Um representante do Serviço Diocesano de Apoio à Pastoral da Mobilidade Humana da Igreja Católica;\n\nl) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\nm) Um representante da Câmara do Comércio e Indústria dos Açores, um da Associação dos Jovens Empresários dos Açores e um da Associação de Industriais de Construção Civil e Obras Públicas dos Açores;\n\nn) Um representante do Serviço de Estrangeiros e Fronteiras nos Açores;\n\no) Um representante do Alto Comissariado para a Imigração e Minorias Étnicas;\n\np) Representantes de outras organizações que prestem apoio social e cultural aos imigrantes.\n\n2 - As instituições, associações e comunidades representadas no Conselho Consultivo designarão membros efectivos e um número de suplentes não superior àqueles.\n\n3 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904504": {
+   "fragment_id": "808260260",
+   "type": 11,
+   "heading": "Artigo 4.º — Reuniões",
+   "in_force_from": "2005-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 4.º — Reuniões\n\nO Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente ou quando, pelo menos, um terço dos seus membros o solicite, devendo, neste último caso, indicar a matéria a ser incluída na ordem de trabalhos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904505": {
+   "fragment_id": "808260261",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo",
+   "in_force_from": "2005-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo\n\n1 - Compete aos serviços dependentes da Direcção Regional das Comunidades prestar o apoio técnico e administrativo ao funcionamento do Conselho Consultivo.\n\n2 - As despesas de transporte e alojamento dos representantes previstos na alínea g) do n.º 1 do artigo 3.º serão, quando necessário, suportadas pela Direcção Regional das Comunidades.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904489": {
+   "fragment_id": "808260264",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 18 de Setembro de 2002.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 24 de Outubro de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "809904506": {
+   "fragment_id": "808260259",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2008-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Consultivo é presidido pela directora regional das Comunidades e tem a seguinte composição:\n\na) O director regional da Educação;\n\nb) O director regional da Solidariedade e Segurança Social;\n\nc) O director regional da Juventude;\n\nd) O director regional do Trabalho e da Qualificação Profissional;\n\ne) O director regional da Saúde;\n\nf) O inspector regional do Trabalho;\n\ng) O inspector regional das Actividades Económicas;\n\nh) Um representante de cada associação de imigrantes com presença e actividade na Região;\n\ni) Um representante de cada uma das confederações sindicais;\n\nj) Um representante das instituições particulares de solidariedade social que trabalham com imigrantes, designado pela União das Instituições Particulares de Solidariedade Social;\n\nk) Um representante das misericórdias que trabalham com imigrantes, designado pela União Regional das Misericórdias dos Açores;\n\nl) Um representante do Serviço Diocesano de Apoio à Pastoral da Mobilidade Humana da Igreja Católica;\n\nm) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\nn) Um representante da Câmara do Comércio e Indústria dos Açores;\n\no) Um representante da Associação de Industriais de Construção Civil e Obras Públicas dos Açores;\n\np) Um representante do Serviço de Estrangeiros e Fronteiras nos Açores;\n\nq) Um representante do Alto-Comissário para a Imigração e Diálogo Intercultural.\n\nr) Representantes de outras organizações em cujos estatutos esteja previsto o apoio social e ou cultural aos imigrantes.\n\n2 - As instituições, associações e comunidades representadas no Conselho Consultivo designarão membros efectivos e um número de suplentes não superior àqueles.\n\n3 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904507": {
+   "fragment_id": "808260261",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo",
+   "in_force_from": "2008-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo\n\nCompete aos serviços dependentes da Direcção Regional das Comunidades prestar o apoio técnico e administrativo ao funcionamento do Conselho Consultivo.\n\n2 - (Eliminado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904516": {
+   "fragment_id": "808260257",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": "2009-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nÉ criado, no âmbito da Presidência do Governo Regional, Secretário Regional da Presidência, Direcção Regional das Comunidades, o Conselho Consultivo Regional para os Assuntos da Imigração, com vista a assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais, das instituições de solidariedade social e outras organizações que prestem apoio social e cultural aos imigrantes na definição e coordenação das políticas de integração social e de combate à exclusão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904517": {
+   "fragment_id": "808260259",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2009-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Consultivo é presidido pela directora regional das Comunidades e tem a seguinte composição:\n\na) O director regional da Educação e Formação;\n\nb) O director regional da Solidariedade e Segurança Social;\n\nc) O director regional da Juventude;\n\nd) O director regional do Trabalho, Qualificação Profissional e Defesa do Consumidor;\n\ne) O director regional da Saúde;\n\nf) O inspector regional do Trabalho;\n\ng) O inspector regional das Actividades Económicas;\n\nh) Um representante de cada associação de imigrantes com presença e actividade na Região;\n\ni) Um representante de cada uma das confederações sindicais;\n\nj) Um representante das instituições particulares de solidariedade social que trabalham com imigrantes, designado pela União das Instituições Particulares de Solidariedade Social;\n\nk) Um representante das misericórdias que trabalham com imigrantes, designado pela União Regional das Misericórdias dos Açores;\n\nl) Um representante do Serviço Diocesano de Apoio à Pastoral da Mobilidade Humana da Igreja Católica;\n\nm) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\nn) Um representante da Câmara do Comércio e Indústria dos Açores;\n\no) Um representante da Associação de Industriais de Construção Civil e Obras Públicas dos Açores;\n\np) Um representante do Serviço de Estrangeiros e Fronteiras nos Açores;\n\nq) Um representante do Alto-Comissário para a Imigração e Diálogo Intercultural.\n\nr) O director regional da Igualdade de Oportunidades;\n\ns) O director regional da Prevenção e Combate às Dependências;\n\nt) O assessor da Presidência do Governo Regional para os Assuntos Sociais;\n\nu) Um representante de cada organização não prevista nas alíneas anteriores, em cujos estatutos conste o apoio social e cultural aos imigrantes, com actividade permanente reconhecida na Região.\n\n2 - As instituições, associações e comunidades representadas no Conselho Consultivo designarão membros efectivos e um número de suplentes não superior àqueles.\n\n3 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904518": {
+   "fragment_id": "808260262",
+   "type": 11,
+   "heading": "Artigo 6.º — Regimento interno",
+   "in_force_from": "2009-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29"
+   ],
+   "markdown": "###### Artigo 6.º — Regimento interno\n\nO Conselho Consultivo pode alterar o seu regimento interno, sob proposta do seu presidente, o qual será objecto de publicação no Jornal Oficial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29"
+  },
+  "809904531": {
+   "fragment_id": "808260257",
+   "type": 11,
+   "heading": "Artigo 1.º — Objetivos",
+   "in_force_from": "2014-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objetivos\n\nÉ criado, no âmbito do departamento governamental com competência em matéria de imigração, o Conselho Consultivo Regional para os Assuntos da Imigração, com o objetivo de assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais, das instituições de solidariedade social e de outras organizações que prestem apoio social e cultural aos imigrantes na definição e coordenação das políticas de integração social e de combate à exclusão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904532": {
+   "fragment_id": "808260258",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "2014-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\nAo Conselho Consultivo Regional para os Assuntos da Imigração, adiante designado por Conselho Consultivo, compete:\n\na) Assegurar a audição e representação das entidades públicas e privadas que, no âmbito da Região, prosseguem atribuições relativas à imigração;\n\nb) Pronunciar-se sobre os projetos de diploma relativos aos direitos dos imigrantes que lhe sejam submetidos pelo Governo Regional;\n\nc) Colaborar na execução das políticas de integração social dos imigrantes que visem, em particular, a eliminação das discriminações e a promoção da igualdade de oportunidades;\n\nd) Participar na definição de medidas e ações que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução, tendo em vista a melhor coordenação de ações entre todos os parceiros e entidades intervenientes;\n\ne) Pronunciar-se sobre o plano de investimento e atividades do departamento do Governo Regional com competência em matéria de imigração;\n\nf) Participar na defesa dos direitos dos imigrantes, com respeito pela sua identidade e cultura, formulando propostas com vista à sua promoção e assegurar, assim, o debate e coordenação em matéria de imigração entre o Governo Regional e a sociedade civil;\n\ng) Exercer outras competências que lhe sejam atribuídas por lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14"
+  },
+  "809904533": {
+   "fragment_id": "808260259",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2014-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Consultivo é presidido pelo membro do Governo Regional com competência em matéria de imigração, que será substituído, nas suas ausências e impedimentos, pelo diretor regional com competência na mesma matéria.\n\n2 - O Conselho Consultivo tem a seguinte composição:\n\na) O diretor regional com competência em matéria de imigração;\n\nb) O diretor regional com competência em matéria de educação;\n\nc) O diretor regional com competência em matéria de solidariedade social;\n\nd) O diretor regional com competência em matéria de emprego e qualificação profissional;\n\ne) Um representante de cada associação de imigrantes com presença e actividade na Região;\n\nf) Um representante das instituições particulares de solidariedade social que trabalham com imigrantes, designado pela União das Instituições Particulares de Solidariedade Social;\n\ng) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\nh) Um representante do Serviço de Estrangeiros e Fronteiras nos Açores;\n\ni) Um representante do Alto-Comissário para a Imigração e Diálogo Intercultural.\n\nj) (revogado);\n\nk) (revogado);\n\nl) (revogado);\n\nm) (revogado);\n\nn) (revogado);\n\no) (revogado);\n\np) (revogado);\n\nq) (revogado);\n\nr) (revogado);\n\ns) (revogado);\n\nt) (revogado);\n\nu) (revogado).\n\n3 - Sempre que se verificar algum impedimento, os membros do Conselho Consultivo podem fazer-se representar, devendo comunicar previamente tal facto ao respetivo presidente.\n\n4 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à perceção de senhas de presença.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904534": {
+   "fragment_id": "808260260",
+   "type": 11,
+   "heading": "Artigo 4.º — Reuniões",
+   "in_force_from": "2014-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 4.º — Reuniões\n\n1 - O Conselho Consultivo reúne ordinariamente a cada seis meses e extraordinariamente quando convocado pelo seu presidente.\n\n2 - O Conselho Consultivo pode reunir ainda, extraordinariamente quando pelo menos um terço dos seus membros assim o solicite, devendo, neste caso, ser indicada a matéria e pontos a incluir na ordem de trabalhos.\n\n3 - Podem participar nas reuniões do Conselho Consultivo, por solicitação do seu presidente, representantes e técnicos de departamentos e serviços do Governo Regional ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam considerados relevantes para a atividade do Conselho Consultivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "809904535": {
+   "fragment_id": "808260261",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo",
+   "in_force_from": "2014-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo\n\nCompete aos serviços da direção regional com competência em matéria de imigração prestar o apoio técnico e administrativo necessário ao funcionamento do Conselho Consultivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  },
+  "835545434": {
+   "fragment_id": "808260259",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2023-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 36/2023/A - Diário da República n.º 244/2023, Série I de 2023-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-2023-808125342), em vigor a partir de 2023-12-21",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Consultivo é presidido pelo membro do Governo Regional com competência em matéria de imigração, que será substituído, nas suas ausências e impedimentos, pelo diretor regional com competência na mesma matéria.\n\n2 - O Conselho Consultivo tem a seguinte composição:\n\na) O diretor regional com competência em matéria de imigração;\n\nb) O diretor regional com competência em matéria de educação;\n\nc) O diretor regional com competência em matéria de solidariedade social;\n\nd) O diretor regional com competência em matéria de emprego e qualificação profissional;\n\ne) O diretor regional com competência em matéria de saúde;\n\nf) O diretor regional com competência em matéria de igualdade e inclusão social;\n\ng) Um representante da Câmara de Comércio e Indústria dos Açores;\n\nh) Um representante de cada associação de imigrantes com presença e actividade na Região;\n\ni) Um representante das instituições particulares de solidariedade social que trabalham com imigrantes, designado pela União Regional das Instituições Particulares de Solidariedade Social dos Açores (URIPSSA);\n\nj) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\nk) Um representante de cada um dos órgãos de polícia criminal com competência em matéria de estrangeiros e fronteiras, nomeadamente a Guarda Nacional Republicana (GNR), a Polícia de Segurança Pública (PSP) e a Polícia Judiciária (PJ);\n\nl) Um representante da Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.).\n\n3 - Sempre que se verificar algum impedimento, os membros do Conselho Consultivo podem fazer-se representar, devendo comunicar previamente tal facto ao respetivo presidente.\n\n4 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à perceção de senhas de presença.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 36/2023/A - Diário da República n.º 244/2023, Série I de 2023-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-2023-808125342), em vigor a partir de 2023-12-21\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2014/A - Diário da República n.º 31/2014, Série I de 2014-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575), em vigor a partir de 2014-02-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2009/A - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2009-492759), em vigor a partir de 2009-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 11/2008/A - Diário da República n.º 105/2008, Série I de 2008-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2008-448959), em vigor a partir de 2008-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 19/2005/A - Diário da República n.º 157/2005, Série I-B de 2005-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362), em vigor a partir de 2005-08-18"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:884790039:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1170689575",
+ "dre_path": "/dr/detalhe/aviso/18025-2024-884790039",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2024-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1170691675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1170691675": {
+   "fragment_id": "1170689675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Procedimento concursal comum de recrutamento para ocupação de um posto de trabalho na categoria de técnico superior na modalidade de contrato de trabalho em funções públicas por tempo indeterminado\n\n1 - Para os devidos efeitos e nos termos previstos no artigo 33.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua atual redação, torna-se público que, por despacho do signatário, de 29 de fevereiro de 2024, encontra-se aberto pelo prazo de 10 dias úteis, contados a partir do dia da publicação do presente aviso na Bolsa de Emprego Público, procedimento concursal comum para constituição de relação jurídica de emprego público, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado e constituição de reserva de recrutamento, para a categoria de técnico superior, da mesma carreira, conforme consta no mapa de pessoal, com a seguinte referência:\n\nPCC 05/2024 - um posto de trabalho na categoria de técnico superior, da mesma carreira, para a Divisão de Cultura, Património Cultural e Turismo (DCPCT).\n\n2 - Caracterização do posto de trabalho em conformidade com o estabelecido no mapa do pessoal do Município, em função da atribuição, competência ou atividade a cumprir ou a executar, da carreira e categoria, e da posição remuneratória de referência: funções consultivas, de estudo, planeamento, programação, avaliação e aplicação de métodos e processos de natureza técnica e ou científica, que fundamentam e preparam a decisão, elaborando, autonomamente ou em grupo, pareceres e projetos, com diversos graus de complexidade e exercidas com responsabilidade e autonomia técnica.\n\n2.1 - A descrição de funções não prejudica a atribuição ao/à trabalhador/a de funções, não expressamente mencionadas, que lhe sejam afins ou funcionalmente ligadas, para as quais o/a trabalhador/a detenha a qualificação profissional adequada e que não impliquem desvalorização profissional.\n\n3 - Área de formação académica ou profissional exigida: licenciatura em Animação Cultural.\n\n3.1 - Não é permitida a substituição da habilitação académica exigida por formação ou experiência profissional.\n\n4 - Em cumprimento do disposto no n.º 4 do artigo 11.º da Portaria n.º 233/2022, de 9 de setembro, na sua atual redação, o presente aviso será publicitado integralmente na Bolsa de Emprego Público (www.bep.gov.pt) e na plataforma de recrutamento da Câmara Municipal de Torres Vedras (https://recrutamento.cm-tvedras.pt/), por extrato."
+  }
+ }
+}

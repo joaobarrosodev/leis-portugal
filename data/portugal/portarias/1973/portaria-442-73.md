@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:421005:por
+title: Portaria n.º 442/73
+short_title: null
+summary: Altera a redacção do n.º 3 e a alínea a) do n.º 4 da Portaria n.º 143/70, de 12 de Março
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Marinha, do Ultramar e das Corporações e Previdência Social
+proposing_entity: null
+official_number: 442/73
+official_date: null
+publication_date: '1973-06-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 148/1973, Série I de 1973-06-26
+  number: '148'
+  series: I
+  supplement: null
+  pages: 1092 - 1092
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/06/14800/10921092.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421005'
+  dre_path: /dr/detalhe/portaria/442-1973-421005
+  internal: pt:dre:421005:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/442-1973-421005
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/442-1973-421005
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-06-26T00:00:00Z'
+integrity:
+  source_sha256: 34fee4a4d3718cfa4cda94ca3b6e6f5a740b784a9f943f1e08f3f162a3043ffa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-442-421005.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 442/73
+
+de 26 de Junho
+
+Considerando a conveniência de alterar a [Portaria n.º 143/70](https://diariodarepublica.pt/dr/detalhe/portaria/143-1970-228822), de 12 de Março:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Marinha e do Ultramar e pelo Secretário de Estado do Trabalho e Previdência, o seguinte:
+
+1. O n.º 3 da [Portaria n.º 143/70](https://diariodarepublica.pt/dr/detalhe/portaria/143-1970-228822), de 12 de Março, toma a seguinte redacção:
+
+3. A C. N. E. P. P. M. C., que é presidida por um oficial general da Armada da escolha do Ministro da Marinha, compreende:
+
+a) Conselho Directivo;
+
+b) 1.ª Secção;
+
+c) 2.ª Secção;
+
+d) 3.ª Secção;
+
+e) Secretaria.
+
+2. A alínea a) do n.º 4 da mesma portaria toma a seguinte redacção:
+
+4. ...
+
+a) Presidente da Comissão;
+
+...
+
+Ministérios da Marinha, do Ultramar e das Corporações e Previdência Social, 7 de Junho de 1973. - O Ministro da Marinha, Manuel Pereira Crespo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

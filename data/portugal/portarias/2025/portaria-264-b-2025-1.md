@@ -1,0 +1,249 @@
+---
+schema_version: '1.0'
+id: pt:dre:924488402:por
+title: Portaria n.º 264-B/2025/1
+short_title: null
+summary: Procede à alteração do Regulamento do «Totosorteio», aprovado pela Portaria n.º 227/2016, de 25 de agosto.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 264-B/2025/1
+official_date: null
+publication_date: '2025-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10
+  number: '131'
+  series: I
+  supplement: null
+  pages: 2 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/07/13101/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/264-b/2025/07/10/p/dre/pt/html
+  oj: null
+  dre: '924488402'
+  dre_path: /dr/detalhe/portaria/264-b-2025-924488402
+  internal: pt:dre:924488402:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402
+  metadata_url: https://data.dre.pt/eli/port/264-b/2025/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-07-10T00:00:00Z'
+integrity:
+  source_sha256: f3bb312b67fc8fa8e0b851802a67a08bcd63e8975cbcaa86e08e9484fb2e7ebe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-264-B-924488402.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Jogos de Fortuna e Azar
+- Concurso
+- Regulamentação de Atos Legislativos
+- Euromilhões
+- Apostas Mútuas Desportivas
+- Santa Casa da Misericórdia
+- Prémio
+- Totosorteio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43/2016/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43/2016/08/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/227/2016/08/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/227/2016/08/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/232/2017/07/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/232/2017/07/27/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 264-B/2025/1
+
+de 10 de julho
+
+Decorrente da evolução das vendas do «Totosorteio» verificada nos últimos anos, e tendo em vista garantir a sustentabilidade financeira do jogo no médio e longo prazo, é necessário introduzir uma alteração ao mesmo, que se traduz na substituição dos sorteios semanais por sorteios mensais, mantendo-se o valor unitário do prémio em 1 milhão de euros, sem prejuízo de, em função da evolução das vendas e da robustez do fundo para pagamento de prémios, poderem vir a ser organizados sorteios especiais com prémios adicionais, sendo a devida publicitação feita pelo Departamento de Jogos previamente à data de aceitação de apostas.
+
+Assim:
+
+Ao abrigo do n.º 2 do artigo 2.º do Regime Jurídico da Organização e Exploração do «Totosorteio» aprovado pelo [Decreto-Lei n.º 43/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), de 16 de agosto, e publicado em anexo ao mesmo, bem como do artigo 2.º e da alínea i) do n.º 3 do artigo 27.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do [Decreto-Lei n.º 235/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2008-440779), de 3 de dezembro, na sua redação atual, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria altera o Regulamento do «Totosorteio», aprovado pela [Portaria n.º 227/2016](https://diariodarepublica.pt/dr/detalhe/portaria/227-2016-75195059), de 25 de agosto, e publicado em anexo à mesma, dela fazendo parte integrante, alterado pela [Portaria n.º 232/2017](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), de 27 de julho.
+
+###### Artigo 2.º — Alteração ao Regulamento do Totosorteio
+
+Os artigos 2.º, 6.º, 8.º e 11.º do Regulamento do «Totosorteio» aprovado em anexo à [Portaria n.º 227/2016](https://diariodarepublica.pt/dr/detalhe/portaria/227-2016-75195059), de 25 de agosto, alterada pela [Portaria n.º 232/2017](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), de 27 de julho, passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - [...]
+
+2 - O «Totosorteio» tem um sorteio mensal, designado normal, realizado nos termos do artigo 11.º, que ocorre em dia, hora e local fixados pelo departamento de jogos, com a devida publicitação.
+
+3 - O «Totosorteio» também pode ter sorteios designados especiais, nos quais são atribuídos prémios adicionais, a anunciar publicamente, pelo departamento de jogos, previamente à data do início da aceitação das apostas para os respetivos sorteios.
+
+4 - Em cada sorteio participam todas as apostas do «Totosorteio» registadas em simultâneo com as do jogo principal entre o dia imediatamente seguinte àquele em que se realiza o sorteio mensal anterior e o dia em que se realiza o sorteio mensal seguinte.
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - A data de cada sorteio é a do dia em que o mesmo se realiza, tendo lugar na última sexta-feira de cada mês.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+###### Artigo 6.º — [...]
+
+1 - Da receita de cada sorteio do «Totosorteio», constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50 %, conforme previsto nos n.<sup>os</sup>1 e 2 do artigo 5.º do [Decreto-Lei n.º 43/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), de 16 de agosto.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+###### Artigo 8.º — [...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+2 - [...]
+
+3 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - [...]
+
+11 - [...]
+
+12 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal do departamento de jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, o cartão de jogador com o qual foi efetuada a aposta é o único documento válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos sorteios.
+
+13 - [...]
+
+a) [...]
+
+b) A cópia de segurança dos suportes referidos na alínea anterior se encontre em poder do júri dos concursos e arquivada, sob sua custódia, antes do início do respetivo sorteio do «Totosorteio».
+
+14 - [...]
+
+15 - [...]
+
+16 - [...]
+
+17 - [...]
+
+18 - [...]
+
+###### Artigo 11.º — [...]
+
+1 - Os sorteios do «Totosorteio» realizam-se uma vez por mês, normalmente na última sexta-feira de cada mês, através de aplicação informática, que extrai, de forma aleatória, um ou mais códigos, de acordo com o respetivo plano de prémios.
+
+2 - [...]
+
+3 - [...]
+
+4 - Em caso de interrupção do sorteio por motivo de avaria ou de força maior, o mesmo será retomado logo que possível, mantendo-se válido(s) o(s) código(s) que já havia(m) sido validamente extraído(s).»
+
+###### Artigo 3.º — Disposição transitória
+
+Para efeitos do disposto no n.º 4 do artigo 2.º, participam no sorteio do «Totosorteio» do dia 29 de agosto de 2025 todas as apostas registadas em simultâneo com as apostas do jogo principal Euromilhões entre o dia 26 de julho de 2025 e o dia 29 de agosto de 2025.
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados os n.<sup>os</sup>9 e 10 do artigo 2.º
+
+###### Artigo 5.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia 26 de julho de 2025 e aplica-se às apostas registadas para participarem nos sorteios que se realizem a partir do dia 29 de agosto de 2025.
+
+**A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 9 de julho de 2025.**

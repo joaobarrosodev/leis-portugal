@@ -1,0 +1,1665 @@
+---
+schema_version: '1.0'
+id: pt:dre:421437:por
+title: Decreto-Lei n.º 339-D/2001
+short_title: null
+summary: Altera o Decreto-Lei n.º 10/2001, de 23 de Janeiro, que estabelece as disposições aplicáveis à constituição e manutenção
+  das reservas de segurança em território nacional de produtos de petróleo, transpondo para o direito interno a Directiva
+  da Comissão n.º 98/93/CE, de 14 de Dezembro, e cria a Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos,
+  entidade pública empresarial, e aprova os respectivos estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 339-D/2001
+official_date: null
+publication_date: '2001-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/2001, 5º Suplemento, Série I-A de 2001-12-28
+  number: '299'
+  series: I
+  supplement: 5º Suplemento
+  pages: 8512-(14) a 8512-(27)
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/12/299a05/00140027.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-09-01'
+version_history:
+  file: decreto-lei-339-d-2001.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-30'
+    amending: pt:dre:211032:por
+    amending_title: Decreto-Lei n.º 71/2004
+    changes:
+    - Altera Artigo 5.º
+  - date: '2008-12-19'
+    amending: pt:dre:443897:por
+    amending_title: Decreto-Lei n.º 242/2008
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 32.º
+    - Altera Artigo 37.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+  - date: '2013-12-17'
+    amending: pt:dre:585223:por
+    amending_title: Declaração de Retificação n.º 9-A/2014; Decreto-Lei n.º 165/2013
+    changes:
+    - Retifica Artigo 19.º-B
+    - Retifica Artigo 21.º
+    - Retifica Artigo 26.º
+    - Adita Artigo 6.º-A
+    - Adita Artigo 10.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Artigo 15.º-C
+    - Adita Capítulo III
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Artigo 19.º-C
+    - Adita Artigo 20.º-A
+    - Adita Artigo 23.º-A
+    - Adita Artigo 24.º-A
+    - Adita Capítulo VII
+    - Adita Artigo 38.º
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Capítulo III
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Capítulo IV
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Capítulo V
+  - date: '2014-08-30'
+    amending: pt:dre:56384882:por
+    amending_title: Decreto-Lei n.º 130/2014
+    changes:
+    - Altera Artigo 15.º-C
+    - Altera Artigo 19.º-B
+  - date: '2018-09-01'
+    amending: pt:dre:116165764:por
+    amending_title: Decreto-Lei n.º 69/2018
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º-A
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 19.º-B
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 35.º
+    - Revoga Artigo 15.º-A
+    - Revoga Artigo 15.º-B
+    - Revoga Artigo 15.º-C
+    - Revoga Artigo 19.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/339-d/2001/p/cons/20260220/pt/html
+  oj: null
+  dre: '421437'
+  dre_path: /dr/detalhe/decreto-lei/339-d-2001-421437
+  internal: pt:dre:421437:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-d-2001-421437
+  metadata_url: https://data.dre.pt/eli/dec-lei/339-d/2001/p/cons/20260220/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-116237778
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-116237778
+  retrieved_at: '2026-10-22T12:21:18Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 51925a872e83c16af5bbf65a2f10471d532a231004a2c9da1e27b04f8ff1f96e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:21:18Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-339-d-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
+- Petróleo
+- Política Energética
+- Produto Petrolífero
+- Reservas de Combustível
+- Estatuto
+relationships:
+- type: amended_by
+  target: pt:dre:211032:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2004-211032
+  date: '2004-03-25'
+- type: amended_by
+  target: pt:dre:443897:por
+  label: Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 32.º;
+    Altera Artigo 37.º; Revoga Artigo 8.º; Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897
+  date: '2008-12-18'
+- type: amended_by
+  target: pt:dre:483938:por
+  label: Retifica Artigo 19.º-B; Retifica Artigo 21.º; Retifica Artigo 26.º; Adita Artigo 6.º-A; Adita Artigo 10.º-A; Adita
+    Artigo 15.º-A; Adita Artigo 15.º-B; Adita Artigo 15.º-C; Adita Capítulo III; Adita Artigo 19.º-A; Adita Artigo 19.º-B;
+    Adita Artigo 19.º-C; Adita Artigo 20.º-A; Adita Artigo 23.º-A; Adita Artigo 24.º-A; Adita Capítulo VII; Adita Artigo 38.º;
+    Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938
+  date: '2013-12-16'
+- type: amended_by
+  target: pt:dre:585223:por
+  label: Retifica Artigo 19.º-B; Retifica Artigo 21.º; Retifica Artigo 26.º; Adita Artigo 6.º-A; Adita Artigo 10.º-A; Adita
+    Artigo 15.º-A; Adita Artigo 15.º-B; Adita Artigo 15.º-C; Adita Capítulo III; Adita Artigo 19.º-A; Adita Artigo 19.º-B;
+    Adita Artigo 19.º-C; Adita Artigo 20.º-A; Adita Artigo 23.º-A; Adita Artigo 24.º-A; Adita Capítulo VII; Adita Artigo 38.º;
+    Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-a-2014-585223
+  date: '2014-02-14'
+- type: amended_by
+  target: pt:dre:56384882:por
+  label: Altera Artigo 15.º-C; Altera Artigo 19.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2014-56384882
+  date: '2014-08-29'
+- type: amended_by
+  target: pt:dre:116165764:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º-A; Altera Artigo 7.º; Altera Artigo 12.º;
+    Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º-A; Altera Artigo 19.º-B; Altera Artigo
+    20.º; Altera Artigo 21.º; Altera Artigo 35.º; Revoga Artigo 15.º-A; Revoga Artigo 15.º-B; Revoga Artigo 15.º-C; Revoga
+    Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764
+  date: '2018-08-27'
+- type: cites
+  target: celex:31998L0093
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/93/oj
+article_structure:
+  article_count: 82
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:21:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 339-D/2001
+
+Decreto-Lei n.º 339-D/2001
+
+de 28 de Dezembro
+
+O Decreto-Lei n.º 10/2001, de 23 de Janeiro, fixou as disposições aplicáveis à obrigação de constituir e manter reservas de segurança de produtos de petróleo em território nacional, operando a transposição da Directiva da Comissão n.º <a href="eurlex.asp?ano=1998&id=398L0093" title="Link para Directiva da Comunidade Europeia">98/93/CE</a>, de 14 de Dezembro.
+
+Embora a referida obrigação seja cometida directamente aos operadores que procedem à introdução de produtos petrolíferos no mercado nacional, aquele diploma estabelece, no seu artigo 9.º, que uma parte da obrigação seja realizada, em sua substituição, e mediante pagamento, por uma entidade a criar e a regulamentar em diploma próprio.
+
+Optou-se, assim, por uma solução mista para a manutenção das reservas obrigatórias - repartição entre uma entidade de carácter público e os operadores -, o que permite satisfazer, ao menos em parte, interesses distintos: por um lado, o Estado autonomiza a gestão de uma parte das reservas de segurança, aumentando em paralelo o seu grau de controlo sobre estas e, assim, o seu valor estratégico, por outro, as companhias passam a suportar directamente um volume menor de reservas obrigatórias, as quais representam um encargo adicional aos seus objectivos comerciais. Deste modo, as empresas podem reduzir o capital imobilizado ou em dívida, bem como os efeitos que podem ser induzidos sobre os resultados, por efeito da detenção de grandes volumes de produtos em armazém.
+
+Salienta-se que a criação de entidades públicas para a manutenção de reservas de produtos do petróleo com fins estratégicos (em sentido lato) assumindo parte, ou mesmo a totalidade, dessas reservas de segurança é seguida por diversos Estados da União Europeia (Espanha, França, Alemanha, Irlanda, Holanda, Dinamarca) e é também adoptada, nomeadamente, nos EUA e no Japão.
+
+Considerando o carácter instrumental privilegiado que as reservas detidas por essa entidade oferecem ao Governo para a gestão de uma situação de crise energética, a nível interno ou em contexto internacional - quer no âmbito comunitário, quer no âmbito da Agência Internacional de Energia -, optou-se, na denominação dessa entidade, por caracterizar o termo «reservas» com o qualificativo «estratégicas».
+
+A criação e a regulamentação da Entidade Gestora das Reservas Estratégicas de Produtos Petrolíferos que por este diploma é criada exige, contudo, o aperfeiçoamento prévio de algumas disposições do Decreto-Lei n.º 10/2001, de 23 de Janeiro, o que também é feito no articulado deste diploma.
+
+Assim, optou-se agora por retirar do elenco de produtos sujeitos à obrigação de reservas os da categoria E que era referida no artigo 1.º, considerando não existir para os mesmos obrigação análoga no espaço comunitário e serem de difícil enquadramento num mecanismo de controlo baseado no conceito de introdução no mercado que enforma todo o diploma.
+
+Relativamente às entidades sujeitas à obrigação estabelecida no artigo 2.º, clarifica-se o tratamento de situações em que a introdução no mercado é efectuada por uma terceira entidade, procedendo-se também ao reposicionamento neste artigo da matéria que constava do n.º 7 do artigo 3.º, em benefício da homogeneidade do articulado. Aproveitou-se ainda este artigo que efectua o enquadramento da obrigação para definir a unidade «dia» utilizada ao longo deste diploma para a quantificação das reservas.
+
+No artigo 3.º, para além da necessária harmonização com as alterações acima referidas, é conferido tratamento particular aos produtos da categoria D, procurando-se que a respectiva obrigação equilibre as práticas de países da União Europeia com a realidade nacional de muito significativo peso dos GPL na estrutura do consumo.
+
+Ao mesmo tempo, preenche-se um vazio normativo quanto à eventual fixação da obrigação de reservas em valor diferente dos mínimos definidos no n.º 1 do mesmo artigo. Em sintonia com as disposições da directiva transposta, passa também a reconhecer-se que o cumprimento da obrigação de reservas não pode ser exigido imediatamente após o termo do período considerado para o cálculo da respectiva obrigação, sendo estabelecido um prazo de dois meses, durante o qual se mantém em vigor a obrigação calculada com base no anterior período.
+
+Quanto às regras para a contagem das reservas, objecto do artigo 4.º, clarifica-se o procedimento de cálculo para a conversão do petróleo bruto na sua equivalência em produtos.
+
+Dada a relevância do atempado conhecimento dos dados relativos ao cumprimento das obrigações decorrentes deste diploma, acrescenta-se, no artigo 8.º, ao conjunto de informações a prestar à Direcção-Geral da Energia a das quantidades de produtos introduzidas no mercado, directamente ou por interposta entidade.
+
+Quanto ao âmbito da competência atribuída à nova entidade pública pelo estatuído no n.º 1 do artigo 9.º do citado diploma, optou-se agora por limitar a fracção de reservas a deter pela nova entidade pública em termos de mínimo, e não de máximo, como constava na anterior redacção do diploma.
+
+Esta perspectiva é mais conforme com o conceito subjacente a este tipo de entidades, conferindo-se ao Ministro da Economia a capacidade de fixar o valor dessa fracção, quando superior ao mínimo.
+
+O artigo 10.º é reformulado, visando conferir maior transparência às circunstâncias de força maior e às condições requeridas para o seu reconhecimento.
+
+Simultaneamente, aproveita-se para melhor identificar o normativo sancionatório, em sede de contra-ordenação, que é estabelecido no artigo 12.º do diploma.
+
+Sucede, ainda, que o Decreto-Lei n.º 10/2001, de 23 de Janeiro, foi objecto de apreciação parlamentar, tendo sido alterado o seu artigo 16.º pela Lei n.º 17/2001, de 3 de Julho. Torna-se, assim, oportuno proceder à sua republicação, actualizando a redacção do diploma com todas as alterações mencionadas, o que agora também é feito.
+
+Por apelo aos princípios da racionalidade e economia legislativa, o presente diploma, sequentemente à introdução destes necessários ajustamentos, procede à criação e regulamentação da Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, entidade pública que tem por objecto a constituição e manutenção de uma parte das reservas de segurança de produtos petrolíferos, como previsto no artigo 9.º do citado diploma, e aprova o respectivo estatuto.
+
+Da tipologia disponível para o preenchimento do conceito de entidade pública, optou-se pela figura da entidade pública empresarial (E. P. E.), precisamente por ser a que melhor se coaduna com os objectivos do diploma e, naturalmente, com o quadro jurídico inerente à sua designação.
+
+Aquela entidade pública, dotada de autonomia administrativa, financeira e patrimonial fica sujeita ao quadro legal constante do anexo I, que baliza as condições em que exerce a sua actividade e que lhe confere os meios adequados. Designadamente, a entidade é qualificada como depositário autorizado e é-lhe conferido um regime contabilístico adequado à sua natureza e ao seu relevante interesse no plano estratégico da economia. Importa, assim, na defesa de um interesse nacional, colocá-la ao abrigo da volatilidade dos preços do petróleo.
+
+A mesma preocupação de estabilidade levou a introduzir o princípio da constituição de um fundo tendente a reduzir a dependência relativa a capital alheio e a permitir também atenuar, ou mesmo eliminar, os efeitos de uma introdução de reservas no mercado abaixo do seu preço médio de aquisição, se essa eventualidade se impusesse numa situação de crise energética. A constituição desse fundo, contudo, deverá processar-se sem acréscimo excessivo dos encargos gerados pela constituição das reservas, pelo que será materializado num programa de execução dilatado no tempo.
+
+São igualmente definidos os deveres dos operadores petrolíferos perante a Entidade Gestora das Reservas Estratégicas, que se traduzem no dever de informação quanto às introduções no mercado e, em função destas, no pagamento das prestações devidas para suportar os custos da entidade de armazenagem. Correlativamente, são estabelecidos instrumentos sancionatórios para prevenir o incumprimento destas obrigações.
+
+No anexo II publica-se o estatuto da entidade pública, que é mantido sob próximo controlo da tutela, exercida pelos Ministérios da Economia e das Finanças. A nível dos órgãos sociais, é de realçar a presença no conselho consultivo de uma relevante representação de agentes económicos do sector petrolífero, factor que proporcionará uma permanente referenciação da gestão da Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E. P. E., relativamente às boas práticas da indústria no domínio da armazenagem, designadamente quanto à vertente ambiental. O capítulo da gestão das reservas recebe adequada pormenorização, em especial nos condicionamentos a satisfazer para a celebração de contratos de delegação de reservas, bem como no que se refere à manutenção da qualidade das existências que devem estar a coberto de adequadas apólices de seguro.
+
+A venda de reservas está devidamente acautelada, distinguindo-se a venda de reservas que sejam excedentárias em relação à obrigação e a venda de reservas em situação de crise, qualquer dos casos, contudo, sujeito a autorização da tutela.
+
+Na arquitectura desta entidade houve especial atenção à solidez de gestão, à consistência financeira, ao regime contabilístico e ao controlo tutelar. Fica também prevista a assunção pelo Estado de eventuais perdas derivadas da venda de produtos, bem como dos débitos remanescentes em caso de extinção. Esta arquitectura dará suficientes garantias para recurso ao crédito por parte desta entidade, que terá de depender fortemente de capital alheio, em especial na fase inicial da sua existência.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, bem como as associações representativas do sector.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º e 16.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro, na redacção que lhe foi dada pela Lei n.º 17/2001, de 3 de Julho, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - ...
+
+2 - Entende-se por reservas de segurança, adiante designadas por reservas, as quantidades de produtos de petróleo, fixados nos termos do presente diploma, que se encontrem armazenadas em território nacional com o fim de serem introduzidas no consumo, quando expressamente determinado pelo Governo, para fazer face a situações de perturbação no abastecimento.
+
+3 - Para efeitos do número anterior, ficam sujeitas a obrigação de reservas as seguintes categorias de produtos de petróleo:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+Artigo 2.º
+
+[...]
+
+1 - Com ressalva da situação prevista no número seguinte, as entidades que introduzam produtos petrolíferos no mercado nacional, incluindo as que comercializarem estes produtos nos aeroportos e aeródromos localizados em território nacional, estão sujeitas à obrigação de constituição e manutenção de reservas nos termos deste diploma.
+
+2 - Quando a introdução no mercado nacional for efectuada por uma entidade por conta de outra, a obrigação a que respeita o número anterior impende sobre essa segunda entidade, que será considerada, para efeitos deste diploma, como tendo efectuado essa introdução no mercado nacional.
+
+3 - (Antigo n.º 2.)
+
+4 - Não são contabilizadas, para efeitos da obrigação a que respeita o n.º 1, as quantidades de produtos introduzidas no mercado para consumo em bancas para a navegação marítima.
+
+5 - Para os efeitos e nos termos do presente diploma, as quantidades de reservas são expressas em dias da quantidade média diária, em massa, dos produtos sujeitos a reserva que as entidades sujeitas à obrigação tenham introduzido no mercado nacional no ano anterior ou, para o caso das entidades cuja actividade principal seja a produção de energia eléctrica, nos 12 meses precedentes.
+
+Artigo 3.º
+
+Quantidades das reservas
+
+1 - Com observância dos critérios de contagem estabelecidos no artigo 4.º, a quantidade global mínima de reservas a cuja manutenção são obrigadas cada uma das entidades referidas nos n.os 1 e 2 do artigo anterior, expressas nos termos do n.º 5 do mesmo artigo, são as seguintes:
+
+a) 90 dias, para os produtos das categorias A, B e C;
+
+b) 30 dias, para os produtos da categoria D.
+
+2 - A fixação de uma quantidade de reservas superior ao mínimo referido no número anterior, até aos limites de 100 e 40 dias, respectivamente, sendo requerida para satisfação de compromissos internacionais, é objecto de portaria do Ministro da Economia sob proposta fundamentada da Direcção-Geral da Energia, devendo o aumento da quantidade de reservas ser assumido pela entidade pública referida no artigo 9.º
+
+3 - As reservas podem ser constituídas por produtos petrolíferos e por petróleo bruto, produtos semiacabados e produtos de mistura, mas com obrigação de serem mantidas quantidades dos próprios produtos, ou do seu equivalente, em conformidade com os n.os 3 e 4 do artigo seguinte, que cumpram os seguintes mínimos:
+
+a) 90 dias para os produtos das categorias A, B e C;
+
+b) 10 e 20 dias, das quantidades introduzidas no mercado no ano anterior, decorrido o prazo de 18 e de 36 meses, respectivamente, a contar da data de entrada em vigor do presente diploma, para os produtos da categoria D.
+
+4 - As entidades que não tenham realizado qualquer introdução no mercado interno nacional dos produtos a que se refere o presente diploma, no ano precedente ao início da sua actividade, devem apresentar na Direcção-Geral da Energia uma estimativa das introduções no mercado nacional no ano em curso e constituir reservas com base nessa estimativa.
+
+5 - A estimativa a que se refere o número anterior será objecto de revisão trimestral pela Direcção-Geral da Energia, com base nas introduções no mercado nacional efectivamente efectuadas, podendo este organismo, em consequência da revisão, determinar a actualização do volume total de reservas a cuja manutenção a entidade está obrigada.
+
+6 - Quando o volume de reservas a cargo de uma entidade deva ser objecto de actualização por razão da mudança dos períodos para cálculo da obrigação mencionados no n.º 5 do artigo 2.º, esta nova obrigação só se tornará efectiva dois meses após o termo desses períodos de referência, mantendo-se até lá válida a obrigação calculada com base no período precedente.
+
+Artigo 4.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - Os programas de produção das refinarias previstos no n.º 3 deverão contemplar um rendimento em nafta petroquímica não inferior a 4%.
+
+8 - ...
+
+9 - ...
+
+Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Para os restantes produtos, entre 500 m3 e 100000 m3.
+
+3 - (Anterior n.º 4.)
+
+4 - As capacidades mínimas constantes do n.º 2 poderão, excepcionalmente, ser satisfeitas por interligação de dois reservatórios vizinhos quando especificamente autorizado pela Direcção-Geral da Energia mediante requerimento fundamentado.
+
+Artigo 7.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Nos casos em que os produtos de petróleo armazenados, ao abrigo dos contratos previstos no n.º 1, não sejam propriedade da entidade sobre quem recai a obrigação de constituição das reservas, deve esta comunicar a celebração dos referidos contratos à Direcção-Geral da Energia, no prazo máximo de cinco dias úteis, enviando, para o efeito, cópia dos mesmos.
+
+Artigo 8.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Quantidades introduzidas no mercado nacional, directamente por si ou por entreposta entidade, nos termos do artigo 2.º
+
+2 - ...
+
+3 - ...
+
+Artigo 9.º
+
+[...]
+
+1 - A competência para a constituição e manutenção, em substituição das entidades referidas nos n.os 1 e 2 do artigo 2.º, de reservas de produtos de petróleo correspondentes no mínimo a um terço das quantidades definidas no n.º 1 do artigo 3.º, com respeito pelo disposto no n.º 2 do mesmo artigo, será atribuída a uma entidade pública, em termos a regulamentar em diploma próprio, a aprovar no prazo de 180 dias após a entrada em vigor do presente decreto-lei.
+
+2 - ...
+
+3 - A substituição da obrigação de cada uma das entidades referidas nos n.os 1 e 2 do artigo 2.º de constituição de reservas próprias pelo pagamento previsto no número anterior não pode exceder o correspondente a uma fracção do total das obrigações de reservas próprias igual à fracção das reservas detida por essa entidade pública, salvo o previsto no artigo 10.º
+
+4 - O armazenamento dos produtos pela entidade a que se refere o n.º 1 far-se-á prioritariamente nos depósitos ou instalações logísticas existentes no território nacional, mediante contratação com as entidades que deles disponham e, supletivamente, em instalações adquiridas ou construídas pela entidade pública.
+
+5 - É competência do Ministro da Economia fixar por despacho a fracção das reservas a deter pela entidade pública a que este artigo respeita, quando superior ao mínimo mencionado no n.º 1, sob proposta fundamentada a apresentar através da Direcção-Geral da Energia.
+
+Artigo 10.º
+
+Suspensão ou alteração dos termos da obrigação de reservas
+
+1 - Pode ser autorizada por períodos determinados, por motivos de força maior que impossibilitem o cumprimento da obrigação de constituição e de manutenção de reservas, nas quantidades e nos termos previstos nos artigos precedentes:
+
+a) A suspensão parcial ou total da obrigação ou das condições de manutenção das reservas;
+
+b) A substituição total ou parcial da obrigação de manutenção de reservas próprias pelo pagamento, à entidade prevista no artigo anterior, do montante correspondente.
+
+2 - A autorização é concedida por portaria do Ministro da Economia que deverá reconhecer, fundamentadamente, as causas de força maior e fixar as condições e o prazo da suspensão ou da substituição.
+
+Artigo 12.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Em função da gravidade da infracção e da culpa do infractor, podem ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de Setembro.
+
+Artigo 16.º
+
+Entrada em vigor e disposição transitória
+
+1 - ...
+
+2 - As entidades que no ano de 2000 tenham introduzido no mercado apenas um único produto dos incluídos na alínea d) do n.º 3 do artigo 1.º são dispensadas do cumprimento de um terço do volume global previsto no n.º 1 do artigo 3.º até à data do início da actividade da entidade pública prevista no artigo 9.º»
+
+###### Artigo 2.º
+
+1 - É criada, nos termos do anexo I do presente diploma, do qual faz parte integrante, a entidade pública prevista no n.º 1 do artigo 9.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro, na sua actual redacção.
+
+2 - A entidade pública prevista no número anterior reveste a natureza de entidade pública empresarial e designa-se Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E. P. E.
+
+###### Artigo 3.º
+
+É aprovado, nos termos do anexo II do presente diploma, do qual faz parte integrante, o estatuto da Entidade criada no artigo anterior.
+
+###### Artigo 4.º
+
+É republicado, no anexo III, o Decreto-Lei n.º 10/2001, de 23 de Janeiro, incorporando as alterações agora introduzidas, bem como a que foi introduzida pela Lei n.º 17/2001, de 3 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - Henrique Nuno Pires Severiano Teixeira - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 21 de Dezembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 27 de Dezembro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — Enquadramento legal da Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E. P. E.
+
+###### Artigo 1.º — Natureza
+
+A Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E. P. E., abreviadamente designada por EGREP, E. P. E., é uma entidade pública empresarial, dotada de autonomia administrativa, financeira e patrimonial.
+
+###### Artigo 2.º — Regime
+
+1 - A EGREP, E. P. E., rege-se pelo disposto no presente diploma e, subsidiariamente, pelo regime jurídico das entidades públicas empresariais.
+
+2 - A EGREP, E. P. E., está sujeita aos poderes de superintendência e tutela dos Ministros das Finanças e da Economia, a exercer conjunta e individualmente, nos termos previstos no seu estatuto e no regime legal que lhe é aplicável.
+
+###### Artigo 3.º — Objecto
+
+1 - A EGREP, E. P. E., tem por objecto a constituição e manutenção das reservas estratégicas de produtos petrolíferos, correspondentes no mínimo a um terço das quantidades definidas no n.º 1 do artigo 3.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro, em substituição das entidades definidas nos n.os 1 e 2 do artigo 2.º do mesmo diploma.
+
+2 - A capacidade jurídica da EGREP, E. P. E., abrange todos os direitos e obrigações necessários à prossecução do seu objecto, sendo-lhe vedado exercer quaisquer actividades ou afectar recursos a finalidades fora das atribuições que lhe são cometidas pelo seu estatuto.
+
+###### Artigo 4.º — Reservas a cargo da EGREP, E. P. E.
+
+1 - A fracção das reservas de segurança totais a manter pela EGREP, E. P. E., quando superior ao mínimo previsto no artigo anterior, é definida por despacho do Ministro da Economia.
+
+2 - A reserva constituída pela EGREP, E. P. E., em substituição da obrigação que impende sobre as entidades mencionadas no n.º 1 do artigo anterior é proporcional, para cada categoria de produtos, às quantidades introduzidas no mercado por cada um deles, sem prejuízo do disposto no artigo 10.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro.
+
+3 - A EGREP, E. P. E., deterá a propriedade, no mínimo, de 25% das reservas a seu cargo.
+
+###### Artigo 5.º — Atribuições
+
+São atribuições da EGREP, E. P. E.:
+
+a) Constituir e manter ou contratar a manutenção à sua ordem das reservas a que se referem os artigos 3.º e 4.º deste anexo, em instalações próprias ou arrendadas, com respeito pelo regime legalmente estabelecido, devendo optar preferencialmente por instalações de armazenagem existentes e ter em conta a sua dispersão geográfica;
+
+b) Prosseguir estratégias de gestão técnica e financeira adequadas à optimização dos custos, com salvaguarda da eficiência operacional e das boas práticas ambientais;
+
+c) Constituir um fundo de provisão no montante mínimo de 25% do custo de aquisição das reservas que detiver, em prazo a estabelecer no seu planeamento estratégico, visando a eventualidade de, em situação de crise energética, se efectuarem vendas de produtos a preço inferior ao do seu custo médio;
+
+d) Colaborar na execução da política de gestão das reservas dos produtos petrolíferos definida pelo Governo;
+
+e) Assegurar um justo equilíbrio entre os fins públicos que lhe estão cometidos e os interesses empresariais dos agentes económicos com que se relaciona;
+
+f) Prestar serviços no âmbito das suas atribuições.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2004-211032), em vigor a partir de 2004-03-30
+
+###### Artigo 6.º — Regime aduaneiro
+
+A EGREP, E. P. E., é considerada um depositário autorizado, com dispensa das demais formalidades exigidas pela legislação aplicável, podendo nessa condição importar e armazenar produtos petrolíferos em regime de suspensão de imposto, em instalações próprias ou de terceiros devidamente licenciadas para o efeito, bem como efectuar todas as operações legalmente permitidas àqueles operadores.
+
+###### Artigo 7.º — Regime contabilístico
+
+1 - A EGREP, E. P. E., contabiliza as suas existências de produtos petrolíferos a custos de aquisição.
+
+2 - A EGREP, E. P. E., ficará, mediante parecer da Comissão de Normalização Contabilística Nacional relativo à sua estrutura de contabilidade, dispensada de fazer provisões na contabilização das suas existências, sem prejuízo do disposto na alínea c) do artigo 5.º
+
+3 - Os resultados do exercício serão levados a uma conta de reservas livres, que podem ser utilizadas na amortização de dívida ou na aquisição de produtos.
+
+###### Artigo 8.º — Registo comercial
+
+A EGREP, E. P. E., será registada na Conservatória do Registo Comercial de Lisboa, mediante a apresentação do presente diploma que instruirá o respectivo registo, sem dependência de outras formalidades e com isenção de taxas e emolumentos.
+
+###### Artigo 9.º — Prestações
+
+1 - A substituição de parte da constituição de reservas a que estão obrigadas as entidades definidas nos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro, por reservas a cargo da EGREP, E. P. E., obriga aquelas entidades ao pagamento à EGREP, E. P. E., das prestações previstas no mesmo diploma.
+
+2 - As prestações são referidas à unidade usada habitualmente nas transacções comerciais de cada produto e devem reflectir, nomeadamente, os custos do financiamento, os custos operacionais associados à manutenção dos produtos e às infra-estruturas de armazenagem, bem como a dotação para a constituição do fundo de provisão mencionado na alínea c) do artigo 5.º
+
+3 - O valor das prestações previstas no número anterior é fixado, anualmente, por despacho do Ministro da Economia.
+
+4 - Podem ser determinadas prestações extraordinárias caso a evolução das cotações dos produtos ou dos encargos financeiros o justifique.
+
+5 - Verificando-se que o excesso das receitas provenientes das prestações sobre as despesas ultrapassa de modo significativo o valor orçamentado, pode ser determinada, por despacho conjunto dos Ministros das Finanças e da Economia, a devolução total ou parcial desse excedente aos operadores, numa base proporcional ao montante das prestações pagas.
+
+###### Artigo 10.º — Incumprimento
+
+1 - Sem prejuízo da responsabilidade civil, a violação ao disposto no n.º 1 do artigo anterior constitui contra-ordenação punível com coima:
+
+a) De (euro) 4988 a (euro) 44891, para pessoas colectivas;
+
+b) No máximo de (euro) 3740, no caso de pessoa singular.
+
+2 - À instrução, aplicação e distribuição do produto das coimas previstas no número anterior aplica-se o disposto no artigo 13.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro.
+
+3 - Sem prejuízo do disposto nos números anteriores, o atraso no pagamento das prestações fica sujeito a juros de mora.
+
+4 - Verificando-se atraso superior a 45 dias no pagamento das prestações e mediante solicitação da EGREP, E. P. E., à Direcção-Geral da Energia, pode ser determinada, por despacho conjunto dos Ministros das Finanças e da Economia, a suspensão do despacho de produtos a introduzir no mercado pelo operador em incumprimento, até comunicação pela EGREP, E. P. E., de terem sido satisfeitos os respectivos débitos, bem como de ter sido prestada a caução que for exigida nos termos do número seguinte.
+
+5 - Sempre que as entidades sujeitas à obrigação de constituição de reservas retomem a sua actividade, interrompida anteriormente por penalização devida a incumprimento a elas imputável, pode a EGREP, E. P. E., exigir a prestação prévia de uma caução, de montante fixar pela Direcção-Geral da Energia.
+
+6 - A caução será devolvida se aquela entidade satisfizer regularmente as suas obrigações para com a EGREP, E. P. E, por um período de um ano, podendo ser perdida a favor da EGREP, E. P. E., no caso de reincidência no incumprimento por período superior a 45 dias, por despacho do director-geral da Energia sobre pedido da EGREP, E. P. E.
+
+###### Artigo 11.º — Dever de informação
+
+1 - As entidades obrigadas a constituir reservas devem fornecer mensalmente à EGREP, E. P. E., até ao dia 15 do mês seguinte a que respeitam, informação referente às quantidades que introduziram no mercado no mês anterior, directamente ou por interposta entidade.
+
+2 - A EGREP, E. P. E., deve comunicar à Direcção-Geral da Energia, até ao dia 20 de cada mês, os dados referidos no número anterior.
+
+3 - A EGREP, E. P. E., deve prestar ao Estado, a todo o momento, através dos organismos públicos competentes, toda a informação necessária para o acompanhamento do exercício das suas atribuições.
+
+4 - A EGREP, E. P. E., manterá a confidencialidade relativamente a toda a informação sensível recebida dos operadores, em cumprimento do disposto no n.º 1.
+
+###### Artigo 12.º — Extinção
+
+Em caso de extinção da EGREP, E. P. E., o Estado assume eventuais perdas derivadas da liquidação de activos, bem como as responsabilidades residuais.
+
+###### Artigo 13.º — Disposições finais
+
+1 - Os órgãos sociais da EGREP, E. P. E., devem ser eleitos na primeira assembleia geral, a realizar até 30 dias após a entrada em vigor deste diploma, entrando em funções no dia imediato.
+
+2 - A assembleia geral referida no número anterior será presidida por um representante designado conjuntamente pelos Ministros das Finanças e da Economia.
+
+3 - O primeiro plano de actividades e o orçamento relativos ao ano civil em curso serão elaborados e aprovados no prazo de 30 dias após a entrada em funções dos órgãos sociais.
+
+## Anexo II — ESTATUTO DA ENTIDADE GESTORA DE RESERVAS DE PRODUTOS PETROLÍFEROS, E. P. E.
+
+> Nota: [Artigo 17.º, Decreto-Lei n.º 58/2026 - Diário da República n.º 36/2026, Série I de 2026-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2026-1055043916) Revoga o presente Anexo que, no entanto, se continua a aplicar, até à conclusão do período de reestruturação da ENSE, E. P. E., redenominada EGREP, E. P. E., para efeitos de composição dos seus órgãos.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Denominação e natureza
+
+1 - A Entidade Nacional para o Setor Energético, E. P. E., abreviadamente designada por ENSE, E. P. E., é uma entidade pública empresarial, dotada de autonomia administrativa, financeira e patrimonial.
+
+2 - A ENSE, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas nos presentes estatutos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 2.º — Sede e delegações
+
+A EGREP, E. P. E., tem a sua sede em Lisboa, podendo dispor de delegações, núcleos ou outras formas de representação em qualquer local do território nacional.
+
+###### Artigo 3.º — Objecto
+
+1 - A ENSE, E. P. E., tem por objeto:
+
+a) A constituição, gestão e manutenção das reservas estratégicas de petróleo bruto e de produtos de petróleo;
+
+b) A fiscalização e prevenção do cumprimento da legislação reguladora do exercício de atividades económicas no setor da energia, designadamente nos setores dos combustíveis, do gás de petróleo liquefeito (GPL), da energia elétrica e do gás natural.
+
+2 - Sem prejuízo das competências atribuídas a outras entidades, compete à ENSE, E. P. E., na prossecução do seu objeto, nomeadamente, o seguinte:
+
+a) Constituir as reservas estratégicas nos termos previstos no artigo 11.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual;
+
+b) Celebrar contratos económicos internacionais no âmbito do aprovisionamento no mercado internacional de petróleo e de produtos de petróleo, nos termos do n.º 1 do artigo 16.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual;
+
+c) Gerir diretamente ou celebrar contratos com operadores económicos, mediante autorização do membro do Governo responsável pela área da energia, para gestão de reservas, nos termos previstos no n.º 1 do artigo 14.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual;
+
+d) Celebrar contratos para a manutenção, à sua ordem, de produtos de petróleo ou de petróleo bruto que sejam propriedade de terceiros, nos termos previstos no n.º 2 do artigo 14.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual;
+
+e) Proceder à venda de reservas excedentárias, nos termos do artigo 17.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual;
+
+f) Colaborar na execução da política de gestão das reservas dos produtos petrolíferos definida pelo Governo;
+
+g) Monitorizar as reservas dos produtos petrolíferos, solicitando aos operadores obrigados o cumprimento das obrigações de informação previstas na lei e mantendo um registo atualizado das reservas de segurança;
+
+h) Fiscalizar a atividade económica desenvolvida no setor energético;
+
+i) Fiscalizar os locais onde se proceda a qualquer atividade económica desenvolvida no setor energético, incluindo instalações e outros bens móveis e imóveis afetos à atividade económica desenvolvida no setor energético, aqui se incluindo as atividades de produção, transporte, distribuição e comercialização de eletricidade e as unidades de micro e pequena produção;
+
+j) Fiscalizar o cumprimento do regime jurídico das instalações elétricas de serviço particular alimentadas pelas redes do Sistema Elétrico de Serviço Público em média, alta, muito alta ou em baixa tensão, e das instalações com produção própria, de caráter temporário ou itinerante, de segurança ou de socorro, sem prejuízo das competências legalmente atribuídas a outras entidades;
+
+k) Fiscalizar as instalações e o cumprimento do regime dos gases combustíveis em edifícios, adiante designadas por instalações de gás, e dos aparelhos que aquelas abastecem, com exceção dos aparelhos alimentados diretamente por garrafas gás colocadas no local do consumo, sem prejuízo das competências legalmente atribuídas a outras entidades;
+
+l) Fiscalizar o mercado dos combustíveis, designadamente as práticas adotadas e preços, sem prejuízo das competências legalmente atribuídas a outras entidades;
+
+m) Fiscalizar a execução e o cumprimento das obrigações das concessionárias e das licenciadas no âmbito dos contratos e das licenças atribuídos no setor da energia;
+
+n) Fiscalizar o cumprimento dos limites de teor de enxofre nos combustíveis líquidos derivados do petróleo e, em geral, o cumprimento das especificações e da qualidade dos combustíveis;
+
+o) Fiscalizar o acesso de terceiros a instalações de armazenamento, transporte e distribuição de produtos de petróleo e de GPL canalizado;
+
+p) Fiscalizar e controlar a qualidade dos carburantes fornecidos para consumo e promoção da segurança técnica;
+
+q) Fiscalizar o cumprimento das normas de promoção da utilização de biocombustíveis, o cumprimento das obrigações dos produtores e dos incorporadores de biocombustíveis, bem como proceder à emissão e cancelamento de títulos de biocombustíveis, nos termos legais;
+
+r) Fiscalizar e instaurar os processos de contraordenação relativos ao não cumprimento da obrigatoriedade de existência e disponibilização do livro de reclamações nos estabelecimentos de fornecimento de bens ou prestação de serviços que exerçam atividades no setor da energia;
+
+s) Averiguar e avaliar as causas dos acidentes no setor da energia.
+
+3 - A capacidade jurídica da ENSE, E. P. E., abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objeto, sendo-lhe vedado exercer quaisquer atividades ou afetar recursos a finalidades fora das atribuições que lhe são cometidas.
+
+4 - A ENSE, E. P. E., exerce ainda competências da gestão e monitorização das atividades de armazenamento de petróleo bruto e seus derivados em todo o território nacional, por forma a garantir e assegurar as condições de aprovisionamento nacionais em petróleo bruto e produtos de petróleo, em função das necessidades do consumo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 4.º — Capital social
+
+O capital estatutário inicial da EGREP, E. P. E., é de (euro) 250000, detidos integralmente pelo Estado.
+
+###### Artigo 5.º — Função acionista
+
+1 - A ENMC, E.P.E., está sujeita à função acionista do membro do Governo responsável pela área das finanças em articulação com o membro do Governo responsável pela área da energia, a exercer nos termos do regime jurídico do setor público empresarial (RJSPE), aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, e dos números seguintes.
+
+2 - No âmbito da função acionista, e no respeito pelas orientações estratégicas e setoriais, tal como previstas no artigo 24.º do RJSPE, pelos objetivos financeiros e pelas restrições orçamentais em vigor em cada ano, compete exclusivamente ao membro do Governo responsável pela área da energia, designadamente:
+
+a) Definir e comunicar a política setorial a prosseguir, com base na qual a ENMC, E.P.E., desenvolve a sua atividade;
+
+b) Emitir as orientações específicas, recomendações e diretivas à ENMC, E.P.E.;
+
+c) Definir os objetivos a alcançar pela ENMC, E.P.E., no exercício da respetiva atividade operacional;
+
+d) Apresentar ao membro do Governo responsável pela área das finanças as propostas para a designação dos membros do conselho de administração da ENMC, E.P.E.;
+
+e) Designar os membros previstos nas alíneas a), d) e e) do n.º 1 do artigo 16.º;
+
+f) Determinar a mobilização de reservas, em caso de perturbação grave do abastecimento de produtos petrolíferos no País, nomeadamente caso se configure uma situação de crise energética, como definida no artigo 2.º do Decreto-Lei n.º 114/2001, de 7 de abril, alterado pelo Decreto-Lei n.º 224/2002, de 30 de outubro;
+
+g) Autorizar a celebração dos contratos de gestão das reservas em operadores económicos previstos no n.º 1 do artigo 14.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+h) Autorizar a abertura de delegações ou outras formas de representação em qualquer local do território nacional;
+
+i) Autorizar a aceitação de doações, legados ou heranças;
+
+j) Aprovar anualmente os montantes das prestações a pagar pelos operadores obrigados;
+
+k) Autorizar ou aprovar outros atos previstos na lei.
+
+3 - [Revogado].
+
+4 - No âmbito da função acionista a exercer conjuntamente sobre a ENMC, E.P.E., compete aos membros do Governo responsáveis pelas áreas das finanças e da energia:
+
+a) Aprovar as propostas de planos de atividades e orçamento e os planos de investimento para cada ano de atividade, observado o procedimento previsto nos n.os 6 a 9 do artigo 39.º do RJSPE;
+
+b) Aprovar os relatórios de atividades e contas anuais;
+
+c) Aprovar a fixação de prestações extraordinárias relativas ao ano em curso quando as condições do mercado internacional assim o justificar;
+
+d) [Revogada];
+
+e) Autorizar a venda de reservas excedentárias a preço inferior ao custo médio de aquisição, tal como previsto no n.º 3 do artigo 17.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+f) Aprovar os critérios de fixação dos valores dos seguros por que devem ficar cobertas as reservas detidas pela ENMC, E.P.E., quando diferentes do custo de reposição;
+
+g) Autorizar a aquisição e a alienação de bens imóveis, nos termos da lei;
+
+h) Autorizar a realização de operações de crédito de médio e longo prazo necessárias ao desenvolvimento da sua atividade, sem prejuízo do disposto na alínea b) do número seguinte;
+
+i) Autorizar ou determinar alterações ao capital estatutário, nos termos da lei;
+
+j) Autorizar ou aprovar outros actos previstos na lei.
+
+5 - No âmbito da função acionista sobre a ENMC, E.P.E., compete exclusivamente ao membro do Governo responsável pela área das finanças:
+
+a) Autorizar a prestação de garantias pela ENMC, E.P.E., em benefício de outra entidade;
+
+b) Autorizar a celebração de todo e qualquer ato ou negócio jurídico do qual resultem para a ENMC, E.P.E., responsabilidades financeiras efetivas ou contingentes que ultrapassem o orçamento anual, ou que não decorram do plano de investimentos aprovado;
+
+c) Propor a designação de um vogal do conselho de administração, que deve aprovar expressamente qualquer matéria cujo impacto financeiro na ENMC, E.P.E., seja superior a 1% do ativo líquido;
+
+d) Propor a designação dos restantes vogais do conselho de administração, observado o disposto na alínea d) do n.º 2;
+
+e) Designar os membros dos órgãos sociais a que se referem as alíneas b) e c) do n.º 1 do artigo 7.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 6.º — Cooperação
+
+1 - A EGREP, E. P. E., dispõe da cooperação das autoridades e serviços competentes em tudo o que for necessário para o exercício das suas atribuições, designadamente da Direcção-Geral da Energia e da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
+
+2 - A EGREP, E. P. E., proporciona a cooperação às mesmas entidades, nos mesmos termos.
+
+###### Artigo 6.º-A — Poderes de autoridade
+
+Nos termos dos presentes estatutos e do Decreto-Lei n.º 165/2013, de 16 de dezembro, a ENMC, E.P.E., detém, para efeitos da prossecução das suas atribuições, os poderes, as prerrogativas e as obrigações conferidas ao Estado no que respeita:
+
+a) Ao registo de atividades;
+
+b) À regulamentação e fiscalização dos serviços prestados no âmbito das suas atividades e à aplicação das correspondentes sanções, nos termos da lei;
+
+c) À liquidação e cobrança, voluntária ou coerciva, de taxas e rendimentos provenientes das suas atividades, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais;
+
+d) À responsabilidade civil extracontratual, nos domínios dos atos de gestão pública;
+
+e) À instrução e aplicação de sanções em processo contraordenacional.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+### Capítulo II — Dos órgãos, da sua competência e funcionamento
+
+###### Artigo 7.º — Órgãos estatutários
+
+1 - São órgãos da ENSE, E. P. E.:
+
+a) O conselho de administração;
+
+b) O conselho fiscal;
+
+c) O revisor oficial de contas ou sociedade de revisores oficiais de contas;
+
+d) (Revogada);
+
+e) (Revogada.)
+
+2 - (Revogado).
+
+3 - Os membros do conselho de administração são designados nos termos do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 8/2012, de 18 de janeiro.
+
+4 -. Os membros dos demais órgãos estatutários são designados nos termos da alínea e) do n.º 2 e da alínea e) do n.º 5 do artigo 5.º, sendo um dos membros do conselho fiscal designado sob proposta da Direção-Geral do Tesouro e Finanças.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 8.º — Assembleia geral
+
+1 - A assembleia geral é o órgão deliberativo da EGREP, E. P. E., funcionando de acordo com o preceituado para as sociedades anónimas, nomeadamente em matéria de convocação, quórum e competência deliberativa.
+
+2 - Cabe à assembleia geral deliberar sobre as remunerações dos membros dos corpos sociais, devendo, para o efeito, designar uma comissão de vencimentos.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 9.º — Mesa da assembleia geral
+
+A condução das reuniões da assembleia geral fica a cargo da respectiva mesa, composta por um presidente, um vice-presidente e um secretário.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 10.º — Conselho de administração
+
+1 - O conselho de administração é composto por um presidente e dois vogais.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 10.º-A — Delegação de poderes e distribuição de pelouros
+
+1 - O conselho de administração pode delegar em um ou mais dos seus membros as competências que lhe estão cometidas, fixando expressamente os limites dessas delegações e a existência ou não de faculdade de subdelegação.
+
+2 - O conselho de administração pode distribuir entre os seus membros, sob proposta do presidente, a gestão das várias unidades de funcionamento da ENMC, E.P.E.
+
+3 - A distribuição de pelouros prevista no número anterior envolve a delegação dos poderes correspondentes às competências inerentes às unidades em causa.
+
+4 - O disposto nos números anteriores não prejudica o dever que incumbe a todos os membros do conselho de administração de tomarem conhecimento e acompanharem a generalidades dos assuntos da ENMC, E.P.E., e de sobre os mesmos se pronunciarem.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 11.º — Competências do conselho de administração
+
+1 - Compete ao conselho de administração definir e executar a orientação geral e as políticas de gestão da ENMC, E.P.E., sem prejuízo das competências dos demais órgãos estatutários, nomeadamente:
+
+a) [Revogada];
+
+b) [Revogada];
+
+c) Elaborar e submeter a aprovação dos membros do Governo responsáveis pelas áreas das finanças e da energia, nos termos da lei, propostas de plano de atividades e orçamento para cada ano de atividade, reportado a cada triénio, em conformidade com as orientações estratégicas e setoriais definidas e em termos adequados aos recursos e fontes de financiamento disponíveis;
+
+d) [Revogada];
+
+e) Elaborar e submeter a aprovação dos membros do Governo responsáveis pelas áreas das finanças e da energia o relatório de atividades e as contas anuais;
+
+f) Elaborar e apresentar ao membro do Governo responsável pela área das finanças relatórios trimestrais fundamentados, demonstrativos do grau de execução dos objetivos fixados no plano de atividades e orçamento e que especificam o nível de execução orçamental da ENMC, E.P.E., bem como as operações financeiras contratadas;
+
+g) Elaborar e dar execução aos regulamentos internos destinados à execução dos presentes estatutos e necessários ao bom funcionamento dos serviços;
+
+h) Gerir os recursos humanos da ENMC, E.P.E., e exercer o poder disciplinar sobre os respetivos trabalhadores;
+
+i) Arrecadar as receitas e autorizar a realização de despesas;
+
+j) Gerir o património da EGREP, E. P. E.;
+
+k) Contratar com terceiros a prestação de serviços de apoio à ENMC, E.P.E., com vista ao exercício adequado das suas atribuições;
+
+l) Negociar a realização de operações de crédito de médio e longo prazo e a aquisição e alienação de produtos e bens imóveis e submeter as respetivas propostas a aprovação prévia dos membros do Governo responsáveis pelas áreas das finanças e da energia;
+
+m) Constituir mandatários e designar representantes da EGREP, E. P. E., junto de outras entidades;
+
+n) Representar a EGREP, E. P. E., em juízo ou fora dele, podendo transigir ou confessar em quaisquer litígios e comprometer-se em convenções arbitrais;
+
+o) Praticar os demais atos necessários à prossecução das atribuições da ENMC, E.P.E., que não sejam da competência de outros órgãos.
+
+2 - Compete ao conselho de administração, na prossecução das atribuições da ENMC, E.P.E., relativas à constituição, gestão e manutenção das reservas estratégicas de petróleo bruto e de produtos de petróleo, nomeadamente:
+
+a) Submeter à aprovação do membro do Governo responsável pela área da energia e aos membros do Governo responsáveis pelas áreas das finanças e da energia, respetivamente, os montantes das prestações anuais e das prestações extraordinárias a satisfazer pelos operadores obrigados;
+
+b) Propor, em sede de orçamento anual, o suplemento de reservas a deter pela ENMC, E.P.E.;
+
+c) Promover as ações necessárias a assegurar o nível de reservas adequado, caso a evolução das circunstâncias comprometa as premissas a que obedeceu a fixação do suplemento a que se refere a alínea anterior.
+
+3 - A EGREP, E. P. E., obriga-se:
+
+a) Por dois administradores;
+
+b) Por um administrador, quando haja delegação expressa do conselho de administração para a prática de determinado acto;
+
+c) Por mandatários, dentro dos limites das procurações outorgadas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 12.º — Reuniões do conselho de administração
+
+1 - O conselho de administração reúne, ordinariamente, com a periodicidade que deliberar e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou por solicitação de qualquer dos seus membros.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 13.º — Incompatibilidades e impedimentos
+
+O presidente e os vogais do conselho de administração, quando nomeados em dedicação exclusiva, não podem acumular outras funções, excepto no que se refere ao desempenho de funções docentes no ensino superior em tempo parcial.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 14.º — Fiscalização
+
+A fiscalização e controlo da legalidade da gestão financeira e patrimonial da ENMC, E.P.E., compete a um conselho fiscal, composto por três membros efetivos e por um suplente, sendo um deles o presidente, e a um revisor oficial de contas ou sociedade de revisores oficiais de contas, que não sejam membros daquele órgão, nomeados por despacho do membro do Governo responsável pela área das finanças.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 15.º — Competências dos órgãos de fiscalização
+
+1 - Os órgãos de fiscalização são responsáveis pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da empresa.
+
+2 - Compete ao conselho fiscal, sem prejuízo das demais competências que lhe sejam atribuídas por lei, nomeadamente as previstas no Código das Sociedades Comerciais:
+
+a) Fiscalizar a gestão e o cumprimento das normas reguladoras da actividade da empresa, tendo em vista, nomeadamente, a realização dos objectivos fixados nos orçamentos anuais;
+
+b) Emitir parecer sobre os documentos de prestação de contas da empresa, designadamente de resultados, da conta de exploração e dos restantes elementos a apresentar anualmente pelo conselho de administração, bem como sobre o relatório anual do referido conselho;
+
+c) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja submetido à sua apreciação pelo conselho de administração;
+
+d) Dar conhecimento aos órgãos competentes das irregularidades que apurar na gestão da empresa;
+
+e) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de administração nos casos em que a lei exigir a sua aprovação ou concordância.
+
+f) Dar parecer prévio à realização de operações de financiamento ou celebração de atos ou negócios jurídicos dos quais resultem obrigações para a ENMC, E.P.E., superiores a 5% do ativo líquido, salvo nos casos em que os mesmos tenham sido aprovados no plano de atividades e orçamento;
+
+g) Acompanhar e fiscalizar os processos de aquisição de petróleo e produtos de petróleo e contratos relacionados, bem como elaborar relatórios referentes a cada aquisição, os quais são enviados aos membros do Governo responsáveis pelas áreas das finanças e da energia.
+
+3 - Compete ao revisor oficial de contas proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:
+
+a) Verificar da regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
+
+b) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;
+
+c) Verificar a exactidão dos documentos de prestação de contas;
+
+d) Verificar se as políticas contabilísticas e os critérios valorimétricos adoptados pela empresa conduzem a uma correcta avaliação do património e dos resultados.
+
+e) Verificar o cumprimento da separação contabilística entre os resultados atribuíveis à atividade de constituição, gestão e manutenção de reservas estratégicas e os resultados atribuíveis a outras atividades.
+
+4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal e o revisor oficial de contas devem emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da energia.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 15.º-A — Conselho Nacional para os Combustíveis
+
+1 - O Conselho Nacional para os Combustíveis (CNC) é um órgão de aconselhamento do conselho de administração e reúne, ordinariamente, uma vez por semestre e, extraordinariamente, quando convocado pelo seu presidente, por sua iniciativa, a pedido do presidente do conselho de administração ou a solicitação de, pelo menos, um terço dos seus membros.
+
+2 - O CNC é composto por representantes dos intervenientes nos setores do petróleo e dos biocombustíveis, a designar nos termos da alínea e) do n.º 2 do artigo 5.º, designadamente de entre os produtores, os consumidores, as entidades tributárias, os revendedores e outros interessados.
+
+3 - Compete ao CNC formular as propostas, as sugestões e as recomendações junto do conselho de administração que entenda convenientes e, designadamente:
+
+a) Emitir parecer anual sobre o funcionamento do mercado dos combustíveis;
+
+b) Emitir parecer semestral sobre preços de referência dos combustíveis;
+
+c) Dinamizar e publicitar a plataforma relativa aos preços dos combustíveis praticados pelos comercializadores retalhistas.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 15.º-B — Unidade de reservas petrolíferas
+
+1 - A URP é uma unidade da ENMC, E.P.E., dotada de autonomia técnica e administrativa e com regime de separação contabilística, que prossegue em exclusivo as atribuições da ENMC, E.P.E., em matéria de aquisição, manutenção, gestão e mobilização de reservas de petróleo bruto e de produtos de petróleo, a título de reservas estratégicas, assegurando as funções de entidade central de armazenagem nacional.
+
+2 - A URP integra os seguintes órgãos:
+
+a) Direção executiva, composta pelos membros do conselho de administração da ENMC, E.P.E.;
+
+b) Conselho consultivo.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 15.º-C — Competências da direção executiva da Unidade de reservas petrolíferas
+
+Compete à direção executiva da URP exercer todas as competências cometidas à ENMC, E.P.E., na qualidade de entidade central de armazenagem nacional, pelo Decreto-Lei n.º 165/2013, de 16 de dezembro, nomeadamente:
+
+a) Constituir as reservas estratégicas nos termos previstos no artigo 11.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+b) Celebrar contratos económicos internacionais no âmbito do aprovisionamento no mercado internacional de petróleo e de produtos de petróleo, nos termos do n.º 1 do artigo 16.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+c) Definir e submeter ao conselho de administração, para efeitos de aprovação do membro do Governo responsável pela área da energia e dos membros do Governo responsáveis pelas áreas das finanças e da energia, respetivamente, os montantes das prestações anuais e extraordinárias a satisfazer pelos operadores obrigados como contrapartida dos encargos associados à constituição e manutenção de reservas pela ENMC, E.P.E., através da URP;
+
+d) Gerir diretamente ou celebrar contratos com operadores económicos, mediante autorização do membro do Governo responsável pela área da energia, para gestão de reservas, nos termos previstos no n.º 1 do artigo 14.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+e) Celebrar contratos para a manutenção, à sua ordem, de produtos de petróleo ou de petróleo bruto que sejam propriedade de terceiros, nos termos previstos no n.º 2 do artigo 14.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+f) Proceder à venda de reservas excedentárias, nos termos do artigo 17.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+g) Constituir o fundo de provisão, nos termos do disposto no n.º 4 do artigo 20.º;
+
+h) Elaborar um plano de intervenção, em colaboração com a DGEG, nos termos do artigo 22.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+i) Colaborar na execução da política de gestão das reservas dos produtos petrolíferos definida pelo Governo;
+
+j) Monitorizar as reservas, solicitando aos operadores obrigados o cumprimento das obrigações de informação previstas na lei e mantendo um registo atualizado das reservas de segurança.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 130/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2014-56384882), em vigor a partir de 2014-08-30
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 16.º — Conselho consultivo da unidade de reservas petrolíferas
+
+1 - O conselho consultivo da URP é um órgão de consulta e de apoio à gestão estratégica da URP, sendo composto por:
+
+a) Uma personalidade a designar pelo membro do Governo responsável pela área da energia, que preside;
+
+b) Um representante da Entidade Reguladora dos Serviços Energéticos;
+
+c) Um representante da Autoridade Tributária e Aduaneira;
+
+d) O conselho de administração;
+
+e) Três representantes dos operadores petrolíferos sujeitos à obrigação de constituir reservas;
+
+f) Um representante da refinação de petróleo, proposto pela indústria refinadora nacional;
+
+g) O conselho fiscal da ENSE, E. P. E., a título de observador.
+
+2 - (Revogado.)
+
+3 - A participação no conselho consultivo não é remunerada, a qualquer título.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 17.º — Competências do conselho consultivo da unidade de reservas petrolíferas
+
+1 - Compete ao conselho consultivo dar apoio e participar na definição das linhas gerais de atuação da URP e na formação das decisões do conselho de administração, designadamente:
+
+a) Emitir parecer sobre o plano estratégico da URP e sobre o seu plano de atividades e orçamento anuais;
+
+b) Emitir parecer sobre o relatório e contas anuais da URP;
+
+c) Dar parecer sobre as propostas de definição da proporção de reservas, para efeitos do disposto no artigo 13.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual;
+
+d) Pronunciar-se sobre a aquisição, oneração ou alienação de bens imóveis afetos à manutenção das reservas estratégicas;
+
+e) [Revogada];
+
+f) Emitir parecer sobre as prestações anuais e extraordinárias;
+
+g) Emitir parecer sobre a venda de reservas excedentárias, apuradas após cumprimento da obrigatoriedade de substituição parcial de reservas prevista no artigo 13.º do Decreto-Lei n.º 165/2013, de 16 de dezembro;
+
+h) [Revogada];
+
+i) Pronunciar-se sobre quaisquer assuntos que o conselho de administração entenda dever submeter ao seu parecer.
+
+2 - Os pareceres emitidos pelo conselho consultivo da URP são apensos à documentação correspondente a submeter a aprovação dos membros do Governo responsáveis pelas áreas das finanças e da energia.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 18.º — Reuniões do conselho consultivo da URP
+
+O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, quando convocado pelo seu presidente, por sua iniciativa ou a solicitação da comissão executiva ou de, pelo menos, três dos seus membros.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 19.º — Convocatórias
+
+1 - Para as reuniões dos órgãos da EGREP, E. P. E., as convocatórias apenas são válidas quando feitas a todos os seus membros.
+
+2 - Consideram-se validamente convocados os membros que:
+
+a) Tenham recebido ou assinado o aviso convocatório;
+
+b) Tenham assistido a reunião anterior em que na sua presença tenham sido fixados o local, o dia e a hora da reunião;
+
+c) Tenham sido avisados da reunião por qualquer forma previamente acordada;
+
+d) Compareçam e aceitem participar na reunião.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+### Capítulo III — Estrutura
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 19.º-A — Organização interna
+
+1 - A ENSE, E. P. E. é constituída pelas seguintes unidades:
+
+a) Unidade de administração geral (UAG);
+
+b) Unidade de controlo e prevenção (UCP);
+
+c) Unidade de reservas petrolíferas (URP);
+
+d) (Revogada.)
+
+2 - As competências e regras de funcionamento das unidades previstas no número anterior são estabelecidas em regulamento interno da ENSE, E. P. E.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 19.º-B — Unidade de reservas petrolíferas
+
+A URP é uma unidade da ENSE, E. P. E., dotada de autonomia técnica e administrativa e com regime de separação contabilística, que prossegue em exclusivo as atribuições da ENSE, E. P. E., em matéria de aquisição, manutenção, gestão e mobilização de reservas de petróleo bruto e de produtos de petróleo, a título de reservas estratégicas, assegurando as funções de entidade central de armazenagem nacional.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 130/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2014-56384882), em vigor a partir de 2014-08-30
+
+> Retificado pelo/a [Declaração de Retificação n.º 9-A/2014 - Diário da República n.º 32/2014, 1º Suplemento, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-a-2014-585223), em vigor a partir de 2013-12-17
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+### Capítulo IV — Da gestão patrimonial e financeira
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 19.º-C — Património
+
+O património da ENMC, E.P.E., é constituído pela universalidade de bens, direitos e obrigações que lhe foram afetos aquando da sua constituição e por aqueles bens que lhe sejam atribuídos por despacho do membro do Governo responsável pela área das finanças.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 20.º — Princípios de gestão
+
+1 - Na gestão patrimonial e financeira da ENSE, E. P. E., aplicam-se as regras legais, o disposto nestes Estatutos e os princípios da boa gestão empresarial.
+
+2 - A ENSE, E. P. E., prossegue estratégias de gestão técnica e financeira adequadas à otimização da sua exploração, com salvaguarda da eficiência operacional e das boas práticas ambientais.
+
+3 - A gestão da URP tem como único objetivo a mera recuperação dos custos em que incorre com a constituição, gestão e manutenção das reservas de produtos de petróleo a seu cargo e a autossustentação financeira.
+
+4 - A ENSE, E. P. E., deve constituir um fundo de provisão (fundo estatutário) no montante mínimo de 25 % do custo de aquisição das reservas que detiver, em prazo a estabelecer no seu planeamento estratégico, o qual é mobilizável apenas mediante instruções expressas dos membros do Governo responsáveis pelas áreas das finanças e da energia, no sentido de se efetuarem vendas de produtos a preço inferior ao do seu custo médio para fazer face a uma situação de crise energética ou de perturbação grave do abastecimento.
+
+5 - O fundo estatutário a que se refere o número anterior é constituído com dotações estabelecidas nos orçamentos anuais e com dotações extraordinárias.
+
+6 - A aquisição de petróleo e produtos de petróleo no mercado internacional pela ENSE, E. P. E., na prossecução dos interesses essenciais do Estado de constituição de reservas estratégicas, bem como os contratos previstos no n.º 2 do artigo 14.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, na sua redação atual, não estão sujeitos ao Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, regendo-se pelas regras e procedimentos em uso no referido mercado, com observância estrita dos seguintes princípios:
+
+a) Concorrência e não discriminação de potenciais fornecedores;
+
+b) Documentação e auditabilidade dos procedimentos;
+
+c) Adjudicação pelo menor custo ou pela proposta economicamente mais vantajosa;
+
+d) Salvaguarda do cumprimento dos contratos por parte dos cocontratantes.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 20.º-A — Práticas de bom governo
+
+1 - A ENMC, E.P.E., observa as exigências legais e as melhores práticas em matéria de divulgação de informação, transparência, prevenção da corrupção, ética e conduta, responsabilidade social e ambiental e desenvolvimento económico sustentável, política de recursos humanos e promoção da igualdade.
+
+2 - A ENMC, E.P.E., elabora anualmente um relatório de boas práticas de governo societário, do qual consta informação atualizada e completa sobre todas as matérias referidas no número anterior.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 21.º — Rendimentos
+
+1 - Constituem rendimentos da ENMC, E.P.E.:
+
+a) As prestações devidas pelos operadores obrigados;
+
+b) O produto da venda de bens ou serviços, sem prejuízo do disposto no número seguinte;
+
+c) Outros rendimentos provenientes da sua actividade;
+
+d) Os subsídios, donativos ou comparticipações atribuídos por quaisquer entidades públicas ou privadas, nacionais ou estrangeiras;
+
+e) O produto das taxas, coimas e outros valores de natureza pecuniária que, nos termos legais, regulamentares ou contratuais, lhe sejam consignados;
+
+f) (Revogada.)
+
+2 - Não constitui rendimento da ENSE, E. P. E., o produto da venda de reservas de segurança que sejam aplicadas na aquisição de novas reservas, na amortização de dívida nos cinco exercícios seguintes ao da sua venda ou na dotação extraordinária do fundo a que se refere o n.º 4 do artigo 20.º, devendo a diferença entre aquele produto e o custo das reservas vendidas ser contabilizado numa conta específica de 'Outras Reservas'.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 9-A/2014 - Diário da República n.º 32/2014, 1º Suplemento, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-a-2014-585223), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 22.º — Gastos
+
+Constituem gastos da ENMC, E.P.E.:
+
+a) Os encargos com o respetivo funcionamento, na prossecução das suas atribuições;
+
+b) Os encargos com serviços contratados para a prossecução das suas atribuições;
+
+c) Os custos associados à aquisição, manutenção e conservação de bens e equipamentos necessários ao exercício da sua atividade;
+
+d) Os encargos financeiros decorrentes de financiamentos contratados;
+
+e) Os encargos com seguros.
+
+f) As dotações para o fundo estatutário a que se refere o n.º 4 do artigo 24.º, as quais são contabilizadas por contrapartida de uma conta específica de «Outras Reservas».
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 23.º — Gestão patrimonial e financeira
+
+1 - A gestão patrimonial e financeira, incluindo a organização da sua contabilidade, rege-se pelas normas aplicáveis às entidades públicas empresariais, sem prejuízo do disposto neste Estatuto e em disposições legais aplicáveis.
+
+2 - O plano de atividades e orçamento anual da ENMC, E.P.E., é submetido aos membros do Governo responsáveis pelas áreas das finanças e da energia até 30 de novembro do ano anterior àquele a que respeita.
+
+3 - O plano de atividades e orçamento anual da ENMC, E.P.E., deve ser elaborado tendo em vista o objetivo de equilíbrio entre os rendimentos e os gastos da sua atividade corrente.
+
+4 - O relatório e contas, elaborados com referência a 31 de dezembro de cada ano, acompanhados dos pareceres do conselho fiscal, são submetidos aos membros do Governo responsáveis pelas áreas das finanças e da energia até 31 de março do ano seguinte àquele a que respeitam.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 23.º-A — Controlo orçamental de resultados da unidade de reservas petrolíferas
+
+Caso o resultado da atividade principal da URP, antes do apuramento definitivo dos resultados do exercício, divirja do resultado orçamentado, deve ser efetuado o correspondente acerto à faturação, numa base proporcional ao montante das prestações pagas pelos operadores obrigados, no mesmo exercício, produto a produto.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 24.º — Aplicação de resultados
+
+1 - Os resultados positivos são levados a uma conta de reservas livres, destinada prioritariamente à amortização da dívida ou à aquisição de produtos petrolíferos.
+
+2 - No caso de resultados negativos, deve ser utilizado o saldo da conta de reservas livres e, na sua insuficiência, deve o saldo negativo restante transitar para o exercício seguinte.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 24.º-A — Regime contabilístico
+
+A ENMC, E.P.E., rege-se pelo princípio da transparência financeira e deve manter separados contabilisticamente os resultados atribuíveis à atividade de constituição, gestão e manutenção de reservas estratégicas, a exercer através da URP, dos resultados atribuíveis a outras atividades.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+### Capítulo V — Prestações dos operadores obrigados
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 25.º — Fixação das prestações
+
+1 - Sem prejuízo do disposto no n.º 4, as prestações unitárias a pagar à ENMC, E.P.E., através da URP, pelos operadores obrigados são previstas nos orçamentos anuais, devendo o respetivo cálculo por produto ou por categoria de produtos ser demonstrado e justificado em anexo ao orçamento.
+
+2 - As prestações são referidas à unidade usada habitualmente nas transações comerciais de cada produto e devem permitir recuperar os gastos referidos no artigo 22.º, tendo em conta as previsões de mercado para o ano seguinte, bem como a constituição do fundo de provisão.
+
+3 - As prestações definidas para cada produto ou categoria de produtos são objeto de aprovação por despacho do membro do Governo responsável pela área da energia, sob proposta da ENMC, E.P.E., devendo entrar em vigor no 1.º dia do ano civil a que digam respeito.
+
+4 - Caso se justifique, designadamente pela evolução dos mercados ou outros fatores exógenos, podem ser fixadas prestações extraordinárias durante o ano civil.
+
+5 - No caso referido no número anterior, o conselho de administração submete a proposta de prestações extraordinárias à aprovação dos membros do Governo responsáveis pelas áreas das finanças e energia, acompanhada do parecer emitido pelo conselho consultivo da URP.
+
+6 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 26.º — Liquidação das prestações
+
+1 - Para efeitos de pagamento das prestações devidas à ENMC, E.P.E., os operadores obrigados devem fornecer mensalmente, até ao dia 15 de cada mês, informação referente às quantidades introduzidas no mercado nacional no mês anterior, com referência ao último dia desse mês.
+
+2 - Com base na informação referida no número anterior, a ENMC, E.P.E., através da URP, emite a correspondente fatura até ao dia 20 desse mês, a qual deve ser liquidada pelos destinatários até ao último dia útil do mesmo mês, nos termos e forma a definir pela ENMC, E.P.E., através da URP.
+
+3 - Em caso de atraso no pagamento das prestações pelos operadores obrigados, são devidos juros anuais correspondentes à taxa legalmente estabelecida ou, na sua falta, à EURIBOR a um mês acrescida de três pontos percentuais, durante o período em mora.
+
+4 - Verificando-se incumprimento do pagamento superior a 45 dias, a ENMC, E.P.E., pode propor a despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia a suspensão da introdução de produtos de petróleo no mercado nacional pelo operador em incumprimento, até comunicação pela ENMC, E.P.E., de terem sido satisfeitos os respetivos débitos, bem como de ter sido prestada a caução que for exigida nos termos do número seguinte.
+
+5 - Quando os operadores obrigados retomem a sua atividade, interrompida anteriormente por penalização devida a incumprimento a elas imputável, pode a ENMC, E.P.E., exigir a prestação prévia de uma caução.
+
+6 - A caução é devolvida se aquela entidade satisfizer regularmente as suas obrigações para com a ENMC, E.P.E., por um período de um ano, sendo perdida a favor da ENMC, E.P.E., no caso de reincidência no incumprimento por prazo superior a 45 dias.
+
+> Retificado pelo/a [Declaração de Retificação n.º 9-A/2014 - Diário da República n.º 32/2014, 1º Suplemento, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/9-a-2014-585223), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 27.º — Formas de constituição das reservas
+
+1 - As reservas são constituídas por produtos do petróleo ou por petróleo bruto, produtos semiacabados e produtos de mistura, com respeito pelas normas que regulam a forma de contabilização e de constituição das reservas.
+
+2 - Os produtos acabados constituem, pelo menos, um terço da respectiva obrigação de reserva a cargo da EGREP, E. P. E.
+
+3 - A EGREP, E. P. E., deterá, no mínimo, a propriedade de 25% das reservas a seu cargo.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 28.º — Delegação de reservas
+
+1 - Para cumprimento da sua obrigação de reservas, a EGREP, E. P. E., pode celebrar contratos para a manutenção à sua ordem de produtos ou de petróleo bruto que sejam propriedade de terceiros, com respeito pelo limite em vigor de reservas próprias.
+
+2 - Os termos dos contratos tipo previstos no número anterior, após parecer do conselho consultivo, são submetidos a aprovação tutelar, contendo sempre, no mínimo, a garantia de:
+
+a) Direito de opção da EGREP, E. P. E., na compra desses produtos e mecanismo de fixação do respectivo preço;
+
+b) Direito à verificação pela EGREP, E. P. E., bem como à fiscalização pelas autoridades competentes da quantidade e qualidade dos produtos;
+
+c) Manutenção das reservas em reservatórios que obedeçam ao preceituado no artigo 6.º do Decreto-Lei n.º 10/2001, de 23 de Janeiro;
+
+d) Garantia e mecanismos de manutenção da qualidade dos produtos nos termos do artigo 29.º
+
+3 - A entidade a contratar deverá ser reconhecidamente qualificada e idónea, em termos técnicos e em termos comerciais, e manterá permanentemente a totalidade dos produtos objecto do contrato à disposição da EGREP, E. P. E., não lhes podendo dar qualquer outra afectação.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 29.º — Manutenção de qualidade
+
+1 - As reservas detidas pela EGREP, E. P. E., ou delegadas, serão mantidas em condições que assegurem a respectiva qualidade e conformidade com as especificações legalmente em vigor.
+
+2 - Para efeitos do número anterior, a EGREP, E. P. E., pode efectuar a rotação de existências, mediante venda ou, de preferência, mediante acordos de permuta celebrados com os operadores petrolíferos, nos termos do artigo seguinte.
+
+3 - A qualidade dos produtos deve ser verificada periodicamente, podendo recorrer-se a auditorias independentes.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 30.º — Rotação de existências
+
+1 - A rotação de existências de produtos obedece, obrigatoriamente, ao princípio de levantamento e reposição no mesmo local ou ponto de levantamento no prazo de 30 dias, devendo a quantidade de produto correspondente ser objecto de contrato temporário de delegação, se necessário, para satisfação da obrigação mínima de reserva.
+
+2 - O produto a repor deverá ser da mesma categoria e obedecer às especificações de acordo com a legislação em vigor.
+
+3 - A rotação de existências de produto deverá ser planeada de modo a garantir que o produto a levantar possa ser comercializado directamente.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 31.º — Venda de reservas excedentárias
+
+1 - Quando se verifique a existência de reservas excedentárias relativamente à quantidade que deve manter em reserva, a EGREP, E. P. E., pode proceder à sua venda, após parecer do conselho consultivo, devendo ser seguidos os mecanismos de mercado.
+
+2 - O preço de venda de um produto não deve ser inferior ao preço médio de aquisição das existências desse produto, salvo o disposto no número seguinte.
+
+3 - A venda de reservas excedentárias a preço inferior ao do custo médio de aquisição requer autorização prévia da tutela e deve ser fundamentada em termos económicos.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 32.º — Mobilização de reservas em situação de perturbação grave ou de crise energética
+
+1 - Em contexto de resposta a situações de perturbação grave do abastecimento ou de crise energética, a mobilização de reservas a cargo da ENMC, E.P.E., através da URP, só pode ser efetuada após determinação nesse sentido do membro do Governo responsável pela área da energia.
+
+2 - O mecanismo de mobilização assume a forma de venda ou de empréstimo de reservas, e deve conferir direitos de opção proporcionais e equitativos aos operadores obrigados e ter em atenção os preços de mercado.
+
+3 - Se o rendimento apurado for insuficiente para cobrir o custo médio de aquisição do produto, deduzido do montante resultante da utilização proporcional do fundo estatutário previsto no n.º 4 do artigo 20.º, o Estado assume a perda resultante, através de uma dotação extraordinária daquele fundo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+###### Artigo 33.º — Seguros
+
+As reservas detidas pela ENMC, E.P.E., são obrigatoriamente protegidas por seguros, por valores a aprovar nos termos previstos na alínea f) do n.º 4 do artigo 5.º
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+### Capítulo VI — Pessoal
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 34.º — Quadro
+
+O quadro de pessoal da ENMC, E.P.E., é aprovado pelo conselho de administração.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 35.º — Estatuto do pessoal
+
+1 - O pessoal da EGREP, E. P. E., rege-se pelas normas aplicáveis ao contrato individual de trabalho.
+
+2 - Os trabalhadores que se encontrem no exercício de funções de fiscalização ou auditoria devem ser portadores de cartão de identificação especial, de modelo aprovado pelo membro do Governo responsável pela área da energia.
+
+3 - Os trabalhadores na situação prevista no número anterior gozam dos seguintes direitos e prerrogativas:
+
+a) Acesso e livre-trânsito nas instalações e equipamentos afetos a atividades económicas no setor da energia para efeitos de fiscalização e prevenção do cumprimento da legislação reguladora;
+
+b) Examinar livros, documentos e arquivos relativos às matérias inspecionadas;
+
+c) Proceder à selagem provisória de quaisquer instalações ou equipamentos, quando isso se mostre necessário, por razões de segurança, face às infrações detetadas;
+
+d) Solicitar o apoio das autoridades administrativas e policiais para cumprimento das respetivas funções, nomeadamente para a selagem definitiva de instalações e levantamento de autos de notícia por infração de normas aplicáveis.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 36.º — Regime de previdência
+
+Os trabalhadores da EGREP, E. P. E., são inscritos na respectiva instituição de segurança social.
+
+###### Artigo 37.º — Mobilidade
+
+1 - Os trabalhadores com relação de emprego público podem exercer funções na EGREP, E. P. E., por acordo de cedência de interesse público, nos termos previstos na Lei n.º 12-A/2008, de 27 de Fevereiro.
+
+2 - Os trabalhadores da EGREP, E. P. E., podem exercer funções em órgãos ou serviços abrangidos pelo âmbito de aplicação da Lei n.º 12-A/2008, de 27 de Fevereiro, com utilização da modalidade adequada de constituição da relação jurídica de emprego público, por acordo de cedência de interesse público, nos termos daquela lei.
+
+3 - Os trabalhadores da EGREP, E. P. E., podem ainda exercer, em comissão de serviço, funções de carácter específico em outras empresas públicas, mantendo todos os direitos inerentes ao seu estatuto profissional de origem, incluindo os benefícios de reforma e sobrevivência, considerando-se todo o período da comissão como serviço prestado na empresa de origem.
+
+4 - Os trabalhadores referidos nos n.os 2 e 3 podem optar pela retribuição base de origem.
+
+5 - A retribuição e demais encargos dos trabalhadores em comissão de serviço são da responsabilidade da entidade onde se encontrem a exercer funções.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 242/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2008-443897), em vigor a partir de 2008-12-19
+
+### Capítulo VII — Extinção
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+###### Artigo 38.º — Extinção da ENMC - Entidade Nacional para o Mercado de Combustíveis, E.P.E.
+
+Em caso de extinção da ENMC, E.P.E., o Estado assume eventuais perdas derivadas da liquidação de ativos, bem como responsabilidades residuais.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 165/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2013-483938), em vigor a partir de 2013-12-17
+
+## Anexo III — Republicação do Decreto-Lei n.º 10/2001, de 23 de Fevereiro, com as alterações introduzidas pela Declaração de Rectificação n.º 9-E/2001, pela Lei n.º 17/2001, de 3 de Julho, e pelo presente diploma
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estabelece as disposições relativas à constituição e à manutenção de reservas de segurança de produtos de petróleo, transpondo para o direito interno a Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0093" title="Link para Directiva da Comunidade Europeia">98/93/CE</a>, de 14 de Dezembro.
+
+2 - Entende-se por reservas de segurança, adiante designadas por reservas, as quantidades de produtos de petróleo, fixados nos termos do presente diploma, que se encontrem armazenadas em território nacional com o fim de serem introduzidas no consumo, quando expressamente determinado pelo Governo, para fazer face a situações de perturbação no abastecimento.
+
+3 - Para efeitos do número anterior, ficam sujeitas a obrigação de reservas as seguintes categorias de produtos de petróleo:
+
+a) Categoria A, que integra a gasolina para automóveis e a gasolina de aviação, correspondentes aos códigos NC de 27.10.00.26 a 27.10.00.36;
+
+b) Categoria B, que integra os gasóleos e os petróleos de iluminação e de motores e carborreactor tipo petróleo, correspondentes aos códigos NC de 27.10.00.51 a 27.10.00.68;
+
+c) Categoria C, que integra os fuelóleos, correspondentes aos códigos NC de 27.10.00.71 a 27.10.00.78;
+
+d) Categoria D, que integra os gases de petróleo liquefeitos, correspondentes aos códigos NC 27.11.12 e 27.11.13.
+
+###### Artigo 2.º — Obrigação de constituição e manutenção de reservas
+
+1 - Com ressalva da situação prevista no número seguinte, as entidades que introduzam produtos petrolíferos no mercado nacional, incluindo as que comercializarem estes produtos nos aeroportos e aeródromos localizados em território nacional, estão sujeitas à obrigação de constituição e manutenção de reservas nos termos deste diploma.
+
+2 - Quando a introdução no mercado nacional for efectuada por uma entidade por conta de outra, a obrigação a que respeita o número anterior impende sobre essa segunda entidade, que será considerada, para efeitos deste diploma, como tendo efectuado essa introdução no mercado nacional.
+
+3 - Para efeitos do presente diploma, entende-se que a introdução no mercado nacional, ou a comercialização em aeroportos ou aeródromos localizados em território nacional, ocorre:
+
+a) Para os produtos sujeitos a imposto especial de consumo, no momento em que esse imposto for devido;
+
+b) Para os restantes produtos, no momento em que ocorrer a sua saída dos entrepostos fiscais e aduaneiros.
+
+4 - Não são contabilizadas, para efeitos da obrigação a que respeita o n.º 1, as quantidades de produtos introduzidas no mercado para consumo em bancas para a navegação marítima.
+
+5 - Para os efeitos e nos termos do presente diploma, as quantidades de reservas são expressas em dias da quantidade média diária, em massa, dos produtos sujeitos a reserva que as entidades sujeitas à obrigação tenham introduzido no mercado nacional no ano anterior ou, para o caso das entidades cuja actividade principal seja a produção de energia eléctrica, nos 12 meses precedentes.
+
+###### Artigo 3.º — Quantidades das reservas
+
+1 - Com observância dos critérios de contagem estabelecidos no artigo 4.º, a quantidade global mínima de reservas a cuja manutenção são obrigadas cada uma das entidades referidas nos n.os 1 e 2 do artigo anterior, expressas nos termos do n.º 5 do mesmo artigo, são as seguintes:
+
+a) 90 dias, para os produtos das categorias A, B e C;
+
+b) 30 dias, para os produtos da categoria D.
+
+2 - A fixação de uma quantidade de reservas superior ao mínimo referido no número anterior, até aos limites de 100 e 40 dias, respectivamente, sendo requerida para satisfação de compromissos internacionais, é objecto de portaria do Ministro da Economia, sob proposta fundamentada da Direcção-Geral da Energia, devendo o aumento da quantidade de reservas ser assumido pela entidade pública referida no artigo 9.º
+
+3 - As reservas podem ser constituídas por produtos petrolíferos e por petróleo bruto, produtos semiacabados e produtos de mistura, mas com obrigação de serem mantidas quantidades dos próprios produtos ou do seu equivalente, em conformidade com os n.os 3 e 4 do artigo seguinte, que cumpram os seguintes mínimos:
+
+a) 90 dias para os produtos das categorias A, B e C;
+
+b) 10 e 20 dias das quantidades introduzidas no mercado no ano anterior, decorrido o prazo de 18 e de 36 meses, respectivamente, a contar da data de entrada em vigor do presente diploma, para os produtos da categoria D.
+
+4 - As entidades que não tenham realizado qualquer introdução no mercado interno nacional dos produtos a que se refere o presente diploma, no ano precedente ao início da sua actividade, devem apresentar na Direcção-Geral da Energia uma estimativa das introduções no mercado nacional no ano em curso e constituir reservas com base nessa estimativa.
+
+5 - A estimativa a que se refere o número anterior será objecto de revisão trimestral pela Direcção-Geral da Energia, com base nas introduções no mercado nacional efectivamente efectuadas, podendo este organismo, em consequência da revisão, determinar a actualização do volume total de reservas a cuja manutenção a entidade está obrigada.
+
+6 - Quando o volume de reservas a cargo de uma entidade deva ser objecto de actualização por razão da mudança dos períodos para cálculo da obrigação mencionados no n.º 5 do artigo 2.º, esta nova obrigação só se tornará efectiva dois meses após o termo desses períodos de referência, mantendo-se até lá válida a obrigação calculada com base no período precedente.
+
+###### Artigo 4.º — Contagem das reservas
+
+1 - Para a constituição e manutenção das reservas só são considerados os produtos de petróleo sujeitos à obrigação, o petróleo bruto e os produtos semiacabados, desde que detidos em:
+
+a) Navios petroleiros que se encontrem num porto em território nacional, sob jurisdição da autoridade portuária;
+
+b) Instalações de armazenagem que respeitem as disposições do presente diploma e tenham sido aprovadas pela Direcção-Geral da Energia, independentemente do respectivo regime alfandegário;
+
+c) Lanchas ou navios costeiros em curso de transporte no interior de fronteiras nacionais, sobre os quais pode ser exercido um controlo pelas autoridades responsáveis, e que possam tornar-se disponíveis de imediato.
+
+2 - Para efeitos do disposto no presente diploma, são considerados equivalentes os produtos que integram cada uma das categorias definidas no artigo 1.º
+
+3 - Para efeitos do n.º 1 do presente artigo, os critérios de equivalência do petróleo bruto e dos produtos semiacabados para o cálculo das reservas são estabelecidos com base nos programas de produção das refinarias nacionais para o ano em curso, os quais devem ser entregues na Direcção-Geral da Energia até 31 de Dezembro do ano precedente.
+
+4 - Para efeitos do n.º 1, os produtos de mistura, quando destinados ao fabrico de produtos refinados, que façam parte das reservas de segurança, podem equivaler aos produtos de petróleo a que se destinam.
+
+5 - Não são considerados, para contagem das reservas, os volumes detidos nas seguintes situações:
+
+a) Quando se destinem a comercialização em bancas para a navegação marítima;
+
+b) Em reservatórios de instalações de retalho;
+
+c) Em reservatórios de consumidores que não estejam, eles próprios, nos termos do artigo 2.º, obrigados à constituição e à manutenção de reservas de segurança de produtos de petróleo;
+
+d) Em cisternas de transporte;
+
+e) Em oleodutos;
+
+f) Pelas Forças Armadas, directamente ou pelas entidades sujeitas à obrigação de constituição e manutenção de reservas, desde que essa detenção seja feita por conta das Forças Armadas.
+
+6 - Os produtos refinados devem constituir, no mínimo, um terço do volume das reservas a que estão obrigadas cada uma das entidades referidas no artigo 2.º
+
+7 - Os programas de produção das refinarias previstos no n.º 3 deverão contemplar um rendimento em nafta petroquímica não inferior a 4%.
+
+8 - Para efeitos do cumprimento do estabelecido no n.º 1 do artigo 3.º, só pode ser considerada como disponível para a constituição do volume global de reservas uma parcela das existências em produtos, petróleo bruto e produtos semiacabados.
+
+9 - Considera-se parcela disponível 90% do total das existências ou outro valor, até ao limite de 95%, tecnicamente sustentado pelas entidades referidas no artigo 2.º e aceite pela Agência Internacional de Energia, mediante proposta da Direcção-Geral da Energia.
+
+###### Artigo 5.º — Utilização e disponibilidade das reservas
+
+1 - A competência para autorizar ou para determinar o uso das reservas, em caso de perturbação grave do abastecimento petrolífero, pertence ao Ministro da Economia, tendo em consideração o interesse nacional e as obrigações assumidas em acordos internacionais.
+
+2 - As reservas devem estar permanentemente disponíveis para utilização e serem acessíveis para identificação, contabilização e controlo pelas autoridades competentes.
+
+3 - No caso de ocorrer uma situação de dificuldade de abastecimento, as entidades referidas no artigo 2.º devem cumprir obrigatoriamente as decisões relativas às reservas de segurança que forem, nos termos da legislação aplicável, tomadas pelo Ministro da Economia.
+
+###### Artigo 6.º — Instalações de armazenagem das reservas de segurança
+
+1 - As instalações de armazenagem referidas no n.º 1 do artigo 4.º devem ser constituídas por reservatórios aprovados, para o efeito, pela Direcção-Geral da Energia.
+
+2 - Os reservatórios previstos no número anterior devem possuir uma capacidade dentro dos seguintes limites:
+
+a) Para as gasolinas de aviação e os carborreactores (jet fuel), tipo petróleo, entre 200 m3 e 40000 m3;
+
+b) Para os gases de petróleo liquefeitos, entre 200 m3 e 80000 m3;
+
+c) Para o petróleo bruto, entre 20000 m3 e 120000 m3;
+
+d) Para os restantes produtos, entre 500 m3 e 100000 m3.
+
+3 - Os reservatórios que contêm as reservas devem, em tudo o mais, respeitar a regulamentação de segurança em vigor.
+
+4 - As capacidades mínimas constantes do n.º 2 poderão, excepcionalmente, ser satisfeitas por interligação de dois reservatórios vizinhos, quando especificamente autorizado pela Direcção-Geral da Energia, mediante requerimento fundamentado.
+
+###### Artigo 7.º — Constituição e manutenção de reservas de segurança por terceiros
+
+1 - As entidades obrigadas à constituição das reservas podem realizá-las directamente, com produtos próprios e em instalações de armazenagem próprias, ou contratar a sua armazenagem a terceiros, caso em que as disposições dos contratos respectivos devem permitir um grau de disponibilidade semelhante ao que ocorreria no caso de as reservas estarem constituídas e mantidas em instalações de armazenagem próprias.
+
+2 - A contratação da constituição e manutenção de reservas, prevista no número anterior, não transmite para a entidade contratada a responsabilidade derivada da obrigação estabelecida no artigo 2.º, ficando a entidade contratada, em qualquer dos casos, obrigada a permitir as inspecções e fiscalizações previstas no presente diploma.
+
+3 - Nos casos em que os produtos de petróleo, armazenados ao abrigo dos contratos previstos no n.º 1, não sejam propriedade da entidade sobre quem recai a obrigação de constituição das reservas, deve esta comunicar a celebração dos referidos contratos à Direcção-Geral da Energia, no prazo máximo de cinco dias úteis, enviando, para o efeito, cópia dos mesmos.
+
+###### Artigo 8.º — Obrigação de informação
+
+1 - As entidades referidas no artigo 2.º devem enviar à Direcção-Geral da Energia, até ao dia 15 de cada mês, as seguintes informações referentes ao mês anterior:
+
+a) Quantidades detidas em reservas, produto a produto;
+
+b) Localização, produto a produto, dos reservatórios respectivos;
+
+c) Quantidades que se encontram em reservatórios próprios e quantidades que foram contratadas a terceiros, incluindo, neste último caso, a identificação destes e do contrato respectivo;
+
+d) Movimento dos produtos de petróleo, produto a produto;
+
+e) Quantidades introduzidas no mercado nacional, directamente por si ou por entreposta entidade, nos termos do artigo 2.º
+
+2 - As entidades referidas no artigo 2.º devem enviar, trimestralmente, à Direcção-Geral da Energia a desagregação de cada um dos movimentos referidos na alínea d) do número anterior, designadamente em função do distrito e da actividade económica (CAE, Rev. 2) de consumo, por forma a proporcionar à Direcção-Geral da Energia o conhecimento do mercado de petróleo necessário à aplicação do presente diploma.
+
+3 - As entidades referidas no artigo 2.º, bem como as entidades que armazenem reservas por conta de outrem, nos termos do artigo anterior, devem prestar informação sobre os respectivos custos, nos termos a definir por despacho do Ministro da Economia.
+
+###### Artigo 9.º — Entidade para constituição de reservas
+
+1 - A competência para a constituição e manutenção, em substituição das entidades referidas nos n.os 1 e 2 do artigo 2.º, de reservas de produtos de petróleo correspondentes no mínimo a um terço das quantidades definidas no n.º 1 do artigo 3.º, com respeito pelo disposto no n.º 2 do mesmo artigo, será atribuída a uma entidade pública, em termos a regulamentar em diploma próprio, a aprovar no prazo de 180 dias após a entrada em vigor do presente decreto-lei.
+
+2 - A obrigação das entidades a que se refere o artigo 2.º de manter as reservas previstas no artigo 3.º será obrigatoriamente cumprida, na parte relativa à quantidade definida nos termos do n.º 1, pela constituição e manutenção das reservas pela entidade pública prevista no número anterior, nas instalações de armazenagem que utilizar para o efeito, mediante o pagamento de um montante em numerário, nos termos que vierem a ser definidos no diploma previsto no número anterior.
+
+3 - A substituição da obrigação de cada uma das entidades referidas nos n.os 1 e 2 do artigo 2.º de constituição de reservas próprias pelo pagamento previsto no número anterior não pode exceder o correspondente a uma fracção do total das obrigações de reservas próprias igual à fracção das reservas detida por essa entidade pública, salvo o previsto no artigo 10.º
+
+4 - O armazenamento dos produtos pela entidade a que se refere o n.º 1 far-se-á prioritariamente nos depósitos ou instalações logísticas existentes no território nacional, mediante contratação com as entidades que deles disponham e, supletivamente, em instalações adquiridas ou construídas pela entidade pública.
+
+5 - É competência do Ministro da Economia fixar por despacho a fracção das reservas a deter pela entidade pública a que este artigo respeita, quando superior ao mínimo mencionado no n.º 1, sob proposta fundamentada, a apresentar através da Direcção-Geral da Energia.
+
+###### Artigo 10.º — Suspensão ou alteração dos termos da obrigação de reservas
+
+1 - Pode ser autorizada por períodos determinados, por motivos de força maior que impossibilitem o cumprimento da obrigação de constituição e de manutenção de reservas, nas quantidades e nos termos previstos nos artigos precedentes:
+
+a) A suspensão parcial ou total da obrigação ou das condições de manutenção das reservas;
+
+b) A substituição total ou parcial da obrigação de manutenção de reservas próprias pelo pagamento, à entidade prevista no artigo anterior, do montante correspondente.
+
+2 - A autorização é concedida por portaria do Ministro da Economia que deverá reconhecer, fundamentadamente, as causas de força maior e fixar as condições e o prazo da suspensão ou da substituição.
+
+###### Artigo 11.º — Fiscalização
+
+Sem prejuízo das competências atribuídas a outras entidades, a fiscalização do cumprimento do presente diploma cabe à Direcção-Geral da Energia.
+
+###### Artigo 12.º — Contra-ordenações
+
+1 - Constitui contra-ordenação, punível com coima:
+
+a) De 4000000$00 a 9000000$00, o incumprimento da obrigação, estabelecida no artigo 2.º, de constituir e manter reservas de segurança nas quantidades estabelecidas no artigo 3.º;
+
+b) De 500000$00 a 7000000$00, o incumprimento da obrigação de informação estabelecida no n.º 3 do artigo 4.º, no n.º 3 do artigo 7.º e no artigo 8.º
+
+2 - A negligência e a tentativa são puníveis.
+
+3 - No caso de pessoa singular, o máximo da coima a aplicar é de 750000$00.
+
+4 - Em função da gravidade da infracção e da culpa do infractor, podem ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de Setembro.
+
+###### Artigo 13.º — Instrução do processo, aplicação e distribuição do produto das coimas
+
+1 - A Direcção-Geral da Energia procede à instrução dos processos de contra-ordenação, sendo o seu director-geral competente para aplicação das coimas e das sanções acessórias.
+
+2 - O produto resultante da aplicação das coimas reverte, em 60%, para o Estado e, em 40%, para a Direcção-Geral da Energia.
+
+###### Artigo 14.º — Aplicação às Regiões Autónomas
+
+1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio e das adaptações que lhe venham a ser introduzidas por diploma regional.
+
+2 - O produto das coimas resultantes das contra-ordenações previstas no artigo 12.º e aplicadas nas Regiões Autónomas constitui receita própria destas.
+
+###### Artigo 15.º — Norma revogatória
+
+São revogadas as disposições do Decreto n.º 29034, de 1 de Outubro de 1938, relativas à constituição e manutenção das reservas de segurança, bem como os Decretos-Leis n.os 212/88 e 77/91, de 17 de Junho e de 18 de Fevereiro, respectivamente.
+
+###### Artigo 16.º — Entrada em vigor e disposição transitória
+
+1 - O presente diploma entra em vigor 30 dias após a sua publicação.
+
+2 - As entidades que no ano 2000 tenham introduzido no mercado apenas um único produto dos incluídos na alínea d) do n.º 3 do artigo 1.º são dispensadas do cumprimento de um terço do volume global previsto no n.º 1 do artigo 3.º até à data do início da actividade da entidade pública prevista no artigo 9.º

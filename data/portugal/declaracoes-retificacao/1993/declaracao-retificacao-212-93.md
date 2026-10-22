@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:664524:por
+title: Declaração de Rectificação n.º 212/93
+short_title: null
+summary: De ter sido rectificada a Declaração n.º 118/93, do Ministério das Finanças, que autoriza a abertura de créditos
+  especiais no orçamento de vários ministérios no montante de 3970917 contos, publicada no Diário da República, n.º 227, de
+  27 de Setembro de 1993
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria-Geral
+proposing_entity: null
+official_number: 212/93
+official_date: null
+publication_date: '1993-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 255/1993, 3º Suplemento, Série I-B de 1993-10-30
+  number: '255'
+  series: I
+  supplement: 3º Suplemento
+  pages: 6130-(12) a 6130-(12)
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/10/255b03/00120012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/212/1993/10/30/p/dre/pt/html
+  oj: null
+  dre: '664524'
+  dre_path: /dr/detalhe/declaracao-rectificacao/212-1993-664524
+  internal: pt:dre:664524:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/212-1993-664524
+  metadata_url: https://data.dre.pt/eli/declrectif/212/1993/10/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/212-1993-664524
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-10-30T00:00:00Z'
+integrity:
+  source_sha256: 1174bef21e9139e2750c6b20c1308d2dc281fb4f2ecfb174b7d5456b9c475558
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-212-664524.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Crédito Especial
+- Encargos Gerais da Nação
+- Ministério do Planeamento e da Administração do Território
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministério das Finanças
+- Ministério da Justiça
+- Ministério da Indústria e Energia
+- Ministério do Ambiente e Recursos Naturais
+- Orçamento
+- Ministério da Saúde
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decl/118/1993/09/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decl/118/1993/09/27/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 212/93
+
+Segundo comunicação do Ministério das Finanças, a [Declaração n.º 118/93](https://diariodarepublica.pt/dr/detalhe/declaracao/118-1993-652887), publicada no Diário da República, n.º 227, de 27 de Setembro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+
+Na despesa:
+
+Em «01 - Encargos Gerais da Nação», onde se lê «Cap. 04, div. 04, subdiv. - Despesas com compensação em receita - Com transição de saldos» deve ler-se «Cap. 04, div. 04, subdiv. 99 - Despesas com compensação em receita - Com transição de saldos».
+
+Em «08 - Ministério da Justiça», onde se lê «Cap. , div. 02 - Planeamento e informática» deve ler-se «Cap. 04, div. 02 - Planeamento e informática».
+
+Em «18 - Ministério do Ambiente e Recursos Naturais», onde se lê «Cap. 50, div. 16, subdiv. 01 - DGRN - Saneamento da Costa do Estoril» deve ler-se «Cap. 50, div. 16, subdiv. 02 - INAG - Saneamento da Costa do Estoril».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Outubro de 1993. - O Secretário-Geral, França Martins.

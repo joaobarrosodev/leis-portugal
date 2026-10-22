@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288238:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-160142671",
+ "dre_path": "/dr/detalhe/decreto-lei/377-1991-288238",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160147535",
+    "160147530",
+    "160147531",
+    "160147532"
+   ]
+  },
+  {
+   "date": "1992-05-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:497427:por",
+     "title": "Decreto-Lei n.º 76/92",
+     "published": "1992-05-04",
+     "dre_path": "/dr/detalhe/decreto-lei/76-1992-497427"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "160147529",
+    "160147530",
+    "160147534",
+    "160147532",
+    "160147533"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "160147535",
+    "160147536",
+    "160147537",
+    "160147538",
+    "160147539"
+   ]
+  }
+ ],
+ "fragments": {
+  "160147535": {
+   "fragment_id": "160142672",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 377/91\n\nde 9 de Outubro\n\nDeterminado o posicionamento dos conservadores, notários e oficiais dos registos e do notariado na nova estrutura salarial de harmonia com as regras constantes do Decreto-Lei n.º 131/91, de 2 de Abril, impõe-se agora dar execuução às 1.ª e 2.ª fases do processo de descongelamento de escalões previstas nas alíneas a) e b) do n.º 2 do artigo 38.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, estabelecendo as respectivas regras transitórias de progressão.\n\nAssim, e uma vez que os Decretos-Leis n.os 393/90, de 11 de Dezembro, e 204/91, de 7 de Julho, que fixaram essas regras para a generalidade das carreiras da Administração Pública, reconheceram a necessidade de se definirem regras específicas para os conservadores, notários e oficiais dos registos e do notariado, são descongelados, desde 1 de Julho de 1990, os dois escalões seguintes ao da integração e, desde 1 de Janeiro de 1991, os dois escalões subsequentes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "160147530": {
+   "fragment_id": "160142673",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO disposto no presente diploma aplica-se aos conservadores, notários e oficiais dos registos e do notariado."
+  },
+  "160147531": {
+   "fragment_id": "160142674",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Ficam descongelados desde 1 de Julho de 1990 os dois escalões seguintes ao escalão de integração que resultou para o pessoal a que se refere o artigo anterior da aplicação do Decreto-Lei n.º 131/91, de 2 de Abril.\n\n2 - A progressão nos escalões descongelados nos termos do número anterior faz-se de acordo com as seguintes regras:\n\na) Subida de um escalão, quando a antiguidade na categoria for igual ou superior a 6 e inferior a 10 anos;\n\nb) Subida de dois escalões, quando a antiguidade na categoria for igual ou superior a 10 anos.\n\n3 - A partir de 1 de Janeiro de 1991 ficam descongelados mais dois escalões das categorias do pessoal a que se refere o artigo anterior.\n\n4 - A progressão nos escalões descongelados nos termos do número anterior faz-se de acordo com as seguintes regras;\n\na) Se o funcionário não tiver progredido qualquer escalão em 1 de Julho de 1990, progride um escalão, desde que tenha mais de 4 e menos de 10 anos de antiguidade na categoria ou classe;\n\nb) Nos restantes casos, o funcionário progride mais um ou dois escalões, consoante tenha, respectivamente, 10 ou mais anos ou 14 ou mais anos na categoria ou classe.\n\n5 - A progressão nos escalões a descongelar efectua-se a partir do escalão de integração, não podendo, relativamente às categorias de ingresso, resultar do descongelamento a possibilidade de inserção em escalão superior ao que reultaria da normal progressão nos escalões, considerados todo o tempo de serviço prestado na categoria e os módulos de tempo exigidos para a normal progressão nesta.\n\n6 - A subida de escalões a que houver direito por aplicação das normas estabelecidas nos números anteriores não poderá exceder, em caso algum, o número de escalões descongelados nas datas previstas naquelas normas.\n\n7 - O direito à remuneração pelos novos escalões verifica-se no dia 1 do mês seguinte ao do preenchimento dos requisitos referidos nos n.os 2 e 4."
+  },
+  "160147532": {
+   "fragment_id": "160148675",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encargos decorrentes da aplicação do presente diploma são suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça."
+  },
+  "160147529": {
+   "fragment_id": "160142672",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 377/91\n\nde 9 de Outubro\n\nDeterminado o posicionamento dos conservadores, notários e oficiais dos registos e do notariado na nova estrutura salarial de harmonia com as regras constantes do Decreto-Lei n.º 131/91, de 2 de Abril, impõe-se agora dar execuução às 1.ª e 2.ª fases do processo de descongelamento de escalões previstas nas alíneas a) e b) do n.º 2 do artigo 38.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, estabelecendo as respectivas regras transitórias de progressão.\n\nAssim, e uma vez que os Decretos-Leis n.os 393/90, de 11 de Dezembro, e 204/91, de 7 de Julho, que fixaram essas regras para a generalidade das carreiras da Administração Pública, reconheceram a necessidade de se definirem regras específicas para os conservadores, notários e oficiais dos registos e do notariado, são descongelados, desde 1 de Julho de 1990, os dois escalões seguintes ao da integração e, desde 1 de Janeiro de 1991, os dois escalões subsequentes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "160147534": {
+   "fragment_id": "160142674",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1992-05-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 76/92 - Diário da República n.º 102/1992, Série I-A de 1992-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1992-497427), em vigor a partir de 1992-05-09"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Ficam descongelados desde 1 de Julho de 1990 os dois escalões seguintes ao escalão de integração que resultou para o pessoal a que se refere o artigo anterior da aplicação do Decreto-Lei n.º 131/91, de 2 de Abril.\n\n2 - A progressão dos escalões descongelados nos termos do número anterior faz-se de acordo com as seguintes regras:\n\na) Subida de um escalão, quando a antiguidade na categoria ou classe for igual ou superior a 6 e inferior a 10 anos;\n\nb) Subida de dois escalões, quando a antiguidade na categoria ou classe for igual ou superior a 10 anos.\n\n3 - A partir de 1 de Janeiro de 1991 ficam descongelados mais dois escalões das categorias do pessoal a que se refere o artigo anterior.\n\n4 - A progressão nos escalões descongelados nos termos do número anterior faz-se de acordo com as seguintes regras;\n\na) Se o funcionário não tiver progredido qualquer escalão em 1 de Julho de 1990, progride um escalão, desde que tenha mais de 4 e menos de 10 anos de antiguidade na categoria ou classe;\n\nb) Nos restantes casos, o funcionário progride mais um ou dois escalões, consoante tenha, respectivamente, 10 ou mais anos ou 14 ou mais anos na categoria ou classe.\n\n5 - A progressão nos escalões a descongelar efectua-se a partir do escalão de integração, não podendo, relativamente às categorias de ingresso, resultar do descongelamento a possibilidade de inserção em escalão superior ao que reultaria da normal progressão nos escalões, considerados todo o tempo de serviço prestado na categoria e os módulos de tempo exigidos para a normal progressão nesta.\n\n6 - A subida de escalões a que houver direito por aplicação das normas estabelecidas nos números anteriores não poderá exceder, em caso algum, o número de escalões descongelados nas datas previstas naquelas normas.\n\n7 - O direito à remuneração pelos novos escalões verifica-se no dia 1 do mês seguinte ao do preenchimento dos requisitos referidos nos n.os 2 e 4.\n\n> Alterado pelo/a [Decreto-Lei n.º 76/92 - Diário da República n.º 102/1992, Série I-A de 1992-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1992-497427), em vigor a partir de 1992-05-09"
+  },
+  "160147533": {
+   "fragment_id": "160148676",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.\n\nPromulgado em 24 de Setembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Setembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "160147536": {
+   "fragment_id": "160142673",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO disposto no presente diploma aplica-se aos conservadores, notários e oficiais dos registos e do notariado.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160147537": {
+   "fragment_id": "160142674",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a [Decreto-Lei n.º 76/92 - Diário da República n.º 102/1992, Série I-A de 1992-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1992-497427), em vigor a partir de 1992-05-09"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Ficam descongelados desde 1 de Julho de 1990 os dois escalões seguintes ao escalão de integração que resultou para o pessoal a que se refere o artigo anterior da aplicação do Decreto-Lei n.º 131/91, de 2 de Abril.\n\n2 - A progressão dos escalões descongelados nos termos do número anterior faz-se de acordo com as seguintes regras:\n\na) Subida de um escalão, quando a antiguidade na categoria ou classe for igual ou superior a 6 e inferior a 10 anos;\n\nb) Subida de dois escalões, quando a antiguidade na categoria ou classe for igual ou superior a 10 anos.\n\n3 - A partir de 1 de Janeiro de 1991 ficam descongelados mais dois escalões das categorias do pessoal a que se refere o artigo anterior.\n\n4 - A progressão nos escalões descongelados nos termos do número anterior faz-se de acordo com as seguintes regras;\n\na) Se o funcionário não tiver progredido qualquer escalão em 1 de Julho de 1990, progride um escalão, desde que tenha mais de 4 e menos de 10 anos de antiguidade na categoria ou classe;\n\nb) Nos restantes casos, o funcionário progride mais um ou dois escalões, consoante tenha, respectivamente, 10 ou mais anos ou 14 ou mais anos na categoria ou classe.\n\n5 - A progressão nos escalões a descongelar efectua-se a partir do escalão de integração, não podendo, relativamente às categorias de ingresso, resultar do descongelamento a possibilidade de inserção em escalão superior ao que reultaria da normal progressão nos escalões, considerados todo o tempo de serviço prestado na categoria e os módulos de tempo exigidos para a normal progressão nesta.\n\n6 - A subida de escalões a que houver direito por aplicação das normas estabelecidas nos números anteriores não poderá exceder, em caso algum, o número de escalões descongelados nas datas previstas naquelas normas.\n\n7 - O direito à remuneração pelos novos escalões verifica-se no dia 1 do mês seguinte ao do preenchimento dos requisitos referidos nos n.os 2 e 4.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a [Decreto-Lei n.º 76/92 - Diário da República n.º 102/1992, Série I-A de 1992-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1992-497427), em vigor a partir de 1992-05-09"
+  },
+  "160147538": {
+   "fragment_id": "160148675",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs encargos decorrentes da aplicação do presente diploma são suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160147539": {
+   "fragment_id": "160148676",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.\n\nPromulgado em 24 de Setembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Setembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

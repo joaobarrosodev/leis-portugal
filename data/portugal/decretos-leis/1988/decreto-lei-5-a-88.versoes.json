@@ -1,0 +1,1342 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:153129:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-162229694",
+ "dre_path": "/dr/detalhe/decreto-lei/5-a-1988-153129",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-01-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162238998",
+    "162159338",
+    "162159339",
+    "162159340",
+    "162159341",
+    "162159342",
+    "162159343",
+    "162159344",
+    "162159345",
+    "162159346",
+    "162159347",
+    "162159348",
+    "162159349",
+    "162159350",
+    "162159351",
+    "162159352",
+    "162159353",
+    "162159354",
+    "162159355",
+    "162159356",
+    "162159357",
+    "162159358",
+    "162159359",
+    "162159360",
+    "162159361",
+    "162159362",
+    "162159363",
+    "162159364",
+    "162159365",
+    "162159366",
+    "162159367",
+    "162159368",
+    "162159369",
+    "162159370",
+    "162159371",
+    "162159372",
+    "162159373",
+    "162159374",
+    "162238575",
+    "162238576",
+    "162238577",
+    "162238578",
+    "162238579",
+    "162238580",
+    "162238581",
+    "162238582",
+    "162238583",
+    "162238584",
+    "162238585",
+    "162238586",
+    "162238587",
+    "162238588",
+    "162238589",
+    "162238590",
+    "162238591",
+    "162238592",
+    "162238593",
+    "162238594",
+    "162238595",
+    "162238596"
+   ]
+  },
+  {
+   "date": "1990-12-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:564805:por",
+     "title": "Decreto-Lei n.º 370/90",
+     "published": "1990-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/370-1990-564805"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "162159337",
+    "162159338",
+    "162159339",
+    "162159340",
+    "162159341",
+    "162159342",
+    "162238997",
+    "162159344",
+    "162159345",
+    "162159346",
+    "162159347",
+    "162159348",
+    "162159349",
+    "162159350",
+    "162159351",
+    "162159352",
+    "162159353",
+    "162159354",
+    "162159355",
+    "162159356",
+    "162159357",
+    "162159358",
+    "162159359",
+    "162159360",
+    "162159361",
+    "162159362",
+    "162159363",
+    "162159364",
+    "162159365",
+    "162159366",
+    "162159367",
+    "162159368",
+    "162159369",
+    "162159370",
+    "162159371",
+    "162159372",
+    "162159373",
+    "162159374",
+    "162238575",
+    "162238576",
+    "162238577",
+    "162238578",
+    "162238579",
+    "162238580",
+    "162238581",
+    "162238582",
+    "162238583",
+    "162238584",
+    "162238585",
+    "162238586",
+    "162238587",
+    "162238588",
+    "162238589",
+    "162238590",
+    "162238591",
+    "162238592",
+    "162238593",
+    "162238594",
+    "162238595",
+    "162238596",
+    "162238597"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162238998",
+    "162238999",
+    "162239000",
+    "162239001",
+    "162239002",
+    "162239003",
+    "162239004",
+    "162239005",
+    "162239006",
+    "162239007",
+    "162239008",
+    "162239009",
+    "162239010",
+    "162239011",
+    "162239012",
+    "162239013",
+    "162239014",
+    "162239015",
+    "162239016",
+    "162239017",
+    "162239018",
+    "162239019",
+    "162239020",
+    "162239021",
+    "162239022",
+    "162239023",
+    "162239024",
+    "162239025",
+    "162239026",
+    "162239027",
+    "162239028",
+    "162239029",
+    "162239030",
+    "162239031",
+    "162239032",
+    "162239033",
+    "162239034",
+    "162239035",
+    "162239036",
+    "162239037",
+    "162239038",
+    "162239039",
+    "162239040",
+    "162239041",
+    "162239042",
+    "162239043",
+    "162239044",
+    "162239045",
+    "162239046",
+    "162239047",
+    "162239048",
+    "162239049",
+    "162239050",
+    "162239051",
+    "162239052",
+    "162239053",
+    "162239054",
+    "162239055",
+    "162239056",
+    "162239057",
+    "162239058"
+   ]
+  }
+ ],
+ "fragments": {
+  "162238998": {
+   "fragment_id": "162229695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 5-A/88\n\nde 14 de Janeiro\n\nA reestruturação que está a ser levada a efeito no âmbito do Ministério da Agricultura, Pescas e Alimentação impõe a reformulação dos vários serviços, de forma a adequar as estruturas a novos esquemas de gestão face ao impacte das novas condições criadas, nomeadamente em consequência da adesão à CEE.\n\nCom a publicação do Decreto-Lei n.º 310-A/86, de 23 de Setembro - Lei Orgânica do Ministério -, foi extinto o Instituto Nacional de Investigação Agrária e Extensão Rural (INIAER) e criado o Instituto de Investigação Agrária (INIA), com vista à clarificação do conteúdo da investigação agrária, libertando o organismo das actividades de extensão rural.\n\nCom a criação deste organismo pretende-se:\n\nA dignificação da instituição, em paridade com as homólogas nacionais e com as instituições dos países comunitários com que terá de manter diálogo permanente e assegurar resposta pronta e acreditada;\n\nA participação efectiva dos agentes interessados, pelo que se institui o conselho consultivo de investigação agrária;\n\nA máxima coordenação das suas actividades, quer integrando a capacidade científica de todas as suas estruturas orgânicas, quer integrando aquelas actividades na política de investigação e desenvolvimento experimental (I-DE) definida para o sector agrário e agro-industrial e na política de desenvolvimento regional e ciência definida para o País;\n\nA complementaridade efectiva entre as actividades de I-DE e as de outras actividades científicas e técnicas (OACT) que utilizem o método e tecnologia científicos nas suas actividades normais;\n\nA desconcentração das estruturas, pelo que as estações nacionais de I-DE e os serviços nacionais de I-DE e OACT disporão de autonomia administrativa, sem, no entanto, excluir a possibilidade de existência ou criação de outras unidades de I-DE capazes de se desenvolverem em novas áreas de actividade;\n\nO apoio, no âmbito científico, às direcções regionais de agricultura, como forma de estudar no agricultor utilizador os benefícios que a ciência e a tecnologia criam, através da experimentação e demonstração a nível regional;\n\nAssegurar a formação profissional a nível superior e pós-graduação no domínio do sector agrário e agro-industrial.\n\nÀ semelhança do que acontece com os outros organismos nacionais de investigação científica, nomeadamente o Laboratório Nacional de Engenharia Civil, o Laboratório Nacional de Engenharia e Tecnologia Industrial, dota-se o INIA de largo grau de autonomia, não apenas para despender programadamente as dotações do Estado, mas essencialmente para incentivar um esquema de receitas próprias, que será um índice de capacidade e do sucesso em certos domínios da sua actividade;\n\nA atribuição de autonomia administrativa e financeira representa o reconhecimento da elevada importância que a prestação de serviços à comunidade tem atingido, permitindo-se, por esta via, continuar um caminho de autofinanciamento, com consequente redução do actual grau de dependência do INIA do Orçamento do Estado, permitindo também a libertação de verbas que até então lhe estavam afectas e a sua canalização para outros fins.\n\nComo corolário desta evolução, a personalidade jurídica que lhe é atribuída conferir-lhe-á uma maior operacionalidade, permitindo constituir um acervo patrimonial cuja gestão e responsabilidade passará a assumir plenamente.\n\nPreviu-se, assim, um organismo pelo qual se restitui às actividades de I-DE a dignidade e responsabilidade que lhes é exigida, se articulam de forma homogénea e flexível as várias unidades responsáveis pela criação do conhecimento científico e seu encaminhamento até ao agricultor utilizador, se racionalizam e encurtam as actuações, se descentralizam e desburocratizam competências dos serviços e racionalizam as suas estruturas e quadros orgânicos e melhoram as condições de trabalho nos serviços, assegurando o melhor aproveitamento das capacidades dos que à ciência se dedicam e dos funcionários que com eles colaboram.\n\nRelativamente ao quadro de pessoal, o mesmo foi já objecto de correcto redimensionamento através da Portaria n.º 452-A/86, de 20 de Agosto, tendo-se procedido à redução de efectivos em determinadas carreiras a fim de compensar o reforço de pessoal de investigação e técnico, cujas carreiras se encontravam carecidas, de modo a permitir uma actuação mais operante e eficaz, havendo apenas que adaptar a parte referente a pessoal dirigente e de chefia à estrutura agora definida.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162159338": {
+   "fragment_id": "162229696",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "162159339": {
+   "fragment_id": "162229697",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e objectivos\n\n1 - O Instituto Nacional de Investigação Agrária, abreviadamente designado por INIA, a que se refere a alínea f) do n.º 4 do artigo 3.º do Decreto-Lei n.º 310-A/86, de 23 de Setembro, é um organismo dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio, que tem por objectivo apoiar o Ministro da Agricultura, Pescas e Alimentação na formulação e execução da política de investigação e desenvolvimento experimental (I-DE) para o sector agrário e agro-industrial.\n\n2 - O INIA compreende órgãos, serviços centrais, estações nacionais de investigação e desenvolvimento experimental (ENIDEs), serviços nacionais de investigação e desenvolvimento experimental e de outras de científicas e técnicas (SNIDEs), departamentos e unidades experimentais.\n\n3 - As ENIDEs e os SNIDEs são dotados de autonomia administrativa."
+  },
+  "162159340": {
+   "fragment_id": "162229698",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições e competências\n\n1 - Ao INIA incumbe contribuir para a elaboração e execução da política de I-DE para o sector agrário e agro-industrial, prestar apoio científico e técnico às actividades de experimentação e demonstração a nível regional, assegurar a protecção da produção agrícola a nível nacional, bem como dos solos da reserva agrícola nacional, promover, executar ou colaborar em trabalhos de cartografia agrícola e promover e implementar a formação profissional de pós-graduação com vista à formação de vulgarizadores, generalistas e especialistas, competindo-lhe, designadamente:\n\na) Contribuir para a formulação e concretização da política nacional de I-DE no âmbito do sector agrário e agro-industrial através da elaboração de estudos e apresentação de objectivos e programas adequados à dinamização da referida investigação, como forma de acelerar o desenvolvimento do sector;\n\nb) Assegurar e coordenar, com base nos programas definidos, as actividades de I-DE e a formação profissional de nível superior e pós-graduação no âmbito do Ministério da Agricultura, Pescas e Alimentação (MAPA), em colaboração com os Ministérios do Planeamento e da Administração do Território e da Educação;\n\nc) Assegurar internamente a lógica de complementaridade do sistema de I-DE, dinamizando e executando programas integrados agrários e agro-industriais de I-DE, onde os resultados científicos obtidos são testados e adaptados regionalmente às condições sócio-económicas existentes;\n\nd) Assegurar a existência de programas integrados de I-DE e zelar pelo seu funcionamento e concretização;\n\ne) Apoiar, nos aspectos científico e técnico, as actividades de experimentação e demonstração a nível regional;\n\nf) Assegurar a divulgação do conhecimento original produzido e do conhecimento científico e técnico disponível junto dos interessados;\n\ng) Promover a cooperação com instituições congéneres, nacionais e estrangeiras, e comissões especializadas, no domínio das actividades de I-DE, no âmbito do sector agrário e agro-industrial;\n\nh) Promover a preparação, execução e coordenação de acordos internacionais no âmbito da cooperação científica e técnica para o sector agrário e agro-industrial.\n\n2 - Os órgãos e serviços centrais do poder de orientação do INIA gozam de autonomia científica e técnica, sem prejuízo do poder de orientação do Ministro da Agricultura, Pescas e Alimentação e das metas fixadas no Plano Nacional Agrário, no domínio de I-DE, bem como da coordenação global da política científica nacional, atribuída ao ministério responsável pela coordenação científica.\n\n3 - As ENIDEs e os SNIDEs gozam de autonomia científica e técnica, sem prejuízo das orientações e coordenação que vierem a ser estabelecidas pelos órgãos e veiculadas pelos serviços centrais do INIA.\n\n4 - Os órgãos e serviços centrais, bem como as ENIDEs e os SNIDEs, actuarão integradamente com vista à prossecução dos objectivos que lhes são comuns."
+  },
+  "162159341": {
+   "fragment_id": "162229699",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e serviços e suas competências\n\nArtigo 3.º\n\nÓrgãos e serviços\n\nO INIA compreende os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Presidente;\n\nb) Conselho consultivo de investigação agrária;\n\nc) Conselho científico;\n\nd) Conselho administrativo;\n\n2) Serviços centrais:\n\na) Gabinete de Estudos e Planeamento;\n\nb) Direcção de Serviços de Administração;\n\nc) Direcção de Serviços de Informação Científica e Técnica e de Divulgação;\n\n3) ENIDEs:\n\na) Estação Agronómica Nacional, com sede em Oeiras:\n\nb) Estação Zootécnica Nacional, com sede em Santarém;\n\nc) Estação Florestal Nacional, com sede em Lisboa;\n\nd) Estação Nacional de Melhoramento de Plantas, com sede em Elvas;\n\ne) Estação Vitivinícola Nacional, com sede em Dois Portos;\n\nf) Estação Nacional de Fruticultura de Vieira Natividade, com sede em Alcobaça;\n\ng) Estação Nacional de Tecnologia dos Produtos Agrários, com sede em Oeiras;\n\n4) SNIDEs:\n\na) Centro Nacional de Reconhecimento e Ordenamento Agrário, com sede em Lisboa;\n\nb) Centro Nacional de Protecção da Produção agrícola com sede em Oeiras;\n\nc) Laboratório Químico-Agrícola de Rebelo da Silva, com sede em Lisboa;\n\n5) Departamentos e unidades experimentais."
+  },
+  "162159342": {
+   "fragment_id": "162229700",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos"
+  },
+  "162159343": {
+   "fragment_id": "162229701",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - O presidente é o órgão que dirige e coordena a actividade global do INIA, competindo-lhe, designadamente:\n\na) Presidir aos conselhos consultivo de investigação agrária, científico e administrativo;\n\nb) Definir, de acordo com os princípios da política agrária nacional, os objectivos e linhas de orientação do INIA, bem como a estratégia de actuação dos serviços;\n\nc) Apresentar superiormente, acompanhado do respectivo parecer, o plano anual de actividades do INIA e o correspondente relatório de execução;\n\nd) Promover formas de gestão consentâneas com as atribuições e características do organismo;\n\ne) Deslocar e afectar pessoal do INIA nos termos da lei;\n\nf) Assegurar a representação externa do INIA no domínio da política de I-DE e de OACT para o sector agrário;\n\ng) Representar o INIA em juízo, tendo, para o efeito, a devida assessoria.\n\n2 - O presidente será coadjuvado por dois vice-presidentes, nos quais poderá delegar as competências adequadas, podendo estes, por sua vez, subdelegar nos restantes dirigentes.\n\n3 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente que para o efeito for designado.\n\n4 - O presidente e os vice-presidentes do INIA são equiparados, para todos os efeitos legais, a director-geral e subdirector-geral, respectivamente."
+  },
+  "162159344": {
+   "fragment_id": "162229702",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho consultivo de investigação agrária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho consultivo de investigação agrária\n\n1 - O conselho consultivo de investigação agrária, abreviadamente designado por CCIA, é um órgão de natureza consultiva que tem como finalidade apoiar o presidente do INIA na definição das grandes linhas de orientação e no equacionamento das prioridades de acção e avaliação das actividades do INIA.\n\n2 - O CCIA é constituído pelos seguintes elementos:\n\na) Presidente do INIA, que presidirá;\n\nb) Vice-presidentes do INIA;\n\nc) Directores regionais do MAPA;\n\nd) Directores-gerais ou equiparados nos serviços centrais do MAPA;\n\ne) Directores das ENIDEs e dos SNIDEs;\n\nf) Responsáveis pelos departamentos dos serviços centrais do INIA;\n\ng) Representantes designados pelas universidades onde se processe o ensino agrário e agro-industrial, até dois;\n\nh) Representantes designados pelas associações de agricultores de âmbito nacional, federações e confederações definidas nos artigos 82.º e 83.º do Código Cooperativo, até cinco;\n\ni) Representantes de outros grupos interprofissionais actuando no sector agro-industrial, até dois.\n\n3 - Sempre que se mostre conveniente para o esclarecimento das matérias em apreciação, o presidente poderá convocar ou convidar, com estatuto consultivo, elementos do MAPA ou a este estranhos.\n\n4 - As individualidades estranhas ao MAPA convidadas nos termos do número anterior terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transporte, nos termos legais.\n\n5 - O CCIA será secretariado por um funcionário designado pelo presidente, sem direito a voto.\n\n6 - Os representantes das organizações referidas nas alíneas g), h) e i) são por elas livremente designados e substituídos, em conformidade com os seus estatutos, mediante comunicação escrita ao presidente.\n\n7 - Ao CCIA compete, designadamente:\n\na) Contribuir para a definição da política e objectivos nacionais no âmbito da I-DE, nos termos da alínea a) do n.º 1 do artigo 2.º do presente diploma;\n\nb) Pronunciar-se sobre os grandes problemas do âmbito das actividades de I-DE do MAPA;\n\nc) Pronunciar-se sobre a execução dos planos anuais e plurianuais dos serviços centrais do INIA, das ENIDEs e dos SNIDEs;\n\nd) Pronunciar-se sobre quaisquer outros assuntos que, no âmbito das suas competências, lhe sejam presentes pelo presidente.\n\n8 - O CCIA reunirá em plenário duas vezes por ano e extraordinariamente quando for convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n9 - Os assuntos submetidos a apreciação do CCIA serão aprovados por maioria simples de votos dos membros presentes, dispondo o presidente de voto de qualidade.\n\n10 - As normas de funcionamento do CCIA constarão de regulamento interno a aprovar pelo próprio conselho."
+  },
+  "162159345": {
+   "fragment_id": "162229703",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho científico\n\n1 - O conselho científico é um órgão de natureza consultiva e de apoio ao presidente do INIA sobre as linhas gerais de planeamentos de gestão de actividades científicas.\n\n2 - O conselho científico é constituído pelos seguintes membros:\n\na) Presidente do INIA, que presidirá;\n\nb) Vice-presidentes do INIA;\n\nc) Directores dos departamentos dos serviços centrais, das ENIDEs e dos SNIDEs;\n\nd) Coordenadores de programas integrados;\n\ne) Investigadores-coordenadores.\n\n3 - Mediante convocação do presidente, poderão participar, sem direito a voto, elementos do INIA ou a este estranhos especialmente qualificados para o esclarecimento das matérias em apreciação.\n\n4 - O conselho científico será secretariado por um funcionário, a designar pelo presidente, sem direito a voto.\n\n5 - O conselho científico pronunciar-se-á, designadamente, sobre:\n\na) A definição e concretização das grandes linhas orientadoras da actividade do INIA, bem como dos planos globais de gestão da actividade científica e técnica;\n\nb) As directrizes para a elaboração dos programas e projectos a inserir no Plano de Investimentos e Despesas de Desenvolvimento da Administração Central (PIDDAC) e dos planos de investigação e do programa anual de actividades do INIA;\n\nc) Os relatórios anuais de actividade do INIA;\n\nd) Os critérios especiais de admissão e selecção de pessoal, bem como de formação profissional, do INIA;\n\ne) Convénios de carácter científico e técnico a realizar com outros serviços do MAPA, universidades ou outros estabelecimentos de ensino superior e entidades nacionais, estrangeiras e internacionais;\n\nf) Os contratos-programas a celebrar pelo INIA com empresas públicas ou privadas e associações de agricultores;\n\ng) A compatibilização e articulações do conjunto dos programas do INIA, numa óptica global, face às orientações fundamentais que lhe forem definidas e à necessária optimização dos recursos;\n\nh) Dar parecer sobre as portarias a que se refere o artigo 44.º\n\n6 - O conselho científico reunirá em plenário ou por comissões especializadas, ordinariamente, quatro vezes por ano e, extraordinariamente, quando for convocado pelo seu presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n7 - Os assuntos submetidos à apreciação do conselho científico serão resolvidos por maioria simples de votos dos membros presentes.\n\n8 - As normas de funcionamento do conselho científico e das comissões especializadas serão objecto de regulamento interno, a aprovar pelo próprio conselho, sendo desde já criadas a Comissão Coordenadora de Programas Integrados e a Comissão Coordenadora para a Formação Profissional."
+  },
+  "162159346": {
+   "fragment_id": "162229704",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho administrativo\n\n1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial, com a seguinte constituição:\n\na) O presidente do INIA, que presidirá;\n\nb) Um dos vice-presidentes do INIA;\n\nc) Um dirigente das ENIDEs e dos SNIDEs;\n\nd) O director do Gabinete de Estudos e Planeamento;\n\ne) O director de Serviços de Administração.\n\n2 - O presidente poderá delegar a presidência do conselho administrativo no seu substituto legal.\n\n3 - Participará no conselho administrativo, sem direito a voto, o chefe da Repartição Financeira e Patrimonial, que exercerá as funções de secretário.\n\n4 - Compete ao conselho administrativo:\n\na) Superintender na gestão financeira e patrimonial dos serviços centrais do INIA;\n\nb) Promover a elaboração dos planos financeiros anuais e plurianuais;\n\nc) Orientar a preparação dos projectos de orçamentos ordinários e suplementares;\n\nd) Zelar pela cobrança das receitas e promover o seu depósito;\n\ne) Verificar a legalidade das despesas e autorizar o respectivo pagamento;\n\nf) Fiscalizar a escrituração da contabilidade e proceder à verificação regular dos valores em cofre e em depósito;\n\ng) Aprovar as minutas de contratos em que o INIA seja parte;\n\nh) Adjudicar e contratar estudos, serviços e fornecimentos necessários à prossecução das actividades dos serviços centrais do INIA;\n\ni) Apreciar as contas de gerência e submetê-las, nos termos legais, a julgamento do Tribunal de Contas.\n\n5 - O conselho administrativo poderá delegar no seu presidente e nos dirigentes dos serviços algumas das suas competências.\n\n6 - O conselho administrativo poderá ainda constituir a favor dos dirigentes referidos no número anterior fundos de maneio para ocorrer ao pagamento das despesas que devam ser satisfeitas a dinheiro e de que prestarão contas mensalmente.\n\n7 - O conselho administrativo reunirá quinzenalmente em sessão ordinária e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n8 - As deliberações do conselho administrativo serão tomadas por maioria de votos dos membros presentes, tendo o presidente, em caso de empate, voto de qualidade.\n\n9 - As deliberações só podem ser tomadas estando presente a maioria dos seus membros.\n\n10 - Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas, salvo se não estiverem presentes ou, estando, fizerem exarar em acta voto de vencimento, devidamente fundamentado.\n\n11 - De cada reunião será lavrada acta, assinada pelo presidente e demais vogais presentes.\n\n12 - A preparação e a execução das deliberações do conselho administrativo serão asseguradas pela Direcção de Serviços de Administração.\n\n13 - Poderá participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário do INIA para tal convocado, sempre que o presidente o entender conveniente.\n\n14 - O conselho administrativo obriga-se mediante a assinatura de dois dos seus membros, sendo um deles o presidente ou o seu substituto legal.\n\n15 - O conselho administrativo elaborará o seu regulamento interno de funcionamento."
+  },
+  "162159347": {
+   "fragment_id": "162229705",
+   "type": 8,
+   "heading": "Secção II — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços centrais"
+  },
+  "162159348": {
+   "fragment_id": "162229706",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete de Estudos e Planeamento\n\n1 - Ao Gabinete de Estudos e Planeamento, dirigido por um director de serviços, compete assegurar a recolha e tratamento da informação necessária à formulação da política de investigação e desenvolvimento experimental no sector agrário e agro-industrial, promover a apresentação formalizada e uniformizada dos planos e programas a curto, médio e longo prazos e solicitar aos serviços informação sobre o grau de execução das actividades por eles desenvolvidas.\n\n2 - Para o exercício das suas atribuições o Gabinete de Estudos e Planeamento estabelecerá as necessárias ligações com outras entidades, nomeadamente com os serviços de planeamento do Ministério, dispondo, para o efeito, das seguintes divisões:\n\na) Divisão de Planeamento e Projectos;\n\nb) Divisão de Informática e Estatística.\n\n3 - À Divisão de Planeamento e Projectos compete:\n\na) Elaborar os estudos necessários à formulação das propostas de actividades de I-DE com base nas orientações do plano de desenvolvimento agrário nacional e nas directrizes emanadas superiormente;\n\nb) Apoiar os serviços do INIA com vista à elaboração das suas propostas e planos de actividade decorrentes das linhas de actuação aprovadas, definir os sistemas necessários ao seu estabelecimento e recolher a informação sobre o grau de execução das actividades desenvolvidas por aqueles serviços;\n\nc) Manter em carteira programas e projectos de actividade de I-DE aprovados pelo INIA e propor fontes de financiamento para a sua execução;\n\nd) Estudar, em colaboração com as entidades interessadas, a viabilidade sócio-económica dos projectos do INIAE;\n\ne) Colaborar com os serviços do INIA na elaboração, concretização, controle económico-financeiro e avaliação dos programas e projectos;\n\nf) Promover a recolha sistemática de informação necessária para a avaliação da eficácia da actuação administrativa dos serviços do INIA, com vista à detecção e remoção dos estrangulamentos;\n\ng) Estudar e organizar, em colaboração com outras instituições ou com as ENIDEs e os SNIDEs, planos de formação profissional de pós-graduação dos funcionários do MAPA, habilitados, pelo menos, com o grau de bacharelato, com vista à formação de vulgarizadores, generalistas e especialistas, mantendo, para o efeito, estreitas relações com as universidades ou institutos onde se processe o ensino agrário e agro-industrial;\n\nh) Assegurar as necessárias ligações com os serviços de planeamento exteriores do INIA;\n\ni) Assegurar a elaboração do relatório anual da actividade do INIA.\n\n4 - À Divisão de Informática e Estatística compete:\n\na) Promover a elaboração de estudos e propostas com vista à definição dos meios informáticos mais adequados ao INIA, de acordo com as directrizes do Ministério;\n\nb) Apoiar os restantes serviços na definição das suas necessidades de informação, com vista à criação, manutenção e actualização de um banco de dados que suporte a formulação, acompanhamento e avaliação das actividades do INIA, garantindo o tratamento automático, de acordo com as suas características e com uma adequada gestão dos meios informáticos;\n\nc) Assegurar o estudo e execução das medidas tendentes à racionalização e modernização administrativa, de acordo com a política do Ministério, e apoiar os restantes serviços na implementação das técnicas da burótica;\n\nd) Assegurar a recolha, tratamento e divulgação de elementos estatísticos de interesse para o INIA ou de fornecimento obrigatório."
+  },
+  "162159349": {
+   "fragment_id": "162229707",
+   "type": 11,
+   "heading": "Artigo 9.º — Direcção de Serviços de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Administração\n\n1 - À Direcção de Serviços de Administração compete assegurar a gestão e administração dos recursos humanos, financeiros e patrimoniais, bem como assegurar o respectivo apoio técnico-administrativo aos órgãos e restantes serviços centrais do INIA.\n\n2 - A Direcção de Serviços de Administração deverá, para o desenvolvimento das suas actividades, articular-se com os órgãos e serviços do INIA e manter contactos com os serviços afins das restantes direcções-gerais e regionais do Ministério, dispondo, para o efeito, das seguintes repartições:\n\na) Repartição de Pessoal e Expediente;\n\nb) Repartição Financeira e Patrimonial.\n\n3 - À Repartição de Pessoal e Expediente compete assegurar a gestão dos recursos humanos do INIA e administração do pessoal dos serviços centrais, bem como o expediente da direcção e o arquivo geral do INIA, e compreende as seguintes secções:\n\na) Secção de Processamento;\n\nb) Secção de Pessoal e Expediente.\n\n4 - À Secção de Processamento compete:\n\na) Assegurar a análise e processamento dos elementos relacionados com os vencimentos, remunerações e outros abonos do pessoal dos serviços centrais do INIA, bem como dos descontos que sobre eles eventualmente incidam;\n\nb) Elaborar os documentos que sirvam de suporte ao tratamento informático dos elementos referidos na alínea anterior.\n\n5 - À Secção de Pessoal e Expediente compete:\n\na) Organizar e manter actualizado o cadastro de todo o pessoal do INIA e fornecer os elementos necessários ao tratamento automático da respectiva informação;\n\nb) Assegurar a preparação e execução das acções de recrutamento, selecção, promoção, formação e aperfeiçoamento profissional;\n\nc) Assegurar a execução dos processos de classificação de serviços e a publicação das listas de antiguidade do pessoal;\n\nd) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente dos serviços centrais do INIA;\n\ne) Assegurar o funcionamento do arquivo geral e a sua articulação com os arquivos dos vários serviços do INIA.\n\n6 - A Repartição Financeira e Patrimonial exerce as suas competências no âmbito das actividades relacionadas com a gestão dos meios financeiros e administração do património e compreende as seguintes secções:\n\na) Secção de Orçamento e Controle;\n\nb) Secção de Contabilidade;\n\nc) Secção de Património e Aprovisionamento.\n\n7 - À Secção de Orçamento e Controle compete:\n\na) Assegurar a elaboração dos orçamentos anual e suplementares do INIA, bem como o respectivo controle;\n\nb) Processar as requisições mensais de fundos de conta das dotações consignadas no Orçamento do Estado ao INIA;\n\nc) Fornecer aos serviços centrais de administração do orçamento do Ministério os elementos indispensáveis ao controle orçamental;\n\nd) Organizar a conta anual de gerência e preparar os elementos necessários à elaboração do respectivo relatório;\n\ne) Manter organizado o arquivo de toda a documentação das gerências findas;\n\nf) Controlar a aplicação de subsídios e empréstimos concedidos através do INIA.\n\n8 - À Secção de Contabilidade compete:\n\na) Assegurar a execução do orçamento e escriturar as receitas e despesas;\n\nb) Promover a liquidação e cobrança das receitas e o pagamento das despesas;\n\nc) Verificar e processar todos os documentos de despesa e organizar os respectivos processos;\n\nd) Manter uma contabilidade analítica que permita o adequado controle de custos;\n\ne) Fiscalizar o movimento de tesouraria, efectuando, sempre que necessário, o respectivo balanço;\n\nf) Assegurar o tratamento informático dos elementos de carácter financeiro.\n\n9 - À Secção de Património e Aprovisionamento compete:\n\na) Organizar e manter actualizado o inventário dos bens móveis e imóveis do INIA e assegurar a gestão do património dos serviços centrais;\n\nb) Assegurar o aproveitamento racional e a utilização dos edifícios e outras instalações, promovendo as remodelações e reparações que se tornem necessárias;\n\nc) Assegurar a gestão do parque de viaturas automóveis;\n\nd) Promover a aquisição de maquinaria e equipamento, material de transporte, mobiliário e demais equipamentos necessários, ouvidos os serviços competentes;\n\ne) Promover as demais aquisições necessárias ao funcionamento dos serviços e proceder à conservação e distribuição dos artigos armazenados e à gestão do armazém.\n\n10 - Adstrita à Repartição Financeira e Patrimonial funciona uma tesouraria, à qual compete:\n\na) Arrecadar todas as receitas pertencentes ao INIA;\n\nb) Efectuar o pagamento de todas as despesas devidamente autorizadas;\n\nc) Manter devidamente escriturados todos os livros de tesouraria."
+  },
+  "162159350": {
+   "fragment_id": "162229708",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de Serviços de Informação Científica e Técnica e de Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Informação Científica e Técnica e de Divulgação\n\nA Direcção de Serviços de Informação Científica e Técnica e de Divulgação assegura o tratamento e divulgação da actividade científica e técnica do INIA, bem como as suas relações externas, competindo-lhe, designadamente:\n\na) Promover a realização de colóquios e reuniões científicas e técnicas e a participação do INIA em exposições e feiras de interesse para as suas actividades;\n\nb) Assegurar a realização de acções de intercâmbio, nomeadamente deslocações e missões de estudo, com entidades nacionais e estrangeiras;\n\nc) Assegurar, a nível do MAPA, em colaboração com os restantes serviços do mesmo, a gestão, divulgação e acessibilidade junto dos interessados de material documental e informativo necessário ao desenvolvimento das actividades científicas e técnicas, com vista à sua optimização;\n\nd) Assegurar a aquisição, permuta e oferta de publicações e documentos entre serviços e entidades nacionais e estrangeiros;\n\ne) Apoiar a Divisão de Informática e Estatística na análise de documentação e informação, com vista ao seu tratamento e divulgação por meios informáticos, e os órgãos e restantes serviços do INIA, fornecendo-lhes o material necessário ao desenvolvimento das suas actividades;\n\nf) Assegurar a implementação de sistemas de microfilmagem, de acordo com as necessidades do INIA;\n\ng) Coordenar a elaboração do plano de formação do pessoal do INIA;\n\nh) Apoiar o presidente na formação e manutenção da imagem do INIA junto do público."
+  },
+  "162159351": {
+   "fragment_id": "162229709",
+   "type": 8,
+   "heading": "Secção III — Das ENIDEs e dos SNIDEs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das ENIDEs e dos SNIDEs"
+  },
+  "162159352": {
+   "fragment_id": "162229710",
+   "type": 11,
+   "heading": "Artigo 11.º — Definição e objectivos das ENIDEs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Definição e objectivos das ENIDEs\n\n1 - As ENIDEs são unidades orgânicas vocacionadas para a realização de actividades científicas nos vários domínios de I-DE, sob orientação global e coordenação científica dos órgãos do INIA.\n\n2 - Cada ENIDE deverá corresponder a uma ou várias áreas das ciências agrárias, delimitadas em função de objectivos próprios e específicos."
+  },
+  "162159353": {
+   "fragment_id": "162229711",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências das ENIDEs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências das ENIDEs\n\nÀs ENIDEs compete, designadamente:\n\na) Dar cumprimento aos objectivos superiormente definidos, de acordo com a política nacional para o sector agrário e agro-industrial, assegurando a elaboração e execução dos programas e projectos de I-DE respeitantes aos respectivos domínios científicos;\n\nb) Desenvolver a investigação e assegurar uma adequada preparação ao seu pessoal, estimulando a criatividade e promovendo a capacidade de inovação dos investimentos nelas integrados;\n\nc) Colaborar com os serviços centrais e regionais do MAPA, cooperativas ou outras associações de agricultores ou com empresas públicas ou privadas, de molde a contribuir significativamente, nos respectivos domínios, para a resolução dos problemas agrários de maior interesse para o desenvolvimento sócio-económico regional e nacional;\n\nd) Apoiar a execução das acções de desenvolvimento experimental e de demonstração a cargo dos serviços do MAPA;\n\ne) Participar em programas integrados de I-DE;\n\nf) Assegurar a divulgação do conhecimento original produzido pelo seu pessoal ou do conhecimento científico e técnico disponível;\n\ng) Promover o aperfeiçoamento do pessoal, dos pontos de vista científico e técnico, incluindo a orientação de trabalhos que visem a obtenção de graus académicos em universidades nacionais ou estrangeiras, e colaborar nas acções de formação escolar e profissional, recorrendo, quando conveniente, a cursos ou estágios;\n\nh) Propor o recrutamento de pessoal e a aquisição de meios materiais necessários ao bom funcionamento e à execução dos projectos aprovados;\n\ni) Assegurar a administração dos recursos humanos e a gestão dos meios materiais que lhes estão afectos."
+  },
+  "162159354": {
+   "fragment_id": "162229712",
+   "type": 11,
+   "heading": "Artigo 13.º — Definição e objectivos dos SNIDEs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Definição e objectivos dos SNIDEs\n\nOs SNIDEs são unidades orgânicas vocacionadas para a realização de actividades científicas nos domínios de I-DE e OACT em áreas de actividades específicas e para a promoção de transferência e aplicação prática da ciência e tecnologia junto de outros organismos e dos operadores económicos interessados."
+  },
+  "162159355": {
+   "fragment_id": "162229713",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências dos SNIDEs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências dos SNIDEs\n\nAos SNIDEs compete, designadamente:\n\na) Dar cumprimento aos objectivos superiormente definidos, de acordo com a política nacional para o sector agrário e agro-industrial, assegurando a elaboração e execução de programas ou projectos de I-DE, bem como outras actividades respeitantes aos seus domínios científicos e tecnológicos;\n\nb) Efectuar estudos de I-DE conducentes à adequada protecção das culturas e dos produtos agrícolas, considerando os vários meios de intervenção e procurando satisfazer, em cada caso, as exigências económicas, ecológicas e toxicológicas que a protecção impõe;\n\nc) Efectuar estudos de I-DE no âmbito do teste de conhecimento científico para a sua afirmação e concretização e da normalização e regulamentação técnica e promover ou colocar na legislação e regulamentação das áreas de actividades que lhes forem cometidas;\n\nd) Promover a utilização sistemática dos conhecimentos existentes com vista à adequada protecção das culturas e dos produtos agrícolas e ao estabelecimento de novas produções, processos, sistemas ou serviços ou para a melhoria significativa dos já existentes;\n\ne) Promover, coordenar ou realizar estudos e acções conducentes à homologação, certificação ou controle das qualidades dos factores intermédios de produção que interessem às áreas de actividades que lhes forem cometidas, ou à adequada utilização destes, bem como dos produtos nelas originados."
+  },
+  "162159356": {
+   "fragment_id": "162229714",
+   "type": 11,
+   "heading": "Artigo 15.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Estrutura\n\n1 - As ENIDEs e os SNIDEs, para o exercício das suas competências, dispõem de órgãos e serviços.\n\n2 - São órgãos das ENIDEs e dos SNIDEs:\n\na) Director;\n\nb) Conselho de investigação;\n\nc) Conselho consultivo;\n\nd) Conselho administrativo.\n\n3 - As ENIDEs e os SNIDEs poderão dispor de serviços de apoio nas áreas de planeamento, de estatística, de informática, de informação, de documentação técnica e de administração.\n\n4 - As ENIDEs e os SNIDEs dispõem, obrigatoriamente, nas áreas de I-DE e OACT de departamentos científicos e secções científicas e, facultativamente, de centros, laboratórios e postos experimentais."
+  },
+  "162159357": {
+   "fragment_id": "162229715",
+   "type": 11,
+   "heading": "Artigo 16.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Director\n\n1 - A direcção das ENIDEs e dos SNIDEs será assegurada por um director, que será coadjuvado por um ou dois subdirectores, destinando-se, neste caso, um deles à gestão científica e outro à gestão administrativa e financeira.\n\n2 - Os cargos de director e subdirector das ENIDEs e dos SNIDEs são equiparados a subdirector-geral e director de serviços, respectivamente.\n\n3 - Ao director das ENIDEs ou dos SNIDEs compete:\n\na) Assegurar a gestão e a coordenação global das actividades da respectiva ENIDE ou SNIDE, bem como a sua representação e participação nos órgãos do INIA e outros organismos do MAPA em que estiverem representados;\n\nb) Definir, de acordo com os princípios da política agrária nacional, os objectivos e linhas de orientação da ENIDE ou do SNIDE, bem como a sua estratégia de actuação;\n\nc) Apresentar ao presidente do INIA o plano anual de actividades, o relatório de execução correspondente e o parecer que os mesmos tiverem obtido do conselho de investigação;\n\nd) Promover formas de gestão que acentuem o sentido participativo e a capacidade criadora das chefias e quadros técnicos;\n\ne) Presidir aos conselhos de investigação, consultivo ou técnico e administrativo;\n\nf) Designar, sob proposta do conselho de investigação, um dos seus membros para o conselho administrativo;\n\ng) Deslocar e afectar pessoal dentro da área da respectiva ENIDE ou SNIDE."
+  },
+  "162159358": {
+   "fragment_id": "162229716",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho de investigação\n\n1 - O conselho de investigação é um órgão de natureza consultiva, com a finalidade de apoiar o director no equacionamento das linhas de orientação, acompanhamento e avaliação das suas actividades.\n\n2 - São, obrigatoriamente, membros do conselho de investigação:\n\na) Director;\n\nb) Subdirectores;\n\nc) Investigadores-coordenadores;\n\nd) Coordenadores dos departamentos científicos;\n\ne) Directores de serviços dos SNIDEs.\n\n3 - A restante composição e normas gerais de funcionamento do conselho de investigação serão definidas no diploma a que se refere o artigo 42.º\n\n4 - Ao conselho de investigação compete emitir parecer sobre:\n\na) Os planos de actividade anuais ou plurianuais e propor os ajustamentos considerados necessários;\n\nb) O enquadramento geral em que se desenvolverão as actividades de investigação resultantes de projectos conjuntos com outras instituições;\n\nc) A exequibilidade de actividades de investigação a desenvolver no âmbito de programas integrados ou outros de natureza interinstitucional;\n\nd) As acções necessárias à execução do Decreto Regulamentar n.º 78/80, de 15 de Dezembro;\n\ne) As orientações gerais das publicações científicas e a composição dos corpos editoriais;\n\nf) O relatório anual de actividades;\n\ng) Os relatórios de actividades relativos à participação de investigadores ou unidades de investigação em programas integrados ou outros de natureza interinstitucional;\n\nh) Qualquer outro assunto que lhe seja submetido pelo presidente, no âmbito das suas competências.\n\n5 - Compete ainda ao conselho de investigação:\n\na) Apreciar a gestão científica da ENIDE ou do SNIDE, procurando adequá-la às linhas definidas pelo MAPA através dos órgãos do INIA e do respectivo conselho consultivo;\n\nb) Propor um dos seus membros para o conselho administrativo;\n\nc) Propor ao director, e ou cometer a membros do conselho, a realização de tarefas específicas necessárias ao preenchimento das funções que lhe são próprias."
+  },
+  "162159359": {
+   "fragment_id": "162229717",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva e apoio ao director, no âmbito da definição da estratégia de actuação orientada para a solução dos problemas e aspirações mais importantes dos interessados nas actividades de I-DE.\n\n2 - O conselho consultivo, congregando os interesses dos destinatários das actividades de I-DE e OACT a desenvolver, veiculará as aspirações daqueles e transmitirá os objectivos e planos de acção que este se propõe desenvolver.\n\n3 - A composição e normas de funcionamento do conselho consultivo serão definidas no diploma a que se refere o artigo 42.º\n\n4 - Ao conselho consultivo compete, designadamente:\n\na) Veicular e analisar a informação sobre as reais necessidades e aspirações das entidades interessadas nas actividades de I-DE e transmitir-lhes as políticas e objectivos a atingir;\n\nb) Pronunciar-se sobre o plano de actividades de I-DE;\n\nc) Propor a adopção de quaisquer medidas que se reputem convenientes no âmbito das actividades do serviço."
+  },
+  "162159360": {
+   "fragment_id": "162229718",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho técnico do Centro Nacional de Protecção da Produção Agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conselho técnico do Centro Nacional de Protecção da Produção Agrícola\n\nNo Centro Nacional de Protecção da Produção Agrícola funciona um conselho técnico, em substituição do conselho consultivo, com funções de apoio ao director no âmbito do planeamento e desenvolvimento das suas actividades, com a composição, competências e forma de funcionamento que vierem a ser fixadas no diploma a que se refere o artigo 44.º"
+  },
+  "162159361": {
+   "fragment_id": "162229719",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conselho administrativo\n\n1 - O conselho administrativo é o órgão de gestão financeira e patrimonial, com a seguinte composição:\n\na) Director, que preside;\n\nb) Subdirector para a gestão administrativa financeira;\n\nc) Um membro do conselho de investigação;\n\nd) Chefe de repartição administrativa.\n\n2 - Ao conselho administrativo compete, designadamente:\n\na) Superintender na gestão financeira e patrimonial do serviço;\n\nb) Promover a elaboração do orçamento de conta das dotações atribuídas no orçamento do INIA e propor as alterações consideradas necessárias;\n\nc) Promover a elaboração dos orçamentos anuais, ordinários e suplementares, de aplicação de receitas próprias a submeter à aprovação dos serviços centrais do INIA;\n\nd) Zelar pela cobrança das receitas e promover o seu depósito nos termos legais;\n\ne) Promover e autorizar a venda de produtos que, nos termos da legislação em vigor, constituam receita própria do serviço;\n\nf) Adjudicar e contratar estudos, serviços e fornecimentos necessários à prossecução das actividades do serviço no âmbito do seu orçamento;\n\ng) Verificar a legalidade das despesas e autorizar o seu pagamento;\n\nh) Fiscalizar a escrituração da contabilidade e proceder à verificação regular dos valores em cofre e em depósito;\n\ni) Superintender na organização anual da conta de gerência e submetê-la aos serviços centrais do INIA no prazo legalmente estabelecido;\n\nj) Pronunciar-se sobre qualquer outro assunto que no âmbito das suas competências lhe seja submetido pelo presidente.\n\n3 - O conselho administrativo poderá delegar no seu presidente algumas das suas competências, fixando-lhe os respectivos limites.\n\n4 - O conselho administrativo poderá ainda delegar nos dirigentes dos serviços algumas das suas competências para a realização de despesas, dentro dos limites legalmente estabelecidos.\n\n5 - As entidades referidas no número anterior prestarão mensalmente contas, podendo ser constituídos, sob sua responsabilidade, fundos de maneio para ocorrer ao pagamento das despesas que devam ser satisfeitas a dinheiro.\n\n6 - As normas de funcionamento do conselho administrativo serão definidas no diploma a que se refere o artigo 44.º"
+  },
+  "162159362": {
+   "fragment_id": "162229720",
+   "type": 11,
+   "heading": "Artigo 21.º — Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Repartição Administrativa\n\n1 - As ENIDEs e os SNIDEs dispõem de uma Repartição Administrativa, à qual compete promover a administração dos recursos humanos e a gestão dos meios financeiros e patrimoniais, bem como assegurar o respectivo apoio técnico-administrativo aos órgãos e serviços.\n\n2 - A Repartição Administrativa, para o desenvolvimento das suas actividades, deverá articular-se com a Direcção de Serviços de Administração dos serviços centrais do INIA e compreende as seguintes secções:\n\na) Secção de Pessoal e Expediente;\n\nb) Secção Financeira e Patrimonial.\n\n3 - À Secção de Pessoal e Expediente compete:\n\na) Assegurar o processamento dos elementos relacionados com os vencimentos, remunerações e outros abonos do pessoal, bem como dos descontos que sobre eles eventualmente incidam, e a elaboração dos documentos que lhes sirvam de suporte;\n\nb) Organizar e manter actualizado o cadastro de todo o pessoal e fornecer os elementos necessários ao tratamento informático da respectiva informação;\n\nc) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente;\n\nd) Assegurar o funcionamento do arquivo geral e a sua articulação com os arquivos dos diversos serviços;\n\ne) Superintender no pessoal auxiliar.\n\n4 - À Secção Financeira e Patrimonial compete:\n\na) Preparar os elementos necessários à elaboração do orçamento de conta das dotações do orçamento do INIA e propor as alterações consideradas adequadas;\n\nb) Elaborar o orçamento ordinário de contas de ordem, bem como os respectivos orçamentos suplementares;\n\nc) Assegurar a execução do orçamento e escriturar as receitas e as despesas;\n\nd) Assegurar o controle orçamental e financeiro;\n\ne) Manter uma contabilidade analítica que permita o adequado controle de custos;\n\nf) Organizar a conta anual de gerência e preparar os elementos necessários à elaboração do respectivo relatório;\n\ng) Fiscalizar o movimento de tesouraria, efectuando mensalmente o respectivo balanço;\n\nh) Promover, com observância das disposições legais aplicáveis, as medidas relativas às aquisições necessárias ao normal funcionamento dos serviços e assegurar as funções de economato;\n\ni) Assegurar a gestão do património e manter organizado o respectivo cadastro;\n\nj) Assegurar a gestão do parque de viaturas.\n\n5 - Adstrita à Repartição Administrativa funciona uma tesouraria, sob a responsabilidade de um tesoureiro, à qual compete arrecadar receitas, efectuar os levantamentos de fundos, efectuar o pagamento de despesas devidamente autorizadas e manter escriturados os livros de tesouraria."
+  },
+  "162159363": {
+   "fragment_id": "162229721",
+   "type": 11,
+   "heading": "Artigo 22.º — Departamentos científicos e secções científicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Departamentos científicos e secções científicas\n\n1 - Nas áreas de I-DE e OACT as ENIDEs e os SNIDEs organizam-se obrigatoriamente em departamentos científicos e secções científicas, delimitados em função das áreas de I-DE e de OACT que lhes sejam atribuídas.\n\n2 - Os departamentos científicos e secções científicas são integrados pelo pessoal de investigação, técnico e auxiliar afecto a uma mesma especialidade ou especialidades afins e pelos meios necessários à realização das actividades de investigação que lhes sejam cometidas.\n\n3 - Os departamentos científicos gozam de autonomia científica no âmbito da sua área de especialização, sem prejuízo das orientações gerais estabelecidas pelos órgãos do respectivo serviço ou dos serviços centrais do INIA, podendo dividir-se em secções científicas.\n\n4 - Um departamento científico só poderá constituir-se e permanecer se integrar um mínimo de três elementos da carreira de investigação, sendo pelo menos um de categoria superior ou igual a assistente de investigação, dedicando-se à mesma especialidade ou a especialidades afins.\n\n5 - Sempre que uma unidade de I-DE com área funcional individualizada não possua dimensão mínima para construir um departamento, será designada também por secção científica.\n\n6 - Os membros dos departamentos que forem investigadores ou doutorados constituirão o grupo responsável pelas acções de formação e especialização do pessoal do seu departamento.\n\n7 - Os actuais departamentos das ENIDEs e dos SNIDEs dispõem de um prazo de cinco anos para satisfazer as condições referidas no n.º 4."
+  },
+  "162159364": {
+   "fragment_id": "162229722",
+   "type": 11,
+   "heading": "Artigo 23.º — Centros, laboratórios e postos experimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Centros, laboratórios e postos experimentais\n\n1 - Nas áreas de I-DE ou OACT as ENIDEs e os SNIDEs poderão dispor também de centros, laboratórios e postos experimentais.\n\n2 - São centros as unidades de investigação não autónomas destinadas a fins específicos, com carácter multidisciplinar ou interdisciplinar, podendo eventualmente constituir agrupamentos de departamentos, sendo definidos fundamentalmente em função de finalidades bem diferenciadas dentro dos objectivos gerais do serviço, pela sua importância científica e sócio-económica ou pela sua diferenciação ecológica, constituindo preferencialmente a base para a formação de futuros organismos.\n\n3 - São laboratórios as estruturas necessárias à prossecução das actividades científicas, com utilização multidepartamental, exigindo funcionamento individualizado e cuja natureza não aconselha a sua inclusão em qualquer departamento ou serviço.\n\n4 - São postos experimentais as unidades capazes de suporte às actividades de adaptação regional de conhecimentos ou de colheita de dados em condições ecológicas e culturais perfeitamente definidas, dotadas de infra-estruturas adequadas ao estudo de sistemas culturais e dispondo dos quadros técnicos necessários."
+  },
+  "162159365": {
+   "fragment_id": "162229723",
+   "type": 11,
+   "heading": "Artigo 24.º — Coordenação das unidades orgânicas de I-DE e OACT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Coordenação das unidades orgânicas de I-DE e OACT\n\n1 - A coordenação de todas as unidades de I-DE e OACT será feita por funcionários da carreira de investigação, salvo os postos experimentais, os quais poderão ser coordenados por funcionários das carreiras técnica superior ou técnica.\n\n2 - A designação dos coordenadores de todas as unidades orgânicas de I-DE será de nomeação do presidente do INIA, sob proposta do director, ouvido o conselho de investigação."
+  },
+  "162159366": {
+   "fragment_id": "162229724",
+   "type": 8,
+   "heading": "Secção IV — Dos departamentos e das unidades experimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Dos departamentos e das unidades experimentais"
+  },
+  "162159367": {
+   "fragment_id": "162229725",
+   "type": 11,
+   "heading": "Artigo 25.º — Definição, objectivos e competências dos departamentos e das unidades experimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Definição, objectivos e competências dos departamentos e das unidades experimentais\n\n1 - Os departamentos e unidades experimentais (herdades, quintas, matas e campos) são unidades orgânicas especializadas de I-DE, de âmbito nacional e não integradas nas ENIDEs e nos SNIDEs, que coordenam áreas de actuação nos vários domínios da sua especialidade, competindo-lhes, designadamente, propor e executar o respectivo plano de actividades.\n\n2 - São departamentos:\n\na) Departamento de Estudo de Economia e Sociologia Agrária, com sede em Lisboa;\n\nb) Departamento de Horticultura e Floricultura, com sede em Oeiras:\n\nc) Departamento de Regadio, com sede em Coruche.\n\n3 - Constituem unidades experimentais:\n\nCourelas de Alvalade do Sado;\n\nHerdade do Monte dos Alhos;\n\nHerdade da Fataca;\n\nPaul dos Magos;\n\nQuinta dos Peões;\n\nViveiro de Bragança;\n\nViveiro de S. Julião;\n\nQuinta da Foja;\n\nQuinta do Canal;\n\nCampo de Taveiro;\n\nQuinta dos Lamaçais;\n\nHerdade da Revilheira;\n\nHerdade dos Pinhais;\n\nHerdade do Picão;\n\nHerdade das Pedras;\n\nCasal dos Zunidos e Anexos;\n\nViveiro do Escaroupim.\n\n4 - A criação ou extinção de departamentos e unidades experimentais compete ao ministro da tutela, sob proposta do presidente do INIA.\n\n5 - Os departamentos são dirigidos por directores de serviços.\n\n6 - As unidades experimentais são coordenadas por pessoal da carreira técnica superior."
+  },
+  "162159368": {
+   "fragment_id": "162229726",
+   "type": 1,
+   "heading": "Capítulo III — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gestão financeira e patrimonial"
+  },
+  "162159369": {
+   "fragment_id": "162229727",
+   "type": 11,
+   "heading": "Artigo 26.º — Princípios e instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípios e instrumentos de gestão\n\nA actuação do INIA assenta numa gestão por objectivos e adequado controle orçamental e é disciplinada pelos seguintes instrumentos:\n\na) Planos de actividade anuais e plurianuais, com definição dos objectivos e correspondentes planos de acção, devidamente quantificados;\n\nb) Orçamento anual elaborado com base no respectivo plano de actividades e com os desdobramentos internos que permitam a desconcentração de competências e adequado controle de gestão;\n\nc) Sistema de informação integrado, de gestão, com indicadores periódicos, que permita o acompanhamento e avaliação das actividades desenvolvidas e a introdução de correcções em tempo oportuno, sempre que necessário;\n\nd) Relatório anual de actividades, a elaborar até final do 1.º trimestre do ano seguinte;\n\ne) Conta de gerência e relatório financeiro, a elaborar nos prazos legais."
+  },
+  "162159370": {
+   "fragment_id": "162229728",
+   "type": 11,
+   "heading": "Artigo 27.º — Receitas próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Receitas próprias\n\n1 - Para além das dotações concedidas pelo Orçamento do Estado, constituem receitas próprias do INIA:\n\na) As quantias cobradas por serviços prestados a quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras;\n\nb) O produto da venda das patentes de invenção de materiais e de novas tecnologias;\n\nc) O produto da venda de publicações e impressos por si editados;\n\nd) As quantias arrecadadas pela venda de produtos das explorações a seu cargo ou das que lhe forem cedidas para as suas actividades;\n\ne) As comparticipações ou subsídios atribuídos por quaisquer entidades oficiais ou particulares e legalmente aceites;\n\nf) O produto de venda de materiais ou serviços especializados em execução de contratos de investigação que lhe sejam encomendados;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n2 - Os serviços prestados, bem como as patentes de invenção e produtos vendidos, serão cobrados de acordo com preços fixados caso a caso ou com tabelas que vierem a ser aprovadas por portaria do ministro da tutela.\n\n3 - Na movimentação e utilização das receitas próprias observar-se-á o regime definido no Decreto-Lei n.º 459/82, de 26 de Novembro."
+  },
+  "162159371": {
+   "fragment_id": "162229729",
+   "type": 11,
+   "heading": "Artigo 28.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Despesas\n\n1 - Constituem despesas dos serviços do INIA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.\n\n2 - Na realização das despesas respeitar-se-ão os condicionalismos e imperativos decorrentes do orçamento e dos planos aprovados e, bem assim, as prioridades que vierem a ser fixadas.\n\n3 - Os pagamentos devem ser efectuados, em regra, por meio de cheques, que serão entregues em troca dos respectivos recibos, devidamente legalizados.\n\n4 - O conselho administrativo poderá levantar e manter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devem ser satisfeitas a dinheiro.\n\n5 - Todos os documentos relativos a recebimentos e a pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo director de Serviços de Administração ou pelos seus substitutos legais, podendo o conselho administrativo, nos casos em que se justifique, autorizar a assinatura por outros funcionários."
+  },
+  "162159372": {
+   "fragment_id": "162229730",
+   "type": 11,
+   "heading": "Artigo 29.º — Normas de contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Normas de contabilidade\n\n1 - A contabilidade dos serviços do INIA deverá adequar-se às necessidades da respectiva gestão, permitir um controle orçamental permanente e, bem assim, a fácil verificação da relação existente entre os valores patrimoniais e financeiros e os correspondentes elementos contabilísticos.\n\n2 - Os serviços do INIA deverão manter uma contabilidade analítica, a fim de procederem ao apuramento dos custos da participação de cada unidade orgânica em cada um dos programas e projectos e, bem assim, do seu custo global, tendo em vista uma gestão integrada.\n\n3 - Para satisfação das necessidades referidas nos números anteriores os serviços do INIA poderão aplicar, adaptado às suas realidades específicas e fundamentalmente como um instrumento de gestão, o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 47/77, de 7 de Fevereiro.\n\n4 - As normas a que deverá obedecer a organização da contabilidade serão definidas por despacho do ministro da tutela."
+  },
+  "162159373": {
+   "fragment_id": "162229731",
+   "type": 11,
+   "heading": "Artigo 30.º — Movimentação de depósitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Movimentação de depósitos\n\n1 - O numerário dos serviços do INIA será depositado na Caixa Geral de Depósitos.\n\n2 - A movimentação dos depósitos será efectuada por meio de cheques ou transferências bancárias e está isenta de imposto do selo e prémio de transferência."
+  },
+  "162159374": {
+   "fragment_id": "162229732",
+   "type": 11,
+   "heading": "Artigo 31.º — Cobrança coerciva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cobrança coerciva\n\n1 - A cobrança coerciva das dívidas provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em dinheiro ou haja sido reconhecida por despacho do ministro da tutela far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.\n\n2 - O processo terá por base certidão, passada pela Direcção de Serviços de Administração, da qual constem os seguintes elementos:\n\na) Nome ou denominação e domicílio ou sede do devedor;\n\nb) Proveniência da dívida e indicação por extenso do seu montante;\n\nc) Data a partir da qual são devidos juros de mora;\n\nd) Data da certidão e assinatura da entidade emitente, devidamente autenticada com o selo branco ou carimbo do serviço respectivo.\n\n3 - Os juros de mora de devedor a que alude a alínea c) do número anterior contam-se a partir do último dia do prazo fixado para o pagamento."
+  },
+  "162238575": {
+   "fragment_id": "162229733",
+   "type": 11,
+   "heading": "Artigo 32.º — Gestão financeira e patrimonial das ENIDEs e dos SNIDEs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Gestão financeira e patrimonial das ENIDEs e dos SNIDEs\n\n1 - As normas constantes do presente capítulo serão aplicáveis à elaboração e execução dos orçamentos das ENIDEs e dos SNIDEs, com as necessárias adaptações, em conformidade com a autonomia administrativa que lhes é concedida.\n\n2 - As receitas próprias dos organismos referidos no número anterior serão fixadas nos diplomas a que se refere o artigo 42.º"
+  },
+  "162238576": {
+   "fragment_id": "162229734",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "162238577": {
+   "fragment_id": "162229735",
+   "type": 11,
+   "heading": "Artigo 33.º — Quadro e regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Quadro e regime de pessoal\n\n1 - O quadro próprio de pessoal do INIA é o fixado na Portaria n.º 452-A/86, de 20 de Agosto, para o ex-INIAER, com as alterações constantes do mapa anexo ao presente diploma e sem prejuízo do disposto no número seguinte.\n\n2 - As ENIDEs e os SNIDEs disporão de contingentes de pessoal do quadro referido no número anterior, que serão fixados em mapas anexos aos diplomas a que se refere o n.º 1 do artigo 42.º, dos quais constarão ainda os lugares dirigentes, de harmonia com a estrutura que vier a ser instituída.\n\n3 - O contingente dos serviços centrais será fixado por portaria do Ministro da Agricultura, Pescas e Alimentação."
+  },
+  "162238578": {
+   "fragment_id": "162229736",
+   "type": 11,
+   "heading": "Artigo 34.º — Provimento do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Provimento do pessoal dirigente\n\n1 - O provimento do pessoal dirigente do INIA será feito nos termos da lei em vigor.\n\n2 - O cargo de director de ENIDE ou de SNIDE será provido por despacho do ministro da tutela, sob proposta do presidente do INIA, com audição, respectivamente, do conselho de investigação ou do conselho técnico, devendo, no primeiro caso, recair preferencialmente num investigador-coordenador.\n\n3 - O cargo de subdirector para a gestão científica e técnica de ENIDE ou de SNIDE será provido por despacho do ministro da tutela, sob proposta do director, acompanhada do parecer do conselho de investigação, devendo a escolha recair preferencialmente num investigador.\n\n4 - No caso de haver um único subdirector, será preferencialmente um investigador."
+  },
+  "162238579": {
+   "fragment_id": "162229737",
+   "type": 1,
+   "heading": "Capítulo V — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições gerais"
+  },
+  "162238580": {
+   "fragment_id": "162229738",
+   "type": 11,
+   "heading": "Artigo 35.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Funcionamento\n\n1 - O funcionamento do INIA assenta na estrutura definida neste diploma.\n\n2 - No desenvolvimento das actividades cuja realização deva ficar a cargo de diversos serviços o INIA adopta uma organização de trabalhos suportada numa estrutura matricial da actividade científica e técnica, por projectos integrados em programas devotados ao avanço da ciência e ao estudo dos recursos ecológicos, à utilização dos factores de produção, da transformação dos produtos agrários e das implicações sócio-económicas, aplicando tecnologia criativa e inovatória."
+  },
+  "162238581": {
+   "fragment_id": "162229739",
+   "type": 11,
+   "heading": "Artigo 36.º — Programas e projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Programas e projectos\n\n1 - Os programas são conjuntos multidisciplinares de projectos reunidos pela afinidade ou complementaridade das suas matérias e pela identidade dos seus objectivos comuns e destinam-se a alcançar metas de progresso, previamente determinadas, nos domínios da ciência, produção ou transformação agrária a que digam respeito.\n\n2 - Os programas integrados são conjuntos de projectos afins ou complementares, normalmente executados em dois ou mais organismos ou serviços, cujos objectivos concorrem para atingir finalidades definidas pelo conselho científico do INIA, através de um processo de planeamento integrado.\n\n3 - Cada projecto visa a obtenção de um objectivo específico e bem determinado, sendo executado por uma equipa, que reunirá cientistas e técnicos do mesmo ou diferentes serviços ou especialidades, apoiada pelos sectores especializados do INIA, incumbindo-lhe:\n\na) Executar os trabalhos e acções que constituem o projecto;\n\nb) Preparar o relatório de execução e apresentação dos resultados parciais e sugerir a abertura de novas linhas de estudo suscitadas pela execução do projecto.\n\n4 - O conselho científico regulará o projecto e metodologias a seguir na análise, avaliação e selecção de projectos.\n\n5 - O financiamento dos programas integrados é assegurado através do orçamento dos serviços centrais do INIA, em cuja programação se incluem, e das comparticipações dos orçamentos dos organismos e serviços em que forem executados.\n\n6 - A coordenação dos projectos que se desenvolvem no âmbito de um programa integrado é assegurada por um coordenador, designado pelo presidente do INIA, ouvido o conselho científico.\n\n7 - A coordenação dos projectos que se desenvolvem no âmbito de um programa é assegurada por um coordenador de programa, designado pelo director da ENIDE ou do SNIDE.\n\n8 - O coordenador de programa ou de programa integrado é responsável pela planificação e coordenação, a nível global, do trabalho das equipas de projectos que integram o programa e da gestão dos meios financeiros a ele consignados, incumbindo-lhe:\n\na) Manter devidamente actualizada a planificação e a programação dos trabalhos a realizar;\n\nb) Orientar e coordenar a execução dos projectos, fomentando a criação e a manutenção de espírito de equipa;\n\nc) Acordar com os dirigentes dos serviços intervenientes os princípios e modalidades concretos de cooperação;\n\nd) Manter-se permanentemente informado de todos os projectos em curso, acompanhando e avaliando a execução do programa e tomando, em colaboração com os dirigentes dos serviços executores, as medidas correctivas convenientes;\n\ne) Propor superiormente as medidas que contribuam para uma boa gestão dos projectos que integram o programa;\n\nf) Formular propostas fundamentadas para o prolongamento dos prazos de execução do programa, quando tal se torne necessário;\n\ng) Coordenar as ligações entre os serviços intervenientes no programa e entidades externas, públicas ou privadas, interessadas no seu desenvolvimento;\n\nh) Propor a aprovação de novos projectos, no âmbito do programa, quando considerados necessários;\n\ni) Convocar as reuniões da equipa de gestão do programa e dirigir os respectivos trabalhos.\n\n9 - O coordenador de programa será assessorado por uma equipa, constituída pelos chefes dos projectos que integram o programa e, pelo menos, por um dos dirigentes dos serviços onde se executam esses projectos, à qual incumbe:\n\na) Reunir e analisar a informação necessária à coordenação geral do programa;\n\nb) Pronunciar-se sobre as medidas de correcção da estrutura do programa ou da sua execução financeira que ao longo do processo se evidenciarem necessárias.\n\n10 - O coordenador de programa será substituído nas suas ausências e impedimentos por um chefe de projecto, designado para o efeito por despacho do presidente do INIA ou pelo director da ENIDE ou do SNIDE, se o programa se desenvolver dentro da sua área científica.\n\n11 - A equipa de projecto, é coordenada por um chefe de projecto, designado por despacho, nos termos do número anterior, mediante proposta do coordenador de programa, ouvidos os dirigentes dos serviços onde se executa, incumbindo-lhe:\n\na) Planificar os estudos ou acções correspondentes às diferentes fases do projecto e, bem assim, a orientação, coordenação e dinamização das actividades dos cientistas e técnicos que integram a equipa de projecto;\n\nb) Garantir a consistência e eficácia dos estudos ou acções constantes do respectivo projecto e a sua conclusão nos prazos e condições fixados previamente."
+  },
+  "162238582": {
+   "fragment_id": "162229740",
+   "type": 11,
+   "heading": "Artigo 37.º — Articulação e colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Articulação e colaboração com outras entidades\n\n1 - No desempenho das suas atribuições poderá o INIA:\n\na) Articular a sua acção com outras entidades, nacionais ou estrangeiras, promovendo as ligações, acordos, convénios e associações e protocolos que se revelem de utilidade para o exercício das suas actividades;\n\nb) Solicitar e contactar a colaboração de serviços especializados nas áreas que igualmente respeitem à sua actividade;\n\nc) Promover e incentivar trocas de conhecimentos nos domínios das suas actividades com organismos nacionais ou estrangeiros;\n\nd) Cooperar com os restantes serviços do MAPA, designadamente com as direcções regionais de agricultura.\n\n2 - Mediante despacho do Ministro da Agricultura, Pescas e Alimentação, o INIA poderá estabelecer formas específicas de associação e participação de entidades públicas e privadas no âmbito da política de investigação agrária e agro-industrial."
+  },
+  "162238583": {
+   "fragment_id": "162229741",
+   "type": 11,
+   "heading": "Artigo 38.º — Prestação de serviços e exploração de patentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Prestação de serviços e exploração de patentes\n\n1 - O INIA poderá prestar serviços, no âmbito das suas atribuições, a entidades públicas ou privadas, bem como obter patentes de invenção e explorá-las, de acordo com os seus interesses.\n\n2 - Os preços dos serviços prestados, bem como da exploração das patentes, serão fixados em tabelas, a aprovar por portaria do ministro da tutela."
+  },
+  "162238584": {
+   "fragment_id": "162229742",
+   "type": 11,
+   "heading": "Artigo 39.º — Participação em exposições e reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Participação em exposições e reuniões\n\nO INIA poderá organizar, patrocinar ou participar em feiras, exposições, seminários, congressos ou outras realizações que se insiram no âmbito das suas actividades."
+  },
+  "162238585": {
+   "fragment_id": "162229743",
+   "type": 11,
+   "heading": "Artigo 40.º — Concessão de bolsas de estudo e prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Concessão de bolsas de estudo e prémios\n\nO INIA poderá, nos termos do que se encontrar regulamentado para os institutos de investigação, instituir e manter prémios, bolsas de estudo e outras formas de incentivo e apoio ao seu pessoal ou a entidades a ele estranhas que tenham contribuído de forma excepcional para a eficiência da instituição ou progresso do conhecimento científico e técnico no âmbito das suas atribuições."
+  },
+  "162238586": {
+   "fragment_id": "162229744",
+   "type": 11,
+   "heading": "Artigo 41.º — Contratos de seguro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Contratos de seguro de pessoal\n\nO INIA poderá efectuar contratos de seguro contra acidentes do seu pessoal, nomeadamente quando, no exercício das suas funções, esteja exposto a maiores riscos, mediante a observância das disposições legais aplicáveis."
+  },
+  "162238587": {
+   "fragment_id": "162229745",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "162238588": {
+   "fragment_id": "162229746",
+   "type": 11,
+   "heading": "Artigo 42.º — Diplomas orgânicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Diplomas orgânicos\n\n1 - Sem prejuízo do disposto no presente decreto-lei, as atribuições, competências, estrutura, funcionamento, bem como o contingente de pessoal, de cada ENIDE e SNIDE serão objecto de decretos regulamentares.\n\n2 - Até à publicação dos diplomas referidos no número anterior manter-se-ão em vigor os diplomas orgânicos e outras disposições com expressão na orgânica dos serviços respeitantes ao Centro Nacional de Protecção da Produção Agrícola, Laboratório Químico-Agrícola de Rebelo da Silva e Centro Nacional de Reconhecimento e Ordenamento Agrário, respectivamente Decreto Regulamentar n.º 43/78, de 28 de Setembro, Decreto Regulamentar n.º 68/78, de 24 de Dezembro, e Decreto-Lei n.º 497/80, de 20 de Outubro."
+  },
+  "162238589": {
+   "fragment_id": "162229747",
+   "type": 11,
+   "heading": "Artigo 43.º — Transição de pessoal para o quadro do INIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Transição de pessoal para o quadro do INIA\n\n1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, o pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço no ex-INIAER transitará para os lugares do quadro referido no n.º 1 do artigo 33.º, nos termos das regras pertinentes do Decreto Regulamentar n.º 41/84, de 28 de Maio, e demais legislação aplicável, processando-se a integração de harmonia com o estabelecido no Decreto-Lei n.º 146-C/80, de 22 de Maio.\n\n2 - Os funcionários do grupo de pessoal técnico superior ou que, sendo licenciados, se não encontrem inseridos naquele grupo e que desempenhem funções de I-DE há mais de três anos, contados à data da entrada em vigor do presente diploma, no Centro Nacional de Protecção da Produção Agrícola e no Laboratório Químico-Agrícola de Rebelo da Silva serão reclassificados no prazo de seis meses, tendo em conta a análise curricular individual, a efectuar pelos júris nomeados para o efeito e em conformidade com despacho normativo conjunto a assinar pelo ministro responsável pela coordenação científica e pelo Ministro da Agricultura, Pescas e Alimentação."
+  },
+  "162238590": {
+   "fragment_id": "162229748",
+   "type": 11,
+   "heading": "Artigo 44.º — Concurso para acesso às novas categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Concurso para acesso às novas categorias\n\nOs concursos para acesso às novas categorias criadas pelo Decreto-Lei n.º 248/85, de 15 de Julho, só poderão ser abertos após a entrada em vigor de todas as portarias de execução do referido diploma, elaborados no âmbito do Ministério."
+  },
+  "162238591": {
+   "fragment_id": "162229749",
+   "type": 11,
+   "heading": "Artigo 45.º — Serviços sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Serviços sociais\n\n1 - Enquanto não for instituída a obra social do MAPA, poderá o INIA, por si ou em colaboração com os SOFE, promover ou manter iniciativas no âmbito da acção social complementar.\n\n2 - Serão suportados pelas receitas próprias do INIA os encargos decorrentes das acções previstas no número anterior."
+  },
+  "162238592": {
+   "fragment_id": "162229750",
+   "type": 11,
+   "heading": "Artigo 46.º — Desalfandegamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Desalfandegamento\n\nO desalfandegamento de produtos, aparelhos e equipamentos inerentes às actividades do INIA terão o tratamento especial previsto nos Decretos-Leis n.os 507/85 e 511/85, de 31 de Dezembro."
+  },
+  "162238593": {
+   "fragment_id": "162229751",
+   "type": 11,
+   "heading": "Artigo 47.º — Transferência de património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Transferência de património\n\nO património, os créditos e demais direitos e obrigações de que é titular o ex-INIAER serão afectos ao INIA, nos termos que vierem a ser fixados por despacho do Ministro da Agricultura, Pescas e Alimentação."
+  },
+  "162238594": {
+   "fragment_id": "162229752",
+   "type": 11,
+   "heading": "Artigo 48.º — Providências orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Providências orçamentais\n\nAté à efectivação das competentes alterações orçamentais serão utilizadas pelo INIA as verbas constantes do orçamento do ex-INIAER."
+  },
+  "162238595": {
+   "fragment_id": "162229753",
+   "type": 11,
+   "heading": "Artigo 49.º — Revogação de legislação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Revogação de legislação anterior\n\nSem prejuízo do disposto no n.º 2 do artigo 43.º, são revogados o Decreto-Lei n.º 497/80, de 20 de Setembro, e os Decretos Regulamentares n.os 43/78, de 28 de Setembro, 39-A/79, de 31 de Julho, 68/79, de 24 de Dezembro, no que ao Laboratório Químico-Agrícola de Rebelo da Silva se refere, e 44/81, de 6 de Outubro, bem como quaisquer outras normas que contrariem o presente decreto-lei."
+  },
+  "162238596": {
+   "fragment_id": "162229754",
+   "type": 11,
+   "heading": "Artigo 50.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "162159337": {
+   "fragment_id": "162229695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 5-A/88\n\nde 14 de Janeiro\n\nA reestruturação que está a ser levada a efeito no âmbito do Ministério da Agricultura, Pescas e Alimentação impõe a reformulação dos vários serviços, de forma a adequar as estruturas a novos esquemas de gestão face ao impacte das novas condições criadas, nomeadamente em consequência da adesão à CEE.\n\nCom a publicação do Decreto-Lei n.º 310-A/86, de 23 de Setembro - Lei Orgânica do Ministério -, foi extinto o Instituto Nacional de Investigação Agrária e Extensão Rural (INIAER) e criado o Instituto de Investigação Agrária (INIA), com vista à clarificação do conteúdo da investigação agrária, libertando o organismo das actividades de extensão rural.\n\nCom a criação deste organismo pretende-se:\n\nA dignificação da instituição, em paridade com as homólogas nacionais e com as instituições dos países comunitários com que terá de manter diálogo permanente e assegurar resposta pronta e acreditada;\n\nA participação efectiva dos agentes interessados, pelo que se institui o conselho consultivo de investigação agrária;\n\nA máxima coordenação das suas actividades, quer integrando a capacidade científica de todas as suas estruturas orgânicas, quer integrando aquelas actividades na política de investigação e desenvolvimento experimental (I-DE) definida para o sector agrário e agro-industrial e na política de desenvolvimento regional e ciência definida para o País;\n\nA complementaridade efectiva entre as actividades de I-DE e as de outras actividades científicas e técnicas (OACT) que utilizem o método e tecnologia científicos nas suas actividades normais;\n\nA desconcentração das estruturas, pelo que as estações nacionais de I-DE e os serviços nacionais de I-DE e OACT disporão de autonomia administrativa, sem, no entanto, excluir a possibilidade de existência ou criação de outras unidades de I-DE capazes de se desenvolverem em novas áreas de actividade;\n\nO apoio, no âmbito científico, às direcções regionais de agricultura, como forma de estudar no agricultor utilizador os benefícios que a ciência e a tecnologia criam, através da experimentação e demonstração a nível regional;\n\nAssegurar a formação profissional a nível superior e pós-graduação no domínio do sector agrário e agro-industrial.\n\nÀ semelhança do que acontece com os outros organismos nacionais de investigação científica, nomeadamente o Laboratório Nacional de Engenharia Civil, o Laboratório Nacional de Engenharia e Tecnologia Industrial, dota-se o INIA de largo grau de autonomia, não apenas para despender programadamente as dotações do Estado, mas essencialmente para incentivar um esquema de receitas próprias, que será um índice de capacidade e do sucesso em certos domínios da sua actividade;\n\nA atribuição de autonomia administrativa e financeira representa o reconhecimento da elevada importância que a prestação de serviços à comunidade tem atingido, permitindo-se, por esta via, continuar um caminho de autofinanciamento, com consequente redução do actual grau de dependência do INIA do Orçamento do Estado, permitindo também a libertação de verbas que até então lhe estavam afectas e a sua canalização para outros fins.\n\nComo corolário desta evolução, a personalidade jurídica que lhe é atribuída conferir-lhe-á uma maior operacionalidade, permitindo constituir um acervo patrimonial cuja gestão e responsabilidade passará a assumir plenamente.\n\nPreviu-se, assim, um organismo pelo qual se restitui às actividades de I-DE a dignidade e responsabilidade que lhes é exigida, se articulam de forma homogénea e flexível as várias unidades responsáveis pela criação do conhecimento científico e seu encaminhamento até ao agricultor utilizador, se racionalizam e encurtam as actuações, se descentralizam e desburocratizam competências dos serviços e racionalizam as suas estruturas e quadros orgânicos e melhoram as condições de trabalho nos serviços, assegurando o melhor aproveitamento das capacidades dos que à ciência se dedicam e dos funcionários que com eles colaboram.\n\nRelativamente ao quadro de pessoal, o mesmo foi já objecto de correcto redimensionamento através da Portaria n.º 452-A/86, de 20 de Agosto, tendo-se procedido à redução de efectivos em determinadas carreiras a fim de compensar o reforço de pessoal de investigação e técnico, cujas carreiras se encontravam carecidas, de modo a permitir uma actuação mais operante e eficaz, havendo apenas que adaptar a parte referente a pessoal dirigente e de chefia à estrutura agora definida.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162238997": {
+   "fragment_id": "162229701",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": "1990-12-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 370/90 - Diário da República n.º 274/1990, Série I de 1990-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1990-564805), em vigor a partir de 1990-12-02"
+   ],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - O presidente é o órgão que dirige e coordena a actividade global do INIA, competindo-lhe, designadamente:\n\na) Presidir aos conselhos consultivo de investigação agrária, científico e administrativo;\n\nb) Definir, de acordo com os princípios da política agrária nacional, os objectivos e linhas de orientação do INIA, bem como a estratégia de actuação dos serviços;\n\nc) Apresentar superiormente, acompanhado do respectivo parecer, o plano anual de actividades do INIA e o correspondente relatório de execução;\n\nd) Promover formas de gestão consentâneas com as atribuições e características do organismo;\n\ne) Deslocar e afectar pessoal do INIA nos termos da lei;\n\nf) Assegurar a representação externa do INIA no domínio da política de I-DE e de OACT para o sector agrário;\n\ng) Representar o INIA em juízo, tendo, para o efeito, a devida assessoria.\n\n2 - O presidente será coadjuvado por dois vice-presidentes, nos quais poderá delegar as competências adequadas, podendo estes, por sua vez, subdelegar nos restantes dirigentes.\n\n3 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente que para o efeito for designado.\n\n4 - O presidente do INIA é equiparado, para todos os efeitos, ao cargo correspondente da Junta Nacional de Investigação Científica e Tecnológica (JNICT), sendo os vice-presidentes equiparados ao cargo de subdirector-geral.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 370/90 - Diário da República n.º 274/1990, Série I de 1990-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1990-564805), em vigor a partir de 1990-12-02"
+  },
+  "162238597": {
+   "fragment_id": "162229755",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro.\n\nPromulgado em 8 de Janeiro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Janeiro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo a que se refere o artigo 33.º\n\n(ver documento original)"
+  },
+  "162238999": {
+   "fragment_id": "162229696",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo I — Natureza e atribuições\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239000": {
+   "fragment_id": "162229697",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e objectivos",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e objectivos\n\n1 - O Instituto Nacional de Investigação Agrária, abreviadamente designado por INIA, a que se refere a alínea f) do n.º 4 do artigo 3.º do Decreto-Lei n.º 310-A/86, de 23 de Setembro, é um organismo dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio, que tem por objectivo apoiar o Ministro da Agricultura, Pescas e Alimentação na formulação e execução da política de investigação e desenvolvimento experimental (I-DE) para o sector agrário e agro-industrial.\n\n2 - O INIA compreende órgãos, serviços centrais, estações nacionais de investigação e desenvolvimento experimental (ENIDEs), serviços nacionais de investigação e desenvolvimento experimental e de outras de científicas e técnicas (SNIDEs), departamentos e unidades experimentais.\n\n3 - As ENIDEs e os SNIDEs são dotados de autonomia administrativa.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239001": {
+   "fragment_id": "162229698",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições e competências",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições e competências\n\n1 - Ao INIA incumbe contribuir para a elaboração e execução da política de I-DE para o sector agrário e agro-industrial, prestar apoio científico e técnico às actividades de experimentação e demonstração a nível regional, assegurar a protecção da produção agrícola a nível nacional, bem como dos solos da reserva agrícola nacional, promover, executar ou colaborar em trabalhos de cartografia agrícola e promover e implementar a formação profissional de pós-graduação com vista à formação de vulgarizadores, generalistas e especialistas, competindo-lhe, designadamente:\n\na) Contribuir para a formulação e concretização da política nacional de I-DE no âmbito do sector agrário e agro-industrial através da elaboração de estudos e apresentação de objectivos e programas adequados à dinamização da referida investigação, como forma de acelerar o desenvolvimento do sector;\n\nb) Assegurar e coordenar, com base nos programas definidos, as actividades de I-DE e a formação profissional de nível superior e pós-graduação no âmbito do Ministério da Agricultura, Pescas e Alimentação (MAPA), em colaboração com os Ministérios do Planeamento e da Administração do Território e da Educação;\n\nc) Assegurar internamente a lógica de complementaridade do sistema de I-DE, dinamizando e executando programas integrados agrários e agro-industriais de I-DE, onde os resultados científicos obtidos são testados e adaptados regionalmente às condições sócio-económicas existentes;\n\nd) Assegurar a existência de programas integrados de I-DE e zelar pelo seu funcionamento e concretização;\n\ne) Apoiar, nos aspectos científico e técnico, as actividades de experimentação e demonstração a nível regional;\n\nf) Assegurar a divulgação do conhecimento original produzido e do conhecimento científico e técnico disponível junto dos interessados;\n\ng) Promover a cooperação com instituições congéneres, nacionais e estrangeiras, e comissões especializadas, no domínio das actividades de I-DE, no âmbito do sector agrário e agro-industrial;\n\nh) Promover a preparação, execução e coordenação de acordos internacionais no âmbito da cooperação científica e técnica para o sector agrário e agro-industrial.\n\n2 - Os órgãos e serviços centrais do poder de orientação do INIA gozam de autonomia científica e técnica, sem prejuízo do poder de orientação do Ministro da Agricultura, Pescas e Alimentação e das metas fixadas no Plano Nacional Agrário, no domínio de I-DE, bem como da coordenação global da política científica nacional, atribuída ao ministério responsável pela coordenação científica.\n\n3 - As ENIDEs e os SNIDEs gozam de autonomia científica e técnica, sem prejuízo das orientações e coordenação que vierem a ser estabelecidas pelos órgãos e veiculadas pelos serviços centrais do INIA.\n\n4 - Os órgãos e serviços centrais, bem como as ENIDEs e os SNIDEs, actuarão integradamente com vista à prossecução dos objectivos que lhes são comuns.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239002": {
+   "fragment_id": "162229699",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços e suas competências",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo II — Órgãos e serviços e suas competências\n\nArtigo 3.º\n\nÓrgãos e serviços\n\nO INIA compreende os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Presidente;\n\nb) Conselho consultivo de investigação agrária;\n\nc) Conselho científico;\n\nd) Conselho administrativo;\n\n2) Serviços centrais:\n\na) Gabinete de Estudos e Planeamento;\n\nb) Direcção de Serviços de Administração;\n\nc) Direcção de Serviços de Informação Científica e Técnica e de Divulgação;\n\n3) ENIDEs:\n\na) Estação Agronómica Nacional, com sede em Oeiras:\n\nb) Estação Zootécnica Nacional, com sede em Santarém;\n\nc) Estação Florestal Nacional, com sede em Lisboa;\n\nd) Estação Nacional de Melhoramento de Plantas, com sede em Elvas;\n\ne) Estação Vitivinícola Nacional, com sede em Dois Portos;\n\nf) Estação Nacional de Fruticultura de Vieira Natividade, com sede em Alcobaça;\n\ng) Estação Nacional de Tecnologia dos Produtos Agrários, com sede em Oeiras;\n\n4) SNIDEs:\n\na) Centro Nacional de Reconhecimento e Ordenamento Agrário, com sede em Lisboa;\n\nb) Centro Nacional de Protecção da Produção agrícola com sede em Oeiras;\n\nc) Laboratório Químico-Agrícola de Rebelo da Silva, com sede em Lisboa;\n\n5) Departamentos e unidades experimentais.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239003": {
+   "fragment_id": "162229700",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "#### Secção I — Órgãos\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239004": {
+   "fragment_id": "162229701",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 370/90 - Diário da República n.º 274/1990, Série I de 1990-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1990-564805), em vigor a partir de 1990-12-02"
+   ],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - O presidente é o órgão que dirige e coordena a actividade global do INIA, competindo-lhe, designadamente:\n\na) Presidir aos conselhos consultivo de investigação agrária, científico e administrativo;\n\nb) Definir, de acordo com os princípios da política agrária nacional, os objectivos e linhas de orientação do INIA, bem como a estratégia de actuação dos serviços;\n\nc) Apresentar superiormente, acompanhado do respectivo parecer, o plano anual de actividades do INIA e o correspondente relatório de execução;\n\nd) Promover formas de gestão consentâneas com as atribuições e características do organismo;\n\ne) Deslocar e afectar pessoal do INIA nos termos da lei;\n\nf) Assegurar a representação externa do INIA no domínio da política de I-DE e de OACT para o sector agrário;\n\ng) Representar o INIA em juízo, tendo, para o efeito, a devida assessoria.\n\n2 - O presidente será coadjuvado por dois vice-presidentes, nos quais poderá delegar as competências adequadas, podendo estes, por sua vez, subdelegar nos restantes dirigentes.\n\n3 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente que para o efeito for designado.\n\n4 - O presidente do INIA é equiparado, para todos os efeitos, ao cargo correspondente da Junta Nacional de Investigação Científica e Tecnológica (JNICT), sendo os vice-presidentes equiparados ao cargo de subdirector-geral.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 370/90 - Diário da República n.º 274/1990, Série I de 1990-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1990-564805), em vigor a partir de 1990-12-02"
+  },
+  "162239005": {
+   "fragment_id": "162229702",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho consultivo de investigação agrária",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho consultivo de investigação agrária\n\n1 - O conselho consultivo de investigação agrária, abreviadamente designado por CCIA, é um órgão de natureza consultiva que tem como finalidade apoiar o presidente do INIA na definição das grandes linhas de orientação e no equacionamento das prioridades de acção e avaliação das actividades do INIA.\n\n2 - O CCIA é constituído pelos seguintes elementos:\n\na) Presidente do INIA, que presidirá;\n\nb) Vice-presidentes do INIA;\n\nc) Directores regionais do MAPA;\n\nd) Directores-gerais ou equiparados nos serviços centrais do MAPA;\n\ne) Directores das ENIDEs e dos SNIDEs;\n\nf) Responsáveis pelos departamentos dos serviços centrais do INIA;\n\ng) Representantes designados pelas universidades onde se processe o ensino agrário e agro-industrial, até dois;\n\nh) Representantes designados pelas associações de agricultores de âmbito nacional, federações e confederações definidas nos artigos 82.º e 83.º do Código Cooperativo, até cinco;\n\ni) Representantes de outros grupos interprofissionais actuando no sector agro-industrial, até dois.\n\n3 - Sempre que se mostre conveniente para o esclarecimento das matérias em apreciação, o presidente poderá convocar ou convidar, com estatuto consultivo, elementos do MAPA ou a este estranhos.\n\n4 - As individualidades estranhas ao MAPA convidadas nos termos do número anterior terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transporte, nos termos legais.\n\n5 - O CCIA será secretariado por um funcionário designado pelo presidente, sem direito a voto.\n\n6 - Os representantes das organizações referidas nas alíneas g), h) e i) são por elas livremente designados e substituídos, em conformidade com os seus estatutos, mediante comunicação escrita ao presidente.\n\n7 - Ao CCIA compete, designadamente:\n\na) Contribuir para a definição da política e objectivos nacionais no âmbito da I-DE, nos termos da alínea a) do n.º 1 do artigo 2.º do presente diploma;\n\nb) Pronunciar-se sobre os grandes problemas do âmbito das actividades de I-DE do MAPA;\n\nc) Pronunciar-se sobre a execução dos planos anuais e plurianuais dos serviços centrais do INIA, das ENIDEs e dos SNIDEs;\n\nd) Pronunciar-se sobre quaisquer outros assuntos que, no âmbito das suas competências, lhe sejam presentes pelo presidente.\n\n8 - O CCIA reunirá em plenário duas vezes por ano e extraordinariamente quando for convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n9 - Os assuntos submetidos a apreciação do CCIA serão aprovados por maioria simples de votos dos membros presentes, dispondo o presidente de voto de qualidade.\n\n10 - As normas de funcionamento do CCIA constarão de regulamento interno a aprovar pelo próprio conselho.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239006": {
+   "fragment_id": "162229703",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho científico",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho científico\n\n1 - O conselho científico é um órgão de natureza consultiva e de apoio ao presidente do INIA sobre as linhas gerais de planeamentos de gestão de actividades científicas.\n\n2 - O conselho científico é constituído pelos seguintes membros:\n\na) Presidente do INIA, que presidirá;\n\nb) Vice-presidentes do INIA;\n\nc) Directores dos departamentos dos serviços centrais, das ENIDEs e dos SNIDEs;\n\nd) Coordenadores de programas integrados;\n\ne) Investigadores-coordenadores.\n\n3 - Mediante convocação do presidente, poderão participar, sem direito a voto, elementos do INIA ou a este estranhos especialmente qualificados para o esclarecimento das matérias em apreciação.\n\n4 - O conselho científico será secretariado por um funcionário, a designar pelo presidente, sem direito a voto.\n\n5 - O conselho científico pronunciar-se-á, designadamente, sobre:\n\na) A definição e concretização das grandes linhas orientadoras da actividade do INIA, bem como dos planos globais de gestão da actividade científica e técnica;\n\nb) As directrizes para a elaboração dos programas e projectos a inserir no Plano de Investimentos e Despesas de Desenvolvimento da Administração Central (PIDDAC) e dos planos de investigação e do programa anual de actividades do INIA;\n\nc) Os relatórios anuais de actividade do INIA;\n\nd) Os critérios especiais de admissão e selecção de pessoal, bem como de formação profissional, do INIA;\n\ne) Convénios de carácter científico e técnico a realizar com outros serviços do MAPA, universidades ou outros estabelecimentos de ensino superior e entidades nacionais, estrangeiras e internacionais;\n\nf) Os contratos-programas a celebrar pelo INIA com empresas públicas ou privadas e associações de agricultores;\n\ng) A compatibilização e articulações do conjunto dos programas do INIA, numa óptica global, face às orientações fundamentais que lhe forem definidas e à necessária optimização dos recursos;\n\nh) Dar parecer sobre as portarias a que se refere o artigo 44.º\n\n6 - O conselho científico reunirá em plenário ou por comissões especializadas, ordinariamente, quatro vezes por ano e, extraordinariamente, quando for convocado pelo seu presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n7 - Os assuntos submetidos à apreciação do conselho científico serão resolvidos por maioria simples de votos dos membros presentes.\n\n8 - As normas de funcionamento do conselho científico e das comissões especializadas serão objecto de regulamento interno, a aprovar pelo próprio conselho, sendo desde já criadas a Comissão Coordenadora de Programas Integrados e a Comissão Coordenadora para a Formação Profissional.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239007": {
+   "fragment_id": "162229704",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho administrativo",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho administrativo\n\n1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial, com a seguinte constituição:\n\na) O presidente do INIA, que presidirá;\n\nb) Um dos vice-presidentes do INIA;\n\nc) Um dirigente das ENIDEs e dos SNIDEs;\n\nd) O director do Gabinete de Estudos e Planeamento;\n\ne) O director de Serviços de Administração.\n\n2 - O presidente poderá delegar a presidência do conselho administrativo no seu substituto legal.\n\n3 - Participará no conselho administrativo, sem direito a voto, o chefe da Repartição Financeira e Patrimonial, que exercerá as funções de secretário.\n\n4 - Compete ao conselho administrativo:\n\na) Superintender na gestão financeira e patrimonial dos serviços centrais do INIA;\n\nb) Promover a elaboração dos planos financeiros anuais e plurianuais;\n\nc) Orientar a preparação dos projectos de orçamentos ordinários e suplementares;\n\nd) Zelar pela cobrança das receitas e promover o seu depósito;\n\ne) Verificar a legalidade das despesas e autorizar o respectivo pagamento;\n\nf) Fiscalizar a escrituração da contabilidade e proceder à verificação regular dos valores em cofre e em depósito;\n\ng) Aprovar as minutas de contratos em que o INIA seja parte;\n\nh) Adjudicar e contratar estudos, serviços e fornecimentos necessários à prossecução das actividades dos serviços centrais do INIA;\n\ni) Apreciar as contas de gerência e submetê-las, nos termos legais, a julgamento do Tribunal de Contas.\n\n5 - O conselho administrativo poderá delegar no seu presidente e nos dirigentes dos serviços algumas das suas competências.\n\n6 - O conselho administrativo poderá ainda constituir a favor dos dirigentes referidos no número anterior fundos de maneio para ocorrer ao pagamento das despesas que devam ser satisfeitas a dinheiro e de que prestarão contas mensalmente.\n\n7 - O conselho administrativo reunirá quinzenalmente em sessão ordinária e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n8 - As deliberações do conselho administrativo serão tomadas por maioria de votos dos membros presentes, tendo o presidente, em caso de empate, voto de qualidade.\n\n9 - As deliberações só podem ser tomadas estando presente a maioria dos seus membros.\n\n10 - Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas, salvo se não estiverem presentes ou, estando, fizerem exarar em acta voto de vencimento, devidamente fundamentado.\n\n11 - De cada reunião será lavrada acta, assinada pelo presidente e demais vogais presentes.\n\n12 - A preparação e a execução das deliberações do conselho administrativo serão asseguradas pela Direcção de Serviços de Administração.\n\n13 - Poderá participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário do INIA para tal convocado, sempre que o presidente o entender conveniente.\n\n14 - O conselho administrativo obriga-se mediante a assinatura de dois dos seus membros, sendo um deles o presidente ou o seu substituto legal.\n\n15 - O conselho administrativo elaborará o seu regulamento interno de funcionamento.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239008": {
+   "fragment_id": "162229705",
+   "type": 8,
+   "heading": "Secção II — Serviços centrais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "#### Secção II — Serviços centrais\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239009": {
+   "fragment_id": "162229706",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete de Estudos e Planeamento",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 8.º — Gabinete de Estudos e Planeamento\n\n1 - Ao Gabinete de Estudos e Planeamento, dirigido por um director de serviços, compete assegurar a recolha e tratamento da informação necessária à formulação da política de investigação e desenvolvimento experimental no sector agrário e agro-industrial, promover a apresentação formalizada e uniformizada dos planos e programas a curto, médio e longo prazos e solicitar aos serviços informação sobre o grau de execução das actividades por eles desenvolvidas.\n\n2 - Para o exercício das suas atribuições o Gabinete de Estudos e Planeamento estabelecerá as necessárias ligações com outras entidades, nomeadamente com os serviços de planeamento do Ministério, dispondo, para o efeito, das seguintes divisões:\n\na) Divisão de Planeamento e Projectos;\n\nb) Divisão de Informática e Estatística.\n\n3 - À Divisão de Planeamento e Projectos compete:\n\na) Elaborar os estudos necessários à formulação das propostas de actividades de I-DE com base nas orientações do plano de desenvolvimento agrário nacional e nas directrizes emanadas superiormente;\n\nb) Apoiar os serviços do INIA com vista à elaboração das suas propostas e planos de actividade decorrentes das linhas de actuação aprovadas, definir os sistemas necessários ao seu estabelecimento e recolher a informação sobre o grau de execução das actividades desenvolvidas por aqueles serviços;\n\nc) Manter em carteira programas e projectos de actividade de I-DE aprovados pelo INIA e propor fontes de financiamento para a sua execução;\n\nd) Estudar, em colaboração com as entidades interessadas, a viabilidade sócio-económica dos projectos do INIAE;\n\ne) Colaborar com os serviços do INIA na elaboração, concretização, controle económico-financeiro e avaliação dos programas e projectos;\n\nf) Promover a recolha sistemática de informação necessária para a avaliação da eficácia da actuação administrativa dos serviços do INIA, com vista à detecção e remoção dos estrangulamentos;\n\ng) Estudar e organizar, em colaboração com outras instituições ou com as ENIDEs e os SNIDEs, planos de formação profissional de pós-graduação dos funcionários do MAPA, habilitados, pelo menos, com o grau de bacharelato, com vista à formação de vulgarizadores, generalistas e especialistas, mantendo, para o efeito, estreitas relações com as universidades ou institutos onde se processe o ensino agrário e agro-industrial;\n\nh) Assegurar as necessárias ligações com os serviços de planeamento exteriores do INIA;\n\ni) Assegurar a elaboração do relatório anual da actividade do INIA.\n\n4 - À Divisão de Informática e Estatística compete:\n\na) Promover a elaboração de estudos e propostas com vista à definição dos meios informáticos mais adequados ao INIA, de acordo com as directrizes do Ministério;\n\nb) Apoiar os restantes serviços na definição das suas necessidades de informação, com vista à criação, manutenção e actualização de um banco de dados que suporte a formulação, acompanhamento e avaliação das actividades do INIA, garantindo o tratamento automático, de acordo com as suas características e com uma adequada gestão dos meios informáticos;\n\nc) Assegurar o estudo e execução das medidas tendentes à racionalização e modernização administrativa, de acordo com a política do Ministério, e apoiar os restantes serviços na implementação das técnicas da burótica;\n\nd) Assegurar a recolha, tratamento e divulgação de elementos estatísticos de interesse para o INIA ou de fornecimento obrigatório.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239010": {
+   "fragment_id": "162229707",
+   "type": 11,
+   "heading": "Artigo 9.º — Direcção de Serviços de Administração",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Administração\n\n1 - À Direcção de Serviços de Administração compete assegurar a gestão e administração dos recursos humanos, financeiros e patrimoniais, bem como assegurar o respectivo apoio técnico-administrativo aos órgãos e restantes serviços centrais do INIA.\n\n2 - A Direcção de Serviços de Administração deverá, para o desenvolvimento das suas actividades, articular-se com os órgãos e serviços do INIA e manter contactos com os serviços afins das restantes direcções-gerais e regionais do Ministério, dispondo, para o efeito, das seguintes repartições:\n\na) Repartição de Pessoal e Expediente;\n\nb) Repartição Financeira e Patrimonial.\n\n3 - À Repartição de Pessoal e Expediente compete assegurar a gestão dos recursos humanos do INIA e administração do pessoal dos serviços centrais, bem como o expediente da direcção e o arquivo geral do INIA, e compreende as seguintes secções:\n\na) Secção de Processamento;\n\nb) Secção de Pessoal e Expediente.\n\n4 - À Secção de Processamento compete:\n\na) Assegurar a análise e processamento dos elementos relacionados com os vencimentos, remunerações e outros abonos do pessoal dos serviços centrais do INIA, bem como dos descontos que sobre eles eventualmente incidam;\n\nb) Elaborar os documentos que sirvam de suporte ao tratamento informático dos elementos referidos na alínea anterior.\n\n5 - À Secção de Pessoal e Expediente compete:\n\na) Organizar e manter actualizado o cadastro de todo o pessoal do INIA e fornecer os elementos necessários ao tratamento automático da respectiva informação;\n\nb) Assegurar a preparação e execução das acções de recrutamento, selecção, promoção, formação e aperfeiçoamento profissional;\n\nc) Assegurar a execução dos processos de classificação de serviços e a publicação das listas de antiguidade do pessoal;\n\nd) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente dos serviços centrais do INIA;\n\ne) Assegurar o funcionamento do arquivo geral e a sua articulação com os arquivos dos vários serviços do INIA.\n\n6 - A Repartição Financeira e Patrimonial exerce as suas competências no âmbito das actividades relacionadas com a gestão dos meios financeiros e administração do património e compreende as seguintes secções:\n\na) Secção de Orçamento e Controle;\n\nb) Secção de Contabilidade;\n\nc) Secção de Património e Aprovisionamento.\n\n7 - À Secção de Orçamento e Controle compete:\n\na) Assegurar a elaboração dos orçamentos anual e suplementares do INIA, bem como o respectivo controle;\n\nb) Processar as requisições mensais de fundos de conta das dotações consignadas no Orçamento do Estado ao INIA;\n\nc) Fornecer aos serviços centrais de administração do orçamento do Ministério os elementos indispensáveis ao controle orçamental;\n\nd) Organizar a conta anual de gerência e preparar os elementos necessários à elaboração do respectivo relatório;\n\ne) Manter organizado o arquivo de toda a documentação das gerências findas;\n\nf) Controlar a aplicação de subsídios e empréstimos concedidos através do INIA.\n\n8 - À Secção de Contabilidade compete:\n\na) Assegurar a execução do orçamento e escriturar as receitas e despesas;\n\nb) Promover a liquidação e cobrança das receitas e o pagamento das despesas;\n\nc) Verificar e processar todos os documentos de despesa e organizar os respectivos processos;\n\nd) Manter uma contabilidade analítica que permita o adequado controle de custos;\n\ne) Fiscalizar o movimento de tesouraria, efectuando, sempre que necessário, o respectivo balanço;\n\nf) Assegurar o tratamento informático dos elementos de carácter financeiro.\n\n9 - À Secção de Património e Aprovisionamento compete:\n\na) Organizar e manter actualizado o inventário dos bens móveis e imóveis do INIA e assegurar a gestão do património dos serviços centrais;\n\nb) Assegurar o aproveitamento racional e a utilização dos edifícios e outras instalações, promovendo as remodelações e reparações que se tornem necessárias;\n\nc) Assegurar a gestão do parque de viaturas automóveis;\n\nd) Promover a aquisição de maquinaria e equipamento, material de transporte, mobiliário e demais equipamentos necessários, ouvidos os serviços competentes;\n\ne) Promover as demais aquisições necessárias ao funcionamento dos serviços e proceder à conservação e distribuição dos artigos armazenados e à gestão do armazém.\n\n10 - Adstrita à Repartição Financeira e Patrimonial funciona uma tesouraria, à qual compete:\n\na) Arrecadar todas as receitas pertencentes ao INIA;\n\nb) Efectuar o pagamento de todas as despesas devidamente autorizadas;\n\nc) Manter devidamente escriturados todos os livros de tesouraria.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239011": {
+   "fragment_id": "162229708",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de Serviços de Informação Científica e Técnica e de Divulgação",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Informação Científica e Técnica e de Divulgação\n\nA Direcção de Serviços de Informação Científica e Técnica e de Divulgação assegura o tratamento e divulgação da actividade científica e técnica do INIA, bem como as suas relações externas, competindo-lhe, designadamente:\n\na) Promover a realização de colóquios e reuniões científicas e técnicas e a participação do INIA em exposições e feiras de interesse para as suas actividades;\n\nb) Assegurar a realização de acções de intercâmbio, nomeadamente deslocações e missões de estudo, com entidades nacionais e estrangeiras;\n\nc) Assegurar, a nível do MAPA, em colaboração com os restantes serviços do mesmo, a gestão, divulgação e acessibilidade junto dos interessados de material documental e informativo necessário ao desenvolvimento das actividades científicas e técnicas, com vista à sua optimização;\n\nd) Assegurar a aquisição, permuta e oferta de publicações e documentos entre serviços e entidades nacionais e estrangeiros;\n\ne) Apoiar a Divisão de Informática e Estatística na análise de documentação e informação, com vista ao seu tratamento e divulgação por meios informáticos, e os órgãos e restantes serviços do INIA, fornecendo-lhes o material necessário ao desenvolvimento das suas actividades;\n\nf) Assegurar a implementação de sistemas de microfilmagem, de acordo com as necessidades do INIA;\n\ng) Coordenar a elaboração do plano de formação do pessoal do INIA;\n\nh) Apoiar o presidente na formação e manutenção da imagem do INIA junto do público.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239012": {
+   "fragment_id": "162229709",
+   "type": 8,
+   "heading": "Secção III — Das ENIDEs e dos SNIDEs",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "#### Secção III — Das ENIDEs e dos SNIDEs\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239013": {
+   "fragment_id": "162229710",
+   "type": 11,
+   "heading": "Artigo 11.º — Definição e objectivos das ENIDEs",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 11.º — Definição e objectivos das ENIDEs\n\n1 - As ENIDEs são unidades orgânicas vocacionadas para a realização de actividades científicas nos vários domínios de I-DE, sob orientação global e coordenação científica dos órgãos do INIA.\n\n2 - Cada ENIDE deverá corresponder a uma ou várias áreas das ciências agrárias, delimitadas em função de objectivos próprios e específicos.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239014": {
+   "fragment_id": "162229711",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências das ENIDEs",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 12.º — Competências das ENIDEs\n\nÀs ENIDEs compete, designadamente:\n\na) Dar cumprimento aos objectivos superiormente definidos, de acordo com a política nacional para o sector agrário e agro-industrial, assegurando a elaboração e execução dos programas e projectos de I-DE respeitantes aos respectivos domínios científicos;\n\nb) Desenvolver a investigação e assegurar uma adequada preparação ao seu pessoal, estimulando a criatividade e promovendo a capacidade de inovação dos investimentos nelas integrados;\n\nc) Colaborar com os serviços centrais e regionais do MAPA, cooperativas ou outras associações de agricultores ou com empresas públicas ou privadas, de molde a contribuir significativamente, nos respectivos domínios, para a resolução dos problemas agrários de maior interesse para o desenvolvimento sócio-económico regional e nacional;\n\nd) Apoiar a execução das acções de desenvolvimento experimental e de demonstração a cargo dos serviços do MAPA;\n\ne) Participar em programas integrados de I-DE;\n\nf) Assegurar a divulgação do conhecimento original produzido pelo seu pessoal ou do conhecimento científico e técnico disponível;\n\ng) Promover o aperfeiçoamento do pessoal, dos pontos de vista científico e técnico, incluindo a orientação de trabalhos que visem a obtenção de graus académicos em universidades nacionais ou estrangeiras, e colaborar nas acções de formação escolar e profissional, recorrendo, quando conveniente, a cursos ou estágios;\n\nh) Propor o recrutamento de pessoal e a aquisição de meios materiais necessários ao bom funcionamento e à execução dos projectos aprovados;\n\ni) Assegurar a administração dos recursos humanos e a gestão dos meios materiais que lhes estão afectos.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239015": {
+   "fragment_id": "162229712",
+   "type": 11,
+   "heading": "Artigo 13.º — Definição e objectivos dos SNIDEs",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 13.º — Definição e objectivos dos SNIDEs\n\nOs SNIDEs são unidades orgânicas vocacionadas para a realização de actividades científicas nos domínios de I-DE e OACT em áreas de actividades específicas e para a promoção de transferência e aplicação prática da ciência e tecnologia junto de outros organismos e dos operadores económicos interessados.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239016": {
+   "fragment_id": "162229713",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências dos SNIDEs",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 14.º — Competências dos SNIDEs\n\nAos SNIDEs compete, designadamente:\n\na) Dar cumprimento aos objectivos superiormente definidos, de acordo com a política nacional para o sector agrário e agro-industrial, assegurando a elaboração e execução de programas ou projectos de I-DE, bem como outras actividades respeitantes aos seus domínios científicos e tecnológicos;\n\nb) Efectuar estudos de I-DE conducentes à adequada protecção das culturas e dos produtos agrícolas, considerando os vários meios de intervenção e procurando satisfazer, em cada caso, as exigências económicas, ecológicas e toxicológicas que a protecção impõe;\n\nc) Efectuar estudos de I-DE no âmbito do teste de conhecimento científico para a sua afirmação e concretização e da normalização e regulamentação técnica e promover ou colocar na legislação e regulamentação das áreas de actividades que lhes forem cometidas;\n\nd) Promover a utilização sistemática dos conhecimentos existentes com vista à adequada protecção das culturas e dos produtos agrícolas e ao estabelecimento de novas produções, processos, sistemas ou serviços ou para a melhoria significativa dos já existentes;\n\ne) Promover, coordenar ou realizar estudos e acções conducentes à homologação, certificação ou controle das qualidades dos factores intermédios de produção que interessem às áreas de actividades que lhes forem cometidas, ou à adequada utilização destes, bem como dos produtos nelas originados.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239017": {
+   "fragment_id": "162229714",
+   "type": 11,
+   "heading": "Artigo 15.º — Estrutura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 15.º — Estrutura\n\n1 - As ENIDEs e os SNIDEs, para o exercício das suas competências, dispõem de órgãos e serviços.\n\n2 - São órgãos das ENIDEs e dos SNIDEs:\n\na) Director;\n\nb) Conselho de investigação;\n\nc) Conselho consultivo;\n\nd) Conselho administrativo.\n\n3 - As ENIDEs e os SNIDEs poderão dispor de serviços de apoio nas áreas de planeamento, de estatística, de informática, de informação, de documentação técnica e de administração.\n\n4 - As ENIDEs e os SNIDEs dispõem, obrigatoriamente, nas áreas de I-DE e OACT de departamentos científicos e secções científicas e, facultativamente, de centros, laboratórios e postos experimentais.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239018": {
+   "fragment_id": "162229715",
+   "type": 11,
+   "heading": "Artigo 16.º — Director",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 16.º — Director\n\n1 - A direcção das ENIDEs e dos SNIDEs será assegurada por um director, que será coadjuvado por um ou dois subdirectores, destinando-se, neste caso, um deles à gestão científica e outro à gestão administrativa e financeira.\n\n2 - Os cargos de director e subdirector das ENIDEs e dos SNIDEs são equiparados a subdirector-geral e director de serviços, respectivamente.\n\n3 - Ao director das ENIDEs ou dos SNIDEs compete:\n\na) Assegurar a gestão e a coordenação global das actividades da respectiva ENIDE ou SNIDE, bem como a sua representação e participação nos órgãos do INIA e outros organismos do MAPA em que estiverem representados;\n\nb) Definir, de acordo com os princípios da política agrária nacional, os objectivos e linhas de orientação da ENIDE ou do SNIDE, bem como a sua estratégia de actuação;\n\nc) Apresentar ao presidente do INIA o plano anual de actividades, o relatório de execução correspondente e o parecer que os mesmos tiverem obtido do conselho de investigação;\n\nd) Promover formas de gestão que acentuem o sentido participativo e a capacidade criadora das chefias e quadros técnicos;\n\ne) Presidir aos conselhos de investigação, consultivo ou técnico e administrativo;\n\nf) Designar, sob proposta do conselho de investigação, um dos seus membros para o conselho administrativo;\n\ng) Deslocar e afectar pessoal dentro da área da respectiva ENIDE ou SNIDE.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239019": {
+   "fragment_id": "162229716",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho de investigação",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 17.º — Conselho de investigação\n\n1 - O conselho de investigação é um órgão de natureza consultiva, com a finalidade de apoiar o director no equacionamento das linhas de orientação, acompanhamento e avaliação das suas actividades.\n\n2 - São, obrigatoriamente, membros do conselho de investigação:\n\na) Director;\n\nb) Subdirectores;\n\nc) Investigadores-coordenadores;\n\nd) Coordenadores dos departamentos científicos;\n\ne) Directores de serviços dos SNIDEs.\n\n3 - A restante composição e normas gerais de funcionamento do conselho de investigação serão definidas no diploma a que se refere o artigo 42.º\n\n4 - Ao conselho de investigação compete emitir parecer sobre:\n\na) Os planos de actividade anuais ou plurianuais e propor os ajustamentos considerados necessários;\n\nb) O enquadramento geral em que se desenvolverão as actividades de investigação resultantes de projectos conjuntos com outras instituições;\n\nc) A exequibilidade de actividades de investigação a desenvolver no âmbito de programas integrados ou outros de natureza interinstitucional;\n\nd) As acções necessárias à execução do Decreto Regulamentar n.º 78/80, de 15 de Dezembro;\n\ne) As orientações gerais das publicações científicas e a composição dos corpos editoriais;\n\nf) O relatório anual de actividades;\n\ng) Os relatórios de actividades relativos à participação de investigadores ou unidades de investigação em programas integrados ou outros de natureza interinstitucional;\n\nh) Qualquer outro assunto que lhe seja submetido pelo presidente, no âmbito das suas competências.\n\n5 - Compete ainda ao conselho de investigação:\n\na) Apreciar a gestão científica da ENIDE ou do SNIDE, procurando adequá-la às linhas definidas pelo MAPA através dos órgãos do INIA e do respectivo conselho consultivo;\n\nb) Propor um dos seus membros para o conselho administrativo;\n\nc) Propor ao director, e ou cometer a membros do conselho, a realização de tarefas específicas necessárias ao preenchimento das funções que lhe são próprias.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239020": {
+   "fragment_id": "162229717",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho consultivo",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 18.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva e apoio ao director, no âmbito da definição da estratégia de actuação orientada para a solução dos problemas e aspirações mais importantes dos interessados nas actividades de I-DE.\n\n2 - O conselho consultivo, congregando os interesses dos destinatários das actividades de I-DE e OACT a desenvolver, veiculará as aspirações daqueles e transmitirá os objectivos e planos de acção que este se propõe desenvolver.\n\n3 - A composição e normas de funcionamento do conselho consultivo serão definidas no diploma a que se refere o artigo 42.º\n\n4 - Ao conselho consultivo compete, designadamente:\n\na) Veicular e analisar a informação sobre as reais necessidades e aspirações das entidades interessadas nas actividades de I-DE e transmitir-lhes as políticas e objectivos a atingir;\n\nb) Pronunciar-se sobre o plano de actividades de I-DE;\n\nc) Propor a adopção de quaisquer medidas que se reputem convenientes no âmbito das actividades do serviço.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239021": {
+   "fragment_id": "162229718",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho técnico do Centro Nacional de Protecção da Produção Agrícola",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 19.º — Conselho técnico do Centro Nacional de Protecção da Produção Agrícola\n\nNo Centro Nacional de Protecção da Produção Agrícola funciona um conselho técnico, em substituição do conselho consultivo, com funções de apoio ao director no âmbito do planeamento e desenvolvimento das suas actividades, com a composição, competências e forma de funcionamento que vierem a ser fixadas no diploma a que se refere o artigo 44.º\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239022": {
+   "fragment_id": "162229719",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho administrativo",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 20.º — Conselho administrativo\n\n1 - O conselho administrativo é o órgão de gestão financeira e patrimonial, com a seguinte composição:\n\na) Director, que preside;\n\nb) Subdirector para a gestão administrativa financeira;\n\nc) Um membro do conselho de investigação;\n\nd) Chefe de repartição administrativa.\n\n2 - Ao conselho administrativo compete, designadamente:\n\na) Superintender na gestão financeira e patrimonial do serviço;\n\nb) Promover a elaboração do orçamento de conta das dotações atribuídas no orçamento do INIA e propor as alterações consideradas necessárias;\n\nc) Promover a elaboração dos orçamentos anuais, ordinários e suplementares, de aplicação de receitas próprias a submeter à aprovação dos serviços centrais do INIA;\n\nd) Zelar pela cobrança das receitas e promover o seu depósito nos termos legais;\n\ne) Promover e autorizar a venda de produtos que, nos termos da legislação em vigor, constituam receita própria do serviço;\n\nf) Adjudicar e contratar estudos, serviços e fornecimentos necessários à prossecução das actividades do serviço no âmbito do seu orçamento;\n\ng) Verificar a legalidade das despesas e autorizar o seu pagamento;\n\nh) Fiscalizar a escrituração da contabilidade e proceder à verificação regular dos valores em cofre e em depósito;\n\ni) Superintender na organização anual da conta de gerência e submetê-la aos serviços centrais do INIA no prazo legalmente estabelecido;\n\nj) Pronunciar-se sobre qualquer outro assunto que no âmbito das suas competências lhe seja submetido pelo presidente.\n\n3 - O conselho administrativo poderá delegar no seu presidente algumas das suas competências, fixando-lhe os respectivos limites.\n\n4 - O conselho administrativo poderá ainda delegar nos dirigentes dos serviços algumas das suas competências para a realização de despesas, dentro dos limites legalmente estabelecidos.\n\n5 - As entidades referidas no número anterior prestarão mensalmente contas, podendo ser constituídos, sob sua responsabilidade, fundos de maneio para ocorrer ao pagamento das despesas que devam ser satisfeitas a dinheiro.\n\n6 - As normas de funcionamento do conselho administrativo serão definidas no diploma a que se refere o artigo 44.º\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239023": {
+   "fragment_id": "162229720",
+   "type": 11,
+   "heading": "Artigo 21.º — Repartição Administrativa",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 21.º — Repartição Administrativa\n\n1 - As ENIDEs e os SNIDEs dispõem de uma Repartição Administrativa, à qual compete promover a administração dos recursos humanos e a gestão dos meios financeiros e patrimoniais, bem como assegurar o respectivo apoio técnico-administrativo aos órgãos e serviços.\n\n2 - A Repartição Administrativa, para o desenvolvimento das suas actividades, deverá articular-se com a Direcção de Serviços de Administração dos serviços centrais do INIA e compreende as seguintes secções:\n\na) Secção de Pessoal e Expediente;\n\nb) Secção Financeira e Patrimonial.\n\n3 - À Secção de Pessoal e Expediente compete:\n\na) Assegurar o processamento dos elementos relacionados com os vencimentos, remunerações e outros abonos do pessoal, bem como dos descontos que sobre eles eventualmente incidam, e a elaboração dos documentos que lhes sirvam de suporte;\n\nb) Organizar e manter actualizado o cadastro de todo o pessoal e fornecer os elementos necessários ao tratamento informático da respectiva informação;\n\nc) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente;\n\nd) Assegurar o funcionamento do arquivo geral e a sua articulação com os arquivos dos diversos serviços;\n\ne) Superintender no pessoal auxiliar.\n\n4 - À Secção Financeira e Patrimonial compete:\n\na) Preparar os elementos necessários à elaboração do orçamento de conta das dotações do orçamento do INIA e propor as alterações consideradas adequadas;\n\nb) Elaborar o orçamento ordinário de contas de ordem, bem como os respectivos orçamentos suplementares;\n\nc) Assegurar a execução do orçamento e escriturar as receitas e as despesas;\n\nd) Assegurar o controle orçamental e financeiro;\n\ne) Manter uma contabilidade analítica que permita o adequado controle de custos;\n\nf) Organizar a conta anual de gerência e preparar os elementos necessários à elaboração do respectivo relatório;\n\ng) Fiscalizar o movimento de tesouraria, efectuando mensalmente o respectivo balanço;\n\nh) Promover, com observância das disposições legais aplicáveis, as medidas relativas às aquisições necessárias ao normal funcionamento dos serviços e assegurar as funções de economato;\n\ni) Assegurar a gestão do património e manter organizado o respectivo cadastro;\n\nj) Assegurar a gestão do parque de viaturas.\n\n5 - Adstrita à Repartição Administrativa funciona uma tesouraria, sob a responsabilidade de um tesoureiro, à qual compete arrecadar receitas, efectuar os levantamentos de fundos, efectuar o pagamento de despesas devidamente autorizadas e manter escriturados os livros de tesouraria.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239024": {
+   "fragment_id": "162229721",
+   "type": 11,
+   "heading": "Artigo 22.º — Departamentos científicos e secções científicas",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 22.º — Departamentos científicos e secções científicas\n\n1 - Nas áreas de I-DE e OACT as ENIDEs e os SNIDEs organizam-se obrigatoriamente em departamentos científicos e secções científicas, delimitados em função das áreas de I-DE e de OACT que lhes sejam atribuídas.\n\n2 - Os departamentos científicos e secções científicas são integrados pelo pessoal de investigação, técnico e auxiliar afecto a uma mesma especialidade ou especialidades afins e pelos meios necessários à realização das actividades de investigação que lhes sejam cometidas.\n\n3 - Os departamentos científicos gozam de autonomia científica no âmbito da sua área de especialização, sem prejuízo das orientações gerais estabelecidas pelos órgãos do respectivo serviço ou dos serviços centrais do INIA, podendo dividir-se em secções científicas.\n\n4 - Um departamento científico só poderá constituir-se e permanecer se integrar um mínimo de três elementos da carreira de investigação, sendo pelo menos um de categoria superior ou igual a assistente de investigação, dedicando-se à mesma especialidade ou a especialidades afins.\n\n5 - Sempre que uma unidade de I-DE com área funcional individualizada não possua dimensão mínima para construir um departamento, será designada também por secção científica.\n\n6 - Os membros dos departamentos que forem investigadores ou doutorados constituirão o grupo responsável pelas acções de formação e especialização do pessoal do seu departamento.\n\n7 - Os actuais departamentos das ENIDEs e dos SNIDEs dispõem de um prazo de cinco anos para satisfazer as condições referidas no n.º 4.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239025": {
+   "fragment_id": "162229722",
+   "type": 11,
+   "heading": "Artigo 23.º — Centros, laboratórios e postos experimentais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 23.º — Centros, laboratórios e postos experimentais\n\n1 - Nas áreas de I-DE ou OACT as ENIDEs e os SNIDEs poderão dispor também de centros, laboratórios e postos experimentais.\n\n2 - São centros as unidades de investigação não autónomas destinadas a fins específicos, com carácter multidisciplinar ou interdisciplinar, podendo eventualmente constituir agrupamentos de departamentos, sendo definidos fundamentalmente em função de finalidades bem diferenciadas dentro dos objectivos gerais do serviço, pela sua importância científica e sócio-económica ou pela sua diferenciação ecológica, constituindo preferencialmente a base para a formação de futuros organismos.\n\n3 - São laboratórios as estruturas necessárias à prossecução das actividades científicas, com utilização multidepartamental, exigindo funcionamento individualizado e cuja natureza não aconselha a sua inclusão em qualquer departamento ou serviço.\n\n4 - São postos experimentais as unidades capazes de suporte às actividades de adaptação regional de conhecimentos ou de colheita de dados em condições ecológicas e culturais perfeitamente definidas, dotadas de infra-estruturas adequadas ao estudo de sistemas culturais e dispondo dos quadros técnicos necessários.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239026": {
+   "fragment_id": "162229723",
+   "type": 11,
+   "heading": "Artigo 24.º — Coordenação das unidades orgânicas de I-DE e OACT",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 24.º — Coordenação das unidades orgânicas de I-DE e OACT\n\n1 - A coordenação de todas as unidades de I-DE e OACT será feita por funcionários da carreira de investigação, salvo os postos experimentais, os quais poderão ser coordenados por funcionários das carreiras técnica superior ou técnica.\n\n2 - A designação dos coordenadores de todas as unidades orgânicas de I-DE será de nomeação do presidente do INIA, sob proposta do director, ouvido o conselho de investigação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239027": {
+   "fragment_id": "162229724",
+   "type": 8,
+   "heading": "Secção IV — Dos departamentos e das unidades experimentais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "#### Secção IV — Dos departamentos e das unidades experimentais\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239028": {
+   "fragment_id": "162229725",
+   "type": 11,
+   "heading": "Artigo 25.º — Definição, objectivos e competências dos departamentos e das unidades experimentais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 25.º — Definição, objectivos e competências dos departamentos e das unidades experimentais\n\n1 - Os departamentos e unidades experimentais (herdades, quintas, matas e campos) são unidades orgânicas especializadas de I-DE, de âmbito nacional e não integradas nas ENIDEs e nos SNIDEs, que coordenam áreas de actuação nos vários domínios da sua especialidade, competindo-lhes, designadamente, propor e executar o respectivo plano de actividades.\n\n2 - São departamentos:\n\na) Departamento de Estudo de Economia e Sociologia Agrária, com sede em Lisboa;\n\nb) Departamento de Horticultura e Floricultura, com sede em Oeiras:\n\nc) Departamento de Regadio, com sede em Coruche.\n\n3 - Constituem unidades experimentais:\n\nCourelas de Alvalade do Sado;\n\nHerdade do Monte dos Alhos;\n\nHerdade da Fataca;\n\nPaul dos Magos;\n\nQuinta dos Peões;\n\nViveiro de Bragança;\n\nViveiro de S. Julião;\n\nQuinta da Foja;\n\nQuinta do Canal;\n\nCampo de Taveiro;\n\nQuinta dos Lamaçais;\n\nHerdade da Revilheira;\n\nHerdade dos Pinhais;\n\nHerdade do Picão;\n\nHerdade das Pedras;\n\nCasal dos Zunidos e Anexos;\n\nViveiro do Escaroupim.\n\n4 - A criação ou extinção de departamentos e unidades experimentais compete ao ministro da tutela, sob proposta do presidente do INIA.\n\n5 - Os departamentos são dirigidos por directores de serviços.\n\n6 - As unidades experimentais são coordenadas por pessoal da carreira técnica superior.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239029": {
+   "fragment_id": "162229726",
+   "type": 1,
+   "heading": "Capítulo III — Gestão financeira e patrimonial",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo III — Gestão financeira e patrimonial\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239030": {
+   "fragment_id": "162229727",
+   "type": 11,
+   "heading": "Artigo 26.º — Princípios e instrumentos de gestão",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 26.º — Princípios e instrumentos de gestão\n\nA actuação do INIA assenta numa gestão por objectivos e adequado controle orçamental e é disciplinada pelos seguintes instrumentos:\n\na) Planos de actividade anuais e plurianuais, com definição dos objectivos e correspondentes planos de acção, devidamente quantificados;\n\nb) Orçamento anual elaborado com base no respectivo plano de actividades e com os desdobramentos internos que permitam a desconcentração de competências e adequado controle de gestão;\n\nc) Sistema de informação integrado, de gestão, com indicadores periódicos, que permita o acompanhamento e avaliação das actividades desenvolvidas e a introdução de correcções em tempo oportuno, sempre que necessário;\n\nd) Relatório anual de actividades, a elaborar até final do 1.º trimestre do ano seguinte;\n\ne) Conta de gerência e relatório financeiro, a elaborar nos prazos legais.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239031": {
+   "fragment_id": "162229728",
+   "type": 11,
+   "heading": "Artigo 27.º — Receitas próprias",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 27.º — Receitas próprias\n\n1 - Para além das dotações concedidas pelo Orçamento do Estado, constituem receitas próprias do INIA:\n\na) As quantias cobradas por serviços prestados a quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras;\n\nb) O produto da venda das patentes de invenção de materiais e de novas tecnologias;\n\nc) O produto da venda de publicações e impressos por si editados;\n\nd) As quantias arrecadadas pela venda de produtos das explorações a seu cargo ou das que lhe forem cedidas para as suas actividades;\n\ne) As comparticipações ou subsídios atribuídos por quaisquer entidades oficiais ou particulares e legalmente aceites;\n\nf) O produto de venda de materiais ou serviços especializados em execução de contratos de investigação que lhe sejam encomendados;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n2 - Os serviços prestados, bem como as patentes de invenção e produtos vendidos, serão cobrados de acordo com preços fixados caso a caso ou com tabelas que vierem a ser aprovadas por portaria do ministro da tutela.\n\n3 - Na movimentação e utilização das receitas próprias observar-se-á o regime definido no Decreto-Lei n.º 459/82, de 26 de Novembro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239032": {
+   "fragment_id": "162229729",
+   "type": 11,
+   "heading": "Artigo 28.º — Despesas",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 28.º — Despesas\n\n1 - Constituem despesas dos serviços do INIA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.\n\n2 - Na realização das despesas respeitar-se-ão os condicionalismos e imperativos decorrentes do orçamento e dos planos aprovados e, bem assim, as prioridades que vierem a ser fixadas.\n\n3 - Os pagamentos devem ser efectuados, em regra, por meio de cheques, que serão entregues em troca dos respectivos recibos, devidamente legalizados.\n\n4 - O conselho administrativo poderá levantar e manter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devem ser satisfeitas a dinheiro.\n\n5 - Todos os documentos relativos a recebimentos e a pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo director de Serviços de Administração ou pelos seus substitutos legais, podendo o conselho administrativo, nos casos em que se justifique, autorizar a assinatura por outros funcionários.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239033": {
+   "fragment_id": "162229730",
+   "type": 11,
+   "heading": "Artigo 29.º — Normas de contabilidade",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 29.º — Normas de contabilidade\n\n1 - A contabilidade dos serviços do INIA deverá adequar-se às necessidades da respectiva gestão, permitir um controle orçamental permanente e, bem assim, a fácil verificação da relação existente entre os valores patrimoniais e financeiros e os correspondentes elementos contabilísticos.\n\n2 - Os serviços do INIA deverão manter uma contabilidade analítica, a fim de procederem ao apuramento dos custos da participação de cada unidade orgânica em cada um dos programas e projectos e, bem assim, do seu custo global, tendo em vista uma gestão integrada.\n\n3 - Para satisfação das necessidades referidas nos números anteriores os serviços do INIA poderão aplicar, adaptado às suas realidades específicas e fundamentalmente como um instrumento de gestão, o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 47/77, de 7 de Fevereiro.\n\n4 - As normas a que deverá obedecer a organização da contabilidade serão definidas por despacho do ministro da tutela.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239034": {
+   "fragment_id": "162229731",
+   "type": 11,
+   "heading": "Artigo 30.º — Movimentação de depósitos",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 30.º — Movimentação de depósitos\n\n1 - O numerário dos serviços do INIA será depositado na Caixa Geral de Depósitos.\n\n2 - A movimentação dos depósitos será efectuada por meio de cheques ou transferências bancárias e está isenta de imposto do selo e prémio de transferência.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239035": {
+   "fragment_id": "162229732",
+   "type": 11,
+   "heading": "Artigo 31.º — Cobrança coerciva",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 31.º — Cobrança coerciva\n\n1 - A cobrança coerciva das dívidas provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em dinheiro ou haja sido reconhecida por despacho do ministro da tutela far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.\n\n2 - O processo terá por base certidão, passada pela Direcção de Serviços de Administração, da qual constem os seguintes elementos:\n\na) Nome ou denominação e domicílio ou sede do devedor;\n\nb) Proveniência da dívida e indicação por extenso do seu montante;\n\nc) Data a partir da qual são devidos juros de mora;\n\nd) Data da certidão e assinatura da entidade emitente, devidamente autenticada com o selo branco ou carimbo do serviço respectivo.\n\n3 - Os juros de mora de devedor a que alude a alínea c) do número anterior contam-se a partir do último dia do prazo fixado para o pagamento.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239036": {
+   "fragment_id": "162229733",
+   "type": 11,
+   "heading": "Artigo 32.º — Gestão financeira e patrimonial das ENIDEs e dos SNIDEs",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 32.º — Gestão financeira e patrimonial das ENIDEs e dos SNIDEs\n\n1 - As normas constantes do presente capítulo serão aplicáveis à elaboração e execução dos orçamentos das ENIDEs e dos SNIDEs, com as necessárias adaptações, em conformidade com a autonomia administrativa que lhes é concedida.\n\n2 - As receitas próprias dos organismos referidos no número anterior serão fixadas nos diplomas a que se refere o artigo 42.º\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239037": {
+   "fragment_id": "162229734",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo IV — Pessoal\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239038": {
+   "fragment_id": "162229735",
+   "type": 11,
+   "heading": "Artigo 33.º — Quadro e regime de pessoal",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 33.º — Quadro e regime de pessoal\n\n1 - O quadro próprio de pessoal do INIA é o fixado na Portaria n.º 452-A/86, de 20 de Agosto, para o ex-INIAER, com as alterações constantes do mapa anexo ao presente diploma e sem prejuízo do disposto no número seguinte.\n\n2 - As ENIDEs e os SNIDEs disporão de contingentes de pessoal do quadro referido no número anterior, que serão fixados em mapas anexos aos diplomas a que se refere o n.º 1 do artigo 42.º, dos quais constarão ainda os lugares dirigentes, de harmonia com a estrutura que vier a ser instituída.\n\n3 - O contingente dos serviços centrais será fixado por portaria do Ministro da Agricultura, Pescas e Alimentação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239039": {
+   "fragment_id": "162229736",
+   "type": 11,
+   "heading": "Artigo 34.º — Provimento do pessoal dirigente",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 34.º — Provimento do pessoal dirigente\n\n1 - O provimento do pessoal dirigente do INIA será feito nos termos da lei em vigor.\n\n2 - O cargo de director de ENIDE ou de SNIDE será provido por despacho do ministro da tutela, sob proposta do presidente do INIA, com audição, respectivamente, do conselho de investigação ou do conselho técnico, devendo, no primeiro caso, recair preferencialmente num investigador-coordenador.\n\n3 - O cargo de subdirector para a gestão científica e técnica de ENIDE ou de SNIDE será provido por despacho do ministro da tutela, sob proposta do director, acompanhada do parecer do conselho de investigação, devendo a escolha recair preferencialmente num investigador.\n\n4 - No caso de haver um único subdirector, será preferencialmente um investigador.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239040": {
+   "fragment_id": "162229737",
+   "type": 1,
+   "heading": "Capítulo V — Disposições gerais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo V — Disposições gerais\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239041": {
+   "fragment_id": "162229738",
+   "type": 11,
+   "heading": "Artigo 35.º — Funcionamento",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 35.º — Funcionamento\n\n1 - O funcionamento do INIA assenta na estrutura definida neste diploma.\n\n2 - No desenvolvimento das actividades cuja realização deva ficar a cargo de diversos serviços o INIA adopta uma organização de trabalhos suportada numa estrutura matricial da actividade científica e técnica, por projectos integrados em programas devotados ao avanço da ciência e ao estudo dos recursos ecológicos, à utilização dos factores de produção, da transformação dos produtos agrários e das implicações sócio-económicas, aplicando tecnologia criativa e inovatória.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239042": {
+   "fragment_id": "162229739",
+   "type": 11,
+   "heading": "Artigo 36.º — Programas e projectos",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 36.º — Programas e projectos\n\n1 - Os programas são conjuntos multidisciplinares de projectos reunidos pela afinidade ou complementaridade das suas matérias e pela identidade dos seus objectivos comuns e destinam-se a alcançar metas de progresso, previamente determinadas, nos domínios da ciência, produção ou transformação agrária a que digam respeito.\n\n2 - Os programas integrados são conjuntos de projectos afins ou complementares, normalmente executados em dois ou mais organismos ou serviços, cujos objectivos concorrem para atingir finalidades definidas pelo conselho científico do INIA, através de um processo de planeamento integrado.\n\n3 - Cada projecto visa a obtenção de um objectivo específico e bem determinado, sendo executado por uma equipa, que reunirá cientistas e técnicos do mesmo ou diferentes serviços ou especialidades, apoiada pelos sectores especializados do INIA, incumbindo-lhe:\n\na) Executar os trabalhos e acções que constituem o projecto;\n\nb) Preparar o relatório de execução e apresentação dos resultados parciais e sugerir a abertura de novas linhas de estudo suscitadas pela execução do projecto.\n\n4 - O conselho científico regulará o projecto e metodologias a seguir na análise, avaliação e selecção de projectos.\n\n5 - O financiamento dos programas integrados é assegurado através do orçamento dos serviços centrais do INIA, em cuja programação se incluem, e das comparticipações dos orçamentos dos organismos e serviços em que forem executados.\n\n6 - A coordenação dos projectos que se desenvolvem no âmbito de um programa integrado é assegurada por um coordenador, designado pelo presidente do INIA, ouvido o conselho científico.\n\n7 - A coordenação dos projectos que se desenvolvem no âmbito de um programa é assegurada por um coordenador de programa, designado pelo director da ENIDE ou do SNIDE.\n\n8 - O coordenador de programa ou de programa integrado é responsável pela planificação e coordenação, a nível global, do trabalho das equipas de projectos que integram o programa e da gestão dos meios financeiros a ele consignados, incumbindo-lhe:\n\na) Manter devidamente actualizada a planificação e a programação dos trabalhos a realizar;\n\nb) Orientar e coordenar a execução dos projectos, fomentando a criação e a manutenção de espírito de equipa;\n\nc) Acordar com os dirigentes dos serviços intervenientes os princípios e modalidades concretos de cooperação;\n\nd) Manter-se permanentemente informado de todos os projectos em curso, acompanhando e avaliando a execução do programa e tomando, em colaboração com os dirigentes dos serviços executores, as medidas correctivas convenientes;\n\ne) Propor superiormente as medidas que contribuam para uma boa gestão dos projectos que integram o programa;\n\nf) Formular propostas fundamentadas para o prolongamento dos prazos de execução do programa, quando tal se torne necessário;\n\ng) Coordenar as ligações entre os serviços intervenientes no programa e entidades externas, públicas ou privadas, interessadas no seu desenvolvimento;\n\nh) Propor a aprovação de novos projectos, no âmbito do programa, quando considerados necessários;\n\ni) Convocar as reuniões da equipa de gestão do programa e dirigir os respectivos trabalhos.\n\n9 - O coordenador de programa será assessorado por uma equipa, constituída pelos chefes dos projectos que integram o programa e, pelo menos, por um dos dirigentes dos serviços onde se executam esses projectos, à qual incumbe:\n\na) Reunir e analisar a informação necessária à coordenação geral do programa;\n\nb) Pronunciar-se sobre as medidas de correcção da estrutura do programa ou da sua execução financeira que ao longo do processo se evidenciarem necessárias.\n\n10 - O coordenador de programa será substituído nas suas ausências e impedimentos por um chefe de projecto, designado para o efeito por despacho do presidente do INIA ou pelo director da ENIDE ou do SNIDE, se o programa se desenvolver dentro da sua área científica.\n\n11 - A equipa de projecto, é coordenada por um chefe de projecto, designado por despacho, nos termos do número anterior, mediante proposta do coordenador de programa, ouvidos os dirigentes dos serviços onde se executa, incumbindo-lhe:\n\na) Planificar os estudos ou acções correspondentes às diferentes fases do projecto e, bem assim, a orientação, coordenação e dinamização das actividades dos cientistas e técnicos que integram a equipa de projecto;\n\nb) Garantir a consistência e eficácia dos estudos ou acções constantes do respectivo projecto e a sua conclusão nos prazos e condições fixados previamente.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239043": {
+   "fragment_id": "162229740",
+   "type": 11,
+   "heading": "Artigo 37.º — Articulação e colaboração com outras entidades",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 37.º — Articulação e colaboração com outras entidades\n\n1 - No desempenho das suas atribuições poderá o INIA:\n\na) Articular a sua acção com outras entidades, nacionais ou estrangeiras, promovendo as ligações, acordos, convénios e associações e protocolos que se revelem de utilidade para o exercício das suas actividades;\n\nb) Solicitar e contactar a colaboração de serviços especializados nas áreas que igualmente respeitem à sua actividade;\n\nc) Promover e incentivar trocas de conhecimentos nos domínios das suas actividades com organismos nacionais ou estrangeiros;\n\nd) Cooperar com os restantes serviços do MAPA, designadamente com as direcções regionais de agricultura.\n\n2 - Mediante despacho do Ministro da Agricultura, Pescas e Alimentação, o INIA poderá estabelecer formas específicas de associação e participação de entidades públicas e privadas no âmbito da política de investigação agrária e agro-industrial.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239044": {
+   "fragment_id": "162229741",
+   "type": 11,
+   "heading": "Artigo 38.º — Prestação de serviços e exploração de patentes",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 38.º — Prestação de serviços e exploração de patentes\n\n1 - O INIA poderá prestar serviços, no âmbito das suas atribuições, a entidades públicas ou privadas, bem como obter patentes de invenção e explorá-las, de acordo com os seus interesses.\n\n2 - Os preços dos serviços prestados, bem como da exploração das patentes, serão fixados em tabelas, a aprovar por portaria do ministro da tutela.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239045": {
+   "fragment_id": "162229742",
+   "type": 11,
+   "heading": "Artigo 39.º — Participação em exposições e reuniões",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 39.º — Participação em exposições e reuniões\n\nO INIA poderá organizar, patrocinar ou participar em feiras, exposições, seminários, congressos ou outras realizações que se insiram no âmbito das suas actividades.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239046": {
+   "fragment_id": "162229743",
+   "type": 11,
+   "heading": "Artigo 40.º — Concessão de bolsas de estudo e prémios",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 40.º — Concessão de bolsas de estudo e prémios\n\nO INIA poderá, nos termos do que se encontrar regulamentado para os institutos de investigação, instituir e manter prémios, bolsas de estudo e outras formas de incentivo e apoio ao seu pessoal ou a entidades a ele estranhas que tenham contribuído de forma excepcional para a eficiência da instituição ou progresso do conhecimento científico e técnico no âmbito das suas atribuições.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239047": {
+   "fragment_id": "162229744",
+   "type": 11,
+   "heading": "Artigo 41.º — Contratos de seguro de pessoal",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 41.º — Contratos de seguro de pessoal\n\nO INIA poderá efectuar contratos de seguro contra acidentes do seu pessoal, nomeadamente quando, no exercício das suas funções, esteja exposto a maiores riscos, mediante a observância das disposições legais aplicáveis.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239048": {
+   "fragment_id": "162229745",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239049": {
+   "fragment_id": "162229746",
+   "type": 11,
+   "heading": "Artigo 42.º — Diplomas orgânicos",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 42.º — Diplomas orgânicos\n\n1 - Sem prejuízo do disposto no presente decreto-lei, as atribuições, competências, estrutura, funcionamento, bem como o contingente de pessoal, de cada ENIDE e SNIDE serão objecto de decretos regulamentares.\n\n2 - Até à publicação dos diplomas referidos no número anterior manter-se-ão em vigor os diplomas orgânicos e outras disposições com expressão na orgânica dos serviços respeitantes ao Centro Nacional de Protecção da Produção Agrícola, Laboratório Químico-Agrícola de Rebelo da Silva e Centro Nacional de Reconhecimento e Ordenamento Agrário, respectivamente Decreto Regulamentar n.º 43/78, de 28 de Setembro, Decreto Regulamentar n.º 68/78, de 24 de Dezembro, e Decreto-Lei n.º 497/80, de 20 de Outubro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239050": {
+   "fragment_id": "162229747",
+   "type": 11,
+   "heading": "Artigo 43.º — Transição de pessoal para o quadro do INIA",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 43.º — Transição de pessoal para o quadro do INIA\n\n1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, o pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço no ex-INIAER transitará para os lugares do quadro referido no n.º 1 do artigo 33.º, nos termos das regras pertinentes do Decreto Regulamentar n.º 41/84, de 28 de Maio, e demais legislação aplicável, processando-se a integração de harmonia com o estabelecido no Decreto-Lei n.º 146-C/80, de 22 de Maio.\n\n2 - Os funcionários do grupo de pessoal técnico superior ou que, sendo licenciados, se não encontrem inseridos naquele grupo e que desempenhem funções de I-DE há mais de três anos, contados à data da entrada em vigor do presente diploma, no Centro Nacional de Protecção da Produção Agrícola e no Laboratório Químico-Agrícola de Rebelo da Silva serão reclassificados no prazo de seis meses, tendo em conta a análise curricular individual, a efectuar pelos júris nomeados para o efeito e em conformidade com despacho normativo conjunto a assinar pelo ministro responsável pela coordenação científica e pelo Ministro da Agricultura, Pescas e Alimentação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239051": {
+   "fragment_id": "162229748",
+   "type": 11,
+   "heading": "Artigo 44.º — Concurso para acesso às novas categorias",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 44.º — Concurso para acesso às novas categorias\n\nOs concursos para acesso às novas categorias criadas pelo Decreto-Lei n.º 248/85, de 15 de Julho, só poderão ser abertos após a entrada em vigor de todas as portarias de execução do referido diploma, elaborados no âmbito do Ministério.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239052": {
+   "fragment_id": "162229749",
+   "type": 11,
+   "heading": "Artigo 45.º — Serviços sociais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 45.º — Serviços sociais\n\n1 - Enquanto não for instituída a obra social do MAPA, poderá o INIA, por si ou em colaboração com os SOFE, promover ou manter iniciativas no âmbito da acção social complementar.\n\n2 - Serão suportados pelas receitas próprias do INIA os encargos decorrentes das acções previstas no número anterior.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239053": {
+   "fragment_id": "162229750",
+   "type": 11,
+   "heading": "Artigo 46.º — Desalfandegamento",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 46.º — Desalfandegamento\n\nO desalfandegamento de produtos, aparelhos e equipamentos inerentes às actividades do INIA terão o tratamento especial previsto nos Decretos-Leis n.os 507/85 e 511/85, de 31 de Dezembro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239054": {
+   "fragment_id": "162229751",
+   "type": 11,
+   "heading": "Artigo 47.º — Transferência de património",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 47.º — Transferência de património\n\nO património, os créditos e demais direitos e obrigações de que é titular o ex-INIAER serão afectos ao INIA, nos termos que vierem a ser fixados por despacho do Ministro da Agricultura, Pescas e Alimentação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239055": {
+   "fragment_id": "162229752",
+   "type": 11,
+   "heading": "Artigo 48.º — Providências orçamentais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 48.º — Providências orçamentais\n\nAté à efectivação das competentes alterações orçamentais serão utilizadas pelo INIA as verbas constantes do orçamento do ex-INIAER.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239056": {
+   "fragment_id": "162229753",
+   "type": 11,
+   "heading": "Artigo 49.º — Revogação de legislação anterior",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 49.º — Revogação de legislação anterior\n\nSem prejuízo do disposto no n.º 2 do artigo 43.º, são revogados o Decreto-Lei n.º 497/80, de 20 de Setembro, e os Decretos Regulamentares n.os 43/78, de 28 de Setembro, 39-A/79, de 31 de Julho, 68/79, de 24 de Dezembro, no que ao Laboratório Químico-Agrícola de Rebelo da Silva se refere, e 44/81, de 6 de Outubro, bem como quaisquer outras normas que contrariem o presente decreto-lei.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239057": {
+   "fragment_id": "162229754",
+   "type": 11,
+   "heading": "Artigo 50.º — Entrada em vigor",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 50.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162239058": {
+   "fragment_id": "162229755",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro.\n\nPromulgado em 8 de Janeiro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Janeiro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo a que se refere o artigo 33.º\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

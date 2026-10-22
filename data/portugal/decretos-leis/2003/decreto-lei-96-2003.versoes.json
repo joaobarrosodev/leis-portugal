@@ -1,0 +1,1319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:580670:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-864057418",
+ "dre_path": "/dr/detalhe/decreto-lei/96-2003-580670",
+ "source_lastmod": "2025-09-29",
+ "versions": [
+  {
+   "date": "2003-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "863921092",
+    "863921093",
+    "863921094",
+    "863921095",
+    "863921096",
+    "863921097",
+    "863921098",
+    "863921099",
+    "863921100",
+    "863921101",
+    "863921102",
+    "863921103",
+    "863921104",
+    "863921105",
+    "863921106",
+    "863921107",
+    "863921108",
+    "863921110",
+    "863921111",
+    "863921112",
+    "863921113",
+    "863921114",
+    "863921115",
+    "863921116",
+    "863921117",
+    "863921118",
+    "863921119",
+    "863921120",
+    "863921121",
+    "863921122",
+    "863921123",
+    "863921124",
+    "863921125",
+    "863921126",
+    "863921127",
+    "863921128",
+    "863921129",
+    "863921130",
+    "863921131",
+    "863921132",
+    "863921133",
+    "863921134",
+    "863921135",
+    "863921136",
+    "863921137",
+    "863921138",
+    "863921139",
+    "863921140",
+    "863921141",
+    "863921142",
+    "863921143",
+    "863921144",
+    "863921145",
+    "863921146",
+    "863921147",
+    "863921148",
+    "863921149",
+    "863921150",
+    "863921151"
+   ]
+  },
+  {
+   "date": "2007-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521258:por",
+     "title": "Decreto-Lei n.º 169/2007",
+     "published": "2007-05-03",
+     "dre_path": "/dr/detalhe/decreto-lei/169-2007-521258"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "863921092",
+    "937046702",
+    "937046703",
+    "937046704",
+    "937046705",
+    "937046706",
+    "937046707",
+    "937046708",
+    "937046709",
+    "937046710",
+    "937046711",
+    "937046712",
+    "863921104",
+    "937046713",
+    "937046714",
+    "937046715",
+    "937046716",
+    "863921109",
+    "937046717",
+    "937046718",
+    "937046719",
+    "937046720",
+    "937046721",
+    "937046722",
+    "937046723",
+    "937046724",
+    "937046725",
+    "937046726",
+    "937046727",
+    "937046728",
+    "937046729",
+    "937046730",
+    "937046731",
+    "937046732",
+    "937046733",
+    "937046734",
+    "937046735",
+    "937046736",
+    "937046737",
+    "937046738",
+    "937046739",
+    "937046740",
+    "937046741",
+    "937046742",
+    "937046743",
+    "937046744",
+    "937046745",
+    "937046746",
+    "937046747",
+    "937046748",
+    "937046749",
+    "937046750",
+    "937046751",
+    "937046752",
+    "937046753",
+    "937046754",
+    "937046755",
+    "937046756",
+    "937046757",
+    "937046758",
+    "937046759"
+   ]
+  },
+  {
+   "date": "2011-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671032:por",
+     "title": "Decreto-Lei n.º 98/2011",
+     "published": "2011-09-21",
+     "dre_path": "/dr/detalhe/decreto-lei/98-2011-671032"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "863921092",
+    "937046702",
+    "937046703",
+    "937046704",
+    "937046705",
+    "937046706",
+    "937046707",
+    "937046708",
+    "937046709",
+    "937046710",
+    "937046711",
+    "937046712",
+    "936698068",
+    "937046713",
+    "937046714",
+    "937046715",
+    "937046716",
+    "863921109",
+    "937046717",
+    "937046718",
+    "937046719",
+    "937046720",
+    "937046721",
+    "937046722",
+    "937046723",
+    "937046724",
+    "937046725",
+    "937046726",
+    "937046727",
+    "937046728",
+    "937046729",
+    "937046730",
+    "937046731",
+    "937046732",
+    "937046733",
+    "937046734",
+    "937046735",
+    "937046736",
+    "937046737",
+    "937046738",
+    "937046739",
+    "937046740",
+    "937046741",
+    "937046742",
+    "937046743",
+    "937046744",
+    "937046745",
+    "937046746",
+    "937046747",
+    "937046748",
+    "937046749",
+    "937046750",
+    "937046751",
+    "937046752",
+    "937046753",
+    "937046754",
+    "937046755",
+    "937046756",
+    "937046757",
+    "937046758",
+    "937046759"
+   ]
+  }
+ ],
+ "fragments": {
+  "863921092": {
+   "fragment_id": "864057419",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 96/2003\n\nde 7 de Maio\n\nDa reestruturação do Instituto do Desporto (INDESP) resultou a criação do Instituto Nacional do Desporto (IND), cuja Lei Orgânica foi aprovada pelo Decreto-Lei n.º 62/97, de 26 de Março, bem como a autonomização do Centro de Estudos e Formação Desportiva (CEFD) e do Complexo de Apoio às Actividades Desportivas (CAAD).\n\nO modelo adoptado assentou na integração no IND dos serviços de apoio ao associativismo, dos serviços relativos às infra-estruturas desportivas, bem como da estrutura nacional da medicina desportiva, incluindo o respectivo Laboratório de Análises da Dopagem e Bioquímica.\n\nNo CEFD, cuja Lei Orgânica foi aprovada pelo Decreto-Lei n.º 63/97, de 26 de Março, englobaram-se os serviços encarregados da formação de quadros desportivos e respeitantes aos estudos, investigação e planeamento e ainda as relações internacionais.\n\nNo CAAD, cuja Lei Orgânica foi aprovada pelo Decreto-Lei n.º 64/97, de 26 de Março, englobaram-se as infra-estruturas desportivas de âmbito nacional (Jamor, Lamego, Centro de Alto Rendimento e Centro de Estágio da Cruz Quebrada).\n\nCom o referido modelo visava-se, fundamentalmente, alterar a estrutura pesada e burocrática do INDESP, cuja gestão não só se manifestava desajustada, como concentrava meios financeiros muito avultados.\n\nPorém, na prática, sucedeu que da autonomização dos três organismos resultou uma clara dispersão e sobreposição de atribuições e competências, com inerentes implicações financeiras desnecessárias. Acresce uma evidente desarticulação entre os mesmos, bem como uma marcada burocracia e consequente morosidade de processos.\n\nAssim, não subsistem razões que justifiquem a autonomização dos três organismos que constituem a administração pública desportiva, pelo que importa concretizar a sua fusão, nos termos previstos na alínea b) do artigo 2.º da Lei n.º 16-A/2002, de 31 de Maio.\n\nO objectivo prosseguido assenta não só numa diminuição significativa dos encargos com pessoal dirigente e não dirigente, como também numa diminuição significativa de encargos de funcionamento.\n\nProcede-se, assim, à criação do Instituto do Desporto de Portugal.\n\nPrevêem-se no novo instituto atribuições e competências na área do desporto para todos e do desporto federado, no fito de conceber uma política desportiva nacional integrada e moderna, no quadro do preceituado no artigo 79.º da Constituição e na Lei de Bases do Sistema Desportivo (Lei n.º 1/90, de 13 de Janeiro).\n\nDá-se um novo relevo ao tratamento institucional em sede de relações públicas e internacionais, sendo concomitantemente reforçada a acção no âmbito da formação e desenvolvimento de recursos humanos.\n\nOs Centros de Medicina Desportiva de Lisboa, do Porto e de Coimbra são substituídos por um centro nacional, com uma delegação no Porto, com competências em matéria de medicina desportiva e no domínio da investigação científica aplicada ao desporto.\n\nO Museu do Desporto assume uma nova designação e adquire dignidade e importância. São criados a Biblioteca Nacional do Desporto e o Centro de Documentação do Desporto. Todas estas modificações entroncam numa estrutura institucional e humana mais reduzida, mas simultaneamente mais ágil, mais funcional e com a correspondente redução de encargos financeiros.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "863921093": {
+   "fragment_id": "864057420",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e natureza\n\n1 - É criado o Instituto do Desporto de Portugal, abreviadamente designado por IDP, que resulta da fusão do Instituto Nacional do Desporto (IND), do Centro de Estudos e Formação Desportiva (CEFD) e do Complexo de Apoio às Actividades Desportivas (CAAD).\n\n2 - O IDP é um instituto público dotado de personalidade jurídica, autonomia administrativa, financeira e património próprio, sujeito a tutela e superintendência do membro do Governo que tutela a área do desporto.\n\n3 - São aprovados os Estatutos do IDP, publicados em anexo ao presente diploma e que dele fazem parte integrante."
+  },
+  "863921094": {
+   "fragment_id": "864057421",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\nO IDP tem por missão o apoio e o fomento à concepção de uma política desportiva nacional integrada, nas diversas vertentes do desporto, colaborando na criação e disponibilização das necessárias condições técnicas, financeiras e materiais com vista a incrementar os hábitos de participação da população na prática desportiva, promovendo-a de forma regular, continuada e com níveis de qualidade elevados, inserida num ambiente seguro e saudável."
+  },
+  "863921095": {
+   "fragment_id": "864057422",
+   "type": 11,
+   "heading": "Artigo 3.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sucessão\n\n1 - O IDP sucede na titularidade de todos os direitos, obrigações e atribuições do IND, CEFD e CAAD, bem como na titularidade do património próprio daqueles organismos, sem prejuízo da sua prévia avaliação pela Direcção-Geral do Património, para efeitos de cadastro e inventário.\n\n2 - São transferidos para o IDP, nos termos do n.º 5 do artigo 2.º da Lei n.º 16-A/2002, de 31 de Maio, os saldos das dotações de receitas e despesas inscritas nos orçamentos do IND, CEFD e CAAD, cabendo ao IDP a prestação de contas relativas a todo o corrente ano económico.\n\n3 - As transferências patrimoniais previstas no n.º 1 são determinadas por despacho do membro do Governo que tutela a área do desporto, o qual constitui título bastante para todos os efeitos, nomeadamente os de registo, sem dependência de quaisquer outras formalidades.\n\n4 - As referências feitas na legislação que continua em vigor ao IND, CEFD e CAAD devem entender-se feitas ao IDP."
+  },
+  "863921096": {
+   "fragment_id": "864057423",
+   "type": 11,
+   "heading": "Artigo 4.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transição de pessoal\n\n1 - Os funcionários dos quadros de pessoal do IND, CEFD e CAAD transitam para o quadro de pessoal do IDP, nos termos da lei geral aplicável.\n\n2 - A transição e a colocação do pessoal previstas no número anterior fazem-se por lista nominativa aprovada por despacho do membro do Governo que tutela a área do desporto.\n\n3 - Até a aprovação do quadro de pessoal do IDP, mantêm-se em vigor os quadros de pessoal dos organismos extintos pelo presente diploma."
+  },
+  "863921097": {
+   "fragment_id": "864057424",
+   "type": 11,
+   "heading": "Artigo 5.º — Opção pelo contrato individual de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Opção pelo contrato individual de trabalho\n\n1 - O pessoal a que se refere o n.º 1 do artigo 4.º pode optar pela celebração de contrato individual de trabalho com o IDP, desde que tal se revele adequado para o exercício de funções em áreas técnicas específicas e conexas com o desenvolvimento desportivo.\n\n2 - O direito de opção é exercido mediante requerimento dirigido ao presidente da direcção do IDP, no prazo de 90 dias seguidos a contar da data de entrada em vigor do presente diploma.\n\n3 - A opção pelo contrato individual de trabalho é feita mediante acordo com a direcção do IDP, fundamentado na avaliação curricular e experiência profissional, tendo em consideração as exigências correspondentes ao conteúdo funcional da categoria do funcionário.\n\n4 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à função pública.\n\n5 - A cessação do vínculo à função pública a que se refere o número anterior torna-se efectiva na data da publicação do correspondente aviso no Diário da República."
+  },
+  "863921098": {
+   "fragment_id": "864057425",
+   "type": 11,
+   "heading": "Artigo 6.º — Cessação das comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cessação das comissões de serviço\n\nCom a entrada em vigor do presente diploma cessam automaticamente as comissões de serviço do pessoal dirigente do IND, CEFD e CAAD, mantendo-se em gestão corrente até à data de nomeação dos titulares da nova estrutura orgânica."
+  },
+  "863921099": {
+   "fragment_id": "864057426",
+   "type": 11,
+   "heading": "Artigo 7.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Situações especiais\n\n1 - O pessoal que à data da entrada em vigor do presente diploma se encontre em regime de estágio mantém-se nessa situação até à sua conclusão, sendo o respectivo provimento, se for caso disso, feito nos termos do n.º 1 do artigo 4.º\n\n2 - O pessoal que se encontre na situação de licença mantém os direitos que detinha à data do início da mesma, sendo-lhe aplicável o correspondente regime, nos termos da lei geral aplicável.\n\n3 - Os funcionários do IND, CEFD e CAAD, colocados no IDP, que se encontrem noutras entidades em regime de destacamento, requisição, comissão de serviço ou em qualquer outra forma de afectação mantêm-se nas mesmas condições e em idêntico regime até à cessação dessas situações, sem prejuízo do direito de opção pelo regime do contrato individual de trabalho.\n\n4 - O exercício de funções no IDP por pessoal pertencente a outros quadros da Administração Pública que se encontre em regime de destacamento, requisição ou outra situação de natureza transitória no IND, CEFD e CAAD fica sujeito a confirmação do presidente da direcção do IDP, no prazo de 60 dias seguidos a contar da data de nomeação dos titulares da nova estrutura orgânica.\n\n5 - Mantêm-se em vigor os concursos cujos avisos de abertura se encontrem publicados à data da entrada em vigor do presente diploma.\n\n6 - Aos funcionários que sejam providos na sequência dos concursos previstos no número anterior é aplicável o disposto no n.º 1 do artigo 4.º do presente diploma."
+  },
+  "863921100": {
+   "fragment_id": "864057427",
+   "type": 11,
+   "heading": "Artigo 8.º — Providências orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Providências orçamentais\n\nAs dotações inscritas nos projectos e programas do PIDDAC da responsabilidade do IND, CEFD e CAAD, relativos às atribuições e competências cuja transferência é objecto do presente diploma, são transferidas para o IDP, observadas as necessárias formalidades legais."
+  },
+  "863921101": {
+   "fragment_id": "864057428",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentos internos\n\nNo prazo de 90 dias a contar da data da entrada em vigor do presente diploma devem ser aprovados os regulamentos internos do IDP, mantendo-se em vigor, até essa data, os actualmente existentes."
+  },
+  "863921102": {
+   "fragment_id": "864057429",
+   "type": 11,
+   "heading": "Artigo 10.º — Promoção do desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Promoção do desporto\n\n1 - Mediante despacho do membro do Governo que tutela a área do desporto, os antigos praticantes desportivos que tenham obtido resultados de relevo em termos internacionais, prestigiando o País, poderão ser contratados em regime de prestação de serviços para participar em campanhas de promoção e divulgação da ética, do voluntariado e do espírito desportivo.\n\n2 - São consideradas campanhas de promoção e divulgação da ética, do voluntariado e do espírito desportivo designadamente as seguintes:\n\na) Exposições itinerantes do Museu Nacional do Desporto;\n\nb) Campanhas de divulgação desportiva junto das escolas;\n\nc) Campanhas de promoção da luta contra a dopagem e a violência no desporto."
+  },
+  "863921103": {
+   "fragment_id": "864057430",
+   "type": 11,
+   "heading": "Artigo 11.º — Ética e voluntariado desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Ética e voluntariado desportivos\n\nJunto do IDP funciona um conselho nacional para a ética e voluntariado desportivos, a regulamentar por diploma próprio."
+  },
+  "863921104": {
+   "fragment_id": "864057431",
+   "type": 11,
+   "heading": "Artigo 12.º — Laboratório de Análises e Dopagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Laboratório de Análises e Dopagem\n\n1 - Junto do IDP funciona o Laboratório de Análises e Dopagem (LAD), dotado de autonomia técnica e científica, ao qual compete, em especial:\n\na) Executar as análises relativas ao controlo da dopagem, a nível nacional ou internacional, se para tal for solicitado, e colaborar nas acções de recolha necessárias;\n\nb) Proceder à recolha do líquido orgânico a ser submetido a análise, no âmbito do controlo antidopagem, assegurando a respectiva cadeia de custódia;\n\nc) Executar as análises bioquímicas e afins destinadas a apoiar as acções desenvolvidas pelos organismos e entidades competentes na preparação dos praticantes desportivos, designadamente os de alta competição;\n\nd) Dar execução, no âmbito das suas competências, aos protocolos celebrados entre o IDP e outras instituições;\n\ne) Colaborar em acções de formação e investigação no âmbito da dopagem.\n\n2 - O LAD é dirigido por um director técnico recrutado de entre pessoas de reconhecido mérito, possuidoras de habilitações académicas adequadas e com experiência profissional comprovada, designadamente de entre docentes do ensino superior ou investigadores, vinculados ou não à função pública.\n\n3 - Sem prejuízo do disposto do número seguinte, o director técnico é equiparado, para efeitos remuneratórios, incluindo despesas de representação, a sub-director-geral da Administração Pública.\n\n4 - As condições de exercício de funções do director técnico, incluindo a respectiva remuneração, podem constar de contrato a celebrar com o Estado, para o efeito representado pelo ministro que tutela a área do desporto, devendo a respectiva minuta ser aprovada pelo Ministro das Finanças."
+  },
+  "863921105": {
+   "fragment_id": "864057432",
+   "type": 11,
+   "heading": "Artigo 13.º — Complexo Desportivo do Jamor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Complexo Desportivo do Jamor\n\n1 - Até à efectiva definição do novo modelo de gestão do Complexo Desportivo do Jamor, no qual se incluem o Centro de Alto Rendimento e o Centro de Estágio da Cruz Quebrada, o mesmo será dirigido por personalidade de reconhecida competência com a experiência e o mérito adequados às funções a desempenhar ou possuidora de currículo desportivo de mérito excepcional, vinculada ou não à Administração Pública.\n\n2 - O director do Complexo Desportivo do Jamor é equiparado, para todos os efeitos legais, a subdirector-geral."
+  },
+  "863921106": {
+   "fragment_id": "864057433",
+   "type": 11,
+   "heading": "Artigo 14.º — Infra-estruturas desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Infra-estruturas desportivas\n\nAté uma definitiva reestruturação dos equipamentos e infra-estruturas adstritos à administração pública desportiva, a ocorrer por via quer de descentralização para as autarquias locais, quer de gestão autonomizada, compete ao IDP administrar o Complexo Desportivo de Lamego, o Pavilhão da Ajuda e o Complexo Desportivo da Lapa, os quais serão objecto de regulamentação própria, a aprovar pelo membro do Governo que tutela a área do desporto."
+  },
+  "863921107": {
+   "fragment_id": "864057434",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 62/97, de 26 de Março, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 199/97, de 7 de Agosto, 84/98, de 3 de Abril, e 316-A/98, de 22 de Outubro;\n\nb) O Decreto-Lei n.º 63/97, de 26 de Março;\n\nc) O Decreto-Lei n.º 64/97, de 26 de Março."
+  },
+  "863921108": {
+   "fragment_id": "864057435",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "863921110": {
+   "fragment_id": "864057437",
+   "type": 14,
+   "heading": "Anexo — Estatutos do Instituto do Desporto de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos do Instituto do Desporto de Portugal"
+  },
+  "863921111": {
+   "fragment_id": "864057438",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, regime e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, regime e atribuições"
+  },
+  "863921112": {
+   "fragment_id": "864057439",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto do Desporto de Portugal, abreviadamente designado por IDP, é um instituto público dotado de personalidade jurídica, autonomia administrativa, financeira e património próprio, sujeito a tutela e superintendência do membro do Governo que tutela a área do desporto."
+  },
+  "863921113": {
+   "fragment_id": "864057440",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\nO IDP rege-se pelas leis aplicáveis, pelos presentes Estatutos e pelos regulamentos internos aprovados ao abrigo daqueles."
+  },
+  "863921114": {
+   "fragment_id": "864057441",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - São atribuições do IDP:\n\na) Promover e apoiar técnica, material e financeiramente o desenvolvimento da prática desportiva, nomeadamente através do apoio ao associativismo desportivo, valorizando especialmente a acção das federações desportivas;\n\nb) Propor a adopção de programas com vista à generalização da prática desportiva, nomeadamente junto dos grupos sociais dela especialmente carenciados e, em especial, dos cidadãos portadores de deficiência;\n\nc) Conceber, coordenar e apoiar, técnica e financeiramente, e sem prejuízo das competências cometidas por lei a outras entidades, um programa integrado de construção e recuperação do equipamento e das infra-estruturas desportivas, em colaboração, designadamente, com as autarquias locais;\n\nd) Propor medidas tendentes à adopção generalizada do exame de aptidão e do controlo médico-desportivo no acesso e no decurso da prática desportiva, respectivamente;\n\ne) Velar pela aplicação das normas relativas ao sistema de seguro para os agentes desportivos;\n\nf) Pronunciar-se sobre as normas de segurança desportiva a observar na construção e licenciamento de empreendimentos desportivos;\n\ng) Exercer as competências que, em matéria de licenciamento e fiscalização, lhe são legalmente atribuídas;\n\nh) Assegurar a valorização da qualidade dos recursos humanos do desporto e dos recursos humanos relacionados com o desporto;\n\ni) Exercer as demais competências que lhe sejam atribuídas.\n\n2 - O IDP, no âmbito da prossecução das suas atribuições, colabora com outras entidades, públicas ou privadas, nacionais ou internacionais, na atribuição de subsídios, de prémios e outras recompensas por mérito desportivo, bem como através da celebração de protocolos, acordos ou contratos-programa, nos termos a definir por despacho do membro do Governo que tutela a área do desporto, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros."
+  },
+  "863921115": {
+   "fragment_id": "864057442",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica e competências"
+  },
+  "863921116": {
+   "fragment_id": "864057443",
+   "type": 8,
+   "heading": "Secção I — Órgãos e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos e suas competências"
+  },
+  "863921117": {
+   "fragment_id": "864057444",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IDP:\n\na) A direcção;\n\nb) A comissão de fiscalização."
+  },
+  "863921118": {
+   "fragment_id": "864057445",
+   "type": 11,
+   "heading": "Artigo 5.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direcção\n\nA direcção do IDP é o órgão colegial responsável pela definição da actuação do IDP, bem como pela direcção dos respectivos serviços, em conformidade com a lei e as orientações governamentais."
+  },
+  "863921119": {
+   "fragment_id": "864057446",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição e funcionamento\n\n1 - A direcção é composta por um presidente e por dois vice-presidentes, equiparados, para todos os efeitos legais, respectivamente a director-geral e subdirector-geral.\n\n2 - A direcção reúne uma vez por semana e extraordinariamente sempre que o presidente a convoque, por sua iniciativa ou a solicitação de dois dos seus membros."
+  },
+  "863921120": {
+   "fragment_id": "864057447",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências da direcção\n\nÀ direcção compete coordenar a actividade do IDP e, em especial:\n\na) Dirigir a actividade do IDP;\n\nb) Submeter à aprovação do membro do Governo que tutela a área do desporto o plano anual de actividades e o orçamento;\n\nc) Apreciar os planos de actividades das delegações distritais;\n\nd) Aprovar os regulamentos internos necessários ao funcionamento do IDP;\n\ne) Assegurar a execução dos planos anuais e plurianuais de actividades;\n\nf) Nomear os representantes do IDP em organismos exteriores, sem prejuízo do poder de avocação pelo membro do Governo que tutela a área do desporto;\n\ng) Celebrar os contratos-programa de desenvolvimento desportivo previamente autorizados pelo membro do Governo que tutela a área do desporto;\n\nh) Celebrar, mediante prévia autorização do membro do Governo que tutela a área do desporto, acordos, protocolos ou contratos com entidades públicas ou privadas, de âmbito nacional ou internacional, sem prejuízo, neste último caso, das competências do Ministério dos Negócios Estrangeiros;\n\ni) Autorizar a cedência ou exploração de instalações, equipamentos e serviços desportivos a organizações ou entidades, públicas ou privadas, para a realização de actividades que se enquadrem no âmbito das atribuições do IDP;\n\nj) Gerir o património do IDP, podendo adquirir, alienar ou onerar bens móveis ou imóveis e aceitar donativos, heranças ou legados, nos termos da lei."
+  },
+  "863921121": {
+   "fragment_id": "864057448",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do presidente\n\n1 - Compete, em especial, ao presidente da direcção:\n\na) Presidir às reuniões, orientar os seus trabalhos e assegurar o cumprimento das respectivas deliberações;\n\nb) Exercer os poderes que lhe tenham sido delegados pelo membro do Governo que tutela a área do desporto;\n\nc) Representar o IDP em juízo e fora dele;\n\nd) Assegurar as relações do IDP com os órgãos de tutela e com os demais organismos públicos e privados;\n\ne) Solicitar pareceres à comissão de fiscalização;\n\nf) Exercer as competências que lhe sejam delegadas pela direcção.\n\n2 - O presidente da direcção pode delegar, ou subdelegar, competências nos dirigentes e delegados distritais."
+  },
+  "863921122": {
+   "fragment_id": "864057449",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão de fiscalização\n\n1 - A comissão de fiscalização é o órgão responsável pelo controlo da legalidade e economicidade da gestão financeira e patrimonial do IDP e de consulta do presidente nesse domínio.\n\n2 - A comissão de fiscalização é composta por um presidente e dois vogais, nomeados mediante despacho conjunto do Ministro das Finanças e do membro do Governo que tutela a área do desporto, sendo um dos vogais obrigatoriamente revisor oficial de contas.\n\n3 - O despacho conjunto a que se refere o número anterior fixará o número máximo das reuniões a realizar pela comissão de fiscalização, os termos a que deverão obedecer as respectivas convocatórias, bem como a forma de retribuição dos seus membros.\n\n4 - O mandato da comissão de fiscalização tem a duração de três anos, renovável, continuando, porém, a exercer funções até à sua efectiva substituição.\n\n5 - Das respectivas reuniões é lavrada acta, a qual deve ser aprovada e assinada por todos os membros presentes e remetida à direcção no prazo máximo de cinco dias úteis."
+  },
+  "863921123": {
+   "fragment_id": "864057450",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências da comissão de fiscalização\n\nÀ comissão de fiscalização compete:\n\na) Acompanhar e controlar o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial;\n\nb) Emitir parecer sobre o orçamento anual, suas revisões e alterações, bem como sobre o plano e o relatório de actividades e a conta de gerência;\n\nc) Fiscalizar a arrecadação de receitas, bem como a realização das despesas;\n\nd) Examinar periodicamente a situação económica, financeira e patrimonial e proceder à verificação dos fundos em cofre e em depósito, bem como fiscalizar a respectiva escrituração contabilística;\n\ne) Emitir parecer sobre a constituição de fundos de maneio, bem como sobre as condições da respectiva movimentação;\n\nf) Emitir parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\ng) Emitir parecer sobre a aceitação de doações, heranças ou legados;\n\nh) Propor a realização de auditorias externas, quando isso se revelar necessário ou conveniente;\n\ni) Apreciar a aplicação financeira dos apoios concedidos pelo IDP no âmbito dos contratos-programa celebrados;\n\nj) Pronunciar-se sobre qualquer assunto submetido à sua apreciação pela direcção;\n\nl) Participar ao Ministro das Finanças e ao membro do Governo que tutela a área do desporto as ilegalidades e irregularidades que detectar."
+  },
+  "863921124": {
+   "fragment_id": "864057451",
+   "type": 8,
+   "heading": "Secção II — Serviços do IDP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços do IDP"
+  },
+  "863921125": {
+   "fragment_id": "864057452",
+   "type": 3,
+   "heading": "Subsecção I — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Serviços centrais"
+  },
+  "863921126": {
+   "fragment_id": "864057453",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos\n\n1 - À Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos compete prosseguir os objectivos da formação desportiva, no quadro da formação profissional inserida no mercado de emprego, e assegurar um eficaz regime de certificação profissional na área do desporto, no âmbito do Sistema Nacional de Certificação Profissional.\n\n2 - A Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos integra as seguintes divisões:\n\na) Divisão de Formação;\n\nb) Divisão de Documentação e Edição.\n\n3 - À Divisão de Formação compete:\n\na) Conceber, propor e acompanhar a execução da política de formação, especialização e qualificação, na via não académica, dos diversos agentes desportivos;\n\nb) Homologar cursos de formação profissional adaptados ao desporto e emitir os respectivos certificados de formação profissional, tendo em conta a formação e a experiência profissional anteriormente adquiridas, seja em território nacional, seja noutros países;\n\nc) Incentivar e apoiar o recrutamento para a estrutura associativa de pessoal técnico especializado e dotado de qualificação elevada;\n\nd) Encorajar e apoiar a fixação de quadros técnicos nas zonas mais afastadas dos grandes centros urbanos;\n\ne) Estimular e apoiar a constituição, no seio das federações desportivas, de sectores técnicos responsáveis pela orientação da prática desportiva juvenil;\n\nf) Incentivar e apoiar a criação nas federações desportivas de centros de recursos em conhecimento;\n\ng) Estimular e apoiar a adopção de mecanismos técnicos e científicos que promovam a formação à distância;\n\nh) Apoiar projectos de investigação científica em diversas áreas do conhecimento na medida em que as mesmas se interconexionem com o desporto, designadamente o direito, a economia, a sociologia, a psicologia e o marketing;\n\ni) Propor e colaborar na definição e implantação de modelos de formação para agentes desportivos, com vista a assegurar a respectiva adequação às necessidades e às características e exigências organizativas do sistema desportivo nacional;\n\nj) Manter e desenvolver sistemas de cooperação com as instituições universitárias no quadro da formação de docentes e técnicos na área do desporto;\n\nl) Realizar estudos para determinar as necessidades de formação, a nível nacional, dos agentes desportivos;\n\nm) Apreciar os pedidos de concessão de bolsas para aperfeiçoamento de técnicos e agentes desportivos;\n\nn) Colaborar na elaboração de manuais necessários às acções de formação;\n\no) Promover a organização de conferências, colóquios, seminários ou outras manifestações técnicas;\n\np) Instruir e dar parecer sobre os processos tendentes ao licenciamento administrativo exigido para o exercício de actividades de formação desportiva.\n\n4 - À Divisão de Documentação e Edição compete, em geral, assegurar a gestão e o funcionamento da Biblioteca Nacional do Desporto e do Centro de Documentação do Desporto.\n\n5 - À Divisão de Documentação e Edição compete, em especial:\n\na) Proceder à instalação, organização e manutenção da Biblioteca Nacional do Desporto e do Centro de Documentação do Desporto;\n\nb) Propor a aquisição de documentação técnica e científica especializada de interesse para o IDP;\n\nc) Assegurar a gestão e o funcionamento do arquivo histórico, garantindo a guarda, conservação e tratamento da documentação;\n\nd) Promover a organização, o tratamento, a conservação e o acondicionamento de documentos textuais, cartográficos e áudio-visuais, em conformidade com os princípios arquivísticos definidos;\n\ne) Elaborar inventários, catálogos, guias, índices e outros instrumentos de descrição da documentação;\n\nf) Assegurar a organização e gestão dos ficheiros informáticos e promover a constituição de bases de dados, tendo em vista o acesso às espécies arquivísticas;\n\ng) Apoiar os utilizadores no acesso aos registos informáticos e convencionais;\n\nh) Organizar e manter actualizada, em articulação com o Gabinete Jurídico, uma base de dados de legislação desportiva;\n\ni) Proceder à recolha e tratamento de informação necessária ao regular funcionamento do Museu Nacional do Desporto;\n\nj) Editar e comercializar as publicações do IDP;\n\nl) Apoiar a edição de publicações para a divulgação dos trabalhos de investigação científica nas áreas conexas com o desporto;\n\nm) Organizar e manter actualizado o Atlas Desportivo, compreendendo todos os indicadores sobre a situação desportiva nacional, e assegurar a respectiva articulação com o sistema estatístico nacional;\n\nn) Recolher a informação necessária à prossecução de actividades a desenvolver pelo IDP, nomeadamente através da ligação a centros de documentação e bases de dados nacionais e estrangeiras.\n\n6 - No âmbito da Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos funciona o Museu Nacional do Desporto, cuja missão consiste em reunir, preservar e apresentar ao público todo o património que respeite à história e à evolução do desporto e das actividades físicas em Portugal.\n\n7 - Ao Museu Nacional do Desporto compete, em especial:\n\na) Conceber, planificar e executar tarefas inerentes a acções de recolha e estudo na área da museologia;\n\nb) Coordenar, planificar e executar tarefas inerentes ao serviço de exposições;\n\nc) Elaborar periodicamente um boletim informativo;\n\nd) Escolher actividades de interligação com os demais núcleos museológicos;\n\ne) Promover a conservação e o restauro das colecções e bens que constituam o respectivo património;\n\nf) Inventariar, classificar e proceder ao registo áudio-visual das espécies que compõem as colecções, adaptando-o às necessidades museológicas;\n\ng) Promover certames, concursos ou competições de natureza cultural envolvendo jogos tradicionais ou quaisquer modalidades desportivas representadas ou não nas suas colecções;\n\nh) Promover a divulgação das suas actividades, bem como de todo o tipo de objectos e artigos evocativos da vida e carreira de personalidades ligadas ao desporto.\n\n8 - O IDP goza do direito de preferência, em caso de venda, designadamente em leilões, das espécies que se destinam a integrar as colecções do Museu.\n\n9 - Por despacho conjunto dos competentes membros do Governo poderão ser incorporadas no Museu as colecções do Estado que, pela sua natureza, características e valor específico, se revistam de excepcional interesse para a história da evolução do desporto nacional."
+  },
+  "863921127": {
+   "fragment_id": "864057454",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção de Serviços de Infra-Estruturas Desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Infra-Estruturas Desportivas\n\n1 - À Direcção de Serviços de Infra-Estruturas Desportivas cabe preceder à programação, avaliação e acompanhamento das acções desenvolvidas no âmbito das infra-estruturas e equipamentos desportivos e administrar e fiscalizar as infra-estruturas e os equipamentos desportivos.\n\n2 - Compete igualmente à Direcção de Serviços de Infra-Estruturas Desportivas elaborar e manter actualizada uma «carta nacional das instalações desportivas», com vista a identificar as necessidades e carências dos potenciais utilizadores dos equipamentos desportivos, e inerente tipologia dos equipamentos desportivos, em função da sua faixa etária, do seu enquadramento geográfico, do seu nível social, das suas tradições desportivas e culturais, das suas aspirações e expectativas, e dos obstáculos que em regra enfrentam ao nível do acesso à prática do desporto.\n\n3 - A Direcção de Serviços de Infra-Estruturas Desportivas integra as seguintes divisões:\n\na) Divisão de Projectos;\n\nb) Divisão de Equipamentos e Infra-Estruturas Desportivos.\n\n4 - À Divisão de Projectos compete:\n\na) Definir as normas a observar no âmbito do regime da responsabilidade técnica pelas instalações desportivas abertas ao público e actividades aí desenvolvidas;\n\nb) Exercer as competências definidas por lei no âmbito do regime da responsabilidade técnica pelas instalações desportivas abertas ao público e actividades aí desenvolvidas;\n\nc) Elaborar estudos e apresentar propostas e orientações em matéria de programação, caracterização e tipologia da construção de instalações e equipamentos desportivos;\n\nd) Efectuar estudos tendentes à definição de regras uniformes a observar na instrução e desenvolvimento de projectos desportivos e de critérios de classificação e qualificação dos mesmos;\n\ne) Zelar pela observância das normas relativas às infra-estruturas e equipamentos desportivos, em especial as referentes à prevenção da violência, à segurança e à higiene;\n\nf) Garantir um acesso e uma circulação facilitados a todos os utentes, incluindo as pessoas portadoras de deficiência e com mobilidade reduzida;\n\ng) Valorizar ambiental e arquitectonicamente as zonas de implantação das infra-estruturas desportivas;\n\nh) Analisar e dar parecer sobre os projectos de empreendimentos desportivos que sejam submetidos à apreciação do IDP e prestar apoio técnico às entidades promotoras dos mesmos.\n\n5 - À Divisão de Equipamentos e Infra-Estruturas Desportivos compete:\n\na) Organizar e manter actualizada a informação de suporte às decisões a tomar no domínio do desenvolvimento da rede integrada de infra-estruturas desportivas;\n\nb) Acompanhar a execução dos contratos-programa de desenvolvimento de infra-estruturas desportivas;\n\nc) Assegurar uma permanente e articulada ligação com os serviços desconcentrados do IDP, autarquias locais e demais entidades com intervenção na execução da política de infra-estruturas desportivas, tendo em vista o seu coerente desenvolvimento;\n\nd) Acompanhar a elaboração e execução de projectos com incidência nas instalações próprias do IDP."
+  },
+  "863921128": {
+   "fragment_id": "864057455",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção de Serviços de Actividades Desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Actividades Desportivas\n\n1 - À Direcção de Serviços de Actividades Desportivas compete a dinamização, o apoio e a promoção da prática desportiva.\n\n2 - À Direcção de Serviços de Actividades Desportivas integra as seguintes divisões:\n\na) Divisão de Desporto para Todos;\n\nb) Divisão de Desporto Federado.\n\n3 - À Divisão de Desporto para Todos compete:\n\na) Promover a mobilização da população para a prática desportiva, favorecendo a sua adesão e prolongando a sua participação efectiva, evitando o abandono desportivo precoce;\n\nb) Apreciar os processos relativos à concessão de apoio técnico, material e financeiro para o desenvolvimento de acções de carácter desportivo, no âmbito do desporto para todos;\n\nc) Desenvolver as acções necessárias ao cumprimento da obrigatoriedade do seguro desportivo;\n\nd) Fomentar a maximização da ocupação de tempos livres através do desporto e promover estudos sobre o tema;\n\ne) Apoiar, nos termos legais, os clubes de praticantes e as associações promotoras de desporto;\n\nf) Dinamizar a promoção da actividade física como elemento indutor da vida saudável, designadamente junto dos seguintes grupos da população e segmentos do sistema desportivo:\n\ni) As crianças;\n\nii) Os jovens;\n\niii) Os idosos;\n\niv) Os cidadãos portadores de deficiência;\n\nv) A prática desportiva nos locais de trabalho;\n\nvi) O desporto nas Forças Armadas e nas forças de segurança;\n\nvii) O desenvolvimento das actividades físicas e desportivas fora de qualquer contexto formal;\n\ng) Apoiar a dinamização e operacionalização de projectos integrados, interligando o desporto, designadamente com o ambiente e o meio rural e com o turismo;\n\nh) Dinamizar campanhas de sensibilização contra a intolerância, o álcool, o tabaco e as drogas no desporto;\n\ni) Promover acções tendentes à eliminação de cargas intensivas de treino.\n\n4 - À Divisão de Desporto Federado compete:\n\na) Apoiar a criação de melhores condições organizacionais e operacionais das federações desportivas com vista ao aumento gradual e sistemático da implantação social e desportiva das respectivas modalidades ou conjunto de modalidades afins;\n\nb) Elaborar pareceres e apresentar propostas, tendo em vista assegurar o desenvolvimento do associativismo desportivo;\n\nc) Organizar e manter actualizado o registo nacional de clubes, federações desportivas e demais entidades com intervenção na área do desporto;\n\nd) Organizar e manter actualizado o registo nacional de pessoas singulares ou colectivas, distinguidas por feitos e méritos desportivos, nos termos do Decreto-Lei n.º 55/86, de 15 de Março;\n\ne) Apreciar os processos relativos à concessão de apoio técnico, material e financeiro para o desenvolvimento de acções de carácter desportivo, no âmbito do desporto federado;\n\nf) Apostar no desenvolvimento do subsistema de alta competição, nos termos da respectiva legislação;\n\ng) Apoiar o desenvolvimento dos programas de preparação desportiva e de participação competitiva apresentados pelas federações desportivas;\n\nh) Valorizar os meios e as condições de preparação desportiva dos agentes desportivos participantes no Projecto Olímpico;\n\ni) Estimular e apoiar a preparação desportiva e a participação nas principais competições internacionais dos diversos agentes envolvidos nas selecções nacionais;\n\nj) Materializar as medidas específicas de apoio ao desenvolvimento do desporto de alta competição e dos agentes que participam nas selecções e outras representações nacionais;\n\nl) Apoiar e estimular por meios apropriados o desenvolvimento de projectos que visem a identificação, a assistência e a formação de potenciais talentos;\n\nm) Incentivar a presença de dirigentes e técnicos nos congressos e outras reuniões promovidas pelas federações nacionais;\n\nn) Apoiar, fundada e criteriosamente, a organização de grandes eventos desportivos."
+  },
+  "863921129": {
+   "fragment_id": "864057456",
+   "type": 11,
+   "heading": "Artigo 15.º — Centro Nacional de Medicina Desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Centro Nacional de Medicina Desportiva\n\n1 - O Centro Nacional de Medicina Desportiva tem como objectivo promover o estado de saúde física e psíquica dos praticantes desportivos e fomentar a investigação científica nas matérias conexas com o seu objecto.\n\n2 - O Centro Nacional de Medicina Desportiva tem a sua sede em Lisboa e uma delegação no Porto.\n\n3 - No âmbito da medicina desportiva, ao Centro Nacional de Medicina Desportiva compete:\n\na) Colaborar na definição e no aperfeiçoamento de critérios de aptidão para a prática desportiva, bem como realizar exames de aptidão e de classificação, sempre que solicitados;\n\nb) Propor a celebração de acordos com unidades de saúde com vista à descentralização da avaliação das condições físicas dos praticantes, montando progressivamente unidades médico-desportivas;\n\nc) Cooperar com entidades públicas e privadas, nacionais e estrangeiras, na solução de problemas de ordem médica, assistencial, social e educativa na protecção da pessoa que pratica desporto;\n\nd) Apoiar o processo de detecção e selecção de talentos para a prática desportiva;\n\ne) Apoiar e avaliar o treino dos praticantes desportivos federados das diferentes modalidades, quando em regime de alta competição;\n\nf) Colaborar e prestar apoio no acompanhamento, tratamento e recuperação dos praticantes desportivos de alta competição;\n\ng) Colaborar na formação dos técnicos desportivos, nos termos definidos por despacho do membro do Governo que tutela a área do desporto;\n\nh) Facultar a frequência de estágios de aperfeiçoamento nas diferentes áreas da medicina desportiva;\n\ni) Colaborar com a Ordem dos Médicos no processo de credenciação especial em medicina desportiva;\n\nj) Desenvolver campanhas promocionais e informativas, tendo em vista a prática do exercício desportivo regular, nas suas mais variadas expressões;\n\nl) Criar programas de prevenção de lesões em pessoas que pratiquem desporto, para que o desenvolvimento da actividade física seja aproveitado da melhor forma.\n\n4 - No âmbito da investigação científica aplicada ao desporto, ao Centro Nacional de Medicina Desportiva compete promover a investigação médica, analítica e fisiológica aplicada ao desporto, preferencialmente nas áreas terapêutica e preventiva, em complemento com a investigação, designadamente, nas seguintes áreas do conhecimento:\n\ni) Nutricionismo;\n\nii) Educação sanitária;\n\niii) Saúde e segurança;\n\niv) Fisiologia do desenvolvimento e do exercido;\n\nv) Estudos sociológicos, comportamentais e éticos.\n\n5 - O Centro Nacional de Medicina Desportiva é dirigido por um director de serviços e a Delegação do Porto é dirigida por um chefe de divisão."
+  },
+  "863921130": {
+   "fragment_id": "864057457",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção de Serviços Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços Administrativa e Financeira\n\n1 - À Direcção de Serviços Administrativa e Financeira compete assegurar o apoio administrativo e financeiro aos órgãos e serviços do IDP.\n\n2 - A Direcção de Serviços Administrativa e Financeira integra as seguintes divisões:\n\na) Divisão de Gestão Financeira e Patrimonial;\n\nb) Divisão de Pessoal e Expediente;\n\nc) Divisão de Organização e Informática.\n\n3 - À Divisão de Gestão Financeira e Patrimonial compete:\n\na) Elaborar a proposta de orçamento anual do IDP;\n\nb) Exercer o controlo e execução orçamentais, bem como a avaliação das actividades desenvolvidas pelos serviços com recurso a metodologias de eficácia e eficiência;\n\nc) Organizar e manter uma contabilidade analítica da gestão que permita um controlo adequado de custos;\n\nd) Assegurar a gestão integrada dos recursos financeiros, tendo em conta a sua conformidade legal, a regularidade financeira, o cabimento das despesas, bem como a sua economia, eficiência e eficácia;\n\ne) Elaborar a conta de gerência e o relatório anual sobre a gestão efectuada, com uma rigorosa discriminação dos objectivos atingidos e dos recursos utilizados, bem como do grau de realização dos programas;\n\nf) Elaborar as requisições de fundos;\n\ng) Proceder às aquisições de bens e serviços e ao correspondente processamento das despesas;\n\nh) Proceder ao processamento das despesas relacionadas com a realização de empreitadas;\n\ni) Assegurar a gestão do património, designadamente zelando pela conservação e utilização racional das instalações e equipamentos, elaborando e mantendo actualizado o respectivo cadastro;\n\nj) Efectuar a gestão dos stocks;\n\nl) Assegurar a gestão e manutenção do parque automóvel afecto ao IDP, bem como proceder aos registos das despesas de combustíveis, manutenção e reparação, em ordem ao apuramento dos respectivos custos de funcionamento;\n\nm) Proceder ao processamento dos subsídios, apoios e demais comparticipações financeiras concedidos a entidades públicas e privadas;\n\nn) Organizar e manter actualizada a conta corrente do movimento financeiro;\n\no) Emitir balancetes de execução orçamental por rubricas e por projectos;\n\np) Efectuar a arrecadação das receitas cobradas, o pagamento das despesas autorizadas e respectiva escrituração.\n\n4 - Na dependência da Divisão de Gestão Financeira e Patrimonial funcionam:\n\na) A Secção de Orçamento e Contabilidade;\n\nb) A Tesouraria.\n\n5 - À Divisão de Pessoal e Expediente compete:\n\na) Elaborar os estudos necessários à gestão do pessoal e à sua correcta afectação pelos diversos serviços;\n\nb) Realizar todas as acções relativas à admissão, promoção e colocação de pessoal;\n\nc) Promover a elaboração e execução do Plano de Formação Profissional do pessoal;\n\nd) Assegurar, mantendo actualizado e organizado, um sistema de cadastro e registo de pessoal;\n\ne) Efectuar o controlo da assiduidade e da pontualidade;\n\nf) Assegurar a organização dos processos de classificação de serviço e das listas de antiguidade do pessoal;\n\ng) Organizar os processos de acidentes de serviço, dando-lhes o devido andamento;\n\nh) Proceder à recepção, registo, classificação, distribuição e expedição da correspondência do IDP;\n\ni) Organizar o arquivo corrente, propiciando uma fácil e rápida consulta;\n\nj) Efectuar o processamento das remunerações e abonos devidos ao pessoal.\n\n6 - Na dependência da Divisão de Pessoal e Expediente funcionam:\n\na) A Secção de Processamento de Abonos;\n\nb) A Secção de Expediente.\n\n7 - À Divisão de Organização e Informática compete:\n\na) Elaborar os planos anuais e plurianuais de actividades, em articulação com os restantes serviços;\n\nb) Elaborar os relatórios anuais de actividades;\n\nc) Elaborar o balanço social;\n\nd) Assegurar a execução das normas sobre condições ambientais, de higiene e segurança no trabalho;\n\ne) Assegurar a gestão da rede informática do IDP e promover a ligação em rede de todos os órgãos, serviços e organizações, bem como a ligação a outras redes informáticas;\n\nf) Assegurar a implementação das soluções informáticas adequadas às necessidades dos serviços;\n\ng) Emitir parecer técnico sobre as propostas de adjudicação para aquisição de equipamentos e serviços informáticos;\n\nh) Manter actualizado o registo de material informático."
+  },
+  "863921131": {
+   "fragment_id": "864057458",
+   "type": 11,
+   "heading": "Artigo 17.º — Gabinete de Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gabinete de Relações Internacionais\n\n1 - Ao Gabinete de Relações Internacionais compete, em geral, acompanhar as acções inerentes à execução da política internacional na área do desporto, sem prejuízo das competências do Ministério dos Negócios Estrangeiros e, quando for o caso, em articulação com outros departamentos da Administração Pública.\n\n2 - Ao Gabinete de Relações Internacionais compete, em especial:\n\na) Promover e apoiar os estudos necessários relevantes no âmbito do processo de vinculação internacional do Estado e da participação de Portugal em organizações internacionais;\n\nb) Prestar apoio técnico no âmbito dos processos submetidos ao Tribunal de Justiça das Comunidades Europeias no domínio do desporto;\n\nc) Colaborar com as entidades nacionais competentes na preparação das respostas a questionários decorrentes de instrumentos jurídicos internacionais no domínio do desporto;\n\nd) Emitir parecer, quando solicitado, sobre a incidência na legislação portuguesa dos instrumentos jurídicos internacionais no domínio do desporto;\n\ne) Apoiar a participação da comunidade científica e tecnológica nacional nas organizações estrangeiras com as quais existam acordos internacionais ou nas quais Portugal seja parte no domínio do desporto;\n\nf) Apoiar, quando solicitado, a representação externa portuguesa na área do desporto;\n\ng) Acompanhar, em articulação com o Gabinete Jurídico, o processo de produção legislativo e jurisprudencial comunitário com incidência na área do desporto e promover a adopção das medidas legislativas internas dele decorrentes;\n\nh) Promover a imagem do movimento desportivo nacional a nível internacional;\n\ni) Apoiar a cooperação externa na área do desporto, em especial com os Estados membros da Comunidade de Países de Língua Portuguesa.\n\n3 - O Gabinete de Relações Internacionais é dirigido por um director de serviços."
+  },
+  "863921132": {
+   "fragment_id": "864057459",
+   "type": 11,
+   "heading": "Artigo 18.º — Gabinete de Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gabinete de Relações Públicas\n\n1 - O Gabinete de Relações Públicas está incumbido de organizar o protocolo e de divulgar a actividade do IDP, assegurando uma maior aproximação entre o serviço público e o cidadão.\n\n2 - Ao Gabinete de Relações Públicas compete, em especial:\n\na) Promover a divulgação das actividades do IDP;\n\nb) Assegurar a organização do protocolo de reuniões, conferências e actos solenes do IDP, bem como do protocolo inerente às deslocações dos seus membros;\n\nc) Preparar e organizar, nos aspectos logísticos, em articulação com o Gabinete de Relações Internacionais, a recepção e a estada de personalidades ou missões estrangeiras em visita ao País, quando assim for determinado;\n\nd) Manter actualizada a informação quanto à actividade das comissões e dos grupos de trabalho no âmbito do IDP;\n\ne) Dinamizar um serviço de informação directa ao público relativamente a questões relacionadas com a actuação do IDP;\n\nf) Colaborar, em articulação com a Divisão de Documentação e Edição, na promoção e divulgação das edições do IDP.\n\n3 - O Gabinete de Relações Públicas é dirigido por um chefe de divisão."
+  },
+  "863921133": {
+   "fragment_id": "864057460",
+   "type": 11,
+   "heading": "Artigo 19.º — Gabinete Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gabinete Jurídico\n\n1 - Ao Gabinete Jurídico compete:\n\na) Proceder a estudos de direito desportivo comparado com vista ao aperfeiçoamento do sistema jurídico-desportivo nacional;\n\nb) Verificar a conformidade dos estatutos e regulamentos das federações desportivas dotadas do estatuto de utilidade pública desportiva, nos termos da lei;\n\nc) Emitir pareceres e prestar informações sobre questões de índole jurídica conexas com o desporto, elaborando os necessários estudos jurídicos;\n\nd) Informar, dar parecer e acompanhar tecnicamente os procedimentos administrativos graciosos e processos contenciosos;\n\ne) Proceder à compilação da legislação, jurisprudência e doutrina, nacionais e estrangeiras, de interesse para a actividade do IDP;\n\nf) Preparar e elaborar projectos legislativos e regulamentares, contratos ou quaisquer outros actos de natureza jurídica que lhe sejam superiormente solicitados;\n\ng) Instruir e apreciar, quando superiormente determinado, os processos de averiguações, inquéritos, sindicâncias e procedimentos disciplinares e contra-ordenacionais e prestar o apoio jurídico necessário aos respectivos instrutores;\n\nh) Acompanhar os processos de infracção e de pré-contencioso instaurados pela Comissão Europeia contra o Estado Português, em matérias que envolvam a área do desporto.\n\n2 - O Gabinete Jurídico é dirigido por um chefe de divisão."
+  },
+  "863921134": {
+   "fragment_id": "864057461",
+   "type": 3,
+   "heading": "Subsecção II — Serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Serviços desconcentrados"
+  },
+  "863921135": {
+   "fragment_id": "864057462",
+   "type": 11,
+   "heading": "Artigo 20.º — Delegações distritais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Delegações distritais\n\n1 - As delegações distritais são serviços desconcentrados do IDP, cabendo-lhes desenvolver a sua actividade a nível distrital, no âmbito das atribuições do IDP, de acordo com o respectivo plano de actividades e com as orientações e delegação de poderes.\n\n2 - Às delegações distritais compete representar o IDP nas respectivas áreas de actuação, colaborar nas actividades prosseguidas pelos serviços centrais, dar o apoio necessário ao desenvolvimento da prática desportiva, e, em especial:\n\na) Coordenar as actividades desenvolvidas pelo IDP a nível distrital;\n\nb) Promover uma permanente articulação com as demais entidades públicas e privadas que, na respectiva área de actuação, desenvolvem acções no âmbito do desporto, designadamente com o movimento associativo, as escolas e as autarquias locais;\n\nc) Desencadear e manter os mecanismos necessários a um contínuo e sistemático conhecimento da situação desportiva nacional;\n\nd) Desencadear as acções necessárias à detecção das necessidades da população distrital em matéria de desporto e tempos livres e providenciar para que se verifique um alargamento da prática desportiva ao maior número de cidadãos;\n\ne) Proceder à constituição de um ficheiro de clubes, associações, praticantes, instalações e mantê-lo actualizado;\n\nf) Colaborar com as entidades desportivas competentes na actualização permanente do Atlas Desportivo;\n\ng) Manter os serviços centrais informados dos factos que interessem ao processo de desenvolvimento desportivo, bem como cumprir as directivas deles emanadas;\n\nh) Elaborar pareceres, estudos ou projectos que considere de interesse ou que superiormente lhe sejam solicitados.\n\n3 - As delegações distritais são dirigidas por delegados, equiparados, para todos os efeitos, a chefes de divisão.\n\n4 - A organização e o funcionamento das delegações distritais serão definidos por regulamento interno a aprovar pela direcção do IDP e homologado pelo membro do Governo que tutela a área do desporto."
+  },
+  "863921136": {
+   "fragment_id": "864057463",
+   "type": 1,
+   "heading": "Capítulo III — Regime patrimonial e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime patrimonial e financeiro"
+  },
+  "863921137": {
+   "fragment_id": "864057464",
+   "type": 11,
+   "heading": "Artigo 21.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Património\n\nConstitui património do IDP a universalidade de bens, direitos e obrigações que a lei lhe atribui ou que adquira ou contraia no exercício das suas atribuições e competências."
+  },
+  "863921138": {
+   "fragment_id": "864057465",
+   "type": 11,
+   "heading": "Artigo 22.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Receitas\n\n1 - Constituem receitas do IDP:\n\na) As dotações provenientes do Orçamento do Estado;\n\nb) As percentagens do produto líquido da exploração dos concursos e de apostas mútuas previstas na legislação aplicável;\n\nc) As percentagens das receitas brutas da exploração do jogo do bingo previstas na legislação aplicável;\n\nd) As comparticipações ou subsídios, heranças, legados ou doações concedidos por qualquer tipo de entidade;\n\ne) As taxas e rendimentos resultantes da prestação de serviços e da utilização de instalações desportivas e outras afectas ao IDP;\n\nf) Os rendimentos dos bens próprios ou dos que se encontrem na sua posse;\n\ng) As multas e coimas destinadas ao IDP, nos termos da legislação aplicável;\n\nh) As comparticipações relativas ao seguro desportivo obrigatório que por lei lhe sejam atribuídas;\n\ni) O produto da venda de publicações e de outros bens editados ou produzidos pelo IDP;\n\nj) Quaisquer outras receitas não compreendidas nas alíneas anteriores e que por lei, contrato ou outro título revertam para o IDP.\n\n2 - As taxas e preços da venda de bens e serviços a que se refere o número anterior serão aprovados, sob proposta do IDP, pelo membro do Governo que tutela a área do desporto.\n\n3 - Os saldos verificados no final de cada ano relativamente às receitas que não sejam provenientes de transferência do Orçamento do Estado e que se destinam, em especial, à prossecução das atribuições de apoio à actividade desportiva transitam automaticamente para o ano seguinte, independentemente de quaisquer formalidades."
+  },
+  "863921139": {
+   "fragment_id": "864057466",
+   "type": 11,
+   "heading": "Artigo 23.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Despesas\n\nConstituem despesas do IDP as que resultem dos encargos resultantes de respectivo funcionamento e da prossecução das suas atribuições."
+  },
+  "863921140": {
+   "fragment_id": "864057467",
+   "type": 11,
+   "heading": "Artigo 24.º — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Gestão patrimonial e financeira\n\n1 - A gestão patrimonial e financeira do IDP rege-se pelos seguintes instrumentos de gestão previsional:\n\na) Planos de actividades e planos financeiros, anuais e plurianuais;\n\nb) Orçamento de tesouraria;\n\nc) Demonstração de resultados;\n\nd) Balanço previsional;\n\ne) Relatório anual de actividades.\n\n2 - O IDP utiliza um sistema de contabilidade que se enquadra no Plano Oficial de Contabilidade Pública."
+  },
+  "863921141": {
+   "fragment_id": "864057468",
+   "type": 11,
+   "heading": "Artigo 25.º — Apoio material e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Apoio material e financeiro\n\n1 - A concessão de apoio financeiro é titulada por contratos-programa, celebrados nos termos da legislação aplicável.\n\n2 - Sem prejuízo do disposto no número anterior, o IDP poderá propor ao membro do Governo que tutela a área do desporto a concessão de apoio material e financeiro a pessoas singulares e colectivas."
+  },
+  "863921142": {
+   "fragment_id": "864057469",
+   "type": 11,
+   "heading": "Artigo 26.º — Equiparação ao Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Equiparação ao Estado\n\nO IDP é equiparado ao Estado para efeitos de isenção de custas, designadamente em processos judiciais, administrativos e fiscais."
+  },
+  "863921143": {
+   "fragment_id": "864057470",
+   "type": 1,
+   "heading": "Capítulo IV — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Recursos humanos"
+  },
+  "863921144": {
+   "fragment_id": "864057471",
+   "type": 11,
+   "heading": "Artigo 27.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pessoal dirigente\n\n1 - O regime do pessoal dirigente é regulado nos termos da lei geral.\n\n2 - O IDP dispõe do pessoal dirigente constante do quadro anexo aos presentes estatutos, que dele faz parte integrante."
+  },
+  "863921145": {
+   "fragment_id": "864057472",
+   "type": 11,
+   "heading": "Artigo 28.º — Regime do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regime do pessoal\n\n1 - Ao pessoal do IDP aplica-se o regime geral da função pública.\n\n2 - O quadro do pessoal referido no número anterior é aprovado por portaria conjunta do Ministro das Finanças e do membro do Governo que tutela a área de desporto.\n\n3 - O IDP pode celebrar contratos individuais de trabalho, desde que tal se revele adequado para o exercício de funções em áreas técnicas específicas e conexas com o desenvolvimento desportivo.\n\n4 - Ao pessoal que celebre contrato individual de trabalho com o IDP é-lhe aplicado o respectivo regime, sendo-lhe igualmente aplicável o regime geral da segurança social.\n\n5 - O IDP dispõe de um quadro com as carreiras do pessoal em regime de contrato individual de trabalho.\n\n6 - O quadro de pessoal referido no número anterior e respectiva tabela de remunerações serão aprovados por portaria conjunta do Ministro das Finanças e do membro do Governo que tutela a área do desporto."
+  },
+  "863921146": {
+   "fragment_id": "864057473",
+   "type": 11,
+   "heading": "Artigo 29.º — Transição dos regimes de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Transição dos regimes de segurança social\n\n1 - O pessoal do IND, CEFD e CAAD que detenha vínculo à função pública e que opte pelo regime do contrato individual de trabalho é integrado no regime geral da segurança social, sendo contado, para todos os efeitos, nomeadamente para o cálculo das pensões a que tenha direito, o tempo de serviço prestado até à data da mudança de regime.\n\n2 - O cálculo das pensões do pessoal que tenha exercido o direito de opção, bem como a repartição dos encargos correspondentes, processar-se-á nos termos do regime legal da pensão unificada, sem prejuízo dos direitos consagrados na lei geral.\n\n3 - O IDP contribui para o financiamento da Caixa Geral de Aposentações com uma importância mensal igual à das quotas pagas pelo pessoal ao seu serviço abrangido pelo regime de protecção social da função pública.\n\n4 - Compete às entidades onde o pessoal do IDP seja autorizado a desempenhar funções em regime de comissão de serviço ou requisição satisfazer os encargos a que se refere o número anterior.\n\n5 - O orçamento do IDP para o ano de 2003 é o que resulta da integração dos saldos orçamentais existentes que estão aprovados para o IND, CEFD e CAAD, com as alterações, adaptações e suprimentos decorrentes do presente diploma."
+  },
+  "863921147": {
+   "fragment_id": "864057474",
+   "type": 11,
+   "heading": "Artigo 30.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Mobilidade\n\n1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou privadas, podem, mediante acordo prévio dos interessados e das entidades a que estiverem vinculados, desempenhar funções no IDP, em regime de requisição ou de comissão de serviço, nos termos da lei.\n\n2 - O pessoal do IDP pode ser chamado a desempenhar funções no Estado, em institutos públicos ou nas autarquias locais, bem como em empresas públicas, em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos, considerando-se esse período como serviço prestado no IDP.\n\n3 - O pessoal que preste serviço do IDP nos termos do n.º 1 manterá o regime de protecção social inerente ao seu lugar de origem, nomeadamente no que se refere à aposentação, reforma, sobrevivência e apoio na doença."
+  },
+  "863921148": {
+   "fragment_id": "864060275",
+   "type": 11,
+   "heading": "Artigo 31.º — Incompatibilidades e segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Incompatibilidades e segredo profissional\n\n1 - O pessoal do IDP não pode exercer qualquer actividade concorrente com as exercidas no âmbito do Instituto e fica sujeito a segredo profissional sobre os factos cujo conhecimento lhe advenha do exercício das suas funções, não os podendo divulgar nem utilizar em proveito próprio ou alheio, directamente ou por interposta pessoa.\n\n2 - A adopção do contrato individual de trabalho não dispensa os requisitos e limitações decorrentes da prossecução de interesse público, nomeadamente respeitantes a acumulações e incompatibilidades legalmente estabelecidas para os funcionários e agentes administrativos.\n\n3 - É vedado ao pessoal dirigente do IDP fazer parte dos corpos gerentes das federações, associações ou clubes desportivos, bem como da Confederação do Desporto de Portugal ou do Comité Olímpico de Portugal.\n\n4 - O pessoal não compreendido no número anterior, sempre que fizer parte dos corpos gerentes das entidades no mesmo referidas, fica obrigado a declarar essa condição, por escrito, à direcção do IDP."
+  },
+  "863921149": {
+   "fragment_id": "864060276",
+   "type": 11,
+   "heading": "Artigo 32.º — Estruturas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estruturas de projecto\n\nQuando a natureza ou especificidade dos objectivos o aconselhe, poderão ser constituídas estruturas de projecto, nos termos do artigo 10.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, não podendo simultaneamente ser de número superior a três, as quais serão integradas por técnicos ou outros especialistas afectos aos diversos serviços do IDP."
+  },
+  "863921150": {
+   "fragment_id": "864060277",
+   "type": 11,
+   "heading": "Artigo 33.º — Recrutamento de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Recrutamento de pessoal\n\nO recrutamento do pessoal em regime de contrato individual de trabalho deve ter lugar através de um procedimento administrativo que observe os seguintes princípios:\n\na) Publicitação de oferta de emprego pelos meios mais adequados;\n\nb) Igualdade de condições e oportunidades dos candidatos;\n\nc) Aplicação de métodos e critérios objectivos de avaliação e selecção;\n\nd) Fundamentação da decisão tomada."
+  },
+  "863921151": {
+   "fragment_id": "864060278",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal dirigente\n\n(a que se refere o n.º 2 do artigo 27.º)\n\n(ver quadro no documento original)"
+  },
+  "937046702": {
+   "fragment_id": "864057420",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e natureza",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e natureza\n\n1 - É criado o Instituto do Desporto de Portugal, abreviadamente designado por IDP, que resulta da fusão do Instituto Nacional do Desporto (IND), do Centro de Estudos e Formação Desportiva (CEFD) e do Complexo de Apoio às Actividades Desportivas (CAAD).\n\n2 - O IDP é um instituto público dotado de personalidade jurídica, autonomia administrativa, financeira e património próprio, sujeito a tutela e superintendência do membro do Governo que tutela a área do desporto.\n\n3 - São aprovados os Estatutos do IDP, publicados em anexo ao presente diploma e que dele fazem parte integrante.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046703": {
+   "fragment_id": "864057421",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nO IDP tem por missão o apoio e o fomento à concepção de uma política desportiva nacional integrada, nas diversas vertentes do desporto, colaborando na criação e disponibilização das necessárias condições técnicas, financeiras e materiais com vista a incrementar os hábitos de participação da população na prática desportiva, promovendo-a de forma regular, continuada e com níveis de qualidade elevados, inserida num ambiente seguro e saudável.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046704": {
+   "fragment_id": "864057422",
+   "type": 11,
+   "heading": "Artigo 3.º — Sucessão",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Sucessão\n\n1 - O IDP sucede na titularidade de todos os direitos, obrigações e atribuições do IND, CEFD e CAAD, bem como na titularidade do património próprio daqueles organismos, sem prejuízo da sua prévia avaliação pela Direcção-Geral do Património, para efeitos de cadastro e inventário.\n\n2 - São transferidos para o IDP, nos termos do n.º 5 do artigo 2.º da Lei n.º 16-A/2002, de 31 de Maio, os saldos das dotações de receitas e despesas inscritas nos orçamentos do IND, CEFD e CAAD, cabendo ao IDP a prestação de contas relativas a todo o corrente ano económico.\n\n3 - As transferências patrimoniais previstas no n.º 1 são determinadas por despacho do membro do Governo que tutela a área do desporto, o qual constitui título bastante para todos os efeitos, nomeadamente os de registo, sem dependência de quaisquer outras formalidades.\n\n4 - As referências feitas na legislação que continua em vigor ao IND, CEFD e CAAD devem entender-se feitas ao IDP.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046705": {
+   "fragment_id": "864057423",
+   "type": 11,
+   "heading": "Artigo 4.º — Transição de pessoal",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Transição de pessoal\n\n1 - Os funcionários dos quadros de pessoal do IND, CEFD e CAAD transitam para o quadro de pessoal do IDP, nos termos da lei geral aplicável.\n\n2 - A transição e a colocação do pessoal previstas no número anterior fazem-se por lista nominativa aprovada por despacho do membro do Governo que tutela a área do desporto.\n\n3 - Até a aprovação do quadro de pessoal do IDP, mantêm-se em vigor os quadros de pessoal dos organismos extintos pelo presente diploma.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046706": {
+   "fragment_id": "864057424",
+   "type": 11,
+   "heading": "Artigo 5.º — Opção pelo contrato individual de trabalho",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Opção pelo contrato individual de trabalho\n\n1 - O pessoal a que se refere o n.º 1 do artigo 4.º pode optar pela celebração de contrato individual de trabalho com o IDP, desde que tal se revele adequado para o exercício de funções em áreas técnicas específicas e conexas com o desenvolvimento desportivo.\n\n2 - O direito de opção é exercido mediante requerimento dirigido ao presidente da direcção do IDP, no prazo de 90 dias seguidos a contar da data de entrada em vigor do presente diploma.\n\n3 - A opção pelo contrato individual de trabalho é feita mediante acordo com a direcção do IDP, fundamentado na avaliação curricular e experiência profissional, tendo em consideração as exigências correspondentes ao conteúdo funcional da categoria do funcionário.\n\n4 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à função pública.\n\n5 - A cessação do vínculo à função pública a que se refere o número anterior torna-se efectiva na data da publicação do correspondente aviso no Diário da República.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046707": {
+   "fragment_id": "864057425",
+   "type": 11,
+   "heading": "Artigo 6.º — Cessação das comissões de serviço",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Cessação das comissões de serviço\n\nCom a entrada em vigor do presente diploma cessam automaticamente as comissões de serviço do pessoal dirigente do IND, CEFD e CAAD, mantendo-se em gestão corrente até à data de nomeação dos titulares da nova estrutura orgânica.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046708": {
+   "fragment_id": "864057426",
+   "type": 11,
+   "heading": "Artigo 7.º — Situações especiais",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Situações especiais\n\n1 - O pessoal que à data da entrada em vigor do presente diploma se encontre em regime de estágio mantém-se nessa situação até à sua conclusão, sendo o respectivo provimento, se for caso disso, feito nos termos do n.º 1 do artigo 4.º\n\n2 - O pessoal que se encontre na situação de licença mantém os direitos que detinha à data do início da mesma, sendo-lhe aplicável o correspondente regime, nos termos da lei geral aplicável.\n\n3 - Os funcionários do IND, CEFD e CAAD, colocados no IDP, que se encontrem noutras entidades em regime de destacamento, requisição, comissão de serviço ou em qualquer outra forma de afectação mantêm-se nas mesmas condições e em idêntico regime até à cessação dessas situações, sem prejuízo do direito de opção pelo regime do contrato individual de trabalho.\n\n4 - O exercício de funções no IDP por pessoal pertencente a outros quadros da Administração Pública que se encontre em regime de destacamento, requisição ou outra situação de natureza transitória no IND, CEFD e CAAD fica sujeito a confirmação do presidente da direcção do IDP, no prazo de 60 dias seguidos a contar da data de nomeação dos titulares da nova estrutura orgânica.\n\n5 - Mantêm-se em vigor os concursos cujos avisos de abertura se encontrem publicados à data da entrada em vigor do presente diploma.\n\n6 - Aos funcionários que sejam providos na sequência dos concursos previstos no número anterior é aplicável o disposto no n.º 1 do artigo 4.º do presente diploma.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046709": {
+   "fragment_id": "864057427",
+   "type": 11,
+   "heading": "Artigo 8.º — Providências orçamentais",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Providências orçamentais\n\nAs dotações inscritas nos projectos e programas do PIDDAC da responsabilidade do IND, CEFD e CAAD, relativos às atribuições e competências cuja transferência é objecto do presente diploma, são transferidas para o IDP, observadas as necessárias formalidades legais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046710": {
+   "fragment_id": "864057428",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentos internos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 9.º — Regulamentos internos\n\nNo prazo de 90 dias a contar da data da entrada em vigor do presente diploma devem ser aprovados os regulamentos internos do IDP, mantendo-se em vigor, até essa data, os actualmente existentes.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046711": {
+   "fragment_id": "864057429",
+   "type": 11,
+   "heading": "Artigo 10.º — Promoção do desporto",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Promoção do desporto\n\n1 - Mediante despacho do membro do Governo que tutela a área do desporto, os antigos praticantes desportivos que tenham obtido resultados de relevo em termos internacionais, prestigiando o País, poderão ser contratados em regime de prestação de serviços para participar em campanhas de promoção e divulgação da ética, do voluntariado e do espírito desportivo.\n\n2 - São consideradas campanhas de promoção e divulgação da ética, do voluntariado e do espírito desportivo designadamente as seguintes:\n\na) Exposições itinerantes do Museu Nacional do Desporto;\n\nb) Campanhas de divulgação desportiva junto das escolas;\n\nc) Campanhas de promoção da luta contra a dopagem e a violência no desporto.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046712": {
+   "fragment_id": "864057430",
+   "type": 11,
+   "heading": "Artigo 11.º — Ética e voluntariado desportivos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — Ética e voluntariado desportivos\n\nJunto do IDP funciona um conselho nacional para a ética e voluntariado desportivos, a regulamentar por diploma próprio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046713": {
+   "fragment_id": "864057432",
+   "type": 11,
+   "heading": "Artigo 13.º — Complexo Desportivo do Jamor",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 13.º — Complexo Desportivo do Jamor\n\n1 - Até à efectiva definição do novo modelo de gestão do Complexo Desportivo do Jamor, no qual se incluem o Centro de Alto Rendimento e o Centro de Estágio da Cruz Quebrada, o mesmo será dirigido por personalidade de reconhecida competência com a experiência e o mérito adequados às funções a desempenhar ou possuidora de currículo desportivo de mérito excepcional, vinculada ou não à Administração Pública.\n\n2 - O director do Complexo Desportivo do Jamor é equiparado, para todos os efeitos legais, a subdirector-geral.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046714": {
+   "fragment_id": "864057433",
+   "type": 11,
+   "heading": "Artigo 14.º — Infra-estruturas desportivas",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 14.º — Infra-estruturas desportivas\n\nAté uma definitiva reestruturação dos equipamentos e infra-estruturas adstritos à administração pública desportiva, a ocorrer por via quer de descentralização para as autarquias locais, quer de gestão autonomizada, compete ao IDP administrar o Complexo Desportivo de Lamego, o Pavilhão da Ajuda e o Complexo Desportivo da Lapa, os quais serão objecto de regulamentação própria, a aprovar pelo membro do Governo que tutela a área do desporto.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046715": {
+   "fragment_id": "864057434",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 62/97, de 26 de Março, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 199/97, de 7 de Agosto, 84/98, de 3 de Abril, e 316-A/98, de 22 de Outubro;\n\nb) O Decreto-Lei n.º 63/97, de 26 de Março;\n\nc) O Decreto-Lei n.º 64/97, de 26 de Março.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046716": {
+   "fragment_id": "864057435",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "863921109": {
+   "fragment_id": "864057436",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José Luís Fazenda Arnaut Duarte.\n\nPromulgado em 17 de Abril de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Abril de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "937046717": {
+   "fragment_id": "864057437",
+   "type": 14,
+   "heading": "Anexo — Estatutos do Instituto do Desporto de Portugal",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "## Anexo — Estatutos do Instituto do Desporto de Portugal\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046718": {
+   "fragment_id": "864057438",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, regime e atribuições",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "### Capítulo I — Natureza, regime e atribuições\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046719": {
+   "fragment_id": "864057439",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto do Desporto de Portugal, abreviadamente designado por IDP, é um instituto público dotado de personalidade jurídica, autonomia administrativa, financeira e património próprio, sujeito a tutela e superintendência do membro do Governo que tutela a área do desporto.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046720": {
+   "fragment_id": "864057440",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Regime\n\nO IDP rege-se pelas leis aplicáveis, pelos presentes Estatutos e pelos regulamentos internos aprovados ao abrigo daqueles.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046721": {
+   "fragment_id": "864057441",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - São atribuições do IDP:\n\na) Promover e apoiar técnica, material e financeiramente o desenvolvimento da prática desportiva, nomeadamente através do apoio ao associativismo desportivo, valorizando especialmente a acção das federações desportivas;\n\nb) Propor a adopção de programas com vista à generalização da prática desportiva, nomeadamente junto dos grupos sociais dela especialmente carenciados e, em especial, dos cidadãos portadores de deficiência;\n\nc) Conceber, coordenar e apoiar, técnica e financeiramente, e sem prejuízo das competências cometidas por lei a outras entidades, um programa integrado de construção e recuperação do equipamento e das infra-estruturas desportivas, em colaboração, designadamente, com as autarquias locais;\n\nd) Propor medidas tendentes à adopção generalizada do exame de aptidão e do controlo médico-desportivo no acesso e no decurso da prática desportiva, respectivamente;\n\ne) Velar pela aplicação das normas relativas ao sistema de seguro para os agentes desportivos;\n\nf) Pronunciar-se sobre as normas de segurança desportiva a observar na construção e licenciamento de empreendimentos desportivos;\n\ng) Exercer as competências que, em matéria de licenciamento e fiscalização, lhe são legalmente atribuídas;\n\nh) Assegurar a valorização da qualidade dos recursos humanos do desporto e dos recursos humanos relacionados com o desporto;\n\ni) Exercer as demais competências que lhe sejam atribuídas.\n\n2 - O IDP, no âmbito da prossecução das suas atribuições, colabora com outras entidades, públicas ou privadas, nacionais ou internacionais, na atribuição de subsídios, de prémios e outras recompensas por mérito desportivo, bem como através da celebração de protocolos, acordos ou contratos-programa, nos termos a definir por despacho do membro do Governo que tutela a área do desporto, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046722": {
+   "fragment_id": "864057442",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica e competências",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica e competências\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046723": {
+   "fragment_id": "864057443",
+   "type": 8,
+   "heading": "Secção I — Órgãos e suas competências",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "#### Secção I — Órgãos e suas competências\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046724": {
+   "fragment_id": "864057444",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IDP:\n\na) A direcção;\n\nb) A comissão de fiscalização.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046725": {
+   "fragment_id": "864057445",
+   "type": 11,
+   "heading": "Artigo 5.º — Direcção",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Direcção\n\nA direcção do IDP é o órgão colegial responsável pela definição da actuação do IDP, bem como pela direcção dos respectivos serviços, em conformidade com a lei e as orientações governamentais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046726": {
+   "fragment_id": "864057446",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição e funcionamento",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Composição e funcionamento\n\n1 - A direcção é composta por um presidente e por dois vice-presidentes, equiparados, para todos os efeitos legais, respectivamente a director-geral e subdirector-geral.\n\n2 - A direcção reúne uma vez por semana e extraordinariamente sempre que o presidente a convoque, por sua iniciativa ou a solicitação de dois dos seus membros.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046727": {
+   "fragment_id": "864057447",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da direcção",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Competências da direcção\n\nÀ direcção compete coordenar a actividade do IDP e, em especial:\n\na) Dirigir a actividade do IDP;\n\nb) Submeter à aprovação do membro do Governo que tutela a área do desporto o plano anual de actividades e o orçamento;\n\nc) Apreciar os planos de actividades das delegações distritais;\n\nd) Aprovar os regulamentos internos necessários ao funcionamento do IDP;\n\ne) Assegurar a execução dos planos anuais e plurianuais de actividades;\n\nf) Nomear os representantes do IDP em organismos exteriores, sem prejuízo do poder de avocação pelo membro do Governo que tutela a área do desporto;\n\ng) Celebrar os contratos-programa de desenvolvimento desportivo previamente autorizados pelo membro do Governo que tutela a área do desporto;\n\nh) Celebrar, mediante prévia autorização do membro do Governo que tutela a área do desporto, acordos, protocolos ou contratos com entidades públicas ou privadas, de âmbito nacional ou internacional, sem prejuízo, neste último caso, das competências do Ministério dos Negócios Estrangeiros;\n\ni) Autorizar a cedência ou exploração de instalações, equipamentos e serviços desportivos a organizações ou entidades, públicas ou privadas, para a realização de actividades que se enquadrem no âmbito das atribuições do IDP;\n\nj) Gerir o património do IDP, podendo adquirir, alienar ou onerar bens móveis ou imóveis e aceitar donativos, heranças ou legados, nos termos da lei.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046728": {
+   "fragment_id": "864057448",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do presidente",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Competências do presidente\n\n1 - Compete, em especial, ao presidente da direcção:\n\na) Presidir às reuniões, orientar os seus trabalhos e assegurar o cumprimento das respectivas deliberações;\n\nb) Exercer os poderes que lhe tenham sido delegados pelo membro do Governo que tutela a área do desporto;\n\nc) Representar o IDP em juízo e fora dele;\n\nd) Assegurar as relações do IDP com os órgãos de tutela e com os demais organismos públicos e privados;\n\ne) Solicitar pareceres à comissão de fiscalização;\n\nf) Exercer as competências que lhe sejam delegadas pela direcção.\n\n2 - O presidente da direcção pode delegar, ou subdelegar, competências nos dirigentes e delegados distritais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046729": {
+   "fragment_id": "864057449",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão de fiscalização",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 9.º — Comissão de fiscalização\n\n1 - A comissão de fiscalização é o órgão responsável pelo controlo da legalidade e economicidade da gestão financeira e patrimonial do IDP e de consulta do presidente nesse domínio.\n\n2 - A comissão de fiscalização é composta por um presidente e dois vogais, nomeados mediante despacho conjunto do Ministro das Finanças e do membro do Governo que tutela a área do desporto, sendo um dos vogais obrigatoriamente revisor oficial de contas.\n\n3 - O despacho conjunto a que se refere o número anterior fixará o número máximo das reuniões a realizar pela comissão de fiscalização, os termos a que deverão obedecer as respectivas convocatórias, bem como a forma de retribuição dos seus membros.\n\n4 - O mandato da comissão de fiscalização tem a duração de três anos, renovável, continuando, porém, a exercer funções até à sua efectiva substituição.\n\n5 - Das respectivas reuniões é lavrada acta, a qual deve ser aprovada e assinada por todos os membros presentes e remetida à direcção no prazo máximo de cinco dias úteis.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046730": {
+   "fragment_id": "864057450",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências da comissão de fiscalização",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Competências da comissão de fiscalização\n\nÀ comissão de fiscalização compete:\n\na) Acompanhar e controlar o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial;\n\nb) Emitir parecer sobre o orçamento anual, suas revisões e alterações, bem como sobre o plano e o relatório de actividades e a conta de gerência;\n\nc) Fiscalizar a arrecadação de receitas, bem como a realização das despesas;\n\nd) Examinar periodicamente a situação económica, financeira e patrimonial e proceder à verificação dos fundos em cofre e em depósito, bem como fiscalizar a respectiva escrituração contabilística;\n\ne) Emitir parecer sobre a constituição de fundos de maneio, bem como sobre as condições da respectiva movimentação;\n\nf) Emitir parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\ng) Emitir parecer sobre a aceitação de doações, heranças ou legados;\n\nh) Propor a realização de auditorias externas, quando isso se revelar necessário ou conveniente;\n\ni) Apreciar a aplicação financeira dos apoios concedidos pelo IDP no âmbito dos contratos-programa celebrados;\n\nj) Pronunciar-se sobre qualquer assunto submetido à sua apreciação pela direcção;\n\nl) Participar ao Ministro das Finanças e ao membro do Governo que tutela a área do desporto as ilegalidades e irregularidades que detectar.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046731": {
+   "fragment_id": "864057451",
+   "type": 8,
+   "heading": "Secção II — Serviços do IDP",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "#### Secção II — Serviços do IDP\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046732": {
+   "fragment_id": "937017642",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — Serviços\n\n1 - Para o cumprimento das atribuições que lhe estão cometidas, o IDP compreende os seguintes serviços centrais:\n\na) A Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos;\n\nb) A Direcção de Serviços de Infra-Estruturas Desportivas;\n\nc) A Direcção de Serviços das Actividades Desportivas;\n\nd) O Centro Nacional de Medicina Desportiva;\n\ne) A Direcção de Serviços Administrativa e Financeira;\n\nf) O Gabinete de Relações Internacionais;\n\ng) O Gabinete de Relações Públicas;\n\nh) O Gabinete Jurídico.\n\n2 - São serviços desconcentrados do IDP as delegações distritais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046733": {
+   "fragment_id": "864057452",
+   "type": 3,
+   "heading": "Subsecção I — Serviços centrais",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "##### Subsecção I — Serviços centrais\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046734": {
+   "fragment_id": "864057453",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos\n\n1 - À Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos compete prosseguir os objectivos da formação desportiva, no quadro da formação profissional inserida no mercado de emprego, e assegurar um eficaz regime de certificação profissional na área do desporto, no âmbito do Sistema Nacional de Certificação Profissional.\n\n2 - A Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos integra as seguintes divisões:\n\na) Divisão de Formação;\n\nb) Divisão de Documentação e Edição.\n\n3 - À Divisão de Formação compete:\n\na) Conceber, propor e acompanhar a execução da política de formação, especialização e qualificação, na via não académica, dos diversos agentes desportivos;\n\nb) Homologar cursos de formação profissional adaptados ao desporto e emitir os respectivos certificados de formação profissional, tendo em conta a formação e a experiência profissional anteriormente adquiridas, seja em território nacional, seja noutros países;\n\nc) Incentivar e apoiar o recrutamento para a estrutura associativa de pessoal técnico especializado e dotado de qualificação elevada;\n\nd) Encorajar e apoiar a fixação de quadros técnicos nas zonas mais afastadas dos grandes centros urbanos;\n\ne) Estimular e apoiar a constituição, no seio das federações desportivas, de sectores técnicos responsáveis pela orientação da prática desportiva juvenil;\n\nf) Incentivar e apoiar a criação nas federações desportivas de centros de recursos em conhecimento;\n\ng) Estimular e apoiar a adopção de mecanismos técnicos e científicos que promovam a formação à distância;\n\nh) Apoiar projectos de investigação científica em diversas áreas do conhecimento na medida em que as mesmas se interconexionem com o desporto, designadamente o direito, a economia, a sociologia, a psicologia e o marketing;\n\ni) Propor e colaborar na definição e implantação de modelos de formação para agentes desportivos, com vista a assegurar a respectiva adequação às necessidades e às características e exigências organizativas do sistema desportivo nacional;\n\nj) Manter e desenvolver sistemas de cooperação com as instituições universitárias no quadro da formação de docentes e técnicos na área do desporto;\n\nl) Realizar estudos para determinar as necessidades de formação, a nível nacional, dos agentes desportivos;\n\nm) Apreciar os pedidos de concessão de bolsas para aperfeiçoamento de técnicos e agentes desportivos;\n\nn) Colaborar na elaboração de manuais necessários às acções de formação;\n\no) Promover a organização de conferências, colóquios, seminários ou outras manifestações técnicas;\n\np) Instruir e dar parecer sobre os processos tendentes ao licenciamento administrativo exigido para o exercício de actividades de formação desportiva.\n\n4 - À Divisão de Documentação e Edição compete, em geral, assegurar a gestão e o funcionamento da Biblioteca Nacional do Desporto e do Centro de Documentação do Desporto.\n\n5 - À Divisão de Documentação e Edição compete, em especial:\n\na) Proceder à instalação, organização e manutenção da Biblioteca Nacional do Desporto e do Centro de Documentação do Desporto;\n\nb) Propor a aquisição de documentação técnica e científica especializada de interesse para o IDP;\n\nc) Assegurar a gestão e o funcionamento do arquivo histórico, garantindo a guarda, conservação e tratamento da documentação;\n\nd) Promover a organização, o tratamento, a conservação e o acondicionamento de documentos textuais, cartográficos e áudio-visuais, em conformidade com os princípios arquivísticos definidos;\n\ne) Elaborar inventários, catálogos, guias, índices e outros instrumentos de descrição da documentação;\n\nf) Assegurar a organização e gestão dos ficheiros informáticos e promover a constituição de bases de dados, tendo em vista o acesso às espécies arquivísticas;\n\ng) Apoiar os utilizadores no acesso aos registos informáticos e convencionais;\n\nh) Organizar e manter actualizada, em articulação com o Gabinete Jurídico, uma base de dados de legislação desportiva;\n\ni) Proceder à recolha e tratamento de informação necessária ao regular funcionamento do Museu Nacional do Desporto;\n\nj) Editar e comercializar as publicações do IDP;\n\nl) Apoiar a edição de publicações para a divulgação dos trabalhos de investigação científica nas áreas conexas com o desporto;\n\nm) Organizar e manter actualizado o Atlas Desportivo, compreendendo todos os indicadores sobre a situação desportiva nacional, e assegurar a respectiva articulação com o sistema estatístico nacional;\n\nn) Recolher a informação necessária à prossecução de actividades a desenvolver pelo IDP, nomeadamente através da ligação a centros de documentação e bases de dados nacionais e estrangeiras.\n\n6 - No âmbito da Direcção de Serviços de Formação e Desenvolvimento de Recursos Humanos funciona o Museu Nacional do Desporto, cuja missão consiste em reunir, preservar e apresentar ao público todo o património que respeite à história e à evolução do desporto e das actividades físicas em Portugal.\n\n7 - Ao Museu Nacional do Desporto compete, em especial:\n\na) Conceber, planificar e executar tarefas inerentes a acções de recolha e estudo na área da museologia;\n\nb) Coordenar, planificar e executar tarefas inerentes ao serviço de exposições;\n\nc) Elaborar periodicamente um boletim informativo;\n\nd) Escolher actividades de interligação com os demais núcleos museológicos;\n\ne) Promover a conservação e o restauro das colecções e bens que constituam o respectivo património;\n\nf) Inventariar, classificar e proceder ao registo áudio-visual das espécies que compõem as colecções, adaptando-o às necessidades museológicas;\n\ng) Promover certames, concursos ou competições de natureza cultural envolvendo jogos tradicionais ou quaisquer modalidades desportivas representadas ou não nas suas colecções;\n\nh) Promover a divulgação das suas actividades, bem como de todo o tipo de objectos e artigos evocativos da vida e carreira de personalidades ligadas ao desporto.\n\n8 - O IDP goza do direito de preferência, em caso de venda, designadamente em leilões, das espécies que se destinam a integrar as colecções do Museu.\n\n9 - Por despacho conjunto dos competentes membros do Governo poderão ser incorporadas no Museu as colecções do Estado que, pela sua natureza, características e valor específico, se revistam de excepcional interesse para a história da evolução do desporto nacional.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046735": {
+   "fragment_id": "864057454",
+   "type": 11,
+   "heading": "Artigo 13.º — Direcção de Serviços de Infra-Estruturas Desportivas",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Infra-Estruturas Desportivas\n\n1 - À Direcção de Serviços de Infra-Estruturas Desportivas cabe preceder à programação, avaliação e acompanhamento das acções desenvolvidas no âmbito das infra-estruturas e equipamentos desportivos e administrar e fiscalizar as infra-estruturas e os equipamentos desportivos.\n\n2 - Compete igualmente à Direcção de Serviços de Infra-Estruturas Desportivas elaborar e manter actualizada uma «carta nacional das instalações desportivas», com vista a identificar as necessidades e carências dos potenciais utilizadores dos equipamentos desportivos, e inerente tipologia dos equipamentos desportivos, em função da sua faixa etária, do seu enquadramento geográfico, do seu nível social, das suas tradições desportivas e culturais, das suas aspirações e expectativas, e dos obstáculos que em regra enfrentam ao nível do acesso à prática do desporto.\n\n3 - A Direcção de Serviços de Infra-Estruturas Desportivas integra as seguintes divisões:\n\na) Divisão de Projectos;\n\nb) Divisão de Equipamentos e Infra-Estruturas Desportivos.\n\n4 - À Divisão de Projectos compete:\n\na) Definir as normas a observar no âmbito do regime da responsabilidade técnica pelas instalações desportivas abertas ao público e actividades aí desenvolvidas;\n\nb) Exercer as competências definidas por lei no âmbito do regime da responsabilidade técnica pelas instalações desportivas abertas ao público e actividades aí desenvolvidas;\n\nc) Elaborar estudos e apresentar propostas e orientações em matéria de programação, caracterização e tipologia da construção de instalações e equipamentos desportivos;\n\nd) Efectuar estudos tendentes à definição de regras uniformes a observar na instrução e desenvolvimento de projectos desportivos e de critérios de classificação e qualificação dos mesmos;\n\ne) Zelar pela observância das normas relativas às infra-estruturas e equipamentos desportivos, em especial as referentes à prevenção da violência, à segurança e à higiene;\n\nf) Garantir um acesso e uma circulação facilitados a todos os utentes, incluindo as pessoas portadoras de deficiência e com mobilidade reduzida;\n\ng) Valorizar ambiental e arquitectonicamente as zonas de implantação das infra-estruturas desportivas;\n\nh) Analisar e dar parecer sobre os projectos de empreendimentos desportivos que sejam submetidos à apreciação do IDP e prestar apoio técnico às entidades promotoras dos mesmos.\n\n5 - À Divisão de Equipamentos e Infra-Estruturas Desportivos compete:\n\na) Organizar e manter actualizada a informação de suporte às decisões a tomar no domínio do desenvolvimento da rede integrada de infra-estruturas desportivas;\n\nb) Acompanhar a execução dos contratos-programa de desenvolvimento de infra-estruturas desportivas;\n\nc) Assegurar uma permanente e articulada ligação com os serviços desconcentrados do IDP, autarquias locais e demais entidades com intervenção na execução da política de infra-estruturas desportivas, tendo em vista o seu coerente desenvolvimento;\n\nd) Acompanhar a elaboração e execução de projectos com incidência nas instalações próprias do IDP.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046736": {
+   "fragment_id": "864057455",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção de Serviços de Actividades Desportivas",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Actividades Desportivas\n\n1 - À Direcção de Serviços de Actividades Desportivas compete a dinamização, o apoio e a promoção da prática desportiva.\n\n2 - À Direcção de Serviços de Actividades Desportivas integra as seguintes divisões:\n\na) Divisão de Desporto para Todos;\n\nb) Divisão de Desporto Federado.\n\n3 - À Divisão de Desporto para Todos compete:\n\na) Promover a mobilização da população para a prática desportiva, favorecendo a sua adesão e prolongando a sua participação efectiva, evitando o abandono desportivo precoce;\n\nb) Apreciar os processos relativos à concessão de apoio técnico, material e financeiro para o desenvolvimento de acções de carácter desportivo, no âmbito do desporto para todos;\n\nc) Desenvolver as acções necessárias ao cumprimento da obrigatoriedade do seguro desportivo;\n\nd) Fomentar a maximização da ocupação de tempos livres através do desporto e promover estudos sobre o tema;\n\ne) Apoiar, nos termos legais, os clubes de praticantes e as associações promotoras de desporto;\n\nf) Dinamizar a promoção da actividade física como elemento indutor da vida saudável, designadamente junto dos seguintes grupos da população e segmentos do sistema desportivo:\n\ni) As crianças;\n\nii) Os jovens;\n\niii) Os idosos;\n\niv) Os cidadãos portadores de deficiência;\n\nv) A prática desportiva nos locais de trabalho;\n\nvi) O desporto nas Forças Armadas e nas forças de segurança;\n\nvii) O desenvolvimento das actividades físicas e desportivas fora de qualquer contexto formal;\n\ng) Apoiar a dinamização e operacionalização de projectos integrados, interligando o desporto, designadamente com o ambiente e o meio rural e com o turismo;\n\nh) Dinamizar campanhas de sensibilização contra a intolerância, o álcool, o tabaco e as drogas no desporto;\n\ni) Promover acções tendentes à eliminação de cargas intensivas de treino.\n\n4 - À Divisão de Desporto Federado compete:\n\na) Apoiar a criação de melhores condições organizacionais e operacionais das federações desportivas com vista ao aumento gradual e sistemático da implantação social e desportiva das respectivas modalidades ou conjunto de modalidades afins;\n\nb) Elaborar pareceres e apresentar propostas, tendo em vista assegurar o desenvolvimento do associativismo desportivo;\n\nc) Organizar e manter actualizado o registo nacional de clubes, federações desportivas e demais entidades com intervenção na área do desporto;\n\nd) Organizar e manter actualizado o registo nacional de pessoas singulares ou colectivas, distinguidas por feitos e méritos desportivos, nos termos do Decreto-Lei n.º 55/86, de 15 de Março;\n\ne) Apreciar os processos relativos à concessão de apoio técnico, material e financeiro para o desenvolvimento de acções de carácter desportivo, no âmbito do desporto federado;\n\nf) Apostar no desenvolvimento do subsistema de alta competição, nos termos da respectiva legislação;\n\ng) Apoiar o desenvolvimento dos programas de preparação desportiva e de participação competitiva apresentados pelas federações desportivas;\n\nh) Valorizar os meios e as condições de preparação desportiva dos agentes desportivos participantes no Projecto Olímpico;\n\ni) Estimular e apoiar a preparação desportiva e a participação nas principais competições internacionais dos diversos agentes envolvidos nas selecções nacionais;\n\nj) Materializar as medidas específicas de apoio ao desenvolvimento do desporto de alta competição e dos agentes que participam nas selecções e outras representações nacionais;\n\nl) Apoiar e estimular por meios apropriados o desenvolvimento de projectos que visem a identificação, a assistência e a formação de potenciais talentos;\n\nm) Incentivar a presença de dirigentes e técnicos nos congressos e outras reuniões promovidas pelas federações nacionais;\n\nn) Apoiar, fundada e criteriosamente, a organização de grandes eventos desportivos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046737": {
+   "fragment_id": "864057456",
+   "type": 11,
+   "heading": "Artigo 15.º — Centro Nacional de Medicina Desportiva",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 15.º — Centro Nacional de Medicina Desportiva\n\n1 - O Centro Nacional de Medicina Desportiva tem como objectivo promover o estado de saúde física e psíquica dos praticantes desportivos e fomentar a investigação científica nas matérias conexas com o seu objecto.\n\n2 - O Centro Nacional de Medicina Desportiva tem a sua sede em Lisboa e uma delegação no Porto.\n\n3 - No âmbito da medicina desportiva, ao Centro Nacional de Medicina Desportiva compete:\n\na) Colaborar na definição e no aperfeiçoamento de critérios de aptidão para a prática desportiva, bem como realizar exames de aptidão e de classificação, sempre que solicitados;\n\nb) Propor a celebração de acordos com unidades de saúde com vista à descentralização da avaliação das condições físicas dos praticantes, montando progressivamente unidades médico-desportivas;\n\nc) Cooperar com entidades públicas e privadas, nacionais e estrangeiras, na solução de problemas de ordem médica, assistencial, social e educativa na protecção da pessoa que pratica desporto;\n\nd) Apoiar o processo de detecção e selecção de talentos para a prática desportiva;\n\ne) Apoiar e avaliar o treino dos praticantes desportivos federados das diferentes modalidades, quando em regime de alta competição;\n\nf) Colaborar e prestar apoio no acompanhamento, tratamento e recuperação dos praticantes desportivos de alta competição;\n\ng) Colaborar na formação dos técnicos desportivos, nos termos definidos por despacho do membro do Governo que tutela a área do desporto;\n\nh) Facultar a frequência de estágios de aperfeiçoamento nas diferentes áreas da medicina desportiva;\n\ni) Colaborar com a Ordem dos Médicos no processo de credenciação especial em medicina desportiva;\n\nj) Desenvolver campanhas promocionais e informativas, tendo em vista a prática do exercício desportivo regular, nas suas mais variadas expressões;\n\nl) Criar programas de prevenção de lesões em pessoas que pratiquem desporto, para que o desenvolvimento da actividade física seja aproveitado da melhor forma.\n\n4 - No âmbito da investigação científica aplicada ao desporto, ao Centro Nacional de Medicina Desportiva compete promover a investigação médica, analítica e fisiológica aplicada ao desporto, preferencialmente nas áreas terapêutica e preventiva, em complemento com a investigação, designadamente, nas seguintes áreas do conhecimento:\n\ni) Nutricionismo;\n\nii) Educação sanitária;\n\niii) Saúde e segurança;\n\niv) Fisiologia do desenvolvimento e do exercido;\n\nv) Estudos sociológicos, comportamentais e éticos.\n\n5 - O Centro Nacional de Medicina Desportiva é dirigido por um director de serviços e a Delegação do Porto é dirigida por um chefe de divisão.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046738": {
+   "fragment_id": "864057457",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção de Serviços Administrativa e Financeira",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços Administrativa e Financeira\n\n1 - À Direcção de Serviços Administrativa e Financeira compete assegurar o apoio administrativo e financeiro aos órgãos e serviços do IDP.\n\n2 - A Direcção de Serviços Administrativa e Financeira integra as seguintes divisões:\n\na) Divisão de Gestão Financeira e Patrimonial;\n\nb) Divisão de Pessoal e Expediente;\n\nc) Divisão de Organização e Informática.\n\n3 - À Divisão de Gestão Financeira e Patrimonial compete:\n\na) Elaborar a proposta de orçamento anual do IDP;\n\nb) Exercer o controlo e execução orçamentais, bem como a avaliação das actividades desenvolvidas pelos serviços com recurso a metodologias de eficácia e eficiência;\n\nc) Organizar e manter uma contabilidade analítica da gestão que permita um controlo adequado de custos;\n\nd) Assegurar a gestão integrada dos recursos financeiros, tendo em conta a sua conformidade legal, a regularidade financeira, o cabimento das despesas, bem como a sua economia, eficiência e eficácia;\n\ne) Elaborar a conta de gerência e o relatório anual sobre a gestão efectuada, com uma rigorosa discriminação dos objectivos atingidos e dos recursos utilizados, bem como do grau de realização dos programas;\n\nf) Elaborar as requisições de fundos;\n\ng) Proceder às aquisições de bens e serviços e ao correspondente processamento das despesas;\n\nh) Proceder ao processamento das despesas relacionadas com a realização de empreitadas;\n\ni) Assegurar a gestão do património, designadamente zelando pela conservação e utilização racional das instalações e equipamentos, elaborando e mantendo actualizado o respectivo cadastro;\n\nj) Efectuar a gestão dos stocks;\n\nl) Assegurar a gestão e manutenção do parque automóvel afecto ao IDP, bem como proceder aos registos das despesas de combustíveis, manutenção e reparação, em ordem ao apuramento dos respectivos custos de funcionamento;\n\nm) Proceder ao processamento dos subsídios, apoios e demais comparticipações financeiras concedidos a entidades públicas e privadas;\n\nn) Organizar e manter actualizada a conta corrente do movimento financeiro;\n\no) Emitir balancetes de execução orçamental por rubricas e por projectos;\n\np) Efectuar a arrecadação das receitas cobradas, o pagamento das despesas autorizadas e respectiva escrituração.\n\n4 - Na dependência da Divisão de Gestão Financeira e Patrimonial funcionam:\n\na) A Secção de Orçamento e Contabilidade;\n\nb) A Tesouraria.\n\n5 - À Divisão de Pessoal e Expediente compete:\n\na) Elaborar os estudos necessários à gestão do pessoal e à sua correcta afectação pelos diversos serviços;\n\nb) Realizar todas as acções relativas à admissão, promoção e colocação de pessoal;\n\nc) Promover a elaboração e execução do Plano de Formação Profissional do pessoal;\n\nd) Assegurar, mantendo actualizado e organizado, um sistema de cadastro e registo de pessoal;\n\ne) Efectuar o controlo da assiduidade e da pontualidade;\n\nf) Assegurar a organização dos processos de classificação de serviço e das listas de antiguidade do pessoal;\n\ng) Organizar os processos de acidentes de serviço, dando-lhes o devido andamento;\n\nh) Proceder à recepção, registo, classificação, distribuição e expedição da correspondência do IDP;\n\ni) Organizar o arquivo corrente, propiciando uma fácil e rápida consulta;\n\nj) Efectuar o processamento das remunerações e abonos devidos ao pessoal.\n\n6 - Na dependência da Divisão de Pessoal e Expediente funcionam:\n\na) A Secção de Processamento de Abonos;\n\nb) A Secção de Expediente.\n\n7 - À Divisão de Organização e Informática compete:\n\na) Elaborar os planos anuais e plurianuais de actividades, em articulação com os restantes serviços;\n\nb) Elaborar os relatórios anuais de actividades;\n\nc) Elaborar o balanço social;\n\nd) Assegurar a execução das normas sobre condições ambientais, de higiene e segurança no trabalho;\n\ne) Assegurar a gestão da rede informática do IDP e promover a ligação em rede de todos os órgãos, serviços e organizações, bem como a ligação a outras redes informáticas;\n\nf) Assegurar a implementação das soluções informáticas adequadas às necessidades dos serviços;\n\ng) Emitir parecer técnico sobre as propostas de adjudicação para aquisição de equipamentos e serviços informáticos;\n\nh) Manter actualizado o registo de material informático.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046739": {
+   "fragment_id": "864057458",
+   "type": 11,
+   "heading": "Artigo 17.º — Gabinete de Relações Internacionais",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 17.º — Gabinete de Relações Internacionais\n\n1 - Ao Gabinete de Relações Internacionais compete, em geral, acompanhar as acções inerentes à execução da política internacional na área do desporto, sem prejuízo das competências do Ministério dos Negócios Estrangeiros e, quando for o caso, em articulação com outros departamentos da Administração Pública.\n\n2 - Ao Gabinete de Relações Internacionais compete, em especial:\n\na) Promover e apoiar os estudos necessários relevantes no âmbito do processo de vinculação internacional do Estado e da participação de Portugal em organizações internacionais;\n\nb) Prestar apoio técnico no âmbito dos processos submetidos ao Tribunal de Justiça das Comunidades Europeias no domínio do desporto;\n\nc) Colaborar com as entidades nacionais competentes na preparação das respostas a questionários decorrentes de instrumentos jurídicos internacionais no domínio do desporto;\n\nd) Emitir parecer, quando solicitado, sobre a incidência na legislação portuguesa dos instrumentos jurídicos internacionais no domínio do desporto;\n\ne) Apoiar a participação da comunidade científica e tecnológica nacional nas organizações estrangeiras com as quais existam acordos internacionais ou nas quais Portugal seja parte no domínio do desporto;\n\nf) Apoiar, quando solicitado, a representação externa portuguesa na área do desporto;\n\ng) Acompanhar, em articulação com o Gabinete Jurídico, o processo de produção legislativo e jurisprudencial comunitário com incidência na área do desporto e promover a adopção das medidas legislativas internas dele decorrentes;\n\nh) Promover a imagem do movimento desportivo nacional a nível internacional;\n\ni) Apoiar a cooperação externa na área do desporto, em especial com os Estados membros da Comunidade de Países de Língua Portuguesa.\n\n3 - O Gabinete de Relações Internacionais é dirigido por um director de serviços.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046740": {
+   "fragment_id": "864057459",
+   "type": 11,
+   "heading": "Artigo 18.º — Gabinete de Relações Públicas",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 18.º — Gabinete de Relações Públicas\n\n1 - O Gabinete de Relações Públicas está incumbido de organizar o protocolo e de divulgar a actividade do IDP, assegurando uma maior aproximação entre o serviço público e o cidadão.\n\n2 - Ao Gabinete de Relações Públicas compete, em especial:\n\na) Promover a divulgação das actividades do IDP;\n\nb) Assegurar a organização do protocolo de reuniões, conferências e actos solenes do IDP, bem como do protocolo inerente às deslocações dos seus membros;\n\nc) Preparar e organizar, nos aspectos logísticos, em articulação com o Gabinete de Relações Internacionais, a recepção e a estada de personalidades ou missões estrangeiras em visita ao País, quando assim for determinado;\n\nd) Manter actualizada a informação quanto à actividade das comissões e dos grupos de trabalho no âmbito do IDP;\n\ne) Dinamizar um serviço de informação directa ao público relativamente a questões relacionadas com a actuação do IDP;\n\nf) Colaborar, em articulação com a Divisão de Documentação e Edição, na promoção e divulgação das edições do IDP.\n\n3 - O Gabinete de Relações Públicas é dirigido por um chefe de divisão.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046741": {
+   "fragment_id": "864057460",
+   "type": 11,
+   "heading": "Artigo 19.º — Gabinete Jurídico",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 19.º — Gabinete Jurídico\n\n1 - Ao Gabinete Jurídico compete:\n\na) Proceder a estudos de direito desportivo comparado com vista ao aperfeiçoamento do sistema jurídico-desportivo nacional;\n\nb) Verificar a conformidade dos estatutos e regulamentos das federações desportivas dotadas do estatuto de utilidade pública desportiva, nos termos da lei;\n\nc) Emitir pareceres e prestar informações sobre questões de índole jurídica conexas com o desporto, elaborando os necessários estudos jurídicos;\n\nd) Informar, dar parecer e acompanhar tecnicamente os procedimentos administrativos graciosos e processos contenciosos;\n\ne) Proceder à compilação da legislação, jurisprudência e doutrina, nacionais e estrangeiras, de interesse para a actividade do IDP;\n\nf) Preparar e elaborar projectos legislativos e regulamentares, contratos ou quaisquer outros actos de natureza jurídica que lhe sejam superiormente solicitados;\n\ng) Instruir e apreciar, quando superiormente determinado, os processos de averiguações, inquéritos, sindicâncias e procedimentos disciplinares e contra-ordenacionais e prestar o apoio jurídico necessário aos respectivos instrutores;\n\nh) Acompanhar os processos de infracção e de pré-contencioso instaurados pela Comissão Europeia contra o Estado Português, em matérias que envolvam a área do desporto.\n\n2 - O Gabinete Jurídico é dirigido por um chefe de divisão.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046742": {
+   "fragment_id": "864057461",
+   "type": 3,
+   "heading": "Subsecção II — Serviços desconcentrados",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "##### Subsecção II — Serviços desconcentrados\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046743": {
+   "fragment_id": "864057462",
+   "type": 11,
+   "heading": "Artigo 20.º — Delegações distritais",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 20.º — Delegações distritais\n\n1 - As delegações distritais são serviços desconcentrados do IDP, cabendo-lhes desenvolver a sua actividade a nível distrital, no âmbito das atribuições do IDP, de acordo com o respectivo plano de actividades e com as orientações e delegação de poderes.\n\n2 - Às delegações distritais compete representar o IDP nas respectivas áreas de actuação, colaborar nas actividades prosseguidas pelos serviços centrais, dar o apoio necessário ao desenvolvimento da prática desportiva, e, em especial:\n\na) Coordenar as actividades desenvolvidas pelo IDP a nível distrital;\n\nb) Promover uma permanente articulação com as demais entidades públicas e privadas que, na respectiva área de actuação, desenvolvem acções no âmbito do desporto, designadamente com o movimento associativo, as escolas e as autarquias locais;\n\nc) Desencadear e manter os mecanismos necessários a um contínuo e sistemático conhecimento da situação desportiva nacional;\n\nd) Desencadear as acções necessárias à detecção das necessidades da população distrital em matéria de desporto e tempos livres e providenciar para que se verifique um alargamento da prática desportiva ao maior número de cidadãos;\n\ne) Proceder à constituição de um ficheiro de clubes, associações, praticantes, instalações e mantê-lo actualizado;\n\nf) Colaborar com as entidades desportivas competentes na actualização permanente do Atlas Desportivo;\n\ng) Manter os serviços centrais informados dos factos que interessem ao processo de desenvolvimento desportivo, bem como cumprir as directivas deles emanadas;\n\nh) Elaborar pareceres, estudos ou projectos que considere de interesse ou que superiormente lhe sejam solicitados.\n\n3 - As delegações distritais são dirigidas por delegados, equiparados, para todos os efeitos, a chefes de divisão.\n\n4 - A organização e o funcionamento das delegações distritais serão definidos por regulamento interno a aprovar pela direcção do IDP e homologado pelo membro do Governo que tutela a área do desporto.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046744": {
+   "fragment_id": "864057463",
+   "type": 1,
+   "heading": "Capítulo III — Regime patrimonial e financeiro",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "### Capítulo III — Regime patrimonial e financeiro\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046745": {
+   "fragment_id": "864057464",
+   "type": 11,
+   "heading": "Artigo 21.º — Património",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 21.º — Património\n\nConstitui património do IDP a universalidade de bens, direitos e obrigações que a lei lhe atribui ou que adquira ou contraia no exercício das suas atribuições e competências.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046746": {
+   "fragment_id": "864057465",
+   "type": 11,
+   "heading": "Artigo 22.º — Receitas",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 22.º — Receitas\n\n1 - Constituem receitas do IDP:\n\na) As dotações provenientes do Orçamento do Estado;\n\nb) As percentagens do produto líquido da exploração dos concursos e de apostas mútuas previstas na legislação aplicável;\n\nc) As percentagens das receitas brutas da exploração do jogo do bingo previstas na legislação aplicável;\n\nd) As comparticipações ou subsídios, heranças, legados ou doações concedidos por qualquer tipo de entidade;\n\ne) As taxas e rendimentos resultantes da prestação de serviços e da utilização de instalações desportivas e outras afectas ao IDP;\n\nf) Os rendimentos dos bens próprios ou dos que se encontrem na sua posse;\n\ng) As multas e coimas destinadas ao IDP, nos termos da legislação aplicável;\n\nh) As comparticipações relativas ao seguro desportivo obrigatório que por lei lhe sejam atribuídas;\n\ni) O produto da venda de publicações e de outros bens editados ou produzidos pelo IDP;\n\nj) Quaisquer outras receitas não compreendidas nas alíneas anteriores e que por lei, contrato ou outro título revertam para o IDP.\n\n2 - As taxas e preços da venda de bens e serviços a que se refere o número anterior serão aprovados, sob proposta do IDP, pelo membro do Governo que tutela a área do desporto.\n\n3 - Os saldos verificados no final de cada ano relativamente às receitas que não sejam provenientes de transferência do Orçamento do Estado e que se destinam, em especial, à prossecução das atribuições de apoio à actividade desportiva transitam automaticamente para o ano seguinte, independentemente de quaisquer formalidades.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046747": {
+   "fragment_id": "864057466",
+   "type": 11,
+   "heading": "Artigo 23.º — Despesas",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 23.º — Despesas\n\nConstituem despesas do IDP as que resultem dos encargos resultantes de respectivo funcionamento e da prossecução das suas atribuições.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046748": {
+   "fragment_id": "864057467",
+   "type": 11,
+   "heading": "Artigo 24.º — Gestão patrimonial e financeira",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 24.º — Gestão patrimonial e financeira\n\n1 - A gestão patrimonial e financeira do IDP rege-se pelos seguintes instrumentos de gestão previsional:\n\na) Planos de actividades e planos financeiros, anuais e plurianuais;\n\nb) Orçamento de tesouraria;\n\nc) Demonstração de resultados;\n\nd) Balanço previsional;\n\ne) Relatório anual de actividades.\n\n2 - O IDP utiliza um sistema de contabilidade que se enquadra no Plano Oficial de Contabilidade Pública.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046749": {
+   "fragment_id": "864057468",
+   "type": 11,
+   "heading": "Artigo 25.º — Apoio material e financeiro",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 25.º — Apoio material e financeiro\n\n1 - A concessão de apoio financeiro é titulada por contratos-programa, celebrados nos termos da legislação aplicável.\n\n2 - Sem prejuízo do disposto no número anterior, o IDP poderá propor ao membro do Governo que tutela a área do desporto a concessão de apoio material e financeiro a pessoas singulares e colectivas.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046750": {
+   "fragment_id": "864057469",
+   "type": 11,
+   "heading": "Artigo 26.º — Equiparação ao Estado",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 26.º — Equiparação ao Estado\n\nO IDP é equiparado ao Estado para efeitos de isenção de custas, designadamente em processos judiciais, administrativos e fiscais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046751": {
+   "fragment_id": "864057470",
+   "type": 1,
+   "heading": "Capítulo IV — Recursos humanos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "### Capítulo IV — Recursos humanos\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046752": {
+   "fragment_id": "864057471",
+   "type": 11,
+   "heading": "Artigo 27.º — Pessoal dirigente",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 27.º — Pessoal dirigente\n\n1 - O regime do pessoal dirigente é regulado nos termos da lei geral.\n\n2 - O IDP dispõe do pessoal dirigente constante do quadro anexo aos presentes estatutos, que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046753": {
+   "fragment_id": "864057472",
+   "type": 11,
+   "heading": "Artigo 28.º — Regime do pessoal",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 28.º — Regime do pessoal\n\n1 - Ao pessoal do IDP aplica-se o regime geral da função pública.\n\n2 - O quadro do pessoal referido no número anterior é aprovado por portaria conjunta do Ministro das Finanças e do membro do Governo que tutela a área de desporto.\n\n3 - O IDP pode celebrar contratos individuais de trabalho, desde que tal se revele adequado para o exercício de funções em áreas técnicas específicas e conexas com o desenvolvimento desportivo.\n\n4 - Ao pessoal que celebre contrato individual de trabalho com o IDP é-lhe aplicado o respectivo regime, sendo-lhe igualmente aplicável o regime geral da segurança social.\n\n5 - O IDP dispõe de um quadro com as carreiras do pessoal em regime de contrato individual de trabalho.\n\n6 - O quadro de pessoal referido no número anterior e respectiva tabela de remunerações serão aprovados por portaria conjunta do Ministro das Finanças e do membro do Governo que tutela a área do desporto.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046754": {
+   "fragment_id": "864057473",
+   "type": 11,
+   "heading": "Artigo 29.º — Transição dos regimes de segurança social",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 29.º — Transição dos regimes de segurança social\n\n1 - O pessoal do IND, CEFD e CAAD que detenha vínculo à função pública e que opte pelo regime do contrato individual de trabalho é integrado no regime geral da segurança social, sendo contado, para todos os efeitos, nomeadamente para o cálculo das pensões a que tenha direito, o tempo de serviço prestado até à data da mudança de regime.\n\n2 - O cálculo das pensões do pessoal que tenha exercido o direito de opção, bem como a repartição dos encargos correspondentes, processar-se-á nos termos do regime legal da pensão unificada, sem prejuízo dos direitos consagrados na lei geral.\n\n3 - O IDP contribui para o financiamento da Caixa Geral de Aposentações com uma importância mensal igual à das quotas pagas pelo pessoal ao seu serviço abrangido pelo regime de protecção social da função pública.\n\n4 - Compete às entidades onde o pessoal do IDP seja autorizado a desempenhar funções em regime de comissão de serviço ou requisição satisfazer os encargos a que se refere o número anterior.\n\n5 - O orçamento do IDP para o ano de 2003 é o que resulta da integração dos saldos orçamentais existentes que estão aprovados para o IND, CEFD e CAAD, com as alterações, adaptações e suprimentos decorrentes do presente diploma.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046755": {
+   "fragment_id": "864057474",
+   "type": 11,
+   "heading": "Artigo 30.º — Mobilidade",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 30.º — Mobilidade\n\n1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou privadas, podem, mediante acordo prévio dos interessados e das entidades a que estiverem vinculados, desempenhar funções no IDP, em regime de requisição ou de comissão de serviço, nos termos da lei.\n\n2 - O pessoal do IDP pode ser chamado a desempenhar funções no Estado, em institutos públicos ou nas autarquias locais, bem como em empresas públicas, em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos, considerando-se esse período como serviço prestado no IDP.\n\n3 - O pessoal que preste serviço do IDP nos termos do n.º 1 manterá o regime de protecção social inerente ao seu lugar de origem, nomeadamente no que se refere à aposentação, reforma, sobrevivência e apoio na doença.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046756": {
+   "fragment_id": "864060275",
+   "type": 11,
+   "heading": "Artigo 31.º — Incompatibilidades e segredo profissional",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 31.º — Incompatibilidades e segredo profissional\n\n1 - O pessoal do IDP não pode exercer qualquer actividade concorrente com as exercidas no âmbito do Instituto e fica sujeito a segredo profissional sobre os factos cujo conhecimento lhe advenha do exercício das suas funções, não os podendo divulgar nem utilizar em proveito próprio ou alheio, directamente ou por interposta pessoa.\n\n2 - A adopção do contrato individual de trabalho não dispensa os requisitos e limitações decorrentes da prossecução de interesse público, nomeadamente respeitantes a acumulações e incompatibilidades legalmente estabelecidas para os funcionários e agentes administrativos.\n\n3 - É vedado ao pessoal dirigente do IDP fazer parte dos corpos gerentes das federações, associações ou clubes desportivos, bem como da Confederação do Desporto de Portugal ou do Comité Olímpico de Portugal.\n\n4 - O pessoal não compreendido no número anterior, sempre que fizer parte dos corpos gerentes das entidades no mesmo referidas, fica obrigado a declarar essa condição, por escrito, à direcção do IDP.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046757": {
+   "fragment_id": "864060276",
+   "type": 11,
+   "heading": "Artigo 32.º — Estruturas de projecto",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 32.º — Estruturas de projecto\n\nQuando a natureza ou especificidade dos objectivos o aconselhe, poderão ser constituídas estruturas de projecto, nos termos do artigo 10.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, não podendo simultaneamente ser de número superior a três, as quais serão integradas por técnicos ou outros especialistas afectos aos diversos serviços do IDP.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046758": {
+   "fragment_id": "864060277",
+   "type": 11,
+   "heading": "Artigo 33.º — Recrutamento de pessoal",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 33.º — Recrutamento de pessoal\n\nO recrutamento do pessoal em regime de contrato individual de trabalho deve ter lugar através de um procedimento administrativo que observe os seguintes princípios:\n\na) Publicitação de oferta de emprego pelos meios mais adequados;\n\nb) Igualdade de condições e oportunidades dos candidatos;\n\nc) Aplicação de métodos e critérios objectivos de avaliação e selecção;\n\nd) Fundamentação da decisão tomada.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "937046759": {
+   "fragment_id": "864060278",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal dirigente",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal dirigente\n\n(a que se refere o n.º 2 do artigo 27.º)\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 169/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2007-521258), em vigor a partir de 2007-06-01"
+  },
+  "936698068": {
+   "fragment_id": "864057431",
+   "type": 11,
+   "heading": "Artigo 12.º — Laboratório de Análises e Dopagem",
+   "in_force_from": "2011-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 98/2011 - Diário da República n.º 182/2011, Série I de 2011-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2011-671032), em vigor a partir de 2011-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Laboratório de Análises e Dopagem\n\n1 - Junto do IDP funciona o Laboratório de Análises e Dopagem (LAD), dotado de autonomia técnica e científica, ao qual compete, em especial:\n\na) Executar as análises relativas ao controlo da dopagem, a nível nacional ou internacional, se para tal for solicitado, e colaborar nas acções de recolha necessárias;\n\nb) Proceder à recolha do líquido orgânico a ser submetido a análise, no âmbito do controlo antidopagem, assegurando a respectiva cadeia de custódia;\n\nc) Executar as análises bioquímicas e afins destinadas a apoiar as acções desenvolvidas pelos organismos e entidades competentes na preparação dos praticantes desportivos, designadamente os de alta competição;\n\nd) Dar execução, no âmbito das suas competências, aos protocolos celebrados entre o IDP e outras instituições;\n\ne) Colaborar em acções de formação e investigação no âmbito da dopagem.\n\n2 - O LAD é dirigido por um director técnico recrutado de entre pessoas de reconhecido mérito, possuidoras de habilitações académicas adequadas e com experiência profissional comprovada, designadamente de entre docentes do ensino superior ou investigadores, vinculados ou não à função pública.\n\n3 - Sem prejuízo do disposto do número seguinte, o director técnico é equiparado, para efeitos remuneratórios, incluindo despesas de representação, a sub-director-geral da Administração Pública.\n\n4 - As condições de exercício de funções do director técnico, incluindo a respectiva remuneração, podem constar de contrato a celebrar com o Estado, para o efeito representado pelo ministro que tutela a área do desporto, devendo a respectiva minuta ser aprovada pelo Ministro das Finanças.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 98/2011 - Diário da República n.º 182/2011, Série I de 2011-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2011-671032), em vigor a partir de 2011-10-01"
+  }
+ }
+}

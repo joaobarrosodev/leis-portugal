@@ -1,0 +1,366 @@
+---
+schema_version: '1.0'
+id: pt:dre:233332:por
+title: Portaria n.º 21770
+short_title: null
+summary: Manda aplicar às províncias ultramarinas de Angola e Moçambique, observadas as alterações constantes da presente
+  portaria, o Regulamento do Curso de Instrutores de Educação Física, aprovado pela Portaria n.º 20786
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral do Ensino
+proposing_entity: null
+official_number: '21770'
+official_date: null
+publication_date: '1966-01-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 1/1966, Série I de 1966-01-03
+  number: '1'
+  series: I
+  supplement: null
+  pages: 1 - 3
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/01/00100/00010003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '233332'
+  dre_path: /dr/detalhe/portaria/21770-1966-233332
+  internal: pt:dre:233332:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21770-1966-233332
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21770-1966-233332
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-01-03T00:00:00Z'
+integrity:
+  source_sha256: 9f5be39b113b3295d17f8a0be796191362f0e957b21a2107b306bdea652b6c5e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-21770-233332.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21770
+
+Tendo em conta as dificuldades de recrutamento de professores qualificados para ministrar o ensino de educação física nas escolas técnicas o liceus do ultramar e havendo necessidade de preparar profissionais que possam suprir a carência apontada;
+
+Em virtude dos bons resultados obtidos nos cursos de instrutor de educação física regulados na metrópole pela [Portaria n.º 20786](https://diariodarepublica.pt/dr/detalhe/portaria/20786-1964-539661), de 4 de Setembro de 1964;
+
+Ouvidos os Governos das províncias de Angola e Moçambique:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXVIII da Lei Orgânica do Ultramar Português, que seja aplicado às províncias ultramarinas de Angola e Moçambique o regulamento aprovado pela [Portaria n.º 20786](https://diariodarepublica.pt/dr/detalhe/portaria/20786-1964-539661), de 4 de Setembro de 1964, com as alterações nele introduzidas.
+
+REGULAMENTO DO CURSO DE INSTRUTORES DE EDUCAÇÃO FÍSICA
+
+###### Artigo 1.º O curso de instrutores de educação física, instituído pela presente portaria, destina-se a promover a formação de agentes de ensino de grau médio que possam exercer o magistério da respectiva especialidade em estabelecimentos de ensino oficial e particular ou em organismos desportivos, clubes ou associações para maior divulgação das actividades de educação física.
+
+###### Art. 2.º O director dos cursos de instrutores de educação física e os professores do respectivo corpo docente serão nomeados por despacho do governador, ouvido o Conselho Provincial de Educação Física.
+
+§ 1.º O conselho escolar é constituído por todos os professores do curso e reunir-se-á no final de cada semestre, nos termos do disposto no § 1.º do artigo 11.º deste regulamento, e, ainda, sempre que o director do curso o entenda necessário.
+
+§ 2.º As remunerações ou gratificações do director e dos professores do curso serão livremente fixadas pelos Governos das províncias.
+
+§ 3.º Aos funcionários que venham a exercer funções docentes nos cursos de instrutores de educação física em regime de complementaridade de serviço poderá ser-lhes atribuída uma gratificação a fixar pelo Governo da província.
+
+###### Art. 3.º Serão admitidos a frequentar o curso de instrutores de educação física todos os candidatos de um e outro sexo que tenham sido aprovados em exame de aptidão realizado nos termos dos artigos seguintes.
+
+###### Art. 4.º O exame de aptidão efectuar-se-á durante o mês de Setembro e a ele poderão apresentar-se os candidatos devidamente inscritos de 1 a 10 do mesmo mês que satisfaçam as seguintes condições:
+
+a) Possuir o 5.º ano dos liceus ou as habilitações consideradas equivalentes, para este fim especial, pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação;
+
+b) Não ter mais de 25 anos de idade, salvo quanto aos professores do ensino primário e para os milicianos que tenham concluído há menos de dezoito meses o serviço militar obrigatório, os quais poderão ser admitidos com idade superior à prevista na presente alínea, mediante autorização ministerial;
+
+c) Ter a estatura e robustez físicas indispensáveis ao normal exercício da profissão, devidamente apuradas através de inspecção médica a cargo do pessoal dos serviços médicos do Conselho Provincial de Educação Física.
+
+###### Art. 5.º O exame de aptidão constará de provas físicas e de uma prova escrita sobre um tema de história de Portugal, segundo o programa do 5.º ano do ensino liceal.
+
+###### Art. 6.º As matrículas deverão efectuar-se entre 20 e 27 de Setembro de cada ano, nas condições prèviamente afixadas.
+
+###### Art. 7.º O curso de instrutores de educação física terá a duração de quatro semestres, equivalentes a dois anos escolares.
+
+§ 1.º O ano escolar terá início em 1 de Outubro e prolongar-se-á até 31 de Julho do ano seguinte, começando o 2.º e 4.º semestres em 1 de Março de cada ano.
+
+§ 2.º Além das férias grandes, haverá dez dias de férias de Natal, três de Carnaval e dez de Páscoa.
+
+###### Art. 8.º O plano de estudos compreenderá quatro semestres de escolaridade efectiva, destinando-se os dois primeiros exclusivamente a preparação teórica-prática e abrangendo-se nos outros dois também actividades de prática pedagógica em regime de estágio.
+
+###### Art. 9.º O curso compreende as seguintes disciplinas:
+
+A) Disciplinas teóricas:
+
+1) Ginástica;
+
+2) Psicopedagogia;
+
+3) Jogos e Desportos;
+
+4) Biologia Aplicada à Educação Física;
+
+5) História da Educação Física;
+
+6) Higiene e Primeiros Socorros;
+
+7) Deontologia;
+
+8) Teoria do Treino;
+
+9) Organizações da Juventude:
+
+B) Disciplinas práticas:
+
+1) Ginástica;
+
+2) Desportos Individuais:
+
+Atletismo;
+
+Natação.
+
+3) Campismo;
+
+4) Danças Folclóricas;
+
+5) Canto Coral;
+
+6) Desportos Colectivos:
+
+Andebol;
+
+Basquetebol;
+
+Futebol;
+
+Voleibol.
+
+7) Jogos Educativos.
+
+§ único. A distribuição das disciplinas pelos quatro semestres do curso e o número de sessões semanais correspondentes a cada disciplina constam do quadro anexo ao presente diploma.
+
+###### Art. 10.º O curso divide-se em duas secções, uma masculina e outra feminina, para efeito de leccionação das aulas práticas, com excepção das de Canto Coral e Danças Folclóricas.
+
+§ único. As aulas práticas de Andebol e Futebol serão ministradas exclusivamente na secção masculina.
+
+###### Art. 11.º No termo de cada semestre os alunos serão submetidos a provas de exame, a realizar nas segundas quinzenas dos meses de Fevereiro e Julho, durante as quais serão, para esse efeito, totalmente suspensas as aulas.
+
+§ 1.º Findas as provas de apuramento, o conselho escolar reunirá a fim de proceder à classificação das provas, cujos resultados deverão ser pùblicamente afixados antes de terminar o respectivo semestre.
+
+§ 2.º Os alunos só serão qualificados para o semestre seguinte quando obtiverem aproveitamento em todas as disciplinas, quer teóricas, quer práticas; em caso contrário, a sua inscrição ficará automàticamente suspensa até ao fim do respectivo ano escolar.
+
+§ 3.º Nenhum aluno poderá frequentar mais de duas vezes qualquer dos quatro semestres do curso, excepto em caso de doença devidamente justificada.
+
+§ 4.º Os alunos que não obtiverem aproveitamento num semestre, mas quiserem assistir às aulas do seguinte, terão de para isso solicitar autorização ao director do curso. Uma vez autorizados, os alunos ficarão sujeitos às disposições regulamentares em vigor.
+
+###### Art. 12.º As actividades de estágio serão, em princípio, efectuadas num estabelecimento de ensino oficial existente na localidade onde funcione o curso, competindo a sua orientação e fiscalização ao director do curso.
+
+###### Art. 13.º Em princípio realizar-se-ão anualmente, para frequência obrigatória dos alunos do curso de instrutores, dois cursos elementares de arbitragem e de treinadores da mesma modalidade.
+
+§ único. Esses cursos podem ser tornados extensivos aos filiados na associação da modalidade respectiva que satisfaçam as normas prèviamente estabelecidas pelo Conselho Provincial de Educação Física, que deverá escolher e propor ao director do curso as modalidades desportivas.
+
+###### Art. 14.º Em cada semestre os alunos não poderão exceder em faltas duas vezes o número dos tempos semanais destinados a cada disciplina, sob pena de imediata perda de ano, salvo em caso de doença devidamente comprovada pelos serviços médicos do Conselho Provincial de Educação Física e Desportos.
+
+###### Art. 15.º Os alunos são obrigados a adquirir fatos de treino, de ginástica e de natação e um saco alpino de modelos prèviamente aprovados pela direcção do curso de instrutores, sendo facultativo o uso dos sapatos de atletismo nas provas de campo.
+
+###### Art. 16.º O curso de instrutores de educação física poderá funcionar em mais de uma localidade da mesma província, nos termos constantes do presente diploma, com as adaptações que se tornem necessárias.
+
+§ único. Depende de despacho do Governo das províncias a criação de cursos nocturnos, aos quais se aplicará com as necessárias adaptações o presente regulamento.
+
+###### Art. 17.º Na falta de professores diplomados pelo Instituto Nacional de Educação Física terão preferência no preenchimento de lugares eventuais de educação física dos estabelecimentos de ensino oficial do ultramar.
+
+###### Art. 18.º Os serviços de secretaria dos cursos de instrutores de educação física serão executados por funcionários do Conselho Provincial de Educação Física, aos quais poderão ser atribuídas, para o efeito, gratificações de acordo com a lei geral.
+
+###### Art. 19.º Os cursos que vierem a ser criados seguirão a mesma orientação doutrinária e técnico-pedagógica dos correspondentes cursos que funcionam na metrópole.
+
+§ único. A direcção do curso de instrutores de educação física manterá a mais estreita colaboração com o Instituto Nacional de Educação Física.
+
+###### Art. 20.º O director do curso manterá estreita ligação com o presidente do Conselho Provincial de Educação Física, com o qual despachará.
+
+###### Art. 21.º Os cursos previstos no presente regulamento entrarão em funcionamento quando as disponibilidades financeiras das províncias o permitirem.
+
+Ministério do Ultramar, 3 de Janeiro de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola e Moçambique. - J. da Silva Cunha.
+
+Plano de estudos
+
+1.º semestre
+
+a) Aulas teóricas:
+
+... Tempos semanais
+
+Ginástica ... 2
+
+Jogos e Desportos ... 2
+
+Biologia Aplicada à Educação Física ... 2
+
+Psicopedagogia ... 2
+
+História da Educação Física ... 2
+
+b) Aulas práticas e prática pedagógica:
+
+Ginástica ... 6
+
+Atletismo ... 5
+
+Natação ... 3
+
+Basquetebol ... 3
+
+Voleibol ... 3
+
+Jogos Educativos ... 1
+
+Campismo ... 1
+
+Canto Coral ... 1
+
+Danças Folclóricas ... 1
+
+... 34
+
+2.º semestre
+
+a) Aulas teóricas
+
+Ginástica ... 2
+
+Jogos e Desportos ... 2
+
+Biologia Aplicada à Educação Física ... 2
+
+Psicopedagogia ... 2
+
+História da Educação Física ... 2
+
+b) Aulas práticas e prática pedagógica:
+
+Ginástica ... 6
+
+Atletismo ... 5
+
+Natação ... 3
+
+Basquetebol ... 3
+
+Voleibol ... 3
+
+Campismo ... 1
+
+Canto Coral ... 1
+
+Danças Folclóricas ... 1
+
+Jogos Educativos ... 1
+
+... 34
+
+3.º semestre
+
+a) Aulas teóricas:
+
+Ginástica ... 2
+
+Jogos o Desportos ... 2
+
+Biologia Aplicada à Educação Física ... 2
+
+Psicopedagogia ... 2
+
+Higiene e Primeiros Socorros ... 1
+
+Organização da Juventude ... 1
+
+b) Aulas práticas e prática pedagógica:
+
+Ginástica ... 3
+
+Atletismo ... 3
+
+Natação ... 2
+
+Futebol ... 3
+
+Andebol ... 3
+
+Campismo ... 1
+
+Canto Coral ... 1
+
+Danças Folclóricas ... 1
+
+Actividades de Estágio ... 6
+
+... 33
+
+4.º semestre
+
+a) Aulas teóricas:
+
+... 2
+
+Teoria do Treino ... 2
+
+Psicopedagogia ... 2
+
+Deontologia ... 2
+
+b) Aulas práticas e prática pedagógica:
+
+Ginástica ... 3
+
+Atletismo ... 3
+
+Futebol ... 3
+
+Andebol ... 3
+
+Desportos Colectivos (Prática Pedagógica) ... 2
+
+Actividades de Estágio ... 10
+
+... 32
+
+Ministério do Ultramar, 3 de Janeiro de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

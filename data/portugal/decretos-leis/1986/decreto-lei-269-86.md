@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:220101:por
+title: Decreto-Lei n.º 269/86
+short_title: null
+summary: Extingue os graus de bacharel e de licenciado em Educação Física conferidos pela Universidade do Porto através do
+  Instituto Superior de Educação Física
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 269/86
+official_date: null
+publication_date: '1986-09-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/1986, Série I de 1986-09-03
+  number: '202'
+  series: I
+  supplement: null
+  pages: 2414 - 2414
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20200/24142414.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '220101'
+  dre_path: /dr/detalhe/decreto-lei/269-1986-220101
+  internal: pt:dre:220101:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1986-220101
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1986-220101
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: f8b001acf552046febf4cb559f57f63246e4ec13f29eed30cb077d8cd1c69a3e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-269-220101.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 269/86
+
+de 3 de Setembro
+
+Entendeu a comissão instaladora do Instituto Superior de Educação Física da Universidade do Porto, ponderada a experiência de aplicação do plano de estudos vigente desde 1979, propor uma reestruturação do curso que ministra, seu plano e regime de estudos.
+
+O modelo curricular proposto tem presente a linha de desenvolvimento do sistema de ensino superior universitário português, as exigências colocadas pelos domínios de aplicação da educação física e dos desportos e a capacidade actual da instituição.
+
+A linha enformadora do desenvolvimento do novo modelo curricular implica, necessariamente, alterações na estrutura do curso, as quais:
+
+a) Tornam inviável uma formação de nível universitário em três anos para a atribuição do grau de bacharel;
+
+b) Vocacionam expressamente o Instituto Superior de Educação Física da Universidade do Porto para a formação de professores, passando a ministrar um curso de licenciatura em Ensino de Educação Física, compreendendo opções complementares nas áreas do treino desportivo, da dança educativa, da recreação física/lazer e da educação física especial/recreação.
+
+A criação e regulamentação deste novo curso e grau de licenciado em Ensino da Educação Física será feita por portaria do Ministro da Educação e Cultura, nos termos da capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho.
+
+Como condição prévia à criação do novo grau e aprovação da nova estrutura curricular, o presente decreto-lei extingue os graus de bacharel e de licenciado em Educação Física conferidos pela Universidade do Porto através do Instituto Superior de Educação Física, que haviam sido criados pelo [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro.
+
+Nestes termos:
+
+Sob proposta da Universidade do Porto:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Extinção de graus)
+
+São extintos os graus de bacharel e de licenciado em Educação Física conferidos pela Universidade do Porto através do Instituto Superior de Educação Física.
+
+###### Artigo 2.º — (Transição)
+
+Dentro dos princípios gerais de transição a regulamentar por portaria do Ministro da Educação e Cultura, compete ao reitor da Universidade do Porto, sob proposta da comissão instaladora do Instituto Superior de Educação Física, fixar:
+
+a) O ano lectivo em que pela última vez serão conferidos os graus de bacharel e licenciado em Educação Física;
+
+b) As regras gerais e especiais do regime de transição a adoptar em consequência da extinção a que se refere o artigo 1.º, bem como o seu calendário de aplicação.
+
+###### Artigo 3.º — (Disposição revogatória)
+
+São revogados os artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro.
+
+###### Artigo 4.º — (Entrada em vigor)
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 24 de Julho de 1986. - Aníbal António Cavaco Silva - Fernando Nunes Ferreira Real.
+
+**Promulgado em 9 de Agosto de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 14 de Agosto de 1986.**
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

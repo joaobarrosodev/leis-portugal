@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:246301:por
+title: Resolução do Conselho de Ministros n.º 63/2008
+short_title: null
+summary: Aprova uma nova fase do INOV-JOVEM e do INOV Contacto e o lançamento do INOV-ART e do INOV Vasco da Gama
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 63/2008
+official_date: null
+publication_date: '2008-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/2008, Série I de 2008-04-07
+  number: '68'
+  series: I
+  supplement: null
+  pages: 2098 - 2100
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/04/06800/0209802100.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/63/2008/04/07/p/dre/pt/html
+  oj: null
+  dre: '246301'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/63-2008-246301
+  internal: pt:dre:246301:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2008-246301
+  metadata_url: https://data.dre.pt/eli/resolconsmin/63/2008/04/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2008-246301
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-06-05T00:00:00Z'
+integrity:
+  source_sha256: 493122eaa9a6f1af12bf02dd84fd9f9e7da347ae0b6caf7af956dc229e4c4787
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-63-246301.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso ao Emprego
+- Bolsa de Emprego
+- Financiamento
+- Empresa
+- Plano Tecnológico
+- Formação Profissional
+- Mudança Tecnológica
+- Concorrência
+- Internacionalização Empresarial
+- Jovem
+- Programa Integrado de Apoio à Inovação
+- Gestor
+- Ministério da Cultura
+- Ministério do Trabalho e da Solidariedade Social
+- Jovem Trabalhador
+- Ministério da Economia e da Inovação
+- Criação de Emprego
+- Programa Operacional Potencial Humano
+- Mercado de Emprego
+- Programa INOV Contacto
+- Cultura
+- Qualificação Profissional
+- Emprego
+- Estágio de Formação
+- Jovem Empresário
+- Programa Inov-art
+- Programa Inov-jovem
+- Programa Inov-Vasco da Gama
+- Promoção de Emprego
+- Política de Emprego
+- Pequenas e Médias Empresas
+- Actividade Artística
+relationships:
+- type: amended_by
+  target: pt:dre:449403:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/87/2005/04/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/87/2005/04/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/93/2005/05/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/93/2005/05/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 63/2008
+
+O apoio à inserção de 1000 jovens licenciados em áreas científicas, tecnológicas e de gestão em pequenas e médias empresas, com vista a estimular a capacidade de inovação e de gestão dessas empresas e a facilitar a transição para a vida activa desses jovens, constituiu a primeira medida tomada pelo XVII Governo, na reunião do Conselho de Ministros realizada a 24 de Março de 2005. Através da aprovação da [Resolução do Conselho de Ministros n.º 87/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2005-532430), de 29 de Abril, que criou o Programa INOV-JOVEM, foi dado cumprimento ao compromisso assumido e lançada a primeira medida do Plano Tecnológico, instrumento central da estratégia de modernização do País.
+
+O Programa INOV-JOVEM foi de seguida complementado pela aposta do Governo no reforço de um programa de estágios internacionais também para jovens qualificados, através do Programa INOV Contacto, adoptado pela [Resolução do Conselho de Ministros n.º 93/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2005-692246), de 20 de Maio. Para o efeito, apostou-se no apoio à qualificação no estrangeiro de jovens profissionais e técnicos das empresas, em áreas chave do conhecimento, dotando-os designadamente de competências efectivas no domínio da inovação, com vista ao reforço da competitividade das empresas e da empregabilidade desses jovens.
+
+Estes Programas constituíram, assim, dois instrumentos emblemáticos da linha estratégica fundamental que foi definida para estimular o nosso crescimento económico, criar mais e melhores empregos e reforçar a coesão social e que se pode resumir em três apostas nucleares: conhecimento, tecnologia e inovação.
+
+Três anos após o lançamento destes dois Programas e feito um balanço da sua execução e dos seus impactes nos jovens e nas empresas envolvidas, facilmente se concluiu pelo sucesso que os mesmos obtiveram. O Programa INOV-JOVEM, inicialmente concebido para envolver 1000 jovens, abrangeu durante estes anos mais de 4600 jovens, que por esta via realizaram um estágio profissional, acompanhado numa das suas medidas por uma formação específica, ou foram contratados, sem termo, por pequenas e médias empresas. Foi, assim, muito significativa a adesão das empresas e dos jovens a este Programa, demonstrando que o mesmo veio dar resposta a uma necessidade sentida por ambos de disporem de um instrumento que ajude a construir a ponte entre as necessidades dessas empresas e as competências produzidas pelo nosso sistema de educação e formação.
+
+Mas mais importante que a adesão ao Programa INOV-JOVEM por parte daqueles a quem se destinou, são os efeitos dos mesmos nos jovens e nas empresas após, nomeadamente, a conclusão dos estágios apoiados por esta via. Neste âmbito é de assinalar que mais de dois terços dos que concluíram o seu período de estágio conseguiram obter um emprego após o mesmo, a maioria dos quais nas empresas onde realizaram o estágio. Por outro lado, também as pequenas e médias empresas reconhecem a importância deste estímulo para que viessem a contratar esses jovens e, desse modo, melhorarem a sua capacidade de gestão e de inovação.
+
+O Programa INOV Contacto revelou igualmente resultados muito positivos, ultrapassando também as metas programadas, ao abranger cerca de 550 estagiários nas edições de 2005-2006, 2006-2007 e 2007-2008, verificando-se que sensivelmente 50 % dos abrangidos estão hoje empregados, mantendo-se aproximadamente 25 % no exterior, enquanto os restantes se integraram em Portugal. Estes dados levaram inclusive a Direcção-Geral da Indústria e da Empresa da Comissão Europeia a considerar o INOV Contacto como uma «boa prática» e ainda a ser proposto também como uma «melhor prática» à OCDE por uma das consultoras independentes daquela organização.
+
+O balanço destes três anos de execução de ambos os Programas permite, igualmente, diagnosticar aspectos a melhorar, com vista a potenciar ainda mais os seus efeitos reconhecidamente positivos e a cobrir domínios específicos até agora não cobertos pelo INOV-JOVEM e INOV Contacto.
+
+É, então, em função deste balanço que se alarga a ambição do INOV-JOVEM e do INOV Contacto, investindo mais, com o objectivo de envolver mais jovens e empresas, e investindo melhor, privilegiando em particular os instrumentos que se revelaram mais eficazes nestes três anos. Pretende-se assim abranger anualmente, e ao longo dos próximos três anos, 5000 jovens pelo INOV-JOVEM e 550 pelo INOV Contacto e opta-se por concentrar o primeiro instrumento numa única tipologia direccionada a apoiar a realização de estágios profissionais.
+
+Em simultâneo, em função da experiência adquirida e também do diagnóstico das necessidades insuficientemente satisfeitas, criam-se agora duas novas medidas, o INOV-ART e o INOV Vasco da Gama, ao abrigo das quais se ambiciona envolver, anualmente, 200 jovens na primeira e 150 na segunda, ao longo dos próximos três anos.
+
+A primeira dará a jovens artistas e quadros ligados a este sector a oportunidade de realização de estágios em entidades internacionais de referência no domínio das artes e da cultura, por forma a estimular a sua inserção e internacionalização.
+
+O INOV Vasco da Gama, por seu lado, dirige-se à qualificação de jovens empresários e quadros de empresas nacionais, tendo como principal objectivo a capacitação dos mesmos em matéria de internacionalização, através de acções de integração em empresas e entidades internacionais de referência, consideradas detentoras das melhores práticas em gestão.
+
+Por último, reforça-se a aposta na desburocratização, racionalização e simplificação destes instrumentos de política, dotando-os de uma maior coerência interna e de uma estrutura de coordenação e acompanhamento interministerial, atendendo ao envolvimento na sua execução de três Ministérios distintos: o Ministério do Trabalho e da Solidariedade Social, o Ministério da Economia e da Inovação e o Ministério da Cultura.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar o lançamento de uma nova fase do INOV-JOVEM e do INOV Contacto, com o reforço substancial dos beneficiários abrangidos, bem como a criação do INOV-ART, como medida específica no domínio das artes e cultura, e do INOV Vasco da Gama, como medida específica para apoiar a qualificação internacional de jovens empresários e quadros de empresas nacionais, nos termos dos números seguintes.
+
+2 - Determinar, assim, o desenvolvimento das seguintes medidas:
+
+a) O INOV-JOVEM, com vista a apoiar a realização de estágios profissionais em pequenas e médias empresas pelos destinatários da presente medida, podendo os mesmos ser acompanhados pelo desenvolvimento de uma formação específica, sempre que se tratem de jovens diplomados em áreas de educação e formação à partida não previstas nas medidas referidas no número anterior e que revelem dificuldades de inserção no mercado de trabalho, visando abranger, anualmente, 5000 jovens;
+
+b) O INOV Contacto, em que se apoia a realização de estágios internacionais de destinatários da medida, visando abranger, anualmente, 550 jovens;
+
+c) O INOV-ART, em que se apoia a realização de estágios internacionais de jovens ligados às artes e à cultura em entidades de referência de outros países ligadas ao respectivo sector, visando abranger, anualmente, 200 jovens;
+
+d) O INOV Vasco da Gama, destinado à qualificação internacional de jovens empresários e gestores de empresas nacionais, visando gerar novas oportunidades que venham a ser materializadas em factores de competitividade de natureza colectiva e a induzir efeitos de crescimento nas empresas e na economia portuguesa, através de uma maior exposição à escala mundial, visando abranger, anualmente, 150 jovens.
+
+3 - Estabelecer como entidades abrangidas pelas medidas referidas no n.º 1, respectivamente:
+
+a) No caso do INOV-JOVEM, as pequenas e médias empresas empenhadas em processos de inovação e desenvolvimento empresarial, em particular as que visam ganhar e reforçar posições na produção de bens e serviços transaccionáveis;
+
+b) No caso do INOV Contacto, as empresas portuguesas com estruturas em mercados externos, as empresas multinacionais e as organizações internacionais vocacionadas para a intervenção na área da internacionalização;
+
+c) No caso do INOV-ART, as entidades de referência no contexto internacional do sector das artes e da cultura;
+
+d) No caso do INOV Vasco da Gama, as empresas e organizações de referência internacional seleccionadas para o efeito, nos mercados considerados prioritários para a economia portuguesa.
+
+4 - Estabelecer como destinatários habilitados das medidas referidas no n.º 1, respectivamente:
+
+a) No caso do INOV-JOVEM, os jovens com qualificações de nível superior nas áreas da gestão, engenharia, ciência e tecnologia e outras áreas críticas para a inovação empresarial;
+
+b) No caso do INOV Contacto, os jovens com qualificações de nível superior em áreas críticas para a internacionalização da economia portuguesa, fluentes em línguas estrangeiras e com comprovada apetência para desenvolver uma carreira profissional no estrangeiro;
+
+c) No caso do INOV-ART, os jovens com qualificações específicas ou aptidões reconhecidas nas áreas das artes e cultura;
+
+d) No caso do INOV Vasco da Gama, os jovens com qualificações de nível superior, fluentes em línguas estrangeiras e que sejam empresários ou quadros de empresas com potencial de internacionalização comprovado e ou com projecto de internacionalização delineado.
+
+5 - Determinar que as presentes medidas são coordenadas por uma unidade própria de coordenação e acompanhamento, integrando representantes das entidades gestoras de cada Ministério envolvido, e ainda, se e quando for considerado necessário para o cumprimento das suas funções, outras instituições, públicas e privadas, e personalidades de reconhecido mérito.
+
+6 - Estabelecer o princípio de que as empresas que recebam apoio das presentes medidas têm prioridade no acesso a outras medidas públicas de incentivo à inovação, ao desenvolvimento empresarial, ao emprego e ao investimento em formação contínua dos seus trabalhadores, nomeadamente às inseridas no Programa Operacional Potencial Humano e no Programa Operacional Factores de Competitividade.
+
+7 - Definir que o envolvimento dos jovens e das entidades promotoras ou de acolhimento contempla acções de acompanhamento e orientação, a desenvolver pelas entidades gestoras, com o apoio da unidade de coordenação e acompanhamento, com o objectivo de assegurar a sua qualificação a níveis mais elevados e de organizar uma rede que facilite os contactos e a troca de experiências entre os jovens e entre as entidades envolvidas.
+
+8 - Estabelecer que, ao abrigo do disposto no artigo 17.º do [Decreto-Lei n.º 132/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1999-534598), de 21 de Abril, as normas de funcionamento, acompanhamento e o regime de concessão dos apoios técnicos e financeiros das presentes medidas são definidas através de portaria conjunta dos Ministros do Trabalho e da Solidariedade Social, da Economia e da Inovação e da Cultura.
+
+9 - Determinar que o regime previsto no número anterior obedece aos princípios da simplificação e desburocratização, de modo que o mesmo seja de utilização amigável, sem prejuízo da observância dos adequados mecanismos de controlo.
+
+10 - Determinar que as presentes medidas são financiadas por verbas dos Ministérios do Trabalho e da Solidariedade Social, da Economia e da Inovação e da Cultura, com o apoio, nomeadamente, do Programa Operacional Potencial Humano.
+
+11 - Estabelecer que as presentes medidas são avaliadas por uma entidade externa de reconhecida competência, antes do final do seu prazo de vigência, previsto para três anos.
+
+12 - A presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 12 de Março de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

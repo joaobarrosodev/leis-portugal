@@ -1,0 +1,529 @@
+---
+schema_version: '1.0'
+id: pt:dre:583429:por
+title: Decreto-Lei n.º 193/2005
+short_title: null
+summary: Aprova o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 193/2005
+official_date: null
+publication_date: '2005-11-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 213/2005, Série I-A de 2005-11-07
+  number: '213'
+  series: I
+  supplement: null
+  pages: 6370 - 6375
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/11/213a00/63706375.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-01-01'
+version_history:
+  file: decreto-lei-193-2005.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-11-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-13'
+    amending: pt:dre:554131:por
+    amending_title: Decreto-Lei n.º 25/2006
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+  - date: '2011-03-02'
+    amending: pt:dre:144217:por
+    amending_title: Decreto-Lei n.º 29-A/2011
+    changes:
+    - Altera Artigo 2.º
+  - date: '2013-12-10'
+    amending: pt:dre:484127:por
+    amending_title: Lei n.º 83/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+  - date: '2017-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/193/2005/p/cons/20161228/pt/html
+  oj: null
+  dre: '583429'
+  dre_path: /dr/detalhe/decreto-lei/193-2005-583429
+  internal: pt:dre:583429:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2005-583429
+  metadata_url: https://data.dre.pt/eli/dec-lei/193/2005/p/cons/20161228/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-105739337
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-105739337
+  retrieved_at: '2026-10-22T12:09:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9737d312b5b5e51715ed6ee894595accb8b18c82492b18543e1c77b9b25b0dc6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:09:47Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-193-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Valores Mobiliários
+- Cidadão Estrangeiro
+- Cobrança de Impostos
+- Código dos Valores Mobiliários
+- Dívida Pública
+- IRS
+- Investimento Estrangeiro
+- Isenção Fiscal
+- Mercado de Capitais
+- Mercado de Valores
+- Obrigações
+- IRC
+- Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida
+- Tributação
+relationships:
+- type: amended_by
+  target: pt:dre:554131:por
+  label: Altera Artigo 5.º; Altera Artigo 12.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2006-554131
+  date: '2006-02-08'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: amended_by
+  target: pt:dre:484127:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127
+  date: '2013-12-09'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: cites
+  target: celex:32013R0575
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/88/1994/04/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/88/1994/04/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/39-a/2005/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/39-a/2005/07/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/150/2004/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/150/2004/02/13/p/dre
+article_structure:
+  article_count: 28
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:09:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 193/2005
+
+Decreto-Lei n.º 193/2005
+
+de 7 de Novembro
+
+A Lei n.º 39-A/2005, de 29 de Julho, autorizou o Governo a rever o regime de isenção de IRS e IRC, previsto no Decreto-Lei n.º 88/94, de 2 de Abril, aplicável aos rendimentos de valores mobiliários representativos da dívida pública e a criar um regime de isenção de IRS e IRC relativamente aos rendimentos da dívida não pública, obtidos por não residentes em território português, que abrange, em ambos os casos, quer os rendimentos de capitais quer as mais-valias.
+
+O presente decreto-lei estabelece um regime especial de tributação dos rendimentos daqueles valores mobiliários, facilitando a captação de financiamento junto de investidores não residentes, sem no entanto prejudicar o combate aos abusos e à utilização de «paraísos fiscais», através da previsão de mecanismos que visam salvaguardar as situações de utilização indevida da isenção.
+
+O Regime agora aprovado mantém no essencial o sistema especial de liquidação de operações de valores representativos de dívida pública transaccionável, instituído pelo referido Decreto-Lei n.º 88/94, alargando a sua aplicação às obrigações emitidas por entidades não públicas e procedendo apenas a algumas alterações que visam uma adaptação à evolução do mercado e, em particular, dos sistemas de registo e liquidação de operações, bem como a uma clarificação relativamente a alguns aspectos do funcionamento do sistema e às obrigações e responsabilidades dos diferentes intervenientes e participantes.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 11.º da Lei n.º 39-A/2005, de 29 de Julho, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovado o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, adiante designado por Regime, anexo ao presente decreto-lei.
+
+###### Artigo 2.º — Revogação do Decreto-Lei n.º 88/94, de 2 de Abril
+
+1 - É revogado, a partir da entrada em vigor do Regime, o Decreto-Lei n.º 88/94, de 2 de Abril.
+
+2 - Mantém-se em vigor, para todos os efeitos previstos na lei, a Portaria n.º 150/2004, de 13 de Fevereiro.
+
+###### Artigo 3.º — Disposições transitórias
+
+Com excepção dos valores mobiliários representativos de dívida pública anteriormente abrangidos pela isenção prevista no Decreto-Lei n.º 88/94, de 2 de Abril, o Regime aprovado pelo presente decreto-lei apenas se aplica aos rendimentos obtidos após a data do primeiro vencimento do cupão ocorrido depois da entrada em vigor deste Regime.
+
+###### Artigo 4.º — Entrada em vigor
+
+O Regime entra em vigor no dia 1 de Janeiro de 2006.
+
+Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
+
+Promulgado em 25 de Outubro de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 26 de Outubro de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — REGIME ESPECIAL DE TRIBUTAÇÃO DOS RENDIMENTOS DE VALORES MOBILIÁRIOS REPRESENTATIVOS DE DÍVIDA
+
+#### Secção I — Objecto, definições e âmbito
+
+###### Artigo 1.º — Objecto
+
+O presente Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida é aplicável aos rendimentos, considerados obtidos em território português, de valores mobiliários representativos de dívida nos termos e condições estabelecidos nos artigos seguintes.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente Regime, entende-se por:
+
+a) «Beneficiário efectivo» qualquer entidade que obtenha rendimentos de valores mobiliários representativos de dívida por conta própria e não na qualidade de agente ou mandatário;
+
+b) «Entidade registadora direta» a entidade junto da qual são abertas as contas de registo individualizado dos valores mobiliários representativos de dívida integrados em sistema centralizado;
+
+c) «Entidade registadora indirecta» a entidade que, não assumindo a qualidade de entidade registadora directa, é cliente desta e presta serviços de registo e depósito de valores mobiliários, gestão de carteiras ou outros similares;
+
+d) «Entidade gestora de sistema de liquidação internacional» a entidade que procede, no mercado internacional, à compensação, liquidação ou transferência de valores mobiliários integrados em sistemas centralizados ou nos seus próprios sistemas de registo;
+
+e) «Representante» a entidade residente em território português designada, nos termos do n.º 2 do artigo 125.º do Código do IRS, pela entidade registadora direta que não seja considerada residente em território português nem possua estabelecimento estável aí situado ou pela entidade gestora de sistema de liquidação internacional;
+
+f) «Participante» entidade que opera em sistema de liquidação internacional.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01
+
+###### Artigo 3.º — Valores mobiliários abrangidos
+
+1 - São abrangidos por este Regime Especial os valores mobiliários representativos de dívida pública e não pública, incluindo os valores mobiliários de natureza monetária, designadamente bilhetes do Tesouro e papel comercial, as obrigações perpétuas, as obrigações convertíveis em ações, outros valores mobiliários convertíveis e os instrumentos de fundos próprios adicionais de nível 1 ou de fundos próprios de nível 2 que cumpram os requisitos previstos no Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013, independentemente da moeda em que essa dívida seja emitida, integrados em sistema centralizado gerido por entidade residente em território português ou por entidade gestora de sistema de liquidação internacional estabelecida em outro Estado membro da União Europeia ou, ainda, de Estado membro do Espaço Económico Europeu desde que, neste caso, este esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.
+
+2 - [Revogado.]
+
+3 - O membro do Governo responsável pela área das finanças pode, a requerimento da entidade emitente, autorizar a aplicação do presente Regime Especial a valores mobiliários representativos de dívida pública ou não pública integrados em sistema centralizado não abrangido pelo n.º 1.
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 4.º — Âmbito objectivo da isenção
+
+1 - São isentos de IRS ou IRC os rendimentos considerados obtidos em território português, nos termos dos Códigos do IRS e do IRC, dos valores mobiliários referidos no artigo anterior.
+
+2 - A isenção a que se refere o número anterior abrange os rendimentos qualificados como rendimentos de capitais ou como mais-valias para efeitos de IRS, incluindo, nomeadamente, os ganhos obtidos na transmissão dos valores mobiliários, bem como os devidos no momento do vencimento do cupão ou na realização de operações de reporte, mútuos ou equivalentes.
+
+###### Artigo 5.º — Âmbito subjectivo de isenção
+
+1 - A isenção a que se refere o artigo anterior aplica-se quando os beneficiários efetivos sejam:
+
+a) Bancos centrais e agências de natureza governamental;
+
+b) Organizações internacionais reconhecidas pelo Estado português;
+
+c) Entidades residentes em país ou jurisdição com o qual esteja em vigor convenção para evitar a dupla tributação internacional, ou acordo que preveja a troca de informações em matéria fiscal;
+
+d) Outras entidades que, em território português, não tenham residência, sede, direção efetiva nem estabelecimento estável ao qual os rendimentos possam ser imputáveis, e que não sejam residentes em país, território ou região com um regime de tributação claramente mais favorável, constante de lista aprovada, por portaria, pelo membro do Governo responsável pela área das finanças.
+
+2 - [Revogado.]
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 25/2006 - Diário da República n.º 28/2006, Série I-A de 2006-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2006-554131), em vigor a partir de 2006-02-13, produz efeitos a partir de 2006-01-01
+
+#### Secção II — Liquidação e reembolso do imposto
+
+###### Artigo 6.º — Contas de registo individualizado de valores mobiliários representativos de dívida
+
+1 - As contas de registo individualizado de valores mobiliários representativos de dívida, abertas junto das entidades registadoras directas, são classificadas de acordo com o regime fiscal aplicável ao beneficiário efectivo, com base na seguinte tipologia:
+
+a) «Conta de entidade sujeita a retenção na fonte de IRS ou de IRC»;
+
+b) «Conta de entidade não sujeita a retenção na fonte ou isenta de IRS ou de IRC».
+
+2 - São classificadas como «conta de entidade não sujeita a retenção na fonte ou isenta de IRS ou de IRC»:
+
+a) As contas dos beneficiários da isenção de IRS ou de IRC prevista no presente Regime;
+
+b) As contas de sujeitos passivos isentos de IRS ou de IRC que sejam residentes em território português;
+
+c) As contas de sujeitos passivos de IRC, residentes em território português, que estejam dispensados de retenção na fonte nos termos da lei.
+
+3 - As contas abertas junto das entidades registadoras directas pelas entidades registadoras indirectas devem igualmente distinguir a natureza do seu titular em função do regime fiscal do beneficiário efectivo, nos termos previstos nos números anteriores.
+
+4 - As entidades registadoras directas e indirectas podem proceder a uma subdivisão dos tipos de contas referidos no n.º 1.
+
+###### Artigo 7.º — Regra de liquidação das operações
+
+1 - Na liquidação das operações de transmissão dos valores mobiliários abrangidos pelo presente Regime é aplicada a taxa de juro nominal bruta, havendo lugar à retenção ou ao reembolso de imposto, calculado sobre os rendimentos de capitais a que se refere o n.º 5 do artigo 5.º do Código do IRS, sempre que envolvam entidades sujeitas a retenção na fonte de IRS ou de IRC.
+
+2 - Para efeitos do presente Regime, quando não seja possível identificar individualmente o valor da taxa de juro nominal bruta, esta taxa é determinada com base nos valores de colocação, de acordo com fórmula de cálculo fixada por despacho do Ministro de Estado e das Finanças, e comunicada pela entidade emitente às entidades registadoras directas.
+
+3 - Tratando-se de valores mobiliários representativos de dívida pública direta emitida a desconto, designadamente de bilhetes do Tesouro, a liquidação a que se refere o n.º 1 é efetuada pela taxa de juro para o efeito divulgada pela Agência de Gestão da Tesouraria e da Dívida Pública.
+
+4 - Sempre que da não comunicação tempestiva do valor da taxa de juro nominal bruta prevista no n.º 2, bem como da comunicação de valor incorrecto, resultar liquidação de imposto de valor inferior ao que resultaria da aplicação daquela taxa, a entidade emitente é responsável pelo pagamento do valor dessa diferença.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 8.º — Retenção na fonte no vencimento ou no reembolso
+
+1 - Na data do vencimento do cupão ou do reembolso dos valores mobiliários abrangidos pelo presente Regime, as entidades registadoras directas que mantêm as contas de entidades sujeitas a retenção na fonte de IRS ou de IRC retêm o imposto sobre os rendimentos relativos aos valores mobiliários abrangidos pelo presente Regime às taxas previstas nos respectivos Códigos.
+
+2 - A retenção na fonte prevista no número anterior tem natureza liberatória ou de pagamento por conta do imposto devido a final, nos termos do disposto nos respectivos Códigos.
+
+3 - O valor do imposto retido é entregue nos cofres do Estado pela entidade registadora direta ou pelos seus representantes, nos termos e prazos previstos nos respetivos Códigos.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 9.º — Reembolso de imposto indevidamente retido no vencimento ou no reembolso
+
+1 - Sem prejuízo do disposto no número seguinte, o reembolso do imposto que tenha sido indevidamente retido na fonte na data do vencimento do cupão ou do reembolso a beneficiário de isenção de IRS ou IRC que não seja obrigado à entrega de declaração de rendimentos de IRS ou IRC pode ser requerido, por este ou por um seu representante, no prazo máximo de seis meses a contar da data em que foi efetuada a retenção, através de formulário a apresentar junto da entidade registadora direta.
+
+2 - No caso de contas abertas junto de entidades registadoras indirectas, o pedido de reembolso a que se refere o número anterior deve ser entregue junto destas entidades, que devem remetê-lo para as entidades registadoras directas.
+
+3 - Decorrido o prazo referido no n.º 1, o reembolso do imposto indevidamente retido deve ser solicitado através de formulário dirigido ao diretor-geral da Autoridade Tributária e Aduaneira no prazo de dois anos contados a partir do termo do ano em que tenha sido efetuada a retenção do imposto.
+
+4 - As entidades registadoras directas devem manter um registo actualizado dos reembolsos requeridos, concedidos e recusados.
+
+5 - Considera-se «imposto indevidamente retido» o imposto retido a beneficiário de isenção de IRS ou IRC que, por erro ou insuficiência de informação, não foi como tal enquadrado.
+
+6 - Nas situações previstas no n.º 3, o reembolso do imposto retido na fonte deve ser efetuado até ao final do terceiro mês posterior à apresentação do formulário e dos elementos que comprovem os pressupostos de que depende a isenção e, em caso de incumprimento desse prazo, acrescem à quantia a reembolsar juros indemnizatórios calculados a taxa idêntica à aplicável aos juros compensatórios a favor do Estado.
+
+7 - Para efeitos da contagem do prazo referido no número anterior, considera-se que o mesmo se interrompe sempre que o procedimento estiver parado por motivo imputável ao requerente.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 10.º — Processamento e contabilização do imposto devido no vencimento ou no reembolso
+
+1 - As retenções e os reembolsos de imposto efectuados nos termos dos artigos 8.º e 9.º são contabilizados pelas entidades registadoras directas, as quais devem manter conta autonomizada das restantes retenções de IRS ou IRC a que procedam.
+
+2 - O saldo da conta autonomizada referida no número anterior é apurado no final de cada mês e é regularizado nos seguintes termos:
+
+a) Sendo credor, a respectiva importância é entregue nos cofres do Estado até ao dia 20 do mês seguinte;
+
+b) Sendo devedor, a respectiva importância pode ser compensada nas entregas de imposto retido sobre rendimentos de capitais, a efectuar em qualquer momento após o seu apuramento.
+
+3 - Sempre que, após a compensação prevista na alínea b) do número anterior, se mantenha um saldo devedor pelo período consecutivo de três meses, ou o seu valor ultrapasse (euro) 50 000, a entidade registadora direta ou o seu representante pode solicitar ao diretor-geral da Autoridade Tributária e Aduaneira o respetivo reembolso, através de requerimento a apresentar na Unidade de Grandes Contribuintes.
+
+4 - O membro do Governo responsável pela área das finanças pode definir, por portaria, os procedimentos específicos a adotar para efeitos de processamento e contabilização do imposto devido na data do vencimento do cupão ou do reembolso dos valores mobiliários, bem como os termos e os prazos do pedido de reembolso referido no número anterior.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 11.º — Retenção na fonte e reembolso de imposto na transmissão
+
+1 - Na liquidação de uma operação de transmissão de valores mobiliários abrangidos pelo presente decreto-lei, as entidades registadoras directas devem:
+
+a) Quando o transmitente for titular de uma conta de entidade sujeita a retenção na fonte de IRS ou de IRC, reter o imposto correspondente aos rendimentos de capitais a que se refere o n.º 5 do artigo 5.º do Código do IRS;
+
+b) Quando o transmissário for titular de uma conta de entidade sujeita a retenção na fonte de IRS ou de IRC, reembolsar o imposto correspondente aos rendimentos de capitais a que se refere o n.º 5 do artigo 5.º do Código do IRS.
+
+2 - Os procedimentos previstos no número anterior são igualmente aplicáveis às contas abertas pelas entidades registadoras directas, em nome de entidades registadoras indirectas, sujeitas a retenção na fonte de IRS ou de IRC.
+
+3 - A retenção na fonte a que se refere a alínea a) do n.º 1 tem a natureza de pagamento por conta do imposto devido a final pelo beneficiário efectivo, excepto se os rendimentos estiverem sujeitos a tributação liberatória, caso em que o imposto tem natureza de pagamento definitivo.
+
+4 - Nos casos em que a retenção tenha natureza liberatória e desde que os rendimentos sejam obtidos fora do âmbito de exercício de actividades empresariais e profissionais, os respectivos titulares, residentes em território nacional, podem optar pelo respectivo englobamento nos termos e condições previstos no n.º 5 do artigo 22.º do Código do IRS.
+
+5 - A transferência de valores mobiliários abrangidos pelo presente Regime de, ou para, uma conta de entidades não sujeitas a retenção na fonte de IRS ou IRC, destinados a, ou provenientes, de uma conta de entidades sujeitas a retenção na fonte de IRS ou IRC, determina a aplicação do disposto nos números anteriores, ainda que a transferência em causa se verifique na esfera da mesma entidade registadora directa ou indirecta e não ocorra uma alteração da titularidade dos valores em causa.
+
+6 - Sem prejuízo do disposto no número anterior, a transferência de valores mobiliários abrangidos por este Regime Especial entre contas do mesmo beneficiário efetivo em entidades registadoras diretas diferentes não dá origem à retenção na fonte nem ao reembolso de imposto nos termos do n.º 1, devendo a entidade registadora direta na qual se encontrem registados os valores mobiliários transferidos comunicar à entidade registadora direta para a qual os valores mobiliários sejam transferidos a data de aquisição desses valores mobiliários e, quando aplicável, os juros contáveis à data da transferência.
+
+7 - A alteração do estatuto do beneficiário efetivo, de entidade dispensada de retenção na fonte para entidade não dispensada de retenção na fonte, determina a retenção na fonte e o reembolso de imposto referidos no n.º 1.
+
+8 - As regras relativas ao transmitente e ao transmissário aplicam-se, respectivamente, ao reportador e ao reportado e ao mutuante e ao mutuário de valores mobiliários abrangidos pelo presente Regime, consoante os casos.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 12.º — Processamento e contabilização das retenções e reembolsos na transmissão
+
+Às retenções e reembolsos referidos nos n.os 1 e 2 do artigo anterior aplicam-se, com as necessárias adaptações, os procedimentos previstos no artigo 10.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 25/2006 - Diário da República n.º 28/2006, Série I-A de 2006-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2006-554131), em vigor a partir de 2006-02-13, produz efeitos a partir de 2006-01-01
+
+###### Artigo 13.º — Correcção das retenções e reembolsos na transmissão
+
+1 - A correção das retenções ou reembolsos indevidamente efetuados aquando da transmissão de valores mobiliários abrangidos por este Regime Especial deve ser solicitada através de formulário dirigido ao diretor-geral da Autoridade Tributária e Aduaneira, acompanhado dos elementos que comprovem a legitimidade do pedido, no prazo de dois anos contados a partir do termo do ano em que ocorra a transmissão dos valores mobiliários.
+
+2 - O disposto no número anterior é igualmente aplicável nas situações em que ocorra a transferência de valores mobiliários de uma conta de entidade não sujeita a retenção ou isenta para uma conta de entidade sujeita a retenção, sem que exista uma transmissão de titularidade, e o beneficiário efetivo não esteja obrigado à entrega de declaração periódica de rendimentos para efeitos de IRS ou de IRC.
+
+3 - [Revogado.]
+
+4 - A correção das retenções ou reembolsos deve ser efetuada até ao final do terceiro mês posterior à apresentação do formulário e dos elementos que comprovem os respetivos pressupostos e, em caso de incumprimento desse prazo, acrescem à quantia a reembolsar juros indemnizatórios calculados a taxa idêntica à aplicável aos juros compensatórios a favor do Estado.
+
+5 - Para efeitos da contagem do prazo referido no número anterior, considera-se que o mesmo se interrompe sempre que o procedimento estiver parado por motivo imputável ao requerente.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+#### Secção III — Procedimentos de comprovação
+
+###### Artigo 14.º — Disposição geral
+
+1 - As entidades registadoras directas ficam obrigadas a:
+
+a) Relativamente aos beneficiários efectivos abrangidos pela isenção a que se refere o artigo 5.º, possuir prova da qualidade de não residente nos termos dos artigos 15.º a 18.º;
+
+b) Relativamente às entidades residentes isentas, cuja isenção não seja de natureza automática, possuir prova do acto de reconhecimento desse benefício.
+
+2 - As entidades registadoras directas devem, ainda, cumprir as obrigações previstas nos artigos 119.º e 125.º do Código do IRS.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 25/2006 - Diário da República n.º 28/2006, Série I-A de 2006-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2006-554131), em vigor a partir de 2006-02-13, produz efeitos a partir de 2006-01-01
+
+###### Artigo 15.º — Instituições financeiras e de direito público e organismos internacionais
+
+1 - A prova que se refere a alínea a) do n.º 1 do artigo anterior efetua-se através dos seguintes elementos:
+
+a) Declaração do próprio titular devidamente assinada e autenticada, no caso de bancos centrais, entidades de direito público e respetivas agências, bem como organizações internacionais reconhecidas pelo Estado português;
+
+b) Documento oficial de identificação fiscal ou certidão da entidade responsável pelo registo ou pela supervisão, ou pela autoridade fiscal, que ateste a existência jurídica do titular e o seu domicílio, no caso de instituições de crédito, sociedades financeiras, fundos de pensões e empresas de seguros, domiciliados em qualquer país da Organização para a Cooperação e Desenvolvimento Económico (OCDE) ou com o qual Portugal tenha celebrado convenção para evitar a dupla tributação internacional.
+
+2 - Nos casos previstos no número anterior a prova da qualidade de não residente é feita uma única vez, sendo dispensada a sua renovação periódica, devendo o beneficiário efetivo informar imediatamente a entidade registadora das alterações verificadas nos pressupostos de que depende a isenção.
+
+3 - Não obstante o disposto nos números anteriores, o titular pode, ainda, optar por comprovar a sua qualidade de não residente nos termos previstos no artigo 18.º
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 16.º — Organismos de investimento colectivo
+
+1 - No caso de fundos de investimento mobiliário, imobiliário ou outros organismos de investimento coletivo domiciliados em qualquer país da OCDE ou em país ou jurisdição, com o qual esteja em vigor convenção para evitar a dupla tributação internacional, ou acordo que preveja a troca de informações em matéria fiscal, a prova a que se refere a alínea a) do n.º 1 do artigo 14.º efetua-se através dos seguintes elementos:
+
+a) Declaração emitida pela entidade responsável pelo registo ou supervisão, ou pela autoridade fiscal, que certifique a existência jurídica do organismo, a lei ao abrigo da qual foi constituído e o local da respectiva domiciliação; ou
+
+b) Prova da qualidade de não residente, nos termos do artigo 18.º, caso o titular opte pelos meios de prova aí previstos.
+
+2 - Nos casos previstos no número anterior a prova da qualidade de não residente é feita uma única vez, sendo dispensada a sua renovação periódica, devendo o beneficiário efetivo informar imediatamente a entidade registadora das alterações verificadas nos pressupostos de que depende a isenção.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 17.º — Valores transacionados e integrados em sistema de liquidação internacional
+
+1 - Quando os valores mobiliários referidos no artigo 3.º estejam registados em conta mantida junto de entidade gestora de sistema de liquidação internacional, para efeitos da comprovação dos pressupostos de aplicação deste Regime Especial, deve ser transmitida, em cada data de vencimento dos rendimentos, a identificação e quantidade dos valores mobiliários, bem como o montante dos rendimentos e, quando aplicável, o montante do imposto retido, desagregado pelas seguintes categorias de beneficiários:
+
+a) Entidades com residência, sede ou direção efetiva em território português ou que aí possuam estabelecimento estável ao qual os rendimentos sejam imputáveis, não isentas e sujeitas a retenção na fonte;
+
+b) Entidades residentes em país, território ou região com um regime de tributação claramente mais favorável, constante de lista aprovada, por portaria, pelo membro do Governo responsável pela área das finanças, não isentas e sujeitas a retenção na fonte;
+
+c) Entidades com residência, sede ou direção efetiva em território português ou que aí possuam estabelecimento estável ao qual os rendimentos sejam imputáveis, isentas ou não sujeitas a retenção na fonte;
+
+d) Demais entidades que não tenham residência, sede ou direção efetiva em território português nem aí possuam estabelecimento estável ao qual os rendimentos sejam imputáveis.
+
+2 - Em cada data de vencimento dos rendimentos devem, ainda, ser transmitidos, pelo menos, os seguintes elementos relativos a cada um dos beneficiários referidos nas alíneas a), b) e c) do número anterior:
+
+a) Nome e endereço;
+
+b) Número de identificação fiscal, quando dele disponha;
+
+c) Identificação e quantidade dos valores mobiliários detidos;
+
+d) Montante dos rendimentos.
+
+3 - As informações referidas nos números anteriores são transmitidas pela entidade gestora de sistema de liquidação à entidade registadora direta, ou aos seus representantes, e devem referir-se ao universo das contas sob a sua gestão.
+
+4 - [Revogado.]
+
+5 - As obrigações previstas no artigo 11.º deste Regime Especial, no artigo 119.º e no n.º 1 do artigo 125.º, ambos do Código do IRS, não são aplicáveis aos valores mobiliários sujeitos ao regime de comprovação estabelecido neste artigo.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 18.º — Outros beneficiários efectivos
+
+1 - Relativamente a beneficiários efetivos não abrangidos pelas regras previstas nos artigos 15.º a 17.º, a prova a que se refere a alínea a) do n.º 1 do artigo 14.º efetua-se através de certificado de residência ou documento equivalente emitido pelas autoridades fiscais, documento emitido por consulado português comprovativo da residência no estrangeiro ou documento especificamente emitido com o objetivo de certificar a residência por entidade oficial que integre a administração pública central, regional ou demais administração periférica, estadual indireta ou autónoma do respetivo Estado.
+
+2 - O documento referido no número anterior é necessariamente o original ou cópia devidamente autenticada, sendo válido pelo período de três anos a contar da respectiva data de emissão, a qual não pode ser posterior a três meses em relação à data em que a retenção deva ser efectuada, devendo o beneficiário efectivo informar imediatamente a entidade registadora das alterações verificadas nos pressupostos de que depende a isenção.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 19.º — Perda de isenção
+
+A não comprovação da qualidade de que depende a isenção de IRS ou de IRC prevista no presente Regime determina a perda da isenção, sendo aplicáveis as normas gerais previstas nos competentes Códigos relativas à responsabilidade pelo pagamento do imposto em falta.
+
+###### Artigo 20.º — Entidades emitentes
+
+Quando as entidades registadoras diretas não sejam residentes em território português nem possuam estabelecimento estável aí situado, as entidades emitentes de valores mobiliários abrangidos pelo presente Regime Especial são obrigadas a comunicar à Autoridade Tributária e Aduaneira, no prazo de 90 dias após a data da emissão, os seguintes elementos:
+
+a) Identificação das entidades registadoras directas, através do seu nome e endereço, bem como a identificação do representante a que se refere o n.º 2 do artigo 125.º do Código do IRS;
+
+b) Identificação e quantidade dos valores mobiliários emitidos.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+###### Artigo 21.º — Responsabilidade pelo imposto não retido ou indevidamente reembolsado
+
+1 - As entidades registadoras directas são responsáveis pelo pagamento do imposto em falta quando não tenham cumprido os requisitos, previstos nesta secção, de comprovação da qualidade de que depende a isenção ou a dispensa de retenção na fonte de IRS ou de IRC.
+
+2 - A responsabilidade prevista no número anterior é originária ou subsidiária, consoante, respectivamente, a retenção na fonte tenha natureza liberatória ou de pagamento por conta do imposto devido a final, nos termos dos respectivos Códigos.
+
+3 - Em caso de não cumprimento do disposto no artigo anterior e no artigo 120.º do Código do IRS, as entidades emitentes de valores mobiliários abrangidos pelo presente Regime são solidariamente responsáveis pelo pagamento do imposto em falta.
+
+#### Secção IV — Disposições finais
+
+###### Artigo 22.º — Formulário de reembolso e certificados de comprovação
+
+O formulário de reembolso e os certificados de comprovação previstos no presente Regime são aprovados por despacho do Ministro de Estado e das Finanças.
+
+###### Artigo 23.º — Derrogação do dever de sigilo
+
+O cumprimento das obrigações previstas neste decreto-lei derroga qualquer dever de sigilo a que estejam sujeitas as entidades abrangidas por essas obrigações.
+
+###### Artigo 24.º — Direito subsidiário
+
+1 - Em tudo o que não estiver especialmente regulado no presente Regime e com ele não seja incompatível aplica-se o disposto nos Códigos do IRS e do IRC e no Código de Procedimento e de Processo Tributário e legislação complementar destes diplomas.
+
+2 - Às infracções ao disposto no presente Regime aplica-se o Regime Geral das Infracções Tributárias.

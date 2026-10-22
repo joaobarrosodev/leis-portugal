@@ -1,0 +1,531 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:328388:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-187453327",
+ "dre_path": "/dr/detalhe/decreto-lei/31-1985-328388",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "187453384",
+    "187453385",
+    "187453386",
+    "187453387",
+    "187453388",
+    "187453389",
+    "187453390",
+    "187453391",
+    "187453392",
+    "187453393",
+    "187453394",
+    "187453395",
+    "187453396",
+    "187453397",
+    "187453398",
+    "187453399",
+    "187453400",
+    "187453401",
+    "187453402"
+   ]
+  },
+  {
+   "date": "1997-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:581223:por",
+     "title": "Decreto-Lei n.º 26/97",
+     "published": "1997-01-23",
+     "dre_path": "/dr/detalhe/decreto-lei/26-1997-581223"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "187453384",
+    "187453385",
+    "187453386",
+    "187453387",
+    "187453388",
+    "187453389",
+    "187453414",
+    "187453391",
+    "187453392",
+    "187453393",
+    "187453415",
+    "187453404",
+    "187453416",
+    "187453406",
+    "187453407",
+    "187453408",
+    "187453417",
+    "187453410",
+    "187453411",
+    "187453412",
+    "187453413"
+   ]
+  },
+  {
+   "date": "2022-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:187413389:por",
+     "title": "Decreto-Lei n.º 53/2022",
+     "published": "2022-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2022-187413389"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "187453384",
+    "187453385",
+    "187453386",
+    "187453387",
+    "187453388",
+    "187453389",
+    "187453414",
+    "187453391",
+    "187453392",
+    "187453393",
+    "187453415",
+    "187453404",
+    "187453418",
+    "187453406",
+    "187453407",
+    "187453408",
+    "187453417",
+    "187453410",
+    "187453411",
+    "187453412",
+    "187453413"
+   ]
+  },
+  {
+   "date": "2023-02-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207177836:por",
+     "title": "Decreto-Lei n.º 10/2023",
+     "published": "2023-02-08",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2023-207177836"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "187453384",
+    "187453385",
+    "187453386",
+    "187453387",
+    "187453388",
+    "187453389",
+    "187453414",
+    "187453391",
+    "187453392",
+    "207417140",
+    "187453415",
+    "187453404",
+    "207417141",
+    "207417142",
+    "207417143",
+    "187453408",
+    "187453417",
+    "187453410",
+    "187453411",
+    "187453412",
+    "187453413"
+   ]
+  },
+  {
+   "date": "2023-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215647905:por",
+     "title": "Decreto-Lei n.º 54/2023",
+     "published": "2023-07-14",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2023-215647905"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "187453384",
+    "187453385",
+    "187453386",
+    "187453387",
+    "187453388",
+    "187453389",
+    "187453414",
+    "187453391",
+    "187453392",
+    "207417140",
+    "187453415",
+    "187453404",
+    "207417141",
+    "215713392",
+    "215713393",
+    "187453408",
+    "187453417",
+    "187453410",
+    "187453411",
+    "187453412",
+    "187453413"
+   ]
+  }
+ ],
+ "fragments": {
+  "187453384": {
+   "fragment_id": "187453328",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 31/85\n\nde 25 de Janeiro\n\nAtravés da Lei n.º 25/81, de 21 de Agosto, nomeadamente pela aplicação dos artigos 10.º a 14.º, pretendeu evitar-se que os veículos automóveis apreendidos no decurso de processo crime permanecessem longos períodos sem utilização, ficando reduzidos pelo tempo e, muitas vezes, pela intempérie, a destroços sem utilidade.\n\nEsse objectivo não foi alcançado, além do mais em virtude da necessidade do despacho judicial que se tornava indispensável para se iniciar tal utilização.\n\nEncontravam-se, assim, apreendidas até há pouco tempo várias centenas de veículos automóveis, no valor estimado de cerca de meio milhão de contos, dos quais apenas algumas dezenas haviam sido declarados perdidos para o Estado, numa altura em que, por vezes, era já impensável, por não compensadora, a sua reparação.\n\nO presente diploma visa obviar à situação descrita, ao mesmo tempo que se aproveita para agrupar e classificar outras situações de veículos automóveis apreendidos, declarados perdidos ou abandonados, concedendo-lhes tratamento idêntico.\n\nO texto final recolhe as principais sugestões de aperfeiçoamento provenientes do debate da proposta de autorização legislativa submetida pelo Governo à Assembleia da República.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelos artigos 1.º a 4.º da Lei n.º 35/84, de 27 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "187453385": {
+   "fragment_id": "187453329",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma aplica-se aos seguintes veículos automóveis:\n\na) Apreendidos em processo crime ou de contra-ordenação que sejam susceptíveis de vir a ser declarados perdidos a favor do Estado;\n\nb) Declarados perdidos definitivamente a favor do Estado;\n\nc) Em situação de abandono por declaração expressa ou acto inequívoco do seu proprietário;\n\nd) Em situação de abandono declarado por autoridade competente;\n\ne) Considerados abandonados nos restantes casos previstos na lei."
+  },
+  "187453386": {
+   "fragment_id": "187453330",
+   "type": 11,
+   "heading": "Artigo 2.º — Veículos apreendidos em processo crime ou de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Veículos apreendidos em processo crime ou de contra-ordenação\n\n1 - Decorridos 90 dias sobre a apreensão, em processo crime ou de contra-ordenação, de um veículo automóvel susceptível de vir a ser declarado perdido a favor do Estado, o agente do Ministério Público ou o representante da Fazenda Nacional, após exame e avaliação, com recurso a meios fotográficos, se possível, comunicará à Direcção-Geral do Património do Estado (DGPE) as características do mesmo, nomeadamente marca, modelo, matrícula, valor atribuído e local em que se encontra.\n\n2 - Estando o processo na fase de instrução preparatória, a comunicação será efectuada após despacho do juiz de instrução e sem prejuízo do exame a que se refere o número anterior.\n\n3 - A partir da comunicação, o veículo automóvel fica à disposição da DGPE, nos termos e para os efeitos do disposto nos artigos 7.º a 10.º"
+  },
+  "187453387": {
+   "fragment_id": "187453331",
+   "type": 11,
+   "heading": "Artigo 3.º — Decisão provisória sobre a susceptibilidade de perda em favor do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Decisão provisória sobre a susceptibilidade de perda em favor do Estado\n\n1 - Se do processo crime ou de contra-ordenação constar a identificação do dono ou legítimo possuidor do veículo automóvel, será este notificado de que o veículo foi posto à disposição da DGPE e de que poderá requerer ao juiz de instrução competente ou à autoridade administrativa que superintende no processo de contra-ordenação que profira despacho em que aprecie, provisoriamente, a susceptibilidade ou não de perda da viatura, a final, em favor do Estado.\n\n2 - A decisão da autoridade administrativa é susceptível de recurso para o tribunal comum.\n\n3 - Se o juiz de instrução ou a autoridade administrativa decidir provisoriamente pela insusceptibilidade de perda em favor do Estado, ordenará a restituição da posse do veículo automóvel ao seu dono ou legítimo possuidor logo que se torne desnecessário para a instrução, sem prejuízo da sua apresentação quando exigida pelo tribunal ou entidade investigadora, comunicando a decisão à DGPE."
+  },
+  "187453388": {
+   "fragment_id": "187453332",
+   "type": 11,
+   "heading": "Artigo 4.º — Perda definitiva para o Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Perda definitiva para o Estado\n\nOs tribunais competentes, através do Ministério Público, e as autoridades administrativas, no processo de contra-ordenação, enviarão à DGPE certidão das decisões transitadas em julgado que tenham declarado definitivamente perdidos em favor do Estado quaisquer veículos automóveis, incluindo os que tenham sido colocados à disposição daquela Direcção-Geral."
+  },
+  "187453389": {
+   "fragment_id": "187453333",
+   "type": 11,
+   "heading": "Artigo 5.º — Abandono por declaração expressa do proprietário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Abandono por declaração expressa do proprietário\n\n1 - Consideram-se veículos abandonados em favor do Estado aqueles cujos proprietários tenham assinado declaração expressa nesse sentido, segundo as disposições legais aplicáveis, ou hajam manifestado, por forma inequívoca, a vontade de abandono.\n\n2 - A entidade receptora da declaração transmiti-la-á à DGPE no prazo de 5 dias, indicando as características do veículo conforme se dispõe no n.º 1 do artigo 2.º"
+  },
+  "187453390": {
+   "fragment_id": "187453334",
+   "type": 11,
+   "heading": "Artigo 6.º — Outros casos de abandono em favor do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Outros casos de abandono em favor do Estado\n\n1 - Uma vez cumpridas as disposições legais aplicáveis, consideram-se igualmente abandonados em favor do Estado:\n\na) Os veículos automóveis cujos proprietários não tenham efectuado o pagamento dos direitos aduaneiros e demais disposições no prazo de 90 dias contados da data da posse do veículo pelo Estado, sem prejuízo de prazo mais curto fixado em lei especial;\n\nb) Os veículos apreendidos nos termos do n.º 1 do artigo 43.º do Código da Estrada, decorridos 90 dias sobre a data de apreensão, verificado o condicionalismo referido no n.º 5 do mesmo preceito;\n\nc) Os veículos removidos por estacionamento abusivo ou por constituírem evidente perigo ou grave perturbação para o trânsito, nos termos do Decreto-Lei n.º 57/76, de 22 de Janeiro, decorridos 90 ou 30 dias, contados da notificação ou do último dos anúncios, conforme os casos, nos termos dos artigos 4.º e 5.º daquele diploma.\n\n2 - Cumpridas as formalidades legais prévias do abandono, a entidade que superintender no processo ou que tiver determinado a apreensão comunicará o abandono à DGPE no prazo máximo de 5 dias, indicando as características do veículo nos termos do n.º 1 do artigo 2.º"
+  },
+  "187453391": {
+   "fragment_id": "187453335",
+   "type": 11,
+   "heading": "Artigo 7.º — Vistoria do veículo pela DGPE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vistoria do veículo pela DGPE\n\n1 - Recebida a comunicação a que se referem os artigos anteriores, a DGPE fará a vistoria do veículo automóvel, informando a entidade respectiva em prazo não superior a 30 dias sobre se a viatura está ou não em condições de ser afectada ao parque automóvel do Estado.\n\n2 - No caso de resposta afirmativa, a DGPE poderá tomar, logo a partir da vistoria, as providências necessárias à conservação da viatura, incluindo a sua remoção para local apropriado, do que dará conta ao tribunal ou entidade competente."
+  },
+  "187453392": {
+   "fragment_id": "187453336",
+   "type": 11,
+   "heading": "Artigo 8.º — Auto de recepção de veículos apreendidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Auto de recepção de veículos apreendidos\n\n1 - A DGPE lavrará auto de recepção dos veículos automóveis apreendidos com descrição pormenorizada do seu estado de conservação, incluindo a mecânica, socorrendo-se de meios fotográficos, se possível.\n\n2 - O exame do veículo para efeito de recepção será efectuado por 2 técnicos da especialidade nos 60 dias seguintes à informação dada à entidade competente, enviando-se cópia do auto de recepção para junção ao processo."
+  },
+  "187453393": {
+   "fragment_id": "187453337",
+   "type": 11,
+   "heading": "Artigo 9.º — Reparação e utilização de veículos apreendidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reparação e utilização de veículos apreendidos\n\n1 - Após o exame e auto de recepção a que se refere o artigo anterior, os veículos apreendidos poderão ser sujeitos às reparações necessárias à sua normal utilização e afectados ao parque do Estado, nas condições que vierem a ser fixadas por despacho do Ministro das Finanças e do Plano.\n\n2 - O Estado terá o uso e fruição de tais veículos, respondendo por eles como possuidor de boa fé.\n\n3 - Será organizado um processo burocrático para cada viatura, onde se anotarão todas as alterações, reparações e despesas efectuadas com a mesma."
+  },
+  "187453394": {
+   "fragment_id": "187453338",
+   "type": 11,
+   "heading": "Artigo 10.º — Veículos sem interesse para o parque do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Veículos sem interesse para o parque do Estado\n\n1 - Quando a DGPE informar que o veículo automóvel declarado perdido ou abandonado em favor do Estado não reúne condições para ser afectado ao parque do Estado ou para ser desmantelado com vista à sua integração num banco de componentes, a entidade competente dar-lhe-á o destino previsto na lei.\n\n2 - Na falta de disposição especial, proceder-se-á à venda da viatura, precedida de anúncio num dos jornais mais lidos na localidade onde se encontra, revertendo o produto para o Estado, após dedução das despesas efectuadas com a sua guarda, conservação, remoção e venda.\n\n3 - O disposto no número anterior aplicar-se-á igualmente às viaturas apreendidas em processo crime ou de contra-ordenação logo que a DGPE informe que não interessam ao parque do Estado e se tornem desnecessárias para a instrução, depositando-se o produto da venda na Caixa Geral de Depósitos à ordem da entidade que superitender no processo.\n\n4 - No caso previsto no número anterior, a viatura apreendida pode ser entregue ao seu proprietário, como fiel depositário, até à decisão final do processo, desde que se encontrem cumpridas as imposições legais relativas à mesma e preste caução equivalente ao seu valor."
+  },
+  "187453395": {
+   "fragment_id": "187453339",
+   "type": 11,
+   "heading": "Artigo 11.º — Restituição de veículos; indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Restituição de veículos; indemnizações\n\n1 - Se, por qualquer motivo, for ordenada a restituição de um veículo apreendido, perdido ou abandonado em favor do Estado, será feito o apuramento da desvalorização ocasionada pelo uso por parte do Estado, bem como das benfeitoras que o Estado efectuou durante a utilização.\n\n2 - Operada a compensação a que houver lugar, será indemnizado o titular do crédito pelo excedente que for apurado.\n\n3 - O apuramento referido nos números anteriores será homologado por despacho do Ministro das Finanças e do Plano, sob proposta do director-geral do Património do Estado, não prejudicando o recurso aos tribunais comuns em caso de não concordância do interessado.\n\n4 - Se o veículo automóvel tiver sido vendido, será entregue ao lesado o produto da venda, acrescido, se for caso disso, de indemnização pelos prejuízos, nos termos do n.º 1 do artigo 9.º do Decreto-Lei n.º 48051, de 21 de Novembro de 1967."
+  },
+  "187453396": {
+   "fragment_id": "187453340",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas com veículos não utilizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas com veículos não utilizados\n\n1 - Em qualquer caso, os proprietários dos veículos cuja restituição seja ordenada pagarão as despesas de remoção, taxas de recolha, multas e demais encargos não relacionados com a utilização da viatura pelo Estado, segundo tabelas a aprovar pelo Ministro das Finanças e do Plano.\n\n2 - O Estado goza do direito de retenção pelos créditos referidos neste artigo e no artigo 11.º"
+  },
+  "187453397": {
+   "fragment_id": "187453341",
+   "type": 11,
+   "heading": "Artigo 13.º — Fixação judicial de indemnização pelo uso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fixação judicial de indemnização pelo uso\n\n1 - Se o veículo automóvel for restituído definitivamente ao seu proprietário ou legítimo possuidor nos termos do artigo 11.º, e no caso de não concordância deste com o apuramento indemnizatório a que se refere o n.º 3, poderá ser requerida a sua fixação judicial.\n\n2 - O pedido será deduzido na acção penal, correndo por apenso a esta e, com a petição, o requerente oferecerá todas as provas, podendo o Estado contestar no prazo de 10 dias.\n\n3 - O juiz ordenará a produção de prova por arbitramento, se a considerar necessária, devendo o relatório pericial ser apresentado em prazo não superior a 15 dias.\n\n4 - O perito por parte do Estado será indicado pelo Ministério das Finanças e do Plano.\n\n5 - O pedido da fixação judicial da indemnização não obsta ao recebimento do montante apurado nos termos do n.º 3 do artigo 11.º, bem como à entrega da viatura, sem prejuízo do disposto no artigo 12.º\n\n6 - No restante agora não previsto aplicar-se-ão as regras do processo civil para o processo sumário."
+  },
+  "187453398": {
+   "fragment_id": "187453342",
+   "type": 11,
+   "heading": "Artigo 14.º — Comunicação obrigatória de vendas ou leilões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comunicação obrigatória de vendas ou leilões\n\nNão poderá efectuar-se qualquer leilão ou alienação de veículo apreendido, declarado perdido ou abandonado em favor do Estado sem prévia comunicação à DGPE, salvo se esta já tiver anteriormente informado que o veículo não interessa ao Estado."
+  },
+  "187453399": {
+   "fragment_id": "187453343",
+   "type": 11,
+   "heading": "Artigo 15.º — Veículos de matrícula estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Veículos de matrícula estrangeira\n\nOs tribunais ou entidades que, nos termos do presente diploma, procedam à venda de veículos automóveis de matrícula estrangeira ou que, sendo embora de matrícula nacional, se presuma terem sido introduzidos ilegalmente no País comunicarão tal venda ao director da alfândega que superintenda na área em que a mesma se realize."
+  },
+  "187453400": {
+   "fragment_id": "187453344",
+   "type": 11,
+   "heading": "Artigo 16.º — Identificação dos veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Identificação dos veículos\n\nA Direcção-Geral de Viação tomará as medidas necessárias à regularização dos veículos que, sendo destinados ao Estado ou a venda, não possuam os elementos de identificação exigidos por lei."
+  },
+  "187453401": {
+   "fragment_id": "187453345",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nFicam revogados os artigos 10.º a 14.º da Lei n.º 25/81, de 21 de Agosto, e a Portaria n.º 118/82, de 28 de Janeiro."
+  },
+  "187453402": {
+   "fragment_id": "187453346",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entrará em vigor no dia imediato ao da sua publicação."
+  },
+  "187453414": {
+   "fragment_id": "187453334",
+   "type": 11,
+   "heading": "Artigo 6.º — Outros casos de abandono e perda a favor do Estado",
+   "in_force_from": "1997-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+   ],
+   "markdown": "###### Artigo 6.º — Outros casos de abandono e perda a favor do Estado\n\n1 - Uma vez cumpridas as disposições legais aplicáveis, consideram-se igualmente abandonados a favor do Estado:\n\na) Os veículos automóveis apreendidos ou colocados à ordem das alfândegas quando, após decisão da autoridade competente, não forem iniciadas as formalidades relativas à admissão/importação, no prazo de 60 dias seguidos, ou não forem pagos ou garantidos os direitos e demais imposições em dívida no prazo de 10 dias, contados em ambos os casos a partir da respectiva notificação, se dentro do mesmo prazo não for solicitada a sua reexpedição/reexportação;\n\nb) Os veículos automóveis que se encontrem nas situações previstas nos n.os 1 e 4 do artigo 167.º do Código da Estrada.\n\n2 - Cumpridas as formalidades legais prévias do abandono ou da perda, a entidade que superintender no processo comunicará o facto à DGPE no prazo máximo de 10 dias, indicando as características do veículo, nos termos do n.º 1 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+  },
+  "187453415": {
+   "fragment_id": "187453338",
+   "type": 11,
+   "heading": "Artigo 10.º — Veículos sem interesse para o parque do Estado",
+   "in_force_from": "1997-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+   ],
+   "markdown": "###### Artigo 10.º — Veículos sem interesse para o parque do Estado\n\n1 - Quando a DGPE informar que o veículo automóvel declarado perdido ou abandonado em favor do Estado não reúne condições para ser afectado ao parque do Estado ou para ser desmantelado com vista à sua integração num banco de componentes, a entidade competente dar-lhe-á o destino previsto na lei.\n\n2 - Na falta de disposição especial, proceder-se-á à venda da viatura, precedida de anúncio num dos jornais mais lidos na localidade onde se encontra, revertendo o produto para o Estado, após dedução das despesas efectuadas com a sua guarda, conservação, remoção e venda.\n\n3 - Os veículos desprovidos de matrícula ou com matrícula estrangeira, relativamente aos quais não possa determinar-se se foram introduzidos no consumo interno, ou os que, sendo embora de matrícula nacional, se presuma terem sido, ilegalmente, introduzidos no consumo, apenas poderão ser vendidos com a superintendência da alfândega, sob pena de a entidade que proceder à sua venda ser responsável pelo pagamento das imposições em dívida.\n\n4 - Para efeitos do disposto no número anterior, os tribunais ou as entidades competentes comunicarão previamente à alfândega da respectiva área de jurisdição as decisões de venda de veículos, remetendo todos os elementos relativos aos mesmos, para que esta entidade nomeie um funcionário que superintenda tal venda e contabilize os direitos aduaneiros e as imposições fiscais que se mostrarem devidos.\n\n5 - O disposto nos números anteriores aplicar-se-á igualmente aos veículos apreendidos em processo crime ou de contra-ordenação, logo que a DGPE informe que não interessam ao parque do Estado e se tornem desnecessários para a instrução, depositando-se o produto da venda na Caixa Geral de Depósitos à ordem da entidade que superintender no processo.\n\n6 - No caso previsto no número anterior, o veículo apreendido pode ser entregue ao seu proprietário, como fiel depositário, até à decisão final do processo, desde que se encontrem cumpridas as disposições legais relativas ao mesmo e seja prestada caução equivalente ao seu valor.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+  },
+  "187453404": {
+   "fragment_id": "187453348",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Restituição de veículos",
+   "in_force_from": "1997-01-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+   ],
+   "markdown": "###### Artigo 10.º-A — Restituição de veículos\n\n1 - Um veículo automóvel declarado abandonado ou perdido a favor do Estado pela autoridade administrativa competente poderá ser restituído ao seu anterior proprietário desde que seja solicitada a sua restituição nos seguintes casos:\n\na) Quando se detecte ilegalidade na decisão do processo;\n\nb) Quando haja decisão em sentido contrário, transitada em julgado, proferida pelo tribunal competente em recurso contencioso;\n\nc) Quando no decurso do prazo concedido para a regularização da situação aduaneira do veículo ocorra a morte do proprietário, desde que os respectivos herdeiros apresentem requerimento para o efeito.\n\n2 - A restituição do veículo automóvel, nas situações previstas no número anterior, deverá ser solicitada no prazo de 60 dias seguidos após a ocorrência das mesmas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+  },
+  "187453416": {
+   "fragment_id": "187453339",
+   "type": 11,
+   "heading": "Artigo 11.º — Indemnizações",
+   "in_force_from": "1997-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+   ],
+   "markdown": "###### Artigo 11.º — Indemnizações\n\n1 - Se, por qualquer motivo, for ordenada a restituição de um veículo apreendido, perdido ou abandonado em favor do Estado, será feito o apuramento da desvalorização ocasionada pelo uso por parte do Estado, bem como das benfeitoras que o Estado efectuou durante a utilização.\n\n2 - Operada a compensação a que houver lugar, será indemnizado o titular do crédito pelo excedente que for apurado.\n\n3 - O apuramento referido nos números anteriores será homologado por despacho do Ministro das Finanças e do Plano, sob proposta do director-geral do Património do Estado, não prejudicando o recurso aos tribunais comuns em caso de não concordância do interessado.\n\n4 - Se o veículo automóvel tiver sido vendido, será entregue ao lesado o produto da venda, acrescido, se for caso disso, de indemnização pelos prejuízos, nos termos do n.º 1 do artigo 9.º do Decreto-Lei n.º 48051, de 21 de Novembro de 1967.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+  },
+  "187453406": {
+   "fragment_id": "187453340",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas com veículos não utilizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas com veículos não utilizados\n\n1 - Em qualquer caso, os proprietários dos veículos cuja restituição seja ordenada pagarão as despesas de remoção, taxas de recolha, multas e demais encargos não relacionados com a utilização da viatura pelo Estado, segundo tabelas a aprovar pelo Ministro das Finanças e do Plano.\n\n2 - O Estado goza do direito de retenção pelos créditos referidos neste artigo e no artigo 11.º"
+  },
+  "187453407": {
+   "fragment_id": "187453341",
+   "type": 11,
+   "heading": "Artigo 13.º — Fixação judicial de indemnização pelo uso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fixação judicial de indemnização pelo uso\n\n1 - Se o veículo automóvel for restituído definitivamente ao seu proprietário ou legítimo possuidor nos termos do artigo 11.º, e no caso de não concordância deste com o apuramento indemnizatório a que se refere o n.º 3, poderá ser requerida a sua fixação judicial.\n\n2 - O pedido será deduzido na acção penal, correndo por apenso a esta e, com a petição, o requerente oferecerá todas as provas, podendo o Estado contestar no prazo de 10 dias.\n\n3 - O juiz ordenará a produção de prova por arbitramento, se a considerar necessária, devendo o relatório pericial ser apresentado em prazo não superior a 15 dias.\n\n4 - O perito por parte do Estado será indicado pelo Ministério das Finanças e do Plano.\n\n5 - O pedido da fixação judicial da indemnização não obsta ao recebimento do montante apurado nos termos do n.º 3 do artigo 11.º, bem como à entrega da viatura, sem prejuízo do disposto no artigo 12.º\n\n6 - No restante agora não previsto aplicar-se-ão as regras do processo civil para o processo sumário."
+  },
+  "187453408": {
+   "fragment_id": "187453342",
+   "type": 11,
+   "heading": "Artigo 14.º — Comunicação obrigatória de vendas ou leilões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comunicação obrigatória de vendas ou leilões\n\nNão poderá efectuar-se qualquer leilão ou alienação de veículo apreendido, declarado perdido ou abandonado em favor do Estado sem prévia comunicação à DGPE, salvo se esta já tiver anteriormente informado que o veículo não interessa ao Estado."
+  },
+  "187453417": {
+   "fragment_id": "187453343",
+   "type": 11,
+   "heading": "Artigo 15.º — Venda de veículos matriculados",
+   "in_force_from": "1997-01-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+   ],
+   "markdown": "###### Artigo 15.º — Venda de veículos matriculados\n\n1 - Os veículos portadores de matrícula nacional ou estrangeira, quando destinados a sucata, não podem ser vendidos sem que as chapas das matrículas sejam retiradas e os livretes devolvidos à entidade emissora ou cancelados e juntos ao respectivo processo de venda.\n\n2 - A venda em leilão não dispensa o pagamento dos direitos aduaneiros e das imposições fiscais que se mostrarem devidos, caso sejam declarados para introdução no consumo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+  },
+  "187453410": {
+   "fragment_id": "187453344",
+   "type": 11,
+   "heading": "Artigo 16.º — Identificação dos veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Identificação dos veículos\n\nA Direcção-Geral de Viação tomará as medidas necessárias à regularização dos veículos que, sendo destinados ao Estado ou a venda, não possuam os elementos de identificação exigidos por lei."
+  },
+  "187453411": {
+   "fragment_id": "187453345",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nFicam revogados os artigos 10.º a 14.º da Lei n.º 25/81, de 21 de Agosto, e a Portaria n.º 118/82, de 28 de Janeiro."
+  },
+  "187453412": {
+   "fragment_id": "187453346",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entrará em vigor no dia imediato ao da sua publicação."
+  },
+  "187453413": {
+   "fragment_id": "187453347",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.\n\nPromulgado em 15 de Janeiro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Janeiro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "187453418": {
+   "fragment_id": "187453339",
+   "type": 11,
+   "heading": "Artigo 11.º — Indemnizações",
+   "in_force_from": "2022-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 150.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+   ],
+   "markdown": "###### Artigo 11.º — Indemnizações\n\n1 - Se, por qualquer motivo, for ordenada a restituição de um veículo apreendido, perdido ou abandonado em favor do Estado, será feito o apuramento da desvalorização ocasionada pelo uso por parte do Estado, bem como das benfeitoras que o Estado efectuou durante a utilização.\n\n2 - Operada a compensação a que houver lugar, será indemnizado o titular do crédito pelo excedente que for apurado.\n\n3 - O apuramento referido nos números anteriores será homologado por despacho do membro do Governo responsável pela área dos serviços partilhados da Administração Pública, sob proposta da Entidade de Serviços Partilhado da Administração Pública, I. P., não prejudicando o recurso aos tribunais comuns em caso de não concordância do interessado.\n\n4 - Se o veículo automóvel tiver sido vendido, será entregue ao lesado o produto da venda, acrescido, se for caso disso, de indemnização pelos prejuízos, nos termos do n.º 1 do artigo 9.º do Decreto-Lei n.º 48051, de 21 de Novembro de 1967.\n\n> Alterado pelo/a Artigo 150.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+  },
+  "207417140": {
+   "fragment_id": "187453337",
+   "type": 11,
+   "heading": "Artigo 9.º — Reparação e utilização de veículos apreendidos",
+   "in_force_from": "2023-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Reparação e utilização de veículos apreendidos\n\n1 - Após o exame e auto de receção a que se refere o artigo anterior, os veículos apreendidos podem ser sujeitos às reparações necessárias à sua normal utilização e afetados ao parque do Estado, nas condições que vierem a ser fixadas por despacho do membro do Governo responsável pela área dos serviços partilhados da Administração Pública.\n\n2 - O Estado terá o uso e fruição de tais veículos, respondendo por eles como possuidor de boa fé.\n\n3 - Será organizado um processo burocrático para cada viatura, onde se anotarão todas as alterações, reparações e despesas efectuadas com a mesma.\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+  },
+  "207417141": {
+   "fragment_id": "187453339",
+   "type": 11,
+   "heading": "Artigo 11.º — Indemnizações",
+   "in_force_from": "2023-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 150.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+   ],
+   "markdown": "###### Artigo 11.º — Indemnizações\n\n1 - Se, por qualquer motivo, for ordenada a restituição de um veículo apreendido, perdido ou abandonado em favor do Estado, será feito o apuramento da desvalorização ocasionada pelo uso por parte do Estado, bem como das benfeitoras que o Estado efectuou durante a utilização.\n\n2 - Operada a compensação a que houver lugar, será indemnizado o titular do crédito pelo excedente que for apurado.\n\n3 - O apuramento referido nos números anteriores é homologado por despacho do membro do Governo responsável pela área dos serviços partilhados da Administração Pública, com faculdade de delegação, sob proposta da Entidade de Serviços Partilhado da Administração Pública, I. P., não prejudicando o recurso aos tribunais comuns em caso de não concordância do interessado.\n\n4 - Se o veículo automóvel tiver sido vendido, será entregue ao lesado o produto da venda, acrescido, se for caso disso, de indemnização pelos prejuízos, nos termos do n.º 1 do artigo 9.º do Decreto-Lei n.º 48051, de 21 de Novembro de 1967.\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 150.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223), em vigor a partir de 1997-01-24"
+  },
+  "207417142": {
+   "fragment_id": "187453340",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas com veículos não utilizados",
+   "in_force_from": "2023-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Despesas com veículos não utilizados\n\n1 - Em qualquer caso, os proprietários dos veículos cuja restituição seja ordenada pagarão as despesas de remoção, taxas de recolha, multas e demais encargos não relacionados com a utilização da viatura pelo Estado, segundo tabelas a aprovar pelo membro do Governo responsável pela área dos serviços partilhados da Administração Pública.\n\n2 - O Estado goza do direito de retenção pelos créditos referidos neste artigo e no artigo 11.º\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+  },
+  "207417143": {
+   "fragment_id": "187453341",
+   "type": 11,
+   "heading": "Artigo 13.º — Fixação judicial de indemnização pelo uso",
+   "in_force_from": "2023-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Fixação judicial de indemnização pelo uso\n\n1 - Se o veículo automóvel for restituído definitivamente ao seu proprietário ou legítimo possuidor nos termos do artigo 11.º, e no caso de não concordância deste com o apuramento indemnizatório a que se refere o n.º 3, poderá ser requerida a sua fixação judicial.\n\n2 - O pedido será deduzido na acção penal, correndo por apenso a esta e, com a petição, o requerente oferecerá todas as provas, podendo o Estado contestar no prazo de 10 dias.\n\n3 - O juiz ordenará a produção de prova por arbitramento, se a considerar necessária, devendo o relatório pericial ser apresentado em prazo não superior a 15 dias.\n\n4 - O perito por parte do Estado é indicado pelo membro do Governo responsável pela área dos serviços partilhados da Administração Pública.\n\n5 - O pedido da fixação judicial da indemnização não obsta ao recebimento do montante apurado nos termos do n.º 3 do artigo 11.º, bem como à entrega da viatura, sem prejuízo do disposto no artigo 12.º\n\n6 - No restante agora não previsto aplicar-se-ão as regras do processo civil para o processo sumário.\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+  },
+  "215713392": {
+   "fragment_id": "187453340",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas com veículos não utilizados",
+   "in_force_from": "2023-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 54/2023 - Diário da República n.º 136/2023, Série I de 2023-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), em vigor a partir de 2023-07-15, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Despesas com veículos não utilizados\n\n1 - Em qualquer caso, os proprietários dos veículos cuja restituição seja ordenada pagam as despesas de remoção, taxas de recolha, multas e demais encargos não relacionados com a utilização da viatura pelo Estado, segundo tabelas a aprovar pelo membro do Governo responsável pela área dos serviços partilhados da Administração Pública, podendo tal competência ser delegada no conselho diretivo da Entidade de Serviços Partilhado da Administração Pública, I. P.\n\n2 - O Estado goza do direito de retenção pelos créditos referidos neste artigo e no artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 54/2023 - Diário da República n.º 136/2023, Série I de 2023-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), em vigor a partir de 2023-07-15, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+  },
+  "215713393": {
+   "fragment_id": "187453341",
+   "type": 11,
+   "heading": "Artigo 13.º — Fixação judicial de indemnização pelo uso",
+   "in_force_from": "2023-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 54/2023 - Diário da República n.º 136/2023, Série I de 2023-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), em vigor a partir de 2023-07-15, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Fixação judicial de indemnização pelo uso\n\n1 - Se o veículo automóvel for restituído definitivamente ao seu proprietário ou legítimo possuidor nos termos do artigo 11.º, e no caso de não concordância deste com o apuramento indemnizatório a que se refere o n.º 3, poderá ser requerida a sua fixação judicial.\n\n2 - O pedido será deduzido na acção penal, correndo por apenso a esta e, com a petição, o requerente oferecerá todas as provas, podendo o Estado contestar no prazo de 10 dias.\n\n3 - O juiz ordenará a produção de prova por arbitramento, se a considerar necessária, devendo o relatório pericial ser apresentado em prazo não superior a 15 dias.\n\n4 - O perito por parte do Estado é indicado pelo membro do Governo responsável pela área dos serviços partilhados da Administração Pública, podendo tal competência ser delegada no conselho diretivo da Entidade de Serviços Partilhado da Administração Pública, I. P.\n\n5 - O pedido da fixação judicial da indemnização não obsta ao recebimento do montante apurado nos termos do n.º 3 do artigo 11.º, bem como à entrega da viatura, sem prejuízo do disposto no artigo 12.º\n\n6 - No restante agora não previsto aplicar-se-ão as regras do processo civil para o processo sumário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 54/2023 - Diário da República n.º 136/2023, Série I de 2023-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), em vigor a partir de 2023-07-15, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 143.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01"
+  }
+ }
+}

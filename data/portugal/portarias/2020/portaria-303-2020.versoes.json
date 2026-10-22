@@ -1,0 +1,297 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:152197933:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-152165539",
+ "dre_path": "/dr/detalhe/portaria/303-2020-152197933",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "151863729",
+    "151863730",
+    "151863731",
+    "151863732",
+    "151863733",
+    "151863734",
+    "151863735",
+    "151863736",
+    "151863737",
+    "151863738",
+    "151863739",
+    "151863740",
+    "151863741",
+    "151863742",
+    "151863743",
+    "151863744",
+    "151863745",
+    "151863746",
+    "151863747",
+    "151863748",
+    "151863749",
+    "151863750",
+    "151863751"
+   ]
+  },
+  {
+   "date": "2021-07-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:168043798:por",
+     "title": "Portaria n.º 158/2021",
+     "published": "2021-07-22",
+     "dre_path": "/dr/detalhe/portaria/158-2021-168043798"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "151863729",
+    "151863730",
+    "151863731",
+    "151863732",
+    "151863733",
+    "151863734",
+    "168153786",
+    "151863736",
+    "151863737",
+    "151863738",
+    "151863739",
+    "151863740",
+    "151863741",
+    "151863742",
+    "151863743",
+    "151863744",
+    "151863745",
+    "151863746",
+    "151863747",
+    "151863748",
+    "151863749",
+    "151863750",
+    "151863751",
+    "151863752",
+    "168153785"
+   ]
+  }
+ ],
+ "fragments": {
+  "151863729": {
+   "fragment_id": "152165540",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 303/2020\n\nde 28 de dezembro\n\nSumário: Regulamenta a apresentação do pedido de autorização prévia no procedimento de regularização previsto nos artigos 78.º-B e 78.º-C do Código do IVA e aprova os modelos e respetivas instruções.\n\nA Lei n.º 66-B/2012, de 31 de dezembro, estabeleceu novas regras para a regularização do imposto sobre o valor acrescentado associado a créditos de cobrança duvidosa e a créditos incobráveis, previstas nos artigos 78.º-A a 78.º-D do Código do IVA, aplicáveis aos créditos vencidos a partir de 1 de janeiro de 2013.\n\nNos termos dos n.os 1 e 10 do artigo 78.º-B do Código do IVA, a regularização, a favor do sujeito passivo, do imposto associado a créditos considerados de cobrança duvidosa nos termos da alínea a) do n.º 2 do artigo 78.º-A do Código do IVA é efetuada mediante pedido de autorização prévia a apresentar por via eletrónica, de acordo com os procedimentos e modelos aprovados para o efeito por portaria do membro do Governo responsável pela área das finanças.\n\nA Portaria n.º 172/2015, de 5 de junho, aprovou o procedimento para a apresentação do pedido de autorização prévia por parte do sujeito passivo fornecedor de bens ou prestador de serviços, a que se refere o n.º 1 do artigo 78.º-B do Código do IVA, assim como o modelo a utilizar e as respetivas instruções de preenchimento.\n\nNão obstante, para além da necessidade de se complementar esta regulamentação, designadamente no que respeita à efetivação da regularização de imposto a que se refere o n.º 3 do artigo 78.º-C do Código do IVA, mostra-se ainda necessário adaptar a regulamentação já existente na Portaria n.º 172/2015, de 5 de junho, às novas condições estabelecidas em alterações legislativas posteriores.\n\nCom efeito, com as alterações introduzidas pela Lei n.º 2/2020, de 31 de março, no artigo 78.º-D do Código do IVA, a comprovação e certificação dos elementos e diligências respeitantes a cada crédito de cobrança duvidosa e, bem assim, a certificação de que se encontram verificados os requisitos legais para a regularização do imposto respeitante a créditos considerados incobráveis abrangidos pelo n.º 4 do artigo 78.º-A, até aqui asseguradas em exclusivo por revisor oficial de contas, passaram a poder ser também efetuadas por contabilista certificado independente, nas situações em que a regularização do imposto não exceda 10 000 (euro) por pedido de autorização prévia.\n\nConsiderando, finalmente, as alterações legislativas sucessivamente introduzidas a respeito da comprovação e certificação por contabilista certificado independente, afigura-se ser essencial resolver as situações pendentes dos sujeitos passivos que aguardam a conclusão dos respetivos procedimentos, conferindo à Autoridade Tributária e Aduaneira mecanismos que a capacitem para o efeito, pelo que se procede também à introdução de um período transitório durante o qual os contabilistas certificados independentes podem comprovar e certificar os elementos e diligências em pedidos de autorização prévia relativamente aos quais o prazo de seis meses previsto no artigo 78.º-B do Código do IVA, contados a partir da data em que os créditos sejam considerados de cobrança duvidosa, decorra no período que medeia entre o dia 1 de abril de 2020 e a data da entrada em vigor da presente portaria.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e dos Assuntos Fiscais, nos termos do n.º 10 do artigo 78.º-B do Código do IVA, o seguinte:\n\n> Nota: [Declaração de Retificação n.º 4/2021 - Diário da República n.º 23/2021, Série I de 2021-02-03](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2021-156252153) O campo 01 do quadro 4 do modelo «Pedido de Regularização de IVA (artigo 78.º-C do Código do IVA)» é retificado de acordo com a Declaração de Retificação .º 4/2021, de 3 de fevereiro."
+  },
+  "151863730": {
+   "fragment_id": "152165541",
+   "type": 8,
+   "heading": "Secção I — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objeto e âmbito de aplicação"
+  },
+  "151863731": {
+   "fragment_id": "152165542",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a apresentação do pedido de autorização prévia no procedimento de regularização previsto nos artigos 78.º-B e 78.º-C do Código do IVA e aprova os modelos e respetivas instruções, a utilizar para o efeito, que se publicam em anexo."
+  },
+  "151863732": {
+   "fragment_id": "152165543",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente portaria aplica-se aos procedimentos de regularização do imposto associado a créditos considerados de cobrança duvidosa nos termos da alínea a) do n.º 2 do artigo 78.º-A do Código do IVA e vencidos a partir de 1 de janeiro de 2013.\n\n2 - O procedimento de regularização aplica-se aos pedidos de autorização prévia apresentados:\n\na) Por sujeito passivo fornecedor de bens ou prestador de serviços que tenha liquidado o imposto associado a créditos considerados de cobrança duvidosa e o tenha inscrito na correspondente declaração periódica;\n\nb) Por sujeito passivo adquirente que tenha procedido ao pagamento total ou parcial do crédito, relativamente ao imposto regularizado a favor do Estado nos termos do n.º 5 do artigo 78.º-B do Código do IVA."
+  },
+  "151863733": {
+   "fragment_id": "152165544",
+   "type": 11,
+   "heading": "Artigo 3.º — Contabilista certificado independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contabilista certificado independente\n\nPara efeitos da presente portaria considera-se «Contabilista certificado independente» o contabilista certificado que reúna os seguintes requisitos:\n\na) Não seja o contabilista certificado responsável pelas obrigações contabilísticas e fiscais, com nomeação no Portal das Finanças, do sujeito passivo fornecedor de bens ou prestador de serviços ou do sujeito passivo adquirente, independentemente do exercício dessas funções a título dependente ou independente;\n\nb) Não seja membro dos órgãos sociais, ou membro de quaisquer órgãos de administração, direção, gerência ou fiscalização do sujeito passivo fornecedor de bens ou prestador de serviços ou do sujeito passivo adquirente;\n\nc) Não seja detentor de capital ou partes sociais, direta ou indiretamente apurado nos termos do n.º 6 do artigo 69.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, no sujeito passivo fornecedor de bens ou prestador de serviços ou no sujeito passivo adquirente;\n\nd) Não tenha relações especiais com o sujeito passivo fornecedor de bens ou prestador de serviços, com o sujeito passivo adquirente ou com o respetivo contabilista certificado, nos termos do n.º 4 do artigo 63.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas."
+  },
+  "151863734": {
+   "fragment_id": "152165545",
+   "type": 8,
+   "heading": "Secção II — Pedido de autorização prévia nos termos do artigo 78.º-B do Código do IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pedido de autorização prévia nos termos do artigo 78.º-B do Código do IVA"
+  },
+  "151863735": {
+   "fragment_id": "152165546",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPedido de autorização prévia a efetuar pelo sujeito passivo fornecedor de bens ou prestador de serviços\n\n1 - O pedido é apresentado por via eletrónica, no Portal das Finanças, no prazo de seis meses contados a partir da data em que os créditos sejam considerados de cobrança duvidosa, nos termos da alínea a) do n.º 2 do artigo 78.º-A do Código do IVA.\n\n2 - Podem ser incluídas no pedido uma ou mais faturas, desde que estas sejam referentes ao mesmo adquirente e tenham sido certificadas pelo mesmo revisor oficial de contas (ROC) ou pelo mesmo contabilista certificado independente.\n\n3 - O pedido deve conter os seguintes elementos relativamente a cada crédito de cobrança duvidosa:\n\na) Número de identificação fiscal do sujeito passivo adquirente;\n\nb) Número de identificação fiscal do ROC ou do contabilista certificado independente que efetuou a certificação a que se referem os n.os 1 e 2 do artigo 78.º-D do Código do IVA;\n\nc) Número da fatura da qual consta o crédito de cobrança duvidosa, que deve ser inscrito no pedido em termos idênticos aos comunicados ao sistema e-fatura, nos casos em que esta comunicação seja obrigatória;\n\nd) Data da emissão da fatura;\n\ne) Data de vencimento do crédito de cobrança duvidosa;\n\nf) Período de imposto em que foi entregue a declaração periódica contendo o valor da fatura a que se refere a alínea c);\n\ng) Base tributável constante da fatura;\n\nh) Valor total do imposto liquidado na fatura;\n\ni) Valor do imposto a regularizar."
+  },
+  "151863736": {
+   "fragment_id": "152165547",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Certificação do pedido\n\n1 - O pedido é processado e validado centralmente e a sua aceitação provisória é confirmada pela Autoridade Tributária e Aduaneira no prazo de dois dias após a sua submissão.\n\n2 - O ROC ou contabilista certificado independente deve, no prazo de 10 dias após a submissão do pedido, confirmar que efetuou a certificação dos elementos relativos a cada uma das faturas e períodos a que se refere o pedido, nos termos dos n.os 1 e 2 do artigo 78.º-D do Código do IVA.\n\n3 - A falta de confirmação da certificação do pedido por parte do ROC ou do contabilista certificado independente no prazo previsto no número anterior implica o seu indeferimento automático."
+  },
+  "151863737": {
+   "fragment_id": "152165548",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração do pedido\n\n1 - A alteração de qualquer elemento do pedido pressupõe a anulação deste e substituição por um novo pedido, a apresentar nos termos do artigo 4.º\n\n2 - O pedido inicial apenas pode ser anulado até à confirmação da certificação a que se refere o n.º 2 do artigo 5.º"
+  },
+  "151863738": {
+   "fragment_id": "152165549",
+   "type": 11,
+   "heading": "Artigo 7.º — Notificação do sujeito passivo adquirente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Notificação do sujeito passivo adquirente\n\n1 - Após a notificação a que se refere o n.º 5 do artigo 78.º-B do Código do IVA, o sujeito passivo adquirente pode, no prazo estabelecido no n.º 6 do mesmo artigo, identificar por via eletrónica, no Portal das Finanças, as faturas que já se encontram pagas ou em relação às quais não se encontra em mora, bem como assinalar que o montante em dívida não corresponde ao montante indicado no pedido, devendo submeter simultaneamente, pela mesma via, prova documental dos factos invocados.\n\n2 - O sujeito passivo adquirente pode alterar ou retificar a informação prestada nos termos do número anterior no prazo de oito dias após a sua submissão, findo o qual a mesma se torna definitiva."
+  },
+  "151863739": {
+   "fragment_id": "152165550",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Decisão\n\n1 - Sem prejuízo do disposto nos n.os 2 e 4 do artigo 78.º-B do Código do IVA, o sujeito passivo fornecedor é notificado, por via eletrónica, do deferimento ou indeferimento do pedido.\n\n2 - Não é aplicável o disposto no n.º 4 do artigo 78.º-B do Código do IVA quando no mesmo pedido sejam incluídos créditos que não preencham as condições aí previstas.\n\n3 - A não verificação dos pressupostos para a regularização do imposto relativamente a um ou mais créditos determina o indeferimento de todo o pedido."
+  },
+  "151863740": {
+   "fragment_id": "152165551",
+   "type": 8,
+   "heading": "Secção III — Pedido de autorização prévia nos termos do n.º 3 do artigo 78.º-C do Código do IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Pedido de autorização prévia nos termos do n.º 3 do artigo 78.º-C do Código do IVA"
+  },
+  "151863741": {
+   "fragment_id": "152165552",
+   "type": 11,
+   "heading": "Artigo 9.º — Pedido de autorização prévia a efetuar pelo sujeito passivo adquirente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedido de autorização prévia a efetuar pelo sujeito passivo adquirente\n\n1 - O pedido é apresentado por via eletrónica, no Portal das Finanças, no prazo de seis meses contados a partir da data do pagamento, total ou parcial, do crédito, cujo imposto foi regularizado a favor do Estado nos termos do n.º 5 do artigo 78.º-B do Código do IVA.\n\n2 - Podem ser incluídas no pedido uma ou mais faturas, desde que estas sejam referentes ao mesmo pedido de autorização prévia apresentado pelo fornecedor de bens ou prestador de serviços.\n\n3 - O pedido de regularização deve conter os seguintes elementos relativamente a cada crédito:\n\na) Número de identificação fiscal do sujeito passivo fornecedor de bens ou prestador de serviços;\n\nb) Número de identificação do pedido de autorização prévia originalmente apresentado pelo sujeito passivo fornecedor de bens ou prestador de serviços;\n\nc) Número da fatura da qual consta o crédito que foi total ou parcialmente pago, e que deve ser inscrito no pedido em termos idênticos aos comunicados ao sistema e-fatura, nos casos em que esta comunicação seja obrigatória;\n\nd) Data de emissão da fatura;\n\ne) Período de imposto em que foi entregue a declaração periódica contendo o valor do imposto regularizado a favor do Estado;\n\nf) Base tributável constante da fatura;\n\ng) Valor total do imposto liquidado na fatura;\n\nh) Valor do imposto a regularizar;\n\ni) Data do pagamento, total ou parcial, do crédito."
+  },
+  "151863742": {
+   "fragment_id": "152165553",
+   "type": 11,
+   "heading": "Artigo 10.º — Validação e alteração do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Validação e alteração do pedido\n\n1 - O pedido é processado e validado centralmente e a sua aceitação provisória é confirmada pela Autoridade Tributária e Aduaneira no prazo de dois dias após a sua submissão.\n\n2 - A alteração de qualquer elemento do pedido pressupõe a respetiva anulação e substituição por um novo pedido, nos termos do artigo 9.º\n\n3 - O pedido inicialmente submetido apenas pode ser anulado até à notificação do sujeito passivo fornecedor de bens ou prestador de serviços."
+  },
+  "151863743": {
+   "fragment_id": "152165554",
+   "type": 11,
+   "heading": "Artigo 11.º — Notificação do sujeito passivo fornecedor de bens ou prestador de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Notificação do sujeito passivo fornecedor de bens ou prestador de serviços\n\n1 - Após a notificação do sujeito passivo fornecedor, em termos idênticos à notificação a que se refere o n.º 5 do artigo 78.º-B do Código do IVA, o mesmo pode validar, ou não, no prazo estabelecido no n.º 6 do mesmo artigo, por via eletrónica, no Portal das Finanças, a informação veiculada no pedido submetido pelo sujeito passivo adquirente, devendo submeter simultaneamente, através do mesmo meio, prova documental dos factos invocados.\n\n2 - O sujeito passivo fornecedor pode alterar ou retificar a informação prestada nos termos do disposto no número anterior no prazo de oito dias após a sua submissão, findo o qual a mesma se torna definitiva."
+  },
+  "151863744": {
+   "fragment_id": "152165555",
+   "type": 11,
+   "heading": "Artigo 12.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Decisão\n\n1 - Sem prejuízo do disposto nos n.os 2 e 4 do artigo 78.º-B do Código do IVA, o sujeito passivo adquirente é notificado, por via eletrónica, do deferimento ou indeferimento do pedido.\n\n2 - A não verificação dos pressupostos para a regularização do imposto relativamente a um ou mais créditos determina o indeferimento de todo o pedido."
+  },
+  "151863745": {
+   "fragment_id": "152165556",
+   "type": 11,
+   "heading": "Artigo 13.º — Regularização do imposto pelo sujeito passivo adquirente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regularização do imposto pelo sujeito passivo adquirente\n\nA regularização do imposto a favor do sujeito passivo adquirente deve ser efetuada na respetiva declaração periódica, até ao final do período de imposto seguinte àquele em que se verificar o deferimento do pedido de autorização prévia pela Autoridade Tributária e Aduaneira."
+  },
+  "151863746": {
+   "fragment_id": "152165557",
+   "type": 8,
+   "heading": "Secção IV — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Norma revogatória"
+  },
+  "151863747": {
+   "fragment_id": "152165558",
+   "type": 11,
+   "heading": "Artigo 14.º — Revogação da Portaria n.º 172/2015, de 5 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revogação da Portaria n.º 172/2015, de 5 de junho\n\nÉ revogada a Portaria n.º 172/2015, de 5 de junho."
+  },
+  "151863748": {
+   "fragment_id": "152165559",
+   "type": 8,
+   "heading": "Secção V — Produção de efeitos e entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Produção de efeitos e entrada em vigor"
+  },
+  "151863749": {
+   "fragment_id": "152165560",
+   "type": 11,
+   "heading": "Artigo 15.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Produção de efeitos\n\nA presente portaria produz efeitos a 1 de janeiro de 2015, relativamente aos procedimentos de regularização por ela regulados que se encontrem pendentes de decisão na data da sua entrada em vigor."
+  },
+  "151863750": {
+   "fragment_id": "152165561",
+   "type": 11,
+   "heading": "Artigo 16.º — Período transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Período transitório\n\nOs elementos e diligências referentes aos pedidos de autorização prévia cujo prazo de seis meses contados a partir da data em que os créditos sejam considerados de cobrança duvidosa, nos termos da alínea a) do n.º 2 do artigo 78.º-A do Código do IVA, decorra entre 1 de abril de 2020 e a data da entrada em vigor da presente portaria podem ser comprovados e certificados por contabilista certificado independente até 28 de fevereiro de 2021, salvo se o referido prazo de seis meses se concluir em data posterior."
+  },
+  "151863751": {
+   "fragment_id": "152165562",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "168153786": {
+   "fragment_id": "152165546",
+   "type": 11,
+   "heading": "Artigo 4.º — Pedido de autorização prévia a efetuar pelo sujeito passivo fornecedor de bens ou prestador de serviços",
+   "in_force_from": "2021-07-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 158/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/158-2021-168043798), em vigor a partir de 2021-07-23"
+   ],
+   "markdown": "###### Artigo 4.º — Pedido de autorização prévia a efetuar pelo sujeito passivo fornecedor de bens ou prestador de serviços\n\n1 - O pedido é apresentado por via eletrónica, no Portal das Finanças, no prazo de seis meses contados a partir da data em que os créditos sejam considerados de cobrança duvidosa, nos termos da alínea a) do n.º 2 do artigo 78.º-A do Código do IVA.\n\n2 - Podem ser incluídas no pedido uma ou mais faturas, desde que estas sejam referentes ao mesmo adquirente e tenham sido certificadas pelo mesmo revisor oficial de contas (ROC) ou pelo mesmo contabilista certificado independente.\n\n3 - O pedido deve conter os seguintes elementos relativamente a cada crédito de cobrança duvidosa:\n\na) Número de identificação fiscal do sujeito passivo adquirente;\n\nb) Número de identificação fiscal do ROC ou do contabilista certificado independente que efetuou a certificação a que se referem os n.os 1 e 2 do artigo 78.º-D do Código do IVA;\n\nc) Número da fatura da qual consta o crédito de cobrança duvidosa, que deve ser inscrito no pedido em termos idênticos aos comunicados ao sistema e-fatura, nos casos em que esta comunicação seja obrigatória;\n\nd) Data da emissão da fatura;\n\ne) Data de vencimento do crédito de cobrança duvidosa;\n\nf) Período de imposto em que foi entregue a declaração periódica contendo o valor da fatura a que se refere a alínea c);\n\ng) Base tributável constante da fatura;\n\nh) Valor total do imposto liquidado na fatura;\n\ni) Valor do imposto a regularizar.\n\n> Alterado pelo/a [Portaria n.º 158/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/158-2021-168043798), em vigor a partir de 2021-07-23"
+  },
+  "151863752": {
+   "fragment_id": "152165563",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e dos Assuntos Fiscais, António Mendonça Mendes, em 16 de dezembro de 2020."
+  },
+  "168153785": {
+   "fragment_id": "168153385",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 4.º)",
+   "in_force_from": "2021-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/158-2021-168043798), em vigor a partir de 2021-07-23"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 4.º)\n\nRepublicação dos modelos das declarações destinadas à apresentação dos pedidos de autorização prévia a que se referem o n.º 1 do artigo 78.º-B e o n.º 3 do artigo 78.º-C, ambos do Código do IVA, e das respetivas instruções de preenchimento\n\n(ver documento original)\n\n114428655\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2021 - Diário da República n.º 141/2021, Série I de 2021-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/158-2021-168043798), em vigor a partir de 2021-07-23"
+  }
+ }
+}

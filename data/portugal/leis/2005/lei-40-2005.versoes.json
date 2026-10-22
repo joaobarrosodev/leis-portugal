@@ -1,0 +1,194 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240376:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2005-886312614",
+ "dre_path": "/dr/detalhe/lei/40-2005-240376",
+ "source_lastmod": "2024-08-29",
+ "versions": [
+  {
+   "date": "2005-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886312351",
+    "886312352",
+    "886312353",
+    "886312354",
+    "886312355",
+    "886312356",
+    "886312357",
+    "886312358",
+    "886312359",
+    "886312360"
+   ]
+  },
+  {
+   "date": "2009-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:604822:por",
+     "title": "Lei n.º 10/2009",
+     "published": "2009-03-10",
+     "dre_path": "/dr/detalhe/lei/10-2009-604822"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "886312351",
+    "886312352",
+    "886312353",
+    "886312354",
+    "886312362",
+    "886312356",
+    "886312357",
+    "886312358",
+    "886312359",
+    "886312360",
+    "886312361"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609990:por",
+     "title": "Lei n.º 3-B/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/lei/3-b-2010-609990"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "886312351",
+    "886312352",
+    "886312353",
+    "886312354",
+    "886312363",
+    "886312356",
+    "886312357",
+    "886312358",
+    "886312359",
+    "886312360",
+    "886312361"
+   ]
+  }
+ ],
+ "fragments": {
+  "886312351": {
+   "fragment_id": "886312615",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 40/2005\n\nde 3 de Agosto\n\nCria o SIFIDE, sistema de incentivos fiscais em investigação e desenvolvimento empresarial\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei seguinte:"
+  },
+  "886312352": {
+   "fragment_id": "886312616",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei tem por objecto o sistema de incentivos fiscais em investigação e desenvolvimento (I&D) empresarial, SIFIDE, o qual se processa nos termos dos artigos seguintes."
+  },
+  "886312353": {
+   "fragment_id": "886312617",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos do disposto na presente lei, consideram-se:\n\na) «Despesas de investigação» as realizadas pelo sujeito passivo de IRC com vista à aquisição de novos conhecimentos científicos ou técnicos;\n\nb) «Despesas de desenvolvimento» as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico."
+  },
+  "886312354": {
+   "fragment_id": "886312618",
+   "type": 11,
+   "heading": "Artigo 3.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Despesas elegíveis\n\n1 - Consideram-se dedutíveis as seguintes categorias de despesas, desde que se refiram a actividades de investigação e desenvolvimento, tal como definidas no artigo anterior:\n\na) Aquisições de imobilizado, à excepção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e directamente afectos à realização de actividades de I&D;\n\nb) Despesas com pessoal directamente envolvido em tarefas de I&D;\n\nc) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D;\n\nd) Despesas de funcionamento, até ao máximo de 55% das despesas com o pessoal directamente envolvido em tarefas de I&D contabilizadas a título de remunerações, ordenados ou salários, respeitantes ao exercício;\n\ne) Despesas relativas à contratação de actividades de I&D junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho conjunto dos Ministros da Economia e da Inovação e da Ciência, Tecnologia e Ensino Superior;\n\nf) Participação no capital de instituições de I&D e contributos para fundos de investimentos, públicos ou privados, destinados a financiar empresas dedicadas sobretudo a I&D, incluindo o financiamento da valorização dos seus resultados, cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho conjunto dos Ministros da Economia e da Inovação e da Ciência, Tecnologia e Ensino Superior;\n\ng) Custos com registo e manutenção de patentes;\n\nh) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de actividades de I&D;\n\ni) Despesas com auditorias à I&D.\n\n2 - As entidades referenciadas na alínea e) não podem deduzir qualquer tipo de despesas incorridas em projectos realizados por conta de terceiros.\n\n3 - Os custos referidos na alínea g) só são aplicáveis às micro, pequenas e médias empresas."
+  },
+  "886312355": {
+   "fragment_id": "886312619",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito da dedução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes em território português que exerçam, a título principal ou não, uma actividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante apurado nos termos do artigo 83.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objecto de comparticipação financeira do Estado a fundo perdido, realizadas no período de tributação que se inicie em 1 de Janeiro de 2006, numa dupla percentagem:\n\na) Taxa de base - 20% das despesas realizadas naquele período;\n\nb) Taxa incremental - 50% do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de (euro) 750000, o qual poderá ser revisto por decreto-lei.\n\n2 - A dedução é feita, nos termos do artigo 83.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n3 - As despesas que, por insuficiência de colecta, não possam ser deduzidas no exercício em que foram realizadas poderão ser deduzidas até ao 6.º exercício imediato.\n\n4 - Para efeitos do disposto nos números anteriores, quando no ano de início de usufruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n> Nota: [Artigo 18.º, Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822) A redacção dada pela presente lei ao artigo 4.º aplica-se apenas às despesas realizadas no período de tributação que se inicia em 1 de Janeiro de 2009."
+  },
+  "886312356": {
+   "fragment_id": "886312620",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições\n\nApenas poderão beneficiar da dedução a que se refere o artigo 4.º os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indirectos;\n\nb) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições, ou tenham o seu pagamento devidamente assegurado."
+  },
+  "886312357": {
+   "fragment_id": "886312621",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações acessórias\n\n1 - A dedução a que se refere o artigo 4.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou de prova da apresentação do pedido de emissão dessa declaração, de que as actividades exercidas ou a exercer correspondem efectivamente a acções de investigação ou desenvolvimento, dos respectivos montantes envolvidos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida por entidade nomeada por despacho do Ministro da Ciência, Tecnologia e Ensino Superior, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 121.º do Código do IRC.\n\n2 - No processo de documentação fiscal do sujeito passivo deve igualmente constar documento que evidencie o cálculo do benefício fiscal, bem como documento comprovativo de que se encontra preenchida a condição referida na alínea b) do artigo 5.º, com referência ao mês anterior ao da entrega da declaração periódica de rendimentos.\n\n3 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previsto na presente lei devem disponibilizar atempadamente as informações solicitadas pela entidade referida no n.º 1 e aceitar submeter-se às auditorias tecnológicas que vierem a ser determinadas."
+  },
+  "886312358": {
+   "fragment_id": "886312622",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações contabilísticas\n\nA contabilidade dos sujeitos passivos de IRC beneficiários do regime previsto na presente lei dará expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 4.º mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efectua a dedução."
+  },
+  "886312359": {
+   "fragment_id": "886312623",
+   "type": 11,
+   "heading": "Artigo 8.º — Exclusividade do benefício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exclusividade do benefício\n\nA dedução a que se refere o artigo 4.º não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza previstos noutros diplomas legais."
+  },
+  "886312360": {
+   "fragment_id": "886312624",
+   "type": 11,
+   "heading": "Artigo 9.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vigência\n\nO regime constante da presente lei vigora por um período de cinco anos."
+  },
+  "886312362": {
+   "fragment_id": "886312619",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito da dedução",
+   "in_force_from": "2009-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822), em vigor a partir de 2009-03-11, produz efeitos a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes em território português que exerçam, a título principal ou não, uma actividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante apurado nos termos do artigo 83.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objecto de comparticipação financeira do Estado a fundo perdido, realizadas no período de tributação que se inicie em 1 de Janeiro de 2006, numa dupla percentagem:\n\na) Taxa de base - 32,5 % das despesas realizadas naquele período;\n\nb) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de (euro) 1 500 000.\n\n2 - A dedução é feita, nos termos do artigo 83.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n3 - As despesas que, por insuficiência de colecta, não possam ser deduzidas no exercício em que foram realizadas poderão ser deduzidas até ao 6.º exercício imediato.\n\n4 - Para efeitos do disposto nos números anteriores, quando no ano de início de usufruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n> Nota: [Artigo 18.º, Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822) A redacção dada pela presente lei ao artigo 4.º aplica-se apenas às despesas realizadas no período de tributação que se inicia em 1 de Janeiro de 2009.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822), em vigor a partir de 2009-03-11, produz efeitos a partir de 2009-01-01"
+  },
+  "886312361": {
+   "fragment_id": "886312625",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 16 de Junho de 2005.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 21 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 22 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "886312363": {
+   "fragment_id": "886312619",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito da dedução",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 114.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822), em vigor a partir de 2009-03-11, produz efeitos a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes em território português que exerçam, a título principal ou não, uma actividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante apurado nos termos do artigo 83.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objecto de comparticipação financeira do Estado a fundo perdido, realizadas no período de tributação que se inicie em 1 de Janeiro de 2006, numa dupla percentagem:\n\na) Taxa de base - 32,5 % das despesas realizadas naquele período;\n\nb) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de (euro) 1 500 000.\n\n2 - A dedução é feita, nos termos do artigo 83.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n3 - As despesas que, por insuficiência de colecta, não possam ser deduzidas no exercício em que foram realizadas poderão ser deduzidas até ao 6.º exercício imediato.\n\n4 - Para efeitos do disposto nos números anteriores, quando no ano de início de usufruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n5 - A taxa incremental prevista na alínea b) do n.º 1 é acrescida em 20 pontos percentuais para as despesas relativas à contratação de doutorados pelas empresas para actividades de investigação e desenvolvimento passando o limite previsto na mesma alínea a ser de (euro) 1 800 000.\n\n> Nota: [Artigo 18.º, Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822) A redacção dada pela presente lei ao artigo 4.º aplica-se apenas às despesas realizadas no período de tributação que se inicia em 1 de Janeiro de 2009.\n\n> Alterado pelo/a Artigo 114.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822), em vigor a partir de 2009-03-11, produz efeitos a partir de 2009-01-01"
+  }
+ }
+}

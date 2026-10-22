@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:239856:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-942970449",
+ "dre_path": "/dr/detalhe/lei/68-1998-239856",
+ "source_lastmod": "2025-10-29",
+ "versions": [
+  {
+   "date": "1998-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942972899",
+    "942972900",
+    "942972901",
+    "942972902",
+    "942972903"
+   ]
+  }
+ ],
+ "fragments": {
+  "942972899": {
+   "fragment_id": "942970450",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 68/98\n\nde 26 de Outubro\n\nDetermina a entidade que exerce as funções de instância nacional de controlo e a forma de nomeação dos representantes do Estado Português na instância comum de controlo, previstas na Convenção, fundamentada no artigo K.3 do Tratado da União Europeia, Que Cria Um Serviço Europeu de Polícia (EUROPOL).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º e do n.º 3 do artigo 166.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "942972900": {
+   "fragment_id": "942970451",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma determina a entidade que exerce as funções de instância nacional de controlo e a forma de nomeação dos representantes do Estado Português na instância comum de controlo, previstas na Convenção, fundamentada no artigo K.3 do Tratado da União Europeia, Que Cria Um Serviço Europeu de Polícia (EUROPOL), aprovada pela Resolução n.º 60/97, de 19 de Setembro."
+  },
+  "942972901": {
+   "fragment_id": "942970452",
+   "type": 11,
+   "heading": "Artigo 2.º — Instância nacional de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instância nacional de controlo\n\nPara os efeitos do artigo 23.º da Convenção referida no artigo 1.º, é designada como instância nacional de controlo a Comissão Nacional de Protecção de Dados Pessoais Informatizados."
+  },
+  "942972902": {
+   "fragment_id": "942970453",
+   "type": 11,
+   "heading": "Artigo 3.º — Instância comum de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instância comum de controlo\n\nIncumbe à Comissão Nacional de Protecção de Dados Pessoais Informatizados a nomeação dos dois representantes na instância comum de controlo, a designar de entre os seus membros."
+  },
+  "942972903": {
+   "fragment_id": "942970454",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor na data da entrada em vigor da Convenção referida no artigo 1.º"
+  }
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75170443:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-872180357",
+ "dre_path": "/dr/detalhe/decreto-lei/49-2016-75170443",
+ "source_lastmod": "2024-07-17",
+ "versions": [
+  {
+   "date": "2016-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "872277395",
+    "872277396",
+    "872277397",
+    "872277398",
+    "872277399",
+    "872277400",
+    "872277401",
+    "872277402",
+    "872277403",
+    "872277404",
+    "872277405",
+    "872277406",
+    "872277407",
+    "872277408",
+    "872277409",
+    "872277410"
+   ]
+  },
+  {
+   "date": "2024-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:872180332:por",
+     "title": "Decreto-Lei n.º 46/2024",
+     "published": "2024-07-17",
+     "dre_path": "/dr/detalhe/decreto-lei/46-2024-872180332"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "872277395",
+    "872277396",
+    "872277397",
+    "872277398",
+    "872277399",
+    "872277412",
+    "872277401",
+    "872277402",
+    "872277403",
+    "872277404",
+    "872277405",
+    "872277406",
+    "872277407",
+    "872277408",
+    "872277409",
+    "872277410",
+    "872277411"
+   ]
+  }
+ ],
+ "fragments": {
+  "872277395": {
+   "fragment_id": "872180358",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 49/2016\n\nde 23 de agosto\n\nO reforço do poder do cidadão no Serviço Nacional de Saúde constitui um dos compromissos do Programa do XXI Governo Constitucional, consubstanciado em várias medidas, entre as quais se destaca a criação do «Conselho Nacional de Saúde no sentido de garantir a participação dos cidadãos utilizadores do Serviço Nacional de Saúde na definição das políticas, contando com a participação das autarquias e dos profissionais, bem como de conselhos regionais e institucionais, como forma de promover uma cultura de transparência e prestação de contas perante a sociedade».\n\nEmbora legalmente previsto há mais de 25 anos na Base VII da Lei n.º 48/90, de 24 de agosto - Lei de Bases da Saúde, e ao longo das várias leis orgânicas do Ministério da Saúde, o Conselho Nacional de Saúde nunca foi criado.\n\nTrata-se de um órgão consultivo do Governo representativo dos interessados no funcionamento das entidades prestadoras de cuidados de saúde, cuja composição, competência e funcionamento constam de diploma próprio, que importa agora concretizar.\n\nEste órgão tem presente as melhores práticas internacionais e traduz o que os estudos de reflexão na área da saúde consideram ser importante, estabelecendo uma aliança de toda a sociedade para definir uma visão para o futuro e ter uma perspetiva de conjunto do sistema.\n\nForam ouvidos os órgãos do governo próprio das regiões autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias, as Ordens dos Biólogos, dos Enfermeiros, dos Farmacêuticos, dos Médicos, dos Médicos Dentistas, dos Nutricionistas e dos Psicólogos, o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, a Comissão Permanente de Concertação Social, o Conselho Nacional para a Economia Social e o Conselho Nacional de Ética para as Ciências da Vida.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "872277396": {
+   "fragment_id": "872180359",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime jurídico do Conselho Nacional de Saúde (CNS), previsto na Base VII da Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro."
+  },
+  "872277397": {
+   "fragment_id": "872180360",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO CNS é um órgão independente, de consulta do Governo na definição de políticas de saúde, sem prejuízo do previsto no n.º 2 do artigo 4.º, que funciona junto do Ministério da Saúde."
+  },
+  "872277398": {
+   "fragment_id": "872180361",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nO CNS tem por missão proporcionar a participação das várias entidades científicas, sociais, culturais e económicas, na procura de consensos alargados relativamente à política de saúde."
+  },
+  "872277399": {
+   "fragment_id": "872180362",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Compete ao CNS, por iniciativa própria ou sempre que solicitado pelo Governo:\n\na) Apreciar e emitir parecer e recomendações sobre questões relativas a temas relacionados com a política de saúde, designadamente:\n\ni) Execução do programa do Governo e modelo de governação da saúde;\n\nii) Saúde dos portugueses conforme relatórios anuais de acesso e qualidade;\n\niii) Plano Nacional de Saúde;\n\niv) Investigação e inovação nas áreas da saúde.\n\nb) Promover a análise e o debate público sobre a política de saúde;\n\nc) Promover a formação, e a sensibilização da população em geral sobre as questões relevantes para a saúde pública, por sua iniciativa ou em colaboração com outras entidades públicas, sociais ou privadas, nomeadamente através da realização de conferências periódicas e da apresentação pública das questões mais importantes que tenham sido submetidas à sua análise;\n\nd) Colaborar na preparação e realização dos debates a propósito do Dia Mundial da Saúde;\n\ne) Apresentar anualmente ao membro do Governo responsável pela área da saúde e à Assembleia da República um relatório sobre a situação da saúde em Portugal, formulando as recomendações que tenha por convenientes;\n\nf) Assegurar a representação nacional em reuniões internacionais de organismos congéneres;\n\ng) Publicar os documentos elaborados no âmbito das suas competências, através de sítio próprio na Internet;\n\nh) Aprovar o plano anual de atividades;\n\ni) Elaborar e aprovar o relatório anual de atividades, a enviar ao Presidente da República, à Assembleia da República e ao membro do Governo responsável pela área da saúde;\n\nj) Aprovar o seu regulamento interno.\n\n2 - A Assembleia da República pode, também, solicitar a emissão de pareceres, nos termos do número anterior."
+  },
+  "872277400": {
+   "fragment_id": "872180363",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - O CNS é composto por 30 membros, nos seguintes termos:\n\na) Um presidente e um vice-presidente designados pelo Conselho de Ministros, sob proposta do membro do Governo responsável pela área da saúde;\n\nb) Seis representantes dos utentes, eleitos, pela Assembleia da República, por maioria absoluta dos deputados em efetividade de funções, incluindo as associações de doentes, em conformidade com o disposto no n.º 3 da Base VII da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro;\n\nc) Um representante das seguintes associações públicas profissionais:\n\ni) Ordem dos Biólogos;\n\nii) Ordem dos Enfermeiros;\n\niii) Ordem dos Farmacêuticos;\n\niv) Ordem dos Médicos;\n\nv) Ordem dos Médicos Dentistas;\n\nvi) Ordem dos Nutricionistas;\n\nvii) Ordem dos Psicólogos.\n\nd) Dois representantes das autarquias designados um pela Associação Nacional de Municípios Portugueses e um pela Associação Nacional de Freguesias;\n\ne) Duas personalidades de reconhecido mérito na área da saúde devendo refletir a pluralidade dos saberes, designados pelo Conselho de Reitores das Universidades Portuguesas;\n\nf) Duas personalidades de reconhecido mérito na área da saúde, devendo refletir a pluralidade dos saberes, designados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\ng) Uma personalidade de reconhecido mérito na área da saúde, designada pelo Governo da Região Autónoma dos Açores;\n\nh) Uma personalidade de reconhecido mérito na área da saúde, designada pelo Governo da Região Autónoma da Madeira;\n\ni) Cinco personalidades indicadas pela Comissão Permanente de Concertação Social, sob proposta das respetivas organizações sindicais e empresariais;\n\nj) Uma personalidade de reconhecido mérito na área da saúde, indicada pelo Conselho Nacional para a Economia Social;\n\nk) Uma personalidade de reconhecido mérito na área da saúde, indicada pelo Conselho Nacional de Ética para as Ciências da Vida.\n\n2 - Para cada representante no CNS, previstos nas alíneas b) a k) do número anterior, é designado também um suplente.\n\n3 - A designação dos membros referidos nos números anteriores deve ter em conta a relevância dos interesses representados, e as competências do CNS.\n\n4 - Face à natureza das matérias a abordar, o Presidente pode, por iniciativa própria, ou a solicitação de qualquer membro do CNS, convidar entidades ou personalidades não incluídas no n.º 1, e convocar os dirigentes máximos dos serviços da Administração Pública, para participarem nas reuniões do CNS, sem direito a voto.\n\n5 - Relativamente aos representantes indicados nas alíneas b), c) e d) do n.º 1 o respetivo mandado coincide com o termo do mandato das entidades representadas."
+  },
+  "872277401": {
+   "fragment_id": "872180364",
+   "type": 11,
+   "heading": "Artigo 6.º — Mandato dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mandato dos membros\n\n1 - Os membros do CNS exercem funções por um período de quatro anos não renovável.\n\n2 - Os membros do CNS tomam posse perante o presidente."
+  },
+  "872277402": {
+   "fragment_id": "872180365",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatuto dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatuto dos membros\n\n1 - Os membros do CNS são inamovíveis, não podendo as suas funções cessar antes do termo do mandato, exceto em caso de:\n\na) Morte ou incapacidade física ou psíquica;\n\nb) Renúncia ao mandato;\n\nc) Perda do mandato.\n\n2 - Perdem o mandato os membros do CNS que:\n\na) Sejam condenados judicialmente, com sentença transitada em julgado, incompatível com o exercício do mandato, nos termos da sentença aplicável;\n\nb) Faltem injustificadamente a duas ou mais reuniões sucessivas, devendo proceder-se à sua substituição pelo suplente indicado ou a nova designação, se aquele não existir;\n\nc) Deixem de ser reconhecidos como tais pelas entidades que representam, devendo estas dar conhecimento do facto, por escrito, ao presidente.\n\n3 - A cessação ou perda de mandato prevista nos números anteriores é determinada por deliberação do CNS, ouvidos os interessados."
+  },
+  "872277403": {
+   "fragment_id": "872180366",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do presidente\n\n1 - Compete ao presidente do CNS:\n\na) Representar o CNS;\n\nb) Dar posse aos membros do CNS;\n\nc) Coordenar a atividade do CNS, convocar e presidir às reuniões e fazer cumprir a ordem de trabalhos;\n\nd) Exercer voto de qualidade em caso de empate nas votações;\n\ne) Solicitar ao Governo e a quaisquer entidades públicas ou privadas as informações necessárias ao bom desempenho das atribuições do CNS;\n\nf) Convidar individualidades ou entidades não representadas no CNS, e os dirigentes máximos dos serviços a participarem nas respetivas reuniões, nos termos do n.º 2 do artigo seguinte.\n\n2 - O presidente é substituído nas suas ausências ou impedimentos pelo vice-presidente, ou na falta deste, por quem indicar para o efeito."
+  },
+  "872277404": {
+   "fragment_id": "872180367",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento\n\n1 - O CNS reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, a pedido do Governo ou de um terço dos seus membros.\n\n2 - Podem participar nas reuniões, sem direito a voto, quaisquer pessoas cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação, por convocação do presidente.\n\n3 - Por iniciativa do presidente, quando a natureza da matéria o justifique, e tendo em conta a composição do CNS e a especificidade do assunto em causa, podem ser constituídas comissões especializadas, incumbidas de preparar o parecer do CNS sobre as matérias que lhes sejam expressamente submetidas.\n\n4 - A comissão criada nos termos do número anterior extingue-se com a emissão do parecer cuja preparação fundamentou a sua criação.\n\n5 - As reuniões ordinárias são convocadas pelo presidente do CNS, com a antecedência mínima de 15 dias úteis, salvo motivo de força maior.\n\n6 - As convocatórias indicam o dia, a hora da reunião e a ordem do dia e contêm a documentação de suporte sobre cada assunto dela constante.\n\n7 - As faltas às reuniões devem, quando previsíveis, ser previamente comunicadas e justificadas ao presidente.\n\n8 - De cada reunião é lavrada ata, que inclui um resumo de tudo o que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes, as justificações de ausência recebidas, os assuntos apreciados, as deliberações tomadas e a forma e o resultado das respetivas votações.\n\n9 - As atas de cada reunião são submetidas pelo presidente à discussão e aprovação de todos os membros na reunião subsequente.\n\n10 - A comunicação de todos os atos deve ser realizada por correio eletrónico."
+  },
+  "872277405": {
+   "fragment_id": "872180368",
+   "type": 11,
+   "heading": "Artigo 10.º — Quórum e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Quórum e deliberações\n\n1 - O CNS só pode reunir estando presente a maioria dos seus membros, entre os quais o presidente ou o vice-presidente.\n\n2 - As deliberações são tomadas por maioria simples dos membros presentes, tendo o presidente do CNS, ou o seu substituto, voto de qualidade.\n\n3 - As deliberações são eficazes com a aprovação das respetivas atas, nos termos previstos no Código do Procedimento Administrativo."
+  },
+  "872277406": {
+   "fragment_id": "872180369",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio logístico, administrativo e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio logístico, administrativo e financeiro\n\nO apoio logístico, administrativo e financeiro indispensável ao funcionamento do CNS é prestado pela Secretaria-Geral do Ministério da Saúde."
+  },
+  "872277407": {
+   "fragment_id": "872180370",
+   "type": 11,
+   "heading": "Artigo 12.º — Início de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Início de funções\n\nO CNS inicia as suas funções assim que comunicada ao respetivo Presidente a designação de, no mínimo, 16 membros."
+  },
+  "872277408": {
+   "fragment_id": "872180371",
+   "type": 11,
+   "heading": "Artigo 13.º — Direitos dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direitos dos membros\n\n1 - Constituem direitos dos membros do CNS:\n\na) Participar nas reuniões e votações;\n\nb) Apresentar sugestões ou propostas ao CNS, para os efeitos do previsto no n.º 1 do artigo 4.º;\n\nc) Solicitar, através do seu presidente, ao Governo, os esclarecimentos que entendam por convenientes, no âmbito das competências do CNS.\n\n2 - Constituem, ainda, direitos dos membros do CNS a dispensa das suas atividades profissionais, públicas ou privadas, quando se encontrem no exercício efetivo de funções neste órgão, sem perda de quaisquer direitos ou regalias.\n\n3 - Os membros do CNS não têm direito a qualquer tipo de remuneração, sem prejuízo do pagamento de ajudas de custo e deslocações a que tenham direito, nos termos legais."
+  },
+  "872277409": {
+   "fragment_id": "872180372",
+   "type": 11,
+   "heading": "Artigo 14.º — Colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Colaboração\n\n1 - O CNS pode solicitar a quaisquer entidades públicas ou privadas os elementos que considerar indispensáveis para a prossecução da sua missão, as quais devem prestar, no âmbito das suas atribuições e competências, todo o apoio que lhes for solicitado.\n\n2 - Os serviços e organismos da Administração Central, Regional e Local do Estado colaboram com o CNS, prestando toda a informação que lhes seja solicitada pelo presidente do CNS."
+  },
+  "872277410": {
+   "fragment_id": "872180373",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "872277412": {
+   "fragment_id": "872180363",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": "2024-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2024 - Diário da República n.º 137/2024, Série I de 2024-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2024-872180332), em vigor a partir de 2024-08-01"
+   ],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - O CNS é composto pelos membros a seguir identificados, nos seguintes termos:\n\na) Um presidente e um vice-presidente designados pelo Conselho de Ministros, sob proposta do membro do Governo responsável pela área da saúde;\n\nb) Seis representantes dos utentes, eleitos, pela Assembleia da República, por maioria absoluta dos deputados em efetividade de funções, incluindo as associações de doentes, em conformidade com o disposto no n.º 3 da Base VII da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro;\n\nc) Um representante das seguintes associações públicas profissionais:\n\ni) Ordem dos Biólogos;\n\nii) Ordem dos Enfermeiros;\n\niii) Ordem dos Farmacêuticos;\n\niv) Ordem dos Médicos;\n\nv) Ordem dos Médicos Dentistas;\n\nvi) Ordem dos Nutricionistas;\n\nvii) Ordem dos Psicólogos.\n\nviii) Ordem dos Fisioterapeutas;\n\nix) Ordem dos Médicos Veterinários;\n\nd) Dois representantes das autarquias designados um pela Associação Nacional de Municípios Portugueses e um pela Associação Nacional de Freguesias;\n\ne) Duas personalidades de reconhecido mérito na área da saúde devendo refletir a pluralidade dos saberes, designados pelo Conselho de Reitores das Universidades Portuguesas;\n\nf) Duas personalidades de reconhecido mérito na área da saúde, devendo refletir a pluralidade dos saberes, designados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\ng) Uma personalidade de reconhecido mérito na área da saúde, designada pelo Governo da Região Autónoma dos Açores;\n\nh) Uma personalidade de reconhecido mérito na área da saúde, designada pelo Governo da Região Autónoma da Madeira;\n\ni) Cinco personalidades indicadas pela Comissão Permanente de Concertação Social, sob proposta das respetivas organizações sindicais e empresariais;\n\nj) Uma personalidade de reconhecido mérito na área da saúde, indicada pelo Conselho Nacional para a Economia Social;\n\nk) Uma personalidade de reconhecido mérito na área da saúde, indicada pelo Conselho Nacional de Ética para as Ciências da Vida.\n\n2 - Para cada representante no CNS, previstos nas alíneas b) a k) do número anterior, é designado também um suplente.\n\n3 - A designação dos membros referidos nos números anteriores deve ter em conta a relevância dos interesses representados, e as competências do CNS.\n\n4 - Face à natureza das matérias a abordar, o Presidente pode, por iniciativa própria, ou a solicitação de qualquer membro do CNS, convidar entidades ou personalidades não incluídas no n.º 1, e convocar os dirigentes máximos dos serviços da Administração Pública, para participarem nas reuniões do CNS, sem direito a voto.\n\n5 - Relativamente aos representantes indicados nas alíneas b), c) e d) do n.º 1 o respetivo mandado coincide com o termo do mandato das entidades representadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2024 - Diário da República n.º 137/2024, Série I de 2024-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2024-872180332), em vigor a partir de 2024-08-01"
+  },
+  "872277411": {
+   "fragment_id": "872180374",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - Carlos Manuel Soares Miguel - Manuel Frederico Tojal de Valsassina Heitor - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - José Fernando Gomes Mendes.\n\nPromulgado em 9 de agosto de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 11 de agosto de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

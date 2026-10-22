@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:521243:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2007-925058161",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/64-2007-521243",
+ "source_lastmod": "2025-07-15",
+ "versions": [
+  {
+   "date": "2007-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "925033682"
+   ]
+  }
+ ],
+ "fragments": {
+  "925033682": {
+   "fragment_id": "925058162",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 64/2007\n\nAquando da criação da Unidade de Missão para a Reforma Penal (UMRP), previu-se para essa estrutura de missão uma duração máxima de dois anos.\n\nFaltando cerca de quatro meses para se atingir esse prazo, verifica-se que se encontra concluída a maior parte dos trabalhos - nomeadamente os de maior relevo - que foram atribuídos à UMRP, não justificando o remanescente a manutenção de uma estrutura com estas características.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve extinguir a UMRP, criada pela Resolução do Conselho de Ministros n.º 138/2005, de 17 de Agosto, com efeitos a partir da data de aprovação da presente resolução."
+  }
+ }
+}

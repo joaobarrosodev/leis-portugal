@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:306472:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-888962735",
+ "dre_path": "/dr/detalhe/portaria/1308-2010-306472",
+ "source_lastmod": "2024-09-26",
+ "versions": [
+  {
+   "date": "2010-12-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888962798",
+    "888962799",
+    "888962800"
+   ]
+  },
+  {
+   "date": "2012-07-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178525:por",
+     "title": "Portaria n.º 200/2012",
+     "published": "2012-07-02",
+     "dre_path": "/dr/detalhe/portaria/200-2012-178525"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "888962798",
+    "888962799",
+    "888962825",
+    "888962801"
+   ]
+  }
+ ],
+ "fragments": {
+  "888962798": {
+   "fragment_id": "888962736",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1308/2010\n\nde 23 de Dezembro\n\nO Decreto-Lei n.º 104/2010, de 29 de Setembro, determinou a extinção das tarifas reguladas de venda de electricidade a clientes finais, com consumos em MAT, AT, MT e BTE a partir de 1 de Janeiro de 2011.\n\nNos termos do artigo 6.º deste diploma é fixada pela Entidade Reguladora dos Serviços Energéticos (ERSE) uma tarifa de venda transitória a aplicar aos clientes finais que, naquela data, não tenham contratado no mercado livre o seu fornecimento, agravada por uma percentagem a determinar por aquela entidade.\n\nTal agravamento pressupõe que, a partir de 1 de Janeiro de 2011, estejam criadas todas as condições que permitam aos consumidores celebrar contrato de adesão ao serviço de interruptibilidade, nos termos da Portaria n.º 592/2010, de 29 de Julho. Efectivamente, o n.º 6 do artigo 4.º desta portaria prevê a instalação de um sistema informático de comunicações, execução e controlo de interruptibilidade, a aprovar pela ERSE, sob proposta do operador da rede de transporte, a apresentar no prazo máximo de 60 dias após a data de publicação desta portaria.\n\nTambém, no artigo 8.º do mesmo diploma é estabelecido como requisito para a prestação do serviço, a instalação pelo consumidor de equipamento de medida, registo e controlo, a definir tecnicamente pela ERSE no prazo máximo de 60 dias após a publicação da mesma portaria.\n\nAs dificuldades entretanto verificadas na apresentação da proposta relacionadas com as opções disponíveis no mercado e a sua articulação com soluções técnicas já existentes na operação das redes, que permita a definição pela ERSE das especificações técnicas dos equipamentos, bem como os prazos inerentes à selecção e contratação dos fornecedores, após a aprovação daquelas especificações, impossibilita que se reúnam as condições para a aplicação daqueles requisitos, a partir de 1 de Janeiro de 2011. Nestas condições, para que o consumidor de energia eléctrica não seja prejudicado é criado, em aditamento à Portaria n.º 592/2010, de 29 de Julho, um regime transitório, que vigora entre 1 de Janeiro e 30 de Novembro de 2011, durante o qual será permitido contratar com o operador da rede de transporte a prestação do serviço de interruptibilidade no mercado livre, com dispensa dos requisitos previstos nas alíneas c) e d) do artigo 8.º da Portaria n.º 592/2010, de 29 de Julho.\n\nA Portaria n.º 592/2010, de 29 de Julho, ao alargar a remuneração do serviço de interruptibilidade para os consumidores que se encontrem no mercado livre, aproximou o modelo de interruptibilidade em Portugal com o que se pratica em Espanha, harmonizando as condições a nível ibérico. No entanto, verifica-se que a actual legislação de Espanha, para além de remunerar o serviço de interruptibilidade introduz uma valorização desse serviço baseada na modulação do consumo realizada pelos consumidores. A valorização da modelação tem por efeito incentivar os consumidores a deslocarem os seus consumos dos períodos de cheia e ponta para os períodos de vazio, tornando o funcionamento do sistema eléctrico mais eficiente e mais seguro, em linha com os objectivos definidos pela Estratégia para a Energia para 2020.\n\nA presente portaria, para além das alterações referidas, vem também introduzir uma valorização da modelação na fórmula de remuneração definida pela Portaria n.º 592/2010, de 29 de Julho, contribuindo para uma maior harmonização a nível ibérico.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Energia e da Inovação, ao abrigo do disposto no n.º 2 do artigo 33.º do Decreto-Lei n.º 172/2006, de 23 de Agosto, o seguinte:"
+  },
+  "888962799": {
+   "fragment_id": "888962737",
+   "type": 11,
+   "heading": "Artigo 1.º — Prestação do serviço de interruptibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Prestação do serviço de interruptibilidade\n\n1 - A partir de 1 de Janeiro de 2011, com a extinção das tarifas reguladas de venda de electricidade a clientes finais e até 30 de Novembro desse ano, a prestação do serviço de interruptibilidade no mercado livre pode ser contratada com dispensa dos requisitos previstos nas alíneas c) e d) do artigo 8.º da Portaria n.º 592/2010, de 29 de Julho.\n\n2 - Durante o período referido no número anterior, os prestadores de serviço comprometem-se a desligar a potência interruptível contratada sempre que tal lhes seja solicitado pelo operador da rede de transporte, através de e-mail e ou fax, sendo os períodos de interrupção e contagem de energia efectuados em termos compatíveis com os actuais equipamentos de contagem.\n\n3 - Até 30 de Novembro de 2011, os prestadores do serviço de interruptibilidade devem ter instalados os equipamentos a que se referem as alíneas c) e d) do artigo 8.º da Portaria n.º 592/2010, de 29 de Julho.\n\n4 - O incumprimento da obrigação prevista no número anterior tem por efeito a cessação do contrato de adesão ao serviço de interruptibilidade.\n\n5 - Desde que estejam reunidas as condições para a instalação dos equipamentos a que se referem as alíneas c) e d) do artigo 8.º da Portaria n.º 592/2010, de 29 de Julho, a data de 30 de Novembro pode ser antecipada, mediante aviso prévio do operador da rede de transporte, a efectuar com a antecedência mínima de 60 dias.\n\n> Nota: [Artigo, Portaria n.º 268/2011 - Diário da República n.º 179/2011, Série I de 2011-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/268-2011-671023) O prazo previsto no n.º 3 do presente artigo é prorrogado até 30 de Novembro de 2012. Esta data pode ser antecipada nos termos do n.º 5 do artigo 1.º da presente portaria."
+  },
+  "888962800": {
+   "fragment_id": "888962738",
+   "type": 11,
+   "heading": "Artigo 2.º — Remuneração do serviço de interruptibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Remuneração do serviço de interruptibilidade\n\n1 - A fórmula prevista na subalínea i) da alínea a) do n.º 1 do artigo 5.º da Portaria n.º 592/2010, de 29 de Julho, passa a ter a seguinte redacção:\n\nrb(índice a) = (alfa) x TGCC x P(índice int a) x (mi) x (fi) x (Delta)a\n\n2 - A fórmula prevista na subalínea i) da alínea b) do n.º 1 do artigo 5.º da Portaria n.º 592/2010, de 29 de Julho, passa a ter a seguinte redacção:\n\nrb(índice ab) = (alfa) x TGCC x P(índice int a) x (mi) x (fi) x (Delta)a + (beta) x TGCC x P(índice int b) x (mi) x (fi) x (Delta)b\n\n3 - O factor (mi) introduzido nas fórmulas dos números anteriores é calculado mensalmente com base na energia consumida pelo prestador do serviço nos últimos 12 meses contados entre 1 de Novembro e 31 de Outubro, da seguinte forma:\n\n(mi) = 1,40 com FWpc (igual ou maior que) 2,25;\n\n(mi) = 1,35 com 2,25 (maior que) FWpc (igual ou maior que) 2,1;\n\n(mi) = 1,25 com 2,1 (maior que) FWpc (igual ou maior que) 2,00;\n\n(mi) = 1,15 com 2,00 (maior que) FWpc (igual ou maior que) 1,88;\n\n(mi) = 1 com FWpc (menor que) 1,88;\n\nem que FWpc é igual ao quociente entre a energia anual consumida pelo prestador do serviço em megawatt por hora e a energia anual consumida pelo prestador do serviço nos períodos horários de ponta e de cheia em megawatt por hora.\n\n4 - O factor (fi) introduzido nas fórmulas dos n.os 1 e 2 é calculado mensalmente com base na energia consumida pelo prestador do serviço nos últimos 12 meses contados entre 1 de Novembro e 31 de Outubro, da seguinte forma:\n\n(fi) = 1,4 com FWh (igual ou maior que) 5500;\n\n(fi) = 1,3 com 5500 (maior que) FWh (igual ou maior que) 4500;\n\n(fi) = 1,2 com 4500 (maior que) FWh (igual ou maior que) 3500;\n\n(fi) = 1 com FWh (menor que) 3500;\n\nem que FWh é igual ao quociente entre a energia anual consumida pelo prestador do serviço e a potência anual contratada.\n\n5 - A remuneração de disponibilidade fica limitada a um valor máximo de (euro) 15/MWh calculado como o quociente entre o valor resultante das fórmulas definidas nos n.os 1 ou 2, consoante a fórmula que se aplique, e a energia anual consumida pelo prestador do serviço nos últimos 12 meses contados entre 1 de Novembro e 31 de Outubro."
+  },
+  "888962825": {
+   "fragment_id": "888962738",
+   "type": 11,
+   "heading": "Artigo 2.º — Retribuição do serviço de interruptibilidade",
+   "in_force_from": "2012-07-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 200/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/200-2012-178525), em vigor a partir de 2012-07-07"
+   ],
+   "markdown": "###### Artigo 2.º — Retribuição do serviço de interruptibilidade\n\n1 - A fórmula prevista na subalínea i) da alínea a) do n.º 1 do artigo 5.º da Portaria n.º 592/2010, de 29 de Julho, passa a ter a seguinte redacção:\n\nrb(índice a) = (alfa) x TGCC x P(índice int a) x (mi) x (fi) x (Delta)a\n\n2 - A fórmula prevista na subalínea i) da alínea b) do n.º 1 do artigo 5.º da Portaria n.º 592/2010, de 29 de Julho, passa a ter a seguinte redacção:\n\nrb(índice ab) = (alfa) x TGCC x P(índice int a) x (mi) x (fi) x (Delta)a + (beta) x TGCC x P(índice int b) x (mi) x (fi) x (Delta)b\n\n3 - O fator (mi) introduzido nas fórmulas dos números anteriores é calculado mensalmente com base na energia consumida pelo prestador do serviço nos últimos 12 meses contados entre 1 de novembro e 31 de outubro, da seguinte forma:\n\n(mi) = 1,90 com FWpc (igual ou maior que) 2,223;\n\n(mi) = 1,75 com 2,223 (maior que) FWpc (igual ou maior que) 2,095;\n\n(mi) = 1,55 com 2,095 (maior que) FWpc (igual ou maior que) 1,971;\n\n(mi) = 1,30 com 1,971 (maior que) FWpc (igual ou maior que) 1,852;\n\n(mi) = 1,00 com FWpc (menor que) 1,852;\n\nem que FWpc é igual ao quociente entre a energia anual consumida pelo prestador do serviço em megawatt hora e a energia anual consumida pelo prestador do serviço nos períodos horários de ponta e cheia em megawatt hora.\n\n4 - O factor (fi) introduzido nas fórmulas dos n.os 1 e 2 é calculado mensalmente com base na energia consumida pelo prestador do serviço nos últimos 12 meses contados entre 1 de Novembro e 31 de Outubro, da seguinte forma:\n\n(fi) = 1,4 com FWh (igual ou maior que) 5500;\n\n(fi) = 1,3 com 5500 (maior que) FWh (igual ou maior que) 4500;\n\n(fi) = 1,2 com 4500 (maior que) FWh (igual ou maior que) 3500;\n\n(fi) = 1 com FWh (menor que) 3500;\n\nem que FWh é igual ao quociente entre a energia anual consumida pelo prestador do serviço e a potência anual contratada.\n\n5 - A remuneração de disponibilidade fica limitada a um valor máximo de (euro) 18/MWh calculado como o quociente entre o valor resultante das fórmulas definidas nos n.os 1 ou 2, consoante a fórmula que se aplique, e a energia anual consumida pelo prestador do serviço nos últimos 12 meses contados entre 1 de novembro e 31 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 200/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/200-2012-178525), em vigor a partir de 2012-07-07"
+  },
+  "888962801": {
+   "fragment_id": "888962739",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 16 de Dezembro de 2010."
+  }
+ }
+}

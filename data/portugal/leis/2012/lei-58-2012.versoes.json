@@ -1,0 +1,643 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:191990:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-107640694",
+ "dre_path": "/dr/detalhe/lei/58-2012-191990",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107614832",
+    "107614833",
+    "107614834",
+    "107614835",
+    "107614836",
+    "107614837",
+    "107614838",
+    "107614839",
+    "107614840",
+    "107614841",
+    "107614842",
+    "107614843",
+    "107614844",
+    "107614845",
+    "107614846",
+    "107614847",
+    "107614848",
+    "107614849",
+    "107614850",
+    "107614851",
+    "107614852",
+    "107614853",
+    "107614854",
+    "107614855",
+    "107614856",
+    "107614857",
+    "107614858",
+    "107614859",
+    "107614860",
+    "107614861",
+    "107614862",
+    "107614863",
+    "107614864",
+    "107614865",
+    "107614866",
+    "107614867",
+    "107614868",
+    "107614869",
+    "107614870",
+    "107614871",
+    "107614872",
+    "107614873",
+    "107614874",
+    "107642775",
+    "107642776",
+    "107642777",
+    "107642778",
+    "107642779",
+    "107642780",
+    "107642781"
+   ]
+  },
+  {
+   "date": "2014-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56348178:por",
+     "title": "Lei n.º 58/2014",
+     "published": "2014-08-25",
+     "dre_path": "/dr/detalhe/lei/58-2014-56348178"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "107614832",
+    "107614833",
+    "107614834",
+    "107642787",
+    "107642788",
+    "107642789",
+    "107642795",
+    "107642790",
+    "107614840",
+    "107614841",
+    "107614842",
+    "107614843",
+    "107642791",
+    "107614845",
+    "107614846",
+    "107614847",
+    "107614848",
+    "107614849",
+    "107614850",
+    "107614851",
+    "107614852",
+    "107642792",
+    "107614854",
+    "107614855",
+    "107614856",
+    "107614857",
+    "107642793",
+    "107614859",
+    "107614860",
+    "107642794",
+    "107614862",
+    "107614863",
+    "107614864",
+    "107614865",
+    "107614866",
+    "107614867",
+    "107614868",
+    "107614869",
+    "107614870",
+    "107614871",
+    "107614872",
+    "107614873",
+    "107614874",
+    "107642775",
+    "107642776",
+    "107642777",
+    "107642778",
+    "107642779",
+    "107642780",
+    "107642781",
+    "107642782"
+   ]
+  }
+ ],
+ "fragments": {
+  "107614832": {
+   "fragment_id": "107640695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 58/2012\n\nde 9 de novembro\n\nCria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "107614833": {
+   "fragment_id": "107640696",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito de aplicação"
+  },
+  "107614834": {
+   "fragment_id": "107640697",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei cria um regime extraordinário de proteção dos devedores de crédito à habitação que se encontrem em situação económica muito difícil."
+  },
+  "107614835": {
+   "fragment_id": "107640698",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime estabelecido na presente lei aplica-se às situações de incumprimento de contratos de mútuo celebrados no âmbito do sistema de concessão de crédito à habitação destinado à aquisição, construção ou realização de obras de conservação e de beneficiação de habitação própria permanente de agregados familiares que se encontrem em situação económica muito difícil e apenas quando o imóvel em causa seja a única habitação do agregado familiar e tenha sido objeto de contrato de mútuo com hipoteca.\n\n2 - O regime estabelecido na presente lei é imperativo para as instituições de crédito mutuantes, nos casos em que se encontrem cumulativamente preenchidos os requisitos previstos no artigo 4.º\n\n3 - As instituições de crédito podem voluntariamente decidir aplicar parte ou a totalidade do regime constante da presente lei a outros mutuários de créditos à habitação, relativamente aos quais não se encontrem preenchidos um ou mais dos requisitos previstos no artigo 4.º\n\n4 - As instituições de crédito podem conceder aos mutuários de crédito à habitação condições mais favoráveis do que as previstas na presente lei."
+  },
+  "107614836": {
+   "fragment_id": "107640699",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, considera-se:\n\na) «Agregado familiar»:\n\ni) O conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, e seus ascendentes e descendentes em 1.º grau ou afins, desde que com eles vivam em regime de comunhão de mesa e habitação no mesmo domicílio fiscal;\n\nii) O conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes em 1.º grau ou afins, desde que com ela vivam em comunhão de mesa e habitação no mesmo domicílio fiscal;\n\nb) «Carência parcial» o diferimento, pelo prazo acordado, do montante correspondente à amortização de capital, tal como está definido no contrato de crédito à habitação;\n\nc) «Carência total» o diferimento, pelo prazo acordado, do pagamento das prestações correspondentes ao capital e aos juros, tal como está definido no contrato de crédito à habitação;\n\nd) «Coeficiente de localização» o coeficiente de localização das habitações, de acordo com o estabelecido no artigo 42.º do Código do Imposto Municipal sobre Imóveis;\n\ne) «Comissões» as prestações pecuniárias exigíveis pelas instituições de crédito aos clientes como retribuição por serviços prestados, diretamente ou através de terceiros, no âmbito da sua atividade;\n\nf) «Contratos conexos» os contratos de crédito cuja garantia hipotecária incida, total ou parcialmente, sobre um imóvel que simultaneamente garanta um contrato de crédito à habitação celebrado com a mesma instituição;\n\ng) «Crédito à habitação» os contratos de mútuo celebrados no âmbito do sistema de crédito à habitação destinado à aquisição, construção ou realização de obras de conservação ordinária, extraordinária e de beneficiação de habitação própria permanente;\n\nh) «Fundos de Investimento Imobiliário para Arrendamento Habitacional» ou «FIIAH» os fundos de investimento imobiliário para arrendamento habitacional sujeitos ao regime especial consagrado nos artigos 102.º a 104.º da Lei n.º 64-A/2008, de 31 de dezembro;\n\ni) «Habitação própria permanente» aquela onde o mutuário ou este e o seu agregado familiar mantêm, estabilizado, o seu centro de vida familiar;\n\nj) «Património financeiro» o conjunto de valores mobiliários definidos no artigo 1.º do Código de Valores Mobiliários, depósitos bancários ou outros produtos financeiros de poupança;\n\nk) «Plano de reestruturação» o plano de reestruturação de dívidas do mutuário, vencidas e vincendas, relativas a crédito à habitação e que é negociado e aprovado nos termos da secção iii do capítulo ii da presente lei, bem como as alterações resultantes da eventual aplicação de medidas complementares;\n\nl) «Rendimento anual bruto do agregado familiar» todo o rendimento auferido durante um ano pelo agregado familiar, incluindo o proveniente de prestações sociais, sem dedução de qualquer encargo;\n\nm) «Taxa de esforço» a relação entre a prestação mensal do empréstimo correspondente à amortização do capital e dos juros em dívida, a que fica sujeito o agregado familiar, e um duodécimo do seu rendimento anual bruto."
+  },
+  "107614837": {
+   "fragment_id": "107640700",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de aplicabilidade\n\nO regime estabelecido na presente lei é aplicável às situações de incumprimento de contratos de mútuo celebrados no âmbito do sistema de créditos à habitação em que se verifiquem cumulativamente os seguintes requisitos:\n\na) O crédito à habitação esteja garantido por hipoteca que incida sobre imóvel que seja a habitação própria permanente e única habitação do agregado familiar do mutuário e para o qual foi concedido;\n\nb) O agregado familiar do mutuário se encontre em situação económica muito difícil nos termos do artigo seguinte;\n\nc) O valor patrimonial tributário do imóvel não exceda:\n\ni) (euro) 90 000 nos casos em que o imóvel hipotecado tenha coeficiente de localização até 1,4;\n\nii) (euro) 105 000 nos casos em que o imóvel hipotecado tenha coeficiente de localização entre 1,5 e 2,4;\n\niii) (euro) 120 000 nos casos em que o imóvel hipotecado tenha coeficiente de localização entre 2,5 e 3,5;\n\nd) O crédito à habitação não esteja garantido por outras garantias reais ou pessoais, salvo se, neste último caso, os garantes se encontrem também em situação económica muito difícil, nos termos do artigo seguinte."
+  },
+  "107614838": {
+   "fragment_id": "107640701",
+   "type": 11,
+   "heading": "Artigo 5.º — Agregados familiares em situação económica muito difícil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Agregados familiares em situação económica muito difícil\n\n1 - Para efeitos da presente lei, considera-se em situação económica muito difícil o agregado familiar relativamente ao qual se verifiquem cumulativamente os seguintes requisitos:\n\na) Pelo menos um dos mutuários, seu cônjuge ou pessoa que com ele viva em condições análogas às dos cônjuges, se encontre em situação de desemprego ou o agregado familiar tenha sofrido uma redução do rendimento anual bruto igual ou superior a 35 %;\n\nb) A taxa de esforço do agregado familiar com o crédito à habitação tenha aumentado para valor igual ou superior a:\n\ni) 45 % para agregados familiares que integrem dependentes;\n\nii) 50 % para agregados familiares que não integrem dependentes;\n\nc) O valor total do património financeiro de todos os elementos do agregado familiar seja inferior a metade do rendimento anual bruto do agregado familiar;\n\nd) O património imobiliário do agregado familiar seja constituído unicamente:\n\ni) Pelo imóvel que seja a habitação própria e permanente do agregado familiar; e\n\nii) Por garagem e imóveis não edificáveis, até ao valor total de (euro) 20 000;\n\ne) O rendimento anual bruto do agregado familiar não exceda 12 vezes o valor máximo calculado em função da composição do agregado familiar e correspondente à soma global das seguintes parcelas:\n\ni) Pelo mutuário: 100 % do valor do salário mínimo nacional ou 120 % no caso de o agregado familiar ser composto apenas pelo requerente;\n\nii) Por cada um dos outros membros do agregado familiar que seja maior: 70 % do valor do salário mínimo nacional;\n\niii) Por cada membro do agregado familiar que seja menor: 50 % do valor do salário mínimo nacional.\n\n2 - Para efeitos da alínea a) do número anterior, considera-se que um membro do agregado familiar se encontra desempregado quando:\n\na) Tendo sido trabalhador por conta de outrem, se encontre involuntariamente desempregado e se encontre inscrito como tal no centro de emprego há três ou mais meses; ou\n\nb) Tendo sido trabalhador por conta própria, e se encontre inscrito como tal no centro de emprego nas condições referidas na alínea anterior, prove ter desenvolvido atividade e ter cessado a mesma há três ou mais meses.\n\n3 - Para efeitos da alínea a) do n.º 1, releva a redução de rendimento:\n\na) Proveniente de atividade profissional prestada a entidade em que nenhum dos membros do agregado familiar detenha uma participação qualificada, tal como é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras;\n\nb) Ocorrida nos 12 meses anteriores ao início do incumprimento."
+  },
+  "107614839": {
+   "fragment_id": "107640702",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentação demonstrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentação demonstrativa\n\n1 - Salvo o disposto no número seguinte, o mutuário demonstra o preenchimento dos requisitos previstos nos artigos 4.º e 5.º mediante a entrega à instituição de crédito dos seguintes documentos:\n\na) A última certidão de liquidação de imposto sobre o rendimento de pessoas singulares disponível relativa ao agregado familiar do mutuário, emitida pela Autoridade Tributária e Aduaneira, e os últimos três recibos de vencimento;\n\nb) Certidão do registo civil demonstrativa da situação e ligação dos membros do agregado familiar;\n\nc) Documento comprovativo do domicílio fiscal dos membros do agregado familiar;\n\nd) Certidões de titularidade emitidas pela conservatória do registo predial e comercial relativas a cada um dos membros do agregado familiar;\n\ne) Caderneta predial dos imóveis que são propriedade dos membros do agregado familiar;\n\nf) Declaração escrita do mutuário, garantindo o cumprimento de todos os requisitos exigidos para aplicação do regime estabelecido na presente lei.\n\n2 - A situação de desemprego a que se refere o n.º 2 do artigo anterior é comprovada pela exibição pelo mutuário de declaração comprovativa emitida pelo Instituto do Emprego e Formação Profissional.\n\n3 - O mutuário tem o dever de informar de imediato a instituição de crédito caso deixe de se verificar qualquer dos requisitos previstos nos artigos 4.º e 5.º\n\n4 - Os deveres de demonstração e informação previstos para o mutuário no presente artigo são aplicáveis, com as devidas adaptações, ao garante em situação económica muito difícil."
+  },
+  "107614840": {
+   "fragment_id": "107640703",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento e medidas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento e medidas de proteção"
+  },
+  "107614841": {
+   "fragment_id": "107640704",
+   "type": 8,
+   "heading": "Secção I — Medidas de proteção em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Medidas de proteção em geral"
+  },
+  "107614842": {
+   "fragment_id": "107640705",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modalidades\n\n1 - Em caso de incumprimento do crédito à habitação abrangido pelo regime estabelecido na presente lei, os mutuários têm direito à aplicação, nos termos dos artigos seguintes, de uma ou de várias das seguintes modalidades de medidas de proteção em caso de eventual execução da hipoteca sobre o imóvel:\n\na) Plano de reestruturação das dívidas emergentes do crédito à habitação;\n\nb) Medidas complementares ao plano de reestruturação;\n\nc) Medidas substitutivas da execução hipotecária.\n\n2 - Salvo acordo em contrário entre instituição de crédito e mutuário, as medidas substitutivas previstas na alínea c) do número anterior são de aplicação subsidiária em relação às medidas de reestruturação previstas na alínea a) e as medidas complementares previstas na alínea b) são de aplicação voluntária."
+  },
+  "107614843": {
+   "fragment_id": "107640706",
+   "type": 8,
+   "heading": "Secção II — Procedimento de acesso ao regime de proteção de devedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento de acesso ao regime de proteção de devedores"
+  },
+  "107614844": {
+   "fragment_id": "107640707",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso ao regime de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso ao regime de proteção\n\n1 - O acesso ao regime estabelecido na presente lei faz-se por requerimento apresentado pelo mutuário à instituição de crédito com quem tenha celebrado o contrato de mútuo no âmbito do sistema do crédito à habitação.\n\n2 - O requerimento referido no n.º 1 pode ser apresentado até ao final do prazo para a oposição à execução relativa a créditos à habitação e créditos conexos garantidos por hipoteca ou até à venda executiva do imóvel sobre o qual incide a hipoteca do crédito à habitação, caso não tenha havido lugar a reclamações de créditos por outros credores.\n\n3 - No prazo de 15 dias após o recebimento do requerimento referido no n.º 1 ou após a entrega dos documentos prevista no número seguinte, se for posterior, a instituição de crédito deve comunicar ao mutuário, por escrito e de forma fundamentada, o resultado da verificação dos requisitos de aplicabilidade previstos nos artigos 4.º e 5.º e, consequentemente, o deferimento ou o indeferimento do pedido de acesso ao regime estabelecido na presente lei.\n\n4 - O mutuário deve prestar a informação e disponibilizar os documentos solicitados pela instituição de crédito para os efeitos previstos no presente artigo no prazo máximo de 10 dias após a entrega do requerimento ou da solicitação da instituição de crédito."
+  },
+  "107614845": {
+   "fragment_id": "107640708",
+   "type": 11,
+   "heading": "Artigo 9.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Efeitos\n\n1 - Com a apresentação pelo mutuário do requerimento previsto no n.º 1 do artigo 8.º e da documentação referida no n.º 1 do artigo 6.º, a instituição de crédito mutuante fica impedida de promover a execução da hipoteca que constitui garantia do crédito à habitação até que cesse a aplicação das medidas de proteção previstas na presente lei.\n\n2 - O deferimento do acesso ao regime estabelecido na presente lei, previsto no n.º 3 do artigo 8.º, produz os seguintes efeitos:\n\na) Sem prejuízo do disposto no artigo 15.º, constitui a instituição de crédito na obrigação de apresentar ao mutuário uma proposta de plano de reestruturação;\n\nb) Suspende automaticamente o processo de execução hipotecária relativo às dívidas decorrentes do crédito à habitação;\n\nc) Constitui a instituição de crédito na obrigação de comunicar esse deferimento ao tribunal em que corre o processo de execução referido na alínea anterior.\n\n3 - Sem prejuízo do dever da instituição de crédito, o mutuário pode também proceder à comunicação prevista na alínea c) do número anterior."
+  },
+  "107614846": {
+   "fragment_id": "107640709",
+   "type": 8,
+   "heading": "Secção III — Plano de restruturação das dívidas decorrentes do crédito à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Plano de restruturação das dívidas decorrentes do crédito à habitação"
+  },
+  "107614847": {
+   "fragment_id": "107640710",
+   "type": 11,
+   "heading": "Artigo 10.º — Plano de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Plano de reestruturação\n\n1 - A instituição de crédito apresenta ao mutuário uma proposta de plano de reestruturação da dívida decorrente do crédito à habitação que inclui necessariamente a aplicação de uma ou várias das seguintes medidas:\n\na) Concessão de um período de carência, relativo ao pagamento das prestações mensais a cargo do mutuário ou estabelecimento de um valor residual no plano de amortizações;\n\nb) Prorrogação do prazo de amortização do empréstimo;\n\nc) Redução do spread aplicável durante o período de carência;\n\nd) Concessão de um empréstimo adicional autónomo destinado a suportar temporariamente o pagamento das prestações do crédito à habitação.\n\n2 - A proposta de plano de restruturação deve ser apresentada ao mutuário no prazo máximo de 25 dias após o deferimento do requerimento de acesso e deve compreender soluções de pagamento dos montantes em dívida adequadas à situação financeira do agregado familiar, suscetíveis de evitar ou interromper o incumprimento do crédito à habitação, e que não podem determinar uma taxa de esforço do agregado familiar superior aos limites previstos na alínea b) do n.º 1 do artigo 5.º\n\n3 - O plano de reestruturação abrange todos os montantes, vencidos ou vincendos, devidos pelo mutuário ao abrigo do crédito à habitação, designadamente prestações de capital, juros e comissões.\n\n4 - A instituição de crédito e o mutuário podem ainda acordar na consolidação de todas ou de parte das dívidas bancárias contraídas pelo mutuário.\n\n5 - O mutuário não pode recusar a consolidação do crédito à habitação e créditos conexos nem recusar que estes beneficiem da cobertura hipotecária do crédito à habitação.\n\n6 - A consolidação dos créditos conexos ou de outros previstos nos n.os 3 e 4 pode ser efetuada em operação autónoma, em condições a acordar entre a instituição de crédito e o mutuário.\n\n7 - A adoção do plano de reestruturação ou de qualquer das medidas complementares não pode, em qualquer circunstância, dar lugar à revisão ou alteração dos restantes termos e condições de caráter financeiro do contrato de crédito à habitação, nomeadamente agravando o spread e outros encargos com o crédito, nem permite à instituição de crédito cobrar qualquer comissão adicional pelas alterações ao contrato, com exceção do que, estrita e demonstradamente, corresponda à repercussão de despesas suportadas perante terceiros por força da aplicação daquelas medidas."
+  },
+  "107614848": {
+   "fragment_id": "107640711",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime de carência parcial e de valor residual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime de carência parcial e de valor residual\n\n1 - O período de carência parcial tem uma duração mínima de 12 e máxima de 48 meses.\n\n2 - Em alternativa ou em complemento à carência parcial, o plano de reestruturação pode estabelecer um valor residual até 30 % do capital em dívida, cujo pagamento se realiza na última prestação do crédito à habitação.\n\n3 - As medidas previstas nos n.os 1 e 2 produzem efeitos a partir da data de entrada em vigor do plano de reestruturação, podendo porém reportar os seus efeitos ao início do incumprimento das prestações vencidas, caso existam, desde que o mutuário liquide os juros que se encontrem vencidos."
+  },
+  "107614849": {
+   "fragment_id": "107640712",
+   "type": 11,
+   "heading": "Artigo 12.º — Limites à prorrogação do prazo de amortização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Limites à prorrogação do prazo de amortização\n\n1 - O plano de reestruturação da dívida pode prever a prorrogação do prazo de amortização do crédito à habitação, até ao limite de 50 anos relativamente ao momento de contratação do mesmo.\n\n2 - A prorrogação do prazo de amortização deve permitir que o financiamento seja liquidado antes de o mutuário mais idoso perfazer 75 anos de idade."
+  },
+  "107614850": {
+   "fragment_id": "107640713",
+   "type": 11,
+   "heading": "Artigo 13.º — Redução do spread aplicável durante o período de carência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Redução do spread aplicável durante o período de carência\n\n1 - O plano de reestruturação pode prever uma redução do spread até ao limite mínimo de 0,25 %, aplicável durante o período de carência ou durante um período até 48 meses, quando tiver sido escolhido o regime de valor residual referido no n.º 2 do artigo 11.º\n\n2 - Nas situações previstas no número anterior, mantém-se a periodicidade acordada para as prestações de juros."
+  },
+  "107614851": {
+   "fragment_id": "107640714",
+   "type": 11,
+   "heading": "Artigo 14.º — Concessão de empréstimo adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Concessão de empréstimo adicional\n\n1 - O plano de reestruturação pode prever um empréstimo adicional ao mutuário cujo capital mutuado se destine exclusivamente ao pagamento, total ou parcial, de prestações do crédito à habitação.\n\n2 - O capital mutuado será desembolsado diretamente e à medida da necessidade de pagamento de cada prestação.\n\n3 - O empréstimo adicional fica sujeito a termos e condições contratuais equivalentes aos do crédito objeto do plano de reestruturação, designadamente quanto à taxa, ao regime dos juros e à garantia.\n\n4 - O valor e o plano de amortizações do empréstimo adicional devem ser definidos atendendo aos compromissos e ao rendimento disponível do agregado familiar do mutuário, podendo compreender um período de carência inicial e um prazo de amortização mais longo do que o originalmente previsto para o crédito à habitação que é objeto do plano de reestruturação."
+  },
+  "107614852": {
+   "fragment_id": "107640715",
+   "type": 11,
+   "heading": "Artigo 15.º — Inviabilidade originária de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Inviabilidade originária de reestruturação\n\n1 - Nas situações em que, mesmo aplicando as medidas previstas nos artigos 11.º, 12.º e 13.º, o cumprimento do plano de reestruturação pelo mutuário se presuma inviável nos termos do número seguinte, a instituição de crédito não está obrigada a propor ao mutuário um plano de reestruturação.\n\n2 - Para efeitos da presente lei, presume-se inviável o cumprimento de um plano de reestruturação quando este implique para o agregado familiar do mutuário uma taxa de esforço superior aos limites previstos na alínea b) do n.º 1 do artigo 5.º\n\n3 - No caso previsto no n.º 1, a instituição de crédito pode optar por, dentro do prazo previsto no n.º 2 do artigo 10.º, apresentar ao mutuário uma proposta de plano de reestruturação que contemple medidas complementares referidas no n.º 2 do artigo 19.º\n\n4 - Caso opte por não apresentar proposta de plano de reestruturação nos termos dos n.os 1 a 3, a instituição de crédito fica obrigada a, dentro do prazo do n.º 2 do artigo 10.º, comunicar por escrito ao mutuário:\n\na) A decisão de não lhe apresentar proposta de plano de reestruturação; e\n\nb) A aceitação da aplicação de medidas substitutivas da execução hipotecária conforme previsto na secção iv do presente capítulo."
+  },
+  "107614853": {
+   "fragment_id": "107640716",
+   "type": 11,
+   "heading": "Artigo 16.º — Aprovação do plano de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Aprovação do plano de reestruturação\n\n1 - Após a apresentação da proposta, efetuada nos termos dos n.os 1 e 2 do artigo 10.º, a instituição de crédito e o mutuário dispõem de 30 dias para negociar e acordar alterações à proposta do plano de reestruturação apresentada pela instituição de crédito.\n\n2 - Se o mutuário recusar ou não formalizar uma proposta de plano de reestruturação apresentada pela instituição de crédito, e cujo cumprimento se presuma viável nos termos do n.º 2 do artigo anterior, perde o direito à aplicação das medidas substitutivas, exceto se a instituição de crédito mantiver a intenção de as aplicar."
+  },
+  "107614854": {
+   "fragment_id": "107640717",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações da instituição de crédito durante a vigência do plano de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações da instituição de crédito durante a vigência do plano de reestruturação\n\nDurante a vigência do plano de reestruturação, a instituição de crédito não pode, com fundamento em incumprimento anterior ao plano de reestruturação acordado:\n\na) Resolver o contrato de crédito à habitação;\n\nb) Intentar ações judiciais, declarativas ou executivas, tendo em vista a satisfação do seu crédito."
+  },
+  "107614855": {
+   "fragment_id": "107640718",
+   "type": 11,
+   "heading": "Artigo 18.º — Revisão anual do plano de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revisão anual do plano de reestruturação\n\n1 - Durante a vigência da presente lei, o mutuário deve comprovar anualmente a manutenção da verificação dos requisitos de aplicabilidade previstos no artigo 5.º\n\n2 - Em caso de os requisitos de aplicabilidade previstos no artigo 5.º deixarem de se verificar, pode a instituição de crédito determinar a revisão do plano de reestruturação, desde que essa revisão não implique uma taxa de esforço superior aos limites previstos na alínea b) do n.º 1 do artigo 5.º\n\n3 - Verificando-se um agravamento da situação económica do agregado familiar do mutuário que origine um aumento da respetiva taxa de esforço com o crédito à habitação, deve a instituição de crédito apresentar, a pedido do mutuário, a revisão do plano de reestruturação que não implique uma taxa de esforço superior aos limites previstos na alínea b) do n.º 1 do artigo 5.º\n\n4 - As revisões referidas no número anterior devem compreender soluções adequadas à situação financeira do agregado familiar e suscetíveis de evitar um futuro incumprimento do crédito à habitação."
+  },
+  "107614856": {
+   "fragment_id": "107640719",
+   "type": 11,
+   "heading": "Artigo 19.º — Medidas complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Medidas complementares\n\n1 - A instituição de crédito e o mutuário devem iniciar negociações com vista à adoção de medidas complementares ao plano de reestruturação, verificando-se uma das seguintes situações:\n\na) O plano de reestruturação, no curso da sua execução, se mostre inviável, nos termos do n.º 2 do artigo 15.º;\n\nb) Em caso de incumprimento pelo mutuário de três prestações seguidas previstas no plano de reestruturação.\n\n2 - As medidas complementares ao plano de reestruturação podem ser quaisquer das previstas no n.º 1 do artigo 10.º que ainda não tenham sido aplicadas, ou outras, designadamente a carência total até 12 meses ou a redução parcial do capital por amortizar.\n\n3 - As negociações referidas no n.º 1 podem iniciar-se a qualquer momento, a pedido do mutuário ou da instituição de crédito, e deverão concluir-se no prazo de 30 dias após a receção do pedido.\n\n4 - A adoção das medidas complementares previstas no presente artigo é facultativa para as instituições de crédito, mesmo que solicitadas pelo mutuário e ainda que na ausência da sua adoção o plano de reestruturação se mostre inviável."
+  },
+  "107614857": {
+   "fragment_id": "107640720",
+   "type": 8,
+   "heading": "Secção IV — Medidas substitutivas da execução hipotecária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Medidas substitutivas da execução hipotecária"
+  },
+  "107614858": {
+   "fragment_id": "107640721",
+   "type": 11,
+   "heading": "Artigo 20.º — Aplicação das medidas substitutivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aplicação das medidas substitutivas\n\n1 - Há lugar à aplicação das medidas substitutivas da execução hipotecária aos mutuários abrangidos pelo regime estabelecido na presente lei, quando se verifique uma das seguintes situações:\n\na) A instituição de crédito comunique ao mutuário a opção de, nos termos do artigo 15.º, não apresentar uma proposta de plano de reestruturação;\n\nb) Nos casos previstos no n.º 2 do artigo 16.º;\n\nc) As partes não tenham chegado, dentro do prazo aplicável, a um acordo sobre a adoção das medidas complementares, nos termos do artigo 19.º\n\n2 - Sempre que se verifique o disposto no n.º 1, a instituição de crédito só pode recusar a aplicação de medidas substitutivas quando:\n\na) A hipoteca referida na alínea a) do artigo 4.º não seja de 1.º grau, exceto se essa hipoteca tiver sido constituída a favor da mesma instituição de crédito para garantia de um crédito à habitação concedido ao mesmo mutuário;\n\nb) O imóvel sobre o qual incide esta hipoteca tenha constituída qualquer outra hipoteca para garantir outros créditos do mutuário, junto de outras instituições financeiras.\n\n3 - À data de concretização da medida substitutiva, o imóvel deve:\n\na) Encontrar-se livre de ónus ou encargos, incluindo contratos de arrendamento total ou parcial, de comodato ou outras formas de cedência gratuita ou onerosa, e livre de pessoas e bens, não se considerando ónus ou encargos, para este efeito, as garantias reais sobre o imóvel, constituídas a favor da instituição de crédito mutuante;\n\nb) Estar titulado por licença de utilização válida;\n\nc) Encontrar-se em condições aptas ao fim a que se destina e em bom estado de conservação.\n\n4 - À data de concretização da medida substitutiva não devem existir desconformidades entre os documentos de registo predial, os documentos de registo na Autoridade Tributária e Aduaneira e os documentos de licenciamento da respetiva utilização.\n\n5 - Se a medida substitutiva adotada não for imediatamente possível de concretizar, exclusivamente devido a incumprimento do disposto nos n.os 3 e 4, e o mutuário não fizer cessar a causa de incumprimento no prazo de 45 dias, o processo das medidas substitutivas extingue-se sem lugar à aplicação de qualquer outra."
+  },
+  "107614859": {
+   "fragment_id": "107640722",
+   "type": 11,
+   "heading": "Artigo 21.º — Modalidades de medidas substitutivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Modalidades de medidas substitutivas\n\nAs medidas substitutivas da execução hipotecária aplicáveis aos casos previstos no artigo anterior são:\n\na) A dação em cumprimento do imóvel hipotecado;\n\nb) A alienação do imóvel a FIIAH, promovida e acordada pela instituição de crédito, com ou sem arrendamento e opção de compra a favor do mutuário e entrega do preço à instituição de crédito, liquidando-se assim a dívida;\n\nc) A permuta por uma habitação de valor inferior, com revisão do contrato de crédito e redução do capital em dívida pelo montante da diferença de valor entre as habitações."
+  },
+  "107614860": {
+   "fragment_id": "107640723",
+   "type": 11,
+   "heading": "Artigo 22.º — Determinação da medida substitutiva a aplicar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Determinação da medida substitutiva a aplicar\n\n1 - O mutuário deve apresentar à instituição de crédito, no prazo de 30 dias a contar da verificação das situações referidas no n.º 1 do artigo 20.º, um requerimento escrito solicitando a aplicação de medidas substitutivas e declarando que nessa data se encontram preenchidos os requisitos de aplicabilidade previstos nos artigos 4.º e 5.º da presente lei.\n\n2 - No prazo de 30 dias após a receção do requerimento previsto no número anterior, a instituição de crédito deve apresentar ao mutuário uma proposta de medida substitutiva de entre as previstas no artigo anterior.\n\n3 - Em resposta à proposta da instituição de crédito referida no número anterior, o mutuário pode, sem perder o direito a uma outra medida substitutiva, recusar:\n\na) A permuta por habitação de valor inferior;\n\nb) Que a alienação a FIIAH, proposta pela instituição de crédito, envolva o arrendamento da habitação.\n\n4 - Em caso de recusa do mutuário, nos termos do número anterior, deve a instituição de crédito propor-lhe uma das restantes medidas substitutivas, ou a mesma sem a parte recusada.\n\n5 - Perante a proposta da instituição de crédito referida no número anterior, o mutuário aceita a proposta ou perde definitivamente o direito à aplicação de medidas substitutivas.\n\n6 - As declarações do mutuário e da instituição de crédito, referidas nos n.os 3 a 5, devem ser comunicadas à outra parte no prazo de 15 dias contados da receção da declaração a que respondem."
+  },
+  "107614861": {
+   "fragment_id": "107640724",
+   "type": 11,
+   "heading": "Artigo 23.º — Efeitos das medidas substitutivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Efeitos das medidas substitutivas\n\n1 - A aplicação das medidas substitutivas previstas no n.º 1 do artigo 21.º produz os seguintes efeitos:\n\na) No caso da dação em cumprimento, a dívida extingue-se totalmente quando:\n\ni) A soma do valor da avaliação atual do imóvel, para efeito de dação, e das quantias entregues a título de reembolso de capital for, pelo menos, igual ao valor do capital inicialmente mutuado, acrescido das capitalizações que possam ter ocorrido; ou\n\nii) O valor de avaliação atual do imóvel, para efeito de dação, for igual ou superior ao capital que se encontre em dívida;\n\nb) No caso da alienação do imóvel a FIIAH, a dívida extingue-se totalmente quando:\n\ni) A soma do valor pago pelo FIIAH para aquisição do imóvel e das quantias entregues pelo mutuário a título de reembolso de capital for, pelo menos, igual ao valor do capital inicialmente mutuado, acrescido das capitalizações que possam ter ocorrido; ou\n\nii) O valor pago pelo FIIAH para aquisição do imóvel for igual ou superior ao capital que se encontre em dívida;\n\nc) No caso da permuta de habitação, a revisão do contrato de crédito à habitação nos termos do artigo 27.º;\n\nd) Extinção de processos judiciais relativos à cobrança de montantes devidos ao abrigo do contrato de crédito à habitação.\n\n2 - Quando a transmissão do imóvel, efetuada nos termos das alíneas a) e b) do número anterior, não determine a extinção total da dívida, mantém-se apenas a dívida relativamente ao capital remanescente, aplicando-se-lhe os termos e condições contratuais equivalentes aos que se encontravam em vigor para o crédito objeto desta medida.\n\n3 - A dívida remanescente referida no número anterior não pode beneficiar de novas garantias reais ou pessoais."
+  },
+  "107614862": {
+   "fragment_id": "107640725",
+   "type": 11,
+   "heading": "Artigo 24.º — Dação em cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Dação em cumprimento\n\nPara efeitos de cumprimento das obrigações do mutuário decorrentes do contrato de crédito à habitação, a dação em cumprimento do imóvel hipotecado concretiza-se com a transmissão do imóvel para a titularidade da instituição de crédito."
+  },
+  "107614863": {
+   "fragment_id": "107640726",
+   "type": 11,
+   "heading": "Artigo 25.º — Diferimento da desocupação do imóvel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Diferimento da desocupação do imóvel\n\n1 - Sendo decidida a medida da dação em cumprimento, o mutuário tem o direito a um diferimento na respetiva contratação pelo prazo adicional de seis meses, durante o qual pode usar e fruir do imóvel.\n\n2 - É condição do exercício deste direito que o mutuário celebre com a instituição de crédito contrato promessa de dação e, caso a instituição de crédito o solicite, outorgue a seu favor uma procuração irrevogável para celebração do contrato definitivo de dação.\n\n3 - Durante o período de diferimento o mutuário beneficia de carência de capital, apenas sendo devidas as prestações de juros remuneratórios.\n\n4 - A mora no pagamento previsto no número anterior faz cessar automaticamente o direito ao diferimento da dação, permitindo a sua imediata execução.\n\n5 - O n.º 1 não é aplicável caso o mutuário tenha incumprido mais de três prestações seguidas após a aplicação das medidas complementares."
+  },
+  "107614864": {
+   "fragment_id": "107640727",
+   "type": 11,
+   "heading": "Artigo 26.º — Alienação do imóvel a FIIAH",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Alienação do imóvel a FIIAH\n\n1 - A instituição de crédito que se encontre obrigada a aplicar medidas substitutivas da execução hipotecária, nos termos do regime estabelecido na presente lei, pode propor ao mutuário a seguinte alternativa:\n\na) O mutuário transfere a propriedade do imóvel para o FIIAH pelo preço determinado nos termos da legislação aplicável e com simultâneo distrate da hipoteca;\n\nb) O FIIAH paga à instituição de crédito mutuante o preço convencionado por mandato do mutuário;\n\nc) O mutuário tem o direito de permanecer no imóvel na qualidade de arrendatário, nos termos da legislação aplicável aos FIIAH e respeitando os direitos do mutuário previstos no artigo anterior.\n\n2 - O mutuário pode recusar ficar como arrendatário do FIIAH, mas não pode rejeitar a alienação do imóvel ao FIIAH para efeitos de dação em cumprimento."
+  },
+  "107614865": {
+   "fragment_id": "107640728",
+   "type": 11,
+   "heading": "Artigo 27.º — Permuta de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Permuta de habitação\n\n1 - A instituição de crédito que se encontre obrigada a aplicar medidas substitutivas da execução hipotecária, nos termos do regime estabelecido na presente lei, pode ainda propor ao mutuário a permuta da habitação hipotecada por uma outra habitação de valor inferior que pertença à instituição de crédito ou a terceiro interessado na transação.\n\n2 - A permuta de habitações será acompanhada de um acordo de substituição do contrato de crédito à habitação ou de revisão das condições do contrato existente, de modo a que seja mais viável o cumprimento pelo mutuário das suas obrigações.\n\n3 - A diferença entre os valores das habitações permutadas será deduzida ao capital em dívida.\n\n4 - O mutuário pode, sem perder o direito a uma outra medida substitutiva, recusar a permuta de habitações prevista na presente lei.\n\n5 - Em caso de recusa do mutuário nos termos do número anterior, deve a instituição de crédito propor ao mutuário uma das restantes medidas substitutivas."
+  },
+  "107614866": {
+   "fragment_id": "107640729",
+   "type": 1,
+   "heading": "Capítulo III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições gerais"
+  },
+  "107614867": {
+   "fragment_id": "107640730",
+   "type": 11,
+   "heading": "Artigo 28.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Seguros\n\n1 - A aplicação da presente lei não prejudica a aplicação dos contratos de seguro que garantem o pagamento da prestação do crédito à habitação em situação de desemprego.\n\n2 - No caso previsto no número anterior, o recurso às modalidades previstas na presente lei tem lugar apenas após o termo do pagamento das prestações que sejam asseguradas ou cobertas por tais contratos."
+  },
+  "107614868": {
+   "fragment_id": "107640731",
+   "type": 11,
+   "heading": "Artigo 29.º — Avaliação do imóvel hipotecado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Avaliação do imóvel hipotecado\n\nQuando, para efeitos da aplicação do regime estabelecido na presente lei, se mostre necessário apurar o valor atualizado do imóvel, a instituição de crédito promove essa reavaliação, recorrendo a um avaliador certificado pela Comissão do Mercado de Valores Mobiliários (CMVM) a expensas do mutuário, e entregando-lhe de imediato o relatório da avaliação."
+  },
+  "107614869": {
+   "fragment_id": "107640732",
+   "type": 11,
+   "heading": "Artigo 30.º — Eficácia das comunicações registadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Eficácia das comunicações registadas\n\nAs comunicações previstas na presente lei que sejam realizadas por via postal sob registo consideram-se feitas na data da respetiva expedição."
+  },
+  "107614870": {
+   "fragment_id": "107640733",
+   "type": 11,
+   "heading": "Artigo 31.º — Isenção de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Isenção de custos\n\nOs pedidos de documentos ou certidões efetuados pelo mutuário, que se revelem necessários para o acesso ao regime estabelecido na presente lei, estão isentos de comissões, despesas e emolumentos normalmente cobrados pela instituição de crédito."
+  },
+  "107614871": {
+   "fragment_id": "107640734",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime fiscal\n\nA lei pode adaptar o regime fiscal a que estão sujeitas as operações necessárias à concretização das medidas previstas na presente lei."
+  },
+  "107614872": {
+   "fragment_id": "107640735",
+   "type": 11,
+   "heading": "Artigo 33.º — Divulgação pela instituição de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Divulgação pela instituição de crédito\n\n1 - As instituições de crédito disponibilizam, nos seus vários meios de contacto com os respetivos clientes bancários, informação simples e clara sobre o regime de proteção de devedores estabelecido na presente lei.\n\n2 - Caso sejam interpeladas pelos seus clientes para o efeito, as instituições de crédito prestam a informação e esclarecimentos necessários e convenientes sobre a presente lei e o regime nela consagrado.\n\n3 - As instituições de crédito devem ainda, por sua iniciativa e individualmente, prestar informações sobre o regime estabelecido na presente lei aos clientes que, no seu prudente juízo e com base nos conhecimentos de que dispõe, possam reunir os requisitos para lhes ser aplicável.\n\n4 - Todos os documentos elaborados pelas instituições de crédito no âmbito do regime estabelecido na presente lei devem ser redigidos em linguagem simples e clara."
+  },
+  "107614873": {
+   "fragment_id": "107640736",
+   "type": 11,
+   "heading": "Artigo 34.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Falsas declarações\n\n1 - A prestação de falsas declarações atinentes às condições de acesso ao regime estabelecido na presente lei determina a cessação das medidas já implementadas, sem prejuízo do dever de o mutuário indemnizar a instituição de crédito por danos, incluindo lucros cessantes e custos incorridos com a negociação e execução das medidas, podendo a instituição de crédito intentar ação judicial executiva do seu crédito.\n\n2 - A prática prevista no número anterior, se tiverem sido adotadas alguma das medidas de proteção previstas nesta lei, constitui o ilícito de fraude na obtenção de crédito, previsto no artigo 38.º do Decreto-Lei n.º 28/84, de 20 de janeiro."
+  },
+  "107614874": {
+   "fragment_id": "107640737",
+   "type": 11,
+   "heading": "Artigo 35.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Vinculação\n\n1 - No caso de o contrato de crédito à habitação ter mais de um mutuário, é exigida, para os efeitos da presente lei, a vinculação conjunta de todos.\n\n2 - No caso de aplicação do regime estabelecido na presente lei a créditos à habitação com garantias prestadas por garantes em situação económica muito difícil, a vinculação dos mutuários, para os efeitos nela previstos, exige a vinculação conjunta de todos os mutuários e daqueles garantes."
+  },
+  "107642775": {
+   "fragment_id": "107640738",
+   "type": 11,
+   "heading": "Artigo 36.º — Incumprimento pela instituição de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Incumprimento pela instituição de crédito\n\n1 - Constitui contraordenação, punível nos termos do artigo 210.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na redação dada pela Lei n.º 28/2009, de 19 de junho, bem como nos termos do Decreto-Lei n.º 51/2007, de 7 de março, conjugado com o Decreto-Lei n.º 171/2008, de 26 de agosto:\n\na) A recusa de acesso dos mutuários que o requeiram, e que reúnam todas as condições previstas nos artigos 4.º e 5.º, a qualquer uma das modalidades de medidas do regime estabelecido na presente lei;\n\nb) A violação do artigo 18.º\n\n2 - A negligência é sempre punível, sendo os limites das coimas aplicáveis reduzidos para metade.\n\n3 - O exercício de poderes sancionatórios relativamente ao incumprimento do regime estabelecido na presente lei é da competência do Banco de Portugal."
+  },
+  "107642776": {
+   "fragment_id": "107640739",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "107642777": {
+   "fragment_id": "107640740",
+   "type": 11,
+   "heading": "Artigo 37.º — Prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Prevalência\n\nO disposto na presente lei prevalece sobre quaisquer disposições legais, regulamentares ou contratuais que com ela sejam incompatíveis."
+  },
+  "107642778": {
+   "fragment_id": "107640741",
+   "type": 11,
+   "heading": "Artigo 38.º — Período de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Período de vigência\n\n1 - O regime constante da presente lei vigora até ao dia 31 de dezembro de 2015.\n\n2 - No final do período inicial de vigência deve proceder-se à avaliação do impacto global dos resultados da aplicação do regime constante da presente lei, com vista à sua eventual prorrogação."
+  },
+  "107642779": {
+   "fragment_id": "107640742",
+   "type": 11,
+   "heading": "Artigo 39.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Avaliação\n\n1 - É constituída uma comissão de avaliação incumbida de avaliar os impactos da aplicação do regime constante da presente lei, bem como o respetivo cumprimento pelas instituições de crédito.\n\n2 - A comissão de avaliação é constituída pelos seguintes membros:\n\na) Um membro nomeado pelo Ministro das Finanças, que será o presidente;\n\nb) Um membro nomeado pelo Ministro da Economia;\n\nc) Um membro em representação do Banco de Portugal, que será o secretário;\n\nd) Um membro em representação da Comissão do Mercado de Valores Mobiliários;\n\ne) Um membro em representação da Associação Portuguesa de Bancos;\n\nf) Um membro em representação dos consumidores, a indicar pela Direção-Geral do Consumidor após ouvidas as associações relevantes.\n\n3 - A comissão de avaliação define as suas normas de funcionamento e reúne quando convocada pelo seu presidente, por iniciativa própria ou de dois dos seus membros.\n\n4 - A comissão de avaliação só pode reunir e deliberar com a presença de pelo menos três dos seus membros.\n\n5 - O Banco de Portugal envia trimestralmente à comissão de avaliação toda a informação e documentação necessária ao cumprimento das suas atribuições, bem como as reclamações e informações previstas nos dois números seguintes.\n\n6 - Os consumidores e as associações que os representam podem apresentar junto do Banco de Portugal reclamações relativamente ao cumprimento do regime constante da presente lei.\n\n7 - As instituições de crédito enviam trimestralmente ao Banco de Portugal toda a informação que a comissão de avaliação lhes requeira, incluindo obrigatoriamente o número, volume e características das operações solicitadas, executadas e recusadas em aplicação do regime constante da presente lei.\n\n8 - A comissão de avaliação produz e publica um relatório de avaliação semestral sobre os impactos da aplicação do regime constante da presente lei e do respetivo cumprimento pelas instituições de crédito.\n\n9 - Até 15 de outubro de 2015 a comissão de avaliação publica um relatório de avaliação global, que enviará ao Governo e à Assembleia da República."
+  },
+  "107642780": {
+   "fragment_id": "107640743",
+   "type": 11,
+   "heading": "Artigo 40.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Aplicação no tempo\n\n1 - O regime estabelecido na presente lei é aplicável a:\n\na) Todos os contratos celebrados anteriormente à sua publicação que se encontrem em vigor;\n\nb) Todos os contratos celebrados anteriormente à sua publicação em que, tendo sido resolvidos pela instituição de crédito com fundamento em incumprimento, não tenha ainda decorrido o prazo para a oposição à execução relativa a créditos à habitação e créditos conexos garantidos por hipoteca, ou até à venda executiva do imóvel sobre o qual incide a hipoteca do crédito à habitação, caso não tenha havido lugar a reclamações de créditos por outros credores.\n\n2 - Nos casos em que o processo de execução da hipoteca já tenha sido iniciado cumpre ao mutuário juntar ao processo cópia do requerimento previsto no n.º 1 do artigo 8.º, sob pena de caducidade do direito de acesso e do início das fases processuais aplicáveis referidas no número anterior.\n\n3 - Caso a vigência do regime estabelecido na presente lei cesse nos termos do artigo 38.º, o regime continua a aplicar-se aos procedimentos judiciais ou extrajudiciais iniciados até à data de cessação.\n\n4 - Os mutuários que requeiram a aplicação da presente lei poderão beneficiar das disposições nela constantes durante um prazo de três anos a contar da data da apresentação desse requerimento, sem prejuízo da subsistência para além desse prazo de todas as alterações ao contrato de crédito à habitação acordadas entre as partes."
+  },
+  "107642781": {
+   "fragment_id": "107640744",
+   "type": 11,
+   "heading": "Artigo 41.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.\n\n2 - O prazo de resposta da instituição mutuante previsto no n.º 3 do artigo 8.º não se começa a contar antes do 60.º dia após a data da publicação da presente lei."
+  },
+  "107642787": {
+   "fragment_id": "107640698",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime estabelecido na presente lei aplica-se às situações de incumprimento de contratos de mútuo celebrados no âmbito do sistema de concessão de crédito à habitação destinado à aquisição, construção ou realização de obras de conservação e de beneficiação de habitação própria permanente de agregados familiares que se encontrem em situação económica muito difícil e apenas quando o imóvel em causa seja a única habitação do agregado familiar e tenha sido objeto de contrato de mútuo com hipoteca.\n\n2 - Aos fiadores chamados a assumir as obrigações dos mutuários originários que se encontrem nas condições previstas no artigo 5.º, considerando o cumprimento do crédito garantido e eventuais encargos associados a créditos titulados pelo fiador, é permitido o acesso às medidas previstas no capítulo ii da presente lei.\n\n3 - O regime estabelecido na presente lei é imperativo para as instituições de crédito mutuantes, nos casos em que se encontrem cumulativamente preenchidos os requisitos previstos no artigo 4.º\n\n4 - As instituições de crédito podem voluntariamente decidir aplicar parte ou a totalidade do regime constante da presente lei a outros mutuários de créditos à habitação, relativamente aos quais não se encontrem preenchidos um ou mais dos requisitos previstos no artigo 4.º\n\n5 - As instituições de crédito podem conceder aos mutuários de crédito à habitação condições mais favoráveis do que as previstas na presente lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642788": {
+   "fragment_id": "107640699",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, considera-se:\n\na) «Agregado familiar»:\n\ni) O conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, e seus ascendentes e descendentes em 1.º grau ou afins, desde que com eles vivam em regime de comunhão de mesa e habitação no mesmo domicílio fiscal;\n\nii) O conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes em 1.º grau ou afins, desde que com ela vivam em comunhão de mesa e habitação no mesmo domicílio fiscal;\n\nb) «Carência parcial» o diferimento, pelo prazo acordado, do montante correspondente à amortização de capital, tal como está definido no contrato de crédito à habitação;\n\nc) «Carência total» o diferimento, pelo prazo acordado, do pagamento das prestações correspondentes ao capital e aos juros, tal como está definido no contrato de crédito à habitação;\n\nd) «Coeficiente de localização» o coeficiente de localização das habitações, de acordo com o estabelecido no artigo 42.º do Código do Imposto Municipal sobre Imóveis;\n\ne) «Comissões» as prestações pecuniárias exigíveis pelas instituições de crédito aos clientes como retribuição por serviços prestados, diretamente ou através de terceiros, no âmbito da sua atividade;\n\nf) «Contratos conexos» os contratos de crédito cuja garantia hipotecária incida, total ou parcialmente, sobre um imóvel que simultaneamente garanta um contrato de crédito à habitação celebrado com a mesma instituição;\n\ng) «Crédito à habitação» os contratos de mútuo celebrados no âmbito do sistema de crédito à habitação destinado à aquisição, construção ou realização de obras de conservação ordinária, extraordinária e de beneficiação de habitação própria permanente;\n\nh) «Fundos de Investimento Imobiliário para Arrendamento Habitacional» ou «FIIAH» os fundos de investimento imobiliário para arrendamento habitacional sujeitos ao regime especial consagrado nos artigos 102.º a 104.º da Lei n.º 64-A/2008, de 31 de dezembro;\n\ni) «Habitação própria permanente» aquela onde o mutuário ou este e o seu agregado familiar mantêm, estabilizado, o seu centro de vida familiar;\n\nj) «Património financeiro» o conjunto de valores mobiliários definidos no artigo 1.º do Código de Valores Mobiliários, depósitos bancários ou outros produtos financeiros de poupança;\n\nk) «Plano de reestruturação» o plano de reestruturação de dívidas do mutuário, vencidas e vincendas, relativas a crédito à habitação e que é negociado e aprovado nos termos da secção iii do capítulo ii da presente lei, bem como as alterações resultantes da eventual aplicação de medidas complementares;\n\nl) «Rendimento anual bruto do agregado familiar» todo o rendimento auferido durante um ano pelo agregado familiar, incluindo o proveniente de prestações sociais, sem dedução de qualquer encargo;\n\nm) «Taxa de esforço» a relação entre a prestação mensal do empréstimo correspondente à amortização do capital e dos juros em dívida, a que fica sujeito o agregado familiar, e um duodécimo do seu rendimento anual bruto;\n\nn) «Famílias numerosas» os agregados familiares constituídos por cinco ou mais pessoas.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642789": {
+   "fragment_id": "107640700",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de aplicabilidade",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de aplicabilidade\n\nO regime estabelecido na presente lei é aplicável às situações de incumprimento de contratos de mútuo celebrados no âmbito do sistema de créditos à habitação em que se verifiquem cumulativamente os seguintes requisitos:\n\na) O crédito à habitação esteja garantido por hipoteca que incida sobre imóvel que seja a habitação própria permanente e única habitação do agregado familiar do mutuário e para o qual foi concedido;\n\nb) O agregado familiar do mutuário se encontre em situação económica muito difícil nos termos do artigo seguinte;\n\nc) O valor patrimonial do imóvel à data de apresentação do requerimento de acesso, não exceda:\n\ni) (euro) 100 000 nos casos em que o imóvel hipotecado tenha coeficiente de localização até 1,4;\n\nii) (euro) 115 000 nos casos em que o imóvel hipotecado tenha coeficiente de localização entre 1,5 e 2,4;\n\niii) (euro) 130 000 nos casos em que o imóvel hipotecado tenha coeficiente de localização entre 2,5 e 3,5;\n\nd) (Revogada).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642795": {
+   "fragment_id": "107640701",
+   "type": 11,
+   "heading": "Artigo 5.º — Agregados familiares em situação económica muito difícil",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 5.º — Agregados familiares em situação económica muito difícil\n\n1 - Para efeitos da presente lei, considera-se em situação económica muito difícil o agregado familiar relativamente ao qual se verifiquem cumulativamente os seguintes requisitos:\n\na) Pelo menos um dos mutuários, seu cônjuge ou pessoa que com ele viva em condições análogas às dos cônjuges, se encontre em situação de desemprego ou o agregado familiar tenha sofrido uma redução do rendimento anual bruto igual ou superior a 35 %;\n\nb) A taxa de esforço do agregado familiar com o crédito à habitação tenha aumentado para valor igual ou superior a:\n\ni) 45 % para agregados familiares que integrem dependentes;\n\nii) 50 % para agregados familiares que não integrem dependentes;\n\niii) 40 % para agregados familiares considerados famílias numerosas;\n\nc) O valor total do património financeiro de todos os elementos do agregado familiar seja inferior a metade do rendimento anual bruto do agregado familiar;\n\nd) O património imobiliário do agregado familiar seja constituído unicamente:\n\ni) Pelo imóvel que seja a habitação própria e permanente do agregado familiar; e\n\nii) Por garagem e imóveis não edificáveis, até ao valor total de (euro) 20 000;\n\ne) O rendimento anual bruto do agregado familiar não exceda 14 vezes o valor máximo calculado em função da composição do agregado familiar e correspondente à soma global das seguintes parcelas:\n\ni) Pelo mutuário: 100 % do valor do salário mínimo nacional ou 120 % no caso de o agregado familiar ser composto apenas pelo requerente;\n\nii) Por cada um dos outros membros do agregado familiar que seja maior: 70 % do valor do salário mínimo nacional;\n\niii) Por cada membro do agregado familiar que seja menor: 50 % do valor do salário mínimo nacional.\n\n2 - Para efeitos da alínea a) do número anterior, considera-se que um membro do agregado familiar se encontra desempregado quando, tendo sido trabalhador por conta de outrem ou por conta própria, se encontre inscrito como tal no centro de emprego.\n\n3 - Para efeitos da alínea a) do n.º 1, releva a redução de rendimento:\n\na) Proveniente de atividade profissional prestada a entidade em que nenhum dos membros do agregado familiar detenha uma participação qualificada, tal como é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras;\n\nb) Ocorrida nos 12 meses anteriores à apresentação do requerimento de acesso.\n\n4 - Para efeitos da alínea b) do n.º 1, a taxa de esforço do agregado familiar do mutuário é calculada tendo em conta os encargos decorrentes de todos os contratos de crédito garantidos por hipoteca sobre a habitação própria e permanente do mutuário, independentemente da sua finalidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642790": {
+   "fragment_id": "107640702",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentação demonstrativa",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 6.º — Documentação demonstrativa\n\n1 - Salvo o disposto no número seguinte, o mutuário demonstra o preenchimento dos requisitos previstos nos artigos 4.º e 5.º mediante a entrega à instituição de crédito dos seguintes documentos:\n\na) A última certidão de liquidação de imposto sobre o rendimento de pessoas singulares disponível relativa ao agregado familiar do mutuário, emitida pela Autoridade Tributária e Aduaneira, e os últimos três recibos de vencimento;\n\nb) Certidão do registo civil demonstrativa da situação e ligação dos membros do agregado familiar;\n\nc) Documento comprovativo do domicílio fiscal dos membros do agregado familiar;\n\nd) Certidões de titularidade emitidas pela conservatória do registo predial e comercial relativas a cada um dos membros do agregado familiar;\n\ne) Caderneta predial dos imóveis que são propriedade dos membros do agregado familiar;\n\nf) Declaração escrita do mutuário, garantindo o cumprimento de todos os requisitos exigidos para aplicação do regime estabelecido na presente lei.\n\n2 - A situação de desemprego a que se refere o n.º 2 do artigo anterior é comprovada pela exibição pelo mutuário de declaração comprovativa emitida pelo Instituto do Emprego e Formação Profissional.\n\n3 - O mutuário tem o dever de informar de imediato a instituição de crédito caso deixe de se verificar qualquer dos requisitos previstos nos artigos 4.º e 5.º\n\n4 - Os deveres de demonstração e informação previstos para o mutuário no presente artigo são aplicáveis, com as devidas adaptações, ao garante em situação económica muito difícil.\n\n5 - As instituições de crédito podem dispensar no todo ou em parte a entrega dos documentos previstos nos n.os 1 e 2 do presente artigo.\n\n6 - Para efeitos da presente lei, a emissão das certidões referidas neste artigo está isenta de taxas e emolumentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642791": {
+   "fragment_id": "107640707",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso ao regime de proteção",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 8.º — Acesso ao regime de proteção\n\n1 - O acesso ao regime estabelecido na presente lei faz-se por requerimento apresentado pelo mutuário à instituição de crédito com quem tenha celebrado o contrato de mútuo no âmbito do sistema do crédito à habitação.\n\n2 - O requerimento referido no n.º 1 pode ser apresentado até ao final do prazo para a oposição à execução relativa a créditos à habitação e créditos conexos garantidos por hipoteca ou até à venda executiva do imóvel sobre o qual incide a hipoteca do crédito à habitação, caso não tenha havido lugar a reclamações de créditos por outros credores.\n\n3 - No prazo de 15 dias após o recebimento do requerimento referido no n.º 1 ou após a entrega dos documentos prevista no número seguinte, se for posterior, a instituição de crédito deve comunicar ao mutuário, por escrito e de forma fundamentada, o resultado da verificação dos requisitos de aplicabilidade previstos nos artigos 4.º e 5.º e, consequentemente, o deferimento ou o indeferimento do pedido de acesso ao regime estabelecido na presente lei.\n\n4 - O mutuário deve prestar a informação e disponibilizar os documentos solicitados pela instituição de crédito para os efeitos previstos no presente artigo no prazo máximo de 20 dias após a entrega do requerimento ou da solicitação da instituição de crédito.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642792": {
+   "fragment_id": "107640716",
+   "type": 11,
+   "heading": "Artigo 16.º — Aprovação do plano de reestruturação",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 16.º — Aprovação do plano de reestruturação\n\n1 - Após a apresentação da proposta, efetuada nos termos dos n.os 1 e 2 do artigo 10.º, a instituição de crédito e o mutuário dispõem de 30 dias para negociar e acordar alterações à proposta do plano de reestruturação apresentada pela instituição de crédito.\n\n2 - Se o mutuário recusar, não formalizar ou não se pronunciar no prazo de 30 dias sobre uma proposta de plano de reestruturação apresentada pela instituição de crédito, e cujo cumprimento se presuma viável nos termos do n.º 2 do artigo anterior, perde o direito à aplicação de medidas substitutivas, exceto se a instituição de crédito mantiver a intenção de as aplicar.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642793": {
+   "fragment_id": "107640721",
+   "type": 11,
+   "heading": "Artigo 20.º — Aplicação das medidas substitutivas",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 20.º — Aplicação das medidas substitutivas\n\n1 - Há lugar à aplicação das medidas substitutivas da execução hipotecária aos mutuários abrangidos pelo regime estabelecido na presente lei, quando se verifique uma das seguintes situações:\n\na) A instituição de crédito comunique ao mutuário a opção de, nos termos do artigo 15.º, não apresentar uma proposta de plano de reestruturação;\n\nb) Nos casos previstos no n.º 2 do artigo 16.º;\n\nc) As partes não tenham chegado, dentro do prazo aplicável, a um acordo sobre a adoção das medidas complementares, nos termos do artigo 19.º\n\n2 - Sempre que se verifique o disposto no n.º 1, a instituição de crédito só pode recusar a aplicação de medidas substitutivas quando:\n\na) A hipoteca referida na alínea a) do artigo 4.º não seja de 1.º grau, exceto se essa hipoteca tiver sido constituída a favor da mesma instituição de crédito para garantia de um crédito à habitação concedido ao mesmo mutuário;\n\nb) O imóvel sobre o qual incide esta hipoteca tenha constituída qualquer outra hipoteca para garantir outros créditos do mutuário, junto de outras instituições financeiras.\n\n3 - À data de concretização da medida substitutiva, o imóvel deve:\n\na) Encontrar-se livre de ónus ou encargos, incluindo contratos de arrendamento total ou parcial, de comodato ou outras formas de cedência gratuita ou onerosa, e livre de pessoas e bens, não se considerando ónus ou encargos, para este efeito, as garantias reais sobre o imóvel, constituídas a favor da instituição de crédito mutuante;\n\nb) Estar titulado por licença de utilização válida;\n\nc) Encontrar-se em condições aptas ao fim a que se destina e em bom estado de conservação.\n\n4 - À data de concretização da medida substitutiva não devem existir desconformidades entre os documentos de registo predial, os documentos de registo na Autoridade Tributária e Aduaneira e os documentos de licenciamento da respetiva utilização.\n\n5 - Se a medida substitutiva adotada não for imediatamente possível de concretizar, exclusivamente devido a incumprimento do disposto nos n.os 3 e 4, e o mutuário não fizer cessar a causa de incumprimento no prazo de 60 dias, o processo das medidas substitutivas extingue-se sem lugar à aplicação de qualquer outra.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642794": {
+   "fragment_id": "107640724",
+   "type": 11,
+   "heading": "Artigo 23.º — Efeitos das medidas substitutivas",
+   "in_force_from": "2014-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+   ],
+   "markdown": "###### Artigo 23.º — Efeitos das medidas substitutivas\n\n1 - A aplicação das medidas substitutivas previstas no artigo 21.º produz os seguintes efeitos:\n\na) No caso da dação em cumprimento, a dívida extingue-se totalmente quando:\n\ni) A soma do valor da avaliação atual do imóvel, para efeito de dação, e das quantias entregues a título de reembolso de capital for, pelo menos, igual ao valor do capital inicialmente mutuado, acrescido das capitalizações que possam ter ocorrido; ou\n\nii) O valor de avaliação atual do imóvel, para efeito de dação, for igual ou superior ao capital que se encontre em dívida;\n\nb) No caso da alienação do imóvel a FIIAH, a dívida extingue-se totalmente quando:\n\ni) A soma do valor pago pelo FIIAH para aquisição do imóvel e das quantias entregues pelo mutuário a título de reembolso de capital for, pelo menos, igual ao valor do capital inicialmente mutuado, acrescido das capitalizações que possam ter ocorrido; ou\n\nii) O valor pago pelo FIIAH para aquisição do imóvel for igual ou superior ao capital que se encontre em dívida;\n\nc) No caso da permuta de habitação, a revisão do contrato de crédito à habitação nos termos do artigo 27.º;\n\nd) Extinção de processos judiciais relativos à cobrança de montantes devidos ao abrigo do contrato de crédito à habitação.\n\n2 - Quando a transmissão do imóvel, efetuada nos termos das alíneas a) e b) do número anterior, não determine a extinção total da dívida, mantém-se apenas a dívida relativamente ao capital remanescente, aplicando-se-lhe os termos e condições contratuais equivalentes aos que se encontravam em vigor para o crédito objeto desta medida.\n\n3 - A dívida remanescente referida no número anterior não pode beneficiar de novas garantias reais ou pessoais.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 58/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2014-56348178), em vigor a partir de 2014-09-24"
+  },
+  "107642782": {
+   "fragment_id": "107640745",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 21 de setembro de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 30 de outubro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 31 de outubro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

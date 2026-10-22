@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:214954:por
+title: Decreto n.º 49220
+short_title: null
+summary: Aprova as alterações propostas pela Companhia do Caminho de Ferro de Benguela aos artigos 35.º e 50.º dos seus estatutos
+  - Dá nova redacção ao artigo 2.º do Decreto n.º 48983 (isenção de direitos de importação a todos os materiais e equipamentos
+  de 1.º estabelecimento e renovações respeitantes à variante do Cubal)
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Inspecção Superior de Administração Ultramarina
+proposing_entity: null
+official_number: '49220'
+official_date: null
+publication_date: '1969-09-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 205/1969, Série I de 1969-09-02
+  number: '205'
+  series: I
+  supplement: null
+  pages: 1174 - 1174
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/09/20500/11741174.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214954'
+  dre_path: /dr/detalhe/decreto/49220-1969-214954
+  internal: pt:dre:214954:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/49220-1969-214954
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49220-1969-214954
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1969-09-02T00:00:00Z'
+integrity:
+  source_sha256: dedc595930f504a8e72fa07813b297982d4da32bb04a613fe1b4f762d421fba7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1969/DRE-1969-49220-214954.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 49220
+
+Tendo a Companhia do Caminho de Ferro de Benguela, S. A. R. L., com sede em Lisboa, constituída nos termos do Decreto de 28 de Novembro de 1902, submetido à aprovação do Governo o projecto, aprovado na assembleia geral extraordinária de accionistas da mesma Companhia de 2 de Julho de 1969, de alterações aos seus estatutos, aprovados por Decreto de 25 de Maio de 1903 e subsequentemente alterados pelos Decretos n.os 11732, de 29 de Maio de 1926, 31940, de 26 de Março de 1942, 42429, de 6 de Dezembro de 1957, e 48771, de 18 de Dezembro de 1968, de harmonia com os artigos 47.º e 60.º dos mesmos;
+
+E tendo requerido, com argumentação válida, que a isenção de direitos de importação a que se refere o artigo 2.º do [Decreto n.º 48983](https://diariodarepublica.pt/dr/detalhe/decreto/48983-1969-201666), de 1 de Maio de 1969, abranja não apenas os materiais destinados às novas linhas agora projectadas, mas também quaisquer outras instalações e equipamentos destinados à ampliação do primeiro estabelecimento;
+
+Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São aprovadas, devendo constar de escritura pública, as alterações propostas pela Companhia do Caminho de Ferro de Benguela, de acordo com o decidido na assembleia geral extraordinária de 2 de Julho de 1969, aos artigos 35.º e 50.º dos seus estatutos, os quais passam a ter a seguinte redacção:
+
+###### Art. 35.º ...
+
+...
+
+§ 1.º (O actual § único).
+
+§ 2.º Têm direito a uma pensão mensal vitalícia, nos termos do parágrafo seguinte, os administradores, quer eleitos pelos accionistas, quer nomeados pelo Governo, que à data da cessação de funções estejam exercendo os seus cargos de presidente ou vice-presidente do conselho de administração, administrador-delegado ou seu adjunto, ou director do comité de Londres, desde que, até à referida data, tenham prestado, pelo menos, dez anos de serviço nos corpos gerentes ou nos quadros da Companhia e hajam completado a idade mínima de 60 anos.
+
+O requisito da idade é dispensado quando a cessação do exercício do cargo seja motivada por incapacidade física ou outra causa independente da vontade do administrador.
+
+§ 3.º Tendo sido prestados, seguida ou interpoladamente, vinte ou mais anos de serviço nas condições referidas no parágrafo anterior, a pensão será igual à remuneração mensal que o administrador estiver recebendo na data da cessação de funções.
+
+Tendo sido prestados menos de vinte anos de serviço, mas mais de dez, a pensão será igual ao produto do número de anos completos de serviço pela vigésima parte da referida remuneração.
+
+§ 4.º No caso de regresso de um administrador reformado à actividade de serviço, será suspenso o pagamento da pensão, salvo na parte em que esta, eventualmente, exceder a remuneração do administrador na nova situação.
+
+§ 5.º Serão atribuídas pensões mensais de sobrevivência às viúvas e aos órfãos menores ou inválidos dos administradores reformados e dos que falecerem em actividade de serviço após o cumprimento dos requisitos indicados no § 2.º A pensão a atribuir conjuntamente, à viúva e aos órfãos será igual a metade da pensão que o falecido estivesse recebendo ou da que lhe competiria se fosse reformado na data do falecimento. A pensão será paga enquanto durar a viuvez, a menoridade ou a invalidez.
+
+§ 6.º Se o administrador ou a viúva e os órfãos tiverem também direito à pensão da Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela, será a respectiva importância deduzida da pensão que lhes couber nos termos dos parágrafos anteriores.
+
+...
+
+###### Art. 50.º ...
+
+...
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+§ 5.º A assembleia geral poderá delegar numa comissão de três accionistas por ela eleitos o exercício da competência referida no n.º 4.º deste artigo.
+
+###### Art. 2.º Passa a ter a redacção seguinte o artigo 2.º do [Decreto n.º 48983](https://diariodarepublica.pt/dr/detalhe/decreto/48983-1969-201666), de 1 de Maio de 1969:
+
+A isenção de direitos de importação consignada no n.º 6.º do artigo 4.º do contrato de concessão, aprovado pelo Decreto de 28 de Novembro de 1902, é aplicável a todos os materiais, utensílios e equipamento, de qualquer natureza, destinados ao primeiro estabelecimento, renovação e exploração do caminho de ferro, qualquer que seja a época da sua aquisição, deixando, portanto, de cobrar-se o imposto referido no n.º 7.º do mesmo artigo daquele contrato.
+
+###### Art. 3.º Este decreto entra imediatamente em vigor.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+**Promulgado em 13 de Agosto de 1969.**
+
+**Publique-se.**
+
+Presidência da República, 2 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:531832:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889495818",
+ "dre_path": "/dr/detalhe/portaria/9-1984-531832",
+ "source_lastmod": "2024-10-01",
+ "versions": [
+  {
+   "date": "1984-01-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889492872"
+   ]
+  },
+  {
+   "date": "1985-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151766:por",
+     "title": "Portaria n.º 306/85",
+     "published": "1985-05-24",
+     "dre_path": "/dr/detalhe/portaria/306-1985-151766"
+    }
+   ],
+   "changes": [
+    "Altera 6.º"
+   ],
+   "fragments": [
+    "889492872",
+    "889492874",
+    "889495975",
+    "889495976",
+    "889495977",
+    "889495978",
+    "889498765",
+    "889495981",
+    "889495982",
+    "889495984",
+    "889492873"
+   ]
+  }
+ ],
+ "fragments": {
+  "889492872": {
+   "fragment_id": "889495819",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 9/84\n\nde 5 de Janeiro\n\nÉ intenção do Governo estimular a abordagem, pelos profissionais da informação, de áreas e temas desportivos habitualmente afastados do tratamento informativo de grande impacte, mas importantes para o desenvolvimento da prática desportiva.\n\nNesta linha de preocupações foi anunciado pelo Primeiro-Ministro, em recente reunião havida com os representantes da informação desportiva, a criação de prémios de jornalismo destinados a galardoar os profissionais que mais se distinguirem nesse âmbito.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado dos Desportos, o seguinte:\n\n> Nota: [2.º, Portaria n.º 306/85 - Diário da República n.º 119/1985, Série I de 1985-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/306-1985-151766) A concessão do Prémio Ricardo Ornelas fica sujeita às demais condições previstas na presente portaria."
+  },
+  "889492874": {
+   "fragment_id": "889495821",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nPelo presente diploma são criados os prémios para distinguir os trabalhos jornalísticos, publicados na imprensa, rádio e televisão, denominados «Alves Teixeira», «Tenente-Coronel Ribeiro dos Reis» e «Cândido de Oliveira»."
+  },
+  "889495975": {
+   "fragment_id": "889495822",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nOs prémios referidos no artigo anterior visam distinguir, para cada um dos sectores da imprensa, rádio e televisão:\n\na) Prémio Alves Ribeiro: trabalhos de reportagem abordando a propaganda ou o desenvolvimento de uma modalidade amadora ou descrevendo o esforço de um clube, treinador ou atleta que particularmente se distinguiram apesar das suas deficientes condições de trabalho;\n\nb) Prémio Tenente-Coronel Ribeiro dos Reis: trabalhos sobre a temática de arbitragem de qualquer modalidade desportiva;\n\nc) Prémio Cândido de Oliveira: trabalhos teóricos ou de análise sobre uma modalidade."
+  },
+  "889495976": {
+   "fragment_id": "889495823",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\n1 - Os prémios serão atribuídos por uma comissão composta por um elemento representativo do Clube Nacional de Imprensa Desportiva (CNID), um técnico desportivo de reconhecida competência, um atleta, um árbitro, um dirigente e um representante da Secretaria de Estado dos Desportos.\n\n2 - Os membros da comissão serão livremente nomeados e exonerados por despacho do Secretário de Estado dos Desportos, à excepção do elemento indicado pelo CNID, que será nomeado por proposta deste."
+  },
+  "889495977": {
+   "fragment_id": "889495824",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nA comissão reunirá anualmente, de 1 a 30 de Setembro, para apreciar os trabalhos candidatos relativos à época desportiva precedente, sob convocação do representante da Secretaria de Estado dos Desportos, que presidirá e terá voto de qualidade."
+  },
+  "889495978": {
+   "fragment_id": "889495825",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nO regulamento dos prémios será aprovado por despacho do Secretário de Estado dos Desportos sob proposta da comissão."
+  },
+  "889498765": {
+   "fragment_id": "889495826",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "1985-05-25",
+   "changed_by": [
+    "Alterado pelo/a 3.º do/a [Portaria n.º 306/85 - Diário da República n.º 119/1985, Série I de 1985-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/306-1985-151766), em vigor a partir de 1985-05-25"
+   ],
+   "markdown": "###### 6.º\n\nO autor de cada trabalho premiado referente à época desportiva de 1983-1984 receberá a importância de 80000$00 e o respectivo diploma. O montante destes prémios poderá ser anualmente actualizado por despacho do Secretário de Estado dos Desportos, a publicar na 2.ª série do Diário da República.\n\n> Alterado pelo/a 3.º do/a [Portaria n.º 306/85 - Diário da República n.º 119/1985, Série I de 1985-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/306-1985-151766), em vigor a partir de 1985-05-25"
+  },
+  "889495981": {
+   "fragment_id": "889495829",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nOs encargos resultantes da aplicação do presente diploma ou do funcionamento da comissão serão suportados pelo Fundo de Fomento do Desporto."
+  },
+  "889495982": {
+   "fragment_id": "889495830",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nA título excepcional, e para galardoar os melhores trabalhos publicados referentes à época desportiva de 1982-1983, a comissão reunirá no prazo de 60 dias a contar da data da sua nomeação."
+  },
+  "889495984": {
+   "fragment_id": "889495832",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nEste diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "889492873": {
+   "fragment_id": "889495820",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Secretaria de Estado dos Desportos.\n\nAssinada em 30 de Novembro."
+  }
+ }
+}

@@ -1,0 +1,365 @@
+---
+schema_version: '1.0'
+id: pt:dre:284886:por
+title: Portaria n.º 1110-D/89
+short_title: null
+summary: Estabelece a tabela de taxas aeroportuárias a aplicar nos aeroportos de Lisboa, do Porto e de Faro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo
+proposing_entity: null
+official_number: 1110-D/89
+official_date: null
+publication_date: '1989-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28
+  number: '297'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5622-(4) a 5622-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29701/00040006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '284886'
+  dre_path: /dr/detalhe/portaria/1110-d-1989-284886
+  internal: pt:dre:284886:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1110-d-1989-284886
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1110-d-1989-284886
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-12-28T00:00:00Z'
+integrity:
+  source_sha256: 3ee47b84f1b644d811dfa496b99143a5b75cb74564a3a1c8e40a1bf6d22f6ad0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-1110-D-284886.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1110-D/89
+
+de 28 de Dezembro
+
+Considerando que a conservação, a exploração e o desenvolvimento das estruturas aeroportuárias nacionais representam avultados encargos, que deverão ser suportados por quem delas se utiliza;
+
+Considerando a necessidade de criar meios de autofinanciamento para investimentos a realizar com o objectivo de melhorar a qualidade e a segurança dos serviços prestados;
+
+Considerando que é necessária a prática de uma política de preços realista que reflicta os custos dos serviços a que respeitam, prestados pelos aeroportos aos seus utentes, não fazendo recair nos cidadãos em geral, que deles não retiram senão benefícios indirectos, o ónus dos défices de exploração;
+
+Considerando, por outro lado, que na fixação das taxas a suportar pelas empresas de transporte aéreo foi, como habitualmente, ouvida a IATA;
+
+Considerando, finalmente, que as taxas aeroportuárias devem ser anualmente actualizadas, tendo em consideração a evolução dos custos:
+
+Ao abrigo do disposto nos artigos 11.º do [Decreto-Lei n.º 211/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1976-501379), de 22 de Março, e 2.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433), de 3 de Abril:
+
+Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, o seguinte:
+
+1.º A tabela de taxas aeroportuárias a aplicar nos aeroportos de Lisboa, do Porto e de Faro a partir de 1 de Abril de 1990 é a discriminada nos n.os 2.º a 6.º, às quais acrescerá o IVA, nos termos da legislação em vigor.
+
+2.º Taxas de tráfego. - As taxas de tráfego a que se referem os artigos 9.º a 12.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1) Taxa de aterragem/descolagem ... 946$00
+
+2) Taxa de estacionamento:
+
+Nas áreas de tráfego ... 144$00
+
+Nas áreas de manutenção e outras ... 106$00
+
+Acréscimo a que se refere o n.º 6 do artigo 10.º do referido decreto ... 4294$00
+
+3) Taxa de abrigo ... 294$00
+
+4) Taxa de passageiros:
+
+Em viagem interna ... 373$00
+
+Em viagem territorial/internacional ... 993$00
+
+3.º Taxas de utilização:
+
+1) Taxa de serviços e de equipamento - o factor K, previsto no n.º 2 do artigo 14.º e no n.º 2 do artigo 15.º do Decreto-Lei n.º 235/76, é de 1,5;
+
+2) Taxa de artigos de consumo - a estabelecida no n.º 2 do artigo 16.º do referido decreto.
+
+4.º Taxas de exploração. - As taxas de exploração a que se referem os artigos 18.º a 21.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1) Taxa de assistência a aeronaves ... 4428$00
+
+2) Taxa de reabastecimento de combustível ... 46$00
+
+3) Taxa de aprovisionamento de aeronaves:
+
+Que não inclua refeições ... 997$00
+
+Que inclua refeições ... 1994$00
+
+5.º Taxas de ocupação. - As taxas de ocupação a que se referem os artigos 22.º a 31.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1) Taxas de estacionamento de viaturas em parques:
+
+a) Primeira hora:
+
+Lisboa:
+
+Parques P1 e P3 ... 118$00
+
+Parque P2 ... 88$00
+
+Parques P4 e P5 ... 43$00
+
+Porto e Faro:
+
+Parque P1 ... 67$00
+
+b) Por cada hora ou fracção a mais, até 24 horas:
+
+Lisboa:
+
+Parques P1 e P3 ... 88$00
+
+Parque P2 ... 67$00
+
+Parques P4 e P5 ... 23$00
+
+Porto e Faro:
+
+Parque P1 ... 37$00
+
+c) Por cada dia ou fracção além das primeiras 24 horas:
+
+Lisboa:
+
+Parques P1 e P3 ... 2137$00
+
+Parque P2 ... 1629$00
+
+Parques P4 e P5 ... 565$00
+
+Porto e Faro:
+
+Parque P1 ... 917$00
+
+d) Avença mensal:
+
+Lisboa:
+
+Parques P4 e P5 ... 2045$00
+
+Porto e Faro:
+
+Parque P1 ... 4089$00
+
+e) Avença semestral:
+
+Lisboa:
+
+Parques P4 e P5 ... 5672$00
+
+Porto e Faro:
+
+Parque P1 ... 12128$00
+
+2) Taxas de áreas privativas:
+
+a) Em áreas pavimentadas:
+
+Lisboa ... 46$00
+
+Porto e Faro ... 46$00
+
+b) Em áreas não pavimentadas:
+
+Lisboa ... 24$00
+
+Porto e Faro ... 19$00
+
+3) Taxas de implantação de edificações ... 24$00
+
+4) Taxas de implantação de instalações ... 19$00
+
+5) Taxas de ocupação ou utilização de edifícios ou instalações:
+
+a) Nas aerogares (a que se refere o artigo 28.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433)):
+
+No que respeita ao n.º 1:
+
+Lisboa ... 2530$00/m2
+
+Porto e Faro ... 1894$00/m2
+
+No que respeita ao n.º 2:
+
+Lisboa ... 6237$00/m2
+
+Porto e Faro ... 2530$00/m2
+
+No que respeita ao n.º 3:
+
+Lisboa ... 4915$00/m2
+
+Porto e Faro ... 3685$00/m2
+
+No que respeita ao n.º 4:
+
+Lisboa ... 6122$00/m2
+
+Porto e Faro ... 4300$00/m2
+
+No que respeita ao n.º 5:
+
+Lisboa (com a taxa mínima de 24568$00) ... 12284$00/m2
+
+Porto e Faro (com a taxa mínima de 18422$00) ... 9211$00/m2
+
+b) Nos hangares (a que se refere o artigo 29.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433)):
+
+No que respeita ao n.º 1:
+
+Lisboa ... 629$00/m2
+
+Porto e Faro ... 510$00/m2
+
+No que respeita ao n.º 2:
+
+Lisboa ... 1260$00/m2
+
+Porto e Faro ... 1009$00/m2
+
+No que respeita ao n.º 3:
+
+Lisboa ... 1848$00/m2
+
+Porto e Faro ... 1478$00/m2
+
+c) Noutros edifícios (a que se refere o artigo 30.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433)):
+
+No que respeita ao n.º 1:
+
+Lisboa ... 629$00/m2
+
+Porto e Faro ... 510$00/m2
+
+No que respeita ao n.º 2:
+
+Lisboa ... 1224$00/m2
+
+Porto e Faro ... 982$00/m2
+
+No que respeita ao n.º 3:
+
+Lisboa (com a taxa mínima de 19646$00) ... 9823$00/m3
+
+Porto e Faro (com a taxa mínima de 12300$00) ... 6150$00/m3
+
+6.º Taxas diversas. - As taxas diversas a que se referem os artigos 32.º a 35.º do [Decreto n.º 235/76](https://diariodarepublica.pt/dr/detalhe/decreto/235-1976-500433) são as seguintes:
+
+1) Taxas de reclamos e letreiros:
+
+a) Nas aerogares:
+
+Lisboa ... 3506$00/m2
+
+Lisboa ... 8755$00/m3
+
+Porto e Faro ... 2639$00/m2
+
+Porto e Faro ... 7173$00/m3
+
+b) Noutros edifícios:
+
+Lisboa ... 2646$00/m2
+
+Lisboa ... 7173$00/m3
+
+Porto e Faro ... 1756$00/m2
+
+Porto e Faro ... 4794$00/m3
+
+c) No exterior:
+
+Lisboa ... 1756$00/m2
+
+Lisboa ... 4794$00/m3
+
+Porto e Faro ... 1599$00/m2
+
+Porto e Faro ... 2395$00/m3
+
+2) Taxa de depósito de bagagem ... 124$00
+
+3) Taxas de acesso a áreas reservadas:
+
+a) Acesso a varandas e terraços ... 73$00
+
+b) Acesso a salas e outras dependências ... 86$00
+
+4) Taxa de filmagem (pela utilização de locais das aerogares ou áreas exteriores dos aeroportos para feitos de filmagens por entidades privadas com fins comerciais, por hora ou fracção):
+
+a) Nas aerogares ... 2391$00
+
+b) No exterior ... 1989$00
+
+5) Taxa de recepção (pela utilização de balcões nas novas aerogares para recepção de reuniões de congressos, por hora ou fracção e por balcão) ... 1989$00
+
+6) Taxa de salas de reuniões (pela utilização da sala de reuniões, por hora ou fracção), em Lisboa ... 1989$00
+
+Nota. - A lotação da sala do aeroporto de Lisboa é de 20 lugares. Nesta taxa não estão incluídos quaisquer serviços de apoio, tais como serviços de projecção ou de apoio de contínuos, que serão cobrados à parte.
+
+7) Taxa de limpeza e recolha de lixo (pelo exercício da actividade de recolha de lixo na área da jurisdição dos aeroportos):
+
+Todos os aeroportos - 10% da receita bruta que esta actividade proporcionar à entidade que a explore.
+
+7.º Fica revogada a [Portaria n.º 34/89](https://diariodarepublica.pt/dr/detalhe/portaria/34-1989-609323), de 19 de Janeiro.
+
+8.º A presente portaria entra em vigor no dia 1 de Abril de 1990.
+
+Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+
+**Assinada em 28 de Dezembro de 1989.**
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

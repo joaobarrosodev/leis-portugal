@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:235897:por
+title: Decreto-Lei n.º 139-B/80
+short_title: null
+summary: Altera as letras de vencimentos das categorias de inspector-chefe e inspector-orientador de 1.ª classe da Direcção-Geral
+  do Ensino Básico, da Direcção-Geral do Ensino Secundário e da Inspecção-Geral do Ensino Particular
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 139-B/80
+official_date: null
+publication_date: '1980-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/1980, 1º Suplemento, Série I de 1980-05-20
+  number: '116'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1092-(2) a 1092-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11601/00020002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '235897'
+  dre_path: /dr/detalhe/decreto-lei/139-b-1980-235897
+  internal: pt:dre:235897:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-1980-235897
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-1980-235897
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: ae2c89d2b967b5c643c96e9331702871c8ba8b48b43fd29e372e13c2a7fd1919
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-139-B-235897.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 139-B/80
+
+de 20 de Maio
+
+Considerando que o [Decreto-Lei n.º 337/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1978-325936), de 14 de Novembro, com a redacção que lhe foi dada pela [Lei n.º 26/79](https://diariodarepublica.pt/dr/detalhe/lei/26-1979-377922), de 7 de Agosto, tendo em vista a relevância e dignificação das respectivas funções, melhorou sensivelmente a situação dos inspectores do ensino primário;
+
+Considerando que, por razões idênticas às acima apontadas, são igualmente merecedoras de tratamento legal mais favorável as situações dos inspectores-chefes e inspectores-orientadores de 1.ª classe da Direcção-Geral do Ensino Básico, da Direcção-Geral do Ensino Secundário e da Inspecção-Geral do Ensino Particular;
+
+Considerando que importa, assim, obviar à manifesta injustiça decorrente da inexistência de regulamentação em conformidade;
+
+Considerando, finalmente, que importa ainda evitar situações discrepantes na perspectiva da Inspecção-Geral do Ensino criada pelo [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Às categorias de inspector-chefe e inspector-orientador de 1.ª classe da Direcção-Geral do Ensino Básico, da Direcção-Geral do Ensino Secundário e da Inspecção-Geral do Ensino Particular passam a corresponder, respectivamente, as letras de vencimento D e E.
+
+###### Art. 2.º Este diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde a entrada em vigor da [Lei n.º 26/79](https://diariodarepublica.pt/dr/detalhe/lei/26-1979-377922), de 7 de Agosto, até à integração na Inspecção-Geral do Ensino dos inspectores referidos no artigo anterior, nos termos do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890).
+
+Visto e aprovado em Conselho de Ministros de 24 de Abril de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 10 de Maio de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

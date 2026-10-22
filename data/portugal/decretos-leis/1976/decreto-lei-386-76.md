@@ -1,0 +1,268 @@
+---
+schema_version: '1.0'
+id: pt:dre:426933:por
+title: Decreto-Lei n.º 386/76
+short_title: null
+summary: Cria na Guarda Fiscal um quadro paralelo ao respectivo quadro privativo, destinado ao ingresso dos agentes afectos
+  às congéneres corporações dos territórios descolonizados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Cooperação, da Administração Interna e das Finanças
+proposing_entity: null
+official_number: 386/76
+official_date: null
+publication_date: '1976-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/1976, Série I de 1976-05-22
+  number: '120'
+  series: I
+  supplement: null
+  pages: 1155 - 1157
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '426933'
+  dre_path: /dr/detalhe/decreto-lei/386-1976-426933
+  internal: pt:dre:426933:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1976-426933
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: f4275bb3cc2f25161dd71fe5ab35cf7df01a9dfe6f12e1300fb0257f3b1fd4dc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-386-426933.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 386/76
+
+de 22 de Maio
+
+Um dos problemas mais prementes que se depara à Administração resulta da recolocação de algumas dezenas de milhares de trabalhadores da função pública, que por virtude do processo de descolonização e, ainda, devido à profunda reconversão orgânica por que passa a própria Administração Pública conduziu aqueles trabalhadores à situação de excedentários.
+
+É, pois, dentro deste contexto que assume particular relevância a absorção dos funcionários oriundos das antigas colónias, tendo em vista o seu enquadramento nos organismos e serviços congéneres da Administração Pública portuguesa, acautelando-se, porém, os direitos e as legítimas expectativas dos funcionários dos quadros privativos daqueles organismos.
+
+À Administração cumpre, deste modo, encontrar solução que vise compatibilizar na máxima extensão possível os interesses e os direitos dos trabalhadores dos organismos metropolitanos e os dos que se venham a constituir em adidos, aproveitando-se todas as possibilidades para a passagem destes à actividade.
+
+Tomando em linha de conta os factores anteriormente referidos, o presente diploma visa criar na Guarda Fiscal um quadro paralelo ao respectivo quadro privativo, em que poderão ingressar os agentes afectos às congéneres corporações dos territórios descolonizados.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### ARTIGO 1.º
+
+(Quadro paralelo da Guarda Fiscal)
+
+1. É criado na Guarda Fiscal um quadro paralelo com as categorias e efectivos constantes do mapa I anexo ao presente diploma.
+
+2. O quadro paralelo é constituído pelo pessoal da Guarda Fiscal de Moçambique e das polícias fiscais pertencentes às polícias de segurança pública dos demais territórios descolonizados que tenha ingressado ou venha a ingressar no quadro geral de adidos, criado pelo [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e que satisfaçam as condições expressas neste diploma.
+
+3. O quadro paralelo tem natureza transitória, cessando a sua existência quando se verificarem cumulativamente os requisitos seguintes:
+
+a) Inexistência de efectivos susceptíveis de nele ingressarem;
+
+b) Inexistência de elementos no quadro paralelo.
+
+###### ARTIGO 2.º
+
+(Alteração à estrutura do quadro paralelo)
+
+1. O quadro referido no artigo anterior poderá ser alterado mediante portaria conjunta dos Ministros da Administração Interna, das Finanças e da Cooperação.
+
+2. Os efectivos previstos para cada uma das categorias do mapa I, a que se refere o n.º 1 do artigo 1.º, podem ser excedidos transitoriamente, de harmonia com o número de agentes da respectiva categoria que venham a ingressar no quadro paralelo, ficando os excedentes na situação de supranumerários.
+
+3. Os agentes que se encontrarem nas condições definidas na parte final do número anterior terão prioridade no preenchimento das vagas que se verificarem em cada uma das categorias previstas no mapa I, de harmonia com a antiguidade na respectiva categoria.
+
+###### ARTIGO 3.º
+
+(Requisitos para ingresso no quadro paralelo)
+
+1. Serão integrados no quadro paralelo da Guarda Fiscal os adidos a que se refere o [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, provenientes da Guarda Fiscal de Moçambique e das polícias fiscais pertencentes às polícias de segurança pública dos demais territórios descolonizados.
+
+2. Exceptuam-se do disposto no número anterior:
+
+a) Os comandantes de circunscrição, chefes-ajudantes e chefes de secção da Guarda Fiscal de Moçambique;
+
+b) Os elementos da polícia fiscal pertencentes às polícias de segurança pública de categoria superior a primeiro-subchefe;
+
+c) Os elementos que, segundo a legislação aplicável ao quadro geral de adidos, tenham requerido passagem à situação de aposentação e hajam sido atendidos;
+
+d) Os elementos que tenham atingido o limite de idade exigido para o exercício de funções da Guarda Fiscal da metrópole, nos termos do disposto na respectiva lei orgânica.
+
+3. A integração no quadro paralelo dos indivíduos pertencentes à Guarda Fiscal e polícias de segurança pública referidos no n.º 1 que não tiverem a habilitação correspondente à escolaridade obrigatória, de harmonia com a respectiva idade, bem como os graduados que tenham sido providos nas actuais categorias sem que se encontrem habilitados com os respectivos cursos, concursos de promoção ou provas de campo fica condicionada, pelo prazo máximo de dois anos, a partir da entrada em vigor deste diploma:
+
+a) À apresentação da certidão de habilitações, para os guardas e graduados;
+
+b) À frequência, com aproveitamento, de um curso de adaptação ou aperfeiçoamento, para os graduados.
+
+4. Exceptuam-se do disposto no número anterior os guardas que hajam sido promovidos por distinção.
+
+5. Até à apresentação da certidão de habilitações e conclusão das acções de formação, a que se refere o n.º 3, os mesmos elementos prestarão serviço na Guarda Fiscal, como adidos, em regime de destacamento, sendo pagos por conta do quadro geral de adidos.
+
+6. Os oficiais do Exército do quadro de complemento pertencentes à Guarda Fiscal de Moçambique que desempenhassem funções correspondentes às categorias mencionadas na alínea a) do n.º 2 poderão requerer a integração no quadro paralelo nos postos que possuem.
+
+7. Poderão igualmente requerer o ingresso no mesmo quadro os oficiais do Exército do quadro de complemento da Polícia de Segurança Pública dos territórios descolonizados oriundos das extintas guardas fiscais dos respectivos territórios.
+
+###### ARTIGO 4.º
+
+(Cursos a promover pelo Centro de Instrução da Guarda Fiscal)
+
+1. A Guarda Fiscal promoverá, através do seu Centro de Instrução, a realização das acções de formação previstas na alínea b) do n.º 3 do artigo 3.º que se revelem necessárias.
+
+2. Os programas, regime de funcionamento e duração das acções de formação serão estabelecidos por despacho do comandante-geral da Guarda Fiscal.
+
+###### ARTIGO 5.º
+
+(Falta de apresentação da certidão de habilitações e de aproveitameno ou recusa à frequência das acções de formação)
+
+1. Serão obrigatoriamente aposentados todos os elementos que, reunindo as condições mínimas para a aposentação, não obtenham aproveitamento nas acções de formação ou não apresentem a certidão de habilitações previstas no n.º 3 do artigo 3.º e no artigo 4.º
+
+2. Os elementos nas condições referidas no número anterior que não reúnam condições para aposentação regressarão ao quadro geral de adidos, sendo-lhes vedado o acesso à Guarda Fiscal.
+
+3. A recusa à frequência das acções de formação, a promover pela Guarda Fiscal nos termos do artigo anterior, equivale, para todos os efeitos, à falta de aproveitamento, salvo razões ponderosas devidamente comprovadas e aceites.
+
+###### ARTIGO 6.º
+
+(verificação de requisitos para ingresso)
+
+1. A verificação das condições a que se refere o artigo 1.º será feita pelo serviço central de pessoal, devendo a documentação necessária para tal efeito acompanhar o pedido de ingresso no quadro geral de adidos.
+
+2. Para os elementos que já tenham sido admitidos no quadro mencionado no número anterior à data da publicação do presente diploma é concedido o prazo de dois meses, a partir dessa data, para comprovação documental dos mesmos requisitos.
+
+###### ARTIGO 7.º
+
+(Integração no quadro paralelo da Guarda Fiscal)
+
+1. Os indivíduos referidos no n.º 2 do artigo 1.º que sejam integrados no quadro paralelo da Guarda Fiscal terão as categorias fixadas na tabela de equivalências anexa ao presente diploma e vencimentos iguais aos agentes da mesma categoria da Guarda Fiscal.
+
+2. A tabela de equivalências referida no número anterior aplicar-se-á também aos elementos que se encontram na situação de destacamento, enquanto durar esta situação.
+
+###### ARTIGO 8.º
+
+(Processo de integração e destacamento no quadro paralelo)
+
+1. A integração no quadro paralelo da Guarda Fiscal far-se-á mediante listas nominativas aprovadas por despacho dos Ministros da Administração Interna, das Finanças e da Cooperação, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+
+2. O destacamento previsto no n.º 5 do artigo 3.º far-se-á por despacho do membro do Governo que superintender no quadro geral de adidos.
+
+###### ARTIGO 9.º
+
+(Promoções no quadro paralelo)
+
+1. A promoção no quadro paralelo fica condicionada às normas correspondentes a cada categoria, aplicáveis ao quadro privativo da Guarda Fiscal, e, bem assim, aos efectivos previstos no mapa I anexo a este diploma.
+
+2. São candidatos à promoção, desde que reúnam os necessários requisitos, todos os agentes do quadro paralelo, mesmo os que excedam os efectivos constantes do mapa I, a que alude o número anterior.
+
+3. Para efeitos de promoção, a antiguidade dos agentes a que se reporta a alínea b) do n.º 3 do artigo 3.º contar-se-á a partir da data da aprovação das respectivas acções de formação.
+
+###### ARTIGO 10.º
+
+(Antiguidade dos agentes do quadro paralelo)
+
+Para efeitos de integração funcional e promoção, a antiguidade dos agentes da Guarda Fiscal dos territórios descolonizados que vierem a integrar o quadro paralelo criado pelo presente diploma será definida por despacho do Ministro das Finanças, sob proposta do comandante-geral da Guarda Fiscal.
+
+###### ARTIGO 11.º
+
+(Transição do quadro paralelo para o quadro privativo da Guarda Fiscal)
+
+Mediante despacho do Ministro das Finanças, sob proposta do comandante-geral da Guarda Fiscal, os agentes do quadro paralelo da Guarda Fiscal deverão ser integrados em vagas do quadro privativo daquela corporação, desde que se trate de lugares criados por virtude da sua reorganização ou de simples aumento do número de lugares do respectivo quadro de pessoal, numa proporcionalidade relativa aos dois quadros, e salvaguardada que seja a situação dos agentes do quadro privativo.
+
+###### ARTIGO 12.º
+
+(Disposições aplicáveis ao pessoal do quadro paralelo)
+
+Ao pessoal do quadro paralelo serão aplicáveis, com as necessárias adaptações, todas as disposições vigentes para o pessoal do quadro privativo, desde que não contrariem o disposto no presente diploma.
+
+###### ARTIGO 13.º
+
+(Providências orçamentais)
+
+1. Os vencimentos a pagar pela Guarda Fiscal aos elementos que ingressarem no quadro paralelo continuarão, durante o ano de 1976, a constituir encargo do quadro geral de adidos.
+
+2. O Ministério das Finanças adoptará ainda outras providências necessárias à boa execução do presente diploma, incluindo as alterações ao orçamento da Guarda Fiscal que, para o efeito, se tornem indispensáveis.
+
+###### ARTIGO 14.º
+
+(Dúvidas e omissões)
+
+As dúvidas ou casos omissos do presente diploma serão resolvidos mediante despacho dos Ministros da Administração Interna, das Finanças e da Cooperação, de harmonia com as respectivas competências.
+
+###### ARTIGO 15.º
+
+(Entrada em vigor do presente diploma)
+
+Este diploma entra em vigor na data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
+
+**Promulgado em 13 de Maio de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+MAPA I
+
+Pessoal do quadro paralelo da Guarda Fiscal
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf)
+
+MAPA II
+
+Tabela de equivalências
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf))](https://files.diariodarepublica.pt/1s/1976/05/12000/11551157.pdf)
+
+**O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.**

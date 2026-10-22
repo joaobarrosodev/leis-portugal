@@ -1,0 +1,277 @@
+---
+schema_version: '1.0'
+id: pt:dre:617345:por
+title: Portaria n.º 1125/92
+short_title: null
+summary: Regulamenta as condições a observar nos processos relativos à aprovação de modelo, à verificação e à importação de
+  recipientes sob pressão previstas no Decreto-Lei n.º 131/92, de 6 de Julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 1125/92
+official_date: null
+publication_date: '1992-12-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 283/1992, Série I-B de 1992-12-09
+  number: '283'
+  series: I
+  supplement: null
+  pages: 5646 - 5647
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/12/283b00/56465647.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1125/1992/12/09/p/dre/pt/html
+  oj: null
+  dre: '617345'
+  dre_path: /dr/detalhe/portaria/1125-1992-617345
+  internal: pt:dre:617345:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1125-1992-617345
+  metadata_url: https://data.dre.pt/eli/port/1125/1992/12/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1125-1992-617345
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-02-28T00:00:00Z'
+integrity:
+  source_sha256: 4b2d27396a3c10c2575ea511cd3f3806faea6cc76fece887d265cbd360f01d78
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-1125-617345.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CEE
+- Segurança Pública
+- Importação
+- Normas de Segurança
+- Equipamento sob Pressão
+relationships:
+- type: amended_by
+  target: pt:dre:254667:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31976L0767
+  label: null
+  source: http://data.europa.eu/eli/dir/1976/767/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/131/1992/07/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/131/1992/07/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1125/92
+
+de 8 de Dezembro
+
+Tendo em vista a regulamentação das condições a observar nos processos relativos à aprovação de modelo, à verificação e à importação de recipientes sob pressão previstas no Decreto-Lei n.º 131/92, de 6 de Julho, em harmonia com a Directiva do Conselho n.º [76/767/CEE](http://data.europa.eu/eli/dir/1976/767/oj?locale=pt), de 27 de Julho;
+
+Ao abrigo do artigo 2.º do Decreto-Lei n.º 131/92, de 6 de Julho:
+
+Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
+
+1.º
+
+Aprovação de modelo
+
+1 - A competência para a aprovação de modelo pertence aos organismos do Ministério da Indústria e Energia a serem designados em regulamentação específica, para cada categoria de recipientes, com base em relatórios e pareceres de organismos de inspecção de qualificação reconhecida em conformidade com o artigo 3.º do Decreto-Lei n.º 131/92, de 6 de Julho.
+
+2 - A aprovação de modelo será requerida pelo fabricante ou pelo seu representante, em língua portuguesa, em duplicado e segundo as indicações constantes do anexo a esta portaria.
+
+3 - A aprovação de modelo é concedida sempre que o modelo satisfaça as prescrições fixadas na regulamentação específica relativa à categoria de recipientes à qual pertence.
+
+4 - Concedida a aprovação de modelo pelo organismo competente do Ministério da Indústria e Energia, será emitido o respectivo certificado e notificado o requerente.
+
+5 - As marcas relativas a aprovação de modelo devem ser apostas pelo respectivo fabricante em todos os recipientes do mesmo modelo.
+
+6 - A aprovação será revogada sempre que se verifique que deixaram de ser observadas ou não se encontram preenchidas as condições constantes da regulamentação aplicável, sem prejuízo do disposto no número seguinte.
+
+7 - Quando se constate a existência de recipientes não conformes com o respectivo modelo aprovado, a entidade competente poderá:
+
+a) Manter a aprovação, se as diferenças constatadas forem mínimas, não implicarem alteração fundamental da concepção do recipiente ou dos métodos de fabrico e não comprometerem de modo algum a segurança;
+
+b) Revogar a aprovação quando as modificações constatadas comprometam a segurança;
+
+c) Ordenar ao fabricante a rectificação do fabrico em determinado prazo, quando se considere que a série deixou de corresponder ao respectivo modelo aprovado, seguida de revogação da aprovação, se o fabricante não der cumprimento à recomendação no prazo fixado.
+
+8 - Para um mesmo modelo de recipiente o pedido de aprovação de modelo CEE só poderá ser apresentado a um único Estado membro.
+
+9 - A revogação de uma aprovação CEE de modelo só pode ser decidida pela entidade competente do Estado membro que a tiver concedido, devendo do facto informar a Comissão das Comunidades Europeias e os outros Estados membros.
+
+2.º
+
+Exame para aprovação
+
+1 - O exame visando a aprovação será efectuado com base nos desenhos de construção e num relatório de um organismo de inspecção de qualificação reconhecida e, se for caso disso, em amostras dos recipientes.
+
+2 - O exame para aprovação comportará:
+
+a) O controlo relativo ao cálculo do projecto, ao processo de construção, à execução do trabalho e aos materiais utilizados;
+
+b) O controlo dos dispositivos de segurança e de medida, bem como das modalidades de instalação, se for caso disso.
+
+3.º
+
+Certificado de aprovação
+
+1 - O certificado de aprovação contém:
+
+a) As conclusões do exame de modelo;
+
+b) As condições a que pode estar sujeita a aprovação.
+
+2 - O certificado será acompanhado das descrições e desenhos necessários à identificação do modelo e eventualmente das prescrições de funcionamento.
+
+4.º
+
+Verificação
+
+1 - A verificação destina-se à comprovação da conformidade do recipiente com o respectivo modelo aprovado ou, para os recipientes não sujeitos a aprovação de modelo, com as exigência da regulamentação específica aplicável.
+
+2 - A verificação é requerida pelo fabricante ou pelo seu representante e compete a qualquer organismo de inspecção de qualificação reconhecida em conformidade com o artigo 3.º do Decreto-Lei n.º 131/92, de 6 de Julho.
+
+3 - Os fabricantes não poderão recusar aos organismos de inspecção o acesso aos locais de fabrico com vista à correcta execução das suas competências.
+
+4 - A marca relativa à verificação com resultado satisfatório será aposta pelo organismo de inspecção competente, que emitirá o correspondente certificado, quando tal se encontre previsto na regulamentação específica aplicável.
+
+5.º
+
+Verificação de recipientes - Fases e operações
+
+1 - Os recipientes sujeitos à verificação a que se refere o número anterior devem ser apresentados a um organismo de inspecção de qualificação reconhecida, devendo ter aposta a marca indicativa de que foram objecto de aprovação de modelo ou de que não estão sujeitos a essa aprovação.
+
+2 - Sem prejuízo do disposto em regulamentação específica, a verificação será efectuada:
+
+a) Numa só fase, nos recipientes que, constituindo um todo à saída da fábrica, podem, em princípio, ser transferidos para o local de instalação sem prévia desmontagem e cujas características não são susceptíveis de serem alteradas com o transporte;
+
+b) Em duas ou mais fases, nos recipientes que não são expedidos numa só peça.
+
+3 - Sem prejuízo do disposto em regulamentação específica, a verificação comportará, em regra:
+
+O exame da qualidade dos materiais;
+
+O controlo relativo ao cálculo do projecto, ao processo de construção, à execução do trabalho e aos materiais utilizados;
+
+O exame do interior, comportando o controlo das partes interiores e das soldaduras;
+
+A prova de pressão;
+
+O controlo dos dispositivos de segurança e de medida, se for caso disso;
+
+O exame exterior das várias partes do recipiente;
+
+O ensaio de funcionamento, quando prescrito pela regulamentação específica aplicável.
+
+4 - Os recipientes que não são expedidos numa só peça serão objecto de verificação no local de fabrico e no local de instalação.
+
+6.º
+
+Importação
+
+1 - Quando um fabricante ou o seu representante pretender exportar para Portugal um recipiente sob pressão ou vários recipientes do mesmo modelo não abrangidos por regulamentações específicas deverá, para que as verificações sejam efectuadas de acordo com a legislação em vigor (Decreto-Lei n.º 101/74 e Decreto n.º 102/74), notificá-lo ao organismo competente do Ministério da Indústria e Energia em documento do qual constem os seguintes elementos:
+
+a) Identificação clara do requerente;
+
+b) Identificação do recipiente (pressão máxima de serviço, capacidade total, temperatura máxima ou mínima de funcionamento e ano de fabrico) e do fim a que se destina;
+
+c) Documentação técnica relativa ao recipiente ou ao modelo, nomeadamente:
+
+Desenhos, cálculos e código de construção utilizado;
+
+Especificações dos materiais utilizados e respectivos certificados de qualidade;
+
+Processo de construção;
+
+Métodos de verificação e controlo efectuado ou a efectuar durante o processo de construção;
+
+d) Indicação do organismo de inspecção responsável pelos controlos, ensaios e ou verificações constante da lista de organismos notificados ao abrigo da Directiva do Conselho n.º [76/767/CEE](http://data.europa.eu/eli/dir/1976/767/oj?locale=pt), de 27 de Julho.
+
+2 - Para recipientes fabricados à unidade ou em pequenas séries destinados a satisfazer encomendas específicas ou de natureza complexa, o organismo de inspecção poderá ser escolhido pelo cliente no Estado de origem, em conformidade ou não com a lista de organismos notificados, se com o acordo do organismo competente do Ministério da Indústria e Energia.
+
+3 - Toda a documentação será fornecida em três exemplares, em português ou numa outra língua aceite pelo organismo competente do Ministério da Indústria e Energia.
+
+4 - O organismo competente do Ministério da Indústria e Energia terá três meses para analisar o processo, se completo, e um mês para solicitar documento em falta, devendo dar ao requerente conhecimento das decisões tomadas.
+
+5 - Se houver lugar a alterações ou correcções, as mesmas devem constar do dossier na posse do organismo competente do Ministério da Indústria e Energia.
+
+6 - Os controlos, ensaios e verificações serão executados por um organismo de inspecção, que emitirá, quando for caso disso, os certificados e relatórios atestando que tudo está conforme com o exigido pelo organismo competente do Ministério da Indústria e Energia.
+
+7 - Quando se tratar de aparelhos não montados no local de fabricação, a verificação das partes será executada por um organismo de inspecção do Estado de origem, no local de produção, podendo a verificação final ser executada no local de instalação por um dos organismos de inspecção nacional constantes do despacho do Ministro da Indústria e Energia referido no n.º 1 do artigo 3.º do Decreto-Lei n.º 131/92, de 6 de Julho.
+
+Ministério da Indústria e Energia.
+
+**Assinada em 5 de Novembro de 1992.**
+
+**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+
+## ANEXO
+
+1 - Indicações que devem constar do requerimento referido no n.º 2 do n.º 1 desta portaria:
+
+Nome e morada do interessado e local ou locais de fabrico dos recipientes;
+
+Documento comprovativo do reconhecimento como construtor qualificado concedido ou aceite pelo Instituto Português da Qualidade;
+
+Categoria do recipiente;
+
+Utilização prevista ou exclusões;
+
+Características técnicas;
+
+Designação comercial eventual ou tipo;
+
+Declaração do fabricante ou o seu representante de que nenhum pedido foi apresentado, para o mesmo modelo, em qualquer outro Estado membro da Comunidade Económica Europeia.
+
+2 - O requerimento e respectivo duplicado serão acompanhados dos seguintes elementos:
+
+a) Memória descritiva, referindo, em especial:
+
+Especificação dos materiais, processos de construção e cálculos de resistência do recipiente;
+
+Dispositivos de segurança e acessórios, se for caso disso;
+
+Locais destinados às marcas de aprovação e ou verificação e outras previstas na regulamentação específica aplicável;
+
+b) Desenhos de conjunto e, eventualmente, desenho de detalhe de construção importantes;
+
+b) Qualquer outra informação prevista na regulamentação específica aplicável;
+
+d) Relatório e parecer de um organismos de inspecção.

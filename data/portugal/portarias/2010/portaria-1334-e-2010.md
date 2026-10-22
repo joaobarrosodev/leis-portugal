@@ -1,0 +1,484 @@
+---
+schema_version: '1.0'
+id: pt:dre:344940:por
+title: Portaria n.º 1334-E/2010
+short_title: null
+summary: Fixa as taxas e os demais encargos devidos pelos procedimentos administrativos inerentes à concessão de vistos em
+  postos de fronteira, à prorrogação de permanência em território nacional, à emissão de documentos de viagem, à concessão
+  e renovação de autorizações de residência, à disponibilidade de escolta, à colocação de estrangeiros não admitidos em centros
+  de instalação temporária e à prática dos demais actos relacionados com a entrada e permanência de estrangeiros no País
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 1334-E/2010
+official_date: null
+publication_date: '2010-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 253/2010, 2º Suplemento, Série I de 2010-12-31
+  number: '253'
+  series: I
+  supplement: 2º Suplemento
+  pages: 6122-(330) a 6122-(333)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25302/0033000333.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-10-29'
+version_history:
+  file: portaria-1334-e-2010.versoes.json
+  count: 4
+  source_lastmod: '2025-07-22'
+  versions:
+  - date: '2010-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-10-08'
+    amending: pt:dre:197346:por
+    amending_title: Portaria n.º 305-A/2012
+    changes:
+    - Altera Anexo
+  - date: '2020-09-23'
+    amending: pt:dre:140950565:por
+    amending_title: Portaria n.º 204/2020
+    changes:
+    - Adita Artigo 2.º-A
+    - Altera Artigo 2.º
+    - Altera Anexo
+  - date: '2023-10-29'
+    amending: pt:dre:222779383:por
+    amending_title: Portaria n.º 307/2023
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1334-e/2010/p/cons/20231013/pt/html
+  oj: null
+  dre: '344940'
+  dre_path: /dr/detalhe/portaria/1334-e-2010-344940
+  internal: pt:dre:344940:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1334-e-2010-344940
+  metadata_url: https://data.dre.pt/eli/port/1334-e/2010/p/cons/20231013/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-223039416
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-223039416
+  retrieved_at: '2026-10-22T13:32:23Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-07-22T00:00:00Z'
+integrity:
+  source_sha256: edea184fb5a83639062b9fb875257076e7132e9f8a7ac2a5ec5f2b51ef667478
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:32:23Z'
+  notes: 4 versão(ões); histórico completo em portaria-1334-e-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Lista
+- Taxa
+- TAXA de Prestação de Serviços
+- Passaporte
+- Admissão de Estrangeiros
+relationships:
+- type: amended_by
+  target: pt:dre:197346:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/305-a-2012-197346
+  date: '2012-10-04'
+- type: amended_by
+  target: pt:dre:140950565:por
+  label: Adita Artigo 2.º-A; Altera Artigo 2.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/204-2020-140950565
+  date: '2020-08-24'
+- type: amended_by
+  target: pt:dre:222779383:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383
+  date: '2023-10-13'
+- type: cites
+  target: celex:32002R1030
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/1030/oj
+- type: cites
+  target: celex:32004R2252
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/2252/oj
+- type: cites
+  target: celex:32008R0380
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/380/oj
+- type: cites
+  target: celex:32009R0444
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/444/oj
+article_structure:
+  article_count: 5
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:32:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1334-E/2010
+
+Portaria n.º 1334-E/2010
+
+de 31 de Dezembro
+
+A portaria n.º 727/2007, de 6 de Setembro (2.ª série), fixou, em consonância com o disposto no n.º 2 do artigo 209.º da Lei n.º 23/2007, de 4 de Julho, as taxas e demais encargos devidos pelos procedimentos administrativos previstos naquele diploma, relativos à concessão de vistos em postos de fronteira, à prorrogação de permanência em território nacional, à emissão de documentos de viagem, à concessão e renovação de autorizações de residência, à disponibilização de escoltas, à colocação de estrangeiros não admitidos em centros de instalação temporária e à prática dos demais actos relacionados com entrada ou permanência de estrangeiros no País.
+
+Nesta sede, importa assinalar as melhorias tecnológicas introduzidas nos diversos títulos que documentam a permanência ou residência dos cidadãos estrangeiros em território nacional, e que se repercutem, de modo sensível, na optimização das garantias ao nível da fiabilidade e segurança documentais.
+
+A utilização das novas tecnologias de informação nos diversos títulos emitidos aos cidadãos estrangeiros enquadra-se no processo de reforço da segurança dos documentos que titulam a respectiva permanência ou residência em território nacional, em obediência às directrizes fixadas para o efeito, por diversas organizações internacionais, designadamente, a União Europeia.
+
+Neste âmbito, importa assinalar o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0380" title="Link para Regulamento da Comunidade Europeia">380/2008</a>, do Conselho, de 18 de Abril, que alterou o Regulamento (CE) n.º <a href="eurlex.asp?ano=2002&id=302R1030" title="Link para Regulamento da Comunidade Europeia">1030/2002</a>, o qual estabelece um modelo uniforme de título de residência para nacionais de países terceiros.
+
+A integração de identificadores biométricos permite estabelecer a autenticidade dos títulos de residência, bem como uma ligação mais fiável entre o título de residência e o seu detentor, consubstanciando elemento fulcral para garantir a sua protecção contra o uso fraudulento, em consonância com as especificações dimanadas da Organização de Aviação Civil Internacional.
+
+Também ao nível da emissão dos documentos de viagem se verifica idêntica utilização das tecnologias da informação ao serviço do combate à contrafacção e falsificação documentais [cf. Regulamento (CE) n.º <a href="eurlex.asp?ano=2009&id=309R0444" title="Link para Regulamento da Comunidade Europeia">444/2009</a>, do Parlamento Europeu e do Conselho, de 28 de Maio, que alterou o Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R2252" title="Link para Regulamento da Comunidade Europeia">2252/2004</a>].
+
+É, pois, evidente a necessidade inquestionável de utilização de dispositivos de elevado nível técnico nos títulos de residência, passaportes e documentos de viagem, para efeitos de os tornarem mais seguros e estabelecer um nexo mais fiável entre aqueles documentos e o seu titular.
+
+Neste processo de concessão e emissão de documentos aos cidadãos estrangeiros urge salientar, igualmente, o reforço dos meios logísticos, nomeadamente no âmbito dos recursos humanos, propiciadores de maior celeridade e eficácia no enquadramento das suas pretensões, tendo sempre presente uma gestão integrada.
+
+A harmonização e o reforço da componente de securização dos títulos de residência, dos passaportes e dos documentos de viagem, de harmonia com os regulamentos citados, tem implicações directas e necessárias no montante das taxas devidas pelos procedimentos previstos na Lei n.º 23/2007, de 4 de Julho.
+
+A observância destas normas técnicas em matéria de combate à contrafacção e à falsificação acarreta aumento dos encargos financeiros imanentes à emissão dos títulos de residência, passaportes e documentos de viagem, repercutindo-se, ainda que de forma assaz mitigada, no aumento dos quantitativos das taxas devidas por aquela.
+
+Assim:
+
+Ao abrigo do disposto nos n.os 2 e 3 do artigo 209.º da Lei n.º 23/2007, de 4 de Julho, manda o Governo, pelo Ministro da Administração Interna, o seguinte:
+
+###### Artigo 1.º
+
+As taxas e os demais encargos devidos pelos procedimentos administrativos inerentes à concessão de vistos em postos de fronteira, à prorrogação de permanência em território nacional, à emissão de documentos de viagem, à concessão e renovação de autorizações de residência, à disponibilidade de escolta, à colocação de estrangeiros não admitidos em centros de instalação temporária e à prática dos demais actos relacionados com a entrada e permanência de estrangeiros no País, estabelecidos na Lei n.º 23/2007, de 4 de Julho, são os que constam da tabela anexa à presente portaria, da qual faz parte integrante.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 307/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383), em vigor a partir de 2023-10-29
+
+###### Artigo 2.º
+
+1 - Os valores das taxas previstas na tabela anexa à presente portaria são automaticamente atualizados, com arredondamento à casa decimal imediatamente seguinte, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao anterior, excluindo a habitação, e publicado pelo Instituto Nacional de Estatística.
+
+2 - Excecionam-se do disposto no número anterior as taxas previstas pelos procedimentos dos vistos concedidos nos postos de fronteira, as quais são reguladas por regulamento da União Europeia.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 307/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/204-2020-140950565), em vigor a partir de 2020-09-23
+
+###### Artigo 2.º-A — Receita das taxas na concessão de vistos consulares
+
+1 - Reverte para o SEF, no âmbito das taxas previstas no artigo 62.º da tabela dos emolumentos consulares, o montante de (euro) 20,00 por cada parecer emitido nos termos do artigo 53.º da Lei n.º 23/2007, de 4 de julho, na sua atual redação.
+
+2 - A atualização do montante previsto no número anterior obedece ao disposto na tabela de emolumentos consulares.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 307/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383), em vigor a partir de 2023-10-29
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 204/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/204-2020-140950565), em vigor a partir de 2020-09-23
+
+###### Artigo 3.º
+
+É revogada a portaria n.º 727/2007, publicada no Diário da República, 2.ª série, n.º 172, de 6 de Setembro de 2007.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 307/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383), em vigor a partir de 2023-10-29
+
+###### Artigo 4.º
+
+A presente portaria produz efeitos 30 dias após a data da sua publicação e aplica-se aos procedimentos que se iniciem a partir dessa data.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 307/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383), em vigor a partir de 2023-10-29
+
+Pelo Ministro da Administração Interna, Maria Dalila Correia Araújo Teixeira, Secretária de Estado da Administração Interna, em 6 de Dezembro de 2010.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 307/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383), em vigor a partir de 2023-10-29
+
+## Anexo — Tabela de taxas e demais encargos a cobrar pelos procedimentos administrativos previstos na Lei n.º 23/2007, de 4 de julho, na sua atual redação
+
+1 - Por vistos solicitados em postos de fronteira:
+
+a) Por cada visto de curta duração, concedido nos termos da alínea b) do artigo 66.º da Lei n.º 23/2007, de 4 de julho - (euro) 80;
+
+b) [Revogada;]
+
+c) Por cada visto especial, concedido nos termos da alínea c) do artigo 66.º da Lei n.º 23/2007, de 4 de julho - isento;
+
+d) [Revogada.]
+
+2 - Estão isentos do pagamento de taxa:
+
+a) Crianças com menos de seis anos;
+
+b) Alunos, estudantes, inclusive de cursos de pós-graduação, e professores acompanhantes que realizem viagens de estudo ou de formação;
+
+c) Investigadores nacionais de países terceiros que se desloquem para efeitos de investigação científica, na aceção da Recomendação 2005/761/CE, do Parlamento Europeu e do Conselho, de 28 de setembro de 2005, destinada a facilitar a emissão pelos Estados membros de vistos uniformes de curta duração para os investigadores nacionais de países terceiros que se desloquem para efeitos de investigação científica;
+
+d) Representantes de organizações sem fins lucrativos, até 25 anos de idade, que participem em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos.
+
+3 - Vistos concedidos a crianças a partir dos seis anos e com menos de doze anos - (euro) 40.
+
+4 - Vistos concedidos a nacionais de países terceiros beneficiários de Acordos de Facilitação de Vistos concluídos com a União Europeia - (euro) 40.
+
+II - Controlo fronteiriço
+
+a) Pela realização do controlo fronteiriço a bordo de navios, em navegação, nos termos do n.º 4 do artigo 6.º da Lei n.º 23/2007, de 4 de julho - (euro) 332,50;
+
+b) Pela emissão das autorizações de acesso à zona internacional do porto e de entrada a bordo de embarcações para visita ou prestação de serviços, nos termos do n.º 4 do artigo 8.º da Lei n.º 23/2007, de 4 de julho, em função da validade respetiva:
+
+Por dia - (euro) 6;
+
+Mensal - (euro) 12;
+
+Anual - (euro) 23;
+
+c) Por realização de controlo fronteiriço em aeródromo, nos termos do artigo 6.º da Lei n.º 23/2007, de 4 de julho, a suportar pela respetiva entidade gestora, por aeronave controlada - (euro) 222.
+
+III - Prorrogação de permanência
+
+1 - Por prorrogação de permanência:
+
+a) Pela receção e análise do pedido de prorrogação de permanência, sem prejuízo do disposto nos n.os 2 e 3 - (euro) 33,60;
+
+b) Pela prorrogação de permanência, concedida nos termos da alínea b) do n.º 1 do artigo 72.º da Lei n.º 23/2007, de 4 de julho - isento;
+
+c) Pela prorrogação de permanência, concedida nos termos da alínea c) do n.º 1 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, a titulares de visto de residência - (euro) 67;
+
+d) Pela prorrogação de permanência, concedida nos termos da alínea d) do n.º 1 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, até ao limite de 90 dias (por semestre) de estada - (euro) 30;
+
+e) [Revogada;]
+
+f) Pela prorrogação de permanência, com validade para Portugal, concedida nos termos da alínea d) do n.º 1 e do n.º 4 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, aos titulares de visto uniforme de curta duração ou aos interessados admitidos sem exigência de visto - (euro) 30;
+
+g) [Revogada;]
+
+h) Pela prorrogação de permanência até 30 dias, com validade para Portugal, concedida nos termos do artigo 71.º-A da Lei n.º 23/2007, de 4 de julho, aos titulares de visto de curta duração para trabalho sazonal - (euro) 67;
+
+i) Pela prorrogação de permanência superior a 30 dias, com validade para Portugal, concedida nos termos do artigo 71.º-A da Lei n.º 23/2007, de 4 de julho, aos titulares de visto de curta duração para trabalho sazonal - (euro) 67;
+
+j) Pela prorrogação de permanência, concedida nos termos da alínea e) do n.º 1 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, aos titulares de visto de estada temporária concedidos ao abrigo das alíneas a) e g) do n.º 1 do artigo 54.º - (euro) 67;
+
+k) Pela prorrogação de permanência, concedida nos termos da alínea e) do n.º 1 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, aos titulares de visto de estada temporária concedidos ao abrigo das alíneas b), c), d), e), f), h) e i) do n.º 1 do artigo 54.º e 55.º - (euro) 67;
+
+l) [Revogada;]
+
+m) [Revogada;]
+
+n) [Revogada;]
+
+o) [Revogada;]
+
+p) Pela prorrogação de permanência, concedida nos termos do n.º 3 do artigo 72.º da Lei n.º 23/2007, de 4 de julho - (euro) 67;
+
+q) Pela prorrogação de permanência, concedida nos termos do n.º 3 do artigo 71.º da Lei n.º 23/2007, de 4 de julho - (euro) 90.
+
+2 - Pela receção e análise do pedido de prorrogação de visto Schengen, com validade para outros Estados Partes na Convenção de Aplicação, por razões pessoais atendíveis - (euro) 34.
+
+3 - Pela receção e análise do pedido de prorrogação de visto Schengen, com validade para outros Estados Partes na Convenção de Aplicação, por motivos de força maior ou por razões humanitárias - isento.
+
+4 - Pela recepção e análise do pedido de prorrogação de permanência que se fundamente em alteração de motivos ou no qual se requeira prorrogação para além dos limites previstos, ao abrigo, respectivamente, do n.º 3 do artigo 71.º e do n.º 2 do artigo 72.º da Lei n.º 23/2007, de 4 de Julho - valor da taxa prevista na alínea a), acrescido do quantitativo de (euro) 15.
+
+IV - Títulos de residência
+
+1 - Por títulos de residência:
+
+a) Pela receção e análise: de pedido de concessão de autorização de residência temporária solicitado para as finalidades previstas nas Subsecções I, III, IV, VII e VIII da Secção II do Capítulo VI da Lei n.º 23/2007, de 4 de julho; de pedido de concessão de autorização de residência permanente; ou de pedido de renovação de autorização de residência, temporária ou permanente - (euro) 84;
+
+b) Pela apreciação de pedido de dispensa de visto consular de residência formulado ao abrigo do disposto no n.º 2 do artigo 88.º, n.os 2 e 4 do artigo 89.º, n.º 2 do artigo 90.º, n.º 4 do artigo 91.º, n.º 9 do artigo 91.º-B, n.os 3 e 4 do artigo 92.º, n.º 3 do artigo 93.º e no n.º 1 alínea c) do artigo 123.º da Lei n.º 23/2007, de 4 de julho - (euro) 194,20;
+
+c) Por cada título de residência temporário concedido ou pela sua renovação nos termos do n.º 1 do artigo 75.º da Lei n.º 23/2007, de 4 de julho - (euro) 72,20;
+
+d) Por cada título de residência temporário renovado nos termos do n.º 2 do artigo 75.º da Lei n.º 23/2007, de 4 de julho - (euro) 34;
+
+e) Por cada título de residência permanente concedido nos termos do n.º 1 do artigo 76.º da Lei n.º 23/2007, de 4 de julho, sem prejuízo do disposto no n.º 5 quanto a pedidos formulados por menores de idade - (euro) 222;
+
+f) Pela renovação do título de residência permanente, nos termos do n.º 2 do artigo 76.º da Lei n.º 23/2007, de 4 de julho - (euro) 39;
+
+g) Pela substituição de título de residência aquando da notificação para o exercício de atividade profissional efetuada por estudante do ensino superior, nos termos do n.º 2 do artigo 97.º, ou pela alteração da atividade profissional desenvolvida por trabalhador subordinado ou independente, nos termos do n.º 5 do artigo 88.º e do n.º 3 do artigo 89.º da Lei n.º 23/2007, de 4 de julho - (euro) 78;
+
+h) Pela emissão de segunda via do título de residência - 50 % do valor da respetiva taxa de emissão;
+
+i) Pela emissão de terceira via e sucessivas do título de residência - 100 % do valor da respetiva taxa de emissão.
+
+2 - Por títulos de residência cartão azul UE:
+
+a) Pela receção e análise do pedido de concessão ou renovação de autorização de residência cartão azul UE - (euro) 106,90;
+
+b) Por cada título de residência temporário cartão azul UE ou pela sua renovação, nos termos do artigo 121.º-E da Lei n.º 23/2007, de 4 de julho - (euro) 101,40;
+
+c) Por cada título de residência temporário cartão azul UE concedido com dispensa de visto consular, sem prejuízo do disposto no n.º 5 - (euro) 224;
+
+d) Pela emissão de segunda via do título de residência temporário cartão azul UE - 50 % do valor da respetiva taxa de emissão;
+
+e) Pela emissão de terceira via e sucessivas do título de residência temporário cartão azul UE - 100 % do valor da respetiva taxa de emissão;
+
+f) Pela substituição do título de residência, por alteração dos elementos previstos no artigo 86.º da Lei n.º 23/2007, de 4 de julho - 25 % do valor da respetiva taxa de emissão.
+
+3 - Por títulos de residência para atividade de investimento:
+
+a) Pela receção e análise do pedido de concessão ou de renovação de autorização de residência para atividade de investimento, incluindo a receção e análise de pedido de concessão ou de renovação de autorização de residência para reagrupamento de familiar do titular do direito de residência para atividade de investimento, nos termos dos artigos 90.º-A, n.os 1 e 2, 76.º, n.º 2, 78.º, 80.º e 98.º da Lei n.º 23/2007, de 4 de julho - (euro) 533;
+
+b) Pela concessão de autorização de residência para a atividade de investimento, nos termos do artigo 90.º-A, n.º 1, da Lei n.º 23/2007, de 4 de julho - (euro) 5325;
+
+c) Pela renovação da autorização de residência para a atividade de investimento, nos termos do artigo 90.º-A, n.º 2, da Lei n.º 23/2007, de 4 de julho - (euro) 2663;
+
+d) Pela concessão de autorização de residência para familiares reagrupados com os titulares de autorização de residência para a atividade de investimento, nos termos do artigo 98.º da Lei n.º 23/2007, de 4 de julho - (euro) 5325;
+
+e) Pela renovação da autorização de residência para familiares reagrupados com titulares de autorização de residência para a atividade de investimento, nos termos do artigo 90.º-A da Lei n.º 23/2007, de 4 de julho - (euro) 2663;
+
+f) Pela emissão de segunda via do título de residência para a atividade de investimento, incluindo títulos de residência emitidos a membros da família no âmbito do reagrupamento familiar - 50 % do valor da taxa prevista na alínea b);
+
+g) Pela emissão de terceira via e sucessivas do título de residência para a atividade de investimento, incluindo títulos de residência emitidos a membros da família no âmbito do reagrupamento familiar - 100 % do valor da taxa prevista na alínea b);
+
+h) Pela substituição do título de residência para a atividade de investimento, por alteração dos elementos previstos no artigo 86.º da Lei n.º 23/2007, de 4 de julho - 25 % do valor da taxa prevista na alínea b);
+
+i) Pela concessão ou pela renovação de autorização de residência permanente nos termos do n.º 2 do artigo 76.º e do artigo 80.º para titular de autorização de residência para atividade de investimento ou de familiar seu, concedidas nos termos do artigo 90.º-A e 98.º, todos da Lei n.º 23/2007, de 4 de julho - (euro) 7455 para a concessão; (euro) 3728 para a renovação.
+
+4 - A receita originada pelas taxas previstas nas alíneas b) a e) do número anterior é repartida em partes iguais entre o Serviço de Estrangeiros e Fronteiras (SEF) e o Fundo para as Relações Internacionais, I. P. (FRI)
+
+5 - As taxas previstas nas alíneas d) e f) do n.º 1 são reduzidas em 50 % quando os títulos de residência respeitem a menores nos termos da alínea a), b) ou e) do n.º 1 do artigo 122.º e do artigo 124.º da Lei n.º 23/2007, de 4 de julho.
+
+6 - Pela comunicação da entrada e permanência em território nacional para exercício de mobilidade dos estudantes do ensino superior e consequente emissão de declaração de autorização, nos termos do artigo 91.º-A, n.os 1 e 2, da Lei n.º 23/2007, de 4 de julho - (euro) 25.
+
+7 - Pela emissão de declaração de autorização, nos termos do artigo 91.º-C, n.º 1, da Lei n.º 23/2007, de 4 de julho - (euro) 25.
+
+V - Autorização de residência a vítima de tráfico de pessoas ou de acção de auxílio à imigração ilegal
+
+Isento.
+
+VI - Residente de longa duração noutro Estado membro da União Europeia ou titular de cartão azul UE noutro Estado membro da União Europeia
+
+a) Pela receção e análise do pedido de concessão ou de renovação de autorização de residência a titulares do estatuto de residente de longa duração ou de cartão azul UE em outro Estado membro da União Europeia - (euro) 111;
+
+b) Pela emissão de autorização de residência a titulares do estatuto de residente de longa duração ou de cartão azul UE em outro Estado membro da União Europeia, concedida nos termos do n.º 1 do artigo 116.º e do n.º 1 do artigo 118.º, ou do n.º 1 do artigo 121.º-K da Lei n.º 23/2007, de 4 de julho - (euro) 233;
+
+c) Pela renovação do título de residência a titulares do estatuto de residente de longa duração ou de cartão azul UE em outro Estado membro da União Europeia - (euro) 133;
+
+d) Pela emissão de segunda via do cartão azul UE noutro Estado membro da União Europeia - 50 % do valor da respetiva taxa de emissão.
+
+e) Pela emissão de terceira via e sucessivas do cartão azul UE noutro Estado membro da União Europeia - 100 % do valor da respetiva taxa de emissão.
+
+f) Pela substituição do cartão azul UE noutro Estado membro da União Europeia, por alteração dos elementos previstos no artigo 86.º da Lei n.º 23/2007, de 4 de julho - 25 % do valor da respetiva taxa de emissão.
+
+VII - Estatuto de residente de longa duração em território nacional
+
+1 - Por titulares do estatuto de residente de longa duração:
+
+a) Pela receção e análise do pedido de concessão ou de renovação de autorização de residência a titulares do estatuto de residente de longa duração em território nacional - (euro) 106,90;
+
+b) Pela receção e análise do pedido de concessão ou de renovação de autorização de residência a titulares do estatuto de residente de longa duração em território nacional de beneficiários de proteção internacional - isento;
+
+c) Pela emissão de título UE de residência a titulares do estatuto de residente legal de longa duração em território nacional, concedida nos termos do n.º 1 do artigo 121.º-I e do n.º 1 do artigo 130.º da Lei n.º 23/2007, de 4 de julho - (euro) 101,40;
+
+d) Pela emissão de título UE de residência a titulares do estatuto de residente legal de longa duração em território nacional concedida a beneficiários de proteção internacional - isento;
+
+e) Pela renovação do título de residência UE a titulares do estatuto de residente de longa duração em território nacional - (euro) 101,40;
+
+f) Pela renovação do título de residência UE a titulares do estatuto de residente de longa duração em território nacional de beneficiários de proteção internacional - isento.
+
+2 - Pela emissão de segunda via do título UE de residência a titulares do estatuto de residente legal de longa duração em território nacional, concedida nos termos do n.º 1 do artigo 121.º-I da Lei n.º 23/2007, de 4 de julho - 50 % do valor da respetiva taxa de emissão.
+
+3 - Pela emissão de terceira via e sucessivas do título UE de residência a titulares do estatuto de residente legal de longa duração em território nacional, concedida nos termos do n.º 1 do artigo 121.º-I da Lei n.º 23/2007, de 4 de julho - 100 % do valor da respetiva taxa de emissão.
+
+VIII - Passaportes para estrangeiros
+
+a) Por cada passaporte para estrangeiros concedido nos termos da alínea a) do n.º 1 do artigo 17.º da Lei n.º 23/2007, de 4 de julho - (euro) 111;
+
+b) Pela substituição de passaporte que se encontre totalmente preenchido - (euro) 84.
+
+IX - Controlo de documentos de viagem
+
+Pelo controlo dos documentos de viagem emitidos em território nacional pelas missões diplomáticas ou postos consulares estrangeiros, nos termos do artigo 28.º da Lei n.º 23/2007, de 4 de Julho - (euro) 70.
+
+X - Título de viagem para refugiados
+
+a) Por cada título de viagem para refugiados concedido nos termos da alínea b) do n.º 1 do artigo 17.º da Lei n.º 23/2007, de 4 de julho - (euro) 21,66;
+
+b) [Revogada;]
+
+c) [Revogada;]
+
+d) [Revogada.]
+
+XI - Salvo-conduto
+
+Isento.
+
+XII - Lista de viagem para estudantes
+
+Isento.
+
+XIII - Documento de viagem para afastamento coercivo ou expulsão de nacionais de Estados terceiros
+
+XIV - Boletim de alojamento
+
+Pela comunicação do alojamento de cidadãos estrangeiros, efetuada em suporte de papel, nos termos e para efeitos do disposto nos artigos 15.º e 16.º da Lei n.º 23/2007, de 4 de julho - (euro) 0,70 por boletim.
+
+XV - Escolta
+
+Por cada estrangeiro conduzido sob escolta, taxa diária - (euro) 388.
+
+XVI - Centros de instalação temporária e espaços equiparados
+
+a) A taxa a que se refere o n.º 2 do artigo 41.º e a alínea c) do n.º 1 do artigo 142.º da Lei n.º 23/2007, de 4 de julho, é de (euro) 100 por dia;
+
+b) A taxa prevista na alínea anterior será reduzida em 50 % quando a permanência em centro de instalação temporária do estrangeiro não ultrapasse o período de doze horas.
+
+XVII - Impressos e vinhetas
+
+a) As taxas previstas na presente tabela integram os custos dos impressos, vinhetas ou títulos de residência.
+
+b) Os cidadãos que beneficiam da isenção do pagamento de taxas de concessão ou renovação de autorização de residência apenas suportam os encargos financeiros a que houver lugar em sede de receção e análise do pedido e com impressos, vinhetas ou títulos de residência.
+
+c) Impressos e vinhetas - (euro) 17;
+
+d) Impressos e títulos de residência - (euro) 50.
+
+XVIII - Serviço externo
+
+Por cada deslocação, desde que resulte de imperativo legal, que se realize a pedido do interessado ou por necessidade deste - (euro) 72,20.
+
+XIX - Entrega presencial dos títulos de residência
+
+Por cada entrega presencial - (euro) 25.
+
+XX - Níveis de Serviço de Emissão
+
+a) Normal, com emissão até ao 5.º dia útil a contar da data da decisão de deferimento da concessão ou renovação de autorização de residência - incluído no montante previsto na alínea d) do ponto XVII.
+
+b) Urgente, com emissão até ao 2.º dia útil a contar da data da decisão de deferimento da concessão ou renovação de autorização de residência - acrescem (euro) 40 aos montantes previstos.
+
+> Nota: [Artigo 4.º, Portaria n.º 464/2023 - Diário da República n.º 166/2023, Série II de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/464-2023-220341139) Revogados, a partir de 29 de outubro de 2023, os pontos II, XV e XVI do presente anexo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 307/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/307-2023-222779383), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 204/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/204-2020-140950565), em vigor a partir de 2020-09-23
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 305-A/2012 - Diário da República n.º 193/2012, 1º Suplemento, Série I de 2012-10-04](https://diariodarepublica.pt/dr/detalhe/portaria/305-a-2012-197346), em vigor a partir de 2012-10-08
+
+> Retificado pelo/a [Declaração de Rectificação n.º 6/2011 - Diário da República n.º 42/2011, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-2011-278893), produz efeitos a partir de 2011-01-30

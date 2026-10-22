@@ -1,0 +1,577 @@
+---
+schema_version: '1.0'
+id: pt:dre:74454606:por
+title: Portaria n.º 143-A/2016
+short_title: null
+summary: Aprova o Programa de Apoio Infraestrutural
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Administração Interna
+proposing_entity: null
+official_number: 143-A/2016
+official_date: null
+publication_date: '2016-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 94/2016, 1º Suplemento, Série I de 2016-05-16
+  number: '94'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1582-(2) a 1582-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/05/09401/0000200007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-11-07'
+version_history:
+  file: portaria-143-a-2016.versoes.json
+  count: 2
+  source_lastmod: '2024-11-06'
+  versions:
+  - date: '2016-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-11-07'
+    amending: pt:dre:895646293:por
+    amending_title: Portaria n.º 287/2024/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/143-a/2016/p/cons/20241106/pt/html
+  oj: null
+  dre: '74454606'
+  dre_path: /dr/detalhe/portaria/143-a-2016-74454606
+  internal: pt:dre:74454606:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-a-2016-74454606
+  metadata_url: https://data.dre.pt/eli/port/143-a/2016/p/cons/20241106/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-895681403
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-895681403
+  retrieved_at: '2026-10-22T13:18:58Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-11-06T00:00:00Z'
+integrity:
+  source_sha256: 01d18d7c525c197d6c2a1e80a97bd2af04bec1aa0c2d9862a3ec68dfb61e5b83
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:18:58Z'
+  notes: 2 versão(ões); histórico completo em portaria-143-a-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Financiamento
+- Construção Civil
+- Ministério da Administração Interna
+- Definição de Competências
+- Fundos CE
+- Instalação de Serviços
+- Liga dos Bombeiros Portugueses
+- Bombeiro
+- Autoridade Nacional de Protecção Civil
+relationships:
+- type: amended_by
+  target: pt:dre:895646293:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293
+  date: '2024-11-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/248/2012/11/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/248/2012/11/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/94/2015/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/94/2015/08/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/156/2009/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/156/2009/02/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1562/2007/12/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1562/2007/12/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/927/2010/09/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/927/2010/09/20/p/dre
+article_structure:
+  article_count: 12
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:18:58Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 143-A/2016
+
+Portaria n.º 143-A/2016
+
+de 16 de maio
+
+O Programa de Apoio Infraestrutural define as condições a que devem obedecer os projetos de remodelação, ampliação e construção de instalações de corpos de bombeiros.
+
+O programa de apoio às infraestruturas operacionais dos corpos de bombeiros data de 2007, foi aprovado pela portaria n.º 1562/2007 de 11 de dezembro, posteriormente alterada pelas portarias n.os 156/2009, de 10 de fevereiro e 927/2010 de 20 de setembro, tendo-se verificado, no decurso da sua aplicação, que o mesmo se encontra desatualizado.
+
+Com efeito, o programa tipo adotado para a construção de infraestruturas, é de difícil concretização, verificada pela dificuldade na adoção de soluções que se enquadrem nas respetivas estruturas.
+
+Por outro lado, os valores consagrados para efeitos de apoio encontram-se desatualizados, e carecem de enquadramento legal, atento o facto dos Despachos proferidos no âmbito do anterior quadro comunitário de apoio, terem caducado com o fim deste programa.
+
+Importa regulamentar as operações de remodelação, ampliação e construção das infraestruturas numa perspetiva operacional.
+
+Ainda assim, a prática tem demonstrado a necessidade de se proceder a um ajustamento das áreas reservadas a parques de veículos operacionais, as quais revelam algum subdimensionamento, face às exigências funcionais inerentes às atividades operacionais.
+
+Também a mudança de paradigma a que se assistiu nos últimos anos, em que os elementos dos corpos de bombeiros deixaram de ser maioritariamente do sexo masculino, passando a verificar-se uma maior paridade entre o número de homens e mulheres, obriga a que sejam adotadas soluções que permitam fazer face a esta realidade.
+
+Face ao que tem sido observado, no âmbito da análise dos projetos apresentados, torna-se também notória a necessidade de imprimir uma maior disciplina nas soluções propostas para as funções de carácter operacional, o que exige igualmente, alguns ajustamentos conducentes a um adequado equilíbrio das diferentes áreas, garantindo uma maior qualidade e economicidade dos projetos, assegurando, por outro lado, a plena funcionalidade das instalações.
+
+Assim, nos termos do n.º 2 do artigo 31.º da Lei n.º 32/2007, de 13 de agosto e do n.º 2 do artigo 6.º da Lei n.º 94/2015, de 13 de agosto, ouvido o Conselho Nacional de Bombeiros, manda o Governo, pelo Secretário de Estado da Administração Interna, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria aprova o Programa de Apoio Infraestrutural (PAI), publicado em anexo, bem como os anexos I, II e III e da qual fazem parte integrante.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 2.º — Norma transitória
+
+1 - Os artigos 7.º e 8.º do Programa de Apoio Infraestrutural aplicam-se:
+
+a) Aos investimentos, cujas candidaturas tenham sido aprovadas pelas entidades de gestão de fundos comunitários, que à data de entrada em vigor da presente portaria não estejam, ainda, concluídos;
+
+b) Aos projetos que obtiveram parecer prévio favorável da Autoridade Nacional de Proteção Civil, ainda que as respetivas candidaturas não tenham sido aprovadas pelas entidades de gestão de fundos comunitários, mas cuja execução foi promovida pelas entidades detentoras dos corpos de bombeiros.
+
+2 - Os pareceres prévios da ANPC, emitidos para efeitos de candidatura a apoios comunitários no âmbito de anteriores programas de apoio, que não tenham sido aprovados pelas entidades gestoras, caducam com a entrada em vigor da presente portaria, com exceção de empreitadas com procedimentos concursais iniciados, nos termos do Código dos Contratos Públicos.
+
+3 - No âmbito do quadro comunitário 2014-2020, e para efeito de apoio ao investimento, as entidades promotoras podem proceder à adequação dos projetos nos termos do Programa de Apoio Infraestrutural, agora apro
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 3.º — Norma revogatória
+
+É revogada a Portaria n.º 1562/2007 de 11 de dezembro, alterada pelas Portarias n.º 156/2009, de 10 de fevereiro e n.º 927/2010 de 20 de setembro.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+O Secretário de Estado da Administração Interna, Jorge Manuel Nogueiro Gomes, em 13 de maio de 2016.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+## Anexo — Programa de Apoio Infraestrutural
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 1.º — Âmbito
+
+1 - O Programa de Apoio Infraestrutural (PAI) define as condições a que obedecem os projetos de remodelação, ampliação e construção de infraestruturas de corpos de bombeiros, detidos por associações humanitárias de bombeiros (AHB) ou pelas autarquias.
+
+2 - Os projetos que visam o acesso a apoios ao investimento em infraestruturas que se destinam a corpos de bombeiros, devem ter parecer nos termos do presente diploma.
+
+3 - O programa tipo que caracteriza as estruturas operacionais constitui o anexo I.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 2.º — Definições
+
+Para os efeitos do PAI entende-se por:
+
+a) «Área de Construção do Edifício», somatório das áreas de todos os pisos, acima e abaixo da cota de soleira, medidas pelo extradorso das paredes exteriores, incluindo espaços de circulação cobertos (átrios, galerias, corredores, caixas de escada e caixas de elevador), espaços exteriores cobertos (alpendres, telheiros, varandas e terraços cobertos), e áreas em sótão e em cave com pé-direito regulamentar, expressa em metros quadrados;
+
+b) «Área Bruta de um Edifício (Ab)», é a superfície total do edifício, medida pelo perímetro exterior das paredes exteriores e eixos das paredes separadoras entre edifícios, expressa em metros quadrados;
+
+c) «Área Útil de um Edifício (Au)», é a soma das áreas de todos os compartimentos do edifício, incluindo vestíbulos, circulações interiores, instalações sanitárias, arrumos, outros compartimentos de função similar e armários nas paredes, e mede-se pelo perímetro interior das paredes que limitam o compartimento, descontando encalços até 30 cm, paredes divisórias e condutas, expressa em metros quadrados;
+
+d) «Área de Implantação do Edifício», é a área de solo ocupada pelo edifício, corresponde à área do solo contido no interior de um polígono fechado e compreende o perímetro exterior do contacto do edifício com o solo, expressa em metros quadrados;
+
+e) «Compartimento (de um edifício)», cada um dos espaços encerrados (delimitado por paredes, pavimento e teto, acedido a partir do exterior através de, pelo menos, um vão guarnecido com porta ou disposição construtiva equivalente) em que se divide o edifício;
+
+f) «Corpo de Bombeiros» unidade operacional, oficialmente homologada e tecnicamente organizada, preparada e equipada para o exercício das missões previstas na lei;
+
+g) «Entidade Detentora», entidade pública ou privada, designadamente o município ou a associação humanitária de bombeiros, que cria, detém ou mantém um corpo de bombeiros;
+
+h) «Edifício», construção permanente, dotada de acesso independente, coberta, limitada por paredes exteriores ou paredes-meeiras que vão das fundações à cobertura, destinada a utilização humana ou outros fins;
+
+i) «Edifício Operacional (Quartel de Bombeiros)», edifício vocacionado para responder às necessidades operacionais de um corpo de bombeiros, incluindo áreas para alojamento de pessoal operacional e recolha de veículos, equipamentos e outro material operacional, bem como de administração;
+
+j) «Obras de Ampliação», as obras de que resulte o aumento da área de pavimento ou de implantação, da cércea ou do volume de uma edificação existente;
+
+k) «Obras de Conservação», as obras destinadas a manter uma edificação nas condições existentes à data da sua construção, ampliação ou alteração, designadamente as obras de restauro, reparação ou limpeza;
+
+l) «Obras de Construção», as obras de criação de novas edificações;
+
+m) «Obras de Reabilitação», as obras destinadas à recuperação e beneficiação de um edifício, suprimindo as anomalias construtivas, funcionais, higiénicas e de segurança acumuladas ao longo dos anos, procedendo a uma modernização que melhore o seu desempenho até próximo dos níveis de exigência vigentes;
+
+n) «Obras de Remodelação», obras destinadas à alteração funcional (compartimentação) de um edifício ou de parte dele, sem alterar as suas características estruturais;
+
+o) «Projeto», o conjunto de documentos escritos e desenhados que definem e caracterizam a conceção funcional, estética e construtiva de uma obra, compreendendo, designadamente o projeto de arquitetura e projetos de engenharia;
+
+p) «Telas Finais», conjunto de desenhos finais do projeto, integrando as retificações e as alterações introduzidas no decurso da obra e que traduzem o que foi efetivamente construído.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 3.º — Tipologia das Operações
+
+As operações dividem-se em dois grupos:
+
+a) Grupo I - obras de remodelação e ou ampliação;
+
+b) Grupo II - obras de construção.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 4.º — Validação das Operações
+
+1 - As iniciativas das AHB e das autarquias, no âmbito das intervenções previstas nos grupos I e II, são apresentadas à Autoridade Nacional de Proteção Civil (ANPC), a quem compete a respetiva validação técnica e emissão de parecer prévio vinculativo, ouvida a comissão técnica prevista no n.º 3 do presente artigo.
+
+2 - A validação técnica assegura a adequação das iniciativas ao estipulado para cada uma das estruturas prevista no anexo I, e tem em conta a avaliação do edifício operacional relativamente ao seu estado de conservação e funcionalidade em termos operacionais.
+
+3 - A comissão técnica é constituída por quatro elementos, sendo um designado pela Direção Nacional de Bombeiros, outro pelo respetivo Comando Distrital de Operações de Socorro, ambos da Autoridade Nacional de Proteção Civil, outro pelo município em cuja área se situem as instalações em causa, e outro pela Liga dos Bombeiros Portugueses.
+
+4 - A localização e a caracterização do terreno destinado à construção de edifícios operacionais (grupo II) está sujeita a verificação prévia pela ANPC, a qual pondera, entre outros, a sua capacidade para ampliação dos núcleos que compõem as estruturas previstas no n.º 5 do anexo I.
+
+5 - O projeto, nos termos da legislação em vigor, é aprovado pela respetiva câmara municipal, devendo ser, por esta, observados os requisitos definidos no parecer da ANPC.
+
+6 - A comissão técnica assegura na sua análise as condições específicas previstas no anexo III.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 5.º — Valor Máximo das Operações
+
+1 - Nas iniciativas apresentadas para efeitos de obras de construção (grupo II) os projetos não podem exceder, relativamente às estruturas previstas no n.º 5 do anexo I, os seguintes valores:
+
+a) Estrutura 1 - 850 000 euros;
+
+b) Estrutura 2 - 985 000 euros;
+
+c) Estrutura 3 - 1 135 000 euros;
+
+d) Estrutura 4 - 1 325 000 euros.
+
+2 - Nas iniciativas apresentadas para efeitos de obras de ampliação e ou remodelação (grupo I) a totalidade dos projetos por cada entidade detentora, não pode exceder os seguintes valores:
+
+a) Metade do valor considerado no número anterior, da estrutura correspondente à tipologia do respetivo corpo de bombeiros, para projetos que englobem obras de ampliação e de remodelação;
+
+b) Um quarto do valor considerado no número anterior, da estrutura correspondente à tipologia do respetivo corpo de bombeiros, para projetos que englobem obras de remodelação.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 6.º — Exceções
+
+1 - As iniciativas para obras em instalações para secções destacadas de um corpo de bombeiros, previamente existentes e homologadas nos termos do Regulamento Geral dos Corpos de Bombeiros, quando tal se justifique por razões operacionais, tendo em atenção a tipologia dos riscos a enfrentar, a população a servir e a distância às instalações da sede do corpo de bombeiros, desde que cumpram cumulativamente os seguintes requisitos:
+
+a) Para obras do grupo II
+
+i) A área bruta final de construção bem como a caracterização dos espaços deve obedecer ao estipulado no quadro do anexo II;
+
+ii) Na delineação dos espaços referidos na alínea anterior devem ser observadas as regras constantes do n.º 6 e seguintes do anexo I, no que lhes for aplicável;
+
+iii) Não pode ser excedido o valor máximo de 400 000 euros.
+
+b) Para obras do grupo I, as iniciativas não podem exceder a proporcionalidade prevista nas alíneas do n.º 2 do artigo anterior, relativamente ao valor máximo de 400 000 euros.
+
+2 - As AHB e autarquias podem ainda apresentar iniciativas para obras de ampliação ou remodelação, desde que reúnam cumulativamente os seguintes requisitos:
+
+a) Mantenham a localização do corpo de bombeiros, ainda que em área distinta, com a melhoria da operacionalidade através de uma grande ampliação ou remodelação do edificado;
+
+b) A situação de exceção estar fundamentada pela autarquia, com base nos instrumentos de planeamento, designadamente nos planos municipais de ordenamento do território;
+
+c) O projeto não exceda o valor máximo considerado para obras de construção (grupo II), em metade do previsto para a estrutura 4.
+
+3 - Caso a caracterização das estruturas e as áreas previstas no n.º 5 do anexo I sejam ultrapassadas, a entidade promotora tem que fundamentar e todos os custos adicionais daí decorrentes são suportados pela mesma, no caso de investimento apoiado por fundos comunitários.
+
+4 - Podem ser analisadas iniciativas para obras do grupo II promovidas por AHB integrada num agrupamento de AHB, constituído nos termos do disposto no artigo 47.º da Lei n.º 32/2007, de 13 de agosto, mesmo que não estejam observados todos os prazos referidos no n.º l do anexo III, desde que observem cumulativamente os seguintes requisitos:
+
+a) As instalações a substituir não comportem áreas adequadas ao funcionamento do agrupamento nem capacidade de ampliação;
+
+b) Prever área adequada ao funcionamento do agrupamento, mediante acordo expresso de todas as AHB integrantes do mesmo;
+
+c) Serem acompanhadas de parecer prévio das câmaras municipais onde se inscreve a área de atuação de cada corpo de bombeiros.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 7.º — Execução da empreitada de obras
+
+1 - As alterações ao projeto de execução verificadas no decurso da obra, que implicam encargos adicionais aos valores previstos neste diploma ou as áreas previstas no n.º 5 do anexo I e no anexo II sejam ultrapassadas, aplica-se o n.º 3 do artigo anterior.
+
+2 - As alterações ao projeto anteriormente referidas são apresentadas à ANPC, a quem compete a respetiva validação técnica e enquadramento face ao estatuído no parecer emitido nos termos do n.º 1 do artigo 4.º
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+###### Artigo 8.º — Dever de informação
+
+1 - O apoio infraestrutural está sujeito, entre outros, ao princípio da transparência, que se traduz no dever de resposta, a quaisquer pedidos de informação solicitados pela ANPC, no prazo de 15 dias úteis.
+
+2 - Sem prejuízo das demais obrigações legais, os requerentes deste programa de apoio depositam junto da ANPC os seguintes elementos referentes às empreitadas de obras realizadas nos seus edifícios operacionais:
+
+a) Cópia do auto de consignação da obra;
+
+b) Identificação da entidade responsável pela fiscalização da obra;
+
+c) Cópia do auto de receção provisória da obra;
+
+d) Cópia digitalizada das telas finais.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+## Anexo I — Caracterização das Estruturas Operacionais - Programa Tipo
+
+1 - Os edifícios operacionais dos corpos de bombeiros (quartéis) são, na generalidade, constituídos por áreas predominantemente operacionais e por áreas de administração destinadas à entidade que detém o corpo de bombeiros, que constituem a estrutura orgânica do edifício.
+
+2 - Os edifícios operacionais dividem-se em 4 tipos de estruturas, correspondendo as estruturas 1, 2, 3 e 4 a corpos de bombeiros respetivamente dos tipos 4, 3, 2 e 1, nos termos do previsto no artigo 10.º do Decreto-Lei n.º 247/2007 de 27 de junho, alterado e republicado pelo Decreto-Lei n.º 248/2012, de 21 de novembro.
+
+3 - No caso de corpos de bombeiros detidos pelas autarquias, as estruturas referidas no número anterior, têm a seguinte correspondência:
+
+(ver documento original)
+
+4 - A caracterização da estrutura destinada ao agrupamento de AHB, previsto no artigo 47.º da Lei n.º 32/2007, de 13 de agosto, depende da dotação de recursos humanos resultante do agrupamento, sendo avaliada caso a caso.
+
+5 - As áreas mínimas e máximas admissíveis para as estruturas referidas no n.º 2, bem como a caracterização das mesmas, são sistematizadas no quadro seguinte:
+
+(ver documento original)
+
+6 - No delineamento dos espaços que integram as áreas referidas no número anterior, devem ser observadas as seguintes regras na elaboração do projeto de arquitetura:
+
+6.1 - Parque de veículos (combate e ambulâncias).
+
+a) Localização: no piso zero;
+
+b) Recomenda-se que as entradas/saídas sejam garantidas por duas fachadas opostas entre si, sendo uma delas confinante com a parada de exercícios;
+
+c) A distância entre traseiras dos veículos aparcados e entre os mesmos não dever ser inferior a 1,5 m;
+
+d) Possibilidade de futura ampliação;
+
+e) O parque é dimensionado com duas zonas distintas de parqueamento, uma destinada a ambulâncias e outra a veículos de combate;
+
+f) Largura dos vãos (portões) - 3,80 m a 4,20 m;
+
+g) Altura de vãos (portões) - 4 m a 4,50 m;
+
+h) No caso da existência de veículos especiais, admite-se que alguns dos portões tenham dimensões diferentes;
+
+i) Se existir uma secção de socorros a náufragos, o parque de veículos, tem que possuir uma área suplementar de cerca de 30 m2 a 60 m2, de acordo com o equipamento previsto;
+
+j) Deve dispor de uma arrecadação de material de combate, com ligação direta ao parque.
+
+6.2 - Higienização e desinfeção de ambulâncias, equipamento e material.
+
+a) Localização: próximo do parque de veículos ou junto à oficina, caso esta seja considerada;
+
+b) Dispor de rede de esgotos e abastecimento de águas fria e quente.
+
+6.3 - Controlo, telecomunicações e sala de dados.
+
+a) Localização: no piso zero ou num piso intermédio;
+
+b) Visão do parque de veículos para controlo e distribuição de serviços;
+
+c) A sala de dados (servidores) deve ser climatizada.
+
+6.4 - Comando e gestão operacional.
+
+a) Localização: no piso zero ou intermédio;
+
+b) O número de elementos a considerar na estrutura do quadro de comando é o previsto no n.º 4 do artigo 12.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado e republicado pelo Decreto-Lei n.º 248/2012, de 21 de novembro;
+
+c) A gestão operacional engloba, de entre outros espaços, a secretaria de apoio ao comando, espaço para oficiais bombeiros e de chefias.
+
+6.5 - Camaratas, vestiários, balneários, sanitários, para ambos os sexos e sala do bombeiro.
+
+6.5.1 - Camaratas (para ambos os sexos).
+
+a) Localização: próximo do parque de veículos e anexas aos balneários, com ligação através de uma antecâmara;
+
+b) Em situações excecionais, se se situar noutro piso deve ter ligação rápida e fácil ao vestiário e parque de veículos e ser servida por instalações sanitárias de apoio;
+
+c) Pode ser repartida por duas áreas, uma de fogo e outra de saúde;
+
+d) A capacidade da camarata do piquete de saúde é no mínimo de duas camas e no máximo de seis;
+
+e) A capacidade das camaratas do piquete de fogo depende do número de camas reservada ao setor masculino e ao feminino devendo ser fruto, não só da realidade verificada na ocasião da elaboração do projeto, mas também, e tanto quanto possível, na previsão de um futuro médio prazo;
+
+f) A área por cama é de 4,5 m2, sendo que no caso do emprego de beliches deve a área ser convenientemente determinada;
+
+g) Boa ventilação e iluminação naturais;
+
+h) Sempre que justificado, podem dispor de instalações sanitárias de apoio.
+
+6.5.2 - Vestiários, balneários e sanitários (para ambos os sexos).
+
+a) Localização: próximo do parque de veículos;
+
+b) Organizados de modo a estabelecer um circuito de vestiários-balneários-sanitários, com separação por sexo (masculino e feminino);
+
+c) Nos vestiários deve ser prevista uma zona de sujos;
+
+d) O número de elementos do corpo de bombeiros a considerar para efeito da área depende da tipologia estatuída no n.º 3 do artigo 10.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado e republicado pelo Decreto-Lei n.º 248/2012, de 21 de novembro, tendo-se em atenção:
+
+i) Vestiários - a totalidade dos utentes, um armário para cada utente, banco com cabide, face simples ou dupla ou de parede apoiado com régua de cabides e espaço de circulação;
+
+ii) Sanitário-balneários, com o seguinte número de aparelhos sanitários:
+
+(ver documento original)
+
+iii) Todo o conjunto deve dispor de luz e ventilação naturais;
+
+iv) Em relação aos armários dos vestiários, aos duches, sanitas e lavatórios, a proporção reservada ao setor masculino e ao feminino deve ser fruto, não só da realidade verificada na ocasião da elaboração do projeto, mas também, e tanto quanto possível, na previsão de um futuro médio prazo.
+
+6.5.3 - Sala do bombeiro.
+
+a) Localização: perto do parque de veículos, quando situada em piso diferente deve ter rápida ligação com este;
+
+b) Deve dispor de zona de refeição e de copa. Estas zonas podem ser individualizadas.
+
+6.6 - Sala de formação.
+
+a) Localização: arbitrária;
+
+b) Deve servir no mínimo para 20 utentes, devendo ser considerada a área de 1,50 m2 por cada um.
+
+6.7 - Arrecadação de material de saúde.
+
+Localização: perto do parque de veículos, sem ligação direta a este.
+
+6.8 - Sistema de aquecimento de águas.
+
+a) Localização: junto dos locais de maior consumo de água quente;
+
+b) O sistema de produção de água quente deve recorrer a soluções que conduzam à poupança de energia, de preferência por intermédio de coletores solares ou de bomba de calor;
+
+c) Não são aceites sistemas baseados, exclusivamente, na utilização de resistências elétricas para aquecimento de água;
+
+d) Este espaço deve ser destinado ao sistema de produção de água quente, o acréscimo de outra área técnica pode duplicar a área prevista.
+
+6.9 - Administração.
+
+a) Localização: consoante as conveniências, mas independente das áreas operacionais, com ligação direta a partir do acesso principal;
+
+b) Engloba, gabinete e ou sala de reuniões da direção, secretaria, arquivo e instalações sanitárias (para ambos os sexos e ou pessoas com mobilidade reduzida);
+
+c) O arquivo pode ser incorporado no espaço da secretaria ou em dependência anexa, neste caso a sua área mínima é de 7,50 m2.
+
+6.10 - Parada operacional.
+
+a) Localização: se possível ao nível do parque de veículos, com acesso a este e garantindo uma profundidade mínima de 20 m para manobra de veículos;
+
+b) Deve ser murada.
+
+Áreas operacionais facultativas
+
+6.11 - Oficina.
+
+a) Localização: com fácil acesso à parada e independente do parque de veículos;
+
+b) Deve dispor de fossa de inspeção;
+
+c) A arrecadação, anexa à oficina, pode ser dividida em dois espaços distintos, um destinado a ferramentas e peças sobressalentes e outro a combustíveis e óleos, desde que respeite as regras de segurança previstas na legislação aplicável;
+
+d) A instalação sanitária de apoio à oficina deve ser constituída por sanita, duche e lavatório.
+
+6.12 - Casa escola.
+
+a) Localização: pode ser inserida no próprio edifício do quartel desde que enclausurada, ou constituir um corpo isolado, mas sempre com frente para a parada operacional;
+
+b) Deve dispor, na fachada principal, de um espaço livre no solo, de, no mínimo, 15 m de fundo, para permitir a execução dos exercícios com escada;
+
+c) Dimensionamento:
+
+i) Deve dispor de quatro pisos, tendo o primeiro de 5,20 m a 5,50 m medidos do solo ao peito das janelas do 2.º piso e os restantes de 3,50 m a 3,60 m, medidos de peito a peito. Admite-se uma redução para três pisos em casos devidamente justificados;
+
+ii) Deve dispor de três prumadas de janelas, sendo a central só de peito e as outras de peito e sacada alternadamente;
+
+iii) No 1.º piso, nas prumadas exteriores, devem prever-se portas;
+
+iv) Os panos de parede, entre vãos, devem ter 1,50 m e entre vãos e cunhais 1,20 m;
+
+v) Os panos de peito das janelas não devem exceder 0,25 m de espessura, com uma altura de 0,90 m;
+
+vi) Os vãos devem ter 1,20 m de largura;
+
+vii) As sacadas devem ter 0,45 m de balanço e as guardas devem ser feitas em betão armado ou em perfis metálicos;
+
+viii) Ser dotada interiormente de escada, de largura suficiente para exercícios de macas e outros - 1,20 m;
+
+ix) A bomba da escada deve ter uma largura mínima de 0,80 m, a fim de possibilitar a secagem das mangueiras;
+
+x) Os pisos devem ter, no mínimo, 1,80 m de largura;
+
+xi) Exteriormente a parede de fachada, se não for em betão à vista, deve ser revestida de madeira ou material cerâmico;
+
+xii) Na área disponível do 1.º piso, e sem prejudicar o acesso à escada, devem criar-se obstáculos, de modo a permitir o ensaio de fumos, esses obstáculos são constituídos por panos de alvenaria de cerca de 1,70 m de altura, e convenientemente colocados de modo a estabelecerem, mediante a colocação de painéis amovíveis, percursos de dificuldade variável.
+
+d) Deve prever-se uma coluna seca, até ao 3.º piso.
+
+7 - Os edifícios operacionais devem ser projetados, com um desenvolvimento em planta preferencialmente, em L ou em U, dependendo da disposição do terreno.
+
+8 - Todas as instalações e redes instaladas na área de aparcamento, oficinas e arrumos, designadamente as de eletricidade, água, comunicações e de informática, não devem ser embebidas em lajes e paredes de forma a facilitar a sua manutenção.
+
+> Nota: [Declaração de Retificação n.º 12/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/12-2016-74889523) As seguintes retificações produzem efeitos a partir do dia 17 de maio de 2016: Na estrutura 4 do quadro do ponto 3 do Anexo I, onde se lê: «ANEXO I [...] 3 - ... ... 4 - Superior a 120 elementos.» deve ler-se: «ANEXO I [...] 3 - ... ... 4 - Superior a 120 e menor que 150 elementos.» No n.º 4 do quadro do ponto 5 do Anexo I, onde se lê: «ANEXO I [...] 5 - ... ... 4 - Gabinetes do comando e apoio logístico» deve ler-se: «ANEXO I [...] 5 - ... ... 4 - Comando e gestão operacional»
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+> Retificado pelo/a [Declaração de Retificação n.º 12/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/12-2016-74889523), produz efeitos a partir de 2016-05-17
+
+## Anexo II — Quadro a que se refere a alínea a) do n.º 1 do artigo 6.º do PAI
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07
+
+## Anexo III — Condições específicas de análise das operações pela comissão técnica
+
+1 - Nas operações das AHB ou das autarquias, detentoras de corpos de bombeiros, a comissão técnica analisa com base nos seguintes critérios:
+
+a) Intervenções do grupo I, que não tenham sido apoiadas pelo Estado Português ou por fundos da União Europeia, nos últimos 15 anos;
+
+b) Intervenções do grupo II, que não tenham sido apoiadas pelo Estado Português ou por fundos da União Europeia, nos últimos 40 anos;
+
+c) Os prazos das alíneas anteriores são contados a partir da data de conclusão da última intervenção realizada.
+
+2 - Podem ser analisadas iniciativas que não observem os prazos referidos, quando se verifique a existência de falhas estruturais nos edifícios operacionais, ou de riscos naturais ou riscos tecnológicos associados ao território que ameacem os edifícios, pondo em causa a segurança de pessoas e bens ou a capacidade de prestação do socorro.
+
+3 - Caso a solução economicamente mais adequada à resolução das situações de risco estrutural referidas no número anterior seja a realização de obras de reabilitação, tais obras são equiparadas a obras do grupo I.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 287/2024/1 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/portaria/287-2024-895646293), em vigor a partir de 2024-11-07

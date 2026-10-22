@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:335245:por
+title: Decreto-Lei n.º 33/90
+short_title: null
+summary: Introduz alterações ao Decreto-Lei n.º 354/88, de 12 de Outubro, que aprovou o regime de acesso ao ensino superior
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 33/90
+official_date: null
+publication_date: '1990-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1990, Série I de 1990-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 335 - 337
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02000/03350337.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '335245'
+  dre_path: /dr/detalhe/decreto-lei/33-1990-335245
+  internal: pt:dre:335245:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1990-335245
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1990-335245
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-09-21T00:00:00Z'
+integrity:
+  source_sha256: a116bdd8755a271b6536edaee83e203a6267c1c5860f37bb7c02b1e30df1bef1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-33-335245.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:230967:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 33/90
+
+de 24 de Janeiro
+
+O [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, concebido após consulta pública alargada dos parceiros sociais e representantes dos principais grupos interessados, aprovou um novo regime de acesso ao ensino superior baseado nos pressupostos seguintes: colocação dos candidatos nos cursos superiores mais adequados às suas preferências pessoais e vocacionais; dignificação do 12.º ano de escolaridade como ano terminal do ensino secundário, ao invés de mero requisito de entrada no ensino superior; participação efectiva das instituições de ensino superior na escolha dos seus alunos, no respeito pela sua autonomia pedagógica, e ponderação de uma componente aferidora do domínio limiar da expressão em língua portuguesa.
+
+O desenvolvimento do processo ao abrigo do novo modelo veio demonstrar a consistência desses pressupostos e a generalizada adesão aos mesmos. Com efeito, apesar da natural disparidade de opiniões quanto a um ou outro ponto específico de concretização do sistema, não se constatou a emergência de qualquer proposta global alternativa credora de melhor consideração.
+
+Na sequência do primeiro ano de aplicação do novo regime de acesso ao ensino superior, a comissão de avaliação e consulta prevista no artigo 44.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, procedeu a uma apreciação da sua aplicação, tendo apresentado um conjunto de sugestões no sentido de uma melhoria do sistema, no respeito pelos princípios constantes da Lei de Bases do Sistema Educativo e da Lei da Autonomia das Universidades, e dos objectivos enunciados naquele diploma legal. Essas sugestões reúnem o consenso possível entre representantes de pais, alunos, empregadores e instituições de ensino superior.
+
+Desta forma, considerando o disposto no artigo 12.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro;
+
+Considerando ainda as propostas formuladas pela comissão de avaliação e consulta, prevista no artigo 44.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, e nomeada pelo Despacho n.º 71/ME/89, publicado no Diário da República, 2.ª série, de 29 de Maio de 1989:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º Os artigos 12.º, 19.º, 20.º, 24.º e 26.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, alterado pelo [Decreto-Lei n.º 140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril, passam a ter a seguinte redacção:
+
+###### Artigo 12.º — Júri
+
+1 - A concepção e realização da prova geral de acesso será dirigida por um júri constituído por:
+
+a) Um presidente;
+
+b) Um vice-presidente;
+
+c) Cinco a oito vogais.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 19.º — Reapreciação das provas
+
+1 - ...
+
+2 - ...
+
+3 - A deliberação do júri basear-se-á no parecer de, pelo menos, dois relatores, que farão apreciações independentes.
+
+4 - A nova classificação da prova, quer seja inferior, quer seja superior à primeira classificação, substituirá esta para todos os efeitos.
+
+5 - Do resultado da nova apreciação não poderá ser solicitada reapreciação.
+
+###### Artigo 20.º — Validade da prova geral de acesso
+
+1 - A prova geral de acesso é válida apenas para a candidatura do ano em que se realiza.
+
+2 - Excepcionalmente, a prova realizada em 1989 é válida para a candidatura do ano de 1990, prevalecendo a melhor classificação obtida no caso dos candidatos que decidam repeti-la.
+
+###### Artigo 24.º — Critérios de seriação dos candidatos
+
+1 - ...
+
+2 - ...
+
+3 - O peso de cada critério no processo de seriação será fixado pela entidade a que se refere o n.º 1, respeitando os seguintes limites:
+
+a) Limites mínimos:
+
+i) Classificação da prova geral de acesso - 20%;
+
+ii) Classificações do ensino secundário - 25%;
+
+iii) Classificações das provas específicas/pré-requisitos - 30%;
+
+b) Os limites máximos são fixados anualmente para cada um dos critérios, através de deliberação conjunta do Conselho de Reitores das Universidades Portuguesas e do Conselho Coordenador dos Institutos Superiores Politécnicos.
+
+4 - ...
+
+###### Artigo 26.º — Provas específicas de acesso realizadas pelo estabelecimento de ensino superior
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - As provas serão de âmbito nacional, sendo a coordenação da sua organização e execução assegurada conjuntamente pelo Conselho de Reitores das Universidades Portuguesas e pelo Conselho Coordenador dos Institutos Superiores Politécnicos.
+
+5 - ...
+
+6 - Sempre que dentro do prazo fixado nos termos do artigo 40.º não sejam comunicados ao Ministério da Educação os resultados, totais ou parciais, de uma ou mais provas específicas, quer por não se terem realizado, quer por não haverem sido classificadas, as respectivas classificações serão substituídas pelas classificações correspondentes do ensino secundário, nos termos a regulamentar por portaria do Ministério da Educação, ouvidos o Conselho de Reitores das Universidades Portuguesas e o Conselho Coordenador dos Institutos Superiores Politécnicos.
+
+###### Art. 2.º É revogado o n.º 7 do artigo 28.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), introduzido pelo [Decreto-Lei n.º 140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril.
+
+###### Art. 3.º Ao [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707) é aditado um artigo 27.º-A, com a seguinte redacção:
+
+###### Artigo 27.º-A — Outros acessos preferenciais ao ensino superior politécnico
+
+1 - Considerando a natureza específica dos cursos técnico-profissionais do ensino secundário, dos cursos da via profissionalizante do 12.º ano, dos cursos de aprendizagem previstos no [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, e dos cursos das escolas profissionais previstos pelo [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, com equivalência ao 12.º ano, os candidatos deles oriundos poderão ter preferência no acesso a pares estabelecimento/curso do ensino superior politécnico até um máximo de 20% das respectivas vagas.
+
+2 - Os pares estabelecimento/curso a que se aplicará o presente artigo, bem como a percentagem efectiva das vagas a afectar, serão fixados anualmente para cada estabelecimento de ensino superior politécnico pelos órgãos a que se refere o artigo 4.º
+
+###### Art. 4.º O presente diploma entra em vigor a partir do 1.º dia de candidatura à matrícula e inscrição para o ano lectivo de 1990-1991, inclusive.
+
+Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 1989. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
+
+**Promulgado em 12 de Janeiro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 15 de Janeiro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

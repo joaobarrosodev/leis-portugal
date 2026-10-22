@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:994000298:por
+title: Portaria n.º 29/2026/2
+short_title: null
+summary: Alteração do artigo 2.º da Portaria n.º 380/2024/2, de 5 de março, e subdelegação de competências no secretário-geral
+  do Ministério da Administração Interna.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Administração Interna - Gabinete do Secretário de Estado da Proteção Civil
+proposing_entity: null
+official_number: 29/2026/2
+official_date: null
+publication_date: '2026-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2026, Série II de 2026-01-06
+  number: '3'
+  series: II
+  supplement: null
+  pages: 189 - 189
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/01/003000000/0018900189.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '994000298'
+  dre_path: /dr/detalhe/portaria/29-2026-994000298
+  internal: pt:dre:994000298:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-2026-994000298
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-2026-994000298
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-01-06T00:00:00Z'
+integrity:
+  source_sha256: 7596e14f7b65346372d72f0fe8f601859358d3cd76d6f5f2fc0a0fed2b2984ab
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-29-994000298.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 29/2026/2
+
+A Secretaria-Geral do Ministério da Administração Interna contratualizou com a Estrutura de Missão «Recuperar Portugal» a concessão de um apoio financeiro destinado a financiar a realização do Investimento TD-C19-i04.02 designado por «Infraestruturas Críticas Digitais Eficientes, Seguras e Partilhadas/SGMAI», enquadrado na Componente C19 - Administração Pública - Digitalização, Interoperabilidade e Cibersegurança, do Plano de Recuperação e Resiliência (PRR).
+
+No sentido de aumentar a resiliência da rede SIRESP, verifica-se a necessidade de alterar a sua arquitetura para um sistema ativo/stand-bye em duas localizações distintas, através da instalação de um MSO georredundante, cuja aquisição tem como objetivo mitigar os efeitos de falhas resultantes de desastres naturais, ataques cibernéticos, falhas de equipamentos, ou qualquer outro tipo de problema que possa surgir numa localização específica, garantindo a continuidade dos serviços.
+
+Nesse contexto, foi autorizada, através da [Portaria n.º 380/2024/2](https://diariodarepublica.pt/dr/detalhe/portaria/380-2024-855277163), de 5 de março, a repartição de encargos destinados à aquisição de equipamentos rádio TETRA Dimetra e outros bens e serviços adicionais para aumento da resiliência da rede por georredundância, com instalação, adaptação, configuração e colocação ao serviço do SIRESP até ao montante máximo de 6 139 000,00 € (seis milhões, cento e trinta e nove mil euros), acrescido do valor do IVA nos termos legais aplicáveis, e o respetivo escalonamento plurianual, para os anos de 2024 e 2025.
+
+Não obstante, verifica-se a necessidade de proceder a um aumento do prazo de execução do contrato em vigor, que está em consonância com a decisão da Estrutura de Missão «Recuperar Portugal» de prorrogar por seis meses, até ao dia 30 de junho de 2026, a data termo do Contrato de Financiamento onde se inclui o presente investimento, sendo necessário proceder ao reescalonamento temporal para a execução total da despesa deste contrato.
+
+Nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, conjugado com a alínea b) do n.º 1 do artigo 5.º do mesmo decreto-lei, na sua atual redação, manda o Governo, pelo Secretário de Estado da Proteção Civil, no uso das competências delegadas pelo [Despacho n.º 9301/2025](https://diariodarepublica.pt/dr/detalhe/despacho/9301-2025-927882356), publicado no Diário da República, 2.ª série, n.º 150, de 6 de agosto de 2025, e de acordo com os fundamentos constantes da Informação n.º 68690/2025/SG/DSUM/DCP, de 19 de dezembro de 2025, da Secretaria-Geral do Ministério da Administração Interna, o seguinte:
+
+1 - Alterar o artigo 2.º da [Portaria n.º 380/2024/2](https://diariodarepublica.pt/dr/detalhe/portaria/380-2024-855277163), de 5 de março, com a seguinte redação:
+
+«Artigo 2.º
+
+Os encargos financeiros resultantes da aquisição referida no artigo anterior não podem, em cada ano económico, exceder os seguintes montantes, aos quais acresce o valor do IVA nos termos legais aplicáveis:
+
+2024 - € 0,00;
+
+2025 - € 4 765 000,00; e
+
+2026 - € 1 374 000,00.»
+
+2 - Subdelegar no secretário-geral do Ministério da Administração Interna, Dr. Ricardo Alberto Gasiba Carrilho, nos termos do n.º 1 do artigo 109.º do CCP, a competência para outorgar o acordo de revogação nos termos aprovados.
+
+3 - Determinar que a presente portaria produz efeitos no dia seguinte ao da sua publicação.
+
+29 de dezembro de 2025. - O Secretário de Estado da Proteção Civil, Rui Alexandre Novo e Rocha.

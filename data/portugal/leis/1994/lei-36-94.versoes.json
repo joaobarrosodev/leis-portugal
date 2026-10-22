@@ -1,0 +1,490 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:609309:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1994-176313121",
+ "dre_path": "/dr/detalhe/lei/36-1994-609309",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-09-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176314897",
+    "176314898",
+    "176314899",
+    "176314900",
+    "176314901",
+    "176314902",
+    "176314903",
+    "176314904",
+    "176314905",
+    "176314906",
+    "176314907",
+    "176314908",
+    "176314909",
+    "176314910",
+    "176314911",
+    "176314912"
+   ]
+  },
+  {
+   "date": "1999-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:375452:por",
+     "title": "Lei n.º 90/99",
+     "published": "1999-07-10",
+     "dre_path": "/dr/detalhe/lei/90-1999-375452"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "176314897",
+    "176314898",
+    "176314899",
+    "176314900",
+    "176314901",
+    "176314953",
+    "176314903",
+    "176314904",
+    "176314905",
+    "176314906",
+    "176314945",
+    "176314946",
+    "176314947",
+    "176314948",
+    "176314949",
+    "176314950",
+    "176314951",
+    "176314952"
+   ]
+  },
+  {
+   "date": "2001-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515636:por",
+     "title": "Lei n.º 101/2001",
+     "published": "2001-08-25",
+     "dre_path": "/dr/detalhe/lei/101-2001-515636"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "176314897",
+    "176314898",
+    "176314899",
+    "176314900",
+    "176314901",
+    "176314953",
+    "176314954",
+    "176314904",
+    "176314905",
+    "176314906",
+    "176314945",
+    "176314946",
+    "176314947",
+    "176314948",
+    "176314949",
+    "176314950",
+    "176314951",
+    "176314952"
+   ]
+  },
+  {
+   "date": "2002-02-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583017:por",
+     "title": "Lei n.º 5/2002",
+     "published": "2002-01-11",
+     "dre_path": "/dr/detalhe/lei/5-2002-583017"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "176314897",
+    "176314898",
+    "176314899",
+    "176314900",
+    "176314901",
+    "176314955",
+    "176314954",
+    "176314904",
+    "176314905",
+    "176314906",
+    "176314945",
+    "176314946",
+    "176314947",
+    "176314948",
+    "176314949",
+    "176314950",
+    "176314951",
+    "176314952"
+   ]
+  },
+  {
+   "date": "2011-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344253:por",
+     "title": "Lei n.º 32/2010",
+     "published": "2010-09-02",
+     "dre_path": "/dr/detalhe/lei/32-2010-344253"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º-A"
+   ],
+   "fragments": [
+    "176314897",
+    "176314898",
+    "176314899",
+    "176314900",
+    "176314901",
+    "176314955",
+    "176314954",
+    "176314904",
+    "176314905",
+    "176314906",
+    "176314956",
+    "176314946",
+    "176314947",
+    "176314948",
+    "176314949",
+    "176314950",
+    "176314951",
+    "176314952"
+   ]
+  },
+  {
+   "date": "2022-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176235804:por",
+     "title": "Lei n.º 94/2021",
+     "published": "2021-12-21",
+     "dre_path": "/dr/detalhe/lei/94-2021-176235804"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "176314897",
+    "176314957",
+    "176314958",
+    "176314900",
+    "176314901",
+    "176314955",
+    "176314954",
+    "176314904",
+    "176314959",
+    "176314960",
+    "176314956",
+    "176314946",
+    "176314947",
+    "176314948",
+    "176314949",
+    "176314950",
+    "176314951",
+    "176314952"
+   ]
+  }
+ ],
+ "fragments": {
+  "176314897": {
+   "fragment_id": "176313122",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 36/94\n\nde 29 de Setembro\n\nMedidas de combate à corrupção e criminalidade económica e financeira\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º l, alíneas b), c), d) e q), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "176314898": {
+   "fragment_id": "176313123",
+   "type": 11,
+   "heading": "Artigo 1.º — Acções de prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Acções de prevenção\n\n1 - Compete ao Ministério Público e à Polícia Judiciária, através da Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras, realizar, sem prejuízo da competência de outras autoridades, acções de prevenção relativas aos seguintes crimes:\n\na) Corrupção, peculato e participação económica em negócio;\n\nb) Administração danosa em unidade económica do sector público;\n\nc) Fraude na obtenção ou desvio de subsídio, subvenção ou crédito;\n\nd) Infracções económico-financeiras cometidas de forma organizada, com recurso à tecnologia informática;\n\ne) Infracções económico-financeiras de dimensão internacional ou transnacional.\n\n2 - A Polícia Judiciária realiza as acções previstas no número anterior por iniciativa própria ou do Ministério Público.\n\n3 - As acções de prevenção previstas no n.º 1 compreendem, designadamente:\n\na) A recolha de informação relativamente a notícias de factos susceptíveis de fundamentar suspeitas do perigo da prática de um crime;\n\nb) A solicitação de inquéritos, sindicâncias, inspecções e outras diligências que se revelem necessárias e adequadas à averiguação da conformidade de determinados actos ou procedimentos administrativos, no âmbito das relações entre a Administração Pública e as entidades privadas;\n\nc) A proposta de medidas susceptíveis de conduzirem à diminuição da corrupção e da criminalidade económica e financeira."
+  },
+  "176314899": {
+   "fragment_id": "176313124",
+   "type": 11,
+   "heading": "Artigo 2.º — Dever de documentação e de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dever de documentação e de informação\n\n1 - Os procedimentos a adoptar pelo Ministério Público e pela Polícia Judiciária no âmbito das competências a que se refere o artigo anterior são sempre documentados e não podem ofender os direitos, liberdades e garantias dos cidadãos.\n\n2 - Para análise e acompanhamento, o director-geral da Polícia Judiciária informa, mensalmente, o Procurador-Geral da República dos procedimentos iniciados no âmbito da prevenção a que se refere o artigo anterior."
+  },
+  "176314900": {
+   "fragment_id": "176313125",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento criminal\n\n1 - Logo que, no decurso das acções descritas no artigo 1.º, surjam elementos que indiciem a prática de um crime, é instaurado o respectivo processo criminal.\n\n2 - Para o efeito do disposto no número anterior, logo que a Polícia Judiciária recolha elementos que confirmem a suspeita de crime, é obrigatória a comunicação e denúncia ao Ministério Público."
+  },
+  "176314901": {
+   "fragment_id": "176313126",
+   "type": 11,
+   "heading": "Artigo 4.º — Solicitação de diligências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Solicitação de diligências\n\nCom as devidas adaptações e por iniciativa da autoridade judicial competente, no decurso do processo instaurado por algum dos crimes previstos no artigo 1.º, n.º 1, aplica-se o disposto no artigo 1.º, n.º 3, alínea b)."
+  },
+  "176314902": {
+   "fragment_id": "176313127",
+   "type": 11,
+   "heading": "Artigo 5.º — Quebra do segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quebra do segredo profissional\n\n1 - Nas fases de inquérito, instrução e julgamento relativas aos crimes previstos no n.º 1 do artigo 1.º, o segredo profissional dos membros dos órgãos sociais das instituições de crédito e sociedades financeiras, dos seus empregados e pessoas que prestem serviços às mesmas instituições e sociedades cede se houver razões para crer que a respectiva informação é de grande interesse para a descoberta da verdade ou para a prova.\n\n2 - O disposto no número anterior depende sempre de prévia autorização do juiz em despacho fundamentado.\n\n3 - O despacho a que se alude no número anterior pode assumir forma genérica em relação a cada um dos sujeitos abrangidos pela medida.\n\n4 - Os documentos que o juiz considerar que não interessam ao processo serão devolvidos à entidade que os forneceu ou destruídos, quando se não trate de originais, lavrando-se o respectivo auto. Todos os intervenientes nas operações referidas nos números anteriores ficam sujeitos ao dever de segredo, relativamente àquilo de que tenham tomado conhecimento."
+  },
+  "176314903": {
+   "fragment_id": "176313128",
+   "type": 11,
+   "heading": "Artigo 6.º — Actos de colaboração ou instrumentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Actos de colaboração ou instrumentais\n\n1 - É legítima, com vista à obtenção de provas em fase de inquérito, a prática de actos de colaboração ou instrumentais relativamente aos crimes previstos no n.º 1 do artigo 1.º do presente diploma.\n\n2 - Os actos referidos no número anterior dependem sempre da prévia autorização da autoridade judiciária competente."
+  },
+  "176314904": {
+   "fragment_id": "176313129",
+   "type": 11,
+   "heading": "Artigo 7.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dever de sigilo\n\n1 - Quem desempenhar qualquer actividade no âmbito da competência da Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras fica vinculado ao dever de absoluto sigilo em relação aos factos de que tenha tomado conhecimento no exercício das funções de prevenção referidas no artigo 1.º\n\n2 - O dever de sigilo é extensivo à identificação de cidadãos que forneçam quaisquer elementos informativos com relevância para a actividade preventiva da Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras ou que a esta prestem qualquer outro tipo de colaboração.\n\n3 - O disposto no número anterior cessa com a instauração do procedimento criminal."
+  },
+  "176314905": {
+   "fragment_id": "176313130",
+   "type": 11,
+   "heading": "Artigo 8.º — Atenuação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Atenuação especial\n\nNos crimes previstos no artigo 1.º, n.º 1, alíneas a) e e), a pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis."
+  },
+  "176314906": {
+   "fragment_id": "176313131",
+   "type": 11,
+   "heading": "Artigo 9.º — Suspensão provisória do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Suspensão provisória do processo\n\n1 - No crime de corrupção activa, o Ministério Público, com a concordância do juiz de instrução, pode suspender provisoriamente o processo, mediante a imposição ao arguido de injunções e regras de conduta, se se verificarem cumulativamente os seguintes pressupostos:\n\na) Concordância do arguido;\n\nb) Ter o arguido denunciado o crime ou contribuído decisivamente para a descoberta da verdade;\n\nc) Ser de prever que o cumprimento das injunções e regras de conduta responda suficientemente às exigências de prevenção que no caso se façam sentir.\n\n2 - É correspondentemente aplicável o disposto nos artigos 281.º, n.os 2 a 5, e 282.º do Código de Processo Penal."
+  },
+  "176314907": {
+   "fragment_id": "176313132",
+   "type": 11,
+   "heading": "Artigo 10.º — Alterações ao Decreto-Lei n.º 295-A/90",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alterações ao Decreto-Lei n.º 295-A/90\n\nOs artigos 4.º, 18.º e 30.º do Decreto-Lei n.º 295-A/90, de 21 de Setembro, passam a ter a seguinte redacção:\n\nArtigo 4.º\n\nCompetência\n\n1 - Presume-se deferida à Polícia Judiciária em todo o território a competência exclusiva para a investigação dos seguintes crimes:\n\na) Tráfico de estupefacientes e de substâncias psicotrópicas;\n\nb) Falsificação de moeda, títulos de crédito, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\nc) Fraude na obtenção ou desvio de subsídio, subvenção ou crédito;\n\nd) Corrupção, peculato e participação económica em negócio;\n\ne) Administração danosa em unidade económica do sector público;\n\nf) Infracções económico-financeiras cometidas de forma organizada com recurso à tecnologia informática;\n\ng) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nh) Em conexão com os crimes referidos nas alíneas c), d), e), f) e g);\n\ni) Organizações terroristas e terrorismo;\n\nj) Contra a segurança do Estado, com excepção dos que respeitem à mutilação para isenção de serviço militar e à emigração para dele se subtrair, assim como dos relativos ao processo eleitoral;\n\nl) Participação em motim armado;\n\nm) Captura ou perturbação dos serviços de transporte por ar, água e caminho de ferro;\n\nn) Contra a paz e a Humanidade;\n\no) Escravidão, sequestro e rapto ou tomada de reféns;\n\np) Roubo em instituições de crédito ou repartições da Fazenda Pública;\n\nq) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo proibidas e objectos armadilhados;\n\nr) Homicídio voluntário, desde que o agente não seja conhecido;\n\ns) Furto de coisa móvel que tenha valor científico, artístico ou histórico e que se encontre em colecções públicas ou em local acessível ao público, que possua elevada significação no desenvolvimento tecnológico ou económico ou que, pela sua natureza, seja substância altamente perigosa;\n\nt) Associações criminosas;\n\nu) Incêndio, explosão, exposição de pessoas a substâncias radioactivas e libertação de gases tóxicos ou asfixiantes, desde que, em qualquer caso, o facto seja imputável a título de dolo;\n\nv) Tráfico de veículos furtados ou roubados e viciação dos respectivos elementos identificadores;\n\nx) Falsificação de cartas de condução, livretes e títulos de propriedade de veículos automóveis, de certificados de habilitações literárias, de passaportes e de bilhetes de identidade.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 18.º\n\nComposição da Directoria-Geral\n\nA Directoria-Geral compreende:\n\na) O director-geral;\n\nb) O Conselho Superior de Polícia;\n\nc) A Direcção Central do Combate ao Banditismo;\n\nd) A Direcção Central de Investigação do Tráfico de Estupefacientes;\n\ne) A Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras;\n\nf) O Departamento Central de Registo de Informações e Prevenção Criminal;\n\ng) O Laboratório de Polícia Científica;\n\nh) O Gabinete Nacional de Interpol;\n\ni) O Departamento de Telecomunicações;\n\nj) O Departamento de Organização e Informática;\n\nl) O Departamento de Informação Pública e Documentação;\n\nm) O Gabinete Técnico Disciplinar;\n\nn) Os Serviços de Equipamento, Armamento e Segurança;\n\no) O Gabinete de Planeamento;\n\np) O Gabinete de Apoio Técnico;\n\nq) O Departamento de Recursos Humanos;\n\nr) O Departamento de Apoio Geral;\n\ns) O Conselho Administrativo;\n\nt) O Departamento de Perícia Financeira e Contabilística.\n\nArtigo 30.º\n\nCompetência da Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras\n\nCompete à Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras, em todo o território nacional, a investigação dos seguintes crimes:\n\na) Corrupção, peculato e participação económica em negócio;\n\nb) Administração danosa em unidade económica do sector público;\n\nc) Fraude na obtenção ou desvio de subsídio, subvenção ou crédito;\n\nd) Infracções económico-financeiras cometidas de forma organizada, em recurso à tecnologia informática;\n\ne) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nf) Em conexão com os crimes referidos nas alíneas anteriores."
+  },
+  "176314908": {
+   "fragment_id": "176313133",
+   "type": 11,
+   "heading": "Artigo 11.º — Aditamento ao Decreto-Lei n.º 295-A/90",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aditamento ao Decreto-Lei n.º 295-A/90\n\nÉ aditado ao Decreto-Lei nº 295-A/90, de 21 de Setembro, o artigo 30.º-A, com a seguinte redacção:\n\nArtigo 30.º-A\n\nCompetência do Departamento de Perícia Financeira e Contabilística\n\n1 - Compete ao Departamento de Perícia Financeira e Contabilística a elaboração de pareceres e a realização de perícias contabilísticas, financeiras, económicas e bancárias.\n\n2 - Compete ainda a este Departamento coadjuvar as autoridades judiciárias, cabendo-lhe prestar a assessoria técnica que lhe seja solicitada nas fases de inquérito, de instrução e de julgamento.\n\n3 - O Departamento de Perícia Financeira e Contabilística goza de autonomia técnica e científica."
+  },
+  "176314909": {
+   "fragment_id": "176313134",
+   "type": 11,
+   "heading": "Artigo 12.º — Requisição ou destacamento de funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisição ou destacamento de funcionários\n\nNo caso de avocação de processos pelo Ministério Público, pode o Procurador-Geral da República, tendo em conta a disponibilidade de meios, solicitar, por intermédio do Ministro da Justiça, a requisição ou o destacamento de funcionários da investigação criminal da Polícia Judiciária."
+  },
+  "176314910": {
+   "fragment_id": "176313135",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nA estrutura, composição, recrutamento e formação do pessoal a prover na Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras e no Departamento de Perícia Financeira e Contabilística, a que se refere o artigo 18.º do Decreto-Lei n.º 295-A/90, de 21 de Setembro, com a redacção dada pelo presente diploma, serão objecto de regulamentação posterior."
+  },
+  "176314911": {
+   "fragment_id": "176313136",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito subsidiário\n\nEm tudo o que não estiver especialmente regulado no presente diploma são aplicáveis subsidiariamente as disposições do Código de Processo Penal ou do Decreto-Lei n.º 295-A/90, de 21 de Setembro."
+  },
+  "176314912": {
+   "fragment_id": "176313137",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor 90 dias após a sua publicação."
+  },
+  "176314953": {
+   "fragment_id": "176313127",
+   "type": 11,
+   "heading": "Artigo 5.º — Quebra de segredo",
+   "in_force_from": "1999-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+   ],
+   "markdown": "###### Artigo 5.º — Quebra de segredo\n\n1 - Nas fases de inquérito, instrução e julgamento de processos relativos aos crimes previstos no n.º 1 do artigo 1.º o segredo profissional dos membros dos órgãos sociais das instituições de crédito e sociedades financeiras, dos seus empregados e pessoas que a elas prestem serviço, bem como o segredo dos funcionários da administração fiscal, cedem se houver razões para crer que as respectivas informações e documentos são de grande interesse para a descoberta da verdade ou para a prova.\n\n2 - Para efeitos do presente diploma, o disposto no número anterior depende unicamente, consoante os casos, de autorização ou ordem do juiz, em despacho fundamentado.\n\n3 - O despacho a que se refere o número anterior identifica as pessoas abrangidas pela medida, bem como as informações que devam ser prestadas ou documentos que devam ser entregues à autoridade judiciária ou ao órgão de polícia criminal, e pode assumir forma genérica em relação a cada um dos sujeitos abrangidos.\n\n4 - As pessoas a que se refere o n.º 1 são obrigadas a não obstruir a apreensão e, quando devidamente notificadas para o efeito, a fornecer à autoridade judiciária as informações e documentos mencionados no número anterior, no prazo fixado.\n\n5 - Se as instituições de crédito ou as sociedades financeiras que devam prestar as informações ou apresentar os documentos em conformidade com o disposto nos n.os 1 e 2 não estiverem previamente identificadas, o juiz pode solicitar ao Banco de Portugal que proceda à pronta difusão do pedido, comunicando-lhe, para o efeito, os dados de que disponha relativamente às pessoas, informações e documentos que possam ser abrangidos pela medida.\n\n6 - As instituições de crédito e as sociedades financeiras são obrigadas a fornecer, em adequado prazo estabelecido pelo juiz, às autoridades judiciárias ou aos órgãos de polícia criminal designados as indicações solicitadas nos termos do disposto no presente artigo.\n\n7 - Sem prejuízo do disposto no artigo 367.º do Código Penal, a obstrução à apreensão, a não prestação de informações, a não entrega de documentos ou a entrega de informações ou documentos falsos, em violação do disposto nos números anteriores, são puníveis nos termos do artigo 360.º do mesmo diploma.\n\n8 - Os documentos que o juiz considerar que não interessam ao processo serão devolvidos à entidade que os forneceu ou destruídos, quando se não trate de originais, lavrando-se o respectivo auto. Todos os intervenientes nas operações referidas nos números anteriores ficam sujeitos ao dever de segredo, relativamente àquilo de que tenham tomado conhecimento.\n\n9 - É correspondentemente aplicável o disposto no artigo 86.º, n.º 3, do Código de Processo Penal.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+  },
+  "176314945": {
+   "fragment_id": "176313172",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Dispensa de pena",
+   "in_force_from": "1999-07-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+   ],
+   "markdown": "###### Artigo 9.º-A — Dispensa de pena\n\n1 - Nos casos de corrupção activa previstos no artigo 374.º, n.º 1, do Código Penal, o agente é dispensado de pena sempre que:\n\na) Tiver praticado o acto a solicitação do funcionário, directamente ou por interposta pessoa;\n\nb) Tiver denunciado o crime no prazo máximo de 30 dias e antes da instauração do processo crime; e\n\nc) Tiver contribuído decisivamente para a descoberta da verdade.\n\n2 - Nos casos de corrupção activa previstos no n.º 2 do mesmo preceito, o agente é igualmente dispensado de pena se tiver denunciado o crime e contribuído decisivamente para a descoberta da verdade.\n\n3 - É correspondentemente aplicável o disposto no artigo 280.º do Código de Processo Penal.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+  },
+  "176314946": {
+   "fragment_id": "176313132",
+   "type": 11,
+   "heading": "Artigo 10.º — Alterações ao Decreto-Lei n.º 295-A/90",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alterações ao Decreto-Lei n.º 295-A/90\n\nOs artigos 4.º, 18.º e 30.º do Decreto-Lei n.º 295-A/90, de 21 de Setembro, passam a ter a seguinte redacção:\n\nArtigo 4.º\n\nCompetência\n\n1 - Presume-se deferida à Polícia Judiciária em todo o território a competência exclusiva para a investigação dos seguintes crimes:\n\na) Tráfico de estupefacientes e de substâncias psicotrópicas;\n\nb) Falsificação de moeda, títulos de crédito, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\nc) Fraude na obtenção ou desvio de subsídio, subvenção ou crédito;\n\nd) Corrupção, peculato e participação económica em negócio;\n\ne) Administração danosa em unidade económica do sector público;\n\nf) Infracções económico-financeiras cometidas de forma organizada com recurso à tecnologia informática;\n\ng) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nh) Em conexão com os crimes referidos nas alíneas c), d), e), f) e g);\n\ni) Organizações terroristas e terrorismo;\n\nj) Contra a segurança do Estado, com excepção dos que respeitem à mutilação para isenção de serviço militar e à emigração para dele se subtrair, assim como dos relativos ao processo eleitoral;\n\nl) Participação em motim armado;\n\nm) Captura ou perturbação dos serviços de transporte por ar, água e caminho de ferro;\n\nn) Contra a paz e a Humanidade;\n\no) Escravidão, sequestro e rapto ou tomada de reféns;\n\np) Roubo em instituições de crédito ou repartições da Fazenda Pública;\n\nq) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo proibidas e objectos armadilhados;\n\nr) Homicídio voluntário, desde que o agente não seja conhecido;\n\ns) Furto de coisa móvel que tenha valor científico, artístico ou histórico e que se encontre em colecções públicas ou em local acessível ao público, que possua elevada significação no desenvolvimento tecnológico ou económico ou que, pela sua natureza, seja substância altamente perigosa;\n\nt) Associações criminosas;\n\nu) Incêndio, explosão, exposição de pessoas a substâncias radioactivas e libertação de gases tóxicos ou asfixiantes, desde que, em qualquer caso, o facto seja imputável a título de dolo;\n\nv) Tráfico de veículos furtados ou roubados e viciação dos respectivos elementos identificadores;\n\nx) Falsificação de cartas de condução, livretes e títulos de propriedade de veículos automóveis, de certificados de habilitações literárias, de passaportes e de bilhetes de identidade.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 18.º\n\nComposição da Directoria-Geral\n\nA Directoria-Geral compreende:\n\na) O director-geral;\n\nb) O Conselho Superior de Polícia;\n\nc) A Direcção Central do Combate ao Banditismo;\n\nd) A Direcção Central de Investigação do Tráfico de Estupefacientes;\n\ne) A Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras;\n\nf) O Departamento Central de Registo de Informações e Prevenção Criminal;\n\ng) O Laboratório de Polícia Científica;\n\nh) O Gabinete Nacional de Interpol;\n\ni) O Departamento de Telecomunicações;\n\nj) O Departamento de Organização e Informática;\n\nl) O Departamento de Informação Pública e Documentação;\n\nm) O Gabinete Técnico Disciplinar;\n\nn) Os Serviços de Equipamento, Armamento e Segurança;\n\no) O Gabinete de Planeamento;\n\np) O Gabinete de Apoio Técnico;\n\nq) O Departamento de Recursos Humanos;\n\nr) O Departamento de Apoio Geral;\n\ns) O Conselho Administrativo;\n\nt) O Departamento de Perícia Financeira e Contabilística.\n\nArtigo 30.º\n\nCompetência da Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras\n\nCompete à Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras, em todo o território nacional, a investigação dos seguintes crimes:\n\na) Corrupção, peculato e participação económica em negócio;\n\nb) Administração danosa em unidade económica do sector público;\n\nc) Fraude na obtenção ou desvio de subsídio, subvenção ou crédito;\n\nd) Infracções económico-financeiras cometidas de forma organizada, em recurso à tecnologia informática;\n\ne) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nf) Em conexão com os crimes referidos nas alíneas anteriores."
+  },
+  "176314947": {
+   "fragment_id": "176313133",
+   "type": 11,
+   "heading": "Artigo 11.º — Aditamento ao Decreto-Lei n.º 295-A/90",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aditamento ao Decreto-Lei n.º 295-A/90\n\nÉ aditado ao Decreto-Lei nº 295-A/90, de 21 de Setembro, o artigo 30.º-A, com a seguinte redacção:\n\nArtigo 30.º-A\n\nCompetência do Departamento de Perícia Financeira e Contabilística\n\n1 - Compete ao Departamento de Perícia Financeira e Contabilística a elaboração de pareceres e a realização de perícias contabilísticas, financeiras, económicas e bancárias.\n\n2 - Compete ainda a este Departamento coadjuvar as autoridades judiciárias, cabendo-lhe prestar a assessoria técnica que lhe seja solicitada nas fases de inquérito, de instrução e de julgamento.\n\n3 - O Departamento de Perícia Financeira e Contabilística goza de autonomia técnica e científica."
+  },
+  "176314948": {
+   "fragment_id": "176313134",
+   "type": 11,
+   "heading": "Artigo 12.º — Requisição ou destacamento de funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisição ou destacamento de funcionários\n\nNo caso de avocação de processos pelo Ministério Público, pode o Procurador-Geral da República, tendo em conta a disponibilidade de meios, solicitar, por intermédio do Ministro da Justiça, a requisição ou o destacamento de funcionários da investigação criminal da Polícia Judiciária."
+  },
+  "176314949": {
+   "fragment_id": "176313135",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nA estrutura, composição, recrutamento e formação do pessoal a prover na Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económicas e Financeiras e no Departamento de Perícia Financeira e Contabilística, a que se refere o artigo 18.º do Decreto-Lei n.º 295-A/90, de 21 de Setembro, com a redacção dada pelo presente diploma, serão objecto de regulamentação posterior."
+  },
+  "176314950": {
+   "fragment_id": "176313136",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito subsidiário\n\nEm tudo o que não estiver especialmente regulado no presente diploma são aplicáveis subsidiariamente as disposições do Código de Processo Penal ou do Decreto-Lei n.º 295-A/90, de 21 de Setembro."
+  },
+  "176314951": {
+   "fragment_id": "176313137",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor 90 dias após a sua publicação."
+  },
+  "176314952": {
+   "fragment_id": "176313138",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 24 de Fevereiro de 1994.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 5 de Setembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 9 de Setembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "176314954": {
+   "fragment_id": "176313128",
+   "type": 11,
+   "heading": "Artigo 6.º — Actos de colaboração ou instrumentais",
+   "in_force_from": "2001-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 101/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei/101-2001-515636), em vigor a partir de 2001-08-30"
+   ],
+   "markdown": "###### Artigo 6.º — Actos de colaboração ou instrumentais\n\n1 - É legítima, com vista à obtenção de provas em fase de inquérito, a prática de actos de colaboração ou instrumentais relativamente aos crimes previstos no n.º 1 do artigo 1.º do presente diploma.\n\n2 - Os actos referidos no número anterior dependem sempre da prévia autorização da autoridade judiciária competente.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 101/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei/101-2001-515636), em vigor a partir de 2001-08-30"
+  },
+  "176314955": {
+   "fragment_id": "176313127",
+   "type": 11,
+   "heading": "Artigo 5.º — Quebra de segredo",
+   "in_force_from": "2002-02-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Lei n.º 5/2002 - Diário da República n.º 9/2002, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/lei/5-2002-583017), em vigor a partir de 2002-02-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+   ],
+   "markdown": "###### Artigo 5.º — Quebra de segredo\n\n1 - Nas fases de inquérito, instrução e julgamento de processos relativos aos crimes previstos no n.º 1 do artigo 1.º o segredo profissional dos membros dos órgãos sociais das instituições de crédito e sociedades financeiras, dos seus empregados e pessoas que a elas prestem serviço, bem como o segredo dos funcionários da administração fiscal, cedem se houver razões para crer que as respectivas informações e documentos são de grande interesse para a descoberta da verdade ou para a prova.\n\n2 - Para efeitos do presente diploma, o disposto no número anterior depende unicamente, consoante os casos, de autorização ou ordem do juiz, em despacho fundamentado.\n\n3 - O despacho a que se refere o número anterior identifica as pessoas abrangidas pela medida, bem como as informações que devam ser prestadas ou documentos que devam ser entregues à autoridade judiciária ou ao órgão de polícia criminal, e pode assumir forma genérica em relação a cada um dos sujeitos abrangidos.\n\n4 - As pessoas a que se refere o n.º 1 são obrigadas a não obstruir a apreensão e, quando devidamente notificadas para o efeito, a fornecer à autoridade judiciária as informações e documentos mencionados no número anterior, no prazo fixado.\n\n5 - Se as instituições de crédito ou as sociedades financeiras que devam prestar as informações ou apresentar os documentos em conformidade com o disposto nos n.os 1 e 2 não estiverem previamente identificadas, o juiz pode solicitar ao Banco de Portugal que proceda à pronta difusão do pedido, comunicando-lhe, para o efeito, os dados de que disponha relativamente às pessoas, informações e documentos que possam ser abrangidos pela medida.\n\n6 - As instituições de crédito e as sociedades financeiras são obrigadas a fornecer, em adequado prazo estabelecido pelo juiz, às autoridades judiciárias ou aos órgãos de polícia criminal designados as indicações solicitadas nos termos do disposto no presente artigo.\n\n7 - Sem prejuízo do disposto no artigo 367.º do Código Penal, a obstrução à apreensão, a não prestação de informações, a não entrega de documentos ou a entrega de informações ou documentos falsos, em violação do disposto nos números anteriores, são puníveis nos termos do artigo 360.º do mesmo diploma.\n\n8 - Os documentos que o juiz considerar que não interessam ao processo serão devolvidos à entidade que os forneceu ou destruídos, quando se não trate de originais, lavrando-se o respectivo auto. Todos os intervenientes nas operações referidas nos números anteriores ficam sujeitos ao dever de segredo, relativamente àquilo de que tenham tomado conhecimento.\n\n9 - É correspondentemente aplicável o disposto no artigo 86.º, n.º 3, do Código de Processo Penal.\n\n> Revogado pelo/a Artigo 15.º do/a [Lei n.º 5/2002 - Diário da República n.º 9/2002, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/lei/5-2002-583017), em vigor a partir de 2002-02-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+  },
+  "176314956": {
+   "fragment_id": "176313172",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Dispensa de pena",
+   "in_force_from": "2011-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 32/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/32-2010-344253), em vigor a partir de 2011-03-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+   ],
+   "markdown": "###### Artigo 9.º-A — Dispensa de pena\n\n1 - Nos casos de corrupção activa previstos no artigo 374.º, n.º 1, do Código Penal, o agente é dispensado de pena sempre que:\n\na) Tiver praticado o acto a solicitação do funcionário, directamente ou por interposta pessoa;\n\nb) Tiver denunciado o crime no prazo máximo de 30 dias e antes da instauração do processo crime; e\n\nc) Tiver contribuído decisivamente para a descoberta da verdade.\n\n2 - Nos casos de corrupção activa previstos no n.º 2 do mesmo preceito, o agente é igualmente dispensado de pena se tiver denunciado o crime e contribuído decisivamente para a descoberta da verdade.\n\n3 - É correspondentemente aplicável o disposto no artigo 280.º do Código de Processo Penal.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 32/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/32-2010-344253), em vigor a partir de 2011-03-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 90/99 - Diário da República n.º 159/1999, Série I-A de 1999-07-10](https://diariodarepublica.pt/dr/detalhe/lei/90-1999-375452), em vigor a partir de 1999-07-15"
+  },
+  "176314957": {
+   "fragment_id": "176313123",
+   "type": 11,
+   "heading": "Artigo 1.º — Acções de prevenção",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+   ],
+   "markdown": "###### Artigo 1.º — Acções de prevenção\n\n1 - Compete ao Ministério Público e à Polícia Judiciária, através da Unidade Nacional de Combate à Corrupção, realizar, sem prejuízo da competência de outras autoridades, ações de prevenção relativas aos seguintes crimes:\n\na) Recebimento ou oferta indevidos de vantagem, corrupção, peculato e participação económica em negócio;\n\nb) Administração danosa em unidade económica do sector público;\n\nc) Fraude na obtenção ou desvio de subsídio, subvenção ou crédito;\n\nd) Infracções económico-financeiras cometidas de forma organizada, com recurso à tecnologia informática;\n\ne) Infracções económico-financeiras de dimensão internacional ou transnacional.\n\n2 - A Polícia Judiciária realiza as acções previstas no número anterior por iniciativa própria ou do Ministério Público.\n\n3 - As acções de prevenção previstas no n.º 1 compreendem, designadamente:\n\na) A recolha de informação relativamente a notícias de factos susceptíveis de fundamentar suspeitas do perigo da prática de um crime;\n\nb) A solicitação de inquéritos, sindicâncias, inspecções e outras diligências que se revelem necessárias e adequadas à averiguação da conformidade de determinados actos ou procedimentos administrativos, no âmbito das relações entre a Administração Pública e as entidades privadas;\n\nc) A proposta de medidas susceptíveis de conduzirem à diminuição da corrupção e da criminalidade económica e financeira.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+  },
+  "176314958": {
+   "fragment_id": "176313124",
+   "type": 11,
+   "heading": "Artigo 2.º — Dever de documentação e de informação",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+   ],
+   "markdown": "###### Artigo 2.º — Dever de documentação e de informação\n\n1 - Os procedimentos a adoptar pelo Ministério Público e pela Polícia Judiciária no âmbito das competências a que se refere o artigo anterior são sempre documentados e não podem ofender os direitos, liberdades e garantias dos cidadãos.\n\n2 - São vedadas ao Ministério Público, à Polícia Judiciária e às demais autoridades referidas no n.º 1 do artigo anterior a adoção ou a prática de quaisquer atos ou procedimentos que a lei processual penal expressamente reserve ao juiz de instrução ou faça depender de sua ordem ou autorização.\n\n3 - Para análise e acompanhamento, o director-geral da Polícia Judiciária informa, mensalmente, o Procurador-Geral da República dos procedimentos iniciados no âmbito da prevenção a que se refere o artigo anterior.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+  },
+  "176314959": {
+   "fragment_id": "176313130",
+   "type": 11,
+   "heading": "Artigo 8.º — Atenuação especial",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+   ],
+   "markdown": "###### Artigo 8.º — Atenuação especial\n\nNos crimes de peculato e participação económica em negócio, bem como nas infrações previstas na alínea e) do n.º 1 do artigo 1.º, a pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade, contribuindo de forma relevante para a prova dos factos.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+  },
+  "176314960": {
+   "fragment_id": "176313131",
+   "type": 11,
+   "heading": "Artigo 9.º — Suspensão provisória do processo",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+   ],
+   "markdown": "###### Artigo 9.º — Suspensão provisória do processo\n\n1 - No crime de corrupção ativa ou de oferta indevida de vantagem, o Ministério Público, oficiosamente ou a requerimento do arguido, determina, com a concordância do juiz de instrução, a suspensão do processo, mediante a imposição ao arguido de injunções e regras de conduta, sempre que se verificarem os seguintes pressupostos:\n\na) Concordância do arguido;\n\nb) Ter o arguido contribuído decisivamente para a descoberta da verdade;\n\nc) Ser de prever que o cumprimento das injunções e regras de conduta responda suficientemente às exigências de prevenção que no caso se façam sentir.\n\n2 - É correspondentemente aplicável o disposto na alínea e) do n.º 1 do artigo 268.º, nos n.os 2, 5, 6 e 7 do artigo 281.º e nos n.os 1 a 4 do artigo 282.º do Código de Processo Penal.\n\n3 - Sem prejuízo do disposto no n.º 2 do artigo 281.º do Código de Processo Penal, é oponível à arguida que seja pessoa coletiva ou entidade equiparada a injunção de adotar ou implementar programa de cumprimento normativo adequado a prevenir a prática de crimes de recebimento ou oferta indevidos de vantagem ou de corrupção.\n\n4 - O disposto nos números anteriores é correspondentemente aplicável na fase de instrução.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21"
+  }
+ }
+}

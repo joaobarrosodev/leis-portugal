@@ -1,0 +1,488 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:117638814:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-117821825",
+ "dre_path": "/dr/detalhe/portaria/7-2019-117638814",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-01-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167361154",
+    "117752714",
+    "117752715",
+    "117752716",
+    "117752717",
+    "117752718",
+    "117752719",
+    "117752720",
+    "117752721",
+    "117752722",
+    "117752723",
+    "117752724",
+    "117752725",
+    "117752726",
+    "117752727",
+    "117752728",
+    "117752729",
+    "117752730"
+   ]
+  },
+  {
+   "date": "2019-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122145255:por",
+     "title": "Portaria n.º 120/2019",
+     "published": "2019-04-22",
+     "dre_path": "/dr/detalhe/portaria/120-2019-122145255"
+    }
+   ],
+   "changes": [
+    "Revoga Anexo I",
+    "Revoga Anexo II",
+    "Revoga Anexo III",
+    "Revoga Anexo IV",
+    "Revoga Anexo V"
+   ],
+   "fragments": [
+    "117752713",
+    "117752714",
+    "117752715",
+    "117752716",
+    "117752717",
+    "117752718",
+    "122117856",
+    "122117857",
+    "122117858",
+    "122117859",
+    "122160375",
+    "117752724",
+    "117752725",
+    "117752726",
+    "117752727",
+    "117752728",
+    "117752729",
+    "117752730"
+   ]
+  },
+  {
+   "date": "2021-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167359765:por",
+     "title": "Portaria n.º 150/2021",
+     "published": "2021-07-16",
+     "dre_path": "/dr/detalhe/portaria/150-2021-167359765"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "167361154",
+    "167361155",
+    "167361156",
+    "167361157",
+    "167361158",
+    "167361159",
+    "167361160",
+    "167361161",
+    "167361162",
+    "167361163",
+    "167361164",
+    "167361165",
+    "167361166",
+    "167361167",
+    "167361168",
+    "167361169",
+    "167361170",
+    "167361171"
+   ]
+  }
+ ],
+ "fragments": {
+  "167361154": {
+   "fragment_id": "117821826",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-07-17",
+   "changed_by": [],
+   "markdown": "Portaria n.º 7/2019\n\nde 8 de janeiro\n\nConsiderando as alterações introduzidas no Regime Jurídico do Recenseamento Eleitoral pela Lei n.º 47/2018, de 13 de agosto, designadamente a eliminação do número de eleitor, impõe-se a adaptação à nova realidade dos modelos de cadernos eleitorais, bem como outros impressos complementares necessários à gestão do recenseamento eleitoral, aprovados pela Portaria n.º 1295/2008, de 11 de novembro, ao abrigo do estabelecido no n.º 1 do artigo 103.º da Lei n.º 13/99, de 22 de março, na redação que lhe foi dada pela Lei n.º 47/2008, de 27 de agosto.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado Adjunta e da Administração Interna, nos termos do Despacho n.º 10673/2017, de 16 de novembro, publicado no Diário da República, 2.ª série, n.º 235, de 7 de dezembro de 2017, ao abrigo do disposto no n.º 1 do artigo 103.º da Lei n.º 13/99, de 22 de março, alterada e republicada pela Lei n.º 47/2018, de 13 de agosto, o seguinte:"
+  },
+  "117752714": {
+   "fragment_id": "117821827",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados os modelos dos cadernos eleitorais e demais impressos complementares necessários à gestão do recenseamento eleitoral."
+  },
+  "117752715": {
+   "fragment_id": "117821828",
+   "type": 11,
+   "heading": "Artigo 2.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais são organizados por ordem alfabética, mantendo-se o universo de cada posto de recenseamento.\n\n2 - São aprovados os modelos de folha intercalar dos cadernos eleitorais, que integram os anexos I a V da presente portaria, dela fazendo parte integrante, nos seguintes termos:\n\na) Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional, constante do Anexo I;\n\nb) Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE, constante do Anexo II;\n\nc) Folha intercalar de caderno eleitoral para eleitores nacionais residentes no estrangeiro em país fora da UE, constante do Anexo III;\n\nd) Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da UE, constante do Anexo IV;\n\ne) Folha intercalar de caderno eleitoral para outros eleitores estrangeiros, constante do Anexo V."
+  },
+  "117752716": {
+   "fragment_id": "117821829",
+   "type": 11,
+   "heading": "Artigo 3.º — Modelos de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modelos de documentos\n\nSão aprovados os modelos de documentos necessários à gestão do recenseamento eleitoral, em anexo à presente portaria, dela fazendo parte integrante:\n\na) Certidão de eleitor, constante do Anexo VI;\n\nb) Certidão a emitir pelas entidades recenseadoras no estrangeiro, constante do Anexo VII;\n\nc) Ficha do eleitor nacional residente em território nacional, constante do Anexo VIII;\n\nd) Ficha do eleitor nacional residente em outro país da UE, constante do Anexo IX;\n\ne) Ficha do eleitor nacional residente no estrangeiro em país fora da UE, constante do Anexo X;\n\nf) Ficha do eleitor nacional de outro país da UE, residente em Portugal, constante do Anexo XI;\n\ng) Ficha do eleitor estrangeiro, nacional de país fora da UE, residente em Portugal, constante do Anexo XII."
+  },
+  "117752717": {
+   "fragment_id": "117821830",
+   "type": 11,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\nÉ revogada a Portaria n.º 1295/2008, de 11 de novembro."
+  },
+  "117752718": {
+   "fragment_id": "117821831",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nA Secretária de Estado Adjunta e da Administração Interna, Maria Isabel Solnado Porto Oneto, em 28 de dezembro de 2018."
+  },
+  "117752719": {
+   "fragment_id": "117821832",
+   "type": 14,
+   "heading": "Anexo I — Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional\n\n[a que se refere a alínea a) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "117752720": {
+   "fragment_id": "117821833",
+   "type": 14,
+   "heading": "Anexo II — Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE\n\n[a que se refere a alínea b) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "117752721": {
+   "fragment_id": "117821834",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\nFolha intercalar de caderno eleitoral para eleitores nacionais residentes no estrangeiro em país fora da EU\n\n[a que se refere a alínea c) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "117752722": {
+   "fragment_id": "117821835",
+   "type": 14,
+   "heading": "Anexo IV — Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da EU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da EU\n\n[a que se refere a alínea d) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "117752723": {
+   "fragment_id": "117821836",
+   "type": 14,
+   "heading": "Anexo V — Folha intercalar de caderno eleitoral para outros eleitores estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Folha intercalar de caderno eleitoral para outros eleitores estrangeiros\n\n[a que se refere a alínea e) do artigo 2.º]\n\n(ver documento original)"
+  },
+  "117752724": {
+   "fragment_id": "117821837",
+   "type": 14,
+   "heading": "Anexo VI — Certidão de eleitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Certidão de eleitor\n\n[a que se refere a alínea a) do artigo 3.º]\n\n(ver documento original)"
+  },
+  "117752725": {
+   "fragment_id": "117821838",
+   "type": 14,
+   "heading": "Anexo VII — Certidão a emitir pelas entidades recenseadoras no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Certidão a emitir pelas entidades recenseadoras no estrangeiro\n\n[a que se refere a alínea b) do artigo 3.º]\n\n(ver documento original)"
+  },
+  "117752726": {
+   "fragment_id": "117821839",
+   "type": 14,
+   "heading": "Anexo VIII — Ficha do eleitor nacional residente em território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — Ficha do eleitor nacional residente em território nacional\n\n[a que se refere a alínea c) do artigo 3.º]\n\n(ver documento original)"
+  },
+  "117752727": {
+   "fragment_id": "117821840",
+   "type": 14,
+   "heading": "Anexo IX — Ficha do eleitor nacional residente em outro país da EU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — Ficha do eleitor nacional residente em outro país da EU\n\n[a que se refere a alínea d) do artigo 3.º]\n\n(ver documento original)"
+  },
+  "117752728": {
+   "fragment_id": "117821841",
+   "type": 14,
+   "heading": "Anexo X — Ficha do eleitor nacional residente no estrangeiro em país fora da EU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — Ficha do eleitor nacional residente no estrangeiro em país fora da EU\n\n[a que se refere a alínea e) do artigo 3.º]\n\n(ver documento original)"
+  },
+  "117752729": {
+   "fragment_id": "117821842",
+   "type": 14,
+   "heading": "Anexo XI — Ficha do eleitor nacional de outro país da UE, residente em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XI — Ficha do eleitor nacional de outro país da UE, residente em Portugal\n\n[a que se refere a alínea f) do artigo 3.º]\n\n(ver documento original)"
+  },
+  "117752730": {
+   "fragment_id": "117821843",
+   "type": 14,
+   "heading": "Anexo XII — Ficha do eleitor estrangeiro, nacional de país fora da UE, residente em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XII — Ficha do eleitor estrangeiro, nacional de país fora da UE, residente em Portugal\n\n[a que se refere a alínea g) do artigo 3.º]\n\n(ver documento original)\n\n111950516"
+  },
+  "117752713": {
+   "fragment_id": "117821826",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 7/2019\n\nde 8 de janeiro\n\nConsiderando as alterações introduzidas no Regime Jurídico do Recenseamento Eleitoral pela Lei n.º 47/2018, de 13 de agosto, designadamente a eliminação do número de eleitor, impõe-se a adaptação à nova realidade dos modelos de cadernos eleitorais, bem como outros impressos complementares necessários à gestão do recenseamento eleitoral, aprovados pela Portaria n.º 1295/2008, de 11 de novembro, ao abrigo do estabelecido no n.º 1 do artigo 103.º da Lei n.º 13/99, de 22 de março, na redação que lhe foi dada pela Lei n.º 47/2008, de 27 de agosto.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado Adjunta e da Administração Interna, nos termos do Despacho n.º 10673/2017, de 16 de novembro, publicado no Diário da República, 2.ª série, n.º 235, de 7 de dezembro de 2017, ao abrigo do disposto no n.º 1 do artigo 103.º da Lei n.º 13/99, de 22 de março, alterada e republicada pela Lei n.º 47/2018, de 13 de agosto, o seguinte:"
+  },
+  "122117856": {
+   "fragment_id": "117821832",
+   "type": 14,
+   "heading": "Anexo I — Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional",
+   "in_force_from": "2019-04-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo I — Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional\n\n[a que se refere a alínea a) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "122117857": {
+   "fragment_id": "117821833",
+   "type": 14,
+   "heading": "Anexo II — Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE",
+   "in_force_from": "2019-04-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo II — Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE\n\n[a que se refere a alínea b) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "122117858": {
+   "fragment_id": "117821834",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": "2019-04-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo III\n\nFolha intercalar de caderno eleitoral para eleitores nacionais residentes no estrangeiro em país fora da EU\n\n[a que se refere a alínea c) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "122117859": {
+   "fragment_id": "117821835",
+   "type": 14,
+   "heading": "Anexo IV — Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da EU",
+   "in_force_from": "2019-04-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo IV — Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da EU\n\n[a que se refere a alínea d) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "122160375": {
+   "fragment_id": "117821836",
+   "type": 14,
+   "heading": "Anexo V — Folha intercalar de caderno eleitoral para outros eleitores estrangeiros",
+   "in_force_from": "2019-04-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo V — Folha intercalar de caderno eleitoral para outros eleitores estrangeiros\n\n[a que se refere a alínea e) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "167361155": {
+   "fragment_id": "117821827",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados os modelos dos cadernos eleitorais e demais impressos complementares necessários à gestão do recenseamento eleitoral.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361156": {
+   "fragment_id": "117821828",
+   "type": 11,
+   "heading": "Artigo 2.º — Cadernos eleitorais",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "###### Artigo 2.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais são organizados por ordem alfabética, mantendo-se o universo de cada posto de recenseamento.\n\n2 - São aprovados os modelos de folha intercalar dos cadernos eleitorais, que integram os anexos I a V da presente portaria, dela fazendo parte integrante, nos seguintes termos:\n\na) Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional, constante do Anexo I;\n\nb) Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE, constante do Anexo II;\n\nc) Folha intercalar de caderno eleitoral para eleitores nacionais residentes no estrangeiro em país fora da UE, constante do Anexo III;\n\nd) Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da UE, constante do Anexo IV;\n\ne) Folha intercalar de caderno eleitoral para outros eleitores estrangeiros, constante do Anexo V.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361157": {
+   "fragment_id": "117821829",
+   "type": 11,
+   "heading": "Artigo 3.º — Modelos de documentos",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "###### Artigo 3.º — Modelos de documentos\n\nSão aprovados os modelos de documentos necessários à gestão do recenseamento eleitoral, em anexo à presente portaria, dela fazendo parte integrante:\n\na) Certidão de eleitor, constante do Anexo VI;\n\nb) Certidão a emitir pelas entidades recenseadoras no estrangeiro, constante do Anexo VII;\n\nc) Ficha do eleitor nacional residente em território nacional, constante do Anexo VIII;\n\nd) Ficha do eleitor nacional residente em outro país da UE, constante do Anexo IX;\n\ne) Ficha do eleitor nacional residente no estrangeiro em país fora da UE, constante do Anexo X;\n\nf) Ficha do eleitor nacional de outro país da UE, residente em Portugal, constante do Anexo XI;\n\ng) Ficha do eleitor estrangeiro, nacional de país fora da UE, residente em Portugal, constante do Anexo XII.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361158": {
+   "fragment_id": "117821830",
+   "type": 11,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "###### Artigo 4.º — Revogação\n\nÉ revogada a Portaria n.º 1295/2008, de 11 de novembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361159": {
+   "fragment_id": "117821831",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nA Secretária de Estado Adjunta e da Administração Interna, Maria Isabel Solnado Porto Oneto, em 28 de dezembro de 2018.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361160": {
+   "fragment_id": "117821832",
+   "type": 14,
+   "heading": "Anexo I — Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17",
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo I — Folha intercalar de caderno eleitoral para eleitores nacionais residentes no território nacional\n\n[a que se refere a alínea a) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "167361161": {
+   "fragment_id": "117821833",
+   "type": 14,
+   "heading": "Anexo II — Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17",
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo II — Folha intercalar de caderno eleitoral para eleitores nacionais residentes em outro país da UE\n\n[a que se refere a alínea b) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "167361162": {
+   "fragment_id": "117821834",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17",
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo III\n\nFolha intercalar de caderno eleitoral para eleitores nacionais residentes no estrangeiro em país fora da EU\n\n[a que se refere a alínea c) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "167361163": {
+   "fragment_id": "117821835",
+   "type": 14,
+   "heading": "Anexo IV — Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da EU",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17",
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo IV — Folha intercalar de caderno eleitoral para eleitores nacionais de outro país da EU\n\n[a que se refere a alínea d) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "167361164": {
+   "fragment_id": "117821836",
+   "type": 14,
+   "heading": "Anexo V — Folha intercalar de caderno eleitoral para outros eleitores estrangeiros",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17",
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+   ],
+   "markdown": "## Anexo V — Folha intercalar de caderno eleitoral para outros eleitores estrangeiros\n\n[a que se refere a alínea e) do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 120/2019 - Diário da República n.º 78/2019, Série I de 2019-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/120-2019-122145255), em vigor a partir de 2019-04-23"
+  },
+  "167361165": {
+   "fragment_id": "117821837",
+   "type": 14,
+   "heading": "Anexo VI — Certidão de eleitor",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "## Anexo VI — Certidão de eleitor\n\n[a que se refere a alínea a) do artigo 3.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361166": {
+   "fragment_id": "117821838",
+   "type": 14,
+   "heading": "Anexo VII — Certidão a emitir pelas entidades recenseadoras no estrangeiro",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "## Anexo VII — Certidão a emitir pelas entidades recenseadoras no estrangeiro\n\n[a que se refere a alínea b) do artigo 3.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361167": {
+   "fragment_id": "117821839",
+   "type": 14,
+   "heading": "Anexo VIII — Ficha do eleitor nacional residente em território nacional",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "## Anexo VIII — Ficha do eleitor nacional residente em território nacional\n\n[a que se refere a alínea c) do artigo 3.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361168": {
+   "fragment_id": "117821840",
+   "type": 14,
+   "heading": "Anexo IX — Ficha do eleitor nacional residente em outro país da EU",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "## Anexo IX — Ficha do eleitor nacional residente em outro país da EU\n\n[a que se refere a alínea d) do artigo 3.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361169": {
+   "fragment_id": "117821841",
+   "type": 14,
+   "heading": "Anexo X — Ficha do eleitor nacional residente no estrangeiro em país fora da EU",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "## Anexo X — Ficha do eleitor nacional residente no estrangeiro em país fora da EU\n\n[a que se refere a alínea e) do artigo 3.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361170": {
+   "fragment_id": "117821842",
+   "type": 14,
+   "heading": "Anexo XI — Ficha do eleitor nacional de outro país da UE, residente em Portugal",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "## Anexo XI — Ficha do eleitor nacional de outro país da UE, residente em Portugal\n\n[a que se refere a alínea f) do artigo 3.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  },
+  "167361171": {
+   "fragment_id": "117821843",
+   "type": 14,
+   "heading": "Anexo XII — Ficha do eleitor estrangeiro, nacional de país fora da UE, residente em Portugal",
+   "in_force_from": "2021-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+   ],
+   "markdown": "## Anexo XII — Ficha do eleitor estrangeiro, nacional de país fora da UE, residente em Portugal\n\n[a que se refere a alínea g) do artigo 3.º]\n\n(ver documento original)\n\n111950516\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 150/2021 - Diário da República n.º 137/2021, Série I de 2021-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/150-2021-167359765), em vigor a partir de 2021-07-17"
+  }
+ }
+}

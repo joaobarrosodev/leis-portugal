@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:609608:por
+title: Decreto-Lei n.º 27/89
+short_title: null
+summary: Reestrutura a carreira inspectiva da Direcção-Geral de Inspecção Económica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 27/89
+official_date: null
+publication_date: '1989-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/1989, Série I de 1989-01-21
+  number: '18'
+  series: I
+  supplement: null
+  pages: 249 - 251
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '609608'
+  dre_path: /dr/detalhe/decreto-lei/27-1989-609608
+  internal: pt:dre:609608:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1989-609608
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1989-609608
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-01-18T00:00:00Z'
+integrity:
+  source_sha256: 77b88997a6c3a451f777e8c8ee079be01097624bb03694ae120fbd642c09ca06
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-27-609608.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:586839:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 27/89
+
+de 21 de Janeiro
+
+A evolução da economia portuguesa, bem como a sua inserção no espaço comunitário, levou a que as condições de actuação da inspecção económica e também a sua finalidade se fossem, gradualmente, modificando. Efectivamente, a crescente importância da vertente informativa prestada aos agentes económicos, assim como um maior empenhamento na repressão dos crimes contra a economia e contra a saúde pública, tem feito sentir a necessidade de criar as condições que permitam uma maior eficácia de actuação. Tal passará por uma maior exigência e consequente maior responsabilidade dos agentes da fiscalização, o que implica, necessariamente, uma maior selectividade a nível das admissões, bem como um maior empenhamento na sua formação.
+
+Surge, assim, a necessidade de reestruturação da carreira inspectiva da Direcção-Geral de Inspecção Económica (DGIE), no sentido de serem criadas as melhores condições para os fins em vista.
+
+Considerando o disposto no n.º 4 do artigo 2.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho:
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Carreira inspectiva
+
+1 - As categorias e respectivo conteúdo funcional do pessoal da Direcção-Geral de Inspecção Económica incluídos na área funcional «Inspecção económica», grupo de pessoal técnico e técnico-profissional do mapa I anexo, passam a constituir a carreira inspectiva da Direcção-Geral de Inspecção Económica.
+
+2 - A carreira de inspecção referida no número anterior passa a ter a estrutura constante do mapa I anexo ao presente diploma, que dele faz parte integrante, sendo-lhe aplicáveis as disposições do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+
+###### Artigo 2.º — Pessoal técnico
+
+Compete, genericamente, ao inspector-coordenador, inspector principal, inspector, subinspector e subinspector-adjunto:
+
+a) Inspector-coordenador e inspector principal - coordenar e orientar os serviços regionais da área que lhes for confiada por forma a promover a uniformidade de actuações no prosseguimento dos objectivos definidos para os serviços bem como assegurar a sua representação na área respectiva:
+
+b) Inspectores e subinspectores - fazer cumprir, pelos serviços regionais e especializados a seu cargo, as ordens, directrizes e instruções superiores e, em particular, coordenar e orientar todos os serviços regionais especializados da DGIE sob a sua responsabilidade, bem como efectuar as investigações nos inquéritos ou processos que neles sejam organizados ou corram os seus legais termos, inspeccionando os serviços, por sua iniciativa ou ordem superior, efectuando todas as diligências necessárias para a prossecução dos objectivos que a DGIE tem em vista, nomeadamente no campo das infracções antieconómicas e contra a saúde pública;
+
+c) Subinspectores-adjuntos - organizar a composição das brigadas, distribuir por elas o serviço inerente às suas funções de fiscalização, velar pela utilização dos veículos automóveis afectos aos serviços regionais e pela boa ordem e disciplina do pessoal, cumprindo e fazendo cumprir as orientações superiores, sem prejuízo da acção inspectiva, quando responsáveis pelos serviços regionais, fazer cumprir as ordens, directrizes e instruções necessárias ao seu normal funcionamento.
+
+###### Artigo 3.º — Pessoal técnico-profissional
+
+Compete genericamente aos chefes de brigada e agentes-fiscais:
+
+a) Chefes de brigada - proceder aos inquéritos que lhes sejam distribuídos, bem como ao levantamento dos autos de notícia das infracções que verifiquem, dirigir os serviços que às brigadas forem distribuídos, velar pela boa ordem, disciplina e zelo das brigadas na execução dos serviços que lhes forem cometidos, elaborar o relatório final dos inquéritos e, bem assim, executar os demais serviços que lhes forem cometidos;
+
+b) Agentes-fiscais - exercer vigilância sobre as actividades suspeitas, proceder às diligências que lhes forem determinadas no âmbito dos inquéritos, proceder à detenção ou prisão dos infractores em flagrante delito, ao qual caiba pena de prisão, ou quando lhes seja superiormente ordenado, observando-se o disposto no Código de Processo Penal e legislação complementar, coadjuvar os chefes de brigada em todas as missões de que sejam incumbidos, informar o chefe acerca de todas as ocorrências que verificarem no decurso da sua actuação e, bem assim, desempenhar quaisquer outras missões de vigilância que lhes forem determinadas, nomeadamente a condução de viaturas quando em desempenho das suas funções.
+
+###### Artigo 4.º — Limite ao exercício de funções inspectivas
+
+1 - O exercício de funções inspectivas que envolvam a coordenação, direcção ou execução de tarefas directamente ligadas à detecção de infracções contra a economia e contra a saúde pública fica vedado aos funcionários com mais de 60 anos de idade.
+
+2 - Os funcionários que se encontrem nas condições referidas no número anterior, caso venham a ficar na situação de não ocupação ou não utilização e esgotada a hipótese de utilização dos instrumentos de mobilidade previstos na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, transitarão para o quadro de efectivos interdepartamentais criado na Secretaria-Geral do Ministério do Comércio e Turismo.
+
+###### Artigo 5.º — Recrutamento
+
+O recrutamento para os lugares da carreira inspectiva rege-se pelas seguintes normas:
+
+a) Inspector-coordenador e inspector principal - por concurso documental e avaliação curricular de entre inspectores com licenciatura e com pelo menos três anos de serviço classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom;
+
+b) Inspector, subinspector e subinspector-adjunto - por prova de conhecimentos e avaliação curricular de entre, respectivamente, subinspectores, subinspectores-adjuntos e chefes de brigada com pelo menos três anos de serviço classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom e aproveitamento em curso de especialização;
+
+c) Chefes de brigada e agente-fiscal de 1.ª classe - por prova de conhecimentos e avaliação curricular de entre, respectivamente, agentes-fiscais de 1.ª classe e agentes-fiscais de 2.ª classe com pelos menos três anos de serviço classificados de Muito bom ou cinco anos de serviço, classificados, no mínimo, de Bom e aproveitamento em curso de aperfeiçoamento específico;
+
+d) Agente-fiscal de 2.ª classe - de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente, com carta de condução e com mais de 18 anos de idade, aprovados em estágio.
+
+###### Artigo 6.º — Regime de estágio
+
+1 - O estágio a que se refere a alínea d) do artigo anterior obedece às seguintes regras:
+
+a) A admissão ao estágio faz-se por prova de conhecimentos nos termos do regulamento a definir por despacho conjunto do Ministro do Comércio e Turismo e do membro do Governo que tiver a seu cargo a função pública;
+
+b) O estágio tem carácter probatório e deve integrar a frequência de curso elementar;
+
+c) O número de estagiários não pode ultrapassar em mais de 30% o número de lugares vagos existentes na categoria de agente-fiscal de 2.ª classe;
+
+d) A frequência de estágio será feita em regime de contrato além do quadro, no caso de indivíduos não vinculados à função pública, e em regime de requisição, nos restantes casos;
+
+e) O estágio tem a duração de dezoito meses, findo o qual os estagiários serão ordenados em função da classificação final obtida;
+
+f) Os estagiários aprovados com classificação não inferior a Bom (14 valores) serão providos a título definitivo, de acordo com o ordenamento referido na alínea anterior, nos lugares vagos de agente-fiscal de 2.ª classe;
+
+g) A não admissão quer dos estagiários não aprovados quer dos aprovados que excedam o número de vagas implica o regresso ao lugar de origem ou a imediata rescisão do contrato, sem direito a qualquer indemnização, consoante se trate de indivíduos vinculados ou não à função pública.
+
+2 - O disposto na alínea g) do número anterior não prejudica a possibilidade de nomeação dos estagiárias aprovados, desde que a mesma se efective dentro do prazo de validade do concurso para admissão ao estágio.
+
+3 - A avaliação e classificação finais dos estagiários serão feitas nos termos do regulamento a que se refere a alínea a) do n.º 1 do presente artigo, tendo em atenção os seguintes princípios gerais:
+
+a) A avaliação e classificação finais competem a um júri de estágio;
+
+b) A avaliação e classificação finais terão em atenção o relatório de estágio a apresentar por cada estagiário, a classificação de serviço obtida durante o período de estágio e os resultados do curso elementar;
+
+c) A classificação final traduzir-se-á na escala de 0 a 20 valores;
+
+d) Em matéria de constituição, composição, funcionamento e competência do júri, homologação, publicação, reclamação e recursos aplicam-se as regras previstas na lei geral sobre concursos na função pública, com as necessárias adaptações.
+
+4 - A requisição a que se refere a alínea d) do n.º 1 não carece de autorização do membro do Governo que superintenda no serviço de origem.
+
+5 - Os estagiários serão remunerados pela letra M, sem prejuízo do direito de opção pelo vencimento do lugar de origem, no caso de pessoal já vinculado à função pública.
+
+6 - Os contratos e as requisições dos estagiários aprovados no estágio, para os quais existam vagas, consideram-se automaticamente prorrogados até à data da posse na categoria de ingresso, não podendo, contudo, a prorrogação ultrapassar seis meses.
+
+###### Artigo 7.º — Conteúdo dos cursos de formação
+
+Os conteúdos dos cursos de especialização, aperfeiçoamento e elementar referidos no artigo 5.º e na alínea b) do n.º 1 do artigo 6.º do presente diploma serão definidos por despacho conjunto do Ministro do Comércio e Turismo e do membro do Governo que tiver a seu cargo a função pública, que será publicado no prazo de 90 dias a contar da data da publicação do presente diploma.
+
+###### Artigo 8.º — Transição do pessoal
+
+1 - A transição do pessoal provido em lugares do quadro da Direcção-Geral de Inspecção Económica correspondentes a categorias da área funcional «Inspecção económica», grupo de pessoal técnico e técnico-profissional para as categorias da carreira de inspecção da Direcção-Geral de Inspecção Económica é feita de acordo com o mapa II anexo ao presente diploma.
+
+2 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, os actuais agentes sanitários de 2.ª classe contratados além do quadro da Direcção-Geral de Inspecção Económica transitam para a categoria de agentes sanitários, letra O.
+
+3 - Para efeitos do número anterior, são criados no quadro de pessoal anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, dez lugares de agente sanitário, a extinguir à medida que vagarem.
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 9 de Janeiro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 9 de Janeiro de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Mapa I a que se refere o artigo 1.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf)
+
+Mapa II a que se refere o artigo 8.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01800/02490251.pdf)

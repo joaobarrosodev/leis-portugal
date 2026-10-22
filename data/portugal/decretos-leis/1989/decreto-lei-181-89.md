@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:610018:por
+title: Decreto-Lei n.º 181/89
+short_title: null
+summary: Extingue a Comissão do Mercado de Cereais e o Conselho Consultivo do Mercado de Cereais e transfere para o Instituto
+  Nacional de Intervenção e Garantia Agrícola (INGA) as atribuições e competências respectivas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 181/89
+official_date: null
+publication_date: '1989-05-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/1989, Série I de 1989-05-30
+  number: '123'
+  series: I
+  supplement: null
+  pages: 2083 - 2084
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/05/12300/20832084.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '610018'
+  dre_path: /dr/detalhe/decreto-lei/181-1989-610018
+  internal: pt:dre:610018:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1989-610018
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1989-610018
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: 299a2cea2f8567f64d2f0d3dc517a6244e6503d42f4d001e4486c791a02b1f7e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-181-610018.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 181/89
+
+de 30 de Maio
+
+O [Decreto-Lei n.º 483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), de 28 de Dezembro, veio concentrar num único diploma o novo regime geral de importação de cereal, que se encontrava disperso, e consagrar a liberalização das importações de cereal em grão em Portugal.
+
+O tempo decorrido para montagem de informação necessária e colocação em funcionamento do novo regime torna possível a eliminação da estrutura transitória constituída pela Comissão do Mercado de Cereais e pelo seu órgão consultivo, o Conselho Consultivo do Mercado de Cereais, e a transferência para o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) das atribuições e competências que, relativamente à generalidade dos produtos agrícolas, já aí se encontram concentrados, desde a publicação do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.
+
+O pessoal que se encontra a prestar serviço na Comissão do Mercado de Cereais - à imagem do que já sucedeu na transferência de atribuições e do pessoal a prestar serviço no Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) para o INGA - é transferido para o INGA.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º São extintos a Comissão do Mercado de Cereais (CMC) e o Conselho Consultivo do Mercado de Cereais, sem pendência de qualquer processo de liquidação.
+
+###### Art. 2.º Sem prejuízo do disposto nos artigos seguintes, são transferidas para o INGA todas as atribuições e competências da CMC, previstas nos Decretos-Leis n.os [483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), [483-G/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-g-1988-274266), [483-H/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-h-1988-274267) e [483-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-i-1988-274268), todos de 28 de Dezembro, bem como no [Decreto-Lei n.º 56/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1989-612403), de 22 de Fevereiro.
+
+###### Art. 3.º A fixação dos direitos niveladores e restituições à exportação prevista nos Decretos-Leis n.os [483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), [483-G/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-g-1988-274266), [483-H/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-h-1988-274267) e [483-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-i-1988-274268), todos de 28 de Dezembro, e [56/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1989-612403), de 22 de Fevereiro, será simultaneamente comunicada à Direcção-Geral da Concorrência e Preços e à Direcção-Geral das Alfândegas.
+
+###### Art. 4.º - 1 - A abertura de concurso público para a importação de cereais prevista no [Decreto-Lei n.º 483-F/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-f-1988-274265), de 28 de Dezembro, bem como as respectivas condições de participação, passa a ser decidida por despacho do ministro com competência na área da agricultura.
+
+2 - Em cumprimento da decisão a que se refere o número anterior, a Direcção-Geral do Comércio Externo publicará um aviso de concurso público no Diário da República, 2.ª série, passando a ser cometidas a esta Direcção-Geral as funções da CMC no âmbito da tramitação dos concursos públicos para importação de cereais.
+
+###### Art. 5.º São transferidos para o INGA, sem observância de quaisquer outras formalidades, todo o equipamento, arquivos e documentos que se encontrem em poder da CMC, bem como as respectivas dotações orçamentais.
+
+###### Art. 6.º O pessoal que se encontre a prestar serviço na CMC transita para o INGA, nos termos e segundo as regras previstos nos n.os 3 e 4 do artigo 24.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.
+
+###### Art. 7.º São revogados o [Decreto Regulamentar n.º 9/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1985-328274), de 28 de Janeiro, e o [Despacho Normativo n.º 37/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1985-151558), de 15 de Maio.
+
+###### Art. 8.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Jorge Manuel Mendes Antas.
+
+**Promulgado em 16 de Maio de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 17 de Maio de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

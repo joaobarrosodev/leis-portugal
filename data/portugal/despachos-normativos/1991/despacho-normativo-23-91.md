@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:508469:por
+title: Despacho Normativo n.º 23/91
+short_title: null
+summary: Cria o Prémio de Defesa do Património Cultural e aprova o respectivo Regulamento
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 23/91
+official_date: null
+publication_date: '1991-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/1991, Série I-B de 1991-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 466 - 467
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/01/024b00/04660467.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/23/1991/01/29/p/dre/pt/html
+  oj: null
+  dre: '508469'
+  dre_path: /dr/detalhe/despacho-normativo/23-1991-508469
+  internal: pt:dre:508469:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-1991-508469
+  metadata_url: https://data.dre.pt/eli/despnorm/23/1991/01/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-1991-508469
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-02-28T00:00:00Z'
+integrity:
+  source_sha256: aa8464a68db0f3eed4dddb97c1eb4656f17f58988925e60b93ba825be9beef85
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-23-508469.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património Cultural
+- Prémio de Defesa do Património Cultural
+- Protecção do Património
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:292486:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 23/91
+
+A salvaguarda e valorização do património cultural e a sua integração na vida colectiva da nossa época constituem um dever dos Governos e também dos cidadãos dos Estados onde ele se localiza.
+
+As autoridades nacionais, regionais ou locais devem ser responsabilizadas por tal, no interesse de todos os cidadãos e da comunidade em geral.
+
+O património cultural imóvel e sua envolvente devem ser activamente protegidos contra toda a espécie de deterioração, em particular contra aquelas que resultam do uso inapropriado e de transformações abusivas ou desprovidas de sensibilidade.
+
+Ora, a preservação do património cultural imóvel pode e deve contribuir para o aprofundamento dos valores culturais e sociais próprios de cada comunidade.
+
+Assume, assim, especial relevância o papel que às autarquias cabe na protecção, salvaguarda e valorização do património cultural imóvel, testemunho da identidade da sua própria comunidade.
+
+Neste âmbito, e com o objectivo de incentivar, reconhecer, premiar e motivar todas as acções conducentes à sensibilização, salvaguarda e divulgação do património cultural imóvel, sente-se a necessidade de instituir um prémio de defesa do património cultural.
+
+Nestes termos, ao abrigo das alíneas a) e b) do artigo 2.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, determino o seguinte:
+
+É criado o Prémio de Defesa do Património Cultural, que se rege pelas normas do Regulamento anexo ao presente despacho normativo e que deste faz parte integrante.
+
+Secretaria de Estado da Cultura, 10 de Janeiro de 1991. - O Secretário de Estado da Cultura, Pedro Santana Lopes.
+
+REGULAMENTO DO PRÉMIO DE DEFESA DO PATRIMÓNIO CULTURAL
+
+###### Artigo 1.º — Objecto
+
+O Prémio de Defesa do Património Cultural destina-se a galardoar anualmente a autarquia que desenvolva a acção considerada mais significativa de valorização, salvaguarda, promoção, investigação e divulgação do seu património cultural imóvel.
+
+###### Artigo 2.º — Concorrentes
+
+As acções de conservação que concorrem ao Prémio de Defesa do Património Cultural deverão identificar-se com iniciativas ou acções desenvolvidas pelas autarquias ou por elas apoiadas.
+
+###### Artigo 3.º — Atribuição do Prémio
+
+1 - O júri escolherá, de entre os trabalhos apresentados, aquele que melhor corresponder aos ideais e aos objectivos que presidiram à instituição do presente Prémio.
+
+2 - O júri poderá ainda atribuir menções honrosas aos trabalhos que se distingam na defesa dos valores objecto do concurso previsto neste Regulamento.
+
+###### Artigo 4.º — Prémios
+
+1 - O Prémio de Defesa do Património Cultural consiste na atribuição de uma medalha e de uma placa alusiva que assinalem, com a devida dignidade, o mérito obtido.
+
+2 - As menções honrosas constarão de diploma a atribuir.
+
+###### Artigo 5.º — Júri
+
+O júri será constituído pelo presidente do Instituto Português do Património Cultural, que preside, por um dos vice-presidentes do mesmo organismo, por dois membros do Conselho Superior de Defesa e Salvaguarda do Património Cultural, pelo presidente da Associação Nacional de Municípios, pelo presidente da Associação dos Amigos das Casas Antigas e por três especialistas de reconhecida competência nas matérias em causa.
+
+###### Artigo 6.º — Falta de qualidade
+
+1 - O júri poderá não atribuir o Prémio de Defesa do Património Cultural ou as menções honrosas por falta de qualidade das acções de conservação objecto das candidaturas apresentadas, devendo tornar públicas as razões por que o faz.
+
+2 - O júri, se o entender, pode formular censuras a candidaturas que constituam casos concretos de injustificável depreciação ou degradação do património, pela inadequação das medidas de conservação adoptadas ou negligência na adopção atempada das mesmas.
+
+###### Artigo 7.º — Atribuição do Prémio
+
+1 - As deliberações do júri serão homologadas pelo membro do Governo responsável pela área da cultura.
+
+2 - Do despacho de homologação cabe recurso nos termos previstos na lei.
+
+###### Artigo 8.º — Processo de candidatura
+
+1 - As candidaturas anuais ao Prémio de Defesa do Património Cultural serão entregues nas delegações regionais da Secretaria de Estado da Cultura e na Direcção-Geral da Acção Cultural, de acordo com a área geográfica das autarquias concorrentes, até ao dia 31 de Janeiro do ano seguinte.
+
+2 - As delegações da Secretaria de Estado da Cultura e a Direcção-Geral da Acção Cultural darão a conhecer ao Conselho Superior de Defesa e Salvaguarda do Património Cultural a lista das autarquias concorrentes até ao dia 8 de Fevereiro.
+
+3 - As delegações regionais e a Direcção-Geral da Acção Cultural remeterão ao júri do concurso os processos devidamente instruídos até ao dia 1 de Março.
+
+4 - O júri apreciará as candidaturas na 1.ª quinzena de Março e a sua deliberação será divulgada em acto público na 4.ª semana do mesmo mês, após homologação do membro do Governo responsável pela cultura.
+
+5 - A entrega dos prémios será promovida em acto público.
+
+6 - As acções premiadas serão objecto da maior divulgação, nomeadamente através de exposições públicas.
+
+###### Artigo 9.º — Norma transitória
+
+1 - As candidaturas referentes às acções desenvolvidas no ano de 1990 poderão efectuar-se até 28 de Fevereiro de 1991.
+
+2 - Em consequência, os prazos referidos no artigo 8.º consideram-se, para as acções de 1990, dilatados de um mês.

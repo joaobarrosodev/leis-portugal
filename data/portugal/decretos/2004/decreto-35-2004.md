@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:547653:por
+title: Decreto n.º 35/2004
+short_title: null
+summary: Aprova o Acordo de Cooperação entre o Governo da República Portuguesa e o Governo do Reino de Marrocos em Matéria
+  de Controlo de Fronteiras e de Fluxos Migratórios, assinado em Tânger em 7 de Setembro de 1999
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 35/2004
+official_date: null
+publication_date: '2004-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 261/2004, Série I-A de 2004-11-06
+  number: '261'
+  series: I
+  supplement: null
+  pages: 6607 - 6609
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/11/261a00/66076609.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/35/2004/11/06/p/dre/pt/html
+  oj: null
+  dre: '547653'
+  dre_path: /dr/detalhe/decreto/35-2004-547653
+  internal: pt:dre:547653:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-2004-547653
+  metadata_url: https://data.dre.pt/eli/dec/35/2004/11/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-2004-547653
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-11-06T00:00:00Z'
+integrity:
+  source_sha256: eade55101aeb9fe7ef095d3ef156cf18c24efb75bfa58eca8eb65ea07e849f64
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-35-547653.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Imigração
+- Convenção
+- Cooperação Transfronteira
+- Portugal
+- Fronteiras
+- Marrocos
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 35/2004
+
+de 6 de Novembro
+
+No desejo de estreitar os laços históricos de amizade e de cooperação entre Portugal e Marrocos;
+
+Reconhecendo a necessidade de incrementar a cooperação bilateral com vista à luta, de forma eficaz, contra a imigração ilegal e a exploração criminosa dos fluxos migratórios:
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo de Cooperação entre o Governo da República Portuguesa e o Governo do Reino de Marrocos em Matéria de Controlo de Fronteiras e de Fluxos Migratórios, assinado em Tânger em 7 de Setembro de 1999, cujo texto, na versão autenticada em línguas portuguesa, árabe e francesa, se publica em anexo.
+
+Visto e aprovado em Conselho de Ministros de 2 de Setembro de 2004. - Pedro Miguel de Santana Lopes - António Victor Martins Monteiro - Daniel Viegas Sanches.
+
+**Assinado em 14 de Outubro de 2004.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 22 de Outubro de 2004.**
+
+**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+
+ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS EM MATÉRIA DE CONTROLO DE FRONTEIRAS E DOS FLUXOS MIGRATÓRIOS.
+
+O Governo da República Portuguesa e o Governo do Reino de Marrocos:
+
+Reafirmando a sua vontade de reforçar as relações de amizade e de cooperação entre os dois países;
+
+Animados pela vontade de reforçar a cooperação bilateral no domínio do controlo das fronteiras e dos fluxos migratórios;
+
+Sublinhando a necessidade de desenvolver a cooperação bilateral com vista a lutarem de forma eficaz contra a imigração ilegal;
+
+Aderindo plenamente às convenções internacionais e no respeito pelas convenções bilaterais e multilaterais e pelas legislações dos dois países:
+
+acordaram o seguinte:
+
+###### Artigo 1.º
+
+Tendo em vista a melhoria permanente da acção dos seus serviços competentes nos domínios que relevam do âmbito do presente Acordo, as duas Partes comprometem-se a trocar experiências em matéria de controlo de fronteiras, de controlo dos fluxos migratórios e de luta contra a imigração ilegal.
+
+###### Artigo 2.º
+
+As duas Partes, no respeito pelas legislações nacionais e pelos acordos internacionais, incluindo os relativos ao intercâmbio de dados pessoais, favorecerão o desenvolvimento da cooperação nos domínios do controlo de fronteiras e da luta contra a imigração ilegal e a exploração criminosa do fenómeno dos fluxos migratórios.
+
+Esta cooperação compreenderá, nomeadamente:
+
+a) A troca de informações, em tempo real, relativas ao controlo das fronteiras, à gestão dos fluxos migratórios e à luta contra a imigração ilegal;
+
+b) A troca de dados relativos aos documentos falsos ou contrafeitos e de conhecimentos tecnológicos em matéria de luta contra os documentos falsos e falsificados;
+
+c) O intercâmbio de experiências e de assistência técnica com vista à melhoria da gestão dos controlos fronteiriços;
+
+d) A organização de estágios, conferências e colóquios.
+
+###### Artigo 3.º
+
+Tendo em vista facilitar a cooperação entre as autoridades competentes do Ministério da Administração Interna de Portugal e do Ministério do Interior de Marrocos, poderão ser designados pontos de contacto e, se necessário, poder-se-á proceder ao intercâmbio de oficiais de ligação.
+
+###### Artigo 4.º
+
+Para avaliar a cooperação regulada no presente Acordo, as duas Partes constituirão uma comissão mista. Esta comissão reunirá regularmente uma vez por ano, de forma alternada em Portugal e em Marrocos, para análise dos trabalhos em curso e avaliação dos resultados alcançados no domínio da cooperação e da assistência técnica.
+
+###### Artigo 5.º
+
+O presente Acordo entrará em vigor no dia em que as duas Partes se tiverem mutuamente comunicado pela via diplomática e completado as formalidades exigidas pelas suas legislações internas.
+
+###### Artigo 6.º
+
+Este Acordo é concluído entre as duas Partes para vigorar durante um ano a partir da data da sua entrada em vigor. Será sucessivamente prorrogado por forma tácita, salvo denúncia por escrito, mediante pré-aviso de seis meses, comunicado à outra Parte por via diplomática.
+
+Feito em Tânger, em 7 de Setembro de 1999, em dois exemplares originais em cada uma das línguas portuguesa, árabe e francesa, todos os textos fazendo igualmente fé.
+
+Em caso de divergência de interpretação, a versão francesa prevalecerá.
+
+Pelo Governo da República Portuguesa:
+
+Jorge Paulo Sacadura Almeida Coelho, Ministro da Administração Interna.
+
+Pelo Governo do Reino de Marrocos:
+
+Driss Basri, Ministro de Estado, Ministro do Interior.
+
+[(ver texto em língua árabe no documento original)](https://files.diariodarepublica.pt/1s/2004/11/261a00/66076609.pdf)
+
+ACCORD DE COOPÉRATION ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE PORTUGAISE ET LE GOUVERNEMENT DU ROYAUME DU MAROC EN MATIÈRE DE CONTRÔLE DES FRONTIÈRES ET DES FLUX MIGRATOIRES.
+
+Le Gouvernement de la République Portugaise et le Gouvernement du Royaume du Maroc:
+
+Réaffirmant leur volonté de renforcer les relations d'amitié et de coopération entre les deux pays;
+
+Animés par la volonté de renforcer la coopération bilatérale dans le domaine du contrôle des frontières et des flux migratoires;
+
+Soulignant la nécessité de développer la coopération bilatérale en vue de lutter efficacement contre l'immigration illégale;
+
+Adhérant pleinement aux conventions internationales et dans le respect des conventions bilatérales et multilatérales et des législations des deux pays:
+
+ont convenu de ce qui suit:
+
+Article 1
+
+Ayant en vue l'amélioration permanente de l'action de leur services compétents dans les domaines relevant du champ du présent accord, les deux Parties s'engagent à échanger leur expérience en matière de contrôle des frontières, de maîtrise des flux migratoires et de lutte contre l'immigration illégale.
+
+Article 2
+
+Les deux Parties, dans le respect des législations nationales et des accords internationaux, y compris ceux qui concernent l'échange des données personnelles, favoriseront le développement de la coopération dans les domaines du contrôle des frontières et de la lutte contre l'immigration illégale et l'exploitation criminelle du phénomène des flux migratoires.
+
+Cette coopération comprendra notamment:
+
+a) L'échange d'informations en temps réel concernant le contrôle des frontières, la gestion des flux migratoires et la lutte contre l'immigration illégale;
+
+b) L'échange des données relatives aux documents faux ou contrefaits et des connaissances technologiques en matière de lutte contre les faux papiers et les papiers falsifiés;
+
+c) L'échange d'expériences et l'assistance technique pour améliorer la gestion des contrôles frontaliers;
+
+d) L'organisation de stages, conférences et colloques.
+
+Article 3
+
+En vue de faciliter la coopération entre les autorités compétentes du Ministère de l'Administration Interne du Portugal et du Ministère de l'Intérieur du Maroc, des points de contact pourront être désignés et, au besoin, des officiers de liaison pourront être échangés.
+
+Article 4
+
+Pour évaluer la coopération régie par le present accord, les deux Parties constitueront une Commission mixte. Cette Commission se réunira régulièrement une fois par an, alternativement au Portugal et au Maroc pour l'analyse des travaux en cours et l'évaluation des résultats obtenus dans le domaine de la cooperation et de l'assistance technique.
+
+Article 5
+
+Le present accord entrera en vigueur le jour où les deux Parties s'informeront mutuellement par voie diplomatique d'avoir accompli les formalités requises par leur législation interne.
+
+Article 6
+
+Cet accord est conclu entre les deux Parties pour une durée d'un an à partir de la date de son entrée en vigueur. Il sera successivement prorogé par tacite reconduction, sauf dénonciation par écrit, sous réserve d'un préavis de six mois, transmis à l'autre Partie par voie diplomatique.
+
+Fait à Tanger, le 7 septembre 1999, en deux exemplaires dans chacune des langues portugaise, arabe et française, chaque texte faisant également foi.
+
+En cas de différend d'interprétation, la version française prévaudra.
+
+Pour le Gouvernement de la République Portugaise:
+
+Jorge Paulo Sacadura Almeida Coelho, Ministre de l'Administration Interne.
+
+Pour le Gouvernement du Royaume du Maroc:
+
+Driss Basri, Ministre d'État, Ministre de l'Intérieur.

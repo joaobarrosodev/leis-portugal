@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:219150:por
+title: Portaria n.º 772/94
+short_title: null
+summary: Homologa o protocolo n.º 2-A, celebrado e assinado entre o Gabinete da Área de Sines (GAS) e o município de Sines,
+  que derroga, nos artigos ora rectificados, o protocolo n.º 2, homologado pela Portaria n.º 133/92, de 2 de Março
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 772/94
+official_date: null
+publication_date: '1994-08-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/1994, Série I-B de 1994-08-26
+  number: '197'
+  series: I
+  supplement: null
+  pages: 4972 - 4973
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/08/197b00/49724973.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/772/1994/08/26/p/dre/pt/html
+  oj: null
+  dre: '219150'
+  dre_path: /dr/detalhe/portaria/772-1994-219150
+  internal: pt:dre:219150:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-1994-219150
+  metadata_url: https://data.dre.pt/eli/port/772/1994/08/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-1994-219150
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-08-26T00:00:00Z'
+integrity:
+  source_sha256: 4d9d1b813f2b999cd2e86a24d9927091b8dccdf30d7465c19f185597f02ca84a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-772-219150.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Gás
+- Câmara Municipal
+- Sines
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/133/1992/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/133/1992/03/02/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 772/94
+
+de 26 de Agosto
+
+O [Decreto-Lei n.º 119/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1989-615247), de 14 de Abril, que regulamenta as transferências patrimoniais e de competências do Gabinete da Área de Sines (GAS) para o município de Sines, dispõe no artigo 2.º que as afectações e transferências patrimoniais se efectivem por protocolos homologados por portaria.
+
+Existindo inexactidões a nível de descrição e identificação dos bens incluídos no anexo II (secção J) e no anexo III (secção H e secção J) do protocolo n.º 2, homologado pela [Portaria n.º 133/92](https://diariodarepublica.pt/dr/detalhe/portaria/133-1992-169068), de 2 de Março, e tendo, por lapso, sido omitidos vários prédios urbanos situados na zona do perímetro urbano de Sines, foi concluído e assinado novo protocolo, que supre aqueles erros e omissões.
+
+Assim:
+
+Nos termos do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 119/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1989-615247), de 14 de Abril:
+
+Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administração do Território, homologar, conforme proposto, o protocolo n.º 2-A, celebrado e já assinado entre o GAS e o município de Sines, que derroga, nos artigos ora rectificados, o protocolo n.º 2, homologado pela [Portaria n.º 133/92](https://diariodarepublica.pt/dr/detalhe/portaria/133-1992-169068), de 2 de Março, e que se publica em anexo, cujo original ficará arquivado na Câmara Municipal de Sines.
+
+Ministérios das Finanças e do Planeamento e da Administração do Território.
+
+**Assinada em 30 de Junho de 1994.**
+
+**O Ministro das Finanças, Eduardo de Almeida Catroga. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+
+Protocolo n.º 2-A
+
+Entre o Gabinete da Área de Sines, adiante designado por GAS, representado pelo administrador liquidatário, João Manuel Soares de Almeida Viana, e o município de Sines, adiante designado por CMS, representado pelo presidente da Câmara Municipal, Francisco Maria Pereira do Ó Pacheco, é acordado e reduzido a escrito o presente protocolo, nos termos e em execução do disposto nos artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 119/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1989-615247), de 14 de Abril, com as cláusulas seguintes:
+
+1.ª São corrigidas as áreas dos respectivos artigos rústicos, urbanos e mistos (anexos I e II) que foram transmitidos para o município de Sines através das Portarias n.os [419/90](https://diariodarepublica.pt/dr/detalhe/portaria/419-1990-575142), de 8 de Junho, e [133/92](https://diariodarepublica.pt/dr/detalhe/portaria/133-1992-169068), de 2 Março.
+
+2.ª A portaria deve discriminar os prédios urbanos constantes do anexo III, já que se encontram na zona do perímetro urbano de Sines, conforme prevê a alínea b) do n.º 1 do [Decreto-Lei n.º 119/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1989-615247), de 14 de Abril, e que, por lapso, não consta dos anteriores protocolos.
+
+3.ª O presente protocolo e o [Decreto-Lei n.º 119/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1989-615247), de 14 de Abril, constituem título bastante para todos os efeitos legais, incluindo os de registo predial.
+
+4.ª Este protocolo é feito em triplicado, ficando o original em poder da CMS, o duplicado em poder do GAS e destinando-se o triplicado a ser enviado para publicação, depois de homologado, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 119/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1989-615247), de 14 de Abril.
+
+O Administrador Liquidatário do GAS, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Sines, Francisco Maria Pereira do Ó Pacheco.
+
+## ANEXO I — Secção H
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/197b00/49724973.pdf))](https://files.diariodarepublica.pt/1s/1994/08/197b00/49724973.pdf)
+
+## ANEXO II — Secção J
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/197b00/49724973.pdf))](https://files.diariodarepublica.pt/1s/1994/08/197b00/49724973.pdf)
+
+## ANEXO III — Prédios urbanos situados na zona do perímetro urbano de Sines
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/197b00/49724973.pdf))](https://files.diariodarepublica.pt/1s/1994/08/197b00/49724973.pdf)

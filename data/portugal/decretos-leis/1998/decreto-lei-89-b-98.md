@@ -1,0 +1,345 @@
+---
+schema_version: '1.0'
+id: pt:dre:566648:por
+title: Decreto-Lei n.º 89-B/98
+short_title: null
+summary: Cria a Fundação Escola Portuguesa de Macau e aprova os respectivos estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 89-B/98
+official_date: null
+publication_date: '1998-04-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 84/1998, 1º Suplemento, Série I-A de 1998-04-09
+  number: '84'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1568-(2) a 1568-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/04/084a01/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/89-b/1998/04/09/p/dre/pt/html
+  oj: null
+  dre: '566648'
+  dre_path: /dr/detalhe/decreto-lei/89-b-1998-566648
+  internal: pt:dre:566648:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-b-1998-566648
+  metadata_url: https://data.dre.pt/eli/dec-lei/89-b/1998/04/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-b-1998-566648
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-04-09T00:00:00Z'
+integrity:
+  source_sha256: 84fd933aebe60eadd39e57194b1e8fb6c24b987e4b1741c417a9d2e95173a4ae
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-89-B-566648.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação Promotora da Instrução dos Macaenses
+- Fundação
+- Ministério da Educação
+- Educação
+- Língua Portuguesa
+- Cultura Portuguesa
+- Ensino Português no Estrangeiro
+- Escola Portuguesa de Macau
+- Macau
+- Fundação Escola Portuguesa de Macau
+- Fundação Oriente
+- Utilidade Pública
+relationships: []
+article_structure:
+  article_count: 25
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 89-B/98
+
+de 9 de Abril
+
+A aproximação do termo do processo de transição de Macau determinou a tomada de decisão do Governo de criação da Escola Portuguesa de Macau, como medida de salvaguarda da língua e cultura portuguesa naquele território após 20 de Dezembro de 1999.
+
+A criação da Escola Portuguesa de Macau implicou, necessariamente e desde o início do processo, a consideração da sua entidade titular.
+
+Ponderadas as circunstâncias históricas e culturais, e sobretudo as circunstâncias do território após a sua transição para a administração chinesa na data já referida, optou-se por uma instituição de direito privado e utilidade pública, designada «Fundação Escola Portuguesa de Macau», aglutinadora de contributos específicos e complementares de ordem educativa, financeira e institucional.
+
+Nesta perspectiva se conjugaram, em torno do projecto, o Estado Português, através do Ministério da Educação, a Associação Promotora da Instrução dos Macaenses e a Fundação Oriente, que, nos termos do presente diploma, se constituem na instância responsável pela viabilização da Escola Portuguesa de Macau.
+
+Ao Governo Português, enquanto intérprete dos desígnios nacionais, teria de caber, no entanto, a função de garante fundamental do futuro da instituição e do seu projecto educativo e cultural, o que o presente diploma salvaguarda através da participação maioritária do Ministério da Educação no conselho de administração da Fundação Escola Portuguesa de Macau.
+
+Deste modo, na sequência do acordado no protocolo celebrado entre o Ministério da Educação, a Associação Promotora da Instrução dos Macaenses e a Fundação Oriente, procede-se à criação e organização da Fundação Escola Portuguesa de Macau, tendo para o efeito sido ouvidas e manifestado o seu acordo as entidades já referidas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Instituição
+
+É instituída pelo Estado, pela Fundação Oriente e pela Associação Promotora da Instrução dos Macaenses uma fundação denominada «Fundação Escola Portuguesa de Macau», adiante designada por Fundação.
+
+###### Artigo 2.º — Natureza
+
+A Fundação é uma instituição de direito privado e utilidade publica, dotada de personalidade jurídica, durará por tempo ilimitado, tem a sua sede em Macau, na Avenida do Infante D. Henrique, e reger-se-á pelos estatutos em anexo ao presente diploma, que dele fazem parte integrante, e, subsidiariamente, pela demais legislação aplicável.
+
+###### Artigo 3.º — Fins
+
+A Fundação tem por fim garantir a criação e as condições de funcionamento e de desenvolvimento de uma escola portuguesa em Macau, podendo, ainda, apoiar e incentivar o fomento de acções, designadamente no domínio da língua portuguesa.
+
+###### Artigo 4.º — Património
+
+O património da Fundação é constituído pelos valores indicados no artigo 3.º dos respectivos estatutos.
+
+###### Artigo 5.º — Contribuição financeira
+
+1 - O Estado assegurará, anualmente, um subsídio que representará a contribuição destinada a garantir a sua parte nos meios financeiros previstos no n.º 2 do artigo 3.º dos respectivos estatutos.
+
+2 - A atribuição do subsídio previsto no número anterior está sujeita a visto do Tribunal de Contas.
+
+###### Artigo 6.º — Membros do conselho de administração
+
+Os membros do conselho de administração serão designados, de acordo com as regras do n.º 1 do artigo 5.º dos estatutos, no prazo máximo de 30 dias após a publicação do presente diploma.
+
+###### Artigo 7.º — Regime fiscal dos donativos
+
+Os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido no n.º 2 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e no n.º 1 do artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), da mesma data.
+
+###### Artigo 8.º — Escritura pública
+
+O presente diploma constitui título suficiente para todos os efeitos legais, sendo dispensada a celebração de escritura pública para a instituição da Fundação.
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Março de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo.
+
+Para ser publicado no Boletim Oficial de Macau.
+
+**Promulgado em 2 de Abril de 1998.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 6 de Abril de 1998.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+## ANEXO — Estatutos da Fundação
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Denominação, sede e duração
+
+A Fundação Escola Portuguesa de Macau, adiante denominada por Fundação, tem a sua sede em Macau e durará por tempo ilimitado.
+
+###### Artigo 2.º — Fins
+
+1 - A Fundação tem por fim garantir a criação e as condições de funcionamento e de desenvolvimento de uma escola portuguesa em Macau, adiante designada por Escola.
+
+2 - A Fundação pode, ainda, apoiar e incentivar o fomento de acções, designadamente no domínio da língua portuguesa.
+
+###### Artigo 3.º — Regime patrimonial e financiamento
+
+1 - O património inicial da Fundação é constituído:
+
+a) Por um fundo financeiro, no valor mínimo de 500000000$00, ou o seu equivalente em euros, não podendo corresponder a valor inferior a 25 milhões de patacas, constituído pelo Estado, através do Ministério da Educação, e pela Fundação Oriente, nas percentagens, respectivamente, de 51% e 49%;
+
+b) Pela contribuição da Associação Promotora da Instrução dos Macaenses, traduzida na disponibilização da utilização do terreno e do imóvel onde se encontra a funcionar a actual Escola Comercial Pedro Nolasco, sita na Avenida do Infante D. Henrique, em Macau, para os fins a prosseguir pela Fundação.
+
+2 - Para além das contribuições para o património inicial da Fundação estabelecidas no número anterior, o Estado, através do Ministério da Educação, e a Fundação Oriente obrigam-se a garantir, nas percentagens previstas na alínea a) do número anterior, os meios financeiros necessários ao funcionamento anual da Escola Portuguesa de Macau, transferindo até 31 de Agosto de cada ano os fundos financeiros previstos no orçamento anual da Escola que tenha sido proposto pela direcção da Escola e aprovado pelo conselho de administração da Fundação.
+
+3 - O património da Fundação é ainda constituído por:
+
+a) Quaisquer subsídios, donativos, heranças, legados ou doações de entidades públicas ou privadas, portuguesas ou estrangeiras, benefícios que serão aceites desde que não imponham condições que conflituem com os seus fins;
+
+b) Todos os bens, móveis ou imóveis, que a Fundação venha a adquirir, a título gratuito ou oneroso;
+
+c) Rendimentos dos seus bens próprios ou provenientes da prestação de serviços, designadamente no desenvolvimento das actividades referidas no artigo 2.º
+
+### CAPÍTULO II — Organização e funcionamento
+
+###### Artigo 4.º — Órgãos
+
+São órgãos da Fundação:
+
+a) O conselho de administração;
+
+b) O conselho de patronos;
+
+c) O conselho fiscal.
+
+#### SECÇÃO I — Conselho de administração
+
+###### Artigo 5.º — Composição
+
+1 - A administração da Fundação é exercida por um conselho de administração composto por cinco elementos, cabendo ao Estado, através do Ministério da Educação, a designação de três, um dos quais presidirá, à Associação Promotora da Instrução dos Macaenses um, com a qualidade de 1.º vice-presidente, e à Fundação Oriente um, com a qualidade de 2.º vice-presidente.
+
+2 - O presidente é substituído, nas suas faltas e impedimentos, pelo 1.º vice-presidente, e na ausência de ambos pelo 2.º vice-presidente.
+
+3 - O exercício de funções dos membros do conselho de administração será gratuito.
+
+4 - O mandato dos administradores é de três anos, renováveis.
+
+###### Artigo 6.º — Competência do presidente
+
+Compete ao presidente do conselho de administração:
+
+a) Representar a Fundação;
+
+b) Convocar e presidir ao conselho de administração.
+
+###### Artigo 7.º — Competência do conselho de administração
+
+1 - Ao conselho de administração compete, em geral, a realização dos seus fins e a gestão do seu património.
+
+2 - Compete, em especial, ao conselho de administração quanto à Fundação:
+
+a) Programar as suas actividades;
+
+b) Organizar e gerir os seus serviços;
+
+c) Administrar o seu património;
+
+d) Elaborar e aprovar anualmente o plano de actividades e o orçamento para o ano seguinte, ouvido o conselho de patronos;
+
+e) Adquirir e dispor dos seus bens móveis e imóveis;
+
+f) Atribuir a qualidade de membro do conselho de patronos;
+
+g) Aprovar anualmente o relatório, balanço e contas do exercício.
+
+3 - Compete, em especial, ao conselho de administração quanto à Escola Portuguesa de Macau:
+
+a) Designar a direcção;
+
+b) Definir as linhas orientadoras do projecto da Escola;
+
+c) Aprovar o projecto educativo;
+
+d) Aprovar o orçamento apresentado pela direcção para o ano seguinte;
+
+e) Aprovar, anualmente, o relatório, balanço e contas do exercício de gestão da Escola;
+
+f) Estabelecer os critérios e definir as condições da contratação do pessoal;
+
+g) Aprovar o regulamento interno da Escola.
+
+###### Artigo 8.º — Funcionamento
+
+1 - O conselho de administração fixará a periodicidade das suas reuniões, a qual, porém, não deverá ser inferior a quatro vezes por ano.
+
+2 - As reuniões são convocadas pelo presidente ou por quaisquer dois administradores.
+
+3 - O quórum do conselho de administração é de três administradores.
+
+4 - As deliberações são tomadas por maioria absoluta dos votos expressos, tendo o presidente em exercício na reunião voto de qualidade.
+
+5 - As deliberações referidas no artigo 16.º só podem ser tomadas com o voto favorável de quatro membros do conselho de administração em efectividade de funções.
+
+###### Artigo 9.º — Delegação de competências
+
+O conselho de administração pode delegar em qualquer dos seus membros a prática de actos de gestão corrente da Fundação.
+
+###### Artigo 10.º — Vinculação
+
+A Fundação obriga-se:
+
+a) Pela assinatura de dois administradores;
+
+b) Pela assinatura de qualquer dos administradores no exercício de poderes que nele tenham sido delegados pelo conselho de administração;
+
+c) Pela assinatura de um procurador, tratando-se de mandato para a prática de acto certo e determinado.
+
+#### SECÇÃO II — Conselho de patronos
+
+###### Artigo 11.º — Composição
+
+O conselho de patronos é constituído por um número máximo de nove pessoas, que o conselho de administração, por deliberação fundamentada, entenda designar individualmente por maioria simples, atendendo à contribuição que possam dar ou tenham dado aos objectivos da Fundação.
+
+###### Artigo 12.º — Competência
+
+Compete, em especial, ao conselho de patronos:
+
+a) Pronunciar-se sobre o plano anual de actividades e o orçamento que lhes serão submetidos pelo conselho de administração, podendo propor acções para nele serem contempladas;
+
+b) Pronunciar-se sobre quaisquer outras questões que lhe sejam apresentadas pelo conselho de administração.
+
+###### Artigo 13.º — Presidente, funcionamento, deliberações e mandato
+
+1 - Os membros do conselho de patronos elegem entre si, trienalmente, um presidente.
+
+2 - O conselho de patronos reúne:
+
+a) Ordinariamente, uma vez por ano, mediante convocação do seu presidente;
+
+b) Extraordinariamente, por iniciativa do seu presidente ou de um terço dos seus membros e ainda a pedido do conselho de administração ou do conselho fiscal.
+
+3 - Em caso de falta ou impedimento do presidente a uma reunião, o conselho de patronos escolherá um dos membros presentes para presidir a essa reunião.
+
+4 - O conselho de patronos delibera por maioria de votos dos membros presentes.
+
+5 - A duração do mandato de cada elemento do conselho de patronos é de três anos.
+
+#### SECÇÃO III — Conselho fiscal
+
+###### Artigo 14.º — Composição
+
+1 - O conselho fiscal é constituído por três elementos, um designado pelo conselho de administração, outro pela Fundação Oriente e o terceiro pelo Estado, através do Ministério da Educação, que será um revisor oficial de contas e que presidirá.
+
+2 - A duração do mandato dos membros do conselho fiscal é de três anos.
+
+###### Artigo 15.º — Competência
+
+Compete ao conselho fiscal:
+
+a) Verificar se a administração da Fundação se exerce de acordo com a lei e os estatutos;
+
+b) Verificar a regularidade dos livros e registos contabilísticos, bem como da exactidão das contas anuais da Fundação.
+
+### CAPÍTULO III — Modificação dos estatutos e extinção da Fundação
+
+###### Artigo 16.º — Modificação dos estatutos e extinção
+
+1 - O conselho de administração, ouvido o conselho de patronos, poderá, em função das circunstâncias e fundamentadamente, propor à aprovação do membro do Governo da República Portuguesa responsável pela área da educação a modificação dos presentes estatutos.
+
+2 - No caso de extinção da Fundação, o património desta reverterá para instituições congéneres existentes no território de Macau.

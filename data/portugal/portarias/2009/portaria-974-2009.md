@@ -1,0 +1,198 @@
+---
+schema_version: '1.0'
+id: pt:dre:488506:por
+title: Portaria n.º 974/2009
+short_title: null
+summary: Primeira alteração à Portaria n.º 174/2009, de 18 de Fevereiro, que regulamenta o Programa de Apoio aos Equipamentos
+  (PAE)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 974/2009
+official_date: null
+publication_date: '2009-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/2009, Série I de 2009-09-01
+  number: '169'
+  series: I
+  supplement: null
+  pages: 5799 - 5799
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/09/16900/0579905799.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/974/2009/09/01/p/dre/pt/html
+  oj: null
+  dre: '488506'
+  dre_path: /dr/detalhe/portaria/974-2009-488506
+  internal: pt:dre:488506:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/974-2009-488506
+  metadata_url: https://data.dre.pt/eli/port/974/2009/09/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/974-2009-488506
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-09-01T00:00:00Z'
+integrity:
+  source_sha256: 1eed67e2d5e59df63d74451a0418cab1cb8b516226f0f4bcb0b6543cb46b9d48
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-974-488506.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Definição de Competências
+- Equipamento
+- Veículo
+- Bombeiro
+- Autoridade Nacional de Protecção Civil
+- Autarquia Local
+- Programa de Apoio aos Equipamentos
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/174/2009/02/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/174/2009/02/18/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 974/2009
+
+de 1 de Setembro
+
+Pela Portaria n.º 174/2009, de 18 de Fevereiro, foi definido o Programa de Apoio aos Equipamentos (PAE), que estabelece os critérios técnicos para a determinação das dotações mínimas por município e correspondente plano de equipamento, bem como o enquadramento do apoio financeiro para a operacionalização do mesmo.
+
+Impõe-se proceder a alguns ajustamentos, nomeadamente na definição dos veículos e equipamentos operacionais e na aferição da respectiva dotação, considerando a complementaridade e relevância de algumas tipologias de veículos operacionais no que respeita ao cumprimento das missões associadas aos corpos de bombeiros.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Administração Interna, ao abrigo e nos termos do n.º 2 do artigo 31.º da [Lei n.º 32/2007](https://diariodarepublica.pt/dr/detalhe/lei/32-2007-636956), de 13 de Agosto, ouvida a Liga dos Bombeiros Portugueses, o seguinte:
+
+###### Artigo 1.º — Alteração
+
+Os artigos 5.º, 8.º e 9.º da Portaria n.º 174/2009, de 18 de Fevereiro, passam a ter a seguinte redacção:
+
+«Artigo 5.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Um veículo de comando táctico (VCOT);
+
+g) [Anterior alínea f)].
+
+2 - Na aferição da dotação de veículos a apoiar pelo PAE, o resultado do cálculo dos parâmetros constantes do n.º 1 do artigo anterior, à escala municipal, é condicionado em função da dotação do quadro homologado do conjunto dos corpos de bombeiros do município, e inclui a dotação mínima definida no número anterior.
+
+3 - ...
+
+4 - O limite máximo de veículos a apoiar, em cada município, é calculado segundo a fórmula:
+
+Número máximo de veículos = QH/GMV/T
+
+em que:
+
+QH - dotação do quadro homologado;
+
+GMV - guarnição média por viatura (cinco elementos);
+
+T - número de turnos correspondente a dois terços do dia (dois turnos).
+
+5 - (Revogado.)
+
+###### Artigo 8.º — [...]
+
+Em cada município em que exista mais do que um corpo de bombeiros, considerando os princípios da afectação racional e da coordenação de meios, a alocação dos veículos e equipamentos operacionais compete à ANPC, atendendo às características da área de actuação dos respectivos corpos de bombeiros.
+
+###### Artigo 9.º — [...]
+
+1 - Para efeitos da presente portaria, os veículos previstos no n.º 1 dos artigos 4.º e 5.º, e contemplados no plano de equipamento, são:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Um veículo de comando táctico (VCOT);
+
+i) [Anterior alínea h)].
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - O apoio à aquisição de veículos com escada giratória (VE) ou veículos com plataforma giratória (VP) incide sobre 50 % do respectivo valor e a prioridade atribuída a estas tipologias é a indicada nas alíneas a) e b) do artigo 7.º do presente diploma, em que:
+
+a) O quantitativo mínimo corresponde a um VE ou VP por município com mais de 100 edifícios com 5 ou mais andares;
+
+b) A substituição de VE ou VP deve respeitar, obrigatoriamente, o indicado no n.º 2 do artigo 7.º;
+
+c) Em casos devidamente justificados poderá ser autorizado o referido apoio em municípios que já disponham de VE ou VP, mediante parecer favorável da ANPC, homologado pelo Secretário de Estado da Protecção Civil.»
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Administração Interna, José Miguel Abreu de Figueiredo Medeiros, Secretário de Estado da Protecção Civil, em 21 de Agosto de 2009.

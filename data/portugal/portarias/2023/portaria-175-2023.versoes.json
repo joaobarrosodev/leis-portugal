@@ -1,0 +1,1101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:214724645:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-214779037",
+ "dre_path": "/dr/detalhe/portaria/175-2023-214724645",
+ "source_lastmod": "2026-08-17",
+ "versions": [
+  {
+   "date": "2023-06-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214779098",
+    "214779099",
+    "214779100",
+    "214779101",
+    "214779102",
+    "214779103",
+    "214779104",
+    "214779106",
+    "214779107",
+    "214779108",
+    "214779109",
+    "214779110",
+    "214779111",
+    "214779112",
+    "214779113",
+    "214779114",
+    "214779115",
+    "214779116",
+    "214779117",
+    "214779118",
+    "214779119",
+    "214779120",
+    "214779121",
+    "214779122",
+    "214779123",
+    "214779124",
+    "214779125",
+    "214779126",
+    "214779127",
+    "214779128",
+    "214779129",
+    "214779130",
+    "214779131",
+    "214779132",
+    "214779133",
+    "214779134",
+    "214779135",
+    "214779136",
+    "214779137",
+    "214779138",
+    "214779139"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:854483071:por",
+     "title": "Portaria n.º 83-A/2024/1",
+     "published": "2024-03-05",
+     "dre_path": "/dr/detalhe/portaria/83-a-2024-854483071",
+     "date": "2024-01-06"
+    }
+   ]
+  },
+  {
+   "date": "2024-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:893516875:por",
+     "title": "Portaria n.º 278/2024/1",
+     "published": "2024-10-28",
+     "dre_path": "/dr/detalhe/portaria/278-2024-893516875"
+    }
+   ],
+   "changes": [
+    "Altera Anexo VII",
+    "Altera Anexo IX"
+   ],
+   "fragments": [
+    "214779098",
+    "214779099",
+    "214779100",
+    "214779101",
+    "214779102",
+    "214779103",
+    "214779104",
+    "214779105",
+    "214779106",
+    "214779107",
+    "214779108",
+    "214779109",
+    "214779110",
+    "854543405",
+    "893983075",
+    "854543407",
+    "893983076",
+    "214779115",
+    "214779116",
+    "214779117",
+    "214779118",
+    "214779119",
+    "854543408",
+    "214779121",
+    "214779122",
+    "214779123",
+    "214779124",
+    "214779125",
+    "214779126",
+    "214779127",
+    "214779128",
+    "214779129",
+    "854543409",
+    "214779131",
+    "214779132",
+    "214779133",
+    "214779134",
+    "214779135",
+    "214779136",
+    "214779137",
+    "214779138",
+    "854543410"
+   ]
+  },
+  {
+   "date": "2025-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:955747734:por",
+     "title": "Portaria n.º 426/2025/1",
+     "published": "2025-11-27",
+     "dre_path": "/dr/detalhe/portaria/426-2025-955747734"
+    }
+   ],
+   "changes": [
+    "Adita Anexo XXXV",
+    "Adita Anexo XXXVI",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Anexo I",
+    "Altera Anexo VI",
+    "Altera Anexo VII",
+    "Altera Anexo X",
+    "Altera Anexo XIII",
+    "Altera Anexo XVIII",
+    "Altera Anexo XXIX",
+    "Altera Anexo XXX",
+    "Altera Anexo XXXIV",
+    "Revoga Anexo XXVI",
+    "Revoga Anexo XXVII",
+    "Revoga Anexo XXVIII"
+   ],
+   "fragments": [
+    "214779098",
+    "953218332",
+    "953218333",
+    "214779101",
+    "214779102",
+    "214779103",
+    "214779104",
+    "214779105",
+    "953218334",
+    "214779107",
+    "214779108",
+    "214779109",
+    "214779110",
+    "953218335",
+    "953218336",
+    "854543407",
+    "893983076",
+    "953218337",
+    "214779116",
+    "214779117",
+    "953218338",
+    "214779119",
+    "854543408",
+    "214779121",
+    "214779122",
+    "953218339",
+    "214779124",
+    "214779125",
+    "214779126",
+    "214779127",
+    "214779128",
+    "214779129",
+    "854543409",
+    "956497704",
+    "956497705",
+    "956497706",
+    "953218340",
+    "953218341",
+    "214779136",
+    "214779137",
+    "214779138",
+    "953218342",
+    "953218343",
+    "953218344"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154275223:por",
+     "title": "Portaria n.º 324/2026/1",
+     "published": "2026-08-04",
+     "dre_path": "/dr/detalhe/portaria/324-2026-1154275223"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V",
+    "Altera Anexo VI",
+    "Altera Anexo VII",
+    "Altera Anexo VIII",
+    "Altera Anexo IX",
+    "Altera Anexo X",
+    "Altera Anexo XII",
+    "Altera Anexo XIV",
+    "Altera Anexo XV",
+    "Altera Anexo XVI",
+    "Altera Anexo XVII",
+    "Altera Anexo XVIII",
+    "Altera Anexo XIX",
+    "Altera Anexo XX",
+    "Altera Anexo XXI",
+    "Altera Anexo XXII",
+    "Altera Anexo XXIII",
+    "Altera Anexo XXIV",
+    "Altera Anexo XXIX"
+   ],
+   "fragments": [
+    "214779098",
+    "953218332",
+    "953218333",
+    "214779101",
+    "214779102",
+    "214779103",
+    "214779104",
+    "214779105",
+    "1156219675",
+    "1156219875",
+    "1156220075",
+    "1156220275",
+    "1156220475",
+    "1156220675",
+    "1156220875",
+    "1156221075",
+    "1156221275",
+    "1156221475",
+    "214779116",
+    "1156221675",
+    "953218338",
+    "1156221875",
+    "1156222075",
+    "1156222275",
+    "1156222475",
+    "1156222675",
+    "1156222875",
+    "1156223075",
+    "1156223275",
+    "1156223475",
+    "1156223675",
+    "1156223875",
+    "854543409",
+    "956497704",
+    "956497705",
+    "956497706",
+    "1156224075",
+    "953218341",
+    "214779136",
+    "214779137",
+    "214779138",
+    "953218342",
+    "953218343",
+    "953218344"
+   ]
+  }
+ ],
+ "fragments": {
+  "214779098": {
+   "fragment_id": "214779038",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 175/2023\n\nde 23 de junho\n\nSumário: Estabelece os termos e os critérios aplicáveis à avaliação dos incumprimentos de compromissos ou outras obrigações, para efeitos da aplicação das reduções e exclusões previstas nos n.os 4 do artigo 63.º da Portaria n.º 54-A/2023, de 27 de fevereiro, 8 do artigo 66.º da Portaria n.º 54-C/2023, de 27 de fevereiro, e 7 do artigo 55.º da Portaria n.º 54-E/2023, de 27 de fevereiro.\n\nOs regimes de aplicação dos apoios a conceder ao abrigo do artigo 70.º do Regulamento (UE) 2021/2115, do Parlamento e Europeu e do Conselho, no que se refere à aplicação do domínio «D.2 - Programas de ação em áreas sensíveis», do eixo «D - Abordagem territorial integrada - Continente» e do domínio «C.1 - Gestão ambiental e climática» do eixo «C - Desenvolvimento rural - Continente», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), foram estabelecidos pelas Portarias n.os 54-A/2023 e 54-C/2023, de 27 de fevereiro.\n\nPor outro lado, a Portaria n.º 54-E/2023, de 27 de fevereiro, estabeleceu também o regime de aplicação dos apoios a conceder ao abrigo do artigo 31.º do mesmo Regulamento (UE) 2021/2115, no que se refere à aplicação do Domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.\n\nOs beneficiários destes apoios devem cumprir determinadas obrigações durante o período mínimo de duração do compromisso, sob pena de redução ou exclusão dos apoios.\n\nNos termos do artigo 85.º do Regulamento (UE) n.º 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, conjugado com o disposto no Regulamento Delegado (UE) n.º 2022/1172 da Comissão, de 4 de maio de 2022, a redução ou exclusão do apoio deve ter em conta a gravidade, a extensão, a permanência ou recorrência e a intencionalidade do incumprimento dos compromissos e outras obrigações, e as sanções administrativas aplicadas devem ser efetivas, proporcionadas e dissuasivas.\n\nNeste contexto e para assegurar a aplicação uniforme de reduções ou exclusões de acordo com os critérios fixados nos referidos regulamentos bem como na parte que se mantém em vigor do Regulamento Delegado (UE) n.º 640/2014 da Comissão, de 11 de março de 2014, estabelece-se, em portaria própria, uma tabela de avaliação dos incumprimentos de compromissos relativos aos mencionados apoios.\n\nAproveita-se ainda para retificar a redação das normas relativas a reduções e exclusões que constam das Portarias n.os 54-A/2023, 54-C/2023 e 54-E/2023, de 27 de fevereiro.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:"
+  },
+  "214779099": {
+   "fragment_id": "214779039",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece os termos e os critérios aplicáveis à avaliação dos incumprimentos de compromissos ou outras obrigações, para efeitos da aplicação das reduções e exclusões previstas nos n.os 4 do artigo 63.º da Portaria n.º 54-A/2023, de 27 de fevereiro, 8 do artigo 66.º da Portaria n.º 54-C/2023, de 27 de fevereiro, e 7 do artigo 55.º da Portaria n.º 54-E/2023, de 27 de fevereiro, que estabelecem respetivamente os regimes de aplicação do Domínio «D.2 - Programas de ação em áreas sensíveis», do Eixo «D - Abordagem territorial integrada - Continente», do Domínio «C.1 - Gestão ambiental e climática» do Eixo «C - Desenvolvimento rural - Continente», e do Domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.\n\n2 - A presente portaria procede também à alteração do artigo 63.º da Portaria n.º 54-A/2023, dos n.os 3 e 5 do artigo 66.º da Portaria n.º 54-C/2023, de 27 de fevereiro, e dos n.os 3 e 5 do artigo 55.º da Portaria n.º 54-E/2023, de 27 de fevereiro."
+  },
+  "214779100": {
+   "fragment_id": "214779040",
+   "type": 11,
+   "heading": "Artigo 2.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reduções e exclusões\n\n1 - As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às intervenções referidas no artigo 2.º da Portaria n.º 54-A/2023, de 27 de fevereiro, que estabelece o regime de aplicação do Domínio «D.2 - Programas de ação em áreas sensíveis», do Eixo «D - Abordagem territorial integrada - Continente», do PEPAC Portugal, determinam-se respetivamente nos seguintes termos:\n\na) Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda - Gerês - Gestão do pastoreio em áreas de baldio», nos termos da tabela constante do anexo i da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda - Gerês - Manutenção de socalcos», nos termos da tabela constante do anexo ii da presente portaria, da qual faz parte integrante;\n\nc) Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho - Nogueira - Conservação dos soutos notáveis da Terra Fria», nos termos da tabela constante do anexo iii da presente portaria, da qual faz parte integrante;\n\nd) Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho - Nogueira - Manutenção de rotação de sequeiro cereal - pousio», nos termos da tabela constante do anexo iv da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da intervenção «Apoio Zonal Douro Internacional, Sabor, Maçãs e Vale do Côa - Manutenção de rotação de sequeiro cereal - pousio», nos termos da tabela constante do anexo v da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal pousio/pastagens temporárias naturais», nos termos da tabela constante do anexo vi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal - pousio/pastagens temporárias naturais», nos termos da tabela constante do anexo vii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados», nos termos da tabela constante do anexo viii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso», nos termos da tabela constante do anexo ix da presente portaria, da qual faz parte integrante;\n\nj) Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso», nos termos da tabela constante do anexo x da presente portaria, da qual faz parte integrante;\n\nk) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção do Lobo-ibérico», nos termos da tabela constante do anexo xi da presente portaria, da qual faz parte integrante;\n\nl) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção das aves dos arrozais e outras zonas húmidas», nos termos da tabela constante do anexo xii da presente portaria, da qual faz parte integrante;\n\nm) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção da Águia-caçadeira», nos termos da tabela constante do anexo xiii da presente portaria, da qual faz parte integrante;\n\nn) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Manutenção de habitats do Lince-ibérico», nos termos da tabela constante do anexo xiv da presente portaria, da qual faz parte integrante;\n\no) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres», nos termos da tabela constante do anexo xv da presente portaria, da qual faz parte integrante.\n\n2 - As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às intervenções referidas no artigo 2.º da Portaria n.º 54-C/2023, de 27 de fevereiro, que estabelece o regime de aplicação do Domínio «C.1 - Gestão ambiental e climática» do Eixo «C - Desenvolvimento rural - Continente», do PEPAC Portugal, determinam-se respetivamente nos seguintes termos:\n\na) Incumprimentos de compromissos da intervenção «Conservação do solo-Sementeira direta», nos termos da tabela constante do anexo xvi da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da intervenção da intervenção «Conservação do solo - Enrelvamento», nos termos da tabela constante do anexo xvii da presente portaria, da qual faz parte integrante;\n\nc) Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas», nos termos da tabela constante do anexo xviii da presente portaria, da qual faz parte integrante;\n\nd) Incumprimentos de compromissos da intervenção «Uso eficiente da água», nos termos da tabela constante do anexo xix da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Montados», nos termos da tabela constante do anexo xx da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Manutenção de lameiros de alto valor natural», nos termos da tabela constante do anexo xxi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Culturas permanentes tradicionais», nos termos da tabela constante do anexo xxii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Douro Vinhateiro», nos termos da tabela constante do anexo xxiii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da intervenção «Mosaico Agroflorestal», nos termos da tabela constante do anexo xxiv da presente portaria, da qual faz parte integrante;\n\nj) Incumprimentos de compromissos da intervenção «Manutenção de raças autóctones», nos termos da tabela constante do anexo xxv da presente portaria, da qual faz parte integrante.\n\n3 - As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às intervenções referidas no artigo 2.º da Portaria n.º 54-E/2023, de 27 de fevereiro, que estabelece o regime de aplicação do Domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade», do PEPAC Portugal, determinam-se respetivamente nos seguintes termos:\n\na) Incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão», nos termos da tabela constante do anexo xxvi da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da intervenção «Agricultura biológica - Manutenção», nos termos da tabela constante do anexo xxvii da presente portaria, da qual faz parte integrante;\n\nc) Incumprimentos de compromissos da intervenção «Produção Integrada (PRODI) - Culturas agrícolas», nos termos da tabela constante do anexo xxviii da presente portaria, da qual faz parte integrante;\n\nd) Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente», nos termos da tabela constante do anexo xxix da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da intervenção «Promoção da fertilização orgânica», nos termos da tabela constante do anexo xxx da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da intervenção «Melhorar a eficiência alimentar para redução das emissões de gases com efeitos de estufa (GEE)», nos termos da tabela constante do anexo xxxi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da intervenção «Bem-estar animal», nos termos da tabela constante do anexo xxxii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da intervenção «Uso racional de antimicrobianos», nos termos da tabela constante do anexo xxxiii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade», nos termos da tabela constante do anexo xxxiv da presente portaria, da qual faz parte integrante."
+  },
+  "214779101": {
+   "fragment_id": "214779041",
+   "type": 11,
+   "heading": "Artigo 3.º — Orientações técnicas e normas de procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Orientações técnicas e normas de procedimento\n\nSem prejuízo das competências do órgão de coordenação do PEPAC, atribuídas à Autoridade de Gestão Nacional (AGN) pelo artigo 56.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, compete ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), aprovar as orientações técnicas e normas de procedimento complementares de execução do disposto na presente portaria."
+  },
+  "214779102": {
+   "fragment_id": "214779042",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Portaria n.º 54-A/2023",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Portaria n.º 54-A/2023\n\nO artigo 63.º da Portaria n.º 54-A/2023, de 27 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 63.º\n\n[...]\n\n1 - [...]\n\n2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., os animais potencialmente elegíveis que não estejam corretamente identificados ou registados no sistema de identificação e registo de animais são contabilizados como animais em relação aos quais foram constatados incumprimentos, salvo nos seguintes casos:\n\na) Quando um animal presente na exploração tenha perdido um dos meios de identificação, é considerado determinado se estiver clara e individualmente identificado pelos restantes elementos do sistema de identificação e registo;\n\nb) Quando apenas um animal presente na exploração tiver perdido dois meios de identificação, o animal é considerado determinado se puder ainda ser identificado pelo registo, pelo passaporte do animal, pela base de dados ou por outros meios estabelecidos no Decreto-Lei n.º 142/2006, de 27 de julho, desde que o detentor de animais possa produzir prova de que já tomara medidas para corrigir a situação antes do anúncio da verificação no local.\n\n3 - Quando o número de animais por espécie declarados exceder o número de animais determinados:\n\na) A ajuda é calculada com base no número de animais determinados, diminuídos da diferença detetada, se esta não for superior a 20 % do número de animais determinados;\n\nb) A ajuda é calculada com base no número de animais determinados, diminuídos do dobro da diferença detetada, se esta for superior a 20 % e igual ou inferior a 30 % do número de animais determinados;\n\nc) Não é concedido apoio se a diferença entre o número de animais determinados e o número de animais declarados for superior a 30 % e igual ou inferior a 50 % do número de animais determinados.\n\n4 - Quando a diferença a que se refere o número anterior for superior a 50 %, o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre o número de animais por espécie declarado e o número de animais determinado, sendo o saldo anulado quando o montante não puder ser totalmente deduzido nos três anos seguintes ao ano em que a diferença é detetada.\n\n5 - Para efeitos do n.º 1, e sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos administrativos e físicos a diferença entre a superfície declarada e a superfície determinada por grupo de cultura ao qual seja aplicável uma taxa de ajuda ou apoio diferente, nos seguintes termos:\n\na) Se a superfície declarada exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada se esta for superior a 3 % da área determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;\n\nb) Se a diferença entre a superfície declarada e a superfície determinada for superior a 50 %, não é concedido o apoio e o beneficiário é ainda objeto de uma sanção no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado se o montante não puder ser totalmente deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\nc) Se a diferença entre a superfície declarada e a superfície determinada for inferior a 0,1 hectare, considera-se a superfície determinada igual à declarada desde que a diferença não represente mais do que 20 % da superfície declarada.\n\n6 - (Anterior n.º 2.)\n\n7 - (Anterior n.º 3.)\n\n8 - (Anterior n.º 4.)»"
+  },
+  "214779103": {
+   "fragment_id": "214779043",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à Portaria n.º 54-C/2023",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à Portaria n.º 54-C/2023\n\nOs n.os 3, 4 e 5 do artigo 66.º da Portaria n.º 54-C/2023, de 27 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 66.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\n3 - Quando o número de animais por espécie declarados exceder o número de animais determinados:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\n4 - Quando a diferença a que se refere o número anterior for superior a 50 % o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre o número de animais por espécie declarado e o número de animais determinado, sendo o saldo anulado quando o montante não puder ser totalmente deduzido nos três anos seguintes ao ano em que a diferença é detetada.\n\n5 - Para efeitos do n.º 1, e sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos administrativos e físicos a diferença entre a superfície declarada e a superfície determinada por grupo de cultura ao qual seja aplicável uma taxa de ajuda ou apoio diferente, nos seguintes termos:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\n6 - [...]\n\na) [...]\n\nb) [...]\n\n7 - [...]\n\n8 - [...]»"
+  },
+  "214779104": {
+   "fragment_id": "214779044",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração à Portaria n.º 54-E/2023",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração à Portaria n.º 54-E/2023\n\nOs n.os 3, 4 e 5 do artigo 55.º da Portaria n.º 54-E/2023, de 27 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 55.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\n3 - Quando o número de animais por espécie declarados exceder o número de animais determinados:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\n4 - Quando a diferença a que se refere o número anterior for superior a 50 %, o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre o número de animais por espécie declarado e o número de animais determinado, sendo o saldo anulado quando o montante não puder ser totalmente deduzido nos três anos seguintes ao ano em que a diferença é detetada.\n\n5 - Para efeitos do n.º 1, e sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos administrativos e físicos a diferença entre a superfície declarada e a superfície determinada por grupo de cultura ao qual seja aplicável uma taxa de ajuda ou apoio diferente, nos seguintes termos:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\n6 - [...]\n\na) [...]\n\nb) [...]\n\n7 - [...]\n\n8 - [...]»\n\nArtigo 7.º\n\nDireito transitório\n\nPara efeitos do Pedido Único de 2023, as reduções determinam-se contabilizando na superfície forrageira da exploração as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes sem predominância de vegetação arbustiva, as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio, prados e pastagem arbustiva e prados e pastagens permanentes - prática local, relativamente aos compromissos referidos nas alíneas seguintes:\n\na) Reduções referentes aos compromissos previstos na alínea c) do n.º 1 do artigo 16.º, na alínea c) do n.º 1 do artigo 18.º, na alínea e) do n.º 1 do artigo 20.º e na alínea e) do n.º 1 do artigo 22.º da Portaria n.º 54-A/2023, de 27 de fevereiro, estabelecidas nos anexos iii, relativo a incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho - Nogueira - Conservação dos soutos notáveis da Terra Fria», iv, relativo a incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho - Nogueira - Manutenção de rotação de sequeiro cereal - pousio», v, relativo a incumprimentos de compromissos da intervenção «Apoio Zonal Douro Internacional, Sabor, Maçãs e Vale do Côa - Manutenção de rotação de sequeiro cereal - pousio», vi, relativo a incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal - pousio/pastagens temporárias naturais», vii, relativo a incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal - pousio/pastagens temporárias naturais», da presente portaria;\n\nb) Reduções referentes aos compromissos previstos no n.º 2 do artigo 22.º, nas alíneas b) e c) do artigo 32.º e na alínea b) do n.º 1 do artigo 37.º da Portaria n.º 54-C/2023, de 27 de fevereiro, estabelecidas nos anexos xviii, relativo a incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas», xx, relativo a incumprimentos de compromissos da intervenção «Montados», e xxi, relativo a incumprimentos de compromissos da intervenção «Manutenção de lameiros de alto valor natural», da presente portaria;\n\nc) Reduções referentes aos compromissos previstos no n.º 2 do artigo 13.º, no n.º 2 do artigo 19.º e, no que diz respeito ao encabeçamento máximo, no n.º 2 do artigo 25.º da Portaria n.º 54-E/2023, de 27 de fevereiro, estabelecidas nos anexos xxvi, relativo a incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão», xxvii, relativo a incumprimentos de compromissos da intervenção «Agricultura biológica - Manutenção», xxviii, relativo a incumprimentos de compromissos da intervenção «Produção integrada (PRODI) - Culturas agrícolas», e xxix, relativo a incumprimentos de compromissos da intervenção «Maneio de Pastagem Permanente» da presente portaria.\n\nArtigo 8.º\n\nEntrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia útil seguinte ao da sua publicação e produz efeitos à data da entrada em vigor das Portarias n.os 54-A/2023, 54-C/2023 e 54-E/2023, de 27 de fevereiro."
+  },
+  "214779106": {
+   "fragment_id": "214779046",
+   "type": 14,
+   "heading": "Anexo I — Incumprimento de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Gestão do pastoreio em áreas de baldio»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Incumprimento de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Gestão do pastoreio em áreas de baldio»\n\n[a que se refere a alínea a) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779107": {
+   "fragment_id": "214779047",
+   "type": 14,
+   "heading": "Anexo II — Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Manutenção de socalcos»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Manutenção de socalcos»\n\n[a que se refere a alínea b) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779108": {
+   "fragment_id": "214779048",
+   "type": 14,
+   "heading": "Anexo III — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Conservação dos soutos notáveis da Terra Fria»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Conservação dos soutos notáveis da Terra Fria»\n\n[a que se refere a alínea c) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779109": {
+   "fragment_id": "214779049",
+   "type": 14,
+   "heading": "Anexo IV — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Manutenção de rotação de sequeiro cereal-pousio»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Manutenção de rotação de sequeiro cereal-pousio»\n\n[a que se refere a alínea d) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779110": {
+   "fragment_id": "214779050",
+   "type": 14,
+   "heading": "Anexo V — Incumprimentos de compromissos da intervenção «Apoio Zonal Douro Internacional, Sabor, Maçãs e Vale do Côa - Manutenção de rotação de sequeiro cereal-pousio»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Incumprimentos de compromissos da intervenção «Apoio Zonal Douro Internacional, Sabor, Maçãs e Vale do Côa - Manutenção de rotação de sequeiro cereal-pousio»\n\n[a que se refere a alínea e) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779111": {
+   "fragment_id": "214779051",
+   "type": 14,
+   "heading": "Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»\n\n[a que se refere alínea f) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779112": {
+   "fragment_id": "214779052",
+   "type": 14,
+   "heading": "Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»\n\n[a que se refere a alínea g) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779113": {
+   "fragment_id": "214779053",
+   "type": 14,
+   "heading": "Anexo VIII — Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados»\n\n[a que se refere a alínea h) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779114": {
+   "fragment_id": "214779054",
+   "type": 14,
+   "heading": "Anexo IX — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso»\n\n[a que se refere a alínea i) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779115": {
+   "fragment_id": "214779055",
+   "type": 14,
+   "heading": "Anexo X — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso»\n\n[a que se refere a alínea j) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779116": {
+   "fragment_id": "214779056",
+   "type": 14,
+   "heading": "Anexo XI — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção do Lobo-ibérico»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XI — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção do Lobo-ibérico»\n\n[a que se refere a alínea k) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779117": {
+   "fragment_id": "214779057",
+   "type": 14,
+   "heading": "Anexo XII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção das aves dos arrozais e outras zonas húmidas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção das aves dos arrozais e outras zonas húmidas»\n\n[a que se refere a alínea l) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779118": {
+   "fragment_id": "214779058",
+   "type": 14,
+   "heading": "Anexo XIII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção da Águia-caçadeira»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção da Águia-caçadeira»\n\n[a que se refere a alínea m) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779119": {
+   "fragment_id": "214779059",
+   "type": 14,
+   "heading": "Anexo XIV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Manutenção de habitats do Lince-ibérico»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Manutenção de habitats do Lince-ibérico»\n\n[a que se refere a alínea n) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779120": {
+   "fragment_id": "214779060",
+   "type": 14,
+   "heading": "Anexo XV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres»\n\n[a que se refere a alínea o) do n.º 1 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779121": {
+   "fragment_id": "214779061",
+   "type": 14,
+   "heading": "Anexo XVI — Incumprimentos de compromissos da intervenção «Conservação do solo - Sementeira direta»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVI — Incumprimentos de compromissos da intervenção «Conservação do solo - Sementeira direta»\n\n[a que se refere a alínea a) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779122": {
+   "fragment_id": "214779062",
+   "type": 14,
+   "heading": "Anexo XVII — Incumprimentos de compromissos da intervenção «Conservação do solo - Enrelvamento»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVII — Incumprimentos de compromissos da intervenção «Conservação do solo - Enrelvamento»\n\n[a que se refere a alínea b) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779123": {
+   "fragment_id": "214779063",
+   "type": 14,
+   "heading": "Anexo XVIII — Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVIII — Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas»\n\n[a que se refere a alínea c) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779124": {
+   "fragment_id": "214779064",
+   "type": 14,
+   "heading": "Anexo XIX — Incumprimentos de compromissos da intervenção «Uso eficiente da água»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIX — Incumprimentos de compromissos da intervenção «Uso eficiente da água»\n\n[a que se refere a alínea d) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779125": {
+   "fragment_id": "214779065",
+   "type": 14,
+   "heading": "Anexo XX — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Montados»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XX — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Montados»\n\n[a que se refere a alínea e) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779126": {
+   "fragment_id": "214779066",
+   "type": 14,
+   "heading": "Anexo XXI — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Manutenção de lameiros de alto valor natural»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXI — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Manutenção de lameiros de alto valor natural»\n\n[a que se refere a alínea f) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779127": {
+   "fragment_id": "214779067",
+   "type": 14,
+   "heading": "Anexo XXII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Culturas permanentes tradicionais»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Culturas permanentes tradicionais»\n\n[a que se refere a alínea g) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779128": {
+   "fragment_id": "214779068",
+   "type": 14,
+   "heading": "Anexo XXIII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Douro Vinhateiro»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXIII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Douro Vinhateiro»\n\n[a que se refere a alínea h) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779129": {
+   "fragment_id": "214779069",
+   "type": 14,
+   "heading": "Anexo XXIV — Incumprimentos de compromissos da intervenção «Mosaico Agroflorestal»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXIV — Incumprimentos de compromissos da intervenção «Mosaico Agroflorestal»\n\n[a que se refere a alínea i) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779130": {
+   "fragment_id": "214779070",
+   "type": 14,
+   "heading": "Anexo XXV — Incumprimentos de compromissos da intervenção «Manutenção de raças autóctones»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXV — Incumprimentos de compromissos da intervenção «Manutenção de raças autóctones»\n\n[a que se refere a alínea j) do n.º 2 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779131": {
+   "fragment_id": "214779071",
+   "type": 14,
+   "heading": "Anexo XXVI — Incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXVI — Incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão»\n\n[a que se refere a alínea a) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779132": {
+   "fragment_id": "214779072",
+   "type": 14,
+   "heading": "Anexo XXVII — Incumprimentos de compromissos da intervenção «Agricultura biológica - Manutenção»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXVII — Incumprimentos de compromissos da intervenção «Agricultura biológica - Manutenção»\n\n[a que se refere a alínea b) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779133": {
+   "fragment_id": "214779073",
+   "type": 14,
+   "heading": "Anexo XXVIII — Incumprimentos de compromissos da intervenção «Produção integrada (PRODI) - Culturas agrícolas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXVIII — Incumprimentos de compromissos da intervenção «Produção integrada (PRODI) - Culturas agrícolas»\n\n[a que se refere a alínea c) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779134": {
+   "fragment_id": "214779074",
+   "type": 14,
+   "heading": "Anexo XXIX — Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXIX — Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente»\n\n[a que se refere a alínea d) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779135": {
+   "fragment_id": "214781675",
+   "type": 14,
+   "heading": "Anexo XXX — Incumprimentos de compromissos da intervenção «Promoção de fertilização orgânica»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXX — Incumprimentos de compromissos da intervenção «Promoção de fertilização orgânica»\n\n[a que se refere a alínea e) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779136": {
+   "fragment_id": "214781676",
+   "type": 14,
+   "heading": "Anexo XXXI — Incumprimentos de compromissos da intervenção «Melhorar eficiência alimentar para redução das emissões de gases com efeitos de estufa (GEE)»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXXI — Incumprimentos de compromissos da intervenção «Melhorar eficiência alimentar para redução das emissões de gases com efeitos de estufa (GEE)»\n\n[a que se refere a alínea f) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779137": {
+   "fragment_id": "214781677",
+   "type": 14,
+   "heading": "Anexo XXXII — Incumprimentos de compromissos da intervenção «Bem-estar animal»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXXII — Incumprimentos de compromissos da intervenção «Bem-estar animal»\n\n[a que se refere a alínea g) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779138": {
+   "fragment_id": "214781678",
+   "type": 14,
+   "heading": "Anexo XXXIII — Incumprimentos de compromissos da intervenção «Uso racional de antimicrobianos»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXXIII — Incumprimentos de compromissos da intervenção «Uso racional de antimicrobianos»\n\n[a que se refere a alínea h) do n.º 3 do artigo 2.º]\n\n(ver documento original)"
+  },
+  "214779139": {
+   "fragment_id": "214781679",
+   "type": 14,
+   "heading": "Anexo XXXIV — Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXXIV — Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade»\n\n[a que se refere a alínea i) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n116588723"
+  },
+  "214779105": {
+   "fragment_id": "214779045",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 19 de junho de 2023."
+  },
+  "854543405": {
+   "fragment_id": "214779051",
+   "type": 14,
+   "heading": "Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»\n\n[a que se refere alínea f) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "893983075": {
+   "fragment_id": "214779052",
+   "type": 14,
+   "heading": "Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»",
+   "in_force_from": "2024-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»\n\n[a que se refere a alínea g) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "854543407": {
+   "fragment_id": "214779053",
+   "type": 14,
+   "heading": "Anexo VIII — Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VIII — Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados»\n\n[a que se refere a alínea h) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "893983076": {
+   "fragment_id": "214779054",
+   "type": 14,
+   "heading": "Anexo IX — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso»",
+   "in_force_from": "2024-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo IX — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso»\n\n[a que se refere a alínea i) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01"
+  },
+  "854543408": {
+   "fragment_id": "214779060",
+   "type": 14,
+   "heading": "Anexo XV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo XV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres»\n\n[a que se refere a alínea o) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "854543409": {
+   "fragment_id": "214779070",
+   "type": 14,
+   "heading": "Anexo XXV — Incumprimentos de compromissos da intervenção «Manutenção de raças autóctones»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo XXV — Incumprimentos de compromissos da intervenção «Manutenção de raças autóctones»\n\n[a que se refere a alínea j) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "854543410": {
+   "fragment_id": "214781679",
+   "type": 14,
+   "heading": "Anexo XXXIV — Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo XXXIV — Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade»\n\n[a que se refere a alínea i) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n116588723\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "953218332": {
+   "fragment_id": "214779039",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece os termos e os critérios aplicáveis à avaliação dos incumprimentos de compromissos ou outras obrigações, para efeitos da aplicação das reduções e exclusões previstas nos n.os 4 do artigo 63.º da Portaria n.º 54-A/2023, de 27 de fevereiro, 8 do artigo 66.º da Portaria n.º 54-C/2023, de 27 de fevereiro, 7 do artigo 55.º da Portaria n.º 54-E/2023, de 27 de fevereiro, e 5 do artigo 28.º da Portaria n.º 360/2024/1, de 30 de dezembro, que estabelecem os regimes de aplicação do Domínio «D.2 - Programas de ação em áreas sensíveis», do Eixo «D - Abordagem territorial integrada - Continente», do Domínio «C.1 - Gestão ambiental e climática» do Eixo «C - Desenvolvimento rural - Continente», e do Domínio «A.3. - Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.\n\n2 - A presente portaria procede também à alteração do artigo 63.º da Portaria n.º 54-A/2023, dos n.os 3 e 5 do artigo 66.º da Portaria n.º 54-C/2023, de 27 de fevereiro, e dos n.os 3 e 5 do artigo 55.º da Portaria n.º 54-E/2023, de 27 de fevereiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218333": {
+   "fragment_id": "214779040",
+   "type": 11,
+   "heading": "Artigo 2.º — Reduções e exclusões",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Reduções e exclusões\n\n1 - As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às intervenções referidas no artigo 2.º da Portaria n.º 54-A/2023, de 27 de fevereiro, que estabelece o regime de aplicação do Domínio «D.2 - Programas de ação em áreas sensíveis», do Eixo «D - Abordagem territorial integrada - Continente», do PEPAC Portugal, determinam-se respetivamente nos seguintes termos:\n\na) Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda - Gerês - Gestão do pastoreio em áreas de baldio», nos termos da tabela constante do anexo i da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda - Gerês - Manutenção de socalcos», nos termos da tabela constante do anexo ii da presente portaria, da qual faz parte integrante;\n\nc) Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho - Nogueira - Conservação dos soutos notáveis da Terra Fria», nos termos da tabela constante do anexo iii da presente portaria, da qual faz parte integrante;\n\nd) Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho - Nogueira - Manutenção de rotação de sequeiro cereal - pousio», nos termos da tabela constante do anexo iv da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da intervenção «Apoio Zonal Douro Internacional, Sabor, Maçãs e Vale do Côa - Manutenção de rotação de sequeiro cereal - pousio», nos termos da tabela constante do anexo v da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal pousio/pastagens temporárias naturais», nos termos da tabela constante do anexo vi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal - pousio/pastagens temporárias naturais», nos termos da tabela constante do anexo vii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados», nos termos da tabela constante do anexo viii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso», nos termos da tabela constante do anexo ix da presente portaria, da qual faz parte integrante;\n\nj) Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso», nos termos da tabela constante do anexo x da presente portaria, da qual faz parte integrante;\n\nk) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção do Lobo-ibérico», nos termos da tabela constante do anexo xi da presente portaria, da qual faz parte integrante;\n\nl) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção das aves dos arrozais e outras zonas húmidas», nos termos da tabela constante do anexo xii da presente portaria, da qual faz parte integrante;\n\nm) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção da Águia-caçadeira», nos termos da tabela constante do anexo xiii da presente portaria, da qual faz parte integrante;\n\nn) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Manutenção de habitats do Lince-ibérico», nos termos da tabela constante do anexo xiv da presente portaria, da qual faz parte integrante;\n\no) Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres», nos termos da tabela constante do anexo xv da presente portaria, da qual faz parte integrante.\n\n2 - As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às intervenções referidas no artigo 2.º da Portaria n.º 54-C/2023, de 27 de fevereiro, que estabelece o regime de aplicação do Domínio «C.1 - Gestão ambiental e climática» do Eixo «C - Desenvolvimento rural - Continente», do PEPAC Portugal, determinam-se respetivamente nos seguintes termos:\n\na) Incumprimentos de compromissos da intervenção «Conservação do solo-Sementeira direta», nos termos da tabela constante do anexo xvi da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da intervenção da intervenção «Conservação do solo - Enrelvamento», nos termos da tabela constante do anexo xvii da presente portaria, da qual faz parte integrante;\n\nc) Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas», nos termos da tabela constante do anexo xviii da presente portaria, da qual faz parte integrante;\n\nd) Incumprimentos de compromissos da intervenção «Uso eficiente da água», nos termos da tabela constante do anexo xix da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Montados», nos termos da tabela constante do anexo xx da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Manutenção de lameiros de alto valor natural», nos termos da tabela constante do anexo xxi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Culturas permanentes tradicionais», nos termos da tabela constante do anexo xxii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Douro Vinhateiro», nos termos da tabela constante do anexo xxiii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da intervenção «Mosaico Agroflorestal», nos termos da tabela constante do anexo xxiv da presente portaria, da qual faz parte integrante;\n\nj) Incumprimentos de compromissos da intervenção «Manutenção de raças autóctones», nos termos da tabela constante do anexo xxv da presente portaria, da qual faz parte integrante.\n\n3 - As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às intervenções referidas no artigo 2.º da Portaria n.º 54-E/2023, de 27 de fevereiro, que estabelece o regime de aplicação do Domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade», do PEPAC Portugal, determinam-se respetivamente nos seguintes termos:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente», nos termos da tabela constante do anexo xxix da presente portaria, da qual faz parte integrante;\n\ne) Incumprimentos de compromissos da intervenção «Promoção da fertilização orgânica», nos termos da tabela constante do anexo xxx da presente portaria, da qual faz parte integrante;\n\nf) Incumprimentos de compromissos da intervenção «Melhorar a eficiência alimentar para redução das emissões de gases com efeitos de estufa (GEE)», nos termos da tabela constante do anexo xxxi da presente portaria, da qual faz parte integrante;\n\ng) Incumprimentos de compromissos da intervenção «Bem-estar animal», nos termos da tabela constante do anexo xxxii da presente portaria, da qual faz parte integrante;\n\nh) Incumprimentos de compromissos da intervenção «Uso racional de antimicrobianos», nos termos da tabela constante do anexo xxxiii da presente portaria, da qual faz parte integrante;\n\ni) Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade», nos termos da tabela constante do anexo xxxiv da presente portaria, da qual faz parte integrante.\n\n4 - As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às intervenções referidas no artigo 2.º da Portaria n.º 360/2024/1, de 30 de dezembro, que estabelece o regime específico do apoio a conceder, ao abrigo do artigo 70.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere às tipologias C.1.1.7, «Produção Integrada (PRODI) - culturas agrícolas», e C1.1.8, «Agricultura biológica (conversão e manutenção)», integradas na intervenção C.1.1, «Compromissos agroambientais e clima», do domínio C.1 «Gestão ambiental e climática» do eixo C «Desenvolvimento Rural» do PEPAC Portugal, determinam-se, respetivamente, nos seguintes termos:\n\na) Incumprimentos de compromissos da intervenção «Agricultura biológica (conversão e manutenção)», nos termos da tabela constante do anexo xxxv da presente portaria, da qual faz parte integrante;\n\nb) Incumprimentos de compromissos da intervenção «Produção Integrada (PRODI) - Culturas agrícolas», nos termos da tabela constante do anexo xxxvi da presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218334": {
+   "fragment_id": "214779046",
+   "type": 14,
+   "heading": "Anexo I — Incumprimento de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Gestão do pastoreio em áreas de baldio»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo I — Incumprimento de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Gestão do pastoreio em áreas de baldio»\n\n[a que se refere a alínea a) do n.º 1 do artigo 2.º]\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218335": {
+   "fragment_id": "214779051",
+   "type": 14,
+   "heading": "Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»\n\n[a que se refere alínea f) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "953218336": {
+   "fragment_id": "214779052",
+   "type": 14,
+   "heading": "Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»\n\n[a que se refere a alínea g) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "953218337": {
+   "fragment_id": "214779055",
+   "type": 14,
+   "heading": "Anexo X — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo X — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso»\n\n[a que se refere a alínea j) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218338": {
+   "fragment_id": "214779058",
+   "type": 14,
+   "heading": "Anexo XIII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção da Águia-caçadeira»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XIII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção da Águia-caçadeira»\n\n[a que se refere a alínea m) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218339": {
+   "fragment_id": "214779063",
+   "type": 14,
+   "heading": "Anexo XVIII — Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XVIII — Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas»\n\n[a que se refere a alínea c) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "956497704": {
+   "fragment_id": "214779071",
+   "type": 14,
+   "heading": "Anexo XXVI — Incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXVI — Incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão»\n\n[a que se refere a alínea a) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "956497705": {
+   "fragment_id": "214779072",
+   "type": 14,
+   "heading": "Anexo XXVII — Incumprimentos de compromissos da intervenção «Agricultura biológica - Manutenção»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXVII — Incumprimentos de compromissos da intervenção «Agricultura biológica - Manutenção»\n\n[a que se refere a alínea b) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "956497706": {
+   "fragment_id": "214779073",
+   "type": 14,
+   "heading": "Anexo XXVIII — Incumprimentos de compromissos da intervenção «Produção integrada (PRODI) - Culturas agrícolas»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXVIII — Incumprimentos de compromissos da intervenção «Produção integrada (PRODI) - Culturas agrícolas»\n\n[a que se refere a alínea c) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218340": {
+   "fragment_id": "214779074",
+   "type": 14,
+   "heading": "Anexo XXIX — Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXIX — Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente»\n\n[a que se refere a alínea d) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218341": {
+   "fragment_id": "214781675",
+   "type": 14,
+   "heading": "Anexo XXX — Incumprimentos de compromissos da intervenção «Promoção de fertilização orgânica»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXX — Incumprimentos de compromissos da intervenção «Promoção de fertilização orgânica»\n\n[a que se refere a alínea e) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218342": {
+   "fragment_id": "214781679",
+   "type": 14,
+   "heading": "Anexo XXXIV — Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo XXXIV — Incumprimentos de compromissos da intervenção «Práticas promotoras da biodiversidade»\n\n[a que se refere a alínea i) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n116588723\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "953218343": {
+   "fragment_id": "957601314",
+   "type": 14,
+   "heading": "Anexo XXXV — Incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão e Manutenção»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Aditado pelo/a Anexo do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXXV — Incumprimentos de compromissos da intervenção «Agricultura biológica - Conversão e Manutenção»\n\n[a que se refere a alínea a) do n.º 4.º do artigo 2.º]\n\n| Compromissos/Outras Obrigações | Incumprimento | Redução/Exclusão |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Portaria n.º 360/2024/1, de 30 de dezembro | Descrição | Âmbito de aplicação | Qualificação (1) | Duração dos efeitos ou possibilidade de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso | Extensão - efeito do incumprimento no compromisso no seu conjunto | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais | Número de incumprimentos verificados ao longo do compromisso (2) | Redução (3) | Exclusão (4) |\n| Artigo 19.º, n.º 1, alínea a) | Manter critério de elegibilidade das densidades mínimas das culturas permanentes durante todo o período de compromisso | Área da subparcela sob compromisso | Essencial (E) | Dura mais de 1 ano e difícil erradicação por meios razoáveis | Elevado | Excludente | N/A | N/A | 100 % da ajuda | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 19.º, n.º 1, alínea a) | Manter os restantes critérios de elegibilidade (com exceção das densidades mínimas das culturas permanentes) durante todo o período de compromisso | Área sob compromisso | Essencial (E) | Dura mais de 1 ano e difícil erradicação por meios razoáveis | Elevado | Excludente | N/A | N/A | 100 % da ajuda | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 19.º, n.º 1, alínea b) | Manter a área candidata sob compromisso em modo de produção biológico - conversão e manutenção | Área da subparcela sob compromisso | Básico (B) | Dura menos de 1 ano e é possível erradicar por meios razoáveis | Proporcional ao incumprimento | Proporcional ao incumprimento | 1 ou mais | 1 ou mais | Sanção proporcional com tolerância de 10 %.A redução da área sob compromisso > 10 %, determina a devolução proporcional dos apoios recebidos desde o início de compromisso.A nota (3) não se aplica a esta redução. | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 19.º, n.º 1, alínea c) | Manter atualizado um registo das operações culturais efetuadas nas parcelas agrícolas abrangidas pelo modo de produção de acordo com conteúdo normalizado, em formato eletrónico, incluindo as operações realizadas de aplicação de produtos fitofarmacêuticos e fertilizantes autorizados bem como os resultados das análises efetuadas, conservando para o efeito os comprovativos | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 1 | 1 | 5 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| 2 ou mais | 10 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |\n| 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |\n| Artigo 19.º, n.º 1, alínea d) | Partilhar os dados não pessoais relativos à atividade e exploração agrícola, nos termos do artigo 8.º | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 1 | 1 | 5 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| 2 ou mais | 0 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |\n| 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |\n| Artigo 19.º, n.º 1, alínea e) | Manter a área de superfície agrícola, de acordo com as práticas e métodos estabelecidos no Regulamento (EU) 2018/848 do Parlamento Europeu e do Conselho, comprovado através dos certificados de operador biológico atualizado na plataforma TRACES | Área sob compromisso em conversão/manutenção | Essencial (E) | Dura mais de 1 ano e difícil erradicação por meios razoáveis | Elevado | Excludente | N/A | N/A | 100 % da ajuda da área sob conversão/manutenção | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 19.º, n.º 2 | Os beneficiários devem ainda manter, durante todo o período de retenção, a exploração com um nível de encabeçamento de bovinos, ovinos e caprinos, suínos e equídeos, em pastoreio do próprio ou de outrem, expressos em CN por hectare, igual ou inferior a:a) 3,000 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 hectares de superfície agrícola;b) 2,000 CN/ha de superfície agrícola, no caso de explorações em zona de montanha e com dimensão superior a 2 hectares de superfície agrícola;c) 2,000 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas desfavorecidas e nas zonas não desfavorecidas e com dimensão superior a 2 hectares de superfície agrícola. | Área da exploração | Básico (B) | Dura menos de 1 ano e é possível erradicar por meios razoáveis | Proporcional ao incumprimento | Proporcional ao incumprimento | 1 ou mais | 1 ou mais | Redução proporcional da ajuda no ano em que se verifica o incumprimento [Redução aplicável = (\\|encabeçamento verificado - limite encabeçamento\\|)/ limite encabeçamento]. | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 20.º, n.º 7 | Se o beneficiário recorrer a assistência técnica prestada por técnicos inscritos em Lista de Técnicos, detentores de formação regulamentada para apoio técnico em Agricultura Biológica, de acordo com o artigo 13.º-A do Decreto-Lei n.º 256/2009, de 24 de setembro, na sua redação atual, disponível no sítio na Internet da DGADR, www.dgadr.gov.pt, através de contrato a submeter no âmbito do Pedido Único, com o conteúdo mínimo estipulado em OT, o montante total do apoio é majorado em 15 %, não podendo o valor da majoração ser superior a 1750 €. | Área do compromisso da agricultura biológica | Básico (B) | Dura menos de 1 ano e é possível erradicar por meios razoáveis | Elevado | Excludente | 1 ou mais | 1 ou mais | 100 % da majoração | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n\n(1) Qualificação dos compromissos em:\n\na) «Compromisso Essencial (E)» sendo aquele cujo incumprimento acarreta consequências relevantes para os objetivos das ações, cujo efeito dure mais de um ano e seja de difícil erradicação por meios razoáveis.\n\nb) «Compromisso Básico (B)» sendo aquele cujo incumprimento acarreta consequências importantes para os objetivos das ações, cujo efeito dure menos de um ano e seja possível erradicar por meios razoáveis.\n\nc) «Compromisso Secundário (S)» sendo aquele cujo incumprimento não se enquadre nas classificações de Essencial ou Básico.\n\n(2) Acumula com outros incumprimentos com idêntico âmbito de aplicação e qualificação.\n\n(3) Para efeitos da fixação da redução aplicável, caso se verifique mais que um incumprimento, é aplicada a taxa de redução que for mais penalizadora ao nível da subparcela, da exploração ou do compromisso, sendo excluídos os compromissos opcionais.\n\n(4) A exclusão só é aplicável se, mediante a avaliação global baseada nos critérios da extensão, gravidade, recorrência e duração, for determinado um incumprimento grave, e ainda em caso de apresentação de elementos de prova falsos a fim de receber o apoio ou de não prestação de informações necessárias por negligência.\n\n> Nota: [Artigo 6.º, Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734) A sanção de impossibilidade de candidatura no ano seguinte, constante do presente anexo, produz efeitos a 28 de novembro de 2025.\n\n> Aditado pelo/a Anexo do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "953218344": {
+   "fragment_id": "957601315",
+   "type": 14,
+   "heading": "Anexo XXXVI — Incumprimentos de compromissos da intervenção «Produção Integrada»",
+   "in_force_from": "2025-11-28",
+   "changed_by": [
+    "Aditado pelo/a Anexo do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXXVI — Incumprimentos de compromissos da intervenção «Produção Integrada»\n\n[a que se refere a alínea b) do n.º 4 do artigo 2.º]\n\n| Compromissos/Outras Obrigações | Incumprimento | Redução/Exclusão |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Portaria n.º 360/2024/1 de 30.12 | Descrição | Âmbito de aplicação | Qualificação (1) | Duração dos efeitos ou possibilidade de lhes pôr termo | Gravidade - importância e consequências do incumprimento atendendo aos objetivos do compromisso | Extensão - efeito do incumprimento no compromisso no seu conjunto | Recorrência - em função do número de anos de incumprimento nos compromissos plurianuais | Número de incumprimentos verificados ao longo do compromisso (2) | Redução (3) | Exclusão (4) |\n| Artigo 14.º n.º 1 alínea a) | Manter critério de elegibilidade das densidades mínimas das culturas permanentes durante todo o período de compromisso; | Área da subparcela sob compromisso | Essencial (E) | Dura mais de 1 ano e difícil erradicação por meios razoáveis | Elevado | Excludente | N/A | N/A | 100% da ajuda | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 6.º e 14.º n.º 1 alínea a) | Manter os restantes critérios de elegibilidade (com exceção das densidades mínimas das culturas permanentes) durante todo o período de compromisso | Área sob compromissoa | Essencial (E) | Dura mais de 1 ano e difícil erradicação por meios razoáveis | Elevado | Excludente | N/A | N/A | 100% da ajuda | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 14.º, n.º 1 alínea b) | Manter a área candidata sob compromisso em modo de produção integrada; | Área da subparcela sob compromisso | Básico (B) | Dura menos de 1 ano e é possível erradicar por meios razoáveis | Proporcional ao incumprimento | Proporcional ao incumprimento | 1 ou mais | 1 ou mais | Sanção proporcional com tolerância de 10 %.A redução da área sob compromisso > 10 %, determina a devolução proporcional dos apoios recebidos desde o início de compromisso.A nota (3) não se aplica a esta redução. | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 14.º, n.º 1 c) | Cumprir o Decreto-Lei n.º 256/2009 de 24 de setembro, e respetivo normativo relativo à produção integrada comprovado através de emissão de certificado pelo OC | Área sob compromisso | Essencial (E) | Dura mais de 1 ano e difícil erradicação por meios razoáveis | Elevado | Excludente | N/A | N/A | 100% da ajuda da área sob compromisso | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| Artigo 14.º n.º 1 alínea d) | Manter atualizado um registo das operações culturais efetuadas nas parcelas agrícolas abrangidas pelo modo de produção integrada de acordo com conteúdo normalizado, em formato eletrónico, incluindo as operações realizadas de aplicação de produtos fitofarmacêuticos e fertilizantes autorizados bem como os resultados das análises efetuadas, conservando para o efeito os comprovativos; | Área sob compromisso | Secundário (S) | Não relevante | Baixo | Reduzido | 1 | 1 | 5 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| 2 ou mais | 10 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |\n| 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |\n| Artigo 14.º n.º 1 alínea e) | Partilhar os dados não pessoais relativos à atividade e exploração agrícola, nos termos do artigo 8.º | Área sob compromisso Produção Integrada | Secundário (S) |  |  |  | 1 | 1 | 5 % da ajuda no ano em que se verifica | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n| 2 ou mais | 10 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |  |\n| 2 ou mais | 1 ou mais | 15 % da ajuda no ano em que se verifica |  |  |  |  |  |  |  |  |\n| Artigo 15.º n.º 3 | Se o beneficiário recorrer a assistência técnica prestada por técnicos inscritos em Lista de Técnicos, detentores de formação regulamentada para apoio técnico em Produção Integrada, de acordo com o artigo 13.º A do Decreto-Lei n.º 256/2009, de 24 de setembro, na sua redação atual, disponível no sítio na Internet da DGADR, www.dgadr.gov.pt, através de contrato a submeter no âmbito do Pedido Único, com o conteúdo mínimo estipulado em OT, o montante total do apoio é majorado em 15%, não podendo o valor da majoração ser superior a 1750 €. | Área do compromisso da Produção Integrada | Básico(B) | Dura menos de 1 ano e é possível erradicar por meios razoáveis | Elevado | Excludente | 1 ou mais | 1 ou mais | 100 % da majoração | Exclusão da medida no ano em que é detetado o incumprimento com devolução total dos apoios recebidos desde o início do compromisso e impossibilidade de candidatura no ano seguinte |\n\n(1) Qualificação dos compromissos em:\n\na) «Compromisso Essencial (E)» sendo aquele cujo incumprimento acarreta consequências relevantes para os objetivos das ações, cujo efeito dure mais de um ano e seja de difícil erradicação por meios razoáveis.\n\nb) «Compromisso Básico (B)» sendo aquele cujo incumprimento acarreta consequências importantes para os objetivos das ações, cujo efeito dure menos de um ano e seja possível erradicar por meios razoáveis.\n\nc) «Compromisso Secundário (S)» sendo aquele cujo incumprimento não se enquadre nas classificações de Essencial ou Básico.\n\n(2) Acumula com outros incumprimentos com idêntico âmbito de aplicação e qualificação.\n\n(3) Para efeitos da fixação da redução aplicável, caso se verifique mais que um incumprimento, é aplicada a taxa de redução que for mais penalizadora ao nível da subparcela, da exploração ou do compromisso, sendo excluídos os compromissos opcionais.\n\n(4) A exclusão só é aplicável se, mediante a avaliação global baseada nos critérios da extensão, gravidade, recorrência e duração, for determinado um incumprimento grave, e\n\nainda em caso de apresentação de elementos de prova falsos a fim de receber o apoio ou de não prestação de informações necessárias por negligência.\n\n> Nota: [Artigo 6.º, Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734) A sanção de impossibilidade de candidatura no ano seguinte, constante do presente anexo, produz efeitos a 28 de novembro de 2025.\n\n> Aditado pelo/a Anexo do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "1156219675": {
+   "fragment_id": "214779046",
+   "type": 14,
+   "heading": "Anexo I — Incumprimento de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Gestão do pastoreio em áreas de baldio»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo I — Incumprimento de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Gestão do pastoreio em áreas de baldio»\n\n[a que se refere a alínea a) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "1156219875": {
+   "fragment_id": "214779047",
+   "type": 14,
+   "heading": "Anexo II — Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Manutenção de socalcos»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo II — Incumprimentos de compromissos da intervenção «Apoio Zonal Peneda-Gerês - Manutenção de socalcos»\n\n[a que se refere a alínea b) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156220075": {
+   "fragment_id": "214779048",
+   "type": 14,
+   "heading": "Anexo III — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Conservação dos soutos notáveis da Terra Fria»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo III — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Conservação dos soutos notáveis da Terra Fria»\n\n[a que se refere a alínea c) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156220275": {
+   "fragment_id": "214779049",
+   "type": 14,
+   "heading": "Anexo IV — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Manutenção de rotação de sequeiro cereal-pousio»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo IV — Incumprimentos de compromissos da intervenção «Apoio Zonal Montesinho-Nogueira - Manutenção de rotação de sequeiro cereal-pousio»\n\n[a que se refere a alínea d) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156220475": {
+   "fragment_id": "214779050",
+   "type": 14,
+   "heading": "Anexo V — Incumprimentos de compromissos da intervenção «Apoio Zonal Douro Internacional, Sabor, Maçãs e Vale do Côa - Manutenção de rotação de sequeiro cereal-pousio»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo V — Incumprimentos de compromissos da intervenção «Apoio Zonal Douro Internacional, Sabor, Maçãs e Vale do Côa - Manutenção de rotação de sequeiro cereal-pousio»\n\n[a que se refere a alínea e) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156220675": {
+   "fragment_id": "214779051",
+   "type": 14,
+   "heading": "Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VI — Incumprimentos de compromissos da intervenção «Apoio Zonal Castro Verde, Vale do Guadiana, Piçarras e Cuba - Manutenção de rotação de sequeiro cereal-pousio/pastagens temporárias naturais»\n\n[a que se refere alínea f) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "1156220875": {
+   "fragment_id": "214779052",
+   "type": 14,
+   "heading": "Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VII — Incumprimentos de compromissos da intervenção «Apoio Zonal Alto e Centro Alentejo - Manutenção de rotação de sequeiro cereal­ pousio/pastagens temporárias naturais»\n\n[a que se refere a alínea g) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "1156221075": {
+   "fragment_id": "214779053",
+   "type": 14,
+   "heading": "Anexo VIII — Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo VIII — Incumprimentos de compromissos da intervenção «Gestão do Montado por resultados»\n\n[a que se refere a alínea h) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "1156221275": {
+   "fragment_id": "214779054",
+   "type": 14,
+   "heading": "Anexo IX — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo IX — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Manutenção do mosaico paisagístico do Barroso»\n\n[a que se refere a alínea i) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 278/2024/1 - Diário da República n.º 209/2024, Série I de 2024-10-28](https://diariodarepublica.pt/dr/detalhe/portaria/278-2024-893516875), em vigor a partir de 2024-10-29, produz efeitos a partir de 2023-01-01"
+  },
+  "1156221475": {
+   "fragment_id": "214779055",
+   "type": 14,
+   "heading": "Anexo X — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo X — Incumprimentos de compromissos da intervenção «Gestão integrada de zonas críticas - Gestão do pastoreio em áreas de baldio do Barroso»\n\n[a que se refere a alínea j) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "1156221675": {
+   "fragment_id": "214779057",
+   "type": 14,
+   "heading": "Anexo XII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção das aves dos arrozais e outras zonas húmidas»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XII — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Superfície Agrícola - Proteção das aves dos arrozais e outras zonas húmidas»\n\n[a que se refere a alínea l) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156221875": {
+   "fragment_id": "214779059",
+   "type": 14,
+   "heading": "Anexo XIV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Manutenção de habitats do Lince-ibérico»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XIV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Manutenção de habitats do Lince-ibérico»\n\n[a que se refere a alínea n) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156222075": {
+   "fragment_id": "214779060",
+   "type": 14,
+   "heading": "Anexo XV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo XV — Incumprimentos de compromissos da intervenção «Proteção de espécies com estatuto - Silvoambientais - Conservação de locais de nidificação de grandes aves de rapina e abutres»\n\n[a que se refere a alínea o) do n.º 1 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2024/1 - Diário da República n.º 46/2024, Suplemento, Série I de 2024-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2024-854483071), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "1156222275": {
+   "fragment_id": "214779061",
+   "type": 14,
+   "heading": "Anexo XVI — Incumprimentos de compromissos da intervenção «Conservação do solo - Sementeira direta»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XVI — Incumprimentos de compromissos da intervenção «Conservação do solo - Sementeira direta»\n\n[a que se refere a alínea a) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156222475": {
+   "fragment_id": "214779062",
+   "type": 14,
+   "heading": "Anexo XVII — Incumprimentos de compromissos da intervenção «Conservação do solo - Enrelvamento»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XVII — Incumprimentos de compromissos da intervenção «Conservação do solo - Enrelvamento»\n\n[a que se refere a alínea b) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156222675": {
+   "fragment_id": "214779063",
+   "type": 14,
+   "heading": "Anexo XVIII — Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XVIII — Incumprimentos de compromissos da intervenção «Conservação do solo - Pastagens biodiversas»\n\n[a que se refere a alínea c) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  },
+  "1156222875": {
+   "fragment_id": "214779064",
+   "type": 14,
+   "heading": "Anexo XIX — Incumprimentos de compromissos da intervenção «Uso eficiente da água»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XIX — Incumprimentos de compromissos da intervenção «Uso eficiente da água»\n\n[a que se refere a alínea d) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156223075": {
+   "fragment_id": "214779065",
+   "type": 14,
+   "heading": "Anexo XX — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Montados»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XX — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Montados»\n\n[a que se refere a alínea e) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156223275": {
+   "fragment_id": "214779066",
+   "type": 14,
+   "heading": "Anexo XXI — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Manutenção de lameiros de alto valor natural»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XXI — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Montados e Lameiros - Manutenção de lameiros de alto valor natural»\n\n[a que se refere a alínea f) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156223475": {
+   "fragment_id": "214779067",
+   "type": 14,
+   "heading": "Anexo XXII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Culturas permanentes tradicionais»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XXII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Culturas permanentes tradicionais»\n\n[a que se refere a alínea g) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156223675": {
+   "fragment_id": "214779068",
+   "type": 14,
+   "heading": "Anexo XXIII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Douro Vinhateiro»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XXIII — Incumprimentos de compromissos da intervenção «Manutenção de sistemas extensivos com valor ambiental ou paisagístico - Culturas permanentes e paisagens tradicionais - Douro Vinhateiro»\n\n[a que se refere a alínea h) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156223875": {
+   "fragment_id": "214779069",
+   "type": 14,
+   "heading": "Anexo XXIV — Incumprimentos de compromissos da intervenção «Mosaico Agroflorestal»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "## Anexo XXIV — Incumprimentos de compromissos da intervenção «Mosaico Agroflorestal»\n\n[a que se refere a alínea i) do n.º 2 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01."
+  },
+  "1156224075": {
+   "fragment_id": "214779074",
+   "type": 14,
+   "heading": "Anexo XXIX — Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente»",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo XXIX — Incumprimentos de compromissos da intervenção «Maneio da pastagem permanente»\n\n[a que se refere a alínea d) do n.º 3 do artigo 2.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/324-2026-1154275223), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-01-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 426/2025/1 - Diário da República n.º 230/2025, Série I de 2025-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/426-2025-955747734), em vigor a partir de 2025-11-28, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:586269:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-944648337",
+ "dre_path": "/dr/detalhe/portaria/821-1994-586269",
+ "source_lastmod": "2025-11-06",
+ "versions": [
+  {
+   "date": "1994-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944648742"
+   ]
+  },
+  {
+   "date": "1994-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:354294:por",
+     "title": "Declaração de Rectificação n.º 175/94",
+     "published": "1994-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/175-1994-354294"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "944648742",
+    "944648751",
+    "944648754",
+    "944648749",
+    "944648748",
+    "944648747",
+    "944648746",
+    "944648745",
+    "944648744",
+    "944648743"
+   ]
+  }
+ ],
+ "fragments": {
+  "944648742": {
+   "fragment_id": "944648338",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 821/94\n\nde 16 de Setembro\n\nO Decreto-Lei n.º 189/91, de 17 de Maio, regula a criação, a competência e o funcionamento das comissões de protecção de menores em todas as comarcas do País, determinando que a respectiva instalação seja declarada por portaria do Ministro da Justiça.\n\nAcções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas na comarca do Seixal com vista à instalação da respectiva comissão de protecção.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 189/91, de 17 de Maio:\n\nManda o Governo, pelo Ministro da Justiça, o seguinte:"
+  },
+  "944648751": {
+   "fragment_id": "944648347",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ criada a Comissão de Protecção de Menores da Comarca do Seixal, que fica instalada em edifício da Câmara Municipal."
+  },
+  "944648754": {
+   "fragment_id": "944648346",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1994-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 175/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/175-1994-354294), em vigor a partir de 1994-09-30"
+   ],
+   "markdown": "###### 2.º\n\nA Comissão de Protecção de Menores é constituída, nos termos do artigo 13.º do Decreto-Lei n.º 189/91, de 17 de Maio, pelos seguintes elementos:\n\na) Um agente do Ministério Público;\n\nb) Um representante do município;\n\nc) Um representante dos serviços locais do Seixal do Centro Regional de Segurança Social de Lisboa e Vale do Tejo;\n\nd) Um representante dos serviços locais do Ministério da Educação;\n\ne) Um representante das instituições particulares de solidariedade social;\n\nf) Um psicólogo;\n\ng) Um médico, em representação do centro de saúde;\n\nh) Um representante da Guarda Nacional Republicana;\n\ni) Um representante das associações de pais.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 175/94 - Diário da República n.º 227/1994, 3º Suplemento, Série I-B de 1994-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/175-1994-354294), em vigor a partir de 1994-09-30"
+  },
+  "944648749": {
+   "fragment_id": "944648345",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nA Comissão de Protecção poderá deliberar que dela façam parte outros membros, nas situações previstas no artigo 14.º do Decreto-Lei n.º 189/91, de 17 de Maio."
+  },
+  "944648748": {
+   "fragment_id": "944648344",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nNos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no respectivo círculo judicial, ao presidente da Câmara Municipal do Seixal e ao director-geral dos Serviços Tutelares de Menores."
+  },
+  "944648747": {
+   "fragment_id": "944648343",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nO psicólogo referido na alínea f) do n.º 2.º será designado por alguma das instituições que integram a Comissão ou que com ela colaborem."
+  },
+  "944648746": {
+   "fragment_id": "944648342",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nA Comissão de Protecção é presidida por um dos seus membros, rotativamente e pela ordem indicada no n.º 2.º da presente portaria, com mandato de dois anos não prorrogável."
+  },
+  "944648745": {
+   "fragment_id": "944648341",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nOs inquéritos, relatórios sociais, observação do menor e demais diligências, que não possam ser assegurados pelos membros da Comissão, serão solicitados às entidades com competência específica ou que, em cada caso, se revelem mais adequadas."
+  },
+  "944648744": {
+   "fragment_id": "944648340",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nA Comissão de Protecção de Menores inicia funções no dia 1 de Outubro de 1994.\n\nMinistério da Justiça."
+  },
+  "944648743": {
+   "fragment_id": "944648339",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 12 de Agosto de 1994.\n\nPelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça."
+  }
+ }
+}

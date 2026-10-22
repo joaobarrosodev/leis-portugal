@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: pt:dre:1491556:por
+title: Resolução n.º 7-A/2013
+short_title: null
+summary: Nomeia o conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E.P.E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 7-A/2013
+official_date: null
+publication_date: '2013-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2013, 1º Suplemento, Série II de 2013-03-25
+  number: '59'
+  series: II
+  supplement: 1º Suplemento
+  pages: 10518-(2) a 10518-(3)
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/03/059000001/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1491556'
+  dre_path: /dr/detalhe/resolucao/7-a-2013-1491556
+  internal: pt:dre:1491556:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-a-2013-1491556
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-a-2013-1491556
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-03-25T00:00:00Z'
+integrity:
+  source_sha256: 07b67e29f62038a8713a1bc4f0f6313e1370f6489010aecfb4e255ed2126de3f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-7-A-1491556.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 7-A/2013
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 244/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), de 9 de novembro, aplicável ao Centro Hospitalar de Trás-os-Montes e Alto Douro, E.P.E., por força do n.º 2 do artigo 1.º do Decreto-Lei n.º 50-A/2007, de 28 de fevereiro, conjugados com o artigo 15.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de agosto, e pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, resulta que os membros do conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E.P.E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E.P.E., cessaram os respetivos mandatos em 31 de dezembro de 2012, torna-se necessário proceder à nomeação de um novo conselho de administração.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pela [Resolução do Conselho de Ministros n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 244/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), de 9 de novembro, dos n.os 2 e 3 do artigo 13.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros de Estado e das Finanças e da Saúde, Carlos José Cadavez, Fernando Miguel Pinto Oliveira Pereira, José Joaquim Costa (diretor clínico)e José João Fonseca dos Santos Lameirão (enfermeiro-diretor), respetivamente para os cargos de presidente e de vogais executivos do conselho de administração do Centro Hospitalar de Trás-os-Montes e Alto Douro, E.P.E, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar os nomeados Fernando Miguel Pinto Oliveira Pereira e José Joaquim Costa a exercerem a atividade de docência.
+
+3 - Autorizar o nomeado José Joaquim Costa a optar pelo vencimento do lugar de origem, nos termos do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e retificado pela Declaração de Retificação n.º2/2012, de 25 de janeiro.
+
+4 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
+
+21 de março de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares
+
+Carlos José Cadavez. nascido em 1 de janeiro de 1953.
+
+Licenciado em Economia e Gestão de Empresas pela Escola Superior de Estudos Sociais e Económicos de Évora em 22 de julho de 1978. Pós-graduado em Administração Hospitalar pela Escola Nacional de Saúde Pública em 18 de maio de 1981. Participou na formação "HealthCare Management" no Charlton Memorial Hospital, RiverFall, E.U.A. em 1983.
+
+Administrador de 3ª classe colocado por concurso público no Hospital Distrital de Bragança em 1983, desempenhando as funções de Administrador Principal, por delegação. Administrador de 2ª classe do Hospital Distrital de Bragança e membro da Comissão Instaladora do Centro de Saúde Mental de Bragança de 1983 a 1988. Presidente do Conselho de Gerência com acumulação dos lugares de Diretor e Administrador Delegado do Hospital Distrital de Bragança de 1988 a 1991. Nomeado Presidente do Conselho de Gerência com acumulação dos lugares de Diretor e Administrador Delegado do Hospital Distrital de Bragança de 1991 a 1994. Em 1994 foi renovada pela terceira vez a Comissão de Serviço de Presidente do Conselho de Gerência com acumulação dos lugares de Diretor e Administrador Delegado do Hospital Distrital de Bragança. Administrador Hospitalar do Hospital Distrital de Bragança de 1996 a 2003. Vogal Executivo do Conselho de Administração do Centro Hospitalar de Vila Real/Régua de 2003 a 2004. Administrador Hospitalar no Centro Hospitalar do Nordeste, E.P.E. em 2005, com funções dirigentes em Gestão de Projetos, salientando-se o projeto INTERREG, Telemedicina e Gestão de Qualidade. Em 2006 foi nomeado Assessor da Direção Clínica do Centro Hospitalar do Nordeste, E.P.E.. Presidente do Núcleo Distrital da Fundação Portuguesa de Cardiologia em 2008. Docente convidado pelo Instituto Politécnico de Bragança, no mestrado em Gestão das Organizações de 2008 a 2011. Nomeado novamente em 2011 como membro responsável do grupo Multidisciplinar da Qualidade, até à presente data.
+
+Fernando Miguel Pinto Oliveira Pereira
+
+Nascido a 29 de março de 1972
+
+Natural do Porto e residente em Matosinhos
+
+Habilitações Académicas
+
+2003-2005 Curso de Especialização em Administração Hospitalar, na Escola Nacional de Saúde Pública
+
+1997-1998 Mestrado em Economia, na Universidade de Warwick, Inglaterra
+
+1990-1995 Licenciatura em Economia, na Faculdade de Economia do Porto
+
+Experiência profissional
+
+Desde 2006 Administrador Hospitalar no Centro Hospitalar de São João. Atualmente exercendo as funções de Diretor do Serviço de Planeamento e Controlo de Gestão, tendo anteriormente exercido funções nos Conselhos Diretivos das Unidades Autónomas de Gestão de Medicina (2006-2009) e Meios Complementares de Diagnóstico e Terapêutica (2009-2011).
+
+2005-2006 Administrador Hospitalar no Hospital Padre Américo - Vale do Sousa
+
+1999-2005 Diretor e Consultor de Gestão, na Gestluz - Consultores de Gestão
+
+1995-1997 Auditor financeiro e fiscal na Santos Carvalho, Silva Costa & Associados, SROC
+
+1994-1995 Trainee no Serviço de Controlo de Gestão da Petrogal, SA
+
+Atividade docente
+
+Desde 2010 Assistente Convidado na Universidade Lusófona, lecionando disciplinas da área da Economia
+
+Entre 1998-2009 Atividade docente em diversas Instituições de Ensino Superior, nomeadamente na Universidade do Minho e Universidade Católica Portuguesa - Centro Regional de Braga.
+
+José Joaquim Costa, natural do Porto, nasceu a 11 de setembro de 1959, casado, residente em Vila Real.
+
+Concluiu a Licenciatura em Medicina no Instituto de Ciências Biomédicas Abel Salazar da Universidade do Porto, em 1985.
+
+Iniciou o Internato Geral em 1 de fevereiro de 1986 no Hospital Distrital de Guimarães que concluiu em 31 de outubro de 1987.
+
+Em 1988 e 1989 cumpriu o Serviço Militar Obrigatório, tendo exercido atividade clínica no Campo Militar de Santa Margarida e, posteriormente, no Hospital Militar de D. Pedro IV, no Porto.
+
+Concluiu o Internato Complementar de Imuno-hemoterapia no Instituto Português de Oncologia Francisco Gentil do Porto e em 4 de fevereiro de 1997 obteve o título de Especialista de Imuno-hemoterapia.
+
+Iniciou funções como Assistente de Imuno-hemoterapia no Hospital de S. Pedro de Vila Real em outubro de 1997. Exerceu o cargo de Diretor do Serviço de Imuno-hemoterapia deste Hospital de 1998 a 2010. Durante este tempo o Hospital de S. Pedro fundiu-se com o Hospital de D. Luiz I, do Peso da Régua e, posteriormente, com os Hospitais Distritais de Chaves e Lamego, dando origem ao atual Centro Hospitalar de Trás-os-Montes e Alto Douro (CHTMAD,EPE).
+
+Entretanto, em Agosto de 2005, obteve em concurso o Grau de Consultor em Imuno-hemoterapia.
+
+Desde 2009 que exerce funções docentes na Escola Superior de Saúde do Instituto Politécnico de Bragança, lecionando as matérias teóricas das disciplinas de Hematologia Laboratorial I, Hematologia Laboratorial II e Imuno-hemoterapia Laboratorial do Curso de Análises Clínicas e Saúde Pública.
+
+Ao longo da carreira apresentou em Congressos e Reuniões Científicas diversos trabalhos e publicou 3 em revistas científicas.
+
+José João Fonseca dos Santos Lameirão, nascido em Vila Real a 25-03-1967, de nacionalidade Portuguesa e Estado Civil Casado.
+
+Habilitações académicas: Licenciado em Estudos Superiores Especializados em Enfermagem de Saúde Mental e Psiquiátrica, desde julho de 1995.
+
+Habilitações profissionais: Curso de Enfermagem Geral pela Escola Superior de Enfermagem de Vila Real, em 1988; Curso de Estudos Superiores Especializados em Enfermagem de Saúde Mental e Psiquiátrica pela Escola Superior de Enfermagem Cidade do Porto, em 1995; Curso de Pós-Graduação em Direito da Medicina organizado pelo Centro de Direito Biomédico da Universidade de Coimbra da Faculdade de Direito, em 1997; Frequência do Curso de Pós Graduação em Gestão e Administração Hospitalar pela Universidade Portucalense.
+
+Atividade profissional na área de prestação de cuidados: Serviço de urgência do H.D. do Peso da Régua de janeiro de 1989 a setembro de 1990; Bloco Operatório de outubro de 1990 a junho de 1996.
+
+Atividade profissional na área da gestão: H.D. do Peso da Régua, Responsável do Serviço de Ortopedia de julho de 1995 a junho 1996; Coordenador Institucional do Departamento Educação Permanente de setembro de 1995 a janeiro de 2003;Enfermeiro Responsável do Bloco Operatório (Enfermeiro Especialista) de 10 de junho de 1996 a dezembro de 1997; Enfermeiro Diretor dos Serviços de Enfermagem do H. D. do Peso da Régua, de janeiro de 1997 a janeiro de 2003. Enfermeiro Supervisor desde janeiro 2001. No C.H. Trás-os-Montes e Alto Douro, Responsável pela implementação do aplicativo informático "SAPE" no C. H. Vila Real/Peso da Régua; Integra a Direção do departamento de Cirurgia do C. H. Trás-os-Montes e Alto Douro.
+
+Participação, como formador, em diversas ações de formação contínua. Moderou mesas e participou como preletor em Congressos, Jornadas e Encontros Científicos. Participação, como formando, em vários cursos, congressos, seminários e ações de formação na área de prestação de serviços e na área da gestão hospitalar.
+
+Outras atividades: Membro de diversos Júris de concursos para enfermeiro (nível 1), enfermeiro graduado, enfermeiro especialista e enfermeiro chefe, como Vogal Efetivo ou Presidente do Júri; Foi instrutor de vários processos de averiguações; Preside a comissão de análise de produtos de Consumo Clínico do C. H. Trás-os-Montes e Alto Douro desde 2003.

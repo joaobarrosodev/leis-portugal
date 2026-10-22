@@ -1,0 +1,644 @@
+---
+schema_version: '1.0'
+id: pt:dre:229484:por
+title: Decreto-Lei n.º 29/98
+short_title: null
+summary: Altera o Regulamento das Custas dos Processos Fiscais e Aduaneiros e a Tabela dos Emolumentos dos Serviços da Direcção-Geral
+  dos Impostos (DGCI)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 29/98
+official_date: null
+publication_date: '1998-02-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/1998, Série I-A de 1998-02-11
+  number: '35'
+  series: I
+  supplement: null
+  pages: 543 - 548
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/02/035a00/05430548.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-07-02'
+version_history:
+  file: decreto-lei-29-98.versoes.json
+  count: 7
+  source_lastmod: '2024-09-10'
+  versions:
+  - date: '1998-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-31'
+    amending: pt:dre:692261:por
+    amending_title: Decreto-Lei n.º 433/99
+    changes:
+    - Altera Artigo 24.º
+  - date: '2002-12-17'
+    amending: pt:dre:405757:por
+    amending_title: Decreto-Lei n.º 307/2002
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+  - date: '2004-01-01'
+    amending: pt:dre:424101:por
+    amending_title: Decreto-Lei n.º 324/2003
+    changes:
+    - Altera Artigo 4.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Adita Anexo
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 20.º
+    - Altera Anexo
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Adita Artigo 18.º-A
+  - date: '2016-07-02'
+    amending: pt:dre:74843513:por
+    amending_title: Decreto-Lei n.º 36/2016
+    changes:
+    - Altera Anexo
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/29/1998/p/cons/20160701/pt/html
+  oj: null
+  dre: '229484'
+  dre_path: /dr/detalhe/decreto-lei/29-1998-229484
+  internal: pt:dre:229484:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1998-229484
+  metadata_url: https://data.dre.pt/eli/dec-lei/29/1998/p/cons/20160701/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-887427562
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-887427562
+  retrieved_at: '2026-10-22T13:15:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-09-10T00:00:00Z'
+integrity:
+  source_sha256: 2ab4011947ee1ef1c9b55766e38c6f6d6d96bddf8095a227616e803b529e487a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:15:09Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-29-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral dos Impostos
+- Emolumento
+- Execução Fiscal
+- Contribuições e Impostos
+- Prazo
+- Regulamento das Custas dos Processos Tributários
+- Taxa
+- Custas Judiciais
+- Tribunal Tributário
+relationships:
+- type: amended_by
+  target: pt:dre:437427:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1998-437427
+  date: '1998-08-17'
+- type: amended_by
+  target: pt:dre:692261:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261
+  date: '1999-10-26'
+- type: amended_by
+  target: pt:dre:405757:por
+  label: Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 14.º; Altera Artigo 18.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757
+  date: '2002-12-16'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Adita Anexo; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 14.º; Altera Artigo 20.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Adita Artigo 18.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:74843513:por
+  label: Altera Anexo; Altera Artigo 14.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513
+  date: '2016-07-01'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+article_structure:
+  article_count: 35
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:15:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 29/98
+
+Decreto-Lei n.º 29/98
+
+de 11 de Fevereiro
+
+O presente diploma destina-se a aprovar o Regulamento das Custas dos Processos Tributários, substituindo o anterior regime, constante do Decreto-Lei n.º 449/71, de 26 de Outubro.
+
+Apesar das alterações sofridas, o Regulamento de 1971 encontra-se manifestamente desajustado, sobretudo após a aprovação do Código de Processo Tributário.
+
+Por outro lado, a aprovação de novo Código das Custas Judiciais veio confirmar a necessidade de uma harmonização de regimes, tendo em conta que não se justifica uma diferença de tratamento entre a taxa de justiça aplicável na jurisdição comum e na jurisdição fiscal.
+
+Aproveita-se ainda a oportunidade para se reformular a tabela dos emolumentos dos Serviços da Direcção-Geral dos Impostos.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 56.º da Lei n.º 52-C/96, de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 324/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101) São revogadas as normas do Regulamento das Custas dos Processos Tributários, com excepção das referentes a actos respeitantes à fase administrativa dos processos abrangidos pelo artigo 1.º do mencionado Regulamento.
+
+###### Artigo 1.º — Aprovação do Regulamento das Custas dos Processos Tributários e da tabela de emolumentos
+
+(ver tabela no documento original)
+
+Às certidões requeridas através de sistemas de transmissão electrónica de dados, quando autorizado, para além dos emolumentos referidos, acrescerá, por cada uma, 1/13 de UC.
+
+Nos casos de isenção de emolumentos mencionar-se-á sempre, nos requerimentos, a disposição legal que confere a isenção, sob pena da isenção não ser considerada.
+
+As receitas geradas através da verba 4 constituem receita própria da DGITA e da DGCI, na proporção de 77% e 23%, respectivamente.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757), em vigor a partir de 2022-12-17
+
+###### Artigo 2.º — Unidade de conta
+
+À unidade de conta processual (UC) a que se refere o presente diploma e ao Regulamento e à tabela anexos é aplicável o disposto nos artigos 5.º e 6.º do Decreto-Lei n.º 212/89, de 30 de Junho.
+
+###### Artigo 3.º — Pagamento de encargos
+
+1 - O pagamento dos encargos referidos no artigo 20.º do Regulamento será adiantado pela DGCI, devendo o processamento da correspondente despesa ser documentado com despacho do juiz ou do chefe da repartição de finanças.
+
+2 - O abono ao encarregado da venda por negociação particular deverá ser devolvido quando esta venha a ser anulada por facto que lhe seja imputável.
+
+3 - A DGCI procederá, no prazo de 180 dias, à constituição de um fundo destinado a suportar os encargos, incluindo os decorrentes do apoio judiciário.
+
+###### Artigo 4.º — Destino da receita
+
+1 - As receitas provenientes de taxa de justiça, emolumentos, reembolsos de despesas e actos avulsos cobrados nos serviços fiscais, que não sejam respeitantes a matérias e actos da competência dos tribunais tributários, revertem para a DGCI, salvo disposição em contrário.
+
+2 - Serão reembolsados à Brigada Fiscal da Guarda Nacional Republicana 75% das despesas e actos avulsos por aquela praticados em fase de instrução dos processos de contra-ordenação nos casos em que a lei lhe atribua tal competência.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757) O n.º 2 aditado ao artigo 4.º do presente diploma, é aplicável aos processos de contra-ordenação instruídos pela Brigada Fiscal da Guarda
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 324/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757), em vigor a partir de 2002-12-17
+
+###### Artigo 5.º — Contagem dos prazos
+
+1 - À contagem dos prazos referidos no Regulamento aplica-se, com as necessárias adaptações, o disposto no artigo 144.º do Código de Processo Civil.
+
+2 - Aos prazos previstos no Regulamento não é aplicável o preceituado no n.º 5 do artigo 145.º do Código de Processo Civil.
+
+###### Artigo 6.º — Reembolso de despesas
+
+Os reembolsos das despesas com papel e cadernetas prediais ficam a cargo dos interessados, mediante o pagamento dos seguintes valores:
+
+1) Papel dactilografado, manuscrito ou fotocopiado numa ou nas duas faces:
+
+a) Matrizes prediais, por cada prédio - 1/150 de UC;
+
+b) De outras certidões ou certificados, por cada lauda - 1/150 de UC;
+
+2) Cadernetas prediais:
+
+a) Urbanas, cada uma - 1/100 de UC;
+
+b) Cadastrais:
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757), em vigor a partir de 2002-12-17
+
+###### Artigo 7.º — Contabilização de emolumentos e despesas e requerimento de certidões
+
+1 - Os emolumentos e as importâncias referidos no artigo anterior são arrecadados no acto do pedido, mediante o processamento do competente documento de cobrança.
+
+2 - Os pedidos de certidões através da utilização de meios disponibilizados no sistema de transmissão electrónica de dados, bem como a arrecadação dos respectivos emolumentos, efectivam-se nos termos definidos em portaria do Ministro das Finanças.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757) O n.º 2 aditado ao artigo 7.º ao presente diploma, entra em vigor no dia da publicação da portaria regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757), em vigor a partir de 2002-12-17
+
+###### Artigo 8.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 449/71, de 26 de Outubro, 217/76, de 25 de Março, 500/79, de 22 de Dezembro, e 199/90, de 19 de Junho.
+
+###### Artigo 9.º — Aplicação no tempo
+
+1 - O Regulamento aplica-se aos processos pendentes, salvo no que respeita à determinação da taxa de justiça e encargos decorrentes de decisões que se tenham tornado definitivas e aos prazos de pagamento dos preparos ou encargos que estejam em curso.
+
+2 - Nos processos de transgressão ainda pendentes à data da entrada em vigor do Regulamento aprovado pelo presente diploma, bem como nos que venham a ser instaurados, a tributação em custas far-se-á de harmonia com o previsto no Regulamento anterior, sem prejuízo da aplicação do actual quanto à determinação da taxa de justiça e dos encargos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 257/98 - Diário da República n.º 188/1998, Série I-A de 1998-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1998-437427), em vigor a partir de 1998-02-12
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma, bem como o Regulamento e a tabela dos emolumentos anexos, entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
+
+Promulgado em 26 de Janeiro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Janeiro de 1998.
+
+Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
+
+Regulamento das Custas dos Processos Tributários
+
+## Anexo
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Âmbito do diploma
+
+###### Artigo 1.º — Âmbito
+
+1 - As custas compreendem a taxa de justiça e os encargos.
+
+2 - Estão sujeitos a custas, salvo se forem isentos por lei, os processos de impugnação, as acções para o reconhecimento de um direito ou interesse legítimo, os processos de execução fiscal e os processos de contra-ordenação.
+
+###### Artigo 2.º — Disposições supletivas
+
+Em tudo o que não estiver especialmente previsto no presente Regulamento é aplicável, com as necessárias adaptações, o Código das Custas Judiciais e legislação complementar.
+
+#### Secção II — Isenções
+
+###### Artigo 3.º — Isenções subjectivas
+
+1 - Sem prejuízo do disposto em lei especial, são unicamente isentos de custas:
+
+a) O Estado, incluindo os seus serviços e organismos, ainda que personalizados;
+
+b) O Ministério Público;
+
+c) As Regiões Autónomas;
+
+d) O território de Macau;
+
+e) As autarquias locais e as associações e federações de municípios;
+
+f) As pessoas colectivas de utilidade pública administrativa;
+
+g) As instituições de segurança social e as instituições de previdência social de inscrição obrigatória;
+
+h) As instituições particulares de solidariedade social;
+
+i) O impugnante, em caso de desistência no prazo legal após a revogação parcial do acto impugnado;
+
+j) Os responsáveis subsidiários, quando efectuarem o pagamento da dívida nos termos e prazos estabelecidos no Código de Processo Tributário;
+
+l) Os funcionários, quanto às custas do processado inútil a que derem causa, se o juiz ou o chefe da repartição de finanças, em despacho fundamentado, lhes relevarem a falta.
+
+2 - Os representantes das autarquias locais, associações e federações de municípios, pessoas colectivas de utilidade pública administrativa, instituições de segurança social, instituições de previdência social de inscrição obrigatória e instituições particulares de solidariedade social são pessoalmente responsáveis, e solidariamente entre si, pelo pagamento de custas quando se mostre que actuaram no processo por interesses ou motivos estranhos às suas funções, o que será apreciado e decidido oficiosamente a final.
+
+###### Artigo 4.º — Isenções objectivas
+
+Sem prejuízo do disposto em lei especial, não são devidas custas:
+
+a) Nos processos administrativos fiscais e aduaneiros graciosos;
+
+b) No levantamento de sobras, de garantias prestadas ou de quaisquer outros valores;
+
+c) No levantamento da penhora, a pedido do adquirente dos bens.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 257/98 - Diário da República n.º 188/1998, Série I-A de 1998-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1998-437427), em vigor a partir de 1998-02-12
+
+#### Secção III — Valor para efeito de custas
+
+###### Artigo 5.º — Valor atendível nos processos de impugnação
+
+1 - Os valores atendíveis para efeitos de custas no processo de impugnação são os seguintes:
+
+a) Quando se impugnar a liquidação, o da importância cuja anulação se pretende;
+
+b) Quando se impugnarem os actos de fixação dos valores patrimoniais, o valor contestado;
+
+c) Quando se impugnar acto cujo valor não seja determinável, o fixado entre 1 UC e 50 UC, tendo em conta a complexidade do processo e a situação económica do impugnante.
+
+2 - Quando tenha havido apensação de impugnações, o valor é o da soma dos pedidos.
+
+###### Artigo 6.º — Valor atendível nas acções para reconhecimento de um direito ou interesse legítimo
+
+Nas acções para reconhecimento de um direito ou interesse legítimo, o valor é o fixado nos termos previstos para o processo de impugnação de valor indeterminado.
+
+###### Artigo 7.º — Valor atendível no processo de execução
+
+Os valores atendíveis no processo de execução são os seguintes:
+
+a) Na execução, o montante da dívida ou dívidas exequendas, o da parte restante quando tiver havido anulação parcial ou, em qualquer caso, o do produto dos bens liquidados, quando for inferior;
+
+b) Na execução a requerimento do sub-rogado, o da dívida inicial, com a limitação da alínea anterior;
+
+c) Na oposição, o da dívida ou parte da dívida exequenda que se pretenda ver excluída da execução;
+
+d) Nos embargos de terceiro, o dos bens embargados;
+
+e) No concurso de credores, o da soma dos créditos graduados, excepto os exequendos, ou o do produto dos bens liquidados, se for inferior; quando as custas fiquem a cargo do reclamante, o dos respectivos créditos;
+
+f) No levantamento da penhora a requerimento do executado ou de qualquer credor, o dos bens penhorados;
+
+g) Na anulação da venda, quando indeferida, o produto dos bens vendidos.
+
+###### Artigo 8.º — Valor atendível noutros incidentes
+
+Os valores atendíveis noutros incidentes são:
+
+a) Na reclamação da conta, o das custas cuja anulação se reclama;
+
+b) Nos incidentes inominados, o fixado nos termos previstos para o processo de impugnação de valor indeterminado;
+
+c) Na assistência, o do processo a que respeitar.
+
+## Anexo — tabela a que se refere o n.º 4 do artigo 9.º
+
+Execução Fiscal - Procedimento de verificação e graduação de créditos
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Aditado pelo/a Artigo 158.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+### Capítulo II — Taxa de justiça
+
+#### Secção I — Tabela aplicável
+
+###### Artigo 9.º — Taxa de justiça nos tribunais tributários de 1.ª Instância e nas repartições de finanças
+
+1 - Sem prejuízo do disposto no n.º 3 e nos artigos seguintes, a taxa de justiça nos tribunais tributários de 1.ª instância e nas repartições de finanças é a constante da tabela anexa, calculada sobre o valor atendível para efeito de custas.
+
+2 - A taxa de justiça mínima constante da tabela a que se refere o número anterior não pode ser inferior a metade de 1 UC.
+
+3 - No processo de execução fiscal, a taxa de justiça não pode exceder o montante da quantia exequenda.
+
+4 - No caso de haver lugar a procedimento de verificação e graduação de créditos em processo de execução fiscal, é devida taxa de justiça inicial, nos termos da tabela anexa a este diploma, a qual é devida pelo credor ou credores reclamantes.
+
+> Alterado pelo/a Artigo 158.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 257/98 - Diário da República n.º 188/1998, Série I-A de 1998-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1998-437427), em vigor a partir de 1998-02-12
+
+###### Artigo 10.º — Taxa de justiça nos recursos
+
+1 - A taxa de justiça nos recursos judiciais é fixada pelo juiz, em função da sua complexidade, entre 1 UC e 20 UC.
+
+2 - O disposto no número anterior é aplicável aos recursos das decisões dos tribunais tributários de 1.ª instância nos processos a que se refere o n.º 2 do artigo 1.º
+
+#### Secção II — Redução da taxa de justiça
+
+###### Artigo 11.º — Redução a metade da taxa de justiça
+
+A taxa de justiça é reduzida a metade:
+
+a) Na oposição à execução;
+
+b) Nos embargos de terceiro.
+
+###### Artigo 12.º — Redução a um quarto da taxa de justiça
+
+A taxa de justiça é reduzida a um quarto:
+
+a) Na assistência;
+
+b) Na anulação da venda;
+
+c) Nos processos de acção cautelar;
+
+d) No concurso de credores;
+
+e) Nas outras questões legalmente designadas ou configuradas como incidentes, sem prejuízo do disposto no artigo seguinte.
+
+###### Artigo 13.º — Taxa de justiça noutras questões incidentais e meios acessórios
+
+Nas ocorrências estranhas ao desenvolvimento normal da lide, que devam ser julgadas segundo os princípios que regem a condenação em custas, na incompetência relativa, nos impedimentos, nas suspeições, na habilitação, na falsidade, na produção antecipada de prova, na execução de julgados, na intimação para consulta de documentos e passagem de certidões, no desentranhamento de documentos e noutras questões incidentais cuja efectiva utilidade económica não seja determinável, a taxa de justiça é fixada pelo juiz ou pelo chefe da repartição de finanças em função da sua complexidade, do processado a que deu causa ou da sua natureza manifestamente dilatória, entre metade de 1 UC e 10 UC.
+
+###### Artigo 14.º — Redução da taxa de justiça segundo a fase do termo do processo
+
+1 - A taxa de justiça é reduzida a um terço:
+
+a) No processo de impugnação, quando não for recebida a petição ou se verificar a desistência antes da apresentação da posição do representante da Fazenda Pública ou, caso esta não se verifique, antes de decorrido o respectivo prazo, salvo o disposto na alínea i) do artigo 3.º;
+
+b) No processo de execução, quando o pagamento se efetuar até 30 dias após a citação.
+
+2 - A taxa de justiça é reduzida a três quartos:
+
+a) No processo de impugnação, quando terminar por desistência antes do julgamento;
+
+b) [Revogada];
+
+c) No processo de execução, quando o pagamento for efectuado por meio do pagamento em prestações, desde que o respectivo plano seja pontual e integralmente cumprido.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Alterado pelo/a Artigo 158.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757), em vigor a partir de 2002-12-17
+
+#### Secção III — Taxa de justiça
+
+###### Artigo 15.º — Pagamento gradual da taxa de justiça
+
+A taxa de justiça é paga gradualmente nos seguintes casos:
+
+a) Nas impugnações;
+
+b) Na oposição à execução;
+
+c) Nos embargos de terceiro;
+
+d) No concurso de credores;
+
+e) Nas acções para reconhecimento de um direito ou interesse legítimo;
+
+f) Nos recursos a que se refere o n.º 1 do artigo 10.º
+
+###### Artigo 16.º — Taxa de justiça inicial
+
+1 - No início dos processos referidos no artigo anterior é devida taxa de justiça correspondente a um quarto da devida a final, mas não inferior a metade de 1 UC.
+
+2 - Nos casos em que o valor do processo for indeterminável, o montante da taxa de justiça inicial será de metade de 1 UC.
+
+###### Artigo 17.º — Prazo de pagamento da taxa de justiça inicial
+
+1 - O pagamento da taxa de justiça inicial é efectuado no prazo de 10 dias a contar da data da apresentação da petição.
+
+2 - A isenção de pagamento de taxa de justiça no procedimento de verificação e graduação de créditos em execução fiscal depende da invocação dos pressupostos legais da sua existência na reclamação de créditos, bem como da junção dos comprovativos de que a mesma depende.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+###### Artigo 18.º — Omissão do pagamento pontual da taxa de justiça inicial
+
+1 - Na falta de pagamento pontual da taxa de justiça inicial, o órgão periférico local ou o juiz, no caso de apresentação da petição no tribunal tributário competente, notificará o interessado para, em cinco dias, efectuar o pagamento omitido, com acréscimo de taxa de justiça de igual montante, mas não inferior a 1 UC nem superior a 5 UC.
+
+2 - Não sendo pagas as quantias previstas no número anterior, o juiz, na decisão final, condenará o faltoso numa multa compreendida entre o triplo e o décuplo das quantias em dívida, com o limite de 20 UC.
+
+3 - Excetua-se do previsto nos números anteriores a falta de pagamento pontual da taxa de justiça inicial no procedimento de verificação e graduação de créditos em processo de execução fiscal, caso em que o interessado deve proceder, de forma espontânea, ao pagamento omitido, no prazo de três dias seguintes a contar do termo do prazo referido no n.º 1 do artigo anterior, com o acréscimo de taxa de justiça de igual montante, conforme tabela a que se refere o n.º 4 do artigo 9.º deste diploma.
+
+4 - Expirado o prazo referido no número anterior, sem que se mostre efetuado o pagamento integral da taxa de justiça devida, incluindo o respetivo acréscimo, o reclamante é excluído do procedimento de verificação e graduação de créditos, considerando-se a reclamação de créditos como não entregue para todos os efeitos legais.
+
+5 - Os prazos de remessa a tribunal referidos no Código de Processo Tributário iniciam-se com o termo do prazo estipulado no artigo anterior ou no n.º 1 do presente artigo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757), em vigor a partir de 2002-12-17
+
+###### Artigo 18.º-A — Devolução de taxa de justiça
+
+Se o interessado não pretender utilizar o documento comprovativo do pagamento da taxa de justiça inicial, requer à administração tributária, no prazo de seis meses após a emissão, a devolução da quantia paga, mediante entrega do original ou documento de igual valor, sob pena de reversão para a referida entidade.
+
+> Aditado pelo/a Artigo 227.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 19.º — Taxa de justiça paga a final
+
+1 - A taxa de justiça é apurada na conta final, levando-se em conta a taxa de justiça inicial já paga.
+
+2 - A taxa de justiça sancionatória a que alude o artigo anterior é incluída na conta, sendo abatida no caso de ter sido paga.
+
+3 - A taxa de justiça inicial já paga será restituída, na parte em que exceder a sua responsabilidade, a quem a depositou.
+
+4 - O disposto nos números anteriores não se aplica ao procedimento de verificação e graduação de créditos em processo de execução fiscal, com exceção da restituição da taxa de justiça a quem a depositou, que poderá ocorrer numa das seguintes situações:
+
+a) Pagamento de taxa de justiça sem apresentação da reclamação de créditos respetiva;
+
+b) Pagamento em valor superior ao fixado na tabela a que se refere o n.º 4 do artigo 9.º, caso em que se restituirá apenas a diferença de valores.
+
+5 - (Eliminado.)
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 257/98 - Diário da República n.º 188/1998, Série I-A de 1998-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1998-437427), em vigor a partir de 1998-02-12
+
+### Capítulo III — Encargos
+
+###### Artigo 20.º — Encargos
+
+1 - As custas compreendem os seguintes encargos:
+
+a) Os reembolsos por despesas adiantadas pela DGCI;
+
+b) Pagamentos devidos ou adiantados por quaisquer outras entidades;
+
+c) As retribuições devidas a quem interveio acidentalmente no processo, incluindo as compensações legalmente estabelecidas, nomeadamente aos depositários de bens penhorados, apreendidos, abandonados ou declarados perdidos a favor da Fazenda Pública;
+
+d) As despesas de transporte e ajudas de custo;
+
+e) O reembolso por franquias postais, comunicações telefónicas, telegráficas, por telecópia ou por meios telemáticos;
+
+f) O reembolso com a aquisição de suportes magnéticos necessários à gravação das provas.
+
+2 - O reembolso com despesas de papel, fotocópias e outro expediente, bem como os encargos referidos nas alíneas e) e f), é calculado à razão de três quartos de UC nas primeiras 50 folhas ou fracção do processado e de um oitavo de UC por cada conjunto subsequente de 25 folhas ou fracção do processado.
+
+3 - O reembolso com despesas de divulgação da venda através da Internet é estabelecido em 2 UC.
+
+4 - No processo de execução fiscal, o reembolso a que se refere o n.º 2 não pode exceder o montante das despesas efectivamente realizadas.
+
+5 - Quando se encontrar em execução fiscal quantia devida a entidade externa, cobrada pela Autoridade Tributária e Aduaneira e a mesma venha a ser anulada, o credor deve ressarcir a Autoridade Tributária e Aduaneira dos encargos que forem apurados no respetivo processo de execução fiscal.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Alterado pelo/a Artigo 158.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 307/2002 - Diário da República n.º 290/2002, Série I-A de 2002-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2002-405757), em vigor a partir de 2002-12-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 257/98 - Diário da República n.º 188/1998, Série I-A de 1998-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1998-437427), em vigor a partir de 1998-02-12
+
+### Capítulo IV — Conta
+
+###### Artigo 21.º — Conta de custas
+
+A conta será efectuada no tribunal ou na repartição de finanças onde ocorrer o facto que motivou a sua elaboração.
+
+###### Artigo 22.º — Dúvidas sobre a conta na repartição de finanças
+
+Em caso de dúvidas sobre a elaboração da conta, o funcionário contador deverá expô-las ao seu superior hierárquico, fazendo constar no processo o seu parecer.
+
+###### Artigo 23.º — Erro e reforma da conta nas repartições de finanças
+
+1 - Nas repartições de finanças a reforma da conta é da competência do respectivo chefe.
+
+2 - O interessado pode reclamar da conta enquanto não efectuar o seu pagamento.
+
+###### Artigo 24.º — Aplicação supletiva
+
+O presente Regulamento aplica-se supletivamente, com as adaptações necessárias, aos processos aduaneiros.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 433/99 - Diário da República n.º 250/1999, Série I-A de 1999-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), em vigor a partir de 1999-10-31
+
+## Anexo — Tabela a que se refere o artigo 1.º do diploma preambular
+
+(ver documento original)
+
+Às certidões requeridas através de sistemas de transmissão electrónica de dados, quando autorizado, para além dos emolumentos referidos, acrescerá, por cada uma, 1/10 de UC.
+
+Nos casos de isenção de emolumentos mencionar-se-á sempre, nos requerimentos, a disposição legal que confere a isenção, sob pena da isenção não ser considerada.
+
+As receitas geradas através da verba 4 constituem receita própria da DGITA e da DGCI, na proporção de 77 % e 23 %, respectivamente.
+
+## Anexo — Tabela a que se refere o n.º 1 do artigo 9.º
+
+(ver tabela no documento original)
+
+Para além de 10000 contos: por cada 1000 contos ou fracção, 10 contos de taxa de justiça.

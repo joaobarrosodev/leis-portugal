@@ -1,0 +1,285 @@
+---
+schema_version: '1.0'
+id: pt:dre:261119:por
+title: Portaria n.º 188/2013
+short_title: null
+summary: Adapta o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública aos serviços periféricos
+  externos no Ministério dos Negócios Estrangeiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 188/2013
+official_date: null
+publication_date: '2013-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2013, Série I de 2013-05-22
+  number: '98'
+  series: I
+  supplement: null
+  pages: 3013 - 3016
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09800/0301303016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/188/2013/05/22/p/dre/pt/html
+  oj: null
+  dre: '261119'
+  dre_path: /dr/detalhe/portaria/188-2013-261119
+  internal: pt:dre:261119:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-2013-261119
+  metadata_url: https://data.dre.pt/eli/port/188/2013/05/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-2013-261119
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-07-15T00:00:00Z'
+integrity:
+  source_sha256: c046fe05976923d00212989c73dd8c3afbf8ff1755c724e31e1708491ae6d5f0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-188-261119.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embaixada
+- Pessoal Dirigente
+- Comissão de Análise
+- Comissão Paritária
+- Consulado
+- Consulado Geral
+- SIADAP
+- Avaliação das Instituições
+- Funcionário Diplomático
+- Pessoal Consular
+- Regime Jurídico
+- Ministério dos Negócios Estrangeiros
+- Serviços Periféricos
+- Avaliação do Pessoal
+- Funcionário Público
+relationships:
+- type: amended_by
+  target: pt:dre:1148213728:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/47/2013/04/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/47/2013/04/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1633/2007/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1633/2007/12/31/p/dre
+article_structure:
+  article_count: 21
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 188/2013
+
+de 22 de maio
+
+A [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, que estabeleceu o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública (SIADAP), prevê a possibilidade de adaptação do regime nela consagrado, em razão das atribuições e organização dos serviços, das carreiras do seu pessoal ou das necessidades da sua gestão, com respeito pelos princípios, objetivos e subsistemas do SIADAP, pela avaliação do desempenho baseada na confrontação entre objetivos fixados e resultados obtidos e, no caso de dirigentes e trabalhadores, também as competências demonstradas e a desenvolver, e pela diferenciação de desempenhos, respeitando o número mínimo de menções de avaliação e o valor das percentagens máximas previstas.
+
+O Ministério dos Negócios Estrangeiros prossegue as suas atribuições de coordenação e execução da política externa de Portugal, designadamente, através dos serviços periféricos externos integrados na administração direta do Estado, que incluem as embaixadas, as missões e representações permanentes, as missões temporárias e os postos consulares.
+
+A natureza eminentemente política das suas atribuições, as condições muito díspares do seu exercício na enorme dispersão geográfica que lhes é inerente, e um modelo orgânico e de chefias sem qualquer paralelo com o dos serviços centrais, protótipo sobre o qual se modelou todo o sistema de avaliação de desempenho, quer dos serviços, quer dos dirigentes e dos trabalhadores, obrigam à criação de soluções de adequação que permitam, de modo pragmático, a observância de um sistema, cuja flexibilidade de adaptação é meramente instrumental da universalidade de aplicação.
+
+Nesse sentido, o [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, diploma que estabelece o regime jurídico dos trabalhadores recrutados para exercer funções nos serviços periféricos externos do Ministério dos Negócios Estrangeiros, incluindo os trabalhadores das residências oficiais do Estado, determina no seu artigo 7.º a adaptação do SIADAP, aos referidos trabalhadores, por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e dos negócios estrangeiros.
+
+A presente portaria visa assim sistematizar o conjunto de procedimentos que se demonstram necessários à plena operacionalização do SIADAP em toda a rede periférica externa do Ministério dos Negócios Estrangeiros.
+
+Foi ouvido o Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas.
+
+Assim:
+
+Ao abrigo do disposto no n.º 3 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, conjugado com o artigo 7.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, manda o Governo, pelos Ministros de Estado e das Finanças e dos Negócios Estrangeiros, o seguinte:
+
+#### SECÇÃO I — DISPOSIÇÕES GERAIS E COMUNS
+
+###### Artigo 1.º — Objeto
+
+A presente portaria adapta o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública, adiante designado por SIADAP, aos serviços periféricos externos do Ministério Negócios Estrangeiros.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+A presente portaria aplica-se aos trabalhadores recrutados para exercer funções nos serviços periféricos externos do Ministério dos Negócios Estrangeiros, incluindo os trabalhadores das residências oficiais do Estado, desde que a respetiva relação jurídica de emprego público seja por prazo igual ou superior a um ano, bem como aos titulares dos cargos de chefia de chancelaria e contabilidade, adiante designados chanceleres, e aos trabalhadores dos serviços periféricos externos integrados na categoria de coordenador técnico da carreira de assistente técnico, quando se encontrem em exercício de funções de chefia administrativa ou de programação e organização do trabalho do pessoal que coordena, segundo orientações e diretivas superiores.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do disposto na presente portaria, entende-se por:
+
+a) «Serviços», as embaixadas, que incluem os consulados-gerais, os consulados, os vice-consulados e as agências consulares na área de jurisdição da embaixada, as missões permanentes, as representações permanentes e as missões temporárias;
+
+b) «Dirigente máximo do serviço», o chefe de missão diplomática, o chefe da missão permanente, o chefe da representação permanente e o chefe da missão temporária, ou, na sua falta, o Secretário-Geral do Ministério Negócios Estrangeiros;
+
+c) «Dirigente intermédio do serviço», o chanceler e os trabalhadores integrados na categoria de coordenador técnico da carreira de assistente técnico, quando se encontrem em exercício de funções de chefia administrativa ou de programação e organização do trabalho do pessoal que coordena, segundo orientações e diretivas superiores;
+
+d) «Trabalhadores», os trabalhadores recrutados para exercer funções nos serviços periféricos externos do Ministério dos Negócios Estrangeiros, que não exerçam cargos de chefia, incluindo os trabalhadores das residências oficiais do Estado, independentemente do título jurídico da relação de trabalho, desde que a respetiva relação jurídica de emprego seja por prazo igual ou superior a um ano.
+
+###### Artigo 4.º — Tradução dos instrumentos de avaliação
+
+1 - Sempre que se revele necessário e seja possível, os modelos de fichas de autoavaliação, de avaliação do desempenho dos dirigentes intermédios (SIADAP 2) e dos trabalhadores da administração pública (SIADAP 3) e as listas de competências dos diversos grupos de pessoal, aprovados pela [Portaria n.º 1633/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1633-2007-628009), de 31 de dezembro, podem ser traduzidos para a língua oficial ou outra que seja falada no Estado acreditante.
+
+2 - Em caso de Estado acreditante multilingue deve ser escolhida a língua maioritariamente falada pelos dirigentes intermédios e trabalhadores do serviço periférico externo.
+
+#### SECÇÃO II — AVALIAÇÃO DO DESEMPENHO DOS SERVIÇOS PERIFÉRICOS EXTERNOS (SIADAP 1)
+
+###### Artigo 5.º — Quadro de avaliação e responsabilização dos serviços periféricos externos
+
+O quadro de objetivos anuais dos serviços periféricos externos (QUAR SERVIÇOS EXTERNOS) é aprovado por despacho do membro do Governo responsável pela área dos negócios estrangeiros, para efeitos de elaboração do QUAR de cada serviço.
+
+#### SECÇÃO III — AVALIAÇÃO DO DESEMPENHO DOS DIRIGENTES INTERMÉDIOS (SIADAP 2)
+
+###### Artigo 6.º — Periodicidade
+
+As avaliações globais e monitorizações intercalares do desempenho dos dirigentes intermédios dos serviços obedecem ao disposto na [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, sobre o desempenho dos dirigentes intermédios (SIADAP 2), em tudo o que não esteja regulado na presente portaria.
+
+###### Artigo 7.º — Avaliadores
+
+1 - Os dirigentes intermédios do serviço são avaliados por quem exerça a chefia imediata, pelo titular do posto ou secção consular ou pelo trabalhador da carreira diplomática de quem diretamente dependam.
+
+2 - Sempre que se revele necessário, cabe ao dirigente máximo do serviço designar o trabalhador da carreira diplomática que exercerá as funções de avaliador previstas neste artigo.
+
+#### SECÇÃO IV — AVALIAÇÃO DO DESEMPENHO DOS TRABALHADORES (SIADAP 3)
+
+###### Artigo 8.º — Periodicidade
+
+A avaliação do desempenho dos trabalhadores é bienal e segue o disposto na [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, sobre o desempenho dos trabalhadores da Administração Pública (SIADAP 3), em tudo o que não esteja regulado na presente portaria.
+
+###### Artigo 9.º — Efeitos da avaliação e potencial de desenvolvimento dos trabalhadores
+
+Não havendo condições disponíveis no respetivo serviço periférico externo, a efetivação do disposto na alínea b) do n.º 1 do artigo 52.º e no artigo 54.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, é assegurada pela Secretaria-Geral do MNE.
+
+###### Artigo 10.º — Sujeitos
+
+1 - Intervêm no processo de avaliação do desempenho no âmbito de cada serviço:
+
+a) O avaliador;
+
+b) O avaliado;
+
+c) O conselho coordenador ou comissão de avaliação;
+
+d) A comissão paritária;
+
+e) O dirigente máximo do serviço.
+
+2 - A ausência ou impedimento de avaliador direto não constitui fundamento para a falta de avaliação.
+
+###### Artigo 11.º — Avaliador
+
+1 - A avaliação é da competência do dirigente intermédio que exerça a chefia imediata, ou, na sua ausência ou impedimento, de quem exerça a chefia de nível seguinte.
+
+2 - Na falta de quem exerça a chefia imediata e a de nível seguinte, cabe ao dirigente máximo do serviço periférico externo designar o avaliador, de entre trabalhadores da carreira diplomática, desde que tenha contacto funcional com o avaliado, nos termos gerais.
+
+###### Artigo 12.º — Conselho coordenador ou comissão de avaliação
+
+1 - O conselho coordenador de avaliação é presidido pelo dirigente máximo do serviço e integra entre dois a cinco titulares de posto ou de secção consular ou, em caso de insuficiência destes, dirigentes intermédios dos serviços, por ele designados.
+
+2 - Quando não seja possível a constituição do conselho coordenador de avaliação nos termos do número anterior, as suas competências legais podem ser confiadas a uma comissão de avaliação única para os serviços periféricos externos, a constituir nos serviços centrais do Ministério dos Negócios Estrangeiros, por despacho do Secretário-Geral, mediante pedido fundamentado do dirigente máximo do serviço, composta por trabalhadores com responsabilidade funcional adequada.
+
+3 - O despacho fundamentado previsto no número anterior é publicitado pelos meios considerados mais adequados.
+
+4 - As reuniões do conselho coordenador ou comissão de avaliação podem ser realizadas em sistema de videoconferência, videochamada ou outro de natureza similar.
+
+###### Artigo 13.º — Comissão paritária
+
+1 - Sempre que não seja possível perfazer o número de vogais previsto no artigo 59.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, a comissão paritária pode ser composta por dois vogais, sendo um representante da Administração, designado pelo dirigente máximo do serviço, e um representante dos trabalhadores por estes eleito.
+
+2 - A impossibilidade de constituição de comissão paritária, por insuficiência de vogais, é declarada por despacho fundamentado do dirigente máximo do serviço, podendo as suas competências legais ser confiadas a uma comissão paritária única para os serviços periféricos externos, a constituir nos serviços centrais do Ministério dos Negócios Estrangeiros, por despacho do Secretário-Geral.
+
+#### SECÇÃO V — DISPOSIÇÕES COMPLEMENTARES E TRANSITÓRIAS
+
+###### Artigo 14.º — Ponderação curricular
+
+Sempre que no biénio anterior o trabalhador, ainda que tenha prestado serviço efetivo por mais de um ano, não tenha tido contacto funcional com o avaliador durante pelo menos um ano, seguido ou interpolado, por razões de funcionamento do serviço periférico externo, são aplicáveis os n.os 6 e 7 do artigo 42.º e o artigo 43.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro.
+
+###### Artigo 15.º — Publicitação
+
+A informação relativa ao SIADAP é publicitada na página eletrónica do serviço periférico externo e, caso não exista, os documentos com tal informação são publicitados por afixação em local adequado ou objeto de livre acesso em local publicamente anunciado.
+
+###### Artigo 16.º — Arquivo dos instrumentos de avaliação
+
+1 - Os instrumentos de avaliação dos chanceleres e dos trabalhadores são arquivados no respetivo processo individual no serviço periférico externo.
+
+2 - Os instrumentos de avaliação dos chanceleres em regime de comissão de serviço que não pertençam ao serviço periférico externo do MNE onde exercem funções são enviados ao serviço de origem ou ao serviço central com competência na área dos recursos humanos no termo da comissão de serviço.
+
+###### Artigo 17.º — Conhecimento do processo anual de avaliação
+
+O dirigente máximo do serviço comunica ao serviço central com competências na área dos recursos humanos a avaliação obtida pelo pessoal referido no artigo 2.º, no prazo máximo de sessenta dias após a apreciação de eventuais reclamações, quando as haja.
+
+###### Artigo 18.º — Tradução dos instrumentos de avaliação
+
+1 - A tradução dos instrumentos de avaliação prevista no artigo 4.º é promovida pelo dirigente máximo do serviço no prazo de três meses, a contar da data de entrada em vigor da presente portaria.
+
+2 - Os instrumentos de avaliação traduzidos são publicitados pelas formas previstas no artigo 15.º.
+
+3 - No caso de língua falada em mais do que um serviço, a tradução dos instrumentos de avaliação incumbe ao serviço periférico externo designado pelo Secretário-geral do Ministério dos Negócios Estrangeiros, que procederá posteriormente à sua divulgação pelos restantes serviços.
+
+###### Artigo 19.º — Estratégia do QUAR SERVIÇOS EXTERNOS
+
+A preparação e divulgação do QUAR SERVIÇOS EXTERNOS são asseguradas pelo serviço central com atribuições em matéria de planeamento, estratégia e avaliação.
+
+#### SECÇÃO VI — Disposições Finais
+
+###### Artigo 20.º — Regime subsidiário
+
+Em tudo o que não esteja regulado na presente portaria é aplicável o regime constante da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 26 de dezembro.
+
+###### Artigo 21º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 8 de maio de 2013.
+
+**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Sacadura Cabral Portas.**

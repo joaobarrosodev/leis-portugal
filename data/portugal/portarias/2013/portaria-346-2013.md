@@ -1,0 +1,268 @@
+---
+schema_version: '1.0'
+id: pt:dre:484145:por
+title: Portaria n.º 346/2013
+short_title: null
+summary: Define o regime de produção e comércio dos vinhos e demais produtos vitivinícolas da indicação geográfica (IG) «Península
+  de Setúbal». Revoga a Portaria n.º 695/2009, de 29 de junho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 346/2013
+official_date: null
+publication_date: '2013-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 230/2013, Série I de 2013-11-27
+  number: '230'
+  series: I
+  supplement: null
+  pages: 6572 - 6578
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/11/23000/0657206578.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/346/2013/11/27/p/dre/pt/html
+  oj: null
+  dre: '484145'
+  dre_path: /dr/detalhe/portaria/346-2013-484145
+  internal: pt:dre:484145:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-2013-484145
+  metadata_url: https://data.dre.pt/eli/port/346/2013/11/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-2013-484145
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-11-27T00:00:00Z'
+integrity:
+  source_sha256: 347aa5464832a99329e27cb94f95411a20d71b433fd285ef8878fb12e364df6b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-346-484145.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Alcácer do SAL
+- Alcochete
+- Almada
+- Barreiro
+- Vinho
+- Indicação Geográfica
+- Entidade Certificadora
+- Região Demarcada
+- Etiquetagem
+- Grândola
+- Santiago do Cacém
+- Certificado de Qualidade
+- Moita
+- Montijo
+- Palmela
+- Setúbal
+- Produção
+- Qualidade do Produto
+- Agricultura
+- Seixal
+- Sesimbra
+- Sines
+- Comércio
+- Produto Vitivinícola
+- Vitivinicultor
+- Vinha
+- ZONA Vitivinícola
+relationships:
+- type: cites
+  target: celex:32007R1234
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/1234/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/695/2009/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/695/2009/06/29/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 346/2013
+
+de 27 de novembro
+
+A Portaria n.º 695/2009, de 29 de junho, aprovou os Estatutos da Região Vitivinícola da Península de Setúbal e regula a produção e comercialização dos vinhos produzidos na área geográfica da Indicação Geográfica (IG) «Península de Setúbal».
+
+Contudo, reconhecendo a qualidade dos vinhos aí produzidos e tendo presente a importância e valor económico gerado pelos produtos vitivinícolas desta região, torna-se necessário rever aquele regime que não regulamenta aspetos específicos de produção e comércio de produtos com direito a IG, previstos no artigo 6.º do Decreto-Lei n.º 212/2004, de 23 de agosto.
+
+Assim, a presente portaria estabelece a produtividade das vinhas aptas a produzir vinhos com indicação geográfica, inclui uma nova designação que esses vinhos podem utilizar na sua comercialização, define as condições necessárias para beneficiar daquela designação e estabelece o rendimento por hectare das vinhas destinadas aos vinhos com a IG «Península de Setúbal», contribuindo para o aumento do valor económico gerado pelos produtos provenientes da região, mantendo a qualidade e as práticas tradicionais que caracterizam os vinhos e produtos vitivinícolas da região.
+
+Por outro lado, em consequência da nova organização comum dos mercados agrícolas (OCM única), estabelecida no Regulamento (CE) n.º [1234/2007](http://data.europa.eu/eli/reg/2007/1234/oj?locale=pt), do conselho, de 22 de outubro, alterado pelo Regulamento n.º 491/2009, do conselho de 25 de maio, a Portaria n.º 380/2012, de 22 de novembro, estabeleceu as atuais castas aptas à produção de vinho em Portugal, bem como a sua respetiva nomenclatura, tornando-se, assim, necessário, efetuar algumas alterações quanto aos encepamentos previstos na região da IG «Península de Setúbal», em conformidade com o regime estabelecido naquela portaria.
+
+Tendo em conta a extensão das alterações introduzidas e a sistematização agora adotada optou-se por revogar a Portaria n.º 695/2009, de 29 de junho, e aprovar uma nova portaria definindo as normas técnicas para a produção dos produtos vitivinícolas da IG «Península de Setúbal».
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no n.º 1 do artigo 4.º e no artigo 6.º do Decreto-Lei n.º 212/2004, de 23 de agosto, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria define o regime de produção e comércio dos vinhos e demais produtos vitivinícolas da indicação geográfica (IG) «Península de Setúbal».
+
+###### Artigo 2.º — Indicação geográfica
+
+1 - A IG «Península de Setúbal» reconhecida pode ser usada para a identificação de vinho branco, vinho tinto, vinho rosé ou rosado, vinho espumante, vinho frisante, vinho licoroso e vinagre de vinho que se integram respetivamente nas categorias de vinho, vinho espumante, de vinho frisante, de vinho licoroso e de vinagre de vinho e que satisfaçam os requisitos estabelecidos na presente portaria e demais legislação aplicável.
+
+2 - Pode ser utilizada em associação com a IG «Península de Setúbal» o designativo «ligeiro» ou de «baixo grau», desde que os vinhos satisfaçam os requisitos previstos na presente portaria e demais legislação aplicável.
+
+3 - Não é permitida a utilização em outros produtos vitivinícolas de nomes, marcas, termos, expressões ou símbolos suscetíveis de, pela sua similitude gráfica ou fonética com os protegidos pela presente portaria, induzam em erro o consumidor, mesmo que precedidos dos termos «tipo», «estilo» ou outros análogos.
+
+###### Artigo 3.º — Delimitação da região
+
+A área geográfica de produção dos vinhos com IG «Península de Setúbal» corresponde à área prevista no anexo I à presente portaria, da qual faz parte integrante, e abrange todos os concelhos do distrito de Setúbal.
+
+###### Artigo 4.º — Solos
+
+As vinhas destinadas à produção dos vinhos com IG «Península de Setúbal» devem estar, ou ser, instaladas em solos que se enquadrem num dos seguintes tipos:
+
+a) Solos calcários pardos ou vermelhos, derivados de calcários e margas;
+
+b) Solos mediterrânicos pardos ou vermelhos derivados de arenitos, argilas, argilitos, xistos e rochas eruptivas;
+
+c) Solos litólicos não húmicos derivados de materiais arenáceos pouco consolidados;
+
+d) Solos podzolizados de areias e arenitos;
+
+e) Regossolos psamíticos.
+
+###### Artigo 5.º — Castas
+
+As castas a utilizar na elaboração dos produtos vínicos com IG «Península de Setúbal» são as constantes do anexo II à presente portaria, da qual faz parte integrante.
+
+###### Artigo 6.º — Inscrição e caracterização das vinhas
+
+1 - As vinhas destinadas à produção dos vinhos com IG «Península de Setúbal» devem, a pedido dos interessados, ser inscritas na respetiva entidade certificadora que verifica se satisfazem os requisitos necessários, procede ao respetivo cadastro e efetua, no decurso do ano, as verificações que entender necessárias.
+
+2 - Sempre que se verifiquem alterações na titularidade ou na constituição das vinhas cadastradas e aprovadas, os viticultores dão conhecimento do facto à respetiva entidade certificadora.
+
+3 - A falta de comunicação das alterações referidas no número anterior à entidade certificadora, por parte do viticultor, determina que as uvas das respetivas vinhas não podem ser utilizadas na elaboração dos vinhos com IG «Península de Setúbal».
+
+###### Artigo 7.º — Práticas culturais
+
+1 - As vinhas destinadas à elaboração dos vinhos com IG «Península de Setúbal» devem ser conduzidas segundo as formas tradicionais na região ou que a entidade certificadora venha a autorizar.
+
+2 - As práticas culturais devem ser as tradicionais na região ou recomendadas pela entidade certificadora, em ligação com os serviços regionais de agricultura.
+
+###### Artigo 8.º — Rendimento por hectare
+
+O rendimento por hectare das vinhas destinadas aos vinhos, vinhos espumantes, vinhos frisante e vinhos licorosos com a IG «Península de Setúbal» está limitado a 30 toneladas de produção de uvas, por hectare.
+
+###### Artigo 9.º — Vinificação
+
+1 - Os mostos destinados à elaboração dos vinhos com IG «Península de Setúbal» devem ter um título alcoométrico natural mínimo de:
+
+a) Vinho branco - 9 % vol.;
+
+b) Vinho tinto - 10 % vol.;
+
+c) Vinho rosado - 9,5 % vol.;
+
+d) Vinho frisante - 9 % vol.;
+
+e) Vinho base de espumante - 9 % vol.;
+
+f) Vinho licoroso - 12 % vol.
+
+2 - A produção de vinhos e vinhos espumantes que venham a beneficiar da IG «Península de Setúbal» deve seguir os métodos de vinificação tradicionais e as práticas e tratamentos enológicos legalmente autorizados.
+
+###### Artigo 10.º — Características dos vinhos produzidos
+
+1 - Os vinhos com IG «Península de Setúbal» devem ter um título alcoométrico volúmico adquirido (TAVA) mínimo de:
+
+a) Vinho branco - 9,5 % vol.;
+
+b) Vinho tinto - 10,5 % vol.;
+
+c) Vinho rosado - 10 % vol.
+
+d) Vinho frisante - 9,5 % vol.;
+
+e) Vinho base de espumante - 9,5 % vol.;
+
+f) Vinho licoroso - 16 % vol.
+
+2 - Os vinhos com a IG «Península de Setúbal» que venham a utilizar o designativo «ligeiro» ou de «baixo grau» devem ter um título alcoométrico adquirido mínimo igual ou superior a 9% e máximo igual ou inferior a 10,5%.
+
+3 - Em relação aos restantes parâmetros analíticos, os vinhos devem apresentar os valores definidos para essa categoria de produto.
+
+4 - A realização de análises físico-química e organoléptica constitui regra e disciplina a observar com vista à aprovação dos vinhos com a IG «Península de Setúbal».
+
+5 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor.
+
+6 - Em relação aos restantes elementos, os vinhos devem apresentar as características legalmente definidas para essa categoria de vinho.
+
+###### Artigo 11.º — Inscrição de operadores económicos
+
+Sem prejuízo de outras exigências legais aplicáveis de âmbito geral, todas as pessoas, singulares ou coletivas, que se dediquem à produção e comercialização dos produtos com IG «Península de Setúbal», excluída a distribuição e a venda a retalho dos produtos engarrafados, estão obrigadas a efetuar a sua inscrição, bem como das respetivas instalações, na entidade certificadora, em registo apropriado para o efeito.
+
+###### Artigo 12.º — Engarrafamento, rotulagem e comercialização
+
+1 - Os produtos com a IG «Península de Setúbal», só podem ser comercializados após a sua certificação pela entidade certificadora.
+
+2 - Os rótulos a utilizar nos produtos com IG «Península de Setúbal» têm de respeitar as normas legais aplicáveis, assim como as definidas pela entidade certificadora, à qual são previamente apresentados, para apreciação.
+
+###### Artigo 13.º — Circulação e documentação de acompanhamento
+
+Os vinhos, vinhos frisantes, vinhos espumantes e vinhos licorosos com a IG «Península de Setúbal», só podem ser comercializados e postos em circulação desde que nos respetivos recipientes, à saída das instalações de elaboração, figure a indicação geográfica, atestada pela entidade certificadora, sejam acompanhados da necessária documentação oficial e sejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade certificadora.
+
+###### Artigo 14.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+###### Artigo 15.º — Revogação
+
+É revogada a Portaria n.º 695/2009, de 29 de junho.
+
+**O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 19 de novembro de 2013.**
+
+## ANEXO I — (a que se refere o artigo 3.º)
+
+Área geográfica de produção da IG «Península de Setúbal»
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23000/0657206578.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23000/0657206578.pdf)
+
+## ANEXO II — (a que se refere o artigo 5.º)
+
+Castas aptas à produção de vinhos com IG «Península de Setúbal»
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/23000/0657206578.pdf))](https://files.diariodarepublica.pt/1s/2013/11/23000/0657206578.pdf)

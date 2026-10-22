@@ -1,0 +1,260 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:452513:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-890193306",
+ "dre_path": "/dr/detalhe/decreto-lei/287-1983-452513",
+ "source_lastmod": "2024-10-07",
+ "versions": [
+  {
+   "date": "1983-06-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890190669",
+    "890190670",
+    "890190671",
+    "890190672",
+    "890190673",
+    "890190674",
+    "890193775",
+    "890193776",
+    "890193777",
+    "890193778",
+    "890193779",
+    "890193780",
+    "890193781",
+    "890193782",
+    "890193783"
+   ]
+  },
+  {
+   "date": "1984-06-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:386594:por",
+     "title": "Decreto-Lei n.º 199/84",
+     "published": "1984-06-14",
+     "dre_path": "/dr/detalhe/decreto-lei/199-1984-386594"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "890190669",
+    "890190670",
+    "890193789",
+    "890190672",
+    "890193790",
+    "890190674",
+    "890193791",
+    "890193832",
+    "890193777",
+    "890193778",
+    "890193792",
+    "890193780",
+    "890193781",
+    "890193793",
+    "890193783",
+    "890193784"
+   ]
+  }
+ ],
+ "fragments": {
+  "890190669": {
+   "fragment_id": "890193307",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 287/83\n\nde 22 de Junho\n\nAs dificuldades sentidas pelos armadores de navios de comércio na actual conjuntura económica tornam o sector dos transportes marítimos particularmente sensível, pelo que urge tomar medidas tendentes a minimizar as dificuldades sentidas nesta actividade industrial, tão necessária ao desenvolvimento do País.\n\nÉ intenção governativa facilitar o cabal desenvolvimento do sector, adoptando medidas que se adaptem às actuais realidades económicas, tendo particularmente em atenção os reflexos dos novos modelos contratuais consagrados na recente legislação sobre locação financeira.\n\nPor outro lado, cumprirá honrar a tradição de bandeira portuguesa no transporte marítimo e manter o prestígio das suas tripulações, que ora se encontram, por vezes, na contingência de navegarem sob pavilhões que lhes são totalmente estranhos e que poderão não lhes garantir a protecção legal a que têm constitucionalmente direito.\n\nFinalmente, e tendo em consideração que nem sempre é aconselhável ou possível um investimento que permita de imediato a transmissão de propriedade, pretende-se também salvaguardar o interesse do armamento nacional, permitindo-lhe operar sob bandeira portuguesa, mesmo nos casos em que não seja detentor do título de propriedade do navio.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "890190670": {
+   "fragment_id": "890193308",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - As embarcações de comércio tomadas de fretamento em casco nu, com opção de compra, por armadores nacionais inscritos podem, mediante autorização do Ministro da Habitação, Obras Públicas e Transportes, ser registadas, a título temporário, nas repartições marítimas, nos termos dos artigos 72.º e seguintes do Regulamento Geral das Capitanias (RGC), aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho.\n\n2 - A autorização a que se refere o número anterior determinará o prazo de validade do registo temporário, que não deverá ser superior a 5 anos, podendo, no entanto, ser prorrogado."
+  },
+  "890190671": {
+   "fragment_id": "890193309",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO armador nacional afretador deverá dirigir o seu requerimento ao Ministro da Habitação, Obras Públicas e Transportes e entregá-lo na Inspecção-Geral de Navios, acompanhado dos seguintes documentos:\n\na) Original ou cópia certificada do contrato de fretamento do navio em casco nu, com opção de compra, devidamente traduzido em língua portuguesa;\n\nb) Nota descritiva das vantagens e do interesse que advém para a economia nacional e para o requerente com o registo e embandeiramento temporário do navio estrangeiro em questão;\n\nc) Declaração do proprietário autorizando a nacionalização e registo temporário do seu navio em Portugal;\n\nd) Documento, emitido pela entidade competente do país onde o navio está registado, autorizando o registo em Portugal nos termos do presente diploma;\n\ne) Certidão do registo de propriedade do navio, donde constem as hipotecas e outros encargos sobre o mesmo, devidamente traduzida em língua portuguesa;\n\nf) Cópia do certificado de arqueação do navio;\n\ng) Cópia dos certificados de segurança do navio e os da sua sociedade de classificação, devidamente válidos."
+  },
+  "890190672": {
+   "fragment_id": "890193310",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Obtida a autorização para o registo temporário do navio em Portugal, o requerente deverá solicitar para o navio o seguinte:\n\na) Número de registo que irá ser atribuído;\n\nb) Indicativo de chamada;\n\nc) Certificado de arqueação.\n\n2 - O certificado de arqueação, sempre que tal for possível e dentro da prática usada internacionalmente, será passado com base no certificado de arqueação estrangeiro do navio.\n\n3 - Nas exigências para a atribuição do indicativo de chamada será tido em conta o carácter temporário do registo do navio em Portugal.\n\n4 - O nome do navio é o que consta do registo mencionado na alínea e) do artigo 2.º"
+  },
+  "890190673": {
+   "fragment_id": "890193311",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O registo temporário do navio será feito na competente repartição marítima, segundo os princípios e com as formalidades estabelecidas no RGC, desde que não contrariem as disposições do presente diploma.\n\n2 - Com o pedido de registo temporário torna-se necessário apresentar a seguinte documentação:\n\na) Documento comprovativo da qualidade portuguesa do requerente e de que é armador nacional inscrito;\n\nb) Documento comprovativo da inscrição do contrato de fretamento em casco nu, com opção de compra, prevista no n.º 2 do artigo 7.º;\n\nc) Certidão de despacho ministerial autorizando o registo temporário do navio em Portugal;\n\nd) Original ou cópia certificada do contrato de fretamento em casco nu, com opção de compra, devidamente traduzido em língua portuguesa;\n\ne) Declaração do proprietário autorizando a nacionalização e registo temporário do navio em Portugal;\n\nf) Documento, emitido pela entidade competente do país onde o navio está registado, autorizando o registo em Portugal nos termos do presente diploma;\n\ng) Certidão do registo de propriedade do navio, donde constem as hipotecas e outros encargos sobre o mesmo, devidamente traduzida em língua portuguesa;\n\nh) Documento que comprove o número de registo temporário atribuído;\n\ni) Documento que comprove o indicativo de chamada;\n\nj) Certificado de arqueação emitido pelas autoridades portuguesas;\n\nl) Documento comprovativo da autorização do Banco de Portugal;\n\nm) Certidão do termo da vistoria de registo.\n\n3 - É dispensada a apresentação dos documentos que já tenham instruído o requerimento referido no artigo 2.º"
+  },
+  "890190674": {
+   "fragment_id": "890193312",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA emissão de passaporte provisório, quando feita pelos funcionários consulares, nos termos do artigo 336.º do Regulamento Consular Português, fica sujeita à apresentação dos seguintes documentos:\n\na) Contrato de fretamento em casco nu, com opção de compra;\n\nb) Certidão do registo de propriedade;\n\nc) Certidão de autorização do Ministro da Habitação, Obras Públicas e Transportes."
+  },
+  "890193775": {
+   "fragment_id": "890193313",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Efectuado o registo temporário do navio, a repartição marítima emitirá o correspondente certificado, que será de modelo a aprovar em portaria do Ministro da Habitação, Obras Públicas e Transportes.\n\n2 - Do título referido no número anterior deverá constar também o seguinte:\n\na) Nome do proprietário e do local do registo do navio no estrangeiro;\n\nb) Nome do armador nacional afretador;\n\nc) Prazo de validade, de acordo com a autorização ministerial."
+  },
+  "890193776": {
+   "fragment_id": "890193314",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O registo efectuado nos termos deste diploma não confere aos requerentes a propriedade das embarcações, nem a mesma se presume.\n\n2 - As embarcações registadas ao abrigo deste diploma estão dispensadas de registo comercial, mas nele deve ser inscrito o contrato de fretamento em casco nu, com opção de compra, com referência à matrícula do afretador.\n\n3 - As embarcações registadas nos termos deste diploma têm direito ao uso da bandeira portuguesa, como indicação da sua nacionalidade."
+  },
+  "890193777": {
+   "fragment_id": "890193315",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO armador nacional afretador deve registar na repartição marítima competente e no registo comercial quaisquer alterações ao contrato de fretamento, as quais deverão ser previamente comunicadas à Inspecção-Geral de Navios."
+  },
+  "890193778": {
+   "fragment_id": "890193316",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ proibido o subfretamento em casco nu de navios registados ao abrigo do presente diploma."
+  },
+  "890193779": {
+   "fragment_id": "890193317",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Os registos efectuados ao abrigo deste diploma são cancelados quando o contrato de fretamento, com opção de compra, se extinguir.\n\n2 - O cancelamento do registo temporário será feito automaticamente ao caducar a validade do certificado de registo temporário, a menos que este tenha sido prorrogado, perdendo o navio a faculdade de usar a bandeira portuguesa."
+  },
+  "890193780": {
+   "fragment_id": "890193318",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO abate do registo efectuado num consulado, nos termos do artigo anterior, deverá ser comunicado à Inspecção-Geral de Navios, que o transmitirá à repartição marítima do registo, conforme estipula o artigo 90.º do RGC."
+  },
+  "890193781": {
+   "fragment_id": "890193319",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nDeverão ser enviadas à Inspecção-Geral de Navios cópias dos títulos de registo, emitidos ao abrigo das disposições do presente diploma."
+  },
+  "890193782": {
+   "fragment_id": "890193320",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nTodos os assuntos relacionados com as vistorias a efectuar ao navio, tendo em vista o seu registo temporário em Portugal e a emissão dos correspondentes certificados de segurança e outros, deverão ser coordenados pela Inspecção-Geral de Navios, nos termos do artigo 156.º do RGC."
+  },
+  "890193783": {
+   "fragment_id": "890193321",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs navios que usem a bandeira portuguesa ao abrigo das disposições deste diploma ficam sujeitos ao cumprimento dos mesmos requisitos técnicos que são exigidos aos navios nacionais."
+  },
+  "890193789": {
+   "fragment_id": "890193309",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1984-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO armador nacional afretador deverá dirigir o seu requerimento ao Ministro da Habitação, Obras Públicas e Transportes e entregá-lo na Inspecção-Geral de Navios, acompanhado dos seguintes documentos:\n\na) Original ou cópia certificada do contrato de fretamento do navio em casco nu, com opção de compra, devidamente traduzido em língua portuguesa;\n\nb) Nota descritiva das vantagens e do interesse que advém para a economia nacional e para o requerente com o registo e embandeiramento temporário do navio estrangeiro em questão;\n\nc) Declaração do proprietário autorizando o registo temporário do navio em Portugal;\n\nd) Documento, emitido pela entidade competente do país onde o navio está registado, autorizando o registo em Portugal nos termos do presente diploma;\n\ne) Certidão do registo de propriedade do navio, donde constem as hipotecas e outros encargos sobre o mesmo, devidamente traduzida em língua portuguesa;\n\nf) Cópia do certificado de arqueação do navio;\n\ng) Cópia dos certificados de segurança do navio e os da sua sociedade de classificação, devidamente válidos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+  },
+  "890193790": {
+   "fragment_id": "890193311",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1984-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O registo temporário do navio será feito na competente repartição marítima, segundo os princípios e com as formalidades estabelecidas no RGC, desde que não contrariem as disposições do presente diploma.\n\n2 - Com o pedido de registo temporário torna-se necessário apresentar a seguinte documentação:\n\na) Documento comprovativo da qualidade portuguesa do requerente e de que é armador nacional inscrito;\n\nb) Documento comprovativo da inscrição do contrato de fretamento em casco nu, com opção de compra, prevista no n.º 2 do artigo 7.º;\n\nc) Certidão de despacho ministerial autorizando o registo temporário do navio em Portugal;\n\nd) Original ou cópia certificada do contrato de fretamento em casco nu, com opção de compra, devidamente traduzido em língua portuguesa;\n\ne) Declaração do proprietário autorizando o registo temporário do navio em Portugal;\n\nf) Documento, emitido pela entidade competente do país onde o navio está registado, autorizando o registo em Portugal nos termos do presente diploma;\n\ng) Certidão do registo de propriedade do navio, donde constem as hipotecas e outros encargos sobre o mesmo, devidamente traduzida em língua portuguesa;\n\nh) Documento que comprove o número de registo temporário atribuído;\n\ni) Documento que comprove o indicativo de chamada;\n\nj) Certificado de arqueação emitido pelas autoridades portuguesas;\n\nl) Documento comprovativo da autorização do Banco de Portugal;\n\nm) Certidão do termo da vistoria de registo.\n\n3 - É dispensada a apresentação dos documentos que já tenham instruído o requerimento referido no artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+  },
+  "890193791": {
+   "fragment_id": "890193313",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1984-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Efectuado o registo temporário do navio, a repartição marítima emitirá o correspondente certificado, que será de modelo a aprovar em portaria do Ministro da Habitação, Obras Públicas e Transportes.\n\n2 - Do título referido no número anterior deverá constar também o seguinte:\n\na) Nome do proprietário e do local do registo do navio no estrangeiro;\n\nb) Nome do armador nacional afretador;\n\nc) Prazo de validade, de acordo com a autorização ministerial.\n\nd) Averbamento dos ónus e encargos que impendem sobre o navio, de conformidade com o constante no documento mencionado na alínea g) do n.º 2 do artigo 4.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+  },
+  "890193832": {
+   "fragment_id": "890193314",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1984-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O registo efectuado nos termos deste diploma não confere aos requerentes a propriedade das embarcações, nem a mesma se presume.\n\n2 - As embarcações registadas ao abrigo deste diploma estão dispensadas de registo comercial, mas nele deve ser inscrito o contrato de fretamento em casco nu, com opção de compra, com referência à matrícula do afretador.\n\n3 - As embarcações registadas nos termos deste diploma têm direito ao uso da bandeira portuguesa.\n\n4 - O registo do contrato de fretamento em casco nu, bem como as suas alterações, tal como é referido no n.º 2 deste artigo, estão isentos de emolumentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+  },
+  "890193792": {
+   "fragment_id": "890193317",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1984-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - Os registos efectuados ao abrigo deste diploma são cancelados quando o contrato de fretamento, com opção de compra, se extinguir.\n\n2 - O cancelamento do registo temporário será feito automaticamente ao caducar a validade do certificado de registo temporário, a menos que este tenha sido prorrogado, perdendo o navio a faculdade de usar a bandeira portuguesa.\n\n3 - Havendo lugar à prorrogação do registo temporário, a mesma fica dependente da apresentação na repartição marítima competente dos seguintes documentos:\n\na) Certidão do despacho ministerial autorizando a prorrogação requerida;\n\nb) As declarações referidas nas alíneas e) e f) do n.º 2 do artigo 4.º cujas validades possam ter caducado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+  },
+  "890193793": {
+   "fragment_id": "890193320",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1984-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+   ],
+   "markdown": "###### Artigo 13.º\n\nTodos os assuntos relacionados com as vistorias a efectuar ao navio, tendo em vista o seu registo temporário em Portugal e a emissão dos correspondentes certificados de segurança e outros, deverão ser coordenados pela Inspecção-Geral de Navios, nos termos do artigo 156.º do RGC, a qual providenciará no sentido de que, sempre que o julgar necessário, em toda a documentação passada ao abrigo do presente diploma seja a este feita a devida referência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 199/84 - Diário da República n.º 137/1984, Série I de 1984-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), em vigor a partir de 1984-06-15"
+  },
+  "890193784": {
+   "fragment_id": "890193322",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Março de 1983. - Francisco José Pereira Pinto Balsemão - Ricardo Manuel Simões Bayão Horta - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 31 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 31 de Maio de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  }
+ }
+}

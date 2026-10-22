@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:491200:por
+title: Declaração de Rectificação n.º 71/2009
+short_title: null
+summary: Rectifica o Decreto-Lei n.º 173/2009, de 3 de Agosto, do Ministério da Agricultura, do Desenvolvimento Rural e das
+  Pescas, que aprova o estatuto das denominações de origem e indicação geográfica da Região Demarcada do Douro, publicado
+  no Diário da República, 1.ª série, n.º 148, de 3 de Agosto de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Centro Jurídico
+proposing_entity: null
+official_number: 71/2009
+official_date: null
+publication_date: '2009-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/2009, Série I de 2009-10-02
+  number: '192'
+  series: I
+  supplement: null
+  pages: 7134 - 7135
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19200/0713407135.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/71/2009/10/02/p/dre/pt/html
+  oj: null
+  dre: '491200'
+  dre_path: /dr/detalhe/declaracao-rectificacao/71-2009-491200
+  internal: pt:dre:491200:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2009-491200
+  metadata_url: https://data.dre.pt/eli/declrectif/71/2009/10/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2009-491200
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-10-02T00:00:00Z'
+integrity:
+  source_sha256: 2ffca8524d1dc831f5344074c510575033fa0ea8ea08826f133cdd18291f4c65
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-71-491200.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Indicação Geográfica
+- Denominação de Origem
+- Estatuto
+- Região Demarcada do Douro
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/173/2009/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/173/2009/08/03/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 71/2009
+
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, declara-se que o [Decreto-Lei n.º 173/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2009-493025), de 3 de Agosto, publicado no Diário da República, 1.ª série, n.º 148, de 3 de Agosto de 2009, saiu com uma inexactidão que, mediante declaração da entidade emitente, assim se rectifica.
+
+No anexo II (a que se refere o n.º 5 do artigo 4.º do estatuto), onde se lê:
+
+## ANEXO II — (a que se refere o n.º 5 do artigo 4.º do estatuto)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0713407135.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0713407135.pdf)
+
+deve ler-se:
+
+## ANEXO II — (a que se refere o n.º 5 do artigo 4.º do estatuto)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0713407135.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0713407135.pdf)
+
+Memória descritiva do EG
+
+Sistema de coordenadas: Datum 73 Hayford Gauss IGeoE.
+
+Descrição:
+
+Ponto A - cais Lugan/cais do Cavaco; limite mais a norte do EG (coordenadas - 157 670, 464 206 m). Entre os pontos A e B o limite segue a margem do rio Douro;
+
+Ponto B - Ponte do Infante D. Henrique. Entre o ponto B e o ponto C o limite segue uma linha paralela à margem do rio Douro, distando da mesma 500 m;
+
+Ponto C - início da Zona industrial de Avintes (limite nordeste da Zona Industrial). Entre os pontos C e D o limite segue o contorno da área industrial existente e da área industrial prevista de Avintes (limite este);
+
+Ponto D - limite sul da Zona industrial de Avintes é também o limite mais a sul do EG (coordenadas - 166 762, 456 344 m). Entre os pontos D e E o limite segue o contorno da área industrial existente e da área industrial prevista de Avintes (limite oeste);
+
+Ponto E - início da Zona industrial de Avintes (limite noroeste da Zona Industrial). Entre os pontos E e F o limite segue a Avenida de Vasco da Gama durante 1010 m;
+
+Ponto F - cruzamento da Avenida de Vasco da Gama com a Rua dos Pinhais Bastos. No ponto F o limite vira a norte e percorre a Rua dos Pinhais Bastos, seguindo depois pela Rua de 5 de Outubro, até ao cruzamento com a Rua do 1.º de Maio, seguindo por esta rua até entroncar na Rua de Cândido dos Reis;
+
+Ponto G - entroncamento da Rua do 1.º de Maio com a Rua de Cândido dos Reis. O limite segue do ponto G para o ponto H em linha recta (430 m);
+
+Ponto H - entroncamento da Rua de Santo António com a Rua da Balsa. No ponto H o limite percorre a Rua da Balsa até ao cruzamento da Rua do Senhor do Padrão, seguindo depois por esta até à Rua dos Febros, segue esta rua até entroncar na Rua da Azenha, seguindo por esta até entroncar novamente na Rua de 5 de Outubro. O limite do EG vira na direcção oeste e segue a Rua de 5 de Outubro, passando por baixo da A 20/IP 1 e seguindo até ao entroncamento desta rua com a Rua de Alexandre Herculano e a Rua de Santos Pousada. Daqui o limite segue a Rua de Santos Pousada até ao cruzamento desta com a Rua de José Bonaparte, vira a oeste e segue até ao fim da Rua de José Bonaparte que entronca na Rua das Lavandeiras que por sua vez entronca na Rua de Raimundo de Carvalho, segue esta rua até à Rotunda de Bartolomeu Dias e em seguida até a Rotunda de Diogo Cão;
+
+Ponto I - Rotunda de Diogo Cão. Do ponto I o limite segue para norte pela Avenida de D. João II, até cruzar com a Avenida dos Descobrimentos (cruzamento desnivelado), segue para oeste por esta rua até entroncar na Avenida do Infante D. Henrique, seguindo para sul por esta avenida, passando por cima da A 1/IC 2 até entroncar na Rua da Barreira, onde vira na direcção oeste. O limite segue a Rua da Barreira até ao entroncamento com a Rua dos Lagos onde vira a oeste e segue pela Rua dos Lagos até cruzar com a Avenida dos Descobrimentos, virando a norte e seguindo por esta avenida e passando por cima da A 1/IC 2, seguindo até ao nó da Avenida dos Descobrimentos;
+
+Ponto J - nó da Av. dos Descobrimentos. Do ponto J o limite segue para este no sentido da Rua de África, segue a Rua de África até ao cruzamento com a Rua de Latino Coelho, onde vira para norte e segue a Rua de Latino Coelho, no segundo cruzamento segue para noroeste até à Rua de Machado dos Santos. Esta rua passa por cima da linha ferroviária até entroncar na Rua da Bélgica, seguindo depois na direcção norte pela Rua Machado dos Santos, entroncando na Rua de Fernandes dos Anjos pela qual segue até à Rua de Vera Cruz, continuando nesta rua até ao cruzamento com a Rua de Alexandre Herculano, virando a oeste e seguindo por esta rua. No cruzamento da Rua de Alexandre Herculano com a Rua de Camilo Castelo Branco o limite vira na direcção norte e segue por esta até ao ponto L;
+
+Ponto L - passagem desnivelada da Rua de Camilo Castelo Branco com acesso à A 1. Este ponto liga em linha recta com o ponto A (210 m).
+
+Centro Jurídico, 29 de Setembro de 2009. - A Directora, Susana de Meneses Brasil de Brito.

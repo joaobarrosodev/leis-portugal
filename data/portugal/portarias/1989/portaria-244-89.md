@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:614626:por
+title: Portaria n.º 244/89
+short_title: null
+summary: Regulamenta a concessão dos apoios às associações juvenis. Revoga a Portaria n.º 136/88, de 1 de Março, e o despacho
+  do Ministro Adjunto e da Juventude de 24 de Fevereiro de 1988
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 244/89
+official_date: null
+publication_date: '1989-04-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/1989, Série I de 1989-04-03
+  number: '77'
+  series: I
+  supplement: null
+  pages: 1398 - 1400
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/04/07700/13981400.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '614626'
+  dre_path: /dr/detalhe/portaria/244-1989-614626
+  internal: pt:dre:614626:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-1989-614626
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-1989-614626
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-09-15T00:00:00Z'
+integrity:
+  source_sha256: 89fd3f21ca3c88502e2cd8322cacfdcbb30d567752bb2bffa1e02d8260879abc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-244-614626.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:336522:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 244/89
+
+de 3 de Abril
+
+O associativismo juvenil constitui um dos mais importantes meios para o desenvolvimento das potencialidades dos jovens e uma das formas de promover a sua integração social.
+
+Assim, tornou-se necessário criar condições de estímulo das actividades juvenis, com vista a que os jovens pudessem desenvolver não só a sua capacidade organizativa mas também o seu espírito criativo.
+
+Com este objectivo foi publicada a Portaria n.º 136/88, de 1 de Março, que estabeleceu um conjunto de regras de apoio e estímulo ao associativismo juvenil.
+
+Considerando a experiência entretanto colhida, verificou-se a necessidade de proceder a alguns ajustamentos, com vista a encontrar uma resposta mais adequada e eficaz para as novas realidades do movimento associativo.
+
+Assim:
+
+Manda o Governo, pelo Ministro Adjunto e da Juventude, nos termos do disposto no n.º 3 do artigo 4.º do [Decreto-Lei n.º 483/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1988-312837), de 26 de Dezembro, o seguinte:
+
+1.º É aprovado o regulamento para a concessão de apoios a associações, agrupamentos juvenis e outras entidades que desenvolvam actividades para jovens e que visem objectivos sócio-culturais, sócio-educativos, artísticos, científicos ou de intercâmbio, publicado em anexo à presente portaria e que dela faz parte integrante.
+
+2.º É revogada a Portaria n.º 136/88, de 1 de Março, e o despacho do Ministro Adjunto e da Juventude de 24 de Fevereiro de 1988, publicado no Diário da República, 2.ª série, n.º 68, de 22 de Março de 1988.
+
+Presidência do Conselho de Ministros.
+
+**Assinada em 20 de Março de 1989.**
+
+**O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.**
+
+## ANEXO — Regulamento para a concessão dos apoios às associações juvenis
+
+1 - Objecto e âmbito de aplicação
+
+1.1 - O presente regulamento disciplina a concessão de apoios a associações e agrupamentos juvenis, bem como a outras entidades que desenvolvam actividades para jovens, que visem objectivos sócio-culturais, sócio-educativos, artísticos, científicos ou de intercâmbio.
+
+1.2 - Ficam excluídas do âmbito de aplicação do presente regulamento as associações de estudantes.
+
+1.3 - Os apoios são prestados pelo Instituto da Juventude, adiante designado por Instituto, e podem ser objecto de contratos-programas, a celebrar com as associações juvenis.
+
+1.4 - Os apoios podem revestir carácter técnico ou financeiro.
+
+2 - Apoio técnico
+
+2.1 - O apoio técnico abrange as seguintes áreas:
+
+a) Formação;
+
+b) Informação e documentação;
+
+c) Assessoria jurídica;
+
+d) Planeamento, organização e avaliação de actividades.
+
+2.2 - O apoio técnico pode ainda incluir a cedência de material e equipamento.
+
+3 - Apoio financeiro
+
+3.1 - O apoio financeiro a associações juvenis inscritas no Registo Nacional de Associações Juvenis, adiante designado por RNAJ, cujo regulamento se encontra aprovado pela [Portaria n.º 140-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/140-a-1989-251984), de 25 de Fevereiro, pode revestir as seguintes formas:
+
+a) Apoio para a execução do plano de actividades;
+
+b) Apoio para despesas de funcionamento;
+
+c) Apoio para acções de carácter pontual que revistam interesse para os jovens;
+
+d) Apoio para construção e conservação ou reparação de instalações onde funcionem as suas sedes, desde que estas estejam afectas, exclusivamente, às actividades da associação.
+
+3.2 - Pode ainda ser concedido apoio financeiro a associações inscritas no RNAJ ou às suas delegações ou núcleos para a execução de acções de carácter desportivo que se destinem a promover a inserção social de jovens.
+
+3.3 - O apoio à construção referido na alínea d) do n.º 3.1 apenas é concedido a associações de âmbito nacional, podendo, eventualmente, ser prestado a associações de âmbito regional ou local, tendo em conta o trabalho desenvolvido pela associação e o reconhecido interesse das actividades que se propõe desenvolver.
+
+3.4 - As restantes entidades referidas no n.º 1.1 podem beneficiar de apoio financeiro para acções de carácter pontual, desde que estas revistam interesse para os jovens da comunidade onde vão ser executadas ou sejam de interesse nacional.
+
+3.5 - A concessão do apoio financeiro referido nas alíneas a) e b) do n.º 3.1 a associações de âmbito nacional é precedida de parecer, não vinculativo, do Conselho Nacional de Juventude, adiante designado por CNJ, o qual se deve pronunciar no prazo de 30 dias.
+
+4 - Apoio financeiro para a execução de acções no âmbito de acordos bilaterais
+
+4.1 - Às associações juvenis pode ainda ser concedido apoio financeiro para a execução de acções no âmbito de acordos bilaterais que se enquadrem no plano de actividades do Instituto.
+
+4.2 - O Instituto pode suportar até 75% dos encargos com a execução de acções referidas no número anterior, sendo o restante suportado pelas organizações juvenis.
+
+4.3 - As áreas a privilegiar nos acordos bilaterais são definidas por despacho do membro do Governo responsável pelo sector da juventude.
+
+5 - Formalização dos pedidos
+
+5.1 - Os pedidos de apoio financeiro para execução do plano de actividades e para despesas de funcionamento devem ser apresentados até 30 de Novembro do ano anterior ao da sua aplicação, devendo o Instituto responder até 28 de Fevereiro do ano seguinte.
+
+5.2 - Após o decurso do prazo a que se refere o número anterior, as associações juvenis que requeiram a sua inscrição no RNAJ podem ainda apresentar o respectivo pedido de apoio financeiro até 30 dias após a comunicação de aceitação da inscrição, devendo o Instituto responder no prazo de 30 dias.
+
+5.3 - Os pedidos de apoio financeiro para acções de carácter pontual devem ser formulados até 30 dias antes da sua realização.
+
+5.4 - Os pedidos de apoio financeiro para a construção e conservação ou reparação de instalações podem ser apresentados a todo o tempo, mas em data não posterior a 31 de Outubro de cada ano, devendo o Instituto responder no prazo de 90 dias.
+
+5.5 - Os pedidos de apoio para construção de instalações devem ser acompanhados do respectivo projecto, devidamente aprovado pelo órgão autárquico competente, e de orçamentos, apresentados, pelo menos, por três entidades de reconhecida capacidade para a execução da obra.
+
+5.6 - Os pedidos de apoio para a conservação ou reparação de instalações devem ser acompanhados de uma memória descritiva e de orçamentos, apresentados, pelo menos, por tês entidades de reconhecida capacidade para a execução da obra.
+
+5.7 - As propostas de candidatura à realização de acções a serem inseridas nos acordos bilaterais devem ser apresentadas nos serviços centrais ou regionais do Instituto, até 31 de Março do ano da realização das reuniões das comissões mistas ou da celebração de protocolos bilaterais, devendo aquele Instituto comunicar, até 30 de Abril, quais as que irão ser apresentadas para negociação bilateral e qual o apoio financeiro a disponibilizar.
+
+5.8 - Para os efeitos do número anterior, deve o Instituto divulgar, até 31 de Dezembro de cada ano, o plano anual das comissões mistas a realizar no ano seguinte.
+
+5.9 - Os pedidos de apoio devem ser formalizados em impressos próprios, a fornecer pelo Instituto.
+
+6 - Critérios de apreciação
+
+6.1 - Para a concessão de apoio técnico ou financeiro são tidos em conta os seguintes aspectos:
+
+a) A percentagem de jovens com idade inferior a 30 anos a abranger pela acção;
+
+b) O envolvimento dos jovens no planeamento e orientação técnica da acção;
+
+c) A percentagem de jovens com idade inferior a 30 anos inscritos na associação;
+
+d) O número total de associados;
+
+e) As condições técnicas do local ou instalações onde decorrerá a acção;
+
+f) A implantação e a inserção da associação na região;
+
+g) O grau de comparticipação financeira da associação ou de outras entidades;
+
+h) A qualidade e a garantia de continuidade da acção.
+
+6.2 - A concessão de apoio técnico ou financeiro tem a seguinte ordem de prioridades:
+
+a) Actividades desenvolvidas por jovens e dirigidas a jovens;
+
+b) Actividades desenvolvidas por jovens, mas destinadas a outros grupos etários;
+
+c) Actividades desenvolvidas por outras entidades, desde que sejam dirigidas a jovens.
+
+6.3 - Os pedidos de apoio para construção e conservação ou reparação de instalações são apreciados tendo em conta, nomeadamente:
+
+a) A localização da obra;
+
+b) O tipo de actividade desenvolvida pela associação;
+
+c) O grau de comparticipação financeira da associação ou de outras entidades;
+
+d) A participação dos jovens, em regime de trabalho voluntário, na execução da obra;
+
+e) A relevância das obras a executar para criação de novas actividades, no âmbito do programa prosseguido pela associação;
+
+f) A necessidade de conservação do património construído.
+
+6.4 - Os pedidos de apoio financeiro para a execução de acções no âmbito de acordos bilaterais são apreciados tendo em conta, nomeadamente:
+
+a) O número de jovens abrangidos pela acção;
+
+b) O grau de comparticipação financeira da associação ou de outras entidades;
+
+c) A localização da acção;
+
+d) O carácter inovador;
+
+e) A adequabilidade aos programas nacionais dirigidos a jovens;
+
+f) A incidência da acção em actividades regulares desenvolvidas ou a desenvolver pela associação;
+
+g) A similitude de objectivos a prosseguir pelas organizações juvenis que pretendam realizar o intercâmbio.
+
+6.5 - A apreciação dos pedidos de apoio financeiro referidos no número anterior deve ainda ter conta o país que assina o acordo, dando-se prioridade às acções a realizar com:
+
+a) Países da Comunidade Económica Europeia;
+
+b) Países de língua oficial portuguesa;
+
+c) Países em que a comunidade portuguesa tenha significativa representatividade.
+
+7 - Deveres das associações
+
+7.1 - A associação que tenha recebido o apoio referido no n.º 3.1 fica obrigada a:
+
+a) Aceitar a avaliação, por parte do Instituto, das actividades apoiadas;
+
+b) Articular com o Instituto a execução das suas actividades e acções de carácter pontual com acções que este promova, em simultâneo, na mesma região;
+
+c) Até 31 de Janeiro, apresentar um relatório do qual conste a informação necessária à avaliação das acções levadas a efeito no ano anterior ou até 30 dias após o respectivo término nas acções de carácter pontual;
+
+d) Até 31 de Janeiro, apresentar contas justificativas da aplicação do apoio financeiro concedido.
+
+7.2 - A associação que tenha recebido o apoio para construção a que se refere a alínea d) do n.º 3.1 fica ainda obrigada a:
+
+a) Fornecer os elementos solicitados pelo Instituto para avaliação da utilização das verbas concedidas e permitir a realização de visitas de inspecção às obras;
+
+b) Apresentar um relatório final da aplicação das verbas concedidas até 60 dias após a conclusão das obras;
+
+c) Em caso de extinção, doar, após parecer favorável do Instituto, as instalações objecto de apoio a outras entidades juvenis ou a qualquer entidade pública, no caso em que o apoio concedido tenha sido superior a 50% do valor do património construído.
+
+7.3 - As entidades que tenham recebido o apoio a que se refere o n.º 3.4 devem apresentar um relatório do qual conste a informação necessária à avaliação das acções até 30 dias após o respectivo termo.
+
+7.4 - As organizações juvenis que tenham recebido o apoio referido nos n.os 4.1 e 4.4 estão obrigadas a respeitar as normas definidas para as acções de natureza bilateral e devem apresentar um relatório sobre a execução das acções até 30 dias após a sua realização.
+
+7.5 - Se não forem cumpridas as obrigações referidas nos números anteriores ou quando sejam detectadas irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos acordados, os apoios são suspensos pelo prazo de um ano no caso dos referidos nas alíneas a), b) e c) do n.º 3.1 e pelo prazo de dois anos no caso dos referidos na alínea d) do mesmo número.
+
+8 - Deveres das entidades apoiantes
+
+8.1 - Em Janeiro de cada ano, o Instituto remeterá ao CNJ elementos informativos respeitantes aos apoios concedidos no ano anterior a associações juvenis de âmbito nacional.
+
+8.2 - Os serviços envolvidos na concessão do apoio a que se refere o n.º 4.1 devem, no mês de Outubro de cada ano, conjuntamente com as entidades beneficiárias, proceder a eventuais acertos nas acções a desenvolver no âmbito de acordos bilaterais.
+
+8.3 - Trimestralmente, o Instituto deve remeter aos conselhos consultivos regionais mapas referentes à atribuição de apoios no respectivo distrito.
+
+9 - Apoio financeiro para as despesas realizadas com a aquisição de personalidade jurídica
+
+9.1 - O Instituto apoia financeiramente, através de uma comparticipação até 50% nas despesas efectuadas com a aquisição de personalidade jurídica, as associações juvenis que pretendam vir a constituir-se nos termos e para os efeitos previstos no n.º 1.1 do regulamento aprovado pela [Portaria n.º 140-A/89](https://diariodarepublica.pt/dr/detalhe/portaria/140-a-1989-251984).
+
+9.2 - O pedido de apoio a que se refere o número anterior deve ser solicitado ao Instituto até 30 dias após a publicação no Diário da República dos estatutos da associação e da acta da respectiva constituição.
+
+**O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.**

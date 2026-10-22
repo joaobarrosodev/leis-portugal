@@ -1,0 +1,197 @@
+---
+schema_version: '1.0'
+id: pt:dre:603774:por
+title: Portaria n.º 422/2009
+short_title: null
+summary: Aprova o estatuto dos responsáveis técnicos pelo projecto e pela exploração de instalações de armazenamento de produtos
+  de petróleo e de postos de abastecimento de combustíveis
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 422/2009
+official_date: null
+publication_date: '2009-04-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/2009, Série I de 2009-04-21
+  number: '77'
+  series: I
+  supplement: null
+  pages: 2409 - 2410
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07700/0240902410.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/422/2009/04/21/p/dre/pt/html
+  oj: null
+  dre: '603774'
+  dre_path: /dr/detalhe/portaria/422-2009-603774
+  internal: pt:dre:603774:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-2009-603774
+  metadata_url: https://data.dre.pt/eli/port/422/2009/04/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-2009-603774
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-02-16T00:00:00Z'
+integrity:
+  source_sha256: 96a42f11cf0284b211e4d0d429642729bff2f2206d769634e7be08ca233cd481
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-422-603774.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armazenagem
+- Definição de Competências
+- Delegação de Competências
+- Petróleo
+- Produto Petrolífero
+- Estatuto
+- Combustível
+- Fiscalização
+- Seguro
+- Habilitações Literárias
+- Licenciamento
+- Posto de Abastecimento de Combustíveis
+- Responsabilidade Civil
+- Responsabilidade Criminal
+- Segurança das Instalações
+relationships:
+- type: amended_by
+  target: pt:dre:66528824:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/195/2008/10/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/2008/10/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/267/2002/11/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/267/2002/11/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/31/2006/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/31/2006/02/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1188/2003/10/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1188/2003/10/10/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 422/2009
+
+de 21 de Abril
+
+O [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de Novembro, na versão republicada pelo [Decreto-Lei n.º 195/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), de 6 de Outubro, estabelece os procedimentos e define as competências para o licenciamento e fiscalização de instalações de armazenagem de produtos do petróleo e postos de abastecimento de combustíveis.
+
+O artigo 18.º do referido decreto-lei veio remeter para portaria do Ministro da Economia e da Inovação a aprovação do estatuto dos responsáveis técnicos pelo projecto e exploração de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis, incluindo a definição dos requisitos de formação de base e experiência aplicáveis, sendo que as obrigações e responsabilidades constantes do estatuto não prejudicam a observância, por parte dos técnicos, do código deontológico da respectiva associação pública profissional.
+
+Assim:
+
+Ao abrigo do disposto nos n.os 2 e 4 do artigo 18.º do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de Novembro, na versão republicada pelo [Decreto-Lei n.º 195/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), de 6 de Outubro:
+
+Manda o Governo, pelo Ministro da Economia e da Inovação, o seguinte:
+
+###### Artigo único
+
+É aprovado o estatuto dos responsáveis técnicos pelo projecto e pela exploração de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis, em anexo à presente portaria, da qual faz parte integrante.
+
+**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 8 de Abril de 2009.**
+
+## ANEXO
+
+Estatuto dos responsáveis técnicos pelo projecto e exploração de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis.
+
+###### Artigo 1.º — Âmbito
+
+1 - Estão abrangidos pelo presente estatuto, nos termos previstos no [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de Novembro, na sua actual redacção, os responsáveis técnicos pelo projecto e pela exploração das instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis, adiante referidas apenas como instalações.
+
+2 - O estatuto regulamenta o exercício da actividade, definindo as atribuições, os requisitos mínimos de habilitação e de experiência profissional e a responsabilidade dos técnicos referidos no número anterior.
+
+3 - É permitida a acumulação do exercício das actividades previstas neste artigo.
+
+###### Artigo 2.º — Atribuições
+
+1 - Compete ao responsável técnico pelo projecto assinar as respectivas peças e garantir a sua conformidade com as normas técnicas e regulamentares aplicáveis, mediante declaração elaborada de acordo com o modelo constante do anexo n.º 2 da [Portaria n.º 1188/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1188-2003-481937), de 10 de Outubro.
+
+2 - Compete ao responsável técnico pela exploração da instalação, quando previsto na legislação, garantir a manutenção da conformidade da instalação com o projecto aprovado e as condições de licenciamento, bem como o seu funcionamento com obediência às regras de segurança, devendo para o efeito assinar um termo de responsabilidade a ser apresentado à entidade licenciadora, indicando a data de início de funções.
+
+###### Artigo 3.º — Habilitações académicas
+
+1 - Os responsáveis técnicos pelo projecto e pela exploração das instalações devem ser engenheiros ou engenheiros técnicos com habilitação académica nas especialidades de mecânica e química, reconhecida pela respectiva associação pública profissional mediante declaração ou outro processo adequado.
+
+2 - As associações públicas profissionais de engenheiros e engenheiros técnicos, tendo em conta a formação académica, a experiência profissional e a formação complementar de um técnico não enquadrado no n.º 1, podem reconhecer a respectiva habilitação para os efeitos deste estatuto.
+
+3 - No caso de instalações classificadas como grandes instalações de armazenamento de produtos de petróleo nos termos do [Decreto-Lei n.º 31/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2006-683852), de 15 de Fevereiro:
+
+a) A responsabilidade técnica pelo projecto é assumida por engenheiro com experiência profissional mínima de cinco anos;
+
+b) A responsabilidade técnica pela exploração é assumida por engenheiro ou engenheiro técnico com experiência profissional mínima de três anos ou cinco anos, respectivamente.
+
+###### Artigo 4.º — Deontologia profissional
+
+Os técnicos responsáveis devem obedecer ao presente estatuto e pautar a sua conduta pelos estatutos das respectivas associações públicas profissionais e demais legislação aplicável em vigor.
+
+###### Artigo 5.º — Responsabilidade civil e criminal
+
+Dentro da sua esfera de competências, os técnicos referidos no artigo 1.º respondem civil e criminalmente por tudo o que se prenda com o desempenho das suas funções, nomeadamente nos aspectos técnicos e regulamentares do projecto e da exploração das instalações.
+
+###### Artigo 6.º — Seguros
+
+1 - Os responsáveis técnicos pelo projecto e pela exploração devem estar cobertos por um seguro que cubra a sua responsabilidade civil profissional, nos termos do n.º 6 do artigo 13.º do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de Novembro.
+
+2 - A obrigação referida no número anterior pode ser suprida por apólice detida pela entidade patronal, ou pela entidade titular da instalação, desde que a apólice cubra expressamente a responsabilidade profissional do técnico.
+
+###### Artigo 7.º — Delegação de competências
+
+Quando a dimensão ou a complexidade das instalações o justificar, ou por motivos de ausência ou impedimento, o responsável técnico pode fazer-se coadjuvar por ou delegar as suas competências em outro engenheiro ou engenheiro técnico de sua escolha, reconhecido nos termos do artigo 3.º, sem prejuízo da sua responsabilidade.
+
+###### Artigo 8.º — Cessação de funções como responsável técnico
+
+A cessação das funções de responsável técnico pela exploração das instalações deve ser comunicada à entidade licenciadora, nos seguintes termos:
+
+a) Caso a comunicação seja feita pela entidade patronal ou detentora da instalação, deve ser acompanhada de declaração de responsabilidade de novo responsável técnico e da data de início das respectivas funções;
+
+b) Caso a comunicação seja da iniciativa do técnico responsável, a mesma deve ser feita com a antecedência mínima de 30 dias, relativamente à data indicada para a cessação das suas funções, e vir acompanhada de cópia de igual comunicação dirigida à entidade patronal ou detentora da instalação.
+
+###### Artigo 9.º — Informação relativa aos técnicos responsáveis
+
+As associações públicas profissionais devem manter registo dos técnicos cujas habilitações reconhecem nos termos deste estatuto e facultar às entidades administrativas com competência no licenciamento e fiscalização das instalações os elementos que, com motivo justificado, as mesmas lhes solicitem.

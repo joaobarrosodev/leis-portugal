@@ -1,0 +1,228 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:913947260:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-914674061",
+ "dre_path": "/dr/detalhe/portaria/156-2025-913947260",
+ "source_lastmod": "2026-02-25",
+ "versions": [
+  {
+   "date": "2026-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1060523848:por",
+     "title": "Portaria n.º 92/2026/1",
+     "published": "2026-02-25",
+     "dre_path": "/dr/detalhe/portaria/92-2026-1060523848"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "914703824",
+    "914703825",
+    "914703826",
+    "914703827",
+    "914703828",
+    "1062228675",
+    "914703830",
+    "914703831",
+    "914703832",
+    "914703833",
+    "914703834",
+    "914703835",
+    "914703836",
+    "914703837",
+    "914703838",
+    "914703839",
+    "914703840",
+    "914703841",
+    "914703842",
+    "914703843",
+    "914703844",
+    "914703847"
+   ]
+  }
+ ],
+ "fragments": {
+  "914703824": {
+   "fragment_id": "914674062",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 156/2025/1\n\nde 7 de abril\n\nO XXIV Governo Constitucional assumiu o compromisso de promover a melhoria do acesso aos cuidados de saúde da população, em particular aos cuidados de saúde e sociais prestados pela Rede Nacional de Cuidados Continuados Integrados (RNCCI).\n\nCom o envelhecimento da população portuguesa, o sistema de saúde e social tem-se deparado com um aumento da pressão sobre estes sistemas pela carência de respostas adequadas, acessíveis e personalizadas, principalmente relacionadas com a população de idade mais avançada.\n\nNesse sentido, tornou-se evidente a necessidade de evoluir-se para a reorganização da RNCCI, tendo em vista uma estruturação que privilegie o acesso aos cuidados domiciliários, através das Equipas de Cuidados Continuados Integrados (ECCI), previstas no Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual, enquanto estratégia para que o cidadão com critérios para integração na RNCCI permaneça, o mais tempo possível, no seu contexto social e familiar.\n\nAssim, a reestruturação das ECCI, e do processo de referenciação de utentes para a RNCCI, consubstancia aspetos essenciais para proporcionar aos utentes da RNCCI o máximo bem-estar, a máxima independência no autocuidado e a máxima dignidade.\n\nO projeto-piloto a implementar no âmbito das ECCI, em 6 ULS, pretende melhorar a articulação entre estas e o Serviço de Apoio Domiciliário (SAD) regulado pelo Ministério do Trabalho, Solidariedade e Segurança Social, promovendo a complementaridade de entre estes Serviços tendo por base uma abordagem global das necessidades dos utentes e respetivos cuidadores informais.\n\nPretende-se avaliar um novo modelo organizacional e funcional das ECCI e um novo processo de referenciação dos utentes para RNCCI e para as suas diferentes tipologias. Este projeto é crucial quer, para impulsionar os cuidados domiciliários no âmbito da RNCCI e evitar-se, na medida do possível, a institucionalização; quer para se estabelecer um modelo de referenciação robusto e adaptado à recente reorganização do Serviço Nacional de Saúde, da qual se destaca a implementação generalizada de Unidade Local de Saúde (ULS), a extinção das Administrações Regionais de Saúde (ARS) e as alterações orgânicas determinadas pela criação da Direção Executiva do Serviço Nacional de Saúde (DE-SNS).\n\nNestes termos, com base no Decreto-Lei n.º 48/2025, de 27 de março, assente no apuramento de indicadores de desempenho e pagamento por compensação pelos resultados alcançados, estabeleceu-se a possibilidade de um regime de incentivos para os enfermeiros das ECCI, adequado à natureza e especificidade das atividades por eles desenvolvidas que atraia e retenha nestas equipas os recursos humanos de enfermagem sem os quais se demonstrou ser inviável a prossecução dos objetivos.\n\nNos termos do disposto nos artigos 1.º a 3.º do Decreto-Lei n.º 48/2025, de 27 de março, do artigo 42.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual, ao abrigo do disposto no n.º 1 do artigo 8.º, do n.º 1 do artigo 10.º e nos artigos 21.º e 24.º, todos do Decreto-Lei n.º 32/2024, de 10 de maio, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças, pela Ministra da Saúde e pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "914703825": {
+   "fragment_id": "914674063",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "914703826": {
+   "fragment_id": "914674064",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e duração\n\nA presente portaria regula as condições para a criação e implementação do projeto-piloto a nível das Equipas de Cuidados Continuados Integrados (ECCI), em 6 Unidades Locais de Saúde (ULS), durante um período de 9 meses."
+  },
+  "914703827": {
+   "fragment_id": "914674065",
+   "type": 11,
+   "heading": "Artigo 2.º — Equipa de Cuidados Continuados Integrados - Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Equipa de Cuidados Continuados Integrados - Caracterização\n\n1 - A ECCI é uma equipa multidisciplinar destinada à prestação de serviços domiciliários, decorrentes da avaliação integral, de cuidados médicos, de enfermagem, de reabilitação e de apoio social, ou outros, a pessoas em situação de dependência funcional, doença terminal, em processo de convalescença, ou com comorbilidade e regimes terapêuticos complexos instituídos, com rede de suporte social.\n\n2 - Sem prejuízo do disposto no artigo 4.º, as ECCI podem ser constituídas pelas entidades referidas no artigo 36.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual.\n\n3 - As ECCI da responsabilidade dos cuidados de saúde primários são constituídas no âmbito das unidades de cuidados na comunidade, previsto no n.º 6 do artigo 38.º do Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual.\n\n4 - A avaliação integral efetuada pelas equipas referidas no número anterior deve resultar da articulação com a entidade que presta apoio social.\n\n5 - As equipas referidas no n.º 3 apoiam-se nos recursos locais disponíveis, conjugados com os serviços comunitários, nomeadamente as autarquias locais."
+  },
+  "914703828": {
+   "fragment_id": "914674066",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços\n\nA ECCI assegura: cuidados domiciliários de enfermagem e médicos de natureza preventiva, curativa, reabilitadora e ações paliativas, devendo as ações ser programadas e regulares e terem por base as necessidades detetadas."
+  },
+  "1062228675": {
+   "fragment_id": "914674067",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição das Equipas de Cuidados Continuados Integrados",
+   "in_force_from": "2026-02-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 92/2026/1 - Diário da República n.º 39/2026, Série I de 2026-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/92-2026-1060523848), em vigor a partir de 2026-02-26."
+   ],
+   "markdown": "###### Artigo 4.º — Constituição das Equipas de Cuidados Continuados Integrados\n\nNo âmbito do projeto-piloto, as ECCI têm a seguinte constituição:\n\n1 - Em cada uma das ULS referidas no artigo 1.º, é definido um número de ECCI calculado a partir da aplicação da fórmula: 1 ECCI por cada 1000 residentes com 75 ou mais anos, multiplicado por 0,4, sujeito à aprovação pelos Coordenadores Nacionais da Rede Nacional de Cuidados Continuados Integrados.\n\n2 - Cada ECCI assiste até um número de referência de 30 utentes/cuidadores informais, podendo cada ULS agregar mais do que uma ECCI, desde que se mantenha a proporção de 1 ECCI para 30 utentes.\n\n3 - Sem prejuízo do disposto no número seguinte, cada ECCI integra um grupo de, pelo menos, cinco enfermeiros:\n\na) Dois enfermeiros especialistas, preferencialmente, enfermeiros especialistas em Enfermagem de Reabilitação;\n\nb) Três enfermeiros de cuidados gerais.\n\n4 - Caso a ULS não consiga um número de enfermeiros suficiente para completar todas as ECCI, estas poderão funcionar, no mínimo, com 1 enfermeiro especialista, preferencialmente enfermeiro especialista em Enfermagem de Reabilitação, que garante a especificação dos cuidados de enfermagem necessários, mantendo atualizado o plano de cuidados multiprofissional.\n\n5 - A ULS pode contratualizar a implementação dos cuidados de saúde do plano de cuidados multiprofissional externamente, nas situações descritas no número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 92/2026/1 - Diário da República n.º 39/2026, Série I de 2026-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/92-2026-1060523848), em vigor a partir de 2026-02-26."
+  },
+  "914703830": {
+   "fragment_id": "914674068",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento das ECCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento das ECCI\n\n1 - A assistência aos utentes das ECCI e respetivos cuidadores informais, quando necessário, resulta de um plano de cuidados individual multiprofissional que inclui o apoio social.\n\n2 - O universo de utentes referenciáveis para as ECCI inclui os residentes em Estruturas Residenciais para Pessoas Idosas (ERPI), Residência de Autonomização e Inclusão (RAI) e Lares Residenciais (LR).\n\n3 - Os enfermeiros das ECCI estabelecem entre si um acordo de intersubstituição e complementaridade que garanta o funcionamento da ECCI, todos os dias, no mínimo, das 8 às 20 horas.\n\n4 - No conjunto das ECCI da ULS, é definida uma escala de trabalho noturno de enfermeiros, por forma a garantir a prestação dos cuidados de enfermagem previstos nos planos de cuidados individuais, das 20 às 8 horas."
+  },
+  "914703831": {
+   "fragment_id": "914674069",
+   "type": 11,
+   "heading": "Artigo 6.º — Articulação com os serviços hospitalares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Articulação com os serviços hospitalares\n\nA ULS, no âmbito da sua autonomia e em termos a definir no decurso do projeto, pode promover a articulação das ECCI com os serviços hospitalares, nomeadamente com o serviço de hospitalização domiciliária, no que se refere:\n\na) À mobilização de enfermeiros para as ECCI;\n\nb) Ao desenvolvimento de protocolos de atuação focados num conjunto restrito de situações patológicas, nomeadamente:\n\ni) As de agudização de doentes com Doença Pulmonar Obstrutiva Crónica;\n\nii) As de agudização de doentes com diabetes;\n\niii) Infeções urinárias;\n\niv) Outras que o serviço de hospitalização domiciliária entenda como adequado;\n\nc) À introdução de tecnologias que facilitam comunicações em tempo real entre os enfermeiros das ECCI nos domicílios, os médicos de família e os serviços de hospitalização domiciliária, no sentido de evitarem deslocações desnecessárias dos utentes da RNCCI aos serviços de urgência e internamentos hospitalares contraproducentes;\n\nd) À administração de medicação prescrita aos utentes das ECCI incluindo a administração de fármacos fornecidos pela farmácia hospitalar da ULS, nas vinte e quatro horas;\n\ne) À inclusão na carteira de serviços da ECCI os utentes com: comorbilidades, regimes terapêuticos complexos instituídos, elevado número de episódios de urgência e elevado número de episódios de internamento, acrescentando, no conjunto das ECCI da ULS, enfermeiros especialistas em enfermagem médico-cirúrgica em número que se venha a demonstrar adequado face às necessidades;\n\nf) À inclusão na carteira de serviços da ECCI, em articulação com os serviços de pediatria, os cuidados continuados integrados pediátricos, acrescentando, no conjunto das ECCI da ULS, enfermeiros especialistas em saúde infantil e pediatria em número que se venha a demonstrar adequado face às necessidades;\n\ng) À inclusão na carteira de serviços da ECCI, em articulação com os serviços e unidades de internamento de cuidados paliativos ou com as equipas intra-hospitalares de suporte em cuidados paliativos, os cuidados paliativos, acrescentando, no conjunto das ECCI da ULS, enfermeiros especialistas em enfermagem médico-cirúrgica com formação em cuidados paliativos em número que se venha a demonstrar adequado face às necessidades."
+  },
+  "914703832": {
+   "fragment_id": "914674070",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo de referenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo de referenciação\n\n1 - No que se reporta à natureza multiprofissional, cada Equipa Coordenadora Local (ECL) é constituída pela ULS em cumprimento do disposto no Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual, podendo, no entanto, ser adequado o número de profissionais que a integram de acordo com a dimensão da ULS, sem que de tal facto possa resultar uma redução dos serviços prestados aos utentes.\n\n2 - A ECL assegura os serviços, referidos no artigo 24.º do Decreto-Lei n.º 101/2006, de 6 de junho, na redação atual.\n\n3 - A referenciação de utentes para a RNCCI é desencadeada pelas equipas assistenciais hospitalares ou pelas unidades de saúde familiar e prosseguida pela ECL de cada ULS que verifica os critérios de referenciação e valida a tipologia adequada.\n\n4 - O processo de referenciação pode ser solicitado à ECL pelos SAD ou pelas ERPI, LR e RAI, da área geográfica da ULS.\n\n5 - Na verificação dos critérios de referenciação, a ECL utiliza o sistema experimental de referenciação.\n\n6 - No processo de referenciação mantém-se a utilização do atual SI_RNCCI, até à sua substituição pelo sistema experimental de referenciação.\n\n7 - A proposta de referenciação elaborada pela ECL é enviada à Equipa Coordenadora Regional (ECR) que aloca o utente à unidade da RNCCI ou à ECCI correspondente.\n\n8 - Sempre que se verificar a necessidade do SAD, o gestor desta resposta é envolvido na definição do plano individual de cuidados e reavaliações subsequentes."
+  },
+  "914703833": {
+   "fragment_id": "914674071",
+   "type": 11,
+   "heading": "Artigo 8.º — Método de referenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Método de referenciação\n\n1 - Durante o projeto, será testado um novo modelo de referenciação dos doentes para as diferentes tipologias da RNCCI, até aqui designado sistema experimental de referenciação.\n\n2 - O sistema experimental de referenciação, assenta em grupos de utilização de recursos:\n\na) Disponibilidade de cuidador informal;\n\nb) Dependência no autocuidado (Muito elevada, Moderada, Ligeira);\n\nc) Compromissos nos processos corporais (neuromusculares, respiratórios e metabólicos, tegumentos, com medidas terapêuticas adotadas);\n\nd) Reabilitação (Musculoarticular; Respiratória);\n\ne) Readaptação funcional (Autocontrolo; Dependência);\n\nf) Compromissos nos processos mentais (Memória);\n\ng) Capacidade do cuidador informal (Incapacidade; Potencial para melhorar a capacidade; Com capacidade);\n\nh) Tempo estimado para atingir o potencial de recuperação do utente;\n\ni) Necessidades de SAD.\n\n3 - O sistema experimental de referenciação integra um algoritmo de ajuda na tomada de decisões da ECL na elaboração da proposta de referenciação que dirige à ECR.\n\n4 - O algoritmo de ajuda na tomada de decisões da ECL na elaboração da proposta de referenciação que dirige à ECR, reporta também aglomerados de diferentes níveis de intensidade de cuidados de saúde e sociais requeridas pelos utentes e respetivos cuidadores informais referenciados para as ECCI."
+  },
+  "914703834": {
+   "fragment_id": "914674072",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime remuneratório experimental dos enfermeiros das ECCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime remuneratório experimental dos enfermeiros das ECCI\n\n1 - A integração dos enfermeiros das ECCI no regime remuneratório experimental requer a prévia e opcional aceitação da condução dos veículos automóveis para as suas deslocações ao domicílio dos utentes.\n\n2 - A ULS é responsável pelas atividades de manutenção dos veículos em condições legais de circulação e de higiene, incluindo os seguros automóveis requeridos.\n\n3 - A integração dos enfermeiros das ECCI no regime remuneratório experimental requer uma dedicação à ECCI na totalidade do tempo correspondente ao respetivo contrato de trabalho (1 ETC).\n\n4 - A remuneração dos enfermeiros das ECCI abrangidos por este diploma integra uma remuneração base e uma componente variável.\n\n5 - A remuneração base integra a remuneração estabelecida para a respetiva categoria e posição remuneratória.\n\n6 - A remuneração associada à componente variável corresponde a uma compensação associada ao Índice de Desempenho da Equipa (IDE) previsto no artigo 10.º\n\n7 - A componente variável referida no número anterior é abonada integral e mensalmente a cada enfermeiro que integra a ECCI.\n\n8 - Os enfermeiros especialistas em enfermagem médico-cirúrgica que venham a ser incluídos na carteira de serviços da ECCI por adição dos utentes com: comorbilidades, regimes terapêuticos complexos instituídos, elevado número de episódios de urgência e elevado número de episódios de internamento; os enfermeiros especialistas em saúde infantil e pediatria que venham a ser incluídos na carteira de serviços da ECCI, em articulação com os serviços de pediatria, abrangendo os cuidados continuados integrados pediátricos, integram o regime remuneratório experimental dos enfermeiros das ECCI, bem como, os enfermeiros especialistas em enfermagem médico-cirúrgica com formação em cuidados paliativos que venham a ser incluídos na carteira de serviços da ECCI, em articulação com os serviços em articulação com os serviços e unidades de internamento de cuidados paliativos ou com as equipas intra-hospitalares de suporte em cuidados paliativos, integram o regime remuneratório experimental dos enfermeiros das ECCI.\n\n9 - A componente variável referida é abonada mensalmente aos enfermeiros especialistas referidos no ponto anterior, que venham a integrar a ECCI."
+  },
+  "914703835": {
+   "fragment_id": "914674073",
+   "type": 11,
+   "heading": "Artigo 10.º — Índice de desempenho da equipa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Índice de desempenho da equipa\n\n1 - A compensação pelo desempenho prevista no n.º 6 do artigo 9.º, depende do desempenho global da equipa multiprofissional.\n\n2 - Para efeitos do disposto no número anterior, o IDE considera os indicadores, bem como o peso relativo de cada indicador, identificados na tabela i, anexa à presente portaria e da qual faz parte integrante.\n\n3 - Os intervalos de referência dos indicadores (intervalo esperado e variação aceitável) são definidos pela Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.) no respetivo Bi - bilhete de identidade do indicador e revistos anualmente.\n\n4 - As regras de cálculo e os intervalos de valor esperado e variação aceitável de cada indicador são atualizados após o projeto-piloto, pela ACSS, I. P., em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), em função da evolução das práticas clínicas e do histórico de resultados alcançado pelas equipas.\n\n5 - A relação entre o IDE e a compensação pelo desempenho, encontra-se prevista no quadro i, anexo à presente portaria e da qual faz parte integrante."
+  },
+  "914703836": {
+   "fragment_id": "914674074",
+   "type": 11,
+   "heading": "Artigo 11.º — Regras de cálculo dos indicadores de desempenho da equipa do projeto-piloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regras de cálculo dos indicadores de desempenho da equipa do projeto-piloto\n\n1 - O cálculo dos indicadores da equipa é efetuado em função dos indicadores, das ponderações que constam na tabela i, anexa à presente portaria e da qual faz parte integrante, e dos intervalos de valor esperado e variação aceitável, válidos para o período que decorre o projeto-piloto.\n\n2 - Para os efeitos previstos no número anterior o intervalo de valor esperado corresponde ao conjunto de resultados de um indicador, tendo por base uma boa prática no âmbito dos cuidados domiciliários e o intervalo de variação aceitável corresponde aos desvios que são tecnicamente admissíveis em relação a essa mesma boa prática.\n\n3 - O resultado de cada indicador é expresso sem arredondamentos e o resultado dos indicadores da equipa expresso numa escala de 0 a 100, arredondado às décimas."
+  },
+  "914703837": {
+   "fragment_id": "914710475",
+   "type": 11,
+   "heading": "Artigo 12.º — Apuramento dos resultados dos indicadores das equipas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apuramento dos resultados dos indicadores das equipas\n\n1 - O apuramento dos resultados dos indicadores da ECCI, relacionados com a satisfação e perceção de saúde, é realizado através de um inquérito aos utentes que se encontram admitidos na ECCI.\n\na) Esses inquéritos são realizados aos utentes ou cuidadores informais, mensalmente por via telefónica, por equipa da ULS, distinta da ECCI;\n\nb) Os dados recolhidos no inquérito são processados em software próprio.\n\n2 - A ACSS, I. P., apura os resultados obtidos pela ECCI, em cada um dos indicadores que compõem o IDE e comunica-os à respetiva ULS selecionada para o projeto-piloto, para efeitos de processamento de remuneração."
+  },
+  "914703838": {
+   "fragment_id": "914710476",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento por compensações pelo desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento por compensações pelo desempenho\n\n1 - Associa-se, para efeitos de pagamento por compensação pelo desempenho, os indicadores de desempenho da equipa das ECCI, previstos no artigo 10.º\n\n2 - A compensação associada ao IDE das ECCI, previsto no artigo 10.º, aufere o valor máximo mensal de 900 (Euros)."
+  },
+  "914703839": {
+   "fragment_id": "914710477",
+   "type": 1,
+   "heading": "Capítulo II — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — DISPOSIÇÕES FINAIS"
+  },
+  "914703840": {
+   "fragment_id": "914710478",
+   "type": 11,
+   "heading": "Artigo 14.º — Equipa de Acompanhamento e Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Equipa de Acompanhamento e Avaliação\n\n1 - Coordenadores da Rede Nacional de Cuidados Continuados Integrados.\n\n2 - Um elemento da Direção Executiva do Serviço Nacional de Saúde, I. P.\n\n3 - Um elemento do Gabinete da Secretária de Estado da Gestão da Saúde.\n\n4 - Um elemento do Gabinete da Secretária de Estado da Ação Social e da Inclusão.\n\n5 - Um elemento do Gabinete do Secretário de Estado Adjunto e do Orçamento.\n\n6 - Um elemento da Administração Central do Sistema de Saúde, I. P.\n\n7 - Um elemento dos Serviços Partilhados do Ministério da Saúde, I. P.\n\n8 - Dois elementos ds Instituto da Segurança Social, I. P."
+  },
+  "914703841": {
+   "fragment_id": "914710479",
+   "type": 11,
+   "heading": "Artigo 15.º — Monitorização e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Monitorização e avaliação\n\n1 - Compete à equipa de acompanhamento referida no artigo anterior:\n\na) Monitorizar e avaliar a implementação e execução dos projetos-piloto;\n\nb) Elaborar relatório final de avaliação e conclusões, incluindo recomendações e propostas concretas que deve ser remetido aos membros do Governo responsáveis pelas áreas das finanças, da saúde e segurança social.\n\n2 - Compete à equipa de acompanhamento em cooperação com a ACSS, I. P., e o ISS, I. P., nas respetivas áreas de intervenção, assegurar a implementação dos projetos-piloto, bem como avaliar periodicamente o seu desenvolvimento.\n\n3 - A participação no grupo de trabalho não confere o direito a qualquer remuneração ou abono, salvo a atribuição de ajudas de custo ao abrigo da legislação em vigor."
+  },
+  "914703842": {
+   "fragment_id": "914710480",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente portaria entra em vigor à data da sua publicação."
+  },
+  "914703843": {
+   "fragment_id": "914710481",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 31 de março de 2025. - A Ministra da Saúde, Ana Paula Martins, em 1 de abril de 2025. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 1 de abril de 2025."
+  },
+  "914703844": {
+   "fragment_id": "914710482",
+   "type": 14,
+   "heading": "TABELA I — Indicadores de Desempenho da Equipa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TABELA I — Indicadores de Desempenho da Equipa\n\n(a que se refere o n.º 2 do artigo 10.º)\n\n| Dimensão | N.º Indicador | Designação | Ponderação |\n| --- | --- | --- | --- |\n| Acesso | 504 | Satisfação dos utentes das ECCI | 17,5 |\n| Acesso | 505 | Satisfação dos cuidadores dos utentes das ECCI | 17,5 |\n| Acesso | 506 | Perceção da saúde e bem-estar dos utentes integrados em ECCI | 12,5 |\n| Acesso | 507 | Perceção da saúde e bem-estar dos cuidadores dos utentes integrados em ECCI | 12,5 |\n| Acesso | 291 | Proporção utentes integrados ECCI c intern. hosp. | 20 |\n| Acesso | -508 | Taxa anual de episódios de urgência hospitalar em Utentes integrados em ECCI | 20 |"
+  },
+  "914703847": {
+   "fragment_id": "914710483",
+   "type": 14,
+   "heading": "QUADRO I — Critérios e níveis para atribuição de ICD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## QUADRO I — Critérios e níveis para atribuição de ICD\n\n(a que se refere o n.º 5 do artigo 10.º)\n\n| Intervalo de resultados do ICD (%) | Apuramento |\n| --- | --- |\n| [0; 50] | 0 |\n| ]50; 90[ | VMM* x (IDE** - 50)/40 |\n| [90; 100] | VMM* |\n\n*VMM - Corresponde ao valor máximo mensal fixado para o correspondente grupo de pessoal, fixado, neste caso no valor de 900 euros.\n**IDE - Indicador de Desempenho da Equipa.\n118899395"
+  }
+ }
+}

@@ -1,0 +1,451 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454479:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-914891371",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/28-2008-454479",
+ "source_lastmod": "2025-04-14",
+ "versions": [
+  {
+   "date": "2008-07-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914891405",
+    "914891406",
+    "914891407",
+    "914891408",
+    "914891409",
+    "914891410",
+    "914891411",
+    "914891412",
+    "914891413",
+    "914891414",
+    "914891415",
+    "914891416",
+    "914891417",
+    "914891418",
+    "914891419",
+    "914891420",
+    "914891421",
+    "914891422",
+    "914891423",
+    "914891424",
+    "914891425",
+    "914891426",
+    "914891427",
+    "914891428",
+    "914891429",
+    "914891430",
+    "914891431",
+    "914891432",
+    "914891433",
+    "914891434",
+    "914891435",
+    "914891436",
+    "914891437",
+    "914891438",
+    "914891439",
+    "914891440",
+    "914891441",
+    "914891442",
+    "914891443",
+    "914891444",
+    "914891445",
+    "914891446",
+    "914891447",
+    "914891448",
+    "914891449",
+    "914891450",
+    "914891451",
+    "914891453"
+   ]
+  }
+ ],
+ "fragments": {
+  "914891405": {
+   "fragment_id": "914891372",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 28/2008/A\n\nRegime jurídico do uso e arrendamento de baldios\n\nO regime jurídico do arrendamento rural dos baldios na Região Autónoma dos Açores, aprovado pelo Decreto Regional n.º 18/80/A, de 21 de Agosto, com as alterações que lhe foram introduzidas pelos Decreto Regional n.º 20/81/A, de 31 de Outubro, e pelo Decreto Legislativo Regional n.º 7/86/A, de 25 de Fevereiro, carece de alterações decorrentes de uma acentuada melhoria estrutural no sector agro-florestal que se reflecte na melhoria das condições de produção e na eficácia do sector no desenvolvimento da Região, a par da evolução da política agrícola regional decorrentes de alterações, entre outras, da Política Agrícola Comum;\n\nConsiderando que é indispensável garantir um efectivo e pleno aproveitamento agrícola dos solos de maiores potencialidades e a sua inserção em explorações bem dimensionadas;\n\nConsiderando a necessidade de se continuar a aposta na modernização e reestruturação das explorações agrícolas, de forma a reduzir custos de produção das mesmas, contribuindo para uma efectiva melhoria das condições de vida dos agricultores, promovendo em simultâneo a adaptação ambiental da exploração no quadro de um desenvolvimento sustentável;\n\nConsiderando por outro lado, que os baldios são terrenos da Região, insusceptíveis de apropriação privada, usados e fruídos por particulares, há necessidade de clarificar as relações jurídicas a estabelecer entre a administração e os particulares, nomeadamente no que diz respeito ao arrendamento de terrenos baldios transformados em pastagens e dos terrenos impróprios para qualquer outro tipo de cultura.\n\nConsiderando, finalmente, que existem na Região vastas áreas de baldio que não são susceptíveis de exploração em regime de arrendamento, sendo, por isso, utilizadas para a prestação de serviços de pastoreio de gado bovino.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:"
+  },
+  "914891406": {
+   "fragment_id": "914891373",
+   "type": 1,
+   "heading": "Capítulo I — Disposições introdutórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições introdutórias"
+  },
+  "914891407": {
+   "fragment_id": "914891374",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nNa Região Autónoma dos Açores, as relações jurídicas de arrendamento e utilização dos baldios transformados em pastagens e, bem assim, os terrenos impróprios para qualquer tipo de cultura e que se encontram sob administração do serviço do departamento do Governo Regional com competência em matéria florestal, ficam sujeitos ao disposto no presente diploma."
+  },
+  "914891408": {
+   "fragment_id": "914968275",
+   "type": 11,
+   "heading": "Artigo 2.º — Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Administração\n\n1 - A administração dos terrenos baldios referidos no artigo anterior, que fazem parte do perímetro florestal de cada uma das ilhas do arquipélago, é assegurada pelas unidades orgânicas geograficamente desconcentradas dependentes do serviço do departamento do Governo Regional com competência em matéria florestal, adiante designadas apenas por unidades orgânicas.\n\n2 - Serão os serviços referidos no número anterior, quem outorgará na qualidade de senhorio no contrato de arrendamento."
+  },
+  "914891409": {
+   "fragment_id": "914968276",
+   "type": 1,
+   "heading": "Capítulo II — Arrendamento agro-pecuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Arrendamento agro-pecuário"
+  },
+  "914891410": {
+   "fragment_id": "914968277",
+   "type": 11,
+   "heading": "Artigo 3.º — Afectação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Afectação\n\n1 - Os baldios transformados em pastagens são destinados às actividades da agro-pecuária, para as explorações detidas por pessoas singulares ou colectivas, a título principal, obtendo da actividade agrícola 50 % do seu rendimento e dedicando à mesma 50 % do seu tempo total de trabalho.\n\n2 - Os terrenos baldios impróprios para qualquer tipo de cultura poderão ser objecto de arrendamento, para fins comerciais, industriais, turísticos ou complementares da agro-pecuária."
+  },
+  "914891411": {
+   "fragment_id": "914968278",
+   "type": 11,
+   "heading": "Artigo 4.º — Candidatura ao arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Candidatura ao arrendamento\n\n1 - Os interessados no arrendamento de pastagens baldias, devem apresentar a candidatura até ao último dia de Novembro de cada ano.\n\n2 - A candidatura é formalizada, junto das unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, em requerimento próprio, aprovado por portaria do respectivo membro do Governo Regional, acompanhado de cópia da última declaração do IRS ou IRC.\n\n3 - Para efeitos de instrução do respectivo processo, o serviço responsável pela candidatura requer aos serviços com competência em matéria agrícola:\n\na) Declaração, que confirme o estatuto de agricultor a título principal;\n\nb) Certidão com a relação de terras afectas à exploração;\n\nc) Certidão com a relação do respectivo efectivo pecuário.\n\n4 - As candidaturas e os documentos que as acompanham são válidos apenas para o ano em que são apresentados.\n\n5 - O contrato de arrendamento cessa no termo do respectivo prazo, devendo os rendeiros interessados na manutenção do arrendamento comunicar às unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, por escrito, a intenção de manutenção do arrendamento, com a antecedência mínima de um ano, a contar da notificação do termo do contrato, efectuada pela referida unidade orgânica.\n\n6 - A qualquer momento, no decurso do contrato, a unidade orgânica com competência em matéria florestal, pode solicitar a comprovação das condições que motivaram a celebração do contrato de arrendamento."
+  },
+  "914891412": {
+   "fragment_id": "914968279",
+   "type": 11,
+   "heading": "Artigo 5.º — Preferência e hierarquização de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Preferência e hierarquização de candidaturas\n\nEntre as candidaturas aceites e formalizadas nos termos do artigo anterior, é efectuada uma selecção e hierarquização dos requerentes, pelas unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, com base nas condições sócio-económicas apresentadas nos termos definidos no anexo do presente diploma, do qual é parte integrante."
+  },
+  "914891413": {
+   "fragment_id": "914968280",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano de arrendamento\n\n1 - As unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, anualmente e antes de procederem ao arrendamento das pastagens baldias, submeterão a parecer do município ou da freguesia, consoante o caso, o respectivo plano de arrendamento, previamente aprovado pelo responsável pelo serviço do departamento do Governo Regional com competência em matéria florestal.\n\n2 - O plano de arrendamento deverá ser apreciado e aprovado pelas entidades referidas no número anterior, até final de Dezembro de cada ano.\n\n3 - Na falta de apreciação no prazo de 10 dias úteis, considera-se o mesmo tacitamente aprovado no termo do prazo referido."
+  },
+  "914891414": {
+   "fragment_id": "914968281",
+   "type": 11,
+   "heading": "Artigo 7.º — Limites ao arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Limites ao arrendamento\n\n1 - As áreas máximas de pastagens baldias a arrendar a cada agricultor serão as determinadas pelo plano referido no artigo anterior, mas não poderão ultrapassar os 5 ha.\n\n2 - O disposto no número anterior não se aplica aos arrendamentos existentes à data da entrada em vigor do presente diploma, ou quando tecnicamente não seja aconselhável tal restrição."
+  },
+  "914891415": {
+   "fragment_id": "914968282",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração do arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Duração do arrendamento\n\n1 - Os arrendamentos são celebrados por um prazo de 10 anos, susceptíveis de renovações sucessivas por períodos de 5 anos.\n\n2 - O final de qualquer prazo contratual corresponderá ao ano agrícola fixado para a Região Autónoma dos Açores."
+  },
+  "914891416": {
+   "fragment_id": "914968283",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações da entidade administradora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações da entidade administradora\n\nAs unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal obrigam-se a entregar as pastagens baldias para arrendamento, com as forragens em produção e perimetralmente definidas."
+  },
+  "914891417": {
+   "fragment_id": "914968284",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos rendeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos rendeiros\n\nOs rendeiros obrigam-se a observarem uma correcta utilização da pastagem arrendada, velando pela boa conservação dos bens, não pondo em causa a sua produtividade, função económica e não faltando ao cumprimento de qualquer das obrigações a que se encontram vinculados através de contrato celebrado, nomeadamente:\n\na) A pagarem as rendas, no termo do ano agrícola, nos serviços da administração regional autónoma vocacionados para o efeito ou nas unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, da área de localização do prédio objecto do arrendamento, salvo se for outro o local convencionado no contrato de arrendamento;\n\nb) A não autorizar, a qualquer título, a permanência de gado que não pertença à exploração com o direito de arrendamento;\n\nc) A não subarrendarem, emprestarem ou cederem a outrem, a qualquer título, total ou parcialmente, a pastagem arrendada, ou a sua produção;\n\nd) A não utilizar processos de cultura e de gestão da pastagem, que depreciem a potencialidade produtiva do solo e o normal rendimento das forragens instaladas;\n\ne) A não proceder à introdução de benfeitorias ou à renovação de pastagens, ou a alteração da situação existente sem autorização das unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal."
+  },
+  "914891418": {
+   "fragment_id": "914968285",
+   "type": 11,
+   "heading": "Artigo 11.º — Denúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Denúncia\n\nOs contratos de arrendamento poderão ser denunciados:\n\na) Pelo rendeiro, quando este avisar as unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, com seis meses de antecedência do termo do ano agrícola em curso, que não pretende manter o direito de arrendamento para além do ano que decorre, independentemente da data de termo do contrato;\n\nb) Pelas unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, através de comunicação escrita até ao termo do ano agrícola em curso e, desde que se verifiquem algumas das ocorrências que determinem a rescisão do contrato, nos termos do artigo seguinte."
+  },
+  "914891419": {
+   "fragment_id": "914968286",
+   "type": 11,
+   "heading": "Artigo 12.º — Rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Rescisão\n\nAs unidades orgânicas poderão, após autorização do responsável pelo serviço do departamento do Governo Regional com competência em matéria florestal, determinar a rescisão do contrato, nas seguintes situações:\n\na) Por incumprimento das obrigações constantes das alíneas a) e c) do artigo 10.º do presente diploma;\n\nb) Se cessar a actividade de agricultor a título principal;\n\nc) Por razões de superior interesse público, determinadas por despacho do membro do Governo Regional com competência em matéria florestal;\n\nd) Por reincidência, nos casos previstos nas alíneas b), d) e e) do artigo 10.º"
+  },
+  "914891420": {
+   "fragment_id": "914968287",
+   "type": 11,
+   "heading": "Artigo 13.º — Transmissão do arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transmissão do arrendamento\n\n1 - Transmitem-se sem dependência de qualquer formalidade, com observância do disposto no n.º 1 do artigo 7.º, os contratos de arrendamento de baldios transformados em pastagens, para:\n\na) Agricultores cessionários de rendeiros de baldios transformados em pastagens que tenham beneficiado de medidas de apoio à reforma antecipada;\n\nb) Candidatos a medidas de apoio à instalação de jovens agricultores instituídos por normas comunitárias;\n\nc) Agricultores com processo de reestruturação predial no caso de explorar terrenos confinantes.\n\n2 - O arrendamento não caduca por morte do rendeiro e pode transmitir-se ao cônjuge sobrevivo, não separado de pessoas e bens, ou que com ele co-habite em situação análoga à de cônjuge há pelo menos dois anos.\n\n3 - A transmissão dos direitos de arrendamento conferidos no presente artigo, só poderá ser exercida se for requerida às unidades orgânicas dependentes do serviço do departamento do Governo Regional com competência em matéria florestal, durante os três meses seguintes ao falecimento do rendeiro detentor do contrato e desde que o requerente comprove ser agricultor a título principal, observando o disposto n.º 1 do artigo 7.º"
+  },
+  "914891421": {
+   "fragment_id": "914968288",
+   "type": 11,
+   "heading": "Artigo 14.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Forma\n\n1 - O contrato de arrendamento das pastagens baldias é obrigatoriamente reduzido a forma escrita.\n\n2 - Os contratos são firmados, em duplicado, entre o rendeiro e o responsável pela unidade orgânica do serviço do departamento do Governo Regional com competência em matéria florestal, sendo um exemplar entregue ao rendeiro, destinando-se o outro a ficar arquivado no referido serviço.\n\n3 - Cada contrato de arrendamento reporta-se a uma única pastagem e não fica sujeito a quaisquer outras formalidades."
+  },
+  "914891422": {
+   "fragment_id": "914968289",
+   "type": 11,
+   "heading": "Artigo 15.º — Rendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Rendas\n\n1 - A renda é estipulada em dinheiro e nunca poderá ser convencionado o seu pagamento antecipado.\n\n2 - O valor da renda é fixado por despacho do membro do Governo Regional com competência em matéria florestal, segundo as classes de pastagens e é actualizado anualmente de acordo com o índice que vier a ser fixado para o arrendamento rural.\n\n3 - No ano da celebração do contrato de arrendamento a renda devida é a correspondente ao tempo de duração do contrato."
+  },
+  "914891423": {
+   "fragment_id": "914968290",
+   "type": 11,
+   "heading": "Artigo 16.º — Alterações no património arrendado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alterações no património arrendado\n\n1 - A renovação das pastagens depende de autorização do dirigente da unidade orgânica do serviço do departamento do Governo Regional com competência em matéria florestal.\n\n2 - A edificação de benfeitorias ou a alteração das existentes, depende também de autorização do dirigente máximo do serviço do departamento do Governo Regional com competência em matéria florestal e carecem de solicitação do interessado, devidamente justificada.\n\n3 - Todos os melhoramentos introduzidos, decorrem por conta do rendeiro interessado e não podem ser objecto de indemnização quando cesse o contrato."
+  },
+  "914891424": {
+   "fragment_id": "914968291",
+   "type": 1,
+   "heading": "Capítulo III — Prestação de serviços de pastoreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Prestação de serviços de pastoreio"
+  },
+  "914891425": {
+   "fragment_id": "914968292",
+   "type": 11,
+   "heading": "Artigo 17.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Objecto\n\nO departamento do Governo Regional com competência em matéria florestal, através das respectivas unidades orgânicas, pode utilizar terrenos de pastagens baldios, administrados pela Região, para prestação de serviços de pastoreio de gado bovino, que compreende o maneio e apascentamento de animais, a pessoas singulares ou colectivas, nos termos dos artigos seguintes."
+  },
+  "914891426": {
+   "fragment_id": "914968293",
+   "type": 11,
+   "heading": "Artigo 18.º — Partes, prazo de contrato e forma de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Partes, prazo de contrato e forma de pagamento\n\n1 - Podem ser partes no contrato quaisquer pessoas singulares ou colectivas, que residam ou estejam sediadas nas ilhas onde se localizem os baldios a que respeitam os contratos.\n\n2 - O prazo da prestação de serviço de pastoreio é de um mês, renovável por iguais períodos, até ao limite do prazo estabelecido nos termos da alínea b) do n.º 1 do artigo seguinte.\n\n3 - O pagamento devido pela presente prestação é mensal e deverá ser efectuado até ao 8.º dia de cada mês, sendo que o primeiro pagamento deverá observar o disposto no n.º 6 do artigo 22.º"
+  },
+  "914891427": {
+   "fragment_id": "914968294",
+   "type": 11,
+   "heading": "Artigo 19.º — Condições a definir anualmente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Condições a definir anualmente\n\n1 - Em cada ilha e para cada ano, o serviço do departamento do Governo Regional com competência em matéria florestal fixa, sob proposta das respectivas unidades orgânicas:\n\na) As áreas de baldio que são afectas às finalidades objecto deste capítulo, bem como o número de animais que estas podem comportar;\n\nb) A data de entrada e de saída do gado;\n\nc) Idade, sexo, estado sanitário, condição corporal do animal e outras condições definidas pelo respectivo serviço operativo de ilha.\n\n2 - Os preços dos serviços de pastoreio, por cabeça/mês, são fixados por portaria do membro do Governo Regional com competência em matéria florestal, sujeitos a actualização, de acordo com o disposto no n.º 2 do artigo 15.º"
+  },
+  "914891428": {
+   "fragment_id": "914968295",
+   "type": 11,
+   "heading": "Artigo 20.º — Oferta ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Oferta ao público\n\nNas ilhas em que, nos termos do n.º 1 do artigo anterior, haja afectação de terrenos de pastagens baldios à prestação de serviços de pastoreio, é feita uma oferta ao público, mediante a fixação de edital, nas sedes das juntas de freguesia, cujo modelo e condições de acesso constam de portaria do membro do Governo Regional com competência em matéria florestal."
+  },
+  "914891429": {
+   "fragment_id": "914968296",
+   "type": 11,
+   "heading": "Artigo 21.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Candidaturas\n\n1 - Apenas são considerados candidatos à prestação de serviços de pastoreio as pessoas mencionadas no n.º 1 do artigo 18.º que preencham devidamente e entreguem, no prazo estabelecido no edital, referido no artigo anterior, na sede da junta de freguesia da sua residência, ou em serviços da administração regional autónoma vocacionados para tal, o requerimento tipo aprovado para o efeito, a fornecer pelas unidade orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, àquelas entidades.\n\n2 - Do requerimento referido no número anterior é entregue cópia ao candidato."
+  },
+  "914891430": {
+   "fragment_id": "914968297",
+   "type": 11,
+   "heading": "Artigo 22.º — Selecção dos candidatos e rateio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Selecção dos candidatos e rateio\n\n1 - No 1.º dia útil seguinte ao termo do prazo para entrega de candidaturas, constante do edital referido no artigo 20.º, são recolhidos os requerimentos, e remetidos às unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, sendo excluídos, sem que haja lugar a audiência prévia, aqueles cuja candidatura não se encontre devidamente preenchida.\n\n2 - As unidades orgânicas, apenas deverão aceitar as candidaturas dos animais devidamente inscritos no Sistema Nacional de Identificação e Registo Animal, adiante designado por SNIRA, a favor do candidato.\n\n3 - Os candidatos excluídos, nos termos do presente diploma, são notificados da exclusão, nos 10 dias úteis subsequentes ao termo do prazo para entrega de candidaturas e antes do início da prestação de serviços de pastoreio.\n\n4 - Quando se verifique que o número de cabeças inscrito pelos candidatos excede o limite estabelecido, nos termos da alínea a) do n.º 1 do artigo 19.º, as unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, procederão ao rateio proporcional relativamente ao número de animais candidatos.\n\n5 - Efectuada a selecção, nos termos dos números anteriores, as unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal elaboram, para cada freguesia, uma lista dos candidatos/contratantes, da qual constará o número de cabeças de gado que serão recebidas de cada um e que é publicada, em edital, nas sedes das juntas das freguesias onde residam os utentes.\n\n6 - No prazo de 10 dias úteis seguintes à publicação referida no número anterior, deverão os contratantes fazer o pagamento respeitante ao valor devido, pela prestação de serviço referente ao primeiro mês da mesma.\n\n7 - A falta de pagamento, nos termos do número anterior, determina a impossibilidade de contratação."
+  },
+  "914891431": {
+   "fragment_id": "914968298",
+   "type": 11,
+   "heading": "Artigo 23.º — Direitos e deveres dos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direitos e deveres dos utentes\n\n1 - São direitos dos utentes:\n\na) Sem prejuízo do disposto no artigo 25.º, que no tratamento dos animais, por eles entregues, sejam observadas as boas práticas de maneio e bem-estar animal;\n\nb) Sempre que solicitado, serem informados dos locais onde se encontram os animais;\n\nc) Deslocarem-se junto dos animais.\n\n2 - São deveres dos utentes:\n\na) Identificar os animais entregues, como propriedade do beneficiário da prestação do serviço, em conformidade com o SNIRA;\n\nb) Não apresentarem animais bravos ou doentes e comprovar documentalmente que estão satisfeitas as normas de controlo sanitário, estabelecidas pelo serviço oficial competente;\n\nc) Não deslocar os animais dentro dos pastos;\n\nd) Não retirar ou substituir os animais, sem autorização prévia das unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal;\n\ne) Retirar os animais dos baldios, nos casos previstos no n.º 1 do artigo 25.º ou no prazo que for fixado para o efeito."
+  },
+  "914891432": {
+   "fragment_id": "914968299",
+   "type": 11,
+   "heading": "Artigo 24.º — Introdução de animais não autorizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Introdução de animais não autorizada\n\n1 - Não é permitida a introdução de animais não autorizados e o uso abusivo de pastagens públicas.\n\n2 - Sempre que forem detectados animais não autorizados, as unidade orgânicas deverão notificar o proprietário do mesmo para procederem à retirada dos animais na data que constar da notificação, que deverá revestir a forma escrita.\n\n3 - Pela permanência indevida dos animais, nos termos do presente artigo, é devido o pagamento diário correspondente aos encargos com os mesmos, a fixar por portaria do membro do Governo Regional com competência em matéria florestal.\n\n4 - Findo o prazo de cinco dias, os animais que permanecerem nas pastagens serão considerados perdidos a favor da Região e abatidos, competindo ao responsável pelo serviço do departamento do Governo Regional com competência em matéria florestal, sob proposta da respectiva unidade orgânica, determinar o destino dos mesmos."
+  },
+  "914891433": {
+   "fragment_id": "914968300",
+   "type": 11,
+   "heading": "Artigo 25.º — Rejeição dos animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Rejeição dos animais\n\n1 - Os funcionários ou agentes em serviço, na data e locais de recepção dos animais, devem rejeitar aqueles que não satisfaçam os requisitos anunciados na oferta ao público, bem como os animais que sejam apresentados para substituição de outros, sem a devida autorização concedida, nos termos do disposto na alínea d) do n.º 2 do artigo 23.º\n\n2 - Neste caso, os utentes perdem o direito às importâncias correspondentes que tenham pago."
+  },
+  "914891434": {
+   "fragment_id": "914968301",
+   "type": 11,
+   "heading": "Artigo 26.º — Exclusão de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Exclusão de responsabilidade\n\nSalvo quando sejam imputáveis, a título de dolo ou negligência, aos funcionários ou agentes das unidades orgânicas ou do serviço do departamento do Governo Regional com competência em matéria florestal, a Região não é responsável pelos danos sofridos pelos animais que lhe forem confiados, devido a doenças, acidentes ou outras causas ou, ainda, a perda do mesmo."
+  },
+  "914891435": {
+   "fragment_id": "914968302",
+   "type": 11,
+   "heading": "Artigo 27.º — Resolução e modificação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Resolução e modificação do contrato\n\n1 - Salvo no caso de contrato com prazo inferior, os contratos extinguem-se por decurso do prazo para a saída de todos os animais, devendo, em qualquer dos casos, as unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, com a antecedência mínima de 10 dias úteis, notificar da data da retirada dos animais.\n\n2 - Os contratos consideram-se, ainda, resolvidos ou modificados:\n\na) Mediante comunicação verbal da unidade orgânica do serviço do departamento do Governo Regional com competência em matéria florestal por motivo de doença de todos os animais entregues pelo utente, que deverá ser posteriormente confirmado por escrito;\n\nb) Nos casos em que só parte dos animais estejam doentes, a comunicação é suficiente para operar a redução proporcional do contrato;\n\nc) Com a entrega, pelo utente, de apenas parte dos animais candidatados, desde que comprovada a impossibilidade da entrega por causas não imputáveis ao beneficiário;\n\nd) Com a retirada, pelo utente, da totalidade dos animais;\n\ne) Em caso de escassez de alimentos ou condições meteorológicas adversas, mediante notificação escrita das unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, para retirada de animais, no prazo que lhe for determinado, em número proporcional aos animais entregues por beneficiário.\n\n3 - A resolução ou modificação do contrato tem sempre de observar a forma escrita."
+  },
+  "914891436": {
+   "fragment_id": "914968303",
+   "type": 1,
+   "heading": "Capítulo IV — Arrendamento para outros fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Arrendamento para outros fins"
+  },
+  "914891437": {
+   "fragment_id": "914968304",
+   "type": 11,
+   "heading": "Artigo 28.º — Baldios impróprios para cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Baldios impróprios para cultura\n\n1 - Os terrenos baldios impróprios para culturas, objecto de arrendamento para fins comerciais, industriais, turísticos ou complementares da agro-pecuária, devem observar as disposições contidas nos instrumentos de gestão territorial.\n\n2 - Os prazos de arrendamento dos terrenos referidos neste artigo, têm como limite máximo 50 anos, renováveis por períodos de 10 anos e não podem abranger áreas superiores a 10 ha.\n\n3 - A renovação do contrato depende de requerimento do rendeiro, dirigido à unidade orgânica do serviço do departamento do Governo Regional competente na matéria florestal.\n\n4 - As candidaturas aos arrendamentos dos terrenos em referência são apresentadas em requerimento próprio, acompanhadas de documentos que demonstrem a utilização pretendida, sendo decididas pelo dirigente máximo do serviço do departamento do Governo Regional competente na matéria florestal, mediante parecer do serviço do departamento do Governo Regional com competência em função da matéria e da Câmara Municipal em que se localiza o baldio.\n\n5 - Os valores das rendas são fixados por despacho do membro do Governo Regional com competência em matéria florestal, podendo ser objecto de actualização anual."
+  },
+  "914891438": {
+   "fragment_id": "914968305",
+   "type": 11,
+   "heading": "Artigo 29.º — Denúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Denúncia\n\nVerificando-se a alteração da finalidade que presidiu à celebração do contrato de arrendamento de terrenos baldios impróprios para culturas, o dirigente do serviço do departamento do Governo Regional com competência em matéria florestal pode, mediante despacho, sob proposta da respectiva unidade orgânica, denunciar o contrato."
+  },
+  "914891439": {
+   "fragment_id": "914968306",
+   "type": 11,
+   "heading": "Artigo 30.º — Processo e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Processo e procedimentos\n\nO processo e contratos de arrendamento de baldios impróprios para cultura seguem as regras para os contratos de arrendamento agro-pecuário, com as necessárias adaptações e desde que não se mostrem incompatíveis com o disposto neste capítulo."
+  },
+  "914891440": {
+   "fragment_id": "914968307",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização e regime sancionatório"
+  },
+  "914891441": {
+   "fragment_id": "914968308",
+   "type": 11,
+   "heading": "Artigo 31.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Fiscalização\n\nSão competentes para a fiscalização do cumprimento do previsto no presente diploma o corpo de guardas florestais e funcionários do departamento do Governo Regional com competência em matéria florestal que exerçam funções de polícia florestal."
+  },
+  "914891442": {
+   "fragment_id": "914968309",
+   "type": 11,
+   "heading": "Artigo 32.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contra-ordenações\n\n1 - Ficam sujeitas ao regime geral das contra-ordenações as ocorrências que ponham em causa as normas ou instruções emanadas das unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal e que não observem uma correcta utilização das regras estabelecidas no presente diploma, designadamente:\n\na) As obrigações enunciadas nas alíneas b), d) e e) do artigo 10.º;\n\nb) Todas as obrigações previstas no contrato de arrendamento, excepto aquelas que pela sua natureza, determinam a sua rescisão;\n\nc) Todas as obrigações previstas nas alíneas c), d) e e) do n.º 2 do artigo 23.º\n\n2 - As ocorrências previstas no número anterior, são puníveis com coima de (euro) 50 a (euro) 2500, revertendo o produto das mesmas para a Região.\n\n3 - A aplicação das coimas relativa às contra-ordenações, cabe ao dirigente máximo pelo serviço do departamento do Governo Regional com competência em matéria florestal, cabendo ao responsável pela unidade orgânica nomear o instrutor, que nunca poderá ser o agente autuante ou participante."
+  },
+  "914891443": {
+   "fragment_id": "914968310",
+   "type": 11,
+   "heading": "Artigo 33.º — Sanção acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sanção acessória\n\nSem prejuízo de outras sanções previstas na lei, os utentes que faltem ao cumprimento dos seus deveres contratuais ficam impedidos de contratarem os serviços objecto deste diploma, por um período que varia entre um e três anos, consoante o que for decidido pelo responsável pelo serviço do departamento do Governo Regional com competência em matéria florestal."
+  },
+  "914891444": {
+   "fragment_id": "914968311",
+   "type": 11,
+   "heading": "Artigo 34.º — Receitas das rendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Receitas das rendas\n\nAs receitas provenientes das rendas, serão distribuídas na proporção de 50 % para a Região e 50 % para as juntas de freguesia do respectivo concelho."
+  },
+  "914891445": {
+   "fragment_id": "914968312",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "914891446": {
+   "fragment_id": "914968313",
+   "type": 11,
+   "heading": "Artigo 35.º — Outras áreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Outras áreas\n\n1 - Nos baldios situados no perímetro florestal, não susceptíveis de enquadramento no regime previsto no presente diploma não é permitida a permanência de animais.\n\n2 - No caso de permanência de animais cuja identificação do respectivo proprietário não seja possível, são os mesmos perdidos a favor da Região, cabendo ao dirigente do serviço do departamento do Governo Regional com competência em matéria florestal determinar o fim que lhes deverá ser dado.\n\n3 - No caso da identificação dos proprietários dos animais, são os mesmos notificados, por escrito, para procederam à retirada imediata dos animais, sob pena de incorrer em contra-ordenação susceptível de punição nos termos do disposto nos n.os 1 e 2 do artigo 32.º do presente diploma, sem prejuízo do pagamento de indemnização devida à Região pelos danos que vierem a ser causados pelos referidos animais.\n\n4 - A Região não é responsável pelos danos causados a terceiro pelos animais que se encontrem nos terrenos referidos no n.º 1 deste artigo."
+  },
+  "914891447": {
+   "fragment_id": "914968314",
+   "type": 11,
+   "heading": "Artigo 36.º — Cooperação técnico-financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Cooperação técnico-financeira\n\nMediante acordos de cooperação, podem os processos de selecção referidos no artigo 22.º do presente diploma ser cometidos às juntas de freguesia."
+  },
+  "914891448": {
+   "fragment_id": "914968315",
+   "type": 11,
+   "heading": "Artigo 37.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Direito subsidiário\n\nNos casos omissos e em tudo o que não contrarie os princípios deste diploma, aplicam-se as regras do arrendamento rural e as especiais de locação, em conformidade com as leis vigentes."
+  },
+  "914891449": {
+   "fragment_id": "914968316",
+   "type": 11,
+   "heading": "Artigo 38.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Aplicação\n\nO presente diploma aplica-se aos contratos em execução validamente celebrados."
+  },
+  "914891450": {
+   "fragment_id": "914968317",
+   "type": 11,
+   "heading": "Artigo 39.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Revogação\n\nSão revogados:\n\na) O Decreto Regional n.º 18/80/A, de 21 de Agosto;\n\nb) O Decreto Regional n.º 20/81/A, de 31 de Outubro;\n\nc) O Decreto Legislativo Regional n.º 19/97/A, de 4 de Novembro;\n\nd) A Portaria n.º 71/89, de 24 de Outubro."
+  },
+  "914891451": {
+   "fragment_id": "914968318",
+   "type": 11,
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nEste diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "914891453": {
+   "fragment_id": "914968320",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 5.º)\n\nQUADRO N.º 1\n\nAnálise sócio-económica do candidato\n\n(ver documento original)\n\nRMMG - retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores.\n\nQUADRO N.º 2\n\nLocalização da exploração\n\n(ver documento original)\n\nQUADRO N.º 3\n\nIdade do candidato\n\n(ver documento original)\n\n> Nota: [Declaração de Rectificação n.º 52/2008 - Diário da República n.º 171/2008, Série I de 2008-09-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-2008-453984) O quadro n.º 3 do anexo sofreu alterações.\n\n> Nota: [Declaração de Rectificação n.º 52/2008 - Diário da República n.º 171/2008, Série I de 2008-09-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-2008-453984) O quadro n.º 1 do anexo sofreu alterações."
+  }
+ }
+}

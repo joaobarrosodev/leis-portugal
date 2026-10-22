@@ -1,0 +1,826 @@
+---
+schema_version: '1.0'
+id: pt:dre:438069:por
+title: Decreto-Lei n.º 251/98
+short_title: null
+summary: Regulamenta o acesso à actividade e ao mercado dos transportes em táxi
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 251/98
+official_date: null
+publication_date: '1998-08-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 184/1998, Série I-A de 1998-08-11
+  number: '184'
+  series: I
+  supplement: null
+  pages: 3891 - 3897
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/08/184a00/38913897.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes:
+- Os alvarás emitidos ao abrigo do presente decreto-lei, na sua redação atual, e do Decreto-Lei n.º 297/92, de 31 de dezembro,
+  mantêm-se em vigor até ao termo do seu prazo, sendo a renovação requerida ao abrigo do disposto no Decreto-Lei n.º 101/2023,
+  de 31 de outubro.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-11-01'
+version_history:
+  file: decreto-lei-251-98.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-09-19'
+    amending: pt:dre:570556:por
+    amending_title: Lei n.º 156/99
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+  - date: '2001-11-29'
+    amending: pt:dre:632067:por
+    amending_title: Lei n.º 106/2001
+    changes:
+    - Adita Artigo 36.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+  - date: '2003-03-16'
+    amending: pt:dre:221347:por
+    amending_title: Decreto-Lei n.º 41/2003
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 15.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 43.º
+    - Revoga Artigo 45.º
+  - date: '2013-01-27'
+    amending: pt:dre:257175:por
+    amending_title: Lei n.º 5/2013
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 36.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 40.º
+  - date: '2017-01-01'
+    amending: pt:dre:75774118:por
+    amending_title: Lei n.º 35/2016
+    changes:
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+  - date: '2019-01-12'
+    amending: pt:dre:117726477:por
+    amending_title: Decreto-Lei n.º 3/2019
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º
+  - date: '2023-11-01'
+    amending: pt:dre:223575032:por
+    amending_title: Decreto-Lei n.º 101/2023
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/251/1998/p/cons/20231031/pt/html
+  oj: null
+  dre: '438069'
+  dre_path: /dr/detalhe/decreto-lei/251-1998-438069
+  internal: pt:dre:438069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069
+  metadata_url: https://data.dre.pt/eli/dec-lei/251/1998/p/cons/20231031/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-75769585
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-75769585
+  retrieved_at: '2026-10-22T12:09:11Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 27db0b07de837eed7e9085438227690633f3eaa441ec346fe304fbbba71d1102
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:09:11Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-251-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Veículo
+- Licença de Transporte
+- Preço
+- Câmara Municipal
+- Regulamentação dos Transportes
+- Regulamento de Transportes em Automóveis
+- Transporte
+- Transporte de Passageiros
+- Veículo de Aluguer
+relationships:
+- type: amended_by
+  target: pt:dre:570556:por
+  label: Altera Artigo 3.º; Altera Artigo 14.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/156-1999-570556
+  date: '1999-09-14'
+- type: amended_by
+  target: pt:dre:569879:por
+  label: Altera Artigo 3.º; Altera Artigo 14.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/167-1999-569879
+  date: '1999-09-18'
+- type: amended_by
+  target: pt:dre:632067:por
+  label: Adita Artigo 36.º-A; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 37.º; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067
+  date: '2001-08-31'
+- type: amended_by
+  target: pt:dre:221347:por
+  label: Altera Artigo 5.º; Altera Artigo 15.º; Altera Artigo 25.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo
+    30.º; Altera Artigo 31.º; Altera Artigo 37.º; Altera Artigo 38.º; Revoga Artigo 39.º; Revoga Artigo 43.º; Revoga Artigo
+    45.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347
+  date: '2003-03-11'
+- type: amended_by
+  target: pt:dre:257175:por
+  label: Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 36.º; Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 38.º;
+    Revoga Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175
+  date: '2013-01-22'
+- type: amended_by
+  target: pt:dre:75774118:por
+  label: Altera Artigo 28.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/35-2016-75774118
+  date: '2016-11-21'
+- type: amended_by
+  target: pt:dre:117726477:por
+  label: Altera Artigo 11.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2019-117726477
+  date: '2019-01-11'
+- type: amended_by
+  target: pt:dre:223575032:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032
+  date: '2023-10-31'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/378/1997/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/378/1997/12/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/18/1997/06/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/18/1997/06/11/p/dre
+article_structure:
+  article_count: 46
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:09:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 251/98
+
+Decreto-Lei n.º 251/98
+
+de 11 de Agosto
+
+A experiência colhida na aplicação do regime jurídico relativo aos transportes de aluguer em veículos automóveis ligeiros de passageiros veio demonstrar a necessidade da sua revisão, visando sobretudo a melhoria de qualidade a que deve obedecer a prestação destes serviços.
+
+Neste sentido, em paralelo com um diploma específico regulador da certificação profissional do motorista, o presente decreto-lei estrutura a realização destes transportes em duas vertentes fundamentais que se complementam: o acesso à actividade e o acesso ao mercado.
+
+O licenciamento da actividade consubstancia-se na exigência de requisitos a preencher pelas sociedades comerciais ou cooperativas que a pretendam exercer, as quais, por razões de solidez económica, eficácia e capacidade organizativa, passam a ser os únicos protagonistas desta actividade. A esta opção pela forma societária não foi alheia a consagração da sociedade unipessoal por quotas no nosso ordenamento jurídico, figura esta a que já podem aderir as pessoas pouco receptivas ao associativismo inerente às outras formas sociais.
+
+No entanto, considerando que a actividade tem vindo tradicionalmente a ser exercida por empresários em nome individual e que o instituto de sociedade unipessoal é uma figura recente e, por isso, ainda pouco conhecida, tornou-se conveniente admitir que, ressalvado o preenchimento dos requisitos de idoneidade, capacidade técnica ou profissional e capacidade financeira, pudessem as referidas empresas continuar a exercer a actividade.
+
+Ainda com o objectivo de promover a melhoria da prestação dos serviços de transportes de aluguer em automóveis ligeiros de passageiros, os quais respondem a necessidades essencialmente locais, são conferidas competências aos municípios no âmbito de organização e acesso ao mercado, sem prejuízo da coordenação e mobilidade a nível nacional.
+
+Assim, a intervenção da administração central em matéria de acesso ao mercado é meramente residual, circunscrevendo-se à resolução de questões de transporte em táxi com natureza extraconcelhia, em que o pólo gerador da procura não tenha tradução local e a coordenação de transportes se não confine a um município.
+
+É também adoptado um regime sancionatório mais adequado ao actual sistema de contra-ordenações, pretendendo-se que o mesmo exerça uma função dissuasora, sendo conferidas competências nessa matéria à administração local.
+
+Finalmente, os direitos adquiridos pelas pessoas que já vêm exercendo a actividade foram devidamente acautelados, através da consagração de um regime transitório que, para além de atribuir relevância jurídica à experiência profissional, permite a adaptação às novas regras de acesso à actividade num prazo suficientemente alargado.
+
+Foram ouvidos os organismos representantivos dos trabalhadores.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim, no uso da autorização legislativa concedida pelo n.º 1 do artigo 1.º da Lei n.º 18/97, de 11 de Junho, nos termos das alíneas a) e b) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 45.º, Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032) Os alvarás emitidos ao abrigo do presente decreto-lei, na sua redação atual, e do Decreto-Lei n.º 297/92, de 31 de dezembro, mantêm-se em vigor até ao termo do seu prazo, sendo a renovação requerida ao abrigo do disposto no Decreto-Lei n.º 101/2023, de 31 de outubro.
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma aplica-se aos transportes públicos de aluguer em veículos automóveis ligeiros de passageiros, adiante designados por transportes em táxi.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma considera-se:
+
+a) Táxi: o veículo automóvel ligeiro de passageiros afecto ao transporte público, equipado com aparelho de medição de tempo e distância (taxímetro) e com distintivos próprios;
+
+b) Transporte em táxi: o transporte efectuado por meio do veículo a que se refere a alínea a), ao serviço de uma só entidade, segundo itinerário da sua escolha e mediante retribuição;
+
+c) Transportador em táxi: a empresa habilitada com alvará para o exercício da actividade de transportes em táxi.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+### Capítulo II — Acesso à actividade
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 3.º — Licenciamento da actividade
+
+1 - A actividade de transportes em táxi só pode ser exercida por sociedades comerciais ou cooperativas licenciadas pela Direcção-Geral de Transportes Terrestres (DGTT), por estabelecimentos individuais de responsabilidade limitada ou por empresários em nome individual no caso de pretenderem explorar uma única licença.
+
+2 - Aos concursos para a concessão de licenças para a actividade de transportes em táxi podem concorrer, para além das entidades previstas no número anterior, os trabalhadores por conta de outrem, bem como os membros de cooperativas licenciadas pela Direcção-Geral de Transportes Terrestres, que preencham as condições de acesso e exercício da profissão definidas nos termos deste diploma.
+
+3 - Aos concursos para a concessão de licenças para a actividade de transportes em táxi podem concorrer, para além das entidades previstas no número anterior, os trabalhadores por conta de outrem, bem como os membros de cooperativas licenciadas pela Direcção-Geral de Transportes Terrestres e que preencham as condições de acesso e exercício da profissão definidas nos termos deste diploma.
+
+4 - A licença para o exercício da actividade de transportes em táxi consubstancia-se num alvará, o qual é intransmissível e é emitido por um prazo não superior a cinco anos, renovável mediante comprovação de que se mantêm os requisitos de acesso à actividade.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 4/2004 - Diário da República n.º 4/2004, Série I-A de 2004-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2004-240802), produz efeitos a partir de 2003-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+> Alterado pelo/a [Lei n.º 167/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/167-1999-569879), em vigor a partir de 1999-09-23
+
+> Alterado pelo/a [Lei n.º 156/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/156-1999-570556), em vigor a partir de 1999-09-19
+
+###### Artigo 4.º — Requisitos de acesso
+
+É requisito de acesso à atividade a capacidade financeira.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27
+
+###### Artigo 5.º — Idoneidade
+
+1 - O requisito de idoneidade deve ser preenchido por todos os gerentes, directores ou administradores da empresa ou, no caso de empresário em nome individual, pelo próprio.
+
+2 - São consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador;
+
+c) Condenação, com trânsito em julgado, por infracções graves e repetidas à regulamentação sobre os tempos de condução e de repouso ou à regulamentação sobre a segurança rodoviária, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador;
+
+d) Condenação, com trânsito em julgado, por infracções cometidas no exercício da actividade transportadora às normas relativas ao regime das prestações de natureza retributiva ou às condições de higiene e segurança no trabalho, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador.
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+###### Artigo 6.º — Capacidade técnica ou profissional
+
+1 - O requisito de capacidade técnica ou profissional consiste na posse dos conhecimentos necessários para o exercício da actividade, verificada no âmbito de um exame efectuado pela DGTT, nos termos e sobre as matérias que vierem a ser definidas por portaria do membro do Governo responsável pela área dos transportes, ou comprovada por cinco anos de experiência na gestão de uma empresa de transportes rodoviários de passageiros.
+
+2 - O requisito de capacidade técnica ou profissional deve ser preenchido, no caso de sociedades comerciais, por um gerente ou administrador, nas cooperativas, por um dos seus directores que detenha a direcção efectiva, e, no caso de empresário em nome individual, pelo próprio ou por seu mandatário.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+###### Artigo 7.º — Capacidade financeira
+
+A capacidade financeira consiste na posse dos recursos financeiros necessários para garantir a boa gestão da empresa, nos termos a definir por portaria do membro do Governo responsável pela área dos transportes.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 8.º — Falta superveniente do requisito de acesso
+
+1 - A falta superveniente do requisito de acesso à atividade deve ser suprida no prazo de um ano a contar da data da sua ocorrência.
+
+2 - Decorrido o prazo previsto no número anterior sem que a falta seja suprida, caduca o alvará para o exercício da actividade de transportador em táxi.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27
+
+###### Artigo 9.º — Dever de informação
+
+1- As empresas devem comunicar à DGTT as alterações ao pacto social, designadamente modificações na administração, direcção ou gerência, bem como mudanças de sede, no prazo de 30 dias a contar da sua ocorrência.
+
+2 - O disposto no número anterior aplica-se, com as devidas adaptações, aos empresários em nome individual.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+### Capítulo III — Acesso ao mercado
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 10.º — Veículos
+
+1 - Nos transportes em táxi só podem ser utilizados veículos automóveis ligeiros de passageiros de matrícula nacional, com lotação não superior a nove lugares, incluindo o do condutor, equipados com taxímetro e conduzidos por motoristas habilitados com certificado de aptidão profissional.
+
+2 - As normas de identificação, o tipo de veículo, as condições de afixação de publicidade e outras características a que devem obedecer os táxis são estabelecidos por portaria do membro do Governo responsável pela área dos transportes.
+
+3 - A portaria a que se refere o número anterior pode prever um regime especial de inspecção aos veículos que considere, designadamente, as condições de funcionamento e segurança do equipamento e as condições de segurança do veículo, bem como o seu estado de conservação, exterior e interior, e de comodidade.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+###### Artigo 11.º — Taxímetros
+
+1 - A homologação e a aferição dos taxímetros é efectuada pelas entidades reconhecidas para efeitos de controlo metrológico dos aparelhos de medição de tempo e distância.
+
+2 - Os taxímetros devem ser colocados na metade superior do tablier ou em cima deste, ou no espelho retrovisor, em local bem visível pelos passageiros, não podendo ser sujeitos a controlo metrológico legal os que não respeitem esta condição.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2019 - Diário da República n.º 8/2019, Série I de 2019-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2019-117726477), em vigor a partir de 2019-01-12
+
+###### Artigo 12.º — Licenciamento dos veículos
+
+1 - Os veículos afectos aos transportes em táxi estão sujeitos a licença a emitir pelas câmaras municipais e são averbados no alvará pela DGTT.
+
+2 - As normas de identificação, o tipo de veículo, as condições de afixação de publicidade e outras características a que devem obedecer os táxis são estabelecidos por portaria do membro do Governo responsável pela área dos transportes.
+
+3 - A licença de táxi e o alvará ou a sua cópia certificada pela DGTT devem estar a bordo do veículo.
+
+4 - A transmissão ou transferência das licenças dos táxis, entre empresas devidamente habilitadas com alvará, deve ser previamente comunicada à câmara municipal a cujo contingente pertence a licença.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+###### Artigo 13.º — Fixação de contingentes
+
+1 - O número de táxis em cada concelho constará de contingentes fixados, com uma periodicidade não inferior a dois anos, pela câmara municipal, mediante audição prévia das entidades representativas do sector.
+
+2 - Os contingentes são estabelecidos por freguesia, para um conjunto de freguesias ou para as freguesias que constituem a sede do concelho.
+
+3 - Os contingentes e respectivos reajustamentos devem ser comunicados à DGTT aquando da sua fixação.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 14.º — Preenchimento dos lugares no contingente
+
+1 - As câmaras municipais atribuem as licenças, dentro do contingente fixado, por meio de concurso público aberto às entidades referidas nos n.os 1 e 2 do artigo 3.º deste diploma.
+
+2 - São definidos por regulamento municipal os termos gerais dos programas de concurso, o qual deve incluir os critérios aplicáveis à hierarquização dos concorrentes.
+
+3 - No caso de a licença em concurso ser atribuída a uma das pessoas a que se refere o n.º 2 do artigo 3.º deste diploma, esta dispõe de um prazo de 180 dias para efeitos de licenciamento para o exercício da actividade, findo o qual caduca o respectivo direito à licença.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+> Alterado pelo/a [Lei n.º 167/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/167-1999-569879), em vigor a partir de 1999-09-23
+
+> Alterado pelo/a [Lei n.º 156/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/156-1999-570556), em vigor a partir de 1999-09-19
+
+### Capítulo IV — Organização do mercado
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 15.º — Tipos de serviço
+
+Os serviços de transporte em táxi são prestados em função da distância percorrida e dos tempos de espera, ou:
+
+a) À hora, em função da duração do serviço;
+
+b) A percurso, em função de preços estabelecidos para determinados itinerários;
+
+c) A contrato, em função de acordo reduzido a escrito estabelecido por prazo não inferior a 30 dias, onde constem obrigatoriamente o respectivo prazo,
+
+d) A quilómetro, quando em função da quilometragem a percorrer. a identificação das partes e o preço acordado.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 16.º — Regimes de estacionamento
+
+1 - As câmaras municipais fixam por regulamento um ou vários dos seguintes regimes de estacionamento:
+
+a) Livre - os táxis podem circular livremente à disposição do público, não existindo locais obrigatórios para estacionamento;
+
+b) Condicionado - os táxis podem estacionar em qualquer dos locais reservados para o efeito, até ao limite dos lugares fixados;
+
+c) Fixo - os táxis são obrigados a estacionar em locais determinados e constantes da respectiva licença;
+
+d) Escala - os táxis são obrigados a cumprir um regime sequencial de prestação de serviço.
+
+2 - As câmaras municipais podem ainda definir, por regulamento, as condições em que autorizam o estacionamento temporário dos táxis em local diferente do fixado para fazer face a situações de acréscimo excepcional e momentâneo da procura.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 17.º — Prestação obrigatória de serviços
+
+1 - Os táxis devem estar à disposição do público de acordo com o regime de estacionamento que lhes for fixado, não podendo ser recusados os serviços solicitados em conformidade com a tipologia prevista no presente diploma, salvo o disposto no número seguinte.
+
+2 - Podem ser recusados os seguintes serviços:
+
+a) Os que impliquem a circulação em vias manifestamente intransitáveis pelo difícil acesso ou em locais que ofereçam notório perigo para a segurança do veículo, dos passageiros ou do motorista;
+
+b) Os que sejam solicitados por pessoas com comportamento suspeito de perigosidade.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 18.º — Suspensão e abandono do exercício da atividade
+
+1 - O exercício da atividade de transportes em táxi pode ser suspenso mediante mera comunicação prévia aos municípios emissores da licença, por um período de até 365 dias consecutivos.
+
+2 - A retoma da atividade de transportes em táxi decorrente da suspensão deve ser comunicada pelo detentor da licença de táxi à câmara municipal responsável.
+
+3 - Uma vez comunicada a suspensão do exercício da atividade de transportes em táxi, não pode haver nova suspensão num período de 365 dias consecutivos, contados a partir do último dia de suspensão.
+
+4 - As câmaras municipais podem opor-se à suspensão do exercício da atividade quando tiverem fixado um contingente inferior a sete táxis por concelho, no prazo de 10 dias úteis.
+
+5 - Presume-se que há abandono quando tiverem decorrido 365 dias consecutivos desde a emissão do último recibo comprovativo do valor total do serviço prestado, nos termos impostos pelo «sistema de tarifário» ou quando o taxímetro do veículo afeto à atividade de transportes em táxi não tenha registos de deslocações nesse período.
+
+6 - O abandono do exercício da atividade determina a caducidade do direito à licença do táxi.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2019 - Diário da República n.º 8/2019, Série I de 2019-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2019-117726477), em vigor a partir de 2019-01-12
+
+> Alterado pelo/a [Lei n.º 167/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/167-1999-569879), em vigor a partir de 1999-09-23
+
+> Alterado pelo/a [Lei n.º 156/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/156-1999-570556), em vigor a partir de 1999-09-19
+
+###### Artigo 19.º — Transporte de bagagens e de animais
+
+1 - O transporte de bagagens só pode ser recusado nos casos em que as suas características prejudiquem a conservação do veículo.
+
+2 - É obrigatório o transporte de cães guia de passageiros invisuais e de cadeiras de rodas ou outros meios de marcha de pessoas com mobilidade reduzida, bem como de carrinhos e acessórios para o transporte de crianças.
+
+3 - Não pode ser recusado o transporte de animais de companhia, desde que devidamente acompanhados e acondicionados, salvo motivo atendível, designadamente a perigosidade, o estado de saúde ou de higiene.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 20.º — Regime de preços
+
+Os transportes em táxi estão sujeitos ao regime de preços fixado em legislação especial.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+### Capítulo V — Regimes especiais
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 21.º — Regime especial
+
+Nos casos em que o transporte em táxi tenha natureza predominantemente extraconcelhia, designadamente no de coordenação deste serviço com terminais de transporte terrestre, aéreo, marítimo ou intermodal, pode o director-geral de Transportes Terrestres fixar, por despacho, contingentes especiais e regimes de estacionamento.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 22.º — Táxis para pessoas com mobilidade reduzida
+
+1 - Podem ser licenciados táxis para o transporte de pessoas com mobilidade reduzida, desde que devidamente adaptados, de acordo com regras a definir por despacho do director-geral de Transportes Terrestres.
+
+2 - As licenças a que se refere o número anterior podem ser atribuídas pelas câmaras municipais fora do contingente a que se refere o artigo 13.º, de acordo com critérios a fixar por regulamento municipal, sempre que a necessidade deste tipo de veículos não possa ser assegurada pela adaptação dos táxis existentes no concelho.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 23.º — Veículos turísticos e isentos de distintivos
+
+1 - O regime de acesso à actividade previsto no capítulo II do presente diploma aplica-se às empresas que efectuem transportes com veículos turísticos ou com veículos isentos de distintivos.
+
+2 - O regime aplicável ao acesso e organização do mercado será objecto de regulamentação especial.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 24.º — Transportes colectivos em táxi
+
+A DGTT pode autorizar a realização de transportes colectivos em táxi, em condições a definir por despacho do director-geral de Transportes Terrestres.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+### Capítulo VI — Fiscalização e regime sancionatório
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 25.º — Entidades fiscalizadoras
+
+São competentes para a fiscalização das normas constantes do presente diploma a Direcção-Geral de Transportes Terrestres (DGTT), a Inspecção-Geral das Obras Públicas, Transportes e Comunicações, as câmaras municipais, a Guarda Nacional Republicana e a Polícia de Segurança Pública.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 26.º — Contra-ordenações
+
+1 - O processo de contra-ordenação inicia-se oficiosamente mediante denúncia das autoridades fiscalizadoras ou particular.
+
+2 - A tentativa e a negligência são puníveis.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 27.º — Competência para a aplicação das coimas
+
+1 - O processamento das contra-ordenações previstas nos artigos 28.º e 29.º, no n.º 1 do artigo 30.º e no artigo 31.º compete à DGTT e a aplicação das coimas, assim como das sanções acessórias previstas no artigo 33.º, é da competência do director-geral de Transportes Terrestres.
+
+2 - O processamento das contra-ordenações previstas no n.º 2 do artigo 30.º compete à câmara municipal e a aplicação das coimas é da competência do presidente da câmara municipal respectiva.
+
+3 - As câmaras municipais devem comunicar à DGTT as infracções cometidas e respectivas sanções.
+
+4 - A DGTT organizará, nos termos da legislação em vigor, o registo das infracções cometidas e informará as câmaras municipais.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 28.º — Exercício da actividade sem licença
+
+1 - O exercício da atividade sem o alvará a que se refere o artigo 3.º é punível com coima de (euro) 2000 a (euro) 4500, tratando-se de pessoa singular, ou de (euro) 5000 a (euro) 15 000, tratando-se de pessoa coletiva.
+
+2 - As coimas previstas no número anterior são fixadas no dobro do valor em caso de reincidência.
+
+3 - Na fixação do montante da coima deve atender-se à gravidade da contraordenação, tendo em conta os antecedentes do infrator e a sua situação económica, quando for conhecida.
+
+4 - O disposto no presente artigo é aplicável igualmente à prática de angariação, com recurso a sistemas de comunicações eletrónicas, de serviços para viaturas sem alvará.
+
+5 - Para efeitos do disposto no presente artigo, no ato de fiscalização pela entidade competente, o infrator é notificado para, de imediato ou no prazo máximo de 48 horas, prestar depósito de valor igual ao mínimo da coima prevista para a contraordenação imputada.
+
+6 - Caso o infrator não efetue nem o pagamento da coima, nos termos previstos no Código da Estrada, nem o seu depósito, nos termos do número anterior, devem ser apreendidos, provisoriamente e à ordem do respetivo processo, os seguintes documentos:
+
+a) O título de condução, se a infração respeitar ao condutor;
+
+b) O título de identificação do veículo, se a infração respeitar ao proprietário do veículo;
+
+c) Os documentos referidos nas alíneas anteriores, se a infração respeitar ao condutor e este for simultaneamente o proprietário do veículo.
+
+7 - No caso previsto no número anterior, devem ser emitidas guias de substituição dos documentos apreendidos, com validade pelo tempo julgado necessário e renováveis até à conclusão do processo, devendo os mesmos ser devolvidos ao infrator se entretanto este proceder ao respetivo pagamento ou depósito nos termos previstos no n.º 5.
+
+8 - Concluindo-se o processo sem condenação do infrator, é devolvido o valor pago a título de pagamento voluntário ou o valor que tenha sido depositado, bem como, sendo caso disso, os documentos provisoriamente apreendidos.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a [Lei n.º 35/2016 - Diário da República n.º 223/2016, Série I de 2016-11-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2016-75774118), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 29.º — Incumprimento do dever de informação
+
+O incumprimento do disposto no artigo 9.º é punível com coima de (euro) 100 a (euro) 300.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 30.º — Exercício irregular da actividade
+
+1 - São puníveis com coima de (euro) 2000 a (euro) 4500 as seguintes infrações:
+
+a) A utilização de veículo não licenciado ou não averbado no alvará, ou ainda a utilização, injustificada, de veículo licenciado em concelho diferente;
+
+b) A viciação do alvará ou da licença do veículo, sem prejuízo da responsabilidade criminal a que houver lugar;
+
+c) A inobservância das normas de identificação e características dos táxis referidas no artigo 10.º
+
+2 - São puníveis com coima de (euro) 150 a (euro) 449, as seguintes infracções:
+
+a) O incumprimento de qualquer dos regimes de estacionamento previstos no artigo 16.º;
+
+b) (Revogada);
+
+c) A inexistência dos documentos a que se refere o n.º 3 do artigo 12.º;
+
+d) O abandono da exploração do táxi nos termos do artigo 18.º;
+
+e) O incumprimento do disposto no artigo 15.º;
+
+f) O abandono injustificado do veículo em violação do disposto no n.º 1 do artigo 17.º
+
+3 - Na fixação do montante da coima deve atender-se à gravidade da contraordenação, tendo em conta os antecedentes do infrator e a sua situação económica, quando for conhecida.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a [Lei n.º 35/2016 - Diário da República n.º 223/2016, Série I de 2016-11-21](https://diariodarepublica.pt/dr/detalhe/lei/35-2016-75774118), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 31.º — Falta de apresentação de documentos
+
+A não apresentação da licença de táxi, do alvará ou da sua cópia certificada, no acto de fiscalização, constitui contra-ordenação e é punível com a coima prevista na alínea c) do n.º 2 do artigo 30.º, salvo se o documento em falta for apresentado no prazo de oito dias à autoridade indicada pelo agente de fiscalização, caso em que a coima é de (euro) 50 a (euro) 250.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 32.º — Imputabilidade das infracções
+
+As infracções ao disposto no presente diploma são da responsabilidade do titular do alvará, sem prejuízo do direito de regresso, salvo a infracção prevista no artigo 28.º, que é da responsabilidade do seu autor.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 33.º — Sanções acessórias
+
+1 - Com a aplicação da coima prevista no artigo 28.º pode ser decretada a sanção acessória de interdição do exercício de actividade de transportador em táxi.
+
+2 - Com a aplicação de qualquer das coimas previstas no n.º 1 do artigo 30.º pode ser decretada a sanção acessória de suspensão da licença ou alvará.
+
+3 - As sanções de interdição de exercício da actividade ou de suspensão de licença ou alvará têm a duração máxima de dois anos.
+
+4 - No caso de suspensão de licença ou alvará, a empresa infractora é notificada para proceder voluntariamente ao depósito do respectivo alvará na DGTT, sob pena de apreensão.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 34.º — Produto das coimas
+
+O produto das coimas é distribuído da seguinte forma:
+
+a) 20% para a entidade competente para a aplicação da coima, constituindo receita própria;
+
+b) 20% para a entidade fiscalizadora, excepto quando esta não disponha da faculdade de arrecadar receitas próprias, revertendo neste caso para o Estado;
+
+c) 60% para o Estado.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+### Capítulo VII — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 35.º — Modelos das licenças
+
+Os modelos das licenças e dos alvarás previstos no presente diploma são aprovados por despacho do director-geral de Transportes Terrestres.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 36.º — Afectação de receitas
+
+Constituem receita própria do Instituto da Mobilidade e dos Transportes, I. P., os montantes das taxas fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, para a emissão do alvará para o exercício da atividade.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27
+
+###### Artigo 36.º-A — Dever de comunicação
+
+1 - As câmaras municipais devem comunicar à DGTT a aprovação e alterações dos regulamentos de execução do presente diploma, bem como os respectivos contingentes.
+
+2 - As informações referidas no número anterior serão comunicadas pela DGTT às associações representativas do sector.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+###### Artigo 37.º — Caducidade das licenças
+
+1 - As licenças para a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros, emitidas ao abrigo do Regulamento de Transportes em Automóveis (RTA), aprovado pelo Decreto n.º 37272, de 31 de Dezembro de 1948, e suas posteriores alterações, caducam em 30 de Junho de 2003.
+
+2 - Durante o período a que se refere o número anterior, são substituídas as licenças dos veículos emitidas ao abrigo da legislação ora revogada pelas previstas no artigo 12.º do presente diploma, desde que os seus titulares tenham obtido o alvará para o exercício da actividade de transportador em táxi.
+
+3 - Em caso de morte do titular da licença no decurso do prazo a que se refere o n.º 1, a actividade pode continuar a ser exercida por herdeiro legitimário ou cabeça-de-casal, provisoriamente, pelo período de um ano a partir da data do óbito, durante o qual o herdeiro ou cabeça-de-casal deve habilitar-se como transportador em táxi ou transmitir a licença a uma sociedade comercial, ou a uma cooperativa titular de alvará para o exercício da actividade de transportador em táxi.
+
+4 - Em derrogação do disposto no n.º 1, as licenças dos veículos cujos titulares já possuam o alvará a que se refere o n.º 3 do artigo 3.º permanecem válidas até que entrem em vigor, no concelho a cujo contingente pertençam, os regulamentos a que se referem o n.º 2 do artigo 14.º e o n.º 1 do artigo 16.º do presente diploma, não lhes sendo aplicável aquela data de caducidade.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+###### Artigo 38.º — Licenciamento de empresas em nome individual
+
+1 - As pessoas singulares que à data da publicação do presente diploma explorem a indústria de transportes de aluguer em veículos ligeiros de passageiros, titulares de uma única licença emitida ao abrigo do RTA, podem obter o alvará a que se refere o artigo 3.º, desde que comprovem possuir os requisitos de acesso à actividade.
+
+2 - Para efeitos do disposto no número anterior, a idoneidade deve ser comprovada nos termos do artigo 5.º, a capacidade profissional do próprio ou de um mandatário nos termos do artigo 40.º e a capacidade financeira nos termos a definir pela portaria prevista no artigo 7.º.
+
+3- (Revogado).
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 106/2001 - Diário da República n.º 202/2001, Série I-A de 2001-08-31](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), em vigor a partir de 2001-11-29
+
+###### Artigo 39.º — Transmissão de licenças
+
+Durante o período de três anos que dispõem para o preenchimento dos requisitos de acesso à actividade referidos no capítulo II podem os titulares de licenças para a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros proceder à sua transmissão exclusivamente para sociedades comerciais ou cooperativas com alvará para o exercício da actividade de transportador em táxi.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 40.º — Reconhecimento da capacidade profissional
+
+É reconhecida capacidade profissional às pessoas que à data da publicação do presente diploma sejam titulares de licenças a que se refere o n.º 1 do artigo 37.º, às que comprovem a qualidade de sócio de uma cooperativa titular destas licenças ou a de gerente, director ou administrador de uma sociedade que exerça a actividade de transporte de aluguer em veículos ligeiros de passageiros.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27
+
+###### Artigo 41.º — Capacidade financeira
+
+Até à publicação da portaria a que se refere o artigo 7.º, considera-se que todas as empresas regularmente constituídas, ou que se constituam sob a forma de sociedades comerciais ou cooperativas, preenchem o requisito de capacidade financeira para efeitos de emissão de alvará para o exercício da actividade.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 42.º — Instalação de taxímetros
+
+Por portaria do membro do Governo responsável pelos transportes terrestres será fixado o prazo para a colocação e aferição de taxímetros nos veículos ligeiros de aluguer que à data da publicação do presente diploma não estavam sujeitos a esta obrigação.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 43.º — Serviço a quilómetro
+
+O serviço a quilómetro, previsto no artigo 27.º do Decreto n.º 37272, de 31 de Dezembro de 1948, mantém-se em vigor até à publicação da portaria a que se refere o artigo anterior.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+###### Artigo 44.º — Norma revogatória
+
+São revogadas todas as disposições aplicáveis aos transportes de aluguer em veículos ligeiros de passageiros que contrariem o presente diploma, designadamente:
+
+a) Os artigos 15.º, §§ 2.º e 3.º, 16.º a 20.º, 24.º a 45.º, 47.º, 49.º e 50.º do Regulamento de Transportes em Automóveis (RTA), aprovado pelo Decreto n.º 37272, de 31 de Dezembro de 1948;
+
+b) A alínea b) do n.º 1 e a alínea b) do n.º 4 do artigo 210.º, bem como a alínea b) do n.º 1 do artigo 211.º do RTA, com a redacção dada pelo Decreto-Lei n.º 378/97, de 27 de Dezembro;
+
+c) Os Decretos-Leis n.os 448/80, de 6 de Outubro, e 74/79, de 4 de Abril;
+
+d) Os Decretos Regulamentares n.os 34/78, de 2 de Outubro, e 52/80, de 26 de Setembro;
+
+e) As portarias publicadas ao abrigo da legislação ora revogada.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+###### Artigo 45.º — Entrada em vigor
+
+O presente diploma entra em vigor 90 dias a contar da data da sua publicação.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2003 - Diário da República n.º 59/2003, Série I-A de 2003-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), em vigor a partir de 2003-03-16
+
+Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 24 de Julho de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 27 de Julho de 1998.
+
+Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 101/2023 - Diário da República n.º 211/2023, Série I de 2023-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032), em vigor a partir de 2023-11-01

@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:450672:por
+title: Portaria n.º 562/83
+short_title: null
+summary: Fixa as taxas a cobrar pela Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos pela extracção de materiais
+  inertes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes - Secretaria de Estado das Obras Públicas - Direcção-Geral dos Recursos
+  e Aproveitamentos Hidráulicos
+proposing_entity: null
+official_number: 562/83
+official_date: null
+publication_date: '1983-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1983, Série I de 1983-05-11
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1677 - 1677
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/10800/16771677.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '450672'
+  dre_path: /dr/detalhe/portaria/562-1983-450672
+  internal: pt:dre:450672:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/562-1983-450672
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/562-1983-450672
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-05-11T00:00:00Z'
+integrity:
+  source_sha256: d9d96e35a4afbae7ec8b84fb52638862f8d01b2358f6b3c8e218e25e0365631a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-562-450672.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 562/83
+
+de 11 de Maio
+
+Manda o Governo da República Portuguesa, pelo Ministro da Habitação, Obras Públicas e Transportes, aprovar as taxas a cobrar pela Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, nos termos da alínea b) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 403/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1982-375187), de 24 de Setembro, fixadas em:
+
+a) Pela extracção de materiais inertes das zonas de escoamento e expansão de águas não navegáveis nem flutuáveis - 15$00 por cada metro cúbico ou fracção;
+
+b) Pela extracção de materiais inertes das zonas de escoamento e expansão de águas navegáveis ou flutuáveis - 30$00 por cada metro cúbico ou fracção.
+
+Ministério da Habitação, Obras Públicas e Transportes.
+
+**Assinada em 21 de Abril de 1983.**
+
+**O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.**

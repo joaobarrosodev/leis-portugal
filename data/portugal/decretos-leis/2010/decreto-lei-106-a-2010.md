@@ -1,0 +1,545 @@
+---
+schema_version: '1.0'
+id: pt:dre:480967:por
+title: Decreto-Lei n.º 106-A/2010
+short_title: null
+summary: Adopta medidas mais justas no acesso aos medicamentos, combate à fraude e ao abuso na comparticipação de medicamentos
+  e de racionalização da política do medicamento no âmbito do Serviço Nacional de Saúde (SNS) e altera os Decretos-Leis n.os
+  176/2006, de 30 de Agosto, 242-B/2006, de 29 de Dezembro, 65/2007, de 14 de Março, e 48-A/2010, de 13 de Maio
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 106-A/2010
+official_date: null
+publication_date: '2010-10-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01
+  number: '192'
+  series: I
+  supplement: 1º Suplemento
+  pages: 4372-(2) a 4372-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/10/19201/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2011-06-17'
+version_history:
+  file: decreto-lei-106-a-2010.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-17'
+    amending: pt:dre:670005:por
+    amending_title: Lei n.º 25/2011
+    changes:
+    - Revoga Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/106-a/2010/p/cons/20110616/pt/html
+  oj: null
+  dre: '480967'
+  dre_path: /dr/detalhe/decreto-lei/106-a-2010-480967
+  internal: pt:dre:480967:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967
+  metadata_url: https://data.dre.pt/eli/dec-lei/106-a/2010/p/cons/20110616/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34510575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34510575
+  retrieved_at: '2026-10-22T11:47:26Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8e66da06e50a379c719670870fd4e9558da9932a93d6fb542b67f4e3c38d1870
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:47:26Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-106-a-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ADSE
+- Assistência Medicamentosa
+- Beneficiário
+- Farmácia
+- Indústria Farmacêutica
+- Centro de Conferência de Facturas
+- Multa
+- Combate à Fraude
+- Infarmed
+- Comparticipação do Estado
+- Contra-ordenação
+- Serviço Nacional de Saúde
+- Etiquetagem
+- Medicamento
+- Pagamento
+- Licenciamento
+- Documento Eletrónico
+- Embalagem
+- Medicamento Manipulado
+- Pensionista
+- Preço de Venda
+- Receita Médica
+- Regime Jurídico
+- Sanção
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:670005:por
+  label: Revoga Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/25-2011-670005
+  date: '2011-06-16'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/182/2009/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/182/2009/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/184/2008/09/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/184/2008/09/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/242-b/2006/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/242-b/2006/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/48-a/2010/05/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/48-a/2010/05/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/64/2010/06/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/64/2010/06/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/65/2007/03/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/65/2007/03/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/70/2010/06/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/2010/06/16/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:47:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 106-A/2010
+
+O Programa do XVIII Governo Constitucional refere expressamente que «o Sistema Nacional de Saúde concretiza uma política de saúde centrada nos cidadãos e orientada para mais e melhor saúde» e que uma das prioridades na área da saúde é tomar medidas para ter «um sistema nacional de saúde sustentável e bem gerido». Relativamente à política do medicamento, estabelece-se que o sistema de comparticipação do medicamento deve ser direccionado «no sentido de obter melhor equidade e mais valor para todos os cidadãos».
+
+Em conformidade com o disposto no Programa do XVIII Governo Constitucional, o presente decreto-lei visa três objectivos. Por um lado, garantir que o Serviço Nacional de Saúde (SNS) é sustentável e bem gerido no que diz respeito à despesa com medicamentos e que esta é racionalizada e realizada de forma mais eficiente. Por outro lado, combater a fraude e o abuso nos benefícios concedidos pelo sistema de comparticipação de medicamentos e distribuí-los mais criteriosamente para que sejam beneficiadas as pessoas que, de facto, deles necessitam. E, finalmente, é ainda objectivo deste decreto-lei adoptar regras mais justas no acesso aos medicamentos.
+
+O presente decreto-lei é fundamental para assegurar que o SNS permanece um sistema de acesso universal, eficiente, e que garante mais e melhor saúde para todos. São, assim, adoptadas várias medidas.
+
+Em primeiro lugar, determina-se que, para efeitos de comparticipação do Estado, o cálculo do preço de referência dos medicamentos deve corresponder à média dos cinco medicamentos mais baratos existentes no mercado que integrem cada grupo homogéneo e não, como sucedia até agora, corresponder ao medicamento genérico com o preço de venda ao público mais elevado. Trata-se de uma medida de racionalização e de boa disciplina na gestão dos dinheiros públicos que assim permite ao Estado continuar a assegurar elevadas taxas de comparticipação e a continuação do acesso a medicamentos com taxas de comparticipação elevadas.
+
+Em segundo lugar, reduz-se de 95 % para 90 % a comparticipação prevista para o escalão A no regime normal.
+
+Em terceiro lugar, o presente decreto-lei revê o regime de comparticipações especiais dos medicamentos de forma a introduzir maior rigor e eficácia na atribuição destes benefícios e combater o abuso e a fraude, através de um controlo mais exigente. Verificou-se que a comparticipação a 100 % induzia a aumento do consumo e a utilização abusiva do estatuto de regime especial, desviando a comparticipações do regime normal para o regime especial e implicando um custo indevido para o SNS. Assim, reduz-se para 95 % a comparticipação para o conjunto dos escalões. Pretende-se, pois, evitar a fraude e o abuso que, entretanto, foram detectados e direccionar o sistema de comparticipações para quem, efectivamente, necessita.
+
+Em quarto lugar, ainda no âmbito da adopção de medidas contra a fraude e o abuso no acesso a medicamentos comparticipados, prevê-se que, em caso de comprovado abuso, a pessoa em questão perca a concessão do benefício durante um período de 24 meses após o conhecimento do facto.
+
+Em quinto lugar, incentiva-se de forma decisiva a prescrição de medicamentos por via electrónica, estabelecendo-se que, a partir de 1 de Março de 2011, apenas serão comparticipadas receitas prescritas por esta via. Trata-se de uma medida que vai permitir que todo o sistema de dispensa de medicamentos possa ser gerido com mais eficiência e que tem ainda vantagens adicionais.
+
+Com efeito, a receita resultante da prescrição electrónica permite que o utente seja informado de que existe um medicamento alternativo mais barato do que o prescrito e que pode ser livremente solicitado na farmácia.
+
+Mas há ainda uma vantagem adicional: em conjunto com outras iniciativas que se pretende concretizar no futuro, a prescrição electrónica permitirá ao utente escolher outros medicamentos mais baratos que, de entre os medicamentos incluídos no mesmo grupo de medicamentos, produzem o mesmo efeito terapêutico. Para tornar esta medida possível, vão ser celebrados protocolos terapêuticos, a desenvolver com a comunidade científica e com os médicos, que permitam oferecer novas possibilidades de escolha aos utentes.
+
+Finalmente, o presente decreto-lei permite que seja eliminada da embalagem de medicamentos a indicação dos preços de venda ao público, apenas nos casos dos medicamentos sujeitos a receita médica comparticipados, quando o utente beneficie da comparticipação. Nestes casos, garante-se ao utente a correcta informação sobre o preço dos medicamentos no momento de dispensa nas farmácias, em que é emitida a factura. Garantia esta que é reforçada pela utilização do Centro de Conferência de Facturas, que entrou em funcionamento em 1 de Março de 2010. Este Centro de Conferência de Facturas contribui para a uniformização dos procedimentos de pagamento da comparticipação do Estado às farmácias, permite um controlo e verificação dos preços dos medicamentos, evita situações de fraude e contribui para a desmaterialização de todo o processo entre a prescrição do medicamento até ao momento em que a factura é emitida.
+
+A prossecução de todas estas medidas visa, no fundo, a sustentabilidade do SNS, através de um sistema de comparticipação do Estado nos medicamentos mais adequado e que garanta a efectiva acessibilidade dos cidadãos com menos rendimentos a medicamentos de qualidade, eficazes e seguros e a custos comportáveis.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei tem por objecto a adopção de medidas mais justas no acesso aos medicamentos, combate à fraude e ao abuso na comparticipação de medicamentos e de racionalização da política do medicamento no âmbito do Serviço Nacional de Saúde (SNS).
+
+###### Artigo 2.º — Alteração ao Decreto-Lei n.º 176/2006, de 30 de Agosto
+
+O artigo 105.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, alterado pelos Decretos-Leis n.os 182/2009, de 7 de Agosto, e 64/2010, de 9 de Junho, passa a ter a seguinte redacção:
+
+«Artigo 105.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) Preço de venda ao público através de impressão, etiqueta ou carimbo, excepto nos medicamentos sujeitos a receita médica comparticipados, quando o utente beneficie da comparticipação;
+
+q) ...
+
+r) ...
+
+s) ...
+
+t) ...
+
+u) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...»
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 25/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/25-2011-670005), em vigor a partir de 2011-06-17
+
+###### Artigo 3.º — Alteração ao Decreto-Lei n.º 242-B/2006, de 29 de Dezembro
+
+Os artigos 2.º e 3.º do Decreto-Lei n.º 242-B/2006, de 29 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 2.º
+
+[...]
+
+A comparticipação do Estado no PVP dos medicamentos depende da prescrição, feita em receita médica, por via electrónica.
+
+Artigo 3.º
+
+[...]
+
+As farmácias têm o dever de dispensar os medicamentos comparticipados, prescritos em receita médica electrónica, salvo o disposto no artigo seguinte.»
+
+###### Artigo 4.º — Alteração ao Decreto-Lei n.º 65/2007, de 14 de Março
+
+O artigo 2.º do Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelos Decretos-Leis n.os 184/2008, de 5 de Setembro, e 48-A/2010, de 13 de Maio, passa a ter a seguinte redacção:
+
+«Artigo 2.º
+
+[...]
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) ...»
+
+###### Artigo 5.º — Aditamento ao Decreto-Lei n.º 65/2007, de 14 de Março
+
+É aditado ao Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelos Decretos-Leis n.os 184/2008, de 5 de Setembro, e 48-A/2010, de 13 de Maio, o artigo 3.º-A, com a seguinte redacção:
+
+«Artigo 3.º-A
+
+Deduções
+
+Por razões de interesse público ou de regularização do mercado, os membros do Governo responsáveis pelas áreas da economia e da saúde podem determinar a prática de deduções sobre os PVP máximos autorizados, em condições a estabelecer por portaria.»
+
+###### Artigo 6.º — Alteração ao Decreto-Lei n.º 48-A/2010, de 13 de Maio
+
+Os artigos 4.º, 5.º, 8.º, 11.º, 13.º, 14.º, 17.º,18.º, 19.º, 23.º, 25.º, 27.º e 30.º do regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de Maio, passam a ter a seguinte redacção:
+
+«Artigo 4.º
+
+[...]
+
+1 - A comparticipação de medicamentos está condicionada, cumulativamente:
+
+a) À demonstração técnico-científica do seu valor terapêutico acrescentado, ou da sua equivalência terapêutica, para as indicações terapêuticas reclamadas;
+
+b) À demonstração da sua vantagem económica.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+Artigo 5.º
+
+[...]
+
+1 - ...
+
+a) O escalão A é de 90 % do preço de venda ao público dos medicamentos;
+
+b) ...
+
+c) ...
+
+d) ...
+
+2 - ...
+
+3 - ...
+
+Artigo 8.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O pedido que não respeite o disposto no artigo anterior, bem como o que não tenha sido aperfeiçoado, mediante solicitação do INFARMED, I. P., nos termos do número anterior, é indeferido liminarmente, devendo o requerente ser notificado da decisão e dos fundamentos do indeferimento.
+
+4 - No decurso da instrução do procedimento, o INFARMED, I. P., pode ainda solicitar ao requerente os elementos e esclarecimentos necessários à decisão do pedido, fixando um prazo adequado para a sua apresentação.
+
+5 - O procedimento iniciado com o pedido de comparticipação extingue-se caso o requerente não dê cumprimento à solicitação prevista no número anterior no prazo fixado.
+
+Artigo 11.º
+
+[...]
+
+1 - ...
+
+2 - O prazo suspende-se nos casos em que o requerente seja notificado para apresentar os elementos e esclarecimentos previstos nos n.os 2 e 4 do artigo 8.º
+
+3 - ...
+
+Artigo 13.º
+
+[...]
+
+1 - Após a notificação prevista no n.º 1 do artigo anterior, o titular da autorização de introdução no mercado comunica ao INFARMED, I. P., por via electrónica, com uma antecedência não inferior a 15 nem superior a 30 dias, a data em que efectivamente inicia a comercialização do medicamento.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+Artigo 14.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - A inclusão ou exclusão das listas produz efeitos na data prevista no n.º 2 do artigo anterior, excepto quando a exclusão resulte de iniciativa da entidade competente, designadamente com fundamento em razões de saúde pública, caso em que produz efeitos na data fixada na decisão.
+
+Artigo 17.º
+
+[...]
+
+1 - ...
+
+a) Eficácia terapêutica não demonstrada por estudos publicados em revistas de referência ou apresentados pelo titular de autorização de introdução no mercado;
+
+b) Menor eficácia comparativa, relativamente aos medicamentos comparticipados utilizados com a mesma finalidade terapêutica, comprovada pela análise de estudos adequados publicados em revistas de referência ou apresentados pelo titular de autorização de introdução no mercado;
+
+c) Existência de dados de utilização que indiciem o seu uso fora das indicações em que foi reconhecido o preenchimento dos requisitos cumulativos do n.º 1 do artigo 4.º, no âmbito do processo de avaliação e decisão de comparticipação, tendo em consideração os dados epidemiológicos disponíveis;
+
+d) Preço 20 % superior às alternativas terapêuticas comparticipadas, não genéricas, utilizadas com a mesma finalidade terapêutica;
+
+e) Ter sido reclassificado como medicamento não sujeito a receita médica nos termos do Decreto-Lei n.º 176/2006, de 30 de Agosto, e não lhe serem reconhecidas razões de saúde pública que justifiquem a sua comparticipação.
+
+2 - ...
+
+3 - ...
+
+Artigo 18.º
+
+[...]
+
+1 - A comparticipação do medicamento caduca em todas as apresentações e dosagens se, considerando essas mesmas apresentações e dosagens, ocorra uma das seguintes situações:
+
+a) O requerente não comercializar o medicamento no âmbito do SNS e da ADSE no prazo de seis meses a contar da notificação da autorização de comparticipação;
+
+b) Se após o início da comercialização, o medicamento não estiver disponível no mercado por prazo superior a 90 dias.
+
+2 - A comparticipação caduca igualmente se o titular de autorização de introdução no mercado, por facto que lhe seja imputável, não cumprir o dever legal de fornecimento do medicamento, ou se manifestar intenção de suspender ou interromper esse fornecimento, e por essa razão criar perigo para a saúde pública.
+
+3 - (Anterior n.º 2.)
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+Artigo 19.º
+
+[...]
+
+1 - A comparticipação do Estado no preço dos medicamentos integrados no escalão A é acrescida de 5 % e nos escalões B, C e D é acrescida de 15 % para os pensionistas cujo rendimento total anual não exceda 14 vezes a retribuição mínima mensal garantida em vigor no ano civil transacto ou 14 vezes o valor do indexante dos apoios sociais em vigor, quando este ultrapassar aquele montante.
+
+2 - A comparticipação do Estado no preço dos medicamentos para os pensionistas cujo rendimento não exceda o valor estabelecido no número anterior é de 95 % para o conjunto dos escalões, para os medicamentos cujos preços de venda ao público sejam iguais ou inferiores ao quinto preço mais baixo do grupo homogéneo em que se inserem.
+
+3 - ...
+
+4 - O rendimento referido nos n.os 1 e 2 corresponde ao resultado da divisão do rendimento do agregado familiar pelo número de membros desse agregado, nos termos previsto no Decreto-Lei n.º 70/2010, de 16 de Junho.
+
+5 - Sempre que da apreciação da prova referida no n.º 3 resultar que não se encontram reunidos os pressupostos de concessão do benefício do regime especial de comparticipação de medicamentos, devem os centros de saúde informar os respectivos pensionistas e proceder ao cancelamento do benefício.
+
+6 - Em caso de comprovado abuso, o pensionista perde a concessão do benefício durante um período de 24 meses após o conhecimento do facto.
+
+7 - (Anterior n.º 4.)
+
+8 - (Anterior n.º 5.)
+
+9 - O quinto preço mais baixo referido no n.º 2 é actualizado trimestralmente pelo INFARMED, I. P., após a aprovação dos preços de referência dos grupos homogéneos, e produz efeitos em simultâneo com estes.
+
+Artigo 23.º
+
+[...]
+
+Os medicamentos manipulados comparticipados constam de lista a aprovar anualmente por despacho do membro do Governo responsável pela área da saúde, mediante proposta do conselho directivo do INFARMED, I. P., e são comparticipados em 30 % do seu preço.
+
+Artigo 25.º
+
+[...]
+
+1 - O preço de referência para cada grupo homogéneo corresponde à média dos cinco PVP mais baixos praticados no mercado, tendo em consideração os medicamentos que integrem aquele grupo.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Para efeitos do disposto no presente artigo, entende-se por 'PVP praticado' o PVP a que o medicamento é dispensado ao utente, integrando a dedução determinada nos termos do artigo 3.º-A do Decreto-Lei n.º 65/2007, de 14 de Março.
+
+Artigo 27.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - A inclusão nos termos do número anterior só produz efeitos no preço de referência do respectivo grupo homogéneo no trimestre seguinte.
+
+Artigo 30.º
+
+[...]
+
+1 - O não início da comercialização efectiva de qualquer apresentação do medicamento comparticipado na data notificada ao abrigo do n.º 1 do artigo 13.º, bem como qualquer infracção ao disposto nesse artigo, constitui contra-ordenação punível com coima de (euro) 2500 a (euro) 3740 ou a (euro) 44 750, consoante o agente seja pessoa singular ou colectiva.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...»
+
+###### Artigo 7.º — Regulamentação
+
+As regras de prescrição de medicamentos electrónica e respectiva receita médica bem como o regime transitório da receita manual de medicamentos são definidos por portaria do membro do Governo responsável pela área da saúde, no prazo de 90 dias a contar da data da publicação do presente decreto-lei, que deve ter em consideração:
+
+a) A generalização da prescrição realizada por receita electrónica;
+
+b) A limitação da comparticipação aos medicamentos que sejam prescritos via receita electrónica.
+
+###### Artigo 8.º — Norma revogatória
+
+São revogadas as alíneas d) e e) do artigo 2.º do Decreto-Lei n.º 65/2007, de 14 de Março.
+
+###### Artigo 9.º — Norma transitória
+
+Os modelos de receita médica aprovados em momento anterior à entrada em vigor do presente decreto-lei podem ser utilizados até 28 de Fevereiro de 2011.
+
+###### Artigo 10.º — Produção de efeitos
+
+A obrigação de prescrição de medicamentos por via electrónica produz efeitos a partir de 1 de Março de 2011.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 16 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Pedro Manuel Dias de Jesus Marques - Ana Maria Teodoro Jorge.
+
+Promulgado em 24 de Setembro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 27 de Setembro de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

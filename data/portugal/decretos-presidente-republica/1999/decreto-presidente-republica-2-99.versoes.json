@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:493574:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/1999-960336681",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/2-1999-493574",
+ "source_lastmod": "2025-12-02",
+ "versions": [
+  {
+   "date": "1999-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "957668140"
+   ]
+  }
+ ],
+ "fragments": {
+  "957668140": {
+   "fragment_id": "960336682",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 2/99\n\nde 6 de Janeiro\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:\n\nÉ nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe António Félix Machado Faria e Maya para o cargo de embaixador de Portugal em Kiev."
+  }
+ }
+}

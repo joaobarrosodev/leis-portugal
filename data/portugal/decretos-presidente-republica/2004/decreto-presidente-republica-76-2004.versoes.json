@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546658:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2004-953449514",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/76-2004-546658",
+ "source_lastmod": "2025-11-28",
+ "versions": [
+  {
+   "date": "2004-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953446201"
+   ]
+  }
+ ],
+ "fragments": {
+  "953446201": {
+   "fragment_id": "953449515",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 76/2004\n\nde 15 de Novembro\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:\n\nÉ exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Ana Maria de Almeida Hidalgo Barata do cargo de Embaixadora de Portugal em Zagreb."
+  }
+ }
+}

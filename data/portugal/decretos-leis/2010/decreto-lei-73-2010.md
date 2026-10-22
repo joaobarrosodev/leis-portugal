@@ -1,0 +1,4209 @@
+---
+schema_version: '1.0'
+id: pt:dre:335474:por
+title: Decreto-Lei n.º 73/2010
+short_title: null
+summary: No uso da autorização legislativa concedida pelo artigo 130.º da Lei n.º 3-B/2010, de 28 de Abril, aprova o Código
+  dos Impostos Especiais de Consumo, transpondo a Directiva n.º 2008/118/CE, do Conselho, de 16 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 73/2010
+official_date: null
+publication_date: '2010-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/2010, Série I de 2010-06-21
+  number: '118'
+  series: I
+  supplement: null
+  pages: 2170 - 2198
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11800/0217002198.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-01'
+version_history:
+  file: decreto-lei-73-2010.versoes.json
+  count: 25
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: pt:dre:344942:por
+    amending_title: Lei n.º 55-A/2010
+    changes:
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 90.º
+    - Altera Artigo 92.º
+    - Altera Artigo 97.º
+    - Altera Artigo 101.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 105.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Adita Artigo 96.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 33.º
+    - Altera Artigo 47.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 83.º
+    - Altera Artigo 86.º
+    - Altera Artigo 87.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º
+    - Altera Artigo 91.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
+    - Altera Artigo 94.º
+    - Altera Artigo 95.º
+    - Altera Artigo 98.º
+    - Altera Artigo 100.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 105.º
+    - Altera Artigo 110.º
+    - Altera Artigo 111.º
+    - Altera Artigo 112.º
+  - date: '2012-04-01'
+    amending: pt:dre:427611:por
+    amending_title: Lei n.º 14-A/2012
+    changes:
+    - Adita Artigo 105.º-A
+  - date: '2012-05-15'
+    amending: pt:dre:552023:por
+    amending_title: Lei n.º 20/2012
+    changes:
+    - Altera Artigo 92.º
+    - Altera Artigo 94.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Adita Artigo 96.º-B
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 49.º
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 85.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º
+    - Altera Artigo 91.º
+    - Altera Artigo 92.º
+    - Altera Artigo 94.º
+    - Altera Artigo 95.º
+    - Altera Artigo 100.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 105.º
+    - Altera Artigo 105.º-A
+  - date: '2013-07-25'
+    amending: pt:dre:498764:por
+    amending_title: Lei n.º 51/2013
+    changes:
+    - Altera Artigo 89.º
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Altera Artigo 28.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 79.º
+    - Altera Artigo 89.º
+    - Altera Artigo 91.º
+    - Altera Artigo 93.º
+    - Altera Artigo 101.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 106.º
+    - Altera Artigo 114.º
+  - date: '2014-10-01'
+    amending: pt:dre:57701290:por
+    amending_title: Lei n.º 75-A/2014
+    changes:
+    - Altera Artigo 3.º
+  - date: '2015-01-01'
+    amending: pt:dre:66022084:por
+    amending_title: Lei n.º 82-D/2014; Lei n.º 82-B/2014
+    changes:
+    - Adita Artigo 92.º-A
+    - Adita Artigo 6.º-A
+    - Adita Artigo 104.º-A
+    - Adita Artigo 104.º-B
+    - Adita Artigo 104.º-C
+    - Adita Artigo 115.º
+    - Adita Capítulo IV
+    - Adita Artigo 116.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+    - Altera Artigo 35.º
+    - Altera Artigo 42.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 88.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
+    - Altera Artigo 96.º-B
+    - Altera Artigo 101.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 105.º
+    - Altera Artigo 105.º-A
+    - Altera Artigo 106.º
+    - Altera Artigo 109.º
+  - date: '2016-03-31'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 71.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 89.º
+    - Altera Artigo 92.º
+    - Altera Artigo 94.º
+    - Altera Artigo 95.º
+    - Altera Artigo 101.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 105.º
+    - Altera Artigo 106.º
+  - date: '2016-08-23'
+    amending: pt:dre:75177805:por
+    amending_title: Lei n.º 24/2016
+    changes:
+    - Adita Artigo 93.º-A
+  - date: '2017-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016
+    changes:
+    - Adita Secção I
+    - Adita Secção II
+    - Adita Artigo 87.º-A
+    - Adita Artigo 87.º-B
+    - Adita Artigo 87.º-C
+    - Adita Artigo 87.º-D
+    - Adita Artigo 87.º-E
+    - Adita Artigo 87.º-F
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Altera Artigo 35.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Capítulo I
+    - Altera Artigo 67.º
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+    - Altera Artigo 80.º
+    - Altera Artigo 82.º
+    - Altera Artigo 85.º
+    - Altera Artigo 86.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
+    - Altera Artigo 94.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 104.º-C
+    - Altera Artigo 105.º
+    - Altera Artigo 108.º
+  - date: '2018-01-01'
+    amending: pt:dre:114425586:por
+    amending_title: Lei n.º 114/2017
+    changes:
+    - Adita Artigo 10.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 33.º
+    - Altera Artigo 48.º
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 78.º
+    - Altera Artigo 87.º-A
+    - Altera Artigo 87.º-C
+    - Altera Artigo 89.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 105.º
+    - Altera Artigo 114.º
+  - date: '2019-01-01'
+    amending: pt:dre:117537583:por
+    amending_title: Lei n.º 71/2018
+    changes:
+    - Altera Artigo 6.º-A
+    - Altera Artigo 73.º
+    - Altera Artigo 81.º
+    - Altera Artigo 87.º-C
+    - Altera Artigo 92.º-A
+    - Altera Artigo 94.º
+    - Altera Artigo 96.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 104.º-C
+    - Altera Artigo 105.º
+    - Altera Artigo 115.º
+  - date: '2019-10-01'
+    amending: pt:dre:124793094:por
+    amending_title: Lei n.º 119/2019
+    changes:
+    - Altera Artigo 87.º-C
+    - Altera Artigo 109.º
+    - Altera Artigo 110.º
+    - Altera Artigo 114.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Adita Artigo 103.º-A
+    - Altera Artigo 78.º
+    - Altera Artigo 87.º-C
+    - Altera Artigo 92.º-A
+    - Altera Artigo 93.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 104.º-C
+    - Altera Artigo 105.º
+    - Altera Artigo 105.º-A
+  - date: '2020-08-29'
+    amending: pt:dre:140950564:por
+    amending_title: Lei n.º 49/2020
+    changes:
+    - Altera Artigo 3.º
+  - date: '2021-01-01'
+    amending: pt:dre:158238384:por
+    amending_title: Declaração de Retificação n.º 6/2021; Lei n.º 75-B/2020
+    changes:
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+    - Altera Artigo 89.º
+    - Altera Artigo 90.º
+    - Altera Artigo 93.º
+    - Altera Artigo 103.º
+  - date: '2022-06-28'
+    amending: pt:dre:185224662:por
+    amending_title: Lei n.º 12/2022
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 78.º
+    - Altera Artigo 87.º-C
+    - Altera Artigo 89.º
+    - Altera Artigo 103.º
+    - Altera Artigo 103.º-A
+    - Altera Artigo 104.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 104.º-C
+    - Altera Artigo 105.º
+    - Altera Artigo 105.º-A
+  - date: '2023-01-01'
+    amending: pt:dre:205557192:por
+    amending_title: Lei n.º 24-D/2022; Lei n.º 24-E/2022
+    changes:
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 87.º-C
+    - Altera Artigo 93.º-A
+    - Altera Artigo 103.º
+    - Altera Artigo 103.º-A
+    - Altera Artigo 104.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 104.º-B
+    - Altera Artigo 104.º-C
+    - Altera Artigo 105.º
+    - Altera Artigo 105.º-A
+    - Adita Artigo 10.º-B
+    - Adita Artigo 60.º-A
+    - Adita Artigo 60.º-B
+    - Adita Artigo 80.º-A
+    - Adita Artigo 85.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 10.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 56.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 81.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º
+    - Altera Artigo 90.º
+    - Altera Artigo 91.º
+  - date: '2023-05-18'
+    amending: pt:dre:213132930:por
+    amending_title: Lei n.º 20/2023
+    changes:
+    - Altera Artigo 89.º
+    - Altera Artigo 93.º
+  - date: '2024-01-01'
+    amending: pt:dre:835864042:por
+    amending_title: Lei n.º 82/2023
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 61.º
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 87.º-C
+    - Altera Artigo 101.º
+    - Altera Artigo 103.º
+    - Altera Artigo 103.º-A
+    - Altera Artigo 104.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 104.º-C
+    - Altera Artigo 106.º
+    - Altera Artigo 114.º
+    - Altera Artigo 115.º
+  - date: '2025-01-01'
+    amending: pt:dre:901667918:por
+    amending_title: Lei n.º 45-A/2024
+    changes:
+    - Altera Artigo 76.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+  - date: '2026-01-01'
+    amending: pt:dre:993270096:por
+    amending_title: Lei n.º 73-A/2025; Decreto-Lei n.º 126-C/2025
+    changes:
+    - Adita Artigo 104.º-D
+    - Altera Artigo 6.º
+    - Altera Artigo 61.º
+    - Altera Artigo 76.º
+    - Altera Artigo 94.º
+    - Altera Artigo 101.º
+    - Altera Artigo 106.º
+    - Altera Artigo 108.º
+    - Altera Artigo 109.º
+    - Altera Artigo 115.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 49.º
+    - Altera Artigo 60.º
+    - Altera Artigo 60.º-A
+    - Altera Artigo 62.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 82.º
+    - Altera Artigo 85.º
+    - Altera Artigo 85.º-A
+    - Altera Artigo 90.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/73/2010/p/cons/20260415/pt/html
+  oj: null
+  dre: '335474'
+  dre_path: /dr/detalhe/decreto-lei/73-2010-335474
+  internal: pt:dre:335474:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2010-335474
+  metadata_url: https://data.dre.pt/eli/dec-lei/73/2010/p/cons/20260415/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34478675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34478675
+  retrieved_at: '2026-10-22T11:44:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: deabc4955b7be19e1e3be66e8f2af277f875c575e925572650d230606199a958
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:44:35Z'
+  notes: 25 versão(ões); histórico completo em decreto-lei-73-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Armazenagem
+- Bebida Alcoólica
+- CE Países
+- Cerveja
+- Código dos Impostos Especiais de Consumo
+- Imposto Especial sobre o Álcool
+- Imposto Especial sobre o Consumo de Tabaco
+- Imposto sobre Produtos Petrolíferos
+- Vinho
+- Política Fiscal
+- Correio Electrónico
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Álcool
+- Produto Petrolífero
+- SELO Fiscal
+- Fiscalização
+- Pagamento
+- Importação
+- Imposto Especial sobre o Consumo
+- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
+- Isenção Fiscal
+- Embalagem
+- Tabaco
+- Pagamento a Prestações
+- Internet
+- Energia
+- Preço
+- Exportação
+- Produção
+- Madeira.região Autónoma
+- Reembolso
+- Regime Fiscal
+- Regime Geral das Infracções Tributárias
+- Regime Jurídico
+- Açores
+- Mercadoria
+- Taxa
+- Comércio
+- TEOR Álcoolico
+relationships:
+- type: amended_by
+  target: pt:dre:344942:por
+  label: Altera Artigo 71.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 90.º; Altera Artigo 92.º; Altera Artigo
+    97.º; Altera Artigo 101.º; Altera Artigo 103.º; Altera Artigo 104.º; Altera Artigo 105.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Adita Artigo 96.º-A; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 33.º; Altera Artigo 47.º; Altera Artigo 55.º; Altera Artigo 61.º; Altera Artigo 71.º;
+    Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 83.º; Altera Artigo 86.º; Altera Artigo 87.º; Altera Artigo 88.º;
+    Altera Artigo 89.º; Altera Artigo 91.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:427611:por
+  label: Adita Artigo 105.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: Altera Artigo 92.º; Altera Artigo 94.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Adita Artigo 96.º-B; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 49.º; Altera Artigo 71.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 85.º; Altera Artigo 88.º;
+    Altera Artigo 89.º; Altera Artigo 91.º; Altera Artigo 92.º; Altera Artigo 94.º; Altera Artigo 95.º; Altera Artigo 100.º;
+    Altera Artigo 103.º; Altera Artigo 104.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: Altera Artigo 89.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Altera Artigo 28.º; Altera Artigo 66.º; Altera Artigo 67.º; Altera Artigo 68.º; Altera Artigo 71.º; Altera Artigo
+    74.º; Altera Artigo 76.º; Altera Artigo 79.º; Altera Artigo 89.º; Altera Artigo 91.º; Altera Artigo 93.º; Altera Artigo
+    101.º; Altera Artigo 103.º; Altera Artigo 104.º; Altera Artigo 106.º; Altera Artigo 114.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:57701290:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290
+  date: '2014-09-30'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Adita Artigo 92.º-A; Adita Artigo 6.º-A; Adita Artigo 104.º-A; Adita Artigo 104.º-B; Adita Artigo 104.º-C; Adita
+    Artigo 115.º; Adita Capítulo IV; Adita Artigo 116.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo
+    10.º; Altera Artigo 17.º; Altera Artigo 35.º; Altera Artigo 42.º; Altera Artigo 55.º; Altera Artigo 61.º; Altera Artigo
+    71.º; Altera Artigo 74.º; Altera Artigo 76.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Adita Artigo 92.º-A; Adita Artigo 6.º-A; Adita Artigo 104.º-A; Adita Artigo 104.º-B; Adita Artigo 104.º-C; Adita
+    Artigo 115.º; Adita Capítulo IV; Adita Artigo 116.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo
+    10.º; Altera Artigo 17.º; Altera Artigo 35.º; Altera Artigo 42.º; Altera Artigo 55.º; Altera Artigo 61.º; Altera Artigo
+    71.º; Altera Artigo 74.º; Altera Artigo 76.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Altera Artigo 12.º; Altera Artigo 71.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 89.º; Altera Artigo
+    92.º; Altera Artigo 94.º; Altera Artigo 95.º; Altera Artigo 101.º; Altera Artigo 103.º; Altera Artigo 104.º; Altera Artigo
+    104.º-A; Altera Artigo 105.º; Altera Artigo 106.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:75177805:por
+  label: Adita Artigo 93.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-2016-75177805
+  date: '2016-08-22'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Adita Secção I; Adita Secção II; Adita Artigo 87.º-A; Adita Artigo 87.º-B; Adita Artigo 87.º-C; Adita Artigo 87.º-D;
+    Adita Artigo 87.º-E; Adita Artigo 87.º-F; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 9.º;
+    Altera Artigo 12.º; Altera Artigo 17.º; Altera Artigo 35.º; Altera Artigo 53.º; Altera Artigo 55.º; Altera Artigo 60.º;
+    Altera Artigo 61.º; Altera Artigo 62.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Adita Artigo 10.º-A; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 33.º; Altera Artigo 48.º; Altera Artigo
+    71.º; Altera Artigo 73.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 78.º; Altera Artigo 87.º-A; Altera Artigo
+    87.º-C; Altera Artigo 89.º; Altera Artigo 92.º; Altera Artigo 93.º; Altera Artigo 103.º; Altera Artigo 104.º; Altera Artigo
+    104.º-A; Altera Artigo 105.º; Altera Artigo 114.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Altera Artigo 6.º-A; Altera Artigo 73.º; Altera Artigo 81.º; Altera Artigo 87.º-C; Altera Artigo 92.º-A; Altera Artigo
+    94.º; Altera Artigo 96.º; Altera Artigo 103.º; Altera Artigo 104.º; Altera Artigo 104.º-A; Altera Artigo 104.º-C; Altera
+    Artigo 105.º; Altera Artigo 115.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Altera Artigo 87.º-C; Altera Artigo 109.º; Altera Artigo 110.º; Altera Artigo 114.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094
+  date: '2019-09-18'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Adita Artigo 103.º-A; Altera Artigo 78.º; Altera Artigo 87.º-C; Altera Artigo 92.º-A; Altera Artigo 93.º; Altera
+    Artigo 103.º; Altera Artigo 104.º; Altera Artigo 104.º-A; Altera Artigo 104.º-C; Altera Artigo 105.º; Altera Artigo 105.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:140950564:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564
+  date: '2020-08-24'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Altera Artigo 76.º; Altera Artigo 77.º; Altera Artigo 78.º; Altera Artigo 89.º; Altera Artigo 90.º; Altera Artigo
+    93.º; Altera Artigo 103.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:158238384:por
+  label: Altera Artigo 76.º; Altera Artigo 77.º; Altera Artigo 78.º; Altera Artigo 89.º; Altera Artigo 90.º; Altera Artigo
+    93.º; Altera Artigo 103.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-158238384
+  date: '2021-02-24'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Altera Artigo 6.º; Altera Artigo 71.º; Altera Artigo 73.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo
+    78.º; Altera Artigo 87.º-C; Altera Artigo 89.º; Altera Artigo 103.º; Altera Artigo 103.º-A; Altera Artigo 104.º; Altera
+    Artigo 104.º-A; Altera Artigo 104.º-C; Altera Artigo 105.º; Altera Artigo 105.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:205557185:por
+  label: Altera Artigo 71.º; Altera Artigo 73.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 87.º-C; Altera Artigo
+    93.º-A; Altera Artigo 103.º; Altera Artigo 103.º-A; Altera Artigo 104.º; Altera Artigo 104.º-A; Altera Artigo 104.º-B;
+    Altera Artigo 104.º-C; Altera Artigo 105.º; Altera Artigo 105.º-A; Adita Artigo 10.º-B; Adita Artigo 60.º-A; Adita Artigo
+    60.º-B; Adita Artigo 80.º-A; Adita Artigo 85.º-A; Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:205557192:por
+  label: Altera Artigo 71.º; Altera Artigo 73.º; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 87.º-C; Altera Artigo
+    93.º-A; Altera Artigo 103.º; Altera Artigo 103.º-A; Altera Artigo 104.º; Altera Artigo 104.º-A; Altera Artigo 104.º-B;
+    Altera Artigo 104.º-C; Altera Artigo 105.º; Altera Artigo 105.º-A; Adita Artigo 10.º-B; Adita Artigo 60.º-A; Adita Artigo
+    60.º-B; Adita Artigo 80.º-A; Adita Artigo 85.º-A; Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:213132930:por
+  label: Altera Artigo 89.º; Altera Artigo 93.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930
+  date: '2023-05-17'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Altera Artigo 6.º; Altera Artigo 61.º; Altera Artigo 71.º; Altera Artigo 73.º; Altera Artigo 74.º; Altera Artigo
+    76.º; Altera Artigo 87.º-C; Altera Artigo 101.º; Altera Artigo 103.º; Altera Artigo 103.º-A; Altera Artigo 104.º; Altera
+    Artigo 104.º-A; Altera Artigo 104.º-C; Altera Artigo 106.º; Altera Artigo 114.º; Altera Artigo 115.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:901667918:por
+  label: Altera Artigo 76.º; Altera Artigo 103.º; Altera Artigo 104.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918
+  date: '2024-12-31'
+- type: amended_by
+  target: pt:dre:964514222:por
+  label: Adita Artigo 104.º-D; Altera Artigo 6.º; Altera Artigo 61.º; Altera Artigo 76.º; Altera Artigo 94.º; Altera Artigo
+    101.º; Altera Artigo 106.º; Altera Artigo 108.º; Altera Artigo 109.º; Altera Artigo 115.º; Altera Artigo 5.º; Altera Artigo
+    7.º; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 41.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo
+    45.º; Altera Artigo 49.º; Altera Artigo 60.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222
+  date: '2025-12-05'
+- type: amended_by
+  target: pt:dre:993270096:por
+  label: Adita Artigo 104.º-D; Altera Artigo 6.º; Altera Artigo 61.º; Altera Artigo 76.º; Altera Artigo 94.º; Altera Artigo
+    101.º; Altera Artigo 106.º; Altera Artigo 108.º; Altera Artigo 109.º; Altera Artigo 115.º; Altera Artigo 5.º; Altera Artigo
+    7.º; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 41.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo
+    45.º; Altera Artigo 49.º; Altera Artigo 60.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096
+  date: '2025-12-30'
+- type: cites
+  target: celex:31987R2658
+  label: null
+  source: http://data.europa.eu/eli/reg/1987/2658/oj
+- type: cites
+  target: celex:31988R4252
+  label: null
+  source: null
+- type: cites
+  target: celex:31992L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/12/oj
+- type: cites
+  target: celex:31992R2913
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2913/oj
+- type: cites
+  target: celex:31992R3649
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/3649/oj
+- type: cites
+  target: celex:31993R3199
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/3199/oj
+- type: cites
+  target: celex:31995R2546
+  label: null
+  source: http://data.europa.eu/eli/reg/1995/2546/oj
+- type: cites
+  target: celex:31996R0031
+  label: null
+  source: http://data.europa.eu/eli/reg/1996/31/oj
+- type: cites
+  target: celex:32003D1152
+  label: null
+  source: http://data.europa.eu/eli/dec/2003/1152/oj
+- type: cites
+  target: celex:32003L0096
+  label: null
+  source: null
+- type: cites
+  target: celex:32008L0118
+  label: null
+  source: http://data.europa.eu/eli/dir/2008/118/oj
+- type: cites
+  target: celex:32008R0110
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/110/oj
+- type: cites
+  target: celex:32009R0684
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/684/oj
+- type: cites
+  target: celex:32011L0064
+  label: null
+  source: null
+- type: cites
+  target: celex:32011R0282
+  label: null
+  source: null
+- type: cites
+  target: celex:32012R0389
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R0162
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R0952
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0251
+  label: null
+  source: null
+- type: cites
+  target: celex:32015R2446
+  label: null
+  source: null
+- type: cites
+  target: celex:32015R2447
+  label: null
+  source: null
+- type: cites
+  target: celex:32019R0787
+  label: null
+  source: null
+- type: cites
+  target: celex:32020D0263
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+- type: cites
+  target: eli:http://data.europa.eu/e
+  label: null
+  source: http://data.europa.eu/e
+article_structure:
+  article_count: 148
+  section_count: 16
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:44:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 73/2010
+
+A simplificação e a desburocratização constituem um dos objectivos a prosseguir pelo Governo em todas as áreas das políticas públicas.
+
+O Programa do XVIII Governo considera que o cumprimento das obrigações fiscais se deve pautar por princípios de economia de custos, acessibilidade, simplicidade e celeridade de resposta.
+
+Por isso também no domínio fiscal se aposta na utilização das novas tecnologias como meio para desburocratizar e simplificar, substituindo-se as vistorias e condicionamentos prévios para a constituição dos entrepostos fiscais por acções sistemáticas de fiscalização a posteriori e mecanismos de responsabilização efectiva dos operadores.
+
+No seguimento destas orientações, o novo Código dos Impostos Especiais de Consumo (CIEC) clarifica as regras de tributação e procede à simplificação das normas e procedimentos relativos ao acompanhamento da circulação dos produtos sujeitos a imposto, bem como da autorização dos entrepostos fiscais previstos no CIEC.
+
+Trata-se, em grande medida, de dar continuidade ao esforço de simplificação também desenvolvido ao nível da União Europeia, no que, em particular, respeita a impostos harmonizados pelo Direito Comunitário, no caso, aos impostos especiais de consumo incidentes sobre o álcool e bebidas alcoólicas, os produtos petrolíferos e energéticos e os tabacos manufacturados. Esta harmonização jurídica, inicialmente decorrente da Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0012" title="Link para Directiva da Comunidade Europeia">92/12/CEE</a>, do Conselho, de 25 de Fevereiro, surge agora fundada na Directiva n.º <a href="eurlex.asp?ano=2008&id=308L0118" title="Link para Directiva da Comunidade Europeia">2008/118/CE</a>, de 16 de Dezembro, relativa ao regime geral dos impostos especiais de consumo, que revoga a Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0012" title="Link para Directiva da Comunidade Europeia">92/12/CEE</a>, e cuja transposição para o ordenamento jurídico nacional importa promover.
+
+A perspectiva central das alterações ora promovidas foi, sobretudo, a de uma maior simplificação e desburocratização dos procedimentos aplicáveis, dispensando os operadores económicos de intervenções evitáveis ou não imprescindíveis.
+
+Aproveitou-se também para contemplar no texto normativo, enquanto princípio legitimador destes impostos, o princípio da equivalência, distinto do da capacidade contributiva, e que dita a respectiva adequação ao custo provocado pelos contribuintes nos domínios da saúde pública ou do ambiente.
+
+Quanto às inovações em concreto, o CIEC, mantendo inalterada a estrutura dos impostos especiais de consumo, introduz novos conceitos, define novos sujeitos passivos do imposto, o destinatário registado, o destinatário registado temporário e o expedidor registado, e clarifica, entre outros aspectos, as condições de exigibilidade do imposto e o momento da introdução no consumo.
+
+Das novas regras consagradas, assume particular relevância a adopção do sistema informatizado dos movimentos e dos controlos dos produtos sujeitos a impostos especiais de consumo (EMCS), que habilita os operadores nacionais na área dos impostos especiais de consumo a proceder quer à expedição quer à recepção de produtos originários ou destinados a outro Estado membro da União Europeia, tendo por base um relacionamento com as autoridades aduaneiras integralmente desmaterializado.
+
+Com efeito, o novo sistema, por oposição ao sistema em suporte de papel, desmaterializa, simplifica e abrevia as formalidades necessárias ao controlo do imposto, facilitando o acompanhamento da circulação daqueles produtos em regime de suspensão do imposto.
+
+Implementa-se, assim, o enquadramento legal de suporte que legitima os procedimentos inerentes a uma ligação permanente com todos os outros Estados membros, num único sistema electrónico para os movimentos de produtos sujeitos a impostos especiais de consumo célere e eficaz, abrindo novas oportunidades aos operadores nacionais, que passam a utilizar um sistema inovador, proporcionando transacções seguras, rápidas e de fácil utilização.
+
+Na sistematização do CIEC mantém-se a divisão entre uma parte geral, compreendendo disposições aplicáveis a todos os impostos especiais de consumo, e uma parte especial, dividida em capítulos respeitantes a cada um deles.
+
+No que respeita às soluções substantivas do CIEC, no capítulo dos princípios e regras gerais, são introduzidos novos conceitos e definições, clarificando-se, por exemplo, as situações de exigibilidade do imposto, o sujeito passivo e o momento da introdução no consumo.
+
+No segundo capítulo, relativo à liquidação, pagamento e reembolso, são igualmente aperfeiçoadas as regras relativas aos reembolsos, prevendo-se o reembolso por inutilização e perda irreparável, o alargamento do prazo de reembolso no caso de devolução de produtos por razões de natureza comercial.
+
+No terceiro capítulo, relativo à produção, transformação e armazenagem em regime de suspensão, definem-se e caracterizam-se novas figuras estatutárias, como seja o destinatário registado, o destinatário registado temporário e o expedidor registado. Este último, sem precedentes jurídicos, quer nacionais quer comunitários, permite que a circulação dos produtos, em regime de suspensão do imposto, se efectue do seu local de importação para destinos autorizados, prevendo-se que as respectivas regras entrem plenamente em vigor a 1 de Janeiro de 2011.
+
+No que toca às regras de circulação previstas no quarto capítulo, houve sobretudo a preocupação de clarificar a distinção entre a circulação em regime de suspensão do imposto e a circulação com imposto pago noutro Estado membro, bem como de introduzir maior precisão nas regras relativas às provas alternativas para o apuramento do regime de circulação.
+
+O quinto capítulo traz à matéria das perdas um quadro clarificador das situações, causas e limites relativamente aos quais o imposto não é exigível, bem como das perdas tributáveis, simplificando-se os procedimentos aplicáveis.
+
+É a mesma preocupação que se tem ao disciplinar, no sexto capítulo, a matéria das garantias, no âmbito do qual assume particular relevância o seu ajuste e alteração, de modo a permitir maior flexibilidade e ponderação na fixação das mesmas.
+
+Na parte especial do CIEC, e no que respeita ao imposto sobre o álcool e bebidas alcoólicas, disciplinado no primeiro capítulo, as alterações efectuadas visam estabelecer novos condicionalismos e regras de controlo ao nível das pequenas destilarias, as quais gozam de um regime especial, da desnaturação do álcool, quer para fins terapêuticos e sanitários quer para fins industriais, da armazenagem de produtos vitivinícolas, quer em entrepostos fiscais de produção, quer de armazenagem.
+
+No tocante ao imposto sobre os produtos petrolíferos e energéticos, disciplinado pelo segundo capítulo, procede-se à actualização das referências legais e aperfeiçoa-se a linguagem jurídica, simplificando ainda as regras e obrigações que impendem sobre os operadores económicos. Além disto, devolve-se ao CIEC a fixação dos intervalos das taxas do imposto sobre os produtos petrolíferos e energéticos, solução originariamente empregue pelo Código de 1999, e que maior clareza traz à leitura e interpretação do presente decreto-lei.
+
+Quanto ao imposto sobre o tabaco, de que cuida o terceiro capítulo, o esforço principal foi feito na simplificação das regras respeitantes à comercialização dos produtos de tabaco, clarificando-se ainda as disposições relativas à detenção dos mesmos produtos, e procedendo-se a uma vasta actualização da redacção das normas legais.
+
+Tendo em vista permitir a adaptação ao novo sistema informatizado dos movimentos e dos controlos dos produtos sujeitos a impostos especiais de consumo, é previsto um período transitório durante o qual a circulação pode prosseguir ao abrigo das formalidades estabelecidas pelo Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro.
+
+Por outro lado, são introduzidas as necessárias alterações ao Regime Geral das Infracções Tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho, visando adequá-lo às regras previstas no presente decreto-lei.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 130.º da Lei n.º 3-B/2010, de 28 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - É aprovado o Código dos Impostos Especiais de Consumo (CIEC), publicado em anexo ao presente decreto-lei, do qual faz parte integrante.
+
+2 - O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2008&id=308L0118" title="Link para Directiva da Comunidade Europeia">2008/118/CE</a>, do Conselho, de 16 de Dezembro, relativa ao regime geral dos impostos especiais de consumo e que revoga a Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0012" title="Link para Directiva da Comunidade Europeia">92/12/CEE</a>, do Conselho, de 25 de Fevereiro.
+
+###### Artigo 2.º — Depositários autorizados e operadores registados
+
+1 - Os depositários autorizados cujos entrepostos fiscais foram autorizados ao abrigo do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, mantêm, sem demais formalidades, o respectivo estatuto, sem prejuízo das disposições que lhes sejam directamente aplicáveis por força do CIEC.
+
+2 - Os operadores registados cujas autorizações foram concedidas ao abrigo do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, adquirem, sem demais formalidades, o estatuto de destinatário registado, previsto no artigo 26.º do CIEC.
+
+3 - Não adquirem o estatuto de destinatário registado os operadores registados que entreguem declaração expressa em contrário no prazo de três meses a contar da data de entrada em vigor do presente decreto-lei, sem prejuízo das disposições que lhes sejam directamente aplicáveis por força do CIEC.
+
+###### Artigo 3.º — Alteração ao Regime Geral das Infracções Tributárias
+
+O artigo 109.º do Regime Geral das Infracções Tributárias (RGIT), aprovado pela Lei n.º 15/2001, de 5 de Junho, passa a ter a seguinte redacção:
+
+«Artigo 109.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g) (Revogada.)
+
+h) Não cumprir as regras de funcionamento dos entrepostos fiscais previstas no Código dos Impostos Especiais de Consumo, na entrada e na saída de produtos tributáveis;
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+l)...
+
+m)...
+
+n)...
+
+o)...
+
+p)...
+
+q)...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...»
+
+###### Artigo 4.º — Desmaterialização de actos e de procedimentos
+
+1 - Os pedidos, comunicações e notificações entre os interessados e outros intervenientes nos procedimentos previstos no CIEC devem ser efectuados por transmissão electrónica.
+
+2 - O disposto no número anterior produz efeitos a partir de 1 de Janeiro de 2012, devendo até essa data assegurar-se a possibilidade de os pedidos, comunicações e notificações se realizarem através de endereço de correio electrónico único, criado para o efeito, e indicado no sítio da Internet da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
+
+###### Artigo 5.º — Norma transitória
+
+As disposições regulamentares do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, constantes de portaria ou de despacho ministerial mantêm-se em vigor até à entrada em vigor da regulamentação prevista no CIEC.
+
+###### Artigo 6.º — Referências legislativas
+
+Consideram-se feitas para as disposições correspondentes do CIEC todas as referências ou remissões efectuadas em legislação tributária ou outra, bem como em normas regulamentares, para as disposições do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro.
+
+###### Artigo 7.º — Norma revogatória
+
+1 - É revogado o Decreto-Lei n.º 566/99, de 22 de Dezembro.
+
+2 - Exceptuam-se do disposto no número anterior os artigos 32.º a 36.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, os quais se mantêm em vigor até 31 de Dezembro de 2010, quando esteja em causa:
+
+a) A circulação, exclusivamente no território nacional ou a expedição com destino a outro Estado membro, de produtos sujeitos a impostos especiais de consumo, em regime de suspensão do imposto;
+
+b) A recepção de produtos sujeitos a impostos especiais de consumo, em regime de suspensão do imposto, expedidos de outro Estado membro, no caso de expedições efectuadas a coberto das formalidades previstas no n.º 6 do artigo 15.º e no artigo 18.º da Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0012" title="Link para Directiva da Comunidade Europeia">92/12/CEE</a>, do Conselho, de 25 de Fevereiro.
+
+3 - São revogadas as alínea g), i) e j) do n.º 2 do artigo 109.º do RGIT, aprovado pela Lei n.º 15/2001, de 5 de Junho.
+
+###### Artigo 8.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+
+2 - As disposições relativas ao expedidor registado, a que se refere o artigo 31.º do CIEC, entram em vigor a 1 de Janeiro de 2011.
+
+Visto e aprovado em Conselho de Ministros de 6 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
+
+Promulgado em 11 de Junho de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 14 de Junho de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — CÓDIGO DOS IMPOSTOS ESPECIAIS DE CONSUMO
+
+## Parte I — Parte geral
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564)
+
+### Capítulo I — Princípios e regras gerais
+
+###### Artigo 1.º — Objecto
+
+O presente Código dos Impostos Especiais de Consumo (Código) estabelece o regime dos impostos especiais de consumo, considerando-se como tais:
+
+a) O imposto sobre o álcool, as bebidas alcoólicas e as bebidas adicionadas de açúcar ou outros edulcorantes (IABA);
+
+b) O imposto sobre os produtos petrolíferos e energéticos (ISP);
+
+c) O imposto sobre o tabaco (IT).
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 2.º — Princípio da equivalência
+
+Os impostos especiais de consumo obedecem ao princípio da equivalência, procurando onerar os contribuintes na medida dos custos que estes provocam, designadamente nos domínios do ambiente e da saúde pública, sendo repercutidos nos mesmos, em concretização de uma regra geral de igualdade tributária.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 3.º — Âmbito de aplicação territorial
+
+1 - As disposições do Código aplicam-se no território nacional, entendendo-se como tal o território historicamente definido no continente europeu e os arquipélagos dos Açores e da Madeira, bem como o mar territorial e a sua zona contígua, nos termos da lei aplicável.
+
+2 - Com exceção das bebidas não alcoólicas, as disposições relativas à circulação e ao controlo dos produtos sujeitos a impostos especiais de consumo, previstas no presente Código, são igualmente aplicáveis aos movimentos que se iniciam em território nacional com destino a um outro Estado membro, e vice-versa, incluindo os seguintes territórios:
+
+a) Principado do Mónaco;
+
+b) San Marino;
+
+c) Zonas de soberania do Reino Unido em Akrotiri e Dhekelia;
+
+d) Ilha de Man;
+
+e) Jungholz e Mittelberg (Kleines Walsertal).
+
+3 - As disposições relativas à circulação e ao controlo dos produtos sujeitos a impostos especiais de consumo previstas no presente Código não são aplicáveis aos movimentos entre o território nacional e os seguintes territórios terceiros e vice-versa:
+
+a) Ilhas Canárias;
+
+b) Territórios da República Francesa referidos no artigo 349.º e no n.º 1 artigo 355.º do Tratado sobre o Funcionamento da União Europeia;
+
+c) Ilhas Åland;
+
+d) Ilhas Anglo-Normandas;
+
+e) Ilha de Heligoland;
+
+f) Território de Büsingen;
+
+g) Ceuta;
+
+h) Melilha;
+
+i) Livigno;
+
+j) (Revogada);
+
+l) (Revogada).
+
+4 - À entrada e à saída de produtos sujeitos a impostos especiais de consumo provenientes ou destinados a um dos territórios referidos no número anterior são aplicáveis, respetivamente, as formalidades estabelecidas pelas disposições aduaneiras da União Europeia para a entrada e a saída de produtos no território aduaneiro da União Europeia, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), em vigor a partir de 2020-08-29
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 19.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01, produz efeitos a partir de 2014-01-01
+
+###### Artigo 4.º — Incidência subjectiva
+
+1 - São sujeitos passivos de impostos especiais de consumo:
+
+a) O depositário autorizado, o destinatário registado e o destinatário certificado;
+
+b) No caso de fornecimento de eletricidade ao consumidor final, os comercializadores, definidos em legislação própria, os comercializadores para a mobilidade elétrica, os produtores que vendam eletricidade diretamente aos consumidores finais, os autoprodutores e os consumidores que comprem eletricidade através de operações em mercados organizados;
+
+c) No caso de fornecimento de gás natural ao consumidor final, os comercializadores de gás natural, definidos em legislação própria.
+
+2 - São também sujeitos passivos, sem prejuízo de outros especialmente determinados no presente Código:
+
+a) A pessoa que declare os produtos ou por conta da qual estes sejam declarados, no momento e em caso de importação;
+
+b) O arrematante, em caso de venda judicial ou em processo administrativo;
+
+c) Qualquer outra pessoa, além do depositário autorizado, envolvida em saída irregular do entreposto fiscal ou que retire ou por conta da qual sejam retirados os produtos;
+
+d) O depositário autorizado, o expedidor registado ou qualquer outra pessoa que se tenha constituído garante da operação de circulação, ou todas as pessoas que tenham participado na saída irregular ou que tenham tido conhecimento da natureza irregular da mesma, em caso de irregularidade durante a circulação em regime de suspensão do imposto;
+
+e) A pessoa que detenha ou armazene os produtos sujeitos a imposto ou qualquer outra pessoa envolvida, em caso de detenção ou armazenagem irregular;
+
+f) A pessoa responsável pela produção, incluindo a transformação, ou qualquer outra pessoa envolvida, em caso de produção ou transformação irregular;
+
+g) Qualquer pessoa envolvida na entrada irregular dos produtos no território nacional;
+
+h) As pessoas singulares ou colectivas que introduzam no consumo, vendam ou utilizem produtos sujeitos a imposto, nas demais situações de irregularidade.
+
+3 - Quando vários devedores respondam pela mesma dívida de imposto, ficam obrigados ao pagamento dessa dívida a título solidário.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 5.º — Incidência objetiva
+
+1 - Os impostos especiais de consumo referidos no artigo 1.º incidem sobre os produtos definidos na parte especial do presente Código.
+
+2 - Sempre que seja relevante para a determinação da incidência objectiva dos impostos especiais de consumo, são de aplicar os critérios estabelecidos para a classificação de mercadorias na Nomenclatura Combinada instituída pelo Regulamento (CEE) n.º <a href="eurlex.asp?ano=1987&id=387R2658" title="Link para Regulamento da Comunidade Europeia">2658/87</a>, de 23 de Julho, e respectivas actualizações e as regras gerais para a interpretação desta Nomenclatura, as notas das secções e capítulos da mesma, as notas explicativas do Sistema Harmonizado de Designação e Codificação de Mercadorias do Conselho de Cooperação Aduaneira, os critérios de classificação adoptados pelo dito Conselho e as notas explicativas da Nomenclatura Combinada da Comunidade Europeia.
+
+3 - No caso dos produtos definidos no artigo 66.º, é ainda aplicável, para efeitos de determinação da incidência objetiva, o Regulamento de Execução (UE) n.º 2018/1602, da Comissão, de 11 de outubro, e respetivas atualizações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+###### Artigo 6.º — Isenções comuns
+
+1 - Os produtos sujeitos a impostos especiais de consumo estão destes isentos sempre que se destinem:
+
+a) A ser utilizados no âmbito das relações diplomáticas ou consulares;
+
+b) A organismos internacionais reconhecidos como tal pelo Estado Português, bem como aos membros desses organismos, dentro dos limites e nas condições fixadas pelas convenções internacionais que criam esses organismos ou pelos acordos de sede;
+
+c) Às forças armadas de outros Estados que sejam partes no Tratado do Atlântico Norte para uso dessas forças ou dos civis que as acompanhem ou para o aprovisionamento das suas messes ou cantinas, excluindo os membros dessa força que tenham nacionalidade portuguesa;
+
+d) A ser consumidos no âmbito de um acordo concluído com países terceiros ou com organismos internacionais, desde que esse acordo seja admitido ou autorizado em matéria de isenção do imposto sobre o valor acrescentado;
+
+e) A ser expedidos ou exportados;
+
+f) A ser consumidos como abastecimentos das embarcações e aeronaves que se destinem a sair do território definido no n.º 1 do artigo 3.º;
+
+g) Às forças armadas de qualquer Estado-Membro, que não seja aquele no qual o imposto é exigível, para utilização dessas forças ou do elemento civil que as acompanha, ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças armadas se encontrem afetas a um esforço de defesa realizado para a execução de uma atividade da União Europeia no âmbito da política comum de segurança e defesa.
+
+2 - As Forças Armadas e organismos referidos no número anterior estão autorizados a receber produtos sujeitos a impostos especiais de consumo provenientes de outros Estados-Membros, nos termos seguintes:
+
+a) Os destinatários referidos nas alíneas a), b) e d) do número anterior podem rececionar os produtos em regime de suspensão de imposto, a coberto do documento administrativo eletrónico previsto no artigo 36.º, desde que a circulação dos produtos seja acompanhada pelo certificado de isenção previsto no anexo ii ao Regulamento de Execução (UE) n.º 282/2011, do Conselho, de 15 de março;
+
+b) Os destinatários referidos na alínea c) do número anterior podem rececionar produtos sujeitos a impostos especiais de consumo, estando dispensados das obrigações previstas para a circulação de produtos em regime de suspensão do imposto, sempre que esta tenha lugar no âmbito de um regime diretamente baseado no Tratado do Atlântico Norte.
+
+3 - Para efeitos do estabelecido na alínea f) do n.º 1, entende-se por abastecimentos:
+
+a) As provisões de bordo, sendo considerados como tais os produtos destinados exclusivamente ao consumo da tripulação e dos passageiros;
+
+b) Os produtos petrolíferos e outros produtos destinados ao funcionamento das máquinas de propulsão e de outros aparelhos de uso técnico instalados a bordo.
+
+4 - A isenção estabelecida na alínea f) do n.º 1, no que se refere às provisões de bordo, depende da verificação cumulativa das seguintes condições:
+
+a) Que os produtos se destinem a consumo de bordo de embarcações ou aeronaves que operem a partir de portos ou aeroportos nacionais;
+
+b) Que o referido consumo se faça fora do espaço fiscal português;
+
+c) Que os produtos fornecidos sejam conservados em compartimento selado pela estância aduaneira competente nos termos da legislação aplicável;
+
+d) Que os produtos fornecidos se limitem às quantidades fixadas no número seguinte.
+
+5 - Para efeitos da alínea d) do número anterior os produtos fornecidos devem limitar-se, por pessoa e dia de viagem, às seguintes quantidades:
+
+a) 2 maços de cigarros, 10 cigarrilhas, 3 charutos ou 40 g de tabaco para fumar, não sendo estas quantidades cumuláveis;
+
+b) 1 l de bebidas espirituosas, 1 l de produtos intermédios ou 2 l de cerveja, não sendo estas quantidades cumuláveis.
+
+6 - Para efeitos do cumprimento das obrigações estabelecidas no presente Código é dispensada a emissão do documento administrativo eletrónico previsto no artigo 36.º, devendo ser processada uma declaração de saída, quando se verifiquem cumulativamente os seguintes requisitos:
+
+a) A saída de um entreposto fiscal de produtos destinados a abastecimentos de aeronaves seja efetuada com recurso a uma declaração aduaneira de exportação sob a forma de uma inscrição nos registos do declarante; e
+
+b) A estância aduaneira de exportação seja a estância aduaneira de saída dos produtos.
+
+7 - A estância aduaneira competente pode dispensar, em casos especiais devidamente fundamentados, a selagem do compartimento referido na alínea c) do n.º 3.
+
+8 - A violação das condições fixadas nos n.os 3 e 4 determina a liquidação do imposto à entidade requisitante, sem prejuízo das sanções previstas na lei.
+
+9 - Sem prejuízo do disposto no número anterior, estão isentos na importação, os seguintes produtos contidos na bagagem pessoal dos viajantes provenientes de países ou territórios terceiros:
+
+a) O rapé, o tabaco de mascar, o tabaco aquecido, os líquidos para cigarros eletrónicos, em recipientes utilizados para carga e recarga de cigarros eletrónicos, e as bolsas de nicotina, nas quantidades previstas nas alíneas e) a i) do n.º 3 do artigo 61.º;
+
+b) As bebidas não alcoólicas, na quantidade prevista na alínea e) do n.º 4 do artigo 61.º
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 6.º-A — Lojas francas
+
+1 - Os produtos vendidos em lojas francas estão isentos de impostos especiais de consumo, desde que sejam transportados na bagagem pessoal de passageiros que viajem para um país ou território terceiro, efetuando um voo ou travessia marítima.
+
+2 - Para efeitos do disposto no número anterior, entende-se por:
+
+a) 'Loja franca', qualquer estabelecimento situado num aeroporto ou terminal portuário que satisfaça as condições previstas na legislação nacional aplicável;
+
+b) 'Passageiros que viajem para um país ou território terceiro', qualquer passageiro na posse de título de transporte, por via aérea ou marítima, que mencione como destino final um aeroporto ou um porto situado num país ou território terceiro.
+
+3 - A loja franca é considerada como constituindo parte do entreposto fiscal de armazenagem que procede ao seu abastecimento.
+
+4 - Os produtos vendidos a bordo de aeronaves ou navios, durante um voo ou uma travessia marítima para um país ou território terceiro, são equiparados a produtos vendidos em lojas francas.
+
+5 - (revogado.)
+
+6 - Para efeitos da isenção prevista no n.º 1, tratando-se de travessia marítima, considera-se que constitui destino final um porto situado num país ou território terceiro em que ocorra a escala do navio, com a saída e permanência temporária dos passageiros nesse porto, ainda que posteriormente possam ocorrer escalas em portos situados no território aduaneiro da União Europeia.
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532)
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 7.º — Facto gerador
+
+1 - Constitui facto gerador do imposto:
+
+a) A produção em território nacional dos produtos a que se refere o artigo 5.º;
+
+b) A entrada em território nacional, quando provenientes de outro Estado-Membro, dos produtos a que se refere o artigo 5.º, ainda que irregular; e
+
+c) A importação dos produtos a que se refere o artigo 5.º, ainda que irregular.
+
+2 - Em derrogação do disposto no número anterior, constitui facto gerador do imposto, o momento do fornecimento ao consumidor final de eletricidade e de gás natural por comercializadores definidos em legislação própria.
+
+3 - Para efeitos do presente Código, entende-se por:
+
+a) 'Entrada irregular', a entrada, no território nacional, de produtos que não tenham sido introduzidos em livre prática nos termos da legislação aduaneira aplicável e para os quais tenha sido constituída uma dívida aduaneira, ou esta estivesse sido constituída se os produtos estivessem sujeitos a direitos aduaneiros;
+
+b) 'Importação', a introdução dos produtos em livre prática nos termos da legislação aduaneira aplicável;
+
+c) 'Mercadorias não-UE', as mercadorias não abrangidas ou que tenham perdido o estatuto aduaneiro de mercadorias da União Europeia, na aceção do artigo 5.º do Regulamento (UE) 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013; e
+
+d) 'Produção', qualquer processo de fabrico, incluindo a transformação e, se aplicável, de extração, através do qual se obtenham produtos sujeitos a impostos especiais de consumo, bem como as operações de desnaturação e as de adição de marcadores e de corantes, e ainda a envolumação de tabaco manufaturado, desde que se integrem no referido processo de fabrico.
+
+4 - Os produtos detidos a bordo de embarcações ou aeronaves que efetuam travessias ou voos entre os territórios de dois Estados-Membros, mas que não estão disponíveis para venda quando a embarcação ou aeronave se encontra no território nacional, não estão sujeitos a impostos especiais de consumo.
+
+5 - Os artigos 21.º a 46.º não são aplicáveis aos produtos que tenham o estatuto aduaneiro de mercadorias não-UE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 8.º — Exigibilidade
+
+1 - O imposto é exigível em território nacional no momento da introdução no consumo dos produtos referidos no artigo 5.º ou da constatação de perdas que devam ser tributadas em conformidade com o presente Código.
+
+2 - A taxa de imposto a aplicar no território nacional é a que estiver em vigor na data da exigibilidade.
+
+###### Artigo 9.º — Introdução no consumo
+
+1 - Para efeitos do presente Código considera-se introdução no consumo de produtos sujeitos a imposto:
+
+a) A saída desses produtos, ainda que irregular, do regime de suspensão do imposto;
+
+b) A detenção ou a armazenagem desses produtos, ainda que irregular, fora do regime de suspensão do imposto, sem que tenha sido cobrado o imposto devido;
+
+c) A produção desses produtos, incluindo a transformação, ainda que irregular, fora do regime de suspensão do imposto sem que tenha sido cobrado o imposto devido;
+
+d) A importação desses produtos, a menos que sejam submetidos, imediatamente após a importação, ao regime de suspensão do imposto, ou a sua entrada irregular, exceto se a dívida aduaneira tiver sido extinta nos termos da legislação aduaneira aplicável;
+
+e) A entrada desses produtos, ainda que irregular, no território nacional fora do regime de suspensão do imposto, sem prejuízo do disposto no n.º 2 do artigo 60.º-A;
+
+f) A cessação ou violação dos pressupostos de um benefício fiscal;
+
+g) O fornecimento de electricidade ao consumidor final, o autoconsumo e a aquisição de electricidade por consumidores finais em mercados organizados.
+
+h) O fornecimento de gás natural ao consumidor final, incluindo a aquisição de gás natural diretamente por consumidores finais em mercados organizados, bem como a importação e a receção de gás natural de outro Estado membro diretamente por consumidores finais.
+
+2 - A data de introdução no consumo corresponde:
+
+a) À data da receção dos produtos pelo destinatário registado, quando provenientes de um entreposto fiscal;
+
+b) À data da receção dos produtos por um dos destinatários mencionados nas alíneas a) a d) e g) do n.º 1 do artigo 6.º;
+
+c) Na situação referida na alínea f) do número anterior, à data da cessação ou da violação dos pressupostos do benefício fiscal;
+
+d) À data da receção dos produtos no local da entrega direta pelo depositário autorizado ou pelo destinatário registado;
+
+e) No caso das bebidas não alcoólicas que circulem em regime de suspensão do imposto, à data da receção desses produtos pelo destinatário registado.
+
+3 - No caso de não ser possível determinar com exatidão a data em que ocorreu a introdução no consumo, a data a considerar para efeitos de exigibilidade do imposto é a da constatação dessa introdução pela autoridade aduaneira.
+
+4 - Não é considerada introdução no consumo a inutilização total ou a perda irreparável, total ou parcial, dos produtos em regime de suspensão do imposto:
+
+a) Por causa inerente à natureza dos produtos, dentro dos limites fixados nos artigos 47.º a 49.º; ou
+
+b) Devido a caso fortuito ou de força maior, nos termos do artigo 50.º, exceto caso se verifiquem motivos comprováveis de suspeita de fraude ou irregularidade.
+
+5 -  (Revogado.)
+
+6 - Para além do disposto no n.º 1, considera-se ainda terem sido introduzidos no consumo:
+
+a) Os produtos correspondentes às estampilhas especiais que não se mostrem devidamente utilizadas, os que sejam inutilizados com preterição das regras aplicáveis ou as perdas que ultrapassem os limites fixados, nos termos e nas condições previstos nos artigos 86.º, 87.º-F e 110.º; e
+
+b) Os produtos correspondentes à diferença entre a produção efetiva efetuada em entreposto fiscal e a produção que seria expectável obter, tendo em consideração as matérias-primas consumidas e a taxa de rendimento aprovada nos termos do artigo 26.º e, quando aplicável, que ultrapassem a taxa de variação da produção definida nas especificações técnicas em função do tipo de produto, desde que devidamente fundamentada pela estância aduaneira competente.
+
+7 - Para efeitos da alínea a) do n.º 1, considera-se ocorrer uma saída regular do regime de suspensão do imposto sempre que os produtos são rececionados pelo destinatário registado, por um destinatário isento mencionado nas alíneas a) a d) e g) do n.º 1 do artigo 6.º ou no local de entrega direta.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 10.º — Formalização da introdução no consumo
+
+1 - A introdução no consumo deve ser formalizada através da declaração de introdução no consumo (DIC) ou, no acto de importação, através da respectiva declaração aduaneira.
+
+2 - A DIC é processada por transmissão electrónica de dados, salvo no caso dos particulares, que continuam a poder apresentar a DIC em suporte de papel.
+
+3 - A DIC deve ser processada até ao final do dia útil seguinte àquele em que ocorra a introdução no consumo.
+
+4 - Em derrogação ao disposto no número anterior, a DIC pode ser processada com periodicidade mensal, até ao dia cinco do mês seguinte, no caso dos produtos tributados à taxa 0 ou isentos, ou até ao dia cinco do mês seguinte ao da faturação, no caso da eletricidade e do gás natural.
+
+5 - Exclui-se do regime estabelecido no número anterior a DIC para os produtos que beneficiem da isenção prevista nas alíneas a) e b) do n.º 1 do artigo 6.º, que deve ser processada em conformidade com o previsto no n.º 3.
+
+6 - Para efeitos do presente Código, considera-se estância aduaneira competente a alfândega ou delegação aduaneira em cuja jurisdição se situa o domicílio fiscal do operador económico ou o entreposto fiscal, consoante o caso, ou outro local sujeito a controlo aduaneiro.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 10.º-A — Introduções no consumo globalizadas
+
+1 - As introduções no consumo efetuadas num determinado mês pelos sujeitos passivos que detenham um dos estatutos previstos no presente Código são globalizadas no mês seguinte, numa única liquidação, processada de forma automática.
+
+2 - Sem prejuízo do estabelecido no número anterior, nas restantes situações de globalização das introduções no consumo consagradas em legislação avulsa, a liquidação é efetuada no mês seguinte ao período nela consagrado.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 248.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+###### Artigo 10.º-B — Substituição das declarações de introdução no consumo
+
+1 - As DIC podem ser substituídas até ao dia 14 do mês da globalização.
+
+2 - Sem prejuízo da responsabilidade contraordenacional respetiva, as DIC podem ainda ser substituídas dentro dos seguintes prazos contados desde a data da liquidação:
+
+a) Até ao termo do prazo referido no artigo 15.º, no caso de erros ou omissões imputáveis aos sujeitos passivos de que resulte imposto de montante inferior ao liquidado; ou
+
+b) Até ao termo do prazo de caducidade, para a correção de erros imputáveis aos sujeitos passivos de que resulte imposto superior ao anteriormente liquidado.
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+### Capítulo II — Liquidação, pagamento e reembolso do imposto
+
+###### Artigo 11.º — Liquidação do imposto
+
+1 - Nas situações referidas no artigo 10.º-A, os sujeitos passivos são notificados da liquidação do imposto, até ao dia 15 do mês da globalização, por via eletrónica e de forma automática, através de mensagem disponibilizada na respetiva área reservada na plataforma dos impostos especiais de consumo no portal da Autoridade Tributária e Aduaneira (AT), sem prejuízo das regras de notificação através do serviço público de notificações eletrónicas associado à morada única digital.
+
+2 - Sempre que não seja possível efetuar a notificação nos termos do número anterior, a estância aduaneira competente notifica os sujeitos passivos da liquidação do imposto, até ao dia 20 do mês da globalização, por via postal simples, para o seu domicílio fiscal.
+
+3 - Os sujeitos passivos que não detenham nenhum dos estatutos previstos no presente Código são notificados da liquidação do imposto, pela estância aduaneira competente, por via postal simples, para o seu domicílio fiscal.
+
+4 - A notificação por via eletrónica considera-se efetuada no 5.º dia posterior à sua disponibilização, na área reservada do sujeito passivo na plataforma de gestão dos impostos especiais de consumo no Portal da AT, salvo quando o sujeito passivo comprove que, por facto que não lhe seja imputável, a notificação ocorreu em data posterior à presumida, designadamente, por impossibilidade de acesso à referida área reservada, sem prejuízo das regras aplicáveis em caso de notificação através do serviço público de notificações eletrónicas associado à morada única digital.
+
+5 - Quando em consequência de uma importação for devido imposto, observa-se o disposto na legislação comunitária aplicável aos direitos aduaneiros, quer estes sejam ou não devidos, nomeadamente no que respeita aos prazos para a sua liquidação e cobrança, limiares mínimos de cobrança e aos prazos e fundamentos da cobrança a posteriori, do reembolso e da dispensa de pagamento.
+
+6 - Na falta ou no atraso de liquidação imputável ao sujeito passivo, ou em caso de erro, omissão, falta ou qualquer outra irregularidade que afete o montante do imposto a cobrar, a estância aduaneira competente procede à liquidação oficiosa do imposto e dos juros compensatórios que forem devidos, notificando o sujeito passivo por carta registada após notificação prévia para efeitos de exercício do direito de audição.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 12.º — Pagamento e facto extintivo da dívida
+
+1 - O imposto deve ser pago até ao último dia útil do mês em que foi notificada a liquidação, nas situações previstas no artigo 10.º-A e, nas restantes situações, até ao 15.º dia após a notificação da liquidação.
+
+2 - (Revogado.)
+
+3 - Não há lugar a cobrança do imposto quando o montante liquidado for inferior a (euro) 10 ou, no caso das bebidas sem fins comerciais, não seja excedido o limite de 30 litros de produto acabado por ano e por produtor.
+
+4 - Para além do disposto no artigo 40.º da lei geral tributária, a prestação tributária extingue-se sempre que, em consequência de uma infracção, ocorra a apreensão de produtos e estes sejam abandonados, declarados perdidos ou, no caso de produtos de utilização condicionada, estes não possam ser restituídos ao seu proprietário, por não estarem preenchidas as condições exigidas por lei para a sua utilização.
+
+5 - Os custos e encargos inerentes ao depósito, à inutilização ou à venda, incluindo análises e estudos, dos produtos apreendidos, abandonados ou declarados perdidos, são da responsabilidade das pessoas singulares ou colectivas que detinham os referidos produtos.
+
+6 - Para efeitos do n.º 4, o abandono dos produtos deve ser solicitado junto da estância aduaneira competente no prazo de 30 dias após o término do prazo de pagamento do imposto.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 13.º — Atraso no pagamento
+
+1 - Findo o prazo de pagamento voluntário do imposto sem que este tenha sido pago ou sem que tenha sido constituída garantia das importâncias em dívida, a estância aduaneira competente emite a respetiva certidão de dívida para efeitos de cobrança coerciva.
+
+2 - O devedor que não proceda ao pagamento atempado da dívida fica inibido de utilizar o respetivo estatuto até efetuar o pagamento das importâncias em dívida ou constituir a garantia prevista no número anterior.
+
+3 - A inibição prevista no número anterior é objeto de notificação prévia por carta registada, com aviso de receção, pela estância aduaneira competente, para efeitos de exercício do direito de audição, no prazo máximo de cinco dias.
+
+4 - É dispensada a inibição de utilização do estatuto prevista nos números anteriores relativamente a dívidas resultantes de liquidações oficiosas:
+
+a) Quando as importâncias de imposto em dívida não ultrapassem 10 unidades de conta; ou
+
+b) Tendo em consideração a prática de regular cumprimento das obrigações declarativas e de pagamento inerentes ao estatuto, em casos devidamente justificados pela estância aduaneira competente.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 14.º — Pagamento em prestações
+
+1 - O devedor que, pela sua situação económica, não possa solver a dívida dentro dos prazos legalmente fixados, pode solicitar ao director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo o seu pagamento em prestações mensais, em número não superior a 12.
+
+2 - O pedido deve ser apresentado na estância aduaneira competente até ao termo do prazo para o pagamento voluntário, com fundamento em grave dificuldade de natureza económica e financeira.
+
+3 - O fundamento exigido no número anterior deve ser documentalmente comprovado, podendo a estância aduaneira competente solicitar a apresentação da documentação suplementar que considere relevante.
+
+4 - O pagamento em prestações depende da constituição de uma garantia de valor igual ao da prestação tributária em dívida, bem como dos correspondentes juros de mora.
+
+5 - A falta de pagamento de qualquer prestação implica o vencimento das restantes, devendo a estância aduaneira promover a imediata cobrança da dívida remanescente.
+
+6 - A garantia pode ser reduzida, mediante pedido apresentado na estância aduaneira competente, em montante correspondente ao das prestações já pagas, sendo libertada quanto estiver satisfeita a totalidade da dívida.
+
+###### Artigo 15.º — Regras gerais do reembolso
+
+1 - Constituem fundamento para o reembolso do imposto pago, desde que devidamente comprovados, o erro na liquidação, a expedição ou exportação dos produtos sujeitos a imposto, bem como a retirada dos mesmos do mercado, nos termos e nas condições previstas no presente Código.
+
+2 - Podem solicitar o reembolso os sujeitos passivos referidos no n.º 1 e na alínea a) do n.º 2 do artigo 4.º que tenham procedido à introdução no consumo dos produtos em território nacional e provem o pagamento do respectivo imposto.
+
+3 - O pedido de reembolso deve ser apresentado na estância aduaneira competente no prazo de três anos a contar da data da liquidação do imposto, sem prejuízo do disposto na alínea a) do artigo 17.º e na alínea a) do artigo 18.º
+
+4 - O reembolso só pode ser efectuado desde que o montante a reembolsar seja igual ou superior a (euro) 25.
+
+###### Artigo 16.º — Reembolso por erro
+
+1 - O reembolso por erro na liquidação inclui o erro material e a errónea qualificação ou quantificação dos factos tributários.
+
+2 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o reembolso pode ainda ser efectuado, no mesmo prazo, por iniciativa da estância aduaneira competente.
+
+###### Artigo 17.º — Reembolso na expedição
+
+O reembolso na expedição para outro Estado membro está sujeito aos seguintes procedimentos:
+
+a) O pedido de reembolso deve ser apresentado até dois dias úteis antes da expedição dos produtos;
+
+b) O pedido de reembolso deve conter a indicação do local onde os produtos se encontram e se os mesmos possuem marcas fiscais ou marcas de identificação nacional;
+
+c) A prova do pagamento do imposto é feita mediante a apresentação do respectivo documento de cobrança, devendo identificar-se o documento de introdução no consumo;
+
+d) O expedidor certificado deve apresentar perante a estância aduaneira competente, por via eletrónica, o relatório de receção do documento de acompanhamento simplificado eletrónico, o qual constitui prova bastante do cumprimento das formalidades necessárias pelo destinatário certificado e, se aplicável, de que este efetuou o pagamento do imposto devido;
+
+e) Tratando-se de bebidas não alcoólicas, o expedidor deve ainda apresentar o documento comprovativo da respetiva transmissão intracomunitária, não se aplicando, neste caso, o disposto na alínea anterior;
+
+f) Os produtos introduzidos no consumo em território nacional, ostentando uma marca fiscal ou uma marca de identificação nacional, só podem ser objecto de reembolso do imposto desde que a destruição dessas marcas seja controlada pela estância aduaneira competente.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 18.º — Reembolso na exportação
+
+O reembolso na exportação está sujeito aos seguintes procedimentos:
+
+a) O pedido de reembolso deve ser apresentado até dois dias úteis antes da apresentação da declaração aduaneira de exportação;
+
+b) O pedido de reembolso deve conter a indicação do local onde os produtos se encontram e se os mesmos possuem marcas fiscais ou marcas de identificação nacional;
+
+c) O pedido de reembolso deve ser mencionado na respectiva declaração aduaneira de exportação;
+
+d) A prova do pagamento do imposto é feita mediante a apresentação do respectivo documento de cobrança, devendo identificar-se o documento de introdução no consumo;
+
+e) A prova da saída efectiva do território da Comunidade é efectuada mediante a certificação de saída, nos termos da legislação aduaneira aplicável;
+
+f) Os produtos introduzidos no consumo em território nacional, ostentando uma marca fiscal ou uma marca de identificação nacional, só podem ser objecto de reembolso do imposto desde que a destruição dessas marcas seja controlada pela estância aduaneira competente.
+
+###### Artigo 19.º — Reembolso por retirada do mercado
+
+1 - É fundamento para o reembolso do imposto por retirada dos produtos do mercado a impossibilidade da sua comercialização, nomeadamente por deterioração, por contaminação ou por se terem tornado impróprios para o consumo humano.
+
+2 - Considera-se ainda retirada do mercado a devolução dos produtos, por razões de natureza comercial, que ocorra no prazo de 90 dias contados a partir da data de introdução no consumo.
+
+3 - A prova do pagamento do imposto é feita mediante a apresentação do respectivo documento de cobrança, devendo identificar-se o documento de introdução no consumo.
+
+4 - Os produtos introduzidos no consumo em território nacional, ostentando uma marca fiscal ou uma marca de identificação nacional, só podem ser objecto de reembolso do imposto desde que a destruição dessas marcas seja controlada pela estância aduaneira competente.
+
+###### Artigo 20.º — Outros casos de reembolso
+
+1 - Constituem ainda fundamento para o reembolso a inutilização, a perda irreparável dos produtos e a situação prevista no n.º 7 do artigo 46.º
+
+2 - A perda irreparável dos produtos ou a sua inutilização devem ser devidamente comprovadas pela autoridade aduaneira, nos termos e de acordo com os procedimentos definidos, respectivamente, nos artigos 50.º e 52.º
+
+3 - As isenções previstas no presente Código podem ser concretizadas através do mecanismo do reembolso do imposto pago, desde que o sujeito passivo disponha dos elementos contabilísticos que permitam o controlo da afectação dos produtos ao destino isento.
+
+### Capítulo III — Produção, transformação e armazenagem em regime de suspensão
+
+###### Artigo 21.º — Produção, transformação e detenção em regime de suspensão
+
+1 - A produção, transformação e armazenagem de produtos sujeitos a impostos especiais de consumo, em regime de suspensão do imposto, apenas podem ser efectuadas em entreposto fiscal mediante autorização e sob controlo da estância aduaneira competente.
+
+2 - Para efeitos do presente Código, entende-se por 'regime de suspensão do imposto' o regime fiscal aplicável à produção, transformação, detenção, armazenagem e circulação dos produtos sujeitos a impostos especiais de consumo em que é suspensa a cobrança dos referidos impostos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 22.º — Estatuto de depositário autorizado
+
+1 - Adquire o estatuto de depositário autorizado a pessoa singular ou coletiva autorizada pela autoridade aduaneira, no exercício da sua atividade, a produzir, transformar, deter, armazenar, receber e expedir, num entreposto fiscal, produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto.
+
+2 - O depositário autorizado enquanto sujeito passivo de imposto é responsável pelas obrigações de declaração, mesmo relativamente a produtos de que não seja proprietário.
+
+3 - O depositário autorizado está sujeito às seguintes obrigações:
+
+a) Prestar uma garantia, no caso dos entrepostos fiscais de armazenagem, destinada a cobrir os riscos inerentes à introdução no consumo de produtos no estado de poderem ser utilizados como produtos sujeitos a impostos especiais de consumo;
+
+b) Manter actualizada, no entreposto fiscal, uma contabilidade das existências em sistema de inventário permanente, com indicação da sua proveniência, destino e os elementos relevantes para o cálculo do imposto;
+
+c) Introduzir os produtos no entreposto fiscal e inscrevê-los na contabilidade de existências, no termo da circulação em regime de suspensão do imposto;
+
+d) Prestar-se aos varejos e outros controlos determinados pela autoridade aduaneira;
+
+e) Comunicar a nomeação ou a substituição dos gerentes ou administradores, bem como qualquer alteração dos sócios ou dos pressupostos subjacentes à concessão do estatuto;
+
+f) Cumprir os demais procedimentos prescritos pela autoridade aduaneira.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 23.º — Aquisição e manutenção do estatuto de depositário autorizado
+
+1 - A aquisição do estatuto de depositário autorizado depende:
+
+a) Da verificação da idoneidade fiscal do interessado e demais requisitos fixados na lei;
+
+b) Da autorização do entreposto fiscal, nos termos do artigo seguinte.
+
+2 - Para efeitos da alínea a) do número anterior, são requisitos cumulativos para a concessão do estatuto os seguintes:
+
+a) A actividade económica principal deve consistir na produção, transformação, armazenagem ou comercialização de produtos sujeitos a impostos especiais de consumo, excepto nos casos em que a actividade económica do operador seja exclusivamente a prestação de serviços de armazenagem;
+
+b) O comerciante em nome individual ou qualquer dos sócios, gerentes ou administradores, no caso de pessoa coletiva, não ter sido condenado por crime tributário ou por contraordenação tributária punível com coima igual ou superior a 5 000 (euro), nos últimos cinco anos;
+
+c) Inexistência de dívidas tributárias ou contributivas em fase de cobrança coerciva, sem que haja reclamação graciosa, impugnação judicial, recurso judicial, oposição à execução ou pagamento em prestações com prestação de garantia.
+
+3 - A manutenção do estatuto de depositário autorizado depende da verificação dos requisitos fixados na alínea a) do n.º 1 e no número anterior, bem como do cumprimento das obrigações previstas no n.º 3 do artigo anterior, sem prejuízo das demais obrigações legais que sobre aquele impendem.
+
+4 - A atividade económica principal, para efeitos do presente Código, não obsta ao exercício, por parte do operador económico, de outras atividades não relacionadas com produtos sujeitos a impostos especiais de consumo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 24.º — Autorização e constituição do entreposto fiscal
+
+1 - Para efeitos do presente Código, entende-se por «entreposto fiscal» o local onde são produzidos, transformados, armazenados, recebidos ou expedidos pelo depositário autorizado, no exercício da sua profissão, produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, nas condições estabelecidas no presente Código e demais legislação complementar.
+
+2 - A constituição do entreposto fiscal depende de pedido dirigido à estância aduaneira em cuja jurisdição se situam as respetivas instalações, efetuado mediante preenchimento de formulário disponibilizado no sítio da Internet da AT, acompanhado dos seguintes documentos:
+
+a) Cópia do documento de licenciamento das instalações, quando exigível, bem como do registo do prédio na respectiva conservatória ou da correspondente inscrição matricial, ou, se for o caso, do respectivo contrato de arrendamento ou qualquer outro título que legitime a utilização das instalações para o exercício da actividade;
+
+b) Plano de produção anual previsível, com indicação das taxas de rendimento, no que se refere aos entrepostos fiscais de produção ou transformação, ou previsão de movimento anual médio por produto, quanto aos entrepostos fiscais de armazenagem;
+
+c) Os documentos previstos na parte especial do presente Código, consoante o caso.
+
+3 - Para além das condições estabelecidas no número anterior, a estância aduaneira competente pode avaliar, no local das instalações, o cumprimento dos requisitos exigíveis para a concessão do estatuto.
+
+4 - Reunidos os requisitos estabelecidos no artigo anterior, bem como na parte especial do presente Código, a constituição do entreposto fiscal é autorizada e comunicada ao interessado, no prazo de 30 dias, pelo director da alfândega, podendo, para efeitos do artigo 33.º, haver lugar a fiscalização a posteriori.
+
+5 - A autorização para a constituição do entreposto fiscal produz efeitos após a prestação da garantia exigível.
+
+6 - O incumprimento do prazo referido no n.º 4, contado a partir da data de apresentação do pedido na estância aduaneira competente, faz presumir o seu indeferimento para efeitos de recurso por via hierárquica ou contenciosa.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 25.º — Regras de funcionamento do entreposto fiscal
+
+1 - O entreposto fiscal e os reservatórios nele existentes não podem ser utilizados para a produção, transformação ou armazenagem de produtos diversos dos que constem da autorização, salvo autorização prévia para o efeito, efetuada mediante preenchimento de formulário disponibilizado no sítio da Internet da AT.
+
+2 - No entreposto fiscal podem ser colocados, em regime de suspensão do imposto, produtos provenientes de outro entreposto fiscal e de um expedidor registado, a coberto do documento de acompanhamento electrónico.
+
+3 - Do entreposto fiscal podem sair produtos, em regime de suspensão do imposto, quer destinados a um entreposto fiscal ou a um destinatário registado, através da emissão do respectivo documento de acompanhamento electrónico, quer destinados à exportação, através da respectiva declaração aduaneira de exportação ou, se a estância aduaneira de exportação não coincidir com a estância aduaneira de saída, da emissão do respectivo documento de acompanhamento electrónico.
+
+4 - Excecionalmente, pode ser autorizado, mediante requerimento do interessado dirigido à estância aduaneira competente, que no entreposto fiscal sejam colocados produtos sujeitos a um regime aduaneiro, desde que separados contabilisticamente dos restantes.
+
+5 - Os produtos já introduzidos no consumo só podem reentrar no entreposto fiscal mediante comunicação prévia à estância aduaneira competente, nomeadamente para efeitos do disposto no n.º 2 do artigo 19.º, e através do respectivo documento de reentrada, efectuando-se as devidas anotações na contabilidade de existências.
+
+6 - O titular do entreposto fiscal fica sujeito a medidas de controlo, designadamente o acesso à contabilidade e aos sistemas informáticos, bem como ao controlo e verificação física dos produtos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 26.º — Entreposto fiscal de produção
+
+1 - Para efeitos da alínea b) do n.º 2 do artigo 24.º, o depositário autorizado, titular de um entreposto fiscal de produção, deve apresentar à estância aduaneira competente as respectivas taxas de rendimento, correspondentes às quantidades de matérias-primas necessárias ao fabrico de produtos sujeitos a impostos especiais de consumo.
+
+2 - O director da alfândega aprova as taxas de rendimento apresentadas, com base na análise da informação relevante de que disponha.
+
+3 - Sempre que se verifiquem divergências entre as quantidades produzidas e as quantidades decorrentes da taxa de rendimento, deve proceder-se, por iniciativa do depositário autorizado ou da estância aduaneira competente, à revisão da taxa de rendimento aprovada.
+
+###### Artigo 27.º — Entreposto fiscal de armazenagem
+
+1 - A armazenagem, em regime de suspensão do imposto, de produtos acabados sujeitos a imposto só pode ter lugar em entreposto fiscal de armazenagem, sem prejuízo de poderem permanecer no entreposto fiscal de produção após o seu fabrico.
+
+2 - No entreposto fiscal de armazenagem apenas podem ser efectuadas manipulações usuais destinadas a assegurar a conservação e utilização dos produtos, nomeadamente o acondicionamento, o envasilhamento, a marcação, a diluição, a aditivação e a desnaturação.
+
+###### Artigo 28.º — Estatuto do destinatário registado
+
+1 - Constitui destinatário registado a pessoa singular ou colectiva autorizada pela autoridade aduaneira, no exercício da sua profissão e nas condições estabelecidas no presente Código, a receber, não podendo deter nem expedir, produtos sujeitos a impostos especiais de consumo que circulem em regime de suspensão do imposto.
+
+2 - A autorização referida no número anterior pode ser também concedida de forma temporária, limitando-se, neste caso, a uma quantidade específica de produtos, a um único expedidor e a um período de tempo determinado.
+
+3 - O destinatário registado enquanto sujeito passivo é responsável pelas obrigações declarativas, mesmo relativamente a produtos dos quais não seja proprietário, estando ainda sujeito ao cumprimento das seguintes obrigações:
+
+a) Prestar uma garantia que cubra os riscos inerentes à introdução no consumo dos produtos sujeitos a impostos especiais de consumo que lhe sejam destinados;
+
+b) No termo da circulação, cumprir as formalidades aplicáveis à introdução no consumo em território nacional;
+
+c) Comunicar a nomeação ou a substituição dos gerentes ou administradores, bem como qualquer alteração dos sócios ou dos pressupostos subjacentes à concessão do estatuto;
+
+d) Manter um registo contabilístico atualizado dos produtos recebidos em regime de suspensão de imposto e introduzidos no consumo, com indicação da sua proveniência, destino e elementos relevantes para o cálculo do imposto;
+
+e) Prestar-se a qualquer controlo que permita à autoridade aduaneira certificar-se da recepção efectiva dos produtos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 29.º — Aquisição do estatuto de destinatário registado
+
+1 - A aquisição do estatuto de destinatário registado depende da verificação da idoneidade fiscal do interessado e demais requisitos fixados na lei, sendo requisitos cumulativos para a concessão do estatuto os seguintes:
+
+a) A actividade económica principal deve consistir na comercialização de produtos sujeitos a impostos especiais de consumo;
+
+b) O comerciante em nome individual ou qualquer dos sócios, gerentes ou administradores, no caso de pessoa coletiva, não ter sido condenado por crime tributário ou por contraordenação tributária punível com coima igual ou superior a 5 000 (euro) nos últimos cinco anos;
+
+c) Inexistência de dívidas tributárias ou contributivas em fase de cobrança coerciva, sem que haja reclamação graciosa, impugnação judicial, recurso judicial, oposição à execução ou pagamento em prestações com prestação de garantia.
+
+2 - No prazo de 30 dias, a autorização é comunicada ao interessado, indicando a data a partir da qual produz efeitos e o respectivo registo alfanumérico.
+
+3 - A manutenção do estatuto de destinatário registado depende da verificação dos requisitos fixados no n.º 1 e do cumprimento das obrigações previstas no n.º 3 do artigo anterior, sem prejuízo das demais obrigações legais que sobre aquele impendem.
+
+4 - O incumprimento do prazo referido no n.º 2, contado a partir da data de apresentação do pedido na estância aduaneira competente, faz presumir o seu indeferimento para efeitos de recurso por via hierárquica ou contenciosa.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 30.º — Destinatário registado temporário
+
+1 - Os operadores económicos que apenas pretendam receber ocasionalmente, em regime de suspensão do imposto, produtos sujeitos a impostos especiais de consumo, devem registar-se na estância aduaneira competente, indicando, para o efeito, o período de validade, o expedidor e a quantidade dos produtos que pretendem receber.
+
+2 - O destinatário registado temporário está sujeito às seguintes obrigações:
+
+a) Prestar uma garantia que cubra os riscos inerentes à introdução no consumo dos produtos sujeitos a impostos especiais de consumo que lhe sejam destinados;
+
+b) No termo da circulação, cumprir as formalidades de introdução no consumo em território nacional;
+
+c) Prestar-se a qualquer controlo que permita à autoridade aduaneira certificar-se da recepção efectiva dos produtos.
+
+3 - A autorização é comunicada ao interessado, indicando a data a partir da qual produz efeitos e o respectivo registo alfanumérico.
+
+###### Artigo 31.º — Estatuto do expedidor registado
+
+1 - Constitui expedidor registado a pessoa singular ou colectiva autorizada pela autoridade aduaneira, no exercício da sua profissão e nas condições estabelecidas no presente Código, a expedir produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, do local da sua importação e na sequência da introdução em livre prática nos termos do artigo 79.º do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R2913" title="Link para Regulamento da Comunidade Europeia">2913/92</a>, do Conselho, de 12 de Outubro.
+
+2 - O expedidor registado está sujeito ao cumprimento das seguintes obrigações:
+
+a) Prestar-se a qualquer controlo que permita à autoridade aduaneira certificar-se da expedição dos produtos;
+
+b) Comunicar a nomeação ou a substituição dos gerentes ou administradores, bem como qualquer alteração dos sócios ou dos pressupostos subjacentes à concessão do estatuto;
+
+c) Consoante os casos, prestar ou indicar uma garantia válida que cubra os riscos inerentes à introdução no consumo dos produtos sujeitos a impostos especiais de consumo que pretenda expedir.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 32.º — Aquisição do estatuto de expedidor registado
+
+1 - Os operadores económicos que pretendam obter o estatuto de expedidor registado devem apresentar o pedido dirigido à estância aduaneira competente, mediante preenchimento de formulário disponibilizado no sítio da Internet da AT, estando dependente da verificação da idoneidade fiscal do interessado e demais requisitos fixados na lei.
+
+2 - Para efeitos do número anterior, são cumulativos para a concessão do estatuto os seguintes requisitos:
+
+a) O comerciante em nome individual ou qualquer dos sócios, gerentes ou administradores, no caso de pessoa coletiva, não ter sido condenado por crime tributário ou por contraordenação tributária punível com coima igual ou superior a 5 000 (euro) nos últimos cinco anos;
+
+b) Inexistência de dívidas tributárias ou contributivas em fase de cobrança coerciva, sem que haja reclamação graciosa, impugnação judicial, recurso judicial, oposição à execução ou pagamento em prestações com prestação de garantia.
+
+3 - No prazo de 30 dias, a autorização é comunicada ao interessado, indicando a data a partir da qual produz efeitos e o respectivo registo alfanumérico.
+
+4 - A manutenção do estatuto de expedidor registado depende da verificação dos requisitos fixados nos n.os 1 e 2, bem como do cumprimento das obrigações previstas no n.º 2 do artigo anterior, sem prejuízo das demais obrigações legais que sobre aquele impendem.
+
+5 - O incumprimento do prazo referido no n.º 3, contado a partir da data de apresentação do pedido na estância aduaneira competente, faz presumir o seu indeferimento para efeitos de recurso por via hierárquica ou contenciosa.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 33.º — Revogação das autorizações
+
+1 - As autorizações a que se referem os artigos 24.º, 29.º, 30.º e 32.º podem ser revogadas a pedido do respectivo titular ou por decisão do director da alfândega.
+
+2 - Constituem fundamento da decisão oficiosa de revogação, sem prejuízo da instauração de processo por infracção tributária, nomeadamente as seguintes situações:
+
+a) A não observância reiterada das obrigações estabelecidas neste Código ou nas disposições adoptadas para a sua aplicação;
+
+b) O não pagamento do imposto, na situação prevista no n.º 1 do artigo 13.º;
+
+c) A não utilização do estatuto fiscal para os fins para que foi constituído;
+
+d) O não exercício da actividade que justifique a manutenção do estatuto;
+
+e) A não observância superveniente dos requisitos fixados, consoante o caso, na alínea a) do n.º 1 e no n.º 2 do artigo 23.º, no n.º 1 do artigo 29.º e no n.º 2 do artigo 32.º.
+
+3 - Para efeitos da alínea d) do número anterior, considera-se que não é exercida actividade quando, nomeadamente, durante um período superior a 90 dias não ocorra qualquer movimento de entrada ou saída de produtos sujeitos a impostos especiais de consumo no entreposto fiscal de armazenagem ou, no caso dos destinatários registados, não haja qualquer recepção daqueles produtos.
+
+4 - A decisão de revogação é notificada ao interessado, através de carta registada, após a audição prévia nos termos legais, podendo esta ser dispensada, mediante decisão do diretor-geral da AT, quando seja razoavelmente de prever que a diligência possa comprometer a execução ou a utilidade da decisão.
+
+5 - A estância aduaneira competente determina o procedimento e os prazos relativos à execução da decisão de revogação, nomeadamente o destino a atribuir aos produtos que se encontrem em regime de suspensão do imposto.
+
+6 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos estatutos previstos nos artigos 60.º-A e 60.º-B.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 34.º — Validade e conservação dos documentos
+
+1 - Os dados relativos ao documento administrativo electrónico e à declaração de introdução no consumo, que constem no sistema informatizado nacional, prevalecem sobre quaisquer outros documentos.
+
+2 - Todos os documentos que titulam ou suportam o processo declarativo previsto no presente Código devem ser conservados pelo prazo de quatro anos a contar da sua emissão ou validação, consoante o caso.
+
+### Capítulo IV — Circulação em regime de suspensão
+
+###### Artigo 35.º — Regime geral de circulação
+
+1 - A circulação de produtos sujeitos a impostos especiais de consumo, em regime de suspensão do imposto, efectua-se de um entreposto fiscal para:
+
+a) Outro entreposto fiscal;
+
+b) Um destinatário registado;
+
+c) Um dos destinatários isentos previstos no n.º 1 do artigo 6.º, se os produtos forem expedidos de outro Estado membro;
+
+d) O local de saída do território da União Europeia;
+
+e) A estância aduaneira de saída, nos casos previstos nos termos do n.º 5 do artigo 329.º do Regulamento de Execução (UE) 2015/2447 da Comissão, de 24 de novembro de 2015, que é simultaneamente a estância aduaneira de partida para o regime de trânsito externo, nos casos previstos nos termos do n.º 4 do artigo 189.º do Regulamento Delegado (UE) 2015/2446, de 28 de julho de 2015.
+
+2 - A circulação de produtos sujeitos a impostos especiais de consumo, em regime de suspensão do imposto, pode ainda efetuar-se de um local de importação, por um expedidor registado, para qualquer um dos destinos referidos no número anterior.
+
+3 - Sem prejuízo do disposto nos números anteriores, são permitidas operações de circulação em regime de suspensão do imposto no território nacional que envolvam a contentorização ou mudança do meio de transporte, desde que se realizem em armazéns de exportação, devidamente autorizados pela estância aduaneira competente.
+
+4 - Em derrogação dos n.os 1 e 2, os produtos sujeitos a impostos especiais de consumo podem circular em regime de suspensão do imposto para um local de entrega direta, situado em território nacional, designado pelo depositário autorizado ou pelo destinatário registado, salvo se este último estiver limitado a um único local de receção ou se se tratar de um destinatário registado temporário, nos termos previstos no artigo 30.º
+
+5 - Exceto nos casos em que a importação ocorra num entreposto fiscal, os produtos sujeitos a impostos especiais de consumo apenas podem ser retirados do local de importação, em regime de suspensão do imposto, se o declarante ou qualquer pessoa direta ou indiretamente envolvida no cumprimento de formalidades aduaneiras, nos termos do artigo 15.º do Regulamento (UE) 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União, apresentar à autoridade aduaneira os seguintes elementos:
+
+a) O número único de imposto especial de consumo, em conformidade com a alínea a) do n.º 2 do artigo 19.º do Regulamento (UE) 389/2012 do Conselho, de 2 de maio de 2012, que identifica o expedidor registado para o movimento;
+
+b) O número único de imposto especial de consumo, em conformidade com a alínea a) do n.º 2 do artigo 19.º do Regulamento (UE) 389/2012 do Conselho, de 2 de maio de 2012, que identifica o destinatário dos produtos expedidos; e
+
+c) A prova de que os produtos importados se destinam a ser expedidos do território nacional para o território de outro Estado-Membro, caso aplicável.
+
+6 - O presente capítulo não é aplicável à circulação de bebidas não alcoólicas, em regime de suspensão do imposto, a qual se efetua nos termos do artigo 87.º-E.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 36.º — Formalidades na circulação
+
+1 - A circulação de produtos sujeitos a impostos especiais de consumo, em regime de suspensão do imposto, é efectuada a coberto de um documento administrativo electrónico.
+
+2 - O documento administrativo eletrónico é processado por transmissão eletrónica de dados, devendo ser apresentado, para efeitos de validação, com a antecedência máxima de sete dias relativamente à data de expedição nele indicada, através do sistema informatizado a que se refere o artigo 1.º da Decisão (UE) 2020/263 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2020, relativa à informatização da circulação e dos controlos dos produtos sujeitos a impostos especiais de consumo.
+
+3 - Após a validação do documento administrativo electrónico, o sistema informatizado atribui o respectivo código de referência administrativo.
+
+4 - A circulação referida no n.º 1 deve ser acompanhada pela versão impressa do documento administrativo electrónico ou por qualquer outro documento comercial que mencione, de forma claramente identificável, o código de referência administrativo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 37.º — Início da expedição
+
+1 - A circulação de produtos sujeitos a impostos especiais de consumo, em regime de suspensão do imposto, tem início na data em que os produtos saem do entreposto fiscal de expedição ou, no caso de importação, na data da sua introdução em livre prática, nos termos da legislação aduaneira aplicável.
+
+2 - As datas referidas no número anterior reportam-se ao dia e hora de expedição inscritos no documento administrativo eletrónico.
+
+3 - Para efeitos do presente Código, entende-se por «expedição» a saída de produtos sujeitos a impostos especiais de consumo do entreposto fiscal ou do local de importação, desde que cumpridas as formalidades aplicáveis.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 38.º — Incidentes
+
+1 - O documento administrativo electrónico pode ser rectificado ou anulado até à data de início da expedição nele indicada, nos termos do Regulamento (CE) n.º <a href="eurlex.asp?ano=2009&id=309R0684" title="Link para Regulamento da Comunidade Europeia">684/2009</a>, da Comissão, de 24 de Julho.
+
+2 - Sempre que se verifiquem eventos susceptíveis de afectar a normalidade da circulação, o expedidor ou o destinatário devem, de imediato, comunicá-los à estância aduaneira competente.
+
+###### Artigo 39.º — Alteração de destino e destino incerto
+
+1 - No decurso da circulação em regime de suspensão do imposto, o expedidor pode alterar o destino ou o destinatário, indicando um novo destino ou destinatário, em conformidade com os n.os 1 e 4 do artigo 35.º, salvo nos casos previstos na alínea c) do n.º 1 e no n.º 2 do mesmo artigo.
+
+2 - Para efeitos do número anterior, o expedidor deve apresentar, através do sistema informatizado, um projeto de documento eletrónico de alteração do destino ou destinatário.
+
+3 - Na circulação de produtos petrolíferos e energéticos em regime de suspensão do imposto, por via marítima ou via navegável interior, para um destinatário desconhecido no momento da apresentação do documento administrativo eletrónico referido no n.º 1 do artigo 36.º, o expedidor pode não preencher os dados respeitantes ao destinatário, desde que previamente autorizado pela estância aduaneira competente.
+
+4 - Para efeitos do número anterior, logo que o destinatário seja conhecido, e o mais tardar até ao termo da circulação, o expedidor deve completar o preenchimento do documento administrativo eletrónico.
+
+5 - A alteração de destino processada por um expedidor certificado deve limitar-se a um novo local de receção, autorizado ao mesmo destinatário certificado e situado no mesmo Estado-Membro de destino, ou ao local de expedição dos produtos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 39.º-A — Tratamento do documento administrativo eletrónico na exportação
+
+1 - Quando a exportação se efetuar através do território nacional, a autoridade aduaneira deve verificar, antes da autorização de saída dos produtos, se os dados do documento administrativo eletrónico correspondem aos constantes da declaração de exportação.
+
+2 - Caso se verifiquem quaisquer incoerências entre o documento administrativo eletrónico e a declaração de exportação ou os produtos deixem de se destinar a exportação, a autoridade aduaneira deve, através do sistema informatizado, notificar desse facto as autoridades competentes do Estado-Membro de expedição.
+
+3 - Em caso de expedição com origem no território nacional, a autoridade aduaneira deve transmitir ao expedidor a notificação a que se refere o número anterior, o qual, após a sua receção, deve cancelar o documento administrativo eletrónico ou alterar o destino dos produtos, consoante o caso.
+
+> Nota: [Artigo 7.º, Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185) Até 13 de fevereiro de 2024, as notificações previstas no presente artigo, podem ser efetuadas por outros meios que não o sistema informatizado referido.
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 40.º — Controlo na circulação
+
+1 - No decorrer da circulação em regime de suspensão do imposto, devem ser apresentados às autoridades competentes, sempre que solicitados no âmbito de um controlo, o documento referido no n.º 4 do artigo 36.º bem como os produtos transportados.
+
+2 - Caso sejam detectadas irregularidades ou discrepâncias entre os produtos efectivamente transportados e o documento administrativo electrónico, as autoridades devem proceder à elaboração do respectivo relatório de controlo, sem prejuízo das demais medidas que se revelem adequadas.
+
+###### Artigo 41.º — Inacessibilidade do sistema informatizado na expedição
+
+1 - Quando, por razões que não lhe sejam exclusivamente imputáveis, o expedidor não possa proceder ao envio de um documento administrativo electrónico, a operação de circulação pode ainda assim ter início desde que:
+
+a) Os produtos sejam acompanhados por um documento em suporte papel que contenha os mesmos dados que devem constar do documento administrativo electrónico;
+
+b) Antes do início da operação de circulação, o expedidor informe a estância aduaneira competente da impossibilidade de aceder ao sistema informatizado.
+
+2 - Quando o sistema informatizado se encontrar de novo acessível, o expedidor deve enviar um documento administrativo electrónico à estância aduaneira competente, de acordo com o previsto no n.º 1 do artigo 36.º, o qual deve conter toda a informação que foi declarada no documento em suporte papel, e que prevalece sobre este último após a validação pelo sistema informatizado.
+
+3 - Enquanto não for possível o envio do documento administrativo electrónico, considera-se que a circulação em regime de suspensão do imposto é efectuada a coberto do documento em suporte papel.
+
+4 - O expedidor deve manter nos seus registos uma cópia do exemplar do documento referido na alínea a) do n.º 1.
+
+5 - Caso pretenda efectuar uma alteração de destino durante a inacessibilidade do sistema, o expedidor deve previamente informar a estância aduaneira competente.
+
+6 - O documento referido na alínea a) do n.º 1 deve ser disponibilizado ao transportador e, no caso de uma exportação, ao declarante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+###### Artigo 42.º — Termo da operação de circulação
+
+A circulação em regime de suspensão do imposto termina:
+
+a) Nos casos referidos nas alíneas a) a c) do n.º 1 do artigo 35.º, e nos casos análogos ao abrigo dos n.os 2 e 4 do mesmo artigo, na data da entrega do relatório de receção pelo destinatário; ou
+
+b) Nos casos referidos na alínea d) e e) do n.º 1 do artigo 35.º, e nos casos análogos ao abrigo dos n.os 2 e 3 do mesmo artigo, na data em que os produtos saem do território aduaneiro da União Europeia ou são sujeitos ao regime de trânsito externo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 43.º — Formalidades na recepção
+
+1 - No momento da receção dos produtos ou, o mais tardar, no prazo de cinco dias úteis a contar da mesma, o destinatário deve enviar, por transmissão eletrónica de dados, o respetivo relatório de receção, salvo em caso de atraso, devidamente justificado e aceite pela estância aduaneira competente.
+
+2 - Sempre que os produtos se destinem às entidades referidas nas alíneas a) a d) do n.º 1 do artigo 6.º, o relatório de receção deve ser enviado pela estância aduaneira do local de receção.
+
+3 - No caso de uma exportação, deve ser enviado o relatório de exportação ou a certificação de saída, emitidos, respetivamente, pela estância aduaneira de exportação ou pela estância aduaneira de saída, de acordo com a legislação aduaneira aplicável.
+
+4 - Sem prejuízo do disposto no artigo anterior, a operação de circulação considera-se apurada pelo relatório de receção ou, tratando-se de uma exportação, pelo relatório de exportação ou pela certificação de saída.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+###### Artigo 44.º — Inacessibilidade do sistema informatizado na recepção
+
+1 - Quando, por razões que não lhe sejam exclusivamente imputáveis, o destinatário não possa proceder ao envio do relatório de recepção, deve apresentar junto da estância aduaneira competente um relatório de recepção em suporte papel.
+
+2 - No caso previsto no número anterior, a estância aduaneira competente no local da receção deve remeter à autoridade competente no local de expedição uma cópia do relatório de receção, devendo esta disponibilizá-lo ao expedidor.
+
+3 - Logo que o sistema informatizado se encontre de novo acessível, o destinatário deve enviar um relatório de recepção electrónico, de acordo com o previsto no n.º 1 do artigo 43.º, o qual deve conter toda a informação constante no relatório de recepção em suporte papel.
+
+4 - Quando, numa exportação, o relatório de exportação não puder ser elaborado em formato electrónico por razões de inacessibilidade do sistema, a estância aduaneira competente deve informar o expedidor do apuramento da operação de circulação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+###### Artigo 45.º — Provas alternativas de receção e prova de saída
+
+1 - Na ausência do relatório de receção, no caso de uma expedição, ou do relatório de exportação ou da certificação de saída, no caso de uma exportação, bem como do documento previsto no n.º 1 do artigo anterior, e não tendo ocorrido nenhuma das situações previstas no referido artigo, podem ser admitidas, em casos devidamente fundamentados, para efeitos do apuramento da operação de circulação, as seguintes provas:
+
+a) Na expedição, a confirmação pelas autoridades competentes no destino, no âmbito de um processo de cooperação administrativa, de que os produtos foram rececionados pelo destinatário, ou, em alternativa, o documento previsto na alínea a) do n.º 1 do artigo 41.º;
+
+b) Na exportação, a confirmação pelas autoridades aduaneiras de exportação de que os produtos saíram do território da União Europeia ou a certificação de que foram sujeitos ao regime de trânsito externo.
+
+2 - Para além do disposto na alínea b) do número anterior, a autoridade aduaneira pode ainda ter em conta qualquer combinação dos seguintes elementos de prova:
+
+a) Uma nota de entrega;
+
+b) Um documento assinado ou autenticado pelo operador económico que retirou os produtos do território aduaneiro da União Europeia que certifique essa saída;
+
+c) Um documento no qual a autoridade aduaneira de um Estado-Membro ou de um país terceiro certifique a entrega, em conformidade com as regras e procedimentos aplicáveis à certificação nesse Estado-Membro ou país;
+
+d) Registos de produtos fornecidos a navios, aeronaves ou instalações offshore mantidos pelos operadores económicos; ou
+
+e) Outras provas consideradas relevantes pela autoridade aduaneira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 46.º — Irregularidades na circulação em regime de suspensão de imposto
+
+1 - Sempre que, durante a circulação em regime de suspensão do imposto, seja cometida ou detectada em território nacional uma irregularidade, o imposto torna-se exigível nos termos do artigo 8.º
+
+2 - No caso de produtos expedidos de outro Estado membro, a autoridade aduaneira informa as autoridades competentes desse Estado membro de que procedeu à cobrança do imposto em território nacional.
+
+3 - Se os produtos sujeitos a imposto, expedidos do território nacional, não chegarem ao destino e não for possível determinar o local da irregularidade, considera-se que essa irregularidade foi cometida naquele território.
+
+4 - Nos casos referidos no n.º 1, o imposto é liquidado à taxa em vigor à data da constatação da irregularidade e, no caso referido no n.º 3, à taxa em vigor à data da expedição, salvo se, no prazo de quatro meses contado dessa última data, for apresentada à autoridade aduaneira prova suficiente da regularidade da operação ou do local onde a infracção ou a irregularidade foi efectivamente cometida.
+
+5 - Em qualquer das situações referidas nos números anteriores, o imposto é cobrado à pessoa singular ou colectiva que se tenha constituído como garante da operação de circulação, sem prejuízo da instauração de processo por infracção fiscal.
+
+6 - Na situação referida no n.º 3, se o garante não tiver ou puder não ter tido conhecimento de que os produtos não chegaram ao destino, é-lhe concedido o prazo de um mês a contar da notificação da intenção de proceder à liquidação para apresentar prova do termo da circulação ou do local em que ocorreu a irregularidade.
+
+7 - No prazo de três anos a contar da data do início da operação de circulação, o garante pode solicitar à estância aduaneira competente o reembolso do imposto se apresentar prova suficiente de que o imposto foi cobrado no outro Estado membro onde se apurou ter sido cometida a irregularidade.
+
+8 - Para efeitos do presente Código, entende-se por 'irregularidade na circulação' uma situação que ocorra durante a circulação de produtos sujeitos a impostos especiais de consumo, e devido à qual a circulação ou parte da mesma não tenha terminado de forma regular, incluindo a falta de registo ou certificação de uma ou de todas as pessoas envolvidas na circulação.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+### Capítulo V — Perdas e Inutilização
+
+###### Artigo 47.º — Regras gerais
+
+1 - A perda irreparável ou a inutilização total dos produtos em regime de suspensão do imposto não é tributável, quando devida a caso fortuito ou de força maior, nos termos do artigo 50.º, ou na sequência de autorização da estância aduaneira competente.
+
+2 - A perda parcial de produtos pode ocorrer por causa inerente à sua própria natureza, nos termos e nos limites fixados nos artigos 48.º e 49.º
+
+3 - A inutilização de produtos deve efectuar-se sob controlo aduaneiro nos termos do artigo 52.º
+
+4 - Para efeitos do número anterior, e quando a entidade apreensora ou à ordem da qual estejam depositados os produtos não for a autoridade aduaneira, a referida entidade deve comunicar a esta autoridade o método, o local e a data em que o produto será inutilizado.
+
+5- Para efeitos do presente artigo, considera-se que os produtos se encontram totalmente inutilizados ou irreparavelmente perdidos quando deixem de poder ser utilizados como produtos sujeitos a impostos especiais de consumo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 48.º — Perdas na armazenagem
+
+1 - Para efeitos do disposto no n.º 4 do artigo 9.º, não são tributáveis as perdas inerentes à natureza dos produtos correspondentes às diferenças, para menos, entre o saldo contabilístico e as existências em entreposto, calculadas sobre a soma das quantidades de produto existentes em entreposto com as quantidades nele entradas, após o último varejo, com os seguintes limites:
+
+a) Até 1,5 %, no caso de álcool e bebidas alcoólicas não engarrafados;
+
+b) Até 0,4 %, no caso dos produtos petrolíferos e energéticos.
+
+2 - O limite previsto na alínea a) do número anterior pode ser ajustado em casos específicos, na destilação de vinhos e no envelhecimento de bebidas alcoólicas em vasilhame de madeira.
+
+3 - O disposto nos números anteriores é aplicável aos produtos acabados que permaneçam em entreposto fiscal de produção.
+
+4 - No caso de, no ano anterior ao período abrangido por ação inspetiva, não ter ocorrido nenhum varejo, devem ser consideradas as quantidades constantes do inventário, relativo a esse ano, para apuramento do custo das mercadorias vendidas e das matérias consumidas.
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+###### Artigo 49.º — Perdas na circulação
+
+1 - Para efeitos do disposto no n.º 4 do artigo 9.º, não são tributáveis as perdas inerentes à natureza dos produtos, ocorridas na circulação em regime de suspensão do imposto, até ao limite de 0,3 %, no caso do álcool e bebidas alcoólicas não engarrafados calculado sobre as quantidades constantes do documento administrativo eletrónico.
+
+2 - Ainda para efeitos do disposto no n.º 4 do artigo 9.º, no caso dos produtos petrolíferos e energéticos, não são tributáveis as perdas inerentes à natureza dos produtos, ocorridas na circulação em regime de suspensão do imposto, até aos seguintes limites calculados sobre as quantidades constantes do documento administrativo eletrónico:
+
+a) Até 0,5 %, para os produtos classificados pelos códigos NC 2710 11 41 a 2710 11 59, 2710 19 21, 2710 19 25 e 2710 19 31 a 2710 19 49, e 0,4 %, para os produtos classificados pelos códigos NC 2710 19 51 a 2710 19 69, se o meio de transporte utilizado for navio-tanque e a carga, por produto, for inferior, respetivamente, a 1 400 000 l a 15ºC ou a 1000 kg-ar;
+
+b) Até 0,35 %, para os produtos classificados pelos códigos NC 2710 11 41 a 2710 11 59, 2710 19 21, 2710 19 25 e 2710 19 31 a 2710 19 49, e 0,4 %, para os produtos classificados pelos códigos NC 2710 19 51 a 2710 19 69, se o meio de transporte utilizado for navio-tanque e a carga, por produto, for superior, respetivamente, a 1 400 000 l a 15ºC ou a 1000 kg-ar;
+
+c) Até 0,3 %, para os produtos classificados pelos códigos NC 2710 11 41 a 2710 11 59, 2710 19 21, 2710 19 25 e 2710 19 31 a 2710 19 49, e 0,2 %, para os produtos classificados pelos códigos NC 2710 19 51 a 2710 19 69, se o meio de transporte utilizado for vagão-cisterna ou camião-cisterna;
+
+d) Até 0,03 %, para os produtos classificados pelos códigos NC 2710 11 41 a 2710 11 59, 2710 19 21, 2710 19 25 e 2710 19 31 a 2710 19 49, e 0,02 %, para os produtos classificados pelos códigos NC 2710 19 51 a 2710 19 69, se a transferência for efetuada por tubagem;
+
+e) Para os óleos leves, não abrangidos pelas alíneas anteriores, e para os gases de petróleo liquefeitos, até 0,4 % se o meio de transporte utilizado for navio-tanque, até 0,5 % se o meio de transporte utilizado for vagão-cisterna ou camião-cisterna e até 0,02 % se a transferência for efetuada por tubagem;
+
+f) Aos biocombustíveis puros são aplicáveis os limites para perdas previstos nas alíneas anteriores para os produtos petrolíferos e energéticos nos quais são incorporados.
+
+3 - As franquias previstas nos números anteriores não são aplicáveis, quando haja indícios da prática de irregularidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 50.º — Perdas por caso fortuito ou de força maior
+
+1 - Não são tributáveis as perdas devidas a caso fortuito ou de força maior, desde que não tenha havido negligência grave e sejam comunicadas à autoridade aduaneira, para efeitos de confirmação e apuramento, até ao 2.º dia útil seguinte ao da sua ocorrência.
+
+2 - Para efeitos do número anterior, deve ser feita prova suficiente da perda irreparável dos produtos junto da estância aduaneira em cuja jurisdição ocorreu a perda ou, não sendo possível a sua determinação, junto da estância aduaneira em cuja jurisdição a perda foi constatada.
+
+3 - A garantia prevista no artigo 55.º só é liberada, total ou parcialmente, após apresentação de prova satisfatória perante a estância aduaneira competente.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+###### Artigo 51.º — Perdas tributáveis
+
+1 - As perdas que ultrapassem os limites fixados nos artigos 48.º e 49.º estão sujeitas a imposto, exigível, consoante o caso, ao depositário autorizado na armazenagem ou a quem se constituiu garante da operação de circulação, devendo o imposto ser liquidado segundo as regras estabelecidas no n.º 3 do artigo 11.º
+
+2 - Para efeitos do disposto no número anterior, o imposto é liquidado apenas sobre as quantidades que excedam os limites fixados nos artigos 48.º e 49.º
+
+###### Artigo 52.º — Inutilização sob controlo aduaneiro
+
+Não estão sujeitos ao pagamento do imposto os produtos inutilizados mediante autorização e sob controlo da estância aduaneira competente.
+
+### Capítulo VI — Garantias
+
+###### Artigo 53.º — Regras gerais
+
+1 - A armazenagem e a circulação dos produtos sujeitos a impostos especiais de consumo dependem da constituição prévia de uma garantia.
+
+2 - As garantias previstas no presente Código podem ser prestadas em numerário, fiança bancária ou seguro-caução.
+
+3 - O termo de garantia deve conter uma cláusula em que o garante expressamente se obrigue, perante a autoridade aduaneira, como principal pagador até ao montante máximo garantido, renunciando ao benefício da excussão.
+
+4 - Estão dispensadas da prestação de garantia as situações em que o montante de imposto a garantir seja inferior ao montante previsto no n.º 3
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 54.º — Garantias de armazenagem
+
+1 - O titular de entreposto fiscal de armazenagem deve prestar uma garantia inicial, cujo montante corresponda a 2 % da previsão média mensal do imposto exigível pelos produtos a entrar em entreposto no primeiro ano de actividade, computando-se, no caso de produtos isentos, o imposto que seria devido pela introdução no consumo destes produtos.
+
+2 - Os organismos públicos e outras entidades que exerçam funções de intervenção, controlo da qualidade e defesa da denominação de origem dos produtos sujeitos a imposto, que sejam titulares de entrepostos fiscais, ficam dispensados da constituição de garantia.
+
+3 - A armazenagem de produtos sujeitos a impostos especiais de consumo tributados à taxa 0 está dispensada da constituição de garantia.
+
+4 - O álcool resultante de medidas de intervenção comunitária não é considerado para o cômputo da garantia referida no n.º 1.
+
+5 - No caso de ser titular de mais de um entreposto fiscal, o depositário autorizado pode prestar uma garantia global única, equivalente à soma das garantias constituídas para cada entreposto.
+
+###### Artigo 55.º — Garantias de circulação
+
+1 - Os riscos inerentes à circulação de produtos em regime de suspensão são cobertos por uma garantia prestada pelo depositário autorizado ou pelo expedidor registado.
+
+2 - Em derrogação do disposto no número anterior, a garantia pode ainda ser prestada pelo transportador junto da estância aduaneira competente.
+
+3 - Os riscos inerentes às operações de circulação que ocorram integralmente no território nacional, e desde que o garante seja o expedidor, podem ser cobertos pela garantia prevista no artigo anterior.
+
+4 - A garantia pode ser prestada de forma global para várias operações de circulação, ou de forma isolada para uma única operação, sendo válida em todo o território comunitário.
+
+5 - A garantia global prestada pelas pessoas referidas nos n.os 1 e 2 é fixada no montante mínimo de 10 % da média mensal do imposto correspondente às operações de circulação realizadas no ano anterior ou, no caso de início de actividade, da previsão média mensal para o primeiro ano.
+
+6 - A garantia isolada deve corresponder ao montante total do imposto que seria devido pela introdução no consumo dos produtos em circulação.
+
+7 - Em cada operação de circulação deve ser invocada uma única garantia válida, cujo montante não pode ser inferior ao montante do imposto em causa nessa operação.
+
+8 - Sem prejuízo do regime aplicável aos pequenos produtores de vinho, os expedidores de produtos tributados à taxa 0 devem prestar uma garantia global anual de (euro) 2500 a (euro) 15 000, consoante a frequência das expedições para outros Estados membros, podendo a estância aduaneira competente autorizar a redução do montante mínimo, tratando-se de remessas ocasionais.
+
+9 - Ficam dispensados da prestação da garantia de circulação os produtos petrolíferos e energéticos expedidos por via marítima ou por condutas fixas, com destino:
+
+a) Ao território nacional;
+
+b) A outro Estado-Membro ou, quando expedidos por via marítima, com o acordo desse Estado.
+
+10 - No caso da circulação ocorrida integralmente no território nacional, estão ainda dispensados da prestação de garantia os organismos e entidades referidos no n.º 2 do artigo anterior, bem como os produtos tributados à taxa zero.
+
+11 - A responsabilidade do garante cessa quando for emitido o respectivo relatório de recepção ou, tratando-se de uma exportação, o relatório de exportação ou a certificação de saída.
+
+12 - Tratando-se de bebidas não alcoólicas, a responsabilidade do garante cessa com a receção desses produtos pelo destinatário.
+
+13 - Sem prejuízo do regime aplicável aos pequenos produtores de vinho, o montante mínimo de fixação da garantia prevista no n.º 5 é reduzido para metade para os expedidores de produtos tributados à taxa 0 e para expedidores de produtos intermédios.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 56.º — Garantia do destinatário registado
+
+1 - O destinatário registado presta uma garantia, cujo montante é calculado com base na média mensal do imposto resultante das declarações de introdução no consumo processadas no ano anterior ou, no caso de início de atividade, da previsão média mensal para o primeiro ano.
+
+2 - A garantia prevista no número anterior deve ser igual ao montante resultante da aplicação das seguintes percentagens:
+
+a) 25 % da média mensal do imposto, salvo o disposto na alínea seguinte;
+
+b) 50 % da média mensal do imposto no caso dos tabacos manufaturados, gasolinas e gasóleos.
+
+3 - Por despacho fundamentado do diretor da estância aduaneira competente, a percentagem referida na alínea b) do número anterior pode ser reduzida, em 25 pontos percentuais, caso se verifique o regular cumprimento das obrigações inerentes ao respetivo estatuto no ano anterior.
+
+4 - Na situação prevista no artigo 30.º, deve ser prestada uma garantia de montante igual ou superior ao imposto resultante de cada recepção efectuada.
+
+> Nota: [Artigo 7.º, Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185) A alteração ao presente artigo aplica-se: a) Aos operadores a quem seja concedido estatuto de destinatário registado após 1 de janeiro de 2023; e b) Aos operadores cujos procedimentos de concessão do estatuto de destinatário registado se encontrem pendentes a 1 de janeiro de 2023.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 57.º — Cumulação de garantias
+
+1 - Pode ser prestada uma garantia global única para cobrir todos os riscos inerentes à armazenagem e circulação dos produtos sujeitos a impostos especiais de consumo, cujo montante deve corresponder à soma das garantias previstas nos artigos 54.º e 55.º
+
+2 - No caso de coexistirem, nas mesmas instalações, entreposto aduaneiro e entreposto fiscal, a estância aduaneira competente pode autorizar a constituição de uma garantia global única, cujo montante deve corresponder à soma da garantia calculada nos termos do n.º 1, com a garantia do entreposto aduaneiro, calculada nos termos da legislação aplicável.
+
+3 - O termo de garantia deve conter uma cláusula em que o garante expressamente se obrigue perante a autoridade aduaneira como principal pagador até ao montante máximo garantido.
+
+###### Artigo 58.º — Ajuste das garantias
+
+1 - Por iniciativa da estância aduaneira competente ou do garante, os montantes das garantias previstas no presente capítulo são ajustados em função da alteração das circunstâncias.
+
+2 - Para efeitos do número anterior, os montantes das garantias devem ser periodicamente revistos, para que se mantenham actualizados em relação às percentagens que, nos termos dos artigos 54.º, 55.º e 56.º, serviram de base à respectiva fixação.
+
+###### Artigo 59.º — Validade das garantias
+
+Sem prejuízo das disposições aplicáveis à circulação, as garantias previstas no presente capítulo são válidas por um ano a contar da data da sua constituição, sendo automaticamente renováveis por iguais períodos de tempo, salvo denúncia expressa com a antecedência mínima de 30 dias.
+
+### Capítulo VII — Circulação e tributação após a introdução no consumo
+
+###### Artigo 60.º — Produtos adquiridos para fins comerciais
+
+1 - Os produtos já introduzidos no consumo noutro Estado membro que forem adquiridos para fins comerciais ou para consumo próprio, que não seja considerado uma aquisição para uso pessoal, nos termos do artigo seguinte, estão sujeitos a imposto no território nacional.
+
+2 - Os produtos referidos no número anterior podem circular entre o território dos outros Estados-Membros e o território nacional, e entre dois locais do território nacional, com passagem pelo território de um outro Estado-Membro, a coberto de um documento administrativo simplificado eletrónico, desde que provenientes de um expedidor certificado para um destinatário certificado.
+
+3 - O destinatário certificado e o expedidor certificado devem cumprir as obrigações previstas nos artigos 60.º-A e 60.º-B, respetivamente.
+
+4 - Para efeitos do número anterior, o depositário autorizado, o expedidor registado e o destinatário registado podem igualmente obter os estatutos de expedidor ou destinatário certificados.
+
+5 - À circulação referida no n.º 2 são aplicáveis as regras previstas nos artigos 36.º a 41.º e 43.º a 46.º, com as necessárias adaptações.
+
+6 - A circulação ao abrigo do presente artigo tem início na data em que os produtos saem das instalações do expedidor certificado e termina na data de entrega dos mesmos ao destinatário certificado.
+
+7 - São aplicáveis aos casos de perda ou inutilização dos produtos ocorridas na circulação as regras constantes dos artigos 47.º, 49.º e 50.º, com as necessárias adaptações.
+
+8 - À circulação de produtos já introduzidos no consumo entre o continente e as Regiões Autónomas dos Açores e da Madeira, e vice-versa, e entre as Regiões Autónomas, são aplicáveis as regras previstas nos números anteriores, com as devidas adaptações.
+
+9 - Para efeitos do presente artigo, entendem-se por 'entregues para fins comerciais' os produtos que tiverem sido introduzidos no consumo noutro Estado-Membro, expedidos para o território nacional e forem entregues a uma pessoa que não seja um particular ou a um particular se a circulação não estiver abrangida pelos artigos 61.º a 63.º
+
+> Nota: [Artigo 7.º, Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185) Até 31 de dezembro de 2023, os produtos já introduzidos no consumo noutro Estado-Membro que forem adquiridos nos termos do n.º 1 do presente artigo, podem circular e ser rececionados no território nacional a coberto do documento de acompanhamento previsto no Regulamento (CEE) 3649/92, da Comissão, de 17 de dezembro, ao abrigo das formalidades estabelecidas nos artigos 33.º, 34.º e 35.º da Diretiva 2008/118/CE, do Conselho, de 16 de dezembro de 2008.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 60.º-A — Estatuto de destinatário certificado
+
+1 - Constitui 'destinatário certificado' a pessoa singular ou coletiva registada junto da autoridade aduaneira a fim de receber, no exercício da sua atividade, produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo noutro Estado-Membro e posteriormente transportados para o território nacional.
+
+2 - O destinatário certificado é o devedor do imposto especial de consumo exigível à data da receção dos produtos em território nacional, exceto nos casos previstos no artigo 65.º
+
+3 - O destinatário certificado deve cumprir as seguintes obrigações:
+
+a) Antes da expedição dos produtos com destino ao território nacional, presta uma garantia que cubra os riscos inerentes à introdução no consumo dos produtos que lhe sejam destinados, sendo a mesma válida em toda a União;
+
+b) Paga o imposto devido após a receção dos produtos; e
+
+c) Permite os controlos que possibilitem à autoridade aduaneira comprovar a efetiva receção dos produtos, bem como o pagamento do imposto devido.
+
+4 - Os operadores económicos que pretendam obter o estatuto de destinatário certificado devem efetuar um registo junto da estância aduaneira competente, mediante preenchimento de formulário disponibilizado no sítio da Internet da AT.
+
+5 - Cabe à estância aduaneira competente comunicar ao interessado o respetivo registo alfanumérico, indicando a data a partir da qual produz efeitos.
+
+6 - No caso de destinatários que pretendam apenas receber produtos ocasionalmente, a certificação limita-se a uma quantidade específica de produtos, a um único expedidor e a um período de tempo determinado.
+
+7 - Sem prejuízo do disposto no n.º 1, a certificação temporária pode ser concedida a particulares que atuem na qualidade de destinatários, sempre que os produtos sujeitos a impostos especiais de consumo sejam entregues para fins comerciais.
+
+8 - À garantia a que se refere a alínea a) do n.º 3, são aplicáveis as regras previstas no artigo 56.º, com as necessárias adaptações.
+
+9 - Em derrogação do disposto no número anterior, para além do destinatário certificado, a garantia pode ainda ser prestada pelo transportador, pelo proprietário dos produtos, pelo expedidor certificado ou solidariamente por qualquer combinação dessas pessoas.
+
+10 - Em qualquer operação de circulação, a garantia invocada deve cumprir o disposto no n.º 7 do artigo 55.º
+
+11 - Na falta de registo ou certificação de uma ou de várias pessoas envolvidas na circulação, essas pessoas tornam-se também devedores do imposto, a título solidário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+###### Artigo 60.º-B — Estatuto de expedidor certificado
+
+1 - Constitui 'expedidor certificado' a pessoa singular ou coletiva registada junto da autoridade aduaneira a fim de expedir, no exercício da sua atividade, produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo e posteriormente transportados para o território de outro Estado-Membro.
+
+2 - O expedidor certificado deve permitir os controlos que possibilitem à autoridade aduaneira comprovar a efetiva expedição dos produtos.
+
+3 - Os operadores económicos que pretendam obter o estatuto de expedidor certificado devem efetuar um registo junto da estância aduaneira competente, mediante preenchimento de formulário disponibilizado no sítio da Internet da AT.
+
+4 - Cabe à estância aduaneira competente comunicar ao interessado o respetivo registo alfanumérico, indicando a data a partir da qual produz efeitos.
+
+5 - No caso de expedidores que pretendam apenas enviar produtos ocasionalmente, a certificação limita-se a uma quantidade específica de produtos, a um único destinatário e a um período de tempo determinado.
+
+6 - Sem prejuízo do disposto no n.º 1, a certificação temporária pode ser concedida a pessoas singulares que atuem na qualidade de expedidores sempre que os produtos sujeitos a impostos especiais de consumo sejam expedidos para fins comerciais.
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 61.º — Produtos adquiridos para uso pessoal
+
+1 - Os produtos já introduzidos no consumo e adquiridos por particulares noutro Estado membro para seu uso pessoal, quando transportados pelos próprios para território nacional, não estão sujeitos a imposto, nos termos e limites previstos no presente artigo.
+
+2 - São critérios para determinação da aquisição para uso pessoal a que se refere o número anterior:
+
+a) O estatuto comercial e os motivos da detenção dos produtos;
+
+b) O local em que se encontram os produtos ou a forma de transporte utilizada;
+
+c) Qualquer documento relativo aos produtos;
+
+d) A natureza dos produtos;
+
+e) A quantidade dos produtos.
+
+3 - Para efeitos de aplicação da alínea e) do número anterior, presume-se que a detenção de tabaco manufacturado tem fins comerciais quando forem ultrapassados os seguintes limites quantitativos:
+
+a) Cigarros, 800 unidades;
+
+b) Cigarrilhas (charutos com um peso máximo de 3 g/unidade), 400 unidades;
+
+c) Charutos, 200 unidades;
+
+d) Tabaco para fumar, 1 kg.
+
+e) Rapé, 250 g;
+
+f) Tabaco de mascar, 250 g;
+
+g) Tabaco aquecido, 20 g;
+
+h) Líquido para cigarros eletrónicos em recipientes utilizados para carga e recarga de cigarros eletrónicos, 30 ml;
+
+i) Bolsas de nicotina, 20 g.
+
+4 - Para efeitos de aplicação da alínea e) do n.º 2, presume-se que a detenção de bebidas alcoólicas e de bebidas não alcoólicas tem fins comerciais quando forem ultrapassados os seguintes limites quantitativos:
+
+a) Bebidas espirituosas, 10 l;
+
+b) Produtos intermédios, 20 l;
+
+c) Vinhos (dos quais 60 l, no máximo, de vinhos espumantes), 90 l;
+
+d) Cervejas, 110 l.
+
+e) Bebidas não alcoólicas, 20 l.
+
+5 - Presume-se que a detenção de produtos petrolíferos não se destina ao uso pessoal do seu detentor quando forem transportados por formas de transporte atípicas, efectuadas por particulares ou por sua conta.
+
+6 - Para efeitos do número anterior, considera-se forma de transporte atípica o transporte de combustível que não se encontre no reservatório de um veículo, ou num recipiente de reserva apropriado, até ao limite de 10 l, bem como o transporte de produtos líquidos para aquecimento que não seja efectuado em camiões-cisterna utilizados por operadores profissionais.
+
+7 - Os produtos adquiridos em território nacional por particulares de outros Estados membros, para seu uso pessoal e transportados pelos próprios, estão sujeitos a imposto.
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 62.º — Compras à distância
+
+1 - Estão sujeitos a imposto os produtos introduzidos no consumo noutro Estado-Membro, quando adquiridos por pessoas residentes em território nacional, que não detenham qualquer estatuto previsto no Código, nem exerçam qualquer atividade económica independente, e sejam expedidos ou transportados, direta ou indiretamente, para o território nacional, pelo vendedor ou por sua conta, no âmbito de uma atividade económica independente.
+
+2 - Para efeitos do artigo 8.º, o imposto torna-se exigível no momento da entrega dos produtos em território nacional.
+
+3 - As operações referidas nos números anteriores só podem ser efetuadas através de um representante fiscal estabelecido em território nacional e autorizado pela estância aduaneira competente.
+
+4 - O representante fiscal deve cumprir as seguintes obrigações:
+
+a) Antes da expedição dos produtos com destino ao território nacional, apresentar uma declaração junto da estância aduaneira competente do local de receção e garantir o pagamento do imposto;
+
+b) Após a receção dos produtos, apresentar nessa estância aduaneira cópia do documento previsto no n.º 2 do artigo 60.º e pagar o imposto devido;
+
+c) Manter um registo dos produtos rececionados.
+
+5 - No caso de incumprimento das obrigações previstas no número anterior, é responsável pelo pagamento do imposto o adquirente dos produtos.
+
+6 - Tratando-se de bebidas não alcoólicas, é responsável pelo cumprimento das obrigações constantes do presente artigo o adquirente dos produtos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 63.º — Vendas à distância
+
+Os produtos já introduzidos no consumo, vendidos em território nacional a pessoas residentes noutro Estado membro, e que sejam expedidos ou transportados directa ou indirectamente pelo vendedor ou por sua conta ficam sujeitos a imposto no Estado membro de destino.
+
+###### Artigo 64.º — Perdas e inutilização
+
+1 - No caso de produtos já introduzidos no consumo noutro Estado membro, não são tributáveis as perdas inerentes à natureza dos produtos em causa, ocorridas na circulação intracomunitária, ou devido a caso fortuito ou de força maior, nos termos e nos limites fixados, respectivamente, nos artigos 49.º e 50.º
+
+2 - Não são ainda tributáveis os produtos destinados a inutilização sob controlo aduaneiro, a efectuar nos termos do artigo 52.º
+
+###### Artigo 65.º — Irregularidades relativas a produtos já introduzidos no consumo
+
+1 - Quando, em território nacional, ocorrer uma irregularidade durante a circulação de produtos já introduzidos no consumo noutro Estado membro, o imposto torna-se exigível nos termos do artigo 8.º
+
+2 - Quando não for possível determinar o local em que a irregularidade ocorreu, o imposto é exigível se a mesma foi detetada no território nacional.
+
+3 - Em derrogação do número anterior, se no prazo de três anos a contar da data de aquisição dos produtos sujeitos a impostos especiais de consumo for apurado o Estado membro onde efetivamente ocorreu a irregularidade, o imposto torna-se exigível nesse Estado membro.
+
+4 - O imposto é devido pela pessoa que garantiu o respetivo pagamento, nos termos da alínea a) do n.º 4 do artigo 62.º, ou por todas as pessoas que tenham participado na irregularidade, salvo na situação prevista no n.º 5 do artigo 62.º
+
+5 - Quando ocorrer uma irregularidade noutro Estado-Membro, no âmbito de uma operação de circulação de produtos já introduzidos no consumo e se comprove o pagamento do imposto devido nesse Estado-Membro, há lugar, consoante o caso:
+
+a) Ao reembolso do imposto relativo aos produtos introduzidos no consumo em território nacional;
+
+b) À liberação da garantia constituída nos termos da alínea a) do n.º 3 do artigo 60.º-A e da alínea a) do n.º 4 do artigo 62.º
+
+6 - Considera-se irregularidade a falta de registo ou certificação de uma ou todas as pessoas envolvidas na circulação de produtos já introduzidos no consumo, em violação do disposto no n.º 2 do artigo 60.º, no n.º 1 e na alínea a) do n.º 3 do artigo 60.º-A e no n.º 1 do artigo 60.º-B.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+## Parte II — Parte especial
+
+### Capítulo I — Imposto sobre o álcool, as bebidas alcoólicas e as bebidas adicionadas de açúcar ou outros edulcorantes
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+#### Secção I — Álcool e bebidas alcoólicas
+
+> Aditado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 66.º — Incidência objetiva
+
+1 - O imposto incide sobre a cerveja, os vinhos, outras bebidas fermentadas, os produtos intermédios e as bebidas espirituosas, genericamente designadas por bebidas alcoólicas, e sobre o álcool etílico, genericamente designado por álcool.
+
+2 - Para efeitos de aplicação do número anterior, entende-se por:
+
+a) «Cerveja» todas as bebidas compreendidas no código da Nomenclatura Combinada (NC) 2203 e qualquer outro produto que contenha uma mistura de cerveja com bebidas não alcoólicas abrangido pelo código NC 2206, desde que num caso e noutro o título alcoométrico adquirido seja superior a 0,5 % vol.;
+
+b) «Vinho tranquilo» os produtos abrangidos pelos códigos NC 2204 e 2205, com exceção do vinho espumante, cujo teor alcoólico adquirido seja superior a 1,2 % vol. e igual ou inferior a 15 % vol., desde que o álcool contido no produto acabado resulte inteiramente de fermentação, e ainda os produtos abrangidos pelos códigos NC 2204 e 2205, com exceção do vinho espumante, cujo teor alcoólico adquirido seja superior a 15 % vol. e igual ou inferior a 18 % vol., desde que tenham sido produzidos sem enriquecimento e que o álcool contido no produto acabado resulte inteiramente de fermentação;
+
+c) «Vinho espumante», os produtos abrangidos pelos códigos NC 2204 10, 2204 21 06, 2204 21 07, 2204 21 08, 2204 21 09, 2204 29 10 e 2205, cujo título alcoométrico adquirido resultante inteiramente de fermentação seja superior a 1,2 % vol. e igual ou inferior a 15 % vol., que estejam contidos em garrafas fechadas por rolhas em forma de cogumelo fixadas por arames ou grampos, ou com uma sobrepressão derivada do anidrido carbónico em solução de, pelo menos, 3 bar;
+
+d) «Outras bebidas tranquilas fermentadas» os produtos abrangidos pelos códigos NC 2204, 2205 e 2206, com exceção dos vinhos, da cerveja e das outras bebidas espumantes fermentadas, cujo título alcoométrico adquirido seja superior a 1,2 % vol. e igual ou inferior a 10 % vol., e ainda os de título alcoométrico superior a 10 % vol., mas não a 15 % vol., desde que, neste último caso, o álcool contido no produto resulte inteiramente de fermentação;
+
+e) «Outras bebidas espumantes fermentadas», os produtos abrangidos pelos códigos NC 2206 00 31 e 2206 00 39, bem como os produtos abrangidos pelos códigos NC 2204 10, 2204 21 06, 2204 21 07, 2204 21 08, 2204 21 09, 2204 29 10 e 2205, com exceção dos vinhos, cujo título alcoométrico adquirido seja superior a 1,2 % vol. e igual ou inferior a 13 % vol., e ainda os que, tendo um título alcoométrico superior a 13 % vol., mas inferior a 15 % vol., resultem inteiramente de fermentação, que estejam contidos em garrafas fechadas por rolhas em forma de cogumelo, fixadas por arames ou grampos, ou com uma sobrepressão derivada do anidrido carbónico em solução de, pelo menos, 3 bar;
+
+f) «Produtos intermédios» os produtos de título alcoométrico adquirido superior a 1,2 % vol. e igual ou inferior a 22 % vol., abrangidos pelos códigos NC 2204, 2205 e 2206, não incluídos nas alíneas anteriores;
+
+g) «Álcool etílico» o líquido com teor alcoólico mínimo de 96 % vol. a 20ºC, obtido quer por retificação após fermentação de produtos agrícolas alcoógenos, designado por álcool etílico de origem agrícola, com as características mínimas constantes do anexo i do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0110" title="Link para Regulamento da Comunidade Europeia">110/2008</a>, do Parlamento Europeu e do Conselho, de 15 de Janeiro, quer por processo químico, designado por álcool etílico de síntese;
+
+h) «Álcool etílico diluído» o líquido com teor alcoólico inferior a 96 % vol. e superior a 70 % vol. a 20ºC, resultante da diluição do álcool etílico definido na alínea anterior, ainda que adicionado de substâncias e preparados aromatizantes;
+
+i) «Destilado etílico» o líquido com teor alcoólico inferior a 96 % vol. a 20ºC, que não se enquadre nas alíneas anteriores, incluindo qualquer destilado de origem agrícola;
+
+j) «Álcool etílico parcialmente desnaturado» o álcool a que se adicionaram, como desnaturante, substâncias químicas que o tornam impróprio para o consumo humano por ingestão;
+
+l) «Álcool etílico totalmente desnaturado» o álcool a que foram adicionados os desnaturantes nas proporções descritas no ponto i do anexo ao Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro;
+
+m) «Bebidas espirituosas» os produtos compreendidos no código NC 2208 definidos nos termos do artigo 2.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R0110" title="Link para Regulamento da Comunidade Europeia">110/2008</a>, do Parlamento Europeu e do Conselho, de 15 de Janeiro.
+
+3 - São equiparados a bebidas espirituosas previstas na alínea m) do número anterior:
+
+a) Os produtos não compreendidos nas alíneas g) a i), com um teor alcoólico em volume superior a 1,2 % vol. abrangidos pelos códigos NC 2207 e 2208, mesmo quando estes produtos constituam parte de um produto abrangido por outro capítulo da Nomenclatura Combinada;
+
+b) Os produtos abrangidos pelos códigos NC 2204, 2205 e 2206 de teor alcoólico adquirido superior a 22 % vol.
+
+4 - Para efeitos da alínea a) do n.º 2, todos os ingredientes da cerveja, incluindo os ingredientes acrescentados após a conclusão da fermentação, devem ser tidos em conta para efeitos de medição do grau Plato.
+
+5 - Para efeitos das alíneas b) e c) do n.º 2, são considerados vinhos tranquilo e espumante os produtos vitivinícolas definidos como tal pela legislação especial aplicável, produzidos de acordo com as práticas enológicas autorizadas, e que obedeçam às respetivas regras de designação e rotulagem, não compreendendo quaisquer outras bebidas, mesmo que obtidas a partir de produtos do setor vitivinícola, designadamente as previstas no Regulamento (UE) 251/2014, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 67.º — Isenções
+
+1 - Estão isentos do imposto as bebidas alcoólicas e o álcool quando utilizados:
+
+a) No fabrico de produtos não destinados ao consumo humano, desde que tenham sido desnaturados e distribuídos de acordo com a legislação em vigor ou de acordo com as normas de qualquer Estado-Membro;
+
+b) No fabrico de vinagres abrangidos pelo código pautal 2209;
+
+c) No fabrico de aromas destinados à preparação de géneros alimentícios e bebidas não alcoólicas de teor alcoólico adquirido não superior a 1,2 % vol.;
+
+d) Diretamente ou como componentes de produtos semiacabados, na produção de géneros alimentícios, com ou sem recheio, desde que o título de álcool não exceda 8,5 l de álcool puro por cada 100 kg de produto, no caso de chocolate, e 5 l de álcool puro por cada 100 kg de produto, nos restantes casos;
+
+e) Para a realização de ensaios de produção ou para fins científicos ou ainda como amostras para análise;
+
+f) Em processos de fabrico, desde que o produto final não contenha álcool;
+
+g) No fabrico de produtos constituintes não sujeitos ao imposto;
+
+h) No fabrico de produtos agro-alimentares desde que se trate de vinhos modificados.
+
+2 - (Revogado).
+
+3 - Está ainda isento do imposto o álcool:
+
+a) Utilizado em fins industriais, nos termos do artigo 68.º, designadamente sempre que o álcool desnaturado tenha sido incorporado num produto não destinado ao consumo humano ou seja utilizado para a manutenção e limpeza do equipamento utilizado nesse processo de fabrico específico;
+
+b) Distribuído sob a forma de álcool totalmente desnaturado nos termos fixados pelo Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro;
+
+c) Destinado a consumo próprio dos hospitais e demais estabelecimentos de saúde, públicos e privados;
+
+d) Destinado a testes laboratoriais e à investigação científica;
+
+e) Destinado a fins terapêuticos e sanitários;
+
+f) Utilizado no fabrico de medicamentos, quer para uso humano, quer para uso veterinário;
+
+g) Utilizado no fabrico de suplementos alimentares que contenham álcool etílico se a embalagem individual do suplemento alimentar introduzido no consumo não exceder 0,15 litros e os referidos suplementos forem colocados no mercado em conformidade com a legislação aplicável.
+
+4 - Estão isentas do imposto e dispensadas de quaisquer obrigações, incluindo declarativas, a cerveja e outras bebidas fermentadas, tranquilas e espumantes, produzidas por um particular e consumidas pelo seu produtor, pelos membros do seu agregado familiar ou convidados, desde que tal não implique qualquer contrapartida onerosa.
+
+5 - Estão ainda isentas do imposto e dispensadas das respetivas obrigações declarativas as bebidas espirituosas à base de frutos, produzidas por um particular e consumidas pelo seu produtor, pelos membros do seu agregado familiar ou convidados, desde que tal não implique qualquer contrapartida onerosa e que:
+
+a) O particular produza até ao máximo de 50 litros anuais dessas bebidas;
+
+b) As bebidas sejam produzidas a partir de frutos pertencentes, produzidos e fornecidos pelo mesmo particular num terreno cujo título detenha; e
+
+c) A produção se realize em destilarias autorizadas ou o particular utilize um destilador simples e de pequena dimensão, devidamente registado junto da estância aduaneira competente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 68.º — Álcool desnaturado
+
+1 - Para efeitos de isenção do imposto, o álcool utilizado em fins industriais deve ser objeto de desnaturação, através de desnaturante a identificar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, ou através dos desnaturantes nas proporções descritas no ponto i do anexo ao Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro, sendo que, para efeitos de comercialização exclusivamente em território nacional, é permitida a adição de corante - azul de metileno - à fórmula prevista naquele regulamento, na proporção de 2 g/hl de álcool a desnaturar.
+
+2 - Em derrogação do disposto no número anterior, o álcool para utilização em fins industriais pode excepcionalmente não ser desnaturado desde que, comprovadamente, a desnaturação se revele prejudicial à saúde pública.
+
+3 - Para efeitos do número anterior, a autorização é dada pelo director da alfândega e fica subordinada à condição da utilização industrial se realizar no local especificado naquela autorização, ou noutro local sob controlo aduaneiro.
+
+4 - O álcool destinado a consumo próprio dos hospitais e demais estabelecimentos de saúde, públicos ou privados, pode igualmente ser objecto de desnaturação através de desnaturante a identificar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+5 - Para efeitos da isenção do imposto prevista na alínea e) do n.º 3 do artigo anterior, o álcool para fins terapêuticos e sanitários, destinado à venda ao público em farmácias, drogarias e outros estabelecimentos comerciais, para o efeito devidamente licenciados, deve ser objecto de desnaturação, através de desnaturante a identificar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+6 - Os operadores referidos no n.º 1 do artigo 4.º, que pretendam receber álcool parcialmente desnaturado de outro Estado membro ou de países terceiros, devem comunicar à estância aduaneira competente, no termo da operação de circulação ou no acto da importação, consoante o caso, o desnaturante utilizado e as respectivas quantidades.
+
+7 - Para efeitos do número anterior, só se considera álcool desnaturado se a desnaturação tiver sido realizada nos termos da legislação nacional aplicável.
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 69.º — Operações de desnaturação
+
+1 - A desnaturação, total ou parcial, referida no artigo anterior, deve ser realizada em entreposto fiscal, mediante autorização da estância aduaneira competente.
+
+2 - Em excepção do disposto no número anterior, a estância aduaneira competente pode autorizar a desnaturação do álcool nas instalações onde vai ser utilizado, a pedido da entidade a que o álcool se destina.
+
+3 - As operações de desnaturação devem ser precedidas da apresentação de uma declaração junto da estância aduaneira competente, no prazo de dois dias úteis anteriores à operação, indicando a espécie e o volume de álcool a desnaturar e a espécie e quantidade de desnaturante a utilizar.
+
+4 - Nas operações de desnaturação efectuadas no território do continente, o volume de álcool sujeito a cada operação não pode ser inferior a 20 hl, salvo em casos devidamente fundamentados, autorizados pela estância aduaneira competente.
+
+5 - A estância aduaneira competente deve controlar as operações de desnaturação e proceder à recolha de amostras sempre que o entenda conveniente.
+
+6 - O álcool referido na alínea i) do n.º 2 do artigo 66.º só pode ser declarado para consumo após desnaturação.
+
+###### Artigo 70.º — Condições de comercialização do álcool para fins terapêuticos e sanitários
+
+1 - O álcool para fins terapêuticos e sanitários, ainda que diluído ou desnaturado, só pode ser vendido ao público nas farmácias, drogarias e outros estabelecimentos comerciais com secção de drogaria.
+
+2 - Só é permitida a venda ao público de álcool para fins terapêuticos e sanitários desde que este se encontre devidamente embalado em recipientes e a respectiva quantidade não exceda 0,25 l.
+
+3 - As embalagens que contenham álcool parcialmente desnaturado devem ser incolores e no respectivo rótulo devem constar as indicações sobre a percentagem do álcool, a qual não pode ser inferior a 70 %, nem superior a 96 % v/v, a percentagem e indicação do desnaturante, a expressão «uso externo» e a identificação do entreposto fiscal onde foram efectuadas as operações de desnaturação e embalagem.
+
+4 - O envasilhamento do álcool destinado à venda ao público só pode ser realizado, salvo no caso de importação de álcool já embalado, pelos titulares de entrepostos fiscais ou, tratando-se de álcool para fins terapêuticos e sanitários, ainda que diluído, também por fabricantes de especialidades farmacêuticas.
+
+5 - Para efeitos do disposto na parte final do número anterior, devem os fabricantes proceder ao respectivo registo junto da estância aduaneira competente.
+
+6 - É livre o trânsito de álcool adquirido pelo público, nos termos do n.º 1.
+
+###### Artigo 71.º — Cerveja
+
+1 - A unidade tributável da cerveja é constituída pelo número de hectolitros/grau plato, ou grau alcoólico adquirido, de produto acabado.
+
+2 - As taxas do imposto sobre a cerveja são as seguintes:
+
+a) Superior a 0,5 % vol. e inferior ou igual a 3,5 % vol. de álcool adquirido, 9,64 (euro)/hl;
+
+b) Superior a 3,5 % vol. de álcool adquirido e inferior ou igual a 7º plato, 12,06 (euro)/hl;
+
+c) Superior a 3,5 % vol. de álcool adquirido e superior a 7º plato e inferior ou igual a 11º plato, 19,29 (euro)/hl;
+
+d) Superior a 3,5 % vol. de álcool adquirido e superior a 11º plato e inferior ou igual a 13º plato, 24,13 (euro)/hl;
+
+e) Superior a 3,5 % vol. de álcool adquirido e superior a 13º plato e inferior ou igual a 15º plato, 28,95 (euro)/hl;
+
+f) Superior a 3,5 % vol. de álcool adquirido e superior a 15º plato, 33,85 (euro)/hl.
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 72.º — Vinho
+
+1 - A unidade tributável do vinho é constituída pelo número de hectolitros de produto acabado de vinho tranquilo e espumante.
+
+2 - A taxa do imposto aplicável aos vinhos tranquilos e espumantes é de (euro) 0.
+
+###### Artigo 73.º — Outras bebidas fermentadas, tranquilas e espumantes
+
+1 - A unidade tributável das outras bebidas fermentadas, tranquilas e espumantes é constituída pelo número de hectolitros de produto acabado.
+
+2 - A taxa do imposto aplicável às outras bebidas fermentadas, tranquilas e espumantes é de 12,06 (euro)/hl.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 74.º — Produtos intermédios
+
+1 - A unidade tributável dos produtos intermédios é constituída pelo número de hectolitros de produto acabado.
+
+2 - A taxa do imposto aplicável aos produtos intermédios é de 87,92 (euro)/hl.
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 75.º — Álcool etílico
+
+1 - A unidade tributável do álcool é constituída pelo hectolitro de álcool contido, na base de 100 % de volume, à temperatura de 20ºC.
+
+2 - A taxa do imposto aplicável é a prevista no n.º 2 do artigo seguinte.
+
+###### Artigo 76.º — Bebidas espirituosas
+
+1 - A unidade tributável das bebidas espirituosas é constituída pelo hectolitro de álcool contido, na base de 100 % de volume, à temperatura de 20ºC.
+
+2 - A taxa do imposto aplicável às bebidas espirituosas é de 1602,51 (euro)/hl.
+
+3 - Até 31 de dezembro de 2026, desde que fabricados exclusivamente a partir de frutos do medronheiro (Arbutus unedo), produzidos e destilados nos concelhos de Albufeira (freguesia de Paderne), Alcoutim, Alijó, Aljezur, Almodôvar, Alvaiázere, Ansião, Arganil, Barrancos, Castanheira de Pera, Castelo Branco, Castro Marim, Covilhã, Faro (freguesias de Santa Bárbara de Nexe e União das Freguesias de Conceição e Estoi), Ferreira do Zêzere, Figueiró dos Vinhos, Fundão, Góis, Lagos (freguesias de Odiáxere e União das Freguesias de Bensafrim e Barão de São João), Loulé (freguesias de Alte, Ameixial, Boliqueime, Salir, São Clemente e São Sebastião e União das Freguesias de Querença, Tôr e Benafim), Lousã, Mação, Mértola, Miranda do Corvo, Monchique, Moura, Odemira, Oleiros, Ourique, Pampilhosa da Serra, Pedrógão Grande, Penacova, Penamacor, Penela, Portalegre, Portel, Portimão (freguesias de Mexilhoeira Grande e Portimão), Proença-a-Nova, São Brás de Alportel, Sardoal, Seia, Sertã, Silves, Tavira (freguesias de Cachopo e Santa Catarina da Fonte do Bispo), União das Freguesias de Tavira (Santa Maria e Santiago) e União das Freguesias de Conceição e Cabanas de Tavira), Vila de Rei, Vila do Bispo e Vila Velha de Ródão, são fixadas em 25 % da taxa normal as taxas do imposto sobre o álcool relativas aos seguintes produtos:
+
+a) Os licores e os «crème de», definidos, respetivamente, nas categorias 32 e 33 do anexo ii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008;
+
+b) As aguardentes destiladas com as características e qualidade definidas na categoria 9, aguardente de frutos, do anexo ii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008.
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 97.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a [Declaração de Retificação n.º 6/2021 - Diário da República n.º 38/2021, Série I de 2021-02-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2021-158238384), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 385.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 77.º — Taxas na Região Autónoma dos Açores
+
+1 - São fixadas em 25 % das taxas em vigor no continente as taxas do imposto sobre o álcool relativas aos produtos a seguir mencionados, desde que produzidos e declarados para consumo na Região Autónoma dos Açores:
+
+a) Os licores e os «crème de» produzidos a partir de frutos ou matérias-primas regionais definidos, até 24 de maio de 2021, respetivamente, nas categorias 32 e 33 do anexo ii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e, a partir de 25 de maio de 2021, definidos, respetivamente, nas categorias 33 e 34 do anexo i do Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019;
+
+b) As aguardentes vínica ou as aguardentes bagaceira com as características e as qualidades definidas, até 24 de maio de 2021, nas categorias 4 e 6 do anexo ii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e, a partir de 25 de maio de 2021, definidas nas categorias 4 e 6 do anexo i do Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019;
+
+c) O rum produzido a partir de cana-de-açúcar regional definido, até 24 de maio de 2021, na categoria 1 do anexo ii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e, a partir de 25 de maio de 2021, definido na categoria 1 do anexo i do Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019.
+
+2 - São fixadas em 50 % das taxas em vigor no continente as taxas de imposto sobre o álcool relativas aos produtos mencionados no número anterior quando produzidos na Região Autónoma dos Açores e declarados para consumo no continente.
+
+> Alterado pelo/a Artigo 385.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+###### Artigo 78.º — Taxas na Região Autónoma da Madeira
+
+1 - A taxa do imposto aplicável às bebidas espirituosas declaradas para consumo na Região Autónoma da Madeira é de 1253,70 (euro)/hl.
+
+2 - A taxa prevista no número anterior é igualmente aplicável ao álcool etílico tributável nos termos do n.º 1 do artigo 75.º
+
+3 - As taxas do imposto relativas a vinho licoroso obtido das variedades de uvas puramente regionais, especificadas no artigo 15.º do Regulamento (CEE) n.º 4252/88, do Conselho, de 21 de dezembro, desde que produzidos e declarados para consumo na Região Autónoma da Madeira, são fixadas em 50 % da taxa em vigor no território do continente.
+
+4 - A taxa do imposto relativa aos produtos a seguir mencionados, desde que produzidos e declarados para consumo na Região Autónoma da Madeira, é fixada:
+
+a) Em 40 % da taxa prevista no n.º 2 do artigo 76.º, para o rum que possua a denominação geográfica «Rum da Madeira», tal como definido, até 24 de maio de 2021, na categoria 1 dos anexos ii e iii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e, a partir de 25 de maio de 2021, definido na categoria 1 do anexo i do Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019;
+
+b) Em 28 % da taxa prevista no n.º 2 do artigo 76.º, para os licores e os «crème de» produzidos a partir de frutos ou plantas regionais definidos, até 24 de maio de 2021, respetivamente, nas categorias 32 e 33 do anexo ii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e, a partir de 25 de maio de 2021, definidos, respetivamente, nas categorias 33 e 34 do anexo i do Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019.
+
+5 - São fixadas em 50 % das taxas em vigor no continente as taxas de imposto sobre o álcool relativas aos produtos mencionados no número anterior quando produzidos na Região Autónoma da Madeira e declarados para consumo no continente.
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 385.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611)
+
+###### Artigo 79.º — Pequenas destilarias
+
+1 - Sem prejuízo do cumprimento dos requisitos relativos à constituição e funcionamento dos entrepostos fiscais de produção, o estatuto de pequena destilaria pode ser concedido pelo diretor da alfândega a empresas, que detenham uma única destilaria, e que, simultaneamente:
+
+a) Produzam por ano até ao máximo de 10 hl de álcool puro incorporado em bebidas espirituosas destiladas;
+
+b) Sejam jurídica, económica e contabilisticamente independentes de outras destilarias;
+
+c) Não operem sob licença ou por conta de outrem.
+
+2 - É fixada em 50 % da taxa normal a taxa aplicável às bebidas espirituosas que as pequenas destilarias anualmente produzam e declarem para consumo.
+
+3 - O regime previsto nos números anteriores não é cumulável com as reduções previstas nos artigos 77.º e 78.º
+
+4 - As pequenas destilarias ficam dispensadas do cumprimento das obrigações previstas no artigo 83.º, com a exceção da alínea a) do n.º 1 do mesmo artigo, estando sujeitas ao cumprimento das obrigações previstas no artigo 85.º
+
+5 - Para efeitos de controlo da produção, as pequenas destilarias devem:
+
+a) Proceder ao registo, em formulário próprio, das matérias-primas utilizadas e dos produtos obtidos;
+
+b) Sujeitar-se à selagem da unidade produtiva durante o período de inactividade da mesma.
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 80.º — Pequenas cervejeiras
+
+1 - Sem prejuízo do cumprimento dos requisitos relativos à constituição e funcionamento dos entrepostos fiscais de produção, o estatuto de pequena cervejeira pode ser concedido pelo director da alfândega a empresas que detenham um único entreposto fiscal de produção de cerveja e que, simultaneamente:
+
+a) Produzam por ano até ao limite máximo de 200 000 hl de cerveja;
+
+b) Sejam jurídica, económica e contabilisticamente independentes de outras empresas cervejeiras;
+
+c) Não operem sob licença ou por conta de outrem.
+
+2 - Em derrogação ao disposto no número anterior, considera-se uma única empresa independente duas ou mais empresas cervejeiras que trabalhem em conjunto e cuja produção anual total não exceda 200 000 hl de cerveja.
+
+3 - São fixadas em 50 % da taxa normal as taxas aplicáveis à cerveja que as pequenas cervejeiras anualmente produzam e declarem para introdução no consumo.
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 80.º-A — Pequenos produtores independentes
+
+1 - Sem prejuízo do cumprimento dos requisitos relativos à constituição e funcionamento dos entrepostos fiscais de produção, o estatuto de pequeno produtor independente pode ser concedido pelo diretor da alfândega a produtores que detenham um único entreposto fiscal de produção de produtos intermédios ou de outras bebidas fermentadas e que:
+
+a) Produzam até ao limite anual máximo de 250 hl de produtos intermédios ou 15 000 hl de outras bebidas fermentadas;
+
+b) Sejam jurídica, económica e contabilisticamente independentes de qualquer outro produtor de produtos intermédios ou de outras bebidas fermentadas;
+
+c) Utilizem instalações fisicamente distintas das de quaisquer outros produtores; e
+
+d) Não operem sob licença.
+
+2 - Em derrogação ao disposto no número anterior, considera-se uma única empresa independente dois ou mais pequenos produtores que cooperem entre si e cuja produção anual total não exceda 250 hl ou 15 000 hl, consoante se trate, respetivamente, de produtos intermédios ou de outras bebidas fermentadas.
+
+3 - Para efeitos do presente artigo, as demais bebidas fermentadas devem cumprir os seguintes requisitos:
+
+a) Ser obtidas a partir da fermentação de frutos, bagas, legumes, de uma solução de mel em água ou da fermentação do sumo fresco ou do sumo concentrado obtidos a partir daqueles; e
+
+b) O álcool contido resultar inteiramente de fermentação, sem prejuízo da adição de álcool utilizado para diluir ou dissolver aromas na dose estritamente necessária, na medida em que o título alcoométrico não aumente mais de 1,2 % vol. e desde que a adição de tais aromas não altere significativamente as características do produto de origem.
+
+4 - As taxas do imposto relativas às bebidas que os pequenos produtores independentes anualmente produzam e declarem para introdução no consumo, são fixadas em 50 % da taxa normal aplicável aos produtos intermédios e a outras bebidas fermentadas.
+
+###### Artigo 81.º — Pequenos produtores de vinho
+
+1 - Salvo disposição em contrário, os pequenos produtores de vinho ficam dispensados das obrigações relacionadas com a produção, circulação e controlo previstos no presente Código.
+
+2 - Consideram-se pequenos produtores de vinho as pessoas que produzem, em média, menos de 1000 hl por ano.
+
+3 - Sempre que os pequenos produtores efectuem, em nome próprio, operações de circulação intracomunitárias, devem cumprir as obrigações estabelecidas no Regulamento (CE) n.º <a href="eurlex.asp?ano=2009&id=309R0436" title="Link para Regulamento da Comunidade Europeia">436/2009</a>, da Comissão, de 26 de Maio, nomeadamente no que respeita ao registo de saída e ao documento de acompanhamento, e enviar uma cópia deste à estância aduaneira competente.
+
+4 - A estância aduaneira competente deve ser informada pelo destinatário das remessas de vinho recebidas em território nacional por meio do documento ou de uma referência ao documento referido no número anterior.
+
+5 - Os depositários autorizados que detenham vinho adquirido aos pequenos produtores devem identificar a sua proveniência e registar os respetivos movimentos na contabilidade de existências, ficando sujeitos ao regime geral.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+###### Artigo 82.º — Produção
+
+1 - As operações de fermentação, de destilação, de envelhecimento, de loteamento e de acerto de grau são consideradas como produção ou transformação.
+
+2 - As operações necessárias à conservação e utilização, bem como ao envasilhamento, qualquer que seja a capacidade da embalagem, e ainda à diluição e desnaturação, podem também ser efetuadas em entreposto fiscal de armazenagem.
+
+3 - Não se considera como produção a operação de misturar bebidas alcoólicas de diferente natureza ou destas com bebidas não alcoólicas fora de um entreposto fiscal, desde que se verifiquem cumulativamente as seguintes condições:
+
+a) O imposto a que essas bebidas estão sujeitas tenha sido regularmente declarado ou pago anteriormente;
+
+b) O montante pago ou a pagar não seja inferior ao do imposto devido pelo produto final resultante da mistura.
+
+4 - Mediante pedido fundamentado, pode o diretor-geral das Alfândegas e dos Impostos Especiais sobre o Consumo autorizar a constituição de entrepostos fiscais de produção ou de transformação de álcool a destilarias inscritas no organismo competente do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, nomeadamente para reaproveitamento de bebidas alcoólicas impróprias para consumo humano ou em outras situações em que seja demonstrado um interesse económico relevante decorrente de circunstâncias excecionais, dispensando-se o cumprimento das obrigações constantes das alíneas a) a d) do artigo seguinte.
+
+5 - Podem ser dispensados dos requisitos relativos à constituição e funcionamento dos entrepostos fiscais de produção, os pequenos produtores de bebidas alcoólicas, cujas reduzidas dimensão e capacidade produtiva o justifique, autorizados nos termos definidos por portaria do membro do Governo responsável pela área das finanças.
+
+6 - Os particulares que beneficiem da isenção prevista nos n.os 4 e 5 do artigo 67.º devem, antes de iniciar a produção, informar a estância aduaneira competente, procedendo ainda ao registo das matérias-primas utilizadas e da quantidade de produtos obtidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 83.º — Obrigações dos produtores de álcool e de bebidas alcoólicas
+
+1 - Constituem obrigações dos produtores de álcool:
+
+a) Apresentar a memória descritiva das instalações com a respectiva planta e características gerais dos reservatórios que delas façam parte, incluindo a respectiva planimetria;
+
+b) Instalar os diversos componentes dos equipamentos de produção nos prazos fixados pela entidade competente e de forma a tornar acessível a comparação visual de todas as condições de entrada e de saída de matérias-primas alcoógenas e de álcool, bem como da selagem dos aparelhos;
+
+c) Instalar o equipamento de produção por forma a que o álcool circule livremente desde a saída da coluna até à chave de regulação da produção e desta até aos correspondentes depósitos selados, os quais devem obedecer às características metrológicas estabelecidas na Portaria n.º 1541/2007, de 6 de Dezembro, efectuando-se a circulação do álcool através de tubos rígidos, sem soldaduras, derivações ou chaves, visíveis em toda a sua extensão, e com as junções de tubos efectuadas por meio de uniões ou porcas dispostas de maneira a poderem ser seladas;
+
+d) Submeter os restantes depósitos ao controlo metrológico e possuir o respectivo certificado do Instituto Português da Qualidade (IPQ);
+
+e) Utilizar, na determinação do teor alcoométrico e da densidade do álcool, instrumentos de medição que obedeçam às características metrológicas estabelecidas na Portaria n.º 16/91, de 9 de Janeiro, e na Portaria n.º 377/91, de 2 de Maio, e no documento da Organização Internacional de Metrologia Legal (OIML), relativo a tabelas alcoométricas.
+
+2 - Constituem obrigações dos produtores vitivinícolas e de outras bebidas alcoólicas:
+
+a) Possuir depósitos onde se encontre claramente identificada a natureza do produto e apostas, de modo visível e indelével, as respectivas capacidades;
+
+b) Instalar indicadores de nível em estado funcional, ou outro equipamento similar, nomeadamente, caudalímetros que permitam o controlo eficaz da quantidade produzida e armazenada, bem como o número de ordem, caso se trate de depósitos fixos;
+
+c) A prevista na alínea a) do número anterior.
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 85.º — Circulação
+
+1 - A circulação de álcool e de bebidas alcoólicas rege-se pelo disposto na parte geral do presente diploma, com as seguintes exceções na circulação nacional:
+
+a) É proibida a circulação de produtos em regime suspensivo entre entrepostos fiscais de produção, exceto no caso de serem considerados matérias-primas ou produtos não acabados;
+
+b) A circulação de produtos entre o continente e as Regiões Autónomas dos Açores e da Madeira, e vice-versa, e entre as Regiões Autónomas, deve efetuar-se em regime de suspensão do imposto, sem prejuízo da situação prevista no n.º 8 do artigo 60.º;
+
+c) Excetuam-se do previsto na alínea anterior, após a introdução no consumo, os vinhos tranquilos e espumantes, as outras bebidas tranquilas fermentadas e os produtos referidos no artigo 77.º e nos n.º 3 e 4 do artigo 78.º, quando destinados ao consumo fora da respetiva Região Autónoma, podendo a circulação efetuar-se a coberto do documento de transporte previsto no regime geral de bens em circulação.
+
+d) (Revogada).
+
+2 - A circulação do álcool está subordinada à regulamentação aplicável ao transporte de mercadorias perigosas e ainda:
+
+a) No caso de álcool totalmente desnaturado, ao documento previsto no n.º 2 do artigo 60.º e respetivo regime de circulação;
+
+b) No caso de álcool puro ou parcialmente desnaturado, ao documento previsto no n.º 1 do artigo 36.º e respetivo regime de circulação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-02-13
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 84.º — Entrepostos de armazenagem
+
+1 - Para além das obrigações previstas no artigo 24.º, na constituição de entrepostos fiscais de armazenagem, salvo para os organismos públicos e as entidades com funções de intervenção, controlo da qualidade e defesa da denominação de origem dos produtos sujeitos a este imposto, os interessados devem:
+
+a) Possuir um volume de negócios, no ano anterior, superior a (euro) 150 000 ou (euro) 75 000, consoante o entreposto a constituir se situe, respectivamente, no continente ou nas Regiões Autónomas;
+
+b) Apresentar prova de que as instalações afectas directamente à armazenagem têm uma área mínima de 100 m2, possuem vias de acesso fácil e permitem exercer com eficácia as medidas de controlo necessárias;
+
+c) Apresentar prova de estarem habilitados a exercer a actividade de venda por grosso de álcool e bebidas alcoólicas, excepto nos casos em que a actividade principal do operador seja a prestação de serviços de armazenagem.
+
+2 - A condição referida na alínea a) do número anterior, no caso de início de actividade, pode ser substituída por um compromisso em que o interessado declara o volume de negócios estimado.
+
+3 - No caso de entrepostos fiscais de armazenagem de álcool, para além das condições referidas no número anterior, constitui ainda condição necessária a previsão fundamentada de que o seu movimento anual médio não é inferior a 5000 hl no continente ou a 1000 hl nas Regiões Autónomas.
+
+4 - No caso de entrepostos fiscais de armazenagem de produtos vitivinícolas, os depósitos devem obedecer aos condicionalismos previstos no n.º 2 do artigo anterior.
+
+###### Artigo 85.º-A — Certificado anual
+
+1 - Os pequenos produtores independentes de bebidas alcoólicas, previstos nos artigos 79.º, 80.º, 80.º-A e 81.º, devem comprovar o seu estatuto através de um certificado anual, emitido pela autoridade aduaneira, que confirme a respetiva produção total anual e ateste a conformidade do produtor com os critérios previstos na lei.
+
+2 - Tratando-se de pequenos produtores de vinho, o certificado referido no artigo anterior pode ser emitido pelas autoridades do setor vitivinícola.
+
+3 - As receções em território nacional de produtos provenientes de pequenos produtores independentes, situados noutros Estados-Membros, podem igualmente beneficiar do estatuto de pequeno produtor, desde que o comprovem através de um certificado anual, emitido pelas autoridades desse Estado-Membro, que preencha os requisitos previstos no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+###### Artigo 86.º — Sistema de selagem
+
+1 - No momento da introdução no consumo, as bebidas espirituosas acondicionadas para venda ao público devem ter aposta uma estampilha especial, não reutilizável, cujo modelo e procedimentos a observar na requisição, fornecimento e controlo são regulamentados por portaria do membro do Governo responsável pela área das finanças.
+
+2 - A estampilha referida no número anterior deve ser colocada de forma indelével na embalagem, em qualquer local visível.
+
+3 - As estampilhas especiais são vendidas, nos termos da portaria prevista no n.º 1, aos operadores referidos no n.º 1 do artigo 4.º, salvo quando a actividade principal do operador seja a prestação de serviços de armazenagem, devendo nesse caso ser adquiridas pelos depositantes.
+
+4 - As estampilhas especiais podem ainda ser vendidas ao responsável pelo pagamento da dívida aduaneira na importação, ao detentor, no caso de detenção para fins comerciais, ao arrematante, no caso de venda judicial ou em processo administrativo, e aos sujeitos passivos a que se referem as alíneas d) a h) do n.º 2 do artigo 4.º, desde que regularizada a situação fiscal.
+
+5 - Para além do disposto no artigo 8.º, o imposto é exigível sempre que não seja apresentada prova da utilização das estampilhas junto da estância aduaneira competente.
+
+6 - Para aplicação do disposto no número anterior, a taxa das bebidas espirituosas prevista no n.º 2 do artigo 76.º deve ser aplicada em função do produto a que as estampilhas em falta se destinavam e do teor alcoólico desse produto, habitualmente comercializado pelo operador.
+
+7 - Sempre que não seja possível determinar o produto a que se destinavam as estampilhas referidas nos números anteriores, o imposto é calculado em função do produto comercializado pelo operador de que resulte o maior montante de imposto, na data em que o mesmo se torna exigível.
+
+8 - É proibida a detenção de bebidas espirituosas acondicionadas para comercialização e venda ao público que não ostentem a estampilha especial a que se refere o presente artigo.
+
+9 - A requisição de estampilhas especiais por operadores económicos sem estatuto IEC depende da constituição de uma garantia, cujo montante mínimo deve ser igual a 25 % do imposto exigível pelos produtos correspondentes às estampilhas em causa.
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 87.º — Venda de mercadorias
+
+1 - O álcool e as bebidas alcoólicas não engarrafados, apreendidos e declarados perdidos a favor da fazenda pública em processo de infracção tributária, abandonados, ou considerados fazendas demoradas, devem ser vendidos ou inutilizados, no prazo de 60 dias, contados a partir do trânsito em julgado da declaração de perda da mercadoria a favor da Fazenda Pública, da declaração de abandono, do envio da certidão do tribunal ou do termo do prazo concedido para atribuição de um destino aduaneiro ou fiscal aos produtos, mesmo que não tenha sido ainda proferida sentença judicial, podendo aplicar-se a mesma formalidade ao álcool e às bebidas alcoólicas engarrafados desde que requerida pelo interessado.
+
+2 - Para efeitos do disposto no número anterior, e quando a entidade apreensora não for a autoridade aduaneira, deve a mesma comunicar o facto à autoridade aduaneira, no prazo de 15 dias contados a partir da data da apreensão, enviando para o efeito os elementos identificativos necessários.
+
+3 - O produto da venda deve ser depositado à ordem do processo respectivo, depois de deduzidas as importâncias que forem devidas, designadamente as relativas aos recursos próprios comunitários, bem como as relativas ao transporte, análises e armazenagem.
+
+4 - Quando o álcool for objecto de processo de venda só podem habilitar-se os depositários autorizados titulares de entrepostos fiscais de álcool.
+
+5 - Efectuada a adjudicação do álcool ou das bebidas alcoólicas, se o arrematante possuir o estatuto de depositário autorizado, deve proceder à emissão do documento administrativo electrónico referido no artigo 36.º o qual deve ter como destino o seu entreposto fiscal.
+
+6 - São subsidiariamente aplicáveis à venda as disposições previstas na legislação aduaneira.
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+#### Secção II — Bebidas não alcoólicas
+
+> Aditado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 87.º-A — Incidência objetiva
+
+1 - Estão sujeitos a imposto os seguintes produtos, genericamente designados por bebidas não alcoólicas:
+
+a) As bebidas destinadas ao consumo humano, adicionadas de açúcar ou de outros edulcorantes, abrangidas pelo código NC 2202;
+
+b) As bebidas abrangidas pelos códigos NC 2204, 2205, 2206 e 2208, com um teor alcoólico superior a 0,5 % vol. e inferior ou igual a 1,2 % vol.;
+
+c) Concentrados, sob a forma de xarope ou outra forma líquida, de pó, grânulos ou outras formas sólidas, destinados à preparação de bebidas previstas nas alíneas anteriores, nas instalações do consumidor final ou de retalhista.
+
+2 - Os produtos adquiridos noutro Estado membro estão sujeitos a imposto no território nacional, exceto se for considerada uma aquisição para uso pessoal, quando transportados pelo próprio para o território nacional, de acordo com os critérios previstos no n.º 2 do artigo 61.º
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 212.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 87.º-B — Isenções
+
+1 - Estão isentas do imposto, as seguintes bebidas não alcoólicas:
+
+a) Bebidas à base de leite, soja ou arroz;
+
+b) Sumos e néctares de frutos e de algas ou de produtos hortícolas e bebidas de cereais, amêndoa, caju e avelã;
+
+c) Bebidas consideradas alimentos para as necessidades dietéticas especiais ou suplementos dietéticos;
+
+d) Bebidas cuja mistura final resulte da diluição e adicionamento de outros produtos não alcoólicos aos concentrados tributados ao abrigo da alínea c) do n.º 1 do artigo anterior, desde que seja demonstrada a liquidação do imposto sobre aqueles concentrados;
+
+e) As bebidas abrangidas pelo n.º 1 do artigo anterior não adicionadas de açúcar ou de outros edulcorantes.
+
+2 - Estão ainda isentas do imposto as bebidas não alcoólicas quando utilizadas:
+
+a) Em processos de fabrico ou como matéria-prima de outros produtos;
+
+b) Para pesquisa, controle de qualidade e testes de sabor.
+
+> Aditado pelo/a Artigo 212.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 87.º-C — Base tributável e taxas
+
+1 - A unidade tributável das bebidas não alcoólicas é constituída pelo número de hectolitros de produto acabado, sem prejuízo do disposto na alínea c) do número seguinte.
+
+2 - As taxas do imposto dos produtos previstos no n.º 1 do artigo 87.º-A são as seguintes:
+
+a) Quanto às bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 25 gramas por litro, 1,16 (euro)/hl;
+
+b) Quanto às bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 50 gramas por litro e igual ou superior a 25 gramas por litro, 6,95 (euro)/hl;
+
+c) Quanto às bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 80 gramas por litro e igual ou superior a 50 gramas por litro, 9,26 (euro)/hl;
+
+d) Quanto às bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja igual ou superior a 80 gramas por litro, 23,18 (euro)/hl;
+
+e) Quanto aos concentrados previstos na alínea c) do n.º 1 do artigo 87.º-A:
+
+i) Na forma líquida, 6,95 (euro)/hl, 41,72 (euro)/hl, 55,62 (euro)/hl e 139,06 (euro)/hl, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior a 50 gramas por litro, ou igual ou superior a 80 gramas por litro;
+
+ii) Apresentados sob a forma de pó, grânulos ou outras formas sólidas, 11,59 (euro)/hl, 69,53 (euro)/hl, 92,71 (euro)/hl e 231,78 (euro)/hl por 100 quilogramas de peso líquido, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior a 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior a 50 gramas por litro, ou igual ou superior a 80 gramas por litro.
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 212.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 87.º-D — Produção e armazenagem
+
+A produção e a armazenagem de bebidas não alcoólicas, em regime de suspensão do imposto, devem ser efetuadas em entreposto fiscal, aplicando-se com as necessárias adaptações o disposto em relação às bebidas alcoólicas, podendo os respetivos requisitos ser simplificados por portaria do membro do Governo com a tutela da área das finanças.
+
+> Aditado pelo/a Artigo 212.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 87.º-E — Circulação
+
+1 - As bebidas não alcoólicas podem circular, em regime de suspensão do imposto, de um entreposto fiscal, de um local de importação ou entrada no território nacional, para:
+
+a) Um entreposto fiscal;
+
+b) Um destinatário registado;
+
+c) Outro Estado membro ou, no caso de exportação, a estância aduaneira de saída, desde que provenientes de um entreposto fiscal.
+
+2 - A circulação referida no número anterior é efetuada a coberto de um documento comercial que permita a correta identificação dos produtos, o qual substitui, para efeitos do presente Código, as referências ao documento administrativo eletrónico e ao documento de acompanhamento simplificado.
+
+3 - As regras especiais aplicáveis à circulação das bebidas não alcoólicas são definidas por portaria do membro do Governo responsável pela área das finanças.
+
+> Aditado pelo/a Artigo 212.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 87.º-F — Sistema de selagem
+
+1 - O Governo pode determinar por portaria do membro do Governo responsável pela área das finanças a aplicação às bebidas não alcoólicas das normas previstas no artigo 86.º com as necessárias adaptações.
+
+2 - No caso previsto no número anterior, o imposto é exigível ao adquirente das estampilhas, podendo o mesmo ser liquidado e pago com base no fornecimento destas, nos termos e condições a definir por portaria do membro do Governo responsável pela área das finanças.
+
+> Aditado pelo/a Artigo 212.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+### Capítulo II — Imposto sobre os produtos petrolíferos e energéticos
+
+###### Artigo 88.º — Incidência objectiva
+
+1 - Estão sujeitos ao imposto sobre os produtos petrolíferos e energéticos:
+
+a) Os produtos petrolíferos e energéticos;
+
+b) Quaisquer outros produtos destinados a serem utilizados, colocados à venda ou a serem consumidos em uso como carburante;
+
+c) Os outros hidrocarbonetos, com exceção da turfa, destinados a serem utilizados, colocados à venda ou a serem consumidos em uso como combustível;
+
+d) A electricidade abrangida pelo código NC 2716.
+
+2 - Para efeitos da alínea a) do número anterior, são qualificados como produtos petrolíferos e energéticos:
+
+a) Os produtos abrangidos pelos códigos NC 1507 a 1518, quando destinados a serem utilizados como carburante ou combustível;
+
+b) Os produtos abrangidos pelos códigos 2701, 2702 e 2704 a 2715;
+
+c) Os produtos abrangidos pelos códigos NC 2901 e 2902;
+
+d) Os produtos abrangidos pelos códigos NC 2905 11 00, que não sejam de origem sintética, quando destinados a serem utilizados como carburante ou combustível;
+
+e) Os produtos abrangidos pelos códigos NC 3403 11 e 3403 19;
+
+f) Os produtos abrangidos pelo código NC 3811;
+
+g) Os produtos abrangidos pelo código NC 3817;
+
+h) Os produtos, quando destinados a ser utilizados como carburante ou combustível, abrangidos pelos códigos NC 3824 99 86, 3824 99 92, 3824 99 93 e 3824 99 96, com exceção de preparações antiferrugem que contenham aminas como elementos ativos e solvente e diluentes, compósitos, inorgânicos, para vernizes e produtos semelhantes, e pelos códigos NC 2909 10 10, 3826 00 10 e 3826 00 90.
+
+3 - Para efeitos da alínea b) do n.º 1, é qualificado como uso como carburante a utilização de um produto como combustível em qualquer tipo de motor não estacionário.
+
+4 - Para efeitos da alínea c) do n.º 1, é qualificado como uso como combustível a utilização de um produto, através de combustão, desde que tal não seja considerado uso como carburante.
+
+5 - O imposto sobre os produtos petrolíferos e energéticos compreende os seguintes montantes:
+
+a) As taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, nos termos do artigo 92.º, que integram o montante consignado ao serviço rodoviário em território continental, nos termos definidos na legislação especial aplicável; e
+
+b) O montante cobrado a título de adicionamento sobre as emissões de CO(índice 2), nos termos do artigo 92.º-A.
+
+6 - Para efeitos do imposto sobre produtos petrolíferos e energéticos considera-se nível de tributação o montante total do ISP, nos termos definidos no número anterior, e de outras imposições cobradas, com exclusão do IVA, calculadas, direta ou indiretamente, com base na quantidade de produtos petrolíferos e energéticos à data da sua introdução no consumo.
+
+7 - Não estão sujeitos ao imposto os produtos petrolíferos e energéticos consumidos nas instalações de um estabelecimento de produção dos referidos produtos, excepto os usados para fins alheios a essa produção.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 89.º — Isenções
+
+1 - Estão isentos do imposto os produtos petrolíferos e energéticos que, comprovadamente:
+
+a) Sejam utilizados para outros fins que não sejam em uso como carburante ou em uso como combustível, salvo no que se refere aos óleos lubrificantes classificados pelos códigos NC 2710 19 81 a 2710 19 99;
+
+b) Sejam utilizados na navegação aérea, com excepção da aviação de recreio privada;
+
+c) Sejam utilizados na navegação marítima costeira e na navegação interior, incluindo a pesca e a aquicultura, com exceção da navegação de recreio privada, no que se refere aos produtos classificados pelos códigos NC 2710 19 43 a 2710 19 48, 2710 20 11 a 2710 20 19, 2710 19 62 a 2710 19 67, 2710 20 32 e 2710 20 38;
+
+d) Sejam utilizados na produção de eletricidade, de eletricidade e calor (cogeração), por entidades que desenvolvam tais atividades como sua atividade principal, no que se refere aos produtos classificados pelos códigos NC 2710 19 62 a 2710 19 67 e 2710 20 32 a 2710 20 38, pelo código NC 2711, bem como os produtos classificados pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19, consumidos nas Regiões Autónomas dos Açores e da Madeira;
+
+e) Sejam utilizados em transportes públicos de passageiros, no que se refere aos produtos classificados pelo código NC 2711;
+
+f) Sejam utilizados em instalações sujeitas ao regime de comércio europeu de licenças de emissão de gases com efeitos de estufa (CELE), identificadas no anexo II do Decreto-Lei n.º 12/2020, de 6 de abril, ou a um acordo de racionalização dos consumos de energia (ARCE), no que se refere aos produtos energéticos classificados pelos códigos NC 2701, 2702, 2704 e 2713, ao fuelóleo com teor de enxofre igual ou inferior a 0,5 %, classificado pelos códigos NC 2710 19 62 e N NC 2710 19 66 e aos produtos classificados pelo código NC 2711, com exceção das entidades que desenvolvam a atividade de produção de eletricidade, de eletricidade e calor (cogeração) como sua atividade principal;
+
+g) Contidos nos reservatórios normais e nos contentores especiais dos veículos automóveis procedentes de outros Estados membros;
+
+h) (Revogada.)
+
+i) Sejam utilizados no transporte de passageiros e de mercadorias por caminhos de ferro, no que se refere aos produtos classificados pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19;
+
+j) (Revogada.)
+
+l) Sejam utilizados pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos da legislação aplicável, no que se refere ao gás natural classificado pelos códigos NC 2711 11 00 e NC 2711 21 00.
+
+2 - Está isenta do imposto a electricidade que, comprovadamente, seja:
+
+a) Utilizada para produzir electricidade, e para manter a capacidade de produzir electricidade;
+
+b) Produzida a bordo de embarcações;
+
+c) Utilizada para o transporte de passageiros e de mercadorias por via férrea em comboio, metropolitano ou eléctrico, e por trólei;
+
+d) Utilizada pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos da legislação aplicável;
+
+e) Utilizada nas instalações previstas na alínea f) do número anterior;
+
+f) Produzida para autoconsumo a partir de fontes de energia renovável, até ao limite de 1 MW de potência instalada.
+
+3 - Para efeitos de aplicação da alínea b) do n.º 1, entende-se por «aviação de recreio privada» a utilização de uma aeronave pelo seu proprietário ou por uma pessoa singular ou colectiva que a possa utilizar mediante aluguer ou a outro título, para fins não comerciais e, em especial, para fins que não sejam o transporte de pessoas ou de mercadorias ou a prestação de serviços a título oneroso ou no interesse das autoridades públicas.
+
+4 - Para efeitos de aplicação da alínea c) do n.º 1, considera-se «navegação de recreio privada» a utilização de uma embarcação pelo seu proprietário ou por uma pessoa singular ou colectiva, que a pode utilizar através de aluguer ou a outro título, para fins não comerciais e, em especial, para fins que não sejam o transporte de pessoas ou de mercadorias ou a prestação de serviços a título oneroso ou no interesse das autoridades públicas.
+
+5 - Para efeitos de aplicação da alínea g) do n.º 1, consideram-se «reservatórios normais»:
+
+a) Os reservatórios fixados com carácter permanente pelo construtor em todos os veículos automóveis do mesmo tipo que permitam a utilização directa do carburante, tanto para a tracção dos veículos como, se for caso disso, para o funcionamento dos sistemas de refrigeração ou de outros equipamentos durante o transporte;
+
+b) Os reservatórios de gás adaptados aos veículos a motor que permitam a utilização directa do gás como carburante, bem como os reservatórios de gás para outros dispositivos com os quais os veículos a motor possam ser eventualmente equipados;
+
+c) Os reservatórios fixados com carácter permanente pelo construtor em todos os contentores do mesmo tipo que permitam, durante o transporte, a utilização directa do carburante para o funcionamento dos sistemas de refrigeração ou de outros sistemas semelhantes, com os quais sejam equipados os contentores especiais.
+
+6 - Ainda para efeitos de aplicação da alínea g) do n.º 1, consideram-se «contentores especiais» todos os contentores equipados com dispositivos especialmente adaptados para sistemas de refrigeração, ventilação, isolamento térmico ou outros sistemas semelhantes.
+
+7 - Para efeitos de aplicação da alínea f) do n.º 2, fica a Direção-Geral de Energia e Geologia obrigada a comunicar trimestralmente à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, informação a definir por protocolo relativa aos autoprodutores sujeitos a registo ou comunicação prévia.
+
+8 - As isenções previstas nas alíneas a), c), d), e), f), i) e j) do n.º 1 e nas alíneas a), c) e e) do n.º 2 dependem de reconhecimento prévio da autoridade aduaneira competente.
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 385.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 90.º — Isenção para os biocombustíveis e gases de origem renovável
+
+1 - Beneficiam de isenção total ou parcial do imposto, até ao limite máximo global de 40 000 t/ano, os biocombustíveis puros abaixo indicados, quando produzidos por pequenos produtores dedicados:
+
+a) Produtos abrangidos pelos códigos NC 1507 a NC 1518;
+
+b) Produtos abrangidos pelo código NC 3824 99 55, pelos códigos NC 3824 99 80, 3824 99 85, 3824 99 86, 3824 99 92, 3824 99 93 e 3824 99 96, com exceção de preparações antiferrugem que contenham aminas como elementos ativos e solventes e diluentes compósitos, inorgânicos, para vernizes e produtos semelhantes, e pelos códigos NC 3826 00 10 e 3826 00 90, para os respetivos componentes produzidos a partir de biomassa;
+
+c) Produtos abrangidos pelos códigos NC 2207 20 00 e NC 2905 11 00 que não sejam de origem sintética;
+
+d) Produtos obtidos a partir da biomassa, incluindo os produtos abrangidos pelos códigos NC 4401 e NC 4402.
+
+2 - Para efeitos do disposto no número anterior, são considerados pequenos produtores dedicados aqueles que sejam reconhecidos como tal nos termos da legislação aplicável.
+
+3 - O valor da isenção para os biocombustíveis é definido em função dos preços dos biocombustíveis ou das suas matérias-primas e dos combustíveis fósseis que pretendem substituir, de forma a não conduzir a uma sobrecompensação dos custos adicionais associados à produção dos biocombustíveis.
+
+4 - O valor e os procedimentos de aplicação da presente isenção são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia, da agricultura, dos transportes e do ambiente.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - Beneficiam ainda de isenção total do imposto os biocombustíveis avançados, na aceção da alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 117/2010, de 25 de outubro, desde que certificados com o Título de Biocombustível (TdB), bem como os gases de origem renovável, na aceção da alínea bb) do artigo 3.º do Decreto-Lei n.º 62/2020, de 28 de agosto, desde que certificados com garantia de origem (GO).
+
+12 - São excluídos da isenção prevista no número anterior, os biocombustíveis avançados que utilizem efluentes da produção do óleo de palma e cachos de frutos de palma vazios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-C/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2025-964514222), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 385.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 91.º — Base tributável
+
+1 - A unidade tributável dos produtos petrolíferos e energéticos é de 1000 l convertidos para a temperatura de referência de 15ºC, salvo o disposto nos números seguintes.
+
+2 - Para os produtos petrolíferos e energéticos classificados pelo código NC 2711, com exceção do gás natural, e pelos códigos NC 2701, 2702, 2704, 2710 19 51 a 2710 19 67, 2710 19 71 a 2710 19 99, 2710 20 32 a 2710 20 38, 2710 19 83 a 2710 19 99, 2712, 2713, 2714, 3403, 3811 21 00, 3811 29 00 e 3817, a unidade tributável é de 1000 kg.
+
+3 - Para os produtos petrolíferos e energéticos classificados pelo código NC 3811 90 00, a unidade tributável é a dos produtos petrolíferos e energéticos nos quais se destinam a ser incorporados.
+
+4 - A unidade tributável do gás natural é o gigajoule.
+
+5 - A unidade tributável da electricidade é o MWh.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 92.º — Taxas
+
+1 - Os valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos aplicável às gasolinas, aos gasóleos, ao petróleo, aos fuelóleos e à eletricidade são fixados, para o continente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia dentro dos seguintes intervalos:
+
+(ver documento original)
+
+2 - Os valores das taxas unitárias referidos no número anterior são fixados tendo em consideração o princípio da liberdade de mercado e os diferentes impactos ambientais de cada um dos produtos energéticos, favorecendo gradualmente os menos poluentes, não podendo ser inferiores ao somatório dos montantes consignados ao serviço rodoviário nacional e ao adicionamento sobre as emissões de CO(índice 2).
+
+3 - O gasóleo misturado por razões técnicas ou operacionais com o fuelóleo é tributado com a taxa aplicável ao fuelóleo que for utilizado na mistura, desde que a operação seja aprovada pela autoridade aduaneira e realizada sob controlo aduaneiro.
+
+4 - A taxa aplicável ao metano e aos gases de petróleo usados como carburante é de (euro) 133,56/1000 kg e, quando usados como combustível, é fixada entre (euro) 7,92 e (euro) 9,13/1000 kg, sendo igualmente aplicável ao acetileno usado como combustível.
+
+5 - A taxa aplicável ao gás natural usado como carburante é de (euro) 1,15/GJ e quando usado como combustível é de (euro) 0,307/GJ.
+
+6 - A taxa aplicável aos produtos petrolíferos e energéticos obtidos a partir de óleos usados ou de resíduos e que sejam utilizados como carburante ou como combustível são tributados de acordo com o nível de tributação aplicável a esses produtos.
+
+7 - A taxa aplicável aos produtos petrolíferos e energéticos classificados pelas posições NC 2701, 2702, 2704 e 2713 é fixada entre (euro) 4,16 e (euro) 35/1000 kg.
+
+8 - Sem prejuízo das isenções previstas no presente Código, os produtos petrolíferos e energéticos sujeitos a imposto que não constem dos números anteriores são tributados com as seguintes taxas:
+
+a) Com a taxa aplicável à gasolina sem chumbo, os produtos petrolíferos e energéticos classificados pelos códigos NC 2707 10 10, 2707 20 10, 2707 30 10, 2707 50 10, 2710 12 21 a 2710 12 31, 2901 10 00 a 2901 24 00, ex2901 29 00, 2902 11 00, ex 2902 19 80, 2902 20 00 a 2902 44 00, 3811 1110 e 3811 11 90;
+
+b) Com a taxa aplicável ao petróleo, os produtos petrolíferos e energéticos classificados pelo código NC 2709 00 10, consumidos em uso carburante;
+
+c) Com a taxa aplicável ao petróleo, os produtos petrolíferos e energéticos classificados pelo código NC 2709 00 10, consumidos no aquecimento, iluminação e nos usos previstos no n.º 3 do artigo 93.º;
+
+d) Com a taxa aplicável ao fuelóleo com teor de enxofre inferior ou igual a 0,5 %, salvo quando consumidos na produção de eletricidade, incluindo a cogeração, os produtos petrolíferos e energéticos classificados pelos códigos NC 2706 00 00, 2707 91 00, 2707 99 11, 2707 99 19, 2709 00 90, 2712 10 10 a 2712 20 90, 2712 90 39 a 2712 90 99, 2715 00 00, 3403 11 00 a 3403 19 99, 3817 00 50 e 3817 00 80;
+
+e) Com uma taxa compreendida entre 0 (euro) e 5,99 (euro)/1000 kg os produtos petrolíferos e energéticos classificados pelos códigos NC 2710 19 83 a 2710 19 93;
+
+f) Com a taxa compreendida entre 0 (euro) e 30 (euro)/1000 kg os produtos petrolíferos e energéticos classificados pelos códigos NC 2710 19 81, 2710 19 99, 3811 21 00 e 3811 29 00;
+
+g) Com a taxa compreendida entre 100 (euro) e 400 (euro)/1000 l, o gasóleo de aquecimento classificado pelo código NC 2710 19 45.
+
+9 - A fixação das taxas do imposto relativas aos produtos petrolíferos e energéticos referidos na parte final do n.º 4, no n.º 7 e nas alíneas e), f) e g) do número anterior, é feita por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia.
+
+10 - Qualquer produto utilizado como carburante está sujeito ao nível de tributação aplicável ao produto petrolífero e energético carburante substituído.
+
+11 - Os produtos referidos nas alíneas a) e c) do n.º 1 do artigo 88.º usados como combustível, para os quais não esteja prevista qualquer taxa, estão sujeitos ao nível de tributação aplicável ao produto petrolífero e energético combustível substituído.
+
+12 - Os aditivos classificados pelo código NC 3811 90 00 estão sujeitos à taxa aplicável aos produtos petrolíferos e energéticos nos quais se destinam a ser incorporados.
+
+> Nota: [Artigo 8.º, Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185) revoga o disposto na quarta linha da tabela prevista no presente artigo.
+
+> Nota: [Artigo 1.º, Lei n.º 10-A/2022 - Diário da República n.º 82/2022, 1º Suplemento, Série I de 2022-04-28](https://diariodarepublica.pt/dr/detalhe/lei/10-a-2022-182727789) Estão suspensos, até 31.12.2022, os limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) estabelecidos no presente artigo, aplicáveis à gasolina sem chumbo e ao gasóleo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 92.º-A — Adicionamento sobre as emissões de CO(índice 2)
+
+1 - Para além das taxas previstas no artigo anterior, os produtos petrolíferos e energéticos previstos na tabela seguinte estão ainda sujeitos a um adicionamento resultante da aplicação de uma taxa, calculada nos termos do número seguinte, e de acordo com os fatores de adicionamento constantes da mesma tabela:
+
+(ver documento original)
+
+2 - O valor da taxa referida no número anterior a vigorar em cada ano (n) é calculado no ano anterior (n-1) como média aritmética do preço resultante dos leilões de licenças de emissão de gases de efeito de estufa, realizados no âmbito do Comércio Europeu de Licenças de Emissão, entre 1 de outubro do ano n-2 e 30 de setembro do ano n-1.
+
+3 - Nos termos do número anterior, a AT publicita no seu sítio da Internet, até 30 de novembro de cada ano, o valor da taxa a aplicar no ano seguinte.
+
+4 - De acordo com a evolução de preços nos termos do n.º 1, pode ser fixado um valor mínimo para a tonelada de CO(índice 2), atualizado periodicamente, por portaria do membro do Governo responsável pela área das finanças.
+
+5 - O adicionamento incide sobre os produtos petrolíferos e energéticos referidos no artigo anterior e no n.º 1 quando sujeitos ao imposto e dele não isentos.
+
+6 - É aplicável à liquidação, cobrança e pagamento o disposto no presente Código, na lei geral tributária e no Código de Procedimento e Processo Tributário, com as devidas adaptações.
+
+7 - Os produtos petrolíferos e energéticos suscetíveis de beneficiar da isenção prevista na alínea f) do n.º 1 do artigo 89.º do Código dos IEC que sejam utilizados em instalações abrangidas pelo sistema CELE que tenham optado pela exclusão voluntária prevista neste regime estão isentos do adicionamento previsto neste artigo.
+
+> Nota: [Artigo 7.º, Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185) O valor da taxa a aplicar no ano de 2023, nos termos e para os efeitos do presente artigo, é publicitado no sítio da Internet da Autoridade Tributária e Aduaneira até 31 de janeiro de 2023.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-01
+
+###### Artigo 93.º — Taxas reduzidas
+
+1 - É tributado com taxa reduzida o gasóleo colorido e marcado com os aditivos definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia.
+
+2 - (Revogado.)
+
+3 - O gasóleo colorido e marcado só pode ser consumido por:
+
+a) Motores estacionários utilizados na rega;
+
+b) Embarcações referidas na alínea c) do n.º 1 do artigo 89.º;
+
+c) Equipamentos utilizados nas atividades agrícola, florestal, aquícola e na pesca com arte-xávega, aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, do ambiente, da agricultura e do mar;
+
+d) Veículos de transporte de passageiros e de mercadorias por caminhos de ferro;
+
+e) Motores fixos;
+
+f) Motores frigoríficos autónomos, instalados em veículos pesados de transporte de bens perecíveis, alimentados por depósitos de combustível separados, e que possuam certificação ATP (Acordo de Transportes Perecíveis), nos termos a definir em portaria dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e dos transportes.
+
+4 - (Revogado.)
+
+5 - O gasóleo colorido e marcado só pode ser adquirido pelos titulares do cartão eletrónico instituído para efeitos de controlo da sua afetação aos destinos referidos no n.º 3, sendo responsável pelo pagamento do montante de imposto, resultante da diferença entre o nível de tributação aplicável ao gasóleo rodoviário e a taxa aplicável ao gasóleo colorido e marcado, o proprietário ou o responsável legal pela exploração dos postos autorizados para a venda ao público, em relação às quantidades que venderem e que não fiquem devidamente registadas no sistema eletrónico de controlo, bem como em relação às quantidades para as quais não sejam emitidas as correspondentes faturas com a identificação fiscal do titular de cartão.
+
+6 - A venda, a aquisição ou o consumo do produto referido no n.º 1 em violação do disposto nos n.os 3 e 5 estão sujeitos às sanções previstas no Regime Geral das Infrações Tributárias e em legislação especial.
+
+7 - Para efeitos deste artigo, entendem-se por motores fixos os motores que se destinem à produção de energia e que, cumulativamente, se encontrem instalados em plataformas inamovíveis.
+
+8 - (Revogado);
+
+9 - Na aquisição do gasóleo colorido e marcado na Região Autónoma da Madeira é dispensada a utilização do cartão electrónico, enquanto não existirem as condições técnicas descritas no número anterior.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 385.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 93.º-A — Reembolso parcial para gasóleo e gás profissional
+
+1 - É parcialmente reembolsável o imposto sobre os produtos petrolíferos e energéticos suportado pelas empresas de transporte de mercadorias e de transporte coletivo de passageiros, com sede ou estabelecimento estável num Estado-Membro, relativamente ao gasóleo classificado pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19 e relativamente ao gás classificado pelos códigos NC 2711 11 00 e 2711 21 00, quando abastecido em veículos devidamente licenciados e destinados exclusivamente àquelas atividades.
+
+2 - O reembolso parcial previsto no número anterior aplica-se igualmente às demais imposições calculadas com base na quantidade de produtos petrolíferos introduzidos no consumo, sendo distribuído proporcionalmente por cada uma das imposições abrangidas com base nas respetivas taxas normais de tributação, excluindo-se o imposto sobre o valor acrescentado, ao qual se aplicam os procedimentos próprios deste imposto.
+
+3 - O reembolso previsto nos números anteriores é apenas aplicável:
+
+a) Às viaturas com um peso total em carga permitido não inferior a 7,5 toneladas matriculadas num Estado-Membro e, no caso das empresas de transporte de mercadorias, às viaturas tributadas em sede de imposto único de circulação ou tributação equivalente noutro Estado-Membro, nos escalões definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia;
+
+b) No caso das empresas de transporte coletivo de passageiros, além das condições previstas na alínea anterior, aos veículos destinados ao transporte coletivo de passageiros com lotação não inferior a 22 lugares, nos escalões definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia.
+
+4 - Os valores unitários do imposto sobre os produtos petrolíferos e energéticos e demais imposições a reembolsar nos termos do presente artigo são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia, respeitando o limiar mínimo de tributação estabelecido nos artigos 7.º e 15.º da Diretiva n.º 2003/96/CE, do Conselho, de 27 de outubro de 2003.
+
+5 - A portaria referida no número anterior fixa também o valor máximo de abastecimento anual, por veículo, elegível para reembolso, entre 25 000 e 40 000 litros, no caso do gasóleo, e entre 1500 e 2000 gigajoules, no caso do gás.
+
+6 - O reembolso parcial do imposto é devido ao adquirente, sendo processado com observância do limite previsto no n.º 4 do artigo 15.º atendendo aos abastecimentos mensais, através da comunicação por via eletrónica, a efetuar pelos emitentes de cartões frota ou outro mecanismo de controlo certificado à AT, dos seguintes dados:
+
+a) A matrícula da viatura abastecida e o Estado membro de emissão da mesma;
+
+b) A quilometragem da viatura no momento do abastecimento;
+
+c) O número de identificação fiscal (NIF) do adquirente do combustível, que seja proprietário, locatário financeiro ou locatário em regime de aluguer sem condutor da viatura abastecida e devidamente licenciada para o transporte rodoviário de mercadorias por conta de outrem ou para o transporte coletivo de passageiros;
+
+d) O volume de litros ou gigajoules abastecidos e o respetivo preço de venda;
+
+e) O tipo de combustível;
+
+f) A data e o local do abastecimento;
+
+g) O número e a data da fatura correspondente;
+
+h) O número do cartão ou outro mecanismo de controlo individualizado por viatura utilizado no registo dos abastecimentos;
+
+i) O número de identificação em sede de imposto sobre o valor acrescentado emitido por outro Estado membro, a denominação, a morada da sede ou do estabelecimento estável, o código de atividade (NACE), o endereço de correio eletrónico e o número internacional de conta bancária (IBAN), em relação aos adquirentes sem NIF ou número de identificação de pessoa coletiva (NIPC) portugueses;
+
+j) O peso total em carga permitido da viatura, quando matriculada noutro Estado membro.
+
+7 - O reembolso referido nos números anteriores depende da certificação pela AT dos sistemas de registo e comunicação de abastecimentos, bem como dos locais de abastecimento.
+
+8 - Os procedimentos de controlo deste mecanismo de reembolso são fixados por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, das finanças e da energia, na qual se determinam designadamente:
+
+a) As obrigações acessórias dos emitentes de cartões frota ou outro mecanismo de controlo certificado, dos revendedores e dos adquirentes de combustíveis;
+
+b) A dispensa de comunicação de algum dos dados previstos no n.º 6, designadamente em relação à informação que seja transmitida à AT no âmbito de outros procedimentos;
+
+c) Os requisitos dos sistemas de registo, controlo e comunicação de abastecimentos;
+
+d) As condições de exigibilidade e especificações técnicas de aditivos para marcação do gasóleo que beneficie do presente regime de reembolso.
+
+9 - O presente regime de reembolso parcial aplica-se igualmente, com as necessárias adaptações, ao abastecimento a depósitos localizados em instalações de consumo próprio de empresas de transporte de mercadorias exclusivamente destinadas às viaturas previstas no n.º 3.
+
+10 - O reembolso parcial do imposto ao adquirente é devido no prazo de 90 dias após a comunicação à AT do respetivo abastecimento.
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 24/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/24-2016-75177805), em vigor a partir de 2016-08-23, produz efeitos a partir de 2017-01-01
+
+###### Artigo 94.º — Taxas na Região Autónoma dos Açores
+
+1 - Os valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos são fixados, para a Região Autónoma dos Açores, tendo em consideração o princípio de liberdade de mercado e as técnicas tributárias próprias.
+
+2 - As taxas do imposto aplicáveis nas ilhas dos Açores são inferiores às taxas aplicáveis na ilha de São Miguel, a fim de compensar os sobrecustos de transporte e armazenagem entre São Miguel ou o continente e as respectivas ilhas.
+
+3 - Os sobrecustos referidos no número anterior são determinados pelo Governo Regional.
+
+4 - Para efeitos do disposto no presente artigo, os valores das taxas unitárias do imposto aplicáveis na ilha de São Miguel aos produtos a seguir indicados são fixados por resolução do Conselho do Governo Regional, podendo ser alterados dentro dos seguintes intervalos:
+
+(ver documento original)
+
+> Nota: [Artigo 1.º, Lei n.º 10-A/2022 - Diário da República n.º 82/2022, 1º Suplemento, Série I de 2022-04-28](https://diariodarepublica.pt/dr/detalhe/lei/10-a-2022-182727789) Estão suspensos, até 31.12.2022, os limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) estabelecidos no presente artigo, aplicáveis à gasolina sem chumbo e ao gasóleo.
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 95.º — Taxas na Região Autónoma da Madeira
+
+Os valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, aplicável às gasolinas, aos gasóleos, aos petróleos, aos fuelóleos e à eletricidade, são fixados, para a Região Autónoma da Madeira, por portaria do membro competente do Governo Regional da Madeira, tendo em consideração o princípio da liberdade de mercado e os diferentes impactos ambientais de cada um dos produtos energéticos, favorecendo gradualmente os menos poluentes, dentro dos seguintes intervalos:
+
+(ver documento original)
+
+> Nota: [Artigo 1.º, Lei n.º 10-A/2022 - Diário da República n.º 82/2022, 1º Suplemento, Série I de 2022-04-28](https://diariodarepublica.pt/dr/detalhe/lei/10-a-2022-182727789) Estão suspensos, até 31.12.2022, os limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) estabelecidos no presente artigo, aplicáveis à gasolina sem chumbo e ao gasóleo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611)
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 96.º — Produção de produtos petrolíferos e energéticos
+
+1 - Consideram-se estabelecimentos de produção de produtos petrolíferos e energéticos as instalações industriais onde os produtos referidos no n.º 2 do artigo 88.º são fabricados ou submetidos a um tratamento definido, na aceção da nota complementar 5 do capítulo 27 da NC.
+
+2 - Não se consideram produção de produtos petrolíferos e energéticos:
+
+a) As operações no decurso das quais sejam obtidas pequenas quantidades de produtos petrolíferos e energéticos como subprodutos;
+
+b) As operações mediante as quais o utilizador de um produto petrolífero e energético torne possível a sua reutilização na sua própria empresa, desde que os montantes do imposto já pagos sobre esse produto não sejam inferiores ao montante do imposto devido, se o produto reutilizado fosse de novo sujeito a esse imposto;
+
+c) A operação que consiste em misturar, fora de um estabelecimento de produção ou de um entreposto aduaneiro, produtos petrolíferos e energéticos com outros produtos petrolíferos e energéticos ou outras substâncias, desde que observados os requisitos previstos no número seguinte.
+
+3 - A operação prevista na alínea c) do número anterior não é qualificada como produção de produtos petrolíferos e energéticos, quando:
+
+a) O imposto das substâncias de base tenha sido pago anteriormente; e
+
+b) O montante pago não seja inferior ao montante do imposto devido por essa mistura, não sendo a primeira condição aplicável quando a mistura esteja isenta em função de um destino especial.
+
+4 - O tratamento de óleos minerais usados com vista à obtenção de produtos utilizáveis em uso como combustível ou como carburante é obrigatoriamente feito em entreposto fiscal.
+
+5 - A mistura de vários tipos de gases de petróleo com metano, gás natural ou outro tipo de gases, para obtenção de gás carburante para automóveis, só pode ser feita em entreposto fiscal.
+
+6 - A mistura ou incorporação de biocombustíveis noutros produtos petrolíferos e energéticos é obrigatoriamente feita em entreposto fiscal.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+###### Artigo 96.º-A — Comercialização da electricidade
+
+1 - Os comercializadores de electricidade registados e licenciados nos termos da legislação aplicável, que fornecem ao consumidor final, incluindo os comercializadores de electricidade para a mobilidade eléctrica, devem registar-se na estância aduaneira competente, para efeitos do cumprimento das obrigações fiscais previstas no presente Código.
+
+2 - São equiparados aos comercializadores os produtores de electricidade que forneçam directamente os consumidores, através da rede pública de distribuição ou através de linha directa.
+
+3 - As quantidades de electricidade a declarar para introdução no consumo são as quantidades facturadas aos clientes consumidores finais.
+
+4 - Os comercializadores de eletricidade estão sujeitos ao cumprimento das seguintes obrigações:
+
+a) Manter um registo da faturação, que permita a identificação dos clientes e o apuramento das quantidades fornecidas, por local de fornecimento e respetivo Código de Ponto de Entrega; e
+
+b) Permitir a realização de controlos que possibilitem à autoridade aduaneira relacionar as quantidades fornecidas e faturadas por cliente com as correspondentes declarações de introdução no consumo.
+
+5 - No momento do registo na estância aduaneira competente, o comercializador deve indicar a localização do registo da faturação a que se refere a alínea a) do número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 133.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 96.º-B — Comercialização do gás natural
+
+1 - Os comercializadores de gás natural registados e licenciados nos termos da legislação aplicável, que fornecem ao consumidor final, devem registar-se na estância aduaneira competente, para efeitos do cumprimento das obrigações fiscais previstas no presente Código.
+
+2 - As quantidades de gás natural a declarar para introdução no consumo são as quantidades faturadas aos clientes consumidores finais.
+
+3 - (Revogado).
+
+4 - Os comercializadores de gás natural estão sujeitos ao cumprimento das seguintes obrigações:
+
+a) Manter um registo da faturação, que permita a identificação dos clientes e o apuramento das quantidades fornecidas, por local de fornecimento e respetivo Código Universal de Identificação; e
+
+b) Permitir os controlos que possibilitem à autoridade aduaneira relacionar as quantidades fornecidas e faturadas por cliente com as correspondentes declarações de introdução no consumo.
+
+5 - No momento do registo na estância aduaneira competente, o comercializador deve indicar a localização do registo da faturação a que se refere a alínea a) do número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 210.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 97.º — Controlo fiscal de biocombustíveis
+
+1 - Os locais de produção dos biocombustíveis são autorizados como entrepostos fiscais de transformação.
+
+2 - (revogado.)
+
+3 - (revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 111.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 98.º — Constituição de entrepostos fiscais
+
+1 - Para além dos requisitos referidos no artigo 24.º, os interessados devem:
+
+a) Apresentar memória descritiva das instalações com a respectiva planta e características gerais dos reservatórios que delas façam parte, incluindo a respectiva planimetria, devendo a memória descritiva conter o volume nominal dos reservatórios e respectivos produtos a armazenar e o volume nominal das tubagens de interligação, abastecimento e transferência, devendo ser também acompanhada dos certificados de calibração e respectivas tabelas volumétricas;
+
+b) Submeter os depósitos e os instrumentos de medição ao controlo metrológico da entidade competente e possuir certificado de calibração dentro do prazo de validade;
+
+c) Apresentar um documento emitido pela entidade responsável pela constituição, gestão e manutenção das reservas estratégicas nacionais de petróleo e produtos petrolíferos, atestando o cumprimento das obrigações em matéria de reservas de segurança ou, em caso de início de atividade, de ter sido demonstrada a existência de condições para o seu cumprimento.
+
+2 - As autorizações para a constituição de entrepostos fiscais só podem ser concedidas a pessoas singulares ou colectivas que satisfaçam cumulativamente os seguintes requisitos económicos mínimos:
+
+a) Capital social: (euro) 500 000;
+
+b) Capacidade de armazenagem: 100 000 l por produto, no que se refere às gasolinas e ao gasóleo;
+
+c) Volume de vendas anual: (euro) 5 000 000.
+
+3 - Os titulares de entrepostos fiscais de transformação estão dispensados dos requisitos referidos no número anterior.
+
+4 - Consideram-se entrepostos fiscais de transformação os entrepostos fiscais de produção onde são efectuadas operações de produção que não envolvem a refinação de petróleo bruto.
+
+5 - Os titulares de entrepostos fiscais de armazenagem de produtos destinados a ser utilizados em fins isentos dentro do território nacional estão dispensados dos requisitos previstos no n.º 2.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 99.º — Obrigações do destinatário registado e do destinatário registado temporário
+
+Para além dos requisitos previstos nos artigos 29.º e 30.º, os interessados devem ainda apresentar um documento emitido pela entidade responsável pela constituição, gestão e manutenção das reservas estratégicas nacionais de petróleo e produtos petrolíferos, atestando o cumprimento das obrigações em matéria de reservas de segurança ou de ter sido demonstrada a existência de condições para o seu cumprimento, em caso de início de atividade.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+###### Artigo 100.º — Circulação
+
+1 - Estão sujeitos aos documentos previstos nos artigos 36.º e 60.º os seguintes produtos petrolíferos e energéticos:
+
+a) Os produtos abrangidos pelos códigos NC 1507 a 1518, quando destinados a serem utilizados como carburante ou combustível;
+
+b) Os produtos abrangidos pelos códigos NC 2707 10, 2707 20, 2707 30 e 2707 50;
+
+c) Os produtos abrangidos pelos códigos NC 2710 12 a 2710 19 68, 2710 20 a 2710 20 39, 2710 20 90, 2710 19 29 e 2710 20 90, apenas para os produtos dos quais menos de 90 % em volume, incluindo perdas, destile a 210ºC e 65 % ou mais em volume, incluindo perdas, destile a 250ºC pelo método ISO 3405, e no caso dos produtos abrangidos pelos códigos 2710 12 21, 2710 12 25, 2710 19 29 e 2710 20 90, as disposições em matéria de controlo e circulação são apenas aplicáveis à circulação comercial a granel;
+
+d) Os produtos abrangidos pelos códigos NC 2711, com excepção dos códigos 2711 11, 2711 21 e 2711 29;
+
+e) Os produtos abrangidos pelo código NC 2901 10;
+
+f) Os produtos abrangidos pelos códigos 2902 20, 2902 30, 2902 41, 2902 42, 2902 43 e 29 02 44;
+
+g) Os produtos abrangidos pelos códigos 2905 11 00, que não sejam de origem sintética, quando destinados a serem utilizados como carburante ou combustível;
+
+h) Os produtos abrangidos pelos códigos NC 3824 90 91 e 3824 90 97, quando destinados a ser utilizados como carburante ou combustível.
+
+i) Os produtos abrangidos pelos códigos NC 3811 11 10, 3811 11 90, 3811 19 00 e 3811 90 00.
+
+2 - Ficam dispensados do documento administrativo electrónico previsto no artigo 36.º os produtos petrolíferos e energéticos que circulem em regime de suspensão do imposto por condutas fixas em território nacional.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+### Capítulo III — Imposto sobre o tabaco
+
+###### Artigo 101.º — Incidência objetiva
+
+1 - O imposto incide sobre o tabaco manufaturado, considerando-se como tal os seguintes produtos:
+
+a) Os charutos e as cigarrilhas;
+
+b) Os cigarros;
+
+c) Os tabacos de fumar, compreendendo o tabaco de corte fino destinado a cigarros de enrolar e os restantes tabacos de fumar, com exclusão do tabaco para cachimbo de água;
+
+d) O tabaco para cachimbo de água.
+
+e) O rapé;
+
+f) O tabaco de mascar;
+
+g) O tabaco aquecido;
+
+h) O líquido, com ou sem nicotina, em recipientes utilizados para carga e recarga de cigarros eletrónicos, reutilizáveis ou não;
+
+i) As bolsas de nicotina.
+
+2 - Para efeitos de aplicação da alínea a) do número anterior, são considerados charutos e cigarrilhas, se puderem ser fumados tal como se apresentam e se, tendo em conta as suas características e as expectativas normais dos consumidores, se destinarem exclusivamente a sê-lo:
+
+a) (Revogada.)
+
+b)Os rolos de tabaco revestidos de uma capa exterior em tabaco natural;
+
+c) (Revogada.)
+
+d) Os rolos de tabaco com um interior constituído por uma mistura de tabaco batido e revestidos de uma capa exterior, com a cor natural dos charutos, em tabaco reconstituído, abrangendo a totalidade do produto, incluindo, se for caso disso, o filtro, mas não a boquilha, no caso de charutos com boquilha, quando o seu peso unitário, sem filtro nem boquilha, for igual ou superior a 2,3 g e inferior a 10 g e o seu perímetro, em pelo menos um terço do comprimento, for igual ou superior a 34 mm.
+
+3 - Os rolos de tabaco mencionados no número anterior são considerados cigarrilhas ou charutos, consoante o seu peso seja igual ou inferior a 3 g por unidade ou superior a 3 g por unidade, respetivamente.
+
+4 - São equiparados a charutos e cigarrilhas os produtos constituídos parcialmente por substâncias que não sejam tabaco, mas que correspondam aos outros critérios definidos no número anterior.
+
+5 - Para efeitos de aplicação da alínea b) do n.º 1, são considerados cigarros:
+
+a) Os rolos de tabaco suscetíveis de serem fumados tal como se apresentam e que não sejam charutos ou cigarrilhas no sentido definido no n.º 2;
+
+b) Os rolos de tabaco que, mediante uma simples manipulação não industrial, são introduzidos em tubos de papel de cigarro;
+
+c) Os rolos de tabaco que, por simples manipulação não industrial, são envolvidos em folhas de papel de cigarro;
+
+d) Um rolo de tabaco dos referidos nas alíneas anteriores é considerado, para efeitos de aplicação do imposto, como dois cigarros quando, sem filtro e sem boquilha, tenha um comprimento superior a 8 cm, sem ultrapassar 11 cm, como três cigarros quando, nas mesmas condições, tenha um comprimento superior a 11 cm, sem ultrapassar 14 cm, e assim sucessivamente.
+
+6 - Para efeitos de aplicação da alínea c) do n.º 1, são considerados tabacos de fumar:
+
+a) O tabaco cortado ou fracionado de outra maneira, em fio ou em placas, suscetível de ser fumado sem transformação industrial posterior;
+
+b) Os resíduos de tabaco acondicionados para venda ao público não abrangidos nos n.os 2 e 4 suscetíveis de serem fumados, considerando-se resíduos de tabaco os restos das folhas de tabaco e os subprodutos provenientes da transformação do tabaco ou do fabrico de produtos de tabaco;
+
+c) O tabaco de corte fino destinado a cigarros de enrolar, conforme definido nas alíneas anteriores, relativamente ao qual mais de 25 % em peso das partículas tenha uma largura de corte inferior a 1,5 mm, ou superior a 1,5 mm e que tenha sido vendido ou se destine a ser vendido para cigarros de enrolar.
+
+d) As folhas de tabaco destinadas a venda ao público.
+
+7 - Para efeitos de aplicação da alínea d) do n.º 1, é considerado 'tabaco para cachimbo de água' o tabaco próprio para ser fumado exclusivamente num cachimbo de água e que consista numa mistura de tabaco e glicerol, podendo ainda conter óleos e extratos aromáticos, melaços ou açúcar e ser aromatizado com frutas.
+
+8 - Para efeitos de aplicação da alínea e) do n.º 1, é considerado rapé o tabaco em pó ou em grão, especialmente preparado para ser cheirado, mas não fumado.
+
+9 - Para efeitos de aplicação da alínea f) do n.º 1, é considerado tabaco para mascar o tabaco apresentado em rolos, barras, tiras, cubos ou placas, acondicionado para a venda ao público, especialmente preparado para ser mascado mas não fumado.
+
+10 - Para efeitos de aplicação da alínea g) do n.º 1, é considerado tabaco aquecido o produto de tabaco manufaturado especialmente preparado para emitir um vapor sem combustão da mistura de tabaco nele contida.
+
+11 - Para efeitos de aplicação da alínea h) do n.º 1, é considerado cigarro eletrónico o produto que pode ser utilizado para consumir vapor que contém nicotina, por meio de boquilha, ou qualquer componente desse produto, incluindo um cartucho, um reservatório e o dispositivo sem cartucho ou reservatório, podendo ser descartável ou recarregável através de uma recarga e de um reservatório, ou recarregado por cartucho não reutilizável.
+
+12 - Para efeitos de aplicação da alínea i) do n.º 1, é considerado bolsa de nicotina o produto, contendo nicotina natural, acondicionado individualmente em saquetas ou outros dispositivos unitários, que contenham até 12 mg de nicotina e não contenham qualquer forma de tabaco, destinado a ser colocado na cavidade oral, libertando nicotina que é absorvida pelas mucosas.
+
+13 - São equiparados aos cigarros, aos tabacos de fumar, ao tabaco para cachimbo de água, ao rapé, ao tabaco de mascar e ao tabaco aquecido os produtos constituídos, total ou parcialmente, por substâncias que, não sendo tabaco, obedeçam aos outros critérios definidos nos n.os 4 a 9, excetuando os produtos que tenham uma função exclusivamente medicinal.
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 102.º — Isenções
+
+1 - Estão isentos do imposto:
+
+a) O tabaco desnaturado utilizado para fins industriais ou hortícolas;
+
+b) O tabaco exclusivamente destinado a testes científicos, bem como a testes relacionados com a qualidade dos produtos;
+
+c) O tabaco destinado a ensaios;
+
+d) O tabaco reciclado pelo produtor que, comprovadamente, resulte de tabaco deteriorado e impróprio para o consumo humano.
+
+2 - A isenção prevista na alínea a) do número anterior está dependente da autorização prévia da estância aduaneira competente.
+
+3 - Para efeitos de controlo, as isenções previstas nas alíneas b), c) e d) do n.º 1 devem ser previamente comunicadas à estância aduaneira competente.
+
+4 - No caso de as isenções previstas nas alíneas b) e c) do n.º 1 ultrapassarem 0,01 % das introduções no consumo efectuadas pelo operador económico no ano anterior, ficam sujeitas a autorização prévia da estância aduaneira competente.
+
+###### Artigo 103.º — Cigarros
+
+1 - O imposto incidente sobre os cigarros tem dois elementos: um específico e outro ad valorem.
+
+2 - A unidade tributável do elemento específico é constituída pelo milheiro de cigarros.
+
+3 - O elemento ad valorem resulta da aplicação de uma percentagem única aos preços de venda ao público de todos os tipos de cigarros.
+
+4 - As taxas dos elementos específico e ad valorem são as seguintes:
+
+a) Elemento específico - 151,88 (euro);
+
+b) Elemento ad valorem - 1 %.
+
+5 - Os cigarros ficam sujeitos a um montante mínimo de imposto sobre o tabaco que corresponde ao imposto mínimo total de referência deduzido do montante do imposto de valor acrescentado correspondente ao preço de venda ao público desses cigarros.
+
+6 - O imposto mínimo total de referência, a vigorar em cada ano, corresponde ao somatório do produto da aplicação das taxas de imposto sobre o tabaco previstas no n.º 4 e da taxa do imposto sobre o valor acrescentado ao preço médio ponderado nacional dos cigarros.
+
+7 - (Revogado.)
+
+8 - O preço médio ponderado nacional resulta do valor de todos os cigarros introduzidos no consumo, com base no respetivo preço de venda ao público, dividido pela quantidade total dos cigarros introduzidos no consumo em Portugal, no período entre o dia 1 de dezembro do segundo ano anterior (ano n-2) e o dia 30 de novembro do ano anterior (ano n-1), arredondado por excesso ou por defeito à segunda casa decimal.
+
+9 - Quando excedido o limiar definido no n.º 4 do artigo 8.º da Diretiva 2011/64/UE do Conselho, de 21 de junho de 2011, a taxa de imposto ad valorem prevista na alínea b) do n.º 4 é corrigida para o quociente entre o imposto mínimo total de referência e o preço médio ponderado nacional, sendo deduzidos ao resultado daquele quociente o limiar definido no n.º 4 do artigo 8.º da diretiva supra referida e a taxa de imposto sobre o valor acrescentado.
+
+> Alterado pelo/a Artigo 97.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 385.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 103.º-A — Tabaco aquecido
+
+1 - O imposto incidente sobre o tabaco aquecido tem dois elementos: um específico e outro ad valorem.
+
+2 - A unidade tributável do elemento específico é o grama.
+
+3 - O elemento ad valorem resulta da aplicação de uma percentagem única aos preços de venda ao público do tabaco aquecido.
+
+4 - As taxas dos elementos específico e ad valorem são as seguintes:
+
+a) Elemento específico - 0,0935 (euro)/g;
+
+b) Elemento ad valorem - 15 %.
+
+5 - O imposto relativo ao tabaco aquecido resultante da aplicação do número anterior não pode ser inferior a metade do imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º, ponderado pelo fator de equivalência de 0,325 g de tabaco aquecido por unidade de cigarro.
+
+6 - Para efeitos de determinação do imposto aplicável, caso o peso das embalagens individuais, expresso em gramas, constitua um número decimal, esse peso é arredondado:
+
+a) Por excesso, para o número inteiro imediatamente superior, quando o algarismo da primeira casa decimal for igual ou superior a cinco;
+
+b) Por defeito, para o número inteiro imediatamente inferior, nos restantes casos.
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Aditado pelo/a Artigo 346.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+###### Artigo 104.º — Charutos e cigarrilhas
+
+1 - O imposto sobre os charutos e as cigarrilhas reveste a forma ad valorem, resultando da aplicação ao respetivo preço de venda ao público das percentagens seguintes:
+
+a) Charutos - 451,92 (euro)/milheiro;
+
+b) Cigarrilhas - ao imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) Tabaco para cachimbo de água - 50 %.
+
+2 - O imposto resultante da aplicação do número anterior não pode ser inferior a:
+
+a) Charutos - 416,22 (euro) por milheiro;
+
+b) Cigarrilhas - 50 % do imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º
+
+3 -  (Revogado.)
+
+4 -  (Revogado.)
+
+5 -  (Revogado.)
+
+6 - (Revogado.)
+
+7 -  (Revogado.)
+
+> Alterado pelo/a Artigo 97.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 104.º-A — Tabacos de fumar, rapé e tabaco de mascar
+
+1 - O imposto incidente sobre o tabaco de corte fino destinado a cigarros de enrolar e sobre os restantes tabacos de fumar, o rapé e o tabaco de mascar tem dois elementos: um específico e outro ad valorem.
+
+2 - A unidade tributável do elemento específico é o grama.
+
+3 - O elemento ad valorem resulta da aplicação de uma percentagem única aos preços de venda ao público de todos os tipos de tabaco de corte fino destinado a cigarros de enrolar e restantes tabacos de fumar, de rapé e de tabaco de mascar.
+
+4 - As taxas dos elementos específico e ad valorem são as seguintes:
+
+a) Elemento específico - 0,091 (euro)/g;
+
+b) Elemento ad valorem - 15 %.
+
+5 - O imposto relativo ao tabaco de corte fino destinado a cigarros de enrolar, e restantes tabacos de fumar, ao rapé e ao tabaco de mascar, resultante da aplicação do número anterior não pode ser inferior a dois terços do imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º, ponderado pelo fator de equivalência de 0,5 g daqueles produtos de tabaco por unidade de cigarro.
+
+6 - Para efeitos de determinação do imposto aplicável, caso o peso das embalagens individuais, expresso em gramas, constitua um número decimal, esse peso é arredondado:
+
+a) Por excesso, para o número inteiro imediatamente superior, quando o algarismo da primeira casa decimal for igual ou superior a cinco;
+
+b) Por defeito, para o número inteiro imediatamente inferior, nos restantes casos.
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 104.º-B — Tabaco para cachimbo de água
+
+1 - O imposto incidente sobre o tabaco para cachimbo de água reveste a forma ad valorem, resultando da aplicação de uma percentagem única ao respetivo preço de venda ao público.
+
+2 - A taxa aplicável é de 75 %.
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 104.º-C — Líquido para cigarros eletrónicos
+
+1 - O imposto incidente sobre o líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos reveste a forma específica, sendo a unidade tributável o mililitro.
+
+2 - As taxas do imposto sobre o líquido previsto no número anterior são as seguintes:
+
+a) Líquido contendo nicotina - 0,351 (euro)/ml;
+
+b) Líquido sem nicotina - 0,175 (euro)/ml.
+
+3 - Para efeitos de determinação do imposto aplicável, caso o volume das embalagens individuais, expresso em mililitros, constitua um número decimal, esse volume é arredondado:
+
+a) Por excesso, para o número inteiro imediatamente superior, quando o algarismo da primeira casa decimal for igual ou superior a cinco;
+
+b) Por defeito, para o número inteiro imediatamente inferior, nos restantes casos.
+
+4 - O imposto relativo aos líquidos em recipientes utilizados para cigarros eletrónicos não reutilizáveis, ponderado pelo fator de equivalência de 0,05 ml daqueles líquidos, por unidade de cigarro, não pode ser inferior a:
+
+a) Nos líquidos contendo nicotina, 25 % do imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º;
+
+b) Nos líquidos sem nicotina, 12,5 % do imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º
+
+5 - O imposto incidente sobre o líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos reutilizáveis não pode ser inferior a dois terços do valor resultante das alíneas a) ou b) do número anterior quanto aos líquidos contendo nicotina ou sem nicotina, respetivamente.
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 104.º-D — Bolsas de nicotina
+
+1 - O imposto incidente sobre as bolsas de nicotina reveste a forma específica, sendo a unidade tributável o grama.
+
+2 - A taxa do imposto é de 0,065 €/g.
+
+3 - Para efeitos de determinação do imposto aplicável, caso o peso das embalagens individuais, expresso em gramas, constitua um número decimal, esse peso é arredondado:
+
+a) Por excesso, para o número inteiro imediatamente superior, quando o algarismo da primeira casa decimal for igual ou superior a 5;
+
+b) Por defeito, para o número inteiro imediatamente inferior, nos restantes casos.
+
+> Aditado pelo/a Artigo 80.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+###### Artigo 105.º — Taxas na Região Autónoma dos Açores
+
+1 - Aos cigarros fabricados nas Regiões Autónomas dos Açores e da Madeira por pequenos produtores cuja produção anual não exceda, individualmente, 500 t e que sejam consumidos na Região Autónoma dos Açores são aplicáveis as seguintes taxas:
+
+a) Elemento específico - 35,36 (euro);
+
+b) Elemento ad valorem - 42 %.
+
+2 - Os cigarros ficam sujeitos, no mínimo, a 80 % do montante do imposto que resulte da aplicação do disposto no n.º 5 do artigo 103.º
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611)
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 110.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 105.º-A — Taxas na Região Autónoma da Madeira
+
+1 - Aos cigarros fabricados nas Regiões Autónomas da Madeira e dos Açores por pequenos produtores cuja produção anual não exceda, individualmente, 500 t e que sejam consumidos na Região Autónoma da Madeira são aplicáveis as seguintes taxas:
+
+a) Elemento específico - 64,01 (euro);
+
+b) Elemento ad valorem - 9 %.
+
+2 - Os cigarros ficam sujeitos, no mínimo, a 87 % do montante do imposto que resulta da aplicação do disposto no n.º 5 do artigo 103.º
+
+3 - A todos os cigarros consumidos na Região Autónoma da Madeira, às taxas previstas no n.º 1 deste artigo ou no n.º 4 do artigo 103.º, consoante o caso, adicionam-se as seguintes taxas:
+
+a) Elemento específico - 22,47 (euro);
+
+b) Elemento ad valorem - 9 %.
+
+> Alterado pelo/a Artigo 243.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 294.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 345.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 106.º — Regras especiais de introdução no consumo
+
+1 - A introdução no consumo de tabaco manufaturado está sujeita a regras de condicionamento aplicáveis no período que medeia entre o dia 1 de setembro e o dia 31 de dezembro de cada ano civil.
+
+2 - Durante o período referido no número anterior, as introduções no consumo de tabaco manufaturado efetuadas mensalmente, por cada operador económico, não podem exceder os limites quantitativos, decorrentes da aplicação de um fator de majoração, definido por portaria do membro do Governo com a tutela da área das finanças, à quantidade média mensal do tabaco manufaturado introduzido no consumo ao longo dos 12 meses imediatamente anteriores.
+
+3 - Para efeitos do disposto no número anterior, o cálculo da média mensal tem por base a quantidade total das introduções no consumo, por tipo de produto de tabaco manufaturado não isento, efetuadas entre o dia 1 de setembro do ano anterior e o dia 31 de agosto do ano em causa.
+
+4 - No caso de produtos de tabaco manufaturado cuja comercialização se inicie durante o período referido no número anterior, são apenas tomados em consideração, para efeitos do cálculo da média mensal desses produtos, o número de meses decorridos entre o dia 1 do mês da primeira introdução no consumo e o dia 31 de agosto do ano em causa.
+
+5 - As introduções no consumo de produtos de tabaco manufaturado cuja comercialização se inicie durante o período de condicionamento não estão, durante esse período, sujeitas aos limites quantitativos previstos no presente artigo, devendo apenas ser tomadas em consideração para efeitos de apuramento da média mensal aplicável ao ano seguinte.
+
+6 - No caso de produtos de tabaco manufaturado cuja comercialização se inicie durante o período referido no número anterior, são apenas tomados em consideração, para efeitos do cálculo da média mensal desses produtos, o número de meses decorridos entre o dia 1 do mês da primeira introdução no consumo e o dia 31 de agosto do ano em causa.
+
+7 - As introduções no consumo de produtos de tabaco manufaturado cuja comercialização se inicie durante o período de condicionamento não estão, durante esse período, sujeitas aos limites quantitativos previstos no presente artigo, devendo apenas ser tomadas em consideração para efeitos de apuramento da média mensal aplicável ao ano seguinte.
+
+8 - Findo o período de condicionamento e o mais tardar até ao final do mês de janeiro de cada ano, o operador económico deve apresentar à estância aduaneira competente uma declaração de apuramento contendo a indicação das quantidades totais de tabaco manufaturado efetivamente introduzidas no consumo durante o período de condicionamento.
+
+9 - As quantidades de tabaco manufaturado que excedam o limite quantitativo referido no n.º 6 ficam sujeitas ao pagamento do imposto à taxa em vigor na data da apresentação da declaração de apuramento, quando tal excesso seja comprovado pelo confronto dos seus elementos com os processados pela administração, sem prejuízo do procedimento por infração a que houver lugar.
+
+10 - As regras previstas nos números anteriores são individualmente aplicáveis ao continente, à Região Autónoma dos Açores e à Região Autónoma da Madeira, devendo as obrigações previstas nos números anteriores ser cumpridas junto da estância aduaneira onde são processadas as respetivas introduções no consumo.
+
+11 - Para efeitos do disposto no n.º 9, a liquidação do imposto é feita nos seguintes termos:
+
+a) No caso de cigarros, de acordo com o previsto no n.º 5 do artigo 103.º, no n.º 2 do artigo 105.º ou no n.º 2 do artigo 105.º-A, consoante se reportem a introduções no consumo efetuadas no continente, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, respetivamente;
+
+b) No caso das cigarrilhas, de acordo com o previsto no n.º 2 do artigo 104.º;
+
+c) No caso do tabaco de corte fino destinado a cigarros de enrolar e dos restantes tabacos de fumar, de acordo com o previsto no n.º 5 do artigo 104.º-A;
+
+12 - As regras de condicionamento previstas no presente artigo não são aplicáveis aos charutos, ao tabaco para cachimbo de água, ao rapé, ao tabaco de mascar, ao tabaco aquecido, ao líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos e às bolsas de nicotina.
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 157.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 107.º — Regras especiais de produção
+
+Pode ser autorizado o encapamento de charutos e cigarrilhas fora dos entrepostos fiscais e em regime de tarefa domiciliária, nas condições a fixar por despacho do director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
+
+###### Artigo 108.º — Condições de comercialização
+
+1 - É proibida a comercialização no mercado nacional de produtos de tabaco que não satisfaçam as condições legalmente exigidas para o efeito ou que não correspondam aos elementos declarados nos termos dos números seguintes.
+
+2 - A comercialização de novas marcas de tabaco manufacturado, ou quaisquer alterações dos elementos de marcas já existentes, devem ser previamente comunicadas à autoridade aduaneira, com a antecedência mínima de 30 dias.
+
+3 - Para efeitos do disposto no número anterior, devem ser declarados pelos operadores económicos os seguintes elementos:
+
+a) Características de apresentação das marcas;
+
+b) Características físicas do produto e seu enquadramento nos termos do artigo 101.º;
+
+c) O teor de nicotina, no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos e das bolsas de nicotina;
+
+d) Preço de venda ao público pretendido, com a adequada fundamentação.
+
+4 - A comunicação feita nos termos do número anterior não afasta a responsabilidade do operador económico pelo cumprimento dos requisitos legais.
+
+5 - (Revogado).
+
+6 - Os operadores económicos que comercializem produtos de tabaco que não se destinam a ser introduzidos no consumo no território nacional devem indicar previamente à estância aduaneira competente os preços de venda que seriam praticados se os produtos referidos se destinassem a ser introduzidos naquele território, bem como as subsequentes alterações desses preços.
+
+7 - No caso de determinada marca de tabacos deixar de ser comercializada, o operador económico deve comunicar o facto à autoridade aduaneira, indicando a data em que tal ocorreu, considerando-se que uma marca de tabaco deixou de ser comercializada se durante 12 meses seguidos não tiver sido introduzida no consumo.
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 109.º — Dizeres das embalagens
+
+1 - Sem prejuízo de outras obrigações impostas por lei especial, os produtos de tabaco destinado ao consumo no continente e nas regiões autónomas devem conter impresso, em local bem visível das respetivas embalagens individuais:
+
+a) O nome da empresa fabricante;
+
+b) A designação da marca;
+
+c) O preço de venda ao público no território de consumo;
+
+d) O número de unidades, ou o peso líquido no caso dos tabacos de fumar, do tabaco para cachimbo de água, do rapé, do tabaco de mascar e do tabaco aquecido, ou o volume de líquido no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
+
+e) O teor de nicotina, no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos e das bolsas de nicotina;
+
+f) A designação do tipo de produto;
+
+g) A mensagem com o aviso de saúde, nos termos da legislação aplicável.
+
+2 - Nas embalagens destinadas a exportação ou a provisões de bordo é dispensada a indicação do preço de venda ao público.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 207.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 110.º — Marcação das embalagens
+
+1 - As embalagens de venda ao público de tabaco manufaturado para consumo no território nacional devem ter aposta, antes da sua introdução no consumo, uma estampilha especial, cujo período de comercialização, modelo, forma de aposição e controlo são regulamentados por portaria do membro do Governo responsável pela área das finanças, a qual é utilizada como elemento de segurança, sendo complementada por um identificador único, sempre que exigível, nos termos da legislação aplicável.
+
+2 - As formalidades a observar para a requisição e o fornecimento das estampilhas especiais e do identificador único, bem como os correspondentes preços unitários, são determinados por portaria do membro do Governo responsável pela área das finanças.
+
+3 - As embalagens de tabaco manufaturado para venda ao público devem ostentar a estampilha especial com as características definidas para o período da respetiva comercialização, sendo proibida a comercialização de produtos que ostentem estampilhas diferentes, salvo nas situações e nos períodos consagrados na portaria prevista no número anterior.
+
+4 - Para além do disposto no artigo 9.º, considera-se também ter sido introduzido no consumo o tabaco manufacturado correspondente às estampilhas especiais fornecidas aos agentes económicos e que não se mostrem utilizadas regularmente através da aposição em embalagens de venda ao público saídas dos entrepostos fiscais, ou regularmente introduzidas no consumo, ou que não sejam apresentadas à autoridade aduaneira a solicitação desta.
+
+5 - Considera-se justificada a falta de apresentação das estampilhas especiais à autoridade aduaneira caso seja entregue declaração adequada, emitida pelos serviços competentes do país para onde as estampilhas foram remetidas, ou em face de prova admitida pelo director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
+
+6 - Para efeitos do n.º 4, a liquidação do imposto é feita com base no preço de venda ao público mais elevado praticado pelo operador económico, na data em que se torna exigível o imposto.
+
+7 - Sempre que não haja preço de venda ao público homologado, a liquidação do imposto é feita com base no preço de venda ao público de marcas equiparáveis já comercializadas no mercado nacional.
+
+8 - A requisição de estampilhas especiais por operadores económicos sem estatuto IEC depende da constituição de uma garantia, cujo montante mínimo deve ser igual a 25 % do imposto exigível pelos produtos de tabaco correspondentes às estampilhas em causa.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 111.º — Proibição de detenção e comercialização
+
+1 - É proibida a comercialização no continente de tabaco manufacturado destinado a ser consumido nas Regiões Autónomas, e vice-versa, ou ainda a comercialização numa Região Autónoma, de tabaco destinado à outra.
+
+2 - É ainda proibida a detenção, por particulares, de produtos de tabaco manufacturado que não tenham aposta a estampilha especial válida prevista no artigo anterior, em quantidades superiores a 800 unidades ou 2 kg, consoante sejam, respectivamente, cigarros ou os restantes produtos de tabaco.
+
+3 - Para efeitos do número anterior, as quantidades de tabaco são aplicáveis por pessoa, excepto se a circulação destes produtos se efectuar por meio de transporte particular, caso em que as quantidades são aplicáveis por meio de transporte, presumindo-se neste caso que o respectivo condutor é o seu detentor.
+
+4 - A proibição prevista no n.º 1 abrange a comercialização à distância de produtos de tabaco, através de via postal ou outro meio equivalente.
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 112.º — Preço de venda ao público
+
+1 - Os preços de venda ao público dos produtos de tabaco e as subsequentes alterações são comunicadas pelos fabricantes estabelecidos na Comunidade ou, se for caso disso, pelos seus representantes ou mandatários comerciais ou pelos importadores de países terceiros.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 211.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 132.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 113.º — Depósito e inutilização
+
+1 - Todo o tabaco manufacturado apreendido ou abandonado está obrigatoriamente sujeito a inutilização sob controlo aduaneiro.
+
+2 - Os custos inerentes ao depósito e inutilização referidos no número anterior são da responsabilidade das pessoas singulares ou colectivas que tenham participado na situação irregular que conduziu à apreensão do tabaco em causa.
+
+###### Artigo 114.º — Entrepostos fiscais
+
+1 - As autorizações para a constituição de entrepostos fiscais de produção de produtos de tabaco manufaturado, no continente, só podem ser concedidas a pessoas singulares ou coletivas que satisfaçam, cumulativamente, os seguintes requisitos económicos mínimos:
+
+a) Capital social, quando aplicável: (euro) 2 000 000;
+
+b) Volume de vendas anual: (euro) 50 000 000.
+
+2 - No caso de autorizações para a constituição de entrepostos fiscais de produção nas Regiões Autónomas dos Açores e da Madeira, os montantes referidos no número anterior são reduzidos para (euro) 500 000, no que respeita ao capital social, quando aplicável, e para (euro) 20 000 000, relativamente ao volume de vendas anual.
+
+3 - Os entrepostos fiscais de produção de tabacos manufacturados estão sujeitos a um procedimento de controlo de natureza declarativo-contabilístico.
+
+4 - (Revogado.)
+
+5 - As condições de natureza física e contabilística necessárias à constituição e aprovação dos entrepostos fiscais de armazenagem de tabacos manufaturados são regulamentadas por portaria do membro do Governo responsável pela área das finanças.
+
+6 - Caso se verifique a situação prevista na alínea b) do n.º 6 do artigo 9.º e a diferença resulte de diversas marcas de produtos de tabaco manufaturado, a liquidação do imposto é feita proporcionalmente ao excesso de consumo de matérias-primas imputável às marcas que contribuíram para aquele desvio.
+
+7 - Os resíduos e desperdícios de tabaco que não sejam reintroduzidos no processo produtivo devem ser inutilizados sob controlo da estância aduaneira competente.
+
+8 - O disposto no presente artigo não é aplicável aos entrepostos fiscais de produção de tabaco para cachimbo de água, de rapé, de tabaco de mascar e de líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos, salvo o previsto no número anterior.
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 247.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 115.º — Regras especiais aplicáveis às folhas de tabaco destinadas a venda ao público, ao rapé, ao tabaco de mascar, ao tabaco aquecido, ao líquido para cigarros eletrónicos e às bolsas de nicotina
+
+1 - À circulação de folhas de tabaco destinadas a venda ao público, de rapé, de tabaco de mascar, de tabaco aquecido, de líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos e de bolsas de nicotina são aplicáveis, com as devidas adaptações, os regimes previstos nos artigos 35.º e 60.º
+
+2 - Os produtos de tabaco referidos no número anterior, procedentes de outro Estado-Membro e que não se destinem a entreposto fiscal, devem ser declarados para introdução no consumo, junto da estância aduaneira competente, no momento da sua receção em território nacional.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 79.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 253.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 280.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+### Capítulo IV — Disposições finais
+
+> Aditado pelo/a Artigo 209.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 116.º — Procedimentos de aplicação
+
+A regulamentação dos procedimentos de aplicação do presente Código é efetuada por portaria do membro do Governo responsável pela área das finanças.
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01

@@ -1,0 +1,295 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66012646:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-115324962",
+ "dre_path": "/dr/detalhe/portaria/283-2014-66012646",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115325043",
+    "115325044",
+    "115325045",
+    "115325046",
+    "115325047",
+    "115325048",
+    "115325049",
+    "115325050",
+    "115325051",
+    "115325052",
+    "115325054"
+   ]
+  },
+  {
+   "date": "2016-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74895678:por",
+     "title": "Portaria n.º 179/2016",
+     "published": "2016-07-07",
+     "dre_path": "/dr/detalhe/portaria/179-2016-74895678"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115325043",
+    "115325044",
+    "115325045",
+    "115325046",
+    "115325047",
+    "115325048",
+    "115325049",
+    "115325050",
+    "115325051",
+    "115325052",
+    "115325053",
+    "115325064"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "115325043",
+    "115325044",
+    "115325072",
+    "115325046",
+    "115325047",
+    "115325073",
+    "115325049",
+    "115325050",
+    "115325051",
+    "115325052",
+    "115325053",
+    "115325064"
+   ]
+  },
+  {
+   "date": "2019-06-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122606791:por",
+     "title": "Portaria n.º 186/2019",
+     "published": "2019-06-18",
+     "dre_path": "/dr/detalhe/portaria/186-2019-122606791"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "115325043",
+    "115325044",
+    "122614879",
+    "115325046",
+    "115325047",
+    "115325073",
+    "115325049",
+    "115325050",
+    "115325051",
+    "115325052",
+    "115325053",
+    "115325064"
+   ]
+  },
+  {
+   "date": "2021-03-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159614838:por",
+     "title": "Portaria n.º 61/2021",
+     "published": "2021-03-17",
+     "dre_path": "/dr/detalhe/portaria/61-2021-159614838"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115325043",
+    "115325044",
+    "122614879",
+    "115325046",
+    "115325047",
+    "115325073",
+    "115325049",
+    "115325050",
+    "115325051",
+    "115325052",
+    "115325053",
+    "159535252"
+   ]
+  }
+ ],
+ "fragments": {
+  "115325043": {
+   "fragment_id": "115324963",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 283/2014\n\nde 31 de dezembro\n\nA Autoridade Nacional de Segurança (ANS) é a entidade que dirige o Gabinete Nacional de Segurança (GNS) e exerce, em exclusivo, a proteção e a salvaguarda da informação classificada.\n\nA par desta intervenção, a ANS, de acordo com o disposto no artigo 8.º do Decreto-Lei n.º 116-A/2006, de 16 de junho, alterado pelos Decretos-Leis n.os 88/2009, de 9 de abril, e 161/2012, de 31 de julho, é também a autoridade competente para o registo, credenciação e fiscalização das entidades certificadores compreendidas no Sistema de Certificação Eletrónica do Estado - Infraestruturas de Chaves Públicas (SCEE), bem como das que emitam certificados qualificados no âmbito do regime jurídico dos documentos eletrónicos e da assinatura digital, aprovado pelo Decreto-Lei n.º 290-D/99, de 2 de agosto.\n\nTanto o referido regime jurídico, como o Decreto-Lei n.º 3/2012, de 16 de janeiro, alterado pelos Decretos-Leis n.os 162/2013, de 4 de dezembro, e 69/2014, de 9 de maio, que aprovou a orgânica do GNS, preveem que este serviço possa cobrar taxas pelos serviços que preste no âmbito das suas atribuições.\n\nCom a presente portaria pretende-se proceder à introdução de novos serviços a sujeitar à cobrança de taxas, em decorrência da nova legislação em vigor, bem como, com base na experiência obtida, ajustar alguns valores iniciais de taxas que se encontram desatualizados relativamente aos fatores associados ao serviço prestado.\n\nA presente portaria regulamenta essas disposições, adotando um sistema de taxas que permite ao GNS cobrar pelos serviços que preste, fazendo com que parte substantiva do seu financiamento seja assegurada por quem beneficie da sua atividade e dos seus serviços. Trata-se, pois, de uma opção que reduz a dependência do GNS face ao Orçamento do Estado.\n\nOs valores das taxas fixados estão de acordo com os custos e tarefas tipo que os serviços prestados envolvem. Não obstante, em alguns serviços, atenta a sua especificidade, além dos valores fixados no anexo à presente portaria, pode haver lugar, quando justificado, à imputação de despesas suplementares envolvidas na sua realização, a determinar de acordo com a legislação em vigor.\n\nSem prejuízo da eventual aplicação, quando justificada, de custos suplementares, a presente portaria prevê uma redução de 25 % dos montantes das taxas, quando estejam em causa micro, pequenas e médias empresas, e uma redução de 50 %, quando esteja em causa a credenciação, renovação e elevação, por marca, de pessoal do Ministério da Defesa Nacional, das Forças Armadas ou das forças e serviços de segurança. Trata-se, por um lado, de assegurar a existência de fatores de competitividade às referidas empresas e, por outro, atender à especial colaboração das referidas entidades com o GNS.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 9.º do Decreto-Lei n.º 290-D/99, de 2 de agosto, alterado pelos Decretos-Leis n.os 62/2003, de 3 de abril, 165/2004, de 6 de julho, 116-A/2006, de 16 de junho, e 88/2009, de 9 de abril, e do n.º 3 do artigo 11.º do Decreto-Lei n.º 3/2012, de 16 de janeiro, alterado pelos Decretos-Leis n.os 162/2013, de 4 de dezembro, e 69/2014, de 9 de maio, manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Presidência e dos Assuntos Parlamentares, o seguinte:"
+  },
+  "115325044": {
+   "fragment_id": "115324964",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova as taxas a cobrar pelos serviços prestados pelo Gabinete Nacional de Segurança (GNS)."
+  },
+  "115325045": {
+   "fragment_id": "115324965",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxas\n\nSão aprovadas as taxas a cobrar pelos serviços prestados pelo GNS, doravante designadas por taxas, as quais constam do anexo à presente portaria e que dela faz parte integrante."
+  },
+  "115325046": {
+   "fragment_id": "115324966",
+   "type": 11,
+   "heading": "Artigo 3.º — Montantes, publicitação e pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montantes, publicitação e pagamento\n\n1 - Os montantes das taxas incluem os atos necessários à prestação do serviço e, sempre que este implique a realização de despesas com ajudas de custo, deslocações e alojamento, àqueles montantes acrescem custos suplementares, determinados de acordo com a legislação aplicável.\n\n2 - As taxas são publicitadas no sítio na Internet do GNS (www.gns.gov.pt), no portal do cidadão (www.portaldocidadao.pt) e no portal da empresa (www.portaldaempresa.pt).\n\n3 - O pagamento das taxas é efetuado no momento da apresentação do pedido de prestação do serviço, preferencialmente por multibanco ou home banking."
+  },
+  "115325047": {
+   "fragment_id": "115324967",
+   "type": 11,
+   "heading": "Artigo 4.º — Micro, pequenas e médias empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Micro, pequenas e médias empresas\n\n1 - Os serviços prestados pelo GNS a micro, pequenas e médias empresas (PME) têm uma redução de 25 % sobre o montante das taxas aplicáveis.\n\n2 - A verificação da qualidade de PME é efetuada pelo GNS através da consulta simples da certificação PME, no sítio na Internet do IAPMEI - Agência para a Competitividade e Inovação, I. P., nos termos do artigo 11.º do Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho."
+  },
+  "115325048": {
+   "fragment_id": "115324968",
+   "type": 11,
+   "heading": "Artigo 5.º — Ministério da Defesa Nacional, Forças Armadas e forças e serviços de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ministério da Defesa Nacional, Forças Armadas e forças e serviços de segurança\n\nO montante da taxa relativa à prestação do serviço de credenciação, renovação e elevação de pessoas singulares (por marca), tem uma redução de 50 %, sempre que o mesmo seja prestado ao Ministério da Defesa Nacional, às Forças Armadas ou às forças e serviços de segurança."
+  },
+  "115325049": {
+   "fragment_id": "115324969",
+   "type": 11,
+   "heading": "Artigo 6.º — Destino das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Destino das receitas\n\nAs taxas cobradas constituem receita do GNS."
+  },
+  "115325050": {
+   "fragment_id": "115324970",
+   "type": 11,
+   "heading": "Artigo 7.º — Atualização de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atualização de valores\n\nOs valores das taxas são periodicamente atualizados, em função da variação média do índice de preços no consumidor, publicada pelo Instituto Nacional de Estatística, I. P., no ano anterior, arredondando-se o resultado obtido para a unidade monetária (euro) imediatamente superior, sendo os respetivos valores divulgados pelo GNS."
+  },
+  "115325051": {
+   "fragment_id": "115324971",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1183/2010, de 17 de novembro."
+  },
+  "115325052": {
+   "fragment_id": "115324972",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de janeiro de 2015."
+  },
+  "115325054": {
+   "fragment_id": "115324974",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\n(ver documento original)"
+  },
+  "115325053": {
+   "fragment_id": "115324973",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pela Ministra de Estado e das Finanças, Hélder Manuel Gomes dos Reis, Secretário de Estado Adjunto e do Orçamento, em 29 de dezembro de 2014. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes, em 9 de dezembro de 2014."
+  },
+  "115325064": {
+   "fragment_id": "115324974",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": "2016-07-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 179/2016 - Diário da República n.º 129/2016, Série I de 2016-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/179-2016-74895678), em vigor a partir de 2016-07-08"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 179/2016 - Diário da República n.º 129/2016, Série I de 2016-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/179-2016-74895678), em vigor a partir de 2016-07-08"
+  },
+  "115325072": {
+   "fragment_id": "115324965",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - São aprovadas as taxas a cobrar pelos serviços prestados pelo GNS, doravante designadas por taxas, as quais constam do anexo à presente portaria e que dela faz parte integrante.\n\n2 - Exceciona-se do disposto no número anterior os serviços prestados pelo GNS aos serviços da área governativa da Administração Interna.\n\n> Alterado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "115325073": {
+   "fragment_id": "115324968",
+   "type": 11,
+   "heading": "Artigo 5.º — Redução de taxa",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 5.º — Redução de taxa\n\nO montante da taxa relativa à prestação de serviço de credenciação, renovação e elevação de pessoas singulares (por marca) tem uma redução de 50 %, sempre que o mesmo seja prestado às áreas governativas dos Negócios Estrangeiros e da Defesa Nacional, bem como às Forças Armadas.\n\n> Alterado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "122614879": {
+   "fragment_id": "115324965",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2019-06-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2019 - Diário da República n.º 115/2019, Série I de 2019-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/186-2019-122606791), em vigor a partir de 2019-06-19",
+    "Alterado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - São aprovadas as taxas a cobrar pelos serviços prestados pelo GNS, doravante designadas por taxas, as quais constam do anexo à presente portaria e que dela faz parte integrante.\n\n2 - Excecionam-se do disposto no número anterior os serviços prestados pelo GNS às forças e serviços de segurança, aos demais organismos que integram o Sistema de Informações da República Portuguesa e aos demais serviços da área governativa da Administração Interna.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186/2019 - Diário da República n.º 115/2019, Série I de 2019-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/186-2019-122606791), em vigor a partir de 2019-06-19\n\n> Alterado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "159535252": {
+   "fragment_id": "115324974",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 61/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/61-2021-159614838), em vigor a partir de 2021-03-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 179/2016 - Diário da República n.º 129/2016, Série I de 2016-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/179-2016-74895678), em vigor a partir de 2016-07-08"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 61/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/61-2021-159614838), em vigor a partir de 2021-03-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 179/2016 - Diário da República n.º 129/2016, Série I de 2016-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/179-2016-74895678), em vigor a partir de 2016-07-08"
+  }
+ }
+}

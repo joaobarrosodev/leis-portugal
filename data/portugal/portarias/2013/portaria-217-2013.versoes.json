@@ -1,0 +1,270 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:497431:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-934502490",
+ "dre_path": "/dr/detalhe/portaria/217-2013-497431",
+ "source_lastmod": "2025-09-08",
+ "versions": [
+  {
+   "date": "2013-07-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "934361152",
+    "934361153",
+    "934361154",
+    "934361155",
+    "934361156",
+    "934361157",
+    "934361158",
+    "934361160",
+    "934361161",
+    "934361162",
+    "934361163",
+    "934361164"
+   ]
+  },
+  {
+   "date": "2014-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:55068743:por",
+     "title": "Portaria n.º 152/2014",
+     "published": "2014-08-04",
+     "dre_path": "/dr/detalhe/portaria/152-2014-55068743"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "934361152",
+    "934361153",
+    "934361154",
+    "934361155",
+    "934361156",
+    "934361157",
+    "934361158",
+    "934361159",
+    "934361160",
+    "934361171",
+    "934361162",
+    "934361163",
+    "934361164"
+   ]
+  },
+  {
+   "date": "2025-09-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:934454758:por",
+     "title": "Portaria n.º 300/2025/1",
+     "published": "2025-09-08",
+     "dre_path": "/dr/detalhe/portaria/300-2025-934454758"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "934361152",
+    "934580481",
+    "934361154",
+    "934361155",
+    "934361156",
+    "934361157",
+    "934361158",
+    "934361159",
+    "934580482",
+    "934580483",
+    "934580484",
+    "934580485",
+    "934580486"
+   ]
+  }
+ ],
+ "fragments": {
+  "934361152": {
+   "fragment_id": "934502491",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 217/2013\n\nde 3 de julho\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente, por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência de um estudo apresentado pelos Serviços Municipalizados de Água e Saneamento de Sintra, a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para as captações nos polos de captação de «Pedra Furada», «Mina do Duche», «Azóia-Rio Touro», «Queimada Alta», «Queimada Baixa», «Urca» e «Encosta do Sol», no concelho de Sintra.\n\nCompete, agora, ao Governo aprovar as referidas zonas de proteção.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado do Ambiente e do Ordenamento do Território, ao abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação conferida pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, o seguinte:"
+  },
+  "934361153": {
+   "fragment_id": "934502492",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de proteção\n\n1 - É aprovada a delimitação dos perímetros de proteção das captações designadas por:\n\na) Furo da Pedra Furada do polo de captação da Pedra Furada;\n\nb) Mina do Duche do polo de captação da Mina do Duche;\n\nc) RT1, RT2, RT3, RT4, RT5, RT6, RT7, RT8, RT9, RT10, RT11, RT12, RT13, RT14, RT15, RT16, RT17, RT18, RT19, RT20, RT21, RT22, RT23, RT24, RT25, RT26, RT27, RT28, RT29, RT30 e RT31 do polo de captação da Azóia-Rio Touro;\n\nd) QA2, QA2A, QA3, QA4, QA5, QA6, QA6A, QA7, QA7A, QA8, QA8A, QA8B, QA9, QA9A, QA10, QA11, QA11A, QA11B, QA12, QA14, QA15, QA15A, QA16 e QA31 do polo de captação da Queimada Alta;\n\ne) QB1, QB2, QB3, QB4, QB5, QB5A, QB6, QB35, QB35A, QB35B, QB8A e QB8B do polo de captação da Queimada Baixa;\n\nf) UR1, UR2 e UR3 do polo de captação da Urca;\n\ng) ES1, ES2, ES3, ES4, ES6, ES7, ES8, ES9 e ES11 do polo de captação da Encosta do Sol;\n\nlocalizadas no concelho de Sintra, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, que dela faz parte integrante."
+  },
+  "934361154": {
+   "fragment_id": "934502493",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção mencionados no artigo anterior corresponde à área da superfície do terreno circular com centro em cada uma das captações cujos raios são indicados no quadro constante do anexo II à presente portaria, que dela faz parte integrante, e à área delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do mesmo anexo.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro."
+  },
+  "934361155": {
+   "fragment_id": "934502494",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo III à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Infraestruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\ni) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nj) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;\n\nk) Cemitérios;\n\nl) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, nos polos de captação da Mina do Duche, Azóia-Rio Touro, Queimada Alta, Queimada Baixa, Urca e Encosta do Sol;\n\nm) Depósitos de sucata.\n\n3 - Na zona de proteção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Pastorícia, que pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo;\n\nb) Usos agrícolas e pecuários, que apenas são permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis, ou através da rejeição de efluentes no solo;\n\nc) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nd) Estradas e caminhos-de-ferro, que podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\ne) Espaços destinados a práticas desportivas e os parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal;\n\nf) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\ng) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\nh) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento, no polo de captação da Pedra Furada.\n\n4 - A zona de proteção intermédia respeitante aos perímetros de proteção mencionados no artigo 1.º encontra-se representada nos quadros do anexo V à presente portaria, que dela faz parte integrante."
+  },
+  "934361156": {
+   "fragment_id": "934502495",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo IV à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nb) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nf) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\ng) Cemitérios;\n\nh) Depósitos de sucata;\n\ni) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, nos polos de captação da Mina do Duche, Azóia-Rio Touro, Queimada Alta, Queimada Baixa, Urca e Encosta do Sol.\n\n3 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\nc) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\nd) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\ne) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água e/ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento, no polo de captação da Pedra Furada;\n\nf) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis e infraestruturas aeronáuticas são permitidas desde que seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes."
+  },
+  "934361157": {
+   "fragment_id": "934502496",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nAs zonas de proteção intermédia e alargada, respeitantes aos perímetros de proteção mencionados no artigo 1.º, encontram-se representadas nos quadros do anexo V da presente portaria, que dela faz parte integrante."
+  },
+  "934361158": {
+   "fragment_id": "934502497",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "934361160": {
+   "fragment_id": "934502499",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento original)"
+  },
+  "934361161": {
+   "fragment_id": "934502500",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\n(ver documento original)\n\nPolo de captação da Pedra Furada\n\nCaptação Furo da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\nCaptação Mina do Duche\n\n(ver documento original)\n\nPolo de captação da Azóia-Rio Touro\n\nCaptação RT1\n\n(ver documento original)\n\nCaptação RT2\n\n(ver documento original)\n\nCaptação RT3\n\n(ver documento original)\n\nCaptação RT4\n\n(ver documento original)\n\nCaptação RT5\n\n(ver documento original)\n\nCaptação RT6\n\n(ver documento original)\n\nCaptação RT7\n\n(ver documento original)\n\nCaptação RT8\n\n(ver documento original)\n\nCaptação RT9\n\n(ver documento original)\n\nCaptação RT10\n\n(ver documento original)\n\nCaptação RT11\n\n(ver documento original)\n\nCaptação RT12\n\n(ver documento original)\n\nCaptação RT13\n\n(ver documento original)\n\nCaptação RT14\n\n(ver documento original)\n\nCaptação RT15\n\n(ver documento original)\n\nCaptação RT16\n\n(ver documento original)\n\nCaptação RT17\n\n(ver documento original)\n\nCaptação RT18\n\n(ver documento original)\n\nCaptação RT19\n\n(ver documento original)\n\nCaptação RT20\n\n(ver documento original)\n\nCaptação RT21\n\n(ver documento original)\n\nCaptação RT22\n\n(ver documento original)\n\nCaptação RT23\n\n(ver documento original)\n\nCaptação RT24\n\n(ver documento original)\n\nCaptação RT25\n\n(ver documento original)\n\nCaptação RT26\n\n(ver documento original)\n\nCaptação RT27\n\n(ver documento original)\n\nCaptação RT28\n\n(ver documento original)\n\nCaptação RT29\n\n(ver documento original)\n\nCaptação RT30\n\n(ver documento original)\n\nCaptação RT31\n\n(ver documento original)\n\nPolo de captação da Queimada Alta\n\nCaptação QA2\n\n(ver documento original)\n\nCaptação QA2A\n\n(ver documento original)\n\nCaptação QA3\n\n(ver documento original)\n\nCaptação QA4\n\n(ver documento original)\n\nCaptação QA5\n\n(ver documento original)\n\nCaptação QA6\n\n(ver documento original)\n\nCaptação QA7\n\n(ver documento original)\n\nCaptação QA8\n\n(ver documento original)\n\nCaptação QA8A\n\n(ver documento original)\n\nCaptação QA8B\n\n(ver documento original)\n\nCaptação QA9\n\n(ver documento original)\n\nCaptação QA9A\n\n(ver documento original)\n\nCaptação QA10\n\n(ver documento original)\n\nCaptação QA11\n\n(ver documento original)\n\nCaptação QA11A\n\n(ver documento original)\n\nCaptação QA11B\n\n(ver documento original)\n\nCaptação QA12\n\n(ver documento original)\n\nCaptação QA14\n\n(ver documento original)\n\nCaptação QA15\n\n(ver documento original)\n\nCaptação QA15A\n\n(ver documento original)\n\nCaptação QA16\n\n(ver documento original)\n\nCaptação QA31\n\n(ver documento original)\n\nPolo de captação da Queimada Baixa\n\nCaptação QB1\n\n(ver documento original)\n\nCaptação QB2\n\n(ver documento original)\n\nCaptação QB3\n\n(ver documento original)\n\nCaptação QB4\n\n(ver documento original)\n\nCaptação QB5\n\n(ver documento original)\n\nCaptação QB6\n\n(ver documento original)\n\nCaptação QB8A\n\n(ver documento original)\n\nCaptação QB8B\n\n(ver documento original)\n\nCaptação QB35\n\n(ver documento original)\n\nCaptação QB35A\n\n(ver documento original)\n\nCaptação QB35B\n\n(ver documento original)\n\nPolo de captação da Urca\n\nCaptação UR2\n\n(ver documento original)\n\nPolo de captação da Encosta do Sol\n\nCaptação ES1\n\n(ver documento original)\n\nCaptação ES2\n\n(ver documento original)\n\nCaptação ES3\n\n(ver documento original)\n\nCaptação ES4\n\n(ver documento original)\n\nCaptação ES6\n\n(ver documento original)\n\nCaptação ES7\n\n(ver documento original)\n\nCaptação ES8\n\n(ver documento original)\n\nCaptação ES9\n\n(ver documento original)\n\nCaptação ES11\n\n(ver documento original)"
+  },
+  "934361162": {
+   "fragment_id": "934502501",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 3.º)\n\nZona de proteção intermédia\n\nPolo de captação da Pedra Furada\n\nCaptação Furo da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\nCaptação Mina do Duche\n\n(ver documento original)\n\nPolo de captação da Azóia-Rio Touro\n\nCaptações RT1, RT2, RT3, RT4, RT5, RT6, RT7, RT8, RT9, RT10, RT11, RT12, RT13, RT14, RT15, RT16, RT17, RT18, RT19, RT20, RT21, RT22, RT23, RT24, RT25, RT26, RT27, RT28, RT29, RT30 e RT31.\n\n(ver documento original)\n\nPolo de captação da Queimada Alta\n\nCaptações QA2, QA2A e QA31\n\n(ver documento original)\n\nCaptações QA3, QA4, QA5, QA6, QA6A, QA7 e QA7A\n\n(ver documento original)\n\nCaptações QA8, QA8A, QA8B, QA9, QA9A e QA10\n\n(ver documento original)\n\nCaptações QA11, QA11A e QB11B\n\n(ver documento original)\n\nCaptação QA12\n\n(ver documento original)\n\nCaptação QA14\n\n(ver documento original)\n\nCaptações QA15, QA15A e QA16\n\n(ver documento original)\n\nPolo de captação da Queimada Baixa\n\nCaptações QB1, QB2, QB3, QB4, QB5, QB5A, QB6, QB35, QB35A, QB35B, QB8A e QB8B\n\n(ver documento original)\n\nPolo de captação da Urca\n\nCaptações UR1, UR2 e UR3\n\n(ver documento original)\n\nPolo de captação da Encosta do Sol\n\nCaptações ES1, ES2, ES3, ES4, ES6, ES7, ES8, ES9 e ES11\n\n(ver documento original)"
+  },
+  "934361163": {
+   "fragment_id": "934502502",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)\n\nZona de proteção alargada\n\nPolo de captação da Pedra Furada\n\nCaptação Furo da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\nCaptação Mina do Duche\n\n(ver documento original)\n\nPolos de captação da Azóia-Rio Touro, Queimada Alta, Queimada Baixa, Urca e Encosta do Sol\n\nCaptações RT1, RT2, RT3, RT4, RT5, RT6, RT7, RT8, RT9, RT10, RT11, RT12, RT13, RT14, RT15, RT16, RT17, RT18, RT19, RT20, RT21, RT22, RT23, RT24, RT25, RT26, RT27, RT28, RT29, RT30, RT31, QA2, QA2A, QA3, QA4, QA5, QA6, QA6A, QA7, QA7A, QA8, QA8A, QA8B, QA9, QA9A, QA10, QA11, QA11A, QA11B, QA12, QA14, QA15, QA15A, QA16, QA31, QB1, QB2, QB3, QB4, QB5, QB5A, QB6, QB8A, QB8B, QB35, QB35A, QB35B, UR1, UR2, UR3, ES1, ES2, ES3, ES4, ES6, ES7, ES8, ES9 e ES11.\n\n(ver documento original)"
+  },
+  "934361164": {
+   "fragment_id": "934502503",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 4 do artigo 3.º e o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o n.º 4 do artigo 3.º e o artigo 5.º)\n\nPlanta de localização das zonas de proteção\n\nExtrato da Carta Militar de Portugal.\n\nSérie M888 - 1/25.000 (IGeoE)\n\nPolo de captação da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\n(ver documento original)\n\nPolos de captação da Azóia-Rio Touro, Queimada Alta, Queimada Baixa, Urca e Encosta do Sol\n\n(ver documento original)"
+  },
+  "934361159": {
+   "fragment_id": "934502498",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente e do Ordenamento do Território, Paulo Guilherme da Silva Lemos, em 12 de junho de 2013."
+  },
+  "934361171": {
+   "fragment_id": "934502500",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2014-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2014 - Diário da República n.º 148/2014, Série I de 2014-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/152-2014-55068743), em vigor a partir de 2014-08-05"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\n(ver documento original)\n\nPolo de captação da Pedra Furada\n\nCaptação Furo da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\nCaptação Mina do Duche\n\n(ver documento original)\n\nPolo de captação da Azóia-Rio Touro\n\nCaptação RT1\n\n(ver documento original)\n\nCaptação RT2\n\n(ver documento original)\n\nCaptação RT3\n\n(ver documento original)\n\nCaptação RT4\n\n(ver documento original)\n\nCaptação RT5\n\n(ver documento original)\n\nCaptação RT6\n\n(ver documento original)\n\nCaptação RT7\n\n(ver documento original)\n\nCaptação RT8\n\n(ver documento original)\n\nCaptação RT9\n\n(ver documento original)\n\nCaptação RT10\n\n(ver documento original)\n\nCaptação RT11\n\n(ver documento original)\n\nCaptação RT12\n\n(ver documento original)\n\nCaptação RT13\n\n(ver documento original)\n\nCaptação RT14\n\n(ver documento original)\n\nCaptação RT15\n\n(ver documento original)\n\nCaptação RT16\n\n(ver documento original)\n\nCaptação RT17\n\n(ver documento original)\n\nCaptação RT18\n\n(ver documento original)\n\nCaptação RT19\n\n(ver documento original)\n\nCaptação RT20\n\n(ver documento original)\n\nCaptação RT21\n\n(ver documento original)\n\nCaptação RT22\n\n(ver documento original)\n\nCaptação RT23\n\n(ver documento original)\n\nCaptação RT24\n\n(ver documento original)\n\nCaptação RT25\n\n(ver documento original)\n\nCaptação RT26\n\n(ver documento original)\n\nCaptação RT27\n\n(ver documento original)\n\nCaptação RT28\n\n(ver documento original)\n\nCaptação RT29\n\n(ver documento original)\n\nCaptação RT30\n\n(ver documento original)\n\nCaptação RT31\n\n(ver documento original)\n\nPolo de captação da Queimada Alta\n\nCaptação QA2\n\n(ver documento original)\n\nCaptação QA2A\n\n(ver documento original)\n\nCaptação QA3\n\n(ver documento original)\n\nCaptação QA4\n\n(ver documento original)\n\nCaptação QA5\n\n(ver documento original)\n\nCaptação QA6\n\n(ver documento original)\n\nCaptação QA6A\n\n(ver documento original)\n\nCaptação QA7\n\n(ver documento original)\n\nCaptação QA8\n\n(ver documento original)\n\nCaptação QA8A\n\n(ver documento original)\n\nCaptação QA8B\n\n(ver documento original)\n\nCaptação QA9\n\n(ver documento original)\n\nCaptação QA9A\n\n(ver documento original)\n\nCaptação QA10\n\n(ver documento original)\n\nCaptação QA11\n\n(ver documento original)\n\nCaptação QA11A\n\n(ver documento original)\n\nCaptação QA11B\n\n(ver documento original)\n\nCaptação QA12\n\n(ver documento original)\n\nCaptação QA14\n\n(ver documento original)\n\nCaptação QA15\n\n(ver documento original)\n\nCaptação QA15A\n\n(ver documento original)\n\nCaptação QA16\n\n(ver documento original)\n\nCaptação QA31\n\n(ver documento original)\n\nPolo de captação da Queimada Baixa\n\nCaptação QB1\n\n(ver documento original)\n\nCaptação QB2\n\n(ver documento original)\n\nCaptação QB3\n\n(ver documento original)\n\nCaptação QB4\n\n(ver documento original)\n\nCaptação QB5\n\n(ver documento original)\n\nCaptação QB6\n\n(ver documento original)\n\nCaptação QB8A\n\n(ver documento original)\n\nCaptação QB8B\n\n(ver documento original)\n\nCaptação QB35\n\n(ver documento original)\n\nCaptação QB35A\n\n(ver documento original)\n\nCaptação QB35B\n\n(ver documento original)\n\nPolo de captação da Urca\n\nCaptação UR2\n\n(ver documento original)\n\nPolo de captação da Encosta do Sol\n\nCaptação ES1\n\n(ver documento original)\n\nCaptação ES2\n\n(ver documento original)\n\nCaptação ES3\n\n(ver documento original)\n\nCaptação ES4\n\n(ver documento original)\n\nCaptação ES6\n\n(ver documento original)\n\nCaptação ES7\n\n(ver documento original)\n\nCaptação ES8\n\n(ver documento original)\n\nCaptação ES9\n\n(ver documento original)\n\nCaptação ES11\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2014 - Diário da República n.º 148/2014, Série I de 2014-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/152-2014-55068743), em vigor a partir de 2014-08-05"
+  },
+  "934580481": {
+   "fragment_id": "934502492",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de proteção",
+   "in_force_from": "2025-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+   ],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de proteção\n\n1 - É aprovada a delimitação dos perímetros de proteção das captações designadas por:\n\na) Furo da Pedra Furada do polo de captação da Pedra Furada;\n\nb) (Revogada.)\n\nc) RT1, RT2, RT3, RT4, RT5, RT6, RT7, RT8, RT9, RT10, RT11, RT12, RT13, RT14, RT15, RT16, RT17, RT18, RT19, RT20, RT21, RT22, RT23, RT24, RT25, RT26, RT27, RT28, RT29, RT30 e RT31 do polo de captação da Azóia-Rio Touro;\n\nd) QA2, QA2A, QA3, QA4, QA5, QA6, QA6A, QA7, QA7A, QA8, QA8A, QA8B, QA9, QA9A, QA10, QA11, QA11A, QA11B, QA12, QA14, QA15, QA15A, QA16 e QA31 do polo de captação da Queimada Alta;\n\ne) QB1, QB2, QB3, QB4, QB5, QB5A, QB6, QB35, QB35A, QB35B, QB8A e QB8B do polo de captação da Queimada Baixa;\n\nf) UR1, UR2 e UR3 do polo de captação da Urca;\n\ng) ES1, ES2, ES3, ES4, ES6, ES7, ES8, ES9 e ES11 do polo de captação da Encosta do Sol;\n\nlocalizadas no concelho de Sintra, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+  },
+  "934580482": {
+   "fragment_id": "934502499",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758)"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758)"
+  },
+  "934580483": {
+   "fragment_id": "934502500",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2025-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2014 - Diário da República n.º 148/2014, Série I de 2014-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/152-2014-55068743), em vigor a partir de 2014-08-05"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\n(ver documento original)\n\nPolo de captação da Pedra Furada\n\nCaptação Furo da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\n(Revogado.)\n\nPolo de captação da Azóia-Rio Touro\n\nCaptação RT1\n\n(ver documento original)\n\nCaptação RT2\n\n(ver documento original)\n\nCaptação RT3\n\n(ver documento original)\n\nCaptação RT4\n\n(ver documento original)\n\nCaptação RT5\n\n(ver documento original)\n\nCaptação RT6\n\n(ver documento original)\n\nCaptação RT7\n\n(ver documento original)\n\nCaptação RT8\n\n(ver documento original)\n\nCaptação RT9\n\n(ver documento original)\n\nCaptação RT10\n\n(ver documento original)\n\nCaptação RT11\n\n(ver documento original)\n\nCaptação RT12\n\n(ver documento original)\n\nCaptação RT13\n\n(ver documento original)\n\nCaptação RT14\n\n(ver documento original)\n\nCaptação RT15\n\n(ver documento original)\n\nCaptação RT16\n\n(ver documento original)\n\nCaptação RT17\n\n(ver documento original)\n\nCaptação RT18\n\n(ver documento original)\n\nCaptação RT19\n\n(ver documento original)\n\nCaptação RT20\n\n(ver documento original)\n\nCaptação RT21\n\n(ver documento original)\n\nCaptação RT22\n\n(ver documento original)\n\nCaptação RT23\n\n(ver documento original)\n\nCaptação RT24\n\n(ver documento original)\n\nCaptação RT25\n\n(ver documento original)\n\nCaptação RT26\n\n(ver documento original)\n\nCaptação RT27\n\n(ver documento original)\n\nCaptação RT28\n\n(ver documento original)\n\nCaptação RT29\n\n(ver documento original)\n\nCaptação RT30\n\n(ver documento original)\n\nCaptação RT31\n\n(ver documento original)\n\nPolo de captação da Queimada Alta\n\nCaptação QA2\n\n(ver documento original)\n\nCaptação QA2A\n\n(ver documento original)\n\nCaptação QA3\n\n(ver documento original)\n\nCaptação QA4\n\n(ver documento original)\n\nCaptação QA5\n\n(ver documento original)\n\nCaptação QA6\n\n(ver documento original)\n\nCaptação QA6A\n\n(ver documento original)\n\nCaptação QA7\n\n(ver documento original)\n\nCaptação QA8\n\n(ver documento original)\n\nCaptação QA8A\n\n(ver documento original)\n\nCaptação QA8B\n\n(ver documento original)\n\nCaptação QA9\n\n(ver documento original)\n\nCaptação QA9A\n\n(ver documento original)\n\nCaptação QA10\n\n(ver documento original)\n\nCaptação QA11\n\n(ver documento original)\n\nCaptação QA11A\n\n(ver documento original)\n\nCaptação QA11B\n\n(ver documento original)\n\nCaptação QA12\n\n(ver documento original)\n\nCaptação QA14\n\n(ver documento original)\n\nCaptação QA15\n\n(ver documento original)\n\nCaptação QA15A\n\n(ver documento original)\n\nCaptação QA16\n\n(ver documento original)\n\nCaptação QA31\n\n(ver documento original)\n\nPolo de captação da Queimada Baixa\n\nCaptação QB1\n\n(ver documento original)\n\nCaptação QB2\n\n(ver documento original)\n\nCaptação QB3\n\n(ver documento original)\n\nCaptação QB4\n\n(ver documento original)\n\nCaptação QB5\n\n(ver documento original)\n\nCaptação QB6\n\n(ver documento original)\n\nCaptação QB8A\n\n(ver documento original)\n\nCaptação QB8B\n\n(ver documento original)\n\nCaptação QB35\n\n(ver documento original)\n\nCaptação QB35A\n\n(ver documento original)\n\nCaptação QB35B\n\n(ver documento original)\n\nPolo de captação da Urca\n\nCaptação UR2\n\n(ver documento original)\n\nPolo de captação da Encosta do Sol\n\nCaptação ES1\n\n(ver documento original)\n\nCaptação ES2\n\n(ver documento original)\n\nCaptação ES3\n\n(ver documento original)\n\nCaptação ES4\n\n(ver documento original)\n\nCaptação ES6\n\n(ver documento original)\n\nCaptação ES7\n\n(ver documento original)\n\nCaptação ES8\n\n(ver documento original)\n\nCaptação ES9\n\n(ver documento original)\n\nCaptação ES11\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2014 - Diário da República n.º 148/2014, Série I de 2014-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/152-2014-55068743), em vigor a partir de 2014-08-05"
+  },
+  "934580484": {
+   "fragment_id": "934502501",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": "2025-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 3.º)\n\nZona de proteção intermédia\n\nPolo de captação da Pedra Furada\n\nCaptação Furo da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\n(Revogado.)\n\nPolo de captação da Azóia-Rio Touro\n\nCaptações RT1, RT2, RT3, RT4, RT5, RT6, RT7, RT8, RT9, RT10, RT11, RT12, RT13, RT14, RT15, RT16, RT17, RT18, RT19, RT20, RT21, RT22, RT23, RT24, RT25, RT26, RT27, RT28, RT29, RT30 e RT31.\n\n(ver documento original)\n\nPolo de captação da Queimada Alta\n\nCaptações QA2, QA2A e QA31\n\n(ver documento original)\n\nCaptações QA3, QA4, QA5, QA6, QA6A, QA7 e QA7A\n\n(ver documento original)\n\nCaptações QA8, QA8A, QA8B, QA9, QA9A e QA10\n\n(ver documento original)\n\nCaptações QA11, QA11A e QB11B\n\n(ver documento original)\n\nCaptação QA12\n\n(ver documento original)\n\nCaptação QA14\n\n(ver documento original)\n\nCaptações QA15, QA15A e QA16\n\n(ver documento original)\n\nPolo de captação da Queimada Baixa\n\nCaptações QB1, QB2, QB3, QB4, QB5, QB5A, QB6, QB35, QB35A, QB35B, QB8A e QB8B\n\n(ver documento original)\n\nPolo de captação da Urca\n\nCaptações UR1, UR2 e UR3\n\n(ver documento original)\n\nPolo de captação da Encosta do Sol\n\nCaptações ES1, ES2, ES3, ES4, ES6, ES7, ES8, ES9 e ES11\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+  },
+  "934580485": {
+   "fragment_id": "934502502",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": "2025-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)\n\nZona de proteção alargada\n\nPolo de captação da Pedra Furada\n\nCaptação Furo da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\n(Revogado.)\n\nPolos de captação da Azóia-Rio Touro, Queimada Alta, Queimada Baixa, Urca e Encosta do Sol\n\nCaptações RT1, RT2, RT3, RT4, RT5, RT6, RT7, RT8, RT9, RT10, RT11, RT12, RT13, RT14, RT15, RT16, RT17, RT18, RT19, RT20, RT21, RT22, RT23, RT24, RT25, RT26, RT27, RT28, RT29, RT30, RT31, QA2, QA2A, QA3, QA4, QA5, QA6, QA6A, QA7, QA7A, QA8, QA8A, QA8B, QA9, QA9A, QA10, QA11, QA11A, QA11B, QA12, QA14, QA15, QA15A, QA16, QA31, QB1, QB2, QB3, QB4, QB5, QB5A, QB6, QB8A, QB8B, QB35, QB35A, QB35B, UR1, UR2, UR3, ES1, ES2, ES3, ES4, ES6, ES7, ES8, ES9 e ES11.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+  },
+  "934580486": {
+   "fragment_id": "934502503",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 4 do artigo 3.º e o artigo 5.º)",
+   "in_force_from": "2025-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+   ],
+   "markdown": "## Anexo V — (a que se refere o n.º 4 do artigo 3.º e o artigo 5.º)\n\nPlanta de localização das zonas de proteção\n\nExtrato da Carta Militar de Portugal.\n\nSérie M888 - 1/25.000 (IGeoE)\n\nPolo de captação da Pedra Furada\n\n(ver documento original)\n\nPolo de captação da Mina do Duche\n\n(Revogado.)\n\nPolos de captação da Azóia-Rio Touro, Queimada Alta, Queimada Baixa, Urca e Encosta do Sol\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 300/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/300-2025-934454758), em vigor a partir de 2025-09-09"
+  }
+ }
+}

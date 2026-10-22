@@ -1,0 +1,622 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:693825:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1999-942710442",
+ "dre_path": "/dr/detalhe/despacho-normativo/56-1999-693825",
+ "source_lastmod": "2025-10-28",
+ "versions": [
+  {
+   "date": "1999-11-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942707429",
+    "942707430",
+    "942707431",
+    "942707432",
+    "942707433",
+    "942707434",
+    "942707435",
+    "942707436",
+    "942707437",
+    "942707438",
+    "942707439",
+    "942707440",
+    "942707441",
+    "942707442",
+    "942707443",
+    "942707444",
+    "942707445",
+    "942707446",
+    "942707447",
+    "942707448",
+    "942707449",
+    "942707450",
+    "942707451",
+    "942707452",
+    "942707453",
+    "942707454",
+    "942707455",
+    "942707456",
+    "942707457",
+    "942707458",
+    "942707459",
+    "942707460",
+    "942707461",
+    "942707462",
+    "942707463",
+    "942707464",
+    "942707465",
+    "942707466",
+    "942707467",
+    "942707468",
+    "942707469",
+    "942707470",
+    "942707471",
+    "942707472",
+    "942707473",
+    "942707474",
+    "942970175",
+    "942970176",
+    "942970177",
+    "942970178",
+    "942970179",
+    "942970180",
+    "942970181",
+    "942970182",
+    "942970183",
+    "942970184",
+    "942970185",
+    "942970186",
+    "942970187",
+    "942970188",
+    "942970189",
+    "942970190",
+    "942970191",
+    "942970192",
+    "942970193",
+    "942970194",
+    "942970195"
+   ]
+  }
+ ],
+ "fragments": {
+  "942707429": {
+   "fragment_id": "942710443",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 56/99\n\nNa sequência da sujeição a homologação dos Estatutos da Escola Superior de Enfermagem de São João de Deus;\n\nOuvida a comissão instituída pelo despacho n.º 31/ME/89, de 8 de Março, publicado no Diário da República, 2.ª série, de 28 de Março de 1989, conjugado com o despacho n.º 216/ME/90, de 26 de Dezembro, publicado no Diário da República, 2.ª série, de 10 de Janeiro de 1991;\n\nAo abrigo do disposto no artigo 5.º da lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico (Lei n.º 54/90, de 5 de Setembro), conjugado com o disposto na alínea a) do artigo 3.º do Decreto-Lei n.º 205/95, de 8 de Agosto:\n\nSão homologados os Estatutos da Escola Superior de Enfermagem de São João de Deus, publicados em anexo ao presente despacho.\n\nMinistérios da Educação e da Saúde, 12 de Outubro de 1999. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\nESTATUTOS DA ESCOLA SUPERIOR DE ENFERMAGEM DE SÃO JOÃO DE DEUS"
+  },
+  "942707430": {
+   "fragment_id": "942710444",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "942707431": {
+   "fragment_id": "942710445",
+   "type": 8,
+   "heading": "Secção I — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Princípios fundamentais"
+  },
+  "942707432": {
+   "fragment_id": "942710446",
+   "type": 11,
+   "heading": "Artigo 1.º — Designação e âmbito da Escola Superior de Enfermagem de São João de Deus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Designação e âmbito da Escola Superior de Enfermagem de São João de Deus\n\n1 - A Escola Superior de Enfermagem de São João de Deus, adiante designada por ESESJD, tem a sua sede na cidade de Évora.\n\n2 - É uma escola não integrada de ensino superior politécnico destinada a criar, transmitir e difundir a cultura, ciência, tecnologia e a arte da enfermagem.\n\n3 - É uma instituição de ensino superior público com personalidade jurídica, dotada de autonomia estatutária, administrativa, financeira e patrimonial, bem como de autonomia cultural, científica e pedagógica nos termos do Decreto-Lei n.º 480/88, de 23 de Dezembro, da Lei n.º 54/90, de 5 de Setembro, e do Decreto-Lei n.º 205/95, de 8 de Agosto, e rege-se pelos presentes Estatutos.\n\n4 - A Escola promove uma estreita articulação entre as suas actividades e a comunidade em que se integra, visando, nomeadamente, a inserção dos seus diplomados na vida profissional."
+  },
+  "942707433": {
+   "fragment_id": "942710447",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nSão objectivos da ESESJD:\n\na) A formação inicial e pós-graduação de profissionais de enfermagem com elevado nível de exigência qualitativa nos aspectos cultural, científico, artístico, técnico e humano;\n\nb) A realização de actividades de investigação fundamental e aplicada;\n\nc) A organização ou cooperação em actividades de extensão educativa, cultural e técnica;\n\nd) A participação em projectos de cooperação nacional e internacional;\n\ne) O intercâmbio cultural, científico e técnico com instituições públicas e privadas, nacionais e estrangeiras, com vista à melhoria do nível científico da enfermagem;\n\nf) A colaboração no desenvolvimento sanitário das regiões em que está inserida;\n\ng) A prestação de serviços à comunidade numa perspectiva de valorização recíproca, nos seus domínios específicos de intervenção;\n\nh) O apoio pedagógico aos organismos de formação contínua na área de enfermagem."
+  },
+  "942707434": {
+   "fragment_id": "942710448",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições da ESESJD as previstas na lei, nomeadamente:\n\na) Organizar e ministrar cursos superiores de enfermagem conducentes à obtenção do grau de bacharel e do grau de licenciado;\n\nb) Realizar cursos de aperfeiçoamento e actualização profissional, bem como cursos de pós-graduação, destinados à elevação qualitativa dos cuidados em enfermagem e creditáveis com certificados ou diplomas adequados, nos termos da lei;\n\nc) Realizar e orientar actividades de investigação e de desenvolvimento."
+  },
+  "942707435": {
+   "fragment_id": "942710449",
+   "type": 11,
+   "heading": "Artigo 4.º — Graus e diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Graus e diplomas\n\nÀ ESESJD compete, especialmente:\n\na) Conferir os graus de bacharel e licenciado, nos termos da lei de bases do sistema educativo e da lei de autonomia dos estabelecimentos de ensino superior politécnico;\n\nb) Conferir diplomas ou certificados nos termos da lei;\n\nc) Conceder a equivalência e o reconhecimento de graus e diplomas correspondentes aos referidos nas alíneas anteriores."
+  },
+  "942707436": {
+   "fragment_id": "942710450",
+   "type": 11,
+   "heading": "Artigo 5.º — Liberdade académica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Liberdade académica\n\nSão garantidas aos professores, assistentes e investigadores não docentes a livre orientação do ensino e a livre formação e manifestação de doutrinas e opiniões científicas."
+  },
+  "942707437": {
+   "fragment_id": "942710451",
+   "type": 11,
+   "heading": "Artigo 6.º — Associação académica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Associação académica\n\n1 - É reconhecido à associação de estudantes o direito de ser ouvida pelos órgãos da Escola acerca dos planos curriculares, do regime de avaliação de conhecimentos e, em geral, de todos os problemas de interesse específico dos estudantes.\n\n2 - É garantido aos estudantes o direito de participação em grupos de trabalho de interesse específico dos estudantes."
+  },
+  "942707438": {
+   "fragment_id": "942710452",
+   "type": 11,
+   "heading": "Artigo 7.º — Símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Símbolos\n\n1 - A Escola possui selo branco, timbre, bandeira, logótipo e insígnia.\n\n2 - O logótipo e a insígnia, adoptados como símbolos da Escola, constam em anexo a estes Estatutos (anexo I).\n\n3 - O traje destina-se a ser usado em cerimónias oficiais e a sua descrição constará de regulamento próprio a aprovar pela assembleia de escola.\n\n4 - A farda destina-se a ser usada em situação de ensino clínico e a sua descrição constará de regulamento próprio a aprovar pela assembleia de escola.\n\n5 - É instituído como dia da Escola o dia 8 de Março, dia de São João de Deus.\n\nAs comemorações da Escola devem envolver, nomeadamente:\n\na) A abertura da Escola ao exterior;\n\nb) A divulgação dos programas e planos de acção da Escola e dos relatórios da sua execução;\n\nc) A divulgação de actividades de índole cultural e pedagógico;\n\nd) A distribuição de diplomas académicos e outros, resultantes das actividades anualmente desenvolvidas e sua divulgação."
+  },
+  "942707439": {
+   "fragment_id": "942710453",
+   "type": 8,
+   "heading": "Secção II — Autonomias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Autonomias"
+  },
+  "942707440": {
+   "fragment_id": "942710454",
+   "type": 11,
+   "heading": "Artigo 8.º — Autonomia científica e pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autonomia científica e pedagógica\n\nA autonomia científica e pedagógica da Escola envolve a capacidade para, livremente:\n\na) Propor a criação, alteração, suspensão e extinção de cursos;\n\nb) Decidir sobre os conteúdos das disciplinas dos cursos que ministra;\n\nc) Decidir sobre os projectos de investigação a desenvolver;\n\nd) Fixar, nos termos da lei, as regras de reingresso, transferência, mudança de curso, bem como o número de vagas;\n\ne) Estabelecer os regimes de frequência e avaliação;\n\nf) Definir as condições e os métodos de ensino a praticar;\n\ng) Fixar o calendário escolar, nos termos da lei geral;\n\nh) Definir os serviços a prestar à comunidade;\n\ni) Definir as demais actividades científicas e culturais a realizar;\n\nj) Decidir sobre equivalências e reconhecimento de graus, diplomas, cursos e componentes de cursos."
+  },
+  "942707441": {
+   "fragment_id": "942710455",
+   "type": 11,
+   "heading": "Artigo 9.º — Autonomia administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autonomia administrativa\n\nA autonomia administrativa da Escola envolve a capacidade para:\n\na) Dispor de orçamento anual;\n\nb) Recrutar pessoal docente necessário à realização das suas actividades, nos termos do artigo 9.º da Lei n.º 54/90, de 5 de Setembro;\n\nc) Recrutar o pessoal não docente necessário à prossecução dos seus objectivos;\n\nd) Atribuir responsabilidade e tarefas, procedendo à distribuição do pessoal docente e não docente por actividades e serviços, de acordo com as normas gerais aplicáveis;\n\ne) Assegurar a sua gestão e o seu normal funcionamento;\n\nf) Autorizar despesas e efectuar pagamentos nos termos legais."
+  },
+  "942707442": {
+   "fragment_id": "942710456",
+   "type": 11,
+   "heading": "Artigo 10.º — Autonomia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autonomia financeira\n\nA autonomia financeira da Escola envolve a capacidade, nomeadamente, para:\n\na) Elaborar e propor o seu orçamento de acordo com o n.º 2 do artigo 3.º do Decreto-Lei n.º 205/95, de 8 de Agosto;\n\nb) Gerir, nos termos legais, as verbas que anualmente lhe são atribuídas;\n\nc) Transferir as verbas entre as diferentes rubricas e capítulos orçamentais;\n\nd) Elaborar orçamentos privativos para a gestão de receitas próprias previstas nos presentes Estatutos;\n\ne) Elaborar os seus planos plurianuais e de desenvolvimento a médio prazo;\n\nf) Depositar em instituições de crédito legalmente previstas as importâncias provenientes das receitas próprias;\n\ng) Promover a realização de actos conducentes à aquisição de bens e serviços;\n\nh) Autorizar despesas e efectuar pagamentos no âmbito da sua autonomia."
+  },
+  "942707443": {
+   "fragment_id": "942710457",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura interna"
+  },
+  "942707444": {
+   "fragment_id": "942710458",
+   "type": 11,
+   "heading": "Artigo 11.º — Unidades orgânicas e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Unidades orgânicas e serviços\n\n1 - A Escola dispõe da seguinte organização interna:\n\na) Órgãos de governo e de gestão;\n\nb) Unidades orgânicas de carácter científico-pedagógico;\n\nc) Serviços.\n\n2 - Os órgãos de governo e de gestão praticam actos de eficácia externa, com características de definitividade e executoriedade, no âmbito da esfera de competência que, por lei e pelos presentes Estatutos, lhe sejam cometidas.\n\n3 - As unidades orgânicas de carácter científico-pedagógico têm vocação múltipla e orientam-se para actividades de ensino, investigação e de prestação de serviços.\n\n4 - Os serviços são estruturas permanentes vocacionados para o apoio administrativo e técnico às actividades da Escola."
+  },
+  "942707445": {
+   "fragment_id": "942710459",
+   "type": 11,
+   "heading": "Artigo 12.º — Isenções fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Isenções fiscais\n\nA Escola está isenta de impostos, taxas, custas, emolumentos e selos nos termos do artigo 16.º da Lei n.º 54/90, de 5 de Setembro."
+  },
+  "942707446": {
+   "fragment_id": "942710460",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos de governo e de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos de governo e de gestão"
+  },
+  "942707447": {
+   "fragment_id": "942710461",
+   "type": 8,
+   "heading": "Secção I — Assembleia de escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assembleia de escola"
+  },
+  "942707448": {
+   "fragment_id": "942710462",
+   "type": 11,
+   "heading": "Artigo 14.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Natureza\n\nA assembleia de escola é o órgão representativo dos corpos docente, discente e não docente."
+  },
+  "942707449": {
+   "fragment_id": "942710463",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição, eleição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição, eleição e mandato\n\nA assembleia de escola é composta por membros por inerência e por membros eleitos.\n\n1 - São membros por inerência:\n\na) O presidente do conselho directivo;\n\nb) O presidente do conselho científico;\n\nc) O presidente do conselho pedagógico;\n\nd) O presidente do conselho consultivo;\n\ne) O secretário.\n\n2 - Conforme o n.º 2 do artigo 29.º dos presentes Estatutos, o conselho consultivo é presidido pelo presidente do conselho directivo da Escola.\n\n3 - São membros eleitos pelos respectivos corpos por maioria simples de votos:\n\na) Cinco docentes;\n\nb) Cinco discentes;\n\nc) Três representantes do corpo não docente.\n\n4 - O mandato dos membros eleitos da assembleia de escola é de três anos, excepto para os discentes que é de dois anos."
+  },
+  "942707450": {
+   "fragment_id": "942710464",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência\n\n1 - São competências da assembleia de escola:\n\na) Eleger a mesa da assembleia excepto o seu presidente;\n\nb) Pronunciar-se sobre normas de funcionamento da Escola, orientadas por princípios de coordenação das unidades orgânicas da Escola;\n\nc) Propor a criação, alteração ou extinção das unidades orgânicas;\n\nd) Aprovar o plano de actividades da Escola;\n\ne) Apreciar os relatórios anuais de execução e formular propostas sobre orientação e desenvolvimento da Escola;\n\nf) Organizar os processos eleitorais, salvaguardando os específicos para a escolha do presidente e vice-presidentes dos conselhos científico e pedagógico;\n\ng) Propor a criação, modificação ou extinção de cursos;\n\nh) Convocar uma assembleia de representantes para aprovação de propostas de revisão dos Estatutos;\n\ni) Pronunciar-se sobre outros assuntos relacionados com o funcionamento da Escola que o presidente do conselho directivo entenda submeter-lhes.\n\n2 - Compete ainda à assembleia de escola:\n\na) Suspender ou destituir o conselho directivo ou qualquer dos seus membros, exigindo estes actos a respectiva fundamentação e aprovação por um mínimo de dois terços dos membros efectivos da assembleia;\n\nb) Fiscalizar, genericamente, os actos do conselho directivo, com salvaguarda do exercício efectivo da competência própria deste órgão;\n\nc) Organizar, coordenar e fiscalizar os actos eleitorais para a assembleia de escola e para o conselho directivo.\n\n3 - As competências da assembleia de escola estão limitadas pelas competências que, em matéria específica, sejam cometidas a outros órgãos, quer por força das leis gerais, quer por força dos presentes Estatutos.\n\n4 - A assembleia de escola elaborará um regulamento interno que deverá ser aprovado pela maioria qualificada de dois terços dos seus membros."
+  },
+  "942707451": {
+   "fragment_id": "942710465",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funcionamento\n\n1 - A assembleia de escola terá duas reuniões ordinárias anuais.\n\n2 - Poderão ocorrer reuniões extraordinárias realizadas a requerimento de um terço dos seus membros, por iniciativa do presidente, ou a solicitação do conselho directivo.\n\n3 - A assembleia de escola é dirigida por uma mesa, constituída pelo presidente do conselho directivo, que preside, um vice-presidente, obrigatoriamente docente, um representante do corpo não docente e um representante dos discentes.\n\n4 - A eleição para a constituição da mesa deve ser realizada na primeira reunião que inicia o mandato da assembleia. Os membros que a integram são eleitos por toda a assembleia."
+  },
+  "942707452": {
+   "fragment_id": "942710466",
+   "type": 11,
+   "heading": "Artigo 18.º — Renúncia, suspensão e perda do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Renúncia, suspensão e perda do mandato\n\n1 - Os titulares da assembleia de escola podem solicitar a renúncia ao respectivo mandato através de declaração escrita justificativa.\n\n2 - É suspenso o mandato dos membros quando estejam temporariamente impedidos por lei de exercer as suas funções e enquanto durar esse impedimento.\n\n3 - Perdem o mandato os titulares quando:\n\na) Alterem a qualidade em que o integraram;\n\nb) Faltem, no período de um ano e sem motivo justificado, a mais de duas reuniões consecutivas.\n\n4 - Quando exista necessidade de efectuar novas eleições para o preenchimento de vagas, os novos membros apenas completam o mandato dos cessantes."
+  },
+  "942707453": {
+   "fragment_id": "942710467",
+   "type": 8,
+   "heading": "Secção II — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho directivo"
+  },
+  "942707454": {
+   "fragment_id": "942710468",
+   "type": 11,
+   "heading": "Artigo 19.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição\n\n1 - O conselho directivo é um órgão colegial, sendo composto por um presidente, dois vice-presidentes, por um representante dos estudantes e por um representante do corpo não docente.\n\na) O presidente é eleito de entre os professores da Escola.\n\nb) Os vice-presidentes são eleitos de entre os professores ao serviço da Escola, bem como de entre individualidades de reconhecido mérito e experiência profissional, que exerçam funções correspondentes à categoria de professor.\n\n2 - O exercício de cargo de presidente e vice-presidentes é incompatível com o desempenho das funções de:\n\na) Presidente do conselho científico;\n\nb) Presidente do conselho pedagógico."
+  },
+  "942707455": {
+   "fragment_id": "942710469",
+   "type": 11,
+   "heading": "Artigo 20.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Eleição\n\n1 - Os membros do conselho directivo são eleitos, por voto secreto e directo, pelos respectivos corpos, docente, discente e corpo não docente, por uma das seguintes formas:\n\na) Por listas apresentadas pelos candidatos representantes dos respectivos corpos, até 10 dias antes da data marcada para o acto eleitoral;\n\nb) Por escrutínio uninominal.\n\n2 - Se a eleição se realizar por listas, nos termos previstos na alínea a) do número anterior, observar-se-á o seguinte:\n\na) Serão considerados eleitos para o conselho directivo os membros constantes da lista que obtenha mais de metade dos votos expressos;\n\nb) Não havendo nenhuma lista que obtenha a maioria referida na alínea anterior, proceder-se-á a uma segunda volta entre as duas listas mais votadas, oito dias depois da primeira eleição.\n\n3 - Não sendo apresentadas listas, a eleição realiza-se por escrutínio uninominal, conforme o previsto na alínea b) do n.º 1.\n\n4 - A eleição do presidente do conselho directivo está sujeita a homologação da tutela."
+  },
+  "942707456": {
+   "fragment_id": "942710470",
+   "type": 11,
+   "heading": "Artigo 21.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Duração do mandato\n\n1 - O mandato do conselho directivo é de três anos, excepto para os discentes que é de dois anos.\n\n2 - O conselho directivo não poderá permanecer em funções para além de dois mandatos consecutivos.\n\n3 - No caso de impossibilidade temporária do presidente, assumirá as suas funções um dos vice-presidentes por ele designado.\n\n4 - Se a incapacidade se prolongar por mais de 90 dias, a assembleia de escola pronunciar-se-á sobre a sua substituição e a oportunidade de um novo processo eleitoral intercalar.\n\n5 - Em caso de vacatura, renúncia ou reconhecimento de incapacidade permanente do presidente, ou de algum dos membros do conselho directivo ou ainda nas situações previstas no artigo 24.º dos presentes Estatutos, deverá a assembleia de escola determinar a realização de novo acto eleitoral intercalar no prazo de 30 dias.\n\n6 - Os membros eleitos nas situações referidas nos n.os 4 e 5 apenas completarão o mandato anterior."
+  },
+  "942707457": {
+   "fragment_id": "942710471",
+   "type": 11,
+   "heading": "Artigo 22.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competência\n\n1 - Ao conselho directivo compete dirigir, orientar e coordenar as actividades e serviços da Escola, de modo a imprimir-lhes unidade, continuidade e eficiência, assegurando a gestão do pessoal e a gestão administrativa e financeira, cabendo-lhe, nomeadamente:\n\na) Autorizar o recrutamento, selecção e provimento, bem como a promoção, recondução, prorrogação, mobilidade, exoneração, rescisão de contrato, demissão e aposentação do pessoal;\n\nb) Promover o desenvolvimento das actividades científicas e pedagógicas;\n\nc) Aprovar normas regulamentadoras do bom funcionamento da Escola;\n\nd) Assegurar a realização dos programas de actividades da ESESJD, submeter à assembleia de escola e elaborar os respectivos relatórios de execução;\n\ne) Administrar e gerir a Escola em todos os assuntos que não sejam da expressa competência dos outros órgãos, assegurando o seu regular funcionamento;\n\nf) Fixar as taxas e emolumentos de quaisquer serviços prestados;\n\ng) Autorizar, mediante as adequadas contrapartidas, a utilização de instalações da ESESJD, por entidades exteriores com vista a finalidades científicas e culturais;\n\nh) Dar execução aos actos emanados dos restantes órgãos da Escola, com ressalva da sua intervenção sempre que existam incidências financeiras ou problemas graves de funcionamento da própria Escola;\n\ni) Celebrar acordos, protocolos ou convénios com instituições públicas, privadas ou cooperativas, com vista à prestação de serviços à comunidade, o desenvolvimento de actividades de ensino e ou investigação e a colaboração de docentes de enfermagem com outras instituições, precedendo parecer favorável do conselho científico;\n\nj) Elaborar o relatório anual e o plano de actividades;\n\nk) Definir, executar e apoiar actividades de extensão cultural;\n\nl) Aprovar o regulamento interno de funcionamento do conselho directivo;\n\nm) Homologar ou aprovar todos os regulamentos internos à excepção do regulamento interno da assembleia de escola;\n\nn) Nomear, nos termos da lei, o secretário da Escola;\n\no) Ceder um espaço próprio para funcionamento da associação de estudantes.\n\n2 - Ao presidente do conselho directivo compete:\n\na) Conduzir as reuniões do conselho directivo, a que preside com voto de qualidade, e o exercício em permanência das funções deste, bem como o despacho normal do expediente, podendo decidir em todos os assuntos em que lhe tenha sido delegada competência;\n\nb) Decidir por si, em casos de urgência, sobre assuntos de competência expressa do conselho directivo, submetendo depois as decisões assim tomadas a ratificação do conselho;\n\nc) Convocar para reuniões do conselho directivo outros membros de qualquer corpo, não tendo estes direito a voto;\n\nd) Presidir à assembleia de escola;\n\ne) Presidir ao conselho administrativo;\n\nf) Presidir ao conselho consultivo;\n\ng) Representar a Escola em juízo e fora dele;\n\nh) Cumprir e fazer cumprir as obrigações estatutárias;\n\ni) Submeter aos membros do Governo que exerçam poderes de tutela as questões que careçam da sua intervenção;\n\nj) Exercer todas as competências que, cabendo no âmbito das atribuições da Escola, não estejam, por lei ou pelos presentes Estatutos, cometidas a outros órgãos."
+  },
+  "942707458": {
+   "fragment_id": "942710472",
+   "type": 11,
+   "heading": "Artigo 23.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Funcionamento\n\n1 - O conselho directivo terá reuniões ordinárias com a periodicidade estabelecida pelo próprio conselho e extraordinárias sempre que tal for julgado necessário pelo presidente ou pela maioria dos seus membros.\n\n2 - O plenário do conselho directivo reunir-se-á desde que se encontre obrigatoriamente presente o presidente ou, no seu impedimento, o vice-presidente por ele designado e a maioria dos seus membros.\n\n3 - As reuniões do conselho directivo serão secretariadas pelo secretário da Escola, competindo-lhe elaborar as actas das reuniões, que serão assinadas pelos membros presentes."
+  },
+  "942707459": {
+   "fragment_id": "942710473",
+   "type": 11,
+   "heading": "Artigo 24.º — Perda e renúncia de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Perda e renúncia de mandato\n\nOs membros do conselho directivo perdem o mandato:\n\na) No caso de destituição pela assembleia de escola;\n\nb) Quando renunciarem expressamente ao exercício das suas funções, sendo tal renúncia aceite pela assembleia de escola;\n\nc) Quando derem mais de três faltas consecutivas e não justificadas às reuniões, propondo-se a sua destituição à assembleia de escola;\n\nd) Quando tiverem sido condenados em processo disciplinar durante o período do mandato."
+  },
+  "942707460": {
+   "fragment_id": "942710474",
+   "type": 8,
+   "heading": "Secção III — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho científico"
+  },
+  "942707461": {
+   "fragment_id": "942970075",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Composição e funcionamento\n\n1 - Integram o conselho científico:\n\na) O presidente do conselho directivo;\n\nb) Os professores em serviço na Escola.\n\n2 - Sob proposta do presidente do conselho directivo, aprovada pelo conselho científico, podem ainda ser designados para integrar o conselho, por cooptação:\n\na) Professores de outros estabelecimentos de ensino superior;\n\nb) Investigadores;\n\nc) Outras individualidades de reconhecida competência em áreas do domínio da actividade da Escola.\n\n3 - Podem ser convidados a participar no conselho científico, sem direito a voto, outros docentes cujas funções na Escola o justifiquem.\n\n4 - O conselho científico elege, trienalmente, o seu presidente, não podendo o seu mandato ser renovado por mais de dois mandatos consecutivos.\n\n5 - O presidente do conselho científico nomeia de entre os membros do conselho um vice-presidente e um secretário, cujos mandatos coincidem com o seu.\n\n6 - O conselho científico funcionará apenas em plenário, contudo, para análise e estudo de assuntos específicos no âmbito das suas competências, poderá constituir comissões especializadas, cujas propostas serão apreciadas em plenário.\n\n7 - O conselho científico elaborará um regulamento interno, que deverá ser aprovado por maioria absoluta dos seus membros.\n\n8 - O cargo de presidente do conselho científico não pode ser exercido cumulativamente com o de presidente do conselho pedagógico."
+  },
+  "942707462": {
+   "fragment_id": "942970076",
+   "type": 11,
+   "heading": "Artigo 26.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competência\n\n1 - Compete ao conselho científico:\n\na) Exercer as competências que lhe são cometidas pelo estatuto da carreira docente do ensino superior politécnico;\n\nb) Aprovar a distribuição anual do serviço docente;\n\nc) Aprovar os regulamentos de frequência, avaliação, transição de ano e precedências, no quadro da legislação em vigor;\n\nd) Decidir sobre equivalências e reconhecimento de graus, diplomas, cursos e componentes de cursos;\n\ne) Dar parecer sobre a aquisição de equipamento científico e bibliográfico;\n\nf) Elaborar e aprovar projectos de criação, alteração e extinção de cursos;\n\ng) Deliberar sobre as condições específicas de acesso à Escola, ouvido o conselho pedagógico;\n\nh) Propor ao conselho directivo as alterações ao quadro de pessoal docente;\n\ni) Propor a abertura de concurso para recrutamento e promoção de pessoal docente e a composição do respectivo júri;\n\nj) Estabelecer e organizar provas públicas para o pessoal docente, nos termos legais;\n\nk) Deliberar acerca da nomeação definitiva dos professores, bem como pronunciar-se sobre a renovação de contratos de assistentes e de equiparados;\n\nl) Pronunciar-se sobre os pedidos de equiparação a bolseiro e de bolsas de estudo;\n\nm) Deliberar sobre a dispensa de serviço docente nos termos da lei;\n\nn) Propor a contratação, renovação ou rescisão de pessoal técnico adstrito a actividades científicas.\n\n2 - Para efeitos de apreciação de relatórios de contratação e de concurso de docentes, só terão direito a voto os docentes do conselho científico de categoria superior ou igual à dos candidatos.\n\n3 - Compete ao conselho científico, ouvido o conselho consultivo:\n\na) Elaborar as propostas de planos curriculares para cada curso a funcionar na Escola e de fixação dos números máximos de vagas anuais;\n\nb) Definir as linhas orientadoras das políticas a prosseguir pela Escola nos domínios do ensino, da investigação, da extensão cultural e da prestação de serviços à comunidade."
+  },
+  "942707463": {
+   "fragment_id": "942970077",
+   "type": 8,
+   "heading": "Secção IV — Conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho pedagógico"
+  },
+  "942707464": {
+   "fragment_id": "942970078",
+   "type": 11,
+   "heading": "Artigo 27.º — Composição, eleição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Composição, eleição e mandato\n\n1 - O conselho pedagógico é um órgão de gestão pedagógica da Escola e terá a seguinte constituição:\n\na) Três representantes dos professores;\n\nb) Dois representantes dos assistentes;\n\nc) Cinco representantes dos estudantes.\n\n2 - Todos os elementos do conselho pedagógico são eleitos pelos respectivos pares, uninominalmente e por voto secreto e directo.\n\n3 - A duração do mandato dos membros do conselho é de três anos, excepto para os discentes, que é de dois anos.\n\n4 - O presidente do conselho pedagógico é eleito por um período de três anos, por todos os seus membros, de entre os professores-coordenadores e adjuntos que dele fazem parte.\n\n5 - O presidente do conselho pedagógico nomeia, de entre os membros do conselho, um vice-presidente e um secretário cujos mandatos coincidem com o seu.\n\n6 - O conselho pedagógico elaborará um regulamento interno, que deverá ser aprovado por maioria dos seus membros."
+  },
+  "942707465": {
+   "fragment_id": "942970079",
+   "type": 11,
+   "heading": "Artigo 28.º — Competência e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competência e funcionamento\n\n1 - São competências do conselho pedagógico:\n\na) Fazer propostas e dar parecer sobre orientação pedagógica e métodos de ensino;\n\nb) Emitir parecer sobre o regime de ingresso e acesso ao ensino superior;\n\nc) Pronunciar-se sobre os planos curriculares e promover, em conjunto com o conselho científico, à sua organização ou alterações;\n\nd) Propor a aquisição de material didáctico e bibliográfico;\n\ne) Organizar, em colaboração com os restantes órgãos, conferências, seminários e outras actividades de interesse pedagógico;\n\nf) Fazer propostas relativas ao funcionamento da biblioteca, laboratório de informática, laboratório de enfermagem e outros centros de recursos educativos;\n\ng) Dar parecer sobre regulamentos de frequência, avaliação, transição de ano e precedências;\n\nh) Promover acções de formação pedagógica;\n\ni) Coordenar a avaliação do desempenho pedagógico dos docentes;\n\nj) Promover a realização de novas experiências pedagógicas e propor acções tendentes à melhoria do ensino;\n\nk) Apreciar, em geral, quaisquer assuntos de interesse pedagógico;\n\nl) Propor a criação de prémios escolares.\n\n2 - O conselho pedagógico funcionará apenas em plenário, contudo, para análise e estudo de assuntos específicos no âmbito das suas competências, poderá constituir comissões especializadas, cujas propostas serão apreciadas em plenário."
+  },
+  "942707466": {
+   "fragment_id": "942970080",
+   "type": 8,
+   "heading": "Secção V — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conselho consultivo"
+  },
+  "942707467": {
+   "fragment_id": "942970081",
+   "type": 11,
+   "heading": "Artigo 29.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Composição\n\n1 - O conselho consultivo tem a seguinte composição:\n\na) O presidente do conselho directivo;\n\nb) O presidente do conselho científico;\n\nc) O presidente do conselho pedagógico;\n\nd) O presidente da associação de estudantes;\n\ne) Dois enfermeiros representantes da Sub-Região de Saúde de Évora, sendo um do Hospital do Espírito Santo e outro dos centros de saúde;\n\nf) Um representante do Governo Civil do Distrito de Évora;\n\ng) Um representante da Câmara Municipal de Évora;\n\nh) Um representante da Administração Regional de Saúde do Alentejo;\n\ni) Um representante da Comissão de Coordenação da Região do Alentejo;\n\nj) Um representante das instituições de solidariedade social;\n\nk) Um representante do núcleo empresarial da região do Alentejo.\n\n2 - O conselho consultivo é presidido pelo presidente do conselho directivo da Escola.\n\n3 - O conselho consultivo reunirá pelo menos uma vez em cada ano lectivo e será convocado pelo seu presidente."
+  },
+  "942707468": {
+   "fragment_id": "942970082",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência e mandato\n\n1 - São competências do conselho consultivo, quando para tal for solicitado pelo conselho directivo, emitir parecer sobre:\n\na) Os planos de actividade;\n\nb) A pertinência dos cursos existentes;\n\nc) Os projectos de criação de novos cursos;\n\nd) A organização dos planos curriculares;\n\ne) A realização de cursos de aperfeiçoamento, actualização e reciclagem.\n\n2 - Compete ainda ao conselho consultivo:\n\na) Fomentar a ligação entre a Escola e a comunidade;\n\nb) Pronunciar-se sobre outros assuntos apresentados pelo seu presidente.\n\n3 - A duração do mandato do conselho consultivo coincide com a do conselho directivo.\n\n4 - Na primeira reunião do conselho consultivo o seu presidente deve apresentar um projecto de regulamento interno do seu funcionamento."
+  },
+  "942707469": {
+   "fragment_id": "942970083",
+   "type": 8,
+   "heading": "Secção VI — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Conselho administrativo"
+  },
+  "942707470": {
+   "fragment_id": "942970084",
+   "type": 11,
+   "heading": "Artigo 31.º — Função e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Função e composição\n\n1 - O conselho administrativo é um órgão deliberativo da Escola, em matéria administrativo-financeira, nos termos da lei.\n\n2 - Integram o conselho administrativo:\n\na) O presidente do conselho directivo, que preside;\n\nb) Um vice-presidente do conselho directivo designado pelo presidente;\n\nc) O secretário."
+  },
+  "942707471": {
+   "fragment_id": "942970085",
+   "type": 11,
+   "heading": "Artigo 32.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Competências\n\nAs competências do conselho administrativo são as seguintes, de acordo com o artigo 12.º do Decreto-Lei n.º 205/95, de 8 de Agosto:\n\na) Promover a elaboração dos planos financeiros anuais e plurianuais, de acordo com os planos de actividades a que se refere a alínea a) do n.º 2 do artigo 24.º da Lei n.º 54/90, de 5 de Setembro;\n\nb) Promover a elaboração dos projectos de orçamento, bem como a sua afectação, logo que aprovada, às unidades orgânicas e aos serviços da Escola;\n\nc) Requisitar à competente delegação da direcção geral de contabilidade pública as importâncias das dotações inscritas no Orçamento do Estado a favor da Escola;\n\nd) Promover arrecadação de receitas;\n\ne) Deliberar sobre as aquisições de bens e serviços indispensáveis ao funcionamento da Escola e promover essas aquisições;\n\nf) Verificar a legalidade das despesas e autorizar a sua realização e pagamento;\n\ng) Superintender na organização anual da conta de gerência e submetê-la a julgamento do Tribunal de Contas no prazo legalmente estabelecido;\n\nh) Autorizar os actos de administração relativos ao património da Escola;\n\ni) Promover a organização e a permanente actualização do inventário e do cadastro dos bens móveis e imóveis da Escola;\n\nj) Pronunciar-se sobre qualquer assunto, no âmbito da sua competência, que lhe seja apresentado pelo presidente do conselho directivo;\n\nk) Proceder à verificação regular dos fundos em cofre e em depósito."
+  },
+  "942707472": {
+   "fragment_id": "942970086",
+   "type": 1,
+   "heading": "Capítulo IV — Unidades orgânicas de carácter científico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Unidades orgânicas de carácter científico-pedagógico"
+  },
+  "942707473": {
+   "fragment_id": "942970087",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nCom a aprovação dos presentes Estatutos, o conselho directivo proporá à tutela a criação de unidades orgânicas científico-pedagógicas."
+  },
+  "942707474": {
+   "fragment_id": "942970088",
+   "type": 1,
+   "heading": "Capítulo V — Serviços administrativos e de assessoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Serviços administrativos e de assessoria"
+  },
+  "942970175": {
+   "fragment_id": "942970089",
+   "type": 8,
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I"
+  },
+  "942970176": {
+   "fragment_id": "942970090",
+   "type": 11,
+   "heading": "Artigo 34.º — Serviços administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Serviços administrativos\n\n1 - Os serviços administrativos compreendem:\n\na) A secretaria de administração geral;\n\nb) O serviço de documentação e informação;\n\nc) O secretariado de apoio à gestão e à docência.\n\n2 - Os serviços administrativos são dirigidos pelo secretário."
+  },
+  "942970177": {
+   "fragment_id": "942970091",
+   "type": 11,
+   "heading": "Artigo 35.º — Secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Secretário\n\n1 - Para coadjuvar o presidente do conselho directivo, em matéria de ordem predominantemente administrativa ou financeira, a Escola dispõe de um secretário cujo modo de recrutamento e competências são os previstos na lei.\n\n2 - O recrutamento para secretário pode também ser efectuado de entre chefes de repartição dos quadros de pessoal das escolas superiores de enfermagem, nos termos da lei."
+  },
+  "942970178": {
+   "fragment_id": "942970092",
+   "type": 11,
+   "heading": "Artigo 36.º — Secretaria de administração geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Secretaria de administração geral\n\n1 - A secretaria de administração geral desenvolve as suas actividades nos domínios dos assuntos académicos, do pessoal, da administração financeira, patrimonial e do expediente.\n\n2 - A secretaria de administração geral compreende uma repartição administrativa, académica, financeira e patrimonial e integra as seguintes secções:\n\na) A secção dos assuntos académicos;\n\nb) A secção administrativa, de pessoal, financeira e patrimonial.\n\n3 - As competências das secções são objecto de regulamento interno, a aprovar pelo conselho directivo.\n\n4 - Adstrita à repartição funciona a tesouraria cujas competências são objecto de regulamento interno, a aprovar pelo conselho directivo."
+  },
+  "942970179": {
+   "fragment_id": "942970093",
+   "type": 11,
+   "heading": "Artigo 37.º — Serviço de documentação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Serviço de documentação e informação\n\n1 - O serviço de documentação e informação integra a biblioteca e os recursos áudio-visuais, tendo como principal objectivo apoiar as necessidades de informação documental dos docentes e discentes.\n\n2 - A Escola disporá de laboratório de informática e de serviço de reprografia e de artes gráficas.\n\n3 - As competências do serviço são objecto de regulamento interno, a aprovar pelo conselho directivo."
+  },
+  "942970180": {
+   "fragment_id": "942970094",
+   "type": 11,
+   "heading": "Artigo 38.º — Secretariado de apoio à gestão e à docência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Secretariado de apoio à gestão e à docência\n\nO secretariado de apoio à gestão e à docência será responsável, nomeadamente, por:\n\na) Secretariar as unidades orgânicas de carácter científico-pedagógico;\n\nb) Distribuir a informação escrita relativa a cursos, relatórios de actividades, catálogos de exposições e outros programas de interesse para a comunidade docente e não docente;\n\nc) Organizar, em colaboração com os órgãos competentes da Escola, as iniciativas de divulgação dos cursos, as actividades de investigação ou de desenvolvimento e de prestação de serviços à comunidade."
+  },
+  "942970181": {
+   "fragment_id": "942970095",
+   "type": 8,
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II"
+  },
+  "942970182": {
+   "fragment_id": "942970096",
+   "type": 11,
+   "heading": "Artigo 39.º — Serviço de assessoria técnica aos órgãos de governo e de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Serviço de assessoria técnica aos órgãos de governo e de gestão\n\nJunto do conselho directivo funcionará o serviço de assessoria ao qual competirá:\n\na) Assessoria jurídica ou económica;\n\nb) Emissão de pareceres relativos à gestão financeira, organização, estatística e consultoria."
+  },
+  "942970183": {
+   "fragment_id": "942970097",
+   "type": 1,
+   "heading": "Capítulo VI — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Gestão financeira e patrimonial"
+  },
+  "942970184": {
+   "fragment_id": "942970098",
+   "type": 11,
+   "heading": "Artigo 40.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Receitas\n\nO património da Escola é constituído por:\n\na) As dotações que lhe forem concedidas pelo Estado;\n\nb) As verbas resultantes de programas específicos, nacionais ou estrangeiros, designadamente os que ocorrem da União Europeia, a que a Escola se candidate;\n\nc) Os rendimentos de bens que lhe são afectos ou de que tenha fruição;\n\nd) O produto da venda de publicações e da prestação de serviços a entidades públicas ou privadas, nacionais ou estrangeiras;\n\ne) Todos os subsídios, subvenções, comparticipações, doações, heranças e legados;\n\nf) Os juros de contas de depósitos;\n\ng) O saldo de contas de gerência dos anos anteriores;\n\nh) Quaisquer outras receitas que legalmente possa arrecadar."
+  },
+  "942970185": {
+   "fragment_id": "942970099",
+   "type": 11,
+   "heading": "Artigo 41.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Instrumentos de gestão\n\n1 - A gestão da Escola orienta-se por objectivos, através dos seguintes instrumentos:\n\na) Plano de actividades;\n\nb) Plano de desenvolvimento plurianual;\n\nc) Orçamento de desenvolvimento plurianual;\n\nd) Orçamento privativo;\n\ne) Relatórios de actividades financeiras.\n\n2 - O plano de actividades é anual, realiza-se a partir dos planos sectoriais e as actividades nele previstas devem fundamentar-se na orientação científica e pedagógica definida pelos órgãos próprios.\n\n3 - O plano de desenvolvimento plurianual será elaborado tendo em conta um período nunca inferior a três anos, podendo ser actualizado sempre que ocorram alterações no planeamento geral do ensino superior, na investigação científica e nas acções de extensão comunitária.\n\n4 - O relatório de actividades é elaborado no final de cada ano económico e em anexo devem constar as contas do exercício anual."
+  },
+  "942970186": {
+   "fragment_id": "942970100",
+   "type": 11,
+   "heading": "Artigo 42.º — Organização contabilística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Organização contabilística\n\n1 - A Escola organiza a sua contabilidade, em respeito pela lei e orientações emanadas nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 205/95, de 8 de Agosto, de modo a assegurar no momento próprio:\n\na) A apresentação de contas ao Tribunal de Contas, nos termos da lei;\n\nb) O conhecimento e o controlo permanente, por parte dos órgãos e instituições competentes, das existências de valores das obrigações face a terceiros, tendo em vista a aferição da racionalidade e eficiência da gestão;\n\nc) A prova das despesas realizadas;\n\nd) A tomada de decisões, nomeadamente quanto à afectação de recursos.\n\n2 - Os planos sectoriais de contabilidade adoptados pela Escola devem observar os requisitos necessários à organização global das contas."
+  },
+  "942970187": {
+   "fragment_id": "942970101",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais e comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições gerais e comuns"
+  },
+  "942970188": {
+   "fragment_id": "942970102",
+   "type": 11,
+   "heading": "Artigo 43.º — Funcionamento dos órgãos de governo e de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Funcionamento dos órgãos de governo e de gestão\n\n1 - Nos órgãos de governo e de gestão em que exista um vice-presidente, este substituirá o presidente nas suas faltas e impedimentos.\n\n2 - As reuniões dos órgãos de governo e de gestão não poderão ser convocadas com antecedência inferior a dois dias úteis, sendo a ordem de trabalhos enviada a todos os seus membros.\n\n3 - Os órgãos de governo e de gestão só podem deliberar estando presente a maioria dos seus membros e as deliberações são aprovadas por maioria de votos expressos, excepto nos casos em que a lei ou os presentes estatutos exijam a maioria qualificada."
+  },
+  "942970189": {
+   "fragment_id": "942970103",
+   "type": 11,
+   "heading": "Artigo 44.º — Responsabilidade dos órgãos de governo e de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Responsabilidade dos órgãos de governo e de gestão\n\n1 - Os membros dos órgãos de governo e de gestão dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.\n\n2 - São excluídos da responsabilidade referida no número anterior os membros que fizerem exarar em acta a sua oposição às deliberações tomadas e os que, tendo estado ausentes, o façam na primeira sessão em que estejam presentes."
+  },
+  "942970190": {
+   "fragment_id": "942970104",
+   "type": 11,
+   "heading": "Artigo 45.º — Faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Faltas\n\n1 - Os corpos docente e não docente estão sujeitos ao regime de faltas aplicável ao funcionalismo público pela ausência às reuniões em que devam participar no exercício de qualquer dos cargos previstos nos presentes Estatutos.\n\n2 - A comparência às reuniões dos diversos órgãos de governo e de gestão precede sobre os demais serviços escolares, à excepção de exames, concursos e participação em júris."
+  },
+  "942970191": {
+   "fragment_id": "942970105",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "942970192": {
+   "fragment_id": "942970106",
+   "type": 11,
+   "heading": "Artigo 46.º — Actuais órgãos de governo e de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Actuais órgãos de governo e de gestão\n\n1 - Os actuais órgãos de governo e de gestão e os seus membros mantêm as competências que lhe estão confiadas até à tomada de posse dos novos membros dos órgãos correspondentes previstos nos presentes Estatutos.\n\n2 - A primeira eleição dos membros da assembleia de escola e do conselho directivo da Escola deverá ocorrer no prazo máximo de 45 dias após a aprovação destes Estatutos.\n\n3 - São da competência do actual órgão de gestão da Escola, previsto no n.º 1 do artigo 15.º do Decreto-Lei n.º 205/95, de 8 de Agosto, os actos preparatórios para a efectivação das eleições referidas no número anterior, devendo para o efeito nomear uma comissão eleitoral cuja composição abrangerá os três corpos de eleitores.\n\n4 - A eleição do conselho directivo só deve ocorrer a partir do 15.º dia após a eleição da assembleia de escola."
+  },
+  "942970193": {
+   "fragment_id": "942970107",
+   "type": 11,
+   "heading": "Artigo 47.º — Período de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Período de revisão\n\nOs Estatutos da Escola serão revistos ou alterados nos termos da lei."
+  },
+  "942970194": {
+   "fragment_id": "942970108",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nOs presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República."
+  },
+  "942970195": {
+   "fragment_id": "942970109",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nLogótipo da Escola Superior de Enfermagem de São João de Deus\n\nÉ constituído por uma cruz simétrica delineada com um filete. A cruz contém uma lamparina e as siglas E, S, E e SJD, envolvidas numa circunferência descrevendo o nome da Escola, «Escola Superior de Enfermagem de S. João de Deus». Por baixo da cruz está a localização da Escola Superior «Évora».\n\nNo logótipo o filete, a cruz, o texto à volta e por baixo da cruz apresentam-se em preto, enquanto as siglas e a lamparina dentro da cruz são em branco.\n\n(ver imagem no documento original)\n\nInsígnia da Escola Superior de Enfermagem de São João de Deus\n\nA insígnia apresenta-se como uma cruz simétrica e delineada com um filete. A cruz contém uma lamparina e as iniciais E, S, E e SJD, que denomina respectivamente Escola Superior de Enfermagem de São João de Deus.\n\nA cruz e o filete contêm a cor preta e as siglas e a lamparina dentro da mesma são em branco.\n\n(ver imagem no documento original)"
+  }
+ }
+}

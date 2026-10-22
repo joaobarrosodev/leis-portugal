@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:435396:por
+title: Decreto-Lei n.º 73/96
+short_title: null
+summary: Permite a aplicação de limites e requisitos diferentes dos fixados no Regulamento Geral das Edificações Urbanas nos
+  casos fixados nas Recomendações Técnicas para Habitação Social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 73/96
+official_date: null
+publication_date: '1996-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/1996, Série I-A de 1996-06-18
+  number: '139'
+  series: I
+  supplement: null
+  pages: 1554 - 1554
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/06/139a00/15541554.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/73/1996/06/18/p/dre/pt/html
+  oj: null
+  dre: '435396'
+  dre_path: /dr/detalhe/decreto-lei/73-1996-435396
+  internal: pt:dre:435396:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1996-435396
+  metadata_url: https://data.dre.pt/eli/dec-lei/73/1996/06/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1996-435396
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-06-18T00:00:00Z'
+integrity:
+  source_sha256: 2d3ab567c6447b1eb4251410b6ba492b850a59c6489ae0efdedebda5e02a3275
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-73-435396.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministro do Equipamento do Planeamento e da Administração do Território
+- Regulamento Geral das Edificações Urbanas
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 73/96
+
+de 18 de Junho
+
+Pelo [Decreto-Lei n.º 237/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1985-183050), de 5 de Julho, foi permitida a aplicação de limites e requisitos diferentes dos fixados no Regulamento Geral das Edificações Urbanas, exclusivamente nos casos e nos precisos termos estabelecidos nas Recomendações Técnicas para Habitação Social (RTHS), aprovadas pelo Despacho n.º 41/MES/85, de 14 de Fevereiro, do Ministro do Equipamento Social.
+
+A experiência entretanto colhida justifica a introdução de alguns ajustamentos às RTHS, sendo aconselhável flexibilizar o mecanismo legal conducente à sua aplicação prática, designadamente no que se refere à aplicação aos empreendimentos a construir no âmbito dos programas de realojamento de população residente em barracas ou em situações similares.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Na construção de habitação social ou de custos controlados é permita a aplicação de limites e requisitos diferentes dos fixados no Regulamento Geral das Edificações Urbanas, exclusivamente nos casos e nos precisos termos estabelecidos nas Recomendações Técnicas para Habitação Social, que são aprovados por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território.
+
+###### Artigo 2.º
+
+É revogado o [Decreto-Lei n.º 237/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1985-183050), de 5 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 18 de Abril de 1996. - António Manuel de Oliveira Guterres - José Manuel da Costa Monteiro Consiglieri Pedroso.
+
+**Promulgado em 29 de Maio de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 3 de Junho de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

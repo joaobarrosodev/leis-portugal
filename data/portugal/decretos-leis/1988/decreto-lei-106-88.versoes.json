@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:286309:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-165202237",
+ "dre_path": "/dr/detalhe/decreto-lei/106-1988-286309",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165202280"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "165202280",
+    "165202291",
+    "165202292",
+    "165202293",
+    "165202294",
+    "165202295",
+    "165202301",
+    "165202297",
+    "165202298",
+    "165202299",
+    "165202300"
+   ]
+  }
+ ],
+ "fragments": {
+  "165202280": {
+   "fragment_id": "165202238",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 106/88\n\nde 31 de Março\n\nA imprensa regional desempenha um papel altamente relevante, não só no âmbito territorial a que naturalmente mais diz respeito, mas também na informação e contributo para a manutenção de laços de autêntica familiaridade entre as gentes locais e as comunidades de emigrantes dispersas pelas partes mais longínquas do Mundo. Muitas vezes, ela é, com efeito, o único veículo de publicitação das aspirações a que a imprensa de expansão nacional dificilmente é sensível; e constitui, por outro lado, um autêntico veículo de difusão, junto daqueles que se encontram fora do País, daquilo que se passa com os que não os quiseram ou não puderam acompanhar. Além disso, tem, por regra, sabido desempenhar uma função cultural a que nenhum órgão de comunicação social pode manter-se alheio.\n\nA definição do Estatuto da Imprensa Regional e dos que nela trabalham é, neste contexto, um passo importante e fundamental. Visto num plano de justiça, e não numa perspectiva paternalista ou proteccionista, pode e deve ser um passo essencial e decisivo.\n\nSem ser o único ou o último, é, todavia, um passo indispensável para que o País tenha a percepção clara do papel, objectivos e atribuições que a este sector são cometidos, para que a Administração defina, de forma justa e institucionalizada, a sua função de apoio à imprensa regional e para que esta - incluindo os seus trabalhadores - conheça não só as exigências sociais que sobre ela impendem, mas igualmente os direitos e as regalias que lhe são devidos.\n\nNão pode deixar de salientar-se que o presente Estatuto recolheu o parecer favorável de todas as associações de imprensa regional, o que é significativo da concordância dos profissionais destas associações com as orientações ora determinadas pelo Governo.\n\nAssim, no uso da autorização concedida pela Lei n.º 1/88, de 4 de Janeiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º O presente diploma aprova o Estatuto da Imprensa Regional, que dele faz parte integrante, reconhecendo a relevância da sua função, estabelecendo a sua caracterização e definindo as formas de apoio a prestar quer às empresas quer aos jornalistas que a integram.\n\nArt. 2.º O Estatuto da Imprensa Regional entra em vigor no 1.º dia do mês imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - António Fernando Couto dos Santos.\n\nPromulgado em 14 de Março de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Março de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "165202291": {
+   "fragment_id": "165202250",
+   "type": 14,
+   "heading": "Anexo — Estatuto da Imprensa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatuto da Imprensa Regional"
+  },
+  "165202292": {
+   "fragment_id": "165202251",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nConsideram-se de imprensa regional todas as publicações periódicas de informação geral, conformes à Lei de Imprensa, que se destinem predominantemente às respectivas comunidades regionais e locais, dediquem, de forma regular, mais de metade da sua superfície redactorial a factos ou assuntos de ordem cultural, social, religiosa, económica e política a elas respeitantes e não estejam dependentes, directamente ou por interposta pessoa, de qualquer poder político, inclusive o autárquico."
+  },
+  "165202293": {
+   "fragment_id": "165202252",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nsão funções específicas da imprensa regional:\n\na) Promover a informação respeitante às diversas regiões, como parte integrante da informação nacional, nas suas múltiplas facetas;\n\nb) Contribuir para o desenvolvimento da cultura e identidade regional através do conhecimento e compreensão do ambiente social, político e económico das regiões e localidades, bem como para a promoção das suas potencialidades de desenvolvimento;\n\nc) Assegurar às comunidades regionais e locais o fácil acesso à informação;\n\nd) Contribuir para o enriquecimento cultural e informativo das comunidades regionais e locais, bem como para a ocupação dos seus tempos livres;\n\ne) Proporcionar aos emigrantes portugueses no estrangeiro informação geral sobre as suas comunidades de origem, fortalecendo os laços entre eles e as respectivas localidades e regiões;\n\nf) Favorecer uma visão da problemática regional, integrada no todo nacional e internacional."
+  },
+  "165202294": {
+   "fragment_id": "165202254",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCompete à Administração Central, em articulação com as autarquias locais:\n\na) Garantir a livre circulação da informação a nível das comunidades regionais e locais, através da imprensa regional;\n\nb) Assegurar um acesso em condições especialmente favoráveis aos produtos informativos da agência noticiosa nacional, através de acordos ou contratos-programa celebrados com esta entidade;\n\nc) Fomentar a institucionalização de mecanismos de relacionamento da imprensa regional com outros meios de comunicação social, tendo em vista a complementaridade das respectivas actuações a nível regional e local, respeitando-se o conceito de empresa multimédia, a livre iniciativa e a concorrência;\n\nd) Contribuir para a correcção progressiva dos desequilíbrios informativos regionais e locais, através do estabelecimento de incentivos não discriminatórios para o desenvolvimento da imprensa regional;\n\ne) Contribuir para a formação de jornalistas e colaboradores da imprensa regional, designadamente apoiando a formação inicial e estágios adequados à sua profissionalização, especialização e reciclagem;\n\nf) Institucionalizar medidas de apoio tendentes à criação de condições para a sua viabilidade técnica e económica, aplicáveis no respeito pelos princípios de independência e pluralismo informativo;\n\ng) Apoiar e estimular o associativismo a nível da imprensa regional;\n\nh) Facultar estudos e apoiar tecnicamente as associações de imprensa regional em projectos de importância relevante para o desenvolvimento do sector;\n\ni) Assegurar a articulação da imprensa regional com os programas de desenvolvimento regional."
+  },
+  "165202295": {
+   "fragment_id": "165202255",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os apoios referidos no artigo anterior poderão ser directos ou indirectos e serão atribuídos segundo critérios gerais e objectivos a constar de diploma próprio e em esquemas participativos com associações de imprensa regional.\n\n2 - Os apoios referidos no número anterior poderão ainda ser atribuídos de acordo com as prioridades e critérios de desenvolvimento regional, sempre que se justifique a concentração de instrumentos e de intervenções para o desenvolvimento integrado de determinada zona ou região.\n\n3 - Os apoios directos são de natureza não reembolsável, revestindo as formas de subsídios de difusão, de reconversão tecnológica ou de apoios à cooperação e para a formação profissional de jornalistas e outros trabalhadores da imprensa.\n\n4 - Os apoios indirectos traduzem-se na comparticipação dos custos de expedição, na bonificação de tarifas dos serviços de telecomunicações ou na comparticipação nas despesas de transporte de jornalistas.\n\n5 - Excepcionalmente, de acordo com as disponibilidades orçamentais, poderão ser programadas outras modalidades de apoio adequadas à resolução de problemas específicos da imprensa regional."
+  },
+  "165202301": {
+   "fragment_id": "165202256",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Consideram-se associações de imprensa regional as associações de empresas jornalísticas que editem as publicações referidas no artigo 1.º e as associações de jornalistas do sector que tenham por objectivo a realização de interesses comuns e a prossecução de acções em benefício dos seus associados.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165202297": {
+   "fragment_id": "165202257",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Para além dos jornalistas profissionais que exerçam as suas funções em publicações da imprensa regional, são ainda considerados jornalistas da imprensa regional os indivíduos que exerçam, de forma efectiva e permanente, ainda que não remunerada, as funções de director, subdirector, chefe de redacção, coordenador de redacção, redactor ou repórter fotográfico das publicações referidas no artigo 1.º do presente Estatuto.\n\n2 - Os indivíduos referidos no número anterior têm direito à emissão de um cartão de identificação próprio.\n\n3 - Os indivíduos que, embora não exercendo as funções previstas no n.º 1, sejam, todavia, colaboradores ou correspondentes das publicações da imprensa regional têm igualmente direito à emissão de um cartão de identificação.\n\n4 - Os cartões emitidos nos termos do presente artigo não substituem os documentos de identificação previstos na legislação em vigor.\n\n5 - Os cartões referidos no n.os 2 e 3 serão de modelos a aprovar por despacho do membro do Governo responsável pela comunicação social.\n\n6 - Os pedidos de cartões referidos nos n.os 2 e 3 deverão ser formalizados em requerimento dirigido ao director-geral da Comunicação Social, acompanhado dos seguintes elementos:\n\na) Bilhete de identidade ou certidão de nascimento;\n\nb) Três fotografias recentes, tipo passe;\n\nc) Certificado de habilitações literárias no mínimo correspondentes à escolaridade obrigatória, reportada ao tempo em que o requerente abandonou o sistema de ensino;\n\nd) Declaração do director da publicação onde trabalha, comprovativa da função aí exercida.\n\n7 - Os cartões referidos no n.º 3 serão fornecidos gratuitamente no seguimento de pedido fundamentado, dirigido ao director-geral da Comunicação Social.\n\n8 - Os titulares dos cartões referidos no n.º 1 são obrigados a devolvê-los à Direcção-Geral da Comunicação Social (DGCS) logo que deixem de exercer as funções para que estavam credenciados.\n\n9 - A direcção da publicação respectiva é igualmente obrigada a comunicar à DGCS a cessação de funções por parte dos titulares dos cartões de identificação previstos no presente artigo."
+  },
+  "165202298": {
+   "fragment_id": "165202258",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Constituem direitos dos jornalistas da imprensa regional:\n\na) A liberdade de criação, expressão e divulgação;\n\nb) A liberdade de acesso às fontes de informação;\n\nc) A garantia de sigilo;\n\nd) A garantia de independência.\n\n2 - O direito referido na alínea b) do número anterior abrange o livre acesso às fontes de informação dependentes da administração directa ou indirecta do Estado, das entidades autárquicas ou outros entes públicos cujo âmbito de funcionamento incida fundamentalmente na localidade ou região sede do órgão de imprensa regional em que exerçam funções, sem prejuízo das restrições gerais estabelecidas na Lei de Imprensa.\n\n3 - Para efectivação do disposto no número anterior são reconhecidos aos jornalistas da imprensa regional em exercício de funções os seguintes direitos:\n\na) Não serem impedidos de desempenhar a respectiva função em qualquer local de acesso público onde a sua presença seja ditada pelo exercício da sua actividade;\n\nb) Não serem desapossados do material utilizado ou obrigados a exibir os elementos recolhidos, a não ser por mandado judicial nos termos da lei;\n\nc) Serem apoiados pelas autoridades no bom desempenho das suas funções."
+  },
+  "165202299": {
+   "fragment_id": "165202259",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nConstituem deveres fundamentais dos jornalistas da imprensa regional:\n\na) Respeitar escrupulosamente a verdade, o rigor e objectividade da informação;\n\nb) Respeitar a orientação e os objectivos definidos no estatuto editorial da publicação em que trabalhem;\n\nc) Observar os limites ao exercício da liberdade de imprensa nos termos da lei."
+  },
+  "165202300": {
+   "fragment_id": "165202260",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA imprensa regional continua a reger-se pela Lei de Imprensa em tudo o que não estiver previsto no presente Estatuto."
+  }
+ }
+}

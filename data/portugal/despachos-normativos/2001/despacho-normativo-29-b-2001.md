@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:667285:por
+title: Despacho Normativo n.º 29-B/2001
+short_title: null
+summary: Fixa os montantes máximos de comparticipações recebidas e a receber por freguesia para investimentos nos respectivos
+  edifícios sede
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 29-B/2001
+official_date: null
+publication_date: '2001-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/2001, 2º Suplemento, Série I-B de 2001-07-06
+  number: '155'
+  series: I
+  supplement: 2º Suplemento
+  pages: 4084-(10) a 4084-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/07/155b02/00100011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/29-b/2001/07/06/p/dre/pt/html
+  oj: null
+  dre: '667285'
+  dre_path: /dr/detalhe/despacho-normativo/29-b-2001-667285
+  internal: pt:dre:667285:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-b-2001-667285
+  metadata_url: https://data.dre.pt/eli/despnorm/29-b/2001/07/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-b-2001-667285
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-07-06T00:00:00Z'
+integrity:
+  source_sha256: 0dad9ac6d1c4092e466ec9f41ea2416b983491a95b6c5e883760eb59cfb2eca9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-29-B-667285.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Comparticipação do Estado
+- Edifício Público
+- Junta de Freguesia
+- Obras Municipais
+- Sede
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/38/1999/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/38/1999/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 29-B/2001
+
+O n.º 3, alínea c), do artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto (Lei das Finanças Locais), dá competência ao Governo para tomar as providências orçamentais necessárias à concessão de auxílios financeiros às freguesias com vista ao financiamento de investimentos a realizar com os respectivos edifícios sede, quando negativamente afectados na sua funcionalidade.
+
+O n.º 2 do artigo 17.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro (Orçamento do Estado para 2001), aprovou a inscrição no orçamento do Ministério do Ambiente e do Ordenamento do Território de uma verba, de 1,5 milhões de contos, destinada à concessão de auxílios financeiros para edifícios sede de freguesia, negativamente afectados na sua funcionalidade, preceituando o n.º 4 do mesmo artigo que a definição das condições, critérios e prioridades para a concessão de tais auxílios financeiros será feita por despacho normativo do Ministro do Ambiente e do Ordenamento do Território.
+
+Interessa estabelecer regras para um novo programa de intervenção neste domínio, a fim de habilitar as freguesias com os meios financeiros que lhes permitam a realização de obras, a construção ou a aquisição de edifícios, por forma a disporem de instalações condignas.
+
+Assim, pelo presente despacho normativo, estão sujeitas a este novo regime as candidaturas das juntas de freguesia que ainda não dispõem de sede ou que nunca beneficiaram do Programa Sedes de Juntas de Freguesia, gerido pela Direcção-Geral das Autarquias Locais.
+
+Igualmente, podem beneficiar do regime instituído pelo presente despacho normativo todas as juntas de freguesia que, sendo já beneficiárias daquele Programa, ainda não concluíram as obras das respectivas sedes que foram já objecto de financiamento, bastando para tal que expressamente adiram ao regime que agora se define.
+
+Foi ouvida a Associação Nacional de Freguesias.
+
+Nestes termos, ao abrigo do n.º 4 do artigo 17.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, determina-se o seguinte:
+
+1 - As comparticipações recebidas e a receber para financiamento do edifício sede, por freguesia, não podem ultrapassar os seguintes limites:
+
+a) Nas freguesias com menos de 2500 eleitores - (euro) 39904 (8000034$00);
+
+b) Nas freguesias com 2500 ou mais eleitores e menos de 5000 eleitores - (euro) 49980 (10020090$00);
+
+c) Nas freguesias com 5000 ou mais eleitores e menos de 10000 eleitores - (euro) 59856 (12000051$00);
+
+d) Nas freguesias com 10000 ou mais eleitores e menos de 20000 eleitores - (euro) 74820 (15000063$00);
+
+e) Nas freguesias com mais de 20000 eleitores - (euro) 99760 (20000084$00).
+
+2 - A comparticipação a atribuir corresponde a 60% da despesa realizada com a aquisição, construção ou reparação do edifício sede da junta de freguesia, dentro dos limites definidos no n.º 1 deste despacho normativo.
+
+3 - O regime previsto no presente despacho normativo é aplicável às candidaturas das juntas de freguesia que ainda não dispõem de sede ou que nunca beneficiaram do Programa Sedes de Juntas de Freguesia, gerido pela Direcção-Geral das Autarquias Locais.
+
+4 - As freguesias que ainda não concluíram as obras das respectivas sedes, ao abrigo do Programa Sedes de Juntas de Freguesia, podem ser beneficiárias do programa de financiamento estabelecido no presente despacho normativo, devendo, para tal, manifestar expressamente a sua opção junto da Direcção-Geral das Autarquias Locais, no prazo de um mês contado da data da sua publicação no Diário da República.
+
+5 - Mantêm-se sujeitas ao regime previsto no [Despacho Normativo n.º 38/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/38-1999-433407), de 30 de Julho, publicado no Diário da República, 1.ª série-B, de 23 de Agosto de 1999, as freguesias que ainda não concluíram as obras das respectivas sedes ao abrigo do Programa Sedes de Juntas de Freguesia e que não manifestem a sua opção pelo novo regime, nos termos definidos no número anterior.
+
+6 - As freguesias que, nos termos do n.º 4 do presente despacho normativo, optem pelo regime estabelecido neste diploma beneficiarão, até ao limite de 60% da despesa que venham a realizar, de um reforço da comparticipação inicialmente atribuída, de montante equivalente ao valor do saldo por receber, ponderado pelos factores seguintes:
+
+a) Factor 4/3, nas freguesias abrangidas pelas alíneas a) a c) do n.º 1;
+
+b) Factor 5/3, nas freguesias abrangidas pela alínea d) do n.º 1;
+
+c) Factor 20/9, nas freguesias abrangidas pela alínea e) do n.º 1.
+
+7 - O regime das transferências será o seguinte:
+
+a) Será paga a título de adiantamento uma prestação inicial no valor de 35% da comparticipação a atribuir;
+
+b) O restante será processado em duas prestações:
+
+b.l) Uma prestação intercalar até ao valor de 80% da comparticipação atribuída, contra a apresentação da declaração justificativa das despesas correspondentes ao montante antes recebido;
+
+b.2) Uma prestação final, até ao valor de 100%, será paga contra a apresentação de declaração justificativa do dispêndio global efectuado e comprovativa da conclusão das obras;
+
+c) No caso de a comparticipação se destinar à aquisição de edifício, haverá um único processamento, contra a apresentação de cópia da escritura de aquisição ou do contrato-promessa de compra e venda, de acordo com o valor de aquisição e o limite máximo da comparticipação atribuída.
+
+8 - As declarações justificativas referidas na alínea b) do n.º 7 serão assinadas pelo director regional da administração autárquica da CCR respectiva, contra a apresentação de cópias autenticadas dos documentos comprovativos da despesa feita por empreitada ou administração directa, devendo ser feita menção expressa da posse das mesmas na referida declaração.
+
+9 - As cópias dos documentos referidos no número anterior ficam na posse das direcções regionais da administração autárquica.
+
+10 - À Direcção-Geral das Autarquias Locais compete elucidar cada uma das juntas de freguesia abrangidas quanto à sua exacta situação e, de forma detalhada, quanto aos procedimentos a ter em conta no futuro, bem como acompanhar todo o processo, coordenando e processando os pagamentos devidos, nos termos do presente despacho normativo.
+
+Ministério do Ambiente e do Ordenamento do Território, 3 de Julho de 2001. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.

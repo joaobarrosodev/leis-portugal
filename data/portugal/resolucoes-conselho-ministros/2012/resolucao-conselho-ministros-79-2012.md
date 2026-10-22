@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:176059:por
+title: Resolução do Conselho de Ministros n.º 79/2012
+short_title: null
+summary: Revoga a Resolução do Conselho de Ministros n.º 183/2004, de 22 de dezembro, sobre o Programa Relativo à Aquisição
+  de Navios Destinados à Marinha Portuguesa, e autoriza o Ministro da Defesa Nacional a proceder à revogação de contratos
+  entre o Estado Português e os Estaleiros Navais de Viana do Castelo, S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 79/2012
+official_date: null
+publication_date: '2012-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/2012, Série I de 2012-09-20
+  number: '183'
+  series: I
+  supplement: null
+  pages: 5315 - 5316
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18300/0531505316.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/79/2012/09/20/p/dre/pt/html
+  oj: null
+  dre: '176059'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/79-2012-176059
+  internal: pt:dre:176059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2012-176059
+  metadata_url: https://data.dre.pt/eli/resolconsmin/79/2012/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2012-176059
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-09-20T00:00:00Z'
+integrity:
+  source_sha256: 3424cac07de99039b14aecaaea77a8415a42a9d646011ebb89b69bcde51e97ac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-79-176059.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Navios
+- Contrato
+- Delegação de Competências
+- Marinha
+- Estaleiros Navais de Viana do Castelo
+- Programa Relativo a Aquisição de Navios
+- Ministro da Defesa Nacional
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/186/2012/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/186/2012/08/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/183/2004/12/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/183/2004/12/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 79/2012
+
+Na sequência do procedimento aberto pelo despacho conjunto n.º 15/2001, publicado no Diário da República, 2.ª série, de 11 de janeiro de 2001, foi celebrado, em 15 de outubro de 2002, entre o Estado e a sociedade Estaleiros Navais de Viana do Castelo, S. A. (ENVC, S. A.), entidade atualmente detida a 100 % pela EMPORDEF - Empresa Portuguesa de Defesa (SGPS), S. A., um contrato relativo à construção e aquisição de um navio-patrulha oceânico, com direito de opção de aquisição de um segundo do mesmo tipo, direito de opção esse exercido pelo Estado em 14 de janeiro de 2003.
+
+O Estado celebrou também com a ENVC, S. A., em 19 de maio de 2004, um novo contrato em que, nomeadamente, procede à aquisição de dois navios-patrulha oceânicos e de combate à poluição, situação que se encontra refletida na resolução n.º 68/2004, do Conselho de Ministros, publicada no Diário da República, 2.ª série, de 16 de junho de 2004.
+
+Por sua vez, a [Resolução do Conselho de Ministros n.º 183/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2004-219688), de 22 de dezembro, aprovou, designadamente, um programa estruturado e completo de aquisição de navios, denominado Programa Relativo à Aquisição de Navios Destinados à Marinha Portuguesa (PRAN), a executar por um período de 11 anos, no qual se compreendem um contrato-quadro, um contrato específico de aquisição de seis navios-patrulha oceânicos e um contrato específico de aquisição de cinco lanchas de fiscalização costeira, tendo em vista a manutenção e reforço da capacidade de vigilância e fiscalização marítima, designadamente nas zonas económicas exclusivas do continente e das Regiões Autónomas dos Açores e da Madeira, bem como nas áreas interiores ribeirinhas.
+
+Em concretização do PRAN, foi celebrado, em 17 de novembro de 2004, o referido contrato-quadro, nos termos do qual se define e regula o enquadramento e o modo de união entre os dois contratos específicos de aquisição de seis navios-patrulha oceânicos e cinco lanchas de fiscalização costeiras, destinados à Marinha.
+
+Em 19 de dezembro de 2005 foi celebrado o contrato base entre o Ministério da Defesa Nacional e a ENVC, S. A., que estabelecia, de modo vinculativo, as bases do contrato de aquisição de cinco lanchas de fiscalização costeira em concretização do contrato-quadro, celebrado no âmbito do PRAN, tendo, em 17 de março de 2009, sido assinado o respetivo contrato de aquisição de cinco lanchas de fiscalização costeira, com o direito de opção de aquisição de mais três.
+
+A celebração dos procedimentos e dos contratos referidos teve como principal objetivo proporcionar ao País uma adequada mobilidade e capacidade para exercer uma ação continuada de vigilância e presença nos espaços marítimos nacionais, visando designadamente a realização de fiscalização em áreas ribeirinhas, costeiras e nas zonas económicas exclusivas do continente e nas Regiões Autónomas da Madeira e dos Açores, incluindo ações de combate à poluição marítima.
+
+Em razão das características defensivas e da integração de material militar nos navios acima referidos, que exigem o acompanhamento de especiais medidas de segurança relacionadas com a sensibilidade de tal material e com as cautelas que o seu manuseamento e instalação exigem, o Estado entendeu que os contratos de fornecimento e de aquisição de navios acima referidos fossem celebrados com a ENVC, S. A., atendendo à aptidão técnica e estrutural adquirida por esta entidade e de forma a fomentar a indústria nacional, designadamente no que respeita aos projetos e construção.
+
+Contudo, a ENVC, S. A., empresa operadora na área da reparação e construção naval, tem enfrentado graves dificuldades económico-financeiras, que se agravaram nos últimos anos, tendo o Governo aprovado, através do [Decreto-Lei n.º 186/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2012-175174), de 13 de agosto, o processo de reprivatização do capital social da ENVC, S. A.
+
+Assim, considerando que i) todos os bens objeto dos contratos de fornecimento e de aquisição celebrados entre o Estado e a ENVC, S. A., constituem navios de guerra abrangidos pela lista a que se refere a alínea b) do n.º 2 do artigo 296.º do Tratado de Amesterdão, correspondente à alínea b) do n.º 2 do artigo 223.º do Tratado de Roma, ii) a sua construção exige um acompanhamento especial por razões essenciais de segurança, relacionadas com a especificidade e sensibilidade do material instalado e com a prudência requerida para a respetiva instalação e manuseamento, sendo os documentos de suporte aos contratos celebrados, na sua maioria, classificados, iii) a evolução do estatuto jurídico da ENVC, S. A., que culminará na reprivatização do seu capital social, passando a integrar o sector privado, é interesse do Estado salvaguardar que todos os documentos, projetos e bens adquiridos ou produzidos no âmbito dos contratos de aquisição e fornecimento celebrados com a ENVC, S. A., permaneçam na propriedade do Estado, de forma a proteger o interesse público;
+
+Por último, no âmbito de um contrato de contrapartidas celebrado com o German Submarine Consortium, a ENVC, S. A., foi beneficiária de um projeto de construção de um navio polivalente logístico, que é, atualmente, propriedade da ENVC, S. A., tendo o Estado um interesse crucial e estratégico na aquisição do referido projeto de forma a salvaguardar que as suas especificidades e características únicas permanecem na propriedade do Estado, tendo em vista a sua potencial construção futura e a sua utilização como um elemento importante nas relações na área da defesa com outros países:
+
+Assim:
+
+Nos termos das alíneas e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Revogar a [Resolução do Conselho de Ministros n.º 183/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2004-219688), de 22 de dezembro, que, designadamente, aprovou o Programa Relativo à Aquisição de Navios Destinados à Marinha Portuguesa (PRAN) e adjudicou à Estaleiros Navais de Viana do Castelo, S. A. (ENVC, S. A.), mediante ajuste direto, a execução do PRAN.
+
+2 - Delegar no Ministro da Defesa Nacional, com a faculdade de subdelegação, a competência para proceder à revogação do contrato-quadro celebrado em 17 de novembro de 2004, entre o Estado Português e a ENVC, S. A., nos termos do qual se define e regula o enquadramento e o modo de união entre os dois contratos específicos de aquisição de seis navios-patrulha oceânicos e cinco lanchas de fiscalização costeiras, destinados à Marinha.
+
+3 - Delegar no Ministro da Defesa Nacional, com a faculdade de subdelegação, a competência para proceder à revogação do contrato de aquisição celebrado em 19 de maio de 2004, relativo a dois navios-patrulha oceânicos e de combate à poluição e do contrato de aquisição celebrado em 17 de março de 2009, relativo às lanchas de fiscalização costeira, considerando o processo de reprivatização da ENVC, S. A., em curso, e tendo em vista a salvaguarda de todos os documentos, projetos e bens adquiridos ou produzidos no âmbito dos contratos de aquisição e fornecimento celebrados com a ENVC, S. A., na propriedade do Estado, de forma a proteger e salvaguardar o interesse público.
+
+4 - Delegar no Ministro da Defesa Nacional, com a faculdade de subdelegação, a competência para proceder à formalização de todos os atos tendentes à conclusão, com a urgência necessária, do contrato de construção dos dois navios-patrulha oceânicos, celebrado em 15 de outubro de 2002, entre o Estado Português e a ENVC, S. A., de forma a permitir a sua entrega em definitivo.
+
+5 - Autorizar, nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, a realização da despesa inerente à celebração do contrato de aquisição do projeto do navio polivalente logístico a celebrar, por ajuste direto, com a ENVC, S. A., nos termos da alínea e) do n.º 1 do artigo 24.º do Código dos Contratos Públicos (CCP), aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, até ao montante máximo de (euro) 25 500 000, ao qual acresce o IVA à taxa legal em vigor.
+
+6 - Delegar, com a faculdade de subdelegação, ao abrigo do disposto no artigo 109.º do CCP, no Ministro da Defesa Nacional, a competência para a prática de todos os atos necessários para a efetivação do procedimento referido no número anterior, bem como para execução de todos os atos necessários à formalização da transmissão dos direitos de autor do referido projeto a favor do Estado Português.
+
+7 - Determinar que a presente resolução produz efeitos desde a data da sua aprovação.
+
+Presidência do Conselho de Ministros, 13 de setembro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.

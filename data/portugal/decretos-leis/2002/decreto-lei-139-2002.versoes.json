@@ -1,0 +1,828 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:158636:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-856211817",
+ "dre_path": "/dr/detalhe/decreto-lei/139-2002-158636",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-05-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "855591750",
+    "855591751",
+    "855591752",
+    "855591753",
+    "855591754",
+    "855591755",
+    "855591756",
+    "855591758",
+    "855591759",
+    "855591760",
+    "855591761",
+    "855591762",
+    "855591763",
+    "855591764",
+    "855591765",
+    "855591766",
+    "855591767",
+    "855591768",
+    "855591769",
+    "855591770",
+    "855591771",
+    "855591772",
+    "855591773",
+    "855591774",
+    "856212375",
+    "856212376",
+    "856212377",
+    "856212378",
+    "856212379",
+    "856212380",
+    "856212381",
+    "856212382",
+    "856212383",
+    "856212384",
+    "856212385",
+    "856212386",
+    "856212387",
+    "856212388",
+    "856212389",
+    "856212390",
+    "856212391",
+    "856212392",
+    "856212393",
+    "856212394",
+    "856212395",
+    "856212396",
+    "856212397",
+    "856212398",
+    "856212399",
+    "856212400",
+    "856212401",
+    "856212402",
+    "856212403",
+    "856212404",
+    "856212405",
+    "856212406",
+    "856212407",
+    "856212408",
+    "856212409",
+    "856212410",
+    "856212411",
+    "856212412",
+    "856212413",
+    "856212414",
+    "856212415",
+    "856212416",
+    "856212417",
+    "856212418",
+    "856212419",
+    "856212420",
+    "856212421",
+    "856212422",
+    "856212423",
+    "856212424"
+   ]
+  },
+  {
+   "date": "2005-05-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:692396:por",
+     "title": "Decreto-Lei n.º 87/2005",
+     "published": "2005-05-23",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2005-692396"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "855591750",
+    "855591751",
+    "856212443",
+    "856212444",
+    "855591754",
+    "855591755",
+    "855591756",
+    "855591757",
+    "855591758",
+    "855591759",
+    "855591760",
+    "855591761",
+    "856212445",
+    "855591763",
+    "855591764",
+    "855591765",
+    "855591766",
+    "855591767",
+    "855591768",
+    "855591769",
+    "855591770",
+    "855591771",
+    "855591772",
+    "855591773",
+    "856212446",
+    "856212375",
+    "856212376",
+    "856212377",
+    "856212378",
+    "856212379",
+    "856212380",
+    "856212381",
+    "856212382",
+    "856212383",
+    "856212384",
+    "856212385",
+    "856212386",
+    "856212387",
+    "856212388",
+    "856212389",
+    "856212390",
+    "856212391",
+    "856212392",
+    "856212393",
+    "856212394",
+    "856212395",
+    "856212396",
+    "856212397",
+    "856212398",
+    "856212399",
+    "856212400",
+    "856212401",
+    "856212402",
+    "856212403",
+    "856212404",
+    "856212405",
+    "856212406",
+    "856212407",
+    "856212408",
+    "856212409",
+    "856212410",
+    "856212411",
+    "856212412",
+    "856212413",
+    "856212414",
+    "856212415",
+    "856212416",
+    "856212417",
+    "856212418",
+    "856212419",
+    "856212420",
+    "856212421",
+    "856212422",
+    "856212423",
+    "856212424"
+   ]
+  }
+ ],
+ "fragments": {
+  "855591750": {
+   "fragment_id": "856211818",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 139/2002\n\nde 17 de Maio\n\nO actual Regulamento sobre a Segurança nas Instalações de Fabrico e de Armazenagem de Produtos Explosivos data de 1979 e mantém-se praticamente intocado até hoje, apenas com pequenos ajustamentos em 1985. Uma norma transitória do Decreto-Lei n.º 142/79, de 23 de Maio, que o aprovou, permitia a manutenção das situações então existentes, salvo «situações de perigo». Isto significa que muitas das instalações de fabrico e de armazenagem de produtos explosivos estão hoje licenciadas segundo o regime aprovado pelo Decreto-Lei n.º 37925, de 1950.\n\nA evolução tecnológica, quer do lado das matérias-primas usadas e dos processos de fabrico, quer do lado da prevenção de acidentes, fez que o regime de 1979, e mais ainda o de 1950, se encontre francamente desajustado à realidade e às exigências de hoje.\n\nO que está em causa, para o Governo, é a procura do grau máximo de segurança para o pessoal que trabalha nas instalações e para as populações vizinhas, sem pôr em causa uma indústria tradicional no nosso país, antes colaborando para a sua modernização e para o desenvolvimento, entre os industriais e os profissionais do sector, de uma cultura de exigência e de rigor em matéria de segurança.\n\nNo regulamento aprovado pelo presente decreto-lei procurou-se ser imperativo nas questões de segurança intransigível e flexível nos aspectos que só uma apreciação técnica casuística pode determinar a melhor solução em prol da segurança.\n\nEstende-se a figura do responsável técnico (em princípio licenciado) a todos os estabelecimentos de fabrico e de armazenagem, credenciado pela Administração, após a frequência de um curso de formação específico.\n\nImpõe-se um regime mais rigoroso para a zona de segurança do estabelecimento e exige-se que o industrial seja detentor de um título real ou contratual que lhe permita garantir o regime definido para a zona de segurança.\n\nRedefinem-se as figuras do paiol, do paiolim e do armazém.\n\nProcede-se à compatibilização do regulamento com a legislação nacional e comunitária em vigor em matéria ambiental, de transporte de substâncias perigosas e de higiene e segurança no trabalho. Excluem-se do âmbito do Regulamento as instalações que contenham substâncias perigosas desde que não inseridas na classe dos explosivos.\n\nDetermina-se a caducidade dos alvarás existentes após dois anos de vigência do presente diploma, sujeitando-os a um processo de renovação que só poderá ser deferido se se verificar que as instalações cumprem todos os requisitos do Regulamento. Como medida transitória, e para evitar colapsos dramáticos na actividade de algumas empresas de menor dimensão e capacidade de renovação, permite-se a dispensa de alguns requisitos quanto à zona de segurança, desde que a Comissão de Explosivos emita parecer no qual se conclua que a segurança está plenamente garantida nas instalações em causa.\n\nHabilita-se a Comissão de Explosivos a emitir instruções técnicas complementares em matéria de segurança, sujeitas a homologação do Ministro da Administração Interna, pela qual adquirem força obrigatória para os industriais e para a fiscalização.\n\nPor último definem-se como contra-ordenações as violações ao disposto no Regulamento, e prevê-se a correspondente aplicação de coimas e sanções acessórias adequadas.\n\nForam ouvidas as associações representativas do sector.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "855591751": {
+   "fragment_id": "856211819",
+   "type": 11,
+   "heading": "Artigo 1.º — Regulamento de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regulamento de segurança\n\n1 - É aprovado o Regulamento de Segurança dos Estabelecimentos de Fabrico ou de Armazenagem de Produtos Explosivos, adiante designado de Regulamento, anexo ao presente diploma e que dele faz parte integrante.\n\n2 - O presente diploma não afasta a aplicação do regime previsto no Decreto-Lei n.º 164/2001, de 23 de Maio."
+  },
+  "855591752": {
+   "fragment_id": "856211820",
+   "type": 11,
+   "heading": "Artigo 2.º — Responsável técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Responsável técnico\n\nO responsável técnico a que se refere o Regulamento anexo ao presente diploma é um técnico credenciado por parecer da Comissão de Explosivos, homologado pelo director nacional da Polícia de Segurança Pública, após frequência com aproveitamento de curso de formação específica reconhecido pela Comissão de Explosivos, ao qual se podem habilitar diplomados com licenciatura adequada, bem como profissionais com o mínimo de 5 anos de experiência em funções técnicas no sector, nos termos de portaria dos Ministros da Administração Interna, da Economia e do Trabalho e Solidariedade."
+  },
+  "855591753": {
+   "fragment_id": "856211821",
+   "type": 11,
+   "heading": "Artigo 3.º — Caducidade dos alvarás e licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Caducidade dos alvarás e licenças\n\n1 - Os alvarás e as licenças de fabrico ou de armazenagem de produtos explosivos em vigor caducam no prazo de um ano a contar da data de publicação do presente diploma, salvo se renovados.\n\n2 - A renovação, a requerer pelo interessado, será deferida após verificação de que o requerente cumpre todos os requisitos legais para a actividade, exigíveis à data da renovação.\n\n3 - A caducidade prevista no n.º 1 pode não operar se e enquanto os requisitos a que se refere o número anterior não se mostrem cumpridos por causa não imputável ao requerente, este demonstre ter usado e continuar a usar de toda a diligência com vista a rápida correcção da situação e a continuação da laboração não ponha significativamente em causa a segurança das pessoas e dos bens.\n\n4 - O não cumprimento do disposto no n.º 7 do artigo 12.º do Regulamento quanto aos terrenos incluídos na zona de segurança de um estabelecimento, tal como fixada à data de publicação do presente diploma, pode, mediante parecer da Comissão de Explosivos, não obstar à renovação a que se refere o n.º 2, ficando, no entanto, a manutenção da licença condicionada à estrita observância do regime da zona de segurança naqueles terrenos.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 139/2003 - Diário da República n.º 150/2003, Série I-A de 2003-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2003-667123) prorroga, pelo período de dois anos, o prazo fixado no presente artigo."
+  },
+  "855591754": {
+   "fragment_id": "856211822",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma transitória\n\nAté à entrada em vigor do decreto regulamentar a que se refere o n.º 5 do artigo 14.º do Regulamento, aplicam-se transitoriamente as distâncias de segurança da tabela IV a ele anexa, considerando-se, para esse efeito, as substâncias como incluídas nas divisões de risco constantes do quadro I anexo à Portaria n.º 506/85, de 25 de Julho."
+  },
+  "855591755": {
+   "fragment_id": "856211823",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados:\n\nO Decreto-Lei n.º 142/79, de 23 de Maio;\n\nA Portaria n.º 29/74, de 16 de janeiro;\n\nA Portaria n.º 831/82, de 1 de Setembro;\n\nA Portaria n.º 506/85, de 25 de Julho."
+  },
+  "855591756": {
+   "fragment_id": "856211824",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação, sem prejuízo do disposto no artigo 3.º"
+  },
+  "855591758": {
+   "fragment_id": "856211826",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "855591759": {
+   "fragment_id": "856211827",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "855591760": {
+   "fragment_id": "856211828",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente Regulamento estabelece as normas e os procedimentos especiais de segurança a que devem obedecer a implantação, a organização e o funcionamento dos estabelecimentos de fabrico e de armazenagem de produtos explosivos, adiante designados abreviadamente por estabelecimentos.\n\n2 - As instruções técnicas complementares de segurança, emanadas da Comissão de Explosivos nos termos da lei, como desenvolvimento e concretização técnica dos princípios do presente regulamento, quando homologadas pelo Ministro da Administração Interna, são obrigatórias para os respectivos destinatários.\n\n3 - Este Regulamento é complementar das normas gerais sobre ambiente, bem como das que regulam a higiene, segurança e saúde no trabalho.\n\n4 - Excluem-se do âmbito de aplicação deste Regulamento as Forças Armadas e as forças de segurança."
+  },
+  "855591761": {
+   "fragment_id": "856211829",
+   "type": 11,
+   "heading": "Artigo 2.º — Documentação de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Documentação de referência\n\n1 - Cada estabelecimento deve manter devidamente organizada e actualizada a documentação seguinte, a qual constitui o referencial da segurança:\n\na) Manual de segurança (MS);\n\nb) Estudos de segurança (ES);\n\nc) Plano de emergência interno (PEI).\n\n2 - O manual de segurança deve incluir:\n\na) Normas gerais que regulam a higiene, segurança e saúde no trabalho;\n\nb) Conjunto das instruções técnicas complementares do presente regulamento, aplicáveis ao estabelecimento;\n\nc) Descrição do sistema de gestão da segurança.\n\n3 - O estudo de segurança deve incluir a identificação de perigos, a análise de riscos e a natureza dos acidentes possíveis de ocorrer, avaliação de consequências, bem como medidas de prevenção, protecção e mitigação.\n\n4 - O plano de emergência interno deve incluir, face ao estudo de segurança realizado, a identificação dos meios humanos existentes no estabelecimento e sua organização para fazer face aos acidentes envolvendo produtos explosivos."
+  },
+  "855591762": {
+   "fragment_id": "856211830",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsável técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsável técnico\n\n1 - Em cada estabelecimento a que se aplica este Regulamento deve existir um técnico responsável, credenciado pela autoridade competente que, no âmbito das actividades da empresa, assegura o cumprimento de toda a regulamentação de segurança.\n\n2 - O responsável técnico é pessoal e solidariamente responsável pelo cumprimento do presente Regulamento e demais normas regulamentares e instruções técnicas de segurança em vigor.\n\n3 - O responsável técnico pode ter a seu cargo, em acumulação no âmbito do mesmo estabelecimento, o desempenho de funções da mesma natureza exigidas por regulamentação específica de actividades complementares."
+  },
+  "855591763": {
+   "fragment_id": "856211831",
+   "type": 1,
+   "heading": "Capítulo II — Produtos explosivos e substâncias perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Produtos explosivos e substâncias perigosas"
+  },
+  "855591764": {
+   "fragment_id": "856211832",
+   "type": 11,
+   "heading": "Artigo 4.º — Definição e caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definição e caracterização\n\n1 - Para efeitos do presente Regulamento, entende-se por produtos explosivos as matérias e os objectos da classe 1 que figuram no Regulamento Nacional de Transporte de Matérias Perigosas por Estrada (RPE).\n\n2 - As matérias e objectos explosivos referidos no número anterior compreendem:\n\na) Matérias explosivas: matérias sólidas ou líquidas (ou misturas de matérias) susceptíveis, por reacção química, de libertar gases a uma temperatura, a uma pressão e a uma velocidade tais que podem causar danos nas imediações;\n\nb) Matérias pirotécnicas: matérias ou misturas de matérias destinadas a produzir um efeito calorífico, luminoso, sonoro, gasoso ou fumígeno, ou uma combinação destes efeitos, na sequência de reacções químicas exotérmicas auto-sustentadas não detonantes;\n\nc) Objectos explosivos: objectos que contêm uma ou várias matérias explosivas e ou matérias pirotécnicas;\n\nd) Matérias e objectos não mencionados nas alíneas anteriores e que são fabricados com vista a produzir um efeito prático por explosão ou com fins pirotécnicos.\n\n3 - São consideradas, para os efeitos deste Regulamento, substâncias perigosas as que, devido às suas propriedades físicas ou químicas, apresentam risco para o homem ou o ambiente, designadamente as listadas no anexo I, e para as quais devem ser adoptados procedimentos particulares de segurança."
+  },
+  "855591765": {
+   "fragment_id": "856211833",
+   "type": 11,
+   "heading": "Artigo 5.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Classificação\n\n1 - Para efeitos de fabrico, manuseamento e armazenagem as matérias e objectos a que se refere o artigo anterior são classificadas em divisões de risco que se estabelecem de acordo com o tipo de risco, nomeadamente, explosão, fogo, ou projecções, e categorias a que pertencem dentro de cada divisão de risco.\n\n2 - As divisões de risco enunciam-se do seguinte modo:\n\na) Divisão de risco 1.1 - Risco de explosão em massa - matérias e objectos que podem manifestar um risco de explosão que afecta de modo praticamente instantâneo a quase totalidade da massa;\n\nb) Divisão de risco 1.2 - Risco de projecções - matérias e objectos que apresentam risco de projecções, sem risco de explosão em massa;\n\nc) Divisão de risco 1.3 - Risco de fogo em massa - matérias e objectos que apresentam um risco de incêndio com risco ligeiro de sopro ou de projecções, ou ambos, mas sem risco de explosão em massa e:\n\ni) Cuja combustão dá lugar a uma radiação térmica considerável; ou\n\nii) Que ardem de forma sucessiva com efeitos mínimos de sopro ou de projecções, ou de ambos;\n\nd) Divisão de risco 1.4 - Risco de fogo moderado - matérias e objectos que apenas apresentam perigo mínimo no caso de ignição ou de iniciação, cujos efeitos são essencialmente limitados ao próprio volume e normalmente não dão lugar à projecção de fragmentos apreciáveis ou a apreciável distância e que um incêndio exterior não deva provocar a explosão praticamente instantânea da quase totalidade do conteúdo do volume;\n\ne) Divisão de risco 1.5 - Matérias muito pouco sensíveis, comportando um risco de explosão em massa, mas cuja sensibilidade é tal que, em condições normais, não haverá senão uma fraca probabilidade de iniciação ou de passagem da combustão à detonação, não devendo, como prescrição mínima, explodir durante o ensaio ao fogo exterior;\n\nf) Divisão de risco 1.6 - Objectos muito pouco sensíveis, não comportando risco de explosão em massa, contendo apenas matérias detonantes muito pouco sensíveis que apresentem uma probabilidade negligenciável de iniciação ou de propagação acidentais, e cujo risco se limite à explosão de um único objecto.\n\n3 - Para efeitos de compatibilidade na armazenagem - anexo II ao presente Regulamento -, cada produto explosivo é classificado num dos seguintes grupos de compatibilidade:\n\nA - Matéria explosiva primária;\n\nB - Objecto que contenha uma matéria explosiva primária e menos de dois dispositivos de segurança eficazes, bem como objectos, tais como detonadores de mina ou conjuntos de detonadores de mina (de desmonte), e iniciadores de percussão, mesmo que não contenham explosivos primários;\n\nC - Matéria explosiva propulsora ou deflagrante ou objecto que a contenha;\n\nD - Matéria explosiva secundária detonante ou objecto que a contenha, sem meios de iniciação nem carga propulsora, e pólvora negra, bem como objecto que contenha matéria explosiva primária e pelo menos dois dispositivos de segurança eficazes;\n\nE - Objecto que contenha matéria explosiva secundária detonante, sem meios de iniciação, mas com carga propulsora e que não contenha líquido ou um gel inflamáveis ou líquidos hipergólicos;\n\nF - Objecto que contenha matéria explosiva secundária detonante com os seus próprios meios de iniciação, com ou sem carga propulsora e que não contenha líquido ou gel inflamáveis ou líquidos hipergólicos;\n\nG - Composição pirotécnica ou objecto que a contenha, bem como objecto que contenha simultaneamente matéria explosiva e uma composição iluminante, incendiária, lacrimogénea ou fumígena, e que não seja hidroactivo, nem contenha fósforo branco, fosforetos, matéria pirofórica, líquido ou gel inflamável ou líquidos hipergólicos;\n\nH - Objecto que contenha, simultaneamente, matéria explosiva e fósforo branco;\n\nJ - Objecto que contenha, simultaneamente, matéria explosiva e um líquido ou gel inflamáveis;\n\nK - Objecto que contenha, simultaneamente, matéria explosiva e um agente químico tóxico;\n\nL - Matéria explosiva ou objecto que a contenha e que apresente um risco particular, designadamente, em virtude da sua hidroactividade, ou da presença de líquidos hipergólicos, de fosforetos, ou de matéria pirofórica, e que exija, por isso, o isolamento de cada tipo;\n\nN - Objecto que contenha matéria detonante extremamente pouco sensível;\n\nS - Matéria ou objecto embalado ou concebido de modo a limitar ao interior do volume todo o efeito perigoso devido a um funcionamento acidental, ou que, tendo a embalagem sido destruída pelo fogo, todos os efeitos de sopro ou de projecção sejam suficientemente reduzidos, de forma a não impedir nem dificultar de modo apreciável a luta contra o incêndio ou a aplicação de outras medidas de urgência na proximidade imediata do volume.\n\n4 - A inclusão de cada produto nas divisões de risco e grupos de compatibilidade a que se referem os números anteriores obedece aos critérios previstos no RPE."
+  },
+  "855591766": {
+   "fragment_id": "856211834",
+   "type": 1,
+   "heading": "Capítulo III — Estabelecimentos fabris e de armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estabelecimentos fabris e de armazenagem"
+  },
+  "855591767": {
+   "fragment_id": "856211835",
+   "type": 11,
+   "heading": "Artigo 6.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) Estabelecimento fabril, o local onde se exerçam uma ou mais das actividades industriais de fabrico de produtos explosivos, previstas no anexo III, podendo incluir uma ou mais unidades de armazenagem;\n\nb) Estabelecimento de armazenagem, o local onde se encontrem uma ou mais unidades de armazenagem, adiante definidas como paióis ou armazéns."
+  },
+  "855591768": {
+   "fragment_id": "856211836",
+   "type": 11,
+   "heading": "Artigo 7.º — Estabelecimento fabril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estabelecimento fabril\n\n1 - Os diferentes edifícios de um estabelecimento fabril devem ser instalados de modo a constituir agrupamentos distintos, devidamente separados, em conformidade com o disposto no artigo 13.º e segundo as seguintes zonas:\n\na) Serviços gerais e administrativos;\n\nb) Fabrico, compreendendo uma ou várias linhas de produção;\n\nc) Armazenagem, destinada a acondicionar matérias-primas, produtos intermédios e produtos explosivos finais;\n\nd) Campo de ensaios, destinada à realização de ensaios de campo;\n\ne) Laboratórios, destinada à realização de ensaios laboratoriais.\n\nf) Eliminação de produtos explosivos e substâncias perigosas.\n\n2 - Os estabelecimentos fabris podem ser constituídos por todas ou apenas algumas das zonas referidas no número anterior.\n\n3 - Na zona de fabrico pode ser autorizada a instalação de paiolins fixos para apoio ao fabrico (paiolim auxiliar) e para apoio à armazenagem (paiolim intermédio)."
+  },
+  "855591769": {
+   "fragment_id": "856211837",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidade de armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Unidade de armazenagem\n\n1 - Para efeitos do presente Regulamento, entende-se por unidade de armazenagem a construção destinada à armazenagem de produtos ou substâncias referidas no artigo 4.º\n\n2 - As unidades de armazenagem classificam-se da seguinte forma:\n\na) Quanto à sua duração em:\n\ni) Permanentes, quando autorizados para serem utilizadas por um período indeterminado de tempo;\n\nii) Provisórias, quando autorizadas para serem utilizadas por um período limitado de tempo;\n\nb) Quanto à sua instalação, em:\n\ni) Fixas, quando construídas solidamente sobre o terreno ou no subsolo;\n\nii) Móveis, quando construídas de forma a que possam ser transportadas de um local para outro;\n\nc) Quanto à sua localização em relação à superfície livre do terreno em:\n\ni) De superfície;\n\nii) Subterrâneas."
+  },
+  "855591770": {
+   "fragment_id": "856211838",
+   "type": 11,
+   "heading": "Artigo 9.º — Paiol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Paiol\n\n1 - Para efeitos do presente Regulamento, entende-se por paiol a unidade de armazenagem exclusivamente destinada a produtos explosivos.\n\n2 - Os paióis são fixos e em geral permanentes.\n\n3 - Os paióis poderão ser provisórios, mantendo as condições de segurança que lhe são aplicáveis, em casos devidamente justificados, designadamente:\n\na) Importação, exportação ou transferência de produtos explosivos, em que o período de tempo para a utilização é em função da data de chegada ou de expedição e nunca superior a seis meses;\n\nb) Exploração de pedreiras ou minas, desmontes na construção de estradas, abertura de valas ou outros, em que o período de tempo para a utilização é em função da duração previsível da obra e nunca superior a 2 anos;\n\nc) Espectáculos pirotécnicos, em que o período de tempo para a utilização corresponde ao estritamente necessário para a preparação e realização do evento.\n\n4 - Os paióis provisórios fixos podem ser construídos de forma a que possam ser deslocados em vazio de um local para outro que mantenha as condições de segurança aplicáveis.\n\n5 - Os paióis provisórios podem ser móveis quando destinados ao transporte entre um paiol fixo abastecedor e o local de aplicação, sem prejuízo do seu estacionamento em local previamente definido, mantendo, então, as condições de segurança que são aplicáveis aos paióis provisórios fixos."
+  },
+  "855591771": {
+   "fragment_id": "856211839",
+   "type": 11,
+   "heading": "Artigo 10.º — Paiolim",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Paiolim\n\n1 - Para efeitos do presente Regulamento, entende-se por paiolim, uma construção destinada à armazenagem de quantidades limitadas de produtos explosivos definidos no artigo 4.º\n\n2 - Os paiolins fixos destinam-se ao apoio ao fabrico (paiolim auxiliar), comércio ou utilização final de produtos explosivos.\n\n3 - O paiolim intermédio, em apoio à armazenagem, destina-se a conter temporariamente, no máximo um dia de laboração, os produtos explosivos saídos da linha de fabrico.\n\n4 - Os paiolins móveis destinam-se ao transporte ou apoio à utilização final de produtos explosivos."
+  },
+  "855591772": {
+   "fragment_id": "856211840",
+   "type": 11,
+   "heading": "Artigo 11.º — Armazém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Armazém\n\nPara efeitos do presente Regulamento, entende-se por armazém a construção destinada à armazenagem de substâncias e produtos não pertencentes à classe 1, utilizadas no fabrico de produtos explosivos."
+  },
+  "855591773": {
+   "fragment_id": "856211841",
+   "type": 1,
+   "heading": "Capítulo IV — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Segurança"
+  },
+  "855591774": {
+   "fragment_id": "856211842",
+   "type": 11,
+   "heading": "Artigo 12.º — Zona de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Zona de segurança\n\n1 - A zona de segurança de um estabelecimento fabril ou de armazenagem é a área de terreno exterior aos edifícios que o constituem, delimitada por uma linha que dista de cada edifício pelo valor das respectivas distâncias de segurança para edifícios habitados, determinada nos termos do disposto nos artigos seguintes.\n\n2 - A linha de delimitação referida no número anterior não pode distar menos de 60 m de qualquer construção que possa conter produtos explosivos ou substâncias perigosas.\n\n3 - O disposto no número anterior pode não ser exigível quando, por parecer da Comissão de Explosivos, se entenda que a morfologia do terreno ou o baixo risco em concreto, designadamente a ausência de risco de projecções, permite garantir condições aceitáveis de segurança a quem se situe fora da zona de segurança definida nos termos do n.º 1.\n\n4 - Na zona de segurança não podem existir ou construir-se quaisquer edificações, vias de comunicação ou instalações de transporte de energia ou comunicações, além das indispensáveis ao serviço do estabelecimento.\n\n5 - Em casos justificados pode ser autorizada a existência de instalações de transporte de energia ou de comunicações dentro da zona de segurança, desde que, em todas as circunstâncias, sejam observadas as distâncias de segurança previstas para tais instalações.\n\n6 - No interior da zona de segurança não é permitido acampar, estacionar, caçar, fumar ou foguear, bem como testar produtos explosivos ou outras substâncias perigosas, com excepção de testes efectuados no campo de ensaios do estabelecimento, devidamente licenciado para o efeito.\n\n7 - O titular do estabelecimento deve ser detentor de título real ou contratual bastante para o exercício dos direitos sobre o terreno da zona de segurança, que lhe permitam garantir o regime previsto nos números anteriores.\n\n8 - O estabelecimento deve ser vedado e possuir vigilância permanente, por forma a impedir a intrusão de pessoas estranhas num perímetro não inferior ao determinado pelas distâncias de segurança entre edifícios de fabrico - tabela II -, contados dos pontos mais exteriores dos edifícios que contenham ou possam conter produtos explosivos.\n\n9 - Ao longo do perímetro vedado devem existir painéis bem visíveis ostentando a inscrição «PERIGO DE EXPLOSÃO» e junto das entradas e saídas a inscrição «PROIBIDA A ENTRADA A PESSOAS ESTRANHAS AO ESTABELECIMENTO», ambas seguidas da referência expressa ao presente Regulamento.\n\n10 - O perímetro da zona de segurança deve dispor de vigilância e estar devidamente assinalado por painéis com a indicação de «ZONA DE SEGURANÇA DE ESTABELECIMENTO DE FABRICO/ARMAZENAGEM DE PRODUTOS EXPLOSIVOS».\n\n11 - Ao paiol provisório fixo instalado fora de um estabelecimento, não é aplicável o disposto no n.º 7.\n\n12 - Ao paiolim fixo instalado fora de um estabelecimento aplica-se o disposto no presente artigo, com excepção dos n.os 7 e 8 quanto à obrigatoriedade de possuir vigilância permanente."
+  },
+  "856212375": {
+   "fragment_id": "856211843",
+   "type": 11,
+   "heading": "Artigo 13.º — Distâncias de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Distâncias de segurança\n\n1 - A existência de distâncias de segurança tem como objectivo garantir condições mínimas para:\n\na) Impedir que uma explosão verificada num edifício possa transmitir-se a outros por simpatia, ou que um incêndio ou uma explosão possam transmitir-se em consequência do calor radiante desenvolvido ou das projecções de material incandescente;\n\nb) Garantir uma protecção parcial ou total contra os efeitos do sopro e das projecções de material de vária espécie provenientes das edificações onde qualquer explosão tenha ocorrido, bem como do material oficinal nelas instalado, ou dos próprios produtos explosivos e respectivas embalagens.\n\n2 - Na fixação das distâncias de segurança atende-se às lotações máximas dos produtos explosivos que para eles forem previstas, ao tipo de risco que lhes corresponde e ao fim a que cada um deles se destina, e os valores são estabelecidos nos termos das seguintes tabelas anexas:\n\na) Tabelas I, II, III para as distâncias entre construções vizinhas;\n\nb) Tabelas IV, V, VI e VII para as distâncias entre o estabelecimento e as vias de comunicação e edifícios habitados, linhas de alta tensão, instalações de comunicações com e sem fios.\n\n3 - Para efeitos do n.º 1, as distâncias de segurança não podem ser inferiores aos mínimos fixados nas tabelas anexas."
+  },
+  "856212376": {
+   "fragment_id": "856211844",
+   "type": 11,
+   "heading": "Artigo 14.º — Tipos de distâncias de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tipos de distâncias de segurança\n\n1 - Consoante a natureza e a finalidade dos locais a proteger dos efeitos de uma explosão, assim se devem distinguir os seguintes tipos de distâncias de segurança:\n\na) Distâncias entre edificios de armazenagem - tabela I;\n\nb) Distâncias entre edifícios de linhas de fabrico - tabela II;\n\nc) Distâncias entre edificios de armazenagem e edificios de linhas de fabrico - tabela III;\n\nd) Distâncias a vias de comunicação destinadas à utilização pública - tabela IV;\n\ne) Distâncias a edifícios habitados, designadamente, residências, escolas, hotéis, hospitais, igrejas, teatros, cinemas, estabelecimentos comerciais, locais de reunião, de desporto ou de recreio - tabela IV;\n\nf) Distâncias de paióis subterrâneos a edifícios habitados - tabela V;\n\ng) Distâncias a antenas de emissores de ondas hertzianas - tabela VI;\n\nh) Distâncias a linhas aéreas de distribuição de energia eléctrica de alta tensão - tabela VII.\n\n2 - As distâncias de segurança referidas nas alíneas a) a e) do número anterior são determinadas pela expressão:\n\nD = K x P(elevado a 1/n)\n\nque relaciona a distância de segurança (D) à qual não se devem transmitir os efeitos da explosão da quantidade de explosivo (P) e em que K é um factor experimental que tem em conta o tipo de explosivo e as condições do local onde se produz a explosão e as do local a proteger, e n é um parâmetro empírico que varia entre 2 e 6, reflectindo a natureza dos efeitos produzidos.\n\n3 - Quando se trata de paióis subterrâneos, as distâncias de segurança são determinadas com auxílio da tabela V, em função da divisão de risco, da quantidade de produto e dos valores da espessura da cobertura.\n\n4 - Para os edifícios de armazenagem das substâncias perigosas referidas no n.º 3 do artigo 4.º, que se localizem no interior das zonas de fabrico ou de armazenagem de produtos explosivos referidas no artigo 7.º, as distâncias de segurança serão calculadas tendo como base as lotações máximas de produtos explosivos dos edifícios mais próximos.\n\n5 - As distâncias de segurança a observar entre os edifícios de armazenagem referidos no número anterior e os edificios habitados e vias de comunicação serão calculados segundo critérios a definir por decreto regulamentar."
+  },
+  "856212377": {
+   "fragment_id": "856211845",
+   "type": 11,
+   "heading": "Artigo 15.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Casos especiais\n\n1 - Os edifícios que contenham produtos explosivos com risco de explosão em massa, com projecções, poderão ver a sua distância de segurança reduzida caso a sua concepção, ou existência de obstáculos naturais, possa ser capaz de reduzir de forma eficaz o alcance das projecções, casos em que os valores das distâncias de segurança a considerar são os correspondentes aos produtos explosivos das divisões de risco 1.1, sem projecções.\n\n2 - Nas condições previstas no número anterior, para os produtos da divisão de risco 1.2 ou 1.3, com projecção de material incandescente, podem adoptar-se as distâncias de segurança correspondentes aos produtos da divisão de risco 1.3, sem projecção de material incandescente.\n\n3 - Na aplicação das tabelas I, II e III aos produtos explosivos da divisão de risco 1.5 adopta-se, como distâncias de segurança, 60% dos valores nelas indicados para os produtos explosivos da divisão de risco 1.1, sem projecções, mantendo-se os valores mínimos correspondentes.\n\n4 - Na aplicação da tabela I aos produtos das divisões de risco 1.1, 1.2 ou 1.5, quando se trate de paióis concebidos por forma a poderem resistir aos efeitos do sopro e das projecções (tipo igloo ou cobertos com uma camada de terra com 2 m de espessura mínima) podem tomar-se, como distâncias de segurança, os valores indicados na primeira coluna da divisão de risco 1.3 para os produtos das divisões de risco 1.1, sem projecções, ou 1.2, e os valores indicados na segunda coluna da divisão de risco 1.3 para os produtos da divisão de risco 1.1, com projecções, sempre que tais paióis não contenham explosivos iniciadores ou outros explosivos de elevada sensibilidade.\n\n5 - No caso de os paióis só conterem produtos explosivos da divisão de risco 1.5, apenas se poderá considerar a redução resultante da aplicação do disposto no n.º 3.\n\n6 - Para os edifícios localizados no interior de zonas de serviços gerais e administrativos de um estabelecimento fabril, ainda que neles, normalmente, se encontre pessoal, tomam-se como distâncias de segurança entre estes e os edifícios que contenham ou possam conter produtos explosivos os valores da tabela III.\n\n7 - As construções auxiliares, tais como telheiros, arrecadações, sanitários, e outros, onde normalmente não se encontra pessoal ou que são frequentadas apenas de modo intermitente, poderão ser localizadas nas vizinhanças dos edifícios de linhas de fabrico ou de armazenagem, a distâncias inferiores às distâncias de segurança calculadas em função das lotações máximas consideradas para aqueles edifícios.\n\n8 - No caso de as construções auxiliares a que se refere o número anterior conterem também produtos explosivos, as suas lotações somam-se às dos edifícios vizinhos de modo a constituir com eles um grupo nas condições referidas no artigo 27.º\n\n9 - Os gabinetes ou escritórios do pessoal técnico ou encarregado dos fabricos que, pela natureza das suas funções devam situar-se na zona de fabrico, bem como os paiolins intermédios e auxiliares e os laboratórios, são consideradas, para efeitos de cálculo das distâncias de segurança, como edificios de linhas de fabrico."
+  },
+  "856212378": {
+   "fragment_id": "856211846",
+   "type": 11,
+   "heading": "Artigo 16.º — Lotações máximas - Paióis e paiolins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Lotações máximas - Paióis e paiolins\n\n1 - A lotação máxima de cada unidade de armazenagem dos tipos paiol e paiolim é a atribuída pela autoridade competente para o licenciamento.\n\n2 - Os paiolins armazenam produtos explosivos, com os limites líquidos de matéria activa seguintes:\n\na) Em apoio ao fabrico (paiolim auxiliar) - o estritamente necessário para a produção diária;\n\nb) Em apoio à armazenagem (paiolim intermédio) - a produção de um dia de fabrico;\n\nc) Em apoio ao comércio:\n\nArtifícios pirotécnicos de utilização livre - 50 kg;\n\nCartuchos de caça ou munições ligeiras - 100000 unidades;\n\nd) Em apoio à utilização - 100 kg."
+  },
+  "856212379": {
+   "fragment_id": "856211847",
+   "type": 11,
+   "heading": "Artigo 17.º — Lotações máximas - Armazéns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Lotações máximas - Armazéns\n\nA lotação máxima para as substâncias perigosas em cada armazém, é a definida pela autoridade competente para o licenciamento."
+  },
+  "856212380": {
+   "fragment_id": "856211848",
+   "type": 11,
+   "heading": "Artigo 18.º — Antecâmara ou telheiro para serviço dos paióis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Antecâmara ou telheiro para serviço dos paióis\n\n1 - As operações de manipulação de produtos explosivos, tais como pesagens, abertura de embalagens e outras, necessárias ao apoio dos paióis, são efectuadas numa antecâmara ou telheiro existente em anexo ao paiol e reservada às referidas operações.\n\n2 - Nas operações a que se refere o número anterior, não é permitido o uso de ferramentas de metal que não seja «antichispa», ou de ferramentas eléctricas que não tenham protecção adequada.\n\n3 - É expressamente proibida a realização de quaisquer outras operações na área referida no n.º 1."
+  },
+  "856212381": {
+   "fragment_id": "856211849",
+   "type": 11,
+   "heading": "Artigo 19.º — Armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Armazenagem\n\n1 - Como regra geral, não se armazenam na mesma unidade produtos que apresentam risco de fogo com produtos que apresentam risco de explosão, produtos de natureza comburente com produtos de natureza combustível, ou produtos cuja estabilidade química, grau de inflamabilidade ou de sensibilidade ao calor, ao choque ou fricção sejam muito diferentes.\n\n2 - Os produtos explosivos armazenam-se de acordo com as regras de compatibilidade na armazenagem constantes do anexo II ao presente Regulamento, com as especificidades previstas nos números seguintes.\n\n3 - Todos os produtos e substâncias armazenadas na mesma unidade ou compartimento devem ser acondicionados em pilhas distintas quando de lotes diferentes.\n\n4 - Exceptuam-se da regra do n.º 1 determinados produtos cuja armazenagem se poderá fazer na mesma unidade de armazenagem, desde que em compartimentos distintos, separados por parede de alvenaria ou de betão armado, e nos termos definidos pela autoridade competente.\n\n5 - A autoridade competente pode autorizar a substituição da compartimentação pela existência de células localizadas no interior de uma unidade, suficientemente afastadas umas das outras e destinadas à armazenagem de cada um dos produtos que, nos termos do número anterior, possam ser armazenados no mesmo edifício mas em compartimentos diferentes.\n\n6 - Solução idêntica à prevista no n.º 4 é adoptada no caso de produtos pertencentes ao mesmo grupo de compatibilidade, mas que exijam condições ambientais diferentes.\n\n7 - Os produtos explosivos não podem ser armazenados conjuntamente, no mesmo edifício, com gases comprimidos, liquefeitos ou dissolvidos sob pressão, matérias sólidas ou liquidas inflamáveis ou capazes de libertar gases inflamáveis, matérias comburentes, tóxicas, radioactivas, corrosivas ou susceptíveis de provocar infecções, não abrangidas pelas disposições deste Regulamento."
+  },
+  "856212382": {
+   "fragment_id": "856211850",
+   "type": 11,
+   "heading": "Artigo 20.º — Acondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acondicionamento\n\n1 - Nos edifícios destinados à armazenagem os produtos deverão conservar-se acondicionados nas respectivas embalagens e estas devidamente arrumadas sobre estrados, designadamente de madeira, com um mínimo de 5 cm de altura, de modo a constituir uma ou mais pilhas, afastadas umas das outras pelo menos 1 m, e das paredes e dos tectos pelo menos 60 cm, e de forma a assegurar um fácil acesso e uma boa ventilação, e a diminuir as possibilidades de decomposição simultânea dos produtos armazenados.\n\n2 - Poderá ser autorizada a redução das distâncias das pilhas às paredes até 5 cm, apenas nas zonas em que não haja necessidade de garantir o acesso aos produtos armazenados ou quando se trate de paiolins fixos.\n\n3 - Nos paióis a altura máxima é tal que a base da última camada não poderá ficar acima de 160 cm."
+  },
+  "856212383": {
+   "fragment_id": "856211851",
+   "type": 11,
+   "heading": "Artigo 21.º — Embalagem para transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Embalagem para transporte\n\nAs embalagens a utilizar no acondicionamento para transporte de produtos explosivos obedecem ao preceituado no Regulamento Nacional de Transporte de Matérias Perigosas por Estrada."
+  },
+  "856212384": {
+   "fragment_id": "856211852",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo e sinalização de acessos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo e sinalização de acessos\n\n1 - Os estabelecimentos de fabrico e armazenagem de produtos explosivos devem ter afixada à entrada um painel com uma inscrição proibindo a entrada de pessoas estranhas ao serviço.\n\n2 - Os estabelecimentos são protegidos por um sistema de vigilância permanente que assegure a detecção de intrusos e que promova, em caso de urgência, o aviso imediato das forças de segurança e dos bombeiros.\n\n3 - O sistema a que se refere o número anterior pode ser constituído por uma ou mais das opções seguintes:\n\na) Um serviço de vigilantes, dispondo de adequados meios de telecomunicações;\n\nb) Um sistema de videovigilância instalado nos termos da lei geral;\n\nc) Um sistema automático de detecção de incêndio e intrusão ligado a uma central pública de alarme.\n\n4 - Todos os edifícios de fabrico ou de armazenagem devem ter afixadas, no seu interior e próximo da entrada, em posição bem visível, instruções sobre as condições de laboração ou de funcionamento e sobre as normas de segurança a observar, bem como a indicação da natureza e da quantidade máxima dos produtos explosivos ou das matérias perigosas que neles podem existir e os perigos que oferecem.\n\n5 - Na parede frontal dos edifícios de fabrico e dos edifícios de armazenagem, bem como nas tampas ou nas portas dos paiolins, e em local bem visível, deve existir uma inscrição em letras bem legíveis, respeitante ao produto armazenado, sua natureza, quantidade máxima autorizada e correspondente divisão de risco."
+  },
+  "856212385": {
+   "fragment_id": "856211853",
+   "type": 1,
+   "heading": "Capítulo V — Segurança das construções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Segurança das construções"
+  },
+  "856212386": {
+   "fragment_id": "856211854",
+   "type": 11,
+   "heading": "Artigo 23.º — Traveses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Traveses\n\n1 - Os paióis de superficie e os edifícios das linhas de fabrico podem dispor de traveses (maciços, em geral de terra ou de areia), construídos de forma a assegurar uma adequada protecção à sua volta e uma adequada orientação da onda de choque, com o fim de reduzir os efeitos resultantes das explosões que neles possam ocorrer sobretudo quando se pretende limitar a área atingida pelas projecções.\n\n2 - Com a mesma finalidade podem também os paióis subterrâneos ter um través em frente da entrada do caminho ou da galeria de acesso, conforme indicado no anexo IV do presente Regulamento, do qual faz parte integrante.\n\n3 - O travesamento dos edifícios das linhas de fabrico é obrigatório salvo dispensa expressa da autoridade competente em função das circunstâncias particulares do estabelecimento, designadamente do disposto no número seguinte.\n\n4 - Quando existam obstáculos naturais capazes de desempenhar com eficácia a mesma função que os traveses pode substituir-se total ou parcialmente a necessidade da sua construção.\n\n5 - A geometria de um través deve ter em atenção o grau de risco e a quantidade do explosivo existente no interior dos edificios a proteger.\n\n6 - O través deve ter, ao nível da parte superior dos edifícios uma secção com a espessura adequada para conter ou reduzir significativamente as velocidades das projecções e induzir efeitos direccionais na onda de choque e chama desenvolvida, e o seu coroamento deve ter a espessura mínima de 1 m.\n\n7 - A altura do través deve ser tal que lhe permita interceptar qualquer linha que una os pontos mais elevados dos edifícios entre os quais se situa, e sempre mais alto que o edifício junto do qual é construído, conforme indicado no anexo V.\n\n8 - No caso de paióis em zona de armazenagem, a altura do través pode ser autorizada apenas até à altura das paredes exteriores do paiol.\n\n9 - A distância da base do través sobre o terreno até ao edifício deve ser a indispensável para permitir a passagem do equipamento necessário, no mínimo de 1 m.\n\n10 - Os traveses apresentam diversos tipos construtivos, os mais habituais estão ilustrados no anexo VI.\n\n11 - Os traveses são construídos de terra ou de areia de razoável coesão, não devendo usar-se solos argilosos ou do mesmo tipo, e livres de matéria combustível, entulho, detritos ou pedras.\n\n12 - Os traveses podem ser construídos em conjugação com estruturas de betão ou de outros materiais, mediante autorização tecnicamente fundamentada, da autoridade competente."
+  },
+  "856212387": {
+   "fragment_id": "856211855",
+   "type": 11,
+   "heading": "Artigo 24.º — Materiais de construção dos edifícios de fabrico e de armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Materiais de construção dos edifícios de fabrico e de armazenagem\n\n1 - Os edifícios destinados ao fabrico ou à armazenagem de produtos que apresentem risco de fogo ou de explosão deverão ser construídos com materiais de elevada resistência ao fogo.\n\n2 - O emprego de materiais metálicos na construção ou no revestimento das paredes, pavimentos, tectos e portas dos edifícios só será permitido quando tenham sido concebidos por forma a impedir a projecção dos fragmentos resultantes do seu estilhaçamento.\n\n3 - Os edifícios referidos no n.º 1 do presente artigo devem ser projectados de modo a apresentarem uma ou mais zonas de menor resistência, quer localizadas na parte superior, recorrendo a coberturas de material ligeiro, quer lateralmente, pela utilização de paredes fracas, com o fim de não favorecerem o desenvolvimento de pressões interiores muito elevadas e ao mesmo tempo orientando os efeitos de qualquer incêndio ou explosão que neles ocorra, segundo as direcções consideradas mais convenientes.\n\n4 - Os materiais de construção devem ser adequados a evitar os efeitos da humidade e as variações de temperatura.\n\n5 - Os materiais de construção usados nos revestimentos dos edifícios devem ser adequados a evitar os acidentes resultantes de impacto, fricção, faíscas provenientes de descargas electrostáticas.\n\n6 - O pavimento dos locais onde se manipulem matérias químicas sensíveis deve ser de material não absorvente, liso e macio de forma a permitir a sua fácil limpeza e reduzir os efeitos electrostáticos do impacto e fricção.\n\n7 - As paredes e os tectos dos edifícios referidos no n.º 1 do presente artigo devem ser construídos de modo a obterem-se superfícies lisas e não absorventes, de fácil limpeza, pintadas de cor clara, de modo a não permitir a acumulação de poeiras provenientes de substâncias perigosas ou de produtos explosivos.\n\n8 - As janelas dos edifícios referidos no n.º 1 do presente artigo devem estar equipadas com dispositivos que não permitam fecho rápido ou batimentos e não devem concentrar os raios solares.\n\n9 - As portas dos edifícios referidos no n.º 1 do presente artigo devem ter manípulos de abertura fácil e abrir para o exterior.\n\n10 - Os algerozes e as condutas de drenagem interiores e exteriores de um edifício devem ser construídas de modo a permitir fácil manutenção e limpeza ao longo de todo o seu comprimento."
+  },
+  "856212388": {
+   "fragment_id": "856211856",
+   "type": 11,
+   "heading": "Artigo 25.º — Materiais de construção dos paióis provisórios e paiolins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Materiais de construção dos paióis provisórios e paiolins\n\n1 - Os paióis provisórios podem ser construídos de materiais leves, mas de elevada resistência ao fogo, e podem ser constituídos por estruturas metálicas desde que, na sua implantação, sejam consideradas as protecções necessárias à contenção de eventuais projecções.\n\n2 - Os paiolins móveis, de modelo aprovado pela autoridade competente, deverão ser construídos de forma resistente, estanque, não geradora de cargas eléctricas, que não produza chispa por fricção e ofereça bom isolamento térmico.\n\n3 - Os paiolins fixos devem ser construídos em conformidade com o indicado no artigo anterior."
+  },
+  "856212389": {
+   "fragment_id": "856211857",
+   "type": 11,
+   "heading": "Artigo 26.º — Compartimentação em células",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Compartimentação em células\n\n1 - Para a instalação de edifícios contendo produtos explosivos capazes de originar risco de explosão em massa ou risco de fogo em massa, as distâncias inferiores às distâncias de segurança correspondentes às respectivas lotações, poderá recorrer-se à sua compartimentação em duas células bem isoladas entre si, com o fim de evitar que uma explosão que tenha lugar numa delas possa simultaneamente verificar-se na outra.\n\n2 - A divisão das células referidas no número anterior efectua-se por paredes fortes de betão armado com, pelo menos, 30 cm de espessura, sobressaindo 1 m em relação às paredes exteriores e aos telhados dos edifícios.\n\n3 - Pode também recorrer-se à compartimentação dos edifícios de modo a constituir mais de duas células, desde que as respectivas paredes fortes sejam construídas com espessuras de, pelo menos, 30 cm ou 60 cm, de forma a evitar a possível simultaneidade de explosões nas células contíguas a cada célula interior.\n\n4 - Em qualquer dos casos indicados nos números anteriores, as distâncias de segurança a considerar determinam-se apenas com base na lotação da célula que em cada edifício for a mais elevada.\n\n5 - As paredes fortes referidas no presente artigo devem ser armadas nas duas faces com varões de aço A400 de 12 mm, no mínimo, formando malha de 30 cm de lado, no máximo, quer no sentido horizontal, quer no sentido vertical, com um recobrimento de cerca de 5 cm e construídas com betão resistente, pelo menos da classe B30."
+  },
+  "856212390": {
+   "fragment_id": "856211858",
+   "type": 11,
+   "heading": "Artigo 27.º — Grupo de edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Grupo de edifícios\n\n1 - Nos casos de não se recorrer à compartimentação, mas sim a diferentes edifícios nas condições referidas no n.º 1 do artigo anterior, estes constituem um grupo que funcionará como um só edifício com lotação global igual à soma das lotações de cada um deles.\n\n2 - Quando se pretendam determinar as distâncias de segurança que se devem verificar entre um grupo de edifícios e quaisquer outros a ele não pertencentes, supor-se-á a sua lotação global como concentrada integralmente no edifício do grupo que se encontrar mais perto daqueles.\n\n3 - Em todos os casos, a distância de segurança a considerar entre dois edifícios vizinhos deverá ser determinada com base na lotação do edifício que der lugar a um valor mais elevado, devendo os dois edifícios ficar localizados de modo que a distância mais curta entre eles, medida a partir das suas paredes exteriores, seja igual ou maior do que a distância de segurança determinada."
+  },
+  "856212391": {
+   "fragment_id": "856211859",
+   "type": 1,
+   "heading": "Capítulo VI — Protecção electromagnética e combate a incêndios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Protecção electromagnética e combate a incêndios"
+  },
+  "856212392": {
+   "fragment_id": "856211860",
+   "type": 11,
+   "heading": "Artigo 28.º — Protecção electromagnética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Protecção electromagnética\n\n1 - Os edifícios contendo produtos explosivos devem estar convenientemente protegidos por pára-raios e ou outros meios de protecção electromagnética adequados.\n\n2 - É proibido o uso ou a presença de quaisquer emissores sem fios no interior dos edifícios que contenham substâncias sensíveis ou produtos explosivos."
+  },
+  "856212393": {
+   "fragment_id": "856211861",
+   "type": 11,
+   "heading": "Artigo 29.º — Distâncias de segurança a linhas aéreas e antenas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Distâncias de segurança a linhas aéreas e antenas\n\n1 - Entre os edifícios contendo produtos explosivos e antenas de emissores de ondas hertzianas (rádio, televisão, radar, etc.) ou linhas aéreas de distribuição de energia eléctrica de alta tensão, as distâncias não deverão ser inferiores aos valores indicados, respectivamente, nas tabelas VI e VII.\n\n2 - A distância de edifícios contendo produtos explosivos a linhas aéreas de distribuição de energia eléctrica de baixa tensão em condutores nus ou de isolamento simples sem bainha de protecção não pode ser inferior a 40 m.\n\n3 - No caso de linhas aéreas telegráficas ou telefónicas, aquela distância mínima poderá ser de 20 m.\n\n4 - Quando se pretenda instalar uma linha de tiro de disparo eléctrico, deverão ser respeitados os valores destas tabelas referidas no n.º 1."
+  },
+  "856212394": {
+   "fragment_id": "856211862",
+   "type": 11,
+   "heading": "Artigo 30.º — Instalações eléctricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instalações eléctricas\n\n1 - As instalações eléctricas que devam existir nos locais onde se fabriquem, manipulem ou armazenem produtos explosivos devem obedecer ao disposto no Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica.\n\n2 - Em todas as instalações eléctricas deve existir um sistema comum de ligação à terra por forma a estabelecer ligação equipotencial entre os elementos estruturais metálicos, tubagens ou outros elementos condutores e os sistemas de protecção electrostática.\n\n3 - A resistência da terra comum deve ser a de mais baixo valor requerida para os sistemas individuais envolvidos."
+  },
+  "856212395": {
+   "fragment_id": "856211863",
+   "type": 11,
+   "heading": "Artigo 31.º — Protecção contra a electricidade estática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Protecção contra a electricidade estática\n\nDeverão ser tomadas medidas de protecção contra os perigos da electricidade estática nos locais de manipulação de produtos sensíveis, para o que serão adoptadas soluções técnicas adequadas na construção e na selecção dos materiais dos edifícios e na implantação dos equipamentos, na selecção de calçado e vestuário do pessoal que os utiliza, bem como pela conservação de uma rigorosa limpeza no interior dos edifícios de modo a impedir que neles se acumulem poeiras."
+  },
+  "856212396": {
+   "fragment_id": "856211864",
+   "type": 11,
+   "heading": "Artigo 32.º — Requisitos de prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Requisitos de prevenção\n\n1 - No interior dos edifícios onde existam produtos explosivos ou substâncias inflamáveis e nas áreas de segurança assinaladas para este efeito é proibido:\n\na) Ser-se portador de telemóveis, fósforos, acendedores, ou outros objectos que produzam chama ou faísca;\n\nb) Depositar ou abandonar matérias que possam oferecer perigo de auto-inflamação;\n\nc) Permitir a acumulação de detritos ou de poeiras;\n\nd) Sujeitar qualquer produto explosivo à chama, ao choque, ou acção de qualquer agente iniciador, salvo em situações e em locais expressamente autorizados.\n\n2 - Nos locais referidos no número anterior deve ainda:\n\na) Isolar-se os compartimentos entre si por portas corta-fogo, dotadas de dispositivo de fecho automático;\n\nb) Colocar-se os resíduos retirados dos pavimentos separadamente em recipientes apropriados e destinados exclusivamente para este fim;\n\nc) Controlar-se as concentrações de poeiras, gases, ou vapores na atmosfera;\n\nd) Prever-se, em instalações de grande capacidade de produção, a instalação de detectores de poeiras, gases ou vapores, com sinais de alarme audíveis regulados para ser accionados sempre que sejam ultrapassados os limiares de segurança.\n\n3 - Nas instalações que apresentem riscos excepcionais de incêndio, deve prever-se que o terreno em volta dos edifícios de linhas de fabrico ou de zonas de armazenagem, bem como outros terrenos onde tenham lugar ensaios ou outras operações com explosivos, deverá conservar-se sempre limpo de matérias combustíveis e não conter plantas oleaginosas ou plantas secas, com o fim de evitar a propagação directa de incêndios de uns edifícios para os outros, e de impedir que explosões de produtos neles contidos possam ocorrer.\n\n4 - Idêntica precaução deverá ser tomada no caso de se tratar de edifícios de fabrico ou de armazenagem isolados, para que estes não possam ser atingidos por qualquer incêndio que lavre nas suas vizinhanças."
+  },
+  "856212397": {
+   "fragment_id": "856211865",
+   "type": 11,
+   "heading": "Artigo 33.º — Meios de combate a incêndios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Meios de combate a incêndios\n\n1 - Os estabelecimentos onde se fabricam, armazenam ou manuseiam produtos explosivos deverão dispor dos meios indispensáveis de combate a incêndios capazes de os extinguir logo no início ou de impedir a sua propagação.\n\n2 - Nos estabelecimentos referidos no número anterior devem estar afixados sinais e inscrições em locais apropriados que indiquem qual o grau de perigo dos produtos existentes e quais os meios de extinção que não podem ser utilizados.\n\n3 - Cada estabelecimento fabril de produtos explosivos, além dos meios referidos no número anterior, deverá ter pessoal do próprio estabelecimento, devidamente formado por entidade reconhecida. e com equipamento móvel adequado, pronto a constituir-se em equipa de intervenção, que actua de acordo com o plano de emergência interno.\n\n4 - Os estabelecimentos a que refere o presente artigo, quando dele disponham, devem ter o seu sistema de detecção automática de incêndios ligado à corporação de bombeiros e ao serviço de incêndios do próprio estabelecimento, caso exista."
+  },
+  "856212398": {
+   "fragment_id": "856211866",
+   "type": 11,
+   "heading": "Artigo 34.º — Parecer técnico do Serviço Nacional de Bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Parecer técnico do Serviço Nacional de Bombeiros\n\nOs estabelecimentos de fabrico ou de armazenagem de produtos explosivos devem, para efeitos dos artigos anteriores, solicitar o parecer técnico do Serviço Nacional de Bombeiros."
+  },
+  "856212399": {
+   "fragment_id": "856211867",
+   "type": 1,
+   "heading": "Capítulo VII — Segurança das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Segurança das operações"
+  },
+  "856212400": {
+   "fragment_id": "856211868",
+   "type": 11,
+   "heading": "Artigo 35.º — Protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Protecção individual\n\n1 - Em regra, o trabalhador nunca se deve encontrar sozinho no local de laboração.\n\n2 - Sem prejuízo do disposto no número anterior, a segurança individual do trabalhador isolado é controlada por um sistema de aviso.\n\n3 - Os trabalhadores usam vestuário e calçado apropriados, permanentemente limpos e livres de resíduos de substâncias sensíveis, não devendo usar:\n\na) Peças de fibras sintéticas;\n\nb) Viseiras ou armações de óculos feitas de matérias inflamáveis durante operações que revistam perigo de explosão ou incêndio;\n\nc) Objectos pessoais metálicos;\n\nd) Peças com algibeiras externas, bem como botões de metais ferrosos quando expostos a poeiras explosivas, inflamáveis ou tóxicas;\n\ne) Calçado que permita a acumulação de cargas electrostáticas ou ser produtor de faísca, não devendo ter partes metálicas a descoberto."
+  },
+  "856212401": {
+   "fragment_id": "856211869",
+   "type": 11,
+   "heading": "Artigo 36.º — Segurança das matérias primas e dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Segurança das matérias primas e dos produtos\n\n1 - As matérias primas a empregar no fabrico de produtos explosivos devem possuir as características e o grau de pureza convenientes de modo a evitar decomposições que as tornem de manuseamento ou de armazenagem perigosas.\n\n2 - A composição e as características dos produtos explosivos fabricados devem satisfazer as condições fixadas para o seu registo e admissão ao Catálogo Nacional de Produtos Explosivos."
+  },
+  "856212402": {
+   "fragment_id": "856211870",
+   "type": 11,
+   "heading": "Artigo 37.º — Processos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Processos de trabalho\n\nOs processos de trabalho a adoptar durante a execução das diferentes operações de fabrico devem ser cuidadosamente planificados, com o fim de evitar os riscos de qualquer inflamação ou explosão, quer das matérias-primas quer dos produtos fabricados."
+  },
+  "856212403": {
+   "fragment_id": "856211871",
+   "type": 11,
+   "heading": "Artigo 38.º — Eliminação de produtos explosivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Eliminação de produtos explosivos\n\n1 - Os produtos explosivos e as matérias primas que se encontrem deteriorados, não oferecendo garantia de estabilidade ou não se apresentando em boas condições de conservação, e que tenham ficado incapazes para utilização ou para ser economicamente recuperados, são prontamente eliminados, sob a orientação do responsável técnico do estabelecimento ou do responsável técnico pela utilização de explosivos em trabalhos de engenharia ou de exploração de minas ou pedreiras, conforme o local onde a eliminação se efectuar.\n\n2 - Os resíduos diários resultantes do fabrico ou do emprego, deverão ser eliminados nas mesmas condições dos números anteriores, segundo o previsto no plano elaborado para o efeito."
+  },
+  "856212404": {
+   "fragment_id": "856211872",
+   "type": 11,
+   "heading": "Artigo 39.º — Campos de ensaios e de eliminação de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Campos de ensaios e de eliminação de resíduos\n\n1 - Os terrenos a utilizar em ensaios ou na eliminação por combustão ou detonação de produtos explosivos, designados respectivamente campo de ensaios ou campo de eliminação de resíduos, devem estar livres de fendas ou pedras, a sua área deve ser suficiente e a localização escolhida de modo que não possa resultar qualquer dano para além da distância de segurança correspondente a edifícios habitados, qualquer que seja a natureza ou a função dos locais ou das construções a proteger na sua vizinhança.\n\n2 - No campo de eliminação de resíduos, os produtos explosivos são eliminados por combustão, por detonação, ou por via química, utilizando-se pequenas fracções em cada operação, nos termos autorizados pela entidade competente para o licenciamento.\n\n3 - As entidades que procedam à eliminação de produtos explosivos devem comunicar previamente à PSP a intenção de procederem à operação, oferecendo o plano de eliminação."
+  },
+  "856212405": {
+   "fragment_id": "856211873",
+   "type": 11,
+   "heading": "Artigo 40.º — Captação de poeiras, gases e vapores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Captação de poeiras, gases e vapores\n\n1 - Os locais onde se produzam poeiras, gases e vapores susceptíveis de darem lugar a explosões ou intoxicações devem dispor de adequados dispositivos de captação, tão próxima quanto possível dos pontos de formação, possuir um sistema de retenção de poeiras, e ter as partes metálicas ligadas à terra.\n\n2 - Nos locais referidos no número anterior, devem existir eficientes sistemas de exaustão.\n\n3 - As condutas do sistema de exaustão devem ser independentes, estar protegidas contra avarias provocadas por contactos acidentais, ser feitas de materiais incombustíveis, possuir uma resistência e uma espessura suficientes para corresponder às condições de exploração e às exigências de instalação.\n\n4 - Só devem ser lançados numa mesma rede de condutas de aspiração produtos que satisfaçam a tabela de compatibilidades."
+  },
+  "856212406": {
+   "fragment_id": "856211874",
+   "type": 1,
+   "heading": "Capítulo VIII — Máquinas e ferramentas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Máquinas e ferramentas"
+  },
+  "856212407": {
+   "fragment_id": "856212475",
+   "type": 11,
+   "heading": "Artigo 41.º — Máquinas e ferramentas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Máquinas e ferramentas\n\nAs máquinas e equipamentos utilizados na indústria de explosivos devem satisfazer os requisitos essenciais de qualidade de forma que possam transmitir aos utilizadores um elevado nível de segurança e respeitar as normas técnicas em vigor."
+  },
+  "856212408": {
+   "fragment_id": "856212476",
+   "type": 11,
+   "heading": "Artigo 42.º — Transportes internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Transportes internos\n\nTodos os transportes dentro de estabelecimentos fabris ou de armazenagem devem ser realizados com meios adequados, tendo em conta a sensibilidade da substância transportada, de modo a evitar choques, fricções, chispas ou electricidade estática."
+  },
+  "856212409": {
+   "fragment_id": "856212477",
+   "type": 1,
+   "heading": "Capítulo IX — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Regime sancionatório"
+  },
+  "856212410": {
+   "fragment_id": "856212478",
+   "type": 11,
+   "heading": "Artigo 43.º — Contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Contra-ordenação\n\nSem prejuízo da responsabilidade criminal que dê lugar, constitui contra-ordenação, a infracção culposa às regras de segurança previstas no presente diploma e demais instruções técnicas complementares aplicáveis, nos termos do Regime Geral do Ilícito de Mera Ordenação Social, e dos artigos seguintes."
+  },
+  "856212411": {
+   "fragment_id": "856212479",
+   "type": 11,
+   "heading": "Artigo 44.º — Tentativa e negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Tentativa e negligência\n\n1 - A tentativa e a negligência são sempre puníveis.\n\n2 - Em caso de negligência o limite máximo das coimas previstas no artigo seguinte é reduzido a metade."
+  },
+  "856212412": {
+   "fragment_id": "856212480",
+   "type": 11,
+   "heading": "Artigo 45.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Coimas\n\n1 - A infracção ao disposto no artigo 2.º é punida com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular e de (euro) 500 a (euro) 10000 no caso de pessoa colectiva.\n\n2 - A infracção ao disposto nos n.os 4 a 6 e 8 do artigo 12.º é punida com coima de (euro) 300 a (euro) 3000, tratando-se de pessoa singular, e de (euro) 1500 a (euro) 30000, no caso de pessoa colectiva.\n\n3 - A infracção ao disposto nos n.os 9 e 10 do artigo 12.º e nos n.os 1 a 3 do artigo 22.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular e de (euro) 1000 a (euro) 20000 no caso de pessoa colectiva.\n\n4 - A inobservância das distâncias de segurança aplicáveis nos termos dos artigos 13.º a 15.º e 29.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular e de (euro) 1000 a (euro) 20000 no caso de pessoa colectiva.\n\n5 - A inobservância das lotações máximas fixadas para cada edifício, compartimento ou célula, bem como das referidas nos artigos 16.º e 17.º, é punida:\n\na) Com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular e de (euro) 500 a (euro) 10000 no caso de pessoa colectiva, se a lotação for excedida em 10% ou menos do valor permitido;\n\nb) Com coima de (euro) 250 a (euro) 2500, tratando-se de pessoa singular e de (euro) 1000 a (euro) 25000 no caso de pessoa colectiva, se a lotação for excedida em mais de 10% e até 20% do valor permitido;\n\nc) Com coima de (euro) 500 a (euro) 3700, tratando-se de pessoa singular e de (euro) 2000 a (euro) 40000 no caso de pessoa colectiva, se a lotação for excedida em 20% ou mais do valor permitido.\n\n6 - A infracção ao disposto no artigo 18.º é punida:\n\na) Com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular, e de (euro) 1000 a (euro) 20000 tratando-se de pessoa colectiva, no caso do n.º 1;\n\nb) Com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular, e de (euro) 500 a (euro) 10000, tratando-se de pessoa colectiva, no caso do n.º 2;\n\nc) Com coima de (euro) 300 a (euro) 3000, tratando-se de pessoa singular, e de (euro) 1500 a (euro) 30000, tratando-se de pessoa colectiva, no caso do n.º 3.\n\n7 - A infracção ao disposto no artigo 19.º é punida:\n\na) Com coima de (euro) 300 a (euro) 3000, tratando-se de pessoa singular, e de (euro) 1500 a (euro) 30000, tratando-se de pessoa colectiva, no caso de infracção ao previsto nos n.os 1, 2 e 7;\n\nb) Com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular, e de (euro) 1000 a (euro) 20000, tratando-se de pessoa colectiva, no caso de infracção ao previsto nos n.os 3 e 6.\n\n8 - A infracção ao disposto nos n.os 1 e 3 do artigo 20.º e nos n.os 4 e 5 do artigo 22.º é punida com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular, e de (euro) 500 a (euro) 10000, no caso de pessoa colectiva.\n\n9 - A infracção ao disposto nos n.os 1 e 2 do artigo 22.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular, e de (euro) 1000 a (euro) 20000, no caso de pessoa colectiva.\n\n10 - A infracção ao disposto nos n.os 5 a 10 do artigo 24.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular, e de (euro) 1000 a (euro) 20000, no caso de pessoa colectiva.\n\n11 - Se os efeitos adversos que as normas referidas no número anterior se produzirem por deficiente manutenção, higiene ou limpeza, a infracção é punida com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular, e de (euro) 500 a (euro) 10000, no caso de pessoa colectiva.\n\n12 - A infracção ao disposto no artigo 28.º é punida:\n\na) Com coima de (euro) 300 a (euro) 3000 tratando-se de pessoa singular, e de (euro) 1500 a (euro) 30000, tratando-se de pessoa colectiva, no caso de infracção ao previsto no n.º 1;\n\nb) Com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular, e de (euro) 1000 a (euro) 20000, tratando-se de pessoa colectiva, no caso de infracção ao previsto no n.º 2.\n\n13 - A infracção ao disposto no n.º 1 do artigo 30.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular, e de (euro) 1000 a (euro) 20000, no caso de pessoa colectiva, sem prejuízo do regime sancionatório aplicável por infracção ao Regulamento de Segurança de Instalações de Energia Eléctrica, se a inobservância desse Regulamento for susceptível de provocar faísca ou indução que aumentem o risco de acidente no estabelecimento.\n\n14 - A infracção ao disposto nos n.os 2 e 3 do artigo 30.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular, e de (euro) 1000 a (euro) 20000, no caso de pessoa colectiva.\n\n15 - A infracção ao disposto no artigo 31.º é punida com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular e de (euro) 500 a (euro) 10000, no caso de pessoa colectiva, se coima mais elevada não for aplicável.\n\n16 - A infracção ao disposto no artigo 32.º é punida:\n\na) Com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular, e de (euro) 500 a (euro) 10000, tratando-se de pessoa colectiva;\n\nb) A coima é, porém, de (euro) 300 a (euro) 3000, tratando-se de pessoa singular, e de (euro) 1500 a (euro) 30000, tratando-se de pessoa colectiva, no caso de infracção ao previsto nas alíneas a), b) e d) do n.º 1 e na alínea b) do n.º 2.\n\n17 - A infracção ao disposto nos artigos 33.º a 35.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular e de (euro) 1000 a (euro) 20000, no caso de pessoa colectiva, se coima mais elevada não for aplicável.\n\n18 - A infracção ao disposto nos artigos 36.º e 37.º é punida com coima de (euro) 100 a (euro) 1000, tratando-se de pessoa singular e de (euro) 500 a (euro) 10000, no caso de pessoa colectiva, se coima mais elevada não for aplicável.\n\n19 - A infracção ao disposto nos artigos 38.º e 39.º é punida com coima de (euro) 300 a (euro) 3000, tratando-se de pessoa singular e de (euro) 1500 a (euro) 30000, no caso de pessoa colectiva.\n\n20 - A infracção ao disposto nos artigos 40.º a 42.º é punida com coima de (euro) 200 a (euro) 2000, tratando-se de pessoa singular e de (euro) 1000 a (euro) 20000, no caso de pessoa colectiva, se coima mais elevada não for aplicável.\n\n21 - As infracções ao presente Regulamento ou às instruções técnicas legalmente emanadas da Comissão de Explosivos, não previstas nos números anteriores, são punidas com coima de (euro) 100 a (euro) 3700, tratando-se de pessoa singular e de (euro) 1000 a (euro) 40000 no caso de pessoa colectiva, quando da conduta resulte perigo para os trabalhadores ou para a comunidade ou comprometimento grave da segurança."
+  },
+  "856212413": {
+   "fragment_id": "856212481",
+   "type": 11,
+   "heading": "Artigo 46.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Sanções acessórias\n\nÀs infracções previstas no artigo anterior podem ser aplicadas, concomitantemente com coima, uma ou mais das seguintes sanções acessórias:\n\na) Perda dos objectos pertencentes ao agente que tenham servido ou estivessem destinados a servir para a prática da contra-ordenação, bem como do produto desta resultante;\n\nb) Interdição do exercício da função de responsável técnico até dois anos;\n\nc) Privação do direito de participar em concursos públicos que tenham por objecto o fornecimento de bens e serviços ou a atribuição de licenças ou alvarás;\n\nd) Encerramento total ou parcial do estabelecimento até à verificação de que a situação que motivou a aplicação da coima e da sanção acessória se encontra corrigida;\n\ne) Suspensão de autorizações, de licenças ou do alvará até dois anos."
+  },
+  "856212414": {
+   "fragment_id": "856212482",
+   "type": 11,
+   "heading": "Artigo 47.º — Perda de objectos perigosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Perda de objectos perigosos\n\nIndependentemente de procedimento por contra-ordenação ou de aplicação de coima, podem ser declarados perdidos os objectos do agente ou de terceiro que tenham servido ou estivessem destinados a servir para a prática da contra-ordenação ou que por esta tenham sido produzidos, quando tais objectos representem, pela sua natureza ou pelas circunstâncias do caso, grave risco para a comunidade ou exista sério risco da sua utilização para a prática de actividade delituosa."
+  },
+  "856212415": {
+   "fragment_id": "856212483",
+   "type": 11,
+   "heading": "Artigo 48.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Competência\n\nSem prejuízo da competência de outras entidades para o levantamento de auto de notícia, compete à Polícia de Segurança Pública a fiscalização, instrução e aplicação das coimas e sanções acessórias, com recurso para o Ministro da Administração Interna."
+  },
+  "856212416": {
+   "fragment_id": "856212484",
+   "type": 11,
+   "heading": "Artigo 49.º — Pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Pareceres\n\n1 - O Ministro da Administração Interna e o Director Nacional da PSP pode solicitar à Comissão de Explosivos parecer técnico sobre os pressupostos de aplicação de uma coima ou de sanção acessória.\n\n2 - O parecer da Comissão de Explosivos é, no entanto, obrigatório quando a aplicação da coima ou de sanção acessória pressupõe um juízo de carácter técnico quanto à perigosidade ou o comprometimento das condições de segurança, resultantes da conduta."
+  },
+  "856212417": {
+   "fragment_id": "856212485",
+   "type": 11,
+   "heading": "Artigo 50.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Produto das coimas\n\nO produto das coimas reverte:\n\na) 10% para a entidade que elaborou o auto de notícia;\n\nb) 30% para a entidade que aplicou a coima;\n\nc) 60% para o Estado."
+  },
+  "856212418": {
+   "fragment_id": "856212486",
+   "type": 14,
+   "heading": "Anexo I — Substâncias perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Substâncias perigosas\n\n(a que se refere o artigo 4.º)\n\nSubstâncias perigosas pertencentes à classe 3:\n\nNitrometano;\n\nNitroetano;\n\nNitrocelulose em solução, inflamável.\n\nSubstâncias perigosas pertencentes à classe 4.1:\n\nNitrocelulose;\n\nEnxofre;\n\nFósforo vermelho, alumínio em pó revestido;\n\nTitânio, zircónio, magnésio, nitronaftaleno.\n\nSubstâncias perigosas pertencentes à classe 4.2:\n\nCarvão;\n\nFósforo branco ou amarelo.\n\nSubstâncias perigosas pertencentes à classe 4.3:\n\nMetais alcalinos, alcalino-terrosos, alumínio em pó sem ser revestido, magnésio em pó, zinco em pó.\n\nSubstâncias perigosas pertencentes à classe 5.1:\n\nCloratos de metais alcalinos, perclorato de amónio;\n\nOutros percloratos, cloritos, soluções de nitrato, nitratos de metais alcalinos ou alcalino-terrosos, adubos de nitrato;\n\nNitritos;\n\nTetranitrometano, peróxidos de metais alcalinos ou alcalino-terrosos, permanganatos.\n\nSubstâncias perigosas pertencentes à classe 5.2:\n\nToda a família de peróxidos e hidroperóxidos, perácidos e peresteres.\n\nSubstâncias perigosas pertencentes à classe 6.1:\n\nDinitrobenzeno, dinitrotolueno, nitrotolueno, nitrobenzeno."
+  },
+  "856212419": {
+   "fragment_id": "856212487",
+   "type": 14,
+   "heading": "Anexo II — Compatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Compatibilidades\n\n(a que se referem os artigos 5.º e 19.º)\n\nOs produtos explosivos não devem ser armazenados em comum, excepto os autorizados pela seguinte tabela de compatibilidades:\n\n(ver tabela no documento original)"
+  },
+  "856212420": {
+   "fragment_id": "856212488",
+   "type": 14,
+   "heading": "Anexo III — Actividades industriais consideradas no artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Actividades industriais consideradas no artigo 6.º\n\nOs estabelecimentos fabris de produtos explosivos exercem uma ou mais das seguintes actividades industriais:\n\na) Produção de matérias explosivas;\n\nb) Produção de dispositivos de iniciação e carregamento;\n\nc) Produção e ou montagem de objectos explosivos;\n\nd) Produção de pólvoras negras (físicas);\n\ne) Produção de pólvoras sem fumo (químicas);\n\nf) Produção de rastilho e cordão detonante;\n\ng) Produção de propulsores;\n\nh) Carregamento de motores foguetes;\n\ni) Produção de composições pirotécnicas (matérias pirotécnicas);\n\nj) Produção de artifícios pirotécnicos (objectos pirotécnicos);\n\nl) Produção de cartuchos de caça;\n\nm) Carregamento de cartuchos de caça;\n\nn) Produção de munições de defesa, recreio ou desporto;\n\no) Carregamento de munições de defesa, recreio ou desporto;\n\np) Produção de outras matérias ou objectos enquadráveis nas alíneas a) a c) do n.º 2 do artigo 4.º."
+  },
+  "856212421": {
+   "fragment_id": "856212489",
+   "type": 14,
+   "heading": "Anexo IV — Través frontal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Través frontal\n\n(a que se refere o n.º 2 do artigo 23.º)\n\n(ver plantas no documento original)"
+  },
+  "856212422": {
+   "fragment_id": "856212490",
+   "type": 14,
+   "heading": "Anexo V — Altura do través",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Altura do través\n\n(a que se refere o n.º 7 do artigo 23.º)\n\n(ver planta no documento original)"
+  },
+  "856212423": {
+   "fragment_id": "856212491",
+   "type": 14,
+   "heading": "Anexo VI — Modelos de traveses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Modelos de traveses\n\n(a que se refere o n.º 9 do artigo 23.º)\n\n(ver modelos no documento original)"
+  },
+  "856212424": {
+   "fragment_id": "856212492",
+   "type": 14,
+   "heading": "Anexo VII — Tabelas a que se referem os artigos 13.º e 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Tabelas a que se referem os artigos 13.º e 14.º\n\nTABELA I\n\nDistâncias de segurança entre edifícios de armazenagem localizados à superfície (valores de D)\n\n(ver tabela no documento original)\n\nTABELA II\n\nDistâncias de segurança entre edifícios de linhas de fabrico localizados à superfície (valores de D)\n\n(ver tabela no documento original)\n\nTABELA III\n\nDistâncias de segurança entre edifícios de zonas de paióis e edifícios de linhas de fabrico localizados à superfície (valore de D)\n\nTABELA IV\n\nDistâncias de segurança de edifícios de armazenagem ou de linhas de fabrico a vias de comunicação e a edifícios habitados localizados à superfície (valores de D)\n\n(ver tabela no documento original)\n\nTABELA V\n\nDistâncias de segurança de paióis subterrâneos a edifícios habitados\n\nPara produtos das divisões de risco 1.1, 1.2, 1.3 e 1.5\n\n(ver tabela no documento original)\n\nTABELA VI\n\nDistâncias de segurança de emissores de ondas hertzianas a edifícios contendo produtos que apresentam risco de fogo ou de explosão ou a linhas de tipo de disparo eléctrico.\n\n(ver tabela no documento original)\n\nTABELA VII\n\nDistâncias de segurança de linhas de alta tensão a edifícios contendo produtos que apresentam risco de fogo ou de explosão ou a linhas de tiro de disparo eléctrico.\n\n(ver tabela no documento original)"
+  },
+  "856212443": {
+   "fragment_id": "856211820",
+   "type": 11,
+   "heading": "Artigo 2.º — Responsável técnico",
+   "in_force_from": "2005-05-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+   ],
+   "markdown": "###### Artigo 2.º — Responsável técnico\n\nO responsável técnico a que se refere o Regulamento anexo ao presente diploma é um técnico credenciado por parecer da Comissão de Explosivos, homologado pelo director nacional da Polícia de Segurança Pública, após frequência com aproveitamento de curso de formação específica reconhecido pela Comissão de Explosivos, ao qual se podem habilitar diplomados com licenciatura adequada, bem como profissionais com o mínimo de 5 anos de experiência em funções técnicas no sector, nos termos de portaria dos Ministros da Administração Interna, da Economia e do Trabalho e Solidariedade.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+  },
+  "856212444": {
+   "fragment_id": "856211821",
+   "type": 11,
+   "heading": "Artigo 3.º — Caducidade dos alvarás e licenças",
+   "in_force_from": "2005-05-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+   ],
+   "markdown": "###### Artigo 3.º — Caducidade dos alvarás e licenças\n\n1 - Os alvarás e as licenças de fabrico ou de armazenagem de produtos explosivos em vigor caducam no prazo de um ano a contar da data de publicação do presente diploma, salvo se renovados.\n\n2 - A renovação, a requerer pelo interessado, será deferida após verificação de que o requerente cumpre todos os requisitos legais para a actividade, exigíveis à data da renovação.\n\n3 - A caducidade prevista no n.º 1 pode não operar se e enquanto os requisitos a que se refere o número anterior não se mostrem cumpridos por causa não imputável ao requerente, este demonstre ter usado e continuar a usar de toda a diligência com vista a rápida correcção da situação e a continuação da laboração não ponha significativamente em causa a segurança das pessoas e dos bens.\n\n4 - O não cumprimento do disposto no n.º 7 do artigo 12.º do Regulamento quanto aos terrenos incluídos na zona de segurança de um estabelecimento, tal como fixada à data de publicação do presente diploma, pode, mediante parecer da Comissão de Explosivos, não obstar à renovação a que se refere o n.º 2, ficando, no entanto, a manutenção da licença condicionada à estrita observância do regime da zona de segurança naqueles terrenos.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 139/2003 - Diário da República n.º 150/2003, Série I-A de 2003-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2003-667123) prorroga, pelo período de dois anos, o prazo fixado no presente artigo.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+  },
+  "855591757": {
+   "fragment_id": "856211825",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 2 de Maio de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Maio de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nREGULAMENTO DE SEGURANÇA DOS ESTABELECIMENTOS DE FABRICO E DE ARMAZENAGEM DE PRODUTOS EXPLOSIVOS"
+  },
+  "856212445": {
+   "fragment_id": "856211830",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsável técnico",
+   "in_force_from": "2005-05-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+   ],
+   "markdown": "###### Artigo 3.º — Responsável técnico\n\n1 - (Revogado.)\n\n2 - O responsável técnico é pessoal e solidariamente responsável pelo cumprimento do presente Regulamento e demais normas regulamentares e instruções técnicas de segurança em vigor.\n\n3 - O responsável técnico pode ter a seu cargo, em acumulação no âmbito do mesmo estabelecimento, o desempenho de funções da mesma natureza exigidas por regulamentação específica de actividades complementares.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+  },
+  "856212446": {
+   "fragment_id": "856211842",
+   "type": 11,
+   "heading": "Artigo 12.º — Zona de segurança",
+   "in_force_from": "2005-05-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+   ],
+   "markdown": "###### Artigo 12.º — Zona de segurança\n\n1 - A zona de segurança de um estabelecimento fabril ou de armazenagem é a área de terreno exterior aos edifícios que o constituem, delimitada por uma linha que dista de cada edifício pelo valor das respectivas distâncias de segurança para edifícios habitados, determinada nos termos do disposto nos artigos seguintes.\n\n2 - (Revogado.)\n\n3 - O disposto no número anterior pode não ser exigível quando, por parecer da Comissão de Explosivos, se entenda que a morfologia do terreno ou o baixo risco em concreto, designadamente a ausência de risco de projecções, permite garantir condições aceitáveis de segurança a quem se situe fora da zona de segurança definida nos termos do n.º 1.\n\n4 - Na zona de segurança não podem existir ou construir-se quaisquer edificações, vias de comunicação ou instalações de transporte de energia ou comunicações, além das indispensáveis ao serviço do estabelecimento.\n\n5 - Em casos justificados pode ser autorizada a existência de instalações de transporte de energia ou de comunicações dentro da zona de segurança, desde que, em todas as circunstâncias, sejam observadas as distâncias de segurança previstas para tais instalações.\n\n6 - No interior da zona de segurança não é permitido acampar, estacionar, caçar, fumar ou foguear, bem como testar produtos explosivos ou outras substâncias perigosas, com excepção de testes efectuados no campo de ensaios do estabelecimento, devidamente licenciado para o efeito.\n\n7 - O titular do estabelecimento deve ser detentor de título real ou contratual bastante para o exercício dos direitos sobre o terreno da zona de segurança, que lhe permitam garantir o regime previsto nos números anteriores.\n\n8 - O estabelecimento deve ser vedado e possuir vigilância permanente, por forma a impedir a intrusão de pessoas estranhas num perímetro não inferior ao determinado pelas distâncias de segurança entre edifícios de fabrico - tabela II -, contados dos pontos mais exteriores dos edifícios que contenham ou possam conter produtos explosivos.\n\n9 - Ao longo do perímetro vedado devem existir painéis bem visíveis ostentando a inscrição «PERIGO DE EXPLOSÃO» e junto das entradas e saídas a inscrição «PROIBIDA A ENTRADA A PESSOAS ESTRANHAS AO ESTABELECIMENTO», ambas seguidas da referência expressa ao presente Regulamento.\n\n10 - O perímetro da zona de segurança deve dispor de vigilância e estar devidamente assinalado por painéis com a indicação de «ZONA DE SEGURANÇA DE ESTABELECIMENTO DE FABRICO/ARMAZENAGEM DE PRODUTOS EXPLOSIVOS».\n\n11 - Ao paiol provisório fixo instalado fora de um estabelecimento, não é aplicável o disposto no n.º 7.\n\n12 - Ao paiolim fixo instalado fora de um estabelecimento aplica-se o disposto no presente artigo, com excepção dos n.os 7 e 8 quanto à obrigatoriedade de possuir vigilância permanente.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 87/2005 - Diário da República n.º 99/2005, Série I-A de 2005-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), em vigor a partir de 2005-05-24, produz efeitos a partir de 2005-05-17"
+  }
+ }
+}

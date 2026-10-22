@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553925:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-138516453",
+ "dre_path": "/dr/detalhe/decreto-lei/73-2012-553925",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "138516486",
+    "138516487",
+    "138516488",
+    "138516489",
+    "138516490",
+    "138516491",
+    "138516492",
+    "138516493",
+    "138516494",
+    "138516495"
+   ]
+  },
+  {
+   "date": "2020-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138461839:por",
+     "title": "Decreto-Lei n.º 43/2020",
+     "published": "2020-07-21",
+     "dre_path": "/dr/detalhe/decreto-lei/43-2020-138461839"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "138516486",
+    "138516487",
+    "138516488",
+    "138516489",
+    "138516497",
+    "138516498",
+    "138516499",
+    "138516500",
+    "138516501",
+    "138516495",
+    "138516496"
+   ]
+  }
+ ],
+ "fragments": {
+  "138516486": {
+   "fragment_id": "138516454",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 73/2012\n\nde 26 de março\n\nNa prossecução do processo de modernização e de otimização do funcionamento da Administração Pública e, consequentemente, da melhoria da qualidade dos serviços públicos, o Decreto-Lei n.º 126-B/2011, de 29 de dezembro, veio proceder, no que concerne aos serviços centrais de natureza operacional do Ministério da Administração Interna, ao reforço das atribuições da Autoridade Nacional de Proteção Civil em matéria de política de proteção civil, em especial pela absorção das atribuições anteriormente cometidas ao Conselho Nacional de Planeamento Civil de Emergência em matéria de planeamento e coordenação das necessidades nacionais na área do planeamento civil de emergência. Deste modo, projetou-se no presente diploma a integração daquela nova área de atuação, determinada também pelo Decreto-Lei n.º 126-A/2011, de 29 de dezembro.\n\nA presente alteração da orgânica da Autoridade Nacional de Proteção Civil, circunscrita àquele desiderato, não poderia deixar também de proceder à definição das normas de funcionamento das entidades que sucedem nas atribuições e competências das comissões de planeamento de emergência, na parte relativa ao planeamento civil de emergência.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "138516487": {
+   "fragment_id": "138516455",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma altera o Decreto-Lei n.º 75/2007, de 29 de março, que aprova a Orgânica da Autoridade Nacional de Proteção Civil (ANPC), fixando as suas atribuições em matéria de planeamento civil de emergência."
+  },
+  "138516488": {
+   "fragment_id": "138516456",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 75/2007, de 29 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 75/2007, de 29 de março\n\nOs artigos 2.º, 5.º, 10.º, 14.º e 26.º do Decreto-Lei n.º 75/2007, de 29 de março, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\nMissão e atribuições\n\n1 - A ANPC tem por missão planear, coordenar e executar a política de proteção civil, designadamente na prevenção e reação a acidentes graves e catástrofes, de proteção e socorro de populações e de superintendência da atividade dos bombeiros, bem como assegurar o planeamento e coordenação das necessidades nacionais na área do planeamento civil de emergência com vista a fazer face a situações de crise ou de guerra.\n\n2 - A ANPC prossegue as seguintes atribuições no âmbito da previsão e gestão de risco e planeamento civil de emergência:\n\na) Assegurar a atividade de planeamento civil de emergência para fazer face, em particular, a situações de acidente grave, catástrofe, crise ou guerra;\n\nb) Contribuir para a definição da política nacional de planeamento civil de emergência, designadamente através da elaboração de diretrizes gerais, promoção da elaboração de estudos e planos de emergência, e prestação de apoio técnico e emissão de parecer sobre a sua elaboração por entidades setoriais;\n\nc) Promover o levantamento, previsão, análise e avaliação dos riscos coletivos de origem natural ou tecnológica e o estudo, normalização e aplicação de técnicas adequadas de prevenção e socorro;\n\nd) Organizar um sistema nacional de alerta e aviso;\n\ne) Proceder à regulamentação, licenciamento e fiscalização no âmbito da segurança contra incêndios;\n\nf) Assegurar a articulação dos serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência, a fim de que, em situação de acidente grave, catástrofe, crise ou guerra, se garanta a continuidade da ação governativa, a proteção das populações e a salvaguarda do património nacional.\n\n3 - A ANPC prossegue as seguintes atribuições no âmbito da atividade de proteção e socorro:\n\na) Garantir a continuidade orgânica e territorial do sistema de comando de operações de socorro;\n\nb) Acompanhar todas as operações de proteção e socorro, nos âmbitos local e regional autónomo, prevendo a necessidade de intervenção de meios complementares;\n\nc) Planear e garantir a utilização, nos termos da lei, dos meios públicos e privados disponíveis para fazer face a situações de acidente grave e catástrofe;\n\nd) Assegurar a coordenação horizontal de todos os agentes de proteção civil e as demais estruturas e serviços públicos com intervenção ou responsabilidades de proteção e socorro.\n\n4 - A ANPC prossegue as seguintes atribuições no âmbito das atividades dos bombeiros:\n\na) Orientar, coordenar e fiscalizar a atividade dos corpos de bombeiros;\n\nb) Promover e incentivar a participação das populações no voluntariado e todas as formas de auxílio na missão das associações humanitárias de bombeiros e dos corpos de bombeiros;\n\nc) Assegurar a realização de formação dos bombeiros portugueses e promover o aperfeiçoamento operacional do pessoal dos corpos de bombeiros;\n\nd) Assegurar a prevenção sanitária, a higiene e a segurança do pessoal dos corpos de bombeiros bem como a investigação de acidentes em ações de socorro.\n\nArtigo 5.º\n\nDever de cooperação\n\n1 - ...\n\n2 - ...\n\na) Os trabalhadores em funções públicas e das pessoas coletivas de direito público, bem como os membros dos órgãos de gestão das empresas públicas;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) Os organismos responsáveis pelas florestas, conservação da natureza, indústria e energia, transportes, comunicações, recursos hídricos, meteorologia, geofísica, agricultura, mar, alimentação, ambiente e ciberespaço;\n\nk) [Anterior alínea l).]\n\n3 - ...\n\n4 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - ...\n\na) Promover e coordenar as atividades em matéria de planeamento civil de emergência, quer a nível nacional, quer a nível da Organização do Tratado Atlântico Norte (OTAN), em estreita ligação com os serviços públicos competentes em cada setor;\n\nb) [Anterior alínea a).]\n\nc) Aconselhar o Governo em matéria de proteção civil e planeamento civil de emergência;\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\n2 - Em caso de incumprimento das determinações da ANPC ou de infração das normas e requisitos técnicos aplicáveis às atividades sujeitas a licenciamento, autorização, certificação ou fiscalização da ANPC, pode o presidente da ANPC:\n\na) Suspender ou cancelar as licenças, autorizações e certificações concedidas, nos termos estabelecidos na respetiva regulamentação;\n\nb) Ordenar a cessação de atividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infração;\n\nc) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de atos de gestão pública;\n\nd) Aplicar as demais sanções previstas na lei.\n\n3 - Sem prejuízo do disposto no Estatuto do Pessoal Dirigente, a designação do presidente é precedida de audição da Comissão Nacional de Proteção Civil.\n\n4 - (Anterior n.º 3.)\n\n5 - O presidente é substituído, nas suas faltas e impedimentos, pelo diretor nacional que indique para o efeito.\n\nArtigo 14.º\n\n[...]\n\n1 - A direção nacional de planeamento de emergência é o serviço da ANPC ao qual compete:\n\na) Contribuir para a definição da política nacional de planeamento civil de emergência e assegurar as atividades de planeamento civil de emergência;\n\nb) Promover a previsão e assegurar a monitorização e a avaliação dos riscos coletivos;\n\nc) Avaliar as vulnerabilidades perante situações de risco;\n\nd) Desenvolver e manter o sistema nacional de alerta e aviso;\n\ne) Assegurar o desenvolvimento e coordenação do planeamento civil de emergência;\n\nf) Elaborar as orientações técnicas adequadas de prevenção e socorro;\n\ng) Regular, licenciar e fiscalizar no âmbito da segurança contra incêndios.\n\n2 - Em matéria de planeamento civil de emergência, compete em especial à direção nacional de planeamento de emergência:\n\na) Elaborar diretrizes gerais para o planeamento civil de emergência com vista à satisfação das necessidades civis e militares;\n\nb) Contribuir para a elaboração das diretrizes para a adaptação dos serviços públicos às situações de crise ou às de tempo de guerra;\n\nc) Apreciar os planos que, no âmbito do planeamento civil de emergência, lhe sejam submetidos pelos serviços públicos competentes para o efeito, bem como por outras entidades;\n\nd) Aprovar previamente as informações e propostas a apresentar pelos representantes nacionais aos correspondentes comités do Comité do Planeamento Civil de Emergência da OTAN - Civil Emergency Planning Committee (CEPC);\n\ne) Identificar os serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência;\n\nf) Assegurar a execução das diretrizes e dos planos aprovados pelo Governo, requerendo as informações que julgue necessárias;\n\ng) Obter a colaboração dos serviços competentes, públicos ou privados, ou de especialistas, na elaboração de estudos e informações;\n\nh) Promover o esclarecimento das populações acerca dos problemas relacionados com o planeamento civil de emergência;\n\ni) Dar parecer ou informações sobre todos os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da administração interna;\n\nj) Fazer propostas para adequar a legislação por forma a responder a necessidades nacionais e aos compromissos assumidos no âmbito da OTAN;\n\nk) Cumprir as atribuições e competências fixadas na legislação relativa a normas de segurança.\n\n3 - Em matéria de planeamento civil de emergência, a nível OTAN, compete, em especial, à direção nacional de planeamento de emergência:\n\na) Apreciar os documentos e informações mais relevantes apresentados no CEPC;\n\nb) Cometer a realização de estudos aos serviços públicos competentes para o efeito;\n\nc) Fixar as normas de identificação e de preparação dos representantes e técnicos nacionais designados para as agências civis de tempo de guerra da OTAN;\n\nd) Garantir o cumprimento das normas de segurança emanadas da OTAN e da Autoridade Nacional de Segurança, nomeadamente o registo, controlo e distribuição da correspondência OTAN, a inspeção periódica dos Postos de Controlo OTAN, seus dependentes, bem como promover e verificar a credenciação dos cidadãos de nacionalidade portuguesa que, na área do planeamento civil de emergência, devam ter acesso a informação classificada;\n\ne) Coordenar a aplicação em Portugal da doutrina OTAN promulgada no âmbito do Comité de Proteção Civil - Civil Protection Group (CPC) - e respetivos grupos de trabalho;\n\nf) Definir a delegação nacional e assegurar a presença nas reuniões plenárias do CEPC.\n\nArtigo 26.º\n\nSucessão\n\nA ANPC sucede nas atribuições do Conselho Nacional de Planeamento Civil de Emergência.»"
+  },
+  "138516489": {
+   "fragment_id": "138516457",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 75/2007, de 29 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 75/2007, de 29 de março\n\nSão aditados ao Decreto-Lei n.º 75/2007, de 29 de março, os artigos 26.º-A e 26.º-B, com a seguinte redação:\n\n«Artigo 26.º-A\n\nCritérios de seleção de pessoal\n\nÉ fixado como critério geral e abstrato de seleção do pessoal necessário à prossecução das atribuições da ANPC, o desempenho de funções no Conselho Nacional de Planeamento Civil de Emergência.\n\nArtigo 26.º-B\n\nPatrimónio\n\nO património imóvel afeto à atividade do Conselho Nacional de Planeamento Civil de Emergência mantém-se sob administração do Ministério da Defesa Nacional.»"
+  },
+  "138516490": {
+   "fragment_id": "138516458",
+   "type": 11,
+   "heading": "Artigo 4.º — Dependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dependência\n\nAs entidades das áreas da indústria e energia, dos transportes, das comunicações, da agricultura, do mar, do ambiente, da saúde e do ciberespaço com responsabilidades no âmbito do planeamento civil de emergência dependem funcionalmente do presidente da ANPC no quadro da sua atividade em matéria de planeamento civil de emergência."
+  },
+  "138516491": {
+   "fragment_id": "138516459",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos\n\nAs entidades referidas no artigo anterior contribuem para a definição e permanente atualização das políticas de planeamento civil de emergência no seu setor, com vista a garantir a continuidade da ação governativa, a sobrevivência e a capacidade de resistência da Nação, a proteção das populações, o apoio às Forças Armadas e a salvaguarda do património nacional em situações de crise ou de guerra."
+  },
+  "138516492": {
+   "fragment_id": "138516460",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuições\n\nNo quadro da sua atividade em matéria de planeamento civil de emergência são atribuições das entidades referidas no artigo 4.º:\n\na) Elaborar e submeter à aprovação da tutela os diplomas e planos que traduzam as políticas de planeamento civil de emergência do setor;\n\nb) Elaborar estudos e informações, obtendo, quando necessário, a colaboração dos serviços competentes, públicos ou privados, ou de especialistas;\n\nc) Identificar as entidades públicas ou privadas que devem desempenhar missões relacionadas com o planeamento civil de emergência do setor, promovendo e apoiando os estudos para a sua adaptação às situações de crise ou de guerra;\n\nd) Requerer de entidades públicas ou privadas os dados e informações de que necessitam;\n\ne) Assegurar-se do estado de preparação e prontidão do setor para a execução dos planos aprovados;\n\nf) Participar no esclarecimento das populações acerca do planeamento civil de emergência, em coordenação com a ANPC;\n\ng) Participar e apoiar a representação nacional nas atividades desenvolvidas ao nível das organizações internacionais no domínio do planeamento civil de emergência;\n\nh) Fazer propostas para adequar a legislação às necessidades nacionais e aos compromissos assumidos em instâncias internacionais em matérias respeitantes aos seus objetivos;\n\ni) Preparar o setor respetivo, mediante a participação e realização de exercícios e treinos;\n\nj) A nível OTAN, participar nos trabalhos dos comités setoriais e em outras atividades no seu âmbito;\n\nk) Propor a designação de representantes nacionais, técnicos especialistas e outros elementos para as estruturas civis de gestão de crises da OTAN e a sua preparação e participação em exercícios e treinos."
+  },
+  "138516493": {
+   "fragment_id": "138516461",
+   "type": 11,
+   "heading": "Artigo 7.º — Encarregado de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Encarregado de segurança\n\nCada uma das entidades referidas no artigo 4.º deve dispor de um encarregado de segurança, na dependência técnica da ANPC, a quem compete assegurar o cumprimento das competências fixadas pela Resolução do Conselho de Ministros n.º 50/88, de 3 de dezembro, alterada pela Resolução do Conselho de Ministros n.º 13/93, de 6 de março."
+  },
+  "138516494": {
+   "fragment_id": "138516462",
+   "type": 11,
+   "heading": "Artigo 8.º — Normas de articulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Normas de articulação\n\nO presidente da ANPC define por despacho as normas de articulação com as entidades referidas no artigo 4.º"
+  },
+  "138516495": {
+   "fragment_id": "138516463",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\n1 - É revogado o artigo 8.º do Decreto-Lei n.º 75/2007, de 29 de março.\n\n2 - É revogado o Decreto-Lei n.º 153/91, de 23 de abril, alterado pelos Decretos-Leis n.os 287/92, de 26 de dezembro, e 128/2002, de 11 de maio, e pela Lei n.º 30/2008, 10 de julho.\n\n3 - É revogado o Decreto Regulamentar n.º 13/93, de 5 de maio, alterado pelos Decretos Regulamentares n.os 9/98, de 12 de maio, e 1/2001, de 2 de fevereiro, e pelo Decreto-Lei n.º 128/2002, de 11 de maio."
+  },
+  "138516497": {
+   "fragment_id": "138516458",
+   "type": 11,
+   "heading": "Artigo 4.º — Dependência",
+   "in_force_from": "2020-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+   ],
+   "markdown": "###### Artigo 4.º — Dependência\n\nAs entidades das áreas da indústria e energia, dos transportes, das comunicações, da agricultura, do mar, do ambiente, da saúde e do ciberespaço com responsabilidades no âmbito do planeamento civil de emergência dependem funcionalmente do presidente da ANPC no quadro da sua atividade em matéria de planeamento civil de emergência.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+  },
+  "138516498": {
+   "fragment_id": "138516459",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos",
+   "in_force_from": "2020-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+   ],
+   "markdown": "###### Artigo 5.º — Objetivos\n\nAs entidades referidas no artigo anterior contribuem para a definição e permanente atualização das políticas de planeamento civil de emergência no seu setor, com vista a garantir a continuidade da ação governativa, a sobrevivência e a capacidade de resistência da Nação, a proteção das populações, o apoio às Forças Armadas e a salvaguarda do património nacional em situações de crise ou de guerra.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+  },
+  "138516499": {
+   "fragment_id": "138516460",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": "2020-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+   ],
+   "markdown": "###### Artigo 6.º — Atribuições\n\nNo quadro da sua atividade em matéria de planeamento civil de emergência são atribuições das entidades referidas no artigo 4.º:\n\na) Elaborar e submeter à aprovação da tutela os diplomas e planos que traduzam as políticas de planeamento civil de emergência do setor;\n\nb) Elaborar estudos e informações, obtendo, quando necessário, a colaboração dos serviços competentes, públicos ou privados, ou de especialistas;\n\nc) Identificar as entidades públicas ou privadas que devem desempenhar missões relacionadas com o planeamento civil de emergência do setor, promovendo e apoiando os estudos para a sua adaptação às situações de crise ou de guerra;\n\nd) Requerer de entidades públicas ou privadas os dados e informações de que necessitam;\n\ne) Assegurar-se do estado de preparação e prontidão do setor para a execução dos planos aprovados;\n\nf) Participar no esclarecimento das populações acerca do planeamento civil de emergência, em coordenação com a ANPC;\n\ng) Participar e apoiar a representação nacional nas atividades desenvolvidas ao nível das organizações internacionais no domínio do planeamento civil de emergência;\n\nh) Fazer propostas para adequar a legislação às necessidades nacionais e aos compromissos assumidos em instâncias internacionais em matérias respeitantes aos seus objetivos;\n\ni) Preparar o setor respetivo, mediante a participação e realização de exercícios e treinos;\n\nj) A nível OTAN, participar nos trabalhos dos comités setoriais e em outras atividades no seu âmbito;\n\nk) Propor a designação de representantes nacionais, técnicos especialistas e outros elementos para as estruturas civis de gestão de crises da OTAN e a sua preparação e participação em exercícios e treinos.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+  },
+  "138516500": {
+   "fragment_id": "138516461",
+   "type": 11,
+   "heading": "Artigo 7.º — Encarregado de segurança",
+   "in_force_from": "2020-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+   ],
+   "markdown": "###### Artigo 7.º — Encarregado de segurança\n\nCada uma das entidades referidas no artigo 4.º deve dispor de um encarregado de segurança, na dependência técnica da ANPC, a quem compete assegurar o cumprimento das competências fixadas pela Resolução do Conselho de Ministros n.º 50/88, de 3 de dezembro, alterada pela Resolução do Conselho de Ministros n.º 13/93, de 6 de março.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+  },
+  "138516501": {
+   "fragment_id": "138516462",
+   "type": 11,
+   "heading": "Artigo 8.º — Normas de articulação",
+   "in_force_from": "2020-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+   ],
+   "markdown": "###### Artigo 8.º — Normas de articulação\n\nO presidente da ANPC define por despacho as normas de articulação com as entidades referidas no artigo 4.º\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 43/2020 - Diário da República n.º 140/2020, Série I de 2020-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2020-138461839), em vigor a partir de 2020-07-26"
+  },
+  "138516496": {
+   "fragment_id": "138516464",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de março de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 19 de março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 22 de março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

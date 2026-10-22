@@ -1,0 +1,228 @@
+---
+schema_version: '1.0'
+id: pt:dre:495686:por
+title: Portaria n.º 798/87
+short_title: null
+summary: Revê o sistema de apoio financeiro subjacente à campanha lanar de 1987-1988. Revoga as Portarias n.os 394/75, de
+  27 de Junho, e 33/87, de 16 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio
+proposing_entity: null
+official_number: 798/87
+official_date: null
+publication_date: '1987-09-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 213/1987, Série I de 1987-09-16
+  number: '213'
+  series: I
+  supplement: null
+  pages: 3581 - 3582
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/09/21300/35813582.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '495686'
+  dre_path: /dr/detalhe/portaria/798-1987-495686
+  internal: pt:dre:495686:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/798-1987-495686
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/798-1987-495686
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-10-29T00:00:00Z'
+integrity:
+  source_sha256: 3a9fc34bd097551d82621051640ce7248f5bf9997676de46e462068b99dd5161
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-798-495686.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:565975:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 798/87
+
+de 16 de Setembro
+
+Considerando que o regime adoptado nas campanhas lanares, desde há muito seguido no País, se tem revelado eficiente, julga-se conveniente manter ainda para a campanha lanar de 1987-1988 regime análogo ao praticado nas campanhas anteriores.
+
+Assim, continuar-se-á a fomentar o aumento das concentrações nos armazéns regionais, mantendo-se ainda alguns dos apoios que em campanhas anteriores têm sido dados à produção para este efeito, considerando:
+
+A evolução das cotações no mercado das lãs;
+
+As oscilações cambiais registadas nas principais moedas dos países produtores de lã;
+
+A descida verificada em moedas em que habitualmente se efectuam as transacções comerciais;
+
+O aumento das tarifas, nomeadamente de transformação fabril;
+
+A necessidade de continuar a fomentar e melhorar as características têxteis das lãs nacionais.
+
+Julga-se conveniente fazer um reajustamento dos preços de garantia, de modo a situá-los a um nível adequado à presente conjuntura, considerando, por outro lado, a manifesta desactualização da [Portaria n.º 394/75](https://diariodarepublica.pt/dr/detalhe/portaria/394-1975-337067), de 27 de Junho, sucessivamente mantida em vigor, que tem regulamentado as campanhas anteriores, nomeadamente no que se refere ao financiamento da campanha lanar e respectivos custos.
+
+Torna-se, pois, necessário rever o sistema de apoio financeiro subjacente à campanha lanar.
+
+Nestes termos, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, o seguinte:
+
+1.º A compra e venda de lã de produção nacional mantém-se livre, nos termos desta portaria.
+
+2.º - 1 - As organizações da produção promoverão a concentração das lãs em armazéns regionais para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA).
+
+2 - Para a concentração das lãs em sujo, e desde que previamente obtenha para o efeito o acordo do Instituto Nacional de Garantia Agrícola (INGA), o IROMA suportará os seguintes encargos:
+
+1$20 por quilograma, para despesas de transporte das lãs dos armazéns dos produtores aos armazéns de concentração, se aquele se realizar dentro do mesmo concelho, e 2$00 por quilograma, para as lãs provenientes de concelhos diferentes.
+
+3.º À compra e venda de peles de ovino com lã aplicar-se-á o disposto nos n.os 1.º e 2.º da presente portaria.
+
+4.º A armazenagem das lãs concentradas nos termos do n.º 2.º desta portaria deverá obedecer às directrizes emanadas do IROMA.
+
+5.º O IROMA só avaliará as lãs concentradas cuja tosquia tenha sido feita sob sua directa assistência técnica ou sob responsabilidade de profissionais de tosquia devidamente habilitados.
+
+6.º Consideram-se profissionais de tosquia devidamente habilitados, para os efeitos do número anterior, os que possuírem cartão de aptidão obtido em curso de tosquia e preparação de velos realizado pelo IROMA.
+
+7.º As organizações da produção poderão adiantar fundos aos proprietários das lãs em rama sujas concentradas e utilizar para o efeito os financiamentos que o IROMA poderá conceder-lhes numa base de preço e prazo a indicar.
+
+8.º O IROMA garantirá os preços da sua avaliação, recebendo, por intermédio das organizações da produção, as lãs e as peles com lã que não tenham atingido esses preços no leilão.
+
+9.º Os preços mínimos a garantir pelo IROMA às lãs sujas tosquiadas nas condições do n.º 5.º da presente portaria são os que resultam dos preços para penteados e lavados constantes da tabela anexa a este diploma, consoante as classes e o rendimento calculado em penteado ou em lavado a fundo.
+
+10.º - 1 - O IROMA adquirirá, pelos preços da tabela anexa a esta portaria, às organizações da produção que tenham realizado a transformação das lãs de conta dos produtores os lotes de lavado e de penteado para que não tenham conseguido colocação, desde que esses lotes, quando em estado de sujo, tenham sido classificados e avaliados nos armazéns dos centros de produção e tenham sido apresentados a leilão.
+
+2 - Os lotes não apresentados a leilão no estado de sujo não beneficiarão desta garantia.
+
+11.º 1 - As organizações da produção poderão adiantar fundos aos proprietários das lãs que tenham sido trabalhadas de sua conta, nos termos do número anterior, utilizando, para o efeito, o financiamento que o IROMA lhes poderá conceder, em condições a acordar.
+
+2 - O montante máximo do financiamento previsto neste número será de 100% da garantia e só será aplicado às lãs submetidas a leilão.
+
+12.º As lãs em rama sujas adquiridas pelo IROMA nos termos desta portaria serão vendidas em leilão, depois de lhes ser dado adequado estado de preparação.
+
+13.º O IROMA poderá conceder às organizações da produção e aos comerciantes de lãs empréstimos sobre penhor de lãs lavadas e penteadas, nas condições seguintes:
+
+a) Para as organizações da produção, o montante dos empréstimos será limitado à importância correspondente aos preços de avaliação em sujo, o que equivale a 70% do valor do produto depois de transformado, e o penhor será constituído pela totalidade das lãs em rama sujas ou dos produtos e desperdícios que resultarem da sua preparação industrial;
+
+b) Para os comerciantes de lãs, o montante dos empréstimos será limitado a 70% do valor dos lotes de lavados e penteados oferecidos em penhor até ao limite das quantidades correspondentes às compras em leilão.
+
+14.º O IROMA promoverá a realização de leilões de lãs nos diferentes estados de preparação pertencentes a qualquer dos sectores interessados no ciclo económico de lã.
+
+15.º O financiamento das operações decorrentes da campanha lanar, bem como dos respectivos custos dessa mesma campanha, será suportado pelo INGA.
+
+16.º Os industriais de lanifícios e os comerciantes de lãs fornecerão ao IROMA, no princípio de cada trimestre e com relação ao trimestre anterior, os elementos seguintes:
+
+a) Quantidades de lãs, nacionais e estrangeiras, sujas, lavadas e penteadas adquiridas em cada trimestre;
+
+b) Existências de lãs, nacionais e estrangeiras, em rama, sujas e lavadas e em penteados que se encontrem em seu poder no final de cada trimestre.
+
+17.º Os industriais de malhas fornecerão ao IROMA, no princípio de cada trimestre e com relação ao trimestre anterior, os elementos seguintes:
+
+a) Quantidades de fios de lãs, nacionais e estrangeiros, cardados, penteados e mistos de lã e outras fibras adquiridas em cada trimestre;
+
+b) Existências de fios de lã, nacionais e estrangeiros, cardados, penteados e mistos de lã e outras fibras que se encontrem em seu poder no final de cada trimestre.
+
+18.º São revogadas as Portarias n.os [394/75](https://diariodarepublica.pt/dr/detalhe/portaria/394-1975-337067), de 27 de Junho, e [33/87](https://diariodarepublica.pt/dr/detalhe/portaria/33-1987-663498), de 16 de Janeiro.
+
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+
+**Assinada em 14 de Agosto de 1987.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.**
+
+Tabela anexa a que se refere o n.º 9.º da Portaria n.º 798/87
+
+Lãs não churras de tosquia
+
+Penteados brancos:
+
+Merinos extra ... 502$00
+
+Merinos finos ... 480$00
+
+Merinos correntes ... 438$00
+
+Primas ... 382$00
+
+Cruzados finos ... 357$00
+
+Lavados brancos (para carda):
+
+Merinos extra ... 420$00
+
+Merinos finos ... 405$00
+
+Merinos correntes ... 365$00
+
+Primas ... 320$00
+
+Cruzados finos ... 306$00
+
+Cruzados médios ... 270$00
+
+Cruzados lustrosos ... 235$00
+
+Peças e aninhos fortes ... 215$00
+
+Pontas e chocas ... 190$00
+
+Lavados e penteados saragoços - menos 30%.
+
+Lãs churras de tosquia
+
+Lavados brancos - corrente:
+
+Velos brancos ... 210$00
+
+Velos pigmentados (amarelo) ... 186$00
+
+Velos interpolados (jardos) ... 165$00
+
+Aninhos ... 165$00
+
+Peças de 1.ª ... 137$00
+
+Peças de 2.ª ... 125$00

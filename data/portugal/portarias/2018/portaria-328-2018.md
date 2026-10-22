@@ -1,0 +1,394 @@
+---
+schema_version: '1.0'
+id: pt:dre:117441497:por
+title: Portaria n.º 328/2018
+short_title: null
+summary: Define o regime de certificação de empresas tendo em vista o acolhimento de nacionais de Estados terceiros que pretendam
+  desenvolver uma atividade altamente qualificada em Portugal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Administração Interna e Adjunto e Economia
+proposing_entity: null
+official_number: 328/2018
+official_date: null
+publication_date: '2018-12-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 244/2018, Série I de 2018-12-19
+  number: '244'
+  series: I
+  supplement: null
+  pages: 5848 - 5850
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24400/0584805850.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-29'
+version_history:
+  file: portaria-328-2018.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2018-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-04-05'
+    amending: pt:dre:121987031:por
+    amending_title: Portaria n.º 99/2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+  - date: '2022-01-29'
+    amending: pt:dre:178391312:por
+    amending_title: Portaria n.º 59-A/2022
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 8.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/328/2018/p/cons/20190404/pt/html
+  oj: null
+  dre: '117441497'
+  dre_path: /dr/detalhe/portaria/328-2018-117441497
+  internal: pt:dre:117441497:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/328-2018-117441497
+  metadata_url: https://data.dre.pt/eli/port/328/2018/p/cons/20190404/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-121987034
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-121987034
+  retrieved_at: '2026-10-22T12:25:28Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bcfc9d5a53a707fc958caeeffbc998cfec4464f76535924bcad620bf9382f3f5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:25:28Z'
+  notes: 3 versão(ões); histórico completo em portaria-328-2018.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Imigração
+- Empreendedorismo
+- Residência de Estrangeiros
+- Empresa
+- Cidadão Estrangeiro
+- Certificação Profissional
+- Comissão de Acompanhamento
+- Definição de Competências
+- Mudança Tecnológica
+- Entrada de Estrangeiros
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Modernização Tecnológica
+- Serviço de Estrangeiros e Fronteiras
+- Países Terceiros
+- Qualificação Profissional
+- IAPMEI
+- Termo de Responsabilidade
+- Titulo de Residência
+- Trabalhador Estrangeiro
+relationships:
+- type: amended_by
+  target: pt:dre:121987031:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/99-2019-121987031
+  date: '2019-04-04'
+- type: amended_by
+  target: pt:dre:178391312:por
+  label: Adita Artigo 5.º-A; Adita Artigo 8.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312
+  date: '2022-01-28'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/102/2017/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/102/2017/08/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/2017/05/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2017/05/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/29/2012/08/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/29/2012/08/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/56/2015/06/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/56/2015/06/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/59/2017/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/59/2017/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/63/2015/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/63/2015/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:25:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 328/2018
+
+Portaria n.º 328/2018
+
+de 19 de dezembro
+
+A captação de investimento, o desenvolvimento tecnológico e a construção de uma economia capaz de atrair trabalhadores altamente qualificados e especializados são uma prioridade para o XXI Governo Constitucional. Para atingir esses objetivos, é necessário dotar o país de mecanismos que possibilitem uma dinâmica associada à captação e retenção de talentos, cuja produtividade contribua para o crescimento económico enquanto fonte geradora de atividade económica e de emprego.
+
+O Programa do XXI Governo Constitucional e o Programa Nacional de Reformas sublinham a importância de incentivos à consolidação de uma economia dinâmica e internacional, sendo o ecossistema empreendedor e o setor tecnológico áreas essenciais para a internacionalização do tecido empresarial português.
+
+No Século XXI, o apoio e promoção de uma economia global e capaz de atrair quadros e companhias relacionadas com o setor tecnológico constituem focos muito relevantes da ação do Governo, nomeadamente, pelo desenvolvimento de medidas que possibilitem a fixação de empresas internacionais e a fixação de quadros qualificados e especializados oriundos dos mais diversos países.
+
+A expansão e o rápido crescimento do setor tecnológico e inovador tornam imprescindível a criação de melhores e mais rápidas condições para acolher em Portugal novos projetos e novos quadros qualificados e especializados. É com esse objetivo que o XXI Governo Constitucional tem lançado diversas medidas de atração de profissionais altamente qualificados que contribuam para o desenvolvimento do tecido empresarial português.
+
+Neste contexto, mostra-se essencial criar um programa mais eficaz e eficiente de concessão de visto de residência/atribuição de autorização de residência para imigrantes altamente qualificados, cabendo legalmente ao Governo a certificação das empresas que, através da celebração de contrato de trabalho com quadros altamente qualificados e/ou especializados, permitam a estes a fruição do programa que agilize a concessão de visto de residência/atribuição de autorização de residência designado programa «Tech Visa», cumpridos que estejam os restantes requisitos legais.
+
+Foi ouvido o Serviço de Estrangeiros e Fronteiras, a Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas e o IAPMEI - Agência para a Competitividade e Inovação, I. P.
+
+Assim, nos termos da alínea c) do n.º 1 do artigo 61.º e na alínea c) do n.º 1 do artigo 90.º da Lei n.º 23/2007, de 4 de julho, alterada pelas Leis n.os 29/2012, de 9 de agosto, 56/2015, de 23 de junho, 63/2015, de 30 de junho, 59/2017, de 31 de julho, e 102/2017, de 28 de agosto, manda o Governo, pelo Ministro da Administração Interna e pelo Ministro Adjunto e da Economia, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria define o regime de certificação de empresas tendo em vista o acolhimento de nacionais de Estados terceiros que pretendam desenvolver uma atividade altamente qualificada em Portugal de acordo com o previsto na alínea c) do n.º 1 do artigo 61.º e na alínea c) do n.º 1 do artigo 90.º da Lei n.º 23/2007, de 4 de julho, alterada pelas Leis n.os 29/2012, de 9 de agosto, 56/2015, de 23 de junho, 63/2015, de 30 de junho, 59/2017, de 31 de julho, e 102/2017, de 28 de agosto.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente portaria, entende-se por:
+
+a) 'Tech Visa', o programa de certificação de empresas para efeitos de concessão de visto ou de autorização de residência a nacionais de Estados terceiros, altamente qualificados, que nelas pretendam desenvolver a sua atividade, bem como de autorização de residência para trabalhador transferido dentro da empresa para exercício de atividade profissional de gestor, especialista ou de formação;
+
+b) 'Atividade altamente qualificada', a atividade prevista na alínea a) do n.º 1 do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual;
+
+c) 'Empresas', qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado. São, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica;
+
+d) 'Lista de empresas certificadas', a lista de empresas com sede ou estabelecimento estável no território nacional que pretendam contratar nacionais de Estados terceiros altamente qualificados para o desenvolvimento de uma atividade económica, certificadas no âmbito do programa 'Tech Visa', nos termos da presente portaria;
+
+e) 'Trabalhador transferido dentro da empresa', o nacional de Estado terceiro que resida fora do território nacional e que requeira a transferência dentro da empresa, nos termos da alínea hh) do n.º 1 do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual;
+
+f) 'Termo de responsabilidade', o documento emitido pela empresa certificada para o cidadão estrangeiro altamente qualificado que pretende contratar ao abrigo do programa 'Tech Visa', obrigatório para a instrução do pedido de visto de residência ou pedido de autorização de residência.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 99/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/99-2019-121987031), em vigor a partir de 2019-04-05
+
+###### Artigo 3.º — Critérios de certificação de empresas
+
+Sem prejuízo do cumprimento de outros requisitos legais que se mostrem aplicáveis, as candidaturas de empresas no âmbito do Tech Visa são avaliadas e selecionadas com base nos seguintes critérios:
+
+a) Estar legalmente constituídas;
+
+b) Não ter dívidas à segurança social e à administração fiscal;
+
+c) Não ter salários em atraso;
+
+d) Não ser consideradas empresas em reestruturação;
+
+e) Identificar na candidatura as áreas técnicas de qualificação preferencialmente pretendidas no âmbito do programa «Tech Visa», de acordo com o Catálogo Nacional de Qualificações;
+
+f) No caso de empresas constituídas há mais de três anos, possuir uma situação líquida positiva, evidenciada na última Informação Empresarial Simplificada (IES) disponível;
+
+g) Dispor de estabelecimento estável em território nacional e desenvolver atividade cujo exercício requeira competências técnicas especializadas, de carácter excecional, ou uma qualificação adequada para o respetivo exercício;
+
+h) Desenvolver uma atividade de produção de bens e serviços internacionalizáveis, nomeadamente, bens e serviços produzidos em setores expostos à concorrência internacional e que podem ser objeto de troca internacional, ou, no caso dos centro de interface tecnológico reconhecidos nos termos do Despacho n.º 8563/2019, de 27 de setembro, ou dos laboratórios colaborativos reconhecidos nos termos do Regulamento n.º 486-A/2017, de 12 de setembro, possuir uma atividade económica de prestação de serviços a empresas com atividade de produção de bens e serviços internacionalizáveis;
+
+i) Dispor de um número mínimo de colaboradores internos, compatível com a viabilidade de emissão de termos de responsabilidade, em cumprimento dos limites definidos na alínea b) do n.º 1 do artigo 4.º;
+
+j) Identificar um responsável da empresa pelo processo de certificação com residência em Portugal;
+
+k) [Anterior alínea h).]
+
+2 - No caso dos centros de interface tecnológico reconhecidos nos termos do Despacho n.º 8563/2019, de 27 de setembro, ou dos laboratórios colaborativos reconhecidos nos termos do Regulamento n.º 486-A/2017, de 12 de setembro, a avaliação prevista na alínea k) do número anterior é efetuada tendo em conta as empresas a que se destinam os serviços daquelas entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 99/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/99-2019-121987031), em vigor a partir de 2019-04-05
+
+###### Artigo 4.º — Obrigações das empresas certificadas
+
+1 - As empresas certificadas devem:
+
+a) Autorizar a realização de verificações de controlo específicas, por parte do IAPMEI, I. P., e pelo Serviço de Estrangeiros e Fronteiras, quanto à conformidade das declarações prestadas no processo de acreditação;
+
+b) Não possuir mais do que 50 % trabalhadores contratados em simultâneo ao abrigo do presente programa, sendo que, no caso de empresas que desenvolvam maioritariamente a sua atividade nos territórios do interior definidos na Portaria n.º 208/2017, de 13 de julho, o limite é de 80 %;
+
+c) Comunicar de imediato ao IAPMEI, I. P., ao Serviço Estrangeiros e Fronteiras e à Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas qualquer facto ou alteração relevante que ponha em causa os critérios de aceitação da entrada de cidadãos nacionais de Estado terceiro altamente qualificados ao abrigo do programa.
+
+d) Formalizar com o trabalhador um contrato de trabalho ou de prestação de serviços com a duração mínima de 12 meses com um vencimento anual mínimo equivalente a 2,5 vezes o indexante dos apoios sociais (IAS);
+
+e) No caso de trabalhador altamente qualificado transferido dentro da empresa, emitir uma adenda ao contrato, dando conta da sua colocação na empresa em Portugal;
+
+f) Assegurar que os técnicos contratados ao abrigo do programa 'Tech Visa' exercem as suas funções na empresa certificada, não podendo esta servir apenas como interveniente de processo de contratação para colocação de trabalhadores em terceiros;
+
+g) Atualizar a área de acompanhamento dos termos de responsabilidade, constante da plataforma do programa 'Tech Visa', relativamente a todos os termos emitidos, no sentido de identificar a sua utilização para efeitos de pedido de visto, pedido de autorização de residência e situação contratual.
+
+2 - Para efeitos da aplicação da majoração da alínea b) no número anterior às empresas que desenvolvam maioritariamente a sua atividade em territórios do interior, o critério a utilizar tem por base o peso do número dos colaboradores que desenvolvam a sua atividade profissional em estabelecimentos da empresa localizados naqueles territórios face aos colaboradores totais da empresa.
+
+3 - O apuramento do limite de número de trabalhadores a recrutar ao abrigo do programa 'Tech Visa' tem por base o número total de trabalhadores do extrato da declaração de remunerações da Segurança Social (ERSS) reportado aos seguintes momentos:
+
+a) O cálculo em sede de candidatura inicial tem por base o ERSS mais recente anterior à data da candidatura;
+
+b) Durante a vigência da certificação o limite poderá ser atualizado através da atualização do número de trabalhadores constante do ERSS;
+
+c) O cálculo em sede de renovação tem por base o ERSS mais recente anterior à data do pedido de renovação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+###### Artigo 5.º — Requisitos de elegibilidade de trabalhadores altamente qualificados
+
+1 - Sem prejuízo do previsto na alínea a) do n.º 1 do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, a empresa certificada ao emitir o termo de responsabilidade necessário para a apresentação do pedido de visto de residência ou autorização de residência, deve assegurar que os trabalhadores altamente qualificados cumprem os seguintes requisitos:
+
+a) Ser cidadão de Estado terceiro e não residir de forma permanente na União Europeia;
+
+b) Ter a situação contributiva regularizada perante a administração fiscal e segurança social, quando aplicável;
+
+c) Não possuir antecedentes criminais;
+
+d) Ter idade não inferior a 18 anos.
+
+2 - Os trabalhadores altamente qualificados devem ainda:
+
+a) Exercer atividade altamente qualificada demonstrada através do cumprimento de um dos seguintes requisitos:
+
+i) Possuir um nível de qualificação mínima de nível 6 de acordo com o ISCED-2011;
+
+ii) No caso de trabalhadores com um nível de qualificação 5, curso técnico superior profissional, de acordo com o ISCED-2011, devem demonstrar possuir competências técnicas especializadas de carácter excecional, obtidas através de experiência mínima de 5 anos.
+
+iii) (Revogada.)
+
+b) Formalizar com o empregador um contrato de trabalho ou de prestação de serviços com a duração mínima de 12 meses com um vencimento anual mínimo equivalente a 2,5 vezes o IAS;
+
+c) Possuir domínio da língua portuguesa, inglesa, francesa ou espanhola adequado às funções a desempenhar.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 99/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/99-2019-121987031), em vigor a partir de 2019-04-05
+
+###### Artigo 5.º-A — Requisitos de elegibilidade de trabalhadores altamente qualificados transferidos dentro da empresa
+
+Para a emissão do termo de responsabilidade necessário para a apresentação da autorização de residência de trabalhadores altamente qualificados transferidos dentro da empresa, para exercício de atividade profissional de gestor, especialista ou de formação, nos termos da alínea hh) do n.º 1 do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, a empresa certificada deve assegurar que os trabalhadores altamente qualificados cumprem os seguintes requisitos:
+
+a) Ter trabalhado na mesma empresa ou no mesmo grupo de empresas por um período mínimo de 3 a 12 meses ininterruptos como gestor ou especialista, ou de três a seis meses ininterruptos como estagiário;
+
+b) Ser titular de contrato de trabalho celebrado com a empresa ou com o grupo de empresas ao qual pertence a empresa de acolhimento, que especifique a sua condição de gestor, especialista ou estagiário;
+
+c) Ser titular das qualificações e da experiência profissionais compatíveis com as funções de gestor ou especialista a exercer na empresa de acolhimento ou do adequado diploma de ensino superior se se tratar de estagiário;
+
+d) Ter requerido seguro de saúde, nas condições aplicáveis aos cidadãos nacionais, quando se demonstre existirem períodos em que não beneficia de cobertura deste tipo, nem de prestações correspondentes relativas ao exercício ou em resultado do trabalho a realizar;
+
+e) Apresentar garantia, por parte da empresa de acolhimento, de cumprimento durante a transferência, da legislação em matéria de condições de trabalho e de pagamento de remuneração não inferior à que é paga aos trabalhadores nacionais com idênticas funções.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+###### Artigo 6.º — Entidade responsável
+
+O IAPMEI, I. P., é a entidade responsável pelo processo de certificação das empresas e pela execução do programa.
+
+###### Artigo 7.º — Procedimento
+
+1 - Para efeitos de participação no programa «Tech Visa», as empresas que pretendam estar incluídas na lista de empresas certificadas para receber cidadãos estrangeiros através do programa, devem candidatar-se nos termos de aviso a publicitar pelo IAPMEI, I. P., o qual define os períodos de candidatura e os requisitos específicos a observar.
+
+2 - A candidatura é submetida em língua portuguesa através de formulário eletrónico na plataforma online criada para o efeito pelo IAPMEI, I. P.
+
+3 - Na submissão da candidatura, a empresa demonstra o cumprimento dos critérios previstos no artigo 3.º
+
+4 - O IAPMEI, I. P., analisa a candidatura e o preenchimento dos requisitos previstos no artigo 3.º
+
+5 - A empresa candidata pode apresentar elementos adicionais no prazo de 3 dias úteis após notificação do IAPMEI, I. P., na plataforma eletrónica do programa, do não cumprimento dos requisitos previstos no artigo 3.º
+
+6 - Sem prejuízo do referido no número anterior, o IAPMEI, I. P., profere decisão sobre a candidatura no prazo máximo de 20 dias úteis a contar da sua submissão, disponibilizando-a na plataforma eletrónica do programa no prazo de três dias úteis, exceto em caso de renovação, cujo prazo máximo é de 25 dias úteis a contar da sua submissão.
+
+7 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 61.º e na alínea c) do n.º 1 do artigo 90.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o IAPMEI, I. P., atesta, disponibilizando eletronicamente uma declaração para o efeito, a certificação da empresa candidata.
+
+8 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 61.º e na alínea c) do n.º 1 do artigo 90.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, a empresa certificada emite um termo de responsabilidade ao trabalhador contratado, através de formulário disponibilizado eletronicamente pelo IAPMEI, I. P.
+
+9 - A emissão de termo de responsabilidade pela empresa, sem a verificação dos requisitos previstos no artigo 3.º ou com base em informações falsas implica a sua exclusão do programa durante 5 anos.
+
+10 - Os termos de responsabilidade emitidos pelas empresas certificadas, relativamente a trabalhadores altamente qualificados, destinam-se à obtenção de visto de residência ou de autorização de residência, nos termos do disposto na alínea c) do n.º 1 do artigo 61.º e na alínea c) do n.º 1 do artigo 90.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual. Os termos de responsabilidade emitidos pelas empresas certificadas aos trabalhadores altamente qualificados constituem documentos obrigatórios para a instrução do pedido de visto ou da autorização de residência.
+
+11 - Os termos de responsabilidade emitidos para obtenção de visto de residência ou autorização de residência têm uma validade de 6 meses, a contar da sua emissão pela empresa certificada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+###### Artigo 8.º — Duração
+
+1 - A certificação da empresa é válida por cinco anos, renovável por iguais períodos, após verificação do IAPMEI, I. P., do cumprimento dos requisitos e critérios exigidos pela presente portaria às empresas certificadas.
+
+2 - O IAPMEI, I. P., disponibiliza à Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas e ao Serviço de Estrangeiros e Fronteiras a lista de empresas certificadas, comunicando ainda, de imediato, qualquer alteração à mesma.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+###### Artigo 8.º-A — Renovação da certificação
+
+1 - Em sede de renovação da certificação, será apurado o limite do número de termos de responsabilidade emitidos ao abrigo do programa 'Tech Visa', em cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º
+
+2 - O pedido de renovação deve ser efetuado com antecedência mínima de um mês para garantir que não há interrupção na certificação da empresa, o que tem impacto na emissão dos termos de responsabilidade.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 59-A/2022 - Diário da República n.º 20/2022, 1º Suplemento, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/59-a-2022-178391312), em vigor a partir de 2022-01-29
+
+###### Artigo 9.º — Cessação
+
+A certificação atribuída às empresas cessa em caso de incumprimento das obrigações e requisitos legalmente previstos ou por vontade expressa da empresa.
+
+###### Artigo 10.º — Acompanhamento
+
+É criado um comité de acompanhamento da execução do programa, constituído por um elemento indicado pelo IAPMEI, I. P., que preside, um elemento indicado pelo Serviço de Estrangeiros e Fronteiras, um elemento indicado pela Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas, e mais três elementos indicados respetivamente pelos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da administração interna e da economia.
+
+###### Artigo 11.º — Regime aplicável
+
+Ao procedimento previsto no presente artigo são aplicáveis as regras do Código do Procedimento Administrativo.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor em 1 de janeiro de 2019.
+
+Em 6 de novembro de 2018.
+
+O Ministro da Administração Interna, Eduardo Arménio do Nascimento Cabrita. - O Ministro Adjunto e da Economia, Pedro Gramaxo de Carvalho Siza Vieira.
+
+111907619

@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:840688779:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-856378853",
+ "dre_path": "/dr/detalhe/portaria/45-a-2024-840688779",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2024-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "856473325",
+    "856473326",
+    "856473327",
+    "856473328",
+    "856473329",
+    "856473330",
+    "856473331",
+    "856473332",
+    "856473333",
+    "856473334"
+   ]
+  },
+  {
+   "date": "2024-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:856339668:por",
+     "title": "Portaria n.º 110-B/2024/1",
+     "published": "2024-03-19",
+     "dre_path": "/dr/detalhe/portaria/110-b-2024-856339668"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "856473325",
+    "856473326",
+    "856473327",
+    "856473341",
+    "856473329",
+    "856473330",
+    "856473331",
+    "856473332",
+    "856473333",
+    "856473334",
+    "856473335"
+   ]
+  }
+ ],
+ "fragments": {
+  "856473325": {
+   "fragment_id": "856378854",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 45-A/2024\n\nde 7 de fevereiro\n\nSumário: Cria uma linha de crédito com juros bonificados, designada «Linha de Tesouraria - setor agrícola II», dirigida aos operadores da produção, transformação ou comercialização de produtos agrícolas, com o objetivo de apoiar encargos de tesouraria para financiamento da sua atividade.\n\nO Decreto-Lei n.º 27-A/2022, de 23 de março, aprovou um regime que permite a criação, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, de linhas de crédito, para apoiar os operadores da produção, transformação e comercialização de produtos do setor agrícola, afetados no seu rendimento, por situações de crise, designadamente em consequência de fenómenos climáticos adversos ou de perturbações de mercado.\n\nO contexto atual é profundamente adverso para os operadores do setor agrícola, afetados pela situação de seca em Portugal, que se verifica desde novembro de 2021 e que coloca a totalidade do território continental em situação de seca meteorológica, conforme reconhecido pelo Despacho n.º 2768-A/2022, de 2 de março, da Ministra da Agricultura, e a que se juntaram os efeitos adversos na produção, decorrentes da escassez de água, subida do custo dos fatores de produção, sobretudo da energia, dos combustíveis ou dos fertilizantes, mas também da escassez de matérias-primas, em consequência do conflito entre a Rússia e a Ucrânia.\n\nDa conjugação de todos aqueles fatores, resultou uma quebra nos rendimentos dos operadores do setor agrícola, criando dificuldades acrescidas na gestão das respetivas tesourarias.\n\nAquela situação tinha já justificado a criação de uma linha de crédito com o objetivo de apoiar os operadores da produção, transformação ou comercialização de produtos agrícolas, e destinada a apoiar encargos de tesouraria para financiamento da sua atividade, designada de «Linha de Tesouraria - setor agrícola» e aprovada pela Portaria n.º 159/2022, de 14 de junho.\n\nMantendo-se os fenómenos climatéricos adversos bem como as perturbações de mercado subjacentes àquela linha de crédito, cujo efeito na gestão da tesouraria dos beneficiários foi auxílio relevante naquele período, verifica-se ser neste momento oportuno recorrer novamente a este instrumento de apoio para o mesmo efeito.\n\nNeste contexto, pela presente portaria, institui-se uma linha de crédito, no montante de 50 M(euro), com juro bonificado, destinada a facilitar o acesso aos meios financeiros necessários ao funcionamento dos operadores do setor agrícola, para fazer face aos custos acrescidos dos fatores de produção decorrentes da manutenção da situação de crise.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças e pela Ministra da Agricultura e da Alimentação, ao abrigo do disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 27-A/2022, de 23 de março, o seguinte:"
+  },
+  "856473326": {
+   "fragment_id": "856378855",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria cria uma linha de crédito com juros bonificados, designada «Linha de Tesouraria - setor agrícola II», dirigida aos operadores da produção, transformação ou comercialização de produtos agrícolas, com o objetivo de apoiar encargos de tesouraria para financiamento da sua atividade."
+  },
+  "856473327": {
+   "fragment_id": "856378856",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários e condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários e condições de elegibilidade\n\nTêm acesso à linha de crédito «Linha de Tesouraria - setor agrícola» as pessoas singulares ou coletivas que à data de apresentação do pedido de crédito satisfaçam as seguintes condições:\n\na) Desenvolvam a atividade em território nacional;\n\nb) Estejam regularmente constituídas e licenciadas para o exercício das atividades elegíveis;\n\nc) Tenham a situação contributiva regularizada perante a administração fiscal e a segurança social;\n\nd) Não se encontrem sujeitas a processo de insolvência, nem preencham os critérios, nos termos do direito nacional, para ficar sujeito a processo de insolvência, a pedido dos seus credores;\n\ne) No caso dos operadores que tenham a forma de cooperativas agrícolas ou organizações e agrupamentos de produtores, devem possuir certidão CASES atualizada ou título de reconhecimento válido, respetivamente."
+  },
+  "856473328": {
+   "fragment_id": "856378857",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante global de crédito e limite global do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante global de crédito e limite global do auxílio\n\n1 - O montante global da linha de crédito «Linha Tesouraria - setor agrícola» é de 50 000 000 (euro).\n\n2 - O auxílio a conceder no âmbito da presente medida é cumulável com quaisquer outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis ou do Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, referente aos auxílios de minimis no setor agrícola.\n\n3 - A atribuição dos montantes de crédito a conceder a cada beneficiário é feito por ordem de submissão das candidaturas até ser alcançado o montante global fixado no n.º 1."
+  },
+  "856473329": {
+   "fragment_id": "856378858",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante individual do crédito e do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante individual do crédito e do auxílio\n\n1 - O montante individual de crédito a conceder no âmbito da «Linha de Tesouraria - setor agrícola» não pode ultrapassar 30 % do valor das vendas e outros produtos ou serviços, tendo como referência o melhor dos cinco últimos exercícios económicos encerrados.\n\n2 - O montante máximo de crédito por beneficiário não pode ultrapassar 300 000 (euro), expressos em equivalente-subvenção bruto, conforme previsto no n.º 2 do artigo 3.º do Regulamento (UE) 2023/2831 da Comissão de 13 de dezembro de 2023, no caso de operadores do setor da transformação ou comercialização de produtos agrícolas, ou 20 000 (euro), expressos em equivalente-subvenção bruto, conforme previsto no n.º 2 do artigo 3.º do Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro, na redação dada pelo Regulamento (UE) 2019/316, da Comissão, de 21 de fevereiro, no caso da produção de produtos agrícolas.\n\n3 - O auxílio a conceder no âmbito da presente medida é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) 2023/2381, da Comissão, de 13 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis ou do Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, referente aos auxílios de minimis no setor agrícola, qualquer que seja a sua forma ou o objetivo prosseguido, e independentemente de serem financiados, no todo ou em parte, por recursos da União Europeia, encontrando-se o resultado dessa cumulação sujeito ao limites referidos no número anterior.\n\n4 - Caso se verifique que o montante individual de crédito origina um auxílio superior ao limite estipulado no número anterior, o valor do mesmo por beneficiário é ajustado, reduzindo-se na proporção do excesso verificado e diminuindo-se, em conformidade, o montante individual de crédito a contratar."
+  },
+  "856473330": {
+   "fragment_id": "856378859",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma\n\nO crédito é concedido sob a forma de empréstimo reembolsável pelas instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito que celebrem protocolo com o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no qual é estabelecida uma taxa de juro nominal máxima."
+  },
+  "856473331": {
+   "fragment_id": "856378860",
+   "type": 11,
+   "heading": "Artigo 6.º — Formalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formalização\n\nOs empréstimos são formalizados por contrato escrito, em termos e prazos a definir pelo IFAP, I. P., e celebrados entre as instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito e os beneficiários da presente Linha de Crédito."
+  },
+  "856473332": {
+   "fragment_id": "856378861",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições financeiras e duração dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições financeiras e duração dos empréstimos\n\n1 - Os empréstimos são concedidos pelo prazo máximo de três anos a contar da data de celebração do contrato e amortizáveis anualmente, em prestações de capital de igual montante, vencendo-se a primeira amortização no prazo máximo de dois anos após a data do contrato.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de nove meses após a data de celebração do contrato, podendo efetuar-se até três utilizações, devendo a primeira utilização coincidir com a data da contratação.\n\n3 - Os empréstimos vencem juros à taxa contratual, calculados, dia a dia, sobre o capital em dívida.\n\n4 - Os juros são postecipados e pagos anualmente.\n\n5 - Em cada período de contagem de juros e ao longo da duração do empréstimo é atribuída uma bonificação da taxa de juros de 100 %.\n\n6 - A percentagem fixada no número anterior é aplicada sobre a taxa de referência para o cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de outubro, em vigor no início de cada período de contagem de juros, salvo se a taxa de juro praticada pela instituição de crédito ou demais entidades habilitadas por lei à concessão de crédito for menor, caso em que aquela taxa de referência passa a ser igual a esta."
+  },
+  "856473333": {
+   "fragment_id": "856378862",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de informação dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de informação dos beneficiários\n\n1 - Para efeitos do disposto no artigo 4.º, os beneficiários devem apresentar cópia das declarações de rendimentos relativas ao imposto sobre o rendimento das pessoas singulares ou das declarações a que se refere a alínea c) do n.º 1 do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, na sua redação atual, consoante os casos, relativas aos cinco últimos exercícios económicos.\n\n2 - Os beneficiários dos auxílios devem informar o IFAP, I. P., sobre o recebimento de quaisquer outros auxílios de minimis, concedidos ao abrigo do Regulamento (UE) 2023/2831, da Comissão, de 13 de dezembro de 2023, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis ou do Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, referente aos auxílios de minimis no setor agrícola."
+  },
+  "856473334": {
+   "fragment_id": "856378863",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "856473341": {
+   "fragment_id": "856378857",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante global de crédito e limite global do auxílio",
+   "in_force_from": "2024-03-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110-B/2024/1 - Diário da República n.º 56/2024, Suplemento, Série I de 2024-03-19](https://diariodarepublica.pt/dr/detalhe/portaria/110-b-2024-856339668), em vigor a partir de 2024-03-20"
+   ],
+   "markdown": "###### Artigo 3.º — Montante global de crédito e limite global do auxílio\n\n1 - O montante global da linha de crédito \"Linha Tesouraria - setor agrícola\" é de € 100 000 000.\n\n2 - O auxílio a conceder no âmbito da presente medida é cumulável com quaisquer outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis ou do Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, referente aos auxílios de minimis no setor agrícola.\n\n3 - A atribuição dos montantes de crédito a conceder a cada beneficiário é feito por ordem de submissão das candidaturas até ser alcançado o montante global fixado no n.º 1.\n\n4 - O encargo com o presente apoio até ao limite de € 1 200 000 é assegurado pela dotação prevista no artigo 3.º da Portaria n.º 72/2024, de 28 de fevereiro.\"\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 110-B/2024/1 - Diário da República n.º 56/2024, Suplemento, Série I de 2024-03-19](https://diariodarepublica.pt/dr/detalhe/portaria/110-b-2024-856339668), em vigor a partir de 2024-03-20"
+  },
+  "856473335": {
+   "fragment_id": "856378864",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 6 de fevereiro de 2024.\n\nO Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.\n\n117337308"
+  }
+ }
+}

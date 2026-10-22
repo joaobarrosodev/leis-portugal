@@ -1,0 +1,1155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220219335:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-220186752",
+ "dre_path": "/dr/detalhe/decreto-lei/72-2023-220219335",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "220186625",
+    "220186626",
+    "220186627",
+    "220186628",
+    "220186629",
+    "220186630",
+    "220186631",
+    "220186632",
+    "220186633",
+    "220186634",
+    "220186635",
+    "220186636",
+    "220186637",
+    "220186638",
+    "220186639",
+    "220186640",
+    "220186641",
+    "220186642",
+    "220186643",
+    "220186644",
+    "220186645",
+    "220186646",
+    "220186647",
+    "220186648",
+    "220186649",
+    "220186650",
+    "220186651",
+    "220186652",
+    "220186653",
+    "220186654",
+    "220186655",
+    "220186656",
+    "220186657",
+    "220186658",
+    "220256430",
+    "220256431",
+    "220256432",
+    "220256433",
+    "220256434",
+    "220256435",
+    "220186659",
+    "220186660",
+    "220186661",
+    "220186662",
+    "220186663",
+    "220186664",
+    "220186665",
+    "220186666",
+    "220186667",
+    "220186668",
+    "220186669",
+    "220186670",
+    "220186671",
+    "220186672",
+    "220186673",
+    "220186674",
+    "220256375",
+    "220256376",
+    "220256377",
+    "220256378",
+    "220256379",
+    "220256380",
+    "220256381",
+    "220256382",
+    "220256383",
+    "220256384",
+    "220256385",
+    "220256386",
+    "220256387",
+    "220256388",
+    "220256389",
+    "220256390",
+    "220256391",
+    "220256392",
+    "220256393",
+    "220256394",
+    "220256395",
+    "220256396",
+    "220256397",
+    "220256398",
+    "220256399",
+    "220256400",
+    "220256401",
+    "220256402",
+    "220256403",
+    "220256404",
+    "220256405",
+    "220256406",
+    "220256407",
+    "220256408",
+    "220256409",
+    "220256410",
+    "220256411",
+    "220256412",
+    "220256413",
+    "220256414",
+    "220256415",
+    "220256416",
+    "220256417",
+    "220256418",
+    "220256419",
+    "220256420",
+    "220256421",
+    "220256422",
+    "220256423",
+    "220256424",
+    "220256425",
+    "220256426",
+    "220256427",
+    "220256428"
+   ]
+  },
+  {
+   "date": "2024-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:865433934:por",
+     "title": "Decreto-Lei n.º 36/2024",
+     "published": "2024-05-21",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2024-865433934"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 90.º"
+   ],
+   "fragments": [
+    "220186625",
+    "220186626",
+    "220186627",
+    "220186628",
+    "220186629",
+    "220186630",
+    "220186631",
+    "220186632",
+    "220186633",
+    "220186634",
+    "220186635",
+    "220186636",
+    "220186637",
+    "220186638",
+    "220186639",
+    "220186640",
+    "220186641",
+    "220186642",
+    "220186643",
+    "220186644",
+    "220186645",
+    "220186646",
+    "220186647",
+    "220186648",
+    "220186649",
+    "220186650",
+    "220186651",
+    "220186652",
+    "220186653",
+    "220186654",
+    "220186655",
+    "220186656",
+    "220186657",
+    "220186658",
+    "220256430",
+    "220256431",
+    "220256432",
+    "220256433",
+    "220256434",
+    "220256435",
+    "220186659",
+    "220186660",
+    "220186661",
+    "220186662",
+    "220186663",
+    "220186664",
+    "220186665",
+    "220186666",
+    "220186667",
+    "220186668",
+    "220186669",
+    "220186670",
+    "220186671",
+    "220186672",
+    "220186673",
+    "220186674",
+    "220256375",
+    "220256376",
+    "220256377",
+    "220256378",
+    "220256379",
+    "220256380",
+    "220256381",
+    "220256382",
+    "220256383",
+    "220256384",
+    "220256385",
+    "220256386",
+    "220256387",
+    "220256388",
+    "220256389",
+    "220256390",
+    "220256391",
+    "220256392",
+    "220256393",
+    "220256394",
+    "220256395",
+    "220256396",
+    "220256397",
+    "220256398",
+    "220256399",
+    "220256400",
+    "220256401",
+    "220256402",
+    "220256403",
+    "220256404",
+    "220256405",
+    "220256406",
+    "220256407",
+    "220256408",
+    "220256409",
+    "220256410",
+    "220256411",
+    "220256412",
+    "220256413",
+    "220256414",
+    "220256415",
+    "220256416",
+    "220256417",
+    "220256418",
+    "220256419",
+    "220256420",
+    "220256421",
+    "220256422",
+    "220256423",
+    "220256424",
+    "220256425",
+    "220256426",
+    "220256427",
+    "865550102",
+    "220256429"
+   ]
+  }
+ ],
+ "fragments": {
+  "220186625": {
+   "fragment_id": "220186753",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 72/2023\n\nde 23 de agosto\n\nSumário: Aprova o regime jurídico do cadastro predial e estabelece o Sistema Nacional de Informação Cadastral e a carta cadastral.\n\nO cadastro predial é um instrumento indispensável para o conhecimento do território, para o desenvolvimento de políticas públicas de valorização territorial e para a tomada de decisão sobre o uso, ocupação e utilização do solo por parte de entidades públicas, empresas e cidadãos.\n\nEm Portugal subsiste um elevado grau de desconhecimento da geometria e da titularidade dos prédios existentes no território nacional, não só por parte da administração do território, mas, também de um grande número de proprietários afastados do aproveitamento ativo da terra, tornando-se cada vez mais difícil realizar o cadastro predial, sobretudo dos prédios rústicos, com consequências gravosas para o planeamento e gestão do território e para a atuação preventiva e defensiva das populações face a riscos.\n\nOs objetivos de desenvolvimento do País e as mudanças críticas que os diversos territórios enfrentam, associadas às alterações climáticas e a fatores de vulnerabilidade e de risco territorial agravados, determinam necessidades inadiáveis de intervir no território, visando a valorização do capital natural, a gestão da paisagem e o reforço da resiliência, a promoção da economia local e a geração de rendimentos nos territórios em perda.\n\nO conhecimento da geometria e da titularidade da propriedade é um requisito essencial para o desenvolvimento de políticas públicas adequadas, bem como para assegurar o cumprimento da lei, o exercício legítimo dos direitos e deveres dos cidadãos e das empresas e a boa comunicação entre a administração e os administrados. A existência de um cadastro predial completo e atualizado é uma condição de desenvolvimento territorial, pela importância que a informação cadastral detém na definição e execução de instrumentos de planeamento e gestão do território e de prevenção de riscos, na política fiscal de base territorial, nas políticas de incentivos e de financiamento, nas decisões de localização da atividade económica e no exercício da cidadania.\n\nO Cadastro Geométrico da Propriedade Rústica, instituído pelo Decreto n.º 11 859, de 2 de julho de 1926, encontra-se desfasado dos requisitos e necessidades atuais, tendo deixado de assegurar uma resposta adequada às necessidades de cadastro dos prédios nele abrangidos, sem prejuízo da validade da informação cadastral produzida ao abrigo desse regime, a qual importa, agora, desmaterializar, vetorizar e atualizar, possibilitando a sua conversão em cadastro predial e a sua atualização gradual.\n\nO Regulamento do Cadastro Predial, aprovado pelo Decreto-Lei n.º 172/95, de 18 de julho, garantindo o carácter multifuncional do cadastro, pretendeu estabelecer um Sistema Nacional de Informação Cadastral (SNIC), preenchendo uma necessidade de modernização da Administração Pública e possibilitando retratar, de forma fidedigna, a realidade administrativa e jurídica da propriedade imobiliária, que representaria a aquisição de uma infraestrutura essencial ao desenvolvimento do País.\n\nPorém, esse regime jurídico não conheceu a aplicação esperada, em face das dificuldades decorrentes da excessiva fragmentação da propriedade. Isto, apesar da especial necessidade de cadastro dos prédios rústicos, particularmente urgente nos espaços florestais de minifúndio, onde a ausência de cadastro prejudica a execução de medidas de ordenamento e de gestão do território que contribuam para prevenir incêndios florestais de crescente gravidade.\n\nMais, o Decreto-Lei n.º 172/95, de 18 de julho, acabou por ficar desatualizado pela significativa evolução tecnológica que se verificou desde a sua aprovação, sobretudo, no domínio da desmaterialização dos processos e da informação geográfica e cadastral. Essas dificuldades foram, aliás, reconhecidas pela Resolução do Conselho de Ministros n.º 45/2006, de 4 de maio, que aprovou as linhas orientadoras para a execução, manutenção e exploração de informação cadastral, através da criação do Sistema Nacional de Exploração e Gestão de Informação Cadastral (SINERGIC), de natureza simplificada, no seguimento da qual foi aprovado o Decreto-Lei n.º 224/2007, de 31 de maio, que estabeleceu o regime experimental da execução, exploração e acesso à informação cadastral (SINERGIC). Ao abrigo deste regime experimental, foram testadas diferentes metodologias e procedimentos de trabalho, no âmbito de operações de execução de cadastro realizadas em sete concelhos com elevado risco de incêndio, entretanto concluídas. Todavia, este regime possuiu um âmbito territorial limitado e exigiu a realização sistemática do cadastro predial em toda a área abrangida, em termos que dificilmente podem ser replicados na totalidade do território nacional.\n\nPor outro lado, a Lei n.º 31/2014, de 30 de maio, que aprovou as bases gerais da política pública de solos, de ordenamento do território e de urbanismo (LBPPSOTU), veio determinar a criação de um SNIC que permita identificar as unidades prediais, estabelecendo que estão sujeitos a registo predial, a inscrição matricial, bem como a georreferenciação e a inscrição no cadastro predial, os factos que afetem direitos reais relativos a um determinado imóvel ou lhe imponham um ónus, nos termos da lei.\n\nO Decreto-Lei n.º 80/2015, de 14 de maio, que procedeu ao desenvolvimento legislativo da LBPPSOTU, determina que, de entre as peças escritas e desenhadas do conteúdo documental dos planos de pormenor, incluindo os que tenham efeitos registais, constam as que suportam as operações de transformação fundiária previstas, nomeadamente para efeitos de registo predial e de elaboração ou conservação do cadastro geométrico da propriedade rústica ou do cadastro predial, estabelecendo que as parcelas de terreno cedidas ao município se integram no domínio municipal no ato de individualização no registo predial dos lotes respetivos e estão sujeitas a cadastro predial.\n\nA Lei n.º 3/2015, de 9 de janeiro, veio regular o acesso e exercício da atividade profissional de cadastro predial, estando já operacionalizados o modelo de formação e de reconhecimento, bem como o sistema de inscrição dos técnicos de cadastro predial, que constituem as bases para, num quadro de responsabilização profissional, cometer aos particulares a responsabilidade pela conservação do cadastro predial e a possibilidade de execução.\n\nA Lei n.º 78/2017, de 17 de agosto, criou o sistema de informação cadastral simplificada e o Balcão Único do Prédio (BUPi), aplicável, como projeto-piloto, à área dos municípios de Pedrógão Grande, Castanheira de Pêra, Figueiró dos Vinhos, Góis, Pampilhosa da Serra, Penela, Sertã, Caminha, Alfândega da Fé e Proença-a-Nova, com vista à imediata identificação da estrutura fundiária e da titularidade dos prédios rústicos e mistos.\n\nA Lei n.º 65/2019, de 23 de agosto, veio estender, a partir de 1 de novembro de 2018, o regime do sistema de informação cadastral simplificada a todo o território nacional, e promovendo a universalização do BUPi enquanto plataforma nacional de registo e cadastro do território, abrangendo os prédios urbanos, rústicos e mistos de todo o território nacional. O regime do sistema de informação cadastral simplificada, que resulta da aplicação conjugada destes dois diplomas, nas situações em que a informação resultante da representação gráfica georreferenciada dos prédios rústicos e mistos assuma a natureza de cadastro predial, concorre para a elaboração do cadastro predial, viabilizando a interoperabilidade de dados cadastrais recolhidos relativos à geometria e à titularidade dos prédios.\n\nO Programa Nacional da Política de Ordenamento do Território, aprovado pela Lei n.º 99/2019, de 5 de setembro, consagra a promoção da informação geográfica, o incremento do conhecimento sobre a propriedade do solo e o aumento da percentagem do território coberto com cadastro predial.\n\nNo conjunto de medidas que reforçam e complementam as ações já em curso, sobretudo na prevenção e combate a riscos naturais, na adaptação às alterações climáticas e na valorização e ordenamento do território, enunciados no âmbito do 1.º Desafio Estratégico do Programa do XXIII Governo Constitucional «Alterações Climáticas Transição Climática», o Governo assumiu o compromisso de alargar a informação cadastral simplificada a todo o território nacional, associando-a ao cadastro predial, e de criar condições para a aprovação da revisão do regime jurídico do cadastro predial.\n\nNo mesmo sentido, já haviam sido anteriormente definidas medidas prioritárias para a valorização do território florestal e incentivo à gestão florestal ativa e racional considerando as disfuncionalidades existentes no território nacional associadas à fragmentação da propriedade rústica, ao excesso de situações de compropriedade e ao desconhecimento da localização, limites e titularidade dos prédios, aos problemas demográficos de diminuição da população ativa, à edificação dispersa, à menor presença humana nos territórios rurais e ao agravamento dos custos de produção que levaram ao abandono da floresta e à acumulação de combustível, propiciadora da ocorrência de incêndios rurais.\n\nNeste contexto, através da Resolução de Conselho de Ministros n.º 45-A/2020, de 16 de junho, foi aprovado o Plano Nacional de Gestão Integrada de Fogos Rurais, o qual estabelece, entre outros, o objetivo de concretização de programas que visam o conhecimento sobre a localização, limites e titularidade dos prédios rústicos e mistos, e sobre os prédios sem dono conhecido, no âmbito da informação cadastral simplificada e do cadastro predial. E em concretização deste, o Programa Nacional de Ação, aprovado pela Resolução do Conselho de Ministros n.º 71-A/2021, de 8 de junho, engloba medidas concretas como a aprovação do novo regime jurídico do cadastro predial, articulado com o regime jurídico do sistema da informação cadastral simplificada, desenvolvendo-se o sistema nacional de cadastro predial.\n\nTambém o regime jurídico da reconversão da paisagem estabelecido pelo Decreto-Lei n.º 28-A/2020, de 26 de junho, na sua redação atual prevê a execução de ações de cadastro necessárias à obtenção da configuração geométrica dos prédios que integram as Áreas Integradas de Gestão da Paisagem, devendo a identificação da titularidade dos prédios ter como suporte o sistema de informação cadastral simplificado e o cadastro geométrico da propriedade rústica e cadastro predial em vigor.\n\nParalelamente, o Plano de Recuperação e Resiliência prevê a Reforma «Reorganização do sistema de cadastro da propriedade rústica e do Sistema de Monitorização de Ocupação do Solo (SMOS)», inscrita na componente «C8 - Florestas», que estabelece o quadro jurídico necessário para operacionalizar o investimento «RE-C08-i02: Cadastro da propriedade rústica e sistema de Monitorização da Ocupação do Solo», contemplando, entre outros diplomas, a publicação de diploma que aprova o novo Regime Jurídico do Cadastro Predial (RJCP). Veja-se, neste âmbito, que a reforma em apreço visa, entre outros aspetos, consolidar uma visão coerente, atualizada e holística do território, permitindo que o Estado desenvolva políticas públicas concretas e sustentáveis, bem como facilitar a interação dos cidadãos com a Administração Pública.\n\nO cadastro predial é o instrumento que possibilita a representação geográfica e georreferenciada das unidades prediais que constituem o território nacional, permitindo conhecer a forma como a terra se divide em prédios, a respetiva localização, configuração geométrica e delimitação. Com este instrumento, os cidadãos e organizações podem conhecer a exata e rigorosa localização geográfica dos seus prédios e como tal confirmar oficialmente, e com segurança acrescida, os seus direitos sobre os mesmos, podendo assim melhor proteger os seus interesses e defender o que é seu.\n\nUrge, por isso, criar um regime jurídico do cadastro predial novo e estabelecer um SNIC que assegure a integração de toda a informação relativa à propriedade fundiária com base no cadastro predial, permitindo a disponibilização dos dados de identificação, de caracterização dos prédios, em articulação com o registo predial e com a inscrição matricial. Promovendo-se, assim, a cobertura do território nacional com cadastro predial e incrementando o conhecimento sobre os prédios e a propriedade do solo na definição e execução de políticas públicas territoriais.\n\nA carta cadastral constituirá, pois, o acervo dinâmico dessa informação, de âmbito nacional e de acesso universal, na qual se procede à gestão e conservação do cadastro predial e à harmonização com a descrição e inscrição no registo predial e com a matriz predial. Deste modo, consagra-se a carta cadastral como o mapa cartográfico nacional oficial dos prédios em cadastro predial.\n\nDeste modo, no novo RJCP, aprovado através do presente decreto-lei, estabelece-se um modelo de integração de informação, de articulação de dados de entidades da Administração Pública e de comunicação com o cidadão, com vista ao conhecimento do território, suas características e seus titulares, bem como à promoção da segurança jurídica e à coerência entre a informação constante do cadastro predial, do registo predial e da matriz predial a respeito de cada prédio neles identificado.\n\nO presente regime jurídico mantém e consolida o papel da Direção-Geral do Território (DGT) enquanto Autoridade Nacional de Cadastro Predial, responsável pela elaboração, gestão e disponibilização da carta cadastral e assumindo funções de regulação, supervisão e fiscalização da atividade de cadastro predial.\n\nPromove-se a descentralização e partilha de competências, ao estabelecer que as autarquias locais, as entidades gestoras de zonas de intervenção florestal, de áreas ou operações integradas de gestão da paisagem, bem como outras entidades que, no âmbito das suas competências, desenvolvam operações de transformação fundiária, possam ser promotoras de operações de cadastro, a par da DGT.\n\nE prevê-se, ainda, a desconcentração de competências para as comissões de coordenação e desenvolvimento regional, as quais podem, igualmente, promover e realizar operações de execução e de conservação de cadastro predial, bem como apoiar tecnicamente e colaborar na realização de operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial da responsabilidade de outras entidades promotoras, e até mesmo fiscalizar, ao nível regional, as operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial na respetiva área territorial de atuação.\n\nAs operações de execução de cadastro predial deixam de confinar-se a circunscrições administrativas, passando a poder ser promovidas para áreas específicas e, em algumas situações, para prédios individualizados, assumindo-se a diversidade de situações, a pluralidade de interesses e a simplificação e agilização dos procedimentos.\n\nPromove-se, igualmente, a integração em regime de cadastro predial dos prédios geometricamente configurados no âmbito de regimes legais específicos, nomeadamente de planos de pormenor com efeitos registais, de operações de loteamento, de operações de emparcelamento rural e de expropriações, com possibilidade de alargamento a outros casos de produção de cadastro predial através de dados administrativos. Desta forma, permite-se o aproveitamento, a favor do cadastro predial, de procedimentos já realizados e validados nas sedes próprias.\n\nCria-se, ainda, um procedimento para integração na carta cadastral da informação cadastral simplificada que venha a ser validada sem reserva, ou seja, das representações gráficas georreferenciadas (RGG) que sejam aceites pelos proprietários confinantes ou que não registem conflitos de delimitação com prédios contíguos, passando tal informação a assumir a natureza de cadastro predial e sendo os correspondentes prédios integrados na carta cadastral. Com efeito, assume-se que o conhecimento do território será possível através de dois níveis de informação cadastral sobre prédios, com diferentes graus de valoração em termos de configuração geométrica do prédio e de registo da propriedade e, nessa base, com repercussões distintas na presunção de direitos e de deveres dos seus titulares: o nível da informação dos prédios em regime de cadastro predial, integrados na carta cadastral, quando a configuração geométrica dos prédios assegura todos os requisitos de exigência cartográfica e de segurança jurídica; e o nível da informação dos prédios em regime de informação cadastral simplificada, quando exista RGG, mas não se encontram, ainda, reunidos os requisitos de exigência cartográfica e de validação para efeitos de assunção como prédios em regime de cadastro predial - sem prejuízo de, logo, que esta informação reúna os requisitos necessários, a mesma seja integrada na carta cadastral, passando a constituir cadastro predial.\n\nPelo presente decreto-lei converte-se em cadastro predial os prédios rústicos localizados nos municípios em regime de cadastro geométrico da propriedade rústica, e a informação aos mesmos associada, tendo como objetivo reunir, num regime único de cadastro, todos os prédios cadastrados inscritos na carta cadastral, independentemente do seu regime de origem.\n\nEstabelece-se, também, um regime único de conservação dos prédios em cadastro predial e determina-se que a conservação do cadastro, em todas as alterações fundiárias, passa a ser promovida pelo titular do prédio, através de entidade legalmente habilitada para o efeito.\n\nPor fim, sendo o BUPi a plataforma de interface com o cidadão em matéria de cadastro predial, que garante a interoperabilidade dos dados detidos pelas entidades da Administração Pública, designadamente, da Autoridade Tributária e Aduaneira e do Instituto dos Registos e do Notariado, I. P., determina-se que a interação do cidadão com a DGT passa a ser feita através do BUPi.\n\nCom este novo regime jurídico do cadastro predial criam-se condições de gestão da informação cadastral que suportam, no futuro, o aprofundamento da descentralização de competências em matéria de execução e conservação de operações de cadastro predial para as autarquias locais, a consagrar através de regime legal específico, bem como condições de base para o desenvolvimento de novas formas de gestão da transição ecológica, assentes na propriedade fundiária e nas opções de aproveitamento do solo praticadas por proprietários e demais detentores de direitos reais sobre os prédios.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos do n.º 3 do artigo 73.º e do artigo 81.º da Lei n.º 31/2014, de 30 de maio, na sua redação atual, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "220186626": {
+   "fragment_id": "220186754",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "220186627": {
+   "fragment_id": "220186755",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei aprova o regime jurídico do cadastro predial, estabelece o Sistema Nacional de Informação Cadastral (SNIC) e a carta cadastral como registo único e universal de prédios em regime de cadastro predial.\n\n2 - O presente decreto-lei procede, ainda, à primeira alteração da Lei n.º 3/2015, de 9 de janeiro, que regula o regime de acesso e exercício da atividade profissional de cadastro predial, em conformidade com a disciplina da Lei n.º 9/2009, de 4 de março, e do Decreto-Lei n.º 92/2010, de 26 de julho, que transpuseram as Diretivas n.os 2005/36/CE, relativa ao reconhecimento das qualificações profissionais, e 2006/123/CE, relativa aos serviços no mercado interno."
+  },
+  "220186628": {
+   "fragment_id": "220186756",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos prédios e aos baldios existentes em território nacional.\n\n2 - O presente decreto-lei aplica-se, com as necessárias adaptações, aos prédios do domínio público e privado do Estado."
+  },
+  "220186629": {
+   "fragment_id": "220186757",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara os efeitos do presente decreto-lei, entende-se por:\n\na) «Área cadastrada», a área geográfica abrangida por uma operação de execução de cadastro predial já concluída;\n\nb) «Área do prédio», a medida da superfície de um prédio delimitada pelas respetivas estremas, sendo calculada sobre o plano cartográfico e expressa em metros quadrados;\n\nc) «Cadastro predial», o registo geográfico e administrativo, metódico e atualizado, de aplicação multifuncional, no qual se procede à identificação e caracterização dos prédios existentes em território nacional;\n\nd) «Cadastro transitório», a situação em que se encontram os prédios que, embora tendo sido cadastrados, não foram objeto de harmonização;\n\ne) «Carta cadastral», o registo cartográfico nacional dos prédios em regime de cadastro predial;\n\nf) «Configuração geométrica do prédio», a representação cartográfica das estremas de um prédio, unidas através de uma linha poligonal fechada, obtida por processos diretos de medição ou de observação da superfície terrestre;\n\ng) «Declaração de aceitação dos titulares cadastrais», o documento através do qual os titulares de prédios sujeitos a uma operação de execução ou de conservação de cadastro predial declaram aceitar a configuração geométrica do prédio;\n\nh) «Declaração de confinantes», o documento através do qual os titulares de prédios confinantes declaram aceitar a configuração geométrica do prédio;\n\ni) «Estrema», a linha delimitadora do prédio que pode estar materializada, ou não, no terreno, por demarcação;\n\nj) «Localização geográfica do prédio», a localização do prédio resultante do posicionamento das suas estremas nos sistemas de referência oficiais;\n\nk) «Marco ou marca de propriedade», o sinal de demarcação identificador do limite do prédio;\n\nl) «Prédio», a porção delimitada do solo juridicamente autonomizada, abrangendo as águas, plantações, edifícios e construções de qualquer natureza nele incorporadas ou assentes com carácter de permanência."
+  },
+  "220186630": {
+   "fragment_id": "220186758",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade Nacional de Cadastro Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade Nacional de Cadastro Predial\n\n1 - A Direção-Geral do Território (DGT) é a Autoridade Nacional de Cadastro Predial.\n\n2 - Compete à DGT, no âmbito das suas atribuições próprias e enquanto Autoridade Nacional de Cadastro Predial:\n\na) Assegurar a aplicação do regime jurídico do cadastro predial instituído pelo presente decreto-lei e a coordenação das intervenções em matéria de cadastro predial;\n\nb) Promover a aplicação do regime jurídico do cadastro predial, em articulação com o regime jurídico do sistema de informação cadastral simplificada, previsto no regime do sistema de informação cadastral simplificada;\n\nc) Desenvolver, coordenar e gerir o SNIC, assegurando a interoperabilidade com o portal único de serviços públicos e com o Balcão Único do Prédio (BUPi), previsto no regime do sistema de informação cadastral simplificada;\n\nd) Gerir e conservar a carta cadastral, disponibilizando em permanência, no âmbito do SNIC, no portal único de serviços públicos, no sítio institucional da DGT na Internet e no BUPi, os dados de caracterização e a identificação dos prédios cadastrados;\n\ne) Assegurar o sistema de registo e de inscrição de técnico de cadastro predial (TCP) e manter permanentemente atualizada a respetiva lista oficial;\n\nf) Assegurar o sistema de registo das pessoas coletivas executantes de cadastro predial e manter permanentemente atualizada a respetiva lista oficial;\n\ng) Assegurar, no âmbito do SNIC, o registo e a autenticação dos titulares cadastrais e dos seus representantes legais, bem como o registo, a autenticação e a acreditação de TCP, e o acesso aos respetivos dados pessoais;\n\nh) Assegurar, no âmbito do SNIC, o acesso aos dados cadastrais necessários para a realização de atos, negócios jurídicos ou operações de transformação fundiária relativos a prédios cadastrados;\n\ni) Promover e realizar operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial;\n\nj) Apoiar tecnicamente e colaborar na realização de operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial da responsabilidade de outras entidades promotoras;\n\nk) Definir e aprovar normas e especificações técnicas de cadastro predial (NETCP), incluindo instruções para a delimitação e demarcação de prédios, a disponibilizar no âmbito do SNIC, no portal único de serviços públicos, no sítio institucional da DGT na Internet e no BUPi;\n\nl) Aprovar os formulários de termo de responsabilidade, de declaração de confinantes, de ficha de prédio cadastrado e de outros documentos de âmbito cadastral previstos no presente decreto-lei, os quais devem ser redigidos em linguagem simples e clara, a disponibilizar no âmbito do SNIC, no portal único de serviços públicos, no sítio institucional da DGT na Internet e no BUPi;\n\nm) Fiscalizar a atividade de cadastro predial ao nível nacional, designadamente a desenvolvida pelas entidades legalmente habilitadas;\n\nn) Participar ao Ministério Público ou a outras entidades em razão da matéria e das respetivas atribuições, os atos de alteração da situação jurídica de prédios e de transformação fundiária praticados em violação do presente decreto-lei e demais normas legais e regulamentares aplicáveis;\n\no) Presidir ao Conselho Nacional de Cadastro Predial (CNCP);\n\np) Assegurar a representação nacional no Comité Permanente de Cadastro da União Europeia e outros órgãos técnicos no domínio do cadastro;\n\nq) Participar nos órgãos de gestão da informação cadastral previstos em legislação específica ou para os quais seja nomeada."
+  },
+  "220186631": {
+   "fragment_id": "220186759",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições das comissões de coordenação e desenvolvimento regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições das comissões de coordenação e desenvolvimento regional\n\nSem prejuízo do disposto no artigo anterior, são atribuições das comissões de coordenação e desenvolvimento regional (CCDRs) no âmbito do cadastro predial:\n\na) Promover e realizar operações de execução e de conservação de cadastro predial;\n\nb) Apoiar tecnicamente e colaborar na realização de operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial da responsabilidade de outras entidades promotoras;\n\nc) Fiscalizar, ao nível regional, as operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial na respetiva área territorial de atuação;\n\nd) Participar ao Ministério Público ou a outras entidades em razão da matéria e das respetivas atribuições, os atos de alteração da situação jurídica de prédios e de transformação fundiária praticados em violação do presente decreto-lei e demais normas legais e regulamentares aplicáveis;\n\ne) Participar no CNCP."
+  },
+  "220186632": {
+   "fragment_id": "220186760",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho Nacional de Cadastro Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho Nacional de Cadastro Predial\n\n1 - O CNCP é o órgão consultivo nacional em matéria de cadastro predial, competindo-lhe:\n\na) Emitir pareceres e recomendações, por sua iniciativa ou a solicitação de membro do Governo com competência em matéria de cadastro predial;\n\nb) Propor medidas tendentes ao desenvolvimento e aperfeiçoamento da atividade de cadastro predial;\n\nc) Apresentar propostas de normas técnicas e procedimentos uniformes para todo o território nacional a aplicar pelas entidades e os organismos com responsabilidades e competências em matéria de cadastro predial;\n\nd) Publicar os relatórios, pareceres ou quaisquer outros trabalhos emitidos ou realizados no âmbito das suas competências.\n\n2 - O CNCP integra os seguintes membros permanentes:\n\na) Um representante da DGT, que preside enquanto autoridade nacional de cadastro predial;\n\nb) Um representante de cada uma das CCDRs;\n\nc) Um representante da Autoridade Tributária e Aduaneira (AT);\n\nd) Um representante do Instituto de Registos e do Notariado, I. P. (IRN, I. P.);\n\ne) Um representante da entidade legalmente responsável pela gestão do sistema de informação cadastral simplificada e do BUPi, previsto no regime do sistema de informação cadastral simplificada.\n\n3 - O CNCP tem como membros não permanentes, a convocar em razão das matérias a tratar:\n\na) Um representante da Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR);\n\nb) Um representante do Instituto da Conservação da Natureza e das Florestas, I. P.;\n\nc) Um representante da Agência Portuguesa do Ambiente, I. P.;\n\nd) Um representante do Instituto Hidrográfico;\n\ne) Um representante da Direção-Geral do Tesouro e Finanças (DGTF);\n\nf) Um representante da Direção-Geral do Património Cultural;\n\ng) Um representante da Direção-Geral de Energia e Geologia;\n\nh) Um representante da Direção-Geral de Recursos da Defesa Nacional;\n\ni) Um representante do Centro de Informação Geoespacial do Exército;\n\nj) Um representante do Instituto Nacional de Estatística, I. P.;\n\nk) Um representante do Instituto da Habitação e da Reabilitação Urbana, I. P.;\n\nl) Um representante da Agência para a Modernização Administrativa, I. P.;\n\nm) Um representante da Infraestruturas de Portugal, S. A.;\n\nn) Um representante da PARPÚBLICA - Participações Públicas, SGPS, S. A.;\n\no) Um representante da ESTAMO - Participações Imobiliárias, S. A. (ESTAMO, S. A.);\n\np) Um representante da FLORESTGAL - Empresa de Gestão e Desenvolvimento Florestal, S. A. (FLORESTGAL, S. A.);\n\nq) Um representante da Associação Nacional de Municípios Portugueses;\n\nr) Um representante das entidades intermunicipais, a designar pelas mesmas;\n\ns) Um representante da Associação Nacional de Freguesias;\n\nt) Um representante de cada um dos serviços regionais responsáveis pelas atividades de cadastro predial nas Regiões Autónomas dos Açores e da Madeira;\n\nu) Um representante das associações públicas profissionais no domínio do cadastro predial.\n\n4 - A representação das entidades referidas nos números anteriores é assegurada pelos seus responsáveis máximos, com possibilidade de delegação em titulares de cargos de direção superior de 2.º grau, ou em cargos equivalentes.\n\n5 - Podem, ainda, ser convidados representantes de outras entidades, e ainda pessoas de reconhecido mérito, em função das matérias submetidas a discussão.\n\n6 - Os representantes referidos nos números anteriores podem fazer-se acompanhar por técnicos das respetivas entidades ou por peritos, quando tal se revele adequado em face da ordem de trabalhos e da natureza das questões a tratar.\n\n7 - Os representantes que integram o CNCP e as entidades consultadas não têm, pelo exercício destas funções, direito a receber qualquer remuneração, abono ou outro montante correspondente a despesas de representação.\n\n8 - O CNCP reúne ordinariamente com periodicidade anual, e extraordinariamente, por iniciativa do seu presidente ou a solicitação fundamentada de algum dos seus membros.\n\n9 - O CNCP elabora e aprova o seu regimento interno na primeira reunião plenária.\n\n10 - O CNCP funciona junto da DGT, que assegura o apoio logístico e administrativo às suas atividades."
+  },
+  "220186633": {
+   "fragment_id": "220186761",
+   "type": 1,
+   "heading": "Capítulo II — Sistema Nacional de Informação Cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema Nacional de Informação Cadastral"
+  },
+  "220186634": {
+   "fragment_id": "220186762",
+   "type": 11,
+   "heading": "Artigo 7.º — Âmbito e estrutura do Sistema Nacional de Informação Cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Âmbito e estrutura do Sistema Nacional de Informação Cadastral\n\n1 - O SNIC integra toda a informação relativa ao cadastro predial, identifica e disponibiliza os dados de caracterização e de identificação dos prédios inscritos na carta cadastral e assegura a gestão e a conservação do cadastro predial.\n\n2 - Para efeitos do número anterior, o SNIC integra as seguintes componentes:\n\na) A informação relativa à localização administrativa e geográfica, configuração geométrica e área dos prédios cadastrados e inscritos na carta cadastral da responsabilidade da DGT;\n\nb) A informação relativa à propriedade e outros direitos reais sobre prédios cadastrados e respetivos titulares, da responsabilidade do IRN, I. P., por interoperabilidade através do BUPi;\n\nc) A informação relativa ao atributo do valor patrimonial tributário dos prédios cadastrados, da responsabilidade da AT, por interoperabilidade através do BUPi."
+  },
+  "220186635": {
+   "fragment_id": "220186763",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionalidades\n\n1 - No âmbito do SNIC são asseguradas as seguintes funcionalidades:\n\na) Gestão da carta cadastral, disponibilizando os dados de caracterização e a identificação dos prédios cadastrados e permitindo a sua associação aos dados das descrições e das matrizes prediais;\n\nb) Suporte dos procedimentos das operações de execução de cadastro predial, de integração na carta cadastral e de conservação do cadastro predial, respetiva tramitação e fiscalização;\n\nc) Disponibilização dos dados da configuração geométrica com os dados do registo predial e da matriz predial;\n\nd) Acesso ao registo e à autenticação eletrónica segura dos técnicos das CCDRs para exercício das competências previstas no presente decreto-lei;\n\ne) Acesso ao registo e à autenticação eletrónica segura dos titulares cadastrais e seus representantes legais, bem como ao registo, à autenticação e à acreditação de TCP;\n\nf) Acesso aos dados cadastrais necessários para a realização de atos, negócios jurídicos ou operações de transformação fundiária relativos a prédios cadastrados;\n\ng) Disponibilização da cartografia de base e temática de suporte aos procedimentos previstos no presente decreto-lei;\n\nh) Disponibilização de ferramentas tecnológicas de análise espacial e verificação automática do cumprimento de disposições legais e regulamentares, relativas à estruturação da propriedade fundiária, designadamente a aplicação de unidades mínimas de cultura e controlo de operações urbanísticas através da plataforma eletrónica de suporte à decisão para o fracionamento da propriedade;\n\ni) Disponibilização das NETCP, bem como dos formulários de termo de responsabilidade, de declaração de confinantes, de ficha de prédio cadastrado e de outros documentos de âmbito cadastral previstos no presente decreto-lei;\n\nj) Submissão eletrónica dos documentos legalmente exigíveis nos termos do presente decreto-lei e demais legislação aplicável, designadamente os termos de responsabilidade de técnicos habilitados e as declarações dos titulares cadastrais ou dos titulares dos prédios confinantes;\n\nk) Assinatura eletrónica qualificada dos documentos apresentados;\n\nl) Disponibilização dos documentos cadastrais que devem acompanhar todos os atos, negócios jurídicos ou operações de transformação fundiária relativos aos prédios cadastrados e sua conservação;\n\nm) Disponibilização de pagamento por meios eletrónicos preferencialmente por multibanco ou transferência bancária;\n\nn) Interoperabilidade com o portal único de serviços públicos e cumprimento do modelo comum de desenho e desenvolvimento de serviços públicos digitais.\n\n2 - As funcionalidades previstas no número anterior são disponibilizadas através do BUPi, sendo as notificações e comunicações eletrónicas no âmbito dos procedimentos estabelecidos no presente decreto-lei efetuadas através deste balcão, sem prejuízo da utilização do serviço público de notificações eletrónicas associado à morada única digital, nos termos do Decreto-Lei n.º 93/2017, de 1 de agosto.\n\n3 - Para efeitos dos números anteriores deve ser garantido o cumprimento do disposto na Resolução do Conselho de Ministros n.º 41/2018, de 28 de março."
+  },
+  "220186636": {
+   "fragment_id": "220186764",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres de colaboração e de partilha de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres de colaboração e de partilha de informação\n\n1 - A execução e a conservação do cadastro predial são tarefas nacionais, cuja responsabilidade é partilhada entre todas as entidades e serviços da administração direta, indireta e autónoma do Estado, ao nível central e local, e outras entidades administrativas e do setor empresarial do Estado, bem como cidadãos e pessoas coletivas.\n\n2 - Todas as entidades e serviços referidos no número anterior bem como cidadãos e empresas em geral, que detenham informação relevante, têm o dever de colaborar na partilha de dados dos prédios e seus titulares, sempre que se revele necessário para cumprimento do regime previsto no presente decreto-lei.\n\n3 - Ao dever de colaboração no âmbito das operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial aplica-se o disposto no artigo 27.º do regime da informação cadastral simplificada, podendo as entidades identificadas, nos termos aí estabelecidos, proceder à partilha entre si e com as autarquias locais territorialmente competentes da informação relevante sobre a caracterização e a identificação dos prédios e dos seus titulares, através do BUPi.\n\n4 - A execução e a conservação do cadastro predial relativas a imóveis do domínio público e privado do Estado devem ser realizadas, preferencialmente, através de interoperabilidade da informação entre as plataformas eletrónicas dos diversos serviços públicos envolvidos, devendo ser estabelecido, por protocolo, o procedimento específico para o efeito, no âmbito do qual se definem as entidades, as respetivas responsabilidades, a qualidade da intervenção cadastral e as plataformas abrangidas."
+  },
+  "220186637": {
+   "fragment_id": "220186765",
+   "type": 11,
+   "heading": "Artigo 10.º — Utilização de meios eletrónicos e informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Utilização de meios eletrónicos e informáticos\n\n1 - No âmbito do SNIC devem ser utilizados meios eletrónicos e informáticos que garantam a autenticidade, a integridade, a disponibilidade, e a confidencialidade da respetiva informação e documentação, assegurando, designadamente, a criação, a alteração e a eliminação de dados, o registo das consultas e respetivos prazos de retenção, bem como a delimitação do universo de utilizadores das bases de dados.\n\n2 - A utilização de meios eletrónicos e informáticos deve permitir:\n\na) O envio e receção dos dados que são necessários para garantir a colaboração ou intercâmbio da informação cadastral e o registo dos mesmos;\n\nb) A obtenção de documentos cadastrais em formato digital e o acesso à informação cadastral, para efeitos de consulta ou de transferência de dados;\n\nc) A emissão e apresentação de declarações, comunicações e solicitações cadastrais;\n\nd) A utilização dos dados para o exercício das competências da DGT e das demais entidades e serviços públicos com competências no âmbito do SNIC;\n\ne) A identificação dos funcionários, agentes, e utilizadores que acedem à informação relativa à documentação e informação constante do SNIC;\n\nf) A configuração e o procedimento de inscrição do prédio na carta cadastral.\n\n3 - A troca de informações entre as várias entidades no âmbito do SNIC, deve ser efetuada com recurso à Plataforma de Interoperabilidade da Administração Pública (iAP).\n\n4 - A identificação eletrónica no âmbito do SNIC deve ser feita através da utilização dos meios de autenticação eletrónica com cartão de cidadão, Chave Móvel Digital ou outro meio alternativo de autenticação, bem como dos meios de identificação eletrónica emitidos noutros Estados-Membros reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.\n\n5 - A documentação submetida no âmbito do SNIC deve ser assinada com recurso a certificados eletrónicos qualificados, incluindo os do cartão de cidadão e Chave Móvel Digital, com possibilidade de recurso ao Sistema de Certificação de Atributos Profissionais, ou outros que constem da Lista Europeia de Serviços de Confiança, sem prejuízo da presunção de autoria prevista no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n6 - Os cidadãos e agentes económicos estão dispensados de apresentação de documentos em posse de qualquer serviço e organismo da Administração Pública, quando derem o seu consentimento para a sua obtenção, utilizando a iAP ou recorrendo ao mecanismo previsto no n.º 2 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n7 - Todos os acessos, consultas e operações de criação, alteração ou eliminação de dados do SNIC são armazenados por um período mínimo de 10 anos."
+  },
+  "220186638": {
+   "fragment_id": "220186766",
+   "type": 1,
+   "heading": "Capítulo III — Carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Carta cadastral"
+  },
+  "220186639": {
+   "fragment_id": "220186767",
+   "type": 11,
+   "heading": "Artigo 11.º — Inscrição na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inscrição na carta cadastral\n\n1 - A carta cadastral integra e disponibiliza ao público a configuração geométrica dos prédios cadastrados e os respetivos dados de caracterização e de identificação relativos à localização administrativa e geográfica e à área do prédio.\n\n2 - Com a inscrição na carta cadastral os prédios consideram-se como cadastrados, ficando a respetiva informação sujeita ao regime das operações de conservação de cadastro predial previstas no presente decreto-lei, bem como às regras de controlo e de fiscalização previstas no âmbito do SNIC.\n\n3 - A inscrição na carta cadastral é comunicada automaticamente ao IRN, I. P., no âmbito do SNIC e por interoperabilidade com o BUPi, para efeitos de associação ao número de identificação do prédio (NIP) já atribuído nos termos do regime do sistema de informação cadastral simplificada.\n\n4 - No âmbito do SNIC os titulares cadastrais podem obter, a todo o tempo, o comprovativo da inscrição dos prédios na carta cadastral e a emissão da respetiva ficha de prédio cadastrado."
+  },
+  "220186640": {
+   "fragment_id": "220186768",
+   "type": 11,
+   "heading": "Artigo 12.º — Ficha de prédio cadastrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ficha de prédio cadastrado\n\n1 - A ficha de prédio cadastrado é o documento cadastral que contém informação relativa a cada prédio cadastrado inscrito na carta cadastral e pode ser obtida, a todo o tempo, no âmbito do SNIC, através do portal único de serviços públicos e do BUPi.\n\n2 - O modelo e conteúdo da ficha de prédio cadastrado, em suporte digital ou em suporte físico analógico, são definidas pela DGT e publicitados, no âmbito do SNIC, através do portal único de serviços públicos e do BUPi.\n\n3 - A ficha de prédio cadastrado certificada, qualquer que seja o seu suporte de emissão, é válida pelo prazo máximo de seis meses a contar da data de emissão, estando a emissão dessa ficha sujeita ao pagamento dos encargos de certificação a estabelecer nos termos da portaria a que se refere o artigo 77.º\n\n4 - A alteração dos elementos e dados da ficha de prédio cadastrado ocorre sempre que se verifiquem alterações na configuração geométrica do prédio cadastrado ou dos dados dos titulares, no âmbito do procedimento aplicável às operações de conservação do cadastro predial.\n\n5 - A ficha de prédio cadastrado não pode ser objeto de reclamação ou recurso."
+  },
+  "220186641": {
+   "fragment_id": "220186769",
+   "type": 11,
+   "heading": "Artigo 13.º — Identificação do prédio na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Identificação do prédio na carta cadastral\n\n1 - Cada prédio cadastrado é identificado de forma unívoca, na sequência da sua inscrição na carta cadastral.\n\n2 - Quando ao prédio cadastrado tenha sido atribuído o NIP nos termos do regime do sistema de informação cadastral simplificada, a existência de configuração geométrica do prédio cadastrado inscrito na carta cadastral deve constar dos atributos do respetivo NIP.\n\n3 - Caso o prédio cadastrado esteja inscrito na carta cadastral e ao mesmo ainda não tenha sido atribuído o NIP, é obrigatório incluir a menção que o prédio está inscrito na carta cadastral em todos os documentos que titulem atos, negócios jurídicos ou operações urbanísticas sobre prédios cadastrados ou suas alterações."
+  },
+  "220186642": {
+   "fragment_id": "220186770",
+   "type": 11,
+   "heading": "Artigo 14.º — Substituição do prédio na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Substituição do prédio na carta cadastral\n\n1 - No caso de alterações que modifiquem o posicionamento de estremas de prédio ou que impliquem a divisão ou a anexação de prédios ou de partes de prédios, consideram-se os prédios originários como extintos, havendo lugar a nova inscrição dos prédios delas resultantes na carta cadastral, em substituição da anterior inscrição.\n\n2 - Não há lugar à substituição referida no número anterior, quando:\n\na) As alterações que modifiquem o posicionamento das estremas de prédios cadastrados correspondam exclusivamente a retificação por erro, sem fracionamento, sendo que nestes casos apenas há lugar a mera retificação da inscrição na carta cadastral;\n\nb) As alterações digam respeito a atributos dos titulares cadastrais ou dos prédios, sem alterar a configuração geométrica do prédio cadastrado.\n\n3 - A nova inscrição de prédio na carta cadastral em substituição de anterior é assegurada no âmbito do SNIC e comunicada à entidade executante, ao IRN, I. P., à AT, à autarquia local territorialmente competente e aos titulares cadastrais.\n\n4 - A alteração da inscrição do prédio na carta cadastral resultante de alterações da estrutura fundiária de prédio cadastrado obedece às normas e especificações técnicas aprovadas pela DGT, e publicitadas, no âmbito do SNIC, através do portal único de serviços públicos e BUPi."
+  },
+  "220186643": {
+   "fragment_id": "220186771",
+   "type": 11,
+   "heading": "Artigo 15.º — Harmonização cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Harmonização cadastral\n\n1 - No decurso de operação de execução de cadastro predial, de integração na carta cadastral, ou de conservação de cadastro predial deve ser assegurada, no âmbito do SNIC e através do BUPi, a harmonização da informação dos prédios, mediante a correspondência com o NIP já atribuído nos termos do regime do sistema de informação cadastral simplificada, ou, caso o NIP ainda não tenha sido atribuído, entre a inscrição do prédio cadastrado na carta cadastral, o número da descrição do registo predial e o artigo da inscrição matricial.\n\n2 - Para efeitos do disposto no número anterior, dos atributos do NIP atribuído a um prédio cadastrado deve ser sempre associada, através da interoperabilidade de dados no BUPi, a configuração geométrica do prédio cadastrado e inscrito na carta cadastral e os dados constantes do registo predial e da matriz predial.\n\n3 - Quando o NIP seja atribuído antes da inscrição do prédio na carta cadastral, os documentos que titulem atos, negócios jurídicos ou operações urbanísticas relativas ao prédio devem mencionar, expressamente, que o prédio não se encontra cadastrado, nem inscrito na carta cadastral.\n\n4 - Na situação referida no número anterior, a verificação da existência dos requisitos necessários à inscrição do prédio na carta cadastral deve ser efetuada no âmbito do procedimento da correspondente operação de execução de cadastro predial ou de integração na carta cadastral."
+  },
+  "220186644": {
+   "fragment_id": "220186772",
+   "type": 11,
+   "heading": "Artigo 16.º — Caracterização do prédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Caracterização do prédio\n\n1 - A caracterização de um prédio é o conjunto de dados referentes à localização administrativa e geográfica, configuração geométrica e área do prédio.\n\n2 - Os dados de caracterização de um prédio cadastrado constituem presunção da sua real localização, configuração e área para todos os efeitos legais, sem prejuízo do disposto nos números seguintes.\n\n3 - Quando no título de controlo prévio de operação urbanística válido e eficaz, ou noutro documento de controlo prévio legalmente exigível, conste a configuração geométrica do respetivo prédio, presume-se que esta corresponde à realidade fundiária, valendo para efeitos de caracterização do mesmo.\n\n4 - As presunções estabelecidas no presente artigo podem ser ilididas mediante prova do contrário e não prevalecem sobre o cumprimento das disposições legais e regulamentares aplicáveis, designadamente as referentes ao fracionamento de terrenos aptos para a cultura, ao regime jurídico da estruturação fundiária, ao regime jurídico da urbanização e da edificação e ao regime jurídico do domínio público."
+  },
+  "220186645": {
+   "fragment_id": "220186773",
+   "type": 1,
+   "heading": "Capítulo IV — Atividade cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Atividade cadastral"
+  },
+  "220186646": {
+   "fragment_id": "220186774",
+   "type": 11,
+   "heading": "Artigo 17.º — Intervenientes na atividade cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Intervenientes na atividade cadastral\n\n1 - Na atividade cadastral prevista no presente decreto-lei, intervêm os titulares cadastrais, os promotores e os executantes de cadastro predial.\n\n2 - São titulares cadastrais, as pessoas singulares ou coletivas, titulares de direitos reais que admitam o poder de disposição ou de alteração da configuração geométrica dos prédios sobre os quais incidem, designadamente de propriedade, de compropriedade, de propriedade horizontal ou de direito de superfície, bem como os compartes no caso dos baldios.\n\n3 - São promotores de cadastro predial as pessoas singulares ou as entidades responsáveis pela promoção de uma operação de execução de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial, nos termos do artigo seguinte.\n\n4 - São executantes de cadastro predial as pessoas singulares ou coletivas que, nos termos dos artigos 19.º e 20.º, estão legalmente habilitadas a exercer atividades ou a realizar trabalhos no domínio do cadastro predial, no âmbito das operações de execução de cadastro predial, de integração na carta cadastral, ou de conservação de cadastro predial."
+  },
+  "220186647": {
+   "fragment_id": "220256275",
+   "type": 11,
+   "heading": "Artigo 18.º — Promotores de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Promotores de cadastro predial\n\n1 - São promotores de cadastro predial:\n\na) A DGT;\n\nb) As CCDRs;\n\nc) As autarquias locais territorialmente competentes;\n\nd) A DGADR;\n\ne) A DGTF;\n\nf) A ESTAMO, S. A.;\n\ng) A FLORESTGAL, S. A.;\n\nh) As entidades gestoras nas áreas delimitadas como Zona de Intervenção Florestal (ZIF);\n\ni) As entidades gestoras das Áreas Integradas de Gestão da Paisagem (AIGP) e das Operações Integradas de Gestão da Paisagem (OIGP);\n\nj) As entidades expropriantes, no âmbito dos procedimentos de expropriação por utilidade pública;\n\nk) Outras entidades públicas que, no exercício das suas competências, promovam operações de transformação fundiária ou realizem atividades ou trabalhos no domínio do cadastro predial;\n\nl) As entidades privadas às quais sejam legalmente atribuídas competências para executar atividades ou trabalhos no domínio do cadastro predial.\n\n2 - Os titulares cadastrais podem ser promotores de cadastro predial, quando sobre os mesmos recaia a obrigação de execução de cadastro predial, nos termos do presente decreto-lei."
+  },
+  "220186648": {
+   "fragment_id": "220256276",
+   "type": 11,
+   "heading": "Artigo 19.º — Executantes de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Executantes de cadastro predial\n\n1 - São executantes de cadastro predial:\n\na) A DGT;\n\nb) As pessoas singulares e as pessoas coletivas legalmente habilitadas a exercer atividades e ou a realizar trabalhos no domínio do cadastro predial, nos termos da Lei n.º 3/2015, de 9 de janeiro, e respetiva regulamentação, incluindo:\n\ni) Os TCP inscritos na lista oficial dos técnicos de cadastro predial, cujo registo é disponibilizado no portal único de serviços públicos e no sítio institucional da DGT na Internet;\n\nii) As pessoas coletivas, públicas ou privadas, que realizem atividades ou trabalhos no domínio do cadastro predial através de TCP, nos termos do artigo seguinte.\n\n2 - Os promotores de atividades cadastrais podem ser executantes de cadastro predial, quando preencham os requisitos estabelecidos para esse efeito."
+  },
+  "220186649": {
+   "fragment_id": "220256277",
+   "type": 11,
+   "heading": "Artigo 20.º — Exercício de atividade cadastral por pessoa coletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Exercício de atividade cadastral por pessoa coletiva\n\n1 - O exercício de atividades e ou realização de trabalhos no domínio do cadastro predial pelas pessoas coletivas a que se refere a subalínea ii) da alínea b) do n.º 1 do artigo anterior, depende de mera comunicação prévia sem prazo, junto da DGT, enquanto autoridade nacional de cadastro predial.\n\n2 - A mera comunicação prévia é apresentada, junto da autoridade nacional de cadastro predial, em formulário próprio disponibilizado no âmbito do SNIC, no portal único de serviços públicos, no BUPi, e no sítio institucional da DGT na Internet, nos termos do previsto no artigo seguinte.\n\n3 - Sem prejuízo da produção imediata de efeitos prevista no n.º 1, com a apresentação da mera comunicação prévia, é emitido um comprovativo eletrónico no âmbito do SNIC, para pagamento da correspondente taxa, no prazo de oito dias, sob pena de caducidade da mera comunicação prévia.\n\n4 - As entidades comunicantes ficam habilitadas a exercer atividades e ou a realizar trabalhos no domínio do cadastro predial, pelo período de cinco anos após a data de liquidação da correspondente taxa, renovável automaticamente por períodos de igual duração, a contar do pagamento da taxa de renovação a que se refira a notificação da DGT para o efeito, no mesmo prazo e sob a mesma cominação referidos no número anterior.\n\n5 - O montante das taxas referidas nos n.os 3 e 4 é definido pela portaria a que se refere o artigo 77.º\n\n6 - A cessação do exercício de atividades e ou da realização de trabalhos a que se refere o presente artigo, em território nacional, é comunicada à DGT, no âmbito do SNIC, no portal único de serviços públicos, no sítio institucional da DGT na Internet e no BUPi, no prazo de 60 dias a contar da data de cessação.\n\n7 - O exercício de atividades e ou realização de trabalhos no domínio do cadastro predial, bem como os procedimentos aplicáveis relativos aos imóveis do domínio público e privado do Estado é regulado por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da justiça, das finanças e do ordenamento do território, a publicar no prazo de 60 dias a contar da data de entrada em vigor do presente decreto-lei."
+  },
+  "220186650": {
+   "fragment_id": "220256278",
+   "type": 11,
+   "heading": "Artigo 21.º — Procedimento de mera comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Procedimento de mera comunicação prévia\n\nA submissão do formulário a que se refere o n.º 2 do artigo anterior depende da:\n\na) Identificação da norma habilitante ou de apresentação do código de acesso online à certidão permanente do registo comercial que comprove o enquadramento da atividade exercida no código adequado constante da Classificação Portuguesa de Atividades Económicas, Revisão 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual, consoante se trate de entidade pública ou privada;\n\nb) Apresentação de documento que ateste que a pessoa coletiva se encontra legalmente estabelecida num Estado-Membro da União Europeia para exercício de atividade e ou realização de trabalhos no domínio do cadastro predial, se aplicável;\n\nc) Entrega de declaração na qual o comunicante se obriga a respeitar as disposições legais e regulamentares aplicáveis e as NETCP em vigor, bem como declare que dispõe de diretor técnico responsável pelas operações de execução de cadastro predial, habilitado como TCP, e, ainda, dos demais meios humanos e técnicos adequados para o exercício de atividades e ou realização de trabalhos no domínio do cadastro predial."
+  },
+  "220186651": {
+   "fragment_id": "220256279",
+   "type": 11,
+   "heading": "Artigo 22.º — Termo de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Termo de responsabilidade\n\nO modelo de termo de responsabilidade a subscrever por executante de cadastro predial é aprovado pela DGT e disponibilizado no âmbito do SNIC, no qual consta a indicação sumária das disposições legais e regulamentares, bem como a referência expressa ao cumprimento das NETCP aplicáveis às operações de execução de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial."
+  },
+  "220186652": {
+   "fragment_id": "220256280",
+   "type": 11,
+   "heading": "Artigo 23.º — Deveres dos titulares cadastrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Deveres dos titulares cadastrais\n\n1 - Os titulares cadastrais têm o dever de:\n\na) Colaborar na realização de operações de execução de cadastro predial para recolha dos dados necessários à caracterização dos prédios;\n\nb) Fornecer todos os dados e informações relativos à titularidade e ao prédio de que disponham, seja por iniciativa própria, seja em cumprimento do disposto no presente decreto-lei ou em legislação específica;\n\nc) Participar no âmbito da consulta pública das operações de execução de cadastro predial, nos termos do presente decreto-lei e legislação específica;\n\nd) Comunicar quaisquer atos ou negócios jurídicos que impliquem alterações na configuração geométrica dos prédios, quando essa obrigação não recaia sobre as entidades a que se refere o n.º 2 do artigo 54.º;\n\ne) Assegurar que os dados relativos à caracterização do prédio cadastrado estão atualizados na carta cadastral, através dos mecanismos de conservação previstos no presente decreto-lei, sempre que ocorra a alteração da configuração geométrica do prédio, mesmo que não implique a alteração da área;\n\nf) Desenvolver todas as diligências necessárias à harmonização da informação cadastral, matricial e registal.\n\n2 - Para efeitos do disposto nas alíneas e) e f) do número anterior, os titulares cadastrais devem promover a atualização dos dados dos prédios, no prazo e termos definidos no n.º 4 do artigo 52.º, sob pena de aplicação da cominação prevista na alínea d) do n.º 1 do artigo 67.º"
+  },
+  "220186653": {
+   "fragment_id": "220256281",
+   "type": 11,
+   "heading": "Artigo 24.º — Deveres dos promotores de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Deveres dos promotores de cadastro predial\n\nOs promotores de cadastro predial têm o dever de:\n\na) Promover a realização de operações de execução de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial;\n\nb) Promover a realização das operações de execução sistemática de cadastro predial em articulação com as autarquias locais territorialmente competentes sempre que a entidade promotora não seja essa autarquia, e com as demais entidades competentes com jurisdição na área territorial abrangida, em todos os casos;\n\nc) Desencadear operações de execução de cadastro predial, de integração na carta cadastral, e de conservação de cadastro predial, ou a retificação dos elementos e de dados dos prédios cadastrados de que sejam proprietários;\n\nd) Iniciar e gerir os procedimentos inerentes à realização dos trabalhos da operação de execução de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial por executante de cadastro predial legalmente habilitado, quando for o caso;\n\ne) Definir os prazos das várias fases da operação de execução sistemática de cadastro predial e elaborar o cronograma de execução material da operação quando esta for da sua iniciativa;\n\nf) Divulgar, anunciar e publicitar as operações de execução sistemática de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial, respeitando o definido nos procedimentos e nas NETCP;\n\ng) Apoiar os titulares cadastrais, de preferência, através da rede de balcões de atendimento local previstos no regime do sistema de informação cadastral simplificada;\n\nh) Colaborar com os titulares cadastrais nas operações de execução simples e de conservação de cadastro predial;\n\ni) Facultar o acesso à informação de que disponham e que seja considerada relevante na área abrangida por operação de execução de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial;\n\nj) Disponibilizar cópia em suporte digital dos documentos de apoio à realização de operações de execução de cadastro predial ou de integração na carta cadastral da sua iniciativa, sempre que solicitado pela DGT no exercício das respetivas competências de fiscalização."
+  },
+  "220186654": {
+   "fragment_id": "220256282",
+   "type": 11,
+   "heading": "Artigo 25.º — Deveres dos executantes de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Deveres dos executantes de cadastro predial\n\nOs executantes de cadastro predial têm o dever de:\n\na) Garantir o cumprimento das disposições legais e regulamentares aplicáveis ao exercício de atividades e ou trabalhos no domínio do cadastro predial;\n\nb) Assegurar o cumprimento das NETCP, designadamente a aplicação das regras de delimitação e demarcação de prédios, quando aplicável;\n\nc) Assegurar a recolha dos documentos legalmente exigíveis no âmbito da realização de operações de execução de cadastro predial, de integração na carta cadastral e de conservação de cadastro predial;\n\nd) Desenvolver todas as diligências necessárias à recolha dos dados necessários a garantir a correspondência entre a informação cadastral e a informação constante das descrições prediais e das inscrições matriciais;\n\ne) Assegurar os meios técnicos e humanos para o exercício da atividade de cadastro predial, necessários em cada operação;\n\nf) Assegurar o respeito pelo dever de sigilo sobre a informação recolhida relativa a dados pessoais dos titulares cadastrais e dos titulares confinantes, incluindo de que os seus funcionários ou colaboradores tenham conhecimento no âmbito da sua atividade;\n\ng) Garantir que o exercício da atividade profissional ou a realização de trabalhos no domínio do cadastro predial se encontra coberto por seguro de responsabilidade civil adequado à natureza e dimensão do risco ou coberta por prestação de garantia ou instrumento equivalente que cubra os mesmos riscos, incluindo a subcontratação de serviços de cadastro predial e o recurso à colaboração de terceiros nos termos do artigo 5.º da Lei n.º 3/2015, de 9 de janeiro;\n\nh) Apresentar mera comunicação prévia junto da autoridade nacional de cadastro predial quando se trate de pessoa coletiva que pretenda exercer atividades e ou realizar trabalhos no domínio do cadastro predial através de TCP;\n\ni) Garantir o cumprimento dos demais deveres e responsabilidades emergentes do exercício da respetiva atividade profissional."
+  },
+  "220186655": {
+   "fragment_id": "220256283",
+   "type": 1,
+   "heading": "Capítulo V — Operações de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Operações de cadastro predial"
+  },
+  "220186656": {
+   "fragment_id": "220256284",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "220186657": {
+   "fragment_id": "220256285",
+   "type": 11,
+   "heading": "Artigo 26.º — Operações de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Operações de cadastro predial\n\nO exercício da atividade de cadastro predial compreende a realização das seguintes operações:\n\na) Execução de cadastro predial;\n\nb) Integração na carta cadastral;\n\nc) Conservação de cadastro predial."
+  },
+  "220186658": {
+   "fragment_id": "220256286",
+   "type": 8,
+   "heading": "Secção II — Execução de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Execução de cadastro predial"
+  },
+  "220256430": {
+   "fragment_id": "220256358",
+   "type": 11,
+   "heading": "Artigo 27.º — Operações de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Operações de execução\n\n1 - As operações de execução de cadastro predial consistem na realização dos trabalhos e dos procedimentos para execução metódica de recolha e tratamento dos dados que caracterizam e identificam os prédios, podendo incidir sobre um único prédio ou um conjunto de prédios.\n\n2 - As operações de execução de cadastro predial podem abranger:\n\na) Qualquer área contígua do território nacional que não tenha sido sujeita a operação de execução de cadastro predial ou de cadastro geométrico de propriedade rústica (CGPR), incluindo todos os prédios que nela se localizem, exceto se quanto a esses prédios exista representações gráficas georreferenciadas (RGG) que assuma a natureza de cadastro predial, ao abrigo do regime do sistema de informação cadastral simplificada;\n\nb) O prédio ou conjunto de prédios não representados nas secções cadastrais dos concelhos em regime de CGPR;\n\nc) O prédio ou conjunto de prédios não cadastrados localizados em área abrangida por operação de execução de cadastro predial concluída;\n\nd) O prédio ou conjunto de prédios que, tendo sido abrangidos por uma operação de execução de cadastro experimental, não foram, adequada e ou suficientemente, identificados ou caracterizados, tendo ficado em situação de cadastro diferido, ao abrigo do artigo 23.º do Decreto-Lei n.º 224/2007, de 31 de maio, na sua redação atual.\n\n3 - As operações de execução de cadastro predial estão sujeitas ao cumprimento das disposições legais e regulamentares aplicáveis e das NETCP aprovadas pela DGT.\n\n4 - O procedimento aplicável às operações de execução obedece às formalidades obrigatórias em matéria de titularidade, de habilitação do executante de cadastro predial, de publicitação da operação e consulta pública nos termos das subsecções i e ii.\n\n5 - Nos concelhos em que se aplique o regime do sistema de informação cadastral simplificada, e quanto aos prédios cuja informação resultante de RGG não possa assumir a natureza de cadastro predial nos termos do n.º 3 do artigo 5.º desse regime, as operações de execução de cadastro predial aproveitam os recursos, os trabalhos e a informação produzida nesse âmbito, sem prejuízo do disposto nos números anteriores.\n\n6 - Os prédios a que se refere a alínea d) do n.º 2 ficam sujeitos ao regime previsto no artigo 32.º"
+  },
+  "220256431": {
+   "fragment_id": "220256359",
+   "type": 11,
+   "heading": "Artigo 28.º — Modalidades de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Modalidades de execução\n\n1 - As operações de execução de cadastro predial podem revestir as seguintes modalidades:\n\na) Execução sistemática;\n\nb) Execução simples.\n\n2 - As operações de execução sistemática de cadastro predial incidem sobre uma área geográfica delimitada e contígua do território nacional, abrangendo todos prédios localizados nessa área, realizadas de modo contínuo, sistematizado e programado, sendo publicitadas e submetidas a consulta pública nos termos referidos na subsecção i.\n\n3 - As operações de execução simples de cadastro predial incidem sobre um único prédio ou sobre um conjunto de prédios não cadastrados contíguos pertencentes ao mesmo titular cadastral, que se localizem em área geográfica já cadastrada, e são obrigatoriamente promovidas pelo titular cadastral, estando sujeitas à apresentação de declaração de aceitação dos titulares cadastrais e, se necessário, dos confinantes, nos termos referidos na subsecção ii."
+  },
+  "220256432": {
+   "fragment_id": "220256360",
+   "type": 11,
+   "heading": "Artigo 29.º — Delimitação e demarcação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Delimitação e demarcação\n\n1 - Os titulares de prédios localizados em áreas abrangidas por operações de execução de cadastro predial e os titulares dos prédios confinantes com o perímetro da referida operação podem, por si ou através de representante legalmente mandatado para o efeito, proceder à demarcação dos respetivos prédios nos prazos e condições fixados pelo promotor de cadastro predial e de acordo com as NETCP aprovadas pela DGT.\n\n2 - A delimitação de estrema de prédio confinante com prédios do domínio público deve respeitar o auto ou o ato da entidade legalmente competente para o efeito.\n\n3 - Na ausência de auto ou ato da entidade competente para a delimitação do domínio público, ou não tendo esta delimitação ocorrido no decurso da operação de execução de cadastro predial, a delimitação do prédio a cadastrar presume-se correta até decisão em contrário da entidade competente.\n\n4 - Nos casos previstos no número anterior a operação de execução é notificada à entidade competente, pelo promotor de cadastro predial, no início da operação de execução sistemática de cadastro predial.\n\n5 - Nas áreas abrangidas por operações de execução de cadastro predial, presume-se que a demarcação dos prédios, quando exista, foi feita com a concordância de todos os titulares cadastrais que nela intervieram, sem prejuízo do direito de impugnação que lhes assiste."
+  },
+  "220256433": {
+   "fragment_id": "220256361",
+   "type": 11,
+   "heading": "Artigo 30.º — Prédios não cadastrados em áreas abrangidas por operação de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Prédios não cadastrados em áreas abrangidas por operação de execução\n\n1 - Em áreas abrangidas por operação de execução de cadastro predial consideram-se como prédios não cadastrados os prédios que se encontrem numa das seguintes situações:\n\na) Os dados obtidos no âmbito da realização da operação de execução de cadastro predial não permitiram proceder à caracterização e identificação do prédio;\n\nb) Esteja pendente ação judicial que possa conduzir a uma alteração dos dados relevantes para a caracterização e a identificação do prédio e respetiva inscrição na carta cadastral;\n\nc) Tenha sido apresentada reclamação no decurso da consulta pública realizada no âmbito de operação de execução sistemática de cadastro predial, que tenha conduzido a uma impossibilidade de caracterização ou de identificação do prédio;\n\nd) Não haja acordo entre titulares quanto à localização de alguma das respetivas estremas do prédio;\n\ne) Se verifique a sobreposição da configuração geométrica, no todo ou em parte, entre prédios confinantes;\n\nf) Não reúnam condições para assumir natureza de cadastro predial ao abrigo do regime do sistema de informação cadastral simplificada, designadamente, por sobreposição de alguma das suas estremas ou falta de harmonização;\n\ng) Estejam em situação de cadastro diferido no âmbito de operações de execução realizadas ao abrigo do regime de cadastro predial experimental aprovado pelo Decreto-Lei n.º 224/2007, de 31 de maio, na sua redação atual.\n\n2 - Nas situações previstas no número anterior, e até à inscrição do prédio na carta cadastral, os atos, negócios jurídicos ou operações urbanísticas que impliquem alteração da configuração geométrica ou das estremas dos prédios, obrigam a que seja promovido o procedimento de operação de execução simples de cadastro predial, a realizar no prazo de 60 dias a contar da data do facto, ato ou negócio que lhe deu origem, nos termos referidos na subsecção ii.\n\n3 - Os atos, negócios jurídicos, ou as permissões administrativas que incidam sobre os prédios a que se refere a alínea g) do n.º 1 só podem ser realizados caso o prédio tenha sido previamente submetido a operação de execução simples de cadastro predial, nos termos referidos na subsecção ii.\n\n4 - Nos casos previstos no número anterior é obrigatória a apresentação da respetiva ficha de prédio cadastrado, obtida no âmbito do SNIC, através do BUPi, salvo nos casos relativos a imóveis do domínio público e privado do Estado, cujo procedimento é fixado na portaria prevista no n.º 7 do artigo 20.º\n\n5 - Nos atos ou negócios jurídicos relativos a prédios nas situações referidas no n.º 1, que apenas impliquem alteração dos respetivos titulares, deve constar a menção expressa à obrigação dos titulares promoverem operação de execução simples de cadastro predial, no prazo de 60 dias úteis, e nos termos referidos na subsecção ii, quando o prédio esteja omisso no registo predial.\n\n6 - Nas situações referidas no número anterior, deve o IRN, I. P., no prazo de 30 dias após a data da realização do registo, assegurar a atribuição do NIP nos termos do regime do sistema de informação cadastral simplificada, bem como anotar na descrição predial respetiva a menção da inscrição do prédio na carta cadastral em resultado da realização da operação de execução simples de cadastro predial obrigatória referida no n.º 2.\n\n7 - Os titulares cadastrais são responsáveis pelas consequências, para si e para terceiros, da situação de indefinição cadastral dos prédios localizados em área abrangida por operação de execução de cadastro predial concluída que se encontrem em alguma das situações previstas no n.º 1.\n\n8 - Nos casos previstos no n.º 1 os titulares cadastrais estão impedidos de promover o procedimento de RGG no BUPi, e estão obrigados a realizar operação de execução simples de cadastro predial nos termos do n.º 2."
+  },
+  "220256434": {
+   "fragment_id": "220256362",
+   "type": 11,
+   "heading": "Artigo 31.º — Prédios em situação de cadastro transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Prédios em situação de cadastro transitório\n\n1 - Sempre que no âmbito da realização de uma operação de execução de cadastro predial ou de integração na carta cadastral não seja possível fazer a correspondência da informação cadastral com os dados da descrição do registo predial, e com os do artigo matricial, os prédios consideram-se não harmonizados, ficando em situação de cadastro transitório.\n\n2 - Os prédios em situação de cadastro transitório nos termos do número anterior consideram-se prédios cadastrados, são inscritos na carta cadastral e estão sujeitos a operação de conservação.\n\n3 - A harmonização da informação cadastral com os dados da inscrição matricial e da descrição do registo predial pode ocorrer a todo o tempo, sendo, obrigatoriamente, promovida pelos titulares cadastrais, através de operações de conservação, no prazo de 60 dias após a primeira alteração dos dados cadastrais relativa à configuração geométrica do prédio cadastrado, ao registo predial ou às matrizes prediais, por ato, negócio jurídico ou operação urbanística.\n\n4 - Os dados de caracterização e de identificação dos prédios cadastrados em situação de cadastro transitório que não estejam descritos no registo predial, presumem-se corretos, não podendo tais prédios ser descritos em desconformidade com a informação cadastral quanto à sua localização administrativa e geográfica, configuração geométrica e área.\n\n5 - O disposto no número anterior não prejudica a promoção da retificação dos erros devidamente comprovados e as operações de conservação de cadastro predial.\n\n6 - A divergência de área do prédio entre o título e os dados constantes do cadastro predial, que ultrapasse os limites definidos nas condições para dispensa de harmonização previstas no artigo 28.º-A do Decreto-Lei n.º 224/84, de 6 de julho, na sua redação atual, pode ser sanada por declaração do titular e dos confinantes, na qual se confirme que a configuração geométrica do prédio constante do cadastro não sofreu alterações."
+  },
+  "220256435": {
+   "fragment_id": "220256363",
+   "type": 11,
+   "heading": "Artigo 32.º — Prédios não cadastrados nos concelhos em regime de cadastro geométrico de propriedade rústica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Prédios não cadastrados nos concelhos em regime de cadastro geométrico de propriedade rústica\n\n1 - Nos concelhos em regime de CGPR, todos os prédios não cadastrados e não inscritos na carta cadastral ou que não tenham RGG validada sem reserva ao abrigo do regime do sistema de informação cadastral simplificada, ficam sujeitos a:\n\na) Operação de execução sistemática de cadastro predial, promovida por promotor de cadastro predial nos termos da subsecção i; ou\n\nb) Operação de execução simples de cadastro predial, promovida, a todo o tempo, pelo titular cadastral nos termos da subsecção ii.\n\n2 - As operações de execução sistemática de cadastro predial realizadas nos termos da alínea a) do número anterior, devem respeitar a configuração geométrica dos prédios cadastrados inscritos na carta cadastral, com exceção das situações em que, comprovadamente se verifique que a respetiva caracterização se encontra desatualizada.\n\n3 - Com a inscrição na carta cadastral, os prédios localizados nos concelhos em regime de CGPR consideram-se em regime de cadastro predial, ficando sujeitos ao procedimento de operação de conservação de cadastro predial previsto no presente decreto-lei."
+  },
+  "220186659": {
+   "fragment_id": "220256287",
+   "type": 3,
+   "heading": "Subsecção I — Procedimento de execução sistemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Procedimento de execução sistemática"
+  },
+  "220186660": {
+   "fragment_id": "220256288",
+   "type": 11,
+   "heading": "Artigo 33.º — Legitimidade para a promoção do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Legitimidade para a promoção do procedimento\n\n1 - O procedimento de operação de execução sistemática de cadastro predial é promovido pelos promotores de cadastro predial referidos no n.º 1 do artigo 18.º, sendo que as atividades ou os trabalhos no domínio do cadastro predial, devem ser executados pelos executantes de cadastro predial legalmente habilitados para o efeito, nos termos dos artigos 19.º e 20.º\n\n2 - Em ZIF, área ou operação integrada de gestão da paisagem (AIGP ou OIGP), os promotores de cadastro predial identificados no n.º 1 do artigo 18.º, podem desencadear procedimentos de operação de execução sistemática de cadastro predial, por sua iniciativa ou dos respetivos titulares."
+  },
+  "220186661": {
+   "fragment_id": "220256289",
+   "type": 11,
+   "heading": "Artigo 34.º — Início da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Início da operação\n\n1 - A operação de execução sistemática de cadastro predial inicia-se, no âmbito do SNIC e através do BUPi, com a publicitação, pelo promotor de cadastro predial, de aviso a divulgar a área e a programação da operação.\n\n2 - O aviso a que se refere o número anterior é publicitado com a antecedência mínima de 60 dias em relação à data de início da recolha de dados, no respetivo sítio institucional do promotor na Internet, no BUPi, no Portal das Finanças, no portal de serviços públicos, e através de editais a afixar nos lugares de estilo, designadamente nas câmaras municipais e nas juntas de freguesia, nos serviços de finanças, nas conservatórias do registo predial e nos balcões e espaços cidadão, da área territorial abrangida pela operação de execução sistemática de cadastro predial, bem como por meio de anúncio divulgado em meio de imprensa e ou de comunicação social.\n\n3 - A divulgação da operação de execução sistemática de cadastro predial é acompanhada da identificação dos seguintes elementos:\n\na) A delimitação da área a cadastrar;\n\nb) A programação das ações a desenvolver e das fases de execução material da operação, com indicação do prazo de duração, dos prazos previsíveis para a contratação do executante de cadastro predial quando aplicável, das ações de mobilização dos proprietários para recolha de dados, da realização e dos prazos da consulta pública, bem como das datas de apresentação da identificação e caracterização dos prédios no âmbito do SNIC;\n\nc) Os locais de funcionamento dos gabinetes de atendimento do executante de cadastro predial para efeitos de recolha dos dados, incluindo de titularidade, e de reclamações;\n\nd) As NETCP por remissão para o sítio institucional da DGT na Internet.\n\n4 - Com a publicitação do início da operação a área a cadastrar é validada no âmbito do SNIC, podendo ser rejeitada no prazo de 10 dias, por comunicação, gerada automaticamente e enviada ao promotor da operação de cadastro predial, quando:\n\na) A delimitação da operação de execução apresente sobreposição com área cadastrada ou com operação de execução sistemática em curso;\n\nb) O promotor de cadastro predial não esteja legalmente habilitado a promover ou a executar operações de execução de cadastro predial ou o executante de cadastro predial não esteja habilitado a executar atividades e ou a realizar trabalhos no domínio do cadastro predial, nos termos da lei e dos artigos 20.º e 21.º\n\n5 - Findo o prazo previsto no número anterior sem que tenha havido rejeição expressa considera-se validada a área a cadastrar, ficando disponível ao público, no âmbito do SNIC, a informação a que se refere o n.º 3 e a indicação do promotor de cadastro predial responsável pela operação sistemática de execução cadastral em causa.\n\n6 - Quando o promotor não for o executante de cadastro predial e este não estiver designado no início da operação de execução sistemática, o promotor comunica à autoridade nacional de cadastro predial, no âmbito do SNIC e através do BUPi, a identificação do executante responsável pela operação de cadastro em causa, com a antecedência de 10 dias relativamente à data de início da fase de mobilização dos proprietários para a recolha de dados.\n\n7 - Os prazos previstos para a execução material da operação de execução sistemática de cadastro predial podem ser alterados por motivos não imputáveis ao executante de cadastro predial, mediante apresentação, no âmbito do SNIC e através do BUPi, de requerimento dirigido à autoridade nacional de cadastro predial, devidamente fundamentado.\n\n8 - O requerimento referido no número anterior é sujeito a aprovação da autoridade nacional de cadastro predial, no prazo de 10 dias a contar da respetiva apresentação, sendo que a aprovação da prorrogação de prazos é objeto de publicitação nos termos do n.º 2.\n\n9 - O prazo final para a conclusão da operação de execução sistemática de cadastro predial pode ser prorrogado por uma única vez e por um período máximo igual ao previamente estabelecido.\n\n10 - O não cumprimento dos prazos estabelecidos para a realização da operação de execução sistemática de cadastro predial, bem como a falta de habilitação legal do promotor ou do executante de cadastro predial, determinam a caducidade do procedimento e a abertura de novo procedimento.\n\n11 - A realização da operação de execução sistemática de cadastro predial é comunicada pela autoridade nacional de cadastro predial, automaticamente, no âmbito do SNIC, à entidade gestora do património imobiliário do Estado e às entidades responsáveis pela delimitação do domínio público.\n\n12 - Enquanto estiver a decorrer uma operação de execução sistemática de cadastro predial, as iniciativas de RGG de prédios, no âmbito do regime do sistema de informação cadastral simplificada, são obrigatoriamente dadas a conhecer ao executante de cadastro predial responsável por essa operação de execução sistemática o âmbito do SNIC e por acesso à informação dos procedimentos de RGG elaborados e registados no BUPi.\n\n13 - No primeiro ato de liquidação do imposto municipal sobre imóveis que ocorra após o início da operação de execução sistemática de cadastro predial, a AT comunica aos sujeitos passivos da área das freguesias abrangidas pela operação de execução em causa que a mesma se encontra a decorrer, informando dos locais onde aqueles se devem dirigir para fornecimento de dados e caracterização dos respetivos prédios."
+  },
+  "220186662": {
+   "fragment_id": "220256290",
+   "type": 11,
+   "heading": "Artigo 35.º — Trabalhos de campo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Trabalhos de campo\n\n1 - Os trabalhos de campo destinados à recolha de dados caracterizadores e identificadores dos prédios integrados na área abrangida pela operação de execução sistemática de cadastro predial são realizados pelo executante de cadastro predial no prazo previsto na programação da execução material da operação divulgada publicamente.\n\n2 - Para efeitos do número anterior, o executante de cadastro predial pode:\n\na) Solicitar o apoio das entidades e serviços públicos, incluindo autoridades policiais;\n\nb) Aceder às áreas não edificadas de prédios e de acesso às edificações.\n\n3 - No âmbito dos trabalhos de campo são recolhidos, pelo executante de cadastro predial, os seguintes elementos:\n\na) O formulário com os dados relativos aos titulares e ao prédio em modelo a aprovar pela DGT;\n\nb) Os elementos cartográficos que permitam localizar as estremas de cada prédio a cadastrar;\n\nc) A localização dos marcos ou marcas de propriedade;\n\nd) Quaisquer outros elementos considerados relevantes para efeitos de caracterização e identificação dos prédios a cadastrar.\n\n4 - Os serviços e organismos da administração direta e indireta do Estado, bem como outras entidades, que detenham dados relevantes para o sucesso da operação de execução sistemática de cadastro predial, devem disponibilizar esses dados, sempre que solicitado, ao promotor, ao executante de cadastro predial ou à autoridade nacional de cadastro predial.\n\n5 - A cedência dos dados a que se refere o número anterior faz-se nos termos do regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos, aprovada pela Lei n.º 26/2016, de 22 de agosto, na sua redação atual."
+  },
+  "220186663": {
+   "fragment_id": "220256291",
+   "type": 11,
+   "heading": "Artigo 36.º — Titularidade dos prédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Titularidade dos prédios\n\n1 - Para efeitos da operacionalização de operação de execução sistemática de cadastro predial, são de recolha obrigatória os dados do titular cadastral que o associam ao seu prédio e que permitam a adequada identificação e caracterização desse prédio.\n\n2 - São dados de recolha obrigatória, sempre que existam, os seguintes:\n\na) Nome ou designação social do titular e demais dados relativos à titularidade do prédio a cadastrar;\n\nb) Número de identificação fiscal do titular;\n\nc) Domicílio do titular por referência ao lugar de residência habitual ou sede, com indicação do endereço postal;\n\nd) Endereço de correio eletrónico, bem como de contacto telefónico;\n\ne) Número da descrição do prédio no registo predial;\n\nf) Número da inscrição do prédio na matriz predial.\n\n3 - Podem ser recolhidos outros dados ou documentos necessários à boa instrução do procedimento.\n\n4 - Nas situações de comunhão ou compropriedade de prédios, são recolhidos os dados de todos os contitulares ou comproprietários, incluindo da proporção do prédio que pertence sem determinação de parte ou direito a cada um.\n\n5 - No caso de representante legal do titular cadastral, devem ser igualmente recolhidos os dados de identificação do representante que constam das alíneas a) a d) do n.º 2, devendo a menção à representação ficar expressamente indicada.\n\n6 - Consideram-se não cadastrados os prédios em que não seja possível obter a informação prevista nas alíneas a) a c), e) e f) do n.º 2.\n\n7 - Os dados referidos nos n.os 2 a 4, são recolhidos, sempre que possível, mediante interoperabilidade de dados da AT e do IRN, I. P., através do BUPi, presumindo-se como corretos, sem prejuízo da necessidade de prestação de esclarecimentos e disponibilização de documentação complementar relevante pelo titular."
+  },
+  "220186664": {
+   "fragment_id": "220256292",
+   "type": 11,
+   "heading": "Artigo 37.º — Caracterização provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Caracterização provisória\n\n1 - Após a recolha de dados, a caracterização provisória dos prédios é submetida no âmbito do SNIC, pelo executante de cadastro predial, no prazo máximo de 90 dias, com base nos elementos recolhidos nos trabalhos de campo e nas informações apresentadas pelos titulares cadastrais.\n\n2 - A caracterização provisória é acompanhada do termo de responsabilidade subscrito pelo executante de cadastro predial, conforme modelo a aprovar pela DGT, dele devendo constar, expressamente, que foram observadas as disposições legais e regulamentares e as NETCP aplicáveis à respetiva operação de execução sistemática de cadastro predial.\n\n3 - O executante de cadastro predial tem a faculdade de notificar os titulares cadastrais para prestar os esclarecimentos ou disponibilizar a documentação complementar relevante para proceder à caracterização do prédio e verificação do cumprimento das disposições legais e regulamentares aplicáveis e das NETCP.\n\n4 - No caso de prédios ou terrenos confinantes com área de domínio público, na falta de auto ou procedimento de delimitação com aquele, prevalece, a todo o tempo, o limite que venha a ser definido pela entidade legalmente competente.\n\n5 - Sempre que na área da operação de execução sistemática de cadastro predial se localizem prédios cadastrados, é respeitada a sua configuração geométrica, com exceção das situações em que, comprovadamente se verifique que a respetiva caracterização se encontra desatualizada, aplicando-se nesse caso o procedimento de operação de conservação de cadastro predial."
+  },
+  "220186665": {
+   "fragment_id": "220256293",
+   "type": 11,
+   "heading": "Artigo 38.º — Consulta pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Consulta pública\n\n1 - A caracterização provisória dos prédios abrangidos por operação de execução sistemática de cadastro predial é objeto de consulta pública, a publicitar pelo promotor de cadastro predial com a antecedência mínima de 30 dias.\n\n2 - A consulta pública prevista no número anterior é efetuada no âmbito do SNIC, mediante aviso no respetivo sítio institucional do promotor na Internet, no BUPi, no Portal das Finanças, no portal de serviços públicos e por editais afixados nos locais de estilo, designadamente nas câmaras municipais e nas juntas de freguesia da área territorial abrangida pela operação de execução sistemática de cadastro predial, de acordo com o modelo de aviso, aprovado pela DGT e disponibilizado no âmbito do SNIC.\n\n3 - O aviso referido no n.º 1 inclui a indicação do início e do termo do período da consulta pública, os locais onde se encontra disponível a caracterização provisória dos prédios, a identificação do executante de cadastro predial e o modo de apresentação de reclamações.\n\n4 - O prazo da consulta pública é o indicado no aviso de publicitação da operação de execução sistemática de cadastro predial, não podendo ser inferior a 30 dias.\n\n5 - O prazo de consulta pública pode ser prorrogado pela autoridade nacional de cadastro predial, mediante pedido do promotor, devidamente fundamentado, apresentado no âmbito do SNIC.\n\n6 - O promotor e o executante de cadastro predial prestam todos os esclarecimentos e informações solicitados pelos interessados no decurso da consulta pública.\n\n7 - Decorrido o período da consulta pública, o executante de cadastro predial elabora o relatório final, no qual procede à ponderação das reclamações apresentadas.\n\n8 - O relatório previsto no número anterior fica arquivado na autoridade nacional de cadastro predial e disponível no âmbito do SNIC."
+  },
+  "220186666": {
+   "fragment_id": "220256294",
+   "type": 11,
+   "heading": "Artigo 39.º — Reclamação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reclamação\n\n1 - Durante o período da consulta pública podem ser apresentadas reclamações relativas à caracterização provisória dos prédios, através de formulário eletrónico disponibilizado no âmbito do SNIC, através do BUPi.\n\n2 - As reclamações são objeto de parecer do executante de cadastro predial, a emitir no prazo máximo de 20 dias a contar da data da apresentação da reclamação.\n\n3 - Pode ser fixado um prazo diferente do previsto no número anterior pelo promotor na programação das ações a desenvolver e das fases de execução material da operação, publicitada nos termos do artigo 34.º\n\n4 - As reclamações são dadas a conhecer aos titulares cadastrais e ao executante de cadastro predial.\n\n5 - As reclamações são decididas pelo promotor de cadastro predial no prazo de 20 dias a contar da receção do parecer referido no número anterior.\n\n6 - O projeto de decisão relativo à reclamação que implique a alteração da localização das estremas de outros prédios é sujeito a audiência prévia dos respetivos titulares cadastrais, os quais dispõem de 10 dias para se pronunciarem sobre a proposta de alteração da estrutura predial.\n\n7 - Em caso de concordância de todos os titulares cadastrais sobre o projeto de decisão ou decorrido o prazo fixado no número anterior sem que algum dos titulares cadastrais apresente objeção expressa, o procedimento da operação de execução sistemática de cadastro predial prossegue.\n\n8 - Nos casos em que sejam apresentadas reclamações em que o promotor de cadastro predial seja simultaneamente titular cadastral, a decisão sobre as reclamações compete à autoridade nacional de cadastro predial, no prazo de 20 dias.\n\n9 - O deferimento da reclamação determina as alterações que dela decorram sobre a caracterização provisória do prédio em causa, a efetuar pelo executante de cadastro predial no prazo de 10 dias a contar desse deferimento.\n\n10 - Caso a decisão sobre a reclamação impeça que o prédio ou prédios sejam inscritos na carta cadastral, os mesmos consideram-se como prédios não cadastrados, aplicando-se o regime previsto no artigo 30.º\n\n11 - Da decisão sobre a reclamação referida no presente artigo não cabe recurso."
+  },
+  "220186667": {
+   "fragment_id": "220256295",
+   "type": 11,
+   "heading": "Artigo 40.º — Inscrição na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Inscrição na carta cadastral\n\n1 - Decorrido o prazo de consulta pública sem apresentação de reclamações ou decididas as reclamações apresentadas, a caracterização dos prédios, com exceção dos que se encontrem em situação de não cadastrados, é considerada definitiva.\n\n2 - O executante de cadastro predial submete a caracterização prevista no número anterior, no âmbito do SNIC, no prazo de 30 dias, para efeitos de inscrição dos prédios na carta cadastral.\n\n3 - A submissão da caracterização dos prédios a que se refere o número anterior é efetuada mediante formulário disponível no âmbito do SNIC, e através do BUPi, acompanhado da configuração geométrica dos prédios, dos formulários com os dados dos titulares e dos prédios, das declarações de confinantes quando legalmente exigíveis, bem como do termo de responsabilidade subscrito pelo executante de cadastro predial."
+  },
+  "220186668": {
+   "fragment_id": "220256296",
+   "type": 3,
+   "heading": "Subsecção II — Procedimento de execução simples de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Procedimento de execução simples de cadastro predial"
+  },
+  "220186669": {
+   "fragment_id": "220256297",
+   "type": 11,
+   "heading": "Artigo 41.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Legitimidade\n\n1 - Os titulares cadastrais podem promover, por sua iniciativa, e desde que realizadas por executante de cadastro predial, operações de execução simples de cadastro predial quando as mesmas incidam sobre um único prédio ou um conjunto de prédios não cadastrados, desde que estes, cumulativamente:\n\na) Sejam contíguos;\n\nb) Pertençam ao mesmo titular cadastral; e\n\nc) Estejam localizados em área geográfica já cadastrada.\n\n2 - A operação de execução simples de cadastro predial é voluntária salvo nos casos em que se preveja a sua realização obrigatória nos termos do presente decreto-lei."
+  },
+  "220186670": {
+   "fragment_id": "220256298",
+   "type": 11,
+   "heading": "Artigo 42.º — Recolha de dados e harmonização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Recolha de dados e harmonização\n\n1 - Previamente à abertura do procedimento no âmbito do SNIC, o executante de cadastro predial procede à recolha de dados, mediante a realização de trabalhos de campo.\n\n2 - No âmbito dos trabalhos de campo são recolhidos, pelo executante de cadastro predial habilitado, os seguintes dados:\n\na) Os elementos cartográficos que permitam localizar as estremas do prédio ou prédios a cadastrar;\n\nb) A localização dos marcos ou marcas de propriedade, quando existam;\n\nc) Quaisquer outros elementos considerados relevantes para efeitos de caracterização e de identificação do prédio ou prédios a cadastrar.\n\n3 - O executante de cadastro predial habilitado procede à caracterização e identificação do prédio ou prédios a cadastrar, com vista a assegurar a respetiva harmonização cadastral da informação, com base:\n\na) Nos elementos recolhidos nos trabalhos de campo;\n\nb) Nas informações prestadas pelos titulares cadastrais;\n\nc) Na consulta dos dados do prédio ou prédios constantes na inscrição matricial e na descrição do registo predial, através do BUPi;\n\nd) Na consulta de documentos necessários.\n\n4 - Nas situações em que se verifique a existência de erros ou incorreções nas áreas constantes da inscrição matricial e da descrição do registo predial, que ultrapassem os limites legalmente permitidos nos termos do artigo 28.º-A do Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho, na sua redação atual, o executante de cadastro predial habilitado deve promover a correspondente correção de modo a assegurar a respetiva harmonização."
+  },
+  "220186671": {
+   "fragment_id": "220256299",
+   "type": 11,
+   "heading": "Artigo 43.º — Início da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Início da operação\n\n1 - A operação de execução simples de cadastro predial inicia-se com a abertura do procedimento no âmbito do SNIC, através do BUPi, por executante de cadastro predial.\n\n2 - A operação prevista no número anterior é efetuada mediante submissão da caracterização do prédio de acordo com as NETCP, através de formulário eletrónico aprovado pela DGT.\n\n3 - A submissão da caracterização do prédio é acompanhada da configuração geométrica do prédio, dos dados de identificação dos titulares cadastrais e do prédio e do termo de responsabilidade subscrito por técnico habilitado."
+  },
+  "220186672": {
+   "fragment_id": "220256300",
+   "type": 11,
+   "heading": "Artigo 44.º — Submissão da caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Submissão da caracterização\n\n1 - Além dos elementos a que se refere o artigo anterior, a submissão da caracterização do prédio quando alguma das estremas não confronte com prédio já cadastrado é acompanhada por declaração de confinantes, de acordo com modelo aprovado pela autoridade nacional de cadastro predial e disponibilizado no âmbito do SNIC.\n\n2 - Na impossibilidade de identificar os titulares confinantes para efeitos de apresentação da declaração de confinantes, a caracterização do prédio é submetida a consulta pública, pelo período de 60 dias, findo o qual, e na ausência de reclamações, o prédio é inscrito na carta cadastral.\n\n3 - As reclamações apresentadas nos termos do número anterior, são analisadas pelo executante de cadastro predial habilitado, em articulação com o titular cadastral, sendo resolvidas no prazo de 15 dias.\n\n4 - Na falta de acordo entre o titular cadastral e os titulares de prédios confinantes no prazo referido no número anterior, o procedimento considera-se extinto.\n\n5 - Após submissão da caracterização do prédio efetuada nos termos dos n.os 1 a 3, o prédio é inscrito na carta cadastral."
+  },
+  "220186673": {
+   "fragment_id": "220256301",
+   "type": 8,
+   "heading": "Secção III — Integração na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Integração na carta cadastral"
+  },
+  "220186674": {
+   "fragment_id": "220256302",
+   "type": 11,
+   "heading": "Artigo 45.º — Operações de integração na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Operações de integração na carta cadastral\n\n1 - As operações de integração na carta cadastral consistem no processo de submissão da informação sobre a caracterização dos prédios que reúna as condições para assumir natureza de cadastro predial resultante de procedimentos regulados em legislação específica, e para inscrição na carta cadastral.\n\n2 - Estão sujeitos a operação de integração na carta cadastral os prédios que resultem de:\n\na) Emparcelamento rural ou valorização fundiária aprovados ao abrigo do Regime Jurídico da Estruturação Fundiária (RJEF) estabelecido pela Lei n.º 111/2015, de 27 de agosto, na sua redação atual;\n\nb) Plano de pormenor com efeitos registais em vigor, nos termos dos artigos 107.º e 108.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual;\n\nc) Operação de loteamento, de reparcelamento ou de destaque, ao abrigo do Regime Jurídico da Urbanização e da Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual;\n\nd) Declaração de utilidade pública para efeitos de expropriação, ao abrigo do Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de setembro, na sua redação atual;\n\ne) Procedimento em que a RGG assuma a natureza de cadastro predial ao abrigo do regime do sistema de informação cadastral simplificada;\n\nf) Prédios não cadastrados localizados em AIGP ou de OIGP que resultaram do procedimento previsto no artigo 20.º do Decreto-Lei n.º 28-A/2020, de 26 de junho, na sua redação atual.\n\n3 - Para efeitos da integração na carta cadastral dos prédios a que se refere a alínea e) do número anterior, a respetiva caracterização é acompanhada de termo de responsabilidade subscrito por técnico legalmente habilitado nos termos do artigo 8.º do regime do sistema de informação cadastral simplificada."
+  },
+  "220256375": {
+   "fragment_id": "220256303",
+   "type": 11,
+   "heading": "Artigo 46.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Regime aplicável\n\nAs operações de integração na carta cadastral a que se refere o artigo anterior observam o estabelecido no presente decreto-lei, nas disposições legais e regulamentares aplicáveis, e nas NETCP."
+  },
+  "220256376": {
+   "fragment_id": "220256304",
+   "type": 11,
+   "heading": "Artigo 47.º — Procedimento de integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Procedimento de integração\n\n1 - O procedimento de integração de prédio ou prédios na carta cadastral são da competência das entidades referidas nos artigos 48.º a 51.º\n\n2 - A entidade responsável pela operação de integração na carta cadastral submete a configuração geométrica dos prédios elaborada de acordo com a legislação aplicável e as NETCP, através de executante de cadastro.\n\n3 - A submissão da configuração geométrica dos prédios é efetuada mediante apresentação de formulário disponibilizado no âmbito do SNIC, acompanhado de termo de responsabilidade.\n\n4 - Quando a operação de integração na carta cadastral incida sobre prédios cadastrados, as alterações na respetiva configuração geométrica seguem o procedimento de operação de conservação de cadastro predial que podem ser promovidas pela respetiva autarquia local territorialmente competente ou pelos titulares cadastrais, no mesmo prazo previsto para a integração de prédios na carta cadastral.\n\n5 - Os prédios inscritos na carta cadastral em resultado da realização de operação de integração consideram-se harmonizados e cadastrados e a área abrangida fica em regime de cadastro predial."
+  },
+  "220256377": {
+   "fragment_id": "220256305",
+   "type": 11,
+   "heading": "Artigo 48.º — Operações de emparcelamento e de valorização fundiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Operações de emparcelamento e de valorização fundiária\n\n1 - São competentes pela integração na carta cadastral dos prédios que resultem de projetos de emparcelamento rural ou de valorização fundiária nos termos do RJEF:\n\na) A DGADR, nos projetos de emparcelamento rural integral, nos projetos de emparcelamento simples da iniciativa dos municípios e nos projetos de valorização fundiária que incluam projetos de emparcelamento integral;\n\nb) Os municípios, nos projetos de emparcelamento simples por eles aprovados e nos projetos de valorização fundiária que não incluam projetos de emparcelamento rural integral.\n\n2 - A DGADR, nas operações da sua competência, procede à integração na carta cadastral dos prédios resultantes de transformação fundiária, no prazo de 60 dias a contar da data do auto lavrado nos termos e para os efeitos do disposto no artigo 29.º do RJEF, ou da data da aprovação a que se refere o n.º 2 do artigo 9.º do RJEF, consoante o caso.\n\n3 - O município territorialmente competente, nas operações da sua competência, procede à integração na carta cadastral dos prédios resultantes da transformação fundiária, no prazo de 60 dias após a data da sua aprovação."
+  },
+  "220256378": {
+   "fragment_id": "220256306",
+   "type": 11,
+   "heading": "Artigo 49.º — Planos de pormenor, operações de loteamento, de reparcelamento e de destaque",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Planos de pormenor, operações de loteamento, de reparcelamento e de destaque\n\n1 - Os municípios territorialmente competentes são as entidades responsáveis pela operação de integração na carta cadastral dos prédios localizados em área abrangida por:\n\na) Plano de pormenor com efeitos registais, em vigor, nos termos do RJIGT;\n\nb) Operação de loteamento ou de reparcelamento sujeitas ao RJUE.\n\n2 - Os titulares cadastrais são responsáveis pela operação de integração na carta cadastral dos prédios sujeitos a operação urbanística de destaque.\n\n3 - Para efeitos do disposto nos números anteriores, o município territorialmente competente ou o titular cadastral, consoante o caso, promove a integração na carta cadastral dos prédios abrangidos, no prazo de 60 dias a contar da:\n\na) Data da entrada em vigor do plano de pormenor com efeitos registais;\n\nb) Data da emissão do alvará, nas operações de loteamento e de reparcelamento;\n\nc) Data de receção da certidão de destaque nos termos do n.º 9 do artigo 6.º do RJUE, no caso de operações de destaque.\n\n4 - Quando se trate de operação de destaque, a configuração geométrica do prédio deve ser acompanhada da certidão a que se refere a alínea c) do número anterior, bem como de formulário com os dados de identificação do titular e do prédio, nos termos de modelo a definir pela DGT e publicitado no âmbito do SNIC, através do portal único de serviços públicos, BUPi e página institucional da DGT na Internet."
+  },
+  "220256379": {
+   "fragment_id": "220256307",
+   "type": 11,
+   "heading": "Artigo 50.º — Prédios expropriados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Prédios expropriados\n\n1 - A entidade responsável pela operação de integração na carta cadastral dos prédios ou partes de prédios que tenham sido objeto de declaração de utilidade pública para efeitos de expropriação, e que integrem o domínio privado do Estado, bem como das partes remanescentes dos prédios que não tenham sido totalmente expropriados, é a entidade expropriante beneficiária da expropriação.\n\n2 - A entidade expropriante promove a submissão da configuração geométrica dos prédios, no prazo de 60 dias a contar da data da adjudicação, ou do auto de expropriação amigável, da escritura de aquisição por via do direito privado ou da escritura celebrada, ou ainda, do acordo de reversão, consoante o caso.\n\n3 - Quando a expropriação incida sobre parte de prédios cadastrados localizados em área cadastrada, a entidade expropriante promove a operação de conservação do prédio cadastrado, incluindo a área objeto de expropriação e a área remanescente, em substituição do titular cadastral.\n\n4 - Quando a expropriação incida sobre parte de prédios não cadastrados, a entidade expropriante procede à integração na carta cadastral dos prédios abrangidos, assegurando a caracterização do prédio expropriado e das partes remanescentes dos prédios que não tenham sido totalmente expropriados, em substituição do titular cadastral.\n\n5 - Nas situações previstas nos n.os 3 e 4 os titulares cadastrais das áreas remanescentes são notificados, no âmbito do SNIC, da conclusão do procedimento de inscrição na carta cadastral."
+  },
+  "220256380": {
+   "fragment_id": "220256308",
+   "type": 11,
+   "heading": "Artigo 51.º — RGG que assuma a natureza de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — RGG que assuma a natureza de cadastro predial\n\n1 - A RGG de prédio que assuma a natureza de cadastro predial nos termos do n.º 3 do artigo 5.º do regime do sistema de informação cadastral simplificada, é inscrita na carta cadastral através de comunicação automática dos dados constantes do BUPi, incluindo da respetiva estrutura de atributos associada à RGG e do termo de responsabilidade do técnico habilitado nos termos do artigo 8.º do regime do sistema de informação cadastral simplificada, que submeteu a RGG.\n\n2 - Para efeitos de cadastro predial, apenas os prédios com NIP atribuído nos termos do regime do sistema de informação cadastral simplificada é que se consideram totalmente harmonizados."
+  },
+  "220256381": {
+   "fragment_id": "220256309",
+   "type": 8,
+   "heading": "Secção IV — Conservação do cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conservação do cadastro predial"
+  },
+  "220256382": {
+   "fragment_id": "220256310",
+   "type": 11,
+   "heading": "Artigo 52.º — Operações de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Operações de conservação\n\n1 - As operações de conservação de cadastro predial consistem no processo de alteração, atualização ou retificação dos dados que caracterizam e identificam os prédios cadastrados inscritos na carta cadastral, incluindo os que se encontram em situação de cadastro transitório.\n\n2 - As operações de conservação de cadastro predial têm por objeto o prédio cadastrado ou o conjunto de prédios cadastrados contíguos e podem decorrer de:\n\na) Alteração da configuração geométrica dos prédios cadastrados motivada por operação de transformação fundiária que tenha como fim, ou por efeito, o seu fracionamento ou a modificação do posicionamento de qualquer das suas estremas, mesmo que não implique alteração de áreas;\n\nb) Retificação da configuração geométrica do prédio cadastrado por erro sobre algum dos dados recolhidos em operação de execução de cadastro predial ou de integração na carta cadastral;\n\nc) Alteração da configuração geométrica por expropriação de utilidade pública sobre parte do prédio cadastrado;\n\nd) Arredondamento de estrema irregular, por maior aproximação possível a essa estrema.\n\n3 - Consideram-se incluídas nas situações descritas na alínea a) do número anterior as alterações que resultem de operações de loteamento, de reparcelamento ou de destaque, reguladas no RJUE, bem como as de anexação, emparcelamento ou fracionamento previstas no RJEF.\n\n4 - Nas situações previstas no n.º 2 o titular cadastral está obrigado a dar início ao procedimento de conservação de cadastro predial no prazo de 60 dias a contar da data do facto jurídico que lhe deu origem.\n\n5 - Nas operações de conservação promovidas por entidade expropriante no âmbito do procedimento de expropriação por utilidade pública total ou parcial sobre prédio cadastrado o prazo previsto no número anterior conta-se a partir da data da adjudicação da propriedade.\n\n6 - Nas operações de conservação de cadastro predial é obrigatória a harmonização cadastral nos termos do n.º 1 do artigo 15.º, devendo, quando o prédio não se encontre descrito no registo predial, ser promovido o respetivo procedimento especial de registo de prédio omisso e, consequentemente, atribuído o NIP."
+  },
+  "220256383": {
+   "fragment_id": "220256311",
+   "type": 11,
+   "heading": "Artigo 53.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regime aplicável\n\nAs operações de conservação de cadastro predial observam o estabelecido no presente decreto-lei, nas disposições legais e regulamentares aplicáveis e nas NETCP."
+  },
+  "220256384": {
+   "fragment_id": "220256312",
+   "type": 11,
+   "heading": "Artigo 54.º — Dever de conservação cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Dever de conservação cadastral\n\n1 - O dever de conservação cadastral incumbe aos titulares cadastrais e aos promotores de cadastro predial referidos no n.º 1 do artigo 18.º\n\n2 - Sem prejuízo do disposto no número anterior e no n.º 2 do artigo 65.º, qualquer entidade, pública ou privada, que promova a alteração dos dados que identificam e ou caracterizam qualquer prédio cadastrado, deve, no âmbito do SNIC e através do BUPi, dar conhecimento à DGT dos atos, negócios jurídicos ou operações urbanísticas que alteram os dados que identificam e ou caracterizam os prédios cadastrados, no prazo de 10 dias a contar desse ato, negócio ou operação urbanística.\n\n3 - O prazo referido no número anterior é de 60 dias no caso de operações relativas a prédios do domínio público ou privado do Estado."
+  },
+  "220256385": {
+   "fragment_id": "220256313",
+   "type": 11,
+   "heading": "Artigo 55.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Encargos\n\nPelo procedimento de operação de conservação de cadastro predial é devido o pagamento de taxa a definir pela portaria a que se refere o artigo 77.º"
+  },
+  "220256386": {
+   "fragment_id": "220256314",
+   "type": 11,
+   "heading": "Artigo 56.º — Legitimidade para promover o procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Legitimidade para promover o procedimento\n\nAs operações de conservação de cadastro predial são promovidas pelos respetivos titulares cadastrais, no prazo de 60 dias a contar do facto ou do ato que alterou a estrutura fundiária do prédio cadastrado."
+  },
+  "220256387": {
+   "fragment_id": "220256315",
+   "type": 11,
+   "heading": "Artigo 57.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Recolha de dados\n\n1 - Antes do início do procedimento de operação de conservação no âmbito do SNIC, os titulares cadastrais são responsáveis pela recolha dos dados e dos documentos necessários à realização dessa operação, bem como pela configuração geométrica dos prédios que seja efetuada através de executante de cadastro predial.\n\n2 - Para a configuração geométrica do prédio ou prédios e realização dos trabalhos de campo que se revelem necessários, o executante referido no número anterior deve recolher os seguintes dados:\n\na) Os elementos cartográficos que permitam localizar as estremas do novo prédio ou prédios;\n\nb) A localização dos marcos ou marcas de propriedade, quando existam;\n\nc) Outros elementos considerados relevantes para efeitos de caracterização e identificação dos prédios resultantes da alteração.\n\n3 - A caracterização e a identificação dos prédios, garante a correspondência da informação existente sobre o prédio e a harmonização cadastral, sendo efetuada de acordo com as NETCP, e com:\n\na) As informações prestadas pelos titulares cadastrais;\n\nb) Os elementos recolhidos nos trabalhos de campo;\n\nc) Os dados do prédio ou prédios constantes na inscrição matricial e na descrição do registo predial, consultados através do BUPi;\n\nd) Os documentos necessários.\n\n4 - Nas operações de conservação de cadastro predial, o técnico executante de cadastro predial habilitado deve garantir que:\n\na) As alterações respeitam o disposto nas disposições legais e regulamentares aplicáveis, nas NETCP, bem como nos títulos válidos e eficazes apresentados pelos titulares cadastrais;\n\nb) A informação recolhida durante a operação de conservação de cadastro predial e introduzida no âmbito do SNIC é suficiente e correta;\n\nc) É assegurada a harmonização, designadamente quando se trate de prédios cadastrados em regime de cadastro transitório.\n\n5 - Nas situações em que se verifique a existência de erros ou incorreções nas áreas constantes das certidões da inscrição matricial e da descrição do registo predial que ultrapassem os limites legalmente permitidos no artigo 28.º-A do Código do Registo Predial, o executante de cadastro predial habilitado deve promover a correspondente correção de modo a assegurar a respetiva harmonização."
+  },
+  "220256388": {
+   "fragment_id": "220256316",
+   "type": 11,
+   "heading": "Artigo 58.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Procedimento\n\n1 - A operação de conservação de cadastro predial inicia-se com apresentação de pedido do titular cadastral no âmbito do SNIC, através do BUPi, acompanhado da configuração geométrica do prédio cadastrado sujeito a alteração e elaborada por executante de cadastro predial.\n\n2 - A operação de conservação de cadastro predial está sujeita ao pagamento da correspondente taxa nos termos a definir na portaria a que se refere o artigo 77.º\n\n3 - No prazo de 30 dias a contar da apresentação do pedido o prédio fica sinalizado no âmbito do SNIC, sendo liminarmente rejeitados os pedidos que se sobreponham.\n\n4 - No mesmo prazo de 30 dias o executante de cadastro predial habilitado deve submeter no âmbito do SNIC a caracterização dos prédios que resultem da alteração fundiária, mediante preenchimento de formulário, acompanhado de:\n\na) Formulário com os dados de identificação dos titulares e do novo prédio ou prédios que resultam da alteração;\n\nb) Termo de responsabilidade subscrito pelo executante de cadastro predial;\n\nc) Caracterização dos novos prédios que resultam da alteração, incluindo a configuração geométrica, de acordo com as NETCP;\n\nd) Declaração de confinantes, quando legalmente exigível ou no caso de alteração de alguma das estremas, nos termos de modelo aprovado pela autoridade nacional de cadastro predial e disponibilizado no âmbito do SNIC, no BUPi.\n\n5 - O termo de responsabilidade a apresentar nos termos da alínea b) do número anterior deve conter a referência expressa à conformidade das alterações fundiárias com o previsto nos planos territoriais, municipais e intermunicipais aplicáveis, bem como com o título emitido em caso de loteamento ou de reparcelamento ou com a certidão de destaque, legalmente exigíveis.\n\n6 - Decorrido o prazo máximo de três meses a contar da apresentação do pedido, sem que tenha sido apresentada justificação para a falta de submissão da caracterização do prédio ou prédios resultantes da operação de conservação de cadastro predial, o procedimento de operação de conservação iniciado no âmbito do SNIC, através do BUPi, caduca."
+  },
+  "220256389": {
+   "fragment_id": "220256317",
+   "type": 11,
+   "heading": "Artigo 59.º — Rejeição da operação de conservação de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Rejeição da operação de conservação de cadastro predial\n\n1 - A rejeição da operação de conservação de cadastro predial ocorre, no âmbito do SNIC, quando:\n\na) A apresentação não seja acompanhada dos elementos que devem acompanhar o pedido, designadamente o termo de responsabilidade do executante de cadastro predial habilitado;\n\nb) Não tenham sido cumpridas normas legais e regulamentares aplicáveis ou as NETCP;\n\nc) A informação fornecida no âmbito do procedimento de operação de conservação predial seja insuficiente ou incorreta;\n\nd) A alteração pretendida não se revele compatível com a geometria do prédio e ou dos prédios confinantes;\n\ne) A configuração geométrica não tenha sido elaborada por executante de cadastro predial habilitado para o exercício de atividades ou realização de trabalhos no domínio do cadastro predial nos termos dos artigos 19.º e 20.º\n\n2 - A rejeição da operação de conservação de cadastro predial é objeto de notificação automática, no âmbito do SNIC, através do BUPi, ao executante de cadastro predial habilitado que procedeu à submissão da configuração geométrica bem como aos titulares cadastrais, dando lugar à extinção do procedimento."
+  },
+  "220256390": {
+   "fragment_id": "220256318",
+   "type": 11,
+   "heading": "Artigo 60.º — Inscrição na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Inscrição na carta cadastral\n\n1 - Não tendo havido rejeição da operação de conservação de cadastro predial nos termos do artigo anterior, o novo prédio ou prédios são inscritos na carta cadastral, em substituição do anterior prédio cadastrado objeto da alteração nos termos do artigo 16.º\n\n2 - A operação de conservação de cadastro predial fica disponível para consulta, no âmbito do SNIC, podendo o titular cadastral ou o executante de cadastro predial habilitado obter o comprovativo dessa validação, bem como obter a ficha de prédio cadastrado do novo prédio ou prédios resultantes da operação de conservação de cadastro predial.\n\n3 - A inscrição na carta cadastral é comunicada ao IRN, I. P., no âmbito do SNIC, e por interoperabilidade de dados através do BUPi, para efeitos de atribuição do novo NIP nos termos do regime do sistema de informação cadastral simplificada.\n\n4 - Os prédios inscritos na carta cadastral nos termos dos números anteriores consideram-se harmonizados para efeitos do artigo 16.º"
+  },
+  "220256391": {
+   "fragment_id": "220256319",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização, controlo da legalidade e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fiscalização, controlo da legalidade e responsabilidade"
+  },
+  "220256392": {
+   "fragment_id": "220256320",
+   "type": 8,
+   "heading": "Secção I — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Fiscalização"
+  },
+  "220256393": {
+   "fragment_id": "220256321",
+   "type": 11,
+   "heading": "Artigo 61.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Competência\n\n1 - Compete à DGT a fiscalização do cumprimento do disposto no presente decreto-lei.\n\n2 - Compete às CCDRs na respetiva área territorial de competência, a fiscalização, ao nível regional, do cumprimento do disposto no presente decreto-lei.\n\n3 - Compete, ainda, à DGT a fiscalização do exercício das atividades e ou realização de trabalhos no domínio do cadastro predial por parte de pessoas coletivas e de TCP, nos termos da Lei n.º 3/2015, de 9 de janeiro.\n\n4 - Para os efeitos previstos nos números anteriores, os promotores e os executantes de cadastro predial colaboram nas ações de fiscalização, prestando apoio técnico sempre que necessário.\n\n5 - Os promotores e os executantes de cadastro predial ficam obrigados a constituir e a manter, pelo prazo mínimo de 10 anos, arquivos devidamente organizados da documentação e dados técnicos relativos aos trabalhos que realizem em cada operação de cadastro, independentemente do meio de suporte, e dos quais constem, nomeadamente, os seguintes elementos:\n\na) Informação técnica referente aos trabalhos realizados, nomeadamente, o cronograma e metodologia dos trabalhos, a fonte de informação e a delimitação da área coberta pela operação de cadastro predial;\n\nb) Toda a informação que foi objeto de consulta pública e as reclamações apresentadas;\n\nc) Documentação inerente ao processo de caracterização e identificação dos prédios, incluindo as declarações de titularidade apresentadas pelos titulares cadastrais.\n\n6 - O IRN, I. P., e a AT, no âmbito das suas competências próprias, são igualmente competentes para fiscalização do cumprimento do presente decreto-lei, designadamente em matéria de registos e notariado e em matéria de tributação do património, respetivamente, devendo, para o efeito, participar à DGT os atos que forem levados ao seu conhecimento que não estejam em conformidade com normas legais ou regulamentares aplicáveis aos prédios em cadastro predial."
+  },
+  "220256394": {
+   "fragment_id": "220256322",
+   "type": 11,
+   "heading": "Artigo 62.º — Fiscalização da atividade de cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Fiscalização da atividade de cadastro predial\n\n1 - À DGT e às CCDRs, ao nível regional, compete:\n\na) Solicitar a entidades públicas e privadas informações sobre operações de execução ou de conservação do cadastro predial que estejam em curso ou já concluídas;\n\nb) Solicitar e consultar toda a documentação que entenda por necessária relativamente aos trabalhos e às operações no domínio do cadastro predial em curso, bem como os já realizados;\n\nc) Solicitar informações sobre a demarcação e delimitação de prédios feita pelos titulares cadastrais, quando for o caso;\n\nd) Solicitar todos os esclarecimentos e informações técnicas, junto de entidades públicas e privadas, necessários ao cumprimento do presente decreto-lei e demais disposições legais e regulamentares aplicáveis;\n\ne) Aplicar coimas, no âmbito de procedimentos contraordenacionais;\n\nf) Participar ao Ministério Público os atos cuja ilegalidade tenha detetado para efeito de instauração das competentes ações judiciais.\n\n2 - Compete ainda à DGT:\n\na) Verificar se os executantes de cadastro predial referidos no artigo 20.º se encontram legalmente habilitados a exercer trabalhos no domínio do cadastro predial;\n\nb) Solicitar junto dos promotores e executantes de cadastro predial informações sobre as operações de execução ou de conservação do cadastro predial em curso ou já concluídas;\n\nc) Verificar, a todo o tempo, a conformidade do trabalho produzido pelos executantes de cadastro predial com as disposições legais e regulamentares aplicáveis, designadamente com as NETCP.\n\n3 - Para efeitos de instrução dos procedimentos contraordenacionais, compete às CCDRs, no âmbito da sua área territorial de atuação:\n\na) Solicitar a entidades públicas e privadas informações sobre operações de execução ou de conservação do cadastro predial que estejam em curso ou já concluídas;\n\nb) Solicitar e consultar toda a documentação que entenda por necessária relativamente aos trabalhos e às operações no domínio do cadastro predial em curso, bem como os já realizados;\n\nc) Solicitar informações sobre a demarcação e delimitação de prédios feita pelos titulares cadastrais, quando for o caso;\n\nd) Solicitar todos os esclarecimentos e informações técnicas, junto de entidades públicas e privadas, necessários ao cumprimento do presente decreto-lei e demais disposições legais e regulamentares aplicáveis na respetiva área territorial;\n\ne) Dar conhecimento à DGT dos atos cuja ilegalidade tenha detetado e que tenha participado ao Ministério Público para instauração das competentes ações judiciais."
+  },
+  "220256395": {
+   "fragment_id": "220256323",
+   "type": 8,
+   "heading": "Secção II — Controlo da legalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Controlo da legalidade"
+  },
+  "220256396": {
+   "fragment_id": "220256324",
+   "type": 11,
+   "heading": "Artigo 63.º — Cancelamento da inscrição cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Cancelamento da inscrição cadastral\n\n1 - No âmbito de fiscalização sucessiva promovida pela DGT, a inscrição de prédios cadastrados na carta cadastral pode ser cancelada quando:\n\na) Se verifique que o termo de responsabilidade e declaração de aceitação dos titulares cadastrais não cumpriram o previsto no presente decreto-lei;\n\nb) Não foram cumpridas as disposições legais e regulamentares aplicáveis e as NETCP;\n\nc) A configuração geométrica do prédio cadastrado tenha sido apresentada por entidade executante de cadastro predial ou por TCP que não se encontre legalmente habilitado a exercer atividades ou trabalhos no domínio do cadastro predial;\n\nd) A informação resultante da RGG de prédio que assuma a natureza de cadastro predial nos termos do regime do sistema da informação cadastral simplificada, que tenha sido apresentada por técnico que não esteja legalmente habilitado nos termos desse regime;\n\ne) Seja inequívoco que o prédio já se encontrava, total ou parcialmente, inscrito no cadastro predial ou no cadastro geométrico da propriedade rústica, por erro ou omissão do titular cadastral ou executante de cadastro predial;\n\nf) O prédio cadastrado deixe de existir, designadamente, em resultado de operação de emparcelamento rural ou de anexação nos termos da lei, ou de uma situação de catástrofe ou fenómeno natural;\n\ng) O prédio cadastrado tenha resultado de uma operação de transformação fundiária declarada ilegal por decisão judicial transitada em julgado, bem como anulada, revogada ou declarada nula por ato emitido pela entidade administrativa competente.\n\n2 - Nas situações referidas na alínea e) do número anterior, deve a inscrição ser obrigatoriamente retificada, oficiosamente ou a requerimento do titular cadastral, apresentado no prazo máximo de 90 dias a contar do conhecimento do facto que lhe deu origem, sob pena de recusa da inscrição cadastral relativamente ao prédio submetido posteriormente e de cancelamento da inscrição cadastral do prédio existente, quando exista sobreposição parcial.\n\n3 - O cancelamento da inscrição na carta cadastral é comunicado, pela DGT, no âmbito do SNIC e através do BUPi, ao executante de cadastro predial, à AT, ao IRN, I. P., à autarquia local territorialmente competente e aos titulares cadastrais.\n\n4 - O cancelamento da inscrição na carta cadastral por motivos imputáveis a executante de cadastro predial, responsável pela operação de execução ou de conservação de cadastro predial, pode dar lugar ao acionamento de responsabilidade civil, nos termos do artigo 5.º da Lei n.º 3/2015, de 9 de janeiro.\n\n5 - O cancelamento da inscrição na carta cadastral deve ser imediatamente comunicado, no âmbito do SNIC e através do BUPi, ao IRN, I. P., e à AT, para efeitos de inscrição matricial e de registo predial."
+  },
+  "220256397": {
+   "fragment_id": "220256325",
+   "type": 11,
+   "heading": "Artigo 64.º — Transformação fundiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Transformação fundiária\n\n1 - A inscrição na carta cadastral de prédio cadastrado ou resultante de operação de conservação, está sujeita à verificação do cumprimento das disposições legais e regulamentares aplicáveis relativas ao fracionamento e à anexação de prédios, ou parte de prédios, designadamente as constantes do artigo 1376.º do Código Civil e da unidade de cultura aplicável, do RJUE, do RJEF, das servidões e restrições de utilidade pública, nomeadamente da reserva agrícola nacional, ou ainda dos planos territoriais, intermunicipais e municipais aplicáveis.\n\n2 - A verificação do cumprimento da unidade de cultura aplicável é assegurada no âmbito do Sistema de Monitorização da Ocupação do Solo, da responsabilidade da DGT, através de plataforma eletrónica de suporte à decisão para o fracionamento da propriedade, disponível ao público no respetivo sítio institucional da DGT na Internet, e de consulta obrigatória pelas entidades públicas ou privadas intervenientes em atos ou negócios jurídicos que impliquem o fracionamento de prédios rústicos, incluindo os atos que reconheçam a aquisição do direito de propriedade por usucapião, devendo constar do respetivo ato ou negócio jurídico a menção expressa à data em que a consulta da plataforma foi realizada.\n\n3 - A alteração na configuração geométrica de prédios resultante de emparcelamento, loteamento, reparcelamento ou destaque, bem como de fracionamento de prédio, implica a apresentação, nas operações de cadastro predial, do título válido que formaliza aquela alteração.\n\n4 - Sem prejuízo do disposto no número anterior, o conservador de registos informa a DGT, através do BUPi, do pedido de registo de ato de emparcelamento, loteamento, reparcelamento ou destaque, bem como de fracionamento de prédio cadastrado, no prazo de 30 dias a contar da data da respetiva apresentação desse pedido de registo.\n\n5 - A comunicação a que se refere o número anterior pode incluir a disponibilização oficiosa dos títulos apresentados e que serviram de base ao pedido de registo.\n\n6 - Para efeitos do disposto nos números anterior considera-se que não alteram a configuração geométrica do prédio, as seguintes situações:\n\na) A transmissão onerosa ou gratuita de parte do prédio cadastrado indiviso ainda que tenha por efeito ou resultado uma divisão, com ou sem aumento dos comproprietários;\n\nb) A partilha, judicial ou extrajudicial, relativamente a herança indivisa;\n\nc) A justificação por usucapião de parte de prédio;\n\nd) A divisão de coisa comum em caso de cessação da compropriedade sempre que não for acompanhada da configuração geométrica de todos os prédios dela resultantes.\n\n7 - À posse sobre parte ou partes de prédios que tenha por efeito ou resultado a alteração da estrutura fundiária de prédio em violação dos regimes legais referidos no n.º 1, e sem que seja apresentado título válido e eficaz, é aplicável o disposto nos n.os 2 e 3 do artigo 48.º do RJEF, não relevando tal posse para efeitos de cadastro predial e inscrição na carta cadastral.\n\n8 - Para efeitos da verificação do previsto nos n.os 6 e 7 releva a data do ato ou do negócio jurídico em que seja invocada a usucapião, uma vez verificados os pressupostos para que ocorra a aquisição do direito por essa via."
+  },
+  "220256398": {
+   "fragment_id": "220256326",
+   "type": 11,
+   "heading": "Artigo 65.º — Atos e negócios jurídicos relativos a prédios cadastrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Atos e negócios jurídicos relativos a prédios cadastrados\n\n1 - Qualquer ato notarial, negócio jurídico ou procedimento administrativo ou registal destinado a promover, ou que tenha por efeito, a alteração da configuração geométrica ou do posicionamento das estremas de prédios cadastrados, mesmo que não implique alteração da área, ou que lhes imponha um ónus ou encargo nos termos da lei, quer em relação ao prédio originário, quer em relação aos prédios que eventualmente resultem da alteração, deve fazer menção expressa à inscrição do prédio cadastrado alterado ou onerado e ser instruído com a planta da nova configuração geométrica que resulte da alteração, elaborada por executante de cadastro predial em suporte cartográfico oficial a disponibilizar no âmbito do SNIC, estando sujeito a operação de conservação de cadastro predial nos termos dos artigos 52.º e seguintes.\n\n2 - Qualquer entidade que exerça atividade notarial ou qualquer outra entidade que intervenha nos atos e negócios jurídicos a que se refere o número anterior, adverte os outorgantes da obrigatoriedade de desencadear a operação de conservação de cadastro predial, no prazo máximo de 60 dias, contados do ato ou da data de celebração do negócio, devendo fazer constar do documento que titula o ato ou negócio jurídico a menção expressa à referida advertência, dando conhecimento à DGT, no prazo de 10 dias, no âmbito do SNIC."
+  },
+  "220256399": {
+   "fragment_id": "220256327",
+   "type": 11,
+   "heading": "Artigo 66.º — Nulidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Nulidade\n\n1 - São nulos todos os atos de justificação de direitos e outros atos, negócios jurídicos ou operações urbanísticas, que tenham como fim ou por efeito a modificação da configuração geométrica de prédios cadastrados quando não observem o disposto no presente decreto-lei, ainda que a respetiva informação se encontre harmonizada.\n\n2 - Consideram-se incluídos no número anterior os atos de justificação de direitos e outros atos ou negócios jurídicos praticados em violação dos artigos 64.º e 65.º"
+  },
+  "220256400": {
+   "fragment_id": "220256328",
+   "type": 8,
+   "heading": "Secção III — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Responsabilidade"
+  },
+  "220256401": {
+   "fragment_id": "220256329",
+   "type": 11,
+   "heading": "Artigo 67.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Contraordenações\n\n1 - Constitui contraordenação:\n\na) A violação dos deveres de colaboração e de partilha de informação previstos nos n.os 1 e 2 do artigo 9.º;\n\nb) A prática de atividades de cadastro predial por executante de cadastro predial que não se encontre nas condições previstas nos artigos 19.º e 20.º;\n\nc) A violação do dever de comunicação prévia previsto no artigo 21.º;\n\nd) A violação dos deveres dos titulares cadastrais previstos nas alíneas a), b), e) e f) do artigo 23.º;\n\ne) A realização de operações de execução de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial em violação do dever de cumprimento das NETCP aprovadas pela DGT nos termos do n.º 3 do artigo 27.º e dos artigos 46.º e 53.º;\n\nf) A realização de atos, negócios jurídicos ou operações urbanísticas em violação do previsto nos n.os 2, 3, 5 e 6 do artigo 30.º;\n\ng) A violação do dever de harmonização previsto no n.º 3 do artigo 31.º e no n.º 6 do artigo 52.º sem qualquer justificação;\n\nh) A violação do dever de promover a operação de conservação de cadastro predial previsto nos n.os 4 e 5 do artigo 52.º;\n\ni) A violação do dever de conservação previsto no artigo 54.º;\n\nj) A violação dos deveres de conservação de documentos previstos no n.º 4 do artigo 61.º;\n\nk) O não fornecimento ou o impedimento de acesso a informação solicitada pela DGT ou pelas CCDRs territorialmente competentes, no âmbito de uma ação de fiscalização nos termos do artigo 62.º;\n\nl) A realização de operações de transformação fundiária em violação do disposto no artigo 64.º;\n\nm) A violação do dever de sigilo profissional na execução de atividades ou de trabalhos no domínio cadastral nos termos do artigo 75.º\n\n2 - À violação do dever de cumprimento das NETCP aprovadas pela DGT referido na alínea e) do número anterior aplica-se o disposto na alínea a) do n.º 1 do artigo 11.º da Lei n.º 3/2015, de 9 de janeiro."
+  },
+  "220256402": {
+   "fragment_id": "220256330",
+   "type": 11,
+   "heading": "Artigo 68.º — Classificação das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Classificação das contraordenações\n\n1 - Para determinação da coima aplicável e tendo em conta a relevância dos direitos e interesses violados, as contraordenações referidas no artigo anterior classificam-se em leves, graves e muito graves.\n\n2 - A cada escalão classificativo das contraordenações a que se refere o número anterior, corresponde um montante de coima variável entre um mínimo e um máximo, consoante seja aplicada a uma pessoa singular ou pessoa coletiva e em função do grau de culpa.\n\n3 - Consideram-se leves as contraordenações previstas nas alíneas a) e d) do n.º 1 do artigo anterior quanto à violação das alíneas a), b) e d) do artigo 23.º, nas alíneas g) e h) do n.º 1 do artigo anterior quando esteja fora do prazo, e na alínea i) do n.º 1 do artigo anterior.\n\n4 - Consideram-se graves as contraordenações previstas na alínea d) do n.º 1 do artigo anterior quanto à violação das alíneas f) e g) do artigo 23.º, nas alíneas e) e h) do n.º 1 do artigo anterior quando não seja realizada a operação de conservação, e nas alíneas j), k) e n) do n.º 1 do artigo anterior.\n\n5 - Consideram-se muito graves as contraordenações previstas nas alíneas b), c), f), l) e m) do n.º 1 do artigo anterior.\n\n6 - A tentativa é punível nas contraordenações classificadas de graves e muito graves, sendo os limites mínimos e máximos da respetiva coima reduzidos a metade."
+  },
+  "220256403": {
+   "fragment_id": "220256331",
+   "type": 11,
+   "heading": "Artigo 69.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Coimas\n\n1 - Às contraordenações leves previstas no n.º 3 do artigo anterior correspondem as seguintes coimas:\n\na) Se praticadas por pessoa singular, de (euro) 300 a (euro) 1000 em caso de negligência e de (euro) 400 a (euro) 2000 em caso de dolo;\n\nb) Se praticadas por pessoa coletiva, de (euro) 1000 a (euro) 5000 em caso de negligência e de (euro) 2000 a (euro) 6000 em caso de dolo.\n\n2 - Às contraordenações graves previstas no n.º 4 do artigo anterior correspondem as seguintes coimas:\n\na) Se praticadas por pessoa singular, de (euro) 500 a (euro) 1500 em caso de negligência e de (euro) 600 a (euro) 2500 em caso de dolo;\n\nb) Se praticadas por pessoa coletiva, de (euro) 2000 a (euro) 7000 em caso de negligência e de (euro) 3000 a (euro) 8000 em caso de dolo.\n\n3 - Às contraordenações muito graves previstas no n.º 5 do artigo anterior correspondem as seguintes coimas:\n\na) Se praticadas por pessoa singular, de (euro) 800 a (euro) 1870,49 em caso de negligência e de (euro) 900 a (euro) 3740,98 em caso de dolo;\n\nb) Se praticadas por pessoa coletiva, de (euro) 3000 a (euro) 9000 em caso de negligência e de (euro) 4000 a (euro) 10 000 em caso de dolo.\n\n4 - O produto das coimas reverte 60 % para a DGT e 40 % para as CCDRs territorialmente competentes pela instrução do processo de contraordenação."
+  },
+  "220256404": {
+   "fragment_id": "220256332",
+   "type": 11,
+   "heading": "Artigo 70.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Competência\n\n1 - É competente para a instauração e decisão de processos de contraordenação, o dirigente máximo da DGT.\n\n2 - Sem prejuízo do disposto no número anterior, as CCDRs são competentes para designar instrutor e instruir os processos de contraordenação na respetiva área territorial.\n\n3 - As entidades e os serviços públicos têm o dever de comunicar à DGT a ocorrência de quaisquer factos ou circunstâncias suscetíveis de configurarem como contraordenação, bem como têm o dever de colaborar no âmbito do respetivo processo."
+  },
+  "220256405": {
+   "fragment_id": "220256333",
+   "type": 11,
+   "heading": "Artigo 71.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Sanções acessórias\n\nPara além da coima podem ainda ser aplicadas as seguintes sanções acessórias, em função da gravidade da infração e da culpa do agente:\n\na) Inibição do exercício de atividades e ou trabalhos no domínio do cadastro predial por um período máximo de dois anos;\n\nb) Suspensão da inscrição na lista oficial dos TCP legalmente habilitados para o exercício de atividades e ou trabalhos no domínio do cadastro predial, por um período máximo de dois anos;\n\nc) Perda dos objetos utilizados na prática da infração ou resultantes desta, incluindo equipamentos técnicos e informáticos;\n\nd) Proibição de participar em procedimentos de contratação pública que tenham por objeto o fornecimento de bens e de serviços no domínio do cadastro predial, não podendo, em caso algum, esta sanção exceder dois anos."
+  },
+  "220256406": {
+   "fragment_id": "220256334",
+   "type": 11,
+   "heading": "Artigo 72.º — Responsabilidade por erro e omissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Responsabilidade por erro e omissões\n\n1 - Os titulares cadastrais são responsáveis pela informação fornecida sendo-lhes imputáveis os encargos inerentes às operações de correção de erros ou omissões que se venham a revelar necessárias, incluindo os que resultem de incorreta demarcação.\n\n2 - A entidade que proceda à inscrição dos prédios na carta cadastral é responsável pelos erros ou omissões que decorram da divergência entre a informação fornecida pelos titulares e os dados de identificação e caracterização dos prédios cadastrados, sendo-lhes imputáveis os encargos inerentes às operações de correção, sem prejuízo do direito de indemnização a que haja lugar pelos prejuízos causados aos titulares cadastrais.\n\n3 - A DGT, enquanto autoridade nacional de cadastro predial, é responsável pela correção oficiosa de erros e omissões detetados na configuração geométrica de prédio cadastrado devidamente comprovados e não imputáveis aos respetivos titulares ou a executante de cadastro predial."
+  },
+  "220256407": {
+   "fragment_id": "220256335",
+   "type": 11,
+   "heading": "Artigo 73.º — Responsabilidade por falsas declarações e documentos falsificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Responsabilidade por falsas declarações e documentos falsificados\n\nA prestação de falsas declarações ou a apresentação de documentos falsificados ou adulterados são puníveis nos termos da lei."
+  },
+  "220256408": {
+   "fragment_id": "220256336",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições complementares, transitórias e finais"
+  },
+  "220256409": {
+   "fragment_id": "220256337",
+   "type": 8,
+   "heading": "Secção I — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições complementares"
+  },
+  "220256410": {
+   "fragment_id": "220256338",
+   "type": 11,
+   "heading": "Artigo 74.º — Interoperabilidade com o Balcão Único do Prédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Interoperabilidade com o Balcão Único do Prédio\n\n1 - Para efeitos do disposto no presente decreto-lei é assegurada a interoperabilidade, com recurso à iAP, da informação no âmbito do SNIC com o BUPi, enquanto plataforma que comunica com todas as bases de dados e aplicações que contêm informações prediais e que assegura a articulação do cidadão com a Administração Pública no âmbito do cadastro predial.\n\n2 - A título transitório, enquanto não for assegurada a interoperabilidade com recurso à iAP entre o SNIC e o BUPi, a comunicação entre esses pode ser efetuada por outros meios.\n\n3 - A título transitório, e até que a plataforma do BUPi garanta a total e necessária interoperabilidade da informação no âmbito do SNIC e com outras bases de dados e aplicações sobre prédios, as funcionalidades do SNIC, bem como a tramitação dos procedimentos estabelecidos no presente decreto-lei são asseguradas e efetuadas através da plataforma eletrónica de suporte ao SNIC, da responsabilidade da DGT."
+  },
+  "220256411": {
+   "fragment_id": "220256339",
+   "type": 11,
+   "heading": "Artigo 75.º — Segurança da informação e sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Segurança da informação e sigilo profissional\n\n1 - Aos dados pessoais recolhidos no âmbito da realização de operações de cadastro predial ou quaisquer outros procedimentos previstos no presente decreto-lei aplicam-se as disposições legais em matéria de proteção de dados pessoais, designadamente as que respeitam ao seu tratamento e acesso pelos titulares cadastrais ou por terceiros, bem como, ao sigilo profissional.\n\n2 - Aos promotores e aos executantes de cadastro predial habilitados no presente decreto-lei para o exercício de atividades no domínio do cadastro predial é facultado o acesso à informação cadastral necessária à realização das operações de cadastro predial, não podendo a informação ser utilizada para outros fins.\n\n3 - Os promotores e os executantes de cadastro predial ficam, em especial, obrigados ao dever de sigilo profissional, incluindo o tributário relativamente a qualquer informação que obtenham no exercício da respetiva atividade de cadastro predial.\n\n4 - Para efeitos do presente decreto-lei consideram-se públicos os dados da caracterização dos prédios cadastrados a que se refere o n.º 1 do artigo 16.º\n\n5 - O acesso e a cedência da informação relativa a dados não pessoais que não sejam públicos obedecem ao disposto no regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos, aprovado pela Lei n.º 26/2016, de 22 de agosto, na sua redação atual.\n\n6 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos legalmente previstos, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos que permitam a leitura por máquina para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.\n\n7 - Nos casos em que se verifique o incumprimento das condições de utilização da informação, a DGT enquanto autoridade nacional de cadastro predial notifica o acedente para que, no prazo de 15 dias, cesse tal incumprimento, sob pena de lhe ser vedado o acesso à informação.\n\n8 - Sempre que esteja em causa o acesso a dados pessoais, os casos previstos no número anterior são, de imediato, participados pela DGT à Comissão Nacional de Proteção de Dados, para efeitos de apuramento de responsabilidade contraordenacional em matéria de proteção de dados.\n\n9 - A partilha de dados de identificação dos titulares de prédios cadastrados para fins que não estejam previstos no presente decreto-lei está sujeita a legislação específica."
+  },
+  "220256412": {
+   "fragment_id": "220256340",
+   "type": 11,
+   "heading": "Artigo 76.º — Direito à informação e dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Direito à informação e dados pessoais\n\n1 - Qualquer pessoa tem o direito de ser informada pela autoridade nacional de cadastro predial sobre os dados pessoais que lhe digam respeito, bem como sobre a identidade e o endereço da entidade responsável pelo tratamento e conservação dos dados pessoais relativos a prédios cadastrados e demais informações previstas nos artigos 13.º e 14.º do Regulamento (UE) n.º 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, que aprovou o Regulamento Geral sobre a Proteção de Dados.\n\n2 - Ao acesso e disponibilização dos documentos e informação administrativa nos termos do presente decreto-lei aplica-se o regime legal que resulta da Lei n.º 26/2016, de 22 de agosto, na sua redação atual, sem prejuízo do regime legal de proteção de dados pessoais.\n\n3 - O disposto no número anterior não prejudica a partilha de informação nos termos do dever de colaboração previsto no n.º 3 do artigo 9.º\n\n4 - O tratamento de dados pessoais recolhidos nos procedimentos previstos no presente decreto-lei tem por finalidade o exercício da atividade de cadastro predial, não podendo ser utilizado para qualquer outra finalidade, sem prejuízo da interoperabilidade prevista nos artigos 22.º e 23.º do regime do sistema de informação cadastral simplificada e do BUPi.\n\n5 - Para exercício do respetivo direito de acesso, os titulares dos dados devem ter a possibilidade de consultar os dados pessoais que foram partilhados e quais os dados presentes nos registos dos sistemas de informação referidos no presente artigo através da área «Os meus dados» no portal único de serviços públicos."
+  },
+  "220256413": {
+   "fragment_id": "220256341",
+   "type": 11,
+   "heading": "Artigo 77.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Taxas\n\n1 - Estão sujeitas ao pagamento de taxas, em montante a definir por portaria dos membros do Governo responsáveis pelas áreas da justiça, das finanças e do ordenamento do território, os seguintes procedimentos:\n\na) Operação de conservação de cadastro predial;\n\nb) Mera comunicação prévia para exercício de atividades e ou realização de trabalhos no domínio do cadastro predial.\n\n2 - A portaria a que se refere o número anterior define, ainda, as situações em que há lugar a redução ou isenção das taxas nela previstas, em especial relativo aos imóveis do domínio público e privado do Estado, bem como o montante correspondente aos encargos de certificação de ficha de prédio cadastrado, quando solicitada, e é publicada no prazo de 60 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n3 - Até à entrada em vigor da portaria a que se referem os números anteriores aplicam-se as taxas previstas na Portaria n.º 91/2004, de 21 de janeiro, na sua redação atual.\n\n4 - O pagamento das taxas referidas nos números anteriores é realizado por meios eletrónicos, com recurso à Plataforma de Pagamentos da Administração Pública."
+  },
+  "220256414": {
+   "fragment_id": "220256342",
+   "type": 8,
+   "heading": "Secção II — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições transitórias"
+  },
+  "220256415": {
+   "fragment_id": "220256343",
+   "type": 11,
+   "heading": "Artigo 78.º — Prédios cadastrados a integrar na carta cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Prédios cadastrados a integrar na carta cadastral\n\n1 - Os prédios que, à data de entrada em vigor do presente decreto-lei, se encontram em condições de ser objeto de operação de integração na carta cadastral, devem ser inscritos na mesma no prazo de cinco anos a contar da entrada em vigor do presente decreto-lei.\n\n2 - A DGT promove a vectorização dos prédios rústicos localizados nos municípios em regime de CGPR.\n\n3 - Para os efeitos do número anterior, a DGT disponibiliza os prédios vetorizados no seu sítio institucional na Internet, através da carta cadastral.\n\n4 - Quaisquer alterações fundiárias aos prédios vetorizados nos termos dos n.os 2 e 3 ficam sujeitas ao procedimento de conservação previsto no presente decreto-lei.\n\n5 - Os concelhos em regime de CGPR cujos prédios não sejam passíveis de vectorização e inscrição na carta cadastral, nos termos dos números anteriores, por desconformidades na respetiva representação cartográfica, são identificados por despacho da DGT a publicar na 2.ª série do Diário da República, ficando sujeitos ao procedimento aplicável às operações de execução sistemática.\n\n6 - Nos municípios identificados no despacho a que se refere o número anterior, as anteriores fichas dos prédios e respetiva informação existente na DGT são guardadas no respetivo arquivo histórico pelo período de 10 anos a contar da data da entrada em vigor do presente decreto-lei.\n\n7 - A DGT disponibiliza no mesmo prazo, mediante requerimento apresentado pelo município e através de protocolo, a informação a que se refere o número anterior para realização de operação de execução sistemática da sua iniciativa para toda a área do município."
+  },
+  "220256416": {
+   "fragment_id": "220256344",
+   "type": 11,
+   "heading": "Artigo 79.º — Prédios cadastrados ao abrigo dos regimes do cadastro geométrico de propriedade rústica e do cadastro predial experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Prédios cadastrados ao abrigo dos regimes do cadastro geométrico de propriedade rústica e do cadastro predial experimental\n\n1 - Os prédios rústicos cadastrados localizados nos municípios em regime de CGPR são considerados prédios cadastrados para os efeitos previstos no presente regime jurídico, sendo convertidos para o regime de cadastro predial, passando a estar sujeitos ao procedimento de operação de conservação de cadastro predial.\n\n2 - Os prédios cadastrados ao abrigo do regime do cadastro predial experimental já inscritos na carta cadastral ficam sujeitos ao procedimento de operação de conservação de cadastro predial.\n\n3 - Aos prédios não cadastrados dos concelhos onde ocorreram operações ao abrigo dos regimes referidos nos números anteriores, aplica-se o regime previsto no artigo 31.º"
+  },
+  "220256417": {
+   "fragment_id": "220256345",
+   "type": 11,
+   "heading": "Artigo 80.º — Retificação por erro no decurso de operação de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Retificação por erro no decurso de operação de execução\n\n1 - Sempre que comprovadamente se verifique a existência de erro na configuração geométrica dos prédios cadastrados no âmbito da realização de uma operação de execução de cadastro predial ao abrigo do Decreto-Lei n.º 224/2007, de 31 de maio, na sua redação atual, ou erro decorrente dos trabalhos de vectorização dos prédios em CGPR que não decorra de erro imputável aos titulares cadastrais, a DGT promove a correção dos erros, oficiosamente ou mediante requerimento apresentado pelos titulares, acompanhado dos documentos ou de informação relativa a documentos na posse da DGT que permitam confirmar a existência do erro invocado.\n\n2 - Sempre que a retificação implique modificação das estremas com prédios confinantes, o requerimento deve ser acompanhado de declaração de confinantes.\n\n3 - No prazo de 30 dias a contar da data de entrada do requerimento a que se referem os números anteriores, a DGT decide sobre o pedido e notifica o requerente, no âmbito do SNIC.\n\n4 - Caso a decisão seja em sentido favorável, a DGT procede à inscrição das correções na carta cadastral."
+  },
+  "220256418": {
+   "fragment_id": "220256346",
+   "type": 11,
+   "heading": "Artigo 81.º — Entidades com alvará emitido ao abrigo do Regulamento de Cadastro Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Entidades com alvará emitido ao abrigo do Regulamento de Cadastro Predial\n\nAs entidades, públicas ou privadas, com alvará válido para o exercício de atividades cadastrais, emitido ao abrigo do artigo 35.º do Regulamento do Cadastro Predial (RCP), aprovado pelo Decreto-Lei n.º 172/95, de 18 de julho, têm, o prazo de 90 dias, a contar da data de entrada em vigor do presente decreto-lei, para apresentar a mera comunicação prévia prevista no artigo 21.º, findo o qual ficam impedidas de exercer atividades e ou trabalhos no domínio do cadastro predial."
+  },
+  "220256419": {
+   "fragment_id": "220256347",
+   "type": 11,
+   "heading": "Artigo 82.º — Operações de execução de cadastro realizadas ao abrigo do Regulamento do Cadastro Predial ou do cadastro geométrico de propriedade rústica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Operações de execução de cadastro realizadas ao abrigo do Regulamento do Cadastro Predial ou do cadastro geométrico de propriedade rústica\n\n1 - Nos concelhos e nas freguesias abrangidos por operação de cadastro predial realizada ao abrigo do RCP, que não entraram em regime de cadastro, as autarquias locais territorialmente competentes têm a faculdade de utilizar os dados existentes na DGT para a realização de operação de execução de cadastro predial.\n\n2 - Para efeitos da faculdade referida no número anterior, estão abrangidos por operações de cadastro predial realizadas ao abrigo do RCP os concelhos de Ílhavo, Mira e Vagos, as freguesias de Caldas de São Jorge, Canedo, Feira, Gião, Louredo, Lourosa, Paços de Brandão, Rio Meão, Santa Maria de Lamas, São João de Ver e Vale do concelho de Santa Maria da Feira, as freguesias de Alcântara e Prazeres do concelho de Lisboa e a freguesia de Albergaria dos Doze do concelho de Pombal.\n\n3 - Nas freguesias e concelhos abrangidos por operação de cadastro geométrico da propriedade rústica, realizada ao abrigo de legislação revogada pelo Decreto-Lei n.º 172/95, de 18 de julho, que não entraram em regime de CGPR, as autarquias locais territorialmente competentes têm a faculdade de utilizar os dados existentes na DGT para a realização de operação de execução de cadastro predial.\n\n4 - Para efeitos da faculdade referida no n.º 1, consideram-se abrangidos por operações de CGPR os concelhos de Alcobaça, Marinha Grande, Matosinhos e Ourém.\n\n5 - A DGT disponibiliza, mediante requerimento apresentado pela autarquia local territorialmente competente, a informação relativa às operações de execução de cadastro predial realizadas nos termos dos números anteriores e nos termos a definir por protocolo a outorgar entre a DGT e a respetiva autarquia local, ao qual se aplica o disposto nos artigos 76.º\n\n6 - Após a entrada em funcionamento do SNIC, às operações de execução a realizar nos termos dos números anteriores aplica-se, com as necessárias adaptações, o procedimento das operações de execução de cadastro predial definido no presente decreto-lei."
+  },
+  "220256420": {
+   "fragment_id": "220256348",
+   "type": 11,
+   "heading": "Artigo 83.º — Processos de reclamação administrativa ao abrigo do Código do Imposto Municipal sobre Imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Processos de reclamação administrativa ao abrigo do Código do Imposto Municipal sobre Imóveis\n\n1 - Até à entrada em vigor do presente decreto-lei, os processos de reclamação administrativa (PRA) apresentados nos termos do Código do Imposto Municipal sobre Imóveis (CIMI), sobre prédios em regime de CGPR cujos proprietários tenham assegurado a cobertura dos correspondentes custos nos termos do n.º 2 do artigo 7.º do RCP, são analisados pela DGT ou pela CCDR territorialmente competente, até à emissão do parecer previsto no artigo 133.º do CIMI.\n\n2 - Para efeitos do número anterior, os prédios relativamente aos quais tenha sido emitido parecer favorável no âmbito de um PRA são inscritos pela DGT na carta cadastral, sendo considerados como prédios cadastrados para os efeitos do presente decreto-lei e ficando sujeitos a operação de conservação de cadastro predial, nos termos do presente decreto-lei.\n\n3 - Em todas as situações que não se enquadrem nos números anteriores, devem os serviços de finanças competentes notificar, oficiosamente, os respetivos titulares prediais que as alterações à configuração geométrica de prédios cadastrados passam a estar sujeitas ao procedimento de conservação previsto no presente decreto-lei e legislação complementar.\n\n4 - As CCDRs são igualmente competentes para análise dos PRA a que se referem os n.os 1 e 2, podendo para o efeito delegar tais competências ou celebrar contratos-programa."
+  },
+  "220256421": {
+   "fragment_id": "220256349",
+   "type": 11,
+   "heading": "Artigo 84.º — Incorporação de prédios cadastrados no âmbito do Sistema Nacional de Informação Cadastral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Incorporação de prédios cadastrados no âmbito do Sistema Nacional de Informação Cadastral\n\n1 - Até à entrada em vigor do presente decreto-lei a identificação e caracterização dos prédios obtida na sequência dos procedimentos de operações de execução de cadastro predial, de integração na carta cadastral ou de conservação de cadastro predial é remetida, por meio de comunicação eletrónica, à DGT, pela entidade promotora, para efeitos de inscrição na carta cadastral.\n\n2 - Com a entrada em vigor do presente decreto-lei, a DGT assegura a incorporação no âmbito do SNIC de todos os prédios cadastrados ao abrigo do número anterior.\n\n3 - À retificação de erros devidamente comprovados aplica-se o regime previsto no artigo 80.º, com as necessárias adaptações."
+  },
+  "220256422": {
+   "fragment_id": "220256350",
+   "type": 11,
+   "heading": "Artigo 85.º — Informação da ficha do prédio cadastrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Informação da ficha do prédio cadastrado\n\nA título transitório, e até que a plataforma do BUPi garanta a total e necessária interoperabilidade da informação no âmbito do SNIC e com as demais bases de dados e aplicações sobre prédios, a ficha de prédio cadastrado referido no artigo 12.º deve incluir também os dados relativos à descrição predial e à inscrição matricial, ainda que o prédio já tenha NIP atribuído nos termos do regime do sistema de informação cadastral simplificada."
+  },
+  "220256423": {
+   "fragment_id": "220256351",
+   "type": 8,
+   "heading": "Secção III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições finais"
+  },
+  "220256424": {
+   "fragment_id": "220256352",
+   "type": 11,
+   "heading": "Artigo 86.º — Alteração à Lei n.º 3/2015, de 9 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Alteração à Lei n.º 3/2015, de 9 de janeiro\n\nO artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, passa ater a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) Seja técnico habilitado nos termos da alínea c) do n.º 2 do artigo 8.º da Lei n.º 78/2017, de 17 de agosto, mantida em vigor pela Lei n.º 65/2019, de 23 de agosto.»"
+  },
+  "220256425": {
+   "fragment_id": "220256353",
+   "type": 11,
+   "heading": "Artigo 87.º — Imóveis do domínio público do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Imóveis do domínio público do Estado\n\n1 - As operações cadastrais relativas aos imóveis do domínio público do Estado iniciam-se a 2 de janeiro de 2027.\n\n2 - Estão sujeitos a cadastro, nos termos do presente decreto-lei, desde a sua entrada em vigor, os edifícios ou construções incorporados ou assentes em domínio público do Estado, com carácter de permanência, que façam parte do património de uma pessoa singular ou coletiva e que sejam dotados de autonomia económica em relação ao terreno onde se encontrem implantados.\n\n3 - O disposto no número anterior aplica-se independentemente da edificação ou construção reverter subsequentemente, ao abrigo do contrato de concessão ou do respetivo regime legal, para o domínio privativo ou para o domínio público do Estado, nos termos dos artigos 4.º e 5.º do Decreto-Lei n.º 477/80, de 15 de outubro.\n\n4 - Para efeitos dos números anteriores, considera-se titular cadastral o titular da concessão ou licença ao abrigo da qual tenham sido efetuadas as construções."
+  },
+  "220256426": {
+   "fragment_id": "220256354",
+   "type": 11,
+   "heading": "Artigo 88.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das respetivas competências legislativas em matéria de cadastro predial.\n\n2 - A definição das NETCP, incluindo as instruções para a delimitação e demarcação de prédios, compete às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n3 - Compete às Regiões Autónomas a fiscalização do cumprimento do presente decreto-lei e da respetiva legislação complementar, nas respetivas áreas de competência."
+  },
+  "220256427": {
+   "fragment_id": "220256355",
+   "type": 11,
+   "heading": "Artigo 89.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 172/95, de 18 de julho."
+  },
+  "220256428": {
+   "fragment_id": "220256356",
+   "type": 11,
+   "heading": "Artigo 90.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no prazo de 90 dias após a sua publicação."
+  },
+  "865550102": {
+   "fragment_id": "220256356",
+   "type": 11,
+   "heading": "Artigo 90.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2024-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2024-865433934), em vigor a partir de 2024-05-22, produz efeitos a partir de 2023-11-21"
+   ],
+   "markdown": "###### Artigo 90.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no prazo de 90 dias após a sua publicação.\n\n2 - O disposto nos n.os 3 e 4 do artigo 30.º produz efeitos a 1 de janeiro de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2024 - Diário da República n.º 98/2024, Série I de 2024-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2024-865433934), em vigor a partir de 2024-05-22, produz efeitos a partir de 2023-11-21"
+  },
+  "220256429": {
+   "fragment_id": "220256357",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de junho de 2023. - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro - João Nuno Marques de Carvalho Mendes - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.\n\nPromulgado em 26 de julho de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de julho de 2023.\n\nPelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.\n\n116769548"
+  }
+ }
+}

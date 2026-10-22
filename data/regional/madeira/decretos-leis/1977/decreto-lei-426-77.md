@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:279417:por
+title: Decreto-Lei n.º 426/77
+short_title: null
+summary: Regionaliza os serviços e atribuições periféricas de saúde e segurança social na Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Assuntos Sociais e Região Autónoma da Madeira
+proposing_entity: null
+official_number: 426/77
+official_date: null
+publication_date: '1977-10-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 237/1977, Série I de 1977-10-13
+  number: '237'
+  series: I
+  supplement: null
+  pages: 2482 - 2484
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23700/24822484.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '279417'
+  dre_path: /dr/detalhe/decreto-lei/426-1977-279417
+  internal: pt:dre:279417:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1977-279417
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1977-279417
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-09-23T00:00:00Z'
+integrity:
+  source_sha256: 0c758037f9f0e416a1745ba668608c31c313579430ae68f2c2dae1e607f47d74
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1977/DRE-1977-426-279417.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:461862:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 426/77
+
+de 13 de Outubro
+
+A autonomia constitucionalmente reconhecida à Região Autónoma da Madeira e concretizada no seu estatuto provisório, aprovado pelo [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, impõe uma clara definição das competências que incumbem aos órgãos regionais em cada sector da vida nacional e dos limites em que se se inscrevem essas competências, de forma a salvaguardar a unidade dos grandes princípios da política nacional, em cada uma dessas áreas.
+
+Daí a preocupação do Ministério dos Assuntos Sociais e da Secretaria Regional da Madeira dos Assuntos Sociais em demarcar a referida competência no que se refere aos sectores da saúde e da segurança social, cuja importância para o bem-estar integral das populações acentua a necessidade de uma imediata regionalização que aproxime o poder decisório dos utentes, permitindo assim uma maior eficácia das acções a desenvolver.
+
+Essa demarcação facilitará, por outro lado, a definição orgânica dos serviços da Secretaria Regional dos Assuntos Sociais, executores da política de saúde e segurança social para a Região.
+
+Tal política deverá ter em conta as características próprias do meio sócio-cultural a que se aplica, inscrevendo-se no contexto do Serviço Nacional de Saúde e do Sistema Unificado de Segurança Social, previstos na Constituição da República.
+
+Assim, impõe-se que em ambos os sectores a regionalização seja tão ampla quanto possível, dando satisfação às aspirações das populações da Região, que devem participar, de forma actuante, no diagnóstico da situação e no planeamento e programação das acções a desenvolver para que as soluções encontradas se ajustem à concreta realidade regional.
+
+O objectivo acima mencionado impõe, porém, que a nível regional existam as estruturas orgânicas e funcionais que permitam assegurar não só a continuidade das acções em curso como a efectiva melhoria na qualidade das prestações de saúde e de segurança social.
+
+Sem essas estruturas a regionalização seria meramente formal ou dela poderiam resultar hiatos no funcionamento dos serviços implantados na Região, de consequências imprevisíveis para as populações.
+
+No que se refere à saúde, a estrutura orgânica a definir a nível regional deverá reflectir a preocupação prioritária de criar serviços prestadores de cuidados de saúde de 1.ª linha eficientes, o que impõe a existência de unidades integradas desses serviços - os centros de saúde - que satisfaçam as necessidades básicas de saúde da população, libertando os serviços diferenciados para as prestações que lhes são específicas.
+
+Também as unidades hospitalares da Região, integradas na estrutura orgânica da saúde, deverão, por sua vez, corresponder às necessidades reais da comunidade, tendo em conta os condicionalismos geográficos dos meios, que criam dificuldades especiais de acesso dos utentes aos centros de diagnóstico e tratamento.
+
+Idêntica preocupação se faz sentir no campo da segurança social, impondo a actuação integrada dos serviços cuja finalidade seja a resposta às situações de falta ou diminuição de meios de subsistência ou de capacidade para o trabalho da população, mediante a criação de centros regionais de segurança social que, em contacto directo com os utentes, permitam a eficaz realização do seu direito à segurança social.
+
+Até que as estruturas orgânicas referidas se encontrem aptas a funcionar, o que se espera venha a acontecer a curto prazo, terá de se manter ainda a ligação aos órgãos centrais de certos serviços do âmbito da saúde e da segurança social, localizados na Região, mas tal ligação passará a fazer-se tendo como intermediária a Secretaria Regional dos Assuntos Sociais, sem prejuízo da competência legalmente atribuída ao Ministro da República da Região Autónoma.
+
+Um dos pressupostos para o bom funcionamento dos serviços são o meios humanos a eles adstritos, pelo que é importante a definição, a nível nacional, das regras que digam respeito a quadros, carreiras profissionais, nomeações, promoções e registo central do pessoal, competindo ao Governo Regional, através do Secretário dos Assuntos Sociais, assegurar o cumprimento, a nível regional, dessas regras.
+
+Assim se conseguirá, designadamente, facilitar a colocação de técnicos na Região Autónoma, através de carreiras de âmbito nacional e da intercomunicabilidade dos seus quadros.
+
+O presente diploma, destinando-se a transferir a competência dos órgãos centrais para os órgãos regionais em matéria de saúde e de segurança social, teve a preocupação de, realisticamente, encarar essa transferência como um processo gradual de mudança que permita à Região a efectiva condução de uma política regional naqueles sectores, no respeito pelas grandes linhas da política nacional e pelas orientações técnico-normativas de execução dessa política.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República:
+
+###### Artigo 1.º Passa a competir ao Secretário Regional dos Assuntos Sociais da Região Autónoma da Madeira, sem prejuízo da competência legalmente atribuída ao Ministro da República da Região Autónoma, a direcção da política referente aos sectores da saúde e da segurança social na área da Região, dentro da orientação fixada pelo Governo Regional, nos termos deste diploma e de acordo com os princípios e as normas de âmbito nacional relativos ao Serviço Nacional de Saúde e ao Sistema Unificado de Segurança Social.
+
+###### Art. 2.º Ficam a pertencer ao Governo da Região Autónoma da Madeira, e serão exercidos pela respectiva Secretaria dos Assuntos Sociais, os poderes de direcção e tutela que o Ministério dos Assuntos Sociais tem vindo a exercer sobre os serviços periféricos e instituições daquela área.
+
+###### Art. 3.º Na execução da política da saúde e segurança social, é reconhecida, genericamente, ao Secretário Regional competência para:
+
+a) Superintender nos serviços e instituições do âmbito da saúde e segurança social, implantados a nível regional, coordenando a sua actuação;
+
+b) Promover, em colaboração com os demais departamentos do Governo Regional, a elaboração de planos integrados que respeitem à promoção do bem-estar físico, psíquico e social das comunidades, cooperando na sua execução e avaliação;
+
+c) Promover a preparação e elaboração do projecto dos planos sectoriais da saúde e da segurança social para a sua posterior compatibilização e integração no plano sócio-económico da Região e no plano nacional;
+
+d) Administrar, pelos serviços competentes, as verbas atribuídas à saúde e segurança social;
+
+e) Promover a elaboração do projecto de orçamento referente aos mencionados sectores, de forma a integrar o orçamento da Região;
+
+f) Coordenar a execução dos programas e planos de acção sectoriais e promover a sua contínua avaliação.
+
+###### Art. 4.º No que se refere especificamente à política de saúde, é reconhecida ao Secretário Regional dos Assuntos Sociais, através dos serviços dele dependentes, competência para:
+
+a) Assegurar a efectiva realização do direito à saúde, promovendo a cobertura médico-sanitária da Região, orientando e coordenando as actividades de promoção da saúde, prevenção da doença, tratamento de doentes e reabilitação, ocupando-se da prestação de cuidados de saúde de base e diferenciados, com prioridade para a prevenção primária;
+
+b) Orientar, coordenar e fiscalizar as actividades dos estabelecimentos e serviços de saúde da Região, oficiais, particulares e a cargo das autarquias locais;
+
+c) Promover e coordenar, em casos de epidemia ou situações sanitárias graves, a mobilização de todos os meios disponíveis da Região, superintendendo na sua utilização, bem como na de quaisquer outros recursos postos à sua disposição;
+
+d) Assegurar o cumprimento das convenções, acordos ou regulamentos sanitários internacionais e a defesa sanitária dos portos e aeroportos da Região;
+
+c) Superintender nas escolas de enfermagem da Região, assegurando o cumprimento dos planos e programas de estudos e das regras de admissão e avaliação dos alunos, fixados a nível nacional.
+
+###### Art. 5.º No que se refere especificamente à política da segurança social, é reconhecida ao Secretário Regional dos Assuntos Sociais, através dos serviços dependentes, competência para:
+
+a) Assegurar a efectiva realização do direito à segurança social, adoptando formas adequadas de resposta a todas as situações da falta ou diminuição de meios de subsistência ou de capacidade de trabalho;
+
+b) Promover o desenvolvimento de acções supletivas de apoio à família e à comunidade, em casos de disfunções, e, bem assim, as medidas necessárias à protecção e integração sociais dos vários grupos etários da população;
+
+c) Orientar o funcionamento das instituições e serviços regionais, coordenando e fiscalizando a sua actuação;
+
+d) Aprovar os estatutos das instituições privadas de solidariedade social não lucrativas, bem como as suas alterações, e exercer, quanto a elas, a tutela administrativa;
+
+e) Promover a reconversão, concentração ou extinção das instituições referidas na alínea anterior;
+
+f) Promover o apoio, nos termos legais, às instituições com fins de desenvolvimento sócio-cultural das comunidades;
+
+g) Coordenar e fiscalizar o funcionamento das Casas do Povo no que se refere às actividades sócio-culturais por elas desenvolvidas;
+
+h) Promover a prestação de socorros urgentes em casos de calamidades públicas ou sinistro, coordenando e orientando a aplicação dos meios ao seu dispor.
+
+###### Art. 6.º - 1 - Enquanto não entrar em vigor o estatuto político-administrativo da Região Autónoma da Madeira, compete ao Governo Regional da Região Autónoma da Madeira, em coordenação com os departamentos interessados do Governo da República, a criação e preenchimento dos quadros privativos dos funcionários dos serviços oficiais e paraoficiais do âmbito da saúde e segurança social implantados na Região.
+
+2 - A estrutura dos mesmos quadros deve obedecer a critérios de economia de meios e de eficiência e a sua criação implica, até à promulgação do estatuto referido no número anterior, o parecer favorável do Governo da República, através do Ministério dos Assuntos Sociais e da Secretaria de Estado da Administração Pública.
+
+3 - As regras de provimento nos quadros referidos no n.º 1 deste artigo são as constantes das leis gerais da República.
+
+4 - Compete ao Governo Regional a nomeação, promoção, exoneração e disciplina daquele pessoal.
+
+5 - A possível mobilidade dos funcionários dos serviços regionais referidos no n.º 1 deste artigo para os quadros gerais do Estado, e vice-versa, será a que vier a ser fixada para os funcionários dos serviços regionais no estatuto político-administrativo da Região Autónoma da Madeira.
+
+###### Art. 7.º O Governo da República, através dos seus serviços, colaborará com o Governo Regional na promoção e valorização dos funcionários e agentes dos serviços de saúde e segurança social da Região Autónoma.
+
+###### Art. 8.º - 1 - Os serviços locais da Região, tanto da saúde como da segurança social, oficiais e paraoficiais, dependentes do Ministério dos Assuntos Sociais serão integrados, respectivamente, nas estruturas orgânicas de saúde e segurança social regionais, à medida que estas estiverem aptas a funcionar.
+
+2 - A criação das estruturas orgânicas do número anterior obedecerá aos critérios legais definidos na Constituição da República e estabelecidos na legislação nacional e regional.
+
+3 - A integração prevista no n.º 1 far-se-á por despacho conjunto do Ministro da República da Região Autónoma da Madeira e do Ministro dos Assuntos Sociais.
+
+###### Art. 9.º Com a entrada em vigor deste diploma, as ligações mútuas entre os serviços de segurança social e de saúde da Região e os serviços centrais serão feitas obrigatoriamente através da Secretaria Regional dos Assuntos Sociais, salvaguardada a competência atribuída ao Ministro da República.
+
+###### Art. 10.º - 1 - Os serviços centrais prestarão aos serviços regionais de saúde e segurança social todo o apoio técnico-administrativo que lhes seja necessário, dentro da sua capacidade.
+
+2 - Poderão ser designadas equipas técnicas constituídas por elementos dos serviços centrais e regionais para estudos julgados convenientes à integração, criação e funcionamento dos serviços dos respectivos sectores.
+
+###### Art. 11.º - 1 - As instalações e o equipamento dos serviços oficiais e paraoficiais de saúde e segurança social serão administrados pelos competentes órgãos ou serviços dependentes da Secretaria Regional dos Assuntos Sociais.
+
+2 - Para o melhor aproveitamento dessas instalações e equipamentos a Secretaria Regional fica autorizada a introduzir-lhes as alterações que tiver por convenientes e afectá-los a fins diferentes.
+
+3 - As benfeitorias feitas pelo Governo Regional ficam a constituir património da Região.
+
+###### Art. 12.º As verbas atribuídas pelo Instituto de Gestão Financeira da Segurança Social e pela Secretaria de Estado da Saúde, respectivamente, às instituições de previdência e aos serviços médico-sociais da Região serão transferidas por duodécimos para o Governo Regional.
+
+###### Art. 13.º Enquanto não for elaborado o orçamento regional que inclua os serviços de saúde e segurança social regionalizados, os duodécimos das dotações do Orçamento Geral do Estado e do Orçamento Global da Segurança Social e as demais verbas atribuídas pelos serviços oficiais serão transferidos para o Governo Regional.
+
+###### Art. 14.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República e dos Assuntos Sociais.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Lino Dias Miguel - Henrique Medina Carreira - Armando Bacelar.
+
+**Promulgado em 28 de Setembro de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

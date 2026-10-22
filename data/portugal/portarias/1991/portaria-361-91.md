@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:598307:por
+title: Portaria n.º 361/91
+short_title: null
+summary: Fixa os valores das taxas de prestação de serviços que a Direcção-Geral de Energia (DGE) cobrará pela vistoria, revistoria,
+  inspecção e reinspecção periódicas de elevadores, escadas mecânicas e tapetes rolantes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 361/91
+official_date: null
+publication_date: '1991-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/1991, Série I-B de 1991-04-24
+  number: '95'
+  series: I
+  supplement: null
+  pages: 2338 - 2338
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/04/095b00/23382338.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/361/1991/04/24/p/dre/pt/html
+  oj: null
+  dre: '598307'
+  dre_path: /dr/detalhe/portaria/361-1991-598307
+  internal: pt:dre:598307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/361-1991-598307
+  metadata_url: https://data.dre.pt/eli/port/361/1991/04/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/361-1991-598307
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-04-24T00:00:00Z'
+integrity:
+  source_sha256: 48d3d9ace3c0967747d322b385c39f985d561d69b563118d8b995b63a1c964bb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-361-598307.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral de Energia
+- Segurança dos Edifícios
+- Elevador
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/110/1991/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/110/1991/03/18/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 361/91
+
+de 24 de Abril
+
+O n.º 2 do artigo 11.º do [Decreto-Lei n.º 110/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1991-475949), de 18 de Março, prevê que sejam fixados os valores das taxas de prestação de serviços a cobrar pela vistoria, revistoria, inspecção e reinspecção periódicas de elevadores, escadas mecânicas e tapetes rolantes.
+
+Também interessa definir a forma de processamento do pagamento daquelas taxas de prestação de serviços de forma a torná-lo mas simples e expedito.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
+
+1.º A Direcção-Geral de Energia (DGE) cobrará por cada elevador, escada mecânica ou tapete rolante, como taxa de prestação de serviços, os valores seguintes:
+
+a) 14000$00, pela vistoria ou revistoria, de elevador, escada mecânica ou tapete rolante de carga nominal igual ou superior a 100 kg;
+
+b) 70% do valor fixado na alínea anterior, pela vistoria ou revistoria, de elevador, escada mecânica ou tapete rolante de carga nominal inferior a 100 kg;
+
+c) 50% do valor fixado na alínea a), pela inspecção ou reinspecção periódica de elevador, escada mecânica ou tapete rolante de carga nominal igual ou superior a 100 kg;
+
+d) 35% do valor fixado na alínea a), pela inspecção ou reinspecção periódica de elevador, escada mecânica ou tapete rolante de carga nominal inferior a 100 kg.
+
+2.º As associações inspectoras de elevadores receberão, por cada elevador, escada mecânica ou tapete rolante que vistoriem, revistoriem, inspeccionem ou reinspeccionem, 75% dos valores cobrados pela prestação de serviços fixados no número anterior, constituindo o restante receita da DGE.
+
+3.º O pagamento das taxas de prestação de serviços devido pela vistoria, revistoria, inspecção e reinspecção periódicas dos elevadores, escadas mecânicas e tapetes rolantes poderá ser efectuado por meio de cheque endossado à DGE.
+
+Ministério da Indústria e Energia.
+
+**Assinada em 8 de Abril de 1991.**
+
+**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**

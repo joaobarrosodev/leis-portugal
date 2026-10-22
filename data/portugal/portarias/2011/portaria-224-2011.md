@@ -1,0 +1,328 @@
+---
+schema_version: '1.0'
+id: pt:dre:673400:por
+title: Portaria n.º 224/2011
+short_title: null
+summary: Aprova o Regulamento do Fundo de Garantia de Viagens e Turismo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 224/2011
+official_date: null
+publication_date: '2011-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2011, Série I de 2011-06-03
+  number: '108'
+  series: I
+  supplement: null
+  pages: 3046 - 3049
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/06/10800/0304603049.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-09-20'
+version_history:
+  file: portaria-224-2011.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-09-20'
+    amending: pt:dre:124831332:por
+    amending_title: Portaria n.º 322/2019
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/224/2011/p/cons/20190919/pt/html
+  oj: null
+  dre: '673400'
+  dre_path: /dr/detalhe/portaria/224-2011-673400
+  internal: pt:dre:673400:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-2011-673400
+  metadata_url: https://data.dre.pt/eli/port/224/2011/p/cons/20190919/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-124846739
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-124846739
+  retrieved_at: '2026-10-22T12:29:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 681b1d45e202c646cd828cb82eb9566ae3261199e2f338d142cc30dca85334fc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:29:08Z'
+  notes: 2 versão(ões); histórico completo em portaria-224-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência de Turismo
+- Financiamento
+- Turismo
+- Definição de Competências
+- FGVT
+- Fiscalização
+- Fundo de Garantia de Viagens e Turismo
+- Instituto de Turismo de Portugal
+- Proteção do Consumidor
+- Receita
+- Registo Nacional de Agências de Viagens e Turismo
+- Regulamento
+- Responsabilidade Civil
+- Viagem de Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:124831332:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/322-2019-124831332
+  date: '2019-09-19'
+- type: cites
+  target: celex:31990L0314
+  label: null
+  source: http://data.europa.eu/eli/dir/1990/314/oj
+article_structure:
+  article_count: 17
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:29:08Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 224/2011
+
+Portaria n.º 224/2011
+
+de 3 de Junho
+
+O Decreto-Lei n.º 61/2011, de 6 de Maio, que aprova o novo regime jurídico de acesso e de exercício da actividade das agências de viagens e turismo, cria, no seu artigo 31.º, o Fundo de Garantia de Viagens e Turismo.
+
+Este Fundo, dotado de autonomia administrativa e financeira, responde solidariamente pelo pagamento dos créditos de consumidores resultantes do incumprimento, total ou parcial, dos contratos celebrados com agências de viagens e turismo.
+
+O Decreto-Lei n.º 209/97, de 13 de Agosto, que o Decreto-Lei n.º 61/2011, de 6 de Maio, veio revogar, estabelecia que a caução prestada por uma determinada agência de viagens e turismo só podia ser accionada em situações de incumprimento da responsabilidade dessa agência e que, sem prejuízo da possibilidade de recurso à via judicial, a responsabilidade de cada agência de viagens e turismo pelo pagamento dos créditos dos consumidores resultantes do incumprimento das relações jurídicas constituídas à luz daquele decreto-lei, tinha como limite o montante das cauções prestadas pelas agências vendedora e organizadora da viagem.
+
+O Decreto-Lei n.º 61/2011, de 6 de Maio, ao criar um sistema de pagamentos baseado num princípio de solidariedade, em que os montantes disponíveis no Fundo respondem de forma anónima e autónoma pelo pagamento dos créditos dos consumidores, independentemente da agência de viagens com quem tenham contratado, veio reforçar as garantias destes, aumentando consideravelmente o montante financeiro disponível para o seu ressarcimento. Este mecanismo vem reforçar o disposto na Directiva Comunitária n.º <a href="eurlex.asp?ano=1990&id=390L0314" title="Link para Directiva da Comunidade Europeia">90/314/CEE</a>, de 13 de Junho, relativa às viagens, férias e circuitos organizados, que obriga o operador ou agência a possuir meios de garantia suficientes para assegurar, em caso de insolvência ou de falência, o reembolso dos fundos depositados e o repatriamento do consumidor.
+
+O novo decreto-lei estabelece o modo de financiamento do Fundo, o valor e o mecanismo de prestação das contribuições pelas agências de viagens e turismo, bem como as normas de accionamento do Fundo por parte dos consumidores. Estabelece, ainda, que a gestão do Fundo incumbe ao Estado, através do Turismo de Portugal, I. P., coadjuvado por um conselho geral, onde se encontram representados os consumidores e as empresas, numa relação de paridade, remetendo para portaria do membro do Governo responsável pela área do Turismo, a regulamentação do funcionamento e gestão deste Fundo.
+
+Assim:
+
+Ao abrigo do disposto no n.º 4 do artigo 31.º do Decreto-Lei n.º 61/2011, de 6 de Maio, manda o Governo, através do Secretário de Estado do Turismo, com competências delegadas, ao abrigo do despacho n.º 10846/2010, publicado no Diário da República, 2.ª série, n.º 126, de 1 de Julho de 2010, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovado o Regulamento do Fundo de Garantia de Viagens e Turismo, em anexo à presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 6 de Junho de 2011.
+
+O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 23 de Maio de 2011.
+
+## Anexo — REGULAMENTO DO FUNDO DE GARANTIA DE VIAGENS E TURISMO
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de funcionamento e gestão do Fundo de Garantia de Viagens e Turismo (FGVT).
+
+###### Artigo 2.º — Natureza e sede
+
+1 - O FGVT é dotado de personalidade jurídica e de autonomia administrativa, patrimonial e financeira.
+
+2 - O FGVT tem sede em Lisboa, nas instalações do Turismo de Portugal, I. P., que assegura os serviços técnicos e administrativos indispensáveis ao seu funcionamento.
+
+###### Artigo 3.º — Objectivo
+
+1 - O FGVT tem por objectivo assegurar o pagamento dos créditos dos consumidores resultantes do incumprimento de serviços contratados a agências de viagens e turismo e satisfaz:
+
+a) O reembolso dos montantes entregues pelos clientes;
+
+b) O reembolso das despesas suplementares suportadas pelos clientes em consequência da não prestação dos serviços ou da sua prestação defeituosa.
+
+2 - Ficam excluídos do âmbito do FGVT o pagamento dos créditos dos consumidores relativos à compra isolada de bilhetes de avião, quando a não concretização da viagem não seja imputável às agências de viagens e turismo envolvidas.
+
+###### Artigo 4.º — Solidariedade
+
+O FGVT responde solidariamente pelo pagamento dos créditos dos consumidores decorrentes do incumprimento de serviços contratados a qualquer agência de viagens e turismo que se encontre inscrita no Registo Nacional das Agências de Viagens e Turismo (RNAVT) e que tenha efectuado a contribuição para o FGVT, nos termos previstos no Decreto-Lei n.º 61/2011, de 6 de Maio.
+
+###### Artigo 5.º — Financiamento
+
+1 - O financiamento do FGVT é assegurado pelas agências de viagens e turismo, mediante uma contribuição única de (euro) 2.500,00, a prestar no momento da inscrição no RNAVT.
+
+2 - Sempre que o FGVT atinja um valor inferior a (euro) 3.000.000,00, as agências de viagens e turismo são notificadas pelo Turismo de Portugal, I. P., para prestarem contribuição adicional, nos termos do quadro único em anexo ao Decreto-Lei n.º 17/2018, de 8 de março, e na proporção estabelecida, até que o FGVT atinja o seu valor mínimo de (euro) 4.000.000,00.
+
+3 - A contribuição referida no número anterior é efetuada no prazo de 30 dias a contar da data da notificação do Turismo de Portugal, I. P., devendo em simultâneo a agência de viagens e turismo facultar o acesso à informação empresarial simplificada (IES) que tenha apresentado para efeitos fiscais, para comprovação do respetivo volume de negócios e apuramento do escalão aplicável e respetivo montante a contribuir, nos termos do número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 322/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/322-2019-124831332), em vigor a partir de 2019-09-20
+
+###### Artigo 6.º — Accionamento do FGVT
+
+1 - Os viajantes interessados em obter a satisfação de créditos resultantes do incumprimento de contratos celebrados com agências de viagens e turismo inscritas no RNAVT e que tenham efetuado a contribuição prevista para o FGVT, podem acionar este Fundo através de requerimento dirigido ao Turismo de Portugal, I. P., apresentando, em alternativa:
+
+a) Sentença judicial ou decisão arbitral transitada em julgado, da qual conste o montante da dívida exigível, certa e líquida;
+
+b) Decisão do provedor do cliente da Associação Portuguesa das Agências de Viagens e Turismo (APAVT), da qual conste o montante da dívida exigível, certa e líquida, desde que aquele esteja inscrito na lista de entidades de Resolução Alternativa de Litígios nos termos da Lei n.º 144/2015, de 8 de setembro, na redação em vigor;
+
+c) Requerimento solicitando a intervenção da comissão arbitral prevista no artigo 40.º do Decreto-Lei n.º 17/2018, de 8 de março, instruído com os documentos comprovativos dos factos alegados e identificação das agências de viagens e turismo organizadora e retalhista envolvidas.
+
+2 - O Turismo de Portugal, I. P., notifica as agências de viagens e turismo responsáveis para procederem ao pagamento da quantia devida no prazo de 10 dias, antes de remeter o processo ao conselho geral do FGVT para o seu acionamento.
+
+3 - O requerimento referido na alínea c) do n.º 1 é apresentado no prazo de 60 dias ou no prazo previsto no contrato, quando superior, nos termos do disposto no n.º 4 do artigo 39.º do Decreto-Lei n.º 17/2018, de 8 de março.
+
+4 - O pagamento por parte do FGVT relativamente às situações referidas na alínea c) do n.º 1 efectua-se apenas após decisão da comissão arbitral que dê provimento, total ou parcial, ao requerido.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 322/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/322-2019-124831332), em vigor a partir de 2019-09-20
+
+###### Artigo 7.º — Sub-rogação legal
+
+1 - Quando haja lugar a pagamento por parte do FGVT, a agência ou agências de viagens e turismo responsáveis devem repor o montante utilizado, no prazo máximo de 15 dias a contar da data do pagamento efetuado pelo FGVT.
+
+2 - No caso de incumprimento do disposto no número anterior, o FGVT fica sub-rogado nos direitos de crédito e respetivas garantias, nomeadamente privilégios creditórios dos viajantes, na medida dos pagamentos efetuados, acrescidos dos juros de mora à taxa legal, contados a partir do termo do prazo fixado no número anterior, e até ao efetivo e integral pagamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 322/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/322-2019-124831332), em vigor a partir de 2019-09-20
+
+###### Artigo 8.º — Receitas
+
+Para além do disposto no artigo 5.º, o FGVT dispõe das seguintes receitas:
+
+a) Rendimentos provenientes de aplicações financeiras;
+
+b) Resultados dos reembolsos efectuados para o Fundo ao abrigo da sub-rogação nos direitos do consumidor prevista no artigo 7.º;
+
+c) Liberalidades;
+
+d) Quaisquer outros meios financeiros que venham a ser atribuídos ou consignados por lei, acto ou contrato.
+
+###### Artigo 9.º — Reposição
+
+1 - Caso o FVGT atinja um valor inferior a (euro) 3.000.000,00, a sua recapitalização faz-se por recurso às receitas próprias a que se refere o artigo anterior, só sendo notificadas as agências de viagens e turismo, nos termos e para os efeitos previstos no n.º 2 do artigo 38.º do Decreto-Lei n.º 17/2018, de 8 de março, quando aquelas receitas se revelarem insuficientes para atingir o valor de (euro) 4.000.000,00 referido na mesma norma.
+
+2 - O pagamento da contribuição adicional pelas agências de viagens e turismo nos termos e para os efeitos do número anterior, é exigível a cada agência nos montantes previstos no n.º 2 do artigo 5.º, de acordo com o quadro único em anexo ao Decreto-Lei n.º 17/2018, de 8 de março.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 322/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/322-2019-124831332), em vigor a partir de 2019-09-20
+
+###### Artigo 10.º — Encargos
+
+Constituem encargos do Fundo, a suportar através do recurso aos montantes próprios, os resultantes:
+
+a) Da respectiva manutenção e funcionamento;
+
+b) Do pagamento dos créditos devidos aos consumidores;
+
+c) Do pagamento de encargos com a aquisição de serviços a uma sociedade financeira, conforme previsto no n.º 5 do artigo 31.º do Decreto-Lei n.º 61/2011, de 6 de Maio;
+
+d) Dos custos de aquisição, manutenção e conservação de bens ou serviços que tenha de utilizar;
+
+e) De outros actos legal ou contratualmente previstos ou permitidos.
+
+###### Artigo 11.º — Administração e gestão
+
+A gestão do FGVT cabe ao Turismo de Portugal, I. P., através da titularidade da presidência de um conselho geral, não remunerado, com a seguinte composição:
+
+a) Um presidente e um vogal designados pelo conselho directivo do Turismo de Portugal, I. P., e que o representam;
+
+b) (Revogada.)
+
+c) Um representante da APAVT;
+
+d) Um representante da Associação Portuguesa para a Defesa do Consumidor (DECO).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 322/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/322-2019-124831332), em vigor a partir de 2019-09-20
+
+###### Artigo 12.º — Competências do conselho geral
+
+1 - Compete ao conselho geral praticar todos os actos de administração e gestão, designadamente:
+
+a) Dirigir a actividade do FGVT, assegurando o desenvolvimento das suas atribuições;
+
+b) Elaborar e aprovar, por maioria, o plano anual de actividades, o orçamento anual, bem como as contas e o relatório de actividades do FGVT;
+
+c) Elaborar, até ao dia 30 de Janeiro de cada ano, o plano de gestão técnica e financeira do FGVT, com base nas disponibilidades financeiras deste;
+
+d) Assegurar a autonomia dos fluxos financeiros do FGVT e garantir uma contabilidade específica e diferenciada da contabilidade do Turismo de Portugal, I. P.;
+
+e) Decidir em todas as matérias que envolvam encargos e a assunção de responsabilidades pelo FGVT;
+
+f) Gerir os recursos financeiros do FGVT;
+
+g) Emitir as directrizes adequadas ao bom funcionamento do FGVT;
+
+h) Estabelecer relações com as instituições de crédito e sociedades financeiras, sempre que tal se revele necessário;
+
+i) Promover a recuperação dos créditos em que o FGVT ficar sub-rogado por via da sua satisfação aos consumidores, desenvolvendo todas as diligências judiciais e extrajudiciais adequadas a tal fim;
+
+j) Elaborar relatórios semestrais da actividade desenvolvida que incluam, designadamente, informação sobre o volume dos requerimentos de accionamento do FGVT, o sentido das decisões, o volume e duração das pendências, as diligências realizadas para a recuperação dos créditos;
+
+l) Representar o Fundo em juízo e fora dele, podendo conferir mandato para este efeito;
+
+m) Autorizar as despesas com a aquisição, alienação ou locação de bens e serviços dentro dos limites fixados por lei;
+
+n) Assegurar o pagamento dos montantes decorrentes da aplicação do artigo 3.º
+
+2 - O FGVT vincula-se pela assinatura do presidente e de outro membro do conselho geral.
+
+3 - O plano de gestão técnica e financeira deve incluir informação sobre a actividade desenvolvida pelo FGVT, designadamente informação sobre o volume e objecto dos requerimentos de accionamento apresentados, o sentido da decisão, o montante do pagamento efectuado ao consumidor, a identificação das agências de viagens e turismo incumpridoras.
+
+4 - As receitas provenientes da aplicação dos recursos financeiros do FGVT destinam-se à sua recapitalização e ao cumprimento dos objectivos estabelecidos no artigo 3.º
+
+5 - As competências previstas neste artigo podem ser delegadas nos termos gerais.
+
+###### Artigo 13.º — Fiscal único
+
+O fiscal único é designado pelo conselho geral, de entre revisores oficiais de contas.
+
+###### Artigo 14.º — Competências do fiscal único
+
+Compete ao fiscal único:
+
+a) Acompanhar a gestão financeira do FGVT;
+
+b) Emitir parecer sobre o orçamento, o relatório de contas e balanço anuais;
+
+c) Fiscalizar a execução da contabilidade do FGVT e o cumprimento dos normativos aplicáveis, informando o conselho geral de qualquer anomalia detectada;
+
+d) Elaborar o relatório anual sobre a acção fiscalizadora exercida;
+
+e) Solicitar ao conselho geral a realização de reuniões conjuntas dos dois órgãos, quando o considerar conveniente;
+
+f) Pronunciar-se sobre qualquer assunto de interesse para o FGVT que seja submetido à sua apreciação pelo conselho geral;
+
+g) Acompanhar as operações de accionamento do Fundo, a reposição e a recuperação de montantes.
+
+###### Artigo 15.º — Gestão do FGVT por sociedades financeiras
+
+O Turismo de Portugal, I. P., pode atribuir a gestão financeira do FGVT a uma sociedade financeira, nos termos previstos no n.º 5 do artigo 31.º do Decreto-Lei n.º 61/2011, de 6 de Maio, mediante parecer prévio vinculativo do conselho geral.

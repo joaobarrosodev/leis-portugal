@@ -1,0 +1,931 @@
+---
+schema_version: '1.0'
+id: pt:dre:25344769:por
+title: Decreto-Lei n.º 79/2014
+short_title: null
+summary: Aprova o regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico
+  e secundário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 79/2014
+official_date: null
+publication_date: '2014-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 92/2014, Série I de 2014-05-14
+  number: '92'
+  series: I
+  supplement: null
+  pages: 2819 - 2828
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/05/09200/0281902828.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-15'
+version_history:
+  file: decreto-lei-79-2014.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-17'
+    amending: pt:dre:64297587:por
+    amending_title: Decreto-Lei n.º 176/2014
+    changes:
+    - Altera Anexo
+  - date: '2018-03-08'
+    amending: pt:dre:114825662:por
+    amending_title: Decreto-Lei n.º 16/2018
+    changes:
+    - Altera Anexo
+  - date: '2023-11-30'
+    amending: pt:dre:224870952:por
+    amending_title: Decreto-Lei n.º 112/2023
+    changes:
+    - Adita Artigo 18.º-A
+    - Adita Artigo 23.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Anexo
+  - date: '2024-03-20'
+    amending: pt:dre:856211140:por
+    amending_title: Decreto-Lei n.º 23/2024
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º-A
+    - Altera Anexo
+  - date: '2025-02-15'
+    amending: pt:dre:907406911:por
+    amending_title: Decreto-Lei n.º 9-A/2025
+    changes:
+    - Adita Artigo 32.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 23.º-A
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Anexo
+    - Revoga Artigo 31.º
+  - date: '2026-01-15'
+    amending: pt:dre:1006464121:por
+    amending_title: Decreto-Lei n.º 7/2026
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/79/2014/p/cons/20260114/pt/html
+  oj: null
+  dre: '25344769'
+  dre_path: /dr/detalhe/decreto-lei/79-2014-25344769
+  internal: pt:dre:25344769:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2014-25344769
+  metadata_url: https://data.dre.pt/eli/dec-lei/79/2014/p/cons/20260114/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-73250886
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-73250886
+  retrieved_at: '2026-10-22T12:05:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8fd37e5b30895d5c6b5d730767cae11d2423e19054a59d0db0db31bdf301baf5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:05:21Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-79-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação da Formação de Professores
+- Formação de Professores
+- Definição de Competências
+- Educador de Infância
+- Ensino Cooperativo
+- Habilitações Literárias
+- Ministério da Educação e Ciência
+- Mestrado
+- Direção Geral do Ensino Superior
+- Pessoal Docente
+- Qualificação Profissional
+- Ensino Básico
+- Regime Jurídico
+- Ensino Superior
+- Educação Pré-escolar
+relationships:
+- type: amended_by
+  target: pt:dre:64297587:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587
+  date: '2014-12-12'
+- type: amended_by
+  target: pt:dre:114825662:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662
+  date: '2018-03-07'
+- type: amended_by
+  target: pt:dre:224870952:por
+  label: Adita Artigo 18.º-A; Adita Artigo 23.º-A; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo
+    11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo
+    22.º; Altera Artigo 23.º; Altera Artigo 26.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952
+  date: '2023-11-29'
+- type: amended_by
+  target: pt:dre:856211140:por
+  label: Altera Artigo 15.º; Altera Artigo 18.º; Altera Artigo 23.º-A; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140
+  date: '2024-03-19'
+- type: amended_by
+  target: pt:dre:907406911:por
+  label: Adita Artigo 32.º-A; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo
+    13.º; Altera Artigo 15.º; Altera Artigo 18.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo
+    23.º-A; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Anexo; Revoga Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911
+  date: '2025-02-14'
+- type: amended_by
+  target: pt:dre:1006464121:por
+  label: Altera Artigo 18.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2026-1006464121
+  date: '2026-01-14'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/208/2002/10/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/208/2002/10/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/220/2009/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/2009/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/27/2006/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/27/2006/02/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43/2007/02/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43/2007/02/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/115/1997/0
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/0
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1189/2010/11/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1189/2010/11/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/192/2002/03/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/192/2002/03/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+article_structure:
+  article_count: 36
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:05:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 79/2014
+
+Decreto-Lei n.º 79/2014
+
+de 14 de maio
+
+O regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário foi aprovado pelo Decreto-Lei n.º 43/2007, de 22 de fevereiro, na sequência da reorganização do sistema de graus e diplomas do ensino superior operado pelo Decreto-Lei n.º 74/2006, de 24 de março.
+
+Aquele regime, posteriormente complementado pelo Decreto-Lei n.º 220/2009, de 8 de setembro, e pela Portaria n.º 1189/2010, de 17 de novembro, substituiu os modelos de formação então em vigor por um modelo sequencial, organizado em dois ciclos de estudos.
+
+Reconhece-se que ao primeiro ciclo, a licenciatura, cabe assegurar a formação de base na área da docência. E salienta-se que ao segundo ciclo, o mestrado, cabe assegurar um complemento dessa formação que reforce e aprofunde a formação académica, incidindo sobre os conhecimentos necessários à docência nas áreas de conteúdo e nas disciplinas abrangidas pelo grupo de recrutamento para que visa preparar. Cabe igualmente ao segundo ciclo assegurar a formação educacional geral, a formação nas didáticas específicas da área da docência, a formação nas áreas cultural, social e ética e a iniciação à prática profissional, que culmina com a prática supervisionada.
+
+Reconhecendo o valor e o impacto da docência na qualidade da educação, sublinha-se que a preparação de educadores e professores deve ser feita da forma mais rigorosa e que melhor valorize a função docente. Acresce que a necessária renovação dos quadros das escolas e a procura de novos docentes, que nos próximos anos começará progressivamente a fazer-se sentir, obrigam a preparar desde já da melhor forma as novas gerações de educadores e professores.
+
+As melhores práticas e o robusto conjunto de estudos internacionais e de dados recolhidos sobre estas matérias apontam consistentemente para a importância decisiva da formação inicial de professores e para a necessidade de essa formação ser muito exigente, em particular no conhecimento das matérias da área de docência e nas didáticas respetivas.
+
+Na realidade, múltiplos estudos internacionais recentes, divulgados tanto em publicações científicas como em análises e sínteses de organizações independentes, nomeadamente a OCDE e a Eurydice, têm vindo a revelar que o aumento do nível geral da formação de professores tende a ter um efeito mensurável e muito significativo na qualidade do sistema de ensino, tal como se registou notavelmente na Finlândia. Têm igualmente vindo a indicar que a profundidade do conhecimento dos professores sobre as matérias específicas que lecionam tem efeito expressivo na sua autonomia e segurança em sala de aula, traduzindo-se numa mais elevada qualidade da aprendizagem dos alunos. Finalmente, têm vindo a mostrar que a formação inicial dos professores nas matérias de docência é crucial e não é substituível pela formação profissional contínua, que obviamente não deixa de desempenhar um papel indispensável.
+
+Importa pois, numa lógica incremental, reforçar instrumentos que propiciem, a médio e longo prazo, ter nas nossas escolas os mais bem preparados, mais bem treinados, mais vocacionados e mais motivados para desenvolver a nobre e exigente tarefa de ensinar. Nesse sentido, o Governo regulamentou a Prova de Avaliação de Conhecimentos e Capacidades para a admissão aos concursos de seleção e recrutamento de pessoal docente, introduziu alterações na formação contínua de docentes e irá introduzir uma maior exigência na admissão aos cursos de educação básica.
+
+O presente decreto-lei complementa este conjunto de medidas. Procede à revisão do regime aprovado pelos Decretos-Leis n.os 43/2007, de 22 de fevereiro, e 220/2009, de 8 de setembro, com os objetivos de reforçar a qualificação dos educadores e professores designadamente nas áreas da docência, das didáticas específicas e da iniciação à prática profissional, através do aumento da duração dos ciclos de estudos e do peso relativo dessas áreas, bem como de definir com rigor e clareza a correspondência entre as formações e os grupos de recrutamento fixados pelo Decreto-Lei n.º 27/2006, de 10 de fevereiro, e pelas Portarias n.os 693/98, de 3 de setembro, e 192/2002, de 4 de março.
+
+Entre as alterações introduzidas assinalam-se o aumento da duração dos mestrados em Educação Pré-Escolar e em Ensino do 1.º Ciclo do Ensino Básico de dois para três semestres, o aumento da duração do mestrado conjunto em Educação Pré-Escolar e Ensino do 1.º Ciclo do Ensino Básico de três para quatro semestres e a fixação em quatro semestres da duração dos restantes mestrados.
+
+Procede-se também ao desdobramento do mestrado em Ensino do 1.º e do 2.º Ciclo do Ensino Básico separando a formação de docentes do 2.º ciclo de Português, História e Geografia de Portugal da formação de docentes do 2.º ciclo em Matemática e Ciências Naturais, desdobramento que está ajustado aos grupos de recrutamento e que permite reforçar a formação na área da docência, ao desdobramento do mestrado em Ensino da História e da Geografia no 3.º Ciclo do Ensino Básico e no Ensino Secundário, desdobramento que está ajustado aos grupos de recrutamento e que permite reforçar a formação na área da docência ao nível da habilitação de ingresso, e à eliminação de mestrados sem correspondência com os grupos de recrutamento.
+
+Introduzem-se igualmente mecanismos de fixação das vagas para os ciclos de estudos de licenciatura em Educação Básica e de mestrado em Educação Pré-Escolar e em Ensino que visam assegurar um melhor ajustamento entre a oferta de formação e as necessidades efetivas do sistema educativo.
+
+No quadro da transição entre a organização curricular atualmente em vigor e a aprovada pelo presente decreto-lei, a Agência de Avaliação e Acreditação do Ensino Superior promoverá a aplicação de procedimentos de avaliação e acreditação que, sempre que tal se revele possível, assegurem o aproveitamento dos processos de avaliação e acreditação já realizados.
+
+Por último, reconhecem-se, ainda, como habilitando profissionalmente para a docência os diplomas de Pós-Graduação em Ensino conferidos pelos cursos de pós-graduação nas especialidades de Ensino de Português e de Francês, Ensino de Português e de Inglês e Ensino de Português, criados pelo despacho n.º 19018/2002, publicado no Diário da República, 2.ª série, de 27 de agosto, alterado pelo despacho n.º 20693/2003, publicado no Diário da República, 2.ª série, de 28 de outubro, no período que decorreu entre a extinção do Instituto Nacional de Acreditação da Formação de Professores pela Lei n.º 16-A/2002, de 31 de maio, e a atribuição à Direção-Geral dos Recursos Humanos da Educação, pelo Decreto-Lei n.º 208/2002, de 17 de outubro, das competências daquele relativas ao sistema de acreditação da formação inicial de professores.
+
+Foram ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, a Associação Portuguesa do Ensino Superior Privado, o Conselho das Escolas, a Associação de Estabelecimentos de Ensino Particular e Cooperativo e o Conselho Nacional de Educação.
+
+Assim:
+
+No desenvolvimento da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, alterada pelas Leis n.os 115/97, de 19 de setembro, 49/2005, de 30 de agosto, e 85/2009, de 27 de agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Objeto e âmbito
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova o regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário.
+
+###### Artigo 2.º — Âmbito
+
+O presente decreto-lei aplica-se:
+
+a) Aos estabelecimentos de ensino superior, públicos e privados, que ministrem formação conducente à aquisição de habilitação profissional para a docência;
+
+b) Aos estabelecimentos de educação e ensino públicos, particulares e cooperativos que ministrem a educação pré-escolar, o ensino básico e o ensino secundário.
+
+### Capítulo II — Habilitação profissional para a docência
+
+###### Artigo 3.º — Habilitação profissional e desempenho da atividade docente
+
+A habilitação profissional para a docência é condição indispensável para o desempenho da atividade docente.
+
+###### Artigo 4.º — Titulares de habilitação profissional para a docência
+
+Têm habilitação profissional para a docência em cada grupo de recrutamento os titulares do grau de mestre na especialidade correspondente constante do anexo ao presente decreto-lei, que dele faz parte integrante.
+
+###### Artigo 5.º — Disciplinas
+
+As disciplinas abrangidas por cada grupo de recrutamento são fixadas por portaria do membro do Governo responsável pela área da educação.
+
+### Capítulo III — Princípios gerais e organização da formação
+
+###### Artigo 6.º — Princípios gerais
+
+Os ciclos de estudos que visam a aquisição de habilitação profissional para a docência têm como referenciais:
+
+a) Os princípios gerais constantes do n.º 1 do artigo 33.º da Lei de Bases do Sistema Educativo;
+
+b) As orientações pedagógicas para a creche, as orientações curriculares para a educação pré-escolar e as matrizes curriculares-base dos ensinos básico e secundário;
+
+c) (Revogada.)
+
+d) O perfil dos alunos à saída da escolaridade obrigatória;
+
+e) Os documentos curriculares em vigor para cada disciplina e para cada ciclo de ensino;
+
+f) As orientações gerais de política educativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 7.º — Componentes de formação
+
+1 - Os ciclos de estudos que visam a aquisição de habilitação profissional para a docência incluem as seguintes componentes de formação, garantindo a sua adequada integração em função das exigências do desempenho profissional:
+
+a) Área de docência;
+
+b) Área educacional geral;
+
+c) Didáticas específicas;
+
+d) Área cultural, social e ética;
+
+e) Iniciação à prática profissional.
+
+2 - A formação na área cultural, social e ética é assegurada no âmbito das restantes componentes de formação.
+
+3 - A aprendizagem a realizar tem por base o conhecimento científico acumulado, o conhecimento profissional resultante da experiência, a análise de dados empíricos e a investigação existente.
+
+###### Artigo 8.º — Formação na área de docência
+
+1 - A formação na área de docência visa complementar, reforçar e aprofundar a formação académica, incidindo sobre os conhecimentos necessários à docência nas áreas de conteúdo e nas disciplinas abrangidas pelo grupo de recrutamento.
+
+2 - A formação na área de docência inclui o aprofundamento do conhecimento das matérias relacionadas com a educação pré-escolar e com as áreas de docência, incidindo sobre a sua fundamentação avançada, mesmo quando sejam matérias elementares.
+
+###### Artigo 9.º — Formação na área educacional geral
+
+1 - A formação na área educacional geral abrange as competências que integram os conhecimentos, as capacidades e as atitudes comuns a todos os docentes que são relevantes para o seu desempenho em contexto educativo, designadamente de desenvolvimento do currículo, nas instituições de educação de infância ou nas escolas, bem como na relação com a família e com a comunidade.
+
+2 - A formação na área educacional geral integra, obrigatoriamente, as seguintes áreas:
+
+a) Psicologia do desenvolvimento, do comportamento e da aprendizagem;
+
+b) Processos cognitivos, designadamente os envolvidos na aprendizagem da leitura, da escrita e da matemática elementar;
+
+c) Competências sociais e emocionais;
+
+d) Currículo e desenvolvimento do currículo, compreendendo os processos de ensino, da aprendizagem e da avaliação;
+
+e) Educação para a cidadania;
+
+f) Diversidade e inclusão, abrangendo a educação inclusiva;
+
+g) Organização escolar, compreendendo a relação entre a escola, a família e a comunidade;
+
+h) Organização e gestão da sala de aula, incluindo a disciplina;
+
+i) Tecnologias digitais em educação.
+
+3 - Para além das áreas previstas no número anterior, poderão ser incluídas outras áreas a definir pelo órgão legal e estatutariamente competente das instituições de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 10.º — Formação em didáticas específicas
+
+A formação em didáticas específicas abrange as competências que integram conhecimentos, capacidades e atitudes, relativos às áreas de conteúdo e ao ensino das disciplinas do respetivo grupo de recrutamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 11.º — Iniciação à prática profissional
+
+1 - A iniciação à prática profissional organiza-se de acordo com os seguintes princípios:
+
+a) Inclui a observação e colaboração em situações de educação e ensino e a prática supervisionada na sala de atividades ou na sala de aula, nas instituições de educação de infância ou nas escolas;
+
+b) Proporciona aos formandos experiências de planificação, ensino e avaliação, de acordo com as funções cometidas ao docente, dentro e fora da sala de aula;
+
+c) Realiza-se em grupos das creches ou dos jardins-de-infância, bem como nos diferentes níveis e ciclos de ensino abrangidos pelos grupos de recrutamento para os quais o ciclo de estudos prepara;
+
+d) É concebida numa perspetiva de desenvolvimento de competências para a articulação entre conhecimento teórico e conhecimento prático, numa lógica de resolução de problemas emergentes da prática profissional quotidiana, visando a aprendizagem;
+
+e) É concebida numa perspetiva de desenvolvimento profissional dos formandos e promove nestes uma atitude orientada para a permanente melhoria da aprendizagem dos seus alunos;
+
+f) É concebida numa perspetiva de desenvolvimento de competências de investigação e de análise sobre a atividade docente, com vista à sustentação e à melhoria da prática profissional do formando, com base em conhecimentos e em práticas comprovados.
+
+2 - A prática supervisionada a que se refere a alínea a) do número anterior é a componente central do estágio de natureza profissional objeto de relatório final referido na alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual.
+
+3 - Os candidatos que, na data do ingresso em ciclo de estudos previsto no presente decreto-lei, possuam pelo menos 6 anos completos de serviço docente, com avaliação mínima de Bom, prestado nos últimos 10 anos na respetiva área científica, podem optar, em alternativa à prática de ensino supervisionada, pela apresentação e defesa pública de um relatório de natureza teórico-prática, sustentado cientificamente, que abranja esse período de docência.
+
+4 - Os termos a que deve obedecer a elaboração do relatório a que se refere o número anterior e o respetivo processo avaliativo são fixados pelos estabelecimentos de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 12.º — Formação na área cultural, social e ética
+
+A formação na área cultural, social e ética abrange, nomeadamente:
+
+a) A sensibilização para os grandes problemas do mundo contemporâneo, incluindo os valores fundamentais da Constituição da República, da liberdade de expressão e de religião, e do respeito pelas minorias étnicas e pelos valores da igualdade de género;
+
+b) O alargamento a áreas do conhecimento, da cultura, incluindo a cultura científica, das artes e das humanidades, diferentes das da sua área de docência;
+
+c) O contacto com os métodos de recolha de dados e de análise crítica de dados, hipóteses e teorias;
+
+d) A valorização das dimensões ética e cívica da atividade docente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+### Capítulo IV — Estruturas curriculares
+
+###### Artigo 13.º — Estrutura curricular do ciclo de estudos conducente ao grau de licenciado em Educação Básica
+
+1 - O número de créditos do ciclo de estudos conducente ao grau de licenciado em Educação Básica é de 180, distribuídos pelas componentes de formação nos seguintes termos:
+
+a) Área de docência: mínimo de 125;
+
+b) Área educacional geral: mínimo de 15;
+
+c) Didáticas específicas: mínimo de 15;
+
+d) Iniciação à prática profissional: mínimo de 15.
+
+2 - Os créditos relativos à componente de formação na área de docência são, no mínimo, os seguintes:
+
+a) Português: 30;
+
+b) Matemática: 30;
+
+c) Ciências Naturais e História e Geografia de Portugal: 30;
+
+d) Educação Artística e Educação Física: 30, dos quais um mínimo de 20 em Educação Artística e um mínimo de 8 em Educação Física.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+###### Artigo 14.º — Estruturas curriculares dos ciclos de estudos conducentes ao grau de mestre nos domínios da Educação Pré-Escolar, 1.º Ciclo do Ensino Básico e 2.º Ciclo do Ensino Básico
+
+1 - O número de créditos do ciclo de estudos conducente ao grau de mestre na especialidade de Educação Pré-Escolar é de 90, distribuídos pelas componentes de formação nos seguintes termos:
+
+a) Área de docência: mínimo de 6;
+
+b) Área educacional geral: mínimo de 6;
+
+c) Didáticas específicas: mínimo de 24;
+
+d) Prática de ensino supervisionada: mínimo de 41.
+
+2 - O número de créditos do ciclo de estudos conducente ao grau de mestre na especialidade de Ensino do 1.º Ciclo do Ensino Básico é de 90, distribuídos pelas componentes de formação nos seguintes termos:
+
+a) Área de docência: mínimo de 18;
+
+b) Área educacional geral: mínimo de 6;
+
+c) Didáticas específicas: mínimo de 21;
+
+d) Prática de ensino supervisionada: mínimo de 41.
+
+3 - O número de créditos dos ciclos de estudos conducentes ao grau de mestre na especialidade de Educação Pré-Escolar e 1.º Ciclo do Ensino Básico é de 120, distribuídos pelas componentes de formação nos seguintes termos:
+
+a) Área de docência: mínimo de 18;
+
+b) Área educacional geral: mínimo de 6;
+
+c) Didáticas específicas: mínimo de 36;
+
+d) Prática de ensino supervisionada: mínimo de 54.
+
+4 - O número de créditos dos ciclos de estudos conducentes ao grau de mestre na especialidade de Ensino do 1.º Ciclo do Ensino Básico, e de Português e História e Geografia de Portugal no 2.º Ciclo do Ensino Básico, bem como na especialidade de Ensino do 1.º Ciclo do Ensino Básico e de Matemática e Ciências Naturais no 2.º Ciclo do Ensino Básico é de 120, distribuídos pelas componentes de formação nos seguintes termos:
+
+a) Área de docência: mínimo de 27;
+
+b) Área educacional geral: mínimo de 6;
+
+c) Didáticas específicas: mínimo de 30;
+
+d) Prática de ensino supervisionada: mínimo de 54.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 15.º — Estruturas curriculares dos restantes ciclos de estudos
+
+1 - O número de créditos dos ciclos de estudos conducentes ao grau de mestre a que se refere o anexo ao presente decreto-lei e não previstos no artigo anterior é de 120, distribuídos pelas componentes de formação nos seguintes termos:
+
+a) Área de docência: mínimo de 12;
+
+b) Área educacional geral: mínimo de 9;
+
+c) Didáticas específicas: mínimo de 30;
+
+d) Iniciação à prática profissional, incluindo a prática de ensino supervisionada: mínimo de 60.
+
+2 - Sem prejuízo do disposto no número anterior, aos candidatos que, na data do ingresso em ciclo de estudos previsto no presente decreto-lei, sejam detentores dos graus de mestre ou de doutor são considerados, pelos estabelecimentos de ensino superior, os créditos obtidos nos ciclos de estudos conducentes àqueles graus, na área ou nas áreas científicas respetivas, em função do respetivo plano de estudos.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2024 - Diário da República n.º 56/2024, Série I de 2024-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), em vigor a partir de 2024-03-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 16.º — Unidades curriculares comuns a vários ciclos de estudos
+
+1 - Sempre que uma instituição ministre mais do que um ciclo de estudos de mestrado de entre aqueles a que se refere o anexo ao presente decreto-lei, a formação nas componentes referidas nas alíneas b) e d) do n.º 1 do artigo 7.º e, em parte, na componente referida na alínea e) do mesmo número, pode destinar-se, simultaneamente, a estudantes dos diferentes mestrados, em turmas com dimensões pedagogicamente aceitáveis.
+
+2 - A formação na componente da área de docência pode igualmente destinar-se, simultaneamente, a estudantes de diferentes mestrados, regulados pelo presente decreto-lei ou por outros diplomas, em turmas com dimensões pedagogicamente aceitáveis.
+
+### Capítulo V — Condições de ingresso
+
+###### Artigo 17.º — Condições gerais de ingresso nos ciclos de estudos conducentes ao grau de mestre
+
+1 - É condição geral de ingresso nos ciclos de estudos conducentes ao grau de mestre em cada uma das especialidades a que se refere o anexo ao presente decreto-lei, o domínio oral e escrito da língua portuguesa e o domínio das regras essenciais da argumentação lógica e crítica.
+
+2 - O órgão legal e estatutariamente competente de cada estabelecimento de ensino superior procede à avaliação da condição a que se refere o número anterior, adotando para tal a metodologia que considere mais adequada, de entre provas escritas ou orais, entrevistas ou provas documentais, ou uma combinação destas.
+
+3 - Integram o processo individual do estudante todos os documentos relacionados com a avaliação a que se refere o número anterior, incluindo as provas escritas que o mesmo efetuou.
+
+###### Artigo 18.º — Condições específicas de ingresso nos ciclos de estudos conducentes ao grau de mestre
+
+1 - As regras específicas de ingresso nos ciclos de estudos conducentes ao grau de mestre em cada uma das especialidades a que se refere o anexo ao presente decreto-lei são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior nos termos do n.º 2 do artigo 17.º do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual, com respeito pelo disposto nos números seguintes.
+
+2 - Podem candidatar-se ao ingresso num ciclo de estudos conducente ao grau de mestre numa das especialidades a que se referem os n.os 1 a 5 do anexo ao presente decreto-lei:
+
+a) Os titulares da licenciatura em Educação Básica; e
+
+b) Os titulares de outras licenciaturas desde que satisfaçam os requisitos de créditos mínimos de formação, tal como definidos no anexo ao presente decreto-lei.
+
+3 - (Revogado.)
+
+4 - Podem candidatar-se ao ingresso num ciclo de estudos conducente ao grau de mestre numa das especialidades a que se referem os n.os 6 a 7, 9 a 29, 31 e 33 do anexo ao presente decreto-lei aqueles que satisfaçam, cumulativamente, as seguintes condições:
+
+a) Sejam titulares de uma habilitação académica superior a que se referem as alíneas a) a c) do n.º 1 do artigo 17.º do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual;
+
+b) Tenham obtido, quer no quadro da habilitação académica a que se refere a alínea anterior, quer em outros ciclos de estudos do ensino superior, os requisitos mínimos de formação fixados para o ingresso na respetiva especialidade constantes do anexo ao presente decreto-lei.
+
+5 - Podem candidatar-se ao ingresso num ciclo de estudos conducente ao grau de mestre numa das especialidades a que se referem os n.os 8, 30, 32 e 34 do anexo ao presente decreto-lei os detentores de formação superior que possuam os requisitos de créditos mínimos fixados pelos estabelecimentos de ensino superior nas componentes de formação.
+
+6 - Podem, ainda, candidatar-se ao ingresso num ciclo de estudos conducente ao grau de mestre numa das especialidades a que se referem os n.os 6 a 34 do anexo ao presente decreto-lei aqueles que:
+
+a) Reúnam as condições previstas na alínea d) do n.º 1 do artigo 17.º do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual, e satisfaçam os requisitos mínimos de formação fixados para o ingresso na respetiva especialidade constantes do anexo ao presente decreto-lei;
+
+b) Cumpram as condições de acesso à prática de ensino supervisionada nos termos previstos nos n.os 3 e 4 do artigo 11.º
+
+7 - Podem igualmente candidatar-se ao ingresso num ciclo de estudos conducente ao grau de mestre numa das especialidades a que se refere o anexo ao presente decreto-lei os indivíduos que tenham obtido 75 % dos créditos dos requisitos mínimos de formação fixados para a respetiva especialidade no referido anexo.
+
+8 - Na situação prevista no número anterior, a inscrição nas unidades curriculares das componentes de didáticas específicas e de iniciação à prática profissional, incluindo a prática de ensino supervisionada, pode ocorrer, sempre que possível, em simultâneo com a obtenção dos créditos em falta, cabendo ao órgão legal e estatutariamente competente do estabelecimento de ensino superior decidir sobre quais as unidades curriculares das componentes de formação previstas nas alíneas a), b) e c) do n.º 1, nas alíneas a), b) e c) do n.º 2, nas alíneas a), b) e c) do n.º 3 e nas alíneas a), b) e c) do n.º 4 do artigo 14.º, bem como nas alíneas a), b) e c) do n.º 1 do artigo 15.º, a frequentar pelos candidatos, para a obtenção dos créditos necessários à atribuição do grau de mestre na especialidade considerada.
+
+9 - O órgão legal e estatutariamente competente do estabelecimento de ensino superior verifica, para o efeito do ingresso em cada ciclo de estudos de mestrado, se a formação de cada candidato satisfaz, quantitativa e qualitativamente, os créditos mínimos de formação fixados para a especialidade no anexo ao presente decreto-lei.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 7/2026 - Diário da República n.º 9/2026, Série I de 2026-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2026-1006464121) A redação conferida pelo Decreto-Lei n.º 7/2026, de 14 de janeiro ao n.º 8 do presente artigo é aplicável aos ciclos de estudos conducentes ao grau de mestre iniciados até ao ano letivo de 2024-2025, inclusive, relativamente ao acompanhamento de estudantes que for realizado a partir da data da entrada em vigor do presente decreto-lei e aos ciclos de estudos conducentes ao grau de mestre iniciados a partir do ano letivo de 2025-2026, inclusive.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2026 - Diário da República n.º 9/2026, Série I de 2026-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2026-1006464121), em vigor a partir de 2026-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2024 - Diário da República n.º 56/2024, Série I de 2024-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), em vigor a partir de 2024-03-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 18.º-A — Condições específicas de reingresso
+
+1 - Podem reingressar num ciclo de estudos conducente ao grau de mestre numa das especialidades a que se refere o anexo ao presente decreto-lei os estudantes que tenham estado matriculados e inscritos no referido ciclo de estudos e não o tenham concluído, em virtude de:
+
+a) Não terem defendido o relatório da unidade curricular relativa à prática de ensino supervisionada;
+
+b) Não terem concluído a iniciação à prática de ensino supervisionada ou outras unidades curriculares.
+
+2 - Para efeitos do previsto no número anterior, cada estabelecimento de ensino superior, através dos órgãos legal e estatutariamente competentes, define planos personalizados de reingresso adaptados aos perfis dos estudantes, tendo em consideração a experiência entretanto adquirida e comprovada, as unidades curriculares realizadas e as que tenham de ser concluídas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 19.º — Vagas
+
+1 - O número máximo de vagas para novas admissões no ciclo de estudos de licenciatura em Educação Básica e nos ciclos de estudos de mestrado regulados pelo presente decreto-lei é fixado anualmente pelas instituições de ensino superior, com a devida antecedência, tendo em consideração:
+
+a) Os recursos humanos e materiais da instituição, em particular no que se refere à adequação do respetivo corpo docente;
+
+b) A rede de escolas cooperantes a que se refere o artigo 22.º e a disponibilidade de orientadores cooperantes a que se refere o artigo 23.º;
+
+c) Os limites que tenham sido fixados pela Agência de Avaliação e Acreditação do Ensino Superior no ato da acreditação;
+
+d) Os limites estabelecidos pela Lei n.º 62/2007, de 10 de setembro, para o funcionamento das instituições de ensino superior.
+
+2 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, a fixação das vagas a que se refere o número anterior tem ainda em conta as orientações gerais estabelecidas pelos membros do Governo responsáveis pelas áreas do ensino superior e da educação, ouvidos os organismos representativos das instituições, tendo em consideração, designadamente:
+
+a) As necessidades do sistema educativo;
+
+b) A racionalização da oferta formativa;
+
+c) A política nacional de formação de recursos humanos.
+
+d) A necessidade de assegurar vagas supranumerárias destinadas a candidatos sem qualificação profissional para a docência, com experiência docente, para admissão num dos ciclos de estudos regulados pelo presente decreto-lei.
+
+3 - As instituições de ensino superior comunicam, anualmente, à Direção-Geral do Ensino Superior, o número de vagas que fixarem nos termos dos números anteriores, acompanhados da respetiva fundamentação.
+
+4 - O membro do Governo responsável pela área do ensino superior pode, por despacho fundamentado, alterar o número de vagas se não for cumprido o disposto nos n.os 1 e 2.
+
+5 - A Direção-Geral do Ensino Superior procede à divulgação do número de vagas nos ciclos de estudos referidos no n.º 1.
+
+6 - Não é permitida a transferência das vagas fixadas nos termos dos números anteriores entre ciclos de estudo e entre instituições de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+### Capítulo VI — Concessão do grau de mestre
+
+###### Artigo 20.º — Condições para a concessão do grau de mestre
+
+1 - O grau de mestre é conferido aos que obtenham o número de créditos fixado para o ciclo de estudos de mestrado, através:
+
+a) Da aprovação em todas as unidades curriculares que integram o plano de estudos do ciclo de estudos de mestrado; e
+
+b) Da aprovação no ato público de defesa do relatório da unidade curricular relativa à prática de ensino supervisionada.
+
+2 - Nas situações previstas na alínea b) do n.º 6 e no n.º 7 do artigo 18.º, o grau de mestre numa das especialidades a que se refere o anexo ao presente decreto-lei é conferido aos estudantes que, reunindo as condições previstas no número anterior, satisfaçam cumulativamente os requisitos mínimos de formação fixados para o ingresso na respetiva especialidade.
+
+3 - O grau de mestre é ainda conferido aos candidatos admitidos a um dos ciclos de estudos, em vagas fixadas nos termos da alínea d) do n.º 2 do artigo anterior, cuja componente de formação de iniciação à prática de ensino supervisionada é concretizada através de relatório individual defendido em prova pública, nos termos do n.º 3 do artigo 11.º e cumpram as condições previstas no n.º 6 do artigo 18.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+### Capítulo VII — Recursos e formação prática
+
+###### Artigo 21.º — Recursos materiais
+
+Os estabelecimentos de ensino superior que pretendem organizar e ministrar ciclos de estudos conducentes ao grau de mestre nas especialidades a que se refere o anexo ao presente decreto-lei devem assegurar que os mesmos são realizados em condições adequadas à sua natureza e aos níveis e ciclos de educação e ensino a que se destinam, ponderando os seguintes recursos:
+
+a) Edifícios;
+
+b) Equipamentos;
+
+c) Espaços letivos e para o estudo independente, a realizar individualmente ou em grupo;
+
+d) Laboratórios;
+
+e) Bibliotecas;
+
+f) Bases de dados;
+
+g) Centros tecnológicos ou centros de recursos digitais e multimédia;
+
+h) Outros meios auxiliares de ensino.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+###### Artigo 22.º — Escolas cooperantes
+
+1 - Os estabelecimentos de ensino superior que pretendam organizar e ministrar ciclos de estudos que visam a aquisição de habilitação profissional para a docência devem celebrar protocolos de cooperação com estabelecimentos de educação pré-escolar e de ensino básico e secundário, doravante designados escolas cooperantes, com vista ao desenvolvimento de atividades de iniciação à prática profissional, incluindo a prática de ensino supervisionada.
+
+2 - Os protocolos previstos no número anterior regulam a colaboração institucional com caráter plurianual e devem prever, sempre que possível, que cada escola cooperante acolha estudantes das várias especialidades ministradas pelo estabelecimento de ensino superior.
+
+3 - Dos protocolos devem constar as seguintes indicações:
+
+a) Níveis e ciclos de educação e ensino e disciplinas em que se realiza a prática de ensino supervisionada;
+
+b) Identificação dos orientadores cooperantes disponíveis para cada nível e ciclo de educação e ensino e disciplina e eventuais contrapartidas disponibilizadas aos mesmos pela escola cooperante;
+
+c) Número de lugares disponíveis para os estudantes de cada nível e ciclo de educação e ensino e disciplina;
+
+d) Funções, responsabilidades e competências de todos os intervenientes, incluindo os estudantes;
+
+e) Condições para a realização da prática de ensino supervisionada nas turmas da escola cooperante, com acompanhamento do orientador cooperante;
+
+f) Condições para a participação dos estudantes noutras atividades de desenvolvimento curricular e organizacional realizadas fora da sala de aula, desde que apoiados pelos orientadores cooperantes;
+
+g) Contrapartidas disponibilizadas à escola pelo estabelecimento de ensino superior.
+
+4 - Os estabelecimentos de ensino superior devem assegurar-se de que as escolas cooperantes possuem os recursos humanos e materiais necessários a uma formação de qualidade.
+
+5 - Cabe aos estabelecimentos de ensino superior participar ativamente no desenvolvimento da qualidade de ensino nas escolas cooperantes, em articulação com os respetivos órgãos de gestão.
+
+6 - As escolas cooperantes que acolham um ou mais estudantes podem constituir, no âmbito da sua autonomia, em articulação com as instituições de ensino superior, os núcleos de estágio que considerem pertinentes, destinados a desenvolver atividades na escola e de cooperação entre estudantes.
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 23.º — Orientadores cooperantes
+
+1 - Os docentes das escolas cooperantes que colaboram na formação como orientadores, doravante designados orientadores cooperantes, são escolhidos pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, obtida a prévia anuência do próprio e a concordância da direção executiva da escola cooperante.
+
+2 - Os orientadores cooperantes devem preencher, cumulativamente, os seguintes requisitos:
+
+a) Formação e experiência adequadas às funções a desempenhar;
+
+b) Prática docente nos respetivos nível e ciclo de educação e ensino e disciplinas nunca inferior a cinco anos.
+
+3 - Em relação a disciplinas em que, nas escolas cooperantes, não existam docentes em número suficiente para satisfazer o requisito previsto na alínea b) do número anterior, o órgão legal e estatutariamente competente do estabelecimento de ensino superior pode substituí-lo, excecional e transitoriamente, por requisito que considere adequado e que garanta a necessária qualidade das atividades de iniciação à prática profissional e de prática de ensino supervisionada.
+
+4 - Na escolha do orientador cooperante devem ser considerados como fatores de preferência a formação pós-graduada na área de docência em causa, a formação especializada em supervisão pedagógica e a experiência profissional de supervisão.
+
+5 - No âmbito da colaboração com as escolas cooperantes, os estabelecimentos de ensino superior devem apoiar os docentes daquelas escolas, em especial os orientadores cooperantes, no seu desenvolvimento profissional, nomeadamente no domínio da formação de futuros docentes.
+
+6 - O orientador cooperante acompanha até dois estudantes que se encontrem a frequentar o ciclo de estudos conducente ao grau de mestre em educação pré-escolar ou em ensino básico e secundário, podendo, em casos devidamente fundamentados, acompanhar um máximo de quatro estudantes.
+
+7 - Aos orientadores cooperantes é atribuído um suplemento remuneratório nas condições e no montante a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+8 - Nos estabelecimentos de educação e ensino públicos, em alternativa ao suplemento a que se refere o número anterior, os orientadores cooperantes podem optar pela redução da componente letiva do trabalho semanal, desde que não exista inconveniente para o serviço, nos seguintes termos:
+
+a) De três horas, para o acompanhamento de um estudante;
+
+b) De uma hora, por cada estudante adicional acompanhado, sem prejuízo do limite máximo previsto no n.º 6.
+
+9 - A redução prevista no número anterior acresce à redução estabelecida no n.º 1 do artigo 79.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado em anexo ao Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual (ECD).
+
+10 - Aos orientadores cooperantes pode ser autorizada a acumulação de funções docentes no estabelecimento de ensino superior, independentemente do número de horas de componente letiva a que o docente cooperante se encontra sujeito, nos termos dos artigos 77.º e 79.º do ECD, até ao limite de:
+
+a) 6 horas letivas semanais; ou
+
+b) 150 horas letivas anuais.
+
+11 - Os orientadores cooperantes são abonados pelo estabelecimento de ensino superior das despesas de deslocação e das ajudas de custo, nos termos legalmente fixados, sempre que se desloquem para participar em ações de formação e em reuniões promovidas por aquele no quadro da parceria estabelecida, não auferindo qualquer outra retribuição pelo exercício das funções de colaboração na formação.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952) O presente artigo, na redação conferida pelo decreto-lei n.º 112/2023, de 29 de novembro, é aplicável aos ciclos de estudos conducentes ao grau de mestre iniciados no ano letivo de 2023-2024 quando a prática supervisionada se inicie no segundo ano letivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2026 - Diário da República n.º 9/2026, Série I de 2026-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2026-1006464121), em vigor a partir de 2026-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 23.º-A — Organização da prática de ensino supervisionada
+
+1 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, a organização da prática de ensino supervisionada obedece às especificidades dos ciclos de estudo frequentados pelo estudante, sendo assegurada por este em coadjuvação com o orientador cooperante.
+
+2 - A realização da prática de ensino supervisionada observa o seguinte:
+
+a) O estudante deve cumprir um mínimo de oito horas letivas semanais com supervisão do orientador cooperante;
+
+b) O estudante deve prestar em prática autónoma em contexto letivo o correspondente a, pelo menos, 70 % do mínimo de horas letivas previsto na alínea anterior, podendo a sua distribuição ser gerida, de forma flexível, ao longo do período de realização da prática de ensino supervisionada, de acordo com as suas necessidades e potencialidades.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - No horário dos estudantes de todos os ciclos de estudo é previsto um dia sem atividades na escola cooperante, destinado à realização de trabalho no estabelecimento de ensino superior, em termos a definir no protocolo a que se refere o artigo 22.º
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12 - (Revogado.)
+
+13 - (Revogado.)
+
+14 - (Revogado.)
+
+15 - Para o efeito da realização da prática de ensino supervisionada, compete aos estabelecimentos de ensino superior selecionar os estudantes e proceder à sua distribuição pelos respetivos locais de estágio.
+
+16 - Aos estudantes é reconhecido o direito a uma bolsa a ser atribuída durante os dois últimos semestres do mestrado que coincidam com prática de ensino supervisionada em estabelecimentos de educação pré-escolar e de ensino básico e secundário.
+
+17 - As condições de atribuição e os montantes das bolsas previstas no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952) O presente artigo, na redação conferida pelo decreto-lei n.º 112/2023, de 29 de novembro, é aplicável aos ciclos de estudos conducentes ao grau de mestre iniciados no ano letivo de 2023-2024 quando a prática supervisionada se inicie no segundo ano letivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2024 - Diário da República n.º 56/2024, Série I de 2024-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), em vigor a partir de 2024-03-20
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 24.º — Princípios orientadores da avaliação da prática de ensino supervisionada
+
+1 - A avaliação dos estudantes na prática de ensino supervisionada é realizada pelo docente do estabelecimento de ensino superior responsável pela unidade curricular ou pelas unidades curriculares que a concretiza.
+
+2 - Na avaliação a que se refere o número anterior é ponderada, obrigatoriamente, a informação prestada pela escola cooperante, através do orientador cooperante.
+
+3 - A decisão de aprovação na unidade curricular que concretiza a prática de ensino supervisionada depende da avaliação do nível da preparação dos estudantes para satisfazer, de modo integrado, o conjunto das exigências do desempenho docente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+### Capítulo VIII — Qualidade, acreditação e avaliação
+
+###### Artigo 25.º — Desenvolvimento da qualidade dos ciclos de estudos
+
+Para o desenvolvimento da qualidade dos ciclos de estudos, os estabelecimentos de ensino superior:
+
+a) Asseguram o contributo de outras entidades interessadas, incluindo escolas, associações de professores, sociedades científicas, diplomados pelos ciclos de estudos e outros membros da comunidade; e
+
+b) Consideram os resultados dos processos de acreditação e de avaliação.
+
+###### Artigo 26.º — Acreditação
+
+1 - No processo de acreditação dos ciclos de estudos organizados nos termos e para os efeitos previstos no presente decreto-lei, a Agência de Avaliação e Acreditação do Ensino Superior articula-se com os serviços e organismos do Ministério da Educação, Ciência e Inovação, designadamente no que se refere à verificação da satisfação das condições relativas às escolas cooperantes e aos orientadores cooperantes.
+
+2 - A acreditação dos ciclos de estudos referidos no número anterior considera, para além das condições gerais previstas no Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual, as condições especiais fixadas no presente decreto-lei, relativas:
+
+a) Aos processos de verificação das condições de ingresso a que se referem os artigos 17.º, 18.º e 18.º-A;
+
+b) À estrutura dos currículos fixada pelos artigos 13.º a 15.º;
+
+c) Ao nível da formação nas unidades curriculares da área de docência;
+
+d) À adequada qualificação avançada dos docentes nos domínios correspondentes às unidades curriculares cuja ministração asseguram;
+
+e) Ao cumprimento dos requisitos fixados pelos artigos 22.º, 23.º e 23.º-A, referentes às escolas cooperantes, aos protocolos com estas e aos orientadores cooperantes;
+
+f) Aos princípios orientadores da avaliação da prática de ensino supervisionada a que se refere o artigo 24.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+###### Artigo 27.º — Medidas de promoção da qualidade, inovação e mobilidade
+
+1 - O Ministério da Educação, Ciência e Inovação adota as medidas adequadas à promoção da qualidade, da inovação e da mobilidade nos ciclos de estudos de qualificação profissional para a docência, em particular nos grupos de recrutamento em que a oferta de qualidade seja insuficiente para as necessidades do sistema educativo ou quando se justifique a reconversão para outra área de docência.
+
+2 - As medidas referidas no número anterior podem abranger a promoção da mobilidade de estudantes e docentes que for relevante para o desenvolvimento de competências docentes no domínio da dimensão europeia da educação e da formação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+###### Artigo 28.º — Acompanhamento
+
+O Ministério da Educação, Ciência e Inovação, através dos seus serviços e organismos, assegura, em colaboração com a Agência de Avaliação e Acreditação do Ensino Superior, a monitorização e o acompanhamento anual da aplicação do regime jurídico previsto no presente decreto-lei, através da elaboração de um relatório do qual constem recomendações com o objetivo de garantir a qualidade do sistema de habilitação profissional para a docência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+### Capítulo IX — Disposições transitórias e finais
+
+###### Artigo 29.º — Regime aplicável às atuais habilitações profissionais
+
+1 - Aqueles que tenham adquirido habilitação profissional para a docência no âmbito de legislação anterior à entrada em vigor do presente decreto-lei mantêm essa habilitação para a docência no grupo ou grupos de recrutamento em que a tenham obtido.
+
+2 - Adquirem igualmente habilitação profissional para a docência no grupo ou grupos de recrutamento respetivos os que venham a concluir um ciclo de estudos organizado nos termos dos Decretos-Leis n.os 43/2007, de 22 de fevereiro, e 220/2009, de 8 de setembro, desde que nele estejam inscritos nos anos letivos de 2013-2014 ou 2014-2015.
+
+###### Artigo 30.º — Novas admissões
+
+A partir do ano letivo de 2015-2016, inclusive, só podem ter lugar novas admissões de estudantes em ciclos de estudos conferentes de habilitação profissional para a docência quando estes sejam organizados nos termos do presente decreto-lei.
+
+###### Artigo 31.º — Rede de formação
+
+Na rede pública, o financiamento para as formações a que se referem os n.os 1 a 8 do anexo ao presente decreto-lei, é orientado, prioritariamente, para os estabelecimentos de ensino politécnico e para as universidades em cuja área geográfica e administrativa de inserção não exista instituto politécnico público dotado de unidade orgânica vocacionada especificamente para a formação de educadores e de professores.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+###### Artigo 32.º — Reconhecimento de diplomas
+
+1 - São reconhecidos como habilitando profissionalmente para a docência os diplomas conferidos pelos cursos de pós-graduação em Ensino de Português e de Francês, Ensino de Português e de Inglês e Ensino de Português, criados pelo despacho n.º 19 018/2002, publicado no Diário da República, 2.ª série, de 27 de agosto, alterado pelo despacho n.º 20 693/2003, publicado no Diário da República, 2.ª série, de 28 de outubro.
+
+2 - O reconhecimento é conferido para o grupo ou grupos de recrutamento que abranja as áreas de docência em que o diplomado é titular do grau de licenciado e do diploma e em que tenha realizado o estágio pedagógico.
+
+3 - O diretor-geral da Administração Escolar, ouvida a Direção-Geral do Ensino Superior, publica em despacho a lista dos diplomados abrangidos pelo presente artigo, o grupo ou grupos de recrutamento para que lhes é reconhecida habilitação profissional, a data de obtenção do diploma e a classificação da habilitação profissional.
+
+4 - Os efeitos do reconhecimento reportam-se à data da atribuição do diploma.
+
+###### Artigo 32.º-A — Reconhecimento de habilitações ao abrigo de convenções internacionais
+
+O reconhecimento de habilitações para a docência conferidas por sistemas educativos estrangeiros, ao abrigo de convenções internacionais que vinculem o Estado Português, é concedido para o grupo ou os grupos de recrutamento que abranjam as áreas de docência em que o diplomado é titular do grau de licenciado ou do grau de mestre.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+###### Artigo 33.º — Norma revogatória
+
+Sem prejuízo do disposto no artigo 29.º, são revogados:
+
+a) O Decreto-Lei n.º 43/2007, de 22 de fevereiro;
+
+b) O Decreto-Lei n.º 220/2009, de 8 de setembro;
+
+c) A Portaria n.º 1189/2010, de 17 de novembro.
+
+Visto e aprovado em Conselho de Ministros de 20 de março de 2014. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 9 de maio de 2014.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 12 de maio de 2014.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — Especialidades do grau de mestre, requisitos mínimos de formação para ingresso e grupos de recrutamento
+
+(a que se refere o artigo 4.º)
+
+(ver documento original)
+
+Os créditos são indicados segundo o sistema europeu de transferência e acumulação de créditos previsto no Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9-A/2025 - Diário da República n.º 32/2025, Suplemento, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-a-2025-907406911), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 23/2024 - Diário da República n.º 56/2024, Série I de 2024-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2024-856211140), em vigor a partir de 2024-03-20
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2023 - Diário da República n.º 231/2023, Série I de 2023-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2023-224870952), em vigor a partir de 2023-11-30
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 16/2018 - Diário da República n.º 47/2018, Série I de 2018-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662), em vigor a partir de 2018-03-08
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17
+
+> Retificado pelo/a Anexo do/a [Declaração de Retificação n.º 32/2014 - Diário da República n.º 122/2014, Série I de 2014-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2014-25345633), produz efeitos a partir de 2014-05-19

@@ -1,0 +1,415 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489485:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-105778654",
+ "dre_path": "/dr/detalhe/decreto-lei/210-2009-489485",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "151020002",
+    "105778693",
+    "105778694",
+    "105778695",
+    "105778696",
+    "105778697",
+    "105778698",
+    "105778699",
+    "105778700",
+    "105778701",
+    "105778702",
+    "105778703",
+    "105778704",
+    "105778705",
+    "105778706",
+    "105778707",
+    "105778708",
+    "105778709",
+    "105778710",
+    "105778711",
+    "105778712",
+    "105778713",
+    "105778714",
+    "105778715",
+    "105778716",
+    "105778717",
+    "105778718",
+    "105778719",
+    "105778720",
+    "105778721",
+    "105778722",
+    "105778723",
+    "105778724"
+   ]
+  },
+  {
+   "date": "2011-06-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670034:por",
+     "title": "Decreto-Lei n.º 73/2011",
+     "published": "2011-06-17",
+     "dre_path": "/dr/detalhe/decreto-lei/73-2011-670034"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "105778692",
+    "105778693",
+    "105778694",
+    "105778728",
+    "105778696",
+    "105778697",
+    "105778698",
+    "105778699",
+    "105778700",
+    "105778701",
+    "105778702",
+    "105778703",
+    "105778704",
+    "105778729",
+    "105778706",
+    "105778707",
+    "105778708",
+    "105778709",
+    "105778710",
+    "105778711",
+    "105778712",
+    "105778713",
+    "105778714",
+    "105778730",
+    "105778716",
+    "105778717",
+    "105778718",
+    "105778719",
+    "105778720",
+    "105778721",
+    "105778722",
+    "105778723",
+    "105778724",
+    "105778725"
+   ]
+  }
+ ],
+ "fragments": {
+  "151020002": {
+   "fragment_id": "105778655",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 210/2009\n\nde 3 de Setembro\n\nOs mercados de resíduos constituem instrumentos económicos de índole voluntária que visam facilitar e promover as trocas comerciais de diversos tipos de resíduos, assim como potenciar a sua valorização e reintrodução no circuito económico, diminuindo a procura de matérias-primas primárias e promovendo simbioses industriais.\n\nFoi essa a razão que levou o regime geral da gestão de resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de Setembro, a fixar, ainda que muito sumariamente, o enquadramento e os princípios que devem orientar o mercado organizado de resíduos, remetendo a sua disciplina para diploma próprio, nos termos do n.º 2 do artigo 62.º O presente decreto-lei visa precisamente estabelecer o regime de constituição, gestão e funcionamento do mercado organizado de resíduos, bem como as regras aplicáveis às transacções nele realizadas e aos respectivos operadores.\n\nO mercado organizado de resíduos surge, assim, como um espaço de negociação, tal como indicado pelo n.º 1 do artigo 62.º do regime geral da gestão de resíduos, que reúne as várias plataformas onde se processam as transacções de resíduos que sejam reconhecidas pela Agência Portuguesa do Ambiente (APA) como reunindo condições de sustentabilidade e segurança. É a essas plataformas de negociação que acedem os produtores e operadores de resíduos, lançando as suas ordens de compra ou venda de resíduos, assim se cumprindo o desiderato fundamental deste instrumento: a reintrodução desses bens no circuito produtivo. Por seu turno, o funcionamento destas plataformas de negociação no âmbito do mercado organizado de resíduos está dependente de autorização a conceder pela APA, a qual verifica se as mesmas têm um suporte electrónico adequado, se estão instituídos os necessários mecanismos de segurança da informação e das operações e, ainda, se contribuem efectivamente para a satisfação dos objectivos fixados nos planos de gestão de resíduos - desta forma garantindo que estes mercados compõem verdadeiramente um único mercado organizado de resíduos.\n\nResta dizer que se a legislação em vigor permite já que os agentes económicos privados, por sua própria iniciativa, desenvolvam plataformas para a transacção de resíduos, é verdade que se tem sentido nesse domínio alguma timidez. Assim, para além de agora se fornecer um enquadramento legal para que estes mecanismos funcionem correctamente - estabelecendo-se, nomeadamente, os requisitos para a credibilização das transacções que neles ocorram -, importa estabelecer um conjunto de incentivos financeiros e administrativos que auxiliem a instalação destes mercados. Estes incentivos, a conceder de forma igualitária e transparente, são destinados às entidades gestoras das plataformas de negociação e aos potenciais utilizadores das mesmas - produtores e operadores de resíduos -, incentivando a sua adesão aos mercados.\n\nO presente decreto-lei vem ainda suprir as necessidades de regulação no âmbito do acompanhamento e controlo, por parte da administração, das actividades das entidades gestoras de mercados organizados de resíduos, assim como da articulação entre as plataformas electrónicas dos mercados organizados e a plataforma SIRAPA (Sistema Integrado de Registo da Agência Portuguesa do Ambiente), um desenvolvimento do Sistema Integrado de Registo Electrónico de Resíduos (SIRER) previsto também no regime geral da gestão de resíduos.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=2008&id=308L0098\" title=\"Link para Directiva da Comunidade Europeia\">2008/98/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Novembro, relativa aos resíduos, estabelece como condição essencial para que um subproduto saia do âmbito da gestão de resíduos a garantia de escoamento para posterior utilização. O mercado organizado de resíduos assume especial relevância neste domínio por potenciar o cumprimento deste critério para futuros processos de desclassificação de resíduos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "105778693": {
+   "fragment_id": "105778656",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "105778694": {
+   "fragment_id": "105778657",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime de constituição, gestão e funcionamento do mercado organizado de resíduos, nos termos do n.º 2 do artigo 62.º do regime geral da gestão de resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de Setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de Agosto, e pela Lei n.º 64-A/2008, de 31 de Dezembro,"
+  },
+  "105778695": {
+   "fragment_id": "105778658",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza do mercado organizado de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza do mercado organizado de resíduos\n\n1 - O mercado organizado de resíduos, abreviadamente designado por mercado, é um instrumento de negociação de diversos tipos de resíduos, que tem por objectivos potenciar a valorização e a reintrodução de resíduos no circuito económico, diminuir a procura de matérias-primas e promover simbioses industriais, contribuindo para a modernização tecnológica dos respectivos produtores.\n\n2 - No mercado podem ser transaccionados, unicamente para valorização, resíduos de todas as categorias, com excepção dos resíduos definidos como perigosos pelo regime geral da gestão de resíduos.\n\n3 - A transacção no mercado de fluxos específicos de resíduos abrangidos por sistemas de gestão previstos na legislação nacional e comunitária não pode prejudicar a actividade das entidades licenciadas para a gestão dos mesmos."
+  },
+  "105778696": {
+   "fragment_id": "105778659",
+   "type": 1,
+   "heading": "Capítulo II — Funcionamento do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Funcionamento do mercado"
+  },
+  "105778697": {
+   "fragment_id": "105778660",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Constituição do mercado\n\nO mercado organizado de resíduos compreende todas as plataformas de negociação objecto de reconhecimento por parte da Agência Portuguesa para o Ambiente (APA), verificados os pressupostos previstos no presente decreto-lei."
+  },
+  "105778698": {
+   "fragment_id": "105778661",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades gestoras\n\n1 - A gestão das plataformas de negociação é assegurada por pessoas colectivas de direito privado, adiante designadas por entidades gestoras.\n\n2 - A entidade gestora tem por obrigação assegurar o funcionamento, a manutenção e o desenvolvimento da sua plataforma de negociação de acordo com o disposto no presente decreto-lei.\n\n3 - É obrigação da entidade gestora validar as transacções efectuadas na sua plataforma de negociação, zelar pelo cumprimento do respectivo regulamento de gestão, garantir o sigilo de informação, assegurar mecanismos de responsabilização dos intervenientes no mercado e promover a sua divulgação e credibilização.\n\n4 - A entidade gestora pode disponibilizar serviços acessórios e complementares do serviço de gestão da plataforma de negociação, sem prejuízo do disposto no artigo 6.º"
+  },
+  "105778699": {
+   "fragment_id": "105778662",
+   "type": 11,
+   "heading": "Artigo 5.º — Plataformas de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plataformas de negociação\n\n1 - As plataformas de negociação são plataformas electrónicas que suportam a negociação de resíduos, mediante o processamento de consultas ao mercado, de indicações de interesse e das transacções.\n\n2 - Na concepção, manutenção, desenvolvimento e funcionamento das plataformas de negociação é assegurado o cumprimento do disposto no presente decreto-lei."
+  },
+  "105778700": {
+   "fragment_id": "105778663",
+   "type": 11,
+   "heading": "Artigo 6.º — Universalidade e igualdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Universalidade e igualdade\n\nAs plataformas de negociação e as operações nelas realizadas são de acesso universal e igualitário por parte de todos os potenciais utilizadores."
+  },
+  "105778701": {
+   "fragment_id": "105778664",
+   "type": 11,
+   "heading": "Artigo 7.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informação\n\n1 - As plataformas de negociação devem assegurar a transparência, a universalidade, a actualidade e o rigor da informação que nelas circula.\n\n2 - As entidades gestoras estão sujeitas ao dever de sigilo relativamente às operações realizadas nas respectivas plataformas de negociação."
+  },
+  "105778702": {
+   "fragment_id": "105778665",
+   "type": 11,
+   "heading": "Artigo 8.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Segurança\n\n1 - As plataformas de negociação devem garantir a segurança de todas as operações nelas realizadas, bem como a confidencialidade e a integridade da informação constante dos sistemas informáticos.\n\n2 - Para os efeitos do número anterior, as plataformas de negociação devem:\n\na) Dispor obrigatoriamente de sistemas de gestão de segurança da informação, os quais são certificados pela norma ISO 27001 relativa a sistemas de gestão de segurança da informação ou por outra certificação equivalente suportada por entidade auditora independente e aceite pela APA;\n\nb) Adoptar medidas impeditivas do acesso ao sistema por parte de quem não possua autorização e habilitação adequadas, designadamente através da autenticação de cada utilizador no sistema através de código de identificação e senha;\n\nc) Ser alojadas em servidores seguros com elevados níveis de redundância no seu funcionamento e sistemas de segurança de dados."
+  },
+  "105778703": {
+   "fragment_id": "105778666",
+   "type": 11,
+   "heading": "Artigo 9.º — Sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sustentabilidade\n\n1 - As plataformas de negociação devem ser financeiramente auto-sustentáveis.\n\n2 - As entidades gestoras podem cobrar comissões de transacção, quotas anuais de adesão ou arrecadar outras receitas, nomeadamente as provenientes da prestação de serviços acessórios e complementares."
+  },
+  "105778704": {
+   "fragment_id": "105778667",
+   "type": 11,
+   "heading": "Artigo 10.º — Interconexão e comunicação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Interconexão e comunicação de dados\n\n1 - A configuração das plataformas de negociação deve permitir a sua fácil interacção com o SIRAPA (Sistema Integrado de Registo da Agência Portuguesa do Ambiente), designadamente no que diz respeito à importação e à exportação de dados.\n\n2 - A APA fornece às entidades gestoras, anualmente e em igualdade de circunstâncias, a identificação dos produtores de resíduos inscritos no SIRAPA, bem como a indicação da actividade económica por si declarada e dos tipos de resíduos por estes registados.\n\n3 - Só pode ser fornecida a informação referida no número anterior relativa aos produtores de resíduos que manifestem expressamente a sua autorização para a utilização, pelas entidades gestoras, dos seus dados registados.\n\n4 - As entidades gestoras que recebam a informação a que se refere o n.º 2 ficam sujeitas a dever de sigilo relativamente à mesma, sendo proibida a sua transmissão, por qualquer forma ou acto, a terceiros."
+  },
+  "105778705": {
+   "fragment_id": "105778668",
+   "type": 11,
+   "heading": "Artigo 11.º — Dever de informação e registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dever de informação e registos\n\n1 - As entidades gestoras devem manter, durante cinco anos, em formato electrónico, os seguintes registos:\n\na) Registo de todas as transacções efectuadas nas suas plataformas de negociação, nomeadamente os intervenientes, o tipo de resíduo e respectiva quantidade, as comissões praticadas, o valor e a data das transacções;\n\nb) Registo das reclamações recebidas e formas de resolução de conflitos adoptadas;\n\nc) Registo de todos os acessos, submissões e anomalias no funcionamento da sua plataforma informática.\n\n2 - Para fins de supervisão, os registos referidos no número anterior devem ser disponibilizados à APA, em formato electrónico, sempre que tal seja solicitado, no prazo de cinco dias."
+  },
+  "105778706": {
+   "fragment_id": "105778669",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamento de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamento de funcionamento\n\n1 - Cada plataforma de negociação funciona ainda nos termos previstos no respectivo regulamento de funcionamento, o qual é previamente aprovado pela APA ao abrigo do artigo 13.º\n\n2 - Do regulamento de funcionamento constam, designadamente:\n\na) As características dos resíduos envolvidos nas transacções previstas e respectiva classificação de acordo com a Lista Europeia de Resíduos, prevista na Portaria n.º 209/2004, de 3 de Março, e identificação da respectiva fileira e fluxos de resíduos associados;\n\nb) As condições de admissão e de exclusão de aderentes;\n\nc) As obrigações dos compradores e vendedores;\n\nd) Os procedimentos de contratualização e de liquidação das transacções;\n\ne) Os valores de quotas de adesão e de comissões de transacção;\n\nf) Os procedimentos de certificação de bens transaccionados;\n\ng) Todos os aspectos relativos ao funcionamento da plataforma de acordo com o referido no presente decreto-lei."
+  },
+  "105778707": {
+   "fragment_id": "105778670",
+   "type": 1,
+   "heading": "Capítulo III — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Autorização"
+  },
+  "105778708": {
+   "fragment_id": "105778671",
+   "type": 11,
+   "heading": "Artigo 13.º — Autorização de acesso ao mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autorização de acesso ao mercado\n\n1 - As plataformas de negociação acedem ao mercado mediante autorização da APA.\n\n2 - O pedido de autorização é analisado e decidido no prazo de 60 dias e deve ser instruído com um caderno de encargos, do qual constam:\n\na) Os modelos de funcionamento e de financiamento preconizados;\n\nb) A caracterização da entidade gestora quanto à sua natureza jurídica e forma;\n\nc) Os recursos humanos, físicos e financeiros a afectar à actividade de gestão da plataforma;\n\nd) As especificações detalhadas da plataforma informática do mercado e comprovativos de certificação;\n\ne) Uma proposta de regulamento de funcionamento da plataforma de negociação;\n\nf) Os mecanismos de gestão e de controlo das transacções;\n\ng) Mecanismos de articulação com as entidades gestoras de fluxos específicos, caso aplicável;\n\nh) Um plano de promoção e divulgação da plataforma;\n\ni) A minuta do contrato de adesão à plataforma de negociação;\n\nj) Uma proposta do prazo de validade da autorização;\n\nl) Outros elementos considerados relevantes pelo requerente.\n\n3 - Após a apresentação do pedido, a APA convoca o requerente para a realização de uma conferência instrutória, na qual são abordados todos os aspectos considerados necessários para a boa decisão do pedido e na qual podem ser solicitados, uma única vez, o aditamento ou a reformulação dos elementos apresentados inicialmente, a apresentação de elementos instrutórios adicionais e, ainda, a prestação de informações ou elementos complementares, suspendendo-se, nesse caso, o prazo referido no número anterior.\n\n4 - No caso de o requerente não juntar os elementos solicitados pela APA nos termos do número anterior no prazo de 60 dias a contar da notificação de pedido de elementos, ou de os juntar de forma deficiente ou insuficiente, o pedido é liminarmente indeferido.\n\n5 - A concessão de autorização pela APA depende:\n\na) Do cumprimento das obrigações constantes do presente decreto-lei e do regime geral da gestão de resíduos;\n\nb) Da adequação do modelo proposto para o cumprimento dos objectivos estabelecidos nos planos de gestão de resíduos, previstos no regime geral da gestão de resíduos."
+  },
+  "105778709": {
+   "fragment_id": "105778672",
+   "type": 11,
+   "heading": "Artigo 14.º — Validade e renovação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Validade e renovação da autorização\n\n1 - A autorização é válida pelo período fixado pela APA no momento da sua concessão.\n\n2 - O pedido de renovação da autorização é apresentado no prazo de 120 dias antes do termo do prazo de validade da mesma, sendo instruído com documento do qual conste a menção de que a plataforma funcionará de forma integralmente idêntica à anteriormente autorizada.\n\n3 - Sempre que a entidade gestora pretenda realizar uma alteração à plataforma, deve apresentar um pedido de renovação instruído com os elementos relevantes referidos no n.º 2 do artigo anterior.\n\n4 - A APA pode determinar ao requerente a apresentação de um novo pedido de autorização nos termos do artigo anterior quando verificar que, da introdução de todas as alterações requeridas, resultará o funcionamento de uma plataforma substancialmente diferente da originalmente autorizada.\n\n5 - A autorização pode ser revogada, a todo o tempo, sempre que se verifique o incumprimento dos termos em que a mesma foi emitida ou quando deixe de se verificar algum dos requisitos previstos no presente decreto-lei."
+  },
+  "105778710": {
+   "fragment_id": "105778673",
+   "type": 11,
+   "heading": "Artigo 15.º — Transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transmissão\n\n1 - A autorização pode ser transmitida desde que a plataforma continue a funcionar nos termos definidos no procedimento de autorização.\n\n2 - A transmissão da autorização é solicitada mediante a apresentação à APA de requerimento conjunto, instruído de documento elaborado pelo transmissário, do qual conste:\n\na) A declaração de que a plataforma funcionará nos termos definidos no procedimento de autorização e de acordo com a legislação e regulamentação aplicáveis;\n\nb) A identificação integral da entidade gestora em termos idênticos aos constantes do caderno de encargos, nomeadamente através dos elementos a que se referem as alíneas b) e c) do n.º 2 do artigo 13.º\n\n3 - A APA decide o pedido de transmissão no prazo de 15 dias após a apresentação do requerimento conjunto referido no número anterior.\n\n4 - A falta de decisão no prazo referido no número anterior equivale ao deferimento do pedido de transmissão."
+  },
+  "105778711": {
+   "fragment_id": "105778674",
+   "type": 11,
+   "heading": "Artigo 16.º — Logótipo e designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Logótipo e designação\n\nA autorização prevista no artigo 13.º permite à entidade gestora o uso de um logótipo, definido por portaria a aprovar pelo membro do Governo responsável pela área do ambiente, bem como da designação «Plataforma integrada no mercado organizado de resíduos» em todos os suportes de comunicação referentes à sua plataforma."
+  },
+  "105778712": {
+   "fragment_id": "105778875",
+   "type": 11,
+   "heading": "Artigo 17.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Taxas\n\nO processo de autorização está sujeito ao pagamento de taxas destinadas a custear os inerentes encargos administrativos, que constituem receitas próprias da APA, com os seguintes valores:\n\na) Autorização de entidades gestoras de plataformas de negociação - (euro) 10 000;\n\nb) Avaliação de pedidos de alteração das condições da autorização - (euro) 1 000;\n\nc) Taxa anual de supervisão - (euro) 1 000."
+  },
+  "105778713": {
+   "fragment_id": "105778876",
+   "type": 1,
+   "heading": "Capítulo IV — Mecanismos de incentivo à adesão ao mercado organizado de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Mecanismos de incentivo à adesão ao mercado organizado de resíduos"
+  },
+  "105778714": {
+   "fragment_id": "105778877",
+   "type": 11,
+   "heading": "Artigo 18.º — Mecanismos de incentivo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Mecanismos de incentivo financeiro\n\n1 - Nos três primeiros anos de funcionamento de cada plataforma de negociação, podem ser atribuídas aos respectivos aderentes reduções sobre o valor da taxa de registo no SIRAPA no montante a fixar por despacho do membro do Governo responsável pela área do ambiente.\n\n2 - No mesmo período, a APA pode apoiar o lançamento das plataformas de negociação, empregando a receita da taxa de gestão de resíduos que lhe cabe nos termos da lei.\n\n3 - Os incentivos referidos nos números anteriores são atribuídos pela APA em função dos serviços prestados pelas entidades gestoras, sendo critérios de atribuição:\n\na) A representatividade dos sectores económicos produtores, à luz do disposto no n.º 2 do artigo 63.º do regime geral da gestão de resíduos;\n\nb) A abrangência dos bens a transaccionar em termos de quantidade e qualidade;\n\nc) A diversidade dos sectores potencialmente envolvidos;\n\nd) A segurança e fiabilidade dos mecanismos de gestão e controlo;\n\ne) A eficácia e consistência dos mecanismos de certificação e credibilização;\n\nf) A eficácia e adequabilidade dos mecanismos de divulgação e informação;\n\ng) A inovação em termos do sistema proposto."
+  },
+  "105778715": {
+   "fragment_id": "105778878",
+   "type": 11,
+   "heading": "Artigo 19.º — Mecanismos de incentivo administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Mecanismos de incentivo administrativo\n\n1 - Os utilizadores que adiram a uma plataforma de negociação autorizada pela APA nos termos do presente decreto-lei podem ficar dispensados de licenciamento de operações de valorização de resíduos não perigosos, nos termos definidos no n.º 1 do artigo 25.º do regime geral da gestão de resíduos, cumprindo à entidade gestora desse mercado a certificação perante a APA de:\n\na) Normas de tratamento a adoptar;\n\nb) Tipos de operações a realizar;\n\nc) Características e quantidade de resíduos a valorizar;\n\nd) Requisitos de salvaguarda da protecção do ambiente e da saúde pública.\n\n2 - A APA deve comunicar às autoridades regionais de resíduos, no prazo máximo de cinco dias, os termos da aceitação do disposto no número anterior.\n\n3 - As entidades que pretendam beneficiar da dispensa de licenciamento devem seguir a tramitação definida nos n.os 2 e seguintes do artigo 25.º do regime geral da gestão de resíduos."
+  },
+  "105778716": {
+   "fragment_id": "105778879",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização e regime sancionatório"
+  },
+  "105778717": {
+   "fragment_id": "105778880",
+   "type": 11,
+   "heading": "Artigo 20.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Fiscalização\n\n1 - A fiscalização do cumprimento do presente decreto-lei compete à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), à Autoridade de Segurança Alimentar e Económica (ASAE), à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e às autoridades policiais.\n\n2 - As entidades referidas no número anterior devem remeter o auto de notícia ou a participação, no prazo de 10 dias úteis, à autoridade competente para a instrução do processo."
+  },
+  "105778718": {
+   "fragment_id": "105778881",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução de processos e aplicação de sanções\n\nCompete à IGAOT a instrução dos processos de contra-ordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias."
+  },
+  "105778719": {
+   "fragment_id": "105778882",
+   "type": 11,
+   "heading": "Artigo 22.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Contra-ordenações\n\nConstitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:\n\na) A violação dos deveres referidos no n.º 1 do artigo 7.º;\n\nb) A violação do dever de sigilo constante do n.º 2 do artigo 7.º;\n\nc) A violação do dever de sigilo constante do n.º 4 do artigo 10.º;\n\nd) A violação dos deveres de informação constantes do n.º 1 do artigo 11.º;\n\ne) A utilização do logótipo e da designação a que se refere o artigo 16.º, sem que a plataforma tenha sido objecto de autorização nos termos do artigo 13.º"
+  },
+  "105778720": {
+   "fragment_id": "105778883",
+   "type": 11,
+   "heading": "Artigo 23.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sanções acessórias\n\n1 - Sempre que a gravidade da infracção o justifique, pode a entidade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.\n\n2 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto."
+  },
+  "105778721": {
+   "fragment_id": "105778884",
+   "type": 11,
+   "heading": "Artigo 24.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Produto das coimas\n\nO produto das coimas previstas no presente decreto-lei é afectado de acordo com o disposto no artigo 73.º da Lei n.º 50/2006, de 29 de Agosto."
+  },
+  "105778722": {
+   "fragment_id": "105778885",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "105778723": {
+   "fragment_id": "105778886",
+   "type": 11,
+   "heading": "Artigo 25.º — Apresentação de requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Apresentação de requerimentos\n\n1 - Todos os requerimentos a que se refere o presente decreto-lei podem ser apresentados pelo interessado em suporte de papel ou, em alternativa, em suporte informático e por meios electrónicos.\n\n2 - Os requerimentos são acompanhados de declaração que ateste a autenticidade das informações prestadas, elaborada e assinada pelo interessado, ou por seu legal representante quando se trate de pessoa colectiva, sendo a assinatura substituída, no caso de requerimento apresentado em suporte informático e por meio electrónico, pelos meios de certificação electrónica disponíveis.\n\n3 - Quando o interessado apresentar um requerimento inicial em suporte informático e por meio electrónico, as subsequentes comunicações com o interessado são realizadas por meios electrónicos."
+  },
+  "105778724": {
+   "fragment_id": "105778887",
+   "type": 11,
+   "heading": "Artigo 26.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Aplicação às Regiões Autónomas\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respectivas administrações regionais com atribuições e competências na área dos resíduos, sem prejuízo das atribuições das entidades de âmbito nacional."
+  },
+  "105778692": {
+   "fragment_id": "105778655",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 210/2009\n\nde 3 de Setembro\n\nOs mercados de resíduos constituem instrumentos económicos de índole voluntária que visam facilitar e promover as trocas comerciais de diversos tipos de resíduos, assim como potenciar a sua valorização e reintrodução no circuito económico, diminuindo a procura de matérias-primas primárias e promovendo simbioses industriais.\n\nFoi essa a razão que levou o regime geral da gestão de resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de Setembro, a fixar, ainda que muito sumariamente, o enquadramento e os princípios que devem orientar o mercado organizado de resíduos, remetendo a sua disciplina para diploma próprio, nos termos do n.º 2 do artigo 62.º O presente decreto-lei visa precisamente estabelecer o regime de constituição, gestão e funcionamento do mercado organizado de resíduos, bem como as regras aplicáveis às transacções nele realizadas e aos respectivos operadores.\n\nO mercado organizado de resíduos surge, assim, como um espaço de negociação, tal como indicado pelo n.º 1 do artigo 62.º do regime geral da gestão de resíduos, que reúne as várias plataformas onde se processam as transacções de resíduos que sejam reconhecidas pela Agência Portuguesa do Ambiente (APA) como reunindo condições de sustentabilidade e segurança. É a essas plataformas de negociação que acedem os produtores e operadores de resíduos, lançando as suas ordens de compra ou venda de resíduos, assim se cumprindo o desiderato fundamental deste instrumento: a reintrodução desses bens no circuito produtivo. Por seu turno, o funcionamento destas plataformas de negociação no âmbito do mercado organizado de resíduos está dependente de autorização a conceder pela APA, a qual verifica se as mesmas têm um suporte electrónico adequado, se estão instituídos os necessários mecanismos de segurança da informação e das operações e, ainda, se contribuem efectivamente para a satisfação dos objectivos fixados nos planos de gestão de resíduos - desta forma garantindo que estes mercados compõem verdadeiramente um único mercado organizado de resíduos.\n\nResta dizer que se a legislação em vigor permite já que os agentes económicos privados, por sua própria iniciativa, desenvolvam plataformas para a transacção de resíduos, é verdade que se tem sentido nesse domínio alguma timidez. Assim, para além de agora se fornecer um enquadramento legal para que estes mecanismos funcionem correctamente - estabelecendo-se, nomeadamente, os requisitos para a credibilização das transacções que neles ocorram -, importa estabelecer um conjunto de incentivos financeiros e administrativos que auxiliem a instalação destes mercados. Estes incentivos, a conceder de forma igualitária e transparente, são destinados às entidades gestoras das plataformas de negociação e aos potenciais utilizadores das mesmas - produtores e operadores de resíduos -, incentivando a sua adesão aos mercados.\n\nO presente decreto-lei vem ainda suprir as necessidades de regulação no âmbito do acompanhamento e controlo, por parte da administração, das actividades das entidades gestoras de mercados organizados de resíduos, assim como da articulação entre as plataformas electrónicas dos mercados organizados e a plataforma SIRAPA (Sistema Integrado de Registo da Agência Portuguesa do Ambiente), um desenvolvimento do Sistema Integrado de Registo Electrónico de Resíduos (SIRER) previsto também no regime geral da gestão de resíduos.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=2008&id=308L0098\" title=\"Link para Directiva da Comunidade Europeia\">2008/98/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Novembro, relativa aos resíduos, estabelece como condição essencial para que um subproduto saia do âmbito da gestão de resíduos a garantia de escoamento para posterior utilização. O mercado organizado de resíduos assume especial relevância neste domínio por potenciar o cumprimento deste critério para futuros processos de desclassificação de resíduos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "105778728": {
+   "fragment_id": "105778658",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza do mercado organizado de resíduos",
+   "in_force_from": "2011-06-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza do mercado organizado de resíduos\n\n1 - O mercado organizado de resíduos, abreviadamente designado por mercado, é um instrumento de negociação de diversos tipos de resíduos, que tem por objectivos potenciar a valorização e a reintrodução de resíduos no circuito económico, diminuir a procura de matérias-primas e promover simbioses industriais, contribuindo para a modernização tecnológica dos respectivos produtores.\n\n2 - No mercado podem ser transaccionados, para valorização ou eliminação, resíduos de todas as categorias nos termos do regime geral de gestão de resíduos, incluindo a transacção de subprodutos e materiais reciclados.\n\n3 - A transacção no mercado de fluxos específicos de resíduos abrangidos por sistemas de gestão previstos na legislação nacional e comunitária não pode prejudicar a actividade das entidades licenciadas para a gestão dos mesmos.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18"
+  },
+  "105778729": {
+   "fragment_id": "105778668",
+   "type": 11,
+   "heading": "Artigo 11.º — Dever de informação e registos",
+   "in_force_from": "2011-06-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18"
+   ],
+   "markdown": "###### Artigo 11.º — Dever de informação e registos\n\n1 - As entidades gestoras devem manter, durante cinco anos, em formato electrónico, os seguintes registos:\n\na) Registo de todas as transacções efectuadas nas suas plataformas de negociação, nomeadamente os intervenientes, o tipo de resíduo e respectiva quantidade, as comissões praticadas, o valor e a data das transacções;\n\nb) Registo das reclamações recebidas e formas de resolução de conflitos adoptadas;\n\nc) Registo de todos os acessos, submissões e anomalias no funcionamento da sua plataforma informática.\n\n2 - Para fins de supervisão, os registos referidos no número anterior devem ser disponibilizados à APA, em formato electrónico, sempre que tal seja solicitado, no prazo de cinco dias.\n\n3 - Sem prejuízo do disposto no número anterior, a APA realiza uma supervisão anual, a qual contempla o balanço de actividade da entidade gestora e do funcionamento da plataforma de negociação através da análise do relatório de actividades do qual faz parte integrante o parecer e relatório do ROC.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18"
+  },
+  "105778730": {
+   "fragment_id": "105778878",
+   "type": 11,
+   "heading": "Artigo 19.º — Mecanismos de incentivo administrativo",
+   "in_force_from": "2011-06-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18"
+   ],
+   "markdown": "###### Artigo 19.º — Mecanismos de incentivo administrativo\n\n1 - Os utilizadores que adiram a uma plataforma de negociação autorizada pela APA nos termos do Decreto-Lei n.º 178/2006, de 6 de Setembro, alterado pela Lei n.º 64-A/2008, de 31 de Dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de Agosto, e 73/2011, de 17 de Junho, podem ficar isentas de licenciamento nos termos definidos no n.º 6 do artigo 23.º do mesmo decreto-lei.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18"
+  },
+  "105778725": {
+   "fragment_id": "105778888",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 20 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

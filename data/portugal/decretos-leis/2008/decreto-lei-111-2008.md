@@ -1,0 +1,262 @@
+---
+schema_version: '1.0'
+id: pt:dre:456258:por
+title: Decreto-Lei n.º 111/2008
+short_title: null
+summary: Aprova o regulamento técnico das embarcações de pesca nacionais de comprimento compreendido entre os 12 m e os 24
+  m
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 111/2008
+official_date: null
+publication_date: '2008-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2008, Série I de 2008-06-30
+  number: '124'
+  series: I
+  supplement: null
+  pages: 4026 - 4080
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12400/0402604080.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/111/2008/06/30/p/dre/pt/html
+  oj: null
+  dre: '456258'
+  dre_path: /dr/detalhe/decreto-lei/111-2008-456258
+  internal: pt:dre:456258:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2008-456258
+  metadata_url: https://data.dre.pt/eli/dec-lei/111/2008/06/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2008-456258
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-01-18T00:00:00Z'
+integrity:
+  source_sha256: 33a4b7d0b725f49984d3704ea66ddb06961194916f7815ee4c5a83aa2a09012a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-111-456258.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Embarcação
+- Instituto Portuário e dos Transportes Marítimos
+- Contra-ordenação
+- Registo de Navios
+- Segurança das Embarcações
+- Equipamento de Pesca
+- Fiscalização
+- Indústria da Construção Naval
+- Normas de Segurança
+- Poluição pelos Navios
+- Regulamento
+- Embarcação de Pesca
+- Direcção Geral da Autoridade Marítima
+relationships:
+- type: amended_by
+  target: pt:dre:280895:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31996L0098
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/98/oj
+- type: cites
+  target: celex:31997L0070
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/70/oj
+- type: cites
+  target: celex:31998L0085
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/85/oj
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 111/2008
+
+de 30 de Junho
+
+Com a publicação do Decreto-Lei n.º 199/98, de 10 de Julho, e posterior alteração, regulamentou-se a construção e a modificação das embarcações de pesca de comprimento entre perpendiculares inferior a 12 m.
+
+Com a publicação do Decreto-Lei n.º 248/2000, de 3 de Outubro, que transpôs para a ordem jurídica interna a Directiva n.º [97/70/CE](http://data.europa.eu/eli/dir/1997/70/oj?locale=pt), do Conselho, de 11 de Dezembro, emendada posteriormente, ao que se seguiu as respectivas transposições, foram estabelecidas as normas de segurança para as embarcações de pesca de comprimento igual ou superior a 24 m.
+
+Ficou assim por regulamentar a construção e a modificação das embarcações de pesca de comprimento entre perpendiculares compreendido entre os 12 m e os 24 m, regulamentação essa que urgia produzir e a que o presente decreto-lei vem dar satisfação, já que, este universo, compreende o número mais elevado de embarcações de pesca nacionais.
+
+Por outro lado, entendeu-se necessário clarificar a forma como as embarcações de pesca entre os 12 m e os 24 m devem dar cumprimento às normas que lhes são aplicáveis em matéria de prevenção da poluição, e que estão definidas na Convenção Internacional para a Prevenção da Poluição por Navios, 1973 (MARPOL 73/78).
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - É aprovado o regulamento técnico que estabelece os requisitos e os procedimentos a observar na construção, modificação, legalização, certificação, reparação e manutenção das embarcações de pesca nacionais de comprimento entre perpendiculares igual ou superior a 12 m e inferior a 24 m, denominado daqui em diante como regulamento, anexo ao presente decreto-lei do qual faz parte integrante.
+
+2 - Estão excluídas do presente decreto-lei as embarcações existentes de boca aberta de comprimento inferior a 14 m que, à data da entrada em vigor do presente decreto-lei, estejam registadas na Região Autónoma dos Açores, assim como as embarcações de recreio ou outras que pratiquem a pesca desportiva.
+
+###### Artigo 2.º — Entidades competentes
+
+O Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), assim como os órgãos locais da Direcção-Geral da Autoridade Marítima (DGAM), quando expressamente mencionado, são as entidades competentes para a execução do disposto no presente decreto-lei.
+
+###### Artigo 3.º — Certificação
+
+1 - Às embarcações de pesca nacionais de comprimento entre perpendiculares igual ou superior a 12 m e inferior a 24 m que cumpram as disposições do presente decreto-lei, e demais legislação aplicável sobre a segurança de embarcações de pesca, será emitido um certificado de segurança.
+
+2 - O certificado de segurança substitui, para todos os efeitos legais, o certificado de navegabilidade previsto no Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho.
+
+3 - As embarcações de pesca abrangidas pelo presente decreto-lei não podem navegar sem possuírem o certificado exigido no número anterior, devendo o mesmo estar disponível a bordo, para consulta em qualquer momento.
+
+4 - O processo de certificação e o modelo de certificado são estabelecidos em portaria do ministro que tutele os transportes marítimos.
+
+###### Artigo 4.º — Vistorias
+
+1 - Todas as vistorias previstas no presente decreto-lei e na portaria referida no n.º 4 do artigo anterior são realizadas por inspectores de navios dos quadros do IPTM, I. P.
+
+2 - As vistorias necessárias à manutenção da certificação das embarcações, a estabelecer na portaria referida no n.º 4 do artigo anterior, podem ser realizadas pelos órgãos locais da DGAM, mediante a celebração de protocolo com o IPTM, I. P.
+
+3 - Nos casos em que a embarcação se encontre fora do território nacional ou por outro motivo considerado excepcional, e mediante autorização escrita do IPTM, I. P., as vistorias previstas no presente decreto-lei e na portaria referida no n.º 4 do artigo anterior podem ser efectuadas por organizações reconhecidas ao abrigo do Decreto-Lei n.º 321/2003, de 23 de Dezembro, ou pela administração marítima do Estado onde a embarcação se encontre, por solicitação a essa entidade através da entidade consular mais próxima.
+
+###### Artigo 5.º — Equipamentos das embarcações
+
+Os equipamentos a instalar nas embarcações de pesca abrangidas pelo presente decreto-lei consideram-se aprovados, desde que cumpram os requisitos estabelecidos no Decreto-Lei n.º 167/99, de 18 de Maio, que transpõe para a ordem jurídica interna as Directivas n.os [96/98/CE](http://data.europa.eu/eli/dir/1996/98/oj?locale=pt) e [98/85/CE](http://data.europa.eu/eli/dir/1998/85/oj?locale=pt).
+
+###### Artigo 6.º — Procedimentos de registo
+
+1 - O registo de propriedade, abreviadamente designado por registo, previsto no artigo 72.º do Decreto-Lei n.º 265/72, de 31 de Julho, para as novas construções ou legalizações, é efectuado pelos órgãos locais da DGAM após emissão da declaração, pelo IPTM, I. P., indicativa das características principais da embarcação e comprovativa de que esta cumpre com as disposições especificadas neste decreto-lei e do regulamento que dele faz parte integrante.
+
+2 - A reforma ou a alteração de registo, previstas no artigo 81.º do Decreto-Lei n.º 265/72, de 31 de Julho, por modificação ou mudança da classificação das embarcações, é efectuada após exibição da declaração emitida pelo IPTM, I. P., com indicação das características a alterar ao registo anterior e comprovativa de que as partes avaliadas cumprem com as disposições especificadas neste decreto-lei.
+
+3 - As embarcações que são objecto do presente decreto-lei não ficam sujeitas à vistoria de registo prevista no artigo 159.º do Decreto-Lei n.º 265/72, de 31 de Julho, sem prejuízo dos actos próprios do registo patrimonial marítimo em matéria não abrangida pela declaração referida nos n.os 1 e 2 deste artigo.
+
+4 - A declaração referida nos números anteriores será conforme o modelo apresentado no apêndice n.º 1 deste decreto-lei, do qual faz parte integrante.
+
+###### Artigo 7.º — Suspensão do certificado
+
+1 - A entidade competente pode suspender o certificado referido no artigo 3.º deste decreto-lei sempre que ocorra uma das seguintes situações:
+
+a) Terem sido iniciadas ou efectuadas modificações na estrutura, no arranjo, nas instalações de máquinas ou eléctricas e no equipamento sem autorização prévia do IPTM, I. P.;
+
+b) A embarcação não se encontrar em bom estado de manutenção;
+
+c) O equipamento existente a bordo não coincidir com o constante na relação de equipamento anexa ao certificado.
+
+2 - A suspensão de um certificado pelos órgãos locais da DGAM tem carácter provisório e carece de confirmação por parte do IPTM, I. P.
+
+3 - O prazo máximo para comunicar a suspensão, assim como a respectiva confirmação é de quarenta e oito horas.
+
+4 - Dos certificados suspensos por acção de fiscalização do IPTM, I. P., é dado imediatamente conhecimento ao órgão local da DGAM com jurisdição no espaço onde se encontra a embarcação, de tal se dando conhecimento à capitania do porto de registo.
+
+###### Artigo 8.º — Contra-ordenações e coimas
+
+1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constitui contra-ordenação grave, punível com coima de (euro) 500 a (euro) 3700:
+
+a) A navegação e operação das embarcações sem o certificado válido exigido pelo artigo 3.º deste decreto-lei;
+
+b) A navegação e operação das embarcações a quem foi suspenso o certificado ao abrigo do artigo 7.º deste decreto-lei;
+
+c) Efectuar modificações na estrutura, no arranjo, nas instalações de máquinas ou eléctricas e no equipamento sem autorização prévia do IPTM, I. P.
+
+2 - Constituem, ainda, contra-ordenação punível com coima de (euro) 100 a (euro) 2500:
+
+a) Não requerer ou requerer com data posterior à devida as vistorias previstas na regra 10 do capítulo 1 do regulamento;
+
+b) Não comunicação imediata ao IPTM, I. P., de qualquer acidente que afecte a segurança do navio ou a segurança da navegação, nomeadamente abalroamento, encalhe, dano, falha ou avaria.
+
+3 - Caso a infracção seja praticada por pessoas colectivas, os montantes máximos das coimas previstas nos n.os 1 e 2 são elevados, respectivamente, de (euro) 3700 a (euro) 44 000 e de (euro) 2500 a (euro) 30 000.
+
+4 - A negligência e a tentativa são sempre puníveis.
+
+5 - Os montantes das coimas previstos são reduzidos a metade nos seus limites máximos, no caso de a infracção ter sido praticada com negligência.
+
+###### Artigo 9.º — Fiscalização
+
+1 - Compete ao IPTM, I. P., e aos órgãos locais da DGAM assegurar a fiscalização do cumprimento do disposto no presente decreto-lei, bem como a instrução dos processos de contra-ordenação.
+
+2 - A aplicação das coimas compete à entidade que efectuar a instrução dos processos de contra-ordenação a que se refere o número anterior.
+
+###### Artigo 10.º — Destino das coimas
+
+O montante das coimas aplicadas reverte:
+
+a) 60 % para o Estado;
+
+b) 25 % para a entidade que procedeu à instrução e decisão processual;
+
+c) 10 % para a entidade que levanta o auto de notícia;
+
+d) 5 % para o IPTM, I. P.
+
+###### Artigo 11.º — Direito subsidiário contra-ordenacional
+
+Às contra-ordenações previstas no presente decreto-lei é aplicável o regime geral das contra-ordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 244/95, de 14 de Setembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
+
+###### Artigo 12.º — Taxas
+
+Pelos serviços prestados pelo IPTM, I. P., decorrentes da execução do presente decreto-lei, são cobradas taxas de acordo com o disposto no Decreto-Lei n.º 98/2001, de 28 de Março.
+
+###### Artigo 13.º — Revogação
+
+É revogado o Decreto n.º 15 452, de 5 de Maio de 1928, na parte aplicável às embarcações de pesca de comprimento entre perpendiculares igual ou superior a 12 m e inferior a 24 m, assim como a demais legislação que contrarie o disposto neste decreto-lei.
+
+###### Artigo 14.º — Disposições transitórias
+
+No prazo de 24 meses após a entrada em vigor deste decreto-lei, todas as embarcações de pesca por ele abrangidas devem possuir o certificado a que se refere o artigo 3.º
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - João Manuel Machado Ferrão - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
+
+**Promulgado em 3 de Junho de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 5 de Junho de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12400/0402604080.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12400/0402604080.pdf)

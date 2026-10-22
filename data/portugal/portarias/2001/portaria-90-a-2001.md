@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:483652:por
+title: Portaria n.º 90-A/2001
+short_title: null
+summary: Altera a Portaria n.º 652/99, de 14 de Agosto (regula o regime de acumulações de funções e actividades públicas e
+  privadas dos educadores de infância e dos professores dos ensinos básico e secundário)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 90-A/2001
+official_date: null
+publication_date: '2001-02-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2001, 3º Suplemento, Série I-B de 2001-02-08
+  number: '33'
+  series: I
+  supplement: 3º Suplemento
+  pages: 716-(14) a 716-(14)
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/02/033b03/00140014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/90-a/2001/02/08/p/dre/pt/html
+  oj: null
+  dre: '483652'
+  dre_path: /dr/detalhe/portaria/90-a-2001-483652
+  internal: pt:dre:483652:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-a-2001-483652
+  metadata_url: https://data.dre.pt/eli/port/90-a/2001/02/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-a-2001-483652
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-09-13T00:00:00Z'
+integrity:
+  source_sha256: 7f6e0ac765a08605e01438764386b03fc0c318cbd20b805e5ee8be641f66fb46
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-90-A-483652.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Funções
+- Educador de Infância
+- Ensino Oficial
+- Ensino Particular
+- Pessoal Docente
+- Ensino Básico
+- Horário de Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:142713:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/652/1999/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/652/1999/08/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 90-A/2001
+
+de 8 de Fevereiro
+
+A [Portaria n.º 652/99](https://diariodarepublica.pt/dr/detalhe/portaria/652-1999-423178), de 14 de Agosto, veio regular o regime de acumulações de funções e actividades públicas e privadas dos educadores de infância e dos professores dos ensinos básico e secundário.
+
+O tempo entretanto decorrido veio, contudo, demonstrar que é necessário proceder a uma redefinição daquele regime, no que respeita à competência para autorizar a acumulação de exercício de funções docentes em estabelecimentos privados de educação ou ensino superior e não superior, bem como em relação a acções de formação.
+
+Assim, de forma a prosseguir mais eficazmente os objectivos estabelecidos na referida portaria, contribuindo para melhorar a administração educativa e, simultaneamente, para valorizar o serviço público de educação, desconcentrando competências, estabelece-se que a acumulação de exercício de funções docentes em estabelecimentos privados de educação ou ensino ou para o exercício de actividades de formação profissional ou no âmbito da formação contínua seja autorizada pelos directores regionais de educação, tal como já acontecia em relação à acumulação de exercício de funções docentes em estabelecimentos públicos.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Nestes termos:
+
+Ao abrigo do n.º 4 do artigo 111.º do Estatuto da Carreira Docente, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e alterado pelo [Decreto-Lei n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1998-224179), de 2 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças e da Educação, que o n.º 9.º da [Portaria n.º 652/99](https://diariodarepublica.pt/dr/detalhe/portaria/652-1999-423178), de 14 de Agosto, passe a ter a seguinte redacção:
+
+«9.º São autorizadas pelo director regional de educação respectivo a acumulação de funções docentes:
+
+a) Em estabelecimentos públicos ou privados de educação ou ensino superior ou não superior;
+
+b) Para o exercício de actividades de formação profissional ou no âmbito da formação contínua.»
+
+Em 30 de Janeiro de 2001.
+
+Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado Adjunto e do Orçamento. - Pelo Ministro da Educação, Maria José Rodrigues Rau Pinto da Silva, Secretária de Estado da Administração Educativa.

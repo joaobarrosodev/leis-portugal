@@ -1,0 +1,1194 @@
+---
+schema_version: '1.0'
+id: pt:dre:56720777:por
+title: Portaria n.º 174/2014
+short_title: null
+summary: Define as condições de instalação e funcionamento a que devem obedecer as unidades de internamento e de ambulatório
+  e as condições de funcionamento das equipas de gestão de altas e as equipas de cuidados continuados integrados da Rede Nacional
+  de Cuidados Continuados Integrados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Saúde e da Solidariedade, Emprego e Segurança Social
+proposing_entity: null
+official_number: 174/2014
+official_date: null
+publication_date: '2014-09-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/2014, Série I de 2014-09-10
+  number: '174'
+  series: I
+  supplement: null
+  pages: 4865 - 4882
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17400/0486504882.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-09-07'
+version_history:
+  file: portaria-174-2014.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-18'
+    amending: pt:dre:70331693:por
+    amending_title: Portaria n.º 289-A/2015
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 36.º
+  - date: '2017-03-01'
+    amending: pt:dre:106388650:por
+    amending_title: Portaria n.º 50/2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 36.º
+  - date: '2018-09-07'
+    amending: pt:dre:116341229:por
+    amending_title: Portaria n.º 249/2018
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/174/2014/p/cons/20180906/pt/html
+  oj: null
+  dre: '56720777'
+  dre_path: /dr/detalhe/portaria/174-2014-56720777
+  internal: pt:dre:56720777:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2014-56720777
+  metadata_url: https://data.dre.pt/eli/port/174/2014/p/cons/20180906/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-70325364
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-70325364
+  retrieved_at: '2026-10-22T12:02:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e6aec68213398c26c53d0cce43c52caac1d5f3062dedc7ef0f97374be1a018eb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:02:36Z'
+  notes: 4 versão(ões); histórico completo em portaria-174-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Rede
+- Auditoria
+- Contrato
+- Saúde
+- Definição de Competências
+- Administração Regional de Saúde
+- Entidade Reguladora da Saúde
+- Política de Saúde
+- Serviço Nacional de Saúde
+- Centro de Saúde
+- Licenciamento
+- Ministério da Solidariedade Emprego e Segurança Social
+- Prestação de Serviços
+- Cuidados Médicos
+- Recursos Humanos
+- Ministério da Saúde
+- Regime Ambulatório
+- Regime Jurídico
+- Direitos do Utente
+- ACES
+- Unidade de Internamento
+- Unidade Local de Saúde
+- Utente
+relationships:
+- type: amended_by
+  target: pt:dre:70331693:por
+  label: Altera Artigo 19.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/289-a-2015-70331693
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:106388650:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 14.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 24.º;
+    Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650
+  date: '2017-02-02'
+- type: amended_by
+  target: pt:dre:116341229:por
+  label: Altera Artigo 5.º; Altera Artigo 9.º; Altera Artigo 14.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/249-2018-116341229
+  date: '2018-09-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1087-a/2007/09/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1087-a/2007/09/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/949-a/2006/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/949-a/2006/09/11/p/dre
+article_structure:
+  article_count: 39
+  section_count: 16
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:02:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 174/2014
+
+Portaria n.º 174/2014
+
+de 10 de setembro
+
+A Rede Nacional de Cuidados Continuados Integrados (RNCCI), criada pelo Decreto-Lei n.º 101/2006, de 6 de junho, dirige-se a pessoas em situação de dependência que necessitam de cuidados continuados de saúde e de apoio social, de natureza preventiva, reabilitadora ou paliativa, prestados por unidades de internamento, unidades de ambulatório, equipas hospitalares e equipas domiciliárias prestadoras de cuidados continuados integrados.
+
+Neste contexto, a Portaria n.º 1087-A/2007, de 5 de setembro, com as alterações introduzidas pela Portaria n.º 189/2008, de 19 de fevereiro, definiu, em termos genéricos, as condições de instalação e funcionamento das unidades de internamento da RNCCI.
+
+Contudo, face à experiência decorrente da aplicação dos referidos normativos, revela-se necessário introduzir aperfeiçoamentos no que respeita às condições de instalação e funcionamento das unidades de internamento e definir as relativas às unidades de ambulatório.
+
+Importa, também, regular o funcionamento, das equipas de gestão de altas, e equipas de cuidados continuados integrados.
+
+Definem-se, igualmente, os requisitos técnicos das condições de instalação e de funcionamento das unidades de internamento e de ambulatório, aqui regulamentados através de programas funcionais para as diferentes tipologias, traduzindo um maior aperfeiçoamento face aos anteriores requisitos aplicáveis a esta matéria.
+
+Por outro lado, e ainda no que concerne ao funcionamento das unidades de internamento, prevê-se que até à entrada em vigor do regime jurídico do licenciamento para as unidades da RNCCI seja emitida autorização de funcionamento pelos competentes serviços do Ministério da Saúde e da Solidariedade, Emprego e Segurança Social.
+
+Tendo em conta a necessidade de garantir a sustentabilidade das entidades promotoras e gestoras preveem-se na autorização de funcionamento os lugares que integram a RNCCI bem como os lugares que podem ser geridos pelas entidades de forma autónoma.
+
+Prevê-se, ainda, em sede do presente diploma a figura do contrato de prestação de serviços a celebrar entre as entidades promotoras e gestoras de unidades de internamento de média duração e reabilitação, de longa duração e manutenção e de ambulatório e o utente, instrumento jurídico que visa clarificar as relações entre o prestador de serviços e o utente.
+
+Vem, também, definir-se o número mínimo de recursos humanos a afetar ao funcionamento das diferentes tipologias da RNCCI.
+
+Importa, ainda, regular as condições de adesão à RNCCI por parte das entidades promotoras e gestoras previstas no Decreto-Lei n.º 101/2006, de 6 de junho, cujo processo tem início com o pedido de adesão e fica dependente da celebração de contrato escrito a celebrar com as Administrações Regionais de Saúde, I. P. (ARS) quando estejam em causa unidades de convalescença e ainda com os Centros Distritais do Instituto da Segurança Social, I. P., (CDists do ISS, I. P.) quando estejam em causa unidades de média duração e reabilitação, longa duração e manutenção e unidades de ambulatório, nos termos do qual se contratualizam programas de cuidados continuados e se definem os direitos e obrigações das partes outorgantes.
+
+Por último, na decorrência das últimas alterações legislativas às atuais orgânicas do Ministério da Saúde, a coordenação nacional da RNCCI é agora assegurada pela Administração Central do Sistema de Saúde, I. P. (ACSS), mantendo-se os dois níveis territoriais de operacionalização, o regional e o local, assegurados pelas Equipas Coordenadoras Regionais (ECR), sediadas nas ARS, e pelas Equipas Coordenadoras Locais (ECL), sediadas nos Agrupamentos dos Centros de Saúde (ACES) e em Unidade Local de Saúde, que não tenha ACES constituído.
+
+Assim, ao abrigo dos artigos 41.º, 42.º e 37.º do Decreto-Lei n.º 101/2006, de 6 de junho, do artigo 23.º e do n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro, manda o Governo, pelos Secretários de Estado Adjunto e do Orçamento, Adjunto do Ministro da Saúde e da Solidariedade e da Segurança Social, o seguinte:
+
+### Capítulo I — Disposições Gerais
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria define as condições de instalação e funcionamento a que devem obedecer as unidades de internamento e de ambulatório, doravante designadas por unidades, bem como as condições de funcionamento a que devem obedecer as equipas de gestão de altas e as equipas de cuidados continuados integrados da Rede Nacional de Cuidados Continuados Integrados (RNCCI), estas últimas designadas por equipas domiciliárias, previstas no artigo 12.º do Decreto-Lei n.º 101/2006, de 6 de junho.
+
+2 - A presente portaria regula também os vários níveis de coordenação da RNCCI.
+
+3 - São ainda regulados os procedimentos relativos às adesões dos serviços e estabelecimentos integrados no Serviço Nacional de Saúde e das instituições do setor social e do setor privado que adiram à RNCCI após a entrada em vigor do presente diploma.
+
+4 - Excetuam-se do âmbito de aplicação da presente portaria as unidades de internamento e de ambulatório destinadas a cuidados pediátricos, as quais se regem por legislação própria.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma consideram-se:
+
+a) "Condições de instalação", as condições relativas à construção e segurança das instalações e das pessoas no que se refere a acessos, circulação, instalações técnicas e equipamentos e tratamento de resíduos das unidades da RNCCI, compreendendo a construção de raiz, a remodelação e a adaptação de edifícios.
+
+b) "Condições de funcionamento", as condições que permitem e viabilizam a concretização dos objetivos das unidades e equipas da RNCCI.
+
+c) "Condições de adesão", as condições que viabilizam a integração das entidades promotoras e gestoras na RNCCI.
+
+d) "Referenciação", ato de avaliação, pelos profissionais competentes, dos doentes a propor para a RNCCI;
+
+e) "Reabilitação Funcional", processo global e contínuo que visa a recuperação, desenvolvimento e manutenção da funcionalidade relativa a todas as áreas de desempenho e estruturas do corpo, com vista à promoção da independência e/ou autonomia otimizando o potencial e minimizando os impactos das incapacidades nas atividades da vida diária e na participação social.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+### Capítulo II — Condições de instalação
+
+###### Artigo 3.º — Instalações
+
+1 - As instalações de unidades da RNCCI devem estar em conformidade com a legislação nacional e comunitária vigente, nomeadamente no que diz respeito a:
+
+a) Localização;
+
+b) Terreno;
+
+c) Construção;
+
+d) Instalações e equipamentos de águas e esgotos;
+
+e) Instalações e equipamentos elétricos;
+
+f) Instalações e equipamentos mecânicos, incluindo as centrais e redes de gases medicinais;
+
+g) Instalações e equipamentos de segurança contra incêndios;
+
+h) Equipamento geral;
+
+i) Equipamento de uso clínico;
+
+j) Sistema de gestão de resíduos de natureza diversa.
+
+2 - A definição e caracterização dos espaços necessários ao desenvolvimento das atividades das unidades da RNCCI devem ainda obedecer às condições específicas de instalação previstas nos anexos I e II à presente portaria que dela fazem parte integrante.
+
+3 - Para efeitos do disposto nos números anteriores, mantêm-se válidas as autorizações de funcionamento das unidades emitidas ao abrigo da legislação vigente antes da entrada em vigor da presente portaria.
+
+4 - Ao licenciamento de construção e autorização de utilização é aplicável a legislação em vigor, sem prejuízo do disposto na presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+### Capítulo III — Condições de funcionamento
+
+###### Artigo 4.º — Direitos dos utentes
+
+Sem prejuízo do disposto no artigo 7.º do Decreto-Lei n.º 101/2006, de 6 de junho, o funcionamento das unidades e equipas da RNCCI baseia-se no respeito pelos seguintes direitos do utente:
+
+a) Integridade física, psíquica e moral;
+
+b) Identidade pessoal e reserva da vida privada;
+
+c) Não discriminação;
+
+d) Respeito pela sua decisão, ou do seu representante, quanto aos procedimentos a efetuar no âmbito da prestação dos cuidados, em conformidade com a legislação vigente;
+
+e) Participação do próprio, e dos seus familiares ou dos cuidadores informais, na elaboração do plano individual de intervenção;
+
+f) Confidencialidade dos dados do processo individual e outras informações clínicas;
+
+g) Participação, sempre que possível, dos familiares ou dos cuidadores informais no apoio ao utente, desde que este apoio contribua para o seu bem-estar e equilíbrio psicoafetivo;
+
+h) Visita, sem restrições de dias, em horário alargado, que tenha em conta as necessidades do envolvimento familiar e social nos termos definidos em regulamento interno e desde que tal não ponha em causa o normal funcionamento dos serviços, o bem-estar dos doentes e a prestação de cuidados aos mesmos;
+
+i) Convivência social, promovendo o relacionamento entre os utentes, e destes com os seus familiares e amigos, bem como com os profissionais, no respeito pela sua vontade e interesses;
+
+j) Assistência religiosa e espiritual, por solicitação do utente ou a pedido de familiares ou dos cuidadores informais.
+
+###### Artigo 5.º — Funcionamento das unidades de internamento
+
+1 - As unidades de internamento prestam cuidados de saúde e de apoio social, na sequência de episódio de doença aguda ou da necessidade de prevenção de agravamentos de doença crónica, centrados na reabilitação, readaptação, manutenção e ações paliativas a pessoas que se encontram em situação de dependência, com vista à sua reintegração sociofamiliar.
+
+2 - A concretização dos objetivos das unidades da RNCCI exige um funcionamento que proporcione e garanta ao utente:
+
+a) Prestação dos cuidados de saúde, de reabilitação, de manutenção, de conforto e de apoio psicossocial adequados;
+
+b) Personalização dos cuidados prestados mediante a identificação de um profissional, designado "Gestor de Caso", responsável direto pelo acompanhamento do processo individual e garante da comunicação com os demais intervenientes na prestação de cuidados;
+
+c) Utilização adequada dos fármacos;
+
+d) Alimentação que tenha em conta uma intervenção nutricional adequada;
+
+e) Prestação de cuidados de higiene;
+
+f) Um ambiente seguro, confortável, humanizado e promotor de autonomia;
+
+g) Atividades de convívio e lazer;
+
+h) Participação, ensino e treino dos familiares/cuidadores informais.
+
+3 - A prestação de cuidados exige uma avaliação multidisciplinar das necessidades do utente, realizada nas 48 horas após a admissão, e implica a elaboração de um plano individual de intervenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2018 - Diário da República n.º 172/2018, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-2018-116341229), em vigor a partir de 2018-09-07
+
+###### Artigo 6.º — Funcionamento da unidade de ambulatório
+
+1 - As unidades de ambulatório prestam cuidados continuados integrados de manutenção, de promoção de autonomia e apoio social a pessoas com diferentes graus de dependência, sem necessidade de internamento, que não reúnam condições para serem cuidadas no domicílio, ou cuja situação não aconselhe a prestação de cuidados no domicílio.
+
+2 - As unidades de ambulatório devem organizar-se para prestar cuidados continuados diferenciados em função das patologias e ou grau de dependência dos utentes.
+
+3 - A concretização dos objetivos da unidade de ambulatório exige um funcionamento em regime diurno, todos os dias úteis, por um período não inferior a oito horas diárias de forma a garantir e proporcionar ao utente:
+
+a) Cuidados de saúde de âmbito preventivo, manutenção e reabilitação;
+
+b) Desenvolvimento de atividades de treino cognitivo, de treino de atividades de vida diária e de atividades instrumentais de vida diária;
+
+c) Desenvolvimento de atividades de reabilitação e de manutenção das capacidades motoras e sensoriais;
+
+d) Promoção da interação do utente com a família, ou com o cuidador informal;
+
+e) Apoio na satisfação de necessidades básicas, nomeadamente a alimentação e higiene pessoal;
+
+f) Participação, ensino e treino dos familiares ou cuidadores informais;
+
+g) Realização de atividades culturais e de lazer, tendo em vista a socialização.
+
+4 - A unidade de ambulatório pode funcionar em instituições com unidades de internamento de média duração e reabilitação, de longa duração e manutenção e em outros estabelecimentos de instituições privadas de solidariedade social ou instituições legalmente equiparadas e entidades privadas com fins lucrativos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+###### Artigo 7.º — Funcionamento das equipas de gestão de altas
+
+1 - A equipa de gestão de altas (EGA) é uma equipa hospitalar multidisciplinar, sediada em hospital integrado no SNS, que avalia e confirma a proposta de referenciação dos utentes para as unidades e equipas da RNCCI.
+
+2 - As equipas referidas no número anterior fazem o planeamento de alta relativamente a todos os doentes que necessitem de cuidados continuados integrados, imediatamente após um internamento hospitalar, bem como a todos os doentes que apresentem um grau de dependência que não lhes permita o regresso ao domicílio em condições de segurança ou aqueles em que seja necessária uma avaliação mais precisa do grau de dependência.
+
+3 - À EGA devem ser sinalizados, pelo serviço onde se encontram internados, todos os doentes que necessitem de cuidados continuados integrados para que se possa proceder a um planeamento articulado e atempado da alta.
+
+4 - Em cada hospital integrado no SNS deve existir uma EGA.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+###### Artigo 8.º — Funcionamento das equipas domiciliárias
+
+1 - As equipas domiciliárias prestam cuidados centrados na reabilitação, readaptação, manutenção e conforto, a pessoas em situação de dependência, doença terminal, ou em processo de convalescença, cuja situação não requer internamento, mas que não podem deslocar-se de forma autónoma.
+
+2 - A prestação de cuidados exige uma avaliação multidisciplinar das necessidades da pessoa realizada pelas equipas domiciliárias e implica a elaboração de um plano individual de intervenção.
+
+3 - As equipas referidas no n.º 1 são equipas da RNCCI, da responsabilidade dos cuidados de saúde primários, enquadradas no âmbito da prestação de cuidados dos ACES, integrados ou não em unidade local de saúde, E. P. E. (ULS) em articulação com as unidades e outras equipas da RNCCI.
+
+4 - As condições de funcionamento das equipas domiciliárias constam de carta de compromisso a celebrar entre o ACES, integrados ou não em ULS e a Administração Regional de Saúde, I. P. (ARS) e os CDists do ISS, I. P.
+
+5 - A concretização dos objetivos das equipas domiciliárias exige um funcionamento que proporcione e garanta ao utente:
+
+a) Prestação dos cuidados de saúde, de reabilitação, de manutenção, de natureza paliativa e de apoio psicossocial adequados, promovendo o envolvimento dos familiares ou dos cuidadores informais;
+
+b) Personalização dos cuidados prestados mediante a identificação de um profissional, preferencialmente, enfermeiro, designado "Gestor de Caso", responsável direto pelo acompanhamento do processo individual e garante da comunicação com os demais intervenientes na prestação de cuidados;
+
+c) Prestação de apoio psicoemocional;
+
+d) Consulta multidisciplinar e acompanhamento assistencial de natureza paliativa;
+
+e) Apoio no desempenho das atividades básicas e instrumentais da vida diária;
+
+f) Promoção de um ambiente seguro, confortável, humanizado e promotor de autonomia;
+
+g) Participação, ensino e treino dos familiares ou dos cuidadores informais.
+
+###### Artigo 9.º — Regulamento interno das unidades
+
+1 - As unidades dispõem de um regulamento interno de funcionamento que contém, designadamente, os seguintes elementos:
+
+a) Direção técnica, direção clínica e mapa de pessoal, no qual seja indicado o número de profissionais por categoria, bem como o correspondente número de horas a afetar à unidade;
+
+b) Direitos e deveres dos utentes e seus familiares ou cuidadores informais;
+
+c) Serviços e cuidados disponíveis;
+
+d) Condições de pagamento do valor dia, por parte do utente, definidas para as unidades de internamento de média duração e reabilitação, de longa duração e manutenção e de ambulatório;
+
+e) Condições do depósito de bens;
+
+f) Condições de admissão, mobilidade, alta e reserva de lugar;
+
+g) Horários de funcionamento, nomeadamente, horário das refeições;
+
+h) Gestão de reclamações;
+
+i) Demais regras de funcionamento.
+
+2 - O regulamento interno é elaborado pela entidade promotora e gestora da unidade e, antes da entrada em funcionamento da unidade, é enviado à ECR para aprovação, a efetuar no prazo máximo de 30 dias úteis, contados da data da receção do mesmo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2018 - Diário da República n.º 172/2018, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-2018-116341229), em vigor a partir de 2018-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+###### Artigo 10.º — Processo individual de cuidados continuados
+
+1 - As unidades e equipas devem organizar o processo individual de cuidados continuados (PICC) em suporte informático ou em papel que inclui, designadamente:
+
+a) Identificação do utente;
+
+b) Data de admissão;
+
+c) Identificação e contacto do médico assistente;
+
+d) Identificação e contacto do "Gestor de Caso" da unidade ou da equipa;
+
+e) Identificação e contactos dos familiares, cuidadores informais e representante legal quando exista;
+
+f) Cópia do Consentimento Informado e do Termo de Aceitação, quando aplicável;
+
+g) Contrato de prestação de serviços;
+
+h) Plano individual de intervenção;
+
+i) Registos relativos à evolução do estado de saúde do utente no âmbito dos respetivos planos individuais de cuidados;
+
+j) Nota de alta.
+
+2 - O PICC do utente deve ser permanentemente atualizado, e no que respeita a registo de observações, prescrições, administração de terapêutica e prestação de serviços e cuidados, deve ser anotada a data e a hora em que foram realizados, bem como a identificação do seu autor.
+
+3 - O PICC é de acesso restrito nos termos da legislação aplicável.
+
+4 - As unidades e equipas prestadoras asseguram o arquivo do PICC, em conformidade com a legislação vigente.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+###### Artigo 11.º — Contrato de Prestação de Serviços
+
+1 - As entidades promotoras e gestoras de unidades de internamento de média duração e reabilitação e longa duração e manutenção e de ambulatório, devem celebrar contratos de prestação de serviços com os utentes e ou seus familiares e, quando exista, com o representante legal.
+
+2 - No âmbito do contrato referido no número anterior, poderá ser prevista uma caução, com o objetivo de assegurar o respetivo pagamento do internamento do utente
+
+###### Artigo 12.º — Acesso à informação
+
+1 - As unidades devem ter disponível e em local bem visível e de fácil acesso a seguinte informação e documentos:
+
+a) Licença ou autorização de funcionamento;
+
+b) Horário de atendimento;
+
+c) Identificação do diretor técnico;
+
+d) Identificação do diretor clínico e do enfermeiro coordenador;
+
+e) Horário de funcionamento, incluindo horário das visitas;
+
+f) Plano e horário das atividades;
+
+g) Mapa semanal das ementas;
+
+h) Referência à existência de regulamento interno e de livro de reclamações.
+
+2 - As unidades devem ser identificadas mediante afixação de placa identificativa com logótipo da RNCCI e respetiva tipologia, em conformidade com as regras definidas pelos organismos competentes.
+
+### Capítulo IV — Recursos Humanos
+
+###### Artigo 13.º — Requisitos
+
+Os profissionais das unidades e equipas devem possuir as qualificações necessárias, designadamente título profissional, adequado ao exercício das funções.
+
+###### Artigo 14.º — Dotações de recursos humanos
+
+1 - De forma a assegurar níveis adequados de qualidade na prestação de cuidados, e enquanto não forem estabelecidos rácios padrão adequados à complexidade de cuidados, as unidades da RNCCI poderão seguir, consoante as suas dimensões, as recomendações mencionadas no anexo iv à presente portaria, que dela faz parte integrante.
+
+2 - Para efeitos do disposto no número anterior, não é considerada a colaboração de voluntários ou de pessoas em estágio profissional prévio à obtenção da qualificação necessária para o exercício de funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2018 - Diário da República n.º 172/2018, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-2018-116341229), em vigor a partir de 2018-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+###### Artigo 15.º — Direção técnica das unidades
+
+1 - Ao Diretor Técnico, em articulação com os órgãos de gestão da entidade promotora e gestora, compete designadamente:
+
+a) Definir um modelo de gestão integrada de cuidados e submete-lo à aprovação dos órgãos de gestão da instituição;
+
+b) Implementar internamente os programas de gestão da qualidade;
+
+c) Promover a melhoria contínua e a humanização dos cuidados continuados integrados;
+
+d) Supervisionar, coordenar e acompanhar a atividade dos profissionais;
+
+e) Implementar programas de formação, iniciais e contínuos, bem como desenvolver um programa de integração de novos profissionais.
+
+2 - Para além do disposto no Decreto-Lei n.º 101/2006, de 6 de junho, quanto à direção técnica das unidades de internamento, o diretor técnico da unidade de ambulatório deve ser um profissional da área da saúde ou da área psicossocial.
+
+###### Artigo 16.º — Recursos humanos das equipas de gestão de altas
+
+1 - As EGA integram um médico, um enfermeiro e um assistente social, podendo ainda integrar outros profissionais, nomeadamente para apoio administrativo, sempre que o volume e a complexidade de atividades o justificar.
+
+2 - Os profissionais que integram as EGA são designados pelo conselho de administração do hospital e exercem as suas funções, preferencialmente, em regime de tempo completo, em espaço próprio e equipado para o efeito.
+
+3 - Quando, em função da dimensão da área de intervenção, não for possível ou adequado que todos os profissionais se encontrem a tempo completo, devem ser fixados horários ajustados que garantam o normal funcionamento da EGA, os quais deverão expressamente constar de regulamento interno.
+
+4 - Os conselhos de administração dos hospitais integrados no SNS designam um interlocutor em cada centro de responsabilidade, departamento ou serviço, a quem cabe a articulação com a EGA.
+
+5 - Os conselhos de administração dos hospitais integrados no SNS designam um responsável pela coordenação da EGA que articula com as ECL e com a ECR.
+
+###### Artigo 17.º — Recursos humanos das equipas domiciliárias
+
+1 - As equipas domiciliárias integram, designadamente, médicos, enfermeiros, psicólogos, terapeutas e assistentes sociais, sendo a respetiva afetação da responsabilidade do ACES, de acordo com os objetivos contratualizados.
+
+2 - Os profissionais referidos no número anterior são nomeados pelo Conselho de Administração da ULS ou pelo Diretor Executivo do ACES, sob proposta do coordenador da unidade de cuidados na comunidade, sempre que exista e a sua composição e dimensão deve ter em conta as características sócio demográficas, epidemiológicas e geográficas da área onde está inserida.
+
+###### Artigo 18.º — Formação dos profissionais
+
+1 - Cabe às entidades promotoras e gestoras das unidades e equipas, no inicio de cada ano, o desenvolvimento do plano anual de formação, tendo como referência o levantamento de necessidades e as recomendações das ARS e CDist do ISS, I. P.
+
+2 - As entidades promotoras e gestoras das unidades e equipas devem garantir a participação dos seus profissionais em ações de formação, no âmbito das orientações e objetivos gerais da RNCCI, bem como em ações promovidas por outras entidades, desde que correspondam aos objetivos da RNCCI e contribuam para sua formação contínua.
+
+3 - A ARS/ACSS e o ISS, I. P., podem, sempre que entendam necessário, solicitar às entidades promotoras e gestoras das unidades e equipas comprovativos da formação realizada..
+
+### Capítulo V — Referenciação na RNCCI e admissão nas unidades e equipas
+
+###### Artigo 19.º — Referenciação para unidades e equipas
+
+1 - Sem prejuízo do disposto no artigo 31.º do Decreto-Lei n.º 101/2006, de 6 de junho, com a redação que lhe foi dada pelo Decreto-Lei n.º 136/2015, de 28 de julho, para as unidades e equipas da RNCCI podem ser referenciadas as pessoas com limitação funcional, em processo de doença crónica ou na sequência de doença aguda, em fase avançada ou terminal, ao longo do ciclo de vida e com necessidades de cuidados de saúde e de apoio social.
+
+2 - São ainda condições gerais de admissão em todas as tipologias da RNCCI as seguintes situações:
+
+a) A alimentação entérica;
+
+b) O tratamento de úlceras de pressão e ou feridas;
+
+c) A manutenção e tratamento de estomas;
+
+d) A terapêutica parentérica;
+
+e) As medidas de suporte respiratório designadamente a oxigenoterapia ou a ventilação assistida não invasiva;
+
+f) Ajuste terapêutico e ou de administração de terapêutica, com supervisão continuada.
+
+3 - Para as unidades de convalescença são também critérios de referenciação as situações que, na sequência de episódio de doença aguda, impliquem perda de funcionalidade transitória, e careçam de cuidados de saúde que, pela sua complexidade ou duração, não possam ser prestados no domicílio, com previsibilidade de recuperação ou ganhos funcionais atingíveis até 30 dias consecutivos que requeiram:
+
+a) Cuidados médicos e de enfermagem, permanentes;
+
+b) Reabilitação funcional intensiva.
+
+4 - Para unidade de média duração e reabilitação, para além do disposto no n.º 2, são ainda critérios de referenciação, as situações que na sequência de doença aguda ou reagudização de doença crónica, impliquem perda de funcionalidade, careçam de continuidade de cuidados de saúde, reabilitação funcional e apoio social e pela sua complexidade ou duração, não possam ser assegurados no domicílio, com previsibilidade de ganhos funcionais atingíveis até 90 dias consecutivos que requeiram:
+
+a) Cuidados médicos diários e de enfermagem, permanentes;
+
+b) Reabilitação funcional.
+
+5 - Para além do disposto no n.º 2, são critérios de referenciação para unidade de longa duração e manutenção as situações que impliquem a prestação de cuidados de apoio social, continuidade de cuidados de saúde e de manutenção do estado funcional, que pela sua complexidade ou duração, não possam ser assegurados no domicílio e tenham necessidade de internamento num período superior a 90 dias consecutivos que requeiram:
+
+a) Cuidados médicos regulares e cuidados de enfermagem permanentes;
+
+b) Reabilitação funcional de manutenção;
+
+c) Internamento em situações temporárias por dificuldade de apoio familiar e necessidade de descanso do principal cuidador, até 90 dias por ano.
+
+6 - São critérios de referenciação para unidades de dia e promoção de autonomia (UDPA) as situações que necessitam da prestação de cuidados de apoio social, saúde, promoção, autonomia ou manutenção do estado funcional de pessoas que, podendo permanecer no domicílio, não podem aí ver assegurados esses cuidados face à complexidade ou duração.
+
+7 - As equipas domiciliárias destinam-se a pessoas em situação de dependência funcional transitória ou prolongada, que não se podem deslocar de forma autónoma, cujo critério de referenciação assenta na fragilidade, limitação funcional grave condicionada por fatores ambientais, com doença severa, em fase avançada ou terminal, ao longo do ciclo de vida, que reúnam condições no domicílio que permitam a prestação dos cuidados continuados integrados que requeiram:
+
+a) Frequência de prestação de cuidados de saúde superior a 1 vez por dia, ou, prestação de cuidados de saúde superior a 1 hora e 30 minutos por dia, no mínimo de 3 dias por semana;
+
+b) Cuidados além do horário normal de funcionamento da equipa de saúde familiar, incluindo fins de semana e feriados;
+
+c) Complexidade de cuidados que requeira um grau de diferenciação ao nível da reabilitação;
+
+d) Necessidades de suporte e capacitação ao cuidador informal.
+
+8 - Consideram-se critérios de não admissão em unidades e equipas, as pessoas:
+
+a) Com episódio de doença em fase aguda;
+
+b) Com necessidade exclusiva de apoio social;
+
+c) Cujo objetivo de internamento seja o estudo diagnóstico;
+
+d) Cujo regime terapêutico inclua antibióticos de uso exclusivo hospitalar.
+
+e) Com necessidades de cuidados paliativos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2018 - Diário da República n.º 172/2018, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-2018-116341229), em vigor a partir de 2018-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 289-A/2015 - Diário da República n.º 182/2015, 1º Suplemento, Série I de 2015-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/289-a-2015-70331693), em vigor a partir de 2015-09-18
+
+###### Artigo 20.º — Processo de referenciação dos utentes provenientes dos hospitais e dos cuidados de saúde primários
+
+1 - Os profissionais de saúde dos hospitais designadamente, médicos, enfermeiros e assistentes sociais, referenciam as pessoas com critérios clínicos para potencial ingresso na RNCCI, de acordo com a seguinte informação:
+
+Diagnóstico principal de acordo com a Classificação Internacional da Doença;
+
+Registo de comorbilidades;
+
+Classificação do grau de funcionalidade segundo a Classificação Internacional de Funcionalidade, Incapacidade e Saúde;
+
+Avaliação médica, de enfermagem, do serviço social e qualquer outra informação relevante;
+
+Proposta da tipologia de cuidados da RNCCI.
+
+2 - A referenciação pode ser realizada desde o início do internamento até quatro dias antes da data prevista da alta.
+
+3 - A EGA receciona a proposta de referenciação e no prazo de dois dias úteis, avalia e confirma toda a informação até ao momento da alta, designadamente:
+
+a) Informação da situação clínica e medicação;
+
+b) Indicação das necessidades em cuidados;
+
+c) Informação do serviço social;
+
+d) Informação dos meios complementares de diagnóstico e terapêutica realizados;
+
+e) Anotações sobre o programa de seguimento do utente e de marcações de próximas consultas ou exames complementares, com identificação do responsável pelo seguimento, quando aplicável.
+
+4 - Sempre que o utente seja proveniente da comunidade, nomeadamente o domicílio, a referenciação é efetuada, com as devidas adaptações, pelos profissionais de saúde das unidades de saúde familiar (USF) e das unidades de cuidados de saúde personalizados (UCSP) sendo aplicável o procedimento constante do n.º 1.
+
+5 - Os profissionais das unidades de cuidados na comunidade (UCC) sinalizam às USF e UCSP os doentes com potencial de referenciação.
+
+6 - Os profissionais que integram as USF e as UCSP enviam à ECL a proposta de referenciação no prazo máximo de cinco dias, após o início da referenciação.
+
+7 - A ECL valida a proposta de referenciação e a tipologia adequada.
+
+8 - Na referenciação do utente para unidade ou equipa deve ter-se em conta a proximidade da área do domicílio do utente relativamente à unidade ou equipa e sempre que possível ter em consideração a sua preferência.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+###### Artigo 21.º — Processo de admissão nas unidades e equipas
+
+1 - A admissão de utentes nas unidades e equipas é precedida de proposta de referenciação dos profissionais de saúde dos hospitais e dos cuidados de saúde primários.
+
+2 - A ECR determina, no prazo de um dia útil, a alocação de vaga do utente em unidade ou equipa da RNCCI, na medida dos recursos e vagas existentes.
+
+3 - A admissão na unidade ou equipa da RNCCI efetiva-se no prazo de um dia útil.
+
+4 - Para efeitos de admissão nas unidades de internamento e equipas domiciliárias é necessário obter o prévio consentimento informado por parte do utente, ou do seu representante legal.
+
+5 - Para além do documento referido no número anterior, a admissão nas unidades de internamento de média duração e reabilitação, de longa duração e manutenção e de ambulatório, carece ainda da assinatura do termo de aceitação das situações de comparticipação do utente, e da tomada de conhecimento da necessidade da celebração de contrato de prestação de serviços, no momento da admissão, em conformidade com a legislação aplicável.
+
+6 - As unidades e equipas prestadoras podem no prazo de 48 horas prévio à admissão do utente, solicitar à ECL a sua reavaliação, desde que devidamente fundamentada.
+
+7 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2018 - Diário da República n.º 172/2018, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-2018-116341229), em vigor a partir de 2018-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+### Capítulo VI — Continuidade de cuidados integrados, prorrogação, mobilidade e alta
+
+###### Artigo 22.º — Continuidade da prestação de cuidados
+
+1 - Para a concretização dos objetivos terapêuticos, a continuidade da prestação de cuidados a cada utente deve ser reavaliada quinzenal ou mensalmente pela unidade, conforme se trate de unidade de convalescença ou de média duração e reabilitação, e trimestralmente, na unidade de longa duração e manutenção e mensalmente na unidade de ambulatório e nas equipas domiciliárias, salvaguardando-se sempre nas diferentes tipologias as eventuais avaliações intercalares que sejam necessárias.
+
+2 - Nas situações em que os utentes internados em unidades da RNCCI careçam de cuidados em hospital integrado no SNS, por período superior a 24 horas, pode ocorrer reserva de lugar por um período de oito dias, contando os dias de reserva para a determinação da taxa de ocupação da unidade.
+
+3 - Sem prejuízo do disposto no número anterior, em situações excecionais devidamente comprovadas e justificadas do ponto de vista clínico, o período de oito dias de reserva de lugar pode ser alargado até ao máximo de doze dias, com autorização da respetiva ECL
+
+###### Artigo 23.º — Procedimentos de prorrogação, mobilidade e alta
+
+1 - Sempre que esgotados os prazos de internamento fixados no artigo 19.º, e se não atingidos os objetivos terapêuticos, pode haver lugar a pedido de prorrogação do internamento do utente ou pode haver necessidade de mobilidade do mesmo para outra unidade de internamento mais adequada à melhoria ou recuperação da sua situação clínica e social.
+
+2 - Para efeitos de prorrogação do internamento, a unidade elabora proposta fundamentada, até 5 dias antes do período de internamento máximo previsto para a unidade da RNCCI, que submete a autorização da ECR.
+
+3 - A ECL assegura, sob prévia autorização da ECR, sempre que excedido o período de internamento máximo previsto para a unidade da RNCCI e após reavaliação da situação a continuidade do utente na respetiva unidade.
+
+4 - Sempre que considerada a necessidade de mobilidade por transferência do utente, deve a unidade ou equipa elaborar proposta fundamentada à ECL da área de influência da unidade para respetiva validação.
+
+5 - A mobilidade por transferência do utente deve ter em consideração o critério de proximidade ao domicílio deste, sendo prioritária em relação aos utentes em lista de espera para admissão na RNCCI.
+
+6 - Para efeitos do disposto no número anterior, e caso não haja coincidência entre o domicílio do utente e a área geográfica da unidade ou equipa, compete à ECL da área da unidade articular-se com a competente ECR com vista à observância do critério de proximidade.
+
+7 - Os utentes internados em unidade, quando agudizam e carecem de cuidados em hospital integrado no SNS, por período temporal superior ao determinado nos n.os 2 e 3 do artigo anterior, beneficiam de prioridade na readmissão na RNCCI.
+
+8 - A preparação da alta deve ser iniciada com uma antecedência que permita encontrar a solução mais adequada à necessidade de continuidade de cuidados, pressupondo a necessária articulação entre a unidade, a competente ECR e ou a ECL da área do domicílio do utente a quem cabem a responsabilidade de todas as diligências.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2018 - Diário da República n.º 172/2018, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-2018-116341229), em vigor a partir de 2018-09-07
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+### Capítulo VII — Adesão à RNCCI
+
+###### Artigo 24.º — Pedido de adesão
+
+1 - O pedido de adesão, por parte das entidades promotoras e gestoras previstas no n.º 1 do artigo 36.º do Decreto-Lei n.º 101/2006, de 6 de junho, com a redação que lhe foi dada pelo Decreto-Lei n.º 136/2015, de 28 de julho, que ainda não integrem a RNCCI, formaliza-se mediante preenchimento do formulário constante do anexo V à presente portaria que dela faz parte integrante, disponível no sítio da internet da ARS e do ISS, I. P.
+
+2 - O formulário a que se refere o número anterior deve ser devidamente preenchido e assinado por quem tenha competência para o ato nos termos legais e entregue na ARS competente.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+###### Artigo 25.º — Processo de adesão à RNCCI
+
+1 - Instruído o pedido de adesão, a ECR competente aprecia e emite parecer, no prazo máximo de dez dias úteis contados da receção do pedido, tendo em conta o seguinte:
+
+a) Cobertura territorial de acordo com os rácios definidos, pelos organismos competentes, para cada uma das tipologias da RNCCI;
+
+b) Adequabilidade da intervenção proposta face ao disposto no presente diploma;
+
+c) Existência de cobertura orçamental.
+
+2 - Para efeitos do disposto no número anterior, a ECR deve obrigatoriamente promover a participação dos competentes serviços da ARS e do ISS, I. P., nas decisões a tomar.
+
+3 - Na sequência da emissão de parecer favorável, deve a entidade promotora e gestora na RNCCI proceder à entrega dos seguintes documentos:
+
+a) Planta de localização;
+
+b) Planta de implantação do/s edifício/s;
+
+c) Planta de todos os pisos onde se localiza a unidade, incluindo os espaços partilhados, com indicação dos equipamentos;
+
+d) Estudo prévio de arquitetura e das especialidades de engenharia com escala tecnicamente adequada, nos termos da legislação em vigor.
+
+###### Artigo 26.º — Parecer prévio à decisão
+
+1 - Após a construção de raiz ou de ampliação ou remodelação para tipologias da RNCCI, são confirmadas as condições de instalação em visita técnica final, sendo a entidade promotora notificada para apresentar à ECR, no prazo de trinta dias úteis, a contar da respetiva notificação, os seguintes documentos:
+
+a) Comprovativo da segurança contra incêndios em edifícios emitido pela Autoridade Nacional de Proteção Civil, que tenha em consideração eventuais obras de remodelação e ou reconversão do edificado para nova utilização-tipo ou nova categoria de risco;
+
+b) Telas finais dos projetos de arquitetura e especialidades de engenharia;
+
+c) Licença(s) de estabelecimento para instalações elétricas do tipo A e ou B, nos termos da legislação em vigor;
+
+d) Certificado de exploração para instalações elétricas do tipo C, se aplicável nos termos da legislação em vigor;
+
+e) Declaração do técnico responsável pela exploração das instalações elétricas e último relatório de inspeção desse técnico, para instalações elétricas que carecem de técnico responsável pela exploração, nos termos da legislação em vigor;
+
+f) Relatório de vistoria anual, para instalações que dispensam a existência de um técnico responsável pela exploração, nos termos da legislação em vigor;
+
+g) Certificação dos ascensores, se aplicável nos termos da legislação em vigor;
+
+h) Cópia do contrato de manutenção dos aparelhos elevadores, se aplicável nos termos da legislação em vigor;
+
+i) Autorização de utilização emitida pela Câmara Municipal competente, com identificação do uso a que se destina;
+
+j) Comprovativo do controlo sanitário da água, caso existam depósitos de reserva de água para consumo humano;
+
+k) Certificação energética das instalações de climatização;
+
+l) Termo de responsabilidade, passado por entidade credenciada, atestando a conformidade da instalação da Rede de Gases Medicinais e do Sistema de Aspiração/Vácuo com as normas e legislação portuguesas e as normas e diretivas europeias aplicáveis bem como da certificação dos materiais utilizados na instalação da rede de gases medicinais e de aspiração/vácuo, nos termos do modelo constante do anexo VI à presente portaria que dela faz parte integrante, disponível no sítio da Internet da ARS, acompanhado de documento comprovativo da certificação da entidade instaladora.
+
+2 - A ECR emite parecer final sobre a viabilidade da adesão à RNCCI, no prazo de trinta dias úteis, a contar da data da receção dos respetivos documentos.
+
+3 - Do parecer a que se refere o número anterior deve constar:
+
+a) Elementos relativos à unidade e equipa prestadora;
+
+b) Elementos relativos à entidade promotora e gestora;
+
+c) Identificação da tipologia e rácios previstos na área geográfica;
+
+d) Data de entrada do formulário;
+
+e) Procedimentos efetuados, incluindo a menção da interrupção dos prazos, no caso de pedido de elementos/aperfeiçoamentos;
+
+f) Avaliação das condições de funcionamento;
+
+g) Avaliação das instalações da unidade nas vertentes de arquitetura, instalações e equipamentos elétricos, instalações e equipamentos de águas e esgotos e instalações e equipamentos mecânicos;
+
+h) Direção Técnica e Mapa de Pessoal;
+
+i) Conclusão devidamente fundamentada.
+
+4 - A ECR deve obrigatoriamente promover a participação nas decisões a tomar dos competentes serviços da ARS e do ISS, I. P., sempre que estejam em causa pareceres ou decisões acerca de unidades de média duração e reabilitação, longa duração e manutenção e de ambulatório.
+
+###### Artigo 27.º — Decisão
+
+1 - A decisão sobre a adesão à RNCCI compete ao Conselho Diretivo da ARS territorialmente competente, salvo o disposto no número seguinte.
+
+2 - Quando se trate de unidades de internamento de média duração e reabilitação, longa duração e manutenção e de ambulatório, a decisão sobre a adesão à RNCCI compete, ainda ao Conselho Diretivo do ISS, I. P.
+
+3 - O prazo para decisão sobre adesão à RNCCI é de 15 dias úteis, contados da data da emissão do parecer final referido no n.º 2 do artigo anterior.
+
+###### Artigo 28.º — Celebração de contrato
+
+1 - A adesão formaliza-se com a celebração de contrato, em modelo próprio a aprovar pelos Ministérios da Saúde e da Solidariedade, Emprego e Segurança Social, celebrado entre a entidade promotora e gestora, a ARS, salvo o disposto no número seguinte.
+
+2 - Quando se trate de unidades de internamento de média duração e reabilitação, longa duração e manutenção e de ambulatório, o contrato referido no número anterior é também celebrado com o CDist do ISS, I. P.
+
+3 - Não é admitida a subcontratação, salvo em casos excecionais devidamente fundamentados e sujeitos à prévia aprovação da ARS e do CDist do ISS, I. P.
+
+### Capítulo VIII — Avaliação e sistemas de informação
+
+###### Artigo 29.º — Monitorização, avaliação e auditorias
+
+1 - O funcionamento e a qualidade dos cuidados e serviços prestados, os processos realizados, os resultados obtidos, e a articulação das unidades com outros recursos de saúde e ou sociais, estão sujeitos a uma avaliação periódica, sem prejuízo dos processos internos de melhoria contínua no âmbito da respetiva gestão da qualidade.
+
+2 - As unidades podem ser sujeitas a auditorias técnicas e financeiras pelos competentes serviços dos Ministérios da Saúde e da Solidariedade, Emprego e Segurança Social, no âmbito das suas atribuições, que para o efeito poderão recorrer a serviços externos.
+
+3 - Para efeitos do disposto, no número anterior as unidades devem facultar o acesso às instalações e à documentação tida por pertinente pelas equipas auditoras.
+
+4 - As auditorias referidas no n.º 2 devem ser efetuadas de forma conjunta e articulada entre os serviços competentes dos Ministérios da Saúde e da Solidariedade, Emprego e Segurança Social.
+
+5 - As auditorias referentes a matérias de infraestruturas deverão ser levadas a cabo exclusivamente pela Entidade Reguladora da Saúde.
+
+6 - Para efeitos do disposto, nos números anterior as unidades devem facultar o acesso às instalações e à documentação tida por pertinente pelas equipas auditoras.
+
+7 - No âmbito da avaliação periódica referida no n.º 1, podem, ainda, as unidades ser objeto de estudos que visem a avaliação da satisfação dos utentes, a realizar em articulação com as entidades promotoras e gestoras.
+
+###### Artigo 30.º — Suportes de informação
+
+1 - As unidades procedem ao registo dos dados necessários à referenciação e monitorização evolutiva e de resultados mediante o preenchimento dos formulários e módulos disponíveis, na plataforma informática da RNCCI.
+
+2 - É garantido às unidades e equipas o acesso a um conjunto de indicadores organizacionais e de gestão clínica, anualmente definidos pela ACSS, I. P., e pelo ISS, I. P.
+
+3 - É garantido igualmente a ligação das plataformas de informação clínica das entidades promotoras e gestoras a custos das mesmas com a plataforma informática da RNCCI para a recolha da informação que se entenda necessária e suficiente à gestão da RNCCI, no estrito cumprimento da Lei de proteção de dados pessoais.
+
+4 - A gestão de acessos à plataforma informática da RNCCI é da responsabilidade da ACSS.
+
+### Capítulo IX — Coordenação da RNCCI
+
+###### Artigo 31.º — Coordenação Nacional
+
+A RNCCI é coordenada pela ACSS, I. P., à qual compete promover a articulação com os organismos competentes dos Ministérios da Saúde e da Solidariedade, Emprego e Segurança Social.
+
+###### Artigo 32.º — Coordenação Regional
+
+1 - A coordenação a nível regional é assegurada por cinco ECR, constituídas de modo multidisciplinar, integrando representantes das ARS e dos CDists do ISS, I. P., designados por três anos, renováveis, respetivamente, pelo Conselho Diretivo das ARS e pelo Conselho Diretivo do ISS, I. P.
+
+2 - Cada ECR deve integrar, no mínimo, da área da saúde, um médico, um enfermeiro e um assistente técnico e, da área social, um técnico superior podendo ainda integrar outros profissionais sempre que o volume e a complexidade da atividade o justifiquem.
+
+3 - A ECR é dimensionada em função das necessidades e dos recursos existentes e constituída por profissionais com conhecimentos e experiência nas áreas de planeamento, gestão e avaliação, que exercem as suas funções em regime de tempo completo.
+
+4 - Quando em função da dimensão da área de intervenção não for possível ou adequado que todos os profissionais exerçam funções em regime de tempo completo, devem ser fixados horários ajustados que garantam o normal funcionamento da (s) equipa (s), os quais deverão expressamente constar em regulamento interno.
+
+5 - A coordenação da ECR é assegurada por um profissional nomeado pela ARS territorialmente competente.
+
+6 - Os profissionais que integram as ECR não podem ser, simultaneamente, prestadores de cuidados no âmbito da Rede.
+
+7 - As ECR atuam numa base regional, tendo por referência a área de influência da ARS.
+
+8 - As competências das ECR estão definidas no artigo 10.º do Decreto-Lei n.º 101/2006, de 6 de junho.
+
+###### Artigo 33.º — Funcionamento das ECR
+
+1 - O modo de funcionamento das ECR consta de regulamento interno, que é elaborado no primeiro mês de funcionamento, e aprovado pelo Conselho Diretivo da ARS e pelo Conselho Diretivo do ISS, I. P., com conhecimento da coordenação nacional.
+
+2 - Do regulamento interno das ECR deve constar, designadamente:
+
+a) Local e horário de funcionamento;
+
+b) Periodicidade das reuniões;
+
+c) Prazos para apresentação de planos e relatórios de atividades;
+
+d) Composição da ECR e regime de afetação dos profissionais que a constituem;
+
+e) Processo de substituição do coordenador nas suas ausências ou impedimentos;
+
+f) Processos de articulação com as equipas coordenadoras aos níveis nacional e local;
+
+g) Instrumentos de monitorização e controlo da atividade e da qualidade dos processos e de controlo dos resultados das unidades e equipas da Rede, de acordo com as orientações da coordenação nacional.
+
+3 - As ECR estão sedeadas nas instalações das ARS que asseguram os meios necessários ao desempenho das suas competências e atribuições.
+
+###### Artigo 34.º — Coordenação Local
+
+1 - A coordenação a nível local, é assegurada pelas ECL, constituídas de modo multidisciplinar, integrando, no mínimo, da área da saúde, um/a médico/a e um/a enfermeiro/a, e, da área social, um técnico superior e, sempre que necessário, um/a técnico/a das autarquias locais, designado pelo(s) presidente(s) de Câmara Municipal, podendo ainda integrar outros profissionais sempre que o volume e a complexidade da atividade o justifiquem.
+
+2 - Os elementos que constituem as ECL são designados, consoante as áreas de intervenção, pelo Conselho Diretivo da ARS, sob proposta do Diretor Executivo do ACES ou do Conselho de Administração da ULS, e pelo Conselho Diretivo do ISS, I. P., sob proposta dos Diretores dos CDists do ISS, I. P., por um período de três anos, renovável.
+
+3 - A coordenação da ECL é assegurada por um profissional de saúde nomeado pelo Conselho Diretivo da ARS territorialmente competente sob proposta do Diretor Executivo do ACES, ouvido o Coordenador da UCC, ou do Conselho de Administração da ULS.
+
+4 - Os elementos da ECL exercem as suas funções em regime de tempo completo.
+
+5 - Quando em função da dimensão da área de intervenção não for possível ou adequado que todos os profissionais exerçam funções em regime de tempo completo, devem ser fixados horários ajustados que garantam o normal funcionamento da (s) equipa (s), os quais deverão expressamente constar em regulamento interno.
+
+6 - Os elementos da ECL não podem ser, simultaneamente, prestadores de cuidados no âmbito da RNCCI, com ressalva dos casos em que a entidade promotora e gestora tenha natureza pública.
+
+7 - É criada, no mínimo, uma ECL, para efeito de coordenação operativa da RNCCI, em cada ACES, e em cada Unidade Local de Saúde, que não tenha ACES constituído, coincidindo com as respetivas áreas de influência.
+
+8 - As competências das ECL estão definidas no artigo 11.º do Decreto-Lei n.º 101/2006, de 6 de junho.
+
+###### Artigo 35.º — Funcionamento das ECL
+
+1 - O modo de funcionamento das ECL consta de regulamento interno, que é aprovado pelo Diretor Executivo do ACES/ULS, submetido à apreciação da ECR que emite parecer vinculativo, que contêm, designadamente, os seguintes elementos:
+
+a) Local e horário de funcionamento;
+
+b) Periodicidade das reuniões, no mínimo semanal;
+
+c) Prazos para a apresentação, à ECR, de planos de ação anuais, e relatórios de execução;
+
+d) Composição da ECL e regime de afetação dos profissionais que a constituem;
+
+e) Processo de substituição do coordenador nas suas ausências ou impedimentos;
+
+f) Processos de articulação com a ECR;
+
+g) Instrumentos de monitorização e controlo da atividade e da qualidade dos processos e de controlo dos resultados das unidades e equipas, de acordo com as orientações da coordenação regional e nacional.
+
+2 - As ECL estão sedeadas nas instalações dos ACES que asseguram os meios necessários para o desempenho das suas competências e atribuições.
+
+### Capítulo X — Disposições transitórias e finais
+
+###### Artigo 36.º — Autorização de funcionamento
+
+1 - Até à entrada em vigor do regime jurídico do licenciamento para as unidades da RNCCI, a competência para a emissão da autorização de funcionamento cabe à Entidade Reguladora da Saúde, mediante parecer prévio da ECR, que contenha despacho favorável da ARS, I. P., e do Centro Distrital do ISS, I. P., de acordo com o modelo constante do anexo III à presente portaria.
+
+2 - Decorridos 45 dias sem que a ERS emita autorização de funcionamento, esta considera-se tacitamente deferida, a título provisório, até à emissão da autorização de funcionamento pela Entidade Reguladora da Saúde, nos termos previstos no número anterior.
+
+3 - Da autorização referida no n.º 1 consta a lotação máxima de cada uma das unidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 50/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/50-2017-106388650), em vigor a partir de 2017-03-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 289-A/2015 - Diário da República n.º 182/2015, 1º Suplemento, Série I de 2015-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/289-a-2015-70331693), em vigor a partir de 2015-09-18
+
+###### Artigo 37.º — Adequação
+
+1 - As unidades que, à data da entrada em vigor do presente diploma, integram a RNCCI, devem adequar-se às condições nelas previstas, desde que os espaços físicos existentes permitam as adaptações necessárias.
+
+2 - Não é aplicável o disposto no número anterior às unidades que foram beneficiárias de apoio financeiro ao abrigo do Programa Modelar I e II, bem como as unidades que integraram as Experiências Piloto de 2006.
+
+3 - Após as vistorias, as entidades competentes devem elaborar relatório final sobre a adequação das instalações aos requisitos técnicos constantes dos programas funcionais anexos à presente portaria e que dela fazem parte integrante, bem como identificar as alterações necessárias a realizar, se tal for possível e financeiramente razoável.
+
+###### Artigo 38.º — Norma revogatória
+
+São revogados:
+
+a) Os números 2, 3 e 14 e o Anexo I da Portaria n.º 1087-A/2007, de 5 de setembro;
+
+b) O despacho n.º 19040/2006, dos Secretários de Estado da Segurança Social e Adjunta e da Saúde, de 19 de setembro;
+
+c) O despacho n.º 6359/2011, das Ministras do Trabalho e da Solidariedade Social e da Saúde, de 13 de abril;
+
+d) Os números 2, 3 e 4 do despacho n.º 7968/2011, da Ministra da Saúde, de 2 de junho.
+
+###### Artigo 39.º — Entrada em vigor
+
+A presente portaria entra em vigor no primeiro dia útil do mês subsequente ao da sua publicação.
+
+O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis, em 4 de setembro de 2014. - O Secretário de Estado Adjunto do Ministro da Saúde, Fernando Serra Leal da Costa, em 28 de agosto de 2014. - O Secretário de Estado da Solidariedade e da Segurança Social, Agostinho Correia Branquinho, em 1 de setembro de 2014.
+
+## Anexo I — RNCCI - Rede Nacional de Cuidados Continuados Integrados Unidades de internamento de convalescença, de média duração e reabilitação, e de longa duração e manutenção
+
+1 - Arquitetura:
+
+Os requisitos técnicos seguintes são complementares aos dos regulamentos técnicos legais, de arquitetura, com os quais as instalações das unidades também terão de estar conformes, de acordo com a legislação aplicável.
+
+1.1 - Programa funcional tipo:
+
+(especificações mínimas)
+
+Nota prévia
+
+As instalações referidas de seguida são consideradas por módulos 30 camas e por piso de internamento.
+
+Nas situações em que coexista mais do que uma tipologia de resposta da RNCCI permite-se, quando possível, no mesmo edifício a utilização comum dos espaços de apoio pelas diferentes tipologias sempre que dessa utilização não advier prejuízo para a qualidade dos cuidados prestados ao utente, nomeadamente, receção, atendimento, I. S. de visitantes, gabinete de direção, secretariado, gabinete de atendimento, copa, refeitório, sala de convívio, banho assistido, gabinete médico/de enfermagem, área de medicina física e de reabilitação, área de pessoal, área de logística e depósito de cadáveres.
+
+Os espaços de utilização comum com outras tipologias devem ser objeto de acréscimo proporcional de área, sempre que tal se justifique, permitindo desse modo o adequado exercício das atividades da Unidade, sem constrangimentos de área útil.
+
+Nestas unidades de internamento os quartos podem ser individuais, duplos ou triplos, sendo que, pelo menos 15 % (arredondamento por defeito) correspondem a quartos individuais e 20 % correspondem a quartos triplos.
+
+(ver documento original)
+
+Áreas complementares (os serviços podem ser contratados)
+
+Os requisitos técnicos das áreas complementares de esterilização, cozinha e lavandaria são os que se encontram previstos nos normativos legais e regulamentares em vigor aplicáveis a estas áreas funcionais.
+
+As respetivas áreas podem ser comuns a outras unidades/valências.
+
+1.2 - Outros requisitos de arquitetura:
+
+Todos os corredores destinados à circulação de macas devem ter o mínimo de 2,00 m úteis de largura. Em casos excecionais de edifícios cuja estrutura não permita adaptação a este requisito, admite-se que os corredores destinados à circulação de macas possam ter o mínimo de 1,40 m úteis de largura, devendo ser previstas bolsas de alargamento com 2,00 m de largura útil à entrada dos quartos para cruzamento de duas macas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
+
+Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,90 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,60 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,50 m de diâmetro, entre a outra cama e a parede lateral.
+
+Os quartos individuais de 18 m2 já existentes em unidades de internamento e construídos em cumprimento dos programas funcionais aprovados ao abrigo do programa modelar I e II, podem ser readaptados a quartos duplos desde que se respeite a percentagem de 15 %, no mínimo, para quartos individuais.
+
+Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
+
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com exceção para pisos com acesso de nível ao exterior.
+
+As portas dos quartos, salas de observação/tratamento e banhos assistidos devem ter o mínimo de 1,10 m de largura útil.
+
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+
+As instalações sanitárias devem ser privativas por cada quarto. Excetua-se a zona de duche que pode ser partilhada por cada 2 quartos, salvaguardada a devida privacidade.
+
+Nas instalações sanitárias, as portas devem abrir para fora sem criar conflitos de circulação ou ser de correr pelo exterior da parede, por questões de higienização. Todas as fechaduras devem ser comandadas pelo exterior por intermédio de chave mestra. Os puxadores das portas devem ser de manípulo e as fechaduras devem permitir a abertura pelo interior e pelo exterior.
+
+Deve ser sempre garantido um percurso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.
+
+Devem ser previstos dispensadores de desinfetante nos quartos, para a desinfeção das mãos dos profissionais (sendo dispensável a existência de lavatórios; a lavagem de mãos poderá ser feita na IS).
+
+Em todos os gabinetes onde haja prestação de cuidados a doentes deve ser instalado lavatório com torneira de comando não manual.
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões mínimas de 2,40 x 1,40 x 2,30 m (comprimento x largura x altura), com porta automática de 1,30 m de abertura útil e altura livre de passagem de 2,10 m.
+
+Em caso de impossibilidade de instalação do previsto no ponto anterior, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,10 x 1,30 x 2,20 m (comprimento x largura x altura), com porta automática de 1,20 m de abertura útil e altura livre de passagem de 2,0 m.
+
+2 - Especialidades de engenharia:
+
+Os requisitos técnicos seguintes são complementares aos dos regulamentos técnicos legais, de engenharia, e aos das normas técnicas comunitárias aplicáveis a cada uma das respetivas especialidades, com os quais as instalações das unidades também terão de estar conformes.
+
+2.1 - Instalações e equipamentos elétricos:
+
+Devem seguir-se as disposições regulamentares prescritas pela Portaria n.º 949-A/2006, de 11 de setembro, RTIEBT (Regras Técnicas de Instalações Elétricas de Baixa Tensão), nomeadamente em termos de segurança de pessoas e bens. Concretamente, devem ser implementadas as seguintes funcionalidades, sistemas, ou equipamentos:
+
+2.1.1 - Instalação de um grupo eletrogéneo para efeitos de assegurar a alimentação de socorro ou de substituição, cujo objetivo é o de providenciar alimentação elétrica destinada a manter em funcionamento a instalação ou partes desta, em caso de falta da alimentação normal. Os equipamentos essenciais à segurança das pessoas devem ser alimentados por uma fonte de segurança ou de emergência, que não deve ser usada para outros fins, caso seja única. Desta forma, poderão coexistir, na mesma instalação, dois grupos eletrogéneos: um destinado à alimentação de socorro e outro, caso seja essa a opção do projetista, destinado aos circuitos de segurança ou de emergência; (1)
+
+2.1.2 - As camas devem dispor de um sistema acústico-luminoso que assegure a chamada de enfermeira ou outro pessoal de serviço pelos doentes. Este sistema deve satisfazer às seguintes condições:
+
+a) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo doente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização luminosa junto à porta de entrada da enfermaria ou quarto e no posto de enfermeira com sinal acústico e luminoso;
+
+b) Possibilitar a transferência de chamadas para o local onde se encontre a enfermeira e a realização de chamadas de emergência;
+
+c) Os demais compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitório e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermeira;
+
+d) O sistema deve ser considerado uma instalação de segurança.
+
+2.1.3 - Todos os compartimentos devem dispor do número de tomadas de energia necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza;
+
+2.1.4 - Todos os compartimentos onde potencialmente possa ser utilizado equipamento telefónico ou informático, devem dispor de uma tomada dupla por cada 10/12 m2 de superfície, com um mínimo de uma tomada dupla por cada posto de trabalho ou equipamento dedicado;
+
+2.1.5 - Todos os ascensores, quando existentes, devem dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um ascensor com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro;
+
+2.1.6 - Recomenda-se a alimentação de todos os circuitos de iluminação pelo setor de socorro, na sua totalidade ou parcialmente, segundo critérios devidamente fundamentados no projeto da especialidade de Eletrotecnia. Recomenda-se, também, a adoção, na iluminação interior, das orientações constantes da Norma ISO 8995 CIE S 008/E de 15/05/2003, contendo as especificações da «Commission Internationale de L'Éclairage» sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual;
+
+2.1.7 - Além das instalações de iluminação de segurança e de vigília prescritas nas regras supramencionadas, nos locais onde o paciente permaneça acamado deve prever-se iluminação geral e iluminação de leitura ou de observação, à cabeceira da cama.
+
+2.2 - Instalações e equipamentos mecânicos:
+
+2.2.1 - Climatização
+
+As instalações de climatização devem estar de acordo com a regulamentação em vigor.
+
+Observações:
+
+Nas salas de apoio com eventual produção de ambientes poluídos, devem ser aplicados sistemas de extração forçada de ar.
+
+É obrigatório prever sistemas de extração generalizados. O sistema de "sujos" deve ser independente do de "limpos".
+
+2.2.2 - Instalações de gases medicinais:
+
+É obrigatória, em todas as unidades a existência de oxigénio, aspiração/vácuo, nomeadamente nos quartos, bem como nas salas de tratamento e, de preferência, também nas salas de convívio e nas salas de refeições.
+
+Requisitos:
+
+A central de vácuo deve ser fisicamente separada das restantes, com a extração do sistema situada a uma cota de, pelo menos, 3 m acima das admissões de ar próximas
+
+Se o ar comprimido respirável for produzido por compressores, a central deve de ser fisicamente separada das restantes
+
+Todas as centrais devem ter uma fonte primária, uma fonte secundária e uma fonte de reserva, de comutação automática
+
+As tomadas devem ser de duplo fecho, não intermutáveis de fluido para fluido
+
+A utilização do tubo de poliamida apenas pode ser permitido nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhado dos respetivos certificados CE medicinal
+
+2.2.3 - Instalações frigoríficas
+
+Deve existir frigorífico de modelo laboratorial próprio para a conservação de medicamentos, certificado para o efeito, equipado com registador de temperatura e alarme.
+
+(1) Em substituição do segundo grupo eletrogéneo com motor de combustão interna, poder-se-á recorrer a outro tipo de alimentação alternativa, tal como uma UPS - Unidade de Alimentação Ininterrupta, não havendo critério de obrigatoriedade neste aspeto, deixando-se margem para que, desde que tecnicamente bem fundamentada, seja utilizada uma ou outra solução.
+
+## Anexo II — RNCCI - Rede Nacional de Cuidados Continuados Integrados Unidades de dia e de promoção da autonomia
+
+1 - Arquitetura
+
+Os requisitos técnicos seguintes são complementares aos dos regulamentos técnicos legais, de arquitetura, com os quais as instalações das unidades também terão de estar conformes, de acordo com a legislação aplicável.
+
+1.1 - Programa funcional tipo:
+
+(especificações mínimas)
+
+Nota prévia
+
+As instalações referidas de seguida são consideradas para um valor médio de 30 doentes, em cada dia, simultaneamente.
+
+Nas situações em que coexista mais do que uma tipologia de resposta da RNCCI permite-se, quando possível, a utilização comum dos espaços pelas diferentes tipologias, ou estrutura residencial para pessoas idosas sempre que dessa utilização não advier prejuízo para a qualidade dos cuidados prestados ao utente, nomeadamente, receção, atendimento, I. S. de visitantes, gabinete de direção, secretariado, gabinete de atendimento, copa, refeitório, sala de convívio, banho assistido, gabinete médico/de enfermagem, área de medicina física e de reabilitação, área de pessoal, área de logística.
+
+Presume-se que os 30 doentes estão distribuídos pelas zonas de medicina física e reabilitação, pela zona de atividades terapêuticas, pela zona médica/enfermagem e ou pelo local de exercício/movimento. Os doentes poderão, complementarmente, ser objeto de apoio social, psicológico ou outros.
+
+As unidades de dia e de promoção da autonomia devem estar, preferencialmente, acopladas a unidades de internamento de cuidados continuados integrados.
+
+Devem ser previstos espaços não terapêuticos, para pausas, ou seja, para recreação, convívio e repouso, ao longo do dia.
+
+As zonas referidas, podem coexistir com espaços preexistentes, na sua proximidade, de unidades de internamento.
+
+Os compartimentos comuns a espaços preexistentes devem ser objeto de acréscimo proporcional de área, sempre que tal se justifique, permitindo desse modo o adequado exercício das atividades da UDPA, sem constrangimentos de área útil.
+
+(ver documento original)
+
+Áreas complementares (os serviços podem ser contratados)
+
+Os requisitos técnicos das áreas complementares de cozinha e lavandaria são os que se encontram previstos nos normativos legais e regulamentares em vigor aplicáveis a estas áreas funcionais.
+
+As respetivas áreas podem ser comuns a outras unidades/valências.
+
+1.2 - Outros requisitos de arquitetura:
+
+Todos os corredores destinados à circulação de macas devem ter o mínimo de 2,00 m úteis de largura. Em casos excecionais de edifícios cuja estrutura não permita adaptação a este requisito, admite-se que possam ter o mínimo de 1,40 m úteis de largura, devendo ser previstas bolsas de alargamento com 2,00 m de largura útil para cruzamento de duas macas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
+
+Sempre que a unidade tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,20 m e pelo menos outra de serviço, com exceção para pisos com acesso de nível ao exterior.
+
+As portas das salas de estar e de refeições, bem como as portas de todas as salas de tratamentos e terapia, devem ter o mínimo de 1,00 m de largura útil.
+
+Nas instalações sanitárias, as portas devem abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de higienização. Todas as fechaduras devem ser comandadas pelo exterior por intermédio de chave mestra. Os puxadores das portas devem ser de manípulo e as fechaduras devem permitir a abertura pelo interior e pelo exterior.
+
+Deve ser sempre garantido um percurso interior desde a unidade de dia e promoção de autonomia até às instalações da área de medicina física e de reabilitação, se nestas forem realizadas as atividades da unidade de dia.
+
+Em todos os gabinetes onde haja prestação de cuidados a doentes deve ser instalado lavatório com torneira de comando não manual.
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-macas, com as dimensões mínimas de 2,10 x 1,30 x 2,20 m (comprimento x largura x altura), com porta automática de 1,20 m de abertura útil e altura livre de passagem de 2,0 m.
+
+1.3 - Equipamento de transporte:
+
+Deve ser prevista uma carrinha de serviço para o transporte de doentes. Este equipamento pode ser interno ou externo.
+
+2 - Especialidades de engenharia:
+
+Os requisitos técnicos seguintes são complementares aos dos regulamentos técnicos legais, de engenharia, e aos das normas técnicas comunitárias aplicáveis a cada uma das respetivas especialidades, com os quais as instalações das unidades também terão de estar conformes.
+
+Quando a Unidade de dia e de promoção da autonomia existir em conjunto com outra tipologia (unidades de internamento de média duração e reabilitação ou de longa duração e manutenção, devem ser seguidos os requisitos das especialidades de engenharia definidos para as tipologias referidas.
+
+2.1 - Instalações e equipamentos elétricos:
+
+Devem seguir-se as disposições regulamentares prescritas pela Portaria n.º 949-A/2006, de 11 de setembro, RTIEBT (Regras Técnicas de Instalações Elétricas de Baixa Tensão), nomeadamente em termos de segurança de pessoas e bens. Concretamente, devem ser implementadas as seguintes funcionalidades, sistemas, ou equipamentos:
+
+2.1.1 - Instalação de um grupo eletrogéneo para efeitos de assegurar a alimentação de socorro ou de substituição, cujo objetivo é o de providenciar alimentação elétrica destinada a manter em funcionamento a instalação ou partes desta, em caso de falta da alimentação normal. Os equipamentos essenciais à segurança das pessoas devem ser alimentados por uma fonte de segurança ou de emergência, que não deve ser usada para outros fins, caso seja única. Desta forma, poderão coexistir, na mesma instalação, dois grupos eletrogéneos: um destinado à alimentação de socorro e outro, caso seja essa a opção do projetista, destinado aos circuitos de segurança ou de emergência; (2)
+
+2.1.2 - Os compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitório e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermeira. O sistema deve ser considerado uma instalação de segurança;
+
+2.1.3 - Todos os compartimentos devem dispor do número de tomadas de energia necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza;
+
+2.1.4 - Todos os compartimentos onde potencialmente possa ser utilizado equipamento telefónico ou informático, devem dispor de uma tomada dupla por cada 10/12 m de superfície, com um mínimo de uma tomada dupla por cada posto de trabalho ou equipamento dedicado;
+
+2.1.5 - Todos os ascensores, quando existentes, devem dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um ascensor com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro;
+
+Recomenda-se a alimentação de todos os circuitos de iluminação pelo setor de socorro, na sua totalidade ou parcialmente, segundo critérios devidamente fundamentados no projeto da especialidade de Eletrotecnia. Recomenda-se, também, a adoção, na iluminação interior, das orientações constantes da Norma ISO 8995 CIE S 008/E de 15/05/2003, contendo as especificações da «Commission Internationale de L'Éclairage» sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual.
+
+2.2 - Instalações e equipamentos mecânicos:
+
+2.2.1 - Climatização
+
+As instalações de climatização devem estar de acordo com a regulamentação em vigor.
+
+Observações:
+
+Nas salas de apoio com eventual produção de ambientes poluídos, devem ser aplicados sistemas de extração forçada de ar.
+
+É obrigatório prever sistemas de extração generalizados. O sistema de "sujos" deve ser independente do de "limpos".
+
+2.2.2 - Instalações de gases medicinais:
+
+Apenas é necessária a existência de garrafa de oxigénio portátil e de aparelho de aspiração portátil, numa proporção de 1 conjunto/10 utentes.
+
+2.2.3 - Instalações frigoríficas:
+
+Deve existir frigorífico de modelo laboratorial próprio para a conservação de medicamentos, certificado para o efeito, equipado com registador de temperatura e alarme.
+
+(2) Em substituição do segundo grupo eletrogéneo com motor de combustão interna, poder-se-á recorrer a outro tipo de alimentação alternativa, tal como uma UPS - Unidade de Alimentação Ininterrupta, não havendo critério de obrigatoriedade neste aspeto, deixando-se margem para que, desde que tecnicamente bem fundamentada, seja utilizada uma ou outra solução.
+
+## Anexo III — Autorização de funcionamento
+
+(ver documento original)
+
+## Anexo IV — Recursos Humanos recomendados nas Unidades de Cuidados Continuados Integrados (a)
+
+(ver documento original)
+
+(a) Considera a lotação de 30 camas/lugares.
+
+## Anexo V
+
+(ver documento original)
+
+## Anexo VI — Termo de responsabilidade por instalação do sistema de distribuição de gases medicinais e do sistema de aspiração/vácuo
+
+(ver documento original)

@@ -1,0 +1,94 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:344444:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1991-169775390",
+ "dre_path": "/dr/detalhe/portaria/1075-1991-344444",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-10-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169774895"
+   ]
+  },
+  {
+   "date": "1997-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:351704:por",
+     "title": "Portaria n.º 365/97",
+     "published": "1997-06-02",
+     "dre_path": "/dr/detalhe/portaria/365-1997-351704"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169774885",
+    "169774883"
+   ]
+  },
+  {
+   "date": "2013-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:479273:por",
+     "title": "Portaria n.º 124-A/2013",
+     "published": "2013-03-27",
+     "dre_path": "/dr/detalhe/portaria/124-a-2013-479273"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "169774895",
+    "169774896"
+   ]
+  }
+ ],
+ "fragments": {
+  "169774895": {
+   "fragment_id": "169775391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2013-03-28",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1075/91\n\nde 23 de Outubro\n\nNos termos do n.º 5 do artigo 28.º do Decreto-Lei n.º 294/90, de 21 de Setembro, manda o Governo, pelo Ministro da Saúde, o seguinte:\n\n1.º São aprovados os modelos da medalha de dador de sangue e seu certificado de atribuição, bem como o diploma e o distintivo para galardoar a dedicação inerente à dádiva benévola de sangue, os quais constam dos anexos I, II, III e IV deste diploma e que dele fazem parte integrante.\n\n2.º Dos galardões a que se refere o número anterior, a medalha de dador de sangue é concedida pelo Ministro da Saúde, sendo as restantes atribuídas pelo director do Instituto Português do Sangue, mediante proposta fundamentada do director, no primeiro caso, ou dos centros regionais de sangue e por iniciativa dos respectivos serviços, de outros serviços integrados da rede nacional de transfusão de sangue ou dos dadores de sangue interessados, no segundo caso.\n\n3.º A concessão das medalhas, bem como dos diplomas e distintivos, é precedida da organização do processo individual pelos serviços referidos no número anterior, donde conste o número de dádivas e outras informações adequadas à decisão a tomar.\n\n4 - Os encargos resultantes da atribuição dos galardões são suportados pelo orçamento do Instituto Português do Sangue.\n\nMinistério da Saúde."
+  },
+  "169774885": {
+   "fragment_id": "169775391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 365/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/portaria/365-1997-351704), em vigor a partir de 1997-06-07"
+   ],
+   "markdown": "Portaria n.º 1075/91\n\nde 23 de Outubro\n\nNos termos do n.º 5 do artigo 28.º do Decreto-Lei n.º 294/90, de 21 de Setembro, manda o Governo, pelo Ministro da Saúde, o seguinte:\n\n1.º São aprovados os modelos da medalha de dador de sangue e seu certificado de atribuição, bem como o diploma e o distintivo para galardoar a dedicação inerente à dádiva benévola de sangue, os quais constam dos anexos I, II, III e IV deste diploma e que dele fazem parte integrante.\n\n2.º Dos galardões a que se refere o número anterior, a medalha de dador de sangue é concedida pelo Ministro da Saúde, sendo as restantes atribuídas pelo director do Instituto Português do Sangue, mediante proposta fundamentada do director, no primeiro caso, ou dos centros regionais de sangue e por iniciativa dos respectivos serviços, de outros serviços integrados da rede nacional de transfusão de sangue ou dos dadores de sangue interessados, no segundo caso.\n\n3.º A concessão das medalhas, bem como dos diplomas e distintivos, é precedida da organização do processo individual pelos serviços referidos no número anterior, donde conste o número de dádivas e outras informações adequadas à decisão a tomar.\n\n4 - Os encargos resultantes da atribuição dos galardões são suportados pelo orçamento do Instituto Português do Sangue.\n\nMinistério da Saúde.\n\n> Alterado pelo/a [Portaria n.º 365/97 - Diário da República n.º 126/1997, Série I-B de 1997-06-02](https://diariodarepublica.pt/dr/detalhe/portaria/365-1997-351704), em vigor a partir de 1997-06-07"
+  },
+  "169774883": {
+   "fragment_id": "169775392",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 24 de Setembro de 1991.\n\nO Ministro da Saúde, Arlindo Gomes de Carvalho.\n\nANEXO I\n\n(a que se refere o n.º 1.º)\n\nMedalha de dador de sangue\n\n(ver documento original)\n\nAs medalhas, conforme o n.º 2 do artigo 28.º do Decreto-Lei n.º 294/90, de 21 de Setembro, são douradas, prateadas ou cobreadas, com o diâmetro de 40 mm e pendem de fita de 40 mm, com as cores vermelha e verde.\n\nANEXO II\n\n(a que se refere o n.º 1.º)\n\nCertificado de atribuição de medalhas a dadores de sangue\n\n(ver documento original)\n\nMinistério da Saúde\n\nInstituto Português do Sangue\n\nO director do Instituto Português do Sangue concede a ... a medalha de dador benévolo de sangue, nos termos do Decreto-Lei n.º 294/90, de 21 de Setembro.\n\nLisboa, Instituto Português do Sangue.\n\nO Director, ...\n\nO modelo do certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/335 mm, com esquadria interior a negro, e em relevo, no medalhão central, o cunho da medalha do dador.\n\nANEXO III\n\n(a que se refere o n.º 1.º)\n\nDiploma de dador de sangue\n\nMinistério da Saúde\n\nInstituto Português do Sangue\n\nDiploma\n\nO Instituto Português do Sangue manifesta o alto apreço em que é tida a contribuição prestada pelo Exmo. Sr. ... através de 10 doações benévolas do seu sangue para a recuperação da saúde, ou da própria vida, de muitos doentes e acidentados, num nobre e generoso gesto de verdadeira solidariedade humana.\n\nLisboa, ... de ... de 19...\n\nO Director, ...\n\nO diploma tem as dimensões de 230 mm/295 mm e é internamente circundado por uma iluminura.\n\nANEXO IV\n\n(a que se refere o n.º 1.º)\n\nDistintivo do d"
+  },
+  "169774896": {
+   "fragment_id": "169775392",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2013-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 124-A/2013 - Diário da República n.º 61/2013, 1º Suplemento, Série I de 2013-03-27](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2013-479273), em vigor a partir de 2013-03-28"
+   ],
+   "markdown": "Assinada em 24 de Setembro de 1991.\n\nO Ministro da Saúde, Arlindo Gomes de Carvalho.\n\nANEXO I\n\n(a que se refere o n.º 1.º)\n\nMedalha de dador de sangue\n\n(ver documento original)\n\nAs medalhas, conforme o n.º 2 do artigo 28.º do Decreto-Lei n.º 294/90, de 21 de Setembro, são douradas, prateadas ou cobreadas, com o diâmetro de 40 mm e pendem de fita de 40 mm, com as cores vermelha e verde.\n\nANEXO II\n\n(a que se refere o n.º 1.º)\n\nCertificado de atribuição de medalhas a dadores de sangue\n\n(ver documento original)\n\nMinistério da Saúde\n\nInstituto Português do Sangue\n\nO director do Instituto Português do Sangue concede a ... a medalha de dador benévolo de sangue, nos termos do Decreto-Lei n.º 294/90, de 21 de Setembro.\n\nLisboa, Instituto Português do Sangue.\n\nO Director, ...\n\nO modelo do certificado de atribuição de medalhas a dadores tem as dimensões de 240 mm/335 mm, com esquadria interior a negro, e em relevo, no medalhão central, o cunho da medalha do dador.\n\nANEXO III\n\n(a que se refere o n.º 1.º)\n\nDiploma de dador de sangue\n\nMinistério da Saúde\n\nInstituto Português do Sangue\n\nDiploma\n\nO Instituto Português do Sangue manifesta o alto apreço em que é tida a contribuição prestada pelo Exmo. Sr. ... através de 10 doações benévolas do seu sangue para a recuperação da saúde, ou da própria vida, de muitos doentes e acidentados, num nobre e generoso gesto de verdadeira solidariedade humana.\n\nLisboa, ... de ... de 19...\n\nO Director, ...\n\nO diploma tem as dimensões de 230 mm/295 mm e é internamente circundado por uma iluminura.\n\nANEXO IV\n\n(a que se refere o n.º 1.º)\n\nDistintivo do d\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 124-A/2013 - Diário da República n.º 61/2013, 1º Suplemento, Série I de 2013-03-27](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2013-479273), em vigor a partir de 2013-03-28"
+  }
+ }
+}

@@ -1,0 +1,313 @@
+---
+schema_version: '1.0'
+id: pt:dre:554644:por
+title: Portaria n.º 1066/94
+short_title: null
+summary: Actualiza as pensões de invalidez, de velhice e de sobrevivência dos regimes de segurança social e respectivas prestações
+  complementares, com efeitos a partir de Dezembro de 1994. Revoga a Portaria n.º 1237/93, de 2 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 1066/94
+official_date: null
+publication_date: '1994-12-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 280/1994, Série I-B de 1994-12-05
+  number: '280'
+  series: I
+  supplement: null
+  pages: 7145 - 7147
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/12/280b00/71457147.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1066/1994/12/05/p/dre/pt/html
+  oj: null
+  dre: '554644'
+  dre_path: /dr/detalhe/portaria/1066-1994-554644
+  internal: pt:dre:554644:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1066-1994-554644
+  metadata_url: https://data.dre.pt/eli/port/1066/1994/12/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1066-1994-554644
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-11-24T00:00:00Z'
+integrity:
+  source_sha256: 3bf55622544bef00a66035d1617ce86e9aad314cb03a6aac94886af9f1cd1186
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-1066-554644.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Actualização de Pensões
+- Acumulação de Pensões
+- Suplemento de Pensão a Grandes Inválidos
+- Trabalhador Rural
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensionista
+- Pensões
+- Regime Especial de Previdência
+- Regime Geral da Segurança Social
+- Regime não Contributivo da Segurança Social
+- Segurança Social
+- Subsídio por Assistência de Terceira Pessoa
+relationships:
+- type: amended_by
+  target: pt:dre:692414:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/141/1991/04/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/141/1991/04/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1237/1993/12/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1237/1993/12/02/p/dre
+article_structure:
+  article_count: 1
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1066/94
+
+de 5 de Dezembro
+
+Na sequência do estabelecido no artigo 12.º da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, os regimes jurídicos de protecção social nas eventualidades de invalidez, velhice e sobrevivência em vigor dispõem que os valores das prestações que regulam são periodicamente actualizados, tendo em conta os meios financeiros disponíveis e a variação previsível do índice geral dos preços no consumidor.
+
+Nesta linha, o Governo tem vindo anualmente a proceder à actualização das pensões, mediante a aplicação de taxas superiores às da variação do mencionado índice.
+
+Para o efeito, tem sido efectuado um esforço financeiro digno de relevo, com vista à melhoria do poder de compra dos pensionistas, sobretudo daqueles que são titulares de prestações de montante menos elevado.
+
+É nesta perspectiva que o Governo se propõe concretizar a actualização das pensões de invalidez, velhice e sobrevivência e respectivas prestações complementares, com efeitos a partir de Dezembro de 1994.
+
+Deste modo, define-se no presente diploma a actualização dos montantes das prestações.
+
+Assim, nos termos do n.º 1 do artigo 12.º e do n.º 2 do artigo 83.º da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto:
+
+Manda o Governo, pelo Ministro do Emprego e da Segurança Social, o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+1.º
+
+Âmbito
+
+As prestações de invalidez, de velhice e de sobrevivência dos regimes de segurança social são actualizadas nas condições previstas no presente diploma.
+
+2.º
+
+Situações excluídas
+
+Excluem-se do âmbito de aplicação deste diploma os seguintes grupos de beneficiários:
+
+a) Os beneficiários da Caixa de Previdência dos Empregados do Banco de Angola com direito aos benefícios constantes do instrumento de regulamentação colectiva de trabalho do sector bancário, excepto no respeitante ao complemento de pensão por cônjuge a cargo;
+
+b) Os beneficiários abrangidos pelos regulamentos especiais de segurança social dos trabalhadores ferroviários e do pessoal do Serviço de Transportes Colectivos do Porto, excepto no respeitante à garantia do valor mínimo de pensão e do subsídio por assistência de 3.ª pessoa;
+
+c) Outros grupos de beneficiários não abrangidos pelo Centro Nacional de Pensões.
+
+### CAPÍTULO II — Actualização das pensões do regime geral
+
+3.º
+
+Actualização das pensões de invalidez e de velhice
+
+1 - As pensões de invalidez e de velhice do regime geral iniciadas anteriormente a 1 de Janeiro de 1994 são actualizadas para o valor resultante da aplicação da percentagem de 4,5% ao respectivo quantitativo mensal.
+
+2 - A aplicação do disposto no n.º 1 não prejudica, em caso algum, a garantia dos valores mínimos estabelecidos nos números seguintes.
+
+4.º
+
+Valor mínimo dos aumentos
+
+Da actualização das pensões de invalidez e de velhice do regime geral, nos termos do n.º 3.º, não pode resultar, em caso algum, aumento mensal inferior a 1400$00.
+
+5.º
+
+Valor mínimo de pensão dos pensionistas de invalidez e de velhice
+
+1 - Aos pensionistas de invalidez e de velhice do regime geral é garantido um valor mínimo de pensão no montante de 27600$00, sem prejuízo, porém, da aplicação do disposto no n.º 2 do artigo 44.º do [Decreto-Lei n.º 329/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1993-653127), de 25 de Setembro.
+
+2 - Aos beneficiários abrangidos pelos regulamentos especiais de segurança social referidos na alínea b) do n.º 2 é aplicável o disposto no número anterior.
+
+6.º
+
+Actualização das pensões de sobrevivência
+
+1 - As pensões de sobrevivência do regime geral iniciadas anteriormente a 1 de Janeiro de 1994 são actualizadas por aplicação das respectivas percentagens de cálculo ao montante das pensões de invalidez e de velhice que lhes serve de base, segundo o valor que para estas resulta da aplicação, no respectivo quantitativo mensal, das percentagens de actualização previstas no presente diploma.
+
+2 - A regra de actualização definida no n.º 1 é igualmente aplicável:
+
+a) Às pensões de sobrevivência iniciadas a partir de 1 de Janeiro de 1994, desde que o óbito que lhes deu origem se tenha verificado em data anterior;
+
+b) Às pensões de sobrevivência resultantes de óbitos verificados em data anterior à do início de vigência do presente diploma e correspondentes a pensões de invalidez ou de velhice iniciadas até 31 de Dezembro de 1993.
+
+7.º
+
+Valor mínimo de pensão dos pensionistas de sobreviência
+
+1 - As pensões de sobrevivência não podem ter valor inferior ao que resulta da aplicação da respectiva percentagem de cálculo ao valor mínimo garantido aos pensionistas de invalidez e de velhice nos termos estabelecidos no n.º 1 do n.º 5.º
+
+2 - Da actualização das pensões de sobrevivência do regime geral, nos termos referidos no n.º 1, não pode resultar, em caso algum, aumento inferior ao quantitativo do produto de 1400$00 pela percentagem de cálculo estabelecida.
+
+8.º
+
+Actualização das pensões limitadas
+
+As pensões do regime geral limitadas por aplicação das normas reguladoras da acumulação de pensões de diferentes regimes de enquadramento obrigatório de protecção social, iniciadas anteriormente a 1 de Janeiro de 1994, são actualizadas na percentagem de 4,5%.
+
+9.º
+
+Actualização das pensões reduzidas
+
+1 - As pensões do regime geral iniciadas anteriormente a 1 de Janeiro de 1994 e reduzidas proporcionalmente em consequência do recurso a períodos contributivos de outros regimes, quer por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, quer por aplicação de instrumentos internacionais, são actualizadas na percentagem de 4,5%.
+
+2 - O disposto no n.º 1 é aplicável, sem prejuízo da garantia do valor mínimo fixado no n.º 1 do n.º 5.º, quando as pensões não foram auferidas em acumulação com outras.
+
+### CAPÍTULO III — Actualização das pensões de outros regimes
+
+10.º
+
+Actualização das pensões do regime especial das actividades agrícolas
+
+1 - O quantitativo mensal das pensões de invalidez e de velhice do regime especial das actividades agrícolas é fixado em 19600$00.
+
+2 - Os valores das pensões de sobrevivência são actualizados por aplicação das respectivas percentagens de cálculo em vigor no regime geral ao quantitativo das pensões referido no n.º 1.
+
+11.º
+
+Actualização das pensões bonificadas do regime especial das actividades agrícolas
+
+1 - As pensões de invalidez e de velhice, calculadas ao abrigo do artigo 27.º do [Decreto Regulamentar n.º 75/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/75-1986-376024), de 30 de Dezembro, que atinjam montante igual ao valor mínimo garantido aos pensionistas de invalidez e de velhice do regime geral são actualizadas de acordo com o estabelecido no n.º 1 do n.º 5.º
+
+2 - As pensões de invalidez e de velhice, calculadas no âmbito do artigo 27.º do [Decreto Regulamentar n.º 75/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/75-1986-376024), de 30 de Dezembro, que não atinjam montante igual ao valor mínimo garantido aos pensionistas de invalidez e de velhice do regime geral são actualizadas por aplicação do montante fixado no n.º 1 do n.º 10.º, na parte respeitante à pensão do regime especial e na percentagem de 5% relativamente à bonificação.
+
+###### Artigo 12.º — Actualização das pensões limitadas e reduzidas do regime especial das actividades agrícolas
+
+As pensões do regime especial das actividades agrícolas limitadas por aplicação das normas reguladoras de acumulação de pensões de diferentes regimes de enquadramento obrigatório de protecção social, bem como as pensões reduzidas nos termos do n.º 9.º, iniciadas anteriormente a 1 de Janeiro de 1994, são actualizadas na percentagem de 5%.
+
+13.º
+
+Actualização das pensões dos antigos fundos de reforma dos pescadores
+
+As pensões dos antigos fundos de reforma dos pescadores são actualizadas de acordo com o disposto no n.º 3.º
+
+14.º
+
+Actualização das pensões do regime não contributivo
+
+1 - O quantitativo mensal das pensões de invalidez e de velhice do regime não contributivo é fixado em 17500$00.
+
+2 - As pensões de viuvez e de orfandade do regime não contributivo são actualizadas para o valor que resulta da aplicação das respectivas percentagens de cálculo em vigor no regime geral ao montante fixado no n.º 1.
+
+15.º
+
+Actualização das pensões dos regimes transitórios dos trabalhadores agrícolas
+
+1 - O valor mensal das pensões de invalidez e de velhice dos regimes transitórios dos trabalhadores agrícolas, referidos no artigo 90.º do Decreto-Lei n.º 445/70, de 23 de Setembro, no [Decreto-Lei n.º 391/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1972-691622), de 13 de Outubro, e demais legislação aplicável, é fixado em 17500$00.
+
+2 - As pensões de sobrevivência dos regimes transitórios dos trabalhadores agrícolas atribuídas, nos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, aos cônjuges sobrevivos dos respectivos pensionistas são actualizadas por aplicação da respectiva percentagem de cálculo em vigor no regime geral ao montante fixado no n.º 1.
+
+16.º
+
+Actualização das pensões de regimes equiparados ao regime não contributivo
+
+O quantitativo mensal das pensões e prestações equivalentes, de nula ou reduzida base contributiva, a cargo do Centro Nacional de Pensões, designadamente as respeitantes à extinta Caixa de Previdência do Pessoal da Casa Agrícola Santos Jorge, à Associação de Socorros Mútuos na Inabilidade, à extinta Caixa de Previdência da Marinha Mercante Nacional (antigas associações), ao extinto Grémio dos Industriais de Fósforos, à extinta Caixa de Previdência da Câmara dos Despachantes Oficiais não abrangidos pelo Despacho n.º 40/SESS/91, de 24 de Abril, bem como as pensões atribuídas por aplicação dos regulamentos especiais da Caixa de Previdência dos Profissionais de Espectáculos, é fixado em 17500$00, sem prejuízo de valores superiores em curso.
+
+### CAPÍTULO IV — Actualização da parcela contributiva das pensões para efeito de cúmulo
+
+17.º
+
+Actualização da parcela contributiva
+
+A tabela inserta na [Portaria n.º 1237/93](https://diariodarepublica.pt/dr/detalhe/portaria/1237-1993-551640), de 2 de Dezembro, publicada para cumprimento do disposto na alínea d) do artigo 2.º do [Decreto-Lei n.º 141/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), de 10 de Abril, é actualizada nos termos da tabela anexa a este diploma, que a substitui.
+
+### CAPÍTULO V — Actualização das prestações adicionais e complementares
+
+18.º
+
+Prestações adicionais
+
+O subsídio de Natal, atribuído em Dezembro como 13.º mês de pensão, e a prestação complementar, atribuída em Julho como 14.º mês de pensão aos pensionistas de invalidez, de velhice e de sobrevivência dos regimes de segurança social, são de valor igual ao que resultar, para as respectivas prestações, da actualização estabelecida no presente diploma.
+
+19.º
+
+Subsídio por assistência de 3.ª pessoa
+
+O quantitativo mensal do subsídio por assistência de 3.ª pessoa é fixado nos montantes seguintes:
+
+a) Para pensionistas de invalidez, de velhice e de sobrevivência do regime geral, 9650$00;
+
+b) Para pensionistas de invalidez, de velhice e de sobrevivência do regime especial das actividades agrícolas e do regime não contributivo e regimes equiparados, 8150$00.
+
+20.º
+
+Complemento de pensão por cônjuge a cargo
+
+O valor mensal do complemento de pensão por cônjuge a cargo é fixado em 4200$00, sem prejuízo de valores superiores que estejam a ser atribuídos.
+
+21.º
+
+Entrada em vigor
+
+O presente diploma produz efeitos a partir de 1 de Dezembro de 1994.
+
+22.º
+
+Revogação
+
+É revogada a [Portaria n.º 1237/93](https://diariodarepublica.pt/dr/detalhe/portaria/1237-1993-551640), de 2 de Dezembro.
+
+Ministério do Emprego e da Segurança Social.
+
+**Assinada em 21 de Novembro de 1994.**
+
+**O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+
+TABELA ANEXA
+
+Actualização de pensões para efeitos de cúmulo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/280b00/71457147.pdf))](https://files.diariodarepublica.pt/1s/1994/12/280b00/71457147.pdf)

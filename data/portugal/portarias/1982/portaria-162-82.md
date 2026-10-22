@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:600532:por
+title: Portaria n.º 162/82
+short_title: null
+summary: Estabelece os planos e programas dos estágios de formação a frequentar pelos técnicos de formação profissional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Trabalho e da Reforma Administrativa
+proposing_entity: null
+official_number: 162/82
+official_date: null
+publication_date: '1982-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1982, Série I de 1982-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 288 - 290
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/02/03000/02880290.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '600532'
+  dre_path: /dr/detalhe/portaria/162-1982-600532
+  internal: pt:dre:600532:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-1982-600532
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-1982-600532
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-02-05T00:00:00Z'
+integrity:
+  source_sha256: edb1d6bc22e577f5925fe28faa1e35a027aa8babe2348c68177706c2f6e4f916
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-162-600532.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 162/82
+
+de 5 de Fevereiro
+
+Determina a alínea c) do artigo 12.º do [Decreto n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto/146-1978-324735), de 13 de Dezembro, que os lugares de técnico de formação profissional de 2.ª classe do quadro do Fundo de Desenvolvimento da Mão-de-Obra são providos pelos técnicos de formação profissional estagiários que tenham obtido aproveitamento em estágio de formação. Torna-se, portanto, necessário estabelecer, nos termos do artigo 31.º do citado diploma, os planos e programas das matérias a ministrar no referido estágio, cujo carácter probatório e duração anual estão, aliás, já determinados no n.º 2 do artigo 30.º do mesmo diploma.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e da Reforma Administrativa, o seguinte:
+
+1.º O estágio de formação a frequentar pelos técnicos de formação profissional estagiários com vista ao seu ingresso na carreira técnica específica de técnico de formação profissional do quadro do Fundo de Desenvolvimento da Mão-de-Obra consta de 3 etapas formativas, com os objectivos e duração seguintes:
+
+1 - Cursos de formação pedagógica:
+
+1.1 - Objectivos:
+
+I - De ordem institucional:
+
+a) Sensibilização à relação pedagógica;
+
+b) Conhecimento e domínio dos métodos pedagógicos utilizados nas diversas acções de formação;
+
+c) Iniciação nos processos de elaboração da documentação pedagógica e conhecimento da sua utilização;
+
+d) Organização material e intelectual da formação profissional;
+
+e) Conhecimento dos processos de avaliação;
+
+f) Iniciação no desenvolvimento do ensino.
+
+II - De ordem individual:
+
+a) Favorecer a adaptabilidade às situações pedagógicas;
+
+b) Desenvolvimento das faculdades de expressão;
+
+c) Sensibilização à permanente evolução técnico-pedagógica;
+
+d) Desenvolvimento do gosto pelo trabalho em equipa;
+
+e) Sensibilização à autocrítica, através da observação e análise autoscópica de sessões simuladas.
+
+1.2 - Duração: 20 semanas.
+
+2 - Período de formação prática na área da função:
+
+2.1 - Objectivos:
+
+a) Aquisição e aprofundamento dos processos de concepção e elaboração da documentação técnico-pedagógica;
+
+b) Conhecimento da organização pedagógica, material e administrativa dos vários tipos e locais de formação;
+
+c) Ampliação de conhecimentos técnicos e científicos correlacionados com a função, através de cursos ou seminários;
+
+d) Acompanhamento e regência progressiva de estágios de 2.º grau.
+
+2.2 - Duração: 24 semanas.
+
+3 - Período de avaliação global do estágio:
+
+3.1 - Objectivos:
+
+a) Balanço das experiências vividas durante o estágio;
+
+b) Despiste de soluções, visando o aperfeiçoamento de aspectos de ordem institucional e ou individual;
+
+c) Síntese dos resultados finais do estágio.
+
+3.2 - Duração: 4 semanas.
+
+2.º O curso de formação pedagógica desenvolve-se pelas fases de formação de base, iniciação prática num centro de formação e reflexão psico-pedagógica, com a duração de 12, 2 e 6 semanas, respectivamente.
+
+3.º A organização do estágio e a metodologia utilizada devem consagrar, em princípio, as seguintes regras e processos:
+
+1 - De carácter organizacional:
+
+a) A 1.ª semana do curso de formação pedagógica é reservada ao acolhimento dos participantes e à preparação de uma visita de observação a um centro de formação, a qual será realizada na semana seguinte;
+
+b) Na 12.ª semana do curso proceder-se-á a um primeiro balanço das aptidões dos estagiários para a função e deverá estar programada a ocupação dos tempos nas duas semanas seguintes, a qual deverá contemplar uma observação circunstanciada das actividades executivas dos serviços, nomeadamente em matéria de execução de programas e estágios de formação, planeamento nacional e regional de acções de formação;
+
+c) Da 21.ª à 24.ª semana do período de formação prática os estagiários poderão acompanhar, por tempo julgado conveniente, acções de formação profissional, seja de adultos, de jovens ou de reabilitação profissional.
+
+2 - De carácter metodológico:
+
+a) Discussão e pesquisa de soluções em grupo;
+
+b) Prática na análise profissional;
+
+c) Treino mental;
+
+d) Lógica da ordenação dos conhecimentos a transmitir;
+
+e) Animação de sessões simuladas, centradas sobre temas livres e técnico-profissionais;
+
+f) Valorização das diversas formas de expressão e de comunicação.
+
+4.º:
+
+1 - O programa do estágio, nas suas sucessivas etapas formativas, é o que consta do anexo a esta portaria.
+
+2 - O programa referido no número anterior tem como finalidade possibilitar uma formação integrada dos futuros técnicos de formação profissional, propiciando as mudanças comportamentais exigidas pela natureza da função.
+
+5.º Sem prejuízo do que se dispõe sobre a matéria nesta portaria, o desenvolvimento e extensão dos conteúdos programáticos, os lugares de realização dos diversos momentos do estágio e, bem assim, os métodos utilizados deverão ser os mais adequados à prossecução dos objectivos e finalidade estabelecidos.
+
+6.º A avaliação do aproveitamento dos estágios será feita durante e no final do estágio, de acordo com normas a estabelecer, incidindo sobre os traços característicos do formador e das aptidões e capacidades reveladas para a execução de programas de formação profissional e dos pressupostos técnico-pedagógicos correlativos.
+
+7.º A responsabilidade pela concretização do disposto nos pontos 5.º e 6.º caberá à equipa pedagógica que vier a ser instituída no quadro da unidade dos serviços que tiver a seu cargo a formação dos formadores.
+
+8.º No final do estágio será passado a cada estagiário, pelo departamento que integrar a unidade dos serviços referida no número anterior e por indicação desta, um certificado de aptidão pedagógica comprovativo do aproveitamento obtido.
+
+Ministérios do Trabalho e da Reforma Administrativa, 7 de Janeiro de 1982. - O Ministro do Trabalho, António José de Barros Queirós Martins. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/03000/02880290.pdf))](https://files.diariodarepublica.pt/1s/1982/02/03000/02880290.pdf)

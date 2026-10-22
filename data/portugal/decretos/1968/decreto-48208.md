@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:233132:por
+title: Decreto n.º 48208
+short_title: null
+summary: Altera várias disposições dos Regulamentos dos Institutos Industriais e dos Institutos Comerciais, aprovados, respectivamente,
+  pelos Decretos n.os 38032 e 38231
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Técnico Profissional
+proposing_entity: null
+official_number: '48208'
+official_date: null
+publication_date: '1968-01-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 15/1968, Série I de 1968-01-18
+  number: '15'
+  series: I
+  supplement: null
+  pages: 54 - 54
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/01/01500/00540054.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '233132'
+  dre_path: /dr/detalhe/decreto/48208-1968-233132
+  internal: pt:dre:233132:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48208-1968-233132
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48208-1968-233132
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-01-18T00:00:00Z'
+integrity:
+  source_sha256: 0abda8c1f7dee1e5c82bc8dd54cd1d640f04c7eeb5e7cb05078a80f0d5a5403f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1968/DRE-1968-48208-233132.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48208
+
+Reconhecendo-se que há conveniência em alterar o actual regime de frequência dos alunos extraordinários dos institutos técnicos médios e também algumas disposições legais relativas ao correspondente grau de ensino;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º O artigo 132.º do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537), de 4 de Novembro de 1950, passa a ter a seguinte redacção:
+
+###### Art. 132.º - 1. Nos institutos há alunos ordinários e extraordinários:
+
+a) São alunos ordinários os que se matriculam no conjunto dos trabalhos que constituem, segundo o plano legal de estudos dos institutos, cada um dos anos de qualquer dos cursos, ou em parte desses trabalhos, possuindo a habilitação completa do ano anterior;
+
+b) São alunos extraordinários os que, não seguindo aquele plano, efectuam a matrícula em trabalhos escolares à sua escolha, respeitando, porém, obrigatòriamente, as precedências legalmente estabelecidas, não podendo frequentar simultâneamente trabalhos pertencentes, segundo o mesmo plano, a mais de dois anos consecutivos ou cujos horários sejam entre si incompatíveis.
+
+2. Para efeitos do disposto no número anterior, é considerado curso o conjunto de trabalhos escolares que facultem o ingresso no ensino superior de engenharia.
+
+3. A semana lectiva dos alunos extraordinários não pode exceder a fixada no plano legal do curso para o ano de mais elevada ocupação horária.
+
+###### Art. 2.º Os artigos 132.º e 133.º do [Decreto n.º 38231](https://diariodarepublica.pt/dr/detalhe/decreto/38231-1951-331053), de 23 de Abril de 1951, passam a ter a seguinte redacção:
+
+###### Art. 132.º - 1. Nos institutos há alunos ordinários e extraordinários:
+
+a) São alunos ordinários os que se matriculam no conjunto dos trabalhos que constituem, segundo o plano legal de estudos dos institutos, cada um dos anos de qualquer dos cursos, ou em parte desses trabalhos, possuindo a habilitação completa do ano anterior;
+
+b) São alunos extraordinários os que, não seguindo aquele plano, efectuam a matrícula em trabalhos escolares à sua escolha, respeitando, porém, obrigatòriamente, as precedências legalmente estabelecidas, não podendo frequentar simultâneamente trabalhos pertencentes, segundo o mesmo plano, a mais de dois anos consecutivos ou cujos horários sejam entre si incompatíveis.
+
+2. Para efeitos do disposto no número anterior, é considerado curso o conjunto de trabalhos escolares que facultam o ingresso no ensino superior de economia e finanças.
+
+3. A semana lectiva dos alunos extraordinários que não exerçam actividade profissional não pode exceder a fixada no plano geral do curso para o ano de mais elevada ocupação horária.
+
+###### Art. 133.º - 1. As turmas cujas actividades lectivas ultrapassem as 18 horas são destinadas exclusivamente a alunos extraordinários que exerçam actividade profissional relacionada com o ensino ministrado nos institutos, não podendo a semana lectiva exceder, para cada aluno, 21 horas.
+
+2. Os candidatos que pretendam matricular-se ao abrigo do disposto no número anterior juntarão ao requerimento declaração escrita, na qual indiquem a sua ocupação profissional, confirmada pela delegação competente do Instituto Nacional do Trabalho e Previdência.
+
+###### Art. 3.º - 1. O uso da farda de passeio pelos alunos das escolas de regentes agrícolas passa a ser facultativo.
+
+2. No actual modelo da mesma farda, os calções e as botas altas serão substituídos, respectivamente, por calças lisas, sem dobra, e sapatos pretos.
+
+###### Art. 4.º É abolido o actual modelo de farda de trabalho, admitindo-se em sua substituição o fato tipo «macaco».
+
+###### Art. 5.º Aos professores ordinários ou efectivos dos institutos e escolas técnicas médias que transitem das escolas técnicas secundárias é contado, para efeito de diuturnidades, o tempo de serviço que, como efectivos, tenham prestado nestas escolas.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 18 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Inocêncio Galvão Teles.

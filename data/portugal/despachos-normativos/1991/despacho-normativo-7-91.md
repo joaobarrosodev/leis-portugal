@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:495900:por
+title: Despacho Normativo n.º 7/91
+short_title: null
+summary: Define critérios que orientem a atribuição aos transportadores portugueses das autorizações para o transporte intracomunitário
+  de mercadorias do contingente instituído pelo Regulamento (CEE) n.º 3164/76
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 7/91
+official_date: null
+publication_date: '1991-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 12/1991, Série I-B de 1991-01-15
+  number: '12'
+  series: I
+  supplement: null
+  pages: 225 - 225
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/01/012b00/02250225.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/7/1991/01/15/p/dre/pt/html
+  oj: null
+  dre: '495900'
+  dre_path: /dr/detalhe/despacho-normativo/7-1991-495900
+  internal: pt:dre:495900:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-1991-495900
+  metadata_url: https://data.dre.pt/eli/despnorm/7/1991/01/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-1991-495900
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-01-15T00:00:00Z'
+integrity:
+  source_sha256: 27e2be16cd4038a350db7407a143a4c00bf157625782cd33574794324fc71c81
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-7-495900.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Transporte
+- CE Países
+- CEE
+- Direcção Geral dos Transportes Terrestres
+- Transporte de Mercadorias
+- Regulamento CE
+- Transporte Internacional
+relationships:
+- type: cites
+  target: celex:31976R3164
+  label: null
+  source: http://data.europa.eu/eli/reg/1976/3164/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 7/91
+
+A atribuição aos transportadores portugueses das autorizações para o transporte intracomunitário de mercadorias do contingente instituído pelo Regulamento (CEE) n.º [3164/76](https://data.europa.eu/eli/reg/1976/3164/oj?locale=pt) torna necessária a definição de critérios que orientem o seu rateio.
+
+Considerando que os transportes intracomunitários de mercadorias efectuados por cada empresa e contabilizados em toneladas/quilómetro, bem como o respectivo parque de veículos automóveis, são indicadores objectivos e adequados a esta distribuição;
+
+Considerando, por outro lado, que os Despachos Normativos n.os 120/89, de 21 de Dezembro, e n.º 35/90, de 17 de Maio, ao estabelecerem a distribuição do contingente CEE para 1990 e o suplemento para o mesmo ano, não se adaptam à distribuição da quota portuguesa para 1991, torna-se necessário proceder à sua alteração.
+
+Assim, tendo em conta o disposto no artigo 39.º do Decreto n.º 45/72, de 5 de Fevereiro, determina-se o seguinte:
+
+1 - As autorizações CEE serão emitidas pela Direcção-Geral de Transportes Terrestres a empresas licenciadas para o transporte internacional rodoviário de mercadorias, tendo em consideração:
+
+a) Os transportes intracomunitários realizados em anos anteriores;
+
+b) O parque de veículos automóveis licenciados para transporte internacional.
+
+2 - Por despacho do director-geral de Transportes Terrestres as autorizações CEE serão distribuídas em conformidade com os seguintes parâmetros:
+
+2.1 - As empresas que no período anterior tenham sido titulares de autorizações CEE terão direito a um número determinado em função do índice de utilização média do contingente distribuído nesse período e do respectivo parque de veículos automóveis licenciados exclusivamente para transportes internacionais até ao final do trimestre anterior ao rateio;
+
+2.2 - Terão direito a manter o número de autorizações CEE de que foram titulares as empresas cuja utilização tenha sido igual ou superior a 75% da média;
+
+2.3 - Não serão contempladas as empresas cuja utilização tenha sido inferior a 50% da média;
+
+2.4 - O remanescente será distribuído pelas empresas que não tenham sido titulares de autorizações comunitárias no período anterior, num número determinado em função do respectivo parque de veículos automóveis licenciados nas condições referidas no n.º 2.1.
+
+3 - Cada autorização CEE é acompanhada de um caderno de impressos descritivos de viagem, constituído por folhas destacáveis cujo preenchimento é obrigatório para o transportador seu titular, em conformidade com as instruções nele referidas.
+
+3.1 - Estes impressos deverão ser devolvidos à Direcção-Geral de Transportes Terrestres depois de cada transporte, até ao dia 15 do mês seguinte ao termo de cada trimestre do ano civil.
+
+3.2 - O incorrecto ou incompleto preenchimento destes impressos poderá dar causa a uma advertência ao titular da respectiva autorização.
+
+3.3 - Verificando-se reincidência no preenchimento irregular, a autorização poderá ser retirada.
+
+3.4 - A não devolução dos impressos descritivos de viagem no prazo determinado no n.º 3.1 será considerada como falta de utilização, incorrendo a empresa nas sanções previstas nos n.os 3.2 ou 3.3, consoante ao caso couber.
+
+4 - Poderão ser retiradas aos respectivos titulares as autorizações que não tenham sido utilizadas no decurso de um trimestre.
+
+5 - As autorizações que tenham sido retiradas em conformidade com o disposto nos n.os 3.3, 3.4 e 4 serão atribuídas a transportadores que não hajam incorrido em qualquer dos referidos comportamentos sancionáveis e que tenham revelado boa utilização das autorizações concedidas.
+
+Ministério das Obras Públicas, Transportes e Comunicações, 21 de Dezembro de 1990. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.

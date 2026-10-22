@@ -1,0 +1,505 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:279775:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-157115289",
+ "dre_path": "/dr/detalhe/decreto-lei/23-2011-279775",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-02-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "157115212",
+    "157115213",
+    "157115214",
+    "157115215",
+    "157115216",
+    "157115217",
+    "157115218",
+    "157115219",
+    "157115220",
+    "157115221",
+    "157115222",
+    "157115223",
+    "157115224",
+    "157115225",
+    "157115226",
+    "157115227",
+    "157115228",
+    "157115229",
+    "157115230",
+    "157115231",
+    "157115233"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "157115212",
+    "157115213",
+    "157115214",
+    "157115215",
+    "157115216",
+    "157115217",
+    "157115218",
+    "157115219",
+    "157115220",
+    "157115221",
+    "157115234",
+    "157115223",
+    "157115235",
+    "157115236",
+    "157115237",
+    "157115227",
+    "157115228",
+    "157115229",
+    "157115230",
+    "157115231",
+    "157115232",
+    "157115233"
+   ]
+  },
+  {
+   "date": "2026-06-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1139191704:por",
+     "title": "Decreto-Lei n.º 125/2026",
+     "published": "2026-06-26",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2026-1139191704"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 2.º-B",
+    "Adita Artigo 2.º-C",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Capítulo III",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Capítulo IV",
+    "Altera Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 13.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "157115212",
+    "157115213",
+    "1140169075",
+    "157115215",
+    "1140169275",
+    "1142589875",
+    "1142593775",
+    "1142593875",
+    "1142593575",
+    "1142593975",
+    "1142594075",
+    "1142594175",
+    "1142590075",
+    "1140170075",
+    "1140216575",
+    "157115235",
+    "157115236",
+    "157115237",
+    "157115227",
+    "1140216775",
+    "157115229",
+    "1140216975",
+    "157115231",
+    "157115232",
+    "1142594375"
+   ]
+  }
+ ],
+ "fragments": {
+  "157115212": {
+   "fragment_id": "157115290",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 23/2011\n\nde 11 de Fevereiro\n\nO presente decreto-lei estabelece as disposições necessárias à aplicação dos requisitos de acreditação e de fiscalização do mercado e controlo das fronteiras, nomeadamente de produtos com marcação «CE», estabelecidos no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0765\" title=\"Link para Regulamento da Comunidade Europeia\">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho, assegurando a sua execução na ordem jurídica nacional.\n\nA marcação «CE» indica a conformidade de um produto com os requisitos previstos na legislação de harmonização aplicável da União Europeia e viabiliza a livre circulação de produtos no mercado europeu. Através desta marcação o fabricante declara, sob sua responsabilidade, a conformidade do produto com as normas europeias, garantindo a validade do produto para venda no Espaço Económico Europeu e na Turquia.\n\nO fabricante é, pois, responsável pela realização da avaliação de conformidade e aposição da marcação «CE» num produto.\n\nOs distribuidores devem comprovar a presença da marcação «CE», mediante a apresentação da necessária documentação de apoio. Se o produto for importado de um país terceiro, o importador tem de comprovar que o fabricante não pertencente à União Europeia tomou as medidas necessárias à circulação e que a informação é disponibilizada sobre o mesmo, mediante pedido.\n\nNo entanto, nem todos dos produtos têm de ostentar a marcação «CE», apenas estando obrigados a essa marcação os produtos para os quais a mesma é exigida em legislação comunitária, como é o caso dos recipientes sob pressão, dos aparelhos de gás e dos brinquedos.\n\nCom o presente decreto-lei visa-se completar e reforçar o funcionamento da legislação comunitária, em especial a Decisão n.º <a href=\"eurlex.asp?ano=2008&id=308D0768\" title=\"Link para Decisão da Comunidade Europeia\">768/2008/CE</a>, do Parlamento Europeu e do Conselho, de 9 de Julho.\n\nNão obstante a obrigatoriedade da aplicabilidade directa do Regulamento em todos os Estados membros, torna-se necessário proceder à tipificação das condutas dos operadores económicos que constituem infracção a esse instrumento comunitário em causa e estabelecer as respectivas sanções na ordem jurídica nacional, bem como definir os termos da articulação deste novo regime sancionatório com aquele que se encontra já em vigor para produtos abrangidos por legislação comunitária de harmonização.\n\nPara além disso, e com vista a garantir uma efectiva aplicação dos princípios de reforço dos mecanismos de fiscalização do mercado no que respeita aos produtos que apresentem risco, procede-se à alteração da competência para a adopção de medidas de recolha, retirada ou proibição de disponibilização no mercado de produtos que passam a ser das diversas entidades de fiscalização do mercado.\n\nPretende-se, deste modo, que as medidas a tomar relativamente a produtos susceptíveis de prejudicar a saúde ou segurança dos consumidores e dos utilizadores, ou que, por qualquer outro motivo, devam ser considerados não conformes com o interesse público, sejam céleres e eficazes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "157115213": {
+   "fragment_id": "157115291",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "157115214": {
+   "fragment_id": "157115292",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente decreto-lei visa assegurar a aplicação efectiva no ordenamento jurídico nacional do disposto no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0765\" title=\"Link para Regulamento da Comunidade Europeia\">765/2008</a>, do Parlamento Europeu e do Conselho, de 9 de Julho, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos, adiante designado por Regulamento.\n\n2 - O presente decreto-lei aplica-se, em matéria de fiscalização do mercado, apenas aos produtos abrangidos pelo Regulamento, nos termos e nas condições por este definidas."
+  },
+  "157115215": {
+   "fragment_id": "157115293",
+   "type": 1,
+   "heading": "Capítulo II — Acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acreditação"
+  },
+  "157115216": {
+   "fragment_id": "157115294",
+   "type": 11,
+   "heading": "Artigo 2.º — Regras de acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regras de acreditação\n\n1 - O Instituto Português de Acreditação, I. P. (IPAC, I. P.), é o único organismo nacional de acreditação, nos termos e para os efeitos do disposto no Regulamento.\n\n2 - Compete ao IPAC, I. P., identificar os serviços de acreditação que não possam ser prestados de acordo com o n.º 2 do artigo 4.º do Regulamento bem como indicar o organismo nacional de acreditação de outro Estado membro a que recorrer para a prestação desses mesmos serviços.\n\n3 - Compete ao IPAC, I. P., a comunicação à Comissão Europeia e aos restantes Estados membros relativa ao recurso a outro organismo nacional de acreditação, nos termos do n.º 3 do artigo 4.º do Regulamento, bem como a divulgação obrigatória desta informação no seu sítio da Internet.\n\n4 - Para efeitos de aplicação do n.º 2 do artigo 11.º do Regulamento, o IPAC, I. P., divulga igualmente no seu sítio da Internet a lista dos organismos nacionais de acreditação dos outros Estados membros submetidos com êxito à avaliação pelos pares prevista no artigo 10.º do Regulamento.\n\n5 - A acreditação constitui-se como o único mecanismo de reconhecimento da competência técnica de organismos de avaliação da conformidade, para efeitos do disposto no capítulo ii do Regulamento."
+  },
+  "157115217": {
+   "fragment_id": "157115295",
+   "type": 1,
+   "heading": "Capítulo III — Fiscalização do mercado e controlo dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fiscalização do mercado e controlo dos produtos"
+  },
+  "157115218": {
+   "fragment_id": "157115296",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência para a adopção de medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência para a adopção de medidas restritivas\n\n1 - A adopção de uma medida de proibição, de restrição de disponibilização, de retirada ou de recolha de um produto, ao abrigo do disposto no artigo 20.º do Regulamento, ou nos termos da legislação comunitária aplicável destinada a harmonizar as condições de comercialização dos produtos, a que se refere o artigo 21.º do Regulamento, compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo do disposto no número seguinte.\n\n2 - As medidas adoptadas ao abrigo dos artigos 20.º e 21.º do Regulamento podem ainda ser tomadas pelas autoridades que, nos termos da lei, detenham competência de fiscalização relativamente ao tipo de produto em causa."
+  },
+  "157115219": {
+   "fragment_id": "157115297",
+   "type": 11,
+   "heading": "Artigo 4.º — Comunicação de medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comunicação de medidas restritivas\n\n1 - A comunicação à Comissão Europeia e aos Estados membros das medidas restritivas a que se refere o artigo anterior compete à autoridade de fiscalização responsável pela sua adopção, sem prejuízo das competências neste domínio atribuídas a outras entidades no quadro do sistema comunitário de troca de informação a que se refere o artigo 22.º do Regulamento.\n\n2 - A adopção de medidas restritivas é igualmente comunicada pela autoridade de fiscalização, anualmente, à Direcção-Geral das Actividades Económicas (DGAE)."
+  },
+  "157115220": {
+   "fragment_id": "157115298",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização na fronteira externa e cooperação mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização na fronteira externa e cooperação mútua\n\n1 - No âmbito das funções de controlo das fronteiras externas cometidas às autoridades aduaneiras pelo Regulamento, compete à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), suspender a introdução em livre prática de produtos no mercado, nos termos dos artigos 27.º a 29.º do Regulamento.\n\n2 - Para efeitos da aplicação do disposto no número anterior, a DGAIEC e as autoridades de fiscalização do mercado devem estabelecer adequados mecanismos de cooperação mútua."
+  },
+  "157115221": {
+   "fragment_id": "157115299",
+   "type": 1,
+   "heading": "Capítulo IV — Infracções às regras gerais de marcação «CE»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Infracções às regras gerais de marcação «CE»"
+  },
+  "157115222": {
+   "fragment_id": "157115300",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime contra-ordenacional\n\n1 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui contra-ordenação, punível com coima no valor de (euro) 1000 a (euro) 3740, no caso de pessoas singulares, e de (euro) 2500 a (euro) 44 890, no caso de pessoas colectivas, a violação do disposto no artigo 30.º do Regulamento, designadamente quando se traduza em:\n\na) Recusa pelos operadores económicos de apresentação de documentação e informação ou de acesso às suas instalações às autoridades de fiscalização;\n\nb) Aposição da marcação «CE» em produtos não conformes com os requisitos aplicáveis da legislação comunitária de harmonização aplicável que prevê a sua aposição;\n\nc) Falta de aposição da marcação «CE» em produtos para os quais esta marcação esteja prevista em disposição comunitária de harmonização específica;\n\nd) Aposição num produto de marcações, sinais e inscrições susceptíveis de induzir terceiros em erro quanto ao significado ou ao grafismo, ou a ambos, da marcação «CE»;\n\ne) Aposição de qualquer outra marcação que prejudique a visibilidade e a legibilidade da marcação «CE».\n\n2 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui contra-ordenação a violação do disposto no artigo 30.º do Regulamento, quando se traduza na aposição da marcação «CE» em produtos para os quais esta marcação não esteja prevista em disposição comunitária de harmonização específica, sendo punível com coima de:\n\na) (euro) 1500 a (euro) 3740, no caso de pessoas singulares;\n\nb) (euro) 5000 a (euro) 44 890, no caso de pessoas colectivas.\n\n3 - A negligência e a tentativa são puníveis, sendo os valores referidos nos n.os 1 e 2 reduzidos a metade.\n\n4 - Sempre que qualquer das condutas descritas no n.º 1 configure uma contra-ordenação de acordo com a legislação específica aplicável ao produto em causa, o respectivo agente é punido pela prática da contra-ordenação a que corresponda a coima mais elevada."
+  },
+  "157115223": {
+   "fragment_id": "157115301",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto no artigo 30.º do Regulamento compete à ASAE, bem como às autoridades com competências fiscalizadoras à luz da legislação específica aplicável à classe de produto em causa, nomeadamente:\n\na) Ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde;\n\nb) Ao ICP-ANACOM - Autoridade Nacional de Comunicações;\n\nc) Ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.);\n\nd) Ao Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.);\n\ne) À Polícia de Segurança Pública (PSP);\n\nf) À DGAIEC, no que respeita ao controlo da fronteira externa.\n\n2 - É competente para a instrução dos processos de contra-ordenação a autoridade de fiscalização que levantar o auto de notícia, excepto se a legislação específica aplicável à classe de produto em causa dispuser de forma diferente, caso em que a competência instrutória cabe à entidade nela indicada."
+  },
+  "157115224": {
+   "fragment_id": "157115302",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções acessórias\n\nSempre que a gravidade da contra-ordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no regime geral do ilícito de mera ordenação social."
+  },
+  "157115225": {
+   "fragment_id": "157115303",
+   "type": 11,
+   "heading": "Artigo 9.º — Aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação das coimas\n\nA aplicação das coimas e sanções acessórias compete:\n\na) No caso de processos de contra-ordenação instruídos pela ASAE, à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP);\n\nb) Nos processos instruídos por outras autoridades fiscalizadoras, à entidade à qual tal competência se encontre legalmente atribuída."
+  },
+  "157115226": {
+   "fragment_id": "157115304",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\nO produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 10 % para a entidade que procedeu à instrução do processo;\n\nd) 10 % para a entidade decisora;\n\ne) 10 % para a DGAE."
+  },
+  "157115227": {
+   "fragment_id": "157115305",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "157115228": {
+   "fragment_id": "157115306",
+   "type": 11,
+   "heading": "Artigo 11.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento\n\nA DGAE acompanha a execução do presente decreto-lei, competindo-lhe, designadamente:\n\na) A recolha dos dados e informações relativos à aplicação das regras do Regulamento junto das autoridades de fiscalização do mercado e do controlo das fronteiras previstas no artigo 7.º;\n\nb) O tratamento e compilação dos dados e informações relevantes para a avaliação da extensão do âmbito de aplicação do capítulo iii do Regulamento, nos termos previstos no artigo 40.º do Regulamento;\n\nc) A comunicação dos elementos referidos nas alíneas anteriores junto da Comissão Europeia."
+  },
+  "157115229": {
+   "fragment_id": "157115307",
+   "type": 11,
+   "heading": "Artigo 12.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regiões Autónomas\n\nOs actos e os procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa."
+  },
+  "157115230": {
+   "fragment_id": "157115308",
+   "type": 11,
+   "heading": "Artigo 13.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Referências legais\n\nAs referências contidas na legislação identificada em anexo ao presente decreto-lei, do qual faz parte integrante, às entidades com as competências referidas nas alíneas seguintes consideram-se efectuadas às entidades previstas nos artigos 3.º a 5.º:\n\na) Para a adopção de medidas de proibição, de restrição de disponibilização, de retirada ou de recolha, ou de suspensão de introdução em livre prática no mercado de produtos abrangidos por legislação comunitária de harmonização;\n\nb) Para a comunicação dessas medidas à Comissão Europeia e aos Estados membros."
+  },
+  "157115231": {
+   "fragment_id": "157115309",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "157115233": {
+   "fragment_id": "157115311",
+   "type": 14,
+   "heading": "Anexo — Lista de diplomas a que se refere o artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Lista de diplomas a que se refere o artigo 13.º\n\na) Decreto-Lei n.º 237/92, de 27 de Outubro, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 50/97, de 28 de Fevereiro.\n\nb) Decreto-Lei n.º 113/93, de 10 de Abril, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, pelo Decreto-Lei n.º 374/98, de 24 de Novembro, e pelo Decreto-Lei n.º 4/2007, de 8 de Janeiro.\n\nc) Decreto-Lei n.º 128/93, de 22 de Abril, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 374/98, de 24 de Novembro.\n\nd) Decreto-Lei n.º 383/93, de 18 de Novembro, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 374/98, de 24 de Novembro.\n\ne) Decreto-Lei n.º 136/94, de 20 de Maio, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 23/2010, de 25 de Março.\n\nf) Decreto-Lei n.º 265/94, de 25 de Outubro.\n\ng) Decreto-Lei n.º 112/96, de 5 de Agosto.\n\nh) Decreto-Lei n.º 295/98, de 22 de Setembro, alterado pelo Decreto-Lei n.º 176/2008, de 26 de Agosto.\n\ni) Decreto-Lei n.º 211/99, de 14 de Junho.\n\nj) Decreto-Lei n.º 192/2000, de 18 de Agosto.\n\nl) Decreto-Lei n.º 313/2002, de 23 de Dezembro, alterado pelo Decreto-Lei n.º 143/2004, de 11 de Junho.\n\nm) Decreto-Lei n.º 168/2005, de 26 de Setembro.\n\nn) Decreto-Lei n.º 192/2006, de 26 de Setembro.\n\no) Decreto-Lei n.º 221/2006, de 8 de Novembro.\n\np) Decreto-Lei n.º 325/2007, de 28 de Setembro, alterado pelo Decreto-Lei n.º 20/2009, de 19 de Janeiro.\n\nq) Decreto-Lei n.º 6/2008, de 10 de Janeiro.\n\nr) Decreto-Lei n.º 103/2008, de 24 de Junho.\n\ns) Decreto-Lei n.º 26/2009, de 27 de Janeiro.\n\nt) Decreto-Lei n.º 34/2010, de 15 de Abril."
+  },
+  "157115234": {
+   "fragment_id": "157115300",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime contra-ordenacional",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Regime contra-ordenacional\n\n1 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação do disposto no artigo 30.º do Regulamento, designadamente quando se traduza em:\n\na) Recusa pelos operadores económicos de apresentação de documentação e informação ou de acesso às suas instalações às autoridades de fiscalização;\n\nb) Aposição da marcação «CE» em produtos não conformes com os requisitos aplicáveis da legislação comunitária de harmonização aplicável que prevê a sua aposição;\n\nc) Falta de aposição da marcação «CE» em produtos para os quais esta marcação esteja prevista em disposição comunitária de harmonização específica;\n\nd) Aposição num produto de marcações, sinais e inscrições susceptíveis de induzir terceiros em erro quanto ao significado ou ao grafismo, ou a ambos, da marcação «CE»;\n\ne) Aposição de qualquer outra marcação que prejudique a visibilidade e a legibilidade da marcação «CE».\n\nf) Aposição da marcação 'CE' em produtos para os quais esta marcação não esteja prevista em disposição comunitária de harmonização específica.\n\n2 - (Revogado.)\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n4 - Sempre que qualquer das condutas descritas no n.º 1 configure uma contraordenação de acordo com a legislação específica aplicável ao produto em causa, o respetivo agente é punido pela prática da contraordenação a que corresponda a coima mais elevada.\n\n> Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157115235": {
+   "fragment_id": "157115302",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Sanções acessórias\n\nSempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.\n\n> Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157115236": {
+   "fragment_id": "157115303",
+   "type": 11,
+   "heading": "Artigo 9.º — Aplicação das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Aplicação das coimas\n\nA aplicação das coimas e sanções acessórias compete:\n\na) No caso de processos de contraordenação instruídos pela ASAE, ao seu inspetor-geral;\n\nb) Nos processos instruídos por outras autoridades fiscalizadoras, à entidade à qual tal competência se encontre legalmente atribuída.\n\n> Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157115237": {
+   "fragment_id": "157115304",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE\n\n> Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157115232": {
+   "fragment_id": "157115310",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Rui Carlos Pereira - Alberto de Sousa Martins - José Carlos das Dores Zorrinho - António Augusto da Ascenção Mendonça - Ana Maria Teodoro Jorge.\n\nPromulgado em 3 de Fevereiro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Fevereiro de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1140169075": {
+   "fragment_id": "157115292",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente decreto-lei:\n\na) Assegura a execução do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008, que estabelece os requisitos de acreditação e que revoga o Regulamento (CEE) n.º 339/93 (Regulamento (CE) n.º 765/2008); e\n\nb) Assegura parcialmente a execução do Regulamento (UE) 2019/1020, do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à fiscalização do mercado e à conformidade dos produtos e que altera a Diretiva 2004/42/CE e os Regulamentos (CE) n.º 765/2008 e (UE) n.º 305/2011 (Regulamento (UE) 2019/1020).\n\n2 - O estabelecido nos artigos dos capítulos iii e iv do presente decreto-lei aplica-se aos produtos sujeitos à legislação de harmonização da União, nos termos previstos no Regulamento (UE) 2019/1020.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1140169275": {
+   "fragment_id": "157115294",
+   "type": 11,
+   "heading": "Artigo 2.º — Regras de acreditação",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 2.º — Regras de acreditação\n\n1 - O Instituto Português de Acreditação, I. P. (IPAC, I. P.), é o organismo nacional de acreditação, para efeitos do disposto no Regulamento (CE) n.º 765/2008.\n\n2 - Compete ao IPAC, I. P., identificar os serviços de acreditação que não possam ser prestados de acordo com o n.º 2 do artigo 4.º do Regulamento (CE) n.º 765/2008, bem como indicar o organismo nacional de acreditação de outro Estado-Membro a que recorrer para a prestação desses mesmos serviços.\n\n3 - Compete ao IPAC, I. P., efetuar a comunicação à Comissão Europeia e aos restantes Estados-Membros relativa ao recurso a outro organismo nacional de acreditação, nos termos do n.º 3 do artigo 4.º do Regulamento (CE) n.º 765/2008, bem como proceder à divulgação obrigatória de tal informação no seu sítio da Internet.\n\n4 - Para efeitos de aplicação do n.º 2 do artigo 11.º do Regulamento (CE) n.º 765/2008, o IPAC, I. P., divulga no seu sítio da Internet a lista dos organismos nacionais de acreditação dos outros Estados-Membros submetidos com êxito à avaliação pelos pares, nos termos do artigo 10.º do Regulamento (CE) n.º 765/2008.\n\n5 - A acreditação constitui o único mecanismo de reconhecimento da competência técnica de organismos de avaliação da conformidade, para efeitos do disposto no capítulo ii do Regulamento (CE) n.º 765/2008.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142589875": {
+   "fragment_id": "157115295",
+   "type": 1,
+   "heading": "Capítulo III — Obrigações dos operadores económicos, fiscalização do mercado e controlo da fronteira externa",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "### Capítulo III — Obrigações dos operadores económicos, fiscalização do mercado e controlo da fronteira externa\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142593775": {
+   "fragment_id": "1140170275",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Obrigações dos operadores económicos no que respeita aos produtos sujeitos a legislação de harmonização da União",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 2.º-A — Obrigações dos operadores económicos no que respeita aos produtos sujeitos a legislação de harmonização da União\n\n1 - Sem prejuízo das obrigações estabelecidas na legislação de harmonização da União aplicável, um produto sujeito à legislação a que se refere o n.º 5 do artigo 4.º do Regulamento (UE) 2019/1020 só pode ser colocado no mercado se existir um operador económico estabelecido na União, nos termos definidos no n.º 2 do mesmo artigo, que cumpra as obrigações estabelecidas nos seus n.ºs 3 e 4 e no n.º 1 do artigo 7.º do Regulamento (UE) 2019/1020.\n\n2 - Caso nenhum dos operadores económicos a que se referem as alíneas a) a c) do n.º 2 do artigo 4.º do Regulamento (UE) 2019/1020 esteja estabelecido na União, os produtos sujeitos à legislação de harmonização da União referida no n.º 5, podem ser disponibilizados no mercado ou colocados em serviço por um prestador de serviços de execução estabelecido na União, nos termos previstos na alínea d) do n.º 2 do referido artigo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142593875": {
+   "fragment_id": "1140171075",
+   "type": 11,
+   "heading": "Artigo 2.º-B — Autoridades de fiscalização do mercado e de controlo da fronteira externa",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 2.º-B — Autoridades de fiscalização do mercado e de controlo da fronteira externa\n\n1 - A fiscalização do mercado nos termos previstos no Regulamento (UE) 2019/1020, bem como do cumprimento do artigo 30.º do Regulamento (CE) n.º 765/2008, ou de outra marcação exigida pela legislação de harmonização da União, compete à Autoridade de Segurança Alimentar e Económica (ASAE) e às seguintes autoridades de fiscalização setorialmente competentes:\n\na) INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P.;\n\nb) Autoridade Nacional de Comunicações;\n\nc) Instituto da Mobilidade e dos Transportes, I. P.;\n\nd) Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;\n\ne) Polícia de Segurança Pública.\n\n2 - Para além das entidades referidas no número anterior, a fiscalização do mercado nos termos previstos no Regulamento (UE) 2019/1020 compete ainda às seguintes autoridades de fiscalização setorialmente competentes:\n\na) Entidade Nacional para o Setor Energético, E. P. E.;\n\nb) Autoridade Nacional para a Aviação Civil.\n\n3 - A Autoridade Tributária e Aduaneira (AT) é a entidade responsável pelo controlo dos produtos na fronteira externa, designadamente para efeitos do disposto no n.º 1 do artigo 25.º do Regulamento (UE) 2019/1020.\n\n4 - Em caso de não conformidade, as autoridades de fiscalização do mercado podem recuperar, junto do operador económico em causa, a totalidade dos custos das suas atividades, nos termos previstos no artigo 15.º do Regulamento (UE) 2019/1020.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142593575": {
+   "fragment_id": "1140170575",
+   "type": 11,
+   "heading": "Artigo 2.º-C — Serviço de ligação único e Comité",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 2.º-C — Serviço de ligação único e Comité\n\n1 - A ASAE é o serviço de ligação único, para efeitos do disposto no n.º 3 do artigo 10.º do Regulamento (UE) 2019/1020.\n\n2 - A representação, no comité previsto no artigo 43.º do Regulamento (UE) 2019/1020 compete, conjuntamente, à ASAE e à AT, no âmbito das suas competências.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142593975": {
+   "fragment_id": "157115296",
+   "type": 11,
+   "heading": "Artigo 3.º — Adoção e comunicação de medidas restritivas",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 3.º — Adoção e comunicação de medidas restritivas\n\n1 - As autoridades de fiscalização do mercado designadas ao abrigo do artigo 2.º-B devem, nos seus respetivos âmbitos de competência, adotar medidas corretivas, no âmbito da fiscalização do mercado, adequadas e proporcionadas para pôr termos à não conformidade ou para eliminar o risco para a saúde e segurança dos utilizadores nos termos do artigo 16.º do Regulamento (UE) 2019/1020 ou da legislação de harmonização da União aplicável.\n\n2 - [Revogado.]\n\n3 - No caso de se tratar de produtos que apresentem um risco grave nos termos do artigo 19.º do Regulamento (UE) 2019/1020, as autoridades de fiscalização do mercado devem informar imediatamente a Comissão Europeia de tais medidas, nos termos do artigo 20.º do mesmo regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142594075": {
+   "fragment_id": "157115297",
+   "type": 11,
+   "heading": "Artigo 4.º — Disponibilização de informação",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 4.º — Disponibilização de informação\n\n1 - As autoridades designadas ao abrigo do artigo 2.º-B devem disponibilizar e introduzir no sistema de informação e comunicação previsto no Regulamento (UE) 2019/1020 as informações referidas no artigo 34.º do mesmo regulamento.\n\n2 - [Revogado.]\n\n3 - Para efeitos de elaboração da estratégia nacional geral de fiscalização do mercado, as autoridades designadas ao abrigo do artigo 2.º-B devem disponibilizar ao serviço de ligação único as informações referidas no n.º 2 do artigo 13.º do Regulamento (UE) 2019/1020.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142594175": {
+   "fragment_id": "157115298",
+   "type": 11,
+   "heading": "Artigo 5.º — Controlo na fronteira externa",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 5.º — Controlo na fronteira externa\n\n1 - Compete à AT suspender a introdução em livre prática e no consumo de produtos, nos termos do disposto nos artigos 25.º a 28.º do Regulamento (UE) 2019/1020.\n\n2 - [Revogado.]\n\n3 - A AT deve notificar de imediato a autoridade de fiscalização do mercado competente da suspensão da introdução em livre prática de um produto e solicitar que esta, no prazo de quatro dias úteis a contar dessa comunicação de suspensão, informe da sua aprovação para a introdução em livre prática, da sua recusa, ou solicite a manutenção dessa suspensão.\n\n4 - Caso a autoridade de fiscalização do mercado solicite à AT a manutenção da suspensão da introdução em livre prática de um produto nos termos previstos no número anterior, deve emitir o seu parecer de aprovação ou recusa, no prazo máximo de 30 dias úteis, contados a partir dessa solicitação, podendo esse prazo, em razão da complexidade técnica, ser alargado mediante comunicação escrita à AT, não podendo ultrapassar um total de 45 dias úteis.\n\n5 - O prazo referido no número anterior suspende-se quando, de acordo com as competências e a organização institucional nacional, seja considerado necessário solicitar diretamente ao operador económico a prestação de informações adicionais para tomada de decisão, retomando-se logo que estas sejam disponibilizadas à autoridade solicitante, não podendo a suspensão exceder 15 dias úteis.\n\n6 - Cumpridas as formalidades e prazos referidos nos números anteriores, sem que a autoridade de fiscalização do mercado tenha solicitado a manutenção da suspensão ou emitido o seu parecer, cabe à AT autorizar a introdução em livre prática desde que todos os outros requisitos e formalidades referentes a esse regime tenham sido cumpridos.\n\n7 - Sempre que a autoridade de fiscalização do mercado notifique a AT de que os produtos não podem ser introduzidos no mercado, a AT recusa a sua introdução em livre prática, nos termos do artigo 28.º do Regulamento (UE) 2019/1020.\n\n8 - Compete às autoridades de fiscalização do mercado a introdução da informação relativa aos produtos cuja introdução em livre prática tenha sido recusada no sistema de informação e comunicação referido no artigo 34.º do Regulamento (UE) 2019/1020, nos termos do artigo 28.º do mesmo regulamento.\n\n9 - Para os efeitos do disposto no presente artigo, a AT e as autoridades de fiscalização do mercado devem estabelecer mecanismos adequados de cooperação mútua, nomeadamente a celebração de protocolos de cooperação com vista à proteção do mercado interno e à adequada aplicação do Regulamento (UE) 2019/1020.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142590075": {
+   "fragment_id": "157115299",
+   "type": 1,
+   "heading": "Capítulo IV — Regime contraordenacional e aplicação das coimas",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "### Capítulo IV — Regime contraordenacional e aplicação das coimas\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1140170075": {
+   "fragment_id": "157115300",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime contraordenacional",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27.",
+    "Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Regime contraordenacional\n\n1 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro, a violação do disposto no artigo 30.º do Regulamento (CE) n.º 765/2008, bem como a violação de disposição constante de legislação de harmonização da União que preveja uma marcação, incluindo:\n\na) A recusa pelos operadores económicos de apresentação de documentação e informação ou de acesso às suas instalações às autoridades de fiscalização do mercado;\n\nb) A aposição da marcação «CE» ou outra marcação exigida pelo direito da União em produtos não conformes com os requisitos previstos pela legislação de harmonização da União aplicável, que prevê a sua aposição;\n\nc) A falta de aposição da marcação «CE» ou outra marcação exigida pelo direito da União em produtos para os quais esta marcação esteja prevista em disposição de harmonização da União específica;\n\nd) A aposição num produto de marcações, sinais e inscrições suscetíveis de induzir terceiros em erro quanto ao significado ou ao grafismo, ou a ambos, da marcação «CE» ou outra marcação exigida pelo direito da União;\n\ne) A aposição de qualquer outra marcação que prejudique a visibilidade e a legibilidade da marcação «CE» ou outra marcação exigida pelo direito da União;\n\nf) A aposição da marcação «CE» ou outra marcação exigida pelo direito da União em produtos para os quais esta marcação não esteja prevista em disposição de harmonização da União específica.\n\n2 - [Revogado.]\n\n3 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar, constitui igualmente contraordenação económica grave, punível nos termos do RJCE, o incumprimento, por parte dos operadores económicos tal como definidos no Regulamento (UE) 2019/1020, das obrigações previstas no mesmo regulamento, incluindo:\n\na) O incumprimento das atribuições conferidas aos operadores económicos no que respeita aos produtos sujeitos a determinada legislação de harmonização da União, nos termos previstos nos n.ºs 3 e 4 do artigo 4.º do Regulamento (UE) 2019/1020;\n\nb) A falta de disponibilização de cópia do mandato, pelo mandatário, às autoridades de fiscalização do mercado, nos termos previstos no n.º 2 do artigo 5.º do Regulamento (UE) 2019/1020;\n\nc) A falta de cooperação, pelos operadores económicos, com as autoridades de fiscalização do mercado em ações suscetíveis de eliminar ou reduzir os riscos decorrentes de produtos disponibilizados no mercado, nos termos previstos no n.º 1 do artigo 7.º do Regulamento (UE) 2019/1020.\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n5 - Sempre que qualquer das condutas descritas nos n.ºs 1 e 3 configure uma contraordenação de acordo com a legislação específica aplicável ao produto em causa, o respetivo agente é punido pela prática da contraordenação a que corresponda a coima mais elevada.\n\n6 - É competente para a instrução dos processos de contraordenação a autoridade de fiscalização que levantar o auto de notícia, exceto se a legislação específica aplicável à classe de produto em causa dispuser de forma diferente, caso em que a competência instrutória cabe à entidade nela indicada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27.\n\n> Alterado pelo/a Artigo 115.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "1140216575": {
+   "fragment_id": "157115301",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto no artigo 30.º do Regulamento compete à ASAE, bem como às autoridades com competências fiscalizadoras à luz da legislação específica aplicável à classe de produto em causa, nomeadamente:\n\na) Ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde;\n\nb) Ao ICP-ANACOM - Autoridade Nacional de Comunicações;\n\nc) Ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.);\n\nd) Ao Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.);\n\ne) À Polícia de Segurança Pública (PSP);\n\nf) À DGAIEC, no que respeita ao controlo da fronteira externa.\n\n2 - É competente para a instrução dos processos de contra-ordenação a autoridade de fiscalização que levantar o auto de notícia, excepto se a legislação específica aplicável à classe de produto em causa dispuser de forma diferente, caso em que a competência instrutória cabe à entidade nela indicada.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1140216775": {
+   "fragment_id": "157115306",
+   "type": 11,
+   "heading": "Artigo 11.º — Acompanhamento",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 11.º — Acompanhamento\n\nA DGAE acompanha a execução do presente decreto-lei, competindo-lhe, designadamente:\n\na) A recolha dos dados e informações relativos à aplicação das regras do Regulamento junto das autoridades de fiscalização do mercado e do controlo das fronteiras previstas no artigo 7.º;\n\nb) O tratamento e compilação dos dados e informações relevantes para a avaliação da extensão do âmbito de aplicação do capítulo iii do Regulamento, nos termos previstos no artigo 40.º do Regulamento;\n\nc) A comunicação dos elementos referidos nas alíneas anteriores junto da Comissão Europeia.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1140216975": {
+   "fragment_id": "157115308",
+   "type": 11,
+   "heading": "Artigo 13.º — Referências legais",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "###### Artigo 13.º — Referências legais\n\nAs referências contidas na legislação identificada em anexo ao presente decreto-lei, do qual faz parte integrante, às entidades com as competências referidas nas alíneas seguintes consideram-se efectuadas às entidades previstas nos artigos 3.º a 5.º:\n\na) Para a adopção de medidas de proibição, de restrição de disponibilização, de retirada ou de recolha, ou de suspensão de introdução em livre prática no mercado de produtos abrangidos por legislação comunitária de harmonização;\n\nb) Para a comunicação dessas medidas à Comissão Europeia e aos Estados membros.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  },
+  "1142594375": {
+   "fragment_id": "157115311",
+   "type": 14,
+   "heading": "Anexo — Lista de diplomas a que se refere o artigo 13.º",
+   "in_force_from": "2026-06-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+   ],
+   "markdown": "## Anexo — Lista de diplomas a que se refere o artigo 13.º\n\na) Decreto-Lei n.º 237/92, de 27 de Outubro, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 50/97, de 28 de Fevereiro.\n\nb) Decreto-Lei n.º 113/93, de 10 de Abril, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, pelo Decreto-Lei n.º 374/98, de 24 de Novembro, e pelo Decreto-Lei n.º 4/2007, de 8 de Janeiro.\n\nc) Decreto-Lei n.º 128/93, de 22 de Abril, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 374/98, de 24 de Novembro.\n\nd) Decreto-Lei n.º 383/93, de 18 de Novembro, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 374/98, de 24 de Novembro.\n\ne) Decreto-Lei n.º 136/94, de 20 de Maio, alterado pelo Decreto-Lei n.º 139/95, de 14 de Junho, e pelo Decreto-Lei n.º 23/2010, de 25 de Março.\n\nf) Decreto-Lei n.º 265/94, de 25 de Outubro.\n\ng) Decreto-Lei n.º 112/96, de 5 de Agosto.\n\nh) Decreto-Lei n.º 295/98, de 22 de Setembro, alterado pelo Decreto-Lei n.º 176/2008, de 26 de Agosto.\n\ni) Decreto-Lei n.º 211/99, de 14 de Junho.\n\nj) Decreto-Lei n.º 192/2000, de 18 de Agosto.\n\nl) Decreto-Lei n.º 313/2002, de 23 de Dezembro, alterado pelo Decreto-Lei n.º 143/2004, de 11 de Junho.\n\nm) Decreto-Lei n.º 168/2005, de 26 de Setembro.\n\nn) Decreto-Lei n.º 192/2006, de 26 de Setembro.\n\no) Decreto-Lei n.º 221/2006, de 8 de Novembro.\n\np) Decreto-Lei n.º 325/2007, de 28 de Setembro, alterado pelo Decreto-Lei n.º 20/2009, de 19 de Janeiro.\n\nq) Decreto-Lei n.º 6/2008, de 10 de Janeiro.\n\nr) Decreto-Lei n.º 103/2008, de 24 de Junho.\n\ns) Decreto-Lei n.º 26/2009, de 27 de Janeiro.\n\nt) Decreto-Lei n.º 34/2010, de 15 de Abril.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 125/2026 - Diário da República n.º 122/2026, Série I de 2026-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2026-1139191704), em vigor a partir de 2026-06-27."
+  }
+ }
+}

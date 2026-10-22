@@ -1,0 +1,286 @@
+---
+schema_version: '1.0'
+id: pt:dre:176330:por
+title: Decreto-Lei n.º 105/98
+short_title: null
+summary: Regula a afixação ou inscrição de publicidade na proximidade das estradas nacionais fora dos aglomerados urbanos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 105/98
+official_date: null
+publication_date: '1998-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/1998, Série I-A de 1998-04-24
+  number: '96'
+  series: I
+  supplement: null
+  pages: 1830 - 1832
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/04/096a00/18301832.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/105/1998/04/24/p/dre/pt/html
+  oj: null
+  dre: '176330'
+  dre_path: /dr/detalhe/decreto-lei/105-1998-176330
+  internal: pt:dre:176330:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330
+  metadata_url: https://data.dre.pt/eli/dec-lei/105/1998/04/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-04-27T00:00:00Z'
+integrity:
+  source_sha256: 67a845c7e50eb5781b1f174a2a2c083d473828af38df41ed71b315a7330725de
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-105-176330.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Publicidade
+- Multa
+- Estrada
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Ilícito de MERA Ordenação Social
+- Licenciamento
+- Licenciamento de Obras
+- Segurança Rodoviária
+- Proteção do Ambiente
+- Suporte Publicitário
+- Câmara Municipal
+- Responsabilidade Civil
+- Tribunal Tributário
+relationships:
+- type: amended_by
+  target: pt:dre:67085601:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/6/1995/01/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/1995/01/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/92/1995/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/92/1995/05/09/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 105/98
+
+de 24 de Abril
+
+A proliferação descontrolada por todo o País dos mais diversos meios da chamada publicidade exterior, nomeadamente quadros, painéis, tabuletas, anúncios, ecrãs, focos luminosos, cartazes ou inscrições, tem produzido uma gravíssima degradação da paisagem em Portugal, sobretudo na proximidade das estradas fora dos aglomerados urbanos.
+
+Essa degradação atinge, de forma manifesta e intolerável, um importante valor ambiental que ao Estado incumbe proteger, pelo que importa adoptar medidas que permitam inverter a presente situação.
+
+A [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de Agosto, que sucedeu ao [Decreto-Lei n.º 637/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1976-430871), de 29 de Julho, definiu o enquadramento geral da publicidade exterior, sujeitando-a a licenciamento municipal prévio e remetendo para as câmaras municipais a tarefa de definir, à luz de certos objectivos fixados na lei, os critérios que devem nortear os licenciamentos a conceder na área respectiva.
+
+Permanece válido esse regime geral, tendo em conta, por um lado, a necessidade de um mecanismo de controlo administrativo e, por outro, a descentralização recomendada pela proximidade das câmaras municipais face à realidade local.
+
+Porém, o problema particular suscitado pela publicidade exterior na área de vizinhança das estradas nacionais fora dos aglomerados urbanos reclama tratamento especial uniforme, que permita salvaguardar nessas situações o ambiente e a paisagem face às inúmeras agressões de que têm sido alvo.
+
+A solução adoptada, atenta a gravidade do problema, passa pela proibição da publicidade fora dos aglomerados urbanos e visível das estradas nacionais.
+
+Para garantia de eficácia desta disposição, concedem-se às entidades fiscalizadoras, que são as direcções regionais do ambiente e as câmaras municipais, um conjunto de competências sancionatórias, a que se juntam outros poderes de autoridade não menos importantes, como o de remover a publicidade ilegal, se necessário com recurso à posse administrativa do terreno em que a mesma esteja afixada ou inscrita.
+
+Admitem-se, contudo, algumas excepções à referida proibição, as quais não prejudicam, todavia, as disposições legais ou regulamentares mais restritivas que regulam a publicidade na zona das estradas ou nos terrenos limítrofes, designadamente as vocacionadas para garantir a segurança rodoviária e a integridade ou visibilidade da respectiva sinalização.
+
+Quanto à publicidade já afixada ou inscrita, permanecem válidas as respectivas licenças, embora não possam ser renovadas. Por outro lado, a publicidade ilegal que não seja retirada pelos seus responsáveis poderá ser removida pelas entidades fiscalizadoras.
+
+Com este novo regime especial, o Governo pretende criar o enquadramento jurídico que permita uma efectiva salvaguarda do valor ambiental que é a paisagem na área de vizinhança das estradas nacionais, contanto que este esforço seja complementado pelo criterioso uso do poder de licenciamento por parte das entidades competentes e pelo rigor das acções de fiscalização tendo em vista assegurar o cumprimento da lei e dos regulamentos aplicáveis.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma regula a afixação ou inscrição de publicidade na proximidade das estradas nacionais constantes do plano rodoviário nacional fora dos aglomerados urbanos.
+
+2 - O disposto no presente diploma não prejudica a aplicação de quaisquer outras regras legais ou regulamentares mais restritivas da publicidade na zona das estradas ou nos terrenos limítrofes, designadamente as destinadas a garantir a segurança rodoviária ou a integridade e visibilidade da respectiva sinalização.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) Publicidade - a definição adoptada pelo artigo 3.º do Código da Publicidade, aprovado pelo [Decreto-Lei n.º 330/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1990-565417), de 23 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 6/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566), de 17 de Janeiro;
+
+b) Aglomerado urbano - a área como tal delimitada em plano municipal de ordenamento do território ou, na sua ausência, a delimitada nos termos do artigo 62.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro;
+
+c) Estradas nacionais - as vias definidas como tal no plano rodoviário nacional.
+
+###### Artigo 3.º — Proibição
+
+1 - É proibida a afixação ou inscrição de publicidade fora dos aglomerados urbanos em quaisquer locais onde a mesma seja visível das estradas nacionais.
+
+2 - São nulos e de nenhum efeito os licenciamentos concedidos em violação do disposto no número anterior, sendo as entidades que concederam a licença civilmente responsáveis pelos prejuízos que daí advenham para os particulares de boa fé.
+
+###### Artigo 4.º — Excepções
+
+A proibição prevista no n.º 1 do artigo anterior não abrange:
+
+a) Os meios de publicidade que se destinem a identificar edifícios ou estabelecimentos, públicos ou particulares, desde que tal publicidade seja afixada ou inscrita nesses mesmos edifícios ou estabelecimentos;
+
+b) Os anúncios temporários de venda ou arrendamento de imóveis, desde que neles localizados;
+
+c) Os meios de publicidade de interesse cultural ou turístico.
+
+###### Artigo 5.º — Afixação indevida
+
+1 - Os proprietários ou possuidores de locais onde for afixada ou inscrita publicidade em violação do preceituado no presente diploma podem retirar ou destruir essa publicidade.
+
+2 - A remoção de publicidade ao abrigo do número anterior corre a expensas da entidade responsável pela respectiva afixação ou inscrição.
+
+###### Artigo 6.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente diploma compete às direcções regionais do ambiente e às câmaras municipais, adiante designadas como entidades fiscalizadoras.
+
+2 - O disposto no número anterior não prejudica as competências próprias da Junta Autónoma de Estradas.
+
+###### Artigo 7.º — Notificação
+
+1 - Detectada a afixação ou inscrição de publicidade ilícita nos termos do presente diploma, as entidades fiscalizadoras notificam os infractores para que procedam à sua remoção, fixando-lhes, para o efeito, um prazo máximo de 30 dias.
+
+2 - No caso de não serem identificáveis todos os infractores haverá lugar à afixação de editais, pelo mesmo período, no âmbito geográfico do município com tutela sobre a área onde se encontra afixada ou inscrita a publicidade.
+
+###### Artigo 8.º — Remoção
+
+1 - Após o decurso do prazo previsto no artigo anterior, as entidades fiscalizadoras podem, por si mesmas, promover a remoção da publicidade afixada ou inscrita em violação do disposto no presente diploma, bem como dos respectivos suportes ou materiais.
+
+2 - Quando a remoção seja efectuada pelos serviços públicos ou com recurso a meios por si contratados, os suportes ou materiais a que se refere o número anterior podem ser declarados perdidos a favor do Estado, nos termos da lei.
+
+3 - A remoção de publicidade a que se refere o n.º 1, ainda que efectuada pelos serviços públicos ou com recurso a meios por si contratados, corre sempre a expensas do infractor.
+
+4 - As quantias relativas às despesas geradas com os trabalhos de remoção, quando não pagas voluntariamente pelo infractor no prazo de 20 dias a contar da notificação para o efeito, são cobradas através dos tribunais tributários, servindo de título executivo certidão passada pela entidade fiscalizadora comprovativa das despesas efectuadas.
+
+5 - Os funcionários incumbidos de proceder à remoção regulada nos números anteriores gozam de protecção, competindo às autoridades policiais disponibilizar os meios humanos e materiais adequados.
+
+6 - Quando necessário para efeitos da boa execução da operação de remoção, nomeadamente para garantir a todo o tempo o acesso de funcionários, trabalhadores, viaturas e máquinas ao local onde se encontre afixada ou inscrita a publicidade ilícita, as entidades fiscalizadoras podem tomar posse administrativa do prédio respectivo, nos termos do artigo seguinte.
+
+7 - Não haverá lugar a posse administrativa sempre que a operação de remoção da publicidade ilícita implique o acesso de funcionários, trabalhadores, viaturas e máquinas ao domicílio de cidadãos.
+
+###### Artigo 9.º — Posse administrativa
+
+1 - O acto administrativo que tiver determinado a posse administrativa será notificado aos titulares de direitos reais sobre o prédio, de acordo com as disposições legais aplicáveis.
+
+2 - A posse administrativa terá lugar mediante a elaboração do respectivo auto, o qual, para além de identificar o prédio ou de fazer a sua identificação física, indicará os titulares conhecidos de direitos reais sobre o mesmo e a data do acto administrativo referido no número anterior, incluindo ainda a descrição sumária dos meios de publicidade em causa e das construções existentes.
+
+3 - A posse administrativa manter-se-á durante todo o período em que decorrerem os trabalhos de remoção, caducando automaticamente após o termo da operação.
+
+###### Artigo 10.º — Embargo ou demolição de obras
+
+1 - As entidades fiscalizadoras podem ordenar, nos termos do [Decreto-Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1995-513870), de 9 de Maio, o embargo ou demolição das obras de construção civil que contrariem o disposto no presente diploma, bem como a reposição do terreno nas condições em que se encontrava antes do início das obras.
+
+2 - As obras de demolição a que se refere o número anterior não carecem de licença.
+
+###### Artigo 11.º — Sanções
+
+1 - A violação do disposto no artigo 3.º, n.º 1, e o desrespeito dos actos administrativos que determinem a remoção da publicidade ilegal, a posse administrativa, o embargo, a demolição de obras ou a reposição do terreno na situação anterior à infracção constituem contra-ordenações, puníveis com coima de 50000$00 a 750000$00, no caso de pessoas singulares, e de 100000$00 a 9000000$00, no caso de pessoas colectivas.
+
+2 - A tentativa e a negligência são puníveis.
+
+3 - Simultaneamente com a coima, podem ainda ser aplicadas, nos termos gerais, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente e utilizados na prática da infracção;
+
+b) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+c) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços ou a atribuição de licenças ou alvarás;
+
+d) Suspensão de autorizações, licenças e alvarás.
+
+4 - Em casos de especial gravidade da infracção pode dar-se publicidade à punição por contra-ordenação.
+
+###### Artigo 12.º — Competências
+
+1 - A instrução dos processos de contra-ordenação incumbe às entidades fiscalizadoras.
+
+2 - A aplicação das coimas e sanções acessórias previstas no presente diploma compete ao director regional do ambiente ou ao presidente da câmara municipal da área em que se verificar a infracção.
+
+###### Artigo 13.º — Produto das coimas
+
+O produto das coimas reverte em 60% para o Estado e em 40% para a entidade instrutora do processo de contra-ordenação.
+
+###### Artigo 14.º — Infractores
+
+1 - São considerados infractores, para todos os efeitos e nomeadamente para punição como agentes das contra-ordenações previstas neste diploma, o anunciante, a agência publicitária ou outra entidade que exerça a actividade publicitária, o titular do suporte publicitário ou o respectivo concessionário, assim como o proprietário ou possuidor do prédio onde a publicidade tenha sido afixada ou inscrita, se tiver consentido expressamente nessa afixação ou inscrição.
+
+2 - Os infractores a que se refere o número anterior são solidariamente responsáveis pelos prejuízos causados a terceiros, incluindo os emergentes da remoção, embargo, demolição ou reposição da situação anterior.
+
+3 - Os anunciantes eximir-se-ão da responsabilidade prevista no número anterior caso provem não ter tido prévio conhecimento da actuação infractora.
+
+###### Artigo 15.º — Regime transitório
+
+1 - Permanecem válidas, mas não poderão ser renovadas, as licenças já concedidas que violem o disposto no presente diploma, devendo os meios de publicidade a que respeitam ser imediatamente removidos após o termo do prazo de vigência da respectiva licença.
+
+2 - Os titulares de quaisquer licenças relativas a meios de publicidade sitos fora dos aglomerados urbanos e visíveis das estradas nacionais devem fazer prova da existência das mesmas junto das direcções regionais do ambiente, no prazo de 30 dias a contar da entrada em vigor do presente diploma, mencionando o respectivo local e prazo de vigência.
+
+3 - Na falta da prova referida no número anterior, a publicidade afixada ou inscrita presume-se ilícita.
+
+4 - Se os responsáveis pela publicidade ilícita não promoverem a sua remoção no prazo de 30 dias a contar da entrada em vigor do presente diploma, as entidades fiscalizadoras, após notificação prévia efectuada nos termos previstos no artigo 7.º, poderão proceder à sua remoção, bem como ordenar o embargo ou demolição das obras inerentes à afixação ou inscrição dessa publicidade, ou ainda ordenar a reposição da situação anterior, nos termos dos artigos 8.º a 10.º do presente diploma.
+
+5 - Em qualquer caso de remoção indevida de publicidade licenciada, o titular da respectiva licença terá direito a ser reembolsado do valor da taxa de licenciamento proporcional ao período compreendido entre a data de remoção da publicidade e a de caducidade da licença.
+
+6 - Nos casos referidos no número anterior não será aplicável o regime previsto nos n.os 3 e 4 do artigo 8.º
+
+7 - Para efeitos do n.º 4, consideram-se responsáveis pela publicidade as pessoas a que se refere o n.º 1 do artigo 14.º
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
+
+**Promulgado em 7 de Abril de 1998.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 16 de Abril de 1998.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

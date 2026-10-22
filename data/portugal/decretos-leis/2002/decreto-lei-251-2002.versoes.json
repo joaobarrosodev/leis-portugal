@@ -1,0 +1,578 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448756:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-938630800",
+ "dre_path": "/dr/detalhe/decreto-lei/251-2002-448756",
+ "source_lastmod": "2025-10-07",
+ "versions": [
+  {
+   "date": "2002-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938645708",
+    "938573122",
+    "938573123",
+    "938573124",
+    "938573125",
+    "938573126",
+    "938573127",
+    "938573128",
+    "938573129",
+    "938573130",
+    "938573131",
+    "938573132",
+    "938573133",
+    "938573134",
+    "938573135",
+    "938573136"
+   ]
+  },
+  {
+   "date": "2005-02-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:618939:por",
+     "title": "Decreto-Lei n.º 27/2005",
+     "published": "2005-02-04",
+     "dre_path": "/dr/detalhe/decreto-lei/27-2005-618939"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "938573121",
+    "938573161",
+    "938573162",
+    "938573163",
+    "938573164",
+    "938573168",
+    "938573169",
+    "938573170",
+    "938573171",
+    "938573172",
+    "938573173",
+    "938573174",
+    "938645675",
+    "938645676",
+    "938645677",
+    "938645678",
+    "938645679",
+    "938645680"
+   ]
+  },
+  {
+   "date": "2007-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521254:por",
+     "title": "Decreto-Lei n.º 167/2007",
+     "published": "2007-05-03",
+     "dre_path": "/dr/detalhe/decreto-lei/167-2007-521254"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "938645708",
+    "938645709",
+    "938645710",
+    "938645711",
+    "938645712",
+    "938645713",
+    "938645714",
+    "938645715",
+    "938645716",
+    "938645717",
+    "938645718",
+    "938645719",
+    "938645720",
+    "938645721",
+    "938645722",
+    "938645723",
+    "938645724",
+    "938645725"
+   ]
+  }
+ ],
+ "fragments": {
+  "938645708": {
+   "fragment_id": "938630801",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2007-06-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 251/2002\n\nde 22 de Novembro\n\nA integração dos imigrantes na sociedade portuguesa constitui uma das metas enunciadas no Programa do XV Governo Constitucional, inserida no plano mais vasto de uma política para a imigração que não pode deixar de privilegiar os valores humanistas, que são verdadeiramente identificadores da cultura portuguesa.\n\nPor outro lado, o problema das minorias étnicas, embora distinto do da imigração, ganhou contorno mais expressivo por via da diversidade cultural que caracteriza as comunidades imigrantes, com inevitáveis incompreensões mútuas e conflitualidades sociais, no âmbito da sociedade de acolhimento.\n\nTodavia, o cargo de alto-comissário, que constituiu a resposta nacional à problemática da integração de imigrantes e minorias étnicas, nos moldes do Decreto-Lei n.º 3-A/96, de 26 de Janeiro, mostra-se insuficiente para atingir as metas propostas.\n\nPor estes motivos se cria, no cumprimento da política para a imigração definida no Programa do XV Governo Constitucional, o Alto-Comissariado para a Imigração e Minorias Étnicas, prosseguindo objectivos de administração de missão, nos termos do artigo 37.º da Lei n.º 49/99, de 22 de Junho, o qual visa dar resposta adequada aos problemas atrás referidos, através de uma estrutura que, sem perder agilidade, possa dispor de meios humanos e logísticos de actuação permanente mais alargados que os previstos no quadro normativo anterior - nomeadamente através de postos de apoio e atendimento ao imigrante, localizados em Lisboa, no Porto e, eventualmente, em outros locais do País, no âmbito de protocolos de cooperação com os municípios -, assim se evitando que em cada legislatura se crie um vazio funcional, por solução de continuidade.\n\nA nomeação do alto-comissário pelo Primeiro-Ministro assegura a manutenção da confiança política e da solidariedade institucional que daquele cargo são indissociáveis.\n\nIntegram o Alto-Comissariado para a Imigração e Minorias Étnicas, dispondo de competências próprias, o alto-comissário, o Conselho Consultivo para os Assuntos da Imigração e, nos termos do artigo 5.º, n.º 1, da Lei n.º 134/99, de 28 de Agosto, a Comissão para a Igualdade e contra a Discriminação Racial.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938573122": {
+   "fragment_id": "938630802",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\n1 - É criado, na directa dependência do Primeiro-Ministro, o Alto-Comissariado para a Imigração e Minorias Étnicas, abreviadamente designado por Alto-Comissariado, com o carácter de estrutura interdepartamental de apoio e consulta do Governo em matéria de imigração e minorias étnicas.\n\n2 - O Alto-Comissariado tem como missão promover a integração dos imigrantes e minorias étnicas na sociedade portuguesa, assegurar a participação e a colaboração das associações representativas dos imigrantes, parceiros sociais e instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão, assim como acompanhar a aplicação dos instrumentos legais de prevenção e proibição das discriminações no exercício de direitos por motivos baseados na raça, cor, nacionalidade ou origem étnica."
+  },
+  "938573123": {
+   "fragment_id": "938630803",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do Alto-Comissariado:\n\na) Promover o diálogo com entidades representativas de imigrantes ou minorias étnicas em Portugal;\n\nb) Promover o conhecimento e a aceitação da língua, das leis e dos valores morais e culturais da Nação Portuguesa, por parte dos imigrantes, como condições de uma plena integração;\n\nc) Contribuir para a melhoria das condições de vida dos imigrantes em Portugal, de modo que seja proporcionada a sua integração na sociedade, no respeito pela sua identidade social e cultural;\n\nd) Combater o racismo e a xenofobia e eliminar discriminações em função da raça, etnia ou nacionalidade;\n\ne) Contribuir para que todos os cidadãos legalmente residentes em Portugal gozem de dignidade e oportunidades idênticas;\n\nf) Promover o estudo da temática da inserção e das minorias étnicas, em colaboração com os parceiros sociais, as instituições de solidariedade social e outras entidades públicas ou privadas com intervenção neste domínio;\n\ng) Cooperar com os diversos serviços da Administração Pública, competentes em razão da matéria relativa à entrada, saída e permanência de cidadãos estrangeiros em Portugal, com respeito pelas respectivas competências e pelas dos membros do Governo especificamente encarregados destas matérias;\n\nh) Colaborar na definição e cooperar na dinamização de políticas activas de integração social e de combate à exclusão, estimulando uma acção transversal interdepartamental junto dos serviços da Administração Pública, dos departamentos governamentais com intervenção no sector e, em especial, das autarquias locais;\n\ni) Propor medidas, designadamente de índole normativa, de apoio aos imigrantes e às minorias étnicas."
+  },
+  "938573124": {
+   "fragment_id": "938630804",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\nIntegram o Alto-Comissariado:\n\na) O alto-comissário;\n\nb) O Conselho Consultivo para os Assuntos da Imigração;\n\nc) A Comissão para a Igualdade e contra a Discriminação Racial."
+  },
+  "938573125": {
+   "fragment_id": "938630805",
+   "type": 11,
+   "heading": "Artigo 4.º — Alto-comissário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alto-comissário\n\n1 - Ao alto-comissário compete:\n\na) Dirigir a actividade do Alto-Comissariado, no âmbito das suas atribuições;\n\nb) Representar o Alto-Comissariado, nacional e internacionalmente;\n\nc) Coordenar o funcionamento da Comissão para a Igualdade e contra a Discriminação Racial;\n\nd) Autorizar despesas nos termos do n.º 11 do mapa anexo à Lei n.º 49/99, de 22 de Junho, e da alínea a) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, ou da competência que lhe seja delegada pelo Primeiro-Ministro;\n\ne) Exercer as demais competências que lhe sejam conferidas ou delegadas nos termos da lei.\n\n2 - O alto-comissário é nomeado e exonerado pelo Primeiro-Ministro, com um mandato de três anos.\n\n3 - O alto-comissário usufrui do estatuto remuneratório e dispõe de gabinete equivalentes aos de subsecretário de Estado.\n\n4 - É aplicável ao gabinete do alto-comissário o disposto no Decreto-Lei n.º 262/88, de 23 de Julho, e demais legislação aplicável aos gabinetes dos membros do Governo.\n\n5 - O alto-comissário é coadjuvado por um alto-comissário-adjunto, nomeado e exonerado pelo Primeiro-Ministro, sob proposta do alto-comissário, por um período coincidente com o do mandato do alto-comissário, sendo equiparado, para efeitos remuneratórios, a director-geral.\n\n6 - O alto-comissário-adjunto desempenha as funções que lhe sejam delegadas pelo alto-comissário e substitui-o nas suas faltas e impedimentos."
+  },
+  "938573126": {
+   "fragment_id": "938630806",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho Consultivo\n\n1 - O Conselho Consultivo para os Assuntos da Imigração, adiante designado por Conselho Consultivo, visa assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais e das instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão.\n\n2 - O Conselho Consultivo é composto por:\n\na) O alto-comissário, que preside;\n\nb) O alto-comissário-adjunto;\n\nc) Um representante de cada uma das comunidades imigrantes dos países de língua portuguesa, que serão designados pelas federações e associações respectivas, desde que a representatividade destas seja reconhecida pelo Alto-Comissariado;\n\nd) Um representante de cada uma das três comunidades de imigrantes mais numerosas não incluídas na alínea anterior, designados pelas respectivas associações ou federações, desde que a representatividade destas seja reconhecida pelo Alto-Comissariado;\n\ne) Um representante das instituições particulares de solidariedade social (IPSS);\n\nf) Dois representantes das instituições que trabalhem com imigrantes;\n\ng) Dois representantes das associações patronais e dois representantes das centrais sindicais com assento no Conselho Económico e Social;\n\nh) Dois cidadãos de reconhecido mérito, designados pelo alto-comissário;\n\ni) Um representante do membro do Governo que tutela os assuntos relativos à emigração e comunidades portuguesas;\n\nj) Um representante do Ministro da Administração Interna;\n\nl) Um representante do Ministro da Educação;\n\nm) Um representante do Ministro da Segurança Social e do Trabalho;\n\nn) Um representante do Governo Regional dos Açores;\n\no) Um representante do Governo Regional da Madeira;\n\np) Um representante da Associação Nacional de Municípios Portugueses.\n\n3 - As instituições, associações e comunidades representadas no Conselho Consultivo designam um membro efectivo e um suplente.\n\n4 - Compete ao Conselho Consultivo, por iniciativa própria ou sempre que para tal solicitado pelo alto-comissário:\n\na) Pronunciar-se sobre os projectos de diploma relativos aos direitos dos imigrantes;\n\nb) Participar na definição das políticas de integração social que visem a eliminação das discriminações e promovam a igualdade;\n\nc) Participar na definição de medidas e acções que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução;\n\nd) Participar na defesa dos direitos dos imigrantes com respeito pela sua identidade e cultura, formulando propostas com vista à sua promoção;\n\ne) Exercer outras competências que lhe sejam atribuídas por lei."
+  },
+  "938573127": {
+   "fragment_id": "938630807",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento do Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento do Conselho Consultivo\n\n1 - O Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente.\n\n2 - O mandato dos membros do Conselho Consultivo termina no prazo de três anos a contar da data da respectiva posse.\n\n3 - O Conselho Consultivo aprova o seu regimento interno.\n\n4 - Podem participar nas reuniões do Conselho Consultivo, a pedido do seu presidente, representantes e técnicos de departamentos governamentais ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam relevantes para a actividade do Conselho Consultivo.\n\n5 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939) A alteração produzida pelo Decreto-Lei n.º 27/2005 ao presente artigo não prejudica o anteriormente estabelecido para a duração dos mandatos dos membros do Conselho Consultivo para os Assuntos da Imigração e da Comissão para a Igualdade e contra a Discriminação Racial, até ao termo dos mesmos."
+  },
+  "938573128": {
+   "fragment_id": "938630808",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial\n\n1 - A Comissão para a Igualdade e contra a Discriminação Racial tem as atribuições e competências que lhe estão conferidas na Lei n.º 134/99, de 28 de Agosto, e no Decreto-Lei n.º 111/2000, de 4 de Julho.\n\n2 - O mandato dos membros da Comissão para a Igualdade e contra a Discriminação Racial tem a duração de três anos.\n\n3 - Os representantes das comissões referidas nos artigos 6.º e 7.º da Lei n.º 134/99, de 28 de Agosto, exercem as suas funções a título gratuito."
+  },
+  "938573129": {
+   "fragment_id": "938630809",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio técnico e equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio técnico e equipas de projecto\n\n1 - O Alto-Comissariado dispõe, para desenvolvimento das suas actividades, de uma equipa de apoio técnico constituída por pessoal a recrutar por recurso aos instrumentos de mobilidade previstos na lei, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 4.º do presente diploma legal, no que se refere à realização de estudos e à execução de projectos previamente aprovados pelo Primeiro-Ministro.\n\n2 - Na dependência do Alto-Comissariado, podem ser criadas, mediante autorização prévia do Primeiro-Ministro e do Ministro das Finanças, equipas de projecto para a prossecução das atribuições do Alto-Comissariado, celebrando-se, para o efeito, contratos de prestação de serviços com técnicos ou especialistas nos vários domínios de intervenção do Alto-Comissariado, os quais caducam automaticamente no termo do projecto, sem qualquer indemnização."
+  },
+  "938573130": {
+   "fragment_id": "938630810",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio administrativo e logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio administrativo e logístico\n\nO apoio geral, administrativo e logístico indispensável ao funcionamento do Alto-Comissariado é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros."
+  },
+  "938573131": {
+   "fragment_id": "938630811",
+   "type": 11,
+   "heading": "Artigo 10.º — Colaboração dos serviços públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Colaboração dos serviços públicos\n\nOs serviços da Administração Pública com responsabilidades nas áreas de atribuição do Alto-Comissariado prestam a colaboração por ele solicitada e dão sequência às suas iniciativas."
+  },
+  "938573132": {
+   "fragment_id": "938630812",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Financiamento\n\n1 - A dotação orçamental do Alto-Comissariado constará de verba inscrita no orçamento da Presidência do Conselho de Ministros.\n\n2 - Os donativos, subsídios e comparticipações concedidos por quaisquer pessoas, singulares ou colectivas, a favor do Alto-Comissariado ficam afectos à prossecução das suas atribuições."
+  },
+  "938573133": {
+   "fragment_id": "938630813",
+   "type": 11,
+   "heading": "Artigo 12.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Delegação de competências\n\nTodas as competências cometidas ao Primeiro-Ministro pelo presente diploma são delegáveis, com faculdade de subdelegação, nos termos da lei."
+  },
+  "938573134": {
+   "fragment_id": "938630814",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\n1 - Todas as referências legais e contratuais ao alto-comissário para a Imigração e Minorias Étnicas consideram-se, com as necessárias adaptações, feitas ao Alto-Comissariado para a Imigração e Minorias Étnicas, excepto aquelas que, por natureza, sejam indissociáveis do exercício pessoal do cargo, caso em que devem considerar-se feitas ao alto-comissário, nos termos do presente diploma.\n\n2 - No prazo de 60 dias após a publicação do presente diploma, as entidades com assento no Conselho Consultivo para os Assuntos da Imigração indicarão os seus representantes para o primeiro mandato."
+  },
+  "938573135": {
+   "fragment_id": "938630815",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 3-A/96, de 26 de Janeiro, o Decreto-Lei n.º 39/98, de 27 de Fevereiro, e o artigo 11.º do Decreto-Lei n.º 111/2000, de 4 de Julho."
+  },
+  "938573136": {
+   "fragment_id": "938630816",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "938573121": {
+   "fragment_id": "938630801",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 251/2002\n\nde 22 de Novembro\n\nA integração dos imigrantes na sociedade portuguesa constitui uma das metas enunciadas no Programa do XV Governo Constitucional, inserida no plano mais vasto de uma política para a imigração que não pode deixar de privilegiar os valores humanistas, que são verdadeiramente identificadores da cultura portuguesa.\n\nPor outro lado, o problema das minorias étnicas, embora distinto do da imigração, ganhou contorno mais expressivo por via da diversidade cultural que caracteriza as comunidades imigrantes, com inevitáveis incompreensões mútuas e conflitualidades sociais, no âmbito da sociedade de acolhimento.\n\nTodavia, o cargo de alto-comissário, que constituiu a resposta nacional à problemática da integração de imigrantes e minorias étnicas, nos moldes do Decreto-Lei n.º 3-A/96, de 26 de Janeiro, mostra-se insuficiente para atingir as metas propostas.\n\nPor estes motivos se cria, no cumprimento da política para a imigração definida no Programa do XV Governo Constitucional, o Alto-Comissariado para a Imigração e Minorias Étnicas, prosseguindo objectivos de administração de missão, nos termos do artigo 37.º da Lei n.º 49/99, de 22 de Junho, o qual visa dar resposta adequada aos problemas atrás referidos, através de uma estrutura que, sem perder agilidade, possa dispor de meios humanos e logísticos de actuação permanente mais alargados que os previstos no quadro normativo anterior - nomeadamente através de postos de apoio e atendimento ao imigrante, localizados em Lisboa, no Porto e, eventualmente, em outros locais do País, no âmbito de protocolos de cooperação com os municípios -, assim se evitando que em cada legislatura se crie um vazio funcional, por solução de continuidade.\n\nA nomeação do alto-comissário pelo Primeiro-Ministro assegura a manutenção da confiança política e da solidariedade institucional que daquele cargo são indissociáveis.\n\nIntegram o Alto-Comissariado para a Imigração e Minorias Étnicas, dispondo de competências próprias, o alto-comissário, o Conselho Consultivo para os Assuntos da Imigração e, nos termos do artigo 5.º, n.º 1, da Lei n.º 134/99, de 28 de Agosto, a Comissão para a Igualdade e contra a Discriminação Racial.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938573161": {
+   "fragment_id": "938630802",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\n1 - É criado, na directa dependência do Primeiro-Ministro, o Alto-Comissariado para a Imigração e Minorias Étnicas, abreviadamente designado por Alto-Comissariado, com o carácter de serviço de coordenação, de acordo com o definido na alínea c) do n.º 2 do artigo 11.º da Lei n.º 4/2004, de 15 de Janeiro, e de natureza interministerial.\n\n2 - O Alto-Comissariado tem como missão promover a integração dos imigrantes e minorias étnicas na sociedade portuguesa, assegurar a participação e a colaboração das associações representativas dos imigrantes, parceiros sociais e instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão, assim como acompanhar a aplicação dos instrumentos legais de prevenção e proibição das discriminações no exercício de direitos por motivos baseados na raça, cor, nacionalidade ou origem étnica.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573162": {
+   "fragment_id": "938630803",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do Alto-Comissariado:\n\na) Promover o diálogo com entidades representativas de imigrantes ou minorias étnicas em Portugal;\n\nb) Promover o conhecimento e a aceitação da língua, das leis e dos valores morais e culturais da Nação Portuguesa, por parte dos imigrantes, como condições de uma plena integração;\n\nc) Contribuir para a melhoria das condições de vida dos imigrantes em Portugal, de modo que seja proporcionada a sua integração na sociedade, no respeito pela sua identidade social e cultural;\n\nd) Combater o racismo e a xenofobia e eliminar discriminações em função da raça, etnia ou nacionalidade;\n\ne) Contribuir para que todos os cidadãos legalmente residentes ou autorizados a permanecer em Portugal gozem de dignidade e de oportunidades idênticas;\n\nf) Promover o estudo da temática da inserção e das minorias étnicas, em colaboração com os parceiros sociais, as instituições de solidariedade social e outras entidades públicas ou privadas com intervenção neste domínio;\n\ng) Cooperar e coordenar acções conjuntas com os diversos serviços da Administração Pública competentes em razão da matéria relativa à entrada, saída e permanência de cidadãos estrangeiros em Portugal, com respeito pelas respectivas competências e pelas dos membros do Governo especificamente encarregados destas matérias;\n\nh) Colaborar na definição e cooperar na dinamização de políticas activas de integração social e de combate à exclusão, estimulando uma acção transversal interdepartamental junto dos serviços da Administração Pública, dos departamentos governamentais com intervenção no sector e, em especial, das autarquias locais;\n\ni) Propor medidas, designadamente de índole normativa, de apoio aos imigrantes e às minorias étnicas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573163": {
+   "fragment_id": "938630804",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\nIntegram o Alto-Comissariado:\n\na) O alto-comissário e o alto-comissário-adjunto;\n\nb) Os centros de apoio ao imigrante;\n\nc) O Conselho Consultivo para os Assuntos da Imigração;\n\nd) A Comissão para a Igualdade e contra a Discriminação Racial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573164": {
+   "fragment_id": "938630805",
+   "type": 11,
+   "heading": "Artigo 4.º — Alto-comissário",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 4.º — Alto-comissário\n\n1 - Ao alto-comissário compete:\n\na) Dirigir a actividade do Alto-Comissariado, no âmbito das suas atribuições;\n\nb) Representar o Alto-Comissariado, nacional e internacionalmente;\n\nc) Dirigir a actividade dos centros de apoio ao imigrante;\n\nd) Coordenar e presidir ao Conselho Consultivo para os Assuntos da Imigração;\n\ne) Presidir e coordenar a Comissão para a Igualdade e contra a Discriminação Racial;\n\nf) Autorizar despesas nos termos da alínea d) do n.º 1 e da alínea e) do n.º 3, ambos do artigo 7.º da Lei n.º 2/2004, de 15 de Janeiro, e da alínea a) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, ou da competência que lhe seja delegada pelo Primeiro-Ministro;\n\ng) Exercer as demais competências que lhe sejam conferidas ou delegadas nos termos da lei.\n\n2 - O alto-comissário é nomeado e exonerado pelo Primeiro-Ministro, com um mandato de três anos.\n\n3 - O alto-comissário usufrui do estatuto remuneratório e dispõe de gabinete equivalentes aos de subsecretário de Estado.\n\n4 - É aplicável ao gabinete do alto-comissário o disposto no Decreto-Lei n.º 262/88, de 23 de Julho, e demais legislação aplicável aos gabinetes dos membros do Governo.\n\n5 - O alto-comissário é coadjuvado por um alto-comissário-adjunto, nomeado e exonerado pelo Primeiro-Ministro, sob proposta do alto-comissário, por um período coincidente com o do mandato do alto-comissário, sendo equiparado, para efeitos remuneratórios, a director-geral.\n\n6 - O alto-comissário-adjunto desempenha as funções que lhe sejam delegadas pelo alto-comissário e substitui-o nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573168": {
+   "fragment_id": "938630847",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Centros de apoio ao imigrante",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 4.º-A — Centros de apoio ao imigrante\n\n1 - Os centros de apoio ao imigrante são unidades orgânicas de acolhimento, informação e atendimento de cidadãos imigrantes adequadas a facilitar a relação dos utentes com os diversos serviços da Administração Pública.\n\n2 - Os centros de apoio ao imigrante integram uma unidade orgânica nuclear constituída pelo Centro Nacional de Apoio ao Imigrante, adiante designado por CNAI, e unidades orgânicas flexíveis constituídas pelos centros locais de apoio ao imigrante, adiante designados por CLAI, que visam assegurar a cobertura dos locais onde se verifique uma maior necessidade de informação dos cidadãos imigrantes.\n\n3 - O CNAI constitui uma oferta de serviços de interesse público em condições de qualidade, celeridade, comodidade e conforto, baseada na parceria e cooperação entre o Alto-Comissariado e os diferentes serviços da Administração Pública e demais entidades públicas e privadas, especialmente dirigidos à população imigrante em Portugal.\n\n4 - O funcionamento do CNAI será assegurado por uma estrutura nuclear, a ser aprovada de acordo com o disposto no n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro, e por mediadores sócio-culturais recrutados ao abrigo da Lei n.º 105/2001, de 31 de Agosto.\n\n5 - A relação entre o Alto-Comissariado e as instituições parceiras, públicas e privadas, que participem no CNAI é regulada por protocolos de cooperação, nos quais se especificam os serviços a prestar por cada instituição parceira e as respectivas condições particulares de participação.\n\n6 - Os CLAI constituem uma rede de postos de atendimento e informação que visa o esclarecimento dos cidadãos imigrantes no tratamento de matérias relacionadas com a sua permanência em território nacional.\n\n7 - A instalação e o funcionamento dos CLAI são assegurados através de protocolos anuais a celebrar com autarquias locais, com associações de imigrantes legalmente reconhecidas pelo Alto-Comissariado ou com entidades, públicas ou privadas, com actividade na área do acolhimento e integração de imigrantes, com recurso ao recrutamento de mediadores sócio-culturais ao abrigo da Lei n.º 105/2001, de 31 de Agosto.\n\n8 - A instalação e o funcionamento dos CLAI dependem de verba inscrita para o efeito na dotação orçamental do Alto-Comissariado, devendo o seu número e localização ser anualmente aprovados pelo alto-comissário, no limite máximo de 80 unidades.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573169": {
+   "fragment_id": "938630806",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho Consultivo",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho Consultivo\n\n1 - O Conselho Consultivo para os Assuntos da Imigração, adiante designado por Conselho Consultivo, visa assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais e das instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão.\n\n2 - O Conselho Consultivo é composto por:\n\na) O alto-comissário, que preside;\n\nb) O alto-comissário-adjunto;\n\nc) Um representante de cada uma das comunidades imigrantes dos países de língua portuguesa, que serão designados pelas federações e associações respectivas, desde que a representatividade destas seja reconhecida pelo Alto-Comissariado;\n\nd) Um representante de cada uma das três comunidades de imigrantes mais numerosas não incluídas na alínea anterior, designados pelas respectivas associações ou federações, desde que a representatividade destas seja reconhecida pelo Alto-Comissariado;\n\ne) Um representante das instituições particulares de solidariedade social (IPSS);\n\nf) Dois representantes das instituições que trabalhem com imigrantes, designados pelo alto-comissário;\n\ng) Dois representantes das associações patronais e dois representantes das centrais sindicais com assento no Conselho Económico e Social;\n\nh) Dois cidadãos de reconhecido mérito, designados pelo alto-comissário;\n\ni) Um representante do membro do Governo que tutela os assuntos relativos à emigração e comunidades portuguesas;\n\nj) Um representante do Ministro de Estado, das Actividades Económicas e do Trabalho;\n\nl) Um representante do Ministro da Administração Interna;\n\nm) Um representante do Ministro da Educação;\n\nn) Um representante do Ministro da Segurança Social, da Família e da Criança;\n\no) Um representante do Governo Regional dos Açores;\n\np) Um representante do Governo Regional da Madeira;\n\nq) Um representante da Associação Nacional de Municípios Portugueses.\n\n3 - As instituições, associações e comunidades representadas no Conselho Consultivo designam um membro efectivo e um suplente.\n\n4 - Compete ao Conselho Consultivo, por iniciativa própria ou sempre que para tal solicitado pelo alto-comissário:\n\na) Pronunciar-se sobre os projectos de diploma relativos aos direitos dos imigrantes;\n\nb) Participar na definição das políticas de integração social que visem a eliminação das discriminações e promovam a igualdade;\n\nc) Participar na definição de medidas e acções que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução;\n\nd) Participar na defesa dos direitos dos imigrantes com respeito pela sua identidade e cultura, formulando propostas com vista à sua promoção;\n\ne) Exercer outras competências que lhe sejam atribuídas por lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573170": {
+   "fragment_id": "938630807",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento do Conselho Consultivo",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 6.º — Funcionamento do Conselho Consultivo\n\n1 - O Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente.\n\n2 - O mandato dos membros do Conselho Consultivo tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou.\n\n3 - O Conselho Consultivo aprova o seu regimento interno.\n\n4 - Podem participar nas reuniões do Conselho Consultivo, a pedido do seu presidente, representantes e técnicos de departamentos governamentais ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam relevantes para a actividade do Conselho Consultivo.\n\n5 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939) A alteração produzida pelo Decreto-Lei n.º 27/2005 ao presente artigo não prejudica o anteriormente estabelecido para a duração dos mandatos dos membros do Conselho Consultivo para os Assuntos da Imigração e da Comissão para a Igualdade e contra a Discriminação Racial, até ao termo dos mesmos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573171": {
+   "fragment_id": "938630808",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial",
+   "in_force_from": "2005-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial\n\n1 - A Comissão para a Igualdade e contra a Discriminação Racial tem as atribuições e competências que lhe estão conferidas na Lei n.º 134/99, de 28 de Agosto, e no Decreto-Lei n.º 111/2000, de 4 de Julho.\n\n2 - O mandato dos membros da Comissão para a Igualdade e contra a Discriminação Racial tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou ou elegeu.\n\n3 - Os representantes das comissões referidas nos artigos 6.º e 7.º da Lei n.º 134/99, de 28 de Agosto, exercem as suas funções a título gratuito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938573172": {
+   "fragment_id": "938630809",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio técnico e equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio técnico e equipas de projecto\n\n1 - O Alto-Comissariado dispõe, para desenvolvimento das suas actividades, de uma equipa de apoio técnico constituída por pessoal a recrutar por recurso aos instrumentos de mobilidade previstos na lei, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 4.º do presente diploma legal, no que se refere à realização de estudos e à execução de projectos previamente aprovados pelo Primeiro-Ministro.\n\n2 - Na dependência do Alto-Comissariado, podem ser criadas, mediante autorização prévia do Primeiro-Ministro e do Ministro das Finanças, equipas de projecto para a prossecução das atribuições do Alto-Comissariado, celebrando-se, para o efeito, contratos de prestação de serviços com técnicos ou especialistas nos vários domínios de intervenção do Alto-Comissariado, os quais caducam automaticamente no termo do projecto, sem qualquer indemnização."
+  },
+  "938573173": {
+   "fragment_id": "938630810",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio administrativo e logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio administrativo e logístico\n\nO apoio geral, administrativo e logístico indispensável ao funcionamento do Alto-Comissariado é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros."
+  },
+  "938573174": {
+   "fragment_id": "938630811",
+   "type": 11,
+   "heading": "Artigo 10.º — Colaboração dos serviços públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Colaboração dos serviços públicos\n\nOs serviços da Administração Pública com responsabilidades nas áreas de atribuição do Alto-Comissariado prestam a colaboração por ele solicitada e dão sequência às suas iniciativas."
+  },
+  "938645675": {
+   "fragment_id": "938630812",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Financiamento\n\n1 - A dotação orçamental do Alto-Comissariado constará de verba inscrita no orçamento da Presidência do Conselho de Ministros.\n\n2 - Os donativos, subsídios e comparticipações concedidos por quaisquer pessoas, singulares ou colectivas, a favor do Alto-Comissariado ficam afectos à prossecução das suas atribuições."
+  },
+  "938645676": {
+   "fragment_id": "938630813",
+   "type": 11,
+   "heading": "Artigo 12.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Delegação de competências\n\nTodas as competências cometidas ao Primeiro-Ministro pelo presente diploma são delegáveis, com faculdade de subdelegação, nos termos da lei."
+  },
+  "938645677": {
+   "fragment_id": "938630814",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\n1 - Todas as referências legais e contratuais ao alto-comissário para a Imigração e Minorias Étnicas consideram-se, com as necessárias adaptações, feitas ao Alto-Comissariado para a Imigração e Minorias Étnicas, excepto aquelas que, por natureza, sejam indissociáveis do exercício pessoal do cargo, caso em que devem considerar-se feitas ao alto-comissário, nos termos do presente diploma.\n\n2 - No prazo de 60 dias após a publicação do presente diploma, as entidades com assento no Conselho Consultivo para os Assuntos da Imigração indicarão os seus representantes para o primeiro mandato."
+  },
+  "938645678": {
+   "fragment_id": "938630815",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 3-A/96, de 26 de Janeiro, o Decreto-Lei n.º 39/98, de 27 de Fevereiro, e o artigo 11.º do Decreto-Lei n.º 111/2000, de 4 de Julho."
+  },
+  "938645679": {
+   "fragment_id": "938630816",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "938645680": {
+   "fragment_id": "938630817",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Nuno Albuquerque Morais Sarmento - José David Gomes Justino - António José de Castro Bagão Félix.\n\nPromulgado em 17 de Outubro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Novembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "938645709": {
+   "fragment_id": "938630802",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\n1 - É criado, na directa dependência do Primeiro-Ministro, o Alto-Comissariado para a Imigração e Minorias Étnicas, abreviadamente designado por Alto-Comissariado, com o carácter de serviço de coordenação, de acordo com o definido na alínea c) do n.º 2 do artigo 11.º da Lei n.º 4/2004, de 15 de Janeiro, e de natureza interministerial.\n\n2 - O Alto-Comissariado tem como missão promover a integração dos imigrantes e minorias étnicas na sociedade portuguesa, assegurar a participação e a colaboração das associações representativas dos imigrantes, parceiros sociais e instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão, assim como acompanhar a aplicação dos instrumentos legais de prevenção e proibição das discriminações no exercício de direitos por motivos baseados na raça, cor, nacionalidade ou origem étnica.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645710": {
+   "fragment_id": "938630803",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do Alto-Comissariado:\n\na) Promover o diálogo com entidades representativas de imigrantes ou minorias étnicas em Portugal;\n\nb) Promover o conhecimento e a aceitação da língua, das leis e dos valores morais e culturais da Nação Portuguesa, por parte dos imigrantes, como condições de uma plena integração;\n\nc) Contribuir para a melhoria das condições de vida dos imigrantes em Portugal, de modo que seja proporcionada a sua integração na sociedade, no respeito pela sua identidade social e cultural;\n\nd) Combater o racismo e a xenofobia e eliminar discriminações em função da raça, etnia ou nacionalidade;\n\ne) Contribuir para que todos os cidadãos legalmente residentes ou autorizados a permanecer em Portugal gozem de dignidade e de oportunidades idênticas;\n\nf) Promover o estudo da temática da inserção e das minorias étnicas, em colaboração com os parceiros sociais, as instituições de solidariedade social e outras entidades públicas ou privadas com intervenção neste domínio;\n\ng) Cooperar e coordenar acções conjuntas com os diversos serviços da Administração Pública competentes em razão da matéria relativa à entrada, saída e permanência de cidadãos estrangeiros em Portugal, com respeito pelas respectivas competências e pelas dos membros do Governo especificamente encarregados destas matérias;\n\nh) Colaborar na definição e cooperar na dinamização de políticas activas de integração social e de combate à exclusão, estimulando uma acção transversal interdepartamental junto dos serviços da Administração Pública, dos departamentos governamentais com intervenção no sector e, em especial, das autarquias locais;\n\ni) Propor medidas, designadamente de índole normativa, de apoio aos imigrantes e às minorias étnicas.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645711": {
+   "fragment_id": "938630804",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\nIntegram o Alto-Comissariado:\n\na) O alto-comissário e o alto-comissário-adjunto;\n\nb) Os centros de apoio ao imigrante;\n\nc) O Conselho Consultivo para os Assuntos da Imigração;\n\nd) A Comissão para a Igualdade e contra a Discriminação Racial.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645712": {
+   "fragment_id": "938630805",
+   "type": 11,
+   "heading": "Artigo 4.º — Alto-comissário",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 4.º — Alto-comissário\n\n1 - Ao alto-comissário compete:\n\na) Dirigir a actividade do Alto-Comissariado, no âmbito das suas atribuições;\n\nb) Representar o Alto-Comissariado, nacional e internacionalmente;\n\nc) Dirigir a actividade dos centros de apoio ao imigrante;\n\nd) Coordenar e presidir ao Conselho Consultivo para os Assuntos da Imigração;\n\ne) Presidir e coordenar a Comissão para a Igualdade e contra a Discriminação Racial;\n\nf) Autorizar despesas nos termos da alínea d) do n.º 1 e da alínea e) do n.º 3, ambos do artigo 7.º da Lei n.º 2/2004, de 15 de Janeiro, e da alínea a) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, ou da competência que lhe seja delegada pelo Primeiro-Ministro;\n\ng) Exercer as demais competências que lhe sejam conferidas ou delegadas nos termos da lei.\n\n2 - O alto-comissário é nomeado e exonerado pelo Primeiro-Ministro, com um mandato de três anos.\n\n3 - O alto-comissário usufrui do estatuto remuneratório e dispõe de gabinete equivalentes aos de subsecretário de Estado.\n\n4 - É aplicável ao gabinete do alto-comissário o disposto no Decreto-Lei n.º 262/88, de 23 de Julho, e demais legislação aplicável aos gabinetes dos membros do Governo.\n\n5 - O alto-comissário é coadjuvado por um alto-comissário-adjunto, nomeado e exonerado pelo Primeiro-Ministro, sob proposta do alto-comissário, por um período coincidente com o do mandato do alto-comissário, sendo equiparado, para efeitos remuneratórios, a director-geral.\n\n6 - O alto-comissário-adjunto desempenha as funções que lhe sejam delegadas pelo alto-comissário e substitui-o nas suas faltas e impedimentos.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645713": {
+   "fragment_id": "938630847",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Centros de apoio ao imigrante",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 4.º-A — Centros de apoio ao imigrante\n\n1 - Os centros de apoio ao imigrante são unidades orgânicas de acolhimento, informação e atendimento de cidadãos imigrantes adequadas a facilitar a relação dos utentes com os diversos serviços da Administração Pública.\n\n2 - Os centros de apoio ao imigrante integram uma unidade orgânica nuclear constituída pelo Centro Nacional de Apoio ao Imigrante, adiante designado por CNAI, e unidades orgânicas flexíveis constituídas pelos centros locais de apoio ao imigrante, adiante designados por CLAI, que visam assegurar a cobertura dos locais onde se verifique uma maior necessidade de informação dos cidadãos imigrantes.\n\n3 - O CNAI constitui uma oferta de serviços de interesse público em condições de qualidade, celeridade, comodidade e conforto, baseada na parceria e cooperação entre o Alto-Comissariado e os diferentes serviços da Administração Pública e demais entidades públicas e privadas, especialmente dirigidos à população imigrante em Portugal.\n\n4 - O funcionamento do CNAI será assegurado por uma estrutura nuclear, a ser aprovada de acordo com o disposto no n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro, e por mediadores sócio-culturais recrutados ao abrigo da Lei n.º 105/2001, de 31 de Agosto.\n\n5 - A relação entre o Alto-Comissariado e as instituições parceiras, públicas e privadas, que participem no CNAI é regulada por protocolos de cooperação, nos quais se especificam os serviços a prestar por cada instituição parceira e as respectivas condições particulares de participação.\n\n6 - Os CLAI constituem uma rede de postos de atendimento e informação que visa o esclarecimento dos cidadãos imigrantes no tratamento de matérias relacionadas com a sua permanência em território nacional.\n\n7 - A instalação e o funcionamento dos CLAI são assegurados através de protocolos anuais a celebrar com autarquias locais, com associações de imigrantes legalmente reconhecidas pelo Alto-Comissariado ou com entidades, públicas ou privadas, com actividade na área do acolhimento e integração de imigrantes, com recurso ao recrutamento de mediadores sócio-culturais ao abrigo da Lei n.º 105/2001, de 31 de Agosto.\n\n8 - A instalação e o funcionamento dos CLAI dependem de verba inscrita para o efeito na dotação orçamental do Alto-Comissariado, devendo o seu número e localização ser anualmente aprovados pelo alto-comissário, no limite máximo de 80 unidades.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645714": {
+   "fragment_id": "938630806",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho Consultivo",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho Consultivo\n\n1 - O Conselho Consultivo para os Assuntos da Imigração, adiante designado por Conselho Consultivo, visa assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais e das instituições de solidariedade social na definição das políticas de integração social e de combate à exclusão.\n\n2 - O Conselho Consultivo é composto por:\n\na) O alto-comissário, que preside;\n\nb) O alto-comissário-adjunto;\n\nc) Um representante de cada uma das comunidades imigrantes dos países de língua portuguesa, que serão designados pelas federações e associações respectivas, desde que a representatividade destas seja reconhecida pelo Alto-Comissariado;\n\nd) Um representante de cada uma das três comunidades de imigrantes mais numerosas não incluídas na alínea anterior, designados pelas respectivas associações ou federações, desde que a representatividade destas seja reconhecida pelo Alto-Comissariado;\n\ne) Um representante das instituições particulares de solidariedade social (IPSS);\n\nf) Dois representantes das instituições que trabalhem com imigrantes, designados pelo alto-comissário;\n\ng) Dois representantes das associações patronais e dois representantes das centrais sindicais com assento no Conselho Económico e Social;\n\nh) Dois cidadãos de reconhecido mérito, designados pelo alto-comissário;\n\ni) Um representante do membro do Governo que tutela os assuntos relativos à emigração e comunidades portuguesas;\n\nj) Um representante do Ministro de Estado, das Actividades Económicas e do Trabalho;\n\nl) Um representante do Ministro da Administração Interna;\n\nm) Um representante do Ministro da Educação;\n\nn) Um representante do Ministro da Segurança Social, da Família e da Criança;\n\no) Um representante do Governo Regional dos Açores;\n\np) Um representante do Governo Regional da Madeira;\n\nq) Um representante da Associação Nacional de Municípios Portugueses.\n\n3 - As instituições, associações e comunidades representadas no Conselho Consultivo designam um membro efectivo e um suplente.\n\n4 - Compete ao Conselho Consultivo, por iniciativa própria ou sempre que para tal solicitado pelo alto-comissário:\n\na) Pronunciar-se sobre os projectos de diploma relativos aos direitos dos imigrantes;\n\nb) Participar na definição das políticas de integração social que visem a eliminação das discriminações e promovam a igualdade;\n\nc) Participar na definição de medidas e acções que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução;\n\nd) Participar na defesa dos direitos dos imigrantes com respeito pela sua identidade e cultura, formulando propostas com vista à sua promoção;\n\ne) Exercer outras competências que lhe sejam atribuídas por lei.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645715": {
+   "fragment_id": "938630807",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento do Conselho Consultivo",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 6.º — Funcionamento do Conselho Consultivo\n\n1 - O Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente.\n\n2 - O mandato dos membros do Conselho Consultivo tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou.\n\n3 - O Conselho Consultivo aprova o seu regimento interno.\n\n4 - Podem participar nas reuniões do Conselho Consultivo, a pedido do seu presidente, representantes e técnicos de departamentos governamentais ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam relevantes para a actividade do Conselho Consultivo.\n\n5 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à percepção de senhas de presença.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939) A alteração produzida pelo Decreto-Lei n.º 27/2005 ao presente artigo não prejudica o anteriormente estabelecido para a duração dos mandatos dos membros do Conselho Consultivo para os Assuntos da Imigração e da Comissão para a Igualdade e contra a Discriminação Racial, até ao termo dos mesmos.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645716": {
+   "fragment_id": "938630808",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão para a Igualdade e contra a Discriminação Racial\n\n1 - A Comissão para a Igualdade e contra a Discriminação Racial tem as atribuições e competências que lhe estão conferidas na Lei n.º 134/99, de 28 de Agosto, e no Decreto-Lei n.º 111/2000, de 4 de Julho.\n\n2 - O mandato dos membros da Comissão para a Igualdade e contra a Discriminação Racial tem a duração de três anos, renovável por iguais períodos, e cessa sempre que se verifique a perda de qualidade de representante da entidade que os designou ou elegeu.\n\n3 - Os representantes das comissões referidas nos artigos 6.º e 7.º da Lei n.º 134/99, de 28 de Agosto, exercem as suas funções a título gratuito.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/2005 - Diário da República n.º 25/2005, Série I-A de 2005-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2005-618939), em vigor a partir de 2005-02-09"
+  },
+  "938645717": {
+   "fragment_id": "938630809",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio técnico e equipas de projecto",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Apoio técnico e equipas de projecto\n\n1 - O Alto-Comissariado dispõe, para desenvolvimento das suas actividades, de uma equipa de apoio técnico constituída por pessoal a recrutar por recurso aos instrumentos de mobilidade previstos na lei, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 4.º do presente diploma legal, no que se refere à realização de estudos e à execução de projectos previamente aprovados pelo Primeiro-Ministro.\n\n2 - Na dependência do Alto-Comissariado, podem ser criadas, mediante autorização prévia do Primeiro-Ministro e do Ministro das Finanças, equipas de projecto para a prossecução das atribuições do Alto-Comissariado, celebrando-se, para o efeito, contratos de prestação de serviços com técnicos ou especialistas nos vários domínios de intervenção do Alto-Comissariado, os quais caducam automaticamente no termo do projecto, sem qualquer indemnização.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645718": {
+   "fragment_id": "938630810",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio administrativo e logístico",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 9.º — Apoio administrativo e logístico\n\nO apoio geral, administrativo e logístico indispensável ao funcionamento do Alto-Comissariado é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645719": {
+   "fragment_id": "938630811",
+   "type": 11,
+   "heading": "Artigo 10.º — Colaboração dos serviços públicos",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Colaboração dos serviços públicos\n\nOs serviços da Administração Pública com responsabilidades nas áreas de atribuição do Alto-Comissariado prestam a colaboração por ele solicitada e dão sequência às suas iniciativas.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645720": {
+   "fragment_id": "938630812",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — Financiamento\n\n1 - A dotação orçamental do Alto-Comissariado constará de verba inscrita no orçamento da Presidência do Conselho de Ministros.\n\n2 - Os donativos, subsídios e comparticipações concedidos por quaisquer pessoas, singulares ou colectivas, a favor do Alto-Comissariado ficam afectos à prossecução das suas atribuições.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645721": {
+   "fragment_id": "938630813",
+   "type": 11,
+   "heading": "Artigo 12.º — Delegação de competências",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Delegação de competências\n\nTodas as competências cometidas ao Primeiro-Ministro pelo presente diploma são delegáveis, com faculdade de subdelegação, nos termos da lei.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645722": {
+   "fragment_id": "938630814",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\n1 - Todas as referências legais e contratuais ao alto-comissário para a Imigração e Minorias Étnicas consideram-se, com as necessárias adaptações, feitas ao Alto-Comissariado para a Imigração e Minorias Étnicas, excepto aquelas que, por natureza, sejam indissociáveis do exercício pessoal do cargo, caso em que devem considerar-se feitas ao alto-comissário, nos termos do presente diploma.\n\n2 - No prazo de 60 dias após a publicação do presente diploma, as entidades com assento no Conselho Consultivo para os Assuntos da Imigração indicarão os seus representantes para o primeiro mandato.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645723": {
+   "fragment_id": "938630815",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 3-A/96, de 26 de Janeiro, o Decreto-Lei n.º 39/98, de 27 de Fevereiro, e o artigo 11.º do Decreto-Lei n.º 111/2000, de 4 de Julho.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645724": {
+   "fragment_id": "938630816",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  },
+  "938645725": {
+   "fragment_id": "938630817",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Nuno Albuquerque Morais Sarmento - José David Gomes Justino - António José de Castro Bagão Félix.\n\nPromulgado em 17 de Outubro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Novembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 167/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2007-521254), em vigor a partir de 2007-06-01"
+  }
+ }
+}

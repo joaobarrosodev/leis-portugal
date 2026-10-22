@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:412069:por
+title: Portaria n.º 236/74
+short_title: null
+summary: Substitui o mapa II anexo à Portaria n.º 347/71, de 29 de Junho, relativo aos vencimentos do pessoal da lotação das
+  Oficinas Navais de S. Vicente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho e Ministérios das Finanças e da Coordenação Económica e da Marinha
+proposing_entity: null
+official_number: 236/74
+official_date: null
+publication_date: '1974-04-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 77/1974, Série I de 1974-04-01
+  number: '77'
+  series: I
+  supplement: null
+  pages: 423 - 424
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/04/07700/04230424.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '412069'
+  dre_path: /dr/detalhe/portaria/236-1974-412069
+  internal: pt:dre:412069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-1974-412069
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-1974-412069
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-04-01T00:00:00Z'
+integrity:
+  source_sha256: 7775f5f39460d2f9b8390058a9e652574fae7096fe9fafecd4a4d0335dff2722
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-236-412069.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 236/74
+
+de 1 de Abril
+
+Tornando-se necessário proceder à actualização dos vencimentos do pessoal permanente das Oficinas Navais de S. Vicente (ONSV) fixados pela [Portaria n.º 347/71](https://diariodarepublica.pt/dr/detalhe/portaria/347-1971-643558), de 29 de Junho, à semelhança do que foi feito para a generalidade do pessoal militar em serviço no ultramar e dos servidores civis do Estado nas províncias ultramarinas, na sequência da publicação do [Decreto-Lei n.º 76/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1973-383779), de 1 de Março;
+
+Reconhecendo-se a necessidade de prorrogar o carácter provisório da lotação do pessoal permanente daquelas Oficinas Navais e da correspondente tabela de vencimentos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças e da Coordenação Económica e da Marinha, ao abrigo do disposto no artigo 9.º do [Decreto-Lei n.º 48193](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48193-1968-241068), de 4 de Janeiro de 1968, o seguinte:
+
+1.º O mapa II (vencimentos do pessoal da lotação das ONSV, anexo à [Portaria n.º 347/71](https://diariodarepublica.pt/dr/detalhe/portaria/347-1971-643558), de 29 de Junho de 1971, é substituído pelo mapa com a mesma designação anexo a esta portaria.
+
+2.º O abono dos novos vencimentos é devido a contar de 1 de Outubro de 1973.
+
+3.º É prorrogada até 31 de Dezembro de 1974 a vigência da lotação do pessoal permanente das ONSV e da correspondente tabela de vencimentos aprovada pela [Portaria n.º 347/71](https://diariodarepublica.pt/dr/detalhe/portaria/347-1971-643558), de 29 de Junho, com a alteração produzida por esta portaria.
+
+Presidência do Conselho e Ministérios das Finanças e da Coordenação Económica e da Marinha, 23 de Março de 1974. - O Ministro da Defesa Nacional, Joaquim Moreira da Silva Cunha. - O Ministro das Finanças e da Coordenação Económica, Manuel Artur Cotta Agostinho Dias. - O Ministro da Marinha, Manuel Pereira Crespo.
+
+MAPA II
+
+Vencimentos do pessoal da lotação das Oficinas Navais de S. Vicente
+
+A) Director ... (ver nota a)
+
+B) Pessoal técnico e administrativo (vencimento mensal):
+
+Chefe do serviço de abastecimento ... 16100$00
+
+Chefe dos serviços fabris ... 14720$00
+
+Adjunto do chefe dos serviços fabris ... 11730$00
+
+Encarregados ... 10465$00
+
+Chefe de escritório ... 8970$00
+
+Adjunto de contabilista ... 3910$00
+
+Fiel de armazém ... 3910$00
+
+Orçamentista ... 3910$00
+
+Apontadores de 1.ª classe ... 3910$00
+
+Apontadores de 2.ª classe ... 3220$00
+
+Apontadores de 3.ª classe ... 2645$00
+
+Escriturários de 2.ª classe ... 3220$00
+
+Escriturários de 3.ª classe ... 2645$00
+
+Ajudantes de desenhador ... 3220$00
+
+Adjunto de tesoureiro ... 2645$00
+
+Ajudante de fiel ... 2300$00
+
+Dactilógrafos ... 1725$00
+
+Guardas de 2.ª classe ... 2530$00
+
+Guardas de 3.ª classe ... 1955$00
+
+Condutores de viaturas ... 2530$00
+
+Ajudantes de condutores de viaturas ... 1400$00
+
+C) Pessoal fabril (salário diário):
+
+Operários especiais ... De 230$00 a 138$00
+
+Operários de 1.ª classe ... De 110$00 a 87$00
+
+Operários de 2.ª classe ... De 85$00 a 75$00
+
+Operários de 3.ª classe ... De 74$00 a 64$00
+
+Ajudantes de 1.ª classe ... De 58$00 a 49$00
+
+Ajudantes de 2.ª classe ... De 48$00 a 39$00
+
+Ajudantes de 3.ª classe ... De 38$00 a 28$00
+
+Aprendizes de 1.ª classe ... 43$00
+
+Aprendizes de 2.ª classe ... 33$00
+
+Aprendizes de 3.ª classe ... De 28$00 a 18$00
+
+Serventes ... De 53$00 a 28$00
+
+(nota a) Conforme o artigo 13.º do [Decreto-Lei n.º 48193](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48193-1968-241068).
+
+**O Ministro da Defesa Nacional, Joaquim Moreira da Silva Cunha. - O Ministro das Finanças e da Coordenação Económica, Manuel Artur Cotta Agostinho Dias. - O Ministro da Marinha, Manuel Pereira Crespo.**

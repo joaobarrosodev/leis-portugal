@@ -1,0 +1,237 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629137:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156249819",
+ "dre_path": "/dr/detalhe/decreto-lei/350-2007-629137",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156251676",
+    "156251677",
+    "156251678",
+    "156251679",
+    "156251680",
+    "156251681",
+    "156251682",
+    "156251683",
+    "156251684",
+    "156251685",
+    "156251686",
+    "156251687",
+    "156251688",
+    "156251689",
+    "156251690",
+    "156251691"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "156251676",
+    "156251677",
+    "156251678",
+    "156251679",
+    "156251680",
+    "156251681",
+    "156251682",
+    "156251683",
+    "156251693",
+    "156251685",
+    "156251694",
+    "156251695",
+    "156251688",
+    "156251689",
+    "156251690",
+    "156251691",
+    "156251692"
+   ]
+  }
+ ],
+ "fragments": {
+  "156251676": {
+   "fragment_id": "156249820",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 350/2007\n\nde 19 de Outubro\n\nO quadro legal em vigor relativo à produção e comercialização de sal, para além de desactualizado, encontra-se disperso, não respondendo às preocupações que vêm sendo manifestadas pelos agentes económicos interessados ou, tão pouco, indo ao encontro das necessidades dos consumidores.\n\nPor outro lado, impõe-se reconhecer que o nosso país possui excelentes condições naturais e ambientais, nalgumas das zonas, para a produção de sal de elevada qualidade e que se pretende venha a ser valorizado.\n\nNeste contexto, considera-se imperativo criar um novo quadro legal relativo à produção e comercialização do sal destinado a fins alimentares, remetendo para portaria a respectiva regulamentação dos aspectos técnicos, sem prejuízo do cumprimento das normas gerais em matéria de higiene, rastreabilidade e de rotulagem, a que estão sujeitos os géneros alimentícios.\n\nFoi observado o procedimento de informação no domínio das normas e regras técnicas previsto no Decreto-Lei n.º 58/2000, de 18 de Abril, que transpõe a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156251677": {
+   "fragment_id": "156249821",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente decreto-lei estabelece as normas relativas à produção e comercialização do sal destinado a fins alimentares, doravante designado por sal alimentar.\n\n2 - O sal alimentar, a que se refere o número anterior, destina-se apenas a consumo na alimentação humana, às indústrias alimentares ou a matéria-prima de indústrias higienizadoras ou transformadoras de sal para fins alimentares."
+  },
+  "156251678": {
+   "fragment_id": "156249822",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\nPara efeitos do presente decreto-lei e respectiva regulamentação, entende-se por «sal alimentar» o produto cristalino de extracção no estado natural (tal qual) ou tratado, essencialmente constituído por cloreto de sódio, num mínimo de 90 % do produto seco."
+  },
+  "156251679": {
+   "fragment_id": "156249823",
+   "type": 11,
+   "heading": "Artigo 3.º — Formas e tipos de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formas e tipos de comercialização\n\n1 - O sal alimentar pode ser comercializado na forma de sal tal qual, ou seja, no estado do produto que resulta directamente do processo de evaporação natural da água do mar ou de soluções aquosas de sal-gema (naturais ou artificiais), ou da mineração convencional de formações cristalinas de sal-gema, ou na forma de sal tratado, quando tenha sido submetido, após a sua extracção, a adequado tratamento industrial.\n\n2 - Para efeitos do disposto no número anterior, não se consideram como tratamento industrial as operações manuais de lavagem do produto com as salmouras de origem no acto da colheita do sal nos reservatórios de cristalização, as operações de secagem natural à temperatura ambiente e através do calor solar e acção do vento, as operações de moagem que não modifiquem a estrutura do produto e, bem assim, as de crivagem ou peneiração.\n\n3 - Quer o sal tal qual quer o sal tratado, podem ser classificados em diferentes tipos comerciais, de acordo com as normas regulamentares publicadas em execução do presente decreto-lei."
+  },
+  "156251680": {
+   "fragment_id": "156249824",
+   "type": 11,
+   "heading": "Artigo 4.º — Sal tal qual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sal tal qual\n\nO sal tal qual compreende os seguintes tipos:\n\na) O sal marinho;\n\nb) O sal de fontes salinas;\n\nc) O sal-gema."
+  },
+  "156251681": {
+   "fragment_id": "156249825",
+   "type": 11,
+   "heading": "Artigo 5.º — Sal tratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sal tratado\n\n1 - O sal tratado compreende os seguintes tipos:\n\na) O sal purificado ou higienizado;\n\nb) O sal refinado;\n\nc) O sal de mesa;\n\nd) O sal iodado;\n\ne) O cloreto de sódio, definido na Farmacopeia Portuguesa.\n\n2 - Podem ser introduzidos no mercado outros tipos de sal tratado, nomeadamente sal fluorado, sal nitritado, sal nitrado ou outros, nos termos a aprovar por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "156251682": {
+   "fragment_id": "156249826",
+   "type": 11,
+   "heading": "Artigo 6.º — Sal aromatizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sal aromatizado\n\nAos vários tipos de sal destinados a consumo na alimentação humana, podem ser adicionados produtos hortícolas secos, especiarias, plantas aromáticas e medicinais e aromas vários, cuja rotulagem deve estar em conformidade com a legislação aplicável."
+  },
+  "156251683": {
+   "fragment_id": "156249827",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente decreto-lei e respectiva regulamentação compete à Autoridade de Segurança Alimentar e Económica (ASAE)."
+  },
+  "156251684": {
+   "fragment_id": "156249828",
+   "type": 11,
+   "heading": "Artigo 8.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, nos montantes mínimo de (euro) 99,76 e máximo de (euro) 3740,98 ou de (euro) 44 891,81, consoante o agente seja pessoa singular ou colectiva:\n\na) A produção ou comercialização de sal alimentar com desrespeito do disposto nos artigos 3.º a 6.º;\n\nb) A produção ou comercialização de sal alimentar em infracção ao disposto nas normas técnicas que definem as características e as condições a observar na sua produção, valorização e comercialização, publicadas em portaria nos termos do artigo 13.º;\n\nc) A produção ou comercialização de sal alimentar com menções relativas à sua origem geográfica ou ao seu modo de produção, sem que se haja procedido ao respectivo registo, nos termos das normas técnicas a publicar em portaria nos termos do artigo 13.º\n\n2 - A tentativa e a negligência são puníveis, sendo reduzidos a metade os montantes das coimas referidos no número anterior."
+  },
+  "156251685": {
+   "fragment_id": "156249829",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\n1 - Simultaneamente com a coima, podem ser aplicadas uma ou mais das sanções acessórias a seguir referidas, em função da gravidade da infracção e da culpa do agente:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Privação do direito a subsídios ou benefício outorgado por entidades ou serviços públicos;\n\nc) Privação do direito de participar em feiras ou mercados;\n\nd) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ne) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a e) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "156251686": {
+   "fragment_id": "156249830",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução dos processos de contra-ordenação e aplicação das coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrução dos processos de contra-ordenação e aplicação das coimas e sanções acessórias\n\n1 - O levantamento dos autos de notícia e a instrução dos processos de contra-ordenação são da competência da ASAE.\n\n2 - Compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) a aplicação das coimas e sanções acessórias."
+  },
+  "156251687": {
+   "fragment_id": "156249831",
+   "type": 11,
+   "heading": "Artigo 11.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Afectação do produto das coimas\n\nO produto das coimas é repartido da seguinte forma:\n\na) 60 % para os cofres do Estado;\n\nb) 30 % para a ASAE;\n\nc) 10 % para a CACMEP."
+  },
+  "156251688": {
+   "fragment_id": "156249832",
+   "type": 11,
+   "heading": "Artigo 12.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira, as competências a que se referem os artigos 7.º e 10.º são exercidas pelos serviços competentes dos organismos das respectivas administrações regionais.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "156251689": {
+   "fragment_id": "156249833",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação posterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação posterior\n\nAs normas técnicas, as características e as condições a observar na produção, valorização e comercialização do sal alimentar são fixadas por portaria conjunta dos Ministros da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, a aprovar no prazo de 60 dias a contar da entrada em vigor do presente decreto-lei."
+  },
+  "156251690": {
+   "fragment_id": "156249834",
+   "type": 11,
+   "heading": "Artigo 14.º — Reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reconhecimento mútuo\n\nO disposto no presente decreto-lei e respectiva regulamentação aplica-se, sem prejuízo da livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados-membros da União Europeia ou que sejam originários dos países da EFTA, que são partes contratantes do Acordo EEE - Acordo sobre o Espaço Económico Europeu, incluindo os produtos legalmente fabricados ou comercializados na Turquia, na medida em que tais produtos não acarretem um risco para a saúde ou a vida das pessoas, nos termos do artigo 30.º do <a href=\"eurlex/ec_cons_treaty_pt.asp\">Tratado CE</a> e do artigo 13.º do Acordo EEE."
+  },
+  "156251691": {
+   "fragment_id": "156249835",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto-Lei n.º 87/96, de 3 de Julho;\n\nb) A Portaria n.º 20 400, de 28 de Fevereiro de 1964;\n\nc) A Portaria n.º 404/73, de 8 de Junho.\n\n2 - Enquanto não forem publicadas, por portaria, as normas a que se refere o artigo 13.º, mantêm-se em vigor, em relação às respectivas matérias, os diplomas referidos no número anterior."
+  },
+  "156251693": {
+   "fragment_id": "156249828",
+   "type": 11,
+   "heading": "Artigo 8.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A produção ou comercialização de sal alimentar com desrespeito do disposto nos artigos 3.º a 6.º;\n\nb) A produção ou comercialização de sal alimentar em infracção ao disposto nas normas técnicas que definem as características e as condições a observar na sua produção, valorização e comercialização, publicadas em portaria nos termos do artigo 13.º;\n\nc) A produção ou comercialização de sal alimentar com menções relativas à sua origem geográfica ou ao seu modo de produção, sem que se haja procedido ao respectivo registo, nos termos das normas técnicas a publicar em portaria nos termos do artigo 13.º\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156251694": {
+   "fragment_id": "156249830",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução dos processos de contra-ordenação e aplicação das coimas e sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Instrução dos processos de contra-ordenação e aplicação das coimas e sanções acessórias\n\n1 - O levantamento dos autos de notícia e a instrução dos processos de contra-ordenação são da competência da ASAE.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156251695": {
+   "fragment_id": "156249831",
+   "type": 11,
+   "heading": "Artigo 11.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156251692": {
+   "fragment_id": "156249836",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.\n\nPromulgado em 4 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 8 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

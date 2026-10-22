@@ -1,0 +1,197 @@
+---
+schema_version: '1.0'
+id: pt:dre:66397930:por
+title: Resolução n.º 7-B/2015
+short_title: null
+summary: Nomeia os membros do conselho de administração da Unidade Local de Saúde da Guarda, E. P. E
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 7-B/2015
+official_date: null
+publication_date: '2015-02-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2015, 1º Suplemento, Série II de 2015-02-02
+  number: '22'
+  series: II
+  supplement: 1º Suplemento
+  pages: 3124-(2) a 3124-(3)
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/02/022000001/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '66397930'
+  dre_path: /dr/detalhe/resolucao/7-b-2015-66397930
+  internal: pt:dre:66397930:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-b-2015-66397930
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-b-2015-66397930
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-02-02T00:00:00Z'
+integrity:
+  source_sha256: fc48e7b54cabe9585c04ca00772a4cc45b657aa863f2a6c34067701371eaa2c0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2015/DRE-2015-7-B-66397930.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 7-B/2015
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos constantes do anexo iii ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração da Unidade Local de Saúde da Guarda, E. P. E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração da Unidade Local de Saúde da Guarda, E. P. E., cessaram o respetivo mandato em 31 de dezembro de 2014, torna-se necessário proceder à nomeação dos membros deste órgão de administração, assegurando-se a continuidade de funções de três dos atuais membros deste órgão.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo iii ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, dos n.os 2 e 3 do artigo 13.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta da Ministra de Estado e das Finanças e do Ministro da Saúde, Carlos Manuel da Silva Rodrigues, Flora Maria de Moura Teixeira da Silva, Luís António Vicente Gil Barreiros (diretor clínico) e João Bernardo Rebelo Marques (enfermeiro diretor), respetivamente, para os cargos de presidente e de vogais executivos do conselho de administração da Unidade Local de Saúde da Guarda, E. P. E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar o nomeado, Carlos Manuel Silva Rodrigues aposentado, a exercer funções públicas nos termos do n.º 1 do artigo 78.º e do artigo 79.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de dezembro.
+
+3 - Autorizar o nomeado Luís António Vicente Gil Barreiros a optar pelo vencimento do lugar de origem, nos termos do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro.
+
+4 - Autorizar a nomeada Flora Maria de Moura Teixeira da Silva a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+5 - Determinar que a presente resolução produz efeitos no dia 1 de fevereiro.
+
+29 de janeiro de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares
+
+Carlos Manuel da Silva Rodrigues, nasceu a 25 de abril de 1951, em Caldas da Rainha.
+
+É licenciado em Gestão e Administração Pública, pela Universidade Técnica de Lisboa, possui um mestrado em Gestão de Recursos Humanos pelo ISCTE - Instituto Universitário de Lisboa e é doutorado em Gestão pelo ISCTE - Business School.
+
+Desenvolveu atividade profissional no Ministério da Agricultura, Pescas e Alimentação, entre 1980-1995, tendo assumido várias funções, designadamente Técnico Superior; Diretor de Serviços; Subdiretor-Geral; Chefe de Gabinete do Secretário de Estado da Agricultura.
+
+No período 1996-1997 desempenhou o cargo de Diretor de Organização e Recursos Humanos na Empresa Lactogal - Porto. Nesta qualidade participou nos trabalhos de fusão de três empresas (Agros, Proleite e Lacticoop) que deram origem à Lactogal.
+
+Durante o ano de 1997-1998 foi assessor da Presidência da Fundação para a Ciência e Tecnologia. Paralelamente, exerceu a docência da unidade curricular de Marketing Público, no ISCAL - Instituto Superior de Contabilidade e Administração de Lisboa.
+
+Nos anos 1999-2003 exerceu as funções de Vice-Presidente do Instituto do Cinema, Audiovisual e Multimédia - Ministério da Cultura. Em acumulação foi docente do Ensino Superior, tendo lecionado várias unidades curriculares (gestão pública, gestão da qualidade, gestão de recursos humanos).
+
+Durante os anos de 2004-2006 exerceu sucessivamente as funções de Chefe de Gabinete do Ministro das Cidades, Ambiente e Desenvolvimento; Chefe de Gabinete do Secretário de Estado da Agricultura e Alimentação; Subdiretor-Geral, no Ministério da Educação.
+
+A partir de 2007, passou a dedicar-se em tempo integral como professor universitário e investigador nas áreas da gestão estratégica, governação empresarial e gestão de recursos humanos. Desde 2010 coordena a licenciatura em gestão em saúde, na Universidade Atlântica.
+
+Flora Maria de Moura Teixeira da Silva, natural do Concelho de Castelo de Paiva.
+
+Doutorada em Ciências da Educação, pela Universidade de Santiago de Compostela.
+
+Pós-graduação em Administração Pública, Universidade do Minho-Braga (1995).
+
+Licenciatura em Gestão de Recursos Humanos, ISLA-Vila Nova de Gaia (1990).
+
+Vogal Executiva do CA da ULS da Guarda, EPE (desde 2012).
+
+Gestora do Projeto SINAS na Entidade Reguladora da Saúde (2008 a 2012).
+
+Coordenadora do grupo de trabalho sobre SIADAP na ARS-Norte (2006 a 2008).
+
+Gestora da Delegação Regional do Norte do INEM (2004 a 2006).
+
+Chefe do Serviço de Aprovisionamento na ARS-Norte (2003 a 2004).
+
+Diretora de Serviços no Hospital de São João-Porto (1999 a 2003).
+
+Assessora do Vogal Financeiro do CA e Chefe da Repartição Administrativa da ARS-Norte (1996 a 1998).
+
+Professora na Universidade Fernando Pessoa, do Porto, no curso de pós-graduação em Economia e Gestão dos Serviços de Saúde (2008-2009).
+
+Professora na Universidade Lusíada, do Porto, no curso de Economia e de Gestão de Recursos Humanos (desde 1996).
+
+Professora no Instituto Superior Politécnico Gaia, Vila Nova de Gaia, da disciplina de Sociologia das Organizações, no curso de Gestão Autárquica (1995-1996).
+
+Auditora certificada, realização e desenvolvimento de auditorias nos hospitais públicos, privados e sociais, no âmbito do Projeto SINAS (desde 2011).
+
+Formadora profissional certificada, monitorização de formação profissional em vários hospitais públicos e empresas de consultoria (desde 1999).
+
+Luís António Vicente Gil Barreiros, nasceu a 14/06/1952, na Covilhã.
+
+Licenciado em Medicina, pela Universidade de Coimbra. Médico Policlínico no Hospital Distrital da Guarda e Centro de Saúde da Guarda em 1980 e 1981. Serviço Médico à Periferia no concelho de Belmonte, em 1982. Médico da Carreira Médica de Clínica Geral desde 1 de fevereiro de 1983, no Concelho de Gouveia. Médico especialista em Medicina Geral e Familiar desde 3 de dezembro de 1992. Assistente Graduado Sénior de Medicina Geral e Familiar, após concurso público, desde 1997. Diretor do Centro de Saúde de Gouveia de 1987 a 1990, 2003 a 2006 e 2010 a 2012. Vogal Médico da Comissão Instaladora da Administração Regional de Saúde da Guarda de 1990 a 1993. Diretor de Serviços de Saúde da Sub-Região de Saúde da Guarda de fevereiro de 1994 a fevereiro de 1995. Coordenador da Sub-Região de Saúde da Guarda de março de 1995 a fevereiro de 1996. Coordenador da VMER Guarda de 2001 a 2003.
+
+Júri de concursos da Carreia Médica de Medicina Geral e Familiar durante vários anos.
+
+Orientador de Formação da Carreira Médica de Medicina Geral e Familiar até 2013.
+
+Vogal Executivo do Conselho de administração/Diretor Clínico para os Cuidados de Saúde Primários da Unidade Local de Saúde da Guarda desde dezembro de 2012.
+
+Integrou várias comissões distritais e nacionais: Comissão Distrital de Segurança Rodoviária 1992-1996. Comissão distrital de Luta contra a SIDA 1992-1996, Conselho Científico do Instituto de Clínica Geral da Zona Centro 1993-1996, Comissão sobre articulação dos Cuidados de Saúde Primários/Cuidados de Saúde Secundários nos Programas verticais de Saúde 1994-1996, Grupo de trabalho sobre reequipamentos dos Centros de Saúde (DGS) 1994-1996. Representante da ARS do Centro no Grupo de Trabalho do Plano Diretor do Hospital Distrital da Guarda 1995-1996. Presidente da Comissão Paritária da Sub-Região de Saúde da Guarda em 1995.
+
+Frequentou vários Cursos e Seminários, entre os quais: Articulação dos Cuidados de Saúde Primários com os Cuidados Hospitalares - 1991 e 1992. Seminário Luso-Espanhol «Monitorização da Qualidade em Programas de Saúde» - 1992. Seminário «Qualidade dos Cuidados de Saúde», nível 2 da DGS - 1995, Trabalho em Equipa, ULS Guarda - 2011, Plano Individual de Intervenção Interdisciplinar, ULS Guarda - 2011, «Equipas Multidisciplinares no tratamento do doente com diabetes» Universidade Católica de Lisboa - 2013. Healthcare Management Program (HMP) Universidade Católica de Lisboa - 2013. Gestão Operacional do SIADAP Médicos - CCA - 2013. Curso sobre «Estatuto Disciplinar», ULS Guarda - 2013. Curso «Gestão por Objetivos», ULS Guarda - 2013/2014. Health Management in Pratice, Universidade Católica do Porto/Associação Portuguesa de Economia da Saúde - 2014.
+
+João Bernardo Rebelo Marques, nasceu a 01/07/1964, no Concelho da Guarda.
+
+Licenciado em Enfermagem pela Escola Superior de Enfermagem Dr. Ângelo da Fonseca Coimbra.
+
+Enfermeiro Chefe no Hospital de Sousa Martins, desde 1998.
+
+Adjunto da Direção de Enfermagem no Hospital de Sousa Martins, em 2003.
+
+Presidente de Júri de Concursos para Enfermeiros Especialistas.
+
+Vogal efetivo em Concursos para Enfermeiro Especialista de Enfermagem Médico-Cirúrgica.
+
+Participação em Comissões de Análise/Escolha de Material e Equipamento.
+
+Participação em vários Grupos de Trabalho.
+
+Desempenha o cargo de enfermeiro diretor na ULS Guarda, desde 28 de novembro de 2012.
+
+Em colaboração com o Instituto Politécnico da Guarda, foi membro de Júri de Provas Públicas para Especialista, na área Enfermagem de Saúde Mental e Psiquiátrica.
+
+Colaborou como docente na Escola Superior de Enfermagem da Guarda.
+
+Colaborou com diferentes Escolas Superiores de Saúde, na articulação/concretização dos objetivos e metas preconizados para os diferentes campos de ensino clínico, orientando e avaliando discentes.
+
+Concluiu, com mérito o XIX - Programa de Alta Direção em Instituições de Saúde (PADIS), AESE, Coimbra, em colaboração com a Clínica Universitária de Navarra.

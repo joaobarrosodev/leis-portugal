@@ -1,0 +1,517 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114661387:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2018-114663876",
+ "dre_path": "/dr/detalhe/lei/3-2018-114661387",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-02-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902206107",
+    "114670776",
+    "114670777",
+    "114670778",
+    "114670779",
+    "114670780",
+    "114670781",
+    "114670782",
+    "114670783",
+    "114670784",
+    "114670785",
+    "114670786",
+    "114670787",
+    "114670788",
+    "114670789",
+    "114670790",
+    "114670791",
+    "114670792",
+    "114670793"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "114670775",
+    "114670776",
+    "114670777",
+    "114670778",
+    "114670779",
+    "114670780",
+    "114670781",
+    "114670782",
+    "114670783",
+    "114670784",
+    "114670785",
+    "155882659",
+    "155882660",
+    "155882661",
+    "155882662",
+    "114670790",
+    "114670791",
+    "114670792",
+    "114670793",
+    "114670794"
+   ]
+  },
+  {
+   "date": "2025-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:902120308:por",
+     "title": "Lei n.º 1/2025",
+     "published": "2025-01-06",
+     "dre_path": "/dr/detalhe/lei/1-2025-902120308"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "902206107",
+    "902206108",
+    "902206109",
+    "902206110",
+    "902206111",
+    "902206112",
+    "902206113",
+    "902206114",
+    "902206115",
+    "902206116",
+    "902206117",
+    "902206118",
+    "902206119",
+    "902206120",
+    "902206121",
+    "902206122",
+    "902206123",
+    "902206124",
+    "902206125",
+    "902206126"
+   ]
+  }
+ ],
+ "fragments": {
+  "902206107": {
+   "fragment_id": "114663877",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-01-11",
+   "changed_by": [],
+   "markdown": "Lei n.º 3/2018\n\nde 9 de fevereiro\n\nDefine o regime sancionatório aplicável ao desenvolvimento da atividade de financiamento colaborativo e procede à primeira alteração à Lei n.º 102/2015, de 24 de agosto, que aprova o regime jurídico do financiamento colaborativo.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "114670776": {
+   "fragment_id": "114663878",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114670777": {
+   "fragment_id": "114663879",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei define o regime sancionatório aplicável ao desenvolvimento das atividades de financiamento colaborativo de capital ou por empréstimo e através de donativo ou com recompensa, previstas na lei e na respetiva regulamentação.\n\n2 - A presente lei procede ainda à primeira alteração à Lei n.º 102/2015, de 24 de agosto, que aprova o regime jurídico do financiamento colaborativo."
+  },
+  "114670778": {
+   "fragment_id": "114663880",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridades competentes\n\n1 - Compete à Comissão do Mercado de Valores Mobiliários (CMVM) exercer, relativamente à atividade de financiamento colaborativo de capital ou por empréstimo, todos os poderes e prerrogativas que lhe são conferidos pelos respetivos estatutos, aprovados em anexo ao Decreto-Lei n.º 5/2015, de 8 de janeiro, e pelo Código dos Valores Mobiliários, nomeadamente os de regulação, supervisão e fiscalização, assim como os de averiguação de infrações, instrução processual e aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n2 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) exercer, relativamente à atividade de financiamento colaborativo através de donativo ou com recompensa, a fiscalização, a instrução processual e a aplicação de coimas e sanções acessórias no quadro desta atividade."
+  },
+  "114670779": {
+   "fragment_id": "114663881",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nOs ilícitos de mera ordenação social previstos na presente lei respeitam à violação dos deveres previstos no regime jurídico do financiamento colaborativo, aprovado pela Lei n.º 102/2015, de 24 de agosto, e respetiva regulamentação, bem como à violação de deveres previstos noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria."
+  },
+  "114670780": {
+   "fragment_id": "114663882",
+   "type": 1,
+   "heading": "Capítulo II — Regime sancionatório relativo à atividade de financiamento colaborativo de capital ou por empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime sancionatório relativo à atividade de financiamento colaborativo de capital ou por empréstimo"
+  },
+  "114670781": {
+   "fragment_id": "114663883",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos contraordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipos contraordenacionais\n\n1 - Constitui contraordenação muito grave, punível com coima entre (euro) 5000 e (euro) 1 000 000:\n\na) A realização de atos ou o exercício de atividades de financiamento colaborativo sem o respetivo registo junto da CMVM ou, havendo registo, fora do âmbito que dele resulta;\n\nb) A violação das sanções acessórias de interdição temporária de atividade ou de inibição do exercício de funções e de representação cominadas pela CMVM, sem prejuízo de ao facto poder caber sanção mais grave.\n\n2 - Constitui contraordenação grave, punível com coima entre (euro) 2500 e (euro) 500 000:\n\na) A violação das regras de prestação de informação;\n\nb) A prestação, comunicação ou divulgação, por qualquer meio, de informação que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão dessa prestação de informação;\n\nc) A violação das regras sobre a confidencialidade da informação recebida pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nd) A violação das regras de comunicação ou prestação de informação à CMVM ou a comunicação ou prestação de informação à CMVM que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão dessa prestação de informação;\n\ne) A não adoção ou redução a escrito pelas entidades gestoras da plataforma eletrónica de financiamento colaborativo das políticas e procedimentos de organização interna, bem como a violação do regime de organização interna;\n\nf) A violação das regras de disponibilização na plataforma eletrónica de financiamento colaborativo das políticas e procedimentos de organização interna da respetiva entidade gestora;\n\ng) A não comunicação atempada à CMVM pelas entidades gestoras da plataforma eletrónica da alteração dos elementos objeto do registo da atividade;\n\nh) A realização de atos ou operações proibidos pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\ni) A violação das regras sobre a redução a escrito e disponibilização de contratos de adesão a plataformas eletrónicas de financiamento colaborativo, bem como a violação do conteúdo obrigatório do mesmo;\n\nj) A violação das regras sobre conflitos de interesses, incluindo a violação das regras de adoção e redução a escrito da política sobre conflitos de interesses pelas entidades gestoras da plataforma eletrónica de financiamento colaborativo;\n\nk) O incumprimento de ordens ou mandados legítimos da CMVM transmitidos por escrito aos seus destinatários.\n\n3 - Constitui contraordenação leve, punível com coima entre (euro) 1000 e (euro) 200 000:\n\na) A violação das regras de publicidade relativas às ofertas;\n\nb) A violação de deveres não previstos nos números anteriores, que se encontrem consagrados no regime jurídico do financiamento colaborativo e sua regulamentação, ou noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria.\n\n4 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo seguinte, se o triplo do benefício económico exceder o limite máximo da coima aplicável, este é elevado àquele valor."
+  },
+  "114670782": {
+   "fragment_id": "114663884",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - Cumulativamente com as coimas previstas no artigo anterior podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no regime geral dos ilícitos de mera ordenação social, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita;\n\nc) Inibição do exercício de funções de administração, gestão, direção, chefia ou fiscalização e, em geral, de representação em entidades sujeitas à supervisão da CMVM;\n\nd) Publicação pela CMVM, a expensas do infrator e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico e da proteção dos mercados de valores mobiliários ou de outros instrumentos financeiros, da sanção aplicada pela prática da contraordenação;\n\ne) Cancelamento do registo necessário para o exercício de atividades de financiamento colaborativo.\n\n2 - As sanções referidas nas alíneas b) e c) do número anterior não podem ter duração superior a dois anos, contados da decisão condenatória definitiva.\n\n3 - A publicação referida na alínea d) do n.º 1 pode ser feita na íntegra ou por extrato, conforme for decidido pela CMVM, podendo ainda a CMVM determinar que a mesma seja efetuada nas plataformas eletrónicas."
+  },
+  "114670783": {
+   "fragment_id": "114663885",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito aplicável\n\n1 - Às contraordenações previstas no artigo 4.º e aos processos respeitantes às mesmas, tanto na fase administrativa como judicial, aplica-se o regime substantivo e processual previsto no Código dos Valores Mobiliários e, subsidiariamente, o disposto no regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro.\n\n2 - Nos processos respeitantes às contraordenações previstas no artigo 4.º, a CMVM exerce todos os poderes e prerrogativas que lhe são atribuídos pelo Código dos Valores Mobiliários, sendo igualmente aplicável o artigo 66.º do Código do Procedimento Administrativo.\n\n3 - O disposto na presente lei não é aplicável quando o facto constituir contraordenação prevista no Código dos Valores Mobiliários, no Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, ou no Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado, aprovado em anexo à Lei n.º 18/2015, de 4 de março."
+  },
+  "114670784": {
+   "fragment_id": "114663886",
+   "type": 11,
+   "heading": "Artigo 7.º — Especificidades nas formas da infração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Especificidades nas formas da infração\n\n1 - Os ilícitos de mera ordenação social graves ou muito graves previstos na presente lei são imputados a título de dolo ou de negligência.\n\n2 - A tentativa é punível no caso dos ilícitos de mera ordenação social graves ou muito graves."
+  },
+  "114670785": {
+   "fragment_id": "114663887",
+   "type": 1,
+   "heading": "Capítulo III — Regime sancionatório relativo à atividade de financiamento colaborativo através de donativo ou com recompensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime sancionatório relativo à atividade de financiamento colaborativo através de donativo ou com recompensa"
+  },
+  "114670786": {
+   "fragment_id": "114663888",
+   "type": 11,
+   "heading": "Artigo 8.º — Tipos contraordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tipos contraordenacionais\n\n1 - Constitui contraordenação muito grave, punível com coima de (euro) 1500 a (euro) 3750, caso seja pessoa singular, e com coima de (euro) 5000 a (euro) 44 000, caso seja pessoa coletiva:\n\na) A realização de atos ou o exercício de atividades de financiamento colaborativo sem a comunicação de início de atividade da plataforma, devida junto da Direção-Geral das Atividades Económicas ou fora do âmbito que resulta da comunicação;\n\nb) O incumprimento do limite máximo de angariação;\n\nc) A disponibilização de uma mesma oferta em mais do que uma plataforma.\n\n2 - Constitui contraordenação grave, punível com coima de (euro) 750 a (euro) 2500, caso seja pessoa singular, e com coima de (euro) 2500 a (euro) 16 000, caso seja pessoa coletiva:\n\na) A violação do regime de prestação de informações quanto à oferta;\n\nb) A prestação, comunicação ou divulgação, por qualquer meio, de informação que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão dessa prestação de informação;\n\nc) A violação do regime de confidencialidade da informação recebida pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nd) A não comunicação atempada à Direção-Geral das Atividades Económicas, pelas entidades gestoras da plataforma eletrónica da alteração dos elementos objeto da comunicação da atividade;\n\ne) A realização de atos ou operações proibidas pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nf) A violação do regime de redução a escrito e disponibilização de contratos de adesão a plataformas eletrónicas de financiamento colaborativo, bem como a violação do conteúdo obrigatório do mesmo;\n\ng) A violação do regime respeitante a conflitos de interesses.\n\n3 - Constitui contraordenação leve, punível com coima de (euro) 300 a (euro) 1000, caso seja pessoa singular, e com coima de (euro) 1200 a (euro) 8000, caso seja pessoa coletiva:\n\na) A violação do regime de publicidade relativo às ofertas;\n\nb) A violação de deveres não previstos nos números anteriores do presente artigo, consagrados no regime jurídico do financiamento colaborativo e sua regulamentação, ou noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria.\n\n4 - A negligência é punível, sendo os limites mínimos e máximo das coimas aplicáveis reduzidos a metade.\n\n5 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada."
+  },
+  "114670787": {
+   "fragment_id": "114663889",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\nCumulativamente com as coimas previstas no artigo anterior podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no regime geral do ilícito de mera ordenação social, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita até dois anos, contados da decisão condenatória definitiva."
+  },
+  "114670788": {
+   "fragment_id": "114663890",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas nas contraordenações referidas no artigo 8.º reverte em:\n\na) 60 % para o Estado;\n\nb) 40 % para a ASAE."
+  },
+  "114670789": {
+   "fragment_id": "114663891",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Legislação subsidiária\n\nÀs contraordenações previstas no artigo 8.º e aos processos respeitantes às mesmas aplica-se subsidiariamente o regime geral do ilícito de mera ordenação social."
+  },
+  "114670790": {
+   "fragment_id": "114663892",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "114670791": {
+   "fragment_id": "114663893",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração à Lei n.º 102/2015, de 24 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração à Lei n.º 102/2015, de 24 de agosto\n\nOs artigos 10.º, 12.º e 15.º da Lei n.º 102/2015, de 24 de agosto, passam a ter a seguinte redação:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - O financiamento colaborativo de capital ou por empréstimo apenas pode implicar a emissão de instrumentos financeiros se exercido por intermediário financeiro, nos termos da legislação aplicável ao mercado de instrumentos financeiros.\n\n3 - ...\n\nArtigo 12.º\n\n[...]\n\n1 - As plataformas de financiamento colaborativo através de donativo ou com recompensa devem comunicar previamente o início da sua atividade à Direção-Geral das Atividades Económicas.\n\n2 - O procedimento de comunicação prévia realiza-se por via desmaterializada, não importando o pagamento de taxas administrativas, e é definido em portaria do membro do Governo responsável pela área da economia, que deve identificar os elementos a comunicar e aprovar os modelos simplificados de transmissão pela Internet.\n\nArtigo 15.º\n\n[...]\n\n1 - O acesso à atividade de intermediação de financiamento colaborativo de capital ou por empréstimo é realizado mediante registo prévio das entidades gestoras das plataformas eletrónicas junto da Comissão do Mercado de Valores Mobiliários (CMVM), sendo esta entidade responsável pela regulação, supervisão e fiscalização, assim como pela averiguação das respetivas infrações, instrução processual e aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n2 - ...\n\n3 - ...»"
+  },
+  "114670792": {
+   "fragment_id": "114663894",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação legislativa\n\nDecorridos cinco anos da entrada em vigor da presente lei é promovida a avaliação dos resultados da aplicação da mesma e da demais legislação e regulamentação adotada no quadro do financiamento colaborativo, e ponderada pelo Governo e pela CMVM, consoante o ato normativo em causa e em função dessa avaliação, a necessidade ou a oportunidade da sua revisão."
+  },
+  "114670793": {
+   "fragment_id": "114663895",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114670775": {
+   "fragment_id": "114663877",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 3/2018\n\nde 9 de fevereiro\n\nDefine o regime sancionatório aplicável ao desenvolvimento da atividade de financiamento colaborativo e procede à primeira alteração à Lei n.º 102/2015, de 24 de agosto, que aprova o regime jurídico do financiamento colaborativo.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "155882659": {
+   "fragment_id": "114663888",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A realização de atos ou o exercício de atividades de financiamento colaborativo sem a comunicação de início de atividade da plataforma, devida junto da Direção-Geral das Atividades Económicas ou fora do âmbito que resulta da comunicação;\n\nb) O incumprimento do limite máximo de angariação;\n\nc) A disponibilização de uma mesma oferta em mais do que uma plataforma.\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) A violação do regime de prestação de informações quanto à oferta;\n\nb) A prestação, comunicação ou divulgação, por qualquer meio, de informação que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão dessa prestação de informação;\n\nc) A violação do regime de confidencialidade da informação recebida pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nd) A não comunicação atempada à Direção-Geral das Atividades Económicas, pelas entidades gestoras da plataforma eletrónica da alteração dos elementos objeto da comunicação da atividade;\n\ne) A realização de atos ou operações proibidas pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nf) A violação do regime de redução a escrito e disponibilização de contratos de adesão a plataformas eletrónicas de financiamento colaborativo, bem como a violação do conteúdo obrigatório do mesmo;\n\ng) A violação do regime respeitante a conflitos de interesses.\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE:\n\na) A violação do regime de publicidade relativo às ofertas;\n\nb) A violação de deveres não previstos nos números anteriores do presente artigo, consagrados no regime jurídico do financiamento colaborativo e sua regulamentação, ou noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria.\n\n4 - (Revogado.)\n\n5 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882660": {
+   "fragment_id": "114663889",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\nCumulativamente com as coimas previstas no artigo anterior podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no RJCE, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita até dois anos, contados da decisão condenatória definitiva.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882661": {
+   "fragment_id": "114663890",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo 8.º da presente lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882662": {
+   "fragment_id": "114663891",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação subsidiária",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Legislação subsidiária\n\nÀs contraordenações previstas no artigo 8.º da presente lei e aos processos respeitantes às mesmas aplica-se subsidiariamente o RJCE.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "114670794": {
+   "fragment_id": "114663896",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 21 de dezembro de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 26 de janeiro de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 5 de fevereiro de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111119237"
+  },
+  "902206108": {
+   "fragment_id": "114663878",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206109": {
+   "fragment_id": "114663879",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei define o regime sancionatório aplicável ao desenvolvimento das atividades de financiamento colaborativo de capital ou por empréstimo e através de donativo ou com recompensa, previstas na lei e na respetiva regulamentação.\n\n2 - A presente lei procede ainda à primeira alteração à Lei n.º 102/2015, de 24 de agosto, que aprova o regime jurídico do financiamento colaborativo.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206110": {
+   "fragment_id": "114663880",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridades competentes",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 2.º — Autoridades competentes\n\n1 - Compete à Comissão do Mercado de Valores Mobiliários (CMVM) exercer, relativamente à atividade de financiamento colaborativo de capital ou por empréstimo, todos os poderes e prerrogativas que lhe são conferidos pelos respetivos estatutos, aprovados em anexo ao Decreto-Lei n.º 5/2015, de 8 de janeiro, e pelo Código dos Valores Mobiliários, nomeadamente os de regulação, supervisão e fiscalização, assim como os de averiguação de infrações, instrução processual e aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n2 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) exercer, relativamente à atividade de financiamento colaborativo através de donativo ou com recompensa, a fiscalização, a instrução processual e a aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206111": {
+   "fragment_id": "114663881",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nOs ilícitos de mera ordenação social previstos na presente lei respeitam à violação dos deveres previstos no regime jurídico do financiamento colaborativo, aprovado pela Lei n.º 102/2015, de 24 de agosto, e respetiva regulamentação, bem como à violação de deveres previstos noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206112": {
+   "fragment_id": "114663882",
+   "type": 1,
+   "heading": "Capítulo II — Regime sancionatório relativo à atividade de financiamento colaborativo de capital ou por empréstimo",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "### Capítulo II — Regime sancionatório relativo à atividade de financiamento colaborativo de capital ou por empréstimo\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206113": {
+   "fragment_id": "114663883",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos contraordenacionais",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 4.º — Tipos contraordenacionais\n\n1 - Constitui contraordenação muito grave, punível com coima entre (euro) 5000 e (euro) 1 000 000:\n\na) A realização de atos ou o exercício de atividades de financiamento colaborativo sem o respetivo registo junto da CMVM ou, havendo registo, fora do âmbito que dele resulta;\n\nb) A violação das sanções acessórias de interdição temporária de atividade ou de inibição do exercício de funções e de representação cominadas pela CMVM, sem prejuízo de ao facto poder caber sanção mais grave.\n\n2 - Constitui contraordenação grave, punível com coima entre (euro) 2500 e (euro) 500 000:\n\na) A violação das regras de prestação de informação;\n\nb) A prestação, comunicação ou divulgação, por qualquer meio, de informação que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão dessa prestação de informação;\n\nc) A violação das regras sobre a confidencialidade da informação recebida pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nd) A violação das regras de comunicação ou prestação de informação à CMVM ou a comunicação ou prestação de informação à CMVM que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão dessa prestação de informação;\n\ne) A não adoção ou redução a escrito pelas entidades gestoras da plataforma eletrónica de financiamento colaborativo das políticas e procedimentos de organização interna, bem como a violação do regime de organização interna;\n\nf) A violação das regras de disponibilização na plataforma eletrónica de financiamento colaborativo das políticas e procedimentos de organização interna da respetiva entidade gestora;\n\ng) A não comunicação atempada à CMVM pelas entidades gestoras da plataforma eletrónica da alteração dos elementos objeto do registo da atividade;\n\nh) A realização de atos ou operações proibidos pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\ni) A violação das regras sobre a redução a escrito e disponibilização de contratos de adesão a plataformas eletrónicas de financiamento colaborativo, bem como a violação do conteúdo obrigatório do mesmo;\n\nj) A violação das regras sobre conflitos de interesses, incluindo a violação das regras de adoção e redução a escrito da política sobre conflitos de interesses pelas entidades gestoras da plataforma eletrónica de financiamento colaborativo;\n\nk) O incumprimento de ordens ou mandados legítimos da CMVM transmitidos por escrito aos seus destinatários.\n\n3 - Constitui contraordenação leve, punível com coima entre (euro) 1000 e (euro) 200 000:\n\na) A violação das regras de publicidade relativas às ofertas;\n\nb) A violação de deveres não previstos nos números anteriores, que se encontrem consagrados no regime jurídico do financiamento colaborativo e sua regulamentação, ou noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria.\n\n4 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo seguinte, se o triplo do benefício económico exceder o limite máximo da coima aplicável, este é elevado àquele valor.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206114": {
+   "fragment_id": "114663884",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - Cumulativamente com as coimas previstas no artigo anterior podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no regime geral dos ilícitos de mera ordenação social, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita;\n\nc) Inibição do exercício de funções de administração, gestão, direção, chefia ou fiscalização e, em geral, de representação em entidades sujeitas à supervisão da CMVM;\n\nd) Publicação pela CMVM, a expensas do infrator e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico e da proteção dos mercados de valores mobiliários ou de outros instrumentos financeiros, da sanção aplicada pela prática da contraordenação;\n\ne) Cancelamento do registo necessário para o exercício de atividades de financiamento colaborativo.\n\n2 - As sanções referidas nas alíneas b) e c) do número anterior não podem ter duração superior a dois anos, contados da decisão condenatória definitiva.\n\n3 - A publicação referida na alínea d) do n.º 1 pode ser feita na íntegra ou por extrato, conforme for decidido pela CMVM, podendo ainda a CMVM determinar que a mesma seja efetuada nas plataformas eletrónicas.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206115": {
+   "fragment_id": "114663885",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito aplicável",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 6.º — Direito aplicável\n\n1 - Às contraordenações previstas no artigo 4.º e aos processos respeitantes às mesmas, tanto na fase administrativa como judicial, aplica-se o regime substantivo e processual previsto no Código dos Valores Mobiliários e, subsidiariamente, o disposto no regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro.\n\n2 - Nos processos respeitantes às contraordenações previstas no artigo 4.º, a CMVM exerce todos os poderes e prerrogativas que lhe são atribuídos pelo Código dos Valores Mobiliários, sendo igualmente aplicável o artigo 66.º do Código do Procedimento Administrativo.\n\n3 - O disposto na presente lei não é aplicável quando o facto constituir contraordenação prevista no Código dos Valores Mobiliários, no Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, ou no Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado, aprovado em anexo à Lei n.º 18/2015, de 4 de março.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206116": {
+   "fragment_id": "114663886",
+   "type": 11,
+   "heading": "Artigo 7.º — Especificidades nas formas da infração",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 7.º — Especificidades nas formas da infração\n\n1 - Os ilícitos de mera ordenação social graves ou muito graves previstos na presente lei são imputados a título de dolo ou de negligência.\n\n2 - A tentativa é punível no caso dos ilícitos de mera ordenação social graves ou muito graves.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206117": {
+   "fragment_id": "114663887",
+   "type": 1,
+   "heading": "Capítulo III — Regime sancionatório relativo à atividade de financiamento colaborativo através de donativo ou com recompensa",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "### Capítulo III — Regime sancionatório relativo à atividade de financiamento colaborativo através de donativo ou com recompensa\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206118": {
+   "fragment_id": "114663888",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A realização de atos ou o exercício de atividades de financiamento colaborativo sem a comunicação de início de atividade da plataforma, devida junto da Direção-Geral das Atividades Económicas ou fora do âmbito que resulta da comunicação;\n\nb) O incumprimento do limite máximo de angariação;\n\nc) A disponibilização de uma mesma oferta em mais do que uma plataforma.\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) A violação do regime de prestação de informações quanto à oferta;\n\nb) A prestação, comunicação ou divulgação, por qualquer meio, de informação que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão dessa prestação de informação;\n\nc) A violação do regime de confidencialidade da informação recebida pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nd) A não comunicação atempada à Direção-Geral das Atividades Económicas, pelas entidades gestoras da plataforma eletrónica da alteração dos elementos objeto da comunicação da atividade;\n\ne) A realização de atos ou operações proibidas pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nf) A violação do regime de redução a escrito e disponibilização de contratos de adesão a plataformas eletrónicas de financiamento colaborativo, bem como a violação do conteúdo obrigatório do mesmo;\n\ng) A violação do regime respeitante a conflitos de interesses.\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE:\n\na) A violação do regime de publicidade relativo às ofertas;\n\nb) A violação de deveres não previstos nos números anteriores do presente artigo, consagrados no regime jurídico do financiamento colaborativo e sua regulamentação, ou noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria.\n\n4 - (Revogado.)\n\n5 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "902206119": {
+   "fragment_id": "114663889",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\nCumulativamente com as coimas previstas no artigo anterior podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no RJCE, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita até dois anos, contados da decisão condenatória definitiva.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "902206120": {
+   "fragment_id": "114663890",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo 8.º da presente lei é repartido nos termos do RJCE.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "902206121": {
+   "fragment_id": "114663891",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação subsidiária",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Legislação subsidiária\n\nÀs contraordenações previstas no artigo 8.º da presente lei e aos processos respeitantes às mesmas aplica-se subsidiariamente o RJCE.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "902206122": {
+   "fragment_id": "114663892",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206123": {
+   "fragment_id": "114663893",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração à Lei n.º 102/2015, de 24 de agosto",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 12.º — Alteração à Lei n.º 102/2015, de 24 de agosto\n\nOs artigos 10.º, 12.º e 15.º da Lei n.º 102/2015, de 24 de agosto, passam a ter a seguinte redação:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - O financiamento colaborativo de capital ou por empréstimo apenas pode implicar a emissão de instrumentos financeiros se exercido por intermediário financeiro, nos termos da legislação aplicável ao mercado de instrumentos financeiros.\n\n3 - ...\n\nArtigo 12.º\n\n[...]\n\n1 - As plataformas de financiamento colaborativo através de donativo ou com recompensa devem comunicar previamente o início da sua atividade à Direção-Geral das Atividades Económicas.\n\n2 - O procedimento de comunicação prévia realiza-se por via desmaterializada, não importando o pagamento de taxas administrativas, e é definido em portaria do membro do Governo responsável pela área da economia, que deve identificar os elementos a comunicar e aprovar os modelos simplificados de transmissão pela Internet.\n\nArtigo 15.º\n\n[...]\n\n1 - O acesso à atividade de intermediação de financiamento colaborativo de capital ou por empréstimo é realizado mediante registo prévio das entidades gestoras das plataformas eletrónicas junto da Comissão do Mercado de Valores Mobiliários (CMVM), sendo esta entidade responsável pela regulação, supervisão e fiscalização, assim como pela averiguação das respetivas infrações, instrução processual e aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n2 - ...\n\n3 - ...»\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206124": {
+   "fragment_id": "114663894",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação legislativa",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 13.º — Avaliação legislativa\n\nDecorridos cinco anos da entrada em vigor da presente lei é promovida a avaliação dos resultados da aplicação da mesma e da demais legislação e regulamentação adotada no quadro do financiamento colaborativo, e ponderada pelo Governo e pela CMVM, consoante o ato normativo em causa e em função dessa avaliação, a necessidade ou a oportunidade da sua revisão.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206125": {
+   "fragment_id": "114663895",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "902206126": {
+   "fragment_id": "114663896",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "Aprovada em 21 de dezembro de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 26 de janeiro de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 5 de fevereiro de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111119237\n\n> Revogado pelo/a Artigo 29.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  }
+ }
+}

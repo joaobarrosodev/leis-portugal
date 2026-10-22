@@ -1,0 +1,335 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546009:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-175982053",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/42-2006-546009",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175982286",
+    "175982287",
+    "175982288",
+    "175982289",
+    "175982290",
+    "175982291",
+    "175982292",
+    "175982293",
+    "175982294",
+    "175982295",
+    "175982296",
+    "175982297",
+    "175982298",
+    "175982299",
+    "175982300",
+    "175982301",
+    "175982302",
+    "175982303",
+    "175982304",
+    "175982305",
+    "175982306",
+    "175982307",
+    "175982308",
+    "175982309",
+    "175982310",
+    "175982311",
+    "175982312",
+    "175982313"
+   ]
+  },
+  {
+   "date": "2021-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175923965:por",
+     "title": "Decreto Legislativo Regional n.º 37/2021/A",
+     "published": "2021-12-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/37-2021-175923965"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "175982286",
+    "175982287",
+    "175982288",
+    "175982289",
+    "175982290",
+    "175982291",
+    "175982292",
+    "175982293",
+    "175982294",
+    "175982295",
+    "175982296",
+    "175982297",
+    "175982298",
+    "175982299",
+    "175982300",
+    "175982301",
+    "175982302",
+    "175982303",
+    "175982304",
+    "175982315",
+    "175982306",
+    "175982307",
+    "175982308",
+    "175982309",
+    "175982310",
+    "175982311",
+    "175982312",
+    "175982313",
+    "175982314"
+   ]
+  }
+ ],
+ "fragments": {
+  "175982286": {
+   "fragment_id": "175982054",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 42/2006/A\n\nCria a Agência para a Modernização e Qualidade do Serviço ao Cidadão, designada por RIAC\n\nPela Resolução do Governo Regional n.º 187/99, de 30 de Dezembro, foi criada uma estrutura de projecto com o objectivo de desenvolver um conjunto de medidas de estudo e concertação de procedimentos no sentido de viabilizar a celebração de um protocolo operacional com o Instituto para a Gestão das Lojas do Cidadão, por forma a garantir a extensão à Região do projecto nacional designado por Loja do Cidadão.\n\nTodavia, no que concerne à realidade arquipelágica da Região Autónoma dos Açores e atenta a polarização de serviços em algumas ilhas, factores que dificultam a mobilidade das pessoas e o acesso à prestação de serviços públicos, o Governo Regional criou a Rede Integrada de Apoio ao Cidadão (RIAC), visando facilitar o acesso do cidadão à Administração Pública, prestando serviços próximos das populações, assentes em critérios de qualidade, rapidez e comodidade.\n\nDeste modo, a RIAC abrange os seguintes meios de interacção com o cidadão: postos de atendimento ao cidadão (PAC), centro de contactos (CC) e página da Internet.\n\nPor forma a institucionalizar a RIAC, como instrumento de modernização da administração pública regional, justifica-se a necessidade de se criar um instituto público, procurando com este modelo a agilidade de organização e funcionamento que lhe permita ser, também, um factor indutor de simplicidade e de desburocratização, bem como assegurar a qualidade dos serviços prestados e a coordenação e articulação dos vários PAC, CC e página da Internet, com elevados níveis de desempenho.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "175982287": {
+   "fragment_id": "175982055",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, natureza jurídica, tutela, atribuições e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, natureza jurídica, tutela, atribuições e sede"
+  },
+  "175982288": {
+   "fragment_id": "175982056",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e natureza jurídica\n\n1 - É criada a Agência para a Modernização e Qualidade do Serviço ao Cidadão, doravante designada por RIAC.\n\n2 - A RIAC é um instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio."
+  },
+  "175982289": {
+   "fragment_id": "175982057",
+   "type": 11,
+   "heading": "Artigo 2.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tutela\n\n1 - A RIAC exerce a sua actividade sob a tutela do membro do Governo Regional que tiver a seu cargo a administração pública regional.\n\n2 - Sem prejuízo dos poderes expressamente previstos na lei, a tutela do membro do Governo Regional responsável pela administração pública regional sobre a RIAC compreende:\n\na) Acompanhar a gestão financeira e patrimonial da RIAC, bem como o desenvolvimento do processo de expansão da mesma;\n\nb) Avaliar e fiscalizar o cumprimento dos padrões de qualidade exigidos para a RIAC;\n\nc) Decidir os recursos no âmbito dos procedimentos a adoptar pela RIAC;\n\nd) Aprovar anualmente o orçamento, o plano e o relatório de actividades, bem como a conta e balanços de cada exercício;\n\ne) Criar novos serviços;\n\nf) Outorgar ou autorizar a outorga de protocolos e contratos com entidades públicas e privadas, no âmbito da actividade da RIAC;\n\ng) Outras que sejam necessárias para assegurar os objectivos prosseguidos pela RIAC."
+  },
+  "175982290": {
+   "fragment_id": "175982058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nA RIAC tem como atribuições a racionalização, modernização e qualidade do atendimento da administração pública regional, com vista à melhoria da interacção desta com os cidadãos, nomeadamente através dos postos de atendimento ao cidadão (PAC), do centro de contactos (CC) e página na Internet."
+  },
+  "175982291": {
+   "fragment_id": "175982059",
+   "type": 11,
+   "heading": "Artigo 4.º — Sede e âmbito geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sede e âmbito geográfico\n\n1 - A RIAC tem a sua sede em Angra do Heroísmo.\n\n2 - A RIAC exerce a sua actividade na Região Autónoma dos Açores ou onde a sua actividade se possa fazer sentir."
+  },
+  "175982292": {
+   "fragment_id": "175982060",
+   "type": 1,
+   "heading": "Capítulo II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização"
+  },
+  "175982293": {
+   "fragment_id": "175982061",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos e serviços\n\n1 - A RIAC é dotada de órgãos e serviços.\n\n2 - São órgãos:\n\na) A direcção;\n\nb) O fiscal único;\n\nc) O conselho de parceiros.\n\n3 - A estrutura orgânica a que se refere o artigo 15.º compreende os serviços da RIAC necessários à prossecução das suas atribuições, designadamente a gestão dos PAC e do CC."
+  },
+  "175982294": {
+   "fragment_id": "175982062",
+   "type": 11,
+   "heading": "Artigo 6.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção\n\nA direcção da RIAC é constituída por três membros, o presidente e dois vogais."
+  },
+  "175982295": {
+   "fragment_id": "175982063",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências da direcção\n\n1 - Compete à direcção:\n\na) Dirigir os serviços, bem como coordenar as respectivas actividades;\n\nb) Propor à tutela a criação de novos PAC ou outras formas de atendimento;\n\nc) Aprovar os regulamentos internos e emitir as directrizes adequadas ao bom funcionamento da RIAC;\n\nd) Aprovar o plano anual de actividades e o orçamento e, após parecer do fiscal único, submetê-los a homologação do membro do Governo Regional que tiver a seu cargo a administração pública regional;\n\ne) Elaborar o relatório, conta e balanços de cada exercício e submetê-los ao membro do Governo Regional que tiver a seu cargo a administração pública regional;\n\nf) Contratar com terceiros a prestação de serviços à RIAC, com vista ao adequado desempenho das suas atribuições;\n\ng) Aceitar doações, heranças e legados;\n\nh) Promover a cobrança e arrecadação de receitas, verificar a sua conformidade legal e a regularidade financeira das despesas e autorizar o respectivo pagamento;\n\ni) Exercer todos os demais poderes necessários para assegurar a gestão da RIAC, o seu normal funcionamento e desenvolvimento, bem como a administração do seu património.\n\n2 - A direcção pode distribuir entre os seus membros, por proposta do presidente, a gestão de várias áreas de funcionamento da RIAC.\n\n3 - A direcção pode delegar em qualquer dos seus membros as competências que lhe estão atribuídas."
+  },
+  "175982296": {
+   "fragment_id": "175982064",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do presidente\n\n1 - Compete, em especial, ao presidente da direcção ou a quem o substituir:\n\na) Representar a RIAC, em juízo e fora dele;\n\nb) Cumprir e fazer cumprir as disposições legais e regulamentares relativas à organização da RIAC;\n\nc) Convocar a direcção e presidir às respectivas reuniões;\n\nd) Outorgar, quando autorizado, protocolos e contratos com entidades públicas ou privadas, no âmbito da sua actividade e para prossecução dos seus objectivos;\n\ne) Propor à direcção a elaboração do plano e relatório de actividades.\n\n2 - O presidente pode delegar em qualquer dos membros da direcção as competências necessárias à prossecução das atribuições do instituto."
+  },
+  "175982297": {
+   "fragment_id": "175982065",
+   "type": 11,
+   "heading": "Artigo 9.º — Vinculação da RIAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vinculação da RIAC\n\n1 - A RIAC obriga-se:\n\na) Pela assinatura conjunta de dois membros da direcção, sendo uma delas a do presidente ou de quem o substitua nas suas ausências e impedimentos;\n\nb) Pela assinatura de um membro da direcção que, para tanto, tenha recebido em acta delegação da direcção para acto ou actos determinados.\n\n2 - Os actos de mero expediente de que não resultem obrigações para a RIAC podem ser assinados por qualquer membro da direcção."
+  },
+  "175982298": {
+   "fragment_id": "175982066",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscal único\n\n1 - O fiscal único é designado de entre revisores oficiais de contas, nos termos definidos no diploma a que se refere o artigo 15.º\n\n2 - Compete ao fiscal único:\n\na) Acompanhar e controlar a gestão financeira da RIAC;\n\nb) Apreciar e emitir parecer sobre o orçamento e as contas anuais da RIAC;\n\nc) Fiscalizar a boa execução da contabilidade da RIAC e o cumprimento das disposições aplicáveis em matéria orçamental, contabilística e de tesouraria, informando a direcção de qualquer anomalia eventualmente detectada;\n\nd) Pronunciar-se sobre todos os assuntos da sua competência que lhe sejam submetidos pela direcção."
+  },
+  "175982299": {
+   "fragment_id": "175982067",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho de parceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho de parceiros\n\n1 - O conselho de parceiros é um órgão com carácter consultivo, constituído:\n\na) Pelos membros da direcção da RIAC;\n\nb) Pelo representante da tutela;\n\nc) Pelos representantes das entidades que disponibilizam serviços através da RIAC.\n\n2 - As competências e modo de funcionamento constam do diploma a que se refere o artigo 15.º"
+  },
+  "175982300": {
+   "fragment_id": "175982068",
+   "type": 1,
+   "heading": "Capítulo III — Regime patrimonial e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime patrimonial e financeiro"
+  },
+  "175982301": {
+   "fragment_id": "175982069",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Património\n\nO património da RIAC é constituído pela universalidade dos seus bens, direitos e obrigações."
+  },
+  "175982302": {
+   "fragment_id": "175982070",
+   "type": 11,
+   "heading": "Artigo 13.º — Orçamento e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Orçamento e contas\n\n1 - O orçamento anual da RIAC depende de aprovação dos membros do Governo Regional que tiverem a seu cargo as finanças e a administração pública regional.\n\n2 - As contas anuais, organizadas de acordo com o regime legal em vigor e acompanhadas do parecer do fiscal único, bem como de eventuais relatórios de auditoria externa, devem ser submetidos nos termos definidos no decreto regulamentar regional que contém as disposições necessárias à execução do orçamento da Região Autónoma dos Açores à aprovação do membro do Governo Regional que tiver a seu cargo as finanças e à apreciação do Tribunal de Contas."
+  },
+  "175982303": {
+   "fragment_id": "175982071",
+   "type": 11,
+   "heading": "Artigo 14.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Receitas e despesas\n\n1 - Constituem receitas da RIAC:\n\na) Os rendimentos provenientes dos serviços prestados na prossecução das suas atribuições;\n\nb) Os juros dos valores depositados ou mutuados, bem como quaisquer outros rendimentos de bens mobiliários ou imobiliários de que tenha fruição;\n\nc) As comparticipações provenientes das entidades públicas e privadas, decorrentes da correspondente participação na RIAC;\n\nd) As dotações inscritas no plano de investimentos e no Orçamento da Região;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título e, bem assim, o produto da alienação ou cedência, a qualquer título, de bens e direitos do seu património;\n\nf) As doações, heranças ou legados aceites a benefício de inventário.\n\n2 - Constituem despesas da RIAC as inerentes ao funcionamento e à prossecução das actividades resultantes das respectivas atribuições previstas no presente diploma, designadamente os custos de aquisição, manutenção e conservação dos bens e equipamentos ou serviços que tenha de utilizar."
+  },
+  "175982304": {
+   "fragment_id": "175982072",
+   "type": 1,
+   "heading": "Capítulo IV — Estrutura e pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Estrutura e pessoal"
+  },
+  "175982305": {
+   "fragment_id": "175982073",
+   "type": 11,
+   "heading": "Artigo 15.º — Orgânica e quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Orgânica e quadro de pessoal\n\n1 - A orgânica e quadro de pessoal da RIAC são aprovados por decreto regulamentar regional do Governo Regional.\n\n2 - Sempre que se entender necessário, é designado um coordenador de zona, de entre os operadores dos PAC, ao qual compete acompanhar e controlar o funcionamento dos PAC."
+  },
+  "175982306": {
+   "fragment_id": "175982074",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime do pessoal\n\n1 - Os trabalhadores da RIAC regem-se pelas normas gerais aplicáveis ao contrato individual de trabalho.\n\n2 - A RIAC pode ser parte em instrumentos de regulamentação colectiva.\n\n3 - Os funcionários e agentes da Administração Pública podem, mediante requisição, destacamento ou em regime de comissão de serviço, exercer funções na RIAC nos termos da lei."
+  },
+  "175982307": {
+   "fragment_id": "175982375",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "175982308": {
+   "fragment_id": "175982376",
+   "type": 11,
+   "heading": "Artigo 17.º — Dos órgãos colegiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Dos órgãos colegiais\n\nEm tudo o que não esteja previsto no presente diploma aplica-se o disposto no Código do Procedimento Administrativo quanto aos órgãos colegiais."
+  },
+  "175982309": {
+   "fragment_id": "175982377",
+   "type": 11,
+   "heading": "Artigo 18.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Isenções\n\nA RIAC goza de todas as isenções reconhecidas ao Estado e à Região Autónoma dos Açores."
+  },
+  "175982310": {
+   "fragment_id": "175982378",
+   "type": 11,
+   "heading": "Artigo 19.º — Transição do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transição do pessoal\n\nO pessoal que vinha prestando serviço, a qualquer título, à equipa de projecto a que se refere as Resoluções n.os 164/2001, de 13 de Dezembro, 149/2003, de 27 de Novembro, e 8/2005, de 6 de Janeiro, transita para a RIAC com a mesma forma de vinculação ou de contrato que detinha à data da entrada em vigor do presente diploma."
+  },
+  "175982311": {
+   "fragment_id": "175982379",
+   "type": 11,
+   "heading": "Artigo 20.º — Transição do património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transição do património\n\nSão integrados no património da RIAC todos os bens móveis e imóveis que se encontravam afectos ao projecto RIAC, criado pela Resolução do Governo Regional n.º 164/2001, de 13 de Dezembro, prorrogada pelas Resoluções n.os 149/2003, de 27 de Novembro, e 8/2005, de 6 de Janeiro, mediante relação de bens a aprovar, no prazo de 120 dias a contar da data da entrada em vigor do presente diploma, por despacho dos membros do Governo Regional que tiverem a seu cargo as finanças e a administração pública regional."
+  },
+  "175982312": {
+   "fragment_id": "175982380",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nÉ mantida a Resolução do Governo Regional n.º 8/2005, de 6 de Janeiro, até à entrada em vigor do diploma a que se refere o artigo 15.º"
+  },
+  "175982313": {
+   "fragment_id": "175982381",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado, por unanimidade, pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de Setembro de 2006."
+  },
+  "175982315": {
+   "fragment_id": "175982073",
+   "type": 11,
+   "heading": "Artigo 15.º — Orgânica e quadro de pessoal",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2021/A - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2021-175923965), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Orgânica e quadro de pessoal\n\n1 - A orgânica e quadro de pessoal da RIAC são aprovados por decreto regulamentar regional do Governo Regional.\n\n2 - Aos trabalhadores da RIAC inseridos na carreira e categoria de assistente técnico e que prestam serviço de atendimento ao público é-lhes devido pelo exercício das respetivas funções um suplemento remuneratório, dado que a abrangência da sua atividade é exercida em condições de trabalho mais exigentes relativamente a outros postos de trabalho caraterizados em idêntica carreira e categoria.\n\n3 - O valor do suplemento remuneratório referido no número anterior é fixado nos seguintes termos:\n\na) 10 % da base da carreira a partir de 1 de janeiro de 2022;\n\nb) 15 % da base da carreira a partir de 1 de janeiro de 2023;\n\nc) 20 % da base da carreira a partir de 1 de janeiro de 2024.\n\n4 - O suplemento remuneratório referido nos n.os 2 e 3 é apenas devido enquanto perdurarem as condições de trabalho que determinaram a sua atribuição e haja exercício de funções efetivo.\n\n5 - Sempre que se entender necessário, é designado um coordenador de zona, de entre os operadores dos PAC, ao qual compete acompanhar e controlar o funcionamento dos PAC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2021/A - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2021-175923965), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175982314": {
+   "fragment_id": "175982382",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 16 de Outubro de 2006.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  }
+ }
+}

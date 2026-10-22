@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:434635:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-156104130",
+ "dre_path": "/dr/detalhe/decreto-lei/214-1995-434635",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156102663",
+    "156102664",
+    "156102665",
+    "156102666",
+    "156102667",
+    "156102668",
+    "156102669",
+    "156102670",
+    "156102671"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "156102663",
+    "156102664",
+    "156102665",
+    "156102666",
+    "156102667",
+    "156102668",
+    "156102673",
+    "156102674",
+    "156102671",
+    "156102672"
+   ]
+  }
+ ],
+ "fragments": {
+  "156102663": {
+   "fragment_id": "156104131",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 214/95\n\nde 18 de Agosto\n\nO comércio das máquinas em segunda mão possui elevada importância económica e social, nomeadamente na criação de pequenas empresas, e até as empresas industriais que investem em material novo são beneficiadas quando existe um mercado activo de máquinas em segunda mão que lhes permite vender o material antigo a preço mais vantajoso.\n\nO desenvolvimento desse mercado fora de qualquer regulamentação provocaria, porém, uma degradação do nível geral de segurança quer dos trabalhadores assalariados quer dos utilizadores de máquinas para fins não profissionais, implicando ainda distorções da concorrência em relação ao sector das máquinas colocadas pela primeira vez no mercado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156102664": {
+   "fragment_id": "156104132",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma estabelece as condições de utilização e de comercialização de máquinas usadas, com vista a eliminar os riscos para a saúde e segurança das pessoas, quando utilizadas de acordo com os fins a que se destinam.\n\n2 - A utilização das máquinas usadas fica sujeita às prescrições mínimas de segurança e de saúde relativas à utilização de equipamentos de trabalho pelos trabalhadores, constantes do Decreto-Lei n.º 331/93, de 25 de Setembro."
+  },
+  "156102665": {
+   "fragment_id": "156104133",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma entende-se por:\n\na) Máquina usada: máquina, definida nos termos do artigo 2.º do Decreto-Lei n.º 378/93, de 5 de Novembro, que já tenha sido objecto de uma primeira colocação em serviço;\n\nb) Cedente: proprietário da máquina usada, antes de ser posta à disposição de um novo utilizador;\n\nc) Utilizador: novo utilizador da máquina;\n\nd) Recondicionamento: renovação e modernização da máquina, sem alteração do comportamento funcional inicial."
+  },
+  "156102666": {
+   "fragment_id": "156104134",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de comercialização\n\n1 - Para salvaguarda da segurança e saúde das pessoas e bens na utilização de máquinas usadas que pela sua complexidade e características revistam especial perigosidade, devem estas ser acompanhadas, quando colocadas no mercado por comerciantes no exercício da sua actividade comercial, dos seguintes documentos, redigidos em língua portuguesa:\n\na) Manual de instruções, elaborado pelo fabricante ou cedente;\n\nb) Certificado, emitido por um organismo competente notificado no âmbito do Decreto-Lei n.º 378/93, de 5 de Novembro, comprovativo de que a máquina usada não apresenta qualquer risco para a segurança e saúde do utilizador;\n\nc) Declaração do cedente, contendo o seu nome, endereço e identificação profissional e o nome e endereço do organismo certificador.\n\n2 - As máquinas referidas no número anterior são definidas por portaria conjunta dos Ministros da Indústria e Energia e do Comércio e Turismo.\n\n3 - As máquinas devem ostentar, de modo legível e indelével, o nome e o endereço do fabricante, a marca, o modelo ou o número de série e o ano de fabrico."
+  },
+  "156102667": {
+   "fragment_id": "156104135",
+   "type": 11,
+   "heading": "Artigo 4.º — Manual de instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Manual de instruções\n\nO manual de instruções referido na alínea a) do artigo anterior compreende pelo menos uma descrição da máquina, incluindo a indicação da marca, modelo, número de série e ano de fabrico, e as instruções para se efectuarem sem risco, designadamente, as seguintes operações:\n\na) Colocação em serviço;\n\nb) Utilização;\n\nc) Deslocação;\n\nd) Instalação;\n\ne) Montagem e desmontagem;\n\nf) Regulação;\n\ng) Manutenção (conservação e reparação)."
+  },
+  "156102668": {
+   "fragment_id": "156104136",
+   "type": 11,
+   "heading": "Artigo 5.º — Recondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recondicionamento\n\nO recondicionamento das máquinas deve ser efectuado em conformidade com a Portaria n.º 145/94, de 12 de Março, tomando em consideração a sua viabilidade prática."
+  },
+  "156102669": {
+   "fragment_id": "156104137",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto no presente diploma é exercida pelas delegações regionais da indústria e energia (DRIE), sem prejuízo da competência atribuída por lei a outras entidades.\n\n2 - Das infracções verificadas será levantado auto de notícia, nos termos das disposições legais aplicáveis.\n\n3 - Os autos relativos a infracções verificadas por outras entidades, depois de devidamente instruídos, são enviados àquela a quem compete a aplicação das sanções."
+  },
+  "156102670": {
+   "fragment_id": "156104138",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - O incumprimento do disposto no artigo 3.º constitui contra-ordenação punível com coima, cujo montante mínimo é de 5000$00 e o máximo de 500000$00, sem prejuízo da responsabilidade civil ou penal decorrente.\n\n2 - As coimas aplicadas às pessoas colectivas podem elevar-se até ao montante máximo de 6000000$00.\n\n3 - Simultaneamente com a coima, pode ser ainda determinada a apreensão da máquina em causa, sempre que a sua utilização em condições normais represente perigo que o justifique.\n\n4 - A negligência e a tentativa são puníveis.\n\n5 - A aplicação das sanções compete ao director da DRIE em cuja área a contra-ordenação tiver sido verificada, sem prejuízo do disposto no n.º 3.\n\n6 - A receita das coimas terá a seguinte distribuição:\n\na) 60% para o Estado;\n\nb) 20% para o serviço que levantou o auto;\n\nc) 10% para o serviço que aplicou a coima;\n\nd) 10% para o Instituto Português da Qualidade (IPQ)."
+  },
+  "156102671": {
+   "fragment_id": "156104139",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "156102673": {
+   "fragment_id": "156104137",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto no presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo da competência atribuída por lei a outras entidades.\n\n2 - Das infrações verificadas será levantado auto de notícia, nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n3 - Os autos relativos a infracções verificadas por outras entidades, depois de devidamente instruídos, são enviados àquela a quem compete a aplicação das sanções.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156102674": {
+   "fragment_id": "156104138",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do RJCE, o incumprimento do disposto no artigo 3.º\n\n2 - (Revogado.)\n\n3 - Simultaneamente com a coima, pode ser ainda determinada a apreensão da máquina em causa, sempre que a sua utilização em condições normais represente perigo que o justifique.\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n5 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n6 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste artigo é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156102672": {
+   "fragment_id": "156104140",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em conselho de Ministros de 29 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.\n\nPromulgado em 28 de Julho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 1 de Agosto de 1995.\n\nPelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna."
+  }
+ }
+}

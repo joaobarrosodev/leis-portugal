@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:193650:por
+title: Portaria n.º 19706
+short_title: null
+summary: Manda antecipar na presente época venatória para o dia 28 do corrente mês o encerramento no continente da caça a
+  todas as espécies cinegéticas não indígenas, com excepção do pombo bravo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas - Serviço
+  de caça, pesca, regime florestal e protecção da natureza
+proposing_entity: null
+official_number: '19706'
+official_date: null
+publication_date: '1963-02-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 39/1963, Série I de 1963-02-15
+  number: '39'
+  series: I
+  supplement: null
+  pages: 139 - 140
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/02/03900/01390140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193650'
+  dre_path: /dr/detalhe/portaria/19706-1963-193650
+  internal: pt:dre:193650:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19706-1963-193650
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19706-1963-193650
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-02-15T00:00:00Z'
+integrity:
+  source_sha256: 304ebd1543f30342075cbce4c781e9a6bb3b32bb49330a0df7b84ef9e330f163
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-19706-193650.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19706
+
+Considerando que as condições anormais de excepcional rigor do presente Inverno têm, em toda a Europa, nomeadamente no Norte do continente, originado condições extremamente adversas à conservação e defesa de muitas espécies constituintes da fauna do continente europeu, especialmente às aves;
+
+Considerando que aquele facto tem originado uma migração extraordinária de aves, que procuram refúgio nos climas menos rigorosos do Sul da Europa;
+
+Considerando que, com o objectivo de proteger a fauna e tendo em vista a recuperação, o mais breve possível, dos prejuízos causados nas aves, particularmente nos anatídeos, é do mais alto interesse pôr em prática medidas atinentes a tal fim;
+
+Considerando o pedido feito pelo Conselho Internacional de Caça aos Governos de todos os países membros daquele Conselho no sentido de serem tomadas medidas excepcionais de protecção à fauna, particularmente no que respeita a aves migradoras de grande valor científico ou cinegético;
+
+Considerando que, dentro das aves migradoras, o pombo bravo não necessita de protecção excepcional;
+
+Ouvidas as Comissões Regionais Venatórias do Norte, Centro e Sul, sob proposta da Direcção-Geral dos Serviços Florestais e Aguícolas:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que na presente época venatória seja antecipado, no continente, para o dia 28 de Fevereiro o encerramento da caça a todas as espécies cinegéticas não indígenas, com excepção do pombo bravo.
+
+Secretaria de Estado da Agricultura, 15 de Fevereiro de 1963. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.

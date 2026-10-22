@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:294550:por
+title: Decreto-Lei n.º 119/78
+short_title: null
+summary: Define «zona económica exclusiva» e fixa os seus limites
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 119/78
+official_date: null
+publication_date: '1978-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/1978, Série I de 1978-06-01
+  number: '125'
+  series: I
+  supplement: null
+  pages: 984 - 988
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12500/09840988.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294550'
+  dre_path: /dr/detalhe/decreto-lei/119-1978-294550
+  internal: pt:dre:294550:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1978-294550
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1978-294550
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-07-28T00:00:00Z'
+integrity:
+  source_sha256: 546bd2436b5533ca1a4818d12cc0efd97ce53180b7b8a40b31ee768b947b2685
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-119-294550.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:539401:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 119/78
+
+de 1 de Junho
+
+Considerando que a [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, estabeleceu uma zona económica exclusiva para a qual ao Governo compete elaborar, e nela fazer respeitar, a legislação que assegure, inter alia, a protecção, conservação e regeneração de todos os recursos vivos;
+
+Considerando que o artigo 2.º daquela lei define o limite exterior daquela zona, cujo estabelecimento, nos termos da mesma lei, terá em conta as normas de direito internacional, que exigem publicar uma carta oficial que apresente aquela linha limite ou adequadamente definir em diploma legal as coordenadas geográficas dos pontos que a determinam;
+
+Considerando ainda que, no referido respeito pelo direito internacional, os limites da zona, tal como ficam definidos no presente diploma e na carta respectiva, são-no sem prejuízo de negociações e acordos a concluir com os países limítrofes;
+
+Usando da autorização conferida pelo artigo 5.º da [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, o Governo, ouvido o Chefe do Estado-Maior da Armada, decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Para os efeitos do presente diploma, entende-se por:
+
+a) «Zona económica exclusiva», a zona estabelecida nos termos do artigo 2.º da [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, na qual o Estado Português, de acordo com o direito internacional, além de exercer jurisdição, nomeadamente sobre o estabelecimento e utilização de ilhas artificiais e outras instalações e estruturas também artificias, sobre investigação científica marítima e sobre a protecção do ambiente marinho, tem direitos soberanos:
+
+i) Para os fins de prospectar e explorar, conservar e gerir todos os recursos naturais, vivos ou não, do fundo do mar e seu subsolo e das águas superjacentes;
+
+ii) Sobre todas as outras actividades que tenham por fim o estudo e exploração económica da zona, tais como a produção de energia a partir da água, das correntes e dos ventos;
+
+b) «Linhas de base», as linhas de base normal, linhas de fecho e de base rectas, a partir das quais se mede a largura do mar territorial português, conforme são definidas na [Lei n.º 2130](https://diariodarepublica.pt/dr/detalhe/lei/2130-1966-469455), de 22 de Agosto de 1966, e no [Decreto-Lei n.º 47771](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47771-1967-311640), de 27 de Junho de 1967, com as alterações introduzidas pelo artigo 11.º da [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio;
+
+c) «Linha externa» à distância de um número especificado de milhas, o lugar geométrico dos pontos sobre o mar cuja distância dos pontos mais próximos das linhas de base é a distância especificada, lugar que se obtém determinando a envolvente, sobre o mar, de arcos de circunferência de raio igual a essa distância, centrados nas linhas de base;
+
+d) «Limite exterior da zona económica exclusiva», o perímetro formado pela linha ou linhas externas a 200 milhas e pela linha ou linhas que delimitam aquela zona, de águas sob jurisdição exclusiva dos estados limítrofes;
+
+e) «Limite inferior da zona económica exclusiva», a linha ou linhas que constituem o limite exterior do mar territorial português, ou seja, a linha ou linhas externas a 12 milhas;
+
+f) «Linha mediana» ou «mediana» entre territórios de dois países, o lugar geométrico dos pontos sobre o mar que se encontram a igual distância dos pontos mais próximos das linhas de base desses dois territórios;
+
+g) «Ponto triplo» entre territórios de três países, o ponto de intersecção das linhas medianas entre os arranjos dois a dois desses três territórios;
+
+h) «Milha», a milha marítima, de 1852 m.
+
+###### Art. 2.º - 1 - A zona económica exclusiva é dividida em três subáreas, designadas, respectivamente, por:
+
+Subárea 1 - Subárea do continente;
+
+Subárea 2 - Subárea da Madeira;
+
+Subárea 3 - Subárea dos Açores.
+
+2 - Compete ao Secretário de Estado das Pescas subdividir estas subáreas, por ordem decrescente de tamanho e importância, em divisões, subdivisões, secções e subsecções, conforme adequado às actividades de pesca.
+
+3 - O processo de subdivisão previsto no número anterior não impede que os órgãos de soberania estabeleçam, para outros fins e por intermédio das respectivas autoridades competentes, com adequadas designações, outras formas de subdivisão das subáreas.
+
+###### Art. 3.º - 1 - O limite exterior da subárea do continente (subárea 1) é definido por:
+
+a) Do ponto 1 ao ponto 1-A - a linha mediana entre Portugal e Espanha;
+
+b) Do ponto 1-A ao ponto 5 - a linha externa a 200 milhas;
+
+c) Do ponto 5 ao ponto 12 - a linha mediana entre Portugal e Marrocos, até ao ponto triplo entre Portugal, Marrocos e Espanha;
+
+d) Do ponto 12 ao ponto 13 - a linha mediana entre Portugal e Espanha;
+
+e) Do ponto 13 ao ponto N - o limite exterior do mar territorial de Espanha.
+
+2 - A designação e coordenadas geográficas dos centros da linha externa indicada na alínea b) do número anterior são as definidas no anexo I.
+
+3 - No anexo I-A são dadas as coordenadas geográficas de pontos, referenciados por letras, situados sobre a linha de delimitação dos mares territoriais português e espanhol e de pontos numerados situados sobre o limite exterior da subárea 1, de modo a mais facilmente concretizar na prática este limite.
+
+###### Art. 4.º - 1 - O limite exterior da subárea da Madeira (subárea 2) é definido por:
+
+a) Do ponto 14 ao 17 - a linha externa a 200 milhas;
+
+b) Do ponto 17 ao 26 - a linha mediana entre as ilhas da Madeira e as Canárias, até ao ponto triplo entre as ilhas da Madeira, as Canárias e Marrocos;
+
+c) Do ponto 26 ao 14 - a linha mediana entre as ilhas da Madeira e Marrocos.
+
+2 - A designação e coordenadas geográficas dos centros da linha externa indicada na alínea a) do número anterior são as definidas no anexo II.
+
+3 - No anexo II-A são dadas as coordenadas geográficas de pontos numerados situados sobre o limite exterior da subárea 2, de modo a mais facilmente o concretizar na prática.
+
+###### Art. 5.º - 1 - O limite exterior da subárea dos Açores (subárea 3) é definido pela linha externa a 200 milhas.
+
+2 - A designação e coordenadas geográficas dos centros da linha externa indicada no número anterior são as definidas no anexo III.
+
+3 - No anexo III-A são dadas as coordenadas geográficas dos pontos numerados definidos sobre o limite exterior da subárea 3, de modo a mais facilmente o concretizar na prática.
+
+###### Art. 6.º - 1 - O limite exterior da zona económica exclusiva e a delimitação dos mares territoriais português e espanhol, sem prejuízo de qualquer acordo a concluir, são os representados na carta n.º 1001-E do Instituto Hidrográfico, reproduzida no anexo IV.
+
+2 - Em aviso aos navegantes pode o Instituto Hidrográfico publicar as coordenadas geográficas de pontos numerados suplementares definidos sobre o limite exterior de qualquer das subáreas, de modo a facilitar suplementarmente aos navegantes a determinação da posição daquele limite. Compete ao mesmo Instituto publicar e difundir novas cartas em que figurem esses pontos suplementares.
+
+###### Art. 7.º A definição do limite exterior da zona económica exclusiva em nada afecta o Estatuto Jurídico da Plataforma Continental, conforme está definido nas disposições legais em vigor, em zonas do fundo do mar não subjacentes ao mar territorial, circunscritas pela vertical do referido limite exterior, nem o estatuto jurídico de qualquer zona contígua que possa vir a ser estabelecida de acordo com o direito internacional marítimo.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares.
+
+**Promulgado em 10 de Maio de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/12500/09840988.pdf))](https://files.diariodarepublica.pt/1s/1978/06/12500/09840988.pdf)
+
+**O Primeiro-Ministro, Mário Soares.**

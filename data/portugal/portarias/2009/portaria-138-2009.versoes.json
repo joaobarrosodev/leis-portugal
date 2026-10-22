@@ -1,0 +1,540 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:601694:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-116353295",
+ "dre_path": "/dr/detalhe/portaria/138-2009-601694",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-02-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "836268009",
+    "116345970",
+    "116345971",
+    "116345972",
+    "116345973",
+    "116345974",
+    "116357075",
+    "116357076",
+    "116357077",
+    "116357078",
+    "116357080"
+   ]
+  },
+  {
+   "date": "2009-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:244880:por",
+     "title": "Portaria n.º 982-A/2009",
+     "published": "2009-09-02",
+     "dre_path": "/dr/detalhe/portaria/982-a-2009-244880"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "116345969",
+    "116345970",
+    "116345971",
+    "116357099",
+    "116357100",
+    "116357101",
+    "116357102",
+    "116357076",
+    "116357077",
+    "116357078",
+    "116357079",
+    "116357080"
+   ]
+  },
+  {
+   "date": "2012-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:139030:por",
+     "title": "Portaria n.º 268-A/2012",
+     "published": "2012-08-31",
+     "dre_path": "/dr/detalhe/portaria/268-a-2012-139030"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "116345969",
+    "116357103",
+    "116357106",
+    "116357099",
+    "116357100",
+    "116357107",
+    "116357102",
+    "116357076",
+    "116357077",
+    "116357078",
+    "116357079",
+    "116357108"
+   ]
+  },
+  {
+   "date": "2018-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116345870:por",
+     "title": "Portaria n.º 249-A/2018",
+     "published": "2018-09-06",
+     "dre_path": "/dr/detalhe/portaria/249-a-2018-116345870"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "116345969",
+    "116357103",
+    "116357109",
+    "116357099",
+    "116357100",
+    "116357110",
+    "116357111",
+    "116357076",
+    "116357077",
+    "116357078",
+    "116357079",
+    "116357108"
+   ]
+  },
+  {
+   "date": "2019-10-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125074535:por",
+     "title": "Portaria n.º 353/2019",
+     "published": "2019-10-07",
+     "dre_path": "/dr/detalhe/portaria/353-2019-125074535"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "116345969",
+    "116357103",
+    "116357109",
+    "116357099",
+    "125072001",
+    "116357110",
+    "116357111",
+    "116357076",
+    "116357077",
+    "116357078",
+    "116357079",
+    "116357108"
+   ]
+  },
+  {
+   "date": "2024-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836205473:por",
+     "title": "Portaria n.º 7-A/2024",
+     "published": "2024-01-05",
+     "dre_path": "/dr/detalhe/portaria/7-a-2024-836205473"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "836268009",
+    "836268010",
+    "836268011",
+    "836268012",
+    "836268013",
+    "836268014",
+    "836268015",
+    "836268016",
+    "836268017",
+    "836268018",
+    "836268019",
+    "836268020"
+   ]
+  }
+ ],
+ "fragments": {
+  "836268009": {
+   "fragment_id": "116353296",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-01-06",
+   "changed_by": [],
+   "markdown": "Portaria n.º 138/2009\n\nde 3 de Fevereiro\n\nO Decreto-Lei n.º 186/2008, de 19 de Setembro, veio criar o passe escolar designado «passe 4_18@escola.tp», o qual assume uma função complementar ao transporte escolar a que se refere o Decreto-Lei n.º 299/84, de 5 de Setembro.\n\nNos termos destes diplomas são estabelecidas as condições genéricas de atribuição do passe escolar, remetendo-se para portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, da administração local e da educação a definição das condições de atribuição do desconto, bem como as relativas à operacionalização do sistema que lhe está associado.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 3.º-A do Decreto-Lei n.º 299/84, de 5 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 186/2008, de 19 de Setembro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, das Obras Públicas, Transportes e Comunicações e da Educação e pelo Secretário de Estado Adjunto e da Administração Local, o seguinte:"
+  },
+  "116345970": {
+   "fragment_id": "116353297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define as condições de atribuição do «passe escolar 4_18@escola.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos previstos pelos Decretos-Leis n.os 299/84 e 186/2008, respectivamente de 5 e 19 de Setembro."
+  },
+  "116345971": {
+   "fragment_id": "116353298",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe 4_18@escola.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe 4_18@escola.tp»\n\n1 - São abrangidos pelo «passe 4_18@escola.tp» todos os estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não beneficiem, na deslocação casa-escola, de transporte escolar no âmbito do Decreto-Lei n.º 299/84, de 5 de Setembro.\n\n2 - O «passe 4_18@escola.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano lectivo a que respeita e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha correspondentes ao percurso casa-escola."
+  },
+  "116345972": {
+   "fragment_id": "116353299",
+   "type": 11,
+   "heading": "Artigo 3.º — Comprovação do direito ao «passe 4_18@escola.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comprovação do direito ao «passe 4_18@escola.tp»\n\n1 - O direito ao «passe 4_18@escola.tp» é comprovado mediante declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, a emitir anualmente pelo estabelecimento de ensino onde o aluno esteja matriculado, nos termos previstos no n.º 6 do artigo 3.º do Decreto-Lei n.º 299/84, de 5 de Setembro, na redacção dada pelo Decreto-Lei n.º 186/2008, de 19 de Setembro.\n\n2 - Emitida a declaração, a que se refere o número anterior, o aluno ou o encarregado de educação solicitam à empresa de transporte público de passageiros a emissão de cartão que lhe confere o direito à aquisição do título de transporte, correspondente à deslocação casa-escola.\n\n3 - As crianças que tenham menos de 6 anos de idade em 31 de Dezembro de cada ano são dispensadas de apresentar a declaração prevista no número anterior, a qual é substituída por documentos que provem a sua idade e residência.\n\n4 - Nos anos lectivos subsequentes ao da primeira atribuição do «passe 4_18@escola.tp», o aluno ou encarregado de educação deve fazer prova, no acto de aquisição do título de transporte, do direito ao mesmo mediante a apresentação da declaração a que se refere o n.º 1 do presente artigo."
+  },
+  "116345973": {
+   "fragment_id": "116353300",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - O cartão que serve de suporte ao «passe 4_18@escola.tp» terá imagem comum para todo o País numa das faces, podendo esta imagem ser impressa no cartão ou em autocolante aposto em cartão de passe já existente.\n\n2 - Os operadores procedem à emissão do cartão requisitado pelo aluno ou encarregado de educação, desde que o transporte se compreenda entre as moradas indicadas na declaração ou documento a que se refere o artigo 3.º\n\n3 - O custo do cartão corresponde a 50 % do preço normal dos cartões de passe correspondentes, a suportar pelo requisitante, salvo no caso do aluno já ser possuidor de cartão válido de passe corrente, em que este é trocado gratuitamente visando alteração de perfil.\n\n4 - O cartão é válido por períodos máximos de quatro anos, não podendo o período de validade ultrapassar o último dia do mês em que o titular perfaça 19 anos de idade.\n\n5 - Os documentos de suporte à emissão do cartão devem ser guardados pela empresa durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n6 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n7 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 5 o direito de acesso aos mesmos, nos termos da legislação aplicável à protecção de dados pessoais, bem como o direito de exigir a rectificação de quaisquer informações inexactas ou a inclusão de informações total ou parcialmente omissas."
+  },
+  "116345974": {
+   "fragment_id": "116353301",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A venda do título de transporte «passe 4_18@escola.tp» é efectuada pelos operadores de transporte, mediante apresentação do cartão de passe pelo próprio aluno ou pelo encarregado de educação, para o percurso correspondente à deslocação casa-escola.\n\n2 - O título de transporte «passe 4_18@escola.tp» terá o desconto de 50 % em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos."
+  },
+  "116357075": {
+   "fragment_id": "116353302",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização e compensação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Monitorização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de criança/de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior e após a entrada em vigor do «passe 4_18@escola.tp», os operadores devem efectuar e manter um registo informático descritivo dos cartões emitidos e de títulos de transporte vendidos nos termos da presente portaria.\n\n3 - As empresas de transporte e os estabelecimentos de ensino devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do «passe de 4_18@escola.tp», designadamente o envio pelos estabelecimentos de ensino de cópia da declaração prevista no n.º 1 do artigo 3.º, para efeitos de monitorização do sistema.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º-A do Decreto-Lei n.º 186/2008, de 19 de Setembro.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, fica cometida ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF)."
+  },
+  "116357076": {
+   "fragment_id": "116353303",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação aos transportes de iniciativa municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicação aos transportes de iniciativa municipal\n\nA presente portaria aplica-se com as necessárias adaptações aos serviços de transporte da iniciativa dos municípios que, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 186/2008, de 19 de Setembro, comuniquem ao IMTT a adesão ao sistema «passe 4_18@escola.tp»."
+  },
+  "116357077": {
+   "fragment_id": "116353304",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116357078": {
+   "fragment_id": "116353305",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente portaria reporta os seus efeitos a 1 de Setembro de 2008.\n\nEm 30 de Setembro de 2008."
+  },
+  "116357080": {
+   "fragment_id": "116353307",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n(ver documento original)\n\n> Nota: [Artigo 2.º, Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880) O modelo de declaração, constante do anexo à Portaria n.º 138/2009, de 3 de Fevereiro, a emitir anualmente pelo estabelecimento de ensino onde o aluno esteja matriculado que comprova o direito do aluno ao passe escolar «4_18@escola.tp», nos termos previstos no n.º 6 do artigo 3.º do Decreto-Lei n.º 299/84, de 5 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 186/2008, de 19 de Setembro, continua válido para os anos lectivos de 2009-2010 e subsequentes, sendo adaptado em conformidade"
+  },
+  "116345969": {
+   "fragment_id": "116353296",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 138/2009\n\nde 3 de Fevereiro\n\nO Decreto-Lei n.º 186/2008, de 19 de Setembro, veio criar o passe escolar designado «passe 4_18@escola.tp», o qual assume uma função complementar ao transporte escolar a que se refere o Decreto-Lei n.º 299/84, de 5 de Setembro.\n\nNos termos destes diplomas são estabelecidas as condições genéricas de atribuição do passe escolar, remetendo-se para portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, da administração local e da educação a definição das condições de atribuição do desconto, bem como as relativas à operacionalização do sistema que lhe está associado.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 3.º-A do Decreto-Lei n.º 299/84, de 5 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 186/2008, de 19 de Setembro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, das Obras Públicas, Transportes e Comunicações e da Educação e pelo Secretário de Estado Adjunto e da Administração Local, o seguinte:"
+  },
+  "116357099": {
+   "fragment_id": "116353299",
+   "type": 11,
+   "heading": "Artigo 3.º — Comprovação do direito ao «passe 4_18@escola.tp»",
+   "in_force_from": "2009-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 3.º — Comprovação do direito ao «passe 4_18@escola.tp»\n\n1 - O direito ao «passe 4_18@escola.tp» é comprovado mediante declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, a emitir anualmente pelo estabelecimento de ensino onde o aluno esteja matriculado, nos termos previstos no n.º 6 do artigo 3.º do Decreto-Lei n.º 299/84, de 5 de Setembro, na redacção dada pelo Decreto-Lei n.º 186/2008, de 19 de Setembro.\n\n2 - As crianças que tenham menos de 6 anos de idade em 31 de Dezembro de cada ano são dispensadas de apresentar a declaração prevista no número anterior, a qual é substituída por documentos que provem a sua idade e residência.\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "116357100": {
+   "fragment_id": "116353300",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": "2009-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - O cartão que serve de suporte ao «passe 4_18@escola.tp» terá imagem comum para todo o País numa das faces, podendo esta imagem ser impressa no cartão ou em autocolante aposto em cartão de passe já existente.\n\n2 - O cartão é requisitado pelo aluno ou encarregado de educação junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo anterior, conforme a situação aplicável.\n\n3 - O custo do cartão, a suportar pelo requisitante, correspondente a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão '4_18@escola.tp', o cartão é trocado gratuitamente, visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 19 anos de idade.\n\n6 - Nos anos lectivos subsequentes ao da emissão do cartão, o aluno ou o encarregado de educação deve fazer prova do direito ao mesmo, mediante entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão '4_18@escola.tp'.\n\n7 - No acto de requisição do cartão ou de renovação do direito ao mesmo, o aluno ou o encarregado de educação deve declarar qual o título de transporte 'passe 4_18@escola.tp' que pretende que lhe seja atribuído.\n\n8 - Nos actos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano lectivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão '4_18@escola.tp' de informação sobre o título de transporte atribuído, mediante registo electrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão do cartão devem ser guardados pela empresa durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à protecção de dados pessoais, bem como o direito de exigir a rectificação de quaisquer informações inexactas ou a inclusão de informações total ou parcialmente omissas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "116357101": {
+   "fragment_id": "116353301",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": "2009-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte 'passe 4_18@escola.tp', em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão 'passe 4_18@escola.tp'.\n\n2 - A venda de títulos de transporte 'passe 4_18@escola.tp' subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontram disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O título de transporte «passe 4_18@escola.tp» terá o desconto de 50 % em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "116357102": {
+   "fragment_id": "116353302",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": "2009-09-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de criança/de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores de transporte público de passageiros devem efectuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte 'passe 4_18@escola.tp' adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema:\n\na) Os operadores de transporte e os estabelecimentos de ensino devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do 'passe 4_18@escola.tp';\n\nb) Os operadores de transporte facultarão ao IMTT, I. P., o acesso aos originais dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º-A do Decreto-Lei n.º 186/2008, de 19 de Setembro.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, fica cometida ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "116357079": {
+   "fragment_id": "116353306",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - A Ministra da Educação, Maria de Lurdes Reis Rodrigues. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita."
+  },
+  "116357103": {
+   "fragment_id": "116353297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define as condições de atribuição do «passe 4_18@escola.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos previstos pelos Decretos-Leis n.os 299/84, de 5 de setembro, 186/2008, de 19 de setembro, e 29-A/2011, de 1 de março.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "116357106": {
+   "fragment_id": "116353298",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe 4_18@escola.tp»",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe 4_18@escola.tp»\n\n1 - São elegíveis para o passe «4_18@escola.tp» os estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não se encontrem abrangidos pelo âmbito do serviço de transporte escolar estabelecido no artigo 2.º do Decreto-Lei n.º 299/84, de 5 de setembro, e que:\n\na) Sejam beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) Sejam beneficiários do Escalão «B» da Ação Social Escolar;\n\nc) Sejam estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n2 - O «passe 4_18@escola.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano letivo a que respeita e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "116357107": {
+   "fragment_id": "116353301",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte 'passe 4_18@escola.tp', em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão 'passe 4_18@escola.tp'.\n\n2 - A venda de títulos de transporte 'passe 4_18@escola.tp' subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontram disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O título de transporte passe «4_18@escola.tp» terá os seguintes descontos:\n\na) 60 % para os estudantes beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) 25 % para os estudantes beneficiários do Escalão «B» da Ação Social Escolar;\n\nc) 25 % para estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos nas alíneas a) e b) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino que ateste que estão abrangidos pelo respetivo escalão, no âmbito do regime da Ação Social Escolar.\n\n6 - Para beneficiarem dos descontos previstos na alínea c) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino e cumprir com os critérios estabelecidos nos artigos 3.º-B, 3.º-C, 4.º, 6.º-A e 6.º-B da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "116357108": {
+   "fragment_id": "116353307",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n(ver documento original)\n\n> Nota: [Artigo 2.º, Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880) O modelo de declaração, constante do anexo à Portaria n.º 138/2009, de 3 de Fevereiro, a emitir anualmente pelo estabelecimento de ensino onde o aluno esteja matriculado que comprova o direito do aluno ao passe escolar «4_18@escola.tp», nos termos previstos no n.º 6 do artigo 3.º do Decreto-Lei n.º 299/84, de 5 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 186/2008, de 19 de Setembro, continua válido para os anos lectivos de 2009-2010 e subsequentes, sendo adaptado em conformidade\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+  },
+  "116357109": {
+   "fragment_id": "116353298",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe 4_18@escola.tp»",
+   "in_force_from": "2018-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe 4_18@escola.tp»\n\n1 - O «passe 4_18@escola.tp» destina-se aos estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não beneficiem de transporte escolar no âmbito do Decreto-Lei n.º 299/84, de 5 de setembro.\n\n2 - O «passe 4_18@escola.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano letivo a que respeita e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "116357110": {
+   "fragment_id": "116353301",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": "2018-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte 'passe 4_18@escola.tp', em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão 'passe 4_18@escola.tp'.\n\n2 - A venda de títulos de transporte 'passe 4_18@escola.tp' subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontram disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O «passe 4_18@escola.tp» tem os seguintes descontos:\n\na) 60 % para os estudantes beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) 25 % para os restantes estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, não abrangidos pelo disposto na alínea anterior.\n\nc) (Revogada.)\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino que ateste que estão abrangidos pelo respetivo escalão, no âmbito do regime da Ação Social Escolar.\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "116357111": {
+   "fragment_id": "116353302",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": "2018-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de criança/de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores de transporte público de passageiros devem efectuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte 'passe 4_18@escola.tp' adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema:\n\na) Os operadores de transporte e os estabelecimentos de ensino devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do 'passe 4_18@escola.tp';\n\nb) Os operadores de transporte facultarão ao IMTT, I. P., o acesso aos originais dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º-A do Decreto-Lei n.º 186/2008, de 19 de Setembro.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, fica cometida ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF).\n\n6 - O direito à compensação financeira prevista no n.º 1 está condicionado à manutenção da oferta de passes de estudante, com esta ou outra designação, existente à data de 1 de janeiro de 2018.\n\n7 - Nos casos em que é aplicado o «passe 4_18@escola.tp» aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração regional, as responsabilidades de monitorização, fiscalização e compensação financeira descritas nos números anteriores são asseguradas pelas entidades regionais no âmbito das respetivas competências.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "125072001": {
+   "fragment_id": "116353300",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": "2019-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - (Revogado).\n\n2 - O cartão é requisitado pelo aluno ou encarregado de educação junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo anterior, conforme a situação aplicável.\n\n3 - O custo do cartão, a suportar pelo requisitante, correspondente a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão '4_18@escola.tp', o cartão é trocado gratuitamente, visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 19 anos de idade.\n\n6 - Nos anos lectivos subsequentes ao da emissão do cartão, o aluno ou o encarregado de educação deve fazer prova do direito ao mesmo, mediante entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão '4_18@escola.tp'.\n\n7 - No acto de requisição do cartão ou de renovação do direito ao mesmo, o aluno ou o encarregado de educação deve declarar qual o título de transporte 'passe 4_18@escola.tp' que pretende que lhe seja atribuído.\n\n8 - Nos actos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano lectivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão '4_18@escola.tp' de informação sobre o título de transporte atribuído, mediante registo electrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão do cartão devem ser guardados pela empresa durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à protecção de dados pessoais, bem como o direito de exigir a rectificação de quaisquer informações inexactas ou a inclusão de informações total ou parcialmente omissas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "836268010": {
+   "fragment_id": "116353297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define as condições de atribuição do «passe 4_18@escola.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos previstos pelos Decretos-Leis n.os 299/84, de 5 de setembro, 186/2008, de 19 de setembro, e 29-A/2011, de 1 de março.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "836268011": {
+   "fragment_id": "116353298",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe 4_18@escola.tp»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe 4_18@escola.tp»\n\n1 - O «passe 4_18@escola.tp» destina-se aos estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não beneficiem de transporte escolar no âmbito do Decreto-Lei n.º 299/84, de 5 de setembro.\n\n2 - O «passe 4_18@escola.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano letivo a que respeita e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "836268012": {
+   "fragment_id": "116353299",
+   "type": 11,
+   "heading": "Artigo 3.º — Comprovação do direito ao «passe 4_18@escola.tp»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 3.º — Comprovação do direito ao «passe 4_18@escola.tp»\n\n1 - O direito ao «passe 4_18@escola.tp» é comprovado mediante declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, a emitir anualmente pelo estabelecimento de ensino onde o aluno esteja matriculado, nos termos previstos no n.º 6 do artigo 3.º do Decreto-Lei n.º 299/84, de 5 de Setembro, na redacção dada pelo Decreto-Lei n.º 186/2008, de 19 de Setembro.\n\n2 - As crianças que tenham menos de 6 anos de idade em 31 de Dezembro de cada ano são dispensadas de apresentar a declaração prevista no número anterior, a qual é substituída por documentos que provem a sua idade e residência.\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "836268013": {
+   "fragment_id": "116353300",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - (Revogado).\n\n2 - O cartão é requisitado pelo aluno ou encarregado de educação junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo anterior, conforme a situação aplicável.\n\n3 - O custo do cartão, a suportar pelo requisitante, correspondente a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão '4_18@escola.tp', o cartão é trocado gratuitamente, visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 19 anos de idade.\n\n6 - Nos anos lectivos subsequentes ao da emissão do cartão, o aluno ou o encarregado de educação deve fazer prova do direito ao mesmo, mediante entrega dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão '4_18@escola.tp'.\n\n7 - No acto de requisição do cartão ou de renovação do direito ao mesmo, o aluno ou o encarregado de educação deve declarar qual o título de transporte 'passe 4_18@escola.tp' que pretende que lhe seja atribuído.\n\n8 - Nos actos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano lectivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão '4_18@escola.tp' de informação sobre o título de transporte atribuído, mediante registo electrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão do cartão devem ser guardados pela empresa durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à protecção de dados pessoais, bem como o direito de exigir a rectificação de quaisquer informações inexactas ou a inclusão de informações total ou parcialmente omissas.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "836268014": {
+   "fragment_id": "116353301",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte 'passe 4_18@escola.tp', em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão 'passe 4_18@escola.tp'.\n\n2 - A venda de títulos de transporte 'passe 4_18@escola.tp' subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontram disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O «passe 4_18@escola.tp» tem os seguintes descontos:\n\na) 60 % para os estudantes beneficiários do Escalão «A» da Ação Social Escolar;\n\nb) 25 % para os restantes estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, não abrangidos pelo disposto na alínea anterior.\n\nc) (Revogada.)\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino que ateste que estão abrangidos pelo respetivo escalão, no âmbito do regime da Ação Social Escolar.\n\n6 - (Revogado.)\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "836268015": {
+   "fragment_id": "116353302",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+   ],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de criança/de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores de transporte público de passageiros devem efectuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte 'passe 4_18@escola.tp' adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema:\n\na) Os operadores de transporte e os estabelecimentos de ensino devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do 'passe 4_18@escola.tp';\n\nb) Os operadores de transporte facultarão ao IMTT, I. P., o acesso aos originais dos documentos previstos no n.º 1 ou no n.º 2 do artigo 3.º, conforme aplicável, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º-A do Decreto-Lei n.º 186/2008, de 19 de Setembro.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, fica cometida ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF).\n\n6 - O direito à compensação financeira prevista no n.º 1 está condicionado à manutenção da oferta de passes de estudante, com esta ou outra designação, existente à data de 1 de janeiro de 2018.\n\n7 - Nos casos em que é aplicado o «passe 4_18@escola.tp» aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração regional, as responsabilidades de monitorização, fiscalização e compensação financeira descritas nos números anteriores são asseguradas pelas entidades regionais no âmbito das respetivas competências.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07, produz efeitos a partir de 2018-09-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880), em vigor a partir de 2009-09-03"
+  },
+  "836268016": {
+   "fragment_id": "116353303",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação aos transportes de iniciativa municipal",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Aplicação aos transportes de iniciativa municipal\n\nA presente portaria aplica-se com as necessárias adaptações aos serviços de transporte da iniciativa dos municípios que, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 186/2008, de 19 de Setembro, comuniquem ao IMTT a adesão ao sistema «passe 4_18@escola.tp».\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268017": {
+   "fragment_id": "116353304",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268018": {
+   "fragment_id": "116353305",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente portaria reporta os seus efeitos a 1 de Setembro de 2008.\n\nEm 30 de Setembro de 2008.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268019": {
+   "fragment_id": "116353306",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - A Ministra da Educação, Maria de Lurdes Reis Rodrigues. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268020": {
+   "fragment_id": "116353307",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n(ver documento original)\n\n> Nota: [Artigo 2.º, Portaria n.º 982-A/2009 - Diário da República n.º 170/2009, 2º Suplemento, Série I de 2009-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/982-a-2009-244880) O modelo de declaração, constante do anexo à Portaria n.º 138/2009, de 3 de Fevereiro, a emitir anualmente pelo estabelecimento de ensino onde o aluno esteja matriculado que comprova o direito do aluno ao passe escolar «4_18@escola.tp», nos termos previstos no n.º 6 do artigo 3.º do Decreto-Lei n.º 299/84, de 5 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 186/2008, de 19 de Setembro, continua válido para os anos lectivos de 2009-2010 e subsequentes, sendo adaptado em conformidade\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+  }
+ }
+}

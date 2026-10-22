@@ -1,0 +1,460 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70300352:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-118011213",
+ "dre_path": "/dr/detalhe/portaria/289-2015-70300352",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177159458",
+    "117965366",
+    "117965367",
+    "117965368",
+    "117965370",
+    "117965371",
+    "117965372",
+    "117965373",
+    "117965374",
+    "118052075",
+    "118052076",
+    "118052077",
+    "118052078",
+    "118052079",
+    "118052080",
+    "118052081",
+    "118052082",
+    "118052083"
+   ]
+  },
+  {
+   "date": "2019-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117919464:por",
+     "title": "Portaria n.º 28/2019",
+     "published": "2019-01-18",
+     "dre_path": "/dr/detalhe/portaria/28-2019-117919464"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "117965365",
+    "117965366",
+    "117965367",
+    "117965368",
+    "117965369",
+    "117965370",
+    "117965371",
+    "117965372",
+    "117965373",
+    "118052090",
+    "118052075",
+    "118052076",
+    "118052077",
+    "118052078",
+    "118052079",
+    "118052080",
+    "118052081",
+    "118052082",
+    "118052083"
+   ]
+  },
+  {
+   "date": "2022-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177160281:por",
+     "title": "Portaria n.º 20/2022",
+     "published": "2022-01-05",
+     "dre_path": "/dr/detalhe/portaria/20-2022-177160281"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "177159458",
+    "177159459",
+    "177159460",
+    "177159461",
+    "177159462",
+    "177159463",
+    "177159464",
+    "177159465",
+    "177159466",
+    "177159467",
+    "177159468",
+    "177159469",
+    "177159470",
+    "177159471",
+    "177159472",
+    "177159473",
+    "177159474",
+    "177194275",
+    "177194276"
+   ]
+  }
+ ],
+ "fragments": {
+  "177159458": {
+   "fragment_id": "118011214",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-02-05",
+   "changed_by": [],
+   "markdown": "Portaria n.º 289/2015\n\nde 17 de setembro\n\nO Regulamento Geral de Gestão de Resíduos (RGGR), aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio, determina que compete à Autoridade Nacional dos Resíduos manter, no seu sítio da internet, um sistema integrado de registo eletrónico de resíduos, designado por SIRER, que permita o registo e o armazenamento de dados relativos a produção e gestão de resíduos e a produtos colocados no mercado abrangidos por legislação relativa a fluxos específicos de resíduos, bem como a transmissão e consulta de informação sobre a matéria.\n\nA gestão do SIRER engloba todos os atos praticados com o objetivo de garantir o seu normal e seguro funcionamento e visa, essencialmente garantir a confidencialidade e integridade da informação, a conservação dos dados lançados no sistema informático, o acesso legal ao sistema, e a concessão de atos autorizativos.\n\nA Portaria n.º 1408/2006, de 18 de dezembro, nos termos do n.º 2 do artigo 46.º do RGGR, aprovou o Regulamento de Funcionamento do SIRER, que estabelece as regras sobre o registo e sobre a gestão da base de dados, composta pela coletânea de elementos informativos, dispostos de modo sistemático ou metódico, suscetíveis de acesso individual por meios eletrónicos ou outros.\n\nNo período de tempo entretanto decorrido a evolução dos sistemas informáticos e de registo de dados por via eletrónica, bem como as mudanças organizacionais ocorridas na Administração Pública determinaram alterações significativas na forma de registo dos dados que impõem a adequação em conformidade das regras em vigor.\n\nTorna-se, por conseguinte necessário proceder à alteração do Regulamento de Funcionamento do SIRER, no sentido da sua atualização de acordo com os mais recentes desenvolvimentos tecnológicos, de forma a continuar a assegurar o seu normal e seguro funcionamento.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 46.º do Regulamento Geral de Gestão de Resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, ao abrigo das competências delegadas pelo Ministro do Ambiente, Ordenamento do Território e Energia nos termos do Despacho n.º 13322/2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro, alterado pelo Despacho n.º 1941-A/2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro, pelo Despacho n.º 9478/2014, publicado no Diário da República, 2.ª série, n.º 139, de 22 de julho, e pelo Despacho n.º 8647/2015, publicado no Diário da República, n.º 152, 2.ª série, de 6 de agosto, o seguinte:"
+  },
+  "117965366": {
+   "fragment_id": "118011215",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovado o Regulamento de Funcionamento do Sistema Integrado de Registo Eletrónico de Resíduos (SIRER), que estabelece os procedimentos de inscrição e registo bem como o regime de acesso e de utilização da plataforma, nos termos do n.º 2 do artigo 46.º do Regulamento Geral de Gestão de Resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio, constante do anexo à presente portaria da qual faz parte integrante.\n\n2 - O regime previsto na presente portaria aplica-se às Regiões Autónomas, com as necessárias adaptações, cabendo a execução administrativa aos órgãos e serviços das respetivas administrações regionais, sem prejuízo da gestão ao nível nacional."
+  },
+  "117965367": {
+   "fragment_id": "118011216",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1408/2006, de 18 de dezembro."
+  },
+  "117965368": {
+   "fragment_id": "118011217",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no mês seguinte à sua publicação."
+  },
+  "117965370": {
+   "fragment_id": "118011219",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE FUNCIONAMENTO DO SISTEMA INTEGRADO DE REGISTO ELETRÓNICO DE RESÍDUOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE FUNCIONAMENTO DO SISTEMA INTEGRADO DE REGISTO ELETRÓNICO DE RESÍDUOS"
+  },
+  "117965371": {
+   "fragment_id": "118011220",
+   "type": 11,
+   "heading": "Artigo 1.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Inscrição\n\n1 - O acesso ao Sistema Integrado de Registo Eletrónico de Resíduos (SIRER) carece de prévia inscrição das entidades previstas no artigo 48.º do Regulamento Geral de Gestão de Resíduos (RGGR), aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio.\n\n2 - A inscrição no SIRER é efetuada através do preenchimento de formulário disponível na plataforma eletrónica da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), enquanto Autoridade Nacional dos Resíduos (ANR).\n\n3 - A APA, I. P. publicita as regras de funcionamento da plataforma eletrónica no seu sítio da internet.\n\n4 - A inscrição na plataforma eletrónica e a seleção de um perfil relacionado com resíduos confere às entidades referidas no n.º 1 a qualidade de utilizador do SIRER, habilitando-as ao preenchimento e submissão dos respetivos mapas de registo."
+  },
+  "117965372": {
+   "fragment_id": "118011221",
+   "type": 11,
+   "heading": "Artigo 2.º — Mapas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mapas de registo\n\nO registo dos dados efetua-se através do preenchimento por via eletrónica de mapas de registo disponíveis na plataforma da APA, I. P. que incluem dados sobre:\n\na) O estabelecimento e a sua atividade;\n\nb) A produção e gestão de resíduos."
+  },
+  "117965373": {
+   "fragment_id": "118011222",
+   "type": 11,
+   "heading": "Artigo 3.º — Regras de preenchimento dos mapas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regras de preenchimento dos mapas de registo\n\n1 - O preenchimento dos mapas de registo é da responsabilidade das entidades previstas no n.º 1 do artigo 1.º do presente Regulamento.\n\n2 - A APA, I. P. publicita no seu sítio da internet o manual com as instruções para o correto preenchimento dos mapas de registo.\n\n3 - O envio dos mapas de registo referentes a resíduos só pode ser realizado pelo responsável previamente identificado como tal pela entidade inscrita no SIRER nos termos do n.º 1 do artigo 1.º do presente Regulamento."
+  },
+  "117965374": {
+   "fragment_id": "118011223",
+   "type": 11,
+   "heading": "Artigo 4.º — Periodicidade de preenchimento dos mapas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Periodicidade de preenchimento dos mapas de registo\n\n1 - O mapa de registo previsto na alínea a) do artigo 2.º do presente Regulamento preenche-se uma única vez, sem prejuízo da possibilidade de introdução, a todo o momento, de alterações.\n\n2 - Os mapas de registo previstos na alínea b) do artigo 2.º do presente Regulamento incluem:\n\na) Os Mapas Integrados de Registo de Resíduos (MIRR) que são preenchidos anualmente, devendo a introdução de dados e alterações ser efetuada até à data de fecho do registo, que ocorre no termo do mês de março seguinte a cada ano, salvo autorização concedida pela APA, I. P., enquanto ANR, que não prejudique os prazos para pagamento da taxa de gestão de resíduos.\n\nb) Os Mapas de Registo de Resíduos Urbanos (MRRU) que são preenchidos mensalmente, até ao termo do mês seguinte a que dizem respeito, salvo autorização concedida pela APA, I. P., enquanto ANR, que não prejudique os prazos para pagamento da taxa de gestão de resíduos.\n\n3 - A obrigação legal de preenchimento dos mapas de registo referidos no n.º 2 apenas se considera cumprida se os mesmos forem submetidos até à data de fecho do registo."
+  },
+  "118052075": {
+   "fragment_id": "118011224",
+   "type": 11,
+   "heading": "Artigo 5.º — Inativação do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Inativação do registo\n\n1 - A APA, I. P. determina a inativação do registo sempre que o utilizador cesse a sua atividade.\n\n2 - Caso se verifique que as informações prestadas pelo utilizador SIRER estão incorretas, a APA, I. P. procede à notificação do mesmo e concede-lhe um prazo de cinco dias úteis para correção desses dados, findo o qual o registo é inativado.\n\n3 - Os utilizadores SIRER podem solicitar à APA, I. P. a inativação do seu registo, desde que justifiquem que não se encontram abrangidos pela obrigatoriedade de registo."
+  },
+  "118052076": {
+   "fragment_id": "118011225",
+   "type": 11,
+   "heading": "Artigo 6.º — Outras obrigações de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Outras obrigações de registo\n\nO cumprimento das obrigações em matéria de registo constantes do presente Regulamento não prejudica o cumprimento das obrigações de registo aplicáveis por força de legislação especial, nomeadamente as relativas ao movimento transfronteiriço de resíduos e às matérias de estatísticas de resíduos."
+  },
+  "118052077": {
+   "fragment_id": "118011226",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades responsáveis por sistemas de fluxos específicos de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades responsáveis por sistemas de fluxos específicos de resíduos\n\nAs entidades responsáveis por sistemas de fluxos específicos de resíduos, coletivos ou individuais, na qualidade de utilizadores, preenchem mapas de registo específicos cujo conteúdo incide sobre a atividade objeto de licença ou autorização."
+  },
+  "118052078": {
+   "fragment_id": "118011227",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades responsáveis por sistemas de gestão de resíduos urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades responsáveis por sistemas de gestão de resíduos urbanos\n\nAs entidades responsáveis por sistemas de gestão de resíduos urbanos, na qualidade de utilizadores, preenchem os Mapas de Registo de Resíduos Urbanos, cujo conteúdo incide sobre a atividade objeto de licença ou autorização."
+  },
+  "118052079": {
+   "fragment_id": "118011228",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão do SIRER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão do SIRER\n\n1 - Compete à APA, I. P. praticar os atos necessários a garantir o regular funcionamento do SIRER, o cumprimento das obrigações legais aplicáveis e a observância de adequados níveis de qualidade e segurança.\n\n2 - A APA, I. P. é a entidade responsável pela verificação e tratamento da informação constante dos mapas de registo."
+  },
+  "118052080": {
+   "fragment_id": "118011229",
+   "type": 11,
+   "heading": "Artigo 10.º — Acesso ao SIRER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acesso ao SIRER\n\n1 - A APA, I. P. faculta o acesso aos dados às entidades com competências em matéria de resíduos, nomeadamente entidades inspetivas e fiscalizadoras e entidades licenciadoras, nos termos do RGGR.\n\n2 - A APA, I. P. disponibiliza os dados ao Instituto Nacional de Estatística para produção de estatísticas nacionais sobre resíduos."
+  },
+  "118052081": {
+   "fragment_id": "118011230",
+   "type": 11,
+   "heading": "Artigo 11.º — Relatórios síntese dos mapas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Relatórios síntese dos mapas de registo\n\nA APA, I. P. elabora relatórios de síntese da informação constante dos mapas de registo até ao dia 31 de dezembro de cada ano civil, com a informação relativa ao ano anterior."
+  },
+  "118052082": {
+   "fragment_id": "118011231",
+   "type": 11,
+   "heading": "Artigo 12.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Taxas\n\n1 - Os utilizadores do SIRER procedem ao pagamento da taxa de registo anual, prevista no artigo 57.º do RGGR, antes de enviarem os mapas de registo de resíduos.\n\n2 - O envio dos mapas de registo de resíduos só é admissível após o pagamento da taxa de registo, devendo a sua regularização ser solicitada na plataforma eletrónica da ANR.\n\n3 - O pagamento da taxa de registo pode efetuar-se através de transferência bancária, débito em conta, ou qualquer outro meio de pagamento admitido, fazendo o atraso no pagamento incorrer o sujeito passivo em juros de mora, nos termos da lei tributária."
+  },
+  "118052083": {
+   "fragment_id": "118011232",
+   "type": 11,
+   "heading": "Artigo 13.º — Responsabilidade criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Responsabilidade criminal\n\nA prestação de falsas declarações e o acesso indevido ao sistema informático são passíveis de gerar responsabilidade criminal, nos termos previstos na lei."
+  },
+  "117965365": {
+   "fragment_id": "118011214",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 289/2015\n\nde 17 de setembro\n\nO Regulamento Geral de Gestão de Resíduos (RGGR), aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio, determina que compete à Autoridade Nacional dos Resíduos manter, no seu sítio da internet, um sistema integrado de registo eletrónico de resíduos, designado por SIRER, que permita o registo e o armazenamento de dados relativos a produção e gestão de resíduos e a produtos colocados no mercado abrangidos por legislação relativa a fluxos específicos de resíduos, bem como a transmissão e consulta de informação sobre a matéria.\n\nA gestão do SIRER engloba todos os atos praticados com o objetivo de garantir o seu normal e seguro funcionamento e visa, essencialmente garantir a confidencialidade e integridade da informação, a conservação dos dados lançados no sistema informático, o acesso legal ao sistema, e a concessão de atos autorizativos.\n\nA Portaria n.º 1408/2006, de 18 de dezembro, nos termos do n.º 2 do artigo 46.º do RGGR, aprovou o Regulamento de Funcionamento do SIRER, que estabelece as regras sobre o registo e sobre a gestão da base de dados, composta pela coletânea de elementos informativos, dispostos de modo sistemático ou metódico, suscetíveis de acesso individual por meios eletrónicos ou outros.\n\nNo período de tempo entretanto decorrido a evolução dos sistemas informáticos e de registo de dados por via eletrónica, bem como as mudanças organizacionais ocorridas na Administração Pública determinaram alterações significativas na forma de registo dos dados que impõem a adequação em conformidade das regras em vigor.\n\nTorna-se, por conseguinte necessário proceder à alteração do Regulamento de Funcionamento do SIRER, no sentido da sua atualização de acordo com os mais recentes desenvolvimentos tecnológicos, de forma a continuar a assegurar o seu normal e seguro funcionamento.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 46.º do Regulamento Geral de Gestão de Resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, ao abrigo das competências delegadas pelo Ministro do Ambiente, Ordenamento do Território e Energia nos termos do Despacho n.º 13322/2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro, alterado pelo Despacho n.º 1941-A/2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro, pelo Despacho n.º 9478/2014, publicado no Diário da República, 2.ª série, n.º 139, de 22 de julho, e pelo Despacho n.º 8647/2015, publicado no Diário da República, n.º 152, 2.ª série, de 6 de agosto, o seguinte:"
+  },
+  "117965369": {
+   "fragment_id": "118011218",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 24 de agosto de 2015."
+  },
+  "118052090": {
+   "fragment_id": "118011223",
+   "type": 11,
+   "heading": "Artigo 4.º — Periodicidade de preenchimento dos mapas de registo",
+   "in_force_from": "2019-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 28/2019 - Diário da República n.º 13/2019, Série I de 2019-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/28-2019-117919464), em vigor a partir de 2019-01-19"
+   ],
+   "markdown": "###### Artigo 4.º — Periodicidade de preenchimento dos mapas de registo\n\n1 - O mapa de registo previsto na alínea a) do artigo 2.º do presente Regulamento preenche-se uma única vez, sem prejuízo da possibilidade de introdução, a todo o momento, de alterações.\n\n2 - Os mapas de registo previstos na alínea b) do artigo 2.º do presente Regulamento incluem:\n\na) Os Mapas Integrados de Registo de Resíduos (MIRR) que são preenchidos anualmente, devendo a introdução de dados e alterações ser efetuada até à data de fecho do registo, que ocorre no termo do mês de março seguinte a cada ano, salvo autorização concedida pela APA, I. P., enquanto ANR, que não prejudique os prazos para pagamento da taxa de gestão de resíduos.\n\nb) Os Mapas de Registo de Resíduos Urbanos (MRRU) que são preenchidos mensalmente, até ao termo do mês seguinte a que dizem respeito, salvo autorização concedida pela APA, I. P., enquanto ANR, que não prejudique os prazos para pagamento da taxa de gestão de resíduos.\n\n3 - Para efeitos do cumprimento do disposto na alínea a) do número anterior, as pessoas singulares ou coletivas que procedem ao tratamento de resíduos a título profissional asseguram o registo de dados relativos à gestão de resíduos, no ato da receção dos mesmos.\n\n4 - A APA, I. P. assegura que a informação recolhida ao abrigo da Portaria n.º 145/2017, de 26 de abril, é integrada automaticamente no MIRR.\n\n5 - A obrigação legal de preenchimento dos mapas de registo referidos no n.º 2 apenas se considera cumprida se os mesmos forem submetidos até à data de fecho do registo.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 28/2019 - Diário da República n.º 13/2019, Série I de 2019-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/28-2019-117919464), em vigor a partir de 2019-01-19"
+  },
+  "177159459": {
+   "fragment_id": "118011215",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovado o Regulamento de Funcionamento do Sistema Integrado de Registo Eletrónico de Resíduos (SIRER), que estabelece os procedimentos de inscrição e registo bem como o regime de acesso e de utilização da plataforma, nos termos do n.º 2 do artigo 46.º do Regulamento Geral de Gestão de Resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio, constante do anexo à presente portaria da qual faz parte integrante.\n\n2 - O regime previsto na presente portaria aplica-se às Regiões Autónomas, com as necessárias adaptações, cabendo a execução administrativa aos órgãos e serviços das respetivas administrações regionais, sem prejuízo da gestão ao nível nacional.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159460": {
+   "fragment_id": "118011216",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1408/2006, de 18 de dezembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159461": {
+   "fragment_id": "118011217",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no mês seguinte à sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159462": {
+   "fragment_id": "118011218",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 24 de agosto de 2015.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159463": {
+   "fragment_id": "118011219",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE FUNCIONAMENTO DO SISTEMA INTEGRADO DE REGISTO ELETRÓNICO DE RESÍDUOS",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "## Anexo — REGULAMENTO DE FUNCIONAMENTO DO SISTEMA INTEGRADO DE REGISTO ELETRÓNICO DE RESÍDUOS\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159464": {
+   "fragment_id": "118011220",
+   "type": 11,
+   "heading": "Artigo 1.º — Inscrição",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 1.º — Inscrição\n\n1 - O acesso ao Sistema Integrado de Registo Eletrónico de Resíduos (SIRER) carece de prévia inscrição das entidades previstas no artigo 48.º do Regulamento Geral de Gestão de Resíduos (RGGR), aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho, pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 75/2015, de 11 de maio.\n\n2 - A inscrição no SIRER é efetuada através do preenchimento de formulário disponível na plataforma eletrónica da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), enquanto Autoridade Nacional dos Resíduos (ANR).\n\n3 - A APA, I. P. publicita as regras de funcionamento da plataforma eletrónica no seu sítio da internet.\n\n4 - A inscrição na plataforma eletrónica e a seleção de um perfil relacionado com resíduos confere às entidades referidas no n.º 1 a qualidade de utilizador do SIRER, habilitando-as ao preenchimento e submissão dos respetivos mapas de registo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159465": {
+   "fragment_id": "118011221",
+   "type": 11,
+   "heading": "Artigo 2.º — Mapas de registo",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 2.º — Mapas de registo\n\nO registo dos dados efetua-se através do preenchimento por via eletrónica de mapas de registo disponíveis na plataforma da APA, I. P. que incluem dados sobre:\n\na) O estabelecimento e a sua atividade;\n\nb) A produção e gestão de resíduos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159466": {
+   "fragment_id": "118011222",
+   "type": 11,
+   "heading": "Artigo 3.º — Regras de preenchimento dos mapas de registo",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 3.º — Regras de preenchimento dos mapas de registo\n\n1 - O preenchimento dos mapas de registo é da responsabilidade das entidades previstas no n.º 1 do artigo 1.º do presente Regulamento.\n\n2 - A APA, I. P. publicita no seu sítio da internet o manual com as instruções para o correto preenchimento dos mapas de registo.\n\n3 - O envio dos mapas de registo referentes a resíduos só pode ser realizado pelo responsável previamente identificado como tal pela entidade inscrita no SIRER nos termos do n.º 1 do artigo 1.º do presente Regulamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159467": {
+   "fragment_id": "118011223",
+   "type": 11,
+   "heading": "Artigo 4.º — Periodicidade de preenchimento dos mapas de registo",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 28/2019 - Diário da República n.º 13/2019, Série I de 2019-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/28-2019-117919464), em vigor a partir de 2019-01-19"
+   ],
+   "markdown": "###### Artigo 4.º — Periodicidade de preenchimento dos mapas de registo\n\n1 - O mapa de registo previsto na alínea a) do artigo 2.º do presente Regulamento preenche-se uma única vez, sem prejuízo da possibilidade de introdução, a todo o momento, de alterações.\n\n2 - Os mapas de registo previstos na alínea b) do artigo 2.º do presente Regulamento incluem:\n\na) Os Mapas Integrados de Registo de Resíduos (MIRR) que são preenchidos anualmente, devendo a introdução de dados e alterações ser efetuada até à data de fecho do registo, que ocorre no termo do mês de março seguinte a cada ano, salvo autorização concedida pela APA, I. P., enquanto ANR, que não prejudique os prazos para pagamento da taxa de gestão de resíduos.\n\nb) Os Mapas de Registo de Resíduos Urbanos (MRRU) que são preenchidos mensalmente, até ao termo do mês seguinte a que dizem respeito, salvo autorização concedida pela APA, I. P., enquanto ANR, que não prejudique os prazos para pagamento da taxa de gestão de resíduos.\n\n3 - Para efeitos do cumprimento do disposto na alínea a) do número anterior, as pessoas singulares ou coletivas que procedem ao tratamento de resíduos a título profissional asseguram o registo de dados relativos à gestão de resíduos, no ato da receção dos mesmos.\n\n4 - A APA, I. P. assegura que a informação recolhida ao abrigo da Portaria n.º 145/2017, de 26 de abril, é integrada automaticamente no MIRR.\n\n5 - A obrigação legal de preenchimento dos mapas de registo referidos no n.º 2 apenas se considera cumprida se os mesmos forem submetidos até à data de fecho do registo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 28/2019 - Diário da República n.º 13/2019, Série I de 2019-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/28-2019-117919464), em vigor a partir de 2019-01-19"
+  },
+  "177159468": {
+   "fragment_id": "118011224",
+   "type": 11,
+   "heading": "Artigo 5.º — Inativação do registo",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 5.º — Inativação do registo\n\n1 - A APA, I. P. determina a inativação do registo sempre que o utilizador cesse a sua atividade.\n\n2 - Caso se verifique que as informações prestadas pelo utilizador SIRER estão incorretas, a APA, I. P. procede à notificação do mesmo e concede-lhe um prazo de cinco dias úteis para correção desses dados, findo o qual o registo é inativado.\n\n3 - Os utilizadores SIRER podem solicitar à APA, I. P. a inativação do seu registo, desde que justifiquem que não se encontram abrangidos pela obrigatoriedade de registo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159469": {
+   "fragment_id": "118011225",
+   "type": 11,
+   "heading": "Artigo 6.º — Outras obrigações de registo",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 6.º — Outras obrigações de registo\n\nO cumprimento das obrigações em matéria de registo constantes do presente Regulamento não prejudica o cumprimento das obrigações de registo aplicáveis por força de legislação especial, nomeadamente as relativas ao movimento transfronteiriço de resíduos e às matérias de estatísticas de resíduos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159470": {
+   "fragment_id": "118011226",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades responsáveis por sistemas de fluxos específicos de resíduos",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 7.º — Entidades responsáveis por sistemas de fluxos específicos de resíduos\n\nAs entidades responsáveis por sistemas de fluxos específicos de resíduos, coletivos ou individuais, na qualidade de utilizadores, preenchem mapas de registo específicos cujo conteúdo incide sobre a atividade objeto de licença ou autorização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159471": {
+   "fragment_id": "118011227",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades responsáveis por sistemas de gestão de resíduos urbanos",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 8.º — Entidades responsáveis por sistemas de gestão de resíduos urbanos\n\nAs entidades responsáveis por sistemas de gestão de resíduos urbanos, na qualidade de utilizadores, preenchem os Mapas de Registo de Resíduos Urbanos, cujo conteúdo incide sobre a atividade objeto de licença ou autorização.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159472": {
+   "fragment_id": "118011228",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão do SIRER",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 9.º — Gestão do SIRER\n\n1 - Compete à APA, I. P. praticar os atos necessários a garantir o regular funcionamento do SIRER, o cumprimento das obrigações legais aplicáveis e a observância de adequados níveis de qualidade e segurança.\n\n2 - A APA, I. P. é a entidade responsável pela verificação e tratamento da informação constante dos mapas de registo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159473": {
+   "fragment_id": "118011229",
+   "type": 11,
+   "heading": "Artigo 10.º — Acesso ao SIRER",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 10.º — Acesso ao SIRER\n\n1 - A APA, I. P. faculta o acesso aos dados às entidades com competências em matéria de resíduos, nomeadamente entidades inspetivas e fiscalizadoras e entidades licenciadoras, nos termos do RGGR.\n\n2 - A APA, I. P. disponibiliza os dados ao Instituto Nacional de Estatística para produção de estatísticas nacionais sobre resíduos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177159474": {
+   "fragment_id": "118011230",
+   "type": 11,
+   "heading": "Artigo 11.º — Relatórios síntese dos mapas de registo",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 11.º — Relatórios síntese dos mapas de registo\n\nA APA, I. P. elabora relatórios de síntese da informação constante dos mapas de registo até ao dia 31 de dezembro de cada ano civil, com a informação relativa ao ano anterior.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177194275": {
+   "fragment_id": "118011231",
+   "type": 11,
+   "heading": "Artigo 12.º — Taxas",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 12.º — Taxas\n\n1 - Os utilizadores do SIRER procedem ao pagamento da taxa de registo anual, prevista no artigo 57.º do RGGR, antes de enviarem os mapas de registo de resíduos.\n\n2 - O envio dos mapas de registo de resíduos só é admissível após o pagamento da taxa de registo, devendo a sua regularização ser solicitada na plataforma eletrónica da ANR.\n\n3 - O pagamento da taxa de registo pode efetuar-se através de transferência bancária, débito em conta, ou qualquer outro meio de pagamento admitido, fazendo o atraso no pagamento incorrer o sujeito passivo em juros de mora, nos termos da lei tributária.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  },
+  "177194276": {
+   "fragment_id": "118011232",
+   "type": 11,
+   "heading": "Artigo 13.º — Responsabilidade criminal",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 13.º — Responsabilidade criminal\n\nA prestação de falsas declarações e o acesso indevido ao sistema informático são passíveis de gerar responsabilidade criminal, nos termos previstos na lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 20/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/20-2022-177160281), em vigor a partir de 2022-02-05"
+  }
+ }
+}

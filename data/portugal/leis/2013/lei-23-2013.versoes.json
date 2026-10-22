@@ -1,0 +1,1190 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259267:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-55032410",
+ "dre_path": "/dr/detalhe/lei/23-2013-259267",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-03-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "55032331",
+    "55032332",
+    "55032333",
+    "55032334",
+    "55032335",
+    "55032336",
+    "55032337",
+    "55032338",
+    "55032339",
+    "55032340",
+    "55032341",
+    "55032342",
+    "55032343",
+    "55032344",
+    "55032345",
+    "55032346",
+    "55032347",
+    "55032348",
+    "55032349",
+    "55032350",
+    "55032351",
+    "55032352",
+    "55032353",
+    "55032354",
+    "55032355",
+    "55032356",
+    "55032357",
+    "55032358",
+    "55032359",
+    "55032360",
+    "55032361",
+    "55032362",
+    "55032363",
+    "55032364",
+    "55032365",
+    "55032366",
+    "55032367",
+    "55032368",
+    "55032369",
+    "55032370",
+    "55032371",
+    "55032372",
+    "55032373",
+    "55032374",
+    "55033575",
+    "55033576",
+    "55033577",
+    "55033578",
+    "55033579",
+    "55033580",
+    "55033581",
+    "55033582",
+    "55033583",
+    "55033584",
+    "55033585",
+    "55033586",
+    "55033587",
+    "55033588",
+    "55033589",
+    "55033590",
+    "55033591",
+    "55033592",
+    "55033593",
+    "55033594",
+    "55033595",
+    "55033596",
+    "55033597",
+    "55033598",
+    "55033599",
+    "55033600",
+    "55033601",
+    "55033602",
+    "55033603",
+    "55033604",
+    "55033605",
+    "55033606",
+    "55033607",
+    "55033608",
+    "55033609",
+    "55033611",
+    "55033612",
+    "55033613",
+    "55033614",
+    "55033615",
+    "55033616",
+    "55033617",
+    "55033618",
+    "55033619",
+    "55033620",
+    "55033621",
+    "55033622",
+    "55033623",
+    "55033624",
+    "55033625",
+    "55033626",
+    "55033627",
+    "55033628",
+    "55033629",
+    "55033630",
+    "55033631",
+    "55033632",
+    "55033633",
+    "55033634",
+    "55033635",
+    "55033636",
+    "55033637",
+    "55033638",
+    "55033639",
+    "55033640"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124680589:por",
+     "title": "Lei n.º 117/2019",
+     "published": "2019-09-13",
+     "dre_path": "/dr/detalhe/lei/117-2019-124680589"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 26.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 48.º"
+   ],
+   "fragments": [
+    "55032331",
+    "55032332",
+    "55032333",
+    "55032334",
+    "55032335",
+    "55032336",
+    "55032337",
+    "55032338",
+    "55032339",
+    "55033641",
+    "55032340",
+    "55032341",
+    "55032342",
+    "55032343",
+    "124707527",
+    "55032345",
+    "55032346",
+    "55032347",
+    "55032348",
+    "55032349",
+    "55032350",
+    "55032351",
+    "55032352",
+    "55032353",
+    "55032354",
+    "55032355",
+    "55032356",
+    "55032357",
+    "55032358",
+    "55032359",
+    "55032360",
+    "55032361",
+    "55032362",
+    "55032363",
+    "55032364",
+    "55032365",
+    "55032366",
+    "55032367",
+    "55032368",
+    "55032369",
+    "124707531",
+    "124707532",
+    "55032371",
+    "55032372",
+    "55032373",
+    "55032374",
+    "55033575",
+    "55033576",
+    "55033577",
+    "55033578",
+    "55033579",
+    "55033580",
+    "124707529",
+    "55033582",
+    "55033583",
+    "55033584",
+    "55033585",
+    "55033586",
+    "55033587",
+    "55033588",
+    "55033589",
+    "55033590",
+    "55033591",
+    "55033592",
+    "55033593",
+    "55033594",
+    "55033595",
+    "124707530",
+    "55033597",
+    "55033598",
+    "55033599",
+    "55033600",
+    "55033601",
+    "55033602",
+    "55033603",
+    "55033604",
+    "55033605",
+    "55033606",
+    "55033607",
+    "55033608",
+    "55033609",
+    "55033611",
+    "55033612",
+    "55033613",
+    "55033614",
+    "55033615",
+    "55033616",
+    "55033617",
+    "55033618",
+    "55033619",
+    "55033620",
+    "55033621",
+    "55033622",
+    "55033623",
+    "55033624",
+    "55033625",
+    "55033626",
+    "55033627",
+    "55033628",
+    "55033629",
+    "55033630",
+    "55033631",
+    "55033632",
+    "55033633",
+    "55033634",
+    "55033635",
+    "55033636",
+    "55033637",
+    "55033638",
+    "55033639",
+    "55033640"
+   ]
+  }
+ ],
+ "fragments": {
+  "55032331": {
+   "fragment_id": "55032411",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 23/2013\n\nde 5 de março\n\nAprova o regime jurídico do processo de inventário, altera o Código Civil, o Código do Registo Predial, o Código do Registo Civil e o Código de Processo Civil\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "55032332": {
+   "fragment_id": "55032412",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova o regime jurídico do processo de inventário, altera o Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, e alterado pelos Decretos-Leis n.os 67/75, de 19 de fevereiro, 201/75, de 15 de abril, 261/75, de 27 de maio, 561/76, de 17 de julho, 605/76, de 24 de julho, 293/77, de 20 de julho, 496/77, de 25 de novembro, 200-C/80, de 24 de junho, 236/80, de 18 de julho, 328/81, de 4 de dezembro, 262/83, de 16 de junho, 225/84, de 6 de julho, e 190/85, de 24 de junho, pela Lei n.º 46/85, de 20 de setembro, pelos Decretos-Leis n.os 381-B/85, de 28 de setembro, e 379/86, de 11 de novembro, pela Lei n.º 24/89, de 1 de agosto, pelos Decretos-Leis n.os 321-B/90, de 15 de outubro, 257/91, de 18 de julho, 423/91, de 30 de outubro, 185/93, de 22 de maio, 227/94, de 8 de setembro, 267/94, de 25 de outubro, e 163/95, de 13 de julho, pela Lei n.º 84/95, de 31 de agosto, pelos Decretos-Leis n.os 329-A/95, de 12 de dezembro, 14/96, de 6 de março, 68/96, de 31 de maio, 35/97, de 31 de janeiro, e 120/98, de 8 de maio, pelas Leis n.os 21/98, de 12 de maio, e 47/98, de 10 de agosto, pelo Decreto-Lei n.º 343/98, de 6 de novembro, pelas Leis n.os 59/99, de 30 de junho, e 16/2001, de 22 de junho, pelos Decretos-Leis n.os 272/2001, de 13 de outubro, 273/2001, de 13 de outubro, 323/2001, de 17 de dezembro, e 38/2003, de 8 de março, pela Lei n.º 31/2003, de 22 de agosto, pelos Decretos-Leis n.os 199/2003, de 10 de setembro, e 59/2004, de 19 de março, pela Lei n.º 6/2006, de 27 de fevereiro, pelo Decreto-Lei n.º 263-A/2007, de 23 de julho, pela Lei n.º 40/2007, de 24 de agosto, pelos Decretos-Leis n.os 324/2007, de 28 de setembro, e 116/2008, de 4 de julho, pelas Leis n.os 61/2008, de 31 de outubro, e 14/2009, de 1 de abril, pelo Decreto-Lei n.º 100/2009, de 11 de maio, e pelas Leis n.os 29/2009, de 29 de junho, 103/2009, de 11 de setembro, 9/2010, de 31 de maio, 23/2010, de 30 de agosto, 24/2012, de 9 de julho, 31/2012 e 32/2012, de 14 de agosto, o Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho, e alterado pelos Decretos-Leis n.os 355/85, de 2 de setembro, 60/90, de 14 de fevereiro, 80/92, de 7 de maio, 30/93, de 12 de fevereiro, 255/93, de 15 de julho, 227/94, de 8 de setembro, 267/94, de 25 de outubro, 67/96, de 31 de maio, 375-A/99, de 20 de setembro, 533/99, de 11 de dezembro, 273/2001, de 13 de outubro, 323/2001, de 17 de dezembro, 38/2003, de 8 de março, e 194/2003, de 23 de agosto, pela Lei n.º 6/2006, de 27 de fevereiro, pelos Decretos-Leis n.os 263-A/2007, de 23 de julho, 34/2008, de 26 de fevereiro, 116/2008, de 4 de julho, e 122/2009, de 21 de maio, pela Lei n.º 29/2009, de 29 de junho, e pelos Decretos-Leis n.os 185/2009, de 12 de agosto, e 209/2012, de 19 de setembro, o Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho, com as alterações introduzidas pelos Decretos-Leis n.os 36/97, de 31 de janeiro, 120/98, de 8 de maio, 375-A/99, de 20 de setembro, 228/2001, de 20 de agosto, 273/2001, de 13 de outubro, 323/2001, de 17 de dezembro, 113/2002, de 20 de abril, 194/2003, de 23 de agosto, e 53/2004, de 18 de março, pela Lei n.º 29/2007, de 2 de agosto, pelo Decreto-Lei n.º 324/2007, de 28 de setembro, pela Lei n.º 61/2008, de 31 de outubro, pelos Decretos-Leis n.os 247-B/2008, de 30 de dezembro, e 100/2009, de 11 de maio, pelas Leis n.os 29/2009, de 29 de junho, 103/2009, de 11 de setembro, e 7/2011, de 15 de março, e pelo Decreto-Lei n.º 209/2012, de 19 de setembro, e o Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44 129, de 28 de dezembro de 1961, e alterado pelo Decreto-Lei n.º 47 690, de 11 de maio de 1967, pela Lei n.º 2140, de 14 de março de 1969, pelo Decreto-Lei n.º 323/70, de 11 de julho, pelas Portarias n.os 642/73, de 27 de setembro, e 439/74, de 10 de julho, pelos Decretos-Leis n.os 261/75, de 27 de maio, 165/76, de 1 de março, 201/76, de 19 de março, 366/76, de 15 de maio, 605/76, de 24 de julho, 738/76, de 16 de outubro, 368/77, de 3 de setembro, e 533/77, de 30 de dezembro, pela Lei n.º 21/78, de 3 de maio, pelos Decretos-Leis n.os 513-X/79, de 27 de dezembro, 207/80, de 1 de julho, 457/80, de 10 de outubro, 224/82, de 8 de junho, e 400/82, de 23 de setembro, pela Lei n.º 3/83, de 26 de fevereiro, pelos Decretos-Leis n.os 128/83, de 12 de março, 242/85, de 9 de julho, 381-A/85, de 28 de setembro, e 177/86, de 2 de julho, pela Lei n.º 31/86, de 29 de agosto, pelos Decretos-Leis n.os 92/88, de 17 de março, 321-B/90, de 15 de outubro, 211/91, de 14 de junho, 132/93, de 23 de abril, 227/94, de 8 de setembro, 39/95, de 15 de fevereiro, e 329-A/95, de 12 de dezembro, pela Lei n.º 6/96, de 29 de fevereiro, pelos Decretos-Leis n.os 180/96, de 25 de setembro, 125/98, de 12 de maio, 269/98, de 1 de setembro, e 315/98, de 20 de outubro, pela Lei n.º 3/99, de 13 de janeiro, pelos Decretos-Leis n.os 375-A/99, de 20 de setembro, e 183/2000, de 10 de agosto, pela Lei n.º 30-D/2000, de 20 de dezembro, pelos Decretos-Leis n.os 272/2001, de 13 de outubro, e 323/2001, de 17 de dezembro, pela Lei n.º 13/2002, de 19 de fevereiro, pelos Decretos-Leis n.os 38/2003, de 8 de março, 199/2003, de 10 de setembro, 324/2003, de 27 de dezembro, e 53/2004, de 18 de março, pela Lei n.º 6/2006, de 27 de fevereiro, pelo Decreto-Lei n.º 76-A/2006, de 29 de março, pelas Leis n.os 14/2006, de 26 de abril, e 53-A/2006, de 29 de dezembro, pelos Decretos-Leis n.os 8/2007, de 17 de janeiro, 303/2007, de 24 de agosto, 34/2008, de 26 de fevereiro, e 116/2008, de 4 de julho, pelas Leis n.os 52/2008, de 28 de agosto, e 61/2008, de 31 de outubro, pelo Decreto-Lei n.º 226/2008, de 20 de novembro, pela Lei n.º 29/2009, de 29 de junho, pelos Decretos-Leis n.os 35/2010, de 15 de abril, e 52/2011, de 13 de abril, e pelas Leis n.os 63/2011, de 14 de dezembro, 31/2012, de 14 de agosto, e 60/2012, de 9 de novembro."
+  },
+  "55032333": {
+   "fragment_id": "55032413",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do regime jurídico do processo de inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do regime jurídico do processo de inventário\n\nÉ aprovado, em anexo à presente lei, o regime jurídico do processo de inventário, que dela faz parte integrante."
+  },
+  "55032334": {
+   "fragment_id": "55032414",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Código Civil\n\nOs artigos 1770.º, 2053.º, 2083.º, 2084.º, 2085.º, 2086.º e 2102.º do Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, passam a ter a seguinte redação:\n\n«Artigo 1770.º\n\n[...]\n\n1 - Após o trânsito em julgado da sentença que decretar a separação judicial de bens, o regime matrimonial, sem prejuízo do disposto em matéria de registo, passa a ser o da separação, procedendo-se à partilha do património comum como se o casamento tivesse sido dissolvido.\n\n2 - Havendo acordo dos interessados, a partilha prevista no número anterior pode logo ser feita nos cartórios notariais, e, em qualquer outro caso, por meio de inventário, nos termos previstos em lei especial.\n\nArtigo 2053.º\n\n[...]\n\nA aceitação a benefício de inventário faz-se requerendo inventário, nos termos previstos em lei especial, ou intervindo em inventário pendente.\n\nArtigo 2083.º\n\n[...]\n\nSe todas as pessoas referidas nos artigos anteriores se escusarem ou forem removidas, é o cabeça de casal designado pelo tribunal, oficiosamente ou a requerimento de qualquer interessado.\n\nArtigo 2084.º\n\n[...]\n\nPor acordo de todos os interessados pode entregar-se a administração da herança e o exercício das funções de cabeça de casal a qualquer outra pessoa.\n\nArtigo 2085.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) (Revogada.)\n\nd) ...\n\n2 - ...\n\nArtigo 2086.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Se não cumpriu no inventário os deveres que a lei lhe impuser;\n\nd) ...\n\n2 - Tem legitimidade para pedir a remoção qualquer interessado.\n\nArtigo 2102.º\n\n[...]\n\n1 - Havendo acordo dos interessados, a partilha é realizada nas conservatórias ou por via notarial, e, em qualquer outro caso, por meio de inventário, nos termos previstos em lei especial.\n\n2 - Procede-se à partilha por inventário:\n\na) Quando não houver acordo de todos os interessados na partilha;\n\nb) Quando o Ministério Público entenda que o interesse do incapaz a quem a herança é deferida implica aceitação beneficiária;\n\nc) Nos casos em que algum dos herdeiros não possa, por motivo de ausência em parte incerta ou de incapacidade de facto permanente, intervir em partilha realizada por acordo.»"
+  },
+  "55032335": {
+   "fragment_id": "55032415",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Código do Registo Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Código do Registo Predial\n\nOs artigos 39.º e 92.º do Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho, passam a ter a seguinte redação:\n\n«Artigo 39.º\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Compete ao respetivo representante legal ou ao Ministério Público requerer o registo quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis.\n\nArtigo 92.º\n\n[...]\n\n1 - São pedidas como provisórias por natureza as seguintes inscrições:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) De aquisição por partilha em inventário, antes de a respetiva decisão homologatória se tornar definitiva;\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...»"
+  },
+  "55032336": {
+   "fragment_id": "55032416",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Código do Registo Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Código do Registo Civil\n\nOs artigos 202.º-A, 202.º-B e 210.º do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho, passam a ter a seguinte redação:\n\n«Artigo 202.º-A\n\n[...]\n\n1 - ...\n\n2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respetivo, por meio de cota de referência que identifique o cartório notarial onde o processo foi instaurado e o seu número.\n\nArtigo 202.º-B\n\nComunicações a efetuar pelos tribunais e notários\n\n1 - ...\n\n2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o notário comunica a qualquer conservatória do registo civil, preferencialmente por via eletrónica, a instauração do processo de inventário.\n\nArtigo 210.º\n\n[...]\n\n1 - O conservador do registo civil deve enviar ao Ministério Público junto do tribunal competente para a providência tutelar ou para as finalidades previstas no regime jurídico do processo de inventário:\n\na) ...\n\nb) Assentos de óbito lavrados no mês anterior referentes a indivíduos cuja herança seja deferida a incapazes ou ausentes em parte incerta ou ao Estado.\n\n2 - A informação prevista no número anterior pode ser facultada por disponibilização do acesso à base de dados do registo civil.\n\n3 - Para os efeitos do disposto no n.º 1, o conservador deve ouvir o declarante do óbito, através de auto lavrado imediatamente após a prestação da respetiva declaração.\n\n4 - O conservador deve comunicar, por via eletrónica, ao Instituto das Tecnologias de Informação na Justiça, I. P.:\n\na) O teor dos autos relativos aos óbitos lavrados no mês anterior;\n\nb) Os números de documentos de identificação ulteriormente conhecidos;\n\nc) Qualquer completamento ou retificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.»"
+  },
+  "55032337": {
+   "fragment_id": "55032417",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\n1 - É revogada a Lei n.º 29/2009, de 29 de junho, com exceção do disposto nos artigos 79.º, 82.º e 85.º e nos n.os 2 e 3 do artigo 87.º\n\n2 - São revogados o n.º 3 do artigo 32.º, os artigos 52.º e 77.º, o n.º 4 do artigo 248.º, o n.º 4 do artigo 373.º, o n.º 1 do artigo 426.º, o n.º 2 do artigo 1052.º, os artigos 1108.º, 1109.º, 1326.º a 1392.º, 1395.º, 1396.º, 1404.º, 1405.º e 1406.º e o n.º 3 do artigo 1462.º, todos do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44 129, de 28 de dezembro de 1961."
+  },
+  "55032338": {
+   "fragment_id": "55032418",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicação no tempo\n\nO disposto na presente lei não se aplica aos processos de inventário que, à data da sua entrada em vigor, se encontrem pendentes."
+  },
+  "55032339": {
+   "fragment_id": "55032419",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia útil do mês de setembro de 2013."
+  },
+  "55032340": {
+   "fragment_id": "55032420",
+   "type": 14,
+   "heading": "Anexo — Regime jurídico do processo de inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regime jurídico do processo de inventário"
+  },
+  "55032341": {
+   "fragment_id": "55032421",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "55032342": {
+   "fragment_id": "55032422",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime jurídico do processo de inventário."
+  },
+  "55032343": {
+   "fragment_id": "55032423",
+   "type": 11,
+   "heading": "Artigo 2.º — Função do inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Função do inventário\n\n1 - O processo de inventário destina-se a pôr termo à comunhão hereditária ou, não carecendo de se realizar a partilha, a relacionar os bens que constituem objeto de sucessão e a servir de base à eventual liquidação da herança.\n\n2 - Ao inventário destinado à realização dos fins previstos na segunda parte do número anterior são aplicáveis as disposições da presente lei, com as necessárias adaptações.\n\n3 - Pode ainda o inventário destinar-se, nos termos previstos nos artigos 79.º a 81.º, à partilha consequente à extinção da comunhão de bens entre os cônjuges."
+  },
+  "55032344": {
+   "fragment_id": "55032424",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência do cartório notarial e do tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência do cartório notarial e do tribunal\n\n1 - Compete aos cartórios notariais sediados no município do lugar da abertura da sucessão efetuar o processamento dos atos e termos do processo de inventário e da habilitação de uma pessoa como sucessora por morte de outra.\n\n2 - Em caso de impedimento dos notários de um cartório notarial, é competente qualquer dos outros cartórios notariais sediados no município do lugar da abertura da sucessão.\n\n3 - Não havendo cartório notarial no município a que se referem os números anteriores é competente qualquer cartório de um dos municípios confinantes.\n\n4 - Ao notário compete dirigir todas as diligências do processo de inventário e da habilitação de uma pessoa como sucessora por morte de outra, sem prejuízo dos casos em que os interessados são remetidos para os meios judiciais comuns.\n\n5 - Aberta a sucessão fora do País, observa-se o seguinte:\n\na) Tendo o falecido deixado bens em Portugal, é competente para a habilitação o cartório notarial do município da situação dos imóveis ou da maior parte deles, ou, na falta de imóveis, do município onde estiver a maior parte dos móveis;\n\nb) Não tendo o falecido deixado bens em Portugal, é competente para a habilitação o cartório notarial do domicílio do habilitando.\n\n6 - Em caso de inventário em consequência de separação, divórcio, declaração de nulidade ou anulação de casamento, é competente o cartório notarial sediado no município do lugar da casa de morada de família ou, na falta desta, o cartório notarial competente nos termos da alínea a) do número anterior.\n\n7 - Compete ao tribunal da comarca do cartório notarial onde o processo foi apresentado praticar os atos que, nos termos da presente lei, sejam da competência do juiz."
+  },
+  "55032345": {
+   "fragment_id": "55032425",
+   "type": 11,
+   "heading": "Artigo 4.º — Legitimidade para requerer ou intervir no inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Legitimidade para requerer ou intervir no inventário\n\n1 - Têm legitimidade para requerer que se proceda a inventário e para nele intervirem, como partes principais, em todos os atos e termos do processo:\n\na) Os interessados diretos na partilha;\n\nb) Quem exerce as responsabilidades parentais, o tutor ou o curador, consoante os casos, quando a herança seja deferida a incapazes ou a ausentes em parte incerta.\n\n2 - Existindo herdeiros legitimários, os legatários e os donatários são admitidos a intervir em todos os atos, termos e diligências suscetíveis de influir no cálculo ou determinação da legítima e implicar eventual redução das respetivas liberalidades.\n\n3 - Os credores da herança e os legatários são admitidos a intervir nas questões relativas à verificação e satisfação dos seus direitos."
+  },
+  "55032346": {
+   "fragment_id": "55032426",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do Ministério Público\n\n1 - O notário remete para o Ministério Público junto do tribunal da comarca do cartório notarial onde o processo foi apresentado, por via eletrónica, todos os elementos e termos do processo que relevam para a Fazenda Pública.\n\n2 - Compete ao Ministério Público ordenar as diligências necessárias para assegurar os direitos e interesses da Fazenda Pública, sem prejuízo das demais competências que lhe estejam atribuídas por lei."
+  },
+  "55032347": {
+   "fragment_id": "55032427",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrega de documentos, citações e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrega de documentos, citações e notificações\n\n1 - A apresentação do requerimento do inventário, da eventual oposição, bem como de todos os atos subsequentes deve realizar-se, sempre que possível, através de meios eletrónicos em sítio na Internet, nos termos a regular por portaria do membro do Governo responsável pela área da justiça.\n\n2 - As citações e notificações aos interessados no inventário, ou respetivos mandatários judiciais, para os atos e termos do processo para que estão legitimados, nos termos do artigo anterior, e das decisões que lhes respeitem, são efetuadas nos termos do Código de Processo Civil.\n\n3 - As citações e notificações que devam ser efetuadas por contacto pessoal são efetivadas por agente de execução nomeado pelo cabeça de casal."
+  },
+  "55032348": {
+   "fragment_id": "55032428",
+   "type": 11,
+   "heading": "Artigo 7.º — Representação de incapazes e ausentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Representação de incapazes e ausentes\n\n1 - O incapaz é representado por curador especial quando o representante legal concorra com ele à herança ou a ela concorram vários incapazes representados pelo mesmo representante.\n\n2 - Não estando instituída a curadoria, o ausente em parte incerta é também representado por curador especial.\n\n3 - Findo o processo, os bens adjudicados ao ausente que careçam de administração são entregues ao curador nomeado, que fica, em relação aos bens entregues, com os direitos e deveres do curador provisório, cessando a administração logo que seja deferida a curadoria.\n\n4 - A nomeação de curador especial é da competência do notário, aplicando-se, com as necessárias adaptações, o disposto no Código de Processo Civil sobre esta nomeação."
+  },
+  "55032349": {
+   "fragment_id": "55032429",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência relativa à caução a favor de incapazes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência relativa à caução a favor de incapazes\n\nCompete ao notário a fixação do valor da caução, a apreciação da sua idoneidade e a designação das diligências necessárias para a sua efetivação, sempre que julgue necessária a sua prestação."
+  },
+  "55032350": {
+   "fragment_id": "55032430",
+   "type": 11,
+   "heading": "Artigo 9.º — Intervenção principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Intervenção principal\n\n1 - É admitida, até à conferência preparatória, a dedução de intervenção principal espontânea ou provocada relativamente a qualquer interessado direto na partilha.\n\n2 - O cabeça de casal e demais interessados são notificados para responder, seguindo-se o disposto nos artigos 30.º e 31.º\n\n3 - Ao interessado admitido a intervir aplica-se o disposto no n.º 2 do artigo 29.º\n\n4 - A dedução do incidente suspende o andamento do processo a partir do momento em que deveria ser convocada a conferência de interessados."
+  },
+  "55032351": {
+   "fragment_id": "55032431",
+   "type": 11,
+   "heading": "Artigo 10.º — Intervenção de outros interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Intervenção de outros interessados\n\n1 - Os herdeiros legitimários, os legatários e os donatários que não tenham sido inicialmente citados para o inventário podem deduzir intervenção no processo e nele exercer a atividade para que estão legitimados, nos termos do n.º 2 do artigo 4.º, aplicando-se, com as necessárias adaptações, o disposto no artigo anterior.\n\n2 - Os titulares ativos de encargos da herança podem reclamar os seus direitos até à conferência preparatória, mesmo que estes não tenham sido relacionados pelo cabeça de casal.\n\n3 - Ainda que não reclamem os seus direitos, os titulares ativos de encargos da herança não ficam inibidos de exigir o pagamento pelos meios judiciais comuns, mesmo que tenham sido citados para o processo."
+  },
+  "55032352": {
+   "fragment_id": "55032432",
+   "type": 11,
+   "heading": "Artigo 11.º — Habilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Habilitação\n\n1 - Se falecer algum interessado direto na partilha antes de concluído o inventário, o cabeça de casal indica os sucessores do falecido, juntando os documentos necessários, notificando-se a indicação aos outros interessados e citando-se para o inventário as pessoas indicadas.\n\n2 - A legitimidade dos sucessores indicados pelo cabeça de casal pode ser impugnada quer pelo citado, quer pelos outros interessados notificados, nos termos dos artigos 30.º e 31.º\n\n3 - Na falta de impugnação, têm-se como habilitadas as pessoas indicadas, sem prejuízo de os sucessores eventualmente preteridos deduzirem a sua própria habilitação.\n\n4 - Aos citados aplica-se o disposto no n.º 2 do artigo 29.º, a partir do momento da verificação do óbito do interessado a que sucedem.\n\n5 - Podem ainda os sucessores do interessado falecido requerer a respetiva habilitação, aplicando-se, com as necessárias adaptações, o disposto nos números anteriores.\n\n6 - Se falecer algum legatário, credor ou donatário que tenha sido citado para o inventário, podem os seus herdeiros fazer-se admitir no processo, seguindo-se os termos previstos no número anterior, com as necessárias adaptações.\n\n7 - A habilitação do cessionário de quota hereditária e dos subadquirentes dos bens doados, sujeitos ao ónus de redução, faz-se nos termos gerais."
+  },
+  "55032353": {
+   "fragment_id": "55032433",
+   "type": 11,
+   "heading": "Artigo 12.º — Exercício do direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Exercício do direito de preferência\n\n1 - A preferência na alienação de quinhões hereditários dos interessados na partilha pode ser exercida incidentalmente no processo de inventário, salvo se envolver a resolução de questões de facto cuja complexidade se revele incompatível com a tramitação daquele processo.\n\n2 - Apresentando-se a preferir mais de um interessado, o bem objeto de alienação é adjudicado a todos, na proporção das suas quotas.\n\n3 - O incidente suspende os termos do processo a partir do momento em que deveria ser convocada a conferência de interessados.\n\n4 - O não exercício da preferência no inventário não preclude o direito de intentar ação de preferência, nos termos gerais.\n\n5 - Se for exercido direito de preferência fora do processo de inventário, pode determinar-se, oficiosamente ou a requerimento de algum dos interessados diretos na partilha, a suspensão do inventário.\n\n6 - A suspensão não deve ser ordenada sempre que existam fundadas razões para crer que a ação de preferência foi intentada unicamente com a finalidade de obter a suspensão ou se a causa dependente estiver tão adiantada que os prejuízos da suspensão superem as vantagens."
+  },
+  "55032354": {
+   "fragment_id": "55032434",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição obrigatória de advogado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Constituição obrigatória de advogado\n\n1 - É obrigatória a constituição de advogado no inventário se forem suscitadas ou discutidas questões de direito.\n\n2 - É ainda obrigatória a constituição de advogado em caso de recurso de decisões proferidas no processo de inventário."
+  },
+  "55032355": {
+   "fragment_id": "55032435",
+   "type": 11,
+   "heading": "Artigo 14.º — Tramitação dos incidentes do inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tramitação dos incidentes do inventário\n\n1 - No requerimento em que se suscite o incidente e na oposição que lhe for deduzida, devem as partes oferecer o rol de testemunhas e requerer os outros meios de prova.\n\n2 - A oposição é deduzida no prazo de 10 dias.\n\n3 - A falta de oposição no prazo legal determina, quanto à matéria do incidente, a produção do efeito cominatório nos termos das disposições gerais e comuns."
+  },
+  "55032356": {
+   "fragment_id": "55032436",
+   "type": 11,
+   "heading": "Artigo 15.º — Limite do número de testemunhas e registo dos depoimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Limite do número de testemunhas e registo dos depoimentos\n\n1 - A parte não pode indicar mais de cinco testemunhas.\n\n2 - Os depoimentos prestados antecipadamente pelas testemunhas são gravados.\n\n3 - Revelando-se impossível a gravação, o depoimento é reduzido a escrito, com a redação ditada pelo notário, podendo as partes ou os seus mandatários fazer as reclamações que entendam oportunas e competindo ao depoente, depois de lido o texto, confirmar o seu depoimento ou pedir as retificações necessárias.\n\n4 - Os depoimentos produzidos em incidentes que não devam ser instruídos e decididos conjuntamente com a matéria do inventário são gravados se, comportando a decisão a proferir no incidente recurso ordinário, alguma das partes tiver requerido a gravação.\n\n5 - O requerimento previsto no número anterior é apresentado conjuntamente com o requerimento e oposição a que alude o artigo anterior.\n\n6 - Finda a produção da prova, o notário estabelece as questões relevantes para a decisão do incidente."
+  },
+  "55032357": {
+   "fragment_id": "55032437",
+   "type": 11,
+   "heading": "Artigo 16.º — Remessa do processo para os meios comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Remessa do processo para os meios comuns\n\n1 - O notário determina a suspensão da tramitação do processo sempre que, na pendência do inventário, se suscitem questões que, atenta a sua natureza ou a complexidade da matéria de facto e de direito, não devam ser decididas no processo de inventário, remetendo as partes para os meios judiciais comuns até que ocorra decisão definitiva, para o que identifica as questões controvertidas, justificando fundamentadamente a sua complexidade.\n\n2 - O notário pode ainda ordenar suspensão do processo de inventário, designadamente quando estiver pendente causa prejudicial em que se debata alguma das questões a que se refere o número anterior, aplicando-se o disposto no n.º 6 do artigo 12.º\n\n3 - A remessa para os meios judiciais comuns prevista no n.º 1 pode ter lugar a requerimento de qualquer interessado.\n\n4 - Da decisão do notário que indeferir o pedido de remessa das partes para os meios judiciais comuns cabe recurso para o tribunal competente, no prazo de 15 dias a partir da notificação da decisão, o qual deve incluir a alegação do recorrente.\n\n5 - O recurso previsto no número anterior sobe imediatamente e tem efeito suspensivo, aplicando-se o regime da responsabilidade por litigância de má-fé previsto no Código de Processo Civil.\n\n6 - O notário pode autorizar, a requerimento das partes principais, o prosseguimento do inventário com vista à partilha, sujeita a posterior alteração, em conformidade com o que vier a ser decidido, quando:\n\na) Ocorra demora injustificada na propositura ou julgamento da causa prejudicial;\n\nb) A viabilidade da causa prejudicial se afigure reduzida; ou\n\nc) Os inconvenientes no diferimento da partilha superem os que derivam da sua realização como provisória.\n\n7 - Realizada a partilha nos termos do número anterior, são observados os atos previstos no artigo 68.º, relativamente à entrega aos interessados dos bens que lhes couberem.\n\n8 - Havendo interessado nascituro, o inventário é suspenso desde o momento em que a conferência de interessados deveria ter sido convocada até ao nascimento do interessado."
+  },
+  "55032358": {
+   "fragment_id": "55032438",
+   "type": 11,
+   "heading": "Artigo 17.º — Questões definitivamente resolvidas no inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Questões definitivamente resolvidas no inventário\n\n1 - Sem prejuízo das competências próprias do Ministério Público, consideram-se definitivamente resolvidas as questões que, no inventário, sejam decididas no confronto do cabeça de casal ou dos demais interessados a que alude o artigo 4.º, desde que tenham sido regularmente admitidos a intervir no procedimento que precede a decisão, salvo se for expressamente ressalvado o direito às ações competentes.\n\n2 - Só é admissível a resolução provisória, ou a remessa dos interessados para os meios judiciais comuns, quando a complexidade da matéria de facto subjacente à questão a dirimir torne inconveniente a decisão incidental no inventário, por implicar a redução das garantias das partes."
+  },
+  "55032359": {
+   "fragment_id": "55032439",
+   "type": 11,
+   "heading": "Artigo 18.º — Cumulação de inventários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cumulação de inventários\n\n1 - É permitida a cumulação de inventários para a partilha de heranças diversas quando:\n\na) Sejam as mesmas as pessoas por quem tenham de ser repartidos os bens;\n\nb) Se trate de heranças deixadas pelos dois cônjuges;\n\nc) Uma das partilhas esteja dependente da outra ou das outras.\n\n2 - No caso referido na alínea c) do número anterior:\n\na) Se a dependência for total, por não haver, numa das partilhas, outros bens a adjudicar além dos que ao inventariado tenham de ser atribuídos na outra, a cumulação não pode deixar de ser admitida;\n\nb) Se a dependência for parcial, por haver outros bens, o notário pode indeferir a cumulação quando a mesma se afigure inconveniente para os interesses das partes ou para a boa tramitação do processo."
+  },
+  "55032360": {
+   "fragment_id": "55032440",
+   "type": 11,
+   "heading": "Artigo 19.º — Arquivamento do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Arquivamento do processo\n\n1 - Se o processo estiver parado durante mais de um mês por negligência dos interessados em promover os seus termos, o notário notifica imediatamente os interessados para que estes pratiquem os atos em falta no prazo de 10 dias.\n\n2 - Se os interessados não praticarem os atos em falta ou não justificarem fundadamente a sua omissão, o notário determina o arquivamento do processo, salvo se puder praticar os atos oficiosamente."
+  },
+  "55032361": {
+   "fragment_id": "55032441",
+   "type": 11,
+   "heading": "Artigo 20.º — Exequibilidade das certidões extraídas dos inventários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Exequibilidade das certidões extraídas dos inventários\n\n1 - As certidões extraídas dos processos de inventário valem como título executivo, desde que contenham:\n\na) A identificação do inventário pela designação do inventariado e do inventariante;\n\nb) A indicação de que o respetivo interessado tem no processo a posição de herdeiro ou legatário;\n\nc) O teor da decisão da partilha na parte que se refira ao mesmo interessado, com a menção de que a partilha foi declarada por decisão do notário, homologada judicialmente;\n\nd) A relacionação dos bens que forem apontados, de entre os que tiverem cabido ao requerente.\n\n2 - Se a decisão do notário tiver sido modificada em recurso e a modificação afetar a quota do interessado, a certidão reproduz a decisão definitiva, na parte respeitante à mesma quota.\n\n3 - Se a certidão for destinada a provar a existência de um crédito, só contém, para além do requisito previsto na alínea a) do n.º 1, o constante do processo a respeito da aprovação ou reconhecimento do crédito e forma do seu pagamento."
+  },
+  "55032362": {
+   "fragment_id": "55032442",
+   "type": 1,
+   "heading": "Capítulo II — Do processo de inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do processo de inventário"
+  },
+  "55032363": {
+   "fragment_id": "55032443",
+   "type": 8,
+   "heading": "Secção I — Do requerimento inicial e das declarações do cabeça de casal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do requerimento inicial e das declarações do cabeça de casal"
+  },
+  "55032364": {
+   "fragment_id": "55032444",
+   "type": 11,
+   "heading": "Artigo 21.º — Requerimento inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Requerimento inicial\n\n1 - O requerente do inventário destinado a pôr termo à comunhão hereditária junta documento comprovativo do óbito do autor da sucessão e indica quem, nos termos da lei civil, deve exercer as funções de cabeça de casal.\n\n2 - O modelo do requerimento de inventário é aprovado por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "55032365": {
+   "fragment_id": "55032445",
+   "type": 11,
+   "heading": "Artigo 22.º — Nomeação, substituição, escusa ou remoção do cabeça de casal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Nomeação, substituição, escusa ou remoção do cabeça de casal\n\n1 - Para designar o cabeça de casal, o notário pode colher as informações necessárias, e se, pelas declarações da pessoa designada, verificar que o encargo compete a outrem, defere-o a quem couber.\n\n2 - O cabeça de casal pode ser substituído a todo o tempo, por acordo de todos os interessados na partilha.\n\n3 - A substituição, a escusa e a remoção do cabeça de casal designado constituem incidentes do processo de inventário.\n\n4 - Sendo impugnada a legitimidade do cabeça de casal, ou requerida a escusa ou a remoção deste, prossegue o inventário com o cabeça de casal designado, até ser decidido o incidente."
+  },
+  "55032366": {
+   "fragment_id": "55032446",
+   "type": 11,
+   "heading": "Artigo 23.º — Cabeça de casal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cabeça de casal\n\nAo cabeça de casal incumbe fornecer os elementos necessários para o prosseguimento do inventário."
+  },
+  "55032367": {
+   "fragment_id": "55032447",
+   "type": 11,
+   "heading": "Artigo 24.º — Declarações do cabeça de casal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Declarações do cabeça de casal\n\n1 - Ao ser citado, o cabeça de casal é advertido do âmbito das declarações que deve prestar e dos documentos que lhe incumbe juntar.\n\n2 - Prestado o compromisso de honra do bom desempenho da sua função, o cabeça de casal presta declarações, que pode delegar em mandatário judicial, nas quais deve constar:\n\na) A identificação do autor da herança, o lugar da sua última residência e a data e o lugar em que tenha falecido;\n\nb) A identificação dos interessados diretos na partilha;\n\nc) Quem exerce as responsabilidades parentais, a tutela ou a curadoria, quando a herança seja deferida a incapazes ou a ausentes em parte incerta, bem como dos legatários, credores da herança e, havendo herdeiros legitimários, dos donatários, com indicação das respetivas residências atuais e locais de trabalho;\n\nd) Tudo o mais necessário ao desenvolvimento do processo.\n\n3 - No ato de declarações, o cabeça de casal apresenta os testamentos, convenções antenupciais, escrituras de doação e certidões de perfilhação que se mostrem necessárias, assim como a relação de todos os bens que devem figurar no inventário, ainda que a sua administração não lhe pertença.\n\n4 - Não estando em condições de apresentar todos os elementos exigidos, o cabeça de casal justifica a falta e pede, fundamentadamente, a concessão de prazo para os fornecer.\n\n5 - São considerados habilitados como tal os herdeiros que tiverem sido indicados pelo cabeça de casal, desde que:\n\na) Todos os herdeiros tenham sido citados para o inventário; e\n\nb) Nenhum herdeiro tenha impugnado a sua legitimidade ou a dos outros herdeiros no prazo legalmente fixado ou se, tendo havido impugnação, esta tenha sido julgada improcedente.\n\n6 - Caso seja apresentada certidão do inventário, pela qual se provem os factos indicados, observa-se o disposto no presente artigo."
+  },
+  "55032368": {
+   "fragment_id": "55032448",
+   "type": 11,
+   "heading": "Artigo 25.º — Relação de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Relação de bens\n\n1 - Os bens que integram a herança são especificados na relação por meio de verbas, sujeitas a uma só numeração, pela ordem seguinte: direitos de crédito, títulos de crédito, dinheiro, moedas estrangeiras, objetos de ouro, prata e pedras preciosas e semelhantes, outras coisas móveis e bens imóveis.\n\n2 - As dívidas são relacionadas em separado, sujeitas a numeração própria.\n\n3 - A menção dos bens é acompanhada dos elementos necessários à sua identificação e ao apuramento da sua situação jurídica.\n\n4 - Não havendo inconveniente para a partilha, podem ser agrupados, na mesma verba, os móveis, ainda que de natureza diferente, desde que se destinem a um fim unitário e sejam de pequeno valor.\n\n5 - As benfeitorias pertencentes à herança são descritas em espécie, quando possam separar-se do prédio em que foram realizadas, ou como simples crédito, no caso contrário.\n\n6 - As benfeitorias efetuadas por terceiros em prédio da herança são descritas como dívidas, quando não possam ser levantadas por quem as realizou.\n\n7 - O cabeça de casal é nomeado como depositário em relação aos bens arrolados."
+  },
+  "55032369": {
+   "fragment_id": "55032449",
+   "type": 11,
+   "heading": "Artigo 26.º — Indicação do valor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Indicação do valor\n\n1 - Além de os relacionar, o cabeça de casal indica o valor que atribui a cada um dos bens.\n\n2 - O valor dos prédios inscritos na matriz é o respetivo valor matricial, devendo o cabeça de casal apresentar a respetiva certidão.\n\n3 - São mencionados como bens ilíquidos:\n\na) Os direitos de crédito ou de outra natureza, cujo valor não seja ainda possível determinar;\n\nb) As partes sociais em sociedades cuja dissolução seja determinada pela morte do inventariado, desde que a respetiva liquidação não esteja concluída, mencionando-se, entretanto, o valor que tinham segundo o último balanço."
+  },
+  "55032370": {
+   "fragment_id": "55032450",
+   "type": 11,
+   "heading": "Artigo 27.º — Relacionação dos bens que não se encontrem em poder do cabeça de casal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Relacionação dos bens que não se encontrem em poder do cabeça de casal\n\n1 - Se o cabeça de casal declarar que está impossibilitado de relacionar alguns bens que estejam em poder de outra pessoa, é esta notificada para, no prazo designado, facultar o acesso a tais bens e fornecer os elementos necessários à respetiva inclusão na relação de bens.\n\n2 - Alegando o notificado que os bens não existem ou não têm de ser relacionados, observa-se, com as necessárias adaptações, o disposto no n.º 3 do artigo 35.º\n\n3 - Se o notificado não cumprir o dever de colaboração que lhe cabe, pode o notário ordenar as diligências necessárias, incluindo a apreensão dos bens.\n\n4 - Para a realização da diligência de apreensão dos bens o notário pode solicitar diretamente o auxílio das autoridades policiais, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 840.º do Código de Processo Civil.\n\n5 - A apreensão dos bens só pode efetuar-se pelo tempo indispensável à sua inclusão na relação de bens e deve observar o disposto no Código de Processo Civil em matéria de proteção do domicílio."
+  },
+  "55032371": {
+   "fragment_id": "55032451",
+   "type": 8,
+   "heading": "Secção II — Das citações e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das citações e notificações"
+  },
+  "55032372": {
+   "fragment_id": "55032452",
+   "type": 11,
+   "heading": "Artigo 28.º — Citação e notificação dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Citação e notificação dos interessados\n\n1 - Quando o processo deva prosseguir, são citados para os seus termos os interessados diretos na partilha, quem exerce as responsabilidades parentais, a tutela ou a curadoria, quando a sucessão seja deferida a incapazes ou a ausentes em parte incerta, os legatários, os credores da herança e, havendo herdeiros legitimários, os donatários.\n\n2 - O requerente do inventário e o cabeça de casal são notificados do despacho que ordene as citações."
+  },
+  "55032373": {
+   "fragment_id": "55032453",
+   "type": 11,
+   "heading": "Artigo 29.º — Forma de efetivar as citações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Forma de efetivar as citações\n\n1 - O expediente a remeter aos citandos deve incluir cópia das declarações prestadas pelo cabeça de casal, sendo os mesmos advertidos do âmbito da sua intervenção, nos termos do artigo 4.º, e da faculdade de deduzir oposição ou impugnação, nos termos dos artigos seguintes.\n\n2 - Verificada, em qualquer altura, a falta de citação de algum interessado, é este citado com a cominação de que, se nada requerer no prazo de 15 dias, o processo se considera ratificado.\n\n3 - No prazo referido no número anterior, o citado é admitido a exercer os direitos que lhe competiam, anulando-se o que for indispensável."
+  },
+  "55032374": {
+   "fragment_id": "55032454",
+   "type": 8,
+   "heading": "Secção III — Das oposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das oposições"
+  },
+  "55033575": {
+   "fragment_id": "55032455",
+   "type": 11,
+   "heading": "Artigo 30.º — Oposição e impugnações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Oposição e impugnações\n\n1 - Nos 20 dias a contar da citação, os interessados diretos na partilha e quem exerce as responsabilidades parentais, a tutela ou a curadoria, quando tenham sido citados, podem:\n\na) Deduzir oposição ao inventário;\n\nb) Impugnar a legitimidade dos interessados citados ou alegar a existência de outros;\n\nc) Impugnar a competência do cabeça de casal ou as indicações constantes das suas declarações; ou\n\nd) Invocar quaisquer exceções dilatórias.\n\n2 - As faculdades previstas no número anterior podem também ser exercidas pelo cabeça de casal e pelo requerente do inventário, contando-se o prazo para o seu exercício da notificação do despacho que ordena as citações.\n\n3 - Quando houver herdeiros legitimários, os legatários e os donatários são admitidos a deduzir impugnação relativamente às questões que possam afetar os seus direitos."
+  },
+  "55033576": {
+   "fragment_id": "55032456",
+   "type": 11,
+   "heading": "Artigo 31.º — Tramitação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Tramitação subsequente\n\n1 - Deduzida oposição ou impugnação, nos termos do artigo anterior, são notificados os interessados com legitimidade para intervir na questão suscitada para responder, em 15 dias.\n\n2 - As provas são indicadas com os requerimentos e respostas.\n\n3 - Efetuadas as diligências probatórias necessárias, requeridas pelos interessados ou determinadas oficiosamente, o notário decide a questão."
+  },
+  "55033577": {
+   "fragment_id": "55032457",
+   "type": 11,
+   "heading": "Artigo 32.º — Reclamação contra a relação de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Reclamação contra a relação de bens\n\n1 - Apresentada a relação de bens, todos os interessados podem, no prazo previsto no n.º 1 do artigo 30.º, reclamar contra ela:\n\na) Acusando a falta de bens que devam ser relacionados;\n\nb) Requerendo a exclusão de bens indevidamente relacionados, por não fazerem parte do acervo a dividir; ou\n\nc) Arguindo qualquer inexatidão na descrição dos bens, que releve para a partilha.\n\n2 - Os interessados são notificados da apresentação da relação de bens, enviando-se-lhes cópia da mesma.\n\n3 - Quando o cabeça de casal apresentar a relação de bens ao prestar as suas declarações, a notificação prevista no número anterior tem lugar conjuntamente com as citações para o inventário.\n\n4 - No caso previsto no número anterior, os interessados podem exercer, no prazo da oposição, as faculdades previstas no n.º 1.\n\n5 - As reclamações contra a relação de bens podem ainda ser apresentadas até ao início da audiência preparatória, sendo o reclamante condenado em multa, exceto se demonstrar que a não pôde oferecer no momento próprio, por facto que não lhe é imputável."
+  },
+  "55033578": {
+   "fragment_id": "55032458",
+   "type": 11,
+   "heading": "Artigo 33.º — Realização da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Realização da avaliação\n\n1 - Com a oposição ao inventário pode qualquer interessado impugnar o valor indicado pelo cabeça de casal para cada um dos bens, oferecendo o valor que se lhe afigure adequado.\n\n2 - Tendo sido impugnado o valor dos bens, a respetiva avaliação é efetuada por um único perito, nomeado pelo notário, aplicando-se, com as necessárias adaptações, o disposto no Código de Processo Civil quanto à prova pericial."
+  },
+  "55033579": {
+   "fragment_id": "55032459",
+   "type": 11,
+   "heading": "Artigo 34.º — Pedidos de adjudicação de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Pedidos de adjudicação de bens\n\n1 - Se estiverem relacionados bens indivisíveis de que algum dos interessados seja comproprietário, excedendo a sua quota metade do respetivo valor e fundando-se o seu direito em título que a exclua do inventário ou, não havendo herdeiros legitimários, em doação ou legado do autor da herança, o interessado em causa pode requerer que a parte relacionada lhe seja adjudicada.\n\n2 - Pode igualmente qualquer interessado formular pedido de adjudicação relativamente a quaisquer bens fungíveis ou títulos de crédito, na proporção da sua quota, salvo se a divisão em espécie puder acarretar prejuízo considerável.\n\n3 - Os pedidos de adjudicação a que se referem os números anteriores são deduzidos na conferência preparatória e encontram-se sujeitos aos limites estabelecidos para aquela forma de alienação.\n\n4 - Os restantes interessados presentes são ouvidos sobre as questões da indivisibilidade ou do eventual prejuízo causado pela divisão, podendo qualquer dos interessados requerer que se proceda à avaliação."
+  },
+  "55033580": {
+   "fragment_id": "55032460",
+   "type": 8,
+   "heading": "Secção IV — Das respostas do cabeça de casal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Das respostas do cabeça de casal"
+  },
+  "55033581": {
+   "fragment_id": "55032461",
+   "type": 11,
+   "heading": "Artigo 35.º — Respostas do cabeça de casal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Respostas do cabeça de casal\n\n1 - Quando seja deduzida reclamação contra a relação de bens, é o cabeça de casal notificado para, no prazo de 10 dias, relacionar os bens em falta ou dizer o que lhe oferecer sobre a matéria da reclamação.\n\n2 - Se confessar a existência dos bens cuja falta foi invocada, o cabeça de casal procede imediatamente, ou no prazo que lhe for concedido, ao aditamento da relação de bens inicialmente apresentada, notificando-se os restantes interessados da modificação efetuada.\n\n3 - Não se verificando a situação prevista no número anterior, são notificados os restantes interessados com legitimidade para se pronunciarem, no prazo de 15 dias, aplicando-se o disposto no n.º 2 do artigo 31.º e decidindo o notário da existência de bens e da pertinência da sua relacionação, sem prejuízo do disposto no artigo seguinte.\n\n4 - A existência de sonegação de bens, nos termos da lei civil, é apreciada conjuntamente com a invocação da falta de bens relacionados, aplicando-se, quando provada, a sanção civil que se mostre adequada, sem prejuízo do disposto no n.º 2 do artigo 17.º\n\n5 - As alterações e aditamentos ordenados são sempre introduzidos na relação de bens inicialmente apresentada.\n\n6 - O disposto no presente artigo é aplicável, com as necessárias adaptações, aos casos em que o terceiro se arroga da titularidade de bens relacionados e requer a sua exclusão do inventário."
+  },
+  "55033582": {
+   "fragment_id": "55032462",
+   "type": 11,
+   "heading": "Artigo 36.º — Insuficiência das provas para decidir das reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Insuficiência das provas para decidir das reclamações\n\n1 - Quando a complexidade da matéria de facto ou de direito tornar inconveniente, nos termos do n.º 2 do artigo 17.º, a decisão incidental das reclamações previstas no artigo anterior, o notário abstém-se de decidir e remete os interessados para os meios judiciais comuns.\n\n2 - No caso previsto no número anterior, não são incluídos no inventário os bens cuja falta se acusou e permanecem relacionados aqueles cuja exclusão se requereu.\n\n3 - Pode ainda o notário, com base numa apreciação sumária das provas produzidas, deferir provisoriamente as reclamações, com ressalva do direito às ações competentes, nos termos previstos no n.º 2 do artigo 17.º"
+  },
+  "55033583": {
+   "fragment_id": "55032463",
+   "type": 8,
+   "heading": "Secção V — Das dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Das dívidas"
+  },
+  "55033584": {
+   "fragment_id": "55032464",
+   "type": 11,
+   "heading": "Artigo 37.º — Negação de dívidas ativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Negação de dívidas ativas\n\n1 - Se uma dívida ativa, relacionada pelo cabeça de casal, for negada pelo pretenso devedor, aplica-se o disposto no artigo 32.º, com as necessárias adaptações.\n\n2 - Sendo mantido o relacionamento do débito, a dívida reputa-se litigiosa.\n\n3 - Se a dívida for eliminada, os interessados mantêm o direito de exigir o pagamento pelos meios comuns."
+  },
+  "55033585": {
+   "fragment_id": "55032465",
+   "type": 11,
+   "heading": "Artigo 38.º — Reconhecimento das dívidas aprovadas por todos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Reconhecimento das dívidas aprovadas por todos\n\n1 - As dívidas que sejam aprovadas pelos interessados maiores e por aqueles a quem compete a aprovação em representação dos menores ou equiparados consideram-se reconhecidas, devendo o seu pagamento ser ordenado por decisão do notário.\n\n2 - Quando a lei exija certa espécie de prova documental para a demonstração da sua existência, não pode a dívida ser aprovada por parte dos menores ou equiparados sem que se junte ou exiba a prova exigida."
+  },
+  "55033586": {
+   "fragment_id": "55032466",
+   "type": 11,
+   "heading": "Artigo 39.º — Verificação de dívidas pelo notário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Verificação de dívidas pelo notário\n\nSe todos os interessados se opuserem à aprovação da dívida, o notário conhece da sua existência quando a questão puder ser resolvida com segurança pelo exame dos documentos apresentados."
+  },
+  "55033587": {
+   "fragment_id": "55032467",
+   "type": 11,
+   "heading": "Artigo 40.º — Divergências entre os interessados sobre a aprovação de dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Divergências entre os interessados sobre a aprovação de dívidas\n\nHavendo divergências sobre a aprovação da dívida, aplica-se o disposto no artigo 38.º no que se refere à quota-parte relativa aos interessados que a aprovem, observando-se quanto à parte restante o determinado no artigo anterior."
+  },
+  "55033588": {
+   "fragment_id": "55032468",
+   "type": 11,
+   "heading": "Artigo 41.º — Pagamento das dívidas aprovadas por todos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Pagamento das dívidas aprovadas por todos\n\n1 - Se o credor exigir o pagamento, as dívidas vencidas e aprovadas por todos os interessados devem ser pagas imediatamente.\n\n2 - Não havendo na herança dinheiro suficiente e não acordando os interessados noutra forma de pagamento imediato, procede-se à venda de bens para esse efeito, designando o notário os bens a serem vendidos, quando não exista acordo a tal respeito entre os interessados.\n\n3 - Se o credor quiser receber em pagamento os bens indicados para a venda, os mesmos são-lhe adjudicados pelo preço que se ajustar.\n\n4 - O disposto nos números anteriores é igualmente aplicável às dívidas cuja existência seja verificada pelo notário, nos termos dos artigos 39.º e 40.º, se a respetiva decisão se tornar definitiva antes da organização do mapa da partilha."
+  },
+  "55033589": {
+   "fragment_id": "55032469",
+   "type": 11,
+   "heading": "Artigo 42.º — Pagamento de dívidas aprovadas por alguns dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Pagamento de dívidas aprovadas por alguns dos interessados\n\nSendo as dívidas aprovadas unicamente por alguns dos interessados, compete a quem as aprovou deliberar sobre a forma de pagamento, ainda que tal deliberação não afete os demais interessados."
+  },
+  "55033590": {
+   "fragment_id": "55032470",
+   "type": 11,
+   "heading": "Artigo 43.º — Deliberação dos legatários ou donatários sobre o passivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Deliberação dos legatários ou donatários sobre o passivo\n\n1 - Aos legatários compete deliberar sobre o passivo e forma do seu pagamento, quando toda a herança seja dividida em legados, ou quando da aprovação das dívidas resulte na redução de legados.\n\n2 - Os donatários são chamados a pronunciar-se sobre a aprovação das dívidas sempre que existam sérias probabilidades de delas resultar a redução das liberalidades."
+  },
+  "55033591": {
+   "fragment_id": "55032471",
+   "type": 11,
+   "heading": "Artigo 44.º — Dívida não aprovada por todos ou dívida não reconhecida pelo notário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Dívida não aprovada por todos ou dívida não reconhecida pelo notário\n\nSe a dívida que dá causa à redução não for aprovada por todos os herdeiros, donatários e legatários, ou não for reconhecida pelo notário, não pode ser tomada em conta, no processo de inventário, para esse efeito."
+  },
+  "55033592": {
+   "fragment_id": "55032472",
+   "type": 11,
+   "heading": "Artigo 45.º — Apresentação da conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Apresentação da conta\n\n1 - O cabeça de casal deve apresentar a conta do cabecelato, até ao 15.º dia que antecede a conferência preparatória, devidamente documentada, podendo qualquer interessado proceder, no prazo de cinco dias, à sua impugnação.\n\n2 - Compete ao notário decidir sobre a impugnação prevista no número anterior."
+  },
+  "55033593": {
+   "fragment_id": "55032473",
+   "type": 11,
+   "heading": "Artigo 46.º — Insolvência da herança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Insolvência da herança\n\nQuando se verifique a situação de insolvência da herança, seguem-se, a requerimento de algum credor ou por deliberação de todos os interessados, os termos do processo de insolvência que se mostrem adequados, aproveitando-se, sempre que possível, o processado."
+  },
+  "55033594": {
+   "fragment_id": "55032474",
+   "type": 8,
+   "heading": "Secção VI — Da conferência preparatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Da conferência preparatória"
+  },
+  "55033595": {
+   "fragment_id": "55033675",
+   "type": 11,
+   "heading": "Artigo 47.º — Saneamento do processo e marcação da conferência preparatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Saneamento do processo e marcação da conferência preparatória\n\n1 - Resolvidas as questões suscitadas que sejam suscetíveis de influir na partilha e determinados os bens a partilhar, o notário designa dia para a realização de conferência preparatória da conferência de interessados.\n\n2 - Os interessados podem fazer-se representar na conferência preparatória por mandatário com poderes especiais e confiar o mandato a qualquer outro interessado.\n\n3 - Na notificação das pessoas convocadas faz-se sempre menção do objeto da conferência.\n\n4 - Os interessados diretos na partilha que residam na área do município são notificados com obrigação de comparência pessoal, ou de se fazerem representar nos termos do n.º 2, sob cominação de pagamento de taxa suplementar prevista em portaria do membro do Governo responsável pela área da justiça.\n\n5 - A conferência pode ser adiada, por determinação do notário ou a requerimento de qualquer interessado, por uma só vez, se faltar algum dos convocados e houver razões para considerar viável o acordo sobre a composição dos quinhões."
+  },
+  "55033596": {
+   "fragment_id": "55033676",
+   "type": 11,
+   "heading": "Artigo 48.º — Assuntos a submeter à conferência preparatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Assuntos a submeter à conferência preparatória\n\n1 - Na conferência podem os interessados deliberar, por maioria de dois terços dos titulares do direito à herança e independentemente da proporção de cada quota, que a composição dos quinhões se realize por algum dos modos seguintes:\n\na) Designando as verbas que devem compor, no todo ou em parte, o quinhão de cada um deles e os valores por que devem ser adjudicados;\n\nb) Indicando as verbas ou lotes e respetivos valores, para que, no todo ou em parte, sejam objeto de sorteio pelos interessados;\n\nc) Acordando na venda total ou parcial dos bens da herança e na distribuição do produto da alienação pelos diversos interessados.\n\n2 - As diligências referidas nas alíneas a) e b) do número anterior podem ser precedidas de avaliação, requerida pelos interessados ou oficiosamente determinada pelo notário, destinada a possibilitar a repartição igualitária e equitativa dos bens pelos vários interessados.\n\n3 - Aos interessados compete ainda deliberar sobre a aprovação do passivo e da forma de cumprimento dos legados e demais encargos da herança.\n\n4 - Na falta da deliberação prevista no n.º 1, incumbe ainda aos interessados deliberar sobre quaisquer questões cuja resolução possa influir na partilha.\n\n5 - A deliberação dos interessados presentes, relativa às matérias contidas no número anterior, vincula os demais que, devidamente notificados, não tenham comparecido na conferência.\n\n6 - O inventário pode findar na conferência, por acordo dos interessados, sem prejuízo do disposto no artigo 5.º\n\n7 - Nos casos previstos no número anterior, ao acordo aplica-se, com as necessárias adaptações, o disposto no artigo 66.º"
+  },
+  "55033597": {
+   "fragment_id": "55033677",
+   "type": 8,
+   "heading": "Secção VII — Da conferência de interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Da conferência de interessados"
+  },
+  "55033598": {
+   "fragment_id": "55033678",
+   "type": 11,
+   "heading": "Artigo 49.º — Quando se faz a conferência de interessados e qual a sua finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Quando se faz a conferência de interessados e qual a sua finalidade\n\nA conferência de interessados destina-se à adjudicação dos bens e tem lugar nos 20 dias posteriores ao dia da conferência preparatória, devendo a sua data ser designada pelo notário, não havendo lugar a adiamento nos casos em que a respetiva data tenha sido fixada por acordo, salvo havendo justo impedimento."
+  },
+  "55033599": {
+   "fragment_id": "55033679",
+   "type": 11,
+   "heading": "Artigo 50.º — Adjudicação dos bens, valor base e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Adjudicação dos bens, valor base e competência\n\n1 - A adjudicação dos bens é efetuada mediante propostas em carta fechada, devendo o notário, pessoalmente, proceder à respetiva abertura, salvo nos casos em que aquela forma de alienação não seja admissível.\n\n2 - O valor a propor não pode ser inferior a 85 % do valor base dos bens.\n\n3 - À adjudicação aplica-se, com as necessárias adaptações, o disposto no Código de Processo Civil quanto à venda executiva mediante propostas em carta fechada."
+  },
+  "55033600": {
+   "fragment_id": "55033680",
+   "type": 11,
+   "heading": "Artigo 51.º — Negociação particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Negociação particular\n\nOs bens não adjudicados mediante propostas em carta fechada são adjudicados por negociação particular, a realizar pelo notário, aplicando-se, com as necessárias adaptações, o disposto no Código de Processo Civil quanto à venda executiva por negociação particular."
+  },
+  "55033601": {
+   "fragment_id": "55033681",
+   "type": 8,
+   "heading": "Secção VIII — Do apuramento da inoficiosidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Do apuramento da inoficiosidade"
+  },
+  "55033602": {
+   "fragment_id": "55033682",
+   "type": 11,
+   "heading": "Artigo 52.º — Avaliação de bens doados no caso de ser arguida inoficiosidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Avaliação de bens doados no caso de ser arguida inoficiosidade\n\n1 - Se houver herdeiros legitimários e algum interessado declarar que pretende licitar sobre os bens doados pelo inventariado, a oposição do donatário, seja ou não conferente, permite requerer a avaliação dos bens a que se refira a declaração.\n\n2 - Feita a avaliação e concluídas as licitações nos outros bens, a declaração fica sem efeito se vier a apurar-se que o donatário não é obrigado a repor bens alguns.\n\n3 - Quando se reconheça, porém, que a doação é inoficiosa, observa-se o seguinte:\n\na) Se a declaração recair sobre prédio suscetível de divisão, é admitida a licitação sobre a parte que o donatário tem de repor, a que não é admitido o donatário;\n\nb) Se a declaração recair sobre coisa indivisível, abre-se licitação sobre ela entre os herdeiros legitimários, no caso de a redução exceder metade do seu valor, ficando o donatário obrigado a repor o excesso, caso a redução seja igual ou inferior a essa metade;\n\nc) Fora dos casos previstos nas alíneas anteriores, o donatário pode escolher, entre os bens doados, os bens necessários para o preenchimento da sua quota na herança e dos encargos da doação, e deve repor os que excederem o seu quinhão, abrindo-se licitação sobre os bens repostos, se for ou já tiver sido requerida, não sendo o donatário admitido a licitar.\n\n4 - A oposição do donatário é declarada no próprio ato da conferência, caso o mesmo nesta esteja presente.\n\n5 - Não estando presente, o donatário é notificado, antes das licitações, para manifestar a sua oposição.\n\n6 - A avaliação pode ser requerida até ao fim do prazo para exame do processo para a forma da partilha."
+  },
+  "55033603": {
+   "fragment_id": "55033683",
+   "type": 11,
+   "heading": "Artigo 53.º — Avaliação de bens legados no caso de ser arguida inoficiosidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Avaliação de bens legados no caso de ser arguida inoficiosidade\n\n1 - Se algum interessado declarar que pretende licitar sobre bens legados, pode o legatário opor-se nos termos dos n.os 4 e 5 do artigo anterior.\n\n2 - Se o legatário se opuser, a licitação não tem lugar, mas os herdeiros podem requerer a avaliação dos bens legados quando a sua baixa avaliação lhes possa causar prejuízo.\n\n3 - Na falta de oposição por parte do legatário, os bens entram na licitação, tendo o legatário direito ao valor respetivo.\n\n4 - Ao prazo para requerer a avaliação é aplicável o disposto no n.º 6 do artigo anterior."
+  },
+  "55033604": {
+   "fragment_id": "55033684",
+   "type": 11,
+   "heading": "Artigo 54.º — Avaliação a requerimento do donatário ou legatário, sendo as liberalidades inoficiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Avaliação a requerimento do donatário ou legatário, sendo as liberalidades inoficiosas\n\n1 - Quando do valor constante da relação de bens resulte que a doação ou o legado são inoficiosos, pode o donatário ou o legatário, independentemente das declarações a que se referem os artigos anteriores, requerer a avaliação dos bens doados ou legados, ou de quaisquer outros que ainda não tenham sido avaliados.\n\n2 - Pode também o donatário ou legatário requerer a avaliação de outros bens da herança quando só em face da avaliação dos bens doados ou legados e das licitações se reconheça que a doação ou legado tem de ser reduzida por inoficiosidade.\n\n3 - A avaliação a que se refere este artigo pode ser requerida até ao exame do processo para a forma da partilha."
+  },
+  "55033605": {
+   "fragment_id": "55033685",
+   "type": 11,
+   "heading": "Artigo 55.º — Consequências da inoficiosidade do legado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Consequências da inoficiosidade do legado\n\n1 - Se o legado for inoficioso, o legatário repõe, em substância, a parte que exceder, podendo sobre essa parte haver licitação, a que não é admitido o legatário.\n\n2 - Sendo a coisa legada indivisível, observa-se o seguinte:\n\na) Quando a reposição deva ser feita em dinheiro, qualquer dos interessados pode requerer a avaliação da coisa legada;\n\nb) Quando a reposição possa ser feita em substância, o legatário tem a faculdade de requerer licitação da coisa legada.\n\n3 - É aplicável também ao legatário o disposto na alínea c) do n.º 3 do artigo 52.º"
+  },
+  "55033606": {
+   "fragment_id": "55033686",
+   "type": 11,
+   "heading": "Artigo 56.º — Licitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Licitações\n\nTodas as licitações previstas no âmbito do processo de inventário são efetuadas mediante propostas em carta fechada."
+  },
+  "55033607": {
+   "fragment_id": "55033687",
+   "type": 8,
+   "heading": "Secção IX — Da partilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Da partilha"
+  },
+  "55033608": {
+   "fragment_id": "55033688",
+   "type": 3,
+   "heading": "Subsecção I — Efetivação da partilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Efetivação da partilha"
+  },
+  "55033609": {
+   "fragment_id": "55033689",
+   "type": 11,
+   "heading": "Artigo 57.º — Despacho sobre a forma da partilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Despacho sobre a forma da partilha\n\n1 - Cumprido o disposto nos artigos anteriores, os advogados dos interessados são ouvidos sobre a forma da partilha, nos termos aplicáveis do artigo 32.º\n\n2 - No prazo de 10 dias após a audição prevista no número anterior, o notário profere despacho determinativo do modo como deve ser organizada a partilha, devendo ser resolvidas todas as questões que ainda o não tenham sido e que seja necessário decidir para a organização do mapa da partilha, podendo o notário mandar proceder à produção da prova que julgue necessária.\n\n3 - Para efeitos do disposto no número anterior, se se suscitarem questões que, atenta a sua natureza ou a complexidade da matéria de facto e de direito, não devam ser decididas no processo de inventário, serão os interessados remetidos, nessa parte, para os meios judiciais comuns.\n\n4 - Do despacho determinativo da forma da partilha é admissível impugnação para o tribunal da 1.ª instância competente, no prazo de 30 dias, a qual sobe imediatamente, nos próprios autos e com efeito suspensivo."
+  },
+  "55033611": {
+   "fragment_id": "55033691",
+   "type": 11,
+   "heading": "Artigo 59.º — Mapa da partilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Mapa da partilha\n\n1 - Proferido o despacho sobre a forma da partilha, o notário organiza, no prazo de 10 dias, o mapa da partilha, em harmonia com o mesmo despacho e com o disposto no artigo anterior.\n\n2 - Para a formação do mapa observam-se as regras seguintes:\n\na) Apura-se, em primeiro lugar, a importância total do ativo, somando-se os valores de cada espécie de bens conforme as avaliações e licitações efetuadas e deduzindo-se as dívidas, legados e encargos que devam ser abatidos;\n\nb) Em seguida, determina-se o montante da quota de cada interessado e a parte que lhe cabe em cada espécie de bens;\n\nc) Por fim, faz-se o preenchimento de cada quota com referência aos números das verbas da descrição.\n\n3 - Os lotes que devam ser sorteados são designados por letras e os valores são indicados somente por algarismos.\n\n4 - Os números das verbas da descrição são indicados por algarismos e por extenso e, quando forem seguidos, referindo apenas os limites entre os quais fica compreendida a numeração.\n\n5 - Se aos co-herdeiros couberem frações de verbas, é necessário mencionar a fração.\n\n6 - Em cada lote deve sempre indicar-se a espécie de bens que o constituem."
+  },
+  "55033612": {
+   "fragment_id": "55033692",
+   "type": 11,
+   "heading": "Artigo 60.º — Excesso de bens doados, legados ou licitados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Excesso de bens doados, legados ou licitados\n\n1 - Se o notário verificar, no ato da organização do mapa, que os bens doados, legados ou licitados excedem a quota do respetivo interessado ou a parte disponível do inventariado, lança no processo uma informação, sob a forma de mapa, indicando o montante do excesso.\n\n2 - Se houver legados ou doações inoficiosas, o notário ordena a notificação dos interessados para requererem a sua redução nos termos da lei civil, podendo o legatário ou donatário escolher, entre os bens legados ou doados, os bens necessários para preencher o valor a que tenha direito a receber."
+  },
+  "55033613": {
+   "fragment_id": "55033693",
+   "type": 11,
+   "heading": "Artigo 61.º — Opções concedidas aos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Opções concedidas aos interessados\n\n1 - Os interessados a quem caibam tornas são notificados para requerer a composição dos seus quinhões ou reclamar o pagamento das tornas.\n\n2 - Se algum interessado tiver licitado em mais verbas do que as necessárias para preencher a sua quota, é permitido a qualquer dos notificados requerer que as verbas em excesso ou algumas lhe sejam adjudicadas pelo valor resultante da licitação, até ao limite do seu quinhão.\n\n3 - O licitante pode escolher, de entre as verbas em que licitou, as necessárias para preencher a sua quota, sendo notificado para exercer esse direito, nos termos aplicáveis do n.º 2 do artigo anterior.\n\n4 - Sendo o requerimento feito por mais de um interessado e não havendo acordo entre eles sobre a adjudicação, o notário decide, por forma a conseguir o maior equilíbrio dos lotes, podendo mandar proceder a sorteio ou autorizar a adjudicação em comum na proporção que indicar."
+  },
+  "55033614": {
+   "fragment_id": "55033694",
+   "type": 11,
+   "heading": "Artigo 62.º — Pagamento ou depósito das tornas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Pagamento ou depósito das tornas\n\n1 - Reclamado o pagamento das tornas, é notificado o interessado que tenha de as pagar, para as depositar.\n\n2 - Não sendo efetuado o depósito, podem os requerentes pedir que das verbas destinadas ao devedor lhes sejam adjudicadas, pelo valor constante da informação prevista no artigo 60.º, as que escolherem e sejam necessárias para preenchimento das suas quotas, contanto que depositem imediatamente a importância das tornas que, por virtude da adjudicação, tenham de pagar, sendo neste caso aplicável o disposto no n.º 4 do artigo anterior.\n\n3 - Podem também os requerentes pedir que, tornando-se definitiva a decisão de partilha, se proceda no mesmo processo à venda dos bens adjudicados ao devedor até onde seja necessário para o pagamento das tornas.\n\n4 - Não sendo reclamado o seu pagamento, as tornas vencem juros legais desde a data da decisão homologatória da partilha e os credores podem registar hipoteca legal sobre os bens adjudicados ao devedor ou, quando essa garantia se mostre insuficiente, requerer que sejam tomados, quanto aos móveis, os atos previstos no artigo 68.º"
+  },
+  "55033615": {
+   "fragment_id": "55033695",
+   "type": 11,
+   "heading": "Artigo 63.º — Reclamações contra o mapa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Reclamações contra o mapa\n\n1 - Organizado o mapa, podem os interessados, no prazo de 10 dias a contar da sua notificação, requerer qualquer retificação ou reclamar contra qualquer irregularidade, nomeadamente contra a desigualdade dos lotes ou contra a falta de observância do despacho que determinou a partilha.\n\n2 - As reclamações apresentadas são decididas no prazo de 10 dias, podendo os interessados ser convocados para uma conferência quando alguma reclamação tiver por fundamento a desigualdade dos lotes.\n\n3 - As modificações impostas pela decisão das reclamações são efetuadas no mapa, organizando-se, se for necessário, novo mapa."
+  },
+  "55033616": {
+   "fragment_id": "55033696",
+   "type": 11,
+   "heading": "Artigo 64.º — Sorteio dos lotes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Sorteio dos lotes\n\n1 - Em seguida procede-se ao sorteio dos lotes, se a ele houver lugar, entrando numa urna tantos papéis quantos sejam os lotes que devam ser sorteados, depois de se ter escrito em cada papel a letra correspondente ao lote que representa.\n\n2 - Na extração dos papéis atribui-se o primeiro lugar ao meeiro do inventariado e, quanto aos co-herdeiros, regula a ordem alfabética dos seus nomes.\n\n3 - O notário tira as sortes pelos interessados que não compareçam e, à medida que o sorteio se for realizando, averba por cota no processo o nome do interessado a quem caiba cada lote.\n\n4 - Concluído o sorteio, os interessados podem trocar entre si os lotes que lhes tenham cabido.\n\n5 - Para a troca de lotes pertencentes a menores e equiparados é necessária autorização de quem exerce as responsabilidades parentais ou a tutela.\n\n6 - Tratando-se de inabilitado, a troca de lotes não pode fazer-se sem a anuência do curador."
+  },
+  "55033617": {
+   "fragment_id": "55033697",
+   "type": 11,
+   "heading": "Artigo 65.º — Segundo e terceiro mapas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Segundo e terceiro mapas\n\n1 - Quando exista cônjuge meeiro, no mapa constam dois montes.\n\n2 - Determinado que seja o mapa do inventariado, organiza-se segundo mapa para a divisão dele pelos seus herdeiros.\n\n3 - Caso os quinhões dos herdeiros sejam desiguais, por haver alguns que sucedam por direito de representação, achada a quota do representado, forma-se terceiro mapa para a divisão dela pelos representantes.\n\n4 - Se algum herdeiro tiver de ser contemplado com maior porção de bens, formam-se, sendo possível, os lotes necessários para que o sorteio se efetue entre lotes iguais.\n\n5 - Quando o segundo mapa não puder ser organizado e sorteado no ato do sorteio dos lotes do primeiro mapa e quando o terceiro mapa também o não possa ser no ato do sorteio dos lotes do segundo, observam-se, não só quanto à organização mas também quanto ao exame e sorteio do segundo e terceiro mapas, as regras que ficam estabelecidas relativamente ao primeiro."
+  },
+  "55033618": {
+   "fragment_id": "55033698",
+   "type": 11,
+   "heading": "Artigo 66.º — Decisão homologatória da partilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Decisão homologatória da partilha\n\n1 - A decisão homologatória da partilha constante do mapa e das operações de sorteio é proferida pelo juiz cível territorialmente competente.\n\n2 - Quando a herança seja deferida a incapazes, menores ou a ausentes em parte incerta e sempre que seja necessário representar e defender os interesses da Fazenda Pública, o processo é enviado ao Ministério Público junto do juízo cível territorialmente competente, para que determine, em 10 dias a contar da respetiva receção, o que se lhe afigure necessário para a defesa dos interesses que legalmente lhe estão confiados.\n\n3 - Da decisão homologatória da partilha cabe recurso de apelação, nos termos do Código de Processo Civil, para o Tribunal da Relação territorialmente competente, com efeito meramente devolutivo."
+  },
+  "55033619": {
+   "fragment_id": "55033699",
+   "type": 11,
+   "heading": "Artigo 67.º — Responsabilidade pelas custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Responsabilidade pelas custas\n\n1 - As custas devidas pela tramitação do inventário são pagas pelos herdeiros, pelo meeiro e pelo usufrutuário de toda a herança ou de parte dela, na proporção do que recebam, respondendo os bens legados subsidiariamente pelo seu pagamento.\n\n2 - Se a herança for toda distribuída em legados, as custas são pagas pelos legatários na mesma proporção.\n\n3 - Às custas dos incidentes e dos recursos é aplicável o regime previsto em portaria do membro do Governo responsável pela área da justiça."
+  },
+  "55033620": {
+   "fragment_id": "55033700",
+   "type": 11,
+   "heading": "Artigo 68.º — Entrega de bens antes de a decisão de partilha se tornar definitiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Entrega de bens antes de a decisão de partilha se tornar definitiva\n\n1 - Se algum dos interessados quiser receber os bens que lhe tenham cabido em partilha, antes de a decisão de partilha se tornar definitiva, observa-se o seguinte:\n\na) No título que se passe para o registo e posse dos bens imóveis declara-se que a decisão não se tornou definitiva, não podendo o conservador registar a transmissão sem mencionar essa circunstância;\n\nb) Os papéis de crédito sujeitos a averbamento são averbados pela entidade competente com a declaração de que o interessado não pode dispor deles enquanto a decisão de partilha não se tornar definitiva;\n\nc) Quaisquer outros bens só são entregues se o interessado prestar caução, a qual não compreende os rendimentos, os juros e os dividendos.\n\n2 - Se o inventário prosseguir quanto a alguns bens por se reconhecer desde logo que devem ser relacionados, mas subsistirem dúvidas quanto à falta de bens a conferir, o conferente não recebe os que lhe couberem em partilha sem prestar caução pelo valor daqueles a que não tenha direito caso a questão seja decidida contra ele.\n\n3 - As declarações feitas no registo ou no averbamento produzem o mesmo efeito que o registo das ações e tal efeito subsiste enquanto não for declarado extinto por despacho notarial."
+  },
+  "55033621": {
+   "fragment_id": "55033701",
+   "type": 11,
+   "heading": "Artigo 69.º — Nova partilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Nova partilha\n\n1 - Tendo de proceder-se a nova partilha por efeito da decisão do recurso, o cabeça de casal entra imediatamente na posse dos bens que deixaram de pertencer ao interessado que os recebeu.\n\n2 - O inventário só é reformado na parte estritamente necessária para que a decisão seja cumprida, subsistindo sempre a avaliação e a descrição, ainda que se verifique completa substituição de herdeiros.\n\n3 - Na decisão que julgue a nova partilha, ou por despacho, quando não tenha de proceder-se a nova partilha, são mandados cancelar os registos ou averbamentos que devam caducar.\n\n4 - Se o interessado não restituir os bens móveis que recebeu, será executado por eles no mesmo processo de inventário, bem como pelos rendimentos que deva restituir, prestando contas como se fosse cabeça de casal."
+  },
+  "55033622": {
+   "fragment_id": "55033702",
+   "type": 3,
+   "heading": "Subsecção II — Emenda e anulação da partilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Emenda e anulação da partilha"
+  },
+  "55033623": {
+   "fragment_id": "55033703",
+   "type": 11,
+   "heading": "Artigo 70.º — Emenda por acordo e retificação de erros materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Emenda por acordo e retificação de erros materiais\n\n1 - A partilha, ainda que a decisão se tenha tornado definitiva, pode ser emendada no mesmo inventário por acordo de todos os interessados ou dos seus representantes, se tiver havido erro de facto na descrição ou qualificação dos bens ou qualquer outro erro suscetível de viciar a vontade das partes.\n\n2 - A sentença ou o despacho que omitam o nome das partes, sejam omissas quanto a taxas e custas, ou contenham erros de escrita ou de cálculo ou quaisquer inexatidões devidas a outra omissão ou lapso manifesto, podem ser corrigidos por simples despacho, a requerimento de qualquer das partes ou por iniciativa do juiz.\n\n3 - Em caso de recurso, a retificação só pode ter lugar antes de ele subir, podendo as partes alegar perante o tribunal superior o que entendam de seu direito no tocante à retificação.\n\n4 - Se nenhuma das partes recorrer, a retificação pode ter lugar a todo o tempo."
+  },
+  "55033624": {
+   "fragment_id": "55033704",
+   "type": 11,
+   "heading": "Artigo 71.º — Emenda da partilha na falta de acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Emenda da partilha na falta de acordo\n\n1 - Quando se verifique algum dos casos previstos no artigo anterior e os interessados não estejam de acordo quanto à emenda, pode esta ser pedida em ação proposta dentro de um ano, a contar do conhecimento do erro, contanto que este conhecimento seja posterior à decisão.\n\n2 - A ação destinada a obter a emenda da partilha é apensada ao processo de inventário."
+  },
+  "55033625": {
+   "fragment_id": "55033705",
+   "type": 11,
+   "heading": "Artigo 72.º — Anulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Anulação\n\n1 - Salvos os casos de recurso extraordinário, a anulação da partilha confirmada por decisão que se tenha tornado definitiva só pode ser decretada quando tenha havido preterição ou falta de intervenção de algum dos co-herdeiros e se mostre que os outros interessados procederam com dolo ou má-fé, seja quanto à preterição, seja quanto ao modo como a partilha foi preparada.\n\n2 - A anulação deve ser pedida por meio de ação à qual é aplicável o disposto no n.º 2 do artigo anterior."
+  },
+  "55033626": {
+   "fragment_id": "55033706",
+   "type": 11,
+   "heading": "Artigo 73.º — Composição do quinhão ao herdeiro preterido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Composição do quinhão ao herdeiro preterido\n\n1 - Não se verificando os requisitos do artigo anterior ou preferindo o herdeiro preterido que o seu quinhão seja composto em dinheiro, este requer no processo de inventário que seja convocada a conferência de interessados para se determinar o montante do seu quinhão.\n\n2 - Se os interessados não chegarem a acordo, observam-se as seguintes regras:\n\na) Consigna-se no auto quais os bens sobre cujo valor se verifica divergência;\n\nb) Esses bens são avaliados novamente e sobre eles pode ser requerida segunda avaliação;\n\nc) Em seguida, fixa-se a importância a que o herdeiro tem direito.\n\n3 - É organizado novo mapa de partilha para fixação das alterações que sofre o primitivo mapa em consequência dos pagamentos necessários para o preenchimento do quinhão do preterido.\n\n4 - Feita a composição do quinhão, o herdeiro pode requerer que os devedores sejam notificados para efetuar o pagamento, sob pena de ficarem obrigados a compor-lhe em bens a parte respetiva, sem prejuízo, porém, das alienações já efetuadas.\n\n5 - Se não for exigido o pagamento, é aplicável o disposto no n.º 4 do artigo 62.º"
+  },
+  "55033627": {
+   "fragment_id": "55033707",
+   "type": 3,
+   "heading": "Subsecção III — Partilha adicional e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Partilha adicional e recursos"
+  },
+  "55033628": {
+   "fragment_id": "55033708",
+   "type": 11,
+   "heading": "Artigo 74.º — Inventário do cônjuge supérstite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Inventário do cônjuge supérstite\n\n1 - Ao inventário do cônjuge supérstite é apensado o processo de inventário por óbito do cônjuge predefunto.\n\n2 - Se o inventário do cônjuge predefunto tiver corrido em tribunal judicial o notário solicita a remessa do respetivo processo."
+  },
+  "55033629": {
+   "fragment_id": "55033709",
+   "type": 11,
+   "heading": "Artigo 75.º — Partilha adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Partilha adicional\n\n1 - Quando se reconheça, depois de feita a partilha, que houve omissão de alguns bens, procede-se no mesmo processo a partilha adicional, com observância, na parte aplicável, do que se acha disposto nesta subsecção e nas anteriores.\n\n2 - No inventário a que se proceda por óbito do cônjuge supérstite são descritos e partilhados os bens omitidos no inventário do cônjuge predefunto, quando a omissão só venha a descobrir-se por ocasião daquele inventário."
+  },
+  "55033630": {
+   "fragment_id": "55033710",
+   "type": 11,
+   "heading": "Artigo 76.º — Regime dos recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Regime dos recursos\n\n1 - Da decisão homologatória da partilha cabe recurso, aplicando-se, com as necessárias adaptações, o regime de recursos previsto no Código de Processo Civil.\n\n2 - Salvo nos casos em que cabe recurso de apelação nos termos do Código de Processo Civil, as decisões interlocutórias proferidas no âmbito dos mesmos processos devem ser impugnadas no recurso que vier a ser interposto da decisão de partilha."
+  },
+  "55033631": {
+   "fragment_id": "55033711",
+   "type": 3,
+   "heading": "Subsecção IV — Partilha de bens em casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Partilha de bens em casos especiais"
+  },
+  "55033632": {
+   "fragment_id": "55033712",
+   "type": 11,
+   "heading": "Artigo 77.º — Inventário em consequência de justificação de ausência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Inventário em consequência de justificação de ausência\n\n1 - Para deferimento da curadoria e entrega dos bens do ausente, o inventário segue os termos previstos nos capítulos anteriores.\n\n2 - São citadas para o inventário e intervêm nele as pessoas designadas no artigo 100.º do Código Civil.\n\n3 - Nos 20 dias seguintes à citação, qualquer dos citados pode deduzir oposição quanto à data da ausência ou das últimas notícias do ausente, constante do processo, indicando a que considera exata.\n\n4 - Quem se julgue com direito à entrega de bens, independentemente da partilha, pode requerer a sua entrega imediata e a decisão que a ordene nomeia os interessados curadores definitivos quanto a esses bens.\n\n5 - A decisão de inventário defere a quem compete a curadoria definitiva dos bens que não tiverem sido entregues nos termos do número anterior.\n\n6 - Quando o notário exija caução a algum curador definitivo e este a não preste, é ordenada no mesmo processo a entrega dos bens a outro curador."
+  },
+  "55033633": {
+   "fragment_id": "55033713",
+   "type": 11,
+   "heading": "Artigo 78.º — Aparecimento de novos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Aparecimento de novos interessados\n\n1 - A partilha e as entregas feitas podem ser alteradas no processo a que se refere o artigo anterior, a requerimento de herdeiro ou interessado que mostre dever excluir algum dos curadores nomeados ou concorrer com eles à sucessão, relativamente à data das últimas notícias do ausente, sendo os curadores notificados para responder.\n\n2 - As provas são oferecidas com o requerimento e as respostas.\n\n3 - Na falta de resposta, é ordenada a emenda, deferindo-se a curadoria de harmonia com ela.\n\n4 - Havendo oposição, a questão é decidida pelo notário."
+  },
+  "55033634": {
+   "fragment_id": "55033714",
+   "type": 11,
+   "heading": "Artigo 79.º — Inventário em consequência de separação, divórcio, declaração de nulidade ou anulação de casamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Inventário em consequência de separação, divórcio, declaração de nulidade ou anulação de casamento\n\n1 - Decretada a separação judicial de pessoas e bens ou o divórcio, ou declarado nulo ou anulado o casamento, qualquer dos cônjuges pode requerer inventário para partilha dos bens, salvo se o regime de bens do casamento for o de separação.\n\n2 - As funções de cabeça de casal incumbem ao cônjuge mais velho.\n\n3 - O inventário segue os termos prescritos nas secções e subsecções anteriores, sem prejuízo de o notário, em qualquer estado da causa, poder remeter o processo para mediação, relativamente à partilha de bens garantidos por hipoteca, salvo quando alguma das partes expressamente se opuser a tal remessa, aplicando-se, com as necessárias adaptações, o disposto no Código de Processo Civil relativo à mediação e suspensão da instância.\n\n4 - Verificando-se a impossibilidade de acordo na mediação, o mediador dá conhecimento desse facto ao cartório notarial, preferencialmente por via eletrónica.\n\n5 - Alcançando-se acordo na mediação, o mesmo é remetido ao cartório notarial, preferencialmente por via eletrónica."
+  },
+  "55033635": {
+   "fragment_id": "55033715",
+   "type": 11,
+   "heading": "Artigo 80.º — Responsabilidade pelas custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Responsabilidade pelas custas\n\n1 - As custas inerentes ao inventário, se forem devidas, são pagas por ambos os cônjuges, na proporção de metade para cada um, salvo se algum deles não satisfizer em tempo esse pagamento.\n\n2 - O outro cônjuge pode assumir integralmente o encargo de pagar a totalidade das custas, caso em que beneficia do direito de regresso sobre o montante que pagou a mais."
+  },
+  "55033636": {
+   "fragment_id": "55033716",
+   "type": 11,
+   "heading": "Artigo 81.º — Processo para a separação de bens em casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Processo para a separação de bens em casos especiais\n\n1 - Requerendo-se a separação de bens nos casos de penhora de bens comuns do casal, nos termos do Código de Processo Civil, ou tendo de proceder-se a separação por virtude da insolvência de um dos cônjuges, aplica-se o disposto no regime do processo de inventário em consequência de separação, divórcio, declaração de nulidade ou anulação do casamento, com as seguintes especificidades:\n\na) O exequente, nos casos de penhora de bens comuns do casal, ou qualquer credor, no caso de insolvência, tem o direito de promover o andamento do inventário;\n\nb) Não podem ser aprovadas dívidas que não estejam devidamente documentadas;\n\nc) O cônjuge do executado ou insolvente tem o direito de escolher os bens com que deve ser formada a sua meação e, se usar desse direito, são notificados da escolha os credores, que podem reclamar contra ela, fundamentando a sua reclamação.\n\n2 - Se julgar atendível a reclamação, o notário ordena avaliação dos bens que lhe pareçam mal avaliados.\n\n3 - Quando a avaliação modifique o valor dos bens escolhidos pelo cônjuge do executado ou insolvente, aquele pode declarar que desiste da escolha e, nesse caso, ou não tendo ele usado do direito de escolha, as meações são adjudicadas por meio de sorteio."
+  },
+  "55033637": {
+   "fragment_id": "55033717",
+   "type": 1,
+   "heading": "Capítulo III — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições complementares e finais"
+  },
+  "55033638": {
+   "fragment_id": "55033718",
+   "type": 11,
+   "heading": "Artigo 82.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Legislação subsidiária\n\nEm tudo o que não esteja especialmente regulado na presente lei, é aplicável o Código de Processo Civil e respetiva legislação complementar."
+  },
+  "55033639": {
+   "fragment_id": "55033719",
+   "type": 11,
+   "heading": "Artigo 83.º — Taxas, honorários e multas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Taxas, honorários e multas\n\n1 - Pela remessa do processo ao tribunal no âmbito do regime jurídico do processo de inventário é devida taxa de justiça correspondente à prevista na tabela ii do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro, para os incidentes/procedimentos anómalos, podendo a final o juiz determinar, sempre que as questões revistam especial complexidade, o pagamento de um valor superior dentro dos limites estabelecidos naquela tabela.\n\n2 - São regulados por portaria do membro do Governo responsável pela área da justiça os honorários notariais devidos pelo processo de inventário, o respetivo regime de pagamento e a responsabilidade pelo seu pagamento.\n\n3 - As multas previstas na presente lei revertem a favor do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P."
+  },
+  "55033640": {
+   "fragment_id": "55033720",
+   "type": 11,
+   "heading": "Artigo 84.º — Apoio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Apoio judiciário\n\n1 - Ao processo de inventário é aplicável, com as necessárias adaptações, o regime jurídico do apoio judiciário.\n\n2 - Nos casos de dispensa de taxa de justiça e demais encargos com o processo, o regime de pagamento dos honorários e a responsabilidade pelos mesmos são regulados por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "55033641": {
+   "fragment_id": "55033721",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de janeiro de 2013.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 22 de fevereiro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 25 de fevereiro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "124707527": {
+   "fragment_id": "55032424",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência do cartório notarial e do tribunal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Competência do cartório notarial e do tribunal\n\n1 - Compete aos cartórios notariais sediados no município do lugar da abertura da sucessão efetuar o processamento dos atos e termos do processo de inventário e da habilitação de uma pessoa como sucessora por morte de outra.\n\n2 - Em caso de impedimento dos notários de um cartório notarial, é competente qualquer dos outros cartórios notariais sediados no município do lugar da abertura da sucessão.\n\n3 - Não havendo cartório notarial no município a que se referem os números anteriores é competente qualquer cartório de um dos municípios confinantes.\n\n4 - Ao notário compete dirigir todas as diligências do processo de inventário e da habilitação de uma pessoa como sucessora por morte de outra, sem prejuízo dos casos em que os interessados são remetidos para os meios judiciais comuns.\n\n5 - Aberta a sucessão fora do País, observa-se o seguinte:\n\na) Tendo o falecido deixado bens em Portugal, é competente para a habilitação o cartório notarial do município da situação dos imóveis ou da maior parte deles, ou, na falta de imóveis, do município onde estiver a maior parte dos móveis;\n\nb) Não tendo o falecido deixado bens em Portugal, é competente para a habilitação o cartório notarial do domicílio do habilitando.\n\n6 - Em caso de inventário em consequência de separação, divórcio, declaração de nulidade ou anulação de casamento, é competente o cartório notarial sediado no município do lugar da casa de morada de família ou, na falta desta, o cartório notarial competente nos termos da alínea a) do número anterior.\n\n7 - São aplicáveis ao notário, com as necessárias adaptações, as garantias de imparcialidade dispostas no Código de Processo Civil.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+  },
+  "124707531": {
+   "fragment_id": "124680654",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Intervenção do juiz",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 9.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 26.º-A — Intervenção do juiz\n\n1 - A apreensão e venda de bens no âmbito do processo de inventário são realizadas pelo tribunal da área da situação dos bens, a requerimento do notário.\n\n2 - Compete ainda ao juiz, a requerimento do notário, a aplicação de multas processuais, a adoção de meios coercitivos e a verificação da legitimidade da escusa e da dispensa do dever de sigilo.\n\n> Aditado pelo/a Artigo 9.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+  },
+  "124707532": {
+   "fragment_id": "55032450",
+   "type": 11,
+   "heading": "Artigo 27.º — Relação de bens que não se encontrem em poder do requerente do inventário",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Relação de bens que não se encontrem em poder do requerente do inventário\n\n1 - Se o cabeça de casal declarar que está impossibilitado de relacionar alguns bens que estejam em poder de outra pessoa, é esta notificada para, no prazo designado, facultar o acesso a tais bens e fornecer os elementos necessários à respetiva inclusão na relação de bens.\n\n2 - Alegando o notificado que os bens não existem ou não têm de ser relacionados, observa-se, com as necessárias adaptações, o disposto no n.º 3 do artigo 35.º\n\n3 - Se o notificado não cumprir o dever de colaboração que lhe cabe, o notário efetua as diligências necessárias, designadamente requerendo ao tribunal da área da situação dos bens a apreensão pelo tempo indispensável à sua inclusão na relação de bens.\n\n4 - Para a realização da diligência de apreensão dos bens o notário pode solicitar diretamente o auxílio das autoridades policiais, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 840.º do Código de Processo Civil.\n\n5 - A apreensão dos bens só pode efetuar-se pelo tempo indispensável à sua inclusão na relação de bens e deve observar o disposto no Código de Processo Civil em matéria de proteção do domicílio.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+  },
+  "124707529": {
+   "fragment_id": "55032461",
+   "type": 11,
+   "heading": "Artigo 35.º — Sonegação de bens",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Sonegação de bens\n\n1 - Quando seja deduzida reclamação contra a relação de bens, é o cabeça de casal notificado para, no prazo de 10 dias, relacionar os bens em falta ou dizer o que lhe oferecer sobre a matéria da reclamação.\n\n2 - Se confessar a existência dos bens cuja falta foi invocada, o cabeça de casal procede imediatamente, ou no prazo que lhe for concedido, ao aditamento da relação de bens inicialmente apresentada, notificando-se os restantes interessados da modificação efetuada.\n\n3 - Não se verificando a situação prevista no número anterior, são notificados os restantes interessados com legitimidade para se pronunciarem, no prazo de 15 dias, aplicando-se o disposto no n.º 2 do artigo 31.º e decidindo o notário da existência de bens e da pertinência da sua relacionação, sem prejuízo do disposto no artigo seguinte.\n\n4 - A existência de sonegação de bens, nos termos da lei civil, é apreciada conjuntamente com a alegação da falta de bens relacionados, aplicando-se, pelo juiz, a sanção civil que se mostre adequada, sem prejuízo do disposto no n.º 1 do artigo 17.º\n\n5 - As alterações e aditamentos ordenados são sempre introduzidos na relação de bens inicialmente apresentada.\n\n6 - O disposto no presente artigo é aplicável, com as necessárias adaptações, aos casos em que o terceiro se arroga da titularidade de bens relacionados e requer a sua exclusão do inventário.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+  },
+  "124707530": {
+   "fragment_id": "55033676",
+   "type": 11,
+   "heading": "Artigo 48.º — Assuntos a submeter à conferência preparatória",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 48.º — Assuntos a submeter à conferência preparatória\n\n1 - Na conferência, os interessados podem deliberar, por unanimidade, que a composição dos quinhões se realize por algum dos modos seguintes:\n\na) Designando as verbas que devem compor, no todo ou em parte, o quinhão de cada um deles e os valores por que devem ser adjudicados;\n\nb) Indicando as verbas ou lotes e respetivos valores, para que, no todo ou em parte, sejam objeto de sorteio pelos interessados;\n\nc) Acordando na venda total ou parcial dos bens da herança e na distribuição do produto da alienação pelos diversos interessados.\n\n2 - As diligências referidas nas alíneas a) e b) do número anterior podem ser precedidas de avaliação, requerida pelos interessados ou oficiosamente determinada pelo notário, destinada a possibilitar a repartição igualitária e equitativa dos bens pelos vários interessados.\n\n3 - Aos interessados compete ainda deliberar sobre a aprovação do passivo e da forma de cumprimento dos legados e demais encargos da herança.\n\n4 - Na falta da deliberação prevista no n.º 1, incumbe ainda aos interessados deliberar sobre quaisquer questões cuja resolução possa influir na partilha.\n\n5 - A deliberação dos interessados presentes, relativa às matérias contidas no número anterior, vincula os demais que, devidamente notificados, não tenham comparecido na conferência.\n\n6 - O inventário pode findar na conferência, por acordo dos interessados, sem prejuízo do disposto no artigo 5.º\n\n7 - Nos casos previstos no número anterior, ao acordo aplica-se, com as necessárias adaptações, o disposto no artigo 66.º\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01"
+  }
+ }
+}

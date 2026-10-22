@@ -1,0 +1,746 @@
+---
+schema_version: '1.0'
+id: pt:dre:174783529:por
+title: Portaria n.º 262/2021
+short_title: null
+summary: Aprova o Regulamento do Sistema de Incentivos às Empresas «Promoção da Bioeconomia Sustentável»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Ação Climática
+proposing_entity: null
+official_number: 262/2021
+official_date: null
+publication_date: '2021-11-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/2021, Série I de 2021-11-23
+  number: '227'
+  series: I
+  supplement: null
+  pages: 14 - 33
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22700/0001400033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-03-08'
+version_history:
+  file: portaria-262-2021.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-02-01'
+    amending: pt:dre:178394357:por
+    amending_title: Portaria n.º 63/2022
+    changes:
+    - Altera Artigo 11.º
+    - Altera Anexo II
+  - date: '2024-03-08'
+    amending: pt:dre:854529503:por
+    amending_title: Portaria n.º 85/2024/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 21.º
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/262/2021/p/cons/20240307/pt/html
+  oj: null
+  dre: '174783529'
+  dre_path: /dr/detalhe/portaria/262-2021-174783529
+  internal: pt:dre:174783529:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-2021-174783529
+  metadata_url: https://data.dre.pt/eli/port/262/2021/p/cons/20240307/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-178527955
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-178527955
+  retrieved_at: '2026-10-22T12:49:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e5b35491a2f96c169f24a3ff5f28f588a3af4e0af0d1ab9b0d475d7a498dba28
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:49:07Z'
+  notes: 3 versão(ões); histórico completo em portaria-262-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Empresa
+- Investigação Científica e Tecnológica
+- Contrato
+- Competitividade Empresarial
+- Auxílio de Minimis
+- Indústria Têxtil
+- Fundos CE
+- Grupo Coordenador
+- Indústria do Calçado
+- Indústria do Vestuário e Confecção
+- Indústria Resineira
+- Resina
+- Investimento
+- Página na Internet
+- Proteção do Ambiente
+- Política de Investigação e Desenvolvimento
+- Energia
+- Madeira.região Autónoma
+- Projeto
+- Regulamento
+- Regulamento CE
+- Açores
+- Subsídio não Reembolsável
+- Fundo Ambiental
+- Plano de Recuperação e Resiliência
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Estrutura de Missão Recuperar Portugal
+- Sistema de Incentivos às Empresas Promoção da Bioeconomia Sustentável
+- Regulamento do Sistema de Incentivos às Empresas Promoção da Bioeconomia Sustentável
+relationships:
+- type: amended_by
+  target: pt:dre:178394357:por
+  label: Altera Artigo 11.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/63-2022-178394357
+  date: '2022-01-31'
+- type: amended_by
+  target: pt:dre:854529503:por
+  label: Altera Artigo 2.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 21.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/85-2024-854529503
+  date: '2024-03-07'
+- type: cites
+  target: celex:32008L0098
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0723
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/723/oj
+- type: cites
+  target: celex:32013R1407
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1407/oj
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/651/oj
+- type: cites
+  target: celex:32021R0241
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/241/oj
+- type: cites
+  target: celex:32021R0694
+  label: null
+  source: null
+- type: cites
+  target: celex:32023R2831
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/169-b/2019/12/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/169-b/2019/12/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2003/361/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2003/361/oj
+article_structure:
+  article_count: 23
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:49:07Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 262/2021
+
+Portaria n.º 262/2021
+
+de 23 de novembro
+
+Sumário: Aprova o Regulamento do Sistema de Incentivos às Empresas «Promoção da Bioeconomia Sustentável».
+
+A crise de ordem económica e social causada pela pandemia da doença COVID-19 levou à adoção de um conjunto de medidas excecionais por parte da União Europeia (UE) e dos seus Estados-Membros. Com vista a estabelecer uma resposta célere às principais necessidades relacionadas com a recuperação dos países da UE, o Conselho Europeu definiu um expressivo pacote financeiro destinado a apoiar os Estados-Membros na superação dos efeitos socioeconómicos da pandemia e na instituição de políticas eficazes de recuperação e promoção da resiliência das economias nacionais numa lógica de sustentabilidade.
+
+No âmbito deste Plano de Recuperação e Resiliência (PRR), Portugal definiu um conjunto de investimentos e reformas que contribuem para as seguintes dimensões: resiliência, transição climática e transição digital. Entre as reformas, e respetivos investimentos, que integram o PRR, inscreve-se a «Bioeconomia Sustentável» que visa promover uma alteração de paradigma para acelerar a produção de produtos de alto valor acrescentado a partir de recursos biológicos, em alternativa às matérias de base fóssil.
+
+O Decreto-Lei n.º 6/2015, de 8 de janeiro, que procede à aprovação do enquadramento nacional dos sistemas de incentivos às empresas, define as condições e as regras a observar na criação de sistemas de incentivos aplicáveis às empresas no território do continente, regulando ainda as especificidades dos sistemas de incentivos às empresas.
+
+Neste contexto, o regulamento que cria o sistema de incentivos «Promoção da Bioeconomia Sustentável» abrange como domínios de intervenção, previstos no artigo 8.º do Decreto-Lei n.º 6/2015, de 8 de janeiro, a investigação e desenvolvimento (I&D), incluindo demonstração e valorização da I&D empresarial, a inovação e competitividade empresarial, energia e ambiente.
+
+O presente regulamento respeita as normas do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, «Regulamento de Isenção por Categoria» (RGIC), na sua atual redação, bem como do Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o Mecanismo de Recuperação e Resiliência.
+
+Foi obtido o parecer favorável da comissão técnica dos sistemas de incentivos, nos termos do Decreto-Lei n.º 6/2015, de 8 de janeiro.
+
+Assim:
+
+Manda o Governo, pelo Ministro do Ambiente e da Ação Climática, nos termos do Decreto-Lei n.º 169-B/2019, de 3 de dezembro, que aprova o regime de organização e funcionamento do XXII Governo Constitucional, o segu
+
+###### Artigo 1.º — Objeto
+
+É aprovado o Regulamento do Sistema de Incentivos às Empresas «Promoção da Bioeconomia Sustentável», proveniente da dotação do PRR afeta ao investimento TC-C12-i01 Bioeconomia, anexo à presente portaria e da qual faz parte integr
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro do Ambiente e da Ação Climática, João Pedro Soeiro de Matos Fernandes, em 17 de novembro de 2021.
+
+## Anexo — REGULAMENTO DO SISTEMA DE INCENTIVOS ÀS EMPRESAS «PROMOÇÃO DA BIOECONOMIA SUSTENTÁVEL»
+
+###### Artigo 1.º — Objeto
+
+1 - O presente regulamento cria o sistema de incentivos às empresas «Promoção da Bioeconomia Sustentável», que visa promover uma alteração de paradigma para acelerar a produção de produtos de alto valor acrescentado a partir de recursos biológicos em alternativa às matérias de base fóssil.
+
+2 - O sistema de incentivos às empresas «Promoção da Bioeconomia Sustentável» é financiado pelo PRR, no respeito pelas regras definidas no Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o Mecanismo de Recuperação e Resiliência, no Regulamento (UE) n.º 651/2014, da Comissão Europeia, na sua atual redação (RGIC), e pelas orientações técnicas aprovadas pela Estrutura de Missão «Recuperar Portugal» (EMRP).
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, entende-se por:
+
+a) «Projeto integrado»: projetos que reúnam iniciativas e medidas, designadamente, projetos de investigação, desenvolvimento e inovação desde o processo de investigação fundamental até à transferência para o mercado - inovação produtiva, projetos para o desenvolvimento de plataformas e bases de dados, formação e capacitação dedicada, plano de comunicação;
+
+b) «Pilares»: eixos de intervenção estratégica que contribuem para o alcance das metas propostas do uso sustentável dos recursos biológicos, da criação de emprego e de crescimento económico sustentável, devendo agregar um conjunto de iniciativas que se podem desdobrar em medidas;
+
+c) «Iniciativa»: tem como finalidade alcançar os resultados pretendidos para os projetos integrados, nomeadamente o uso sustentável dos recursos biológicos, a criação de emprego, e a dinamização e crescimento da economia sustentável;
+
+d) «Medidas»: conjunto de ações que se relacionam com a mesma iniciativa alinhadas com o objetivo preconizado;
+
+e) «Atividade não económica»: entende-se a atividade que não tem um caráter comercial ou concorrencial no mercado, de acordo com a definição constante da Comunicação da Comissão sobre a noção de auxílio estatal nos termos do artigo 107.º, n.º 1, do Tratado sobre o Funcionamento da União Europeia (2016/C 262/01) e da Comunicação da Comissão - Enquadramento dos auxílios estatais à investigação, desenvolvimento e inovação (2014/C 198/1);
+
+f) «Fileira»: conjunto de atividades extenso e multifacetado, com exigências e de conhecimento científico e técnico aos mais variados níveis, desenvolve e fabrica produtos para aplicações diferenciadas; existência clara de relações de transação diretas entre as empresas da mesma Classificação Atividade Económica (CAE) das fileiras abrangidas pelo presente convite e das empresas que funcionam como fornecedores de matérias-primas ou semielaboradas, para segunda e terceira transformação dentro da Fileira, com vista à obtenção de produtos de alto valor acrescentado; inclui entidades que, pelo tipo de CAE e competências internas, se antevejam parceiros na partilha dessas competências através da prestação de serviços e as outras entidades que contribuam de forma ativa e direta para o desenvolvimento da componente tecnológica afeta à fileira em causa. Implica que exista uma boa definição do produto, do mercado alvo, dos processos e das necessidades de competências;
+
+g) «Cluster de competitividade de âmbito nacional», reconhecido nos termos do Regulamento de Reconhecimento dos Clusters de Competitividade, aprovado por Despacho n.º 2909/2015, publicado no Diário da República, 2.ª série, n.º 57, de 23 de março de 2015: «plataformas agregadoras de conhecimento e competências, constituídas por parcerias e redes que integram empresas, associações empresariais, entidades públicas e instituições de suporte relevantes, [...] para, através da cooperação e da obtenção de economias de aglomeração, atingir níveis superiores de capacidade competitiva»;
+
+h) «Laboratório colaborativo (CoLAB)», reconhecido nos termos do Regulamento n.º 486-A/2017, publicado no Diário da República, 2.ª série, n.º 176, de 12 de setembro de 2017: os CoLAB têm como objetivo principal criar, direta e indiretamente, emprego qualificado e emprego científico em Portugal através da implementação de agendas de investigação e de inovação orientadas para a criação de valor económico e social. Os laboratórios colaborativos deverão constituir-se como associações privadas sem fins lucrativos ou empresas;
+
+i) «Centro de interface (CIT)», reconhecido nos termos do Despacho n.º 8563/2019, publicado no Diário da República, 2.ª série, n.º 186, de 27 de setembro de 2019: os centros de interface (CIT) são entidades de ligação entre as instituições de ensino superior e as empresas, que se dedicam à valorização de produtos e serviços e à transferência de tecnologia;
+
+j) «Investigação fundamental»: o trabalho experimental ou teórico realizado principalmente com o objetivo de adquirir novos conhecimentos sobre os fundamentos subjacentes de fenómenos e factos observáveis, sem ter em vista qualquer aplicação ou utilização comerciais diretas. A investigação fundamental corresponde ao nível de maturidade tecnológica 1 ou TRL 1;
+
+k) "Investigação industrial": a investigação planeada ou a investigação crítica, destinada à aquisição de novos conhecimentos e competências para o desenvolvimento de novos produtos, processos ou serviços ou destinada a melhorar significativamente os produtos, processos ou serviços existentes, incluindo produtos, processos ou serviços digitais, em qualquer área, tecnologia, indústria ou setor (incluindo, mas não exclusivamente, as indústrias e tecnologias digitais, como a supercomputação, as tecnologias quânticas, as tecnologias em cadeia de blocos, a inteligência artificial, a cibersegurança, os megadados e as tecnologias de computação em nuvem). A investigação industrial inclui a criação de componentes de sistemas complexos, podendo integrar a construção de protótipos num ambiente de laboratório ou num ambiente de interfaces simuladas com sistemas existentes, bem como linhas-piloto, se necessário para a investigação industrial e, nomeadamente, para a validação de tecnologia genérica. A investigação industrial corresponde aos níveis de maturidade tecnológica 2 a 4 ou TRL 2 a 4;
+
+l) "Desenvolvimento experimental": a aquisição, combinação, configuração e utilização de conhecimentos e competências relevantes, de caráter científico, tecnológico, comercial e outros, já existentes, com o objetivo de desenvolver produtos, processos ou serviços novos ou melhorados, incluindo produtos, processos ou serviços digitais, em qualquer área, tecnologia, indústria ou setor (incluindo, mas não exclusivamente, as indústrias e tecnologias digitais, como, por exemplo, a supercomputação, as tecnologias quânticas, as tecnologias de cadeia de blocos, a inteligência artificial, a cibersegurança, os megadados e as tecnologias de computação em nuvem ou de ponta). Tal pode igualmente incluir, por exemplo, atividades que visem a definição conceptual, o planeamento e a documentação sobre novos produtos, processos ou serviços. O desenvolvimento experimental pode incluir a criação de protótipos, a demonstração, a elaboração de projetos-piloto, os testes e a validação de produtos, processos ou serviços novos ou melhorados em ambientes representativos das condições reais de funcionamento, quando o principal objetivo consistir em introduzir novas melhorias técnicas nos produtos, processos ou serviços que não estejam em grande medida estabelecidos. Tal pode incluir o desenvolvimento de um protótipo ou projeto-piloto comercialmente utilizável, que seja necessariamente o produto comercial final e cuja produção seja demasiado onerosa para ser utilizado apenas para efeitos de demonstração e de validação. O desenvolvimento experimental não inclui alterações, de rotina ou periódicas, introduzidas em produtos, linhas de produção, processos de fabrico e serviços existentes e noutras operações em curso, ainda que tais alterações sejam suscetíveis de representar melhorias. O desenvolvimento industrial corresponde aos níveis de maturidade tecnológica 5 a 8 ou TRL 5 a 8;
+
+m) «Estudos de viabilidade»: a avaliação e análise do potencial de um projeto, com o objetivo de apoiar o processo de tomada de decisão, revelando de forma objetiva e racional os seus pontos fortes e fracos, oportunidades e ameaças, e de identificar os recursos exigidos para a sua realização e, em última instância, as suas perspetivas de êxito;
+
+n) «Infraestruturas de investigação»: as instalações, os recursos e os serviços conexos utilizados pela comunidade científica para realizar investigação nos domínios respetivos, abrangendo equipamentos científicos ou conjuntos de instrumentos, os recursos baseados no conhecimento, como coleções, arquivos ou informação científica estruturada, as infraestruturas capacitantes baseadas nas tecnologias da informação e comunicação, como GRID, a computação, o software e as comunicações, ou qualquer outra entidade de natureza única, essencial para realizar a investigação. Essas infraestruturas podem ser «unilocais» ou «distribuídas» (rede organizada de recursos), em conformidade com o artigo 2.º alínea a), do Regulamento (CE) n.º 723/2009 do Conselho, de 25 de junho de 2009, relativo ao quadro jurídico comunitário aplicável ao consórcio para uma infraestrutura europeia de investigação (ERIC);
+
+o) "Polos de inovação": as estruturas ou grupos organizados que consistem em partes independentes (tais como empresas inovadoras em fase de arranque, pequenas, médias e grandes empresas, bem como organismos de investigação e de divulgação de conhecimentos, organizações sem fins lucrativos e outros agentes económicos conexos), destinados a incentivar a atividade inovadora e novas formas de colaboração, por exemplo, através de meios digitais, da partilha e/ou da promoção de instalações e do intercâmbio de conhecimentos e competências e da contribuição efetiva para a transferência de conhecimentos, a criação de redes, a divulgação da informação e a colaboração entre as empresas e outras organizações do polo. Os Polos de Inovação Digital [incluindo os Polos Europeus de Inovação Digital financiados ao abrigo do Programa Europa Digital gerido de forma centralizada e criado pelo Regulamento (UE) 2021/694 do Parlamento Europeu e do Conselho] são entidades cujo objetivo é estimular a ampla aceitação pela indústria (em especial pelas PME) e pelos organismos do setor público de tecnologias digitais como a inteligência artificial, a computação em nuvem, de ponta e de alto desempenho e a cibersegurança. Os Polos de Inovação Digital podem ser considerados polos de inovação por si só para efeitos do presente regulamento;
+
+p) "Inovação organizacional": a aplicação de um novo método de organização a nível da empresa (a nível do grupo no setor industrial pertinente no EEE) em relação à organização do local de trabalho ou às relações externas da empresa, incluindo, por exemplo, com recurso a tecnologias ou soluções digitais novas ou inovadoras. Excluem-se desta definição as alterações baseadas nos métodos de organização já utilizados na empresa, as alterações na estratégia de gestão, as fusões e aquisições, a cessação da utilização de um processo, uma mera substituição ou extensão do capital, alterações resultantes puramente de alterações dos preços dos fatores, a produção personalizada, a localização, as alterações sazonais periódicas e outras alterações cíclicas, bem como o comércio de produtos novos ou significativamente melhorados;
+
+q) "Inovação a nível de processos": a aplicação de um método de produção ou de distribuição novo ou significativamente melhorado, incluindo alterações significativas nas técnicas, equipamentos ou software, a nível da empresa (a nível do grupo no setor industrial pertinente no EEE), incluindo, por exemplo, com recurso a tecnologias ou soluções digitais novas ou inovadoras. Excluem-se desta definição as alterações ou melhorias de pequena importância, aumentos da capacidade de produção ou de prestação de serviços através do acréscimo de sistemas de fabrico ou de sistemas logísticos que sejam muito análogos aos já utilizados, a cessação da utilização de um processo, a mera substituição ou a extensão do equipamento, as alterações unicamente decorrentes de variações do preço dos fatores, a produção personalizada, a localização, as alterações sazonais periódicas e outras alterações cíclicas, bem como o comércio de produtos novos e significativamente melhorados;
+
+r) "Reciclagem", a reciclagem na aceção do artigo 3.º, ponto 17, da Diretiva 2008/98/CE;
+
+s) "Reutilização", a reutilização na aceção do artigo 3.º, ponto 13, da Diretiva 2008/98/CE do Parlamento Europeu e do Conselho;
+
+t) "Preparação para a reutilização", a preparação para a reutilização na aceção do artigo 3.º, ponto 16, da Diretiva 2008/98/CE;
+
+u) «Estado da técnica»: um processo em que a reutilização de resíduos para fabricar um produto final constitui uma prática corrente e economicamente rentável. Se for o caso, cabe interpretar o conceito de «estado da arte» numa perspetiva tecnológica e de mercado interno à escala da União Europeia;
+
+v) «Trabalhador desfavorecido»: qualquer pessoa que: a) não tenha exercido de forma regular, nos últimos seis meses, uma atividade profissional remunerada; ou b) tenha entre 15 e 24 anos de idade; ou c) não tenha atingido um nível de ensino ou de formação profissional correspondente ao ensino secundário (classificação internacional tipo da educação 3) ou tenha terminado a sua formação a tempo inteiro no máximo há dois anos e que não tenha obtido anteriormente um primeiro emprego regular e remunerado; ou d) tenha mais de 50 anos de idade; ou e) seja um adulto que vive só e com uma ou mais pessoas a cargo; ou f) trabalhe num setor ou profissão num Estado-Membro caracterizado por um desequilíbrio entre os géneros que é superior em 25 % ou mais ao desequilíbrio médio entre os géneros em todos os setores económicos nesse Estado-Membro, e pertença a esse grupo sub-representado, ou g) faça parte de uma minoria étnica num Estado-Membro e necessite de desenvolver o seu perfil linguístico, de formação profissional ou de experiência laboral, a fim de aumentar as suas perspetivas de aceder a um emprego estável;
+
+w) «Empresa»: qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da disponibilização, com ou sem remuneração, de bens ou serviços no mercado;
+
+x) «Nível de maturidade tecnológica ou TRL», technology readiness levels, de acordo com:
+
+i) TRL 1 - Princípios básicos observados;
+
+ii) TRL 2 - Formulação do conceito tecnológico;
+
+iii) TRL 3 - Prova de conceito experimental;
+
+iv) TRL 4 - Validação da tecnologia em laboratório;
+
+v) TRL 5 - Validação de tecnologia em ambiente relevante (semi-industrial);
+
+vi) TRL 6 - Demonstração da tecnologia em ambiente relevante (semi-industrial);
+
+vii) TRL 7 - Demonstração do protótipo do sistema em ambiente operacional;
+
+viii) TRL 8 - Sistema completo e qualificado; e
+
+ix) TRL 9 - Sistema aprovado em ambiente de produção de série;
+
+y) «PME»: as micro, pequenas e médias empresas na aceção da Recomendação 2003/361/CE da Comissão Europeia, de 6 de maio, relativa à definição de micro, pequena e média empresa e com a Certificação Eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, obtida através do sítio do IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.);
+
+z) «Não PME» ou «grande empresa»: a empresa não abrangida pela definição de PME;
+
+aa) «Empresa em dificuldade»: empresa relativamente à qual se verifica, pelo menos, uma das seguintes circunstâncias: (i) se se tratar de uma empresa de responsabilidade limitada, quando mais de metade do seu capital social tiver desaparecido devido a perdas acumuladas. Trata-se do caso em que a dedução das perdas acumuladas das reservas (e todos os outros elementos geralmente considerados como uma parte dos fundos próprios da empresa) conduz a um montante cumulado negativo que excede metade do capital social subscrito; (ii) se se tratar de uma empresa em que pelo menos alguns sócios tenham responsabilidade ilimitada relativamente às dívidas da empresa, quando mais de metade do seu capital, conforme indicado na contabilidade da empresa, tiver desaparecido devido às perdas acumuladas; (iii) quando a empresa for objeto de um processo coletivo de insolvência ou preencher, de acordo com o respetivo direito nacional, os critérios para ser submetida a um processo coletivo de insolvência a pedido dos seus credores; (iv) se se tratar de uma empresa que Não PME e onde, nos dois últimos anos: i) o rácio dívida contabilística/fundos próprios da empresa foi superior a 7,5, e ii) o rácio de cobertura dos juros da empresa, calculado com base em EBTIDA, foi inferior a 1,0 - cf. artigo 2.º, alínea 18), do RGIC;
+
+bb) «Colaboração efetiva»: a colaboração entre, pelo menos, duas partes independentes para troca de conhecimentos ou tecnologia, ou para alcançar um objetivo comum baseado na divisão do trabalho, em que as partes definem conjuntamente o âmbito do projeto de colaboração, contribuem para a sua implementação e partilham os seus riscos e resultados. Uma ou mais partes podem assumir os custos totais do projeto e, assim, eximir outras partes dos seus riscos financeiros. A investigação mediante contrato e a prestação de serviços de investigação não são considerados formas de colaboração.
+
+cc) "Eficiência dos recursos": a redução da quantidade de fatores de produção necessários para produzir uma unidade de produção ou a substituição de fatores de produção primários por fatores de produção secundários;
+
+dd) "Data de concessão do auxílio": a data em que se confere ao beneficiário o direito de receber o auxílio, de acordo com o regime nacional aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 85/2024/1 - Diário da República n.º 48/2024, Série I de 2024-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/85-2024-854529503), em vigor a partir de 2024-03-08
+
+###### Artigo 3.º — Âmbito territorial
+
+O Sistema de Incentivos à Promoção da Bioeconomia Sustentável tem aplicação em todo o território nacional.
+
+###### Artigo 4.º — Âmbito setorial
+
+O Sistema de Incentivos à Promoção da Bioeconomia Sustentável tem aplicação a todas as atividades económicas que contribuam para os Projetos Integrados nas fileiras seguintes:
+
+a) Promoção da bioeconomia sustentável no setor têxtil e vestuário;
+
+b) Promoção da bioeconomia sustentável no setor do calçado;
+
+c) Promoção e valorização da resina natural.
+
+###### Artigo 5.º — Tipologia de projetos
+
+Os projetos integrados apoiam as seguintes tipologias:
+
+a) Projetos de investigação, desenvolvimento e inovação (incluindo infraestruturas de I&D) desde o processo de investigação fundamental até à transferência para o mercado e eventual introdução no mercado;
+
+b) Inovação em matéria de processos e organização;
+
+c) Projetos para o desenvolvimento de plataformas e bases de dados;
+
+d) Eventos de transferência de conhecimento;
+
+e) Formação e capacitação dedicada;
+
+f) Comunicação e promoção.
+
+###### Artigo 6.º — Entidades beneficiárias
+
+1 - O líder do consórcio, que deverá ser a entidade gestora do cluster de competitividade reconhecido nos termos do Despacho n.º 2909/2015, ou quando não existente, um centro de interface tecnológico, reconhecido nos termos do Despacho n.º 8563/2019, ou um laboratório colaborativo, reconhecido nos termos do Regulamento n.º 486-A/2017.
+
+2 - São parceiros elegíveis:
+
+a) Empresas de qualquer natureza e sob qualquer forma jurídica;
+
+b) Entidades do sistema científico nacional;
+
+c) Instituições do ensino superior incluindo os centros de investigação;
+
+d) Entidades privadas não comerciais;
+
+e) Organizações não-governamentais e associações sem fins lucrativos, legalmente estabelecidas.
+
+3 - No caso da fileira da resina natural, incluem-se, ainda, como parceiros elegíveis organizações de produtores florestais e empresas de resinagem legalmente estabelecidas.
+
+###### Artigo 7.º — Critérios de elegibilidade dos beneficiários
+
+No âmbito do presente regulamento são exigíveis os seguintes critérios quanto aos beneficiários:
+
+a) Estar legalmente constituído;
+
+b) Dispor de contabilidade organizada nos termos da legislação aplicável;
+
+c) Não ser uma empresa em dificuldade, de acordo com a definição prevista na alínea 18) do artigo 2.º do RGIC;
+
+d) Declarar que não se trata de uma empresa sujeita a uma injunção de recuperação, ainda pendente, na sequência de uma decisão anterior da Comissão que declara um auxílio concedido pelo mesmo Estado-membro ilegal e incompatível com o mercado interno, conforme previsto na alínea a) do n.º 4 do artigo 1.º do RGIC;
+
+e) Para efeitos de comprovação do estatuto PME, obter ou atualizar a correspondente Certificação Eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, através do sítio do IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.);
+
+f) Encontrar-se legalmente autorizada a exercer a respetiva atividade no território nacional;
+
+g) Apresentar uma situação económico-financeira equilibrada;
+
+h) Possuir ou assegurar os recursos humanos e físicos necessários ao desenvolvimento do projeto;
+
+i) Não ter dívidas à Autoridade Tributária e à Segurança Social.
+
+###### Artigo 8.º — Critérios de elegibilidade dos projetos
+
+1 - Os critérios de elegibilidade dos projetos são os seguintes:
+
+a) Enquadrar-se nos objetivos e prioridades definidos nos avisos de abertura de concurso;
+
+b) Ter data de início dos trabalhos após a data do pedido de auxílio, tal como definido nos artigos 2.º, alínea 23), e 6.º do RGIC;
+
+c) Integrar toda a informação exigida no âmbito da instrução do processo de candidatura, nos termos dos respetivos avisos, respeitando as condições e os prazos fixados;
+
+d) Demonstrar que o consórcio reúne as condições para poder ser considerado «consórcio completo», isto é, aquele que inclui a participação de entidades empresariais nas fases críticas da cadeia de valor dos produtos ou processos alvo do projeto e constituem condição necessária à valorização eficaz dos respetivos resultados. A composição do consórcio deve garantir: a presença do tomador da tecnologia, ou seja, aquele que a vai colocar no mercado; preferencialmente, e se aplicável, o consórcio deve incluir um utilizador final da tecnologia;
+
+e) O projeto deve estar estruturado respeitando os limiares de pilares definidos no aviso em torno de inovações de produto, processo ou serviço, que contribuam para a criação ou consolidação de cadeias de valor, devendo incluir obrigatoriamente uma componente associada à gestão do projeto;
+
+f) Uma avaliação final favorável dos critérios de seleção;
+
+g) Estar em conformidade com as disposições legais, nacionais e europeias, e regulamentares que lhes forem aplicáveis.
+
+2 - Os avisos de abertura de concurso definem os limiares mínimos de investimento.
+
+###### Artigo 9.º — Despesas elegíveis
+
+1 - As despesas elegíveis referem-se a todos os custos de investimento necessários para a implementação dos projetos integrados, podendo no aviso ser definidas apenas partes das despesas aqui elencadas, bem como limites máximos:
+
+a) Custos do pessoal: investigadores, técnicos e outro pessoal de apoio, na medida em que trabalhem no projeto;
+
+b) Custos de instrumentos e equipamentos, na medida e durante o período em que forem utilizados no projeto. Se tais instrumentos e equipamento não forem utilizados durante todo o seu tempo de vida para o projeto, apenas são considerados elegíveis os custos de amortização correspondentes à duração do projeto, calculados com base em princípios contabilísticos geralmente aceites;
+
+c) Custos de edifícios e terrenos, na medida e durante o período em que forem utilizados no projeto. No que respeita aos edifícios, são considerados elegíveis apenas os custos de amortização correspondentes à duração do projeto, calculados com base em princípios contabilísticos geralmente aceites. Quanto aos terrenos, são elegíveis os custos da cessão comercial ou os custos de capital efetivamente incorridos;
+
+d) Custos de investigação contratual, conhecimentos e patentes adquiridos a fontes externas ou por elas licenciados em condições de plena concorrência, bem como os custos de consultoria e serviços equivalentes utilizados exclusivamente no projeto;
+
+e) Custos gerais e outras despesas operacionais adicionais, nomeadamente custos de materiais, fornecimentos e produtos semelhantes, que decorram diretamente do projeto;
+
+f) Custos de investimento em ativos incorpóreos e corpóreos;
+
+g) Custos de investimento adicionais determinados por comparação dos custos totais de investimento do projeto com os de um projeto ou atividade menos respeitador do ambiente;
+
+h) Custos do pessoal relativos a formadores, para as horas em que os formadores participem na formação;
+
+i) Custos de funcionamento relativos a formadores e formandos diretamente relacionados com o projeto de formação, como despesas de deslocação, custos de alojamento, material e fornecimentos diretamente relacionados com o projeto e amortização dos instrumentos e equipamentos, na medida em que forem exclusivamente utilizados no projeto de formação em causa;
+
+j) Custos de serviços de consultoria associados ao projeto de formação;
+
+k) Custos do pessoal relativos a formandos e custos indiretos gerais (custos administrativos, rendas, despesas gerais) relativamente ao número total de horas em que os formandos participaram na formação;
+
+l) Custos incorridos por uma PME com o aluguer, a construção e o funcionamento do pavilhão, aquando da participação de uma empresa numa feira ou exposição determinada.
+
+m) Custos indiretos para as entidades não empresariais não abrangidas pelas regras de auxílios de Estado, bem como para as empresas no âmbito do artigo 25.º e do artigo 31.º, ambos do RGIC, em conformidade com as regras aplicáveis.
+
+2 - No caso em que as infraestruturas de investigação exerçam ou venham a exercer simultaneamente atividades económicas e não económicas, o financiamento, custos e receitas de cada tipo de atividade devem ser contabilizados separadamente, com base em princípios de contabilização dos custos aplicados de forma coerente e objetivamente justificáveis.
+
+3 - Os custos elegíveis apresentados nos pedidos de pagamento pelo beneficiário assentam numa base de custos reais, tendo de ser justificados através de faturas pagas ou outros documentos contabilísticos de valor probatório equivalente.
+
+4 - Os custos elegíveis são sempre cumulativamente determinados ao abrigo das regras que resultam do RGIC e em conformidade com as diferentes categorias de auxílio de Estado em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 85/2024/1 - Diário da República n.º 48/2024, Série I de 2024-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/85-2024-854529503), em vigor a partir de 2024-03-08
+
+###### Artigo 10.º — Despesas não elegíveis
+
+Constituem despesas não elegíveis:
+
+a) Custos normais de funcionamento do beneficiário, não previstos no investimento contratualizado, bem como custos de manutenção e substituição, e custos relacionados com atividades de tipo periódico ou contínuo;
+
+b) Pagamentos em numerário, exceto nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que num quantitativo unitário inferior a 250 euros;
+
+c) Despesas pagas no âmbito de contratos efetuados através de intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante financiado pelo PRR ou das despesas elegíveis da operação;
+
+d) Aquisição de bens em estado de uso;
+
+e) Imposto sobre o valor acrescentado (IVA), recuperável ou não pelo beneficiário;
+
+f) Aquisição de veículos automóveis, aeronaves e outro material de transporte, à exceção dos previstos nos Investimentos aprovados no PRR;
+
+g) Juros e encargos financeiros;
+
+h) Compra de imóveis, incluindo terrenos;
+
+i) Trespasse e direitos de utilização de espaços;
+
+j) Publicidade corrente;
+
+k) Fundo de maneio.
+
+###### Artigo 11.º — Forma de apoio, taxas de financiamento e custos elegíveis
+
+1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável, sendo aplicáveis as seguintes taxas máximas de cofinanciamento sobre as despesas consideradas elegíveis em conformidade com as diferentes categorias de auxílio de Estado previstas no RGIC:
+
+a) Investigação fundamental - taxa máxima de 100 %, até ao limite de 55 milhões de euros por empresa e por projeto. Despesas elegíveis:
+
+i) Custos do pessoal: investigadores, técnicos e outro pessoal de apoio, na medida em que trabalhem no projeto;
+
+ii) Custos de instrumentos e equipamentos, na medida e durante o período em que forem utilizados no projeto. Se tais instrumentos e equipamento não forem utilizados durante todo o seu tempo de vida para o projeto, apenas são considerados elegíveis os custos de amortização correspondentes à duração do projeto, calculados com base em princípios contabilísticos geralmente aceites;
+
+iii) Custos de edifícios e terrenos, na medida e durante o período em que forem utilizados no projeto. No que respeita aos edifícios, são considerados elegíveis apenas os custos de amortização correspondentes à duração do projeto, calculados com base em princípios contabilísticos geralmente aceites. No tocante aos terrenos, são elegíveis os custos da cessão comercial ou os custos de capital efetivamente incorridos;
+
+iv) Custos de investigação contratual, conhecimentos e patentes adquiridos a fontes externas ou por elas licenciados em condições de plena concorrência, bem como os custos de consultoria e serviços equivalentes utilizados exclusivamente no projeto; e
+
+v) Custos gerais e outras despesas operacionais adicionais, nomeadamente custos de materiais, fornecimentos e produtos semelhantes, que decorram diretamente do projeto; sem prejuízo do artigo 7.º, n.º 1.º, terceiro período do RGIC, tais custos dos projetos de investigação e desenvolvimento podem ser calculados alternativamente com base numa abordagem simplificada dos custos, sob a forma de uma taxa fixa máxima de 20 %, aplicada ao total dos custos elegíveis do projeto de investigação e desenvolvimento referidos acima nos pontos i) a iv). Neste caso, os custos do projeto de investigação e desenvolvimento utilizados para o cálculo dos custos indiretos são determinados com base nas práticas contabilísticas normais e englobam apenas os custos elegíveis do projeto de investigação e desenvolvimento referidos acima nos pontos i) a iv);
+
+b) Investigação industrial - taxa base de 50 %, com majoração de 10 % para médias empresas e de 20 % para micro e pequenas empresas. Pode ainda ter uma majoração adicional de 15 % de acordo com a alínea b) do n.º 6 do artigo 25.º do RGIC, não podendo em qualquer dos casos ultrapassar a taxa máxima de 80 %. Pode ainda ter uma majoração adicional de 5 % e 25 % de acordo com as alíneas c) e d) do n.º 6 do artigo 25.º do RGIC, respetivamente. As majorações das alíneas b), c) e d) do n.º 6 do artigo 25.º do RGIC não podem ser combinadas entre si. O limite máximo do apoio é de 35 milhões de euros por empresa e por projeto. As despesas elegíveis são as identificadas nas subalíneas i) a v) da alínea a) do n.º 1 acima;
+
+c) Desenvolvimento experimental - taxa base de 25 %, com majoração de 10 % para médias empresas e de 20 % para micro e pequenas empresas. Pode ainda ter majoração adicional de 15 % de acordo com a alínea b) do n.º 6 do artigo 25.º do RGIC, não podendo em qualquer dos casos ultrapassar a taxa máxima de 80 %. Pode ainda ter uma majoração adicional de 5 % e 25 % de acordo com as alíneas c) e d) do n.º 6 do artigo 25.º do RGIC, respetivamente. As majorações das alíneas b), c) e d) do n.º 6 do artigo 25.º do RGIC não devem ser combinadas entre si. O limite máximo do apoio é de 25 milhões de euros por empresa e por projeto. As despesas elegíveis são as identificadas nas subalíneas i) a v) da alínea a) do n.º 1 acima;
+
+d) Estudos de viabilidade para a preparação de atividades de investigação - taxa base de 50 %, com majoração de 10 % para médias empresas e de 20 % para micro e pequenas empresas, até ao limite de 8,25 milhões de euros por estudo. As despesas elegíveis são os custos do estudo;
+
+e) Infraestruturas de investigação - taxa máxima de 50 %, até ao limite de 35 milhões de euros por infraestrutura de investigação. A intensidade de auxílio pode ser aumentada até 60 %, desde que pelo menos dois Estados-Membros concedam o financiamento público ou uma infraestrutura de investigação avaliada e selecionada a nível da União Europeia. Caso a infraestrutura de investigação exerça ou venha a exercer simultaneamente atividades económicas e não económicas, o financiamento, custos e receitas de cada tipo de atividade devem ser contabilizados separadamente, com base em princípios de contabilização dos custos aplicados de forma coerente e objetivamente justificáveis. As despesas elegíveis são os custos de investimento em ativos incorpóreos e corpóreos;
+
+f) Polos de inovação - taxa base de 50 %, com majoração de 15 % e 5 % para polos de inovação situados em zonas assistidas que preencham as condições do artigo 107.º, n.º 3, alíneas a) e c), do TFUE, respetivamente, de acordo com o mapa de auxílios com finalidade regional em vigor para Portugal (SA.100752 e SA.106697), até ao limite de 10 milhões de euros por polo de inovação. As despesas elegíveis são os custos de investimento em ativos incorpóreos e corpóreos;
+
+g) Inovação a favor das PME - taxa base de 50 %, até ao limite de 10 milhões de euros por empresa e por projeto. No caso particular de subvenção a serviços de consultoria em inovação e de apoio à inovação por PME, a intensidade de auxílio pode ser aumentada até 100 % dos custos elegíveis, desde que o montante total do auxílio a serviços de consultoria e de apoio à inovação não exceda 220 000 euros por empresa num período de três anos. As despesas elegíveis são:
+
+i) Custos de obtenção, validação e defesa de patentes e outros ativos incorpóreos;
+
+ii) Custos relativos ao destacamento de pessoal altamente qualificado de um organismo de investigação e divulgação de conhecimentos, ou de uma grande empresa, que se dedique a tarefas de investigação, desenvolvimento e inovação no âmbito de uma função recentemente criada na empresa beneficiária e que não substitui outros membros do pessoal;
+
+iii) Custos de serviços de consultoria em inovação e de apoio à inovação incluindo os serviços prestados por organismos de investigação e divulgação de conhecimentos, infraestruturas de investigação, infraestruturas de ensaio e experimentação ou polos de inovação;
+
+h) Inovação em matéria de processos e organização: taxa máxima de 15 % para grandes empresas e taxa máxima de 50 % para PME, até ao limite de 12,5 milhões de euros por empresa e por projeto. A subvenção não reembolsável a grandes empresas só é concedida se estas cooperarem efetivamente com as PME no âmbito da atividade que é objeto da subvenção e se as PME em causa suportarem, pelo menos, 30 % dos custos totais elegíveis. Os custos elegíveis são os seguintes:
+
+i) Custos do pessoal;
+
+ii) Custos dos instrumentos, equipamento, edifícios e terrenos, na medida em que forem utilizados no projeto, e durante a execução do mesmo;
+
+iii) Custos de investigação contratual, conhecimentos e patentes adquiridos a fontes externas ou por elas licenciados em condições normais de concorrência; e
+
+iv) Custos gerais adicionais e outros custos de funcionamento, nomeadamente custos de materiais, fornecimentos e produtos semelhantes, que decorram diretamente do projeto;
+
+i) Investimento a favor da eficiência dos recursos e destinados a apoiar a transição para uma economia circular - taxa base de 40 %, com majoração de 10 % para médias empresas e de 20 % para micro e pequenas empresas. Podem ainda os projetos ser majorados em 15 % e 5 % para investimentos situados em zonas assistidas que preencham as condições do artigo 107.º, n.º 3, alíneas a) e c), do TFUE, respetivamente, de acordo com o mapa de auxílios com finalidade regional em vigor para Portugal (SA.100752 e SA.106697). O limite máximo do apoio é de 30 milhões de euros por empresa e por projeto. Os tipos de investimento abrangidos pela presente alínea i) são os identificados no artigo 47.º, n.º 2, do RGIC. Os custos elegíveis são os custos de investimento adicionais determinados por comparação dos custos totais de investimento do projeto com os de um projeto ou atividade menos respeitador do ambiente, nos termos do artigo 47.º, n.º 7, do RGIC;
+
+j) Formação - taxa base de 50 %, com majoração de 10 % se a formação for dada a trabalhadores com deficiência ou a trabalhadores desfavorecidos, de 10 % para médias empresas e de 20 % para micro e pequenas empresas. Não podendo em qualquer dos casos ultrapassar a taxa máxima de 70 % sobre os custos elegíveis. O limite máximo do apoio é de 3 milhões de euros por projeto de formação. Não são concedidas subvenções à formação realizada pelas empresas para cumprir as normas nacionais obrigatórias em matéria de formação. As despesas elegíveis são as seguintes:
+
+i) Custos do pessoal relativos a formadores, para as horas em que os formadores participem na formação;
+
+ii) Custos de funcionamento relativos a formadores e formandos diretamente relacionados com o projeto de formação, como despesas de deslocação, custos de alojamento, material e fornecimentos diretamente relacionados com o projeto e amortização dos instrumentos e equipamentos, na medida em que forem exclusivamente utilizados no projeto de formação em causa;
+
+iii) Custos de serviços de consultoria associados ao projeto de formação;
+
+iv) Custos do pessoal relativos a formandos e custos indiretos gerais (custos administrativos, rendas, despesas gerais) relativamente ao número total de horas em que os formandos participaram na formação;
+
+k) Participação de PME em feiras - taxa máxima de 50 %, até ao limite máximo de 2,2 milhões de euros por empresa e por ano. As despesas elegíveis são os custos incorridos com o aluguer, a construção e o funcionamento do pavilhão, aquando da participação de uma empresa numa qualquer feira ou exposição determinada;
+
+l) Consultoria a favor das PME - taxa máxima de 50 %, até ao limite máximo de 2,2 milhões de euros por empresa e por projeto. As despesas elegíveis são os custos dos serviços de consultoria prestados por consultores externos. Os serviços em causa não devem constituir uma atividade contínua nem periódica, nem estar relacionados com os custos normais de funcionamento da empresa, como os serviços em matéria de consultoria fiscal de rotina, os serviços jurídicos regulares ou a publicidade;
+
+m) Investimento a favor das PME, taxa máxima de 20 % para micro e pequenas empresas e de 10 % para médias empresas, até ao limite máximo de 8,25 milhões de euros por empresa e por projeto de investimento. São despesas elegíveis um ou vários dos seguintes custos:
+
+i) Os custos de investimento em ativos corpóreos e incorpóreos, incluindo os custos pontuais não amortizáveis diretamente relacionados com o investimento e a sua instalação inicial;
+
+ii) Os custos salariais estimados do emprego diretamente criado pelo projeto de investimento, calculados ao longo de dois anos;
+
+iii) Uma combinação de parte dos custos a que se referem as subalíneas i) e ii), que não exceda o montante da subalínea i) ou ii), consoante o que for mais elevado.
+
+A fim de serem considerados despesas elegíveis para efeitos da presente alínea m), os investimentos devem incluir: a) um investimento em ativos corpóreos e incorpóreos relacionado com a criação de um novo estabelecimento; o aumento da capacidade de um estabelecimento existente; a diversificação da produção de um estabelecimento em produtos não fabricados ou serviços não prestados anteriormente nesse estabelecimento; ou uma alteração fundamental do processo de produção global do(s) produto(s) ou da prestação global do(s) serviço(s) abrangido(s) pelo investimento no estabelecimento; ou b) a aquisição dos ativos pertencentes a um estabelecimento que encerrou ou teria encerrado se não tivesse sido adquirido. A mera aquisição das ações de uma empresa não é considerada um investimento. A operação deve ser realizada em condições de mercado. Devem ainda ser cumpridos os restantes requisitos do artigo 17.º do RGIC;
+
+n) Custos suportados pelas empresas que participem em projetos de cooperação territorial europeia, nos termos do artigo 20.º do RGIC, até ao limite máximo de 2,2 milhões de euros por empresa e por projeto.
+
+2 - Para as categorias de auxílio "polos de inovação" e "investimento a favor da eficiência dos recursos e destinados a apoiar a transição para uma economia circular", que incluem a possibilidade de aplicar majorações para investimentos localizados em zonas assistidas, é aplicável o mapa de auxílios regionais aprovado pela Comissão Europeia em 8 de fevereiro de 2022 (SA.100752), conforme alterado em 27 de abril de 2023 (SA.106697).
+
+3 - Para as mesmas despesas elegíveis, os apoios concedidos ao abrigo do presente Regulamento não são cumuláveis com outros auxílios de Estado.
+
+4 - Para as entidades não empresariais não abrangidas pelas regras de auxílios de Estado, os apoios podem ir até 100 % da despesa elegível.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 85/2024/1 - Diário da República n.º 48/2024, Série I de 2024-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/85-2024-854529503), em vigor a partir de 2024-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2022 - Diário da República n.º 21/2022, Série I de 2022-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/63-2022-178394357), em vigor a partir de 2022-02-01
+
+###### Artigo 12.º — Apresentação de candidatura
+
+As candidaturas são apresentadas no âmbito de avisos para apresentação de candidaturas e são submetidas através de formulário eletrónico, disponível no sítio do Fundo Ambiental.
+
+###### Artigo 13.º — Avisos de abertura de concurso
+
+1 - Os avisos para apresentação de candidaturas devem observar o respeito pelas regras definidas no Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o Mecanismo de Recuperação e Resiliência e nas Orientações Técnicas aprovadas pela Estrutura de Missão «Recuperar Portugal».
+
+2 - As candidaturas recebidas em avisos de convite à constituição de consórcios, lançados anteriormente à entrada em vigor da presente portaria são analisadas, selecionadas e decididas nos termos do presente Regulamento.
+
+###### Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas
+
+1 - Os procedimentos de análise, seleção e decisão das candidaturas são estabelecidos pelo Comité Coordenador para as Iniciativas da Bioeconomia, constituído pelo Despacho n.º 2702-B/2021, de 10 de março, dos Ministros de Estado, da Economia e da Transição Digital, de Estado e dos Negócios Estrangeiros e dos Ministros da Ciência, Tecnologia e Ensino Superior e do Ambiente e da Ação Climática.
+
+2 - O Comité Coordenador designa uma comissão de seleção, constituída por membros designados pelas entidades representadas no Comité Coordenador, sendo responsável por analisar e hierarquizar as candidaturas.
+
+3 - A comissão de seleção procede à (i) verificação da elegibilidade das propostas de consórcio apresentado para cada fileira; (ii) análise sobre as propostas, a qual pode ser suportada em pareceres técnicos especializados da Administração Pública, de acordo com as respetivas áreas de competência, e/ou em pareceres emitidos por peritos independentes de reconhecido mérito e idoneidade, e (iii) no caso de eventuais propostas concorrentes, avaliar as propostas tendo em vista a constituição de um consórcio único por fileira.
+
+4 - A proposta de decisão fundamentada sobre as candidaturas é proferida pela comissão de seleção, no prazo de 60 dias seguidos a contar da data-limite para a submissão de consórcios.
+
+5 - Os candidatos são ouvidos durante o procedimento, nos termos legais, sendo concedido um prazo máximo de 10 dias úteis para pronúncia, contados a partir da data da notificação da proposta de decisão, designadamente quanto à eventual intenção de indeferimento e aos respetivos fundamentos.
+
+6 - A comissão de seleção procede à proposta da decisão final ao Comité Coordenador, que notificará os candidatos no prazo máximo de 30 dias, a contar da data da pronúncia.
+
+7 - A aceitação da decisão de constituição de consórcio deve ser comunicada pelo respetivo líder à comissão de seleção no prazo indicado na comunicação referida no número anterior, e nunca, inferior a 10 dias úteis depois de recebida a comunicação.
+
+8 - Após a comunicação de aceitação do consórcio, o consórcio tem 60 dias seguidos para apresentação detalhada do projeto, o projeto integrado.
+
+9 - Durante os 60 dias para apresentação detalhada do projeto poderá haver uma interação com a entidade contratante para aferir os detalhes necessários à boa execução e definir a formatação final do projeto integrado.
+
+10 - O incumprimento do disposto no n.º 7 ou no n.º 8 determina o convite ao candidato seguinte de acordo com a hierarquização das propostas selecionadas.
+
+###### Artigo 15.º — Contratação
+
+1 - Finalizada a definição projeto integrado de acordo com o n.º 9 do artigo 14.º, a entidade contratante enviará, até 10 dias úteis, uma minuta de contrato, entre o Estado Português e o promotor/líder do consórcio e do contrato de consórcio a celebrar entre o promotor/líder do consórcio e seus parceiros, sendo parte integrante do contrato do projeto integrado, para preenchimento e conclusão dos elementos em falta.
+
+2 - Após recebida a minuta, o contrato de projeto deve ser devolvido à entidade contratante num prazo de 20 dias úteis, devidamente assinado e rubricado por quem, nos termos legais, obriga a entidade ou instituição.
+
+3 - Os projetos têm obrigatoriamente de ter início até 30 dias úteis após a data da assinatura do contrato do Projeto integrado e respetivo contrato de consórcio.
+
+4 - A decisão de aprovação caduca caso não seja assinado o contrato de projeto no prazo definido no n.º 2, salvo motivo justificado, não imputável ao beneficiário.
+
+###### Artigo 16.º — Obrigações dos beneficiários
+
+1 - Dar início à execução dos projetos obrigatoriamente até 30 dias úteis após a data da assinatura do contrato do projeto integrado e respetivo contrato de consórcio.
+
+2 - Executar as operações nos termos e condições aprovadas, previstos nos AAC e contratualizadas com o Fundo Ambiental.
+
+3 - Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado.
+
+4 - Conservar a totalidade dos dados relativos à realização do investimento, em suporte digital, durante prazo fixado na legislação nacional e comunitária aplicáveis.
+
+5 - Proceder à publicitação dos apoios, em conformidade com o disposto na legislação europeia e nacional aplicável.
+
+6 - Manter as condições legais necessárias ao exercício da atividade.
+
+7 - Repor os montantes indevidamente recebidos e cumprir as sanções administrativas aplicadas, designadamente no caso de não cumprimento dos indicadores contratados, no prazo máximo de 30 dias após notificação da entidade contratante, para o efeito, tendo por limite a data de 30 de junho de 2026.
+
+8 - Manter a sua situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social.
+
+9 - Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+
+10 - Disponibilizar, nos prazos estabelecidos, os elementos que lhe forem solicitados pelas entidades com competências para o acompanhamento, avaliação de resultados, controlo e auditoria.
+
+11 - Comunicar as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do projeto.
+
+12 - Não afetar a outras finalidades, locar, alienar ou por qualquer outro modo onerar, os bens e serviços adquiridos no âmbito dos projetos apoiados, sem prévia autorização do beneficiário intermediário.
+
+13 - O investimento produtivo ou as infraestruturas financiadas devem ser mantidos e afetos à respetiva atividade e, quando aplicável, na localização geográfica definida na operação, pelo menos durante cinco anos, ou três anos quando estejam em causa investimentos de pequenas e médias empresas (PME), caso não esteja previsto prazo superior na legislação europeia aplicável ou nas regras dos auxílios de Estado, em ambos os casos, a contar da data do pagamento final ao beneficiário final.
+
+14 - Nos prazos previstos na alínea anterior e quando aplicável, os beneficiários não devem proceder a nenhuma das seguintes situações, sem prévia autorização do beneficiário intermediário:
+
+a) Cessação ou relocalização de sua atividade;
+
+b) Mudança de propriedade de um item de infraestrutura que confira a uma entidade pública ou privada uma vantagem indevida;
+
+c) Alteração substancial da operação que afete a sua natureza, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais e metas contratualizadas.
+
+15 - Os montantes pagos indevidamente no âmbito de uma operação em que ocorram as alterações previstas no número anterior são recuperados de forma proporcional ao período relativamente ao qual as obrigações não foram cumpridas.
+
+###### Artigo 17.º — Pagamentos aos beneficiários
+
+1 - Os pagamentos ao consórcio estão dependentes do cumprimento dos marcos intermédios e das metas definidas, devendo ser apresentadas evidências do cumprimento dos mesmos.
+
+2 - No caso de as metas não serem atingidas devido a fatores externos ao consórcio os pagamentos a efetuar terão de ser vistos casuisticamente, de acordo com os motivos do não cumprimento.
+
+3 - As modalidades de pagamento são discriminadas no contrato de investimento e de contrato de consórcio que é anexo, constituindo parte integrante do contrato de investimento.
+
+###### Artigo 18.º — Acompanhamento e controlo
+
+1 - Os projetos deverão ser objeto de verificação local, semestralmente, por uma entidade externa.
+
+2 - Os projetos terão que apresentar relatórios intercalares, utilizando para o efeito os formulários a disponibilizar, com periodicidade anual, e serão objetos de uma auditoria no final do projeto.
+
+3 - A quantificação e ponderação dos indicadores são objeto de negociação, contratualização e monitorização.
+
+###### Artigo 19.º — Critérios de seleção das candidaturas
+
+1 - As candidaturas são selecionadas com base numa avaliação apurada através dos critérios de seleção aprovados e conforme referencial descrito no anexo i ao presente Regulamento, do qual faz parte integrante.
+
+2 - Os projetos são hierarquizados por ordem decrescente de classificação final, sendo selecionado, para cada fileira, o consórcio com maior classificação final e até ao limite orçamental definido nos avisos para apresentação de candidaturas, sem prejuízo do referido limite poder ser reforçado por decisão do Fundo Ambiental.
+
+###### Artigo 20.º — Indicadores
+
+1 - A quantificação e ponderação dos indicadores são objeto de negociação, contratualização e monitorização, nos termos previstos no Contrato de investimento.
+
+2 - Os indicadores acima referidos constam dos avisos de abertura de concurso ao nível das operações com as necessárias adaptações.
+
+###### Artigo 21.º — Enquadramento europeu de auxílios de Estado
+
+1 - O presente Regulamento respeita o regime de auxílios de Estado, ao abrigo Regime Geral de Isenção por Categoria (RGIC), Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual conforme disposto no anexo ii.
+
+2 - Para custos financiados ao acessão do auxílio seja anterior a 1 de janeiro de 2024, aplicam-se as regras do RGIC, na redação anterior à entrada em vigor do Regulamento (UE) n.º 2023/1315.
+
+3 - Para custos financiados ao abrigo do RGIC, caso a data de concessão do auxílio seja subsequente a 31 de dezembro de 2023, aplicam-se as regras do RGIC na redação em vigor, que resulta do Regulamento (UE) n.º 2023/1315.
+
+4 - Para outros custos não financiados no âmbito das categorias de auxílios do RGIC anteriormente referidas, aplicar-se-á o regime de auxílios de minimis [Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro], com um limite máximo de 200 mil euros durante três anos por empresa única, sempre que a data de concessão do auxílio seja anterior a 1 de janeiro de 2024.
+
+5 - Para outros custos não financiados no âmbito das categorias de auxílios do RGIC anteriormente identificadas, aplicar-se-á o regime de auxílios de minimis [Regulamento (UE) 2023/2831, da Comissão Europeia, de 13 de dezembro de 2023], com um limite máximo de 300 mil euros durante três anos por empresa única, sempre que a data de concessão do auxílio seja subsequente a 31 de dezembro de 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 85/2024/1 - Diário da República n.º 48/2024, Série I de 2024-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/85-2024-854529503), em vigor a partir de 2024-03-08
+
+## Anexo I — Critérios de seleção
+
+Para efeitos de hierarquização e seleção, as candidaturas dos consórcios serão avaliadas de acordo com os seguintes critérios:
+
+(ver documento original)
+
+Cada critério é pontuado numa escala de 1 a 5, de acordo com o seguinte descritivo, com respetiva fundamentação da pontuação proposta:
+
+1) Fraco - a proposta não aborda o critério ou não pode ser avaliada devido a informações incompletas;
+
+2) Insuficiente - a proposta aborda o critério, mas existem fraquezas significativas;
+
+3) Bom - a proposta aborda o critério, mas verificam-se algumas fraquezas;
+
+4) Muito bom - a proposta aborda o critério de forma completa, mas verifica-se um pequeno número de fraquezas;
+
+5) Excelente - a proposta aborda o critério de forma completa. Quaisquer fraquezas são menores.
+
+A = (A1 + A2 + A3) / 3
+
+B = (B1 + B2 + B3 + B4 + B5 + B6) / 6
+
+C = (C1 + C2 + C3 + C4 + C5) / 5
+
+A avaliação global quantitativa (AGQt) corresponderá à soma aritmética das pontuações obtidas em cada critério:
+
+AGQt = (A + B + C) / 3
+
+As candidaturas terão ainda uma avaliação final qualitativa efetuada de acordo com a seguinte escala, arredondada às milésimas:
+
+1) Favorável - AGQt (igual ou maior que) 3,000;
+
+2) Desfavorável - AGQt (menor que) 3,000.
+
+Seleção final
+
+Para efeitos de seleção, serão excluídos os consórcios que:
+
+Possuam uma avaliação final Desfavorável de acordo com os critérios de avaliação e seleção acima definidos.
+
+As propostas selecionadas serão hierarquizadas por ordem decrescente de classificação final, sendo selecionado, para cada fileira, o consórcio com maior classificação final.
+
+Em caso de empate, será selecionado o consórcio que mais pontuar no critério «Relevância» e de seguida no critério «Impacto».
+
+## Anexo II — Enquadramento europeu de auxílios de Estado
+
+| Categoria de auxílio | Despesas elegíveis | Intensidade máxima de auxílio |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Auxílios regionais ao investimento (artigo 14.º do RGIC) e auxílios regionais ao funcionamento (artigo 15.º do RGIC). | Artigo 14.º ("Auxílios regionais ao investimento"):a) Custos de investimento em ativos corpóreos e incorpóreos;b) Custos salariais estimados decorrentes da criação de emprego, em virtude de um investimento inicial, calculados ao longo de um período de dois anos; ouc) Uma combinação das alíneas a) e b), que não exceda o montante da alínea a) ou b), consoante o que for mais elevado.Artigo 15.º ("Auxílios regionais ao funcionamento"): os regimes de auxílio regional ao funcionamento:a) Nas zonas escassamente povoadas, devem compensar os custos adicionais de transporte de mercadorias produzidas em zonas elegíveis para auxílio ao funcionamento, bem como os custos adicionais de transporte de mercadorias que são reprocessadas nessas zonas, nas condições definidas no artigo 15.º do RGIC;b) Em regiões escassamente povoadas e muito escassamente povoadas, devem prevenir ou reduzir o despovoamento, nas condições definidas no artigo 15.º do RGIC; ec) Nas regiões ultraperiféricas, devem compensar os custos adicionais de funcionamento suportados nessas regiões em consequência direta de uma ou várias das desvantagens permanentes referidas no artigo 349.º do TFUE, nas condições definidas no artigo 15.º do RGIC. | No caso dos auxílios regionais ao investimento:a) A intensidade de auxílio não deve exceder a intensidade máxima de auxílio estabelecida no mapa dos auxílios com finalidade regional em vigor na data da concessão do auxílio (SA.100752 e SA.106697);b) Para um grande projeto de investimento, a intensidade resultante da fórmula prevista no artigo 2.º, alínea 20), sujeita aos limiares do artigo 4.º, alínea a), ambos do RGIC.Quanto aos auxílios regionais ao funcionamento:Nas zonas escassamente povoadas, a intensidade de auxílio não pode exceder 100 % dos custos adicionais de transporte;Nas regiões escassamente povoadas e muito escassamente povoadas, a intensidade de auxílio não pode exceder 20 % dos custos anuais de mão de obra suportados pelo beneficiário na região em causa;Nas regiões ultraperiféricas, o montante anual de auxílio por beneficiário não pode exceder:a) 35 % do valor acrescentado bruto gerado anualmente pelo beneficiário na região ultraperiférica em causa;b) 40 % dos custos anuais de mão de obra suportados pelo beneficiário na região ultraperiférica em causa;c) 30 % do volume anual de negócios do beneficiário realizado na região ultraperiférica em causa. |  |
+| Investimento a favor das PME (artigo 17.º do RGIC). | São elegíveis um ou vários dos seguintes custos:a) Os custos de investimento em ativos corpóreos e incorpóreos, incluindo os custos pontuais não amortizáveis diretamente relacionados com o investimento e a sua instalação inicial;b) Os custos salariais estimados do emprego diretamente criado pelo projeto de investimento, calculados ao longo de dois anos;c) Uma combinação de parte dos custos a que se referem as alíneas a) e b), que não exceda o montante da alínea a) ou b), consoante o que for mais elevado. | Taxa de apoio máxima:Pequenas empresas: 20 %;Médias empresas: 10 %. |  |
+| Projetos de Investigação e desenvolvimento (artigo 25.º do RGIC). | a) Custos de pessoal: investigadores, técnicos e outro pessoal de apoio, na medida em que trabalhem no projeto;b) Custos de instrumentos e equipamentos, na medida e durante o período em que forem utilizados no projeto; | Taxas de apoio: 100 %.Taxas base de apoio:100 % investigação fundamental. |  |
+|  | c) Custos de edifícios e terrenos, na medida e durante o período em que foram utilizados no projeto;d) Custos de investigação contratual, conhecimentos e patentes adquiridos a fontes externas ou por elas licenciados em condições de plena concorrência, bem como os custos de consultoria e serviços equivalentes utilizados exclusivamente no projeto;e) Custos gerais e outras despesas operacionais adicionais, nomeadamente custos de materiais, fornecimentos e produtos semelhantes, que decorram diretamente do projeto; sem prejuízo do artigo 7.º, n. 1.º, terceiro período do RGIC, tais custos dos projetos de investigação e desenvolvimento podem ser calculados alternativamente com base numa abordagem simplificada dos custos, sob a forma de uma taxa fixa máxima de 20 %, aplicada ao total dos custos elegíveis do projeto de investigação e desenvolvimento referidos nas alíneas a) a d). Neste caso, os custos do projeto de investigação e desenvolvimento utilizados para o cálculo dos custos indiretos são determinados com base nas práticas contabilísticas normais e englobam apenas os custos elegíveis do projeto de investigação e desenvolvimento referidos nas alíneas a) a d). | Taxas base de apoio:50 % investigação industrial;25 % desenvolvimento experimental.Majorações possíveis, de acordo com o artigo 25.º, n.º 6, do RGIC, até ao máximo de 80 %:Médias empresas 10 %;Pequenas empresas 20 %.Estas majorações podem ser cumuláveis com: majoração de 15 % em casos de:Colaboração efetiva, ouAmpla divulgação, ouDisponibilização de licenças para o resultado do projeto, ouSe o investimento este for realizado em regiões assistidas que preencham condições do artigo 107.º, n.º 3, alínea a), do TFUE (nível de vida anormalmente baixo ou grave situação de desemprego, regiões do 349.º TFUE).Majoração de 5 % se projeto realizado em regiões assistidas que preencham as condições do artigo 107.º, n.º 3, alínea c), do TFUE (quando não alterem condições de trocas comerciais de maneira que contrariem o interesse comum).Majoração de 25 %, se o projeto tiver sido concebido por vários Estados-Membros ou partes do Acordo EEE (nos termos do artigo 25.º, n.º 6, alínea d), do RGIC). |  |
+|  |  |  |  |
+|  | Custos de estudos de viabilidade | Taxa de apoio: 50 % estudos de viabilidade.Majoração:Apenas para estudos de viabilidade:Médias empresas 10 % e micro e pequenas empresas 20 %. |  |
+| Infraestruturas de investigação (artigo 26.º do RGIC). | Os custos elegíveis devem ser os custos de investimento em ativos incorpóreos e corpóreos. | Taxa de apoio máxima: 50 %.Majorações. Pode ser aumentada até 60 % desde que pelo menos dois Estados-Membros concedam o financiamento público ou uma infraestrutura de investigação avaliada e selecionada a nível da União Europeia. |  |
+| Polos de inovação (artigo 27.º do RGIC). | Auxílios ao investimento a favor da construção ou modernização dos polos de inovação: custos de investimento em ativos incorpóreos e corpóreos.Auxílios ao funcionamento a favor de polos de inovação: custos do pessoal e administrativos (incluindo custos gerais) relativos às seguintes atividades:a) Animação do polo para facilitar a colaboração, a partilha de informações e a prestação ou a canalização de serviços especializados e personalizados de apoio às empresas; | Taxa de apoio: 50 %.Majorações: 15 % e 5 % para os auxílios ao investimento situados em zonas assistidas que preencham as condições do artigo 107.º, n.º 3, alíneas a) e c), do TFUE, respetivamente, de acordo com o mapa de auxílios com finalidade regional em vigor. |  |
+|  | b) Operações de marketing do polo, a fim de aumentar a participação de novas empresas ou organizações, bem como aumentar a sua visibilidade;c) Gestão das instalações dos polos; organização de programas de formação, seminários e conferências, a fim de apoiar a partilha de conhecimentos e a criação de redes, assim como a cooperação transnacional. |  |  |
+| Processos e Organização (artigo 29.º do RGIC). | a) Custos do pessoal.b) Custos dos instrumentos, equipamento, edifícios e terrenos, na medida em que forem utilizados no projeto, e durante a execução do mesmo.c) Custos de investigação contratual, conhecimentos e patentes adquiridos a fontes externas ou por elas licenciados em condições normais de concorrência.d) Custos gerais adicionais e outros custos de funcionamento, nomeadamente custos de materiais, fornecimentos e produtos semelhantes, que decorram diretamente do projeto. | Taxa de apoio máxima: 50 % PME \| 15 % Não PME em cooperação c/ PME (as PME têm de suportar, pelo menos, 30 % dos custos totais elegíveis). |  |
+| Auxílios ao investimento a favor da eficiência dos recursos e destinados a apoiar a transição para uma economia circular (artigo 47.º do RGIC). | Os custos elegíveis são os custos de investimento adicionais determinados por comparação dos custos totais de investimento do projeto com os de um projeto ou atividade menos respeitador do ambiente, que deve ser um dos seguintes:a) Um cenário contrafactual que consista num investimento comparável que seria realizado de forma credível num processo de produção novo ou preexistente, sem auxílio, e que não atinge o mesmo nível de eficiência na utilização dos recursos;b) Um cenário contrafactual que consista no tratamento dos resíduos com base numa operação de tratamento em posição inferior na ordem de prioridade dos resíduos a que se refere o artigo 4.º, n.º 1, da Diretiva 2008/98/CE ou um tratamento dos resíduos ou de outros produtos, materiais ou substâncias de uma forma menos eficiente em termos de recursos;c) Um cenário contrafactual que consista num investimento comparável num processo de produção convencional utilizando uma matéria-prima primária, se o produto secundário (reutilizado ou valorizado) obtido for técnica e economicamente substituível pelo produto primário.Em todas as situações acima enumeradas, o cenário contrafactual deve corresponder a um investimento com uma capacidade de produção e um ciclo de vida comparáveis que cumpra as normas da União já em vigor. O cenário contrafactual deve ser credível à luz dos requisitos legais, das condições de mercado e dos incentivos. | Taxa de apoio máxima: 40 % Pequenas empresas: 20 %. Médias empresas 10 %.Majorações:15 % e 5 % para investimentos situados em zonas assistidas que preencham as condições do artigo 107.º, n.º 3, alíneas a) e c), do TFUE, respetivamente, de acordo com o mapa de auxílios com finalidade regional em vigor. |  |
+|  | Sempre que o investimento consistir na instalação de um componente suplementar numa instalação já existente, para o qual não exista um equivalente menos respeitador do ambiente, ou se o requerente do auxílio puder demonstrar que não seria realizado um investimento na ausência do auxílio, os custos elegíveis são os custos totais de investimento. |  |  |
+| Formação (artigo 31.º do RGIC). | a) Custos do pessoal relativos a formadores, para as horas em que os formadores participem na formação.b) Custos de funcionamento relativos a formadores e formandos diretamente relacionados com o projeto de formação, como despesas de deslocação, custos de alojamento, material e fornecimentos diretamente relacionados com o projeto e amortização dos instrumentos e equipamentos, na medida em que forem exclusivamente utilizados no projeto de formação em causa.c) Custos de serviços de consultoria associados ao projeto de formação.d) Custos do pessoal relativos a formandos e custos indiretos gerais (custos administrativos, rendas, despesas gerais) relativamente ao número total de horas em que os formandos participaram na formação. | Taxa de apoio máxima: 50 %Majorações: 10 % formação dada a trabalhadores com deficiência ou desfavorecidos; 10 % para média empresa ou 20 % para pequena empresa (até ao máximo de apoio de 70 %).Quando os auxílios forem concedidos no setor dos transportes marítimos, a taxa de apoio pode atingir 100 %, desde que os formandos não sejam membros ativos da tripulação, mas sejam supranumerários a bordo; e a formação seja efetuada a bordo de navios inscritos nos registos da União. |  |
+| Participação em feiras (artigo 19.º do RGIC). | Custos incorridos com o aluguer, a construção e o funcionamento do pavilhão, aquando da participação de uma empresa numa qualquer feira ou exposição determinada. | Taxa de apoio máxima: PME 50 %. |  |
+| Auxílios em matéria de consultoria a favor das PME (artigo 18.º do RGIC). | Custos dos serviços de consultoria prestados por consultores externos. | Taxa de apoio máxima: PME 50 %. |  |
+| Auxílios à inovação a favor das PME (artigo 28.º do RGIC). | a) Custos de obtenção, validação e defesa de patentes e outros ativos incorpóreos.b) Custos relativos ao destacamento de pessoal altamente qualificado de um organismo de investigação e divulgação de conhecimentos, ou de uma grande empresa, que se dedique a tarefas de investigação, desenvolvimento e inovação no âmbito de uma função recentemente criada na empresa beneficiária e que não substitui outros membros do pessoal.c) Custos de serviços de consultoria em inovação e de apoio à inovação, incluindo os serviços prestados por organismos de investigação e divulgação de conhecimentos, infraestruturas de investigação, infraestruturas de ensaio e experimentação ou polos de inovação. | Taxa de apoio máxima: PME 50 %.No caso particular de auxílios a serviços de consultoria em inovação e de apoio à inovação, a taxa de apoio pode ser aumentada até 100 %, desde que o montante total do auxílio a serviços de consultoria e de apoio à inovação não exceda 220 mil euros por empresa num período de três anos. |  |
+| Auxílios aos custos de cooperação incorridos pelas PME que participam em projetos de cooperação territorial europeia (artigo 20.º do RGIC). | a) Os custos do pessoal.b) As despesas com instalações e administrativas.c) As despesas de deslocação e alojamento.d) Os custos de peritagem e serviços externos.e) As despesas de equipamento.f) Os custos de infraestruturas e de obras. | Taxa de apoio máxima: a intensidade de auxílio não pode exceder a taxa máxima de cofinanciamento prevista nos regulamentos identificados no artigo 20.º, n.º 3, do RGIC. |  |
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 85/2024/1 - Diário da República n.º 48/2024, Série I de 2024-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/85-2024-854529503), em vigor a partir de 2024-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2022 - Diário da República n.º 21/2022, Série I de 2022-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/63-2022-178394357), em vigor a partir de 2022-02-01

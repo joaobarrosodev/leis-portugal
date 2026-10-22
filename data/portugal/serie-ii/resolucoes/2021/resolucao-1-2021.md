@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:172420674:por
+title: Resolução n.º 1/2021
+short_title: null
+summary: Delegação de competências no administrador dos Serviços de Ação Social do Politécnico do Porto
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Instituto Politécnico do Porto
+proposing_entity: null
+official_number: 1/2021
+official_date: null
+publication_date: '2021-10-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/2021, Série II de 2021-10-06
+  number: '194'
+  series: II
+  supplement: null
+  pages: 181 - 181
+  pdf_url: https://files.diariodarepublica.pt/2s/2021/10/194000000/0018100181.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '172420674'
+  dre_path: /dr/detalhe/resolucao/1-2021-172420674
+  internal: pt:dre:172420674:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2021-172420674
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2021-172420674
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-10-06T00:00:00Z'
+integrity:
+  source_sha256: 2d723013aff8c7410136a5ee255e573f9eb4f815dd92652aa45c10521434fd6a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-1-172420674.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 1/2021
+
+O Conselho de Gestão, ao abrigo do disposto nos artigos 44.º a 50.º do Código do Procedimento Administrativo, conjugado com o artigo 95.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e com o disposto no n.º 2, do artigo 29.º dos Estatutos do P.PORTO, publicados pelo [Despacho Normativo n.º 5/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-2009-2021988), de 26 de janeiro, no Diário da República n.º 22, 2.ª série, de 2 de fevereiro, e alterados pelo [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), de 20 de julho, publicados no Diário da República n.º 147, 2.ª série, de 2 de Agosto, deliberou por unanimidade, em reunião de 19 de maio de 2018:
+
+1 - No âmbito da gestão patrimonial:
+
+Delegar no Administrador dos SAS.IPP, Ivo Luís Azevedo da Costa Santos, a competência para:
+
+a) Autorizar a cedência temporária de espaços ou bens móveis afetos aos SAS.IPP a entidades terceiras, para a realização de eventos ou outras atividades, desde que para utilização adequada aos fins ou atividades para os quais foram adquiridos;
+
+b) Autorizar a cedência temporária de espaços ou bens móveis afetos aos SAS.IPP, à comunidade académica, no âmbito de atividades pedagógicas, letivas, de investigação, culturais, desportivas, e de prestação de serviços, desde que para utilização adequada aos fins ou atividades para os quais foram adquiridos;
+
+c) Arrecadar a receita proveniente das cedências referidas nas alíneas anteriores.
+
+2 - Consideram-se ratificados todos os atos praticados no âmbito dos poderes agora delegados desde a data de entrada em funções do presente Conselho de Gestão.
+
+22 de outubro de 2018. - O Presidente do Politécnico, João Rocha.

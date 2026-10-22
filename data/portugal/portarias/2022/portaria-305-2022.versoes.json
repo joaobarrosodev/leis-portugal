@@ -1,0 +1,328 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:205109990:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-225442070",
+ "dre_path": "/dr/detalhe/portaria/305-2022-205109990",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-12-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "229910617",
+    "229910618",
+    "229910619",
+    "229910620",
+    "229910621",
+    "229910622",
+    "229910623",
+    "229910624",
+    "229910625",
+    "229910626",
+    "229910627",
+    "229910628",
+    "229910629",
+    "229910630"
+   ]
+  },
+  {
+   "date": "2023-12-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:229857702:por",
+     "title": "Portaria n.º 426/2023",
+     "published": "2023-12-11",
+     "dre_path": "/dr/detalhe/portaria/426-2023-229857702"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "229910617",
+    "229910632",
+    "229910633",
+    "229910634",
+    "229910621",
+    "229910635",
+    "229910636",
+    "229910637",
+    "229910625",
+    "229910626",
+    "229910627",
+    "229910638",
+    "229910629",
+    "229910630",
+    "229910631"
+   ]
+  },
+  {
+   "date": "2024-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:868097437:por",
+     "title": "Portaria n.º 158/2024/1",
+     "published": "2024-06-06",
+     "dre_path": "/dr/detalhe/portaria/158-2024-868097437"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "229910617",
+    "229910632",
+    "868172403",
+    "229910634",
+    "229910621",
+    "868172404",
+    "868172405",
+    "229910637",
+    "229910625",
+    "229910626",
+    "229910627",
+    "229910638",
+    "229910629",
+    "229910630",
+    "229910631"
+   ]
+  }
+ ],
+ "fragments": {
+  "229910617": {
+   "fragment_id": "225442071",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 305/2022\n\nde 22 de dezembro\n\nSumário: Procede ao alargamento da aplicação da medida da gratuitidade das creches às crianças que frequentem creches licenciadas da rede privada lucrativa.\n\nO programa do XXIII Governo Constitucional identifica a demografia como um desafio estratégico para Portugal. Neste domínio, a medida de gratuitidade da frequência de creches consubstancia uma aposta fundamental no âmbito da política pública de natalidade.\n\nCom início em setembro de 2020, esta medida tem vindo a ser ampliada e aprofundada de modo a promover as condições de realização das famílias nas suas aspirações relativamente ao número de filhas/os, a investir na criação de melhores condições de qualidade para o desenvolvimento infantil e combate à transmissão intergeracional de desvantagens socioeconómicas e a potenciar as soluções de conciliação de trabalho com a vida familiar e pessoal.\n\nA nova fase, iniciada em setembro de 2022, promoveu a consolidação da medida no acesso a serviços e equipamentos de apoio à infância e a progressiva gratuitidade da frequência de creche e de creche familiar desenvolvidas em cooperação entre o setor social e solidário e o Instituto da Segurança Social, I. P.\n\nNão obstante, dada a natureza crítica, a premência e intensidade do desafio, o Governo optou por alargar os mecanismos de apoio às famílias, intensificando a eficácia social e ampliando a sua abrangência. Assim, com a presente portaria, é alargada a medida da gratuitidade de modo a assegurar que, nos territórios em que haja escassez de oferta de vagas gratuitas em creche no sistema de cooperação, as famílias possam recorrer a creches da rede lucrativa ou solidária sem acordo, beneficiando de um apoio que se traduz na gratuitidade da creche. Para o efeito, é criada uma bolsa de creches aderentes à qual as creches das redes lucrativa ou solidária sem acordo podem aderir, disponibilizando vagas no âmbito da medida da gratuitidade. Deste modo, as famílias que não encontrem soluções no sistema de cooperação poderão beneficiar das creches aderentes em termos de igualdade com o apoio que teriam na frequência de uma creche rede solidária.\n\nCom a presente portaria consubstancia-se uma nova fase da medida da gratuitidade da frequência de creche, que traduz um significativo investimento nas atuais e futuras gerações e que promove uma cobertura mais ampla de apoio às famílias, integrando mecanismos de diferenciação positiva.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a Confederação Cooperativa Portuguesa, C. C. R. L., e a Associação de Creches e Pequenos Estabelecimentos de Ensino Particular.\n\nAssim:\n\nAo abrigo do disposto no artigo 5.º do Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual, e da Portaria n.º 262/2011, de 31 de agosto, na sua redação atual, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "229910618": {
+   "fragment_id": "225442072",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede ao alargamento da aplicação da medida da gratuitidade das creches às crianças que frequentem creches licenciadas da rede privada lucrativa, onde se incluem as da iniciativa de sociedades comerciais, de empresários em nome individual, e das instituições particulares de solidariedade social e legalmente equiparadas licenciadas pelo Instituto da Segurança Social, I. P. (ISS, I. P.), não abrangidas por acordos de cooperação.\n\n2 - A presente portaria estabelece os termos e as condições em que a segurança social apoia a família pelos encargos decorrentes da frequência da criança nas creches das entidades mencionadas no número seguinte, bem como os procedimentos necessários à atribuição do apoio.\n\n3 - São ainda estabelecidos os critérios de constituição de uma bolsa de creches aderentes, cujas vagas se destinam a ser preenchidas com a frequência gratuita de crianças nos territórios em que o ISS, I. P., verifique existir falta de vagas abrangidas pela gratuitidade nas creches da rede social e solidária, com acordo de cooperação com o ISS, I. P., adiante designadas por creches aderentes.\n\n> Nota: [Artigo 6.º, Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702) As disposições relativas às creches identificadas na alínea b) do n.º 1 do presente artigo, no se que refere ao alargamento da medida a creches cujo desenvolvimento e gestão da resposta seja efetuado por autarquias locais, por instituições de ensino superior público ou por outras pessoas coletivas de natureza pública, produz efeitos a 1 de janeiro de 2024."
+  },
+  "229910619": {
+   "fragment_id": "225442073",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nA presente portaria aplica-se a todas as crianças nascidas a partir de 1 de setembro de 2021, inclusive, que frequentem as creches identificadas no artigo 3.º, localizadas no concelho de residência ou do local de trabalho dos pais ou de quem exerce as responsabilidades parentais, na sequência de, no território em apreço, se verificar a falta de vagas abrangidas pela gratuitidade da rede social e solidária com acordo de cooperação com o ISS, I. P."
+  },
+  "229910620": {
+   "fragment_id": "225442074",
+   "type": 11,
+   "heading": "Artigo 3.º — Creche aderente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Creche aderente\n\n1 - Entende-se por creche aderente as creches identificadas no artigo 1.º, desde que para tal tenha manifestado ao ISS, I. P., a intenção de se tornar creche aderente para disponibilização de vagas para a gratuitidade e cumpra os requisitos previstos nos n.os 3, 4 e 5 do presente artigo.\n\n2 - Na sequência das candidaturas por parte das entidades com creches interessadas e verificado o cumprimento dos requisitos, o ISS, I. P., organiza uma bolsa de creches aderentes, destinadas a fazer face a situações em que se verifique falta de vagas nas creches da rede social e solidária, com acordo de cooperação com o ISS, I. P.\n\n3 - As creches aderentes devem assinar um termo de adesão, ficando obrigadas a cumprir os pressupostos definidos na Portaria n.º 198/2022, de 27 de julho, com as devidas adaptações, incluindo os critérios de admissão e priorização, sempre que possível, estabelecidos nos n.os 2. e 4 do artigo 9.º da referida portaria e respetivo anexo, a aferir pelos serviços competentes do ISS, I. P.\n\n4 - No ato de atribuição do código de identificação e validação da creche à família, previsto no artigo 7.º, a creche deve verificar com os pais ou com quem exerce as responsabilidades parentais se a criança se encontra nas situações descritas nos critérios de admissão e priorização referidos no número anterior, registando os critérios que eventualmente sejam cumpridos.\n\n5 - As creches aderentes têm de ter a sua situação contributiva e fiscal regularizada.\n\n6 - As creches aderentes têm de comprovadamente ter condições de instalação e funcionamento em conformidade com a legislação específica aplicável ao desenvolvimento da resposta e encontrarem-se devidamente licenciadas.\n\n7 - A qualquer momento pode o ISS, I. P., excluir uma creche da bolsa de creches aderentes, caso se comprovem não estar a ser cumpridas as normas em vigor, designadamente as que decorrem da presente portaria.\n\n8 - Podem, ainda, a qualquer momento as creches aderentes solicitar ao ISS, I. P., que deixem de constar na bolsa, sem prejuízo do disposto no n.º 3 do artigo 5.º, no que diz respeito à continuidade da frequência da creche, no âmbito da gratuitidade."
+  },
+  "229910621": {
+   "fragment_id": "229910375",
+   "type": 11,
+   "heading": "Artigo 4.º — Gratuitidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gratuitidade\n\n1 - No âmbito do presente diploma, a medida da gratuitidade abrange:\n\na) Todas as atividades e serviços constantes dos artigos 5.º e 6.º da Portaria n.º 262/2011, de 31 de agosto, na sua redação atual, que estabelece as normas reguladoras das condições de instalação e funcionamento da creche;\n\nb) A alimentação, incluindo dietas especiais com prescrição médica;\n\nc) Todas as despesas inerentes ao processo de inscrição e seguros;\n\nd) A frequência de períodos de prolongamento de horário e extensão semanal.\n\n2 - As atividades extra projeto pedagógico, de caráter facultativo, que as creches aderentes desenvolvam e nas quais os pais ou quem exerce as responsabilidades parentais inscrevam as crianças, bem como a aquisição de fraldas, fardas e uniformes escolares encontram-se excluídas da medida da gratuitidade, ficando as mesmas a cargo dos pais ou de quem exerce as responsabilidades parentais.\n\n3 - Encontram-se, ainda, excluídos da medida da gratuitidade os serviços de transporte e outros serviços facultativos e os valores a pagar para efeitos de reserva de vaga pelos pais ou representantes legais, sob a forma de caução, que será devolvida aquando da celebração do contrato de prestação de serviços.\n\n4 - A caução referida no número anterior não poderá ser superior ao montante de 25 euros."
+  },
+  "229910622": {
+   "fragment_id": "229910376",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade\n\n1 - O apoio pecuniário da segurança social às famílias para frequência de creches aderentes é atribuído a todas as crianças que reúnam as seguintes condições:\n\na) Ter nascido após 1 de setembro de 2021, inclusive;\n\nb) Não dispor de vaga gratuita nas creches da rede social e solidária com acordo de cooperação com o ISS, I. P., no concelho de residência ou do local de trabalho dos pais ou de quem exerce as responsabilidades parentais, por falta de oferta definida nos termos do n.º 2;\n\nc) Os pais ou quem exerça as responsabilidades parentais tenham requerido, junto dos serviços competentes do ISS, I. P., o pagamento do apoio para fazer face à mensalidade da frequência de creche aderente, ao abrigo da medida da gratuitidade das creches.\n\n2 - Nas situações previstas na alínea b) do número anterior, os termos de planeamento e gestão das vagas, nomeadamente os critérios de definição de falta da oferta de vagas gratuitas da rede social e solidária abrangida por acordo de cooperação e a respetiva abrangência territorial são definidos por despacho do membro do Governo responsável pela área da Solidariedade e Segurança Social.\n\n3 - Nos anos letivos subsequentes ao acesso à medida da gratuitidade, é assegurada à criança continuidade da frequência gratuita da creche, no mesmo estabelecimento, desde que seja essa a vontade expressa dos pais ou de quem exerça as responsabilidades parentais.\n\n4 - Não são elegíveis as crianças já integradas em creche da rede social e solidária com acordo de cooperação com o ISS, I. P., abrangidas pela medida da gratuitidade que transitem para creche aderente com vaga, salvo motivo atendível, nomeadamente:\n\na) Mudança do, ou para o, concelho de residência ou local de trabalho dos pais ou de quem exerce responsabilidades parentais;\n\nb) Irmão(s) a frequentar creche aderente para onde seja transferida a criança."
+  },
+  "229910623": {
+   "fragment_id": "229910377",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio pecuniário da segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio pecuniário da segurança social\n\n1 - O apoio pecuniário da segurança social devido à família pela frequência da criança na creche aderente é pago diretamente ao estabelecimento que desenvolve a resposta social pelos serviços competentes do ISS, I. P., em nome da criança beneficiária.\n\n2 - Para assegurar o pagamento das atividades e serviços constantes do n.º 1 do artigo anterior, deve a família requerer junto dos serviços competentes do ISS, I. P., através da plataforma informática da segurança social, o apoio referenciado no número anterior, de acordo com os procedimentos e elementos instrutórios elencados no artigo 7.º\n\n3 - Para a frequência das crianças abrangidas pela medida da gratuitidade, o valor da mensalidade para o ano de 2022-2023 é de (euro) 460 por criança, não podendo ser cobrado à família mais nenhum valor, com exceção das situações mencionadas no n.º 2 do artigo 4.º da presente portaria.\n\n4 - O valor referido no número anterior, bem como respetivas majorações e complementos, acompanha a atualização anual prevista no compromisso de cooperação com o setor social e solidário e respetivas adendas.\n\n> Nota: [Artigo 6.º, Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702) O disposto no n.º 3 do presente artigo é igualmente aplicável para o ano de 2023, nos termos previstos no Memorando de Entendimento assinado entre o Ministério do Trabalho, Solidariedade e Segurança Social e o Setor Social e Solidário 2023-2024 para a resposta social creche."
+  },
+  "229910624": {
+   "fragment_id": "229910378",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento de atribuição do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimento de atribuição do apoio\n\n1 - Para efeitos de atribuição do apoio pecuniário, sempre que os pais ou as pessoas que exerçam responsabilidades parentais manifestem interesse para obtenção do apoio pecuniário no âmbito da gratuitidade, por motivos de falta de vaga verificada com base na informação disponível na segurança social, a creche aderente deverá solicitar ao ISS, I. P., um código de identificação e validação.\n\n2 - O código de identificação e validação é remetido à creche aderente após verificação da falta de vaga e das condições previstas no artigo 3.º\n\n3 - A entrega do código de identificação e validação sinaliza a concertação entre os pais ou quem exerça a responsabilidade parental e a creche aderente para efeitos de inscrição da criança na creche aderente a formalizar através da assinatura do contrato de prestação de serviços.\n\n4 - O requerimento para atribuição do apoio é realizado junto do ISS, I. P., por parte dos pais ou de quem exerça as responsabilidades parentais, com a identificação da criança e o código de identificação e validação facultado pela creche aderente.\n\n5 - Os serviços competentes do ISS, I. P., podem solicitar aos pais ou a quem exerça as responsabilidades parentais elementos adicionais para habilitar a instrução e validação do procedimento.\n\n6 - Findo o procedimento e consequente deferimento do requerimento, a partir do mês seguinte, o ISS, I. P., efetua pagamento à creche aderente, em nome da criança, do valor do apoio pecuniário nos termos previstos no n.º 3. do artigo 6.º da presente portaria, por referência à frequência do mês anterior.\n\n7 - Sem prejuízo do referido anteriormente, o pagamento a efetuar pelo ISS, I. P., retroage à data da formalização do pedido efetuado pelos pais ou a quem exerça as responsabilidades parentais."
+  },
+  "229910625": {
+   "fragment_id": "229910379",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimentos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimentos de pagamento\n\nAs condições e procedimentos necessários ao pagamento do apoio determinado nos artigos anteriores serão definidos pelo ISS, I. P., que os publicita no seu sítio da Internet."
+  },
+  "229910626": {
+   "fragment_id": "229910380",
+   "type": 11,
+   "heading": "Artigo 9.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação subsidiária\n\nEm tudo o que não contrarie o disposto na presente portaria, são aplicáveis as normas relativas à medida da gratuitidade das creches, constantes da Portaria n.º 198/2022, de 27 de julho, com as necessárias adaptações."
+  },
+  "229910627": {
+   "fragment_id": "229910381",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acompanhamento\n\nCompete ao ISS, I. P., proceder ao acompanhamento da presente portaria, devendo elaborar para o efeito um relatório anual a remeter ao membro do Governo responsável pela área do trabalho, da solidariedade e da segurança social."
+  },
+  "229910628": {
+   "fragment_id": "229910382",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nDurante os primeiros três meses da medida, para efeitos do disposto nos n.os 1, 2 e 3 do artigo 7.º, o código de identificação e validação a atribuir pelo ISS, I. P., poderá ser substituído por declaração da creche aderente e dos pais ou de quem exerça as responsabilidades parentais, confirmando a inscrição/frequência da criança, e que a creche aceita, após deferimento do requerimento, ser recebedora do apoio da gratuitidade que lhe será pago, em nome da criança, pelos serviços competentes da Segurança Social."
+  },
+  "229910629": {
+   "fragment_id": "229910383",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir do dia 1 de janeiro de 2023."
+  },
+  "229910630": {
+   "fragment_id": "229910384",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "229910632": {
+   "fragment_id": "225442072",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede ao alargamento da aplicação da medida da gratuitidade das creches às crianças que frequentem:\n\na) Creches licenciadas da rede privada lucrativa, onde se incluem as da iniciativa de sociedades comerciais, de empresários em nome individual e das instituições particulares de solidariedade social e legalmente equiparadas licenciadas pelo Instituto da Segurança Social, I. P. (ISS, I. P.), não abrangidas por acordos de cooperação;\n\nb) Creches, cujo desenvolvimento e gestão da resposta seja efetuado por autarquias locais, por instituições de ensino superior público ou por outras pessoas coletivas de natureza pública, designadamente empresas públicas, sociedades anónimas de capitais públicos, institutos públicos ou outros organismos de natureza similar, adiante designadas por creches da rede pública.\n\n2 - São ainda estabelecidos os critérios de constituição de uma bolsa de creches aderentes, cujas vagas se destinam a ser preenchidas com a frequência gratuita de crianças, nos territórios em que o ISS, I. P., verifique existir falta de vagas abrangidas pela gratuitidade nas creches da rede social e solidária, com acordo de cooperação com o ISS, I. P., adiante designadas por creches aderentes.\n\n3 - A presente portaria estabelece os termos e as condições em que a segurança social apoia a família pelos encargos decorrentes da frequência da criança nas creches das entidades mencionadas nos números anteriores, bem como os procedimentos necessários à atribuição do apoio.\n\n> Nota: [Artigo 6.º, Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702) As disposições relativas às creches identificadas na alínea b) do n.º 1 do presente artigo, no se que refere ao alargamento da medida a creches cujo desenvolvimento e gestão da resposta seja efetuado por autarquias locais, por instituições de ensino superior público ou por outras pessoas coletivas de natureza pública, produz efeitos a 1 de janeiro de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "229910633": {
+   "fragment_id": "225442073",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2023-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente portaria aplica-se a todas as crianças nascidas a partir de 1 de setembro de 2021, inclusive, que frequentem as creches identificadas no artigo 3.º, localizadas nos concelhos de residência, do local de trabalho dos pais ou de quem exerce as responsabilidades parentais, ou nos respetivos concelhos limítrofes, sempre que se verifique a falta de vagas abrangidas pela gratuitidade na rede social e solidária com acordo de cooperação com o ISS, I. P., e da Santa Casa da Misericórdia de Lisboa, nos termos definidos no artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "229910634": {
+   "fragment_id": "225442074",
+   "type": 11,
+   "heading": "Artigo 3.º — Creche aderente",
+   "in_force_from": "2023-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 3.º — Creche aderente\n\n1 - Entende-se por creche aderente a creche identificada no artigo 1.º, desde que para tal tenha manifestado ao ISS, I. P., a intenção de se tornar creche aderente para disponibilização de vagas para a gratuitidade e cumpra os requisitos previstos nos n.os 2 a 5 do presente artigo, com as devidas adaptações às creches da rede pública.\n\n2 - A creche aderente identificada na alínea a) do n.º 1 do artigo 1.º deve assinar um termo de adesão, ficando obrigada a cumprir os pressupostos definidos na Portaria n.º 198/2022, de 27 de julho, na sua redação atual, com as devidas adaptações, incluindo os critérios de admissão e priorização, sempre que possível, estabelecidos nos n.os 2 e 4 do artigo 9.º da referida portaria e respetivo anexo, a aferir pelos serviços competentes do ISS, I. P.\n\n3 - A creche aderente identificada na alínea b) do n.º 1 do artigo 1.º deve, cumulativamente às obrigações previstas no número anterior, celebrar um protocolo de colaboração, para atribuição do apoio previsto no artigo 6.º, cujos termos são definidos por despacho do membro do Governo responsável pela área da Solidariedade e Segurança Social.\n\n4 - No ato de atribuição do código de identificação e validação da creche à família, previsto no artigo 7.º, a creche deve verificar com os pais ou com quem exerce as responsabilidades parentais, se a criança se encontra nas situações descritas nos critérios de admissão e priorização referidos no número anterior, registando os critérios que eventualmente sejam cumpridos.\n\n5 - A creche aderente tem de ter a sua situação contributiva e fiscal regularizada.\n\n6 - A creche aderente tem de, comprovadamente, ter condições de instalação e funcionamento em conformidade com a legislação específica aplicável ao desenvolvimento da resposta, às normas de organização e funcionamento respetivas e que as mesmas se encontrem devidamente licenciadas.\n\n7 - Na sequência das candidaturas por parte das entidades com creches interessadas e verificado o cumprimento dos requisitos, o ISS, I. P., organiza uma bolsa de creches aderentes, destinadas a fazer face a situações em que se verifique falta de vagas nas creches da rede social e solidária com acordo de cooperação com o ISS, I. P.\n\n8 - A qualquer momento pode o ISS, I. P., excluir uma creche da bolsa de creches aderentes, caso se comprovem não estar a ser cumpridas as normas em vigor, designadamente as que decorrem da presente portaria.\n\n9 - Podem, ainda, a qualquer momento as creches aderentes solicitar ao ISS, I. P., que deixem de constar na bolsa, sem prejuízo do disposto no n.º 4 do artigo 5.º, no que diz respeito à continuidade da frequência da creche, no âmbito da gratuitidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "229910635": {
+   "fragment_id": "229910376",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade",
+   "in_force_from": "2023-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade\n\n1 - O apoio pecuniário da segurança social às famílias para frequência de creches aderentes é concedido a todas as crianças nascidas a partir de 1 de setembro de 2021 inclusive, que satisfaçam as seguintes condições:\n\na) Não disponham de vaga gratuita, tendo por referência a abrangência territorial e a falta de oferta definidas nos termos do n.º 3, nas creches da rede social e solidária com acordo de cooperação com o ISS, I. P., ou da Santa Casa da Misericórdia de Lisboa, no concelho de residência, do local de trabalho dos pais, ou de quem exerce as responsabilidades parentais, ou nos respetivos concelhos limítrofes nas condições definidas no n.º 2;\n\nb) Os pais ou quem exerça as responsabilidades parentais, tenham requerido, junto dos serviços competentes do ISS, I. P., o pagamento do apoio para fazer face à mensalidade da frequência de creche aderente, ao abrigo da medida da gratuitidade das creches.\n\n2 - Relativamente à frequência em creches aderentes localizadas nos concelhos limítrofes, devem ser seguidos os seguintes critérios de admissão:\n\na) No concelho limítrofe ao concelho de residência, sempre que este último não disponha de vaga gratuita à data do pedido de apoio;\n\nb) No concelho limítrofe ao concelho de trabalho, sempre que este último não disponha de vaga gratuita à data do pedido de apoio.\n\n3 - Os termos de planeamento e gestão das vagas, nomeadamente os critérios de definição de falta da oferta de vagas gratuitas da rede social e solidária abrangida por acordo de cooperação e a respetiva abrangência territorial são definidos por despacho do membro do Governo responsável pela área da Solidariedade e Segurança Social.\n\n4 - Nos anos subsequentes ao acesso à medida da gratuitidade, é assegurada à criança a continuidade da frequência gratuita da creche, no mesmo estabelecimento, desde que seja essa a vontade expressa dos pais ou de quem exerça as responsabilidades parentais.\n\n5 - Não são elegíveis as crianças já integradas em creche da rede social e solidária com acordo de cooperação com o ISS, I. P., abrangidas pela medida da gratuitidade que transitem para creche aderente com vaga, salvo motivo atendível e devidamente comprovado, nomeadamente:\n\na) Mudança de residência ou do local de trabalho dos pais, ou de quem exerce responsabilidades parentais;\n\nb) Irmão(s) a frequentar creche aderente para onde seja transferida a criança.\n\n6 - Caso uma criança já se encontre abrangida pela medida da gratuitidade numa creche aderente, apenas pode haver lugar a novo pedido de apoio destinado à frequência noutra creche aderente, decorridos 30 dias após o deferimento do pedido de apoio anterior.\n\n7 - O não cumprimento do prazo previsto no número anterior implica o arquivamento do novo pedido de apoio da gratuitidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "229910636": {
+   "fragment_id": "229910377",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio pecuniário da segurança social",
+   "in_force_from": "2023-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 6.º — Apoio pecuniário da segurança social\n\n1 - O apoio pecuniário da segurança social devido à família pela frequência da criança na creche aderente é pago diretamente ao estabelecimento que desenvolve a resposta social pelos serviços competentes do ISS, I. P., em nome da criança beneficiária.\n\n2 - Para assegurar o pagamento das atividades e serviços constantes do n.º 1 do artigo 4.º, deve a família requerer junto dos serviços competentes do ISS, I. P., através da plataforma informática da segurança social, o apoio referenciado no número anterior, de acordo com os procedimentos e elementos instrutórios elencados no artigo 7.º\n\n3 - Sem prejuízo do disposto no número seguinte, o valor do apoio pecuniário para pagamento da mensalidade, bem como os valores correspondentes a majorações e complementos, corresponde aos valores e nos termos definidos no compromisso de cooperação com o setor social e solidário e respetivos memorandos e adendas.\n\n4 - Não são aplicáveis às creches aderentes as comparticipações complementares previstas no artigo 6.º da Portaria n.º 198/2022, de 27 de julho, na sua redação atual.\n\n5 - Sem prejuízo do disposto no n.º 3, apenas pode ser cobrado à família o valor adicional respeitante às situações previstas nos n.os 2 e 3 do artigo 4.º\n\n> Nota: [Artigo 6.º, Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702) O disposto no n.º 3 do presente artigo é igualmente aplicável para o ano de 2023, nos termos previstos no Memorando de Entendimento assinado entre o Ministério do Trabalho, Solidariedade e Segurança Social e o Setor Social e Solidário 2023-2024 para a resposta social creche.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "229910637": {
+   "fragment_id": "229910378",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento de atribuição do apoio",
+   "in_force_from": "2023-12-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 7.º — Procedimento de atribuição do apoio\n\n1 - Para efeitos de atribuição do apoio pecuniário, sempre que os pais ou as pessoas que exerçam responsabilidades parentais manifestem interesse para obtenção do apoio pecuniário no âmbito da gratuitidade, por motivos de falta de vaga verificada com base na informação disponível na segurança social, a creche aderente deverá solicitar ao ISS, I. P., um código de identificação e validação.\n\n2 - O código de identificação e validação é remetido à creche aderente após verificação da falta de vaga e das condições previstas no artigo 3.º\n\n3 - A entrega do código de identificação e validação sinaliza a concertação entre os pais ou quem exerça a responsabilidade parental e a creche aderente para efeitos de inscrição da criança na creche aderente a formalizar através da assinatura do contrato de prestação de serviços.\n\n4 - O requerimento para atribuição do apoio é realizado junto do ISS, I. P., por parte dos pais ou de quem exerça as responsabilidades parentais, com a identificação da criança e o código de identificação e validação facultado pela creche aderente.\n\n5 - Os serviços competentes do ISS, I. P., podem solicitar aos pais ou a quem exerça as responsabilidades parentais elementos adicionais para habilitar a instrução e validação do procedimento.\n\n6 - Findo o procedimento e consequente deferimento do requerimento, a partir do mês seguinte, o ISS, I. P., efetua pagamento à creche aderente, em nome da criança, do valor do apoio pecuniário nos termos previstos no n.º 3. do artigo 6.º da presente portaria, por referência à frequência do mês anterior.\n\n7 - Sem prejuízo do referido anteriormente, o pagamento a efetuar pelo ISS, I. P., retroage à data da formalização do pedido efetuado pelos pais ou a quem exerça as responsabilidades parentais.\n\n8 - Às creches da rede pública referidas na alínea b) do artigo 1.º, é concedido um prazo de três meses para a celebração de protocolo de colaboração técnica, no âmbito do qual são firmados os termos do apoio previsto no artigo 6.º, a definir por despacho do membro do Governo responsável pela área da Solidariedade e Segurança Social.\n\n9 - Sempre que se verifique a admissão ou a saída de uma criança abrangida pela gratuitidade, fica a creche aderente obrigada a comunicar, com caráter de celeridade e tendo como limite temporal máximo a comunicação de frequência seguinte à referida data, na plataforma informática da segurança social.\n\n10 - Sempre que a criança beneficiária da gratuitidade mude de creche aderente, a comunicação de admissão na nova creche apenas é possível caso se verifique a respetiva comunicação de saída pela creche aderente anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "229910638": {
+   "fragment_id": "229910382",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": "2023-12-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nDurante os primeiros três meses da medida, para efeitos do disposto nos n.os 1, 2 e 3 do artigo 7.º, o código de identificação e validação a atribuir pelo ISS, I. P., poderá ser substituído por declaração da creche aderente e dos pais ou de quem exerça as responsabilidades parentais, confirmando a inscrição/frequência da criança, e que a creche aceita, após deferimento do requerimento, ser recebedora do apoio da gratuitidade que lhe será pago, em nome da criança, pelos serviços competentes da Segurança Social.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "229910631": {
+   "fragment_id": "229910385",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 20 de dezembro de 2022.\n\n115994897"
+  },
+  "868172403": {
+   "fragment_id": "225442073",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2024-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2024/1 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/158-2024-868097437), em vigor a partir de 2024-06-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente portaria aplica-se a todas as crianças nascidas a partir de 1 de setembro de 2021, inclusive, que frequentem as creches identificadas no artigo 3.º, localizadas nas freguesias de residência, do local de trabalho dos pais ou de quem exerce as responsabilidades parentais, ou nas respetivas freguesias limítrofes, sempre que se verifique a falta de vagas abrangidas pela gratuitidade na rede social e solidária com acordo de cooperação com o ISS, I. P., e da Santa Casa da Misericórdia de Lisboa, nos termos definidos no artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2024/1 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/158-2024-868097437), em vigor a partir de 2024-06-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "868172404": {
+   "fragment_id": "229910376",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade",
+   "in_force_from": "2024-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2024/1 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/158-2024-868097437), em vigor a partir de 2024-06-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade\n\n1 - O apoio pecuniário da segurança social às famílias para frequência de creches aderentes é concedido a todas as crianças nascidas a partir de 1 de setembro de 2021 inclusive, que satisfaçam as seguintes condições:\n\na) Não disponham de vaga gratuita, tendo por referência a abrangência territorial e a falta de oferta definidas nos termos do n.º 3, nas creches da rede social e solidária com acordo de cooperação com o ISS, I. P., ou da Santa Casa da Misericórdia de Lisboa, na freguesia de residência, do local de trabalho dos pais, ou de quem exerce as responsabilidades parentais, ou nas respetivas freguesias limítrofes nas condições definidas no n.º 2;\n\nb) Os pais ou quem exerça as responsabilidades parentais, tenham requerido, junto dos serviços competentes do ISS, I. P., o pagamento do apoio para fazer face à mensalidade da frequência de creche aderente, ao abrigo da medida da gratuitidade das creches.\n\n2 - Relativamente à frequência em creches aderentes localizadas nas freguesias limítrofes, devem ser seguidos os seguintes critérios de admissão:\n\na) Na freguesia limítrofe à freguesia de residência, sempre que esta última não disponha de vaga gratuita à data do pedido de apoio;\n\nb) Na freguesia limítrofe à freguesia de trabalho, sempre que esta última não disponha de vaga gratuita à data do pedido de apoio.\n\n3 - Os termos de planeamento e gestão das vagas, nomeadamente os critérios de definição de falta da oferta de vagas gratuitas da rede social e solidária abrangida por acordo de cooperação e a respetiva abrangência territorial são definidos por despacho do membro do Governo responsável pela área da Solidariedade e Segurança Social.\n\n4 - Nos anos subsequentes ao acesso à medida da gratuitidade, é assegurada à criança a continuidade da frequência gratuita da creche, no mesmo estabelecimento, desde que seja essa a vontade expressa dos pais ou de quem exerça as responsabilidades parentais.\n\n5 - Não são elegíveis as crianças já integradas em creche da rede social e solidária com acordo de cooperação com o ISS, I. P., abrangidas pela medida da gratuitidade que transitem para creche aderente com vaga, salvo motivo atendível e devidamente comprovado, nomeadamente:\n\na) Mudança de residência ou do local de trabalho dos pais, ou de quem exerce responsabilidades parentais;\n\nb) Irmão(s) a frequentar creche aderente para onde seja transferida a criança.\n\n6 - Caso uma criança já se encontre abrangida pela medida da gratuitidade numa creche aderente, apenas pode haver lugar a novo pedido de apoio destinado à frequência noutra creche aderente, decorridos 30 dias após o deferimento do pedido de apoio anterior.\n\n7 - O não cumprimento do prazo previsto no número anterior implica o arquivamento do novo pedido de apoio da gratuitidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2024/1 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/158-2024-868097437), em vigor a partir de 2024-06-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  },
+  "868172405": {
+   "fragment_id": "229910377",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio pecuniário da segurança social",
+   "in_force_from": "2024-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2024/1 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/158-2024-868097437), em vigor a partir de 2024-06-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+   ],
+   "markdown": "###### Artigo 6.º — Apoio pecuniário da segurança social\n\n1 - O apoio pecuniário da segurança social devido à família pela frequência da criança na creche aderente é pago diretamente ao estabelecimento que desenvolve a resposta social pelos serviços competentes do ISS, I. P., em nome da criança beneficiária.\n\n2 - Para assegurar o pagamento das atividades e serviços constantes do n.º 1 do artigo 4.º, deve a família requerer junto dos serviços competentes do ISS, I. P., através da plataforma informática da segurança social, o apoio referenciado no número anterior, de acordo com os procedimentos e elementos instrutórios elencados no artigo 7.º\n\n3 - O valor do apoio pecuniário para pagamento da mensalidade, bem como os valores correspondentes a majorações e complementos, corresponde aos valores e nos termos definidos no compromisso de cooperação com o setor social e solidário e respetivos memorandos e adendas.\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto no número anterior, apenas pode ser cobrado à família o valor adicional respeitante às situações previstas nos n.os 2 e 3 do artigo 4.º\n\n> Nota: [Artigo 6.º, Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702) O disposto no n.º 3 do presente artigo é igualmente aplicável para o ano de 2023, nos termos previstos no Memorando de Entendimento assinado entre o Ministério do Trabalho, Solidariedade e Segurança Social e o Setor Social e Solidário 2023-2024 para a resposta social creche.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2024/1 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/158-2024-868097437), em vigor a partir de 2024-06-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 426/2023 - Diário da República n.º 237/2023, Série I de 2023-12-11](https://diariodarepublica.pt/dr/detalhe/portaria/426-2023-229857702), em vigor a partir de 2023-12-12"
+  }
+ }
+}

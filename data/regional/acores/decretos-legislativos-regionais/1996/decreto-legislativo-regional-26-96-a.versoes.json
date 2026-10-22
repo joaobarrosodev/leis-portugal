@@ -1,0 +1,1510 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:214967:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1996-978669167",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-1996-214967",
+ "source_lastmod": "2025-12-11",
+ "versions": [
+  {
+   "date": "1996-09-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1020082876",
+    "976410524",
+    "976410525",
+    "976410526",
+    "976410527",
+    "976410528",
+    "976410529",
+    "976410530",
+    "976410531",
+    "976410532",
+    "976410533",
+    "976410534",
+    "976410535",
+    "976410536",
+    "976410537",
+    "976410538",
+    "976410539",
+    "976410540",
+    "976410541",
+    "976410542",
+    "976410543",
+    "976410544",
+    "976410545",
+    "976410546",
+    "976410547",
+    "976410548",
+    "976410549",
+    "976410550",
+    "976410551",
+    "976410552",
+    "976410553",
+    "976410554",
+    "976410555",
+    "976410556",
+    "976410557",
+    "976410558",
+    "976410559",
+    "976410560",
+    "976410561",
+    "976410562",
+    "976410563",
+    "976410564",
+    "976410565",
+    "976410566",
+    "976410567",
+    "976410568",
+    "976410569",
+    "976410570",
+    "976410571",
+    "976410572",
+    "976410573",
+    "976410574",
+    "979216075",
+    "979216076",
+    "979216077",
+    "979216078",
+    "979216079",
+    "979216080",
+    "979216081",
+    "979216082",
+    "979216083",
+    "979216084",
+    "979216085",
+    "979216086",
+    "979216087",
+    "979216088",
+    "979216089",
+    "979216091"
+   ]
+  },
+  {
+   "date": "1996-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321499:por",
+     "title": "Declaração de Rectificação n.º 15-C/96",
+     "published": "1996-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-c-1996-321499"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º"
+   ],
+   "fragments": [
+    "976410523",
+    "976410524",
+    "976410525",
+    "976410526",
+    "976410527",
+    "979216094",
+    "976410529",
+    "976410530",
+    "976410531",
+    "976410532",
+    "976410533",
+    "976410534",
+    "976410535",
+    "976410536",
+    "976410537",
+    "976410538",
+    "976410539",
+    "976410540",
+    "976410541",
+    "976410542",
+    "976410543",
+    "976410544",
+    "976410545",
+    "976410546",
+    "976410547",
+    "976410548",
+    "976410549",
+    "976410550",
+    "976410551",
+    "976410552",
+    "976410553",
+    "976410554",
+    "976410555",
+    "976410556",
+    "976410557",
+    "976410558",
+    "976410559",
+    "976410560",
+    "976410561",
+    "976410562",
+    "976410563",
+    "976410564",
+    "976410565",
+    "976410566",
+    "976410567",
+    "976410568",
+    "976410569",
+    "976410570",
+    "976410571",
+    "976410572",
+    "976410573",
+    "976410574",
+    "979216075",
+    "979216076",
+    "979216077",
+    "979216078",
+    "979216079",
+    "979216080",
+    "979216081",
+    "979216082",
+    "979216083",
+    "979216084",
+    "979216085",
+    "979216086",
+    "979216087",
+    "979216088",
+    "979216089",
+    "979216090",
+    "979216091"
+   ]
+  },
+  {
+   "date": "2026-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1017369036:por",
+     "title": "Decreto Legislativo Regional n.º 2/2026/A",
+     "published": "2026-01-21",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1020082876",
+    "1020082877",
+    "1020082878",
+    "1020082879",
+    "1020082880",
+    "1020082881",
+    "1020082882",
+    "1020082883",
+    "1020082884",
+    "1020082885",
+    "1020082886",
+    "1020082887",
+    "1020082888",
+    "1020082889",
+    "1020082890",
+    "1020082891",
+    "1020082892",
+    "1020082893",
+    "1020082894",
+    "1020082895",
+    "1020082896",
+    "1020082897",
+    "1020082898",
+    "1020082899",
+    "1020082900",
+    "1020082901",
+    "1020082902",
+    "1020082903",
+    "1020082904",
+    "1020082905",
+    "1020082906",
+    "1020082907",
+    "1020082908",
+    "1020082909",
+    "1020082910",
+    "1020082911",
+    "1020082912",
+    "1020082913",
+    "1020082914",
+    "1020082915",
+    "1020082916",
+    "1020082917",
+    "1020082918",
+    "1020082919",
+    "1020082920",
+    "1020082921",
+    "1020082922",
+    "1020082923",
+    "1020082924",
+    "1020082925",
+    "1020082926",
+    "1020082927",
+    "1020082928",
+    "1020082929",
+    "1020082930",
+    "1020082931",
+    "1020082932",
+    "1020082933",
+    "1020082934",
+    "1020082935",
+    "1020082936",
+    "1020082937",
+    "1020082938",
+    "1020082939",
+    "1020082940",
+    "1020082941",
+    "1020082942",
+    "1020082943",
+    "1020082944"
+   ]
+  }
+ ],
+ "fragments": {
+  "1020082876": {
+   "fragment_id": "978669168",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-07-20",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 26/96/A\n\nRegime jurídico da produção de energia eléctrica não vinculada ao serviço público\n\nEm desenvolvimento dos princípios da organização do sector eléctrico e do regime jurídico da produção, transporte e distribuição de energia eléctrica na Região Autónoma dos Açores, o presente diploma estabelece o regime jurídico da actividade de produção de energia eléctrica não vinculada a serviço público.\n\nNa nova organização do sector eléctrico prevê-se, no subsector da produção, a coexistência de dois tipos de operadores, sujeitos a regras diferentes: os produtores vinculados ao serviço público, que têm como missão produzir a energia eléctrica necessária para assegurar o abastecimento público, e os produtores não vinculados ao serviço público.\n\nQuanto a estes, a regra é a de liberdade de acesso e de exercício da actividade. As limitações existentes decorrem de objectivos de política energética e de restrições de ordem técnica, sobretudo decorrentes da dimensão do sistema eléctrico de cada uma das ilhas.\n\nPara cumprimento de objectivos de política energética, o regime de acesso e exercício da actividade distingue três tipos de centros electroprodutores, a cada um dos quais faz corresponder regras diferentes quanto à garantia de venda de energia eléctrica e ao respectivo preço. Assim, o primeiro tipo - centros electroprodutores que utilizem como energia primária recursos endógenos ou resíduos industriais, agrícolas ou urbanos de produção regional -, até determinado limite, beneficia da garantia de venda, ao concessionário do transporte e distribuição, de toda a energia produzida, sendo o respectivo preço fixado de acordo com uma fórmula que prevê a remuneração da potência e da energia efectivamente produzida. A parcela relativa à remuneração da energia é indexada ao preço do gasóleo ou fuel usado localmente na produção de energia eléctrica. A partir do limite que vier a ser fixado, o preço da energia fornecida é o resultante da aplicação do critério dos custos evitados totais no sistema de serviço público. O segundo tipo de centro electroprodutor previsto - instalações de cogeração - também beneficia de garantia de venda, mas apenas até certo limite. Até esse limite os cogeradores podem vender a energia eléctrica produzida ao concessionário do transporte e distribuição pelo preço resultante do critério dos custos evitados totais. Uma vez atingido esse limite, o preço e as quantidades de energia fornecida são livremente acordados entre as partes. Finalmente, está prevista uma categoria residual de centros electroprodutores, que inclui as centrais que utilizam combustíveis petrolíferos. Estes produtores não dispõem de garantia de venda ao concessionário do transporte e distribuição, mas podem vender a este ou a terceiros, sendo o preço e as quantidades acordados livremente.\n\nPara evitar perturbações na rede, o acesso à actividade de produção de energia eléctrica não vinculada ao serviço público é vedado, no caso de utilização de geradores assíncronos, a partir de certo limite de potência instalada. Esse limite será fixado em regulamento, por forma a facilitar a sua alteração atendendo ao progresso técnico e à própria evolução do sistema eléctrico de cada ilha.\n\nPara além do referido, o presente diploma regula ainda o regime do contrato de fornecimento de energia, os requisitos técnicos e de segurança a que as instalações terão de obedecer, o procedimento de licenciamento e, finalmente, o regime sancionatório.\n\nAssim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea h) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo dos Açores, decreta:"
+  },
+  "976410524": {
+   "fragment_id": "978669169",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "976410525": {
+   "fragment_id": "978669170",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto legislativo regional estabelece o regime jurídico da produção de energia eléctrica não vinculada ao serviço público, em desenvolvimento dos princípios constantes do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto."
+  },
+  "976410526": {
+   "fragment_id": "978669171",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Centro electroprodutor - conjunto de equipamentos principais e auxiliares e demais infra-estruturas que o apoiam, destinado à produção de energia eléctrica;\n\nb) Cogeração - processo de produção combinada de energia eléctrica e de energia térmica, destinando-se ambas a consumo próprio ou de terceiros, com respeito pelas condições previstas no presente diploma;\n\nc) Direcção regional com competência na área de energia - Direcção Regional do Comércio, Indústria e Energia;\n\nd) Membro do Governo Regional com competência na área da energia - Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia;\n\ne) Ponto de interligação - ponto da rede receptora onde é ligada a extremidade do ramal de ligação ao centro electroprodutor;\n\nf) Ponto de ligação - ponto correspondente aos terminais, do lado da rede, do órgão de corte colocado no extremo do ramal de ligação onde se encontra o centro electroprodutor;\n\ng) Rede receptora - rede, preexistente, do concessionário do transporte e distribuição à qual é ligado o centro electroprodutor;\n\nh) Regulamento de Licenças para Instalações Eléctricas - regulamento aprovado pelo Decreto-Lei n.º 26852, de 30 de Julho de 1936.\n\n2 - Para efeitos do presente diploma, são definidos os seguintes valores nominais de tensão composta:\n\na) Baixa tensão (BT) - tensão igual ou inferior a 1 kV;\n\nb) Média tensão (MT) - tensão superior a 1 kV e igual ou inferior a 45 kV;\n\nc) Alta tensão (AT) - tensão superior a 45 kV e igual ou inferior a 110 kV."
+  },
+  "976410527": {
+   "fragment_id": "978669172",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à actividade\n\n1 - A actividade de produção de energia eléctrica não vinculada ao serviço público pode ser exercida, mediante licença:\n\na) Em centros electroprodutores que utilizem como energia primária recursos endógenos ou resíduos industriais, agrícolas ou urbanos de produção regional;\n\nb) Em instalações de cogeração, nas condições previstas no artigo 28.º;\n\nc) Em outros centros electroprodutores.\n\n2 - No caso de utilização de geradores assíncronos, o acesso à actividade de produção de energia eléctrica não vinculada ao serviço público, com ligação à rede do concessionário do transporte e distribuição, é vedado a partir do limite de potência fixado, por ilha, por despacho do membro do Governo Regional com competência na área da energia."
+  },
+  "976410528": {
+   "fragment_id": "978669173",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exercício da actividade\n\n1 - O produtor não vinculado ao serviço público pode vender energia eléctrica ao concessionário do transporte e distribuição ou a terceiros, mediante a celebração de contrato de fornecimento de energia e de acordo com as regras de relacionamento comercial constantes dos números seguintes.\n\n2 - O concessionário do transporte e distribuição deve adquirir, até ao limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, a energia eléctrica do produtor não vinculado ao serviço público, sendo remunerada:\n\na) Pelo preço máximo fixado nos termos do artigo 11.º, quando produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º;\n\nb) Pelo preço resultante da aplicação do crédito dos custos evitados totais, nos termos do artigo 12.º, quando produzida em instalações de cogeração referidas na alínea b) do n.º 1 do artigo 3.º\n\n3 - Para além do limite de potência fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, o concessionário do transporte e distribuição deve ainda adquirir a energia eléctrica do produtor não vinculado ao serviço público, quando produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º, pelo preço resultante da aplicação do critério dos custos evitados totais, nos termos do artigo 12.º\n\n4 - O concessionário do transporte e distribuição pode adquirir a energia produzida em instalações de cogeração, para além do limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, e até ao limite previsto no n.º 2 do artigo 28.º, bem como a produzida nos centros electroprodutores referidos na alínea c) do n.º 1 do artigo 3.º, sendo o preço e as quantidades acordados entre as partes, em condições não discriminatórias.\n\n5 - O preço da venda de energia eléctrica a terceiros pelo produtor não vinculado ao serviço público, nos termos do regime jurídico do transporte e distribuição de energia eléctrica, é acordado entre as partes, em condições não discriminatórias."
+  },
+  "976410529": {
+   "fragment_id": "978669174",
+   "type": 11,
+   "heading": "Artigo 5.º — Ordem de mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ordem de mérito\n\nSempre que, por razões técnicas, nomeadamente decorrentes das necessidades do consumo ou de condicionamentos do sistema a que pertence a rede receptora, o concessionário do transporte e distribuição tenha de modular a produção, dentro do limite da obrigação de aquisição, deve introduzir no diagrama de cargas a energia produzida pelos centros electroprodutores a que se refere a alínea a) do n.º 1 do artigo 3.º com prioridade em relação à produzida em instalações de cogeração."
+  },
+  "976410530": {
+   "fragment_id": "979215975",
+   "type": 11,
+   "heading": "Artigo 6.º — Autoprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autoprodução\n\nO presente diploma não se aplica à actividade de produção de energia eléctrica exclusivamente para consumo próprio."
+  },
+  "976410531": {
+   "fragment_id": "979215976",
+   "type": 1,
+   "heading": "Capítulo II — Contrato de fornecimento de energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Contrato de fornecimento de energia"
+  },
+  "976410532": {
+   "fragment_id": "979215977",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "976410533": {
+   "fragment_id": "979215978",
+   "type": 11,
+   "heading": "Artigo 7.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Noção\n\nContrato de fornecimento de energia é o acordo pelo qual uma das partes se obriga a fornecer energia eléctrica por si produzida e a outra parte se obriga a recebê-la, nas condições acordadas, mediante um preço."
+  },
+  "976410534": {
+   "fragment_id": "979215979",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo\n\n1 - O contrato de fornecimento de energia regula, nomeadamente, as seguintes matérias:\n\na) A condução da exploração e execução de manobras;\n\nb) A qualidade da energia fornecida;\n\nc) A medida da energia fornecida;\n\nd) O preço, a facturação, prazos de pagamento e consequência da mora no pagamento;\n\ne) O diagrama de cargas previsto;\n\nf) O ponto de interligação;\n\ng) As inspecções;\n\nh) A suspensão da recepção de energia por razões de segurança, de boa exploração da rede ou em função das necessidades de consumo;\n\ni) A responsabilidade por danos causados na instalação de produção ou na rede.\n\n2 - O membro do Governo Regional com competência na área da energia pode aprovar as cláusulas de contratos tipo de fornecimento de energia."
+  },
+  "976410535": {
+   "fragment_id": "979215980",
+   "type": 11,
+   "heading": "Artigo 9.º — Condição suspensiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condição suspensiva\n\nO início de produção de efeitos do contrato de fornecimento de energia fica subordinado à obtenção da licença de produção de energia eléctrica não vinculada ao serviço público e da licença de exploração."
+  },
+  "976410536": {
+   "fragment_id": "979215981",
+   "type": 11,
+   "heading": "Artigo 10.º — Modificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Modificações\n\n1 - A modificação do contrato de fornecimento de energia depende de autorização da direcção regional com competência na área da energia.\n\n2 - No procedimento de autorização é verificada a manutenção dos pressupostos que determinaram a atribuição da licença.\n\n3 - Para efeitos de autorização, o produtor deve remeter à direcção regional com competência na área da energia a minuta do aditamento ao contrato de fornecimento de energia acordada entre ambas as partes.\n\n4 - O director regional com competência na área da energia decide num prazo de 10 dias.\n\n5 - Depois de celebrado, o produtor deve remeter à direcção regional com competência na área da energia um exemplar do aditamento ao contrato de fornecimento de energia."
+  },
+  "976410537": {
+   "fragment_id": "979215982",
+   "type": 8,
+   "heading": "Secção II — Regimes de preços e facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regimes de preços e facturação"
+  },
+  "976410538": {
+   "fragment_id": "979215983",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime de preços máximos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime de preços máximos\n\n1 - Até ao limite da garantia de venda ao concessionário do transporte e distribuição, fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, a venda de energia eléctrica produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º está sujeita ao regime de preços máximos, calculados nos termos dos números seguintes.\n\n2 - O preço remunera a potência e a energia fornecida.\n\n3 - A potência é facturada pela expressão:\n\n0,8 x TP x P'\n\nem que:\n\nTP - preço mensal de potência do tarifário da Região Autónoma dos Açores para a média tensão (esc./kWh);\n\nP' - mínimo de dois valores de potência P1 e P2, em que:\n\nP1 = EP/TMP;\n\nP2 = (EP + EC)/(TMP + TMC);\n\nsendo:\n\nEP - energia mensal fornecida pelo produtor nos períodos de horas de ponta (kWh);\n\nEC - energia mensal fornecida pelo produtor nos períodos de horas cheias (kWh);\n\nTMP - duração mensal dos períodos tarifários de horas de ponta (horas);\n\nTMC - duração mensal dos períodos tarifários de horas cheias (horas).\n\n4 - Os preços aplicáveis à energia activa (esc./kWh) fornecida pelo produtor nos períodos de horas de ponta (TEP), nos períodos de horas cheias (TEC) e nos períodos de horas de vazio (TEV) são dados por:\n\nTEP = 0,27 x CC1;\n\nTEC = TEV = 0,27 x CC2;\n\nem que:\n\nCC1 - custo médio do gasóleo destinado à produção de energia eléctrica, no semestre anterior, na ilha onde estiver instalado o centro electroprodutor (esc./kg);\n\nCC2 - custo médio do gasóleo ou fuelóleo (consoante o combustível principal consumido nos centros electroprodutores vinculados ao serviço público) destinado à produção de energia eléctrica, no semestre anterior, na ilha onde estiver instalado o centro electroprodutor (esc./kg).\n\n5 - A factura mensal (FM) total da energia fornecida pelo produtor é calculada pela expressão:\n\nFM = 0,8 x TP x P' + TEP x EP + TEC(EC + EV)\n\nem que:\n\nEP - energia fornecida mensalmente nas horas de ponta (kWh);\n\nEC - energia fornecida mensalmente nas horas cheias (kWh);\n\nEV - energia fornecida mensalmente nas horas de vazio (kWh).\n\n6 - Os preços de combustível CC1 e CC2 referidos no n.º 4 são fixados, para cada semestre, por ilha, por despacho do membro do Governo Regional com competência na área da energia."
+  },
+  "976410539": {
+   "fragment_id": "979215984",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de preços especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime de preços especial\n\n1 - O preço de venda da energia eléctrica produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º, para além do limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, e da energia produzida em instalações de cogeração ao concessionário do transporte e distribuição é calculado pelo critério dos custos evitados totais.\n\n2 - A fórmula de cálculo dos custos evitados totais e os respectivos valores são fixados anualmente pela autoridade de regulação e planificação do sector energético."
+  },
+  "976410540": {
+   "fragment_id": "979215985",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime de preços livres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime de preços livres\n\nOs preços da energia eléctrica vendida por produtores não vinculados ao serviço público são fixados livremente entre as partes, com respeito pelas regras da concorrência, nos seguintes casos:\n\na) Venda ao concessionário do transporte e distribuição, na quantidade excedente à obrigação de aquisição por este;\n\nb) Venda da energia produzida nos centros electroprodutores a que se refere a alínea c) do n.º 1 do artigo 3.º ao concessionário do transporte e distribuição;\n\nc) Venda a terceiros, nos termos do regime jurídico do transporte e distribuição de energia eléctrica."
+  },
+  "976410541": {
+   "fragment_id": "979215986",
+   "type": 11,
+   "heading": "Artigo 14.º — Preço da energia reactiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Preço da energia reactiva\n\nO preço da energia reactiva em falta fora das horas de vazio e da energia reactiva em excesso nas horas de vazio, nos termos do artigo 22.º, é debitado ao produtor de acordo com as regras previstas no sistema tarifário da rede do concessionário do transporte e distribuição."
+  },
+  "976410542": {
+   "fragment_id": "979215987",
+   "type": 11,
+   "heading": "Artigo 15.º — Facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Facturação\n\n1 - A facturação da energia fornecida pelo produtor é feita mensalmente.\n\n2 - No caso de o produtor não vinculado ao serviço público ser simultaneamente consumidor, a facturação da energia fornecida e da adquirida deve ser independente."
+  },
+  "976410543": {
+   "fragment_id": "979215988",
+   "type": 1,
+   "heading": "Capítulo III — Requisitos técnicos e de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Requisitos técnicos e de segurança"
+  },
+  "976410544": {
+   "fragment_id": "979215989",
+   "type": 8,
+   "heading": "Secção I — Condições técnicas gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições técnicas gerais"
+  },
+  "976410545": {
+   "fragment_id": "979215990",
+   "type": 11,
+   "heading": "Artigo 16.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Princípio geral\n\nO produtor de energia eléctrica não vinculado ao serviço público está sujeito ao cumprimento de todas as disposições legais e normas técnicas relativas ao exercício da sua actividade, nomeadamente as previstas nos artigos seguintes."
+  },
+  "976410546": {
+   "fragment_id": "979215991",
+   "type": 11,
+   "heading": "Artigo 17.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seguro de responsabilidade civil\n\nPara garantir as obrigações decorrentes do exercício da sua actividade, o produtor de energia eléctrica não vinculado ao serviço público deve estar coberto por um seguro de responsabilidade civil, de montante a fixar na respectiva licença."
+  },
+  "976410547": {
+   "fragment_id": "979215992",
+   "type": 11,
+   "heading": "Artigo 18.º — Ligação à rede receptora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ligação à rede receptora\n\n1 - A ligação do centro electroprodutor à rede receptora é feita por um ramal, cujos encargos de construção são suportados pelo produtor, que fica fazendo parte da rede receptora.\n\n2 - Se o produtor também for consumidor, a ligação dos geradores pode ser feita na rede interna do consumidor, desde que respeitadas as demais condições constantes do presente diploma.\n\n3 - O ramal deve ser estabelecido com secção e outras características que assegurem, em condições técnica e economicamente satisfatórias, a transmissão da potência pelo produtor.\n\n4 - O ponto de interligação é escolhido de comum acordo entre o produtor e o concessionário do transporte e distribuição por forma a corresponder à solução mais económica, respeitando as condições técnicas definidas no presente decreto legislativo regional.\n\n5 - Na falta de acordo, a autoridade de regulação e planificação do sector energético decide a localização do ponto de interligação, ouvidas as partes.\n\n6 - Os encargos com o eventual reforço do ramal, em ordem a permitir a ligação de outros produtores ou consumidores, serão, na totalidade, repartidos entre a entidade proprietária da rede receptora, os novos produtores e os consumidores, nos termos da legislação aplicável."
+  },
+  "976410548": {
+   "fragment_id": "979215993",
+   "type": 11,
+   "heading": "Artigo 19.º — Limites de potência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Limites de potência\n\n1 - A potência de cada gerador assíncrono ligado a uma rede de média ou de alta tensão não pode exceder os valores fixados, por ilha, por despacho do membro do Governo Regional com competência na área da energia.\n\n2 - A potência aparente do centro electroprodutor não pode exceder 10% da potência de curto-circuito mínima no ponto de interligação, para evitar excessivas perturbações de tensão na rede.\n\n3 - A ligação a redes de média ou de alta tensão é sempre feita através de transformadores em que um dos enrolamentos esteja ligado em triângulo.\n\n4 - O aumento da potência de curto-circuito da rede, devido à interligação com o centro electroprodutor, deve ser compatível com as características do equipamento da rede."
+  },
+  "976410549": {
+   "fragment_id": "979215994",
+   "type": 11,
+   "heading": "Artigo 20.º — Factor de potência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Factor de potência\n\n1 - O factor de potência da energia mensalmente fornecida por geradores assíncronos durante as horas cheias e de ponta não será inferior a 0,93 indutivo, para o que o produtor instalará as baterias de condensadores que forem necessárias.\n\n2 - Para efeitos do disposto no número anterior, factor de potência indutivo significa que o gerador assíncrono está a absorver energia reactiva à rede.\n\n3 - Os geradores síncronos poderão manter um factor de potência entre 0,8 indutivo e 0,8 capacitivo perante variações na tensão da rede receptora dentro dos limites previstos na concessão do transporte e distribuição."
+  },
+  "976410550": {
+   "fragment_id": "979215995",
+   "type": 11,
+   "heading": "Artigo 21.º — Distorção harmónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Distorção harmónica\n\n1 - A tensão gerada nos centros electroprodutores será praticamente sinusoidal, de modo a evitar os efeitos prejudiciais nos equipamentos instalados pelos consumidores.\n\n2 - Cabe ao concessionário do transporte e distribuição identificar as causas de distorção harmónica, quando esta se revelar prejudicial para os consumidores, e propor disposições que reduzam a distorção a níveis aceitáveis, podendo consistir em processos de redução da injecção harmónica ou na utilização de filtragem adequada.\n\n3 - Os encargos decorrentes do disposto nos números anteriores são suportados pelo produtor titular do centro electroprodutor que for causador da distorção excessiva.\n\n4 - Os produtores ficam sujeitos às disposições em vigor sobre a qualidade de serviço de redes eléctricas."
+  },
+  "976410551": {
+   "fragment_id": "979215996",
+   "type": 11,
+   "heading": "Artigo 22.º — Energia reactiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Energia reactiva\n\n1 - O produtor deve, nos períodos fora do vazio, fazer acompanhar o fornecimento de energia activa de uma quantidade de energia reactiva correspondente, no mínimo, a 40% da energia activa fornecida.\n\n2 - O produtor não deve, nos períodos do vazio, fornecer energia reactiva à rede receptora."
+  },
+  "976410552": {
+   "fragment_id": "979215997",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime de neutro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime de neutro\n\n1 - O regime de neutro no centro electroprodutor deve estar de acordo com o que se praticar na rede receptora.\n\n2 - No caso de interligação com rede de baixa tensão, o neutro dos geradores será ligado ao neutro da rede de baixa tensão.\n\n3 - O dispositivo que interrompe a ligação entre o centro electroprodutor e a rede receptora deve interromper também a ligação do neutro."
+  },
+  "976410553": {
+   "fragment_id": "979215998",
+   "type": 11,
+   "heading": "Artigo 24.º — Protecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Protecções\n\n1 - Os centros electroprodutores devem estar equipados com protecções que assegurem a sua rápida desligação quando ocorrem defeitos.\n\n2 - Se os centros electroprodutores estiverem ligados a redes em que se pratique o reengate automático, devem ser equipados com meios de desligação coordenados com os equipamentos de reengate da rede receptora.\n\n3 - Os centros electroprodutores devem ser equipados com protecções que os desliguem automaticamente da rede quando esta é desligada da rede primária, de modo a serem efectuadas com segurança as operações de inspecção, manutenção e reparação.\n\n4 - A religação do centro electroprodutor, depois de desligado pelas protecções referidas no número anterior, só pode ser feita:\n\na) Três minutos depois da reposição do serviço;\n\nb) Depois de a tensão da rede ter atingido, pelo menos, 80% do seu valor normal;\n\nc) Com intervalos de quinze segundos entre as religações dos diferentes geradores."
+  },
+  "976410554": {
+   "fragment_id": "979215999",
+   "type": 11,
+   "heading": "Artigo 25.º — Exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Exploração\n\n1 - A exploração do centro electroprodutor é conduzida manual ou automaticamente, de modo a não perturbar o funcionamento normal da rede pública que recebe energia.\n\n2 - As operações de exploração, manutenção e reparação no ramal de interligação são efectuadas pelo concessionário do transporte e distribuição, o qual, se necessário e em qualquer momento, tem acesso a esse ramal e ao órgão de manobra que permite desligar o sistema de produção da rede receptora."
+  },
+  "976410555": {
+   "fragment_id": "979216000",
+   "type": 8,
+   "heading": "Secção II — Condições técnicas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições técnicas especiais"
+  },
+  "976410556": {
+   "fragment_id": "979216001",
+   "type": 11,
+   "heading": "Artigo 26.º — Ligação de geradores assíncronos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Ligação de geradores assíncronos\n\n1 - A queda transitória da tensão na rede pública, devida à ligação de geradores assíncronos, não deve ser superior a:\n\na) 5%, no caso de centrais hidroeléctricas ou termoeléctricas;\n\nb) 2%, no caso de aerogeradores.\n\n2 - Para limitar as quedas de tensão transitória aos valores indicados no número anterior, podem ser usados equipamentos auxiliares adequados.\n\n3 - O número de operações de ligação de cada aerogerador à rede não pode exceder uma em cada dez minutos.\n\n4 - A ligação de um gerador assíncrono à rede é feita depois de atingidos 90% da velocidade síncrona no caso da potência do gerador não exceder 100 kVA.\n\n5 - Para potências superiores a 100 kVA, a ligação só pode ser feita depois de atingidos 95% da velocidade síncrona.\n\n6 - Para evitar a auto-excitação dos geradores assíncronos quando faltar a tensão na rede receptora, devem ser instalados dispositivos que, neste caso, desliguem automaticamente os condensadores."
+  },
+  "976410557": {
+   "fragment_id": "979216002",
+   "type": 11,
+   "heading": "Artigo 27.º — Ligação de geradores síncronos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Ligação de geradores síncronos\n\n1 - A ligação de geradores síncronos só pode ser feita quando a tensão, frequência e fase do gerador a ligar estiverem compreendidas entre os limites indicados no anexo ao presente diploma, do qual faz parte integrante.\n\n2 - Os geradores síncronos de potência não superior a 500 kVA podem ser ligados como assíncronos desde que respeitadas as limitações previstas no n.º 2 do artigo 3.º, bem como no n.º 1 do artigo 19.º, e desde que a duração da marcha assíncrona não exceda dois segundos."
+  },
+  "976410558": {
+   "fragment_id": "979216003",
+   "type": 8,
+   "heading": "Secção III — Cogeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Cogeração"
+  },
+  "976410559": {
+   "fragment_id": "979216004",
+   "type": 11,
+   "heading": "Artigo 28.º — Condições de cogeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Condições de cogeração\n\n1 - Para efeitos do presente diploma, a cogeração deve verificar as seguintes condições, salvo o disposto no artigo seguinte:\n\na) E + 0,5 x T > 0,45 x C, sendo E, T, e C expressos nas mesmas unidades de energia, com o significado seguinte:\n\nE - a energia eléctrica produzida anualmente pelo cogerador, excluindo os consumos nos sistemas auxiliares internos de produção energética;\n\nT - a energia térmica útil consumida anualmente, excluindo os consumos nos sistemas auxiliares internos de produção energética;\n\nC - a energia fornecida pelo combustível consumido anualmente no sistema de cogeração, correspondente ao produto da massa do combustível pelo seu poder calorífico interior;\n\nb) Ter uma potência eléctrica instalada mínima de 250 kVA, quando T/E é igual ou superior a 5.\n\n2 - Sem prejuízo dos restantes limites previstos no presente diploma, a quantidade máxima de energia que pode ser fornecida à rede do concessionário do transporte e distribuição (E(índice er)) é dada pela seguinte expressão:\n\nE(índice er) = [4,5 x(E + T)/(E - 0,5 x T)- 4,5] x E"
+  },
+  "976410560": {
+   "fragment_id": "979216005",
+   "type": 11,
+   "heading": "Artigo 29.º — Situações excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Situações excepcionais\n\n1 - A direcção regional com competência na área da energia pode autorizar o produtor a não cumprir as condições previstas no artigo anterior, pelo prazo necessário à regularização da situação, que não pode exceder um ano, quando o incumprimento for causado por motivos não imputáveis ao produtor.\n\n2 - Para efeitos do disposto no número anterior, o produtor deve comunicar à direcção regional, num prazo de 60 dias, o facto que deu origem ao incumprimento, bem como o prazo e medidas previstas para a regularização da situação."
+  },
+  "976410561": {
+   "fragment_id": "979216006",
+   "type": 8,
+   "heading": "Secção IV — Medida da energia fornecida pelo produtor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Medida da energia fornecida pelo produtor"
+  },
+  "976410562": {
+   "fragment_id": "979216007",
+   "type": 11,
+   "heading": "Artigo 30.º — Equipamentos e regras técnicas de medida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Equipamentos e regras técnicas de medida\n\n1 - As medidas da energia e da potência, para efeitos da facturação da energia fornecida pelo produtor, são feitas por contadores distintos dos usados para a medida da energia eventualmente fornecida ao produtor.\n\n2 - Os transformadores de medida poderão ser comuns às medidas da energia fornecida e da energia recebida.\n\n3 - Os equipamentos e as regras técnicas usados nas medições da energia fornecida pelos produtores são análogos aos usados pela rede do concessionário do transporte e distribuição para a medição da energia fornecida a consumidores."
+  },
+  "976410563": {
+   "fragment_id": "979216008",
+   "type": 1,
+   "heading": "Capítulo IV — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Licenciamento"
+  },
+  "976410564": {
+   "fragment_id": "979216009",
+   "type": 8,
+   "heading": "Secção I — Procedimento de atribuição da licença de produção de energia eléctrica não vinculada ao serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento de atribuição da licença de produção de energia eléctrica não vinculada ao serviço público"
+  },
+  "976410565": {
+   "fragment_id": "979216010",
+   "type": 11,
+   "heading": "Artigo 31.º — Procedimentos prévios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Procedimentos prévios\n\nAntes de requerer a licença de produção de energia eléctrica não vinculada ao serviço público, o interessado deve:\n\na) Obter o título de utilização de bens do domínio público, no caso de a actividade de produção de energia eléctrica ser exercida mediante o uso ou exploração de bens do domínio público;\n\nb) Celebrar com o concessionário do transporte e distribuição ou, se for o caso, com outros adquirentes o contrato de fornecimento de energia, sem prejuízo de, neste caso, o produtor poder celebrar novos contratos posteriormente."
+  },
+  "976410566": {
+   "fragment_id": "979216011",
+   "type": 11,
+   "heading": "Artigo 32.º — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Iniciativa\n\n1 - O procedimento de atribuição da licença de produção de energia não vinculada ao serviço público inicia-se com a apresentação, pelo interessado, de um requerimento ao membro do Governo Regional com competência na área da energia.\n\n2 - O requerimento deve ser instruído com os seguintes elementos:\n\na) Identificação completa do requerente;\n\nb) Indicação do local onde vai ser instalado o centro electroprodutor;\n\nc) Memória descritiva e justificativa com as características do centro electroprodutor, nomeadamente a potência a instalar, combustível a utilizar e tipo de gerador (síncrono ou assíncrono);\n\nd) Planta topográfica à escala de 1:25000, com a localização do centro electroprodutor e das principais obras necessárias;\n\ne) Contrato de fornecimento de energia;\n\nf) Ponto de ligação;\n\ng) Estudo económico;\n\nh) Declaração assumindo o compromisso de que, no exercício da actividade, cumprirá todas as disposições e regulamentos aplicáveis;\n\ni) Título de utilização do domínio público, se for o caso."
+  },
+  "976410567": {
+   "fragment_id": "979216012",
+   "type": 11,
+   "heading": "Artigo 33.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Instrução\n\n1 - A instrução é dirigida pela direcção regional com competência na área da energia, que deve obter os pareceres que considerar necessários à apreciação do pedido.\n\n2 - O parecer da autoridade de regulação e planificação do sector energético é obrigatório.\n\n3 - A instrução deve estar concluída no prazo de 45 dias."
+  },
+  "976410568": {
+   "fragment_id": "979216013",
+   "type": 11,
+   "heading": "Artigo 34.º — Indeferimento do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Indeferimento do pedido\n\nConstituem fundamentos para indeferir o pedido de atribuição da licença:\n\na) O centro electroprodutor, com ligação prevista à rede do concessionário do transporte e distribuição, dispor de geradores assíncronos que, por si ou juntamente com os instalados com ligação àquela rede, excedam o limite de potência fixado nos termos do n.º 2 do artigo 3.º;\n\nb) O centro electroprodutor a instalar utilizar exclusiva ou predominantemente combustíveis petrolíferos sem que preencha qualquer das condições previstas no artigo 2.º do Decreto-Lei n.º 359/90, de 14 de Novembro;\n\nc) Não cumprimento dos requisitos de natureza ambiental previstos na lei;\n\nd) As características do centro electroprodutor contrariarem os objectivos de política energética definidos pelo Governo da Região Autónoma dos Açores."
+  },
+  "976410569": {
+   "fragment_id": "979216014",
+   "type": 11,
+   "heading": "Artigo 35.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Licença\n\n1 - A licença de produção de energia eléctrica não vinculada ao serviço público deve conter, nomeadamente, os seguintes elementos:\n\na) Identificação do titular;\n\nb) Prazo;\n\nc) Identificação, localização e características técnicas do centro electroprodutor;\n\nd) Identificação das obras a estabelecer e das condições de ligação à rede receptora;\n\ne) Direitos e obrigações do titular;\n\nf) Prazo para a apresentação dos projectos e para a realização das obras;\n\ng) Valor do seguro de responsabilidade civil.\n\n2 - A licença de produção de energia eléctrica não vinculada ao serviço público é atribuída por cada centro electroprodutor.\n\n3 - A licença fica sujeita à condição de atribuição de licença prévia de estabelecimento, nos termos do Regulamento de Licenças para Instalações Eléctricas, pelo director regional com competência na área da energia."
+  },
+  "976410570": {
+   "fragment_id": "979216015",
+   "type": 11,
+   "heading": "Artigo 36.º — Título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Título\n\n1 - O título da licença de produção de energia eléctrica não vinculada ao serviço público é emitido após a verificação da condição prevista no n.º 3 do artigo anterior.\n\n2 - A direcção regional com competência na área da energia deve promover a publicação, no Jornal Oficial da Região Autónoma dos Açores, de um extracto com os elementos essenciais da licença."
+  },
+  "976410571": {
+   "fragment_id": "979216016",
+   "type": 11,
+   "heading": "Artigo 37.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Prazo\n\n1 - O prazo da licença é fixado atendendo, nomeadamente, às características do centro electroprodutor, à fonte de energia primária utilizada e ao período de vida útil previsto.\n\n2 - O prazo da licença não deverá ser inferior ao da amortização do equipamento principal, de acordo com o estudo económico apresentado.\n\n3 - O prazo da licença pode ser prorrogado, seguindo-se, com as necessárias adaptações, o procedimento previsto para a atribuição da licença."
+  },
+  "976410572": {
+   "fragment_id": "979216017",
+   "type": 11,
+   "heading": "Artigo 38.º — Transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Transmissão\n\n1 - A transmissão da licença pode ser autorizada desde que se mantenham os pressupostos que determinaram a sua atribuição.\n\n2 - O produtor transmissário deve requerer, no prazo de 30 dias, contados da data da notificação da autorização de transmissão da licença, o averbamento em seu nome das instalações eléctricas, na direcção regional com competência na área da energia.\n\n3 - O transmissário fica sujeito aos mesmos deveres, obrigações e encargos do transmitente."
+  },
+  "976410573": {
+   "fragment_id": "979216018",
+   "type": 11,
+   "heading": "Artigo 39.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Caducidade\n\nA licença caduca por:\n\na) Decurso do prazo;\n\nb) Extinção do título de utilização do domínio público;\n\nc) Não conclusão das obras dentro dos prazos fixados."
+  },
+  "976410574": {
+   "fragment_id": "979216019",
+   "type": 11,
+   "heading": "Artigo 40.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Revogação\n\n1 - A licença pode ser revogada quando o seu titular faltar culposamente ao cumprimento dos deveres relativos ao exercício da actividade, nomeadamente:\n\na) Não cumprir, sem motivo justificado, as determinações impostas pela fiscalização técnica;\n\nb) Violar reiteradamente o cumprimento das disposições legais ou normas técnicas aplicáveis ao exercício da actividade;\n\nc) Não constituir ou não manter actualizado o seguro de responsabilidade civil previsto no artigo 17.º;\n\nd) Abandonar as instalações afectas à produção de energia eléctrica ou interromper a actividade licenciada, por razões não fundamentadas, por período superior a um ano.\n\n2 - A licença é ainda revogada a pedido do respectivo titular.\n\n3 - A autoridade de regulação e planificação do sector energético e a direcção regional com competência na área da energia podem propor ao membro do Governo Regional competente na área da energia a revogação da licença."
+  },
+  "979216075": {
+   "fragment_id": "979216020",
+   "type": 8,
+   "heading": "Secção II — Licenciamento técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Licenciamento técnico"
+  },
+  "979216076": {
+   "fragment_id": "979216021",
+   "type": 11,
+   "heading": "Artigo 41.º — Elaboração do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Elaboração do projecto\n\n1 - O interessado na instalação de um centro electroprodutor pode solicitar ao concessionário do transporte e distribuição as informações necessárias para a elaboração do projecto, designadamente as relativas a:\n\na) Ponto de interligação;\n\nb) Tensão nominal no ponto de interligação e banda de regulação da tensão nesse ponto;\n\nc) Potência de curto-circuito, máxima e mínima, no ponto de interligação;\n\nd) Regime de neutro;\n\ne) Dispositivos de reengate automático eventualmente existentes.\n\n2 - A solicitação das informações referidas no número anterior deve ser acompanhada por uma descrição sumária do projecto do centro electroprodutor, incluindo o local ou locais previsíveis de implantação, o número, potência e tipo de geradores, bem como os dados necessários para serem calculadas as potências de curto-circuito previsíveis.\n\n3 - O concessionário do transporte e distribuição dispõe de 30 dias para fornecer as informações, findos os quais, caso não tenham sido fornecidas, o interessado pode solicitar à autoridade de regulação e planificação do sector energético que determine o envio das informações solicitadas."
+  },
+  "979216077": {
+   "fragment_id": "979216022",
+   "type": 11,
+   "heading": "Artigo 42.º — Licença de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Licença de estabelecimento\n\n1 - O interessado deve requerer a licença de estabelecimento, nos termos do Regulamento de Licenças para Instalações Eléctricas, no prazo fixado na licença de produção de energia eléctrica não vinculada ao serviço público.\n\n2 - A instalação do centro electroprodutor inicia-se após a atribuição da licença de estabelecimento pelo director regional com competência na área da energia."
+  },
+  "979216078": {
+   "fragment_id": "979216023",
+   "type": 11,
+   "heading": "Artigo 43.º — Vistoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Vistoria\n\nLogo que esteja determinado o dia em que pode iniciar a produção de energia eléctrica, o produtor deve requerer à direcção regional com competência na área da energia a realização da vistoria das instalações, a qual será efectuada no prazo de oito dias."
+  },
+  "979216079": {
+   "fragment_id": "979216024",
+   "type": 11,
+   "heading": "Artigo 44.º — Licença de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Licença de exploração\n\nA produção de energia eléctrica só pode iniciar-se após a atribuição da licença de exploração, nos termos do Regulamento de Licenças para Instalações Eléctricas."
+  },
+  "979216080": {
+   "fragment_id": "979216025",
+   "type": 1,
+   "heading": "Capítulo V — Informação, auditorias e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Informação, auditorias e fiscalização"
+  },
+  "979216081": {
+   "fragment_id": "979216026",
+   "type": 11,
+   "heading": "Artigo 45.º — Prestação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Prestação de informação\n\n1 - O produtor de energia eléctrica não vinculado ao serviço público deve enviar à autoridade de regulação e planificação do sector energético os seguintes dados informativos relativos ao funcionamento e exploração do centro electroprodutor:\n\na) Quantidade de energia eléctrica produzida;\n\nb) Quantidade de energia eléctrica vendida e adquirida ao concessionário do transporte e distribuição;\n\nc) Quantidade de energia eléctrica vendida a terceiros.\n\n2 - Para verificação do cumprimento do disposto no artigo 28.º, o produtor de energia eléctrica não vinculado ao serviço público, mediante o processo de cogeração, deve ainda remeter os seguintes dados informativos:\n\na) Quantitativos de E, T e C, definidos no n.º 1 do artigo 28.º;\n\nb) Quantidade de energia térmica vendida a terceiros.\n\n3 - Os dados devem ser enviados:\n\na) Até ao final de cada mês, os dados mensais a que se refere o n.º 1 relativos ao penúltimo mês anterior;\n\nb) Até ao final do mês de Março de cada ano, os dados anuais a que se referem os n.os 1 e 2 relativos ao ano civil anterior."
+  },
+  "979216082": {
+   "fragment_id": "979216027",
+   "type": 11,
+   "heading": "Artigo 46.º — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Auditorias\n\nA autoridade de regulação e planificação do sector energético pode efectuar auditorias energéticas para verificar as condições de funcionamento dos centros electroprodutores, por iniciativa própria ou a pedido do concessionário do transporte e distribuição, sendo, neste último caso, os custos respectivos suportados por este."
+  },
+  "979216083": {
+   "fragment_id": "979216028",
+   "type": 11,
+   "heading": "Artigo 47.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Fiscalização\n\n1 - A direcção regional com competência na área da energia fiscaliza o exercício da actividade de produção de energia eléctrica, tendo em vista fazer cumprir as disposições legais, as obrigações decorrentes da licença e as normas técnicas relativas ao exercício da actividade.\n\n2 - No exercício da competência de fiscalização, a direcção regional com competência na área da energia pode determinar, em concreto, a adopção de medidas ou a execução de trabalhos adequados à prevenção da segurança do centro electroprodutor.\n\n3 - O concessionário do transporte e distribuição pode inspeccionar periodicamente as regulações e as protecções dos centros electroprodutores ligados à sua rede."
+  },
+  "979216084": {
+   "fragment_id": "979216029",
+   "type": 1,
+   "heading": "Capítulo VI — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime sancionatório"
+  },
+  "979216085": {
+   "fragment_id": "979216030",
+   "type": 11,
+   "heading": "Artigo 48.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Contra-ordenações\n\n1 - Constituem contra-ordenação os seguintes factos:\n\na) O exercício da actividade de produção de energia eléctrica não vinculada ao serviço público, sem a respectiva licença;\n\nb) O exercício da actividade para além do âmbito estabelecido na respectiva licença;\n\nc) A inobservância das condições estabelecidas na respectiva licença;\n\nd) A produção de energia eléctrica em instalações de cogeração com incumprimento das condições previstas no artigo 28.º, sem que tenha sido concedida autorização nos termos do artigo 29.º;\n\ne) A inobservância das decisões do despacho;\n\nf) A inobservância das regras de relacionamento comercial;\n\ng) A violação das condições de ligação às redes e da respectiva utilização;\n\nh) A utilização de combustível não autorizado, sem prejuízo do disposto no artigo 4.º do Decreto-Lei n.º 359/90, de 14 de Novembro;\n\ni) A não actualização do seguro de responsabilidade civil previsto no artigo 17.º;\n\nj) O não envio à autoridade de regulação e de planificação do sector energético ou à direcção regional com competência na área da energia, da informação requerida no âmbito da competência destas entidades;\n\nl) Não permitir ou dificultar o acesso da fiscalização da direcção regional com competência na área da energia e do concessionário do transporte e distribuição às instalações ou aos documentos respeitantes ao exercício da actividade;\n\nm) O não fornecimento ao interessado, pelo concessionário do transporte e distribuição, dos elementos necessários à elaboração do projecto, previstos no artigo 41.º;\n\nn) A modificação das condições previstas no contrato de fornecimento de energia, sem prévia autorização da direcção regional com competência na área da energia, nos termos do artigo 10.º\n\n2 - As contra-ordenações previstas no número anterior são punidas com as seguintes coimas:\n\na) De 1000000$00 a 6000000$00, no caso da alínea a);\n\nb) De 500000$00 a 5500000$00, no caso das alíneas b), c), d) e n);\n\nc) De 400000$00 a 5000000$00, no caso das alíneas e) e h);\n\nd) De 350000$00 a 4500000$00, no caso das alíneas f), g) e i);\n\ne) De 250000$00 a 4000000$00, no caso das alíneas j), l) e m).\n\n3 - A tentativa e a negligência são puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 244/95, de 14 de Setembro.\n\n4 - No caso de a contra-ordenação ter sido praticada por pessoa singular, o montante mínimo da coima a aplicar é de 250000$00 e o máximo é de 500000$00."
+  },
+  "979216086": {
+   "fragment_id": "979216031",
+   "type": 11,
+   "heading": "Artigo 49.º — Processos de contra-ordenação e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Processos de contra-ordenação e aplicação de coimas\n\n1 - A instrução dos processos por contra-ordenação é feita pela direcção regional com competência na área da energia.\n\n2 - O julgamento das contra-ordenações e a aplicação de coimas compete:\n\na) À autoridade de regulação e planificação do sector energético, no que se refere às contra-ordenações previstas nas alíneas e), f), j), quando a contra-ordenação tenha sido praticada no âmbito da respectiva competência, e m);\n\nb) À direcção regional com competência na área da energia, no que se refere às contra-ordenações previstas nas alíneas a), b), c), d), g), h), i), j), l) e n)."
+  },
+  "979216087": {
+   "fragment_id": "979216032",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "979216088": {
+   "fragment_id": "979216033",
+   "type": 11,
+   "heading": "Artigo 50.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Taxas\n\nO montante das taxas devidas pela prática dos actos previstos no presente diploma será fixado por portaria dos membros do Governo Regional com competência nas áreas das finanças e da energia."
+  },
+  "979216089": {
+   "fragment_id": "979216034",
+   "type": 11,
+   "heading": "Artigo 51.º — Centros electroprodutores existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Centros electroprodutores existentes\n\n1 - São válidas, para todos os efeitos, as autorizações administrativas concedidas para a produção de energia eléctrica, podendo o respectivo titular requerer a conversão de títulos, no caso de estarem reunidas as condições previstas no presente diploma.\n\n2 - A exploração de centros electroprodutores em situação de não funcionamento há mais de cinco anos, a contar da data de entrada em vigor do presente diploma, só pode reiniciar-se após o cumprimento do disposto no presente diploma.\n\n3 - Na fixação do limite de potência a que se refere o n.º 2 do artigo 3.º deve ser tida em conta a potência já instalada."
+  },
+  "979216091": {
+   "fragment_id": "979216036",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 27.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 27.º)\n\n(ver documento original)"
+  },
+  "976410523": {
+   "fragment_id": "978669168",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 26/96/A\n\nRegime jurídico da produção de energia eléctrica não vinculada ao serviço público\n\nEm desenvolvimento dos princípios da organização do sector eléctrico e do regime jurídico da produção, transporte e distribuição de energia eléctrica na Região Autónoma dos Açores, o presente diploma estabelece o regime jurídico da actividade de produção de energia eléctrica não vinculada a serviço público.\n\nNa nova organização do sector eléctrico prevê-se, no subsector da produção, a coexistência de dois tipos de operadores, sujeitos a regras diferentes: os produtores vinculados ao serviço público, que têm como missão produzir a energia eléctrica necessária para assegurar o abastecimento público, e os produtores não vinculados ao serviço público.\n\nQuanto a estes, a regra é a de liberdade de acesso e de exercício da actividade. As limitações existentes decorrem de objectivos de política energética e de restrições de ordem técnica, sobretudo decorrentes da dimensão do sistema eléctrico de cada uma das ilhas.\n\nPara cumprimento de objectivos de política energética, o regime de acesso e exercício da actividade distingue três tipos de centros electroprodutores, a cada um dos quais faz corresponder regras diferentes quanto à garantia de venda de energia eléctrica e ao respectivo preço. Assim, o primeiro tipo - centros electroprodutores que utilizem como energia primária recursos endógenos ou resíduos industriais, agrícolas ou urbanos de produção regional -, até determinado limite, beneficia da garantia de venda, ao concessionário do transporte e distribuição, de toda a energia produzida, sendo o respectivo preço fixado de acordo com uma fórmula que prevê a remuneração da potência e da energia efectivamente produzida. A parcela relativa à remuneração da energia é indexada ao preço do gasóleo ou fuel usado localmente na produção de energia eléctrica. A partir do limite que vier a ser fixado, o preço da energia fornecida é o resultante da aplicação do critério dos custos evitados totais no sistema de serviço público. O segundo tipo de centro electroprodutor previsto - instalações de cogeração - também beneficia de garantia de venda, mas apenas até certo limite. Até esse limite os cogeradores podem vender a energia eléctrica produzida ao concessionário do transporte e distribuição pelo preço resultante do critério dos custos evitados totais. Uma vez atingido esse limite, o preço e as quantidades de energia fornecida são livremente acordados entre as partes. Finalmente, está prevista uma categoria residual de centros electroprodutores, que inclui as centrais que utilizam combustíveis petrolíferos. Estes produtores não dispõem de garantia de venda ao concessionário do transporte e distribuição, mas podem vender a este ou a terceiros, sendo o preço e as quantidades acordados livremente.\n\nPara evitar perturbações na rede, o acesso à actividade de produção de energia eléctrica não vinculada ao serviço público é vedado, no caso de utilização de geradores assíncronos, a partir de certo limite de potência instalada. Esse limite será fixado em regulamento, por forma a facilitar a sua alteração atendendo ao progresso técnico e à própria evolução do sistema eléctrico de cada ilha.\n\nPara além do referido, o presente diploma regula ainda o regime do contrato de fornecimento de energia, os requisitos técnicos e de segurança a que as instalações terão de obedecer, o procedimento de licenciamento e, finalmente, o regime sancionatório.\n\nAssim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea h) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo dos Açores, decreta:"
+  },
+  "979216094": {
+   "fragment_id": "978669173",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício da actividade",
+   "in_force_from": "1996-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-C/96 - Diário da República n.º 253/1996, 1º Suplemento, Série I-A de 1996-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-c-1996-321499), em vigor a partir de 1996-10-31"
+   ],
+   "markdown": "###### Artigo 4.º — Exercício da actividade\n\n1 - O produtor não vinculado ao serviço público pode vender energia eléctrica ao concessionário do transporte e distribuição ou a terceiros, mediante a celebração de contrato de fornecimento de energia e de acordo com as regras de relacionamento comercial constantes dos números seguintes.\n\n2 - O concessionário do transporte e distribuição deve adquirir, até ao limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, a energia eléctrica do produtor não vinculado ao serviço público, sendo remunerada:\n\na) Pelo preço máximo fixado nos termos do artigo 11.º, quando produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º;\n\nb) Pelo preço resultante na aplicação do critério dos custos evitados totais, nos termos do artigo 12.º, quando produzida em instalações de cogeração referidas na alínea b) do n.º 1 do artigo 3.º\n\n3 - Para além do limite de potência fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, o concessionário do transporte e distribuição deve ainda adquirir a energia eléctrica do produtor não vinculado ao serviço público, quando produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º, pelo preço resultante da aplicação do critério dos custos evitados totais, nos termos do artigo 12.º\n\n4 - O concessionário do transporte e distribuição pode adquirir a energia produzida em instalações de cogeração, para além do limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, e até ao limite previsto no n.º 2 do artigo 28.º, bem como a produzida nos centros electroprodutores referidos na alínea c) do n.º 1 do artigo 3.º, sendo o preço e as quantidades acordados entre as partes, em condições não discriminatórias.\n\n5 - O preço da venda de energia eléctrica a terceiros pelo produtor não vinculado ao serviço público, nos termos do regime jurídico do transporte e distribuição de energia eléctrica, é acordado entre as partes, em condições não discriminatórias.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-C/96 - Diário da República n.º 253/1996, 1º Suplemento, Série I-A de 1996-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-c-1996-321499), em vigor a partir de 1996-10-31"
+  },
+  "979216090": {
+   "fragment_id": "979216035",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Maio de 1996.\n\nO Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.\n\nAssinado em Angra do Heroísmo em 28 de Agosto de 1996.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto."
+  },
+  "1020082877": {
+   "fragment_id": "978669169",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082878": {
+   "fragment_id": "978669170",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto legislativo regional estabelece o regime jurídico da produção de energia eléctrica não vinculada ao serviço público, em desenvolvimento dos princípios constantes do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082879": {
+   "fragment_id": "978669171",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Centro electroprodutor - conjunto de equipamentos principais e auxiliares e demais infra-estruturas que o apoiam, destinado à produção de energia eléctrica;\n\nb) Cogeração - processo de produção combinada de energia eléctrica e de energia térmica, destinando-se ambas a consumo próprio ou de terceiros, com respeito pelas condições previstas no presente diploma;\n\nc) Direcção regional com competência na área de energia - Direcção Regional do Comércio, Indústria e Energia;\n\nd) Membro do Governo Regional com competência na área da energia - Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia;\n\ne) Ponto de interligação - ponto da rede receptora onde é ligada a extremidade do ramal de ligação ao centro electroprodutor;\n\nf) Ponto de ligação - ponto correspondente aos terminais, do lado da rede, do órgão de corte colocado no extremo do ramal de ligação onde se encontra o centro electroprodutor;\n\ng) Rede receptora - rede, preexistente, do concessionário do transporte e distribuição à qual é ligado o centro electroprodutor;\n\nh) Regulamento de Licenças para Instalações Eléctricas - regulamento aprovado pelo Decreto-Lei n.º 26852, de 30 de Julho de 1936.\n\n2 - Para efeitos do presente diploma, são definidos os seguintes valores nominais de tensão composta:\n\na) Baixa tensão (BT) - tensão igual ou inferior a 1 kV;\n\nb) Média tensão (MT) - tensão superior a 1 kV e igual ou inferior a 45 kV;\n\nc) Alta tensão (AT) - tensão superior a 45 kV e igual ou inferior a 110 kV.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082880": {
+   "fragment_id": "978669172",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à actividade",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 3.º — Acesso à actividade\n\n1 - A actividade de produção de energia eléctrica não vinculada ao serviço público pode ser exercida, mediante licença:\n\na) Em centros electroprodutores que utilizem como energia primária recursos endógenos ou resíduos industriais, agrícolas ou urbanos de produção regional;\n\nb) Em instalações de cogeração, nas condições previstas no artigo 28.º;\n\nc) Em outros centros electroprodutores.\n\n2 - No caso de utilização de geradores assíncronos, o acesso à actividade de produção de energia eléctrica não vinculada ao serviço público, com ligação à rede do concessionário do transporte e distribuição, é vedado a partir do limite de potência fixado, por ilha, por despacho do membro do Governo Regional com competência na área da energia.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082881": {
+   "fragment_id": "978669173",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício da actividade",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-C/96 - Diário da República n.º 253/1996, 1º Suplemento, Série I-A de 1996-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-c-1996-321499), em vigor a partir de 1996-10-31"
+   ],
+   "markdown": "###### Artigo 4.º — Exercício da actividade\n\n1 - O produtor não vinculado ao serviço público pode vender energia eléctrica ao concessionário do transporte e distribuição ou a terceiros, mediante a celebração de contrato de fornecimento de energia e de acordo com as regras de relacionamento comercial constantes dos números seguintes.\n\n2 - O concessionário do transporte e distribuição deve adquirir, até ao limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, a energia eléctrica do produtor não vinculado ao serviço público, sendo remunerada:\n\na) Pelo preço máximo fixado nos termos do artigo 11.º, quando produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º;\n\nb) Pelo preço resultante na aplicação do critério dos custos evitados totais, nos termos do artigo 12.º, quando produzida em instalações de cogeração referidas na alínea b) do n.º 1 do artigo 3.º\n\n3 - Para além do limite de potência fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, o concessionário do transporte e distribuição deve ainda adquirir a energia eléctrica do produtor não vinculado ao serviço público, quando produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º, pelo preço resultante da aplicação do critério dos custos evitados totais, nos termos do artigo 12.º\n\n4 - O concessionário do transporte e distribuição pode adquirir a energia produzida em instalações de cogeração, para além do limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, e até ao limite previsto no n.º 2 do artigo 28.º, bem como a produzida nos centros electroprodutores referidos na alínea c) do n.º 1 do artigo 3.º, sendo o preço e as quantidades acordados entre as partes, em condições não discriminatórias.\n\n5 - O preço da venda de energia eléctrica a terceiros pelo produtor não vinculado ao serviço público, nos termos do regime jurídico do transporte e distribuição de energia eléctrica, é acordado entre as partes, em condições não discriminatórias.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-C/96 - Diário da República n.º 253/1996, 1º Suplemento, Série I-A de 1996-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-c-1996-321499), em vigor a partir de 1996-10-31"
+  },
+  "1020082882": {
+   "fragment_id": "978669174",
+   "type": 11,
+   "heading": "Artigo 5.º — Ordem de mérito",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 5.º — Ordem de mérito\n\nSempre que, por razões técnicas, nomeadamente decorrentes das necessidades do consumo ou de condicionamentos do sistema a que pertence a rede receptora, o concessionário do transporte e distribuição tenha de modular a produção, dentro do limite da obrigação de aquisição, deve introduzir no diagrama de cargas a energia produzida pelos centros electroprodutores a que se refere a alínea a) do n.º 1 do artigo 3.º com prioridade em relação à produzida em instalações de cogeração.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082883": {
+   "fragment_id": "979215975",
+   "type": 11,
+   "heading": "Artigo 6.º — Autoprodução",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 6.º — Autoprodução\n\nO presente diploma não se aplica à actividade de produção de energia eléctrica exclusivamente para consumo próprio.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082884": {
+   "fragment_id": "979215976",
+   "type": 1,
+   "heading": "Capítulo II — Contrato de fornecimento de energia",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "### Capítulo II — Contrato de fornecimento de energia\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082885": {
+   "fragment_id": "979215977",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082886": {
+   "fragment_id": "979215978",
+   "type": 11,
+   "heading": "Artigo 7.º — Noção",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 7.º — Noção\n\nContrato de fornecimento de energia é o acordo pelo qual uma das partes se obriga a fornecer energia eléctrica por si produzida e a outra parte se obriga a recebê-la, nas condições acordadas, mediante um preço.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082887": {
+   "fragment_id": "979215979",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 8.º — Conteúdo\n\n1 - O contrato de fornecimento de energia regula, nomeadamente, as seguintes matérias:\n\na) A condução da exploração e execução de manobras;\n\nb) A qualidade da energia fornecida;\n\nc) A medida da energia fornecida;\n\nd) O preço, a facturação, prazos de pagamento e consequência da mora no pagamento;\n\ne) O diagrama de cargas previsto;\n\nf) O ponto de interligação;\n\ng) As inspecções;\n\nh) A suspensão da recepção de energia por razões de segurança, de boa exploração da rede ou em função das necessidades de consumo;\n\ni) A responsabilidade por danos causados na instalação de produção ou na rede.\n\n2 - O membro do Governo Regional com competência na área da energia pode aprovar as cláusulas de contratos tipo de fornecimento de energia.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082888": {
+   "fragment_id": "979215980",
+   "type": 11,
+   "heading": "Artigo 9.º — Condição suspensiva",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 9.º — Condição suspensiva\n\nO início de produção de efeitos do contrato de fornecimento de energia fica subordinado à obtenção da licença de produção de energia eléctrica não vinculada ao serviço público e da licença de exploração.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082889": {
+   "fragment_id": "979215981",
+   "type": 11,
+   "heading": "Artigo 10.º — Modificações",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 10.º — Modificações\n\n1 - A modificação do contrato de fornecimento de energia depende de autorização da direcção regional com competência na área da energia.\n\n2 - No procedimento de autorização é verificada a manutenção dos pressupostos que determinaram a atribuição da licença.\n\n3 - Para efeitos de autorização, o produtor deve remeter à direcção regional com competência na área da energia a minuta do aditamento ao contrato de fornecimento de energia acordada entre ambas as partes.\n\n4 - O director regional com competência na área da energia decide num prazo de 10 dias.\n\n5 - Depois de celebrado, o produtor deve remeter à direcção regional com competência na área da energia um exemplar do aditamento ao contrato de fornecimento de energia.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082890": {
+   "fragment_id": "979215982",
+   "type": 8,
+   "heading": "Secção II — Regimes de preços e facturação",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção II — Regimes de preços e facturação\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082891": {
+   "fragment_id": "979215983",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime de preços máximos",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 11.º — Regime de preços máximos\n\n1 - Até ao limite da garantia de venda ao concessionário do transporte e distribuição, fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, a venda de energia eléctrica produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º está sujeita ao regime de preços máximos, calculados nos termos dos números seguintes.\n\n2 - O preço remunera a potência e a energia fornecida.\n\n3 - A potência é facturada pela expressão:\n\n0,8 x TP x P'\n\nem que:\n\nTP - preço mensal de potência do tarifário da Região Autónoma dos Açores para a média tensão (esc./kWh);\n\nP' - mínimo de dois valores de potência P1 e P2, em que:\n\nP1 = EP/TMP;\n\nP2 = (EP + EC)/(TMP + TMC);\n\nsendo:\n\nEP - energia mensal fornecida pelo produtor nos períodos de horas de ponta (kWh);\n\nEC - energia mensal fornecida pelo produtor nos períodos de horas cheias (kWh);\n\nTMP - duração mensal dos períodos tarifários de horas de ponta (horas);\n\nTMC - duração mensal dos períodos tarifários de horas cheias (horas).\n\n4 - Os preços aplicáveis à energia activa (esc./kWh) fornecida pelo produtor nos períodos de horas de ponta (TEP), nos períodos de horas cheias (TEC) e nos períodos de horas de vazio (TEV) são dados por:\n\nTEP = 0,27 x CC1;\n\nTEC = TEV = 0,27 x CC2;\n\nem que:\n\nCC1 - custo médio do gasóleo destinado à produção de energia eléctrica, no semestre anterior, na ilha onde estiver instalado o centro electroprodutor (esc./kg);\n\nCC2 - custo médio do gasóleo ou fuelóleo (consoante o combustível principal consumido nos centros electroprodutores vinculados ao serviço público) destinado à produção de energia eléctrica, no semestre anterior, na ilha onde estiver instalado o centro electroprodutor (esc./kg).\n\n5 - A factura mensal (FM) total da energia fornecida pelo produtor é calculada pela expressão:\n\nFM = 0,8 x TP x P' + TEP x EP + TEC(EC + EV)\n\nem que:\n\nEP - energia fornecida mensalmente nas horas de ponta (kWh);\n\nEC - energia fornecida mensalmente nas horas cheias (kWh);\n\nEV - energia fornecida mensalmente nas horas de vazio (kWh).\n\n6 - Os preços de combustível CC1 e CC2 referidos no n.º 4 são fixados, para cada semestre, por ilha, por despacho do membro do Governo Regional com competência na área da energia.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082892": {
+   "fragment_id": "979215984",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de preços especial",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 12.º — Regime de preços especial\n\n1 - O preço de venda da energia eléctrica produzida nos centros electroprodutores referidos na alínea a) do n.º 1 do artigo 3.º, para além do limite fixado ao abrigo do disposto no artigo 12.º do Decreto Legislativo Regional n.º 15/96/A, de 1 de Agosto, e da energia produzida em instalações de cogeração ao concessionário do transporte e distribuição é calculado pelo critério dos custos evitados totais.\n\n2 - A fórmula de cálculo dos custos evitados totais e os respectivos valores são fixados anualmente pela autoridade de regulação e planificação do sector energético.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082893": {
+   "fragment_id": "979215985",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime de preços livres",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 13.º — Regime de preços livres\n\nOs preços da energia eléctrica vendida por produtores não vinculados ao serviço público são fixados livremente entre as partes, com respeito pelas regras da concorrência, nos seguintes casos:\n\na) Venda ao concessionário do transporte e distribuição, na quantidade excedente à obrigação de aquisição por este;\n\nb) Venda da energia produzida nos centros electroprodutores a que se refere a alínea c) do n.º 1 do artigo 3.º ao concessionário do transporte e distribuição;\n\nc) Venda a terceiros, nos termos do regime jurídico do transporte e distribuição de energia eléctrica.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082894": {
+   "fragment_id": "979215986",
+   "type": 11,
+   "heading": "Artigo 14.º — Preço da energia reactiva",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 14.º — Preço da energia reactiva\n\nO preço da energia reactiva em falta fora das horas de vazio e da energia reactiva em excesso nas horas de vazio, nos termos do artigo 22.º, é debitado ao produtor de acordo com as regras previstas no sistema tarifário da rede do concessionário do transporte e distribuição.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082895": {
+   "fragment_id": "979215987",
+   "type": 11,
+   "heading": "Artigo 15.º — Facturação",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 15.º — Facturação\n\n1 - A facturação da energia fornecida pelo produtor é feita mensalmente.\n\n2 - No caso de o produtor não vinculado ao serviço público ser simultaneamente consumidor, a facturação da energia fornecida e da adquirida deve ser independente.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082896": {
+   "fragment_id": "979215988",
+   "type": 1,
+   "heading": "Capítulo III — Requisitos técnicos e de segurança",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "### Capítulo III — Requisitos técnicos e de segurança\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082897": {
+   "fragment_id": "979215989",
+   "type": 8,
+   "heading": "Secção I — Condições técnicas gerais",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção I — Condições técnicas gerais\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082898": {
+   "fragment_id": "979215990",
+   "type": 11,
+   "heading": "Artigo 16.º — Princípio geral",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 16.º — Princípio geral\n\nO produtor de energia eléctrica não vinculado ao serviço público está sujeito ao cumprimento de todas as disposições legais e normas técnicas relativas ao exercício da sua actividade, nomeadamente as previstas nos artigos seguintes.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082899": {
+   "fragment_id": "979215991",
+   "type": 11,
+   "heading": "Artigo 17.º — Seguro de responsabilidade civil",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 17.º — Seguro de responsabilidade civil\n\nPara garantir as obrigações decorrentes do exercício da sua actividade, o produtor de energia eléctrica não vinculado ao serviço público deve estar coberto por um seguro de responsabilidade civil, de montante a fixar na respectiva licença.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082900": {
+   "fragment_id": "979215992",
+   "type": 11,
+   "heading": "Artigo 18.º — Ligação à rede receptora",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 18.º — Ligação à rede receptora\n\n1 - A ligação do centro electroprodutor à rede receptora é feita por um ramal, cujos encargos de construção são suportados pelo produtor, que fica fazendo parte da rede receptora.\n\n2 - Se o produtor também for consumidor, a ligação dos geradores pode ser feita na rede interna do consumidor, desde que respeitadas as demais condições constantes do presente diploma.\n\n3 - O ramal deve ser estabelecido com secção e outras características que assegurem, em condições técnica e economicamente satisfatórias, a transmissão da potência pelo produtor.\n\n4 - O ponto de interligação é escolhido de comum acordo entre o produtor e o concessionário do transporte e distribuição por forma a corresponder à solução mais económica, respeitando as condições técnicas definidas no presente decreto legislativo regional.\n\n5 - Na falta de acordo, a autoridade de regulação e planificação do sector energético decide a localização do ponto de interligação, ouvidas as partes.\n\n6 - Os encargos com o eventual reforço do ramal, em ordem a permitir a ligação de outros produtores ou consumidores, serão, na totalidade, repartidos entre a entidade proprietária da rede receptora, os novos produtores e os consumidores, nos termos da legislação aplicável.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082901": {
+   "fragment_id": "979215993",
+   "type": 11,
+   "heading": "Artigo 19.º — Limites de potência",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 19.º — Limites de potência\n\n1 - A potência de cada gerador assíncrono ligado a uma rede de média ou de alta tensão não pode exceder os valores fixados, por ilha, por despacho do membro do Governo Regional com competência na área da energia.\n\n2 - A potência aparente do centro electroprodutor não pode exceder 10% da potência de curto-circuito mínima no ponto de interligação, para evitar excessivas perturbações de tensão na rede.\n\n3 - A ligação a redes de média ou de alta tensão é sempre feita através de transformadores em que um dos enrolamentos esteja ligado em triângulo.\n\n4 - O aumento da potência de curto-circuito da rede, devido à interligação com o centro electroprodutor, deve ser compatível com as características do equipamento da rede.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082902": {
+   "fragment_id": "979215994",
+   "type": 11,
+   "heading": "Artigo 20.º — Factor de potência",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 20.º — Factor de potência\n\n1 - O factor de potência da energia mensalmente fornecida por geradores assíncronos durante as horas cheias e de ponta não será inferior a 0,93 indutivo, para o que o produtor instalará as baterias de condensadores que forem necessárias.\n\n2 - Para efeitos do disposto no número anterior, factor de potência indutivo significa que o gerador assíncrono está a absorver energia reactiva à rede.\n\n3 - Os geradores síncronos poderão manter um factor de potência entre 0,8 indutivo e 0,8 capacitivo perante variações na tensão da rede receptora dentro dos limites previstos na concessão do transporte e distribuição.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082903": {
+   "fragment_id": "979215995",
+   "type": 11,
+   "heading": "Artigo 21.º — Distorção harmónica",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 21.º — Distorção harmónica\n\n1 - A tensão gerada nos centros electroprodutores será praticamente sinusoidal, de modo a evitar os efeitos prejudiciais nos equipamentos instalados pelos consumidores.\n\n2 - Cabe ao concessionário do transporte e distribuição identificar as causas de distorção harmónica, quando esta se revelar prejudicial para os consumidores, e propor disposições que reduzam a distorção a níveis aceitáveis, podendo consistir em processos de redução da injecção harmónica ou na utilização de filtragem adequada.\n\n3 - Os encargos decorrentes do disposto nos números anteriores são suportados pelo produtor titular do centro electroprodutor que for causador da distorção excessiva.\n\n4 - Os produtores ficam sujeitos às disposições em vigor sobre a qualidade de serviço de redes eléctricas.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082904": {
+   "fragment_id": "979215996",
+   "type": 11,
+   "heading": "Artigo 22.º — Energia reactiva",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 22.º — Energia reactiva\n\n1 - O produtor deve, nos períodos fora do vazio, fazer acompanhar o fornecimento de energia activa de uma quantidade de energia reactiva correspondente, no mínimo, a 40% da energia activa fornecida.\n\n2 - O produtor não deve, nos períodos do vazio, fornecer energia reactiva à rede receptora.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082905": {
+   "fragment_id": "979215997",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime de neutro",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 23.º — Regime de neutro\n\n1 - O regime de neutro no centro electroprodutor deve estar de acordo com o que se praticar na rede receptora.\n\n2 - No caso de interligação com rede de baixa tensão, o neutro dos geradores será ligado ao neutro da rede de baixa tensão.\n\n3 - O dispositivo que interrompe a ligação entre o centro electroprodutor e a rede receptora deve interromper também a ligação do neutro.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082906": {
+   "fragment_id": "979215998",
+   "type": 11,
+   "heading": "Artigo 24.º — Protecções",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 24.º — Protecções\n\n1 - Os centros electroprodutores devem estar equipados com protecções que assegurem a sua rápida desligação quando ocorrem defeitos.\n\n2 - Se os centros electroprodutores estiverem ligados a redes em que se pratique o reengate automático, devem ser equipados com meios de desligação coordenados com os equipamentos de reengate da rede receptora.\n\n3 - Os centros electroprodutores devem ser equipados com protecções que os desliguem automaticamente da rede quando esta é desligada da rede primária, de modo a serem efectuadas com segurança as operações de inspecção, manutenção e reparação.\n\n4 - A religação do centro electroprodutor, depois de desligado pelas protecções referidas no número anterior, só pode ser feita:\n\na) Três minutos depois da reposição do serviço;\n\nb) Depois de a tensão da rede ter atingido, pelo menos, 80% do seu valor normal;\n\nc) Com intervalos de quinze segundos entre as religações dos diferentes geradores.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082907": {
+   "fragment_id": "979215999",
+   "type": 11,
+   "heading": "Artigo 25.º — Exploração",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 25.º — Exploração\n\n1 - A exploração do centro electroprodutor é conduzida manual ou automaticamente, de modo a não perturbar o funcionamento normal da rede pública que recebe energia.\n\n2 - As operações de exploração, manutenção e reparação no ramal de interligação são efectuadas pelo concessionário do transporte e distribuição, o qual, se necessário e em qualquer momento, tem acesso a esse ramal e ao órgão de manobra que permite desligar o sistema de produção da rede receptora.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082908": {
+   "fragment_id": "979216000",
+   "type": 8,
+   "heading": "Secção II — Condições técnicas especiais",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção II — Condições técnicas especiais\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082909": {
+   "fragment_id": "979216001",
+   "type": 11,
+   "heading": "Artigo 26.º — Ligação de geradores assíncronos",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 26.º — Ligação de geradores assíncronos\n\n1 - A queda transitória da tensão na rede pública, devida à ligação de geradores assíncronos, não deve ser superior a:\n\na) 5%, no caso de centrais hidroeléctricas ou termoeléctricas;\n\nb) 2%, no caso de aerogeradores.\n\n2 - Para limitar as quedas de tensão transitória aos valores indicados no número anterior, podem ser usados equipamentos auxiliares adequados.\n\n3 - O número de operações de ligação de cada aerogerador à rede não pode exceder uma em cada dez minutos.\n\n4 - A ligação de um gerador assíncrono à rede é feita depois de atingidos 90% da velocidade síncrona no caso da potência do gerador não exceder 100 kVA.\n\n5 - Para potências superiores a 100 kVA, a ligação só pode ser feita depois de atingidos 95% da velocidade síncrona.\n\n6 - Para evitar a auto-excitação dos geradores assíncronos quando faltar a tensão na rede receptora, devem ser instalados dispositivos que, neste caso, desliguem automaticamente os condensadores.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082910": {
+   "fragment_id": "979216002",
+   "type": 11,
+   "heading": "Artigo 27.º — Ligação de geradores síncronos",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 27.º — Ligação de geradores síncronos\n\n1 - A ligação de geradores síncronos só pode ser feita quando a tensão, frequência e fase do gerador a ligar estiverem compreendidas entre os limites indicados no anexo ao presente diploma, do qual faz parte integrante.\n\n2 - Os geradores síncronos de potência não superior a 500 kVA podem ser ligados como assíncronos desde que respeitadas as limitações previstas no n.º 2 do artigo 3.º, bem como no n.º 1 do artigo 19.º, e desde que a duração da marcha assíncrona não exceda dois segundos.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082911": {
+   "fragment_id": "979216003",
+   "type": 8,
+   "heading": "Secção III — Cogeração",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção III — Cogeração\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082912": {
+   "fragment_id": "979216004",
+   "type": 11,
+   "heading": "Artigo 28.º — Condições de cogeração",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 28.º — Condições de cogeração\n\n1 - Para efeitos do presente diploma, a cogeração deve verificar as seguintes condições, salvo o disposto no artigo seguinte:\n\na) E + 0,5 x T > 0,45 x C, sendo E, T, e C expressos nas mesmas unidades de energia, com o significado seguinte:\n\nE - a energia eléctrica produzida anualmente pelo cogerador, excluindo os consumos nos sistemas auxiliares internos de produção energética;\n\nT - a energia térmica útil consumida anualmente, excluindo os consumos nos sistemas auxiliares internos de produção energética;\n\nC - a energia fornecida pelo combustível consumido anualmente no sistema de cogeração, correspondente ao produto da massa do combustível pelo seu poder calorífico interior;\n\nb) Ter uma potência eléctrica instalada mínima de 250 kVA, quando T/E é igual ou superior a 5.\n\n2 - Sem prejuízo dos restantes limites previstos no presente diploma, a quantidade máxima de energia que pode ser fornecida à rede do concessionário do transporte e distribuição (E(índice er)) é dada pela seguinte expressão:\n\nE(índice er) = [4,5 x(E + T)/(E - 0,5 x T)- 4,5] x E\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082913": {
+   "fragment_id": "979216005",
+   "type": 11,
+   "heading": "Artigo 29.º — Situações excepcionais",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 29.º — Situações excepcionais\n\n1 - A direcção regional com competência na área da energia pode autorizar o produtor a não cumprir as condições previstas no artigo anterior, pelo prazo necessário à regularização da situação, que não pode exceder um ano, quando o incumprimento for causado por motivos não imputáveis ao produtor.\n\n2 - Para efeitos do disposto no número anterior, o produtor deve comunicar à direcção regional, num prazo de 60 dias, o facto que deu origem ao incumprimento, bem como o prazo e medidas previstas para a regularização da situação.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082914": {
+   "fragment_id": "979216006",
+   "type": 8,
+   "heading": "Secção IV — Medida da energia fornecida pelo produtor",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção IV — Medida da energia fornecida pelo produtor\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082915": {
+   "fragment_id": "979216007",
+   "type": 11,
+   "heading": "Artigo 30.º — Equipamentos e regras técnicas de medida",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 30.º — Equipamentos e regras técnicas de medida\n\n1 - As medidas da energia e da potência, para efeitos da facturação da energia fornecida pelo produtor, são feitas por contadores distintos dos usados para a medida da energia eventualmente fornecida ao produtor.\n\n2 - Os transformadores de medida poderão ser comuns às medidas da energia fornecida e da energia recebida.\n\n3 - Os equipamentos e as regras técnicas usados nas medições da energia fornecida pelos produtores são análogos aos usados pela rede do concessionário do transporte e distribuição para a medição da energia fornecida a consumidores.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082916": {
+   "fragment_id": "979216008",
+   "type": 1,
+   "heading": "Capítulo IV — Licenciamento",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "### Capítulo IV — Licenciamento\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082917": {
+   "fragment_id": "979216009",
+   "type": 8,
+   "heading": "Secção I — Procedimento de atribuição da licença de produção de energia eléctrica não vinculada ao serviço público",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção I — Procedimento de atribuição da licença de produção de energia eléctrica não vinculada ao serviço público\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082918": {
+   "fragment_id": "979216010",
+   "type": 11,
+   "heading": "Artigo 31.º — Procedimentos prévios",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 31.º — Procedimentos prévios\n\nAntes de requerer a licença de produção de energia eléctrica não vinculada ao serviço público, o interessado deve:\n\na) Obter o título de utilização de bens do domínio público, no caso de a actividade de produção de energia eléctrica ser exercida mediante o uso ou exploração de bens do domínio público;\n\nb) Celebrar com o concessionário do transporte e distribuição ou, se for o caso, com outros adquirentes o contrato de fornecimento de energia, sem prejuízo de, neste caso, o produtor poder celebrar novos contratos posteriormente.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082919": {
+   "fragment_id": "979216011",
+   "type": 11,
+   "heading": "Artigo 32.º — Iniciativa",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 32.º — Iniciativa\n\n1 - O procedimento de atribuição da licença de produção de energia não vinculada ao serviço público inicia-se com a apresentação, pelo interessado, de um requerimento ao membro do Governo Regional com competência na área da energia.\n\n2 - O requerimento deve ser instruído com os seguintes elementos:\n\na) Identificação completa do requerente;\n\nb) Indicação do local onde vai ser instalado o centro electroprodutor;\n\nc) Memória descritiva e justificativa com as características do centro electroprodutor, nomeadamente a potência a instalar, combustível a utilizar e tipo de gerador (síncrono ou assíncrono);\n\nd) Planta topográfica à escala de 1:25000, com a localização do centro electroprodutor e das principais obras necessárias;\n\ne) Contrato de fornecimento de energia;\n\nf) Ponto de ligação;\n\ng) Estudo económico;\n\nh) Declaração assumindo o compromisso de que, no exercício da actividade, cumprirá todas as disposições e regulamentos aplicáveis;\n\ni) Título de utilização do domínio público, se for o caso.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082920": {
+   "fragment_id": "979216012",
+   "type": 11,
+   "heading": "Artigo 33.º — Instrução",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 33.º — Instrução\n\n1 - A instrução é dirigida pela direcção regional com competência na área da energia, que deve obter os pareceres que considerar necessários à apreciação do pedido.\n\n2 - O parecer da autoridade de regulação e planificação do sector energético é obrigatório.\n\n3 - A instrução deve estar concluída no prazo de 45 dias.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082921": {
+   "fragment_id": "979216013",
+   "type": 11,
+   "heading": "Artigo 34.º — Indeferimento do pedido",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 34.º — Indeferimento do pedido\n\nConstituem fundamentos para indeferir o pedido de atribuição da licença:\n\na) O centro electroprodutor, com ligação prevista à rede do concessionário do transporte e distribuição, dispor de geradores assíncronos que, por si ou juntamente com os instalados com ligação àquela rede, excedam o limite de potência fixado nos termos do n.º 2 do artigo 3.º;\n\nb) O centro electroprodutor a instalar utilizar exclusiva ou predominantemente combustíveis petrolíferos sem que preencha qualquer das condições previstas no artigo 2.º do Decreto-Lei n.º 359/90, de 14 de Novembro;\n\nc) Não cumprimento dos requisitos de natureza ambiental previstos na lei;\n\nd) As características do centro electroprodutor contrariarem os objectivos de política energética definidos pelo Governo da Região Autónoma dos Açores.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082922": {
+   "fragment_id": "979216014",
+   "type": 11,
+   "heading": "Artigo 35.º — Licença",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 35.º — Licença\n\n1 - A licença de produção de energia eléctrica não vinculada ao serviço público deve conter, nomeadamente, os seguintes elementos:\n\na) Identificação do titular;\n\nb) Prazo;\n\nc) Identificação, localização e características técnicas do centro electroprodutor;\n\nd) Identificação das obras a estabelecer e das condições de ligação à rede receptora;\n\ne) Direitos e obrigações do titular;\n\nf) Prazo para a apresentação dos projectos e para a realização das obras;\n\ng) Valor do seguro de responsabilidade civil.\n\n2 - A licença de produção de energia eléctrica não vinculada ao serviço público é atribuída por cada centro electroprodutor.\n\n3 - A licença fica sujeita à condição de atribuição de licença prévia de estabelecimento, nos termos do Regulamento de Licenças para Instalações Eléctricas, pelo director regional com competência na área da energia.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082923": {
+   "fragment_id": "979216015",
+   "type": 11,
+   "heading": "Artigo 36.º — Título",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 36.º — Título\n\n1 - O título da licença de produção de energia eléctrica não vinculada ao serviço público é emitido após a verificação da condição prevista no n.º 3 do artigo anterior.\n\n2 - A direcção regional com competência na área da energia deve promover a publicação, no Jornal Oficial da Região Autónoma dos Açores, de um extracto com os elementos essenciais da licença.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082924": {
+   "fragment_id": "979216016",
+   "type": 11,
+   "heading": "Artigo 37.º — Prazo",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 37.º — Prazo\n\n1 - O prazo da licença é fixado atendendo, nomeadamente, às características do centro electroprodutor, à fonte de energia primária utilizada e ao período de vida útil previsto.\n\n2 - O prazo da licença não deverá ser inferior ao da amortização do equipamento principal, de acordo com o estudo económico apresentado.\n\n3 - O prazo da licença pode ser prorrogado, seguindo-se, com as necessárias adaptações, o procedimento previsto para a atribuição da licença.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082925": {
+   "fragment_id": "979216017",
+   "type": 11,
+   "heading": "Artigo 38.º — Transmissão",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 38.º — Transmissão\n\n1 - A transmissão da licença pode ser autorizada desde que se mantenham os pressupostos que determinaram a sua atribuição.\n\n2 - O produtor transmissário deve requerer, no prazo de 30 dias, contados da data da notificação da autorização de transmissão da licença, o averbamento em seu nome das instalações eléctricas, na direcção regional com competência na área da energia.\n\n3 - O transmissário fica sujeito aos mesmos deveres, obrigações e encargos do transmitente.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082926": {
+   "fragment_id": "979216018",
+   "type": 11,
+   "heading": "Artigo 39.º — Caducidade",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 39.º — Caducidade\n\nA licença caduca por:\n\na) Decurso do prazo;\n\nb) Extinção do título de utilização do domínio público;\n\nc) Não conclusão das obras dentro dos prazos fixados.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082927": {
+   "fragment_id": "979216019",
+   "type": 11,
+   "heading": "Artigo 40.º — Revogação",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 40.º — Revogação\n\n1 - A licença pode ser revogada quando o seu titular faltar culposamente ao cumprimento dos deveres relativos ao exercício da actividade, nomeadamente:\n\na) Não cumprir, sem motivo justificado, as determinações impostas pela fiscalização técnica;\n\nb) Violar reiteradamente o cumprimento das disposições legais ou normas técnicas aplicáveis ao exercício da actividade;\n\nc) Não constituir ou não manter actualizado o seguro de responsabilidade civil previsto no artigo 17.º;\n\nd) Abandonar as instalações afectas à produção de energia eléctrica ou interromper a actividade licenciada, por razões não fundamentadas, por período superior a um ano.\n\n2 - A licença é ainda revogada a pedido do respectivo titular.\n\n3 - A autoridade de regulação e planificação do sector energético e a direcção regional com competência na área da energia podem propor ao membro do Governo Regional competente na área da energia a revogação da licença.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082928": {
+   "fragment_id": "979216020",
+   "type": 8,
+   "heading": "Secção II — Licenciamento técnico",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "#### Secção II — Licenciamento técnico\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082929": {
+   "fragment_id": "979216021",
+   "type": 11,
+   "heading": "Artigo 41.º — Elaboração do projecto",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 41.º — Elaboração do projecto\n\n1 - O interessado na instalação de um centro electroprodutor pode solicitar ao concessionário do transporte e distribuição as informações necessárias para a elaboração do projecto, designadamente as relativas a:\n\na) Ponto de interligação;\n\nb) Tensão nominal no ponto de interligação e banda de regulação da tensão nesse ponto;\n\nc) Potência de curto-circuito, máxima e mínima, no ponto de interligação;\n\nd) Regime de neutro;\n\ne) Dispositivos de reengate automático eventualmente existentes.\n\n2 - A solicitação das informações referidas no número anterior deve ser acompanhada por uma descrição sumária do projecto do centro electroprodutor, incluindo o local ou locais previsíveis de implantação, o número, potência e tipo de geradores, bem como os dados necessários para serem calculadas as potências de curto-circuito previsíveis.\n\n3 - O concessionário do transporte e distribuição dispõe de 30 dias para fornecer as informações, findos os quais, caso não tenham sido fornecidas, o interessado pode solicitar à autoridade de regulação e planificação do sector energético que determine o envio das informações solicitadas.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082930": {
+   "fragment_id": "979216022",
+   "type": 11,
+   "heading": "Artigo 42.º — Licença de estabelecimento",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 42.º — Licença de estabelecimento\n\n1 - O interessado deve requerer a licença de estabelecimento, nos termos do Regulamento de Licenças para Instalações Eléctricas, no prazo fixado na licença de produção de energia eléctrica não vinculada ao serviço público.\n\n2 - A instalação do centro electroprodutor inicia-se após a atribuição da licença de estabelecimento pelo director regional com competência na área da energia.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082931": {
+   "fragment_id": "979216023",
+   "type": 11,
+   "heading": "Artigo 43.º — Vistoria",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 43.º — Vistoria\n\nLogo que esteja determinado o dia em que pode iniciar a produção de energia eléctrica, o produtor deve requerer à direcção regional com competência na área da energia a realização da vistoria das instalações, a qual será efectuada no prazo de oito dias.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082932": {
+   "fragment_id": "979216024",
+   "type": 11,
+   "heading": "Artigo 44.º — Licença de exploração",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 44.º — Licença de exploração\n\nA produção de energia eléctrica só pode iniciar-se após a atribuição da licença de exploração, nos termos do Regulamento de Licenças para Instalações Eléctricas.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082933": {
+   "fragment_id": "979216025",
+   "type": 1,
+   "heading": "Capítulo V — Informação, auditorias e fiscalização",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "### Capítulo V — Informação, auditorias e fiscalização\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082934": {
+   "fragment_id": "979216026",
+   "type": 11,
+   "heading": "Artigo 45.º — Prestação de informação",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 45.º — Prestação de informação\n\n1 - O produtor de energia eléctrica não vinculado ao serviço público deve enviar à autoridade de regulação e planificação do sector energético os seguintes dados informativos relativos ao funcionamento e exploração do centro electroprodutor:\n\na) Quantidade de energia eléctrica produzida;\n\nb) Quantidade de energia eléctrica vendida e adquirida ao concessionário do transporte e distribuição;\n\nc) Quantidade de energia eléctrica vendida a terceiros.\n\n2 - Para verificação do cumprimento do disposto no artigo 28.º, o produtor de energia eléctrica não vinculado ao serviço público, mediante o processo de cogeração, deve ainda remeter os seguintes dados informativos:\n\na) Quantitativos de E, T e C, definidos no n.º 1 do artigo 28.º;\n\nb) Quantidade de energia térmica vendida a terceiros.\n\n3 - Os dados devem ser enviados:\n\na) Até ao final de cada mês, os dados mensais a que se refere o n.º 1 relativos ao penúltimo mês anterior;\n\nb) Até ao final do mês de Março de cada ano, os dados anuais a que se referem os n.os 1 e 2 relativos ao ano civil anterior.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082935": {
+   "fragment_id": "979216027",
+   "type": 11,
+   "heading": "Artigo 46.º — Auditorias",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 46.º — Auditorias\n\nA autoridade de regulação e planificação do sector energético pode efectuar auditorias energéticas para verificar as condições de funcionamento dos centros electroprodutores, por iniciativa própria ou a pedido do concessionário do transporte e distribuição, sendo, neste último caso, os custos respectivos suportados por este.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082936": {
+   "fragment_id": "979216028",
+   "type": 11,
+   "heading": "Artigo 47.º — Fiscalização",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 47.º — Fiscalização\n\n1 - A direcção regional com competência na área da energia fiscaliza o exercício da actividade de produção de energia eléctrica, tendo em vista fazer cumprir as disposições legais, as obrigações decorrentes da licença e as normas técnicas relativas ao exercício da actividade.\n\n2 - No exercício da competência de fiscalização, a direcção regional com competência na área da energia pode determinar, em concreto, a adopção de medidas ou a execução de trabalhos adequados à prevenção da segurança do centro electroprodutor.\n\n3 - O concessionário do transporte e distribuição pode inspeccionar periodicamente as regulações e as protecções dos centros electroprodutores ligados à sua rede.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082937": {
+   "fragment_id": "979216029",
+   "type": 1,
+   "heading": "Capítulo VI — Regime sancionatório",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "### Capítulo VI — Regime sancionatório\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082938": {
+   "fragment_id": "979216030",
+   "type": 11,
+   "heading": "Artigo 48.º — Contra-ordenações",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 48.º — Contra-ordenações\n\n1 - Constituem contra-ordenação os seguintes factos:\n\na) O exercício da actividade de produção de energia eléctrica não vinculada ao serviço público, sem a respectiva licença;\n\nb) O exercício da actividade para além do âmbito estabelecido na respectiva licença;\n\nc) A inobservância das condições estabelecidas na respectiva licença;\n\nd) A produção de energia eléctrica em instalações de cogeração com incumprimento das condições previstas no artigo 28.º, sem que tenha sido concedida autorização nos termos do artigo 29.º;\n\ne) A inobservância das decisões do despacho;\n\nf) A inobservância das regras de relacionamento comercial;\n\ng) A violação das condições de ligação às redes e da respectiva utilização;\n\nh) A utilização de combustível não autorizado, sem prejuízo do disposto no artigo 4.º do Decreto-Lei n.º 359/90, de 14 de Novembro;\n\ni) A não actualização do seguro de responsabilidade civil previsto no artigo 17.º;\n\nj) O não envio à autoridade de regulação e de planificação do sector energético ou à direcção regional com competência na área da energia, da informação requerida no âmbito da competência destas entidades;\n\nl) Não permitir ou dificultar o acesso da fiscalização da direcção regional com competência na área da energia e do concessionário do transporte e distribuição às instalações ou aos documentos respeitantes ao exercício da actividade;\n\nm) O não fornecimento ao interessado, pelo concessionário do transporte e distribuição, dos elementos necessários à elaboração do projecto, previstos no artigo 41.º;\n\nn) A modificação das condições previstas no contrato de fornecimento de energia, sem prévia autorização da direcção regional com competência na área da energia, nos termos do artigo 10.º\n\n2 - As contra-ordenações previstas no número anterior são punidas com as seguintes coimas:\n\na) De 1000000$00 a 6000000$00, no caso da alínea a);\n\nb) De 500000$00 a 5500000$00, no caso das alíneas b), c), d) e n);\n\nc) De 400000$00 a 5000000$00, no caso das alíneas e) e h);\n\nd) De 350000$00 a 4500000$00, no caso das alíneas f), g) e i);\n\ne) De 250000$00 a 4000000$00, no caso das alíneas j), l) e m).\n\n3 - A tentativa e a negligência são puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 244/95, de 14 de Setembro.\n\n4 - No caso de a contra-ordenação ter sido praticada por pessoa singular, o montante mínimo da coima a aplicar é de 250000$00 e o máximo é de 500000$00.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082939": {
+   "fragment_id": "979216031",
+   "type": 11,
+   "heading": "Artigo 49.º — Processos de contra-ordenação e aplicação de coimas",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 49.º — Processos de contra-ordenação e aplicação de coimas\n\n1 - A instrução dos processos por contra-ordenação é feita pela direcção regional com competência na área da energia.\n\n2 - O julgamento das contra-ordenações e a aplicação de coimas compete:\n\na) À autoridade de regulação e planificação do sector energético, no que se refere às contra-ordenações previstas nas alíneas e), f), j), quando a contra-ordenação tenha sido praticada no âmbito da respectiva competência, e m);\n\nb) À direcção regional com competência na área da energia, no que se refere às contra-ordenações previstas nas alíneas a), b), c), d), g), h), i), j), l) e n).\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082940": {
+   "fragment_id": "979216032",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082941": {
+   "fragment_id": "979216033",
+   "type": 11,
+   "heading": "Artigo 50.º — Taxas",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 50.º — Taxas\n\nO montante das taxas devidas pela prática dos actos previstos no presente diploma será fixado por portaria dos membros do Governo Regional com competência nas áreas das finanças e da energia.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082942": {
+   "fragment_id": "979216034",
+   "type": 11,
+   "heading": "Artigo 51.º — Centros electroprodutores existentes",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "###### Artigo 51.º — Centros electroprodutores existentes\n\n1 - São válidas, para todos os efeitos, as autorizações administrativas concedidas para a produção de energia eléctrica, podendo o respectivo titular requerer a conversão de títulos, no caso de estarem reunidas as condições previstas no presente diploma.\n\n2 - A exploração de centros electroprodutores em situação de não funcionamento há mais de cinco anos, a contar da data de entrada em vigor do presente diploma, só pode reiniciar-se após o cumprimento do disposto no presente diploma.\n\n3 - Na fixação do limite de potência a que se refere o n.º 2 do artigo 3.º deve ser tida em conta a potência já instalada.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082943": {
+   "fragment_id": "979216035",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Maio de 1996.\n\nO Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.\n\nAssinado em Angra do Heroísmo em 28 de Agosto de 1996.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  },
+  "1020082944": {
+   "fragment_id": "979216036",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 27.º)",
+   "in_force_from": "2026-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 27.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20"
+  }
+ }
+}

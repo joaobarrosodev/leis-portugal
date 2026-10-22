@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:236691:por
+title: Decreto n.º 46320
+short_title: null
+summary: Cria a Repartição dos Serviços de Educação da província de S. Tomé e Príncipe
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral do Ensino
+proposing_entity: null
+official_number: '46320'
+official_date: null
+publication_date: '1965-04-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 95/1965, Série I de 1965-04-30
+  number: '95'
+  series: I
+  supplement: null
+  pages: 617 - 617
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/04/09500/06170617.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '236691'
+  dre_path: /dr/detalhe/decreto/46320-1965-236691
+  internal: pt:dre:236691:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46320-1965-236691
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46320-1965-236691
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1965-04-30T00:00:00Z'
+integrity:
+  source_sha256: 0ff397aac3498e8fbdbead22b984a8a67e737e7d8b9c768523818a4fcf01abe6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-46320-236691.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46320
+
+No prosseguimento das alterações introduzidas nas actividades do ensino nas províncias ultramarinas pelos Decretos n.os 41472, de 23 de Dezembro de 1957, e 43880, de 25 de Agosto de 1961, vem o presente decreto dar satisfação à exigência que se tem verificado na província de S. Tomé e Príncipe de dotar o ensino com uma repartição provincial dos serviços de educação, que até ao presente têm funcionado em anexo aos serviços de administração civil.
+
+Nestes termos:
+
+Tendo em vista o disposto do artigo 43.º do [Decreto n.º 45373](https://diariodarepublica.pt/dr/detalhe/decreto/45373-1963-611507), de 23 de Novembro de 1963;
+
+Ouvido o Conselho Ultramarino;
+
+Ouvido o Governo da província;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º É criada a Repartição dos Serviços de Educação da província de S. Tomé e Príncipe, que será dirigida por um chefe de serviços provinciais, provido nos termos do § 1.º do artigo 36.º do Estatuto do Funcionalismo Ultramarino e com a categoria correspondente à letra E.
+
+§ único. Quando assim tenha sido proposto pelo governador, justificando conveniência do serviço, podem as funções de chefe de serviços provinciais ser desempenhadas, em acumulação, pelo reitor do liceu ou director da escola técnica da capital da província.
+
+###### Art. 2.º É extinto o actual lugar de adjunto do chefe dos serviços de educação e é criado um de inspector escolar, adjunto do chefe dos serviços, com a categoria correspondente à letra H do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+
+###### Art. 3.º O quadro do pessoal burocrático da repartição provincial terá a seguinte constituição: um aspirante e um dactilógrafo.
+
+§ único. Estes funcionários, assim como os de secretaria dos estabelecimentos de ensino da província, formam o quadro burocrático dos serviços de educação da província.
+
+###### Art. 4.º O actual Conselho de Instrução Pública passa a designar-se Conselho de Educação e destina-se a dar parecer, mediante consulta do Ministro do Ultramar ou do governador, sobre os problemas gerais de educação respeitantes à província.
+
+§ único. Mantém-se o lugar de secretário do Conselho de Instrução Pública, com a designação de secretário do Conselho de Educação.
+
+###### Art. 5.º O pessoal dos actuais serviços transitará para o novo quadro, mediante portarias sujeitas a simples anotação, sendo o do quadro comum colocado pelo Ministro, ouvido o governador, e o do quadro privativo colocado pelo governador.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 30 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António do Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

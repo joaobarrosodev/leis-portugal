@@ -1,0 +1,342 @@
+---
+schema_version: '1.0'
+id: pt:dre:475325:por
+title: Decreto-Lei n.º 101/80
+short_title: null
+summary: Reorganiza a carreira de administração hospitalar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais
+proposing_entity: null
+official_number: 101/80
+official_date: null
+publication_date: '1980-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1980, Série I de 1980-05-08
+  number: '106'
+  series: I
+  supplement: null
+  pages: 901 - 906
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10600/09010906.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1995-02-26'
+version_history:
+  file: decreto-lei-101-80.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1980-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-25'
+    amending: pt:dre:666320:por
+    amending_title: Decreto-Lei n.º 178/87
+    changes:
+    - Altera Artigo 8.º
+  - date: '1995-02-26'
+    amending: pt:dre:187148:por
+    amending_title: Decreto Regulamentar n.º 6/95
+    changes:
+    - Altera Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/101/1980/p/cons/19870420/pt/html
+  oj: null
+  dre: '475325'
+  dre_path: /dr/detalhe/decreto-lei/101-1980-475325
+  internal: pt:dre:475325:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1980-475325
+  metadata_url: https://data.dre.pt/eli/dec-lei/101/1980/p/cons/19870420/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-202357845
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-202357845
+  retrieved_at: '2026-10-22T12:53:11Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 82e7907b5ac7df62d6ca96360226df2c4e2be5f5c8bfc397515531448d94bc4b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:53:11Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-101-80.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administrador Hospitalar
+- Carreira Profissional
+- Gestão Hospitalar
+- Promoção Profissional
+- Remuneração
+- Sistema Retributivo
+relationships:
+- type: amended_by
+  target: pt:dre:666320:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1987-666320
+  date: '1987-04-20'
+- type: amended_by
+  target: pt:dre:187148:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1995-187148
+  date: '1995-02-21'
+article_structure:
+  article_count: 18
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:53:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 101/80
+
+Decreto-Lei n.º 101/80
+
+de 8 de Maio
+
+O Decreto-Lei n.º 129/77, de 2 de Abril, e o Decreto Regulamentar n.º 30/77, de 20 de Maio, definem os princípios e os órgãos de gestão hospitalar. As opções acolhidas nesses diplomas traduzem-se, inequivocamente, por uma linha de muito maior autonomia dos hospitais, em coerência, aliás, com a sua natureza de estabelecimentos prestadores de cuidados de saúde. Sendo a responsabilidade dos órgãos de gestão a contrapartida necessária da autonomia, os objectivos já enunciados nos diplomas citados não poderão atingir-se sem a reformulação da carreira de administração hospitalar, dada a participação que aos profissionais nela integrados é pedida, quer na fase de preparação, quer na da tomada da decisão.
+
+Na reformulação desta carreira não podem deixar de ponderar-se vários aspectos, que conferem aos hospitais e à carreira características próprias no conjunto dos serviços e estabelecimentos sobre os quais o Estado detém responsabilidades. Entre eles, e para além da já referida autonomia administrativa e financeira, destacam-se os seguintes:
+
+Os hospitais, como unidades prestadoras de cuidados diferenciados, têm enorme relevância social, para a qual a comunidade tem especial e espontânea sensibilidade e a cujo rendimento e eficiência não devem ser regateados os meios necessários;
+
+Como sucede em todo o mundo, os cuidados diferenciados são os mais caros entre os cuidados de saúde; os hospitais exigem orçamentos anuais volumosos, em vários casos acima do milhão de contos, dada a quantidade e diversidade dos meios que lhes são indispensáveis para funcionar correctamente. Os custos resultantes são ainda agravados pela vetustez, muitas vezes precoce, dos equipamentos em função do ritmo da inovação tecnológica, facto que tem de ser acompanhado de um esforço constante de formação e actualização do pessoal;
+
+Também pelo que respeita ao número de trabalhadores que utilizam, os hospitais se caracterizam como estabelecimentos de grande dimensão; e não só em função do número, mas também da enorme diversidade de profissões, muitas delas de elevada especialização, a que se faz apelo.
+
+Imperiosidade de elevado rendimento e eficiência, pesadíssimos custos de funcionamento, multiplicidade e diversidade de profissionais utilizados são, pois, factores que afirmam com evidência a necessidade de um esforço intenso de organização dos hospitais e que mostram como seria contraproducente retardar as soluções consideradas adequadas a uma carreira profissional tão estreitamente ligada à condução e ao êxito desse esforço inadiável.
+
+Por outro lado, há que reconhecer a quase singularidade, no panorama do sector público tradicional, das funções de gestão a vários níveis exercidas pelos profissionais de administração hospitalar, cujas dificuldades são potenciadas pela complexidade, sensibilidade e mutabilidade do hospital.
+
+Finalmente, realce-se ainda a obrigatoriedade de uma formação específica complementar e selectiva em termos de pós-graduação, que não é comum em termos de função pública.
+
+Nestes termos, verificando-se não ser possível aplicar à carreira de administração hospitalar o Decreto-Lei n.º 191-F/79, de 26 de Junho, considerando as anomalias que tal facto ocasiona nas estruturas hospitalares, com manifesto reflexo no funcionamento dos serviços, atentas as distorções resultantes, tendo em conta não ser possível prolongar a actual situação:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Objecto)
+
+1 - A carreira de administração hospitalar passa a reger-se pelas disposições do presente diploma.
+
+2 - Com a entrada em vigor do presente decreto-lei cessa o período transitório a que se refere o artigo 2.º do Decreto-Lei n.º 499/70, de 24 de Outubro, regulamentado pelo Decreto n.º 376/75, de 17 de Julho.
+
+###### Artigo 2.º — (Quadro da carreira de administração hospitalar)
+
+A carreira de administração hospitalar, que compreenderá os respectivos profissionais, independentemente dos estabelecimentos hospitalares e serviços dependentes do Ministério dos Assuntos Sociais onde desempenhem funções, é gerida pelo Departamento de Recursos Humanos da Administração Central de Saúde, adiante designada abreviadamente por Departamento de Recursos Humanos, em cujos quadros serão incluídas as necessárias dotações.
+
+###### Artigo 3.º — (Aprovação e alterações do quadro)
+
+1 - O quadro a que se refere o artigo 2.º será dotado globalmente para o conjunto de categorias que integram a carreira e será objecto de portaria conjunta do Vice-Primeiro-Ministro e dos Ministros das Finanças e do Plano e dos Assuntos Sociais, a publicar nos trinta dias subsequentes à entrada em vigor deste diploma.
+
+2 - Compete ao Departamento de Recursos Humanos, ouvida a Direcção-Geral dos Hospitais, propor anualmente a revisão dos efectivos previstos no quadro, por forma que corresponda permanentemente às necessidades de funcionamento dos organismos e serviços a que se destina.
+
+3 - A revisão do quadro de pessoal será feita mediante portaria conjunta dos membros do Governo mencionados no n.º 1 deste artigo.
+
+###### Artigo 4.º — (Graus da carreira de administração hospitalar)
+
+A carreira de administração hospitalar tem quatro graus, aos quais correspondem as letras de vencimento constantes da tabela I anexa a este diploma.
+
+###### Artigo 5.º — (Habilitações para ingresso)
+
+1 - O ingresso na carreira de administração hospitalar fica reservado a licenciados que tenham obtido diploma em Administração Hospitalar pela Escola Nacional de Saúde Pública.
+
+2 - Aos titulares de diploma de Administração Hospitalar obtidos em escolas estrangeiras poderá ser concedida equiparação, para efeitos de ingresso na carreira, por despacho do Ministro dos Assuntos Sociais, sob proposta do Departamento de Recursos Humanos, mediante parecer favorável, devidamente fundamentado, da Escola Nacional de Saúde Pública.
+
+###### Artigo 6.º — (Ingresso no quadro)
+
+1 - O ingresso no quadro faz-se pela categoria de administrador do 4.º grau, mediante concurso documental a abrir anualmente pelo Departamento de Recursos Humanos entre os candidatos que reúnam as condições exigidas no artigo anterior.
+
+2 - Do aviso de abertura do concurso constará indicação expressa do local de exercício das funções.
+
+3 - Os candidatos serão graduados segundo a sua classificação no curso de Administração Hospitalar.
+
+4 - Em caso de igualdade, o júri ponderará outros elementos curriculares, de acordo com critérios definidos em despacho normativo pelo Ministro dos Assuntos Sociais.
+
+###### Artigo 7.º — (Nomeação provisória e definitiva)
+
+1 - A nomeação no lugar de administrador do 4.º grau será provisória durante o período de um ano.
+
+2 - A nomeação provisória será convertida em definitiva quando o candidato satisfaça, cumulativamente, as seguintes condições:
+
+a) Haja revelado aptidão para as funções a que se destina, cabendo à comissão a que se refere o artigo 9.º avaliar a actividade profissional desenvolvida, após audição do administrador do hospital onde prestou serviço durante o período de nomeação provisória;
+
+b) Tenha tomado posse de cargo referido na tabela II anexa ao presente decreto-lei, a que se habilite através do respectivo concurso.
+
+3 - Se o candidato não revelar aptidão para o lugar, nos termos do número anterior, ser-lhe-ão confiadas funções técnicas no âmbito do Ministério dos Assuntos Sociais até que transite para a carreira técnica superior em qualquer quadro da Administração Pública.
+
+4 - Os funcionários que possuam provimento definitivo em lugares da Administração Pública, quando providos como administradores do 4.º grau, ficam em comissão de serviço, por um ano, contando o tempo de serviço, para todos os efeitos legais, como prestado no lugar de origem.
+
+5 - Nos casos previstos no número anterior, os funcionários são providos definitivamente como administradores hospitalares do 4.º grau quando satisfaçam os requisitos das alíneas a) e b) do n.º 2, ou regressarão aos lugares de origem se ocorrer a situação a que se refere o n.º 3 deste artigo.
+
+6 - Aos administradores hospitalares do 4.º grau que tenham obtido avaliação positiva, mas que, por motivo que lhes não seja imputável, não preencham os requisitos exigidos pela alínea b) do n.º 2, serão confiadas funções pelo Departamento de Recursos Humanos.
+
+7 - Durante o período de nomeação provisória, os administradores do 4.º grau exercerão as funções de administrador de 3.ª classe constantes da tabela II, sob tutela de administradores em exercício nos hospitais que o Departamento de Recursos Humanos tenha designado para o efeito.
+
+###### Artigo 8.º — (Acesso na carreira)
+
+1 - O acesso a administrador de 3.º grau fica dependente da verificação cumulativa dos seguintes requisitos:
+
+a) Três anos como administrador do 4.º grau;
+
+b) Avaliação positiva pela comissão de avaliação, nos termos previstos nos artigos 9.º e 10.º
+
+2 - O acesso a administrador de 2.º grau fica dependente da verificação cumulativa dos seguintes requisitos:
+
+a) Três anos na categoria de administrador do 3.º grau;
+
+b) Desempenho durante três anos de funções de administrador de 2.ª classe previstas na tabela II anexa a este decreto-lei;
+
+c) Avaliação positiva pela comissão de avaliação, nos termos previstos nos artigos 9.º e 10.º
+
+3 - O acesso a administrador do 1.º grau fica dependente da verificação cumulativa dos seguintes requisitos:
+
+a) Três anos na categoria de administrador do 2.º grau;
+
+b) Desempenho durante três anos de funções de administrador de 1.ª classe previstas na tabela II anexa a este decreto-lei;
+
+c) Avaliação positiva pela comissão de avaliação, nos termos previstos nos artigos 9.º e 10.º;
+
+d) Apresentação e discussão de trabalho preparado para o efeito, o qual será considerado na avaliação a que se refere a alínea anterior.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - A atribuição dos graus será feita por despacho do Ministro dos Assuntos Sociais, publicado no Diário da República, com efeitos a partir da data em que se verificaram as condições referidas na alínea b) do n.º 2 do artigo 7.º e nas alíneas a) do n.º 1 do artigo 8.º e b) dos n.os 2 e 3 do mesmo artigo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 178/87 - Diário da República n.º 91/1987, Série I de 1987-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1987-666320), em vigor a partir de 1987-04-25
+
+###### Artigo 9.º — (Comissão de avaliação)
+
+1 - A avaliação dos administradores hospitalares para efeitos de conversão da nomeação provisória em definitiva e de atribuição dos graus será feita periodicamente por uma comissão de avaliação.
+
+2 - A comissão de avaliação funcionará junto do Departamento de Recursos Humanos e será constituída por três administradores hospitalares do 1.º grau, nomeados pelo Ministro dos Assuntos Sociais.
+
+3 - A primeira comissão de avaliação será nomeada no prazo de trinta dias contados a partir da data da entrada em vigor deste diploma.
+
+4 - O mandato dos membros da comissão terá a duração de um ano, não podendo ser renovado em períodos sucessivos.
+
+###### Artigo 10.º — (Princípios de avaliação)
+
+1 - Os resultados da avaliação traduzem-se em classificação positiva ou negativa, devendo esta ser sempre fundamentada.
+
+2 - Os critérios de avaliação deverão ser objectivos e considerar a globalidade do exercício profissional e os condicionalismos em que se desenvolve.
+
+3 - Compete à primeira comissão nomeada após a publicação deste diploma propor, no prazo de noventa dias, contados a partir da data da sua nomeação, os critérios de avaliação, que serão aprovados em portaria conjunta do Vice-Primeiro-Ministro e do Ministro dos Assuntos Sociais.
+
+4 - Os mecanismos de avaliação processar-se-ão de acordo com a lei geral.
+
+###### Artigo 11.º — (Lugares em estabelecimentos hospitalares)
+
+1 - Os grupos e centros hospitalares, hospitais centrais e distritais, hospitais especializados e centros de reabilitação dependentes da Secretaria de Estado da Saúde disporão, nos respectivos quadros ou mapas de pessoal, dos lugares de administração mencionados na tabela II anexa ao presente decreto-lei.
+
+2 - As remunerações dos lugares de administrador-geral, administrador de 1.ª classe, administrador de 2.ª classe e administrador de 3.ª classe previstas na tabela II serão as constantes da tabela III anexa ao presente diploma.
+
+3 - As remunerações referidas no número anterior acompanharão, na mesma proporção, as actualizações decorrentes da aplicação do n.º 2 do artigo 6.º do Decreto-Lei n.º 191-F/79, de 26 de Junho.
+
+###### Artigo 12.º — (Subsídio de fixação)
+
+Nas situações em que o interesse do Estado o justifique, poderão ser atribuídos subsídios de fixação aos administradores hospitalares, mediante despacho conjunto do Vice-Primeiro-Ministro e dos Ministros das Finanças e do Plano e dos Assuntos Sociais, ouvida a Comissão Interministerial para as Remunerações Acessórias.
+
+###### Artigo 13.º — (Concurso para os lugares da tabela II)
+
+1 - A nomeação dos administradores para os lugares previstos na tabela II será feita por despacho do Ministro dos Assuntos Sociais, mediante concurso documental aberto anualmente, ou, sempre que necessário, pelo Departamento de Recursos Humanos, sendo os candidatos graduados de acordo com melhores elementos curriculares, segundo critérios definidos em despacho normativo do Ministro dos Assuntos Sociais publicado no prazo de sessenta dias a contar da data da entrada em vigor deste diploma.
+
+2 - É condição de provimento de cada um dos lugares previstos na tabela II a titularidade do grau que lhe corresponda na tabela IV anexa a este diploma, podendo, no entanto, ser providos titulares do grau imediatamente inferior, desde que não haja candidatos habilitados com o grau respectivo.
+
+3 - Os lugares constantes da tabela II são exercidos em regime de comissão de serviço, nos termos do n.º 2 do artigo 4.º do Decreto-Lei n.º 191-F/79, de 26 de Junho.
+
+###### Artigo 14.º — (Aplicação do regime do Decreto-Lei n.º 191-F/79, de 26 de Junho, e suas adaptações)
+
+1 - Aplica-se à carreira de administração hospitalar o disposto nos artigos 5.º, 7.º, 8.º e 9.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, com as adaptações dela decorrentes.
+
+2 - Compete ao Departamento de Recursos Humanos prestar a informação a que se refere o n.º 5 do artigo 4.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, sob parecer da comissão de avaliação.
+
+3 - A cessação da comissão de serviço deverá ser fundamentada e dela deverá ser dado conhecimento ao interessado.
+
+4 - Poderá, no entanto, a comissão de serviço ser dada por finda durante a sua vigência:
+
+a) Pela nomeação para outro cargo ou função, desde que tenha decorrido um ano sobre o início da comissão de serviço que estiver a cumprir;
+
+b) A requerimento do interessado, devidamente fundamentado;
+
+c) A todo o tempo, por despacho do Ministro dos Assuntos Sociais, na sequência de procedimento disciplinar em que se tenha concluído por pena superior a multa.
+
+5 - A não renovação da comissão de serviço decorrente da informação prevista no n.º 2 deste artigo não impede o profissional de concorrer a vaga existente noutro estabelecimento.
+
+6 - A sucessão de informações negativas deverá, no entanto, ser objecto de apreciação da comissão de avaliação, que poderá propor ao Ministro dos Assuntos Sociais, através do Departamento de Recursos Humanos, e com prévia audiência do interessado, o seu afastamento transitório ou definitivo do exercício das funções previstas na tabela II.
+
+7 - Às deliberações da comissão referidas nos n.os 5 e 6 deste artigo aplica-se o estabelecido no artigo 10.º deste diploma.
+
+8 - Sem prejuízo do disposto no n.º 2 do artigo 5.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, as substituições observarão os requisitos previstos neste diploma para nomeação em lugares da tabela II.
+
+###### Artigo 15.º — (Disposições transitórias)
+
+1 - Os administradores que à data da entrada em vigor deste diploma estejam em exercício efectivo de funções de administração hospitalar mantêm as suas actuais colocações, com as novas categorias, até serem redistribuídos de acordo com a graduação reconhecida e com a disponibilidade de correspondentes lugares.
+
+2 - Os diplomados em Administração Hospitalar que já tenham exercido funções de administrador hospitalar e que não se encontrem integrados no quadro poderão requerer a todo o tempo a sua nomeação para esse quadro, no grau correspondente àquele de que forem titulares, desde que, existindo vaga, se comprometam a candidatar-se ao primeiro concurso aberto nos termos do artigo 13.º para o cargo adequado ao seu grau e a exercer as respectivas funções.
+
+3 - Os diplomados em Administração Hospitalar que à data da entrada em vigor deste diploma nunca tenham exercido funções na carreira só poderão ser distribuídos no quadro desde que se habilitem ao primeiro concurso anual aberto nos termos do artigo 13.º, sejam classificados e declarem por escrito que aceitam a colocação que lhes for atribuída.
+
+4 - Os administradores que à data da entrada em vigor deste diploma se encontrem a exercer funções em comissão de serviço, ocupando lugares a que se aplique o disposto no n.º 4 do artigo 8.º, poderão ser distribuídos, a requerimento seu, em lugares do quadro correspondentes ao grau que nessa data lhes estiver atribuído, mantendo a comissão de serviço.
+
+###### Artigo 16.º — (Competência do Departamento de Recursos Humanos para execução do diploma)
+
+1 - Para execução deste diploma compete ao Departamento de Recursos Humanos:
+
+a) Elaborar e actualizar permanentemente o cadastro dos profissionais integrados na carreira;
+
+b) Efectuar levantamento das necessidades do País em administradores hospitalares, em colaboração com a Escola Nacional de Saúde Pública e os demais serviços do Ministério dos Assuntos Sociais interessados.
+
+2 - O Departamento de Recursos Humanos promoverá as alterações ao seu quadro de pessoal de forma a assegurar as tarefas decorrentes do presente diploma.
+
+###### Artigo 17.º — (Situações excepcionais)
+
+Aos demais administradores do quadro que, por qualquer motivo, se não encontram colocados em lugares previstos na tabela II serão distribuídas funções no âmbito do Ministério dos Assuntos Sociais.
+
+###### Artigo 18.º — (Dúvidas)
+
+As dúvidas suscitadas por este diploma serão resolvidas por despacho do Vice-Primeiro-Ministro e do Ministro dos Assuntos Sociais, consoante a sua natureza.
+
+Visto e aprovado em Conselho de Ministros de 27 de Março de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 29 de Abril de 1980.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+## Anexo — Da TABELA I à TABELA IV
+
+(ver documento original)
+
+> Nota: [Decreto Regulamentar n.º 6/95 - Diário da República n.º 44/1995, Série I-B de 1995-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1995-187148) determina a estrutura indiciária da carreira de administração hospitalar, procedendo à reconversão do sistema remuneratório, a que se reporta a tabela I, com efeitos desde 01.10.1989.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 6/95 - Diário da República n.º 44/1995, Série I-B de 1995-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1995-187148), em vigor a partir de 1995-02-26, produz efeitos a partir de 1989-10-01

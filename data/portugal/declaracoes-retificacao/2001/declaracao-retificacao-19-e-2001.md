@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:392436:por
+title: Declaração de Rectificação n.º 19-E/2001
+short_title: null
+summary: De ter sido rectificada a Portaria n.º 1143/2001, dos Ministérios da Agricultura, do Desenvolvimento Rural e das
+  Pescas e da Cultura, que aprova o Regulamento Arquivístico da Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento
+  Rural e das Pescas no que se refere à avaliação, selecção e eliminação da sua documentação, publicada no Diário da República,
+  1.ª série, n.º 225, de 27 de Setembro de 2001
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 19-E/2001
+official_date: null
+publication_date: '2001-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/2001, 2º Suplemento, Série I-B de 2001-09-29
+  number: '227'
+  series: I
+  supplement: 2º Suplemento
+  pages: 6196-(6) a 6196-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/09/227b02/00060006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/19-e/2001/09/29/p/dre/pt/html
+  oj: null
+  dre: '392436'
+  dre_path: /dr/detalhe/declaracao-rectificacao/19-e-2001-392436
+  internal: pt:dre:392436:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-e-2001-392436
+  metadata_url: https://data.dre.pt/eli/declrectif/19-e/2001/09/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-e-2001-392436
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-09-29T00:00:00Z'
+integrity:
+  source_sha256: 21daaa98d90ecf929d046295ddcf1959297e75160baea389d4207b7e922f1dd9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-19-E-392436.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Conservação de Documentos
+- Documentação Administrativa
+- Secretaria Geral
+- Microfilmagem
+- Prazo de Conservação
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1143/2001/09/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1143/2001/09/27/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 19-E/2001
+
+Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a [Portaria n.º 1143/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1143-2001-615054), publicada no Diário da República, 1.ª série, n.º 225, de 27 de Setembro de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+
+Na página do sumário e na epígrafe, onde se lê «Ministério da Agricultura, do Desenvolvimento Rural e das Pescas» deve ler-se «Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e da Cultura». No n.º 2 do n.º 7.º, onde se lê «que constam do anexo II» deve ler-se «que constam dos anexos II e III». No n.º 2 do n.º 9.º, onde se lê ««consta do anexo III» deve ler-se «consta do anexo IV». No anexo I, na coluna «Observações» do número de referência 074, onde se lê «remeticos pelos outros organismos» deve ler-se «remetidos pelos outros organismos». No anexo I, na coluna «Observações» do número de referência 090, onde se lê «fase de implemeantação» deve ler-se «fase de implementação».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Setembro de 2001. - O Secretário-Geral, Alexandre Figueiredo.

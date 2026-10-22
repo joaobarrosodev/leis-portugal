@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:615855:por
+title: Portaria n.º 335/91
+short_title: null
+summary: Aprova as normas técnicas de execução regulamentar do Decreto-Lei n.º 230/90 (conservação do pescado, sua embalagem
+  e rotulagem)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo
+proposing_entity: null
+official_number: 335/91
+official_date: null
+publication_date: '1991-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/1991, Série I-B de 1991-04-12
+  number: '85'
+  series: I
+  supplement: null
+  pages: 2018 - 2019
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/04/085b00/20182019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/335/1991/04/12/p/dre/pt/html
+  oj: null
+  dre: '615855'
+  dre_path: /dr/detalhe/portaria/335-1991-615855
+  internal: pt:dre:615855:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-1991-615855
+  metadata_url: https://data.dre.pt/eli/port/335/1991/04/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-1991-615855
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-04-12T00:00:00Z'
+integrity:
+  source_sha256: 8eadf2e0555712fd6dd9fd75ae73b375017d1c8cad86979d8e568321a132a29b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-335-615855.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Controlo de Qualidade
+- Embalagem
+- Peixe
+- Peixe Congelado
+- Comércio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/144/1991/04/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/144/1991/04/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 335/91
+
+de 12 de Abril
+
+Pelo artigo 12.º-A do [Decreto-Lei n.º 230/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1990-575711), de 11 de Julho, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 144/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1991-615863), de 12 de Abril, foi contemplada a possibilidade de as normas técnicas de execução regulamentar do referido diploma, que estabeleceu os princípios a observar na produção, comercialização, conservação, embalagem e rotulagem do pescado congelado e ultracongelado, serem aprovadas por portaria conjunta do Ministro da Agricultura, Pescas e Alimentação e do membro do governo competente em razão da matéria.
+
+Estão nesse caso o conceito de distribuição local e os aspectos relativos à quantidade líquida, complementando estes últimos com o processo a utilizar para a respectiva determinação e com os elementos referentes aos erros admissíveis.
+
+Nestes termos e ao abrigo do artigo 12.º-A do [Decreto-Lei n.º 230/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1990-575711), de 11 de Julho, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 144/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1991-615863), de 12 de Abril:
+
+Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo, o seguinte:
+
+1.º Para efeitos do disposto na alínea a) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 230/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1990-575711), de 11 de Julho, entende-se por distribuição local todo o percurso que é efecutado após a primeira entrega de pescado congelado ou ultracongelado constante do programa de distribuição da viatura.
+
+2.º A comprovação de que uma viatura se encontra na situação de distribuição local definida no número anterior faz-se pela exibição, perante a entidade fiscalizadora competente, do programa de distribuição da viatura para essa viagem e da cópia da guia de remessa ou de entrega, ou de outro documento similar, carimbada e assinada pelo destinatário da primeira entrega de pescado congelado ou ultracongelado efecutada pela viatura nessa mesma viagem.
+
+3.º O erro máximo admissível para menos relativo ao conteúdo (quantidade líquida) de uma embalagem de produtos da pesca congelados/ultracongelados, vidrados, é fixado em conformidade com o previsto na epígrafe «quantidade líquida» da NP-1979, sem prejuízo dos limites que venham a ser definidos na transposição para a ordem jurídica interna de directivas comunitárias aplicáveis a este tipo de produtos.
+
+4.º Os valores calculados em unidades de massa dos erros máximos admissíveis referidos no número anterior são arredondados por excesso à décima de grama.
+
+5.º O processo de determinação do teor de água de vidragem e da quantidade líquida dos produtos da pesca congelados/ultracongelados, vidrados, é o constante em anexo, o qual vigorará enquanto não for publicada norma portuguesa para o efeito.
+
+6.º A presente portaria entra em vigor à data da sua publicação.
+
+**Assinada em 12 de Abril de 1991.**
+
+**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+
+## ANEXO
+
+Processo de determinação do teor de água de vidragem e da quantidade líquida dos produtos da pesca congelados/ultracongelados, vidrados.
+
+1 - Objectivo e campo de aplicação. - Este processo tem por base determinar:
+
+a) A quantidade de água de vidragem utilizada para proteger o pescado de desidratação superficial e da oxidação, evitando uma deterioração rápida da qualidade;
+
+b) A quantidade líquida do produto congelado/ultracongelado, excluída a água de vidragem.
+
+Aplica-se aos produtos da pesca congelados/ultracongelados, vidrados, quer estejam inteiros, eviscerados ou não, em filetes ou em postas ou sob qualquer outra forma.
+
+2 - Princípio e referência. - Este processo consiste em fazer fundir a camada de gelo envolvente por imersão em água, seguida de eliminação do excesso de água com material absorvente e da pesagem do conteúdo ainda congelado.
+
+Este processo não permite determinar a quantidade líquida dos blocos contendo gelo no interior.
+
+Este processo é preconizado por Mr. Han Ching, do IFREMER.
+
+3 - Aparelhos e utensílios:
+
+Balança sensível ao décimo do grama;
+
+Tina de água (com capacidade para conter um volume de água igual a 10 vezes ou mais a massa da toma);
+
+Cesto metálico (para unidades de pequeno tamanho e de peso inferior a 100 g);
+
+Espátula.
+
+4 - Modo operatório. - É necessário assegurar que o produto se encontra a temperatura suficientemente baixa (igual ou inferior a -18ºC). Caso contrário, deve proceder-se de modo que o produto atinja aquela temperatura, pelo menos, antes do ensaio.
+
+A amostra de ensaio é constituída por uma unidade (peixe inteiro, filete, posta, bocado, etc.), se esta pesar mais de 100 g. Caso contrário, colhem-se tantas unidades quantas as necessárias para perfazer 100 g.
+
+A determinação deve ser efectuada em 10 amostras para unidades com peso compreendido entre 100 g e 500 g ou em 5 amostras para unidades com peso superior a 500 g.
+
+Retire a embalagem e pese o mais rapidamente possível o conteúdo congelado/ultracongelado, vidrado, de cada uma das unidades constituintes da amostra de ensaio, com o rigor de (mais ou menos)0,1 g M(índice 0)).
+
+Coloque imediatamente a amostra numa tina com um volume de água 10 vezes superior à massa da amostra e à temperatura de 20ºC, mantendo-a constantemente imersa com o auxílio de uma espátula.
+
+Para filetes, postas e peixes inteiros
+
+Depois de assegurar que toda a camada de gelo desapareceu, retire o produto da água e seque-o rapidamente com papel ou outro material próprio, absorvente, tendo o cuidado de secar igualmente o interior das cavidades, eventualmente presentes.
+
+Assegurar, ao tocar, que todo o gelo desapareceu da superfície do pescado.
+
+O tempo necessário é de cerca de um minuto.
+
+Pese imediatamente (M(índice 1)).
+
+Para peixes eviscerados
+
+Proceder de modo idêntico ao indicado para filetes, postas e peixes inteiros, assegurando que os dois lados da parede abdominal ficam flexíveis, antes de se efectuar a pesagem.
+
+Pese imediatamente (M(índice 1)).
+
+Para miolo de bivalves
+
+Assegurar que todo o gelo desapareceu do miolo.
+
+O tempo necessário e de 25 a 30 segundos.
+
+Pese imediatamente (M(índice 1)).
+
+5 - Resultados:
+
+5.1 - Cálculo e expressão:
+
+5.1.1 - Teor de água de vidragem:
+
+O teor de água de vidragem é expresso em gramas por 100 g de produto congelado/ultracongelado, vidrado, e é igual a:
+
+V = ((M(índice 0) - M(índice 1))/M(índice 0))
+
+em que:
+
+M(índice 0) = massa de amostra congelada/ultracongelada, vidrada, expressa em gramas;
+
+M(índice 1) = massa em amostra congelada/ultracongelada, sem o vidrado, expressa em gramas.
+
+5.1.2 - Quantidade líquida do produto congelado/ultracongelado, vidrado.
+
+A quantidade líquida do produto congelado/ultracongelado, vidrado, é igual a:
+
+QL = M(índice B) - ((V x M(índice B))/100)
+
+em que:
+
+M(índice B) = massa do produto congelado/ultracongelado sem embalagem, expressa em gramas;
+
+V = teor de água de vidragem em gramas por 100 g (v. 5.1.1).
+
+A quantidade líquida de um produto congelado/ultracongelado com exclusão da camada de gelo envolvente (vidrado), é igual a quantidade líquida nominal, do que resulta que a quantidade líquida nominal não deve incluir a água de vidragem.
+
+5.2 - Apresentação dos resultados. - Toma-se como resultado a média aritmética das determinações efectuadas pelo mesmo operador, com arredondamento às décimas.
+
+6 - Bibliografia:
+
+HANG-CHING, Luçay (IFREMER, Nantes) - «Une enigme en partie résolue. Le poid net des produits de la mer congelés et glazurés», La Surgelation, Março de 1985, pp. 13 a 16.
+
+NOIX DE SAINT-JACQUES - «Congélées - Teneur en eau de glaçage ou glazurage», La Surgelation, n.º 268, Maio de 1988, p. 59.

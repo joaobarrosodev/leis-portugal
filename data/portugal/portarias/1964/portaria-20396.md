@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:469858:por
+title: Portaria n.º 20396
+short_title: null
+summary: Abre créditos nas províncias ultramarinas de Angola, Moçambique, Guiné e Cabo Verde destinados a ocorrer a determinados
+  encargos e a reforçar verbas inscritas nas respectivas tabelas de despesa dos orçamentos gerais para 1963
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '20396'
+official_date: null
+publication_date: '1964-02-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 49/1964, Série I de 1964-02-27
+  number: '49'
+  series: I
+  supplement: null
+  pages: 355 - 356
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/02/04900/03550356.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '469858'
+  dre_path: /dr/detalhe/portaria/20396-1964-469858
+  internal: pt:dre:469858:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20396-1964-469858
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20396-1964-469858
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-02-27T00:00:00Z'
+integrity:
+  source_sha256: 4e4745961fa51e3d6056960ebd952a151f5a8b17b95d8f92632addba2314dc31
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-20396-469858.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 5
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20396
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+1.º Nos termos do artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946:
+
+a) Abrir em Angola um crédito especial de 725232$80, a inscrever em adicional à tabela de despesa ordinária do orçamento geral da província para 1963, destinado ao pagamento de encargos derivados do empréstimo contraído no Banco de Fomento Nacional pela Aero Táxis Angola, Lda., com aval da província dado nos termos do Diploma Legislativo Ministerial n.º 32, de 19 de Maio de 1961, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 1.º, artigo 9.º, n.º 2) «Dívida da província - Juros - Ministério das Finanças - Para pagamento de juros de 4 por cento, relativos ao empréstimo a conceder pelo Ministério das Finanças, nos termos do Decreto n.º 42817, de 25 de Janeiro de 1960, para execução do II Plano de Fomento Nacional», da referida tabela de despesa.
+
+b) Abrir em Moçambique um crédito especial de 26820$00, a inscrever em adicional à tabela de despesa ordinária do orçamento geral da província para 1963, destinado ao pagamento da ocupação do terreno do aeroporto para instalação do apoio aéreo aos serviços geográficos e cadastrais, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 72.º, n.º 1), alínea a) «Administração geral e fiscalização - Administração civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+
+2.º Nos termos do artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir os seguintes créditos especiais:
+
+a) Um de 550000$00, destinado a reforçar a verba do capítulo 10.º, artigo 305.º, n.º 3), alínea b), 2.ª «Encargos gerais - Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na província», da tabela de despesa ordinária do orçamento geral da província da Guiné para 1963, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 4.º, artigo 32.º, alínea a) «Taxas - Rendimentos de diversos serviços - Receitas eventuais e não especificadas - Diversas», do orçamento da receita para o mesmo ano.
+
+b) Um de 290000$00, destinado a reforçar a verba do capítulo 4.º, artigo 146.º, n.º 1), alínea b) «Administração geral e fiscalização - Serviços de instrução - Direcção dos Serviços - Despesas com o pessoal - Remunerações acidentais - Gratificações - Aos directores e directoras das escolas primárias», da tabela de despesa ordinária do orçamento geral da província de Moçambique para 1963, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 4.º, artigo 51.º «Taxas - Rendimentos de diversos serviços - Emolumentos gerais aduaneiros», do orçamento da receita para o mesmo ano.
+
+c) Um de 20631164$80, destinado a reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral da província de Moçambique para 1963:
+
+### CAPÍTULO 4.º — Administração geral e fiscalização
+
+###### Artigo 243.º, n.º 1) «Serviços de instrução - Ensino primário - Professores eventuais - Despesas com o pessoal - Remunerações acidentais - Gratificações - Para pessoal docente eventual, nos termos do artigo 22.º do Decreto n.º 43913, de 14 de Setembro de 1961» ... 7025564$80
+
+### CAPÍTULO 10.º — Encargos gerais
+
+###### Artigo 2598.º, n.º 4), alínea b), 2) «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 3100000$00
+
+###### Artigo 2599.º, n.º 29) «Diversas despesas - Para pagamento aos municípios da compensação referida no artigo 63.º do Regulamento do Código da Estrada, aprovado pela [Portaria n.º 13469](https://diariodarepublica.pt/dr/detalhe/portaria/13469-1951-323744), de 6 de Novembro de 1959» ... 10505600$00
+
+... 20631164$80
+
+tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 6.º «Impostos directos gerais - Imposto de rendimento», do orçamento da receita para o mesmo ano.
+
+3.º Nos termos do artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugado com o artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956:
+
+a) Abrir em Cabo Verde um crédito especial de 205152$70, destinado a reforçar a verba do capítulo 12.º, artigo 280.º, n.º 1), alínea n) «Despesa extraordinária - Outras despesas extraordinárias - Do saldo das contas de exercícios findos - Subsídio à Câmara Municipal do Fogo para construção e equipamento das pousadas de S. Filipe», da tabela de despesa extraordinária do orçamento geral da província para 1963, tomando como contrapartida igual importância, a sair das disponibilidades existentes nas seguintes verbas da referida tabela de despesa:
+
+### CAPÍTULO 7.º — Serviços de fomento
+
+Repartição Provincial dos Serviços de Obras Públicas, Agrimensura e Cadastro
+
+###### Artigo 226.º, n.º 1) «Despesas com o material - Despesas de conservação e aproveitamento - De imóveis» ... 55152$70
+
+### CAPÍTULO 12.º — Despesa extraordinária
+
+###### Artigo 280.º, n.º 1), alínea j) «Outras despesas extraordinárias - Do saldo das contas de exercícios findos - Organização provincial de voluntários» ... 150000$00
+
+... 205152$70
+
+b) Abrir em Moçambique um crédito especial de 3580258$30, destinado a reforçar a verba do capítulo 12.º, artigo 2609.º, n.º 5), alínea j) «Despesa extraordinária - Outras despesas extraordinárias - Diversos - Encargos com um rebocador e uma draga de sucção», da tabela de despesa extraordinária do orçamento geral da província para 1963, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 6.º «Impostos directos gerais - Imposto de rendimento», do orçamento da receita para o mesmo ano.
+
+Ministério do Ultramar, 27 de Fevereiro de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde, Guiné, Angola e Moçambique. - Silva Cunha.

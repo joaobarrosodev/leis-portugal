@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:286726:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-155903281",
+ "dre_path": "/dr/detalhe/decreto-lei/62-1988-286726",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-02-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155901647",
+    "155901648",
+    "155901649",
+    "155901650",
+    "155901651",
+    "155901652",
+    "155901653",
+    "155901654"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "155901647",
+    "155901648",
+    "155901649",
+    "155901650",
+    "155901656",
+    "155901657",
+    "155901653",
+    "155901654",
+    "155901655"
+   ]
+  }
+ ],
+ "fragments": {
+  "155901647": {
+   "fragment_id": "155903282",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 62/88\n\nde 27 de Fevereiro\n\nConsiderando que as informações e instruções relativas a máquinas e outros utensílios semelhantes devem ser claramente compreendidas por todos os potenciais utilizadores nacionais e, para isso, escritas na sua própria língua;\n\nConsiderando também que os avisos de atenção ou perigo apostos em tais equipamentos devem obedecer à legislação em vigor, às normas portuguesas ou a outras especificações aplicáveis;\n\nTendo em vista preencher lacunas do direito português nesta matéria:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "155901648": {
+   "fragment_id": "155903283",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - As informações ou instruções respeitantes a características, instalação, serviço ou utilização, montagem, manutenção, armazenagem, transporte, bem como as garantias que devam acompanhar ou habitualmente acompanhem ou sejam aplicadas sobre máquinas, aparelhos, utensílios e ferramentas, serão obrigatoriamente escritas em língua portuguesa.\n\n2 - O texto em língua portuguesa das informações ou instruções a que se refere o número anterior só poderá conter palavras ou expressões em língua estrangeira quando:\n\na) Não existam palavras ou expressões correspondentes em língua portuguesa;\n\nb) Se trate de palavras ou expressões cujo uso se tenha tornado corrente em Portugal e que sejam insusceptíveis de provocarem equívocos quanto ao seu significado."
+  },
+  "155901649": {
+   "fragment_id": "155903284",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Os avisos de atenção ou perigo apostos nos produtos referidos no n.º 1 do artigo 1.º devem obedecer à legislação em vigor, às normas aplicáveis, dimanadas do Instituto Português da Qualidade ou da entidade anteriormente competente para o efeito, e a quaisquer outras especificações decorrentes de compromissos assumidos internacionalmente.\n\n2 - O disposto no número anterior não prejudica a importação e comercialização em Portugal de produtos provenientes de outro Estado membro da Comunidade Económica Europeia que apresentem avisos de atenção ou perigo conformes com a regulamentação desse Estado, desde que tais avisos tenham conteúdo informativo equivalente ao estabelecido na regulamentação portuguesa e sejam colocados à disposição dos utilizadores ou responsáveis pela utilização acompanhados de tradução em português."
+  },
+  "155901650": {
+   "fragment_id": "155903285",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - O cumprimento do disposto no n.º 1 do artigo 1.º é exigível, a partir da colocação do produto no mercado, ao agente económico ao qual incumba, nos termos acordados entre os vários agentes envolvidos, assegurar as traduções necessárias.\n\n2 - Quando os agentes económicos envolvidos não tiverem tomado a decisão prevista na parte final do número anterior, as obrigações decorrentes do n.º 1 do artigo 1.º impendem sobre aquele que directamente coloque o produto à disposição do utilizador ou responsável pela utilização.\n\n3 - As obrigações previstas no artigo 2.º impendem sobre os fabricantes, os importadores e todos os outros agentes que desenvolvam a actividade de comércio por grosso ou a retalho, sem prejuízo do disposto nos números anteriores quanto à obrigação de assegurar as traduções necessárias."
+  },
+  "155901651": {
+   "fragment_id": "155903286",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - O incumprimento doloso ou negligente do disposto nos artigos 1.º e 2.º constitui contra-ordenação punível com coima de 200$00 a 200000$00.\n\n2 - Sendo a coima aplicada a pessoa colectiva, o seu montante máximo será de 3000000$00.\n\n3 - A aplicação das coimas compete aos directores das delegações regionais do Ministério da Indústria e Energia."
+  },
+  "155901652": {
+   "fragment_id": "155903287",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO produto das coimas reverterá, 50%, para o Instituto Português da Qualidade e, 50%, para o Orçamento Geral do Estado."
+  },
+  "155901653": {
+   "fragment_id": "155903288",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs produtos abrangidos pelo presente diploma que não obedeçam ao que nele se estabelece, mas tenham sido fabricados ou importados anteriormente à data da sua entrada em vigor, poderão ser ainda comercializados no prazo de dezoito meses a contar dessa data."
+  },
+  "155901654": {
+   "fragment_id": "155903289",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "155901656": {
+   "fragment_id": "155903286",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o incumprimento do disposto nos artigos 1.º e 2.º\n\n2 - A negligência é punível nos termos do RJCE.\n\n3 - A aplicação das coimas compete ao inspetor-geral da Autoridade de Segurança Alimentar e Económica.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155901657": {
+   "fragment_id": "155903287",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155901655": {
+   "fragment_id": "155903290",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1988. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.\n\nPromulgado em 8 de Fevereiro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Fevereiro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

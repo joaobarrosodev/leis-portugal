@@ -1,0 +1,359 @@
+---
+schema_version: '1.0'
+id: pt:dre:137022279:por
+title: Portaria n.º 162-B/2020
+short_title: null
+summary: Aprova o Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção
+  e das Vendas em consequência do surto de COVID-19, do Programa Operacional (PO) Mar 2020, para Portugal Continental
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Mar
+proposing_entity: null
+official_number: 162-B/2020
+official_date: null
+publication_date: '2020-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/2020, 1º Suplemento, Série I de 2020-06-30
+  number: '125'
+  series: I
+  supplement: 1º Suplemento
+  pages: 28-(3) a 28-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12501/0000300007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-01-08'
+version_history:
+  file: portaria-162-b-2020.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-08'
+    amending: pt:dre:153341281:por
+    amending_title: Portaria n.º 11/2021
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/162-b/2020/p/cons/20210108/pt/html
+  oj: null
+  dre: '137022279'
+  dre_path: /dr/detalhe/portaria/162-b-2020-137022279
+  internal: pt:dre:137022279:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-b-2020-137022279
+  metadata_url: https://data.dre.pt/eli/port/162-b/2020/p/cons/20210108/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-153472475
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-153472475
+  retrieved_at: '2026-10-22T12:36:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 149ff1d464de4410aac575199e6463ef17bd91444f96006abd31a1c2389da9a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:36:49Z'
+  notes: 2 versão(ões); histórico completo em portaria-162-b-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Ajuda não Reembolsável
+- Compensação Financeira
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Direcção Regional de Agricultura e Pescas
+- Formulário Eletrónico
+- Fundos CE
+- Pagamento
+- IFAP
+- Aquicultura
+- Página na Internet
+- Doença Infecciosa
+- Epidemia
+- Prazo
+- Produção
+- Produto de Aquicultura
+- Programa Operacional
+- Regulamento
+- Regulamento CE
+- Subsídio não Reembolsável
+- Venda
+- PORTUGAL 2020
+- Programa Operacional Mar 2020
+- Fundo Europeu dos Assuntos Marítimos e das Pescas
+- Balcão 2020
+relationships:
+- type: amended_by
+  target: pt:dre:153341281:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281
+  date: '2021-01-08'
+- type: cites
+  target: celex:32013R1303
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1303/oj
+- type: cites
+  target: celex:32013R1379
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1379/oj
+- type: cites
+  target: celex:32014R0508
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/508/oj
+- type: cites
+  target: celex:32020R0560
+  label: null
+  source: http://data.europa.eu/eli/reg/2020/560/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10/2017/01/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10/2017/01/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/218/1991/06/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/218/1991/06/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/35/2019/03/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/2019/03/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/40/2017/04/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/40/2017/04/04/p/dre
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2003/361/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2003/361/oj
+article_structure:
+  article_count: 17
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:36:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 162-B/2020
+
+Portaria n.º 162-B/2020
+
+de 30 de junho
+
+Sumário: Aprova o Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19, do Programa Operacional (PO) Mar 2020, para Portugal Continental.
+
+A pandemia causada por coronavírus - COVID-19 obrigou a que vários países, incluindo Portugal, adotassem medidas extraordinárias de emergência de saúde pública que, sendo a resposta necessária à contenção da doença, provocam, no entanto, inúmeras consequências de ordem económica e social dado o forte constrangimento ao exercício das atividades económicas.
+
+O setor da pesca e da aquicultura tem sido particularmente atingido pelas perturbações do mercado geradas por uma redução significativa da procura e dos preços, a que se junta a vulnerabilidade e complexidade da cadeia de abastecimento.
+
+Neste contexto, ao nível da União Europeia foi adotado o Regulamento (UE) 2020/560 do Parlamento Europeu e do Conselho, de 23 de abril de 2020, que altera os Regulamentos (UE) n.º 508/2014 e (EU) n.º 1379/2013, no que respeita a medidas específicas destinadas a atenuar o impacto do surto de COVID-19 no setor da pesca e da aquicultura.
+
+Em concreto, por alteração dos n.os 1 e 2 do artigo 55.º do referido Regulamento (UE) n.º 508/2014, passou a prever-se a possibilidade de ser disponibilizado apoio do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) para medidas que compensem as perdas económicas resultantes do surto de COVID-19 dos operadores nas atividades de aquicultura, nomeadamente as que resultem da suspensão ou redução temporárias da produção e das vendas por efeito do fecho dos mercados e canais de distribuição.
+
+Introduzida que foi aquela alteração regulamentar, sem, no entanto, haver uma atribuição de fundos europeus suplementares ao Programa Operacional Mar 2020, pretende-se responder a esta necessidade de apoio das empresas aquícolas com recurso a realocação de verbas ainda disponíveis no programa, procedendo-se, se necessário, ao rateio dos apoios, de modo a garantir apoio a todos os operadores económicos que vejam aprovadas as respetivas candidaturas.
+
+O Decreto-Lei n.º 159/2014, de 27 de outubro, veio prever, sob a alínea d) do n.º 1 do artigo 4.º e na alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos Fundos Europeus Estruturais e de Investimento (FEEI) é também integrado pela regulamentação específica dos programas operacionais e que, no caso do FEAMP, a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.
+
+Foram ouvidas as associações representativas do setor e os representantes dos sindicatos acerca da medida de apoio acima descrita.
+
+Assim, ao abrigo do disposto no n.º 1 e na alínea d) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, alterado pelos Decretos-Leis n.os 218/91, de 17 de junho, 383/98, de 27 de novembro, 10/2017, de 10 de janeiro, 40/2017, de 4 de abril, e 35/2019, de 11 de março, e na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, manda o Governo, pelo Ministro do Mar, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado, para 2020 e como anexo à presente Portaria, dela fazendo parte integrante, o Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19, ao abrigo da prioridade da União Europeia estabelecida no n.º 2 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), e com enquadramento na medida prevista na alínea b) do n.º 1 do artigo 55.º do mesmo Regulamento.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro do Mar, Ricardo da Piedade Abreu Serrão Santos, em 30 de junho de 2020.
+
+## Anexo
+
+Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19
+
+###### Artigo 1.º — Objeto
+
+O presente Regulamento estabelece o Regulamento do Regime de Compensação aos Aquicultores pela Suspensão ou Redução Temporárias da Produção e das Vendas em consequência do surto de COVID-19, do Programa Operacional (PO) Mar 2020, para Portugal Continental.
+
+###### Artigo 2.º — Objetivos
+
+Os apoios previstos no presente Regulamento têm como finalidade compensar os aquicultores pela suspensão ou redução temporárias da produção e das vendas, motivadas pelo surto do novo coronavírus - COVID-19.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente Regulamento e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, entende-se por:
+
+a) «Empresa», qualquer pessoa singular ou coletiva que, independentemente da sua forma jurídica, exerce uma atividade económica;
+
+b) «Empresas aquícolas», as empresas que detenham um dos seguintes códigos de atividade económica:
+
+i) Divisão 03, Grupo 032, Classe 0321, subclasse 03210, Aquicultura em águas salgadas e salobras;
+
+ii) Divisão 03, Grupo 032, Classe 0322, subclasse 03220, Aquicultura em águas doces.
+
+c) «Micro, pequenas e médias empresas (PME)», as definidas como tal na Recomendação n.º 2003/361/CE, de 6 de maio.
+
+###### Artigo 4.º — Elegibilidade das operações
+
+1 - Podem beneficiar de apoios ao abrigo do presente regime as operações que visem a compensação de perdas económicas correspondentes a mais de 25 % da faturação média do beneficiário, resultantes da suspensão ou redução temporária da produção aquícola e das respetivas vendas nos períodos compreendidos entre 1 de março e 30 de junho de 2020 e entre 1 de outubro e 31 de dezembro de 2020.
+
+2 - A aferição da perda económica resulta da comparação entre a faturação média mensal relativa a cada um dos períodos referidos no número anterior e a faturação média mensal correspondente aos períodos homólogos de 2019.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08
+
+###### Artigo 5.º — Elegibilidade dos beneficiários
+
+Sem prejuízo do disposto no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, apenas são elegíveis as empresas aquícolas que:
+
+a) Tenham pelo menos 12 meses de atividade, à data de apresentação da candidatura;
+
+b) Sejam detentoras de licença de exploração ou Título de Atividade Aquícola (TAA) válidos;
+
+c) Tenham cumprido as obrigações previstas no n.º 1 do artigo 32.º do Decreto-Lei n.º 40/2017, de 4 de abril, nomeadamente a entrega dos inquéritos à produção relativos a 2019;
+
+d) Tenham a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, podendo a mesma ser aferida até à data de apresentação do pedido de pagamento.
+
+###### Artigo 6.º — Natureza e montante do apoio
+
+1 - Os apoios públicos previstos no presente regime revestem a forma de subvenção não reembolsável.
+
+2 - A taxa máxima de apoio público para os projetos apresentados ao abrigo do presente regime é de 100 %, dos quais 75 % são financiados pelo FEAMP.
+
+3 - As operações beneficiam de um apoio público correspondente:
+
+a) Ao valor médio mensal da quebra de faturação registada, caso o valor dessa quebra seja superior a 25 % e inferior ou igual a 40 % do histórico de faturação média mensal, apurado com base no disposto no n.º 2 do artigo 4.º;
+
+b) A duas vezes o valor médio mensal da quebra de faturação registada, caso o valor dessa quebra, calculada como previsto na alínea anterior, seja superior a 40 %.
+
+4 - Caso as operações que reúnem condições de aprovação envolvam pedidos de apoio que, no cômputo geral, ultrapassem as disponibilidades financeiras existentes, procede-se ao respetivo rateio da dotação, com recurso à modelação da taxa máxima de apoio prevista no n.º 2.
+
+###### Artigo 7.º — Apresentação das candidaturas
+
+1 - As candidaturas são apresentadas online, até 31 de julho de 2020 e até 15 de fevereiro de 2021, respetivamente para o 1.º e para o 2.º dos períodos referidos no n.º 1 do artigo 4.º do presente Regulamento, através do Balcão 2020, em www.balcao.portugal2020.pt.
+
+2 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt.
+
+3 - As candidaturas devem ser instruídas com os elementos exigidos no respetivo formulário online, nomeadamente comprovativo do e-fatura, extraído do sítio da Internet da Autoridade Tributária e Aduaneira, relativo ao período de 1 de março a 30 de junho de 2020, para as candidaturas submetidas até 31 de julho de 2020, e relativo ao período de 1 de outubro a 31 de dezembro de 2020, para as candidaturas submetidas até 15 de fevereiro de 2021, bem como os períodos homólogos de 2019.
+
+4 - Ao abrigo do presente regime de apoio, apenas é admitida uma candidatura por beneficiário.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08
+
+###### Artigo 8.º — Análise e decisão das candidaturas
+
+1 - As Direções Regionais de Agricultura e Pescas (DRAP), no âmbito das suas competências enquanto organismos intermédios do Mar 2020, analisam e emitem parecer sobre as candidaturas, competindo-lhes verificar, nomeadamente, se estão reunidos os requisitos da atribuição dos apoios previstos nos artigos 4.º e 5.º
+
+2 - O parecer referido no número anterior é emitido num prazo de 20 dias úteis a contar da data limite para a apresentação das candidaturas.
+
+3 - O secretariado técnico aprecia as candidaturas com vista a assegurar que as mesmas são selecionadas em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete-as a decisão do gestor.
+
+4 - A Comissão de Gestão emite parecer sobre as propostas de decisão relativas às candidaturas.
+
+5 - Antes de ser emitida a decisão final, os candidatos são ouvidos, para efeitos de audiência de interessados, nos termos do Código de Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.
+
+6 - Sem prejuízo do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, as candidaturas são objeto de decisão pelo gestor no prazo de 30 dias úteis contados a partir da data limite para a respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, na data da sua emissão.
+
+7 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão do Mar 2020 ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) na data da sua emissão.
+
+###### Artigo 9.º — Termo de aceitação
+
+1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, salvo motivo justificado não imputável ao beneficiário e aceite pelo gestor.
+
+###### Artigo 10.º — Pagamento dos apoios
+
+1 - O pagamento do apoio é feito pelo IFAP, I. P., após a assinatura do termo de aceitação e apresentação pelo beneficiário do pedido de pagamento, da forma e nos termos previstos nos números seguintes.
+
+2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.
+
+3 - O pedido de pagamento reporta-se à compensação aprovada, devendo os documentos de suporte eventualmente exigidos serem submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal.
+
+###### Artigo 11.º — Obrigações dos beneficiários
+
+Sem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, constituem obrigações do beneficiário:
+
+a) Manter o estabelecimento em atividade pelo período de cinco anos, ou de três anos, quando esteja em causa apoio a PME, a contar da data do pagamento ao beneficiário, salvo por motivos de força maior ou por causas não imputáveis ao beneficiário;
+
+b) Informar a DRAP de qualquer alteração dos pressupostos em que assentou a decisão de atribuição do apoio.
+
+###### Artigo 12.º — Acumulação dos apoios
+
+Os apoios concedidos ao abrigo do presente Regulamento não são acumuláveis com quaisquer outros apoios nacionais ou europeus que visem a compensação pela perda de rendimentos provocada pela pandemia de COVID-19 no mesmo período de referência.
+
+###### Artigo 13.º — Cobertura orçamental
+
+1 - Os encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P..
+
+2 - A despesa pública alocada ao presente regime de apoio é de (euro) 1 700 000 (um milhão e setecentos mil euros), dos quais (euro) 1 275 000 (um milhão duzentos e setenta e cinco mil euros) do FEAMP
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/11-2021-153341281), em vigor a partir de 2021-01-08
+
+###### Artigo 14.º — Reduções e exclusões
+
+1 - Os apoios objeto do presente Regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:
+
+a) Incumprimento, pelo beneficiário, das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente Regulamento ou da legislação nacional e europeia aplicável;
+
+b) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação do projeto, ou falsificando documentos fornecidos no âmbito do mesmo.
+
+2 - O encerramento da atividade da empresa antes de decorrido o período a que alude a alínea a) do artigo 11.º implica o dever de reembolso pro rata temporis da compensação recebida.
+
+3 - Caso incumpra a obrigação prevista no número anterior, o beneficiário fica obrigado a restituir a totalidade da compensação financeira paga.
+
+4 - À redução dos montantes indevidamente recebidos aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, no artigo 12.º do Decreto-Lei n.º 195/2012, de 23 de agosto, e na demais legislação aplicável.
+
+###### Artigo 15.º — Extinção ou modificação da operação por iniciativa do beneficiário
+
+O beneficiário pode requerer ao gestor a extinção da operação desde que proceda à restituição das importâncias recebidas.
+
+113356952

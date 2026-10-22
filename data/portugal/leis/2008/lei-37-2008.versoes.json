@@ -1,0 +1,1797 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:455412:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-70102576",
+ "dre_path": "/dr/detalhe/lei/37-2008-455412",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124705421",
+    "70093767",
+    "70093768",
+    "70093769",
+    "70093770",
+    "70093771",
+    "70093772",
+    "70093773",
+    "70093774",
+    "70104275",
+    "70104276",
+    "70104277",
+    "70104278",
+    "70104279",
+    "70104280",
+    "70104281",
+    "70104282",
+    "70104283",
+    "70104284",
+    "70104285",
+    "70104286",
+    "70104287",
+    "70104288",
+    "70104289",
+    "70104290",
+    "70104291",
+    "70104292",
+    "70104293",
+    "70104294",
+    "70104295",
+    "70104296",
+    "70104297",
+    "70104298",
+    "70104299",
+    "70104300",
+    "70104301",
+    "70104302",
+    "70104303",
+    "70104304",
+    "70104305",
+    "70104306",
+    "70104307",
+    "70104308",
+    "70104309",
+    "70104310",
+    "70104311",
+    "70104312",
+    "70104313",
+    "70104314",
+    "70104315",
+    "70104316",
+    "70104317",
+    "70104318",
+    "70104319",
+    "70104320",
+    "70104321",
+    "70104322",
+    "70104323",
+    "70104324",
+    "70104325",
+    "70104326",
+    "70104327",
+    "70104328",
+    "70104329",
+    "70104330",
+    "70104331",
+    "70104332",
+    "70104333",
+    "70104334",
+    "70104335",
+    "70104336",
+    "70104337"
+   ]
+  },
+  {
+   "date": "2010-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343929:por",
+     "title": "Lei n.º 26/2010",
+     "published": "2010-08-30",
+     "dre_path": "/dr/detalhe/lei/26-2010-343929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "70093766",
+    "70093767",
+    "70093768",
+    "70093769",
+    "70093770",
+    "70093771",
+    "70093772",
+    "70093773",
+    "70093774",
+    "70104275",
+    "70104276",
+    "70104277",
+    "70104278",
+    "70104279",
+    "70104280",
+    "70104339",
+    "70104282",
+    "70104283",
+    "70104284",
+    "70104285",
+    "70104286",
+    "70104287",
+    "70104288",
+    "70104289",
+    "70104290",
+    "70104291",
+    "70104292",
+    "70104293",
+    "70104294",
+    "70104295",
+    "70104296",
+    "70104297",
+    "70104298",
+    "70104299",
+    "70104300",
+    "70104301",
+    "70104302",
+    "70104303",
+    "70104304",
+    "70104305",
+    "70104306",
+    "70104307",
+    "70104308",
+    "70104309",
+    "70104310",
+    "70104311",
+    "70104312",
+    "70104313",
+    "70104314",
+    "70104315",
+    "70104316",
+    "70104317",
+    "70104318",
+    "70104319",
+    "70104320",
+    "70104321",
+    "70104322",
+    "70104323",
+    "70104324",
+    "70104325",
+    "70104326",
+    "70104327",
+    "70104328",
+    "70104329",
+    "70104330",
+    "70104331",
+    "70104332",
+    "70104333",
+    "70104334",
+    "70104335",
+    "70104336",
+    "70104337",
+    "70104338"
+   ]
+  },
+  {
+   "date": "2015-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70086390:por",
+     "title": "Lei n.º 103/2015",
+     "published": "2015-08-24",
+     "dre_path": "/dr/detalhe/lei/103-2015-70086390"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "70093766",
+    "70093767",
+    "70093768",
+    "70093769",
+    "70093770",
+    "70093771",
+    "70093772",
+    "70093773",
+    "70093774",
+    "70104275",
+    "70104276",
+    "70104277",
+    "70104278",
+    "70104279",
+    "70104280",
+    "70104339",
+    "70104282",
+    "70104283",
+    "70104284",
+    "70104285",
+    "70104286",
+    "70104287",
+    "70104288",
+    "70104289",
+    "70104290",
+    "70104291",
+    "70104292",
+    "70104293",
+    "70104294",
+    "70104295",
+    "70104296",
+    "70104297",
+    "70104298",
+    "70104299",
+    "70104300",
+    "70104301",
+    "70947575",
+    "70104303",
+    "70104304",
+    "70104305",
+    "70104306",
+    "70104307",
+    "70104308",
+    "70104309",
+    "70104310",
+    "70104311",
+    "70104312",
+    "70104313",
+    "70104314",
+    "70104315",
+    "70104316",
+    "70104317",
+    "70104318",
+    "70104319",
+    "70104320",
+    "70104321",
+    "70104322",
+    "70104323",
+    "70104324",
+    "70104325",
+    "70104326",
+    "70104327",
+    "70104328",
+    "70104329",
+    "70104330",
+    "70104331",
+    "70104332",
+    "70104333",
+    "70104334",
+    "70104335",
+    "70104336",
+    "70104337",
+    "70104338"
+   ]
+  },
+  {
+   "date": "2016-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105263934:por",
+     "title": "Decreto-Lei n.º 81/2016",
+     "published": "2016-11-28",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2016-105263934"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "70093766",
+    "70093767",
+    "70093768",
+    "70093769",
+    "70093770",
+    "70093771",
+    "70093772",
+    "70093773",
+    "70093774",
+    "70104275",
+    "70104276",
+    "70104277",
+    "70104278",
+    "70104279",
+    "70104280",
+    "70104339",
+    "70104282",
+    "70104283",
+    "70104284",
+    "70104285",
+    "70104286",
+    "70104287",
+    "70104288",
+    "70104289",
+    "70104290",
+    "70104291",
+    "70104292",
+    "70104293",
+    "70104294",
+    "70104295",
+    "70104296",
+    "70104297",
+    "70104298",
+    "70104299",
+    "70104300",
+    "70104301",
+    "105270885",
+    "70104303",
+    "70104304",
+    "70104305",
+    "70104306",
+    "70104307",
+    "70104308",
+    "70104309",
+    "70104310",
+    "70104311",
+    "70104312",
+    "70104313",
+    "70104314",
+    "70104315",
+    "70104316",
+    "70104317",
+    "70104318",
+    "70104319",
+    "70104320",
+    "70104321",
+    "70104322",
+    "70104323",
+    "70104324",
+    "70104325",
+    "70104326",
+    "70104327",
+    "70104328",
+    "70104329",
+    "70104330",
+    "70104331",
+    "70104332",
+    "70104333",
+    "70104334",
+    "70104335",
+    "70104336",
+    "70104337",
+    "70104338"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124680594:por",
+     "title": "Decreto-Lei n.º 137/2019",
+     "published": "2019-09-13",
+     "dre_path": "/dr/detalhe/decreto-lei/137-2019-124680594"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "124705421",
+    "124705422",
+    "124705423",
+    "124705424",
+    "124705425",
+    "124705426",
+    "124705427",
+    "124705428",
+    "124705429",
+    "124705430",
+    "124705431",
+    "124705432",
+    "124705433",
+    "124705434",
+    "124705435",
+    "124705436",
+    "124705437",
+    "124705438",
+    "124705439",
+    "124705440",
+    "124705441",
+    "124705442",
+    "124705443",
+    "124705444",
+    "124705445",
+    "124705446",
+    "124705447",
+    "124705448",
+    "124705449",
+    "124705450",
+    "124705451",
+    "124705452",
+    "124705453",
+    "124705454",
+    "124705455",
+    "124705456",
+    "124705457",
+    "124705458",
+    "124705459",
+    "124705460",
+    "124705461",
+    "124705462",
+    "124705463",
+    "124705464",
+    "124705465",
+    "124705466",
+    "124705467",
+    "124705468",
+    "124705469",
+    "124705470",
+    "124705471",
+    "124705472",
+    "124705473",
+    "124705474",
+    "124705575",
+    "124705576",
+    "124705577",
+    "124705578",
+    "124705579",
+    "124705580",
+    "124705581",
+    "124705582",
+    "124705583",
+    "124705584",
+    "124705585",
+    "124705586",
+    "124705587",
+    "124705588",
+    "124705589",
+    "124705590",
+    "124705591",
+    "124705592",
+    "124705593"
+   ]
+  }
+ ],
+ "fragments": {
+  "124705421": {
+   "fragment_id": "70102577",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-01-01",
+   "changed_by": [],
+   "markdown": "Lei n.º 37/2008\n\nde 6 de Agosto\n\nAprova a orgânica da Polícia Judiciária\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70093767": {
+   "fragment_id": "70102578",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "70093768": {
+   "fragment_id": "70102579",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão e atribuições"
+  },
+  "70093769": {
+   "fragment_id": "70102580",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Polícia Judiciária, abreviadamente designada por PJ, corpo superior de polícia criminal organizado hierarquicamente na dependência do Ministro da Justiça e fiscalizado nos termos da lei, é um serviço central da administração directa do Estado, dotado de autonomia administrativa."
+  },
+  "70093770": {
+   "fragment_id": "70102581",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A PJ tem por missão coadjuvar as autoridades judiciárias na investigação, desenvolver e promover as acções de prevenção, detecção e investigação da sua competência ou que lhe sejam cometidas pelas autoridades judiciárias competentes.\n\n2 - A PJ prossegue as atribuições definidas na presente lei, nos termos da Lei de Organização da Investigação Criminal e da Lei Quadro da Política Criminal."
+  },
+  "70093771": {
+   "fragment_id": "70102582",
+   "type": 11,
+   "heading": "Artigo 3.º — Coadjuvação das autoridades judiciárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Coadjuvação das autoridades judiciárias\n\n1 - A PJ coadjuva as autoridades judiciárias em processos relativos a crimes cuja detecção ou investigação lhe incumba realizar ou quando se afigure necessária a prática de actos que antecedem o julgamento e que requerem conhecimentos ou meios técnicos especiais.\n\n2 - Para efeitos do disposto no número anterior, a PJ actua no processo sob a direcção das autoridades judiciárias e na sua dependência funcional, sem prejuízo da respectiva organização hierárquica e autonomia técnica e táctica."
+  },
+  "70093772": {
+   "fragment_id": "70102583",
+   "type": 11,
+   "heading": "Artigo 4.º — Prevenção e detecção criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prevenção e detecção criminal\n\n1 - Em matéria de prevenção e detecção criminal, compete à PJ:\n\na) Promover e realizar acções destinadas a fomentar a prevenção geral e a reduzir o número de vítimas da prática de crimes, motivando os cidadãos a adoptarem precauções e a reduzirem os actos e as situações que facilitem ou precipitem a ocorrência de condutas criminosas;\n\nb) Proceder às diligências adequadas ao esclarecimento das situações e à recolha de elementos probatórios.\n\n2 - No âmbito da prevenção criminal a PJ procede à detecção e dissuasão de situações conducentes à prática de crimes, nomeadamente através de fiscalização e vigilância de locais susceptíveis de propiciarem a prática de actos ilícitos criminais, sem prejuízo das atribuições dos restantes órgãos de polícia criminal.\n\n3 - No exercício das acções a que se refere o número anterior, a PJ tem acesso à informação necessária à caracterização, identificação e localização das situações, podendo proceder à identificação de pessoas e realizar vigilâncias, se necessário, com recurso a todos os meios e técnicas de registo de som e de imagem, bem como a revistas e buscas, nos termos do disposto no Código de Processo Penal e legislação complementar."
+  },
+  "70093773": {
+   "fragment_id": "70102584",
+   "type": 11,
+   "heading": "Artigo 5.º — Investigação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Investigação criminal\n\n1 - As competências da PJ respeitantes à investigação criminal são as definidas na Lei de Organização de Investigação Criminal.\n\n2 - Compete ainda à PJ assegurar o funcionamento dos gabinetes da INTERPOL e EUROPOL para os efeitos da sua própria missão e para partilha de informação no quadro definido pela lei."
+  },
+  "70093774": {
+   "fragment_id": "70102585",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dever de cooperação\n\n1 - A PJ está sujeita ao dever de cooperação nos termos da lei.\n\n2 - As entidades públicas e privadas, nas pessoas dos respectivos representantes, devem prestar à PJ a cooperação que justificadamente lhes for solicitada.\n\n3 - As pessoas e entidades que exerçam funções de vigilância, protecção e segurança a pessoas, bens e instalações públicos ou privados têm o especial dever de colaborar com a PJ."
+  },
+  "70104275": {
+   "fragment_id": "70102586",
+   "type": 11,
+   "heading": "Artigo 7.º — Cooperação internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cooperação internacional\n\nNo âmbito dos instrumentos de cooperação policial internacional a PJ pode estabelecer relações de cooperação nos diferentes domínios da sua actividade."
+  },
+  "70104276": {
+   "fragment_id": "70102587",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de informação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sistema de informação criminal\n\n1 - A PJ dispõe de um sistema de informação criminal de âmbito nacional, visando o tratamento e difusão da informação, a regular em diploma próprio.\n\n2 - O sistema referido no número anterior articula-se e terá adequada interoperabilidade com os demais sistemas de informação criminal legalmente previstos."
+  },
+  "70104277": {
+   "fragment_id": "70102588",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito de acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direito de acesso à informação\n\n1 - A PJ acede directamente à informação relativa à identificação civil e criminal constante dos ficheiros magnéticos dos serviços de identificação civil e criminal e presta obrigatoriamente colaboração na análise de aplicações de tratamento automático da informação com interesse para a prevenção e investigação criminal, quando efectuada pelo Instituto das Tecnologias de Informação na Justiça, I. P.\n\n2 - A PJ pode aceder, nos termos das normas e procedimentos aplicáveis, a informação de interesse criminal contida nos ficheiros informáticos de outros organismos nacionais e internacionais, celebrando protocolos de cooperação sempre que necessário."
+  },
+  "70104278": {
+   "fragment_id": "70102589",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de comparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de comparência\n\n1 - Qualquer pessoa, quando devidamente notificada ou convocada pela PJ, tem o dever de comparecer no dia, hora e local designados, sob pena das sanções previstas na lei processual penal, com excepção das situações previstas na lei ou tratado internacional.\n\n2 - Em caso de urgência, a notificação ou convocação referidas no número anterior podem ser feitas por qualquer meio destinado a dar conhecimento do facto, inclusivamente por via telefónica; neste último caso, a entidade que faz a notificação ou a convocação identifica-se e dá conta do cargo que desempenha, bem como dos elementos que permitam ao chamado inteirar-se do acto para que é convocado e efectuar, caso queira, a contraprova de que se trata de um telefonema oficial e verdadeiro, devendo lavrar-se cota no auto quanto ao meio utilizado.\n\n3 - Quando o notificando ou a pessoa convocada tiver de se deslocar a um local que se situe fora da comarca da sua residência, do local de trabalho ou do lugar onde se encontrar, a PJ deve assegurar os meios de transporte necessários e a assistência devida, desde que tal lhe tenha sido solicitado."
+  },
+  "70104279": {
+   "fragment_id": "70102590",
+   "type": 1,
+   "heading": "Capítulo II — Autoridades de polícia criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Autoridades de polícia criminal"
+  },
+  "70104280": {
+   "fragment_id": "70102591",
+   "type": 11,
+   "heading": "Artigo 11.º — Autoridades de polícia criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autoridades de polícia criminal\n\n1 - São autoridades de polícia criminal, nos termos e para os efeitos do Código de Processo Penal:\n\na) Director nacional;\n\nb) Directores nacionais-adjuntos;\n\nc) Directores das unidades nacionais;\n\nd) Directores das unidades territoriais;\n\ne) Subdirectores das unidades territoriais;\n\nf) Assessores de investigação criminal;\n\ng) Coordenadores superiores de investigação criminal;\n\nh) Coordenadores de investigação criminal;\n\ni) Inspectores-chefes.\n\n2 - O pessoal de investigação criminal não referenciado no número anterior pode, com observância das disposições legais, proceder à identificação de qualquer pessoa."
+  },
+  "70104281": {
+   "fragment_id": "70102592",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências processuais\n\n1 - As autoridades de polícia criminal referidas no n.º 1 do artigo anterior têm ainda especial competência para, no âmbito de despacho de delegação genérica de competência de investigação criminal, ordenar:\n\na) A realização de perícias a efectuar por organismos oficiais, salvaguardadas as perícias relativas a questões psiquiátricas, sobre a personalidade e de autópsia médico-legal;\n\nb) A realização de revistas e buscas, com excepção das domiciliárias e das realizadas em escritório de advogado, em consultório médico ou em estabelecimento hospitalar ou bancário;\n\nc) Apreensões, excepto de correspondência, ou as que tenham lugar em escritório de advogado, em consultório médico ou em estabelecimento hospitalar ou bancário;\n\nd) A detenção fora do flagrante delito nos casos em que seja admissível a prisão preventiva e:\n\ni) Existam elementos que tornam fundado o receio de fuga ou não for possível, dada a situação de urgência e de perigo de demora, esperar pela intervenção da autoridade judiciária; ou\n\nii) No decurso de revistas ou de buscas sejam apreendidos ao suspeito objectos que tiverem servido ou estivessem destinados a servir a prática de um crime ou constituam seu produto, lucro, preço ou recompensa.\n\n2 - A realização de qualquer dos actos previstos no número anterior obedece, subsidiariamente, à tramitação do Código de Processo Penal, tem de ser de imediato comunicada à autoridade judiciária titular da direcção do processo para os efeitos e sob as cominações da lei processual penal e, no caso da alínea d) do número anterior, o detido tem de ser apresentado no prazo legalmente previsto à autoridade judiciária competente, sem prejuízo de esta, se assim o entender, determinar a apresentação imediata.\n\n3 - A todo o tempo, a autoridade judiciária titular da direcção do processo pode condicionar o exercício ou avocar as competências previstas no n.º 1, nos termos da Lei de Organização da Investigação Criminal."
+  },
+  "70104282": {
+   "fragment_id": "70102593",
+   "type": 11,
+   "heading": "Artigo 13.º — Segredo de justiça e profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Segredo de justiça e profissional\n\n1 - Os actos processuais de investigação criminal e de coadjuvação das autoridades judiciárias estão sujeitos ao segredo de justiça nos termos da lei.\n\n2 - Os funcionários em serviço na PJ não podem fazer revelações públicas relativas a processos ou sobre matérias de índole reservada, salvo o que se encontra previsto nesta lei sobre informação pública e acções de natureza preventiva junto da população e ainda o disposto nas leis de processo penal.\n\n3 - As declarações a que alude o número anterior, quando admissíveis, dependem de prévia autorização do director nacional ou dos directores nacionais-adjuntos, sob pena de procedimento disciplinar, sem prejuízo da responsabilidade penal a que houver lugar.\n\n4 - As acções de prevenção e os processos contra-ordenacionais, disciplinares, de inquérito, de sindicância, de averiguações, bem como de inspecção, estão sujeitos ao segredo profissional, nos termos da lei geral."
+  },
+  "70104283": {
+   "fragment_id": "70102594",
+   "type": 1,
+   "heading": "Capítulo III — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Direitos e deveres"
+  },
+  "70104284": {
+   "fragment_id": "70102595",
+   "type": 11,
+   "heading": "Artigo 14.º — Deveres especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Deveres especiais\n\nSão deveres especiais do pessoal da PJ:\n\na) Garantir a vida e a integridade física dos detidos ou das pessoas que se achem sob a sua custódia ou protecção no estrito respeito da honra e dignidade da pessoa humana;\n\nb) Actuar sem discriminação em razão de ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica ou condição social;\n\nc) Identificar-se como funcionário da PJ no momento em que procedam à identificação ou detenção;\n\nd) Observar estritamente, e com a diligência devida, a tramitação, os prazos e requisitos exigidos pela lei, sempre que procedam à detenção de alguém;\n\ne) Actuar com a decisão e a prontidão necessárias, quando da sua actuação dependa impedir a prática de um dano grave, imediato e irreparável, observando os princípios da adequação, da oportunidade e da proporcionalidade na utilização dos meios disponíveis;\n\nf) Agir com a determinação necessária, mas sem recorrer à força mais do que o estritamente razoável para cumprir uma tarefa legalmente exigida ou autorizada."
+  },
+  "70104285": {
+   "fragment_id": "70102596",
+   "type": 11,
+   "heading": "Artigo 15.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Identificação\n\n1 - A identificação das autoridades de polícia criminal e do pessoal de investigação criminal faz-se por intermédio de crachá e cartão de livre trânsito.\n\n2 - Em acções públicas, os funcionários referidos no número anterior identificam-se através de quaisquer meios que revelem inequivocamente a sua qualidade.\n\n3 - A identificação dos funcionários não incluídos nos números anteriores faz-se por intermédio de cartão de modelo próprio.\n\n4 - Os modelos e meios de identificação referidos nos números anteriores são aprovados por portaria do membro do Governo responsável pela área da Justiça."
+  },
+  "70104286": {
+   "fragment_id": "70102597",
+   "type": 11,
+   "heading": "Artigo 16.º — Dispensa temporária de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dispensa temporária de identificação\n\n1 - A PJ pode dispensar temporariamente a necessidade de revelação da identidade e da qualidade dos seus funcionários de investigação, dos meios materiais e dos equipamentos utilizados.\n\n2 - A PJ pode determinar o uso de um sistema de codificação da identidade e categoria dos funcionários de investigação envolvidos na formalização de actos processuais, sem prejuízo da respectiva descodificação para fins processuais, por determinação da autoridade judiciária competente.\n\n3 - A dispensa temporária de identificação e a codificação a que se referem os números anteriores são reguladas por portaria do membro do Governo responsável pela área da Justiça.\n\n4 - A autorização da dispensa temporária de identificação e da codificação referida nos números anteriores é da competência do director nacional."
+  },
+  "70104287": {
+   "fragment_id": "70102598",
+   "type": 11,
+   "heading": "Artigo 17.º — Livre trânsito e direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Livre trânsito e direito de acesso\n\n1 - Aos funcionários mencionados no artigo 11.º, quando devidamente identificados e em missão de serviço, é facultada a entrada livre nos locais a que se refere o n.º 2 do artigo 4.º e naqueles onde se realizem acções de prevenção, detecção, ou investigação criminal e de coadjuvação judiciária.\n\n2 - Para a realização de diligências de investigação ou de coadjuvação judiciária, os funcionários da PJ, quando devidamente identificados e em missão de serviço, têm direito de acesso a quaisquer repartições ou serviços públicos, empresas comerciais ou industriais e outras instalações públicas ou privadas.\n\n3 - Às autoridades de polícia criminal, ao pessoal de investigação criminal e ao pessoal da carreira de segurança, quando devidamente identificados e em missão de serviço, é facultado o livre acesso, em todo o território nacional, aos transportes colectivos terrestres, fluviais e marítimos."
+  },
+  "70104288": {
+   "fragment_id": "70102599",
+   "type": 11,
+   "heading": "Artigo 18.º — Uso de armas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Uso de armas\n\n1 - A PJ pode usar armas e munições de qualquer tipo.\n\n2 - Têm direito ao uso e porte de arma de classes aprovadas por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e da Justiça, independentemente de licença, ficando obrigados ao seu manifesto, nos termos da lei, quando as mesmas sejam de sua propriedade:\n\na) As autoridades de polícia criminal referidas no n.º 1 do artigo 11.º;\n\nb) O pessoal de investigação criminal;\n\nc) O pessoal de segurança;\n\nd) Outro pessoal a definir por despacho do director nacional.\n\n3 - O recurso a armas de fogo por funcionários da PJ é regulado pelo Decreto-Lei n.º 457/99, de 5 de Novembro."
+  },
+  "70104289": {
+   "fragment_id": "70102600",
+   "type": 11,
+   "heading": "Artigo 19.º — Objectos que revertem a favor da PJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Objectos que revertem a favor da PJ\n\nOs objectos apreendidos pela PJ que venham a ser declarados perdidos a favor do Estado são-lhe afectos nos termos do Decreto-Lei n.º 11/2007, de 19 de Janeiro."
+  },
+  "70104290": {
+   "fragment_id": "70102601",
+   "type": 11,
+   "heading": "Artigo 20.º — Impedimentos, recusas e escusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Impedimentos, recusas e escusas\n\n1 - O regime de impedimentos, recusas e escusas previsto no Código de Processo Penal é aplicável, com as devidas adaptações, ao pessoal em exercício de funções na PJ.\n\n2 - A declaração de impedimento e o seu requerimento, bem como o requerimento de recusa e o pedido de escusa, são dirigidos ao director nacional."
+  },
+  "70104291": {
+   "fragment_id": "70102602",
+   "type": 13,
+   "heading": "Título II — Estrutura, órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Estrutura, órgãos e serviços"
+  },
+  "70104292": {
+   "fragment_id": "70102603",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70104293": {
+   "fragment_id": "70102604",
+   "type": 11,
+   "heading": "Artigo 21.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Tipo de organização interna\n\nA organização interna dos serviços da PJ obedece ao modelo de estrutura hierarquizada."
+  },
+  "70104294": {
+   "fragment_id": "70102605",
+   "type": 11,
+   "heading": "Artigo 22.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estrutura\n\n1 - A PJ compreende:\n\na) A Direcção Nacional;\n\nb) As unidades nacionais;\n\nc) As unidades territoriais;\n\nd) As unidades regionais;\n\ne) As unidades locais;\n\nf) As unidades de apoio à investigação;\n\ng) As unidades de suporte.\n\n2 - As competências das unidades da PJ são estabelecidas através de decreto-lei.\n\n3 - A sede e a área geográfica de intervenção das unidades da PJ são estabelecidas em portaria a aprovar do membro do Governo responsável pela área da Justiça.\n\n4 - As unidades da PJ podem ser organizadas em áreas, sectores ou núcleos, sendo o seu número máximo definido por portaria do membro do Governo responsável pela área da Justiça."
+  },
+  "70104295": {
+   "fragment_id": "70102606",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e competências"
+  },
+  "70104296": {
+   "fragment_id": "70102607",
+   "type": 11,
+   "heading": "Artigo 23.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Órgãos\n\nA Direcção Nacional da PJ compreende os seguintes órgãos:\n\na) O director nacional;\n\nb) Os directores nacionais-adjuntos que coadjuvam o director nacional;\n\nc) O Conselho Superior da Polícia Judiciária, órgão de apoio ao director nacional, com carácter consultivo."
+  },
+  "70104297": {
+   "fragment_id": "70102608",
+   "type": 11,
+   "heading": "Artigo 24.º — Director nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Director nacional\n\nSem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ainda ao director nacional:\n\na) Coordenar a articulação da PJ com as forças e serviços de segurança e serviços aduaneiros, em matéria de criminalidade organizada;\n\nb) Propor ao Ministro da Justiça medidas tendentes a reforçar a eficácia no combate à criminalidade, designadamente protocolos de cooperação recíproca e planos de actuação conjunta com os demais órgãos de polícia criminal;\n\nc) Atribuir ou redistribuir competências de investigação criminal entre as unidades orgânicas e reafectar processos de inquérito em curso;\n\nd) Presidir ao Conselho Superior da Polícia Judiciária."
+  },
+  "70104298": {
+   "fragment_id": "70102609",
+   "type": 11,
+   "heading": "Artigo 25.º — Directores nacionais-adjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Directores nacionais-adjuntos\n\nCompete aos directores nacionais-adjuntos:\n\na) O exercício das competências que lhe sejam delegadas ou subdelegadas pelo director nacional, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos;\n\nb) Exercer a coordenação superior das estruturas para que forem designados pelo director nacional, designadamente no âmbito administrativo, financeiro e operacional."
+  },
+  "70104299": {
+   "fragment_id": "70102610",
+   "type": 11,
+   "heading": "Artigo 26.º — Conselho Superior da Polícia Judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Conselho Superior da Polícia Judiciária\n\n1 - O Conselho Superior da Polícia Judiciária, abreviadamente designado por CSPJ, é composto por membros natos e membros eleitos.\n\n2 - São membros natos:\n\na) O director nacional, que preside;\n\nb) Dois dos directores nacionais-adjuntos;\n\nc) Dois dos directores das unidades nacionais;\n\nd) Quatro directores das unidades territoriais;\n\ne) O director da Escola de Polícia Judiciária.\n\n3 - Os membros natos referidos nas alíneas b) e c) do número anterior são designados pelo director nacional.\n\n4 - São membros eleitos:\n\na) Um coordenador superior de investigação criminal;\n\nb) Um coordenador de investigação criminal;\n\nc) Dois inspectores-chefes;\n\nd) Cinco inspectores;\n\ne) Seis representantes do demais pessoal.\n\n5 - Compete ao CSPJ:\n\na) Elaborar o projecto do seu regimento interno, a homologar pelo membro do Governo responsável pela área da Justiça;\n\nb) Dar parecer, quando tal for solicitado pelo director nacional, sobre os assuntos de interesse para a PJ, designadamente em matéria e aperfeiçoamento das suas condições de funcionamento;\n\nc) Pronunciar-se, com carácter consultivo, sobre os projectos legislativos que digam respeito à PJ, quando para tal for solicitado pelo director nacional;\n\nd) Emitir parecer sobre propostas de atribuição de menção de mérito excepcional, insígnias ou títulos e concessão de outros agraciamentos;\n\ne) Emitir parecer quando proposta a aplicação de pena disciplinar de aposentação compulsiva ou de demissão;\n\nf) Apresentar ao director nacional sugestões sobre medidas relativas à dignificação dos serviços e à melhoria das condições sociais e de trabalho do pessoal da PJ.\n\n6 - As normas relativas ao sistema eleitoral e mandato dos membros eleitos do CSPJ constam de regulamento interno a aprovar pelo membro do Governo responsável pela área da Justiça."
+  },
+  "70104300": {
+   "fragment_id": "70102611",
+   "type": 1,
+   "heading": "Capítulo III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços"
+  },
+  "70104301": {
+   "fragment_id": "70102612",
+   "type": 11,
+   "heading": "Artigo 27.º — Serviços da Direcção Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Serviços da Direcção Nacional\n\nA Direcção Nacional da PJ compreende os seguintes serviços, que funcionam na dependência do director nacional:\n\na) A Escola de Polícia Judiciária;\n\nb) A Unidade de Prevenção e Apoio Tecnológico;\n\nc) A Unidade de Informação Financeira;\n\nd) A Unidade de Planeamento, Assessoria Técnica e Documentação."
+  },
+  "70104302": {
+   "fragment_id": "70102613",
+   "type": 11,
+   "heading": "Artigo 28.º — Unidades nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Unidades nacionais\n\n1 - Na PJ existem as seguintes unidades nacionais:\n\na) A Unidade Nacional Contra-Terrorismo;\n\nb) A Unidade Nacional de Combate à Corrupção;\n\nc) A Unidade Nacional de Combate ao Tráfico de Estupefacientes.\n\n2 - As unidades nacionais podem dispor de extensões ou instalações operacionais fora do local das respectivas sedes."
+  },
+  "70104303": {
+   "fragment_id": "70102614",
+   "type": 11,
+   "heading": "Artigo 29.º — Unidades territoriais, regionais e locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Unidades territoriais, regionais e locais\n\n1 - As competências das unidades territoriais, regionais e locais da PJ são estabelecidas nos termos do decreto-lei referido no n.º 2 do artigo 22.º\n\n2 - A sede e área geográfica de intervenção das unidades territoriais, regionais e locais da PJ são estabelecidas nos termos da portaria referida no n.º 3 do artigo 22.º\n\n3 - As unidades regionais e locais funcionam na dependência de um funcionário da carreira de investigação criminal, nos termos fixados pelo director nacional."
+  },
+  "70104304": {
+   "fragment_id": "70102615",
+   "type": 11,
+   "heading": "Artigo 30.º — Unidades de apoio à investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Unidades de apoio à investigação\n\nNa PJ existem as seguintes unidades de apoio à investigação:\n\na) A Unidade de Informação de Investigação Criminal;\n\nb) A Unidade de Cooperação Internacional;\n\nc) O Laboratório de Polícia Científica;\n\nd) A Unidade de Telecomunicações e Informática."
+  },
+  "70104305": {
+   "fragment_id": "70102616",
+   "type": 11,
+   "heading": "Artigo 31.º — Unidades de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Unidades de suporte\n\nNa PJ existem as seguintes unidades de suporte:\n\na) A Unidade de Administração Financeira, Patrimonial e de Segurança;\n\nb) A Unidade de Recursos Humanos e Relações Públicas;\n\nc) A Unidade de Perícia Financeira e Contabilística;\n\nd) A Unidade Disciplinar e de Inspecção."
+  },
+  "70104306": {
+   "fragment_id": "70102617",
+   "type": 1,
+   "heading": "Capítulo IV — Direcção dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Direcção dos serviços"
+  },
+  "70104307": {
+   "fragment_id": "70102618",
+   "type": 11,
+   "heading": "Artigo 32.º — Directores das unidades nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Directores das unidades nacionais\n\nCompete aos directores das unidades nacionais:\n\na) Representar, dirigir, orientar e coordenar a nível nacional as acções de prevenção, de detecção e de investigação e coadjuvação das autoridades judiciárias relativamente a crimes da competência da respectiva unidade nacional, nos termos a estabelecer pelos directores nacionais-adjuntos;\n\nb) Apresentar ao director nacional, até 15 de Março, o relatório anual;\n\nc) Exercer as competências delegadas e subdelegadas pelo director nacional;\n\nd) Exercer as demais competências que lhes sejam conferidas por lei ou regulamento."
+  },
+  "70104308": {
+   "fragment_id": "70102619",
+   "type": 11,
+   "heading": "Artigo 33.º — Directores das unidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Directores das unidades territoriais\n\n1 - Compete aos directores das unidades territoriais:\n\na) Representar, dirigir, orientar e coordenar as acções de prevenção, detecção, investigação e coadjuvação das autoridades judiciárias relativamente a crimes da competência da unidade territorial;\n\nb) Coordenar as unidades regionais e locais que lhes estejam adstritas, nos termos fixados pelo director nacional;\n\nc) Apresentar ao director nacional, até 15 de Março, o relatório anual que deve integrar a descrição das actividades desenvolvidas pelas unidades regionais e locais existentes na dependência da respectiva unidade territorial;\n\nd) Exercer as competências delegadas e subdelegadas pelo director nacional;\n\ne) Exercer as demais competências que lhes sejam conferidas por lei ou regulamento.\n\n2 - Nas faltas e impedimentos ou em caso de vacatura do lugar, o director de unidade territorial é substituído temporariamente pelo subdirector da unidade territorial."
+  },
+  "70104309": {
+   "fragment_id": "70102620",
+   "type": 11,
+   "heading": "Artigo 34.º — Directores de unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Directores de unidades\n\nCompete aos directores de unidades:\n\na) Representar, dirigir, orientar e coordenar a nível nacional as actividades das respectivas unidades, no âmbito das suas competências;\n\nb) Apresentar ao director nacional, até 15 de Março, o relatório anual;\n\nc) Exercer as competências delegadas e subdelegadas pelo director nacional;\n\nd) Exercer as demais competências que lhes sejam conferidas por lei ou regulamento."
+  },
+  "70104310": {
+   "fragment_id": "70102621",
+   "type": 11,
+   "heading": "Artigo 35.º — Subdirectores das unidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Subdirectores das unidades territoriais\n\nCompete aos subdirectores das unidades territoriais coadjuvar os directores da respectiva unidade."
+  },
+  "70104311": {
+   "fragment_id": "70102622",
+   "type": 11,
+   "heading": "Artigo 36.º — Chefes de área",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Chefes de área\n\nCompete aos chefes de área, designadamente:\n\na) Coadjuvar directamente o respectivo director;\n\nb) Chefiar e orientar a unidade orgânica nos domínios da respectiva competência;\n\nc) Emitir informações e pareceres que lhe forem solicitados pelo respectivo director."
+  },
+  "70104312": {
+   "fragment_id": "70102623",
+   "type": 11,
+   "heading": "Artigo 37.º — Lugares de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Lugares de direcção\n\nOs lugares de direcção superior e intermédia são estabelecidos em portaria a aprovar pelos membros responsáveis pelas áreas das Finanças e da Justiça."
+  },
+  "70104313": {
+   "fragment_id": "70102624",
+   "type": 13,
+   "heading": "Título III — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Provimento"
+  },
+  "70104314": {
+   "fragment_id": "70102625",
+   "type": 11,
+   "heading": "Artigo 38.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regra geral\n\nO recrutamento do pessoal dirigente e de chefia da PJ é realizado por escolha, nos termos dos artigos seguintes."
+  },
+  "70104315": {
+   "fragment_id": "70102626",
+   "type": 11,
+   "heading": "Artigo 39.º — Director nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Director nacional\n\n1 - O director nacional é provido, por despacho conjunto do Primeiro-Ministro e do membro Governo responsável pela área da Justiça, de entre magistrados judiciais ou do Ministério Público, assessores de investigação criminal e coordenadores superiores de investigação criminal ou licenciados em Direito de reconhecida competência profissional e experiência para o desempenho das funções, vinculados ou não à Administração Pública.\n\n2 - O cargo é provido em comissão de serviço por um período de três anos, renovável por iguais períodos.\n\n3 - A renovação da comissão de serviço deverá ser comunicada ao interessado até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respectivo período se o membro do Governo responsável pela área da Justiça não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se manterá no exercício de funções de gestão corrente até à nomeação do novo titular do cargo.\n\n4 - Para efeitos de eventual renovação da comissão de serviço, deve a entidade competente ser informada, com a antecedência de 90 dias, do termo de cada comissão, cessando esta automaticamente no fim do respectivo período sempre que não seja dado cumprimento àquela formalidade.\n\n5 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do membro do Governo responsável pela área da Justiça, por iniciativa deste ou a requerimento do interessado."
+  },
+  "70104316": {
+   "fragment_id": "70102627",
+   "type": 11,
+   "heading": "Artigo 40.º — Directores nacionais-adjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Directores nacionais-adjuntos\n\n1 - Os directores nacionais-adjuntos são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o desempenho das funções, vinculados ou não à Administração Pública.\n\n2 - Ao provimento é aplicável o disposto nos n.os 2, 3 e 4 do artigo anterior.\n\n3 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do ministro da tutela, por iniciativa deste, por proposta do director nacional, ou a requerimento do interessado."
+  },
+  "70104317": {
+   "fragment_id": "70102628",
+   "type": 11,
+   "heading": "Artigo 41.º — Directores de unidades nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Directores de unidades nacionais\n\n1 - Os directores de unidades nacionais são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n2 - O director da Escola de Polícia Judiciária é provido de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o desempenho das funções.\n\n3 - O director da Unidade de Prevenção e Apoio Tecnológico é provido de entre:\n\na) Assessores de investigação criminal;\n\nb) Coordenadores superiores de investigação criminal;\n\nc) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n4 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações."
+  },
+  "70104318": {
+   "fragment_id": "70102629",
+   "type": 11,
+   "heading": "Artigo 42.º — Directores de unidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Directores de unidades territoriais\n\n1 - Os directores de unidades territoriais são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n2 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações."
+  },
+  "70104319": {
+   "fragment_id": "70102630",
+   "type": 11,
+   "heading": "Artigo 43.º — Directores de unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Directores de unidades\n\n1 - Os directores de unidades são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional.\n\n2 - Os directores das unidades de apoio à investigação e o director da Unidade de Informação Financeira são nomeados de entre:\n\na) Assessores de investigação criminal;\n\nb) Coordenadores superiores de investigação criminal;\n\nc) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria;\n\nd) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o desempenho das funções.\n\n3 - O director da Unidade de Planeamento, Assessoria Técnica e Documentação é provido de entre:\n\na) Especialistas superiores com, pelo menos, seis anos de serviço na carreira;\n\nb) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o exercício das funções.\n\n4 - Os directores das unidades de suporte são nomeados de entre:\n\na) Especialistas superiores com, pelo menos, seis anos de serviço na carreira;\n\nb) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o exercício das funções.\n\n5 - O director da Unidade Disciplinar e de Inspecção é provido de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal.\n\n6 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações."
+  },
+  "70104320": {
+   "fragment_id": "70102631",
+   "type": 11,
+   "heading": "Artigo 44.º — Subdirectores de unidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Subdirectores de unidades territoriais\n\n1 - Os subdirectores de unidades territoriais são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Assessores de investigação criminal;\n\nb) Coordenadores superiores de investigação criminal;\n\nc) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n2 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações."
+  },
+  "70104321": {
+   "fragment_id": "70102632",
+   "type": 11,
+   "heading": "Artigo 45.º — Chefes de área",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Chefes de área\n\n1 - Os chefes de área são providos por escolha, mediante despacho do director nacional, de entre especialistas superiores com pelo menos cinco anos de serviço na carreira.\n\n2 - O chefe de área do serviço de armamento e segurança na Unidade de Administração Financeira, Patrimonial e de Segurança é provido por escolha, de entre pessoal de investigação criminal com pelo menos cinco anos de serviço na carreira."
+  },
+  "70104322": {
+   "fragment_id": "70102633",
+   "type": 13,
+   "heading": "Título IV — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Disposições financeiras"
+  },
+  "70104323": {
+   "fragment_id": "70102634",
+   "type": 11,
+   "heading": "Artigo 46.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Receitas\n\n1 - A PJ dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A PJ dispõe das receitas provenientes das transferências do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.).\n\n3 - A PJ é responsável pela arrecadação das seguintes receitas próprias resultantes da sua actividade:\n\na) As importâncias cobradas pela venda de publicações e de artigos de promoção institucional;\n\nb) As quantias cobradas por actividades ou serviços prestados, designadamente acções de formação, realização de perícias e exames, extracção de certidões e cópias em suporte de papel ou digital;\n\nc) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n4 - As quantias cobradas ao abrigo do disposto no número anterior são pagas à PJ de acordo com a tabela aprovada por portaria do membro do Governo responsável pela área da Justiça.\n\n5 - As receitas referidas nos n.os 2 e 3 são consignadas à realização de despesas da PJ durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte."
+  },
+  "70104324": {
+   "fragment_id": "70102635",
+   "type": 11,
+   "heading": "Artigo 47.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Despesas\n\nConstituem despesas da PJ as que resultem de encargos decorrentes da prossecução das atribuições que lhe são cometidas."
+  },
+  "70104325": {
+   "fragment_id": "70102636",
+   "type": 11,
+   "heading": "Artigo 48.º — Despesas classificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Despesas classificadas\n\n1 - A PJ pode realizar despesas sujeitas ao regime de despesas classificadas, definido no presente artigo, nos casos em que o conhecimento ou a divulgação da identidade dos prestadores de serviços possa colocar em risco a sua vida ou integridade física, ou o conhecimento do circunstancialismo da realização da despesa possa comprometer quer a eficácia quer a segurança das actividades de investigação e apoio à investigação.\n\n2 - As despesas classificadas são justificadas por documento assinado pelo director nacional.\n\n3 - As demais regras de gestão orçamental deste tipo de despesas são fixadas por despacho conjunto dos membros do Governo responsáveis pelas áreas das Finanças e da Justiça."
+  },
+  "70104326": {
+   "fragment_id": "70102637",
+   "type": 13,
+   "heading": "Título V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições finais e transitórias"
+  },
+  "70104327": {
+   "fragment_id": "70102638",
+   "type": 11,
+   "heading": "Artigo 49.º — Direcção dos departamentos de investigação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Direcção dos departamentos de investigação criminal\n\nAs comissões de serviço do pessoal provido na direcção dos departamentos de investigação criminal cessam na data de entrada em vigor da presente lei, mantendo-se os funcionários no exercício de funções de gestão corrente até à nomeação de novo titular."
+  },
+  "70104328": {
+   "fragment_id": "70102639",
+   "type": 11,
+   "heading": "Artigo 50.º — Pessoal de chefia de apoio à investigação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Pessoal de chefia de apoio à investigação criminal\n\nAs comissões de serviço do pessoal de chefia de apoio à investigação criminal cessam na data de entrada em vigor da presente lei, mantendo-se os funcionários nomeados no exercício de funções de gestão corrente até à reestruturação do respectivo serviço."
+  },
+  "70104329": {
+   "fragment_id": "70102640",
+   "type": 11,
+   "heading": "Artigo 51.º — Oficiais de ligação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Oficiais de ligação\n\nMantêm-se em vigor as comissões de serviço em curso dos oficiais de ligação acreditados junto de Estados estrangeiros ou organismos internacionais."
+  },
+  "70104330": {
+   "fragment_id": "70102641",
+   "type": 11,
+   "heading": "Artigo 52.º — Concursos e cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Concursos e cursos de formação\n\n1 - Mantêm-se válidos os concursos cujo aviso de abertura tenha sido publicado até à data da entrada em vigor da presente lei, bem como os cursos de formação que se encontrem nas mesmas condições.\n\n2 - Para efeitos do número anterior as designações das carreiras e categorias consideram-se reportadas ao disposto no diploma regulador do Estatuto do Pessoal da PJ.\n\n3 - O direito a um abono mensal igual ao valor do índice 100 da escala salarial do regime geral da função pública, atribuível aos alunos não vinculados à função pública que frequentem cursos de formação para ingresso na PJ, é assegurado por dotação a inscrever no orçamento da PJ."
+  },
+  "70104331": {
+   "fragment_id": "70102642",
+   "type": 11,
+   "heading": "Artigo 53.º — Reestruturação dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Reestruturação dos serviços\n\n1 - O pessoal em exercício de funções no Instituto Superior de Polícia Judiciária e Ciências Criminais é integrado no quadro de pessoal da PJ.\n\n2 - O pessoal docente contratado é integrado na carreira de especialista superior de acordo com regras a definir em despacho do director nacional.\n\n3 - A sucessão de direitos e obrigações, bem como a reafectação dos recursos financeiros e organizacionais do Instituto Superior de Polícia Judiciária e Ciências Criminais são efectuadas nos termos da lei."
+  },
+  "70104332": {
+   "fragment_id": "70102643",
+   "type": 11,
+   "heading": "Artigo 54.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Regulamentação\n\n1 - Os regulamentos em vigor para a PJ continuam a aplicar-se, com as necessárias adaptações, até à publicação da regulamentação decorrente das normas previstas na presente lei.\n\n2 - Enquanto não for publicada a regulamentação referida no número anterior permanecem em vigor, com as necessárias adaptações, os regulamentos internos disciplinadores do funcionamento do Instituto Superior de Polícia Judiciária e Ciências Criminais."
+  },
+  "70104333": {
+   "fragment_id": "70102644",
+   "type": 11,
+   "heading": "Artigo 55.º — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Direitos e deveres\n\nOs regimes e estruturas das carreiras do pessoal de investigação criminal e do pessoal de apoio à investigação criminal serão regulamentados em diploma próprio."
+  },
+  "70104334": {
+   "fragment_id": "70102645",
+   "type": 11,
+   "heading": "Artigo 56.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Salvaguarda de direitos\n\nA efectivação do direito de acesso na carreira dos funcionários providos em cargos dirigentes e de chefia de área, até à entrada em vigor da presente lei, é realizada mediante despacho do director nacional, precedido de confirmação dos respectivos pressupostos pela Unidade de Recursos Humanos e Relações Públicas."
+  },
+  "70104335": {
+   "fragment_id": "70102646",
+   "type": 11,
+   "heading": "Artigo 57.º — Alteração ao Decreto-Lei n.º 275-A/2000, de 9 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Alteração ao Decreto-Lei n.º 275-A/2000, de 9 de Novembro\n\nO artigo 84.º da Lei Orgânica da Polícia Judiciária, aprovada pelo Decreto-Lei n.º 275-A/2000, de 9 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 84.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Por despacho conjunto do Ministro da Justiça e do membro do Governo que tutela a área dos transportes, é fixado anualmente o encargo decorrente da atribuição do direito previsto nos n.os 1 e 2, despesa a suportar pelo orçamento da PJ.»"
+  },
+  "70104336": {
+   "fragment_id": "70102647",
+   "type": 11,
+   "heading": "Artigo 58.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Efeitos revogatórios\n\nNos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, consideram-se revogados na data de entrada em vigor da presente lei:\n\na) Os artigos 1.º a 61.º, 70.º, 112.º a 117.º, 129.º e 173.º a 175.º do Decreto-Lei n.º 275-A/2000, de 9 de Novembro, na redacção conferida pela Lei n.º 103/2001, de 25 de Agosto, Decreto-Lei n.º 304/2002, de 13 de Dezembro, e Decreto-Lei n.º 43/2003, de 13 de Março;\n\nb) Todas as disposições normativas referentes ao Instituto Superior de Polícia Judiciária e Ciências Criminais, designadamente o Decreto-Lei n.º 37/78, de 20 de Fevereiro, Decreto-Lei n.º 235/80, de 18 de Julho, Portaria n.º 316/87, de 16 de Abril, Decreto-Lei n.º 54/88, de 25 de Fevereiro, Decreto-Lei n.º 88/88, de 10 de Março, Portaria n.º 434/88, de 6 de Julho, despacho conjunto A-22/90-XI, de 5 de Abril, Decreto Regulamentar n.º 13/91, de 11 de Abril, Portaria n.º 1070/94, de 7 de Dezembro, e despacho conjunto n.º 868/2003, de 2 de Setembro."
+  },
+  "70104337": {
+   "fragment_id": "70102648",
+   "type": 11,
+   "heading": "Artigo 59.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 30 dias a contar da respectiva publicação."
+  },
+  "70093766": {
+   "fragment_id": "70102577",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 37/2008\n\nde 6 de Agosto\n\nAprova a orgânica da Polícia Judiciária\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70104339": {
+   "fragment_id": "70102592",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências processuais",
+   "in_force_from": "2010-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 26/2010 - Diário da República n.º 168/2010, Série I de 2010-08-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2010-343929), em vigor a partir de 2010-10-29"
+   ],
+   "markdown": "###### Artigo 12.º — Competências processuais\n\n1 - As autoridades de polícia criminal referidas no n.º 1 do artigo anterior têm ainda especial competência para, no âmbito de despacho de delegação genérica de competência de investigação criminal, ordenar:\n\na) A realização de perícias a efectuar por organismos oficiais, salvaguardadas as perícias relativas a questões psiquiátricas, sobre a personalidade e de autópsia médico-legal;\n\nb) A realização de revistas e buscas, com excepção das domiciliárias e das realizadas em escritório de advogado, em consultório médico ou em estabelecimento hospitalar ou bancário;\n\nc) Apreensões, excepto de correspondência, ou as que tenham lugar em escritório de advogado, em consultório médico ou em estabelecimento hospitalar ou bancário;\n\nd) (Revogada).\n\n2 - A realização de qualquer dos actos previstos no número anterior obedece, subsidiariamente, à tramitação do Código de Processo Penal e tem de ser de imediato comunicada à autoridade judiciária titular da direcção do processo para os efeitos e sob as cominações da lei processual penal.\n\n3 - A todo o tempo, a autoridade judiciária titular da direcção do processo pode condicionar o exercício ou avocar as competências previstas no n.º 1, nos termos da Lei de Organização da Investigação Criminal.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 26/2010 - Diário da República n.º 168/2010, Série I de 2010-08-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2010-343929), em vigor a partir de 2010-10-29"
+  },
+  "70104338": {
+   "fragment_id": "70102649",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de Julho de 2008.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 21 de Julho de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 22 de Julho de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "70947575": {
+   "fragment_id": "70102613",
+   "type": 11,
+   "heading": "Artigo 28.º — Unidades nacionais",
+   "in_force_from": "2015-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 28.º — Unidades nacionais\n\n1 - Na PJ existem as seguintes unidades nacionais:\n\na) A Unidade Nacional Contra-Terrorismo;\n\nb) A Unidade Nacional de Combate à Corrupção;\n\nc) A Unidade Nacional de Combate ao Tráfico de Estupefacientes.\n\nd) A Unidade Nacional de Investigação da Criminalidade Informática.\n\n2 - As unidades nacionais podem dispor de extensões ou instalações operacionais fora do local das respectivas sedes.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "105270885": {
+   "fragment_id": "70102613",
+   "type": 11,
+   "heading": "Artigo 28.º — Unidades nacionais",
+   "in_force_from": "2016-11-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 28.º — Unidades nacionais\n\n1 - Na PJ existem as seguintes unidades nacionais:\n\na) A Unidade Nacional Contra-Terrorismo;\n\nb) A Unidade Nacional de Combate à Corrupção;\n\nc) A Unidade Nacional de Combate ao Tráfico de Estupefacientes.\n\nd) A Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica.\n\n2 - As unidades nacionais podem dispor de extensões ou instalações operacionais fora do local das respectivas sedes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "124705422": {
+   "fragment_id": "70102578",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Título I — Disposições gerais\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705423": {
+   "fragment_id": "70102579",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão e atribuições",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo I — Natureza, missão e atribuições\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705424": {
+   "fragment_id": "70102580",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Polícia Judiciária, abreviadamente designada por PJ, corpo superior de polícia criminal organizado hierarquicamente na dependência do Ministro da Justiça e fiscalizado nos termos da lei, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705425": {
+   "fragment_id": "70102581",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A PJ tem por missão coadjuvar as autoridades judiciárias na investigação, desenvolver e promover as acções de prevenção, detecção e investigação da sua competência ou que lhe sejam cometidas pelas autoridades judiciárias competentes.\n\n2 - A PJ prossegue as atribuições definidas na presente lei, nos termos da Lei de Organização da Investigação Criminal e da Lei Quadro da Política Criminal.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705426": {
+   "fragment_id": "70102582",
+   "type": 11,
+   "heading": "Artigo 3.º — Coadjuvação das autoridades judiciárias",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Coadjuvação das autoridades judiciárias\n\n1 - A PJ coadjuva as autoridades judiciárias em processos relativos a crimes cuja detecção ou investigação lhe incumba realizar ou quando se afigure necessária a prática de actos que antecedem o julgamento e que requerem conhecimentos ou meios técnicos especiais.\n\n2 - Para efeitos do disposto no número anterior, a PJ actua no processo sob a direcção das autoridades judiciárias e na sua dependência funcional, sem prejuízo da respectiva organização hierárquica e autonomia técnica e táctica.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705427": {
+   "fragment_id": "70102583",
+   "type": 11,
+   "heading": "Artigo 4.º — Prevenção e detecção criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Prevenção e detecção criminal\n\n1 - Em matéria de prevenção e detecção criminal, compete à PJ:\n\na) Promover e realizar acções destinadas a fomentar a prevenção geral e a reduzir o número de vítimas da prática de crimes, motivando os cidadãos a adoptarem precauções e a reduzirem os actos e as situações que facilitem ou precipitem a ocorrência de condutas criminosas;\n\nb) Proceder às diligências adequadas ao esclarecimento das situações e à recolha de elementos probatórios.\n\n2 - No âmbito da prevenção criminal a PJ procede à detecção e dissuasão de situações conducentes à prática de crimes, nomeadamente através de fiscalização e vigilância de locais susceptíveis de propiciarem a prática de actos ilícitos criminais, sem prejuízo das atribuições dos restantes órgãos de polícia criminal.\n\n3 - No exercício das acções a que se refere o número anterior, a PJ tem acesso à informação necessária à caracterização, identificação e localização das situações, podendo proceder à identificação de pessoas e realizar vigilâncias, se necessário, com recurso a todos os meios e técnicas de registo de som e de imagem, bem como a revistas e buscas, nos termos do disposto no Código de Processo Penal e legislação complementar.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705428": {
+   "fragment_id": "70102584",
+   "type": 11,
+   "heading": "Artigo 5.º — Investigação criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Investigação criminal\n\n1 - As competências da PJ respeitantes à investigação criminal são as definidas na Lei de Organização de Investigação Criminal.\n\n2 - Compete ainda à PJ assegurar o funcionamento dos gabinetes da INTERPOL e EUROPOL para os efeitos da sua própria missão e para partilha de informação no quadro definido pela lei.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705429": {
+   "fragment_id": "70102585",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de cooperação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Dever de cooperação\n\n1 - A PJ está sujeita ao dever de cooperação nos termos da lei.\n\n2 - As entidades públicas e privadas, nas pessoas dos respectivos representantes, devem prestar à PJ a cooperação que justificadamente lhes for solicitada.\n\n3 - As pessoas e entidades que exerçam funções de vigilância, protecção e segurança a pessoas, bens e instalações públicos ou privados têm o especial dever de colaborar com a PJ.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705430": {
+   "fragment_id": "70102586",
+   "type": 11,
+   "heading": "Artigo 7.º — Cooperação internacional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Cooperação internacional\n\nNo âmbito dos instrumentos de cooperação policial internacional a PJ pode estabelecer relações de cooperação nos diferentes domínios da sua actividade.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705431": {
+   "fragment_id": "70102587",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de informação criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de informação criminal\n\n1 - A PJ dispõe de um sistema de informação criminal de âmbito nacional, visando o tratamento e difusão da informação, a regular em diploma próprio.\n\n2 - O sistema referido no número anterior articula-se e terá adequada interoperabilidade com os demais sistemas de informação criminal legalmente previstos.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705432": {
+   "fragment_id": "70102588",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito de acesso à informação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Direito de acesso à informação\n\n1 - A PJ acede directamente à informação relativa à identificação civil e criminal constante dos ficheiros magnéticos dos serviços de identificação civil e criminal e presta obrigatoriamente colaboração na análise de aplicações de tratamento automático da informação com interesse para a prevenção e investigação criminal, quando efectuada pelo Instituto das Tecnologias de Informação na Justiça, I. P.\n\n2 - A PJ pode aceder, nos termos das normas e procedimentos aplicáveis, a informação de interesse criminal contida nos ficheiros informáticos de outros organismos nacionais e internacionais, celebrando protocolos de cooperação sempre que necessário.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705433": {
+   "fragment_id": "70102589",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de comparência",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Dever de comparência\n\n1 - Qualquer pessoa, quando devidamente notificada ou convocada pela PJ, tem o dever de comparecer no dia, hora e local designados, sob pena das sanções previstas na lei processual penal, com excepção das situações previstas na lei ou tratado internacional.\n\n2 - Em caso de urgência, a notificação ou convocação referidas no número anterior podem ser feitas por qualquer meio destinado a dar conhecimento do facto, inclusivamente por via telefónica; neste último caso, a entidade que faz a notificação ou a convocação identifica-se e dá conta do cargo que desempenha, bem como dos elementos que permitam ao chamado inteirar-se do acto para que é convocado e efectuar, caso queira, a contraprova de que se trata de um telefonema oficial e verdadeiro, devendo lavrar-se cota no auto quanto ao meio utilizado.\n\n3 - Quando o notificando ou a pessoa convocada tiver de se deslocar a um local que se situe fora da comarca da sua residência, do local de trabalho ou do lugar onde se encontrar, a PJ deve assegurar os meios de transporte necessários e a assistência devida, desde que tal lhe tenha sido solicitado.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705434": {
+   "fragment_id": "70102590",
+   "type": 1,
+   "heading": "Capítulo II — Autoridades de polícia criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo II — Autoridades de polícia criminal\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705435": {
+   "fragment_id": "70102591",
+   "type": 11,
+   "heading": "Artigo 11.º — Autoridades de polícia criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Autoridades de polícia criminal\n\n1 - São autoridades de polícia criminal, nos termos e para os efeitos do Código de Processo Penal:\n\na) Director nacional;\n\nb) Directores nacionais-adjuntos;\n\nc) Directores das unidades nacionais;\n\nd) Directores das unidades territoriais;\n\ne) Subdirectores das unidades territoriais;\n\nf) Assessores de investigação criminal;\n\ng) Coordenadores superiores de investigação criminal;\n\nh) Coordenadores de investigação criminal;\n\ni) Inspectores-chefes.\n\n2 - O pessoal de investigação criminal não referenciado no número anterior pode, com observância das disposições legais, proceder à identificação de qualquer pessoa.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705436": {
+   "fragment_id": "70102592",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências processuais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 26/2010 - Diário da República n.º 168/2010, Série I de 2010-08-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2010-343929), em vigor a partir de 2010-10-29"
+   ],
+   "markdown": "###### Artigo 12.º — Competências processuais\n\n1 - As autoridades de polícia criminal referidas no n.º 1 do artigo anterior têm ainda especial competência para, no âmbito de despacho de delegação genérica de competência de investigação criminal, ordenar:\n\na) A realização de perícias a efectuar por organismos oficiais, salvaguardadas as perícias relativas a questões psiquiátricas, sobre a personalidade e de autópsia médico-legal;\n\nb) A realização de revistas e buscas, com excepção das domiciliárias e das realizadas em escritório de advogado, em consultório médico ou em estabelecimento hospitalar ou bancário;\n\nc) Apreensões, excepto de correspondência, ou as que tenham lugar em escritório de advogado, em consultório médico ou em estabelecimento hospitalar ou bancário;\n\nd) (Revogada).\n\n2 - A realização de qualquer dos actos previstos no número anterior obedece, subsidiariamente, à tramitação do Código de Processo Penal e tem de ser de imediato comunicada à autoridade judiciária titular da direcção do processo para os efeitos e sob as cominações da lei processual penal.\n\n3 - A todo o tempo, a autoridade judiciária titular da direcção do processo pode condicionar o exercício ou avocar as competências previstas no n.º 1, nos termos da Lei de Organização da Investigação Criminal.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 26/2010 - Diário da República n.º 168/2010, Série I de 2010-08-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2010-343929), em vigor a partir de 2010-10-29"
+  },
+  "124705437": {
+   "fragment_id": "70102593",
+   "type": 11,
+   "heading": "Artigo 13.º — Segredo de justiça e profissional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Segredo de justiça e profissional\n\n1 - Os actos processuais de investigação criminal e de coadjuvação das autoridades judiciárias estão sujeitos ao segredo de justiça nos termos da lei.\n\n2 - Os funcionários em serviço na PJ não podem fazer revelações públicas relativas a processos ou sobre matérias de índole reservada, salvo o que se encontra previsto nesta lei sobre informação pública e acções de natureza preventiva junto da população e ainda o disposto nas leis de processo penal.\n\n3 - As declarações a que alude o número anterior, quando admissíveis, dependem de prévia autorização do director nacional ou dos directores nacionais-adjuntos, sob pena de procedimento disciplinar, sem prejuízo da responsabilidade penal a que houver lugar.\n\n4 - As acções de prevenção e os processos contra-ordenacionais, disciplinares, de inquérito, de sindicância, de averiguações, bem como de inspecção, estão sujeitos ao segredo profissional, nos termos da lei geral.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705438": {
+   "fragment_id": "70102594",
+   "type": 1,
+   "heading": "Capítulo III — Direitos e deveres",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo III — Direitos e deveres\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705439": {
+   "fragment_id": "70102595",
+   "type": 11,
+   "heading": "Artigo 14.º — Deveres especiais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Deveres especiais\n\nSão deveres especiais do pessoal da PJ:\n\na) Garantir a vida e a integridade física dos detidos ou das pessoas que se achem sob a sua custódia ou protecção no estrito respeito da honra e dignidade da pessoa humana;\n\nb) Actuar sem discriminação em razão de ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica ou condição social;\n\nc) Identificar-se como funcionário da PJ no momento em que procedam à identificação ou detenção;\n\nd) Observar estritamente, e com a diligência devida, a tramitação, os prazos e requisitos exigidos pela lei, sempre que procedam à detenção de alguém;\n\ne) Actuar com a decisão e a prontidão necessárias, quando da sua actuação dependa impedir a prática de um dano grave, imediato e irreparável, observando os princípios da adequação, da oportunidade e da proporcionalidade na utilização dos meios disponíveis;\n\nf) Agir com a determinação necessária, mas sem recorrer à força mais do que o estritamente razoável para cumprir uma tarefa legalmente exigida ou autorizada.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705440": {
+   "fragment_id": "70102596",
+   "type": 11,
+   "heading": "Artigo 15.º — Identificação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Identificação\n\n1 - A identificação das autoridades de polícia criminal e do pessoal de investigação criminal faz-se por intermédio de crachá e cartão de livre trânsito.\n\n2 - Em acções públicas, os funcionários referidos no número anterior identificam-se através de quaisquer meios que revelem inequivocamente a sua qualidade.\n\n3 - A identificação dos funcionários não incluídos nos números anteriores faz-se por intermédio de cartão de modelo próprio.\n\n4 - Os modelos e meios de identificação referidos nos números anteriores são aprovados por portaria do membro do Governo responsável pela área da Justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705441": {
+   "fragment_id": "70102597",
+   "type": 11,
+   "heading": "Artigo 16.º — Dispensa temporária de identificação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Dispensa temporária de identificação\n\n1 - A PJ pode dispensar temporariamente a necessidade de revelação da identidade e da qualidade dos seus funcionários de investigação, dos meios materiais e dos equipamentos utilizados.\n\n2 - A PJ pode determinar o uso de um sistema de codificação da identidade e categoria dos funcionários de investigação envolvidos na formalização de actos processuais, sem prejuízo da respectiva descodificação para fins processuais, por determinação da autoridade judiciária competente.\n\n3 - A dispensa temporária de identificação e a codificação a que se referem os números anteriores são reguladas por portaria do membro do Governo responsável pela área da Justiça.\n\n4 - A autorização da dispensa temporária de identificação e da codificação referida nos números anteriores é da competência do director nacional.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705442": {
+   "fragment_id": "70102598",
+   "type": 11,
+   "heading": "Artigo 17.º — Livre trânsito e direito de acesso",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Livre trânsito e direito de acesso\n\n1 - Aos funcionários mencionados no artigo 11.º, quando devidamente identificados e em missão de serviço, é facultada a entrada livre nos locais a que se refere o n.º 2 do artigo 4.º e naqueles onde se realizem acções de prevenção, detecção, ou investigação criminal e de coadjuvação judiciária.\n\n2 - Para a realização de diligências de investigação ou de coadjuvação judiciária, os funcionários da PJ, quando devidamente identificados e em missão de serviço, têm direito de acesso a quaisquer repartições ou serviços públicos, empresas comerciais ou industriais e outras instalações públicas ou privadas.\n\n3 - Às autoridades de polícia criminal, ao pessoal de investigação criminal e ao pessoal da carreira de segurança, quando devidamente identificados e em missão de serviço, é facultado o livre acesso, em todo o território nacional, aos transportes colectivos terrestres, fluviais e marítimos.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705443": {
+   "fragment_id": "70102599",
+   "type": 11,
+   "heading": "Artigo 18.º — Uso de armas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Uso de armas\n\n1 - A PJ pode usar armas e munições de qualquer tipo.\n\n2 - Têm direito ao uso e porte de arma de classes aprovadas por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e da Justiça, independentemente de licença, ficando obrigados ao seu manifesto, nos termos da lei, quando as mesmas sejam de sua propriedade:\n\na) As autoridades de polícia criminal referidas no n.º 1 do artigo 11.º;\n\nb) O pessoal de investigação criminal;\n\nc) O pessoal de segurança;\n\nd) Outro pessoal a definir por despacho do director nacional.\n\n3 - O recurso a armas de fogo por funcionários da PJ é regulado pelo Decreto-Lei n.º 457/99, de 5 de Novembro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705444": {
+   "fragment_id": "70102600",
+   "type": 11,
+   "heading": "Artigo 19.º — Objectos que revertem a favor da PJ",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Objectos que revertem a favor da PJ\n\nOs objectos apreendidos pela PJ que venham a ser declarados perdidos a favor do Estado são-lhe afectos nos termos do Decreto-Lei n.º 11/2007, de 19 de Janeiro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705445": {
+   "fragment_id": "70102601",
+   "type": 11,
+   "heading": "Artigo 20.º — Impedimentos, recusas e escusas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Impedimentos, recusas e escusas\n\n1 - O regime de impedimentos, recusas e escusas previsto no Código de Processo Penal é aplicável, com as devidas adaptações, ao pessoal em exercício de funções na PJ.\n\n2 - A declaração de impedimento e o seu requerimento, bem como o requerimento de recusa e o pedido de escusa, são dirigidos ao director nacional.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705446": {
+   "fragment_id": "70102602",
+   "type": 13,
+   "heading": "Título II — Estrutura, órgãos e serviços",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Título II — Estrutura, órgãos e serviços\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705447": {
+   "fragment_id": "70102603",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705448": {
+   "fragment_id": "70102604",
+   "type": 11,
+   "heading": "Artigo 21.º — Tipo de organização interna",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Tipo de organização interna\n\nA organização interna dos serviços da PJ obedece ao modelo de estrutura hierarquizada.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705449": {
+   "fragment_id": "70102605",
+   "type": 11,
+   "heading": "Artigo 22.º — Estrutura",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Estrutura\n\n1 - A PJ compreende:\n\na) A Direcção Nacional;\n\nb) As unidades nacionais;\n\nc) As unidades territoriais;\n\nd) As unidades regionais;\n\ne) As unidades locais;\n\nf) As unidades de apoio à investigação;\n\ng) As unidades de suporte.\n\n2 - As competências das unidades da PJ são estabelecidas através de decreto-lei.\n\n3 - A sede e a área geográfica de intervenção das unidades da PJ são estabelecidas em portaria a aprovar do membro do Governo responsável pela área da Justiça.\n\n4 - As unidades da PJ podem ser organizadas em áreas, sectores ou núcleos, sendo o seu número máximo definido por portaria do membro do Governo responsável pela área da Justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705450": {
+   "fragment_id": "70102606",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e competências",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo II — Órgãos e competências\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705451": {
+   "fragment_id": "70102607",
+   "type": 11,
+   "heading": "Artigo 23.º — Órgãos",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Órgãos\n\nA Direcção Nacional da PJ compreende os seguintes órgãos:\n\na) O director nacional;\n\nb) Os directores nacionais-adjuntos que coadjuvam o director nacional;\n\nc) O Conselho Superior da Polícia Judiciária, órgão de apoio ao director nacional, com carácter consultivo.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705452": {
+   "fragment_id": "70102608",
+   "type": 11,
+   "heading": "Artigo 24.º — Director nacional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Director nacional\n\nSem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ainda ao director nacional:\n\na) Coordenar a articulação da PJ com as forças e serviços de segurança e serviços aduaneiros, em matéria de criminalidade organizada;\n\nb) Propor ao Ministro da Justiça medidas tendentes a reforçar a eficácia no combate à criminalidade, designadamente protocolos de cooperação recíproca e planos de actuação conjunta com os demais órgãos de polícia criminal;\n\nc) Atribuir ou redistribuir competências de investigação criminal entre as unidades orgânicas e reafectar processos de inquérito em curso;\n\nd) Presidir ao Conselho Superior da Polícia Judiciária.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705453": {
+   "fragment_id": "70102609",
+   "type": 11,
+   "heading": "Artigo 25.º — Directores nacionais-adjuntos",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Directores nacionais-adjuntos\n\nCompete aos directores nacionais-adjuntos:\n\na) O exercício das competências que lhe sejam delegadas ou subdelegadas pelo director nacional, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos;\n\nb) Exercer a coordenação superior das estruturas para que forem designados pelo director nacional, designadamente no âmbito administrativo, financeiro e operacional.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705454": {
+   "fragment_id": "70102610",
+   "type": 11,
+   "heading": "Artigo 26.º — Conselho Superior da Polícia Judiciária",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Conselho Superior da Polícia Judiciária\n\n1 - O Conselho Superior da Polícia Judiciária, abreviadamente designado por CSPJ, é composto por membros natos e membros eleitos.\n\n2 - São membros natos:\n\na) O director nacional, que preside;\n\nb) Dois dos directores nacionais-adjuntos;\n\nc) Dois dos directores das unidades nacionais;\n\nd) Quatro directores das unidades territoriais;\n\ne) O director da Escola de Polícia Judiciária.\n\n3 - Os membros natos referidos nas alíneas b) e c) do número anterior são designados pelo director nacional.\n\n4 - São membros eleitos:\n\na) Um coordenador superior de investigação criminal;\n\nb) Um coordenador de investigação criminal;\n\nc) Dois inspectores-chefes;\n\nd) Cinco inspectores;\n\ne) Seis representantes do demais pessoal.\n\n5 - Compete ao CSPJ:\n\na) Elaborar o projecto do seu regimento interno, a homologar pelo membro do Governo responsável pela área da Justiça;\n\nb) Dar parecer, quando tal for solicitado pelo director nacional, sobre os assuntos de interesse para a PJ, designadamente em matéria e aperfeiçoamento das suas condições de funcionamento;\n\nc) Pronunciar-se, com carácter consultivo, sobre os projectos legislativos que digam respeito à PJ, quando para tal for solicitado pelo director nacional;\n\nd) Emitir parecer sobre propostas de atribuição de menção de mérito excepcional, insígnias ou títulos e concessão de outros agraciamentos;\n\ne) Emitir parecer quando proposta a aplicação de pena disciplinar de aposentação compulsiva ou de demissão;\n\nf) Apresentar ao director nacional sugestões sobre medidas relativas à dignificação dos serviços e à melhoria das condições sociais e de trabalho do pessoal da PJ.\n\n6 - As normas relativas ao sistema eleitoral e mandato dos membros eleitos do CSPJ constam de regulamento interno a aprovar pelo membro do Governo responsável pela área da Justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705455": {
+   "fragment_id": "70102611",
+   "type": 1,
+   "heading": "Capítulo III — Serviços",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo III — Serviços\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705456": {
+   "fragment_id": "70102612",
+   "type": 11,
+   "heading": "Artigo 27.º — Serviços da Direcção Nacional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Serviços da Direcção Nacional\n\nA Direcção Nacional da PJ compreende os seguintes serviços, que funcionam na dependência do director nacional:\n\na) A Escola de Polícia Judiciária;\n\nb) A Unidade de Prevenção e Apoio Tecnológico;\n\nc) A Unidade de Informação Financeira;\n\nd) A Unidade de Planeamento, Assessoria Técnica e Documentação.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705457": {
+   "fragment_id": "70102613",
+   "type": 11,
+   "heading": "Artigo 28.º — Unidades nacionais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 28.º — Unidades nacionais\n\n1 - Na PJ existem as seguintes unidades nacionais:\n\na) A Unidade Nacional Contra-Terrorismo;\n\nb) A Unidade Nacional de Combate à Corrupção;\n\nc) A Unidade Nacional de Combate ao Tráfico de Estupefacientes.\n\nd) A Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica.\n\n2 - As unidades nacionais podem dispor de extensões ou instalações operacionais fora do local das respectivas sedes.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "124705458": {
+   "fragment_id": "70102614",
+   "type": 11,
+   "heading": "Artigo 29.º — Unidades territoriais, regionais e locais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Unidades territoriais, regionais e locais\n\n1 - As competências das unidades territoriais, regionais e locais da PJ são estabelecidas nos termos do decreto-lei referido no n.º 2 do artigo 22.º\n\n2 - A sede e área geográfica de intervenção das unidades territoriais, regionais e locais da PJ são estabelecidas nos termos da portaria referida no n.º 3 do artigo 22.º\n\n3 - As unidades regionais e locais funcionam na dependência de um funcionário da carreira de investigação criminal, nos termos fixados pelo director nacional.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705459": {
+   "fragment_id": "70102615",
+   "type": 11,
+   "heading": "Artigo 30.º — Unidades de apoio à investigação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Unidades de apoio à investigação\n\nNa PJ existem as seguintes unidades de apoio à investigação:\n\na) A Unidade de Informação de Investigação Criminal;\n\nb) A Unidade de Cooperação Internacional;\n\nc) O Laboratório de Polícia Científica;\n\nd) A Unidade de Telecomunicações e Informática.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705460": {
+   "fragment_id": "70102616",
+   "type": 11,
+   "heading": "Artigo 31.º — Unidades de suporte",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Unidades de suporte\n\nNa PJ existem as seguintes unidades de suporte:\n\na) A Unidade de Administração Financeira, Patrimonial e de Segurança;\n\nb) A Unidade de Recursos Humanos e Relações Públicas;\n\nc) A Unidade de Perícia Financeira e Contabilística;\n\nd) A Unidade Disciplinar e de Inspecção.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705461": {
+   "fragment_id": "70102617",
+   "type": 1,
+   "heading": "Capítulo IV — Direcção dos serviços",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo IV — Direcção dos serviços\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705462": {
+   "fragment_id": "70102618",
+   "type": 11,
+   "heading": "Artigo 32.º — Directores das unidades nacionais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Directores das unidades nacionais\n\nCompete aos directores das unidades nacionais:\n\na) Representar, dirigir, orientar e coordenar a nível nacional as acções de prevenção, de detecção e de investigação e coadjuvação das autoridades judiciárias relativamente a crimes da competência da respectiva unidade nacional, nos termos a estabelecer pelos directores nacionais-adjuntos;\n\nb) Apresentar ao director nacional, até 15 de Março, o relatório anual;\n\nc) Exercer as competências delegadas e subdelegadas pelo director nacional;\n\nd) Exercer as demais competências que lhes sejam conferidas por lei ou regulamento.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705463": {
+   "fragment_id": "70102619",
+   "type": 11,
+   "heading": "Artigo 33.º — Directores das unidades territoriais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Directores das unidades territoriais\n\n1 - Compete aos directores das unidades territoriais:\n\na) Representar, dirigir, orientar e coordenar as acções de prevenção, detecção, investigação e coadjuvação das autoridades judiciárias relativamente a crimes da competência da unidade territorial;\n\nb) Coordenar as unidades regionais e locais que lhes estejam adstritas, nos termos fixados pelo director nacional;\n\nc) Apresentar ao director nacional, até 15 de Março, o relatório anual que deve integrar a descrição das actividades desenvolvidas pelas unidades regionais e locais existentes na dependência da respectiva unidade territorial;\n\nd) Exercer as competências delegadas e subdelegadas pelo director nacional;\n\ne) Exercer as demais competências que lhes sejam conferidas por lei ou regulamento.\n\n2 - Nas faltas e impedimentos ou em caso de vacatura do lugar, o director de unidade territorial é substituído temporariamente pelo subdirector da unidade territorial.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705464": {
+   "fragment_id": "70102620",
+   "type": 11,
+   "heading": "Artigo 34.º — Directores de unidades",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Directores de unidades\n\nCompete aos directores de unidades:\n\na) Representar, dirigir, orientar e coordenar a nível nacional as actividades das respectivas unidades, no âmbito das suas competências;\n\nb) Apresentar ao director nacional, até 15 de Março, o relatório anual;\n\nc) Exercer as competências delegadas e subdelegadas pelo director nacional;\n\nd) Exercer as demais competências que lhes sejam conferidas por lei ou regulamento.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705465": {
+   "fragment_id": "70102621",
+   "type": 11,
+   "heading": "Artigo 35.º — Subdirectores das unidades territoriais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Subdirectores das unidades territoriais\n\nCompete aos subdirectores das unidades territoriais coadjuvar os directores da respectiva unidade.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705466": {
+   "fragment_id": "70102622",
+   "type": 11,
+   "heading": "Artigo 36.º — Chefes de área",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Chefes de área\n\nCompete aos chefes de área, designadamente:\n\na) Coadjuvar directamente o respectivo director;\n\nb) Chefiar e orientar a unidade orgânica nos domínios da respectiva competência;\n\nc) Emitir informações e pareceres que lhe forem solicitados pelo respectivo director.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705467": {
+   "fragment_id": "70102623",
+   "type": 11,
+   "heading": "Artigo 37.º — Lugares de direcção",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Lugares de direcção\n\nOs lugares de direcção superior e intermédia são estabelecidos em portaria a aprovar pelos membros responsáveis pelas áreas das Finanças e da Justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705468": {
+   "fragment_id": "70102624",
+   "type": 13,
+   "heading": "Título III — Provimento",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Título III — Provimento\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705469": {
+   "fragment_id": "70102625",
+   "type": 11,
+   "heading": "Artigo 38.º — Regra geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — Regra geral\n\nO recrutamento do pessoal dirigente e de chefia da PJ é realizado por escolha, nos termos dos artigos seguintes.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705470": {
+   "fragment_id": "70102626",
+   "type": 11,
+   "heading": "Artigo 39.º — Director nacional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 39.º — Director nacional\n\n1 - O director nacional é provido, por despacho conjunto do Primeiro-Ministro e do membro Governo responsável pela área da Justiça, de entre magistrados judiciais ou do Ministério Público, assessores de investigação criminal e coordenadores superiores de investigação criminal ou licenciados em Direito de reconhecida competência profissional e experiência para o desempenho das funções, vinculados ou não à Administração Pública.\n\n2 - O cargo é provido em comissão de serviço por um período de três anos, renovável por iguais períodos.\n\n3 - A renovação da comissão de serviço deverá ser comunicada ao interessado até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respectivo período se o membro do Governo responsável pela área da Justiça não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se manterá no exercício de funções de gestão corrente até à nomeação do novo titular do cargo.\n\n4 - Para efeitos de eventual renovação da comissão de serviço, deve a entidade competente ser informada, com a antecedência de 90 dias, do termo de cada comissão, cessando esta automaticamente no fim do respectivo período sempre que não seja dado cumprimento àquela formalidade.\n\n5 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do membro do Governo responsável pela área da Justiça, por iniciativa deste ou a requerimento do interessado.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705471": {
+   "fragment_id": "70102627",
+   "type": 11,
+   "heading": "Artigo 40.º — Directores nacionais-adjuntos",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Directores nacionais-adjuntos\n\n1 - Os directores nacionais-adjuntos são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o desempenho das funções, vinculados ou não à Administração Pública.\n\n2 - Ao provimento é aplicável o disposto nos n.os 2, 3 e 4 do artigo anterior.\n\n3 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do ministro da tutela, por iniciativa deste, por proposta do director nacional, ou a requerimento do interessado.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705472": {
+   "fragment_id": "70102628",
+   "type": 11,
+   "heading": "Artigo 41.º — Directores de unidades nacionais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 41.º — Directores de unidades nacionais\n\n1 - Os directores de unidades nacionais são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n2 - O director da Escola de Polícia Judiciária é provido de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o desempenho das funções.\n\n3 - O director da Unidade de Prevenção e Apoio Tecnológico é provido de entre:\n\na) Assessores de investigação criminal;\n\nb) Coordenadores superiores de investigação criminal;\n\nc) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n4 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705473": {
+   "fragment_id": "70102629",
+   "type": 11,
+   "heading": "Artigo 42.º — Directores de unidades territoriais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Directores de unidades territoriais\n\n1 - Os directores de unidades territoriais são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal;\n\ne) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n2 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705474": {
+   "fragment_id": "70102630",
+   "type": 11,
+   "heading": "Artigo 43.º — Directores de unidades",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 43.º — Directores de unidades\n\n1 - Os directores de unidades são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional.\n\n2 - Os directores das unidades de apoio à investigação e o director da Unidade de Informação Financeira são nomeados de entre:\n\na) Assessores de investigação criminal;\n\nb) Coordenadores superiores de investigação criminal;\n\nc) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria;\n\nd) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o desempenho das funções.\n\n3 - O director da Unidade de Planeamento, Assessoria Técnica e Documentação é provido de entre:\n\na) Especialistas superiores com, pelo menos, seis anos de serviço na carreira;\n\nb) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o exercício das funções.\n\n4 - Os directores das unidades de suporte são nomeados de entre:\n\na) Especialistas superiores com, pelo menos, seis anos de serviço na carreira;\n\nb) Detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o exercício das funções.\n\n5 - O director da Unidade Disciplinar e de Inspecção é provido de entre:\n\na) Magistrados judiciais;\n\nb) Magistrados do Ministério Público;\n\nc) Assessores de investigação criminal;\n\nd) Coordenadores superiores de investigação criminal.\n\n6 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705575": {
+   "fragment_id": "70102631",
+   "type": 11,
+   "heading": "Artigo 44.º — Subdirectores de unidades territoriais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 44.º — Subdirectores de unidades territoriais\n\n1 - Os subdirectores de unidades territoriais são providos por despacho do membro do Governo responsável pela área da Justiça, sob proposta do director nacional, de entre:\n\na) Assessores de investigação criminal;\n\nb) Coordenadores superiores de investigação criminal;\n\nc) Coordenadores de investigação criminal com mais de cinco anos de serviço na categoria.\n\n2 - Ao provimento é aplicável o disposto nos n.os 2 e 3 do artigo 40.º, com as devidas adaptações.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705576": {
+   "fragment_id": "70102632",
+   "type": 11,
+   "heading": "Artigo 45.º — Chefes de área",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 45.º — Chefes de área\n\n1 - Os chefes de área são providos por escolha, mediante despacho do director nacional, de entre especialistas superiores com pelo menos cinco anos de serviço na carreira.\n\n2 - O chefe de área do serviço de armamento e segurança na Unidade de Administração Financeira, Patrimonial e de Segurança é provido por escolha, de entre pessoal de investigação criminal com pelo menos cinco anos de serviço na carreira.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705577": {
+   "fragment_id": "70102633",
+   "type": 13,
+   "heading": "Título IV — Disposições financeiras",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Título IV — Disposições financeiras\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705578": {
+   "fragment_id": "70102634",
+   "type": 11,
+   "heading": "Artigo 46.º — Receitas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 46.º — Receitas\n\n1 - A PJ dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A PJ dispõe das receitas provenientes das transferências do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.).\n\n3 - A PJ é responsável pela arrecadação das seguintes receitas próprias resultantes da sua actividade:\n\na) As importâncias cobradas pela venda de publicações e de artigos de promoção institucional;\n\nb) As quantias cobradas por actividades ou serviços prestados, designadamente acções de formação, realização de perícias e exames, extracção de certidões e cópias em suporte de papel ou digital;\n\nc) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n4 - As quantias cobradas ao abrigo do disposto no número anterior são pagas à PJ de acordo com a tabela aprovada por portaria do membro do Governo responsável pela área da Justiça.\n\n5 - As receitas referidas nos n.os 2 e 3 são consignadas à realização de despesas da PJ durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705579": {
+   "fragment_id": "70102635",
+   "type": 11,
+   "heading": "Artigo 47.º — Despesas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 47.º — Despesas\n\nConstituem despesas da PJ as que resultem de encargos decorrentes da prossecução das atribuições que lhe são cometidas.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705580": {
+   "fragment_id": "70102636",
+   "type": 11,
+   "heading": "Artigo 48.º — Despesas classificadas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 48.º — Despesas classificadas\n\n1 - A PJ pode realizar despesas sujeitas ao regime de despesas classificadas, definido no presente artigo, nos casos em que o conhecimento ou a divulgação da identidade dos prestadores de serviços possa colocar em risco a sua vida ou integridade física, ou o conhecimento do circunstancialismo da realização da despesa possa comprometer quer a eficácia quer a segurança das actividades de investigação e apoio à investigação.\n\n2 - As despesas classificadas são justificadas por documento assinado pelo director nacional.\n\n3 - As demais regras de gestão orçamental deste tipo de despesas são fixadas por despacho conjunto dos membros do Governo responsáveis pelas áreas das Finanças e da Justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705581": {
+   "fragment_id": "70102637",
+   "type": 13,
+   "heading": "Título V — Disposições finais e transitórias",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Título V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705582": {
+   "fragment_id": "70102638",
+   "type": 11,
+   "heading": "Artigo 49.º — Direcção dos departamentos de investigação criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 49.º — Direcção dos departamentos de investigação criminal\n\nAs comissões de serviço do pessoal provido na direcção dos departamentos de investigação criminal cessam na data de entrada em vigor da presente lei, mantendo-se os funcionários no exercício de funções de gestão corrente até à nomeação de novo titular.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705583": {
+   "fragment_id": "70102639",
+   "type": 11,
+   "heading": "Artigo 50.º — Pessoal de chefia de apoio à investigação criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 50.º — Pessoal de chefia de apoio à investigação criminal\n\nAs comissões de serviço do pessoal de chefia de apoio à investigação criminal cessam na data de entrada em vigor da presente lei, mantendo-se os funcionários nomeados no exercício de funções de gestão corrente até à reestruturação do respectivo serviço.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705584": {
+   "fragment_id": "70102640",
+   "type": 11,
+   "heading": "Artigo 51.º — Oficiais de ligação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 51.º — Oficiais de ligação\n\nMantêm-se em vigor as comissões de serviço em curso dos oficiais de ligação acreditados junto de Estados estrangeiros ou organismos internacionais.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705585": {
+   "fragment_id": "70102641",
+   "type": 11,
+   "heading": "Artigo 52.º — Concursos e cursos de formação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 52.º — Concursos e cursos de formação\n\n1 - Mantêm-se válidos os concursos cujo aviso de abertura tenha sido publicado até à data da entrada em vigor da presente lei, bem como os cursos de formação que se encontrem nas mesmas condições.\n\n2 - Para efeitos do número anterior as designações das carreiras e categorias consideram-se reportadas ao disposto no diploma regulador do Estatuto do Pessoal da PJ.\n\n3 - O direito a um abono mensal igual ao valor do índice 100 da escala salarial do regime geral da função pública, atribuível aos alunos não vinculados à função pública que frequentem cursos de formação para ingresso na PJ, é assegurado por dotação a inscrever no orçamento da PJ.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705586": {
+   "fragment_id": "70102642",
+   "type": 11,
+   "heading": "Artigo 53.º — Reestruturação dos serviços",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 53.º — Reestruturação dos serviços\n\n1 - O pessoal em exercício de funções no Instituto Superior de Polícia Judiciária e Ciências Criminais é integrado no quadro de pessoal da PJ.\n\n2 - O pessoal docente contratado é integrado na carreira de especialista superior de acordo com regras a definir em despacho do director nacional.\n\n3 - A sucessão de direitos e obrigações, bem como a reafectação dos recursos financeiros e organizacionais do Instituto Superior de Polícia Judiciária e Ciências Criminais são efectuadas nos termos da lei.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705587": {
+   "fragment_id": "70102643",
+   "type": 11,
+   "heading": "Artigo 54.º — Regulamentação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 54.º — Regulamentação\n\n1 - Os regulamentos em vigor para a PJ continuam a aplicar-se, com as necessárias adaptações, até à publicação da regulamentação decorrente das normas previstas na presente lei.\n\n2 - Enquanto não for publicada a regulamentação referida no número anterior permanecem em vigor, com as necessárias adaptações, os regulamentos internos disciplinadores do funcionamento do Instituto Superior de Polícia Judiciária e Ciências Criminais.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705588": {
+   "fragment_id": "70102644",
+   "type": 11,
+   "heading": "Artigo 55.º — Direitos e deveres",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 55.º — Direitos e deveres\n\nOs regimes e estruturas das carreiras do pessoal de investigação criminal e do pessoal de apoio à investigação criminal serão regulamentados em diploma próprio.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705589": {
+   "fragment_id": "70102645",
+   "type": 11,
+   "heading": "Artigo 56.º — Salvaguarda de direitos",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 56.º — Salvaguarda de direitos\n\nA efectivação do direito de acesso na carreira dos funcionários providos em cargos dirigentes e de chefia de área, até à entrada em vigor da presente lei, é realizada mediante despacho do director nacional, precedido de confirmação dos respectivos pressupostos pela Unidade de Recursos Humanos e Relações Públicas.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705590": {
+   "fragment_id": "70102646",
+   "type": 11,
+   "heading": "Artigo 57.º — Alteração ao Decreto-Lei n.º 275-A/2000, de 9 de Novembro",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 57.º — Alteração ao Decreto-Lei n.º 275-A/2000, de 9 de Novembro\n\nO artigo 84.º da Lei Orgânica da Polícia Judiciária, aprovada pelo Decreto-Lei n.º 275-A/2000, de 9 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 84.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Por despacho conjunto do Ministro da Justiça e do membro do Governo que tutela a área dos transportes, é fixado anualmente o encargo decorrente da atribuição do direito previsto nos n.os 1 e 2, despesa a suportar pelo orçamento da PJ.»\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705591": {
+   "fragment_id": "70102647",
+   "type": 11,
+   "heading": "Artigo 58.º — Efeitos revogatórios",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 58.º — Efeitos revogatórios\n\nNos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, consideram-se revogados na data de entrada em vigor da presente lei:\n\na) Os artigos 1.º a 61.º, 70.º, 112.º a 117.º, 129.º e 173.º a 175.º do Decreto-Lei n.º 275-A/2000, de 9 de Novembro, na redacção conferida pela Lei n.º 103/2001, de 25 de Agosto, Decreto-Lei n.º 304/2002, de 13 de Dezembro, e Decreto-Lei n.º 43/2003, de 13 de Março;\n\nb) Todas as disposições normativas referentes ao Instituto Superior de Polícia Judiciária e Ciências Criminais, designadamente o Decreto-Lei n.º 37/78, de 20 de Fevereiro, Decreto-Lei n.º 235/80, de 18 de Julho, Portaria n.º 316/87, de 16 de Abril, Decreto-Lei n.º 54/88, de 25 de Fevereiro, Decreto-Lei n.º 88/88, de 10 de Março, Portaria n.º 434/88, de 6 de Julho, despacho conjunto A-22/90-XI, de 5 de Abril, Decreto Regulamentar n.º 13/91, de 11 de Abril, Portaria n.º 1070/94, de 7 de Dezembro, e despacho conjunto n.º 868/2003, de 2 de Setembro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705592": {
+   "fragment_id": "70102648",
+   "type": 11,
+   "heading": "Artigo 59.º — Entrada em vigor",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 59.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 30 dias a contar da respectiva publicação.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705593": {
+   "fragment_id": "70102649",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "Aprovada em 2 de Julho de 2008.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 21 de Julho de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 22 de Julho de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  }
+ }
+}

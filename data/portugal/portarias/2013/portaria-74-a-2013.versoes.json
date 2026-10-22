@@ -1,0 +1,1014 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:458607:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-67390905",
+ "dre_path": "/dr/detalhe/portaria/74-a-2013-458607",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-02-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116170392",
+    "67379145",
+    "67379146",
+    "67379147",
+    "67379148",
+    "67379149",
+    "67379150",
+    "67379151",
+    "67379152",
+    "67379153",
+    "67379154",
+    "67379155",
+    "67379156",
+    "67379157",
+    "67379158",
+    "67379159",
+    "67379160",
+    "67379161",
+    "67379162",
+    "67379163",
+    "67379164",
+    "67379165",
+    "67379166",
+    "67379167",
+    "67379168",
+    "67379169",
+    "67379170",
+    "67379171",
+    "67379172",
+    "67379173",
+    "67379174",
+    "67399175",
+    "67399176",
+    "67399177",
+    "67399178",
+    "67399179",
+    "67399180",
+    "67399181",
+    "67399182",
+    "67399183",
+    "67399184"
+   ]
+  },
+  {
+   "date": "2014-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302502:por",
+     "title": "Portaria n.º 59-C/2014",
+     "published": "2014-03-07",
+     "dre_path": "/dr/detalhe/portaria/59-c-2014-302502"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "67379144",
+    "67379145",
+    "67379146",
+    "67379147",
+    "67379148",
+    "67379149",
+    "67379150",
+    "67379151",
+    "67379152",
+    "67379153",
+    "67379154",
+    "67379155",
+    "67379156",
+    "67379157",
+    "67379158",
+    "67379159",
+    "67379160",
+    "67379161",
+    "67379162",
+    "67379163",
+    "67379164",
+    "67379165",
+    "67379166",
+    "67379167",
+    "67379168",
+    "67379169",
+    "67379170",
+    "67379171",
+    "67379172",
+    "67379173",
+    "67379174",
+    "67399175",
+    "67399176",
+    "67399177",
+    "67403691",
+    "67399179",
+    "67399180",
+    "67399181",
+    "67399182",
+    "67399183",
+    "67399184",
+    "67399187"
+   ]
+  },
+  {
+   "date": "2015-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67401231:por",
+     "title": "Portaria n.º 165-B/2015",
+     "published": "2015-06-03",
+     "dre_path": "/dr/detalhe/portaria/165-b-2015-67401231"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "67379144",
+    "67379145",
+    "67379146",
+    "67379147",
+    "67379148",
+    "67379149",
+    "67379150",
+    "67379151",
+    "67379152",
+    "67379153",
+    "67379154",
+    "67379155",
+    "67379156",
+    "67379157",
+    "67379158",
+    "67379159",
+    "67379160",
+    "67379161",
+    "67379162",
+    "67379163",
+    "67379164",
+    "67379165",
+    "67379166",
+    "67379167",
+    "67379168",
+    "67379169",
+    "67379170",
+    "67379171",
+    "67379172",
+    "67379173",
+    "67379174",
+    "67399175",
+    "67399176",
+    "67399177",
+    "67403693",
+    "67399179",
+    "67399180",
+    "67399181",
+    "67399182",
+    "67399183",
+    "67399184",
+    "67399187"
+   ]
+  },
+  {
+   "date": "2018-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116154369:por",
+     "title": "Portaria n.º 235-A/2018",
+     "published": "2018-08-23",
+     "dre_path": "/dr/detalhe/portaria/235-a-2018-116154369"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "116170392",
+    "116170393",
+    "116170394",
+    "116170395",
+    "116170396",
+    "116170397",
+    "116170398",
+    "116170399",
+    "116170400",
+    "116170401",
+    "116170402",
+    "116170403",
+    "116170404",
+    "116170405",
+    "116170406",
+    "116170407",
+    "116170408",
+    "116170409",
+    "116170410",
+    "116170411",
+    "116170412",
+    "116170413",
+    "116170414",
+    "116170415",
+    "116170416",
+    "116170417",
+    "116170418",
+    "116170419",
+    "116170420",
+    "116170421",
+    "116170422",
+    "116170423",
+    "116170424",
+    "116170425",
+    "116170426",
+    "116170427",
+    "116170428",
+    "116170429",
+    "116170430",
+    "116170431",
+    "116170432",
+    "116170433"
+   ]
+  }
+ ],
+ "fragments": {
+  "116170392": {
+   "fragment_id": "67390906",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-08-24",
+   "changed_by": [],
+   "markdown": "Portaria n.º 74-A/2013\n\nde 15 de fevereiro\n\nO XIX Governo Constitucional prevê um conjunto de novas medidas dirigidas à competitividade, ao crescimento e ao emprego, nas quais se enquadra um programa de atuação para o eixo dos jovens, no âmbito dos acordos sobre o reforço do ensino profissional.\n\nNeste âmbito o Governo assumiu, ainda, o compromisso de ajustar a oferta de formação às necessidades e prioridades dos diferentes sectores socioeconómicos, tomando particular importância a interação permanente entre as escolas e as empresas.\n\nDas medidas previstas destaca-se a articulação das ofertas formativas oferecidas pelas várias entidades, a promoção de parcerias locais entre entidades dos sistemas de ensino e formação profissional, do sistema educativo e da sociedade civil.\n\nEm conformidade, assume particular relevo a revisão das várias modalidades de ensino profissionalizante visando anular sobreposições e assegurar a relevância da oferta formativa. De referir que o Sistema Nacional de Qualificações consagra, através do Catálogo Nacional de Qualificações, enquanto instrumento único de referência para a educação e formação de dupla certificação, a harmonização das modalidades atendendo ao público-alvo e às qualificações associadas.\n\nNeste contexto, considerando que importa assegurar o regular funcionamento dos ciclos de formação dos cursos profissionais após entrada em vigor do Decreto-Lei n.º 139/2012, de 5 de julho, que revoga o Decreto-Lei n.º 74/2004 de 26 de março, torna-se necessário estabelecer normas relativas à organização dos cursos e respetiva gestão do currículo, avaliação e certificação, a observar até à consecução da revisão das modalidades de ensino profissionalizante.\n\nTendo presente tais circunstâncias, bem assim como a especificidade curricular e da avaliação do ensino profissional, impõe-se, por um lado, que o regime de classificação para efeitos de prosseguimento de estudos no ensino superior reflita essa especificidade, por outro, que se garanta equidade na sua aplicação no ano letivo 2012-2013 face a outras ofertas formativas.\n\nAssim, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 139/2012, de 5 de julho, conjugado com o n.º 3 do artigo 9.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, manda o Governo, pelos Secretários de Estado do Emprego e do Ensino Básico e Secundário, o seguinte:"
+  },
+  "67379145": {
+   "fragment_id": "67390907",
+   "type": 1,
+   "heading": "Capítulo I — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Organização e funcionamento"
+  },
+  "67379146": {
+   "fragment_id": "67390908",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as normas de organização, funcionamento, avaliação e certificação dos cursos profissionais ministrados em estabelecimentos de ensino público, particular e cooperativo, que ofereçam o nível secundário de educação, e em escolas profissionais, nos termos definidos no Decreto-Lei n.º 139/2012, de 5 de julho, a desenvolver até à entrada em vigor do quadro normativo decorrente da revisão das modalidades de ensino profissionalizante para jovens.\n\n2 - As referências a órgãos e ou estruturas de direção ou gestão e de coordenação e supervisão pedagógica constantes no presente diploma consideram-se dirigidas aos órgãos e ou estruturas com competência em razão da matéria, de acordo com o regime jurídico aplicável aos diferentes estabelecimentos de ensino."
+  },
+  "67379147": {
+   "fragment_id": "67390909",
+   "type": 11,
+   "heading": "Artigo 2.º — Organização dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Organização dos cursos\n\n1 - A organização dos cursos profissionais obedece ao estabelecido na respetiva matriz curricular atento o disposto no Decreto-Lei n.º 139/2012, de 5 de julho, quanto às disciplinas, formação em contexto de trabalho (FCT), cargas horárias e respetiva gestão, bem como aos referenciais de formação e demais requisitos previstos nos artigos seguintes.\n\n2 - Sem prejuízo do disposto no número anterior, os cursos profissionais enquadram-se no Catálogo Nacional de Qualificações (CNQ), em regime transitório até à sua integração nos termos do disposto no Decreto-Lei n.º 396/2007, de 31 de dezembro, e são agrupados por áreas de educação e formação, de acordo com a Classificação Nacional de Áreas de Educação e Formação, aprovada pela Portaria n.º 256/2005, de 16 de março."
+  },
+  "67379148": {
+   "fragment_id": "67390910",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito, organização e desenvolvimento da formação em contexto de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito, organização e desenvolvimento da formação em contexto de trabalho\n\n1 - A FCT integra um conjunto de atividades profissionais desenvolvidas sob coordenação e acompanhamento da escola, que visam a aquisição ou o desenvolvimento de competências técnicas, relacionais e organizacionais relevantes para o perfil profissional visado pelo curso frequentado pelo aluno.\n\n2 - A FCT realiza-se em empresas ou noutras organizações, sob a forma de experiências de trabalho por períodos de duração variável ao longo da formação, ou sob a forma de estágio em etapas intermédias ou na fase final do curso.\n\n3 - Por razões supervenientes à entrada em funcionamento do curso, e mediante autorização prévia do serviço responsável, a FCT pode realizar-se, parcialmente, através da simulação de um conjunto de atividades profissionais relevantes para o perfil profissional visado pelo curso a desenvolver em condições similares à do contexto real de trabalho.\n\n4 - A concretização da FCT é antecedida e prevista em protocolo enquadrador celebrado entre a escola e as entidades de acolhimento, as quais devem desenvolver atividades profissionais compatíveis e adequadas ao perfil profissional visado pelo curso frequentado pelo aluno.\n\n5 - A organização e o desenvolvimento da FCT obedecem a um plano de trabalho individual, elaborado com a participação das partes envolvidas e assinado pelo órgão competente da escola, pela entidade de acolhimento, pelo aluno e ainda pelo encarregado de educação, caso o mesmo seja menor de idade.\n\n6 - O plano a que se refere o número anterior, depois de assinado pelas partes, é considerado como parte integrante do contrato de formação subscrito entre a escola e o aluno e identifica os objetivos, o conteúdo, a programação, o período, horário e local de realização das atividades, as formas de monitorização e acompanhamento, com a identificação dos responsáveis, bem como os direitos e deveres dos diversos intervenientes, da escola e da entidade onde se realiza a FCT.\n\n7 - A FCT deve ser ajustada ao horário de funcionamento da entidade de acolhimento, não devendo a duração semanal ultrapassar as trinta e cinco horas, nem a duração diária as sete horas.\n\n8 - A orientação e o acompanhamento do aluno, durante a FCT, são partilhados, sob coordenação da escola, entre esta e a entidade de acolhimento, cabendo à última designar o respetivo tutor.\n\n9 - Os alunos têm direito a um seguro que garanta a cobertura dos riscos das deslocações a que estiverem obrigados, bem como das atividades a desenvolver.\n\n10 - O contrato e o protocolo referidos nos anteriores números 4 e 6 não geram nem titulam, respetivamente, relações de trabalho subordinado e caducam com a conclusão da formação para que foram celebrados.\n\n11 - A aprendizagem visada pela FCT inclui, em todas as modalidades, a aquisição de conhecimentos e o desenvolvimento de capacidades no âmbito da saúde e segurança no trabalho.\n\n12 - O professor orientador da FCT é designado pelo órgão competente de direção ou gestão da escola, ouvido o diretor de curso, de entre os professores que lecionam as disciplinas da componente de formação técnica."
+  },
+  "67379149": {
+   "fragment_id": "67390911",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidades dos intervenientes na formação em contexto de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos intervenientes na formação em contexto de trabalho\n\n1 - São responsabilidades específicas da escola:\n\na) Assegurar a realização da FCT, nos termos definidos na lei e nos regulamentos aplicáveis;\n\nb) Assegurar a elaboração dos protocolos com as entidades de acolhimento;\n\nc) Estabelecer os critérios e distribuir os alunos pelas entidades de acolhimento;\n\nd) Assegurar a elaboração e a assinatura dos contratos de formação com os alunos e seus encarregados de educação, se aqueles forem menores;\n\ne) Assegurar a elaboração do plano de trabalho do aluno, bem como a respetiva assinatura por parte de todos os intervenientes;\n\nf) Assegurar o acompanhamento da execução do plano de trabalho do aluno, bem como a avaliação de desempenho dos alunos, em colaboração com a entidade de acolhimento;\n\ng) Assegurar que o aluno se encontra coberto por seguro em todas as atividades da FCT;\n\nh) Assegurar, em conjunto com a entidade de acolhimento e o aluno, as condições logísticas necessárias à realização e ao acompanhamento da FCT.\n\n2 - São responsabilidades específicas do professor orientador da FCT:\n\na) Elaborar o plano de trabalho do aluno, em articulação com o diretor de curso e, quando for o caso, com os demais órgãos e estruturas de coordenação e supervisão pedagógica competentes, bem como com os restantes professores do curso e o tutor designado pela entidade de acolhimento do aluno.\n\nb) Acompanhar a execução do plano de trabalho do aluno, nomeadamente através de deslocações periódicas aos locais em que a mesma se realiza, pelo menos duas vezes por período de FCT;\n\nc) Avaliar, em conjunto com o tutor designado pela entidade de acolhimento, o desempenho do aluno;\n\nd) Acompanhar o aluno na elaboração dos relatórios da FCT;\n\ne) Propor ao conselho de turma de avaliação, ouvido o tutor, a classificação do aluno na FCT.\n\n3 - São responsabilidades específicas da entidade de acolhimento:\n\na) Designar o tutor;\n\nb) Colaborar na elaboração do plano de trabalho do aluno;\n\nc) Atribuir ao aluno tarefas que permitam a execução do seu plano de trabalho;\n\nd) Colaborar no acompanhamento e na avaliação do desempenho do aluno na FCT;\n\ne) Assegurar o acesso à informação necessária ao desenvolvimento da FCT, nomeadamente no que diz respeito à integração socioprofissional do aluno na entidade;\n\nf) Controlar a assiduidade e a pontualidade do aluno;\n\ng) Assegurar, em conjunto com a escola e o aluno, as condições logísticas necessárias à realização e ao acompanhamento da FCT.\n\n4 - São responsabilidades específicas do aluno:\n\na) Colaborar na elaboração do seu plano de trabalho;\n\nb) Participar nas reuniões de acompanhamento e avaliação da FCT para que for convocado;\n\nc) Cumprir, no que lhe compete, o seu plano de trabalho;\n\nd) Respeitar a organização do trabalho na entidade de acolhimento e utilizar com zelo os bens, equipamentos e instalações da mesma;\n\ne) Não utilizar, sem prévia autorização da entidade de acolhimento, a informação a que tiver acesso durante a FCT;\n\nf) Ser assíduo e pontual;\n\ng) Justificar as faltas perante o diretor de turma, o diretor de curso e o tutor, de acordo com as normas internas da escola e da entidade de acolhimento;\n\nh) Elaborar os relatórios intercalares e o relatório final da FCT, de acordo com o estabelecido no regulamento interno da escola.\n\n5 - Quando a FCT se desenvolva nos termos previstos no n.º 3 do artigo 3.º, as funções atribuídas no presente diploma ao tutor designado pela entidade de acolhimento são assumidas pelos professores das disciplinas da componente de formação técnica."
+  },
+  "67379150": {
+   "fragment_id": "67390912",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamento da formação em contexto de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regulamento da formação em contexto de trabalho\n\n1 - A FCT rege-se, em todas as matérias não previstas no presente diploma ou em regulamentação subsequente, por regulamento específico, aprovado pelos órgãos competentes da escola, a integrar no respetivo regulamento interno.\n\n2 - O regulamento da FCT define, obrigatoriamente, entre outras matérias, o regime aplicável às modalidades efetivamente encontradas pela escola para a operacionalização da FCT, a fórmula de apuramento da respetiva classificação final, incluindo o peso relativo a atribuir às suas diferentes modalidades ou etapas de concretização, bem como os critérios de designação do professor orientador responsável pelo acompanhamento dos alunos."
+  },
+  "67379151": {
+   "fragment_id": "67390913",
+   "type": 11,
+   "heading": "Artigo 6.º — Prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prova de aptidão profissional\n\nA prova de aptidão profissional (PAP) consiste na apresentação e defesa, perante um júri, de um projeto, consubstanciado num produto, material ou intelectual, numa intervenção ou numa atuação, consoante a natureza dos cursos, bem como do respetivo relatório final de realização e apreciação crítica, demonstrativo de conhecimentos e competências profissionais adquiridos ao longo da formação e estruturante do futuro profissional do aluno."
+  },
+  "67379152": {
+   "fragment_id": "67390914",
+   "type": 11,
+   "heading": "Artigo 7.º — Cargas horárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cargas horárias\n\n1 - A carga horária global prevista na matriz dos cursos profissionais é distribuída e gerida, pela escola no âmbito da sua autonomia, de forma flexível e otimizada ao longo dos três anos do ciclo de formação, acautelando o necessário equilíbrio anual, semanal e diário, nos termos estabelecidos nos números seguintes.\n\n2 - A carga horária do curso é distribuída ao longo dos três anos do ciclo de formação, de modo que não exceda, em caso algum, as mil e cem, as trinta e cinco e as sete horas por ano, semana e dia, respetivamente.\n\n3 - Da distribuição da carga horária global pelos diferentes anos do ciclo de formação não pode resultar, no conjunto dos três anos, um número de horas inferior ao previsto na matriz para as diferentes disciplinas ou para a FCT.\n\n4 - Nas disciplinas de caráter laboratorial, oficinal, informático ou artístico ou que impliquem trabalho prático ou experimental, pode haver lugar ao desdobramento de turmas, nos termos definidos por despacho do membro do Governo responsável pela área da educação.\n\n5 - É possível agregar disciplinas e ou componentes de formação comuns de dois cursos diferentes, mediante autorização prévia dos serviços competentes em matéria de autorização de funcionamento dos cursos e, quando aplicável, de financiamento."
+  },
+  "67379153": {
+   "fragment_id": "67390915",
+   "type": 11,
+   "heading": "Artigo 8.º — Coordenação pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Coordenação pedagógica\n\n1 - A coordenação pedagógica é assegurada pelo diretor de curso e pelo diretor de turma ou orientador educativo, nos termos previstos nos números seguintes.\n\n2 - A articulação da aprendizagem nas diferentes disciplinas e componentes de formação é assegurada pelo diretor de curso, designado pelo órgão competente de direção ou gestão da escola, ouvido o conselho pedagógico ou equivalente, preferencialmente de entre os docentes profissionalizados que lecionam as disciplinas da componente de formação técnica, competindo-lhe, sem prejuízo de outras competências definidas em regulamento interno ou delegadas:\n\na) Assegurar a articulação pedagógica entre as diferentes disciplinas e componentes de formação do curso;\n\nb) Organizar e coordenar as atividades a desenvolver no âmbito da formação técnica;\n\nc) Participar nas reuniões do conselho de turma, no âmbito das suas funções;\n\nd) Intervir no âmbito da orientação e acompanhamento da PAP, nos termos previstos no presente diploma;\n\ne) Assegurar a articulação entre a escola e as entidades de acolhimento da FCT, identificando-as, selecionando-as, preparando protocolos, participando na elaboração do plano de trabalho e dos contratos de formação, procedendo à distribuição dos alunos por aquelas entidades e coordenando o acompanhamento dos mesmos, em estreita relação com o professor orientador e o tutor responsáveis pelo acompanhamento dos alunos;\n\nf) Assegurar a articulação com os serviços com competência em matéria de apoio socioeducativo;\n\ng) Coordenar o acompanhamento e a avaliação do curso.\n\n3 - Compete ao diretor de turma ou orientador educativo, nos termos da legislação aplicável, em articulação com o conselho pedagógico ou equivalente e demais estruturas de coordenação e supervisão pedagógica, e, sempre que necessário, com o órgão competente de direção ou gestão da escola, a programação, coordenação e execução, designadamente, das seguintes atividades:\n\na) Fornecer aos alunos e, quando for o caso, aos seus encarregados de educação, pelo menos três vezes em cada ano letivo, informação global sobre o percurso formativo do aluno;\n\nb) Proceder a uma avaliação qualitativa do perfil de progressão de cada aluno e da turma, através da elaboração de um relatório descritivo sucinto que contenha, nomeadamente, referência explícita a parâmetros como a capacidade de aquisição e de aplicação de conhecimentos, de iniciativa, de autonomia, de criatividade, de comunicação, de trabalho em equipa e de cooperação, de articulação com o meio envolvente e de concretização de projetos;\n\nc) Elaborar uma síntese das principais dificuldades evidenciadas por cada aluno, com indicações relativas a atividades de recuperação e ou enriquecimento, a anexar ao relatório descritivo a que se refere a alínea anterior;\n\nd) Identificar o perfil da evolução dos alunos, fundamentado na avaliação de cada módulo e na progressão registada em cada disciplina, a anexar ao relatório descritivo a que se refere a alínea b)."
+  },
+  "67379154": {
+   "fragment_id": "67390916",
+   "type": 11,
+   "heading": "Artigo 9.º — Assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Assiduidade\n\n1 - No cumprimento do plano de estudos, para efeitos de conclusão do curso com aproveitamento, devem estar reunidos, cumulativamente, os seguintes requisitos:\n\na) A assiduidade do aluno não pode ser inferior a 90% da carga horária de cada módulo de cada disciplina;\n\nb) A assiduidade do aluno na FCT não pode ser inferior a 95% da carga horária prevista.\n\n2 - Para os efeitos previstos no número anterior, o resultado da aplicação de qualquer das percentagens nele estabelecidas é arredondado por defeito, à unidade imediatamente anterior, para o cálculo da assiduidade, e por excesso, à unidade imediatamente seguinte, para determinar o limite de faltas permitido aos alunos.\n\n3 - Quando a falta de assiduidade do aluno for devidamente justificada, nos termos da legislação aplicável, as escolas devem assegurar:\n\na) No âmbito das disciplinas do curso:\n\ni. O prolongamento das atividades até ao cumprimento do número total de horas de formação estabelecidas; ou\n\nii. O desenvolvimento de mecanismos de recuperação tendo em vista o cumprimento dos objetivos de aprendizagem;\n\nb) No âmbito da FCT, o seu prolongamento a fim de permitir o cumprimento do número de horas estabelecido.\n\n4 - O disposto no número anterior não prejudica, no caso de faltas injustificadas, a aplicação de outras medidas previstas na lei ou, quando nesta não explicitamente previstas, fixadas em regulamento interno.\n\n5 - As escolas asseguram a oferta integral do número de horas de formação previsto na matriz dos cursos profissionais, adotando, para o efeito, todos os mecanismos de compensação ou substituição previstos na lei e nos respetivos estatutos ou regulamentos internos."
+  },
+  "67379155": {
+   "fragment_id": "67390917",
+   "type": 1,
+   "heading": "Capítulo II — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Avaliação"
+  },
+  "67379156": {
+   "fragment_id": "67390918",
+   "type": 8,
+   "heading": "Secção I — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Processo de avaliação"
+  },
+  "67379157": {
+   "fragment_id": "67390919",
+   "type": 11,
+   "heading": "Artigo 10.º — Objeto e finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Objeto e finalidades\n\n1 - A avaliação incide:\n\na) Sobre os conhecimentos e capacidades a adquirir e a desenvolver no âmbito das disciplinas respeitantes a cada uma das componentes de formação e no plano de trabalho da FCT;\n\nb) Sobre os conhecimentos, aptidões e atitudes identificados no perfil profissional associado à respetiva qualificação.\n\n2 - A avaliação assume carácter diagnóstico, formativo e sumativo, visando, designadamente:\n\na) Informar o aluno e o encarregado de educação e outras pessoas ou entidades legalmente autorizadas, quando for o caso, sobre os progressos, as dificuldades e os resultados obtidos na aprendizagem, esclarecendo as causas de sucesso ou insucesso;\n\nb) Adequar e diferenciar as estratégias de ensino, estimulando o desenvolvimento global do aluno nas áreas cognitiva, afetiva, relacional, social e psicomotora;\n\nc) Certificar a aprendizagem realizada;\n\nd) Contribuir para a melhoria da qualidade do sistema educativo, possibilitando a tomada de decisões para o seu aperfeiçoamento e reforço da confiança social no seu funcionamento."
+  },
+  "67379158": {
+   "fragment_id": "67390920",
+   "type": 11,
+   "heading": "Artigo 11.º — Intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Intervenientes\n\n1 - Intervêm no processo de avaliação:\n\na) O professor;\n\nb) O aluno;\n\nc) O diretor de turma ou orientador educativo;\n\nd) O conselho de turma;\n\ne) O diretor de curso;\n\nf) O professor orientador da FCT e da PAP;\n\ng) O tutor designado pela entidade de acolhimento;\n\nh) Os órgãos de direção ou gestão e as estruturas de coordenação e supervisão pedagógica da escola;\n\ni) Representantes das associações empresariais, profissionais e sindicais;\n\nj) Personalidades de reconhecido mérito na área da formação profissional ou nos sectores profissionais afins aos cursos;\n\nk) Serviços com competência em matéria de apoio socioeducativo;\n\n2 - A intervenção e participação dos órgãos, estruturas e entidades previstos no número anterior assumem as formas estabelecidas em legislação e regulamentação específica, ou, nas matérias que se inserem no âmbito da autonomia das escolas, nos instrumentos aprovados pelos órgãos competentes, de acordo com o regime jurídico aplicável.\n\n3 - Podem ainda participar no processo de avaliação outros elementos que intervenham no processo formativo do aluno, nos termos estabelecidos no número anterior."
+  },
+  "67379159": {
+   "fragment_id": "67390921",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de avaliação\n\n1 - No início das atividades escolares, o conselho pedagógico ou equivalente, ouvidos os professores e as estruturas de coordenação e supervisão pedagógica, nomeadamente o diretor de curso e o diretor de turma ou orientador educativo, define os critérios e os procedimentos de avaliação a aplicar tendo em conta a dimensão integradora da avaliação, incluindo, designadamente:\n\na) As condições de desenvolvimento do processo de ensino-aprendizagem;\n\nb) A dimensão transdisciplinar das atividades a desenvolver;\n\nc) Os conhecimentos, aptidões e atitudes a que se refere a alínea b) do n.º 1 do artigo 10.º;\n\nd) As estratégias de apoio educativo;\n\ne) A participação dos alunos em projetos de ligação entre a escola, a comunidade e o mundo do trabalho.\n\n2 - Os órgãos de gestão e administração da escola asseguram a divulgação dos critérios referidos no número anterior aos vários intervenientes, em especial aos alunos e aos encarregados de educação."
+  },
+  "67379160": {
+   "fragment_id": "67390922",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação sobre a aprendizagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação sobre a aprendizagem\n\n1 - A informação sobre a aprendizagem dos alunos é da responsabilidade:\n\na) Do professor ou equipa de professores responsáveis pela organização do processo de ensino, quando se trate de informação a obter no decurso do processo de aprendizagem, tendo em vista o desenvolvimento da avaliação diagnóstica, formativa ou sumativa interna;\n\nb) Do conselho de turma, quando se trate de informação a obter nas reuniões de avaliação a que se refere o n.º 1 do artigo 21.º da presente portaria.\n\nc) Do presidente do respetivo júri, quando se trate de informação a obter através da PAP;\n\nd) Do professor orientador e do representante da entidade de acolhimento, quando se trate de informação a obter através da realização da FCT;\n\ne) Dos serviços ou entidades do Ministério da Educação e Ciência (MEC) competentes, designados para o efeito, quando se trate de informação a obter através da realização de exames nacionais.\n\n2 - A informação a que se referem as alíneas a), b), c) e d) do número anterior é obtida de acordo com a natureza da aprendizagem e dos contextos em que ocorre.\n\n3 - A informação a que se refere a alínea e) do n.º 1 é obtida através dos exames finais nacionais realizados para efeito de acesso ao ensino superior;"
+  },
+  "67379161": {
+   "fragment_id": "67390923",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo, tratamento e análise da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registo, tratamento e análise da informação\n\n1 - Em cada estabelecimento de ensino devem ser desenvolvidos procedimentos de análise dos resultados da informação relativa à avaliação da aprendizagem dos alunos, proporcionando-se o desenvolvimento de práticas de autoavaliação da escola que visem a melhoria do seu desempenho.\n\n2 - A informação tratada e analisada é disponibilizada à comunidade escolar."
+  },
+  "67379162": {
+   "fragment_id": "67390924",
+   "type": 8,
+   "heading": "Secção II — Especificidades da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Especificidades da avaliação"
+  },
+  "67379163": {
+   "fragment_id": "67390925",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação sumativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação sumativa\n\nA avaliação sumativa consiste na formulação de um juízo global, tem como objetivos a classificação e a certificação e inclui:\n\na) A avaliação sumativa interna;\n\nb) A avaliação sumativa externa."
+  },
+  "67379164": {
+   "fragment_id": "67390926",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação sumativa interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação sumativa interna\n\n1 - A avaliação sumativa interna ocorre no final de cada módulo de uma disciplina, após a conclusão do conjunto de módulos de cada disciplina, em reunião do conselho de turma.\n\n2 - A avaliação sumativa de cada módulo é da responsabilidade do professor, sendo os momentos de realização da mesma no final de cada módulo acordados entre o professor e o aluno ou grupo de alunos, tendo em conta as realizações e os ritmos de aprendizagem dos alunos.\n\n3 - O aluno pode requerer, em condições a fixar pelos órgãos competentes da escola, a avaliação dos módulos não realizados.\n\n4 - A avaliação sumativa interna incide ainda sobre a formação em contexto de trabalho e integra, no final do último ano do ciclo de formação, uma PAP.\n\n5 - A avaliação sumativa interna expressa-se numa escala de 0 a 20 valores."
+  },
+  "67379165": {
+   "fragment_id": "67390927",
+   "type": 11,
+   "heading": "Artigo 17.º — Conceção e concretização do projeto da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conceção e concretização do projeto da prova de aptidão profissional\n\n1 - O projeto de PAP centra-se em temas e problemas perspetivados e desenvolvidos pelo aluno em estreita ligação com os contextos de trabalho e realiza-se sob orientação e acompanhamento de um ou mais professores.\n\n2 - Tendo em conta a natureza do projeto, pode o mesmo ser desenvolvido em equipa, desde que, em todas as suas fases e momentos de concretização, seja visível e avaliável a contribuição individual específica de cada um dos membros da equipa.\n\n3 - A concretização do projeto compreende três momentos essenciais:\n\na) Conceção;\n\nb) Fases de desenvolvimento;\n\nc) Autoavaliação e elaboração do relatório final.\n\n4 - O relatório final a que se refere a alínea c) do número anterior integra, nomeadamente:\n\na) A fundamentação da escolha do projeto;\n\nb) Os documentos ilustrativos da concretização do projeto;\n\nc) A análise crítica global da execução do projeto, considerando as principais dificuldades e obstáculos encontrados e as formas de os superar;\n\nd) Os anexos, designadamente os registos de autoavaliação das diferentes fases do projeto e das avaliações intermédias do professor ou professores orientadores.\n\n5 - Nos casos em que o projeto revista a forma de uma atuação perante o júri, os momentos de concretização previstos nos números anteriores poderão ser adaptados em conformidade."
+  },
+  "67379166": {
+   "fragment_id": "67390928",
+   "type": 11,
+   "heading": "Artigo 18.º — Orientação e acompanhamento da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Orientação e acompanhamento da prova de aptidão profissional\n\n1 - Os professores orientadores e acompanhantes do projeto conducente à PAP são designados pelo órgão competente de direção ou gestão da escola de entre os professores que lecionam as disciplinas da componente de formação técnica.\n\n2 - Aos professores orientadores e acompanhantes da PAP compete, em especial:\n\na) Orientar o aluno na escolha do projeto a desenvolver, na sua realização e na redação do relatório final;\n\nb) Informar os alunos sobre os critérios de avaliação;\n\nc) Decidir se o projeto e o relatório estão em condições de serem presentes ao júri;\n\nd) Orientar o aluno na preparação da apresentação a realizar na PAP;\n\ne) Registar a classificação da PAP na respetiva pauta.\n\n3 - O diretor de curso, em colaboração com o órgão competente de direção ou gestão da escola e com os demais órgãos e estruturas de coordenação e supervisão pedagógica, designadamente o diretor de turma ou orientador educativo, assegura a articulação entre os professores das várias disciplinas, de modo a que sejam cumpridos, de acordo com a calendarização estabelecida, todos os procedimentos necessários à realização da PAP, competindo-lhe ainda propor para aprovação do conselho pedagógico ou equivalente os critérios de avaliação da PAP e datas de apresentação, depois de ouvidos os professores das disciplinas da componente de formação técnica.\n\n4 - Sem prejuízo dos números anteriores, o órgão competente de direção ou gestão da escola, em colaboração com os órgãos e estruturas de coordenação e supervisão pedagógica, é responsável pelo planeamento necessário à realização da PAP."
+  },
+  "67379167": {
+   "fragment_id": "67390929",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamento da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regulamento da prova de aptidão profissional\n\n1 - A PAP rege-se, em todas as matérias não previstas no presente diploma ou noutra regulamentação a observar pela escola, por regulamento específico aprovado pelos órgãos competentes, como parte integrante do respetivo regulamento interno.\n\n2 - O regulamento da PAP define, entre outras, as seguintes matérias:\n\na) Os direitos e deveres de todos os intervenientes;\n\nb) Os critérios e os trâmites a observar, pelos diferentes órgãos e demais intervenientes, para aceitação e acompanhamento dos projetos;\n\nc) A negociação dos projetos, no contexto da escola e no contexto de trabalho;\n\nd) A calendarização de todo o processo;\n\ne) A duração da apresentação da PAP, a qual não pode ultrapassar o período máximo de sessenta minutos;\n\nf) Os critérios de classificação a observar pelo júri da PAP;\n\ng) Outras disposições que a escola entender por convenientes, designadamente, o modo de justificação de falta à apresentação da PAP e a marcação de uma segunda data para o efeito.\n\nh) O número de horas semanais, constantes do horário dos alunos, para a concretização da PAP."
+  },
+  "67379168": {
+   "fragment_id": "67390930",
+   "type": 11,
+   "heading": "Artigo 20.º — Júri da prova de aptidão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Júri da prova de aptidão profissional\n\n1 - O júri de avaliação da PAP é designado pelo órgão competente de direção ou gestão da escola e tem a seguinte composição:\n\na) O diretor da escola ou o diretor pedagógico ou equivalente, que preside;\n\nb) O diretor de curso;\n\nc) O diretor de turma ou orientador educativo;\n\nd) Um professor orientador do projeto;\n\ne) Um representante das associações empresariais ou das empresas de sectores afins ao curso;\n\nf) Um representante das associações sindicais dos sectores de atividade afins ao curso;\n\ng) Uma personalidade de reconhecido mérito na área da formação profissional ou dos sectores de atividade afins ao curso.\n\n2 - O júri de avaliação necessita, para deliberar, da presença de, pelo menos, quatro elementos, estando entre eles, obrigatoriamente, um dos elementos a que se referem as alíneas a) a d) e dois dos elementos a que se referem as alíneas e) a g) do número anterior, tendo o presidente voto de qualidade em caso de empate nas votações.\n\n3 - Nas suas faltas ou impedimentos o presidente é substituído pelo seu substituto legal previsto nos termos regimentais ou regulamentares internos ou, na omissão destes ou na impossibilidade do substituto, e pela ordem enunciada, por um dos professores a que se referem as alíneas b) e c) do n.º 1 ou, ainda, no impedimento destes, por professor a designar de acordo com o previsto no regulamento interno da escola."
+  },
+  "67379169": {
+   "fragment_id": "67390931",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho de turma de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conselho de turma de avaliação\n\n1 - As reuniões do conselho de turma de avaliação são presididas pelo diretor de turma ou orientador educativo.\n\n2 - O conselho de turma de avaliação reúne, pelo menos, três vezes em cada ano letivo.\n\n3 - Cabe ao órgão competente de direção ou gestão da escola fixar as datas de realização dos conselhos de turma, bem como designar o respetivo secretário responsável pela elaboração da ata.\n\n4 - A avaliação realizada pelo conselho de turma é submetida a ratificação do órgão competente de direção ou gestão da escola.\n\n5 - As matérias relativas ao funcionamento do conselho de turma não previstas no presente diploma, designadamente a respetiva composição, bem como o processo e a forma das deliberações, são resolvidas de acordo com a regulamentação aplicável aos cursos científico-humanísticos, com as devidas adaptações."
+  },
+  "67379170": {
+   "fragment_id": "67390932",
+   "type": 11,
+   "heading": "Artigo 22.º — Registo e publicitação da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Registo e publicitação da avaliação\n\n1 - No final dos momentos de avaliação previstos no n.º 2 do artigo anterior, é entregue aos alunos o relatório e respetivos anexos a que se referem as alíneas b) a d) do número 3 do artigo 8º.\n\n2 - No registo individual do percurso escolar de cada aluno deve constar, designadamente:\n\na) A identificação e classificação dos módulos concluídos em cada disciplina, bem como a classificação final das disciplinas concluídas;\n\nb) A identificação e classificação da formação em contexto de trabalho desenvolvida com sucesso, assim como o nome das empresas ou organizações em que decorreu;\n\nc) A identificação do projeto da PAP e respetiva classificação final.\n\n3 - O órgão competente de direção ou gestão da escola ratifica e afixa, em local público, a pauta das classificações obtidas pelos alunos nos módulos de cada disciplina.\n\n4 - A publicação em pauta da classificação de cada módulo só tem lugar quando o aluno atingir, nesse módulo, a classificação mínima de 10 valores.\n\n5 - No final de cada ano do ciclo de formação são tornadas públicas as classificações das disciplinas concluídas.\n\n6 - No final do curso são tornadas públicas as classificações da FCT e da PAP."
+  },
+  "67379171": {
+   "fragment_id": "67390933",
+   "type": 11,
+   "heading": "Artigo 23.º — Avaliação sumativa externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Avaliação sumativa externa\n\nA avaliação sumativa externa realiza-se nos termos e para os efeitos previstos no artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, e de acordo com o estabelecido na presente portaria e na regulamentação dos exames do nível secundário de educação."
+  },
+  "67379172": {
+   "fragment_id": "67390934",
+   "type": 11,
+   "heading": "Artigo 24.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reclamações e recursos\n\n1 - As reclamações ou recursos interpostos sobre matéria de avaliação interna dos alunos são resolvidos de acordo com o disposto no regulamento interno da escola.\n\n2 - As reclamações ou recursos relativos à avaliação externa são resolvidos de acordo com a regulamentação aplicável aos exames de nível secundário de educação."
+  },
+  "67379173": {
+   "fragment_id": "67390935",
+   "type": 8,
+   "heading": "Secção III — Classificação e aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Classificação e aprovação"
+  },
+  "67379174": {
+   "fragment_id": "67390936",
+   "type": 11,
+   "heading": "Artigo 25.º — Classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Classificações\n\n1 - A classificação das disciplinas, da FCT e da PAP expressa-se na escala de 0 a 20 valores.\n\n2 - A classificação final de cada disciplina obtém-se pela média aritmética simples, arredondada à unidade, das classificações obtidas em cada módulo."
+  },
+  "67399175": {
+   "fragment_id": "67390937",
+   "type": 11,
+   "heading": "Artigo 26.º — Aprovação e progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Aprovação e progressão\n\n1 - A aprovação em cada disciplina depende da obtenção em cada um dos respetivos módulos de uma classificação igual ou superior a 10 valores.\n\n2 - A aprovação na FCT e na PAP depende da obtenção de uma classificação final igual ou superior a 10 valores em cada uma delas.\n\n3 - No âmbito da sua autonomia, os órgãos competentes da escola definem, em sede de regulamento interno, critérios e modalidades de progressão, nomeadamente quando, por motivos não imputáveis à escola, o aluno não cumpriu, nos prazos previamente definidos, os objetivos de aprendizagem previstos para os módulos.\n\n4 - A progressão é registada nos momentos e nos termos previstos no presente diploma e, nas situações não previstas, de acordo com o estabelecido no regulamento interno da escola."
+  },
+  "67399176": {
+   "fragment_id": "67390938",
+   "type": 11,
+   "heading": "Artigo 27.º — Conclusão e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conclusão e certificação\n\n1 - A conclusão com aproveitamento de um curso profissional obtém-se pela aprovação em todas as disciplinas, na FCT e na PAP.\n\n2 - A conclusão de um curso profissional confere direito à emissão de:\n\na) Um diploma que certifique a conclusão do nível secundário de educação e indique o curso concluído, respetiva classificação final e o nível de qualificação do Quadro Nacional de Qualificações;\n\nb) Um certificado de qualificações, que indique o nível de qualificação do Quadro Nacional de Qualificações e a média final do curso e discrimine as disciplinas do plano de estudo e respetivas classificações finais, os módulos das disciplinas da componente de formação técnica, a designação do projeto e a classificação obtida na respetiva PAP, bem como a classificação da FCT.\n\n3 - A requerimento dos interessados, podem ainda ser emitidos, em qualquer momento do percurso escolar do aluno, os correspondentes documentos comprovativos da conclusão de disciplinas, módulos e da FCT, bem como os respetivos resultados de avaliação.\n\n4 - A emissão do diploma, do certificado e dos documentos comprovativos referidos nos números anteriores é da responsabilidade do órgão competente de direção ou gestão da escola."
+  },
+  "67399177": {
+   "fragment_id": "67390939",
+   "type": 11,
+   "heading": "Artigo 28.º — Classificação final do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Classificação final do curso\n\n1 - A classificação final do curso obtém-se mediante a aplicação da seguinte fórmula:\n\nCF = [2MCD+(0,3FCT+0,7PAP)]/3\n\nsendo:\n\nCF = classificação final do curso, arredondada às unidades;\n\nMCD = média aritmética simples das classificações finais de todas as disciplinas que integram o plano de estudo do curso, arredondada às décimas;\n\nFCT = classificação da formação em contexto de trabalho, arredondada às unidades;\n\nPAP = classificação da prova de aptidão profissional, arredondada às unidades.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 38.º do Decreto-Lei nº 139/2012, de 5 de julho, a classificação na disciplina de Educação Física é considerada para efeitos de conclusão do curso, mas não entra no apuramento da classificação final do mesmo, exceto quando o aluno pretende prosseguir estudos nesta área."
+  },
+  "67399178": {
+   "fragment_id": "67390940",
+   "type": 11,
+   "heading": "Artigo 29.º — Classificação para efeitos de prosseguimento de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Classificação para efeitos de prosseguimento de estudos\n\n1 - Para os alunos abrangidos pelo disposto na alínea c) no n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante da expressão: (7CF+3M)/10, arredondado às unidades, em que:\n\nCF é a classificação final de curso, calculada até às décimas, sem arredondamento, subsequentemente convertida para a escala de 0 a 200 pontos;\n\nM é a média aritmética simples, arredondada às unidades, das classificações, na escala de 0 a 200 pontos, dos exames a que se refere o n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho.\n\n2 - Só podem ser certificados para efeitos de prosseguimento de estudos no ensino superior os alunos em que o valor de CFCEPE e a média das classificações obtidas nos exames a que se refere o n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, sejam iguais ou superiores a 95.\n\n3 - Para os alunos abrangidos pelo disposto na alínea c) no n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, que no ano letivo de 2012-2013 concluam um curso profissional, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante da expressão (8CF+2P)/10, arredondado às unidades, em que:\n\nCF é a classificação final de curso, calculada até às décimas, sem arredondamento, subsequentemente convertida para a escala de 0 a 200 pontos;\n\nP é a classificação, na escala inteira de 0 a 200 pontos, obtida no exame a que se refere a alínea a) do n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho.\n\n4 - Nas situações previstas no número anterior, só podem ser certificados para efeitos de prosseguimento de estudos no ensino superior os alunos em que o valor de CFCEPE e a classificação obtida no exame a que se refere a alínea a) do n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, sejam iguais ou superiores a 95."
+  },
+  "67399179": {
+   "fragment_id": "67390941",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "67399180": {
+   "fragment_id": "67390942",
+   "type": 11,
+   "heading": "Artigo 30.º — Autorização de funcionamento dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Autorização de funcionamento dos cursos\n\n1 - O funcionamento dos cursos profissionais está condicionado à apresentação de candidatura através do Sistema Integrado de Informação e Gestão da Oferta Educativa e Formativa (SIGO), nos termos estabelecidos pela Agência Nacional para a Qualificação e o Ensino Profissional, I.P. (ANQEP, I.P.).\n\n2 - Os serviços do MEC com competência na matéria procedem à apreciação da candidatura a que se refere o número anterior e à autorização de funcionamento dos cursos profissionais, observando os critérios de ordenamento da rede de oferta formativa definidos pela ANQEP, I.P.\n\n3 - Sem prejuízo do disposto no número anterior e para os efeitos nele previstos, as escolas que se proponham ministrar cursos profissionais devem reunir, cumulativamente, os seguintes requisitos:\n\na) Autorização prévia de funcionamento e respetivos aditamentos, quando legalmente exigido;\n\nb) Compatibilidade e inserção da oferta de cursos profissionais no respetivo projeto educativo;\n\nc) Capacidade de iniciativa e abertura para a partilha de informação, saberes e experiências a nível interno e a nível externo, designadamente, através da participação em rede com as restantes escolas e centros de formação que ofereçam formações semelhantes;\n\nd) Estabilidade do corpo docente detentor de conhecimentos e experiência adequados às qualificações visadas;\n\ne) Capacidade para o estabelecimento de relações de cooperação com o tecido económico e social envolvente, nomeadamente com as empresas e as autarquias locais, concretizada na capacidade de negociar protocolos que permitam a realização e o acompanhamento da FCT, bem como a inserção profissional dos futuros diplomados;\n\nf) Instalações e equipamentos adequados e capacidade de gestão e administração dos mesmos, bem como a demais logística associada ao desenvolvimento da formação prática laboratorial, oficinal, artística e em contexto de trabalho."
+  },
+  "67399181": {
+   "fragment_id": "67390943",
+   "type": 11,
+   "heading": "Artigo 31.º — Organização do ano escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Organização do ano escolar\n\n1 - Sem prejuízo do disposto no número seguinte, a organização do ano escolar respeita o calendário escolar definido pelo membro do governo responsável pela área da educação, que pode prever regras específicas para o funcionamento dos cursos profissionais, bem como a demais regulamentação aplicável de acordo com a natureza jurídica das escolas.\n\n2 - O ano escolar é organizado de modo a que sejam cumpridas, no mínimo, duas interrupções das atividades escolares de duração não inferior a 6 dias úteis seguidos, coincidentes com o Natal e com a Páscoa, e uma terceira, por período nunca inferior a 22 dias úteis seguidos, a ocorrer, em cada ano escolar, entre a segunda semana do mês de julho e a primeira do mês de setembro.\n\n3 - As atividades formativas, bem como todos os procedimentos de avaliação sumativa interna previstos para a conclusão do plano de estudo, respeitantes aos alunos que, no ano letivo imediatamente seguinte, pretendam frequentar um curso de especialização tecnológica ou ingressar no ensino superior devem estar concluídos em tempo útil compatível com a continuidade dos percursos formativos pretendidos pelos alunos."
+  },
+  "67399182": {
+   "fragment_id": "67390944",
+   "type": 11,
+   "heading": "Artigo 32.º — Regulamentação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regulamentação complementar\n\n1 - A afetação do exercício dos cargos e funções previstos no presente diploma no horário de trabalho dos docentes, bem como outras condições de funcionamento não previstas no presente diploma, são reguladas por despacho do membro do governo responsável pela área da educação, de acordo com o regime jurídico aplicável aos diferentes estabelecimentos de ensino.\n\n2 - As matérias não previstas no presente diploma, ou não expressamente remetidas para regulamentação subsequente, são resolvidas mediante aplicação da regulamentação em vigor que o não contrarie e, quando se justifique, através das orientações definidas pela ANQEP, I.P.\n\n3 - As matérias não expressamente contempladas nos regulamentos e orientações a que se refere o número anterior são previstas nos regulamentos internos da escola."
+  },
+  "67399183": {
+   "fragment_id": "67390945",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\n1 - É revogada a Portaria n.º 550-C/2004, de 21 de maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de agosto, sem prejuízo do disposto no número seguinte.\n\n2 - As portarias de criação dos cursos profissionais regulados pela portaria nº 550-C/2004, de 21 de maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de agosto, mantêm a sua vigência até à entrada em vigor do quadro normativo decorrente da revisão das modalidades de ensino profissionalizante para jovens."
+  },
+  "67399184": {
+   "fragment_id": "67390946",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "67379144": {
+   "fragment_id": "67390906",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 74-A/2013\n\nde 15 de fevereiro\n\nO XIX Governo Constitucional prevê um conjunto de novas medidas dirigidas à competitividade, ao crescimento e ao emprego, nas quais se enquadra um programa de atuação para o eixo dos jovens, no âmbito dos acordos sobre o reforço do ensino profissional.\n\nNeste âmbito o Governo assumiu, ainda, o compromisso de ajustar a oferta de formação às necessidades e prioridades dos diferentes sectores socioeconómicos, tomando particular importância a interação permanente entre as escolas e as empresas.\n\nDas medidas previstas destaca-se a articulação das ofertas formativas oferecidas pelas várias entidades, a promoção de parcerias locais entre entidades dos sistemas de ensino e formação profissional, do sistema educativo e da sociedade civil.\n\nEm conformidade, assume particular relevo a revisão das várias modalidades de ensino profissionalizante visando anular sobreposições e assegurar a relevância da oferta formativa. De referir que o Sistema Nacional de Qualificações consagra, através do Catálogo Nacional de Qualificações, enquanto instrumento único de referência para a educação e formação de dupla certificação, a harmonização das modalidades atendendo ao público-alvo e às qualificações associadas.\n\nNeste contexto, considerando que importa assegurar o regular funcionamento dos ciclos de formação dos cursos profissionais após entrada em vigor do Decreto-Lei n.º 139/2012, de 5 de julho, que revoga o Decreto-Lei n.º 74/2004 de 26 de março, torna-se necessário estabelecer normas relativas à organização dos cursos e respetiva gestão do currículo, avaliação e certificação, a observar até à consecução da revisão das modalidades de ensino profissionalizante.\n\nTendo presente tais circunstâncias, bem assim como a especificidade curricular e da avaliação do ensino profissional, impõe-se, por um lado, que o regime de classificação para efeitos de prosseguimento de estudos no ensino superior reflita essa especificidade, por outro, que se garanta equidade na sua aplicação no ano letivo 2012-2013 face a outras ofertas formativas.\n\nAssim, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 139/2012, de 5 de julho, conjugado com o n.º 3 do artigo 9.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, manda o Governo, pelos Secretários de Estado do Emprego e do Ensino Básico e Secundário, o seguinte:"
+  },
+  "67403691": {
+   "fragment_id": "67390940",
+   "type": 11,
+   "heading": "Artigo 29.º — Classificação para efeitos de prosseguimento de estudos",
+   "in_force_from": "2014-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 59-C/2014 - Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/59-c-2014-302502), em vigor a partir de 2014-03-08"
+   ],
+   "markdown": "###### Artigo 29.º — Classificação para efeitos de prosseguimento de estudos\n\n1 - Para os alunos abrangidos pelo disposto na alínea c) no n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante da expressão: (7CF+3M)/10, arredondado às unidades, em que:\n\nCF é a classificação final de curso, calculada até às décimas, sem arredondamento, subsequentemente convertida para a escala de 0 a 200 pontos;\n\nM é a média aritmética simples, arredondada às unidades, das classificações, na escala de 0 a 200 pontos, dos exames a que se refere o n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho.\n\n2 - Só podem ser certificados para efeitos de prosseguimento de estudos no ensino superior os alunos em que o valor de CFCEPE e a média das classificações obtidas nos exames a que se refere o n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, sejam iguais ou superiores a 95.\n\n3 - Para os alunos abrangidos pelo disposto na alínea c) no n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, que no ano letivo de 2012-2013 concluam um curso profissional, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante da expressão (8CF+2P)/10, arredondado às unidades, em que:\n\nCF é a classificação final de curso, calculada até às décimas, sem arredondamento, subsequentemente convertida para a escala de 0 a 200 pontos;\n\nP é a classificação, na escala inteira de 0 a 200 pontos, obtida no exame a que se refere a alínea a) do n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho.\n\n4 - Nas situações previstas no número anterior, só podem ser certificados para efeitos de prosseguimento de estudos no ensino superior os alunos em que o valor de CFCEPE e a classificação obtida no exame a que se refere a alínea a) do n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, sejam iguais ou superiores a 95.\n\n5 - Para os alunos abrangidos pelo disposto na alínea c) do n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, alterado pelo Decreto-Lei n.º 91/2013, de 10 de julho, que no ano letivo de 2013-2014 concluam um curso profissional, a CFCEPE é, segundo a opção do aluno:\n\na) O valor resultante da expressão (7CF+3M)/10, aplicando-se o previsto nos n.os 1 e 2 do presente artigo;\n\nb) O valor resultante da expressão (8CF+2P)/10, aplicando-se o previsto nos n.os 3 e 4 do presente artigo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 59-C/2014 - Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/59-c-2014-302502), em vigor a partir de 2014-03-08"
+  },
+  "67399187": {
+   "fragment_id": "67390947",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 14 de fevereiro de 2013.\n\nO Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira. - O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho."
+  },
+  "67403693": {
+   "fragment_id": "67390940",
+   "type": 11,
+   "heading": "Artigo 29.º — Classificação para efeitos de prosseguimento de estudos",
+   "in_force_from": "2015-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-B/2015 - Diário da República n.º 107/2015, 1º Suplemento, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/165-b-2015-67401231), em vigor a partir de 2015-06-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 59-C/2014 - Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/59-c-2014-302502), em vigor a partir de 2014-03-08"
+   ],
+   "markdown": "###### Artigo 29.º — Classificação para efeitos de prosseguimento de estudos\n\n1 - Para os alunos abrangidos pelo disposto na alínea c) do n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante do cálculo da expressão (7CF + 3M)/10, em que:\n\nCF é a classificação final de curso, calculada até às décimas, sem arredondamento, subsequentemente convertida para a escala de 0 a 200 pontos;\n\nM é a média aritmética simples, arredondada às unidades, das classificações, na escala de 0 a 200 pontos, do exame a que se refere a alínea a) e de um dos exames referidos nas alíneas b) ou c), do n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual.\n\n2 - Excetuam-se do disposto no número anterior os alunos que tenham concluído um curso profissional em ano letivo anterior a 2012/2013, caso em que apenas necessitam de realizar os exames finais nacionais nas disciplinas que elegeram como provas de ingresso.\n\n3 - Só podem ser certificados para efeitos de prosseguimento de estudos no ensino superior os alunos em que o valor de CFCEPE seja igual ou superior a 95.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-B/2015 - Diário da República n.º 107/2015, 1º Suplemento, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/165-b-2015-67401231), em vigor a partir de 2015-06-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 59-C/2014 - Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/59-c-2014-302502), em vigor a partir de 2014-03-08"
+  },
+  "116170393": {
+   "fragment_id": "67390907",
+   "type": 1,
+   "heading": "Capítulo I — Organização e funcionamento",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "### Capítulo I — Organização e funcionamento\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170394": {
+   "fragment_id": "67390908",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as normas de organização, funcionamento, avaliação e certificação dos cursos profissionais ministrados em estabelecimentos de ensino público, particular e cooperativo, que ofereçam o nível secundário de educação, e em escolas profissionais, nos termos definidos no Decreto-Lei n.º 139/2012, de 5 de julho, a desenvolver até à entrada em vigor do quadro normativo decorrente da revisão das modalidades de ensino profissionalizante para jovens.\n\n2 - As referências a órgãos e ou estruturas de direção ou gestão e de coordenação e supervisão pedagógica constantes no presente diploma consideram-se dirigidas aos órgãos e ou estruturas com competência em razão da matéria, de acordo com o regime jurídico aplicável aos diferentes estabelecimentos de ensino.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170395": {
+   "fragment_id": "67390909",
+   "type": 11,
+   "heading": "Artigo 2.º — Organização dos cursos",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 2.º — Organização dos cursos\n\n1 - A organização dos cursos profissionais obedece ao estabelecido na respetiva matriz curricular atento o disposto no Decreto-Lei n.º 139/2012, de 5 de julho, quanto às disciplinas, formação em contexto de trabalho (FCT), cargas horárias e respetiva gestão, bem como aos referenciais de formação e demais requisitos previstos nos artigos seguintes.\n\n2 - Sem prejuízo do disposto no número anterior, os cursos profissionais enquadram-se no Catálogo Nacional de Qualificações (CNQ), em regime transitório até à sua integração nos termos do disposto no Decreto-Lei n.º 396/2007, de 31 de dezembro, e são agrupados por áreas de educação e formação, de acordo com a Classificação Nacional de Áreas de Educação e Formação, aprovada pela Portaria n.º 256/2005, de 16 de março.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170396": {
+   "fragment_id": "67390910",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito, organização e desenvolvimento da formação em contexto de trabalho",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito, organização e desenvolvimento da formação em contexto de trabalho\n\n1 - A FCT integra um conjunto de atividades profissionais desenvolvidas sob coordenação e acompanhamento da escola, que visam a aquisição ou o desenvolvimento de competências técnicas, relacionais e organizacionais relevantes para o perfil profissional visado pelo curso frequentado pelo aluno.\n\n2 - A FCT realiza-se em empresas ou noutras organizações, sob a forma de experiências de trabalho por períodos de duração variável ao longo da formação, ou sob a forma de estágio em etapas intermédias ou na fase final do curso.\n\n3 - Por razões supervenientes à entrada em funcionamento do curso, e mediante autorização prévia do serviço responsável, a FCT pode realizar-se, parcialmente, através da simulação de um conjunto de atividades profissionais relevantes para o perfil profissional visado pelo curso a desenvolver em condições similares à do contexto real de trabalho.\n\n4 - A concretização da FCT é antecedida e prevista em protocolo enquadrador celebrado entre a escola e as entidades de acolhimento, as quais devem desenvolver atividades profissionais compatíveis e adequadas ao perfil profissional visado pelo curso frequentado pelo aluno.\n\n5 - A organização e o desenvolvimento da FCT obedecem a um plano de trabalho individual, elaborado com a participação das partes envolvidas e assinado pelo órgão competente da escola, pela entidade de acolhimento, pelo aluno e ainda pelo encarregado de educação, caso o mesmo seja menor de idade.\n\n6 - O plano a que se refere o número anterior, depois de assinado pelas partes, é considerado como parte integrante do contrato de formação subscrito entre a escola e o aluno e identifica os objetivos, o conteúdo, a programação, o período, horário e local de realização das atividades, as formas de monitorização e acompanhamento, com a identificação dos responsáveis, bem como os direitos e deveres dos diversos intervenientes, da escola e da entidade onde se realiza a FCT.\n\n7 - A FCT deve ser ajustada ao horário de funcionamento da entidade de acolhimento, não devendo a duração semanal ultrapassar as trinta e cinco horas, nem a duração diária as sete horas.\n\n8 - A orientação e o acompanhamento do aluno, durante a FCT, são partilhados, sob coordenação da escola, entre esta e a entidade de acolhimento, cabendo à última designar o respetivo tutor.\n\n9 - Os alunos têm direito a um seguro que garanta a cobertura dos riscos das deslocações a que estiverem obrigados, bem como das atividades a desenvolver.\n\n10 - O contrato e o protocolo referidos nos anteriores números 4 e 6 não geram nem titulam, respetivamente, relações de trabalho subordinado e caducam com a conclusão da formação para que foram celebrados.\n\n11 - A aprendizagem visada pela FCT inclui, em todas as modalidades, a aquisição de conhecimentos e o desenvolvimento de capacidades no âmbito da saúde e segurança no trabalho.\n\n12 - O professor orientador da FCT é designado pelo órgão competente de direção ou gestão da escola, ouvido o diretor de curso, de entre os professores que lecionam as disciplinas da componente de formação técnica.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170397": {
+   "fragment_id": "67390911",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidades dos intervenientes na formação em contexto de trabalho",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos intervenientes na formação em contexto de trabalho\n\n1 - São responsabilidades específicas da escola:\n\na) Assegurar a realização da FCT, nos termos definidos na lei e nos regulamentos aplicáveis;\n\nb) Assegurar a elaboração dos protocolos com as entidades de acolhimento;\n\nc) Estabelecer os critérios e distribuir os alunos pelas entidades de acolhimento;\n\nd) Assegurar a elaboração e a assinatura dos contratos de formação com os alunos e seus encarregados de educação, se aqueles forem menores;\n\ne) Assegurar a elaboração do plano de trabalho do aluno, bem como a respetiva assinatura por parte de todos os intervenientes;\n\nf) Assegurar o acompanhamento da execução do plano de trabalho do aluno, bem como a avaliação de desempenho dos alunos, em colaboração com a entidade de acolhimento;\n\ng) Assegurar que o aluno se encontra coberto por seguro em todas as atividades da FCT;\n\nh) Assegurar, em conjunto com a entidade de acolhimento e o aluno, as condições logísticas necessárias à realização e ao acompanhamento da FCT.\n\n2 - São responsabilidades específicas do professor orientador da FCT:\n\na) Elaborar o plano de trabalho do aluno, em articulação com o diretor de curso e, quando for o caso, com os demais órgãos e estruturas de coordenação e supervisão pedagógica competentes, bem como com os restantes professores do curso e o tutor designado pela entidade de acolhimento do aluno.\n\nb) Acompanhar a execução do plano de trabalho do aluno, nomeadamente através de deslocações periódicas aos locais em que a mesma se realiza, pelo menos duas vezes por período de FCT;\n\nc) Avaliar, em conjunto com o tutor designado pela entidade de acolhimento, o desempenho do aluno;\n\nd) Acompanhar o aluno na elaboração dos relatórios da FCT;\n\ne) Propor ao conselho de turma de avaliação, ouvido o tutor, a classificação do aluno na FCT.\n\n3 - São responsabilidades específicas da entidade de acolhimento:\n\na) Designar o tutor;\n\nb) Colaborar na elaboração do plano de trabalho do aluno;\n\nc) Atribuir ao aluno tarefas que permitam a execução do seu plano de trabalho;\n\nd) Colaborar no acompanhamento e na avaliação do desempenho do aluno na FCT;\n\ne) Assegurar o acesso à informação necessária ao desenvolvimento da FCT, nomeadamente no que diz respeito à integração socioprofissional do aluno na entidade;\n\nf) Controlar a assiduidade e a pontualidade do aluno;\n\ng) Assegurar, em conjunto com a escola e o aluno, as condições logísticas necessárias à realização e ao acompanhamento da FCT.\n\n4 - São responsabilidades específicas do aluno:\n\na) Colaborar na elaboração do seu plano de trabalho;\n\nb) Participar nas reuniões de acompanhamento e avaliação da FCT para que for convocado;\n\nc) Cumprir, no que lhe compete, o seu plano de trabalho;\n\nd) Respeitar a organização do trabalho na entidade de acolhimento e utilizar com zelo os bens, equipamentos e instalações da mesma;\n\ne) Não utilizar, sem prévia autorização da entidade de acolhimento, a informação a que tiver acesso durante a FCT;\n\nf) Ser assíduo e pontual;\n\ng) Justificar as faltas perante o diretor de turma, o diretor de curso e o tutor, de acordo com as normas internas da escola e da entidade de acolhimento;\n\nh) Elaborar os relatórios intercalares e o relatório final da FCT, de acordo com o estabelecido no regulamento interno da escola.\n\n5 - Quando a FCT se desenvolva nos termos previstos no n.º 3 do artigo 3.º, as funções atribuídas no presente diploma ao tutor designado pela entidade de acolhimento são assumidas pelos professores das disciplinas da componente de formação técnica.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170398": {
+   "fragment_id": "67390912",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamento da formação em contexto de trabalho",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 5.º — Regulamento da formação em contexto de trabalho\n\n1 - A FCT rege-se, em todas as matérias não previstas no presente diploma ou em regulamentação subsequente, por regulamento específico, aprovado pelos órgãos competentes da escola, a integrar no respetivo regulamento interno.\n\n2 - O regulamento da FCT define, obrigatoriamente, entre outras matérias, o regime aplicável às modalidades efetivamente encontradas pela escola para a operacionalização da FCT, a fórmula de apuramento da respetiva classificação final, incluindo o peso relativo a atribuir às suas diferentes modalidades ou etapas de concretização, bem como os critérios de designação do professor orientador responsável pelo acompanhamento dos alunos.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170399": {
+   "fragment_id": "67390913",
+   "type": 11,
+   "heading": "Artigo 6.º — Prova de aptidão profissional",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 6.º — Prova de aptidão profissional\n\nA prova de aptidão profissional (PAP) consiste na apresentação e defesa, perante um júri, de um projeto, consubstanciado num produto, material ou intelectual, numa intervenção ou numa atuação, consoante a natureza dos cursos, bem como do respetivo relatório final de realização e apreciação crítica, demonstrativo de conhecimentos e competências profissionais adquiridos ao longo da formação e estruturante do futuro profissional do aluno.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170400": {
+   "fragment_id": "67390914",
+   "type": 11,
+   "heading": "Artigo 7.º — Cargas horárias",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 7.º — Cargas horárias\n\n1 - A carga horária global prevista na matriz dos cursos profissionais é distribuída e gerida, pela escola no âmbito da sua autonomia, de forma flexível e otimizada ao longo dos três anos do ciclo de formação, acautelando o necessário equilíbrio anual, semanal e diário, nos termos estabelecidos nos números seguintes.\n\n2 - A carga horária do curso é distribuída ao longo dos três anos do ciclo de formação, de modo que não exceda, em caso algum, as mil e cem, as trinta e cinco e as sete horas por ano, semana e dia, respetivamente.\n\n3 - Da distribuição da carga horária global pelos diferentes anos do ciclo de formação não pode resultar, no conjunto dos três anos, um número de horas inferior ao previsto na matriz para as diferentes disciplinas ou para a FCT.\n\n4 - Nas disciplinas de caráter laboratorial, oficinal, informático ou artístico ou que impliquem trabalho prático ou experimental, pode haver lugar ao desdobramento de turmas, nos termos definidos por despacho do membro do Governo responsável pela área da educação.\n\n5 - É possível agregar disciplinas e ou componentes de formação comuns de dois cursos diferentes, mediante autorização prévia dos serviços competentes em matéria de autorização de funcionamento dos cursos e, quando aplicável, de financiamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170401": {
+   "fragment_id": "67390915",
+   "type": 11,
+   "heading": "Artigo 8.º — Coordenação pedagógica",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 8.º — Coordenação pedagógica\n\n1 - A coordenação pedagógica é assegurada pelo diretor de curso e pelo diretor de turma ou orientador educativo, nos termos previstos nos números seguintes.\n\n2 - A articulação da aprendizagem nas diferentes disciplinas e componentes de formação é assegurada pelo diretor de curso, designado pelo órgão competente de direção ou gestão da escola, ouvido o conselho pedagógico ou equivalente, preferencialmente de entre os docentes profissionalizados que lecionam as disciplinas da componente de formação técnica, competindo-lhe, sem prejuízo de outras competências definidas em regulamento interno ou delegadas:\n\na) Assegurar a articulação pedagógica entre as diferentes disciplinas e componentes de formação do curso;\n\nb) Organizar e coordenar as atividades a desenvolver no âmbito da formação técnica;\n\nc) Participar nas reuniões do conselho de turma, no âmbito das suas funções;\n\nd) Intervir no âmbito da orientação e acompanhamento da PAP, nos termos previstos no presente diploma;\n\ne) Assegurar a articulação entre a escola e as entidades de acolhimento da FCT, identificando-as, selecionando-as, preparando protocolos, participando na elaboração do plano de trabalho e dos contratos de formação, procedendo à distribuição dos alunos por aquelas entidades e coordenando o acompanhamento dos mesmos, em estreita relação com o professor orientador e o tutor responsáveis pelo acompanhamento dos alunos;\n\nf) Assegurar a articulação com os serviços com competência em matéria de apoio socioeducativo;\n\ng) Coordenar o acompanhamento e a avaliação do curso.\n\n3 - Compete ao diretor de turma ou orientador educativo, nos termos da legislação aplicável, em articulação com o conselho pedagógico ou equivalente e demais estruturas de coordenação e supervisão pedagógica, e, sempre que necessário, com o órgão competente de direção ou gestão da escola, a programação, coordenação e execução, designadamente, das seguintes atividades:\n\na) Fornecer aos alunos e, quando for o caso, aos seus encarregados de educação, pelo menos três vezes em cada ano letivo, informação global sobre o percurso formativo do aluno;\n\nb) Proceder a uma avaliação qualitativa do perfil de progressão de cada aluno e da turma, através da elaboração de um relatório descritivo sucinto que contenha, nomeadamente, referência explícita a parâmetros como a capacidade de aquisição e de aplicação de conhecimentos, de iniciativa, de autonomia, de criatividade, de comunicação, de trabalho em equipa e de cooperação, de articulação com o meio envolvente e de concretização de projetos;\n\nc) Elaborar uma síntese das principais dificuldades evidenciadas por cada aluno, com indicações relativas a atividades de recuperação e ou enriquecimento, a anexar ao relatório descritivo a que se refere a alínea anterior;\n\nd) Identificar o perfil da evolução dos alunos, fundamentado na avaliação de cada módulo e na progressão registada em cada disciplina, a anexar ao relatório descritivo a que se refere a alínea b).\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170402": {
+   "fragment_id": "67390916",
+   "type": 11,
+   "heading": "Artigo 9.º — Assiduidade",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 9.º — Assiduidade\n\n1 - No cumprimento do plano de estudos, para efeitos de conclusão do curso com aproveitamento, devem estar reunidos, cumulativamente, os seguintes requisitos:\n\na) A assiduidade do aluno não pode ser inferior a 90% da carga horária de cada módulo de cada disciplina;\n\nb) A assiduidade do aluno na FCT não pode ser inferior a 95% da carga horária prevista.\n\n2 - Para os efeitos previstos no número anterior, o resultado da aplicação de qualquer das percentagens nele estabelecidas é arredondado por defeito, à unidade imediatamente anterior, para o cálculo da assiduidade, e por excesso, à unidade imediatamente seguinte, para determinar o limite de faltas permitido aos alunos.\n\n3 - Quando a falta de assiduidade do aluno for devidamente justificada, nos termos da legislação aplicável, as escolas devem assegurar:\n\na) No âmbito das disciplinas do curso:\n\ni. O prolongamento das atividades até ao cumprimento do número total de horas de formação estabelecidas; ou\n\nii. O desenvolvimento de mecanismos de recuperação tendo em vista o cumprimento dos objetivos de aprendizagem;\n\nb) No âmbito da FCT, o seu prolongamento a fim de permitir o cumprimento do número de horas estabelecido.\n\n4 - O disposto no número anterior não prejudica, no caso de faltas injustificadas, a aplicação de outras medidas previstas na lei ou, quando nesta não explicitamente previstas, fixadas em regulamento interno.\n\n5 - As escolas asseguram a oferta integral do número de horas de formação previsto na matriz dos cursos profissionais, adotando, para o efeito, todos os mecanismos de compensação ou substituição previstos na lei e nos respetivos estatutos ou regulamentos internos.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170403": {
+   "fragment_id": "67390917",
+   "type": 1,
+   "heading": "Capítulo II — Avaliação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "### Capítulo II — Avaliação\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170404": {
+   "fragment_id": "67390918",
+   "type": 8,
+   "heading": "Secção I — Processo de avaliação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "#### Secção I — Processo de avaliação\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170405": {
+   "fragment_id": "67390919",
+   "type": 11,
+   "heading": "Artigo 10.º — Objeto e finalidades",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 10.º — Objeto e finalidades\n\n1 - A avaliação incide:\n\na) Sobre os conhecimentos e capacidades a adquirir e a desenvolver no âmbito das disciplinas respeitantes a cada uma das componentes de formação e no plano de trabalho da FCT;\n\nb) Sobre os conhecimentos, aptidões e atitudes identificados no perfil profissional associado à respetiva qualificação.\n\n2 - A avaliação assume carácter diagnóstico, formativo e sumativo, visando, designadamente:\n\na) Informar o aluno e o encarregado de educação e outras pessoas ou entidades legalmente autorizadas, quando for o caso, sobre os progressos, as dificuldades e os resultados obtidos na aprendizagem, esclarecendo as causas de sucesso ou insucesso;\n\nb) Adequar e diferenciar as estratégias de ensino, estimulando o desenvolvimento global do aluno nas áreas cognitiva, afetiva, relacional, social e psicomotora;\n\nc) Certificar a aprendizagem realizada;\n\nd) Contribuir para a melhoria da qualidade do sistema educativo, possibilitando a tomada de decisões para o seu aperfeiçoamento e reforço da confiança social no seu funcionamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170406": {
+   "fragment_id": "67390920",
+   "type": 11,
+   "heading": "Artigo 11.º — Intervenientes",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 11.º — Intervenientes\n\n1 - Intervêm no processo de avaliação:\n\na) O professor;\n\nb) O aluno;\n\nc) O diretor de turma ou orientador educativo;\n\nd) O conselho de turma;\n\ne) O diretor de curso;\n\nf) O professor orientador da FCT e da PAP;\n\ng) O tutor designado pela entidade de acolhimento;\n\nh) Os órgãos de direção ou gestão e as estruturas de coordenação e supervisão pedagógica da escola;\n\ni) Representantes das associações empresariais, profissionais e sindicais;\n\nj) Personalidades de reconhecido mérito na área da formação profissional ou nos sectores profissionais afins aos cursos;\n\nk) Serviços com competência em matéria de apoio socioeducativo;\n\n2 - A intervenção e participação dos órgãos, estruturas e entidades previstos no número anterior assumem as formas estabelecidas em legislação e regulamentação específica, ou, nas matérias que se inserem no âmbito da autonomia das escolas, nos instrumentos aprovados pelos órgãos competentes, de acordo com o regime jurídico aplicável.\n\n3 - Podem ainda participar no processo de avaliação outros elementos que intervenham no processo formativo do aluno, nos termos estabelecidos no número anterior.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170407": {
+   "fragment_id": "67390921",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de avaliação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 12.º — Critérios de avaliação\n\n1 - No início das atividades escolares, o conselho pedagógico ou equivalente, ouvidos os professores e as estruturas de coordenação e supervisão pedagógica, nomeadamente o diretor de curso e o diretor de turma ou orientador educativo, define os critérios e os procedimentos de avaliação a aplicar tendo em conta a dimensão integradora da avaliação, incluindo, designadamente:\n\na) As condições de desenvolvimento do processo de ensino-aprendizagem;\n\nb) A dimensão transdisciplinar das atividades a desenvolver;\n\nc) Os conhecimentos, aptidões e atitudes a que se refere a alínea b) do n.º 1 do artigo 10.º;\n\nd) As estratégias de apoio educativo;\n\ne) A participação dos alunos em projetos de ligação entre a escola, a comunidade e o mundo do trabalho.\n\n2 - Os órgãos de gestão e administração da escola asseguram a divulgação dos critérios referidos no número anterior aos vários intervenientes, em especial aos alunos e aos encarregados de educação.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170408": {
+   "fragment_id": "67390922",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação sobre a aprendizagem",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 13.º — Informação sobre a aprendizagem\n\n1 - A informação sobre a aprendizagem dos alunos é da responsabilidade:\n\na) Do professor ou equipa de professores responsáveis pela organização do processo de ensino, quando se trate de informação a obter no decurso do processo de aprendizagem, tendo em vista o desenvolvimento da avaliação diagnóstica, formativa ou sumativa interna;\n\nb) Do conselho de turma, quando se trate de informação a obter nas reuniões de avaliação a que se refere o n.º 1 do artigo 21.º da presente portaria.\n\nc) Do presidente do respetivo júri, quando se trate de informação a obter através da PAP;\n\nd) Do professor orientador e do representante da entidade de acolhimento, quando se trate de informação a obter através da realização da FCT;\n\ne) Dos serviços ou entidades do Ministério da Educação e Ciência (MEC) competentes, designados para o efeito, quando se trate de informação a obter através da realização de exames nacionais.\n\n2 - A informação a que se referem as alíneas a), b), c) e d) do número anterior é obtida de acordo com a natureza da aprendizagem e dos contextos em que ocorre.\n\n3 - A informação a que se refere a alínea e) do n.º 1 é obtida através dos exames finais nacionais realizados para efeito de acesso ao ensino superior;\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170409": {
+   "fragment_id": "67390923",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo, tratamento e análise da informação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 14.º — Registo, tratamento e análise da informação\n\n1 - Em cada estabelecimento de ensino devem ser desenvolvidos procedimentos de análise dos resultados da informação relativa à avaliação da aprendizagem dos alunos, proporcionando-se o desenvolvimento de práticas de autoavaliação da escola que visem a melhoria do seu desempenho.\n\n2 - A informação tratada e analisada é disponibilizada à comunidade escolar.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170410": {
+   "fragment_id": "67390924",
+   "type": 8,
+   "heading": "Secção II — Especificidades da avaliação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "#### Secção II — Especificidades da avaliação\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170411": {
+   "fragment_id": "67390925",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação sumativa",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 15.º — Avaliação sumativa\n\nA avaliação sumativa consiste na formulação de um juízo global, tem como objetivos a classificação e a certificação e inclui:\n\na) A avaliação sumativa interna;\n\nb) A avaliação sumativa externa.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170412": {
+   "fragment_id": "67390926",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação sumativa interna",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 16.º — Avaliação sumativa interna\n\n1 - A avaliação sumativa interna ocorre no final de cada módulo de uma disciplina, após a conclusão do conjunto de módulos de cada disciplina, em reunião do conselho de turma.\n\n2 - A avaliação sumativa de cada módulo é da responsabilidade do professor, sendo os momentos de realização da mesma no final de cada módulo acordados entre o professor e o aluno ou grupo de alunos, tendo em conta as realizações e os ritmos de aprendizagem dos alunos.\n\n3 - O aluno pode requerer, em condições a fixar pelos órgãos competentes da escola, a avaliação dos módulos não realizados.\n\n4 - A avaliação sumativa interna incide ainda sobre a formação em contexto de trabalho e integra, no final do último ano do ciclo de formação, uma PAP.\n\n5 - A avaliação sumativa interna expressa-se numa escala de 0 a 20 valores.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170413": {
+   "fragment_id": "67390927",
+   "type": 11,
+   "heading": "Artigo 17.º — Conceção e concretização do projeto da prova de aptidão profissional",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 17.º — Conceção e concretização do projeto da prova de aptidão profissional\n\n1 - O projeto de PAP centra-se em temas e problemas perspetivados e desenvolvidos pelo aluno em estreita ligação com os contextos de trabalho e realiza-se sob orientação e acompanhamento de um ou mais professores.\n\n2 - Tendo em conta a natureza do projeto, pode o mesmo ser desenvolvido em equipa, desde que, em todas as suas fases e momentos de concretização, seja visível e avaliável a contribuição individual específica de cada um dos membros da equipa.\n\n3 - A concretização do projeto compreende três momentos essenciais:\n\na) Conceção;\n\nb) Fases de desenvolvimento;\n\nc) Autoavaliação e elaboração do relatório final.\n\n4 - O relatório final a que se refere a alínea c) do número anterior integra, nomeadamente:\n\na) A fundamentação da escolha do projeto;\n\nb) Os documentos ilustrativos da concretização do projeto;\n\nc) A análise crítica global da execução do projeto, considerando as principais dificuldades e obstáculos encontrados e as formas de os superar;\n\nd) Os anexos, designadamente os registos de autoavaliação das diferentes fases do projeto e das avaliações intermédias do professor ou professores orientadores.\n\n5 - Nos casos em que o projeto revista a forma de uma atuação perante o júri, os momentos de concretização previstos nos números anteriores poderão ser adaptados em conformidade.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170414": {
+   "fragment_id": "67390928",
+   "type": 11,
+   "heading": "Artigo 18.º — Orientação e acompanhamento da prova de aptidão profissional",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 18.º — Orientação e acompanhamento da prova de aptidão profissional\n\n1 - Os professores orientadores e acompanhantes do projeto conducente à PAP são designados pelo órgão competente de direção ou gestão da escola de entre os professores que lecionam as disciplinas da componente de formação técnica.\n\n2 - Aos professores orientadores e acompanhantes da PAP compete, em especial:\n\na) Orientar o aluno na escolha do projeto a desenvolver, na sua realização e na redação do relatório final;\n\nb) Informar os alunos sobre os critérios de avaliação;\n\nc) Decidir se o projeto e o relatório estão em condições de serem presentes ao júri;\n\nd) Orientar o aluno na preparação da apresentação a realizar na PAP;\n\ne) Registar a classificação da PAP na respetiva pauta.\n\n3 - O diretor de curso, em colaboração com o órgão competente de direção ou gestão da escola e com os demais órgãos e estruturas de coordenação e supervisão pedagógica, designadamente o diretor de turma ou orientador educativo, assegura a articulação entre os professores das várias disciplinas, de modo a que sejam cumpridos, de acordo com a calendarização estabelecida, todos os procedimentos necessários à realização da PAP, competindo-lhe ainda propor para aprovação do conselho pedagógico ou equivalente os critérios de avaliação da PAP e datas de apresentação, depois de ouvidos os professores das disciplinas da componente de formação técnica.\n\n4 - Sem prejuízo dos números anteriores, o órgão competente de direção ou gestão da escola, em colaboração com os órgãos e estruturas de coordenação e supervisão pedagógica, é responsável pelo planeamento necessário à realização da PAP.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170415": {
+   "fragment_id": "67390929",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamento da prova de aptidão profissional",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 19.º — Regulamento da prova de aptidão profissional\n\n1 - A PAP rege-se, em todas as matérias não previstas no presente diploma ou noutra regulamentação a observar pela escola, por regulamento específico aprovado pelos órgãos competentes, como parte integrante do respetivo regulamento interno.\n\n2 - O regulamento da PAP define, entre outras, as seguintes matérias:\n\na) Os direitos e deveres de todos os intervenientes;\n\nb) Os critérios e os trâmites a observar, pelos diferentes órgãos e demais intervenientes, para aceitação e acompanhamento dos projetos;\n\nc) A negociação dos projetos, no contexto da escola e no contexto de trabalho;\n\nd) A calendarização de todo o processo;\n\ne) A duração da apresentação da PAP, a qual não pode ultrapassar o período máximo de sessenta minutos;\n\nf) Os critérios de classificação a observar pelo júri da PAP;\n\ng) Outras disposições que a escola entender por convenientes, designadamente, o modo de justificação de falta à apresentação da PAP e a marcação de uma segunda data para o efeito.\n\nh) O número de horas semanais, constantes do horário dos alunos, para a concretização da PAP.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170416": {
+   "fragment_id": "67390930",
+   "type": 11,
+   "heading": "Artigo 20.º — Júri da prova de aptidão profissional",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 20.º — Júri da prova de aptidão profissional\n\n1 - O júri de avaliação da PAP é designado pelo órgão competente de direção ou gestão da escola e tem a seguinte composição:\n\na) O diretor da escola ou o diretor pedagógico ou equivalente, que preside;\n\nb) O diretor de curso;\n\nc) O diretor de turma ou orientador educativo;\n\nd) Um professor orientador do projeto;\n\ne) Um representante das associações empresariais ou das empresas de sectores afins ao curso;\n\nf) Um representante das associações sindicais dos sectores de atividade afins ao curso;\n\ng) Uma personalidade de reconhecido mérito na área da formação profissional ou dos sectores de atividade afins ao curso.\n\n2 - O júri de avaliação necessita, para deliberar, da presença de, pelo menos, quatro elementos, estando entre eles, obrigatoriamente, um dos elementos a que se referem as alíneas a) a d) e dois dos elementos a que se referem as alíneas e) a g) do número anterior, tendo o presidente voto de qualidade em caso de empate nas votações.\n\n3 - Nas suas faltas ou impedimentos o presidente é substituído pelo seu substituto legal previsto nos termos regimentais ou regulamentares internos ou, na omissão destes ou na impossibilidade do substituto, e pela ordem enunciada, por um dos professores a que se referem as alíneas b) e c) do n.º 1 ou, ainda, no impedimento destes, por professor a designar de acordo com o previsto no regulamento interno da escola.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170417": {
+   "fragment_id": "67390931",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho de turma de avaliação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 21.º — Conselho de turma de avaliação\n\n1 - As reuniões do conselho de turma de avaliação são presididas pelo diretor de turma ou orientador educativo.\n\n2 - O conselho de turma de avaliação reúne, pelo menos, três vezes em cada ano letivo.\n\n3 - Cabe ao órgão competente de direção ou gestão da escola fixar as datas de realização dos conselhos de turma, bem como designar o respetivo secretário responsável pela elaboração da ata.\n\n4 - A avaliação realizada pelo conselho de turma é submetida a ratificação do órgão competente de direção ou gestão da escola.\n\n5 - As matérias relativas ao funcionamento do conselho de turma não previstas no presente diploma, designadamente a respetiva composição, bem como o processo e a forma das deliberações, são resolvidas de acordo com a regulamentação aplicável aos cursos científico-humanísticos, com as devidas adaptações.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170418": {
+   "fragment_id": "67390932",
+   "type": 11,
+   "heading": "Artigo 22.º — Registo e publicitação da avaliação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 22.º — Registo e publicitação da avaliação\n\n1 - No final dos momentos de avaliação previstos no n.º 2 do artigo anterior, é entregue aos alunos o relatório e respetivos anexos a que se referem as alíneas b) a d) do número 3 do artigo 8º.\n\n2 - No registo individual do percurso escolar de cada aluno deve constar, designadamente:\n\na) A identificação e classificação dos módulos concluídos em cada disciplina, bem como a classificação final das disciplinas concluídas;\n\nb) A identificação e classificação da formação em contexto de trabalho desenvolvida com sucesso, assim como o nome das empresas ou organizações em que decorreu;\n\nc) A identificação do projeto da PAP e respetiva classificação final.\n\n3 - O órgão competente de direção ou gestão da escola ratifica e afixa, em local público, a pauta das classificações obtidas pelos alunos nos módulos de cada disciplina.\n\n4 - A publicação em pauta da classificação de cada módulo só tem lugar quando o aluno atingir, nesse módulo, a classificação mínima de 10 valores.\n\n5 - No final de cada ano do ciclo de formação são tornadas públicas as classificações das disciplinas concluídas.\n\n6 - No final do curso são tornadas públicas as classificações da FCT e da PAP.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170419": {
+   "fragment_id": "67390933",
+   "type": 11,
+   "heading": "Artigo 23.º — Avaliação sumativa externa",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 23.º — Avaliação sumativa externa\n\nA avaliação sumativa externa realiza-se nos termos e para os efeitos previstos no artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, e de acordo com o estabelecido na presente portaria e na regulamentação dos exames do nível secundário de educação.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170420": {
+   "fragment_id": "67390934",
+   "type": 11,
+   "heading": "Artigo 24.º — Reclamações e recursos",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 24.º — Reclamações e recursos\n\n1 - As reclamações ou recursos interpostos sobre matéria de avaliação interna dos alunos são resolvidos de acordo com o disposto no regulamento interno da escola.\n\n2 - As reclamações ou recursos relativos à avaliação externa são resolvidos de acordo com a regulamentação aplicável aos exames de nível secundário de educação.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170421": {
+   "fragment_id": "67390935",
+   "type": 8,
+   "heading": "Secção III — Classificação e aprovação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "#### Secção III — Classificação e aprovação\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170422": {
+   "fragment_id": "67390936",
+   "type": 11,
+   "heading": "Artigo 25.º — Classificações",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 25.º — Classificações\n\n1 - A classificação das disciplinas, da FCT e da PAP expressa-se na escala de 0 a 20 valores.\n\n2 - A classificação final de cada disciplina obtém-se pela média aritmética simples, arredondada à unidade, das classificações obtidas em cada módulo.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170423": {
+   "fragment_id": "67390937",
+   "type": 11,
+   "heading": "Artigo 26.º — Aprovação e progressão",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 26.º — Aprovação e progressão\n\n1 - A aprovação em cada disciplina depende da obtenção em cada um dos respetivos módulos de uma classificação igual ou superior a 10 valores.\n\n2 - A aprovação na FCT e na PAP depende da obtenção de uma classificação final igual ou superior a 10 valores em cada uma delas.\n\n3 - No âmbito da sua autonomia, os órgãos competentes da escola definem, em sede de regulamento interno, critérios e modalidades de progressão, nomeadamente quando, por motivos não imputáveis à escola, o aluno não cumpriu, nos prazos previamente definidos, os objetivos de aprendizagem previstos para os módulos.\n\n4 - A progressão é registada nos momentos e nos termos previstos no presente diploma e, nas situações não previstas, de acordo com o estabelecido no regulamento interno da escola.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170424": {
+   "fragment_id": "67390938",
+   "type": 11,
+   "heading": "Artigo 27.º — Conclusão e certificação",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 27.º — Conclusão e certificação\n\n1 - A conclusão com aproveitamento de um curso profissional obtém-se pela aprovação em todas as disciplinas, na FCT e na PAP.\n\n2 - A conclusão de um curso profissional confere direito à emissão de:\n\na) Um diploma que certifique a conclusão do nível secundário de educação e indique o curso concluído, respetiva classificação final e o nível de qualificação do Quadro Nacional de Qualificações;\n\nb) Um certificado de qualificações, que indique o nível de qualificação do Quadro Nacional de Qualificações e a média final do curso e discrimine as disciplinas do plano de estudo e respetivas classificações finais, os módulos das disciplinas da componente de formação técnica, a designação do projeto e a classificação obtida na respetiva PAP, bem como a classificação da FCT.\n\n3 - A requerimento dos interessados, podem ainda ser emitidos, em qualquer momento do percurso escolar do aluno, os correspondentes documentos comprovativos da conclusão de disciplinas, módulos e da FCT, bem como os respetivos resultados de avaliação.\n\n4 - A emissão do diploma, do certificado e dos documentos comprovativos referidos nos números anteriores é da responsabilidade do órgão competente de direção ou gestão da escola.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170425": {
+   "fragment_id": "67390939",
+   "type": 11,
+   "heading": "Artigo 28.º — Classificação final do curso",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 28.º — Classificação final do curso\n\n1 - A classificação final do curso obtém-se mediante a aplicação da seguinte fórmula:\n\nCF = [2MCD+(0,3FCT+0,7PAP)]/3\n\nsendo:\n\nCF = classificação final do curso, arredondada às unidades;\n\nMCD = média aritmética simples das classificações finais de todas as disciplinas que integram o plano de estudo do curso, arredondada às décimas;\n\nFCT = classificação da formação em contexto de trabalho, arredondada às unidades;\n\nPAP = classificação da prova de aptidão profissional, arredondada às unidades.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 38.º do Decreto-Lei nº 139/2012, de 5 de julho, a classificação na disciplina de Educação Física é considerada para efeitos de conclusão do curso, mas não entra no apuramento da classificação final do mesmo, exceto quando o aluno pretende prosseguir estudos nesta área.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170426": {
+   "fragment_id": "67390940",
+   "type": 11,
+   "heading": "Artigo 29.º — Classificação para efeitos de prosseguimento de estudos",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-B/2015 - Diário da República n.º 107/2015, 1º Suplemento, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/165-b-2015-67401231), em vigor a partir de 2015-06-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 59-C/2014 - Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/59-c-2014-302502), em vigor a partir de 2014-03-08"
+   ],
+   "markdown": "###### Artigo 29.º — Classificação para efeitos de prosseguimento de estudos\n\n1 - Para os alunos abrangidos pelo disposto na alínea c) do n.º 2 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual, a classificação final de curso para efeitos de prosseguimento de estudos no ensino superior (CFCEPE) é o valor resultante do cálculo da expressão (7CF + 3M)/10, em que:\n\nCF é a classificação final de curso, calculada até às décimas, sem arredondamento, subsequentemente convertida para a escala de 0 a 200 pontos;\n\nM é a média aritmética simples, arredondada às unidades, das classificações, na escala de 0 a 200 pontos, do exame a que se refere a alínea a) e de um dos exames referidos nas alíneas b) ou c), do n.º 4 do artigo 29.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual.\n\n2 - Excetuam-se do disposto no número anterior os alunos que tenham concluído um curso profissional em ano letivo anterior a 2012/2013, caso em que apenas necessitam de realizar os exames finais nacionais nas disciplinas que elegeram como provas de ingresso.\n\n3 - Só podem ser certificados para efeitos de prosseguimento de estudos no ensino superior os alunos em que o valor de CFCEPE seja igual ou superior a 95.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-B/2015 - Diário da República n.º 107/2015, 1º Suplemento, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/165-b-2015-67401231), em vigor a partir de 2015-06-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 59-C/2014 - Diário da República n.º 47/2014, 1º Suplemento, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/59-c-2014-302502), em vigor a partir de 2014-03-08"
+  },
+  "116170427": {
+   "fragment_id": "67390941",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "### Capítulo III — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170428": {
+   "fragment_id": "67390942",
+   "type": 11,
+   "heading": "Artigo 30.º — Autorização de funcionamento dos cursos",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 30.º — Autorização de funcionamento dos cursos\n\n1 - O funcionamento dos cursos profissionais está condicionado à apresentação de candidatura através do Sistema Integrado de Informação e Gestão da Oferta Educativa e Formativa (SIGO), nos termos estabelecidos pela Agência Nacional para a Qualificação e o Ensino Profissional, I.P. (ANQEP, I.P.).\n\n2 - Os serviços do MEC com competência na matéria procedem à apreciação da candidatura a que se refere o número anterior e à autorização de funcionamento dos cursos profissionais, observando os critérios de ordenamento da rede de oferta formativa definidos pela ANQEP, I.P.\n\n3 - Sem prejuízo do disposto no número anterior e para os efeitos nele previstos, as escolas que se proponham ministrar cursos profissionais devem reunir, cumulativamente, os seguintes requisitos:\n\na) Autorização prévia de funcionamento e respetivos aditamentos, quando legalmente exigido;\n\nb) Compatibilidade e inserção da oferta de cursos profissionais no respetivo projeto educativo;\n\nc) Capacidade de iniciativa e abertura para a partilha de informação, saberes e experiências a nível interno e a nível externo, designadamente, através da participação em rede com as restantes escolas e centros de formação que ofereçam formações semelhantes;\n\nd) Estabilidade do corpo docente detentor de conhecimentos e experiência adequados às qualificações visadas;\n\ne) Capacidade para o estabelecimento de relações de cooperação com o tecido económico e social envolvente, nomeadamente com as empresas e as autarquias locais, concretizada na capacidade de negociar protocolos que permitam a realização e o acompanhamento da FCT, bem como a inserção profissional dos futuros diplomados;\n\nf) Instalações e equipamentos adequados e capacidade de gestão e administração dos mesmos, bem como a demais logística associada ao desenvolvimento da formação prática laboratorial, oficinal, artística e em contexto de trabalho.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170429": {
+   "fragment_id": "67390943",
+   "type": 11,
+   "heading": "Artigo 31.º — Organização do ano escolar",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 31.º — Organização do ano escolar\n\n1 - Sem prejuízo do disposto no número seguinte, a organização do ano escolar respeita o calendário escolar definido pelo membro do governo responsável pela área da educação, que pode prever regras específicas para o funcionamento dos cursos profissionais, bem como a demais regulamentação aplicável de acordo com a natureza jurídica das escolas.\n\n2 - O ano escolar é organizado de modo a que sejam cumpridas, no mínimo, duas interrupções das atividades escolares de duração não inferior a 6 dias úteis seguidos, coincidentes com o Natal e com a Páscoa, e uma terceira, por período nunca inferior a 22 dias úteis seguidos, a ocorrer, em cada ano escolar, entre a segunda semana do mês de julho e a primeira do mês de setembro.\n\n3 - As atividades formativas, bem como todos os procedimentos de avaliação sumativa interna previstos para a conclusão do plano de estudo, respeitantes aos alunos que, no ano letivo imediatamente seguinte, pretendam frequentar um curso de especialização tecnológica ou ingressar no ensino superior devem estar concluídos em tempo útil compatível com a continuidade dos percursos formativos pretendidos pelos alunos.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170430": {
+   "fragment_id": "67390944",
+   "type": 11,
+   "heading": "Artigo 32.º — Regulamentação complementar",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 32.º — Regulamentação complementar\n\n1 - A afetação do exercício dos cargos e funções previstos no presente diploma no horário de trabalho dos docentes, bem como outras condições de funcionamento não previstas no presente diploma, são reguladas por despacho do membro do governo responsável pela área da educação, de acordo com o regime jurídico aplicável aos diferentes estabelecimentos de ensino.\n\n2 - As matérias não previstas no presente diploma, ou não expressamente remetidas para regulamentação subsequente, são resolvidas mediante aplicação da regulamentação em vigor que o não contrarie e, quando se justifique, através das orientações definidas pela ANQEP, I.P.\n\n3 - As matérias não expressamente contempladas nos regulamentos e orientações a que se refere o número anterior são previstas nos regulamentos internos da escola.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170431": {
+   "fragment_id": "67390945",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\n1 - É revogada a Portaria n.º 550-C/2004, de 21 de maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de agosto, sem prejuízo do disposto no número seguinte.\n\n2 - As portarias de criação dos cursos profissionais regulados pela portaria nº 550-C/2004, de 21 de maio, com as alterações introduzidas pela Portaria n.º 797/2006, de 10 de agosto, mantêm a sua vigência até à entrada em vigor do quadro normativo decorrente da revisão das modalidades de ensino profissionalizante para jovens.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170432": {
+   "fragment_id": "67390946",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  },
+  "116170433": {
+   "fragment_id": "67390947",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+   ],
+   "markdown": "Em 14 de fevereiro de 2013.\n\nO Secretário de Estado do Emprego, António Pedro Roque da Visitação Oliveira. - O Secretário de Estado do Ensino Básico e Secundário, João Henrique de Carvalho Dias Grancho.\n\n> Revogado pelo/a Artigo 47.º do/a [Portaria n.º 235-A/2018 - Diário da República n.º 162/2018, 1º Suplemento, Série I de 2018-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2018-116154369), em vigor a partir de 2018-08-24"
+  }
+ }
+}

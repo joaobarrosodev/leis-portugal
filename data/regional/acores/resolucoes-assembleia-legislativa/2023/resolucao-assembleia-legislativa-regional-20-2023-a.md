@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:213132933:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 20/2023/A
+short_title: null
+summary: Plano de valorização da «Viola da Terra» na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 20/2023/A
+official_date: null
+publication_date: '2023-05-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/2023, Série I de 2023-05-17
+  number: '95'
+  series: I
+  supplement: null
+  pages: 22 - 23
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09500/0002200023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/20/2023/05/17/a/dre/pt/html
+  oj: null
+  dre: '213132933'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2023-213132933
+  internal: pt:dre:213132933:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2023-213132933
+  metadata_url: https://data.dre.pt/eli/resolalraa/20/2023/05/17/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2023-213132933
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-05-17T00:00:00Z'
+integrity:
+  source_sha256: 75809d869a2d8aabf747b2122d2d8ad5e04f5d11dc65ebbb754a40add3393c74
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2023/DRE-2023-20-213132933.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património Cultural Imaterial
+- Governo Regional
+- Património Cultural
+- Inventário do Património Cultural
+- Património Histórico
+- Plano Regional
+- Conservação e Restauro
+- Recomendação
+- Açores
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 20/2023/A
+
+Plano de valorização da «Viola da Terra» na Região Autónoma dos Açores
+
+A «Viola da Terra» é o mais típico instrumento musical dos Açores. É símbolo e património identitário da Região.
+
+Desconhecem-se as suas origens. Os primeiros registos da «Viola da Terra» remontam ao século xviii, acreditando-se que terá descendido de uma viola comum que deu origem às várias violas de arame portuguesas. Trazida para os Açores pelos povoadores, adotou naturalmente caraterísticas próprias do arquipélago e dos construtores locais que dela fariam a «Viola da Terra».
+
+Sobreviveu, ao longo dos séculos, pelas mãos do nosso povo, adquirindo uma forte importância social e cultural. Fazia parte do dote do noivo e era guardada, durante o dia, no quarto do casal sobre uma colcha axadrezada para, à noite, se assumir como elemento central dos serões, das festas e das cantorias.
+
+Construída de forma artesanal, variando a sua qualidade consoante o domínio da técnica por parte de cada construtor, seguiu sempre os mesmos padrões de construção do corpo em forma de oito, tampo harmónico paralelo às costas, ilhargas, braço, cabeça onde se fixam as cravelhas e cordas de arame dispostas em ordens. Era essencialmente tocada pelos «mestres» e aprendida por observação e imitação.
+
+No corpo da «Viola» figuraram, desde sempre, símbolos da identidade açoriana: os dois corações - o coração de quem parte emigrado e o coração de quem fica, a lágrima da saudade, a coroa do Espírito Santo, o açor, que terá dado nome ao arquipélago. Suscetíveis de diferentes interpretações, é certo, o inegável é a forma como a «Viola da Terra» se afirma como expressão da nossa identidade.
+
+De geração em geração, a «Viola da Terra» está nos sons das nossas nove ilhas. Está nas folgas e chamarritas, nas romarias e arraiais, nos bailes de roda, nos ranchos folclóricos e nas cantigas ao desafio. Está nas folias do Espírito Santo, nos ranchos de Natal e nas danças de Carnaval. Está nas velhas, nos pezinhos, nas sapateias, nas auroras, nas saudades. Está na vivência e nas mais genuínas expressões culturais do ser açoriano, mantendo, graças ao isolamento insular, a grande riqueza do seu repertório original.
+
+É esta presença constante e esta relação tão intrínseca com quem somos enquanto povo que permitiram que a «Viola da Terra» sobrevivesse até aos nossos dias, mesmo quando ameaçada, nos anos 50 e 60, pela emigração, pela guerra colonial e pelo desaparecimento de muitos dos seus mestres. E que continue a recriar-se.
+
+Nas últimas décadas, assistimos a uma revitalização deste instrumento com o surgimento de novos intérpretes e intervenientes, de novos repertórios e abordagens, de sonoridades mais contemporâneas. Surgem também novos construtores e o aprimoramento, no plano visual e sonoro, das técnicas de construção deste instrumento, que permitem satisfazer as necessidades e solicitações dos próprios tocadores. Evoluímos de uma aprendizagem meramente empírica para um ensino técnico, metodológico e organizado, em contextos formais e não-formais, cativando alunos de todas as idades e géneros. Transpusemos fronteiras físicas, divulgando e mostrando a «Viola da Terra» ao mundo, nos media e nas plataformas digitais. E fizemo-lo respeitando as suas raízes e a sua identidade. Inovámos, projetámo-la no futuro, mas sem nunca desvalorizar ou desvirtuar a essência da «Viola da Terra».
+
+Os resultados e o mérito deste trabalho são dos músicos e dos artistas. São das associações culturais. Importa agora o seu reconhecimento e a sua valorização. Importa o apoio e o estímulo público à sua continuidade.
+
+Em 2018, a Miratecarts, em parceria com a Associação de Juventude Viola da Terra e o Professor Rafael Carvalho, e com o apoio dos grupos Casa da Música da Candelária, Grupo de Tocadores de Violas de São Jorge, Associação de Músicos da Ilha Branca e da Sons do Terreiro - Associação Cultural declararam o dia 2 de outubro como o «Dia da Viola da Terra», porque, nas suas palavras, «o dia da música não é só um e os dois corações devem correr todas as ilhas e terras das comunidades açorianas um dia do ano em seu nome».
+
+Desde 2019, este dia tem sido comemorado, mesmo com as necessárias adaptações em tempos de pandemia, com a organização de dezenas de eventos, concertos, palestras, sessões de sensibilização em escolas e museus, exposições, envolvendo inúmeros tocadores de todas as nossas ilhas, num verdadeiro espírito de colaboração e partilha de saberes, com o intuito de mostrar o valor e garantir a perpetuidade da «Viola da Terra». Falta o reconhecimento oficial deste dia na Região.
+
+Falta também o reconhecimento e a classificação oficial do valor patrimonial da «Viola da Terra», enquanto referência fundamental da nossa cultura, enquanto fator dinâmico da construção da nossa identidade individual e coletiva, enquanto instrumento artesanal único no património musical mundial, assegurando também, por via dessa classificação, a sua preservação.
+
+Falta ainda alicerçar, formalizar e articular em rede o trabalho até hoje desenvolvido. Há que garantir a continuidade das tarefas de investigação, recolha, registo e divulgação do legado da «Viola da Terra», nomeadamente, através da digitalização e disponibilização de conteúdos. Importa investir na formação de alunos e de formadores, criando escolas de viola em todas as ilhas, articulando o ensino artístico com a educação extraescolar, uniformizando métodos de formação, criando uma carreira docente da disciplina. É crucial manter uma atividade constante, contínua e credível de iniciativas com e sobre a «Viola da Terra», sensibilizando públicos e estimulando a interação entre os grupos e escolas das diferentes ilhas para que se partilhem conhecimentos, repertórios, técnicas e experiências.
+
+De 12 ou de 15 cordas (ou até de 18), com tampo em forma de coração ou circular, com diferentes afinações, com cravelhas de madeira, metal ou em leque, executada de modo ponteado ou rasgado, com variações em cada ilha, em cada momento musical, em cada músico, a «Viola» é sempre «da Terra». É a nossa «Viola». E é nosso dever e responsabilidade acarinhar, valorizar e preservar a «Viola dos Dois Corações» que, sempre que é tocada, toca nos corações de todos nós.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+1 - Declarar o dia 2 de outubro como o «Dia da Viola da Terra».
+
+2 - Recomendar ao Governo Regional dos Açores que desenvolva os procedimentos necessários à classificação da «Viola da Terra» como património cultural imaterial.
+
+3 - Recomendar ao Governo Regional dos Açores que desenvolva os procedimentos necessários à implementação de um plano regional para a valorização da «Viola da Terra», que tenha como principais eixos:
+
+a) A promoção, divulgação e criação cultural;
+
+b) A formação musical de alunos e formadores;
+
+c) A formação profissional na arte de construção e de restauro;
+
+d) A inventariação, recuperação, divulgação e disponibilização museológica e digital do acervo e património material existentes.
+
+4 - Recomendar ao Governo Regional dos Açores que o plano referido no número anterior seja desenvolvido em parceria com as associações, sociedades recreativas, casas do povo, conservatórios, escolas, museus e outras entidades públicas e privadas do setor cultural, inclusive nas comunidades da diáspora açoriana.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de abril de 2023.
+
+**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**

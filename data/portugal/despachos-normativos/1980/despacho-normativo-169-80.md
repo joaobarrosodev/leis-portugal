@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:474695:por
+title: Despacho Normativo n.º 169/80
+short_title: null
+summary: Esclarece a aplicação das normas contidas no Despacho Normativo n.º 134/80, de 26 de Março (carreira de investigadores)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 169/80
+official_date: null
+publication_date: '1980-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/1980, Série I de 1980-05-29
+  number: '124'
+  series: I
+  supplement: null
+  pages: 1257 - 1258
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12400/12571258.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '474695'
+  dre_path: /dr/detalhe/despacho-normativo/169-1980-474695
+  internal: pt:dre:474695:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/169-1980-474695
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/169-1980-474695
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-05-29T00:00:00Z'
+integrity:
+  source_sha256: b4d3180ef373493a0dfa8a8d83470561ddb0de00020692836700bea708ba08db
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-169-474695.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 169/80
+
+Pelo [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, publicado no Diário da República, 1.ª série, n.º 91, de 18 de Abril, foram mandadas aplicar ao pessoal da carreira de investigadores do grupo 3 «Pessoal de investigação» dos quadros únicos do MAP normas para elaboração das listas nominativas a que se refere o artigo 52.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+
+Aquelas normas, intimamente ligadas com o [Despacho Normativo n.º 52/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1979-383790), de 6 de Fevereiro, têm um campo de aplicação bem definido, que importa explicitar.
+
+Por outro lado, torna-se necessário viabilizar a aplicabilidade das normas nele contidas tanto aos funcionários afectos a serviços que ainda poderão transitar para o INIA no decurso do corrente ano, como aos funcionários do quadro geral de adidos requisitados no INIA, INIP ou INV à data de publicação deste despacho normativo e que ainda venham a ingressar, no decurso do corrente ano, nos quadros únicos do MAP.
+
+Nestes termos, determino que na aplicação do [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, seja observado o seguinte:
+
+1 - As normas no mesmo contidas só se aplicam aos licenciados exercendo actividades de investigação e desenvolvimento experimental (I-D) no Instituto Nacional de Investigação Agrária (INIA), no Instituto Nacional de Investigação das Pescas (INIP) e no Instituto Nacional de Veterinária (INV) que já pertençam à carreira de investigadores dos quadros únicos do MAP na altura em que requererem as avaliações curriculares de que tratam os n.os 2 a 5 e ainda aos funcionários do grupo 4 «Pessoal técnico superior» dos quadros únicos do MAP actualmente colocados naqueles três institutos que, em devido tempo, não tenham podido ingressar na carreira de investigadores dos quadros únicos do MAP por não se lhes ter podido aplicar, sem prejuízo da letra que possuíam em 28 de Maio de 1977, qualquer das condições previstas nos n.os 2 a 7 do [Despacho Normativo n.º 52/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1979-383790), de 6 de Fevereiro, embora estando abrangidos pelas alíneas a) e b) do n.º 1 do mesmo diploma.
+
+2 - As mesmas normas aplicam-se de igual modo aos restantes funcionários já pertencentes à carreira de investigadores dos quadros únicos do MAP, que nela ingressaram por se encontrarem nas condições previstas na alínea b) do n.º 1 do [Despacho Normativo n.º 52/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1979-383790), de 6 de Fevereiro.
+
+3 - Nas apreciações curriculares dos candidatos abrangidos pelo número anterior, serão os mesmos distribuídos pelos júris mencionados nas alíneas a) a e) do n.º 8 do [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, por despacho do Ministro da Agricultura e Pescas, mediante listas elaboradas pela Secretaria-Geral do MAP e depois de ouvido o director do INIA.
+
+4 - As normas contidas no [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, deverão igualmente aplicar-se:
+
+a) Aos funcionários colocados nos serviços que ainda transitarem para o INIA no decurso do corrente ano;
+
+b) Aos funcionários do quadro geral de adidos que já se encontrem requisitados no INIA, INIP ou INV à data de publicação deste despacho normativo e que ainda venham a ingressar no decurso do corrente ano nos quadros únicos do MAP.
+
+5 - Para os candidatos abrangidos pela alínea a) do n.º 4 do presente despacho normativo, o prazo mencionado no n.º 12.1 do [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, é de trinta dias após a data de confirmação pela Secretaria-Geral do MAP da efectiva afectação ao INIA dos funcionários em causa.
+
+6 - Para os candidatos abrangidos pela alínea b) do n.º 4 do presente despacho normativo, o prazo mencionado no n.º 12.1 do [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, é de trinta dias após a publicação do Diário da República do seu ingresso nos quadros únicos do MAP.
+
+7 - Para os candidatos referidos no n.º 4 do presente diploma, o prazo de trinta dias mencionado no n.º 13 do [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, é contado a partir da data limite do prazo de entrega das cópias dos curricula vitae de cada um dos candidatos.
+
+8 - Para os candidatos abrangidos pelo n.º 4 do presente diploma, o prazo de setenta e cinco dias referido no n.º 6 do [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, passa a ser de quarenta e cinco dias após a data limite do prazo de entrega das cópias dos curricula vitae de cada um dos candidatos.
+
+9 - Os períodos de tempo de execução de actividades de I-D expressos nos n.os 2 a 5 do [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), de 26 de Março, deverão ser contados até 18 de Abril de 1980, data da publicação daquele diploma no Diário da República.
+
+10 - As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+
+Ministério da Agricultura e Pescas, 13 de Maio de 1980. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

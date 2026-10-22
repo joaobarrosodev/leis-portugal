@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:533775:por
+title: Decreto-Lei n.º 172-A/78
+short_title: null
+summary: Dá nova redacção a vários artigos do Código do Imposto Complementar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Contribuições e Impostos
+proposing_entity: null
+official_number: 172-A/78
+official_date: null
+publication_date: '1978-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/1978, 1º Suplemento, Série I de 1978-07-07
+  number: '154'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1270-(3) a 1270-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15401/00030004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '533775'
+  dre_path: /dr/detalhe/decreto-lei/172-a-1978-533775
+  internal: pt:dre:533775:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1978-533775
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1978-533775
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: 904c9c08f69e9ff8c7bb689cdc3e39b8966ea447e1c3a297620b841506dfe7f2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-172-A-533775.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 172-A/78
+
+de 7 de Julho
+
+De harmonia com a autorização dada pela [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril, e aproveitando para introduzir alterações que a prática aconselha, adapta-se o Código do Imposto Complementar com algumas disposições de que convém destacar o fundamento das seguintes:
+
+Na alínea z"") do artigo 8.º concede-se a isenção aos rendimentos do aluguer de máquinas agrícolas que também sejam abrangidos pela isenção de contribuição industrial nos termos da nova versão do n.º 10.º do artigo 18.º do respectivo Código. Leva-se, assim, o benefício fiscal a todos os aspectos daquela situação, com o objectivo de proteger os pequenos e médios agricultores e de certo modo incrementar o desenvolvimento económico do sector.
+
+A alteração à alínea b) do artigo 28.º, visando possibilitar a dedução, no total do rendimento do agregado familiar do contribuinte, das importâncias pagas pelos titulares dos rendimentos do trabalho para organizações que tenham por fim a defesa deles como trabalhadores deve ser entendida como visando principalmente os casos de quotas para sindicatos, o que quer dizer que só deverá abranger outros casos que apresentem completa e estrita analogia com as quotizações para aquelas organizações de classe.
+
+Também se altera o artigo 29.º, aumentando as deduções a fazer ao rendimento global líquido do agregado familiar, relativamente ao contribuinte, ao cônjuge e aos filhos, adoptados e enteados, menores ou inaptos para o trabalho e para angariar meios de subsistência; conforme a justificação do artigo 9.º da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), que desta forma se executa, esta alteração visa somente uma actualização face a valores médios de desvalorização da moeda.
+
+Possibilita-se, relativamente aos contribuintes da secção A, a autoliquidação do imposto complementar respeitante aos rendimentos do ano de 1977, à semelhança do que já se fez relativamente ao imposto devido em relação aos rendimentos dos anos de 1975 e 1976. Para os contribuintes da secção B a autoliquidação é já obrigatória.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os artigos 8.º, 11.º, 28.º, 29.º, 85.º, 86.º, 88.º e 91.º do Código do Imposto Complementar passam a ter a seguinte redacção:
+
+###### Art. 8.º ...
+
+1.º ...
+
+e) (Eliminada.)
+
+...
+
+z"") Os rendimentos isentos de contribuição industrial nos termos dos n.os 23.º e 26.º do artigo 14.º e do n.º 10.º do artigo 18.º do respectivo Código.
+
+2.º ...
+
+b) Os rendimentos referidos nas alíneas h) e n) do número anterior;
+
+...
+
+###### Art. 11.º ...
+
+1.º Tratando-se de contribuintes com residência no território do continente e das Regiões Autónomas dos Açores e da Madeira:
+
+a) 70000$00, sendo solteiros, viúvos, divorciados ou separados judicialmente de pessoas e bens;
+
+b) 100000$00, sendo casados e não separados judicialmente de pessoas e bens.
+
+Tratando-se de rendimentos provenientes exclusivamente do exercício de actividades por conta de outrem sujeitos às contribuições normais para a segurança social e compreendidos na alínea a) da regra 4.ª do artigo 15.º, os quantitativos referidos neste número serão, respectivamente, de 109000$00 e 149000$00.
+
+...
+
+§ 4.º Os contribuintes que só em virtude da determinação da matéria colectável de impostos parcelares, tornada definitiva posteriormente ao décimo quinto dia anterior ao termo do prazo aplicável de harmonia com o corpo deste artigo, tenham conhecimento de que o total dos seus rendimentos excede o respectivo limite nele fixado devem apresentar a declaração no prazo de quinze dias a contar da notificação da matéria colectável fixada que não dê origem a liquidação ou, no caso de haver liquidação, a contar da notificação desta e, na sua falta, a contar do pagamento eventual ou, tendo havido débito ao tesoureiro para cobrança virtual, da data da abertura do cofre.
+
+...
+
+###### Art. 28.º ...
+
+b) As quotizações obrigatórias a que estejam sujeitos os titulares dos rendimentos do trabalho e bem assim quaisquer outras quotizações por eles pagas para organizações que tenham por fim a defesa dos seus interesses como trabalhadores;
+
+...
+
+###### Art. 29.º ...
+
+a) Tratando-se de contribuintes residentes no continente ou nos territórios das Regiões Autónomas dos Açores e da Madeira:
+
+Pelo próprio contribuinte ... 70000$00
+
+Pelo cônjuge não separado judicialmente de pessoas e bens ... 30000$00
+
+Por cada filho, adoptado ou enteado, menor, não emancipado, ou inapto para o trabalho e para angariar meios de subsistência, que não sejam contribuintes deste imposto:
+
+De mais de 11 anos ... 16000$00
+
+Até 11 anos ... 8000$00
+
+...
+
+###### Art. 85.º ...
+
+13.º Os rendimentos de fabrico de tabaco nacional;
+
+...
+
+§ único ...
+
+###### Art. 86.º Às pessoas colectivas aproveitam igualmente as isenções estabelecidas para as pessoas singulares no n.º 1.º do artigo 8.º, salvo as das alíneas h), i), j), l), m), x) e z) e no artigo 10.º
+
+...
+
+###### Art. 88.º ...
+
+§ 4.º Os contribuintes que só posteriormente a 15 de Dezembro do ano seguinte àquele a que os rendimentos respeitem tenham conhecimento da sua existência por virtude de apuramento para efeitos de impostos parcelares devem apresentar a declaração no prazo de quinze dias, a contar da notificação da matéria colectável fixada que não dê origem a liquidação ou, no caso de haver liquidação, a contar da notificação desta e, na sua falta, a contar do pagamento eventual ou, tendo havido débito ao tesoureiro para cobrança virtual, da data da abertura do cofre.
+
+...
+
+###### Art. 91.º ...
+
+2.º Tratando-se de contribuintes tributados em contribuição industrial, grupo A, não serão de considerar, para apuramento da matéria colectável deste imposto, os rendimentos correspondentes às contribuições e impostos dedutíveis à colecta daquela contribuição nos termos das alíneas a) e b) e § único do artigo 89.º do Código da Contribuição Industrial.
+
+###### Art. 2.º Os contribuintes do imposto complementar, secção A, poderão optar pela autoliquidação do imposto respeitante aos rendimentos do ano de 1977, se a declaração for apresentada no correspondente prazo estabelecido no artigo 11.º e seus §§ 4.º e 6.º e nos §§ 2.º e 3.º do artigo 17.º do Código, observando-se nesse caso o estabelecido nos artigos 7.º a 10.º do [Decreto-Lei n.º 225-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-c-1976-281826), de 31 de Março.
+
+###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo no que respeita às alterações aos artigos 8.º, alínea e) do n.º 1.º, 11.º, n.º 1.º, 28.º, 29.º e 85.º do mesmo Código, que se aplicam aos rendimentos e às tributações respeitantes aos anos de 1977 e seguintes.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
+
+**Promulgado em 3 de Julho de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

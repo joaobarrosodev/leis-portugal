@@ -1,0 +1,339 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:147631:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-869761055",
+ "dre_path": "/dr/detalhe/portaria/900-2005-147631",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869771137"
+   ]
+  },
+  {
+   "date": "2006-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:541263:por",
+     "title": "Portaria n.º 1080/2006",
+     "published": "2006-10-06",
+     "dre_path": "/dr/detalhe/portaria/1080-2006-541263"
+    }
+   ],
+   "changes": [
+    "Altera Anexo N.º 1",
+    "Revoga 4.º"
+   ],
+   "fragments": [
+    "869761138",
+    "869761142",
+    "869761143",
+    "869761144",
+    "869761162",
+    "869761146",
+    "869761147",
+    "869761148",
+    "869761149",
+    "869761150",
+    "869761151",
+    "869761139",
+    "869762256",
+    "869761141"
+   ]
+  },
+  {
+   "date": "2020-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130350399:por",
+     "title": "Portaria n.º 76/2020",
+     "published": "2020-03-18",
+     "dre_path": "/dr/detalhe/portaria/76-2020-130350399"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "869771137",
+    "869771138",
+    "869771139",
+    "869771140",
+    "869771141",
+    "869771142",
+    "869771143",
+    "869771144",
+    "869771145",
+    "869771146",
+    "869771147",
+    "869771148",
+    "869771149",
+    "869771150"
+   ]
+  }
+ ],
+ "fragments": {
+  "869771137": {
+   "fragment_id": "869761056",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-03-19",
+   "changed_by": [],
+   "markdown": "Portaria n.º 900/2005\n\nde 26 de Setembro\n\nO Decreto-Lei n.º 74/2004, de 26 de Março, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.\n\nNo n.º 5 do seu artigo 5.º, determina o supramencionado decreto-lei que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.\n\nEntretanto, e ainda de acordo com o mesmo diploma, veio a Portaria n.º 550-C/2004, de 21 de Maio, regular, na sua especificidade, os cursos profissionais, definindo, no seu artigo 7.º, os requisitos formais a observar e determinando, no seu artigo 2.º, que a criação e a organização dos mesmos deverão obedecer, quanto às disciplinas, formação em contexto de trabalho e respectivas cargas horárias, à matriz curricular aprovada, bem como aos referenciais de formação das famílias profissionais em que se enquadram, concebidos, validados e aprovados de acordo com o estabelecido no seu artigo 3.º\n\nAssim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das novas regras e matriz curricular estabelecidas pelos citados Decreto-Lei n.º 74/2004, de 26 de Março, e Portaria n.º 550-C/2004, de 21 de Maio.\n\nNestes termos:\n\nAtento o disposto no n.º 5 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março, e ao abrigo dos n.os 1 e 2 do artigo 7.º da Portaria n.º 550-C/2004, de 21 de Maio:\n\nManda o Governo, pela Ministra da Educação, o seguinte:"
+  },
+  "869761138": {
+   "fragment_id": "869761056",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 900/2005\n\nde 26 de Setembro\n\nO Decreto-Lei n.º 74/2004, de 26 de Março, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.\n\nNo n.º 5 do seu artigo 5.º, determina o supramencionado decreto-lei que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.\n\nEntretanto, e ainda de acordo com o mesmo diploma, veio a Portaria n.º 550-C/2004, de 21 de Maio, regular, na sua especificidade, os cursos profissionais, definindo, no seu artigo 7.º, os requisitos formais a observar e determinando, no seu artigo 2.º, que a criação e a organização dos mesmos deverão obedecer, quanto às disciplinas, formação em contexto de trabalho e respectivas cargas horárias, à matriz curricular aprovada, bem como aos referenciais de formação das famílias profissionais em que se enquadram, concebidos, validados e aprovados de acordo com o estabelecido no seu artigo 3.º\n\nAssim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das novas regras e matriz curricular estabelecidas pelos citados Decreto-Lei n.º 74/2004, de 26 de Março, e Portaria n.º 550-C/2004, de 21 de Maio.\n\nNestes termos:\n\nAtento o disposto no n.º 5 do artigo 5.º do Decreto-Lei n.º 74/2004, de 26 de Março, e ao abrigo dos n.os 1 e 2 do artigo 7.º da Portaria n.º 550-C/2004, de 21 de Maio:\n\nManda o Governo, pela Ministra da Educação, o seguinte:"
+  },
+  "869761142": {
+   "fragment_id": "869761060",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ criado o curso profissional de Técnico de Gestão Equina, visando a saída profissional de técnico de gestão equina."
+  },
+  "869761143": {
+   "fragment_id": "869761061",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO curso criado no número anterior enquadra-se na família profissional de actividades agrícolas e agro-alimentares e integra-se na área de educação e formação de Produção Agrícola e Animal (621), de acordo com a classificação aprovada pela Portaria n.º 256/2005, de 16 de Março."
+  },
+  "869761144": {
+   "fragment_id": "869761062",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nO plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação do curso profissional aprovado pelo diploma a que se refere o n.º 6.º"
+  },
+  "869761162": {
+   "fragment_id": "869761063",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2006-10-11",
+   "changed_by": [
+    "Revogado pelo/a 4.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+   ],
+   "markdown": "###### 4.º\n\nA componente de formação científica do referido curso é constituída pelas disciplinas de Matemática, Biologia e Química, das quais as duas primeiras, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do Decreto-Lei n.º 74/2004, de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da Portaria n.º 550-C/2004, de 21 de Maio.\n\n> Revogado pelo/a 4.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+  },
+  "869761146": {
+   "fragment_id": "869761064",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nO perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma."
+  },
+  "869761147": {
+   "fragment_id": "869761065",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nCom a publicação da presente portaria é extinto o curso profissional de Técnico de Gestão Equina, criado pela Portaria n.º 1076/95, de 1 de Setembro."
+  },
+  "869761148": {
+   "fragment_id": "869761066",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nPela presente, é parcialmente revogada, nas partes que àquele curso respeitam, a portaria mencionada no número anterior."
+  },
+  "869761149": {
+   "fragment_id": "869761067",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nSem prejuízo do disposto no n.º 7.º, o plano de estudos do curso profissional agora extinto continuará em vigor até à conclusão do curso por parte dos alunos que, entretanto, o tiverem iniciado."
+  },
+  "869761150": {
+   "fragment_id": "869761068",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nAos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto nos n.os 1 e 2 do artigo 15.º do Decreto-Lei n.º 74/2004, de 26 de Março, e no n.º 1 do artigo 33.º da Portaria n.º 550-C/2004, de 21 de Maio."
+  },
+  "869761151": {
+   "fragment_id": "869761069",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nA presente portaria produz efeitos a partir da data da sua assinatura."
+  },
+  "869761139": {
+   "fragment_id": "869761057",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 7 de Setembro de 2005."
+  },
+  "869762256": {
+   "fragment_id": "869761058",
+   "type": 14,
+   "heading": "Anexo N.º 1 — Curso profissional de Técnico de Gestão Equina",
+   "in_force_from": "2006-10-11",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+   ],
+   "markdown": "## Anexo N.º 1 — Curso profissional de Técnico de Gestão Equina\n\nPlano de estudos\n\n(ver quadro no documento original)\n\n> Nota: [2.º, Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263) As alterações introduzidas no anexo n.º 1 na componente de formação científica, na disciplina de Matemática, produzem efeitos a partir do início do ano lectivo de 2005-2006.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+  },
+  "869761141": {
+   "fragment_id": "869761059",
+   "type": 14,
+   "heading": "Anexo N.º 2 — Curso profissional de Técnico de Gestão Equina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo N.º 2 — Curso profissional de Técnico de Gestão Equina\n\nSaída profissional: técnico de gestão equina\n\nFamília profissional: actividades agrícolas e agro-alimentares\n\nÁrea de educação e formação: 621 - Produção Agrícola e Animal\n\nPerfil de desempenho à saída do curso\n\nO técnico de gestão equina é o profissional qualificado que, mercê de uma formação polivalente, integrada e pluridisciplinar, está apto a orientar, organizar e executar as tarefas necessárias à gestão das mais diversificadas estruturas equestres existentes no País. É um técnico com aptidão didáctica e conhecimentos suficientes para o ensino do cavalo e do cavaleiro em todas as suas vertentes.\n\nAs actividades principais desempenhadas por este técnico são:\n\nExecutar a gestão técnica e pedagógica de centros hípicos e escolas de equitação;\n\nConceber, programar e organizar provas equestres;\n\nOrganizar e implementar o programa oficial de formação de praticantes da Escola Nacional de Equitação (ENE);\n\nUtilizar os factores de produção de modo a atingir os objectivos da empresa onde esteja integrado;\n\nPraticar as várias disciplinas equestres, com capacidade para preparar e utilizar cavalos em provas das referidas modalidades, com especial relevância para as disciplinas olímpicas;\n\nGerir coudelarias e outras unidades de produção cavalar.\n\nCertificação escolar e profissional\n\nCurso do nível secundário de educação.\n\nQualificação profissional de nível 3."
+  },
+  "869771138": {
+   "fragment_id": "869761060",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 1.º\n\nÉ criado o curso profissional de Técnico de Gestão Equina, visando a saída profissional de técnico de gestão equina.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771139": {
+   "fragment_id": "869761061",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 2.º\n\nO curso criado no número anterior enquadra-se na família profissional de actividades agrícolas e agro-alimentares e integra-se na área de educação e formação de Produção Agrícola e Animal (621), de acordo com a classificação aprovada pela Portaria n.º 256/2005, de 16 de Março.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771140": {
+   "fragment_id": "869761062",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 3.º\n\nO plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação do curso profissional aprovado pelo diploma a que se refere o n.º 6.º\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771141": {
+   "fragment_id": "869761063",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19",
+    "Revogado pelo/a 4.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+   ],
+   "markdown": "###### 4.º\n\nA componente de formação científica do referido curso é constituída pelas disciplinas de Matemática, Biologia e Química, das quais as duas primeiras, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do Decreto-Lei n.º 74/2004, de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da Portaria n.º 550-C/2004, de 21 de Maio.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19\n\n> Revogado pelo/a 4.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+  },
+  "869771142": {
+   "fragment_id": "869761064",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 5.º\n\nO perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771143": {
+   "fragment_id": "869761065",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 6.º\n\nCom a publicação da presente portaria é extinto o curso profissional de Técnico de Gestão Equina, criado pela Portaria n.º 1076/95, de 1 de Setembro.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771144": {
+   "fragment_id": "869761066",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 7.º\n\nPela presente, é parcialmente revogada, nas partes que àquele curso respeitam, a portaria mencionada no número anterior.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771145": {
+   "fragment_id": "869761067",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 8.º\n\nSem prejuízo do disposto no n.º 7.º, o plano de estudos do curso profissional agora extinto continuará em vigor até à conclusão do curso por parte dos alunos que, entretanto, o tiverem iniciado.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771146": {
+   "fragment_id": "869761068",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 9.º\n\nAos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto nos n.os 1 e 2 do artigo 15.º do Decreto-Lei n.º 74/2004, de 26 de Março, e no n.º 1 do artigo 33.º da Portaria n.º 550-C/2004, de 21 de Maio.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771147": {
+   "fragment_id": "869761069",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### 10.º\n\nA presente portaria produz efeitos a partir da data da sua assinatura.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771148": {
+   "fragment_id": "869761057",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 7 de Setembro de 2005.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  },
+  "869771149": {
+   "fragment_id": "869761058",
+   "type": 14,
+   "heading": "Anexo N.º 1 — Curso profissional de Técnico de Gestão Equina",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+   ],
+   "markdown": "## Anexo N.º 1 — Curso profissional de Técnico de Gestão Equina\n\nPlano de estudos\n\n(ver quadro no documento original)\n\n> Nota: [2.º, Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263) As alterações introduzidas no anexo n.º 1 na componente de formação científica, na disciplina de Matemática, produzem efeitos a partir do início do ano lectivo de 2005-2006.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1080/2006 - Diário da República n.º 193/2006, Série I de 2006-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1080-2006-541263), em vigor a partir de 2006-10-11"
+  },
+  "869771150": {
+   "fragment_id": "869761059",
+   "type": 14,
+   "heading": "Anexo N.º 2 — Curso profissional de Técnico de Gestão Equina",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "## Anexo N.º 2 — Curso profissional de Técnico de Gestão Equina\n\nSaída profissional: técnico de gestão equina\n\nFamília profissional: actividades agrícolas e agro-alimentares\n\nÁrea de educação e formação: 621 - Produção Agrícola e Animal\n\nPerfil de desempenho à saída do curso\n\nO técnico de gestão equina é o profissional qualificado que, mercê de uma formação polivalente, integrada e pluridisciplinar, está apto a orientar, organizar e executar as tarefas necessárias à gestão das mais diversificadas estruturas equestres existentes no País. É um técnico com aptidão didáctica e conhecimentos suficientes para o ensino do cavalo e do cavaleiro em todas as suas vertentes.\n\nAs actividades principais desempenhadas por este técnico são:\n\nExecutar a gestão técnica e pedagógica de centros hípicos e escolas de equitação;\n\nConceber, programar e organizar provas equestres;\n\nOrganizar e implementar o programa oficial de formação de praticantes da Escola Nacional de Equitação (ENE);\n\nUtilizar os factores de produção de modo a atingir os objectivos da empresa onde esteja integrado;\n\nPraticar as várias disciplinas equestres, com capacidade para preparar e utilizar cavalos em provas das referidas modalidades, com especial relevância para as disciplinas olímpicas;\n\nGerir coudelarias e outras unidades de produção cavalar.\n\nCertificação escolar e profissional\n\nCurso do nível secundário de educação.\n\nQualificação profissional de nível 3.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-2020-130350399), em vigor a partir de 2020-03-19"
+  }
+ }
+}

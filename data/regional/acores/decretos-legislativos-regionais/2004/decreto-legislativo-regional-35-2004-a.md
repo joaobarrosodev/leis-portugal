@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:625992:por
+title: Decreto Legislativo Regional n.º 35/2004/A
+short_title: null
+summary: Estabelece os limites das áreas da navegação de recreio na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 35/2004/A
+official_date: null
+publication_date: '2004-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2004, Série I-A de 2004-08-27
+  number: '202'
+  series: I
+  supplement: null
+  pages: 5844 - 5845
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/08/202a00/58445845.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/35/2004/08/27/a/dre/pt/html
+  oj: null
+  dre: '625992'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/35-2004-625992
+  internal: pt:dre:625992:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2004-625992
+  metadata_url: https://data.dre.pt/eli/declegreg/35/2004/08/27/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2004-625992
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-08-27T00:00:00Z'
+integrity:
+  source_sha256: 2b22d35d839d7162cfced40fe8a21f1215113f61c3e2fd4194ebd041049d92ff
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2004/DRE-2004-35-625992.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carta de Navegador
+- Embarcação de Recreio
+- Licenciamento
+- Navegação de Recreio
+- Segurança da Navegação
+- Segurança Marítima
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/2004/05/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2004/05/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/567/1999/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/567/1999/12/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/11/1998/07/02/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/11/1998/07/02/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/14/2001/08/04/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/14/2001/08/04/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/33/2003/08/13/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/33/2003/08/13/a/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 35/2004/A
+
+Licenças e áreas de navegação das embarcações de recreio na Região Autónoma dos Açores
+
+A náutica de recreio tem vindo sucessivamente a ser regulamentada a nível nacional sem que sejam levadas em consideração as especificidades das ilhas, designadamente os Açores, enquanto um arquipélago com ilhas próximas.
+
+Reconhecidas a realidade arquipelágica e as competências da Assembleia Legislativa Regional, foram já assumidas normativamente as nossas especificidades através, designadamente:
+
+Do [Decreto Legislativo Regional n.º 11/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1998-489189), de 2 de Julho, publicado na vigência do Regulamento da Náutica de Recreio, aprovado pelo [Decreto-Lei n.º 329/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1995-631866), de 9 de Dezembro, e que foi posteriormente revogado tacitamente pelo [Decreto-Lei n.º 567/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/567-1999-661085), de 23 de Dezembro, que alterou e republicou o diploma legal de 1995;
+
+Do [Decreto Legislativo Regional n.º 14/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2001-522872), de 4 de Agosto, publicado na vigência do [Decreto-Lei n.º 567/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/567-1999-661085), que introduziu alterações às áreas de navegação das motas de água e pranchas motorizadas (jet ski), designadamente alargando-as até 3 milhas da costa;
+
+Do [Decreto Legislativo Regional n.º 33/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2003-660709), de 13 de Agosto, que veio substituir o [Decreto Legislativo Regional n.º 11/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1998-489189), entretanto revogado pelo [Decreto-Lei n.º 567/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/567-1999-661085).
+
+Com a publicação do [Decreto-Lei n.º 124/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2004-252202), de 25 de Maio, está expressamente salvaguardada a legislação regional sobre náutica de recreio, ao mesmo tempo que se salvaguarda a possibilidade de os órgãos de governo próprio da Região introduzirem as adaptações que forem achadas convenientes.
+
+Ora, como, para além da nossa condição de ilhéus, a Região não dispõe de outros planos aquáticos, designadamente estuários, rias ou albufeiras, nos quais possa ser exercida a actividade náutica de recreio, quer na vertente desportiva, quer na vertente turística;
+
+Como, por outro lado, entre as nossas ilhas as distâncias são curtas, quer entre elas, quer entre os diversos portos de abrigo existentes em redor de todas as ilhas, havendo, ainda, a considerar a reduzida orla marítima de cada ilha e a divisão das ilhas em três grupos, em função da proximidade entre elas;
+
+Tendo em conta a forte tradição das populações dos Açores no acesso ao mar e na prática da náutica de recreio, bem como a actual existência de meios técnicos de ajuda à navegação e o nível de equipamentos de segurança disponíveis;
+
+Tendo em conta o quadro legislativo sobre náutica de recreio no plano nacional, e importando, agora, que nos Açores se continue a considerar as nossas especificidades sobre esta matéria e se reúna, desta vez, num só diploma o quadro legal disperso, revogando os decretos legislativos regionais enquadradores da náutica de recreio na Região;
+
+Finalmente, tendo em conta a posição consensualizada no seio da Comissão de Assuntos Sociais relativamente ao projecto de decreto-lei que aprovou o regulamento da náutica de recreio:
+
+A Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º — Licenças de navegação
+
+1 - Na Região Autónoma dos Açores, os navegadores de recreio titulares de uma carta de marinheiro, de patrão local e de patrão de costa, no que respeita às distâncias de navegação e sem prejuízo das demais limitações, estão sujeitos às seguintes condições:
+
+a) Patrão de costa - navegação livre entre todas as ilhas do arquipélago;
+
+b) Patrão local - navegação livre entre as ilhas que compõem cada um dos grupos do arquipélago;
+
+c) Marinheiro - navegação diurna à distância máxima de 6 milhas da costa e ao longo de toda a costa das ilhas, desde que o seu titular tenha mais de 18 anos.
+
+2 - O navegador de recreio titular de uma carta de patrão local pode navegar entre todas as ilhas do arquipélago, para além dos limites estabelecidos na alínea b) do número anterior, desde que a autoridade marítima competente conclua que a segurança das pessoas a bordo e da embarcação de recreio se encontra garantida, tendo em conta as informações disponíveis relativas quer à duração e ao tipo de viagem, quer às condições do tempo e do mar.
+
+###### Artigo 2.º — Área de navegação das embarcações de recreio
+
+1 - Sem prejuízo das demais limitações, designadamente as decorrentes das respectivas cartas de navegador de recreio, na Região, podem navegar:
+
+a) As embarcações de recreio para navegação costeira, designadas por ER tipo 3, livremente entre todas as ilhas do arquipélago;
+
+b) As embarcações de recreio para navegação costeira restrita, designadas por ER tipo 4, livremente entre as ilhas que compõem cada um dos grupos do arquipélago e ainda entre todas as ilhas do arquipélago, desde que a autoridade marítima competente conclua que a segurança das pessoas a bordo e da embarcação de recreio se encontra garantida, tendo em conta as informações disponíveis relativas quer à duração e ao tipo de viagem, quer às condições do tempo e do mar;
+
+c) As embarcações do tipo 5, excluindo as motas de água e pranchas motorizadas (jet ski), movidas à vela ou a motor, desde que as condições de tempo o permitam, em toda a orla costeira de cada ilha até uma distância não superior a 6 milhas da costa;
+
+d) As motas de água e pranchas motorizadas (jet ski), desde que as condições do tempo o permitam e não se apresentem de forma isolada, em toda a orla costeira de cada ilha até uma distância não superior a 3 milhas da costa;
+
+e) Quando naveguem de forma isolada, as motas de água e pranchas motorizadas (jet ski) só podem afastar-se até 1 milha da linha da baixa-mar e até 4 milhas de um porto de abrigo.
+
+2 - No caso mencionado na alínea d) do número anterior, as embarcações só podem navegar desde o nascer até uma hora antes do pôr do sol.
+
+3 - Para efeitos do disposto na alínea e) do n.º 1, entende-se por navegação isolada a presença no mar de uma mota de água ou prancha motorizada sem que se encontre acompanhada, a uma distância de 300 m, de outra embarcação encarregue de fazer esse acompanhamento.
+
+###### Artigo 3.º — Norma revogatória
+
+São revogados os Decretos Legislativos Regionais n.os [14/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2001-522872), de 4 de Agosto, e [33/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2003-660709), de 13 de Agosto.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Junho de 2004.
+
+**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+
+**Assinado em Angra do Heroísmo em 16 de Julho de 2004.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**

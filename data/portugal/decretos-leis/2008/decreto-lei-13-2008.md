@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:248499:por
+title: Decreto-Lei n.º 13/2008
+short_title: null
+summary: No uso da autorização legislativa concedida pelo n.º 1 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, altera
+  o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, de modo a prorrogar o regime fiscal
+  especial aplicável às entidades que se licenciem para operar na Zona Franca da Madeira, no período entre 1 de Janeiro de
+  2007 e 31 de Dezembro de 2013, com o objectivo de promover o desenvolvimento regional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 13/2008
+official_date: null
+publication_date: '2008-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2008, Série I de 2008-01-18
+  number: '13'
+  series: I
+  supplement: null
+  pages: 606 - 608
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01300/0060600608.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/13/2008/01/18/p/dre/pt/html
+  oj: null
+  dre: '248499'
+  dre_path: /dr/detalhe/decreto-lei/13-2008-248499
+  internal: pt:dre:248499:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2008-248499
+  metadata_url: https://data.dre.pt/eli/dec-lei/13/2008/01/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2008-248499
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-01-18T00:00:00Z'
+integrity:
+  source_sha256: 15c51cb3b3788a482eeefd71735e2663a83bbc946bb68dfd16c270a0f2659be8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-13-248499.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização Legislativa
+- Estatuto dos Benefícios Fiscais
+- Contribuições e Impostos
+- Madeira.região Autónoma
+- Benefícios Fiscais
+- Zona Franca
+relationships:
+- type: cites
+  target: eli:/application/external/tratado
+  label: null
+  source: /application/external/tratado
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/65-a/2007/11/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/65-a/2007/11/26/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 13/2008
+
+de 18 de Janeiro
+
+Tendo presentes as novas orientações em matéria de auxílios de Estado aos transportes marítimos, publicadas em 17 de Janeiro de 2004, e as novas orientações em matéria dos auxílios de Estado com finalidade regional para 2007-2013, cujo mapa foi adoptado em 7 de Fevereiro de 2007, bem como um novo modelo de desenvolvimento para a Região Autónoma da Madeira, introduzem-se com o presente decreto-lei as adequadas alterações ao regime fiscal da Zona Franca da Madeira para o período de 2007 a 2013, prevendo-se que este produza os seus efeitos até 2020, aditando-se para o efeito um novo artigo 34.º-A ao Estatuto dos Benefícios Fiscais.
+
+O novo regime foi notificado à Comissão Europeia ao abrigo do n.º 3 do artigo 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e foi autorizada a respectiva aplicação pela Decisão da Comissão Europeia C (2007) 3037 final, de 27 de Junho de 2006, relativa ao auxílio estatal n.º N 421/2006.
+
+O novo regime mantém as linhas estruturantes do regime anterior, que expirou em 31 de Dezembro de 2006, na medida em que são excluídas as actividades de intermediação financeira, de seguros e das instituições auxiliares de intermediação financeira e de seguros, bem como as actividades do tipo «serviços intragrupo» (centros de coordenação, de tesouraria e de distribuição), e prevê-se que as entidades destinatárias beneficiem de uma redução da taxa do imposto sobre o rendimento das pessoas colectivas (IRC) decorrentes de actividades efectiva e materialmente realizadas na região aplicável até um montante máximo de matéria colectável que depende do número de postos de trabalho criados.
+
+Em comparação com o regime anterior, consagra-se um regime geral degressivo dos benefícios concedidos, passando as entidades devidamente licenciadas a partir de 1 de Janeiro de 2007 e até 31 de Dezembro de 2013, para o exercício de actividades industriais, comerciais, de transportes marítimos e serviços de natureza não financeira, a ser tributadas em IRC, às taxas de 3 %, nos anos 2007 a 2009, 4 %, nos anos 2010 a 2012, e 5 %, nos anos 2013 e seguintes.
+
+Por outro lado, as entidades devidamente licenciadas para operar na zona franca industrial mantêm a dedução de 50 % à colecta do IRC, desde que preenchidas determinadas condições relacionadas com o contributo da respectiva actividade para a modernização e diversificação da economia regional, para a fixação de recursos humanos, para a melhoria das condições ambientais e para a criação de postos de trabalho.
+
+As entidades já registadas ao abrigo dos regimes anteriores continuarão a beneficiar da redução de impostos, a partir de 1 de Janeiro de 2012, ao abrigo do novo regime agora instituído.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo n.º 1 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei introduz alterações ao Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, de modo a prorrogar o regime fiscal especial aplicável às entidades que se licenciem para operar na Zona Franca da Madeira, no período entre 1 de Janeiro de 2007 e até 31 de Dezembro de 2013, com o objectivo de promover o desenvolvimento regional, em conformidade com o disposto na Decisão da Comissão Europeia C (2007) 3037 final, de 27 de Junho de 2007, relativa ao auxílio estatal n.º N 421/2006.
+
+###### Artigo 2.º — Aditamento de disposições ao Estatuto dos Benefícios Fiscais
+
+É aditado ao Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, o artigo 34.º-A, com a seguinte redacção:
+
+«Artigo 34.º-A
+
+Regime especial aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de Janeiro de 2007
+
+1 - Os rendimentos das entidades licenciadas, a partir de 1 de Janeiro de 2007 e até 31 de Dezembro de 2013, para o exercício de actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, que observem os respectivos condicionalismos previstos no n.º 1 do artigo 33.º do presente Estatuto, são tributados em IRC, até 31 de Dezembro de 2020, nos seguintes termos:
+
+a) Nos anos de 2007 a 2009, à taxa de 3 %;
+
+b) Nos anos de 2010 a 2012, à taxa de 4 %;
+
+c) Nos anos de 2013 a 2020, à taxa de 5 %.
+
+2 - As entidades referidas no número anterior que pretendam beneficiar do presente regime devem iniciar as suas actividades no prazo de seis meses, no caso de serviços internacionais, e de um ano, no caso de actividades industriais ou de registo marítimo, contado da data de licenciamento e devem ainda observar um dos seguintes requisitos de elegibilidade:
+
+a) Criação de um a cinco postos de trabalho, nos primeiros seis meses de actividade, e realização de um investimento mínimo de (euro) 75 000 na aquisição de activos fixos corpóreos ou incorpóreos, nos primeiros dois anos de actividade;
+
+b) Criação de seis ou mais postos de trabalho, nos primeiros seis meses de actividade.
+
+3 - As entidades referidas nos números anteriores ficam sujeitas à limitação do benefício a conceder, através da aplicação de plafonds máximos à matéria colectável a que é aplicável a taxa reduzida prevista, nos termos seguintes:
+
+a) 2 milhões de euros pela criação de 1 até 2 postos de trabalho;
+
+b) 2,6 milhões de euros pela criação de 3 até 5 postos de trabalho;
+
+c) 16 milhões de euros pela criação de 6 até 30 postos de trabalho;
+
+d) 26 milhões de euros pela criação de 31 até 50 postos de trabalho;
+
+e) 40 milhões de euros, pela criação de 51 até 100 postos de trabalho;
+
+f) 150 milhões de euros pela criação de mais de 100 postos de trabalho.
+
+4 - Os limites máximos da matéria colectável previstos no número anterior são determinados em função do número de postos de trabalho que as entidades beneficiárias mantêm em cada exercício.
+
+5 - As entidades referidas no n.º 1 que prossigam actividades industriais beneficiam ainda de uma dedução de 50 % à colecta do IRC desde que preencham, pelo menos, duas das seguintes condições:
+
+a) Contribuam para a modernização da economia regional, nomeadamente através da inovação tecnológica de produtos e de processos de fabrico ou de modelos de negócio;
+
+b) Contribuam para a diversificação da economia regional, nomeadamente através do exercício de novas actividades de elevado valor acrescentado;
+
+c) Promovam a contratação de recursos humanos altamente qualificados;
+
+d) Contribuam para a melhoria das condições ambientais;
+
+e) Criem, pelo menos, 15 postos de trabalho, que devem ser mantidos durante um período mínimo de cinco anos.
+
+6 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de Janeiro de 2007 e até 31 de Dezembro de 2013, podem, designadamente, exercer as seguintes actividades económicas relacionadas com:
+
+a) Agricultura e com a produção animal (NACE Rev.1.1, secção A, códigos 01.4 e 02.02);
+
+b) Pesca, aquicultura e serviços relacionados (NACE Rev.1.1, secção B, código 05);
+
+c) Indústrias transformadoras (NACE Rev.1.1, secção D);
+
+d) Produção e distribuição de electricidade, gás e água (NACE Rev.1.1, secção E, código 40);
+
+e) Comércio por grosso (NACE Rev.1.1, secção G, códigos 50 e 51);
+
+f) Transportes e comunicações (NACE Rev.1.1, secção I, códigos 60, 61, 62, 63 e 64);
+
+g) Actividades imobiliárias, alugueres e serviços prestados às empresas (NACE Rev.1.1, secção K, códigos 70, 71, 72, 73 e 74);
+
+h) Ensino superior, ensino para adultos e outras actividades educativas (NACE Rev.1.1, secção M, códigos 80.3 e 80.4);
+
+i) Outras actividades de serviços colectivos (NACE Rev..1.1, secção O, códigos 90, 92 e 93.01).
+
+7 - Da lista de actividades prevista no número anterior encontram-se excluídas as actividades de intermediação financeira, de seguros e das instituições auxiliares de intermediação financeira e de seguros (NACE Rev..1.1, secção J, 65, 66 e 67) bem como as actividades do tipo «serviços intragrupo», designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev.1.1, secção K, código 74).
+
+8 - Os rendimentos das sociedades gestoras de participações sociais, licenciadas a partir de 1 de Janeiro de 2007 e até 31 de Dezembro de 2013, são tributados em IRC nos termos referidos no n.º 1, salvo os obtidos no território português, exceptuadas as zonas francas, ou em outros Estados membros da União Europeia, que são tributados nos termos gerais.
+
+9 - Às restantes situações não referidas nos números anteriores são aplicáveis, nos termos da legislação respectiva e relativamente às actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, os demais benefícios fiscais e condicionalismos actualmente vigentes na Zona Franca da Madeira.
+
+10 - As entidades que estejam licenciadas ao abrigo dos regimes previstos nos artigos 33.º e 34.º do presente Estatuto podem beneficiar do novo regime, a partir de 1 de Janeiro de 2012.»
+
+###### Artigo 3.º — Produção de efeitos
+
+O regime de benefícios fiscais aprovado pelo presente decreto-lei produz efeitos a partir de 1 de Janeiro de 2007.
+
+Visto e aprovado em Conselho de Ministros de 29 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
+
+**Promulgado em 8 de Janeiro de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 9 de Janeiro de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

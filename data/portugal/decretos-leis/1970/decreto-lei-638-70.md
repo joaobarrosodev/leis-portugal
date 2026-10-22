@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:146060:por
+title: Decreto-Lei n.º 638/70
+short_title: null
+summary: Autoriza a Junta de Colonização Interna a arrematar, administrar até à alienação e alienar os prédios penhorados
+  nas execuções em que haja de intervir para cobrança ou defesa dos créditos resultantes de empréstimos concedidos por intermédio
+  dos Fundos de Melhoramentos Agrícolas, Especial de Reestruturação Fundiária e de Fomento de Cooperação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Junta de Colonização Interna
+proposing_entity: null
+official_number: 638/70
+official_date: null
+publication_date: '1970-12-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 295/1970, Série I de 1970-12-22
+  number: '295'
+  series: I
+  supplement: null
+  pages: 1926 - 1926
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/12/29500/19261926.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '146060'
+  dre_path: /dr/detalhe/decreto-lei/638-1970-146060
+  internal: pt:dre:146060:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1970-146060
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1970-146060
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1970-12-22T00:00:00Z'
+integrity:
+  source_sha256: d75453a5928733ac1b32a3a9bc5c5da9a045b99ce038af50b6df91f1db526255
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-638-146060.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 638/70
+
+de 22 de Dezembro
+
+Para eficaz garantia dos créditos resultantes de empréstimos concedidos por intermédio dos Fundos de Melhoramentos Agrícolas, Especial de Reestruturação Fundiária e de Fomento de Cooperação torna-se necessário autorizar a Junta de Colonização Interna a arrematar, administrar até à alienação e alienar os prédios penhorados nas execuções em que haja de intervir para cobrança ou defesa dos mesmos créditos.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. A cobrança coerciva, por intermédio da Junta de Colonização Interna, de todas as dívidas aos Fundos de Melhoramentos Agrícolas, Especial de Reestruturação Fundiária e de Fomento de Cooperação é da competência dos tribunais de 1.ª instância das contribuições e impostos.
+
+2. Nos processos em que os referidos Fundos sejam reclamantes aplicar-se-á a legislação que regula a mesma matéria relativamente à Caixa Geral de Depósitos, Crédito e Previdência.
+
+3. O despacho que ordene a venda em processos em que os referidos Fundos sejam exequentes ou reclamantes será sempre notificado à Junta de Colonização Interna e a falta dessa notificação importará a anulação da mesma venda.
+
+###### Art. 2.º - 1. As aquisições que a Junta de Colonização Interna precise de fazer para eficaz defesa e segurança dos créditos dos Fundos referidos no artigo anterior serão autorizadas por simples despacho do Secretário de Estado da Agricultura e efectuadas pelo agente do Ministério Público competente, a quem a Junta transmitirá directamente as suas instruções.
+
+2. Quando o julgar conveniente, a Junta pode determinar que a praça seja acompanhada por um seu funcionário, que assistirá o agente do Ministério Público.
+
+3. Os encargos e despesas resultantes da aquisição serão suportados pelo fundo credor, que será reembolsado pelo produto da alienação prevista no artigo 4.º Art. 3.º Realizada a compra, o agente do Ministério Público requererá imediatamente o registo de transmissão a favor da Junta de Colonização Interna.
+
+###### Art. 4.º - 1. Os bens adquiridos nos termos deste diploma serão alienados pela Junta de Colonização Interna, por meio de arrematação em hasta pública, propostas em carta fechada ou negociação particular precedendo fixação do preço mínimo por despacho do Secretário de Estado da Agricultura.
+
+2. Será também necessária autorização do Ministro das Finanças se o preço da venda for inferior ao da importância em dívida ao fundo credor.
+
+3. Nos contratos celebrados em execução deste artigo a Junta de Colonização Interna será representada pelo seu presidente ou pelo funcionário para o efeito designado no despacho de autorização.
+
+###### Art. 5.º Enquanto não se proceder à alienação prevista no artigo anterior, incumbe à Junta de Colonização Interna a administração dos bens adquiridos, que se regulará pelas disposições aplicáveis do [Decreto-Lei n.º 37271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37271-1948-354909), de 31 de Dezembro de 1948.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+**Promulgado em 14 de Dezembro de 1970.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser presente à Assembleia Nacional.

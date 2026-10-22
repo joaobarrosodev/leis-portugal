@@ -1,0 +1,335 @@
+---
+schema_version: '1.0'
+id: pt:dre:584811:por
+title: Portaria n.º 745-G/96
+short_title: null
+summary: Aprova o Regulamento do Programa Jovens Voluntários para a Solidariedade (JVS). Revoga a Portaria n.º 987-B/94, de
+  7 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 745-G/96
+official_date: null
+publication_date: '1996-12-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18
+  number: '292'
+  series: I
+  supplement: 2º Suplemento
+  pages: 4532-(8) a 4532-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/12/292b02/00080011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/745-g/1996/12/18/p/dre/pt/html
+  oj: null
+  dre: '584811'
+  dre_path: /dr/detalhe/portaria/745-g-1996-584811
+  internal: pt:dre:584811:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-g-1996-584811
+  metadata_url: https://data.dre.pt/eli/port/745-g/1996/12/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-g-1996-584811
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-12-18T00:00:00Z'
+integrity:
+  source_sha256: c556d0432dcccff3fec6c4bdffb533109dd1f2b4ca9ba1513f45f70b2cf4a323
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-745-G-584811.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Política de Cooperação
+- Instituto Português da Juventude
+- Jovem
+- Programa Jovens Voluntários para a Solidariedade
+- Política de Juventude
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/198/1996/10/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/198/1996/10/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/987-b/1994/11/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/987-b/1994/11/07/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 745-G/96
+
+de 18 de Dezembro
+
+Os fenómenos de discriminação e exclusão social são uma das preocupações fundamentais deste governo. Os jovens, pelo seu altruísmo e generosidade, constituem-se como agentes naturais promotores de acções e de projectos capazes de lutar eficazmente contra estas situações.
+
+Considerando as atribuições prosseguidas pelo Instituto Português da Juventude na promoção, desenvolvimento e coordenação de programas de voluntariado destinados à juventude, procede-se à criação do Programa Jovens Voluntários para a Solidariedade.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do n.º 2 do artigo 2.º do Decreto--Lei n.º 70/96, de 4 de Junho, e atendendo ao estabelecido no [Decreto-Lei n.º 198/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1996-226063), de 17 de Outubro, o seguinte:
+
+1.º É aprovado o Regulamento do Programa Jovens Voluntários para a Solidariedade (JVS), que faz parte integrante da presente portaria.
+
+2.º É atribuída a gestão do Programa Jovens Voluntários para a Solidariedade ao Instituto Português da Juventude (IPJ).
+
+3.º Os prazos para a apresentação dos projectos e para a inscrição de jovens relativos ao 1.º período de 1997 serão fixados por despacho.
+
+4.º É revogada a [Portaria n.º 987-B/94](https://diariodarepublica.pt/dr/detalhe/portaria/987-b-1994-408482), de 7 de Novembro.
+
+Presidência do Conselho de Ministros.
+
+**Assinada em 17 de Dezembro de 1996.**
+
+**O Secretário de Estado da Juventude, António José Martins Seguro.**
+
+REGULAMENTO DO PROGRAMA JOVENS VOLUNTÁRIOS PARA A SOLIDARIEDADE
+
+###### Artigo 1.º — Objecto
+
+O Programa Jovens Voluntários para a Solidariedade, adiante designado por JVS, visa estimular o desenvolvimento do voluntariado juvenil e contribuir para a formação social e cultural dos jovens, através da participação em acções e projectos de utilidade social e comunitária.
+
+###### Artigo 2.º — Áreas de solidariedade
+
+O Programa JVS compreende as seguintes áreas de intervenção:
+
+a) Combate à pobreza e à exclusão social;
+
+b) Apoio à integração social e comunitária de grupos desfavorecidos e em situações de risco;
+
+c) Apoio a pessoas com deficiência, à terceira idade e à infância;
+
+d) Acções de informação e prevenção nos domínios da saúde, toxicodependência, alcoolismo e sida;
+
+e) Acções de educação e alfabetização;
+
+f) Protecção do ambiente e do património florestal;
+
+g) Promoção, divulgação, levantamento e recuperação do património histórico e cultural;
+
+h) Reabilitação e renovação de áreas urbanas.
+
+###### Artigo 3.º — Destinatários
+
+Podem participar no Programa JVS os jovens residentes em território nacional que reúnam os seguintes requisitos:
+
+a) Tenham idade compreendida entre os 15 e os 30 anos;
+
+b) Tenham completado a escolaridade mínima obrigatória;
+
+c) Não participem, à mesma data, noutros programas ocupacionais ou equiparados, promovidos ou financiados por entidades públicas, nem sejam titulares de qualquer prestação de protecção no desemprego.
+
+###### Artigo 4.º — Entidades promotoras
+
+Podem apresentar projectos ao Programa JVS as seguintes entidades:
+
+a) Associações juvenis inscritas no Registo Nacional das Associações Juvenis (RNAJ) que não beneficiem de apoio, nos termos da [Lei n.º 33/87](https://diariodarepublica.pt/dr/detalhe/lei/33-1987-420231), de 11 de Julho;
+
+b) Organizações não governamentais portuguesas (ONG);
+
+c) Instituições particulares de solidariedade social (IPSS);
+
+d) Câmaras municipais;
+
+e) Juntas de freguesia;
+
+f) Outras entidades privadas sem fins lucrativos que prossigam objectivos enquadrados nas áreas de intervenção deste Programa.
+
+###### Artigo 5.º — Duração dos projectos
+
+1 - Os projectos incidirão sobre as áreas definidas no artigo 2.º do presente Regulamento, devendo enquadrar-se em cada uma das seguintes medidas:
+
+a) Medida n.º 1 - projectos de curta duração - de 2 a 6 meses;
+
+b) Medida n.º 2 - projectos de média duração - de 7 a 12 meses;
+
+c) Medida n.º 3 - projectos de longa duração - de 13 a 24 meses.
+
+2 - O regime de voluntariado a praticar pelos jovens terá uma duração máxima de quinze horas semanais.
+
+###### Artigo 6.º — Apresentação dos projectos
+
+1 - A apresentação dos projectos deverá ser efectuada nas delegações regionais do IPJ, em dois períodos:
+
+a) Até 30 de Novembro, para o período que se inicia a 1 de Março do ano seguinte;
+
+b) Até 30 de Junho, para o período que se inicia a 1 de Novembro do mesmo ano.
+
+2 - A apresentação dos projectos que se realizem em mais de um distrito deverá ser efectuada nos serviços centrais do IPJ, nos períodos definidos no número anterior.
+
+3 - Excepcionalmente, mediante despacho do membro do Governo responsável pela área da juventude, podem vir a ser abertos períodos extraordinários ou aprovados projectos para responder a situações concretas.
+
+4 - Dos projectos a apresentar, em formulário próprio a fornecer pelo IPJ, deverão constar, obrigatoriamente, os seguintes elementos:
+
+a) Área de intervenção;
+
+b) Medida de enquadramento;
+
+c) Descrição, objectivos e meios humanos e materiais a afectar ao projecto;
+
+d) Descrição das actividades a desenvolver pelos jovens voluntários e respectiva formação necessária à execução das mesmas;
+
+e) Regime do voluntariado;
+
+f) Orçamento pormenorizado da acção e apoio técnico e financeiro necessário;
+
+g) Capacidades técnica, financeira e humana disponibilizadas pela entidade promotora;
+
+h) Cópia dos estatutos da entidade promotora.
+
+5 - Poderão ainda ser apresentados, pelas entidades promotoras, todos os documentos que contribuam para o melhor esclarecimento e apreciação do projecto.
+
+###### Artigo 7.º — Apreciação dos projectos
+
+1 - A apreciação dos projectos compete ao IPJ, de acordo com os seguintes critérios:
+
+a) Impacte do projecto face às necessidades e prioridades da comunidade local em que o mesmo se insere;
+
+b) Capacidade técnica e organizativa da entidade promotora;
+
+c) Nível de participação dos jovens na execução e planeamento do projecto, nas suas vertentes técnica e logística.
+
+2 - O IPJ procederá à apreciação dos projectos e comunicará a sua decisão às entidades promotoras no prazo de:
+
+a) 25 dias úteis após a data final para a entrega das candidaturas, para o período que se inicia a 1 de Março;
+
+b) 40 dias úteis após a data final para a entrega das candidaturas, para o período que se inicia a 1 de Novembro.
+
+###### Artigo 8.º — Inscrições e informações
+
+1 - As candidaturas dos jovens voluntários às áreas de solidariedade poderão ser apresentadas a qualquer momento e em formulário próprio nas delegações regionais do IPJ, acompanhadas de fotocópia do bilhete de identidade.
+
+2 - Os jovens inscritos constarão de uma listagem de voluntários, a qual será organizada em função das áreas de solidariedade previstas no artigo 2.º do presente Regulamento, donde constem os seguinte elementos:
+
+a) Experiência de voluntariado anterior;
+
+b) Tempo disponível para a participação no projecto;
+
+c) Outros que se enquadrem no espírito e necessidade da área de solidariedade a que o jovem se candidatou.
+
+3 - Cada delegado regional do IPJ, com a colaboração das entidades promotoras dos projectos aprovados, procederá à selecção dos jovens participantes no Programa JVS, de acordo com os seguintes critérios:
+
+a) Proximidade da residência dos jovens relativamente ao local de desenvolvimento do projecto;
+
+b) Interesse manifestado pelas áreas de solidariedade;
+
+c) Data da candidatura.
+
+4 - A selecção dos jovens para os projectos apresentados nos termos do n.º 2 do artigo 6.º do presente Regulamento será efectuada pelos serviços centrais do IPJ, com a colaboração das entidades promotoras dos projectos aprovados, de acordo com os critérios definidos no número anterior.
+
+###### Artigo 9.º — Apoios
+
+1 - Aos jovens voluntários são garantidos os seguintes apoios:
+
+a) Bolsa mensal para compensação das despesas inerentes ao desenvolvimento do voluntariado, de montante a definir por despacho do membro do Governo responsável pela área da juventude e a suportar pelo IPJ;
+
+b) Seguro de acidentes pessoais da responsabilidade da entidade promotora;
+
+c) Alimentação, a fornecer pela entidade promotora, nos casos em que o regime de voluntariado seja superior a três horas diárias.
+
+2 - O IPJ prestará às entidades promotoras dos projectos aprovados o apoio técnico e financeiro considerado necessário à respectiva execução.
+
+3 - Os jovens voluntários podem, mediante declaração expressa, prescindir do montante total ou parcial da bolsa a favor da entidade promotora do projecto.
+
+###### Artigo 10.º — Deveres das entidades promotoras
+
+Constituem deveres das entidades promotoras:
+
+a) Enviar para o IPJ, até ao 3.º dia útil de cada mês, o registo de assiduidade dos jovens participantes;
+
+b) Zelar pela boa execução do projecto e pelo enquadramento dos jovens participantes;
+
+c) Dar conhecimento ao IPJ das alterações à planificação inicial do projecto, caso se venham a verificar;
+
+d) Garantir o seguro de acidentes pessoais para os jovens participantes;
+
+e) Fornecer a alimentação aos jovens participantes, nos casos em que o regime de voluntariado seja superior a três horas diárias;
+
+f) Realizar acções de formação que se mostrem necessárias à integração dos jovens voluntários no projecto aprovado;
+
+g) Apresentar ao IPJ, no prazo de 20 dias úteis após a conclusão do projecto, um relatório final com a discriminação de todas as despesas realizadas, podendo o IPJ, sempre que considere necessário, solicitar a exibição dos respectivos documentos comprovativos;
+
+h) Publicitar de forma visível o apoio do Programa JVS ao projecto.
+
+###### Artigo 11.º — Deveres dos jovens participantes
+
+1 - Constituem deveres dos jovens participantes do Programa JVS:
+
+a) A assiduidade;
+
+b) O cumprimento dos horários e orientações definidos pela entidade promotora no quadro das actividades a desenvolver pelo projecto;
+
+c) A utilização de um elemento identificativo, fornecido pelo IPJ;
+
+d) A aceitação das condições do presente Regulamento.
+
+2 - O não cumprimento injustificado da alínea a) por um período superior a dois dias seguidos ou cinco interpolados dará lugar à exclusão imediata do projecto.
+
+###### Artigo 12.º — Deveres do Instituto Português da Juventude
+
+Constituem deveres do IPJ:
+
+a) A divulgação do Programa JVS;
+
+b) O fornecimento e distribuição dos formulários previstos no presente Regulamento;
+
+c) A prestação atempada de todas as informações solicitadas;
+
+d) O pagamento das bolsas aos jovens participantes;
+
+e) O fornecimento às entidades promotoras dos certificados de participação.
+
+###### Artigo 13.º — Certificação de participação
+
+Após a entrega do relatório de cada projecto, será concedido aos jovens voluntários um certificado de participação, a emitir pela entidade promotora e homologado pelo IPJ.
+
+###### Artigo 14.º — Penalizações
+
+1 - A existência de quaisquer irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos estabelecidos ou acordados, implicará a imediata suspensão do processamento das mesmas, não podendo a entidade beneficiar de qualquer espécie de apoio por um prazo não inferior a dois anos.
+
+2 - A não apresentação do relatório nos termos referidos na alínea g) do artigo 10.º do presente Regulamento implica a reposição do apoio já efectuado e a inelegibilidade de novos projectos ao abrigo deste Programa.
+
+###### Artigo 15.º — Financiamento
+
+1 - A aprovação dos projectos fica condicionada à dotação orçamental para o Programa JVS.
+
+2 - As entidades promotoras podem participar no financiamento de bolsas aos jovens participantes nos respectivos projectos.

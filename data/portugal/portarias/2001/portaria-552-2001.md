@@ -1,0 +1,493 @@
+---
+schema_version: '1.0'
+id: pt:dre:332247:por
+title: Portaria n.º 552/2001
+short_title: null
+summary: Aprova o Regulamento da Lotaria Instantânea
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Saúde e do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 552/2001
+official_date: null
+publication_date: '2001-05-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/2001, Série I-B de 2001-05-31
+  number: '126'
+  series: I
+  supplement: null
+  pages: 3254 - 3256
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b00/32543256.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-12-30'
+version_history:
+  file: portaria-552-2001.versoes.json
+  count: 11
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-02'
+    amending: pt:dre:632404:por
+    amending_title: Portaria n.º 1048/2001
+    changes:
+    - Altera Artigo 6.º
+  - date: '2003-05-27'
+    amending: pt:dre:541384:por
+    amending_title: Portaria n.º 431/2003
+    changes:
+    - Altera Artigo 7.º
+  - date: '2006-09-02'
+    amending: pt:dre:540804:por
+    amending_title: Portaria n.º 867/2006
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2009-09-01'
+    amending: pt:dre:488495:por
+    amending_title: Portaria n.º 973/2009
+    changes:
+    - Altera Artigo 6.º
+  - date: '2013-03-22'
+    amending: pt:dre:259421:por
+    amending_title: Portaria n.º 112/2013
+    changes:
+    - Adita Artigo 4.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+  - date: '2013-04-13'
+    amending: pt:dre:260446:por
+    amending_title: Portaria n.º 148/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+  - date: '2014-01-26'
+    amending: pt:dre:571049:por
+    amending_title: Portaria n.º 15/2014
+    changes:
+    - Altera Artigo 7.º
+  - date: '2017-07-28'
+    amending: pt:dre:107761912:por
+    amending_title: Portaria n.º 232/2017
+    changes:
+    - Altera Artigo 7.º
+  - date: '2019-07-20'
+    amending: pt:dre:123324347:por
+    amending_title: Portaria n.º 227-A/2019
+    changes:
+    - Altera Artigo 10.º
+  - date: '2025-12-30'
+    amending: pt:dre:992879816:por
+    amending_title: Portaria n.º 477/2025/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/552/2001/p/cons/20251229/pt/html
+  oj: null
+  dre: '332247'
+  dre_path: /dr/detalhe/portaria/552-2001-332247
+  internal: pt:dre:332247:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-2001-332247
+  metadata_url: https://data.dre.pt/eli/port/552/2001/p/cons/20251229/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-107771057
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-107771057
+  retrieved_at: '2026-10-22T12:13:03Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6355c63b66827e9123a264d80fecdf3f17f48b8384100ade64f08fa6bb03be70
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:13:03Z'
+  notes: 11 versão(ões); histórico completo em portaria-552-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Lisboa
+- Informatização
+- Santa Casa da Misericórdia
+- Regulamento
+- Departamento de Jogos
+relationships:
+- type: amended_by
+  target: pt:dre:632404:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1048-2001-632404
+  date: '2001-09-01'
+- type: amended_by
+  target: pt:dre:541384:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/431-2003-541384
+  date: '2003-05-22'
+- type: amended_by
+  target: pt:dre:540804:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804
+  date: '2006-08-28'
+- type: amended_by
+  target: pt:dre:488495:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/973-2009-488495
+  date: '2009-08-31'
+- type: amended_by
+  target: pt:dre:259421:por
+  label: Adita Artigo 4.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:260446:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446
+  date: '2013-04-12'
+- type: amended_by
+  target: pt:dre:571049:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049
+  date: '2014-01-23'
+- type: amended_by
+  target: pt:dre:107761912:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912
+  date: '2017-07-27'
+- type: amended_by
+  target: pt:dre:123324347:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347
+  date: '2019-07-19'
+- type: amended_by
+  target: pt:dre:992879816:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/477-2025-992879816
+  date: '2025-12-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/314/1994/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/314/1994/12/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/940-b/1995/07/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/940-b/1995/07/27/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:13:03Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 552/2001
+
+Portaria n.º 552/2001
+
+de 31 de Maio
+
+Considerando que o actual sistema de exploração da Lotaria Instantânea não permite uma exploração do jogo em tempo real;
+
+Considerando que, actualmente, já estão implantados na generalidade dos países europeus sistemas de exploração de jogos em tempo real, on-line, que ligam terminais espalhados por todo o País directamente a um sistema central onde os dados relativos aos pagamentos de prémios da Lotaria Instantânea ficam imediatamente registados e validados;
+
+Considerando que o sistema on-line é fiável, seguro e tem demonstrado capacidade para promover a optimização da exploração da Lotaria Instantânea, com benefício para todas as entidades beneficiárias que verão as suas receitas aumentadas;
+
+Assim, ao abrigo do artigo 3.º do Decreto-Lei n.º 314/94, de 23 de Dezembro, e do n.º 2 do artigo 3.º do Regulamento do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, aprovado pelo Decreto-Lei n.º 322/91, de 26 de Agosto:
+
+Manda o Governo, pelos Ministros da Saúde e do Trabalho e da Solidariedade, o seguinte:
+
+###### Artigo 1.º — Do jogo
+
+1 - A Lotaria Instantânea é um jogo social do estado, explorado através da emissão de jogos autónomos, com denominação própria, aos quais podem corresponder uma ou várias emissões, nos termos do plano previamente definido de emissão e prémios.
+
+2 - A Lotaria Instantânea é vendida em bilhetes, na frente dos quais figuram, em zona reservada e vedada por película de segurança a remover pelo jogador, um conjunto de símbolos ou números que determinarão, de forma imediata, a atribuição de um ou mais prémios, conforme as regras de atribuição indicadas no próprio bilhete.
+
+3 - O prémio atribuído de forma imediata nos termos do número anterior pode ser condição de recebimento de outro ou outros prémios também constantes do respectivo plano de prémios.
+
+4 - No bilhete figuram, obrigatoriamente, o plano de emissão e prémios de cada jogo, um extrato do Regulamento ou um código de barras para acesso ao mesmo e as regras de atribuição dos prémios referidos na parte final do número anterior.
+
+5 - Compete ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa fixar para cada jogo:
+
+a) Número de emissões;
+
+b) A duração do seu período de venda;
+
+c) Quantidade de bilhetes por emissão;
+
+d) Preço;
+
+e) Plano de prémios.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 477/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/477-2025-992879816), em vigor a partir de 2025-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+###### Artigo 2.º — Do bilhete
+
+1 - Do bilhete físico da Lotaria Instantânea constam os seguintes elementos:
+
+a) Na frente: a denominação do jogo, o preço, a zona reservada e vedada por película de segurança a remover pelo próprio jogador, o motivo decorativo, os logótipos, as regras de atribuição do(s) prémio(s) e uma zona reservada a controlo, devidamente identificada com a expressão «Não raspar»;
+
+b) No verso: o extrato do Regulamento ou um código de barras para acesso ao extrato das regras do mesmo, a forma de atribuição dos prémios referidos no n.º 3 do artigo anterior, se for caso disso, o plano de prémios, a referência ou símbolo da proibição de venda de jogo a menores, podendo igualmente conter um ou mais códigos de barras.
+
+2 - Os elementos referidos no n.º 4 do artigo 1.º, no n.º 1 do artigo 2.º, no artigo 5.º e no n.º 2 do artigo 6.º do presente Regulamento constarão, no caso dos bilhetes desmaterializados da Lotaria Instantânea, do sítio da Internet www.jogossantacasa.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 477/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/477-2025-992879816), em vigor a partir de 2025-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148/2013 - Diário da República n.º 72/2013, Série I de 2013-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446), em vigor a partir de 2013-04-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+###### Artigo 3.º — Das regras de segurança
+
+1 - Os bilhetes físicos da Lotaria Instantânea apenas podem ser colocados à venda pelos mediadores dos jogos sociais do Estado depois de estes procederem à sua ativação através dos terminais de jogo.
+
+2 - Os bilhetes físicos da Lotaria Instantânea devem ser adquiridos e manuseados pelos jogadores com observância das seguintes regras de segurança:
+
+a) Verificar que a zona reservada e vedada por película de segurança a remover pelo próprio jogador se encontra intacta;
+
+b) Verificar que o bilhete não apresenta defeitos ou mutilações;
+
+c) Remover a película de segurança referida na alínea a), de modo a não afectar a legibilidade do bilhete;
+
+d) Não dobrar, cortar, riscar, manchar, alterar ou afectar de qualquer outra forma o bilhete;
+
+e) Não proceder à remoção da zona reservada a controlo identificada com a expressão «Não raspar».
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148/2013 - Diário da República n.º 72/2013, Série I de 2013-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446), em vigor a partir de 2013-04-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+###### Artigo 4.º — Do local de aquisição
+
+1 - Os bilhetes físicos da Lotaria Instantânea são adquiridos nos mediadores dos jogos sociais do Estado.
+
+2 - Apenas serão válidos os bilhetes físicos da Lotaria Instantânea que sejam ativados pelo mediador através dos terminais de jogo e desde que tal ativação esteja registada no sistema informático central do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.
+
+3 - Os bilhetes desmaterializados da Lotaria Instantânea são adquiridos no sítio da internet www.jogossantacasa.pt, cujo acesso é disponibilizado através da plataforma de acesso multicanal do Departamento de Jogos e da utilização do cartão de jogador, nos termos do Decreto-Lei n.º 282/2003, de 8 de novembro.
+
+4 - Apenas serão válidos os bilhetes desmaterializados de Lotaria Instantânea que se encontrem registados e validados no sistema central do Departamento de Jogos, os quais constituem a única prova de aquisição dos bilhetes.
+
+5 - Para os bilhetes de Lotaria Instantânea desmaterializada adquiridos pelos jogadores, o cartão de jogador com o qual foi efetuada a aposta é o único documento válido para solicitar o pagamento dos prémios.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148/2013 - Diário da República n.º 72/2013, Série I de 2013-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446), em vigor a partir de 2013-04-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+###### Artigo 4.º-A — Cartão de Jogador
+
+1 - Para efetuar os pagamentos e receber os prémios da Lotaria Instantânea, através de meios electrónicos, podem os jogadores utilizar um cartão de jogador emitido pelo Departamento de Jogos.
+
+2 - O cartão de jogador, identificado pelo respectivo número e código de segurança, está associado a uma conta bancária à ordem, possibilitando o pagamento antecipado do jogo, que consiste no seu carregamento até determinado montante para utilização na participação nos jogos sociais do Estado, sendo recarregável e permitindo creditar, até determinado montante, o valor dos prémios, dos mesmos jogos, a que tenha direito.
+
+3 - Os montantes referidos no número anterior, bem como as respetivas regras de utilização, são definidos pelo Departamento de Jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social, pela internet e por quaisquer outros meios julgados adequados e constam da documentação obrigatoriamente entregue ao jogador no momento da aquisição do cartão.
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+###### Artigo 5.º — Do preço
+
+O preço de venda ao público constará, obrigatoriamente, dos bilhetes da Lotaria Instantânea, não podendo ser vendidos por importância diferente da indicada.
+
+###### Artigo 6.º — Dos prémios
+
+1 - A importância destinada a prémios, em cada emissão, não pode ser inferior a 50 % nem superior a 70 % do capital emitido.
+
+2 - No verso do bilhete físico consta, obrigatoriamente, a percentagem para prémios, definida dentro dos limites estabelecidos no número anterior, e o plano de prémios.
+
+3 - O plano de prémios define as quantidades e os valores dos prémios existentes em cada emissão de bilhetes de um jogo.
+
+4 - O prémio ou prémios que os jogadores podem receber estão expressamente indicados no bilhete.
+
+5 - O prémio ou prémios que os jogadores podem receber são divulgados pelo seu valor ilíquido.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 477/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/477-2025-992879816), em vigor a partir de 2025-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+> Alterado pelo/a [Portaria n.º 973/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/973-2009-488495), em vigor a partir de 2009-09-01
+
+> Alterado pelo/a [Portaria n.º 1048/2001 - Diário da República n.º 203/2001, Série I-B de 2001-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/1048-2001-632404), em vigor a partir de 2001-09-02, produz efeitos a partir de 2001-06-11
+
+###### Artigo 7.º — Do pagamento de prémios
+
+1 - Os prémios titulados pelos bilhetes físicos da Lotaria Instantânea são pagos contra a apresentação do título, nos seguintes termos:
+
+a) Os prémios de valor igual ou inferior a (euro) 150 são pagos junto de qualquer mediador dos jogos sociais do Estado;
+
+b) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos mediante transferência para a conta bancária indicada pelo portador do bilhete premiado;
+
+c) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;
+
+d) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para conta bancária do portador do bilhete premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.
+
+2 - Os prémios correspondentes a bilhetes de Lotaria Instantânea desmaterializados adquiridos através do sítio da Internet www.jogossantacasa.pt são pagos da seguinte forma e de acordo com as condições gerais de utilização do cartão de jogador:
+
+a) Os prémios de valor igual ou inferior a (euro) 150 são transferidos automaticamente para o cartão de jogador através do qual o bilhete foi adquirido;
+
+b) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;
+
+c) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:
+
+i) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);
+
+ii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;
+
+iii) Identificação presencial junto do Departamento de Jogos;
+
+d) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.
+
+3 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.
+
+4 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento dos prémios.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28, produz efeitos a partir de 2017-08-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12
+
+> Alterado pelo/a [Portaria n.º 431/2003 - Diário da República n.º 118/2003, Série I-B de 2003-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/431-2003-541384), em vigor a partir de 2003-05-27, produz efeitos a partir de 2003-07-01
+
+###### Artigo 8.º — Dos requisitos para o pagamento de prémios
+
+1- Sem prejuízo do disposto no artigo 9.º, os prémios são pagos de imediato aos portadores dos bilhetes físicos, desde que, no momento da sua apresentação, estes reúnam os seguintes requisitos:
+
+a) Serem legíveis;
+
+b) Não estarem mutilados;
+
+c) Não se encontrarem deteriorados ou defeituosos;
+
+d) Não se encontrarem alterados;
+
+e) Manterem intacta a zona «Não raspar»;
+
+f) Manterem intacto o código de barras na zona removida pelo jogador e os elementos de segurança impressos no bilhete.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 477/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/477-2025-992879816), em vigor a partir de 2025-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148/2013 - Diário da República n.º 72/2013, Série I de 2013-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446), em vigor a partir de 2013-04-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12
+
+###### Artigo 9.º — Do não pagamento de prémios
+
+Sem prejuízo do disposto nos n.os 1 e 4 do artigo 11.º, os bilhetes físicos que não reúnam as condições referidas no n.º 1 do artigo anterior e no n.º 2 do artigo 4.º não serão pagos.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148/2013 - Diário da República n.º 72/2013, Série I de 2013-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446), em vigor a partir de 2013-04-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+###### Artigo 10.º — Da data limite de pagamento de prémios
+
+1 - O pagamento dos prémios de cada jogo da Lotaria Instantânea é efetuado até à data fixada pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, que a publicita, junto dos mediadores, no sítio da Internet www.jogossantacasa.pt e através da comunicação social, com uma antecedência mínima de 30 dias.
+
+2 - Até à data a que se refere o número anterior, todo o possuidor de um bilhete premiado que, tendo-o apresentado para pagamento, seja informado que não tem direito a prémio ou que existe algum outro motivo que impeça o seu pagamento, poderá reclamar para o júri das reclamações, constituído nos termos do n.º 1 do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, através de formulário próprio a fornecer pelos mediadores dos jogos sociais do Estado e a entregar no Departamento de Jogos, por correio postal ou correio eletrónico, desde que sejam indicados o nome completo e morada do reclamante, o jogo a que se reporta o bilhete e o motivo da reclamação.
+
+3 - Após a data limite anunciada nos termos do número anterior, caduca o direito ao recebimento dos prémios.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 477/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/477-2025-992879816), em vigor a partir de 2025-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20
+
+###### Artigo 11.º — Dos bilhetes com defeitos técnicos de impressão
+
+1 - Os jogadores que adquiram bilhetes físicos com erros de impressão ou defeitos técnicos na zona reservada e vedada por película de segurança a remover pelo próprio jogador podem enviá-los, devidamente identificados, para o Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, que verificará se os mesmos são premiados.
+
+2 - Caso o jogador opte por não enviar o bilhete referido no número anterior directamente para o Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, tem direito a receber outro bilhete.
+
+3 - Na situação referida no número anterior o mediador enviará o bilhete referido para o Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, onde será imediatamente destruído, sendo entregue ao mediador o preço respectivo.
+
+4 - Os jogadores que adquiram bilhetes físicos que não reúnam as condições do n.º 2 do artigo 4.º podem enviá-los, devidamente identificados, para o Departamento de Jogos da Santa Casa da Misericórdia de Lisboa que comprovará a sua autenticidade e verificará a existência do direito a prémio.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148/2013 - Diário da República n.º 72/2013, Série I de 2013-04-12](https://diariodarepublica.pt/dr/detalhe/portaria/148-2013-260446), em vigor a partir de 2013-04-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22
+
+###### Artigo 12.º — Júri das extracções
+
+1 - Compete ao júri das extracções, no que se refere à Lotaria Instantânea:
+
+a) Verificar a conformidade dos ficheiros informáticos de cada jogo com o respectivo plano de emissão e prémios, previamente aprovados nos termos regulamentares;
+
+b) Superintender e fiscalizar, nos jogos que assim o prevejam, os sorteios de prémios incluídos nos respectivos planos e que não sejam de atribuição imediata, bem como decidir sobre dúvidas que sejam suscitadas durante a sua realização;
+
+c) Fiscalizar os sorteios adicionais dos jogos abrangidos pelo presente Regulamento nos termos do n.º 3 do artigo 1.º
+
+2 - Dos actos do júri das extracções é lavrada acta assinada pelos seus membros.
+
+###### Artigo 13.º — Da não aceitação de reclamações
+
+1 - O Departamento de Jogos da Santa Casa da Misericórdia de Lisboa não intervém em eventuais conflitos entre jogadores que adquiram bilhetes em comum, nomeadamente para efeitos de pagamento de prémios.
+
+2 - O Departamento de Jogos da Santa Casa da Misericórdia de Lisboa não se responsabiliza, em qualquer caso, pela perda, furto, roubo ou extravio de bilhetes da Lotaria Instantânea.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 477/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/477-2025-992879816), em vigor a partir de 2025-12-30
+
+###### Artigo 14.º — Das fraudes
+
+A prática de actos fraudulentos com vista ao recebimento de prémios, nomeadamente falsificação de bilhetes, será objecto de participação para efeitos de procedimento criminal, nos termos da lei.
+
+###### Artigo 15.º — Disposições finais
+
+1 - Em tudo o mais não expressamente previsto no presente Regulamento e no Decreto-Lei n.º 282/2003, de 8 de novembro, regem as normas que disciplinam a Lotaria Nacional, com as devidas adaptações.
+
+2 - Quaisquer dúvidas ou omissões do presente Regulamento, que não possam ser esclarecidas nos termos do número anterior, são resolvidas pelo Administrador Executivo do Departamento de Jogos, exceto em matéria de atribuição de prémios, em que é competente o júri de reclamações.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 112/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/112-2013-259421), em vigor a partir de 2013-03-22

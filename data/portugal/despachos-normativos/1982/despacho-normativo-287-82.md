@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:380898:por
+title: Despacho Normativo n.º 287/82
+short_title: null
+summary: Estabelece as prioridades na área de intervenção da Comissão de Coordenação da Região do Norte
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Administração Interna
+proposing_entity: null
+official_number: 287/82
+official_date: null
+publication_date: '1982-12-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 293/1982, Série I de 1982-12-21
+  number: '293'
+  series: I
+  supplement: null
+  pages: 4170 - 4170
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29300/41704170.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '380898'
+  dre_path: /dr/detalhe/despacho-normativo/287-1982-380898
+  internal: pt:dre:380898:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/287-1982-380898
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/287-1982-380898
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-12-21T00:00:00Z'
+integrity:
+  source_sha256: 450bfd8adef7d7148c73119ecdc7e1f49cc9624481c852c96cc6db6ab0b89bcd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-287-380898.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 287/82
+
+De acordo com o disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 118/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1982-606481), de 19 de Abril, que regula o Programa de Empreendimentos Intermunicipais no ano de 1982, são estabelecidas, na área de intervenção da Comissão de Coordenação da Região do Norte, as seguintes prioridades:
+
+1.º - a) Ordenamento dos sectores de investimento:
+
+Sectores considerados especificamente ou contidos de forma directa nos objectivos dos planos ou programas de desenvolvimento integrado:
+
+Rede viária;
+
+Saneamento básico:
+
+Abastecimento de água;
+
+Eliminação de lixos;
+
+Tratamento de esgotos;
+
+Infra-estruturas complementares;
+
+Construção de redes de gabinetes de apoio técnico;
+
+Infra-estruturas de comercialização de interesse regional;
+
+Aeródromos secundários - 100 (pontos).
+
+Sectores da competência das autarquias, nos casos não considerados anteriormente:
+
+Rede viária;
+
+Saneamento básico;
+
+Construção de sedes de gabinetes de apoio técnico;
+
+Infra-estruturas de comercialização de interesse regional;
+
+Construção de instalações para a GNR, PSP e bombeiros - 94 (pontos);
+
+Infra-estruturas complementares em equipamentos sociais;
+
+Estações centrais de camionagem - 93 (pontos);
+
+Aeródromos secundários - 92 (pontos).
+
+b) Ordenamento dos agrupamentos de municípios:
+
+... Pontos
+
+Terra Quente Transmontana ... 97
+
+Vale do Douro Sul ... 97
+
+Vale do Douro Superior ... 96
+
+Vale do Douro Norte ... 95
+
+Baixo Tâmega ... 95
+
+Vale do Lima ... 92
+
+Vale do Minho ... 92
+
+Terra Fria Transmontana ... 92
+
+Alto Tâmega ... 90
+
+Alto Ave ... 89
+
+Baixo Cávado ... 83
+
+Vale de Sousa ... 77
+
+Alto Cávado ... 75
+
+Entre Douro e Vouga ... 66
+
+Riba de Ave ... 50
+
+Área metropolitana do Porto ... 37
+
+2.º A colaboração técnica e financeira da administração central, em empreendimentos intermunicipais, estender-se-á a investimentos cujo limiar mínimo será de 6000 contos no ano de 1982.
+
+3.º O presente despacho entra em vigor no dia da sua publicação.
+
+Ministérios das Finanças e do Plano e da Administração Interna, 7 de Dezembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.

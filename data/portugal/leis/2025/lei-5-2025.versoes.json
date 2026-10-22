@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:905119980:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2025-908471649",
+ "dre_path": "/dr/detalhe/lei/5-2025-905119980",
+ "source_lastmod": "2025-02-24",
+ "versions": [
+  {
+   "date": "2025-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "908115414",
+    "908115415",
+    "908115416",
+    "908115417"
+   ]
+  }
+ ],
+ "fragments": {
+  "908115414": {
+   "fragment_id": "908471650",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 5/2025\n\nde 28 de janeiro\n\nElevação da povoação de Venda do Pinheiro à categoria de vila\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "908115415": {
+   "fragment_id": "908471651",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei eleva a povoação de Venda do Pinheiro, no concelho de Mafra, à categoria de vila."
+  },
+  "908115416": {
+   "fragment_id": "908471652",
+   "type": 11,
+   "heading": "Artigo 2.º — Elevação a vila",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Elevação a vila\n\nA povoação de Venda do Pinheiro, inserida na freguesia de Venda do Pinheiro, no concelho de Mafra, é elevada à categoria de vila."
+  },
+  "908115417": {
+   "fragment_id": "908471653",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

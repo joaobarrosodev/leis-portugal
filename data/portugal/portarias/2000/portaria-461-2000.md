@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:321301:por
+title: Portaria n.º 461/2000
+short_title: null
+summary: Fixa para o continente os critérios de elegibilidade e de prioridade e os procedimentos administrativos a observar
+  na distribuição dos novos direitos de plantação de vinhas destinados à produção de vinho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 461/2000
+official_date: null
+publication_date: '2000-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2000, Série I-B de 2000-07-21
+  number: '167'
+  series: I
+  supplement: null
+  pages: 3492 - 3493
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/461/2000/07/21/p/dre/pt/html
+  oj: null
+  dre: '321301'
+  dre_path: /dr/detalhe/portaria/461-2000-321301
+  internal: pt:dre:321301:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/461-2000-321301
+  metadata_url: https://data.dre.pt/eli/port/461/2000/07/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/461-2000-321301
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-12-15T00:00:00Z'
+integrity:
+  source_sha256: 48583f9381af97363ba7a940b0811582add87bda9f5213e0c450e113f5a9dfa7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-461-321301.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Vinho
+- Definição de Competências
+- Direcção Regional de Agricultura
+- Apoio ao Investimento
+- Instituto da Vinha e do Vinho
+- Política Agrícola Comum
+- Regulamento CE
+- Vinha
+relationships:
+- type: amended_by
+  target: pt:dre:578087:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31999R1493
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1493/oj
+- type: cites
+  target: celex:31999R1677
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1677/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 461/2000
+
+de 21 de Julho
+
+Com a aprovação da nova organização comum de mercado vitivinícola, foram atribuídos a Portugal 3760 ha de novos direitos de plantação.
+
+De acordo com o Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio, pretende o Governo que estes novos direitos, deduzidos da área já distribuída nos termos do Despacho Normativo n.º 13/99, de 8 de Março, constituam um instrumento de concretização dos objectivos de política vitivinícola.
+
+Devem, assim, ser disponibilizados para todas as regiões vitivinícolas, em função da importância relativa da área de vinha e da vontade de investimento manifestada nessas regiões, promovendo-se a produção de vinhos susceptíveis de beneficiar do uso de denominação de origem ou indicação geográfica.
+
+Na convicção da existência de uma vontade generalizada de os viticultores, novos e actuais, iniciarem ou aumentarem o seu património vitícola, importa definir um conjunto de disposições administrativas tendentes a possibilitar um processo de distribuição objectivo e oportuno.
+
+Como estabelece a nova organização comum de mercado vitivinícola, é ainda fixado um valor para estes novos direitos, que reverterá em benefício directo do sector, através do financiamento de acções de valorização do património vitícola nacional e, em particular, das castas tradicionais portuguesas.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, nos termos do disposto nos artigos 2.º e 6.º do Decreto-Lei n.º 83/97, de 9 de Abril, o seguinte:
+
+1.º O disposto na presente portaria destina-se a fixar, para o continente, os critérios de elegibilidade e de prioridade e os procedimentos administrativos a observar na distribuição dos novos direitos de plantação de vinhas destinadas à produção de vinho, atribuídos a Portugal nos termos do n.º 1 do artigo 6.º do Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio, e do artigo 1.º do Regulamento (CE) n.º [1677/99](http://data.europa.eu/eli/reg/1999/1677/oj?locale=pt), do Conselho, de 19 de Julho, após dedução da área distribuída nos termos do Despacho Normativo n.º 13/99, de 18 de Fevereiro.
+
+2.º Pode candidatar-se à distribuição de novos direitos de plantação, no âmbito desta medida, qualquer pessoa singular ou colectiva que:
+
+a) Não tenha cedido direitos de replantação, nos termos das Portarias n.os 156/95, de 23 de Fevereiro, e 789/99, de 6 de Setembro, e se comprometa a não vir a cedê-los nas próximas oito campanhas;
+
+b) Não tenha sido titular de direitos de replantação que tenham caducado por ausência de utilização no decurso das cinco últimas campanhas;
+
+c) Não tenha sido titular de direitos de plantação concedidos nos termos do Decreto-Lei n.º 513-D/79, de 24 de Dezembro, da Portaria n.º 605/90, de 1 de Agosto, e do Despacho Normativo n.º 49/96, de 22 de Novembro, que tenham caducado por ausência de utilização, no decurso das cinco últimas campanhas;
+
+d) Seja proprietária da parcela de terreno a ocupar com vinha ou possua documento válido para a sua utilização.
+
+3.º Sem prejuízo das condições previstas no número anterior, apenas serão consideradas as candidaturas para novos direitos de plantação que:
+
+a) Se destinem à produção de vinho regional, vinho de qualidade produzido em região determinada (VQPRD), vinho espumante de qualidade produzido em região determinada (VEQPRD) e vinho licoroso de qualidade produzido em região determinada (VLQPRD), neste último caso com excepção do vinho do Porto;
+
+b) Contemplem, em parcela contínua, a área mínima de 1 ha, sem prejuízo do disposto na alínea c) do n.º 7.º;
+
+c) Contemplem uma área máxima de 10 ha;
+
+d) Incluam prova documental de escoamento assegurado para a produção de uva, sempre que o candidato não detenha vinificação própria.
+
+4.º A área de vinha a atribuir a candidatos que pretendam exercer o direito de plantação em prédios do mesmo proprietário não poderá exceder 10 ha no conjunto das candidaturas.
+
+5.º Para efeitos de seriação das candidaturas elegíveis, são consideradas as seguintes prioridades:
+
+- Para a primeira instalação de jovens agricultores a título principal, até ao limite de 10% da área a distribuir;
+
+- Para as restantes candidaturas, a área remanescente a distribuir após aplicação da prioridade anterior.
+
+6.º Para aplicação dos critérios de prioridade, a área total dos novos direitos de plantação a distribuir é repartida pelo conjunto das regiões vitivinícolas do continente de acordo com o anexo ao presente diploma, correspondentes às zonas de produção de vinho regional, em função:
+
+a) Da importância relativa da área de vinha, de acordo com o Inventário do Potencial Vitícola, actualizado em 1 de Setembro de 1999, a que é atribuído o factor de ponderação 0,7;
+
+b) Do peso relativo da área das candidaturas apresentadas nos termos dos Despachos Normativos n.º 49/96, de 22 de Novembro, e 13/99, de 8 de Março, cujo factor de ponderação é de 0,3.
+
+7.º Caso as candidaturas a que se refere o segundo travessão do n.º 5.º, que satisfaçam as condições de elegibilidade, totalizem uma área superior à disponível para cada região vitivinícola, são observados os critérios seguintes:
+
+a) A área disponível é repartida pela totalidade das candidaturas, tendo em conta a área requerida, desde que a área a atribuir a cada candidatura seja igual ou superior a 1 ha;
+
+b) Se, por repartição da área disponível pela totalidade das candidaturas, a área a atribuir for inferior a 1 ha, a área disponível é repartida pelo número de candidaturas que permita a atribuição daquele mínimo e, sucessivamente, correspondam:
+
+i) A candidaturas de viticultores que tenham um património vitícola, por região, inferior às seguintes áreas:
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)
+
+ii) A candidaturas de viticultores que tenham um património vitícola, por região, com áreas compreendidas nos seguintes escalões:
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)
+
+iii) A candidaturas de viticultores que tenham um património vitícola superior aos limites máximos referidos na subalínea anterior;
+
+c) Se, após a aplicação dos critérios estabelecidos na alínea anterior, a área repartida pelas candidaturas correspondentes à subalínea i), ou a área disponível para as subalíneas sucessivas, for inferior a 1 ha, a mesma é repartida pela totalidade das candidaturas enquadradas nessas subalíneas.
+
+8.º Caso as candidaturas a que se refere o primeiro travessão do n.º 5.º, que satisfaçam as condições de elegibilidade, totalizem uma área superior à disponível para cada região vitivinícola, serão adoptados os seguintes critérios:
+
+a) A área disponível é repartida pela totalidade das candidaturas, tendo em conta a área requerida, se a área a atribuir a cada candidatura for igual ou superior a 1 ha;
+
+b) Se, por repartição da área disponível pela totalidade das candidaturas, a área a atribuir for inferior a 1 ha, a área disponível é repartida pelo número de candidaturas que permita a atribuição daquele mínimo e, sucessivamente, correspondam a projectos de instalação até 5 ha ou superiores;
+
+c) Se, em aplicação da alínea anterior, a área repartida for inferior a 1 ha, a área disponível é repartida pela totalidade das candidaturas correspondentes a projectos de instalação até 5 ha.
+
+9.º Caso as candidaturas, que satisfaçam as condições de elegibilidade, totalizem uma área inferior à disponível em cada região vitivinícola, para cada um dos critérios de prioridade, a área sobrante é transferida para a prioridade seguinte e, sequencialmente, pelas restantes regiões vitivinícolas, observando o peso relativo resultante da aplicação do n.º 6.º
+
+10.º Aos candidatos que tenham beneficiado da atribuição de direitos nos termos do Despacho Normativo n.º 13/99, de 8 de Março, poderá ser atribuída uma área máxima equivalente ao diferencial para 10 ha, sem prejuízo do disposto nos n.os 7.º e 8.º
+
+11.º As candidaturas são efectuadas, em modelo próprio, a fornecer pelo Instituto da Vinha e do Vinho (IVV), na direcção regional de agricultura (DRA) onde se localiza a parcela a plantar com vinha, no prazo de 30 dias contados a partir da data de entrada em vigor da presente portaria.
+
+12.º Aos candidatos que, nos termos do Despacho Normativo n.º 13/99, de 8 de Março, não tenham beneficiado da atribuição de novos direitos de plantação e pretendam manter válida essa candidatura, no âmbito da presente portaria e até ao limite da área prevista na alínea c) do n.º 3.º, basta indicar essa pretensão no modelo e no prazo referidos no número anterior.
+
+13.º As DRA devem remeter as candidaturas ao IVV até 15 dias após a sua recepção.
+
+14.º O IVV procede à pré-selecção das candidaturas até 90 dias após o encerramento do prazo da sua recepção, notificando os interessados da decisão.
+
+15.º Após a notificação, os interessados devem entregar no IVV uma declaração emitida pela respectiva comissão vitivinícola regional, ou pela entidade certificadora do vinho regional, que confirme a aptidão dos solos para a produção de vinhos de qualidade ou para vinho regional, consoante o caso, a qual constitui elemento indispensável à aprovação definitiva da candidatura.
+
+16.º O IVV distribui os novos direitos de plantação até ao final da campanha vitivinícola de 2002-2003.
+
+17.º Ao valor da taxa que incide sobre a concessão de direitos de novas plantações, fixada na alínea a) do n.º 1.º da Portaria n.º 291/97, de 2 de Maio, acresce o valor de 50000$00, a aplicar conforme o estabelecido no n.º 3 do artigo 5.º do Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar, em 28 de Junho de 2000.
+
+## ANEXO — (a que se refere o n.º 6.º)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/167b00/34923493.pdf)

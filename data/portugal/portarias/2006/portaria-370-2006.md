@@ -1,0 +1,173 @@
+---
+schema_version: '1.0'
+id: pt:dre:650371:por
+title: Portaria n.º 370/2006
+short_title: null
+summary: Aprova o regulamento de extensão do CCT entre a ARCDP - Associação dos Retalhistas de Carnes do Distrito do Porto
+  e outras e o Sindicato Nacional dos Trabalhadores do Ramo Alimentar e Similares
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 370/2006
+official_date: null
+publication_date: '2006-04-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 74/2006, Série I-B de 2006-04-13
+  number: '74'
+  series: I
+  supplement: null
+  pages: 2771 - 2773
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/04/074b00/27712773.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/370/2006/04/13/p/dre/pt/html
+  oj: null
+  dre: '650371'
+  dre_path: /dr/detalhe/portaria/370-2006-650371
+  internal: pt:dre:650371:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-2006-650371
+  metadata_url: https://data.dre.pt/eli/port/370/2006/04/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-2006-650371
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-04-13T00:00:00Z'
+integrity:
+  source_sha256: 679ddc825bb9b49daf92ec654bea7696fb259b9c28ab96548f5192bc712a1991
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-370-650371.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato Coletivo de Trabalho
+- Regulamento de Extensão
+- Relações de Trabalho
+- Retalhista
+- Tabela Salarial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 370/2006
+
+de 13 de Abril
+
+O contrato colectivo de trabalho entre a ARCDP - Associação dos Retalhistas de Carnes do Distrito do Porto e outras e o Sindicato Nacional dos Trabalhadores do Ramo Alimentar e Similares, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 26, de 15 de Julho de 2005, abrange as relações de trabalho entre empregadores que prossigam a actividade de retalhista de carnes e trabalhadores ao seu serviço, uns e outros, representados pelas associações que as outorgaram.
+
+O Sindicato e várias das associações de empregadores outorgantes requereram a extensão do CCT a todas as empresas não filiadas nas associações de empregadores outorgantes que exerçam a actividade na área da sua aplicação.
+
+O CCT actualiza a tabela salarial. O estudo de avaliação do impacte da extensão da tabela salarial teve por base as retribuições efectivas praticadas no sector abrangido pela convenção, apuradas pelos quadros de pessoal de 2002 e actualizadas com base no aumento percentual médio das tabelas salariais das convenções publicadas nos anos intermédios.
+
+Os trabalhadores a tempo completo do sector, com exclusão de aprendizes e praticantes, são cerca de 522, dos quais 443 (84,9%) auferem retribuições inferiores às convencionais, sendo que 313 (60%) auferem retribuições inferiores às da convenção em mais de 7,2%.
+
+Considerando a dimensão das empresas do sector, é nas empresas até 10 trabalhadores que se encontra o maior número de profissionais com retribuições praticadas inferiores às da convenção.
+
+Por outro lado, a convenção actualiza o subsídio de chefia (1,1%), o abono para falhas (2,9%) e o subsídio de carne (1,1%). Não se dispõe de dados estatísticos que permitam avaliar o impacte destas prestações. Atendendo ao valor das actualizações e porque as mesmas prestações foram objecto de extensão anteriores, justifica-se incluí-las na extensão.
+
+A retribuição do praticante com menos de 17 anos prevista na tabela salarial da convenção é inferior à retribuição mínima mensal garantida em vigor. No entanto, a retribuição mínima mensal garantida pode ser objecto de reduções relacionadas com o trabalhador, de acordo com o artigo 209.º da [Lei n.º 35/2004](https://diariodarepublica.pt/dr/detalhe/lei/35-2004-502399), de 29 de Julho. Deste modo, a referida retribuição da tabela salarial apenas é objecto de extensão para abranger situações em que a retribuição mínima mensal garantida resultante da redução seja inferior àquela.
+
+Atendendo a que a convenção objecto desta extensão regula diversas condições de trabalho, procede-se à ressalva genérica de cláusulas contrárias a normas legais imperativas.
+
+No concelho de Santa Maria da Feira, a actividade de comércio retalhista de carnes é abrangida pelo CCT objecto da presente extensão celebrado pela Associação Empresarial de Santa Maria da Feira e pelo CCT celebrado pela Associação Comercial de Aveiro e outras e o SINDCES - Sindicato do Comércio, Escritórios e Serviços, em virtude de o referido concelho estar incluído na área de representação da Associação Comercial de Espinho, que subscreve o segundo contrato colectivo. Atendendo à representatividade da Associação Empresarial de Santa Maria da Feira e à circunstância de as retribuições mínimas do primeiro contrato colectivo serem mais elevadas do que as do segundo, a presente extensão abrange os empregadores sem filiação associativa do concelho de Santa Maria da Feira. Ao mesmo tempo, a extensão do CCT celebrado pela Associação Comercial de Aveiro aplicar-se-á, no referido concelho, a empregadores filiados na Associação Comercial de Espinho.
+
+As extensões anteriores desta convenção não abrangeram as relações de trabalho tituladas por empregadores que exerciam a actividade económica em estabelecimentos qualificados como unidades comerciais de dimensão relevante, não filiados na associação de empregadores outorgante, regulados pelo [Decreto-Lei n.º 218/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1997-195799), de 20 de Agosto, entretanto revogado pela [Lei n.º 12/2004](https://diariodarepublica.pt/dr/detalhe/lei/12-2004-217164), de 30 de Março, as quais eram abrangidas pelo CCT entre a APED - Associação Portuguesa de Empresas de Distribuição e diversas associações sindicais e pelas respectivas portarias de extensão, situação que se mantém.
+
+Com efeito, considera-se conveniente manter a distinção entre pequeno/médio comércio a retalho e a grande distribuição, nos termos seguidos pelas extensões anteriores, pelo que a extensão do CCT não abrangerá as empresas não filiadas nas associações de empregadores outorgantes desde que se verifique uma das seguintes condições:
+
+Sendo de comércio a retalho alimentar ou misto, disponham de uma área de venda contínua de comércio a retalho alimentar igual ou superior a 2000 m2;
+
+Sendo de comércio a retalho não alimentar, disponham de uma área de venda contínua igual ou superior a 4000 m2;
+
+Sendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada de comércio a retalho alimentar igual ou superior a 15000 m2;
+
+Sendo de comércio a retalho não alimentar, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada igual ou superior a 25000 m2.
+
+Atendendo a que a convenção regula diversas condições de trabalho, procede-se à ressalva genérica de cláusulas que sejam contrárias a normas legais imperativas.
+
+A extensão tem, no plano social, o efeito de melhorar as condições de trabalho de um conjunto significativo de trabalhadores e, no plano económico, promove a aproximação das condições de concorrência entre empresas do mesmo sector.
+
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, 1.ª série, n.º 6, de 15 de Fevereiro de 2006, ao qual não foi deduzida oposição por parte dos interessados.
+
+Assim:
+
+Ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte:
+
+1.º
+
+1 - As condições de trabalho constantes do CCT entre a ARCDP - Associação dos Retalhistas de Carnes do Distrito do Porto e outras e o Sindicato Nacional dos Trabalhadores do Ramo Alimentar e Similares, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 26, de 15 de Julho de 2005, são estendidas nos distritos do Porto, Viana do Castelo, Bragança, nos concelhos de Vila Real, Alijó, Mondim de Bastos, Murça, Ribeira da Pena, Sabrosa e Vila Pouca de Aguiar, do distrito de Vila Real, e no concelho de Santa Maria da Feira, do distrito de Aveiro:
+
+a) Às relações de trabalho entre empregadores não filiados nas associações de empregadores outorgantes que exerçam a actividade económica abrangida pela convenção e trabalhadores ao seu serviço das profissões e categorias profissionais nela previstas;
+
+b) Às relações de trabalho entre empregadores filiados nas associações de empregadores outorgantes que exerçam a referida actividade económica e trabalhadores ao seu serviço das aludidas profissões e categorias profissionais não representados pela associação sindical outorgante.
+
+2 - O disposto na alínea a) do número anterior não se aplica às empresas filiadas na Associação Comercial de Espinho, do concelho de Santa Maria da Feira.
+
+3 - A retribuição do praticante com menos de 17 anos prevista na tabela salarial da convenção apenas é objecto de extensão na situação em que seja superior à retribuição mínima mensal garantida, resultante de redução relacionada com o trabalhador, de acordo com o artigo 209.º da [Lei n.º 35/2004](https://diariodarepublica.pt/dr/detalhe/lei/35-2004-502399), de 29 de Julho.
+
+4 - A presente extensão não se aplica a empresas não filiadas nas associações de empregadores outorgantes desde que se verifique uma das seguintes condições:
+
+Sendo de comércio a retalho alimentar ou misto, disponham de uma área de venda contínua de comércio a retalho alimentar igual ou superior a 2000 m2;
+
+Sendo de comércio a retalho não alimentar, disponham de uma área de venda contínua igual ou superior a 4000 m2;
+
+Sendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada de comércio a retalho alimentar igual ou superior a 15000 m2;
+
+Sendo de comércio a retalho não alimentar, pertencentes a empresa ou grupo que tenha, a nível nacional, uma área de venda acumulada igual ou superior a 25000 m2.
+
+5 - Não são objecto de extensão as cláusulas contrárias a normas legais imperativas.
+
+2.º
+
+A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+
+**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 24 de Março de 2006.**

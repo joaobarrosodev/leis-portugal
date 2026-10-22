@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:115552979:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 23/2018/A
+short_title: null
+summary: Criação do Canal Parlamento/Açores
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2018/A
+official_date: null
+publication_date: '2018-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/2018, Série I de 2018-06-20
+  number: '117'
+  series: I
+  supplement: null
+  pages: 2580 - 2581
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/06/11700/0258002581.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/23/2018/06/20/a/dre/pt/html
+  oj: null
+  dre: '115552979'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/23-2018-115552979
+  internal: pt:dre:115552979:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/23-2018-115552979
+  metadata_url: https://data.dre.pt/eli/resolalraa/23/2018/06/20/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/23-2018-115552979
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-06-20T00:00:00Z'
+integrity:
+  source_sha256: 4302262ab54051949df74bf8c0f28286abc0cbd747778da9dcd80605d5f13958
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2018/DRE-2018-23-115552979.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Assembleia Legislativa Regional
+- Canal Parlamento
+- Grupo de Trabalho
+- Operador de Televisão
+- Recomendação
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolalraa/20/2013/08/06/a/dre
+  label: null
+  source: http://data.dre.pt/eli/resolalraa/20/2013/08/06/a/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 23/2018/A
+
+Criação do Canal Parlamento/Açores
+
+As chamadas televisões legislativas, um subgrupo da televisão pública, são cada vez mais numerosas e influentes no contexto dos sistemas políticos parlamentares. A primeira televisão legislativa, a Cable-Satellite Public Affairs Network, nasceu em 1979, nos Estados Unidos. Na Europa, a França foi o primeiro país a criar um canal parlamentar, logo no início da década de 90 do século xx.
+
+Em Portugal, o Canal Parlamento (ARTV) começou a transmissão em direto dos trabalhos parlamentares, via cabo, em 2002. O Canal Parlamento iniciou, no ano 2013, a emissão em sinal aberto, algo que permitiu o acesso universal da população a esta plataforma de divulgação do trabalho parlamentar. Na atualidade, são raros os parlamentos nacionais, de países democráticos, que não possuem plataformas, por cabo ou em sinal aberto, de transmissão televisiva.
+
+Os canais parlamentares permitem a transmissão, sem cortes ou edição, dos trabalhos parlamentares. Deste modo, o trabalho parlamentar torna-se mais visível e transparente. A informação a respeito dos assuntos comunitários torna-se mais global e o pluralismo político passa a ter mais espaço de afirmação.
+
+Os cidadãos podem, assim, libertar-se de todo o género de tutelas interpretativas e de agendas mediáticas. Escolhem, livremente, o que mais lhes interessa no âmbito da agenda parlamentar em discussão e constroem o seu próprio juízo crítico, com recurso a fontes diretas, a respeito dos assuntos debatidos e dos diversos posicionamentos políticos exteriorizados.
+
+A experiência dos parlamentos que criaram os seus próprios canais parlamentares, demonstra que os níveis de fiscalização e de exigência em relação ao trabalho parlamentar, por parte das respetivas comunidades políticas, aumentaram muito. A consequência deste facto foi o aumento, muito substancial, da produtividade - em termos de discussão política, do número de iniciativas parlamentares e da participação popular no âmbito dos mecanismos consagrados em cada instituição parlamentar - do trabalho parlamentar.
+
+Os canais parlamentares resultam, assim, em mais transparência, mais informação e mais exigência no âmbito dos sistemas políticos democráticos. Isto provoca, forçosamente, o reforço dos níveis de qualidade do trabalho parlamentar e o incremento do conhecimento mútuo entre os eleitos e os eleitores. Tudo isto é crucial para a sobrevivência e reforço das democracias representativas.
+
+No contexto geral do aumento da visibilidade do trabalho desenvolvido pelos parlamentos de âmbito nacional, os parlamentos regionais não podem ficar para trás. A preservação dos mecanismos de afirmação identitária e de autogoverno depende, fundamentalmente, do prestígio e da visibilidade das suas instituições parlamentares. Esses fatores de valorização estão diretamente relacionados com a divulgação das suas atividades e da sua eficácia enquanto caixa-de-ressonância credível da complexidade e do pluralismo da sociedade que representam.
+
+Nesse sentido, a criação de uma relação assimétrica de visibilidade e de legitimidade entre as instituições parlamentares nacionais e regionais, em detrimento destas últimas, representa um risco para as autonomias regionais. É justamente por isso que os parlamentos dos territórios dotados de autonomia política têm vindo a sentir a necessidade de criar os seus próprios canais parlamentares.
+
+No caso específico dos Açores, a assimetria entre os mecanismos de visibilidade da Assembleia da República e da Assembleia Legislativa tem vindo a incrementar-se. A Assembleia da República usufrui de uma emissão própria por cabo, de uma presença crescente nos grandes canais informativos portugueses e, desde o início do ano 2013, de uma emissão em canal aberto.
+
+A tendência é exatamente a inversa no que diz respeito à Assembleia Legislativa. A divulgação dos trabalhos parlamentares açorianos é cada vez mais residual no espaço televisivo e o enfraquecimento progressivo dos órgãos de comunicação social regionais não permite perspetivar qualquer inversão desta tendência no âmbito da imprensa escrita e das rádios. A criação de um canal parlamento, que transmita em direto e em canal aberto as reuniões do plenário e das comissões da Assembleia Legislativa da Região Autónoma dos Açores, constitui uma necessidade premente do nosso sistema político.
+
+Necessidade que ficou mais uma vez patente nas últimas eleições legislativas regionais. A enorme dimensão da abstenção registada tem certamente um grande conjunto de explicações técnicas, sociais e políticas, mas é inegável que a falta de visibilidade, junto da opinião pública, do Parlamento dos Açores, em nada contribui para a necessária e crucial valorização da instituição parlamentar.
+
+Os enormes custos associados à criação de um canal parlamento semelhante ao da Assembleia da República tornam inviável uma solução deste tipo para a Assembleia Legislativa da Região Autónoma dos Açores. Com efeito, estima-se que a despesa associada ao funcionamento da ARTV supere os 2 milhões de euros. Só as despesas anuais agregadas à recentemente adquirida capacidade de emissão em sinal aberto, através da Televisão Digital Terrestre, custaram 420 mil euros. Isto sucede apesar da dimensão relativamente reduzida da estrutura do canal. No total, 9 espaços onde estão instaladas 32 câmaras permanentes - plenário, senado, auditório do edifício novo e seis comissões -, um centro de produção, 3 salas de edição não linear e pós-produção de áudio e um espaço de green screen. A equipa da ARTV conta com apenas sete pessoas (duas jornalistas, um coordenador e quatro técnicos).
+
+Face à inviabilidade económica de montar uma estrutura deste tipo - a que temos de somar os constrangimentos associados à nossa situação insular e à estrutura descentrada da nossa instituição parlamentar, que conta com um edifício sede e mais 8 delegações de ilha - a melhor solução, para garantir a transmissão televisiva em direto e em canal aberto dos trabalhos parlamentares, passa pela formalização de um protocolo entre a Rádio e Televisão de Portugal, S. A. e a Assembleia Legislativa.
+
+O Centro Regional dos Açores faz, atualmente, a cobertura das reuniões plenárias - com diretos ocasionais - e também de grande parte das reuniões das comissões parlamentares. Tem, por isso, uma estrutura logística montada e dispõe de pessoal qualificado que pode garantir a transmissão televisiva, de forma integral, dos trabalhos parlamentares. A esta capacidade do Centro Regional dos Açores da RTP deve juntar-se o contributo dos meios técnicos e humanos de que a própria Assembleia Legislativa já dispõe no âmbito da transmissão online das reuniões plenárias.
+
+Estes meios terão de ser obviamente reforçados, mas parece evidente que o esforço financeiro associado à criação de uma estrutura conjunta e autónoma da Assembleia Legislativa e da RTP/Açores - o Canal Parlamento/Açores - não é exagerado. A Assembleia Legislativa suportaria, integralmente, os custos associados ao reforço dos meios técnicos e humanos necessários para implementar o projeto.
+
+Os períodos de sobreposição da programação da RTP/Açores com a transmissão dos trabalhos parlamentares são residuais e fáceis de solucionar. Tendo em conta as fortes restrições de todo o tipo que a RTP/Açores enfrenta, a criação do Canal Parlamento/Açores teria vantagens consideráveis para esta estação pública. Aumentaria as horas de produção própria, sem que daí resultasse qualquer custo adicional (que seria suportado pela Assembleia), reforçaria o seu papel enquanto serviço público essencial para a Autonomia Açoriana e aumentaria - assim se espera - os seus níveis de audiência. Neste contexto, a RTP/Açores reforçaria o seu papel estratégico perante os órgãos de governo próprio da Região, estatuto que lhe garantiria a implicação dos mesmos no esforço de salvaguarda e fortalecimento da estação.
+
+No que diz respeito à natureza, direção e linhas orientadoras do Canal Parlamento/Açores, importa referenciar que o mesmo deverá funcionar numa mancha horária devidamente calendarizada e largamente pré-determinada - nas reuniões do plenário e das comissões parlamentares - integrando, também, os necessários mecanismos de flexibilidade inerentes à imprevisibilidade da evolução dos trabalhos parlamentares. Isto obrigará o Parlamento a melhorar a planificação das suas atividades, nomeadamente no âmbito da calendarização das reuniões das diversas comissões parlamentares.
+
+O protocolo a assinar entre a Assembleia Legislativa e a Rádio e Televisão de Portugal, S. A., assegurará a autonomia de gestão, por parte da Assembleia, do espaço de transmissão que vier a ser contratualizado. Para esse efeito deverá ser criado, à imagem do que sucede com a ARTV, um conselho de direção que tomará as decisões relativas à programação do Canal Parlamento/Açores, composto por um representante de cada grupo e representação parlamentar, deliberando por unanimidade, sem prejuízo do direito de recurso para a Conferência dos Grupos e Representações Parlamentares. O Canal Parlamento/Açores deverá, também, constituir uma pequena equipa técnica que coordenará com a RTP/Açores todos os aspetos técnicos relacionados com a planificação, conteúdo logístico e transmissão dos trabalhos parlamentares.
+
+Na passada legislatura foi aprovada, por unanimidade, a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 20/2013/A](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2013-498483), de 6 de agosto, em quase tudo idêntica à presente iniciativa. A Resolução não foi, no entanto, executada. Nestas circunstâncias, importa renovar a legitimidade política da iniciativa no âmbito da nova legislatura e da nova composição do Parlamento dos Açores, dar-lhe um novo sentido de urgência e reforçar os mecanismos de acompanhamento e fiscalização referentes ao processo relacionado com a efetiva execução da componente deliberativa da resolução.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, aprovar o seguinte:
+
+1 - Que a Assembleia Legislativa da Região Autónoma dos Açores, através dos seus órgãos competentes, conclua a negociação de um protocolo com a Rádio e Televisão de Portugal, S. A., no sentido de criar o Canal Parlamento/Açores nos moldes descritos na exposição de motivos desta iniciativa;
+
+2 - A Presidente do Parlamento deve informar, de forma regular, todos os Grupos e Representações Parlamentares sobre a evolução do processo negocial preconizado na presente resolução.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de maio de 2018.
+
+**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**

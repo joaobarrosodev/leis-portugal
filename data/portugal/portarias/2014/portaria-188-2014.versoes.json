@@ -1,0 +1,550 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56931982:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-67250675",
+ "dre_path": "/dr/detalhe/portaria/188-2014-56931982",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67220955",
+    "67220956",
+    "67220957",
+    "67220958",
+    "67220959",
+    "67220960",
+    "67220961",
+    "67220962",
+    "67220963",
+    "67220964",
+    "67220965",
+    "67220966",
+    "67220967",
+    "67220968",
+    "67220969",
+    "67220970",
+    "67220971",
+    "67220972",
+    "67220973",
+    "67220974",
+    "67250775",
+    "67250776",
+    "67250777",
+    "67250778",
+    "67250779",
+    "67250780"
+   ]
+  },
+  {
+   "date": "2015-05-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67239769:por",
+     "title": "Portaria n.º 137/2015",
+     "published": "2015-05-19",
+     "dre_path": "/dr/detalhe/portaria/137-2015-67239769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "67220955",
+    "67220956",
+    "67220957",
+    "67220958",
+    "67220959",
+    "67220960",
+    "67220961",
+    "67220962",
+    "67250815",
+    "67220964",
+    "67250816",
+    "67250818",
+    "67220967",
+    "67220968",
+    "67250817",
+    "67220970",
+    "67220971",
+    "67220972",
+    "67220973",
+    "67220974",
+    "67250775",
+    "67250776",
+    "67250777",
+    "67250778",
+    "67250779",
+    "67250780",
+    "67250781"
+   ]
+  },
+  {
+   "date": "2021-03-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159614840:por",
+     "title": "Portaria n.º 63/2021",
+     "published": "2021-03-17",
+     "dre_path": "/dr/detalhe/portaria/63-2021-159614840"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Capítulo V",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "67220955",
+    "67220956",
+    "67220957",
+    "159535255",
+    "159535256",
+    "67220960",
+    "159535257",
+    "159535253",
+    "67220962",
+    "159535258",
+    "67220964",
+    "67250816",
+    "159535259",
+    "67220967",
+    "159535260",
+    "159535261",
+    "67220970",
+    "67220971",
+    "67220972",
+    "159535265",
+    "159535262",
+    "159535254",
+    "67250775",
+    "159535263",
+    "159535264",
+    "67250778",
+    "159535266",
+    "67250780",
+    "67250781"
+   ]
+  }
+ ],
+ "fragments": {
+  "67220955": {
+   "fragment_id": "67250676",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 188/2014\n\nde 18 de setembro\n\nA Lei n.º 4/2007, de 16 de janeiro, que aprova as bases gerais do sistema de segurança social, define como um dos objetivos fundamentais do subsistema de ação social, a prevenção e reparação de situações de carência e desigualdade socioeconómica, de dependência, de disfunção, exclusão ou vulnerabilidade sociais, bem como a integração e promoção comunitárias das pessoas e o desenvolvimento das respetivas capacidades.\n\nNa concretização destes objetivos da ação social, o serviço de atendimento e acompanhamento social reveste-se de grande importância contribuindo para uma proteção especial aos grupos mais vulneráveis através da disponibilização de informação e da mobilização dos recursos adequados a cada situação, tendo em vista a promoção da melhoria das condições de vida e bem-estar das populações, condições essas facilitadoras da inclusão social.\n\nAinda na prossecução destes objetivos e considerando uma utilização eficiente dos serviços, o Despacho n.º 12154/2013, de 24 de setembro, veio criar a Rede Local de Intervenção Social (RLIS), que constitui um instrumento privilegiado na articulação entre as várias entidades multissectoriais representadas nas estruturas locais com responsabilidades no desenvolvimento de serviços da ação social.\n\nNeste domínio, a melhoria das condições objetivas da população num determinado território bem como as práticas de parceria têm obtido resultados indiscutíveis, mas continua a verificar-se alguma fragmentação na disponibilização das respostas sociais, que resulta da necessidade urgente de combinar uma resposta de proximidade e célere com uma ação social integrada.\n\nNeste contexto, representando a ação social um importante vetor no combate à exclusão social e atendendo às linhas de ação definidas no Programa de Emergência Social, as quais fortalecem a capacidade das instituições sociais de desenvolver uma intervenção que garanta novas e melhores respostas de proximidade aos cidadãos, numa ótica de subsidiariedade, importa, regulamentar o atendimento e acompanhamento social, quanto à organização e funcionamento do serviço prestado, por forma a garantir uma uniformização de procedimentos ao nível das regras orientadoras da atuação das diferentes modalidades de intervenção.\n\nAssim:\n\nAo abrigo do artigo 5.º do Decreto-Lei n.º 64/2007, de 14 de março, com a última redação dada pelo Decreto-Lei n.º 33/2014, de 4 de março, manda o Governo, pelo Ministro da Solidariedade, Emprego e Segurança Social, o seguinte:\n\n> Nota: [Artigo 7.º, Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840) A Portaria n.º 63/2021, de 17 de março, produz efeitos nos termos do artigo 24.º do Decreto-Lei n.º 55/2020, de 12 de agosto."
+  },
+  "67220956": {
+   "fragment_id": "67250677",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "67220957": {
+   "fragment_id": "67250678",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta as condições de organização e de funcionamento do Serviço de Atendimento e Acompanhamento Social, adiante designado por SAAS."
+  },
+  "67220958": {
+   "fragment_id": "67250679",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\n1 - O SAAS é um serviço que assegura o atendimento e o acompanhamento de pessoas e famílias em situação de vulnerabilidade e exclusão social, bem como de emergência social.\n\n2 - Excetuam-se do disposto no número anterior as situações devidas a catástrofes naturais, calamidades públicas ou outras ocorrências cobertas por legislação específica."
+  },
+  "67220959": {
+   "fragment_id": "67250680",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nConstituem objetivos do SAAS:\n\na) Informar, aconselhar e encaminhar para respostas, serviços ou prestações sociais adequados a cada situação;\n\nb) Apoiar em situações de vulnerabilidade social;\n\nc) Prevenir situações de pobreza e de exclusão sociais;\n\nd) Contribuir para a aquisição e ou fortalecimento das competências das pessoas e famílias, promovendo a sua autonomia e fortalecendo as redes de suporte familiar e social;\n\ne) Assegurar o acompanhamento social do percurso de inserção social;\n\nf) Mobilizar os recursos da comunidade adequados à progressiva autonomia pessoal, social e profissional."
+  },
+  "67220960": {
+   "fragment_id": "67250681",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios orientadores\n\nO SAAS obedece, designadamente, aos seguintes princípios:\n\na) Promoção da inserção social e comunitária.\n\nb) Contratualização para a inserção, como instrumento mobilizador da corresponsabilização dos diferentes intervenientes;\n\nc) Personalização, seletividade e flexibilidade de apoios sociais;\n\nd) Intervenção prioritária das entidades mais próximas dos cidadãos;\n\ne) Valorização das parcerias para uma atuação integrada;\n\nf) Intervenção mínima, imediata e oportuna."
+  },
+  "67220961": {
+   "fragment_id": "67250682",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades promotoras\n\nO SAAS pode ser desenvolvido pelas seguintes entidades:\n\na) Instituições da administração pública central e local;\n\nb) Instituições Particulares de Solidariedade Social e equiparadas;\n\nc) Santa Casa da Misericórdia de Lisboa."
+  },
+  "67220962": {
+   "fragment_id": "67250683",
+   "type": 1,
+   "heading": "Capítulo II — Intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Intervenção"
+  },
+  "67220963": {
+   "fragment_id": "67250684",
+   "type": 11,
+   "heading": "Artigo 6.º — Modalidades de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Modalidades de intervenção\n\n1 - O SAAS pode funcionar nas seguintes modalidades:\n\na) Atendimento Social;\n\nb) Acompanhamento Social.\n\n2 - A modalidade prevista na alínea a) do número anterior, consiste num atendimento de primeira linha, personalizado, que responda de forma célere e eficaz às situações de crise e ou de emergência sociais e desenvolve as seguintes atividades:\n\na) Atendimento, informação e orientação de cada pessoa e família, tendo em conta os seus direitos, deveres e responsabilidades, bem como dos serviços adequados à situação e respetivo encaminhamento, caso se justifique;\n\nb) Informação detalhada sobre a forma de acesso a recursos, equipamentos e serviços sociais que permitam às pessoas e famílias o exercício dos direitos de cidadania e de participação social;\n\nc) Avaliação e diagnóstico social, com a participação dos próprios;\n\nd) Encaminhamento, sempre que se justifique, para a modalidade de Acompanhamento Social;\n\ne) Atribuição de prestações de carácter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica.\n\n3 - A modalidade de Acompanhamento Social destina-se a assegurar apoio técnico, tendo em vista a prevenção e resolução de problemas sociais e desenvolve as seguintes atividades:\n\na) Aprofundamento do diagnóstico social já realizado na modalidade de Atendimento Social;\n\nb) Planeamento e organização da intervenção social;\n\nc) Contratualização no âmbito da intervenção social;\n\nd) Coordenação e avaliação da execução das ações contratualizadas;\n\ne) Atribuição de prestações de carácter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica.\n\n4 - O SAAS pode funcionar cumulativamente nas duas modalidades referidas no n.º 1.\n\n5 - Sempre que se justifique uma intervenção complementar, na modalidade referida na alínea b) do n.º 1, devem ser acionadas, em parceria, outras entidades ou sectores da comunidade vocacionadas para a prestação dos apoios mais adequados, designadamente da saúde, educação, justiça, emprego e formação profissional."
+  },
+  "67220964": {
+   "fragment_id": "67250685",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento e Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento e Organização"
+  },
+  "67220965": {
+   "fragment_id": "67250686",
+   "type": 11,
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\n1 - O SAAS deve ter um horário de funcionamento adequado às necessidades das pessoas e famílias e às modalidades de intervenção.\n\n2 - O SAAS deve assegurar, no mínimo, 6 horas diárias de atendimento.\n\n3 - O SAAS dispõe de Livro de Reclamações, nos termos da legislação em vigor."
+  },
+  "67220966": {
+   "fragment_id": "67250687",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamento interno\n\n1 - O SAAS possui obrigatoriamente regulamento interno, do qual deve constar, designadamente:\n\na) Modalidades de funcionamento;\n\nb) Horário de funcionamento;\n\nc) Constituição da equipa técnica;\n\nd) Os direitos e deveres dos utilizadores do serviço.\n\n2 - O regulamento interno é dado a conhecer aos utilizadores do serviço e afixado em local visível e de fácil acesso."
+  },
+  "67220967": {
+   "fragment_id": "67250688",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Processo individual\n\n1 - É obrigatória a organização de um processo individual, do qual deve constar:\n\na) Caraterização individual e familiar;\n\nb) Diagnóstico social e familiar;\n\nc) Contratualização para a inserção;\n\nd) Relatórios sobre o processo de evolução da situação familiar;\n\ne) Data do início e do termo da intervenção;\n\nf) Avaliação da intervenção;\n\ng) Registo das diligências efetuadas.\n\n2 - Nas situações em que se verifique exclusivamente o atendimento social, o processo individual é constituído apenas pela caracterização da situação e diagnóstico social e familiar."
+  },
+  "67220968": {
+   "fragment_id": "67250689",
+   "type": 11,
+   "heading": "Artigo 10.º — Contratualização para a inserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contratualização para a inserção\n\n1 - No âmbito do acompanhamento é estabelecido um compromisso, reduzido a escrito, entre os agregados familiares e os técnicos do SAAS, onde se definem as ações a desenvolver, os apoios sociais a atribuir e as responsabilidades e obrigações das partes, assim como os objetivos a atingir.\n\n2 - O acordo estabelecido deve ser previamente validado pelos parceiros, entidades ou serviços da comunidade cuja intervenção seja necessária à execução do compromisso."
+  },
+  "67220969": {
+   "fragment_id": "67250690",
+   "type": 11,
+   "heading": "Artigo 11.º — Equipa técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Equipa técnica\n\n1 - A intervenção técnica do SAAS é assegurada por uma equipa multidisciplinar organizada em função das especificidades das modalidades de intervenção e de acordo com referenciais médios do número de pessoas e famílias atendidas e ou acompanhadas.\n\n2 - As equipas técnicas são compostas por técnicos com formação superior, nas áreas de ciências sociais ou humanidades.\n\n3 - Na constituição das equipas técnicas é obrigatório que, pelo menos, um dos técnicos possua formação superior na área de serviço social.\n\n4 - As equipas técnicas são dirigidas por um coordenador com formação superior e compostas da seguinte forma, considerando as respetivas modalidades:\n\na) De atendimento social, com referência a uma média anual situada entre os 200 e 300 atendimentos mensais, por dois técnicos superiores;\n\nb) De acompanhamento social, com referência a uma média anual situada entre os 150 e 225 acompanhamentos, por três técnicos superiores;\n\nc) No caso de serem desenvolvidas as duas modalidades em simultâneo, com referência às médias anuais definidas nas alíneas a) e b), a equipa técnica do SAAS é composta por quatro técnicos superiores.\n\n5 - A afetação do coordenador deve ser de 50 % na modalidade de atendimento social, de 75 % na modalidade de acompanhamento social e de 100 % quando sejam desenvolvidas as duas modalidades em simultâneo.\n\n6 - Quando o SAAS funcione integrado num estabelecimento de apoio social, a coordenação pode ser assegurada pelo diretor técnico desse estabelecimento, desde que respeite a afetação prevista no n.º 5.\n\n7 - Sempre que as circunstâncias o justifiquem, a equipa técnica pode ser ajustada ao número e situação específica das pessoas e famílias."
+  },
+  "67220970": {
+   "fragment_id": "67250691",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências da equipa técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências da equipa técnica\n\nCompete à equipa técnica do SAAS:\n\na) Atendimento, informação e orientação das pessoas e famílias;\n\nb) Instrução e organização do processo individual;\n\nc) Cooperação e articulação com outras entidades e serviços da comunidade, designadamente nas áreas da educação, da saúde, da justiça, da segurança social e do emprego e formação profissional que se revelem estratégicos para a prossecução dos objetivos de inserção;\n\nd) Encaminhamento das pessoas e famílias para outra entidade ou serviço, sempre que resultar da avaliação e do diagnóstico social a necessidade de uma intervenção especifica em outra área de atuação;\n\ne) Comunicação às entidades parceiras envolvidas no processo de intervenção social das alterações que se verifiquem durante o processo de acompanhamento social;\n\nf) Identificação de estratégias e metodologias de trabalho inovadoras;\n\ng) Interlocução e promoção das relações interinstitucionais, com responsabilidades sociais no território;\n\nh) Avaliação contínua do SAAS, possibilitando adaptações e modificações necessárias a uma intervenção eficaz."
+  },
+  "67220971": {
+   "fragment_id": "67250692",
+   "type": 1,
+   "heading": "Capítulo IV — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Instalações"
+  },
+  "67220972": {
+   "fragment_id": "67250693",
+   "type": 11,
+   "heading": "Artigo 13.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instalações\n\nAs instalações devem ser adequadas e reunir condições de segurança de pessoas e informação, de privacidade, funcionalidade e conforto, nomeadamente em matéria de edificado, segurança e higiene no trabalho e acessibilidades, nos termos da legislação aplicável."
+  },
+  "67220973": {
+   "fragment_id": "67250694",
+   "type": 1,
+   "heading": "Capítulo V — Rede Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Rede Local"
+  },
+  "67220974": {
+   "fragment_id": "67250695",
+   "type": 11,
+   "heading": "Artigo 14.º — Rede Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Rede Local\n\n1 - O SAAS pode integrar a Rede Local de Inserção Social, nos termos do Despacho n.º 12154/2013, de 24 de setembro, por forma a garantir-se uma intervenção articulada e integrada de entidades com responsabilidade no desenvolvimento da ação social.\n\n2 - As entidades promotoras do SAAS que pretendam integrar a Rede Local, para além do disposto na presente portaria, ficam sujeitas às regras de operacionalização definidas pelo Instituto da Segurança Social, I. P., e aprovadas pelo membro do Governo responsável pela área da segurança social, as quais são publicitadas no sítio oficial www.seg-social.pt."
+  },
+  "67250775": {
+   "fragment_id": "67250696",
+   "type": 1,
+   "heading": "Capítulo VI — Avaliação, acompanhamento, e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Avaliação, acompanhamento, e fiscalização"
+  },
+  "67250776": {
+   "fragment_id": "67250697",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação e acompanhamento\n\n1 - O SAAS deve conceber processos de avaliação sistemática, promovendo a participação de todos os intervenientes, designadamente técnicos, pessoas e famílias.\n\n2 - Compete ao Instituto da Segurança Social, I. P., o acompanhamento das condições de organização e de funcionamento do SAAS, devendo providenciar os instrumentos e os meios adequados ao respetivo processo."
+  },
+  "67250777": {
+   "fragment_id": "67250698",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - Cabe ao Instituto da Segurança Social, I. P., fiscalizar o cumprimento do disposto na presente portaria.\n\n2 - Para efeitos do disposto no número anterior, a entidade promotora do SAAS deve facultar o acesso às instalações e à documentação tida por conveniente."
+  },
+  "67250778": {
+   "fragment_id": "67250699",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições Finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições Finais"
+  },
+  "67250779": {
+   "fragment_id": "67250700",
+   "type": 11,
+   "heading": "Artigo 17.º — Adequação progressiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Adequação progressiva\n\nAs entidades que tenham em funcionamento serviços de atendimento e acompanhamento social devem, no prazo máximo de 18 meses a contar da data de entrada em vigor do presente diploma, adequar-se às normas e condições previstas no mesmo."
+  },
+  "67250780": {
+   "fragment_id": "67250701",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente portaria entra em vigor 30 dias após a data da sua publicação."
+  },
+  "67250815": {
+   "fragment_id": "67250684",
+   "type": 11,
+   "heading": "Artigo 6.º — Intervenção Social",
+   "in_force_from": "2015-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+   ],
+   "markdown": "###### Artigo 6.º — Intervenção Social\n\n1 - O SAAS consiste num atendimento de primeira linha que responde eficazmente às situações de crise e ou de emergência sociais, bem como num acompanhamento social destinado a assegurar o apoio técnico, tendo em vista a prevenção e resolução de problemas sociais.\n\n2 - O SAAS desenvolve as seguintes atividades:\n\na) Atendimento, informação e orientação de cada pessoa e família, tendo em conta os seus direitos, deveres e responsabilidades, bem como dos serviços adequados à situação e respetivo encaminhamento, caso se justifique;\n\nb) Informação detalhada sobre a forma de acesso a recursos, equipamentos e serviços sociais que permitam às pessoas e famílias o exercício dos direitos de cidadania e de participação social;\n\nc) Avaliação e diagnóstico social, com a participação dos próprios;\n\nd) (Revogada.)\n\ne) Atribuição de prestações de carácter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica.\n\nf) Planeamento e organização da intervenção social;\n\ng) Contratualização no âmbito da intervenção social;\n\nh) Coordenação e avaliação da execução das ações contratualizadas.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Sempre que se justifique uma intervenção complementar, devem ser acionadas, em parceria, outras entidades ou sectores da comunidade vocacionadas para a prestação dos apoios mais adequados, designadamente da saúde, educação, justiça, emprego e formação profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+  },
+  "67250816": {
+   "fragment_id": "67250686",
+   "type": 11,
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": "2015-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+   ],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\n1 - O SAAS deve ter um horário de funcionamento adequado às necessidades das pessoas e famílias.\n\n2 - O SAAS deve assegurar, no mínimo, 6 horas diárias de atendimento.\n\n3 - O SAAS dispõe de Livro de Reclamações, nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+  },
+  "67250818": {
+   "fragment_id": "67250687",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamento interno",
+   "in_force_from": "2015-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+   ],
+   "markdown": "###### Artigo 8.º — Regulamento interno\n\n1 - O SAAS possui obrigatoriamente regulamento interno, do qual deve constar, designadamente:\n\na) (Revogada).\n\nb) Horário de funcionamento;\n\nc) Constituição da equipa técnica;\n\nd) Os direitos e deveres dos utilizadores do serviço.\n\n2 - O regulamento interno é dado a conhecer aos utilizadores do serviço e afixado em local visível e de fácil acesso.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+  },
+  "67250817": {
+   "fragment_id": "67250690",
+   "type": 11,
+   "heading": "Artigo 11.º — Equipa técnica",
+   "in_force_from": "2015-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+   ],
+   "markdown": "###### Artigo 11.º — Equipa técnica\n\nA intervenção técnica do SAAS é assegurada por uma equipa multidisciplinar organizada em função das especificidades de intervenção e de acordo com referenciais médios do número de pessoas e famílias atendidas e ou acompanhadas, nos termos a regulamentar por Despacho do membro do governo responsável pela área da solidariedade e segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+  },
+  "67250781": {
+   "fragment_id": "67250702",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 11 de setembro de 2014."
+  },
+  "159535255": {
+   "fragment_id": "67250679",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 2.º — Conceito\n\n1 - O SAAS é um serviço que assegura o atendimento e o acompanhamento de pessoas e famílias em situação de vulnerabilidade e exclusão social, bem como de emergência social.\n\n2 - Excetuam-se do disposto no número anterior as situações devidas a catástrofes naturais, calamidades públicas ou outras ocorrências cobertas por legislação específica.\n\n3 - Excetua-se, ainda, do disposto no n.º 1, a Linha Nacional de Emergência Social (LNES), regulada pela Portaria n.º 371/2019, de 14 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535256": {
+   "fragment_id": "67250680",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nConstituem objetivos do SAAS:\n\na) Informar, aconselhar e encaminhar para respostas, serviços ou prestações sociais adequadas a cada situação, em articulação com os competentes serviços e organismos da administração pública;\n\nb) Apoiar em situações de vulnerabilidade social;\n\nc) Prevenir situações de pobreza e de exclusão sociais;\n\nd) Contribuir para a aquisição e ou fortalecimento das competências das pessoas e famílias, promovendo a sua autonomia e fortalecendo as redes de suporte familiar e social;\n\ne) Assegurar o acompanhamento social do percurso de inserção social;\n\nf) Mobilizar os recursos da comunidade adequados à progressiva autonomia pessoal, social e profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535257": {
+   "fragment_id": "67250682",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades promotoras",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 5.º — Entidades promotoras\n\n1 - Compete à câmara municipal assegurar o desenvolvimento do serviço de atendimento e de acompanhamento social de pessoas e famílias em situação de vulnerabilidade e exclusão social, bem como de emergência social.\n\n2 - Compete ainda à câmara municipal elaborar os relatórios de diagnóstico social e de acompanhamento e a atribuição de prestações pecuniárias de carácter eventual em situação de emergência social, comprovada carência económica e de risco social.\n\n3 - A câmara municipal, no exercício das competências previstas nos números anteriores, pode contratualizar, através da celebração de acordo específico, com instituições particulares de solidariedade social (IPSS) ou equiparadas.\n\n4 - O disposto no presente artigo não prejudica as atribuições e competências atualmente exercidas, no concelho de Lisboa, pela Santa Casa da Misericórdia de Lisboa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535253": {
+   "fragment_id": "159607118",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Contratualização",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 5.º-A — Contratualização\n\n1 - Para efeitos de celebração dos acordos específicos previstos no n.º 3 do artigo anterior, as instituições devem:\n\na) Encontrar-se regularmente constituídas e devidamente registadas;\n\nb) Ter a situação regularizada perante a segurança social e a administração fiscal;\n\nc) Ter apresentado as contas do exercício, dentro dos prazos legais, aos competentes serviços da segurança social;\n\nd) Ter a situação regularizada perante o município;\n\ne) Possuir contabilidade organizada, elaborada por um técnico oficial de contas (TOC);\n\nf) Ter proximidade de atuação em relação à residência das pessoas e famílias a abranger;\n\ng) De forma preferencial, possuir experiência de intervenção em atendimento e/ou acompanhamento social;\n\nh) Dispor ou admitir pessoal qualificado e em número adequado às ações a realizar.\n\n2 - Dos acordos específicos a que se refere o número anterior devem constar, designadamente:\n\na) Os serviços a prestar;\n\nb) O âmbito territorial de intervenção;\n\nc) As obrigações das partes outorgantes, designadamente a supervisão e formação das equipas;\n\nd) O regulamento interno do SAAS a que se refere o artigo 8.º;\n\ne) As obrigações específicas dos outorgantes em matéria de proteção de dados e sigilo;\n\nf) Os termos e as condições de acesso e registo no sistema de informação específico a que se referem os artigos 14.º e 14.º-A da presente portaria;\n\ng) As condições financeiras e materiais, e outras, consideradas relevantes para a prestação do(s) serviço(s).\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535258": {
+   "fragment_id": "67250684",
+   "type": 11,
+   "heading": "Artigo 6.º — Intervenção Social",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+   ],
+   "markdown": "###### Artigo 6.º — Intervenção Social\n\n1 - O SAAS consiste num atendimento de primeira linha que responde eficazmente às situações de crise e ou de emergência sociais, bem como num acompanhamento social destinado a assegurar o apoio técnico, tendo em vista a prevenção e resolução de problemas sociais.\n\n2 - O SAAS desenvolve as seguintes atividades:\n\na) Atendimento, informação e orientação de cada pessoa e família, tendo em conta os seus direitos, deveres e responsabilidades, bem como dos serviços adequados à situação e respetivo encaminhamento, caso se justifique;\n\nb) Informação detalhada sobre a forma de acesso a recursos, equipamentos e serviços sociais que permitam às pessoas e famílias o exercício dos direitos de cidadania e de participação social;\n\nc) Avaliação e diagnóstico social, com a participação dos próprios;\n\nd) (Revogada.)\n\ne) Atribuição de prestações de carácter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica, tomando como referencial o previsto no Decreto-Lei n.º 120/2018, de 27 de dezembro, no respeito pela autonomia do poder local;\n\nf) Planeamento e organização da intervenção social;\n\ng) Contratualização no âmbito da intervenção social;\n\nh) Coordenação e avaliação da execução das ações contratualizadas.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Sempre que se justifique uma intervenção complementar, devem ser acionadas, em parceria, outras entidades ou setores da comunidade vocacionadas para a prestação dos apoios mais adequados, designadamente da segurança social, saúde, educação, justiça, migrações, emprego e formação profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+  },
+  "159535259": {
+   "fragment_id": "67250687",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamento interno",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+   ],
+   "markdown": "###### Artigo 8.º — Regulamento interno\n\n1 - O SAAS possui obrigatoriamente regulamento interno, do qual deve constar, designadamente:\n\na) (Revogada).\n\nb) Horário de funcionamento;\n\nc) Constituição da equipa técnica;\n\nd) Os direitos e deveres dos utilizadores do serviço.\n\n2 - O regulamento interno é dado a conhecer aos utilizadores do serviço e afixado em local visível e de fácil acesso.\n\n3 - O modelo de regulamento interno é aprovado pela câmara municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+  },
+  "159535260": {
+   "fragment_id": "67250689",
+   "type": 11,
+   "heading": "Artigo 10.º — Contratualização para a inserção",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 10.º — Contratualização para a inserção\n\n1 - No âmbito do acompanhamento é estabelecido um compromisso, reduzido a escrito, entre os agregados familiares e a câmara municipal, onde se definem as ações a desenvolver, os apoios sociais a atribuir e as responsabilidades e obrigações das partes, assim como os objetivos a atingir.\n\n2 - O acordo estabelecido deve ser previamente validado pelos parceiros, entidades ou serviços da comunidade cuja intervenção seja necessária à execução do compromisso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535261": {
+   "fragment_id": "67250690",
+   "type": 11,
+   "heading": "Artigo 11.º — Equipa técnica",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+   ],
+   "markdown": "###### Artigo 11.º — Equipa técnica\n\n1 - A intervenção técnica do SAAS é assegurada por uma equipa multidisciplinar, composta por técnicos com formação superior nas áreas de ciências sociais ou humanidades, organizada em função das especificidades da intervenção e de acordo com referenciais médios do número de pessoas e famílias atendidas e ou acompanhadas.\n\n2 - A equipa referida no número anterior integra, pelo menos, um técnico com formação em serviço social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 137/2015 - Diário da República n.º 96/2015, Série I de 2015-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/137-2015-67239769), em vigor a partir de 2015-05-20"
+  },
+  "159535265": {
+   "fragment_id": "67250694",
+   "type": 1,
+   "heading": "Capítulo V — Sistema de informação",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "### Capítulo V — Sistema de informação\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535262": {
+   "fragment_id": "67250695",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistema de informação específico",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 14.º — Sistema de informação específico\n\n1 - O acesso ao sistema de informação específico referido no n.º 5 do artigo 10.º do Decreto-Lei n.º 55/2020, de 12 de agosto, é efetuado de acordo com os perfis definidos para as respetivas funções, envolvendo apenas utilizadores devidamente credenciados para o efeito, e encontrando-se restringido aos dados relevantes para prossecução das competências a que se refere a alínea a) do n.º 1 do artigo 3.º e do artigo 10.º do mesmo decreto-lei.\n\n2 - O acesso é garantido pelo Instituto de Informática, I. P., mediante identificação dos utilizadores autorizados pela câmara municipal, com vista à atribuição de um código de utilizador e de uma palavra passe, pessoal e intransmissível, nos termos das normas em vigor para a atribuição de acessos.\n\n3 - Os utilizadores com acesso autorizado comprometem-se a assegurar a coerência dos dados registados, bem como a zelar pela qualidade da informação inserida no Sistema de Informação da Segurança Social (SISS).\n\n4 - De acordo com o previsto nos artigos 14.º e 15.º da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto, são ainda adotadas e periodicamente atualizadas as seguintes medidas de segurança de tratamentos de dados pessoais em causa:\n\na) Os perfis são atribuídos a cada utilizador, em função do seu perfil de acesso a cada módulo aplicacional do sistema de informação específico;\n\nb) O acesso à informação por parte dos utilizadores carece de autenticação por código de utilizador e palavra-passe, assegurando que apenas utilizadores credenciados possam aceder a cada um dos módulos aplicacionais do sistema de informação específico, e dentro de cada um destes, apenas às operações a que estão autorizados a realizar.\n\n5 - O acesso ao sistema de informação específico salvaguarda a segurança e a confidencialidade dos dados pessoais ou de matérias sujeitas a sigilo, encontrando-se os utilizadores vinculados ao dever de sigilo e confidencialidade da informação cujo conhecimento lhes advenha pelas atividades inerentes às atividades desenvolvidas ao abrigo da presente portaria, mesmo após o termo das suas funções.\n\n6 - O acesso à informação e o perfil atribuído a cada utilizador é efetivado mediante a assinatura de termo de responsabilidade e de acordo com a política de acessos definida pelo Instituto da Segurança Social, I. P.\n\n7 - São adotadas e periodicamente atualizadas medidas de segurança ao tratamento dos dados pessoais em causa, pelo que, todos os acessos são registados em base de dados para efeitos de auditoria, identificado o utilizador, operação realizada e data e hora da alteração.\n\n8 - Aplica-se, ao acesso ao sistema de informação específico quando efetuado no âmbito do n.º 3 do artigo 5.º, o disposto nos números anteriores.\n\n9 - Sem prejuízo do disposto nos anteriores, ao tratamento de dados pessoais aplica-se o Regulamento (EU) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, doravante designado por RGPD, bem como os requisitos técnicos mínimos das redes e sistemas de informação, que são exigidos ou recomendados a todos os serviços e entidades da Administração direta e indireta do Estado, constante no Anexo à Resolução do Conselho de Ministros n.º 41/2018, de 28 de março de 2018.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535254": {
+   "fragment_id": "159607119",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Utilizadores do sistema de informação específico",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 14.º-A — Utilizadores do sistema de informação específico\n\n1 - No âmbito da utilização do sistema de informação específico, a que se refere o artigo anterior, é obrigação da câmara municipal comunicar ao Instituto da Segurança Social, I. P. (ISS, I. P.), a identificação de novos utilizadores e a cessação dos utilizadores que, por qualquer motivo, deixem de ter legitimidade para permissão de acesso ao sistema.\n\n2 - A comunicação a que se refere o número anterior é efetuada pela câmara municipal com a antecedência mínima de 5 dias úteis, ou, se tal não for possível, no máximo no dia útil seguinte.\n\n3 - O ISS, I. P., assegura a necessária formação aos novos utilizadores do sistema de informação específico referidos no n.º 1.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535263": {
+   "fragment_id": "67250697",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação e acompanhamento",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 15.º — Avaliação e acompanhamento\n\n1 - O SAAS deve conceber processos de avaliação sistemática, promovendo a participação de todos os intervenientes, designadamente técnicos, pessoas e famílias.\n\n2 - Compete à câmara municipal o acompanhamento das condições de organização e de funcionamento do SAAS, devendo providenciar os instrumentos e os meios adequados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535264": {
+   "fragment_id": "67250698",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - Cabe à Inspeção Geral de Finanças fiscalizar o cumprimento da legalidade nos procedimentos que impliquem a realização de despesa previstos na presente portaria.\n\n2 - Para efeitos do disposto no número anterior, a entidade promotora do SAAS deve facultar o acesso às instalações e à documentação tida por conveniente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  },
+  "159535266": {
+   "fragment_id": "67250700",
+   "type": 11,
+   "heading": "Artigo 17.º — Adequação progressiva",
+   "in_force_from": "2021-03-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+   ],
+   "markdown": "###### Artigo 17.º — Adequação progressiva\n\nAs entidades que tenham em funcionamento serviços de atendimento e acompanhamento social devem, no prazo máximo de 18 meses a contar da data de entrada em vigor do presente diploma, adequar-se às normas e condições previstas no mesmo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 63/2021 - Diário da República n.º 53/2021, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/63-2021-159614840), em vigor a partir de 2021-03-18"
+  }
+ }
+}

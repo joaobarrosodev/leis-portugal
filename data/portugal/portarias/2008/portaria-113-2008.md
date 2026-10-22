@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:248239:por
+title: Portaria n.º 113/2008
+short_title: null
+summary: Considera extintos em data a fixar por despacho do director-geral dos Impostos os Serviços de Finanças de Torres
+  Vedras 1 e 2 e cria no concelho de Torres Vedras um Serviço de Finanças, de nível i, abrangendo a área da totalidade das
+  suas freguesias
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 113/2008
+official_date: null
+publication_date: '2008-02-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/2008, Série I de 2008-02-06
+  number: '26'
+  series: I
+  supplement: null
+  pages: 927 - 928
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02600/0092700928.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/113/2008/02/06/p/dre/pt/html
+  oj: null
+  dre: '248239'
+  dre_path: /dr/detalhe/portaria/113-2008-248239
+  internal: pt:dre:248239:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2008-248239
+  metadata_url: https://data.dre.pt/eli/port/113/2008/02/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2008-248239
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-02-06T00:00:00Z'
+integrity:
+  source_sha256: d07c4c6628fa04ef718047ff331de096d24372da66c736558f07115203b2a34f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-113-248239.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Fiscal
+- Criação de Serviços
+- Direção de Finanças
+- Extinção de Serviços
+- Lisboa
+- Pessoal de Chefia
+- Serviço de Finanças
+- Torres Vedras
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/557/1999/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/557/1999/12/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 113/2008
+
+de 6 de Fevereiro
+
+As conclusões dos estudos desenvolvidos relativamente ao concelho de Torres Vedras, no sentido de avaliar o impacte da simplificação dos procedimentos relacionados com a liquidação e cobrança dos impostos, bem como da adopção de novos métodos de trabalho assentes em novas aplicações informáticas, aconselham que as freguesias que o integram sejam concentradas num único serviço de finanças, sem que daí resultem prejuízos para os contribuintes.
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado e das Finanças, o seguinte:
+
+1.º É criado no concelho de Torres Vedras um Serviço de Finanças, de nível i, abrangendo a área da totalidade das suas freguesias, com competência para a prática dos actos tributários, nos termos da lei.
+
+2.º Os serviços de finanças de Torres Vedras 1 e 2 criados pelo n.º 30 da [Portaria n.º 834/83](https://diariodarepublica.pt/dr/detalhe/portaria/834-1983-454872), de 11 de Agosto, consideram-se extintos na data fixada no despacho a que se refere o n.º 8 da presente portaria.
+
+3.º Os funcionários que se encontram providos nos cargos de chefia tributária dos serviços referidos no n.º 2 passam a desempenhar funções na Direcção de Finanças de Lisboa, nos termos do disposto no n.º 1 do artigo 21.º do [Decreto-Lei n.º 557/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1999-655311), de 17 de Dezembro.
+
+4.º A colocação do pessoal de chefia nos termos do disposto no número anterior depende do requerimento dos interessados, dirigido ao director-geral nos 15 dias posteriores ao da publicação deste diploma.
+
+5.º Os funcionários sem funções de chefia integrados nos quadros de contingentação dos serviços de finanças indicados no n.º 2 serão colocados em lugares vagos dos serviços que integram a área fiscal da Direcção de Finanças de Lisboa, por despacho do director-geral dos Impostos, sob proposta do respectivo director de finanças, considerando-se, para o efeito, os lugares previstos para o serviço de finanças agora criado, sem prejuízo do disposto no n.º 5 do artigo 32.º do [Decreto-Lei n.º 557/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1999-655311), de 17 de Dezembro.
+
+6.º Até à data da publicação do despacho previsto no n.º 8.º da presente portaria não poderão ser providos, em comissão de serviço, os lugares correspondentes aos cargos de chefia tributária do Serviço de Finanças de Torres Vedras 2.
+
+7.º O quadro de contingentação do Serviço de Finanças de Torres Vedras, no que respeita ao pessoal de administração tributária, é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+8.º A entrada em funcionamento do Serviço de Finanças de Torres Vedras, criado pela presente portaria, terá lugar em data a fixar por despacho do director-geral dos Impostos a publicar na 2.ª série do Diário da República.
+
+9.º Todos os actos entretanto praticados pelos actuais Serviços de Finanças de Torres Vedras 1 e 2 consideram-se imputados ao Serviço de Finanças criado pelo n.º 1 do presente diploma, após a sua entrada em funcionamento.
+
+10.º É revogado o n.º 30 da [Portaria n.º 834/83](https://diariodarepublica.pt/dr/detalhe/portaria/834-1983-454872), de 11 de Agosto.
+
+**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 15 de Janeiro de 2008.**
+
+## ANEXO — Mapa a que se refere o n.º 7
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/02600/0092700928.pdf))](https://files.diariodarepublica.pt/1s/2008/02/02600/0092700928.pdf)

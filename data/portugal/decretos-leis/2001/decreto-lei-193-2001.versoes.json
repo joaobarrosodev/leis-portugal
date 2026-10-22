@@ -1,0 +1,590 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:361951:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-73325082",
+ "dre_path": "/dr/detalhe/decreto-lei/193-2001-361951",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73326780",
+    "73326781",
+    "73326782",
+    "73326783",
+    "73326784",
+    "73326785",
+    "73326786",
+    "73326787",
+    "73326788",
+    "73326789",
+    "73326790",
+    "73326791",
+    "73326792",
+    "73326793",
+    "73326794",
+    "73326795",
+    "73326796",
+    "73326797",
+    "73326798",
+    "73326799",
+    "73326800",
+    "73326801",
+    "73326802",
+    "73326803",
+    "73326804",
+    "73326805",
+    "73326806",
+    "73326807",
+    "73326808"
+   ]
+  },
+  {
+   "date": "2014-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572451:por",
+     "title": "Decreto-Lei n.º 25/2014",
+     "published": "2014-02-14",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2014-572451"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Altera Capítulo III",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "73326780",
+    "73326781",
+    "73326782",
+    "73326855",
+    "73326784",
+    "73326856",
+    "73326857",
+    "73326866",
+    "73326867",
+    "73326868",
+    "73326869",
+    "73326870",
+    "73326858",
+    "73326871",
+    "73326854",
+    "73326859",
+    "73326860",
+    "73326797",
+    "73326873",
+    "73326861",
+    "73326862",
+    "73326863",
+    "73326802",
+    "73326864",
+    "73326865",
+    "73326849",
+    "73326872",
+    "73326851",
+    "73326852",
+    "73326853",
+    "73326809"
+   ]
+  }
+ ],
+ "fragments": {
+  "73326780": {
+   "fragment_id": "73325083",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 193/2001\n\nde 26 de Junho\n\nOs serviços de transporte e reboque de veículos avariados ou sinistrados, bem como genericamente de todos os outros veículos que não podem circular na via pública, estão abrangidos pela regulamentação aplicável ao transporte rodoviário de mercadorias. Contudo, as características próprias desta prestação de serviços aconselharam a adopção de um enquadramento jurídico mais adequado a este subsector.\n\nCom efeito, o decurso de dois anos de vigência do Decreto-Lei n.º 38/99, de 6 de Fevereiro, relativo ao transporte rodoviário de mercadorias, veio demonstrar o desajustamento da sujeição das empresas que realizam serviços com veículos pronto-socorro aos requisitos de acesso à actividade previstos naquele diploma, tornando necessário dar resposta à realidade deste subsector e atender às suas particularidades.\n\nOs objectivos do presente diploma são pois no sentido de instituir regras específicas para o licenciamento destas empresas, pelo que, para além das normas relativas à idoneidade dos responsáveis das empresas, são estabelecidas novas regras no domínio da capacidade técnica e financeira, designadamente no que se refere às condições de verificação da aptidão profissional e relativamente aos recursos financeiros exigidos, mais conformes com a natureza desta prestação de serviços.\n\nPara além disso, tendo em conta que os serviços com veículos pronto-socorro são, em muitos casos, realizados acessoriamente a uma actividade principal, é instituído um registo com a correspondente atribuição de um certificado a essas entidades, por forma a clarificar o seu campo de actuação na prestação daqueles serviços por conta própria.\n\nPor último, tendo em vista facilitar a descrição dos serviços prestados em documento adequado e fiável, bem como garantir a sua utilização, é estabelecida a obrigatoriedade de manter a bordo do veículo um caderno de registo dos serviços, a qual abrange todos os operadores.\n\nFinalmente, em matéria sancionatória, é estabelecido um regime mais adaptado a este subsector da actividade transportadora.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451) Para efeitos de republicação onde se lê: «Direção-Geral de Transportes Terrestres», «DGTT» e «diretor-geral de Transportes Terrestres, deve ler-se, respetivamente: «Instituto da Mobilidade e dos Transportes, I.P.», «IMT, I.P.» e presidente do conselho diretivo do IMT, I.P.."
+  },
+  "73326781": {
+   "fragment_id": "73325084",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "73326782": {
+   "fragment_id": "73325085",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma estabelece o regime de acesso e exercício da actividade de prestação de serviços com veículos pronto-socorro.\n\n2 - Não estão abrangidos pelo presente diploma os serviços com veículos pronto-socorro prestados por pessoas colectivas de utilidade pública sem fins lucrativos."
+  },
+  "73326783": {
+   "fragment_id": "73325086",
+   "type": 11,
+   "heading": "Artigo 2.º — Prestação de serviços com veículos pronto-socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prestação de serviços com veículos pronto-socorro\n\n1 - São veículos pronto-socorro os que estejam devidamente adaptados para o transporte ou reboque de veículos avariados ou sinistrados e sejam assim designados pela entidade competente para a homologação e aprovação de veículos.\n\n2 - A prestação de serviços por meio de veículos pronto-socorro, para além do transporte ou reboque de veículos avariados ou sinistrados, abrange o transporte ou reboque de veículos:\n\na) Destinados a substituir veículos avariados ou sinistrados;\n\nb) Automóveis classificados como antigos ou de colecção;\n\nc) Que não possam circular na via pública;\n\nd) Que se destinem a exposições ou manifestações desportivas."
+  },
+  "73326784": {
+   "fragment_id": "73325087",
+   "type": 1,
+   "heading": "Capítulo II — Acesso à actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso à actividade"
+  },
+  "73326785": {
+   "fragment_id": "73325088",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à actividade\n\n1 - A actividade de prestação de serviços por meio de veículos pronto-socorro só pode ser exercida por empresas licenciadas para o efeito pela Direcção-Geral de Transportes Terrestres (DGTT) e por empresas licenciadas para a actividade de transportes rodoviários de mercadorias.\n\n2 - O licenciamento pode ser atribuído a todas as empresas em nome individual e colectivo que preencham os requisitos de acesso à actividade e envolve a emissão de um alvará, intransmissível, emitido por um prazo renovável de cinco anos.\n\n3 - O licenciamento tem âmbito nacional."
+  },
+  "73326786": {
+   "fragment_id": "73325089",
+   "type": 11,
+   "heading": "Artigo 4.º — Prestação de serviços como actividade acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prestação de serviços como actividade acessória\n\n1 - As entidades que pretendam prestar os serviços a que se refere o presente diploma com veículos da sua propriedade ou adquiridos em regime de locação financeira, apenas como complemento ou acessório da sua actividade principal, carecem de um certificado a emitir pela DGTT.\n\n2 - O certificado será emitido por um período não superior a cinco anos a todas as entidades que o requeiram, desde que se encontrem regularmente constituídas nos termos da lei comercial para o exercício da sua actividade principal e acessória."
+  },
+  "73326787": {
+   "fragment_id": "73325090",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos de acesso à actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de acesso à actividade\n\nSão requisitos de acesso à actividade de prestação de serviços de transporte com veículos pronto-socorro a idoneidade, a capacidade técnica e a capacidade financeira."
+  },
+  "73326788": {
+   "fragment_id": "73325091",
+   "type": 11,
+   "heading": "Artigo 6.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Idoneidade\n\n1 - A idoneidade é aferida pela inexistência de impedimentos legais, relativamente aos administradores, directores ou gerentes, no caso de pessoas colectivas, e pela pessoa singular ou seu mandatário, no caso de empresas em nome individual.\n\n2 - São consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:\n\na) Proibição legal para o exercício do comércio;\n\nb) Condenação, com pena de prisão efectiva igual ou superior a dois anos, transitada em julgado, por crime contra o património, por tráfico de estupefacientes, por branqueamento de capitais, por fraude fiscal ou aduaneira;\n\nc) Condenação, com trânsito em julgado, na medida de segurança de interdição do exercício da profissão, independentemente da natureza do crime;\n\nd) Condenação, com trânsito em julgado, por infracções graves e repetidas à regulamentação sobre a segurança rodoviária, nos casos em que seja decretada a interdição do exercício da profissão;\n\ne) Condenação, com trânsito em julgado, por infracções cometidas no exercício da actividade às normas relativas ao regime das prestações de natureza retributiva ou às condições de higiene e segurança no trabalho, à protecção do ambiente e à responsabilidade profissional, nos casos em que seja decretada a interdição do exercício da profissão."
+  },
+  "73326789": {
+   "fragment_id": "73325092",
+   "type": 11,
+   "heading": "Artigo 7.º — Capacidade técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capacidade técnica\n\n1 - A capacidade técnica consiste em dispor de recursos humanos com conhecimentos adequados ao cumprimento das obrigações inerentes à actividade.\n\n2 - O requisito de capacidade técnica considera-se preenchido desde que, de entre os meios humanos da empresa, pelo menos uma pessoa seja titular de um certificado que ateste os seus conhecimentos profissionais ou seja titular de certificado de capacidade profissional para o transporte rodoviário de mercadorias.\n\n3 - O certificado que atesta os conhecimentos profissionais é emitido pela DGTT, podendo ser obtido por experiência no desempenho dos serviços a que se refere o presente diploma ou por curso de formação adequado e subsequente avaliação de conhecimentos, nos termos a definir por portaria do membro do Governo responsável pela área dos transportes."
+  },
+  "73326790": {
+   "fragment_id": "73325093",
+   "type": 11,
+   "heading": "Artigo 8.º — Capacidade financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Capacidade financeira\n\nPara efeitos do presente diploma, considera-se que dispõem de recursos financeiros adequados ao arranque e boa gestão da empresa as sociedades comerciais ou cooperativas cujo capital social não seja inferior a (euro) 25000 e as empresas em nome individual cujo património tenha um valor não inferior àquele."
+  },
+  "73326791": {
+   "fragment_id": "73325094",
+   "type": 11,
+   "heading": "Artigo 9.º — Atribuição de alvarás e de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Atribuição de alvarás e de certificados\n\n1 - Os pedidos de alvará para a actividade de prestação de serviços com veículos pronto-socorro são dirigidos ao director-geral de Transportes Terrestres e instruídos com o seguinte:\n\na) Certificado de registo criminal dos responsáveis da empresa referidos no artigo 6.º;\n\nb) Prova de que a empresa está regularmente constituída ou estabelecida nos termos da lei comercial, com indicação do montante do capital social, no caso das sociedades comerciais ou cooperativas, e garantia bancária comprovativa do valor do património, no caso de empresas em nome individual;\n\nc) Identificação e indicação do vínculo funcional da pessoa que assegura o requisito de capacidade técnica.\n\n2 - Os pedidos de certificado para prestação de serviços com veículos pronto-socorro, enquanto actividade acessória, devem ser dirigidos ao director-geral de Transportes Terrestres e instruídos com o seguinte:\n\na) Prova de que a entidade requerente está estabelecida nos termos da lei comercial;\n\nb) Indicação do número e características dos veículos pronto-socorro que possuam, com cópia do registo de propriedade e livrete."
+  },
+  "73326792": {
+   "fragment_id": "73325095",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de informação\n\n1 - Os requisitos de acesso à actividade são de verificação permanente, devendo as empresas comprovar o seu preenchimento sempre que lhes for solicitado.\n\n2 - As empresas têm o dever de comunicar à DGTT as alterações à sede ou ao estabelecimento, as modificações na gerência ou a substituição da pessoa que assegura a capacidade técnica, no prazo de 30 dias a contar da data da sua ocorrência."
+  },
+  "73326793": {
+   "fragment_id": "73325096",
+   "type": 11,
+   "heading": "Artigo 11.º — Falta superveniente de requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Falta superveniente de requisitos\n\n1 - A falta superveniente de qualquer dos requisitos de acesso à actividade deve ser suprida no prazo de um ano a contar da data da sua ocorrência.\n\n2 - Decorrido o prazo previsto no número anterior sem que a falta seja suprida, caduca o alvará para o exercício da actividade."
+  },
+  "73326794": {
+   "fragment_id": "73325097",
+   "type": 1,
+   "heading": "Capítulo III — Acesso e organização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acesso e organização do mercado"
+  },
+  "73326795": {
+   "fragment_id": "73325098",
+   "type": 11,
+   "heading": "Artigo 12.º — Licenciamento dos veículos pronto-socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Licenciamento dos veículos pronto-socorro\n\nOs veículos pronto-socorro, a utilizar por empresas licenciadas e por entidades certificadas, estão sujeitos a licença, a emitir pela DGTT, a qual deve estar a bordo do veículo durante a prestação de serviços a que se refere o presente diploma."
+  },
+  "73326796": {
+   "fragment_id": "73325099",
+   "type": 11,
+   "heading": "Artigo 13.º — Caderno de registo de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caderno de registo de serviços\n\n1 - Os serviços de transporte ou reboque efectuados por empresas licenciadas ou certificadas nos termos do presente diploma devem ser descritos de forma sequencial num caderno de registo constituído por folhas numeradas e não destacáveis.\n\n2 - Durante a realização de cada serviço de transporte ou reboque, deve estar a bordo do veículo pronto-socorro o caderno de registo que contém a respectiva descrição."
+  },
+  "73326797": {
+   "fragment_id": "73325100",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime sancionatório"
+  },
+  "73326798": {
+   "fragment_id": "73325101",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\n1 - São competentes para a fiscalização do cumprimento do disposto no presente diploma as seguintes entidades:\n\na) Direcção-Geral de Transportes Terrestres;\n\nb) Inspecção-Geral de Obras Públicas, Transportes e Comunicações;\n\nc) Guarda Nacional Republicana;\n\nd) Polícia de Segurança Pública.\n\n2 - As entidades referidas no número anterior podem proceder, junto das pessoas singulares ou colectivas que efectuem os serviços a que se refere o presente diploma, a todas as investigações e verificações necessárias para o exercício da sua competência fiscalizadora."
+  },
+  "73326799": {
+   "fragment_id": "73325102",
+   "type": 11,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações, puníveis com as seguintes coimas:\n\na) O exercício da actividade por entidade não licenciada nos termos do artigo 3.º, com coima de (euro) 500 a (euro) 1500 ou de (euro) 1000 a (euro) 3000, consoante se trate de pessoa singular ou colectiva;\n\nb) A prestação de serviços por entidade não certificada nos termos do artigo 4.º, com coima de (euro) 500 a (euro) 1500 ou de (euro) 1000 a (euro) 1500, consoante se trate de pessoa singular ou colectiva;\n\nc) A realização de serviços com veículos pronto-socorro não licenciados, nos termos do artigo 12.º, com coima de (euro) 75 a (euro) 225;\n\nd) A mera falta de exibição da licença durante a realização de serviços, com coima de (euro) 50 a (euro) 150;\n\ne) A falta de descrição do serviço no caderno de registo de serviços a que se refere o n.º 2 do artigo 13.º, com coima de (euro) 75 a (euro) 225;\n\nf) O não cumprimento do dever de informação a que se refere o artigo 10.º, com coima de (euro) 75 a (euro) 225.\n\n2 - A negligência é punível."
+  },
+  "73326800": {
+   "fragment_id": "73325103",
+   "type": 11,
+   "heading": "Artigo 16.º — Processamento das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Processamento das contra-ordenações\n\n1 - O processamento das contra-ordenações previstas neste diploma compete à DGTT.\n\n2 - A aplicação das coimas é da competência do director-geral de Transportes Terrestres.\n\n3 - A DGTT organizará o registo das infracções cometidas nos termos da legislação em vigor."
+  },
+  "73326801": {
+   "fragment_id": "73325104",
+   "type": 11,
+   "heading": "Artigo 17.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Produto das coimas\n\nO produto das coimas será distribuído da seguinte forma:\n\na) 20% para a DGTT, constituindo receita própria;\n\nb) 20% para a entidade fiscalizadora;\n\nc) 60% para o Estado."
+  },
+  "73326802": {
+   "fragment_id": "73325105",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "73326803": {
+   "fragment_id": "73325106",
+   "type": 11,
+   "heading": "Artigo 18.º — Modelos de licenças e certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Modelos de licenças e certificados\n\nOs modelos do alvará, do certificado e da licença a que se refere o presente diploma, bem como do caderno de registo de serviços, são aprovados por despacho do director-geral de Transportes Terrestres."
+  },
+  "73326804": {
+   "fragment_id": "73325107",
+   "type": 11,
+   "heading": "Artigo 19.º — Afectação de receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Afectação de receitas\n\nConstituem receita própria da DGTT os montantes que vierem a ser fixados, por despacho conjunto dos Ministros do Equipamento Social e das Finanças, para inscrições na prova de avaliação de conhecimentos e para a emissão de alvarás, certificados e licenças a que se refere o presente diploma."
+  },
+  "73326805": {
+   "fragment_id": "73325108",
+   "type": 11,
+   "heading": "Artigo 20.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposições transitórias\n\n1 - As entidades que prestam serviços com veículos pronto-socorro que não estejam licenciadas para o transporte rodoviário de mercadorias dispõem do prazo de um ano, a contar da data de entrada em vigor do presente diploma, para comprovar o preenchimento dos requisitos a que se refere o capítulo II.\n\n2 - Para efeitos do disposto no n.º 3 do artigo 7.º, será emitido um certificado de conhecimentos profissionais por experiência aos responsáveis pelas empresas em nome individual ou colectivo que tenham tido veículos pronto-socorro licenciados ao abrigo da Portaria n.º 159/91, de 22 de Fevereiro, durante pelo menos um ano."
+  },
+  "73326806": {
+   "fragment_id": "73325109",
+   "type": 11,
+   "heading": "Artigo 21.º — Prorrogação de prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prorrogação de prazo\n\nO prazo previsto no n.º 3 do artigo 36.º do Decreto-Lei n.º 38/99, de 6 de Fevereiro, fica prorrogado até à data de entrada em vigor do presente diploma, na parte aplicável ao transporte de viaturas avariadas ou sinistradas."
+  },
+  "73326807": {
+   "fragment_id": "73325110",
+   "type": 11,
+   "heading": "Artigo 22.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir de 8 de Março de 2001."
+  },
+  "73326808": {
+   "fragment_id": "73325111",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "73326855": {
+   "fragment_id": "73325086",
+   "type": 11,
+   "heading": "Artigo 2.º — Prestação de serviços com veículos pronto-socorro",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 2.º — Prestação de serviços com veículos pronto-socorro\n\n1 - São veículos pronto-socorro os que estejam devidamente adaptados para o transporte ou reboque de veículos avariados ou sinistrados, assim classificados no respetivo documento de identificação automóvel.\n\n2 - A prestação de serviços por meio de veículos pronto-socorro, para além do transporte ou reboque de veículos avariados ou sinistrados, abrange o transporte ou reboque de veículos:\n\na) Destinados a substituir veículos avariados ou sinistrados;\n\nb) Automóveis classificados como antigos ou de colecção;\n\nc) Que não possam circular na via pública;\n\nd) Que se destinem a exposições ou manifestações desportivas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326856": {
+   "fragment_id": "73325088",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à actividade",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 3.º — Acesso à actividade\n\n1 - A atividade de prestação de serviços por meio de veículos pronto-socorro só pode ser exercida em território nacional por prestadores aqui estabelecidos que efetuem a mera comunicação prévia referida no artigo seguinte.\n\n2 - A atividade de prestação de serviços por meio de veículos pronto-socorro pode ainda ser exercida em território nacional de forma ocasional e esporádica, em regime de livre prestação de serviços, por prestadores legalmente estabelecidos noutro Estado-membro da União Europeia ou do Espaço Económico Europeu para a atividade em causa.\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326857": {
+   "fragment_id": "73325089",
+   "type": 11,
+   "heading": "Artigo 4.º — Mera comunicação prévia",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 4.º — Mera comunicação prévia\n\n1 - Os prestadores estabelecidos em território nacional para a prestação de serviços por meio de veículos pronto-socorro devem enviar, antes do início da atividade em causa, mera comunicação prévia ao Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), ou à autoridade territorialmente competente nas Regiões Autónomas dos Açores ou da Madeira, conforme o caso aplicável, com:\n\na) A sua identificação, e indicação do local de estabelecimento, entendendo-se como tal as instalações utilizadas para a gestão e operação da atividade;\n\nb) A identificação dos veículos pronto-socorro que pretendem utilizar;\n\nc) A indicação do exercício da atividade a título principal ou acessório, identificando neste caso a atividade principal conexa;\n\nd) Declaração de regularidade da situação contributiva perante a administração tributária e a segurança social.\n\n2 - A comunicação referida no número anterior tem validade nacional, independentemente de ser apresentada ao IMT, I.P., ou à autoridade territorialmente competente de uma Região Autónoma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326866": {
+   "fragment_id": "73325090",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos de acesso à actividade",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos de acesso à actividade\n\nSão requisitos de acesso à actividade de prestação de serviços de transporte com veículos pronto-socorro a idoneidade, a capacidade técnica e a capacidade financeira.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326867": {
+   "fragment_id": "73325091",
+   "type": 11,
+   "heading": "Artigo 6.º — Idoneidade",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 6.º — Idoneidade\n\n1 - A idoneidade é aferida pela inexistência de impedimentos legais, relativamente aos administradores, directores ou gerentes, no caso de pessoas colectivas, e pela pessoa singular ou seu mandatário, no caso de empresas em nome individual.\n\n2 - São consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:\n\na) Proibição legal para o exercício do comércio;\n\nb) Condenação, com pena de prisão efectiva igual ou superior a dois anos, transitada em julgado, por crime contra o património, por tráfico de estupefacientes, por branqueamento de capitais, por fraude fiscal ou aduaneira;\n\nc) Condenação, com trânsito em julgado, na medida de segurança de interdição do exercício da profissão, independentemente da natureza do crime;\n\nd) Condenação, com trânsito em julgado, por infracções graves e repetidas à regulamentação sobre a segurança rodoviária, nos casos em que seja decretada a interdição do exercício da profissão;\n\ne) Condenação, com trânsito em julgado, por infracções cometidas no exercício da actividade às normas relativas ao regime das prestações de natureza retributiva ou às condições de higiene e segurança no trabalho, à protecção do ambiente e à responsabilidade profissional, nos casos em que seja decretada a interdição do exercício da profissão.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326868": {
+   "fragment_id": "73325092",
+   "type": 11,
+   "heading": "Artigo 7.º — Capacidade técnica",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 7.º — Capacidade técnica\n\n1 - A capacidade técnica consiste em dispor de recursos humanos com conhecimentos adequados ao cumprimento das obrigações inerentes à actividade.\n\n2 - O requisito de capacidade técnica considera-se preenchido desde que, de entre os meios humanos da empresa, pelo menos uma pessoa seja titular de um certificado que ateste os seus conhecimentos profissionais ou seja titular de certificado de capacidade profissional para o transporte rodoviário de mercadorias.\n\n3 - O certificado que atesta os conhecimentos profissionais é emitido pela DGTT, podendo ser obtido por experiência no desempenho dos serviços a que se refere o presente diploma ou por curso de formação adequado e subsequente avaliação de conhecimentos, nos termos a definir por portaria do membro do Governo responsável pela área dos transportes.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326869": {
+   "fragment_id": "73325093",
+   "type": 11,
+   "heading": "Artigo 8.º — Capacidade financeira",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 8.º — Capacidade financeira\n\nPara efeitos do presente diploma, considera-se que dispõem de recursos financeiros adequados ao arranque e boa gestão da empresa as sociedades comerciais ou cooperativas cujo capital social não seja inferior a (euro) 25000 e as empresas em nome individual cujo património tenha um valor não inferior àquele.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326870": {
+   "fragment_id": "73325094",
+   "type": 11,
+   "heading": "Artigo 9.º — Atribuição de alvarás e de certificados",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 9.º — Atribuição de alvarás e de certificados\n\n1 - Os pedidos de alvará para a actividade de prestação de serviços com veículos pronto-socorro são dirigidos ao director-geral de Transportes Terrestres e instruídos com o seguinte:\n\na) Certificado de registo criminal dos responsáveis da empresa referidos no artigo 6.º;\n\nb) Prova de que a empresa está regularmente constituída ou estabelecida nos termos da lei comercial, com indicação do montante do capital social, no caso das sociedades comerciais ou cooperativas, e garantia bancária comprovativa do valor do património, no caso de empresas em nome individual;\n\nc) Identificação e indicação do vínculo funcional da pessoa que assegura o requisito de capacidade técnica.\n\n2 - Os pedidos de certificado para prestação de serviços com veículos pronto-socorro, enquanto actividade acessória, devem ser dirigidos ao director-geral de Transportes Terrestres e instruídos com o seguinte:\n\na) Prova de que a entidade requerente está estabelecida nos termos da lei comercial;\n\nb) Indicação do número e características dos veículos pronto-socorro que possuam, com cópia do registo de propriedade e livrete.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326858": {
+   "fragment_id": "73325095",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de informação",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 10.º — Dever de informação\n\n1 - Os prestadores de serviços por meio de veículos pronto-socorro estabelecidos em território nacional têm o dever de comunicar ao IMT, I. P., ou à autoridade territorialmente competente de uma Região Autónoma, conforme o caso aplicável, no prazo de 30 dias a contar da data da sua ocorrência:\n\na) Qualquer alteração às informações referidas nas alíneas a) a c) do n.º 1 do artigo 4.º;\n\nb) A cessação da respetiva atividade em território nacional.\n\n2 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326871": {
+   "fragment_id": "73325096",
+   "type": 11,
+   "heading": "Artigo 11.º — Falta superveniente de requisitos",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 11.º — Falta superveniente de requisitos\n\n1 - A falta superveniente de qualquer dos requisitos de acesso à actividade deve ser suprida no prazo de um ano a contar da data da sua ocorrência.\n\n2 - Decorrido o prazo previsto no número anterior sem que a falta seja suprida, caduca o alvará para o exercício da actividade.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326854": {
+   "fragment_id": "73325097",
+   "type": 1,
+   "heading": "Capítulo III — Exercício da atividade",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "### Capítulo III — Exercício da atividade\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326859": {
+   "fragment_id": "73325098",
+   "type": 11,
+   "heading": "Artigo 12.º — Veículos pronto-socorro",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 12.º — Veículos pronto-socorro\n\n1 - Os veículos pronto-socorro utilizados pelos prestadores de serviços são homologados pelo IMT, I.P., nos termos do Decreto-Lei n.º 16/2010, de 12 de março, alterado pelos Decretos-Leis n.os 59/2011, de 5 de maio, e 148/2013, de 24 de outubro, ou por organismo congénere da União Europeia ou do Espaço Económico Europeu, nos termos da legislação aplicável.\n\n2 - Os veículos pronto-socorro utilizados pelos prestadores referidos no n.º 1 do artigo 3.º matriculados em Portugal devem ser aprovados pelo IMT, I.P., nos termos do disposto no Decreto-Lei n.º 128/2006, de 5 de julho.\n\n3 - Os veículos pronto-socorro referidos no número anterior devem ostentar dístico de identificação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326860": {
+   "fragment_id": "73325099",
+   "type": 11,
+   "heading": "Artigo 13.º — Caderno de registo de serviços ou guia de transporte",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 13.º — Caderno de registo de serviços ou guia de transporte\n\n1 - Os serviços de transporte ou reboque de veículos avariados ou sinistrados efetuados por empresas estabelecidas em território nacional devem ser descritos de forma sequencial num caderno de registo constituído por folhas numeradas e não destacáveis.\n\n2 - Durante a realização de cada serviço de transporte ou reboque deve estar a bordo do veículo pronto-socorro o caderno de registo que contém a respetiva descrição.\n\n3 - Como alternativa ao caderno de registo de serviços referido no número anterior, as empresas podem:\n\na) Utilizar a guia de transporte a que se refere o artigo 19.º do Decreto-Lei n.º 257/2007, de 16 de julho, alterado pelos Decretos-Leis n.os 137/2008, de 21 de julho, e 136/2009, de 5 de junho;\n\nb) Realizar o registo dos serviços nos termos da legislação do Estado-membro de origem, caso aplicável.\n\n4 - As empresas que prestem serviços de transporte ou reboque de veículos avariados ou sinistrados em regime de livre prestação em território nacional registam-nos nos termos da legislação do Estado-membro de origem, podendo, para o efeito, utilizar igualmente a guia de transporte a que se refere o artigo 19.º do Decreto-Lei n.º 257/2007, de 16 de julho, alterado pelos Decretos-Leis n.os 137/2008, de 21 de julho, e 136/2009, de 5 de junho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326873": {
+   "fragment_id": "73325101",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\n1 - São competentes para a fiscalização do cumprimento do disposto no presente diploma as seguintes entidades:\n\na) Direcção-Geral de Transportes Terrestres;\n\nb) (Revogada.)\n\nc) Guarda Nacional Republicana;\n\nd) Polícia de Segurança Pública.\n\n2 - As entidades referidas no número anterior podem proceder, junto das pessoas singulares ou colectivas que efectuem os serviços a que se refere o presente diploma, a todas as investigações e verificações necessárias para o exercício da sua competência fiscalizadora.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326861": {
+   "fragment_id": "73325102",
+   "type": 11,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações, puníveis com as seguintes coimas:\n\na) O exercício da atividade por entidade em violação do disposto no artigo 3.º, com coima de 750,00 EUR a 2000,00 EUR ou de 1 500,00 EUR a 4 000,00 EUR, consoante se trate de pessoa singular ou coletiva;\n\nb) O não cumprimento do dever de informação a que se refere o artigo 10.º, com coima de 100,00 EUR a 300,00 EUR ou de 200,00 EUR a 600,00 EUR, consoante se trate de pessoa singular ou coletiva;\n\nc) A prestação de serviços através de veículo não homologado nos termos do n.º 1 do artigo 12.º, com coima de 100,00 EUR a 300,00 EUR ou de 200,00 EUR a 600,00 EUR, consoante se trate de pessoa singular ou coletiva;\n\nd) A falta do dístico a que se refere o n.º 3 do artigo 12.º, com coima de 75,00 EUR a 225,00 EUR ou de 150,00 EUR a 450,00 EUR, consoante se trate de pessoa singular ou coletiva;\n\ne) A falta de registo dos serviços nos termos do artigo 13.º, com coima de 100,00 EUR a 300,00 EUR ou de 200,00 EUR a 600,00 EUR, consoante se trate de pessoa singular ou coletiva.\n\n2 - A negligência e a tentativa são puníveis, nos termos gerais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326862": {
+   "fragment_id": "73325103",
+   "type": 11,
+   "heading": "Artigo 16.º — Processamento das contra-ordenações",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 16.º — Processamento das contra-ordenações\n\n1 - O processamento das contra-ordenações previstas neste diploma compete à DGTT.\n\n2 - A aplicação das coimas é da competência do director-geral de Transportes Terrestres.\n\n3 - A DGTT organizará o registo das infracções cometidas nos termos da legislação em vigor.\n\n4 - Às contraordenações previstas no presente diploma aplica-se o regime geral das contraordenações, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326863": {
+   "fragment_id": "73325104",
+   "type": 11,
+   "heading": "Artigo 17.º — Produto das coimas",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 17.º — Produto das coimas\n\n1- O produto das coimas será distribuído da seguinte forma:\n\na) 20% para a DGTT, constituindo receita própria;\n\nb) 20% para a entidade fiscalizadora;\n\nc) 60% para o Estado.\n\n2 - O produto das coimas cobradas pelas autoridades das Regiões Autónomas constitui receita própria da Região em causa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326864": {
+   "fragment_id": "73325106",
+   "type": 11,
+   "heading": "Artigo 18.º — Modelos de dísticos e cadernos de registo",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 18.º — Modelos de dísticos e cadernos de registo\n\nOs modelos do dístico bem como do caderno de registo de serviços a que se refere o presente diploma são aprovados por despacho do presidente do conselho diretivo do IMT, I.P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326865": {
+   "fragment_id": "73325107",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - A receção e tratamento da mera comunicação prévia a que se refere o artigo 4.º são sujeitas a taxas a fixar pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes.\n\n2 - O produto das taxas cobradas pelo IMT, I.P., constitui receita própria deste instituto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326849": {
+   "fragment_id": "73325153",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Cooperação administrativa",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 19.º-A — Cooperação administrativa\n\nAs autoridades administrativas competentes nos termos do presente diploma prestam e solicitam às autoridades competentes dos outros Estados-Membros da União Europeia ou do Espaço Económico Europeu e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente no âmbito dos procedimentos relativos a prestadores estabelecidos em outro Estado-Membro.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326872": {
+   "fragment_id": "73325108",
+   "type": 11,
+   "heading": "Artigo 20.º — Disposições transitórias",
+   "in_force_from": "2014-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+   ],
+   "markdown": "###### Artigo 20.º — Disposições transitórias\n\n1 - As entidades que prestam serviços com veículos pronto-socorro que não estejam licenciadas para o transporte rodoviário de mercadorias dispõem do prazo de um ano, a contar da data de entrada em vigor do presente diploma, para comprovar o preenchimento dos requisitos a que se refere o capítulo II.\n\n2 - Para efeitos do disposto no n.º 3 do artigo 7.º, será emitido um certificado de conhecimentos profissionais por experiência aos responsáveis pelas empresas em nome individual ou colectivo que tenham tido veículos pronto-socorro licenciados ao abrigo da Portaria n.º 159/91, de 22 de Fevereiro, durante pelo menos um ano.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014 - Diário da República n.º 32/2014, Série I de 2014-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), em vigor a partir de 2014-03-16"
+  },
+  "73326851": {
+   "fragment_id": "73325109",
+   "type": 11,
+   "heading": "Artigo 21.º — Prorrogação de prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prorrogação de prazo\n\nO prazo previsto no n.º 3 do artigo 36.º do Decreto-Lei n.º 38/99, de 6 de Fevereiro, fica prorrogado até à data de entrada em vigor do presente diploma, na parte aplicável ao transporte de viaturas avariadas ou sinistradas."
+  },
+  "73326852": {
+   "fragment_id": "73325110",
+   "type": 11,
+   "heading": "Artigo 22.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir de 8 de Março de 2001."
+  },
+  "73326853": {
+   "fragment_id": "73325111",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "73326809": {
+   "fragment_id": "73325112",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Maio de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Mário Cristina de Sousa.\n\nPromulgado em 4 de Junho de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Junho de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

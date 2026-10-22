@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: pt:dre:329465:por
+title: Portaria n.º 570/78
+short_title: null
+summary: Altera vários artigos do Regulamento dos Concursos para os Lugares dos Quadros do Pessoal Médico Permanente dos Hospitais
+  Centrais e Distritais, aprovado pela Portaria n.º 79/77, de 17 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Saúde
+proposing_entity: null
+official_number: 570/78
+official_date: null
+publication_date: '1978-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 216/1978, Série I de 1978-09-19
+  number: '216'
+  series: I
+  supplement: null
+  pages: 1971 - 1972
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21600/19711972.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '329465'
+  dre_path: /dr/detalhe/portaria/570-1978-329465
+  internal: pt:dre:329465:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-1978-329465
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-1978-329465
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-04-30T00:00:00Z'
+integrity:
+  source_sha256: fb366d4826b8c3568d493532d564f532dbbb5d5b657da2be187a5083549ade6a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-570-329465.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:393068:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 570/78
+
+de 19 de Setembro
+
+Considerando que se pretende que os concursos a realizar para os quadros hospitalares tenham âmbito verdadeiramente nacional e que algumas disposições do Regulamento dos Concursos para os Lugares dos Quadros do Pessoal Médico Permanente dos Hospitais Centrais e Distritais, aprovado pela [Portaria n.º 79/77](https://diariodarepublica.pt/dr/detalhe/portaria/79-1977-141668), de 17 de Fevereiro, são incompatíveis com tal finalidade;
+
+Considerando que na colocação dos médicos nas vagas existentes deve ser dada prioridade ao mérito demonstrado nos respectivos concursos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, o seguinte:
+
+1.º Os artigos 2.º, n.º 2, 3.º, 4.º, 6.º, n.º 2, 8.º, n.os 8, 9, 10 e 11, e 22.º, n.os 8 e 9, do Regulamento aprovado pela [Portaria n.º 79/77](https://diariodarepublica.pt/dr/detalhe/portaria/79-1977-141668), de 17 de Fevereiro, passam a ter a seguinte redacção:
+
+###### Art. 2.º - 1 - ...
+
+2 - Os concursos para ocupação dos diferentes lugares em cada categoria dos quadros do pessoal médico permanente dos hospitais distritais serão realizados em hospitais centrais.
+
+###### Art. 3.º - 1 - Dentro do prazo de abertura dos concursos, os candidatos entregarão na secretaria do respectivo hospital central ou na comissão inter-hospitalar da área da sua residência, conforme concorram às vagas de hospitais centrais ou distritais, os seguintes documentos:
+
+a) Requerimento, em papel selado, dirigido à comissão instaladora do hospital central ou ao director-geral dos Hospitais, conforme as vagas a que concorram, solicitando a admissão ao concurso, e onde conste a identificação completa do candidato, sua residência e indicação da categoria e especialidade a que pretende concorrer;
+
+b) ...
+
+c) ...
+
+d) Certidão do registo de nascimento;
+
+e) Documento comprovativo do cumprimento da Lei do Serviço Militar;
+
+f) Certificado de sanidade para o exercício de funções públicas, passado pela delegação de saúde local;
+
+g) Certificado do registo criminal.
+
+2 - Os documentos referidos nas alíneas d), e), f) e g) podem ser substituídos por certificados comprovativos da sua entrega, pelo candidato, no estabelecimento ou serviço a que está vinculado.
+
+###### Art. 4.º - 1 - Dez dias após o encerramento do prazo de cada concurso para os hospitais centrais será afixada, no respectivo hospital, a lista dos concorrentes, agrupados por especialidades, com indicação das faltas verificadas nos documentos apresentados.
+
+2 - No mesmo prazo e no referente aos concursos para os hospitais distritais, será afixada nos serviços centrais da Direcção-Geral dos Hospitais e comissões inter-hospitalares a lista referida no número anterior.
+
+3 - Os concorrentes dispõem de dez dias, após a afixação, para solicitar qualquer eventual rectificação às listas mencionadas nos n.os 1 e 2 e também para regularizar a documentação em falta.
+
+4 - Todas as questões suscitadas serão decididas no prazo de dez dias pela comissão instaladora do hospital onde se realizem os concursos para as vagas dos hospitais centrais e pelo director-geral dos Hospitais no referente aos concursos para os hospitais distritais.
+
+5 - Findo o prazo anteriormente referido, a comissão instaladora do hospital e a Direcção-Geral dos Hospitais, respectivamente, disporão de dez dias para afixar a lista dos candidatos admitidos definitivamente.
+
+6 - Simultaneamente, serão afixados, nos locais indicados nos n.os 1 e 2, a constituição dos júris e pautas de que constem os locais em que se realizarão as provas, bem como as datas de início das mesmas.
+
+7 - ...
+
+8 - As provas terão início, obrigatoriamente, nos vinte dias seguintes à afixação das listas definitivas, mas nunca antes de decorridos dez dias sobre esta afixação.
+
+###### Art. 6.º - 1 - ...
+
+2 - Os presidentes dos júris e dois vogais pertencerão aos quadros dos hospitais centrais, devendo os dois restantes vogais ser provenientes de hospitais distritais com carreira médica comprovada em que o acesso aos vários graus se tenha feito por exame ou concurso, excluindo assim a simples nomeação ou integração.
+
+###### Art. 8.º - 1 - ...
+
+...
+
+8 - A classificação final será estabelecida pela média aritmética das classificações obtidas nas provas, arredondada para a décima mais próxima.
+
+9 - Para fins de provimento nos lugares, compete ao júri elaborar a lista de ordenação dos candidatos aprovados, por ordem decrescente de mérito, para o que terá como base a classificação final referida no número anterior.
+
+10 - Quando se verificarem igualdades das classificações referidas no número anterior, a ordenação atenderá necessariamente às seguintes preferências:
+
+a) Melhor média da prova prática ou melhor média aritmética das classificações obtidas nas provas práticas, arredondada para a décima mais próxima;
+
+b) Melhor classificação na prova curricular.
+
+11 - Caso se mantenham igualdades, a ordenação será completada por votações sucessivas para cada um dos lugares em causa.
+
+###### Art. 22.º - 1 - ...
+
+...
+
+8 - Para fins de provimento nos lugares, compete ao júri elaborar a lista de ordenação dos candidatos aprovados, por ordem decrescente de mérito, para o que terá como base a classificação final referida no número anterior.
+
+9 - Quando se verificarem igualdades, a ordenação será completada por votações sucessivas para cada um dos lugares em causa.
+
+2.º - 1 - Os candidatos aprovados em concursos para hospitais distritais deverão optar por uma das vagas existentes da respectiva especialidade, sendo a ordem das opções a resultante das listas a que se referem os n.os 9, 10 e 11 do artigo 8.º e 8 e 9 do artigo 22.º do Regulamento dos Concursos para os Lugares dos Quadros do Pessoal Médico Permanente dos Hospitais Centrais e Distritais, aprovado pela [Portaria n.º 79/77](https://diariodarepublica.pt/dr/detalhe/portaria/79-1977-141668), de 17 de Fevereiro, com a nova redacção dada pela presente portaria.
+
+2 - Para cada concurso as opções terão lugar, dentro de trinta dias após a sua conclusão, em data e local a determinar pela Direcção-Geral dos Hospitais, mediante aviso, que será afixado nos serviços centrais da mesma e comissões inter-hospitalares.
+
+3.º Mantém-se em vigor o disposto na [Portaria n.º 379/78](https://diariodarepublica.pt/dr/detalhe/portaria/379-1978-297795), de 13 de Julho, com a nova redacção dada pela presente portaria ao artigo 8.º do Regulamento dos Concursos para os Lugares dos Quadros do Pessoal Médico Permanente dos Hospitais Centrais e Distritais.
+
+4.º Nas disposições do Regulamento aprovado pela [Portaria n.º 79/77](https://diariodarepublica.pt/dr/detalhe/portaria/79-1977-141668), de 17 de Fevereiro, onde se refere «comissão instaladora», deve entender-se como feita a referência ao órgão de gestão legalmente instituído.
+
+Secretaria de Estado da Saúde, 9 de Agosto de 1978. - O Secretário de Estado da Saúde, Mário Luís Mendes.

@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:314069:por
+title: Decreto n.º 17/2000
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e a República de Cuba sobre Cooperação Cultural, assinado em Havana
+  em 8 de Julho de 1998
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 17/2000
+official_date: null
+publication_date: '2000-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/2000, Série I-A de 2000-07-26
+  number: '171'
+  series: I
+  supplement: null
+  pages: 3610 - 3613
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/07/171a00/36103613.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/17/2000/07/26/p/dre/pt/html
+  oj: null
+  dre: '314069'
+  dre_path: /dr/detalhe/decreto/17-2000-314069
+  internal: pt:dre:314069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-2000-314069
+  metadata_url: https://data.dre.pt/eli/dec/17/2000/07/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/17-2000-314069
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-07-26T00:00:00Z'
+integrity:
+  source_sha256: e395914c74543ee0fdca89d21cb51aa1868efcbe6db5a8bba4e75370e341b1b8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-17-314069.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Havana
+- Cuba
+- Cooperação Cultural
+relationships: []
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 17/2000
+
+de 26 de Julho
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo decreta o seguinte:
+
+Aprova o Acordo entre a República Portuguesa e a República de Cuba sobre Cooperação Cultural, assinado em Havana em 8 de Julho de 1998, cujas cópias autenticadas nas línguas portuguesa e castelhana seguem em anexo.
+
+Visto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Guilherme d'Oliveira Martins - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Armando António Martins Vara.
+
+**Assinado em 6 de Julho de 2000.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 12 de Julho de 2000.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CUBA SOBRE COOPERAÇÃO CULTURAL
+
+A República Portuguesa e a República de Cuba (daqui em diante designadas «Partes Contratantes»), animadas pelo desejo de promover as relações científicas, culturais, educacionais e desportivas entre os seus respectivos povos, na base de interesses comuns e benefícios recíprocos, acordaram o seguinte:
+
+###### Artigo 1.º
+
+As Partes Contratantes comprometem-se a fomentar a colaboração e os intercâmbios de experiências entre as instituições e organizações culturais, educativas, artísticas e de outros domínios de ambos os países, tendo em conta os interesses e os benefícios recíprocos.
+
+###### Artigo 2.º
+
+Cada Parte Contratante, de acordo com as respectivas disposições legais vigentes, facilitará no seu próprio país a realização de actividades culturais e educativas da outra Parte Contratante.
+
+###### Artigo 3.º
+
+As Partes Contratantes encorajarão o conhecimento recíproco da cultura dos seus países e promoverão a colaboração cultural.
+
+###### Artigo 4.º
+
+As Partes Contratantes promoverão a cooperação no âmbito da ciência e da educação, incluindo os centros de ensino primário, médio e superior, assim como os de formação profissional e de educação de adultos e os centros de investigação de ambas as Partes, para efeitos de:
+
+1) Cooperar em sectores de interesse comum;
+
+2) Propiciar o envio recíproco de delegações e especialistas para intercâmbio de experiências, recolha de informação e participação em conferências e simpósios científicos que tenham lugar no território da outra Parte;
+
+3) Fomentar o intercâmbio de literatura científica, pedagógica e didáctica, de material educativo, de demonstração e informativo e documental para fins de formação e investigação, assim como a organização de exposições técnicas;
+
+4) Estabelecer a colaboração no âmbito da educação de adultos por todos os meios ao seu alcance.
+
+###### Artigo 5.º
+
+As Partes Contratantes encorajarão o estabelecimento de acordos de colaboração entre os centros de ensino superior de ambos os países.
+
+###### Artigo 6.º
+
+Com vista a estabelecer vínculos de colaboração no domínio da formação profissional e do aperfeiçoamento de especialistas, as Partes Contratantes promoverão o intercâmbio de bolsas de estudo e de investigação para pós-graduados, empregando todos os meios ao seu alcance. Os beneficiários das bolsas de pós-graduação serão escolhidos pelas autoridades competentes de cada uma das Partes.
+
+Para tal efeito, as Partes Contratantes examinarão as condições em que poderão ser reconhecidos os certificados de estudo e diplomas dos centros de ensino superior do outro país, para fins académicos.
+
+###### Artigo 7.º
+
+Com vista a promover um melhor conhecimento recíproco da arte e da cultura do outro país, as Partes Contratantes encorajarão a colaboração nas seguintes áreas:
+
+1) Intercâmbio de artistas e conjuntos, organização de concertos, representações de teatro e outras manifestações artísticas;
+
+2) Apresentação de exposições, organização de conferências e de sessões de textos literários;
+
+3) O intercâmbio de convites a representantes de diversos sectores da vida cultural, em particular da literatura, da música, das artes plásticas e cénicas, com o objectivo de desenvolver a cooperação e a troca de experiências, assim como participar em congressos e actividades similares;
+
+4) A promoção de contactos entre editoras, bibliotecas, arquivos e museus e o intercâmbio de especialistas e de materiais.
+
+###### Artigo 8.º
+
+As Partes Contratantes estimularão o intercâmbio de publicações periódicas e de livros científicos, educacionais, artísticos, sociais e culturais.
+
+###### Artigo 9.º
+
+As Partes Contratantes apoiarão a colaboração nos domínios da rádio, da televisão e da cinematografia, através do intercâmbio de materiais e meios áudio-visuais que contribuam para materializar os propósitos do presente Acordo.
+
+###### Artigo 10.º
+
+As Partes Contratantes encorajarão a realização de encontros entre desportistas, treinadores, funcionários das federações desportivas e equipas desportivas das Partes, assim como a cooperação entre os grupos desportivos de ambos os países, propiciando o estabelecimento directo de acordos entre os mesmos.
+
+###### Artigo 11.º
+
+As Partes Contratantes propiciarão a colaboração no sector do livro e das editoras.
+
+###### Artigo 12.º
+
+As Partes Contratantes conceder-se-ão reciprocamente, nos domínios da cultura, da educação, das ciências e do desporto, as facilidades necessárias para a realização de investigações em institutos, arquivos, bibliotecas e museus de cada país, de acordo com a respectiva legislação.
+
+###### Artigo 13.º
+
+As Partes Contratantes comprometem-se a respeitar e fazer respeitar as adequadas disposições legais no que respeita à preservação do património cultural.
+
+###### Artigo 14.º
+
+As Partes Contratantes realizarão encontros alternadamente em Lisboa e Havana, com vista à elaboração de programas executivos de colaboração e intercâmbio, nos domínios da educação, da ciência e da cultura, assim como para analisar o andamento das acções previstas nos mesmos.
+
+Os programas atrás mencionados conterão, além do mais, as formas de cooperação e as suas condições financeiras.
+
+###### Artigo 15.º
+
+O presente Acordo entrará em vigor 30 dias após a data da última comunicação, por via diplomática, de que foram cumpridas as formalidades legais vigentes para a aprovação do mesmo.
+
+###### Artigo 16.º
+
+Este Acordo não poderá prejudicar de qualquer forma os direitos e obrigações resultantes de existentes ou futuros acordos bilaterais ou multilaterais e não produzirá efeitos sobre os direitos e obrigações das Partes Contratantes derivadas da participação em acordos ou tratados internacionais de que possam vir a ser parte.
+
+###### Artigo 17.º
+
+O presente Acordo terá uma vigência de cinco anos, prorrogável automaticamente por iguais períodos, a menos que uma das Partes Contratantes o denuncie por escrito, por via diplomática. A denúncia será efectiva seis meses após a data da sua comunicação.
+
+Em caso de denúncia deste Acordo, cada programa de intercâmbio, entendimento ou projecto em curso, com base nas cláusulas deste Acordo, permanecerá válido até à sua conclusão.
+
+Cada Parte Contratante poderá requerer por escrito a emenda da totalidade ou parte do presente Acordo. Qualquer alteração que tenha sido acordada pelas Partes Contratantes entrará em vigor segundo as disposições previstas no artigo 15.º
+
+Em fé do que os abaixo-assinados, estando devidamente autorizados, assinaram o presente Acordo.
+
+Feito na cidade de Havana, no dia 8 de Julho de 1998, em dois exemplares, nas línguas portuguesa e espanhola, sendo ambos igualmente válidos.
+
+Pela República Portuguesa:
+
+Jaime Gama, Ministro dos Negócios Estrangeiros.
+
+Pela República de Cuba:
+
+Roberto Robaina González, Ministro das Relações Exteriores.
+
+[(ver texto em língua castelhana no documento original)](https://files.diariodarepublica.pt/1s/2000/07/171a00/36103613.pdf)

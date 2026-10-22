@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:140013522:por
+title: Decreto-Lei n.º 53/2020
+short_title: null
+summary: Transpõe a Diretiva (UE) 2020/876, no sentido de diferir prazos para a apresentação e troca de informações no domínio
+  da fiscalidade devido à pandemia da doença COVID-19
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças
+official_number: 53/2020
+official_date: null
+publication_date: '2020-08-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/2020, Série I de 2020-08-11
+  number: '155'
+  series: I
+  supplement: null
+  pages: 12 - 14
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15500/0001200014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/53/2020/08/11/p/dre/pt/html
+  oj: null
+  dre: '140013522'
+  dre_path: /dr/detalhe/decreto-lei/53-2020-140013522
+  internal: pt:dre:140013522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522
+  metadata_url: https://data.dre.pt/eli/dec-lei/53/2020/08/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-09-30T00:00:00Z'
+integrity:
+  source_sha256: 3ef4a273b5a66a196965d7f352a6c6a759a2f3ed9c57652cebd72b81c929851a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-53-140013522.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Alienação de Créditos
+- Aproximação das Legislações
+- Autoridade Tributária e Aduaneira
+- CE Países
+- Combate à Fraude
+- Gestão Financeira
+- Cooperação Técnica
+- Cooperação Transfronteira
+- Regulamentação de Atos Legislativos
+- União Europeia
+- Fiscalização
+- Fraude Fiscal
+- Contribuições e Impostos
+- Doença Infecciosa
+- Epidemia
+- Sistema de Informação
+- Evasão Fiscal
+- Comércio
+- Tributação
+relationships:
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32011L0016
+  label: null
+  source: http://data.europa.eu/eli/dir/2011/16/oj
+- type: cites
+  target: celex:32018L0822
+  label: null
+  source: http://data.europa.eu/eli/dir/2018/822/oj
+- type: cites
+  target: celex:32020L0876
+  label: null
+  source: http://data.europa.eu/eli/dir/2020/876/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/219/2001/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/219/2001/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/303/2003/12/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/303/2003/12/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/453/1999/11/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/453/1999/11/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/26/2020/07/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/26/2020/07/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 53/2020
+
+de 11 de agosto
+
+As perturbações causadas pela pandemia da doença COVID-19 têm tido um efeito significativo sobre a capacidade das empresas em cumprir as suas obrigações fiscais, razão pela qual têm sido recentemente adotadas um conjunto de medidas com o objetivo de flexibilizar os prazos de cumprimento das obrigações fiscais aos contribuintes.
+
+A implementação da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, que transpôs para a ordem jurídica interna a Diretiva (UE) [2018/822](https://data.europa.eu/eli/dir/2018/822/oj?locale=pt) do Conselho, de 25 de maio de 2018, alterando a Diretiva (UE) [2011/16](https://data.europa.eu/eli/dir/2011/16/oj?locale=pt) do Conselho, de 15 de fevereiro de 2011, no que respeita à troca automática de informações obrigatória no domínio da fiscalidade em relação aos mecanismos a comunicar, e o cumprimento dos deveres de comunicação nos prazos legalmente previstos, acarretam um esforço de adoção de procedimentos por parte de empresas que no contexto atual pode ser considerado excessivamente oneroso.
+
+A este respeito, vários Estados-Membros e pessoas sujeitas à obrigação de comunicar informações às autoridades competentes dos Estados-Membros solicitaram o diferimento de certos prazos estabelecidos nessa mesma diretiva.
+
+Esta situação exigiu uma resposta coordenada na União Europeia à qual Portugal se aliou, no sentido de diferir os prazos para a apresentação e troca de informações no domínio da fiscalidade. O diferimento dos prazos agora concretizado destina-se a fazer face a uma situação excecional e é proporcional face às dificuldades práticas causadas pela pandemia da doença COVID-19 no que respeita à apresentação e à troca de informações.
+
+Ainda relativamente à implementação da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, e considerando as dúvidas que têm sido suscitadas pelos agentes económicos relativamente à interpretação de alguns preceitos relativos a este diploma, é promovida a criação de um Fórum de monitorização do mesmo, doravante «Fórum DAC 6», com o objetivo de promover o acompanhamento da aplicação do referido diploma legal e enquadramento de dúvidas relacionadas com a sua aplicação, atendendo à experiência de aplicação noutros Estados-Membros da União Europeia.
+
+Aproveita-se ainda no presente decreto-lei para esclarecer, a respeito do regime fiscal das operações de titularização de créditos previsto no [Decreto-Lei n.º 219/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2001-522869), de 4 de agosto, na sua redação atual, que os rendimentos e ganhos decorrentes do reembolso dos créditos objeto de cessão, bem como os gerados com a transmissão onerosa dos créditos cedidos ou relativos a instrumentos de cobertura dos riscos associados a esses créditos, são considerados rendimentos de natureza idêntica aos juros quando nos termos de disposição legal ou convenção o direito ao montante remanescente, depois de pagos os rendimentos e todas as despesas e encargos do fundo ou património autónomo, seja atribuído aos titulares das unidades de titularização ou das obrigações titularizadas, designadamente, conforme previsto nos artigos 32.º e 61.º do [Decreto-Lei n.º 453/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1999-693810), de 5 de novembro, na sua redação atual.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei:
+
+a) Transpõe para a ordem jurídica interna a Diretiva (UE) [2020/876](https://data.europa.eu/eli/dir/2020/876/oj?locale=pt) do Conselho, de 24 de junho de 2020, que altera a Diretiva [2011/16](https://data.europa.eu/eli/dir/2011/16/oj?locale=pt)/UE do Conselho, de 15 de fevereiro de 2011, para fazer face à necessidade urgente de diferir certos prazos para a apresentação e a troca de informações no domínio da fiscalidade devido à pandemia da doença COVID-19, procedendo à primeira alteração da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho;
+
+b) Cria o Fórum de monitorização da implementação da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho (Fórum DAC 6);
+
+c) Procede à quinta alteração do [Decreto-Lei n.º 219/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2001-522869), de 4 de agosto, alterado pela [Lei n.º 109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), de 27 de dezembro, pelo [Decreto-Lei n.º 303/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), de 5 de dezembro, e pelas Leis n.os [107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de dezembro, e [53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de dezembro, que consagra o regime fiscal das operações de titularização de créditos efetuados nos termos do [Decreto-Lei n.º 453/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1999-693810), de 5 de novembro.
+
+###### Artigo 2.º — Alteração à [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho
+
+Os artigos 22.º e 23.º da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, passam a ter a seguinte redação:
+
+«Artigo 22.º
+
+[...]
+
+1 - Os intermediários e os contribuintes relevantes, consoante o caso e conforme previsto nos artigos 10.º, 12.º e 15.º, comunicam à AT, até 28 de fevereiro de 2021, para as finalidades previstas nos artigos 16.º e 17.º, qualquer mecanismo transfronteiriço a comunicar cujo primeiro passo da sua aplicação tenha ocorrido no período entre 25 de junho de 2018 e 30 de junho de 2020.
+
+2 - Nas situações referidas no número anterior, em que se verifique a existência de dever legal ou contratual de sigilo, a obrigação de comunicação é do contribuinte relevante, devendo, nesse caso, o intermediário notificá-lo, até 1 de dezembro de 2020, para que cumpra a obrigação de comunicação dos mecanismos transfronteiriços referidos no número anterior, no prazo de 30 dias seguidos a contar da referida notificação, devendo o intermediário cumprir subsidiariamente aquela obrigação de comunicação até 28 de fevereiro de 2021 no caso de não ter sido informado do cumprimento do dever de comunicação pelo contribuinte relevante naquele prazo de 30 dias.
+
+3 - Para efeitos do disposto nos números anteriores, o prazo adicional de 10 dias previsto nos n.os 6 e 8 do artigo 10.º e nos n.os 4 e 6 do artigo 12.º termina a 10 de março de 2021.
+
+###### Artigo 23.º — [...]
+
+A primeira comunicação de informações pela AT às autoridades competentes de todos os outros Estados-Membros, conforme previsto no artigo 16.º, ocorre até 30 de abril de 2021.»
+
+###### Artigo 3.º — Fórum de monitorização da implementação da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho
+
+1 - É criado o Fórum de monitorização da implementação da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, doravante designado por «Fórum DAC 6», com o objetivo de promover o acompanhamento da aplicação do referido diploma legal e enquadramento de dúvidas relacionadas com a aplicação do mesmo, atendendo à experiência de aplicação noutros Estados-Membros da União Europeia.
+
+2 - A constituição do «Fórum DAC 6» bem como as respetivas regras de funcionamento, são determinadas por despacho do membro do Governo responsável pela área das finanças.
+
+###### Artigo 4.º — Alteração ao [Decreto-Lei n.º 219/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2001-522869), de 4 de agosto
+
+O artigo 3.º do [Decreto-Lei n.º 219/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2001-522869), de 4 de agosto, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os rendimentos e ganhos decorrentes do reembolso dos créditos objeto de cessão, bem como os gerados com a transmissão onerosa dos créditos cedidos ou relativos a instrumentos de cobertura dos riscos associados a esses créditos, são considerados rendimentos de natureza idêntica aos juros quando nos termos de disposição legal ou convenção o direito ao montante remanescente, depois de pagos os rendimentos e todas as despesas e encargos do fundo ou património autónomo, seja atribuído aos titulares das unidades de titularização ou das obrigações titularizadas.
+
+5 - (Anterior n.º 4.)»
+
+###### Artigo 5.º — Norma transitória
+
+1 - Os prazos de 30 dias previstos nos artigos 10.º e 12.º da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, contam-se a partir de 1 de janeiro de 2021 nos casos em que:
+
+a) Um mecanismo a comunicar for disponibilizado para aplicação, ou estiver pronto para ser aplicado, ou o primeiro passo da sua aplicação tiver sido realizado entre 1 de julho e 31 de dezembro de 2020; ou
+
+b) Os intermediários tiverem prestado, diretamente ou através de outras pessoas, ajuda, assistência ou aconselhamento, nos termos do n.º 3 do artigo 10.º da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, entre 1 de julho e 31 de dezembro de 2020.
+
+2 - Nas situações cobertas pelo dever legal ou contratual de sigilo que envolvam a comunicação de mecanismo disponibilizado para aplicação, ou pronto para ser aplicado, ou cujo primeiro passo da sua aplicação tiver sido realizado entre 1 de julho e 31 de dezembro de 2020, o prazo de cinco dias seguidos previsto no n.º 2 do artigo 13.º da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, conta-se a partir de 1 de janeiro de 2021.
+
+3 - No caso de mecanismos comercializáveis, o primeiro relatório de atualização a apresentar nos termos do n.º 4 do artigo 10.º da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/detalhe/lei/26-2020-138461836), de 21 de julho, é enviado pelo intermediário à Autoridade Tributária e Aduaneira até 30 de abril de 2021.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de julho de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão.
+
+**Promulgado em 3 de agosto de 2020.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 4 de agosto de 2020.**
+
+Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.

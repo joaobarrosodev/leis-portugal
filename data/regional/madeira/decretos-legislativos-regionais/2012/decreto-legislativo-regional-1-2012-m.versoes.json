@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553469:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-873920209",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2012-553469",
+ "source_lastmod": "2024-07-30",
+ "versions": [
+  {
+   "date": "2012-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "873753625",
+    "873753626",
+    "873753627",
+    "873753628",
+    "873753629",
+    "873753630"
+   ]
+  },
+  {
+   "date": "2015-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72991305:por",
+     "title": "Decreto Legislativo Regional n.º 17/2015/M",
+     "published": "2015-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2015-72991305"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "873753625",
+    "873753626",
+    "873753632",
+    "873753633",
+    "873753629",
+    "873753630",
+    "873753631"
+   ]
+  },
+  {
+   "date": "2024-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:873755644:por",
+     "title": "Decreto Legislativo Regional n.º 6/2024/M",
+     "published": "2024-07-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2024-873755644"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "873753625",
+    "873753634",
+    "873753632",
+    "873753633",
+    "873753629",
+    "873753630",
+    "873753631"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031451:por",
+     "title": "Decreto Legislativo Regional n.º 8/2025/M",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2025-993031451"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "873753625",
+    "1004362879",
+    "873753632",
+    "873753633",
+    "873753629",
+    "873753630",
+    "873753631"
+   ]
+  }
+ ],
+ "fragments": {
+  "873753625": {
+   "fragment_id": "873920210",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 1/2012/M\n\nRevoga os Decretos Legislativos Regionais n.os 4/90/M, de 18 de janeiro, que cria o subsídio de insularidade ao funcionalismo público da Região Autónoma da Madeira e estabelece o seu regime, e 29/98/M, de 29 de dezembro, que estabelece o complemento regional de 30 % nas ajudas de custo para funcionários e agentes da administração regional e local, altera a percentagem relativa ao subsídio de insularidade atribuído aos funcionários, agentes e contratados há mais de um ano na ilha de Porto Santo, referido no Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, que aprovou o Orçamento da Região Autónoma da Madeira para 2011 e altera o Decreto Legislativo Regional n.º 2/92/M, de 7 de março, que atribui um subsídio de 30 % aos funcionários e pessoal contratado da Junta de Freguesia de Porto Santo.\n\nO Decreto Legislativo Regional n.º 4/90/M, de 18 de janeiro, alterado pelo Decreto Legislativo Regional n.º 3/2002/M, de 1 de março, criou o subsídio de insularidade ao funcionalismo público da Região Autónoma da Madeira e estabeleceu o seu regime. Não obstante as razões que fundamentaram a atribuição do dito subsídio, imperativos oriundos da situação financeira do Estado Português, associados aos consequentes compromissos assumidos entre aquele e a Comissão Europeia, o Banco Central Europeu e o Fundo Monetário Internacional, impõem a revogação do citado regime. Aliás, aqueles mesmos imperativos conduzem à revogação do Decreto Legislativo Regional n.º 29/98/M, de 29 de dezembro, que estabelece o complemento regional de 30 % nas ajudas de custo para funcionários e agentes da administração regional e local.\n\nPor outro lado, em relação ao subsídio de insularidade atribuído aos então funcionários, agentes e contratados há mais de um ano na ilha de Porto Santo, nos termos dos diplomas referidos na alínea a) do artigo 61.º do Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, que aprovou o Orçamento da Região Autónoma da Madeira para 2011, e ao subsídio criado pelo Decreto Legislativo Regional n.º 2/92/M, de 7 de março, a atual situação financeira nacional e os supracitados compromissos assumidos conduzem à redução para metade da percentagem relativa ao cálculo dos mencionados abonos, passando dos atuais 30 % sobre a remuneração base para 15 % da mesma.\n\nForam cumpridos os procedimentos decorrentes da Lei n.º 23/98, de 26 de maio.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º, da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea vv) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "873753626": {
+   "fragment_id": "873920211",
+   "type": 11,
+   "heading": "Artigo 1.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Revogação\n\n1 - Pelo presente diploma é revogado o Decreto Legislativo Regional n.º 4/90/M, de 18 de janeiro, alterado pelo Decreto Legislativo Regional n.º 3/2002/M, de 1 de março, que cria o subsídio de insularidade ao funcionalismo público da Região Autónoma da Madeira e estabelece o seu regime.\n\n2 - A partir da data de produção de efeitos da norma constante do número anterior, estabelecida no n.º 2 do artigo 5.º do presente diploma, não pode ocorrer o processamento de quaisquer verbas relativas ao subsídio de insularidade ali referido, ainda que se reportem a anos anteriores ao da entrada em vigor deste diploma.\n\n3 - Pelo presente diploma é revogado o Decreto Legislativo Regional n.º 29/98/M, de 29 de dezembro, que estabelece o complemento regional de 30 % nas ajudas de custo para funcionários e agentes da administração regional e local."
+  },
+  "873753627": {
+   "fragment_id": "873920212",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração da percentagem do subsídio de insularidade de trabalhadores em funções públicas de Porto Santo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração da percentagem do subsídio de insularidade de trabalhadores em funções públicas de Porto Santo\n\nA percentagem referente ao cálculo do subsídio de insularidade atribuído aos então funcionários, agentes e contratados há mais de um ano na ilha de Porto Santo, referido na alínea a) do artigo 61.º do Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, que aprovou o Orçamento da Região Autónoma da Madeira para 2011, passa a ser de 15 % sobre as respetivas remunerações base."
+  },
+  "873753628": {
+   "fragment_id": "873920213",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração de diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração de diploma\n\nO artigo 1.º do Decreto Legislativo Regional n.º 2/92/M, de 7 de março, que atribui um subsídio de 30 % aos funcionários e pessoal contratado da Junta de Freguesia de Porto Santo, é alterado de acordo com o seguinte:\n\n«Artigo 1.º\n\nAos trabalhadores em funções públicas da Junta de Freguesia de Porto Santo é atribuído um subsídio de 15 % sobre a respetiva remuneração base.»"
+  },
+  "873753629": {
+   "fragment_id": "873920214",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma interpretativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma interpretativa\n\n1 - Na situação de titularidade ou de exercício, a qualquer título, de cargos dirigentes em organismos da administração regional autónoma de Porto Santo ou em autarquias locais sediadas naquela ilha, o abono do subsídio a que se referem os artigos 2.º e 3.º do presente diploma abrange, exclusivamente, aqueles titulares que tenham optado pela remuneração base devida na situação jurídico-profissional de emprego público de origem, nos termos previstos no n.º 1 do artigo 72.º da Lei n.º 12-A/2008, de 27 de fevereiro, com a alteração introduzida pela Lei n.º 64-B/2011, de 30 de dezembro.\n\n2 - A norma constante do número anterior tem natureza interpretativa."
+  },
+  "873753630": {
+   "fragment_id": "873920215",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O n.º 1 do artigo 1.º e os artigos 2.º e 3.º produzem efeitos reportados ao dia 1 de fevereiro de 2012."
+  },
+  "873753632": {
+   "fragment_id": "873920212",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração da percentagem do subsídio de insularidade de trabalhadores em funções públicas de Porto Santo",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Alteração da percentagem do subsídio de insularidade de trabalhadores em funções públicas de Porto Santo\n\nA percentagem referente ao cálculo do subsídio de insularidade atribuído aos então funcionários, agentes e contratados há mais de um ano na ilha de Porto Santo, referido na alínea a) do artigo 61.º do Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, que aprovou o Orçamento da Região Autónoma da Madeira para 2011, passa a ser de 15 % sobre as respetivas remunerações base.\n\n> Revogado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31, produz efeitos a partir de 2016-01-01"
+  },
+  "873753633": {
+   "fragment_id": "873920213",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração de diploma",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Alteração de diploma\n\nO artigo 1.º do Decreto Legislativo Regional n.º 2/92/M, de 7 de março, que atribui um subsídio de 30 % aos funcionários e pessoal contratado da Junta de Freguesia de Porto Santo, é alterado de acordo com o seguinte:\n\n«Artigo 1.º\n\nAos trabalhadores em funções públicas da Junta de Freguesia de Porto Santo é atribuído um subsídio de 15 % sobre a respetiva remuneração base.»\n\n> Revogado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31, produz efeitos a partir de 2016-01-01"
+  },
+  "873753631": {
+   "fragment_id": "873920216",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 1 de março de 2012.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.\n\nAssinado em 7 de março de 2012.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "873753634": {
+   "fragment_id": "873920211",
+   "type": 11,
+   "heading": "Artigo 1.º — Revogação",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Revogação\n\n1 - [Revogado.]\n\n2 - [Revogado.]\n\n3 - Pelo presente diploma é revogado o Decreto Legislativo Regional n.º 29/98/M, de 29 de dezembro, que estabelece o complemento regional de 30 % nas ajudas de custo para funcionários e agentes da administração regional e local.\n\n> Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+  },
+  "1004362879": {
+   "fragment_id": "873920211",
+   "type": 11,
+   "heading": "Artigo 1.º — Revogação",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 129.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Revogação\n\n1 - [Revogado.]\n\n2 - [Revogado.]\n\n3 - Pelo presente diploma é revogado o Decreto Legislativo Regional n.º 29/98/M, de 29 de dezembro, que estabelece o complemento regional de 30 % nas ajudas de custo para funcionários e agentes da administração regional e local.\n\n> Revogado pelo/a Artigo 129.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+  }
+ }
+}

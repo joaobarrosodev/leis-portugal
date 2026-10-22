@@ -1,0 +1,395 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:860106954:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2024-860143792",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2024-860106954",
+ "source_lastmod": "2025-01-24",
+ "versions": [
+  {
+   "date": "2024-04-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "859875411",
+    "859875412",
+    "859875413",
+    "859875414",
+    "859875415",
+    "859875416",
+    "859875417",
+    "859875418",
+    "859875419",
+    "859875420",
+    "859875421",
+    "859875422",
+    "859875423",
+    "859875424",
+    "859875425",
+    "859875426",
+    "859875427",
+    "859875428",
+    "859875429",
+    "859875430",
+    "859875431",
+    "859875432",
+    "859875433",
+    "859875434",
+    "859875435",
+    "859875436",
+    "859875437",
+    "859875438",
+    "859875439",
+    "859875440",
+    "859875441",
+    "859875442",
+    "859875443",
+    "859875444"
+   ]
+  },
+  {
+   "date": "2025-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:904742818:por",
+     "title": "Decreto Regulamentar Regional n.º 6/2025/A",
+     "published": "2025-01-24",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/6-2025-904742818"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "859875411",
+    "859875412",
+    "859875413",
+    "859875414",
+    "859875415",
+    "859875416",
+    "859875417",
+    "859875418",
+    "859875419",
+    "859875420",
+    "859875421",
+    "859875422",
+    "859875423",
+    "859875424",
+    "859875425",
+    "859875426",
+    "859875427",
+    "859875428",
+    "904742968",
+    "859875430",
+    "859875431",
+    "859875432",
+    "859875433",
+    "859875434",
+    "859875435",
+    "859875436",
+    "859875437",
+    "859875438",
+    "859875439",
+    "859875440",
+    "859875441",
+    "859875442",
+    "859875443",
+    "859875444",
+    "859875445"
+   ]
+  }
+ ],
+ "fragments": {
+  "859875411": {
+   "fragment_id": "860143793",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 3/2024/A\n\nOrgânica do XIV Governo Regional dos Açores\n\nA estrutura orgânica do XIV Governo Regional dos Açores, aprovada pelo presente decreto regulamentar regional, no exercício de competência exclusiva própria, conferida pelo Estatuto Político-Administrativo da Região Autónoma dos Açores, reflete as opções tomadas para a governação da Região Autónoma dos Açores, expressando, nomeadamente, as orientações estratégicas assentes nas políticas públicas do XIV Governo Regional.\n\nA presente estrutura orgânica dá resposta aos desafios que os Açores vão enfrentar na XIII Legislatura da Assembleia Legislativa da Região Autónoma dos Açores, com expressão no Programa do Governo Regional.\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "859875412": {
+   "fragment_id": "860143794",
+   "type": 11,
+   "heading": "Artigo 1.º — Constituição do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Constituição do Governo Regional\n\nO Governo Regional é constituído pelo Presidente do Governo Regional, pelo Vice-Presidente do Governo Regional e pelos Secretários Regionais, previstos no presente diploma."
+  },
+  "859875413": {
+   "fragment_id": "860143795",
+   "type": 11,
+   "heading": "Artigo 2.º — Membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Membros do Governo Regional\n\nO Governo Regional é constituído pelos membros seguintes:\n\na) Presidente do Governo Regional;\n\nb) Vice-Presidente do Governo Regional;\n\nc) Secretário Regional das Finanças, Planeamento e Administração Pública;\n\nd) Secretário Regional dos Assuntos Parlamentares e Comunidades;\n\ne) Secretária Regional da Educação, Cultura e Desporto;\n\nf) Secretária Regional da Saúde e Segurança Social;\n\ng) Secretário Regional da Agricultura e Alimentação;\n\nh) Secretário Regional do Mar e das Pescas;\n\ni) Secretária Regional do Turismo, Mobilidade e Infraestruturas;\n\nj) Secretária Regional da Juventude, Habitação e Emprego;\n\nk) Secretário Regional do Ambiente e Ação Climática."
+  },
+  "859875414": {
+   "fragment_id": "860143796",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamentos do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Departamentos do Governo Regional\n\nOs departamentos que constituem o Governo Regional são os seguintes:\n\na) Presidência do Governo Regional (PGR);\n\nb) Vice-Presidência do Governo Regional (VPGR)\n\nc) Secretaria Regional das Finanças, Planeamento e Administração Pública (SRFPAP);\n\nd) Secretaria Regional dos Assuntos Parlamentares e Comunidades (SRAPC);\n\ne) Secretaria Regional da Educação, Cultura e Desporto (SRECD);\n\nf) Secretaria Regional da Saúde e Segurança Social (SRSSS);\n\ng) Secretaria Regional da Agricultura e Alimentação (SRAA);\n\nh) Secretaria Regional do Mar e das Pescas (SRMP);\n\ni) Secretaria Regional do Turismo, Mobilidade e Infraestruturas (SRTMI);\n\nj) Secretaria Regional da Juventude, Habitação e Emprego (SRJHE);\n\nk) Secretaria Regional do Ambiente e Ação Climática (SRAAC)."
+  },
+  "859875415": {
+   "fragment_id": "860143797",
+   "type": 11,
+   "heading": "Artigo 4.º — Sede dos departamentos do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sede dos departamentos do Governo Regional\n\n1 - A Presidência do Governo Regional, a Secretaria Regional das Finanças, Planeamento e Administração Pública, a Secretaria Regional dos Assuntos Parlamentares e Comunidades, a Secretaria Regional do Turismo, Mobilidade e Infraestruturas, a Secretaria Regional da Juventude, Habitação e Emprego e a Secretaria Regional do Ambiente e Ação Climática, ficam sediados na cidade de Ponta Delgada.\n\n2 - A Vice-Presidência do Governo Regional, a Secretaria Regional da Educação, Cultura e Desporto e a Secretaria Regional da Saúde e Segurança Social, ficam sediadas na cidade de Angra do Heroísmo.\n\n3 - A Secretaria Regional da Agricultura e Alimentação e a Secretaria Regional do Mar e das Pescas ficam sediadas na cidade da Horta."
+  },
+  "859875416": {
+   "fragment_id": "860143798",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do Presidente do Governo Regional\n\n1 - O Presidente do Governo Regional possui as competências próprias que lhe são conferidas pela Constituição da República Portuguesa, pelo Estatuto Político-Administrativo da Região Autónoma dos Açores, pela lei e, ainda, a competência delegada pelo Conselho do Governo Regional.\n\n2 - O Presidente do Governo Regional dirige superiormente os serviços, organismos, entidades e estruturas integradas na Presidência do Governo Regional.\n\n3 - O Presidente do Governo Regional pode delegar em qualquer membro do Governo Regional os poderes e competências que possui relativamente às matérias que, nos termos do presente diploma, são da sua competência própria, ou delegada, assistindo-lhe a faculdade de subdelegação.\n\n4 - O Presidente do Governo Regional pode delegar em qualquer membro do Governo Regional, com faculdade de subdelegação, as competências relativas aos organismos e serviços dele dependentes.\n\n5 - O Presidente do Governo Regional pode delegar no chefe do seu gabinete, com faculdade de subdelegação, as competências relativas às atribuições dos organismos e serviços dele dependentes, com o limite dos montantes para autorização de despesa legalmente previsto.\n\n6 - A competência atribuída por lei ou regulamento ao Governo Regional, ou ao respetivo Conselho do Governo Regional, no âmbito dos assuntos correntes da Administração Pública Regional, considera-se delegada no Presidente do Governo Regional, com faculdade de subdelegação em qualquer membro do Governo Regional.\n\n7 - Para além da competência genérica de coordenação global que lhe é própria, o Presidente do Governo Regional exerce os poderes que a lei confere ao Governo Regional nas matérias seguintes:\n\na) Relações com os órgãos de soberania, com o Representante da República para a Região Autónoma dos Açores, com a Assembleia Legislativa da Região Autónoma dos Açores e com as instituições da União Europeia;\n\nb) Relações com os sistemas de segurança, de justiça, de defesa e fiscalidade;\n\nc) Acordo de Cooperação e Defesa celebrado entre Portugal e os Estados Unidos da América;\n\nd) Comunicação institucional;\n\ne) Produção regulamentar, iniciativa e verificação legislativa formal;\n\nf) Jornal Oficial da Região Autónoma dos Açores;\n\ng) Cooperação com o poder local;\n\nh) Prevenção da corrupção e transparência;\n\ni) Coordenação dos assuntos relacionados com projetos e programas relativos ao Espaço, na Região Autónoma Açores;\n\nj) Coordenação e mediação das relações entre os departamentos do Governo Regional e o programa BLUEAZORES, bem como com a comunidade científica que apoia o Governo Regional na definição e redefinição da Rede Regional de Áreas Marinhas Protegidas dos Açores.\n\n8 - Sem prejuízo da coordenação que incumbe ao Presidente do Governo Regional, são, desde já, genericamente delegadas no Vice-Presidente do Governo Regional as competências relativas às relações com as instituições da União Europeia, bem como as relativas aos tratados e acordos internacionais que digam diretamente respeito à Região Autónoma dos Açores.\n\n9 - As competências previstas na alínea i) do n.º 7 podem ser delegadas em qualquer dos membros do Governo Regional previstos nas alíneas b) a k) do artigo 2.º"
+  },
+  "859875417": {
+   "fragment_id": "860143799",
+   "type": 11,
+   "heading": "Artigo 6.º — Substituição do Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Substituição do Presidente do Governo Regional\n\n1 - Nas suas ausências e impedimentos, o Presidente do Governo Regional é substituído pelo Vice-Presidente do Governo Regional.\n\n2 - Na impossibilidade de o Presidente do Governo Regional ser substituído pelo Vice-Presidente do Governo Regional, aquele é substituído pelo Secretário Regional que o mesmo entender indicar.\n\n3 - Para efeitos do disposto no número anterior, e no caso de não haver indicação expressa, a respetiva substituição segue a ordem prevista nas alíneas c) a k) do artigo 2.º\n\n4 - Para efeitos do disposto nos números anteriores, é publicado no Jornal Oficial o despacho de substituição do Presidente do Governo Regional."
+  },
+  "859875418": {
+   "fragment_id": "860143800",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências dos membros do Governo Regional\n\nO Vice-Presidente do Governo Regional e os Secretários Regionais possuem as competências próprias que o presente diploma, a lei e os regulamentos lhes atribuem, bem como aquelas que lhes forem delegadas pelo Conselho do Governo Regional ou por despacho do Presidente do Governo Regional."
+  },
+  "859875419": {
+   "fragment_id": "860143801",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do Vice-Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do Vice-Presidente do Governo Regional\n\n1 - O Vice-Presidente do Governo Regional exerce as suas competências nas matérias seguintes:\n\na) Cooperação externa, que diretamente respeite à Região Autónoma dos Açores;\n\nb) Promoção da captação de investimentos de capitais externos para a Região Autónoma dos Açores, nacionais ou estrangeiros;\n\nc) Promoção e divulgação no exterior, das potencialidades económicas da Região Autónoma dos Açores;\n\nd) Assuntos euro-atlânticos;\n\ne) Ciência, inovação e desenvolvimento;\n\nf) Relações, nas áreas da sua competência, com a Universidade dos Açores e demais instituições de ensino superior;\n\ng) Comunicações, transição digital, desenvolvimento e promoção da sociedade da informação;\n\nh) Cibersegurança.\n\n2 - O Vice-Presidente do Governo Regional dos Açores exerce, ainda, competências relativas ao acompanhamento do Acordo de Cooperação e Defesa celebrado entre Portugal e os Estados Unidos da América, bem como a função de porta-voz do Conselho do Governo Regional."
+  },
+  "859875420": {
+   "fragment_id": "860143802",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do Secretário Regional das Finanças, Planeamento e Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do Secretário Regional das Finanças, Planeamento e Administração Pública\n\nO Secretário Regional das Finanças, Planeamento e Administração Pública exerce as suas competências nas matérias seguintes:\n\na) Desenvolvimento e coesão regional;\n\nb) Orçamento e contabilidade pública;\n\nc) Finanças e património;\n\nd) Contribuições e impostos;\n\ne) Tesouro;\n\nf) Crédito e seguros;\n\ng) Planeamento;\n\nh) Gestão global de fundos europeus;\n\ni) Setor público empresarial regional;\n\nj) Fomento do empreendedorismo, da competitividade e da inovação empresarial;\n\nk) Fomento das exportações;\n\nl) Capital de risco;\n\nm) Promoção do investimento privado;\n\nn) Administração pública regional;\n\no) Modernização administrativa;\n\np) Assuntos eleitorais;\n\nq) Estatística;\n\nr) Polícia administrativa para a Região Autónoma dos Açores;\n\ns) Inspeção administrativa."
+  },
+  "859875421": {
+   "fragment_id": "860143803",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do Secretário Regional dos Assuntos Parlamentares e Comunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do Secretário Regional dos Assuntos Parlamentares e Comunidades\n\nO Secretário Regional dos Assuntos Parlamentares e Comunidades exerce as suas competências nas matérias seguintes:\n\na) Assuntos parlamentares;\n\nb) Comunicação social;\n\nc) Comunidades, emigração e imigração;\n\nd) Cooperação e articulação com as entidades nacionais competentes no que se refere aos fenómenos migratórios;\n\ne) Promoção e divulgação da língua e cultura portuguesa junto das comunidades de açorianos residentes no estrangeiro."
+  },
+  "859875422": {
+   "fragment_id": "860143804",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências da Secretária Regional da Educação, Cultura e Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências da Secretária Regional da Educação, Cultura e Desporto\n\nA Secretária Regional da Educação, Cultura e Desporto exerce as suas competências nas matérias seguintes:\n\na) Educação;\n\nb) Administração educativa;\n\nc) Desporto escolar e desporto para todos;\n\nd) Cultura;\n\ne) Inspeção da educação;\n\nf) Inspeção das atividades culturais;\n\ng) Fundos escolares."
+  },
+  "859875423": {
+   "fragment_id": "860143805",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências da Secretária Regional da Saúde e Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências da Secretária Regional da Saúde e Segurança Social\n\nA Secretária Regional da Saúde e Segurança Social exerce a suas competências nas matérias seguintes:\n\na) Saúde;\n\nb) Prevenção e combate às dependências;\n\nc) Unidades de Saúde de Ilha;\n\nd) Solidariedade e segurança social;\n\ne) Igualdade e inclusão social;\n\nf) Inspeção da saúde."
+  },
+  "859875424": {
+   "fragment_id": "860143806",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do Secretário Regional da Agricultura e Alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do Secretário Regional da Agricultura e Alimentação\n\nO Secretário Regional da Agricultura e Alimentação exerce as suas competências nas matérias seguintes:\n\na) Agricultura, pecuária, veterinária, ruralidade e alimentação;\n\nb) Segurança e abastecimento alimentar;\n\nc) Diversificação e sustentabilidade agrícola, pecuária e rural;\n\nd) Desenvolvimento rural;\n\ne) Valorização e promoção das produções agrorrurais regionais;\n\nf) Gestão e promoção da Marca Açores;\n\ng) Formação, investigação e vulgarização agrorrural;\n\nh) Proteção, gestão e valorização dos recursos florestais e cinegéticos;\n\ni) Ordenamento e gestão do território."
+  },
+  "859875425": {
+   "fragment_id": "860143807",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do Secretário Regional do Mar e das Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do Secretário Regional do Mar e das Pescas\n\nO Secretário Regional do Mar e das Pescas exerce as suas competências nas matérias seguintes:\n\na) Oceanografia, pescas e aquicultura;\n\nb) Valorização e preservação do meio marinho;\n\nc) Ordenamento do espaço marítimo até ao limite exterior da Zona Económica Exclusiva - Sub-Região Açores;\n\nd) Ordenamento e gestão da orla costeira das ilhas que constituem o arquipélago dos Açores;\n\ne) Gestão e administração do domínio público marítimo;\n\nf) Planeamento e gestão da Rede Regional de Áreas Marinhas Protegidas;\n\ng) Ordenamento e cogestão integrada com o Estado, do espaço marítimo para além do limite exterior da Zona Económica Exclusiva - Sub-Região Açores;\n\nh) Cooperação com a Autoridade Marítima Nacional;\n\ni) Colaboração com a investigação científica marinha;\n\nj) Atividades marítimas, incluindo as de índole turística;\n\nk) Inspeção das Pescas e de Usos Marítimos."
+  },
+  "859875426": {
+   "fragment_id": "860143808",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências da Secretária Regional do Turismo, Mobilidade e Infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências da Secretária Regional do Turismo, Mobilidade e Infraestruturas\n\nA Secretária Regional do Turismo, Mobilidade e Infraestruturas exerce as suas competências nas matérias seguintes:\n\na) Turismo;\n\nb) Transportes aéreos, marítimos e terrestres;\n\nc) Obras públicas;\n\nd) Apoio laboratorial a obras públicas e privadas;\n\ne) Energia;\n\nf) Inspeção do turismo."
+  },
+  "859875427": {
+   "fragment_id": "860143809",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências da Secretária Regional da Juventude, Habitação e Emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências da Secretária Regional da Juventude, Habitação e Emprego\n\nA Secretária Regional da Juventude, Habitação e Emprego exerce as suas competências nas matérias seguintes:\n\na) Juventude;\n\nb) Habitação;\n\nc) Políticas ativas de empregabilidade;\n\nd) Políticas de qualificação, formação profissional e de diminuição da precariedade laboral;\n\ne) Trabalho, formação e reconversão de ativos;\n\nf) Concorrência e defesa do consumidor;\n\ng) Artesanato;\n\nh) Inspeção das atividades económicas;\n\ni) Inspeção do trabalho."
+  },
+  "859875428": {
+   "fragment_id": "860143810",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências do Secretário Regional do Ambiente e Ação Climática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências do Secretário Regional do Ambiente e Ação Climática\n\nO Secretário Regional do Ambiente e Ação Climática exerce as suas competências nas matérias seguintes:\n\na) Ambiente;\n\nb) Prevenção, mitigação e adaptação aos efeitos das alterações climáticas;\n\nc) Desenvolvimento sustentável;\n\nd) Proteção e valorização da biodiversidade;\n\ne) Prevenção e gestão dos resíduos;\n\nf) Proteção, gestão e valorização dos recursos hídricos;\n\ng) Gestão do domínio público hídrico, com exceção do domínio público marítimo;\n\nh) Proteção, gestão e valorização da paisagem;\n\ni) Produção de cartografia de base e temática para a Região Autónoma dos Açores, bem como elaboração e atualização do cadastro predial;\n\nj) Proteção civil e bombeiros;\n\nk) Gestão dos riscos naturais e da ocorrência de fenómenos meteorológicos extremos;\n\nl) Conceção, dinamização e operacionalização de um sistema de resposta e socorro imediato a situações causadas pelos diferentes riscos naturais presentes nas ilhas do arquipélago dos Açores e da ocorrência de fenómenos meteorológicos extremos nas mesmas;\n\nm) Inspeção do ambiente."
+  },
+  "859875429": {
+   "fragment_id": "860143811",
+   "type": 11,
+   "heading": "Artigo 18.º — Direções regionais, serviços equiparados e outros serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direções regionais, serviços equiparados e outros serviços\n\nOs departamentos do Governo Regional referidos no artigo 3.º integram as direções regionais e serviços a elas equiparados, bem como outros serviços e organismos nos termos seguintes:\n\n1 - Presidência do Governo Regional:\n\na) Na ilha de São Miguel:\n\ni) Secretaria-Geral da Presidência;\n\nii) Centro de Consulta e Estudos Jurídicos do Governo Regional.\n\nb) Na ilha Terceira, a Direção Regional da Cooperação com o Poder Local.\n\n2 - Vice-Presidência do Governo Regional:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional dos Assuntos Europeus e Cooperação Externa;\n\nii) Direção Regional da Ciência, Inovação e Desenvolvimento;\n\niii) Direção Regional das Comunicações e da Transição Digital;\n\niv) Fundo Regional da Ciência e Tecnologia;\n\nv) NONAGON - Parque de Ciência e Tecnologia de São Miguel.\n\nb) Na ilha Terceira:\n\ni) Aerogare Civil das Lajes;\n\nii) PCTTER - Parque de Ciência e Tecnologia da Ilha Terceira, TERINOV.\n\n3 - Secretaria Regional das Finanças, Planeamento e Administração Pública:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional do Orçamento e Tesouro;\n\nii) Direção Regional do Empreendedorismo e Competitividade.\n\nb) Na ilha Terceira:\n\ni) Direção Regional do Planeamento e Fundos Estruturais;\n\nii) Direção Regional da Organização, Planeamento e Emprego Público;\n\niii) Serviço Regional de Estatística dos Açores;\n\niv) Inspeção Administrativa Regional;\n\nv) Agência para a Modernização Administrativa e Qualidade do Serviço ao Cidadão - RIAC.\n\n4 - Secretaria Regional dos Assuntos Parlamentares e Comunidades, na ilha de São Miguel, a Direção Regional das Comunidades.\n\n5 - Secretaria Regional da Educação, Cultura e Desporto, na ilha Terceira:\n\na) Direção Regional da Educação e Administração Educativa;\n\nb) Direção Regional da Cultura;\n\nc) Direção Regional do Desporto;\n\nd) Inspeção Regional da Educação;\n\ne) Inspeção Regional das Atividades Culturais;\n\nf) Fundos escolares.\n\n6 - Secretaria Regional da Saúde e Segurança Social:\n\na) Na ilha Terceira:\n\ni) Direção Regional da Saúde;\n\nii) Direção Regional de Prevenção e Combate às Dependências;\n\niii) Centro de Oncologia dos Açores;\n\niv) Direção Regional da Solidariedade Social;\n\nv) Direção Regional para a Promoção da Igualdade e Inclusão Social;\n\nvi) Inspeção Regional da Saúde;\n\nvii) Instituto da Segurança Social dos Açores, I. P. R. A. (ISSA).\n\nb) Nas ilhas de Santa Maria, São Miguel, Terceira, Graciosa, São Jorge, Pico, Faial, Flores e Corvo, as respetivas Unidades de Saúde de Ilha.\n\n7 - Secretaria Regional da Agricultura e Alimentação:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional dos Recursos Florestais e Ordenamento Territorial;\n\nii) Instituto de Alimentação e Mercados Agrícolas, I. P. R. A. (IAMA);\n\nb) Na ilha Terceira:\n\ni) Direção Regional da Agricultura, Veterinária e Alimentação;\n\nii) Direção Regional do Desenvolvimento Rural;\n\nc) Na ilha do Pico, o Instituto da Vinha e do Vinho dos Açores, I. P. R. A. (IVV Açores).\n\n8 - Secretaria Regional do Mar e das Pescas, na ilha do Faial:\n\na) Direção Regional de Políticas Marítimas;\n\nb) Direção Regional das Pescas;\n\nc) Inspeção Regional das Pescas e de Usos Marítimos;\n\nd) Fundo de Compensação Salarial dos Profissionais da Pesca dos Açores (FUNDOPESCA).\n\n9 - Secretaria Regional do Turismo, Mobilidade e Infraestruturas:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional da Mobilidade;\n\nii) Direção Regional das Obras Públicas;\n\niii) Direção Regional da Energia;\n\niv) Laboratório Regional de Engenharia Civil;\n\nv) Inspeção Regional do Turismo;\n\nvi) Fundo Regional dos Transportes Terrestres;\n\nvii) Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico.\n\nb) Na ilha do Faial, a Direção Regional do Turismo.\n\n10 - Secretaria Regional da Juventude, Habitação e Emprego, na ilha de São Miguel:\n\na) Direção Regional da Juventude;\n\nb) Direção Regional da Habitação;\n\nc) Direção Regional de Qualificação Profissional e Emprego;\n\nd) Inspeção Regional das Atividades Económicas;\n\ne) Inspeção Regional do Trabalho;\n\nf) Fundo Regional do Emprego;\n\ng) Centro de Qualificação dos Açores, I. P. R. A., (CQA, IPRA).\n\n11 - Secretaria Regional do Ambiente e Ação Climática:\n\na) Na ilha do Faial:\n\ni) Direção Regional do Ambiente e Ação Climática;\n\nii) Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores - ERSARA.\n\nb) Na ilha Terceira;\n\ni) Inspeção Regional do Ambiente;\n\nii) Serviço Regional de Proteção Civil e Bombeiros dos Açores.\n\n12 - Para efeitos do disposto na subalínea ii) da alínea a) do n.º 1, o Centro de Consulta e Estudos Jurídicos do Governo Regional é dirigido por um diretor, equiparado, para todos os efeitos legais, a cargo de direção superior de 1.º grau, nos termos do Estatuto do Pessoal Dirigente dos Organismos da Administração Regional.\n\n13 - A Inspeção Administrativa Regional, prevista na subalínea iv) da alínea b) do n.º 3, a Inspeção Regional da Educação e a Inspeção Regional das Atividades Culturais, previstas nas alíneas d) e e) do n.º 5, respetivamente, a Inspeção Regional da Saúde, prevista na subalínea vi) da alínea a) do n.º 6, a Inspeção Regional das Pescas e de Usos Marítimos, prevista na alínea c) do n.º 8, a Inspeção Regional do Turismo, prevista na subalínea v) da alínea a) do n.º 9, a Inspeção Regional das Atividades Económicas e a Inspeção Regional do Trabalho, previstas nas alíneas d) e e) do n.º 10, respetivamente, e a Inspeção Regional do Ambiente prevista na subalínea i) da alínea b) do n.º 11, são dirigidas por inspetores regionais, cargos equiparados, para todos os efeitos legais, a cargo de direção superior de 2.º grau, nos termos do Estatuto do Pessoal Dirigente dos Organismos da Administração Regional.\n\n14 - Os diretores regionais, subdiretores regionais, secretáriogeral, inspetores regionais e demais cargos equiparados ao cargo de direção superior de 1.º ou 2.º graus referidos na subalínea i) da alínea a) do n.º 1 e nos n.<sup>os </sup>12 e 13 são nomeados nos termos do Estatuto do Pessoal Dirigente dos Organismos da Administração Regional."
+  },
+  "859875430": {
+   "fragment_id": "860143812",
+   "type": 11,
+   "heading": "Artigo 19.º — Setor empresarial regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Setor empresarial regional\n\nA superintendência e a tutela setorial e financeira da administração pública regional indireta, das empresas do setor público empresarial regional, das sociedades participadas ou a elas equiparadas, são exercidas, conjuntamente, pelos membros do Governo Regional que tenham, a seu cargo, os setores em que se integram e pelo membro do Governo Regional com competência em matéria de finanças, sem prejuízo do disposto no Decreto Legislativo Regional n.º 7/2008/A, de 24 de março, que estabelece o regime jurídico do setor público empresarial da Região Autónoma dos Açores, na sua redação atual."
+  },
+  "859875431": {
+   "fragment_id": "860143813",
+   "type": 11,
+   "heading": "Artigo 20.º — Alterações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alterações orgânicas\n\n1 - As referências feitas em diplomas legais aos departamentos do Governo Regional alterados ou extintos pelo presente diploma consideram-se, para todos os efeitos legais, reportadas aos departamentos do Governo Regional que lhes sucedam nas suas atribuições e competências, nos termos do presente diploma.\n\n2 - As alterações nos serviços executivos que integravam os departamentos do Governo Regional decorrentes da norma revogatória constante do artigo 31.º, consideram-se reportadas às competências dos departamentos do Governo Regional referidos no presente diploma.\n\n3 - Nos termos da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, os departamentos do Governo Regional procedem às reestruturações orgânicas decorrentes do presente diploma, devendo, no prazo de 90 dias, a contar da data de entrada em vigor do presente diploma, submeter, ao Conselho do Governo Regional, as suas propostas de decreto regulamentar regional que consagrem as alterações orgânicas e de competências que se revelem necessárias."
+  },
+  "859875432": {
+   "fragment_id": "860143814",
+   "type": 11,
+   "heading": "Artigo 21.º — Movimentação de trabalhadores em funções públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Movimentação de trabalhadores em funções públicas\n\n1 - As alterações na estrutura orgânica são acompanhadas pela consequente movimentação de trabalhadores em funções públicas, sem dependência de quaisquer formalidades e sem prejuízo dos respetivos direitos consagrados na lei.\n\n2 - A movimentação de trabalhadores em funções públicas referida no número anterior não pode implicar a deslocação do trabalhador para ilha diferente daquela onde o mesmo presta serviço, sem a sua prévia anuência.\n\n3 - Os procedimentos concursais para recrutamento de trabalhadores em funções públicas, pendentes à data da entrada em vigor do presente diploma, mantêm-se válidos, sendo os lugares a prover os que lhes corresponderem na nova orgânica do Governo Regional agora aprovada.\n\n4 - Os trabalhadores em funções públicas que se encontrem na situação de licença mantêm os direitos que detinham à data do seu início, nos termos da legislação aplicável.\n\n5 - A Secretaria Regional das Finanças, Planeamento e Administração Pública procede à publicação na Bolsa de Emprego Público - Açores das listas nominativas atualizadas de afetação de trabalhadores em funções públicas de cada serviço e organismo, dentro de cada quadro regional de ilha, sem prejuízo das regras da mobilidade e da cedência de interesse público previstas na lei."
+  },
+  "859875433": {
+   "fragment_id": "860143815",
+   "type": 11,
+   "heading": "Artigo 22.º — Reafetação de trabalhadores em funções públicas e património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reafetação de trabalhadores em funções públicas e património\n\nAté à aprovação das orgânicas e das listas nominativas de afetação de trabalhadores em funções públicas dos departamentos do Governo Regional criados pelo presente diploma, a reafetação dos mesmos e do património daqueles departamentos é efetuada por despacho do Secretário Regional das Finanças, Planeamento e Administração Pública."
+  },
+  "859875434": {
+   "fragment_id": "860143816",
+   "type": 11,
+   "heading": "Artigo 23.º — Comissões de serviço do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comissões de serviço do pessoal dirigente\n\nAté à designação dos novos titulares, mantêm-se em regime de gestão corrente os atuais titulares dos cargos de direção superior de 1.º e 2.º graus, ou equiparados, dos serviços e entidades na dependência dos membros do Governo Regional referidos no artigo 2.º, aplicando-se, para os devidos efeitos, o regime previsto nos n.<sup>os </sup>3 e 4 do artigo 24.º da Lei n.º 2/2004, de 15 de janeiro, na sua redação atual."
+  },
+  "859875435": {
+   "fragment_id": "860143817",
+   "type": 11,
+   "heading": "Artigo 24.º — Transferência de competências, direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Transferência de competências, direitos e obrigações\n\nAs competências, os direitos e as obrigações, bem como os respetivos arquivos, de que eram titulares os departamentos, organismos ou serviços objeto de alteração, por força do presente diploma, são automaticamente transferidos para os correspondentes novos departamentos, organismos ou serviços que os substituem ou que os passam a integrar, em razão da respetiva matéria de competências, sem dependência de quaisquer formalidades."
+  },
+  "859875436": {
+   "fragment_id": "860143818",
+   "type": 11,
+   "heading": "Artigo 25.º — Atos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Atos financeiros\n\nTodos os atos dos membros do Governo Regional decorrentes das alterações na estrutura orgânica do Governo Regional aprovada pelo presente diploma, e que envolvam aumento de despesas ou diminuição de receitas, ficam sujeitos à aprovação do Secretário Regional das Finanças, Planeamento e Administração Pública."
+  },
+  "859875437": {
+   "fragment_id": "860143819",
+   "type": 11,
+   "heading": "Artigo 26.º — Encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Encargos orçamentais\n\n1 - Até à entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2024, mantém-se a expressão orçamental da estrutura do Governo Regional anterior, com as adaptações decorrentes do estabelecido nos números seguintes.\n\n2 - Os encargos com os departamentos e os gabinetes dos membros do Governo Regional criados ou reestruturados, bem como os relativos aos serviços objeto de alteração de enquadramento orgânico por força do presente diploma, são assegurados com recurso às verbas anteriormente afetas às estruturas que prosseguiam as respetivas atribuições e competências.\n\n3 - Compete ao Secretário Regional das Finanças, Planeamento e Administração Pública providenciar e implementar a efetiva reafetação de verbas necessárias ao funcionamento da nova estrutura governamental, em estreita coordenação com os respetivos membros do Governo Regional, mediante propostas fundamentadas dos mesmos.\n\n4 - Nos serviços extintos por força do presente diploma, os processos de despesa em curso, em fase de fatura já registada ou de pedido de autorização de pagamento, devem ser concluídos nesse serviço e constar do respetivo processo de prestação de contas."
+  },
+  "859875438": {
+   "fragment_id": "860143820",
+   "type": 11,
+   "heading": "Artigo 27.º — Composição dos gabinetes dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Composição dos gabinetes dos membros do Governo Regional\n\n1 - Na composição dos gabinetes do Presidente, do Vice-Presidente e dos restantes membros do Governo Regional aplicam-se as disposições do Decreto Regulamentar Regional n.º 18/99/A, de 21 de dezembro, com as especificidades previstas nas alíneas e números seguintes:\n\na) O Presidente do Governo Regional, no exercício das suas funções, é apoiado por um gabinete composto por um chefe de gabinete, três secretários pessoais, um máximo de sete assessores e um máximo de quatro motoristas;\n\nb) O Vice-Presidente do Governo Regional, no exercício das suas funções, é apoiado por um gabinete composto por um chefe de gabinete, dois secretários pessoais, um máximo de cinco adjuntos e um máximo de dois motoristas.\n\n2 - Os secretários pessoais previstos na alínea a) do número anterior auferem uma remuneração mensal ilíquida correspondente a 55 % da remuneração fixada para os cargos de direção superior de 1.º grau.\n\n3 - Os motoristas previstos na alínea a) do n.º 1 auferem uma remuneração mensal ilíquida correspondente a 40 % da remuneração fixada para os cargos de direção superior de 1.º grau.\n\n4 - Aos secretários pessoais do Presidente do Governo Regional, previstos na alínea a) do n.º 1 é atribuído suplemento remuneratório, pago mensalmente, 12 vezes por ano, que corresponde a 10 % da remuneração base, de modo a compensar as condições especiais em que prestam serviço.\n\n5 - Aos motoristas previstos na alínea a) do n.º 1 é atribuído um suplemento remuneratório, pago mensalmente, 12 vezes por ano, que corresponde a 35 % da remuneração base, de modo a compensar as condições especiais de serviço, os riscos inerentes às suas funções incluindo lavagem de viaturas ao serviço do gabinete."
+  },
+  "859875439": {
+   "fragment_id": "860143821",
+   "type": 11,
+   "heading": "Artigo 28.º — Regime de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regime de funcionamento\n\nAo funcionamento do XIV Governo Regional dos Açores é aplicável o Decreto Regulamentar Regional n.º 13/2022/A, de 2 de setembro, que aprova o Regime de funcionamento do Governo Regional dos Açores."
+  },
+  "859875440": {
+   "fragment_id": "860143822",
+   "type": 11,
+   "heading": "Artigo 29.º — Cartões de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cartões de identificação\n\n1 - Aos membros do Governo Regional é atribuído um documento de identificação e de livre-trânsito, nos termos de modelo a aprovar por portaria do Presidente do Governo Regional e do Secretário Regional das Finanças, Planeamento e Administração Pública.\n\n2 - O modelo do documento de identificação e de livre-trânsito a que se refere o n.º 7 do artigo 6.º do Decreto Regulamentar Regional n.º 18/99/A, de 21 de dezembro, é aprovado nos termos do previsto no número anterior."
+  },
+  "859875441": {
+   "fragment_id": "860143823",
+   "type": 11,
+   "heading": "Artigo 30.º — Atos de delegação de poderes do Conselho do Governo Regional no XIII Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Atos de delegação de poderes do Conselho do Governo Regional no XIII Governo Regional\n\nPara efeitos do disposto no artigo 50.º do Código do Procedimento Administrativo, os atos de delegação de poderes efetuados pelo Conselho do Governo Regional nos respetivos membros do Governo Regional, no âmbito do Decreto Regulamentar Regional n.º 6/2022/A, de 29 de abril, retificado pela Declaração de Retificação n.º 3/2022/A, de 28 de junho, que ainda não esgotaram todos os seus efeitos, não se extinguem, considerando-se as delegações efetuadas nos membros do Governo Regional que os sucederem nas suas atribuições e competências nos termos do presente diploma."
+  },
+  "859875442": {
+   "fragment_id": "860143824",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nPelo presente diploma é revogado o Decreto Regulamentar Regional n.º 6/2022/A, de 29 de abril, que aprovou a nova orgânica do XIII Governo Regional."
+  },
+  "859875443": {
+   "fragment_id": "860143825",
+   "type": 11,
+   "heading": "Artigo 32.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Produção de efeitos\n\n1 - O presente diploma produz efeitos a 4 de março de 2024, considerando-se ratificados todos os atos praticados pelos membros do Governo Regional.\n\n2 - Em tudo o que não contrarie o Decreto Regulamentar Regional n.º 6/2022/A, de 29 de abril, na sua última redação, consideram-se, ainda, ratificados os atos praticados pelos dirigentes superiores da administração regional autónoma, e equiparados, até à designação de novo titular ou à respetiva recondução no cargo.\n\n3 - O regime remuneratório previsto nos n.<sup>os </sup>2 a 5 do artigo 27.º produz efeitos à data das respetivas nomeações."
+  },
+  "859875444": {
+   "fragment_id": "860143826",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte da sua publicação."
+  },
+  "904742968": {
+   "fragment_id": "860143811",
+   "type": 11,
+   "heading": "Artigo 18.º — Direções regionais, serviços equiparados e outros serviços",
+   "in_force_from": "2025-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2025/A - Diário da República n.º 17/2025, Série I de 2025-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2025-904742818), em vigor a partir de 2025-01-25"
+   ],
+   "markdown": "###### Artigo 18.º — Direções regionais, serviços equiparados e outros serviços\n\nOs departamentos do Governo Regional referidos no artigo 3.º integram as direções regionais e serviços a elas equiparados, bem como outros serviços e organismos nos termos seguintes:\n\n1 - Presidência do Governo Regional:\n\na) Na ilha de São Miguel:\n\ni) Secretaria-Geral da Presidência;\n\nii) Centro de Consulta e Estudos Técnico-Jurídicos do Governo Regional;\n\nb) Na ilha Terceira, a Direção Regional da Cooperação com o Poder Local.\n\n2 - Vice-Presidência do Governo Regional:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional dos Assuntos Europeus e Cooperação Externa;\n\nii) Direção Regional da Ciência, Inovação e Desenvolvimento;\n\niii) Direção Regional das Comunicações e da Transição Digital;\n\niv) Fundo Regional da Ciência e Tecnologia;\n\nv) NONAGON - Parque de Ciência e Tecnologia de São Miguel.\n\nb) Na ilha Terceira:\n\ni) Aerogare Civil das Lajes;\n\nii) PCTTER - Parque de Ciência e Tecnologia da Ilha Terceira, TERINOV.\n\n3 - Secretaria Regional das Finanças, Planeamento e Administração Pública:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional do Orçamento e Tesouro;\n\nii) Direção Regional do Empreendedorismo e Competitividade.\n\nb) Na ilha Terceira:\n\ni) Direção Regional do Planeamento e Fundos Estruturais;\n\nii) Direção Regional da Organização, Planeamento e Emprego Público;\n\niii) Serviço Regional de Estatística dos Açores;\n\niv) Inspeção Administrativa Regional;\n\nv) Agência para a Modernização Administrativa e Qualidade do Serviço ao Cidadão - RIAC.\n\n4 - Secretaria Regional dos Assuntos Parlamentares e Comunidades, na ilha de São Miguel, a Direção Regional das Comunidades.\n\n5 - Secretaria Regional da Educação, Cultura e Desporto, na ilha Terceira:\n\na) Direção Regional da Educação e Administração Educativa;\n\nb) Direção Regional da Cultura;\n\nc) Direção Regional do Desporto;\n\nd) Inspeção Regional da Educação;\n\ne) Inspeção Regional das Atividades Culturais;\n\nf) Fundos escolares.\n\n6 - Secretaria Regional da Saúde e Segurança Social:\n\na) Na ilha Terceira:\n\ni) Direção Regional da Saúde;\n\nii) Direção Regional de Prevenção e Combate às Dependências;\n\niii) Centro de Oncologia dos Açores;\n\niv) Direção Regional da Solidariedade Social;\n\nv) Direção Regional para a Promoção da Igualdade e Inclusão Social;\n\nvi) Inspeção Regional da Saúde;\n\nvii) Instituto da Segurança Social dos Açores, I. P. R. A. (ISSA).\n\nb) Nas ilhas de Santa Maria, São Miguel, Terceira, Graciosa, São Jorge, Pico, Faial, Flores e Corvo, as respetivas Unidades de Saúde de Ilha.\n\n7 - Secretaria Regional da Agricultura e Alimentação:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional dos Recursos Florestais e Ordenamento Territorial;\n\nii) Instituto de Alimentação e Mercados Agrícolas, I. P. R. A. (IAMA);\n\nb) Na ilha Terceira:\n\ni) Direção Regional da Agricultura, Veterinária e Alimentação;\n\nii) Direção Regional do Desenvolvimento Rural;\n\nc) Na ilha do Pico, o Instituto da Vinha e do Vinho dos Açores, I. P. R. A. (IVV Açores).\n\n8 - Secretaria Regional do Mar e das Pescas, na ilha do Faial:\n\na) Direção Regional de Políticas Marítimas;\n\nb) Direção Regional das Pescas;\n\nc) Inspeção Regional das Pescas e de Usos Marítimos;\n\nd) Fundo de Compensação Salarial dos Profissionais da Pesca dos Açores (FUNDOPESCA).\n\n9 - Secretaria Regional do Turismo, Mobilidade e Infraestruturas:\n\na) Na ilha de São Miguel:\n\ni) Direção Regional da Mobilidade;\n\nii) Direção Regional das Obras Públicas;\n\niii) Direção Regional da Energia;\n\niv) Laboratório Regional de Engenharia Civil;\n\nv) Inspeção Regional do Turismo;\n\nvi) Fundo Regional dos Transportes Terrestres;\n\nvii) Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico.\n\nb) Na ilha do Faial, a Direção Regional do Turismo.\n\n10 - Secretaria Regional da Juventude, Habitação e Emprego, na ilha de São Miguel:\n\na) Direção Regional da Juventude;\n\nb) Direção Regional da Habitação;\n\nc) Direção Regional de Qualificação Profissional e Emprego;\n\nd) Inspeção Regional das Atividades Económicas;\n\ne) Inspeção Regional do Trabalho;\n\nf) Fundo Regional do Emprego;\n\ng) Centro de Qualificação dos Açores, I. P. R. A., (CQA, IPRA).\n\n11 - Secretaria Regional do Ambiente e Ação Climática:\n\na) Na ilha do Faial:\n\ni) Direção Regional do Ambiente e Ação Climática;\n\nii) Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores - ERSARA.\n\nb) Na ilha Terceira;\n\ni) Inspeção Regional do Ambiente;\n\nii) Serviço Regional de Proteção Civil e Bombeiros dos Açores.\n\n12 - Para efeitos do disposto na subalínea ii) da alínea a) do n.º 1, o Centro de Consulta e Estudos Técnico-Jurídicos do Governo Regional é dirigido por um consultor-coordenador, equiparado, para todos os efeitos legais, a cargo de direção superior de 1.º grau, nos termos do Estatuto do Pessoal Dirigente dos Organismos da Administração Regional.\n\n13 - A Inspeção Administrativa Regional, prevista na subalínea iv) da alínea b) do n.º 3, a Inspeção Regional da Educação e a Inspeção Regional das Atividades Culturais, previstas nas alíneas d) e e) do n.º 5, respetivamente, a Inspeção Regional da Saúde, prevista na subalínea vi) da alínea a) do n.º 6, a Inspeção Regional das Pescas e de Usos Marítimos, prevista na alínea c) do n.º 8, a Inspeção Regional do Turismo, prevista na subalínea v) da alínea a) do n.º 9, a Inspeção Regional das Atividades Económicas e a Inspeção Regional do Trabalho, previstas nas alíneas d) e e) do n.º 10, respetivamente, e a Inspeção Regional do Ambiente prevista na subalínea i) da alínea b) do n.º 11, são dirigidas por inspetores regionais, cargos equiparados, para todos os efeitos legais, a cargo de direção superior de 2.º grau, nos termos do Estatuto do Pessoal Dirigente dos Organismos da Administração Regional.\n\n14 - Os diretores regionais, subdiretores regionais, secretáriogeral, inspetores regionais e demais cargos equiparados ao cargo de direção superior de 1.º ou 2.º graus referidos na subalínea i) da alínea a) do n.º 1 e nos n.<sup>os </sup>12 e 13 são nomeados nos termos do Estatuto do Pessoal Dirigente dos Organismos da Administração Regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2025/A - Diário da República n.º 17/2025, Série I de 2025-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2025-904742818), em vigor a partir de 2025-01-25"
+  },
+  "859875445": {
+   "fragment_id": "860143827",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de março de 2024.\n\nO Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.\n\nAssinado em Angra do Heroísmo em 5 de abril de 2024.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n117572208"
+  }
+ }
+}

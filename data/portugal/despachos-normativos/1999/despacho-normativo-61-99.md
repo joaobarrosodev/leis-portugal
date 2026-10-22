@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:682838:por
+title: Despacho Normativo n.º 61/99
+short_title: null
+summary: Altera o Despacho Normativo n.º 46/97, de 8 de Agosto (estabelece as orientações relativas à instalação e funcionamento
+  das agências de acompanhamento dos serviços de saúde junto das administrações regionais de saúde)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 61/99
+official_date: null
+publication_date: '1999-11-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 264/1999, Série I-B de 1999-11-12
+  number: '264'
+  series: I
+  supplement: null
+  pages: 7959 - 7960
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/11/264b00/79597960.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/61/1999/11/12/p/dre/pt/html
+  oj: null
+  dre: '682838'
+  dre_path: /dr/detalhe/despacho-normativo/61-1999-682838
+  internal: pt:dre:682838:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-1999-682838
+  metadata_url: https://data.dre.pt/eli/despnorm/61/1999/11/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-1999-682838
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-11-12T00:00:00Z'
+integrity:
+  source_sha256: 4304193964b841bb49b34d8faff0ec4bb12fecd2fc8bd112a15568f01adfec03
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-61-682838.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência de Acompanhamento dos Serviços de Saúde
+- Agência de Contratualização dos Serviços de Saúde
+- Direção Geral da Saúde
+- Serviço de Saúde
+- Definição de Competências
+- Administração Regional de Saúde
+- Política de Saúde
+- Instituto de Gestão Informática e Financeira da Saúde
+- Conselho Nacional das Agências
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/282/1997/10/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/282/1997/10/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/46/1997/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/46/1997/08/08/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 61/99
+
+Através do [Despacho Normativo n.º 46/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1997-204204), de 8 de Agosto, foram estabelecidas as orientações para a instalação e funcionamento das agências de acompanhamento dos serviços de saúde junto das administrações regionais de saúde.
+
+Embora já relevante, a actividade das agências tem-se ressentido da falta de coordenação efectiva, a nível central, quer no que respeita ao relacionamento entre si e com as diversas administrações regionais de saúde quer no que respeita à necessária articulação com os serviços centrais do Ministério da Saúde com competências nas áreas do planeamento e do financiamento.
+
+Importa, pois, criar condições que facilitem a concertação entre os serviços e organismos com implicações no funcionamento das agências para que estas possam prosseguir processos uniformizados, a nível nacional, sob coordenação eficaz dos órgãos centrais do Ministério da Saúde com atribuições de planeamento estratégico da saúde e da normalização e controlo da aplicação dos recursos financeiros para a concretização das estratégias de saúde nacional.
+
+Este desiderato pode e deve ser alcançado pela via da articulação funcional entre os órgãos dos serviços do Ministério da Saúde, no âmbito da prossecução das atribuições relacionadas com o funcionamento das agências.
+
+Nestes termos, ao abrigo do disposto nos artigos 1.º e 2.º, n.º 1, do [Decreto-Lei n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1993-586004), de 15 de Janeiro, e dos artigos 1.º e 2.º do [Decreto-Lei n.º 335/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1993-651705), de 29 de Setembro, determino o seguinte:
+
+1 - As agências de acompanhamento dos serviços de saúde criadas pelo [Despacho Normativo n.º 46/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1997-204204), de 8 de Agosto, passam a designar-se agências de contratualização dos serviços de saúde (ACSS).
+
+2 - É alterado o n.º 6 do [Despacho Normativo n.º 46/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1997-204204), de 8 de Agosto, que passa a ter a seguinte redacção:
+
+«6 - As agências de contratualização dos serviços de saúde articulam-se entre si, com as administrações regionais de saúde e com os serviços do Ministério da Saúde com atribuições nas áreas do planeamento estratégico e do financiamento, nos termos do presente despacho.»
+
+3 - São aditados ao [Despacho Normativo n.º 46/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1997-204204), de 8 de Agosto, os seguintes números:
+
+«7 - O Conselho Nacional das Agências é o órgão coordenador das agências de contratualização dos serviços de saúde, com vista à articulação permanente e activa ao mais alto nível entre a Direcção-Geral da Saúde, o Instituto de Gestão Informática e Financeira da Saúde e as administrações regionais de saúde, na prossecução das atribuições que a cada um destes serviços e organismos estão cometidas pelas respectivas leis orgânicas, correlacionadas com o funcionamento das agências.
+
+7.1 - Integram o Conselho Nacional das Agências:
+
+a) Um representante da Direcção-Geral da Saúde;
+
+b) Um representante do Instituto de Gestão Informática e Financeira da Saúde;
+
+c) Um representante de cada administração regional de saúde;
+
+d) Um representante de cada agência;
+
+e) Um membro a nomear pelo Ministro da Saúde, em representação dos utentes.
+
+7.2 - São atribuições do Conselho Nacional das Agências:
+
+a) Promover a obtenção, cruzamento e análise concertada da informação especializada relevante para o funcionamento das agências, recolhida ou produzida por cada um dos serviços e organismos representados;
+
+b) Promover acções concertadas na prossecução das respectivas atribuições, no âmbito do funcionamento das agências;
+
+c) Assegurar o estabelecimento de normas gerais de funcionamento das agências e proceder ao respectivo acompanhamento.
+
+7.3 - O funcionamento do Conselho Nacional das Agências consta de regulamento interno a aprovar na primeira reunião, na qual será escolhido o presidente, bem como a comissão executiva.
+
+8 - O Conselho Nacional das Agências e a comissão executiva funcionam em instalações cedidas pela Direcção-Geral da Saúde e são apoiados por um secretariado permanente, ao qual compete assegurar o apoio técnico e administrativo necessário.
+
+8.1 - No âmbito do apoio técnico, compete ao secretariado permanente, em ligação e colaboração com os serviços participantes e outras entidades relevantes, identificar, seleccionar, sintetizar e disponibilizar ao Conselho Nacional das Agências informação e conhecimentos actualizados sobre:
+
+a) Estratégias, modalidades e graus de desenvolvimento local, regional e nacional de participação do cidadão no sistema de saúde;
+
+b) Análises epidemiológicas e identificação de necessidades de saúde;
+
+c) Métodos de financiamento e de pagamento de cuidados;
+
+d) Sistemas de informação e informática;
+
+e) Processos de negociação, contratualização, análise e avaliação organizacional.
+
+8.2 - O pessoal necessário ao funcionamento do secretariado permanente é designado pelos dirigentes máximos das entidades públicas representadas no Conselho Nacional das Agências, mediante proposta do seu presidente.
+
+8.3 - O exercício de funções no secretariado permamente é considerado para todos os efeitos como prestado no serviço a que o respectivo pessoal pertence e por onde continua a ser remunerado.»
+
+4 - As despesas decorrentes da aplicação do presente despacho são suportadas pelo Instituto de Gestão Informática e Financeira da Saúde, nos termos do [Decreto-Lei n.º 282/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1997-668109), de 18 de Outubro.
+
+5 - O presente despacho entra em vigor no dia imediato ao da sua publicação.
+
+Ministério da Saúde, 1 de Setembro de 1999. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

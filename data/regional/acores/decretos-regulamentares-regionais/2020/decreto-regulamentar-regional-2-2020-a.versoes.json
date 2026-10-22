@@ -1,0 +1,431 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:128515585:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-137040877",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-2020-128515585",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-01-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162069874",
+    "137239476",
+    "137239477",
+    "137239478",
+    "137239479",
+    "137239480",
+    "137239481",
+    "137239482",
+    "137239483",
+    "137239484",
+    "137239485",
+    "137239486",
+    "137239487"
+   ]
+  },
+  {
+   "date": "2020-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:137126900:por",
+     "title": "Decreto Regulamentar Regional n.º 15/2020/A",
+     "published": "2020-07-03",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/15-2020-137126900"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A"
+   ],
+   "fragments": [
+    "137239475",
+    "137239476",
+    "137239477",
+    "137239478",
+    "137239479",
+    "137025997",
+    "137025998",
+    "137025999",
+    "137026000",
+    "137026001",
+    "137026002",
+    "137026003",
+    "137026004",
+    "137026005",
+    "137026006"
+   ]
+  },
+  {
+   "date": "2021-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:162067645:por",
+     "title": "Decreto Regulamentar Regional n.º 4/2021/A",
+     "published": "2021-04-26",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162069874",
+    "162159275",
+    "162159276",
+    "162159277",
+    "162159278",
+    "162159279",
+    "162159280",
+    "162159281",
+    "162159282",
+    "162159283",
+    "162159284",
+    "162159285",
+    "162159286",
+    "162159287",
+    "162159288"
+   ]
+  }
+ ],
+ "fragments": {
+  "162069874": {
+   "fragment_id": "137040878",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-04-27",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 2/2020/A\n\nSumário: Atribuição de incentivos financeiros para a aquisição de veículos elétricos e de pontos de carregamento.\n\nAtribuição de incentivos financeiros para a aquisição de veículos elétricos e de pontos de carregamento\n\nA aposta na mobilidade elétrica é uma opção estratégica da política energética e ambiental do Governo Regional dos Açores, considerando o seu papel relevante na persecução dos objetivos do desenvolvimento sustentável, bem como na descarbonização da economia, na mitigação dos efeitos das alterações climáticas, na melhoria da eficiência energética e na melhoria da qualidade ambiental, com efeitos na saúde pública.\n\nNo setor dos transportes, nomeadamente nos transportes terrestres, a progressiva e crescente utilização de veículos elétricos potencia a utilização dos recursos energéticos endógenos e renováveis no sistema eletroprodutor e garante a redução do ruído e das emissões de gases com efeito estufa, bem como a melhoria da qualidade do ar.\n\nUma enorme vantagem da mobilidade elétrica para o setor energético é a opção de carregamento dos veículos elétricos em períodos de vazio, através da adesão a tarifas de eletricidade diferenciadas no tempo que privilegiem o carregamento doméstico e noturno das baterias dos veículos elétricos. Esta opção contribui para a redução significativa de custos para o utilizador, bem como para a otimização do sistema eletroprodutor da Região.\n\nA implementação da mobilidade elétrica é, assim, imprescindível para a aposta no novo paradigma na mobilidade sustentável, através da substituição progressiva de veículos de combustão interna por veículos elétricos.\n\nNeste sentido, justifica-se a atribuição de incentivos financeiros destinados à aquisição, por pessoas singulares ou coletivas, de veículos elétricos, com o objetivo de concretizar nos Açores, de forma mais célere, os objetivos do combate às alterações climáticas, na vertente da mitigação, e do desenvolvimento sustentável.\n\nNos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 8 do artigo 5.º do Decreto Legislativo Regional n.º 21/2019/A, de 8 de agosto, o Governo Regional decreta o seguinte:"
+  },
+  "137239476": {
+   "fragment_id": "137040879",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente diploma regulamenta a atribuição de incentivos financeiros para aquisição de veículos elétricos novos, nomeadamente veículos automóveis ligeiros, motociclos de duas rodas ou ciclomotores, triciclos motorizados ou quadriciclos e velocípedes com motor, adquiridos na Região Autónoma dos Açores por pessoas singulares ou coletivas com domicílio fiscal na mesma.\n\n2 - O presente diploma regulamenta, ainda, a atribuição de incentivos financeiros para a aquisição de pontos de carregamento de veículo elétricos, por pessoas singulares e coletivas com domicílio fiscal na Região Autónoma dos Açores."
+  },
+  "137239477": {
+   "fragment_id": "137040880",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Veículos automóveis ligeiros», os veículos automóveis ligeiros de passageiros e mercadorias novos, exclusivamente elétricos, das categorias M1 e N1, conforme classificação do departamento do Governo Regional com competência em matérias de transportes, e devidamente homologados;\n\nb) «Motociclos de duas rodas ou ciclomotores», os motociclos de duas rodas da categoria L3e, ou ciclomotores da categoria L1e-B, exclusivamente elétricos, que estejam sujeitos a atribuição de matrícula, com exclusão daqueles classificados como enduro, trial ou com sidecar, conforme classificação do departamento do Governo Regional com competência em matéria de transportes, e devidamente homologados;\n\nc) «Triciclos motorizados ou quadriciclos», os triciclos de três rodas da categoria L5e, ou quadriciclos, ligeiros ou pesados, de passageiros ou de mercadorias, das categorias L6e-BP, L6e-BU, L7e-CP e L7e-CU, exclusivamente elétricos, que estejam sujeitos a atribuição de matrícula, conforme classificação do departamento do Governo Regional com competência em matéria de transportes, e devidamente homologados;\n\nd) «Velocípedes com motor», as bicicletas com assistência elétrica, destinadas ao uso citadino, não incluindo bicicletas destinadas a uso desportivo, nomeadamente para circuitos de cross, montanha ou possuidoras de suspensão integral;\n\ne) «Pontos de carregamento de veículos elétricos», as infraestruturas ou equipamentos dedicados exclusivamente ao carregamento de baterias de veículos elétricos, os quais podem estar associados a outros serviços relativos à mobilidade elétrica, com exceção das tomadas elétricas convencionais."
+  },
+  "137239478": {
+   "fragment_id": "137040881",
+   "type": 11,
+   "heading": "Artigo 3.º — Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Incentivos\n\n1 - O incentivo corresponde à atribuição de um apoio financeiro, no valor e condições a fixar por resolução do Conselho do Governo Regional, para a aquisição de veículo elétrico novo, cuja aquisição e o primeiro registo, quando aplicável, tenha sido feito em nome do candidato nos prazos estabelecidos.\n\n2 - Com a aquisição do veículo elétrico o candidato pode adquirir um ponto de carregamento, sendo o valor e condições do incentivo fixados na resolução referida no número anterior.\n\n3 - Aos incentivos concedidos para aquisição de veículos elétricos podem ser atribuídas majorações, cujos montantes são fixados por resolução do Conselho do Governo Regional, nas seguintes situações:\n\na) Beneficiários que usufruam de uma tarifa de eletricidade diferenciada no tempo, de acordo com denominação a constar na resolução referida no n.º 1;\n\nb) Beneficiários com domicílio fiscal nas ilhas pertencentes à Rede Mundial de Reserva da Biosfera da UNESCO, nomeadamente nas Ilhas do Corvo, Flores, Graciosa e São Jorge;\n\nc) No caso de veículos automóveis ligeiros, beneficiários que apresentem comprovativo de abate de uma viatura a combustão interna própria, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, com data não superior a um mês relativamente à data da fatura que comprava a aquisição do veículo automóvel ligeiro;\n\nd) Beneficiários que apresentem soluções tecnológicas de auxílio à gestão inteligente de redes elétricas, permitindo uma maior integração de fontes de energia renováveis e endógenas e segurança de abastecimento.\n\n4 - O valor orçamental afeto à atribuição dos presentes incentivos financeiros, bem como o período de submissão das candidaturas, é fixado pela resolução referida no n.º 1."
+  },
+  "137239479": {
+   "fragment_id": "137040882",
+   "type": 11,
+   "heading": "Artigo 4.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elegibilidade\n\n1 - São elegíveis, para a atribuição dos incentivos constantes do presente diploma, pessoas singulares e pessoas coletivas com domicílio fiscal na Região Autónoma dos Açores.\n\n2 - Não são elegíveis para a atribuição dos incentivos previstos pelo presente diploma as empresas cujo ramo de atividade seja o comércio ou aluguer dos equipamentos abrangidos por esses incentivos.\n\n3 - Não é permitida a atribuição dos incentivos constantes do presente diploma pela introdução de veículos elétricos que tenham sido sujeitos ao processo de legalização de importação de veículos automóveis.\n\n4 - O mesmo beneficiário pode usufruir de incentivos para mais do que uma categoria de veículo elétrico em simultâneo, bem como de incentivos para a aquisição de mais do que um veículo elétrico da mesma categoria, nas condições a fixar pela resolução referida no n.º 1 do artigo 3.º"
+  },
+  "137239480": {
+   "fragment_id": "137040883",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidaturas\n\n1 - As candidaturas são entregues ao departamento do Governo Regional com competência em matéria da energia, doravante designado por organismo gestor, instruídas em formulário eletrónico disponível no Portal do Governo Regional dos Açores.\n\n2 - Cabe ao organismo gestor disponibilizar, no Portal a que se refere o número anterior, o formulário da candidatura, bem como toda a informação à sua correta instrução e submissão.\n\n3 - A candidatura deve ser efetuada através do formulário eletrónico, mencionado no número anterior, ao qual devem ser anexadas cópias de todos os documentos necessários à correta instrução e submissão da mesma.\n\n4 - O beneficiário é notificado, por correio eletrónico, da confirmação de submissão do pedido de atribuição de incentivo, contendo a respetiva data e hora."
+  },
+  "137239481": {
+   "fragment_id": "137040884",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentos da candidatura\n\nAs candidaturas aos incentivos previstos no presente diploma devem ser instruídas com a seguinte documentação:\n\na) No caso de o candidato ser uma pessoa singular, cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal ou, em alternativa, o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao);\n\nb) No caso de o candidato ser uma pessoa coletiva, cópia da certidão de registo comercial ou código de acesso à certidão permanente, e cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal, ou em alternativa o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao) dos representantes da sociedade com poderes para obrigar;\n\nc) Certidão de não dívida do candidato perante a Autoridade Tributária e Aduaneira, válida, ou, preferencialmente, autorização de consentimento de consulta da situação tributária;\n\nd) Certidão de não dívida do candidato perante a Segurança Social, válida, ou, preferencialmente, autorização de consentimento de consulta da situação contributiva;\n\ne) No caso de veículos automóveis ligeiros, motociclos de duas rodas ou ciclomotores e triciclos motorizados ou quadriciclos, fatura e recibo de aquisição de veículo elétrico novo, em nome do candidato, em que conste o número do chassis, devendo ainda ser feita prova de matrícula a favor do candidato através do Documento Único Automóvel ou outro documento;\n\nf) No caso de velocípedes com motor, fatura e recibo de aquisição, em nome de candidato, devendo ser apresentada uma declaração do vendedor, na qual conste que o veículo é novo e se destina ao uso citadino;\n\ng) Comprovativo que demonstre a subscrição de uma tarifa de eletricidade diferenciada no tempo, para efeitos da majoração prevista na alínea a) do n.º 3 artigo 3.º, quando aplicável;\n\nh) Comprovativo de abate de uma viatura a combustão interna, quando aplicável, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, para efeitos da majoração prevista na alínea c) do n.º 3 do artigo 3.º, quando aplicável;\n\ni) Indicação do IBAN da conta bancária para a qual deve ser efetuada a transferência do incentivo, através de documento emitido por entidade bancária, em caso de elegibilidade do mesmo."
+  },
+  "137239482": {
+   "fragment_id": "137040885",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuição do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuição do incentivo\n\n1 - A atribuição do incentivo é efetuada por despacho do membro do Governo Regional com competência em matéria da energia, sendo atribuída uma numeração sequencial do incentivo.\n\n2 - O beneficiário é notificado, por correio eletrónico, do reconhecimento da atribuição do incentivo, contendo a indicação do número sequencial atribuído, no prazo de 15 dias após a assinatura do despacho mencionado no número anterior."
+  },
+  "137239483": {
+   "fragment_id": "137040886",
+   "type": 11,
+   "heading": "Artigo 8.º — Acumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acumulação de incentivos\n\nÉ permitido ao beneficiário a acumulação dos incentivos concedidos pelo presente diploma com outros de natureza similar, previstos em diplomas nacionais."
+  },
+  "137239484": {
+   "fragment_id": "137040887",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações do beneficiário\n\n1 - Sempre que o beneficiário tenha obtido a majoração prevista na alínea a) do n.º 3 artigo 3.º, deve manter contratualizada uma tarifa diferenciada no tempo, por um período mínimo de cinco anos, contados a partir da data de atribuição do incentivo, devendo, para esse efeito, apresentar, anualmente, ao organismo gestor, até ao final do mês de janeiro, o comprovativo de subscrição desta tipologia de tarifa elétrica.\n\n2 - Os veículos elétricos, objeto de comparticipação, devem manter-se na propriedade do beneficiário por um período não inferior a cinco anos, devendo, para esse efeito, apresentar ao organismo gestor, anualmente, até ao final do mês de janeiro de cada ano, o comprovativo de titularidade do mesmo.\n\n3 - Aos beneficiários fica vedada a possibilidade de exportarem os veículos que tenham sido objeto deste incentivo, por um período não inferior a cinco anos, em virtude de o principal objetivo do programa ser a introdução na Região Autónoma dos Açores de veículos ambientalmente mais favoráveis, de forma a contribuírem para a melhoria da qualidade do ar, redução do ruído e descarbonização.\n\n4 - O beneficiário, durante o prazo estabelecido no n.º 2, deve comunicar ao organismo gestor qualquer alteração e ocorrência que ponha em causa os pressupostos relativos à atribuição do incentivo.\n\n5 - O beneficiário deve manter devidamente organizados, durante cinco anos, todos os originais dos documentos submetidos em sede de candidatura, nos termos do artigo 5.º\n\n6 - No caso de não verificação de qualquer uma das obrigações constantes dos números anteriores, o organismo gestor pode solicitar a devolução da totalidade do valor do incentivo atribuído."
+  },
+  "137239485": {
+   "fragment_id": "137040888",
+   "type": 11,
+   "heading": "Artigo 10.º — Relatório de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório de execução\n\nO organismo gestor deve elaborar, no final de cada ano civil, um relatório de execução onde constem os resultados da aplicação dos incentivos concedidos pelo presente diploma, incluindo os montantes financiados, o número de veículos adquiridos na Região Autónoma dos Açores e uma estimativa quantitativa das emissões de Gases com Efeito de Estufa evitadas, a qual deverá ser publicada no portal do organismo gestor."
+  },
+  "137239486": {
+   "fragment_id": "137040889",
+   "type": 11,
+   "heading": "Artigo 11.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicidade\n\nÉ publicada em Jornal Oficial, por despacho do diretor regional com competência em matéria de energia, a listagem nominal dos incentivos atribuídos."
+  },
+  "137239487": {
+   "fragment_id": "137040890",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "137239475": {
+   "fragment_id": "137040878",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 2/2020/A\n\nSumário: Atribuição de incentivos financeiros para a aquisição de veículos elétricos e de pontos de carregamento.\n\nAtribuição de incentivos financeiros para a aquisição de veículos elétricos e de pontos de carregamento\n\nA aposta na mobilidade elétrica é uma opção estratégica da política energética e ambiental do Governo Regional dos Açores, considerando o seu papel relevante na persecução dos objetivos do desenvolvimento sustentável, bem como na descarbonização da economia, na mitigação dos efeitos das alterações climáticas, na melhoria da eficiência energética e na melhoria da qualidade ambiental, com efeitos na saúde pública.\n\nNo setor dos transportes, nomeadamente nos transportes terrestres, a progressiva e crescente utilização de veículos elétricos potencia a utilização dos recursos energéticos endógenos e renováveis no sistema eletroprodutor e garante a redução do ruído e das emissões de gases com efeito estufa, bem como a melhoria da qualidade do ar.\n\nUma enorme vantagem da mobilidade elétrica para o setor energético é a opção de carregamento dos veículos elétricos em períodos de vazio, através da adesão a tarifas de eletricidade diferenciadas no tempo que privilegiem o carregamento doméstico e noturno das baterias dos veículos elétricos. Esta opção contribui para a redução significativa de custos para o utilizador, bem como para a otimização do sistema eletroprodutor da Região.\n\nA implementação da mobilidade elétrica é, assim, imprescindível para a aposta no novo paradigma na mobilidade sustentável, através da substituição progressiva de veículos de combustão interna por veículos elétricos.\n\nNeste sentido, justifica-se a atribuição de incentivos financeiros destinados à aquisição, por pessoas singulares ou coletivas, de veículos elétricos, com o objetivo de concretizar nos Açores, de forma mais célere, os objetivos do combate às alterações climáticas, na vertente da mitigação, e do desenvolvimento sustentável.\n\nNos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 8 do artigo 5.º do Decreto Legislativo Regional n.º 21/2019/A, de 8 de agosto, o Governo Regional decreta o seguinte:"
+  },
+  "137025997": {
+   "fragment_id": "137126926",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Graciosa - Ilha Modelo de soluções inovadoras de mobilidade elétrica",
+   "in_force_from": "2020-07-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2020/A - Diário da República n.º 128/2020, Série I de 2020-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2020-137126900), em vigor a partir de 2020-07-04"
+   ],
+   "markdown": "###### Artigo 4.º-A — Graciosa - Ilha Modelo de soluções inovadoras de mobilidade elétrica\n\n1 - Para efeitos de elegibilidade para a atribuição dos incentivos constantes do presente diploma, nos termos do artigo 4.º, consideram-se, igualmente, elegíveis as candidaturas apresentadas por:\n\na) Pessoas singulares ou coletivas que exerçam a sua atividade na área dos transportes públicos de aluguer em veículos automóveis ligeiros de passageiros (transportes em táxi), com domicílio fiscal na Ilha Graciosa;\n\nb) Pessoas singulares ou coletivas que exerçam a sua atividade na área do aluguer de veículos automóveis de passageiros sem condutor (rent-a-car), com domicílio fiscal na Ilha Graciosa.\n\n2 - As pessoas singulares e coletivas que exerçam as suas atividades nas áreas referidas no número anterior, juntamente com os documentos referidos no artigo 6.º, devem apresentar comprovativo da autorização legal para exercício dessas atividades.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2020/A - Diário da República n.º 128/2020, Série I de 2020-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2020-137126900), em vigor a partir de 2020-07-04"
+  },
+  "137025998": {
+   "fragment_id": "137040883",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidaturas\n\n1 - As candidaturas são entregues ao departamento do Governo Regional com competência em matéria da energia, doravante designado por organismo gestor, instruídas em formulário eletrónico disponível no Portal do Governo Regional dos Açores.\n\n2 - Cabe ao organismo gestor disponibilizar, no Portal a que se refere o número anterior, o formulário da candidatura, bem como toda a informação à sua correta instrução e submissão.\n\n3 - A candidatura deve ser efetuada através do formulário eletrónico, mencionado no número anterior, ao qual devem ser anexadas cópias de todos os documentos necessários à correta instrução e submissão da mesma.\n\n4 - O beneficiário é notificado, por correio eletrónico, da confirmação de submissão do pedido de atribuição de incentivo, contendo a respetiva data e hora."
+  },
+  "137025999": {
+   "fragment_id": "137040884",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentos da candidatura\n\nAs candidaturas aos incentivos previstos no presente diploma devem ser instruídas com a seguinte documentação:\n\na) No caso de o candidato ser uma pessoa singular, cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal ou, em alternativa, o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao);\n\nb) No caso de o candidato ser uma pessoa coletiva, cópia da certidão de registo comercial ou código de acesso à certidão permanente, e cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal, ou em alternativa o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao) dos representantes da sociedade com poderes para obrigar;\n\nc) Certidão de não dívida do candidato perante a Autoridade Tributária e Aduaneira, válida, ou, preferencialmente, autorização de consentimento de consulta da situação tributária;\n\nd) Certidão de não dívida do candidato perante a Segurança Social, válida, ou, preferencialmente, autorização de consentimento de consulta da situação contributiva;\n\ne) No caso de veículos automóveis ligeiros, motociclos de duas rodas ou ciclomotores e triciclos motorizados ou quadriciclos, fatura e recibo de aquisição de veículo elétrico novo, em nome do candidato, em que conste o número do chassis, devendo ainda ser feita prova de matrícula a favor do candidato através do Documento Único Automóvel ou outro documento;\n\nf) No caso de velocípedes com motor, fatura e recibo de aquisição, em nome de candidato, devendo ser apresentada uma declaração do vendedor, na qual conste que o veículo é novo e se destina ao uso citadino;\n\ng) Comprovativo que demonstre a subscrição de uma tarifa de eletricidade diferenciada no tempo, para efeitos da majoração prevista na alínea a) do n.º 3 artigo 3.º, quando aplicável;\n\nh) Comprovativo de abate de uma viatura a combustão interna, quando aplicável, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, para efeitos da majoração prevista na alínea c) do n.º 3 do artigo 3.º, quando aplicável;\n\ni) Indicação do IBAN da conta bancária para a qual deve ser efetuada a transferência do incentivo, através de documento emitido por entidade bancária, em caso de elegibilidade do mesmo."
+  },
+  "137026000": {
+   "fragment_id": "137040885",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuição do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuição do incentivo\n\n1 - A atribuição do incentivo é efetuada por despacho do membro do Governo Regional com competência em matéria da energia, sendo atribuída uma numeração sequencial do incentivo.\n\n2 - O beneficiário é notificado, por correio eletrónico, do reconhecimento da atribuição do incentivo, contendo a indicação do número sequencial atribuído, no prazo de 15 dias após a assinatura do despacho mencionado no número anterior."
+  },
+  "137026001": {
+   "fragment_id": "137040886",
+   "type": 11,
+   "heading": "Artigo 8.º — Acumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acumulação de incentivos\n\nÉ permitido ao beneficiário a acumulação dos incentivos concedidos pelo presente diploma com outros de natureza similar, previstos em diplomas nacionais."
+  },
+  "137026002": {
+   "fragment_id": "137040887",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações do beneficiário\n\n1 - Sempre que o beneficiário tenha obtido a majoração prevista na alínea a) do n.º 3 artigo 3.º, deve manter contratualizada uma tarifa diferenciada no tempo, por um período mínimo de cinco anos, contados a partir da data de atribuição do incentivo, devendo, para esse efeito, apresentar, anualmente, ao organismo gestor, até ao final do mês de janeiro, o comprovativo de subscrição desta tipologia de tarifa elétrica.\n\n2 - Os veículos elétricos, objeto de comparticipação, devem manter-se na propriedade do beneficiário por um período não inferior a cinco anos, devendo, para esse efeito, apresentar ao organismo gestor, anualmente, até ao final do mês de janeiro de cada ano, o comprovativo de titularidade do mesmo.\n\n3 - Aos beneficiários fica vedada a possibilidade de exportarem os veículos que tenham sido objeto deste incentivo, por um período não inferior a cinco anos, em virtude de o principal objetivo do programa ser a introdução na Região Autónoma dos Açores de veículos ambientalmente mais favoráveis, de forma a contribuírem para a melhoria da qualidade do ar, redução do ruído e descarbonização.\n\n4 - O beneficiário, durante o prazo estabelecido no n.º 2, deve comunicar ao organismo gestor qualquer alteração e ocorrência que ponha em causa os pressupostos relativos à atribuição do incentivo.\n\n5 - O beneficiário deve manter devidamente organizados, durante cinco anos, todos os originais dos documentos submetidos em sede de candidatura, nos termos do artigo 5.º\n\n6 - No caso de não verificação de qualquer uma das obrigações constantes dos números anteriores, o organismo gestor pode solicitar a devolução da totalidade do valor do incentivo atribuído."
+  },
+  "137026003": {
+   "fragment_id": "137040888",
+   "type": 11,
+   "heading": "Artigo 10.º — Relatório de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório de execução\n\nO organismo gestor deve elaborar, no final de cada ano civil, um relatório de execução onde constem os resultados da aplicação dos incentivos concedidos pelo presente diploma, incluindo os montantes financiados, o número de veículos adquiridos na Região Autónoma dos Açores e uma estimativa quantitativa das emissões de Gases com Efeito de Estufa evitadas, a qual deverá ser publicada no portal do organismo gestor."
+  },
+  "137026004": {
+   "fragment_id": "137040889",
+   "type": 11,
+   "heading": "Artigo 11.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicidade\n\nÉ publicada em Jornal Oficial, por despacho do diretor regional com competência em matéria de energia, a listagem nominal dos incentivos atribuídos."
+  },
+  "137026005": {
+   "fragment_id": "137040890",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "137026006": {
+   "fragment_id": "137040891",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de dezembro de 2019.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 16 de janeiro de 2020.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n112933816"
+  },
+  "162159275": {
+   "fragment_id": "137040879",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente diploma regulamenta a atribuição de incentivos financeiros para aquisição de veículos elétricos novos, nomeadamente veículos automóveis ligeiros, motociclos de duas rodas ou ciclomotores, triciclos motorizados ou quadriciclos e velocípedes com motor, adquiridos na Região Autónoma dos Açores por pessoas singulares ou coletivas com domicílio fiscal na mesma.\n\n2 - O presente diploma regulamenta, ainda, a atribuição de incentivos financeiros para a aquisição de pontos de carregamento de veículo elétricos, por pessoas singulares e coletivas com domicílio fiscal na Região Autónoma dos Açores.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159276": {
+   "fragment_id": "137040880",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Veículos automóveis ligeiros», os veículos automóveis ligeiros de passageiros e mercadorias novos, exclusivamente elétricos, das categorias M1 e N1, conforme classificação do departamento do Governo Regional com competência em matérias de transportes, e devidamente homologados;\n\nb) «Motociclos de duas rodas ou ciclomotores», os motociclos de duas rodas da categoria L3e, ou ciclomotores da categoria L1e-B, exclusivamente elétricos, que estejam sujeitos a atribuição de matrícula, com exclusão daqueles classificados como enduro, trial ou com sidecar, conforme classificação do departamento do Governo Regional com competência em matéria de transportes, e devidamente homologados;\n\nc) «Triciclos motorizados ou quadriciclos», os triciclos de três rodas da categoria L5e, ou quadriciclos, ligeiros ou pesados, de passageiros ou de mercadorias, das categorias L6e-BP, L6e-BU, L7e-CP e L7e-CU, exclusivamente elétricos, que estejam sujeitos a atribuição de matrícula, conforme classificação do departamento do Governo Regional com competência em matéria de transportes, e devidamente homologados;\n\nd) «Velocípedes com motor», as bicicletas com assistência elétrica, destinadas ao uso citadino, não incluindo bicicletas destinadas a uso desportivo, nomeadamente para circuitos de cross, montanha ou possuidoras de suspensão integral;\n\ne) «Pontos de carregamento de veículos elétricos», as infraestruturas ou equipamentos dedicados exclusivamente ao carregamento de baterias de veículos elétricos, os quais podem estar associados a outros serviços relativos à mobilidade elétrica, com exceção das tomadas elétricas convencionais.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159277": {
+   "fragment_id": "137040881",
+   "type": 11,
+   "heading": "Artigo 3.º — Incentivos",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 3.º — Incentivos\n\n1 - O incentivo corresponde à atribuição de um apoio financeiro, no valor e condições a fixar por resolução do Conselho do Governo Regional, para a aquisição de veículo elétrico novo, cuja aquisição e o primeiro registo, quando aplicável, tenha sido feito em nome do candidato nos prazos estabelecidos.\n\n2 - Com a aquisição do veículo elétrico o candidato pode adquirir um ponto de carregamento, sendo o valor e condições do incentivo fixados na resolução referida no número anterior.\n\n3 - Aos incentivos concedidos para aquisição de veículos elétricos podem ser atribuídas majorações, cujos montantes são fixados por resolução do Conselho do Governo Regional, nas seguintes situações:\n\na) Beneficiários que usufruam de uma tarifa de eletricidade diferenciada no tempo, de acordo com denominação a constar na resolução referida no n.º 1;\n\nb) Beneficiários com domicílio fiscal nas ilhas pertencentes à Rede Mundial de Reserva da Biosfera da UNESCO, nomeadamente nas Ilhas do Corvo, Flores, Graciosa e São Jorge;\n\nc) No caso de veículos automóveis ligeiros, beneficiários que apresentem comprovativo de abate de uma viatura a combustão interna própria, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, com data não superior a um mês relativamente à data da fatura que comprava a aquisição do veículo automóvel ligeiro;\n\nd) Beneficiários que apresentem soluções tecnológicas de auxílio à gestão inteligente de redes elétricas, permitindo uma maior integração de fontes de energia renováveis e endógenas e segurança de abastecimento.\n\n4 - O valor orçamental afeto à atribuição dos presentes incentivos financeiros, bem como o período de submissão das candidaturas, é fixado pela resolução referida no n.º 1.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159278": {
+   "fragment_id": "137040882",
+   "type": 11,
+   "heading": "Artigo 4.º — Elegibilidade",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 4.º — Elegibilidade\n\n1 - São elegíveis, para a atribuição dos incentivos constantes do presente diploma, pessoas singulares e pessoas coletivas com domicílio fiscal na Região Autónoma dos Açores.\n\n2 - Não são elegíveis para a atribuição dos incentivos previstos pelo presente diploma as empresas cujo ramo de atividade seja o comércio ou aluguer dos equipamentos abrangidos por esses incentivos.\n\n3 - Não é permitida a atribuição dos incentivos constantes do presente diploma pela introdução de veículos elétricos que tenham sido sujeitos ao processo de legalização de importação de veículos automóveis.\n\n4 - O mesmo beneficiário pode usufruir de incentivos para mais do que uma categoria de veículo elétrico em simultâneo, bem como de incentivos para a aquisição de mais do que um veículo elétrico da mesma categoria, nas condições a fixar pela resolução referida no n.º 1 do artigo 3.º\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159279": {
+   "fragment_id": "137126926",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Graciosa - Ilha Modelo de soluções inovadoras de mobilidade elétrica",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2020/A - Diário da República n.º 128/2020, Série I de 2020-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2020-137126900), em vigor a partir de 2020-07-04"
+   ],
+   "markdown": "###### Artigo 4.º-A — Graciosa - Ilha Modelo de soluções inovadoras de mobilidade elétrica\n\n1 - Para efeitos de elegibilidade para a atribuição dos incentivos constantes do presente diploma, nos termos do artigo 4.º, consideram-se, igualmente, elegíveis as candidaturas apresentadas por:\n\na) Pessoas singulares ou coletivas que exerçam a sua atividade na área dos transportes públicos de aluguer em veículos automóveis ligeiros de passageiros (transportes em táxi), com domicílio fiscal na Ilha Graciosa;\n\nb) Pessoas singulares ou coletivas que exerçam a sua atividade na área do aluguer de veículos automóveis de passageiros sem condutor (rent-a-car), com domicílio fiscal na Ilha Graciosa.\n\n2 - As pessoas singulares e coletivas que exerçam as suas atividades nas áreas referidas no número anterior, juntamente com os documentos referidos no artigo 6.º, devem apresentar comprovativo da autorização legal para exercício dessas atividades.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2020/A - Diário da República n.º 128/2020, Série I de 2020-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2020-137126900), em vigor a partir de 2020-07-04"
+  },
+  "162159280": {
+   "fragment_id": "137040883",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidaturas",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 5.º — Candidaturas\n\n1 - As candidaturas são entregues ao departamento do Governo Regional com competência em matéria da energia, doravante designado por organismo gestor, instruídas em formulário eletrónico disponível no Portal do Governo Regional dos Açores.\n\n2 - Cabe ao organismo gestor disponibilizar, no Portal a que se refere o número anterior, o formulário da candidatura, bem como toda a informação à sua correta instrução e submissão.\n\n3 - A candidatura deve ser efetuada através do formulário eletrónico, mencionado no número anterior, ao qual devem ser anexadas cópias de todos os documentos necessários à correta instrução e submissão da mesma.\n\n4 - O beneficiário é notificado, por correio eletrónico, da confirmação de submissão do pedido de atribuição de incentivo, contendo a respetiva data e hora.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159281": {
+   "fragment_id": "137040884",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos da candidatura",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 6.º — Documentos da candidatura\n\nAs candidaturas aos incentivos previstos no presente diploma devem ser instruídas com a seguinte documentação:\n\na) No caso de o candidato ser uma pessoa singular, cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal ou, em alternativa, o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao);\n\nb) No caso de o candidato ser uma pessoa coletiva, cópia da certidão de registo comercial ou código de acesso à certidão permanente, e cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal, ou em alternativa o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao) dos representantes da sociedade com poderes para obrigar;\n\nc) Certidão de não dívida do candidato perante a Autoridade Tributária e Aduaneira, válida, ou, preferencialmente, autorização de consentimento de consulta da situação tributária;\n\nd) Certidão de não dívida do candidato perante a Segurança Social, válida, ou, preferencialmente, autorização de consentimento de consulta da situação contributiva;\n\ne) No caso de veículos automóveis ligeiros, motociclos de duas rodas ou ciclomotores e triciclos motorizados ou quadriciclos, fatura e recibo de aquisição de veículo elétrico novo, em nome do candidato, em que conste o número do chassis, devendo ainda ser feita prova de matrícula a favor do candidato através do Documento Único Automóvel ou outro documento;\n\nf) No caso de velocípedes com motor, fatura e recibo de aquisição, em nome de candidato, devendo ser apresentada uma declaração do vendedor, na qual conste que o veículo é novo e se destina ao uso citadino;\n\ng) Comprovativo que demonstre a subscrição de uma tarifa de eletricidade diferenciada no tempo, para efeitos da majoração prevista na alínea a) do n.º 3 artigo 3.º, quando aplicável;\n\nh) Comprovativo de abate de uma viatura a combustão interna, quando aplicável, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, para efeitos da majoração prevista na alínea c) do n.º 3 do artigo 3.º, quando aplicável;\n\ni) Indicação do IBAN da conta bancária para a qual deve ser efetuada a transferência do incentivo, através de documento emitido por entidade bancária, em caso de elegibilidade do mesmo.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159282": {
+   "fragment_id": "137040885",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuição do incentivo",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 7.º — Atribuição do incentivo\n\n1 - A atribuição do incentivo é efetuada por despacho do membro do Governo Regional com competência em matéria da energia, sendo atribuída uma numeração sequencial do incentivo.\n\n2 - O beneficiário é notificado, por correio eletrónico, do reconhecimento da atribuição do incentivo, contendo a indicação do número sequencial atribuído, no prazo de 15 dias após a assinatura do despacho mencionado no número anterior.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159283": {
+   "fragment_id": "137040886",
+   "type": 11,
+   "heading": "Artigo 8.º — Acumulação de incentivos",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 8.º — Acumulação de incentivos\n\nÉ permitido ao beneficiário a acumulação dos incentivos concedidos pelo presente diploma com outros de natureza similar, previstos em diplomas nacionais.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159284": {
+   "fragment_id": "137040887",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações do beneficiário",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 9.º — Obrigações do beneficiário\n\n1 - Sempre que o beneficiário tenha obtido a majoração prevista na alínea a) do n.º 3 artigo 3.º, deve manter contratualizada uma tarifa diferenciada no tempo, por um período mínimo de cinco anos, contados a partir da data de atribuição do incentivo, devendo, para esse efeito, apresentar, anualmente, ao organismo gestor, até ao final do mês de janeiro, o comprovativo de subscrição desta tipologia de tarifa elétrica.\n\n2 - Os veículos elétricos, objeto de comparticipação, devem manter-se na propriedade do beneficiário por um período não inferior a cinco anos, devendo, para esse efeito, apresentar ao organismo gestor, anualmente, até ao final do mês de janeiro de cada ano, o comprovativo de titularidade do mesmo.\n\n3 - Aos beneficiários fica vedada a possibilidade de exportarem os veículos que tenham sido objeto deste incentivo, por um período não inferior a cinco anos, em virtude de o principal objetivo do programa ser a introdução na Região Autónoma dos Açores de veículos ambientalmente mais favoráveis, de forma a contribuírem para a melhoria da qualidade do ar, redução do ruído e descarbonização.\n\n4 - O beneficiário, durante o prazo estabelecido no n.º 2, deve comunicar ao organismo gestor qualquer alteração e ocorrência que ponha em causa os pressupostos relativos à atribuição do incentivo.\n\n5 - O beneficiário deve manter devidamente organizados, durante cinco anos, todos os originais dos documentos submetidos em sede de candidatura, nos termos do artigo 5.º\n\n6 - No caso de não verificação de qualquer uma das obrigações constantes dos números anteriores, o organismo gestor pode solicitar a devolução da totalidade do valor do incentivo atribuído.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159285": {
+   "fragment_id": "137040888",
+   "type": 11,
+   "heading": "Artigo 10.º — Relatório de execução",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 10.º — Relatório de execução\n\nO organismo gestor deve elaborar, no final de cada ano civil, um relatório de execução onde constem os resultados da aplicação dos incentivos concedidos pelo presente diploma, incluindo os montantes financiados, o número de veículos adquiridos na Região Autónoma dos Açores e uma estimativa quantitativa das emissões de Gases com Efeito de Estufa evitadas, a qual deverá ser publicada no portal do organismo gestor.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159286": {
+   "fragment_id": "137040889",
+   "type": 11,
+   "heading": "Artigo 11.º — Publicidade",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 11.º — Publicidade\n\nÉ publicada em Jornal Oficial, por despacho do diretor regional com competência em matéria de energia, a listagem nominal dos incentivos atribuídos.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159287": {
+   "fragment_id": "137040890",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  },
+  "162159288": {
+   "fragment_id": "137040891",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de dezembro de 2019.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 16 de janeiro de 2020.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n112933816\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 4/2021/A - Diário da República n.º 80/2021, Série I de 2021-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645), em vigor a partir de 2021-04-27"
+  }
+ }
+}

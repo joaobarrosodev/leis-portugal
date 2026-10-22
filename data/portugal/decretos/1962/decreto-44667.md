@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:156198:por
+title: Decreto n.º 44667
+short_title: null
+summary: Insere disposições destinadas a completar as providências legislativas tomadas em Luanda concernentes ao restabelecimento
+  das actividades agrícolas, industriais e comerciais nas zonas que beneficiaram da moratória de que tratam os Diplomas Legislativos
+  Ministeriais n.os 17 e 37, publicados em Angola, respectivamente, em 4 e 19 de Maio de 1961
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '44667'
+official_date: null
+publication_date: '1962-11-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 255/1962, Série I de 1962-11-06
+  number: '255'
+  series: I
+  supplement: null
+  pages: 1446 - 1447
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/11/25500/14461447.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '156198'
+  dre_path: /dr/detalhe/decreto/44667-1962-156198
+  internal: pt:dre:156198:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44667-1962-156198
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44667-1962-156198
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-11-06T00:00:00Z'
+integrity:
+  source_sha256: caccd6e4ffa72ed8e5f4d928b47ffa29c65a6bc0e9e04215aea43996b78a0845
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-44667-156198.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44667
+
+Considerada a necessidade de se completarem urgentemente as providências legislativas tomadas em Luanda, no ano de 1961, pelo Ministro do Ultramar, concernentes ao restabelecimento das actividades agrícolas, industriais e comerciais nas zonas que beneficiaram da moratória de que tratam os Diplomas Legislativos Ministeriais n.os 17 e 37, publicados em Angola, respectivamente, em 4 e 19 de Maio de 1961;
+
+Por motivo de urgência, nos termos do § 1.º do artigo 150.º da Constituição;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º do mesmo diploma, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º O governador-geral da província de Angola fica autorizado a prorrogar até 31 de Março de 1963, nas áreas de que tratam os Diplomas Legislativos Ministeriais n.os 17 e 37, as moratórias de ordem fiscal concedidas ao abrigo do artigo 1.º do Diploma Legislativo Ministerial n.º 45, publicado em Luanda em 19 de Maio de 1961.
+
+§ 1.º Todos os processos de execução fiscal que correm seus termos presentemente nas referidas áreas ficarão suspensos a partir do decêndio da citação.
+
+§ 2.º Todos os devedores que até o termo do prazo referido no corpo deste artigo se apresentarem voluntàriamente a pagar a importância total dos seus débitos ao Estado, incluindo os adicionais e selo de conhecimento, ficam isentos do pagamento dos juros de mora, percentagens e selos e custas dos processos executivos.
+
+###### Art. 2.º Findo o prazo referido no artigo anterior, os processos executivos que não tiverem sido arquivados com fundamento no pagamento da quantia exequenda serão enviados para a sede do respectivo distrito, à comissão de que trata o artigo seguinte.
+
+###### Art. 3.º Na sede de cada distrito das áreas onde vigoraram as moratórias decretadas de conformidade com os Diplomas Legislativos Ministeriais n.os 17 e 37, respectivamente de 4 e 19 de Maio de 1961, haverá uma comissão, composta pelo delegado do procurador da República da respectiva comarca, que será o presidente, pelo director de Fazenda distrital e pelo administrador do concelho ou circunscrição da sede do distrito, destinada a examinar os processos pendentes para avaliar da solvência do executado.
+
+§ 1.º A comissão informar-se-á se o devedor possui outros bens, dentro da área da província ou fora dela, além daqueles em que incidiram as colectas objecto da execução. Para tanto poder-se-á corresponder com todos os serviços públicos, autoridades e funcionários, os quais ficam obrigados a prestar às comissões toda a sua colaboração. Os pedidos a fazer para fora da província serão encaminhados através do Ministério do Ultramar e dos governadores das outras províncias.
+
+§ 2.º Os devedores poderão ser notificados a prestar declarações perante as comissões sobre a existência de bens que possuam em outras áreas fiscais e, no caso de, posteriormente, se verificar que prestaram falsas declarações, extrair-se-á certidão das mesmas e enviar-se-á ao agente do Ministério Público para procedimento criminal.
+
+###### Art. 4.º Verificado que o devedor não possui outros bens que não sejam os estritamente necessários para o prosseguimento das suas actividades agrícolas, comerciais ou industriais, deverá a comissão lavrar o termo respectivo, propondo anulação das colectas objecto da execução e do processo executivo, que, com o parecer do respectivo governador de distrito, será enviado à Direcção provincial dos serviços de Fazenda e Contabilidade.
+
+§ único. A Direcção provincial de Fazenda e Contabilidade, depois de emitir parecer, submeterá os processos a despacho do governador-geral para determinar, se for caso disso, a anulação dos conhecimentos de cobrança que deram origem à execução.
+
+###### Art. 5.º O governador-geral de Angola regulamentará as disposições do presente diploma que disso carecerem.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 6 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
+
+Para ser publicado no Boletim Oficial de Angola. - A. Moreira.

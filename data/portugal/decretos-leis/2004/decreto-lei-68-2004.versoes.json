@@ -1,0 +1,271 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:211028:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-156126559",
+ "dre_path": "/dr/detalhe/decreto-lei/68-2004-211028",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156124456",
+    "156124457",
+    "156124458",
+    "156124459",
+    "156124460",
+    "156124461",
+    "156124462",
+    "156124463",
+    "156124464",
+    "156124465",
+    "156124466",
+    "156124467",
+    "156124468",
+    "156124469",
+    "156124470",
+    "156124471",
+    "156124472",
+    "156124473",
+    "156124474",
+    "156233975",
+    "156233976",
+    "156233977",
+    "156233978",
+    "156233979",
+    "156233980",
+    "156233981",
+    "156233982"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:836222484:por",
+     "title": "Decreto-Lei n.º 10/2024",
+     "published": "2024-01-08",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2024-836222484",
+     "date": "2024-01-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "156124456": {
+   "fragment_id": "156126560",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 68/2004\n\nde 25 de Março\n\nO presente diploma estabelece um conjunto de mecanismos que visam reforçar os direitos dos consumidores à informação e à protecção dos seus interesses económicos no âmbito da aquisição de prédio urbano para a habitação.\n\nÉ facto comummente aceite o de que a compra de habitação envolve um processo complexo. Para o consumidor, tal implica a tomada de decisões relativamente a uma série de aspectos extremamente importantes que necessariamente têm repercussões, desde logo, no plano orçamental. As escolhas efectuadas neste processo têm, além de mais, reflexos a médio e longo prazos, razão pela qual influenciam directamente a pessoa ou o agregado familiar que as fazem. Estão, pois, em causa decisões relacionadas com o preço de venda, com o enquadramento urbanístico e, fundamentalmente, com as características da habitação, incluindo opções relacionadas com eficiência energética e gestão ambiental.\n\nPara apoiar os consumidores que pretendem adquirir a sua habitação, torna-se indispensável disponibilizar aos principais interessados um conjunto de informações suficientes que lhes permita fazer análises comparativas em função daquilo que, em cada momento, constitui a oferta no mercado da construção e perceber o que melhor satisfaz os interesses em causa.\n\nConcretizando estes objectivos, o presente diploma estabelece um conjunto de obrigações a cargo de quantos se dediquem, profissionalmente, à actividade de construção de prédios urbanos habitacionais para comercialização.\n\nDesde logo, importa referir a obrigação de elaboração e disponibilização aos consumidores adquirentes de um documento descritivo das principais características técnicas e funcionais da habitação, características estas que se reportam ao momento de conclusão das respectivas obras de construção.\n\nEste documento descritivo, que no presente diploma toma a designação «Ficha técnica da habitação», deve obedecer a um conjunto de requisitos legais e conter um conjunto mínimo de informações, eventualmente acompanhado de informações complementares. Quer as informações mínimas obrigatórias quer as informações complementares devem encontrar-se redigidas em língua portuguesa, de forma clara e perceptível para o destinatário.\n\nAinda no que se refere à ficha técnica, compete ao técnico responsável da obra e ao promotor imobiliário atestar a correspondência das informações dela constantes com as características da habitação à data de conclusão das obras, através das respectivas assinaturas feitas na própria ficha.\n\nPor outro lado, determina o presente diploma que a não apresentação de ficha técnica da habitação implica a não celebração da escritura pelo notário. Esta regra, destinada aos contratos celebrados entre profissionais e consumidores, aplica-se, também, aos contratos celebrados entre consumidores, caso o prédio urbano objecto de transmissão já possua ficha técnica da habitação.\n\nAcresce também que no diploma se faz impender sobre o proprietário do imóvel o dever de conservar a ficha técnica da habitação, podendo este, em caso de perda ou de destruição, solicitar a emissão de segunda via da referida ficha ao promotor imobiliário ou à câmara municipal onde se encontra depositada.\n\nO presente diploma inclui, igualmente, as regras a que deve obedecer a publicidade sobre imóveis para habitação e a informação que deve estar disponível nos estabelecimentos de venda, bem como normas de responsabilização do técnico da obra e do promotor imobiliário pelos danos causados ao comprador em virtude da declaração ou das informações que, constando da ficha técnica da habitação, não correspondam às verdadeiras características do imóvel.\n\nFinalmente, e pese embora a circunstância de o regime agora previsto se centrar na informação que deve ser disponibilizada nos contratos que envolvam a aquisição da propriedade de prédios urbanos destinados à habitação, não deixa de se estabelecer uma «primeira regra» no que se refere às obrigações similares decorrentes da celebração de contratos de arrendamento. Deste modo, nos contratos de arrendamento relativos a prédios ou fracções abrangidos pelo diploma, o locador, seja ele profissional ou não, deve, antes da celebração do contrato definitivo, facultar aos futuros arrendatários o acesso à ficha técnica da habitação.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, bem como o Conselho Nacional do Consumo e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156124457": {
+   "fragment_id": "156126561",
+   "type": 1,
+   "heading": "Capítulo I — Objectivos, âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objectivos, âmbito de aplicação e definições"
+  },
+  "156124458": {
+   "fragment_id": "156126562",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nO presente diploma estabelece um conjunto de mecanismos que visam reforçar os direitos dos consumidores à informação e à protecção dos seus interesses económicos no âmbito da aquisição de prédio urbano para habitação, bem como promover a transparência do mercado."
+  },
+  "156124459": {
+   "fragment_id": "156126563",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A informação disponibilizada pelos profissionais no âmbito da actividade de construção e aquisição de prédios urbanos destinados à habitação bem como a respectiva publicidade estão sujeitas às regras previstas no presente diploma.\n\n2 - As regras referentes à ficha técnica da habitação, constantes do capítulo II, não se aplicam:\n\na) Aos prédios construídos antes da entrada em vigor do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38382, de 7 de Agosto de 1951;\n\nb) Aos prédios que se encontrem edificados e sobre os quais exista licença de utilização ou haja requerimento apresentado para a respectiva emissão à data da entrada em vigor do presente diploma."
+  },
+  "156124460": {
+   "fragment_id": "156126564",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) «Promotor imobiliário» a pessoa singular ou colectiva, privada ou pública, que, directa ou indirectamente, decide, impulsiona, programa, dirige e financia, com recursos próprios ou alheios, obras de construção ou de reconstrução de prédios urbanos destinados à habitação, para si ou para aquisição sob qualquer título;\n\nb) «Habitação» a unidade na qual se processa a vida de um agregado residente no edifício, a qual compreende o fogo e as suas dependências;\n\nc) «Fogo» o conjunto de espaços e compartimentos privados nucleares de cada habitação (tais como salas, quartos, cozinha, instalações sanitárias, arrumos, despensa, arrecadações em cave ou em sótão, corredores, vestíbulos), conjunto esse confinado por uma envolvente que separa o fogo do ambiente exterior e do resto do edifício;\n\nd) «Dependências do fogo» os espaços privados periféricos desse fogo (tais como varandas, balcões, terraços, arrecadações em cave ou em sótão ou em corpos anexos, logradouros pavimentados, telheiros e alpendres), espaços esses exteriores à envolvente que confina o fogo;\n\ne) «Espaços comuns» os espaços destinados a serviços comuns (átrios, comunicações horizontais e verticais, pisos vazados, logradouros e estacionamentos em cave nos edifícios multifamiliares) e espaços destinados a serviços técnicos;\n\nf) «Compartimento» o espaço privado, ou conjunto de espaços privados directamente interligados, delimitado por paredes e com acesso através de vão ou vãos guarnecidos com portas ou com disposições construtivas equivalentes;\n\ng) «Planta simplificada» a planta rigorosa e à escala, limpa de informação dispensável à perfeita compreensão do objecto de representação, por forma a melhor comunicar com o consumidor comum;\n\nh) «Serviços acessórios» os serviços de apoio residencial disponibilizados no acto da compra ou de arrendamento da habitação, tais como portaria e vigilância, salas equipadas para actividades especializadas e zonas exteriores ajardinadas e ou equipadas, designadamente, com mobiliário urbano ou instalações de lazer e recreio.\n\n2 - Relevam ainda, no tocante à aplicação do presente diploma:\n\na) O Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38382, de 7 de Agosto de 1951, com as posteriores alterações, para as definições de área bruta da habitação, área bruta do fogo, área útil de um compartimento e área útil do fogo;\n\nb) O Regime Jurídico da Urbanização e da Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, com as posteriores alterações, para as definições de construção, reconstrução, ampliação e alteração.\n\n3 - As obrigações a cargo do promotor imobiliário previstas no presente diploma incumbem, na falta deste, ao profissional que venda ou que transmita onerosamente o prédio urbano destinado à habitação."
+  },
+  "156124461": {
+   "fragment_id": "156126565",
+   "type": 1,
+   "heading": "Capítulo II — Da ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da ficha técnica da habitação"
+  },
+  "156124462": {
+   "fragment_id": "156126566",
+   "type": 11,
+   "heading": "Artigo 4.º — Ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ficha técnica da habitação\n\n1 - Sem prejuízo de outras obrigações legais, o promotor imobiliário está obrigado a elaborar um documento descritivo das características técnicas e funcionais do prédio urbano para fim habitacional, documento que toma a designação «Ficha técnica da habitação».\n\n2 - As características técnicas e funcionais descritas na ficha técnica da habitação reportam-se ao momento de conclusão das obras de construção, reconstrução, ampliação ou alteração do prédio urbano de acordo com o conteúdo das telas finais devidamente aprovadas.\n\n3 - Compete ao técnico responsável pela obra e ao promotor imobiliário atestar a correspondência entre as informações a que se referem os n.os 2, 3, 4, 5 e 6, alínea c), todos do artigo 7.º, constantes na ficha técnica da habitação e as características da habitação, através de declaração comprovativa devidamente assinada na referida ficha.\n\n4 - Para efeitos da divulgação prevista no artigo 11.º e nos casos em que a obra ainda não está concluída, deve existir uma versão provisória da ficha técnica da habitação, cujo teor informativo se reporta aos projectos de arquitectura e das especialidades.\n\n5 - A versão provisória a que se refere o número anterior deve ser atestada pelos autores dos projectos."
+  },
+  "156124463": {
+   "fragment_id": "156126567",
+   "type": 11,
+   "heading": "Artigo 5.º — Arquivo e depósito da ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Arquivo e depósito da ficha técnica da habitação\n\n1 - O promotor imobiliário deve manter, por um período mínimo de 10 anos, um arquivo devidamente organizado das fichas técnicas da habitação que tenha emitido relativas a cada prédio ou fracção.\n\n2 - Sem prejuízo da obrigação estabelecida no n.º 1 do presente artigo, o promotor imobiliário está obrigado a depositar um exemplar da ficha técnica da habitação de cada prédio ou fracção na câmara municipal onde correr os seus termos o processo de licenciamento respectivo.\n\n3 - O depósito referido no número anterior é efectuado contra o pagamento de taxa a fixar pela assembleia municipal, sob proposta da câmara municipal, antes da realização da escritura que envolva a aquisição da propriedade de prédio ou fracção destinada à habitação."
+  },
+  "156124464": {
+   "fragment_id": "156126568",
+   "type": 11,
+   "heading": "Artigo 6.º — Redacção da ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redacção da ficha técnica da habitação\n\n1 - A ficha técnica da habitação deve estar redigida em língua portuguesa, em termos claros e compreensíveis para o comprador, de modo a ser facilmente legível e sem remissões para textos técnicos cuja compreensão pressuponha conhecimentos específicos.\n\n2 - Os elementos constantes da ficha técnica da habitação devem estar em conformidade com os projectos de arquitectura e das especialidades e integrar as alterações ocorridas ao longo da obra, tal como se encontram registadas nas telas finais, de acordo com o previsto nos n.os 4 e 5 do artigo 128.º do Decreto-Lei n.º 555/99, de 16 de Dezembro."
+  },
+  "156124465": {
+   "fragment_id": "156126569",
+   "type": 11,
+   "heading": "Artigo 7.º — Elementos constantes da ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elementos constantes da ficha técnica da habitação\n\n1 - A ficha técnica da habitação deve conter informação sobre os principais profissionais envolvidos no projecto, construção, reconstrução, ampliação ou alteração, bem como na aquisição da habitação, e ainda sobre o loteamento, o prédio urbano e a fracção autónoma ou a habitação unifamiliar.\n\n2 - A informação sobre os profissionais envolvidos deve incluir:\n\na) Identificação do construtor, contendo os dados de inscrição no Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI);\n\nb) Identificação dos autores dos projectos de arquitectura e de estruturas, contendo os números de registo como membros das respectivas ordens profissionais;\n\nc) Identificação do técnico responsável da obra, com identificação do número de registo na respectiva ordem, ou na associação profissional, se for o caso;\n\nd) Identificação do promotor imobiliário.\n\n3 - A informação sobre o loteamento deve incluir:\n\na) Número total de edifícios;\n\nb) Número total de fogos;\n\nc) Número total de lugares de estacionamento;\n\nd) Número e tipo de equipamentos colectivos existentes e ou previstos;\n\ne) Identificação das entidades incumbidas da promoção, da gestão e da manutenção dos equipamentos referidos na alínea anterior;\n\nf) Planta de síntese do loteamento, com o conteúdo previsto na legislação em vigor, nomeadamente na Portaria n.º 1110/2001, de 19 de Setembro.\n\n4 - A informação sobre o prédio urbano deve incluir:\n\na) Identificação do prédio urbano, com indicação da sua localização, do número de inscrição na matriz predial e do número e data da licença de utilização;\n\nb) Descrição do prédio urbano, com indicação do número de pisos acima do solo, do número total de fogos, do número de ascensores, da existência de outro tipo de utilização que não a habitacional e respectiva localização, do número de lugares de estacionamento reservado aos moradores do prédio, das condições de acesso a pessoas com mobilidade condicionada e da existência de sala de reuniões de condóminos e de casa do porteiro;\n\nc) Caracterização das soluções construtivas dos principais elementos de construção do prédio, nomeadamente das fundações e da estrutura, das paredes exteriores e da cobertura;\n\nd) Descrição dos principais materiais e produtos de construção utilizados nos espaços comuns do edifício, especialmente daqueles que estejam em contacto directo com os moradores, e lista dos respectivos fabricantes, contendo contactos e moradas;\n\ne) Descrição dos sistemas de controlo e gestão do prédio, nomeadamente no que se refere à segurança contra intrusão, à segurança contra incêndio, à gestão energética e à gestão ambiental;\n\nf) Localização dos equipamentos ruidosos, tais como ascensores, grupos geradores e grupos hidropressores;\n\ng) Localização de equipamentos facultativos de condições de acesso ao prédio de pessoas com deficiência, nomeadamente motora, visual ou auditiva;\n\nh) Planta simplificada do piso de entrada no edifício, com indicação da orientação, e a localização das portas exteriores, circulações horizontais, escadas e ascensores.\n\n5 - A informação sobre a fracção autónoma deve incluir:\n\na) Identificação da fracção autónoma, com indicação da sua localização e do número e data da licença de utilização;\n\nb) Descrição da habitação, nomeadamente do fogo e das dependências do fogo, com indicação da área bruta da habitação, da área bruta do fogo, da área útil do fogo, da área útil de cada compartimento e da área útil de cada dependência do fogo;\n\nc) Caracterização das soluções construtivas dos principais elementos de construção, nomeadamente das paredes exteriores e interiores, dos pavimentos e escadas, dos tectos e coberturas, das portas exteriores e interiores, da caixilharia exterior e dos sistemas de protecção solar dos vãos;\n\nd) Descrição dos principais materiais e produtos de construção, especialmente daqueles que estejam em contacto directo com os moradores, e lista dos respectivos fabricantes, contendo os seus contactos e moradas;\n\ne) Caracterização das instalações na habitação, nomeadamente de distribuição de água, de drenagem de águas residuais domésticas, de drenagem de águas pluviais, de distribuição de gás, de distribuição de energia eléctrica, de climatização e aquecimento, de ventilação e evacuação de fumos e gases e de comunicações telefónicas e telecomunicações;\n\nf) Descrição dos equipamentos incorporados na habitação, nomeadamente dos da cozinha e das instalações sanitárias, e lista dos respectivos fabricantes, contendo os seus contactos e moradas;\n\ng) Planta simplificada do piso de acesso ao fogo, com destaque para a localização do fogo e dos espaços comuns, e com indicação da localização de extintores portáteis e das saídas de emergência em caso de incêndio;\n\nh) Plantas simplificadas da habitação, incluindo planta do fogo com identificação de todos os compartimentos e a localização dos equipamentos incorporados, fixos ou móveis;\n\ni) Plantas simplificadas das redes existentes na habitação, nomeadamente das redes de distribuição de água, de drenagem de águas residuais domésticas, de distribuição de energia eléctrica, de distribuição de gás, de climatização e aquecimento e de comunicações e entretenimento.\n\n6 - A ficha técnica da habitação deve ainda conter informação sobre:\n\na) Garantia da habitação, bem como o seu modo de accionamento em caso de detecção de defeitos;\n\nb) Regras de funcionamento do condomínio, caso existam, e contratos de prestação de serviços que tenham sido celebrados;\n\nc) Regras de manutenção dos equipamentos instalados que requerem tratamento especial.\n\n7 - A informação sobre as soluções construtivas a que se referem as alíneas c) dos n.os 4 e 5 deve incidir fundamentalmente sobre os aspectos determinantes para a segurança, a saúde e o conforto dos utentes da habitação.\n\n8 - Os elementos gráficos a que se referem as alíneas f) do n.º 3, h) do n.º 4 e g), h) e i) do n.º 5 devem constituir anexos à ficha técnica da habitação, devidamente numerados.\n\n9 - A informação sobre os principais materiais e produtos de construção utilizados na habitação, a que se refere a alínea d) do n.º 5 do presente artigo, deve descrever, em particular:\n\na) O material utilizado nas paredes com especificação da existência ou não de parede dupla e respectivos revestimentos;\n\nb) O tipo de protecção contra ruído e variações térmicas;\n\nc) O tipo de cobertura e de pavimento;\n\nd) O tipo de material de impermeabilização, caso exista;\n\ne) O tipo de material das canalizações e eficiência que os mesmos oferecem;\n\nf) O material empregue na caixilharia e nos estores;\n\ng) O tipo de porta de entrada.\n\n10 - A informação prevista nas alíneas d) do n.º 4 e d) e f) do n.º 5 na parte em que contém referência a elementos nominativos que não sejam públicos apenas deve ser facultada ao proprietário do imóvel."
+  },
+  "156124466": {
+   "fragment_id": "156126570",
+   "type": 11,
+   "heading": "Artigo 8.º — Informações complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informações complementares\n\n1 - O disposto no artigo anterior não prejudica a possibilidade de o promotor imobiliário incluir na ficha técnica da habitação informações complementares que considere importantes, designadamente as que se refiram a:\n\na) Outros aspectos relacionados com a administração do condomínio, para além dos mencionados na alínea b) do n.º 6 do artigo 7.º;\n\nb) Instruções sobre uso e manutenção das instalações e equipamentos, incluindo conselhos úteis no que respeita à segurança do prédio ou fracção, espaços comuns e serviços acessórios.\n\n2 - As informações complementares incluídas na ficha técnica da habitação devem respeitar o disposto no n.º 1 do artigo 6.º"
+  },
+  "156124467": {
+   "fragment_id": "156126571",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação da ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação da ficha técnica da habitação\n\n1 - Sem prejuízo de outras normas aplicáveis, não pode ser celebrada a escritura pública que envolva a aquisição da propriedade de prédio ou fracção destinada à habitação sem que o notário se certifique da existência da ficha técnica da habitação e de que a mesma é entregue ao comprador.\n\n2 - Não pode ser celebrado o contrato de compra e venda com mútuo, garantido ou não por hipoteca, nos termos do Decreto-Lei n.º 255/93, de 15 de Julho, sem que a instituição de crédito assegure a entrega da ficha técnica da habitação ao comprador no momento em que é preenchido o modelo a que se refere a Portaria n.º 669-A/93, de 16 de Julho, alterada pela Portaria n.º 882/94, de 1 de Outubro."
+  },
+  "156124468": {
+   "fragment_id": "156126572",
+   "type": 11,
+   "heading": "Artigo 10.º — Conservação da ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conservação da ficha técnica da habitação\n\n1 - O proprietário do prédio ou fracção está obrigado a conservar em bom estado a respectiva ficha técnica da habitação.\n\n2 - Em caso de perda ou destruição da ficha técnica da habitação, o proprietário deve solicitar ao promotor imobiliário ou à câmara municipal a emissão de segunda via da referida ficha.\n\n3 - A emissão de segunda via pela câmara municipal é efectuada contra o pagamento de taxa a fixar pela assembleia municipal, sob proposta daquela."
+  },
+  "156124469": {
+   "fragment_id": "156126573",
+   "type": 1,
+   "heading": "Capítulo III — Da informação obrigatoriamente disponível nos estabelecimentos de venda e da publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da informação obrigatoriamente disponível nos estabelecimentos de venda e da publicidade"
+  },
+  "156124470": {
+   "fragment_id": "156126574",
+   "type": 11,
+   "heading": "Artigo 11.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divulgação de informação\n\n1 - Sem prejuízo do disposto no n.º 10 do artigo 7.º, nos locais de atendimento e de venda ao público, o vendedor, a empresa de mediação imobiliária ou outro profissional que se encontre incumbido de comercializar prédios urbanos destinados à habitação está obrigado a disponibilizar informação documentada, designadamente, sobre:\n\na) Cópia da ficha técnica da habitação, caso esta já exista;\n\nb) Cópia de versão provisória da ficha técnica da habitação, caso ainda não exista a ficha técnica da habitação;\n\nc) Preço por metro quadrado da área útil da habitação;\n\nd) Preço total da habitação, com explicitação dos impostos e outras obrigações legais que incidem sobre a aquisição e formas de pagamento propostas.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, os elementos constantes da versão provisória da ficha técnica da habitação devem estar em conformidade com os projectos de arquitectura e das especialidades e conter obrigatoriamente a informação indicada no n.º 2 e nas alíneas a), b), c) e d) do n.º 3, b), c), d), e) e f) do n.º 4 e b), c), d), e), f), g) e h) do n.º 5. todos do artigo 7.º\n\n3 - Sem prejuízo das obrigações mencionadas nos números anteriores, os profissionais mencionados no n.º 1 do presente artigo estão obrigados a disponibilizar para consulta no local de venda uma cópia autenticada do projecto completo do prédio, incluindo os diversos projectos das especialidades.\n\n4 - A informação que incida sobre prédios urbanos em construção deve, ainda, fazer referência ao número de alvará de licença de construção e aos prazos previstos para a sua conclusão.\n\n5 - A existência da ficha técnica da habitação ou da sua versão provisória deve ser anunciada, em lugar bem visível, nos locais de atendimento e de venda ao público."
+  },
+  "156124471": {
+   "fragment_id": "156233875",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Publicidade\n\n1 - A publicidade sobre venda de imóveis para a habitação deve respeitar as regras constantes do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, com as alterações subsequentes que lhe foram introduzidas.\n\n2 - Sem prejuízo do mencionado no número anterior, a publicidade à venda de imóveis para a habitação deve, em especial, ser conforme às características da habitação, esclarecer os respectivos destinatários sobre se esta se encontra em fase de construção e conter, designadamente, os seguintes elementos:\n\na) Identificação completa do promotor imobiliário e do vendedor, caso não sejam a mesma pessoa;\n\nb) Prazo previsto para conclusão das obras, se for caso disso;\n\nc) Área útil da habitação;\n\nd) Tipo e marca dos materiais e produtos de construção, sempre que haja qualquer referência aos mesmos;\n\ne) Existência de condições de acesso para pessoas com deficiência, nomeadamente motora, visual ou auditiva, caso tais condições existam.\n\n3 - As fotografias ou imagens gráficas utilizadas na publicidade de imóveis devem reproduzir fielmente o local publicitado, referindo explicitamente que se representa apenas o edifício ou o edifício e a sua envolvente próxima acabada."
+  },
+  "156124472": {
+   "fragment_id": "156233876",
+   "type": 1,
+   "heading": "Capítulo IV — Das contra-ordenações e da fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Das contra-ordenações e da fiscalização"
+  },
+  "156124473": {
+   "fragment_id": "156233877",
+   "type": 11,
+   "heading": "Artigo 13.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contra-ordenações\n\n1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contra-ordenações:\n\na) A inclusão na ficha técnica da habitação de informações que não têm total correspondência com as características reais da habitação;\n\nb) As falsas declarações do técnico responsável pela obra na declaração comprovativa relativamente à correspondência das informações constantes da ficha técnica da habitação com as características da habitação;\n\nc) A não organização em arquivo das fichas técnicas da habitação a que se refere o n.º 1 do artigo 5.º;\n\nd) O incumprimento da obrigação de depósito na câmara municipal do exemplar da ficha técnica da habitação a que se refere o n.º 2 do artigo 5.º, ou o não cumprimento atempado dessa obrigação;\n\ne) A violação do disposto no artigo 11.º;\n\nf) A violação do preceituado no artigo 12.º\n\n2 - As contra-ordenações previstas nas alíneas a) e b) do número anterior são puníveis com coima de (euro) 2490 até (euro) 3490 ou de (euro) 12470 até (euro) 44890, consoante o infractor seja pessoa singular ou pessoa colectiva.\n\n3 - As contra-ordenações previstas nas alíneas c) e d) do n.º 1 são puníveis com coima de (euro) 2490 até (euro) 3490 ou de (euro) 7480 até (euro) 24940, consoante o infractor seja pessoa singular ou pessoa colectiva.\n\n4 - A contra-ordenação prevista na alínea e) do n.º 1 é punível com coima de (euro) 2490 até (euro) 3490 ou de (euro) 12470 até (euro) 44890, consoante o infractor seja pessoa singular ou colectiva.\n\n5 - A contra-ordenação referida na alínea f) do n.º 1 é punível com coima de (euro) 1740 até (euro) 3490 ou de (euro) 3490 até (euro) 44890, consoante o infractor seja pessoa singular ou colectiva.\n\n6 - A negligência é sempre punível."
+  },
+  "156124474": {
+   "fragment_id": "156233878",
+   "type": 11,
+   "heading": "Artigo 14.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções acessórias\n\n1 - Quando a gravidade da infracção o justifique, podem, ainda, ser aplicadas as seguintes sanções acessórias:\n\na) Apreensão de objectos utilizados na prática das contra-ordenações;\n\nb) Encerramento temporário das instalações ou estabelecimentos onde se verifique o exercício da actividade;\n\nc) Interdição do exercício da actividade.\n\n2 - As sanções previstas nas alíneas b) e c) do número anterior têm uma duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "156233975": {
+   "fragment_id": "156233879",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização e instrução dos processos por contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização e instrução dos processos por contra-ordenação\n\n1 - Constitui atribuição do Instituto do Consumidor fiscalizar e instruir os processos por contra-ordenação em matéria de publicidade a que se refere a alínea f) do n.º 1 do artigo 13.º, competindo à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade aplicar as coimas e demais sanções.\n\n2 - Constitui atribuição do IMOPPI inspeccionar, fiscalizar e instruir os respectivos processos por contra-ordenação, quando se verifiquem as infracções mencionadas nas alíneas a) a c) e e) do n.º 1 do artigo 13.º, competindo ao seu presidente aplicar as respectivas coimas e demais sanções.\n\n3 - Compete à câmara municipal inspeccionar, fiscalizar e instruir os respectivos processos por contra-ordenação quando se verifique a infracção mencionada na alínea d) do n.º 1 do artigo 13.º, competindo ao seu presidente aplicar as respectivas coimas e demais sanções.\n\n4 - A receita das coimas reverte em 60% para o Estado e em 40% para o Instituto do Consumidor, para o IMOPPI ou, ainda, para a câmara municipal, consoante os casos, de acordo com as regras previstas nos números anteriores.\n\n5 - A receita das coimas aplicadas pelos presidentes de câmara pela contra-ordenação prevista na alínea d) do n.º 1 do artigo 13.º reverte na totalidade para a respectiva câmara municipal."
+  },
+  "156233976": {
+   "fragment_id": "156233880",
+   "type": 11,
+   "heading": "Artigo 16.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Responsabilidade civil\n\n1 - O técnico responsável pela obra e o promotor imobiliário mencionados no artigo 4.º são solidariamente responsáveis pelos danos causados ao comprador ou a terceiros, caso o teor da declaração ou das informações constantes na ficha técnica da habitação não corresponda à verdade, sem prejuízo das normas gerais sobre responsabilidade civil aplicáveis.\n\n2 - A responsabilidade solidária referida no número anterior cessa quando o prédio urbano para fim habitacional seja objecto de obras de construção, reconstrução, ampliação ou alteração, realizadas por iniciativa do respectivo proprietário, em momento posterior à emissão original da competente ficha técnica da habitação, desde que, em virtude de tais obras, as características técnicas e funcionais aí descritas deixem, efectivamente, de corresponder às originais características do edificado."
+  },
+  "156233977": {
+   "fragment_id": "156233881",
+   "type": 1,
+   "heading": "Capítulo V — Extensão do âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Extensão do âmbito de aplicação"
+  },
+  "156233978": {
+   "fragment_id": "156233882",
+   "type": 11,
+   "heading": "Artigo 17.º — Contratos de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contratos de arrendamento\n\nNos contratos de arrendamento relativos a imóveis para habitação abrangidos pelo presente diploma, o locador, seja ou não profissional, ou a empresa de mediação imobiliária, quando legalmente habilitada para o efeito, deve, antes da celebração do contrato, facultar ao arrendatário o acesso à ficha técnica da habitação a que se refere o artigo 4.º"
+  },
+  "156233979": {
+   "fragment_id": "156233883",
+   "type": 11,
+   "heading": "Artigo 18.º — Contratos celebrados entre consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contratos celebrados entre consumidores\n\nO disposto no n.º 1 do artigo 9.º aplica-se aos contratos celebrados entre consumidores, caso o prédio urbano destinado à habitação que é objecto de transmissão já possua ficha técnica da habitação."
+  },
+  "156233980": {
+   "fragment_id": "156233884",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "156233981": {
+   "fragment_id": "156233885",
+   "type": 11,
+   "heading": "Artigo 19.º — Modelo da ficha técnica da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Modelo da ficha técnica da habitação\n\nO modelo da ficha técnica da habitação é aprovado por portaria conjunta dos ministros que tutelam a economia, a habitação e a defesa do consumidor, no prazo máximo de 90 dias a contar da data da entrada em vigor do presente diploma."
+  },
+  "156233982": {
+   "fragment_id": "156233886",
+   "type": 11,
+   "heading": "Artigo 20.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposição transitória\n\nOs profissionais abrangidos pelo presente diploma dispõem de um período máximo de 90 dias, a contar da entrada em vigor da portaria conjunta referida no artigo anterior, para se adaptarem aos requisitos a que obedecem a publicidade e a informação disponibilizadas aos consumidores no âmbito da aquisição de imóveis para habitação."
+  }
+ }
+}

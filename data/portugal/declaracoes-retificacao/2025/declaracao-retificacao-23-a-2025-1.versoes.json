@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:917817243:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao-retificacao/2025-918125452",
+ "dre_path": "/dr/detalhe/declaracao-retificacao/23-a-2025-917817243",
+ "source_lastmod": "2025-05-22",
+ "versions": [
+  {
+   "date": "2025-05-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919118775"
+   ]
+  }
+ ],
+ "fragments": {
+  "919118775": {
+   "fragment_id": "918125453",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração de Retificação n.º 23-A/2025/1\n\nRetifica a Lei n.º 25-A/2025, de 13 de março, que procedeu à reposição de freguesias agregadas pela Lei n.º 11-A/2013, de 28 de janeiro, concluindo o procedimento especial, simplificado e transitório de criação de freguesias previsto na Lei n.º 39/2021\nA Assembleia da República declara, nos termos do n.º 2 do artigo 115.º do Regimento da Assembleia da República, que a Lei n.º 25-A/2025, de 13 de março, que procedeu à reposição de freguesias agregadas pela Lei n.º 11-A/2013, de 28 de janeiro, concluindo o procedimento especial, simplificado e transitório de criação de freguesias previsto na Lei n.º 39/2021, de 24 de junho, publicada no Diário da República, em suplemento, na 1.ª série, n.º 51, de 13 de março de 2025, saiu com as seguintes incorreções, que assim se retificam:\nNa tabela que consta do anexo a que se referem os artigos 2.º e 3.º:\nOnde se lê:\n\n| AMunicípio | BFreguesias existentes | CFreguesias a restaurar |\n| --- | --- | --- |\n| ... | ... | ... |\n| Marco de Canaveses | União das Freguesias de Penha Longa e Paços de Gaiolo | Freguesia de Penha Longa |\n| Freguesia de Paços de Gaiola |  |  |\n| ... | ... | ... |\n| Santa Marta de Penaguião | União das Freguesias de Lobrigos (São Miguel e São João Baptista) e SanhoaneSão Miguel de Lobrigos | Freguesia de Lobrigos (São Miguel) |\n| Freguesia de Lobrigos (São João Baptista) |  |  |\n| Freguesia de Sanhoane |  |  |\n\ndeve ler-se:\n\n| AMunicípio | BFreguesias existentes | CFreguesias a restaurar |\n| --- | --- | --- |\n| ... | ... | ... |\n| Marco de Canaveses | Freguesia de Penha Longa e Paços de Gaiolo | Freguesia de Penha Longa |\n| Freguesia de Paços de Gaiolo |  |  |\n| ... | ... | ... |\n| Santa Marta de Penaguião | União das Freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane | Freguesia de Lobrigos (São Miguel) |\n| Freguesia de Lobrigos (São João Baptista) |  |  |\n| Freguesia de Sanhoane |  |  |"
+  }
+ }
+}

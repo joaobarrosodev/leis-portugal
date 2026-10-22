@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:417626:por
+title: Despacho Normativo n.º 72/87
+short_title: null
+summary: Determina que a competência para a emissão de certificados de fabricação e de comercialização em Portugal de produtos
+  para cuja exportação as autoridades espanholas os exigem seja delegada nas Câmaras de Comércio e Indústria de Lisboa e do
+  Porto
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Indústria e Comércio
+proposing_entity: null
+official_number: 72/87
+official_date: null
+publication_date: '1987-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/1987, Série I de 1987-08-18
+  number: '188'
+  series: I
+  supplement: null
+  pages: 3229 - 3229
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18800/32293229.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '417626'
+  dre_path: /dr/detalhe/despacho-normativo/72-1987-417626
+  internal: pt:dre:417626:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/72-1987-417626
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/72-1987-417626
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-08-18T00:00:00Z'
+integrity:
+  source_sha256: b70944f20a6929d2e5045faec2abe170c8f0dffe9d6c15cc1cd1066dab660f6d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-72-417626.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 72/87
+
+Considerando que, em relação à importação de certos produtos, as autoridades espanholas têm vindo a dispensar uma homologação prévia, exigindo antes a certificação de que os mesmos são legalmente fabricados e comercializados num Estado membro das Comunidades Europeias e ali cumprem os regulamentos e processos de fabrico estabelecidos;
+
+Considerando ainda que às Câmaras de Comércio e Indústria de Lisboa e do Porto pode ser atribuída competência para a emissão de tais certificados, ao abrigo do n.º 6.º do artigo 3.º do Decreto de 10 de Fevereiro de 1894, tal como já se verifica com a emissão de certificados de origem:
+
+Determino:
+
+A competência para a emissão de certificados de fabricação e de comercialização em Portugal de produtos para cuja exportação as autoridades espanholas os exigem é delegada nas Câmaras de Comércio e Indústria de Lisboa e do Porto.
+
+Ministério da Indústria e Comércio, 27 de Julho de 1987. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.

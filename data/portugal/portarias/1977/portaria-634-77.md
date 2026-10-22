@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:279247:por
+title: Portaria n.º 634/77
+short_title: null
+summary: Adita duas alíneas ao n.º 2.º da Portaria n.º 413/73, de 9 de Junho, que fixa as condições em que será autorizada
+  a instalação de novas farmácias ou a sua transferência
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Saúde - Direcção-Geral de Saúde
+proposing_entity: null
+official_number: 634/77
+official_date: null
+publication_date: '1977-10-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 230/1977, Série I de 1977-10-04
+  number: '230'
+  series: I
+  supplement: null
+  pages: 2436 - 2436
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23000/24362436.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '279247'
+  dre_path: /dr/detalhe/portaria/634-1977-279247
+  internal: pt:dre:279247:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/634-1977-279247
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/634-1977-279247
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-09-22T00:00:00Z'
+integrity:
+  source_sha256: e6918bf7546a8b4fc12e71717a871199e6a45fb367baa37fe8b5d579b9c190ae
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-634-279247.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:495726:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 634/77
+
+de 4 de Outubro
+
+1 - A [Portaria n.º 413/73](https://diariodarepublica.pt/dr/detalhe/portaria/413-1973-422659), de 9 de Junho, veio fixar as condições em que será autorizada a instalação de novas farmácias ou a sua transferência.
+
+2 - A experiência veio demonstrar a necessidade de acrescentar àquele diploma mais dois casos em que será possível instalar uma farmácia, com vista a defender os interesses dos habitantes da região considerada.
+
+3 - Assim, propôs a Direcção-Geral de Saúde, pelos seus serviços competentes, que ao n.º 2.º da citada [Portaria n.º 413/73](https://diariodarepublica.pt/dr/detalhe/portaria/413-1973-422659) sejam aditados mais dois parágrafos, permitindo um a instalação de uma nova farmácia, quando esta fique a mais de 5 km da mais próxima, quer se situe no mesmo concelho, quer em qualquer concelho vizinho, e o outro que a referida instalação se possa fazer na área de partido médico que a não possua, desde que essa instalação se verifique na sua sede ou a 3 km da farmácia mais próxima.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, o seguinte:
+
+Número único. Ao n.º 2.º da [Portaria n.º 413/73](https://diariodarepublica.pt/dr/detalhe/portaria/413-1973-422659), de 9 de Junho, são aditadas as seguintes alíneas:
+
+c) A farmácia a instalar fique a mais de 5 km da mais próxima, quer esta se situe no mesmo concelho, quer em algum dos concelhos vizinhos;
+
+d) A instalação da farmácia se faça na área de partido médico que a não possua, desde que seja instalada na sede desse partido ou a 3 km, pelo menos, da farmácia mais próxima.
+
+Ministério dos Assuntos Sociais, 21 de Setembro de 1977. - O Ministro dos Assuntos Sociais, Armando Bacelar.

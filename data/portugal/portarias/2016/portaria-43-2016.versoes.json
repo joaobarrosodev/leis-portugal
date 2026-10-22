@@ -1,0 +1,546 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73841234:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-74403716",
+ "dre_path": "/dr/detalhe/portaria/43-2016-73841234",
+ "source_lastmod": "2024-09-16",
+ "versions": [
+  {
+   "date": "2016-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74388017",
+    "74388018",
+    "74388019",
+    "74388020",
+    "74388021",
+    "74388022",
+    "74388023",
+    "74388024",
+    "74388025",
+    "74388026",
+    "74388027",
+    "74388028",
+    "74388029",
+    "74388030",
+    "74388031",
+    "74388032",
+    "74388033",
+    "74388034",
+    "74388035",
+    "74388036",
+    "74388037",
+    "74388038",
+    "74388039",
+    "74388040",
+    "74388041",
+    "74388042",
+    "74388043",
+    "74388044",
+    "74388045",
+    "74388046",
+    "74388047",
+    "74388048",
+    "74388049",
+    "74388050",
+    "74388051",
+    "74388052",
+    "74388053",
+    "74388054",
+    "74388055",
+    "74388056",
+    "74388057",
+    "74388058",
+    "74388059",
+    "74388060",
+    "74388061",
+    "74388062",
+    "74388063"
+   ]
+  },
+  {
+   "date": "2017-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106654348:por",
+     "title": "Portaria n.º 121/2017",
+     "published": "2017-03-24",
+     "dre_path": "/dr/detalhe/portaria/121-2017-106654348"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "74388017",
+    "74388018",
+    "74388019",
+    "74388020",
+    "887843054",
+    "74388022",
+    "74388023",
+    "74388024",
+    "74388025",
+    "74388026",
+    "74388027",
+    "74388028",
+    "74388029",
+    "887843052",
+    "74388031",
+    "74388032",
+    "74388033",
+    "74388034",
+    "74388035",
+    "74388036",
+    "74388037",
+    "74388038",
+    "74388039",
+    "74388040",
+    "74388041",
+    "887843053",
+    "74388043",
+    "74388044",
+    "74388045",
+    "74388046",
+    "74388047",
+    "74388048",
+    "74388049",
+    "74388050",
+    "74388051",
+    "74388052",
+    "74388053",
+    "74388054",
+    "74388055",
+    "74388056",
+    "74388057",
+    "74388058",
+    "74388059",
+    "74388060",
+    "74388061",
+    "74388062",
+    "74388063",
+    "74388064"
+   ]
+  }
+ ],
+ "fragments": {
+  "74388017": {
+   "fragment_id": "74403717",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 43/2016\n\nA Resolução do Conselho de Ministros n.º 46/2015, de 9 de julho, aprovou o sistema de gestão e controlo dos fundos europeus do Quadro Financeiro Plurianual 2014-2020, no domínio dos assuntos internos, no referente à designação e às competências de gestão e de controlo das autoridades designadas e ao estatuto e obrigações da autoridade de auditoria nos termos do artigo 25.º do Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014.\n\nPor força daquela Resolução, as suas disposições são aplicáveis ao Fundo para a Segurança Interna (FSI), o qual é integrado pelo instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises (Cooperação Policial) e pelo instrumento de apoio financeiro em matéria de fronteiras externas e à política comum de vistos (Fronteiras e Vistos).\n\nO instrumento de apoio financeiro à Cooperação Policial foi criado pelo Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e o instrumento de apoio financeiro às Fronteiras e Vistos pelo Regulamento (UE) n.º 515/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014.\n\nNos termos do n.º 15 da referida Resolução, a implementação, a monitorização e a avaliação do Programa Nacional são desenvolvidas com base num sistema de parceria assente, ao nível político, na Comissão Interministerial de Coordenação (CIC) e, ao nível técnico, no Comité de Acompanhamento Técnico (CAT) para a área dos fundos dos assuntos internos.\n\nDe acordo com o n.º 2 da referida Resolução, a Autoridade Responsável, com competências na aplicação, programação, implementação, controlo e reporte de todas as ações que Portugal desenvolva no âmbito da gestão do FSI é a Secretaria-Geral do Ministério da Administração Interna (SGMAI). A Secretaria-Geral do Ministério da Justiça é, no entanto, designada como Autoridade Delegada no contexto do FSI - Cooperação Policial.\n\nImporta, pois, operacionalizar o FSI em algumas das matérias que exigem adaptações face à natureza própria do fundo, através da aprovação desta Portaria, para o seu período de execução.\n\nAssim, ao abrigo da alínea g) do artigo 199.º da Constituição da República Portuguesa, e considerando o disposto no n.º 8 do artigo 2.º do Decreto Regulamentar n.º 29/2012, de 13 de março, na redação dada pelo Decreto-Lei n.º 112/2014, de 11 de julho, manda o Governo, pelo Ministro dos Negócios Estrangeiros, pelo Ministro das Finanças, pela Ministra da Administração Interna e pela Ministra da Justiça, o seguinte:"
+  },
+  "74388018": {
+   "fragment_id": "74403718",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "74388019": {
+   "fragment_id": "74403719",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente Portaria define as condições de acesso e as regras gerais de cofinanciamento comunitário aos projetos apresentados ao abrigo do Fundo para a Segurança Interna (FSI), para o seu período de execução.\n\n2 - O FSI rege-se, nomeadamente, pelos seguintes instrumentos:\n\na) Regulamento (UE) n.º 513/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que institui o apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises;\n\nb) Regulamento (UE) n.º 515/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, em matérias de fronteiras externas e de vistos;\n\nc) Regulamento (UE) n.º 514/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece as disposições gerais aplicáveis ao Fundo para o Asilo, a Migração e a Integração (FAMI) e ao Instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises, cujo apoio financeiro decorre da decisão da Comissão COM (2015) 5411 final, de 10.08.2015, que aprova o Programa Nacional de Portugal para o período de 2014-2020;\n\nd) Regulamento Delegado (UE) n.º 1042/2014, da Comissão, de 25 de julho de 2014, que completa o Regulamento (UE) n.º 514/2014 no que se refere à designação e às competências de gestão e de controlo das autoridades responsáveis e no que se refere ao estatuto e obrigações das autoridades de auditoria."
+  },
+  "74388020": {
+   "fragment_id": "74403720",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nO beneficiário é a entidade legalmente responsável pela implementação do projeto e destinatária final do financiamento."
+  },
+  "74388021": {
+   "fragment_id": "74403721",
+   "type": 11,
+   "heading": "Artigo 3.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Candidaturas\n\n1 - Podem apresentar pedidos de financiamento os serviços e organismos do Estado com competências legais nas áreas de intervenção do FSI, assim como as organizações não-governamentais, organizações internacionais e outras entidades coletivas, públicas ou privadas, sem fins lucrativos, que desenvolvam a sua atividade nas mesmas áreas.\n\n2 - As entidades referidas no número anterior podem submeter projetos em parceria entre si, devendo, para este efeito, indicar qual destas entidades assume, perante a Autoridade Responsável, o estatuto de beneficiário, ficando os parceiros do projeto sujeitos às mesmas obrigações do beneficiário.\n\n3 - As autoridades envolvidas nas medidas preparatórias de gestão, de acompanhamento, de avaliação, de auditoria e controlo, bem como nas medidas destinadas a reforçar a capacidade administrativa para gestão do FSI podem ser beneficiárias do financiamento de Assistência Técnica.\n\n4 - As ações financiadas pelo FSI não podem ter fins lucrativos nem beneficiar de outras fontes de financiamento comunitário."
+  },
+  "74388022": {
+   "fragment_id": "74403722",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura de financiamento\n\n1 - As contribuições financeiras efetuadas ao abrigo do FSI assumem a forma de subvenções.\n\n2 - As dotações do FSI são complementares das despesas realizadas pelas entidades referidas no artigo anterior.\n\n3 - O FSI financia até 75 % do total das despesas elegíveis de um projeto.\n\n4 - Relativamente a ações específicas ou prioridades estratégicas, e em situações excecionais devidamente justificadas nos termos definidos nos regulamentos específicos, a contribuição comunitária pode ser aumentada para 90 %, sendo o custo restante assegurado pelo beneficiário, diretamente ou através de financiamento de outras entidades."
+  },
+  "74388023": {
+   "fragment_id": "74403723",
+   "type": 11,
+   "heading": "Artigo 5.º — Assistência Técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Assistência Técnica\n\nNo âmbito da Assistência Técnica, as candidaturas são apresentadas na sequência de convite da Autoridade Responsável, podendo a taxa de cofinanciamento ascender até 100 % do total das despesas elegíveis."
+  },
+  "74388024": {
+   "fragment_id": "74403724",
+   "type": 11,
+   "heading": "Artigo 6.º — Revisão do Programa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Revisão do Programa Nacional\n\nCompete à Comissão Interministerial de Coordenação a aprovação da revisão do Programa Nacional após parecer prévio do Comité de Acompanhamento Técnico sobre proposta da Autoridade Responsável."
+  },
+  "74388025": {
+   "fragment_id": "74403725",
+   "type": 11,
+   "heading": "Artigo 7.º — Autoridade Responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autoridade Responsável\n\n1 - A Autoridade Responsável é a Secretaria-Geral do Ministério da Administração Interna, nos termos do ponto n.º 2 da Resolução do Conselho de Ministros n.º 46/2015, de 9 de julho.\n\n2 - As competências da Autoridade Responsável encontram-se definidas na alínea a) do n.º 1 do artigo 25.º do Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e visam assegurar a gestão técnica, administrativa e financeira do Fundo."
+  },
+  "74388026": {
+   "fragment_id": "74403726",
+   "type": 11,
+   "heading": "Artigo 8.º — Autoridade Delegada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autoridade Delegada\n\n1 - A Autoridade Delegada no âmbito do FSI - Cooperação Policial é a Secretaria-Geral do Ministério da Justiça, nos termos do ponto n.º 11 da Resolução do Conselho de Ministros n.º 46/2015, de 9 de julho, assumindo as competências delegadas pela Autoridade Responsável.\n\n2 - As competências e os termos da delegação são objeto de contrato de delegação de competências a celebrar entre a Autoridade Responsável e a Autoridade Delegada, no prazo de cinco dias, a contar da publicação desta Portaria."
+  },
+  "74388027": {
+   "fragment_id": "74403727",
+   "type": 11,
+   "heading": "Artigo 9.º — Autoridade de Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autoridade de Auditoria\n\n1 - A Autoridade de Auditoria é a Inspeção-Geral de Finanças, nos termos conjugados da alínea d) do n.º 2 do artigo 2.º do Decreto-Lei n.º 96/2012, de 23 de abril, e do ponto n.º 2 da Resolução do Conselho de Ministros n.º 46/2015, de 9 de julho.\n\n2 - As competências da Autoridade de Auditoria encontram-se definidas na alínea b) do n.º 1 do artigo 25.º do Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e visam o controlo do funcionamento eficaz do sistema de gestão e de controlo do Fundo, bem como a uma amostra adequada das despesas incluídas nas contas anuais, em conformidade com os normativos existentes nesta matéria."
+  },
+  "74388028": {
+   "fragment_id": "74403728",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento de candidatura"
+  },
+  "74388029": {
+   "fragment_id": "74403729",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação de candidatura\n\n1 - As candidaturas a financiamento de projetos são apresentadas na sequência de anúncio ou convite da Autoridade Responsável, publicado em órgão de comunicação social de grande difusão nacional e no sítio da internet da Autoridade Responsável, sem prejuízo de outras formas de divulgação adicionais.\n\n2 - Os avisos para apresentação de candidaturas podem ser de natureza geral ou específica, decorrente dos objetivos, das ações elegíveis e das prioridades estratégicas do apoio financeiro a prestar no âmbito do instrumento.\n\n3 - Do anúncio ou do convite constam, diretamente ou por remissão para a página eletrónica nele indicado, entre outros, o prazo de apresentação das candidaturas e outros elementos relevantes, designadamente, os objetivos do FSI nos quais as candidaturas devem enquadrar-se, a dotação financeira disponível, o período de elegibilidade temporal, os critérios de admissão, seleção e avaliação e os documentos de apresentação obrigatória."
+  },
+  "74388030": {
+   "fragment_id": "74403730",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições de admissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições de admissibilidade\n\n1 - Apenas são analisadas pela Autoridade Responsável as candidaturas dos projetos das entidades que, cumulativamente:\n\na) Tenham a sua situação tributária e contributiva regularizada perante a administração fiscal e perante a segurança social;\n\nb) Não tenham dívidas ao FSI;\n\nc) Não estejam inibidas de concorrer por força dos factos descritos nas alíneas b) e i) do n.º 1 do artigo 36.º da presente portaria;\n\nd) Demonstrem capacidade de financiamento do projeto;\n\ne) Demonstrem que as entidades parceiras cumprem o disposto nas alíneas anteriores.\n\n2 - Constituem requisitos gerais de admissão das candidaturas:\n\na) O enquadramento da candidatura nos objetivos e ações previstas na legislação comunitária referente ao FSI;\n\nb) A apresentação de projeto técnico de engenharia/arquitetura aprovado nos termos legais, sempre que aplicável;\n\nc) O cumprimento da legislação nacional e comunitária, em matéria de igualdade de oportunidades, informação e publicidade;\n\nd) O cumprimento das disposições legais nacionais e comunitárias, nos procedimentos de contratação pública;\n\ne) A acreditação, nos termos legais, do titular do pedido, ou das entidades a que recorra, para efeitos de execução de atividades de formação;\n\nf) Comprovem que é assegurada a contrapartida nacional, quando aplicável."
+  },
+  "74388031": {
+   "fragment_id": "74403731",
+   "type": 11,
+   "heading": "Artigo 12.º — Processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Processo de candidatura\n\n1 - A apresentação das candidaturas é efetuada exclusivamente na plataforma eletrónica da responsabilidade da Autoridade Responsável, através da submissão em formulário eletrónico próprio disponibilizado para o efeito, devidamente preenchido e acompanhado de toda a documentação relevante de suporte.\n\n2 - Sem prejuízo de outra documentação que venha a ser exigida pela Autoridade Responsável, com a candidatura é ainda exigível a apresentação eletrónica, com recurso a assinatura eletrónica certificada, de um termo de responsabilidade onde conste, sob compromisso de honra, declaração de cumprimento dos requisitos constantes do artigo anterior.\n\n3 - Caso a entidade candidata não disponha de assinatura eletrónica certificada, o termo de responsabilidade deve ser entregue em suporte de papel, com assinaturas dos representantes legais, com poderes para o ato, ou, tratando-se de serviço ou organismo do Estado, de quem detenha competência para a prática do ato."
+  },
+  "74388032": {
+   "fragment_id": "74403732",
+   "type": 11,
+   "heading": "Artigo 13.º — Inadmissibilidade da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inadmissibilidade da candidatura\n\nConstituem motivos de inadmissibilidade das candidaturas e consequente arquivamento:\n\na) A intempestividade da apresentação da candidatura;\n\nb) A inelegibilidade do projeto quando, da análise dos elementos instrutórios, resultar que o pedido de cofinanciamento não se enquadra nos normativos regulamentares aplicáveis;\n\nc) O incumprimento dos requisitos gerais de admissão das candidaturas constantes do n.º 2 do artigo 11.º"
+  },
+  "74388033": {
+   "fragment_id": "74403733",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e seleção das candidaturas\n\n1 - As candidaturas admitidas são avaliadas de acordo com os critérios de seleção previstos, consubstanciados numa grelha de análise que pondera os referidos critérios e preside à avaliação, hierarquização e seleção das candidaturas, a qual consta do aviso de abertura ou convite.\n\n2 - Entre os critérios de seleção previstos pela Autoridade Responsável no aviso de abertura constam, necessariamente, os seguintes:\n\na) Grau de contributo para os indicadores específicos do Programa Nacional;\n\nb) Grau de sustentabilidade do projeto;\n\nc) Grau de complementaridade com outros projetos cofinanciados.\n\n3 - São indeferidas as candidaturas relativamente às quais se conclua pela insuficiente valia das mesmas face aos critérios de seleção.\n\n4 - São ainda indeferidas as candidaturas com mérito, mas com falta de dotação financeira para possibilitar a sua aprovação."
+  },
+  "74388034": {
+   "fragment_id": "74403734",
+   "type": 11,
+   "heading": "Artigo 15.º — Decisão de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisão de aprovação\n\n1 - A aprovação das candidaturas e a aprovação do financiamento competem à Autoridade Responsável.\n\n2 - A Autoridade Responsável dá conhecimento do resultado da análise do processo decorrente de cada aviso de apresentação de candidaturas ao Comité de Acompanhamento Técnico e à Comissão Interministerial de Coordenação.\n\n3 - A decisão de aprovação ou de rejeição do financiamento é notificada ao candidato.\n\n4 - A eficácia da decisão de aprovação está condicionada à devolução da convenção de subvenção, nos termos do artigo seguinte."
+  },
+  "74388035": {
+   "fragment_id": "74403735",
+   "type": 11,
+   "heading": "Artigo 16.º — Convenção de subvenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Convenção de subvenção\n\n1 - A convenção de subvenção traduz o compromisso de execução do projeto, nos exatos termos do ato de aprovação do financiamento, responsabilizando a entidade signatária em caso de incumprimento das obrigações daí decorrentes.\n\n2 - A devolução da convenção de subvenção à Autoridade Responsável é efetuada num prazo de 15 dias corridos a contar da notificação da decisão, em suporte de papel, com assinaturas dos representantes legais do beneficiário, reconhecidas na qualidade e com poderes para o ato ou, tratando-se de serviço ou organismo do Estado, de quem detenha competência para a prática do ato, autenticado nos termos da lei.\n\n3 - Pode ser concedida uma prorrogação do prazo estabelecido no número anterior, pela Autoridade Responsável, nos casos devidamente fundamentados."
+  },
+  "74388036": {
+   "fragment_id": "74403736",
+   "type": 1,
+   "heading": "Capítulo III — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Financiamento"
+  },
+  "74388037": {
+   "fragment_id": "74403737",
+   "type": 8,
+   "heading": "Secção I — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Elegibilidade das despesas"
+  },
+  "74388038": {
+   "fragment_id": "74403738",
+   "type": 11,
+   "heading": "Artigo 17.º — Pressupostos e requisitos da elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pressupostos e requisitos da elegibilidade\n\n1 - São elegíveis as despesas efetuadas no âmbito da realização dos projetos, aprovadas pela Autoridade Responsável, em conformidade com os critérios de seleção, a regulamentação específica e com os avisos para a apresentação de candidaturas.\n\n2 - São elegíveis as despesas que tenham sido realizadas entre 1 de janeiro de 2014 e 31 de dezembro de 2022, sem prejuízo das demais regras de elegibilidade de despesas, designadamente, as constantes da legislação nacional e comunitária aplicável.\n\n3 - A Autoridade Responsável analisa e procede ao apuramento dos custos elegíveis, de acordo com os critérios estabelecidos no número seguinte e de acordo com regras de elegibilidade, de conformidade e de razoabilidade das despesas apresentadas pelos beneficiários.\n\n4 - Consideram-se custos elegíveis de um projeto aqueles que cumpram cumulativamente os seguintes requisitos:\n\na) Sejam suscetíveis de financiamento nos termos da legislação europeia e nacional relativa ao FSI;\n\nb) Sejam efetivamente incorridos e pagos pelos beneficiários na execução das ações que integram a candidatura aprovada pela Autoridade Responsável, comprovados por documento válido, designadamente, fatura, recibo ou outro documento contabilístico com valor probatório equivalente, fiscalmente aceite;\n\nc) Cumpram os princípios da economia, eficiência e eficácia e da relação custo/benefício.\n\n5 - A elegibilidade da despesa depende, também, da legalidade substancial e dos procedimentos de que resulta, designadamente, em matéria de contratação pública, bem como, tratando-se de atividades de formação, de terem sido executadas por entidades acreditadas e ministradas por formadores certificados.\n\n6 - A inelegibilidade da despesa constitui fundamento para o não pagamento do respetivo cofinanciamento pelo FSI."
+  },
+  "74388039": {
+   "fragment_id": "74403739",
+   "type": 11,
+   "heading": "Artigo 18.º — Período de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Período de elegibilidade\n\nOs projetos financiados não devem ter sido concluídos antes da data de início de elegibilidade."
+  },
+  "74388040": {
+   "fragment_id": "74403740",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Despesas não elegíveis\n\nNão são elegíveis ao abrigo dos regulamentos específicos as seguintes despesas:\n\na) Juros devedores;\n\nb) Aquisição de terrenos não edificados;\n\nc) Aquisição de terrenos edificados, quando o terreno for necessário à execução do projeto, por um montante superior a 10 % do total das despesas elegíveis do projeto em causa;\n\nd) Imposto sobre o valor acrescentado (IVA), exceto no caso de este não ser reembolsável nos termos da legislação nacional em matéria de IVA."
+  },
+  "74388041": {
+   "fragment_id": "74403741",
+   "type": 8,
+   "heading": "Secção II — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pagamento"
+  },
+  "74388042": {
+   "fragment_id": "74403742",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime de pagamento\n\n1 - Na medida das disponibilidades decorrentes do ritmo dos fluxos financeiros comunitários, os pagamentos do financiamento do FSI são efetuados do seguinte modo:\n\na) Pré-financiamento de 50 % do montante financiado pelo FSI, após a comunicação à Autoridade Responsável da data de início de execução do projeto;\n\nb) O reembolso das despesas realizadas e pagas, acrescido do pré-financiamento referido na alínea anterior, não pode ultrapassar os 95 %;\n\nc) O restante valor de 5 %, após aprovação do saldo.\n\n2 - Os pagamentos só são efetuados caso o beneficiário tenha a sua situação tributária e contributiva regularizada face à administração fiscal e à segurança social, bem como se inexistirem dívidas no âmbito do FSI."
+  },
+  "74388043": {
+   "fragment_id": "74403743",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime de tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime de tesouraria\n\nAs verbas do FSI devem ser mantidas em conta específica junto da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E."
+  },
+  "74388044": {
+   "fragment_id": "74403744",
+   "type": 11,
+   "heading": "Artigo 22.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reembolso\n\n1 - O pedido de reembolso de despesa pode ser efetuado a partir da data de início de execução do projeto, através da submissão de formulário próprio disponibilizado para o efeito na plataforma eletrónica da responsabilidade da Autoridade Responsável, devidamente preenchido e acompanhado de toda a documentação de suporte relevante e necessária para o efeito.\n\n2 - O primeiro pedido de reembolso é submetido no prazo máximo de 90 dias contados da data de pagamento pela Autoridade Responsável do pré-financiamento.\n\n3 - Entre pedidos de reembolso não pode decorrer um período superior a 90 dias.\n\n4 - A efetivação de qualquer reembolso não supõe e não dispensa, em caso algum, a ulterior apreciação da elegibilidade e razoabilidade das correspondentes despesas, a efetuar, designadamente, em sede de acompanhamento, de controlo ou de decisão sobre o pedido de pagamento de saldo."
+  },
+  "74388045": {
+   "fragment_id": "74403745",
+   "type": 11,
+   "heading": "Artigo 23.º — Pedido de pagamento de saldo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pedido de pagamento de saldo\n\n1 - O pedido de pagamento de saldo deve ser solicitado através da submissão de formulário próprio disponibilizado para o efeito na plataforma eletrónica da responsabilidade da Autoridade Responsável.\n\n2 - O prazo para apresentação do pedido de pagamento de saldo é de 45 dias a contar da data da conclusão do projeto."
+  },
+  "74388046": {
+   "fragment_id": "74403746",
+   "type": 1,
+   "heading": "Capítulo IV — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Obrigações dos beneficiários"
+  },
+  "74388047": {
+   "fragment_id": "74403747",
+   "type": 11,
+   "heading": "Artigo 24.º — Organização contabilística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Organização contabilística\n\n1 - Os beneficiários devem dispor de contabilidade organizada segundo o sistema de normalização contabilística ou de outro sistema contabilístico considerado adequado pela Autoridade Responsável, ficando obrigados, designadamente, a respeitar os princípios e conceitos contabilísticos, critérios de valorimetria e métodos de custeio legalmente definidos na contabilização dos custos.\n\n2 - A contabilidade específica do projeto exige a aposição, no rosto do original de cada documento contabilístico relativo ao projeto, da menção «Financiado pelo FSI», contendo o código do projeto, o valor imputado, o valor total, a taxa de imputação (%), a classificação contabilística e a rubrica, conforme modelo de carimbo disponibilizado na plataforma eletrónica da responsabilidade da Autoridade Responsável."
+  },
+  "74388048": {
+   "fragment_id": "74403748",
+   "type": 11,
+   "heading": "Artigo 25.º — Dossier técnico-financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Dossier técnico-financeiro\n\n1 - Os beneficiários devem constituir e manter permanentemente atualizado um dossier técnico-financeiro do projeto.\n\n2 - O dossier técnico-financeiro do projeto deve conter os seguintes elementos:\n\na) Listas de custos;\n\nb) Cópias fiéis, extraídas após a aposição das menções referidas no n.º 2 do artigo anterior, dos documentos da despesa imputada ao projeto, referenciando o respetivo número de lançamento na contabilidade geral;\n\nc) Documentos comprovativos da execução das diferentes atividades, de modo a que seja possível estabelecer a relação entre as despesas realizadas e a sua imputação ao projeto;\n\nd) Justificação das taxas de imputação ao projeto e respetivo método de cálculo.\n\n3 - O dossier técnico-financeiro deve estar disponível na sede da entidade beneficiária, estando os beneficiários obrigados, sempre que solicitado pela Autoridade Responsável, a entregar cópia dos documentos que o integrem."
+  },
+  "74388049": {
+   "fragment_id": "74403749",
+   "type": 11,
+   "heading": "Artigo 26.º — Conservação da documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Conservação da documentação\n\n1 - Toda a documentação referente ao projeto deve ser conservada pelo beneficiário durante cinco anos, a contar da data de encerramento do programa, para eventual apresentação às entidades nacionais e comunitárias, salvo se, até ao termo desse prazo, lhe for indicado prazo superior.\n\n2 - Os documentos são conservados sob a forma de documentos originais ou de cópias autenticadas."
+  },
+  "74388050": {
+   "fragment_id": "74403750",
+   "type": 11,
+   "heading": "Artigo 27.º — Conta bancária específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conta bancária específica\n\nOs pagamentos e recebimentos referentes ao financiamento pelo FSI são exclusivamente efetuados através de conta bancária específica indicada para o efeito na convenção de subvenção."
+  },
+  "74388051": {
+   "fragment_id": "74403751",
+   "type": 1,
+   "heading": "Capítulo V — Factos modificativos e extintivos do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Factos modificativos e extintivos do financiamento"
+  },
+  "74388052": {
+   "fragment_id": "74403752",
+   "type": 11,
+   "heading": "Artigo 28.º — Pedido de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pedido de alteração\n\n1 - Qualquer pretensão de alteração da decisão de aprovação do financiamento carece da apresentação de pedido de alteração através da submissão eletrónica de formulário próprio disponibilizado para o efeito na plataforma eletrónica da responsabilidade da Autoridade Responsável.\n\n2 - Ao pedido de alteração e à alteração da decisão, inicial ou proferida sobre o pedido de alteração, aplicam-se, respetivamente, as disposições referentes à candidatura e à decisão inicial, designadamente, as relativas à sua admissão.\n\n3 - Apenas é permitida a apresentação de um pedido de alteração, salvo em situações excecionais devidamente fundamentadas e autorizadas pela Autoridade Responsável."
+  },
+  "74388053": {
+   "fragment_id": "74403753",
+   "type": 11,
+   "heading": "Artigo 29.º — Revisão da decisão sobre o saldo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revisão da decisão sobre o saldo\n\nA decisão sobre qualquer pedido de pagamento de saldo pode ser revista pela Autoridade Responsável, nomeadamente, com fundamento em auditoria contabilístico-financeira, no prazo de cinco anos após o encerramento do programa, ou em prazo superior se, entretanto, tiver sido indicado ao beneficiário um prazo superior para conservação da documentação do projeto."
+  },
+  "74388054": {
+   "fragment_id": "74403754",
+   "type": 11,
+   "heading": "Artigo 30.º — Suspensão dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Suspensão dos pagamentos\n\n1 - Os fundamentos para a suspensão dos pagamentos aos beneficiários são os seguintes:\n\na) Inexistência ou deficiência grave na organização dos processos contabilísticos ou técnicos;\n\nb) Inexistência de conta bancária específica para transações relacionadas com utilização do financiamento do FSI;\n\nc) Falta de transparência ou de rigor de custos verificada em relatório final de controlo ou de auditoria;\n\nd) Situação tributária e contributiva não regularizada face à administração fiscal ou à segurança social;\n\ne) Existência de dívidas ao FSI;\n\nf) Não cumprimento das normas e das orientações existentes relativas à informação e publicidade sobre a origem do financiamento dos projetos executados;\n\ng) Mudança de domicílio ou sede do beneficiário ou de conta bancária específica, sem comunicação à Autoridade Responsável, no prazo de 30 dias seguidos;\n\nh) Não envio, dentro do prazo determinado, de elementos solicitados quer pela Autoridade Responsável quer pela Autoridade de Auditoria.\n\n2 - Para efeitos de regularização das faltas detetadas e envio dos elementos solicitados, pode ser concedido um prazo, não superior a 30 dias seguidos, findo o qual, persistindo a situação, a decisão de aprovação do pedido de financiamento é revogada."
+  },
+  "74388055": {
+   "fragment_id": "74403755",
+   "type": 11,
+   "heading": "Artigo 31.º — Redução do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Redução do financiamento\n\nOs fundamentos para a redução do financiamento são os seguintes:\n\na) Consideração de valores superiores aos legalmente permitidos e aprovados;\n\nb) Não consideração de receitas provenientes das atividades geradas pelo projeto;\n\nc) Não execução integral do pedido nos termos em que foi aprovado ou não cumprimento integral dos seus objetivos;\n\nd) Aplicação de correções financeiras de acordo com o disposto no artigo seguinte."
+  },
+  "74388056": {
+   "fragment_id": "74403756",
+   "type": 11,
+   "heading": "Artigo 32.º — Aplicação de correções financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Aplicação de correções financeiras\n\n1 - Quando as autoridades competentes, nos termos do n.º 1 do artigo 25.º do Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, detetarem a existência de irregularidades, em sede de execução dos projetos, na aplicação das diretivas e regulamentos comunitários, bem como da legislação nacional relativas aos processos de adjudicação de contratos públicos cofinanciados, é aplicável a devida correção financeira.\n\n2 - A determinação dos montantes das correções financeiras a aplicar às despesas submetidas a financiamento que apresentem irregularidades resulta da aplicação das orientações comunitárias sobre a matéria."
+  },
+  "74388057": {
+   "fragment_id": "74403757",
+   "type": 11,
+   "heading": "Artigo 33.º — Restituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Restituições\n\n1 - Nos casos em que se confirme a desistência da realização das ações, ou a revogação da decisão de financiamento, ou quando se verifique que os beneficiários receberam indevidamente ou não justificaram os apoios recebidos, há lugar à restituição dos montantes transferidos pela Autoridade Responsável.\n\n2 - A restituição é da iniciativa dos beneficiários ou da Autoridade Responsável, e opera-se através de compensação de créditos já apurados no âmbito do FSI, quando os haja.\n\n3 - Na impossibilidade da compensação de créditos, realizada nos termos do número anterior, e após a audição dos beneficiários, a Autoridade Responsável deve promover a restituição dos mesmos, notificando os beneficiários para a ela procederem no prazo de 30 dias seguidos, findos os quais começam a contar os juros à taxa legal aplicável às dívidas fiscais, exceto em caso de revogação de aprovação da decisão, em que a contagem de juros tem início à data da notificação da decisão.\n\n4 - Sempre que qualquer beneficiário não cumpra a obrigação de restituição no prazo referido, a Autoridade Responsável emite certidão de dívida, para remessa ao competente serviço de finanças, da qual consta a data limite para restituição voluntária ou a data da decisão de revogação, para efeito da correspondente liquidação de juros."
+  },
+  "74388058": {
+   "fragment_id": "74403758",
+   "type": 11,
+   "heading": "Artigo 34.º — Causas de extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Causas de extinção\n\nA decisão de aprovação do pedido de financiamento extingue-se por caducidade ou por revogação."
+  },
+  "74388059": {
+   "fragment_id": "74403759",
+   "type": 11,
+   "heading": "Artigo 35.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Caducidade\n\nConstituem causas de caducidade da decisão de aprovação do pedido de financiamento:\n\na) Não devolução à Autoridade Responsável, no prazo de 15 dias seguidos a contar da notificação da correspondente decisão, do exemplar da convenção de subvenção;\n\nb) Atraso no início do projeto por mais de 30 dias seguidos, sem que o mesmo esteja fundamentado e comunicado à Autoridade Responsável dentro deste prazo."
+  },
+  "74388060": {
+   "fragment_id": "74403760",
+   "type": 11,
+   "heading": "Artigo 36.º — Revogação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Revogação da decisão\n\nOs fundamentos para a revogação da decisão de aprovação do financiamento são os seguintes:\n\na) Falsas declarações;\n\nb) Sobreposição de financiamento público para as mesmas atividades;\n\nc) Não consecução dos objetivos essenciais previstos no pedido de financiamento, nos termos constantes da decisão de aprovação;\n\nd) Não comunicação à Autoridade Responsável das alterações aos elementos determinantes da decisão de aprovação, que ponham em causa o mérito da ação ou a sua razoabilidade financeira;\n\ne) Verificação posterior, em sede de acompanhamento ou auditoria, do incumprimento dos normativos nacionais ou comunitários aplicáveis no âmbito do financiamento;\n\nf) Constatação de situação tributária e contributiva não regularizada face à administração fiscal, à segurança social ou ao FSI, que coloque em causa a continuação das atividades;\n\ng) Não regularização das deficiências detetadas no prazo previsto no n.º 2 do artigo 30.º;\n\nh) Recusa das entidades ao controlo a que estejam legalmente sujeitas;\n\ni) Declarações inexatas, incompletas ou desconformes sobre o processo de formação ou outras atividades do projeto que afetem de modo substantivo a justificação do apoio financeiro recebido ou a receber;\n\nj) Inexistência de contabilização das despesas;\n\nk) Não apresentação atempada dos pedidos de pagamento de reembolso ou de saldo, exceto nos casos devidamente fundamentados."
+  },
+  "74388061": {
+   "fragment_id": "74403761",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "74388062": {
+   "fragment_id": "74403762",
+   "type": 11,
+   "heading": "Artigo 37.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Prazos\n\n1 - Salvo prazo especialmente previsto na presente portaria e na demais legislação nacional e comunitária, o prazo para a prática de qualquer ato é fixado pela Autoridade Responsável com a duração mínima de 5 dias úteis.\n\n2 - A prática de qualquer ato que não for efetuada através da submissão na plataforma eletrónica da responsabilidade da Autoridade Responsável, deve ser realizada presencialmente quer perante a Autoridade Responsável, até às 18:00 horas, ou para aí expedido, sob registo postal, em ambos os casos até ao último dia do prazo."
+  },
+  "74388063": {
+   "fragment_id": "74403763",
+   "type": 11,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "887843054": {
+   "fragment_id": "74403721",
+   "type": 11,
+   "heading": "Artigo 3.º — Candidaturas",
+   "in_force_from": "2017-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 121/2017 - Diário da República n.º 60/2017, Série I de 2017-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/121-2017-106654348), em vigor a partir de 2017-03-25, produz efeitos a partir de 2016-03-12"
+   ],
+   "markdown": "###### Artigo 3.º — Candidaturas\n\n1 - Podem apresentar pedidos de financiamento os serviços e organismos do Estado com competências legais nas áreas de intervenção do FSI, assim como as organizações não governamentais, organizações internacionais e outras entidades coletivas, públicas ou privadas, que desenvolvam a sua atividade nas mesmas áreas.\n\n2 - As entidades referidas no número anterior podem submeter projetos em parceria entre si, devendo, para este efeito, indicar qual destas entidades assume, perante a Autoridade Responsável, o estatuto de beneficiário, ficando os parceiros do projeto sujeitos às mesmas obrigações do beneficiário.\n\n3 - As autoridades envolvidas nas medidas preparatórias de gestão, de acompanhamento, de avaliação, de auditoria e controlo, bem como nas medidas destinadas a reforçar a capacidade administrativa para gestão do FSI podem ser beneficiárias do financiamento de Assistência Técnica.\n\n4 - As ações financiadas pelo FSI não podem ter fins lucrativos nem beneficiar de outras fontes de financiamento comunitário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 121/2017 - Diário da República n.º 60/2017, Série I de 2017-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/121-2017-106654348), em vigor a partir de 2017-03-25, produz efeitos a partir de 2016-03-12"
+  },
+  "887843052": {
+   "fragment_id": "74403730",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições de admissibilidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 8/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2016-74403501), produz efeitos a partir de 2016-03-12",
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2016 - Diário da República n.º 88/2016, Série I de 2016-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2016-74376981), produz efeitos a partir de 2016-03-12"
+   ],
+   "markdown": "###### Artigo 11.º — Condições de admissibilidade\n\n1 - Apenas são analisadas pela Autoridade Responsável as candidaturas dos projetos das entidades que, cumulativamente:\n\na) Tenham a sua situação tributária e contributiva regularizada perante a administração fiscal e perante a segurança social;\n\nb) Não tenham dívidas ao FSI;\n\nc) Não estejam inibidas de concorrer por força dos factos descritos nas alíneas b) e i) do artigo 36.º da presente portaria;\n\nd) Demonstrem capacidade de financiamento do projeto;\n\ne) Demonstrem que as entidades parceiras cumprem o disposto nas alíneas anteriores.\n\n2 - Constituem requisitos gerais de admissão das candidaturas:\n\na) O enquadramento da candidatura nos objetivos e ações previstas na legislação comunitária referente ao FSI;\n\nb) A apresentação de projeto técnico de engenharia/arquitetura aprovado nos termos legais, sempre que aplicável;\n\nc) O cumprimento da legislação nacional e comunitária, em matéria de igualdade de oportunidades, informação e publicidade;\n\nd) O cumprimento das disposições legais nacionais e comunitárias, nos procedimentos de contratação pública;\n\ne) A acreditação, nos termos legais, do titular do pedido, ou das entidades a que recorra, para efeitos de execução de atividades de formação;\n\nf) Comprovem que é assegurada a contrapartida nacional, quando aplicável.\n\n> Retificado pelo/a [Declaração de Retificação n.º 8/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2016-74403501), produz efeitos a partir de 2016-03-12\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2016 - Diário da República n.º 88/2016, Série I de 2016-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2016-74376981), produz efeitos a partir de 2016-03-12"
+  },
+  "887843053": {
+   "fragment_id": "74403742",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime de pagamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 8/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2016-74403501), produz efeitos a partir de 2016-03-12"
+   ],
+   "markdown": "###### Artigo 20.º — Regime de pagamento\n\n1 - Na medida das disponibilidades decorrentes do ritmo dos fluxos financeiros comunitários, os pagamentos do financiamento do FSI são efetuados do seguinte modo:\n\na) Pré-financiamento até 50 % do montante financiado pelo FSI, após a comunicação à Autoridade Responsável da data de início de execução do projeto;\n\nb) O reembolso das despesas realizadas e pagas, acrescido do pré-financiamento referido na alínea anterior, não pode ultrapassar os 95 %;\n\nc) O restante valor de 5 %, após aprovação do saldo.\n\n2 - Os pagamentos só são efetuados caso o beneficiário tenha a sua situação tributária e contributiva regularizada face à administração fiscal e à segurança social, bem como se inexistirem dívidas no âmbito do FSI.\n\n> Retificado pelo/a [Declaração de Retificação n.º 8/2016 - Diário da República n.º 90/2016, Série I de 2016-05-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2016-74403501), produz efeitos a partir de 2016-03-12"
+  },
+  "74388064": {
+   "fragment_id": "74403764",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva, em 9 de março de 2016. - O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 8 de março de 2016. - A Ministra da Administração Interna, Maria Constança Dias Urbano de Sousa, em 8 de março de 2016. - A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 2 de março de 2016."
+  }
+ }
+}

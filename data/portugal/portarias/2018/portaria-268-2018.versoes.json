@@ -1,0 +1,345 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116460405:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-117533501",
+ "dre_path": "/dr/detalhe/portaria/268-2018-116460405",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117533192",
+    "117533193",
+    "117533194",
+    "117533195",
+    "117533196",
+    "117533198",
+    "117533199",
+    "117533200",
+    "117533201",
+    "117533202",
+    "117533203",
+    "117533204",
+    "117533205",
+    "117533206",
+    "117533207",
+    "117533208",
+    "117533209",
+    "117533210",
+    "117533211",
+    "117533212",
+    "117533213",
+    "117533214",
+    "117533215",
+    "117533216",
+    "117533217",
+    "117533218",
+    "117533219",
+    "117533220",
+    "117533221"
+   ]
+  },
+  {
+   "date": "2018-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117514521:por",
+     "title": "Portaria n.º 337/2018",
+     "published": "2018-12-28",
+     "dre_path": "/dr/detalhe/portaria/337-2018-117514521"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "117533192",
+    "117533193",
+    "117533194",
+    "117533195",
+    "117533196",
+    "117533197",
+    "117533198",
+    "117533199",
+    "117533200",
+    "117533257",
+    "117533202",
+    "117533203",
+    "117533204",
+    "117533205",
+    "117533206",
+    "117533207",
+    "117533208",
+    "117533209",
+    "117533210",
+    "117533211",
+    "117533212",
+    "117533213",
+    "117533214",
+    "117533215",
+    "117533216",
+    "117533217",
+    "117533218",
+    "117533219",
+    "117533220",
+    "117533221"
+   ]
+  }
+ ],
+ "fragments": {
+  "117533192": {
+   "fragment_id": "117533502",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 268/2018\n\nde 21 de setembro\n\nO Regime Jurídico do Internato Médico foi revisto através do Decreto-Lei n.º 13/2018, de 26 de fevereiro, alterado, por apreciação parlamentar pela Lei n.º 34/2018, de 19 de julho, e do Regulamento do Internato Médico, aprovado em anexo à Portaria n.º 79/2018, de 16 de março, diplomas que visam assegurar a elevada qualidade da formação médica pós-graduada, procurando responder aos constrangimentos existentes no sistema e introduzem inovações, em consonância com a realidade social e em resultado da melhor articulação com o restante ordenamento jurídico.\n\nDe acordo com o novo Regime Jurídico do Internato Médico, a formação médica pós-graduada encontra-se repartida entre duas vertentes: a Formação Geral e a Formação Especializada. Por outro lado, o Internato Médico é desenvolvido em conformidade com os respetivos programas de formação, os quais são aprovados por portaria do membro do Governo responsável pela área da saúde, sob proposta da Ordem dos Médicos e ouvido o Conselho Nacional do Internato Médico.\n\nA Formação Geral visa preparar o médico para o exercício autónomo e responsável da medicina, dotando-o, através de uma formação prática e teórica. Neste sentido, são previstos cinco blocos formativos e a realização obrigatória de ações de formação em matéria relevante para aquele exercício autónomo e responsável.\n\nAssim:\n\nSob a proposta da Ordem dos Médicos e ouvidos o Conselho Nacional do Internato Médico, as estruturas sindicais dos médicos e a Associação Nacional dos Estudantes de Medicina, ao abrigo e nos termos do disposto no artigo 4.º do Decreto-Lei n.º 13/2018, de 26 de fevereiro, alterado, por apreciação parlamentar pela Lei n.º 34/2018, de 19 de julho, bem como no artigo 22.º do Regulamento do Internato Médico, aprovado em anexo à Portaria n.º 79/2018, de 16 de março, manda o Governo, pelo Secretário de Estado Adjunto e da Saúde, o seguinte:"
+  },
+  "117533193": {
+   "fragment_id": "117533503",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o programa formativo da Formação Geral, constante do anexo à presente portaria, da qual faz parte integrante."
+  },
+  "117533194": {
+   "fragment_id": "117533504",
+   "type": 11,
+   "heading": "Artigo 2.º — Formação nos internatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Formação nos internatos\n\nA aplicação e desenvolvimento do programa compete aos órgãos e agentes responsáveis pela formação nos internatos, os quais devem assegurar a maior uniformidade a nível nacional."
+  },
+  "117533195": {
+   "fragment_id": "117533505",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\n1 - É revogado o programa formativo aprovado em anexo à Portaria n.º 1499/2004, de 28 de dezembro, alterada pela Portaria n.º 111/2011, de 18 de março, e pela Portaria n.º 53/2013, de 5 de fevereiro.\n\n2 - Sem prejuízo do previsto no número anterior, aos médicos que se encontram a frequentar o ano comum continua aplicar-se o programa formativo aprovado em anexo à Portaria n.º 1499/2004, de 28 de dezembro, alterada pela Portaria n.º 111/2011, de 18 de março, e pela Portaria n.º 53/2013, de 5 de fevereiro, até à conclusão, com aproveitamento, dessa formação."
+  },
+  "117533196": {
+   "fragment_id": "117533506",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia útil seguinte ao da respetiva publicação e produz efeitos a 1 de janeiro de 2019."
+  },
+  "117533198": {
+   "fragment_id": "117533508",
+   "type": 14,
+   "heading": "Anexo — Programa Formativo da Formação Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Programa Formativo da Formação Geral"
+  },
+  "117533199": {
+   "fragment_id": "117533509",
+   "type": 1,
+   "heading": "Capítulo I — Programa Formativo da Formação Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Programa Formativo da Formação Geral"
+  },
+  "117533200": {
+   "fragment_id": "117533510",
+   "type": 11,
+   "heading": "Artigo 1.º — Formação Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Formação Geral\n\nA Formação Geral corresponde a um período de doze meses de formação tutelada pós-graduada, de natureza teórico-prática, o qual, mediante um aprofundamento e exercício efetivo dos conhecimentos adquiridos na licenciatura ou mestrado integrado de Medicina, tem como objetivo preparar o médico para o exercício autónomo e responsável da medicina e para o ingresso numa formação especializada."
+  },
+  "117533201": {
+   "fragment_id": "117533511",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura da Formação Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura da Formação Geral\n\n1 - A Formação Geral tem a duração de doze meses e é constituída pelos blocos formativos seguintes:\n\na) Cirurgia Geral, com a duração de 3 meses;\n\nb) Cuidados de Saúde Primários, com a duração de 3 meses;\n\nc) Medicina Interna, com a duração de 4 meses;\n\nd) Pediatria Médica, com a duração de 2 meses.\n\n2 - O bloco formativo de Cuidados de Saúde Primários integra as vertentes de Medicina Geral e Familiar e de Saúde Pública, esta última com a duração de duas semanas.\n\n3 - A sequência dos blocos formativos não tem carácter obrigatório, devendo ser realizados na íntegra de forma contínua, não podendo ser interrompidos para a realização de outros blocos."
+  },
+  "117533202": {
+   "fragment_id": "117533512",
+   "type": 11,
+   "heading": "Artigo 3.º — Formação em serviço de urgência e no atendimento a doença aguda em consulta não programada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formação em serviço de urgência e no atendimento a doença aguda em consulta não programada\n\n1 - A prestação de cuidados em serviço de urgência adequa-se ao bloco formativo em curso, sendo obrigatório um período semanal único de doze horas nos blocos formativos de Cirurgia Geral, Medicina Interna e Pediatria Médica.\n\n2 - A vertente de Medicina Geral e Familiar do bloco formativo de Cuidados de Saúde Primários inclui o atendimento a doentes com motivos relacionados com doença aguda, em consulta presencial não programada.\n\n3 - Na prestação de cuidados em serviço de urgência nos blocos formativos referidos no n.º 1, e no período de atendimento a doentes com motivos relacionados com doença aguda no bloco formativo referido no n.º 2, o médico interno integra a equipa do médico designado como orientador pelo bloco formativo, salvo os casos excecionais devidamente fundamentados."
+  },
+  "117533203": {
+   "fragment_id": "117533513",
+   "type": 11,
+   "heading": "Artigo 4.º — Estabelecimentos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estabelecimentos de formação\n\n1 - A Formação Geral pode realizar-se em serviços e estabelecimentos públicos independentemente da respetiva natureza jurídica, bem como em estabelecimentos do setor social ou privado, reconhecidos, nos termos do Regime Jurídico do Internato Médico, como idóneos para a formação geral pela Ordem dos Médicos, e de acordo com a sua capacidade formativa.\n\n2 - No que respeita aos estabelecimentos de formação, os critérios de idoneidade para a formação geral são os seguintes:\n\na) Atribuição de idoneidade para a Formação Geral nos casos em que no estabelecimento de formação tenham sido identificadas vagas para o ano comum no âmbito do procedimento concursal de ingresso no Internato Médico 2018;\n\nb) Atribuição de idoneidade para a Formação Geral, mediante avaliação casuística da Ordem dos Médicos, ouvido o Conselho Nacional do Internato Médico (CNIM), nos casos em que no estabelecimento de formação não tenham sido identificadas vagas para o ano comum no âmbito do procedimento concursal de ingresso no Internato Médico 2018;\n\nc) Para efeitos do disposto na alínea anterior:\n\ni) A Ordem dos Médicos divulga os critérios de atribuição de idoneidade formativa, incluindo as competências a adquirir em cada bloco formativo e nas ações de formação;\n\nii) O estabelecimento de formação deve elaborar e submeter à Ordem dos Médicos um plano de formação do médico interno, integrando os blocos formativos e as ações de formação obrigatórias previstas no artigo 9.º do presente programa formativo;\n\niii) O processo de atribuição de idoneidade formativa segue os prazos previstos no artigo 27.º do Regulamento do Internato Médico, com as devidas adaptações.\n\n3 - Sem prejuízo do previsto nos números 1 e 2 do presente artigo, a Ordem dos Médicos pode propor ao Ministério da Saúde a perda da idoneidade formativa, mediante exposição fundamentada que identifique, nomeadamente, a causa da perda, as propostas de solução e os locais disponíveis para efeitos de reafetação automática dos médicos internos afetados pela perda de idoneidade.\n\n4 - O reconhecimento automático previsto na alínea a), do n.º 2, é aplicável aos estabelecimentos de formação identificados ao abrigo do Protocolo celebrado entre o Ministério da Saúde e o Ministério da Defesa Nacional."
+  },
+  "117533204": {
+   "fragment_id": "117533514",
+   "type": 1,
+   "heading": "Capítulo II — Objetivos da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Objetivos da formação"
+  },
+  "117533205": {
+   "fragment_id": "117533515",
+   "type": 11,
+   "heading": "Artigo 5.º — Formação em Cirurgia Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formação em Cirurgia Geral\n\nA formação em Cirurgia Geral tem como objetivos:\n\na) Objetivos de desempenho:\n\ni) Abordagem geral do doente cirúrgico, na sua componente eletiva e urgente, onde se inclui o doente politraumatizado;\n\nii) Noções básicas de urgência em cirurgia geral, em termos de diagnóstico e tratamento;\n\niii) Participação na execução de técnicas de cirurgia geral;\n\niv) Elaboração de histórias clínicas, com fundamentação clínica e laboratorial do diagnóstico, proposta terapêutica e definição do prognóstico;\n\nv) Elaboração de nota de alta ou de transferência;\n\nvi) Técnicas de assepsia;\n\nvii) Técnicas de pequena cirurgia;\n\nviii) Abordagem em cirurgia de ambulatório;\n\nix) Participação ativa em reuniões clínicas e apresentação de casos clínicos;\n\nx) Articulação e comunicação com outras áreas e níveis de cuidados de saúde, nomeadamente cuidados de saúde primários, cuidados continuados integrados e cuidados paliativos;\n\nb) Objetivos de conhecimento: etiopatogenia, epidemiologia, fisiopatologia, semiologia clínica e laboratorial, diagnóstico, intervenção e terapêutica dos principais grupos diagnósticos do âmbito da cirurgia geral."
+  },
+  "117533206": {
+   "fragment_id": "117533516",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação em Cuidados de Saúde Primários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação em Cuidados de Saúde Primários\n\n1 - A formação da vertente de Medicina Geral e Familiar, integrada no bloco formativo de Cuidados de Saúde Primários, tem como objetivos:\n\na) Objetivos de desempenho:\n\ni) Abordagem global do doente em medicina geral e familiar;\n\nii) Aplicação de procedimentos de promoção da saúde, prevenção da doença e literacia em saúde, na prática clínica diária;\n\niii) Recolha e registo da informação clínica;\n\niv) Conhecimento das técnicas de diagnóstico e terapêutica aplicáveis aos problemas mais frequentes na comunidade;\n\nv) Articulação e comunicação com outras áreas e níveis de cuidados de saúde, nomeadamente cuidados de saúde hospitalares, cuidados continuados integrados e cuidados paliativos;\n\nvi) Familiarização com as atividades de diagnóstico e monitorização do nível de saúde de uma população ou dos grupos que a integram, focando nas doenças não-transmissíveis e doenças crónicas;\n\nvii) Participação ativa em reuniões clínicas e apresentação de casos clínicos;\n\nb) Objetivos de conhecimento:\n\ni) Conhecer os problemas de saúde mais frequentes na comunidade;\n\nii) Conhecer os princípios da promoção da saúde, prevenção da doença e diagnóstico precoce;\n\niii) Conhecer técnicas de diagnóstico e terapêuticas aplicáveis aos problemas mais frequentes na comunidade;\n\niv) Conhecer as normas de vigilância da saúde e as normas de orientação clínica da Direção-Geral da Saúde;\n\nv) Conhecer a rede e o programa dos cuidados continuados integrados, integrados no percurso do doente;\n\nvi) Conhecer as doenças evitáveis pela vacinação, o programa nacional de vacinação e a sua implementação.\n\n2 - A formação da vertente de Saúde Pública, integrada no bloco formativo de Cuidados de Saúde Primários, tem como objetivos:\n\na) Objetivos de desempenho:\n\ni) Diagnóstico e monitorização do nível de saúde de uma população ou dos grupos que a integram;\n\nii) Monitorização e controlo das doenças transmissíveis e de riscos ambientais;\n\niii) Participação ativa em reuniões clínicas e apresentação de casos clínicos;\n\nb) Objetivos de conhecimento:\n\ni) Epidemiologia, planeamento em saúde, função de observatório em saúde;\n\nii) Doenças transmissíveis, doenças de notificação obrigatória, programa nacional de vacinação, inquéritos epidemiológicos;\n\niii) Sistema Nacional de Saúde e Serviço Nacional de Saúde."
+  },
+  "117533207": {
+   "fragment_id": "117533517",
+   "type": 11,
+   "heading": "Artigo 7.º — Formação em Medicina Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação em Medicina Interna\n\nA formação em Medicina Interna tem como objetivos:\n\na) Objetivos de desempenho:\n\ni) Abordagem geral do doente urgente e não urgente;\n\nii) Elaboração de histórias clínicas, com fundamentação clínica e diagnóstica, proposta terapêutica e definição do prognóstico;\n\niii) Elaboração de nota de alta ou de transferência;\n\niv) Execução de técnicas utilizadas em medicina interna;\n\nv) Participação ativa em reuniões clínicas e apresentação de casos clínicos;\n\nvi) Articulação e comunicação outras áreas e níveis de cuidados de saúde, nomeadamente cuidados de saúde primários, cuidados continuados integrados e cuidados paliativos;\n\nb) Objetivos de conhecimento: etiopatogenia, epidemiologia, fisiopatologia, semiologia clínica e laboratorial, diagnóstico e terapêutica dos principais grupos diagnósticos do âmbito da medicina interna nas suas vertentes eletivas e de urgência."
+  },
+  "117533208": {
+   "fragment_id": "117533518",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação em Pediatria Médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação em Pediatria Médica\n\nA formação em Pediatria Médica tem como objetivos:\n\na) Objetivos de desempenho:\n\ni) Diagnosticar, tratar e acompanhar as situações mais frequentes na patologia pediátrica, urgentes e não urgentes;\n\nii) Interpretação de exames complementares de diagnóstico e terapêutica;\n\niii) Articulação e comunicação com outras áreas e níveis de cuidados de saúde, nomeadamente cuidados de saúde primários, cuidados continuados integrados e cuidados paliativos;\n\niv) Participação ativa em reuniões clínicas e apresentação de casos clínicos;\n\nb) Objetivos de conhecimento:\n\ni) Conhecimentos básicos sobre a patologia pediátrica mais comum;\n\nii) Interpretação dos exames complementares de diagnóstico mais usuais;\n\niii) Terapêutica das situações patológicas mais frequentes."
+  },
+  "117533209": {
+   "fragment_id": "117533519",
+   "type": 11,
+   "heading": "Artigo 9.º — Ações de formação obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ações de formação obrigatórias\n\n1 - Durante a Formação Geral, os médicos internos devem frequentar ações de formação que abordem as seguintes áreas:\n\na) Introdução ao serviço de urgência, incluindo a abordagem das situações emergentes médicas e cirúrgicas, incluindo o trauma;\n\nb) Suporte básico de vida, incluindo a abordagem e manutenção da via aérea;\n\nc) Saúde pública;\n\nd) Prevenção e controlo da infeção associada aos cuidados de saúde e utilização racional dos antimicrobianos;\n\ne) Ética, deontologia e comunicação médica;\n\nf) Utilização racional dos componentes/derivados do sangue;\n\ng) Utilização racional dos meios complementares de diagnóstico.\n\n2 - As formações, cuja realização é assegurada pelos estabelecimentos de colocação ou de formação, têm lugar em horário laboral, são de presença obrigatória e sujeitas a avaliação, sendo financiadas exclusivamente pelos estabelecimentos de colocação.\n\n3 - As ações de formação obrigatórias devem assentar em critérios definidos pela Ordem dos Médicos, ouvido o CNIM, tendo em vista a sua uniformização."
+  },
+  "117533210": {
+   "fragment_id": "117533520",
+   "type": 1,
+   "heading": "Capítulo III — Responsabilidade da Formação Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Responsabilidade da Formação Geral"
+  },
+  "117533211": {
+   "fragment_id": "117533521",
+   "type": 11,
+   "heading": "Artigo 10.º — Orientadores da Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Orientadores da Formação\n\n1 - Cabe ao Diretor do Internato Médico, em colaboração com o Diretor Clínico ou ao Presidente do Conselho Clínico e de Saúde da instituição de colocação ou de formação, assegurar a qualidade formativa.\n\n2 - A orientação dos internos é feita diretamente por orientadores de formação, nomeados para cada bloco formativo, nos termos do Regime Jurídico do Internato Médico.\n\n3 - As funções dos orientadores de formação encontram-se previstas no Regulamento do Internato Médico.\n\n4 - Aos orientadores são reconhecidas as faculdades e prerrogativas previstas no Regime Jurídico do Internato Médico."
+  },
+  "117533212": {
+   "fragment_id": "117533522",
+   "type": 1,
+   "heading": "Capítulo IV — Avaliação da Formação Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Avaliação da Formação Geral"
+  },
+  "117533213": {
+   "fragment_id": "117533523",
+   "type": 11,
+   "heading": "Artigo 11.º — Avaliação dos objetivos da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação dos objetivos da formação\n\n1 - Os objetivos do processo de avaliação são:\n\na) Promover a evolução da aprendizagem do médico interno;\n\nb) Assegurar uma monitorização contínua;\n\nc) Demonstrar a progressão de acordo com os objetivos de aprendizagem;\n\nd) Identificar médicos internos que necessitam de apoio na sua prática.\n\n2 - A avaliação de desempenho e de conhecimentos é contínua e incide sobre os seguintes parâmetros:\n\na) Capacidade de execução técnica;\n\nb) Conhecimentos teóricos e práticos;\n\nc) Interesse pela valorização profissional;\n\nd) Responsabilidade profissional;\n\ne) Relações humanas no trabalho;\n\nf) Integração de conhecimentos adequada à fase de formação em que se encontra.\n\n3 - A classificação de cada bloco formativo é feita na escala de zero a vinte valores, em números inteiros, de acordo com grelha definida pela Ordem dos Médicos, ouvido o CNIM, considerando-se aprovado o médico interno que atinja uma classificação igual ou superior a dez valores.\n\n4 - A classificação de ação de formação obrigatória é feita numa escala qualitativa, considerando-se aprovado o médico interno que obtenha a menção de «apto».\n\n5 - A falta de aproveitamento num bloco formativo determina a necessidade da sua repetição, nos termos previstos, em sede de avaliação contínua, no Regulamento do Internato Médico.\n\n6 - A falta de aproveitamento na ação de formação obrigatória determina a necessidade da sua repetição, no limite de duas repetições.\n\n7 - A ausência, ainda que tempestiva e devidamente justificada, à ação de formação obrigatória ou à avaliação desta, determina a falta de aproveitamento, sem prejuízo da possibilidade de repetição nos termos do Regulamento do Internato Médico.\n\n8 - Nos casos em que o médico interno obtenha falta de aproveitamento na sequência de uma repetição, ou se tenham esgotado o número de repetições admitido, no que respeita aos blocos formativos ou às ações de formação obrigatórias, o contrato cessa nos termos definidos legalmente."
+  },
+  "117533214": {
+   "fragment_id": "117533524",
+   "type": 11,
+   "heading": "Artigo 12.º — Responsabilidade pela avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Responsabilidade pela avaliação\n\n1 - A formalização da avaliação é da responsabilidade dos orientadores de formação, ouvidos os médicos eventualmente envolvidos na formação dos médicos internos.\n\n2 - As avaliações dos blocos formativos e das ações de formação obrigatória, validadas pelo Diretor do Serviço ou equiparado são submetidas à direção ou coordenação do Internato Médico do estabelecimento de colocação."
+  },
+  "117533215": {
+   "fragment_id": "117533525",
+   "type": 11,
+   "heading": "Artigo 13.º — Classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Classificação final\n\n1 - Considera-se aprovado na Formação Geral o médico interno que tenha obtido uma classificação igual ao superior a dez valores em todos os blocos formativos e aproveitamento em todas as ações de formação obrigatórias.\n\n2 - A classificação final é expressa pela média aritmética ponderada, de acordo com a duração de cada bloco formativo, conforme grelha a definir pela Ordem dos Médicos, ouvido o CNIM, arredondada às décimas.\n\n3 - A direção do internato médico do local de colocação informa a respetiva Comissão Regional do Internato Médico, até cinco dias úteis após a conclusão, com aproveitamento, do último bloco formativo ou da última ação de formação obrigatória, para efeitos de homologação da classificação final.\n\n4 - A classificação final após homologação é remetida à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), que informa a Ordem dos Médicos para efeitos de reconhecimento do exercício autónomo da medicina.\n\n5 - O modelo de certificado de conclusão da Formação Geral é aprovado pela ACSS, I. P., e divulgado na sua página eletrónica."
+  },
+  "117533216": {
+   "fragment_id": "117533526",
+   "type": 1,
+   "heading": "Capítulo V — Regime Jurídico e condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime Jurídico e condições de trabalho"
+  },
+  "117533217": {
+   "fragment_id": "117533527",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime Jurídico e condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime Jurídico e condições de trabalho\n\n1 - Os médicos internos da Formação Geral ficam abrangidos pelo Regime Jurídico do Internato Médico, composto nomeadamente pelo Decreto-Lei n.º 13/2018, de 26 de fevereiro, alterado, por apreciação parlamentar, pela Lei n.º 34/2018, de 19 de julho, e pelo Regulamento do Internato Médico, aprovado em anexo à Portaria n.º 79/2018, de 16 de março.\n\n2 - Sem prejuízo do disposto no número anterior, o médico interno que se encontra a frequentar a Formação Geral pode dispor, no máximo, de um período de férias em cada bloco formativo que não exceda os cinco dias úteis por cada mês de duração do respetivo bloco, nos termos da lei."
+  },
+  "117533218": {
+   "fragment_id": "117533528",
+   "type": 11,
+   "heading": "Artigo 15.º — Tempo formativo máximo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tempo formativo máximo\n\n1 - O médico interno, em caso de não aprovação ou desistência da Formação Geral antes do seu término, poderá voltar a tentar concluir o programa de formação por mais duas vezes, nos três anos subsequentes.\n\n2 - Caso o médico não conclua a formação geral no período previsto no número anterior, ficará interdito de aceder à formação geral por um período de 2 anos."
+  },
+  "117533219": {
+   "fragment_id": "117533529",
+   "type": 11,
+   "heading": "Artigo 16.º — Equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Equivalências\n\nAs equivalências a blocos formativos do ano comum, previsto no programa formativo aprovado em anexo à Portaria n.º 1499/2004, de 28 de dezembro, alterada pela Portaria n.º 111/2011, de 18 de março, e pela Portaria n.º 53/2013, de 5 de fevereiro, bem como às ações de formação obrigatórias, são apreciadas em conformidade com o previsto no Regulamento do Internato Médico."
+  },
+  "117533220": {
+   "fragment_id": "117533530",
+   "type": 11,
+   "heading": "Artigo 17.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Casos omissos\n\nOs casos omissos do programa formativo são sujeitos a parecer da ACSS, I. P., uma vez ouvidos a Ordem dos Médicos e o CNIM, o qual é emitido em conformidade com os princípios e normas constantes do Regime Jurídico do Internato Médico, nomeadamente o princípio do superior interesse da formação médica pós-graduada."
+  },
+  "117533221": {
+   "fragment_id": "117533531",
+   "type": 11,
+   "heading": "Artigo 18.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revisão\n\nSem prejuízo do previsto no Regime Jurídico do Internato Médico, o programa de formação é objeto de revisão até três anos após a sua entrada em vigor.\n\n111654372"
+  },
+  "117533197": {
+   "fragment_id": "117533507",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Saúde, Fernando Manuel Ferreira Araújo, em 14 de setembro de 2018."
+  },
+  "117533257": {
+   "fragment_id": "117533511",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura da Formação Geral",
+   "in_force_from": "2018-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 337/2018 - Diário da República n.º 250/2018, Série I de 2018-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/337-2018-117514521), em vigor a partir de 2018-12-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura da Formação Geral\n\n1 - A Formação Geral tem a duração de doze meses e é constituída pelos blocos formativos seguintes:\n\na) Cirurgia Geral, com a duração de 3 meses;\n\nb) Cuidados de Saúde Primários, com a duração de 3 meses;\n\nc) Medicina Interna, com a duração de 4 meses;\n\nd) Pediatria Médica, com a duração de 2 meses.\n\n2 - O bloco formativo de Cuidados de Saúde Primários integra as vertentes de Medicina Geral e Familiar e de Saúde Pública, esta última com a duração de duas semanas.\n\n3 - A sequência dos blocos formativos não tem carácter obrigatório, devendo, sempre que possível, ser realizados na íntegra de forma contínua.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 337/2018 - Diário da República n.º 250/2018, Série I de 2018-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/337-2018-117514521), em vigor a partir de 2018-12-31, produz efeitos a partir de 2019-01-01"
+  }
+ }
+}

@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:656142:por
+title: Portaria n.º 205/93
+short_title: null
+summary: Aplica as regras fixadas na Portaria n.º 1223-A/91, de 30 de Dezembro, a partir de 1 de Janeiro de 1993 a todos os
+  serviços notadores sediados na área de várias comarcas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna, das Finanças e da Justiça
+proposing_entity: null
+official_number: 205/93
+official_date: null
+publication_date: '1993-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/1993, Série I-B de 1993-02-19
+  number: '42'
+  series: I
+  supplement: null
+  pages: 709 - 711
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/02/042b00/07090711.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/205/1993/02/19/p/dre/pt/html
+  oj: null
+  dre: '656142'
+  dre_path: /dr/detalhe/portaria/205-1993-656142
+  internal: pt:dre:656142:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/205-1993-656142
+  metadata_url: https://data.dre.pt/eli/port/205/1993/02/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/205-1993-656142
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-02-14T00:00:00Z'
+integrity:
+  source_sha256: 7f8027b033904856aca0b5cb6c61f02c7785666d9c78395cde7bc782439caaf2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-205-656142.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alenquer
+- Almada
+- Processo Penal
+- Vila Franca de Xira
+- Barreiro
+- Benavente
+- Cadaval
+- Caldas da Rainha
+- Gestão Processual
+- Identificação Criminal
+- Loures
+- Lourinhã
+- Mafra
+- Moita
+- Montijo
+- Nuipc
+- Serviço de Estrangeiros e Fronteiras
+- Peniche
+- RIO Maior
+- Seixal
+- Cascais
+- Oeiras
+- Sintra
+- Torres Vedras
+relationships:
+- type: amended_by
+  target: pt:dre:596286:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1223-a/1991/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1223-a/1991/12/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 205/93
+
+de 19 de Fevereiro
+
+A [Portaria n.º 1223-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/1223-a-1991-525984), de 30 de Dezembro, veio institucionalizar um novo sistema de identificação dos processos crime, caracterizado pela atribuição de um número único a cada processo (NUIPC) que se mantém desde o seu registo inicial até ao arquivo, independentemente dos serviços onde se encontra.
+
+Nos termos daquele diploma, o sistema do NUIPC, actualmente em vigor obrigatoriamente na comarca de Lisboa, deverá ser alargado progressivamente a todo o território nacional, estando reunidas, neste momento, as condições para o implantar em outras comarcas do distrito judicial de Lisboa.
+
+Por outro lado, são integrados no sistema os serviços da administração fiscal da Direcção-Geral das Contribuições e Impostos, atenta a competência atribuída aos directores distritais de finanças pelo Regime Jurídico das Infracções Fiscais não Aduaneiras, aprovado pelo [Decreto-Lei n.º 20-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1990-248175), de 15 de Janeiro, bem como o Serviço de Estrangeiros e Fronteiras do Ministério da Administração Interna.
+
+Assim:
+
+Manda o Governo, pelos Ministros da Administração Interna, das Finanças e da Justiça, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 523/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/523-1972-685588), de 19 de Dezembro, e atentos ainda os n.os 7.º e 19.º da [Portaria n.º 1223-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/1223-a-1991-525984), de 30 de Dezembro, o seguinte:
+
+1.º As regras fixadas na [Portaria n.º 1223-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/1223-a-1991-525984), de 30 de Dezembro, são aplicáveis a partir de 1 de Janeiro de 1993 a todos os serviços notadores sediados na área das comarcas de Alenquer, Almada, Barreiro, Benavente, Cadaval, Caldas da Rainha, Cascais, Loures, Lourinhã, Mafra, Moita, Montijo, Oeiras, Peniche, Rio Maior, Seixal, Sintra, Torres Vedras e Vila Franca de Xira.
+
+2.º São integrados no sistema do NUIPC os serviços competentes para a realização do processo de averiguações previsto no Regime Jurídico das Infracções Fiscais não Aduaneiras, bem como o Serviço de Estrangeiros e Fronteiras do Ministério da Administração Interna.
+
+3.º As tabelas I e III anexas à [Portaria n.º 1223-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/1223-a-1991-525984) são alteradas em conformidade com as tabelas anexas ao presente diploma.
+
+Ministérios da Administração Interna, das Finanças e da Justiça.
+
+**Assinada em 19 de Janeiro de 1993.**
+
+**O Ministro da Administração Interna, Manuel Dias Loureiro. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.**
+
+## ANEXO — TABELA I
+
+Significado do décimo carácter do NUIPC Subsistemas
+
+I - Direcção-Geral das Contribuições e Impostos (DGCI).
+
+Z - Serviço de Estrangeiros e Fronteiras (SEF).
+
+TABELA III
+
+Código identificador do serviço notador
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/042b00/07090711.pdf))](https://files.diariodarepublica.pt/1s/1993/02/042b00/07090711.pdf)

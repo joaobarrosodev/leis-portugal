@@ -1,0 +1,92 @@
+---
+schema_version: '1.0'
+id: pt:dre:252790:por
+title: Despacho Normativo n.º 131/77
+short_title: null
+summary: Esclarece as dúvidas sobre o significado da expressão «os nacionalizados» constante da alínea c) do n.º 1 do artigo
+  1.º do Decreto-Lei n.º 308-A/75, de 24 de Junho
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Justiça
+proposing_entity: null
+official_number: 131/77
+official_date: null
+publication_date: '1977-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/1977, Série I de 1977-05-24
+  number: '120'
+  series: I
+  supplement: null
+  pages: 1203 - 1203
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12000/12031203.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '252790'
+  dre_path: /dr/detalhe/despacho-normativo/131-1977-252790
+  internal: pt:dre:252790:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/131-1977-252790
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/131-1977-252790
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-05-24T00:00:00Z'
+integrity:
+  source_sha256: 4bedc47eb9889bc8240f73fd422f93bdcd82a3339b767be24a3b18824067c513
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-131-252790.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 131/77
+
+Têm-se suscitado dúvidas sobre o significado da expressão «os nacionalizados» constante da alínea c) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 308-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-a-1975-530841), de 24 de Junho.
+
+Verificando-se a conveniência de fixação de entendimento unívoco a esse propósito, ao abrigo do preceituado no artigo 10.º do citado diploma, determina-se:
+
+Os portugueses nacionalizados, a que se refere a alínea c) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 308-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-a-1975-530841), de 24 de Junho, são apenas os indivíduos que adquiriram a nacionalidade por naturalização, nos termos da secção II do capítulo II da [Lei n.º 2098](https://diariodarepublica.pt/dr/detalhe/lei/2098-1959-431607), de 29 de Julho de 1959.
+
+Presidência do Conselho de Ministros e Ministério da Justiça, 25 de Março de 1977. - Pelo Primeiro-Ministro, Henrique Teixeira Queirós de Barros, Ministro de Estado. - O Ministro da Justiça, António de Ameida Santos.

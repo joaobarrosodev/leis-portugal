@@ -1,0 +1,253 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:58815353:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-904733478",
+ "dre_path": "/dr/detalhe/portaria/231-2014-58815353",
+ "source_lastmod": "2025-01-23",
+ "versions": [
+  {
+   "date": "2014-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "904466310",
+    "904466311",
+    "904466312",
+    "904466314",
+    "904466315",
+    "904466316",
+    "904466317",
+    "904466318",
+    "904466319",
+    "904466320",
+    "904466321",
+    "904466322",
+    "904466323",
+    "904466324",
+    "904466325",
+    "904466326",
+    "904466327",
+    "904466328",
+    "904466329",
+    "904466330",
+    "904466331",
+    "904466332",
+    "904466333",
+    "904466334",
+    "904466335",
+    "904466336"
+   ]
+  }
+ ],
+ "fragments": {
+  "904466310": {
+   "fragment_id": "904733479",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 231/2014\n\nde 11 de novembro\n\nOs Institutos de Oncologia de Francisco Gentil de Lisboa, de Coimbra e do Porto, criados respetivamente em 1923, 1962 e 1974, são centros de referência em oncologia, dotados de natureza e personalidade jurídicas próprias e órgãos de fiscalização e administração autónomos, dedicados ao diagnóstico e tratamento do cancro, à investigação e ao ensino em oncologia, ao rastreio e ao registo oncológico e ainda, em colaboração com outras entidades do Serviço Nacional de Saúde (SNS), à prevenção da doença e à promoção da saúde.\n\nOs Institutos articulavam-se entre si através da comissão coordenadora, criada por despacho n.º 17926/2008, de 25 de junho, possibilitando que as atividades em prol da sua missão, fossem organizadas e exercidas de forma conciliada, através da coordenação entre os três estabelecimentos hospitalares, permitindo promover a sua atuação e maximizar os ganhos em saúde.\n\nEm 2012, através do despacho n.º 42/2012, do Ministério da Saúde, foi criado um Grupo de Trabalho para a reorganização dos Institutos de Oncologia.\n\nA Portaria n.º 76-B/2014, de 26 de março, criou o Grupo Hospitalar Instituto Português de Oncologia Francisco Gentil, composto pelos três Institutos, que permite a adoção de medidas comuns e uniformes, com vista a otimizar os recursos do SNS.\n\nConstituído o Grupo Hospitalar Instituto Português de Oncologia Francisco Gentil cumpre aprovar o seu Regulamento Interno que defina as competentes estruturas organizativas comuns que o integram e estabeleça as regras de funcionamento dos órgãos de coordenação comum do grupo.\n\nAssim:\n\nAo abrigo do disposto no artigo 10.º do Decreto-Lei n.º 284/99, de 26 de julho, e nos termos do disposto no artigo 4.º da Portaria n.º 76-B/2014, de 26 de março, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "904466311": {
+   "fragment_id": "904733480",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Regulamento Interno do Grupo Hospitalar Instituto Português de Oncologia Francisco Gentil, anexo à presente portaria, da qual faz parte integrante."
+  },
+  "904466312": {
+   "fragment_id": "904733481",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "904466314": {
+   "fragment_id": "904733483",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO INTERNO DO GRUPO HOSPITALAR INSTITUTO PORTUGUÊS DE ONCOLOGIA FRANCISCO GENTIL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO INTERNO DO GRUPO HOSPITALAR INSTITUTO PORTUGUÊS DE ONCOLOGIA FRANCISCO GENTIL"
+  },
+  "904466315": {
+   "fragment_id": "904733484",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "904466316": {
+   "fragment_id": "904733485",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento estabelece os princípios de gestão e as regras de funcionamento do Grupo Hospitalar do Instituto Português de Oncologia de Francisco Gentil, adiante designado por GHIPOFG ou Grupo, bem como a sua estrutura organizativa e respetivas competências."
+  },
+  "904466317": {
+   "fragment_id": "904733486",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição\n\nIntegram o GHIPOFG o Instituto Português de Oncologia de Lisboa Francisco Gentil, E. P. E., o Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., e o Instituto Português de Oncologia do Porto Francisco Gentil, E. P. E."
+  },
+  "904466318": {
+   "fragment_id": "904733487",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime jurídico\n\nO GHIPOFG rege-se pelo disposto no Decreto-Lei n.º 284/99, de 26 de julho, para os grupos de hospitais sob coordenação comum, pela Portaria n.º 76-B/2014, de 26 de março de 2014, adiante designada por Portaria e restantes normas legais aplicáveis ao funcionamento dos grupos hospitalares, bem como pelas disposições do presente Regulamento."
+  },
+  "904466319": {
+   "fragment_id": "904733488",
+   "type": 11,
+   "heading": "Artigo 4.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Missão\n\nCompete, em geral, ao GHIPOFG coordenar as atividades de prestação de cuidados de saúde, de formação de profissionais, de investigação em oncologia e de registo oncológico da responsabilidade dos hospitais do grupo, bem como, as ações de prevenção primária, secundária e de rastreio, em colaboração com os demais serviços, organismos e entidades do Serviço Nacional de Saúde (SNS), apoiando-os no âmbito da oncologia, nos termos do artigo 2.º da Portaria."
+  },
+  "904466320": {
+   "fragment_id": "904733489",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos\n\nO GHIPOFG tem como principal objetivo o desenvolvimento de sinergias entre as entidades hospitalares que o integram, de forma a otimizar a resposta a desafios comuns, bem como a implementação de modelos integrados de governação com vista à melhoria contínua da qualidade dos cuidados prestados, do ensino e da investigação, do rastreio e do registo do cancro, bem como à manutenção do seu estatuto de entidade de referência no domínio da oncologia."
+  },
+  "904466321": {
+   "fragment_id": "904733490",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura Orgânica"
+  },
+  "904466322": {
+   "fragment_id": "904733491",
+   "type": 8,
+   "heading": "Secção I — Órgãos de coordenação comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos de coordenação comum"
+  },
+  "904466323": {
+   "fragment_id": "904733492",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos\n\nSão órgãos de coordenação comum do GHIPOFG:\n\na) Conselho de direção;\n\nb) Conselho técnico."
+  },
+  "904466324": {
+   "fragment_id": "904733493",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho de Direção\n\n1 - O conselho de direção é composto pelos presidentes dos conselhos de administração das entidades que integram o GHIPOFG.\n\n2 - Compete ao conselho de direção:\n\na) Organizar, acompanhar e coordenar as atividades do GHIPOFG, assegurando e promovendo a complementaridade e as interdependências técnica e assistencial entre as respetivas entidades hospitalares, nomeadamente nos termos das competências previstas no n.º 2 do artigo 7.º da Portaria;\n\nb) Criar unidades funcionais do GHIPOFG, para assegurar a coordenação conjunta de uma ou mais atividades de intervenção do Grupo, sem prejuízo de parecer do conselho técnico;\n\nc) Criar estruturas organizativas comuns e grupos de trabalho, nos termos dos artigos 13.º e 14.º do presente Regulamento."
+  },
+  "904466325": {
+   "fragment_id": "904733494",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente do Conselho de Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente do Conselho de Direção\n\n1 - O presidente do conselho de direção é nomeado por despacho do membro do Governo responsável pela área da Saúde, por um período de três anos, de entre os presidentes dos conselhos de administração das entidades que integram o GHIPOFG.\n\n2 - Compete ao presidente do conselho de direção:\n\na) Convocar as reuniões do conselho de direção;\n\nb) Assegurar o cumprimento das deliberações do conselho de direção;\n\nc) Convidar a participar nas reuniões do conselho de direção, sem direito a voto, especialistas ou dirigentes dos IPO's, de acordo com a natureza das matérias a tratar."
+  },
+  "904466326": {
+   "fragment_id": "904733495",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento\n\n1 - O conselho de direção do GHIPOFG reúne em sessão ordinária mensalmente e extraordinariamente, sempre que convocado pelo seu presidente.\n\n2 - As deliberações do conselho de direção serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade.\n\n3 - Nas ausências e impedimentos dos membros do conselho de direção, estes podem ser substituídos por membro do conselho de administração das entidades que integram o grupo, desde que previamente indicado pelo membro ausente.\n\n4 - O presidente do conselho de direção é substituído nas suas ausências e impedimentos pelo membro do conselho de direção por si designado.\n\n5 - As deliberações do conselho de direção serão transcritas em ata.\n\n6 - A divulgação das deliberações do conselho de direção é realizada após aprovação final da ata, salvo nas situações em que os membros do conselho de direção entendam proceder à aprovação da ata sob a forma de minuta, o que deverá ser fundamentado."
+  },
+  "904466327": {
+   "fragment_id": "904733496",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho Técnico\n\n1 - O conselho técnico é composto pelos diretores clínicos e enfermeiros-diretores das entidades integrantes do GHIPOFG.\n\n2 - As competências do conselho técnico encontram-se previstas no n.º 2 do artigo 8.º da Portaria."
+  },
+  "904466328": {
+   "fragment_id": "904733497",
+   "type": 11,
+   "heading": "Artigo 11.º — Presidente do Conselho de Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Presidente do Conselho de Direção\n\n1 - O presidente do conselho técnico é indicado pelos restantes membros para o exercício das suas funções, pelo período de um ano, rotativamente, entre os diretores clínicos das entidades que compõem o Grupo.\n\n2 - Compete ao presidente do conselho técnico:\n\na) Convocar as reuniões previstas no artigo seguinte, designando a data, hora e ordem de trabalhos;\n\nb) Assegurar o cumprimento das deliberações do conselho técnico."
+  },
+  "904466329": {
+   "fragment_id": "904733498",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n1 - A frequência e o local das reuniões ordinárias do conselho técnico, convocadas pelo presidente, serão decididas na primeira reunião deste órgão e constarão da respetiva ata.\n\n2 - O conselho técnico poderá ainda reunir em reuniões extraordinárias, convocadas pela maioria dos seus membros ou pelo presidente do conselho de direção, sempre que se justifique, com a antecedência mínima de 48 horas.\n\n3 - O conselho técnico funciona com a presença da maioria dos seus membros, sendo as suas deliberações tomadas pela maioria simples dos membros presentes, tendo o presidente voto de qualidade.\n\n4 - Os membros do conselho técnico poderão indicar quem os substitua durante as suas ausências e impedimentos, sem prejuízo do direito a voto ser reservado, apenas, aos seus titulares.\n\n5 - O presidente do conselho técnico é substituído nas suas ausências e impedimentos pelo membro do conselho técnico por si designado.\n\n6 - Só poderão ser objeto de apreciação os assuntos incluídos na ordem de trabalhos, salvo se, tratando-se de reunião ordinária, se reconhecer a urgência da apreciação imediata sobre outros assuntos.\n\n7 - As deliberações do conselho técnico serão transcritas em ata."
+  },
+  "904466330": {
+   "fragment_id": "904733499",
+   "type": 8,
+   "heading": "Secção II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organização"
+  },
+  "904466331": {
+   "fragment_id": "904733500",
+   "type": 11,
+   "heading": "Artigo 13.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Organização\n\nO apoio técnico e administrativo aos órgãos de coordenação do GHIPOFG é prestado pelos serviços das entidades dele integrantes, ao nível de recursos humanos, instalações e equipamentos, podendo ser constituídas estruturas organizativas comuns e grupos de trabalho."
+  },
+  "904466332": {
+   "fragment_id": "904733501",
+   "type": 11,
+   "heading": "Artigo 14.º — Estruturas Organizativas Comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estruturas Organizativas Comuns\n\n1 - As estruturas organizativas comuns do GHIPOFG são constituídas por deliberação do conselho de direção, com parecer do conselho técnico quando se reportarem a áreas clínicas, na qual se estabelece o responsável pela estrutura e os serviços que integram.\n\n2 - As estruturas organizativas comuns podem ser constituídas pelos serviços/unidades existentes nos estabelecimentos hospitalares do Grupo e visam ganhos de eficiência, nomeadamente redução de custos e maior capacidade negocial, promovendo efeitos de escala sempre que apropriado.\n\n3 - Os colaboradores que façam parte das estruturas organizativas comuns mantêm a sua dependência jurídico-funcional ao estabelecimento hospitalar a que pertencem."
+  },
+  "904466333": {
+   "fragment_id": "904733502",
+   "type": 11,
+   "heading": "Artigo 15.º — Grupos de Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Grupos de Trabalho\n\nPara assegurar o acompanhamento das atividades do Grupo, o conselho de direção pode recorrer ao apoio técnico de pessoal das entidades integradas no GHIPOFG e determinar a constituição de grupos de trabalho para o estudo e análise de problemas e questões específicos."
+  },
+  "904466334": {
+   "fragment_id": "904733503",
+   "type": 11,
+   "heading": "Artigo 16.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Encargos\n\n1 - Os encargos com o funcionamento das estruturas organizativas comuns são suportados proporcionalmente pelos orçamentos das entidades que integram o GHIPOFG.\n\n2 - Os membros dos órgãos de coordenação comum, (conselho de direção e conselho técnico), não auferem remuneração pelo desempenho dos referidos cargos."
+  },
+  "904466335": {
+   "fragment_id": "904733504",
+   "type": 11,
+   "heading": "Artigo 17.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Natureza\n\nAs entidades hospitalares que integram o GHIPOFG mantêm as respetivas naturezas e personalidade jurídicas, mantendo a autonomia de gestão."
+  },
+  "904466336": {
+   "fragment_id": "904733505",
+   "type": 11,
+   "heading": "Artigo 18.º — Símbolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Símbolo\n\nO Grupo Hospitalar dos Institutos de Oncologia Francisco Gentil, E. P. E., poderá adotar a utilização de um símbolo que contribuirá para a afirmação da marca IPO, em termos nacionais e internacionais."
+  }
+ }
+}

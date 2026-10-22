@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:988285:por
+title: Declaração de Rectificação n.º 506/2010
+short_title: null
+summary: Rectificação do aviso n.º 4377/2010
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Defesa Nacional - Instituto de Estudos Superiores Militares
+proposing_entity: null
+official_number: 506/2010
+official_date: null
+publication_date: '2010-03-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2010, Série II de 2010-03-15
+  number: '51'
+  series: II
+  supplement: null
+  pages: 11973 - 11973
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/03/051000000/1197311973.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '988285'
+  dre_path: /dr/detalhe/declaracao-rectificacao/506-2010-988285
+  internal: pt:dre:988285:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/506-2010-988285
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/506-2010-988285
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-03-15T00:00:00Z'
+integrity:
+  source_sha256: b163dd6777f00ada33634c41b565857877e8269f03ab5a59b03ca868923f69c6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-506-988285.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 506/2010
+
+Declaração de rectificação n.º 506/2010
+
+Após publicação no Diário da República, 2.ª série, n.º 42, de 2 de Março de 2010, a pp. 9131 a 9133, do aviso n.º 4377/2010, rectifica-se que onde se lê «Vogais efectivos: Vítor Manuel Pereira Branco, Major, docente na área de ensino da Administração e em Vogais suplentes: Rui José da Silva Grilo, Major, Gabinete de Programação e Planeamento» deve ler-se «Vogais efectivos: Rui José da Silva Grilo, major, Gabinete de Programação e Planeamento, e em vogais suplentes: Vítor Manuel Pereira Branco, major, docente na área de ensino da Administração».
+
+8 de Março de 2010. - O Director, Álvaro Sabino Guerreiro, VALM.

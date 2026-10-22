@@ -1,0 +1,177 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:877061176:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-889942163",
+ "dre_path": "/dr/detalhe/portaria/185-2024-877061176",
+ "source_lastmod": "2026-08-20",
+ "versions": [
+  {
+   "date": "2024-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889916296",
+    "889916297",
+    "889916298",
+    "889916299",
+    "889916301"
+   ]
+  },
+  {
+   "date": "2025-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:907471181:por",
+     "title": "Portaria n.º 38/2025/1",
+     "published": "2025-02-14",
+     "dre_path": "/dr/detalhe/portaria/38-2025-907471181"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "889916296",
+    "889916297",
+    "889916298",
+    "907407597",
+    "889916300",
+    "889916301"
+   ]
+  },
+  {
+   "date": "2025-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:932179904:por",
+     "title": "Portaria n.º 287-A/2025/1",
+     "published": "2025-08-14",
+     "dre_path": "/dr/detalhe/portaria/287-a-2025-932179904"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "889916296",
+    "889916297",
+    "889916298",
+    "932147895",
+    "889916300",
+    "889916301"
+   ]
+  },
+  {
+   "date": "2026-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1159035453:por",
+     "title": "Portaria n.º 345-B/2026/1",
+     "published": "2026-08-14",
+     "dre_path": "/dr/detalhe/portaria/345-b-2026-1159035453"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "889916296",
+    "889916297",
+    "889916298",
+    "1160369775",
+    "889916300",
+    "889916301"
+   ]
+  }
+ ],
+ "fragments": {
+  "889916296": {
+   "fragment_id": "889942164",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova o modelo de declaração de inexistência de conflitos de interesses destinada aos membros dos órgãos de administração, dirigentes e trabalhadores das entidades públicas abrangidas pelo Regime Geral da Prevenção da Corrupção\n\nO Regime Geral da Prevenção da Corrupção (RGPC) foi aprovado pelo Decreto-Lei n.º 109-E/2021, de 9 de dezembro, no âmbito da Estratégia Nacional Anticorrupção 2020-24. De forma a garantir os objetivos do RGPC para as entidades públicas, foram estabelecidas várias disposições que visam assegurar a transparência administrativa, evitar conflitos de interesses, regular a acumulação de funções, implementar sistemas de controlo interno e promover a concorrência na contratação pública (artigos 12.º a 16.º).\n\nNo que respeita à existência de situações de conflitos de interesses, o RGPC concretiza o conceito, considerando conflito de interesses qualquer situação em que se possa, com razoabilidade, duvidar seriamente da imparcialidade da conduta ou decisão do membro do órgão de administração, dirigente ou trabalhador, nos termos dos artigos 69.º e 73.º do Código do Procedimento Administrativo (cf. n.º 4 do artigo 13.º).\n\nEm consequência, o RGPC insta, no referido artigo 13.º, as entidades públicas a adotar medidas destinadas a assegurar a isenção e a imparcialidade dos membros dos respetivos órgãos de administração, seus dirigentes e trabalhadores e a prevenir situações de favorecimento.\n\nPara tal, os membros dos órgãos de administração, dirigentes e trabalhadores das entidades públicas abrangidas devem assinar uma declaração de inexistência de conflitos de interesses, em cada um dos procedimentos em que intervenham respeitantes às seguintes matérias ou áreas de intervenção: contratação pública; concessão de subsídios, subvenções ou benefícios; licenciamentos urbanísticos, ambientais, comerciais e industriais; e procedimentos sancionatórios.\n\nNos termos do n.º 2 do artigo 13.º do RGPC, o modelo de declaração de inexistência de conflitos de interesses deve ser definido em portaria dos membros do Governo responsáveis pelas áreas da justiça e da Administração Pública.\n\nAssim:\n\nManda o Governo, pela Ministra da Justiça e pela Secretária de Estado da Administração Pública, ao abrigo do disposto no n.º 2 do artigo 13.º do Regime Geral da Prevenção da Corrupção, aprovado em anexo ao Decreto-Lei n.º 109-E/2021, de 9 de dezembro, o seguinte:"
+  },
+  "889916297": {
+   "fragment_id": "889942165",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à aprovação do modelo de declaração de inexistência de conflitos de interesses, prevista no n.º 2 do artigo 13.º do Regime Geral da Prevenção da Corrupção, aprovado em anexo ao Decreto-Lei n.º 109-E/2021, de 9 de dezembro, destinada aos membros dos órgãos de administração, dirigentes e trabalhadores das entidades públicas abrangidas pelo referido regime."
+  },
+  "889916298": {
+   "fragment_id": "889942166",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do modelo de declaração de inexistência de conflitos de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do modelo de declaração de inexistência de conflitos de interesses\n\nÉ aprovado o modelo de declaração de inexistência de conflitos de interesses, em anexo, que faz parte integrante da presente portaria."
+  },
+  "889916299": {
+   "fragment_id": "889942167",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor 30 dias após a sua publicação."
+  },
+  "889916301": {
+   "fragment_id": "889942169",
+   "type": 14,
+   "heading": "Anexo — Declaração de Inexistência de Conflitos de Interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Declaração de Inexistência de Conflitos de Interesses\n\n(a que se refere o artigo 2.º)\n\n[NOME], na qualidade de [MEMBRO DO ÓRGÃO DE ADMINISTRAÇÃO/ DIRIGENTE/TRABALHADOR], a desempenhar funções na [ENTIDADE ABRANGIDA PELO RGPC], declara, sob compromisso de honra, que, na presente data, relativamente ao presente procedimento [REFERÊNCIA], respeitante a [CONTRATAÇÃO PÚBLICA/CONCESSÃO DE SUBSÍDIOS, SUBVENÇÕES OU BENEFÍCIOS/LICENCIAMENTOS URBANÍSTICOS, AMBIENTAIS, COMERCIAIS E INDUSTRIAIS/PROCEDIMENTOS SANCIONATÓRIOS], não se encontra numa situação de conflito de interesses nos termos do n.º 4 do artigo 13.º do Regime Geral da Prevenção da Corrupção, isto é, em situação em que se possa, com razoabilidade, duvidar seriamente da imparcialidade da sua conduta ou decisão, nos termos dos artigos 69.º e 73.º do Código do Procedimento Administrativo e do artigo 24.º da Lei Geral do Trabalho em Funções Públicas.\n\nMais declara, sob compromisso de honra, que se, no decurso do presente procedimento, vier a encontrar-se, ou previr razoavelmente vir a encontrar-se, numa situação de conflito de interesses, comunicará a situação ao superior hierárquico ou, na sua ausência, ao responsável pelo cumprimento normativo, nos termos do disposto no artigo 13.º do Regime Geral da Prevenção da Corrupção.\n\n[DATA]\n\n[ASSINATURA]\n\n118012856"
+  },
+  "907407597": {
+   "fragment_id": "889942167",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2025-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/38-2025-907471181), em vigor a partir de 2025-02-15, produz efeitos a partir de 2024-08-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 242/2024/1 - Diário da República n.º 193/2024, Série I de 2024-10-04](https://diariodarepublica.pt/dr/detalhe/portaria/242-2024-889914907), produz efeitos a partir de 2024-08-14"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor um ano após a sua publicação.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/38-2025-907471181), em vigor a partir de 2025-02-15, produz efeitos a partir de 2024-08-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 242/2024/1 - Diário da República n.º 193/2024, Série I de 2024-10-04](https://diariodarepublica.pt/dr/detalhe/portaria/242-2024-889914907), produz efeitos a partir de 2024-08-14"
+  },
+  "889916300": {
+   "fragment_id": "889942168",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Rita Fragoso de Rhodes Alarcão Júdice de Abreu e Mota, em 7 de agosto de 2024. - A Secretária de Estado da Administração Pública, Marisa da Luz Bento Garrido Marques Oliveira, em 8 de agosto de 2024."
+  },
+  "932147895": {
+   "fragment_id": "889942167",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2025-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 287-A/2025/1 - Diário da República n.º 156/2025, Suplemento, Série I de 2025-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/287-a-2025-932179904), em vigor a partir de 2025-08-15, produz efeitos a partir de 2024-08-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/38-2025-907471181), em vigor a partir de 2025-02-15, produz efeitos a partir de 2024-08-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 242/2024/1 - Diário da República n.º 193/2024, Série I de 2024-10-04](https://diariodarepublica.pt/dr/detalhe/portaria/242-2024-889914907), produz efeitos a partir de 2024-08-14"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor dois anos após a sua publicação.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 287-A/2025/1 - Diário da República n.º 156/2025, Suplemento, Série I de 2025-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/287-a-2025-932179904), em vigor a partir de 2025-08-15, produz efeitos a partir de 2024-08-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/38-2025-907471181), em vigor a partir de 2025-02-15, produz efeitos a partir de 2024-08-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 242/2024/1 - Diário da República n.º 193/2024, Série I de 2024-10-04](https://diariodarepublica.pt/dr/detalhe/portaria/242-2024-889914907), produz efeitos a partir de 2024-08-14"
+  },
+  "1160369775": {
+   "fragment_id": "889942167",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2026-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 345-B/2026/1 - Diário da República n.º 157/2026, Suplemento, Série I de 2026-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/345-b-2026-1159035453), em vigor a partir de 2026-08-15, com efeitos a partir de 2024-08-14.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 287-A/2025/1 - Diário da República n.º 156/2025, Suplemento, Série I de 2025-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/287-a-2025-932179904), em vigor a partir de 2025-08-15, produz efeitos a partir de 2024-08-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/38-2025-907471181), em vigor a partir de 2025-02-15, produz efeitos a partir de 2024-08-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 242/2024/1 - Diário da República n.º 193/2024, Série I de 2024-10-04](https://diariodarepublica.pt/dr/detalhe/portaria/242-2024-889914907), produz efeitos a partir de 2024-08-14"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor em 31 de julho de 2027.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 345-B/2026/1 - Diário da República n.º 157/2026, Suplemento, Série I de 2026-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/345-b-2026-1159035453), em vigor a partir de 2026-08-15, com efeitos a partir de 2024-08-14.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 287-A/2025/1 - Diário da República n.º 156/2025, Suplemento, Série I de 2025-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/287-a-2025-932179904), em vigor a partir de 2025-08-15, produz efeitos a partir de 2024-08-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/38-2025-907471181), em vigor a partir de 2025-02-15, produz efeitos a partir de 2024-08-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 242/2024/1 - Diário da República n.º 193/2024, Série I de 2024-10-04](https://diariodarepublica.pt/dr/detalhe/portaria/242-2024-889914907), produz efeitos a partir de 2024-08-14"
+  }
+ }
+}

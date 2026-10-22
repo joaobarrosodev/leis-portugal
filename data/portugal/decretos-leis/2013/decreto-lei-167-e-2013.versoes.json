@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:164427:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-56363119",
+ "dre_path": "/dr/detalhe/decreto-lei/167-e-2013-164427",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56364304",
+    "56364305",
+    "56364306",
+    "56364307",
+    "56364308",
+    "56364309",
+    "56364310",
+    "56364311",
+    "56364312",
+    "56364313",
+    "56364314",
+    "56364315",
+    "56364316",
+    "56364317",
+    "56364318",
+    "56364319"
+   ]
+  },
+  {
+   "date": "2017-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108269606:por",
+     "title": "Decreto-Lei n.º 126-B/2017",
+     "published": "2017-10-06",
+     "dre_path": "/dr/detalhe/decreto-lei/126-b-2017-108269606"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "56364304",
+    "56364305",
+    "56364306",
+    "56364307",
+    "56364308",
+    "56364309",
+    "56364310",
+    "108224201",
+    "56364312",
+    "56364313",
+    "56364314",
+    "56364315",
+    "56364316",
+    "56364317",
+    "56364318",
+    "56364320",
+    "56364319"
+   ]
+  }
+ ],
+ "fragments": {
+  "56364304": {
+   "fragment_id": "56363120",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 167-E/2013\n\nde 31 de dezembro\n\nA necessidade de contenção da despesa pública no longo prazo com carácter de definitividade obriga à redução da despesa no setor da segurança social, o que impõe a introdução de algumas alterações no âmbito do regime jurídico das pensões de invalidez e velhice do regime geral de segurança social, adiante designado por regime geral.\n\nA primeira medida consiste na alteração da fórmula de cálculo do fator de sustentabilidade através da alteração do ano de referência inicial da esperança média de vida aos 65 anos, do ano de 2006 para o ano 2000.\n\nA segunda medida consiste na adequação da idade normal de acesso à pensão de velhice em 2014 à alteração da fórmula de determinação do fator de sustentabilidade.\n\nAssim, a idade normal de acesso à pensão de velhice em vigor, 65 anos, será acrescida do número de meses necessários à compensação do efeito de redução no cálculo das pensões decorrente da aplicação do novo fator de sustentabilidade correspondente ao ano de 2013, tendo por referência uma taxa mensal de bonificação de 1%.\n\nTendo em conta a nova fórmula de determinação do fator de sustentabilidade e os valores da esperança média de vida aos 65 anos correspondentes aos anos de 2000 e 2012, publicitados pelo Instituto Nacional de Estatística, I.P., o fator de sustentabilidade de 2013 é igual a 0,8827, a que corresponde um efeito redutor no cálculo das pensões de 11,73%.\n\nAtendendo à taxa mensal de bonificação de 1% são necessários 12 meses para compensar o efeito redutor do fator de sustentabilidade de 2013, pelo que a idade normal de acesso à pensão de velhice em 2014 é de 65 anos mais 12 meses.\n\nA terceira medida traduz-se numa nova forma de determinação da idade normal de acesso à pensão de velhice, tendo como referência a evolução da esperança média de vida aos 65 anos.\n\nAssim, futuramente, a idade normal de acesso à pensão de velhice varia de acordo com a evolução da esperança média de vida aos 65 anos, verificada entre o 2.º e 3.º ano anteriores ao ano de início da pensão de velhice, na proporção de dois terços.\n\nÉ também garantido o acesso à pensão de velhice aos 65 anos a todos os beneficiários que em 31 de dezembro de 2013 cumprissem as condições de atribuição da pensão de velhice em vigor nesta data, podendo requerer a pensão de acordo com o regime em vigor naquela data.\n\nA idade normal de acesso à pensão mantém-se nos 65 anos para os beneficiários que estejam impedidos por força da lei de continuar a prestar o trabalho ou atividade para além dessa idade.\n\nCria-se um mecanismo de redução da idade normal de acesso à pensão para os beneficiários com longas carreiras contributivas que assim passam a poder aceder antecipadamente à pensão de velhice em função do seu esforço contributivo para além dos 40 anos de carreira contributiva.\n\nAs alterações efetuadas ao regime jurídico de proteção social nas eventualidades de invalidez e velhice do regime geral de segurança social não prejudicam o disposto nos regimes especiais já existentes, nomeadamente nos que tem por objeto profissões desgastantes ou especialmente penosas, como a dos mineiros, dos pescadores e dos bailarinos do bailado clássico ou contemporâneo, entre outras.\n\nSão salvaguardadas todas as pensões de invalidez convoladas em pensão de velhice após a data de entrada em vigor do presente decreto-lei e aproveita-se também a oportunidade para eliminar o caráter transitório da forma de revalorização das remunerações anuais registadas após 1 de janeiro de 2002.\n\nO presente decreto-lei prevê, ainda, que o regime de proteção social convergente será adaptado através de legislação própria aos princípios nele estabelecidos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e os parceiros sociais no âmbito da Comissão Permanente de Concertação Social, do Conselho Económico e Social.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 4/2007, de 16 de janeiro, alterada pela Lei n.º 83-A/2013, de 30 de dezembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "56364305": {
+   "fragment_id": "56363121",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à alteração dos seguintes diplomas:\n\na) Decreto-Lei n.º 464/80, de 13 de outubro, alterado pelos Decretos-Leis n.os 141/91, de 10 de abril e 18/2002, de 29 de janeiro, e pela Lei n.º 3-B/2010, de 28 de abril, que estabelece as condições de acesso e de atribuição da pensão social;\n\nb) Decreto-Lei n.º 232/2005, de 29 de dezembro, alterado pelos Decretos-Leis n.os 236/2006, de 11 de dezembro, 151/2009, de 30 de junho, e 13/2013, de 25 de janeiro, que cria o complemento solidário para idosos;\n\nc) Decreto-Lei n.º 220/2006, de 3 de novembro, que estabelece o regime jurídico de proteção social da eventualidade de desemprego dos trabalhadores por conta de outrem;\n\nd) Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, que aprova o regime de proteção nas eventualidades de invalidez e de velhice dos beneficiários do regime geral de segurança social."
+  },
+  "56364306": {
+   "fragment_id": "56363122",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 464/80, de 13 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 464/80, de 13 de outubro\n\nO artigo 4.º do Decreto-Lei n.º 464/80, de 13 de outubro, alterado pelos Decretos-Leis n.os 141/91, de 10 de abril, e 18/2002, de 29 de janeiro, e pela Lei n.º 3-B/2010, de 28 de abril, passam a ter a seguinte redação.\n\n«Artigo 4.º\n\n[...]\n\nA pensão social de velhice é atribuída às pessoas de idade igual ou superior à idade normal de acesso à pensão de velhice do regime geral de segurança social.»"
+  },
+  "56364307": {
+   "fragment_id": "56363123",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro\n\nO artigo 4.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, alterado pelos Decretos-Leis n.os 236/2006, de 11 de dezembro, 151/2009, de 30 de junho, e 13/2013, de 25 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - [...]:\n\na) Ter idade igual ou superior à idade normal de acesso à pensão de velhice do regime geral de segurança social;\n\nb) [...];\n\nc) [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].»"
+  },
+  "56364308": {
+   "fragment_id": "56363124",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 220/2006, de 3 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 220/2006, de 3 de novembro\n\nO artigo 58.º do Decreto-Lei n.º 220/2006, de 3 de novembro, passa a ter a seguinte redação:\n\n«Artigo 58.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Nos casos em que a situação de desemprego decorra de cessação do contrato de trabalho por acordo, ao montante da pensão, calculado nos termos dos números anteriores, é aplicado um fator de redução resultante da fórmula 1 - (n x 0,25%) em que n corresponde ao número de meses de antecipação entre os 62 anos e a idade normal de acesso à pensão de velhice em vigor.\n\n5 - O fator de redução adicional previsto no número anterior é anulado a partir do momento em que o beneficiário atinja a idade normal de acesso à pensão.\n\n6 - Para efeitos do disposto nos n.os 4 e 5, a idade normal de acesso à pensão dos beneficiários referidos no n.º 6 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, é 65 anos.\n\n7 - Para efeitos do disposto no n.º 5, a idade normal de acesso à pensão dos beneficiários referidos no n.º 8 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, é a idade resultante da redução neste prevista.»"
+  },
+  "56364309": {
+   "fragment_id": "56363125",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 187/2007, de 10 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 187/2007, de 10 de maio\n\nOs artigos 20.º a 25.º, 27.º, 35.º a 38.º, 44.º, 52.º, 92.º e 100.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pelo Lei n.º 64-A/2008, de 31 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 20.º\n\n[...]\n\n1 - O reconhecimento do direito à pensão de velhice depende ainda de o beneficiário ter idade igual ou superior à idade normal de acesso à pensão de velhice definida nos termos dos números seguintes, sem prejuízo dos seguintes regimes e medidas especiais de antecipação:\n\na) [Anterior alínea a) do corpo do artigo];\n\nb) [Anterior alínea b) do corpo do artigo];\n\nc) [Anterior alínea c) do corpo do artigo];\n\nd) [Anterior alínea d) do corpo do artigo].\n\n2 - A idade normal de acesso à pensão de velhice em 2014 e 2015 é igual a 65 anos mais o número de meses necessários à compensação do efeito redutor no cálculo das pensões resultante da aplicação do fator de sustentabilidade correspondente a 2013, calculado nos termos do n.º 3 do artigo 35.º, tendo por referência a taxa mensal de bonificação de 1%.\n\n3 - Após 2014 a idade normal de acesso à pensão de velhice varia em função da evolução da esperança média de vida aos 65 anos de idade, e corresponde à idade normal de acesso à pensão de velhice em 2014 acrescida do número de meses apurados pela aplicação da seguinte fórmula:\n\n(ver documento original)\n\n4 - Para efeitos da aplicação da fórmula referida no número anterior, entende-se por:\n\n«m» o número de meses a acrescer à idade normal de acesso à pensão relativa a 2014;\n\n«n» o ano de início da pensão;\n\n«EMV» a esperança média de vida aos 65 anos.\n\n5 - O número de meses obtido por aplicação da fórmula prevista no n.º 3 é aproximado, por excesso ou por defeito, à unidade mais próxima.\n\n6 - A idade normal de acesso à pensão de velhice mantém-se em 65 anos relativamente aos beneficiários que se encontrem impedidos legalmente de continuar a prestar o trabalho ou atividade para além daquela idade e que os tenham efetivamente prestado, pelo menos, nos cinco anos civis imediatamente anteriores ao ano de início da pensão.\n\n7 - Para efeitos do número anterior, os beneficiários devem apresentar declaração que comprove a prestação de trabalho ou da atividade, emitida pelo empregador, pelo prestador do serviço, ou pela entidade beneficiária da atividade prestada, consoante os casos.\n\n8 - Na data em que o beneficiário perfaça 65 anos, a idade normal de acesso à pensão é reduzida em quatro meses por cada ano civil que exceda os 40 anos de carreira contributiva com registo de remunerações relevante para efeitos de taxa de formação da pensão, não podendo a redução resultar no acesso à pensão de velhice antes daquela idade.\n\n9 - A idade normal de acesso à pensão, determinada nos termos dos números anteriores, consta de portaria do membro do Governo responsável pela área da solidariedade e da segurança social, a publicar no segundo ano civil imediatamente anterior.\n\nArtigo 21.º\n\n[...]\n\n1 - A flexibilização da idade de acesso à pensão de velhice, prevista na alínea a) do n.º 1 do artigo anterior, consiste no direito de requerer a pensão em idade inferior ou superior à idade normal de acesso à pensão vigente no ano de início da pensão de velhice antecipada ou bonificada.\n\n2 - [...].\n\n3 - [...].\n\nArtigo 22.º\n\n[...]\n\nA antecipação da idade de pensão de velhice, prevista na alínea b) do n.º 1 do artigo 20.º, é estabelecida por lei que defina as respetivas condições de atribuição, designadamente, a natureza especialmente penosa ou desgastante da atividade profissional exercida pelo beneficiário e as particularidades específicas relevantes no seu exercício.\n\nArtigo 23.º\n\n[...]\n\nA antecipação da idade de pensão de velhice, no âmbito das medidas temporárias de proteção específica previstas na alínea c) do n.º 1 do artigo 20.º, é estabelecida por lei e tem como limite os 55 anos de idade do beneficiário.\n\nArtigo 24.º\n\n[...]\n\nA antecipação da idade de pensão de velhice nas situações de desemprego involuntário de longa duração previstas na alínea d) do n.º 1 do artigo 20.º é estabelecida por lei e tem como limite os 57 anos de idade do beneficiário.\n\nArtigo 25.º\n\n[...]\n\n1 - [...].\n\n2 - No regime de flexibilização da idade de pensão, previsto na alínea a) do n.º 1 do artigo 20.º, o suporte financeiro da antecipação da pensão é garantido pela aplicação de adequado fator de redução da pensão de velhice.\n\n3 - Nos restantes regimes e medidas de antecipação da idade de pensão de velhice, previstos nas alíneas b), c) e d) do n.º 1 do artigo 20.º, o suporte financeiro da antecipação da pensão de velhice é previsto em lei especial que estabeleça o respetivo financiamento.\n\nArtigo 27.º\n\n[...]\n\n1 - [...].\n\n2 - Os valores das remunerações registadas a partir de 1 de janeiro de 2002, para efeitos do cálculo da pensão com base em toda a carreira contributiva, previstos nos artigos 32.º e 33.º, são atualizados por aplicação de um índice resultante da ponderação de 75% do IPC, sem habitação, e de 25% da evolução média dos ganhos subjacentes às contribuições declaradas à segurança social, sempre que esta evolução seja superior ao IPC, sem habitação, e com observância do limite fixado no número seguinte.\n\n3 - [...]\n\n4 - [Revogado].\n\n5 - [...].\n\nArtigo 35.º\n\n[...]\n\n1 - No momento do cálculo da pensão de velhice ou na data da convolação da pensão de invalidez em pensão de velhice é aplicável, respetivamente, ao montante da pensão estatutária ou ao montante da pensão regulamentar em curso, o fator de sustentabilidade correspondente ao ano de início da pensão ou da data da convolação, sem prejuízo do disposto nos n.os 2 e 5.\n\n2 - Na data da convolação da pensão de invalidez absoluta em pensão de velhice, o fator de sustentabilidade não é aplicável nas situações em que, à data em que a mesma ocorra, o beneficiário tiver recebido pensão de invalidez absoluta por um período superior a 20 anos.\n\n3 - O fator de sustentabilidade é definido pela seguinte fórmula:\n\n(ver documento original)\n\n4 - Para efeitos da aplicação da fórmula referida no número anterior, entende-se por:\n\n«FS» o fator de sustentabilidade;\n\n«EMV(índice 2000)» a esperança média de vida aos 65 anos verificada em 2000;\n\n«EMV(índice anoi-1)» a esperança média de vida aos 65 anos verificada no ano anterior ao de início da pensão.\n\n5 - Ficam salvaguardadas da aplicação do fator de sustentabilidade as pensões estatutárias dos beneficiários que passem à situação de pensionistas de velhice na idade normal de acesso à pensão, ou em idade superior.\n\n6 - [Anterior n.º 5].\n\nArtigo 36.º\n\n[...]\n\n1 - O montante da pensão antecipada de velhice atribuída no âmbito do disposto na alínea a) do n.º 1 do artigo 20.º é calculado pela aplicação de um fator de redução ao valor da pensão estatutária, calculada nos termos gerais.\n\n2 - [...].\n\n3 - [...].\n\n4 - O número de meses de antecipação é apurado entre a data da apresentação do requerimento da pensão antecipada ou, quando aplicável, entre a data indicada pelo beneficiário no requerimento apresentado com efeitos diferidos, e a idade normal de acesso à pensão de velhice em vigor.\n\n5 - [...].\n\n6 - [...].\n\n7 - Nos casos previstos nas alíneas b), c) e d) do n.º 1 do artigo 20.º, o montante da pensão antecipada é calculado nos termos gerais, com as particularidades previstas em lei especial que se lhes aplique.\n\nArtigo 37.º\n\n[...]\n\n1 - O montante da pensão estatutária de velhice atribuída a beneficiário com idade superior à idade normal de acesso à pensão em vigor e, pelo menos, 15 anos com registo de remunerações relevantes para efeitos da taxa de formação da pensão é calculado nos termos gerais e bonificado pela aplicação do fator definido no número seguinte.\n\n2 - [...].\n\n3 - A taxa global de bonificação é o produto da taxa mensal pelo número de meses a bonificar compreendidos entre o mês em que o beneficiário atinja a idade normal de acesso à pensão de velhice em vigor e o mês de início da pensão, com o limite de 70 anos.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\nArtigo 38.º\n\nBonificação de períodos contributivos cumpridos antes da idade normal de acesso à pensão\n\n1 - [...].\n\n2 - [...].\n\n3 - A taxa global de bonificação é o produto da taxa mensal de 0,65% pelo número de meses compreendidos entre o mês em que se verificaram as condições de acesso à pensão antecipada sem redução e a idade normal de acesso à pensão de velhice em vigor, ou a data de início da pensão, se esta tiver lugar em idade inferior.\n\n4 - [...].\n\n5 - [...].\n\nArtigo 44.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - O valor mínimo de pensão previsto no n.º 1 não é aplicável às pensões antecipadas atribuídas ao abrigo do regime de flexibilização da idade de pensão de velhice, previsto na alínea a) do n.º 1 do artigo 20.º\n\nArtigo 52.º\n\n[...]\n\nAs pensões de invalidez tomam de direito a natureza de pensão de velhice a partir do mês seguinte àquele em que o pensionista atinja os 65 anos.\n\nArtigo 92.º\n\n[...]\n\n1 - [...]:\n\na) Falsas declarações previstas no n.º 7 do artigo 20.º, sobre o trabalho ou atividade efetivamente prestados nos últimos cinco anos civis imediatamente anteriores ao ano de início da pensão;\n\nb) [Anterior alínea a)];\n\nc) [Anterior alínea b)];\n\nd) [Anterior alínea c)];\n\ne) [Anterior alínea d)];\n\nf) [Anterior alínea e)];\n\ng) [Anterior alínea f)];\n\nh) [Anterior alínea g)];\n\ni) [Anterior alínea h)].\n\n2 - [...].\n\n3 - [...].\n\nArtigo 100.º\n\n[...]\n\nO fator de sustentabilidade previsto no artigo 35.º não é aplicável aos beneficiários que à data da entrada em vigor do presente decreto-lei estejam inscritos na segurança social e que venham a ser titulares de pensão de invalidez absoluta por um período superior a metade do tempo que decorre entre a data da entrada em vigor do presente decreto-lei e a data em que completarem a idade normal de acesso à pensão de velhice.»"
+  },
+  "56364310": {
+   "fragment_id": "56363126",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao anexo II do Decreto-Lei n.º 187/2007, de 10 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao anexo II do Decreto-Lei n.º 187/2007, de 10 de maio\n\nO anexo II do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pelo Lei n.º 64-A/2008, de 31 de dezembro, passa a ter a redação constante do anexo ao presente decreto-lei, que dele faz parte integrante."
+  },
+  "56364311": {
+   "fragment_id": "56363127",
+   "type": 11,
+   "heading": "Artigo 7.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguarda de direitos\n\n1 - Os beneficiários que até 31 de dezembro de 2013 cumpram as condições de atribuição da pensão de velhice nos termos da lei em vigor nessa data, beneficiam do regime legal aplicável naquela data, independentemente do momento em que venham a requerer a pensão.\n\n2 - Às pensões de invalidez relativa e às pensões de invalidez absoluta cujo período de atribuição à data da convolação seja igual ou inferior a 20 anos, convoladas em pensão de velhice após a data de entrada em vigor do presente diploma, aplicam-se as regras previstas no Decreto-Lei n.º 187/2007, de 10 de maio, na redação em vigor em 31 de dezembro de 2013."
+  },
+  "56364312": {
+   "fragment_id": "56363128",
+   "type": 11,
+   "heading": "Artigo 8.º — Exclusão do âmbito de aplicação do Decreto-Lei n.º 85-A/2012, de 5 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exclusão do âmbito de aplicação do Decreto-Lei n.º 85-A/2012, de 5 de abril\n\n1 - Os beneficiários abrangidos pelo Decreto-Lei n.º 156/2009, de 9 de julho, são excluídos do âmbito de aplicação do Decreto-Lei n.º 85-A/2012, de 5 de abril.\n\n2 - O disposto no número anterior produz efeitos a partir da data de entrada em vigor do Decreto-Lei n.º 85-A/2012, de 5 de abril."
+  },
+  "56364313": {
+   "fragment_id": "56363129",
+   "type": 11,
+   "heading": "Artigo 9.º — Adaptação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adaptação\n\nO regime de proteção social convergente será adaptado aos princípios do presente decreto-lei através de legislação própria."
+  },
+  "56364314": {
+   "fragment_id": "56363130",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma repristinatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma repristinatória\n\n1 - É repristinado o artigo 12.º do Decreto-Lei n.º 261/91, de 25 de julho.\n\n2 - O disposto no número anterior produz efeitos desde 1 de janeiro de 2011."
+  },
+  "56364315": {
+   "fragment_id": "56363131",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nA idade normal de acesso à pensão de velhice relativa aos anos de 2014 e 2015 consta de portaria do membro do Governo responsável pela área da solidariedade e da segurança social, a publicar no prazo de 30 dias após a entrada em vigor do presente decreto-lei."
+  },
+  "56364316": {
+   "fragment_id": "56363132",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o n.º 4 do artigo 27.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro."
+  },
+  "56364317": {
+   "fragment_id": "56363133",
+   "type": 11,
+   "heading": "Artigo 13.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Produção de efeitos\n\nO disposto no artigo 5.º aplica-se às pensões de velhice que sejam requeridas após a data da entrada em vigor do presente decreto-lei, bem como às requeridas em 2013 ao abrigo do disposto no n.º 4 do artigo 76.º do Decreto-Lei n.º 187/2007, de 10 de maio, nas situações em que os requerentes não atinjam os 65 anos até ao final daquele ano."
+  },
+  "56364318": {
+   "fragment_id": "56363134",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2014."
+  },
+  "56364319": {
+   "fragment_id": "56363135",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 6.º)\n\n«ANEXO II\n\nTaxa mensal de bonificação\n\n(a que se refere o n.º 4 do artigo 37.º)\n\n(ver documento original)"
+  },
+  "108224201": {
+   "fragment_id": "56363127",
+   "type": 11,
+   "heading": "Artigo 7.º — Salvaguarda de direitos",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Salvaguarda de direitos\n\n1 - Os beneficiários que até 31 de dezembro de 2013 cumpram as condições de atribuição da pensão de velhice nos termos da lei em vigor nessa data, beneficiam do regime legal aplicável naquela data, independentemente do momento em que venham a requerer a pensão.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "56364320": {
+   "fragment_id": "56363136",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de dezembro de 2013. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 31 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 31 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

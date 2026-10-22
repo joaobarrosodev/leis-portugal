@@ -1,0 +1,1003 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:279427:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-810791334",
+ "dre_path": "/dr/detalhe/decreto-lei/34-2011-279427",
+ "source_lastmod": "2024-08-16",
+ "versions": [
+  {
+   "date": "2011-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "809904557",
+    "809904558",
+    "809904559",
+    "809904560",
+    "809904561",
+    "809904562",
+    "809904563",
+    "809904564",
+    "809904565",
+    "809904566",
+    "809904567",
+    "809904568",
+    "809904569",
+    "809904570",
+    "809904571",
+    "809904572",
+    "809904573",
+    "809904574",
+    "817062175",
+    "817062176",
+    "817062177",
+    "817062178",
+    "817062179",
+    "817062180",
+    "817062181",
+    "817062182",
+    "817062183",
+    "817062184",
+    "817062185",
+    "817062186",
+    "817062187",
+    "817062188",
+    "817062189",
+    "817062190",
+    "817062191",
+    "817062192",
+    "817062193",
+    "817062194",
+    "817062195",
+    "817062196"
+   ]
+  },
+  {
+   "date": "2013-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258540:por",
+     "title": "Decreto-Lei n.º 25/2013",
+     "published": "2013-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2013-258540"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "809904557",
+    "809904558",
+    "809904559",
+    "884565727",
+    "809904561",
+    "809904562",
+    "809904563",
+    "884565728",
+    "809904565",
+    "809904566",
+    "809904567",
+    "809904568",
+    "884565729",
+    "809904570",
+    "809904571",
+    "809904572",
+    "884565730",
+    "809904574",
+    "817062175",
+    "817062176",
+    "817062177",
+    "817062178",
+    "884565731",
+    "817062180",
+    "884565732",
+    "817062182",
+    "884565733",
+    "884565734",
+    "817062185",
+    "817062186",
+    "817062187",
+    "817062188",
+    "817062189",
+    "817062190",
+    "817062191",
+    "817062192",
+    "817062193",
+    "817062194",
+    "817062195",
+    "817062196",
+    "817062197"
+   ]
+  },
+  {
+   "date": "2015-01-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58406974:por",
+     "title": "Decreto-Lei n.º 153/2014",
+     "published": "2014-10-20",
+     "dre_path": "/dr/detalhe/decreto-lei/153-2014-58406974"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Capítulo III",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Capítulo IV",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Capítulo V",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Capítulo VI",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º"
+   ],
+   "fragments": [
+    "809904557",
+    "896440517",
+    "896440526",
+    "896440527",
+    "896440528",
+    "896440529",
+    "896440530",
+    "896440531",
+    "896440532",
+    "896440533",
+    "809904567",
+    "896440534",
+    "896440535",
+    "896440536",
+    "896440537",
+    "896440538",
+    "884565730",
+    "896440539",
+    "896440550",
+    "896440551",
+    "896440552",
+    "896440553",
+    "896440554",
+    "896440555",
+    "896440556",
+    "896440557",
+    "896440558",
+    "896440559",
+    "896440560",
+    "896440563",
+    "896440564",
+    "896440565",
+    "896440568",
+    "896440569",
+    "896440570",
+    "896471176",
+    "896471177",
+    "896471178",
+    "896471179",
+    "896471180",
+    "817062197"
+   ]
+  }
+ ],
+ "fragments": {
+  "809904557": {
+   "fragment_id": "810791335",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 34/2011\n\nde 8 de Março\n\nO Programa do XVIII Governo Constitucional estabelece que um dos objectivos para Portugal deve ser «liderar a revolução energética» através de diversas metas, entre as quais «afirmar Portugal na liderança global na fileira industrial das energias renováveis, de forte capacidade exportadora», e apostando na produção descentralizada de energia, simplificando os processos e procedimentos, facilitando a adesão dos cidadãos, empresas e outras entidades.\n\nAssim, no desenvolvimento da Estratégia Nacional para a Energia (ENE 2020), que foi aprovada pela Resolução do Conselho de Ministros n.º 29/2010, de 15 de Abril, a Resolução do Conselho de Ministros n.º 54/2010, de 4 de Agosto, veio determinar a elaboração do regime jurídico do acesso à actividade de miniprodução e estabeleceu as linhas gerais de orientação para o novo regime.\n\nEm concretização da resolução acima referida, o presente decreto-lei estabelece o regime jurídico aplicável à produção de electricidade por intermédio de instalações de pequena potência, designadas por unidades de miniprodução.\n\nEntende-se por «miniprodução» a actividade de pequena escala de produção descentralizada de electricidade, recorrendo, para tal, a recursos renováveis e entregando, contra remuneração, electricidade à rede pública, na condição que exista consumo efectivo de electricidade no local da instalação.\n\nApenas a actividade de muito pequena produção - a microprodução - prevista no Decreto-Lei n.º 363/2007, de 2 de Novembro (alterado e republicado pelo Decreto-Lei n.º 118-A/2010, de 25 de Outubro), e o regime da pequena produção para autoconsumo, previsto no Decreto-Lei n.º 68/2002, de 25 de Março, possuem regimes próprios.\n\nPorém, o regime da produção com autoconsumo não teve a aceitação esperada, sendo muito poucas as unidades por ele actualmente regidas, pelo que cumpre, agora, revogar o Decreto-Lei n.º 68/2002, de 25 de Março, que regula essa matéria, salvaguardando-se, no entanto, a continuação da sua aplicação às instalações presentemente por ele regidas.\n\nEm sua substituição, torna-se necessário definir um regime para a produção descentralizada de electricidade - a miniprodução - que complemente o regime da microprodução, acolhendo a experiência bem sucedida que este representa.\n\nO regime da miniprodução, para além de permitir ao produtor consumir a electricidade produzida pela sua instalação, permite-lhe vender a totalidade dessa electricidade à rede eléctrica de serviço público (RESP) com tarifa bonificada, num dos regimes previstos no presente decreto-lei.\n\nDe entre os aspectos mais salientes do novo regime jurídico para a miniprodução, realça-se, em primeiro lugar, a definição de unidade de miniprodução de electricidade, entendida como a instalação baseada numa só tecnologia de produção (por exemplo, painéis fotovoltaicos), e cuja potência máxima atribuível para ligação à rede é de 250 kW.\n\nTrata-se, assim, de uma instalação que produz electricidade a partir de recursos renováveis, com base numa só tecnologia, e que tem a garantia de entregar, de forma remunerada, a electricidade produzida à RESP.\n\nEm segundo lugar, no que respeita às condições para o acesso ao exercício da actividade de miniprodução, o presente decreto-lei prevê que pode exercer a actividade quem detenha um contrato de fornecimento de electricidade com consumos relevantes na sua instalação de consumo e instale a unidade de miniprodução no mesmo local servido por esta. Isto é, exige-se que, para que se possa beneficiar do regime da miniprodução, a instalação em causa detenha já um contrato com um comercializador e consumo relevante de electricidade.\n\nEstabelece-se, ainda, que a miniprodução não pode exceder 50 % da potência contratada para consumo com o comercializador. Não pode, pois, a unidade de miniprodução produzir e injectar na RESP mais de metade da potência contratada para a instalação de consumo.\n\nNote-se, no entanto, que o regime agora adoptado prevê que entidades terceiras (como, por exemplo, empresas de serviços energéticos), quando autorizadas pelo titular da instalação de consumo, possam instalar uma unidade de miniprodução naquele local, mediante contrato celebrado entre o titular da instalação de consumo e o terceiro interessado.\n\nEm terceiro lugar, e ainda no que toca ao acesso ao exercício da actividade de miniprodução de electricidade, o presente decreto-lei estabelece que o acesso a esta actividade depende de registo e que a entrada em exploração da unidade registada e a sua ligação à rede carecem de certificado de exploração.\n\nAssim sendo, qualquer empresa que esteja interessada na miniprodução, deve efectuar o registo na plataforma electrónica «Sistema de Registo da Miniprodução» (SRMini), gerida pela Direcção-Geral de Energia e Geologia (DGEG).\n\nÀ efectivação do registo segue-se a instalação dos equipamentos necessários à miniprodução e a sua inspecção por parte da DGEG, para verificação do cumprimento de requisitos de segurança, entre outros.\n\nEm quarto lugar, define-se o regime remuneratório da electricidade produzida em instalações de miniprodução, tendo o produtor acesso a dois regimes remuneratórios, à sua escolha: i) o regime geral, aplicável a todos os que tenham acedido à actividade de miniprodução e não se enquadrem no regime bonificado, e ii) o regime bonificado.\n\nNo regime geral, a electricidade produzida é remunerada segundo as condições de mercado, nos termos vigentes para a produção em regime ordinário. A tarifa de remuneração pela injecção de electricidade na RESP é, pois, determinada segundo as condições de mercado, não existindo, por isso, qualquer tarifa de referência administrativamente fixada.\n\nO acesso ao regime bonificado depende do preenchimento de determinados requisitos. Quando estejam em causa potências superiores a 20 kW, a selecção dos registos e fixação da tarifa bonificada aplicável depende de mecanismos concorrenciais. Isto é, tendo por base uma tarifa de referência de (euro) 250 MW/h, são seleccionadas as entidades que oferecerem o melhor desconto à tarifa, sendo que os diversos pedidos de registo recebidos são ordenados em função desse desconto. Nos casos em que a potência de ligação seja inferior a 20kW, os pedidos são ordenados por ordem de chegada.\n\nNote-se que a quota de potência a alocar anualmente no âmbito do regime bonificado é de 50 MW, devendo a sua atribuição ser escalonada ao longo do ano, de acordo com a programação a estabelecer pela DGEG.\n\nO ingresso no regime bonificado depende ainda de prévia comprovação, pelo produtor, da realização de auditoria energética e implementação das medidas de eficiência energética identificadas nessa auditoria.\n\nFinalmente, prevê-se que é objecto de acções de fiscalização anual, pelo menos, 1 % do parque de instalações de miniprodução registadas, para verificar a sua conformidade com o presente decreto-lei.\n\nFoi promovida a audição do Conselho Nacional do Consumo e da Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "809904558": {
+   "fragment_id": "810791336",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "809904559": {
+   "fragment_id": "810791337",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime jurídico aplicável à produção de electricidade, a partir de recursos renováveis, por intermédio de unidades de miniprodução.\n\n2 - Entende-se por «unidade de miniprodução» a instalação de produção de electricidade, a partir de energias renováveis, baseada em uma só tecnologia de produção cuja potência de ligação à rede seja igual ou inferior a 250 kW.\n\n3 - Não se incluem no objecto do presente decreto-lei:\n\na) A produção de electricidade através de unidades de microprodução;\n\nb) A produção em co-geração;\n\nc) A produção de electricidade no âmbito da realização de projectos de inovação e demonstração de conceito."
+  },
+  "809904560": {
+   "fragment_id": "810791338",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, são adoptadas as seguintes definições:\n\na) «Escalão I, II e III» - o escalão de potência de ligação à rede em que se insere uma dada unidade miniprodução, considerando-se que integram o escalão i as unidades cuja potência não seja superior a 20 kW, o escalão ii aquelas cuja potência de ligação seja superior a 20 kW ou igual ou inferior a 100 kW, e o escalão iii as unidades de miniprodução cuja potência de ligação seja superior a 100 kW ou igual ou inferior a 250 kW;\n\nb) «Potência contratada» - o limite da potência estabelecida no dispositivo controlador da potência de consumo de electricidade contratada com um comercializador, quando se trate de instalações ligadas em baixa tensão normal, ou a potência que o operador da rede de distribuição coloca à disposição no ponto de entrega, quando se trate de instalações ligadas em baixa tensão especial e em média tensão;\n\nc) «Potência instalada» - a potência, em quilowatt, dos equipamentos de produção de electricidade;\n\nd) «Potência de ligação» - a potência máxima, ou, no caso de instalações com inversor, a potência nominal de saída deste equipamento, em quilowatt, que o produtor pode injectar na rede eléctrica de serviço público."
+  },
+  "809904561": {
+   "fragment_id": "810791339",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à actividade de miniprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à actividade de miniprodução\n\n1 - Pode exercer a actividade de produção de electricidade por intermédio de unidade de miniprodução a entidade que, à data do pedido de registo, preencha os seguintes requisitos cumulativos:\n\na) Disponha de uma instalação de utilização de energia eléctrica e seja titular de contrato de compra e venda de electricidade, em execução, celebrado com um comercializador, sem prejuízo do disposto no n.º 3;\n\nb) A unidade de miniprodução seja instalada no local servido pela instalação eléctrica de utilização;\n\nc) A potência de ligação da unidade de miniprodução não seja superior a 50 % da potência contratada no contrato referido na alínea a);\n\nd) A energia consumida na instalação de utilização seja igual ou superior a 50 % da energia produzida pela unidade de miniprodução, sendo tomada por referência a relação entre a energia produzida e consumida no ano anterior, no caso de instalações em funcionamento há mais de um ano, e a relação entre a previsão anual de produção e de consumo de energia, para as instalações que tenham entrado em funcionamento há menos de um ano.\n\n2 - Entende-se por «produtor» a entidade titular de um registo para a produção de electricidade por intermédio de uma unidade de miniprodução, nos termos do presente decreto-lei.\n\n3 - Pode ainda ser produtor de electricidade por intermédio de uma unidade de miniprodução, nas condições previstas nas alíneas b) e c) do n.º 1, entidade terceira que, ao abrigo de contrato escrito, esteja autorizada pelo titular do contrato referido na alínea a) do n.º 1.\n\n4 - O acesso à actividade de miniprodução de electricidade está sujeito a registo e subsequente obtenção de certificado de exploração da instalação, nos termos do presente decreto-lei, sem prejuízo do disposto no n.º 6 do artigo 18.º\n\n5 - A cada unidade de miniprodução corresponde um registo.\n\n6 - Não são cumuláveis registos relativos a unidades de microprodução e de miniprodução associados a uma mesma instalação de utilização de energia eléctrica.\n\n7 - O promotor deve proceder a uma averiguação das condições técnicas de ligação no local onde pretende instalar a miniprodução com vista a verificar a existência de condições na rede eléctrica de serviço público (RESP) adequadas à recepção da electricidade a injectar no local pretendido, procedendo, nomeadamente, a medições de tensão nesse local, salvaguardando os limites estabelecidos no Regulamento da Qualidade de Serviço.\n\n8 - Entende-se por «promotor», para efeitos de aplicação do presente decreto-lei, a entidade interessada em obter um registo para a produção de electricidade por intermédio de uma unidade de miniprodução."
+  },
+  "809904562": {
+   "fragment_id": "810791340",
+   "type": 11,
+   "heading": "Artigo 4.º — Suspensão ou restrições ao registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Suspensão ou restrições ao registo\n\n1 - O membro do Governo responsável pela área da energia pode determinar, mediante despacho a publicar no SRMini:\n\na) Os termos da suspensão do registo ou a sujeição deste a limitações, com vista a propiciar o cumprimento de prioridades da política energética ou a sua adequada relação com outras políticas sectoriais, nomeadamente as destinadas ao equilíbrio regional, ou a assegurar a boa gestão do acesso à actividade de miniprodução e a optimização da gestão das capacidades de injecção e recepção de electricidade na RESP;\n\nb) A utilização de procedimentos especiais para acesso ao registo e ao regime bonificado, quando tal se justifique relativamente a registos no âmbito da tarifa bonificada.\n\n2 - Quando o somatório das potências de injecção ligadas a um posto de transformação ou subestação ultrapasse o limite de 20 % da potência do respectivo posto de transformação ou subestação, o operador da rede de distribuição pode restringir o acesso a novos registos, mediante pré-aviso de cinco dias a divulgar no SRMini."
+  },
+  "809904563": {
+   "fragment_id": "810791341",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos do produtor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos do produtor\n\nNo âmbito do exercício da actividade de miniprodução de electricidade, o produtor tem os seguintes direitos:\n\na) Estabelecer uma unidade de miniprodução por cada instalação eléctrica de utilização;\n\nb) Ligar a unidade de miniprodução à RESP, após a emissão do certificado de exploração e a celebração do respectivo contrato de compra e venda de electricidade, nos termos previstos no presente decreto-lei;\n\nc) Vender a totalidade da energia activa produzida, líquida do consumo dos serviços auxiliares, nos termos e com os limites estabelecidos no presente decreto-lei."
+  },
+  "809904564": {
+   "fragment_id": "810791342",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres do produtor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres do produtor\n\n1 - Sem prejuízo do cumprimento da legislação e regulamentação aplicáveis, o produtor de electricidade a partir de uma unidade de miniprodução está sujeito ao cumprimento das seguintes obrigações:\n\na) Entregar à RESP, nos termos do disposto no n.º 2, a totalidade da energia activa produzida, líquida do consumo dos serviços auxiliares;\n\nb) Produzir electricidade apenas a partir da fonte de energia registada nos termos do presente decreto-lei;\n\nc) Celebrar um contrato de compra e venda de electricidade, nos termos do presente decreto-lei;\n\nd) Prestar à Direcção-Geral de Geologia e Energia (DGEG), ou a entidade designada por esta, à direcção regional de economia territorialmente competente (DRE), ao comercializador com que se relaciona e ao operador da rede de distribuição todas as informações que lhe sejam solicitadas;\n\ne) Permitir e facilitar o acesso do pessoal técnico das entidades referidas na alínea anterior para o exercício das respectivas atribuições e competências, nos termos do presente decreto-lei;\n\nf) Suportar os custos da ligação à RESP, nos termos do Regulamento de Relações Comerciais, incluindo o respectivo contador de venda;\n\ng) No caso de instalações que utilizem a energia eólica, ou que estejam localizadas em locais de livre acesso público, ou possam representar perigo para o público, possuir um seguro ou uma extensão de seguro de responsabilidade civil, nos termos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da economia;\n\nh) Assegurar que os equipamentos de miniprodução instalados se encontram certificados nos termos previstos no presente decreto-lei.\n\n2 - A entrega da electricidade produzida à RESP efectua-se no nível de tensão constante do contrato de aquisição de electricidade para a instalação de utilização, excepto nos casos de aquisição de electricidade em média tensão com contagem em baixa tensão (BT), caso em que a contagem de electricidade pode ser efectuada neste nível de tensão, com desconto das perdas verificadas no transformador."
+  },
+  "809904565": {
+   "fragment_id": "810791343",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da DGEG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências da DGEG\n\n1 - Compete à DGEG a coordenação do processo de gestão da miniprodução, nomeadamente:\n\na) Criar, manter e gerir o SRMini destinado ao registo das unidades de miniprodução;\n\nb) Proceder ao registo da instalação de miniprodução e emitir o respectivo certificado de exploração, nos termos do presente decreto-lei;\n\nc) Realizar as inspecções necessárias à emissão do certificado de exploração, directamente ou através de entidades habilitadas pela DGEG para o efeito;\n\nd) Criar e manter uma base de dados de elementos tipo que integrem os equipamentos para as diversas soluções de unidades de miniprodução;\n\ne) Manter a lista das entidades instaladoras devidamente actualizada;\n\nf) Constituir uma bolsa de equipamentos certificados, mantendo uma lista actualizada no SRMini;\n\ng) Controlar a emissão dos certificados dos equipamentos fornecidos pelos fabricantes, importadores, fornecedores, seus representantes e entidades instaladoras, nos termos previstos no presente decreto-lei;\n\nh) Aprovar os formulários e instruções necessários ao bom funcionamento do SRMini de acordo com as funções que lhe estão atribuídas pelo presente decreto-lei;\n\ni) Fornecer aos interessados e divulgar no SRMini informação relativamente às diversas soluções de miniprodução de electricidade, designadamente as suas vantagens e inconvenientes.\n\n2 - O director-geral da DGEG pode designar, pelo prazo de quatro anos renováveis e mediante celebração de protocolo homologado pelo membro do Governo responsável pela área da energia:\n\na) Uma entidade legalmente constituída e reconhecida para aprovar projectos e inspeccionar instalações eléctricas para exercer as competências da DGEG previstas nas alíneas a) a f) do número anterior;\n\nb) Um organismo de certificação acreditado no âmbito do Sistema Português de Qualidade para proceder à certificação de equipamentos eléctricos de acordo com a Norma 45011, que exerce a competência prevista na alínea g) do número anterior.\n\n3 - Quando estejam em causa competências das direcções regionais do ministério responsável pela área da energia (DRE), designadamente no caso de unidades de miniprodução associadas a instalações ligadas à RESP em média tensão e alta tensão, as competências previstas nos números anteriores são exercidas em conjunto com as referidas direcções regionais.\n\n4 - O director-geral de Energia e Geologia aprova, mediante despacho publicado no SRMini, guias técnico e de qualidade para as instalações de miniprodução que se justifiquem para o adequado funcionamento do sistema."
+  },
+  "809904566": {
+   "fragment_id": "810791344",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades instaladoras da miniprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades instaladoras da miniprodução\n\n1 - Designa-se «entidade instaladora de unidades de miniprodução» a entidade titular de alvará emitido pelo Instituto da Construção e do Imobiliário, I. P. (InCI), para a execução de instalações de produção de electricidade.\n\n2 - A entidade instaladora de unidades de miniprodução deve dispor de um técnico responsável pela execução de instalações eléctricas de serviço particular.\n\n3 - A entidade instaladora deve assegurar que os equipamentos de miniprodução a instalar estão certificados nos termos do presente decreto-lei.\n\n4 - Todas as entidades instaladoras que pretendam exercer a actividade de instalação de unidades de miniprodução podem inscrever-se no SRMini para conhecimento e divulgação públicos."
+  },
+  "809904567": {
+   "fragment_id": "810791345",
+   "type": 1,
+   "heading": "Capítulo II — Remuneração e facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Remuneração e facturação"
+  },
+  "809904568": {
+   "fragment_id": "810791346",
+   "type": 11,
+   "heading": "Artigo 9.º — Regimes remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regimes remuneratórios\n\n1 - O produtor tem acesso a um dos seguintes regimes remuneratórios:\n\na) O regime geral, aplicável a todos os que tenham acedido à actividade de miniprodução e não se enquadrem no regime bonificado, nos termos do presente decreto-lei;\n\nb) O regime bonificado.\n\n2 - O regime previsto na alínea b) do número anterior é aplicável a produtores que, preenchendo os requisitos cumulativos a seguir indicados, solicitem o seu enquadramento no regime bonificado quando do pedido de registo:\n\na) A potência de ligação da respectiva unidade de miniprodução seja superior ao limite legalmente estabelecido para o acesso ao regime bonificado no âmbito do regime jurídico da actividade de microprodução;\n\nb) A unidade de miniprodução utilize uma das fontes de energia renovável previstas no n.º 7 do artigo 11.º\n\n3 - Excepto nos casos previstos no número seguinte, o acesso ao regime bonificado depende de prévia comprovação, à data do pedido de inspecção, da realização de auditoria energética que determine a implementação de medidas de eficiência energética, com o seguinte período de retorno:\n\na) Escalão I - dois anos;\n\nb) Escalão II - três anos;\n\nc) Escalão III - quatro anos.\n\n4 - O cumprimento das medidas identificadas na auditoria a que se refere o número anterior é reportado anualmente à DGEG até à sua total implementação.\n\n5 - No caso de existirem no local da unidade de miniprodução instalações consumidoras intensivas de energia sujeitas ao regime jurídico da gestão de consumos intensivos de energia ou ao regime jurídico de certificação energética de edifícios, o acesso ao regime bonificado depende da comprovação, à data do pedido de registo, do seguinte:\n\na) Acordo de racionalização do consumo de energia ou equivalente no sector dos transportes, que esteja a ser cumprido; ou\n\nb) Certificado energético onde se demonstre que após a implementação das medidas de melhoria do desempenho energético, incluindo a unidade de miniprodução, o edifício alcança a classe B ou superior, para o caso de edifícios novos, ou classe C ou superior, no caso de edifícios existentes.\n\n6 - O incumprimento do disposto nos números anteriores determina a aplicação transitória do regime geral até ao cumprimento das mesmas, sem prejuízo de outras sanções prevista na lei.\n\n7 - No âmbito do presente decreto-lei apenas é remunerada a energia activa entregue à RESP.\n\n8 - O acesso ao regime bonificado por parte de entidade não titular do contrato de fornecimento de electricidade à instalação de utilização, a que se refere o n.º 3 do artigo 3.º, está sujeito ao cumprimento das medidas específicas visando a melhoria da eficiência energética da referida instalação previstas no presente artigo."
+  },
+  "809904569": {
+   "fragment_id": "810791347",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime geral\n\nNo regime geral, a venda da electricidade observa as regras estabelecidas para a comercialização da produção de electricidade ao abrigo do regime ordinário, ou seja, em condições de mercado."
+  },
+  "809904570": {
+   "fragment_id": "810791348",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime bonificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime bonificado\n\n1 - O produtor cuja unidade de miniprodução se insira no escalão i é remunerado com base na tarifa de referência que vigorar à data da emissão do certificado de exploração, nos termos do limite da quota de potência estabelecida na programação referida no n.º 2 do artigo 13.º\n\n2 - O produtor cuja unidade de miniprodução se insira nos escalões ii e iii é remunerado com base na tarifa mais alta que resultar das maiores ofertas de desconto à tarifa de referência apuradas nos respectivos escalões, nos termos do limite da quota de potência estabelecida na programação referida no n.º 2 do artigo 13.º\n\n3 - A tarifa aplicável é devida desde o início do fornecimento à rede.\n\n4 - A tarifa aplicável vigora durante um período de 15 anos contados desde o 1.º dia do mês seguinte ao do início do fornecimento.\n\n5 - A aplicação do regime remuneratório bonificado caduca, ingressando o produtor no regime remuneratório geral, nos seguintes casos:\n\na) Quando o produtor comunique ao SRMini a renúncia à sua aplicação;\n\nb) No final do período de 15 anos referido no número anterior;\n\nc) Quando, por facto superveniente, deixe de verificar-se algum dos requisitos do acesso ao regime bonificado ou os previstos no n.º 1 do artigo 3.º para o acesso à actividade de miniprodução.\n\n6 - A tarifa de referência é fixada em (euro) 250/MWh, sendo o valor da tarifa sucessivamente reduzido anualmente em 7 %.\n\n7 - A tarifa a aplicar varia consoante o tipo de energia primária utilizada, sendo determinada mediante a aplicação das seguintes percentagens à tarifa de referência:\n\na) Solar - 100 %;\n\nb) Eólica - 80 %;\n\nc) Hídrica - 50 %;\n\nd) Biogás - 60 %;\n\ne) Biomassa - 60 %;\n\nf) Pilhas de combustível com base em hidrogénio proveniente de miniprodução renovável - percentagem prevista nas alíneas anteriores aplicável ao tipo de energia renovável utilizado para a produção do hidrogénio.\n\n8 - A electricidade vendida nos termos dos números anteriores é limitada a 2,6 MWh/ano, no caso das alíneas a) e b) do número anterior, e a 5 MWh/ano, no caso das restantes alíneas do número anterior, por cada quilowatt de potência de ligação.\n\n9 - A potência de ligação que, em cada ano civil, pode ser objecto de atribuição para miniprodução, no âmbito do regime bonificado, não pode ser superior à quota anual de 50 MW, a alocar de acordo com a programação estabelecida nos termos do n.º 2 do artigo 13.º\n\n10 - A quota de potência de ligação a alocar ao escalão i não pode ser superior a 25 % da quota anual referida no número anterior."
+  },
+  "809904571": {
+   "fragment_id": "810791349",
+   "type": 11,
+   "heading": "Artigo 12.º — Bolsa de registos de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Bolsa de registos de interesse público\n\nO membro do Governo responsável pela área da energia, mediante despacho a publicar no SRMini, pode reservar uma percentagem de até 10 % da quota de potência anual, para atribuição nos termos do presente decreto-lei, a entidades que prestem serviços de carácter social, bem como na área da defesa, da segurança e ambiental e outros serviços do Estado ou das autarquias locais."
+  },
+  "809904572": {
+   "fragment_id": "810791350",
+   "type": 11,
+   "heading": "Artigo 13.º — Actualização da tarifa bonificada e quotas de potência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Actualização da tarifa bonificada e quotas de potência\n\n1 - O membro do Governo responsável pela área da energia, mediante portaria, pode proceder à actualização do valor da tarifa de referência ou da percentagem de regressão e a ajustamentos às percentagens, limites e quota definidos nos n.os 6, 7, 8 e 9 do artigo 11.º tendo em vista assegurar a boa adequação da actividade de miniprodução aos objectivos da política energética, de outras políticas sectoriais, à evolução dos mercados ou ao equilíbrio regional.\n\n2 - Mediante despacho publicado no SRMini, o director-geral da Energia e Geologia estabelece:\n\na) A programação da alocação ao longo do ano da quota anual de potência;\n\nb) A sua distribuição pelos escalões previstos na alínea a) do artigo 2.º;\n\nc) Eventuais saldos de potências não atribuídas."
+  },
+  "809904573": {
+   "fragment_id": "810791351",
+   "type": 11,
+   "heading": "Artigo 14.º — Facturação, contabilidade e relacionamento comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Facturação, contabilidade e relacionamento comercial\n\n1 - No âmbito do regime bonificado, só o comercializador que fornece electricidade para consumo da instalação eléctrica de utilização do produtor pode e deve celebrar contrato de compra e venda da electricidade resultante da miniprodução e assegurar o seu pagamento, nos termos do presente decreto-lei.\n\n2 - O pagamento referido no número anterior é feito directamente ao produtor, mediante transferência bancária, juntamente e com a periodicidade dos pagamentos relativos ao consumo facturado à instalação eléctrica de utilização, sem prejuízo do disposto no número seguinte.\n\n3 - A facturação relativa à electricidade resultante da miniprodução é processada pelo comercializador nos termos do n.º 11 do artigo 36.º do Código do IVA, sem necessidade de acordo escrito do produtor.\n\n4 - No caso de produtores que não se encontrem enquadrados, para efeitos do IVA, no regime normal de tributação e relativamente às transmissões de bens que venham a derivar exclusivamente da miniprodução de energia eléctrica, é aplicável, com as necessárias adaptações, o regime especial de entrega de imposto previsto no artigo 10.º do Decreto-Lei n.º 122/88, de 20 de Abril, devendo os comercializadores, em sua substituição, dar cumprimento às obrigações de liquidação e entrega do imposto.\n\n> Nota: [Artigo 45.º, Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974) Não obstante o presente diploma se encontrar revogado pelo Decreto-Lei n.º 153/2014, de 20 de outubro, mantêm-se ainda em vigor o disposto no n.º 4 artigo 14.º, relativamente a fornecimentos de eletricidade efetuados por produtores abrangidos pelos referidos regimes jurídicos."
+  },
+  "809904574": {
+   "fragment_id": "810791352",
+   "type": 1,
+   "heading": "Capítulo III — Registo e ligação à rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo e ligação à rede"
+  },
+  "817062175": {
+   "fragment_id": "810791353",
+   "type": 11,
+   "heading": "Artigo 15.º — Sistema de Registo da Miniprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sistema de Registo da Miniprodução\n\n1 - O acesso plataforma SRMini faz-se através do sítio na Internet www.renovaveisnahora.pt, cujo endereço pode ser actualizado por portaria, e é acessível através do Portal do Cidadão e do Portal da Empresa.\n\n2 - O SRMini assegura, nomeadamente, as seguintes funções:\n\na) A autenticação dos utilizadores através de códigos que permitam o acesso à informação acessível no SRMini;\n\nb) A indicação dos dados de identificação dos promotores e produtores;\n\nc) O preenchimento electrónico dos elementos necessários ao registo da miniprodução e à entrega dos elementos necessários à sua apreciação;\n\nd) O pagamento ou as instruções de pagamento das taxas previstas na portaria referida no n.º 3 do artigo 26.º;\n\ne) O preenchimento electrónico do pedido de inspecção ou reinspecção;\n\nf) A recolha de informação que permita o contacto entre os serviços competentes e os promotores ou produtores e seus representantes constituídos;\n\ng) A certificação da data e da hora em que os pedidos e outras declarações ou informações são apresentados, bem como as inscrições, registos, inspecções ou reinspecções e certificados de exploração e respectivos averbamentos foram atribuídos, através do SRMini;\n\nh) A não validação ou não recepção dos pedidos que não cumpram os requisitos de acesso ou o pagamento tempestivo das taxas de que depende o seu seguimento;\n\ni) A consulta do estado do pedido, a todo o momento, pelos requerentes inscritos ou registados;\n\nj) A emissão de informação actualizada periodicamente das inscrições concluídas, registos e certificados de exploração atribuídos, tipo de tecnologia de miniprodução, potência, concelho de localização e regime remuneratório aplicável, para conhecimento e divulgação pública.\n\n3 - As DRE, o operador da rede de distribuição e os comercializadores de electricidade devem registar-se no SRMini e aderir ao sistema de comunicações electrónico."
+  },
+  "817062176": {
+   "fragment_id": "810791354",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimento de registo e certificado de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de registo e certificado de exploração\n\n1 - O registo e a emissão do certificado de exploração da unidade de miniprodução são efectuados e processados no SRMini.\n\n2 - O procedimento de registo inicia-se com a inscrição do promotor.\n\n3 - O registo tem-se por concluído com a atribuição de potência de ligação aos registos aceites.\n\n4 - O registo da unidade de miniprodução torna-se definitivo com a emissão do respectivo certificado de exploração.\n\n5 - O certificado de exploração é emitido após instalada a unidade de miniprodução pelo produtor e realizada inspecção que ateste a sua conformidade, sem prejuízo do disposto no n.º 6 do artigo 18.º\n\n6 - A realização da inspecção da miniprodução é solicitada, através do SRMini, no prazo máximo de:\n\na) Seis meses para instalações em BT, contados da data do registo, sob pena de caducidade deste;\n\nb) Oito meses para as restantes instalações, contados da data do registo, sob pena de caducidade deste.\n\n7 - Nos casos em que o produtor estiver sujeito ao regime jurídico da contratação pública, ou ao regime jurídico de avaliação de impactes ou incidências ambientais, ou quando se trate de mini-hídricas, o prazo de caducidade previsto no número anterior é de 16 meses, ou 24 meses, no caso de mini-hídricas.\n\n8 - Os prazos previstos no número anterior, mediante pedido do produtor, podem ser prorrogados, por despacho do director-geral da DGEG, até ao máximo de 8 meses, ou 16 meses, quando se trate de mini-hídricas.\n\n9 - Considera-se que o pedido de inspecção inclui, para todos os efeitos legais, o pedido de emissão de certificado de exploração.\n\n10 - O membro do Governo responsável pela área da energia, mediante despacho a publicar no SRMini, define o procedimento de registo, incluindo os elementos instrutórios do pedido, a marcha do procedimento, os termos das ofertas de desconto, e a sua extinção."
+  },
+  "817062177": {
+   "fragment_id": "810791355",
+   "type": 11,
+   "heading": "Artigo 17.º — Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Inspecção\n\n1 - A inspecção é efectuada nos 10 dias subsequentes ao pedido de inspecção, devendo o dia e a hora da sua realização ser comunicados ao produtor e técnico responsável através do SRMini.\n\n2 - Na inspecção é verificada a conformidade da instalação quanto ao seguinte:\n\na) Se a unidade de miniprodução está executada de acordo com o disposto no presente decreto-lei e regulamentação em vigor, nomeadamente se estão preenchidos os requisitos previstos nos artigos 1.º e 3.º e nos n.os 2 a 6 do artigo 9.º;\n\nb) Se o respectivo contador cumpre as especificações e está correctamente instalado e devidamente selado de origem;\n\nc) Se estão realizados os ensaios necessários à verificação do adequado funcionamento dos equipamentos, bem como a sua certificação.\n\n3 - Na inspecção deve estar sempre presente o técnico responsável por instalações eléctricas de serviço particular ou seu substituto credenciado, ao serviço da entidade instaladora, ao qual compete esclarecer todas as dúvidas que possam ser suscitadas no acto da inspecção.\n\n4 - Concluída a inspecção, o inspector entrega ao técnico responsável cópia do relatório da inspecção e suas conclusões, registando-os no SRMini.\n\n5 - Se o relatório da inspecção concluir pela existência de não conformidades, o produtor deve sanar as deficiências indicadas, nos termos do artigo seguinte.\n\n6 - Quando a inspecção não ocorra no prazo estabelecido no n.º 1 para a sua realização, o SRMini emite de forma automática o certificado de exploração provisório.\n\n7 - No caso previsto no número anterior, o SRMini emite uma ordem diariamente de pagamento da quantia de (euro) 50 a favor do requerente até que o certificado definitivo seja emitido ou que se realize a inspecção prevista no n.º 1.\n\n8 - O certificado provisório é automaticamente convertido em definitivo se a inspecção não ocorrer nos 30 dias subsequentes ao termo do prazo previsto no n.º 1."
+  },
+  "817062178": {
+   "fragment_id": "810791356",
+   "type": 11,
+   "heading": "Artigo 18.º — Reinspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reinspecção\n\n1 - Sempre que na inspecção prevista no artigo anterior sejam detectadas deficiências que não permitam a emissão de certificado de exploração, o produtor deve solicitar reinspecção, no SRMini, até ao máximo de duas.\n\n2 - É aplicável à reinspecção, com as necessárias adaptações, o disposto no n.º 1 do artigo anterior.\n\n3 - O produtor dispõe do prazo de 30 dias, no caso de uma instalação em BT, e de 60 dias nos restantes casos, contados da inspecção ou da última reinspecção para proceder às correcções necessárias e solicitar nova reinspecção, até ao limite máximo de reinspecções admitidas nos termos do n.º 1.\n\n4 - A ligação à RESP da unidade de miniprodução não é autorizada enquanto se mantiverem deficiências que não permitam a emissão de certificado de exploração, procedendo-se, após a 3.ª reinspecção de que não resulte a emissão de parecer favorável para início da exploração, ao cancelamento do registo da unidade de miniprodução.\n\n5 - A não realização de reinspecção por motivo imputável ao produtor implica o cancelamento do registo.\n\n6 - Quando a reinspecção não ocorra no prazo estabelecido para a sua realização, o SRMini emite de forma automática o certificado de exploração, com carácter provisório.\n\n7 - O certificado provisório é automaticamente convertido em definitivo se a inspecção não ocorrer nos 30 dias subsequentes ao termo do prazo previsto no n.º 1 do artigo anterior."
+  },
+  "817062179": {
+   "fragment_id": "810791357",
+   "type": 11,
+   "heading": "Artigo 19.º — Contagem e disponibilização de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contagem e disponibilização de dados\n\n1 - O sistema de contagem de electricidade e os equipamentos que asseguram a protecção da interligação devem ser colocados em local de acesso livre ao comercializador e ao operador da rede de distribuição, bem como às entidades competentes para efeitos do presente decreto-lei, salvo situações especiais autorizadas pela DGEG.\n\n2 - A contagem da electricidade produzida é feita por telecontagem, mediante contador bidireccional, ou contador que assegure a contagem líquida dos dois sentidos, autónomo do contador da instalação de consumo.\n\n3 - Para os consumidores de energia eléctrica alimentados em média tensão, com contagem de energia em baixa tensão, a ligação da miniprodução pode ser feita em baixa tensão, a montante do contador de consumo.\n\n4 - Nas condições do número anterior deve ser construído um quadro de baixa tensão para ligação da miniprodução, que permita separar a instalação de produção da instalação de consumo.\n\n5 - O contador de produção deve localizar-se junto ao contador de consumo.\n\n6 - O fornecimento de energia reactiva pelo produtor de electricidade a partir de unidade de miniprodução obedece às regras previstas no Regulamento da Rede de Distribuição.\n\n7 - Os comercializadores de electricidade e os operadores de rede de distribuição devem disponibilizar à ERSE as informações necessárias para aferir sobre a correcta intervenção dos diferentes intervenientes."
+  },
+  "817062180": {
+   "fragment_id": "810791358",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo de certificação de equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlo de certificação de equipamentos\n\n1 - Os fabricantes, importadores e fornecedores, seus representantes e entidades instaladoras devem comprovar junto do SRMini que os equipamentos para miniprodução transaccionados estão certificados e a natureza da certificação, devendo esta informação ser a disponibilizada no SRMini para conhecimento público.\n\n2 - A certificação dos equipamentos a que se refere o número anterior deve estar feita por um organismo de certificação, de acordo com o sistema n.º 5 da ISO/IEC.\n\n3 - Os equipamentos certificados nos termos do número anterior devem satisfazer os requisitos definidos nas normas europeias aplicáveis a cada tipo de equipamento, publicadas pelo CEN/CENELEC.\n\n4 - Caso não tenham sido estabelecidas e publicadas normas europeias, cada tipo de equipamento deve satisfazer os requisitos das normas internacionais publicadas pela ISO/IEC.\n\n5 - Quando não existam as normas referidas nos n.os 3 e 4, os equipamentos devem conformar-se com as seguintes normas e especificações técnicas:\n\na) As normas ou especificações portuguesas relativas ao equipamento em causa, que estejam indicadas pelo Instituto Português da Qualidade, I. P. (IPQ, I. P.);\n\nb) As normas ou especificações em vigor no Estado de origem, desde que o IPQ, I. P., reconheça que garantem condições equivalentes às estabelecidas nos n.os 3 e 4."
+  },
+  "817062181": {
+   "fragment_id": "810791359",
+   "type": 11,
+   "heading": "Artigo 21.º — Contrato de compra e venda de electricidade e ligação à rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contrato de compra e venda de electricidade e ligação à rede\n\n1 - Emitido o certificado de exploração, ainda que provisório nos termos do n.º 6 do artigo 18.º, o produtor enquadrado no regime bonificado e o comercializador identificado no registo da instalação de miniprodução são de imediato avisados, pelo SRMini, com vista à conclusão do contrato de compra e venda da electricidade oriunda da miniprodução.\n\n2 - Para efeitos do número anterior, o produtor adere ao contrato de compra e venda de electricidade, no prazo máximo de cinco dias contados do aviso do SRMini.\n\n3 - O comercializador dá conhecimento ao SRMini da conclusão do contrato de compra e venda de electricidade com o produtor, no prazo de 10 dias após a adesão deste ao referido contrato.\n\n4 - Após a comunicação de celebração do contrato de compra e venda de electricidade, o SRMini avisa o operador da rede de distribuição para proceder à ligação da unidade de miniprodução à RESP.\n\n5 - O operador da RESP deve proceder à ligação da unidade de miniprodução no prazo máximo de 10 dias após o aviso do SRMini.\n\n6 - A data de ligação à RESP é registada no SRMini pelo operador da rede de distribuição.\n\n7 - Para efeitos do presente artigo, os comercializadores que contratem fornecimentos de electricidade a instalações de consumo são obrigados a disponibilizar minuta de contrato de compra e venda de electricidade oriunda da miniprodução em permanência e nos respectivos sítios da Internet.\n\n8 - O contrato de compra e venda de electricidade previsto no n.º 1 deve observar o modelo aprovado pela DGEG, mediante proposta dos comercializadores.\n\n9 - A ligação à rede da unidade de miniprodução enquadrada no regime remuneratório geral é efectuada após a obtenção do certificado de exploração, ainda que provisório, nos termos dos n.os 5 e 6."
+  },
+  "817062182": {
+   "fragment_id": "810791360",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração do registo da miniprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração do registo da miniprodução\n\n1 - A alteração do registo da instalação de miniprodução, quando substancial, carece de novo registo, aplicável à totalidade da instalação.\n\n2 - Considera-se substancial a alteração do registo da unidade de miniprodução que não se enquadre no disposto no artigo seguinte.\n\n3 - No caso previsto no n.º 1, o registo anterior caduca com a entrada em exploração da instalação de miniprodução sujeita a novo registo.\n\n4 - A alteração não substancial do registo da instalação de miniprodução está sujeita a averbamento, nos termos do artigo seguinte.\n\n5 - A alteração do registo da miniprodução nas situações previstas no n.º 3 do artigo 3.º é objecto da regulamentação nele prevista."
+  },
+  "817062183": {
+   "fragment_id": "810791361",
+   "type": 11,
+   "heading": "Artigo 23.º — Averbamento de alterações ao registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Averbamento de alterações ao registo\n\n1 - Estão sujeitas a averbamento as seguintes alterações do registo:\n\na) A alteração da titularidade do contrato de fornecimento de electricidade à instalação de consumo onde está instalada a unidade de miniprodução e do contrato de aquisição da electricidade produzida na unidade de miniprodução;\n\nb) A mudança de comercializador, desde que se mantenham inalterados os demais elementos caracterizadores da miniprodução;\n\nc) A mudança de local da unidade de miniprodução, desde que se mantenha o mesmo produtor e os demais elementos caracterizadores da unidade de miniprodução;\n\nd) A mudança da tecnologia de produção utilizada na miniprodução, desde que se mantenha o mesmo produtor e demais elementos caracterizadores da unidade de miniprodução.\n\n2 - Nos casos previstos na alínea a) do número anterior, o novo titular do contrato de fornecimento de electricidade solicita o averbamento da alteração, juntando prova dos factos determinantes da alteração e demais elementos relevantes para o registo.\n\n3 - Nos casos previstos na alínea b) do n.º 1, o produtor identifica o novo comercializador e demais elementos do contrato com ele celebrado relevantes para o registo.\n\n4 - Nos casos previstos na alínea c) do n.º 1, o produtor identifica o novo local da instalação de miniprodução e os elementos essenciais relativos à instalação de consumo e contrato de fornecimento alterados relevantes para o registo.\n\n5 - Nos casos previstos na alínea d) do n.º 1, o produtor identifica a alteração de tecnologia verificada, desde que se mantenham os demais elementos caracterizadores da unidade de miniprodução e contrato de fornecimento da instalação de consumo.\n\n6 - O averbamento das alterações previstas nos n.os 4 e 5 dependem de nova inspecção da unidade de miniprodução e consequente emissão de novo certificado de exploração.\n\n7 - No caso previsto na alínea d) do n.º 1, a tarifa aplicada à miniprodução é alterada para a que lhe corresponda em decorrência da mudança de tecnologia de produção mas pelo prazo remanescente de benefício do regime bonificado.\n\n8 - Em qualquer dos casos previstos no n.º 1, o contrato de venda da electricidade produzida na miniprodução é alterado ou celebrado novo contrato com o comercializador, pelo prazo remanescente de benefício do regime bonificado.\n\n9 - O averbamento das alterações previstas na alínea c) do n.º 1 pode ser recusado por razões de ordem técnica, nomeadamente as previstas no n.º 2 do artigo 4.º\n\n10 - No caso de unidades de miniprodução enquadradas no regime remuneratório geral, a aplicação da disciplina prevista neste artigo deve ser feita com as necessárias adaptações."
+  },
+  "817062184": {
+   "fragment_id": "810791362",
+   "type": 11,
+   "heading": "Artigo 24.º — Reconhecimento de investimentos e custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reconhecimento de investimentos e custos\n\n1 - O comercializador que celebre um contrato de compra e venda de electricidade nos termos do artigo 21.º pode vender ao comercializador de último recurso a electricidade adquirida ao produtor, nas mesmas condições e nos termos definidos no Regulamento de Relações Comerciais.\n\n2 - O reconhecimento dos custos de aquisição de energia pelo comercializador de último recurso de acordo com os regimes remuneratórios previstos no presente decreto-lei é realizado de acordo com o estabelecido no artigo 55.º do Decreto-Lei n.º 172/2006, de 23 de Agosto, alterado pelo Decreto-Lei n.º 264/2007, de 24 de Julho.\n\n3 - O reconhecimento para efeitos tarifários dos investimentos e custos incorridos pelo comercializador de último recurso com a implementação ou alteração dos sistemas informáticos de facturação e outros, necessários para a execução do presente decreto-lei, é realizado nos termos previstos no artigo 62.º do Decreto-Lei n.º 29/2006, de 15 de Fevereiro.\n\n4 - O Regulamento das Relações Comerciais deve ser revisto, no prazo máximo de 45 dias a contar da data da publicação do presente decreto-lei, de forma a contemplar as exigências previstas no presente artigo."
+  },
+  "817062185": {
+   "fragment_id": "810791363",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e taxas"
+  },
+  "817062186": {
+   "fragment_id": "810791364",
+   "type": 11,
+   "heading": "Artigo 25.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Fiscalização\n\n1 - As unidades de miniprodução são sujeitas a fiscalização para verificar a sua conformidade com o disposto no presente decreto-lei e demais regulamentação aplicável e, nomeadamente, para controlo das condições de protecção da interligação com a RESP e das características da instalação previstas no registo, sem prejuízo das competências do operador da rede de distribuição neste domínio.\n\n2 - A competência para fiscalização da actividade de miniprodução cabe à DGEG e à DRE, de acordo com as respectivas competências, ou a entidade por estas designada, que podem solicitar o apoio de técnicos especializados sempre que o considerem necessário.\n\n3 - É objecto de acções de fiscalização anual, pelo menos, 1 % do parque de instalações de miniprodução registadas.\n\n4 - Para efeitos do número anterior, os produtores devem facilitar o acesso às respectivas instalações de produção às entidades referidas no n.º 2.\n\n5 - A entidade fiscalizadora elabora e divulga no SRMini, bianualmente, o relatório das acções de fiscalização realizadas."
+  },
+  "817062187": {
+   "fragment_id": "810791365",
+   "type": 11,
+   "heading": "Artigo 26.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Taxas\n\n1 - Estão sujeitos ao pagamento de taxa:\n\na) O pedido de registo da unidade de miniprodução;\n\nb) O pedido de reinspecção da unidade de miniprodução;\n\nc) O pedido de averbamento de alterações ao registo da miniprodução, com e sem emissão de novo certificado de exploração.\n\n2 - As taxas previstas no número anterior são liquidadas e cobradas pela DGEG, ou pela entidade por esta designada, ou pelas DRE, constituindo receita da que proceder à respectiva liquidação e cobrança.\n\n3 - Os montantes das taxas são definidos por portaria do membro do Governo responsável pela área da energia, que estabelece também a fase do procedimento em que a mesma é devida e o prazo peremptório de pagamento."
+  },
+  "817062188": {
+   "fragment_id": "810791366",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime sancionatório"
+  },
+  "817062189": {
+   "fragment_id": "810791367",
+   "type": 11,
+   "heading": "Artigo 27.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 3740, no caso de pessoas singulares, e de (euro) 500 a (euro) 44 800, no caso de pessoas colectivas:\n\na) A violação do disposto nas alíneas c) e d) do n.º 1 do artigo 3.º;\n\nb) A violação do disposto nas alíneas a) a d) e h) do artigo 6.º;\n\nc) A violação do disposto nos n.os 1 a 3 do artigo 8.º;\n\nd) Vender electricidade através do regime bonificado com inobservância dos requisitos estabelecidos nos n.os 2, 3 e 4 do artigo 9.º;\n\ne) A violação do disposto no n.º 1 do artigo 14.º;\n\nf) A violação do disposto no n.º 3 do artigo 18.º;\n\ng) A ligação da unidade de miniprodução à RESP sem certificado de exploração e contrato de compra e venda de electricidade previstos no artigo 21.º;\n\nh) A violação do disposto nos n.os 1 a 4 do artigo 22.º;\n\ni) O exercício da actividade de miniprodução sem registo e certificado de exploração previstos nos n.os 3 do artigo 3.º e 6 do artigo 18.º\n\n2 - Constitui contra-ordenação punível com coima graduada de (euro) 100 a (euro) 3000, no caso de pessoas singulares, e graduada de (euro) 250 a (euro) 34 800, no caso de pessoas colectivas:\n\na) A violação do disposto nas alíneas e), f) e g) do artigo 6.º;\n\nb) A violação do disposto nos n.os 2, 3, 5, 6, 7 e 8 do artigo 21.º;\n\nc) Solicitar a inspecção da unidade de miniprodução sem que a sua instalação esteja concluída.\n\n3 - A tentativa e a negligência são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.\n\n4 - A competência para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas pertence ao director-geral da DGEG, podendo ser delegada.\n\n5 - O produto resultante da aplicação das coimas reverte em 60 % para o Estado e em 40 % para a DGEG, inclusive quando cobradas em juízo."
+  },
+  "817062190": {
+   "fragment_id": "810791368",
+   "type": 11,
+   "heading": "Artigo 28.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sanções acessórias\n\n1 - As contra-ordenações previstas no artigo anterior podem ainda determinar, quando a gravidade da infracção e a culpa do agente o justifique, a aplicação juntamente com coima das seguintes sanções acessórias:\n\na) A apreensão dos objectos pertencentes ao agente que tenham sido utilizados como instrumento na prática da infracção;\n\nb) A interdição, até ao máximo de dois anos, do exercício da actividade ou profissão conexas com a infracção praticada;\n\nc) A privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos;\n\nd) O encerramento da miniprodução;\n\ne) A suspensão do registo da miniprodução.\n\n2 - As sanções previstas no número anterior, bem como as previstas no artigo anterior, quando aplicadas a entidades instaladoras ou responsáveis técnicos, são comunicadas ao InCI, I. P., e à respectiva ordem ou associação profissional, quando exista."
+  },
+  "817062191": {
+   "fragment_id": "810791369",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "817062192": {
+   "fragment_id": "810791370",
+   "type": 11,
+   "heading": "Artigo 29.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas, sem prejuízo das adaptações decorrentes da aplicação do disposto no número seguinte, bem como das especificidades do exercício das actividades de produção, transporte, distribuição e comercialização de electricidade nas Regiões Autónomas.\n\n2 - As competências cometidas pelo presente decreto-lei à DGEG e a serviços ou outros organismos da administração central são exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências, ou pelas entidades designadas por estas, sem prejuízo das competências de outras entidades de actuação com âmbito nacional."
+  },
+  "817062193": {
+   "fragment_id": "810791371",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime da gestão de capacidades de recepção nas redes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime da gestão de capacidades de recepção nas redes\n\nNão é aplicável à miniprodução o regime do Decreto-Lei n.º 312/2001, de 10 de Dezembro, com as sucessivas alterações."
+  },
+  "817062194": {
+   "fragment_id": "810791372",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime transitório\n\nOs comercializadores de electricidade, no prazo de 12 meses contados da data da entrada em vigor do presente decreto-lei, devem assegurar a intercomunicabilidade, na parte relevante, das respectivas bases de dados de clientes com o SRMini com vista a assegurar o pré-preenchimento automático dos campos de preenchimento obrigatório que lhes digam respeito."
+  },
+  "817062195": {
+   "fragment_id": "810791373",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\n1 - É revogado o Decreto-Lei n.º 68/2002, de 25 de Março.\n\n2 - Sem prejuízo da revogação prevista no número anterior, as instalações de produção de electricidade licenciadas no âmbito do referido regime jurídico continuam a reger-se pelo que nele se dispõe."
+  },
+  "817062196": {
+   "fragment_id": "810791374",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no prazo de 45 dias após a sua publicação."
+  },
+  "884565727": {
+   "fragment_id": "810791338",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, são adoptadas as seguintes definições:\n\na) «Comercializador de último recurso» o comercializador de último recurso referido no n.º 1 do artigo 73.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, ou, na área das concessões de distribuição de eletricidade em Baixa Tensão, o comercializador de último recurso exclusivamente em Baixa Tensão referido no n.º 4 do artigo 73.º do Decreto-Lei n.º 29/2006 de 15 de fevereiro, salvo menção específica em contrário;\n\nb) «Escalão I, II e III» - o escalão de potência de ligação à rede em que se insere uma dada unidade miniprodução, considerando-se que integram o escalão i as unidades cuja potência não seja superior a 20 kW, o escalão ii aquelas cuja potência de ligação seja superior a 20 kW ou igual ou inferior a 100 kW, e o escalão iii as unidades de miniprodução cuja potência de ligação seja superior a 100 kW ou igual ou inferior a 250 kW;\n\nc) «Potência contratada» - o limite da potência estabelecida no dispositivo controlador da potência de consumo de electricidade contratada com um comercializador, quando se trate de instalações ligadas em baixa tensão normal, ou a potência que o operador da rede de distribuição coloca à disposição no ponto de entrega, quando se trate de instalações ligadas em baixa tensão especial e em média tensão;\n\nd) «Potência instalada» - a potência, em quilowatt, dos equipamentos de produção de electricidade;\n\ne) «Potência de ligação» - a potência máxima, ou, no caso de instalações com inversor, a potência nominal de saída deste equipamento, em quilowatt, que o produtor pode injectar na rede eléctrica de serviço público.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "884565728": {
+   "fragment_id": "810791342",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres do produtor",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres do produtor\n\n1 - Sem prejuízo do cumprimento da legislação e regulamentação aplicáveis, o produtor de electricidade a partir de uma unidade de miniprodução está sujeito ao cumprimento das seguintes obrigações:\n\na) Entregar à RESP, nos termos do disposto no n.º 2, a totalidade da energia activa produzida, líquida do consumo dos serviços auxiliares;\n\nb) Produzir electricidade apenas a partir da fonte de energia registada nos termos do presente decreto-lei;\n\nc) Celebrar um contrato de compra e venda de electricidade, nos termos do presente decreto-lei;\n\nd) Prestar à Direção-Geral de Energia e Geologia (DGEG), ou a entidade designada por esta, à direção regional de economia territorialmente competente (DRE), ao comercializador de último recurso e ao operador da rede de distribuição todas as informações que lhe sejam solicitadas;\n\ne) Permitir e facilitar o acesso do pessoal técnico das entidades referidas na alínea anterior para o exercício das respectivas atribuições e competências, nos termos do presente decreto-lei;\n\nf) Suportar os custos da ligação à RESP, nos termos do Regulamento de Relações Comerciais, incluindo o respectivo contador de venda;\n\ng) No caso de instalações que utilizem a energia eólica, ou que estejam localizadas em locais de livre acesso público, ou possam representar perigo para o público, possuir um seguro ou uma extensão de seguro de responsabilidade civil, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia;\n\nh) Assegurar que os equipamentos de miniprodução instalados se encontram certificados nos termos previstos no presente decreto-lei.\n\n2 - A entrega da electricidade produzida à RESP efectua-se no nível de tensão constante do contrato de aquisição de electricidade para a instalação de utilização, excepto nos casos de aquisição de electricidade em média tensão com contagem em baixa tensão (BT), caso em que a contagem de electricidade pode ser efectuada neste nível de tensão, com desconto das perdas verificadas no transformador.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "884565729": {
+   "fragment_id": "810791347",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime geral",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 10.º — Regime geral\n\n1 - Até à entrada em vigor do diploma que procederá à revisão do regime jurídico da microprodução e da miniprodução, e sem prejuízo do disposto no n.º 5, a eletricidade produzida em unidades de miniprodução no âmbito do regime geral é vendida ao comercializador de último recurso e remunerada segundo a seguinte fórmula:\n\n(ver documento original)\n\n2 - Para efeitos da fórmula prevista no número anterior:\n\na) «Rem(índice m)» é a remuneração do mês m em [(euro)];\n\nb) «i» é o período horário de entrega de energia elétrica (em vazio ou fora de vazio), de acordo com o ciclo (semanal ou diário) aplicado à instalação de consumo;\n\nc) «Wi» é a energia produzida no mês m no período i, em [kWh];\n\nd) «OMIE(índice m)» é o valor resultante da média aritmética simples dos preços de fecho do Operador do Mercado Ibérico de Energia (OMIE) para Portugal (mercado diário), relativos ao mês anterior ao mês m, em [(euro)/kWh];\n\ne) «C(índice i)» é o coeficiente de ponderação do período tarifário i;\n\nf) «f(índice p)» são os fatores de ajustamento para perdas do período tarifário i, desde o barramento de produção em muito alta tensão até ao nível de tensão de ligação da unidade de miniprodução.\n\n3 - O coeficiente «C(índice i)» referido na alínea e) do número anterior assume os seguintes valores:\n\na) Período de horas de vazio: 0,86;\n\nb) Período de horas fora de vazio: 1,13.\n\n4 - A determinação dos fatores referidos na alínea f) do n.º 2 deve considerar os valores publicados anualmente pela Entidade Reguladora dos Serviços Energéticos.\n\n5 - Os produtores enquadrados no regime geral podem optar por vender a eletricidade produzida na unidade de miniprodução diretamente em mercados organizados ou mediante a celebração de contratos bilaterais, incluindo com a entidade que exercer a atividade de facilitador de mercado.\n\n6 - A opção referida no número anterior deve ser comunicada ao comercializador de último recurso e ao SRMini no prazo estabelecido no n.º 2 do artigo 21.º ou, caso seja tomada já no decurso da exploração da unidade de miniprodução, com a antecedência de 60 dias relativamente ao início dos respetivos efeitos.\n\n7 - Exercida a opção referida no n.º 5, o comercializador de último recurso fica desobrigado de adquirir a energia produzida pelo produtor.\n\n8 - O SRMini deve dar conhecimento da comunicação referida no n.º 6 ao operador da rede de distribuição.\n\n9 - O exercício da opção referida no n.º 5 é definitivo, não podendo os produtores voltar a solicitar a aplicação do regime remuneratório previsto no n.º 1.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "884565730": {
+   "fragment_id": "810791351",
+   "type": 11,
+   "heading": "Artigo 14.º — Facturação, contabilidade e relacionamento comercial",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 14.º — Facturação, contabilidade e relacionamento comercial\n\n1 - O comercializador de último recurso deve celebrar o contrato de compra e venda da eletricidade resultante da miniprodução e assegurar o seu pagamento, nos termos do presente decreto-lei, exceto nos casos em que o produtor exerça a opção prevista no n.º 5 do artigo 10.º\n\n2 - O pagamento referido no número anterior é feito diretamente ao produtor, mediante transferência bancária, com periodicidade mensal ou outra superior, desde que estipulada no contrato de compra e venda da eletricidade, sem prejuízo do disposto no número seguinte.\n\n3 - A facturação relativa à electricidade resultante da miniprodução é processada pelo comercializador nos termos do n.º 11 do artigo 36.º do Código do IVA, sem necessidade de acordo escrito do produtor.\n\n4 - No caso de produtores que não se encontrem enquadrados, para efeitos do IVA, no regime normal de tributação e relativamente às transmissões de bens que venham a derivar exclusivamente da miniprodução de energia eléctrica, é aplicável, com as necessárias adaptações, o regime especial de entrega de imposto previsto no artigo 10.º do Decreto-Lei n.º 122/88, de 20 de Abril, devendo os comercializadores, em sua substituição, dar cumprimento às obrigações de liquidação e entrega do imposto.\n\n5 - Para efeitos do disposto nos n.os 3 e 4, considera-se comercializador o comercializador de último recurso que se encontra obrigado a comprar a eletricidade produzida em unidades de miniprodução.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "884565731": {
+   "fragment_id": "810791357",
+   "type": 11,
+   "heading": "Artigo 19.º — Contagem e disponibilização de dados",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 19.º — Contagem e disponibilização de dados\n\n1 - O sistema de contagem de eletricidade e os equipamentos que asseguram a proteção da interligação devem ser colocados em local de acesso livre ao comercializador de último recurso e ao operador da rede de distribuição, bem como às entidades competentes para efeitos do presente decreto-lei, salvo situações especiais autorizadas pela DGEG.\n\n2 - A contagem da electricidade produzida é feita por telecontagem, mediante contador bidireccional, ou contador que assegure a contagem líquida dos dois sentidos, autónomo do contador da instalação de consumo.\n\n3 - Para os consumidores de energia eléctrica alimentados em média tensão, com contagem de energia em baixa tensão, a ligação da miniprodução pode ser feita em baixa tensão, a montante do contador de consumo.\n\n4 - Nas condições do número anterior deve ser construído um quadro de baixa tensão para ligação da miniprodução, que permita separar a instalação de produção da instalação de consumo.\n\n5 - O contador de produção deve localizar-se junto ao contador de consumo.\n\n6 - O fornecimento de energia reactiva pelo produtor de electricidade a partir de unidade de miniprodução obedece às regras previstas no Regulamento da Rede de Distribuição.\n\n7 - O comercializador de último recurso e os operadores de rede de distribuição devem disponibilizar à Entidade Reguladora dos Serviços Energéticos as informações necessárias à correta faturação dos diferentes intervenientes, nos termos do Regulamento das Relações Comerciais.\n\n8 - As matérias da medição, leitura e disponibilização de dados, nomeadamente nos casos de exercício da opção prevista no n.º 5 do artigo 10.º, assim como as demais matérias reguladas neste artigo, podem ser objeto de regulamentação por portaria do membro do Governo responsável pela área da energia, na medida em que tal seja necessário à correta aplicação do presente decreto-lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "884565732": {
+   "fragment_id": "810791359",
+   "type": 11,
+   "heading": "Artigo 21.º — Contrato de compra e venda de electricidade e ligação à rede",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 21.º — Contrato de compra e venda de electricidade e ligação à rede\n\n1 - Emitido o certificado de exploração, ainda que provisório nos termos do n.º 6 do artigo 18.º, o produtor e o comercializador de último recurso são de imediato avisados, pelo SRMini, com vista à celebração do contrato de compra e venda da eletricidade oriunda da miniprodução, dando-se conhecimento desse facto, igualmente através do SRMini, ao operador da rede de distribuição.\n\n2 - O produtor declara aderir ao contrato de compra e venda de eletricidade ou, estando enquadrado no âmbito do regime geral e sendo essa a sua intenção, comunica exercer a opção prevista no n.º 5 do artigo 10.º, no prazo máximo de cinco dias contados do aviso do SRMini.\n\n3 - O comercializador de último recurso dá conhecimento ao SRMini da celebração do contrato de compra e venda de eletricidade com o produtor, no prazo de 10 dias após a adesão deste ao referido contrato.\n\n4 - Após tomar conhecimento da celebração do contrato de compra e venda de eletricidade com o produtor ou do exercício da opção prevista no n.º 5 do artigo 10.º, o SRMini avisa o operador da rede de distribuição para proceder à ligação da unidade de miniprodução à RESP.\n\n5 - O operador da RESP deve proceder à ligação da unidade de miniprodução no prazo máximo de 10 dias após o aviso do SRMini.\n\n6 - A data de ligação à RESP é registada no SRMini pelo operador da rede de distribuição.\n\n7 - Para efeitos do presente artigo, o comercializador de último recurso é obrigado a disponibilizar minuta de contrato de compra e venda de eletricidade oriunda da miniprodução, em permanência e no respetivo sítio da Internet.\n\n8 - O contrato de compra e venda de eletricidade previsto no n.º 1 deve observar o modelo aprovado pela DGEG, mediante proposta do comercializador de último recurso.\n\n9 - [Revogado].\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "884565733": {
+   "fragment_id": "810791361",
+   "type": 11,
+   "heading": "Artigo 23.º — Averbamento de alterações ao registo",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 23.º — Averbamento de alterações ao registo\n\n1 - Estão sujeitas a averbamento as seguintes alterações do registo:\n\na) A alteração da titularidade do contrato de fornecimento de electricidade à instalação de consumo onde está instalada a unidade de miniprodução e do contrato de aquisição da electricidade produzida na unidade de miniprodução;\n\nb) [Revogada];\n\nc) A mudança de local da unidade de miniprodução, desde que se mantenha o mesmo produtor e os demais elementos caracterizadores da unidade de miniprodução;\n\nd) A mudança da tecnologia de produção utilizada na miniprodução, desde que se mantenha o mesmo produtor e demais elementos caracterizadores da unidade de miniprodução.\n\n2 - Nos casos previstos na alínea a) do número anterior, o novo titular do contrato de fornecimento de electricidade solicita o averbamento da alteração, juntando prova dos factos determinantes da alteração e demais elementos relevantes para o registo.\n\n3 - [Revogado].\n\n4 - Nos casos previstos na alínea c) do n.º 1, o produtor identifica o novo local da instalação de miniprodução e os elementos essenciais relativos à instalação de consumo e contrato de fornecimento alterados relevantes para o registo.\n\n5 - Nos casos previstos na alínea d) do n.º 1, o produtor identifica a alteração de tecnologia verificada, desde que se mantenham os demais elementos caracterizadores da unidade de miniprodução e contrato de fornecimento da instalação de consumo.\n\n6 - O averbamento das alterações previstas nos n.os 4 e 5 dependem de nova inspecção da unidade de miniprodução e consequente emissão de novo certificado de exploração.\n\n7 - No caso previsto na alínea d) do n.º 1, a tarifa aplicada à miniprodução é alterada para a que lhe corresponda em decorrência da mudança de tecnologia de produção mas pelo prazo remanescente de benefício do regime bonificado.\n\n8 - Em qualquer dos casos previstos no n.º 1, o contrato de venda da eletricidade produzida na miniprodução é alterado ou celebrado novo contrato com o comercializador de último recurso, mantendo-se o regime remuneratório bonificado, quando seja o aplicado à miniprodução, pelo prazo remanescente.\n\n9 - O averbamento das alterações previstas na alínea c) do n.º 1 pode ser recusado por razões de ordem técnica, nomeadamente as previstas no n.º 2 do artigo 4.º\n\n10 - [Revogado].\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "884565734": {
+   "fragment_id": "810791362",
+   "type": 11,
+   "heading": "Artigo 24.º — Reconhecimento de investimentos e custos",
+   "in_force_from": "2013-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 24.º — Reconhecimento de investimentos e custos\n\n1 - [Revogado].\n\n2 - O reconhecimento dos custos de aquisição de energia pelo comercializador de último recurso referido no n.º 1 do artigo 73.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, republicado pelo Decreto-Lei n.º 215-A/2012, de 8 de outubro, de acordo com os regimes remuneratórios previstos no presente decreto-lei, é realizado de acordo com o estabelecido no artigo 55.º do Decreto-Lei n.º 172/2006, de 23 de agosto, republicado pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro.\n\n3 - O reconhecimento para efeitos tarifários dos investimentos e custos incorridos pelo comercializador de último recurso referido no número anterior com a implementação ou alteração dos sistemas informáticos de faturação e outros, necessários para a execução do presente decreto-lei, é realizado nos termos previstos no artigo 62.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, republicado pelo Decreto-Lei n.º 215-A/2012, de 8 de outubro.\n\n4 - O relacionamento comercial entre os comercializadores de último recurso referidos na alínea a) do artigo 2.º, no âmbito da aplicação do presente decreto-lei, deve observar o disposto no Regulamento de Relações Comerciais.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "817062197": {
+   "fragment_id": "817062275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Dulce dos Prazeres Fidalgo Álvaro Pássaro.\n\nPromulgado em 22 de Fevereiro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 24 de Fevereiro de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "896440517": {
+   "fragment_id": "810791336",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440526": {
+   "fragment_id": "810791337",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime jurídico aplicável à produção de electricidade, a partir de recursos renováveis, por intermédio de unidades de miniprodução.\n\n2 - Entende-se por «unidade de miniprodução» a instalação de produção de electricidade, a partir de energias renováveis, baseada em uma só tecnologia de produção cuja potência de ligação à rede seja igual ou inferior a 250 kW.\n\n3 - Não se incluem no objecto do presente decreto-lei:\n\na) A produção de electricidade através de unidades de microprodução;\n\nb) A produção em co-geração;\n\nc) A produção de electricidade no âmbito da realização de projectos de inovação e demonstração de conceito.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440527": {
+   "fragment_id": "810791338",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, são adoptadas as seguintes definições:\n\na) «Comercializador de último recurso» o comercializador de último recurso referido no n.º 1 do artigo 73.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, ou, na área das concessões de distribuição de eletricidade em Baixa Tensão, o comercializador de último recurso exclusivamente em Baixa Tensão referido no n.º 4 do artigo 73.º do Decreto-Lei n.º 29/2006 de 15 de fevereiro, salvo menção específica em contrário;\n\nb) «Escalão I, II e III» - o escalão de potência de ligação à rede em que se insere uma dada unidade miniprodução, considerando-se que integram o escalão i as unidades cuja potência não seja superior a 20 kW, o escalão ii aquelas cuja potência de ligação seja superior a 20 kW ou igual ou inferior a 100 kW, e o escalão iii as unidades de miniprodução cuja potência de ligação seja superior a 100 kW ou igual ou inferior a 250 kW;\n\nc) «Potência contratada» - o limite da potência estabelecida no dispositivo controlador da potência de consumo de electricidade contratada com um comercializador, quando se trate de instalações ligadas em baixa tensão normal, ou a potência que o operador da rede de distribuição coloca à disposição no ponto de entrega, quando se trate de instalações ligadas em baixa tensão especial e em média tensão;\n\nd) «Potência instalada» - a potência, em quilowatt, dos equipamentos de produção de electricidade;\n\ne) «Potência de ligação» - a potência máxima, ou, no caso de instalações com inversor, a potência nominal de saída deste equipamento, em quilowatt, que o produtor pode injectar na rede eléctrica de serviço público.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "896440528": {
+   "fragment_id": "810791339",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à actividade de miniprodução",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 3.º — Acesso à actividade de miniprodução\n\n1 - Pode exercer a actividade de produção de electricidade por intermédio de unidade de miniprodução a entidade que, à data do pedido de registo, preencha os seguintes requisitos cumulativos:\n\na) Disponha de uma instalação de utilização de energia eléctrica e seja titular de contrato de compra e venda de electricidade, em execução, celebrado com um comercializador, sem prejuízo do disposto no n.º 3;\n\nb) A unidade de miniprodução seja instalada no local servido pela instalação eléctrica de utilização;\n\nc) A potência de ligação da unidade de miniprodução não seja superior a 50 % da potência contratada no contrato referido na alínea a);\n\nd) A energia consumida na instalação de utilização seja igual ou superior a 50 % da energia produzida pela unidade de miniprodução, sendo tomada por referência a relação entre a energia produzida e consumida no ano anterior, no caso de instalações em funcionamento há mais de um ano, e a relação entre a previsão anual de produção e de consumo de energia, para as instalações que tenham entrado em funcionamento há menos de um ano.\n\n2 - Entende-se por «produtor» a entidade titular de um registo para a produção de electricidade por intermédio de uma unidade de miniprodução, nos termos do presente decreto-lei.\n\n3 - Pode ainda ser produtor de electricidade por intermédio de uma unidade de miniprodução, nas condições previstas nas alíneas b) e c) do n.º 1, entidade terceira que, ao abrigo de contrato escrito, esteja autorizada pelo titular do contrato referido na alínea a) do n.º 1.\n\n4 - O acesso à actividade de miniprodução de electricidade está sujeito a registo e subsequente obtenção de certificado de exploração da instalação, nos termos do presente decreto-lei, sem prejuízo do disposto no n.º 6 do artigo 18.º\n\n5 - A cada unidade de miniprodução corresponde um registo.\n\n6 - Não são cumuláveis registos relativos a unidades de microprodução e de miniprodução associados a uma mesma instalação de utilização de energia eléctrica.\n\n7 - O promotor deve proceder a uma averiguação das condições técnicas de ligação no local onde pretende instalar a miniprodução com vista a verificar a existência de condições na rede eléctrica de serviço público (RESP) adequadas à recepção da electricidade a injectar no local pretendido, procedendo, nomeadamente, a medições de tensão nesse local, salvaguardando os limites estabelecidos no Regulamento da Qualidade de Serviço.\n\n8 - Entende-se por «promotor», para efeitos de aplicação do presente decreto-lei, a entidade interessada em obter um registo para a produção de electricidade por intermédio de uma unidade de miniprodução.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440529": {
+   "fragment_id": "810791340",
+   "type": 11,
+   "heading": "Artigo 4.º — Suspensão ou restrições ao registo",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 4.º — Suspensão ou restrições ao registo\n\n1 - O membro do Governo responsável pela área da energia pode determinar, mediante despacho a publicar no SRMini:\n\na) Os termos da suspensão do registo ou a sujeição deste a limitações, com vista a propiciar o cumprimento de prioridades da política energética ou a sua adequada relação com outras políticas sectoriais, nomeadamente as destinadas ao equilíbrio regional, ou a assegurar a boa gestão do acesso à actividade de miniprodução e a optimização da gestão das capacidades de injecção e recepção de electricidade na RESP;\n\nb) A utilização de procedimentos especiais para acesso ao registo e ao regime bonificado, quando tal se justifique relativamente a registos no âmbito da tarifa bonificada.\n\n2 - Quando o somatório das potências de injecção ligadas a um posto de transformação ou subestação ultrapasse o limite de 20 % da potência do respectivo posto de transformação ou subestação, o operador da rede de distribuição pode restringir o acesso a novos registos, mediante pré-aviso de cinco dias a divulgar no SRMini.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440530": {
+   "fragment_id": "810791341",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos do produtor",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 5.º — Direitos do produtor\n\nNo âmbito do exercício da actividade de miniprodução de electricidade, o produtor tem os seguintes direitos:\n\na) Estabelecer uma unidade de miniprodução por cada instalação eléctrica de utilização;\n\nb) Ligar a unidade de miniprodução à RESP, após a emissão do certificado de exploração e a celebração do respectivo contrato de compra e venda de electricidade, nos termos previstos no presente decreto-lei;\n\nc) Vender a totalidade da energia activa produzida, líquida do consumo dos serviços auxiliares, nos termos e com os limites estabelecidos no presente decreto-lei.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440531": {
+   "fragment_id": "810791342",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres do produtor",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres do produtor\n\n1 - Sem prejuízo do cumprimento da legislação e regulamentação aplicáveis, o produtor de electricidade a partir de uma unidade de miniprodução está sujeito ao cumprimento das seguintes obrigações:\n\na) Entregar à RESP, nos termos do disposto no n.º 2, a totalidade da energia activa produzida, líquida do consumo dos serviços auxiliares;\n\nb) Produzir electricidade apenas a partir da fonte de energia registada nos termos do presente decreto-lei;\n\nc) Celebrar um contrato de compra e venda de electricidade, nos termos do presente decreto-lei;\n\nd) Prestar à Direção-Geral de Energia e Geologia (DGEG), ou a entidade designada por esta, à direção regional de economia territorialmente competente (DRE), ao comercializador de último recurso e ao operador da rede de distribuição todas as informações que lhe sejam solicitadas;\n\ne) Permitir e facilitar o acesso do pessoal técnico das entidades referidas na alínea anterior para o exercício das respectivas atribuições e competências, nos termos do presente decreto-lei;\n\nf) Suportar os custos da ligação à RESP, nos termos do Regulamento de Relações Comerciais, incluindo o respectivo contador de venda;\n\ng) No caso de instalações que utilizem a energia eólica, ou que estejam localizadas em locais de livre acesso público, ou possam representar perigo para o público, possuir um seguro ou uma extensão de seguro de responsabilidade civil, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia;\n\nh) Assegurar que os equipamentos de miniprodução instalados se encontram certificados nos termos previstos no presente decreto-lei.\n\n2 - A entrega da electricidade produzida à RESP efectua-se no nível de tensão constante do contrato de aquisição de electricidade para a instalação de utilização, excepto nos casos de aquisição de electricidade em média tensão com contagem em baixa tensão (BT), caso em que a contagem de electricidade pode ser efectuada neste nível de tensão, com desconto das perdas verificadas no transformador.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "896440532": {
+   "fragment_id": "810791343",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da DGEG",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 7.º — Competências da DGEG\n\n1 - Compete à DGEG a coordenação do processo de gestão da miniprodução, nomeadamente:\n\na) Criar, manter e gerir o SRMini destinado ao registo das unidades de miniprodução;\n\nb) Proceder ao registo da instalação de miniprodução e emitir o respectivo certificado de exploração, nos termos do presente decreto-lei;\n\nc) Realizar as inspecções necessárias à emissão do certificado de exploração, directamente ou através de entidades habilitadas pela DGEG para o efeito;\n\nd) Criar e manter uma base de dados de elementos tipo que integrem os equipamentos para as diversas soluções de unidades de miniprodução;\n\ne) Manter a lista das entidades instaladoras devidamente actualizada;\n\nf) Constituir uma bolsa de equipamentos certificados, mantendo uma lista actualizada no SRMini;\n\ng) Controlar a emissão dos certificados dos equipamentos fornecidos pelos fabricantes, importadores, fornecedores, seus representantes e entidades instaladoras, nos termos previstos no presente decreto-lei;\n\nh) Aprovar os formulários e instruções necessários ao bom funcionamento do SRMini de acordo com as funções que lhe estão atribuídas pelo presente decreto-lei;\n\ni) Fornecer aos interessados e divulgar no SRMini informação relativamente às diversas soluções de miniprodução de electricidade, designadamente as suas vantagens e inconvenientes.\n\n2 - O director-geral da DGEG pode designar, pelo prazo de quatro anos renováveis e mediante celebração de protocolo homologado pelo membro do Governo responsável pela área da energia:\n\na) Uma entidade legalmente constituída e reconhecida para aprovar projectos e inspeccionar instalações eléctricas para exercer as competências da DGEG previstas nas alíneas a) a f) do número anterior;\n\nb) Um organismo de certificação acreditado no âmbito do Sistema Português de Qualidade para proceder à certificação de equipamentos eléctricos de acordo com a Norma 45011, que exerce a competência prevista na alínea g) do número anterior.\n\n3 - Quando estejam em causa competências das direcções regionais do ministério responsável pela área da energia (DRE), designadamente no caso de unidades de miniprodução associadas a instalações ligadas à RESP em média tensão e alta tensão, as competências previstas nos números anteriores são exercidas em conjunto com as referidas direcções regionais.\n\n4 - O director-geral de Energia e Geologia aprova, mediante despacho publicado no SRMini, guias técnico e de qualidade para as instalações de miniprodução que se justifiquem para o adequado funcionamento do sistema.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440533": {
+   "fragment_id": "810791344",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades instaladoras da miniprodução",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 8.º — Entidades instaladoras da miniprodução\n\n1 - Designa-se «entidade instaladora de unidades de miniprodução» a entidade titular de alvará emitido pelo Instituto da Construção e do Imobiliário, I. P. (InCI), para a execução de instalações de produção de electricidade.\n\n2 - A entidade instaladora de unidades de miniprodução deve dispor de um técnico responsável pela execução de instalações eléctricas de serviço particular.\n\n3 - A entidade instaladora deve assegurar que os equipamentos de miniprodução a instalar estão certificados nos termos do presente decreto-lei.\n\n4 - Todas as entidades instaladoras que pretendam exercer a actividade de instalação de unidades de miniprodução podem inscrever-se no SRMini para conhecimento e divulgação públicos.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440534": {
+   "fragment_id": "810791346",
+   "type": 11,
+   "heading": "Artigo 9.º — Regimes remuneratórios",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 9.º — Regimes remuneratórios\n\n1 - O produtor tem acesso a um dos seguintes regimes remuneratórios:\n\na) O regime geral, aplicável a todos os que tenham acedido à actividade de miniprodução e não se enquadrem no regime bonificado, nos termos do presente decreto-lei;\n\nb) O regime bonificado.\n\n2 - O regime previsto na alínea b) do número anterior é aplicável a produtores que, preenchendo os requisitos cumulativos a seguir indicados, solicitem o seu enquadramento no regime bonificado quando do pedido de registo:\n\na) A potência de ligação da respectiva unidade de miniprodução seja superior ao limite legalmente estabelecido para o acesso ao regime bonificado no âmbito do regime jurídico da actividade de microprodução;\n\nb) A unidade de miniprodução utilize uma das fontes de energia renovável previstas no n.º 7 do artigo 11.º\n\n3 - Excepto nos casos previstos no número seguinte, o acesso ao regime bonificado depende de prévia comprovação, à data do pedido de inspecção, da realização de auditoria energética que determine a implementação de medidas de eficiência energética, com o seguinte período de retorno:\n\na) Escalão I - dois anos;\n\nb) Escalão II - três anos;\n\nc) Escalão III - quatro anos.\n\n4 - O cumprimento das medidas identificadas na auditoria a que se refere o número anterior é reportado anualmente à DGEG até à sua total implementação.\n\n5 - No caso de existirem no local da unidade de miniprodução instalações consumidoras intensivas de energia sujeitas ao regime jurídico da gestão de consumos intensivos de energia ou ao regime jurídico de certificação energética de edifícios, o acesso ao regime bonificado depende da comprovação, à data do pedido de registo, do seguinte:\n\na) Acordo de racionalização do consumo de energia ou equivalente no sector dos transportes, que esteja a ser cumprido; ou\n\nb) Certificado energético onde se demonstre que após a implementação das medidas de melhoria do desempenho energético, incluindo a unidade de miniprodução, o edifício alcança a classe B ou superior, para o caso de edifícios novos, ou classe C ou superior, no caso de edifícios existentes.\n\n6 - O incumprimento do disposto nos números anteriores determina a aplicação transitória do regime geral até ao cumprimento das mesmas, sem prejuízo de outras sanções prevista na lei.\n\n7 - No âmbito do presente decreto-lei apenas é remunerada a energia activa entregue à RESP.\n\n8 - O acesso ao regime bonificado por parte de entidade não titular do contrato de fornecimento de electricidade à instalação de utilização, a que se refere o n.º 3 do artigo 3.º, está sujeito ao cumprimento das medidas específicas visando a melhoria da eficiência energética da referida instalação previstas no presente artigo.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440535": {
+   "fragment_id": "810791347",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime geral",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 10.º — Regime geral\n\n1 - Até à entrada em vigor do diploma que procederá à revisão do regime jurídico da microprodução e da miniprodução, e sem prejuízo do disposto no n.º 5, a eletricidade produzida em unidades de miniprodução no âmbito do regime geral é vendida ao comercializador de último recurso e remunerada segundo a seguinte fórmula:\n\n(ver documento original)\n\n2 - Para efeitos da fórmula prevista no número anterior:\n\na) «Rem(índice m)» é a remuneração do mês m em [(euro)];\n\nb) «i» é o período horário de entrega de energia elétrica (em vazio ou fora de vazio), de acordo com o ciclo (semanal ou diário) aplicado à instalação de consumo;\n\nc) «Wi» é a energia produzida no mês m no período i, em [kWh];\n\nd) «OMIE(índice m)» é o valor resultante da média aritmética simples dos preços de fecho do Operador do Mercado Ibérico de Energia (OMIE) para Portugal (mercado diário), relativos ao mês anterior ao mês m, em [(euro)/kWh];\n\ne) «C(índice i)» é o coeficiente de ponderação do período tarifário i;\n\nf) «f(índice p)» são os fatores de ajustamento para perdas do período tarifário i, desde o barramento de produção em muito alta tensão até ao nível de tensão de ligação da unidade de miniprodução.\n\n3 - O coeficiente «C(índice i)» referido na alínea e) do número anterior assume os seguintes valores:\n\na) Período de horas de vazio: 0,86;\n\nb) Período de horas fora de vazio: 1,13.\n\n4 - A determinação dos fatores referidos na alínea f) do n.º 2 deve considerar os valores publicados anualmente pela Entidade Reguladora dos Serviços Energéticos.\n\n5 - Os produtores enquadrados no regime geral podem optar por vender a eletricidade produzida na unidade de miniprodução diretamente em mercados organizados ou mediante a celebração de contratos bilaterais, incluindo com a entidade que exercer a atividade de facilitador de mercado.\n\n6 - A opção referida no número anterior deve ser comunicada ao comercializador de último recurso e ao SRMini no prazo estabelecido no n.º 2 do artigo 21.º ou, caso seja tomada já no decurso da exploração da unidade de miniprodução, com a antecedência de 60 dias relativamente ao início dos respetivos efeitos.\n\n7 - Exercida a opção referida no n.º 5, o comercializador de último recurso fica desobrigado de adquirir a energia produzida pelo produtor.\n\n8 - O SRMini deve dar conhecimento da comunicação referida no n.º 6 ao operador da rede de distribuição.\n\n9 - O exercício da opção referida no n.º 5 é definitivo, não podendo os produtores voltar a solicitar a aplicação do regime remuneratório previsto no n.º 1.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "896440536": {
+   "fragment_id": "810791348",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime bonificado",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 11.º — Regime bonificado\n\n1 - O produtor cuja unidade de miniprodução se insira no escalão i é remunerado com base na tarifa de referência que vigorar à data da emissão do certificado de exploração, nos termos do limite da quota de potência estabelecida na programação referida no n.º 2 do artigo 13.º\n\n2 - O produtor cuja unidade de miniprodução se insira nos escalões ii e iii é remunerado com base na tarifa mais alta que resultar das maiores ofertas de desconto à tarifa de referência apuradas nos respectivos escalões, nos termos do limite da quota de potência estabelecida na programação referida no n.º 2 do artigo 13.º\n\n3 - A tarifa aplicável é devida desde o início do fornecimento à rede.\n\n4 - A tarifa aplicável vigora durante um período de 15 anos contados desde o 1.º dia do mês seguinte ao do início do fornecimento.\n\n5 - A aplicação do regime remuneratório bonificado caduca, ingressando o produtor no regime remuneratório geral, nos seguintes casos:\n\na) Quando o produtor comunique ao SRMini a renúncia à sua aplicação;\n\nb) No final do período de 15 anos referido no número anterior;\n\nc) Quando, por facto superveniente, deixe de verificar-se algum dos requisitos do acesso ao regime bonificado ou os previstos no n.º 1 do artigo 3.º para o acesso à actividade de miniprodução.\n\n6 - A tarifa de referência é fixada em (euro) 250/MWh, sendo o valor da tarifa sucessivamente reduzido anualmente em 7 %.\n\n7 - A tarifa a aplicar varia consoante o tipo de energia primária utilizada, sendo determinada mediante a aplicação das seguintes percentagens à tarifa de referência:\n\na) Solar - 100 %;\n\nb) Eólica - 80 %;\n\nc) Hídrica - 50 %;\n\nd) Biogás - 60 %;\n\ne) Biomassa - 60 %;\n\nf) Pilhas de combustível com base em hidrogénio proveniente de miniprodução renovável - percentagem prevista nas alíneas anteriores aplicável ao tipo de energia renovável utilizado para a produção do hidrogénio.\n\n8 - A electricidade vendida nos termos dos números anteriores é limitada a 2,6 MWh/ano, no caso das alíneas a) e b) do número anterior, e a 5 MWh/ano, no caso das restantes alíneas do número anterior, por cada quilowatt de potência de ligação.\n\n9 - A potência de ligação que, em cada ano civil, pode ser objecto de atribuição para miniprodução, no âmbito do regime bonificado, não pode ser superior à quota anual de 50 MW, a alocar de acordo com a programação estabelecida nos termos do n.º 2 do artigo 13.º\n\n10 - A quota de potência de ligação a alocar ao escalão i não pode ser superior a 25 % da quota anual referida no número anterior.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440537": {
+   "fragment_id": "810791349",
+   "type": 11,
+   "heading": "Artigo 12.º — Bolsa de registos de interesse público",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 12.º — Bolsa de registos de interesse público\n\nO membro do Governo responsável pela área da energia, mediante despacho a publicar no SRMini, pode reservar uma percentagem de até 10 % da quota de potência anual, para atribuição nos termos do presente decreto-lei, a entidades que prestem serviços de carácter social, bem como na área da defesa, da segurança e ambiental e outros serviços do Estado ou das autarquias locais.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440538": {
+   "fragment_id": "810791350",
+   "type": 11,
+   "heading": "Artigo 13.º — Actualização da tarifa bonificada e quotas de potência",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 13.º — Actualização da tarifa bonificada e quotas de potência\n\n1 - O membro do Governo responsável pela área da energia, mediante portaria, pode proceder à actualização do valor da tarifa de referência ou da percentagem de regressão e a ajustamentos às percentagens, limites e quota definidos nos n.os 6, 7, 8 e 9 do artigo 11.º tendo em vista assegurar a boa adequação da actividade de miniprodução aos objectivos da política energética, de outras políticas sectoriais, à evolução dos mercados ou ao equilíbrio regional.\n\n2 - Mediante despacho publicado no SRMini, o director-geral da Energia e Geologia estabelece:\n\na) A programação da alocação ao longo do ano da quota anual de potência;\n\nb) A sua distribuição pelos escalões previstos na alínea a) do artigo 2.º;\n\nc) Eventuais saldos de potências não atribuídas.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440539": {
+   "fragment_id": "810791352",
+   "type": 1,
+   "heading": "Capítulo III — Registo e ligação à rede",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "### Capítulo III — Registo e ligação à rede\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440550": {
+   "fragment_id": "810791353",
+   "type": 11,
+   "heading": "Artigo 15.º — Sistema de Registo da Miniprodução",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 15.º — Sistema de Registo da Miniprodução\n\n1 - O acesso plataforma SRMini faz-se através do sítio na Internet www.renovaveisnahora.pt, cujo endereço pode ser actualizado por portaria, e é acessível através do Portal do Cidadão e do Portal da Empresa.\n\n2 - O SRMini assegura, nomeadamente, as seguintes funções:\n\na) A autenticação dos utilizadores através de códigos que permitam o acesso à informação acessível no SRMini;\n\nb) A indicação dos dados de identificação dos promotores e produtores;\n\nc) O preenchimento electrónico dos elementos necessários ao registo da miniprodução e à entrega dos elementos necessários à sua apreciação;\n\nd) O pagamento ou as instruções de pagamento das taxas previstas na portaria referida no n.º 3 do artigo 26.º;\n\ne) O preenchimento electrónico do pedido de inspecção ou reinspecção;\n\nf) A recolha de informação que permita o contacto entre os serviços competentes e os promotores ou produtores e seus representantes constituídos;\n\ng) A certificação da data e da hora em que os pedidos e outras declarações ou informações são apresentados, bem como as inscrições, registos, inspecções ou reinspecções e certificados de exploração e respectivos averbamentos foram atribuídos, através do SRMini;\n\nh) A não validação ou não recepção dos pedidos que não cumpram os requisitos de acesso ou o pagamento tempestivo das taxas de que depende o seu seguimento;\n\ni) A consulta do estado do pedido, a todo o momento, pelos requerentes inscritos ou registados;\n\nj) A emissão de informação actualizada periodicamente das inscrições concluídas, registos e certificados de exploração atribuídos, tipo de tecnologia de miniprodução, potência, concelho de localização e regime remuneratório aplicável, para conhecimento e divulgação pública.\n\n3 - As DRE, o operador da rede de distribuição e os comercializadores de electricidade devem registar-se no SRMini e aderir ao sistema de comunicações electrónico.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440551": {
+   "fragment_id": "810791354",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimento de registo e certificado de exploração",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 16.º — Procedimento de registo e certificado de exploração\n\n1 - O registo e a emissão do certificado de exploração da unidade de miniprodução são efectuados e processados no SRMini.\n\n2 - O procedimento de registo inicia-se com a inscrição do promotor.\n\n3 - O registo tem-se por concluído com a atribuição de potência de ligação aos registos aceites.\n\n4 - O registo da unidade de miniprodução torna-se definitivo com a emissão do respectivo certificado de exploração.\n\n5 - O certificado de exploração é emitido após instalada a unidade de miniprodução pelo produtor e realizada inspecção que ateste a sua conformidade, sem prejuízo do disposto no n.º 6 do artigo 18.º\n\n6 - A realização da inspecção da miniprodução é solicitada, através do SRMini, no prazo máximo de:\n\na) Seis meses para instalações em BT, contados da data do registo, sob pena de caducidade deste;\n\nb) Oito meses para as restantes instalações, contados da data do registo, sob pena de caducidade deste.\n\n7 - Nos casos em que o produtor estiver sujeito ao regime jurídico da contratação pública, ou ao regime jurídico de avaliação de impactes ou incidências ambientais, ou quando se trate de mini-hídricas, o prazo de caducidade previsto no número anterior é de 16 meses, ou 24 meses, no caso de mini-hídricas.\n\n8 - Os prazos previstos no número anterior, mediante pedido do produtor, podem ser prorrogados, por despacho do director-geral da DGEG, até ao máximo de 8 meses, ou 16 meses, quando se trate de mini-hídricas.\n\n9 - Considera-se que o pedido de inspecção inclui, para todos os efeitos legais, o pedido de emissão de certificado de exploração.\n\n10 - O membro do Governo responsável pela área da energia, mediante despacho a publicar no SRMini, define o procedimento de registo, incluindo os elementos instrutórios do pedido, a marcha do procedimento, os termos das ofertas de desconto, e a sua extinção.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440552": {
+   "fragment_id": "810791355",
+   "type": 11,
+   "heading": "Artigo 17.º — Inspecção",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 17.º — Inspecção\n\n1 - A inspecção é efectuada nos 10 dias subsequentes ao pedido de inspecção, devendo o dia e a hora da sua realização ser comunicados ao produtor e técnico responsável através do SRMini.\n\n2 - Na inspecção é verificada a conformidade da instalação quanto ao seguinte:\n\na) Se a unidade de miniprodução está executada de acordo com o disposto no presente decreto-lei e regulamentação em vigor, nomeadamente se estão preenchidos os requisitos previstos nos artigos 1.º e 3.º e nos n.os 2 a 6 do artigo 9.º;\n\nb) Se o respectivo contador cumpre as especificações e está correctamente instalado e devidamente selado de origem;\n\nc) Se estão realizados os ensaios necessários à verificação do adequado funcionamento dos equipamentos, bem como a sua certificação.\n\n3 - Na inspecção deve estar sempre presente o técnico responsável por instalações eléctricas de serviço particular ou seu substituto credenciado, ao serviço da entidade instaladora, ao qual compete esclarecer todas as dúvidas que possam ser suscitadas no acto da inspecção.\n\n4 - Concluída a inspecção, o inspector entrega ao técnico responsável cópia do relatório da inspecção e suas conclusões, registando-os no SRMini.\n\n5 - Se o relatório da inspecção concluir pela existência de não conformidades, o produtor deve sanar as deficiências indicadas, nos termos do artigo seguinte.\n\n6 - Quando a inspecção não ocorra no prazo estabelecido no n.º 1 para a sua realização, o SRMini emite de forma automática o certificado de exploração provisório.\n\n7 - No caso previsto no número anterior, o SRMini emite uma ordem diariamente de pagamento da quantia de (euro) 50 a favor do requerente até que o certificado definitivo seja emitido ou que se realize a inspecção prevista no n.º 1.\n\n8 - O certificado provisório é automaticamente convertido em definitivo se a inspecção não ocorrer nos 30 dias subsequentes ao termo do prazo previsto no n.º 1.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440553": {
+   "fragment_id": "810791356",
+   "type": 11,
+   "heading": "Artigo 18.º — Reinspecção",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 18.º — Reinspecção\n\n1 - Sempre que na inspecção prevista no artigo anterior sejam detectadas deficiências que não permitam a emissão de certificado de exploração, o produtor deve solicitar reinspecção, no SRMini, até ao máximo de duas.\n\n2 - É aplicável à reinspecção, com as necessárias adaptações, o disposto no n.º 1 do artigo anterior.\n\n3 - O produtor dispõe do prazo de 30 dias, no caso de uma instalação em BT, e de 60 dias nos restantes casos, contados da inspecção ou da última reinspecção para proceder às correcções necessárias e solicitar nova reinspecção, até ao limite máximo de reinspecções admitidas nos termos do n.º 1.\n\n4 - A ligação à RESP da unidade de miniprodução não é autorizada enquanto se mantiverem deficiências que não permitam a emissão de certificado de exploração, procedendo-se, após a 3.ª reinspecção de que não resulte a emissão de parecer favorável para início da exploração, ao cancelamento do registo da unidade de miniprodução.\n\n5 - A não realização de reinspecção por motivo imputável ao produtor implica o cancelamento do registo.\n\n6 - Quando a reinspecção não ocorra no prazo estabelecido para a sua realização, o SRMini emite de forma automática o certificado de exploração, com carácter provisório.\n\n7 - O certificado provisório é automaticamente convertido em definitivo se a inspecção não ocorrer nos 30 dias subsequentes ao termo do prazo previsto no n.º 1 do artigo anterior.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440554": {
+   "fragment_id": "810791357",
+   "type": 11,
+   "heading": "Artigo 19.º — Contagem e disponibilização de dados",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 19.º — Contagem e disponibilização de dados\n\n1 - O sistema de contagem de eletricidade e os equipamentos que asseguram a proteção da interligação devem ser colocados em local de acesso livre ao comercializador de último recurso e ao operador da rede de distribuição, bem como às entidades competentes para efeitos do presente decreto-lei, salvo situações especiais autorizadas pela DGEG.\n\n2 - A contagem da electricidade produzida é feita por telecontagem, mediante contador bidireccional, ou contador que assegure a contagem líquida dos dois sentidos, autónomo do contador da instalação de consumo.\n\n3 - Para os consumidores de energia eléctrica alimentados em média tensão, com contagem de energia em baixa tensão, a ligação da miniprodução pode ser feita em baixa tensão, a montante do contador de consumo.\n\n4 - Nas condições do número anterior deve ser construído um quadro de baixa tensão para ligação da miniprodução, que permita separar a instalação de produção da instalação de consumo.\n\n5 - O contador de produção deve localizar-se junto ao contador de consumo.\n\n6 - O fornecimento de energia reactiva pelo produtor de electricidade a partir de unidade de miniprodução obedece às regras previstas no Regulamento da Rede de Distribuição.\n\n7 - O comercializador de último recurso e os operadores de rede de distribuição devem disponibilizar à Entidade Reguladora dos Serviços Energéticos as informações necessárias à correta faturação dos diferentes intervenientes, nos termos do Regulamento das Relações Comerciais.\n\n8 - As matérias da medição, leitura e disponibilização de dados, nomeadamente nos casos de exercício da opção prevista no n.º 5 do artigo 10.º, assim como as demais matérias reguladas neste artigo, podem ser objeto de regulamentação por portaria do membro do Governo responsável pela área da energia, na medida em que tal seja necessário à correta aplicação do presente decreto-lei.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "896440555": {
+   "fragment_id": "810791358",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo de certificação de equipamentos",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 20.º — Controlo de certificação de equipamentos\n\n1 - Os fabricantes, importadores e fornecedores, seus representantes e entidades instaladoras devem comprovar junto do SRMini que os equipamentos para miniprodução transaccionados estão certificados e a natureza da certificação, devendo esta informação ser a disponibilizada no SRMini para conhecimento público.\n\n2 - A certificação dos equipamentos a que se refere o número anterior deve estar feita por um organismo de certificação, de acordo com o sistema n.º 5 da ISO/IEC.\n\n3 - Os equipamentos certificados nos termos do número anterior devem satisfazer os requisitos definidos nas normas europeias aplicáveis a cada tipo de equipamento, publicadas pelo CEN/CENELEC.\n\n4 - Caso não tenham sido estabelecidas e publicadas normas europeias, cada tipo de equipamento deve satisfazer os requisitos das normas internacionais publicadas pela ISO/IEC.\n\n5 - Quando não existam as normas referidas nos n.os 3 e 4, os equipamentos devem conformar-se com as seguintes normas e especificações técnicas:\n\na) As normas ou especificações portuguesas relativas ao equipamento em causa, que estejam indicadas pelo Instituto Português da Qualidade, I. P. (IPQ, I. P.);\n\nb) As normas ou especificações em vigor no Estado de origem, desde que o IPQ, I. P., reconheça que garantem condições equivalentes às estabelecidas nos n.os 3 e 4.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440556": {
+   "fragment_id": "810791359",
+   "type": 11,
+   "heading": "Artigo 21.º — Contrato de compra e venda de electricidade e ligação à rede",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 21.º — Contrato de compra e venda de electricidade e ligação à rede\n\n1 - Emitido o certificado de exploração, ainda que provisório nos termos do n.º 6 do artigo 18.º, o produtor e o comercializador de último recurso são de imediato avisados, pelo SRMini, com vista à celebração do contrato de compra e venda da eletricidade oriunda da miniprodução, dando-se conhecimento desse facto, igualmente através do SRMini, ao operador da rede de distribuição.\n\n2 - O produtor declara aderir ao contrato de compra e venda de eletricidade ou, estando enquadrado no âmbito do regime geral e sendo essa a sua intenção, comunica exercer a opção prevista no n.º 5 do artigo 10.º, no prazo máximo de cinco dias contados do aviso do SRMini.\n\n3 - O comercializador de último recurso dá conhecimento ao SRMini da celebração do contrato de compra e venda de eletricidade com o produtor, no prazo de 10 dias após a adesão deste ao referido contrato.\n\n4 - Após tomar conhecimento da celebração do contrato de compra e venda de eletricidade com o produtor ou do exercício da opção prevista no n.º 5 do artigo 10.º, o SRMini avisa o operador da rede de distribuição para proceder à ligação da unidade de miniprodução à RESP.\n\n5 - O operador da RESP deve proceder à ligação da unidade de miniprodução no prazo máximo de 10 dias após o aviso do SRMini.\n\n6 - A data de ligação à RESP é registada no SRMini pelo operador da rede de distribuição.\n\n7 - Para efeitos do presente artigo, o comercializador de último recurso é obrigado a disponibilizar minuta de contrato de compra e venda de eletricidade oriunda da miniprodução, em permanência e no respetivo sítio da Internet.\n\n8 - O contrato de compra e venda de eletricidade previsto no n.º 1 deve observar o modelo aprovado pela DGEG, mediante proposta do comercializador de último recurso.\n\n9 - [Revogado].\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "896440557": {
+   "fragment_id": "810791360",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração do registo da miniprodução",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 22.º — Alteração do registo da miniprodução\n\n1 - A alteração do registo da instalação de miniprodução, quando substancial, carece de novo registo, aplicável à totalidade da instalação.\n\n2 - Considera-se substancial a alteração do registo da unidade de miniprodução que não se enquadre no disposto no artigo seguinte.\n\n3 - No caso previsto no n.º 1, o registo anterior caduca com a entrada em exploração da instalação de miniprodução sujeita a novo registo.\n\n4 - A alteração não substancial do registo da instalação de miniprodução está sujeita a averbamento, nos termos do artigo seguinte.\n\n5 - A alteração do registo da miniprodução nas situações previstas no n.º 3 do artigo 3.º é objecto da regulamentação nele prevista.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440558": {
+   "fragment_id": "810791361",
+   "type": 11,
+   "heading": "Artigo 23.º — Averbamento de alterações ao registo",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 23.º — Averbamento de alterações ao registo\n\n1 - Estão sujeitas a averbamento as seguintes alterações do registo:\n\na) A alteração da titularidade do contrato de fornecimento de electricidade à instalação de consumo onde está instalada a unidade de miniprodução e do contrato de aquisição da electricidade produzida na unidade de miniprodução;\n\nb) [Revogada];\n\nc) A mudança de local da unidade de miniprodução, desde que se mantenha o mesmo produtor e os demais elementos caracterizadores da unidade de miniprodução;\n\nd) A mudança da tecnologia de produção utilizada na miniprodução, desde que se mantenha o mesmo produtor e demais elementos caracterizadores da unidade de miniprodução.\n\n2 - Nos casos previstos na alínea a) do número anterior, o novo titular do contrato de fornecimento de electricidade solicita o averbamento da alteração, juntando prova dos factos determinantes da alteração e demais elementos relevantes para o registo.\n\n3 - [Revogado].\n\n4 - Nos casos previstos na alínea c) do n.º 1, o produtor identifica o novo local da instalação de miniprodução e os elementos essenciais relativos à instalação de consumo e contrato de fornecimento alterados relevantes para o registo.\n\n5 - Nos casos previstos na alínea d) do n.º 1, o produtor identifica a alteração de tecnologia verificada, desde que se mantenham os demais elementos caracterizadores da unidade de miniprodução e contrato de fornecimento da instalação de consumo.\n\n6 - O averbamento das alterações previstas nos n.os 4 e 5 dependem de nova inspecção da unidade de miniprodução e consequente emissão de novo certificado de exploração.\n\n7 - No caso previsto na alínea d) do n.º 1, a tarifa aplicada à miniprodução é alterada para a que lhe corresponda em decorrência da mudança de tecnologia de produção mas pelo prazo remanescente de benefício do regime bonificado.\n\n8 - Em qualquer dos casos previstos no n.º 1, o contrato de venda da eletricidade produzida na miniprodução é alterado ou celebrado novo contrato com o comercializador de último recurso, mantendo-se o regime remuneratório bonificado, quando seja o aplicado à miniprodução, pelo prazo remanescente.\n\n9 - O averbamento das alterações previstas na alínea c) do n.º 1 pode ser recusado por razões de ordem técnica, nomeadamente as previstas no n.º 2 do artigo 4.º\n\n10 - [Revogado].\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "896440559": {
+   "fragment_id": "810791362",
+   "type": 11,
+   "heading": "Artigo 24.º — Reconhecimento de investimentos e custos",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+   ],
+   "markdown": "###### Artigo 24.º — Reconhecimento de investimentos e custos\n\n1 - [Revogado].\n\n2 - O reconhecimento dos custos de aquisição de energia pelo comercializador de último recurso referido no n.º 1 do artigo 73.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, republicado pelo Decreto-Lei n.º 215-A/2012, de 8 de outubro, de acordo com os regimes remuneratórios previstos no presente decreto-lei, é realizado de acordo com o estabelecido no artigo 55.º do Decreto-Lei n.º 172/2006, de 23 de agosto, republicado pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro.\n\n3 - O reconhecimento para efeitos tarifários dos investimentos e custos incorridos pelo comercializador de último recurso referido no número anterior com a implementação ou alteração dos sistemas informáticos de faturação e outros, necessários para a execução do presente decreto-lei, é realizado nos termos previstos no artigo 62.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, republicado pelo Decreto-Lei n.º 215-A/2012, de 8 de outubro.\n\n4 - O relacionamento comercial entre os comercializadores de último recurso referidos na alínea a) do artigo 2.º, no âmbito da aplicação do presente decreto-lei, deve observar o disposto no Regulamento de Relações Comerciais.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24"
+  },
+  "896440560": {
+   "fragment_id": "810791363",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e taxas",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "### Capítulo IV — Fiscalização e taxas\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440563": {
+   "fragment_id": "810791364",
+   "type": 11,
+   "heading": "Artigo 25.º — Fiscalização",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 25.º — Fiscalização\n\n1 - As unidades de miniprodução são sujeitas a fiscalização para verificar a sua conformidade com o disposto no presente decreto-lei e demais regulamentação aplicável e, nomeadamente, para controlo das condições de protecção da interligação com a RESP e das características da instalação previstas no registo, sem prejuízo das competências do operador da rede de distribuição neste domínio.\n\n2 - A competência para fiscalização da actividade de miniprodução cabe à DGEG e à DRE, de acordo com as respectivas competências, ou a entidade por estas designada, que podem solicitar o apoio de técnicos especializados sempre que o considerem necessário.\n\n3 - É objecto de acções de fiscalização anual, pelo menos, 1 % do parque de instalações de miniprodução registadas.\n\n4 - Para efeitos do número anterior, os produtores devem facilitar o acesso às respectivas instalações de produção às entidades referidas no n.º 2.\n\n5 - A entidade fiscalizadora elabora e divulga no SRMini, bianualmente, o relatório das acções de fiscalização realizadas.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440564": {
+   "fragment_id": "810791365",
+   "type": 11,
+   "heading": "Artigo 26.º — Taxas",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 26.º — Taxas\n\n1 - Estão sujeitos ao pagamento de taxa:\n\na) O pedido de registo da unidade de miniprodução;\n\nb) O pedido de reinspecção da unidade de miniprodução;\n\nc) O pedido de averbamento de alterações ao registo da miniprodução, com e sem emissão de novo certificado de exploração.\n\n2 - As taxas previstas no número anterior são liquidadas e cobradas pela DGEG, ou pela entidade por esta designada, ou pelas DRE, constituindo receita da que proceder à respectiva liquidação e cobrança.\n\n3 - Os montantes das taxas são definidos por portaria do membro do Governo responsável pela área da energia, que estabelece também a fase do procedimento em que a mesma é devida e o prazo peremptório de pagamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440565": {
+   "fragment_id": "810791366",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "### Capítulo V — Regime sancionatório\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440568": {
+   "fragment_id": "810791367",
+   "type": 11,
+   "heading": "Artigo 27.º — Contra-ordenações",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 27.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 3740, no caso de pessoas singulares, e de (euro) 500 a (euro) 44 800, no caso de pessoas colectivas:\n\na) A violação do disposto nas alíneas c) e d) do n.º 1 do artigo 3.º;\n\nb) A violação do disposto nas alíneas a) a d) e h) do artigo 6.º;\n\nc) A violação do disposto nos n.os 1 a 3 do artigo 8.º;\n\nd) Vender electricidade através do regime bonificado com inobservância dos requisitos estabelecidos nos n.os 2, 3 e 4 do artigo 9.º;\n\ne) A violação do disposto no n.º 1 do artigo 14.º;\n\nf) A violação do disposto no n.º 3 do artigo 18.º;\n\ng) A ligação da unidade de miniprodução à RESP sem certificado de exploração e contrato de compra e venda de electricidade previstos no artigo 21.º;\n\nh) A violação do disposto nos n.os 1 a 4 do artigo 22.º;\n\ni) O exercício da actividade de miniprodução sem registo e certificado de exploração previstos nos n.os 3 do artigo 3.º e 6 do artigo 18.º\n\n2 - Constitui contra-ordenação punível com coima graduada de (euro) 100 a (euro) 3000, no caso de pessoas singulares, e graduada de (euro) 250 a (euro) 34 800, no caso de pessoas colectivas:\n\na) A violação do disposto nas alíneas e), f) e g) do artigo 6.º;\n\nb) A violação do disposto nos n.os 2, 3, 5, 6, 7 e 8 do artigo 21.º;\n\nc) Solicitar a inspecção da unidade de miniprodução sem que a sua instalação esteja concluída.\n\n3 - A tentativa e a negligência são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.\n\n4 - A competência para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas pertence ao director-geral da DGEG, podendo ser delegada.\n\n5 - O produto resultante da aplicação das coimas reverte em 60 % para o Estado e em 40 % para a DGEG, inclusive quando cobradas em juízo.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440569": {
+   "fragment_id": "810791368",
+   "type": 11,
+   "heading": "Artigo 28.º — Sanções acessórias",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 28.º — Sanções acessórias\n\n1 - As contra-ordenações previstas no artigo anterior podem ainda determinar, quando a gravidade da infracção e a culpa do agente o justifique, a aplicação juntamente com coima das seguintes sanções acessórias:\n\na) A apreensão dos objectos pertencentes ao agente que tenham sido utilizados como instrumento na prática da infracção;\n\nb) A interdição, até ao máximo de dois anos, do exercício da actividade ou profissão conexas com a infracção praticada;\n\nc) A privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos;\n\nd) O encerramento da miniprodução;\n\ne) A suspensão do registo da miniprodução.\n\n2 - As sanções previstas no número anterior, bem como as previstas no artigo anterior, quando aplicadas a entidades instaladoras ou responsáveis técnicos, são comunicadas ao InCI, I. P., e à respectiva ordem ou associação profissional, quando exista.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896440570": {
+   "fragment_id": "810791369",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896471176": {
+   "fragment_id": "810791370",
+   "type": 11,
+   "heading": "Artigo 29.º — Regiões Autónomas",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 29.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas, sem prejuízo das adaptações decorrentes da aplicação do disposto no número seguinte, bem como das especificidades do exercício das actividades de produção, transporte, distribuição e comercialização de electricidade nas Regiões Autónomas.\n\n2 - As competências cometidas pelo presente decreto-lei à DGEG e a serviços ou outros organismos da administração central são exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências, ou pelas entidades designadas por estas, sem prejuízo das competências de outras entidades de actuação com âmbito nacional.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896471177": {
+   "fragment_id": "810791371",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime da gestão de capacidades de recepção nas redes",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 30.º — Regime da gestão de capacidades de recepção nas redes\n\nNão é aplicável à miniprodução o regime do Decreto-Lei n.º 312/2001, de 10 de Dezembro, com as sucessivas alterações.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896471178": {
+   "fragment_id": "810791372",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime transitório",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 31.º — Regime transitório\n\nOs comercializadores de electricidade, no prazo de 12 meses contados da data da entrada em vigor do presente decreto-lei, devem assegurar a intercomunicabilidade, na parte relevante, das respectivas bases de dados de clientes com o SRMini com vista a assegurar o pré-preenchimento automático dos campos de preenchimento obrigatório que lhes digam respeito.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896471179": {
+   "fragment_id": "810791373",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\n1 - É revogado o Decreto-Lei n.º 68/2002, de 25 de Março.\n\n2 - Sem prejuízo da revogação prevista no número anterior, as instalações de produção de electricidade licenciadas no âmbito do referido regime jurídico continuam a reger-se pelo que nele se dispõe.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  },
+  "896471180": {
+   "fragment_id": "810791374",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": "2015-01-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+   ],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no prazo de 45 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18"
+  }
+ }
+}

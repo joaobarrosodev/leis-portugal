@@ -1,0 +1,1018 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:617112:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-157575651",
+ "dre_path": "/dr/detalhe/decreto-lei/10-2010-617112",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "157771983",
+    "157771984",
+    "157771985",
+    "157771986",
+    "157771987",
+    "157771988",
+    "157771989",
+    "157771990",
+    "157771991",
+    "157771992",
+    "157771993",
+    "157771994",
+    "157771995",
+    "157771996",
+    "157771997",
+    "157771998",
+    "157771999",
+    "157772000",
+    "157772001",
+    "157772002",
+    "157772003",
+    "157772004",
+    "157772005",
+    "157772006",
+    "157772007",
+    "157772008",
+    "157772009",
+    "157772010",
+    "157772011",
+    "157772012",
+    "157772013",
+    "157772014",
+    "157772015",
+    "157772016",
+    "157772017",
+    "157772018",
+    "157772019",
+    "157772020",
+    "157772021",
+    "157772022",
+    "157772023",
+    "157772024",
+    "157772025",
+    "157772026",
+    "157772027",
+    "157772028",
+    "157772029",
+    "157772030",
+    "157772031",
+    "157772032",
+    "157772033",
+    "157772034",
+    "157772035",
+    "157772036",
+    "157772037",
+    "157772038",
+    "157772039",
+    "157772040",
+    "157772041",
+    "157772042",
+    "157772043",
+    "157772044",
+    "157772045",
+    "157772046",
+    "157772047",
+    "157772048",
+    "157772049",
+    "157772051",
+    "157772052",
+    "157772053",
+    "157772054",
+    "157772055",
+    "157772056"
+   ]
+  },
+  {
+   "date": "2013-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258479:por",
+     "title": "Decreto-Lei n.º 31/2013",
+     "published": "2013-02-22",
+     "dre_path": "/dr/detalhe/decreto-lei/31-2013-258479"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 50.º",
+    "Altera Anexo III",
+    "Altera Anexo VI"
+   ],
+   "fragments": [
+    "157771983",
+    "157771984",
+    "157771985",
+    "157771986",
+    "157771987",
+    "157771988",
+    "157771989",
+    "157771990",
+    "157771991",
+    "157771992",
+    "157771993",
+    "157771994",
+    "157771995",
+    "157772057",
+    "157771997",
+    "157771998",
+    "157771999",
+    "157772000",
+    "157772001",
+    "157772002",
+    "157772003",
+    "157772004",
+    "157772058",
+    "157772006",
+    "157772007",
+    "157772008",
+    "157772009",
+    "157772010",
+    "157772011",
+    "157772012",
+    "157772013",
+    "157772059",
+    "157772015",
+    "157772060",
+    "157772017",
+    "157772018",
+    "157772019",
+    "157772020",
+    "157772021",
+    "157772022",
+    "157772023",
+    "157772024",
+    "157772025",
+    "157772061",
+    "157772027",
+    "157772062",
+    "157772029",
+    "157772030",
+    "157772063",
+    "157772032",
+    "157772033",
+    "157772034",
+    "157772035",
+    "157772036",
+    "157772037",
+    "157772038",
+    "157772039",
+    "157772040",
+    "157772064",
+    "157772042",
+    "157772043",
+    "157772065",
+    "157772045",
+    "157772046",
+    "157772047",
+    "157772048",
+    "157772049",
+    "157772050",
+    "157772051",
+    "157772052",
+    "157772066",
+    "157772054",
+    "157772055",
+    "157772067"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 43.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 46.º"
+   ],
+   "fragments": [
+    "157771983",
+    "157771984",
+    "157771985",
+    "157771986",
+    "157771987",
+    "157771988",
+    "157771989",
+    "157771990",
+    "157771991",
+    "157771992",
+    "157771993",
+    "157771994",
+    "157771995",
+    "157772057",
+    "157771997",
+    "157771998",
+    "157771999",
+    "157772000",
+    "157772001",
+    "157772002",
+    "157772003",
+    "157772004",
+    "157772058",
+    "157772006",
+    "157772007",
+    "157772008",
+    "157772009",
+    "157772010",
+    "157772011",
+    "157772012",
+    "157772013",
+    "157772059",
+    "157772015",
+    "157772060",
+    "157772017",
+    "157772018",
+    "157772019",
+    "157772020",
+    "157772021",
+    "157772022",
+    "157772023",
+    "157772024",
+    "157772025",
+    "157772061",
+    "157772027",
+    "157772062",
+    "157772029",
+    "157772030",
+    "157772063",
+    "157772032",
+    "157772033",
+    "157772034",
+    "157772035",
+    "157772068",
+    "157772037",
+    "157772069",
+    "157772070",
+    "157772040",
+    "157772064",
+    "157772042",
+    "157772043",
+    "157772065",
+    "157772045",
+    "157772046",
+    "157772047",
+    "157772048",
+    "157772049",
+    "157772050",
+    "157772051",
+    "157772052",
+    "157772066",
+    "157772054",
+    "157772055",
+    "157772067"
+   ]
+  }
+ ],
+ "fragments": {
+  "157771983": {
+   "fragment_id": "157575652",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10/2010\n\nde 4 de Fevereiro\n\nO presente decreto-lei estabelece o regime jurídico a que está sujeita a gestão de resíduos das explorações de depósitos minerais e de massas minerais - resíduos de extracção, transpondo para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0021\" title=\"Link para Directiva da Comunidade Europeia\">2006/21/CE</a>, do Parlamento Europeu e do Conselho, de 15 de Março.\n\nA União Europeia reconheceu a necessidade de criar um enquadramento legal próprio para a gestão de resíduos de extracção, tendo em conta a especificidade da actividade em causa e dos resíduos que dela resultam. A especificidade desta actividade justifica-se pelo facto de a exploração de minas e pedreiras, bem como as actividades de tratamento e transformação dos produtos resultantes dessa exploração, originar, geralmente, volumes apreciáveis de resíduos que, em caso de gestão inadequada, podem conduzir a situações de risco elevado para o ambiente, saúde pública e segurança das populações. Tal circunstância aconselha a adopção de medidas de gestão de resíduos orientadas para a prevenção, para a valorização e, subsidiariamente, para uma deposição final em condições adequadas de estabilidade, segurança, de integração no meio envolvente e de protecção do ambiente e da saúde pública.\n\nO presente decreto-lei consagra cinco importantes medidas que vão ao encontro dos objectivos que o XVIII Governo Constitucional pretende alcançar em matéria de prevenção de produção de resíduos, de melhoria do controlo e fiscalização ambiental e ainda na simplificação dos procedimentos e regimes de licenciamentos.\n\nAssim, em primeiro lugar, consagra o princípio da simplificação administrativa e da desmaterialização de actos e procedimentos.\n\nO princípio da simplificação administrativa prevê uma redução, ao mínimo indispensável, dos encargos sobre os interessados, os procedimentos, os documentos e os actos que tenham de praticar ou enviar às entidades competentes e garante uma estreita articulação com outros regimes jurídicos que regulam a actividade de exploração de depósitos minerais e de massas minerais.\n\nJá o princípio da desmaterialização possibilita aos operadores uma comunicação mais rápida e eficaz com as entidades licenciadoras, mediante a utilização de meios electrónicos.\n\nEm segundo lugar, valoriza a adopção de práticas de planeamento para a eliminação segura de resíduos, mediante a adopção de um plano de gestão de resíduos de extracção do qual constam as medidas necessárias para a prevenção e valorização destes resíduos.\n\nUma vez que a garantia da eliminação dos resíduos de extracção em condições de segurança constitui uma preocupação maior do regime jurídico que se institui, estabelecem-se regras e requisitos específicos para a construção, exploração, encerramento e pós-encerramento de instalações de resíduos de extracção.\n\nEm terceiro lugar, define os termos do procedimento de licenciamento das instalações de resíduos de extracção, bem como dos procedimentos de exploração aplicáveis a situações especiais.\n\nO cumprimento integral das condições impostas na licença, incluindo as relativas à fase de pós-encerramento e à reabilitação dos solos afectados pela instalação de resíduos, é acautelado através da constituição de uma garantia financeira por parte do operador.\n\nEm quarto lugar, adapta o regime de prevenção de acidentes graves que envolvam substâncias perigosas às instalações de resíduos de extracção com maior grau de perigosidade, de forma a minimizar o risco de acidentes e garantir um elevado nível de protecção do ambiente e da saúde humana.\n\nPor último, promove a informação e participação do público no processo de licenciamento e a articulação entre Estados membros da União Europeia quando estejam em causa impactos transfronteiriços associados às instalações de resíduos de extracção. Para esse efeito, são introduzidos mecanismos de partilha de informação entre entidades competentes quer na fase de licenciamento quer em situações de acidente.\n\nO presente decreto-lei atende ao teor das decisões da Comissão que visam densificar o regime previsto na Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0021\" title=\"Link para Directiva da Comunidade Europeia\">2006/21/CE</a>, do Parlamento Europeu e do Conselho, de 15 de Março, nomeadamente a Decisão n.º <a href=\"eurlex.asp?ano=2009&id=309D0335\" title=\"Link para Decisão da Comunidade Europeia\">2009/335/CE</a>, de 20 de Abril de 2009, a Decisão n.º <a href=\"eurlex.asp?ano=2009&id=309D0337\" title=\"Link para Decisão da Comunidade Europeia\">2009/337/CE</a>, de 20 de Abril de 2009, a Decisão n.º <a href=\"eurlex.asp?ano=2009&id=309D0358\" title=\"Link para Decisão da Comunidade Europeia\">2009/358/CE</a>, de 29 de Abril de 2009, a Decisão n.º <a href=\"eurlex.asp?ano=2009&id=309D0359\" title=\"Link para Decisão da Comunidade Europeia\">2009/359/CE</a>, de 30 de Abril de 2009, e a Decisão n.º <a href=\"eurlex.asp?ano=2009&id=309D0360\" title=\"Link para Decisão da Comunidade Europeia\">2009/360/CE</a>, de 30 de Abril de 2009.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "157771984": {
+   "fragment_id": "157575653",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "157771985": {
+   "fragment_id": "157575654",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime jurídico a que está sujeita a gestão de resíduos das explorações de depósitos minerais e de massas minerais, transpondo para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0021\" title=\"Link para Directiva da Comunidade Europeia\">2006/21/CE</a>, do Parlamento Europeu e do Conselho, de 15 de Março, relativa à gestão dos resíduos das indústrias extractivas."
+  },
+  "157771986": {
+   "fragment_id": "157575655",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se à gestão dos resíduos resultantes da prospecção, extracção, tratamento, transformação e armazenagem de recursos minerais, bem como da exploração das pedreiras, adiante designados por resíduos de extracção.\n\n2 - Excluem-se do âmbito de aplicação do presente decreto-lei:\n\na) Os resíduos provenientes da prospecção, extracção e tratamento de recursos minerais, que não resultem directamente dessas operações;\n\nb) Os resíduos resultantes da prospecção, extracção e tratamento de recursos minerais, ao largo, abrangendo a zona de mar e do fundo marinho que se estende para além da linha de baixa-mar das marés normais ou médias;\n\nc) A injecção de água e a reinjecção de águas superficiais bombeadas, tal como definidas nas alíneas a) e b) do n.º 4 do artigo 30.º da Lei n.º 58/2005, de 29 de Dezembro.\n\n3 - Aos resíduos de extracção das antigas áreas mineiras degradadas e abandonadas, integradas em planos e projectos aprovados ao abrigo do Decreto-Lei n.º 198-A/2001, de 6 de Julho, é aplicável o presente decreto-lei nos termos previstos no artigo 48.º"
+  },
+  "157771987": {
+   "fragment_id": "157575656",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Acidente grave» uma ocorrência durante uma operação que envolva a gestão de resíduos de extracção em qualquer sítio de que resultem perigos graves para a saúde humana ou para o ambiente, imediatamente ou a prazo, no sítio ou fora dele;\n\nb) «Alteração substancial» qualquer alteração da estrutura ou do funcionamento de uma instalação de resíduos que, no entender da autoridade licenciadora, possa ter efeitos adversos significativos na saúde humana ou no ambiente, nomeadamente as que impliquem:\n\ni) Uma alteração de categoria de acordo com o sistema de classificação de instalações de resíduos;\n\nii) Um aumento da área ocupada pela instalação de resíduos em mais de 30 % da área licenciada;\n\niii) Um aumento superior a 20 % da quantidade total de resíduos prevista no plano de gestão de resíduos;\n\nc) «Bacia» uma instalação natural ou tecnicamente preparada para a eliminação de resíduos finos, normalmente rejeitados, juntamente com volumes variáveis de água livre, resultantes do tratamento de recursos minerais e da clarificação e reciclagem de águas de processo;\n\nd) «Barragem» uma estrutura tecnicamente concebida para reter ou confinar água e ou resíduos numa bacia;\n\ne) «Cianeto dissociável por ácidos fracos» o cianeto e os compostos de cianeto dissociáveis por um ácido fraco a um pH definido;\n\nf) «Detentor» o produtor dos resíduos de extracção ou a pessoa singular ou colectiva que esteja na sua posse;\n\ng) «Escombreira» uma instalação tecnicamente preparada para a deposição à superfície de resíduos sólidos quando constituídos por partículas de espectro granulométrico largo;\n\nh) «Indústrias extractivas» todos os estabelecimentos que efectuem a extracção a céu aberto ou subterrânea de recursos minerais para fins comerciais, incluindo a extracção por perfuração e as actividades de transformação e ou tratamento do material extraído;\n\ni) «Instalação de resíduos» qualquer superfície designada para a acumulação ou depósito de resíduos de extracção, sólidos, líquidos, em solução ou em suspensão, incluindo as barragens e outras estruturas que sirvam para fins de contenção, retenção ou confinamento, ou que sirvam de apoio a essas instalações, bem como as escombreiras e as bacias, com exclusão dos vazios de escavação em que sejam repostos resíduos depois da extracção do mineral para fins de reabilitação, estabilização geomecânica e ou como requisito da sequência do método de exploração, durante os seguintes períodos:\n\ni) Mais de seis meses, para as instalações de resíduos perigosos gerados de forma imprevista;\n\nii) Mais de um ano, para as instalações de resíduos não inertes e não perigosos;\n\niii) Mais de três anos, para as instalações destinadas a solo não poluído, resíduos de prospecção não perigosos, resíduos resultantes da extracção, tratamento e armazenagem de turfa e resíduos inertes;\n\niv) Sem prazo, para as instalações de resíduos da categoria A e as instalações de resíduos caracterizados como perigosos no plano de gestão de resíduos;\n\nj) «Lixiviado» qualquer líquido que percole através de resíduos depositados e eflua de uma instalação de resíduos ou nela fique retido, incluindo os efluentes de drenagem poluídos, susceptível de causar efeitos negativos no ambiente se não for convenientemente tratado;\n\nl) «Massa de água receptora» as águas superficiais, as águas subterrâneas, as águas de transição e as águas costeiras definidas nos termos da Lei n.º 58/2005, de 29 de Dezembro;\n\nm) «Melhores técnicas disponíveis» as técnicas definidas na alínea l) do artigo 2.º do Decreto-Lei n.º 173/2008, de 26 de Agosto;\n\nn) «Operador» a pessoa singular ou colectiva responsável, nos termos do disposto no artigo 5.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, pela gestão de resíduos de extracção, durante a armazenagem temporária de resíduos de extracção, e nas fases de funcionamento e de pós-encerramento;\n\no) «Pessoa competente» o responsável técnico para explorações de massas minerais, nos termos do disposto no Decreto-Lei n.º 270/2001, de 6 de Outubro, alterado pelo Decreto-Lei n.º 340/2007, de 12 de Outubro, ou o director técnico para explorações de depósitos minerais, nos termos do disposto no Decreto-Lei n.º 88/90, de 16 de Março;\n\np) «Prospecção» a pesquisa e o reconhecimento de recursos minerais com valor económico, incluindo os trabalhos de amostragem por perfuração e ou escavação, com exclusão de quaisquer trabalhos necessários ao desenvolvimento de tais recursos minerais e quaisquer actividades directamente associadas a uma operação de extracção;\n\nq) «Público» uma ou mais pessoas singulares ou colectivas, de direito público ou privado, bem com as suas associações, organizações representativas ou agrupamentos;\n\nr) «Público interessado» o público afectado, ou susceptível de o ser, pelos processos de decisão em matéria ambiental previstos no presente decreto-lei, incluindo as organizações não governamentais de ambiente;\n\ns) «Reabilitação» o tratamento do terreno afectado por uma instalação de resíduos, de modo a repô-lo num estado satisfatório, em especial no respeitante à qualidade do solo, à vida selvagem, aos habitats naturais, aos sistemas de água doce, à paisagem e à utilização proveitosa adequada;\n\nt) «Recurso mineral» ou «mineral» um depósito ou uma massa mineral natural da crusta terrestre de uma substância orgânica ou inorgânica, tais como os combustíveis energéticos, minérios metálicos, rochas industriais e rochas ornamentais, com exclusão da água;\n\nu) «Rejeitados» os resíduos, sob a forma de sólidos ou lamas, constituídos pela fracção não aproveitável resultante do tratamento ou da transformação de recursos minerais por serragem ou corte e por processos mineralúrgicos de separação e ou de concentração, nomeadamente a trituração, moagem, crivagem, flutuação e outras técnicas físico-químicas, para acrescentar mais-valia ou extrair os minerais valiosos do material rochoso sem valor económico;\n\nv) «Resíduos» a definição constante da alínea u) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de Setembro;\n\nx) «Resíduos inertes» o resíduo que, nos termos do disposto no anexo i do presente decreto-lei, do qual faz parte integrante, reúne as seguintes características:\n\ni) Não é susceptível de sofrer transformações físicas, químicas ou biológicas importantes;\n\nii) Não é solúvel nem inflamável, nem tem qualquer outro tipo de reacção física ou química;\n\niii) Não é biodegradável;\n\niv) Não afecta negativamente outras substâncias com as quais entre em contacto de forma susceptível de aumentar a poluição do ambiente ou prejudicar a saúde humana;\n\nv) Possui lixiviabilidade total, conteúdo poluente e ecotoxicidade do lixiviado insignificante;\n\nvi) Não põe em perigo a qualidade das águas superficiais e ou subterrâneas;\n\nz) «Resíduo perigoso» a definição constante da alínea cc) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de Setembro;\n\naa) «Sítio» todo o terreno sob o controlo de gestão de um operador, com uma localização geográfica bem definida;\n\nbb) «Solo não poluído» terra retirada da camada superior do solo, durante a actividade extractiva, desde que não poluída;\n\ncc) «Substância perigosa» uma substância, mistura ou preparação que seja perigosa, na acepção do Decreto-Lei n.º 82/95, de 22 de Abril, na sua redacção actual, relativo à aproximação das disposições legislativas regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem de substâncias perigosas, bem como pela Portaria n.º 732-A/96, de 11 de Dezembro, na sua redacção actual, que aprovou o regulamento para a notificação de substâncias químicas e para a classificação, embalagem e rotulagem de substâncias perigosas;\n\ndd) «Tratamento» um processo ou combinação de processos, mineralúrgico, com carácter mecânico, físico, biológico, térmico ou químico, incluindo a lixiviação, que vise transformar, valorizar ou extrair uma fracção dos recursos minerais, através do corte ou serragem e ou da alteração de granulometria, da classificação, da separação de espécies mineralógicas, bem como o reprocessamento de resíduos anteriormente rejeitados, excluindo os processos metalúrgicos como a fundição e os processos térmicos de fabrico, que não a calcinação de calcário."
+  },
+  "157771988": {
+   "fragment_id": "157575657",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios da prevenção e redução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios da prevenção e redução\n\nA exploração de depósitos minerais e de massas minerais deve, sempre que possível, evitar e reduzir a produção de resíduos, de modo a minimizar o seu carácter nocivo, e reduzir os riscos para a saúde humana e para o ambiente, utilizando, para o efeito, processos ou métodos insusceptíveis de gerar efeitos adversos sobre o ambiente, nomeadamente na criação de perigos para a água, o ar, o solo, a fauna e a flora, perturbações sonoras ou odoríficas ou de danos em quaisquer locais de interesse e na paisagem."
+  },
+  "157771989": {
+   "fragment_id": "157575658",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios da gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios da gestão de resíduos\n\n1 - Os resíduos de extracção devem ser geridos sem pôr em perigo a saúde humana e sem utilizar processos ou métodos susceptíveis de agredir o ambiente, em especial sem criar riscos para os componentes ambientais naturais e humanos, garantindo a sua estabilidade física, evitando a contaminação do solo e a poluição do ar, das águas superficiais e das águas subterrâneas, tanto no curto como no longo prazo, e minimizando, tanto quanto possível, os impactos na paisagem.\n\n2 - A gestão dos resíduos de extracção deve ser realizada com recurso às melhores técnicas disponíveis e tendo em conta as características técnicas da instalação de resíduos, a sua localização geográfica e as condições ambientais locais."
+  },
+  "157771990": {
+   "fragment_id": "157575659",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade pela gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade pela gestão de resíduos\n\n1 - O operador é responsável pela gestão dos resíduos de extracção, nomeadamente através da adopção das medidas necessárias para evitar ou reduzir os efeitos adversos para o ambiente e para a saúde humana causados pela gestão dos resíduos de extracção, da prevenção de acidentes graves na instalação de resíduos e limitação das suas consequências para o ambiente e para a saúde humana.\n\n2 - A responsabilidade referida no número anterior mantém-se na fase de pós-encerramento da instalação de resíduos.\n\n3 - É proibido o abandono, a descarga ou o depósito não controlado de resíduos de extracção."
+  },
+  "157771991": {
+   "fragment_id": "157575660",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípio da simplificação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípio da simplificação administrativa\n\nOs procedimentos administrativos realizados ao abrigo do presente decreto-lei, bem como os procedimentos administrativos conexos com os mesmos, devem realizar-se de forma a reduzir ao mínimo indispensável os encargos sobre os interessados, os procedimentos, os documentos e os actos que tenham de praticar ou enviar às entidades competentes e a necessidade de deslocações físicas, incluindo, designadamente, o seguinte:\n\na) O licenciamento de instalações de resíduos em explorações de depósitos minerais e de massas minerais é integrado no licenciamento dessas instalações, por forma a evitar a duplicação de licenciamentos e procedimentos;\n\nb) Por opção do operador, os procedimentos da avaliação de impacto ambiental e de prevenção de acidentes graves que envolvam substâncias perigosas podem decorrer em simultâneo com o procedimento de licenciamento de instalações de resíduos, evitando a duplicação de procedimentos;\n\nc) A verificação do impacto ambiental pode ser efectuada no âmbito do procedimento previsto no presente decreto-lei, nos casos previstos, mediante a apresentação do estudo de impacto ambiental, evitando-se a duplicação de procedimentos, mas sem prejuízo do controlo administrativo necessário;\n\nd) A verificação da compatibilidade de localização prevista no regime de prevenção de acidentes graves que envolvam substâncias perigosas pode ser efectuada no âmbito do procedimento previsto no presente decreto-lei, sem necessidade de duplicação de procedimentos, mas sem prejuízo do controlo administrativo necessário;\n\ne) A aprovação do relatório de segurança previsto no regime de prevenção de acidentes graves que envolvam substâncias perigosas pode ser efectuada no âmbito do procedimento previsto no presente decreto-lei, sem necessidade de duplicação de procedimentos, mas sem prejuízo do controlo administrativo necessário;\n\nf) Todos os pedidos, comunicações e notificações entre os interessados e outros intervenientes no procedimento de licenciamento devem ser efectuados por meios electrónicos;\n\ng) Os actos destinados à participação pública nos procedimentos previstos no presente decreto-lei, incluindo a sua publicidade e consulta pública, devem ser efectuados por meios electrónicos, sem prejuízo da utilização de outros meios prevista no presente decreto-lei;\n\nh) Nos casos previstos, o incumprimento dos prazos previstos para a emissão de pareceres ou prática de actos não impede que o procedimento prossiga e seja decidido;\n\ni) O incumprimento dos prazos previstos para a decisão sobre o pedido de autorização da transmissão da licença entre a entidade licenciada e entidade terceira origina o seu deferimento tácito."
+  },
+  "157771992": {
+   "fragment_id": "157575661",
+   "type": 11,
+   "heading": "Artigo 8.º — Desmaterialização de actos e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Desmaterialização de actos e procedimentos\n\n1 - Todos os pedidos, comunicações e notificações entre os interessados e outros intervenientes no procedimento de licenciamento devem ser efectuados por meios electrónicos, através do sítio na Internet que disponibiliza o Portal da Empresa.\n\n2 - Os actos destinados à participação pública nos procedimentos previstos no presente decreto-lei, incluindo a sua publicidade e consultas públicas, devem ser efectuados por meios electrónicos, através do sítio da Internet que disponibiliza o Portal do Cidadão, sem prejuízo da utilização de outros meios prevista no presente decreto-lei."
+  },
+  "157771993": {
+   "fragment_id": "157575662",
+   "type": 11,
+   "heading": "Artigo 9.º — Classificação das instalações de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Classificação das instalações de resíduos\n\nPara efeitos do presente decreto-lei, as instalações de resíduos são classificadas na categoria A desde que preencham os critérios previstos no anexo ii do presente decreto-lei, do qual faz parte integrante."
+  },
+  "157771994": {
+   "fragment_id": "157575663",
+   "type": 11,
+   "heading": "Artigo 10.º — Plano de gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Plano de gestão de resíduos\n\n1 - O operador deve elaborar um plano de gestão de resíduos para a minimização, tratamento, valorização e eliminação dos resíduos de extracção, tendo em conta o princípio do desenvolvimento sustentável.\n\n2 - O plano de gestão de resíduos tem como objectivos:\n\na) Evitar ou reduzir a produção de resíduos e a sua perigosidade, em particular mediante a ponderação:\n\ni) Da gestão de resíduos na fase de projecto e na escolha do método a utilizar para a extracção e tratamento dos minerais;\n\nii) Das alterações que os resíduos de extracção possam sofrer devido ao aumento da área superficial e à exposição das condições à superfície;\n\niii) Da reposição dos resíduos de extracção nos vazios de escavação, depois da extracção do mineral, desde que seja viável em termos técnicos e económicos e no respeito pelo ambiente;\n\niv) Da reposição do solo superficial, depois do encerramento da instalação de resíduos, ou, se tal não for exequível, da reutilização do solo superficial noutro local;\n\nv) Da utilização de substâncias menos perigosas no tratamento dos recursos minerais;\n\nb) Promover a valorização dos resíduos de extracção através da reciclagem, reutilização ou recuperação dos mesmos, com respeito pelo ambiente;\n\nc) Garantir a eliminação segura dos resíduos de extracção no curto e no longo prazo, tendo particularmente em conta, durante a fase de projecto, o modelo de gestão a observar durante o funcionamento e no pós-encerramento da instalação de resíduos, privilegiando um projecto que cumulativamente:\n\ni) Requeira pouca e, em última instância, nenhuma monitorização, controlo e gestão da instalação de resíduos após o seu encerramento;\n\nii) Evite ou, pelo menos, minimize qualquer efeito negativo a longo prazo, designadamente, imputável à migração de poluentes aquáticos ou de poluentes transportados pelo ar provenientes da instalação de resíduos;\n\niii) Garanta a estabilidade geotécnica a longo prazo de quaisquer barragens ou escombreiras situadas em plano superior ao da superfície do terreno preexistente.\n\n3 - O plano de gestão de resíduos deve conter informações suficientes para que a entidade licenciadora possa avaliar a capacidade do modelo de gestão de resíduos de extracção e do operador para cumprir os objectivos do plano previstos no número anterior.\n\n4 - O plano de gestão de resíduos deve ainda evidenciar o cumprimento das obrigações que decorrem do presente decreto-lei para o operador e incluir, pelo menos, os seguintes elementos:\n\na) A classificação proposta para a instalação, de acordo com os critérios estabelecidos no anexo ii:\n\ni) Para instalação de resíduos da categoria A, o operador deve apresentar os elementos necessários para dar cumprimento aos objectivos estabelecidos no artigo 15.º;\n\nii) Sempre que se trate de uma instalação não pertencente à categoria A, o operador deve identificar os potenciais perigos;\n\nb) Uma caracterização dos resíduos nos termos do anexo iii ao presente decreto-lei, do qual faz parte integrante, e uma estimativa das quantidades totais de resíduos de extracção que são produzidas durante a fase de funcionamento;\n\nc) Uma descrição da operação produtora desses resíduos e de quaisquer tratamentos subsequentes a que os mesmos sejam sujeitos;\n\nd) Uma descrição do modo como o ambiente e a saúde humana são susceptíveis de ser negativamente afectados pelo depósito dos resíduos, bem como das medidas preventivas a tomar, a fim de minimizar o impacto ambiental e na saúde humana durante o funcionamento e na fase de pós-encerramento, incluindo os aspectos referidos nos artigos 11.º a 13.º;\n\ne) Os procedimentos de controlo e monitorização propostos nos termos do n.º 1 do artigo 12.º e do artigo 40.º, quando aplicável;\n\nf) O plano proposto para o encerramento, incluindo a reabilitação, os procedimentos pós-encerramento e as acções de monitorização, nos termos do artigo 13.º, e os respectivos encargos financeiros;\n\ng) Medidas destinadas a evitar a deterioração do estado das águas e a prevenir e minimizar a poluição do ar e dos solos, em aplicação do artigo 11.º;\n\nh) Estudo geológico e hidrogeológico da área de influência da instalação de resíduos, com a indicação da permeabilidade e resistência mecânica das formações, da rede hidrográfica e do sistema de circulação das águas subterrâneas;\n\ni) Uma justificação do modo como a opção e o método escolhidos nos termos da subalínea i) da alínea a) do n.º 2 satisfazem os objectivos do plano de gestão de resíduos estabelecido.\n\n5 - O plano de gestão de resíduos é obrigatoriamente revisto de cinco em cinco anos.\n\n6 - As alterações substanciais da instalação de resíduos ou dos resíduos depositados determinam uma alteração ao plano de gestão de resíduos.\n\n7 - Qualquer alteração do plano de gestão de resíduos é obrigatoriamente comunicada à entidade licenciadora."
+  },
+  "157771995": {
+   "fragment_id": "157575664",
+   "type": 1,
+   "heading": "Capítulo II — Construção, exploração e encerramento de instalações de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Construção, exploração e encerramento de instalações de resíduos"
+  },
+  "157771996": {
+   "fragment_id": "157575665",
+   "type": 11,
+   "heading": "Artigo 11.º — Construção de instalações de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Construção de instalações de resíduos\n\n1 - Na fase de concepção e construção, o operador deve garantir que a instalação de resíduos:\n\na) Possui uma localização adequada, nomeadamente no que se refere a factores geológicos, hidrológicos, hidrogeológicos, sísmicos e geotécnicos e paisagísticos;\n\nb) É concebida de modo a satisfazer as condições necessárias para:\n\ni) Prevenir, a curto e a longo prazo, a segurança de pessoas e bens, a poluição do solo, do ar e das águas subterrâneas e superficiais, tendo especialmente em conta o disposto na Lei n.º 58/2005, de 29 de Dezembro;\n\nii) Garantir uma recolha eficiente das águas contaminadas e dos lixiviados;\n\niii) Reduzir, tanto quanto tecnicamente possível e economicamente viável, a erosão causada pelas águas e pelo vento.\n\n2 - Para efeitos do disposto no número anterior, o operador deve garantir a adopção das medidas necessárias para:\n\na) Avaliar o potencial de produção de lixiviados pelos resíduos depositados, incluindo o teor de contaminantes dos lixiviados, durante a fase de funcionamento e no pós-encerramento da instalação, e determinar o balanço hídrico da instalação de resíduos;\n\nb) Evitar ou minimizar a produção de lixiviados e a contaminação, pelos resíduos, das águas superficiais ou das águas subterrâneas e do solo;\n\nc) Recolher e tratar as águas contaminadas e os lixiviados da instalação, de modo a respeitar as normas para a descarga dos mesmos;\n\nd) Evitar ou reduzir as emissões para a atmosfera;\n\ne) Garantir que sejam asseguradas as condições de segurança contra incêndio nas instalações, de acordo com o disposto na legislação em vigor.\n\n3 - O operador pode ser dispensado, parcial ou totalmente, da adopção das medidas necessárias para garantir o disposto nas alíneas b) e c) do número anterior, caso a entidade licenciadora conclua, em face do caso concreto, tendo em conta o disposto na Lei n.º 58/2005, de 29 de Dezembro, e com base numa avaliação dos riscos ambientais, que a recolha e o tratamento dos lixiviados não são necessários, uma vez que a instalação não constitui um perigo potencial para o solo, para as águas subterrâneas ou para as águas superficiais.\n\n4 - A eliminação de resíduos de extracção, sólidos, líquidos ou lamas, em qualquer massa de água receptora que não tenha sido construída exclusivamente para efeitos de eliminação de resíduos de extracção, depende do cumprimento do disposto na Lei n.º 58/2005, de 29 de Dezembro, e do regime de utilização dos recursos hídricos, aprovado pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio.\n\n5 - A colocação de resíduos nos vazios de escavação, resultantes de extracção à superfície ou subterrânea que venham a ser inundados depois do encerramento, depende da adopção das medidas necessárias para evitar ou minimizar a deterioração do estado da água e a poluição do solo, nos termos do disposto nos n.os 2 e 3, com as devidas adaptações.\n\n6 - A utilização de uma bacia a que esteja associada a presença de cianetos depende da demonstração de que a concentração de cianetos dissociáveis por ácidos fracos na bacia é reduzida ao mínimo possível, com recurso às melhores técnicas disponíveis, e de que a concentração de cianetos dissociáveis por ácidos fracos, no ponto de descarga dos rejeitados da unidade de processamento na bacia, em caso algum excede 10 ppm.\n\n7 - Para efeitos do disposto no número anterior, o operador deve demonstrar, sempre que a entidade licenciadora o solicite, por meio de uma avaliação de riscos, que, tendo em conta as condições específicas do local, não é necessário reduzir mais os limites de concentração."
+  },
+  "157771997": {
+   "fragment_id": "157575666",
+   "type": 11,
+   "heading": "Artigo 12.º — Exploração de instalações de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Exploração de instalações de resíduos\n\n1 - Na fase de exploração da instalação de resíduos, o operador deve garantir que:\n\na) Os planos de monitorização e de inspecção regular à instalação de resíduos são elaborados e executados, sob responsabilidade e supervisão da pessoa competente;\n\nb) A entidade licenciadora e a autoridade de protecção civil territorialmente competente são informadas, no prazo máximo de quarenta e oito horas, de quaisquer ocorrências susceptíveis de afectar a estabilidade da instalação ou de causar efeitos significativos, prejudiciais ao ambiente, demonstrados pelos procedimentos de controlo e monitorização da instalação de resíduos;\n\nc) A entidade licenciadora é informada, no prazo máximo de quarenta e oito horas, de quaisquer ocorrências susceptíveis de afectar os recursos hídricos, que por sua vez informa de imediato a administração da região hidrográfica territorialmente competente;\n\nd) As medidas de correcção necessárias, em caso de resultados indicativos de instabilidade ou contaminação das águas ou do solo, são atempadamente adoptadas;\n\ne) Os registos das acções de monitorização e de inspecção são mantidos até ao encerramento da instalação.\n\n2 - O operador comunica anualmente todos os resultados das acções de monitorização à entidade licenciadora, sob a forma de dados agregados, de modo a demonstrar a observância das condições da licença de exploração e a permitir um melhor conhecimento do comportamento dos resíduos e da instalação de resíduos.\n\n3 - A entidade licenciadora pode, em função dos resultados acima referidos, solicitar a validação dos resultados dos relatórios por um perito independente.\n\n4 - As informações previstas nas alíneas b) e c) do n.º 1 devem ser remetidas através de meios electrónicos."
+  },
+  "157771998": {
+   "fragment_id": "157575667",
+   "type": 11,
+   "heading": "Artigo 13.º — Encerramento e pós-encerramento de instalações de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Encerramento e pós-encerramento de instalações de resíduos\n\n1 - O operador só pode iniciar o procedimento de encerramento da instalação caso ocorra uma das seguintes situações:\n\na) Estarem preenchidas as condições fixadas na licença;\n\nb) Ter solicitado e obtido, junto da entidade licenciadora, autorização para o efeito;\n\nc) Ter sido emitida por iniciativa da entidade licenciadora uma decisão fundamentada nesse sentido.\n\n2 - Uma instalação de resíduos considera-se definitivamente encerrada após a entidade licenciadora ter efectuado uma vistoria final ao local, aprovados todos os relatórios apresentados pelo operador, certificado a reabilitação dos terrenos afectados pela instalação de resíduos e comunicado a aprovação de encerramento ao operador.\n\n3 - O operador é responsável pela manutenção, monitorização, controlo e implementação de medidas correctivas na fase de pós-encerramento, durante o prazo que a entidade licenciadora, atendendo à natureza e à duração do risco, entenda adequado, salvo se esta decidir substituir-se nessas obrigações ao operador.\n\n4 - A entidade licenciadora, com fundamento no cumprimento de exigências ambientais, designadamente as que constam da Lei n.º 58/2005, de 29 de Dezembro, pode ordenar ao operador que, depois do encerramento da instalação de resíduos, controle a estabilidade física e química da instalação e minimize todos os efeitos prejudiciais ao ambiente, em especial no tocante às águas superficiais e às águas subterrâneas, e que, para o efeito:\n\na) Conserve e monitorize todas as estruturas da instalação;\n\nb) Mantenha a aparelhagem de controlo e medição da instalação em permanente estado de utilização;\n\nc) Elabore e implemente uma rede de monitorização de águas subterrâneas, através da instalação de um número mínimo de piezómetros a envolver a instalação;\n\nd) Assegure o funcionamento futuro dessa rede de monitorização de águas subterrâneas e a qualidade dos resultados produzidos e designe um responsável por esse funcionamento;\n\ne) Comunique à entidade licenciadora, à autoridade de protecção civil territorialmente competente e à administração da região hidrográfica territorialmente competente, no prazo máximo de quarenta e oito horas, quaisquer ocorrências susceptíveis de afectar a estabilidade da instalação ou de causar efeitos significativos, prejudiciais ao ambiente, demonstrados pelos procedimentos de controlo e monitorização da instalação de resíduos.\n\n5 - Os canais de transbordo e os evacuadores de cheias devem ser mantidos limpos e desimpedidos.\n\n6 - O operador comunica anualmente todos os resultados das acções de monitorização à entidade licenciadora, sob a forma de dados agregados, de modo a demonstrar a observância das condições da licença de exploração e a permitir um melhor conhecimento do comportamento dos resíduos e da instalação de resíduos.\n\n7 - A entidade licenciadora efectua vistorias regulares à instalação, na fase de pós-encerramento."
+  },
+  "157771999": {
+   "fragment_id": "157575668",
+   "type": 1,
+   "heading": "Capítulo III — Prevenção de acidentes graves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Prevenção de acidentes graves"
+  },
+  "157772000": {
+   "fragment_id": "157575669",
+   "type": 11,
+   "heading": "Artigo 14.º — Instalações de resíduos abrangidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instalações de resíduos abrangidas\n\nO disposto no presente capítulo é aplicável apenas às instalações de resíduos que, cumulativamente:\n\na) Sejam classificadas na categoria A;\n\nb) Não se encontrem abrangidas pelo Decreto-Lei n.º 254/2007, de 12 de Julho."
+  },
+  "157772001": {
+   "fragment_id": "157575670",
+   "type": 11,
+   "heading": "Artigo 15.º — Política de prevenção de acidentes graves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Política de prevenção de acidentes graves\n\n1 - Sem prejuízo do disposto no Decreto-Lei n.º 324/95, de 29 de Novembro, relativo às prescrições mínimas de saúde e segurança a aplicar nas indústrias extractivas por perfuração a céu aberto ou subterrâneas, o operador deve identificar os perigos de acidente grave, bem como assegurar que os aspectos necessários para evitar tais acidentes e a limitação das suas consequências para a saúde humana e para o ambiente, incluindo eventuais impactos transfronteiriços, sejam incorporados ao nível do projecto, da construção, do funcionamento, da manutenção, do encerramento e do pós-encerramento da instalação de resíduos.\n\n2 - Para efeitos do disposto no número anterior, bem como para efeitos do pedido de licenciamento, o operador deve elaborar uma política de prevenção de acidentes graves (PPAG) e implementar um sistema de gestão de segurança (SGS) destinado a aplicá-la, em conformidade com os elementos constantes do anexo iv do presente decreto-lei, do qual faz parte integrante.\n\n3 - O operador designa o responsável pela aplicação e supervisão periódica da política de prevenção de acidentes graves."
+  },
+  "157772002": {
+   "fragment_id": "157575671",
+   "type": 11,
+   "heading": "Artigo 16.º — Plano de emergência interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano de emergência interno\n\n1 - O operador elabora um plano de emergência interno para a instalação de resíduos, de acordo com as orientações fornecidas pela Agência Portuguesa do Ambiente no seu portal electrónico, do qual constam as medidas a tomar no sítio em caso de acidente.\n\n2 - O plano de emergência interno é elaborado tendo em conta os seguintes objectivos:\n\na) Contenção e controlo de acidentes graves e de outros incidentes, de modo a minimizar os seus efeitos, limitando, em especial, os danos causados à saúde humana e ao ambiente;\n\nb) Aplicação das medidas necessárias para a protecção da saúde humana e do ambiente contra os efeitos de acidentes graves e de outros incidentes;\n\nc) Comunicação das informações necessárias ao público e às autoridades competentes;\n\nd) Limpeza, reabilitação e requalificação da área depois de um acidente grave.\n\n3 - O plano de emergência interno é testado por intermédio de simulacros a realizar pelo operador em colaboração com a autoridade de protecção civil territorialmente competente.\n\n4 - O operador deve manter o plano de emergência interno actualizado e deve disponibilizá-lo às autoridades competentes para efeitos de inspecção e fiscalização."
+  },
+  "157772003": {
+   "fragment_id": "157575672",
+   "type": 11,
+   "heading": "Artigo 17.º — Plano de emergência externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Plano de emergência externo\n\n1 - O plano de emergência externo abrange o conjunto de medidas a tomar fora do sítio em caso de acidente.\n\n2 - No pedido de licenciamento da instalação o operador deve fornecer à autoridade de protecção civil territorialmente competente, com base nas orientações aprovadas e divulgadas pela Autoridade Nacional de Protecção Civil, as informações necessárias para a elaboração do plano referido no número anterior.\n\n3 - O plano de emergência externo é elaborado pela autoridade de protecção civil territorialmente competente de acordo com as directivas emitidas pela Comissão Nacional da Protecção Civil, sobre os critérios e normas técnicas de elaboração de planos de emergência, em articulação com o plano de emergência interno.\n\n4 - A elaboração ou a revisão do plano de emergência externo é sujeita a consulta pública, por prazo não inferior a 30 dias, a disponibilizar por meios electrónicos.\n\n5 - A consulta pública é promovida pela autoridade de protecção civil territorialmente competente, que disponibiliza as informações relevantes, estabelece os meios e as formas de participação e integra no plano de emergência externo as observações que se revelem pertinentes.\n\n6 - O plano de emergência externo é revisto, e se necessário actualizado, pela autoridade de protecção civil territorialmente competente de três em três anos ou sempre que se justifique.\n\n7 - Para revisão e actualização do plano de emergência externo, a autoridade de protecção civil territorialmente competente pode solicitar, mediante fundamentação, informação actualizada ao operador, a disponibilizar através de meios electrónicos."
+  },
+  "157772004": {
+   "fragment_id": "157575673",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações em caso de ocorrência de um incidente ou acidente ligeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações em caso de ocorrência de um incidente ou acidente ligeiro\n\nNo caso de ocorrência de um incidente ou acidente ligeiro, o operador, sem prejuízo do disposto nas alíneas b) e c) do n.º 1 do artigo 12.º e na alínea e) do n.º 4 do artigo 13.º, acciona o plano de emergência interno e dá cumprimento às decisões da entidade licenciadora relativas às medidas correctivas a tomar, suportando os respectivos custos."
+  },
+  "157772005": {
+   "fragment_id": "157575674",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações em caso de ocorrência de um acidente grave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações em caso de ocorrência de um acidente grave\n\n1 - Em caso de ocorrência de um acidente grave que envolva uma instalação de resíduos, o operador, sem prejuízo do disposto nas alíneas b) e c) do n.º 1 e do n.º 2 do artigo 12.º e na alínea e) do n.º 4 do artigo 13.º, acciona o seu plano de emergência interno e transmite de imediato à autoridade de protecção civil territorialmente competente, à entidade licenciadora e à Inspecção-Geral do Ambiente e do Ordenamento do Território as informações necessárias para avaliar e minimizar as consequências do acidente para a saúde humana e para avaliar e minimizar a extensão real ou potencial dos danos ambientais.\n\n2 - Quando ocorra um acidente grave que potencialmente afecte outros Estados membros da União Europeia, a entidade licenciadora deve transmitir às autoridades dos outros Estados membros as informações relativas aos planos de emergência internos e externos, com vista à avaliação e minimização das consequências do acidente para a saúde humana e para o ambiente."
+  },
+  "157772006": {
+   "fragment_id": "157772175",
+   "type": 11,
+   "heading": "Artigo 20.º — Disponibilização de informação de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disponibilização de informação de segurança\n\nA autoridade de protecção civil territorialmente competente disponibiliza, permanentemente, por meios electrónicos, as informações sobre as medidas de segurança e as acções a desenvolver em caso de acidente, nas quais se incluem, pelo menos, os elementos referidos no anexo v do presente decreto-lei, do qual faz parte integrante."
+  },
+  "157772007": {
+   "fragment_id": "157772176",
+   "type": 1,
+   "heading": "Capítulo IV — Licenciamento de instalações de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Licenciamento de instalações de resíduos"
+  },
+  "157772008": {
+   "fragment_id": "157772177",
+   "type": 8,
+   "heading": "Secção I — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento"
+  },
+  "157772009": {
+   "fragment_id": "157772178",
+   "type": 11,
+   "heading": "Artigo 21.º — Licenciamento de instalações de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Licenciamento de instalações de resíduos\n\n1 - A construção e a exploração de instalações de resíduos, bem como as alterações substanciais dessas instalações, estão sujeitas a licenciamento nos termos previstos no presente capítulo.\n\n2 - O licenciamento de instalações de resíduos integradas em explorações de depósitos minerais e de massas minerais é integrado no procedimento de licenciamento dessas explorações, nos termos do disposto no artigo 37.º do presente decreto-lei.\n\n3 - O licenciamento de instalações de resíduos nos termos do presente decreto-lei não prejudica a necessidade de obtenção de título de utilização de recursos hídricos, sempre que o mesmo seja exigível nos termos da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de Dezembro, e do regime de utilização dos recursos hídricos, aprovado pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio."
+  },
+  "157772010": {
+   "fragment_id": "157772179",
+   "type": 11,
+   "heading": "Artigo 22.º — Entidades licenciadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entidades licenciadoras\n\nA emissão da licença de instalações de resíduos compete:\n\na) À Direcção-Geral de Energia e Geologia, quando estejam em causa:\n\ni) Instalações de resíduos da categoria A;\n\nii) Instalações de resíduos integradas em explorações de depósitos minerais, autorizadas nos termos do disposto no Decreto-Lei n.º 88/90, de 16 de Março;\n\nb) À direcção regional de economia territorialmente competente, quando estejam em causa instalações de resíduos não compreendidas na alínea anterior."
+  },
+  "157772011": {
+   "fragment_id": "157772180",
+   "type": 11,
+   "heading": "Artigo 23.º — Pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pedido de licenciamento\n\n1 - O pedido de licenciamento da instalação de resíduos é apresentado à entidade licenciadora e instruído nos termos previstos no anexo vi do presente decreto-lei, do qual faz parte integrante.\n\n2 - O pedido de licenciamento deve ser apresentado através de meios electrónicos.\n\n3 - As comunicações entre a entidade licenciadora e o operador, no âmbito do respectivo procedimento, são realizadas por meios electrónicos.\n\n4 - Por opção do operador, os procedimentos a que se refere o n.º 2 do anexo vi podem ser iniciados junto da entidade licenciadora e decorrer em simultâneo com o procedimento de licenciamento da instalação de resíduos a que se refere o presente capítulo."
+  },
+  "157772012": {
+   "fragment_id": "157772181",
+   "type": 11,
+   "heading": "Artigo 24.º — Instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Instrução do pedido\n\n1 - No prazo de 10 dias contado da recepção do pedido, a entidade licenciadora verifica se o mesmo se encontra regularmente instruído, ou seja, com todos os elementos exigidos pelo presente decreto-lei.\n\n2 - Se da verificação do pedido de licença resultar a sua não conformidade com os requisitos legais e regulamentares aplicáveis, a entidade licenciadora:\n\na) Solicita ao operador, por uma única vez, a prestação de informações ou elementos complementares, bem como o aditamento ou a reformulação do pedido, sob pena de indeferimento; ou\n\nb) Indefere liminarmente o pedido, com a consequente extinção do procedimento, se a não conformidade com os requisitos legais e regulamentares for insusceptível de suprimento ou correcção.\n\n3 - A entidade licenciadora pode, no prazo de 10 dias contado da recepção do pedido, e sem prejuízo do disposto na alínea a) do número anterior, convocar o operador para a realização de uma conferência instrutória com vista à prestação de esclarecimentos necessários para a boa decisão do pedido.\n\n4 - No caso previsto na alínea a) do n.º 2, o operador dispõe de um prazo máximo de 45 dias para corrigir ou completar o pedido, sob pena de indeferimento liminar.\n\n5 - No prazo de 10 dias a contar da junção ao processo de elementos adicionais no caso previsto na alínea a) do n.º 2, se subsistir a não conformidade com os condicionalismos legais e regulamentares, a entidade licenciadora indefere liminarmente o pedido.\n\n6 - Caso o pedido de licenciamento não seja indeferido liminarmente ou caso não se verifique a situação referida na alínea a) do n.º 2, o pedido considera-se correctamente instruído."
+  },
+  "157772013": {
+   "fragment_id": "157772182",
+   "type": 11,
+   "heading": "Artigo 25.º — Consultas a entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Consultas a entidades públicas\n\n1 - No prazo de cinco dias a contar da regular instrução do pedido de licença nos termos do artigo anterior, a entidade licenciadora promove a consulta da:\n\na) Agência Portuguesa do Ambiente, quando estiver em causa o licenciamento de instalações de resíduos de categoria A;\n\nb) Comissão de coordenação e desenvolvimento regional territorialmente competente, quando estiver em causa o licenciamento de instalações de resíduos que não seja da categoria A;\n\nc) Administração da região hidrográfica territorialmente competente;\n\nd) Autoridade para as Condições do Trabalho e do delegado de saúde regional, caso não tenham sido consultados no âmbito de outros procedimentos de autorização relativos à instalação.\n\n2 - As entidades consultadas dispõem de 10 dias para requerer, por uma única vez, esclarecimentos ou informações complementares à entidade licenciadora, que por sua vez, no prazo de 5 dias, os solicita ao operador, fixando-lhe prazo para a sua apresentação.\n\n3 - As entidades consultadas devem pronunciar-se no prazo de 45 dias ou de 30 dias, consoante esteja ou não em causa o licenciamento de instalações de resíduos de categoria A, contados da data da recepção do pedido de parecer ou dos esclarecimentos e informações adicionais solicitados nos termos do número anterior.\n\n4 - Os pareceres emitidos pela Agência Portuguesa do Ambiente, comissões de coordenação e desenvolvimento regional e administração da região hidrográfica, nos termos do n.º 1, são vinculativos.\n\n5 - A falta de emissão de parecer nos prazos legalmente previstos equivale à emissão de pronúncia favorável.\n\n6 - O procedimento de consulta a entidades públicas deve ser realizado através de meios electrónicos."
+  },
+  "157772014": {
+   "fragment_id": "157772183",
+   "type": 11,
+   "heading": "Artigo 26.º — Consulta pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Consulta pública\n\n1 - No prazo de cinco dias a contar da regular instrução do pedido de licença, a entidade licenciadora promove a divulgação do pedido de licenciamento, de forma a garantir a informação e a participação do público.\n\n2 - A divulgação do pedido de licenciamento abrange os seguintes elementos:\n\na) Identificação do pedido, do operador e da localização da instalação;\n\nb) Indicação dos elementos constantes no pedido de licença;\n\nc) Locais e data a partir da qual a informação relevante é disponibilizada, bem como os meios de disponibilização;\n\nd) Indicação da autoridade competente para a decisão do pedido de licenciamento, das entidades que podem fornecer informação relevante e das entidades junto das quais é possível apresentar observações ou questões, com indicação dos respectivos prazos;\n\ne) Se aplicável, a declaração de impacto ambiental ou a informação relativa à pendência do procedimento de avaliação de impacto ambiental, se o operador tiver optado pelo decurso dos procedimentos em simultâneo;\n\nf) Se aplicável, o parecer da Agência Portuguesa do Ambiente que ateste a compatibilidade da localização da instalação emitida nos termos do n.º 4 do artigo 5.º do Decreto-Lei n.º 254/2007, de 12 de Julho, ou a informação relativa à pendência do pedido de parecer se o operador tiver optado pelo decurso dos procedimentos em simultâneo;\n\ng) Se aplicável, o relatório de segurança aprovado ou a informação relativa à pendência do pedido de aprovação do relatório de segurança se o operador tiver optado pelo decurso dos procedimentos em simultâneo;\n\nl) Se aplicável, a sujeição do pedido a um procedimento de avaliação de impacto ambiental transfronteiriço ou a consulta entre Estados membros da União Europeia;\n\nm) Se aplicável, indicação de que a licença de exploração da instalação depende da emissão da licença ambiental.\n\n2 - Os elementos referidos no número anterior, bem como o período e condições de consulta pública, devem ser publicitados por meios electrónicos e ainda afixados na sede do município da área de localização da instalação de resíduos.\n\n3 - O período de consulta é de 15 dias, durante os quais o público interessado pode apresentar junto da entidade licenciadora observações e sugestões.\n\n4 - Quando estejam em causa instalações de resíduos sujeitas ao procedimento de avaliação de impacto ambiental em que o operador tenha optado pelo decurso dos procedimentos em simultâneo ou no caso das instalações de resíduos sujeitas ao procedimento de licença ambiental em que as consultas públicas decorram em simultâneo, aplicam-se os prazos mais dilatados previstos na legislação aplicável.\n\n5 - Os resultados da participação do público devem ser tidos em consideração pela entidade licenciadora na decisão do pedido de licenciamento."
+  },
+  "157772015": {
+   "fragment_id": "157772184",
+   "type": 11,
+   "heading": "Artigo 27.º — Consulta entre Estados membros da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Consulta entre Estados membros da União Europeia\n\n1 - Sempre que a Direcção-Geral de Energia e Geologia verifique que a exploração de uma instalação de resíduos da categoria A pode ter efeitos prejudiciais significativos no ambiente e que possa implicar riscos para a saúde humana noutro Estado membro, deve transmitir à respectiva entidade competente a informação constante do pedido de licenciamento da instalação de resíduos, de modo a permitir a participação do público desse Estado membro antes da tomada da decisão do pedido.\n\n2 - Sempre que a autoridade competente de um Estado membro potencialmente afectado por um projecto de instalação de resíduos manifeste formalmente a intenção de participar nesse procedimento, deve ser-lhe facultada a informação constante do pedido de licenciamento indicada no n.º 2 do artigo anterior.\n\n3 - O prazo da consulta é de 15 dias.\n\n4 - Os resultados das consultas referidas nos números anteriores são considerados na tomada de decisão sobre o pedido de licença de uma instalação de resíduos.\n\n5 - A entidade licenciadora disponibiliza a informação relativa à decisão proferida no procedimento de licenciamento bem como as informações referidas no artigo 42.º, sempre que solicitadas pelo Estado membro que tenha sido consultado.\n\n6 - Sempre que a entidade licenciadora tenha conhecimento de que uma instalação de resíduos localizada no território de outro Estado membro possa ter efeitos nocivos e significativos no ambiente do território nacional, deve solicitar e analisar a informação publicitada no âmbito do procedimento de consulta pública efectuado nesse Estado.\n\n7 - A entidade licenciadora analisa e coloca à disposição do público, nos termos e nos prazos fixados no presente artigo, a informação remetida pelos demais Estados membros.\n\n8 - A entidade licenciadora transmite os resultados da sua análise e da participação do público interessado à autoridade competente do Estado membro onde decorre o procedimento de licenciamento.\n\n9 - O procedimento de consulta previsto no presente artigo deve ser realizado através de meios electrónicos."
+  },
+  "157772016": {
+   "fragment_id": "157772185",
+   "type": 11,
+   "heading": "Artigo 28.º — Aprovação do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Aprovação do projecto\n\n1 - A entidade licenciadora comunica ao operador a decisão de aprovação do projecto da instalação de resíduos, no prazo de 20 dias contado a partir de um dos seguintes factos, consoante o que ocorra em último lugar:\n\na) Da recepção do parecer da entidade consultada;\n\nb) Do termo final do prazo de consulta do público.\n\n2 - Determinam o indeferimento do projecto da instalação de resíduos:\n\na) A desconformidade do projecto com os princípios gerais da gestão de resíduos ou com os planos nacionais de gestão de resíduos;\n\nb) O não cumprimento das normas técnicas previstas no presente decreto-lei;\n\nc) A existência de declaração de impacto ambiental desfavorável, de parecer desfavorável relativo à compatibilidade da localização ou de decisão desfavorável ao relatório de segurança, quando os procedimentos decorram em simultâneo nos termos do n.º 4 do artigo 23.º\n\n3 - Caso o operador tenha optado pela aplicação do disposto no n.º 4 do artigo 23.º, a decisão de aprovação do projecto da instalação de resíduos apenas pode ter lugar após a:\n\na) Emissão de declaração de impacto ambiental favorável ou favorável condicionada, a emissão de decisão de dispensa de procedimento de avaliação de impacto ambiental, ou a existência de deferimento tácito, nos termos previstos no Decreto-Lei n.º 69/2000, de 3 de Maio;\n\nb) Emissão da declaração de compatibilidade da localização da instalação e a aprovação do relatório de segurança nos termos previstos no Decreto-Lei n.º 254/2007, de 12 de Julho.\n\n4 - A decisão de aprovação do projecto da instalação de resíduos inclui as condições a observar pelo operador na execução da obra, bem como a aprovação do plano de gestão de resíduos\n\n5 - A decisão de aprovação do projecto da instalação de resíduos é válida por um período de dois anos, prorrogável uma única vez, por igual período, a pedido do operador, com fundamento em motivo que não lhe seja imputável.\n\n6 - São nulos os actos que autorizem ou licenciem a execução de um projecto relativo à instalação e exploração de uma instalação de resíduos sem que tenha sido previamente emitida a decisão de aprovação do projecto a que se refere o presente artigo."
+  },
+  "157772017": {
+   "fragment_id": "157772186",
+   "type": 11,
+   "heading": "Artigo 29.º — Vistoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Vistoria\n\n1 - A emissão da licença depende da realização de uma vistoria, na qual participam a entidade licenciadora e as entidades consultadas nos termos do disposto no artigo 25.º\n\n2 - O operador solicita à entidade licenciadora a realização de uma vistoria com uma antecedência mínima de 40 dias relativamente à data do início da exploração da instalação de resíduos.\n\n3 - O pedido de vistoria é instruído com:\n\na) Elementos comprovativos do cumprimento das condições impostas na decisão de aprovação do projecto;\n\nb) Comprovativo do pagamento da taxa para emissão da licença;\n\nc) Termo de responsabilidade da pessoa competente, no qual esta declara que a instalação está concluída e preparada para iniciar a actividade, de acordo com o projecto aprovado e em observância das condições impostas na licença.\n\n4 - A vistoria efectua-se no prazo de 45 dias a contar da data da apresentação do pedido, sendo o operador notificado pela entidade licenciadora para o efeito com uma antecedência mínima de 10 dias.\n\n5 - Decorrido o prazo previsto no número anterior para a realização da vistoria sem que esta seja realizada por motivo não imputável ao operador, a entidade licenciadora é obrigada a proceder à devolução das taxas pagas pelo operador.\n\n6 - A entidade licenciadora pode requisitar a intervenção de outros técnicos, peritos ou entidades acreditadas, tendo em vista, nomeadamente, a verificação das condições da instalação ou do cumprimento das eventuais condições impostas em vistoria anterior.\n\n7 - Os resultados da vistoria são registados em auto, assinado pelos representantes da entidade licenciadora e das entidades intervenientes, e de que é entregue cópia ao operador, do qual constam as desconformidades da instalação com o projecto aprovado e as medidas de correcção dessas desconformidades."
+  },
+  "157772018": {
+   "fragment_id": "157772187",
+   "type": 11,
+   "heading": "Artigo 30.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Decisão final\n\n1 - A entidade licenciadora profere uma decisão sobre o pedido de licenciamento da instalação de resíduos no prazo de 10 dias contado da data da realização da vistoria.\n\n2 - A entidade licenciadora defere o pedido de licenciamento caso o auto de vistoria seja favorável ao início da exploração da instalação de resíduos.\n\n3 - O pedido de licenciamento da instalação de resíduos é indeferido, designadamente, nos seguintes casos:\n\na) Desconformidade da infra-estrutura com o projecto aprovado à qual o auto de vistoria atribua relevo suficiente para a não atribuição da licença;\n\nb) Indeferimento do pedido de licença ambiental, quando exigível.\n\n4 - No caso previsto na alínea a) do número anterior, o operador pode requerer, no prazo máximo de seis meses, a realização de nova vistoria, sendo o procedimento reaberto para efeitos de reavaliação do pedido de licença da instalação de resíduos, aplicando-se o disposto no artigo anterior.\n\n5 - A entidade licenciadora comunica, no prazo de cinco dias, a decisão ao operador, às entidades consultadas nos termos do artigo 25.º e à câmara municipal territorialmente competente."
+  },
+  "157772019": {
+   "fragment_id": "157772188",
+   "type": 11,
+   "heading": "Artigo 31.º — Garantia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Garantia financeira\n\n1 - Após a notificação do deferimento do pedido de licenciamento da instalação de resíduos, o operador presta uma garantia financeira, em benefício da entidade licenciadora, destinada a garantir o integral cumprimento das condições impostas na licença, incluindo as relativas à fase de pós-encerramento e à reabilitação dos solos afectados pela instalação de resíduos, de acordo com o plano de gestão de resíduos.\n\n2 - A garantia é contratada com uma instituição autorizada pelo Banco de Portugal e tem carácter autónomo, incondicional, irrevogável, interpelável à primeira solicitação e liquidável no prazo de três dias.\n\n3 - A entidade licenciadora ordena o reforço da garantia sempre que a mesma se revele insuficiente, incluindo por motivos de execução total ou parcial, para garantir o integral cumprimento da licença.\n\n4 - A garantia pode ser total ou parcialmente cancelada por comunicação escrita dirigida à instituição emitente pela entidade licenciadora.\n\n5 - O montante da garantia financeira é determinado pela entidade licenciadora, com base:\n\na) No impacto provável da instalação de resíduos no ambiente e na saúde humana, atendendo, em especial, à categoria da instalação, às características dos resíduos e ao tratamento do solo afectado pela instalação, de modo a restaurá-lo para um estado satisfatório, particularmente no aspecto do uso apropriado e benéfico do mesmo;\n\nb) Na definição da reabilitação, incluindo a pós-utilização da instalação de resíduos, atendendo nomeadamente ao teor do plano de gestão de resíduos e, em especial, do plano proposto para o encerramento;\n\nc) Nas normas e objectivos ambientais aplicáveis, incluindo a estabilidade física da instalação de resíduos, as normas de qualidade mínimas para os solos e os recursos hídricos e as taxas máximas de libertação de contaminantes;\n\nd) Nas medidas técnicas necessárias para a realização de objectivos ambientais, nomeadamente as medidas que visam garantir a estabilidade da instalação de resíduos e limitar os danos ambientais; e) Nas medidas necessárias para a realização de objectivos durante e após o encerramento, incluindo a reabilitação dos solos, o tratamento e a monitorização pós-encerramento, caso seja necessário, e, se relevante, medidas para reabilitação da biodiversidade;\n\nf) Na escala de tempo estimada do impacto e das medidas de atenuação necessárias;\n\ng) Na avaliação, a efectuar por terceiros independentes e devidamente qualificados, dos custos necessários para assegurar a reabilitação dos solos, o encerramento e o pós-encerramento, incluindo a possível monitorização pós-encerramento ou o tratamento de contaminantes e tendo em conta a possibilidade de encerramento não programado ou prematuro.\n\n6 - O montante da garantia é revisto com uma periodicidade de cinco anos, podendo ser reduzido quando se verifiquem alterações substanciais nas operações ou nos trabalhos de reabilitação cuja realização seja necessária nos terrenos afectados pela instalação de resíduos, de acordo com o plano de gestão de resíduos.\n\n7 - Sempre que a entidade licenciadora aprove o encerramento definitivo, procede ao cancelamento parcial da garantia financeira, salvaguardando a manutenção do montante necessário para garantir o cumprimento das obrigações imputáveis ao operador na fase de pós-encerramento previstas no artigo 13.º"
+  },
+  "157772020": {
+   "fragment_id": "157772189",
+   "type": 11,
+   "heading": "Artigo 32.º — Alvará da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Alvará da licença\n\n1 - A licença da instalação de resíduos é titulada por alvará.\n\n2 - O alvará de licença é emitido pela entidade licenciadora após a prestação da garantia financeira pelo operador, de acordo com o modelo a aprovar por portaria dos membros do Governo responsáveis pelas áreas do ambiente e da economia.\n\n3 - O alvará de licença é enviado ao operador no prazo de cinco dias contado da recepção do comprovativo da prestação da garantia financeira.\n\n4 - Devem constar do alvará de licença, designadamente, as seguintes informações:\n\na) A classificação da instalação;\n\nb) As condições a satisfazer para a preparação da instalação, para as operações de deposição e processos de acompanhamento e controlo na fase de exploração, incluindo os planos de monitorização e os planos de emergência, bem como os requisitos relativos às operações de encerramento e de pós-encerramento;\n\nc) A obrigação de apresentação anual do relatório de actividades à entidade licenciadora, nos termos da alínea b) do n.º 1 do artigo 52.º do Decreto-Lei n.º 88/90, de 16 de Março, e do n.º 2 do artigo 51.º do Decreto-Lei n.º 270/2001, de 6 de Outubro, alterado pelo Decreto-Lei n.º 340/2007, de 12 de Outubro;\n\nd) A obrigação de apresentação anual do relatório de actividade, até final de Abril do ano seguinte, para as instalações de resíduos tituladas por licenciamento específico, nos termos do artigo 37.º"
+  },
+  "157772021": {
+   "fragment_id": "157772190",
+   "type": 8,
+   "heading": "Secção II — Vicissitudes da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Vicissitudes da licença"
+  },
+  "157772022": {
+   "fragment_id": "157772191",
+   "type": 11,
+   "heading": "Artigo 33.º — Alterações da licença de instalação de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Alterações da licença de instalação de resíduos\n\n1 - O operador é obrigado a comunicar à entidade licenciadora, qualquer alteração que pretenda introduzir na instalação de resíduos antes de iniciar a respectiva execução.\n\n2 - As alterações substanciais da instalação de resíduos estão sujeitas a licenciamento nos termos do capítulo iv do presente decreto-lei, ficando o operador dispensado de apresentar com o pedido a que se refere o artigo 23.º os documentos que hajam instruído o anterior pedido de licença e que se mantenham válidos.\n\n3 - O licenciamento das alterações substanciais determina a revisão da licença de instalação de resíduos, adoptando-se para o efeito o procedimento previsto nos artigos 23.º a 32.º do presente decreto-lei.\n\n4 - As alterações não substanciais carecem apenas da realização das consultas nos termos previstos no artigo 25.º, sendo averbadas, em caso de decisão favorável da entidade licenciadora, à licença da instalação de resíduos.\n\n5 - O presente artigo é aplicável, com as devidas adaptações, à introdução de alterações ao projecto aprovado durante a sua execução."
+  },
+  "157772023": {
+   "fragment_id": "157772192",
+   "type": 11,
+   "heading": "Artigo 34.º — Reavaliação e actualização da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Reavaliação e actualização da licença\n\n1 - A entidade licenciadora deve reavaliar periodicamente as condições da licença, com uma periodicidade não superior a três anos, atendendo aos resultados das acções de monitorização comunicadas pelo operador, aos resultados de vistorias ou inspecções realizadas nos termos do presente decreto-lei ou, ainda, à evolução das melhores técnicas disponíveis.\n\n2 - A entidade licenciadora deve actualizar a licença da instalação de resíduos em função dos resultados da reavaliação prevista no número anterior."
+  },
+  "157772024": {
+   "fragment_id": "157772193",
+   "type": 11,
+   "heading": "Artigo 35.º — Transmissão da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transmissão da licença\n\n1 - A licença da instalação de resíduos pode ser transmitida, mediante apresentação de requerimento pelo transmissário à entidade licenciadora, instruído com os seguintes documentos:\n\na) Declaração do transmissário, na qual se compromete a explorar a instalação de resíduos nos termos da licença e de acordo com as disposições legais e regulamentares aplicáveis;\n\nb) A identificação da pessoa competente;\n\nc) Documento comprovativo da prestação da garantia financeira nos mesmos termos em que o transmitente estava obrigado.\n\n2 - A entidade licenciadora decide o pedido de transmissão no prazo de 15 dias, equivalendo a falta de decisão a deferimento tácito.\n\n3 - A transmissão é averbada na licença."
+  },
+  "157772025": {
+   "fragment_id": "157772194",
+   "type": 8,
+   "heading": "Secção III — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Informação"
+  },
+  "157772026": {
+   "fragment_id": "157772195",
+   "type": 11,
+   "heading": "Artigo 36.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Divulgação de informação\n\nA entidade licenciadora, sem prejuízo do disposto na Lei n.º 19/2006, de 12 de Junho, que regula o acesso à informação sobre ambiente, procede à divulgação, através de meios electrónicos, das seguintes informações:\n\na) A decisão proferida no âmbito dos procedimentos de licenciamento da instalação de resíduos e respectivas actualizações;\n\nb) A fundamentação da decisão, tendo em conta as observações e sugestões apresentadas pelo público interessado, nos termos do disposto no artigo 26.º, e as informações relevantes sobre o procedimento de participação do público;\n\nc) Os resultados das monitorizações das emissões que lhe tenham sido comunicadas pelo operador, nos termos da licença;\n\nd) Outras informações relevantes, tais como as conclusões dos principais relatórios e pareceres que sejam apresentados e as informações relevantes para a decisão que não tenham sido disponibilizadas nos termos do disposto nas alíneas anteriores."
+  },
+  "157772027": {
+   "fragment_id": "157772196",
+   "type": 1,
+   "heading": "Capítulo V — Regimes especiais de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regimes especiais de licenciamento"
+  },
+  "157772028": {
+   "fragment_id": "157772197",
+   "type": 11,
+   "heading": "Artigo 37.º — Instalações de resíduos integradas em explorações de depósitos minerais e de massas minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Instalações de resíduos integradas em explorações de depósitos minerais e de massas minerais\n\n1 - Sempre que a exploração dos depósitos minerais e de massas minerais, desenvolvida nos termos do disposto, respectivamente, no Decreto-Lei n.º 88/90, de 16 de Março, e no Decreto-Lei n.º 270/2001, de 6 de Outubro, na sua redacção actual, integre instalações de resíduos, a exploração destas instalações está dependente da aprovação de um plano de lavra ou de um plano de pedreira, consoante o caso, pela entidade licenciadora.\n\n2 - Nos casos previstos no número anterior, o plano de lavra ou o plano de pedreira, consoante o caso, inclui o projecto de construção, exploração e encerramento da instalação de resíduos e o plano de gestão de resíduos, os quais são aprovados com observância do disposto no presente decreto-lei.\n\n3 - A decisão de aprovação do plano de lavra ou do plano de pedreira substitui a decisão de aprovação do projecto da instalação de resíduos, sem prejuízo da observância do disposto no capítulo iv do presente decreto-lei.\n\n4 - Quando o plano de lavra ou o plano de pedreira não preveja a construção, exploração ou encerramento da instalação de resíduos, esta é objecto de licenciamento nos termos do capítulo iv do presente decreto-lei."
+  },
+  "157772029": {
+   "fragment_id": "157772198",
+   "type": 11,
+   "heading": "Artigo 38.º — Gestão de resíduos inertes e de solo não poluído",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Gestão de resíduos inertes e de solo não poluído\n\n1 - As instalações de resíduos não classificadas na categoria A, exclusivamente afectas à gestão de resíduos inertes e ou à gestão de solo não poluído resultantes da prospecção, extracção, tratamento e armazenagem de recursos minerais e da exploração de pedreiras ou de resíduos resultantes da extracção, tratamento e armazenagem de turfa, não estão sujeitas ao disposto no capítulo iv, no n.º 6 do artigo 11.º, nas alíneas b) e c) do n.º 1 do artigo 12.º, no artigo 13.º, no artigo 18.º, no artigo 50.º e na alínea d) do n.º 1 do anexo vi.\n\n2 - Os operadores das instalações referidas no número anterior devem apresentar à entidade licenciadora, para aprovação, o plano de gestão de resíduos previsto no artigo 10.º\n\n3 - A entidade licenciadora remete o plano de gestão de resíduos, para emissão de parecer vinculativo, à comissão de coordenação e desenvolvimento regional territorialmente competente, a qual dispõe de 10 dias para requerer, por uma única vez, esclarecimentos ou informações complementares.\n\n4 - A comissão de coordenação e desenvolvimento regional emite o parecer no prazo de 15 dias contado da data de recepção do plano de gestão de resíduos ou, caso tenham sido solicitados, da recepção dos esclarecimentos ou informações complementares, equivalendo a falta de emissão de parecer neste prazo a parecer favorável.\n\n5 - A entidade licenciadora decide sobre a aprovação do plano de gestão de resíduos no prazo de 15 dias contado da recepção do parecer emitido pela comissão de coordenação e desenvolvimento regional ou do termo final do prazo para a emissão desse parecer, equivalendo a falta de decisão neste prazo a decisão favorável."
+  },
+  "157772030": {
+   "fragment_id": "157772199",
+   "type": 11,
+   "heading": "Artigo 39.º — Redução ou supressão de requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Redução ou supressão de requisitos\n\n1 - Por solicitação do operador e em situações especiais devidamente fundamentadas, a entidade licenciadora pode dispensar o operador do cumprimento de requisitos respeitante ao depósito de resíduos não perigosos provenientes da prospecção de recursos minerais, com a excepção de óleos e evaporitos que não sejam gesso nem anidrite, bem como ao depósito de solo não poluído e de resíduos resultantes da extracção, tratamento e armazenagem de turfa, desde que se certifique do cumprimento do disposto nos artigos 5.º e 6.º\n\n2 - Por solicitação do operador e em situações especiais devidamente fundamentadas, a entidade licenciadora pode dispensar as operações de gestão de resíduos não inertes e não perigosos do cumprimento do disposto no artigo 27.º, no artigo 31.º, no n.º 6 do artigo 11.º, nas alíneas b) e c) do n.º 1 do artigo 12.º, nos n.os 4 e 5 do artigo 13.º e no artigo 18.º, a menos que estes sejam depositados numa instalação de resíduos da categoria A.\n\n3 - A decisão de dispensa prevista no número anterior deve ser emitida em sede de instrução do pedido de licenciamento da instalação de resíduos e deve acompanhar, com a respectiva fundamentação, o pedido de pareceres previstos no n.º 1 do artigo 25.º"
+  },
+  "157772031": {
+   "fragment_id": "157772200",
+   "type": 11,
+   "heading": "Artigo 40.º — Vazios de escavação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Vazios de escavação\n\n1 - A reposição de resíduos de extracção nos vazios de escavação resultantes da extracção subterrânea, para fins de reabilitação, de estabilização geomecânica ou como requisito da sequência do método de exploração, e a reposição de resíduos de extracção nos vazios de escavação resultantes da extracção a céu aberto, para fins de reabilitação, de modelação topográfica do local e de construção, estão sujeitas ao disposto no presente artigo.\n\n2 - A reposição de resíduos de extracção nos vazios de escavação deve constar do plano de lavra ou do plano de pedreira, consoante se trate de exploração dos depósitos minerais ou de massas minerais, desenvolvida nos termos do disposto no Decreto-Lei n.º 88/90, de 16 de Março, e no Decreto-Lei n.º 270/2001, na sua redacção actual, respectivamente.\n\n3 - Para além do disposto no artigo 27.º do Decreto-Lei n.º 88/90, de 16 de Março, e no artigo 30.º do Decreto-Lei n.º 270/2001, de 6 de Outubro, alterado pelo Decreto-Lei n.º 340/2007, de 12 de Outubro, o plano de lavra ou o plano de pedreira a que se alude no número anterior não pode ser aprovado sem que dele constem as medidas necessárias para:\n\na) Garantir a estabilidade dos resíduos de extracção, nos termos do disposto na alínea d) do n.º 1 do artigo 12.º, com as necessárias adaptações;\n\nb) Evitar a poluição do solo, das águas superficiais e das águas subterrâneas, nos termos do disposto no artigo 11.º, com as necessárias adaptações;\n\nc) Garantir a monitorização dos resíduos de extracção e dos vazios de escavação, nos termos dos n.os 3 a 5 do artigo 13.º, com as necessárias adaptações.\n\n4 - A utilização de resíduos inertes que não sejam resíduos de extracção para encher vazios de escavação só pode ter lugar no âmbito de plano ambiental e de recuperação paisagística aprovado nos termos do Decreto-Lei n.º 270/2001, de 6 de Outubro, e depende da verificação das condições técnicas previstas no regime jurídico da deposição de resíduos em aterro.\n\n5 - A utilização de resíduos não inertes que não sejam resíduos de extracção para encher vazios de escavação depende da verificação do disposto no regime jurídico da deposição de resíduos em aterro."
+  },
+  "157772032": {
+   "fragment_id": "157772201",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fiscalização"
+  },
+  "157772033": {
+   "fragment_id": "157772202",
+   "type": 11,
+   "heading": "Artigo 41.º — Fiscalização e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Fiscalização e inspecção\n\n1 - A verificação do cumprimento do disposto no presente decreto-lei pode revestir a forma de:\n\na) Fiscalização, a desenvolver de forma sistemática pelas autoridades competentes, no cumprimento da obrigação geral de vigilância que lhes está cometida, e de forma pontual em função das queixas e denúncias recebidas;\n\nb) Inspecção, a efectuar pelas entidades com competência para o efeito, de forma casuística e aleatória ou em execução de um plano de inspecção previamente aprovado, ou ainda no apuramento do alcance e das responsabilidades por situações que afectem os valores a proteger pelo presente decreto-lei.\n\n2 - A fiscalização compete, no âmbito das respectivas competências, às comissões de coordenação e desenvolvimento regional às administrações da regiões hidrográficas, à Direcção-Geral de Energia e Geologia e à Autoridade de Segurança Alimentar e Económica.\n\n3 - A inspecção compete à Inspecção-Geral do Ambiente e do Ordenamento do Território.\n\n4 - Para efeitos do disposto no número anterior, as entidades licenciadoras remetem à Inspecção-Geral do Ambiente e do Ordenamento do Território a informação actualizada, designadamente, a prevista no artigo 42.º\n\n5 - O disposto nos números anteriores não prejudica o exercício dos poderes de fiscalização e polícia que, em razão da matéria, competem às demais autoridades públicas."
+  },
+  "157772034": {
+   "fragment_id": "157772203",
+   "type": 11,
+   "heading": "Artigo 42.º — Registo de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Registo de informação\n\n1 - O operador deve organizar e manter actualizado um registo informático com todos os elementos relativos ao processo de licenciamento, incluindo quaisquer alterações, independentemente de essas alterações estarem ou não sujeitas a licenciamento, e os resultados de monitorização e controlo da instalação de resíduos.\n\n2 - O operador deve manter registos actualizados de todas as operações de gestão de resíduos e a disponibilizá-los às autoridades competentes para efeitos de inspecção e fiscalização."
+  },
+  "157772035": {
+   "fragment_id": "157772204",
+   "type": 1,
+   "heading": "Capítulo VII — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Regime sancionatório"
+  },
+  "157772036": {
+   "fragment_id": "157772205",
+   "type": 11,
+   "heading": "Artigo 43.º — Contra-ordenações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Contra-ordenações gerais\n\n1 - Constitui contra-ordenação, punível nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, na sua redacção actual, a prática dos seguintes actos:\n\na) Incumprimento do dever de disponibilização das informações necessárias para a elaboração do plano de emergência externo, em violação do disposto no n.º 2 do artigo 17.º;\n\nb) Incumprimento da obrigação de entrega do relatório de actividades no prazo previsto para o efeito, em violação do disposto na alínea d) do n.º 4 do artigo 32.º;\n\nc) Inexistência ou deficiente organização do processo relativo ao licenciamento, em violação do disposto no n.º 1 do artigo 42.º;\n\nd) A transmissão da licença sem decisão, expressa ou tácita, da entidade licenciadora em violação do disposto no n.º 2 do artigo 35.º\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "157772037": {
+   "fragment_id": "157772206",
+   "type": 11,
+   "heading": "Artigo 44.º — Contra-ordenações ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Contra-ordenações ambientais\n\n1 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual, a prática dos seguintes actos:\n\na) Incumprimento do dever de comunicação de alterações ao plano de gestão de resíduos, em violação do disposto no n.º 7 do artigo 10.º;\n\nb) Incumprimento dos deveres de elaboração e execução dos planos de monitorização e de inspecção, nos termos da alínea a) do n.º 1 do artigo 12.º;\n\nc) Incumprimento da obrigação de comunicação de ocorrências, em violação do disposto nas alíneas b) e c) do n.º 1 do artigo 12.º;\n\nd) Incumprimento da obrigação de comunicação dos resultados de monitorização, em violação do disposto no n.º 2 do artigo 12.º e no n.º 6 do artigo 13.º;\n\ne) Incumprimento do dever de designação de um responsável pela aplicação e supervisão periódica do plano de prevenção de acidentes graves, em violação do disposto no n.º 3 do artigo 15.º;\n\nf) Incumprimento das obrigações relativas à existência dos registos das operações de resíduos e de disponibilização desses registos às autoridades competentes, por violação do disposto no n.º 2 do artigo 42.º\n\n2 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual, a prática dos seguintes actos:\n\na) Incumprimento do plano de gestão de resíduos previsto no artigo 10.º;\n\nb) Incumprimento do dever de adopção das medidas de correcção, em violação do disposto na alínea d) do n.º 1 do artigo 12.º;\n\nc) O encerramento de uma instalação de resíduos, em violação do disposto no n.º 1 do artigo 13.º;\n\nd) Incumprimento das obrigações previstas nos n.os 3 a 5 do artigo 13.º;\n\ne) Incumprimento do dever de elaborar uma política de prevenção de acidentes graves, bem como a implementação do sistema de gestão de segurança, em violação do disposto no n.º 2 do artigo 15.º;\n\nf) Incumprimento do dever de elaborar um plano de emergência interno, em violação do disposto no n.º 1 do artigo 16.º;\n\ng) Incumprimento dos deveres estipulados na sequência da ocorrência de um incidente ou acidente ligeiro, em violação do disposto no artigo 18.º;\n\nh) Incumprimento do dever de comunicação de qualquer alteração da instalação de resíduos, em violação do disposto no n.º 1 do artigo 33.º\n\n3 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual, a prática dos seguintes actos:\n\na) A gestão não controlada de resíduos de extracção, em violação do disposto nos artigos 5.º e 6.º;\n\nb) A utilização excessiva de cianetos, em violação do disposto no n.º 6 do artigo 11.º;\n\nc) A exploração não licenciada de uma instalação de resíduos, em violação do disposto no artigo 21.º;\n\nd) Incumprimento das condições constantes do alvará de licença de exploração, nos termos do disposto na alínea b) do n.º 4 do artigo 32.º;\n\ne) O enchimento de vazios de escavação, em violação do disposto nos n.os 2 e 3 do artigo 40.º;\n\nf) Incumprimento do disposto nos regimes transitórios previstos nos artigos 50.º e 51.º\n\n4 - A tentativa e a negligência são puníveis.\n\n5 - A condenação pela prática das contra-ordenações ambientais previstas nos n.os 2 e 3 pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstracta aplicável.\n\n6 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, com a aplicação da coima, determinar a aplicação de sanções acessórias que se mostrem adequadas, nos termos do disposto na Lei n.º 50/2006, de 29 de Agosto.\n\n7 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto."
+  },
+  "157772038": {
+   "fragment_id": "157772207",
+   "type": 11,
+   "heading": "Artigo 45.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Instrução de processos e aplicação de sanções\n\n1 - Sem prejuízo do disposto no número seguinte, compete às entidades referidas no artigo 41.º instruir os respectivos processos de contra-ordenação.\n\n2 - Quando a entidade autuante não tenha competência para instruir o processo, o mesmo é instruído e decidido pela Inspecção-Geral do Ambiente e do Ordenamento do Território.\n\n3 - A aplicação das coimas previstas no presente decreto-lei é da competência:\n\na) Do director-geral da Energia e Geologia, quando os processos sejam instruídos pela Direcção-Geral de Energia e Geologia;\n\nb) Do presidente da Comissão de Aplicação de Coimas em Matéria Económica, quando os processos sejam instruídos pela Autoridade de Segurança Alimentar e Económica;\n\nc) Do inspector-geral do Ambiente e do Ordenamento do Território, quando os processos sejam instruídos pela Inspecção-Geral do Ambiente e do Ordenamento do Território;\n\nd) Do presidente da comissão de coordenação e desenvolvimento regional territorialmente competente, quando os processos sejam instruídos pela comissão de coordenação e desenvolvimento regional;\n\ne) Do presidente da administração da região hidrográfica territorialmente competente, quando os processos sejam instruídos pela administração da região hidrográfica."
+  },
+  "157772039": {
+   "fragment_id": "157772208",
+   "type": 11,
+   "heading": "Artigo 46.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Afectação do produto das coimas\n\n1 - A afectação do produto das coimas resultante da aplicação das contra-ordenações previstas no artigo 43.º é realizada nos seguintes termos:\n\na) 60 % para os cofres do Estado;\n\nb) 10 % para a entidade que levantou o auto de notícia;\n\nc) 20 % para a entidade que instruiu o processo de contra-ordenação;\n\nd) 10 % para a entidade que aplicou a respectiva coima.\n\n2 - A afectação do produto das coimas resultante da aplicação das contra-ordenações ambientais previstas no artigo 44.º é feita nos termos do artigo 72.º da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual."
+  },
+  "157772040": {
+   "fragment_id": "157772209",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições transitórias e finais"
+  },
+  "157772041": {
+   "fragment_id": "157772210",
+   "type": 11,
+   "heading": "Artigo 47.º — Remissão de informação à Comissão Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Remissão de informação à Comissão Europeia\n\n1 - A Direcção-Geral de Energia e Geologia deve, de três em três anos, elaborar um relatório sobre a aplicação do presente decreto-lei, nos termos do disposto na Decisão da Comissão n.º <a href=\"eurlex.asp?ano=2009&id=309D0358\" title=\"Link para Decisão da Comunidade Europeia\">2009/358/CE</a>, e remetê-lo à Comissão Europeia no prazo de nove meses contado do termo final do período de três anos a que se reporta.\n\n2 - A Direcção-Geral de Energia e Geologia deve transmitir anualmente à Comissão Europeia as ocorrências e os acidentes graves comunicados pelos operadores no prazo de três meses contado do termo final do período de um ano a que se reporta."
+  },
+  "157772042": {
+   "fragment_id": "157772211",
+   "type": 11,
+   "heading": "Artigo 48.º — Inventário das instalações de resíduos encerradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Inventário das instalações de resíduos encerradas\n\n1 - Compete à Direcção-Geral de Energia e Geologia elaborar e manter um inventário das instalações de resíduos encerradas, incluindo as instalações abandonadas, situadas no território nacional que causem impactos ambientais negativos graves ou sejam susceptíveis de se tornar, a curto ou médio prazo, numa ameaça grave para a saúde humana ou para o ambiente.\n\n2 - O inventário a que se refere o número anterior deve ser elaborado até 1 de Maio de 2012, tendo em conta as metodologias que, para o efeito, forem disponibilizadas pela Comissão Europeia.\n\n3 - O inventário a que se refere o n.º 1 deve ser acessível ao público.\n\n4 - À reabilitação das instalações de resíduos identificadas no n.º 1, tendo em vista o cumprimento dos requisitos previstos nos artigos 5.º e 6.º, são aplicáveis as metodologias a desenvolver pela Comissão Europeia, nos termos previstos na Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0021\" title=\"Link para Directiva da Comunidade Europeia\">2006/21/CE</a>, de 15 de Março."
+  },
+  "157772043": {
+   "fragment_id": "157772212",
+   "type": 11,
+   "heading": "Artigo 49.º — Taxas de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Taxas de licenciamento\n\n1 - Pelos actos praticados no âmbito do procedimento de licenciamento de instalações de resíduos previsto no presente decreto-lei a entidade licenciadora cobra taxas pelos seguintes actos:\n\na) Pela aprovação do projecto da instalação de resíduos;\n\nb) Pela emissão da licença da instalação de resíduos;\n\nc) Por cada auto de vistoria;\n\nd) Pela reavaliação e actualização da licença da instalação de resíduos.\n\n2 - No caso de o pedido de licenciamento ser indeferido liminarmente nos termos do artigo 24.º, a entidade licenciadora procede à devolução da taxa paga pelo operador.\n\n3 - O montante, as formas de liquidação e a cobrança das taxas de licenciamento a que se refere o presente artigo consta de portaria dos membros do Governo responsáveis pelas áreas do ambiente e da economia.\n\n4 - O produto das taxas referidas no n.º 1 é afecto nos seguintes termos, constituindo receita própria das respectivas entidades:\n\na) 60 % para a entidade licenciadora;\n\nb) 40 % a repartir em partes iguais entre as entidades consultadas, nos termos do artigo 25.º\n\n5 - O valor das taxas previstas no presente artigo é automaticamente actualizado todos os anos por aplicação do índice de preços no consumidor publicado pelo Instituto Nacional de Estatística, arredondando-se o resultado para a casa decimal superior, devendo as entidades licenciadoras proceder à divulgação regular, no seu sítio da Internet, dos valores em vigor para cada ano."
+  },
+  "157772044": {
+   "fragment_id": "157772213",
+   "type": 11,
+   "heading": "Artigo 50.º — Presença de cianetos em bacia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Presença de cianetos em bacia\n\nNo caso de uma bacia existente à qual esteja associada a presença de cianetos, o operador assegura que a concentração de cianetos dissociáveis por ácidos fracos, na bacia, é reduzida ao mínimo possível, utilizando as melhores técnicas disponíveis e, em todo o caso, que, nas instalações em funcionamento ou que tenham obtido licença antes de 1 de Maio de 2008, a concentração de cianetos dissociáveis por ácidos fracos, no ponto de descarga dos rejeitados da unidade de processamento na bacia, em caso algum exceda:\n\na) 50 ppm a partir da data de entrada em vigor do presente decreto-lei;\n\nb) 25 ppm a partir de 1 de Maio de 2013;\n\nc) 10 ppm a partir de 1 de Maio de 2018."
+  },
+  "157772045": {
+   "fragment_id": "157772214",
+   "type": 11,
+   "heading": "Artigo 51.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Regime transitório\n\n1 - Os operadores das instalações de resíduos que em 1 de Maio de 2008 se encontravam em funcionamento ou aos quais já tivesse sido concedido uma licença devem cumprir as disposições do presente decreto-lei até 1 de Maio de 2012, com excepção:\n\na) Do disposto no artigo 31.º, relativo à obrigação de prestação de garantia financeira, em que o cumprimento deve ser assegurado até 1 de Maio de 2014;\n\nb) Do disposto no artigo anterior.\n\n2 - O disposto no número anterior não é aplicável às instalações de resíduos encerradas até 1 de Maio de 2008.\n\n3 - Os operadores das instalações de resíduos em funcionamento em 1 de Maio de 2006 e encerradas em data anterior a 1 de Maio de 2008 estão obrigados a adoptar as medidas necessárias para garantir que a gestão de resíduos de extracção cumpra o disposto no n.º 1 do artigo 6.º e o disposto na Lei n.º 58/2005, de 29 de Dezembro.\n\n4 - O disposto no artigo 10.º, nos n.os 1 a 5 do artigo 13.º, nos artigos 15.º a 17.º, no n.º 1 do artigo 19.º e nos artigos 21.º a 26.º e 28.º a 35.º não são aplicáveis às instalações de resíduos que:\n\na) Tenham deixado de aceitar resíduos antes de 1 de Maio de 2006;\n\nb) Estejam a concluir os procedimentos de encerramento em conformidade com a legislação aplicável ou com os programas aprovados pela entidade licenciadora;\n\nc) Estejam efectivamente encerradas em 31 de Dezembro de 2010."
+  },
+  "157772046": {
+   "fragment_id": "157772215",
+   "type": 11,
+   "heading": "Artigo 52.º — Aplicação da lei no tempo e direito transitório sobre desmaterialização de actos e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Aplicação da lei no tempo e direito transitório sobre desmaterialização de actos e procedimentos\n\n1 - O disposto no n.º 1 do artigo 8.º produz efeitos a partir de 30 de Setembro de 2010, devendo até essa data assegurar-se a possibilidade de os pedidos, comunicações e notificações aí previstos se realizarem através de endereço de correio electrónico único, criado para o efeito pelas entidades licenciadoras, a indicar nos sítios do Portal da Empresa, da Direcção-Geral de Energia e Geologia e da Direcção Regional de Economia.\n\n2 - O disposto na alínea g) do artigo 7.º e no n.º 2 do artigo 8.º produz efeitos a partir de 30 de Setembro de 2010."
+  },
+  "157772047": {
+   "fragment_id": "157772216",
+   "type": 11,
+   "heading": "Artigo 53.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respectivas administrações regionais autónomas com atribuições e competências no âmbito da gestão dos resíduos resultantes da prospecção, extracção, tratamento, transformação e armazenagem de recursos minerais, bem como da exploração das pedreiras, sem prejuízo das atribuições das entidades de âmbito nacional.\n\n2 - Os serviços e organismos das respectivas administrações regionais devem remeter à Direcção-Geral de Energia e Geologia, para efeitos do disposto no artigo 47.º, a informação necessária.\n\n3 - O produto das taxas e das coimas aplicadas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "157772048": {
+   "fragment_id": "157772217",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 544/99, de 13 de Dezembro."
+  },
+  "157772049": {
+   "fragment_id": "157772218",
+   "type": 11,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 15 dias após a data da sua publicação."
+  },
+  "157772051": {
+   "fragment_id": "157772220",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea x) do artigo 3.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea x) do artigo 3.º]\n\nComplemento da definição de «resíduos inertes»\n\n1 - Os resíduos são considerados resíduos inertes, na acepção alínea x) do artigo 3.º do presente decreto-lei, quando são cumpridos todos os seguintes critérios, tanto a curto como a longo prazo:\n\na) Os resíduos não serão passíveis de desintegração ou dissolução significativa ou de outra alteração significativa susceptível de causar efeitos ambientais adversos ou de prejudicar a saúde humana;\n\nb) Os resíduos apresentam um teor máximo de enxofre na forma de sulfureto de 0,1 % ou os resíduos apresentam um teor máximo de enxofre na forma de sulfureto de 1 % e o quociente do potencial de neutralização, definido como a razão entre o potencial de neutralização e o potencial ácido e determinado com base num ensaio estático de acordo com a norma EN 15875, é superior a 3;\n\nc) Os resíduos não apresentam risco de autocombustão e não se inflamarão;\n\nd) O teor de substâncias potencialmente prejudiciais para o ambiente ou para a saúde humana presente nos resíduos e, em particular, de As, Cd, Co, Cr, Cu, Hg, Mo, Ni, Pb, V e Zn, incluindo em partículas finas isoladas de resíduos, é suficientemente baixo para que o risco para a saúde humana e para o ambiente, a curto e a longo prazos, seja insignificante. Para que o risco seja considerado suficientemente baixo para ser insignificante para a saúde humana e o ambiente, o teor dessas substâncias não pode exceder os valores limiar nacionais aplicáveis aos sítios identificados como não contaminados ou os níveis de base naturais nacionais relevantes;\n\ne) Os resíduos estão substancialmente isentos de produtos utilizados na extracção ou na transformação que poderiam ser prejudiciais para o ambiente ou para a saúde humana.\n\n2 - Os resíduos podem ser considerados resíduos inertes sem ensaios específicos se for possível demonstrar, de modo a satisfazer a autoridade competente, que os critérios previstos no número anterior foram adequadamente considerados e estão comprovadamente preenchidos com base na informação existente ou em procedimentos ou regimes válidos.\n\n3 - A Agência Portuguesa do Ambiente pode elaborar listas, com carácter meramente indicativo, de materiais residuais a considerar como inertes em conformidade com os critérios definidos nos n.os 1 e 2.\n\n4 - A avaliação do carácter inerte dos resíduos será completada no âmbito da caracterização dos resíduos referida no anexo iii ao presente decreto-lei e baseada nas mesmas fontes de informação."
+  },
+  "157772052": {
+   "fragment_id": "157772221",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 9.º)\n\nCritérios de classificação das instalações de resíduos\n\nA)\n\nRegras gerais\n\nUma instalação de resíduos é classificada na categoria A se estiver compreendida em alguma das seguintes situações:\n\n1 - Uma avaria ou mau funcionamento, tal como o desmoronamento de uma escombreira ou o rebentamento de uma barragem, possam provocar um acidente grave com base numa avaliação de riscos que atenda a factores como a dimensão actual ou futura, a localização e o impacto ambiental da instalação de resíduos; ou\n\n2 - Contiver, acima de um certo limiar, resíduos classificados como perigosos, nos termos da Decreto-Lei n.º 178/2006, de 5 de Setembro; ou\n\n3 - Contiver, acima de um certo limiar, substâncias ou preparações classificadas como perigosas nos termos do Decreto-Lei n.º 209/99, de 11 de Junho, e do Decreto-Lei n.º 82/2003, de 23 de Abril.\n\nOs n.os 2 e 3 não são aplicáveis a instalações de resíduos que contenham apenas resíduos inertes ou solo não poluído.\n\nB)\n\nIntegração do disposto no n.º 1 das regras gerais\n\nO disposto no n.º 1 das regras gerais é integrado de acordo com as seguintes regras:\n\n1 - Regra geral:\n\nUma instalação de resíduos deve ser classificada na categoria A se as consequências previsíveis, a curto ou a longo prazo, de um falha decorrente de perda de integridade estrutural ou de funcionamento incorrecto de uma instalação de resíduos puderem resultar em:\n\na) Potencial perda de vidas não negligenciável;\n\nb) Perigo grave para a saúde humana;\n\nc) Perigo grave para o ambiente.\n\nPara efeitos da classificação, o ciclo de vida completo da instalação, incluindo a fase de pós-encerramento, deve ser tido em conta na avaliação do potencial de risco da instalação.\n\n2 - Integridade estrutural:\n\nPara efeitos do presente anexo, entende-se por integridade estrutural de uma instalação de resíduos a sua capacidade para conter os resíduos dentro dos limites da instalação conforme concebida.\n\nA perda de integridade estrutural deve abranger todos os possíveis mecanismos de falha relevantes para as estruturas da instalação de resíduos em causa.\n\nA avaliação das consequências da perda de integridade estrutural deve incluir o impacto imediato de qualquer material transportado da instalação em consequência da falha, bem como os efeitos daí resultantes a curto e a longo prazo.\n\n3 - Funcionamento incorrecto:\n\nPara efeitos do presente anexo, entende-se por funcionamento incorrecto da instalação de resíduos qualquer operação que possa causar um acidente grave, incluindo o mau funcionamento de medidas de protecção do ambiente e a concepção defeituosa ou insuficiente.\n\nA avaliação da libertação de contaminantes resultantes de um funcionamento incorrecto deve incluir os efeitos da libertação pontual a curto prazo e da libertação a longo prazo de contaminantes.\n\nEssa avaliação deve abranger o período de funcionamento da instalação, bem como o período a longo prazo após o seu encerramento.\n\nDeve incluir uma avaliação dos potenciais riscos constituídos pelas instalações que contêm resíduos reactivos, independentemente da classificação dos resíduos como perigosos ou não perigosos ao abrigo Decreto-Lei n.º 178/2006, de 5 de Setembro.\n\n4 - Avaliação das consequências:\n\nO potencial de perda de vidas ou de perigo para a saúde humana deve ser considerado negligenciável ou sem gravidade se não for de esperar que as pessoas que poderiam ser afectadas, para além dos trabalhadores da instalação, estejam presentes permanentemente ou durante períodos prolongados na área potencialmente afectada.\n\nOs danos pessoais que resultam em incapacidade ou em estados prolongados de doença devem ser considerados perigos graves para a saúde humana.\n\nO perigo potencial para o ambiente deve ser considerado sem gravidade se:\n\na) A intensidade da potencial fonte de contaminação diminuir significativamente num curto período de tempo;\n\nb) A falha não resultar em danos ambientais permanentes ou duradouros;\n\nc) O meio ambiente afectado puder ser reabilitado mediante pequenas acções de limpeza e recuperação.\n\nAo estabelecer o potencial de perda de vidas ou de perigo para a saúde humana ou para o ambiente, as avaliações específicas da extensão dos potenciais impactos devem ser efectuadas tendo em conta o contexto da cadeia fonte-via-receptor.\n\nQuando não existe uma via entre a fonte e o receptor, a instalação em causa não deve ser classificada na categoria A com base na falha devida à perda de integridade estrutural ou ao funcionamento incorrecto.\n\n5 - Avaliação das consequências em caso de perda de integridade estrutural em barragens de rejeitados:\n\nEm caso de perda de integridade estrutural em barragens de rejeitados, deve considerar-se que existe uma ameaça para a vida humana sempre que os níveis de água ou de lamas atinjam, no mínimo, 0,7 m acima do solo ou sempre que a velocidade da água ou das lamas for superior a 0,5 m/s.\n\nA avaliação do potencial de perda de vidas e de perigo para a saúde humana deve incluir, pelo menos, os seguintes factores:\n\na) Dimensão e propriedades da instalação, incluindo a sua concepção;\n\nb) Quantidade e qualidade, incluindo propriedades físicas e químicas dos resíduos presentes na instalação;\n\nc) Topografia do sítio da instalação, incluindo características relativas à estanquidade;\n\nd) Tempo necessário para uma potencial onda de inundação atingir áreas onde estão presentes pessoas;\n\ne) Velocidade de propagação da onda de inundação;\n\nf) Nível previsível da água ou das lamas;\n\ng) A taxa de subida dos níveis de água ou de lamas;\n\nh) Quaisquer factores relevantes e específicos do sítio que possam influenciar o potencial de perda de vidas ou de perigo para a saúde humana.\n\n6 - Deslizamentos de escombreiras:\n\nEm caso de deslizamentos de escombreiras, qualquer massa de resíduos em movimento deve ser considerada susceptível de ameaçar vidas humanas se as pessoas permanecerem na proximidade da massa de resíduos em movimento.\n\nA avaliação do potencial de perda de vidas e de perigo para a saúde humana deve incluir, pelo menos, os seguintes factores:\n\na) Dimensão e propriedades da instalação, incluindo a sua concepção;\n\nb) Quantidade e qualidade, incluindo propriedades físicas e químicas dos resíduos presentes na instalação;\n\nc) Declive da escombreira;\n\nd) Potencial acumulação de águas no interior da escombreira;\n\ne) Estabilidade subterrânea;\n\nf) Topografia;\n\ng) Proximidade de cursos de água, construções e edifícios;\n\nh) Trabalhos mineiros;\n\ni) Quaisquer outros factores específicos do sítio que possam significativamente contribuir para o risco representado pela estrutura.\n\nC)\n\nIntegração do disposto no n.º 2 das regras gerais\n\n1 - O limiar referido no n.º 2 das regras gerais deve ser determinado como o ratio entre:\n\na) O quantitativo em massa da matéria seca dos resíduos classificados como perigosos de acordo com a Decreto-Lei n.º 178/2006, de 5 de Setembro, e previsivelmente presentes na instalação no termo do período projectado de funcionamento da instalação; e\n\nb) O quantitativo em massa da matéria seca de resíduos previsivelmente presentes no termo do período de funcionamento projectado.\n\n2 - Assim:\n\na) Quando o ratio referido no n.º 1 é superior a 50 %, a instalação deve ser classificada como de categoria A;\n\nb) Quando o ratio referido no n.º 1 se situa entre 5 % e 50 %, a instalação deve ser classificada como de categoria A, salvo se uma avaliação específica de riscos demonstre que a instalação não deve ser classificada como de categoria A com base no conteúdo de resíduos perigosos. Tal avaliação deve ser focalizada nos impactos associados aos resíduos perigosos e realizada como elemento da classificação baseada nas consequências de falhas devidas a perda de integridade ou a funcionamento incorrecto;\n\nc) Quando o ratio referido no n.º 1 é inferior a 5 %, então a instalação não deve ser classificada como de categoria A com base no conteúdo de resíduos perigosos.\n\nD)\n\nIntegração do disposto no n.º 3 das regras gerais\n\n1 - Bacias de rejeitados planeadas:\n\nNo que diz respeito às bacias de rejeitados planeadas, deve ser utilizada a seguinte metodologia:\n\na) Deve ser efectuado um inventário das substâncias e preparações utilizadas no tratamento que são subsequentemente descarregadas com as lamas de rejeitados para as bacias de rejeitados;\n\nb) Relativamente a cada substância e preparação, devem ser estimadas as quantidades anuais utilizadas no processo em cada ano do período de funcionamento previsto da instalação;\n\nc) Relativamente a cada substância e preparação, deve ser determinado se esta é uma substância ou preparação perigosa na acepção do Decreto-Lei n.º 209/99, de 11 de Junho, e do Decreto-Lei n.º 82/2003, de 23 de Abril;\n\nd) Relativamente a cada ano de funcionamento previsto da instalação, deve ser calculado o aumento anual de água armazenada ((Delta)Qi) nas bacias de rejeitados em condições de estado estacionário, de acordo com a seguinte fórmula:\n\n(Delta)Qi = ((Delta)Mi/D) * P\n\nem que:\n\n(Delta)Qi = aumento anual da água armazenada na bacia de rejeitados (metros cúbicos/ano) no ano «i»;\n\n(Delta)Mi = massa anual de rejeitados descarregados na bacia de rejeitados (peso de matéria seca em toneladas/ano) no ano «i»;\n\nD = densidade média seca dos rejeitados depositados (toneladas/metros cúbicos);\n\nP = porosidade média dos rejeitados sedimentados (metros cúbico/metros cúbicos) definida como a relação entre o volume de vazios e o volume total de rejeitados sedimentados.\n\nSe não estiverem disponíveis dados exactos, devem ser utilizados os valores por omissão de 1,4 t/m3 para a densidade seca e de 0,5 m3/m3 para a porosidade.\n\ne) Relativamente a cada substância ou preparação perigosa identificada em conformidade com o estabelecido na alínea c), deve ser estimada a concentração máxima anual (C max) na fase aquosa de acordo com a seguinte fórmula:\n\nC max = o máximo do valor seguinte:\n\nSi/(Delta)Qi\n\nem que:\n\nSi = massa anual de cada substância e preparação identificada ao abrigo da alínea c) supra, descarregada na bacia de rejeitados no ano «i».\n\nSe, com base na estimativa das concentrações máximas anuais (C max), a fase aquosa for considerada «perigosa» na acepção do Decreto-Lei n.º 209/99, de 11 de Junho, e do Decreto-Lei n.º 82/2003, de 23 de Abril, a instalação deve ser classificada como uma instalação de categoria A.\n\n2 - Bacias de rejeitados em funcionamento:\n\nRelativamente a bacias de rejeitados em funcionamento, a classificação da instalação deve basear-se na metodologia prevista no n.º 1 supra ou na análise química directa da água e dos sólidos presentes na instalação.\n\nSe a fase aquosa e os seus componentes tiverem de ser considerados uma preparação perigosa na acepção do Decreto-Lei n.º 209/99, de 11 de Junho, e do Decreto-Lei n.º 82/2003, de 23 de Abril, a instalação deve ser classificada como uma instalação de categoria A.\n\n3 - Instalações de lixiviação em pilha:\n\nNas instalações de lixiviação em pilha em que os metais são extraídos das pilhas de minério por percolação de soluções de lixiviação, deve efectuar-se uma triagem das substâncias perigosas quando se proceder ao encerramento com base num inventário dos produtos químicos de lixiviação utilizados e nas concentrações residuais desses produtos químicos de lixiviação na drenagem após conclusão da lavagem.\n\nSe os lixiviados tiverem de ser considerados uma preparação perigosa na acepção do Decreto-Lei n.º 209/99, de 11 de Junho, e do Decreto-Lei n.º 82/2003, de 23 de Abril, a instalação deve ser classificada como uma instalação de categoria A."
+  },
+  "157772053": {
+   "fragment_id": "157772222",
+   "type": 14,
+   "heading": "Anexo III — [a que se refere a alínea b) do n.º 4 do artigo 10.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — [a que se refere a alínea b) do n.º 4 do artigo 10.º]\n\nCaracterização dos resíduos\n\nA)\n\nCaracterização dos resíduos\n\n1 - A caracterização dos resíduos abrange as seguintes categorias de informação, conforme indicado na parte C) do presente anexo:\n\na) Informações de base;\n\nb) Passado geológico do depósito a explorar;\n\nc) Natureza dos resíduos e tratamento pretendido para os mesmos;\n\nd) Comportamento geotécnico dos resíduos;\n\ne) Características geoquímicas e comportamento dos resíduos.\n\n2 - Os critérios para a definição de resíduos inertes estabelecidos no anexo ii do presente decreto-lei devem ser tidos em conta para fins da avaliação do comportamento geoquímico dos resíduos. Quando, com base nesses critérios, os resíduos são considerados «inertes», estes serão apenas sujeitos à parte relevante dos ensaios geoquímicos referidos no n.º 5 da parte C) deste anexo.\n\nB)\n\nRecolha e avaliação de informações\n\n1 - As informações e os dados necessários para a caracterização dos resíduos devem ser recolhidos na ordem prevista nos n.os 2 a 5.\n\n2 - Serão utilizados trabalhos de investigação e estudos existentes, incluindo licenças existentes, levantamentos geológicos, sítios semelhantes, listas de resíduos inertes, regimes de certificação adequados e normas europeias ou nacionais para materiais semelhantes, que satisfaçam os requisitos técnicos previstos na parte C) do presente anexo.\n\n3 - Devem ser avaliadas a qualidade e a representatividade de todas as informações e deve ser identificada informação eventualmente em falta.\n\n4 - Quando está em falta informação necessária para a caracterização dos resíduos, deve ser elaborado um plano de amostragem em conformidade com a norma EN 14899 e as amostras devem ser colhidas de acordo com esse plano de amostragem que baseia nas informações consideradas necessárias, incluindo:\n\na) Finalidade da recolha de dados;\n\nb) Programa de ensaio e requisitos de amostragem;\n\nc) Situações de amostragem, incluindo amostras de testemunhos de sondagem, frente de escavação, correia transportadora, escombreira, bacia ou outra situação relevante;\n\nd) Procedimentos e recomendações relativos a número, dimensão, massa, descrição e tratamento das amostras.\n\nDevem ser avaliadas a fiabilidade e a qualidade dos resultados da amostragem.\n\n5 - Os resultados do processo de caracterização devem ser avaliados e quando necessário deve ser recolhida informação adicional de acordo com a mesma metodologia, devendo ser o resultado final integrado no plano de gestão dos resíduos.\n\nC)\n\nRequisitos técnicos para a caracterização dos resíduos\n\n1 - Informações de base:\n\nAnálise e compreensão do contexto e objectivos gerais da operação de extracção;\n\nRecolha de informações de carácter geral sobre:\n\nActividade de prospecção, extracção ou tratamento;\n\nTipo e descrição do método de extracção e do processo aplicado;\n\nNatureza do produto pretendido.\n\n2 - Passado geológico do depósito a explorar:\n\nIdentificação dos resíduos expectáveis provenientes da extracção e do tratamento, facultando informações relevantes sobre:\n\nA natureza das rochas circundantes, sua química e mineralogia, incluindo a alteração hidrotermal das rochas mineralizadas e do material estéril;\n\nA natureza do depósito, incluindo rochas mineralizadas ou mineralização em rochas hospedeiras;\n\nTipologia da mineralização, sua química e mineralogia, incluindo propriedades físicas como densidade, porosidade, distribuição granulométrica, teor em água, minerais de cobertura trabalhados, gangas e minerais hidrotermais de formação recente;\n\nDimensão e geometria do depósito;\n\nDesgaste natural e alteração supergénica do ponto de vista químico e mineralógico.\n\n3 - Os resíduos e respectivo tratamento previsto:\n\nDescrição da natureza de todos os resíduos que ocorrem em cada operação de prospecção, extracção e tratamento, incluindo terreno de cobertura, material estéril e rejeitados, facultando informações sobre os seguintes elementos:\n\nOrigem dos resíduos no sítio de extracção e do processo que gera esses resíduos, como a prospecção, a extracção e o tratamento;\n\nQuantidade dos resíduos;\n\nDescrição do sistema de transporte dos resíduos;\n\nDescrição das substâncias químicas a utilizar durante o tratamento;\n\nClassificação dos resíduos de acordo com a Portaria n.º 209/2004, de 3 de Março, incluindo propriedades perigosas;\n\nTipo de instalação de resíduos em causa, forma final de exposição dos resíduos e método de depósito dos resíduos na instalação.\n\n4 - Comportamento geotécnico dos resíduos:\n\nIdentificação dos parâmetros adequados para avaliar as características físicas intrínsecas dos resíduos, tendo em consideração o tipo de instalação de resíduos;\n\nOs parâmetros relevantes a considerar são granulometria, plasticidade, densidade e teor em água, grau de compactação, resistência ao cisalhamento e ângulo de atrito, permeabilidade e índice de vazios (empolamento), compressibilidade e consolidação.\n\n5 - Características geoquímicas e comportamento dos resíduos:\n\nEspecificação das características químicas e mineralógicas dos resíduos e de quaisquer aditivos ou produtos residuais ainda presentes nos resíduos.\n\nPrevisão da composição química dos lixiviados ao longo do tempo para cada tipo de resíduos, tendo em conta o seu tratamento previsto, em particular:\n\nAvaliação da lixiviação de metais, oxianiões e sais ao longo do tempo por ensaio de lixiviação dependente do pH e ou de ensaio de percolação e ou de libertação dependente do tempo e ou de outro ensaio adequado;\n\nEm resíduos contendo sulfuretos serão efectuados ensaios estáticos ou cinéticos a fim de determinar o potencial de geração de água ácida e o potencial de lixiviação dos metais ao longo do tempo."
+  },
+  "157772054": {
+   "fragment_id": "157772223",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 2 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 2 do artigo 15.º)\n\nPolítica de prevenção de acidentes graves\n\nA política de prevenção de acidentes graves e o sistema de gestão de segurança do operador devem ser proporcionais em relação ao perigo de acidentes graves associado à instalação de resíduos.\n\nNa aplicação de ambos, devem ser tidos em conta os seguintes elementos:\n\n1 - A política de prevenção de acidentes graves deverá incluir os objectivos e princípios de acção gerais fixados pelo operador no respeitante ao controlo do perigo de acidentes graves.\n\n2 - O sistema de gestão de segurança deverá incluir a parte do sistema geral de gestão que contempla a estrutura organizativa e as responsabilidades, práticas, procedimentos, processos e recursos necessários para a definição e aplicação da política de prevenção de acidentes graves.\n\n3 - O sistema de gestão de segurança deve abordar os seguintes temas:\n\na) Organização e pessoal:\n\nAtribuições e responsabilidades do pessoal envolvido na gestão de perigos graves, a todos os níveis organizativos;\n\nIdentificação das necessidades de formação desse pessoal e organização dessa formação;\n\nParticipação do pessoal e, se for caso disso, de subcontratantes;\n\nb) Identificação e avaliação dos perigos graves - adopção e aplicação de procedimentos para a identificação sistemática dos perigos graves em situações de funcionamento normal e excepcional e avaliação da probabilidade de ocorrência e da gravidade dos mesmos;\n\nc) Controlo operacional - adopção e aplicação de procedimentos e instruções para um funcionamento seguro, incluindo a manutenção das instalações, os processos, os equipamentos e as paragens temporárias;\n\nd) Gestão das alterações - adopção e aplicação de procedimentos para o planeamento das alterações a instalações de resíduos novas ou o projecto de novas instalações de resíduos;\n\ne) Planeamento de situações de emergência - adopção e aplicação de procedimentos para a identificação das emergências previsíveis através de uma análise sistemática e para a elaboração, teste e revisão de planos de emergência destinados a responder a essas emergências;\n\nf) Monitorização dos resultados - adopção e aplicação de procedimentos para a avaliação contínua do cumprimento dos objectivos estabelecidos pela política de prevenção de acidentes graves e pelo sistema de gestão de segurança do operador e de mecanismos de investigação e correcção em caso de inobservância. Os procedimentos devem cobrir o sistema utilizado pelo operador para comunicar acidentes graves ou quase acidentes - em especial quando implicarem falhas das medidas de protecção - , a investigação dos mesmos e o seguimento a dar-lhes, com base na experiência adquirida;\n\ng) Auditoria e análise - adopção e aplicação de procedimentos para a avaliação sistemática, com carácter periódico, da política de prevenção de acidentes graves e da eficácia e adequação do sistema de gestão de segurança; análise documentada, a nível superior, dos resultados da política de prevenção e do sistema de gestão de segurança e actualização dos mesmos."
+  },
+  "157772055": {
+   "fragment_id": "157772224",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o artigo 20.º)\n\nInformações a comunicar ao público interessado\n\n1 - Nome do operador e endereço da instalação de resíduos.\n\n2 - Identificação, pela indicação da função, da pessoa que faculta as informações.\n\n3 - Confirmação de que a instalação de resíduos está sujeita ao regime jurídico do presente decreto-lei e, se for caso disso, de que as informações relevantes para os elementos referidos no n.º 1 do artigo 15.º foram apresentadas à autoridade competente.\n\n4 - Explicação clara e simples da actividade ou actividades desenvolvidas no sítio.\n\n5 - Denominações comuns ou genéricas ou classificação geral de perigo das substâncias e preparações associadas à instalação de resíduos, bem como dos resíduos susceptíveis de provocarem acidentes graves, com indicação das principais características perigosas dos mesmos.\n\n6 - Informações gerais sobre a natureza dos perigos de acidente grave, incluindo os efeitos potenciais destes no ambiente e na população em redor.\n\n7 - Informação adequada sobre o modo como a população em redor será avisada e mantida informada em caso de acidente grave.\n\n8 - Informações adequadas sobre as medidas que a população em causa deverá tomar e o comportamento que deverá adoptar em caso de acidente grave.\n\n9 - Confirmação de que o operador tem a obrigação de tomar disposições adequadas no sítio, nomeadamente a ligação com os serviços de emergência, para lidar com acidentes graves e minimizar os efeitos dos mesmos.\n\n10 - Referência ao plano de emergência externo elaborado para fazer face a quaisquer efeitos decorrentes de acidentes fora do sítio, acompanhada de instruções no sentido de seguir as indicações ou pedidos dos serviços de emergência no momento do acidente;\n\n11 - Elementos sobre o modo de obtenção de informações complementares relevantes, sob reserva das regras de confidencialidade estabelecidas na legislação nacional."
+  },
+  "157772056": {
+   "fragment_id": "157772225",
+   "type": 14,
+   "heading": "Anexo VI — (a que se refere o n.º 1 do artigo 23.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (a que se refere o n.º 1 do artigo 23.º)\n\nElementos que devem instruir o pedido de licenciamento de uma instalação de resíduos\n\n1 - O pedido de licença de instalação de resíduos deve ser instruído com os seguintes elementos:\n\na) Identificação do operador, número de identificação fiscal, morada da sede, freguesia, concelho, número de telefone, fax, e-mail e classificação da actividade económica;\n\nb) Localização para a instalação de resíduos em planta à escala cadastral e certidão do acto de aprovação da localização emitido pela câmara municipal territorialmente competente, nos casos em que a instalação não esteja abrangida pelo regime jurídico de AIA ou pelo regime jurídico de prevenção de acidentes graves com substâncias perigosas;\n\nc) Projecto de execução, exploração e encerramento que inclua, designadamente, os seguintes elementos:\n\ni) Descrição do local incluindo as suas características hidrogeológicas;\n\nii) Projecto das construções a efectuar para o estabelecimento da instalação de resíduos, tendo especialmente em conta a estabilidade e impermeabilidade da base de apoio e dos taludes;\n\niii) Método de correcção das características geomecânicas menos favoráveis;\n\niv) Sistemas de drenagem de águas pluviais e dos lixiviados e balanço hídrico e formas de controlo e de correcção das características físico-químicas dos efluentes e lixiviados, para reduzir a sua agressividade a níveis aceitáveis;\n\nv) Sistema de controlo da infiltração de água devida à permeabilidade da base e taludes da instalação de resíduos;\n\nvi) Plano de monitorização dos lixiviados, quando aplicável;\n\nvii) Planta topográfica e perfis longitudinais e transversais à escala de 1:1000;\n\nviii) Planta e perfis de enchimento;\n\nix) Medidas de minimização do impacto ambiental e de integração paisagística e faseamento da sua aplicação. Forma de integração paisagística final prevista;\n\nd) Indicação de pessoa competente;\n\ne) Plano de gestão de resíduos previsto no artigo 10.º;\n\nf) Documento ou comprovativo da existência da política de prevenção de acidentes graves nos termos do n.º 2 do artigo 15.º, se aplicável;\n\ng) Documento ou comprovativo da existência do plano de emergência interno nos termos do artigo 16.º, se aplicável;\n\nh) Cópia da declaração de impacto ambiental favorável ou favorável condicionada, no caso de o procedimento de AIA decorrer em fase de projecto de execução, ou parecer relativo à conformidade do projecto de execução com a DIA, no caso de o procedimento de AIA decorrer em fase de estudo prévio, se aplicável;\n\ni) Cópia do parecer da APA que ateste a compatibilidade da localização da instalação emitida nos termos do n.º 4 do artigo 5.º do Decreto-Lei n.º 254/2007, de 12 de Julho, se aplicável;\n\nj) Cópia do comprovativo da notificação efectuada nos termos do disposto no artigo 7.º do Decreto-Lei n.º 254/2007, de 12 de Julho, e decisão de aprovação do relatório de segurança nos termos do artigo 12.º do referido decreto-lei, se aplicável;\n\nl) Pedido de licença ambiental, nos termos do disposto no Decreto-Lei n.º 173/2008, de 26 de Agosto, se aplicável;\n\nm) Documento indicativo do tipo e do montante previstos da garantia financeira a prestar;\n\nn) Resumo não técnico da informação constante dos documentos referidos nas alíneas anteriores, para permitir a participação do público;\n\no) Comprovativo do pagamento da taxa de licenciamento prevista.\n\n2 - Articulação com procedimentos previstos noutros regimes jurídicos:\n\na) Declaração de impacto ambiental é substituída pelo estudo de impacto ambiental (EIA) quando se trate de projecto de execução, nos termos do regime jurídico de avaliação de impacto ambiental aprovado pelo Decreto-Lei n.º 69/2000, de 3 de Maio, alterado pelo Decreto-Lei n.º 197/2005, de 8 de Novembro, sempre que o operador opte por dar início ao procedimento de licenciamento da instalação de resíduos em simultâneo com o procedimento de AIA;\n\nb) A declaração de compatibilidade de localização, emitido pela Agência Portuguesa do Ambiente, é substituída pelo pedido de parecer previsto no n.º 4 do artigo 5.º do Decreto-Lei n.º 254/2007, de 12 de Julho, que aprova o regime jurídico de prevenção de acidentes graves que envolvam substâncias perigosas, sempre que o operador opte por dar início ao procedimento de licenciamento da instalação de resíduos em simultâneo com o procedimento previsto no referido decreto-lei;\n\nc) A decisão de aprovação do relatório de segurança é substituída pelo relatório de segurança acompanhado do pedido de aprovação do mesmo, previsto no artigo 10.º do Decreto-Lei n.º 254/2007, de 12 de Julho, que aprova o regime jurídico de prevenção de acidentes graves que envolvam substâncias perigosas, sempre que o operador opte por dar início ao procedimento de licenciamento da instalação de resíduos em simultâneo com o procedimento a que se refere o presente número.\n\n3 - Facultativamente, o pedido de licenciamento da instalação de resíduos pode ser instruído com relatório de avaliação do projecto da instalação de resíduos, a emitir por entidade acreditada para o efeito no âmbito do Sistema Português de Qualidade.\n\n4 - O pedido de licença é acompanhado de declaração que ateste a autenticidade das informações prestadas, elaborada e assinada pelo operador, ou por seu legal representante quando se trate de pessoa colectiva."
+  },
+  "157772057": {
+   "fragment_id": "157575665",
+   "type": 11,
+   "heading": "Artigo 11.º — Construção de instalações de resíduos",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 11.º — Construção de instalações de resíduos\n\n1 - Na fase de concepção e construção, o operador deve garantir que a instalação de resíduos:\n\na) Possui uma localização adequada, nomeadamente no que se refere a factores geológicos, hidrológicos, hidrogeológicos, sísmicos e geotécnicos e paisagísticos;\n\nb) É concebida de modo a satisfazer as condições necessárias para:\n\ni) Prevenir, a curto e a longo prazo, a segurança de pessoas e bens, a poluição do solo, do ar e das águas subterrâneas e superficiais, tendo especialmente em conta o disposto na Lei n.º 58/2005, de 29 de Dezembro;\n\nii) Garantir uma recolha eficiente das águas contaminadas e dos lixiviados;\n\niii) Reduzir, tanto quanto tecnicamente possível e economicamente viável, a erosão causada pelas águas e pelo vento.\n\n2 - Para efeitos do disposto no número anterior, o operador deve garantir a adopção das medidas necessárias para:\n\na) Avaliar o potencial de produção de lixiviados pelos resíduos depositados, incluindo o teor de contaminantes dos lixiviados, durante a fase de funcionamento e no pós-encerramento da instalação, e determinar o balanço hídrico da instalação de resíduos;\n\nb) Evitar ou minimizar a produção de lixiviados e a contaminação, pelos resíduos, das águas superficiais ou das águas subterrâneas e do solo;\n\nc) Recolher e tratar as águas contaminadas e os lixiviados da instalação, de modo a respeitar as normas para a descarga dos mesmos;\n\nd) Evitar ou reduzir as emissões para a atmosfera;\n\ne) Garantir que sejam asseguradas as condições de segurança contra incêndio nas instalações, de acordo com o disposto na legislação em vigor.\n\n3 - O operador pode ser dispensado, parcial ou totalmente, da adopção das medidas necessárias para garantir o disposto nas alíneas b) e c) do número anterior, caso a entidade licenciadora conclua, em face do caso concreto, tendo em conta o disposto na Lei n.º 58/2005, de 29 de Dezembro, e com base numa avaliação dos riscos ambientais, que a recolha e o tratamento dos lixiviados não são necessários, uma vez que a instalação não constitui um perigo potencial para o solo, para as águas subterrâneas ou para as águas superficiais.\n\n4 - A eliminação de resíduos de extracção, sólidos, líquidos ou lamas, em qualquer massa de água receptora que não tenha sido construída exclusivamente para efeitos de eliminação de resíduos de extracção, depende do cumprimento do disposto na Lei n.º 58/2005, de 29 de Dezembro, e do regime de utilização dos recursos hídricos, aprovado pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio.\n\n5 - A colocação de resíduos nos vazios de escavação, resultantes de extração à superfície ou subterrânea que venham a ser inundados depois do encerramento, depende da adoção das medidas necessárias para evitar ou minimizar a deterioração do estado da água e a poluição do solo, nos termos do disposto nos n.os 2 e 3, com as devidas adaptações, devendo o operador fornecer à entidade licenciadora as informações necessárias para assegurar o cumprimento do disposto na Lei n.º 58/2005, de 29 de dezembro, alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, 60/2012, de 14 de março, e 130/2012, de 22 de junho.\n\n6 - A utilização de uma bacia a que esteja associada a presença de cianetos depende da demonstração de que a concentração de cianetos dissociáveis por ácidos fracos na bacia é reduzida ao mínimo possível, com recurso às melhores técnicas disponíveis, e de que a concentração de cianetos dissociáveis por ácidos fracos, no ponto de descarga dos rejeitados da unidade de processamento na bacia, em caso algum excede 10 ppm.\n\n7 - Para efeitos do disposto no número anterior, o operador deve demonstrar, sempre que a entidade licenciadora o solicite, por meio de uma avaliação de riscos, que, tendo em conta as condições específicas do local, não é necessário reduzir mais os limites de concentração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772058": {
+   "fragment_id": "157575674",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações em caso de ocorrência de um acidente grave",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 19.º — Obrigações em caso de ocorrência de um acidente grave\n\n1 - Em caso de ocorrência de um acidente grave que envolva uma instalação de resíduos, o operador, sem prejuízo do disposto nas alíneas b) e c) do n.º 1 e do n.º 2 do artigo 12.º e na alínea e) do n.º 4 do artigo 13.º, acciona o seu plano de emergência interno e transmite de imediato à autoridade de protecção civil territorialmente competente, à entidade licenciadora e à Inspecção-Geral do Ambiente e do Ordenamento do Território as informações necessárias para avaliar e minimizar as consequências do acidente para a saúde humana e para avaliar e minimizar a extensão real ou potencial dos danos ambientais.\n\n2 - Quando ocorra um acidente que potencialmente afete outros Estados membros da União Europeia, a entidade licenciadora deve imediatamente transmitir às autoridades dos outros Estados membros as informações relativas aos planos de emergência internos e externos, com vista à avaliação e minimização das consequências do acidente para a saúde humana e para o ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772059": {
+   "fragment_id": "157772183",
+   "type": 11,
+   "heading": "Artigo 26.º — Consulta pública",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 26.º — Consulta pública\n\n1 - No prazo de cinco dias a contar da regular instrução do pedido de licença, a entidade licenciadora promove a divulgação do pedido de licenciamento, de forma a garantir a informação e a participação do público.\n\n2 - A divulgação do pedido de licenciamento abrange os seguintes elementos:\n\na) Identificação do pedido, do operador e da localização da instalação;\n\nb) Indicação dos elementos constantes no pedido de licença, bem como da natureza das decisões possíveis;\n\nc) Locais e data a partir da qual a informação relevante é disponibilizada, bem como os meios de disponibilização;\n\nd) Indicação da autoridade competente para a decisão do pedido de licenciamento, das entidades que podem fornecer informação relevante e das entidades junto das quais é possível apresentar observações ou questões, com indicação dos respectivos prazos;\n\ne) Se aplicável, a declaração de impacto ambiental ou a informação relativa à pendência do procedimento de avaliação de impacto ambiental, se o operador tiver optado pelo decurso dos procedimentos em simultâneo;\n\nf) Se aplicável, o parecer da Agência Portuguesa do Ambiente que ateste a compatibilidade da localização da instalação emitida nos termos do n.º 4 do artigo 5.º do Decreto-Lei n.º 254/2007, de 12 de Julho, ou a informação relativa à pendência do pedido de parecer se o operador tiver optado pelo decurso dos procedimentos em simultâneo;\n\ng) Se aplicável, o relatório de segurança aprovado ou a informação relativa à pendência do pedido de aprovação do relatório de segurança se o operador tiver optado pelo decurso dos procedimentos em simultâneo;\n\nh) Se aplicável, a sujeição do pedido a um procedimento de avaliação de impacto ambiental transfronteiriço ou a consulta entre Estados membros da União Europeia;\n\ni) Se aplicável, a indicação de que a licença de exploração da instalação depende da emissão da licença ambiental.\n\n3 - Os elementos referidos no número anterior, bem como o período e condições de consulta pública, devem ser publicitados por meios electrónicos e ainda afixados na sede do município da área de localização da instalação de resíduos.\n\n4 - O período de consulta é de 15 dias, durante os quais o público interessado pode apresentar junto da entidade licenciadora observações e sugestões.\n\n5 - Quando estejam em causa instalações de resíduos sujeitas ao procedimento de avaliação de impacto ambiental em que o operador tenha optado pelo decurso dos procedimentos em simultâneo ou no caso das instalações de resíduos sujeitas ao procedimento de licença ambiental em que as consultas públicas decorram em simultâneo, aplicam-se os prazos mais dilatados previstos na legislação aplicável.\n\n6 - Os resultados da participação do público devem ser tidos em consideração pela entidade licenciadora na decisão do pedido de licenciamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772060": {
+   "fragment_id": "157772185",
+   "type": 11,
+   "heading": "Artigo 28.º — Aprovação do projecto",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 28.º — Aprovação do projecto\n\n1 - A entidade licenciadora comunica ao operador a decisão de aprovação do projecto da instalação de resíduos, no prazo de 20 dias contado a partir de um dos seguintes factos, consoante o que ocorra em último lugar:\n\na) Da recepção do parecer da entidade consultada;\n\nb) Do termo final do prazo de consulta do público.\n\n2 - Determinam o indeferimento do projecto da instalação de resíduos:\n\na) A desconformidade do projecto com os princípios gerais da gestão de resíduos ou com os planos nacionais de gestão de resíduos;\n\nb) O não cumprimento dos requisitos previstos no presente decreto-lei, designadamente dos princípios constantes dos artigos 4.º, 5.º e 6.º;\n\nc) A existência de declaração de impacte ambiental desfavorável, no caso do procedimento de Avaliação de Impacte Ambiental decorrer em fase de projeto de execução, ou parecer desfavorável relativo à conformidade do projeto de execução com a Declaração de Impacte Ambiental, no caso do procedimento de Avaliação de Impacte Ambiental decorrer em fase de estudo prévio, de parecer desfavorável relativo à compatibilidade da localização ou de decisão desfavorável ao relatório de segurança, quando os procedimentos decorram em simultâneo nos termos do n.º 4 do artigo 23.º.\n\n3 - Caso o operador tenha optado pela aplicação do disposto no n.º 4 do artigo 23.º, a decisão de aprovação do projecto da instalação de resíduos apenas pode ter lugar após a:\n\na) Emissão de declaração de impacte ambiental favorável ou favorável condicionada, no caso do procedimento de Avaliação de Impacte Ambiental decorrer em fase de projeto de execução, ou parecer favorável relativo à conformidade do projeto de execução com a Declaração de Impacte Ambiental, no caso do procedimento de Avaliação de Impacte Ambiental ter decorrido em fase de estudo prévio, ou a existência de deferimento tácito, nos termos previstos no Decreto-Lei n.º 69/2000, de 3 de maio, alterado pelos Decretos-Leis n.os 74/2001, de 6 de fevereiro, e 69/2003, de 10 de abril, pela Lei n.º 12/2004, de 20 de março, e pelos Decretos-Leis n.os 197/2005, de 8 de novembro, e 60/2012, de 14 de março;\n\nb) Emissão da declaração de compatibilidade da localização da instalação e a aprovação do relatório de segurança nos termos previstos no Decreto-Lei n.º 254/2007, de 12 de Julho.\n\n4 - A decisão de aprovação do projecto da instalação de resíduos inclui as condições a observar pelo operador na execução da obra, bem como a aprovação do plano de gestão de resíduos\n\n5 - A decisão de aprovação do projecto da instalação de resíduos é válida por um período de dois anos, prorrogável uma única vez, por igual período, a pedido do operador, com fundamento em motivo que não lhe seja imputável.\n\n6 - São nulos os actos que autorizem ou licenciem a execução de um projecto relativo à instalação e exploração de uma instalação de resíduos sem que tenha sido previamente emitida a decisão de aprovação do projecto a que se refere o presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772061": {
+   "fragment_id": "157772195",
+   "type": 11,
+   "heading": "Artigo 36.º — Divulgação de informação",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 36.º — Divulgação de informação\n\nA entidade licenciadora, sem prejuízo do disposto na Lei n.º 19/2006, de 12 de Junho, que regula o acesso à informação sobre ambiente, procede à divulgação, através de meios electrónicos, das seguintes informações:\n\na) A decisão proferida no âmbito dos procedimentos de licenciamento da instalação de resíduos, incluindo cópia das licenças e das respetivas atualizações;\n\nb) A fundamentação da decisão, tendo em conta as observações e sugestões apresentadas pelo público interessado, nos termos do disposto no artigo 26.º, e as informações relevantes sobre o procedimento de participação do público;\n\nc) Os resultados das monitorizações das emissões que lhe tenham sido comunicadas pelo operador, nos termos da licença;\n\nd) Outras informações relevantes, tais como as conclusões dos principais relatórios e pareceres que sejam apresentados e as informações relevantes para a decisão que não tenham sido disponibilizadas nos termos do disposto nas alíneas anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772062": {
+   "fragment_id": "157772197",
+   "type": 11,
+   "heading": "Artigo 37.º — Instalações de resíduos integradas em explorações de depósitos minerais e de massas minerais",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 37.º — Instalações de resíduos integradas em explorações de depósitos minerais e de massas minerais\n\n1 - Sempre que a exploração dos depósitos minerais e de massas minerais, desenvolvida nos termos do disposto, respectivamente, no Decreto-Lei n.º 88/90, de 16 de Março, e no Decreto-Lei n.º 270/2001, de 6 de Outubro, na sua redacção actual, integre instalações de resíduos, a exploração destas instalações está dependente da aprovação de um plano de lavra ou de um plano de pedreira, consoante o caso, pela entidade licenciadora.\n\n2 - Nos casos previstos no número anterior, o plano de lavra ou o plano de pedreira, consoante o caso, inclui o projecto de construção, exploração e encerramento da instalação de resíduos e o plano de gestão de resíduos, os quais são aprovados com observância do disposto no presente decreto-lei.\n\n3 - A decisão de aprovação do plano de lavra ou do plano de pedreira substitui a decisão de aprovação do projecto da instalação de resíduos, sem prejuízo da observância do disposto no capítulo iv do presente decreto-lei.\n\n4 - Quando o plano de lavra ou o plano de pedreira não preveja a construção, exploração ou encerramento da instalação de resíduos, esta é objecto de licenciamento nos termos do capítulo iv do presente decreto-lei.\n\n5 - A decisão de aprovação do plano de lavra só pode ser proferida após o deferimento pela Agência Portuguesa de Ambiente, I.P., do pedido de licença ambiental, se aplicável, nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772063": {
+   "fragment_id": "157772200",
+   "type": 11,
+   "heading": "Artigo 40.º — Vazios de escavação",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 40.º — Vazios de escavação\n\n1 - A reposição de resíduos de extracção nos vazios de escavação resultantes da extracção subterrânea, para fins de reabilitação, de estabilização geomecânica ou como requisito da sequência do método de exploração, e a reposição de resíduos de extracção nos vazios de escavação resultantes da extracção a céu aberto, para fins de reabilitação, de modelação topográfica do local e de construção, estão sujeitas ao disposto no presente artigo.\n\n2 - A reposição de resíduos de extracção nos vazios de escavação deve constar do plano de lavra ou do plano de pedreira, consoante se trate de exploração dos depósitos minerais ou de massas minerais, desenvolvida nos termos do disposto no Decreto-Lei n.º 88/90, de 16 de Março, e no Decreto-Lei n.º 270/2001, na sua redacção actual, respectivamente.\n\n3 - Para além do disposto no artigo 27.º do Decreto-Lei n.º 88/90, de 16 de Março, e no artigo 30.º do Decreto-Lei n.º 270/2001, de 6 de Outubro, alterado pelo Decreto-Lei n.º 340/2007, de 12 de Outubro, o plano de lavra ou o plano de pedreira a que se alude no número anterior não pode ser aprovado sem que dele constem as medidas necessárias para:\n\na) Garantir a estabilidade dos resíduos de extracção, nos termos do disposto na alínea d) do n.º 1 do artigo 12.º, com as necessárias adaptações;\n\nb) Evitar a poluição do solo, das águas superficiais e das águas subterrâneas, nos termos do disposto no artigo 11.º, com as necessárias adaptações;\n\nc) Garantir a monitorização dos resíduos de extracção e dos vazios de escavação, nos termos dos n.os 3 a 5 do artigo 13.º, com as necessárias adaptações.\n\n4 - A utilização de resíduos inertes que não sejam resíduos de extração para encher vazios de escavação só pode ter lugar no âmbito de plano ambiental e de recuperação paisagística aprovado nos termos do Decreto-Lei n.º 270/2001, de 6 de outubro, alterado pelos Decretos-Leis n.os 112/2003, de 4 de junho, 317/2003, de 20 de dezembro, e 340/2007, de 10 de dezembro, ou do plano de lavra da exploração de depósitos minerais, e depende da verificação das condições técnicas previstas no regime jurídico da deposição de resíduos em aterro.\n\n5 - A utilização de resíduos não inertes que não sejam resíduos de extracção para encher vazios de escavação depende da verificação do disposto no regime jurídico da deposição de resíduos em aterro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772064": {
+   "fragment_id": "157772210",
+   "type": 11,
+   "heading": "Artigo 47.º — Comunicação de informação",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 47.º — Comunicação de informação\n\n1 - A Direcção-Geral de Energia e Geologia deve, de três em três anos, elaborar um relatório sobre a aplicação do presente decreto-lei, nos termos do disposto na Decisão da Comissão n.º <a href=\"eurlex.asp?ano=2009&id=309D0358\" title=\"Link para Decisão da Comunidade Europeia\">2009/358/CE</a>, e remetê-lo à Comissão Europeia no prazo de nove meses contado do termo final do período de três anos a que se reporta.\n\n2 - A Direcção-Geral de Energia e Geologia deve transmitir anualmente à Comissão Europeia as ocorrências e os acidentes graves comunicados pelos operadores no prazo de três meses contado do termo final do período de um ano a que se reporta.\n\n3 - Compete à Direção-Geral de Energia e Geologia facultar as informações constantes das licenças concedidas nos termos do presente decreto-lei às autoridades nacionais e comunitárias competentes em matéria de estatísticas, quando solicitadas para efeitos estatísticos.\n\n4 - Para efeitos do disposto no presente artigo, as Direções Regionais de Economia remetem à Direção-Geral de Energia e Geologia a informação necessária.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772065": {
+   "fragment_id": "157772213",
+   "type": 11,
+   "heading": "Artigo 50.º — Presença de cianetos em bacia",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "###### Artigo 50.º — Presença de cianetos em bacia\n\n1 - No caso de uma bacia existente à qual esteja associada a presença de cianetos, o operador assegura que a concentração de cianetos dissociáveis por ácidos fracos, na bacia, é reduzida ao mínimo possível, utilizando as melhores técnicas disponíveis e, em todo o caso, que, nas instalações em funcionamento ou que tenham obtido licença antes de 1 de Maio de 2008, a concentração de cianetos dissociáveis por ácidos fracos, no ponto de descarga dos rejeitados da unidade de processamento na bacia, em caso algum exceda:\n\na) 50 ppm a partir da data de entrada em vigor do presente decreto-lei;\n\nb) 25 ppm a partir de 1 de Maio de 2013;\n\nc) 10 ppm a partir de 1 de Maio de 2018.\n\n2 - A concentração de 10 ppm referida na alínea c) do número anterior é imediatamente aplicável às instalações que tenham obtido licença após 1 de maio de 2008.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772050": {
+   "fragment_id": "157772219",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Fernanda Maria Rosa do Carmo Julião - Ana Maria Teodoro Jorge.\n\nPromulgado em 26 de Janeiro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 27 de Janeiro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "157772066": {
+   "fragment_id": "157772222",
+   "type": 14,
+   "heading": "Anexo III — [a que se refere a alínea b) do n.º 4 do artigo 10.º]",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "## Anexo III — [a que se refere a alínea b) do n.º 4 do artigo 10.º]\n\nCaracterização dos resíduos\n\nA)\n\nCaracterização dos resíduos\n\n1 - A caracterização dos resíduos abrange as seguintes categorias de informação, conforme indicado na parte C) do presente anexo:\n\na) Informações de base;\n\nb) Passado geológico do depósito a explorar;\n\nc) Natureza dos resíduos e tratamento pretendido para os mesmos;\n\nd) Comportamento geotécnico dos resíduos;\n\ne) Características geoquímicas e comportamento dos resíduos.\n\n2 - Os critérios para a definição de resíduos inertes estabelecidos no anexo ii do presente decreto-lei devem ser tidos em conta para fins da avaliação do comportamento geoquímico dos resíduos. Quando, com base nesses critérios, os resíduos são considerados «inertes», estes serão apenas sujeitos à parte relevante dos ensaios geoquímicos referidos no n.º 5 da parte C) deste anexo.\n\nB)\n\nRecolha e avaliação de informações\n\n1 - As informações e os dados necessários para a caracterização dos resíduos devem ser recolhidos na ordem prevista nos n.os 2 a 5.\n\n2 - Serão utilizados trabalhos de investigação e estudos existentes, incluindo licenças existentes, levantamentos geológicos, sítios semelhantes, listas de resíduos inertes, regimes de certificação adequados e normas europeias ou nacionais para materiais semelhantes, que satisfaçam os requisitos técnicos previstos na parte C) do presente anexo.\n\n3 - Devem ser avaliadas a qualidade e a representatividade de todas as informações e deve ser identificada informação eventualmente em falta.\n\n4 - Quando está em falta informação necessária para a caracterização dos resíduos, deve ser elaborado um plano de amostragem em conformidade com a norma EN 14899 e as amostras devem ser colhidas de acordo com esse plano de amostragem que baseia nas informações consideradas necessárias, incluindo:\n\na) Finalidade da recolha de dados;\n\nb) Programa de ensaio e requisitos de amostragem;\n\nc) Situações de amostragem, incluindo amostras de testemunhos de sondagem, frente de escavação, correia transportadora, escombreira, bacia ou outra situação relevante;\n\nd) Procedimentos e recomendações relativos a número, dimensão, massa, descrição e tratamento das amostras.\n\nDevem ser avaliadas a fiabilidade e a qualidade dos resultados da amostragem.\n\n5 - Os resultados do processo de caracterização devem ser avaliados e quando necessário deve ser recolhida informação adicional de acordo com a mesma metodologia, devendo ser o resultado final integrado no plano de gestão dos resíduos.\n\nC)\n\nRequisitos técnicos para a caracterização dos resíduos\n\n1 - Informações de base:\n\nAnálise e compreensão do contexto e objectivos gerais da operação de extracção;\n\nRecolha de informações de carácter geral sobre:\n\nActividade de prospecção, extracção ou tratamento;\n\nTipo e descrição do método de extracção e do processo aplicado;\n\nNatureza do produto pretendido.\n\n2 - Passado geológico do depósito a explorar:\n\nIdentificação dos resíduos expectáveis provenientes da extracção e do tratamento, facultando informações relevantes sobre:\n\nA natureza das rochas circundantes, sua química e mineralogia, incluindo a alteração hidrotermal das rochas mineralizadas e do material estéril;\n\nA natureza do depósito, incluindo rochas mineralizadas ou mineralização em rochas hospedeiras;\n\nTipologia da mineralização, sua química e mineralogia, incluindo propriedades físicas como densidade, porosidade, distribuição granulométrica, teor em água, minerais de cobertura trabalhados, gangas e minerais hidrotermais de formação recente;\n\nDimensão e geometria do depósito;\n\nDesgaste natural e alteração supergénica do ponto de vista químico e mineralógico.\n\n3 - Os resíduos e respetivo tratamento previsto:\n\nDescrição da natureza de todos os resíduos que ocorrem em cada operação de prospecção, extração e tratamento, incluindo terreno de cobertura, material estéril e rejeitados, facultando informações sobre os seguintes elementos:\n\nOrigem dos resíduos no sítio de extração e do processo que gera esses resíduos, como a prospecção, a extração e o tratamento;\n\nQuantidade dos resíduos;\n\nDescrição do sistema de transporte dos resíduos;\n\nDescrição das substâncias químicas a utilizar durante o tratamento do recurso mineral e respetiva estabilidade;\n\nClassificação dos resíduos de acordo com a Portaria n.º 209/2004, de 3 de março, incluindo propriedades perigosas;\n\nTipo de instalação de resíduos em causa, forma final de exposição dos resíduos e método de depósito dos resíduos na instalação.\n\n4 - Comportamento geotécnico dos resíduos:\n\nIdentificação dos parâmetros adequados para avaliar as características físicas intrínsecas dos resíduos, tendo em consideração o tipo de instalação de resíduos;\n\nOs parâmetros relevantes a considerar são granulometria, plasticidade, densidade e teor em água, grau de compactação, resistência ao cisalhamento e ângulo de atrito, permeabilidade e índice de vazios (empolamento), compressibilidade e consolidação.\n\n5 - Características geoquímicas e comportamento dos resíduos:\n\nEspecificação das características químicas e mineralógicas dos resíduos e de quaisquer aditivos ou produtos residuais ainda presentes nos resíduos.\n\nPrevisão da composição química dos lixiviados ao longo do tempo para cada tipo de resíduos, tendo em conta o seu tratamento previsto, em particular:\n\nAvaliação da lixiviação de metais, oxianiões e sais ao longo do tempo por ensaio de lixiviação dependente do pH e ou de ensaio de percolação e ou de libertação dependente do tempo e ou de outro ensaio adequado;\n\nEm resíduos contendo sulfuretos serão efectuados ensaios estáticos ou cinéticos a fim de determinar o potencial de geração de água ácida e o potencial de lixiviação dos metais ao longo do tempo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772067": {
+   "fragment_id": "157772225",
+   "type": 14,
+   "heading": "Anexo VI — (a que se refere o n.º 1 do artigo 23.º)",
+   "in_force_from": "2013-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+   ],
+   "markdown": "## Anexo VI — (a que se refere o n.º 1 do artigo 23.º)\n\nElementos que devem instruir o pedido de licenciamento de uma instalação de resíduos\n\n1 - O pedido de licença de instalação de resíduos deve ser instruído com os seguintes elementos:\n\na) Identificação do operador, número de identificação fiscal, morada da sede, freguesia, concelho, número de telefone, fax, e-mail e classificação da actividade económica;\n\nb) Localização para a instalação de resíduos em planta à escala cadastral e certidão do acto de aprovação da localização emitido pela câmara municipal territorialmente competente, nos casos em que a instalação não esteja abrangida pelo regime jurídico de AIA ou pelo regime jurídico de prevenção de acidentes graves com substâncias perigosas;\n\nc) Projecto de execução, exploração e encerramento que inclua, designadamente, os seguintes elementos:\n\ni) Descrição do local incluindo as suas características hidrogeológicas;\n\nii) Projecto das construções a efectuar para o estabelecimento da instalação de resíduos, tendo especialmente em conta a estabilidade e impermeabilidade da base de apoio e dos taludes;\n\niii) Método de correcção das características geomecânicas menos favoráveis;\n\niv) Sistemas de drenagem de águas pluviais e dos lixiviados e balanço hídrico e formas de controlo e de correcção das características físico-químicas dos efluentes e lixiviados, para reduzir a sua agressividade a níveis aceitáveis;\n\nv) Sistema de controlo da infiltração de água devida à permeabilidade da base e taludes da instalação de resíduos;\n\nvi) Plano de monitorização dos lixiviados, quando aplicável;\n\nvii) Planta topográfica e perfis longitudinais e transversais à escala de 1:1000;\n\nviii) Planta e perfis de enchimento;\n\nix) Medidas de minimização do impacto ambiental e de integração paisagística e faseamento da sua aplicação. Forma de integração paisagística final prevista;\n\nd) Indicação de pessoa competente;\n\ne) Plano de gestão de resíduos previsto no artigo 10.º;\n\nf) Documento ou comprovativo da existência da política de prevenção de acidentes graves e da implementação de um sistema de gestão de segurança destinado a aplicá-la, nos termos do n.º 2 do artigo 15.º, se aplicável;\n\ng) Documento ou comprovativo da existência do plano de emergência interno nos termos do artigo 16.º, se aplicável;\n\nh) Cópia da declaração de impacto ambiental favorável ou favorável condicionada, no caso de o procedimento de AIA decorrer em fase de projecto de execução, ou parecer relativo à conformidade do projecto de execução com a DIA, no caso de o procedimento de AIA decorrer em fase de estudo prévio, se aplicável;\n\ni) Cópia do parecer da APA que ateste a compatibilidade da localização da instalação emitida nos termos do n.º 4 do artigo 5.º do Decreto-Lei n.º 254/2007, de 12 de Julho, se aplicável;\n\nj) Cópia do comprovativo da notificação efectuada nos termos do disposto no artigo 7.º do Decreto-Lei n.º 254/2007, de 12 de Julho, e decisão de aprovação do relatório de segurança nos termos do artigo 12.º do referido decreto-lei, se aplicável;\n\nl) Pedido de licença ambiental, nos termos do disposto no Decreto-Lei n.º 173/2008, de 26 de Agosto, se aplicável;\n\nm) Documento indicativo do tipo e do montante previstos da garantia financeira a prestar;\n\nn) Resumo não técnico da informação constante dos documentos referidos nas alíneas anteriores, para permitir a participação do público;\n\no) Comprovativo do pagamento da taxa de licenciamento prevista.\n\n2 - Articulação com procedimentos previstos noutros regimes jurídicos:\n\na) Declaração de impacto ambiental é substituída pelo estudo de impacto ambiental (EIA) quando se trate de projecto de execução, nos termos do regime jurídico de avaliação de impacto ambiental aprovado pelo Decreto-Lei n.º 69/2000, de 3 de Maio, alterado pelo Decreto-Lei n.º 197/2005, de 8 de Novembro, sempre que o operador opte por dar início ao procedimento de licenciamento da instalação de resíduos em simultâneo com o procedimento de AIA;\n\nb) A declaração de compatibilidade de localização, emitido pela Agência Portuguesa do Ambiente, é substituída pelo pedido de parecer previsto no n.º 4 do artigo 5.º do Decreto-Lei n.º 254/2007, de 12 de Julho, que aprova o regime jurídico de prevenção de acidentes graves que envolvam substâncias perigosas, sempre que o operador opte por dar início ao procedimento de licenciamento da instalação de resíduos em simultâneo com o procedimento previsto no referido decreto-lei;\n\nc) A decisão de aprovação do relatório de segurança é substituída pelo relatório de segurança acompanhado do pedido de aprovação do mesmo, previsto no artigo 10.º do Decreto-Lei n.º 254/2007, de 12 de Julho, que aprova o regime jurídico de prevenção de acidentes graves que envolvam substâncias perigosas, sempre que o operador opte por dar início ao procedimento de licenciamento da instalação de resíduos em simultâneo com o procedimento a que se refere o presente número.\n\nd) O Parecer relativo à conformidade do projeto de execução com a DIA é substituído pelo Relatório da Conformidade Ambiental do Projeto de Execução com a DIA (RECAPE), quando o procedimento de AIA tiver decorrido em fase de estudo prévio, nos termos do regime jurídico de avaliação de impacte ambiental aprovado pelo Decreto-Lei n.º 69/2000, de 3 de maio, alterado pelos Decretos-Leis n.os 74/2001, de 6 de fevereiro, e 69/2003, de 10 de abril, pela Lei n.º 12/2004, de 20 de março, e pelos Decretos-Leis n.os 197/2005, de 8 de novembro, e 60/2012, de 14 de março, sempre que o operador opte por dar início ao procedimento de licenciamento da instalação de resíduos em simultâneo com o procedimento de verificação da conformidade do projeto de execução com a DIA.\n\n3 - Facultativamente, o pedido de licenciamento da instalação de resíduos pode ser instruído com relatório de avaliação do projecto da instalação de resíduos, a emitir por entidade acreditada para o efeito no âmbito do Sistema Português de Qualidade.\n\n4 - O pedido de licença é acompanhado de declaração que ateste a autenticidade das informações prestadas, elaborada e assinada pelo operador, ou por seu legal representante quando se trate de pessoa colectiva.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2013 - Diário da República n.º 38/2013, Série I de 2013-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2013-258479), em vigor a partir de 2013-02-23"
+  },
+  "157772068": {
+   "fragment_id": "157772205",
+   "type": 11,
+   "heading": "Artigo 43.º — Contraordenações económicas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 107.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 43.º — Contraordenações económicas\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a prática dos seguintes atos:\n\na) Incumprimento do dever de disponibilização das informações necessárias para a elaboração do plano de emergência externo, em violação do disposto no n.º 2 do artigo 17.º;\n\nb) Incumprimento da obrigação de entrega do relatório de actividades no prazo previsto para o efeito, em violação do disposto na alínea d) do n.º 4 do artigo 32.º;\n\nc) Inexistência ou deficiente organização do processo relativo ao licenciamento, em violação do disposto no n.º 1 do artigo 42.º;\n\nd) A transmissão da licença sem decisão, expressa ou tácita, da entidade licenciadora em violação do disposto no n.º 2 do artigo 35.º\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 107.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157772069": {
+   "fragment_id": "157772207",
+   "type": 11,
+   "heading": "Artigo 45.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 107.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 45.º — Instrução de processos e aplicação de sanções\n\n1 - Sem prejuízo do disposto no número seguinte, compete às entidades referidas no artigo 41.º instruir os respectivos processos de contra-ordenação.\n\n2 - Quando a entidade autuante não tenha competência para instruir o processo, o mesmo é instruído e decidido pela Inspecção-Geral do Ambiente e do Ordenamento do Território.\n\n3 - A aplicação das coimas previstas no presente decreto-lei é da competência:\n\na) Do director-geral da Energia e Geologia, quando os processos sejam instruídos pela Direcção-Geral de Energia e Geologia;\n\nb) Do inspetor-geral da Autoridade de Segurança Alimentar e Económica (ASAE), quando os processos sejam instruídos pela ASAE;\n\nc) Do inspector-geral do Ambiente e do Ordenamento do Território, quando os processos sejam instruídos pela Inspecção-Geral do Ambiente e do Ordenamento do Território;\n\nd) Do presidente da comissão de coordenação e desenvolvimento regional territorialmente competente, quando os processos sejam instruídos pela comissão de coordenação e desenvolvimento regional;\n\ne) Do presidente da administração da região hidrográfica territorialmente competente, quando os processos sejam instruídos pela administração da região hidrográfica.\n\n> Alterado pelo/a Artigo 107.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157772070": {
+   "fragment_id": "157772208",
+   "type": 11,
+   "heading": "Artigo 46.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 107.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 46.º — Afectação do produto das coimas\n\n1 - A distribuição do produto das coimas resultante da aplicação das contraordenações económicas previstas no artigo 43.º é efetuada nos termos previstos no RJCE.\n\n2 - A afectação do produto das coimas resultante da aplicação das contra-ordenações ambientais previstas no artigo 44.º é feita nos termos do artigo 72.º da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual.\n\n> Alterado pelo/a Artigo 107.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

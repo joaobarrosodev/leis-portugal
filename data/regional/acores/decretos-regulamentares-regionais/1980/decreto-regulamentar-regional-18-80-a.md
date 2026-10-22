@@ -1,0 +1,197 @@
+---
+schema_version: '1.0'
+id: pt:dre:681601:por
+title: Decreto Regulamentar Regional n.º 18/80/A
+short_title: null
+summary: Regulamenta a admissão do pessoal auxiliar do ensino primário e de educação pré-escolar
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura
+proposing_entity: null
+official_number: 18/80/A
+official_date: null
+publication_date: '1980-04-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90/1980, Série I de 1980-04-17
+  number: '90'
+  series: I
+  supplement: null
+  pages: 771 - 772
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09000/07710772.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '681601'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/18-1980-681601
+  internal: pt:dre:681601:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-12-11T00:00:00Z'
+integrity:
+  source_sha256: 21014625b8d5c6ea25ecacf7454a2ac1629fc61c5db43397770b4a7bf2ed8bf2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1980/DRE-1980-18-681601.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:585039:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 18/80/A
+
+Considerando que o perfil desejável para o pessoal auxiliar do ensino primário, que exerce importantes funções auxiliares do ensino, não se compadece com os critérios de admissão estabelecidos pelo Despacho n.º 333/76, de 9 de Novembro, do Ministério da Educação e Investigação Científica;
+
+Considerando que importa valorizar estas funções, recrutando pessoal mais jovem, ministrando-lhe a indispensável formação prévia e exigindo-lhe aproveitamento no estágio e num período de prova antes da nomeação definitiva;
+
+Considerando a conveniência de que este pessoal esteja plenamente inserido na comunidade ao serviço da qual se encontra, nomeadamente quando tal se não verifica já em muitos casos com os professores;
+
+Considerando que as funções a exercer se configuram, em face das tendências e dos costumes normais na nossa sociedade, como devendo ser exercidas predominantemente por elementos do sexo feminino, muito embora se não justifique já o carácter de exclusividade que lhe era conferido na legislação anterior;
+
+Considerando que a valorização daquelas funções exige a reclassificação de pessoal, integrando-o na carreira de contínuo;
+
+Considerando, por fim, o n.º 1 do artigo 7.º do [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683), de 25 de Agosto, e a alínea b) do artigo 3.º do [Decreto Regulamentar Regional n.º 13/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1978-298052):
+
+O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O pessoal auxiliar dos estabelecimentos de ensino primário e de educação pré-escolar da Região Autónoma dos Açores constitui um quadro único, cuja gestão é realizada pela Secretaria Regional da Educação e Cultura, através dos respectivos serviços.
+
+2 - Os lugares docentes da Telescola consideram-se, para os efeitos do presente diploma integrados na rede escolar do ensino primário.
+
+###### Art. 2.º - 1 - O pessoal auxiliar referido no n.º 1 do artigo anterior integra-se na carreira de contínuo definida pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro.
+
+2 - Nas escolas que tenham refeitórios em funcionamento poderão ser criados lugares de cozinheiro e auxiliar de cozinheiro, cujo recrutamento e carreira terão regime idêntico ao estabelecido para as escolas preparatórias e secundárias.
+
+###### Art. 3.º - 1 - Será criado um lugar do quadro do pessoal auxiliar do ensino primário nas escolas que disponham, no mínimo, de três salas e três lugares docentes que ofereçam garantia de estabilidade e mais um por cada três salas e três lugares docentes, nas mesmas condições.
+
+2 - Será criado também um lugar nas escolas que, não se encontrando nas condições do n.º 1, possuam quatro lugares docentes em funcionamento, com garantia de estabilidade.
+
+3 - Será criado mais um lugar do quadro do pessoal auxiliar por cada três lugares docentes em funcionamento, com garantia de estabilidade, para além dos previstos no número anterior.
+
+###### Art. 4.º - 1 - Para as escolas que não disponham de lugares do quadro nos termos definidos no artigo anterior, poderá ser contratado pessoal exercendo funções em tempo parcial, por força das verbas inscritas para este fim no orçamento da SREC, em termos a definir por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura
+
+2 - Os contratos em tempo parcial são contratos sem prazo, os quais só poderão ser rescindidos mediante processo disciplinar ou por extinção dos lugares docentes que deram origem ao respectivo posto de trabalho.
+
+3 - A remuneração de serviço em tempo parcial será feita com base no vencimento do pessoal do quadro e tendo em conta o horário semanal constante do respectivo contrato, sendo durante o período de experiência calculado com base na letra U.
+
+4 - Quando as escolas tenham a funcionar lugares docentes que não ofereçam garantia de estabilidade, mas constituam sobrecarga de trabalho que o justifique, poderá também ser contratado pessoal em tempo parcial, nos termos dos números anteriores.
+
+5 - O pessoal contratado nos termos deste artigo será inscrito nas caixas de previdência, suportando o orçamento da SREC os encargos correspondentes à entidade patronal.
+
+###### Art. 5.º O provimento dos lugares do quadro ou contrato em tempo parcial recairá em indivíduos do sexo feminino ou do sexo masculino, de acordo com os seguintes critérios:
+
+a) Nas escolas onde haja apenas um funcionário, este será do sexo feminino;
+
+b) Quando houver dois funcionários, o segundo lugar poderá ser preenchido indiferentemente por indivíduos do sexo masculino ou feminino;
+
+c) No preenchimento de um terceiro lugar terá preferência um candidato do sexo masculino;
+
+d) Nas escolas com mais de três funcionários deverá haver, pelo menos, um do sexo masculino, não podendo ser providos pelo sexo masculino mais de metade dos lugares existentes.
+
+###### Art. 6.º - 1 - O recrutamento do pessoal auxiliar do ensino primário, do quadro ou contratado em tempo parcial, far-se-á por concurso para cada vaga, em termos a regulamentar por portaria dos Secretários Regionais da Administração Pública e da Educação e Cultura, de entre indivíduos que reúnam as seguintes condições:
+
+a) Tenham idade compreendida entre 21 e 35 anos;
+
+b) Possuam o diploma de escolaridade obrigatória;
+
+c) Tenham robustez física necessária ao exercício das funções e não sofram de doença transmissível ou de doença crónica ou evolutiva;
+
+d) Tenham residência permanente na localidade ou num raio máximo de 3 km da escola.
+
+2 - Quando não se apresentarem ao concurso candidatos que reúnam as condições do número anterior, poderão ser admitidos, por ordem de preferência, candidatos que:
+
+a) Tenham idade inferior a 21 anos, mas superior a 18, preferindo os mais velhos;
+
+b) Tenham idade superior a 35 até aos 40 anos, preferindo os mais novos;
+
+c) Não residam na área de raio de 3 km da escola, preferindo os que residam mais perto.
+
+3 - A portaria referida no n.º 1 deste artigo regulará as condições de preferência dos candidatos que preencham as condições naquele previstas.
+
+4 - Os avisos de concurso indicarão sempre se a vaga pode ou deve ser preenchida por indivíduo do sexo feminino ou masculino, ou indiferentemente por um outro, nos termos do artigo 5.º
+
+###### Art. 7.º - 1 - O provimento do lugar ou contrato em tempo parcial far-se-á sempre mediante um contrato inicial por um ano, em regime de experiência, com remuneração correspondente à letra U, findo o qual o contrato se considera automaticamente caducado, deixando o indivíduo de prestar serviço, a menos que seja nomeado para o lugar ou renovado o contrato em tempo parcial, nos termos do n.º 2 do artigo 3.º
+
+2 - Durante o período de um ano referido no número anterior deverá o candidato realizar um estágio, nunca inferior a dois meses, em estabelecimento de ensino a indicar pela Secretaria Regional da Educação e Cultura, durante o qual lhe serão ministrados conhecimentos práticos e teóricos relativos ao exercício das suas funções e aos direitos e deveres do funcionário público em geral.
+
+3 - A nomeação ou contrato definitivo só poderá ter lugar quando for classificado, no mínimo, como Suficiente o aproveitamento do estágio e o serviço prestado durante o ano de experiência.
+
+4 - No caso de se não verificar a nomeação ou contrato definitivo do indivíduo contratado em regime de experiência, não poderá este concorrer à mesma ou a outras vagas durante um período de dois anos.
+
+###### Art. 8.º - 1 - Até que seja regulamentada a matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, aplicado à Região pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, o serviço do pessoal auxiliar do ensino primário será classificado anualmente, por escrito, de Muito bom, Bom, Suficiente ou Deficiente pela direcção escolar respectiva, sob proposta escrita e justificada da direcção da escola, acompanhada de parecer do delegado escolar.
+
+2 - Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o Secretário Regional da Educação e Cultura dentro dos quinze dias imediatos ao da notificação.
+
+###### Art. 9.º - 1 - Os lugares criados nas escolas que tenham pessoal auxiliar contratado em tempo parcial serão providos, independentemente de concurso, pelos indivíduos contratados, desde que tenham mais de um ano de serviço e informação igual ou superior a Suficiente.
+
+2 - O provimento de lugares poderá também fazer-se, independentemente de concurso, por transferência, a requerimento do interessado, ou por conveniência de serviço, desde que respeitados os critérios constantes do artigo 5.º e as condições da alínea d) do n.º 1 do artigo 6.º, excepto se a transferência resultar da aplicação de sanção disciplinar ou de extinção do lugar.
+
+###### Art. 10.º O pessoal auxiliar do ensino primário poderá prestar serviço em qualquer edifício pertencente à mesma escola, nos termos que forem determinados pela respectiva direcção, podendo também ser-lhe determinado serviço noutra escola, desde que esta se não encontre a distância superior a 3 km do lugar em que se encontra colocado.
+
+###### Art. 11.º - 1 - A Secretaria Regional da Educação e Cultura publicará no Jornal Oficial, no prazo de trinta dias, a lista dos lugares do quadro já criados ou a criar de acordo com os critérios constantes no artigo 2.º, bem como dos actualmente providos que se não encontrem naquelas condições, mencionando, quanto a estes, que se extinguirão quando vagarem.
+
+2 - A lista referida no número anterior será anualmente reajustada com criação de novos lugares ou indicação de lugares a extinguir, de harmonia com o movimento de criação e extinção dos respectivos lugares docentes.
+
+3 - O primeiro provimento de lugares criados nos termos dos números anteriores carece de prévia autorização do Plenário do Governo Regional.
+
+###### Art. 12.º - 1 - Sempre que se verifique uma vaga, desde que não seja provida nos termos do artigo 8.º, deverá a mesma ser posta a concurso no prazo de trinta dias.
+
+2 - Enquanto o lugar se não encontrar provido, bem como nos casos de falta ou impedimento do respectivo titular por período superior a trinta dias, poderá ser contratado, por força de verbas para o efeito inscritas no orçamento da Secretaria Regional da Educação e Cultura, pessoal em regime eventual, por forma a garantir a prestação de serviços indispensáveis ao bom funcionamento da escola.
+
+###### Art. 13.º - 1 - Os serventes do ensino primário que em 1 de Janeiro de 1980 se encontravam a prestar serviço nas escolas há mais de um ano são providos, com efeitos a partir daquela data, na categoria de contínuo de 2.ª classe.
+
+2 - Os serventes que completarem um ano de serviço até 30 de Setembro de 1980 serão providos nos termos do número anterior, à medida que perfizerem aquele prazo, desde que tenham classificação de serviço não inferior a Suficiente.
+
+3 - Os serventes que completem um ano de serviço posteriormente a 1 de Outubro de 1980 deverão sujeitar-se ao estágio referido nos n.os 2 e 3 do artigo 6.º
+
+4 - Os movimentos de pessoal exigidos pela execução do presente artigo serão realizados por lista nominativa aprovada pelo Secretário Regional da Educação e Cultura e publicada no Jornal Oficial, na sequência da qual terão lugar os respectivos processos de provimento na nova categoria.
+
+Aprovado pelo Governo Regional em 14 de Fevereiro de 1980.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**

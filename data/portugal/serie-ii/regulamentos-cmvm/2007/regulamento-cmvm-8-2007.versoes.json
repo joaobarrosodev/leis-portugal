@@ -1,0 +1,809 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1008332:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento-cmvm/2007-215212216",
+ "dre_path": "/dr/detalhe/regulamento-cmvm/8-2007-1008332",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215212772",
+    "215209951",
+    "215209952",
+    "215209953",
+    "215209954",
+    "215209955",
+    "215209956",
+    "215209957",
+    "215209958",
+    "215209959",
+    "215209960",
+    "215209961",
+    "215209962",
+    "215209963",
+    "215209964",
+    "215209965",
+    "215209966",
+    "215209967",
+    "215209968",
+    "215209969",
+    "215209970",
+    "215209971",
+    "215209972",
+    "215209973",
+    "215209974",
+    "215210675",
+    "215210676",
+    "215210677",
+    "215210678",
+    "215210679",
+    "215210680",
+    "215210681",
+    "215210682",
+    "215210683",
+    "215210684"
+   ]
+  },
+  {
+   "date": "2009-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:757016:por",
+     "title": "Regulamento da CMVM n.º 1/2009 - 2.ª Série",
+     "published": "2009-07-30",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/1-2009-757016"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "215209950",
+    "215209951",
+    "215209952",
+    "215209953",
+    "215209954",
+    "215209955",
+    "215209956",
+    "215209957",
+    "215210742",
+    "215209959",
+    "215209960",
+    "215209961",
+    "215210743",
+    "215209963",
+    "215209964",
+    "215209965",
+    "215209966",
+    "215209967",
+    "215209968",
+    "215209969",
+    "215209970",
+    "215209971",
+    "215209972",
+    "215209973",
+    "215209974",
+    "215210675",
+    "215210676",
+    "215210677",
+    "215210678",
+    "215210679",
+    "215210680",
+    "215210681",
+    "215210682",
+    "215210683",
+    "215210684"
+   ]
+  },
+  {
+   "date": "2013-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2019136:por",
+     "title": "Regulamento da CMVM n.º 5/2013 - 2.ª Série",
+     "published": "2013-09-09",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/5-2013-2019136"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215212772",
+    "215212773",
+    "215212774",
+    "215212875",
+    "215212876",
+    "215212877",
+    "215212878",
+    "215212879",
+    "215212880",
+    "215212881",
+    "215212882",
+    "215212883",
+    "215212884",
+    "215212885",
+    "215212886",
+    "215212887",
+    "215212888",
+    "215212889",
+    "215212890",
+    "215212891",
+    "215212892",
+    "215212893",
+    "215212894",
+    "215212895",
+    "215212896",
+    "215212897",
+    "215212898",
+    "215212899",
+    "215212900",
+    "215212901",
+    "215212902",
+    "215212903",
+    "215212904",
+    "215212905",
+    "215212906"
+   ]
+  }
+ ],
+ "fragments": {
+  "215212772": {
+   "fragment_id": "215212217",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2013-09-10",
+   "changed_by": [],
+   "markdown": "Regulamento da CMVM n.º 8/2007\n\nComercialização de fundos de pensões abertos de adesão individual e de contratos de seguro ligados a fundos de investimento\n\nA transposição para a ordem jurídica interna da Directiva 2004/39/CE do Parlamento e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros (DMIF) impõe, no cenário mais amplo da harmonização comunitária do enquadramento normativo dos mercados financeiros, uma actualização do elenco de instrumentos financeiros como tal considerados para efeitos legais e regulamentares do mercado financeiro. Neste contexto, e aproveitando as alterações legislativas e regulamentares a que a transposição da DMIF obriga, procede-se à equiparação dos contratos de seguro ligados a fundos de investimento (unit linked) a instrumentos financeiros, atenta a respectiva similitude funcional e substancial. Com esta qualificação, agora consagrada no n.º 3 do artigo 2.º do Código dos Valores Mobiliários, a regulação e supervisão da comercialização dos contratos de seguro ligados a fundos de investimento passa agora a constituir uma competência da CMVM.\n\nPor razões análogas, e tendo em vista ainda a necessária harmonização possível com o regime dos fundos de investimento, a supervisão da comercialização dos contratos de adesão individual a fundos de pensões, incluindo a respectiva publicidade e toda a informação conexa com a sua distribuição no mercado, passa igualmente a constitui uma competência da CMVM. Pretende-se estabelecer em relação a ambos os produtos um quadro normativo rigoroso e eficiente de protecção dos respectivos consumidores no que respeita às condições da sua comercialização, designadamente relacionadas com a informação exigida, por forma a garantir que o investimento nestes produtos seja feito, em quaisquer condições, de acordo com critérios de compreensão, adequação e transparência. Nesta linha, o presente regulamento passa a exigir um prospecto simplificado para a comercialização de ambos os produtos, à semelhança do que já sucede com os restantes instrumentos financeiros, onde se dispensa ao participante toda a informação relacionada com o produto e com a entidade que o distribui no mercado.\n\nPor outro lado, impõe-se à entidade gestora e ou comercializadora a divulgação rigorosa e periódica das fórmulas de cálculo do valor do património dos fundos e das respectivas unidades de participação, bem como das medidas de rendibilidade e de risco dos produtos, e o reporte periódico do valor do património e das unidades de participação de cada participante ou tomador calculado de acordo com aquelas fórmulas, assim se assegurando a transparência e o conhecimento exacto e pontual, por parte do investidor, da sua posição de investimento, que lhe permita a qualquer momento tomar as decisões mais adequadas.\n\nNo que respeita às regras de comercialização, optou-se por adoptar mecanismos de garantia de adequação dos produtos ao perfil do investidor semelhantes aos impostos pela DMIF, embora mitigados pela necessidade de harmonização deste regime com outros mecanismos previstos para a área seguradora em lugares paralelos.\n\nFoi ouvido o Instituto de Seguros de Portugal e submetido o correspondente anteprojecto a consulta pública.\n\nAssim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 353.º do Código dos Valores Mobiliários, no n.º 1 do artigo 131.º-A do Decreto-Lei n.º 94-B/98, de 17 de Abril, nos n.os 3 e 4 do artigo 5.º-A do Decreto-Lei n.º 176/95, de 26 de Julho, no n.º 2 do artigo 14.º, nos n.os 1 e 4 do artigo 63.º e no n.º 1 do artigo 65.º do Decreto-Lei n.º 12/2006, o conselho directivo da Comissão do Mercado de Valores Mobiliários aprovou o seguinte regulamento:\n\n> Nota: [Artigo 32.º, Regulamento da CMVM n.º 2/2012 - Diário da República n.º 228/2012, Série II de 2012-11-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2012-1510234) Revoga o presente Regulamento, em tudo quanto diga respeito aos seguros e operações ligados a fundos de investimento."
+  },
+  "215209951": {
+   "fragment_id": "215212218",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "215209952": {
+   "fragment_id": "215212219",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente regulamento estabelece normas respeitantes:\n\na) À informação que deve ser prestada relativamente a contratos de adesão individual a fundos de pensões abertos e a contratos de seguro ligados a fundos de investimento; e\n\nb) À comercialização de contratos de adesão individual a fundos de pensões abertos e de contratos de seguro ligados a fundos de investimento.\n\n2 - Para efeitos do presente regulamento:\n\na) São entidades gestoras as entidades autorizadas a gerir fundos de pensões abertos com adesão individual;\n\nb) São empresas de seguro as empresas que, estando legalmente habilitadas para o efeito, exploram contratos de seguro ligados a fundos de investimento;\n\nc) São entidades comercializadoras todas as entidades que, dentro dos limites legais, se proponham celebrar ou mediar contratos de seguros ligados a fundos de investimento e contratos de adesão individual a fundos de pensões abertos ou comercializar unidades de participação destes, incluindo as que se dediquem a actividades de prospecção e de consultoria relativas àqueles contratos."
+  },
+  "215209953": {
+   "fragment_id": "215212220",
+   "type": 1,
+   "heading": "Capítulo II — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Informação"
+  },
+  "215209954": {
+   "fragment_id": "215212221",
+   "type": 8,
+   "heading": "Secção I — Prospecto simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Prospecto simplificado"
+  },
+  "215209955": {
+   "fragment_id": "215212222",
+   "type": 11,
+   "heading": "Artigo 2.º — Exigibilidade de prospecto simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Exigibilidade de prospecto simplificado\n\n1 - Antes da celebração de um contrato de adesão individual a um fundo de pensões aberto ou de um contrato de seguro ligado a fundos de investimento é, respectivamente, entregue um prospecto simplificado:\n\na) Ao potencial participante do fundo de pensões, pela entidade gestora;\n\nb) Ao potencial tomador de seguros, pela empresa de seguros.\n\n2 - O dever previsto no número anterior aplica-se independentemente do canal de comercialização utilizado e pode ser cumprido pela entidade comercializadora."
+  },
+  "215209956": {
+   "fragment_id": "215212223",
+   "type": 11,
+   "heading": "Artigo 3.º — Elaboração e divulgação do prospecto simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Elaboração e divulgação do prospecto simplificado\n\n1 - A linguagem utilizada na elaboração do prospecto simplificado deve ser clara, sintética e facilmente compreensível para o participante ou tomador comum.\n\n2 - O prospecto simplificado deve ser elaborado de acordo com os formatos padronizados que constituem os Anexos I e II ao presente regulamento.\n\n3 - O prospecto simplificado deve ser divulgado no sistema de difusão de informação da CMVM.\n\n4 - No caso dos contratos de adesão individual a fundos de pensões abertos, o prospecto simplificado:\n\na) É igualmente divulgado através de um dos meios previstos no artigo 19.º do Decreto-Lei n.º 12/2006, de 20 de Janeiro;\n\nb) Só é divulgado após a concessão pelo ISP da autorização de constituição do fundo."
+  },
+  "215209957": {
+   "fragment_id": "215212224",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdo do prospecto simplificado de contratos de adesão individual a fundos de pensões abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conteúdo do prospecto simplificado de contratos de adesão individual a fundos de pensões abertos\n\n1 - O prospecto simplificado de contrato de adesão individual a um fundo de pensões aberto deve conter os seguintes elementos informativos:\n\na) Indicação da data da última actualização do prospecto simplificado;\n\nb) Denominação e data de constituição do fundo de pensões;\n\nc) Tipo de fundo de pensões;\n\nd) Identificação da entidade gestora do fundo de pensões, e, sendo o caso, do grupo financeiro a que pertence;\n\ne) Identificação dos consultores de investimento do fundo de pensões;\n\nf) Identificação do depositário;\n\ng) Identificação e contactos do provedor dos participantes e beneficiários.\n\nh) Identificação dos auditores do fundo de pensões;\n\ni) Identificação das autoridades de supervisão;\n\nj) Descrição sucinta da política de investimentos do fundo de pensões;\n\nl) Riscos associados aos investimentos do fundo de pensões, evidenciando os mais relevantes, como sejam o risco de variação de preço, risco de crédito, risco de taxa de juro, risco cambial ou risco país;\n\nm) Caso o fundo de pensões invista em instrumentos financeiros derivados com intuito diferente da cobertura de risco, menção de destaque que explicite o acréscimo de risco associado a esse facto;\n\nn) Perfil do participante a que o fundo de pensões se dirige, com indicação das características do participante que melhor se ajustem ao investimento no fundo, designadamente o seu nível de aversão ao risco e tolerância em relação às oscilações do valor do capital investido e o seu propósito de investimento, como sejam, a rendibilidade ou os benefícios fiscais;\n\no) Rendibilidade e risco históricos, os quais são apresentados através de representação gráfica da evolução do valor da unidade de participação e da rendibilidade do fundo nos últimos 10 anos civis ou, caso não seja aplicável, nos anos civis completos desde o seu início da actividade, bem como da quantificação das rendibilidades obtidas e do nível de risco verificado nos mesmos períodos, nos termos previstos nos artigos 10.º e 12.º;\n\np) Menção esclarecendo que os dados que serviram de base ao apuramento da rendibilidade e risco históricos são factos passados que, como tal, poderão não se verificar no futuro e nota explicativa sobre os níveis de risco nos termos do disposto na alínea b) do n.º 1 do artigo 9.º;\n\nq) Taxa Global de Custos (TGC) e a rotação média da carteira nos termos do anexo iii do presente Regulamento;\n\nr) Tabela de custos nos termos do anexo iii do presente Regulamento;\n\ns) Modo de determinação do valor da unidade de participação para efeitos de subscrição, reembolso e transferência e respectivas condições de subscrição, reembolso e transferência;\n\nt) Indicação dos locais e frequência de divulgação do valor da unidade de participação;\n\nu) Estabelecimento de rendimento mínimo garantido, duração desta garantia e condições a que a mesma está sujeita, se for o caso;\n\nv) Locais de consulta de outra documentação relativa ao fundo de pensões, com a indicação de que relatórios e contas podem ser obtidos gratuitamente, mediante simples pedido, antes ou após a subscrição;\n\nx) Descrição sintética do regime fiscal aplicável ao fundo de pensões e aos participantes residentes em território nacional;\n\nz) Contacto para esclarecimentos sobre quaisquer dúvidas relativas ao fundo.\n\n2 - Os prospectos simplificados dos fundos de pensões que prevejam investir mais de 30 % do seu valor líquido global em unidades de participação de organismos de investimento colectivo deve conter, além dos elementos previstos no número anterior, informação sobre:\n\na) As políticas de investimento respectivas, em termos sintéticos;\n\nb) A taxa máxima de comissionamento suportada nos fundos em que investe.\n\n3 - Sempre que dois ou mais fundos de pensões sejam comercializados conjuntamente é elaborado um único prospecto simplificado, que contém uma parte geral concentrando a informação comum a todos os fundos de pensões, incluindo uma menção relativa às suas especialidades de regime, nomeadamente quanto à transferência de unidades de participação entre aqueles fundos, e uma parte especial contendo toda informação específica de cada fundo de pensões."
+  },
+  "215209958": {
+   "fragment_id": "215212225",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo do prospecto simplificado de contrato de seguro ligado a fundos de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conteúdo do prospecto simplificado de contrato de seguro ligado a fundos de investimento\n\nO prospecto simplificado de contratos de seguro ligados a fundos de investimento deve conter os seguintes elementos informativos:\n\na) Indicação da data da última actualização do prospecto simplificado;\n\nb) Identificação da empresa de seguros e declaração da respectiva autorização legal para o exercício da actividade seguradora em território português, país e endereço da sede social ou da agência ou sucursal com que o contrato será celebrado e ainda, sendo o caso, identificação do grupo financeiro a que pertence;\n\nc) Locais e meios de comercialização do seguro;\n\nd) Identificação das autoridades de supervisão;\n\ne) Mecanismos implementados pela empresa de seguros relativamente ao tratamento das reclamações relativas ao contrato de seguro ligado a fundos de investimento e apresentadas pelos respectivos tomadores, pessoas seguras ou beneficiários, com menção da possibilidade de reclamação junto do Instituto de Seguros de Portugal, sem prejuízo do recurso aos tribunais;\n\nf) Designação comercial do produto;\n\ng) Data e início de comercialização;\n\nh) Duração do contrato ou período recomendado para o investimento;\n\ni) Risco de perda dos montantes investidos;\n\nj) Garantias, opções e coberturas a conceder pela empresa de seguros em caso de vida ou em caso de morte da pessoa segura, tais como a existência de rendimento mínimo garantido, de valor mínimo de resgate e de coberturas complementares, e condições necessárias para a sua concretização, bem como produtos derivados associados às garantias, opções e coberturas; no caso de haver rendimento mínimo garantido, informação relativa à taxa de juro mínima garantida e à duração desta garantia.\n\nl) Condições e modalidades de renúncia, resolução unilateral e de resgate, de acordo com a legislação em vigor;\n\nm) Tabelas de valores de resgate e de redução e natureza das respectivas garantias;\n\nn) Penalização em caso de resgate, redução ou transferência dos contratos, designadamente em contratos que financiem planos de poupança;\n\no) Modalidades e período de pagamento dos prémios;\n\np) Prémios relativos a cada garantia principal ou complementar;\n\nq) Forma de cálculo e atribuição de participação nos resultados;\n\nr) Explicação do modo como a valorização da componente financeira do contrato de seguro afecto a fundos de investimento depende da evolução dos activos que compõem este último, bem como a natureza dos activos representativos da componente financeira do produto e a sua eventual qualidade de produtos não normalizados, nos termos previstos no n.º 16 da Parte II do anexo I da Norma Regulamentar n.º 5/2004-R do ISP;\n\ns) Perfil de risco dos tomadores de seguros a que a componente financeira do contrato de seguros ligado a fundos de investimento se dirige;\n\nt) Rendibilidade e risco históricos, os quais são apresentados através de representação gráfica da evolução do valor da unidade de participação e da rendibilidade do contrato de seguro, nos últimos dez anos civis ou, caso não seja aplicável, nos anos civis completos desde o seu início da actividade, bem como da quantificação das rendibilidades obtidas e do nível de risco verificado nos mesmos períodos, nos termos previstos nos artigos 10.º e 12.º\n\nu) Menção esclarecendo que os dados que serviram de base ao apuramento da rendibilidade e risco históricos são factos passados que, como tal, poderão não se verificar no futuro e nota explicativa sobre os níveis de risco nos termos do disposto na alínea b) do n.º 1 do artigo 9.º;\n\nv) Taxa Global de Custos (TGC) e a rotação média da carteira nos termos do anexo iii do presente Regulamento;\n\nw) Tabela de custos nos termos do anexo iii do presente Regulamento;\n\nx) Descrição sintética do regime fiscal aplicável ao contrato de seguro ligado a fundos de investimento e aos tomadores residentes em território nacional;\n\ny) Descrição sintética da política de investimentos do contrato;\n\nz) Locais de consulta da informação periódica relativa ao contrato de seguro ligado a fundos de investimento;\n\naa) Contacto para esclarecimentos sobre quaisquer dúvidas relativas ao contrato de seguro ligado a fundos de investimento.\n\nbb) Lei aplicável ao contrato."
+  },
+  "215209959": {
+   "fragment_id": "215212226",
+   "type": 11,
+   "heading": "Artigo 6.º — Taxa global de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Taxa global de custos\n\n1 - A taxa global de custos (TGC) consiste no quociente entre a soma da comissão de gestão, da comissão de depósito, custos de auditoria e outros custos operacionais, previstos no anexo iii, excluindo os custos de transacção, num dado período, e o seu valor líquido global médio nesse mesmo período.\n\n2 - Os custos operacionais referidos no número anterior incluem os suportados pelo fundo de pensões e os suportados pelos participantes.\n\n3 - O prospecto simplificado contém a TGC relativa ao ano civil imediatamente anterior, apurada com referência a 31 de Dezembro, devendo o seu cálculo ser validado pelo auditor do fundo.\n\n4 - Os prospectos simplificados dos fundos de pensões referidos no n.º 2 do artigo 4.º apresentam uma TGC que tem em consideração as TGC dos organismos de investimento colectivo em que investiram, salvo se a sua determinação não se mostrar possível."
+  },
+  "215209960": {
+   "fragment_id": "215212227",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações ao prospecto simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações ao prospecto simplificado\n\n1 - As alterações relevantes respeitantes aos elementos mencionados no prospecto simplificado implicam a respectiva actualização.\n\n2 - A informação relativa a rendibilidade e risco históricos e ao regime fiscal aplicável é actualizada anualmente, até ao final do mês de Abril."
+  },
+  "215209961": {
+   "fragment_id": "215212228",
+   "type": 8,
+   "heading": "Secção II — Publicidade e divulgação de medidas de rendibilidade e de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Publicidade e divulgação de medidas de rendibilidade e de risco"
+  },
+  "215209962": {
+   "fragment_id": "215212229",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicidade\n\n1 - Sem prejuízo de outras exigências legais, as acções publicitárias relativas a contratos de adesão individual a fundos de pensões abertos e a contratos de seguro ligados a fundos de investimento indicam a existência do prospecto simplificado e dos locais e formas da sua obtenção ou acesso.\n\n2 - As acções publicitárias relativas a contratos de seguro ligados a fundos de investimento incluem ainda:\n\na) Indicação expressa de que o produto é qualificado como ICAE (Instrumento de Captação de Aforro Estruturado);\n\nb) Indicação de que se trata de um produto comercializado no âmbito da actividade seguradora e identificação completa da empresa de seguros responsável pela sua exploração;\n\nc) Menção da possibilidade ou não do risco de perda dos montantes investidos e da existência ou não de rendimento mínimo garantido.\n\n3 - Nas acções publicitárias ou informativas deve ser feita a menção de que se trata de um fundo de pensões ou de um contrato de seguro ligado a fundos de investimento.\n\n4 - As acções publicitárias relativas a contratos de adesão individual a fundos de pensões abertos e a contratos de seguro ligados a fundos de investimento devem ser previamente comunicadas à CMVM, juntamente com os elementos materiais que lhe sirvam de suporte."
+  },
+  "215209963": {
+   "fragment_id": "215212230",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação sobre medidas de rendibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação sobre medidas de rendibilidade\n\n1 - Em todas as acções publicitárias ou informativas onde sejam divulgadas medidas de rendibilidade, constam:\n\na) A identificação completa do fundo de pensões ou do contrato de seguro ligado a fundos de investimento e da entidade gestora ou empresa de seguros, respectivamente;\n\nb) A menção de que as rendibilidades divulgadas representam dados passados, não constituindo garantia de rendibilidade futura, porque o valor do investimento pode aumentar ou diminuir em função do nível de risco que varia entre 1 (risco baixo) e 6 (risco muito alto).\n\nc) A identificação clara do período de referência, nomeadamente as datas inicial e final;\n\nd) A indicação de que a rendibilidade depende do regime de tributação de rendimentos e de eventuais benefícios fiscais;\n\ne) A divulgação do rendimento mínimo garantido, se aplicável.\n\n2 - Sempre que sejam divulgadas medidas de rendibilidade anualizadas que tenham por base um período de referência superior a 1 ano, é feita menção de que tal rendibilidade apenas seria obtida se o investimento fosse efectuado durante a totalidade do período de referência.\n\n3 - Sempre que sejam divulgadas medidas de rendibilidade é igualmente divulgado o risco."
+  },
+  "215209964": {
+   "fragment_id": "215212231",
+   "type": 11,
+   "heading": "Artigo 10.º — Fórmulas de cálculo da rendibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fórmulas de cálculo da rendibilidade\n\n1 - O cálculo das medidas de rendibilidade tem por base as seguintes fórmulas, sem prejuízo do disposto no n.º 3:\n\n(ver documento original)\n\n2 - O cálculo de medidas de rendibilidade tem por base valores expressos em euros, sem prejuízo da possibilidade de divulgação, em simultâneo, de medidas de rendibilidade não ajustadas pelo efeito cambial, desde que devidamente identificadas.\n\n3 - No caso de divulgação de medidas de rendibilidade não líquidas de eventuais comissões de subscrição e reembolso, estas são devidamente identificadas para o período de referência."
+  },
+  "215209965": {
+   "fragment_id": "215212232",
+   "type": 11,
+   "heading": "Artigo 11.º — Divulgação da rendibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divulgação da rendibilidade\n\n1 - Apenas podem ser divulgadas medidas de rendibilidade anualizadas, sem prejuízo do disposto no n.º 5.\n\n2 - O período de referência mínimo a considerar para efeitos da alínea a) do n.º 1 do artigo anterior é de 12 meses.\n\n3 - Sempre que o período de referência ultrapasse o intervalo mínimo estabelecido no número anterior são considerados como períodos de referência os respectivos múltiplos.\n\n4 - Em derrogação ao número anterior, pode ser considerada, para efeitos da alínea a) do n.º 1 do artigo anterior, a data de início de actividade do fundo ou da comercialização do contrato de seguro ligado a fundos de investimento, desde que o período de referência ultrapasse o intervalo mínimo estabelecido no n.º 2.\n\n5 - Podem ser divulgadas medidas de rendibilidade efectiva de fundo de pensões ou de contratos de seguro ligados a fundos de investimento com menos de um ano de actividade ou comercialização, desde que tenham por base um período de referência mínimo de seis meses.\n\n6 - Não podem ser utilizados períodos de referência cujo termo tenha ocorrido há mais de um mês relativamente à data da divulgação das medidas de rendibilidade, excepto no âmbito de campanha publicitária previamente iniciada, há menos de três meses.\n\n7 - Em derrogação ao número anterior, podem ser utilizados períodos de referência que correspondam a anos civis completos.\n\n8 - Os valores divulgados referentes a medidas de rendibilidade de fundos de pensões devem corresponder a fundos individualmente considerados, não podendo ser divulgadas medidas de rendibilidade médias que integrem no seu cálculo mais que um fundo de pensões."
+  },
+  "215209966": {
+   "fragment_id": "215212233",
+   "type": 11,
+   "heading": "Artigo 12.º — Fórmulas de cálculo do risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fórmulas de cálculo do risco\n\n1 - O cálculo das medidas de risco tem por base as seguintes fórmulas:\n\n(ver documento original)\n\n2 - A classificação do nível de risco é efectuada de acordo com a seguinte tabela:\n\n(ver documento original)\n\n3 - O cálculo das medidas de risco tem por base os critérios utilizados para efeitos do cálculo da rendibilidade, nomeadamente, o disposto nos n.os 2 e 3 do artigo anterior.\n\n4 - A informação sobre o nível do risco pode ser prestada através da identificação em percentagem do desvio padrão anualizado, da classe de risco ou do escalão de risco."
+  },
+  "215209967": {
+   "fragment_id": "215212234",
+   "type": 1,
+   "heading": "Capítulo III — Comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Comercialização"
+  },
+  "215209968": {
+   "fragment_id": "215212235",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "215209969": {
+   "fragment_id": "215212236",
+   "type": 11,
+   "heading": "Artigo 13.º — Prestação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prestação de informação\n\n1 - Sempre que a comercialização não seja assegurada pela entidade gestora do fundo de pensões ou pela empresa de seguros que explora o contrato de seguro ligado a fundos de investimento, aquelas entidades comercializadoras disponibilizam ao participante ou ao tomador de seguro a informação que para o efeito lhes tenha sido remetida por aquela.\n\n2 - Compete à entidade gestora do fundo de pensões ou à empresa de seguros que explora o contrato de seguro ligado a fundos de investimento assegurar que as demais entidades comercializadoras disponibilizam todos os elementos informativos e que fazem prova da sua efectiva disponibilização ao participante ou ao tomador de seguro."
+  },
+  "215209970": {
+   "fragment_id": "215212237",
+   "type": 11,
+   "heading": "Artigo 14.º — Adequação às circunstâncias pessoais do cliente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Adequação às circunstâncias pessoais do cliente\n\n1 - As entidades comercializadoras solicitam ao cliente a informação necessária para avaliar a adequação do produto oferecido às circunstâncias pessoais daquele, nomeadamente ao seu perfil de risco, por forma a orientá-lo para que a sua decisão de investimento seja tomada de forma consciente e se adeqúe a esse perfil.\n\n2 - Os deveres mencionados no número anterior aplicam-se igualmente às entidades que prestem o serviço de consultoria em relação a contratos de adesão individual a fundos de pensões abertos e contratos de seguro ligados a fundos de investimento."
+  },
+  "215209971": {
+   "fragment_id": "215212238",
+   "type": 11,
+   "heading": "Artigo 15.º — Comercialização através da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comercialização através da Internet\n\nO disposto no capítulo v do título ii do Regulamento da CMVM n.º 2/2007, relativo ao exercício de actividade de intermediação financeira, é aplicável à comercialização de contratos de adesão individual a fundos de pensões abertos e de contratos de seguro ligados a fundos de investimento."
+  },
+  "215209972": {
+   "fragment_id": "215212239",
+   "type": 11,
+   "heading": "Artigo 16.º — Comercialização através do telefone",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comercialização através do telefone\n\n1 - As comunicações telefónicas relativas à comercialização de contratos de adesão individual a fundos de pensões abertos e de contratos de seguro ligados a fundos de investimento são objecto de registo em suporte fonográfico, o qual assegura níveis adequados de inteligibilidade, durabilidade e autenticidade.\n\n2 - A entidade comercializadora deve, no início da comunicação telefónica, informar o consumidor de que a comunicação está a ser objecto de registo nos termos do número anterior."
+  },
+  "215209973": {
+   "fragment_id": "215212240",
+   "type": 11,
+   "heading": "Artigo 17.º — Extracto trimestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extracto trimestral\n\nCom uma periodicidade mínima trimestral, as entidades gestoras, por si ou por intermédio das entidades comercializadoras, disponibilizam:\n\na) Aos participantes de um fundo de pensões um extracto que contenha o número de unidades de participação detidas, o seu valor e o valor total do investimento;\n\nb) Aos tomadores ou pessoa segura de um contrato de seguro ligado a fundos de investimento um extracto que contenha o número de unidades de participação de referência, o seu valor e o valor total do investimento."
+  },
+  "215209974": {
+   "fragment_id": "215212241",
+   "type": 11,
+   "heading": "Artigo 18.º — Conservação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conservação de documentos\n\nAs entidades comercializadoras conservam em arquivo pelo prazo de 5 anos os documentos relativos a contratos de adesão individual a fundos de pensões e à comercialização de unidades de participação destes e a contratos de seguros ligados a fundos de investimento, contado a partir:\n\na) Do resgate das unidades de participação detidas pelo participante no fundo de investimento;\n\nb) Da cessação do contrato de seguro ligado a fundos de investimento."
+  },
+  "215210675": {
+   "fragment_id": "215212242",
+   "type": 8,
+   "heading": "Secção II — Comercialização de fundos de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Comercialização de fundos de pensões"
+  },
+  "215210676": {
+   "fragment_id": "215212243",
+   "type": 11,
+   "heading": "Artigo 19.º — Processamento de ordens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Processamento de ordens\n\nNos casos em que, por motivos de ordem técnica, não seja possível a uma entidade comercializadora assegurar o regular processamento de ordens de subscrição, de reembolso ou transferência de unidades de participação de fundos de pensões, aquela efectua todas as diligências conducentes ao processamento das mesmas, designadamente, canalizando as intenções de investimento para a entidade gestora ou para outras entidades comercializadoras."
+  },
+  "215210677": {
+   "fragment_id": "215212244",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de subscrição, reembolso e transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de subscrição, reembolso e transferência\n\n1 - Nos fundos de pensões que constituem objecto do presente regulamento, podem verificar-se condições de comercialização de unidades de participação distintas por entidade comercializadora, por meio utilizado para a comercialização ou pelo segmento de participante a que se destinam, desde que as mesmas se encontrem previstas no prospecto simplificado.\n\n2 - As condições previstas no número anterior compreendem, designadamente:\n\na) O valor mínimo para efeitos de subscrição;\n\nb) As comissões de subscrição, reembolso e transferência aplicáveis;\n\nc) As datas de subscrição e reembolso efectivas."
+  },
+  "215210678": {
+   "fragment_id": "215212245",
+   "type": 11,
+   "heading": "Artigo 21.º — Informação sobre pagamento do benefício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Informação sobre pagamento do benefício\n\nA entidade gestora do fundo de pensões aberto deve prestar, por sua iniciativa e por escrito, ao beneficiário do contrato de adesão individual, no seu vencimento, todas as informações e esclarecimentos relacionados com a forma e o tempo de pagamento dos benefícios, designadamente esclarecendo ao beneficiário as opções de recebimento possíveis e a eventual adequação de alguma delas ao respectivo perfil."
+  },
+  "215210679": {
+   "fragment_id": "215212246",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "215210680": {
+   "fragment_id": "215212247",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime transitório\n\n1 - As entidades gestoras de fundos de pensões abertos com adesão individual já constituídos ou cujo pedido de autorização tenha sido apresentado junto do ISP antes da data da entrada em vigor deste Regulamento comunicam à CMVM os respectivos prospecto simplificados até 2 de Janeiro de 2008.\n\n2 - As empresas de seguros que, à data da entrada em vigor deste Regulamento, exploram contratos de seguro ligados a fundos de investimento comunicam à CMVM os prospectos simplificados dos fundos subjacentes até 2 de Janeiro de 2008.\n\n3 - Os prospectos simplificados referidos nos números anteriores são até à mesma data disponibilizados aos participantes dos fundos de pensões ou aos tomadores de seguros ligados aos fundos de investimento.\n\n4 - O período de 10 anos mencionado na alínea o) do n.º 1 do artigo 4.º só começa a ser contado a partir de 1 de Janeiro de 2004.\n\n5 - O presente Regulamento não se aplica aos produtos cuja comercialização haja cessado em data anterior à sua entrada em vigor."
+  },
+  "215210681": {
+   "fragment_id": "215212248",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente Regulamento entra em vigor no dia seguinte ao da sua publicação.\n\n15 de Novembro de 2007. - O Presidente do Conselho Directivo, Carlos Tavares. - O Vice-Presidente do Conselho Directivo, Amadeu Ferreira."
+  },
+  "215210682": {
+   "fragment_id": "215212249",
+   "type": 14,
+   "heading": "Anexo I — (informação prevista no artigo 4.º do Regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (informação prevista no artigo 4.º do Regulamento)\n\nModelo de prospecto simplificado de contrato de adesão individual a fundo de pensões aberto (1)\n\n(ver documento original)\n\n(1) O prospecto simplificado tem um máximo de duas páginas, em formato A4, por cada fundo de pensões.\n\n(2) Se o fundo de pensões alterou a sua denominação nos últimos 6 meses, deve incluir-se a denominação anterior."
+  },
+  "215210683": {
+   "fragment_id": "215212250",
+   "type": 14,
+   "heading": "Anexo II — (informação prevista no artigo 5.º do Regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (informação prevista no artigo 5.º do Regulamento)\n\nModelo de Prospecto simplificado de contrato de seguro ligado a fundos de investimento\n\n(ver documento original)"
+  },
+  "215210684": {
+   "fragment_id": "215212251",
+   "type": 14,
+   "heading": "Anexo III — (informação prevista no artigo 6.º do Regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (informação prevista no artigo 6.º do Regulamento)\n\nII.1 - Tabela de custos relevantes para efeitos da Taxa Global de Custos\n\n(ver documento original)\n\nII.2 - Tabela de custos imputáveis ao fundo de pensões/fundo de investimento afecto ao contrato de seguro e aos participantes/tomadores de seguro\n\n(ver documento original)\n\nII.3 - Rotação média da carteira no período de referência\n\n(ver documento original)"
+  },
+  "215209950": {
+   "fragment_id": "215212217",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamento da CMVM n.º 8/2007\n\nComercialização de fundos de pensões abertos de adesão individual e de contratos de seguro ligados a fundos de investimento\n\nA transposição para a ordem jurídica interna da Directiva 2004/39/CE do Parlamento e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros (DMIF) impõe, no cenário mais amplo da harmonização comunitária do enquadramento normativo dos mercados financeiros, uma actualização do elenco de instrumentos financeiros como tal considerados para efeitos legais e regulamentares do mercado financeiro. Neste contexto, e aproveitando as alterações legislativas e regulamentares a que a transposição da DMIF obriga, procede-se à equiparação dos contratos de seguro ligados a fundos de investimento (unit linked) a instrumentos financeiros, atenta a respectiva similitude funcional e substancial. Com esta qualificação, agora consagrada no n.º 3 do artigo 2.º do Código dos Valores Mobiliários, a regulação e supervisão da comercialização dos contratos de seguro ligados a fundos de investimento passa agora a constituir uma competência da CMVM.\n\nPor razões análogas, e tendo em vista ainda a necessária harmonização possível com o regime dos fundos de investimento, a supervisão da comercialização dos contratos de adesão individual a fundos de pensões, incluindo a respectiva publicidade e toda a informação conexa com a sua distribuição no mercado, passa igualmente a constitui uma competência da CMVM. Pretende-se estabelecer em relação a ambos os produtos um quadro normativo rigoroso e eficiente de protecção dos respectivos consumidores no que respeita às condições da sua comercialização, designadamente relacionadas com a informação exigida, por forma a garantir que o investimento nestes produtos seja feito, em quaisquer condições, de acordo com critérios de compreensão, adequação e transparência. Nesta linha, o presente regulamento passa a exigir um prospecto simplificado para a comercialização de ambos os produtos, à semelhança do que já sucede com os restantes instrumentos financeiros, onde se dispensa ao participante toda a informação relacionada com o produto e com a entidade que o distribui no mercado.\n\nPor outro lado, impõe-se à entidade gestora e ou comercializadora a divulgação rigorosa e periódica das fórmulas de cálculo do valor do património dos fundos e das respectivas unidades de participação, bem como das medidas de rendibilidade e de risco dos produtos, e o reporte periódico do valor do património e das unidades de participação de cada participante ou tomador calculado de acordo com aquelas fórmulas, assim se assegurando a transparência e o conhecimento exacto e pontual, por parte do investidor, da sua posição de investimento, que lhe permita a qualquer momento tomar as decisões mais adequadas.\n\nNo que respeita às regras de comercialização, optou-se por adoptar mecanismos de garantia de adequação dos produtos ao perfil do investidor semelhantes aos impostos pela DMIF, embora mitigados pela necessidade de harmonização deste regime com outros mecanismos previstos para a área seguradora em lugares paralelos.\n\nFoi ouvido o Instituto de Seguros de Portugal e submetido o correspondente anteprojecto a consulta pública.\n\nAssim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 353.º do Código dos Valores Mobiliários, no n.º 1 do artigo 131.º-A do Decreto-Lei n.º 94-B/98, de 17 de Abril, nos n.os 3 e 4 do artigo 5.º-A do Decreto-Lei n.º 176/95, de 26 de Julho, no n.º 2 do artigo 14.º, nos n.os 1 e 4 do artigo 63.º e no n.º 1 do artigo 65.º do Decreto-Lei n.º 12/2006, o conselho directivo da Comissão do Mercado de Valores Mobiliários aprovou o seguinte regulamento:"
+  },
+  "215210742": {
+   "fragment_id": "215212225",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo do prospecto simplificado de contrato de seguro ligado a fundos de investimento",
+   "in_force_from": "2009-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+   ],
+   "markdown": "###### Artigo 5.º — Conteúdo do prospecto simplificado de contrato de seguro ligado a fundos de investimento\n\nO prospecto simplificado de contratos de seguro ligados a fundos de investimento deve conter os seguintes elementos informativos:\n\na) Indicação da data da última actualização do prospecto simplificado;\n\nb) Identificação da empresa de seguros e declaração da respectiva autorização legal para o exercício da actividade seguradora em território português, país e endereço da sede social ou da agência ou sucursal com que o contrato será celebrado e ainda, sendo o caso, identificação do grupo financeiro a que pertence;\n\nc) Locais e meios de comercialização do seguro;\n\nd) Identificação das autoridades de supervisão;\n\ne) Mecanismos implementados pela empresa de seguros relativamente ao tratamento das reclamações relativas ao contrato de seguro ligado a fundos de investimento e apresentadas pelos respectivos tomadores, pessoas seguras ou beneficiários, com menção da possibilidade de reclamação junto do Instituto de Seguros de Portugal, sem prejuízo do recurso aos tribunais;\n\nf) Designação comercial do produto;\n\ng) Data e início de comercialização;\n\nh) Duração do contrato ou período recomendado para o investimento;\n\ni) Risco de perda do investimento e identificação, em caixa destacada, relativa aos principais riscos do produto.\n\nj) Garantias, opções e coberturas a conceder pela empresa de seguros em caso de vida ou em caso de morte da pessoa segura, tais como a existência de rendimento mínimo garantido, de valor mínimo de resgate e de coberturas complementares, e condições necessárias para a sua concretização, bem como produtos derivados associados às garantias, opções e coberturas; no caso de haver rendimento mínimo garantido, informação relativa à taxa de juro mínima garantida e à duração desta garantia.\n\nl) Condições e modalidades de renúncia, resolução unilateral e de resgate, de acordo com a legislação em vigor;\n\nm) Tabelas de valores de resgate e de redução e natureza das respectivas garantias;\n\nn) Penalização em caso de resgate, redução ou transferência dos contratos, designadamente em contratos que financiem planos de poupança;\n\no) Modalidades e período de pagamento dos prémios;\n\np) Prémios relativos a cada garantia principal ou complementar;\n\nq) Forma de cálculo e atribuição de participação nos resultados;\n\nr) Explicação do modo como a valorização da componente financeira do contrato de seguro afecto a fundos de investimento depende da evolução dos activos que compõem este último, bem como a natureza dos activos representativos da componente financeira do produto e a sua eventual qualidade de produtos não normalizados, nos termos previstos no n.º 16 da Parte II do anexo I da Norma Regulamentar n.º 5/2004-R do ISP;\n\ns) Perfil de risco dos tomadores de seguros a que a componente financeira do contrato de seguros ligado a fundos de investimento se dirige;\n\nt) Rendibilidade e risco históricos, os quais são apresentados através de representação gráfica da evolução do valor da unidade de participação e da rendibilidade do contrato de seguro, nos últimos dez anos civis ou, caso não seja aplicável, nos anos civis completos desde o seu início da actividade, bem como da quantificação das rendibilidades obtidas e do nível de risco verificado nos mesmos períodos, nos termos previstos nos artigos 10.º e 12.º\n\nu) Menção esclarecendo que os dados que serviram de base ao apuramento da rendibilidade e risco históricos são factos passados que, como tal, poderão não se verificar no futuro e nota explicativa sobre os níveis de risco nos termos do disposto na alínea b) do n.º 1 do artigo 9.º;\n\nv) Taxa Global de Custos (TGC) e a rotação média da carteira nos termos do anexo iii do presente Regulamento;\n\nw) Tabela de custos nos termos do anexo iii do presente Regulamento;\n\nx) Descrição sintética do regime fiscal aplicável ao contrato de seguro ligado a fundos de investimento e aos tomadores residentes em território nacional;\n\ny) Descrição sintética da política de investimentos do contrato;\n\nz) Locais de consulta da informação periódica relativa ao contrato de seguro ligado a fundos de investimento;\n\naa) Contacto para esclarecimentos sobre quaisquer dúvidas relativas ao contrato de seguro ligado a fundos de investimento.\n\nbb) Lei aplicável ao contrato.\n\n> Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+  },
+  "215210743": {
+   "fragment_id": "215212229",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicidade",
+   "in_force_from": "2009-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+   ],
+   "markdown": "###### Artigo 8.º — Publicidade\n\n1 - Sem prejuízo de outras exigências legais, as acções publicitárias relativas a contratos de adesão individual a fundos de pensões abertos e a contratos de seguro ligados a fundos de investimento indicam a existência do prospecto simplificado e dos locais e formas da sua obtenção ou acesso.\n\n2 - As acções publicitárias relativas a contratos de seguro ligados a fundos de investimento incluem ainda:\n\na) Indicação expressa de que o produto é qualificado como ICAE (Instrumento de Captação de Aforro Estruturado);\n\nb) Indicação de que se trata de um produto comercializado no âmbito da actividade seguradora e identificação completa da empresa de seguros responsável pela sua exploração;\n\nc) Menção da possibilidade ou não do risco de perda dos montantes investidos e da existência ou não de rendimento mínimo garantido.\n\n3 - Nas acções publicitárias ou informativas deve ser feita a menção de que se trata de um fundo de pensões ou de um contrato de seguro ligado a fundos de investimento.\n\n4 - As acções publicitárias relativas a contratos de adesão individual a fundos de pensões abertos devem ser previamente comunicadas à CMVM, juntamente com os elementos materiais que lhes sirvam de suporte.\n\n5 - As peças publicitárias relativas a contratos de seguro ligados a fundos de investimento estão sujeitas a aprovação prévia da CMVM.\n\n> Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+  },
+  "215212773": {
+   "fragment_id": "215212218",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212774": {
+   "fragment_id": "215212219",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente regulamento estabelece normas respeitantes:\n\na) À informação que deve ser prestada relativamente a contratos de adesão individual a fundos de pensões abertos e a contratos de seguro ligados a fundos de investimento; e\n\nb) À comercialização de contratos de adesão individual a fundos de pensões abertos e de contratos de seguro ligados a fundos de investimento.\n\n2 - Para efeitos do presente regulamento:\n\na) São entidades gestoras as entidades autorizadas a gerir fundos de pensões abertos com adesão individual;\n\nb) São empresas de seguro as empresas que, estando legalmente habilitadas para o efeito, exploram contratos de seguro ligados a fundos de investimento;\n\nc) São entidades comercializadoras todas as entidades que, dentro dos limites legais, se proponham celebrar ou mediar contratos de seguros ligados a fundos de investimento e contratos de adesão individual a fundos de pensões abertos ou comercializar unidades de participação destes, incluindo as que se dediquem a actividades de prospecção e de consultoria relativas àqueles contratos.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212875": {
+   "fragment_id": "215212220",
+   "type": 1,
+   "heading": "Capítulo II — Informação",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "### Capítulo II — Informação\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212876": {
+   "fragment_id": "215212221",
+   "type": 8,
+   "heading": "Secção I — Prospecto simplificado",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "#### Secção I — Prospecto simplificado\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212877": {
+   "fragment_id": "215212222",
+   "type": 11,
+   "heading": "Artigo 2.º — Exigibilidade de prospecto simplificado",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 2.º — Exigibilidade de prospecto simplificado\n\n1 - Antes da celebração de um contrato de adesão individual a um fundo de pensões aberto ou de um contrato de seguro ligado a fundos de investimento é, respectivamente, entregue um prospecto simplificado:\n\na) Ao potencial participante do fundo de pensões, pela entidade gestora;\n\nb) Ao potencial tomador de seguros, pela empresa de seguros.\n\n2 - O dever previsto no número anterior aplica-se independentemente do canal de comercialização utilizado e pode ser cumprido pela entidade comercializadora.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212878": {
+   "fragment_id": "215212223",
+   "type": 11,
+   "heading": "Artigo 3.º — Elaboração e divulgação do prospecto simplificado",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 3.º — Elaboração e divulgação do prospecto simplificado\n\n1 - A linguagem utilizada na elaboração do prospecto simplificado deve ser clara, sintética e facilmente compreensível para o participante ou tomador comum.\n\n2 - O prospecto simplificado deve ser elaborado de acordo com os formatos padronizados que constituem os Anexos I e II ao presente regulamento.\n\n3 - O prospecto simplificado deve ser divulgado no sistema de difusão de informação da CMVM.\n\n4 - No caso dos contratos de adesão individual a fundos de pensões abertos, o prospecto simplificado:\n\na) É igualmente divulgado através de um dos meios previstos no artigo 19.º do Decreto-Lei n.º 12/2006, de 20 de Janeiro;\n\nb) Só é divulgado após a concessão pelo ISP da autorização de constituição do fundo.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212879": {
+   "fragment_id": "215212224",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdo do prospecto simplificado de contratos de adesão individual a fundos de pensões abertos",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 4.º — Conteúdo do prospecto simplificado de contratos de adesão individual a fundos de pensões abertos\n\n1 - O prospecto simplificado de contrato de adesão individual a um fundo de pensões aberto deve conter os seguintes elementos informativos:\n\na) Indicação da data da última actualização do prospecto simplificado;\n\nb) Denominação e data de constituição do fundo de pensões;\n\nc) Tipo de fundo de pensões;\n\nd) Identificação da entidade gestora do fundo de pensões, e, sendo o caso, do grupo financeiro a que pertence;\n\ne) Identificação dos consultores de investimento do fundo de pensões;\n\nf) Identificação do depositário;\n\ng) Identificação e contactos do provedor dos participantes e beneficiários.\n\nh) Identificação dos auditores do fundo de pensões;\n\ni) Identificação das autoridades de supervisão;\n\nj) Descrição sucinta da política de investimentos do fundo de pensões;\n\nl) Riscos associados aos investimentos do fundo de pensões, evidenciando os mais relevantes, como sejam o risco de variação de preço, risco de crédito, risco de taxa de juro, risco cambial ou risco país;\n\nm) Caso o fundo de pensões invista em instrumentos financeiros derivados com intuito diferente da cobertura de risco, menção de destaque que explicite o acréscimo de risco associado a esse facto;\n\nn) Perfil do participante a que o fundo de pensões se dirige, com indicação das características do participante que melhor se ajustem ao investimento no fundo, designadamente o seu nível de aversão ao risco e tolerância em relação às oscilações do valor do capital investido e o seu propósito de investimento, como sejam, a rendibilidade ou os benefícios fiscais;\n\no) Rendibilidade e risco históricos, os quais são apresentados através de representação gráfica da evolução do valor da unidade de participação e da rendibilidade do fundo nos últimos 10 anos civis ou, caso não seja aplicável, nos anos civis completos desde o seu início da actividade, bem como da quantificação das rendibilidades obtidas e do nível de risco verificado nos mesmos períodos, nos termos previstos nos artigos 10.º e 12.º;\n\np) Menção esclarecendo que os dados que serviram de base ao apuramento da rendibilidade e risco históricos são factos passados que, como tal, poderão não se verificar no futuro e nota explicativa sobre os níveis de risco nos termos do disposto na alínea b) do n.º 1 do artigo 9.º;\n\nq) Taxa Global de Custos (TGC) e a rotação média da carteira nos termos do anexo iii do presente Regulamento;\n\nr) Tabela de custos nos termos do anexo iii do presente Regulamento;\n\ns) Modo de determinação do valor da unidade de participação para efeitos de subscrição, reembolso e transferência e respectivas condições de subscrição, reembolso e transferência;\n\nt) Indicação dos locais e frequência de divulgação do valor da unidade de participação;\n\nu) Estabelecimento de rendimento mínimo garantido, duração desta garantia e condições a que a mesma está sujeita, se for o caso;\n\nv) Locais de consulta de outra documentação relativa ao fundo de pensões, com a indicação de que relatórios e contas podem ser obtidos gratuitamente, mediante simples pedido, antes ou após a subscrição;\n\nx) Descrição sintética do regime fiscal aplicável ao fundo de pensões e aos participantes residentes em território nacional;\n\nz) Contacto para esclarecimentos sobre quaisquer dúvidas relativas ao fundo.\n\n2 - Os prospectos simplificados dos fundos de pensões que prevejam investir mais de 30 % do seu valor líquido global em unidades de participação de organismos de investimento colectivo deve conter, além dos elementos previstos no número anterior, informação sobre:\n\na) As políticas de investimento respectivas, em termos sintéticos;\n\nb) A taxa máxima de comissionamento suportada nos fundos em que investe.\n\n3 - Sempre que dois ou mais fundos de pensões sejam comercializados conjuntamente é elaborado um único prospecto simplificado, que contém uma parte geral concentrando a informação comum a todos os fundos de pensões, incluindo uma menção relativa às suas especialidades de regime, nomeadamente quanto à transferência de unidades de participação entre aqueles fundos, e uma parte especial contendo toda informação específica de cada fundo de pensões.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212880": {
+   "fragment_id": "215212225",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo do prospecto simplificado de contrato de seguro ligado a fundos de investimento",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07",
+    "Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+   ],
+   "markdown": "###### Artigo 5.º — Conteúdo do prospecto simplificado de contrato de seguro ligado a fundos de investimento\n\nO prospecto simplificado de contratos de seguro ligados a fundos de investimento deve conter os seguintes elementos informativos:\n\na) Indicação da data da última actualização do prospecto simplificado;\n\nb) Identificação da empresa de seguros e declaração da respectiva autorização legal para o exercício da actividade seguradora em território português, país e endereço da sede social ou da agência ou sucursal com que o contrato será celebrado e ainda, sendo o caso, identificação do grupo financeiro a que pertence;\n\nc) Locais e meios de comercialização do seguro;\n\nd) Identificação das autoridades de supervisão;\n\ne) Mecanismos implementados pela empresa de seguros relativamente ao tratamento das reclamações relativas ao contrato de seguro ligado a fundos de investimento e apresentadas pelos respectivos tomadores, pessoas seguras ou beneficiários, com menção da possibilidade de reclamação junto do Instituto de Seguros de Portugal, sem prejuízo do recurso aos tribunais;\n\nf) Designação comercial do produto;\n\ng) Data e início de comercialização;\n\nh) Duração do contrato ou período recomendado para o investimento;\n\ni) Risco de perda do investimento e identificação, em caixa destacada, relativa aos principais riscos do produto.\n\nj) Garantias, opções e coberturas a conceder pela empresa de seguros em caso de vida ou em caso de morte da pessoa segura, tais como a existência de rendimento mínimo garantido, de valor mínimo de resgate e de coberturas complementares, e condições necessárias para a sua concretização, bem como produtos derivados associados às garantias, opções e coberturas; no caso de haver rendimento mínimo garantido, informação relativa à taxa de juro mínima garantida e à duração desta garantia.\n\nl) Condições e modalidades de renúncia, resolução unilateral e de resgate, de acordo com a legislação em vigor;\n\nm) Tabelas de valores de resgate e de redução e natureza das respectivas garantias;\n\nn) Penalização em caso de resgate, redução ou transferência dos contratos, designadamente em contratos que financiem planos de poupança;\n\no) Modalidades e período de pagamento dos prémios;\n\np) Prémios relativos a cada garantia principal ou complementar;\n\nq) Forma de cálculo e atribuição de participação nos resultados;\n\nr) Explicação do modo como a valorização da componente financeira do contrato de seguro afecto a fundos de investimento depende da evolução dos activos que compõem este último, bem como a natureza dos activos representativos da componente financeira do produto e a sua eventual qualidade de produtos não normalizados, nos termos previstos no n.º 16 da Parte II do anexo I da Norma Regulamentar n.º 5/2004-R do ISP;\n\ns) Perfil de risco dos tomadores de seguros a que a componente financeira do contrato de seguros ligado a fundos de investimento se dirige;\n\nt) Rendibilidade e risco históricos, os quais são apresentados através de representação gráfica da evolução do valor da unidade de participação e da rendibilidade do contrato de seguro, nos últimos dez anos civis ou, caso não seja aplicável, nos anos civis completos desde o seu início da actividade, bem como da quantificação das rendibilidades obtidas e do nível de risco verificado nos mesmos períodos, nos termos previstos nos artigos 10.º e 12.º\n\nu) Menção esclarecendo que os dados que serviram de base ao apuramento da rendibilidade e risco históricos são factos passados que, como tal, poderão não se verificar no futuro e nota explicativa sobre os níveis de risco nos termos do disposto na alínea b) do n.º 1 do artigo 9.º;\n\nv) Taxa Global de Custos (TGC) e a rotação média da carteira nos termos do anexo iii do presente Regulamento;\n\nw) Tabela de custos nos termos do anexo iii do presente Regulamento;\n\nx) Descrição sintética do regime fiscal aplicável ao contrato de seguro ligado a fundos de investimento e aos tomadores residentes em território nacional;\n\ny) Descrição sintética da política de investimentos do contrato;\n\nz) Locais de consulta da informação periódica relativa ao contrato de seguro ligado a fundos de investimento;\n\naa) Contacto para esclarecimentos sobre quaisquer dúvidas relativas ao contrato de seguro ligado a fundos de investimento.\n\nbb) Lei aplicável ao contrato.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07\n\n> Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+  },
+  "215212881": {
+   "fragment_id": "215212226",
+   "type": 11,
+   "heading": "Artigo 6.º — Taxa global de custos",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 6.º — Taxa global de custos\n\n1 - A taxa global de custos (TGC) consiste no quociente entre a soma da comissão de gestão, da comissão de depósito, custos de auditoria e outros custos operacionais, previstos no anexo iii, excluindo os custos de transacção, num dado período, e o seu valor líquido global médio nesse mesmo período.\n\n2 - Os custos operacionais referidos no número anterior incluem os suportados pelo fundo de pensões e os suportados pelos participantes.\n\n3 - O prospecto simplificado contém a TGC relativa ao ano civil imediatamente anterior, apurada com referência a 31 de Dezembro, devendo o seu cálculo ser validado pelo auditor do fundo.\n\n4 - Os prospectos simplificados dos fundos de pensões referidos no n.º 2 do artigo 4.º apresentam uma TGC que tem em consideração as TGC dos organismos de investimento colectivo em que investiram, salvo se a sua determinação não se mostrar possível.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212882": {
+   "fragment_id": "215212227",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações ao prospecto simplificado",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 7.º — Alterações ao prospecto simplificado\n\n1 - As alterações relevantes respeitantes aos elementos mencionados no prospecto simplificado implicam a respectiva actualização.\n\n2 - A informação relativa a rendibilidade e risco históricos e ao regime fiscal aplicável é actualizada anualmente, até ao final do mês de Abril.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212883": {
+   "fragment_id": "215212228",
+   "type": 8,
+   "heading": "Secção II — Publicidade e divulgação de medidas de rendibilidade e de risco",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "#### Secção II — Publicidade e divulgação de medidas de rendibilidade e de risco\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212884": {
+   "fragment_id": "215212229",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicidade",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07",
+    "Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+   ],
+   "markdown": "###### Artigo 8.º — Publicidade\n\n1 - Sem prejuízo de outras exigências legais, as acções publicitárias relativas a contratos de adesão individual a fundos de pensões abertos e a contratos de seguro ligados a fundos de investimento indicam a existência do prospecto simplificado e dos locais e formas da sua obtenção ou acesso.\n\n2 - As acções publicitárias relativas a contratos de seguro ligados a fundos de investimento incluem ainda:\n\na) Indicação expressa de que o produto é qualificado como ICAE (Instrumento de Captação de Aforro Estruturado);\n\nb) Indicação de que se trata de um produto comercializado no âmbito da actividade seguradora e identificação completa da empresa de seguros responsável pela sua exploração;\n\nc) Menção da possibilidade ou não do risco de perda dos montantes investidos e da existência ou não de rendimento mínimo garantido.\n\n3 - Nas acções publicitárias ou informativas deve ser feita a menção de que se trata de um fundo de pensões ou de um contrato de seguro ligado a fundos de investimento.\n\n4 - As acções publicitárias relativas a contratos de adesão individual a fundos de pensões abertos devem ser previamente comunicadas à CMVM, juntamente com os elementos materiais que lhes sirvam de suporte.\n\n5 - As peças publicitárias relativas a contratos de seguro ligados a fundos de investimento estão sujeitas a aprovação prévia da CMVM.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07\n\n> Alterado pelo/a Artigo 7.º do/a [Regulamento da CMVM n.º 1/2009 - Diário da República n.º 146/2009, Série II de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/1-2009-757016), em vigor a partir de 2009-07-31"
+  },
+  "215212885": {
+   "fragment_id": "215212230",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação sobre medidas de rendibilidade",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 9.º — Informação sobre medidas de rendibilidade\n\n1 - Em todas as acções publicitárias ou informativas onde sejam divulgadas medidas de rendibilidade, constam:\n\na) A identificação completa do fundo de pensões ou do contrato de seguro ligado a fundos de investimento e da entidade gestora ou empresa de seguros, respectivamente;\n\nb) A menção de que as rendibilidades divulgadas representam dados passados, não constituindo garantia de rendibilidade futura, porque o valor do investimento pode aumentar ou diminuir em função do nível de risco que varia entre 1 (risco baixo) e 6 (risco muito alto).\n\nc) A identificação clara do período de referência, nomeadamente as datas inicial e final;\n\nd) A indicação de que a rendibilidade depende do regime de tributação de rendimentos e de eventuais benefícios fiscais;\n\ne) A divulgação do rendimento mínimo garantido, se aplicável.\n\n2 - Sempre que sejam divulgadas medidas de rendibilidade anualizadas que tenham por base um período de referência superior a 1 ano, é feita menção de que tal rendibilidade apenas seria obtida se o investimento fosse efectuado durante a totalidade do período de referência.\n\n3 - Sempre que sejam divulgadas medidas de rendibilidade é igualmente divulgado o risco.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212886": {
+   "fragment_id": "215212231",
+   "type": 11,
+   "heading": "Artigo 10.º — Fórmulas de cálculo da rendibilidade",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 10.º — Fórmulas de cálculo da rendibilidade\n\n1 - O cálculo das medidas de rendibilidade tem por base as seguintes fórmulas, sem prejuízo do disposto no n.º 3:\n\n(ver documento original)\n\n2 - O cálculo de medidas de rendibilidade tem por base valores expressos em euros, sem prejuízo da possibilidade de divulgação, em simultâneo, de medidas de rendibilidade não ajustadas pelo efeito cambial, desde que devidamente identificadas.\n\n3 - No caso de divulgação de medidas de rendibilidade não líquidas de eventuais comissões de subscrição e reembolso, estas são devidamente identificadas para o período de referência.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212887": {
+   "fragment_id": "215212232",
+   "type": 11,
+   "heading": "Artigo 11.º — Divulgação da rendibilidade",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 11.º — Divulgação da rendibilidade\n\n1 - Apenas podem ser divulgadas medidas de rendibilidade anualizadas, sem prejuízo do disposto no n.º 5.\n\n2 - O período de referência mínimo a considerar para efeitos da alínea a) do n.º 1 do artigo anterior é de 12 meses.\n\n3 - Sempre que o período de referência ultrapasse o intervalo mínimo estabelecido no número anterior são considerados como períodos de referência os respectivos múltiplos.\n\n4 - Em derrogação ao número anterior, pode ser considerada, para efeitos da alínea a) do n.º 1 do artigo anterior, a data de início de actividade do fundo ou da comercialização do contrato de seguro ligado a fundos de investimento, desde que o período de referência ultrapasse o intervalo mínimo estabelecido no n.º 2.\n\n5 - Podem ser divulgadas medidas de rendibilidade efectiva de fundo de pensões ou de contratos de seguro ligados a fundos de investimento com menos de um ano de actividade ou comercialização, desde que tenham por base um período de referência mínimo de seis meses.\n\n6 - Não podem ser utilizados períodos de referência cujo termo tenha ocorrido há mais de um mês relativamente à data da divulgação das medidas de rendibilidade, excepto no âmbito de campanha publicitária previamente iniciada, há menos de três meses.\n\n7 - Em derrogação ao número anterior, podem ser utilizados períodos de referência que correspondam a anos civis completos.\n\n8 - Os valores divulgados referentes a medidas de rendibilidade de fundos de pensões devem corresponder a fundos individualmente considerados, não podendo ser divulgadas medidas de rendibilidade médias que integrem no seu cálculo mais que um fundo de pensões.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212888": {
+   "fragment_id": "215212233",
+   "type": 11,
+   "heading": "Artigo 12.º — Fórmulas de cálculo do risco",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 12.º — Fórmulas de cálculo do risco\n\n1 - O cálculo das medidas de risco tem por base as seguintes fórmulas:\n\n(ver documento original)\n\n2 - A classificação do nível de risco é efectuada de acordo com a seguinte tabela:\n\n(ver documento original)\n\n3 - O cálculo das medidas de risco tem por base os critérios utilizados para efeitos do cálculo da rendibilidade, nomeadamente, o disposto nos n.os 2 e 3 do artigo anterior.\n\n4 - A informação sobre o nível do risco pode ser prestada através da identificação em percentagem do desvio padrão anualizado, da classe de risco ou do escalão de risco.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212889": {
+   "fragment_id": "215212234",
+   "type": 1,
+   "heading": "Capítulo III — Comercialização",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "### Capítulo III — Comercialização\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212890": {
+   "fragment_id": "215212235",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212891": {
+   "fragment_id": "215212236",
+   "type": 11,
+   "heading": "Artigo 13.º — Prestação de informação",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 13.º — Prestação de informação\n\n1 - Sempre que a comercialização não seja assegurada pela entidade gestora do fundo de pensões ou pela empresa de seguros que explora o contrato de seguro ligado a fundos de investimento, aquelas entidades comercializadoras disponibilizam ao participante ou ao tomador de seguro a informação que para o efeito lhes tenha sido remetida por aquela.\n\n2 - Compete à entidade gestora do fundo de pensões ou à empresa de seguros que explora o contrato de seguro ligado a fundos de investimento assegurar que as demais entidades comercializadoras disponibilizam todos os elementos informativos e que fazem prova da sua efectiva disponibilização ao participante ou ao tomador de seguro.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212892": {
+   "fragment_id": "215212237",
+   "type": 11,
+   "heading": "Artigo 14.º — Adequação às circunstâncias pessoais do cliente",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 14.º — Adequação às circunstâncias pessoais do cliente\n\n1 - As entidades comercializadoras solicitam ao cliente a informação necessária para avaliar a adequação do produto oferecido às circunstâncias pessoais daquele, nomeadamente ao seu perfil de risco, por forma a orientá-lo para que a sua decisão de investimento seja tomada de forma consciente e se adeqúe a esse perfil.\n\n2 - Os deveres mencionados no número anterior aplicam-se igualmente às entidades que prestem o serviço de consultoria em relação a contratos de adesão individual a fundos de pensões abertos e contratos de seguro ligados a fundos de investimento.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212893": {
+   "fragment_id": "215212238",
+   "type": 11,
+   "heading": "Artigo 15.º — Comercialização através da Internet",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 15.º — Comercialização através da Internet\n\nO disposto no capítulo v do título ii do Regulamento da CMVM n.º 2/2007, relativo ao exercício de actividade de intermediação financeira, é aplicável à comercialização de contratos de adesão individual a fundos de pensões abertos e de contratos de seguro ligados a fundos de investimento.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212894": {
+   "fragment_id": "215212239",
+   "type": 11,
+   "heading": "Artigo 16.º — Comercialização através do telefone",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 16.º — Comercialização através do telefone\n\n1 - As comunicações telefónicas relativas à comercialização de contratos de adesão individual a fundos de pensões abertos e de contratos de seguro ligados a fundos de investimento são objecto de registo em suporte fonográfico, o qual assegura níveis adequados de inteligibilidade, durabilidade e autenticidade.\n\n2 - A entidade comercializadora deve, no início da comunicação telefónica, informar o consumidor de que a comunicação está a ser objecto de registo nos termos do número anterior.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212895": {
+   "fragment_id": "215212240",
+   "type": 11,
+   "heading": "Artigo 17.º — Extracto trimestral",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 17.º — Extracto trimestral\n\nCom uma periodicidade mínima trimestral, as entidades gestoras, por si ou por intermédio das entidades comercializadoras, disponibilizam:\n\na) Aos participantes de um fundo de pensões um extracto que contenha o número de unidades de participação detidas, o seu valor e o valor total do investimento;\n\nb) Aos tomadores ou pessoa segura de um contrato de seguro ligado a fundos de investimento um extracto que contenha o número de unidades de participação de referência, o seu valor e o valor total do investimento.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212896": {
+   "fragment_id": "215212241",
+   "type": 11,
+   "heading": "Artigo 18.º — Conservação de documentos",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 18.º — Conservação de documentos\n\nAs entidades comercializadoras conservam em arquivo pelo prazo de 5 anos os documentos relativos a contratos de adesão individual a fundos de pensões e à comercialização de unidades de participação destes e a contratos de seguros ligados a fundos de investimento, contado a partir:\n\na) Do resgate das unidades de participação detidas pelo participante no fundo de investimento;\n\nb) Da cessação do contrato de seguro ligado a fundos de investimento.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212897": {
+   "fragment_id": "215212242",
+   "type": 8,
+   "heading": "Secção II — Comercialização de fundos de pensões",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "#### Secção II — Comercialização de fundos de pensões\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212898": {
+   "fragment_id": "215212243",
+   "type": 11,
+   "heading": "Artigo 19.º — Processamento de ordens",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 19.º — Processamento de ordens\n\nNos casos em que, por motivos de ordem técnica, não seja possível a uma entidade comercializadora assegurar o regular processamento de ordens de subscrição, de reembolso ou transferência de unidades de participação de fundos de pensões, aquela efectua todas as diligências conducentes ao processamento das mesmas, designadamente, canalizando as intenções de investimento para a entidade gestora ou para outras entidades comercializadoras.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212899": {
+   "fragment_id": "215212244",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de subscrição, reembolso e transferência",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 20.º — Condições de subscrição, reembolso e transferência\n\n1 - Nos fundos de pensões que constituem objecto do presente regulamento, podem verificar-se condições de comercialização de unidades de participação distintas por entidade comercializadora, por meio utilizado para a comercialização ou pelo segmento de participante a que se destinam, desde que as mesmas se encontrem previstas no prospecto simplificado.\n\n2 - As condições previstas no número anterior compreendem, designadamente:\n\na) O valor mínimo para efeitos de subscrição;\n\nb) As comissões de subscrição, reembolso e transferência aplicáveis;\n\nc) As datas de subscrição e reembolso efectivas.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212900": {
+   "fragment_id": "215212245",
+   "type": 11,
+   "heading": "Artigo 21.º — Informação sobre pagamento do benefício",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 21.º — Informação sobre pagamento do benefício\n\nA entidade gestora do fundo de pensões aberto deve prestar, por sua iniciativa e por escrito, ao beneficiário do contrato de adesão individual, no seu vencimento, todas as informações e esclarecimentos relacionados com a forma e o tempo de pagamento dos benefícios, designadamente esclarecendo ao beneficiário as opções de recebimento possíveis e a eventual adequação de alguma delas ao respectivo perfil.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212901": {
+   "fragment_id": "215212246",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212902": {
+   "fragment_id": "215212247",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime transitório",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 22.º — Regime transitório\n\n1 - As entidades gestoras de fundos de pensões abertos com adesão individual já constituídos ou cujo pedido de autorização tenha sido apresentado junto do ISP antes da data da entrada em vigor deste Regulamento comunicam à CMVM os respectivos prospecto simplificados até 2 de Janeiro de 2008.\n\n2 - As empresas de seguros que, à data da entrada em vigor deste Regulamento, exploram contratos de seguro ligados a fundos de investimento comunicam à CMVM os prospectos simplificados dos fundos subjacentes até 2 de Janeiro de 2008.\n\n3 - Os prospectos simplificados referidos nos números anteriores são até à mesma data disponibilizados aos participantes dos fundos de pensões ou aos tomadores de seguros ligados aos fundos de investimento.\n\n4 - O período de 10 anos mencionado na alínea o) do n.º 1 do artigo 4.º só começa a ser contado a partir de 1 de Janeiro de 2004.\n\n5 - O presente Regulamento não se aplica aos produtos cuja comercialização haja cessado em data anterior à sua entrada em vigor.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212903": {
+   "fragment_id": "215212248",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente Regulamento entra em vigor no dia seguinte ao da sua publicação.\n\n15 de Novembro de 2007. - O Presidente do Conselho Directivo, Carlos Tavares. - O Vice-Presidente do Conselho Directivo, Amadeu Ferreira.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212904": {
+   "fragment_id": "215212249",
+   "type": 14,
+   "heading": "Anexo I — (informação prevista no artigo 4.º do Regulamento)",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "## Anexo I — (informação prevista no artigo 4.º do Regulamento)\n\nModelo de prospecto simplificado de contrato de adesão individual a fundo de pensões aberto (1)\n\n(ver documento original)\n\n(1) O prospecto simplificado tem um máximo de duas páginas, em formato A4, por cada fundo de pensões.\n\n(2) Se o fundo de pensões alterou a sua denominação nos últimos 6 meses, deve incluir-se a denominação anterior.\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212905": {
+   "fragment_id": "215212250",
+   "type": 14,
+   "heading": "Anexo II — (informação prevista no artigo 5.º do Regulamento)",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "## Anexo II — (informação prevista no artigo 5.º do Regulamento)\n\nModelo de Prospecto simplificado de contrato de seguro ligado a fundos de investimento\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  },
+  "215212906": {
+   "fragment_id": "215212251",
+   "type": 14,
+   "heading": "Anexo III — (informação prevista no artigo 6.º do Regulamento)",
+   "in_force_from": "2013-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+   ],
+   "markdown": "## Anexo III — (informação prevista no artigo 6.º do Regulamento)\n\nII.1 - Tabela de custos relevantes para efeitos da Taxa Global de Custos\n\n(ver documento original)\n\nII.2 - Tabela de custos imputáveis ao fundo de pensões/fundo de investimento afecto ao contrato de seguro e aos participantes/tomadores de seguro\n\n(ver documento original)\n\nII.3 - Rotação média da carteira no período de referência\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 107.º do/a [Regulamento da CMVM n.º 5/2013 - Diário da República n.º 173/2013, 1º Suplemento, Série II de 2013-09-09](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/5-2013-2019136), em vigor a partir de 2013-09-10, produz efeitos a partir de 2013-09-07"
+  }
+ }
+}

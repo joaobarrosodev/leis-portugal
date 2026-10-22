@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:393785:por
+title: Decreto-Lei n.º 513-I/79
+short_title: null
+summary: Estabelece normas relativas a deslocações ao estrangeiro promovidas por entidades do sector público
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 513-I/79
+official_date: null
+publication_date: '1979-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
+  number: '295'
+  series: I
+  supplement: 3º Suplemento
+  pages: 3334-(84) a 3334-(85)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00840085.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '393785'
+  dre_path: /dr/detalhe/decreto-lei/513-i-1979-393785
+  internal: pt:dre:393785:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-i-1979-393785
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-03-19T00:00:00Z'
+integrity:
+  source_sha256: 762bc7c5088aa9302fbdb9d60ed93875d89c0e711404ee9838797972e77b1393
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-513-I-393785.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:662173:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 513-I/79
+
+de 24 de Dezembro
+
+O regime cambial do sector público, regulado pelo Decreto com força de lei n.º 14611, de 23 de Novembro de 1927, carece de profunda reformulação em ordem ao seu ajustamento à maior dimensão actual do sector público e à complexidade e diversidade das formas de intervenção do Estado na actividade económica.
+
+Sem prejuízo dessa revisão global, que obriga a cuidadosa e demorada ponderação de todas as implicações, impõe-se desde já alterar o sistema de autorização de deslocações em serviço ao estrangeiro promovidas pelo sector público. Esta alteração, sem pôr em causa o espírito de austeridade que o deve caracterizar, visa uma adequada harmonização com a diversa natureza das entidades do sector público e com uma indispensável desconcentração de competências, aligeirando os procedimentos burocráticos em vigor.
+
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O regime constante do presente diploma aplica-se a todo o sector público, nomeadamente às entidades integradas do Estado ou com autonomia administrativa ou financeira, fundos autónomos, autarquias locais, institutos públicos e empresas públicas.
+
+###### Art. 2.º - 1 - As deslocações promovidas por entidades do sector público sem estatuto de empresa pública ou equiparado carecem de autorização prévia do Ministro da pasta respectiva ou dos órgãos autárquicos competentes.
+
+2 - As deslocações ao estrangeiro promovidas por empresas públicas ou entidades com estatuto equiparado carecem de autorização prévia do conselho de gestão ou órgão equivalente.
+
+3 - As deslocações em serviço ao estrangeiro de elementos das forças armadas são autorizadas nos termos definidos pelo Conselho da Revolução.
+
+4 - As deslocações ao estrangeiro promovidas por entidades das regiões autónomas são autorizadas nos termos da legislação regional própria.
+
+###### Art. 3.º Para as entidades referidas no artigo 1.º, e de harmonia com o orçamento cambial do sector público, compete ao Ministro das Finanças fixar o montante das autorizações especiais para a venda de meios de pagamento sobre o exterior, previstas no n.º 5 da [Portaria n.º 650/78](https://diariodarepublica.pt/dr/detalhe/portaria/650-1978-327304), de 9 de Novembro, para períodos de cento e oitenta dias.
+
+###### Art. 4.º Para a realização das deslocações autorizadas nos termos do artigo 2.º, as instituições de crédito procederão, sem quaisquer outras formalidades, à venda dos meios de pagamento sobre o exterior quando o seu montante:
+
+a) Tenha cabimento na autorização especial concedida de harmonia com o artigo 3.º;
+
+b) Tenha sido objecto de autorização específica do Ministro das Finanças, em virtude de não se enquadrar em autorização especial prevista no artigo 3.º
+
+###### Art. 5.º A venda de meios de pagamento sobre o exterior, por cada deslocação, não pode exceder o montante dos abonos a que os participantes tenham direito nos termos da legislação em vigor.
+
+###### Art. 6.º - 1 - Quinze dias após o termo de cada trimestre as entidades que tenham disposto de autorizações concedidas nos termos do artigo 3.º remeterão à Direcção-Geral do Tesouro nota discriminada dos dispêndios cambiais efectivamente realizados ao abrigo daquelas autorizações.
+
+2 - O Banco de Portugal, em idêntico prazo, enviará à Direcção-Geral do Tesouro informações sobre as utilizações das autorizações previstas no artigo 3.º
+
+3 - O não cumprimento da obrigação referida no n.º 1 implica automaticamente o cancelamento da autorização concedida, de harmonia com o artigo 3.º, e que se encontre à data em vigor.
+
+###### Art. 7.º O regime definido pelo presente diploma não se aplica a deslocações em serviço de civis ou militares, ao estrangeiro ou no estrangeiro, no exercício de funções de carácter permanente no estrangeiro.
+
+###### Art. 8.º - 1 - Os adiantamentos pelos cofres consulares para cobertura de despesas decorrentes de deslocações abrangidas pelo presente diploma só poderão efectuar-se em situações de carácter excepcional e desde que preencham os requisitos estabelecidos nas alíneas a) e b) do artigo 4.º
+
+2 - A regularização destes adiantamentos processa-se através da Direcção-Geral do Tesouro no prazo máximo de trinta dias.
+
+###### Art. 9.º - 1 - As entidades referidas no artigo 1.º enviarão à Direcção-Geral do Tesouro, no prazo de quinze dias, a contar da data da publicação do presente diploma, uma previsão para o ano de 1980 dos dispêndios cambiais com deslocações ao estrangeiro abrangidas pelo regime ora definido.
+
+2 - O Banco de Portugal e o Instituto Nacional de Seguros remeterão à Direcção-Geral do Tesouro, no prazo estabelecido no n.º 1, as previsões das instituições de crédito e das companhias de seguros, respectivamente, acompanhadas de parecer.
+
+3 - A previsão referida no n.º 1 será expressa em escudos e semestralizada, obedecendo às directivas para elaboração do orçamento cambial do sector público, aprovadas pela [Portaria n.º 209-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/209-a-1977-443758), de 19 de Abril, na parte aplicável.
+
+4 - Com base nas previsões apresentadas, o Ministro das Finanças aprovará, até 31 de Dezembro de 1979, as autorizações especiais referidas no artigo 3.º, sem prejuízo da sua integração no orçamento cambial do sector público para 1980.
+
+###### Art. 10.º O regime de autorização de deslocações ao estrangeiro e consequente dispêndio de divisas, constante deste diploma, aplica-se transitoriamente às regiões autónomas.
+
+###### Art. 11.º - 1 - A Direcção-Geral do Tesouro emitirá instruções para a execução deste diploma.
+
+2 - O Banco de Portugal emitirá instruções para assegurar a aplicação do regime definido no tocante às instituições de crédito.
+
+###### Art. 12.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro das Finanças.
+
+###### Art. 13.º São revogados o artigo 6.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381) e o [Despacho Normativo n.º 241/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/241-1977-280242), de 25 de Outubro e 21 de Dezembro, respectivamente.
+
+###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
+
+**Promulgado em 17 de Dezembro de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

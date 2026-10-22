@@ -1,0 +1,1101 @@
+---
+schema_version: '1.0'
+id: pt:dre:438726:por
+title: Portaria n.º 314-B/2010
+short_title: null
+summary: Define o modo de utilização do dispositivo electrónico de matrícula para efeitos de cobrança electrónica de portagens
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 314-B/2010
+official_date: null
+publication_date: '2010-06-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2010, 1º Suplemento, Série I de 2010-06-14
+  number: '113'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2022-(8) a 2022-(16)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11301/0000800016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-01-08'
+version_history:
+  file: portaria-314-b-2010.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-07'
+    amending: pt:dre:405304:por
+    amending_title: Portaria n.º 1033-C/2010
+    changes:
+    - Adita Artigo 9.º-A
+    - Adita Artigo 9.º-B
+    - Adita Artigo 9.º-C
+    - Adita Artigo 9.º-D
+    - Adita Artigo 9.º-E
+    - Adita Artigo 18.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Capítulo III
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Anexo III
+    - Revoga Artigo 12.º
+    - Revoga Artigo 20.º
+  - date: '2010-12-21'
+    amending: pt:dre:555262:por
+    amending_title: Portaria n.º 1296-A/2010
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+  - date: '2011-04-05'
+    amending: pt:dre:319371:por
+    amending_title: Portaria n.º 135-A/2011
+    changes:
+    - Adita Artigo 18.º-B
+    - Altera Artigo 18.º
+    - Altera Artigo 18.º-A
+    - Altera Artigo 21.º
+  - date: '2012-10-27'
+    amending: pt:dre:192439:por
+    amending_title: Portaria n.º 343/2012
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 18.º-A
+    - Altera Artigo 21.º
+  - date: '2023-01-08'
+    amending: pt:dre:204552603:por
+    amending_title: Decreto-Lei n.º 84-C/2022
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/314-b/2010/p/cons/20221209/pt/html
+  oj: null
+  dre: '438726'
+  dre_path: /dr/detalhe/portaria/314-b-2010-438726
+  internal: pt:dre:438726:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-b-2010-438726
+  metadata_url: https://data.dre.pt/eli/port/314-b/2010/p/cons/20221209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-204722684
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-204722684
+  retrieved_at: '2026-10-22T12:53:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e5661fb70891007abfc70eb16145a72aceaf5edbaf4aaf43e9f31f8cf90199d2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:53:59Z'
+  notes: 6 versão(ões); histórico completo em portaria-314-b-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Certificado de Conformidade
+- Contrato
+- Controlo Técnico
+- Definição de Competências
+- Dispositivo de Detecção e Identificação Electrónica
+- Dispositivo Electrónico de Matrícula
+- Equipamento Eletrónico
+- Especificação Técnica
+- Pagamento
+- Segurança da Informação
+- Isenção de Portagem
+- Veículo
+- Locação Financeira
+- Equipamento de Veículo
+- Portagem
+- Sistema de Informação
+- Preço
+- Confidencialidade
+- Taxa
+- TAXA de Prestação de Serviços
+- SIEV
+relationships:
+- type: amended_by
+  target: pt:dre:405304:por
+  label: Adita Artigo 9.º-A; Adita Artigo 9.º-B; Adita Artigo 9.º-C; Adita Artigo 9.º-D; Adita Artigo 9.º-E; Adita Artigo
+    18.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Capítulo III; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304
+  date: '2010-10-06'
+- type: amended_by
+  target: pt:dre:555262:por
+  label: Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 21.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1296-a-2010-555262
+  date: '2010-12-20'
+- type: amended_by
+  target: pt:dre:319371:por
+  label: Adita Artigo 18.º-B; Altera Artigo 18.º; Altera Artigo 18.º-A; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/135-a-2011-319371
+  date: '2011-04-04'
+- type: amended_by
+  target: pt:dre:192439:por
+  label: Altera Artigo 1.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 18.º-A; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/343-2012-192439
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:204552603:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603
+  date: '2022-12-09'
+- type: cites
+  target: celex:31999L0005
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/5/oj
+- type: cites
+  target: celex:32004L0052
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/52/oj
+- type: cites
+  target: celex:32004L0108
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/108/oj
+- type: transposes
+  target: celex:31999L0005
+  label: null
+  source: null
+- type: transposes
+  target: celex:32004L0052
+  label: null
+  source: null
+- type: transposes
+  target: celex:32004L0108
+  label: null
+  source: null
+article_structure:
+  article_count: 35
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:53:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 314-B/2010
+
+Portaria n.º 314-B/2010
+
+de 14 de Junho
+
+O Decreto-Lei n.º 54/2005, de 3 de Março, aprovou o Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis (Regulamento de Matrícula), tendo sido posteriormente alterado pelo Decreto-Lei n.º 106/2006, de 8 de Junho, e pelo Decreto-Lei n.º 112/2009, de 18 de Maio, que veio introduzir a obrigatoriedade de instalação de um dispositivo electrónico de matrícula (DEM) em todos os veículos automóveis, ligeiros e pesados, seus reboques, motociclos, bem como em triciclos autorizados a circular em auto-estradas e vias equiparadas, visando a cobrança electrónica de portagens, e em conformidade com o Serviço Electrónico Europeu de Portagens.
+
+A entrada em vigor do regime jurídico acima identificado ficou dependente da publicação de portaria, no âmbito da qual se criariam as regras de operacionalização do sistema.
+
+A presente portaria tem como objectivo, desde já, regulamentar o mencionado regime jurídico no que diz respeito a todos os veículos que circulem em infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica das mesmas, a todos os veículos cuja matrícula seja atribuída após a entrada em vigor da mesma e a todos os veículos nos quais estejam instalados identificadores associados ao sistema Via Verde.
+
+Neste contexto, atendendo ao disposto no n.º 2 do artigo 17.º e no artigo 19.º do Regulamento de Matrícula, é necessário regulamentar o modo de utilização do DEM, a sua tecnologia de comunicação, bem como a tecnologia a utilizar pelos dispositivos de detecção e identificação electrónica (DDIE), esta última em tudo semelhante aos dispositivos utilizados no sistema Via Verde, actualmente existente.
+
+A presente portaria vem, também, estabelecer as normas e as especificações do DEM e dos DDIE, os requisitos relativos à distribuição, à manutenção e ao controlo técnico periódico do DEM, as normas de instalação do DEM nos veículos e as soluções tecnológicas no âmbito do respectivo sistema de identificação electrónica, bem como as condições de acreditação e de certificação das entidades de cobrança de portagens e de distribuidores do DEM, num sistema aberto à concorrência, em cumprimento do disposto no artigo 20.º do Regulamento de Matrícula.
+
+A presente portaria define, igualmente, os sistemas de pagamento no âmbito da cobrança electrónica de portagens, incluindo sistemas que asseguram o anonimato do utente e o pagamento em numerário, nos termos da alínea c) do n.º 1 do artigo 21.º do Regulamento de Matrícula.
+
+Estabelece-se como regra geral para o pagamento das taxas de portagem em vias que apenas disponham de um sistema de cobrança electrónica o pré-pagamento ou o pagamento automático e, excepcionalmente, como solução de recurso, o pós-pagamento, acrescendo ao valor de portagem, neste último caso, os respectivos custos administrativos.
+
+São definidas as regras aplicáveis aos veículos de matrícula estrangeira durante o período de permanência em território nacional, relativamente ao pagamento de portagens através de um dispositivo electrónico próprio que permite a sua deslocação em vias que apenas disponham de um sistema de cobrança electrónica, nos termos dos n.os 1 e 2 do artigo 7.º do Decreto-Lei n.º 112/2009, de 18 de Maio.
+
+Criam-se as regras aplicáveis à distribuição gratuita do DEM.
+
+Finalmente, nos termos do n.º 3 do artigo 8.º do Decreto-Lei n.º 111/2009, de 18 de Maio, diploma que constituiu a SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.), que lhe atribuiu a concessão da exploração e da gestão do sistema de identificação electrónica de veículos e que aprovou as respectivas bases, a presente portaria aprova as tarifas a cobrar pela SIEV, S. A., no exercício das suas atribuições.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no n.º 2 do artigo 17.º, no artigo 19.º, no artigo 20.º e na alínea c) do n.º 1 do artigo 21.º do Regulamento de Matrícula e do disposto nos n.os 1 e 2 do artigo 7.º do Decreto-Lei n.º 112/2009, de 18 de Maio, bem como ao abrigo do disposto no n.º 4 do artigo 5.º da Lei n.º 25/2006, de 30 de Junho, e do n.º 3 do artigo 8.º do Decreto-Lei n.º 111/2009, de 18 de Maio, o seguinte:
+
+### Capítulo I — Objecto
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+###### Artigo 1.º — Objecto
+
+1 - A presente portaria define o modo de utilização dos dispositivos electrónicos (DE) para todos os veículos cujos proprietários optem pela sua instalação, com vista à cobrança electrónica de portagens, nos termos dos n.os 8 do artigo 4.º-A do Decreto-Lei n.º 112/2009, de 18 de Maio, alterado pela Lei n.º 46/2010, de 7 de Setembro, e 2 do artigo 17.º e dos artigos 19.º e 20.º do Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis (Regulamento de Matrícula), aprovado pelo Decreto-Lei n.º 54/2005, de 3 de Março, alterado pelo Decreto-Lei n.º 112/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, nomeadamente:
+
+a) As normas e especificações dos DE e da interface de comunicação com os dispositivos de detecção e identificação electrónica (DDIE);
+
+b) Os requisitos legais relativos à distribuição e à manutenção dos DE;
+
+c) As normas de instalação dos DE nos veículos;
+
+d) As condições de acreditação e de certificação de entidades e de tecnologias no âmbito do sistema de identificação electrónica de veículos para pagamento de portagens.
+
+2 - As normas, as especificações dos DE e as normas de instalação destes dispositivos referidas nas alíneas a) e c) do número anterior não se aplicam aos reboques, cuja regulamentação é definida por portaria do membro do Governo responsável pelas áreas das obras públicas e transportes.
+
+3 - A presente portaria define os sistemas de pagamento, no âmbito da cobrança electrónica de portagens, nomeadamente os que assegurem e preservem o anonimato do utente, bem como que permitam o pagamento em numerário, nos termos da alínea c) do n.º 1 do artigo 21.º do Regulamento de Matrícula.
+
+4 - A presente portaria estabelece, também, o regime aplicável aos veículos de matrícula estrangeira, tendo em vista o pagamento de portagens durante o período de permanência em território nacional, em vias que apenas disponham de um sistema de cobrança electrónica, bem como o respectivo meio de pagamento associado, nos termos dos n.os 1 e 2 do artigo 7.º do Decreto-Lei n.º 112/2009, de 18 de Maio.
+
+5 - A presente portaria fixa o valor dos custos administrativos devidos no caso de o pagamento de taxas de portagem ser realizado através da adesão a determinadas modalidades de pagamento pelos condutores dos veículos de matrícula estrangeira ou através do sistema de pós-pagamento e em caso de contraordenação.
+
+6 - A presente portaria determina, ainda, o valor das tarifas a cobrar pela SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.), nos termos do n.º 3 do artigo 8.º do Decreto-Lei n.º 111/2009, de 18 de Maio.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/343-2012-192439), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+### Capítulo II — Sistema de identificação electrónica de veículos
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+###### Artigo 2.º — Registo de entidades, reconhecimento de utilizadores e aprovação de modelos e de soluções tecnológicas
+
+1 - Incumbe à SIEV, S. A., enquanto entidade responsável pela gestão e pela exploração do sistema de identificação electrónica de veículos para pagamento de portagens, realizar:
+
+a) O registo das entidades do sistema, previstas no artigo 6.º do Decreto-Lei n.º 111/2009, de 18 de Maio;
+
+b) A autorização e a fiscalização dos utilizadores do sistema, identificados no artigo 7.º do Decreto-Lei n.º 111/2009, de 18 de Maio, que são a EP - Estradas de Portugal, S. A., as concessionárias e as subconcessionárias de vias portajadas, os distribuidores e os importadores dos DE, as entidades de cobrança de portagens (ECP) e quaisquer entidades que venham a celebrar um contrato com a SIEV, S. A., tendo em vista a utilização do sistema;
+
+c) A aprovação dos modelos e das soluções tecnológicas a adoptar no âmbito do sistema;
+
+d) A definição da política de segurança do sistema, nomeadamente dos mecanismos de segurança para a cobrança electrónica de portagens e das disposições relativas à geração, ao armazenamento, à manutenção e à distribuição das chaves criptográficas necessárias à sua implementação;
+
+e) A avaliação da eventual necessidade de adequação das especificações a futuras evoluções.
+
+2 - Para efeitos do disposto no número anterior, a SIEV, S. A., deve emitir os regulamentos necessários, nos termos do artigo seguinte.
+
+3 - A SIEV, S. A., publica no seu sítio da Internet a lista actualizada dos utilizadores do sistema de identificação electrónica de veículos para pagamento de portagens, identificados na alínea b) do n.º 1.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 3.º — Regulamentação administrativa, técnica e de segurança
+
+1 - A SIEV, S. A., deve emitir e manter actualizados os regulamentos administrativos técnicos e de segurança indispensáveis ao bom funcionamento do sistema de identificação electrónica de veículos para pagamento de portagens com vista ao cumprimento do disposto no n.º 2 do artigo 4.º do Decreto-Lei n.º 111/2009, de 18 de Maio, e na alínea d) do artigo 5.º dos respectivos Estatutos, aprovados pelo referido diploma legal.
+
+2 - Os regulamentos mencionados no número anterior têm carácter obrigatório para todas as entidades do sistema de identificação electrónica de veículos para pagamento de portagens, previstas nos artigos 6.º e 7.º do Decreto-Lei n.º 111/2009, de 18 de Maio.
+
+3 - As entidades públicas administrativas são consultadas no âmbito do processo de elaboração dos regulamentos que lhes criem novos deveres e obrigações.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+### Capítulo III — Normas e especificações dos DE e do DDIE
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 4.º — Tecnologia de comunicação
+
+1 - A tecnologia de comunicação a utilizar nos DE e nos DDIE é a tecnologia microndas a 5,8 GHz, especificamente a DSRC (Dedicated Short Range Communications), nos termos do disposto na alínea c) do n.º 1 do artigo 3.º da Lei n.º 30/2007, de 6 de Agosto, que procedeu à transposição para a ordem jurídica interna da Directiva n.º 2004/52/CE, do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à interoperabilidade dos sistemas electrónicos de portagem rodoviária na Comunidade, tendo em vista a implementação do Serviço Electrónico Europeu de Portagem.
+
+2 - Para efeitos do disposto no número anterior, o formato adoptado é o MDR (medium data rate), em conformidade, designadamente, com a norma europeia EN 15509 - EFC, Interoperability application profile for DSRC, sem prejuízo do disposto do número seguinte.
+
+3 - O formato vulgarmente designado LDR (low data rate), adoptado nos equipamentos e nos protocolos usados para cobrança electrónica de portagens, à data de entrada em vigor da presente portaria, é igualmente aceite como tecnologia de comunicação a utilizar nos DE e nos DDIE.
+
+4 - Os DDIE utilizados para efeitos de cobrança electrónica de portagens devem ser compatíveis, simultaneamente, com as tecnologias mencionadas nos n.os 2 e 3.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 5.º — Normas e especificações dos DE e da interface com os DDIE
+
+1 - Os DE e os DDIE que suportam o formato MDR devem ser configurados de forma a garantir uma plataforma técnica uniforme para a interoperabilidade no âmbito do Serviço Electrónico Europeu de Portagens, devendo para este efeito ser assegurada a actualização das normas e das especificações dos DE e dos DDIE, nos termos do artigo 3.º
+
+2 - Para efeitos do disposto no número anterior, os DE e os DDIE devem respeitar a interface aplicacional definida pela norma europeia ISO 14906 - Road Transport and Traffic Telematics (RTTT) - Electronic Fee Collection (EFC) - Application Interfaces Definition for Dedicated Short-Range Communication (DSRC), bem como ser configurados em conformidade com a norma europeia EN 15509 - EFC, Interoperability Application Profile for DSRC.
+
+3 - Os DE que suportam o formato LDR devem obedecer às normas e às especificações gerais que constam do anexo i da presente portaria, da qual faz parte integrante.
+
+4 - A distribuição de dispositivos utilizados para a cobrança electrónica de portagens que utilizam o formato LDR só é permitida até 30 de Junho de 2010.
+
+5 - (Revogado.)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 6.º — Normas de instalação dos DE
+
+1 - A instalação dos DE nos veículos é efectuada pelos seus proprietários.
+
+2 - A instalação dos DE é efectuada no interior do veículo, no vidro frontal, respeitando as marcações para a colocação de equipamentos desta natureza, quando existam, ou de acordo com os diagramas constantes do anexo ii da presente portaria, da qual faz parte integrante.
+
+3 - Exceptuam-se do disposto no número anterior os veículos automóveis equipados com vidros cujas características não permitam uma correcta comunicação dos DE com os DDIE, bem como os motociclos e os triciclos, nos quais a instalação dos DE é efectuada da seguinte forma:
+
+a) Nos veículos automóveis, no exterior do veículo, por entidades autorizadas para o efeito;
+
+b) Nos motociclos e triciclos, no exterior do veículo, na dianteira, de acordo com os diagramas constantes do anexo ii à presente portaria ou, atendendo às características físicas dos motociclos, pode ser transportado pelo utente do motociclo aquando da circulação do mesmo na via pública.
+
+4 - A fixação dos DE deve ser efectuada através de fita adesiva que garanta uma fixação resistente e durável.
+
+5 - A colocação dos DE no exterior da viatura obedece às normas e às regras a estabelecer pela SIEV, S. A., após a aprovação do modelo a que se referem os n.os 1 e 4 do artigo 8.º
+
+6 - A remoção do DE do local onde o mesmo se encontra fixado ou a sua abertura implica a activação de um alarme de remoção que é emitido à passagem sob qualquer DDIE até que o DE seja submetido a manutenção por entidade autorizada para o efeito.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+### Capítulo IV — Normas relativas à produção, à distribuição, à fiscalização e à manutenção
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+###### Artigo 7.º — Requisitos essenciais, compatibilidade electromagnética, avaliação de conformidade e marcação
+
+Os DE e os DDIE devem cumprir o disposto no Decreto-Lei n.º 192/2000, de 18 de Agosto, que procedeu à transposição para a ordem jurídica interna da Directiva n.º 1999/5/CE, do Parlamento Europeu e do Conselho, de 9 de Março, que aprovou o regime de livre circulação, colocação no mercado e colocação em serviço no território nacional dos equipamentos de rádio e equipamentos terminais de telecomunicações, bem como o regime da respectiva avaliação de conformidade e marcação, e no Decreto-Lei n.º 325/2007, de 28 de Setembro, alterado pelo Decreto-Lei n.º 20/2009, de 19 de Janeiro, que procedeu à transposição para a ordem jurídica interna da Directiva n.º 2004/108/CE, do Parlamento Europeu e do Conselho, de 15 de Dezembro, relativa à aproximação das legislações dos Estados membros respeitantes à compatibilidade electromagnética dos equipamentos.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 8.º — Aprovação dos DE e do DDIE
+
+1 - Os modelos de dispositivos utilizados como DE e os modelos de dispositivos e sistemas utilizados como DDIE são aprovados previamente pela SIEV, S. A.
+
+2 - Para efeitos de aprovação dos modelos de dispositivos por parte da SIEV, S. A., o interessado deve apresentar:
+
+a) Dossier técnico, que inclua elementos sobre o fabricante e o modelo a aprovar de acordo com os regulamentos específicos emitidos pela SIEV, S. A., nos termos do artigo 3.º;
+
+b) Certificados de conformidade do modelo a aprovar com as especificações técnicas exigidas, com relevância para os aspectos funcionais do DE ou do DDIE, emitido por entidade legalmente reconhecida para a certificação de produtos;
+
+c) Aprovação dos dispositivos e dos sistemas num conjunto de testes de interoperabilidade a realizar pela SIEV, S. A., ou por entidades por si reconhecidas, nos termos a definir em regulamento a emitir pela SIEV, S. A.
+
+3 - Os DE e os DDIE já instalados e em funcionamento à data da entrada em vigor da presente portaria estão dispensados do cumprimento das obrigações previstas nas alíneas b) e c) do número anterior.
+
+4 - A SIEV, S. A., tem de aprovar, pelo menos, um modelo de DE para instalação no interior do veículo e um modelo de DE para instalação no exterior do veículo, que cumpram com as especificações técnicas mínimas exigíveis.
+
+5 - O disposto no número anterior não prejudica a submissão à aprovação pela SIEV, S. A., de modelos de DE que apresentem características técnicas adicionais relativamente às mínimas exigíveis ou que suportem serviços privados complementares, desde que conformes com a Lei de Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro.
+
+6 - A SIEV, S. A., deve publicar no seu sítio da Internet os modelos de DE e de DDIE aprovados.
+
+7 - Os modelos de DE aprovados pela SIEV, S. A., devem contemplar a existência de um código de identificação de cada equipamento, que reúna as seguintes condições:
+
+a) Ser atribuído no momento do fabrico do equipamento em causa;
+
+b) Ser único, irrepetível e inviolável;
+
+c) Ser inscrito de forma indelével na parte exterior do equipamento, em local visível, quando o mesmo está instalado no veículo;
+
+d) Ser transmitido electronicamente pelo equipamento.
+
+8 - (Revogado.)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 9.º — Distribuição dos DE
+
+1 - Os DE só podem ser distribuídos por entidades devidamente autorizadas pela SIEV, S. A.
+
+2 - Os distribuidores grossistas autorizados pela SIEV, S. A., incluindo os importadores, que adquirem os DE junto dos fabricantes e os colocam no mercado retalhista devem, no momento da recepção dos DE, ou dos lotes de DE, comunicar ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), por via electrónica, os códigos de identificação dos DE disponíveis para distribuição, para efeitos de pré-registo dos mesmos.
+
+3 - Os distribuidores retalhistas são responsáveis por entregar o DE ao proprietário do veículo que o solicite e devem cumprir, junto do IMTT, I. P., o previsto nos artigos 9.º-B, 9.º-C, 9.º-D e 9.º-E.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 9.º-A — Tipos de DE
+
+1 - O proprietário do veículo, no momento do pedido do DE junto dos distribuidores retalhistas autorizados, é livre de escolher o tipo de DE pretendido, o qual, nos termos do artigo 4.º-A do Decreto-Lei n.º 112/2009, de 18 de Maio, alterado pela Lei n.º 46/2010, de 7 de Setembro, pode ser:
+
+a) O dispositivo electrónico de matrícula (DEM);
+
+b) O dispositivo Via Verde;
+
+c) O dispositivo temporário (DT).
+
+2 - Podem ser disponibilizados por outras ECP dispositivos similares aos dispositivos Via Verde, designando-se, uns e outros, por dispositivos de uma ECP (DECP).
+
+3 - Em cada utilização de uma via portajada, e para efeitos de pagamento das taxas de portagem respectivas em regime de cobrança electrónica, cada veículo só pode utilizar um único DE, de qualquer dos tipos referidos no n.º 1.
+
+4 - Um DE só pode ser utilizado num veículo para o qual tenha sido contratado.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 9.º-B — Dispositivo electrónico de matrícula
+
+1 - No caso de o proprietário do veículo optar por um DEM, nos termos da alínea a) do n.º 1 do artigo anterior, o distribuidor retalhista autorizado deve registar, por via electrónica, junto do IMTT, I. P., na base de dados de DEM, a associação entre o código de identificação do dispositivo e a matrícula do veículo, entregando o comprovativo da associação ao requerente.
+
+2 - Sem prejuízo de outras sanções previstas na Lei n.º 67/98, de 26 de Outubro, em caso de incumprimento pelos distribuidores retalhistas dos deveres de confidencialidade, bem como da obrigação de não guardar para si qualquer registo da associação prevista no presente artigo, a SIEV, S. A., pode revogar a autorização concedida para distribuição dos DE.
+
+3 - Cada DEM só pode ser associado, em cada momento, a uma única matrícula, a qual não pode estar bloqueada por utilização de um DECP, nos termos do artigo 9.º-C.
+
+4 - A reversão do procedimento referido no n.º 1, designada por anulação da associação entre o código de identificação do dispositivo e a matrícula do veículo, ocorre quando o DEM é cancelado ou quando o DEM é convertido em DECP.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 9.º-C — Dispositivo electrónico de uma ECP
+
+1 - No caso de o proprietário do veículo optar por um DECP, nos termos da alínea b) do n.º 1 e dos n.os 2 e 3 do artigo 9.º-A, o distribuidor retalhista autorizado, para além de obter os dados necessários à celebração do contrato comercial respectivo, incluindo a matrícula, deve registar, por via electrónica, junto do IMTT, I. P., o bloqueio da respectiva matrícula para efeitos de futuras associações, por já ter um DECP atribuído, bem como a identificação da ECP com a qual esse dispositivo foi contratado, e em informação autónoma não relacionada com matrícula, o código de identificação do DECP atribuído.
+
+2 - Cada DECP só pode ser atribuído, em cada momento, a um único veículo.
+
+3 - A reversão do procedimento referido no n.º 1, designada por anulação do bloqueio da matrícula, ocorre quando o DECP é transferido, quando o DECP é cancelado ou quando o DECP é convertido em DEM.
+
+4 - O DECP pode ser transferido de um veículo para outro veículo do mesmo proprietário, a pedido deste, nos termos dos números seguintes.
+
+5 - Para além da alteração contratual com a ECP que seja aplicável, a transferência do DECP implica a anulação do bloqueio da matrícula do veículo ao qual o DECP deixa de estar atribuído, nos termos do n.º 3 do artigo 9.º-C, e o bloqueio da matrícula do veículo ao qual o DECP passa a estar atribuído, nos termos do n.º 1 do artigo 9.º-C.
+
+6 - A transferência de um DECP entre veículos é um serviço prestado pelas ECP.
+
+7 - A transferência de um DECP entre veículos não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo antes do respectivo pedido.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 9.º-D — Conversão do DEM e do DECP
+
+1 - O DECP pode ser convertido em DEM, a pedido do proprietário.
+
+2 - Para além da alteração contratual com a ECP que seja aplicável, a conversão do DECP em DEM implica a anulação do bloqueio da matrícula do veículo, nos termos do n.º 3 do artigo 9.º-C, e a associação entre o código de identificação do dispositivo e a matrícula do veículo, nos termos do n.º 1 do artigo 9.º-B.
+
+3 - O DEM pode ser convertido em DECP, a pedido do proprietário.
+
+4 - Para além da alteração contratual com a ECP que seja aplicável, a conversão do DEM em DECP implica a anulação da associação entre o código de identificação do dispositivo e a matrícula do veículo, nos termos do n.º 4 do artigo 9.º-B, e o bloqueio da matrícula do veículo, nos termos do n.º 1 do artigo 9.º-C.
+
+5 - A conversão de DEM em DECP e de DECP em DEM é um serviço prestado pelas ECP, devendo estas informar o IMTT, I. P., dos respectivos códigos dos DE.
+
+6 - A conversão não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo antes do respectivo pedido.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 9.º-E — Dispositivo temporário
+
+1 - No caso de o proprietário do veículo optar por um DT, nos termos da alínea c) do n.º 1 do artigo 9.º-A, não se verifica a associação do código de identificação do dispositivo à matrícula do veículo, prevista no n.º 1 do artigo 9.º-B, nem a comunicação do bloqueio da matrícula a futuras associações, prevista no n.º 1 do artigo 9.º-C, tratando-se de uma utilização anónima.
+
+2 - Na situação prevista no número anterior, no momento da aquisição do dispositivo para a instalação no veículo, o proprietário do veículo deve disponibilizar um montante a título de pré-carregamento, para a regularização de taxas de portagem, no valor mínimo de (euro) 10 para veículos ligeiros e motociclos e de (euro) 20 para veículos pesados.
+
+3 - O pré-carregamento do DT tem um período de validade de 90 dias, prorrogável por igual período, sempre que o proprietário do veículo proceda a um novo pré-carregamento mínimo antes do termo daquele prazo, junto da ECP à qual aderiu.
+
+4 - Caso o proprietário do veículo não proceda, junto da ECP à qual aderiu, a um novo pré-carregamento, até ao termo do prazo de validade, o DT deixa de ser válido, não sendo o seu proprietário reembolsado de qualquer valor.
+
+5 - A realização pelo proprietário do veículo, junto da ECP à qual aderiu, de um novo pré-carregamento de um DT que tenha perdido a validade implica a respectiva revalidação por um período de 90 dias, a partir dessa data.
+
+6 - O DT pode ser convertido em DEM ou em DECP, a pedido do proprietário.
+
+7 - Para além da alteração contratual com a ECP que seja aplicável, a conversão do DT em DEM implica a associação entre o código de identificação do dispositivo e a matrícula do veículo, nos termos do n.º 1 do artigo 9.º-B, e a conversão do DT em DECP implica o bloqueio da matrícula do veículo, nos termos do n.º 1 do artigo 9.º-C.
+
+8 - A conversão do DT em DEM ou em DECP é um serviço prestado pelas ECP.
+
+9 - A utilização do DT pelos veículos de matrícula estrangeira ocorre nos termos do artigo 18.º
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 10.º — Manutenção dos DE
+
+1 - A manutenção dos DE só pode ser realizada por entidades reparadoras devidamente autorizadas pela SIEV, S. A.
+
+2 - A manutenção dos DE envolve, designadamente, quando aplicável:
+
+a) A eliminação do alarme de remoção dos DE;
+
+b) A substituição da bateria dos DE;
+
+c) A personalização dos DE, nos termos do artigo seguinte.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 11.º — Personalização dos DE
+
+1 - São obrigatoriamente inscritos nos DE o respectivo código de identificação e a classe do veículo.
+
+2 - O proprietário do veículo pode autorizar a inscrição de outras características e elementos nos DE:
+
+a) No âmbito da adesão voluntária a sistemas de pagamento de portagens não anónimos;
+
+b) No âmbito da adesão voluntária à interoperabilidade, ao abrigo do Serviço Electrónico Europeu de Portagem;
+
+c) No âmbito da utilização voluntária das funcionalidades dos DE para a cobrança de outros serviços que não portagens.
+
+3 - A operação referida no número anterior, designada por personalização, só pode ser realizada por entidades autorizadas pela SIEV, S. A., e no estrito cumprimento das normas e regulamentos de segurança a que se refere o artigo 19.º
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 12.º — Controlo técnico periódico
+
+1 - Os centros de inspecção técnica de veículos (CITV), no âmbito das inspecções obrigatórias aos veículos, devem verificar o funcionamento do DEM, o estado da sua bateria e a correcta associação ao respectivo número da matrícula.
+
+2 - Para efeitos do disposto no número anterior, os CITV devem dispor de DDIE próprio.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 13.º — Cancelamento dos DE
+
+1 - Nos casos de avaria definitiva, por causas naturais ou acidentais, ou de perda, furto ou roubo do DE, o proprietário deve proceder ao cancelamento do mesmo junto da ECP respectiva.
+
+2 - A rescisão do contrato com a ECP a que o proprietário associou o seu DE, por incumprimento do contrato ou a pedido do proprietário, determina sempre o cancelamento do DE.
+
+3 - Quando tenha lugar o cancelamento da matrícula de um veículo que tenha instalado um DEM, a entrega daquele dispositivo nos serviços do IMTT, I. P., prevista no n.º 12 do artigo 119.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com a redacção dada pela Lei n.º 46/2010, de 7 de Setembro, só é necessária se previamente ao cancelamento o proprietário do veículo não tiver procedido ao cancelamento do DEM junto da ECP com a qual tinha celebrado contrato.
+
+4 - O cancelamento do DE determina:
+
+a) No caso de um DEM, a anulação da associação entre o código de identificação do dispositivo e a matrícula do veículo;
+
+b) No caso de um DECP, a anulação do bloqueio da matrícula do veículo.
+
+5 - O cancelamento do DE não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo antes do respectivo pedido.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+### Capítulo V — Cobrança electrónica de portagens
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+###### Artigo 14.º — Entidade de cobrança de portagens
+
+1 - A adesão aos sistemas de pagamento de portagens associados a um DE só pode ser efectuada junto das ECP devidamente autorizadas pela SIEV, S. A.
+
+2 - As ECP são, para todos os efeitos previstos na presente portaria e demais legislação aplicável, obrigatoriamente, distribuidores retalhistas e reparadores autorizados.
+
+3 - Os distribuidores grossistas são obrigatoriamente ECP.
+
+4 - Nos termos do artigo 16.º, e no âmbito dos sistemas de pagamento disponíveis, a aquisição de um DE implica sempre a contratação do serviço de cobrança com uma ECP.
+
+5 - O proprietário do veículo pode, em qualquer momento, contratar o serviço com outra ECP.
+
+6 - A alteração da ECP, nos termos previstos no número anterior, não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do proprietário do veículo a que o DE está associado.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 15.º — Transmissão da propriedade do veículo
+
+1 - O transmitente da propriedade do veículo deve informar a ECP à qual o seu DE esteja associado da celebração do contrato de compra e venda do veículo e proceder ao cancelamento do DE, nos termos do artigo 13.º, sem prejuízo do disposto nos n.os 2 e 3.
+
+2 - Em alternativa ao cancelamento do DE, e quando aplicável, o transmitente da propriedade do veículo pode proceder à transferência do DECP entre veículos, nos termos do n.º 4 do artigo 9.º-C.
+
+3 - O transmitente da propriedade de um veículo que tenha um DEM associado à respectiva matrícula pode proceder à prévia conversão do DEM em DECP, nos termos do artigo 9.º- D, para efeitos da transferência do DECP entre veículos, nos termos do n.º 4 do artigo 9.º-C.
+
+4 - O adquirente do veículo tem, nos termos do artigo 9.º-A, direito de livre escolha quanto à utilização ou não de um DE no seu veículo e, caso necessário, pode solicitar à ECP a anulação de qualquer associação, realizada previamente à transmissão, do código de identificação de um DEM à matrícula do veículo, nos termos do n.º 4 do artigo 9.º-B, bem como a anulação de qualquer bloqueio, realizado previamente à transmissão, da matrícula do veículo por utilização de um DECP, nos termos do n.º 3 do artigo 9.º-C.
+
+5 - A transmissão da propriedade de um veículo matriculado não prejudica os direitos e as responsabilidades, de natureza pecuniária ou outra, que, nos termos da lei ou de contrato, se tenham constituído na esfera jurídica do transmitente do mesmo em momento anterior à data do contrato de compra e venda, relativamente ao DE associado ao veículo vendido.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 16.º — Sistemas de pagamento
+
+1 - Sem prejuízo do disposto no artigo 18.º, a cobrança eletrónica de portagens e de outros serviços de adesão voluntária deve ser efetuada com recurso aos seguintes sistemas de pagamento:
+
+a) Sistema de pagamento automático, ao abrigo de um contrato com uma ECP, autorizando o débito em conta dos montantes devidos, caso o proprietário do veículo opte por um DEM ou por um DECP, ou, ainda, no caso dos veículos de matrícula estrangeira, por um DT;
+
+b) Sistema de pré-pagamento com identificação do proprietário do veículo, através do qual este estabelece relação contratual com uma ECP, realizando, junto da mesma, o pré-carregamento de um determinado valor monetário para pagamento dos serviços que aceitem os DE como meio de cobrança, e até que seja esgotado o saldo respectivo, caso o proprietário do veículo opte por um DEM ou por um DECP;
+
+c) Sistema de pré-pagamento anónimo, através do qual o proprietário do veículo utiliza um DE associado a uma ECP, de forma anónima e com base apenas no código de identificação do DE, procedendo ao pré-carregamento de um determinado valor monetário para pagamento das taxas de portagens, e até que seja esgotado o saldo respectivo, caso o proprietário do veículo opte por um DT.
+
+2 - (Revogado.)
+
+3 - A adesão a um dos sistemas previstos nas alíneas b) e c) do n.º 1 é entendida como um contrato de adesão a um sistema electrónico de cobrança de portagens, para efeitos do n.º 1 do artigo 5.º da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro.
+
+4 - A SIEV, S. A., ao abrigo das normas legais referidas no artigo 3.º, emite as normas e os regulamentos necessários à implementação e à operacionalização dos sistemas de pagamento.
+
+5 - Os proprietários dos veículos que adiram ao sistema de pagamento previsto na alínea c) do n.º 1 e que pretendam circular em infra-estruturas rodoviárias que disponham de via de pagamento manual têm de utilizar esta via.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/343-2012-192439), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 17.º — Pós-pagamento
+
+1 - Nas infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica de portagens, os proprietários dos veículos podem, ainda, proceder ao pagamento das portagens em regime de pós-pagamento, realizado em dinheiro ou meio equivalente junto de uma ECP autorizada para o efeito, nos cinco dias úteis posteriores à passagem num local de detecção de veículos para efeitos de cobrança electrónica.
+
+2 - A utilização do pós-pagamento implica que ao valor da taxa de portagem sejam acrescidos os respectivos custos administrativos, nos termos do artigo 21.º
+
+3 - O prazo de cinco dias úteis referido no n.º 1 conta-se a partir das 0 horas do dia seguinte à passagem num local de detecção de veículos para efeitos de cobrança electrónica de portagem.
+
+4 - Na circunstância de, por razões técnicas, não ser possível colocar a taxa de portagem à cobrança no dia útil imediato à passagem num local de detecção de veículos para efeitos de cobrança electrónica de portagem, deve ser concedido ao utente um dia útil adicional para proceder ao pagamento da taxa de portagem.
+
+5 - No caso de não ser possível, por razões de ordem técnica, proceder à cobrança das taxas de portagem nos prazos estabelecidos nos n.os 1 e 4, o direito à cobrança das taxas de portagem e dos custos administrativos associados não se extingue.
+
+6 - O pós-pagamento implica que o proprietário do veículo proceda ao pagamento, no mesmo acto, de todas as taxas de portagem relativas às viagens que tenha realizado num mesmo dia nas infra-estruturas referidas no n.º 1 deste artigo.
+
+7 - Qualquer reclamação relacionada com o acto de pós-pagamento deve ser dirigida, pelo proprietário do veículo, às concessionárias e ou às subconcessionárias das infra-estruturas referidas no n.º 1 deste artigo ou, se aplicável, às entidades que desenvolvem a actividade da cobrança de taxas de portagens nas referidas infra-estruturas.
+
+8 - Caso os proprietários dos veículos optem pelo regime de pós-pagamento previsto no presente artigo, considera-se, para todos os efeitos legais, que consentem que as concessionárias e as subconcessionárias procedam à cobrança com base na imagem da matrícula do veículo em causa, relativamente a cada uma das passagens pelos pórticos de portagem.
+
+9 - As concessionárias e as subconcessionárias apenas remetem à ECP responsável pelo sistema de pós-pagamento as transacções com referência à matrícula do veículo, e nunca a imagem da matrícula em causa.
+
+10 - A imagem da matrícula deve ser destruída após a realização do pagamento por parte do utente e logo que decorrido o prazo legal para o utente apresentar eventual reclamação relativamente a esse pagamento.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1296-A/2010 - Diário da República n.º 244/2010, 1º Suplemento, Série I de 2010-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/1296-a-2010-555262), em vigor a partir de 2010-12-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 18.º — Veículos de matrícula estrangeira
+
+1 - Os condutores dos veículos com matrícula estrangeira que circulem em território nacional e transitem em infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica de portagens podem optar por um DECP ou por um DT, nos termos previstos nos artigos 9.º-C e 9.º-E.
+
+2 - O DT pode ainda ser disponibilizado, com base num contrato de locação, pelas ECP aos condutores dos veículos com matrícula estrangeira, nas áreas de serviço das infra-estruturas rodoviárias referidas no número anterior ou em outros locais que as ECP considerem adequados.
+
+3 - Os condutores dos veículos com matrícula estrangeira devem utilizar o sistema de pagamento automático previsto na alínea a) do n.º 1 do artigo 16.º, utilizando para o efeito um cartão de crédito válido, no qual são debitados o valor da caução do dispositivo e do seu aluguer, nos termos dos n.os 6 e 7, bem como o valor das taxas de portagem que vierem a ser devidas.
+
+4 - No caso de adesão ao sistema de pagamento automático previsto na alínea a) do n.º 1 do artigo 16.º, e apenas a este, os condutores de veículos de matrícula estrangeira também podem utilizar o referido sistema para pagamento de portagens em infra-estruturas rodoviárias que disponham de via de cobrança manual.
+
+5 - Nas situações em que não seja possível a utilização do sistema de pagamento previsto no n.º 3, pode ser utilizado um dos sistemas de pré-pagamento referidos no artigo 16.º, com as devidas precauções de cobertura de risco que se mostrem adequadas, conforme previsto nos n.os 6 e 7.
+
+6 - Na situação prevista no número anterior, no momento da entrega do dispositivo para a instalação no veículo o respectivo condutor deve disponibilizar um montante a título de caução do dispositivo, um montante a título de custo de aluguer do equipamento e ainda um montante a título de pré-carregamento, para a regularização de taxas de portagem.
+
+7 - O pré-carregamento referido no número anterior tem o valor mínimo de (euro) 10 para veículos ligeiros e motociclos e de (euro) 20 para veículos pesados, sendo, no caso de opção pelo aluguer do equipamento, o valor da caução igual ao preço de venda do dispositivo e o valor do aluguer do equipamento definido pelas ECP e proporcional ao tempo de utilização.
+
+8 - Na situação prevista no número anterior, os condutores dos veículos de matrícula estrangeira podem solicitar, no prazo de 30 dias e procedendo à apresentação do respectivo recibo, o reembolso da caução, no momento da devolução do dispositivo junto da ECP a que aderiram, não sendo reembolsado qualquer outro valor associado ao dispositivo.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - Caso o condutor do veículo com matrícula estrangeira adquira um DECP, aderindo a um dos sistemas de pagamento previstos nas alíneas a) e b) do n.º 1 do artigo 16.º, não se aplica o disposto no n.º 1 do artigo 9.º-C, quanto ao bloqueio da matrícula.
+
+12 - Sem prejuízo do disposto nos números anteriores, os condutores dos veículos com matrícula estrangeira que circulem em território nacional e transitem em infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica de portagens e cujo período de permanência em território nacional não justifique a entrega do DT aos mesmos podem optar por realizar o pagamento das taxas de portagem consentindo que, à semelhança do sistema de pós-pagamento, nos termos do disposto nos n.os 7 e 8 do artigo 17.º, as concessionárias e subconcessionárias procedam à cobrança de portagens com base no registo de imagem da matrícula do veículo em causa, relativamente a cada uma das passagens pelos pórticos de portagem.
+
+13 - Para efeitos do disposto no número anterior, os condutores dos veículos de matrícula estrangeira podem optar por uma das seguintes modalidades de pagamento:
+
+a) Pré-carregamento de um montante predefinido, válido por um ano a contar da data da ativação, para utilização exclusiva nas infraestruturas rodoviárias que apenas disponham de um sistema de cobrança eletrónica de portagens;
+
+b) Pré-carregamento válido para trajectos predefinidos nas infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica de portagens, a realizar em datas predefinidas.
+
+c) Título pré-pago de utilização livre nas infra-estruturas rodoviárias que apenas disponham de um sistema de cobrança electrónica de portagens, com pré-pagamento único de uma quantia fixa de (euro) 20, independentemente do número de viagens realizadas, e com a validade de três dias, pelo qual podem optar os condutores dos veículos ligeiros.
+
+d) Adesão a pagamento automático, válida por um prazo de 30 dias, através da utilização de um cartão de crédito válido, no qual é autorizado o débito dos montantes devidos pela utilização exclusiva de infraestruturas rodoviárias que apenas disponham de um sistema de cobrança eletrónica de portagens.
+
+14 - A adesão às opções previstas no n.º 13 encontra-se sujeita ao pagamento de uma taxa que repercuta adequadamente os custos incorridos com a prestação deste serviço, devendo ser efetuada através de canais próprios disponibilizados pela EP - Estradas de Portugal, S. A., ou, com exceção da opção prevista na alínea d) do n.º 13, nas áreas de serviço das infraestruturas rodoviárias referidas no número anterior, em outros locais que as ECP considerem adequados, e através de sítio próprio na Internet.14 - A adesão à opção prevista no n.º 12 pode ser efectuada através de sítio próprio na Internet ou nas áreas de serviço das infra-estruturas rodoviárias referidas no número anterior ou, ainda, em outros locais que as ECP considerem adequados.
+
+15 - Apenas é permitida, no máximo, a aquisição anual de seis títulos pré-pagos previstos na alínea c) do n.º 13.
+
+16 - Os condutores dos veículos de matrícula estrangeira que optem pela adesão à opção prevista no n.º 12, através de sítio próprio na Internet, devem utilizar o sistema de pagamento automático previsto na alínea a) do n.º 1 do artigo 16.º, utilizando para o efeito um cartão de crédito válido, no qual é debitado:
+
+a) O valor pré-carregado, no caso de adesão à modalidade prevista na alínea a) do n.º 13;
+
+b) O preço do trajecto predefinido, no caso de adesão à modalidade prevista na alínea b) do n.º 13;
+
+c) O preço do título pré-pago, no caso de adesão à modalidade prevista na alínea c) do n.º 13.
+
+17 - Na situação prevista no número anterior, exclusivamente no caso da adesão através de sítio próprio na Internet à modalidade prevista na alínea a) do n.º 13, os condutores dos veículos de matrícula estrangeira podem solicitar, junto das ECP, nos termos e condições por estas definidas no momento da adesão, o reembolso do saldo não utilizado do pré-carregamento, sendo considerados todos os carregamentos feitos com um cartão de crédito válido.
+
+18 - A utilização da opção prevista no n.º 12 implica que, à semelhança do sistema de pós-pagamento, ao valor da taxa de portagem sejam acrescidos os respectivos custos administrativos, nos termos do artigo 21.º
+
+19 - Os custos administrativos devidos no caso da opção pela modalidade prevista na alínea c) do n.º 13 já se encontram incluídos no valor previsto naquela disposição legal.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/343-2012-192439), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 135-A/2011 - Diário da República n.º 66/2011, 1º Suplemento, Série I de 2011-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/135-a-2011-319371), em vigor a partir de 2011-04-05
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1296-A/2010 - Diário da República n.º 244/2010, 1º Suplemento, Série I de 2010-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/1296-a-2010-555262), em vigor a partir de 2010-12-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 18.º-A — Veículos em regime de aluguer sem condutor
+
+1 - O valor das taxas de portagem devidas pelos clientes de empresas de aluguer de veículos sem condutor, equipados com um DECP, é cobrado por aquelas empresas aos seus clientes.
+
+2 - As empresas de aluguer de veículos sem condutor podem fazer repercutir nos valores cobrados aos seus clientes os custos em que incorram com a cobrança de taxas de portagem.
+
+3 - Os termos e as condições relativos à operacionalização do previsto nos números anteriores constam de portaria autónoma do membro do Governo responsável pela área das infraestruturas rodoviárias.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/343-2012-192439), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 135-A/2011 - Diário da República n.º 66/2011, 1º Suplemento, Série I de 2011-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/135-a-2011-319371), em vigor a partir de 2011-04-05
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 18.º-B
+
+(Anterior artigo 18.º-A.)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 135-A/2011 - Diário da República n.º 66/2011, 1º Suplemento, Série I de 2011-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/135-a-2011-319371), em vigor a partir de 2011-04-05
+
+### Capítulo VI — Requisitos de segurança
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+###### Artigo 19.º — Requisitos de segurança
+
+1 - As normas técnicas adoptadas ao abrigo da presente portaria incorporam mecanismos que garantem a confidencialidade, a autenticidade e a inviolabilidade dos dados, os quais apenas podem ser acedidos por entidades do sistema de identificação electrónica de veículos para pagamento de portagens, de acordo com as respectivas autorizações de acesso.
+
+2 - A implementação técnica dos mecanismos mencionados no número anterior é assegurada pela SIEV, S. A., que deve, para o efeito, emitir os regulamentos técnicos e de segurança necessários, nos termos do artigo 3.º
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 20.º — Circuito de recolha do DEM
+
+A SIEV, S. A., define, em regulamento específico, o circuito seguro de recolha e de destruição dos DEM cancelados que respeite o disposto no artigo anterior e promove um processo de reciclagem dos materiais a destruir.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+### Capítulo VII — Custos administrativos e tarifas
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+###### Artigo 21.º — Custos administrativos
+
+1 - Para efeitos do disposto no n.º 4 do artigo 5.º da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro, são devidos custos administrativos, designadamente por franquias postais, por comunicações telefónicas, por telecópia ou por transmissão electrónica, pela análise de requerimentos e por traduções, impressões ou digitalizações, sendo os mesmos fixados nos seguintes termos:
+
+a) Custos administrativos de pagamento da taxa de portagem:
+
+i) Com adesão à opção prevista nas alíneas a), b) e d) do n.º 13 do artigo 18.º - (euro) 0,26 por cada taxa de portagem em dívida;
+
+ii) Com adesão ao sistema de pós-pagamento da taxa de portagem ou à opção prevista na alínea c) do n.º 13 do artigo 18.º - (euro) 0,26 por cada taxa de portagem em dívida, com um limite máximo de (euro) 2,08 por cada ato de pagamento;
+
+b) Custos administrativos de pagamento da taxa de portagem em caso de contra-ordenação, os quais são devidos cumulativamente, consoante o momento do pagamento:
+
+i) Pagamento da taxa de portagem após a primeira notificação do titular do documento de identificação do veículo, nos termos do n.º 1 do artigo 10.º da Lei n.º 25/2006, de 30 de junho - (euro) 1,80 por cada taxa de portagem em dívida;
+
+ii) Pagamento da taxa de portagem após a notificação do agente da contraordenação, nos termos do n.º 4 do artigo 10.º da Lei n.º 25/2006, de 30 de junho - (euro) 1,80 por cada taxa de portagem em dívida;
+
+iii) Pagamento da taxa de portagem após a notificação do auto de notícia, nos termos do n.º 1 do artigo 12.º da Lei n.º 25/2006, de 30 de junho - (euro) 1,48 por cada taxa de portagem em dívida;
+
+iv) Pagamento da taxa de portagem após o Instituto das Infraestruturas Rodoviárias, I. P. (InIR, I. P.), proferir decisão condenatória - (euro) 79 por cada notificação enviada ao infrator, sendo que se este pagar a quantia em que tiver sido condenado, em sede de decisão final, respeitando o prazo que lhe tiver sido fixado para o efeito, o valor do custo administrativo é reduzido para metade.
+
+2 - Os custos administrativos previstos na alínea a) do número anterior, quando aplicáveis, visam suportar os encargos incorridos pelas concessionárias ou subconcessionárias com os processos de cobrança com base no registo da imagem da matrícula do veículo, cabendo-lhes por inteiro.
+
+3 - Os custos administrativos previstos nas subalíneas i), ii) e iii) da alínea b) do n.º 1, quando aplicáveis, visam suportar os encargos incorridos pelas concessionárias ou subconcessionárias com os processos de cobrança coerciva, cabendo-lhes por inteiro, sem prejuízo do disposto no n.º 7 do artigo 12.º da Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, pelo Decreto-Lei n.º 113/2009, de 18 de Maio, e pela Lei n.º 46/2010, de 7 de Setembro.
+
+4 - Os custos administrativos previstos na subalínea iv) da alínea b) do n.º 1, quando aplicáveis, visam suportar os encargos incorridos pelo InIR, I. P., com os processos de cobrança coerciva, cabendo-lhe por inteiro.
+
+5 - O valor monetário dos custos administrativos referidos nos números anteriores está sujeito a atualização anual, produzindo efeitos a partir do 1.º dia de cada ano civil, pelo índice de preços no consumidor, para todo o território nacional, sem habitação, publicado pelo Instituto Nacional de Estatística, devendo essa atualização ser aprovada até ao final do ano imediatamente anterior, por portaria do membro do Governo responsável pela área das infraestruturas rodoviárias.
+
+6 - Ao valor monetário dos custos administrativos referidos nos números anteriores acresce o imposto sobre o valor acrescentado à taxa legal em vigor.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2012 - Diário da República n.º 208/2012, Série I de 2012-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/343-2012-192439), em vigor a partir de 2012-10-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 135-A/2011 - Diário da República n.º 66/2011, 1º Suplemento, Série I de 2011-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/135-a-2011-319371), em vigor a partir de 2011-04-05
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1296-A/2010 - Diário da República n.º 244/2010, 1º Suplemento, Série I de 2010-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/1296-a-2010-555262), em vigor a partir de 2010-12-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 22.º — Tarifas da SIEV, S. A.
+
+1 - Ao abrigo do n.º 3 do artigo 8.º do Decreto-Lei n.º 111/2009, de 18 de Maio, as tarifas a praticar pela SIEV, S. A., e que constituem receita desta, são fixadas nos seguintes termos:
+
+a) Tarifa de acesso à actividade de ECP autorizada, a ser suportada pelas ECP, para aceder à actividade no âmbito do sistema de identificação electrónica de veículos para pagamento de portagens;
+
+b) Tarifa de exercício da actividade de ECP autorizada, a ser suportada pelas ECP, por exercerem a actividade no âmbito do sistema de identificação electrónica de veículos para pagamento de portagens;
+
+c) Tarifas de acesso à actividade de outras entidades autorizadas, para aceder à actividade no âmbito do sistema de identificação electrónica de veículos para pagamento de portagens, recorrendo ao DE:
+
+i) A ser suportada por distribuidores e por reparadores, bem como por concessionárias e por subconcessionárias de vias cuja utilização por veículos esteja dependente do pagamento de portagens, ou outras entidades que, para pagamento dos seus serviços por parte dos utentes ou clientes, aceitem o DE como meio de cobrança;
+
+ii) A ser suportada por entidades com fins não comerciais que, para exercerem a sua actividade, recorram ao DE;
+
+d) Tarifas de exercício da actividade de outras entidades autorizadas, por exercerem a sua actividade no âmbito do sistema de identificação electrónica de veículos para pagamento de portagens, recorrendo ao DE:
+
+i) A ser suportada por distribuidores e por reparadores, bem como por concessionárias e por subconcessionárias de vias cuja utilização por veículos esteja dependente do pagamento de portagens, ou outras entidades que, para pagamento dos seus serviços por parte dos utentes ou clientes, aceitem o DE como meio de cobrança;
+
+ii) A ser suportada por entidades com fins não comerciais que, para exercerem a sua actividade, recorram ao DE;
+
+e) Tarifa de aprovação de DE, a ser suportada pelos fabricantes ou pelos distribuidores que submetam à SIEV, S. A., um modelo de dispositivo para aprovação como DE;
+
+f) Tarifa de aprovação de DDIE, a ser suportada pelos fabricantes ou pelos utilizadores do sistema que submetam à SIEV, S. A., um modelo de dispositivo ou sistema para aprovação como DDIE;
+
+g) Tarifa de transacção electrónica, a ser suportada pelas concessionárias, pelas subconcessionárias ou por outras entidades que, para pagamento dos seus serviços por parte dos utentes ou clientes, aceitem o DE como meio de cobrança, por cada transacção electrónica agregada ou não, consoante o caso, desde que não associada a uma isenção do pagamento de taxas de portagem, nos termos do artigo 18.º-A;
+
+h) (Revogada.)
+
+2 - A aprovação dos DE e dos DDIE já instalados e em funcionamento à data da entrada em vigor da presente portaria encontra-se isenta da tarifa prevista nas alíneas e) e f) do número anterior, respectivamente.
+
+3 - O montante das tarifas referidas no n.º 1 está sujeito a actualização anual pelo índice de preços no consumidor, sem habitação, publicado pelo Instituto Nacional de Estatística, e é fixado para 2010 nos termos previstos no anexo iii à presente portaria, da qual faz parte integrante.
+
+4 - As tarifas previstas no anexo iii foram calculadas em função dos custos previsíveis da SIEV, S. A., devendo ser revistas caso se verifique um desequilíbrio entre a estrutura de despesas e de receitas.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1296-A/2010 - Diário da República n.º 244/2010, 1º Suplemento, Série I de 2010-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/1296-a-2010-555262), em vigor a partir de 2010-12-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 23.º — Aplicação às Regiões Autónomas
+
+A presente portaria aplica-se apenas aos veículos matriculados no território das Regiões Autónomas da Madeira e dos Açores quando os mesmos circulem em território continental.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+### Capítulo VIII — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+###### Artigo 24.º — Cobrança de portagens com base na matrícula
+
+1 - Sempre que não seja possível proceder à entrega do DE ao proprietário do veículo que o solicite, este pode circular em infra-estruturas rodoviárias onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, desde que contrate com uma ECP um dos sistemas de pagamento previstos no artigo 16.º, com as devidas adaptações, tendo por referência provisória o número da matrícula, consentindo, neste caso, que, nos termos do disposto nos n.os 7 e 8 do artigo 17.º, as concessionárias e subconcessionárias procedam à cobrança de portagens com base no registo de imagem da matrícula do veículo em causa, relativamente a cada uma das passagens pelos pórticos de portagem.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 25.º — Equiparação
+
+1 - Para efeitos da presente portaria, o locatário em regime de locação financeira e em regime de aluguer operacional de veículos, o adquirente com reserva de propriedade, bem como o usufrutuário, são equiparados ao proprietário do veículo.
+
+2 - Consideram-se, ainda, para efeitos da presente portaria, equiparados às concessionárias os operadores de sistemas de cobrança de portagens, no caso de cedência da posição contratual daquelas.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 26.º — Conversão em DEM
+
+1 - Os proprietários dos veículos que tenham instalado um dispositivo associado ao sistema Via Verde podem optar pela conversão do seu dispositivo em DEM, solicitando a associação entre o código de identificação do dispositivo e a matrícula do veículo.
+
+2 - A conversão referida no número anterior é realizada pela Via Verde Portugal - Gestão de Sistemas Electrónicos de Cobrança, S. A., a pedido dos aderentes que o pretendam, nos termos do artigo 9.º-D.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 27.º — Normas transitórias
+
+1 - A aprovação dos modelos e sistemas de DDIE já instalados à data da entrada em vigor da presente portaria decorre, excepcionalmente, no prazo de seis meses após aquela data.
+
+2 - Até 31 de Março de 2011 ou até que a respectiva concessionária decida em sentido contrário, consoante o que ocorrer primeiro, os proprietários dos veículos que adiram ao sistema de pagamento previsto na alínea b) do n.º 1 do artigo 16.º e que pretendam circular em infra-estruturas rodoviárias que disponham de via de pagamento manual têm de utilizar esta via.
+
+3 - As entidades referidas na alínea g) do n.º 1 do artigo 22.º, com excepção das concessionárias e subconcessionárias, ficam isentas do pagamento da tarifa ali prevista durante o prazo de dois anos.
+
+4 - As ECP comunicam ao IMTT, I. P., os números de identificação dos DECP já contratualizados até à entrada em vigor da presente portaria.
+
+5 - As ECP comunicam ao IMTT, I. P., obrigatoriamente em informação autónoma e não relacionada com a referida no número anterior, as matrículas dos veículos que disponham de DECP já contratualizado, até à entrada em vigor da presente portaria, para efeitos de atribuição do código de bloqueio, nos termos do disposto no n.º 1 do artigo 9.º-C.
+
+6 - (Revogado.)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+###### Artigo 28.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07
+
+O Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 14 de Junho de 2010.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+## Anexo I — Normas e especificações do LDR
+
+(a que se refere o artigo 5.º)
+
+Tipo/modelo - MD-5803Z.
+
+Fabricante - Q-Free ASA.
+
+Morada do fabricante - Postboks 3974 Leangen, NO-7443 Trondheim, Norway.
+
+Especificações e normas aplicáveis:
+
+Dimensões físicas - 85 mm x 52 mm x 21 mm;
+
+Peso - (menor que)170 g;
+
+Cor - cinzento-claro;
+
+Montagem - fita adesiva de dupla face com 6 cm2;
+
+Alimentação - bateria interna de lítio;
+
+Tempo de vida da bateria - (maior que) cinco anos @ oito transacções/dia;
+
+Tamanho da memória livre - 128 bits;
+
+Esquema de codificação - DSRC de acordo com a norma prENV-278/9 # 65;
+
+Velocidade de transferência - 31,25 kBit/s DDIE-DEM/31,25 kBit/s DEM-DDIE;
+
+Frequência - 5,8 GHz;
+
+Modulação DDIE-DEM - AM, polarização circular esquerda;
+
+Modulação DEM-DDIE - DPSK, polarização circular esquerda;
+
+Potência máxima reflectida - - 27 dBm;
+
+Especificação rádio - conforme com prl-ETS 300674;
+
+Esquema de encriptação - simétrica (DES, MAC), ISO 8731;
+
+Temperatura de operação - 0ºC a 70ºC;
+
+Protecção - IP45;
+
+Humidade - 0 % a 95 %, sem condensação;
+
+Climática - IEC 721-3-5 5K2;
+
+Biológica - IEC 721-3-5-5B1;
+
+Química - IEC 721-3-5-5C1;
+
+Substâncias mecânicas - IEC 721-3-5-5S1;
+
+Contaminação por fluidos - IEC 721-3-5-5F1;
+
+Condições mecânicas - IEC 721-3-5 5M2;
+
+Descargas electrostáticas - IEC 801-2 severidade nível 2 e ISO TR10605;
+
+Campos electromagnéticos RF - IEC 801-3 severidade nível 2;
+
+Imunidade campos RF - até 200 V/m abaixo de 2 GHz;
+
+Calor seco - IEC 68-2-5 teste B;
+
+Radiação solar - IEC 68-2-6 teste Sa;
+
+Vibrações - IEC 68-2-6 teste Fc;
+
+Alterações de temperatura - IEC 68-2-14 teste Nb e IEC 68-2-33;
+
+Choque - IEC 68-2-27 teste Ea, impulso semi-sinusoidal 30 g/11 ms;
+
+Choque permanente - IEC 68-2-29 test Eb, impulso semi-sinusoidal 10 g/16 ms, 1000 choques/direcção, duas direcções.
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+## Anexo II — Diagramas da instalação do DEM
+
+(a que se refere o artigo 6.º)
+
+(ver documento original)
+
+Devem ser sempre respeitadas as seguintes regras:
+
+Vista lateral - terá de estar livre de qualquer obstáculo (exceptuando vidro ou então plástico até 3 mm) entre o ângulo de -5º e 75º;
+
+Vista superior - deve estar livre de qualquer obstáculo (exceptuando vidro ou então plástico até 3 mm), entre o ângulo de 25º e 155º.
+
+Automóveis
+
+(ver documento original)
+
+Motociclos
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+## Anexo III — Tarifas da SIEV, S. A.
+
+(a que se refere o artigo 22.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 84-C/2022 - Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-c-2022-204552603), em vigor a partir de 2023-01-08
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1033-C/2010 - Diário da República n.º 194/2010, 1º Suplemento, Série I de 2010-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/1033-c-2010-405304), em vigor a partir de 2010-10-07

@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:619961:por
+title: Portaria n.º 560/89
+short_title: null
+summary: Estabelece as normas regulamentares dos fardamentos do tipo comum
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 560/89
+official_date: null
+publication_date: '1989-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/1989, Série I de 1989-07-20
+  number: '165'
+  series: I
+  supplement: null
+  pages: 2846 - 2851
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/07/16500/28462851.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '619961'
+  dre_path: /dr/detalhe/portaria/560-1989-619961
+  internal: pt:dre:619961:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1989-619961
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1989-619961
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-07-20T00:00:00Z'
+integrity:
+  source_sha256: 00e6c287111aa12b0ef8bfbe91f8c27d806b932a359b4dfe8f8fb2cab7bd2fc2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-560-619961.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 560/89
+
+de 20 de Julho
+
+Através do Regulamento de Fardamentos de Tipo Comum foram definidas as normas de utilização, bem como os artigos de vestuário e resguardo usados genericamente por todo o pessoal civil dos serviços do Estado.
+
+Constatou-se, contudo, ao longo da sua vigência, a necessidade de o adaptar periodicamente, face à realidade actual, em função da sua utilização, de aspectos de ordem económica e do progresso tecnológico e da moda, realidade que determinou desgraduação da forma de regulamentação dessa matéria.
+
+É nesta perspectiva que se entende conveniente introduzir alterações tendentes à actualização de modelos e tecidos e à previsão de novos artigos de fardamentos de uso geral diário masculino e feminino.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 3.º do [Decreto-Lei n.º 373/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1984-401058), de 28 de Novembro, na redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 172/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1989-609979), de 26 de Maio, o seguinte:
+
+1.º Os fardamentos de tipo comum dividem-se em fardamentos de uso geral e fardamentos de uso restrito.
+
+2.º - 1 - Os fardamentos de uso geral subdividem-se em fardamentos de uso diário masculino e fardamentos de uso diário feminino.
+
+2 - Os fardamentos de uso restrito subdividem-se em fardamentos de uso restrito para determinadas categorias e fardamentos de protecção.
+
+3.º - 1 - fardamento de uso geral diário masculino é constituído por casaco, calça e camisa e tem as seguintes características:
+
+a) O casaco e a calça são em tecido de lã/poliéster azul-escuro e em conformidade com os modelos das figuras 1 e 2;
+
+b) A camisa é em tecido do tipo popelina branca com manga comprida ou meia manga e em conformidade com os modelos das figuras 3 e 4.
+
+2 - O fardamento de uso geral diário feminino é constituído por casaco, saia ou calça e blusa e tem as seguintes características:
+
+a) O casaco, a saia ou a calça são em tecido de lã/poliéster azul-escuro e em conformidade com os modelos das figuras 5, 6 e 7;
+
+b) A blusa é em tecido do tipo popelina branca com manga comprida ou meia manga e em conformidade com os modelos das figuras 8 e 9.
+
+4.º - 1 - Os fardamentos de uso restrito para determinadas categorias são os que têm as seguintes designações e características:
+
+a) O sobretudo e em tecido de lã azul-escuro e em conformidade com o modelo da figura 10;
+
+b) A gabardina é em tecido de algodão/poliéster impermeabilizado azul-escuro e em conformidade com o modelo da figura 11;
+
+c) O blusão é em tecido impermeável preto e em conformidade com o modelo da figura 12.
+
+2 - Os fardamentos de uso restrito de protecção são os que têm as seguintes designações e características:
+
+a) A bata é em algodão cinzento ou em algodão/poliéster cinzento, azul ou branco, consoante o uso a que se destina e com modelo em conformidade com a figura 13;
+
+b) O conjunto calça com peitilho e alças e camisa é em tecido de algodão poliéster cinzento e em conformidade com os modelos das figuras 14 e 15, respectivamente;
+
+c) O fato inteiriço (macaco) é em algodão cinzento ou azul e em conformidade com o modelo da figura 16.
+
+5.º - 1 - Os botões aplicados nos casacos, sobretudos e gabardinas são da mesma cor dos tecidos utilizados na confecção e têm o escudo nacional em relevo, sendo os botões das frentes de diâmetro superior aos utilizados nas mangas.
+
+2 - Os botões aplicados nos restantes artigos de fardamento são lisos e têm cor idêntica ao tecido utilizado na confecção.
+
+6.º As especificações técnicas dos modelos, dos tecidos e outros materiais utilizados na confecção serão fixadas em caderno de encargos pela Direcção-Geral do Património do Estado.
+
+7.º Os fardamentos referidos na presente portaria destinam-se ao pessoal civil dos serviços do Estado que se encontrem no desempenho das suas funções e serão distribuídos conforme o estabelecido no quadro I e utilizados de acordo com as seguintes regras:
+
+a) Aos fardamentos de uso geral têm direito os funcionários da classe de pessoal auxiliar;
+
+b) Aos fardamentos de uso restrito para determinadas categorias têm direito os funcionários cujas categorias são referidas no quadro I anexo à presente portaria ou outros cujas funções justifiquem o seu uso;
+
+c) Aos fardamentos de uso restrito de protecção têm direito os funcionários que desempenham serviços de limpeza ou outros cujas funções justifiquem o seu uso, sendo as opções definidas no n.º 4.º, n.º 2, usadas em alternativa, segundo critérios definidos nos respectivos serviços.
+
+8.º - 1 - O uso dos fardamentos previstos nesta portaria e obrigatório para todos os funcionários que a ele tenham direito, salvo se houver despacho ministerial que autorize a respectiva dispensa, a qual poderá ser concedida, caso a caso, segundo critérios de oportunidade, após proposta fundamentada do responsável pelo serviço.
+
+2 - Nos casos em que não houver dispensa do uso do fardamento, o pessoal auxiliar deverá apresentar-se ao serviço convenientemente uniformizado, ou seja, com o fardamento completo e em bom estado de conservação.
+
+9.º - 1 - É recomendável o uso de gravata azul-escura pelo pessoal do sexo masculino e de calçado preto pela generalidade do pessoal auxiliar.
+
+2 - Durante o período de Inverno poderá ser concedida autorização para o uso de camisola azul-escura com decote em V e no período de Verão poderá ser dispensado o uso do casaco.
+
+10.º É proibido:
+
+a) Usar, quando fardado, quaisquer emblemas ou distintivos que não sejam os autorizados pelos respectivos serviços;
+
+b) Usar o fardamento ou qualquer das suas peças fora do serviço, para além do tempo indispensável ao trajecto de ou para o local do trabalho;
+
+c) O uso simultâneo de peças de fardamento e de traje civil;
+
+d) O uso de fardamento diferente do que superiormente estiver determinado.
+
+11.º A inobservância sistemática das regras de utilização previstas nos n.os 7.º, 8.º, 10.º e 13.º será objecto de procedimento disciplinar.
+
+12.º - 1 - A dotação e a duração média de cada fardamento são as que constam do quadro I, sem prejuízo do disposto no número seguinte.
+
+2 - Sempre que o estado de conservação de um fardamento não justifique a sua substituição ou implique uma substituição antes de atingido o tempo limite de duração, os dirigentes dos serviços poderão prorrogar ou antecipar as durações previstas no quadro I.
+
+3 - Os serviços onde exista pessoal com direito a fardamento possuirão um registo ou verbetes individuais, onde discriminarão para cada um dos referidos funcionários ou agentes os artigos distribuidor e as respectivas datas de entrega.
+
+13.º - 1 - O pessoal a quem foi fornecido fardamento é responsável pelo mesmo e pode ser competido a substituí-lo, no todo ou em parte, quando, sem motivo justificado, o torne incapaz de ser utilizado.
+
+2 - O pessoal que deixe definitivamente de exercer as suas funções deverá entregar nos respectivos serviços todas as peças de fardamento que lhe tenham sido distribuídas e que ainda não tenham atingido o prazo limite de duração.
+
+14.º Os fardamentos que, ao abrigo de disposições anteriores, hajam sido distribuídos deverão ser utilizados até ao limite do prazo previsto naquelas disposições.
+
+Ministério das Finanças.
+
+**Assinada em 29 de Junho de 1989.**
+
+**O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**
+
+QUADRO I
+
+Fardamentos de tipo comum
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/16500/28462851.pdf))](https://files.diariodarepublica.pt/1s/1989/07/16500/28462851.pdf)

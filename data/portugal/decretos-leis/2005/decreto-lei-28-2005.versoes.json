@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:618118:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-835958991",
+ "dre_path": "/dr/detalhe/decreto-lei/28-2005-618118",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-02-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835894610",
+    "835894611",
+    "835894612",
+    "835894613",
+    "835894614",
+    "835894615",
+    "835894616",
+    "835894617",
+    "835894618",
+    "835894619"
+   ]
+  },
+  {
+   "date": "2010-06-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:335418:por",
+     "title": "Lei n.º 10/2010",
+     "published": "2010-06-14",
+     "dre_path": "/dr/detalhe/lei/10-2010-335418"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "835894610",
+    "835894611",
+    "835894621",
+    "835894613",
+    "835894614",
+    "835894615",
+    "835894616",
+    "835894617",
+    "835894618",
+    "835894619",
+    "835894620"
+   ]
+  }
+ ],
+ "fragments": {
+  "835894610": {
+   "fragment_id": "835958992",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 28/2005\n\nde 10 de Fevereiro\n\nO Decreto-Lei n.º 195/95, de 28 de Julho, define o regime especial de acesso às pensões de invalidez e velhice dos trabalhadores do interior das minas, contemplando o n.º 3 do artigo 2.º a possibilidade de o seu regime ser extensível, por lei, a trabalhadores do exterior das minas atendendo a excepcionais razões conjunturais.\n\nPor razões ligadas ao declínio das cotações do minério de urânio, a Empresa Nacional de Urânio, S. A. (ENU), foi conduzida a uma difícil situação económica e financeira que, associada à situação de crise que o sector mineiro atravessa, levou à sua dissolução.\n\nNeste contexto, os trabalhadores que exerciam funções ao serviço da ENU na data da dissolução encontram-se numa situação especialmente delicada, dada a falta de horizontes profissionais derivada quer da sua formação específica quer da situação de crise existente no sector.\n\nAcresce, com decisiva relevância, que estes trabalhadores que exerceram funções nas áreas mineiras e anexos mineiros ou em obras e imóveis afectos à exploração mineira desenvolveram a sua actividade profissional sujeitos a um risco agravado pela constante exposição a radiações e ambientes com radão.\n\nNestes termos, encontra-se justificada a adopção de medida legislativa excepcional que equipare aqueles trabalhadores a trabalhadores do interior ou da lavra subterrânea das minas para efeitos de acesso à pensão de invalidez e de velhice.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição e do n.º 3 do artigo 2.º do Decreto-Lei n.º 195/95, de 28 de Julho, o Governo decreta o seguinte:"
+  },
+  "835894611": {
+   "fragment_id": "835958993",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula a aplicação do regime jurídico estabelecido pelo Decreto-Lei n.º 195/95, de 28 de Julho, aos trabalhadores da Empresa Nacional de Urânio, S. A."
+  },
+  "835894612": {
+   "fragment_id": "835958994",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nEstão abrangidos pelo presente diploma os trabalhadores que reúnam, cumulativamente, as seguintes condições:\n\na) Exercício de funções ou de actividades de apoio nas áreas mineiras e anexos mineiros ou em obras e imóveis afectos à exploração da Empresa Nacional de Urânio, S. A., à data da sua dissolução;\n\nb) Cumprimento do prazo de garantia legalmente previsto."
+  },
+  "835894613": {
+   "fragment_id": "835958995",
+   "type": 11,
+   "heading": "Artigo 3.º — Limite de idade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limite de idade\n\nA antecipação da idade de acesso à pensão por velhice tem como limite os 55 anos de idade do beneficiário."
+  },
+  "835894614": {
+   "fragment_id": "835958996",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio da não acumulação de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio da não acumulação de pensões\n\nAs pensões de invalidez e de velhice atribuídas nos termos do presente diploma não são acumuláveis com rendimentos de trabalho auferidos por exercício de actividade no sector mineiro, sendo suspensas enquanto se mantiver o exercício dessa actividade."
+  },
+  "835894615": {
+   "fragment_id": "835958997",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requerimento\n\n1 - O requerimento para a atribuição das pensões referidas no número anterior deve ser instruído com documento comprovativo da condição exigida pela alínea a) do artigo 2.º do presente decreto-lei, emitido pela entidade liquidatária da Empresa Nacional de Urânio, S. A.\n\n2 - O requerimento referido no número anterior é entregue no centro distrital de segurança social da área de residência do beneficiário, com expressa indicação do diploma ao abrigo do qual a pensão é requerida."
+  },
+  "835894616": {
+   "fragment_id": "835958998",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação de início de actividade no sector mineiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação de início de actividade no sector mineiro\n\nOs pensionistas de invalidez e de velhice a quem seja atribuída pensão ao abrigo do presente diploma e que iniciem actividade no sector mineiro devem, no prazo máximo de 15 dias, comunicar tal facto ao Centro Nacional de Pensões, para efeito de suspensão da pensão."
+  },
+  "835894617": {
+   "fragment_id": "835958999",
+   "type": 11,
+   "heading": "Artigo 7.º — Responsabilidade pelos encargos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Responsabilidade pelos encargos financeiros\n\n1 - Os encargos financeiros decorrentes do presente decreto-lei são da responsabilidade da Empresa de Desenvolvimento Mineiro, SGPS, S. A.\n\n2 - Os encargos financeiros referidos no número anterior são fixados em protocolo a celebrar entre o Instituto de Gestão Financeira da Segurança Social, I. P., e a Empresa de Desenvolvimento Mineiro, SGPS, S. A., o qual deve ainda estabelecer os termos em que se processa o respectivo pagamento.\n\n3 - O protocolo referido no número anterior deve ser celebrado no prazo de 60 dias após o início da vigência do presente decreto-lei."
+  },
+  "835894618": {
+   "fragment_id": "835959000",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime subsidiário\n\nEm tudo o que não se encontre expressamente previsto neste diploma é aplicável o regime jurídico estabelecido no Decreto-Lei n.º 195/95, de 28 de Julho."
+  },
+  "835894619": {
+   "fragment_id": "835959001",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "835894621": {
+   "fragment_id": "835958994",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": "2010-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 10/2010 - Diário da República n.º 113/2010, Série I de 2010-06-14](https://diariodarepublica.pt/dr/detalhe/lei/10-2010-335418), em vigor a partir de 2010-06-15"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nEstão abrangidos pelo presente diploma os trabalhadores que reúnam, cumulativamente, as seguintes condições:\n\na) Exercício de funções ou de actividades de apoio das áreas mineiras e anexos mineiros ou em obras e imóveis afectos à exploração da Empresa Nacional de Urânio, S. A., à data da sua dissolução ou, no caso de cessação de contrato anterior à dissolução, que tenham aí trabalhado por período não inferior a quatro anos;\n\nb) Cumprimento do prazo de garantia legalmente previsto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 10/2010 - Diário da República n.º 113/2010, Série I de 2010-06-14](https://diariodarepublica.pt/dr/detalhe/lei/10-2010-335418), em vigor a partir de 2010-06-15"
+  },
+  "835894620": {
+   "fragment_id": "835959002",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - Fernando Mimoso Negrão.\n\nPromulgado em 20 de Janeiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Janeiro de 2005.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  }
+ }
+}

@@ -1,0 +1,462 @@
+---
+schema_version: '1.0'
+id: pt:dre:503015:por
+title: Decreto Legislativo Regional n.º 19/2013/A
+short_title: null
+summary: Estabelece o regime jurídico do Fundo de Compensação Salarial dos Profissionais da Pesca dos Açores - FUNDOPESCA
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 19/2013/A
+official_date: null
+publication_date: '2013-10-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/2013, Série I de 2013-10-17
+  number: '201'
+  series: I
+  supplement: null
+  pages: 6137 - 6139
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/10/20100/0613706139.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-01-01'
+version_history:
+  file: decreto-legislativo-regional-19-2013-a.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-02-25'
+    amending: pt:dre:73688944:por
+    amending_title: Decreto Legislativo Regional n.º 5/2016/A
+    changes:
+    - Adita Artigo 7.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+  - date: '2024-01-01'
+    amending: pt:dre:223203768:por
+    amending_title: Decreto Legislativo Regional n.º 38/2023/A
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 7.º-A
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Revoga Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/19/2013/a/cons/20231024/pt/html
+  oj: null
+  dre: '503015'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/19-2013-503015
+  internal: pt:dre:503015:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2013-503015
+  metadata_url: https://data.dre.pt/eli/declegreg/19/2013/a/cons/20231024/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-73850049
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-73850049
+  retrieved_at: '2026-10-22T12:05:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4b319527321a10bd4ee7d216343630c200fd0af1774461fb35bf00f48e1f374f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:05:56Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-19-2013-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Pescador
+- Pessoal do MAR
+- Zona Económica Exclusiva
+- Governo Regional
+- Direcção Regional das Pescas
+- União Europeia
+- Pesca
+- Fundopesca
+- Comissão CE
+- Política Comunitária
+- Armador
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:73688944:por
+  label: Adita Artigo 7.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944
+  date: '2016-02-24'
+- type: amended_by
+  target: pt:dre:223203768:por
+  label: Adita Artigo 6.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 7.º-A; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Revoga Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768
+  date: '2023-10-24'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/311/1999/08/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/311/1999/08/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/16/2002/05/10/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/16/2002/05/10/a/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:05:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 19/2013/A
+
+Decreto Legislativo Regional n.º 19/2013/A
+
+Estabelece o regime jurídico do Fundo de Compensação Salarial dos Profissionais da Pesca dos Açores - FUNDOPESCA
+
+Com o Decreto-Lei n.º 311/99, de 10 de agosto, que criou o Fundo de Compensação Salarial dos Profissionais da Pesca, os profissionais da pesca, cujas embarcações estejam imobilizadas devido a condições naturais adversas ao exercício da pesca e legalmente previstas, passaram a dispor de um mecanismo compensatório da perda da sua retribuição. Este diploma foi, ao longo da sua vigência, objeto de diversas alterações, no sentido de garantir uma mais adequada proteção aos profissionais da pesca, tendo inclusive sido adaptado à Região Autónoma dos Açores, através do Decreto Legislativo Regional n.º 16/2002/A, de 10 de maio, no que diz respeito às designações das entidades competentes e à designação do Fundo, que passou a ser designado por FUNDOPESCA.
+
+Volvidos mais de dez anos, verifica-se a necessidade de uma melhor definição do âmbito de aplicação pessoal e material do FUNDOPESCA, dos montantes a atribuir, da sua periodicidade, dos direitos e das obrigações dos contribuintes e beneficiários e ainda da composição, funcionamento e poderes do respetivo conselho administrativo.
+
+Com esta clarificação e previsibilidade do processo de seleção dos beneficiários e de ativação do FUNDOPESCA, os profissionais da pesca poderão conhecer, com maior segurança, as condições em que poderão beneficiar do fundo de compensação, quando estejam temporariamente impedidos de exercer a respetiva atividade.
+
+Torna-se, pois, necessário estabelecer um regime jurídico integralmente regional do FUNDOPESCA para os Açores, adequado à realidade atual da pesca açoriana e às reais necessidades dos profissionais deste setor.
+
+Foram ouvidas as organizações representativas do setor.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos das disposições conjugadas do n.º 4 do artigo 112.º e da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e dos artigos 37.º, e n.º 1 do artigo 53.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Criação
+
+O presente diploma estabelece o regime jurídico do Fundo de Compensação Salarial dos Profissionais da Pesca dos Açores, abreviadamente designado por FUNDOPESCA.
+
+###### Artigo 2.º — Natureza
+
+O FUNDOPESCA é um fundo dotado de personalidade jurídica e de autonomia administrativa e financeira, na tutela direta do membro do Governo Regional com competência em matéria de pescas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 3.º — Atribuição
+
+Constitui atribuição do FUNDOPESCA prestar apoio financeiro, de natureza parcialmente social, aos profissionais da pesca, quando estejam temporariamente impedidos de exercer a respetiva atividade e registem uma redução do rendimento, nos termos previstos no presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2016/A - Diário da República n.º 38/2016, Série I de 2016-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944), em vigor a partir de 2016-02-25
+
+###### Artigo 4.º — Âmbito pessoal
+
+1 - São beneficiários do disposto no presente diploma:
+
+a) Os armadores e os pescadores, titulares de cédula marítima válida ou autorização de embarque, exercendo a sua atividade em regime de exclusividade a bordo de embarcação de pesca registada em porto da Região Autónoma dos Açores, devidamente licenciada, imobilizada pelos motivos previstos no artigo seguinte;
+
+b) Os trabalhadores que, em regime de exclusividade, exerçam em terra uma atividade diretamente ligada à embarcação imobilizada referida na alínea anterior;
+
+c) Os gameleiros que exerçam em terra uma atividade diretamente ligada à embarcação imobilizada referida na alínea a);
+
+d) Os pescadores licenciados para a pesca apeada e apanhadores, titulares de licença válida, quando exerçam a atividade em regime de exclusividade e se verifique a previsão da alínea b) do n.º 1 do artigo seguinte.
+
+2. Para efeitos do disposto na alínea a) do número anterior, são considerados:
+
+a) Armadores - os proprietários das embarcações de pesca cujos rendimentos mensais não sejam superiores a três vezes a retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores;
+
+b) Pescadores - os que exerçam a sua atividade em regime de contrato individual de trabalho ou que estejam inscritos no rol de matrícula de uma embarcação de pesca.
+
+c) Gameleiros - não marítimos que trabalham em terra na preparação de artes de pesca.
+
+3 - As entidades referidas no n.º 1, que pretendam beneficiar do apoio referido no artigo anterior, devem efetuar descontos para o FUNDOPESCA, de acordo com o disposto na alínea g) do artigo 13.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2016/A - Diário da República n.º 38/2016, Série I de 2016-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944), em vigor a partir de 2016-02-25
+
+###### Artigo 5.º — Âmbito material
+
+1 - A imobilização das embarcações de que decorra redução do rendimento do inscrito marítimo constitui fundamento da atribuição de uma compensação salarial, desde que aquela se deva a:
+
+a) Imposição sanitária, catástrofe natural e imprevisível ou condições de estado do mar, que resultem durante, pelo menos, sete dias consecutivos ou 13 interpolados num período de 30 dias, num valor diário de venda de pescado em lota inferior a 35 % do valor da média aritmética diária dos últimos três anos civis, excluindo os dias em que as lotas se encontram encerradas, calculada por ilha, e por segmento da frota, tendo em conta os comprimentos fora-a-fora das embarcações, sendo os segmentos a considerar os seguintes:
+
+i) Embarcações com comprimento fora-a-fora inferior a 9 metros;
+
+ii) Embarcações com comprimento fora-a-fora igual ou superior a 9 metros e inferior a 12 metros;
+
+iii) Embarcações com comprimento fora-a-fora igual ou superior a 12 metros e inferior a 14 metros;
+
+iv) Embarcações com comprimento fora-a-fora igual ou superior a 14 metros.
+
+b) Interdição de pescar por razões excecionais de preservação ou gestão de recursos, motivos de saúde pública ou defesa do ambiente, com a duração mínima de oito dias consecutivos;
+
+c) Impossibilidade do exercício da faina ditada por condicionantes decorrentes do carácter migratório das espécies e pela especialização da frota exclusivamente nessa atividade, nos termos da fundamentação e limites previstos na regulamentação comunitária.
+
+2. (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2016/A - Diário da República n.º 38/2016, Série I de 2016-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944), em vigor a partir de 2016-02-25
+
+###### Artigo 6.º — Montante da compensação e período máximo
+
+1 - O valor diário da compensação salarial é igual a 1/30 de 1,05 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores.
+
+2 - O pagamento da compensação salarial fica limitado a um máximo de 60 dias por ano, em cada ilha, e às disponibilidades orçamentais do FUNDOPESCA.
+
+3 - O pagamento da compensação salarial só é devido decorridos os prazos mencionados nas alíneas a) e b) do n.º 1 do artigo 5.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2016/A - Diário da República n.º 38/2016, Série I de 2016-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944), em vigor a partir de 2016-02-25
+
+###### Artigo 6.º-A — Pagamentos à Segurança Social
+
+1 - Sobre os montantes de compensação salarial atribuídos a cada profissional da pesca, é devido à Segurança Social o pagamento dos valores equivalentes ao total de contribuições e quotizações que sejam apuradas, de acordo com a taxa contributiva aplicável ao trabalhador, em virtude do respetivo enquadramento na Segurança Social.
+
+2 - Para efeitos do disposto no número anterior, o FUNDOPESCA é responsável pelo pagamento dos montantes correspondentes às contribuições e quotizações de cada trabalhador à Segurança Social.
+
+3 - Os montantes referidos nos números anteriores são transferidos pelo FUNDOPESCA para a LOTAÇOR, Serviço de Lotas dos Açores, S. A., doravante designada por LOTAÇOR, S. A., a quem compete efetuar o respetivo pagamento à Segurança Social.
+
+4 - Para efeitos do disposto no número anterior, a LOTAÇOR, S. A., comunica mensalmente ao Instituto da Segurança Social dos Açores, I. P. R. A., a listagem dos profissionais de pesca a quem, no mês anterior, tenha sido paga compensação salarial, com indicação do valor pago e do número de dias a que a mesma respeitou.
+
+5 - Os períodos a que se reporta a compensação salarial atribuída ao abrigo do presente diploma são considerados na carreira contributiva do profissional da pesca, após o integral pagamento dos valores devidos, nos termos do n.º 1.
+
+6 - Os termos da comunicação da informação a que se refere o n.º 4, bem como da transferência dos montantes referidos no n.º 3 pelo FUNDOPESCA à LOTAÇOR, S. A., são objeto de regulamentação através de portaria dos membros do Governo Regional com competência em matéria de segurança social e de pescas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 7.º — Subsidiariedade e acumulação
+
+1 - O regime de compensação salarial previsto no presente diploma é subsidiário relativamente aos regimes de apoio financeiro previstos em legislação regional, nacional e comunitária.
+
+2 - A compensação salarial é acumulável com outros apoios financeiros, ao agregado familiar.
+
+3 - No caso previsto no número anterior, de cada vez que for acionada, a compensação salarial é ajustada de modo que o somatório da mesma com os restantes apoios não ultrapasse um montante máximo igual a 1,55 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, transposto para o período a que se refere a compensação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 5/2016/A - Diário da República n.º 38/2016, Série I de 2016-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944), em vigor a partir de 2016-02-25
+
+###### Artigo 7.º-A — Candidaturas
+
+1 - As candidaturas ao FUNDOPESCA são entregues entre os dias 1 e 30 de setembro do ano anterior ao ano de ativação.
+
+2 - Sem prejuízo da entrega de outros documentos, mediante solicitação do conselho administrativo, nos termos do disposto no artigo 10.º, as candidaturas são instruídas obrigatoriamente com os seguintes documentos:
+
+a) Fotocópia dos documentos de identificação do beneficiário, nomeadamente bilhete de identidade ou cartão de cidadão, número de identificação fiscal e número de identificação de segurança social;
+
+b) Autorização de consulta da declaração de rendimentos ou de remunerações do beneficiário, emitida pelos serviços de segurança social, referente ao ano anterior ao ano de ativação;
+
+c) Fotocópia da cédula marítima ou da autorização de embarque válidas;
+
+d) Fotocópia do rol de tripulação;
+
+e) Declaração do armador que comprove que o beneficiário é trabalhador de terra, caso se aplique;
+
+f) Comprovativo da apólice de seguro de acidentes de trabalho válida por um período de, pelo menos, 180 dias no ano anterior ao ano de ativação, referente a cada trabalhador;
+
+g) Comprovativo da apólice de seguro por incapacidade permanente absoluta ou por morte, válida por um período de, pelo menos, 180 dias no ano anterior ao ano de ativação, no que se refere a tripulante, nos termos do disposto no regime jurídico do contrato individual de trabalho a bordo das embarcações de pesca;
+
+h) Declaração de início de atividade, caso o beneficiário seja trabalhador independente.
+
+3 - Os profissionais da pesca que iniciem a atividade após o prazo de candidatura referido no número anterior, e até ao dia 30 de junho desse ano civil, dispõem de um prazo de 30 dias, a contar da data de início de atividade, para apresentarem a respetiva candidatura ao FUNDOPESCA.
+
+4 - Os documentos referidos nas alíneas a) a e) e h) do n.º 2 são entregues junto com a candidatura a que se refere o n.º 1.
+
+5 - Os documentos a que se referem as alíneas f) e g) do n.º 2 são entregues no prazo de cinco dias a contar da data de ativação do FUNDOPESCA.
+
+6 - Depois de instruídas as candidaturas, juntos os documentos referidos nas alíneas f) e g) do n.º 2 e validados os impedimentos ou redução de rendimentos, o conselho administrativo dispõe de 15 dias úteis para processamento e decisão das candidaturas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 5/2016/A - Diário da República n.º 38/2016, Série I de 2016-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944), em vigor a partir de 2016-02-25
+
+###### Artigo 8.º — Administração do FUNDOPESCA
+
+1. O FUNDOPESCA rege-se pelo estabelecido no presente diploma e pelas instruções de ordem técnica que, para o seu funcionamento, forem transmitidas pelo membro do Governo Regional com competência em matéria de pescas e pelo conselho administrativo.
+
+2. O FUNDOPESCA é administrado por um conselho administrativo constituído pelos seguintes membros:
+
+a) O diretor regional com competência em matéria de pescas, que preside;
+
+b) Um representante do departamento do Governo Regional com competência em matéria de segurança social;
+
+c) Um representante do departamento do Governo Regional com competência em matéria de emprego;
+
+d) Um representante dos sindicatos dos pescadores;
+
+e) Um representante das associações de pescadores;
+
+f) Um representante das associações de armadores;
+
+g) Um representante da Federação das Pescas dos Açores;
+
+h) Um representante da LOTAÇOR, S.A.
+
+3 - Os membros referidos nas alíneas d) a g) do número anterior são designados por despacho do membro do Governo Regional com competência em matéria de pescas, mediante indicação, com caráter vinculativo, dos sindicatos de pescadores e da Federação das Pescas dos Açores, respetivamente.
+
+4 - Os membros referidos nas alíneas d) a g) do n.º 2 devem, sempre que possível, no seu conjunto, assegurar a representatividade geográfica dos Grupos Ocidental, Central e Oriental dos Açores e o âmbito pessoal previsto no artigo 4.º
+
+5 - O conselho administrativo reúne sempre que convocado pelo seu presidente, por sua iniciativa ou a requerimento de um terço dos seus membros.
+
+6. As deliberações são tomadas pela maioria dos membros presentes, dispondo o presidente do conselho administrativo, em caso de empate na votação, de voto de qualidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 9.º — Mandato e despesas de deslocação
+
+1 - O mandato dos membros do conselho administrativo é de três anos, renováveis, podendo, todavia, ser exonerados a todo o tempo, com ressalva do diretor regional com competência em matéria de pescas, que exerce a presidência por inerência de funções.
+
+2 - As despesas com as deslocações dos membros referidos nas alíneas d) a g) do n.º 2 do artigo anterior, no âmbito de reuniões do conselho administrativo, são suportadas pela direção regional com competência em matéria de pescas e são de montante idêntico às ajudas de custo a que têm direito os trabalhadores que exercem funções públicas com remunerações base superiores ao valor do nível remuneratório 18 do Sistema Remuneratório da Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 10.º — Competências do conselho administrativo
+
+Compete ao conselho administrativo tomar todas as providências tendentes ao bom funcionamento do FUNDOPESCA e, nomeadamente:
+
+a) Aprovar o respetivo regulamento interno;
+
+b) Definir os requisitos a preencher pelos beneficiários da compensação salarial, nomeadamente quanto:
+
+i) Ao tipo de embarcação;
+
+ii) Ao número ou valor mínimos de descargas em lota;
+
+iii) Ao tempo mínimo de descontos para a Segurança Social;
+
+iv) À duração mínima e percentagem de desconto na LOTAÇOR, S.A. do valor do pescado transacionado em lota;
+
+v) Ao período de referência a considerar para validação dos requisitos constantes das subalíneas anteriores;
+
+c) Apreciar os pedidos de apoio financeiro submetidos ao fundo;
+
+d) Deliberar sobre a atribuição das compensações salariais;
+
+e) Gerir as receitas do FUNDOPESCA, aplicando-as aos respetivos encargos;
+
+f) Prestar contas da sua gerência;
+
+g) Elaborar um relatório anual de atividades;
+
+h) Decidir do fundamento da atribuição de uma compensação salarial ao inscrito marítimo, nos termos da alínea a) do n.º 1 do artigo 5.º, em caso de impossibilidade técnica de emissão de parecer pela entidade competente, sobre a falta de condições de segurança no porto ou no mar para um determinado tipo de embarcações e noutras situações análogas de caráter excecional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 11.º — Deliberações
+
+1 - As deliberações do conselho administrativo, no âmbito da atribuição de compensações salariais, estão sujeitas a homologação do membro do Governo Regional com competência em matéria de pescas.
+
+2 - A homologação referida no número anterior deve ocorrer no prazo de três dias a contar da data da deliberação do conselho administrativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 12.º — Apoio administrativo e logístico
+
+A direção regional com competência em matéria de pescas presta apoio administrativo e logístico ao FUNDOPESCA.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 13.º — Receitas
+
+Constituem receitas do FUNDOPESCA:
+
+a) 60 % do produto das coimas aplicadas pela prática de infrações ao regime geral das pescas;
+
+b) O produto das coimas aplicadas por infração ao presente diploma;
+
+c) O produto das taxas de licenciamento anual para o exercício da pesca e utilização das artes;
+
+d) 50 % do produto das taxas de licenciamento para o exercício da pesca lúdica;
+
+e) Donativos, heranças ou legados;
+
+f) Saldos de gerência;
+
+g) O desconto na LOTAÇOR, S.A., de 0,5 % do valor do pescado transacionado em lota por cada embarcação;
+
+h) Os valores pagos à Região pelos proprietários de embarcações de pesca com dívidas à Região;
+
+i) Transferências do Orçamento Regional;
+
+j) Quaisquer outras receitas que por lei, contrato ou qualquer outro título lhe devam pertencer.
+
+###### Artigo 14.º — Regime sancionatório
+
+1 - Sem prejuízo da entrega da candidatura a que se refere o artigo 7.º-A, determinam a impossibilidade de o armador beneficiar da compensação salarial atribuída pelo FUNDOPESCA as situações seguintes:
+
+a) A falta de entrega, no prazo previsto no n.º 5 do artigo 7.º-A, dos documentos previstos nas alíneas f) e g) do n.º 2 do mesmo artigo;
+
+b) A divergência entre o período constante das declarações a que se referem as alíneas f) e g) do n.º 2 do artigo 7.º-A e o período constante das declarações de remunerações do beneficiário previstas na alínea b) do n.º 2 do mesmo artigo.
+
+2 - Sem prejuízo do disposto no número anterior, e sempre que se verifiquem as situações nele previstas, o armador fica impossibilitado de apresentar candidaturas a apoios financeiros previstos em legislação regional pelo período de 12 meses a contar da data de ativação do FUNDOPESCA.
+
+3 - As falsas declarações, prestadas no âmbito da apresentação de candidaturas ao FUNDOPESCA, são punidas nos termos da lei penal, sem prejuízo da reposição das quantias indevidamente pagas, acrescidas de juros de mora, a contar da data em que o apoio foi disponibilizado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 15.º — Instrução e aplicação
+
+A autuação e instrução dos processos de contraordenação, bem como a aplicação das coimas é da competência da Inspeção Regional das Pescas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 38/2023/A - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768), em vigor a partir de 2024-01-01
+
+###### Artigo 16.º — Revogação
+
+É revogado o Decreto Legislativo Regional n.º 16/2002/A, de 10 de maio.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia da sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 4 de setembro de 2013.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 30 de setembro de 2013.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

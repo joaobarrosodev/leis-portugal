@@ -1,0 +1,499 @@
+---
+schema_version: '1.0'
+id: pt:dre:609618:por
+title: Decreto Legislativo Regional n.º 5/2010/A
+short_title: null
+summary: Estabelece o sistema de incentivos à produção de energia a partir de fontes renováveis da Região Autónoma dos Açores
+  - PROENERGIA
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 5/2010/A
+official_date: null
+publication_date: '2010-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2010, Série I de 2010-02-23
+  number: '37'
+  series: I
+  supplement: null
+  pages: 508 - 511
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/02/03700/0050800511.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-20'
+version_history:
+  file: decreto-legislativo-regional-5-2010-a.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-06-23'
+    amending: pt:dre:178506:por
+    amending_title: Decreto Legislativo Regional n.º 27/2012/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+  - date: '2019-06-13'
+    amending: pt:dre:122549969:por
+    amending_title: Decreto Legislativo Regional n.º 14/2019/A
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 13.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+  - date: '2023-04-05'
+    amending: pt:dre:211369738:por
+    amending_title: Decreto Legislativo Regional n.º 12/2023/A
+    changes:
+    - Adita Artigo 8.º-A
+  - date: '2026-07-20'
+    amending: pt:dre:1017369036:por
+    amending_title: Decreto Legislativo Regional n.º 2/2026/A
+    changes:
+    - Revoga Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/5/2010/a/cons/20260121/pt/html
+  oj: null
+  dre: '609618'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/5-2010-609618
+  internal: pt:dre:609618:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2010-609618
+  metadata_url: https://data.dre.pt/eli/declegreg/5/2010/a/cons/20260121/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-122543761
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-122543761
+  retrieved_at: '2026-10-22T12:26:39Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ac019f48c9f954cf6d28929ae2771295fa10de00568c52f7493118e7e5fc39ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:26:39Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-5-2010-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Energia não Poluente
+- Energia Elétrica
+- Política Energética
+- Apoio ao Investimento
+- Projeto de Investimento
+- Energia
+- Produção de Energia Elétrica
+- Açores
+- Subsídio não Reembolsável
+relationships:
+- type: amended_by
+  target: pt:dre:178506:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506
+  date: '2012-06-22'
+- type: amended_by
+  target: pt:dre:122549969:por
+  label: Adita Artigo 3.º-A; Adita Artigo 13.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969
+  date: '2019-06-12'
+- type: amended_by
+  target: pt:dre:211369738:por
+  label: Adita Artigo 8.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-211369738
+  date: '2023-04-04'
+- type: amended_by
+  target: pt:dre:1017369036:por
+  label: Revoga Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036
+  date: '2026-01-21'
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/26/2006/07/31/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/26/2006/07/31/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/25/2008/12/31/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/25/2008/12/31/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/8/2007/03/13/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/8/2007/03/13/a/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:26:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 5/2010/A
+
+Decreto Legislativo Regional n.º 5/2010/A
+
+PROENERGIA - Sistema de incentivos à produção de energia a partir de fontes renováveis
+
+Os grandes objectivos da política energética - segurança do abastecimento, eficiência, competitividade económica e protecção do ambiente - constituem desafios estratégicos para a Região Autónoma dos Açores, face à volatilidade do custo dos combustíveis fósseis, bem como aos condicionalismos e fragilidades ambientais do seu território.
+
+Com efeito, devido à dispersão geográfica, pequena dimensão dos mercados, impossibilidade de acesso às redes transeuropeias de energia, transporte dos combustíveis e total dependência do exterior quanto ao abastecimento de combustíveis fósseis, os custos associados à gestão dos sistemas energéticos, nos Açores, são muito elevados.
+
+Importa, pois, maximizar o aproveitamento dos recursos energéticos endógenos, garantindo simultaneamente os mais elevados níveis de qualidade da energia disponibilizada a todos os açorianos, sem descurar as questões ligadas à sua correcta utilização.
+
+Registe-se ainda os compromissos de Portugal face ao Protocolo de Quioto e das metas nacionais estipuladas para a redução de emissão de gases de efeito de estufa.
+
+Neste contexto, e com o objectivo de maximizar a utilização de energias renováveis por parte das empresas e das famílias, foi criado o PROENERGIA - Sistema de incentivos à produção de energia a partir de fontes renováveis, através Decreto Legislativo Regional n.º 26/2006/A, de 31 de Julho.
+
+Passados quase três anos importa, no entanto, introduzir algumas alterações àquele diploma tais como a redução do limite investimento mínimo exigido às empresas, a desburocratização dos procedimentos, a inclusão da elegibilidade de despesas que decorram de imposições legais, a alteração do limite máximo do apoio, assim como a remoção do limite de venda à rede pública de excedentes do autoconsumo, no caso da produção de electricidade.
+
+Acresce a isto que o Decreto Regulamentar Regional n.º 25/2008/A, de 31 de Dezembro, que aprova a Orgânica do X Governo Regional dos Açores, extinguiu a Direcção Regional do Comércio, Indústria e Energia, transitando os meios, efectivos, competências, direitos e obrigações que lhe estavam afectos, no que respeita ao sector da energia, para a Direcção Regional de Energia, na dependência do Secretário Regional do Ambiente e do Mar, o qual passa a exercer competências em matéria de energia. Face a estas alterações orgânicas, parece aconselhável a transferência da gestão do sistema de incentivos em causa para a direcção regional com competência em matéria de energia.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o sistema de incentivos à produção e armazenamento de energia a partir de fontes renováveis da Região Autónoma dos Açores, designado por PROENERGIA.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+###### Artigo 2.º — Âmbito
+
+1 - São suscetíveis de apoio, no âmbito do PROENERGIA, projetos que envolvam:
+
+a) Investimentos na exploração de recursos energéticos renováveis para:
+
+i) Produção de energia elétrica;
+
+ii) Armazenamento de energia elétrica;
+
+b) Investimentos para produção de águas quentes através da utilização dos recursos:
+
+i) Solar térmico;
+
+ii) Bombas de calor;
+
+iii) Sistemas com recurso a biomassa;
+
+c) Investimentos para produção de energia calorífica utilizando recursos endógenos para aquecimento ambiente.
+
+2 - Os investimentos previstos no número anterior devem ser promovidos por:
+
+a) Micro, pequenas e médias empresas, incluindo empresários em nome individual, cooperativas, instituições particulares de solidariedade social, associações sem fins lucrativos e condomínios;
+
+b) Pessoas singulares.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 3.º — Condições de acesso dos promotores
+
+1 - Os promotores a que se refere a alínea a) do n.º 2 do artigo 2.º devem:
+
+a) Estar legalmente constituídos;
+
+b) Cumprir as disposições legais inerentes ao exercício da actividade, nomeadamente em matéria de licenciamento;
+
+c) Cumprir os critérios de micro, pequena e média empresa, de acordo com a Recomendação da Comissão Europeia n.º 2003/361/CE, de 6 de maio;
+
+d) Dispor de contabilidade actualizada e organizada de acordo com o definido na legislação aplicável;
+
+e) Possuir a situação regularizada perante a administração fiscal e a segurança social;
+
+f) Ter concluído, há pelo menos um ano, o investimento relativo a projeto anteriormente aprovado para o mesmo tipo de equipamento no âmbito do presente diploma, desde que devidamente justificado, considerando-se como data de conclusão do projeto a data do recibo correspondente à última despesa imputada ao projeto.
+
+2 - A regra referida na alínea f) do número anterior poderá, desde que devidamente justificada, não ser aplicada no caso de projectos relativos a outros estabelecimentos de um mesmo promotor.
+
+3 - No caso de instituições particulares de solidariedade social e das associações sem fins lucrativos, não se aplica o disposto nas alíneas c) e d) do n.º 1.
+
+4 - Os promotores de projectos a que se refere a alínea b) do n.º 2 do artigo 2.º devem:
+
+a) Possuir situação contributiva regularizada perante a administração fiscal e a segurança social;
+
+b) (Revogada.)
+
+c) Ter concluído, há pelo menos um ano, o investimento relativo a projeto anteriormente aprovado para o mesmo tipo de equipamento, desde que devidamente justificado, no âmbito do presente diploma, considerando-se como data de conclusão do projeto a data do recibo correspondente à última despesa imputada ao projeto.
+
+5 - O disposto na alínea c) do número anterior não se aplica no caso de projetos relativos a outras moradias de um mesmo promotor.
+
+6 - No caso de edifícios coletivos habitados, deve haver aprovação da assembleia de condóminos quando a instalação do(s) equipamento(s) seja efetuada em zonas comuns.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+###### Artigo 3.º-A — Documentos comprovativos
+
+Os documentos comprovativos para acesso ao presente sistema de incentivos serão fixados por portaria do membro do Governo Regional com competência em matéria da energia.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+###### Artigo 4.º — Condições de acesso dos projectos
+
+Os projetos candidatos ao PROENERGIA devem:
+
+a) Corresponder a um investimento mínimo de (euro) 500,00 (quinhentos euros);
+
+b) (Revogada.)
+
+c) Ser instruídos em formulário eletrónico próprio disponibilizado no Portal do Governo Regional na Internet;
+
+d) Ter situação regularizada em matéria de licenciamento ou ter projecto aprovado nos termos legais, quando aplicável;
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) No encerramento dos projectos das entidades referidas na alínea a) do n.º 2 do artigo 2.º, deverá exigir-se que a unidade se encontre licenciada, incluindo a verificação de que foram obtidas as licenças ambientais legalmente exigidas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 5.º — Acumulação e incentivos
+
+É vedada a acumulação dos benefícios conferidos pelo presente diploma com outros de natureza similar, previstos em diplomas regionais ou nacionais, exceto aqueles que revistam natureza puramente fiscal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 6.º — Despesas elegíveis
+
+1 - Para efeitos do presente diploma, consideram-se elegíveis:
+
+a) Aquisição e montagem dos equipamentos essenciais à realização do projecto;
+
+b) Adaptação de instalações, incluindo a adaptação ao cumprimento de normas ambientais e de segurança, até um limite de 10 % do investimento elegível.
+
+2 - O cálculo das despesas elegíveis é efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado (IVA) sempre que o promotor do projecto seja sujeito passivo desse imposto e possa exercer o direito à dedução.
+
+3 - Para efeitos do disposto no n.º 1 apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo a entidade responsável pela análise da candidatura, caso não se verifique essa correspondência, proceder à respectiva adequação.
+
+4 - Quando exista sistema de certificação aplicável, apenas são elegíveis despesas incorridas com a aquisição e montagem de equipamentos certificados e instalados por técnico qualificado.
+
+###### Artigo 7.º — Despesas não elegíveis
+
+Não são elegíveis as despesas realizadas com:
+
+a) Aquisição de equipamento em estado de uso;
+
+b) Equipamentos que como fonte complementar de energia recorram a gases de petróleo liquefeito ou outro qualquer combustível de origem fóssil;
+
+c) Aquisição de veículos automóveis;
+
+d) Aquisição de materiais e equipamentos não relacionados com o projecto;
+
+e) Fundo de maneio;
+
+f) Custos internos das empresas.
+
+###### Artigo 8.º — Natureza e montante do incentivo
+
+1 - O incentivo a conceder aos investimentos enquadráveis na alínea a) do n.º 1 do artigo 2.º reveste a forma de subsídio não reembolsável, correspondendo a 25 % das despesas elegíveis, até um máximo de (euro) 4.000,00 (quatro mil euros) por fogo ou estabelecimento.
+
+2 - O incentivo a conceder aos investimentos enquadráveis na alínea b) do n.º 1 do artigo 2.º reveste a forma de subsídio não reembolsável, correspondendo a 35 % das despesas elegíveis, até um máximo de (euro) 4.000,00 (quatro mil euros) por fogo ou estabelecimento.
+
+3 - O incentivo a conceder aos investimentos enquadráveis na alínea c) do n.º 1 do artigo 2.º reveste a forma de subsídio não reembolsável, correspondendo a 25 % das despesas elegíveis, até um máximo de (euro) 4.000,00 (quatro mil euros) por fogo ou estabelecimento.
+
+4 - A percentagem de incentivo a conceder aos investimentos para os componentes do sistema com recurso a biomassa para aquecimento de águas quentes e aquecimento ambiente é atribuída de acordo com os n.os 2 e 3, respetivamente.
+
+5 - No caso de instituições particulares de solidariedade social e das associações sem fins lucrativos, os limites máximos fixados nos números anteriores são de (euro) 20.000,00 (vinte mil euros).
+
+6 - No caso dos investimentos se realizarem nas ilhas do Faial e do Pico, as percentagens mencionadas nos n.os 1 a 3 do presente artigo são acrescidas de cinco pontos percentuais, mantendo-se os limites máximos do incentivo ali fixados.
+
+7 - No caso dos investimentos se realizarem na ilha de Santa Maria, as percentagens mencionadas nos n.os 1 a 3 são acrescidas de dez pontos percentuais, mantendo-se os limites máximos do incentivo ali fixados.
+
+8 - No caso dos investimentos se realizarem em territórios abrangidos pela Rede Mundial de Reservas da Biosfera da UNESCO, designadamente nas ilhas do Corvo, das Flores, Graciosa e de São Jorge, as percentagens mencionadas nos n.os 1 a 3 do presente artigo são acrescidas de doze pontos percentuais, mantendo-se os limites máximos do incentivo ali fixados.
+
+9 - Nos casos em que os investimentos se realizem em zonas sem acesso direto à rede pública de transporte e distribuição de energia elétrica ou em que o custo de interligação seja igual ou superior a (euro) 12.000,00 (doze mil euros), a percentagem mencionada nos n.os 1 a 3 é de 50 %, mantendo-se o limite máximo do incentivo ali fixado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 8.º-A — Natureza e montante do incentivo para sistemas de armazenamento adquiridos para complementar sistemas fotovoltaicos
+
+1 - O incentivo a conceder aos investimentos enquadráveis na subalínea ii) da alínea a) do n.º 1 do artigo 2.º, que tenham sido adquiridos e instalados para complementar sistemas fotovoltaicos incentivados no âmbito do Plano de Recuperação e Resiliência, nos termos do Decreto Legislativo Regional n.º 12/2022/A, de 25 de maio, reveste a forma de subsídio não reembolsável, correspondendo a 85 % das despesas elegíveis, até um máximo de 4000,00 (euro) (quatro mil euros) por fogo ou estabelecimento, não havendo lugar a majorações.
+
+2 - Sem prejuízo do disposto no n.º 3 do artigo 9.º e do n.º 1 do artigo 11.º, o incentivo pode ser atribuído mediante apresentação de fatura, ficando o promotor obrigado a apresentar os respetivos recibos à entidade gestora no prazo máximo de 30 dias a contar da data do recebimento do incentivo, sob pena de devolução do incentivo atribuído.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2023/A - Diário da República n.º 67/2023, Série I de 2023-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-211369738), em vigor a partir de 2023-04-05
+
+###### Artigo 9.º — Apresentação de candidaturas
+
+1 - As candidaturas são entregues no departamento do Governo Regional com competência em matéria de energia, doravante designado como organismo gestor, instruídas de acordo com um formulário eletrónico aprovado pelo competente membro do Governo Regional.
+
+2 - Cabe ao organismo gestor disponibilizar o formulário da candidatura, bem como toda a informação necessária à sua correta instrução e submissão, no Portal do Governo Regional na Internet.
+
+3 - Apenas podem ser aceites candidaturas apresentadas até noventa dias úteis após a conclusão do projeto, considerando-se como data de conclusão a data do recibo correspondente à última despesa imputada.
+
+4 - A candidatura à qual se referem os números anteriores pode ser apresentada pela entidade que tenha vendido o equipamento desde que tenham, cumulativamente, sido cumpridas as seguintes condições:
+
+a) A entidade esteja explicitamente autorizada pelo beneficiário final através do preenchimento de campo adequado no formulário de candidatura;
+
+b) O valor global da aquisição e montagem do equipamento não tenha qualquer acréscimo em relação ao seu preço quando adquirido a pronto pagamento;
+
+c) A parte correspondente ao custo a suportar pelo adquirente esteja integralmente paga.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 10.º — Competências do organismo gestor
+
+Compete ao organismo gestor:
+
+a) Receber e processar as candidaturas, verificando as condições de elegibilidade do promotor e do projeto, no prazo de trinta dias úteis;
+
+b) Decidir e notificar o promotor do valor do incentivo a conceder, no prazo máximo de 30 dias úteis contados a partir da data de verificação das condições de elegibilidade do promotor e do projeto;
+
+c) Reapreciar a candidatura no prazo de 10 dias úteis, na eventualidade de o promotor apresentar alegações contrárias;
+
+d) Publicitar através do Jornal Oficial o valor do incentivo atribuído;
+
+e) Comunicar ao promotor a decisão final relativa ao pedido de concessão de incentivo;
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) Enviar para processamento os incentivos devidos;
+
+i) (Revogada.)
+
+j) Manter um registo público, no Portal do Governo Regional na Internet, dos processos aprovados e dos incentivos concedidos.
+
+k) Promover a realização de auditorias e a inspeção de equipamentos e das instalações, sempre que se verifique necessário ou útil.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 11.º — Formalização da concessão do incentivo
+
+1 - O incentivo formaliza-se através da concessão por reembolso das despesas elegíveis comprovadas, devendo o promotor apresentar para o efeito cópia das faturas e dos recibos relativos aos pagamentos efetuados.
+
+2 - Por despacho do diretor regional que tutela a entidade gestora, é publicada mensalmente no Jornal Oficial a listagem nominal dos incentivos atribuídos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 12.º — Pagamento do incentivo
+
+1 - (Revogado.)
+
+2 - No caso dos investimentos em produção de energia elétrica, para além dos documentos referidos no artigo anterior, os promotores devem apresentar ainda a licença de exploração, quando esta seja legalmente exigível, sem a qual o pagamento não será processado.
+
+3 - Os pagamentos dos incentivos são efetuados por transferência bancária para a conta da entidade beneficiária que seja indicada no formulário de candidatura, no prazo de sessenta dias úteis a contar da notificação da decisão de aprovação.
+
+4 - O não pagamento por razões imputáveis à entidade beneficiária, no prazo de vinte dias úteis contados da data da notificação, determina a caducidade da decisão de concessão do incentivo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 13.º — Obrigações dos promotores
+
+1 - Os promotores ficam sujeitos às seguintes obrigações:
+
+a) Executar o projeto nos termos legais e regulamentares aplicáveis em função da sua tipologia;
+
+b) Comunicar ao organismo gestor qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projecto ou à sua execução;
+
+c) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento;
+
+d) Manter em funcionamento os equipamentos comparticipados por um período mínimo de seis anos contados a partir da data de conclusão do investimento;
+
+e) Cumprir, no caso da produção de energia elétrica com interligação à rede pública de transporte e distribuição de eletricidade, as condições técnicas e legais para ligação àquela rede.
+
+2 - Para além das obrigações referidas no número anterior, os promotores a que se refere a alínea a) do n.º 2 do artigo 2.º devem:
+
+a) Manter a situação regularizada perante as entidades pagadoras do incentivo;
+
+b) Manter a contabilidade organizada de acordo com o definido na legislação aplicável;
+
+c) Manter devidamente organizados, durante seis anos, todos os documentos suscetíveis de comprovar as declarações prestadas na candidatura, assim como os originais dos documentos conducentes ao pagamento do incentivo;
+
+d) Publicitar os apoios recebidos nos termos regulamentares.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 13.º-A — Incumprimento das obrigações por parte dos promotores
+
+1 - Em caso de incumprimento das obrigações previstas no presente diploma ou caso tenham sido prestadas informações falsas ou viciados dados constantes da candidatura, há lugar à restituição do incentivo concedido e o promotor fica impedido de apresentar novas candidaturas pelo período de três anos após a conclusão do projeto.
+
+2 - A restituição prevista no número anterior ocorre no prazo de trinta dias úteis a contar da data de receção da notificação.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019, Série I de 2019-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969), em vigor a partir de 2019-06-13
+
+###### Artigo 14.º — Revogação
+
+É revogado o Decreto Legislativo Regional n.º 26/2006/A, de 31 de Julho.
+
+###### Artigo 15.º — Disposições transitórias
+
+1 - (Revogado.)
+
+2 - Mantém-se em vigor o Decreto Regulamentar Regional n.º 8/2007/A, de 13 de março, em tudo o que não contrariar o disposto no presente diploma.
+
+> Revogado pelo/a Artigo 119.º do/a [Decreto Legislativo Regional n.º 2/2026/A - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1017369036), em vigor a partir de 2026-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2012/A - Diário da República n.º 120/2012, Série I de 2012-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506), em vigor a partir de 2012-06-23
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Janeiro de 2010.
+
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
+
+Assinado em Angra do Heroísmo em 5 de Fevereiro de 2010.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

@@ -1,0 +1,1329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67458279:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-107742930",
+ "dre_path": "/dr/detalhe/lei/53-2015-67458279",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107745170",
+    "107745171",
+    "107745172",
+    "107745173",
+    "107745174",
+    "107749675",
+    "107749676",
+    "107749677",
+    "107749678",
+    "107749679",
+    "107749680",
+    "107749681",
+    "107749682",
+    "107749683",
+    "107749684",
+    "107749685",
+    "107749686",
+    "107749687",
+    "107749688",
+    "107749689",
+    "107749690",
+    "107749691",
+    "107749692",
+    "107749693",
+    "107749694",
+    "107749695",
+    "107749696",
+    "107749697",
+    "107749698",
+    "107749699",
+    "107749700",
+    "107749701",
+    "107749702",
+    "107749703",
+    "107749704",
+    "107749705",
+    "107749706",
+    "107749707",
+    "107749708",
+    "107749709",
+    "107749710",
+    "107749711",
+    "107749712",
+    "107749713",
+    "107749714",
+    "107749715",
+    "107749716",
+    "107749717",
+    "107749718",
+    "107749719",
+    "107749720",
+    "107749721",
+    "107749722",
+    "107749723",
+    "107749724",
+    "107749725",
+    "107749726",
+    "107749727",
+    "107749728",
+    "107749729",
+    "107749730",
+    "107749731",
+    "107749732",
+    "107749733",
+    "107749734",
+    "107749735",
+    "107749736",
+    "107749737",
+    "107749738",
+    "107749739",
+    "107749740",
+    "107749741",
+    "107749742"
+   ]
+  },
+  {
+   "date": "2023-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211059785:por",
+     "title": "Lei n.º 12/2023",
+     "published": "2023-03-28",
+     "dre_path": "/dr/detalhe/lei/12-2023-211059785"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 55.º"
+   ],
+   "fragments": [
+    "107745170",
+    "107745171",
+    "107745172",
+    "107745173",
+    "107745174",
+    "107749675",
+    "107749676",
+    "107749677",
+    "107749678",
+    "211114671",
+    "107749680",
+    "211114672",
+    "107749682",
+    "107749683",
+    "107749684",
+    "107749685",
+    "107749686",
+    "107749687",
+    "107749688",
+    "107749689",
+    "107749690",
+    "107749691",
+    "107749692",
+    "107749693",
+    "107749694",
+    "107749695",
+    "107749696",
+    "107749697",
+    "107749698",
+    "107749699",
+    "107749700",
+    "107749701",
+    "107749702",
+    "107749703",
+    "107749704",
+    "107749705",
+    "107749706",
+    "107749707",
+    "107749708",
+    "107749709",
+    "107749710",
+    "107749711",
+    "107749712",
+    "107749713",
+    "107749714",
+    "107749715",
+    "107749716",
+    "107749717",
+    "107749718",
+    "107749719",
+    "107749720",
+    "107749721",
+    "107749722",
+    "107749723",
+    "107749724",
+    "107749725",
+    "107749726",
+    "107749727",
+    "107749728",
+    "107749729",
+    "107749730",
+    "107749731",
+    "107749732",
+    "107749733",
+    "107749734",
+    "107749735",
+    "107749736",
+    "107749737",
+    "107749738",
+    "211114673",
+    "107749740",
+    "107749741",
+    "107749742",
+    "107749743"
+   ]
+  },
+  {
+   "date": "2024-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224461523:por",
+     "title": "Lei n.º 64/2023",
+     "published": "2023-11-20",
+     "dre_path": "/dr/detalhe/lei/64-2023-224461523"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo XI",
+    "Adita Artigo 52.º-A",
+    "Adita Artigo 52.º-B",
+    "Adita Artigo 52.º-C",
+    "Adita Artigo 52.º-D",
+    "Adita Artigo 52.º-E",
+    "Adita Artigo 52.º-F",
+    "Adita Artigo 52.º-G",
+    "Adita Artigo 52.º-H",
+    "Adita Artigo 52.º-I",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 50.º",
+    "Altera Capítulo XI",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 49.º"
+   ],
+   "fragments": [
+    "107745170",
+    "107745171",
+    "107745172",
+    "224577176",
+    "224577177",
+    "107749675",
+    "107749676",
+    "224577195",
+    "107749678",
+    "224577178",
+    "107749680",
+    "211114672",
+    "107749682",
+    "107749683",
+    "107749684",
+    "107749685",
+    "107749686",
+    "107749687",
+    "107749688",
+    "107749689",
+    "107749690",
+    "224577179",
+    "107749692",
+    "224577196",
+    "107749694",
+    "224577188",
+    "224577189",
+    "224577190",
+    "224577191",
+    "224577192",
+    "224577180",
+    "107749701",
+    "107749702",
+    "107749703",
+    "107749704",
+    "107749705",
+    "107749706",
+    "107749707",
+    "107749708",
+    "107749709",
+    "107749710",
+    "107749711",
+    "107749712",
+    "224577197",
+    "107749714",
+    "107749715",
+    "107749716",
+    "107749717",
+    "224577181",
+    "224577182",
+    "107749720",
+    "224577187",
+    "107749722",
+    "107749723",
+    "224577193",
+    "107749725",
+    "224577183",
+    "107749727",
+    "224577184",
+    "107749729",
+    "224577185",
+    "224577194",
+    "107749732",
+    "224577186",
+    "107749734",
+    "107749735",
+    "224457658",
+    "224457661",
+    "224457662",
+    "224457663",
+    "224457664",
+    "224457665",
+    "224457666",
+    "224457667",
+    "224457668",
+    "224457659",
+    "224457669",
+    "224457670",
+    "224457671",
+    "224457672",
+    "224457673",
+    "224457674",
+    "224577175",
+    "224457660"
+   ]
+  }
+ ],
+ "fragments": {
+  "107745170": {
+   "fragment_id": "107742931",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 53/2015\n\nde 11 de junho\n\nRegime jurídico da constituição e funcionamento das sociedades de profissionais que estejam sujeitas a associações públicas profissionais\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "107745171": {
+   "fragment_id": "107742932",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107745172": {
+   "fragment_id": "107742933",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime jurídico da constituição e funcionamento das sociedades de profissionais que estejam sujeitas a associações públicas profissionais."
+  },
+  "107745173": {
+   "fragment_id": "107742934",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se às sociedades de profissionais e entidades equiparadas estabelecidas em território nacional, que tenham por objeto principal o exercício em comum de atividades profissionais organizadas numa única associação pública profissional.\n\n2 - Para efeitos do disposto no número anterior, entende-se por exercício em comum de atividades profissionais organizadas, a prestação de serviços profissionais através de pessoa coletiva constituída nos termos da presente lei.\n\n3 - A presente lei aplica-se às sociedades de revisores oficiais de contas e demais sociedades de profissionais regidas pelo direito da União Europeia, na medida em que não contrarie a legislação que lhes é especialmente aplicável.\n\n4 - A presente lei não se aplica às pessoas coletivas que, não sendo sociedades de profissionais ou entidades equiparadas, prestem serviços profissionais através de profissionais seus sócios, administradores, gerentes ou seus colaboradores."
+  },
+  "107745174": {
+   "fragment_id": "107742935",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Capital profissional», a parte do capital social representado pelas participações sociais dos sócios profissionais;\n\nb) «Estabelecimento», o exercício de uma atividade profissional no território de um Estado, por tempo indeterminado, de acordo com as seguintes modalidades:\n\ni) «Imediato», o primeiro estabelecimento de uma pessoa singular num determinado Estado, após adquiridas, nesse ou noutro Estado, as qualificações legalmente exigidas para o acesso à atividade;\n\nii) «Principal», o estabelecimento num determinado Estado através de domicílio ou sede principais e efetivos da administração da atividade do profissional, sociedade de profissionais ou organização associativa de profissionais;\n\niii) «Secundário», o estabelecimento num determinado Estado através de escritório, representação permanente ou participação numa sociedade de profissionais, sob a direção de domicílio ou sede localizados noutro Estado;\n\nc) «Organização associativa de profissionais», a entidade constituída ao abrigo do direito de outro Estado membro da União Europeia ou do Espaço Económico Europeu para o exercício em comum de atividade profissional;\n\nd) «Sociedade de profissionais», a sociedade constituída nos termos da presente lei ou do direito da União Europeia para o exercício em comum de atividade profissional, responsabilizando-se contratual e disciplinarmente por esse exercício;\n\ne) «Sócio profissional», o sócio de sociedade de profissionais que detenha participações sociais e preste, naquela sociedade, os serviços profissionais incluídos no respetivo objeto principal; e\n\nf) «Sócio não profissional», o sócio de sociedade de profissionais que detenha participações sociais, mas não preste, naquela sociedade, os serviços profissionais incluídos no respetivo objeto principal, ainda que para tanto se encontre habilitado."
+  },
+  "107749675": {
+   "fragment_id": "107742936",
+   "type": 11,
+   "heading": "Artigo 4.º — Liberdade de forma e direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Liberdade de forma e direito subsidiário\n\n1 - As sociedades de profissionais podem ser sociedades civis ou assumir qualquer forma jurídica societária admissível segundo a lei comercial, salvo o disposto no número seguinte.\n\n2 - As sociedades de profissionais não podem constituir-se enquanto sociedades anónimas europeias.\n\n3 - No que a presente lei não dispuser, são aplicáveis às sociedades de profissionais as normas da lei civil ou da lei comercial, consoante se trate de uma sociedade de profissionais sob a forma civil ou de uma sociedade de profissionais sob a forma comercial, respetivamente.\n\n4 - Sem prejuízo do disposto no número anterior, são aplicáveis às sociedades de profissionais que se constituam enquanto sociedades unipessoais por quotas as disposições da presente lei compatíveis com a sua natureza."
+  },
+  "107749676": {
+   "fragment_id": "107742937",
+   "type": 11,
+   "heading": "Artigo 5.º — Personalidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Personalidade jurídica\n\n1 - As sociedades de profissionais gozam de personalidade jurídica, sendo esta adquirida a partir da data do registo definitivo do contrato de sociedade no registo nacional de pessoas coletivas ou no registo comercial, consoante o que ao caso seja aplicável.\n\n2 - Com o registo definitivo do contrato, a sociedade de profissionais assume os direitos e obrigações dos atos praticados em seu nome no período compreendido entre a celebração do contrato de sociedade e o seu registo.\n\n3 - Com o registo definitivo do contrato, a sociedade de profissionais assume ainda os direitos e obrigações emergentes de negócios jurídicos concluídos antes do ato de constituição, desde que especificados e expressamente ratificados."
+  },
+  "107749677": {
+   "fragment_id": "107742938",
+   "type": 11,
+   "heading": "Artigo 6.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capacidade\n\n1 - A capacidade da sociedade de profissionais compreende os direitos e obrigações necessários ou convenientes à prossecução do seu objeto social e que sejam compatíveis com a sua natureza.\n\n2 - Sem prejuízo do disposto no número anterior, a sociedade de profissionais apenas pode iniciar o exercício da atividade profissional que constitua o respetivo objeto principal após a sua inscrição na associação pública profissional correspondente."
+  },
+  "107749678": {
+   "fragment_id": "107742939",
+   "type": 1,
+   "heading": "Capítulo II — Objeto social e composição da sociedade de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Objeto social e composição da sociedade de profissionais"
+  },
+  "107749679": {
+   "fragment_id": "107742940",
+   "type": 11,
+   "heading": "Artigo 7.º — Objeto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objeto social\n\n1 - O objeto principal das sociedades de profissionais consiste no exercício em comum de atividades profissionais organizadas numa única associação pública profissional.\n\n2 - As sociedades de profissionais podem ainda desenvolver, a título secundário, qualquer atividade, incluindo atividades profissionais organizadas em associação pública profissional, desde que seja observado o regime de incompatibilidades e impedimentos aplicável."
+  },
+  "107749680": {
+   "fragment_id": "107742941",
+   "type": 11,
+   "heading": "Artigo 8.º — Sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sócios\n\n1 - As sociedades de profissionais, com exceção das que se constituam enquanto sociedades unipessoais por quotas, dispõem obrigatoriamente de pelo menos dois sócios profissionais, podendo igualmente dispor, caso o contrato de sociedade não o proíba, de sócios não profissionais, observado o disposto nos n.os 2 e 3 do artigo seguinte.\n\n2 - Podem ser sócios profissionais:\n\na) As pessoas singulares legalmente estabelecidas em território nacional para o exercício da profissão em causa, independentemente da modalidade de estabelecimento em causa;\n\nb) As sociedades de profissionais cujo objeto principal consista no exercício em comum de atividades profissionais organizadas na associação pública profissional a que se encontra sujeita a sociedade participada;\n\nc) As organizações associativas de profissionais equiparados a profissionais sujeitos à associação pública profissional a que a sociedade participada se encontra sujeita, constituídas noutro Estado membro da União Europeia ou do Espaço Económico Europeu para o exercício da atividade profissional em causa, cujo capital e direitos de voto caiba maioritariamente aos profissionais em causa.\n\n3 - O requisito de capital referido na alínea c) do número anterior não é aplicável caso esta não disponha de capital social.\n\n4 - Uma pessoa singular, as sociedades de profissionais ou entidades equiparadas só podem ser sócios profissionais de uma única sociedade de profissionais cujo objeto principal seja o exercício de determinada atividade profissional, e apenas quando não participem noutra organização associativa de profissionais constituída noutro Estado membro para o exercício da atividade profissional em causa, enquanto profissionais equiparados aos que caracterizam a sociedade em que participam.\n\n5 - Sempre que o contrato de sociedade não o proíba, a pessoa singular que seja sócia de uma sociedade de profissionais pode exercer a atividade profissional em causa a título individual.\n\n6 - O juízo de equiparação a que se refere a alínea c) do n.º 2 e o n.º 4 é regido:\n\na) Quanto a nacionais de Estado membro da União Europeia ou do Espaço Económico Europeu, pelo n.º 4 do artigo 1.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio;\n\nb) Quanto a nacionais de países terceiros cujas qualificações tenham sido obtidas fora de Portugal, pelo regime de reciprocidade internacionalmente vigente.\n\n7 - Um sócio profissional só pode participar em sociedade de profissionais caso não esteja impedido de exercer a atividade profissional em causa por decisão judicial ou disciplinar, nem se encontre em situação de incompatibilidade ou impedimento.\n\n8 - As incompatibilidades e os impedimentos para o exercício da atividade profissional objeto principal da sociedade de profissionais que afete um dos seus sócios profissionais determina a incompatibilidade ou impedimento da sociedade e dos demais sócios profissionais durante o mesmo período, exceto se aquele transmitir a sua participação, se exonerar ou for excluído da sociedade.\n\n9 - As entidades referidas no n.º 2 podem ser sócias não profissionais de sociedades de profissionais, ficando-lhes no entanto vedado o exercício da atividade profissional objeto principal da sociedade de profissionais em causa enquanto sócios dessa mesma sociedade."
+  },
+  "107749681": {
+   "fragment_id": "107742942",
+   "type": 11,
+   "heading": "Artigo 9.º — Capital social, controlo, administração, mandato e conflitos de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Capital social, controlo, administração, mandato e conflitos de interesses\n\n1 - O capital social de uma sociedade de profissionais é estipulado pelas partes, com respeito pela legislação referida no n.º 3 do artigo 4.º\n\n2 - A maioria do capital social com direito de voto de uma sociedade de profissionais ou a maioria dos direitos de voto, conforme aplicável, pertencem obrigatoriamente aos seus sócios profissionais.\n\n3 - Pelo menos um dos gerentes ou administradores da sociedade de profissionais, que desempenhe funções executivas, deve estar legalmente estabelecido em território nacional para o exercício da profissão em causa, independentemente da modalidade de estabelecimento.\n\n4 - A sociedade de profissionais e os seus sócios profissionais autorizados a exercer atividade profissional a título individual, nos termos do n.º 5 do artigo 8.º, não podem prestar serviços que consubstanciem, entre eles, uma situação de conflito de interesses."
+  },
+  "107749682": {
+   "fragment_id": "107742943",
+   "type": 11,
+   "heading": "Artigo 10.º — Participações sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Participações sociais\n\n1 - As participações em sociedades de profissionais são obrigatoriamente nominativas.\n\n2 - As participações sociais de sócio profissional não podem ser detidas em contitularidade."
+  },
+  "107749683": {
+   "fragment_id": "107742944",
+   "type": 11,
+   "heading": "Artigo 11.º — Entradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entradas\n\n1 - São admitidas entradas em dinheiro, bens ou indústria, nos termos previstos na legislação referida no n.º 3 do artigo 4.º\n\n2 - As entradas em indústria não são computadas na formação do capital social e presumem-se iguais, salvo estipulação em contrário do contrato de sociedade.\n\n3 - Os sócios profissionais ficam ainda obrigados, para além das respetivas entradas, a exercer em nome da sociedade de profissionais a atividade profissional que constitua o respetivo objeto principal."
+  },
+  "107749684": {
+   "fragment_id": "107742945",
+   "type": 11,
+   "heading": "Artigo 12.º — Transmissão de participações sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transmissão de participações sociais\n\n1 - As participações de indústria são intransmissíveis e extinguem-se sempre que o respetivo titular deixe, por qualquer razão, de ser sócio da sociedade.\n\n2 - Extinguindo-se a participação, o sócio ou os seus herdeiros têm direito, salvo convenção em contrário, a receber da sociedade, relativamente à sua participação de indústria e na proporção desta:\n\na) Uma importância correspondente à quota-parte das reservas sociais constituídas com referência ao período de tempo em que o sócio efetivamente exerceu a sua atividade na sociedade;\n\nb) Uma importância correspondente aos lucros do exercício em curso, em cujo cálculo se inclui o valor dos serviços já prestados e ainda não faturados, na proporção do tempo decorrido desse exercício."
+  },
+  "107749685": {
+   "fragment_id": "107742946",
+   "type": 11,
+   "heading": "Artigo 13.º — Aumento de capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aumento de capital\n\nNos aumentos de capital para permitir a entrada de sócio profissional na sociedade ou para aumentar a participação social de sócio profissional, não há direito de preferência dos demais sócios não profissionais."
+  },
+  "107749686": {
+   "fragment_id": "107742947",
+   "type": 11,
+   "heading": "Artigo 14.º — Aquisição de participações próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aquisição de participações próprias\n\n1 - A sociedade de profissionais pode adquirir participações próprias, na medida em que a legislação referida no n.º 3 do artigo 4.º o permita, mas apenas até ao limite de 10 %, sendo consideradas como participações sociais de sócio profissional.\n\n2 - A sociedade de profissionais só pode deter participações próprias pelo prazo máximo de um ano, devendo neste prazo alienar a participação ou amortizá-la.\n\n3 - A participação própria de capital profissional só pode ser transmitida a sócio profissional."
+  },
+  "107749687": {
+   "fragment_id": "107742948",
+   "type": 1,
+   "heading": "Capítulo III — Regime de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime de responsabilidade"
+  },
+  "107749688": {
+   "fragment_id": "107742949",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade civil\n\nA responsabilidade civil das sociedades de profissionais e das organizações associativas referidas no artigo 27.º rege-se pela legislação referida no n.º 3 do artigo 4.º"
+  },
+  "107749689": {
+   "fragment_id": "107742950",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito de regresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito de regresso\n\nAs sociedades de profissionais e as organizações associativas referidas no artigo 27.º têm direito de regresso contra os sócios, administradores, gerentes ou colaboradores responsáveis pelos atos ou omissões culposos geradores de responsabilidade civil da sociedade ou organização, presumindo-se iguais as culpas das pessoas responsáveis."
+  },
+  "107749690": {
+   "fragment_id": "107742951",
+   "type": 11,
+   "heading": "Artigo 17.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seguro de responsabilidade civil\n\nSem prejuízo do disposto nos artigos anteriores, a legislação que rege atividades profissionais organizadas em associação pública profissional pode obrigar as sociedades de profissionais e as organizações associativas referidas no artigo 27.º a cobrir os riscos inerentes ao exercício da atividade profissional dos seus sócios, administradores, gerentes ou colaboradores."
+  },
+  "107749691": {
+   "fragment_id": "107742952",
+   "type": 11,
+   "heading": "Artigo 18.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Responsabilidade disciplinar\n\n1 - As sociedades de profissionais e as organizações associativas referidas no artigo 27.º respondem, enquanto membros, disciplinarmente perante a associação pública profissional em que se encontram inscritas, nos termos da legislação que rege a atividade em causa.\n\n2 - As entidades referidas no número anterior são responsáveis pelas infrações disciplinares quando cometidas:\n\na) Em seu nome e no interesse coletivo, por pessoas que nelas ocupem uma posição de liderança, de facto ou de direito; ou\n\nb) Por quem aja sob a autoridade das pessoas referidas na alínea anterior, em virtude de uma violação dos deveres de vigilância ou controlo que lhes incumbem.\n\n3 - A responsabilidade disciplinar das sociedades de profissionais e das organizações associativas referidas no artigo 27.º é excluída quando o infrator tiver atuado contra ordens ou instruções expressas de quem de direito.\n\n4 - A responsabilidade disciplinar das sociedades de profissionais e das organizações associativas referidas no artigo 27.º não exclui a responsabilidade disciplinar individual dos respetivos infratores, nem depende da responsabilização destes.\n\n5 - A assunção pela sociedade de profissionais de negócios jurídicos concluídos antes do seu ato de constituição não determina a sua responsabilização disciplinar por atos praticados no âmbito daqueles negócios jurídicos antes do ato de criação.\n\n6 - No período compreendido entre a celebração do contrato de sociedade e o seu registo definitivo, a entidade é responsável disciplinarmente, nos termos do presente artigo.\n\n7 - A cisão e a fusão não determinam a extinção da responsabilidade disciplinar da entidade, respondendo pela prática da infração:\n\na) A sociedade que resulte da fusão, a sociedade incorporante ou a entidade equiparada; e\n\nb) As sociedades ou entidades equiparadas que resultaram da cisão.\n\n8 - Sem prejuízo do direito de regresso quanto às quantias pagas, as pessoas que ocupem uma posição de liderança são subsidiariamente responsáveis pelo pagamento das multas em que a entidade for condenada, relativamente às infrações:\n\na) Praticadas no período de exercício do seu cargo, sem a sua oposição expressa;\n\nb) Praticadas anteriormente, quando tiver sido por culpa sua que o património da entidade se tornou insuficiente para o respetivo pagamento; ou\n\nc) Praticadas anteriormente, quando a decisão definitiva de as aplicar tiver sido notificada durante o período de exercício do seu cargo e lhes seja imputável a falta de pagamento.\n\n9 - Sendo várias as pessoas responsáveis nos termos do número anterior, é solidária a sua responsabilidade.\n\n10 - Se as multas forem aplicadas a uma entidade sem personalidade jurídica, responde por elas o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos sócios ou associados.\n\n11 - A perda da condição de sócio ou a sua exclusão, qualquer que seja a causa, não exonera o sócio da responsabilidade disciplinar que pudesse ser-lhe exigível, nos termos da presente lei, por atos praticados enquanto foi sócio.\n\n12 - As sociedades de profissionais e as organizações associativas referidas no artigo 27.º não podem ser responsabilizadas disciplinarmente por atos praticados, a título individual, por pessoa singular que seja sócia de uma sociedade de profissionais.\n\n13 - Nos casos em que a sociedade de profissionais desenvolva atividade a título secundário, os seus sócios, administradores, gerentes ou colaboradores que, de facto, prestem os serviços em causa, assumem, de forma exclusivamente individual, a responsabilidade disciplinar pelos mesmos.\n\n14 - Para efeitos do disposto no presente artigo, entende-se que ocupam uma posição de liderança, os órgãos e representantes da entidade e quem nela tiver autoridade para exercer o controlo da sua atividade."
+  },
+  "107749692": {
+   "fragment_id": "107742953",
+   "type": 1,
+   "heading": "Capítulo IV — Contrato de sociedade, constituição e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contrato de sociedade, constituição e inscrição"
+  },
+  "107749693": {
+   "fragment_id": "107742954",
+   "type": 11,
+   "heading": "Artigo 19.º — Contrato de sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contrato de sociedade\n\n1 - O contrato de sociedade deve conter as menções obrigatórias nos termos da legislação referida no n.º 3 do artigo 4.º e, em qualquer caso, o nome e firma de todos os sócios profissionais e respetivos números de inscrição na associação pública profissional que organiza a atividade profissional objeto principal da sociedade, caso a inscrição seja obrigatória para o exercício da atividade em território nacional por prestadores estabelecidos.\n\n2 - O contrato de sociedade só pode ser celebrado após aprovação, nos termos do artigo 21.º, do respetivo projeto pela associação pública profissional que organiza a atividade profissional objeto principal da sociedade."
+  },
+  "107749694": {
+   "fragment_id": "107742955",
+   "type": 11,
+   "heading": "Artigo 20.º — Firma de sociedade de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Firma de sociedade de profissionais\n\n1 - A firma das sociedades de profissionais rege-se pela legislação referida no n.º 3 do artigo 4.º, sem prejuízo do disposto nos números seguintes.\n\n2 - A firma da sociedade pode conter o nome, completo ou abreviado, de anteriores sócios, mediante autorização escrita destes ou dos seus herdeiros, dada a qualquer momento.\n\n3 - Quando o nome do anterior sócio tenha figurado na firma da sociedade por mais de 20 anos, deixa de ser necessária a autorização referida no número anterior.\n\n4 - A firma das sociedades de profissionais inclui sempre a menção do título profissional dos respetivos sócios profissionais, seguido da expressão «sociedade de profissionais» ou «SP», imediatamente antes da menção da forma jurídica societária que concretamente assuma, e à qual esteja obrigada nos termos da legislação referida no n.º 3 do artigo 4.º\n\n5 - A expressão «sociedade de profissionais» ou «SP» é exclusiva das sociedades de profissionais constituídas nos termos da presente lei."
+  },
+  "107749695": {
+   "fragment_id": "107742956",
+   "type": 11,
+   "heading": "Artigo 21.º — Aprovação do projeto de contrato de sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aprovação do projeto de contrato de sociedade\n\n1 - O projeto de contrato de sociedade é submetido a um controlo de mera legalidade pela associação pública profissional, verificando designadamente se o mesmo está conforme ao disposto na presente lei e às normas deontológicas constantes da legislação que rege a atividade em causa.\n\n2 - O projeto referido no número anterior deve ser acompanhado de certificado de admissibilidade de firma.\n\n3 - Caso a associação pública profissional não se pronuncie no prazo de 20 dias úteis, considera-se o projeto tacitamente aprovado, para todos os efeitos legais.\n\n4 - O prazo de deferimento tácito referido no número anterior é de 40 dias úteis, nos casos em que haja sócio profissional, gerente ou administrador executivo proveniente de outro Estado membro da União Europeia ou do Espaço Económico Europeu, e o mesmo não se encontre inscrito na associação pública profissional em virtude do caráter facultativo da inscrição para o exercício da atividade profissional em território nacional por prestadores estabelecidos."
+  },
+  "107749696": {
+   "fragment_id": "107742957",
+   "type": 11,
+   "heading": "Artigo 22.º — Registo do contrato e inscrição da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Registo do contrato e inscrição da sociedade\n\nApós o registo definitivo do contrato de sociedade de profissionais, esta é inscrita, no seguimento de mera comunicação prévia pela sociedade de profissionais, na associação pública profissional que organiza a atividade profissional objeto principal da sociedade, sendo-lhe emitida a respetiva cédula profissional."
+  },
+  "107749697": {
+   "fragment_id": "107742958",
+   "type": 11,
+   "heading": "Artigo 23.º — Alterações do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alterações do contrato\n\nA alteração do contrato de sociedade ou dos respetivos estatutos deve ser objeto de mera comunicação pela sociedade de profissionais à respetiva associação pública profissional, no prazo de 20 dias úteis."
+  },
+  "107749698": {
+   "fragment_id": "107742959",
+   "type": 11,
+   "heading": "Artigo 24.º — Gerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Gerentes\n\nQuando não seja designado no contrato de sociedade, a sociedade de profissionais deve, no prazo de 10 dias úteis após a nomeação, comunicar à associação pública profissional onde se deve inscrever ao abrigo do artigo 22.º, o nome do gerente ou administrador executivo referido no n.º 3 do artigo 9.º, e o respetivo número de inscrição na associação pública profissional que organiza a atividade profissional objeto principal da sociedade, caso a inscrição seja obrigatória para o exercício da atividade em território nacional por prestadores estabelecidos."
+  },
+  "107749699": {
+   "fragment_id": "107742960",
+   "type": 11,
+   "heading": "Artigo 25.º — Planos de carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Planos de carreira\n\nA sociedade de profissionais deve comunicar à respetiva associação pública profissional os planos de carreira que detalhem as categorias e critérios de progressão dos colaboradores para o possível acesso à categoria de sócio."
+  },
+  "107749700": {
+   "fragment_id": "107742961",
+   "type": 11,
+   "heading": "Artigo 26.º — Transformação em sociedade de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Transformação em sociedade de profissionais\n\nO disposto nos artigos 20.º a 26.º é aplicável, com as devidas adaptações, às sociedades de regime geral que se transformem em sociedades de profissionais."
+  },
+  "107749701": {
+   "fragment_id": "107742962",
+   "type": 11,
+   "heading": "Artigo 27.º — Inscrição de organizações associativas de outros Estados membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Inscrição de organizações associativas de outros Estados membros\n\n1 - As organizações associativas de profissionais equiparados a profissionais organizados em associação pública profissional, constituídas noutro Estado membro da União Europeia ou do Espaço Económico Europeu para o exercício de atividade profissional, cujo gerente ou administrador seja um profissional, e cujo capital com direito de voto caiba maioritariamente aos profissionais em causa ou a outras organizações associativas cujo capital e direitos de voto caiba maioritariamente àqueles profissionais, podem inscrever as respetivas representações permanentes em Portugal, constituídas nos termos da lei comercial, como membros da associação pública profissional, sendo passíveis de responsabilização disciplinar pela sua atividade profissional perante aquela associação.\n\n2 - Os requisitos de capital referidos no número anterior não são aplicáveis caso a organização associativa em causa não disponha de capital social, aplicando-se, no seu lugar, o requisito de atribuição da maioria de direitos de voto aos profissionais ali referidos.\n\n3 - O juízo de equiparação a que se refere o n.º 1 é regido:\n\na) Quanto a nacionais de Estado membro da União Europeia ou do Espaço Económico Europeu, pelo n.º 4 do artigo 1.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio;\n\nb) Quanto a nacionais de países terceiros cujas qualificações tenham sido obtidas fora de Portugal, pelo regime de reciprocidade internacionalmente vigente.\n\n4 - O pedido de inscrição é instruído com cópia do ato constitutivo da respetiva representação permanente em Portugal e demais comprovativos dos requisitos constantes dos números anteriores.\n\n5 - Caso a associação pública profissional não se pronuncie no prazo de 20 dias úteis, considera-se o pedido tacitamente aprovado e a organização associativa inscrita como membro da associação pública profissional, para todos os efeitos legais.\n\n6 - O prazo referido no número anterior é de 40 dias úteis, nos casos em que haja pedido de esclarecimentos ou aperfeiçoamento à organização associativa ou pedido de informações a autoridade congénere de outro Estado membro, nos termos do artigo 57.º\n\n7 - A organização associativa inscrita deve comunicar à respetiva associação pública profissional o encerramento, por qualquer motivo, da atividade em território nacional."
+  },
+  "107749702": {
+   "fragment_id": "107742963",
+   "type": 1,
+   "heading": "Capítulo V — Das deliberações dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Das deliberações dos sócios"
+  },
+  "107749703": {
+   "fragment_id": "107742964",
+   "type": 11,
+   "heading": "Artigo 28.º — Assembleias gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Assembleias gerais\n\n1 - Compete à assembleia geral dos sócios deliberar sobre as matérias não compreendidas nas atribuições legais ou estatutárias da administração e ainda sobre as matérias que lhe sejam atribuídas nos termos da legislação referida no n.º 3 do artigo 4.º\n\n2 - Dependem, em qualquer caso, de deliberação dos sócios, os seguintes atos:\n\na) Consentimento para transmissão de capital profissional a não sócios, nos termos em que tal é permitido;\n\nb) Amortização de participações sociais;\n\nc) Aquisição, alienação e oneração de participações sociais próprias;\n\nd) Extinção da participação de indústria de sócios profissionais;\n\ne) Admissão e exclusão de sócio profissional;\n\nf) Designação e destituição de gerentes ou administradores e fixação das respetivas remunerações;\n\ng) Alienação ou oneração de bens imóveis e alienação, oneração e locação de estabelecimentos da sociedade;\n\nh) Aprovação do relatório e contas do exercício, os quais devem ser depositados na associação pública profissional no decurso dos 60 dias seguintes à sua aprovação;\n\ni) Distribuição de lucros;\n\nj) Propositura de ações pela sociedade contra sócios, membros do órgão de administração e membros do órgão de fiscalização;\n\nk) Participação em consórcios, associações em participação, agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico;\n\nl) Prorrogação da duração da sociedade;\n\nm) Dissolução da sociedade;\n\nn) Fusão, cisão e fusão-cisão da sociedade;\n\no) Transformação da sociedade de profissionais em sociedade de regime geral;\n\np) Alteração do contrato de sociedade.\n\n3 - À convocação, constituição e funcionamento das assembleias gerais, incluindo às respetivas deliberações, é aplicável a legislação referida no n.º 3 do artigo 4.º"
+  },
+  "107749704": {
+   "fragment_id": "107742965",
+   "type": 1,
+   "heading": "Capítulo VI — Da transmissão, amortização e extinção de participações sociais de capital profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da transmissão, amortização e extinção de participações sociais de capital profissional"
+  },
+  "107749705": {
+   "fragment_id": "107742966",
+   "type": 11,
+   "heading": "Artigo 29.º — Cessões de participações sociais de capital entre sócios profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cessões de participações sociais de capital entre sócios profissionais\n\n1 - A cessão onerosa de participações de capital é livre entre os sócios profissionais, sem prejuízo do direito de preferência dos restantes sócios profissionais.\n\n2 - O sócio profissional que pretenda ceder uma participação de que seja titular a algum ou alguns dos sócios profissionais, deve comunicar aos restantes o valor, os termos e as condições da projetada cessão, bem como a identificação do previsto ou previstos cessionários.\n\n3 - Recebida a comunicação, devem os destinatários, no prazo de 15 dias, comunicar ao sócio cedente se pretendem exercer o seu direito de preferência.\n\n4 - As comunicações previstas nos números anteriores são efetuadas através de carta registada, com aviso de receção, ou através de notificação pessoal, mediante assinatura de documento certificador.\n\n5 - Manifestando vários sócios profissionais vontade de exercer o direito de preferência, este é exercido na proporção das participações de que sejam titulares na data do exercício do direito, salvo disposição em contrário do contrato de sociedade.\n\n6 - Na falta de comunicação ao sócio cedente, a participação pode ser cedida a sócio profissional ou, nos termos do artigo seguinte, a não sócio."
+  },
+  "107749706": {
+   "fragment_id": "107742967",
+   "type": 11,
+   "heading": "Artigo 30.º — Cessões de participações sociais de capital profissional a não sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Cessões de participações sociais de capital profissional a não sócios\n\n1 - A cessão de participações de capital profissional a não sócios só é admitida quando o cessionário cumpra o disposto no n.º 2 do artigo 8.º e depende de autorização da sociedade.\n\n2 - O sócio profissional que pretenda ceder uma participação de que seja titular a não sócio, deve comunicar à sociedade o valor, os termos e as condições da projetada cessão, bem como a identificação do previsto ou previstos cessionários.\n\n3 - Recebida a comunicação, deve a sociedade, no prazo de 45 dias, comunicar ao sócio se consente ou não na cessão.\n\n4 - As comunicações previstas nos números anteriores são efetuadas através de carta registada, com aviso de receção, ou através de notificação pessoal, mediante assinatura de documento certificador.\n\n5 - Na falta de comunicação por parte da sociedade, a cessão torna-se livre."
+  },
+  "107749707": {
+   "fragment_id": "107742968",
+   "type": 11,
+   "heading": "Artigo 31.º — Amortização ou aquisição por recusa de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Amortização ou aquisição por recusa de autorização\n\n1 - Se a sociedade recusar a autorização para a cessão de participação de capital profissional a não sócio, a comunicação da recusa inclui uma proposta de amortização ou de aquisição da participação em causa.\n\n2 - A proposta fica sem efeito, mantendo-se a recusa de consentimento, se o sócio não a aceitar no prazo de 30 dias, através de carta registada, com aviso de receção, ou através de notificação pessoal, mediante assinatura de documento certificador.\n\n3 - O valor da amortização ou aquisição da participação é determinado nos termos do disposto no contrato de sociedade ou na legislação referida no n.º 3 do artigo 4.º\n\n4 - Sem prejuízo do disposto no número anterior, o valor oferecido não deve ser inferior ao valor da projetada cessão, exceto se a sociedade, nos 30 dias seguintes à notificação a que se refere o n.º 1, comunicar ao sócio que não aceita tal preço como valor da amortização ou aquisição.\n\n5 - No caso previsto na parte final do número anterior, o valor da amortização ou aquisição é fixado por uma comissão arbitral composta por três profissionais, sendo um designado pela sociedade, outro pelo sócio e o terceiro pela associação pública profissional, cabendo a este presidir à comissão e estabelecer os termos do respetivo processo.\n\n6 - A comissão é constituída a requerimento da sociedade ou do sócio, dirigido à associação pública profissional.\n\n7 - No cálculo do valor da amortização ou aquisição, a comissão arbitral toma em consideração o valor da clientela que acompanhar o sócio na sua saída.\n\n8 - O valor da amortização é acrescido da importância apurada nos termos do n.º 2 do artigo 12.º\n\n9 - Na determinação do valor da amortização ou aquisição, a comissão arbitral pode ser auxiliada por um perito."
+  },
+  "107749708": {
+   "fragment_id": "107742969",
+   "type": 11,
+   "heading": "Artigo 32.º — Cessão gratuita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Cessão gratuita\n\n1 - O disposto nos artigos 31.º a 33.º é aplicável, com as necessárias adaptações, à cessão de participações de capital profissional a título gratuito.\n\n2 - Nas comunicações a que se referem o n.º 2 do artigo 29.º e o n.º 2 do artigo 30.º, deve o sócio que pretenda ceder gratuitamente a sua participação de capital atribuir-lhe o respetivo valor."
+  },
+  "107749709": {
+   "fragment_id": "107742970",
+   "type": 11,
+   "heading": "Artigo 33.º — Transmissão não voluntária entre vivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Transmissão não voluntária entre vivos\n\n1 - No caso de transmissão não voluntária entre vivos de participação de capital profissional, a sociedade pode amortizá-la ou adquiri-la, ainda que o adquirente cumpra o disposto no n.º 2 do artigo 8.º\n\n2 - A deliberação sobre a amortização deve ser tomada no prazo máximo de 60 dias, a contar da data em que a sociedade teve conhecimento da transmissão não voluntária.\n\n3 - A transmissão da participação de capital profissional a quem não cumpra o disposto no n.º 2 do artigo 8.º não produz qualquer efeito, estando a sociedade obrigada a proceder à sua amortização ou aquisição.\n\n4 - À fixação do valor da amortização ou aquisição é aplicável, com as necessárias adaptações, o disposto nos n.os 5 a 8 do artigo 31.º, salvo se o contrato de sociedade, o acordo escrito de todos os sócios ou a legislação referida no n.º 3 do artigo 4.º dispuser de modo diferente."
+  },
+  "107749710": {
+   "fragment_id": "107742971",
+   "type": 11,
+   "heading": "Artigo 34.º — Extinção da participação de capital profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Extinção da participação de capital profissional\n\n1 - As participações de capital profissional podem extinguir-se por exoneração, exclusão ou por morte ou extinção do titular.\n\n2 - Em caso de morte do titular de participação de capital profissional, deve a sociedade, no prazo máximo de 30 dias, adquirir, amortizar ou fazer adquirir a participação em causa por sócio profissional ou por não sócio que cumpra os requisitos correspondentemente aplicáveis.\n\n3 - A requerimento de herdeiro ou herdeiros que cumpram o disposto no n.º 2 do artigo 8.º, pode a sociedade consentir que lhe sejam transmitidas as participações de capital profissional.\n\n4 - O valor da amortização ou aquisição da participação referida no n.º 2 é determinado de acordo com os critérios fixados no contrato de sociedade ou na legislação referida no n.º 3 do artigo 4.º\n\n5 - Na ausência dos critérios referidos no número anterior, pode o valor ser determinado por acordo entre a sociedade e os herdeiros.\n\n6 - Na falta de acordo, o valor da participação é fixado pela forma prevista nos n.os 5 a 7 do artigo 31.º\n\n7 - O valor determinado nos termos do disposto no número anterior é acrescido da importância apurada nos termos do n.º 2 do artigo 12.º\n\n8 - O disposto nos n.os 2 a 7 é aplicável, com as necessárias adaptações, aos casos em que for decretada a interdição ou inabilitação do sócio pessoa singular.\n\n9 - Quando for cancelada a inscrição do sócio como membro da associação pública profissional, por motivo diverso da sua expulsão dessa associação ou interdição definitiva do exercício da atividade profissional, aplica-se o disposto nos números anteriores quanto à morte ou extinção do titular, sempre que a lei que regula o exercício da atividade profissional exija aquela inscrição para esse exercício.\n\n10 - Seja qual for o seu motivo, sempre que a amortização da participação de capital profissional não seja acompanhada da correspondente redução do capital, as participações dos outros sócios são proporcionalmente aumentadas.\n\n11 - Pode, porém, estipular-se no contrato de sociedade ou podem os sócios profissionais deliberar por unanimidade que, em vez da participação amortizada, sejam criadas uma ou mais participações de capital profissional, cujo valor nominal total seja igual ao da participação extinta, para imediata transmissão a sócio profissional ou a terceiro que cumpra o disposto no n.º 2 do artigo 8.º"
+  },
+  "107749711": {
+   "fragment_id": "107742972",
+   "type": 1,
+   "heading": "Capítulo VII — Da exoneração, exclusão e impossibilidade temporária de sócios profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Da exoneração, exclusão e impossibilidade temporária de sócios profissionais"
+  },
+  "107749712": {
+   "fragment_id": "107742973",
+   "type": 11,
+   "heading": "Artigo 35.º — Exoneração de sócio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Exoneração de sócio profissional\n\n1 - Sem prejuízo do disposto no n.º 11 do artigo 18.º, os sócios profissionais têm o direito de se exonerar da sociedade, nos termos da legislação referida no n.º 3 do artigo 4.º, do artigo 44.º, e dos números seguintes.\n\n2 - Constitui causa de exoneração, designadamente:\n\na) A entrada de novos sócios profissionais, se o sócio tiver votado contra na respetiva deliberação da assembleia geral;\n\nb) A prorrogação da duração da sociedade, se o sócio tiver votado contra na respetiva deliberação da assembleia geral;\n\nc) A ocorrência de justa causa de exclusão de outro sócio profissional, nos termos da alínea a) do n.º 1 do artigo seguinte, se a sociedade não deliberar excluí-lo ou não promover a sua exclusão judicial.\n\n3 - O sócio deve comunicar à sociedade a intenção e os motivos da exoneração, através de carta registada, com aviso de receção, ou através de notificação pessoal, mediante assinatura de documento certificador.\n\n4 - A exoneração só se torna efetiva no fim do ano social em que é feita a comunicação, mas nunca antes de decorridos três meses sobre a data desta comunicação.\n\n5 - Se a causa de exoneração invocada pelo sócio não for aceite pela assembleia geral, a exoneração só pode ser autorizada judicialmente.\n\n6 - Recebida a comunicação e não sendo recusada a exoneração nos termos do número anterior, a sociedade, no prazo que venha a resultar da aplicação do n.º 4, amortiza a participação, adquire-a ou fá-la adquirir por sócio ou terceiro.\n\n7 - À amortização de participação aplica-se o disposto no capítulo anterior."
+  },
+  "107749713": {
+   "fragment_id": "107742974",
+   "type": 11,
+   "heading": "Artigo 36.º — Exclusão de sócio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Exclusão de sócio profissional\n\n1 - A exclusão de sócio profissional pode verificar-se nos casos previstos no contrato de sociedade, na legislação referida no n.º 3 do artigo 4.º e ainda nos seguintes casos:\n\na) Quando ao sócio seja imputável violação grave de obrigações para com a sociedade ou de deveres deontológicos;\n\nb) Quando o sócio esteja impossibilitado, de forma definitiva, de prestar ou deixe de prestar de modo continuado à sociedade, conforme aferido nos termos do respetivo contrato de sociedade, a atividade profissional a que é obrigado nos termos do n.º 3 do artigo 11.º\n\n2 - A exclusão produz efeitos decorridos 30 dias úteis sobre a data do registo da deliberação na respetiva associação pública profissional.\n\n3 - O direito de oposição judicial do sócio excluído caduca decorrido o prazo referido no número anterior.\n\n4 - Na eventualidade de a sociedade ter apenas um sócio profissional, a sua exclusão só pode ser decretada judicialmente.\n\n5 - O sócio ao qual tenha sido aplicada pena disciplinar de expulsão ou interdição definitiva do exercício da atividade profissional considera-se automaticamente excluído da sociedade a partir da data do trânsito em julgado da decisão que aplicou aquela pena.\n\n6 - O sócio que, por qualquer motivo, seja excluído da sociedade de profissionais tem direito a receber da sociedade a quantia apurada nos termos previstos no contrato de sociedade, em acordo escrito de todos os sócios ou na legislação referida no n.º 3 do artigo 4.º\n\n7 - Na ausência dos critérios referidos no número anterior, a quantia é fixada com recurso à comissão arbitral, aplicando-se o disposto nos n.os 5 a 7 do artigo 31.º\n\n8 - O valor determinado nos termos do disposto no número anterior é acrescido da importância apurada nos termos do n.º 2 do artigo 12.º"
+  },
+  "107749714": {
+   "fragment_id": "107749775",
+   "type": 11,
+   "heading": "Artigo 37.º — Impossibilidade temporária de exercício por motivos de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Impossibilidade temporária de exercício por motivos de saúde\n\n1 - No caso de impossibilidade temporária de exercício da profissão por motivos de saúde, o sócio profissional mantém o direito aos resultados correspondentes à sua participação de capital.\n\n2 - Salvo estipulação diversa mais favorável ao sócio no contrato de sociedade ou em acordo escrito dos sócios, durante os primeiros seis meses de impossibilidade, mantém o sócio direito aos lucros correspondentes à participação de indústria e, no período subsequente, até dois anos, direito a metade dos mesmos.\n\n3 - Se a impossibilidade exceder 30 meses, ou prazo superior estipulado no contrato de sociedade, pode a sociedade proceder à amortização ou aquisição da participação de capital do sócio, nos termos da presente lei, extinguindo-se simultaneamente a respetiva participação de indústria, caso exista.\n\n4 - O valor da amortização ou aquisição é determinado nos termos do artigo 31.º"
+  },
+  "107749715": {
+   "fragment_id": "107749776",
+   "type": 11,
+   "heading": "Artigo 38.º — Suspensão do sócio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Suspensão do sócio profissional\n\nNo caso de suspensão, por qualquer motivo, da inscrição do sócio na associação pública profissional que seja obrigatória para o exercício da atividade profissional em território nacional, este mantém o direito aos resultados correspondentes à sua participação de capital e a metade dos lucros correspondentes à participação de indústria, mas, neste caso, apenas durante os primeiros seis meses de duração da suspensão."
+  },
+  "107749716": {
+   "fragment_id": "107749777",
+   "type": 1,
+   "heading": "Capítulo VIII — Da fusão e cisão de sociedades de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Da fusão e cisão de sociedades de profissionais"
+  },
+  "107749717": {
+   "fragment_id": "107749778",
+   "type": 8,
+   "heading": "Secção I — Fusão de sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Fusão de sociedades"
+  },
+  "107749718": {
+   "fragment_id": "107749779",
+   "type": 11,
+   "heading": "Artigo 39.º — Noção e modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Noção e modalidades\n\n1 - É permitida a fusão de duas ou mais sociedades de profissionais sujeitas à mesma associação pública profissional, mediante a sua reunião numa única sociedade.\n\n2 - A fusão pode realizar-se:\n\na) Mediante a transferência global do património de uma ou mais sociedades para outra e atribuição aos sócios daquela de participações da sociedade incorporante, de indústria e ou de capital;\n\nb) Mediante a constituição de uma nova sociedade, para a qual se transferem globalmente os patrimónios das sociedades fundidas, sendo aos sócios destas atribuídas participações de indústria ou de capital na nova sociedade."
+  },
+  "107749719": {
+   "fragment_id": "107749780",
+   "type": 11,
+   "heading": "Artigo 40.º — Projeto de fusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Projeto de fusão\n\n1 - As administrações das sociedades que pretendam fundir-se devem elaborar, em conjunto, um projeto de fusão, do qual constem os seguintes elementos:\n\na) A modalidade, os motivos, as condições e os objetivos da fusão, relativamente a todas as sociedades participantes;\n\nb) A firma, a sede, o montante do capital e a data de inscrição na associação pública profissional de cada uma das sociedades;\n\nc) A descrição e valor dos elementos do ativo e do passivo a transferir para a sociedade incorporante ou para a nova sociedade;\n\nd) As participações, de indústria e ou de capital, a atribuir aos sócios da sociedade a incorporar ou das sociedades a fundir;\n\ne) O projeto de alteração a introduzir no contrato da sociedade incorporante ou o projeto de contrato da nova sociedade;\n\nf) A data a partir da qual as operações da sociedade incorporada ou das sociedades a fundir são consideradas, do ponto de vista contabilístico, como efetuadas por conta da sociedade incorporante ou da nova sociedade;\n\ng) Os direitos assegurados pela sociedade incorporante ou pela nova sociedade a sócios da ou das sociedades incorporadas ou das sociedades a fundir que possuam direitos especiais;\n\nh) As medidas de proteção dos direitos dos credores.\n\n2 - O projeto de fusão deve ser aprovado pela assembleia geral de cada uma das sociedades com maioria de três quartos dos votos expressos pertencentes a sócios profissionais, seja qual for a percentagem de capital profissional nela representada."
+  },
+  "107749720": {
+   "fragment_id": "107749781",
+   "type": 8,
+   "heading": "Secção II — Cisão de sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cisão de sociedades"
+  },
+  "107749721": {
+   "fragment_id": "107749782",
+   "type": 11,
+   "heading": "Artigo 41.º — Noção e modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Noção e modalidades\n\n1 - É permitida a cisão de sociedades de profissionais.\n\n2 - As sociedades de profissionais podem:\n\na) Destacar parte do seu património para efeitos de constituição de outra sociedade de profissionais;\n\nb) Dissolver-se e dividir o seu património, sendo cada uma das partes resultantes destinada a constituir uma nova sociedade de profissionais;\n\nc) Destacar partes do seu património ou dissolver-se, dividindo o seu património em duas ou mais partes, para as fundir com sociedades de profissionais já existentes ou com partes do património de outras sociedades de profissionais, separadas por idênticos processos e com igual finalidade, todas sujeitas à mesma associação pública profissional."
+  },
+  "107749722": {
+   "fragment_id": "107749783",
+   "type": 11,
+   "heading": "Artigo 42.º — Projeto de cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Projeto de cisão\n\n1 - A administração de sociedade que pretenda cindir-se ou, tratando-se de cisão-fusão, as administrações das sociedades participantes devem elaborar, em conjunto, um projeto de cisão, donde constem os seguintes elementos:\n\na) A modalidade, os motivos, as condições e os objetivos da cisão, relativamente a todas as sociedades participantes;\n\nb) A firma, a sede, o montante do capital e a data de inscrição na associação pública profissional de cada uma das sociedades participantes;\n\nc) A descrição e valor dos elementos do ativo e do passivo a transmitir para as novas sociedades ou, no caso de cisão-fusão, para as sociedades incorporantes;\n\nd) As participações, de indústria ou de capital, a atribuir aos sócios das novas sociedades ou, no caso de cisão-fusão, das sociedades incorporantes;\n\ne) O projeto de contrato das novas sociedades ou, no caso de cisão-fusão, o projeto de alteração a introduzir no contrato das sociedades incorporantes;\n\nf) A data a partir da qual as operações da sociedade cindida ou, no caso de cisão-fusão, das sociedades incorporantes, são consideradas, do ponto de vista contabilístico, como efetuadas por conta da ou das sociedades resultantes da cisão;\n\ng) Os direitos assegurados pelas sociedades resultantes da cisão ou, no caso de cisão-fusão, pelas sociedades incorporantes aos sócios da ou das sociedades cindidas ou aos sócios das sociedades incorporadas titulares de direitos especiais;\n\nh) As medidas de proteção dos direitos dos credores.\n\n2 - O projeto de cisão deve ser aprovado pela assembleia geral da sociedade cindida e, no caso de cisão-fusão, pelas assembleias gerais das sociedades participantes, com maioria de três quartos dos votos expressos pertencentes a sócios profissionais."
+  },
+  "107749723": {
+   "fragment_id": "107749784",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "107749724": {
+   "fragment_id": "107749785",
+   "type": 11,
+   "heading": "Artigo 43.º — Registo e aprovação do projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Registo e aprovação do projeto\n\n1 - Sem prejuízo do regime de registo comercial, quando aplicável, o projeto de fusão ou de cisão deve ser comunicado à respetiva associação pública profissional.\n\n2 - À comunicação do projeto e respetivo controlo aplica-se, com as devidas adaptações, o disposto no artigo 21.º"
+  },
+  "107749725": {
+   "fragment_id": "107749786",
+   "type": 11,
+   "heading": "Artigo 44.º — Direito de exoneração dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Direito de exoneração dos sócios\n\nO sócio ou sócios que votarem contra o projeto de fusão ou de cisão têm o direito de se exonerar da sociedade, nos termos da presente lei."
+  },
+  "107749726": {
+   "fragment_id": "107749787",
+   "type": 11,
+   "heading": "Artigo 45.º — Contrato de fusão ou cisão, registo e inscrição das sociedades emergentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Contrato de fusão ou cisão, registo e inscrição das sociedades emergentes\n\n1 - A celebração do contrato de fusão ou cisão depende do controlo prévio do respetivo projeto pela associação pública profissional, nos termos do artigo 43.º\n\n2 - A forma do contrato de fusão ou cisão é regida pela legislação referida no n.º 3 do artigo 4.º\n\n3 - Uma vez celebrado o contrato, deve ser requerida a inscrição da fusão ou cisão no registo, devendo a mesma ser simultaneamente comunicada à associação pública profissional, para efeitos de alteração da inscrição ou inscrição da nova sociedade."
+  },
+  "107749727": {
+   "fragment_id": "107749788",
+   "type": 11,
+   "heading": "Artigo 46.º — Efeitos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Efeitos do registo\n\n1 - Com o registo da fusão:\n\na) Extinguem-se as sociedades incorporadas ou, no caso de constituição de nova sociedade, todas as sociedades fundidas, transmitindo-se os seus direitos e obrigações para a sociedade incorporante ou para a nova sociedade;\n\nb) Os sócios das sociedades extintas tornam-se sócios da sociedade incorporante ou da nova sociedade.\n\n2 - Com o registo da cisão:\n\na) Transmitem-se os direitos e obrigações da sociedade cindida para a nova sociedade ou, no caso de cisão-fusão, para a sociedade incorporante;\n\nb) No caso de cisão-dissolução, extingue-se a sociedade cindida;\n\nc) Os sócios da sociedade cindida, a quem sejam atribuídas participações de indústria e ou de capital da sociedade incorporante ou da nova sociedade, tornam-se sócios das mesmas."
+  },
+  "107749728": {
+   "fragment_id": "107749789",
+   "type": 11,
+   "heading": "Artigo 47.º — Transformação, fusão e cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Transformação, fusão e cisão\n\nAs sociedades de profissionais podem transformar-se em sociedades de regime geral ou fundir-se e cindir-se sem observância do disposto no presente capítulo, perdendo, nestes casos, a natureza de sociedade de profissionais."
+  },
+  "107749729": {
+   "fragment_id": "107749790",
+   "type": 1,
+   "heading": "Capítulo IX — Modalidades de associação societária envolvendo sociedades de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Modalidades de associação societária envolvendo sociedades de profissionais"
+  },
+  "107749730": {
+   "fragment_id": "107749791",
+   "type": 11,
+   "heading": "Artigo 48.º — Modalidades de associação societária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Modalidades de associação societária\n\n1 - As sociedades de profissionais podem associar-se a outras sociedades, sejam estas sociedades de profissionais ou não, para o exercício em conjunto de atividades que não sejam incompatíveis entre si, observado o regime de impedimentos aplicável, nos termos gerais, e cumprido o disposto no artigo seguinte.\n\n2 - A associação pode assumir as seguintes modalidades:\n\na) Consórcio;\n\nb) Associação em participação;\n\nc) Agrupamento complementar de empresas ou agrupamento europeu de interesse económico.\n\n3 - As associações que incluam sociedades de profissionais não são membros das associações públicas profissionais a que aquelas sociedades estejam sujeitas, nem estão em si mesmas sujeitas a responsabilidade disciplinar."
+  },
+  "107749731": {
+   "fragment_id": "107749792",
+   "type": 11,
+   "heading": "Artigo 49.º — Comunicação à associação pública profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Comunicação à associação pública profissional\n\nAs sociedades de profissionais envolvidas em associações devem comunicar os negócios jurídicos que constituam a base dessas associações com outras sociedades à associação pública profissional a que se encontram sujeitas, no prazo máximo de 10 dias úteis, a contar da respetiva celebração."
+  },
+  "107749732": {
+   "fragment_id": "107749793",
+   "type": 1,
+   "heading": "Capítulo X — Dissolução, liquidação e partilha da sociedade de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Dissolução, liquidação e partilha da sociedade de profissionais"
+  },
+  "107749733": {
+   "fragment_id": "107749794",
+   "type": 11,
+   "heading": "Artigo 50.º — Dissolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Dissolução\n\n1 - A sociedade de profissionais é dissolvida nos casos previstos na lei e no contrato de sociedade.\n\n2 - A sociedade de profissionais é ainda dissolvida extrajudicialmente:\n\na) Se se verificar a continuada violação dos requisitos para a sua constituição, constantes dos artigos 8.º a 12.º;\n\nb) Quando lhe for aplicada pena disciplinar de expulsão da respetiva associação profissional ou interdição definitiva do exercício da atividade profissional.\n\n3 - Em caso de dissolução, a sociedade deve efetuar mera comunicação à respetiva associação pública profissional.\n\n4 - Nos casos previstos no n.º 2, a dissolução é decretada pela associação pública profissional, uma vez observado o princípio do contraditório, a qual promove o respetivo registo."
+  },
+  "107749734": {
+   "fragment_id": "107749795",
+   "type": 11,
+   "heading": "Artigo 51.º — Liquidação do património social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Liquidação do património social\n\nDissolvida a sociedade, deve proceder-se à liquidação do seu património, nos termos da legislação referida no n.º 3 do artigo 4.º"
+  },
+  "107749735": {
+   "fragment_id": "107749796",
+   "type": 11,
+   "heading": "Artigo 52.º — Exercício da atividade profissional pelos sócios de sociedade dissolvida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Exercício da atividade profissional pelos sócios de sociedade dissolvida\n\nDissolvida a sociedade, por qualquer motivo, é permitido aos sócios profissionais o exercício da atividade profissional por si mesmos, ou noutra sociedade de profissionais, ainda que não se encontre concluído o processo de liquidação e partilha, sempre que não tenham sido eles próprios suspensos, expulsos ou interditos definitivamente no decurso de procedimento disciplinar."
+  },
+  "107749736": {
+   "fragment_id": "107749797",
+   "type": 1,
+   "heading": "Capítulo XI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Disposições transitórias e finais"
+  },
+  "107749737": {
+   "fragment_id": "107749798",
+   "type": 11,
+   "heading": "Artigo 53.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Norma transitória\n\nAs sociedades de profissionais constituídas antes da entrada em vigor da presente lei devem adotar as regras nesta estabelecidas no prazo de 180 dias, a contar da data da entrada em vigor da lei que adaptar os estatutos da respetiva associação pública profissional à Lei n.º 2/2013, de 10 de janeiro, sob pena de passarem a ser consideradas sociedades de regime geral, com o cancelamento automático da respetiva inscrição na associação pública profissional de que fossem membros."
+  },
+  "107749738": {
+   "fragment_id": "107749799",
+   "type": 11,
+   "heading": "Artigo 54.º — Usurpação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Usurpação de funções\n\n1 - Se duas ou mais pessoas, quer pelo uso de uma firma comum, quer por qualquer outro meio, criarem a falsa aparência de que existe entre elas um contrato de sociedade de profissionais, praticam o crime de usurpação de funções, punível com pena de prisão até dois anos ou com pena de multa até 240 dias.\n\n2 - As sociedades e as organizações de facto que resultem do número anterior são responsáveis, nos termos gerais, pelo crime previsto no mesmo número."
+  },
+  "107749739": {
+   "fragment_id": "107749800",
+   "type": 11,
+   "heading": "Artigo 55.º — Derrogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Derrogação\n\nNo caso de profissões que prossigam, na globalidade ou em alguns dos seus atos e atividades, missões específicas de interesse público, ou no caso de profissões cuja globalidade de atos ou atividades tenha uma ligação direta e específica ao exercício de poderes de autoridade pública, podem ser estabelecidos, nos estatutos da respetiva associação pública profissional ou noutras leis, requisitos de constituição e funcionamento de sociedades de profissionais, e requisitos de inscrição de organizações associativas de profissionais, diversos dos previstos na presente lei, desde que se mostrem justificados e proporcionais, respetivamente, por razões imperiosas de interesse geral ligadas à prossecução da missão de interesse público em causa, ou ao exercício daqueles poderes de autoridade pública."
+  },
+  "107749740": {
+   "fragment_id": "107749801",
+   "type": 11,
+   "heading": "Artigo 56.º — Balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Balcão único\n\n1 - Todos os pedidos, comunicações e notificações previstos na presente lei, entre a associação pública profissional e profissionais, sociedades de profissionais ou outras organizações associativas de profissionais, são realizados por meios eletrónicos, através do balcão único eletrónico dos serviços, referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do sítio na Internet da associação pública profissional em causa.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação pode ser feita por entrega nos serviços da associação pública profissional em causa, por correio eletrónico, por telecópia ou por remessa pelo correio sob registo.\n\n3 - A apresentação de documentos em forma simples, nos termos dos números anteriores, dispensa a remessa dos documentos originais, autênticos, autenticados ou certificados, sem prejuízo do disposto nas alíneas a) e c) do n.º 3 e nos n.os 4 e 5 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n4 - É ainda aplicável aos procedimentos referidos no presente artigo o disposto nas alíneas d) e e) do artigo 5.º e no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "107749741": {
+   "fragment_id": "107749802",
+   "type": 11,
+   "heading": "Artigo 57.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Cooperação administrativa\n\nAs associações públicas profissionais competentes nos termos da presente lei prestam e solicitam às autoridades administrativas dos outros Estados membros da União Europeia e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente, nomeadamente através do Sistema de Informação do Mercado Interno, no âmbito dos procedimentos relativos a prestadores de serviços já estabelecidos noutro Estado membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio."
+  },
+  "107749742": {
+   "fragment_id": "107749803",
+   "type": 11,
+   "heading": "Artigo 58.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "211114671": {
+   "fragment_id": "107742940",
+   "type": 11,
+   "heading": "Artigo 7.º — Objeto social",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 7.º — Objeto social\n\n1 - O objeto principal das sociedades de profissionais consiste no exercício em comum de atividades profissionais organizadas numa única associação pública profissional.\n\n2 - As sociedades de profissionais podem ainda desenvolver, a título secundário, qualquer atividade, incluindo atividades profissionais organizadas em associação pública profissional, desde que seja observado o regime de incompatibilidades e impedimentos aplicável.\n\n3 - Sem prejuízo do disposto nos números anteriores, podem ainda ser constituídas sociedades multidisciplinares de profissionais para exercício de profissões organizadas em mais do que uma associação pública profissional nos termos dos n.os 2 a 4 do artigo 27.º da Lei n.º 2/2013, de 10 de janeiro.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211114672": {
+   "fragment_id": "107742942",
+   "type": 11,
+   "heading": "Artigo 9.º — Capital social, controlo, administração, mandato e conflitos de interesses",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 9.º — Capital social, controlo, administração, mandato e conflitos de interesses\n\n1 - O capital social de uma sociedade de profissionais é estipulado pelas partes, com respeito pela legislação referida no n.º 3 do artigo 4.º\n\n2 - [Revogado.]\n\n3 - Pelo menos um dos gerentes ou administradores da sociedade de profissionais, que desempenhe funções executivas, deve estar legalmente estabelecido em território nacional para o exercício da profissão em causa, independentemente da modalidade de estabelecimento.\n\n4 - A sociedade de profissionais e os seus sócios profissionais autorizados a exercer atividade profissional a título individual, nos termos do n.º 5 do artigo 8.º, não podem prestar serviços que consubstanciem, entre eles, uma situação de conflito de interesses.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211114673": {
+   "fragment_id": "107749800",
+   "type": 11,
+   "heading": "Artigo 55.º — Derrogação",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 55.º — Derrogação\n\nNo caso de profissões que prossigam, na globalidade ou em alguns dos seus atos e atividades, missões específicas de interesse público, ou no caso de profissões cuja globalidade de atos ou atividades tenha uma ligação direta e específica ao exercício de poderes de autoridade pública, podem ser estabelecidos, nos estatutos da respetiva associação pública profissional ou noutras leis, requisitos de constituição e funcionamento de sociedades de profissionais, e requisitos de inscrição de organizações associativas de profissionais, diversos dos previstos na presente lei, desde que se mostrem justificados e proporcionais, respetivamente, por razões imperiosas de interesse geral ligadas à prossecução da missão de interesse público em causa, ou ao exercício daqueles poderes de autoridade pública.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "107749743": {
+   "fragment_id": "107749804",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de abril de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 26 de maio de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 28 de maio de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "224577176": {
+   "fragment_id": "107742934",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se às:\n\na) Sociedades de profissionais e entidades equiparadas estabelecidas em território nacional que tenham por objeto principal o exercício em comum de atividades profissionais organizadas numa única associação pública profissional;\n\nb) Sociedades multidisciplinares de profissionais que, nos termos do capítulo xi, se estabeleçam em território nacional para o exercício de profissões organizadas em associações públicas profissionais, juntamente com outras profissões organizadas ou não em associações públicas profissionais.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, entende-se por exercício em comum de atividades profissionais organizadas a prestação de serviços profissionais através de pessoa coletiva constituída nos termos da presente lei.\n\n3 - A presente lei aplica-se às sociedades de revisores oficiais de contas e demais sociedades de profissionais regidas pelo direito da União Europeia, na medida em que não contrarie a legislação que lhes é especialmente aplicável.\n\n4 - A presente lei não se aplica às pessoas coletivas que, não sendo sociedades de profissionais ou entidades equiparadas, prestem serviços profissionais através de profissionais seus sócios, administradores, gerentes ou seus colaboradores.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577177": {
+   "fragment_id": "107742935",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Capital profissional», a parte do capital social representado pelas participações sociais dos sócios profissionais;\n\nb) «Estabelecimento», o exercício de uma atividade profissional no território de um Estado, por tempo indeterminado, de acordo com as seguintes modalidades:\n\ni) «Imediato», o primeiro estabelecimento de uma pessoa singular num determinado Estado, após adquiridas, nesse ou noutro Estado, as qualificações legalmente exigidas para o acesso à atividade;\n\nii) «Principal», o estabelecimento num determinado Estado através de domicílio ou sede principais e efetivos da administração da atividade do profissional, sociedade de profissionais ou organização associativa de profissionais;\n\niii) «Secundário», o estabelecimento num determinado Estado através de escritório, representação permanente ou participação numa sociedade de profissionais, sob a direção de domicílio ou sede localizados noutro Estado;\n\nc) «Organização associativa de profissionais», a entidade constituída ao abrigo do direito de outro Estado membro da União Europeia ou do Espaço Económico Europeu para o exercício em comum de atividade profissional;\n\nd) «Sociedade de profissionais», a sociedade constituída nos termos da presente lei ou do direito da União Europeia para o exercício em comum de atividade profissional, responsabilizando-se contratual e disciplinarmente por esse exercício;\n\ne) 'Sociedade multidisciplinar de profissionais', a sociedade de profissionais, constituída nos termos da presente lei, que se estabeleça em território nacional para o exercício de profissões organizadas em associações públicas profissionais, juntamente com outras profissões organizadas ou não em associações públicas profissionais;\n\nf) «Sócio profissional», o sócio de sociedade de profissionais que detenha participações sociais e preste, naquela sociedade, os serviços profissionais incluídos no respetivo objeto principal; e\n\ng) «Sócio não profissional», o sócio de sociedade de profissionais que detenha participações sociais, mas não preste, naquela sociedade, os serviços profissionais incluídos no respetivo objeto principal, ainda que para tanto se encontre habilitado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577195": {
+   "fragment_id": "107742938",
+   "type": 11,
+   "heading": "Artigo 6.º — Capacidade",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 6.º — Capacidade\n\n1 - A capacidade da sociedade de profissionais compreende os direitos e obrigações necessários ou convenientes à prossecução do seu objeto social e que sejam compatíveis com a sua natureza.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577178": {
+   "fragment_id": "107742940",
+   "type": 11,
+   "heading": "Artigo 7.º — Objeto social",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 7.º — Objeto social\n\n1 - O objeto principal das sociedades de profissionais consiste no exercício em comum de atividades profissionais organizadas numa única associação pública profissional.\n\n2 - As sociedades de profissionais podem ainda desenvolver, a título secundário, qualquer atividade, incluindo atividades profissionais organizadas em associação pública profissional, desde que seja observado o regime de incompatibilidades e impedimentos aplicável.\n\n3 - Sem prejuízo do disposto nos números anteriores, podem ainda ser constituídas sociedades multidisciplinares de profissionais para exercício de profissões organizadas em mais do que uma associação pública profissional nos termos dos n.os 2 a 4 do artigo 27.º da Lei n.º 2/2013, de 10 de janeiro.\n\n4 - As sociedades multidisciplinares de profissionais podem integrar, no respetivo objeto social, o exercício de atividades profissionais organizadas em associações públicas profissionais ou de outras profissões organizadas ou não em associações públicas profissionais, desde que seja observado o regime de incompatibilidades e impedimentos previsto na lei aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "224577179": {
+   "fragment_id": "107742952",
+   "type": 11,
+   "heading": "Artigo 18.º — Responsabilidade disciplinar",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 18.º — Responsabilidade disciplinar\n\n1 - As sociedades de profissionais e as organizações associativas referidas no artigo 27.º respondem disciplinarmente perante a associação pública profissional em que se encontram inscritas, nos termos da legislação que rege a atividade em causa.\n\n2 - As entidades referidas no número anterior são responsáveis pelas infrações disciplinares quando cometidas:\n\na) Em seu nome e no interesse coletivo, por pessoas que nelas ocupem uma posição de liderança, de facto ou de direito; ou\n\nb) Por quem aja sob a autoridade das pessoas referidas na alínea anterior, em virtude de uma violação dos deveres de vigilância ou controlo que lhes incumbem.\n\n3 - A responsabilidade disciplinar das sociedades de profissionais e das organizações associativas referidas no artigo 27.º é excluída quando o infrator tiver atuado contra ordens ou instruções expressas de quem de direito.\n\n4 - A responsabilidade disciplinar das sociedades de profissionais e das organizações associativas referidas no artigo 27.º não exclui a responsabilidade disciplinar individual dos respetivos infratores, nem depende da responsabilização destes.\n\n5 - A assunção pela sociedade de profissionais de negócios jurídicos concluídos antes do seu ato de constituição não determina a sua responsabilização disciplinar por atos praticados no âmbito daqueles negócios jurídicos antes do ato de criação.\n\n6 - No período compreendido entre a celebração do contrato de sociedade e o seu registo definitivo, a entidade é responsável disciplinarmente, nos termos do presente artigo.\n\n7 - A cisão e a fusão não determinam a extinção da responsabilidade disciplinar da entidade, respondendo pela prática da infração:\n\na) A sociedade que resulte da fusão, a sociedade incorporante ou a entidade equiparada; e\n\nb) As sociedades ou entidades equiparadas que resultaram da cisão.\n\n8 - Sem prejuízo do direito de regresso quanto às quantias pagas, as pessoas que ocupem uma posição de liderança são subsidiariamente responsáveis pelo pagamento das multas em que a entidade for condenada, relativamente às infrações:\n\na) Praticadas no período de exercício do seu cargo, sem a sua oposição expressa;\n\nb) Praticadas anteriormente, quando tiver sido por culpa sua que o património da entidade se tornou insuficiente para o respetivo pagamento; ou\n\nc) Praticadas anteriormente, quando a decisão definitiva de as aplicar tiver sido notificada durante o período de exercício do seu cargo e lhes seja imputável a falta de pagamento.\n\n9 - Sendo várias as pessoas responsáveis nos termos do número anterior, é solidária a sua responsabilidade.\n\n10 - Se as multas forem aplicadas a uma entidade sem personalidade jurídica, responde por elas o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos sócios ou associados.\n\n11 - A perda da condição de sócio ou a sua exclusão, qualquer que seja a causa, não exonera o sócio da responsabilidade disciplinar que pudesse ser-lhe exigível, nos termos da presente lei, por atos praticados enquanto foi sócio.\n\n12 - As sociedades de profissionais e as organizações associativas referidas no artigo 27.º não podem ser responsabilizadas disciplinarmente por atos praticados, a título individual, por pessoa singular que seja sócia de uma sociedade de profissionais.\n\n13 - Nos casos em que a sociedade de profissionais desenvolva atividade a título secundário, os seus sócios, administradores, gerentes ou colaboradores que, de facto, prestem os serviços em causa, assumem, de forma exclusivamente individual, a responsabilidade disciplinar pelos mesmos.\n\n14 - Para efeitos do disposto no presente artigo, entende-se que ocupam uma posição de liderança, os órgãos e representantes da entidade e quem nela tiver autoridade para exercer o controlo da sua atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577196": {
+   "fragment_id": "107742954",
+   "type": 11,
+   "heading": "Artigo 19.º — Contrato de sociedade",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 19.º — Contrato de sociedade\n\n1 - O contrato de sociedade deve conter as menções obrigatórias nos termos da legislação referida no n.º 3 do artigo 4.º e, em qualquer caso, o nome e firma de todos os sócios profissionais e respetivos números de inscrição na associação pública profissional que organiza a atividade profissional objeto principal da sociedade, caso a inscrição seja obrigatória para o exercício da atividade em território nacional por prestadores estabelecidos.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577188": {
+   "fragment_id": "107742956",
+   "type": 11,
+   "heading": "Artigo 21.º — Aprovação do projeto de contrato de sociedade",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 21.º — Aprovação do projeto de contrato de sociedade\n\n1 - O projeto de contrato de sociedade é submetido a um controlo de mera legalidade pela associação pública profissional, verificando designadamente se o mesmo está conforme ao disposto na presente lei e às normas deontológicas constantes da legislação que rege a atividade em causa.\n\n2 - O projeto referido no número anterior deve ser acompanhado de certificado de admissibilidade de firma.\n\n3 - Caso a associação pública profissional não se pronuncie no prazo de 20 dias úteis, considera-se o projeto tacitamente aprovado, para todos os efeitos legais.\n\n4 - O prazo de deferimento tácito referido no número anterior é de 40 dias úteis, nos casos em que haja sócio profissional, gerente ou administrador executivo proveniente de outro Estado membro da União Europeia ou do Espaço Económico Europeu, e o mesmo não se encontre inscrito na associação pública profissional em virtude do caráter facultativo da inscrição para o exercício da atividade profissional em território nacional por prestadores estabelecidos.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577189": {
+   "fragment_id": "107742957",
+   "type": 11,
+   "heading": "Artigo 22.º — Registo do contrato e inscrição da sociedade",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 22.º — Registo do contrato e inscrição da sociedade\n\nApós o registo definitivo do contrato de sociedade de profissionais, esta é inscrita, no seguimento de mera comunicação prévia pela sociedade de profissionais, na associação pública profissional que organiza a atividade profissional objeto principal da sociedade, sendo-lhe emitida a respetiva cédula profissional.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577190": {
+   "fragment_id": "107742958",
+   "type": 11,
+   "heading": "Artigo 23.º — Alterações do contrato",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 23.º — Alterações do contrato\n\nA alteração do contrato de sociedade ou dos respetivos estatutos deve ser objeto de mera comunicação pela sociedade de profissionais à respetiva associação pública profissional, no prazo de 20 dias úteis.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577191": {
+   "fragment_id": "107742959",
+   "type": 11,
+   "heading": "Artigo 24.º — Gerentes",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 24.º — Gerentes\n\nQuando não seja designado no contrato de sociedade, a sociedade de profissionais deve, no prazo de 10 dias úteis após a nomeação, comunicar à associação pública profissional onde se deve inscrever ao abrigo do artigo 22.º, o nome do gerente ou administrador executivo referido no n.º 3 do artigo 9.º, e o respetivo número de inscrição na associação pública profissional que organiza a atividade profissional objeto principal da sociedade, caso a inscrição seja obrigatória para o exercício da atividade em território nacional por prestadores estabelecidos.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577192": {
+   "fragment_id": "107742960",
+   "type": 11,
+   "heading": "Artigo 25.º — Planos de carreira",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 25.º — Planos de carreira\n\nA sociedade de profissionais deve comunicar à respetiva associação pública profissional os planos de carreira que detalhem as categorias e critérios de progressão dos colaboradores para o possível acesso à categoria de sócio.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577180": {
+   "fragment_id": "107742961",
+   "type": 11,
+   "heading": "Artigo 26.º — Transformação em sociedade de profissionais",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 26.º — Transformação em sociedade de profissionais\n\nO disposto no artigo 20.º é aplicável, com as devidas adaptações, às sociedades de regime geral que se transformem em sociedades de profissionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577197": {
+   "fragment_id": "107742974",
+   "type": 11,
+   "heading": "Artigo 36.º — Exclusão de sócio profissional",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 36.º — Exclusão de sócio profissional\n\n1 - A exclusão de sócio profissional pode verificar-se nos casos previstos no contrato de sociedade, na legislação referida no n.º 3 do artigo 4.º e ainda nos seguintes casos:\n\na) Quando ao sócio seja imputável violação grave de obrigações para com a sociedade ou de deveres deontológicos;\n\nb) Quando o sócio esteja impossibilitado, de forma definitiva, de prestar ou deixe de prestar de modo continuado à sociedade, conforme aferido nos termos do respetivo contrato de sociedade, a atividade profissional a que é obrigado nos termos do n.º 3 do artigo 11.º\n\n2 - [Revogado.]\n\n3 - [Revogado.]\n\n4 - Na eventualidade de a sociedade ter apenas um sócio profissional, a sua exclusão só pode ser decretada judicialmente.\n\n5 - O sócio ao qual tenha sido aplicada pena disciplinar de expulsão ou interdição definitiva do exercício da atividade profissional considera-se automaticamente excluído da sociedade a partir da data do trânsito em julgado da decisão que aplicou aquela pena.\n\n6 - O sócio que, por qualquer motivo, seja excluído da sociedade de profissionais tem direito a receber da sociedade a quantia apurada nos termos previstos no contrato de sociedade, em acordo escrito de todos os sócios ou na legislação referida no n.º 3 do artigo 4.º\n\n7 - Na ausência dos critérios referidos no número anterior, a quantia é fixada com recurso à comissão arbitral, aplicando-se o disposto nos n.os 5 a 7 do artigo 31.º\n\n8 - O valor determinado nos termos do disposto no número anterior é acrescido da importância apurada nos termos do n.º 2 do artigo 12.º\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577181": {
+   "fragment_id": "107749779",
+   "type": 11,
+   "heading": "Artigo 39.º — Noção e modalidades",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 39.º — Noção e modalidades\n\n1 - É permitida a fusão de duas ou mais sociedades de profissionais, mediante a sua reunião numa única sociedade.\n\n2 - A fusão pode realizar-se:\n\na) Mediante a transferência global do património de uma ou mais sociedades para outra e atribuição aos sócios daquela de participações da sociedade incorporante, de indústria e ou de capital;\n\nb) Mediante a constituição de uma nova sociedade, para a qual se transferem globalmente os patrimónios das sociedades fundidas, sendo aos sócios destas atribuídas participações de indústria ou de capital na nova sociedade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577182": {
+   "fragment_id": "107749780",
+   "type": 11,
+   "heading": "Artigo 40.º — Projeto de fusão",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 40.º — Projeto de fusão\n\n1 - As administrações das sociedades que pretendam fundir-se devem elaborar, em conjunto, um projeto de fusão, do qual constem os seguintes elementos:\n\na) A modalidade, os motivos, as condições e os objetivos da fusão, relativamente a todas as sociedades participantes;\n\nb) A firma, a sede e o montante do capital de cada uma das sociedades;\n\nc) A descrição e valor dos elementos do ativo e do passivo a transferir para a sociedade incorporante ou para a nova sociedade;\n\nd) As participações, de indústria e ou de capital, a atribuir aos sócios da sociedade a incorporar ou das sociedades a fundir;\n\ne) O projeto de alteração a introduzir no contrato da sociedade incorporante ou o projeto de contrato da nova sociedade;\n\nf) A data a partir da qual as operações da sociedade incorporada ou das sociedades a fundir são consideradas, do ponto de vista contabilístico, como efetuadas por conta da sociedade incorporante ou da nova sociedade;\n\ng) Os direitos assegurados pela sociedade incorporante ou pela nova sociedade a sócios da ou das sociedades incorporadas ou das sociedades a fundir que possuam direitos especiais;\n\nh) As medidas de proteção dos direitos dos credores.\n\n2 - O projeto de fusão deve ser aprovado pela assembleia geral de cada uma das sociedades com maioria de três quartos dos votos expressos pertencentes a sócios profissionais, seja qual for a percentagem de capital profissional nela representada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577187": {
+   "fragment_id": "107749782",
+   "type": 11,
+   "heading": "Artigo 41.º — Noção e modalidades",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 41.º — Noção e modalidades\n\n1 - É permitida a cisão de sociedades de profissionais.\n\n2 - As sociedades de profissionais podem:\n\na) Destacar parte do seu património para efeitos de constituição de outra sociedade de profissionais;\n\nb) Dissolver-se e dividir o seu património, sendo cada uma das partes resultantes destinada a constituir uma nova sociedade de profissionais;\n\nc) Destacar partes do seu património ou dissolver-se, dividindo o seu património em duas ou mais partes, para as fundir com sociedades de profissionais já existentes ou com partes do património de outras sociedades de profissionais, separadas por idênticos processos e com igual finalidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577193": {
+   "fragment_id": "107749785",
+   "type": 11,
+   "heading": "Artigo 43.º — Registo e aprovação do projeto",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 43.º — Registo e aprovação do projeto\n\n1 - Sem prejuízo do regime de registo comercial, quando aplicável, o projeto de fusão ou de cisão deve ser comunicado à respetiva associação pública profissional.\n\n2 - À comunicação do projeto e respetivo controlo aplica-se, com as devidas adaptações, o disposto no artigo 21.º\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577183": {
+   "fragment_id": "107749787",
+   "type": 11,
+   "heading": "Artigo 45.º — Contrato de fusão ou cisão, registo e inscrição das sociedades emergentes",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 45.º — Contrato de fusão ou cisão, registo e inscrição das sociedades emergentes\n\n1 - (Revogado.)\n\n2 - A forma do contrato de fusão ou cisão é regida pela legislação referida no n.º 3 do artigo 4.º\n\n3 - Uma vez celebrado o contrato, deve ser requerida a inscrição da fusão ou cisão no registo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577184": {
+   "fragment_id": "107749789",
+   "type": 11,
+   "heading": "Artigo 47.º — Transformação, fusão e cisão",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 47.º — Transformação, fusão e cisão\n\nAs sociedades de profissionais podem transformar-se em sociedades multidisciplinares de profissionais, sociedades de regime geral ou fundir-se e cindir-se sem observância do disposto no presente capítulo, perdendo, nestes casos, a natureza de sociedade de profissionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577185": {
+   "fragment_id": "107749791",
+   "type": 11,
+   "heading": "Artigo 48.º — Modalidades de associação societária",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 48.º — Modalidades de associação societária\n\n1 - As sociedades de profissionais podem associar-se a outras sociedades, sejam estas sociedades de profissionais ou não, para o exercício em conjunto de atividades que não sejam incompatíveis entre si, observado o regime de impedimentos aplicável, nos termos gerais.\n\n2 - A associação pode assumir as seguintes modalidades:\n\na) Consórcio;\n\nb) Associação em participação;\n\nc) Agrupamento complementar de empresas ou agrupamento europeu de interesse económico.\n\n3 - As associações que incluam sociedades de profissionais não são membros das associações públicas profissionais a que aquelas sociedades estejam sujeitas, nem estão em si mesmas sujeitas a responsabilidade disciplinar.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577194": {
+   "fragment_id": "107749792",
+   "type": 11,
+   "heading": "Artigo 49.º — Comunicação à associação pública profissional",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 49.º — Comunicação à associação pública profissional\n\nAs sociedades de profissionais envolvidas em associações devem comunicar os negócios jurídicos que constituam a base dessas associações com outras sociedades à associação pública profissional a que se encontram sujeitas, no prazo máximo de 10 dias úteis, a contar da respetiva celebração.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224577186": {
+   "fragment_id": "107749794",
+   "type": 11,
+   "heading": "Artigo 50.º — Dissolução",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 50.º — Dissolução\n\n1 - A sociedade de profissionais é dissolvida nos casos previstos na lei e no contrato de sociedade.\n\n2 - A sociedade de profissionais é ainda dissolvida extrajudicialmente:\n\na) Se se verificar a continuada violação dos requisitos para a sua constituição, constantes dos artigos 8.º a 12.º;\n\nb) Quando lhe for aplicada pena disciplinar de expulsão da respetiva associação profissional ou interdição definitiva do exercício da atividade profissional.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - O disposto na alínea b) do n.º 2 não se aplica às sociedades multidisciplinares de profissionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457658": {
+   "fragment_id": "224576577",
+   "type": 1,
+   "heading": "Capítulo XI — Sociedades multidisciplinares de profissionais",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "### Capítulo XI — Sociedades multidisciplinares de profissionais\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457661": {
+   "fragment_id": "224576586",
+   "type": 11,
+   "heading": "Artigo 52.º-A — Constituição de sociedades multidisciplinares de profissionais",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-A — Constituição de sociedades multidisciplinares de profissionais\n\nPodem ser constituídas sociedades multidisciplinares de profissionais para exercício de profissões organizadas em associações públicas profissionais, juntamente com outras profissões organizadas ou não em associações públicas profissionais, quando, cumulativamente:\n\na) Garantam, estatutária e funcionalmente, o cumprimento dos regimes de incompatibilidades e impedimentos aplicáveis;\n\nb) Garantam procedimentos e mecanismos destinados a identificar, evitar, gerir, acompanhar e divulgar a ocorrência de conflitos de interesses, designadamente entre os interesses dos seus clientes e os interesses dos seus sócios, titulares dos órgãos da sociedade, trabalhadores e prestadores de serviços;\n\nc) Os responsáveis pela orientação e execução de funções de interesse público sejam profissionais qualificados;\n\nd) Garantam a independência técnica, a proteção de informação de clientes e a observância, incluindo pelos sócios, dos deveres deontológicos aplicáveis a cada atividade profissional desenvolvida e em conformidade com a lei;\n\ne) Disponham de um sistema interno de salvaguarda do sigilo profissional;\n\nf) Garantam uma função permanente de controlo de risco com competência para implementar a política e os procedimentos de gestão de riscos de incompatibilidades, impedimentos, conflitos de interesses, a independência técnica e a proteção de informação de clientes e de salvaguarda do sigilo profissional.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457662": {
+   "fragment_id": "224576587",
+   "type": 11,
+   "heading": "Artigo 52.º-B — Composição de sociedades multidisciplinares de profissionais",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-B — Composição de sociedades multidisciplinares de profissionais\n\n1 - Os sócios das sociedades multidisciplinares de profissionais devem compor a maioria dos membros dos órgãos de administração e gerência das respetivas sociedades.\n\n2 - Sem prejuízo do disposto no artigo 52.º-F, de entre os sócios da sociedade multidisciplinar de profissionais deve figurar, pelo menos, um membro de cada profissão organizada em associação pública cuja atividade integre o objeto da respetiva sociedade.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457663": {
+   "fragment_id": "224576588",
+   "type": 11,
+   "heading": "Artigo 52.º-C — Sócios e administradores",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-C — Sócios e administradores\n\n1 - Podem ser sócios profissionais, gerentes ou administradores as pessoas físicas que reúnam os requisitos para o exercício das atividades profissionais que integrem o objeto social e as exercem na mesma sociedade.\n\n2 - Podem ser sócios, gerentes ou administradores das sociedades multidisciplinares de profissionais as pessoas físicas que não possuam as qualificações profissionais exigidas para o exercício das profissões organizadas na associação pública profissional respetiva, ficando vinculados aos deveres deontológicos aplicáveis ao exercício das profissões abrangidas, designadamente aos deveres de sigilo, quando existam, e às jurisdições e regimes disciplinares das associações públicas profissionais a que respeitam as atividades que integram o respetivo objeto social.\n\n3 - As funções de orientação e de controlo da atividade funcional prestada à sociedade pelos sócios e colaboradores inscritos nas associações públicas profissionais devem ser, igualmente, asseguradas por profissionais que integrem essas associações.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457664": {
+   "fragment_id": "224576589",
+   "type": 11,
+   "heading": "Artigo 52.º-D — Estrutura orgânica e funcional",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-D — Estrutura orgânica e funcional\n\n1 - Em tudo o que não estiver regulado no presente capítulo, designadamente nas matérias relativas à forma e regime societário, bem como à estrutura orgânica e funcional das sociedades multidisciplinares de profissionais, aplica-se o regime geral da presente lei, com as necessárias adaptações.\n\n2 - Quando deixem de estar verificados os requisitos legais relativos à composição dos órgãos de gerência e administração, os órgãos sociais devem, no prazo de seis meses, adotar as medidas necessárias à sanação da irregularidade.\n\n3 - No caso de inobservância do disposto no número anterior, aplica-se, com as necessárias adaptações, o procedimento administrativo de dissolução estabelecido no Decreto-Lei n.º 76-A/2006, de 29 de março.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457665": {
+   "fragment_id": "224576590",
+   "type": 11,
+   "heading": "Artigo 52.º-E — Deveres",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-E — Deveres\n\n1 - Todos aqueles que exerçam funções na sociedade multidisciplinar de profissionais encontram-se vinculados a deveres de lealdade, de confidencialidade, de sigilo profissional e de prevenção de conflitos de interesses, bem como aos deveres deontológicos que correspondam ao exercício de cada profissão organizada em associação pública cuja atividade integre o objeto da respetiva sociedade, e sujeitos à jurisdição e regime disciplinares da respetiva associação pública profissional.\n\n2 - O disposto no número anterior não obsta à partilha, entre aqueles, das informações necessárias à organização do trabalho e à realização de atos profissionais no interesse dos clientes.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457666": {
+   "fragment_id": "224576591",
+   "type": 11,
+   "heading": "Artigo 52.º-F — Controlo de risco",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-F — Controlo de risco\n\n1 - A função permanente de controlo de risco tem as seguintes competências:\n\na) Implementar a política e os procedimentos de gestão de riscos de incompatibilidades, impedimentos, conflitos de interesses, a independência técnica e a proteção de informação de clientes e de salvaguarda do sigilo profissional;\n\nb) Analisar potenciais situações de incompatibilidades, impedimentos, conflitos de interesses, riscos para a independência técnica e a proteção de informação de clientes e de salvaguarda do sigilo e propor ao órgão de gestão da sociedade a recusa e a cessação da prestação de serviços suscetíveis de gerar aquelas situações;\n\nc) Transmitir ao órgão de gestão todas as situações suscetíveis de gerar incompatibilidades, impedimentos, conflitos de interesses, riscos para a independência técnica e a proteção de informação de clientes e de salvaguarda do sigilo;\n\nd) Fornecer relatórios regulares ao órgão de gestão sobre os procedimentos de gestão de riscos de incompatibilidades, impedimentos, conflitos de interesses, para a independência técnica e a proteção de informação de clientes e de salvaguarda do sigilo.\n\n2 - A função permanente de gestão dos riscos:\n\na) Tem a autoridade necessária e acesso a toda a informação relevante para efeitos de cumprimento dos deveres referidos no número anterior;\n\nb) É hierárquica e funcionalmente independente do órgão de gestão e das unidades operacionais, não podendo ser exercida por membro daquele órgão, exceto se tal não for adequado e proporcional face à natureza, à escala e à complexidade da atividade da sociedade.\n\n3 - O órgão de gestão da sociedade deve garantir a recusa e a cessação das prestações de serviços a clientes suscetíveis de gerar conflitos de interesses.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457667": {
+   "fragment_id": "224576592",
+   "type": 11,
+   "heading": "Artigo 52.º-G — Responsabilidade solidária",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-G — Responsabilidade solidária\n\n1 - As sociedades e os sócios são solidariamente responsáveis pela inobservância das regras deontológicas pelos profissionais e colaboradores que exerçam as respetivas atividades na sociedade multidisciplinar de profissionais, ficando sujeitos à jurisdição e regime disciplinares da associação pública profissional a que respeite a atividade que haja dado causa à infração.\n\n2 - A sociedade multidisciplinar de profissionais deve celebrar um contrato de seguro de responsabilidade civil profissional.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457668": {
+   "fragment_id": "224576593",
+   "type": 11,
+   "heading": "Artigo 52.º-H — Registo de sociedades multidisciplinares",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-H — Registo de sociedades multidisciplinares\n\n1 - As sociedades multidisciplinares apenas podem iniciar o exercício da atividade profissional relativa a uma profissão organizada em associação pública profissional após a sua inscrição na associação pública profissional respetiva.\n\n2 - As sociedades multidisciplinares inscrevem-se ainda em registo central, consultável pelas associações públicas profissionais e de acesso público, a regular por portaria do membro do Governo responsável pela área da administração pública.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457659": {
+   "fragment_id": "107749797",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições transitórias e finais",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "### Capítulo XII — Disposições transitórias e finais\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457669": {
+   "fragment_id": "224576594",
+   "type": 11,
+   "heading": "Artigo 52.º-I — Cooperativas",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 52.º-I — Cooperativas\n\nO disposto na presente lei e no Código Cooperativo aplica-se, com as necessárias adaptações, à constituição de cooperativas de profissionais sujeitos a associações públicas profissionais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2023-224461523), em vigor a partir de 2024-03-19"
+  },
+  "224457670": {
+   "fragment_id": "107749798",
+   "type": 11,
+   "heading": "Artigo 53.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Norma transitória\n\nAs sociedades de profissionais constituídas antes da entrada em vigor da presente lei devem adotar as regras nesta estabelecidas no prazo de 180 dias, a contar da data da entrada em vigor da lei que adaptar os estatutos da respetiva associação pública profissional à Lei n.º 2/2013, de 10 de janeiro, sob pena de passarem a ser consideradas sociedades de regime geral, com o cancelamento automático da respetiva inscrição na associação pública profissional de que fossem membros."
+  },
+  "224457671": {
+   "fragment_id": "107749799",
+   "type": 11,
+   "heading": "Artigo 54.º — Usurpação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Usurpação de funções\n\n1 - Se duas ou mais pessoas, quer pelo uso de uma firma comum, quer por qualquer outro meio, criarem a falsa aparência de que existe entre elas um contrato de sociedade de profissionais, praticam o crime de usurpação de funções, punível com pena de prisão até dois anos ou com pena de multa até 240 dias.\n\n2 - As sociedades e as organizações de facto que resultem do número anterior são responsáveis, nos termos gerais, pelo crime previsto no mesmo número."
+  },
+  "224457672": {
+   "fragment_id": "107749800",
+   "type": 11,
+   "heading": "Artigo 55.º — Derrogação",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 55.º — Derrogação\n\nNo caso de profissões que prossigam, na globalidade ou em alguns dos seus atos e atividades, missões específicas de interesse público, ou no caso de profissões cuja globalidade de atos ou atividades tenha uma ligação direta e específica ao exercício de poderes de autoridade pública, podem ser estabelecidos, nos estatutos da respetiva associação pública profissional ou noutras leis, requisitos de constituição e funcionamento de sociedades de profissionais, e requisitos de inscrição de organizações associativas de profissionais, diversos dos previstos na presente lei, desde que se mostrem justificados e proporcionais, respetivamente, por razões imperiosas de interesse geral ligadas à prossecução da missão de interesse público em causa, ou ao exercício daqueles poderes de autoridade pública.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "224457673": {
+   "fragment_id": "107749801",
+   "type": 11,
+   "heading": "Artigo 56.º — Balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Balcão único\n\n1 - Todos os pedidos, comunicações e notificações previstos na presente lei, entre a associação pública profissional e profissionais, sociedades de profissionais ou outras organizações associativas de profissionais, são realizados por meios eletrónicos, através do balcão único eletrónico dos serviços, referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do sítio na Internet da associação pública profissional em causa.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação pode ser feita por entrega nos serviços da associação pública profissional em causa, por correio eletrónico, por telecópia ou por remessa pelo correio sob registo.\n\n3 - A apresentação de documentos em forma simples, nos termos dos números anteriores, dispensa a remessa dos documentos originais, autênticos, autenticados ou certificados, sem prejuízo do disposto nas alíneas a) e c) do n.º 3 e nos n.os 4 e 5 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n4 - É ainda aplicável aos procedimentos referidos no presente artigo o disposto nas alíneas d) e e) do artigo 5.º e no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "224457674": {
+   "fragment_id": "107749802",
+   "type": 11,
+   "heading": "Artigo 57.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Cooperação administrativa\n\nAs associações públicas profissionais competentes nos termos da presente lei prestam e solicitam às autoridades administrativas dos outros Estados membros da União Europeia e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente, nomeadamente através do Sistema de Informação do Mercado Interno, no âmbito dos procedimentos relativos a prestadores de serviços já estabelecidos noutro Estado membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio."
+  },
+  "224577175": {
+   "fragment_id": "107749803",
+   "type": 11,
+   "heading": "Artigo 58.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "224457660": {
+   "fragment_id": "107749804",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de abril de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 26 de maio de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 28 de maio de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

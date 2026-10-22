@@ -1,0 +1,918 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:638174:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-885057893",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2007-638174",
+ "source_lastmod": "2024-08-21",
+ "versions": [
+  {
+   "date": "2007-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885062545",
+    "885062546",
+    "885062547",
+    "885062548",
+    "885062549",
+    "885062550",
+    "885062551",
+    "885062552",
+    "885062553",
+    "885062554",
+    "885062555",
+    "885062556",
+    "885062557",
+    "885062558",
+    "885062559",
+    "885062560",
+    "885062561",
+    "885062562",
+    "885062563",
+    "885062564",
+    "885062565",
+    "885062566",
+    "885062567",
+    "885062568",
+    "885062569",
+    "885062570",
+    "885062571",
+    "885062572",
+    "885062573",
+    "885062574",
+    "885064275",
+    "885064276",
+    "885064277",
+    "885064278",
+    "885064279",
+    "885064280",
+    "885064281",
+    "885064282",
+    "885064283",
+    "885064284",
+    "885064285",
+    "885064286",
+    "885064287",
+    "885064288",
+    "885064289",
+    "885064290",
+    "885064291",
+    "885064292",
+    "885064293",
+    "885064294",
+    "885064295",
+    "885064296",
+    "885064297",
+    "885064298",
+    "885064299",
+    "885064300",
+    "885064301",
+    "885064302",
+    "885064303",
+    "885064304",
+    "885064305",
+    "885064306",
+    "885064307",
+    "885064308",
+    "885064309",
+    "885064310",
+    "885064311",
+    "885064312",
+    "885064313"
+   ]
+  },
+  {
+   "date": "2011-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:287823:por",
+     "title": "Decreto Legislativo Regional n.º 13/2011/A",
+     "published": "2011-05-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2011-287823"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 25.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 46.º"
+   ],
+   "fragments": [
+    "885062545",
+    "885062546",
+    "885062547",
+    "885062548",
+    "885062549",
+    "885062550",
+    "885062551",
+    "885062552",
+    "885064490",
+    "885062554",
+    "885062555",
+    "885064491",
+    "885062557",
+    "885062558",
+    "885064492",
+    "885062560",
+    "885062561",
+    "885062562",
+    "885062563",
+    "885062564",
+    "885062565",
+    "885062566",
+    "885062567",
+    "885062568",
+    "885062569",
+    "885062570",
+    "885062571",
+    "885062572",
+    "885062573",
+    "885062574",
+    "885064275",
+    "885064493",
+    "885064277",
+    "885064278",
+    "885064279",
+    "885064280",
+    "885064281",
+    "885064282",
+    "885064283",
+    "885064284",
+    "885064285",
+    "885064286",
+    "885064287",
+    "885064494",
+    "885064289",
+    "885064290",
+    "885064291",
+    "885064292",
+    "885064293",
+    "885064294",
+    "885064495",
+    "885064296",
+    "885064497",
+    "885064298",
+    "885064299",
+    "885064300",
+    "885064301",
+    "885064302",
+    "885064496",
+    "885064304",
+    "885064305",
+    "885064306",
+    "885064307",
+    "885064308",
+    "885064309",
+    "885064310",
+    "885064311",
+    "885064312",
+    "885064313",
+    "885064314"
+   ]
+  },
+  {
+   "date": "2026-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031450:por",
+     "title": "Decreto Legislativo Regional n.º 27/2025/A",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2025-993031450"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 48.º"
+   ],
+   "fragments": [
+    "885062545",
+    "885062546",
+    "885062547",
+    "885062548",
+    "885062549",
+    "885062550",
+    "885062551",
+    "885062552",
+    "885064490",
+    "885062554",
+    "885062555",
+    "885064491",
+    "885062557",
+    "885062558",
+    "885064492",
+    "885062560",
+    "885062561",
+    "885062562",
+    "885062563",
+    "885062564",
+    "885062565",
+    "885062566",
+    "885062567",
+    "885062568",
+    "885062569",
+    "885062570",
+    "885062571",
+    "885062572",
+    "885062573",
+    "885062574",
+    "885064275",
+    "885064493",
+    "885064277",
+    "885064278",
+    "885064279",
+    "885064280",
+    "885064281",
+    "885064282",
+    "885064283",
+    "885064284",
+    "885064285",
+    "885064286",
+    "885064287",
+    "885064494",
+    "885064289",
+    "885064290",
+    "885064291",
+    "885064292",
+    "885064293",
+    "885064294",
+    "885064495",
+    "885064296",
+    "885064497",
+    "885064298",
+    "885064299",
+    "885064300",
+    "885064301",
+    "885064302",
+    "885064496",
+    "885064304",
+    "998506088",
+    "885064306",
+    "885064307",
+    "885064308",
+    "885064309",
+    "885064310",
+    "885064311",
+    "885064312",
+    "885064313",
+    "885064314"
+   ]
+  }
+ ],
+ "fragments": {
+  "885062545": {
+   "fragment_id": "885057894",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 13/2007/A\n\nRegime jurídico dos institutos públicos e fundações regionais\n\nO presente diploma estabelece os princípios e as normas por que se regem os institutos públicos regionais.\n\nTrata-se de uma medida de carácter inovatório na Região Autónoma dos Açores e que se insere no pacote de medidas legislativas que se tem vindo a implementar no âmbito regional, designadamente as que respeitam ao estatuto do pessoal dirigente dos serviços e organismos da administração regional e ao regime jurídico da administração directa.\n\nNeste diploma relativo à administração indirecta da Região, procede-se à criação e enquadramento dos institutos públicos regionais, consagrando-se um conjunto de normas respeitantes aos princípios fundamentais a que devem obedecer, bem como as normas organizativas em que se densificam as regras relativas à composição, nomeação, competências dos conselhos directivos, do fiscal único e do conselho consultivo.\n\nTambém se estabelece, no que respeita à sua organização e funcionamento, que os institutos públicos regionais devem ser aprovados mediante decreto regulamentar regional, pautando-se a sua estrutura por um modelo organizacional pouco hierarquizado e flexível, por forma a prosseguir as respectivas atribuições segundo critérios gestionários caracterizados pela racionalidade, eficácia e uma melhor prestação de serviço aos cidadãos.\n\nConsagra-se, ainda, um conjunto de regras relativas à gestão económico-financeira e patrimonial que devem ser prosseguidas pelos institutos públicos regionais, bem como normas que se relacionam com a tutela e superintendência governamentais.\n\nPor fim, e atenta a realidade regional, prevê-se a criação de institutos públicos regionais com organização simplificada, sempre que se verificar uma menor complexidade no funcionamento dos mesmos.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "885062546": {
+   "fragment_id": "885057895",
+   "type": 13,
+   "heading": "Título I — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Objecto e âmbito de aplicação"
+  },
+  "885062547": {
+   "fragment_id": "885057896",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece os princípios e as normas por que se regem os institutos públicos e fundações regionais da Região Autónoma dos Açores.\n\n2 - As normas constantes do presente diploma são de aplicação imperativa e prevalecem sobre as normas especiais actualmente em vigor, salvo na medida em que o contrário resulte expressamente do presente decreto legislativo regional."
+  },
+  "885062548": {
+   "fragment_id": "885057897",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Os institutos públicos e fundações regionais integram a administração indirecta da Região Autónoma dos Açores.\n\n2 - O presente diploma é aplicável aos institutos públicos e fundações regionais da Região Autónoma dos Açores."
+  },
+  "885062549": {
+   "fragment_id": "885057898",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologia\n\n1 - Para efeitos do presente diploma, consideram-se institutos públicos regionais, independentemente da sua designação, os serviços e fundos da entidade referida no artigo 2.º, quando dotados de personalidade jurídica.\n\n2 - Quer os serviços personalizados, quer os fundos personalizados, também designados como fundações públicas, podem organizar-se em um ou mais estabelecimentos, como tal se designando as universalidades compostas por pessoal, bens, direitos e obrigações e posições contratuais do instituto afectos em determinado local à produção de bens ou à prestação de serviços no quadro das atribuições do instituto.\n\n3 - Não se consideram abrangidas nesta lei as entidades públicas empresariais previstas no Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pela Região Autónoma dos Açores não são abrangidas por este diploma, devendo essa criação ser sempre autorizada por diploma legal."
+  },
+  "885062550": {
+   "fragment_id": "885057899",
+   "type": 13,
+   "heading": "Título II — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Princípios fundamentais"
+  },
+  "885062551": {
+   "fragment_id": "885057900",
+   "type": 11,
+   "heading": "Artigo 4.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conceito\n\n1 - Os institutos públicos regionais são pessoas colectivas de direito público, dotadas de órgãos e património próprios.\n\n2 - Os institutos públicos regionais devem em regra preencher os requisitos de que depende a autonomia administrativa e financeira.\n\n3 - Em casos excepcionais, devidamente fundamentados, podem ser criados institutos públicos regionais apenas dotados de autonomia administrativa."
+  },
+  "885062552": {
+   "fragment_id": "885057901",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios de gestão\n\n1 - Os institutos públicos regionais devem observar os seguintes princípios de gestão:\n\na) Prestação de um serviço aos cidadãos com a qualidade exigida por lei;\n\nb) Garantia de eficiência económica nos custos suportados e nas soluções adoptadas para prestar esse serviço;\n\nc) Gestão por objectivos devidamente quantificados e avaliação periódica em função dos resultados;\n\nd) Observância dos princípios gerais da actividade administrativa, quando estiver em causa a gestão pública.\n\n2 - Os órgãos de direcção dos institutos públicos regionais devem assegurar que os recursos públicos de que dispõem são administrados de uma forma eficiente e sem desperdícios, devendo sempre adoptar ou propor as soluções organizativas e os métodos de actuação que representem o menor custo na prossecução eficaz das atribuições públicas a seu cargo."
+  },
+  "885062553": {
+   "fragment_id": "885057902",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime jurídico\n\n1 - Os institutos públicos regionais regem-se pelas normas constantes do presente diploma e demais legislação aplicável às pessoas colectivas públicas, em geral, e aos institutos públicos regionais, em especial, bem como pelos respectivos estatutos e regulamentos internos.\n\n2 - São, designadamente, aplicáveis aos institutos públicos regionais, quaisquer que sejam as particularidades dos seus estatutos e do seu regime de gestão, mas com as ressalvas estabelecidas no título IV do presente diploma:\n\na) O Código do Procedimento Administrativo, no que respeita à actividade de gestão pública, envolvendo o exercício de poderes de autoridade, a gestão da função pública ou do domínio público, ou a aplicação de outros regimes jurídico-administrativos;\n\nb) O regime jurídico da função pública ou o do contrato individual de trabalho, de acordo com o regime de pessoal aplicável;\n\nc) O regime da administração financeira e patrimonial do Estado e da Região;\n\nd) O regime das empreitadas de obras públicas;\n\ne) O regime da realização de despesas públicas e da contratação pública;\n\nf) O regime das incompatibilidades de cargos públicos;\n\ng) O regime da responsabilidade civil do Estado;\n\nh) As leis do contencioso administrativo, quando estejam em causa actos e contratos de natureza administrativa;\n\ni) O regime de jurisdição e controlo financeiro do Tribunal de Contas."
+  },
+  "885062554": {
+   "fragment_id": "885057903",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento regional da tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Departamento regional da tutela\n\n1 - Cada instituto está adstrito a um departamento regional, abreviadamente designado como secretaria regional da tutela, em cuja lei orgânica deve ser mencionado.\n\n2 - No caso de a tutela sobre um determinado instituto público regional ser repartida ou partilhada por mais de um membro do Governo Regional, aquele considera-se adstrito ao departamento regional cujo membro do Governo Regional sobre ele exerça poderes de superintendência."
+  },
+  "885062555": {
+   "fragment_id": "885057904",
+   "type": 11,
+   "heading": "Artigo 8.º — Fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fins\n\n1 - Os institutos públicos regionais só podem ser criados para o desenvolvimento de atribuições que recomendem, face à especificidade técnica da actividade desenvolvida, designadamente no domínio da produção de bens e da prestação de serviços, a necessidade de uma gestão não submetida à direcção do Governo Regional.\n\n2 - Os institutos públicos regionais não podem ser criados para:\n\na) Desenvolver actividades que nos termos da Constituição e do Estatuto Político-Administrativo da Região Autónoma dos Açores devam ser desempenhadas por organismos da administração directa da Região Autónoma dos Açores;\n\nb) Personificar serviços de estudo e concepção ou serviços de coordenação, apoio e controlo de outros serviços administrativos.\n\n3 - Cada instituto público regional só pode prosseguir os fins específicos que justificaram a sua criação."
+  },
+  "885062556": {
+   "fragment_id": "885057905",
+   "type": 11,
+   "heading": "Artigo 9.º — Formas de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formas de criação\n\n1 - Os institutos públicos regionais são criados por decreto legislativo regional.\n\n2 - O diploma que proceder à criação de um instituto ou lei orgânica define a sua designação, sede e jurisdição territorial, fins ou atribuições, membro do Governo Regional da tutela, a opção do regime de pessoal, os meios patrimoniais e financeiros atribuídos e incluirá as disposições legais de carácter especial que se revelem necessárias, em especial sobre matérias não reguladas neste diploma e nos diplomas legais genericamente aplicáveis ao novo instituto.\n\n3 - Os institutos públicos regionais podem iniciar o seu funcionamento em regime de instalação, nos termos da lei geral."
+  },
+  "885062557": {
+   "fragment_id": "885057906",
+   "type": 11,
+   "heading": "Artigo 10.º — Requisitos e processos de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos e processos de criação\n\n1 - A criação de institutos públicos regionais obedece cumulativamente à verificação dos seguintes requisitos:\n\na) Necessidade de criação de um novo organismo para consecução dos objectivos visados;\n\nb) Necessidade da personalidade jurídica, e da consequente ausência de poder de direcção do Governo Regional, para a prossecução das atribuições em causa;\n\nc) Condições financeiras próprias dos serviços e fundos autónomos, sempre que disponha de autonomia financeira;\n\nd) Se for caso disso, condições estabelecidas para a categoria específica de institutos em que se integra o novo organismo.\n\n2 - A criação de um instituto público regional será sempre precedida de um estudo sobre a sua necessidade e implicações financeiras e sobre os seus efeitos relativamente ao sector em que vai exercer a sua actividade."
+  },
+  "885062558": {
+   "fragment_id": "885057907",
+   "type": 11,
+   "heading": "Artigo 11.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação\n\nPara além das medidas previstas na lei de enquadramento orçamental da Região, bem como todas as outras normas constantes dos diplomas que aprovam e executam os orçamentos regionais referentes ao controlo da despesa pública, pode ser determinada, por despacho conjunto dos membros do Governo Regional responsáveis pela área das finanças e da tutela, uma avaliação do grau de cumprimento da missão e dos objectivos de cada instituto público regional, a realizar por auditores externos ou por órgãos de controlo oficiais."
+  },
+  "885062559": {
+   "fragment_id": "885057908",
+   "type": 11,
+   "heading": "Artigo 12.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estatutos\n\n1 - Os estatutos são aprovados por decreto regulamentar regional e, em tudo o mais, por regulamentos internos, propostos pelos órgãos do instituto e aprovados por despacho normativo dos membros do Governo Regional responsáveis pela área das finanças e da tutela.\n\n2 - Nos casos de autonomia estatutária, nos termos da Constituição ou de lei especial, os estatutos são elaborados pelo próprio instituto, ainda que sujeitos a aprovação ou homologação governamental, a qual revestirá a forma de despacho normativo."
+  },
+  "885062560": {
+   "fragment_id": "885057909",
+   "type": 11,
+   "heading": "Artigo 13.º — Criação ou participação em entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Criação ou participação em entidades de direito privado\n\nOs institutos públicos regionais não podem criar entes de direito privado ou participar na sua criação nem adquirir participações em tais entidades, excepto quando esteja previsto na lei ou nos estatutos e se mostrar imprescindível para a prossecução das respectivas atribuições, casos em que é necessária a autorização prévia do Conselho do Governo Regional, mediante resolução."
+  },
+  "885062561": {
+   "fragment_id": "885057910",
+   "type": 11,
+   "heading": "Artigo 14.º — Princípio da especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Princípio da especialidade\n\n1 - Sem prejuízo da observância do princípio da legalidade no domínio da gestão pública, e salvo disposição expressa em contrário, a capacidade jurídica dos institutos públicos regionais abrange a prática de todos os actos jurídicos, o gozo de todos os direitos e a sujeição a todas as obrigações necessárias à prossecução do seu objecto.\n\n2 - Os institutos públicos regionais não podem exercer actividade ou usar os seus poderes fora das suas atribuições nem dedicar os seus recursos a finalidades diversas das que lhes tenham sido cometidas.\n\n3 - Em especial, os institutos públicos regionais não podem garantir a terceiros o cumprimento de obrigações de outras pessoas jurídicas, públicas ou privadas, salvo se a lei o autorizar expressamente."
+  },
+  "885062562": {
+   "fragment_id": "885057911",
+   "type": 11,
+   "heading": "Artigo 15.º — Organização territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Organização territorial\n\nOs institutos públicos regionais têm o âmbito territorial constante dos respectivos estatutos, podendo dispor de serviços desconcentrados."
+  },
+  "885062563": {
+   "fragment_id": "885057912",
+   "type": 11,
+   "heading": "Artigo 16.º — Reestruturação, fusão e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reestruturação, fusão e extinção\n\n1 - Os diplomas que procedam à reestruturação, fusão ou extinção de institutos públicos regionais regularão igualmente os termos da liquidação e o destino do seu pessoal.\n\n2 - Os institutos públicos regionais devem ser extintos:\n\na) Quando tenha decorrido o prazo pelo qual tenham sido criados;\n\nb) Quando tenham sido alcançados os fins para os quais tenham sido criados, ou se tenha tornado impossível a sua prossecução;\n\nc) Quando se verifique não subsistirem as razões que ditaram a personificação do serviço ou fundo em causa;\n\nd) Quando a Região tiver de cumprir obrigações assumidas pelos órgãos do instituto para as quais o respectivo património se revele insuficiente.\n\n3 - A reestruturação, fusão ou extinção de institutos públicos regionais são objecto de diploma de valor igual ao da sua criação."
+  },
+  "885062564": {
+   "fragment_id": "885057913",
+   "type": 13,
+   "heading": "Título III — Regime comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Regime comum"
+  },
+  "885062565": {
+   "fragment_id": "885057914",
+   "type": 1,
+   "heading": "Capítulo I — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Organização"
+  },
+  "885062566": {
+   "fragment_id": "885057915",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos"
+  },
+  "885062567": {
+   "fragment_id": "885057916",
+   "type": 11,
+   "heading": "Artigo 17.º — Órgãos necessários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Órgãos necessários\n\n1 - São órgãos necessários dos institutos públicos regionais, sem prejuízo do disposto no artigo 45.º:\n\na) O conselho directivo;\n\nb) O fiscal único.\n\n2 - Os estatutos podem prever outros órgãos, nomeadamente de natureza consultiva ou de participação dos destinatários da respectiva actividade."
+  },
+  "885062568": {
+   "fragment_id": "885057917",
+   "type": 8,
+   "heading": "Secção II — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho directivo"
+  },
+  "885062569": {
+   "fragment_id": "885057918",
+   "type": 11,
+   "heading": "Artigo 18.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Função\n\nO conselho directivo é o órgão colegial responsável pela definição da actuação do instituto, bem como pela direcção dos respectivos serviços, em conformidade com a lei e com as orientações governamentais."
+  },
+  "885062570": {
+   "fragment_id": "885057919",
+   "type": 11,
+   "heading": "Artigo 19.º — Composição e nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição e nomeação\n\n1 - O conselho directivo é um órgão colegial composto por um presidente e dois ou quatro vogais, podendo ter também um vice-presidente em vez de um dos vogais.\n\n2 - O presidente é substituído, nas faltas e impedimentos, pelo vice-presidente, se o houver, ou pelo vogal que ele indicar e, na sua falta, pelo vogal mais antigo.\n\n3 - Os membros do conselho directivo, recrutados nos termos a definir no diploma a que se refere o artigo 33.º, são nomeados por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional da tutela, sob proposta deste.\n\n4 - A nomeação é acompanhada da publicação de uma nota sobre o currículo académico e profissional dos nomeados.\n\n5 - Não pode haver nomeação de membros do conselho directivo depois da demissão do Governo Regional ou da convocação de eleições para a Assembleia Legislativa da Região Autónoma dos Açores, nem antes da confirmação parlamentar do Governo Regional recém-nomeado."
+  },
+  "885062571": {
+   "fragment_id": "885057920",
+   "type": 11,
+   "heading": "Artigo 20.º — Duração e cessação do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Duração e cessação do mandato\n\n1 - O mandato dos membros do conselho directivo tem a duração de três anos, sendo renovável por iguais períodos.\n\n2 - Os membros do conselho directivo podem ser livremente exonerados, por quem tem competência para os nomear, podendo a exoneração fundar-se em mera conveniência de serviço.\n\n3 - A exoneração dá lugar, sempre que não se fundamente no decurso do prazo, em motivo justificado ou na dissolução do órgão de direcção e quando não se siga imediatamente novo exercício de funções do mesmo nível ou superior, ao pagamento de uma indemnização de valor correspondente à remuneração base ou equivalente vincenda até ao termo do mandato, com o limite máximo de 12 meses.\n\n4 - A indemnização eventualmente devida é reduzida ao montante da diferença entre a remuneração base ou equivalente como membro do conselho directivo e a remuneração base do lugar de origem à data da cessação de funções directivas.\n\n5 - Considera-se motivo justificado para efeitos do disposto no n.º 3:\n\na) A falta grave de observância da lei ou dos estatutos do instituto;\n\nb) A violação grave dos deveres que lhe foram cometidos como membro do conselho directivo.\n\n6 - O apuramento do motivo justificado pressupõe a prévia audiência do membro do conselho sobre as razões invocadas, mas não implica o estabelecimento ou organização de qualquer processo.\n\n7 - O conselho directivo pode ser dissolvido mediante despacho fundamentado dos membros do Governo Regional competentes para a nomeação, por motivo justificado, nomeadamente:\n\na) O incumprimento das orientações, recomendações ou directivas dos departamentos regionais no âmbito do poder de superintendência;\n\nb) O incumprimento dos objectivos definidos no plano de actividades aprovado ou desvio substancial entre o orçamento e a sua execução, salvo por razões não imputáveis ao órgão;\n\nc) A prática de infracções graves ou reiteradas às normas que regem o instituto;\n\nd) A inobservância dos princípios de gestão fixados neste diploma;\n\ne) O incumprimento de obrigações legais que, nos termos da lei, constituam fundamento de destituição dos seus órgãos.\n\n8 - A dissolução implica a cessação do mandato de todos os membros do conselho directivo.\n\n9 - No caso de cessação do mandato, os membros do conselho directivo mantêm-se no exercício das suas funções até à efectiva substituição, salvo se expressamente estes forem afastados, mas podem renunciar ao mandato com a antecedência mínima de três meses sobre a data em que se propõem cessar funções."
+  },
+  "885062572": {
+   "fragment_id": "885057921",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência\n\n1 - Compete ao conselho directivo, no âmbito da orientação e gestão do instituto:\n\na) Dirigir a respectiva actividade;\n\nb) Elaborar os planos anuais e plurianuais de actividades e assegurar a respectiva execução;\n\nc) Acompanhar e avaliar sistematicamente a actividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos;\n\nd) Elaborar o relatório de actividades;\n\ne) Elaborar o balanço social, nos termos da lei aplicável;\n\nf) Exercer os poderes de direcção, gestão e disciplina do pessoal;\n\ng) Praticar actos respeitantes ao pessoal previstos na lei e nos estatutos;\n\nh) Aprovar os projectos dos regulamentos previstos nos estatutos e os que sejam necessários ao desempenho das atribuições do instituto;\n\ni) Praticar os demais actos de gestão decorrentes da aplicação dos estatutos e necessários ao bom funcionamento dos serviços;\n\nj) Nomear os representantes do instituto em organismos exteriores;\n\nl) Exercer os poderes que lhe tenham sido delegados;\n\nm) Elaborar pareceres, estudos e informações que lhe sejam solicitados pelo membro do Governo Regional da tutela;\n\nn) Constituir mandatários do instituto, em juízo e fora dele, incluindo com o poder de substabelecer;\n\no) Designar um secretário, a quem caberá certificar os actos e deliberações.\n\n2 - Compete ao conselho directivo, no domínio da gestão financeira e patrimonial:\n\na) Elaborar o orçamento anual e assegurar a respectiva execução;\n\nb) Arrecadar e gerir as receitas e autorizar as despesas;\n\nc) Elaborar a conta de gerência;\n\nd) Gerir o património;\n\ne) Aceitar doações, heranças ou legados;\n\nf) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;\n\ng) Exercer os demais poderes previstos nos estatutos e que não estejam atribuídos a outro órgão.\n\n3 - Os institutos públicos regionais são representados, designadamente, em juízo ou na prática de actos jurídicos, pelo presidente do conselho directivo, por dois dos seus membros, ou por mandatários especialmente designados.\n\n4 - Sem prejuízo do disposto na alínea n) do n.º 1, o conselho directivo pode sempre optar por solicitar o apoio e a representação em juízo por parte do Ministério Público, ao qual competirá, nesse caso, defender os interesses do instituto.\n\n5 - Os actos administrativos da autoria do conselho directivo são impugnáveis junto dos tribunais administrativos, nos termos das leis do processo administrativo."
+  },
+  "885062573": {
+   "fragment_id": "885057922",
+   "type": 11,
+   "heading": "Artigo 22.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Funcionamento\n\n1 - O conselho directivo reúne uma vez por semana e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n2 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n3 - A acta das reuniões deve ser aprovada e assinada por todos os membros presentes, mas os membros discordantes do teor da acta poderão nela exarar as respectivas declarações de voto."
+  },
+  "885062574": {
+   "fragment_id": "885057923",
+   "type": 11,
+   "heading": "Artigo 23.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competência do presidente\n\n1 - Compete, em especial, ao presidente do conselho directivo:\n\na) Presidir às reuniões, orientar os seus trabalhos e assegurar o cumprimento das respectivas deliberações;\n\nb) Assegurar as relações com os órgãos de tutela e com os demais organismos públicos;\n\nc) Solicitar pareceres ao órgão de fiscalização e ao conselho consultivo, quando exista;\n\nd) Exercer as competências que lhe sejam delegadas pelo conselho directivo.\n\n2 - O presidente pode delegar ou subdelegar competências no vice-presidente, quando exista, ou nos vogais."
+  },
+  "885064275": {
+   "fragment_id": "885057924",
+   "type": 11,
+   "heading": "Artigo 24.º — Responsabilidade dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidade dos membros\n\n1 - Os membros do conselho directivo são solidariamente responsáveis pelos actos praticados no exercício das suas funções.\n\n2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem manifestado o seu desacordo, em declaração registada na respectiva acta, bem como os membros ausentes que tenham declarado por escrito o seu desacordo, que igualmente será registado na acta."
+  },
+  "885064276": {
+   "fragment_id": "885057925",
+   "type": 11,
+   "heading": "Artigo 25.º — Estatuto dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Estatuto dos membros\n\n1 - Aos membros do conselho directivo é aplicável o regime definido no presente diploma e, subsidiariamente, o fixado no Estatuto do Gestor Público ou no estatuto do pessoal dirigente da administração pública regional, nos termos a definir no diploma a que se refere o artigo 33.º\n\n2 - O estatuto remuneratório dos membros do conselho directivo consta do diploma a que se refere o artigo 33.º, o qual pode estabelecer diferenciações entre diferentes tipos de institutos, tendo em conta, nomeadamente, os sectores de actividade e a complexidade da gestão.\n\n3 - Aos membros do conselho directivo é aplicável o disposto no Decreto-Lei n.º 148/2000, de 19 de Julho."
+  },
+  "885064277": {
+   "fragment_id": "885057926",
+   "type": 8,
+   "heading": "Secção III — Órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgão de fiscalização"
+  },
+  "885064278": {
+   "fragment_id": "885057927",
+   "type": 11,
+   "heading": "Artigo 26.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Função\n\nO fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do instituto."
+  },
+  "885064279": {
+   "fragment_id": "885057928",
+   "type": 11,
+   "heading": "Artigo 27.º — Designação, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Designação, mandato e remuneração\n\n1 - O fiscal único é nomeado por despacho conjunto dos membros do Governo Regional responsáveis pela área das finanças e da tutela, obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas.\n\n2 - O mandato tem a duração de três anos, podendo ser renovável por igual período, mediante despacho conjunto dos membros do Governo Regional referidos no número anterior.\n\n3 - No caso de cessação do mandato, o fiscal único mantém-se no exercício de funções até à efectiva substituição ou à declaração governamental de cessação de funções.\n\n4 - A remuneração do fiscal único é aprovada por despacho conjunto dos membros do Governo Regional responsáveis pela área das finanças e da tutela, publicado no Jornal Oficial."
+  },
+  "885064280": {
+   "fragment_id": "885057929",
+   "type": 11,
+   "heading": "Artigo 28.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competências\n\n1 - Compete ao fiscal único:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial e analisar a contabilidade;\n\nb) Dar parecer sobre o orçamento e suas revisões e alterações, bem como sobre o plano de actividades na perspectiva da sua cobertura orçamental;\n\nc) Dar parecer sobre o relatório de gestão de exercício e contas de gerência, incluindo documentos de certificação legal de contas;\n\nd) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\ne) Dar parecer sobre a aceitação de doações, heranças ou legados;\n\nf) Dar parecer sobre a contratação de empréstimos, quando o instituto esteja habilitado a fazê-lo;\n\ng) Manter o conselho directivo informado sobre os resultados das verificações e exames a que proceda;\n\nh) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;\n\ni) Propor ao membro do Governo Regional da tutela ou ao conselho directivo a realização de auditorias externas, quando isso se revelar necessário ou conveniente;\n\nj) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho directivo, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira da Região.\n\n2 - O prazo para elaboração dos pareceres referidos no número anterior é de 15 dias a contar da recepção dos documentos a que respeitam.\n\n3 - Para exercício da sua competência, o fiscal único tem direito a:\n\na) Obter do conselho directivo as informações e os esclarecimentos que repute necessários;\n\nb) Ter livre acesso a todos os serviços e à documentação do instituto, podendo requisitar a presença dos respectivos responsáveis, e solicitar os esclarecimentos que considere necessários;\n\nc) Tomar ou propor as demais providências que considere indispensáveis.\n\n4 - O fiscal único não pode ter exercido actividades remuneradas no instituto nos últimos três anos antes do início das suas funções e não poderá exercer actividades remuneradas no instituto público regional fiscalizado durante os três anos que se seguirem ao termo das suas funções."
+  },
+  "885064281": {
+   "fragment_id": "885057930",
+   "type": 8,
+   "heading": "Secção IV — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho consultivo"
+  },
+  "885064282": {
+   "fragment_id": "885057931",
+   "type": 11,
+   "heading": "Artigo 29.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Função\n\nO conselho consultivo, quando exista, é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação do instituto e nas tomadas de decisão do conselho directivo."
+  },
+  "885064283": {
+   "fragment_id": "885057932",
+   "type": 11,
+   "heading": "Artigo 30.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Composição\n\n1 - O conselho consultivo é composto nomeadamente por representantes das entidades ou organizações representativas dos interessados na actividade do instituto, por representantes de outros organismos públicos, bem como por técnicos e especialistas independentes, nos termos a definir no diploma a que se refere o artigo 33.º\n\n2 - O conselho consultivo pode incluir representantes respectivamente dos beneficiários e dos utentes das actividades ou serviços em causa, cabendo ao membro do Governo Regional da tutela definir as modalidades dessa representação.\n\n3 - O presidente do conselho consultivo é indicado no diploma a que se refere o artigo 33.º e designado nos termos previstos e nomeado por despacho do membro do Governo Regional da tutela.\n\n4 - O exercício dos cargos do conselho consultivo não é remunerado, sem prejuízo do pagamento de ajudas de custo, quando a tal houver lugar."
+  },
+  "885064284": {
+   "fragment_id": "885057933",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competência\n\n1 - Compete ao conselho consultivo dar parecer sobre:\n\na) Os planos anuais e plurianuais de actividades e o relatório de actividades;\n\nb) Os regulamentos internos do instituto.\n\n2 - Compete ainda ao conselho consultivo pronunciar-se sobre as questões que lhe sejam submetidas pelo conselho directivo ou pelo respectivo presidente.\n\n3 - O conselho consultivo pode receber reclamações ou queixas do público sobre a organização e funcionamento em geral do instituto e apresentar ao conselho directivo sugestões ou propostas destinadas a fomentar ou aperfeiçoar as actividades do instituto."
+  },
+  "885064285": {
+   "fragment_id": "885057934",
+   "type": 11,
+   "heading": "Artigo 32.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Funcionamento\n\n1 - O conselho consultivo reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa, ou por solicitação do conselho directivo, ou a pedido de um terço dos seus membros.\n\n2 - Podem participar nas reuniões, sem direito a voto, por convocação do respectivo presidente, mediante proposta do conselho directivo, quaisquer pessoas ou entidades cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação.\n\n3 - O conselho consultivo pode funcionar por secções."
+  },
+  "885064286": {
+   "fragment_id": "885057935",
+   "type": 1,
+   "heading": "Capítulo II — Serviços e pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Serviços e pessoal"
+  },
+  "885064287": {
+   "fragment_id": "885057936",
+   "type": 11,
+   "heading": "Artigo 33.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Serviços\n\n1 - Os institutos públicos regionais dispõem dos serviços indispensáveis à efectivação das suas atribuições, sendo a respectiva organização, funcionamento e quadro de pessoal fixados por decreto regulamentar regional, a aprovar pelo Governo Regional.\n\n2 - A organização adoptada deve possuir uma estrutura pouco hierarquizada e flexível, privilegiando as estruturas matriciais.\n\n3 - Os institutos públicos regionais deverão recorrer à contratação de serviços externos para o desenvolvimento das actividades a seu cargo, sempre que tal método assegure um controlo mais eficiente dos custos e da qualidade do serviço prestado."
+  },
+  "885064288": {
+   "fragment_id": "885057937",
+   "type": 11,
+   "heading": "Artigo 34.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Pessoal\n\nOs institutos públicos regionais devem adoptar o regime do contrato individual de trabalho em relação à totalidade ou parte do respectivo pessoal, sem prejuízo de, quando tal se justificar, adoptarem o regime jurídico da função pública."
+  },
+  "885064289": {
+   "fragment_id": "885057938",
+   "type": 1,
+   "heading": "Capítulo III — Gestão económico-financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gestão económico-financeira e patrimonial"
+  },
+  "885064290": {
+   "fragment_id": "885057939",
+   "type": 11,
+   "heading": "Artigo 35.º — Regime orçamental e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regime orçamental e financeiro\n\n1 - Os institutos públicos regionais encontram-se sujeitos ao regime orçamental e financeiro dos serviços e fundos autónomos, à excepção dos institutos públicos regionais desprovidos de autonomia financeira, aos quais são aplicáveis as normas financeiras dos serviços com autonomia administrativa, sem prejuízo das especificidades constantes do presente diploma.\n\n2 - Anualmente, será fixada, no decreto de execução orçamental regional, a lista de organismos em que o regime de autonomia administrativa e financeira, ou de mera autonomia administrativa, deva sofrer alteração."
+  },
+  "885064291": {
+   "fragment_id": "885057940",
+   "type": 11,
+   "heading": "Artigo 36.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Património\n\n1 - O património próprio dos institutos públicos regionais que disponham de autonomia patrimonial é constituído pelos bens, direitos e obrigações de conteúdo económico, submetidos ao comércio jurídico privado, transferidos pela Região ao instituto quando da sua criação, ou que mais tarde sejam adquiridos pelos seus órgãos, e ainda pelo direito ao uso e fruição dos bens do património da Região que lhes sejam afectos.\n\n2 - Os institutos públicos regionais podem adquirir bens do património da Região que por portaria do membro do Governo Regional responsável pela área das finanças lhes sejam cedidos para fins de interesse público.\n\n3 - Podem ser afectos, por despacho do membro do Governo Regional responsável pela área das finanças, à administração dos institutos públicos regionais os bens do domínio público consignados a fins de interesse público que se enquadrem nas respectivas atribuições e ainda os bens do património da Região que devam ser sujeitos ao seu uso e fruição, podendo essa afectação cessar a qualquer momento por despacho do membro do Governo Regional.\n\n4 - Os bens dos institutos públicos regionais que se revelarem desnecessários ou inadequados ao cumprimento das suas atribuições são incorporados no património da Região, salvo quando devam ser alienados, sendo essa incorporação determinada por despacho conjunto dos membros do Governo Regional responsáveis pela área das finanças e da tutela.\n\n5 - Os institutos públicos regionais elaboram e mantêm actualizado, anualmente, com referência a 31 de Dezembro, o inventário de bens e direitos, tanto os próprios como os da Região que lhes estejam afectos, e prepararão o balanço.\n\n6 - Pelas obrigações do instituto responde apenas o seu património, mas os credores, uma vez executada a integralidade do património do mesmo ou extinto o instituto público, poderão demandar a Região para satisfação dos seus créditos.\n\n7 - Em caso de extinção, o património dos institutos públicos regionais e os bens dominiais sujeitos à sua administração revertem para a Região, salvo quando se tratar de fusão ou reestruturação, caso em que o património e os bens dominiais podem reverter para o novo instituto ou ser-lhe afectos, desde que tal possibilidade esteja expressamente prevista no diploma legal que proceder à fusão ou reestruturação."
+  },
+  "885064292": {
+   "fragment_id": "885057941",
+   "type": 11,
+   "heading": "Artigo 37.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Receitas\n\n1 - Os institutos públicos regionais dispõem dos tipos de receitas previstos na legislação aplicável aos serviços e fundos autónomos e, se for caso disso, na legislação da segurança social, com excepção daqueles que apenas possuam autonomia administrativa.\n\n2 - Em casos devidamente fundamentados, e mediante portaria conjunta dos membros do Governo Regional responsáveis pela área das finanças e da tutela, podem ser atribuídas receitas consignadas aos institutos públicos regionais que não disponham de autonomia financeira.\n\n3 - Os institutos públicos regionais não podem recorrer ao crédito, salvo em circunstâncias excepcionais expressamente previstas no diploma regional de enquadramento orçamental."
+  },
+  "885064293": {
+   "fragment_id": "885057942",
+   "type": 11,
+   "heading": "Artigo 38.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Despesas\n\n1 - Constituem despesas dos institutos públicos regionais as que resultem de encargos decorrentes da prossecução das respectivas atribuições.\n\n2 - Em matéria de autorização de despesas, o conselho directivo tem a competência atribuída na lei aos titulares dos órgãos máximos dos organismos dotados de autonomia administrativa e financeira, ainda que o instituto público regional apenas possua autonomia administrativa, bem como a que lhe for delegada pelo membro do Governo Regional da tutela.\n\n3 - Considera-se delegada nos conselhos directivos dos institutos públicos regionais dotados de autonomia financeira a competência para autorização de despesas que, nos termos da lei, só possam ser autorizadas pelo membro do Governo Regional da tutela, sem prejuízo de este poder, a qualquer momento, revogar ou limitar tal delegação de poderes, delegação essa que a qualquer momento pode ser revogada ou limitada."
+  },
+  "885064294": {
+   "fragment_id": "885057943",
+   "type": 11,
+   "heading": "Artigo 39.º — Contabilidade, contas e tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Contabilidade, contas e tesouraria\n\n1 - Os institutos públicos regionais aplicam o Plano Oficial de Contabilidade Pública, devendo essa aplicação ser complementada por uma contabilidade analítica, com vista ao apuramento de resultados por actividades.\n\n2 - A prestação de contas rege-se, fundamentalmente, pelo disposto nos seguintes instrumentos legais e regulamentares:\n\na) Diploma de enquadramento orçamental da Região;\n\nb) Regime de administração financeira do Estado e da Região;\n\nc) Lei de Organização e Processo do Tribunal de Contas;\n\nd) Instruções emanadas pelo Tribunal de Contas;\n\ne) Diplomas anuais de execução orçamental da Região.\n\n3 - É aplicável aos institutos públicos regionais o regime da Tesouraria da Região.\n\n4 - O instituto prepara um balanço anual do seu património, devendo figurar em anotação ao balanço a lista dos bens dominiais sujeitos à sua administração.\n\n5 - Sempre que o instituto detenha participações em outras pessoas colectivas, deve anexar as contas dessas participadas e apresentar contas consolidadas com as entidades por si controladas directa ou indirectamente."
+  },
+  "885064295": {
+   "fragment_id": "885057944",
+   "type": 11,
+   "heading": "Artigo 40.º — Sistema de indicadores de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Sistema de indicadores de desempenho\n\n1 - Os institutos públicos regionais devem utilizar um sistema coerente de indicadores de desempenho, o qual deverá reflectir o conjunto das actividades prosseguidas e dos resultados obtidos.\n\n2 - O sistema deve englobar indicadores de economia, eficiência, eficácia e também de qualidade, caso prestem serviços directamente ao público.\n\n3 - Compete aos órgãos de controlo sectorial respectivos aferir a qualidade desses sistemas, bem como avaliar, anualmente, os resultados obtidos pelos institutos públicos regionais em função dos meios disponíveis, cujas conclusões são reportadas ao membro do Governo Regional da tutela."
+  },
+  "885064296": {
+   "fragment_id": "885057945",
+   "type": 1,
+   "heading": "Capítulo IV — Tutela, superintendência e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Tutela, superintendência e responsabilidade"
+  },
+  "885064297": {
+   "fragment_id": "885057946",
+   "type": 11,
+   "heading": "Artigo 41.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Tutela\n\n1 - Os institutos públicos regionais encontram-se sujeitos a tutela governamental.\n\n2 - Carecem de aprovação do membro do Governo Regional da tutela:\n\na) O plano de actividades, o orçamento, o relatório de actividades e as contas;\n\nb) Os demais actos previstos na lei e nos estatutos.\n\n3 - Carecem de autorização prévia do membro do Governo Regional da tutela:\n\na) A aceitação de doações, heranças ou legados;\n\nb) A criação de delegações territorialmente desconcentradas;\n\nc) Outros actos previstos na lei ou nos estatutos.\n\n4 - Carecem de aprovação dos membros do Governo Regional responsáveis pela área das finanças e da tutela:\n\na) Os regulamentos internos;\n\nb) Outros actos previstos na lei ou nos estatutos.\n\n5 - Carecem de autorização prévia dos membros do Governo Regional responsáveis pela área das finanças e da tutela:\n\na) A negociação de acordos e convenções colectivas de trabalho;\n\nb) A criação de entes de direito privado, a participação na sua criação, a aquisição de participações em tais entidades, quando esteja previsto na lei ou nos estatutos e se mostrar imprescindível para a prossecução das respectivas atribuições;\n\nc) Outros actos previstos na lei ou nos estatutos.\n\n6 - A lei ou os estatutos podem fazer depender certos actos de autorização ou aprovação de outros órgãos, diferentes dos indicados.\n\n7 - A falta de autorização prévia ou de aprovação determina a ineficácia jurídica dos actos sujeitos a aprovação.\n\n8 - No domínio disciplinar, compete ao membro do Governo Regional da tutela:\n\na) Exercer acção disciplinar sobre os membros dos órgãos dirigentes;\n\nb) Ordenar inquéritos ou sindicâncias aos serviços do instituto.\n\n9 - O membro do Governo Regional da tutela goza de tutela substitutiva na prática de actos legalmente devidos, em caso de inércia grave do órgão responsável."
+  },
+  "885064298": {
+   "fragment_id": "885057947",
+   "type": 11,
+   "heading": "Artigo 42.º — Superintendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Superintendência\n\n1 - O membro do Governo Regional da tutela pode dirigir orientações, emitir directivas ou solicitar informações aos órgãos dirigentes dos institutos públicos regionais sobre os objectivos a atingir na gestão do instituto e sobre as prioridades a adoptar na respectiva prossecução.\n\n2 - Além da superintendência do membro do Governo Regional da tutela, os institutos públicos regionais devem observar as orientações governamentais estabelecidas pelo membro do Governo Regional responsável pela área das finanças e pelo membro do Governo responsável pela administração pública regional, respectivamente em matéria de finanças e pessoal.\n\n3 - Compete ao membro do Governo Regional da tutela proceder ao controlo do desempenho dos institutos públicos regionais, em especial quanto ao cumprimento dos fins e dos objectivos estabelecidos e quanto à utilização dos recursos pessoais e materiais postos à sua disposição."
+  },
+  "885064299": {
+   "fragment_id": "885057948",
+   "type": 11,
+   "heading": "Artigo 43.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Responsabilidade\n\n1 - Os titulares dos órgãos dos institutos públicos regionais e os seus funcionários, agentes e trabalhadores respondem civil, criminal, disciplinar e financeiramente pelos actos e omissões que pratiquem no exercício das suas funções, nos termos da Constituição, do Estatuto Político-Administrativo da Região Autónoma dos Açores e demais legislação aplicável.\n\n2 - A responsabilidade financeira é efectivada pelo Tribunal de Contas, nos termos da respectiva legislação."
+  },
+  "885064300": {
+   "fragment_id": "885057949",
+   "type": 11,
+   "heading": "Artigo 44.º — Página electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Página electrónica\n\nOs institutos públicos regionais devem disponibilizar uma página electrónica, com todos os dados relevantes, nomeadamente:\n\na) Os diplomas que os regulam, os estatutos e regulamentos internos;\n\nb) A composição dos corpos gerentes, incluindo os elementos biográficos mencionados no n.º 4 do artigo 19.º;\n\nc) Os planos de actividades e os relatórios de actividades dos últimos três anos;\n\nd) Os orçamentos e as contas dos últimos três anos, incluindo os respectivos balanços."
+  },
+  "885064301": {
+   "fragment_id": "885057950",
+   "type": 13,
+   "heading": "Título IV — Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Regimes especiais"
+  },
+  "885064302": {
+   "fragment_id": "885057951",
+   "type": 11,
+   "heading": "Artigo 45.º — Institutos com organização simplificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Institutos com organização simplificada\n\n1 - Os institutos cuja menor complexidade justifique uma organização simplificada têm como único órgão de direcção um director, eventualmente um subdirector, e um conselho administrativo.\n\n2 - O director e o conselho administrativo dispõem dos poderes definidos no regime geral de administração dos fundos e serviços autónomos e dos que estiverem definidos na lei orgânica e nos estatutos."
+  },
+  "885064303": {
+   "fragment_id": "885057952",
+   "type": 11,
+   "heading": "Artigo 46.º — Regime jurídico da função pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Regime jurídico da função pública\n\n1 - Nos casos em que a especificidade do organismo ou dos postos de trabalho o justifiquem, o diploma instituidor dos institutos públicos regionais pode adoptar em relação à totalidade ou parte do respectivo pessoal o regime da função pública.\n\n2 - No caso de o regime da função pública ser adoptado como regime transitório, o mesmo apenas poderá ser aplicado ao pessoal que se encontrava em funções nesse regime à data dessa adopção."
+  },
+  "885064304": {
+   "fragment_id": "885057953",
+   "type": 11,
+   "heading": "Artigo 47.º — Institutos de gestão participada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Institutos de gestão participada\n\nNos institutos públicos regionais em que, por determinação constitucional, estatutária ou legislativa, deva haver participação de terceiros na sua gestão, a respectiva organização pode contemplar as especificidades necessárias para esse efeito, nomeadamente no que respeita à composição do órgão directivo."
+  },
+  "885064305": {
+   "fragment_id": "885057954",
+   "type": 11,
+   "heading": "Artigo 48.º — Regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Regime especial\n\n1 - Gozam de regime especial, com derrogação do regime comum na estrita medida necessária à sua especificidade:\n\na) As instituições públicas de solidariedade e segurança social;\n\nb) Os estabelecimentos do Serviço Regional de Saúde.\n\n2 - Cada uma destas categorias pode ser regulada por uma lei específica."
+  },
+  "885064306": {
+   "fragment_id": "885057955",
+   "type": 13,
+   "heading": "Título V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições finais e transitórias"
+  },
+  "885064307": {
+   "fragment_id": "885057956",
+   "type": 11,
+   "heading": "Artigo 49.º — Base de dados sobre os institutos públicos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Base de dados sobre os institutos públicos regionais\n\n1 - Junto do membro do Governo Regional que tiver a seu cargo a Administração Pública é organizada uma base de dados informatizada sobre os institutos públicos regionais, a qual contém para cada um deles, entre outros, os seguintes elementos: designação, diploma ou diplomas reguladores, data de criação e de eventual reestruturação e composição dos órgãos sociais.\n\n2 - A base de dados referida no número anterior é disponibilizada em linha na página electrónica daquele membro do Governo Regional, incluindo conexões para a página electrónica de cada instituto referida no artigo 44.º"
+  },
+  "885064308": {
+   "fragment_id": "885057957",
+   "type": 11,
+   "heading": "Artigo 50.º — Revisão dos institutos públicos regionais existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Revisão dos institutos públicos regionais existentes\n\n1 - O presente diploma aplica-se apenas para o futuro, com excepção do disposto nos artigos 20.º, 24.º, 41.º, 42.º, 43.º, 44.º, 46.º, n.º 2, e 52.º a 54.º, que se aplicam a partir da data da sua entrada em vigor.\n\n2 - Todos os institutos existentes à data da entrada em vigor do presente diploma serão objecto de uma análise à luz dos requisitos nela estabelecidos, para efeitos de eventual reestruturação, fusão ou extinção.\n\n3 - Para efeitos do disposto no número anterior, poderá ser constituída uma comissão, que funcionará na dependência do membro do Governo Regional responsável pela área das finanças e do membro do Governo que tiver a seu cargo a Administração Pública, constituída do seguinte modo:\n\na) Dois representantes do membro do Governo Regional responsável pela área das finanças e do membro do Governo que tiver a seu cargo a Administração Pública, para as áreas orçamental e financeira e de administração pública regional;\n\nb) Um representante de cada um dos membros do Governo Regional, com participação limitada à análise dos institutos públicos regionais sob sua tutela.\n\n4 - Cada um dos institutos públicos regionais existentes apresentará à referida comissão um relatório sobre a sua justificação, bem como sobre as alterações a introduzir para o conformar com o regime previsto no presente diploma.\n\n5 - No prazo que lhe for determinado, a comissão apresentará ao membro do Governo Regional responsável pela área das finanças e aos demais membros do Governo Regional referidos no n.º 3 um relatório e uma proposta relativos a cada um dos institutos públicos regionais existentes."
+  },
+  "885064309": {
+   "fragment_id": "885057958",
+   "type": 11,
+   "heading": "Artigo 51.º — Uso da designação «Instituto, IPRA» ou «Fundação, FRA»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Uso da designação «Instituto, IPRA» ou «Fundação, FRA»\n\n1 - No âmbito da administração regional, os institutos públicos regionais, abrangidos pelo presente diploma, utilizam a designação «Instituto, IPRA» ou «Fundação, FRA».\n\n2 - A designação «Fundação, FRA» só pode ser usada quando se trate de institutos públicos regionais com finalidades de interesse social e dotados de um património cujos rendimentos constituam parte considerável das suas receitas."
+  },
+  "885064310": {
+   "fragment_id": "885057959",
+   "type": 11,
+   "heading": "Artigo 52.º — Estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Estabelecimentos\n\n1 - No caso de o instituto dispor de um ou mais estabelecimentos, deverá o seu órgão de direcção especificar, em aviso publicado na 2.ª série do Jornal Oficial, qual o pessoal que se encontra afecto ao estabelecimento e qual o regime jurídico em que o mesmo presta funções.\n\n2 - Pode o órgão de direcção do instituto, mediante prévia autorização dos membros do Governo Regional responsáveis pela área das finanças e da tutela, que desafecte o estabelecimento da prestação de serviço público, transmitir, ou ceder temporariamente a terceiros, a exploração de estabelecimentos que integrem o seu património.\n\n3 - A transmissão ou cessão de exploração será titulada por contrato escrito, em que ficarão consignados todos os direitos e obrigações assumidos quanto à exploração do estabelecimento, devendo a escolha do adquirente ou cessionário ficar sujeita às mesmas formalidades que regulam a realização de despesas públicas de valor equivalente ao da receita obtida.\n\n4 - No caso de transmissão ou cessão de exploração do estabelecimento, serão transferidos para o adquirente, salvo acordo em contrário entre transmitente e adquirente, a posição jurídica de entidade patronal e os direitos e obrigações do instituto relativos ao pessoal afecto ao estabelecimento, em regime de direito público ou privado, sem alteração do respectivo conteúdo e natureza."
+  },
+  "885064311": {
+   "fragment_id": "885057960",
+   "type": 11,
+   "heading": "Artigo 53.º — Concessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Concessões\n\n1 - Os órgãos de direcção do instituto podem, mediante prévia autorização do membro do Governo Regional da tutela, conceder a entidades privadas, por prazo determinado e mediante uma contrapartida ou uma renda periódica, a prossecução por conta e risco próprio de algumas das suas atribuições e nelas delegar os poderes necessários para o efeito.\n\n2 - Os termos e condições da concessão constarão de contrato administrativo, publicado no Jornal Oficial, sendo a escolha do concessionário precedida das mesmas formalidades que regulam o estabelecimento de parcerias público-privadas na administração pública regional.\n\n3 - No caso de a concessão ser acompanhada pela cessão da exploração de estabelecimento do instituto, aplicar-se-ão as correspondentes disposições."
+  },
+  "885064312": {
+   "fragment_id": "885057961",
+   "type": 11,
+   "heading": "Artigo 54.º — Delegações de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Delegações de serviço público\n\n1 - Os órgãos de direcção do instituto podem, mediante prévia autorização do membro do Governo Regional da tutela, delegar em entidades privadas, por prazo determinado, e com ou sem remuneração, a prossecução de algumas das suas atribuições e os poderes necessários para o efeito, assumindo o delegado a obrigação de prosseguir essas atribuições ou colaborar na sua prossecução sob orientação do instituto.\n\n2 - Os termos e condições de delegação de serviço público constarão de contrato administrativo publicado no Jornal Oficial, sendo a escolha do delegado precedida das mesmas formalidades que regulam o estabelecimento de parcerias público-privadas na administração pública regional.\n\n3 - No caso de a delegação ser acompanhada pela cessão de exploração de estabelecimento do instituto, aplicar-se-ão as correspondentes disposições."
+  },
+  "885064313": {
+   "fragment_id": "885057962",
+   "type": 11,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "885064490": {
+   "fragment_id": "885057902",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime jurídico",
+   "in_force_from": "2011-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+   ],
+   "markdown": "###### Artigo 6.º — Regime jurídico\n\n1 - Os institutos públicos regionais regem-se pelas normas constantes do presente diploma e demais legislação aplicável às pessoas colectivas públicas, em geral, e aos institutos públicos regionais, em especial, bem como pelos respectivos estatutos e regulamentos internos.\n\n2 - São, designadamente, aplicáveis aos institutos públicos regionais, quaisquer que sejam as particularidades dos seus estatutos e do seu regime de gestão, mas com as ressalvas estabelecidas no título IV do presente diploma:\n\na) O Código do Procedimento Administrativo, no que respeita à actividade de gestão pública, envolvendo o exercício de poderes de autoridade, a gestão da função pública ou do domínio público, ou a aplicação de outros regimes jurídico-administrativos;\n\nb) O regime jurídico aplicável aos trabalhadores que exercem funções públicas;\n\nc) O regime da administração financeira e patrimonial do Estado e da Região;\n\nd) O regime das empreitadas de obras públicas;\n\ne) O regime da realização de despesas públicas e da contratação pública;\n\nf) O regime das incompatibilidades de cargos públicos;\n\ng) O regime da responsabilidade civil do Estado;\n\nh) As leis do contencioso administrativo, quando estejam em causa actos e contratos de natureza administrativa;\n\ni) O regime de jurisdição e controlo financeiro do Tribunal de Contas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+  },
+  "885064491": {
+   "fragment_id": "885057905",
+   "type": 11,
+   "heading": "Artigo 9.º — Formas de criação",
+   "in_force_from": "2011-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+   ],
+   "markdown": "###### Artigo 9.º — Formas de criação\n\n1 - Os institutos públicos regionais são criados por decreto legislativo regional.\n\n2 - O diploma que proceder à criação de um instituto ou lei orgânica define a sua designação, sede e jurisdição territorial, fins ou atribuições, membro do Governo Regional da tutela, os meios patrimoniais e financeiros atribuídos e incluirá as disposições legais de carácter especial que se revelem necessárias, em especial sobre matérias não reguladas neste diploma e nos diplomas legais genericamente aplicáveis ao novo instituto.\n\n3 - Os institutos públicos regionais podem iniciar o seu funcionamento em regime de instalação, nos termos da lei geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+  },
+  "885064492": {
+   "fragment_id": "885057908",
+   "type": 11,
+   "heading": "Artigo 12.º — Estatutos",
+   "in_force_from": "2011-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+   ],
+   "markdown": "###### Artigo 12.º — Estatutos\n\n1 - As disposições relativas à organização interna dos institutos públicos constam dos seus estatutos, aprovados por decreto regulamentar regional e, em tudo o mais que, face ao disposto na lei, possa assim ser regulado, de regulamentos internos, aprovados pelos órgãos dos institutos.\n\n2 - Nos casos de autonomia estatutária, nos termos da Constituição ou de lei especial, os estatutos são elaborados pelo próprio instituto, ainda que sujeitos a aprovação ou homologação governamental, a qual revestirá a forma de despacho normativo.\n\n3 - Os regulamentos internos devem regular a organização e disciplina do trabalho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+  },
+  "885064493": {
+   "fragment_id": "885057925",
+   "type": 11,
+   "heading": "Artigo 25.º — Estatuto dos membros",
+   "in_force_from": "2011-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+   ],
+   "markdown": "###### Artigo 25.º — Estatuto dos membros\n\n1 - Aos membros do conselho directivo é aplicável o regime definido no presente diploma e, subsidiariamente, o fixado no Estatuto do Gestor Público ou no estatuto do pessoal dirigente da administração pública regional, nos termos a definir no diploma a que se refere o artigo 33.º\n\n2 - Quando recrutados de entre trabalhadores ou dirigentes dos serviços e organismos da administração regional autónoma da Região Autónoma dos Açores, os vogais do conselho directivo podem exercer as suas funções em acumulação com as funções ou cargo exercidos no serviço ou organismo de origem, desde que tal faculdade seja prevista no diploma a que se refere o artigo 33.º\n\n3 - No caso referido no número anterior, as funções de vogal do conselho directivo são exercidas, obrigatoriamente, a tempo parcial.\n\n4 - O estatuto remuneratório dos membros do conselho directivo consta do diploma a que se refere o artigo 33.º, mas no caso referido no n.º 2 não poderá ser fixada uma remuneração base mensal de valor superior a 20 % da remuneração base mensal correspondente ao cargo, nem poderão ser atribuídos quaisquer suplementos remuneratórios.\n\n5 - Aos membros do conselho directivo é aplicável o disposto no Decreto-Lei n.º 148/2000, de 19 de Julho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+  },
+  "885064494": {
+   "fragment_id": "885057937",
+   "type": 11,
+   "heading": "Artigo 34.º — Pessoal",
+   "in_force_from": "2011-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+   ],
+   "markdown": "###### Artigo 34.º — Pessoal\n\nOs institutos públicos regionais devem adoptar o regime do contrato individual de trabalho em relação à totalidade ou parte do respectivo pessoal, sem prejuízo de, quando tal se justificar, adoptarem o regime jurídico da função pública.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+  },
+  "885064495": {
+   "fragment_id": "885057944",
+   "type": 11,
+   "heading": "Artigo 40.º — Sistema de indicadores de desempenho",
+   "in_force_from": "2011-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+   ],
+   "markdown": "###### Artigo 40.º — Sistema de indicadores de desempenho\n\n1 - Os institutos públicos regionais devem utilizar um sistema coerente de indicadores de desempenho, o qual deverá reflectir o conjunto das actividades prosseguidas e dos resultados obtidos.\n\n2 - O sistema deve englobar indicadores de economia, eficiência, eficácia e também de qualidade, caso prestem serviços directamente ao público.\n\n3 - Compete aos órgãos de controlo sectorial respectivos aferir a qualidade desses sistemas, bem como avaliar, anualmente, os resultados obtidos pelos institutos públicos regionais em função dos meios disponíveis, cujas conclusões são reportadas ao membro do Governo Regional da tutela.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+  },
+  "885064497": {
+   "fragment_id": "885057946",
+   "type": 11,
+   "heading": "Artigo 41.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823)"
+   ],
+   "markdown": "###### Artigo 41.º — Tutela\n\n1 - Os institutos públicos regionais encontram-se sujeitos a tutela governamental.\n\n2 - Carecem de aprovação do membro do Governo Regional da tutela:\n\na) O plano de actividades, o orçamento, o relatório de actividades e as contas;\n\nb) Os demais actos previstos na lei e nos estatutos.\n\n3 - Carecem de autorização prévia do membro do Governo Regional da tutela:\n\na) A aceitação de doações, heranças ou legados;\n\nb) A criação de delegações territorialmente desconcentradas;\n\nc) Outros actos previstos na lei ou nos estatutos.\n\n4 - (Revogado.)\n\n5 - Carecem de autorização prévia dos membros do Governo Regional responsáveis pela área das finanças e da tutela:\n\na) (Revogada.)\n\nb) A criação de entes de direito privado, a participação na sua criação, a aquisição de participações em tais entidades, quando esteja previsto na lei ou nos estatutos e se mostrar imprescindível para a prossecução das respectivas atribuições;\n\nc) Outros actos previstos na lei ou nos estatutos.\n\n6 - A lei ou os estatutos podem fazer depender certos actos de autorização ou aprovação de outros órgãos, diferentes dos indicados.\n\n7 - A falta de autorização prévia ou de aprovação determina a ineficácia jurídica dos actos sujeitos a aprovação.\n\n8 - No domínio disciplinar, compete ao membro do Governo Regional da tutela:\n\na) Exercer acção disciplinar sobre os membros dos órgãos dirigentes;\n\nb) Ordenar inquéritos ou sindicâncias aos serviços do instituto.\n\n9 - O membro do Governo Regional da tutela goza de tutela substitutiva na prática de actos legalmente devidos, em caso de inércia grave do órgão responsável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823)"
+  },
+  "885064496": {
+   "fragment_id": "885057952",
+   "type": 11,
+   "heading": "Artigo 46.º — Regime jurídico da função pública",
+   "in_force_from": "2011-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+   ],
+   "markdown": "###### Artigo 46.º — Regime jurídico da função pública\n\n1 - Nos casos em que a especificidade do organismo ou dos postos de trabalho o justifiquem, o diploma instituidor dos institutos públicos regionais pode adoptar em relação à totalidade ou parte do respectivo pessoal o regime da função pública.\n\n2 - No caso de o regime da função pública ser adoptado como regime transitório, o mesmo apenas poderá ser aplicado ao pessoal que se encontrava em funções nesse regime à data dessa adopção.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2011/A - Diário da República n.º 91/2011, Série I de 2011-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), em vigor a partir de 2011-05-12"
+  },
+  "885064314": {
+   "fragment_id": "885057963",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado, por unanimidade, pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Abril de 2007.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 17 de Maio de 2007.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "998506088": {
+   "fragment_id": "885057954",
+   "type": 11,
+   "heading": "Artigo 48.º — Regime especial",
+   "in_force_from": "2026-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 48.º — Regime especial\n\n1 - Gozam de regime especial, com derrogação do regime comum na estrita medida necessária à sua especificidade:\n\na) As instituições públicas de solidariedade e segurança social;\n\nb) Os estabelecimentos do Serviço Regional de Saúde;\n\nc) A entidade que, nos termos do presente diploma, assuma a natureza de instituto público regional, com a missão de produção e divulgação de informação estatística oficial de âmbito regional.\n\n2 - Cada uma destas categorias pode ser regulada por uma lei específica.\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01"
+  }
+ }
+}

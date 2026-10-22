@@ -1,0 +1,153 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629150:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-117202789",
+ "dre_path": "/dr/detalhe/decreto-lei/381-2007-629150",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-11-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907093637",
+    "117211176",
+    "117211177",
+    "117211178",
+    "117211179",
+    "117211180",
+    "117211181",
+    "117211182",
+    "117211184"
+   ]
+  },
+  {
+   "date": "2019-01-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117202784:por",
+     "title": "Lei n.º 66/2018",
+     "published": "2018-12-03",
+     "dre_path": "/dr/detalhe/lei/66-2018-117202784"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "117211175",
+    "117211176",
+    "117211177",
+    "117211178",
+    "117211179",
+    "117211180",
+    "117211181",
+    "117211182",
+    "117211183",
+    "117211192"
+   ]
+  }
+ ],
+ "fragments": {
+  "907093637": {
+   "fragment_id": "117202790",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 381/2007\n\n14 de Novembro\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1893\" title=\"Link para Regulamento da Comunidade Europeia\">1893/2006</a>, do Parlamento Europeu e do Conselho, de 20 de Dezembro, aprovou a Nomenclatura das Actividades Económicas da Comunidade Europeia, Revisão 2, abreviadamente designada por NACE - Rev. 2.\n\nEsta revisão pretende reflectir a evolução tecnológica, as mudanças estruturais na economia e visa assegurar a comparabilidade com a Classificação Internacional Tipo de Actividades, Revisão 4 (CITA - Rev. 4) das Nações Unidas.\n\nA fiabilidade e comparabilidade dos dados estatísticos, nacionais e comunitários, exige a interpretação uniforme das várias categorias da nomenclatura das actividades na Comunidade, impondo-se, por isso, a harmonização da Classificação Portuguesa das Actividades Económicas (CAE - Rev. 2.1), aprovada pelo Decreto-Lei n.º 197/2003, de 27 de Agosto, com a NACE - Rev. 2.\n\nO presente decreto-lei procede à revisão da Classificação Portuguesa de Actividades Económicas, harmonizada com as classificações de actividades da União Europeia e das Nações Unidas, a qual constitui uma estrutura indispensável ao desenvolvimento e à consolidação do sistema estatístico nacional, quer pelo papel que desempenha na recolha, tratamento, publicação e análise da informação, quer pelo sentido de coerência e de unidade que confere ao sistema.\n\nO presente decreto-lei regula ainda a transição para a nova classificação de actividades económicas, assegurando à diversidade de utilizadores as condições para uma aplicação mais correcta, integrada e harmonizada dos seus princípios metodológicos e conceptuais.\n\nFoi ouvido o Conselho Superior de Estatística.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117211176": {
+   "fragment_id": "117202791",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece a Classificação Portuguesa de Actividades Económicas, Revisão 3, adiante designada por CAE - Rev. 3, que constitui o quadro comum de classificação de actividades económicas a adoptar a nível nacional."
+  },
+  "117211177": {
+   "fragment_id": "117202792",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura\n\nA CAE - Rev. 3, constante do anexo do presente decreto-lei, que dele faz parte integrante, apresenta a seguinte estrutura:\n\na) Secções (primeiro nível), que identificam as rubricas através de um código alfabético;\n\nb) Divisões (segundo nível), que identificam as rubricas através de um código de dois dígitos;\n\nc) Grupos (terceiro nível), que identificam as rubricas através de um código de três dígitos;\n\nd) Classes (quarto nível), que identificam as rubricas através de um código de quatro dígitos;\n\ne) Subclasses (quinto nível), que identificam as rubricas através de um código de cinco dígitos."
+  },
+  "117211178": {
+   "fragment_id": "117202793",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação\n\n1 - A CAE - Rev. 3 é adoptada de acordo com o programa geral de aplicação, aprovado pelo Conselho Superior de Estatística (CSE).\n\n2 - O Instituto Nacional de Estatística (INE) promove, imediatamente após a entrada em vigor do presente decreto-lei, a divulgação do programa geral de aplicação e assegura as acções necessárias à transição para a CAE - Rev. 3."
+  },
+  "117211179": {
+   "fragment_id": "117202794",
+   "type": 11,
+   "heading": "Artigo 4.º — Tabelas de equivalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tabelas de equivalência\n\n1 - O CSE aprova as tabelas de equivalência entre a CAE - Rev. 2.1 e a CAE - Rev. 3 e entre a CAE - Rev. 3 e a CAE - Rev. 2.1, elaboradas pelo INE.\n\n2 - O INE assegura a disponibilização de tabelas de equivalência entre a CAE - Rev.3 e as classificações de actividades económicas das organizações internacionais, em especial da União Europeia e das Nações Unidas.\n\n3 - O INE promove a difusão e a divulgação das tabelas de equivalência e assegura a sua aplicação coordenada."
+  },
+  "117211180": {
+   "fragment_id": "117202795",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gestão e coordenação\n\n1 - O CSE assegura, dentro do âmbito das suas competências, a gestão e a coordenação da CAE - Rev. 3.\n\n2 - O INE assegura a difusão e a divulgação da CAE - Rev. 3 e dinamiza as orientações aprovadas pelo CSE sobre esta classificação."
+  },
+  "117211181": {
+   "fragment_id": "117202796",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 197/2003, de 27 de Agosto."
+  },
+  "117211182": {
+   "fragment_id": "117202797",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA CAE - Rev. 3 entra em vigor em 1 de Janeiro de 2008."
+  },
+  "117211184": {
+   "fragment_id": "117202799",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\n(ver documento original)"
+  },
+  "117211175": {
+   "fragment_id": "117202790",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 381/2007\n\n14 de Novembro\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1893\" title=\"Link para Regulamento da Comunidade Europeia\">1893/2006</a>, do Parlamento Europeu e do Conselho, de 20 de Dezembro, aprovou a Nomenclatura das Actividades Económicas da Comunidade Europeia, Revisão 2, abreviadamente designada por NACE - Rev. 2.\n\nEsta revisão pretende reflectir a evolução tecnológica, as mudanças estruturais na economia e visa assegurar a comparabilidade com a Classificação Internacional Tipo de Actividades, Revisão 4 (CITA - Rev. 4) das Nações Unidas.\n\nA fiabilidade e comparabilidade dos dados estatísticos, nacionais e comunitários, exige a interpretação uniforme das várias categorias da nomenclatura das actividades na Comunidade, impondo-se, por isso, a harmonização da Classificação Portuguesa das Actividades Económicas (CAE - Rev. 2.1), aprovada pelo Decreto-Lei n.º 197/2003, de 27 de Agosto, com a NACE - Rev. 2.\n\nO presente decreto-lei procede à revisão da Classificação Portuguesa de Actividades Económicas, harmonizada com as classificações de actividades da União Europeia e das Nações Unidas, a qual constitui uma estrutura indispensável ao desenvolvimento e à consolidação do sistema estatístico nacional, quer pelo papel que desempenha na recolha, tratamento, publicação e análise da informação, quer pelo sentido de coerência e de unidade que confere ao sistema.\n\nO presente decreto-lei regula ainda a transição para a nova classificação de actividades económicas, assegurando à diversidade de utilizadores as condições para uma aplicação mais correcta, integrada e harmonizada dos seus princípios metodológicos e conceptuais.\n\nFoi ouvido o Conselho Superior de Estatística.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117211183": {
+   "fragment_id": "117202798",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 26 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "117211192": {
+   "fragment_id": "117202799",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": "2019-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/lei/66-2018-117202784), em vigor a partir de 2019-01-02"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/lei/66-2018-117202784), em vigor a partir de 2019-01-02"
+  }
+ }
+}

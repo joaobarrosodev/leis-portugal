@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:411674:por
+title: Portaria n.º 789/73
+short_title: null
+summary: Define as características das marcas sanitárias de atestação dos animais vacinados e dos contaminados ou suspeitos
+  de contaminação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Pecuários - Serviços de Sanidade
+  Veterinária
+proposing_entity: null
+official_number: 789/73
+official_date: null
+publication_date: '1973-11-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 265/1973, Série I de 1973-11-13
+  number: '265'
+  series: I
+  supplement: null
+  pages: 2192 - 2193
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '411674'
+  dre_path: /dr/detalhe/portaria/789-1973-411674
+  internal: pt:dre:411674:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1973-411674
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1973-411674
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-11-13T00:00:00Z'
+integrity:
+  source_sha256: 6783692d12f91c90c0411605dd34c8aed5546d0bf7631ea2602f74db885091ac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-789-411674.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 789/73
+
+de 13 de Novembro
+
+Para maior eficiência da acção sanitária a desenvolver através das campanhas de luta contra as bruceloses animais, torna-se indispensável assinalar, de forma indelével, não só os animais vacinados, como ainda os que tenham sido considerados contaminados ou suspeitos de contaminação.
+
+Assim, de acordo com o n.º 5.º do artigo 5.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, e tendo em atenção o disposto no artigo 23.º do Regulamento Geral de Saúde Pecuária, resolve-se definir as marcas sanitárias de atestação daquelas circunstâncias, a fim de evitar futuras dúvidas.
+
+Nestas termos:
+
+Manda a Governo da República Portuguesa, pelo Secretário de Estado da Agricultura:
+
+1.º É tornado obrigatório assinalar com as marcas abaixo descritas os animais das espécies bovina ou caprina que tenham sido vacinados contra a brucelose e os considerados atacados ou suspeitos de infecção brucélica;
+
+2.º Para assinalar os animais vacinados contra a brucelose é reservada a marca composta pelo símbolo [([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf), em que os segmentos de recta formam um ângulo de 43º, e por um outro segmento de recta, horizontal e perpendicular à bissectriz daquele ângulo, colocado inferiormente ao vértice (assim configurado [([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf)), com as seguintes dimensões:
+
+a) Para os bovinos, os dois primeiros segmentos terão o comprimento de 37 mm e o terceiro de 30 mm;
+
+b) Para os caprinos, aqueles comprimentos serão, respectivamente, de 20 mm e 16 mm;
+
+3.º Para assinalar os animais considerados atacados ou suspeitos de infecção brucélica é reservada a marca com a forma de triângulo equilátero de 50 mm de lado (assim configurado [([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf));
+
+4.º Na espécie bovina, em qualquer das circunstâncias, será utilizada a marcação pelo fogo ou por substância cáustica, devendo as respectivas marcas ser apostas na «parte média da região ântero-superior da tábua esquerda do pescoço»;
+
+5.º Nos animais da espécie caprina vacinados contra a brucelose, utilizar-se-á a marcação por tatuagem aposta «a meio da face interna do pavilhão auricular esquerdo» ou na «face interna da prega da virilha esquerda» para os animais sem a orelha esquerda;
+
+6.º Na sinalização dos animais da espécie caprina considerados atacados ou suspeitos de contaminação brucélica deverá a respectiva marca ser aposta na
+
+«face externa média da coxa esquerda», utilizando o fogo ou substância cáustica.
+
+Secretaria de Estado da Agricultura, 26 de Outubro de 1973. - O Secretário de Estado da Agricultura, José Eduardo Mendes Ferrão.

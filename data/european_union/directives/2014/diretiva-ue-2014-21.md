@@ -1,0 +1,327 @@
+---
+schema_version: '1.0'
+id: eu:celex:32014L0021:por
+title: Diretiva de Execução 2014/21/UE da Comissão, de 6 de fevereiro de 2014
+short_title: null
+summary: Diretiva de Execução 2014/21/UE da Comissão, de 6 de fevereiro de 2014 , que determina as condições mínimas e as
+  classes da União de batatas de semente de pré-base Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva de Execução
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2014/21
+official_date: null
+publication_date: '2014-02-07'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 38 de 7.2.2014
+  number: '38'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/ebf2a6e5-8fd9-11e3-b19c-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2014-02-27'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2020-02-16'
+identifiers:
+  celex: 32014L0021
+  eli: http://data.europa.eu/eli/dir_impl/2014/21/oj
+  oj: oj:JOL_2014_038_R_0039_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32014L0021:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32014L0021
+  metadata_url: http://publications.europa.eu/resource/cellar/ebf2a6e5-8fd9-11e3-b19c-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/debe0235-62ad-11ea-b735-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0021-20200216
+  retrieved_at: '2026-10-22T03:16:54Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-19T02:33:23.413+02:00'
+integrity:
+  source_sha256: d1f666c99b3ae77197ccb91cbb9fd1a3fcc6a92d2ce01751f79f4616ff8fdfea
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:16:54Z'
+  notes: Texto consolidado 02014L0021-20200216.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- batata
+- controlos de qualidade dos produtos agrícolas
+- doença vegetal
+- fiscalização fitossanitária
+- norma de comercialização
+- produção agrícola
+relationships:
+- type: amended_by
+  target: celex:32020L0177
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9c912007-4e2e-11ea-aece-01aa75ed71a1
+  date: '2020-02-13'
+- type: amended_by
+  target: celex:32026L2250
+  label: null
+  source: http://publications.europa.eu/resource/cellar/319f6ce1-c69e-11f1-bfcb-01aa75ed71a1
+  date: '2026-10-13'
+- type: based_on
+  target: celex:32002L0056
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a71d473c-ddf5-40e5-9d5b-22180132315d
+  date: '2002-07-23'
+- type: cited_by
+  target: pt:dre:73807561:por
+  label: null
+  source: null
+- type: corrected_by
+  target: celex:32014L0021R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9d86ae03-13cd-11e4-933d-01aa75ed71a1
+  date: '2014-07-25'
+article_structure:
+  article_count: 6
+  section_count: 2
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:16:54Z'
+  warnings: []
+  errors: []
+---
+
+# Diretiva de Execução 2014/21/UE da Comissão, de 6 de fevereiro de 2014
+
+> 02014L0021 — PT — 16.02.2020 — 001.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterada por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32020L0177) — [DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0177) — L 41 — 1 — 13.2.2020
+
+## DIRETIVA DE EXECUÇÃO 2014/21/UE DA COMISSÃO
+
+de 6 de fevereiro de 2014
+
+que determina as condições mínimas e as classes da União de batatas de semente de pré-base
+
+(Texto relevante para efeitos do EEE)
+
+###### Artigo 1.º — Definições
+
+Para efeitos da presente diretiva, entende-se por:
+
+1) «Planta-mãe», uma planta identificada a partir da qual é recolhido material para propagação;
+
+2) «Micropropagação», a prática de multiplicação rápida de material vegetal para a produção de um grande número de plantas, utilizando a cultura *in vitro* de gomos vegetativos diferenciados ou meristemas colhidos a partir de uma planta.
+
+###### Artigo 2.º — Condições mínimas para as batatas de semente de pré-base
+
+1. Os Estados-Membros devem assegurar que as batatas de semente de pré-base cumprem as seguintes condições mínimas:
+
+a) Derivam de plantas-mãe que estão isentas das seguintes pragas: *Pectobacterium* spp., *Dickeya* spp., *Candidatus* Liberibacter solanacearum, *Candidatus* Phytoplasma solani, *Potato spindle tuber viroid*, *Potato leaf roll virus*, *Potato virus A*, *Potato virus M*, *Potato virus S*, *Potato virus X* e *Potato virus Y*;
+
+b) A percentagem em número de vegetais em crescimento não conformes com a variedade e a de vegetais de variedades estranhas não devem ultrapassar, em conjunto, 0,01 %;
+
+c) O número máximo de gerações no campo deve ser limitado a quatro;
+
+d) As RNQP, ou os sintomas causados por estas, não devem estar presentes acima dos limiares nas batatas de semente de pré-base, em conformidade com o seguinte quadro:
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos vegetais em crescimento para batatas de semente de pré-base
+
+Pé negro (*Dickeya* Samson *et al*. spp. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. spp. [1PECBG]) 0 %
+
+*Candidatus* Liberibacter *solanacearum* Liefting *et al*. [LIBEPS] 0 %
+
+*Candidatus* Phytoplasma *solani* Quaglino *et al*. [PHYPSO] 0 %
+
+Sintomas de mosaico causados por vírus e sintomas causados pelo *Potato leaf roll virus* [PLRV00] 0,1 %
+
+*Potato spindle tuber viroid* [PSTVD0] 0 %
+
+RNQP ou sintomas causados por estas Limiar para a presença de RNQP na descendência direta de batatas de semente de pré-base
+
+Sintomas de infeção viral 0,5 %
+
+2. Os Estados-Membros devem assegurar que as batatas de semente de pré-base podem ser comercializadas como «classes da União PBTC» e «classe da União PB», em conformidade com as condições estabelecidas no anexo.
+
+3. A conformidade com os requisitos do n.º 1, alíneas b) e d), deve ser verificada através de inspeções oficiais de campo. Em caso de dúvida, tais inspeções devem ser complementadas por testes oficiais às folhas.
+
+Quando forem utilizados métodos de micropropagação, a conformidade com o disposto no n.º 1, alínea a), deve ser verificada através de um teste oficial, ou sob supervisão oficial, à planta-mãe.
+
+Quando forem utilizados métodos de seleção clonal, a conformidade com o disposto no n.º 1, alínea a), deve ser verificada através de um teste oficial, ou sob supervisão oficial, aos clones existentes.
+
+###### Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base
+
+Os Estados-Membros devem assegurar que os lotes de batatas de semente de pré-base cumprem as seguintes condições mínimas:
+
+a) A presença de terra e de corpos estranhos não deve ultrapassar 1,0 % em massa;
+
+b) A percentagem em número de batatas afetadas por podridão, exceto a podridão anelar ou mal murcho da batateira, não deve ultrapassar 0,2 % em massa;
+
+c) A percentagem em número de batatas com imperfeições exteriores, incluindo tubérculos disformes ou feridos, não deve ultrapassar 3,0 % em massa;
+
+d) A percentagem em número de batatas afetadas por sarna comum em mais de um terço da sua superfície não deve ultrapassar 5,0 % em massa;
+
+e) Os tubérculos enrugados devido a desidratação excessiva ou desidratação causada pela sarna prateada não devem ultrapassar 0,5 % em massa,
+
+f) Os lotes de batatas de semente de pré-base devem cumprir os seguintes requisitos relativos à presença de RNQP ou doenças causadas pelas respetivas RNQP tal como indicados no quadro:
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos lotes de batatas de semente de pré-base
+
+*Candidatus* Liberibacter *solanacearum* Liefting *et al*. [LIBEPS] 0 %
+
+*Ditylenchus destructor* Thorne [DITYDE] 0 %
+
+Rizotónia que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO] 1,0 %
+
+Sarna pulverulenta que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Spongospora subterranea* (Wallr.) Lagerh. [SPONSU] 1,0 %
+
+g) O número total de batatas referidas nas alíneas b) a f) não deve ultrapassar 6,0 % em massa.
+
+###### Artigo 4.º — Transposição
+
+1. Os Estados-Membros devem adotar e publicar, até 31 de dezembro de 2015, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.
+
+Os Estados-Membros devem aplicar as referidas disposições a partir de 1 de janeiro de 2016.
+
+As disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados Membros estabelecem o modo como deve ser feita a referência.
+
+2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+###### Artigo 6.º — Destinatários
+
+Os destinatários da presente diretiva são os Estados-Membros.
+
+## ANEXO
+
+### Condições para a colocação no mercado das batatas de semente de pré-base das classes da União PBTC e PB
+
+1) As batatas de semente de pré-base da classe da União PBTC devem cumprir as seguintes condições:
+
+a) Condições aplicáveis a batatas de semente:
+
+i) as plantas não conformes com a variedade ou as plantas de variedades estranhas não devem estar presentes nas culturas,
+
+ii) as plantas, incluindo tubérculos, são produzidas por micropropagação,
+
+iii) as plantas, incluindo tubérculos, são produzidas em instalações protegidas e num meio de cultura que esteja isento de pragas,
+
+iv) os tubérculos não devem ser multiplicados para além da primeira geração,
+
+v) as plantas devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pela respetiva RNQP tal como indicados no seguinte quadro:
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nas plantas em crescimento para batatas de semente de pré-base da classe da União PBTC
+
+Pé negro (*Dickeya* Samson *et al*. spp. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. spp. [1PECBG]) 0 %
+
+*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %
+
+*Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO] 0 %
+
+Sintomas de mosaico causados por vírus e Sintomas causados pelo *Potato leaf roll virus* [PLRV00] 0 %
+
+*Potato spindle tuber viroid* [PSTVD0] 0 %
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP na descendência direta de batatas de semente de pré-base da classe da União PBTC
+
+Sintomas de infeção viral 0 %
+
+b) Condições aplicáveis aos lotes:
+
+i) devem estar isentos de batatas de semente afetadas por podridão,
+
+ii) devem estar isentos de batatas de semente afetadas por sarna comum,
+
+iii) devem estar isentos de batatas de semente excessivamente enrugadas devido a desidratação,
+
+iv) devem estar isentos de batatas de semente com imperfeições exteriores, incluindo tubérculos disformes ou feridos,
+
+v) os lotes de batatas de semente de pré-base devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pelas respetivas RNQP tal como indicados no seguinte quadro:
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos lotes de batatas de semente de pré-base da classe da União PBTC, em massa
+
+*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %
+
+*Ditylenchus destructor* Thorne [DITYDE] 0 %
+
+Rizotónia provocada por *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO] 0 %
+
+Sarna pulverulenta provocada por *Spongospora subterranea* (Wallr.) Lagerh. [SPONSU] 0 %
+
+2) As batatas de semente de pré-base da classe da União PB devem cumprir as seguintes condições:
+
+a) Condições aplicáveis a batatas de semente:
+
+i) a percentagem em número de plantas não conformes com a variedade e a de plantas de variedades estranhas não devem ultrapassar, em conjunto, 0,01 %,
+
+ii) as plantas devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pelas respetivas RNQP tal como indicados no seguinte quadro:
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nas plantas em crescimento para batatas de semente de pré-base da classe da União PBTC
+
+Pé negro (*Dickeya* Samson *et al*. *spp*. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. *spp*. [1PECBG]) 0 %
+
+*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %
+
+*Candidatus* phytoplasma solani Quaglino *et al*. [PHYPSO] 0 %
+
+Sintomas de mosaico causados por vírus e Sintomas causados pelo *Potato leaf roll virus* [PLRV00] 0,1 %
+
+*Potato spindle tuber viroid* [PSTVD0] 0 %
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP na descendência direta de batatas de semente de pré-base da classe da União PB
+
+Sintomas de infeção viral 0,5 %,
+
+b) Tolerâncias aplicáveis aos lotes no que diz respeito a impurezas, imperfeições e doenças:
+
+i) as batatas de semente afetadas por podridão, exceto a podridão anelar ou mal murcho da batateira, não devem ultrapassar 0,2 % em massa,
+
+ii) as batatas de semente afetadas por sarna comum em mais de um terço da sua superfície não devem ultrapassar 5,0 % em massa,
+
+iii) os tubérculos enrugados devido a desidratação excessiva ou desidratação causada pela sarna prateada não devem ultrapassar 0,5 % em massa,
+
+iv) as batatas de semente com imperfeições exteriores, incluindo tubérculos disformes ou feridos, não devem ultrapassar 3,0 % em massa,
+
+v) a presença de terra e de corpos estranhos não deve ultrapassar 1,0 % em massa,
+
+vi) os lotes de batatas de semente de pré-base devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pelas respetivas RNQP tal como indicados no seguinte quadro:
+
+RNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos lotes de batatas de semente de pré-base da classe da União PBTC, em massa
+
+*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %
+
+*Ditylenchus destructor* Thorne [DITYDE] 0 %
+
+Rizotónia que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO] 1,0 %
+
+Sarna pulverulenta que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Spongospora subterranea* (Wallr.) Lagerh. [SPONSU] 1,0 %,
+
+vii) a percentagem total de batatas de semente abrangidas pelas tolerâncias referidas nas subalíneas i) a iv) e vi) não deve ultrapassar 6,0 % em massa.

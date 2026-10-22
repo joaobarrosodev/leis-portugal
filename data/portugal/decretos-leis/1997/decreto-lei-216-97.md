@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:208254:por
+title: Decreto-Lei n.º 216/97
+short_title: null
+summary: Reconhece aos cidadãos portugueses titulares de graus académicos estrangeiros de nível, objectivos e natureza idênticos
+  aos do grau de doutor pelas universidades portuguesas os direitos inerentes à titularidade deste
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 216/97
+official_date: null
+publication_date: '1997-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1997, Série I-A de 1997-08-18
+  number: '189'
+  series: I
+  supplement: null
+  pages: 4267 - 4269
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/08/189a00/42674269.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/216/1997/08/18/p/dre/pt/html
+  oj: null
+  dre: '208254'
+  dre_path: /dr/detalhe/decreto-lei/216-1997-208254
+  internal: pt:dre:208254:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1997-208254
+  metadata_url: https://data.dre.pt/eli/dec-lei/216/1997/08/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1997-208254
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-10-12T00:00:00Z'
+integrity:
+  source_sha256: ed48bdc008257d441ff338ae2e1a0f7558d546929a40e3c8d820afb3ccfd673f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-216-208254.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Reconhecimento de Graus Estrangeiros
+- Definição de Competências
+- Diploma
+- Doutoramento
+- Equivalência de Habilitações Literárias
+- Comissão
+- Ensino Superior
+relationships:
+- type: amended_by
+  target: pt:dre:641418:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 216/97
+
+de 18 de Agosto
+
+O processo de acolhimento na ordem jurídica portuguesa dos diplomas estrangeiros de nível de doutoramento foi fixado, nos últimos 30 anos, através de quatro diplomas fundamentais:
+
+O Decreto-Lei n.º 118/70, de 19 de Março, que, pela primeira vez, admite a possibilidade de reconhecer um diploma estrangeiro desse nível;
+
+O [Decreto-Lei n.º 514/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1974-472684), de 2 de Outubro;
+
+O [Decreto-Lei n.º 555/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1977-404483), de 31 de Dezembro;
+
+O [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho.
+
+O sistema actualmente em vigor - aprovado pelo [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538) - assenta num processo de reavaliação científica do trabalho realizado com vista à obtenção do grau estrangeiro de que é requerida a equivalência ou o reconhecimento.
+
+A ponderação da experiência e a reflexão que nos últimos anos vem sendo realizada sobre esta matéria recomendam a introdução de um sistema mais simples e mais adequado ao princípio da confiança recíproca que deve ser assumido pela comunidade académica internacional.
+
+Naturalmente que essa confiança só pode existir entre sistemas de ensino e instituições que assegurem o respeito pelos elevados padrões científicos que devem estar associados à atribuição do grau de doutor, pelo que, através de uma comissão nomeada, ouvidas as instituições que em Portugal conferem este grau, será fixada a lista dos graus académicos estrangeiros a que é reconhecida a produção dos efeitos do grau de doutor.
+
+Trata-se, pois, de introduzir um sistema que assenta num juízo de confiança quanto às instituições e de correspondência quanto à natureza, nível e objectivos dos graus académicos por elas conferidos.
+
+Caberá depois aos empregadores ou às administrações, em cada situação concreta, proceder à avaliação específica da adequação da formação aos objectivos que estiverem em causa.
+
+Limita-se para já a aplicação destes princípios aos cidadãos portugueses e àqueles que, por força de normas de direito internacional, beneficiem, em Portugal, dos mesmos direitos dos cidadãos portugueses.
+
+Em relação aos cidadãos não abrangidos pelo presente diploma e aos graus não contemplados pelas deliberações da referida comissão, continua a facultar-se a apreciação casuística, no quadro do regime geral de equivalência e de reconhecimento de habilitações de ensino superior estrangeiras, cuja revisão global, aliás, se encontra em fase de conclusão.
+
+Tendo em vista facilitar aos interessados o processo de reconhecimento dos seus direitos perante qualquer entidade pública ou privada e, simultaneamente, garantir a existência de informação estatística acerca da aplicação deste diploma, introduz-se um sistema de registo que consistirá na simples aposição, no próprio diploma, da indicação de que este faz parte do elenco de graus a que é reconhecida a produção dos efeitos do grau de doutor.
+
+Foi ouvido o Conselho de Reitores das Universidades Portuguesas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Reconhecimento de direitos
+
+1 - Aos cidadãos portugueses titulares de graus académicos estrangeiros de nível, objectivos e natureza idênticos aos do grau de doutor pelas universidades portuguesas são reconhecidos os direitos inerentes à titularidade deste.
+
+2 - O disposto neste diploma aplica-se igualmente aos cidadãos estrangeiros que, por força de normas de direito internacional, beneficiem, nesta matéria, dos mesmos direitos dos cidadãos portugueses.
+
+###### Artigo 2.º — Não atribuição da titularidade do grau
+
+Da aplicação deste diploma não resulta, em caso algum:
+
+a) O reconhecimento, expresso ou tácito, da titularidade do grau de doutor ou de qualquer outro grau ou diploma do sistema de ensino português;
+
+b) A autorização para utilizar o título de «Doutor», ou de «Doutor pelas universidades portuguesas», ou de «Doutor por uma determinada instituição de ensino superior portuguesa».
+
+###### Artigo 3.º — Identificação da qualificação académica
+
+Os beneficiários do disposto neste diploma identificam a sua qualificação académica através da indicação, na língua de origem, do grau académico de que são titulares, seguido do nome da instituição de ensino superior que o concedeu e do país respectivo.
+
+###### Artigo 4.º — Graus estrangeiros
+
+1 - Para os efeitos deste diploma, consideram-se como tendo nível, objectivos e natureza idênticos aos do grau de doutor pelas universidades portuguesas os graus académicos conferidos por instituições de ensino superior estrangeiras que como tal sejam considerados em deliberação fundamentada da comissão de reconhecimento de graus estrangeiros a que se refere o artigo 5.
+
+2 - As deliberações a que se refere o número anterior são de natureza genérica, reportando-se, nomeadamente, a um Estado ou a um conjunto de instituições de ensino superior de um Estado.
+
+3 - Os cidadãos que tenham legitimidade, nos termos do Código do Procedimento Administrativo, podem requerer à comissão a apreciação genérica de um grau académico estrangeiro tendo em vista o seu reconhecimento nos termos do artigo 1.º do presente diploma.
+
+4 - As deliberações a que se refere o n.º 1 produzem efeitos a partir da data da sua publicação na 2.ª série do Diário da República.
+
+###### Artigo 5.º — Comissão de reconhecimento de graus estrangeiros
+
+1 - A comissão de reconhecimento de graus estrangeiros é nomeada por despacho do Ministro da Educação, após audição das instituições de ensino superior legalmente autorizadas a conferir o grau de doutor.
+
+2 - A comissão é composta por um mínimo de quatro quintos de professores de instituições de ensino superior portuguesas legalmente autorizadas a conferir o grau de doutor, titulares do grau de doutor.
+
+3 - A comissão reúne:
+
+a) Ordinariamente cada quatro meses;
+
+b) Extraordinariamente sempre que convocada pelo seu presidente ou por três quintos dos seus vogais.
+
+4 - O apoio logístico à comissão é assegurado pelo Departamento do Ensino Superior.
+
+###### Artigo 6.º — Registo
+
+1 - A produção de efeitos a que se refere o artigo 1.º está condicionada ao prévio registo do diploma numa universidade pública portuguesa.
+
+2 - A competência para proceder ao registo é do reitor da universidade, podendo ser delegada.
+
+3 - Pelo acto de registo são devidos emolumentos, os quais constituem receita própria da instituição de ensino superior.
+
+###### Artigo 7.º — Articulação com o [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho
+
+l - O disposto no presente diploma não prejudica a possibilidade de ser requerida a equivalência ao grau de doutor, ou o reconhecimento com efeitos correspondentes aos da titularidade do grau de doutor, ao abrigo do [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho.
+
+2 - A eventual recusa de equivalência ou de reconhecimento em relação a um grau do ensino superior estrangeiro no âmbito do disposto no diploma referido no número anterior não prejudica a aplicação a esse grau do disposto no presente diploma.
+
+###### Artigo 8.º — Nulidade
+
+São nulas as deliberações e decisões tomadas desconformes com o disposto no presente diploma.
+
+###### Artigo 9.º — Normas regulamentares
+
+**O Ministro da Educação aprova, por portaria, as normas regulamentares que se revelem necessárias à boa execução do presente diploma, nomeadamente as referentes ao processo de registo a que se refere o artigo 6.º**
+
+###### Artigo 10.º — Disposições finais e transitórias
+
+1 - A comissão a que se refere o artigo 5.º é nomeada nos 30 dias subsequentes à entrada em vigor do presente diploma.
+
+2 - A primeira reunião da comissão deve ter lugar nos 15 dias subsequentes à publicação da nomeação da comissão no Diário da República.
+
+3 - A deliberação sobre o primeiro elenco de graus a abranger pelo presente diploma nos termos do artigo 4.º deve ser proferida no prazo de 30 dias sobre a data da primeira reunião da comissão.
+
+4 - As normas regulamentares a que se refere o artigo 9.º devem ser publicadas até 45 dias após a entrada em vigor do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 10 de Julho de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Eduardo Carrega Marçal Grilo.
+
+**Promulgado em 28 de Julho de 1997.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 30 de Julho de 1997.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

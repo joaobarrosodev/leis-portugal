@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:572614:por
+title: Resolução da Assembleia da República n.º 16/2014
+short_title: null
+summary: Recomenda ao Governo que institua parques para partilha de viaturas nas entradas das autoestradas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 16/2014
+official_date: null
+publication_date: '2014-02-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 36/2014, Série I de 2014-02-20
+  number: '36'
+  series: I
+  supplement: null
+  pages: 1511 - 1511
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03600/0151101511.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/16/2014/02/20/p/dre/pt/html
+  oj: null
+  dre: '572614'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/16-2014-572614
+  internal: pt:dre:572614:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2014-572614
+  metadata_url: https://data.dre.pt/eli/resolassrep/16/2014/02/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-2014-572614
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-02-20T00:00:00Z'
+integrity:
+  source_sha256: 586f55a446fb87e0641066f2dae8176ea1e62910e28d888e1c8f34a7a73959fb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-16-572614.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Transporte Rodoviário
+- Auto-estrada
+- Veículo
+- Estacionamento
+- Recomendação
+- Relatório
+- Governo
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 16/2014
+
+Recomenda ao Governo que institua parques para partilha de viaturas nas entradas das autoestradas
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Promova a utilização partilhada de viaturas e divulgue informação relacionada com o carpooling em sites oficiais.
+
+2 - Estude a possibilidade de incluir na revisão dos contratos de concessão rodoviária a criação de parques de estacionamento ou, em alternativa, a disponibilização de lugares de parqueamento em condições acessíveis no início dos trajetos explorados pelas concessionárias, favorecendo a partilha de viaturas e custos da viagem como os referentes a combustível e portagens.
+
+3 - Torne público, até ao final de 2014, os resultados e conclusões do estudo efetuado.
+
+Aprovada em 31 de janeiro de 2014.
+
+**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**

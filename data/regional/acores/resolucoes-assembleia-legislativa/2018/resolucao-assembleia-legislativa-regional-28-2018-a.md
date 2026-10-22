@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:115645082:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 28/2018/A
+short_title: null
+summary: Pronúncia por iniciativa própria da Assembleia Legislativa da Região Autónoma dos Açores na defesa intransigente
+  dos interesses e direitos da Região Autónoma dos Açores no âmbito da proposta de Orçamento Plurianual da União Europeia
+  para o período 2021-2027
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 28/2018/A
+official_date: null
+publication_date: '2018-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 128/2018, Série I de 2018-07-05
+  number: '128'
+  series: I
+  supplement: null
+  pages: 2913 - 2914
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12800/0291302914.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/28/2018/07/05/a/dre/pt/html
+  oj: null
+  dre: '115645082'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/28-2018-115645082
+  internal: pt:dre:115645082:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/28-2018-115645082
+  metadata_url: https://data.dre.pt/eli/resolalraa/28/2018/07/05/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/28-2018-115645082
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-07-05T00:00:00Z'
+integrity:
+  source_sha256: deeca03a08d88578c08e512347002144bd9b50a68a32919e851fc9328eab2423
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2018/DRE-2018-28-115645082.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- União Europeia
+- Orçamento
+- Açores
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 28/2018/A
+
+Pronúncia por iniciativa própria da Assembleia Legislativa da Região Autónoma dos Açores na defesa intransigente dos interesses e direitos da Região Autónoma dos Açores no âmbito da proposta de Orçamento Plurianual da União Europeia para o período 2021-2027.
+
+A Comissão Europeia apresentou recentemente a sua proposta de Orçamento Plurianual da União Europeia para o período 2021-2027.
+
+Mesmo considerando que, nesta fase, ainda não está aberto o debate sobre a repartição interna, dentro de cada país, dos fundos comunitários, esta proposta da Comissão apresenta um conjunto de opções políticas que condicionam a realização dos objetivos do próprio projeto europeu e que afetam gravemente os interesses do nosso país e em particular da Região Autónoma dos Açores.
+
+Como aspetos a destacar, refira-se a redução dos montantes financeiros de diversos Fundos Europeus, em especial dos Fundos Estruturais que financiam a Política de Coesão, dos Fundos que financiam a Política Agrícola Comum, da imposição de um grande aumento nas taxas de cofinanciamento do País e, previsivelmente, da Região nos investimentos realizados no âmbito da Política de Coesão e da Política Agrícola Comum, bem como alterações ao nível da elegibilidade de despesas para efeitos de comparticipação. Todas estas representam um retrocesso que em muito afeta os legítimos interesses da Região Autónoma dos Açores.
+
+Realça-se, a este propósito, que, mais do que lidar com as consequências orçamentais da saída do Reino Unido, a proposta da Comissão Europeia corresponde a uma alteração profunda e significativa da orientação política da União Europeia quanto à prioridade e à forma de concretizar objetivos como a coesão económica, social e territorial.
+
+Atendendo à importância fundamental que, desde logo, a Política de Coesão e a Política Agrícola Comum representam para o futuro da Região Autónoma dos Açores;
+
+Considerando o contributo que todos os Fundos Estruturais da União Europeia representam para assegurar a estabilidade e a previsibilidade fundamentais para o desenvolvimento económico e do progresso social da Região Autónoma dos Açores;
+
+Salientando a importância que a Política de Coesão, instituída formalmente pelo Ato Único e aprofundada pelo Tratado de Maastricht, e que o Princípio da Convergência assumiram no processo de integração europeia, assegurando o financiamento da Política de Coesão com uma expressão financeira sempre crescente ao longo das últimas décadas;
+
+Relembrando a definição sobre a Coesão, primeiramente consagrada no Tratado de Maastricht, «A Política de Coesão tem por principal objetivo promover um desenvolvimento harmonioso do conjunto da União e, em especial, contribuir para reduzir a disparidade entre os níveis de desenvolvimento das diversas regiões»;
+
+Recordando que a União Europeia assume como uma das suas principais missões proceder à coesão económica, social e territorial da União através da Política de Coesão;
+
+Reconhecendo que a Política de Coesão da União Europeia, embora beneficie todas as 274 Regiões da Europa, apoia mais expressivamente as regiões menos desenvolvidas;
+
+Reconhecendo, ainda, o percurso de convergência nominal e real que a Região Autónoma dos Açores tem realizado, de acordo com o indicador do PIB per capita, com as médias nacional e da União Europeia;
+
+Considerando que a Política de Coesão, em particular, constitui, a nível europeu, um importante instrumento de investimento regional, estruturando, em articulação com outras políticas europeias, a intervenção nos vários domínios de desenvolvimento económico, social e territorial e concorrendo para o processo de convergência com a União Europeia e para a correção de desequilíbrios;
+
+Registando que por via do Estatuto de Região Ultraperiférica (RUP), formalmente reconhecido pelo Tratado de Funcionamento da União Europeia (TFUE), os Açores contam com uma dotação especificamente destinada a financiar um programa específico de apoio à insularidade (POSEI) - que complementa a Política Agrícola Comum e a Política de Coesão - que procura atenuar os sobrecustos das atividades económicas tradicionais nas RUP;
+
+Registando ser este o momento crucial para a Assembleia Legislativa da Região Autónoma dos Açores manifestar, de forma inequívoca, a sua posição sobre a proposta de Orçamento Plurianual da União Europeia para o período 2021-2027;
+
+E comprometidos com a defesa do nosso regime autonómico e com a valorização da nossa Assembleia Legislativa como órgão máximo da autonomia regional:
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, resolve, através de pronúncia por iniciativa própria, o seguinte:
+
+1 - Considerar manifestamente insuficiente, quer quanto a recursos quer quanto a orientação política, a atual proposta da Comissão Europeia para o Orçamento Plurianual da União Europeia para o período 2021-2027.
+
+2 - Manifestar a necessidade de proceder ao reforço do financiamento do montante atribuído a Portugal ao abrigo da Política de Coesão da União Europeia para o período 2021-2027.
+
+3 - Apelar ao reforço do montante global atribuído a Portugal no âmbito da Política Agrícola Comum quer no 1.º Pilar quer no 2.º Pilar.
+
+4 - Salientar a necessidade de reforço do montante atribuído ao Programa Específico para a Insularidade POSEI, como forma de discriminar positivamente os constrangimentos permanentes das RUP e no seguimento da boa avaliação que a própria Comissão faz do funcionamento desse programa específico.
+
+5 - Garantir que a posição negocial em torno da Política de Coesão pós-2020 não coloque em causa o acervo jurídico já alcançado pelas Regiões Ultraperiféricas - o designado acquis da ultraperiferia - que se traduza:
+
+a) Na manutenção da atual taxa de cofinanciamento máxima dos fundos estruturais;
+
+b) Num tratamento conjunto das RUP no âmbito da concentração temática, independentemente da sua categoria;
+
+c) Numa alocação específica do FEDER, visando a compensação dos sobrecustos das RUP, beneficiando da atual taxa de cofinanciamento máxima, não sujeita à concentração temática, apoiando todas as empresas independentemente da sua dimensão e sem distinção na repartição entre apoios ao investimento e ao funcionamento;
+
+d) Na elegibilidade, no quadro da Cooperação Territorial Europeia, à cooperação transnacional e transfronteiriça.
+
+6 - Salientar a imperiosa necessidade de conclusão do processo de definição do novo Quadro Financeiro Plurianual da União Europeia, e respetiva regulamentação, até ao final do primeiro semestre de 2019.
+
+7 - Manifestar total solidariedade e apoio ao Governo da República em todas as diligências e ações por ele desenvolvidas para a realização dos objetivos constantes desta resolução.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de junho de 2018.
+
+**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**

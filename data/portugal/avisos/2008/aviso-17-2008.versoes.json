@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:248552:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2008-920457183",
+ "dre_path": "/dr/detalhe/aviso/17-2008-248552",
+ "source_lastmod": "2025-06-03",
+ "versions": [
+  {
+   "date": "2008-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920455108"
+   ]
+  }
+ ],
+ "fragments": {
+  "920455108": {
+   "fragment_id": "920457184",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 17/2008\n\nPor ordem superior se torna público que, em 18 de Outubro e em 26 de Novembro de 2007, foram recebidas notas pela Embaixada de Portugal em Madrid e pela Embaixada de Espanha em Lisboa, respectivamente, pelas quais ambos os Estados Contratantes comunicam que concluíram os seus requisitos constitucionais necessários para a manifestação do seu consentimento em estarem vinculados ao Estatuto do Laboratório Ibérico Internacional de Nanotecnologia, assinado em Badajoz, em 25 de Novembro de 2006.\n\nPor parte da República Portuguesa, o Estatuto foi aprovado pela Resolução da Assembleia da República n.º 59/2007, ratificado pelo Decreto do Presidente da República n.º 125/2007, e publicado no Diário da República, 1.ª série, n.º 225, de 22 de Novembro de 2007.\n\nNos termos do seu artigo 30.º, o Estatuto do Laboratório Ibérico Internacional de Nanotecnologia entrará em vigor em 26 de Dezembro de 2007."
+  }
+ }
+}

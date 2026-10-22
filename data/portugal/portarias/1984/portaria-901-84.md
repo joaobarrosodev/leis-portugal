@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:401353:por
+title: Portaria n.º 901/84
+short_title: null
+summary: Fixa as quotas para os aderentes do Centro de Normalização para o triénio de 1985-1987
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Energia - Secretaria de Estado da Indústria - Direcção-Geral da Qualidade
+proposing_entity: null
+official_number: 901/84
+official_date: null
+publication_date: '1984-12-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 284/1984, Série I de 1984-12-10
+  number: '284'
+  series: I
+  supplement: null
+  pages: 3754 - 3755
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28400/37543755.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401353'
+  dre_path: /dr/detalhe/portaria/901-1984-401353
+  internal: pt:dre:401353:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/901-1984-401353
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/901-1984-401353
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-12-10T00:00:00Z'
+integrity:
+  source_sha256: 17b1b014ee9658e02497de748d768d1193d0675878897bd7ebc33366d65335da
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-901-401353.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 901/84
+
+de 10 de Dezembro
+
+Considerando a necessidade de ajustar os valores das quotas para os aderentes do Centro de Normalização fixadas há 3 anos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, nos termos do artigo 2.º do [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Junho de 1968, o seguinte:
+
+1.º As quotas para os aderentes do Centro de Normalização para o triénio de 1985-1987 são fixadas nos seguintes valores:
+
+Aderentes individuais:
+
+Classe A - 4000$00;
+
+Classe B - 10500$00;
+
+Classe C - 23500$00.
+
+Aderentes colectivos:
+
+Classe A - 6000$00;
+
+Classe B - 12000$00;
+
+Classe C - 25000$00.
+
+2.º Todos os aderentes terão direito a receber gratuitamente:
+
+a) O Boletim da Direcção-Geral da Qualidade e o Catálogo das Normas Portuguesas;
+
+b) As normas portuguesas e inquéritos correspondentes a 10, 30 ou mais de 30 grupos de classificação do Catálogo das Normas Portuguesas, consoante tenham optado pelas classes A, B ou C acima indicadas.
+
+3.º Os aderentes terão ainda direito à prestação de serviços como o envio automático e selectivo de normas estrangeiras, regionais e internacionais e de normas DIN traduzidas para português, a tradução de documentos normativos e o serviço de pergunta-resposta, na medida em que tais serviços estiverem disponíveis, e com desconto de 10%, 15% e 20%, respectivamente, para as classes A, B e C.
+
+Secretaria de Estado da Indústria.
+
+**Assinada em 15 de Novembro de 1984.**
+
+**O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira.**

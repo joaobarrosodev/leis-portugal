@@ -1,0 +1,1992 @@
+---
+schema_version: '1.0'
+id: pt:dre:488302:por
+title: Decreto Legislativo Regional n.º 27/2009/M
+short_title: null
+summary: Estabelece o sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 27/2009/M
+official_date: null
+publication_date: '2009-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/2009, Série I de 2009-08-21
+  number: '162'
+  series: I
+  supplement: null
+  pages: 5538 - 5556
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/16200/0553805556.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-01-01'
+version_history:
+  file: decreto-legislativo-regional-27-2009-m.versoes.json
+  count: 5
+  source_lastmod: '2024-07-31'
+  versions:
+  - date: '2009-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-12-22'
+    amending: pt:dre:72942084:por
+    amending_title: Decreto Legislativo Regional n.º 12/2015/M
+    changes:
+    - Adita Artigo 33.º-A
+    - Adita Artigo 50.º-A
+    - Adita Artigo 75.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+  - date: '2021-01-01'
+    amending: pt:dre:152639812:por
+    amending_title: Decreto Legislativo Regional n.º 18/2020/M
+    changes:
+    - Altera Artigo 71.º
+  - date: '2024-07-30'
+    amending: pt:dre:873755644:por
+    amending_title: Decreto Legislativo Regional n.º 6/2024/M
+    changes:
+    - Altera Artigo 71.º
+  - date: '2025-01-01'
+    amending: pt:dre:901536099:por
+    amending_title: Decreto Legislativo Regional n.º 23/2024/M
+    changes:
+    - Adita Artigo 17.º-A
+    - Adita Artigo 23.º-A
+    - Adita Artigo 25.º-A
+    - Adita Artigo 39.º-A
+    - Adita Artigo 39.º-B
+    - Adita Artigo 42.º-A
+    - Adita Artigo 42.º-B
+    - Adita Artigo 47.º-A
+    - Adita Artigo 61.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 56.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/27/2009/m/cons/20241230/pt/html
+  oj: null
+  dre: '488302'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/27-2009-488302
+  internal: pt:dre:488302:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2009-488302
+  metadata_url: https://data.dre.pt/eli/declegreg/27/2009/m/cons/20241230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-874069762
+  retrieved_at: '2026-10-22T13:11:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-07-31T00:00:00Z'
+integrity:
+  source_sha256: 49886739a3dad8c545006360aaf31d93cb9cd8770a425797a307e3242ad42d3f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:11:38Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-27-2009-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Comissão Paritária
+- Administração Pública
+- SIADAP
+- Avaliação das Instituições
+- Conselho Coordenador
+- Madeira.região Autónoma
+- Avaliação do Pessoal
+- Funcionário Público
+- Administração Regional
+relationships:
+- type: amended_by
+  target: pt:dre:72942084:por
+  label: Adita Artigo 33.º-A; Adita Artigo 50.º-A; Adita Artigo 75.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo
+    4.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 14.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo 26.º;
+    Altera Artigo 27.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084
+  date: '2015-12-21'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
+- type: amended_by
+  target: pt:dre:901536099:por
+  label: Adita Artigo 17.º-A; Adita Artigo 23.º-A; Adita Artigo 25.º-A; Adita Artigo 39.º-A; Adita Artigo 39.º-B; Adita Artigo
+    42.º-A; Adita Artigo 42.º-B; Adita Artigo 47.º-A; Adita Artigo 61.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo
+    8.º; Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 17.º; Altera Artigo 22.º; Altera Artigo 25.º; Altera Artigo
+    26.º; Altera Artigo 29.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099
+  date: '2024-12-30'
+- type: cites
+  target: eli:http:/
+  label: null
+  source: http:/
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/11/2005/06/29/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/11/2005/06/29/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/10/2004/03/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/10/2004/03/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/15/2006/04/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/15/2006/04/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1633/2007/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1633/2007/12/31/p/dre
+article_structure:
+  article_count: 92
+  section_count: 22
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:11:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 27/2009/M
+
+Decreto Legislativo Regional n.º 27/2009/M
+
+Estabelece o sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira
+
+A avaliação do desempenho assente sobre objectivos definidos e abarcando também chefias e pessoal dirigente tem sido, desde a entrada em vigor do Decreto Legislativo Regional n.º 11/2005/M, de 29 de Junho, o sistema de avaliação vigente na administração regional autónoma da Madeira. Em consequência, à avaliação do desempenho na administração pública da Região, desde o ano de 2005 em diante, foi já aplicável o referido diploma.
+
+Pelo citado diploma foi determinada a fixação prévia de objectivos e respectivos indicadores de medida, acordados com os trabalhadores, bem como a determinação das competências relevantes para a avaliação, no início do ano a que a mesma respeitava. Tal regime foi inovador, relativamente às práticas da antiga classificação de serviço que, até então vigorara, acabando por induzir novas abordagens e métodos de trabalho nos serviços e organismos públicos.
+
+A avaliação do desempenho perspectivada sobre a definição de objectivos e de indicadores de medida ultrapassa, largamente, a função de instrumento de avaliação do desempenho individual, na medida em que deverá reflectir as próprias estratégias e metas dos organismos, bem como a sua avaliação.
+
+Nesta medida, um sistema de avaliação do desempenho coerente deve integrar a avaliação dos serviços, dos dirigentes e dos demais trabalhadores, assumindo-se como um sistema de gestão dos organismos, desiderato que não foi totalmente alcançado com o Decreto Legislativo Regional n.º 11/2005/M, dada a sua natureza regulamentar da Lei n.º 10/2004, de 22 de Março.
+
+Na verdade, a avaliação integrada, postula a gestão por objectivos e a definição destes em cascata: objectivos do organismo, das unidades orgânicas e dos indivíduos. Também a avaliação dos resultados deve abarcar estas três vertentes.
+
+Como sistema de avaliação, terá o mesmo de obedecer a um corpo normativo que acolha as especificidades e opções da administração regional autónoma da Madeira, escopo ao qual se dá corpo com o presente diploma, sem perder de vista que tornar obrigatória esta filosofia de gestão e funcionamento requer o prévio conhecimento dos destinatários de tal regime, de forma a poderem preparar as bases que possibilitem a aplicação do mesmo.
+
+É este o objectivo do presente diploma, que, na observância dos princípios e demais regras essenciais constantes da Lei n.º 66-B/2007, de 28 de Dezembro, ora adaptada às especificidades regionais, estabelece o sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira (SIADAP-RAM).
+
+Foram cumpridos os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea qq) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, alterado pela Lei n.º 130/99, de 21 de Agosto, e pela Lei n.º 12/2000, de 21 de Junho, e do n.º 2 do artigo 3.º da Lei n.º 66-B/2007, de 28 de Dezembro, o seguinte:
+
+> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084) As alterações introduzidas ao presente diploma aplicam-se aos desempenhos e ciclo avaliativo que se inicia em 2017.
+
+## Título I — Disposições gerais e comuns
+
+### Capítulo I — Objecto e âmbito
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece o sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira, adiante designado por SIADAP-RAM.
+
+2 - O SIADAP-RAM baseia-se na articulação entre a avaliação de serviços, de dirigentes e demais trabalhadores, visando contribuir para a promoção da sua motivação profissional e desenvolvimento de competências, para a coerência e harmonia da ação dos serviços, com vista à melhoria continuada da administração pública regional.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente diploma aplica-se aos serviços da administração directa e indirecta da Região Autónoma da Madeira, bem como aos serviços de apoio dos órgãos de governo da Região.
+
+2 - Sem prejuízo do disposto nos n.os 4 e 5, o disposto no presente diploma não se aplica aos membros dos gabinetes de apoio dos titulares dos órgãos de governo da Região nem às entidades públicas empresariais.
+
+3 - O regime previsto no presente diploma aplica-se ao desempenho dos serviços, dos dirigentes e dos trabalhadores da administração regional autónoma com vínculo de emprego público.
+
+4 - O disposto no presente diploma em matéria de SIADAP-RAM 3 é também aplicável, com as necessárias adaptações, aos trabalhadores com vínculo de emprego público de pessoas coletivas que se encontrem excluídas do seu âmbito de aplicação.
+
+5 - O disposto no número anterior não prejudica a prevalência de sistemas de avaliação específicos, desde que respeitem os princípios, objetivos e critérios de diferenciação de desempenhos estabelecidos no SIADAP-RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 3.º — Adaptações
+
+1 - Por portaria conjunta dos membros do Governo Regional da tutela e dos responsáveis pelas áreas das finanças e da Administração Pública, ou por instrumento de regulamentação coletiva de trabalho, podem ser realizadas adaptações ao regime previsto no presente diploma em razão das atribuições e organização dos serviços, das suas carreiras ou das necessidades da sua gestão.
+
+2 - Tratando-se de institutos públicos, a adaptação referida no número anterior é aprovada por regulamento interno, homologado pelos membros do Governo Regional referidos no número anterior.
+
+3 - (Revogado.)
+
+4 - As adaptações a que se referem os números anteriores deverão respeitar o disposto no presente diploma em matéria de:
+
+a) Princípios, objectivos e subsistemas do SIADAP-RAM;
+
+b) Avaliação do desempenho baseada na confrontação entre objectivos fixados e resultados obtidos e, no caso de dirigentes e trabalhadores, também as competências demonstradas e a desenvolver;
+
+c) Diferenciação de desempenhos, respeitando o número mínimo de menções de avaliação.
+
+5 - Considerando a especificidade das funções das carreiras, pode, excecionalmente, a portaria ou o instrumento de regulamentação coletiva de trabalho a que se refere o n.º 1, promover a adaptação do disposto na alínea b) do número anterior, fixando apenas a avaliação do desempenho baseada nas competências demonstradas e a desenvolver.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+### Capítulo II — Definições, princípios, objectivos e subsistemas do SIADAP-RAM
+
+###### Artigo 4.º — Definições
+
+Para os efeitos do disposto no presente diploma, entende-se por:
+
+a) «Competências» o parâmetro de avaliação que traduz o conjunto de conhecimentos, capacidades de acção e comportamentos necessários para o desempenho eficiente e eficaz, adequado ao exercício de funções por dirigente ou trabalhador;
+
+b) «Dirigentes máximos do serviço» os titulares de cargos de direcção superior do 1.º grau ou legalmente equiparados, outros dirigentes responsáveis pelo serviço dependentes de membro do Governo Regional ou os presidentes de órgão de direcção colegial sob sua tutela ou superintendência;
+
+c) «Dirigentes superiores» os dirigentes máximos dos serviços, os titulares de cargo de direcção superior do 2.º grau ou legalmente equiparados e os vice-presidentes ou vogais de órgão de direcção colegial;
+
+d) 'Dirigentes intermédios', os titulares de cargos de direção intermédia ou legalmente equiparados;
+
+e) «Objectivos» o parâmetro de avaliação que traduz a previsão dos resultados que se pretendem alcançar no tempo, em regra quantificáveis;
+
+f) «Serviço efectivo» o trabalho realmente prestado pelo dirigente ou trabalhador nos serviços;
+
+g) «Serviços» os serviços da administração directa e indirecta da Região Autónoma da Madeira, incluindo os respectivos serviços desconcentrados ou periféricos e estabelecimentos públicos;
+
+h) «Trabalhadores» os trabalhadores da administração regional autónoma que não exerçam cargos dirigentes ou equiparados, independentemente do título jurídico da relação de trabalho, desde que a respectiva vinculação seja por prazo igual ou superior a seis meses, incluindo pessoal integrado em carreira que não se encontre em funções de direcção ou equiparadas inerentes ao conteúdo funcional dessa carreira;
+
+i) «Unidades homogéneas» os serviços desconcentrados ou periféricos da administração directa e indirecta da Região Autónoma da Madeira que desenvolvem o mesmo tipo de actividades ou fornecem o mesmo tipo de bens e ou prestam o mesmo tipo de serviços;
+
+j) «Unidades orgânicas» os elementos estruturais da organização interna de um serviço quer obedeçam ao modelo de estrutura hierarquizada, matricial ou mista;
+
+l) «Utilizadores externos» os cidadãos, as empresas e a sociedade civil;
+
+m) «Utilizadores internos» os órgãos e serviços da administração directa e indirecta da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 5.º — Princípios
+
+O SIADAP-RAM subordina-se aos seguintes princípios:
+
+a) Coerência e integração, alinhando a acção dos serviços, dirigentes e trabalhadores na prossecução dos objectivos e na execução das políticas públicas;
+
+b) Responsabilização e desenvolvimento, reforçando o sentido de responsabilidade de dirigentes e trabalhadores pelos resultados dos serviços, articulando melhorias dos sistemas organizacionais e processos de trabalho e o desenvolvimento das competências dos dirigentes e dos trabalhadores;
+
+c) Universalidade e flexibilidade, visando a aplicação dos sistemas de gestão do desempenho a todos os serviços, dirigentes e trabalhadores, mas prevendo a sua adaptação a situações específicas;
+
+d) Transparência e imparcialidade, assegurando a utilização de critérios objectivos e públicos na gestão do desempenho dos serviços, dirigentes e trabalhadores, assente em indicadores de desempenho;
+
+e) Eficácia, orientando a gestão e a acção dos serviços, dos dirigentes e dos trabalhadores para a obtenção dos resultados previstos;
+
+f) Eficiência, relacionando os bens produzidos e os serviços prestados com a melhor utilização de recursos;
+
+g) Diferenciação do desempenho de serviços, dirigentes e demais trabalhadores;
+
+h) Orientação para a qualidade nos serviços públicos;
+
+i) Comparabilidade dos desempenhos dos serviços, através da utilização de indicadores que permitam o confronto com padrões nacionais e internacionais, sempre que possível;
+
+j) Publicidade dos resultados da avaliação dos serviços, promovendo a visibilidade da sua actuação perante os utilizadores;
+
+l) Publicidade na avaliação dos dirigentes e dos trabalhadores, nos termos previstos no presente diploma;
+
+m) Participação dos dirigentes e dos trabalhadores na fixação dos objectivos dos serviços, na gestão do desempenho, na melhoria dos processos de trabalho e na avaliação dos serviços;
+
+n) Participação dos utilizadores internos e ou externos na avaliação dos serviços.
+
+###### Artigo 6.º — Objectivos
+
+Constituem objectivos globais do SIADAP-RAM:
+
+a) Contribuir para a melhoria da gestão da administração pública regional em razão das necessidades dos utilizadores e alinhar a actividade dos serviços com os objectivos das políticas públicas;
+
+b) Desenvolver e consolidar práticas de avaliação e auto-regulação da administração pública regional;
+
+c) Identificar as necessidades de formação e desenvolvimento profissional adequadas à melhoria do desempenho dos serviços, dos dirigentes e dos trabalhadores;
+
+d) Promover a motivação e o desenvolvimento das competências e qualificações dos dirigentes e trabalhadores, favorecendo a formação ao longo da vida;
+
+e) Reconhecer e distinguir serviços, dirigentes e trabalhadores pelo seu desempenho e pelos resultados obtidos e estimulando o desenvolvimento de uma cultura de excelência e qualidade;
+
+f) Melhorar a arquitectura de processos, gerando valor acrescentado para os utilizadores, numa óptica de tempo, custo e qualidade;
+
+g) Melhorar a prestação de informação e a transparência da acção dos serviços da administração pública regional;
+
+h) Apoiar o processo de decisões estratégicas através de informação relativa a resultados e custos, designadamente em matéria de pertinência da existência de serviços, das suas atribuições, organização e actividades.
+
+###### Artigo 7.º — Sistema de planeamento e ciclo de gestão
+
+1 - O SIADAP-RAM articula-se com o sistema de planeamento de cada departamento do Governo Regional, constituindo um instrumento de aferição do cumprimento dos respectivos objectivos estratégicos, baseado em indicadores de medida dos resultados a obter pelos serviços e pressupondo a coordenação entre todos eles e aquele que, em cada departamento governamental, exerce atribuições em matéria de planeamento, estratégia e avaliação.
+
+2 - No caso de departamento governamental que não possua serviço com as atribuições referidas no número anterior, deverá o membro do Governo Regional designar, por despacho, a quem caberá tal função, a qual, preferencialmente, deverá ser exercida por serviços do seu Gabinete.
+
+3 - O SIADAP-RAM articula-se ainda, com o ciclo de gestão de cada serviço da administração pública regional, que abrange as seguintes fases:
+
+a) Fixação dos objectivos do serviço para o ano seguinte, tendo em conta a sua missão, as suas atribuições, os objectivos estratégicos plurianuais determinados superiormente, os resultados da avaliação do desempenho e as disponibilidades orçamentais;
+
+b) Aprovação do orçamento e aprovação, manutenção ou alteração do mapa do respectivo pessoal, nos termos da legislação aplicável;
+
+c) Elaboração e aprovação do plano de actividades do serviço para o ano seguinte, incluindo os objectivos, actividades, indicadores de desempenho do serviço e de cada unidade orgânica;
+
+d) Monitorização e eventual revisão dos objectivos do serviço e de cada unidade orgânica, em função de contingências não previsíveis ao nível político ou administrativo;
+
+e) Elaboração do relatório de actividades, com demonstração qualitativa e quantitativa dos resultados alcançados, nele integrando o balanço social e o relatório de auto-avaliação previsto no presente diploma.
+
+4 - Compete, em cada departamento do Governo Regional, ao serviço com atribuições em matéria de planeamento, estratégia e avaliação assegurar a coerência, coordenação e acompanhamento do ciclo de gestão dos serviços com os objectivos globais do departamento e a sua harmonização com o SIADAP-RAM.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 8.º — Subsistemas do SIADAP-RAM
+
+1 - O SIADAP-RAM integra os seguintes subsistemas:
+
+a) O subsistema de avaliação do desempenho dos serviços da administração pública, abreviadamente designado por SIADAP-RAM 1;
+
+b) O subsistema de avaliação do desempenho dos dirigentes da administração pública, abreviadamente designado por SIADAP-RAM 2;
+
+c) O subsistema de avaliação do desempenho dos trabalhadores da administração pública, abreviadamente designado por SIADAP-RAM 3.
+
+2 - Os subsistemas referidos no número anterior funcionam de forma integrada pela coerência entre objectivos fixados no âmbito do sistema de planeamento, objectivos do ciclo de gestão do serviço, e objectivos fixados aos dirigentes e trabalhadores.
+
+3 - A duração dos ciclos de avaliação SIADAP-RAM relativa aos diferentes subsistemas é anual, sem prejuízo da apreciação global que, relativamente aos dirigentes abrangidos pelo SIADAP-RAM 2, deva ocorrer no termo das respetivas comissões de serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+## Título II — Subsistema de avaliação do desempenho dos serviços da administração pública regional (SIADAP-RAM 1)
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 9.º — Quadro de avaliação e responsabilização
+
+1 - A avaliação de desempenho de cada serviço assenta num quadro de avaliação e responsabilização (QUAR), sujeito a avaliação permanente e atualização a partir dos sistemas de informação do serviço, assentando nos seguintes elementos estruturantes do SIADAP-RAM 1:
+
+a) A missão do serviço;
+
+b) Os objectivos estratégicos plurianuais determinados superiormente;
+
+c) Os objectivos anualmente fixados e, em regra, hierarquizados;
+
+d) Os indicadores de desempenho e respectivas fontes de verificação;
+
+e) Os meios disponíveis, sinteticamente referidos no plano de actividades;
+
+f) O grau de realização de resultados obtidos na prossecução de objectivos;
+
+g) A identificação dos desvios e, sinteticamente, as respectivas causas;
+
+h) A avaliação final do desempenho do serviço.
+
+2 - O QUAR relaciona-se com o ciclo de gestão do serviço e é fixado e mantido atualizado em articulação com o serviço competente em matéria de planeamento, estratégia e avaliação de cada departamento do Governo Regional.
+
+3 - A atualização dos elementos do QUAR deve sustentar-se na análise da envolvência externa, na identificação das capacidades instaladas e nas oportunidades de desenvolvimento do serviço, bem como do grau de satisfação dos utilizadores.
+
+4 - Os documentos previsionais e de prestação de contas legalmente previstos devem ser totalmente coerentes com o QUAR.
+
+5 - O QUAR é objeto de publicitação na página eletrónica do serviço.
+
+6 - Os serviços devem recorrer a metodologias e instrumentos de avaliação já consagrados, no plano nacional ou internacional, que permitam operacionalizar o disposto no presente título.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 10.º — Parâmetros de avaliação
+
+1 - A avaliação do desempenho realiza-se com base nos seguintes parâmetros:
+
+a) «Objectivos de eficácia», entendida como medida em que um serviço atinge os seus objectivos e obtém ou ultrapassa os resultados esperados;
+
+b) «Objectivos de eficiência», enquanto relação entre os bens produzidos e serviços prestados e os recursos utilizados;
+
+c) «Objectivos de qualidade», traduzida como o conjunto de propriedades e características de bens ou serviços, que lhes conferem aptidão para satisfazer necessidades explícitas ou implícitas dos utilizadores.
+
+2 - Os objectivos são propostos pelo serviço ao membro do Governo Regional de que dependa, ou sob cuja superintendência se encontre, e são por este aprovados.
+
+3 - Para avaliação dos resultados obtidos em cada objectivo são estabelecidos os seguintes níveis de graduação:
+
+a) Superou o objectivo;
+
+b) Atingiu o objectivo;
+
+c) Não atingiu o objectivo.
+
+4 - Em cada serviço são definidos:
+
+a) Os indicadores de desempenho para cada objectivo e respectivas fontes de verificação;
+
+b) Os mecanismos de operacionalização que sustentam os níveis de graduação indicados no número anterior, podendo ser fixadas ponderações diversas a cada parâmetro e objectivo, de acordo com a natureza dos serviços.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 11.º — Indicadores de desempenho
+
+1 - Os indicadores de desempenho relativos à estrutura do SIADAP-RAM 1 devem obedecer aos seguintes princípios:
+
+a) Pertinência face aos objectivos que pretendem medir;
+
+b) Credibilidade;
+
+c) Facilidade de recolha;
+
+d) Clareza;
+
+e) Comparabilidade.
+
+2 - Os indicadores devem permitir a mensurabilidade dos desempenhos.
+
+3 - Na definição dos indicadores de desempenho deve ser assegurada a participação das várias unidades orgânicas do serviço.
+
+###### Artigo 12.º — Acompanhamento e coordenação do SIADAP-RAM
+
+1 - Em cada departamento do Governo Regional, compete ao serviço com atribuições em matéria de planeamento, estratégia e avaliação o acompanhamento do SIADAP-RAM 1, através do apoio à operacionalização dos parâmetros de avaliação dos serviços, identificação, validação e monitorização dos indicadores de desempenho, com vista a garantir a fiabilidade e integridade dos dados, bem como viabilizar comparações nacionais e internacionais.
+
+2 - Cabe ao serviço com competência em matéria de administração pública acompanhar a nível geral a aplicação do SIADAP-RAM, designadamente:
+
+a) Formular recomendações e ou propostas aos serviços e organismos da administração regional autónoma;
+
+b) Solicitar os elementos que entenda necessários, com vista a uma correcta aplicação dos princípios e normas do sistema de avaliação do desempenho;
+
+c) Pronunciar-se sobre questões que lhe sejam submetidas no âmbito de qualquer dos subsistemas do SIADAP-RAM;
+
+d) Desenvolver formação para os serviços em matéria de avaliação de desempenho.
+
+3 - No caso de serviços com direção, tutela ou superintendência partilhada, o acompanhamento e a coordenação dos processos referidos nos números anteriores ficam a cargo do serviço com atribuições de acompanhamento e coordenação em matéria de avaliação de desempenho integrado no programa orçamental onde se inscreve o orçamento do serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+### Capítulo II — Modalidades, procedimentos e órgãos de avaliação
+
+###### Artigo 13.º — Modalidades e periodicidade
+
+1 - A avaliação dos serviços efectua-se através de auto-avaliação e de hetero-avaliação.
+
+2 - A auto-avaliação dos serviços é realizada anualmente, em articulação com o ciclo de gestão.
+
+3 - A periodicidade referida no número anterior não prejudica a realização de avaliação plurianual se o orçamento comportar essa dimensão temporal e para fundamentação de decisões relativas à pertinência da existência do serviço, das suas atribuições, organização e actividades.
+
+###### Artigo 14.º — Auto-avaliação
+
+1 - A autoavaliação tem caráter obrigatório e deve evidenciar os resultados alcançados e os desvios verificados de acordo com o QUAR do serviço, em particular face aos objetivos anualmente fixados.
+
+2 - A auto-avaliação é parte integrante do relatório de actividades anual e deve ser acompanhada de informação relativa:
+
+a) À apreciação, por parte dos utilizadores internos ou externos, da quantidade e qualidade dos serviços prestados, com especial relevo quando se trate de unidades prestadoras de serviços a utilizadores externos;
+
+b) (Revogado.)
+
+c) Às causas de incumprimento de acções ou projectos não executados ou com resultados insuficientes;
+
+d) Às medidas que devem ser tomadas para um reforço positivo do desempenho do serviço, evidenciando as condicionantes que afectem os resultados a atingir;
+
+e) À comparação com o desempenho de serviços idênticos, no plano nacional e internacional, que possam constituir padrão de comparação;
+
+f) À audição de dirigentes intermédios e dos demais trabalhadores na auto-avaliação do serviço.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 15.º — Comparação de unidades homogéneas
+
+1 - No caso de o serviço integrar unidades homogéneas sobre as quais detenha o poder de direcção, compete ao dirigente máximo assegurar a concepção e monitorização de um sistema de indicadores de desempenho que permita a sua comparabilidade.
+
+2 - O sistema de indicadores referido no número anterior deve reflectir o conjunto das actividades prosseguidas e viabilizar a ordenação destas unidades numa óptica de eficiência relativa, para cada grupo homogéneo, em cada serviço.
+
+3 - A cada unidade homogénea deve ser atribuída uma avaliação final de desempenho nos termos do artigo 17.º
+
+4 - O disposto nos números anteriores é igualmente aplicável, com as devidas adaptações, a serviços centrais que desenvolvem o mesmo tipo de actividades, fornecem o mesmo tipo de bens ou prestam o mesmo tipo de serviços dos que são assegurados por unidades homogéneas.
+
+5 - No caso de as unidades homogéneas constituírem serviços periféricos de departamento do Governo Regional, compete ao serviço com atribuições em matéria de planeamento, estratégia e avaliação assegurar o cumprimento do disposto no presente artigo.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 16.º — Análise crítica da auto-avaliação
+
+1 - Em cada departamento do Governo Regional compete ao serviço com atribuições em matéria de planeamento, estratégia e avaliação analisar as auto-avaliações constantes dos relatórios de actividades elaborados pelos demais serviços.
+
+2 - Face ao resultado da análise efectuada é emitido parecer, o qual é comunicado ao serviço e ao respectivo membro do Governo Regional.
+
+3 - Os serviços referidos no n.º 1 devem ainda efectuar uma análise comparada de todos os serviços do respectivo departamento governamental com vista a:
+
+a) Identificar, anualmente, os serviços que se distinguiram positivamente ao nível do seu desempenho;
+
+b) Identificar, anualmente, os serviços com maiores desvios, não justificados, entre objectivos e resultados ou que, por outras razões consideradas pertinentes, devam ser objecto de hetero-avaliação e disso dar conhecimento ao órgão com competência de natureza inspectiva em matéria de controlo da administração financeira da Região Autónoma da Madeira, doravante designado por órgão inspectivo, para os efeitos previstos no presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 17.º — Expressão qualitativa da avaliação
+
+1 - A avaliação final do desempenho dos serviços é expressa qualitativamente pelas seguintes menções:
+
+a) Desempenho bom, atingiu todos os objectivos, superando-os total ou parcialmente;
+
+b) Desempenho satisfatório, atingiu todos os objectivos ou os mais relevantes;
+
+c) Desempenho insuficiente, não atingiu os objectivos mais relevantes.
+
+2 - (Revogado.)
+
+3 - As menções previstas no n.º 1 são propostas pelo dirigente máximo do serviço como resultado da auto-avaliação e, após o parecer previsto no n.º 2 do artigo anterior, homologadas ou alteradas pelo respectivo membro do Governo Regional.
+
+4 - Em cada departamento do Governo Regional pode ainda ser atribuída aos serviços com avaliação de desempenho bom o reconhecimento de desempenho excelente, o qual significa superação global dos objetivos.
+
+5 - Nos casos em que a homologação da avaliação final de desempenho do serviço corresponda à prevista na alínea a) do n.º 1, pode o dirigente máximo do serviço requerer o reconhecimento de desempenho excelente, ao respetivo membro do Governo Regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 17.º-A — Reconhecimento da distinção de excelente
+
+1 - O reconhecimento de desempenho excelente previsto no n.º 4 do artigo anterior, é fundamentado com base numa matriz de excelência que evidencie, designadamente:
+
+a) Evolução positiva e significativa nos resultados obtidos pelo serviço em comparação com anos anteriores;
+
+b) Excelência de resultados obtidos, designadamente por comparação com padrões nacionais ou internacionais, ou melhorias de eficiência;
+
+c) Manutenção do nível de excelência antes atingido.
+
+2 - Compete, em cada departamento governamental, ao serviço com atribuições de coordenação em matéria de avaliação de desempenho emitir parecer sobre a distinção de excelente, observado o disposto na alínea a) do n.º 3 do artigo 16.º e no número anterior.
+
+3 - O parecer referido no número anterior, relativo a proposta de distinção de excelência do serviço com atribuições de coordenação em matéria de avaliação de desempenho, é validado pelo serviço competente em matéria da Administração Pública.
+
+4 - A homologação dos reconhecimentos de desempenho excelente compete ao respetivo membro do Governo Regional, após a validação referida no número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 18.º — Distinção de mérito
+
+1 - Em cada departamento governamental podem ser seleccionados os serviços que mais se distinguiram no seu desempenho para atribuição da distinção de mérito, cabendo ao respectivo membro do Governo Regional, observado o disposto na alínea a) do n.º 3 do artigo 16.º, o reconhecimento de Desempenho excelente, em regra, a 20 % dos serviços que o integram ou estão sob sua superintendência.
+
+2 - A atribuição da distinção de mérito assenta em justificação circunstanciada, designadamente, por motivos relacionados com:
+
+a) Evolução positiva e significativa nos resultados obtidos pelo serviço em comparação com anos anteriores;
+
+b) Excelência de resultados obtidos, demonstrada, designadamente, por comparação com padrões nacionais ou internacionais, tendo em conta igualmente melhorias de eficiência;
+
+c) Manutenção do nível de excelência antes atingido, se possível com a demonstração referida na alínea anterior.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 19.º — Hetero-avaliação
+
+1 - A hetero-avaliação visa obter um conhecimento aprofundado das causas dos desvios evidenciados na auto-avaliação ou de outra forma detectados e apresentar propostas para a melhoria dos processos e resultados futuros.
+
+2 - A hetero-avaliação é da responsabilidade do órgão inspectivo referido na alínea b) do n.º 3 do artigo 16.º, podendo ser realizada por operadores internos ou externos, nomeadamente associações de consumidores, desde que garantida a independência funcional face às entidades a avaliar.
+
+3 - A hetero-avaliação dos serviços com atribuições em matéria de planeamento, estratégia e avaliação é proposta pelo respectivo membro do Governo Regional.
+
+4 - Na hetero-avaliação referida nos números anteriores não há lugar à atribuição de menção prevista no artigo 17.º
+
+5 - A hetero-avaliação pode igualmente ser solicitada pelo serviço, em alternativa à auto-avaliação, mediante proposta apresentada ao órgão inspectivo, no início do ano a que diz respeito o desempenho a avaliar.
+
+###### Artigo 20.º — Programa anual de heteroavaliações
+
+1 - O órgão inspetivo propõe ao Governo Regional, através do membro do Governo Regional responsável pelas áreas das finanças e da administração pública, o programa de heteroavaliações, que terá periodicidade anual.
+
+2 - O programa tem em conta as propostas efectuadas nos termos da alínea b) do n.º 3 do artigo 16.º, bem como outras situações que indiciem maior insatisfação por parte dos utilizadores externos e ainda as propostas feitas nos termos do n.º 3 do artigo 19.º que se revelarem pertinentes.
+
+3 - O programa anual deve ainda conter os seguintes elementos:
+
+a) Identificação dos serviços a avaliar no ano e respectiva justificação;
+
+b) Indicação dos motivos que presidem à selecção dos operadores externos, se for este o caso;
+
+c) Prazo para a sua realização;
+
+d) Critérios de selecção, no caso de a avaliação ser efectuada por operadores externos, e previsão de custos.
+
+4 - A proposta efectuada nos termos do n.º 1 é aprovada por deliberação do conselho do Governo Regional, cabendo ao órgão inspectivo assegurar a sua execução e os correspondentes encargos administrativos e financeiros.
+
+5 - Nos casos previstos nos n.os 3 e 5 do artigo 19.º, os encargos administrativos e financeiros inerentes à hetero-avaliação são suportados pelo respectivo serviço.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 21.º — Apresentação de resultados
+
+1 - Aos serviços avaliados é dado conhecimento do projecto de relatório da hetero-avaliação para que se possam pronunciar.
+
+2 - O relatório da hetero-avaliação deve também ser entregue às organizações sindicais ou comissões de trabalhadores representativas do pessoal do serviço que o solicitem.
+
+3 - O órgão inspectivo emite parecer num prazo não superior a 30 dias após pronúncia do serviço avaliado sobre a qualidade dos relatórios de hetero-avaliação e efectua as recomendações que entender pertinentes, salientando os pontos positivos e os susceptíveis de melhoria.
+
+4 - O órgão inspectivo procede ao envio do parecer referido no número anterior aos membros do Governo Regional responsáveis pelas áreas das finanças e da administração pública, bem como ao membro do Governo de que dependa o serviço avaliado.
+
+### Capítulo III — Resultados da avaliação
+
+###### Artigo 22.º — Divulgação
+
+1 - Cada serviço procede à divulgação, na sua página eletrónica, da autoavaliação com indicação dos respetivos parâmetros.
+
+2 - No caso de o parecer elaborado nos termos do n.º 2 do artigo 16.º concluir pela discordância relativamente à valoração efectuada pelo serviço em sede de auto-avaliação, ou pela falta de fiabilidade do sistema de indicadores de desempenho, deve o mesmo ser obrigatoriamente divulgado juntamente com os elementos referidos no número anterior.
+
+3 - (Revogado.)
+
+4 - Cada departamento governamental procede à divulgação, na sua página eletrónica, dos serviços aos quais foi reconhecido desempenho excelente, nos termos do artigo 17.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 23.º — Efeitos da avaliação
+
+1 - Os resultados da avaliação do serviço devem produzir efeitos sobre:
+
+a) As opções de natureza orçamental com impacto no serviço;
+
+b) As opções e prioridades do ciclo de gestão seguinte;
+
+c) A avaliação realizada ao desempenho dos dirigentes superiores.
+
+2 - Sem prejuízo do disposto no número anterior, a atribuição da menção de Desempenho insuficiente no processo de autoavaliação é considerada pelo membro do Governo Regional responsável, para efeitos da aplicação das medidas consideradas adequadas, incluindo, expressamente, a definição do plano de recuperação ou correção dos desvios detetados.
+
+3 - Os resultados da heteroavaliação, realizada com os fundamentos previstos no n.º 1 do artigo 19.º, produzem os efeitos referidos no n.º 1.
+
+4 - A atribuição consecutiva de menções de Desempenho insuficiente ou a não superação de desvios evidenciados e analisados em sede de heteroavaliação podem fundamentar as decisões relativas à pertinência da existência do serviço, da sua missão, atribuições, organização e atividades, sem prejuízo do apuramento de eventuais responsabilidades.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 23.º-A — Efeitos da distinção de excelência
+
+1 - O reconhecimento de desempenho excelente determina para o ciclo de avaliação seguinte a consagração de reforço orçamental visando:
+
+a) A atribuição dos prémios de desempenho a que se refere o artigo 30.º;
+
+b) A dinamização de novos projetos de melhoria do serviço.
+
+2 - O montante do reforço orçamental previsto no número anterior é definido em sede do diploma que aprove o Orçamento para a Região Autónoma da Madeira.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 24.º — Efeitos da distinção de mérito
+
+A atribuição da distinção de mérito determina, por um ano, os seguintes efeitos:
+
+a) O aumento para 35 % e 10 % das percentagens máximas previstas no n.º 5 do artigo 34.º para os dirigentes intermédios no SIADAP-RAM 2 e no n.º 1 do artigo 71.º para os demais trabalhadores no SIADAP-RAM 3, visando a diferenciação de Desempenho relevante e Desempenho excelente;
+
+b) A atribuição pelo membro do Governo Regional competente do reforço de dotações orçamentais visando a mudança de posições remuneratórias dos trabalhadores ou a atribuição de prémios de desempenho;
+
+c) A possibilidade de consagração de reforços orçamentais visando o suporte e dinamização de novos projectos de melhoria do serviço.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+## Título III — Subsistema de avaliação do desempenho dos dirigentes da administração regional autónoma da Madeira (SIADAP-RAM 2)
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 25.º — Periodicidade
+
+1 - A avaliação do desempenho dos dirigentes superiores e intermédios, nos termos do presente diploma, tem periodicidade anual, e respeita ao desempenho do ano civil anterior.
+
+2 - Sem prejuízo do referido no número anterior, para efeitos da ponderação da renovação das comissões de serviço, a apreciação global do desempenho dos dirigentes superiores e intermédios é realizada no termo das respetivas comissões de serviço, conforme o respetivo estatuto.
+
+3 - A avaliação referida no n.º 1 pressupõe o exercício de funções como dirigente por um período não inferior a seis meses, seguidos ou interpolados.
+
+4 - (Revogado.)
+
+5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes é realizada anualmente nos termos dos n.os 5 a 7 do artigo 39.º e do artigo 40.º
+
+6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita anualmente, nos termos do SIADAP-RAM 3, não sendo aplicável o disposto no n.º 5.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 25.º-A — Intervenientes
+
+No processo de avaliação do desempenho dos dirigentes, no âmbito de cada serviço, intervêm os seguintes elementos:
+
+a) O avaliador;
+
+b) O avaliado;
+
+c) O conselho coordenador da avaliação, neste caso composto apenas por dirigentes superiores;
+
+d) O dirigente máximo do órgão ou serviço.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+### Capítulo II — Avaliação do desempenho dos dirigentes superiores e dirigentes máximos
+
+###### Artigo 26.º — Avaliação global
+
+1 - A avaliação global do desempenho dos dirigentes superiores para efeitos de renovação da comissão de serviço efetua-se com base nos seguintes parâmetros:
+
+a) ‘Grau de cumprimento dos objetivos’ assumidos no âmbito do QUAR, tendo por base os respetivos indicadores de medida fixados para a avaliação dos resultados obtidos;
+
+b) ‘Competências’ de liderança, de visão estratégica, de representação externa e de gestão demonstradas.
+
+2 - A avaliação global do desempenho dos dirigentes superiores afere-se pelos níveis de concretização obtidos nos parâmetros de avaliação traduzindo-se na verificação do sucesso global com superação do desempenho previsto em alguns domínios, face às exigências do exercício do cargo traduzidas naqueles parâmetros, no cumprimento de tais exigências ou no seu incumprimento.
+
+3 - (Revogado.)
+
+4 - Anualmente, para efeitos de monitorização da avaliação global, deve o dirigente máximo do serviço remeter ao respetivo membro do Governo Regional, até 31 de maio, os seguintes elementos:
+
+a) Relatório de atividades que integre a autoavaliação do serviço nos termos previstos no n.º 2 do artigo 14.º, contendo ainda as principais opções seguidas em matéria de gestão e qualificação dos recursos humanos, de gestão dos recursos financeiros e o resultado global da aplicação do SIADAP-RAM 2 e do SIADAP-RAM 3, incluindo expressamente os níveis atribuídos;
+
+b) Relatório sintético explicitando o grau de cumprimento dos objetivos anuais e plurianuais fixados no âmbito do QUAR, a que se referem as alíneas b) e c) do n.º 1 do artigo 9.º
+
+5 - Os dirigentes superiores de 2.º grau devem apresentar até 15 de maio ao dirigente máximo do serviço um relatório sintético explicitando os resultados obtidos face aos compromissos assumidos na carta de missão e sua evolução relativamente aos anos anteriores.
+
+6 - A monitorização da avaliação anual referida nos números anteriores releva para a avaliação global no final da comissão de serviço e pode fundamentar a sua cessação nos termos e no prazo previsto no respetivo estatuto.
+
+7 - A avaliação do desempenho dos membros dos conselhos diretivos dos institutos públicos sujeitos para todos os efeitos legais ao Estatuto do Gestor Público segue o regime neste estabelecido.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 27.º — Monitorização intercalar
+
+1 - Para efeitos da monitorização intercalar prevista no n.º 2 do artigo 25.º, deve o dirigente máximo do serviço remeter ao respetivo membro do Governo Regional, até 15 de abril de cada ano, os seguintes elementos:
+
+a) Relatório de actividades que integre a auto-avaliação do serviço nos termos previstos no n.º 2 do artigo 14.º;
+
+b) Relatório sintético explicitando o grau de cumprimento dos objetivos anuais e plurianuais fixados no âmbito do QUAR, a que se referem as alíneas b) e c) do n.º 1 do artigo 9.º
+
+2 - O relatório sintético referido na alínea b) do número anterior deve incluir as principais opções seguidas em matéria de gestão e qualificação dos recursos humanos, de gestão dos recursos financeiros e o resultado global da aplicação do SIADAP-RAM 3, incluindo a distribuição equitativa das menções qualitativas atribuídas, no total e por carreira.
+
+3 - Os dirigentes superiores do 2.º grau devem apresentar ao dirigente máximo do serviço um relatório sintético explicitando os resultados obtidos face aos compromissos assumidos na carta de missão e sua evolução relativamente aos anos anteriores.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 28.º — Expressão da avaliação
+
+1 - Sem prejuízo do disposto no n.º 8, a avaliação do desempenho dos dirigentes que exerçam a função de dirigente máximo do serviço reporta-se ao nível de avaliação final atribuído ao respetivo serviço em sede de SIADAP-RAM 1, nos termos do artigo 17.º, traduzindo-se no sucesso geral com superação de alguns objetivos, no cumprimento ou incumprimento global dos objetivos.
+
+2 - A monitorização intercalar anual dos dirigentes superiores e dos que exerçam a função de dirigente máximo do serviço, fundamenta a apreciação global no final da comissão de serviço e pode fundamentar a sua cessação.
+
+3 - A avaliação do desempenho dos dirigentes superiores de 2.º grau que não exerçam a função de dirigente máximo do serviço afere-se pelos níveis de sucesso obtidos nos parâmetros de avaliação, traduzindo-se na verificação do sucesso global com superação do desempenho previsto em alguns domínios, no cumprimento de tais exigências ou no seu incumprimento.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - Considerando as competências de liderança, de visão estratégica, de representação externa e de gestão, evidenciadas pelo dirigente máximo, o membro do Governo Regional pode atribuir-lhe uma avaliação de nível diferente da que cabe ao serviço, a qual será devidamente fundamentada face aos relatórios referidos no n.º 1 e aos elementos mencionados no n.º 2 do artigo anterior.
+
+9 - (Revogado.)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 29.º — Avaliadores
+
+1 - O dirigente máximo do serviço é avaliado pelo respetivo membro do Governo Regional.
+
+2 - Os dirigentes superiores do 2.º grau são avaliados pelo dirigente máximo respectivo.
+
+3 - A avaliação dos dirigentes superiores do 2.º grau é homologada pelo competente membro do Governo Regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 30.º — Avaliação e efeitos
+
+1 - A avaliação final do desempenho dos dirigentes superiores corresponde à avaliação final dos serviços, resultante do relatório de atividade anual.
+
+2 - Pode ser atribuído aos dirigentes superiores o reconhecimento de desempenho excelente, nos termos previstos no artigo 17.º-A.
+
+3 - O reconhecimento de desempenho excelente, previsto no número anterior, confere a atribuição dos seguintes prémios de desempenho:
+
+a) Direção superior de 1.º grau, um prémio no valor equivalente ao de um vencimento base majorado em 30 % deste;
+
+b) Direção superior de 2.º grau, um prémio no valor equivalente ao de um vencimento base majorado em 30 % deste.
+
+4 - A não aplicação do SIADAP-RAM por razões imputáveis aos dirigentes máximos dos serviços, incluindo os membros dos conselhos directivos de institutos públicos, determina a cessação das respectivas funções.
+
+> Nota: [Artigo 8.º, Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099) O disposto no n.º 3 do presente artigo entra em vigor a partir do início de vigência do diploma que aprove o próximo Orçamento da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+### Capítulo III — Avaliação do desempenho dos dirigentes intermédios
+
+###### Artigo 31.º — Âmbito subjectivo do presente capítulo
+
+O regime previsto no presente capítulo aplica-se aos dirigentes intermédios que não exerçam funções de dirigente máximo do serviço.
+
+###### Artigo 32.º — Parâmetros de avaliação
+
+A avaliação do desempenho dos dirigentes intermédios efetua-se com base nos seguintes parâmetros:
+
+a) «Resultados», obtidos nos objectivos da unidade orgânica que dirige;
+
+b) «Competências», integrando a capacidade de liderança e competências técnicas e comportamentais adequadas ao exercício do cargo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 33.º — Avaliação
+
+1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início de cada ciclo anual de avaliação ou no início do exercício destas funções, contratualizam com o respetivo avaliador os parâmetros de avaliação, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
+
+2 - O parâmetro relativo a 'Resultados' assenta nos objetivos, em número não inferior a três, negociados com o dirigente, prevalecendo, em caso de discordância, a posição do superior hierárquico.
+
+3 - Os resultados obtidos em cada objectivo são valorados, através de uma escala de três níveis, nos seguintes termos:
+
+a) «Objectivo superado», a que corresponde uma pontuação de 5;
+
+b) «Objectivo atingido», a que corresponde uma pontuação de 3;
+
+c) «Objectivo não atingido», a que corresponde uma pontuação de 1.
+
+4 - A pontuação final a atribuir ao parâmetro «Resultados» é a média aritmética das pontuações atribuídas aos resultados obtidos em todos os objectivos.
+
+5 - O parâmetro relativo a «Competências» assenta em competências previamente escolhidas, para cada dirigente, em número não inferior a cinco.
+
+6 - As competências referidas no número anterior são escolhidas, mediante acordo entre avaliador e avaliado, prevalecendo a escolha do superior hierárquico se não existir acordo, de entre as fixadas na lista constante do anexo i da Portaria n.º 236/2024/1, de 27 de setembro, para os correspondentes grupos de pessoal.
+
+7 - O dirigente máximo do serviço, ouvido o conselho coordenador da avaliação, estabelece por despacho duas competências a que se subordina a avaliação dos dirigentes intermédios, escolhidas de entre as constantes na lista referida no número anterior.
+
+8 - Cada competência é valorada, através de uma escala de três níveis, nos seguintes termos:
+
+a) «Competência demonstrada a um nível elevado», a que corresponde uma pontuação de 5;
+
+b) «Competência demonstrada», a que corresponde uma pontuação de 3;
+
+c) «Competência não demonstrada ou inexistente», a que corresponde uma pontuação de 1.
+
+9 - A pontuação final a atribuir no parâmetro «Competências» é a média aritmética das pontuações atribuídas.
+
+10 - Para a fixação da classificação final são atribuídas ao parâmetro «Resultados» uma ponderação mínima de 75 % e ao parâmetro «Competências» uma ponderação máxima de 25 %.
+
+11 - A classificação final é o resultado da média ponderada das pontuações obtidas nos dois parâmetros de avaliação.
+
+12 - As pontuações finais dos parâmetros e a avaliação final são expressas até às centésimas e, quando possível, milésimas.
+
+13 - Por despacho do membro do Governo Regional responsável pela administração pública, devidamente fundamentado, podem ser fixadas ponderações diferentes das previstas no n.º 10 em função das especificidades dos cargos ou das atribuições dos serviços.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 33.º-A — Monitorização intercalar
+
+Para efeitos da monitorização intercalar prevista no n.º 2 do artigo 25.º para os dirigentes intermédios, deve ser apresentado ao respetivo dirigente superior, até 15 de abril de cada ano, relatório sintético explicitando a evolução dos resultados obtidos face aos objetivos negociados.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 34.º — Expressão da avaliação final
+
+1 - A avaliação final é expressa nas seguintes menções qualitativas e quantitativas:
+
+a) Muito bom, correspondendo a uma avaliação final de 4 a 5;
+
+b) Bom, correspondendo a uma avaliação final de 3,500 a 3,999;
+
+c) Regular, correspondendo a uma avaliação final de 2 a 3,499;
+
+d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - A atribuição da avaliação do desempenho de muito bom é, por iniciativa do avaliado ou do avaliador, objeto de apreciação pelo conselho coordenador de avaliação para eventual reconhecimento de mérito, significando desempenho excelente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 35.º — Avaliadores
+
+1 - Os dirigentes intermédios do 1.º e 2.º grau são avaliados, consoante os casos, pelo dirigente superior ou intermédio do 1.º grau, de quem directamente dependam.
+
+2 - Sempre que o número de unidades homogéneas dependentes do mesmo dirigente superior o justifique, este pode delegar o processo de avaliação dos respetivos dirigentes intermédios em avaliadores para o efeito designados, de posição funcional superior aos avaliados.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 36.º — Efeitos
+
+1 - A avaliação do desempenho dos dirigentes intermédios tem os efeitos previstos no presente artigo e no respetivo estatuto, designadamente em matéria de não renovação ou de cessação da respetiva comissão de serviço.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - A atribuição da menção de Desempenho inadequado constitui fundamento para a cessação da respetiva comissão de serviço.
+
+7 - A não aplicação do SIADAP-RAM 3 por razão imputável ao dirigente intermédio determina a cessação da respetiva comissão de serviço e a não observância, sem fundamento, das orientações do conselho coordenador da avaliação deve ser tida em conta na respetiva avaliação de desempenho.
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - O reconhecimento de desempenho excelente confere aos dirigentes intermédios a atribuição de prémio de desempenho nos seguintes termos:
+
+a) Direção intermédia de 1.º grau, um prémio equivalente ao de um vencimento base majorado em 30 % deste;
+
+b) Direção intermédia de 2.º grau, um prémio equivalente ao de um vencimento base majorado em 30 % deste;
+
+c) Direção intermédia de 3.º grau, um prémio equivalente ao de um vencimento base majorado em 30 % deste.
+
+12 - O reconhecimento de desempenho muito bom confere aos dirigentes intermédios a atribuição de prémio de desempenho nos seguintes termos:
+
+a) Direção intermédia de 1.º grau, um prémio equivalente ao de um vencimento base majorado em 25 % deste;
+
+b) Direção intermédia de 2.º grau, um prémio equivalente ao de um vencimento base majorado em 25 % deste;
+
+c) Direção intermédia de 3.º grau, um prémio equivalente ao de um vencimento base majorado em 25 % deste.
+
+13 - O reconhecimento de desempenho bom confere aos dirigentes intermédios a atribuição de prémio de desempenho nos seguintes termos:
+
+a) Direção intermédia de 1.º grau, um prémio equivalente ao de um vencimento base majorado em 20 % deste;
+
+b) Direção intermédia de 2.º grau, um prémio equivalente ao de um vencimento base majorado em 20 % deste;
+
+c) Direção intermédia de 3.º grau, um prémio equivalente ao de um vencimento base majorado em 20 % deste.
+
+14 - Os prémios de desempenho referidos nos números anteriores, dependem de adequada dotação orçamental dos serviços.
+
+> Nota: [Artigo 8.º, Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099) O disposto nos n.os 11, 12 e 13 do presente artigo entram em vigor a partir do início de vigência do diploma que aprove o próximo Orçamento da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 37.º — Processo de avaliação
+
+No que não estiver previsto no presente título, ao processo de avaliação dos dirigentes intermédios aplica-se, com as necessárias adaptações, o disposto no título IV do presente diploma.
+
+## Título IV — Subsistema de avaliação do desempenho dos trabalhadores da administração pública regional (SIADAP-RAM 3)
+
+### Capítulo I — Estrutura
+
+#### Secção I — Periodicidade e requisitos para avaliação
+
+###### Artigo 38.º — Periodicidade
+
+1 - A avaliação do desempenho dos trabalhadores é de caráter anual.
+
+2 - A avaliação respeita ao desempenho do ano civil anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 39.º — Requisitos funcionais para avaliação
+
+1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído vínculo de emprego público há menos de seis meses, o desempenho relativo a este período é objeto de avaliação conjunta com o do ciclo seguinte.
+
+2 - É objeto de avaliação, nos termos do presente título, o desempenho do trabalhador que, no ano civil anterior, tenha vínculo de emprego público com, pelo menos, seis meses e o correspondente serviço efetivo, independentemente do serviço ou unidade orgânica onde este tenha sido prestado.
+
+3 - Sem prejuízo do disposto no artigo 39.º-B, o serviço efetivo deve ser prestado em contacto funcional com o respetivo avaliador ou em situação funcional que, apesar de não ter permitido contacto direto pelo período temporal referido no número anterior, admita, por decisão favorável do conselho coordenador da avaliação, a realização de avaliação.
+
+4 - (Revogado.)
+
+5 - No caso de quem, no ano civil anterior, tenha vínculo de emprego público com pelo menos seis meses, mas não tenha o correspondente serviço efetivo conforme definido no presente diploma ou, estando na situação prevista no n.º 3, não tenha obtido decisão favorável do conselho coordenador da avaliação, não é realizada avaliação nos termos do presente título.
+
+6 - No caso previsto no número anterior releva, para efeitos da respetiva carreira, a última avaliação obtida nos termos do presente diploma ou das suas adaptações, ainda que por ponderação curricular.
+
+7 - Se no caso previsto no n.º 5, o trabalhador com vínculo de emprego público não tiver avaliação que releve nos termos do número anterior ou se pretender a sua alteração, requer avaliação por ponderação curricular, realizada nos termos do artigo 40.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 39.º-A — Requisitos funcionais para avaliação no ano de ingresso na Administração Pública ou integração em carreira diferente
+
+1 - No ano de ingresso na Administração Pública ou de integração em diferente carreira ou categoria o trabalhador contratualiza com o avaliador competente os parâmetros de avaliação, no período máximo de 10 dias após a conclusão com sucesso do período experimental.
+
+2 - Quando decorra um período inferior a seis meses entre a data de conclusão do período experimental e o final do ciclo avaliativo e o trabalhador tenha mais de seis meses de serviço efetivo, é-lhe atribuída a avaliação de desempenho regular, para efeitos do disposto no n.º 7 do artigo 156.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP).
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 39.º-B — Sucessão de avaliadores
+
+1 - Se no decorrer do ciclo avaliativo se sucederem vários avaliadores, tem competência para avaliar o avaliador que tiver a qualidade de superior hierárquico no momento da realização da avaliação.
+
+2 - No caso previsto no número anterior, o avaliador cessante, previamente ao termo do exercício do seu cargo ou função, assegura a entrega dos elementos adequados a uma efetiva avaliação, referente ao período em que o trabalhador foi seu avaliado.
+
+3 - Em caso de alteração de unidade orgânica e/ou de serviço do trabalhador, compete aos anteriores avaliadores remeter ao novo avaliador do serviço de destino do trabalhador os elementos adequados a uma efetiva avaliação.
+
+4 - Os elementos a que se referem os números anteriores devem contemplar uma pronúncia sobre todos os objetivos e competências contratualizados, referente ao período de contacto funcional entre o avaliador e o avaliado, e serem remetidos na forma escrita.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 40.º — Ponderação curricular
+
+1 - A avaliação por ponderação curricular é diferenciada por graus de complexidade funcional e funções desempenhadas e traduz-se na avaliação do currículo do trabalhador com vínculo de emprego público, referente aos últimos três anos, sendo considerados, entre outros, os seguintes elementos:
+
+a) As habilitações académicas e profissionais;
+
+b) A experiência profissional e a valorização curricular;
+
+c) O exercício de cargos dirigentes ou outros cargos ou funções de reconhecido interesse público ou relevante interesse social, designadamente actividade de dirigente sindical.
+
+2 - A avaliação é solicitada pelo trabalhador com vínculo de emprego público, até ao dia 31 de dezembro do ano civil que antecede a avaliação, em requerimento apresentado ao dirigente máximo do serviço competente, acompanhado da documentação que o trabalhador considere relevante, podendo juntar declaração passada pela entidade onde são ou foram exercidas funções.
+
+3 - A ponderação curricular é expressa através de uma valoração que respeite a escala de avaliação final qualitativa e quantitativa ou o reconhecimento de mérito significando desempenho excelente, de acordo com o estabelecido nos artigos 47.º e 48.º
+
+4 - A ponderação curricular e a respectiva valoração são determinadas segundo critérios previamente fixados pelo conselho coordenador da avaliação, constantes em acta, que é tornada pública, que asseguram a ponderação equilibrada dos elementos curriculares previstos no n.º 1 e a consideração de reconhecido interesse público ou relevante interesse social do exercício dos cargos e funções nele referidas.
+
+5 - Os critérios referidos no número anterior podem ser estabelecidos uniformemente para todos os serviços por despacho normativo do membro do Governo Regional responsável pela administração pública.
+
+6 - A avaliação por ponderação curricular é realizada pelo imediato superior hierárquico ou, na sua falta ou impedimento, por avaliador designado pelo dirigente máximo do serviço.
+
+7 - A fim de garantir o cumprimento dos prazos no presente diploma, devem os serviços informar, na primeira quinzena de dezembro do ano que antecede a avaliação, os trabalhadores com vínculo de emprego público abrangidos pelo disposto nos n.os 5 a 7 do artigo 39.º, que não disponham de avaliação anterior que releve ou pretendam a sua alteração, que devem requerer a avaliação por ponderação curricular, nos termos do presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 41.º — Publicidade
+
+1 - As menções qualitativas e respectiva quantificação quando fundamentam, no ano em que são atribuídas, a mudança de posição remuneratória na carreira ou a atribuição de prémio de desempenho são objecto de publicitação, bem como as menções qualitativas anteriores que tenham sido atribuídas e que contribuam para tal fundamentação.
+
+2 - Sem prejuízo do disposto no número anterior e de outros casos de publicitação previstos no presente diploma, os procedimentos relativos ao SIADAP-RAM 3 têm carácter confidencial, devendo os instrumentos de avaliação de cada trabalhador ser arquivados no respectivo processo individual.
+
+3 - Com excepção do avaliado, todos os intervenientes no processo de avaliação bem como os que, em virtude do exercício das suas funções, tenham conhecimento do mesmo ficam sujeitos ao dever de sigilo.
+
+4 - O acesso à documentação relativa ao SIADAP-RAM 3 subordina-se ao disposto no Código do Procedimento Administrativo e à legislação relativa ao acesso a documentos administrativos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+#### Secção II — Metodologia de avaliação
+
+###### Artigo 42.º — Parâmetros de avaliação
+
+A avaliação do desempenho dos trabalhadores incide sobre os seguintes parâmetros:
+
+a) «Resultados», obtidos na prossecução de objectivos individuais em articulação com os objectivos da respectiva unidade orgânica;
+
+b) «Competências», que visam avaliar os conhecimentos, capacidades técnicas e comportamentais adequadas ao exercício de uma função.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 42.º-A — Avaliação por competências
+
+1 - Em casos excecionais, a avaliação dos desempenhos pode incidir apenas sobre o parâmetro ‘Competências’, previsto na alínea b) do artigo anterior, mediante decisão fundamentada do dirigente máximo do serviço, ouvido o conselho coordenador da avaliação e com observância do disposto nos números seguintes.
+
+2 - A avaliação a efetuar nos termos do número anterior apenas é admissível no caso de estarem cumulativamente reunidas as seguintes condições:
+
+a) Se trate de trabalhadores inseridos em carreiras de graus de complexidade 1 e 2;
+
+b) Se trate de trabalhadores a desenvolver atividades ou tarefas caracterizadas maioritariamente como de rotina, com caráter de permanência, padronizadas, previamente determinadas e executivas.
+
+3 - As competências são previamente escolhidas para cada trabalhador, em número não inferior a oito.
+
+4 - Na escolha das competências aplica-se o disposto no artigo 45.º, sendo, contudo, obrigatória uma competência relativa à capacidade de realização e orientação para os resultados.
+
+5 - Sempre que para o exercício das suas funções o trabalhador estiver em contacto profissional regular com outros trabalhadores ou utilizadores, o avaliador deve ter em conta a informação através deles obtidas sobre o desempenho, como contributo para a avaliação, devendo registá-la no processo de avaliação e refleti-la na avaliação das competências.
+
+6 - À avaliação de cada competência ao abrigo do presente artigo aplica-se o disposto no n.º 1 do artigo 46.º
+
+7 - A cada competência pode ser atribuída ponderação diversa por forma a destacar a respetiva importância no exercício de funções e assegurar a diferenciação de desempenhos.
+
+8 - A avaliação final é a média aritmética simples ou ponderada das pontuações atribuídas às competências escolhidas para cada trabalhador.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 42.º-B — Contratualização dos parâmetros
+
+1 - Sem prejuízo do disposto no artigo 39.º-A, a contratualização dos parâmetros ocorre no início de cada período anual de avaliação ou no início do exercício de novas funções no mesmo ou em diferente serviço ou unidade orgânica.
+
+2 - Para os efeitos previstos no número anterior, é efetuada a reunião entre o avaliador e o avaliado, destinada a contratualizar os objetivos, respetivos indicadores de medida e critérios de superação, bem como as competências a demonstrar.
+
+3 - Não existindo acordo sobre a definição dos parâmetros referidos no número anterior prevalece a decisão do avaliador, devendo o avaliado proceder à justificação em ficha de avaliação dos motivos que fundamentam a sua discordância.
+
+4 - A reunião de contratualização referida no n.º 2 pode ser precedida de reunião de análise do dirigente com todos os avaliados que integrem a respetiva unidade orgânica ou equipa, designadamente quando existirem objetivos partilhados.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 43.º — Resultados
+
+1 - O parâmetro «Resultados» decorre da verificação do grau de cumprimento dos objetivos previamente definidos, os quais:
+
+a) Devem ser redigidos de forma clara e rigorosa, de acordo com os principais resultados a obter;
+
+b) Devem estar alinhados com os objetivos do serviço e da unidade orgânica;
+
+c) Devem respeitar a proporcionalidade entre os resultados visados, os meios disponíveis e o tempo em que são prosseguidos.
+
+2 - Os objetivos são, designadamente:
+
+a) De produção de bens e atos ou prestação de serviços, visando a eficácia na satisfação dos utilizadores;
+
+b) De qualidade, orientada para a inovação, melhoria do serviço e satisfação das necessidades dos utilizadores;
+
+c) De eficiência, no sentido da simplificação e racionalização de prazos e procedimentos de gestão processual e na diminuição de custos de funcionamento;
+
+d) De aperfeiçoamento e desenvolvimento das competências individuais, técnicas e comportamentais do trabalhador.
+
+3 - A contratualização de objetivos a atingir efetua-se de acordo com as seguintes regras:
+
+a) Os objetivos a atingir por cada trabalhador devem ser acordados entre avaliador e avaliado no início do período da avaliação, prevalecendo, em caso de ausência de acordo, a posição do avaliador;
+
+b) A identificação de resultados de aperfeiçoamento e desenvolvimento individual do trabalhador é obrigatória num dos objetivos, quando resulte de diagnóstico efetuado no âmbito de avaliação do desempenho classificado como de inadequado;
+
+c) Os objetivos de aperfeiçoamento e desenvolvimento do trabalhador podem ser de âmbito relacional, de atitudes ou de aquisição de competências técnicas e de métodos de trabalho.
+
+4 - Podem ser fixados objetivos de responsabilidade partilhada sempre que impliquem o desenvolvimento de um trabalho em equipa ou esforço convergente para uma finalidade determinada.
+
+5 - No início do ciclo avaliativo são fixados um mínimo de três e um máximo de sete objetivos para cada trabalhador que, em regra, se enquadrem em várias áreas das previstas no n.º 2 e tenham particularmente em conta o posto de trabalho do trabalhador.
+
+6 - Para os resultados a obter em cada objetivo são previamente estabelecidos indicadores de medida do desempenho, que obrigatoriamente contemplem a possibilidade de superação dos objetivos.
+
+7 - Os indicadores de medida do desempenho não devem ultrapassar o número de três.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 44.º — Avaliação dos resultados atingidos
+
+1 - Tendo presente a medição do grau de cumprimento de cada objectivo, de acordo com os indicadores previamente estabelecidos, a avaliação dos resultados obtidos em cada objectivo é expressa em três níveis:
+
+a) «Objectivo superado», a que corresponde uma pontuação de 5;
+
+b) «Objectivo atingido», a que corresponde uma pontuação de 3;
+
+c) «Objectivo não atingido», a que corresponde uma pontuação de 1.
+
+2 - A pontuação final a atribuir ao parâmetro «Resultados» é a média aritmética das pontuações atribuídas em todos os objectivos.
+
+3 - Embora com desempenho efectivo, sempre que se verifique a impossibilidade de prosseguir alguns objectivos previamente fixados, devido a condicionantes estranhas ao controlo dos intervenientes, e não tenha sido possível renegociar novos objectivos, a avaliação deve decorrer relativamente a outros objectivos que não tenham sido prejudicados por aqueles condicionantes, sendo a respectiva ponderação distribuída pelos restantes.
+
+4 - A avaliação dos resultados obtidos em objetivos de responsabilidade partilhada previstos no n.º 4 do artigo anterior é, em regra, idêntica para todos os trabalhadores neles envolvidos, podendo, mediante opção fundamentada do avaliador, ser feita avaliação diferenciada consoante o contributo de cada trabalhador.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 45.º — Competências
+
+1 - O parâmetro relativo a ‘Competências’ assenta em competências previamente escolhidas para cada trabalhador em número não inferior a cinco e não superior a oito.
+
+2 - As competências referidas no número anterior são escolhidas, mediante acordo entre avaliador e avaliado, prevalecendo a escolha do avaliador se não existir acordo, de entre as competências e os comportamentos associados a desenvolver pelo trabalhador, definidas e listadas em perfis específicos, decorrentes da análise e qualificação das funções correspondentes à respetiva carreira, categoria, área funcional ou posto de trabalho, constantes da portaria referida no n.º 6 do artigo 33.º
+
+3 - É obrigatória a escolha de uma competência que evidencie a capacidade de coordenação de equipas para os trabalhadores que se encontrem em efetivas funções de coordenação e chefia multidisciplinar.
+
+4 - O dirigente máximo do serviço, ouvido o conselho coordenador da avaliação, estabelece duas competências a que se subordina a avaliação dos trabalhadores, definidas por área de atividade e/ou grau de complexidade funcional, elencadas na portaria referida no n.º 6 do artigo 33.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 46.º — Avaliação das competências
+
+1 - A avaliação das competências é aferida em resultado do número dos comportamentos associados que sejam observados, de acordo com a grelha fixada na portaria a que se refere o n.º 6 do artigo 33.º, e é expressa em três níveis:
+
+a) «Competência demonstrada a um nível elevado», a que corresponde uma pontuação de 5;
+
+b) «Competência demonstrada», a que corresponde uma pontuação de 3;
+
+c) «Competência não demonstrada ou inexistente», a que corresponde uma pontuação de 1.
+
+2 - A classificação final do parâmetro competências resulta da média aritmética simples das pontuações atribuídas nas diferentes competências avaliadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 47.º — Avaliação final
+
+1 - A avaliação final é o resultado da média ponderada das pontuações obtidas nos dois parâmetros de avaliação.
+
+2 - Para o parâmetro «Resultados» é atribuída uma ponderação mínima de 60 % e para o parâmetro «Competências», uma ponderação máxima de 40 %.
+
+3 - Cabe ao dirigente máximo do serviço, ouvido o conselho coordenador da avaliação, estabelecer as ponderações a observar, podendo as mesmas ser diferenciadas em razão das carreiras, categorias, áreas funcionais ou postos de trabalho.
+
+4 - Por despacho do membro do Governo Regional responsável pela área da Administração Pública, podem ser estabelecidos limites diferentes dos fixados no número anterior em função de carreiras e, por despacho conjunto com o membro do Governo Regional da tutela, podem igualmente ser fixados outros limites diferentes para carreiras especiais ou em função de especificidades das atribuições de serviços ou da sua gestão.
+
+5 - A avaliação final é expressa nas seguintes menções:
+
+a) Muito bom, correspondendo a uma avaliação final de 4 a 5;
+
+b) Bom, correspondendo a uma avaliação final de 3,500 a 3,999;
+
+c) Regular, correspondendo a uma avaliação final de 2 a 3,499;
+
+d) Inadequado, correspondendo a uma avaliação final de 1 a 1,999, que enquadra situações de insuficiência no desempenho face aos objetivos e competências fixados para o ciclo de avaliação, demonstrativas de necessidade de reforço de desenvolvimento profissional do trabalhador.
+
+6 - As pontuações finais dos parâmetros e a avaliação final são expressas até às centésimas e, quando possível, milésimas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 47.º-A — Critérios de desempate
+
+Quando não sejam suficientes os critérios de desempate fixados por parte do conselho coordenador da avaliação e seja necessário proceder a desempate entre trabalhadores, releva a avaliação obtida no parâmetro resultados.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 48.º — Reconhecimento de excelência
+
+1 - A atribuição da menção de avaliação do desempenho de muito bom é objeto de apreciação pelo conselho coordenador da avaliação, para efeitos de eventual reconhecimento de mérito, significando desempenho excelente, por iniciativa do avaliado ou do avaliador.
+
+2 - O reconhecimento do mérito previsto no número anterior deve fundamentar-se na análise do impacto do desempenho, evidenciando os contributos relevantes para o serviço.
+
+3 - O reconhecimento do mérito é objecto de publicitação no serviço pelos meios internos considerados mais adequados.
+
+4 - Para efeitos de aplicação da legislação sobre carreiras e remunerações, a avaliação máxima nela prevista corresponde à menção qualitativa de Desempenho excelente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+#### Secção III — Efeitos da avaliação
+
+###### Artigo 49.º — Efeitos
+
+1 - A avaliação do desempenho individual tem, designadamente, os seguintes efeitos:
+
+a) Identificação de potencialidades pessoais e profissionais do trabalhador que devam ser desenvolvidas;
+
+b) Diagnóstico de necessidades de formação;
+
+c) Identificação de competências e comportamentos profissionais merecedores de melhoria;
+
+d) Melhoria do posto de trabalho e dos processos a ele associados;
+
+e) Alteração de posicionamento remuneratório na carreira do trabalhador e atribuição de prémios de desempenho, nos termos da legislação aplicável.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - O reconhecimento de desempenho excelente em três anos consecutivos confere ao trabalhador, no ano seguinte, o direito a cinco dias de férias, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 30 % deste.
+
+6 - O reconhecimento de desempenho muito bom em três anos consecutivos confere ao trabalhador, no ano seguinte, o direito a três dias de férias, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste.
+
+7 - Sem prejuízo do disposto nos n.os 5 e 6, o direito a três dias de férias é ainda conferido ao trabalhador quando este tenha acumulado 8 pontos nas avaliações do seu desempenho, a que acresce o direito a um prémio equivalente ao de um vencimento base majorado em 25 % deste, contados os 8 pontos nos seguintes termos:
+
+a) Três pontos por cada menção de desempenho excelente;
+
+b) Dois pontos por cada menção de desempenho muito bom.
+
+> Nota: [Artigo 8.º, Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099) O disposto nos n.os 5, 6 e 7 do presente artigo entram em vigor a partir do início de vigência do diploma que aprove o próximo Orçamento da Região Autónoma da Madeira
+
+> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084) O disposto nos n.ºs 5 a 7 do presente artigo produz efeitos a partir do dia seguinte ao da cessação da vigência do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 50.º — Menção de inadequado
+
+1 - A atribuição da menção qualitativa de Desempenho inadequado deve ser acompanhada de caracterização que especifique por parâmetro os respectivos fundamentos, de modo a possibilitar decisões no sentido de:
+
+a) Analisar os fundamentos de insuficiência no desempenho e identificar as necessidades de formação e o plano de desenvolvimento profissional adequados à melhoria do desempenho do trabalhador;
+
+b) Fundamentar decisões de melhor aproveitamento das capacidades do trabalhador.
+
+2 - As necessidades de formação identificadas devem traduzir-se em ações a incluir no plano de desenvolvimento profissional, no ano subsequente imediato.
+
+3 - Para efeitos de aplicação do disposto em matéria de procedimento disciplinar, na LTFP, a avaliação de desempenho negativa nela prevista corresponde à menção qualitativa de inadequado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 50.º-A — Potencial de desenvolvimento dos trabalhadores
+
+1 - O sistema de avaliação do desempenho deve permitir a identificação do potencial de evolução e desenvolvimento dos trabalhadores e o diagnóstico das respetivas necessidades de formação, devendo estas ser consideradas no plano de formação anual de cada serviço.
+
+2 - A identificação das necessidades de formação deve associar as necessidades prioritárias dos trabalhadores e a exigência do posto de trabalho que lhe está atribuído, tendo em conta os recursos disponíveis para esse efeito.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+### Capítulo II — Intervenientes no processo de avaliação
+
+###### Artigo 51.º — Intervenientes
+
+1 - Intervêm no processo de avaliação do desempenho dos trabalhadores no âmbito de cada serviço:
+
+a) O avaliador;
+
+b) O avaliado;
+
+c) O conselho coordenador da avaliação;
+
+d) A comissão paritária;
+
+e) O dirigente máximo do serviço.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 52.º — Avaliador
+
+1 - A avaliação é da competência do superior hierárquico imediato ou, na sua ausência ou impedimento, do superior hierárquico de nível seguinte, cabendo ao avaliador:
+
+a) Negociar os objectivos com o avaliado, de acordo com os objectivos e resultados fixados para a sua unidade orgânica ou em execução das respectivas competências, e fixar os indicadores de medida do desempenho, designadamente os critérios de superação de objectivos, no quadro das orientações gerais fixadas pelo conselho coordenador da avaliação;
+
+b) Rever regularmente com o avaliado os objetivos negociados, ajustá-los, se necessário, e reportar ao avaliado a evolução do seu desempenho e possibilidades de melhoria;
+
+c) Negociar as competências que integram o segundo parâmetro de avaliação, nos termos da alínea b) do artigo 42.º e do artigo 45.º;
+
+d)  Avaliar os trabalhadores diretamente subordinados, assegurando a correta aplicação dos princípios integrantes da avaliação;
+
+e) Ponderar as expectativas dos trabalhadores no processo de identificação das respectivas necessidades de desenvolvimento;
+
+f) Fundamentar as avaliações de desempenho de muito bom, bom e inadequado, para os efeitos previstos no presente diploma;
+
+g) Remeter os contributos escritos adequados a uma efetiva e justa avaliação do dirigente máximo ou ao novo avaliador, nos termos previstos no artigo 39.º-B.
+
+2 - O superior hierárquico imediato deve recolher e registar os contributos que reputar adequados e necessários a uma justa avaliação, designadamente quando existam trabalhadores com responsabilidade efectiva de acompanhamento e orientação sobre o trabalho desenvolvido pelos avaliados.
+
+3 - A ausência ou impedimento de avaliador direto não constitui fundamento para não avaliar o trabalhador.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 53.º — Avaliado
+
+1 - Em cumprimento dos princípios enunciados no presente diploma, o avaliado tem direito:
+
+a) A que lhe sejam garantidos os meios e condições necessários ao seu desempenho em harmonia com os objectivos e resultados que tenha contratualizado;
+
+b) À avaliação do seu desempenho, no prazo legalmente fixado;
+
+c) Ao acesso ao material utilizado no seu processo de avaliação, designadamente o referido no n.º 2 do artigo anterior e os indicadores de medida utilizados.
+
+2 - Constituem deveres do avaliado:
+
+a) Contratualizar com o avaliador os objetivos e as competências que constituem parâmetros de avaliação e respetivos indicadores de medida;
+
+b) Proceder à respetiva autoavaliação com garantia de envolvimento ativo e responsabilização no processo avaliativo.
+
+3 - Os dirigentes dos serviços são responsáveis pela aplicação e divulgação do sistema de avaliação aos avaliados, nos prazos legalmente fixados, garantindo o cumprimento dos seus princípios e diferenciação do mérito.
+
+4 - É garantido aos avaliados o conhecimento dos objectivos, fundamentos, conteúdo e funcionamento do sistema de avaliação.
+
+5 - É garantido ao avaliado o direito de reclamação, de recurso e de impugnação jurisdicional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 54.º — Conselho coordenador da avaliação
+
+1 - Junto do dirigente máximo de cada serviço funciona um conselho coordenador da avaliação, ao qual compete:
+
+a) Estabelecer diretrizes para uma aplicação objetiva e harmónica do SIADAP-RAM 3, tendo em consideração os documentos que integram o ciclo de gestão referido no n.º 3 do artigo 7.º;
+
+b) Estabelecer as orientações gerais em matéria de fixação de objectivos, de escolha de competências e de indicadores de medida, com especial ênfase para os relativos à caracterização da situação de superação de objectivos;
+
+c) Estabelecer, se necessário, o número máximo de objectivos e de competências a que se deve subordinar a avaliação de desempenho, podendo fazê-lo para todos os trabalhadores do serviço ou, quando se justifique, por unidade orgânica ou por carreira;
+
+d) Validar as avaliações de desempenho de muito bom, bom ou inadequado, bem como proceder ao reconhecimento de desempenho excelente;
+
+e) Emitir parecer sobre os pedidos de apreciação das propostas de avaliação dos dirigentes intermédios avaliados;
+
+f) Exercer as demais competências que, por lei ou regulamento, lhe são cometidas;
+
+g) Definir os critérios de desempate necessários ao processo de avaliação, bem como os seus efeitos, designadamente em matéria de harmonização das propostas de avaliação;
+
+h) Garantir, no início de cada ciclo de avaliação, o cumprimento da contratualização dos parâmetros de avaliação e das orientações a que se refere a alínea b);
+
+i) Atribuir, nos casos de não validação das avaliações de desempenho de muito bom, bom ou inadequado, classificação final quantitativa com a correspondente menção qualitativa, nos termos previstos no n.º 5 do artigo 47.º
+
+2 - O conselho coordenador da avaliação é presidido pelo dirigente máximo do serviço e integra, para além dos dirigentes superiores de 2.º grau, o responsável pela gestão de recursos humanos e um dirigente de cada unidade orgânica, até ao limite de 10, sem prejuízo do número seguinte, quando superior.
+
+3 - Nos serviços de grande dimensão, sem prejuízo da existência do conselho coordenador da avaliação nos termos dos números anteriores, para efeitos de operacionalização do seu funcionamento, podem ser criadas secções autónomas presididas pelo dirigente máximo do serviço, compostas por um número restrito de dirigentes, exercendo as competências previstas nas alíneas d) e i) do n.º 1.
+
+4 - Nos serviços de reduzida dimensão, quando não for possível a constituição do conselho coordenador da avaliação nos termos do n.º 2, as respetivas competências legais são confiadas, consecutivamente:
+
+a) A uma comissão de avaliação, composta por dois a cinco trabalhadores com responsabilidade funcional adequada e ou dirigentes designados pelo dirigente máximo do serviço, que a preside; ou
+
+b) Ao dirigente máximo do serviço, sempre que se verifique a impossibilidade da constituição da comissão de avaliação nos termos da alínea anterior.
+
+5 - A presidência do conselho coordenador da avaliação ou das secções autónomas previstas nos números anteriores pode ser delegada nos termos da lei.
+
+6 - Excepcionalmente, sempre que a estrutura orgânica dos serviços envolvidos assim o recomendar, poderá constituir-se, por despacho do membro do Governo Regional respectivo, um conselho de coordenação da avaliação comum a esses serviços.
+
+7 - Tratando-se do desempenho de dirigentes intermédios, o conselho coordenador da avaliação não pode integrar dirigentes intermédios ou trabalhadores de nível inferior ao do avaliado.
+
+8 - Na impossibilidade de composição do conselho coordenador da avaliação na situação prevista no número anterior, será o mesmo constituído pelos dirigentes máximos dos organismos dependentes do respectivo departamento do Governo Regional.
+
+9 - Às reuniões do conselho coordenador da avaliação aplicam-se as disposições do Código do Procedimento Administrativo relativas às garantias de imparcialidade, nomeadamente, o disposto no seu artigo 69.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 55.º — Comissão paritária
+
+1 - Junto do dirigente máximo de cada serviço funciona uma comissão paritária com competência consultiva para apreciar propostas de avaliação dadas a conhecer a trabalhadores avaliados, antes da homologação.
+
+2 - A comissão paritária é composta por quatro vogais efectivos, sendo dois representantes da administração, um dos quais membro do conselho coordenador da avaliação, designados pelo dirigente máximo do serviço, e dois representantes dos trabalhadores por estes eleitos.
+
+3 - Nos serviços de grande dimensão podem ser constituídas várias comissões paritárias, em que os representantes da administração são designados de entre os membros das secções autónomas previstas no n.º 4 do artigo anterior e os representantes dos trabalhadores eleitos pelos universos de trabalhadores que correspondam à competência daquelas secções autónomas.
+
+4 - Os vogais representantes da Administração são designados em número de quatro, pelo período de quatro anos, sendo dois efetivos, um dos quais orienta os trabalhos da comissão, e dois suplentes.
+
+5 - Os vogais representantes dos trabalhadores são eleitos, pelo período de quatro anos, em número de seis, sendo dois efetivos e quatro suplentes, através de escrutínio secreto pelos trabalhadores que constituem o universo de trabalhadores de todo o serviço ou de parte dele, nos termos do n.º 3.
+
+6 - O processo de eleição dos vogais representantes dos trabalhadores deve decorrer em Dezembro e é organizado nos termos de despacho do dirigente máximo do serviço que é publicitado na respectiva página electrónica, do qual devem constar, entre outros, os seguintes pontos:
+
+a) Data limite para indicação, pelos trabalhadores, dos membros da mesa ou mesas de voto, referindo expressamente que, na ausência dessa indicação, os mesmos são designados pelo dirigente competente até quarenta e oito horas antes da realização do acto eleitoral;
+
+b) Número de elementos da mesa ou mesas de voto, o qual não deve ser superior a cinco por cada mesa, incluindo os membros suplentes;
+
+c) Data do acto eleitoral;
+
+d) Período e local do funcionamento das mesas de voto;
+
+e) Data limite da comunicação dos resultados ao dirigente respectivo;
+
+f) Dispensa dos membros das mesas do exercício dos seus deveres funcionais no dia em que tem lugar a eleição, sendo igualmente concedidas facilidades aos restantes trabalhadores pelo período estritamente indispensável para o exercício do direito de voto.
+
+7 - A não participação dos trabalhadores na eleição implica a não constituição da comissão paritária sem, contudo, obstar ao prosseguimento do processo de avaliação, entendendo-se como irrelevantes quaisquer pedidos de apreciação por esse órgão.
+
+8 - Os vogais efectivos são substituídos pelos vogais suplentes quando tenham de interromper o respectivo mandato ou sempre que a comissão seja chamada a pronunciar-se sobre processos em que aqueles tenham participado como avaliados ou avaliadores.
+
+9 - Quando se verificar a interrupção do mandato de pelo menos metade do número de vogais efectivos e suplentes, representantes da administração, por um lado, ou eleitos em representação dos avaliados, por outro, os procedimentos previstos nos n.os 4 e 5 podem ser repetidos, se necessário, por uma única vez e num prazo de cinco dias.
+
+10 - Nos casos do número anterior, os vogais designados ou eleitos para preenchimento das vagas completam o mandato daqueles que substituem, passando a integrar a comissão até ao termo do período de funcionamento desta.
+
+11 - Nas situações previstas no n.º 9, a impossibilidade comprovada de repetição dos procedimentos referidos não é impeditiva do prosseguimento do processo de avaliação, entendendo-se como irrelevantes quaisquer pedidos de apreciação pela comissão paritária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 56.º — Dirigente máximo do serviço
+
+1 - Compete ao dirigente máximo do serviço:
+
+a) Garantir a adequação do sistema de avaliação do desempenho às realidades específicas do serviço;
+
+b) Coordenar e controlar o processo de avaliação, de acordo com os princípios e regras definidos no presente diploma;
+
+c) Fixar níveis de ponderação dos parâmetros de avaliação, nos termos do presente diploma;
+
+d) (Revogada.)
+
+e) Homologar as avaliações;
+
+f) Decidir das reclamações dos avaliados;
+
+g) Assegurar a elaboração do relatório da avaliação do desempenho, que integra o relatório de atividades do serviço no ano da sua realização;
+
+h) Exercer as demais competências que lhe são cometidas pelo presente diploma.
+
+2 - Quando o dirigente máximo não homologar as avaliações atribuídas pelos avaliadores ou pelo conselho coordenador da avaliação, no caso previsto no n.º 2 do artigo 60.º, atribui classificação final qualitativa e respetiva quantificação, com a respetiva fundamentação.
+
+3 - A competência prevista na alínea e) do n.º 1 pode ser delegada nos demais dirigentes superiores do serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+### Capítulo III — Processo de avaliação
+
+###### Artigo 57.º — Fases
+
+O processo de avaliação dos trabalhadores comporta as seguintes fases:
+
+a) Planeamento do processo de avaliação, definição de competências, objetivos e resultados a atingir;
+
+b) Controlo do cumprimento da contratualização dos parâmetros de avaliação;
+
+c) Realização da auto-avaliação e da avaliação;
+
+d) Validação das propostas de avaliação e reconhecimento de desempenhos excelentes;
+
+e) (Revogada.)
+
+f) Reunião entre avaliador e avaliado para comunicação da avaliação de desempenho anterior e contratualização dos objetivos, respetivos indicadores e fixação das competências;
+
+g) Apreciação do processo de avaliação pela comissão paritária;
+
+h) Homologação;
+
+i) Reclamação e outras impugnações;
+
+j) Monitorização e revisão dos objectivos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 58.º — Planeamento
+
+1 - O planeamento do processo de avaliação, definição de objectivos e fixação dos resultados a atingir obedece às seguintes regras:
+
+a) O processo é da iniciativa e responsabilidade do dirigente máximo do serviço e deve decorrer das orientações fundamentais dos documentos que integram o ciclo de gestão, das competências de cada unidade orgânica e da gestão articulada de actividades, centrada na arquitectura transversal dos processos internos de produção;
+
+b) A definição de objectivos e resultados a atingir pelas unidades orgânicas deve envolver os respectivos dirigentes, chefias e trabalhadores, assegurando a uniformização de prioridades e alinhamento interno da actividade do serviço com os resultados a obter, a identificação e satisfação do interesse público e das necessidades dos utilizadores;
+
+c) A planificação em cascata, quando efectuada, deve evidenciar o contributo de cada unidade orgânica para os resultados finais pretendidos para o serviço;
+
+d) (Revogada.)
+
+2 - (Revogado.)
+
+3 - O planeamento dos objetivos e resultados a atingir pelo serviço é considerado pelo conselho coordenador da avaliação na fixação de orientações para:
+
+a) Uma fixação objetiva e harmónica do sistema de avaliação do desempenho;
+
+b) A fixação de indicadores, em particular os relativos à superação de objetivos;
+
+c) Validar as avaliações de desempenho de muito bom, bom ou inadequado, bem como o reconhecimento de desempenho excelente.
+
+4 - Na fase de planeamento estabelecem-se as articulações necessárias na aplicação dos vários subsistemas que constituem o SIADAP, nomeadamente visando o alinhamento dos objectivos do serviço, dos dirigentes e demais trabalhadores.
+
+5 - A fase de planeamento deve decorrer no último trimestre do ano anterior ao início do ciclo avaliativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 59.º — Auto-avaliação e avaliação
+
+1 - A auto-avaliação tem como objectivo envolver o avaliado no processo de avaliação e identificar oportunidades de desenvolvimento profissional.
+
+2 - A auto-avaliação é obrigatória e concretiza-se através de preenchimento de ficha própria, a analisar pelo avaliador, se possível conjuntamente com o avaliado, com carácter preparatório à atribuição da avaliação, não constituindo componente vinculativa da avaliação de desempenho.
+
+3 - A avaliação é efetuada pelo avaliador nos termos do presente diploma, das orientações transmitidas pelo conselho coordenador da avaliação e em função dos parâmetros e respetivos indicadores de desempenho.
+
+4 - A avaliação é presente ao conselho coordenador da avaliação para efeitos de validação de propostas de avaliação de desempenho de muito bom, bom, inadequado, ou de reconhecimento da distinção de excelente.
+
+5 - A autoavaliação e a avaliação devem, em regra, decorrer na 1.ª quinzena de janeiro do ano seguinte àquele em que se completa o ciclo avaliativo.
+
+6 - A auto-avaliação é solicitada pelo avaliador ou entregue por iniciativa do avaliado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 60.º — Reunião do conselho coordenador da avaliação
+
+1 - Na 2.ª quinzena de janeiro, realiza-se a reunião do conselho coordenador da avaliação para a análise das propostas de avaliação, procedendo:
+
+a) À validação das propostas de avaliação de desempenho muito bom;
+
+b) À validação das propostas de avaliação de desempenho bom;
+
+c) À validação das propostas de avaliação de desempenho inadequado;
+
+d) À análise do impacto do desempenho, designadamente para efeitos de reconhecimento do desempenho excelente.
+
+2 - Em caso de não validação da proposta de avaliação, o conselho coordenador da avaliação estabelece a classificação final quantitativa com a correspondente menção qualitativa, nos termos do disposto do n.º 5 do artigo 47.º
+
+3 - Nos casos previstos no número anterior o conselho coordenador da avaliação transmite a classificação final ao avaliador para que este dê conhecimento ao avaliado na reunião de avaliação e a remeta para homologação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 61.º — Reunião de avaliação
+
+1 - Durante o mês de fevereiro do ano seguinte àquele em que se completa o ciclo avaliativo e após a validação referida no artigo anterior, realizam-se as reuniões dos avaliadores com cada um dos respetivos avaliados, tendo como objetivo dar conhecimento da avaliação.
+
+2 - No decurso da reunião, avaliador e avaliado devem analisar conjuntamente o perfil de evolução do trabalhador, identificar as suas expectativas de desenvolvimento bem como abordar os demais efeitos previstos no artigo 49.º
+
+3 - Considerando os objetivos fixados para a respetiva unidade orgânica, no decurso da reunião são contratualizados os parâmetros da avaliação.
+
+4 - A reunião de avaliação é marcada pelo avaliador ou requerida pelo avaliado.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 61.º-A — Controlo do cumprimento da contratualização dos parâmetros de avaliação
+
+1 - Após reunião de avaliação, o conselho coordenador da avaliação verifica o cumprimento da contratualização dos parâmetros de avaliação, sinalizando os casos de incumprimento e determinando a fixação dos referidos parâmetros no prazo máximo de 10 dias úteis.
+
+2 - Findo o prazo referido no número anterior, sem que a contratualização tenha ocorrido, o imediato superior hierárquico do avaliador, ou, na sua ausência, o conselho coordenador da avaliação, contratualiza os parâmetros em falta.
+
+3 - O disposto nos números anteriores é considerado para efeitos de avaliação dos dirigentes envolvidos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 62.º — Contratualização dos parâmetros
+
+1 - No início de cada ciclo de avaliação, no começo do exercício de um novo cargo ou função, bem como em todas as circunstâncias em que seja possível a fixação de objetivos a atingir, é efetuada reunião entre avaliador e avaliado destinada a fixar e registar na ficha de avaliação tais objetivos e as competências a demonstrar, bem como os respetivos indicadores de medida e critérios de superação.
+
+2 - A reunião de negociação referida no número anterior pode ser precedida de reunião de análise do dirigente com todos os avaliados que integrem a respetiva unidade orgânica ou equipa, sendo a mesma obrigatória quando existirem objetivos partilhados decorrentes de documentos que integram o ciclo de gestão.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 63.º — Contratualização de objectivos
+
+Sem prejuízo do disposto no artigo 43.º, a contratualização de objectivos a atingir efectua-se de acordo com as seguintes regras:
+
+a) Os objectivos a atingir por cada trabalhador devem ser acordados entre avaliador e avaliado no início do período da avaliação, prevalecendo, em caso de discordância, a posição do avaliador;
+
+b) A identificação de resultados de aperfeiçoamento e desenvolvimento individual do trabalhador é obrigatória num dos objectivos, quando resulte de diagnóstico efectuado no âmbito de avaliação do desempenho classificado como Desempenho inadequado;
+
+c) Os objectivos de aperfeiçoamento e desenvolvimento do trabalhador podem ser de âmbito relacional, de atitudes ou de aquisição de competências técnicas e de métodos de trabalho.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 64.º — Contratualização de competências
+
+1 - Sem prejuízo do disposto no artigo 45.º, a fixação de competências a avaliar efectua-se de acordo com as seguintes regras:
+
+a) As competências a desenvolver pelos trabalhadores são definidas e listadas em perfis específicos, decorrentes da análise e qualificação das funções correspondentes à respectiva carreira, categoria, área funcional ou posto de trabalho, e concretizam-se nos modelos específicos de adaptação do SIADAP-RAM 3;
+
+b) A identificação das competências a demonstrar no desempenho de cada trabalhador é efetuada de entre as relacionadas com a respetiva carreira, categoria, área funcional ou posto de trabalho, preferencialmente por acordo entre os intervenientes na avaliação.
+
+2 - A selecção das competências a avaliar é efectuada de entre as constantes da lista a que se refere o n.º 6 do artigo 33.º sempre que se não verifique o previsto na alínea a) do número anterior, traduzida nos instrumentos regulamentares de adaptação do SIADAP-RAM.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 65.º — Validações e reconhecimentos
+
+1 - Na sequência das reuniões de avaliação, previstas no artigo 61.º, realizam-se as reuniões do conselho coordenador da avaliação tendo em vista:
+
+a) A validação das propostas de avaliação com menções de Desempenho relevante e de Desempenho inadequado;
+
+b) A análise do impacto do desempenho, designadamente para efeitos de reconhecimento de Desempenho excelente.
+
+2 - O reconhecimento de Desempenho excelente implica declaração formal do conselho coordenador da avaliação.
+
+3 - Em caso de não validação da proposta de avaliação, o conselho coordenador da avaliação devolve o processo ao avaliador, acompanhado da fundamentação da não validação, para que aquele, no prazo que lhe for determinado, reformule a proposta de avaliação.
+
+4 - No caso de o avaliador decidir manter a proposta anteriormente formulada, deve apresentar fundamentação adequada perante o conselho coordenador da avaliação.
+
+5 - No caso de o conselho coordenador da avaliação não acolher a proposta apresentada nos termos do número anterior, estabelece a proposta final de avaliação, que transmite ao avaliador, para que este dela dê conhecimento ao avaliado e remeta, por via hierárquica, para homologação.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 66.º — Apreciação pela comissão paritária
+
+1 - O trabalhador avaliado, após tomar conhecimento da proposta de avaliação que será sujeita a homologação, pode requerer ao dirigente máximo do serviço, no prazo de 10 dias úteis, que o seu processo seja submetido a apreciação da comissão paritária, apresentando a fundamentação necessária para tal apreciação.
+
+2 - O requerimento deve ser acompanhado da documentação que suporte os fundamentos do pedido de apreciação.
+
+3 - A audição da comissão paritária não pode, em caso algum, ser recusada.
+
+4 - A comissão paritária pode solicitar ao avaliador, ao avaliado ou, sendo o caso, ao conselho coordenador da avaliação os elementos que julgar convenientes para o seu melhor esclarecimento, bem como convidar o avaliador ou avaliado a expor a sua posição, por uma única vez, em audição, cuja duração não poderá exceder trinta minutos.
+
+5 - A apreciação da comissão paritária é feita no prazo de 10 dias úteis contado a partir da data em que tenha sido solicitada e expressa-se através de relatório fundamentado com proposta de avaliação.
+
+6 - O relatório previsto no número anterior é subscrito por todos os vogais e, no caso de não se verificar consenso, deve conter as propostas alternativas apresentadas e respectiva fundamentação.
+
+###### Artigo 67.º — Homologação das avaliações
+
+A homologação das avaliações de desempenho deve ser, em regra, efetuada até 30 de abril, dela devendo ser dado conhecimento ao avaliado no prazo de cinco dias úteis.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 68.º — Reclamação
+
+1 - O prazo para apresentar reclamação do acto de homologação é de 10 dias úteis a contar da data do seu conhecimento, devendo a respectiva decisão ser proferida no prazo máximo de 15 dias úteis, obtido o parecer prévio do conselho coordenador da avaliação.
+
+2 - O avaliado tem o direito de aceder, gratuitamente, aos documentos relativos à sua avaliação, designadamente, através da consulta e ou da obtenção de fotocópias, as quais lhe deverão ser facultadas no prazo de cinco dias úteis.
+
+3 - No caso de o avaliado solicitar a consulta ou fotocópias dos documentos relativos à sua avaliação, o prazo referido no n.º 1 suspende-se, recomeçando a contar-se a partir do dia em que aquelas lhe sejam facultadas.
+
+4 - Na decisão sobre reclamação, o dirigente máximo tem em conta os fundamentos apresentados pelo avaliado e pelo avaliador, bem como os relatórios da comissão paritária ou do conselho coordenador da avaliação sobre pedidos de apreciação anteriormente apresentados.
+
+5 - Em caso de ausência de resposta à reclamação no prazo referido no n.º 1, deve a mesma considerar-se indeferida.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 69.º — Outras impugnações
+
+1 - Do acto de homologação e da decisão sobre reclamação cabe impugnação administrativa, por recurso hierárquico ou tutelar, ou impugnação jurisdicional, nos termos gerais.
+
+2 - A decisão administrativa ou jurisdicional favorável confere ao trabalhador o direito a ver revista a sua avaliação ou a ser-lhe atribuída nova avaliação.
+
+3 - Sempre que não for possível a revisão da avaliação, designadamente por substituição superveniente do avaliador, é competente para o efeito o novo superior hierárquico ou o dirigente máximo do serviço, a quem cabe proceder a nova avaliação.
+
+###### Artigo 70.º — Monitorização
+
+1 - No decorrer do período de avaliação, são adoptados os meios adequados à monitorização dos desempenhos e efectuada a respectiva análise conjunta, entre avaliador e avaliado ou no seio da unidade orgânica, de modo a viabilizar:
+
+a) A reformulação dos objectivos e dos resultados a atingir, nos casos de superveniência de condicionantes que impeçam o previsto desenrolar da actividade;
+
+b) A clarificação de aspectos que se mostrem úteis ao futuro acto de avaliação;
+
+c) A recolha participada de reflexões sobre o modo efectivo do desenvolvimento do desempenho, como acto de fundamentação da avaliação final.
+
+2 - O disposto no número anterior é realizado por iniciativa do avaliador ou a requerimento do avaliado.
+
+###### Artigo 71.º — Diferenciação de desempenhos
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - O número de objetivos e competências a fixar nos parâmetros de avaliação e respetivas ponderações devem ser previamente estabelecidos, nos termos do presente diploma, designadamente nos termos previstos na alínea c) do n.º 1 do artigo 54.º
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 97.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+## Título V — Suporte do sistema de avaliação do desempenho e acções de controlo
+
+###### Artigo 72.º — Gestão e acompanhamento
+
+1 - O disposto no presente diploma em matéria de processos de avaliação e respectivos instrumentos de suporte não impede o seu cumprimento em versão electrónica e, quando for o caso, com utilização de assinaturas digitais.
+
+2 - No final do período de avaliação, cada organismo deve apresentar ao membro do Governo Regional da tutela o relatório anual sobre a aplicação do SIADAP-RAM 3, que evidencie o cumprimento das regras estabelecidas no presente diploma, indicando as menções qualitativas atribuídas por carreira.
+
+3 - O relatório referido no número anterior será divulgado nos respectivos serviços.
+
+4 - Do relatório referido no n.º 2, será elaborado, através dos gabinetes dos membros do Governo Regional, um relatório síntese da forma como o SIADAP-RAM 3 foi aplicado no âmbito do respetivo departamento governamental, o qual deverá ser enviado em suporte informático ao serviço competente em matéria de Administração Pública.
+
+5 - Os dados globais da aplicação do SIADAP-RAM são publicitados na página electrónica do organismo com competência em matéria de administração pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 73.º — Acções de controlo
+
+1 - Cabe aos órgãos com funções de auditoria e controlo interno proceder, nos respectivos departamentos governamentais, à avaliação da forma como os subsistemas de avaliação do desempenho são aplicados.
+
+2 - No caso de não existir o órgão referido no número anterior, pode, por despacho do membro do Governo Regional respectivo, ser indicado o serviço que nesse departamento exercerá aquelas competências.
+
+3 - Compete ao órgão inspectivo definido na alínea b) do n.º 3 do artigo 16.º realizar auditorias de avaliação sobre a aplicação do SIADAP-RAM nos organismos da administração pública regional.
+
+## Título VI — Disposições transitórias e finais
+
+### Capítulo I — Disposições transitórias
+
+###### Artigo 74.º — Estratégia de aplicação
+
+1 - Até 30 de novembro de cada ano, os serviços iniciam ou prosseguem a construção do QUAR prevista no artigo 9.º e, no quadro das orientações fixadas pelos respetivos membros do Governo Regional, propõem os objetivos a prosseguir no ano seguinte e estabelecem os indicadores de desempenho e respetivas fontes de verificação.
+
+2 - Os serviços que, nos diferentes departamentos governamentais, são competentes em matéria de planeamento, estratégia e avaliação acompanham e validam, nos termos da presente lei, o cumprimento do disposto no número anterior.
+
+3 - Até 15 de Dezembro de cada ano, os membros do Governo Regional referidos no n.º 1 aprovam os objectivos anuais de cada serviço.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+### Capítulo II — Disposições finais
+
+###### Artigo 75.º — Extensão do âmbito de aplicação
+
+1 - O SIADAP-RAM 3 é também aplicável, com as necessárias adaptações, aos trabalhadores de pessoas colectivas que se encontrem excluídas do seu âmbito de aplicação, que detivessem a qualidade de funcionário ou agente antes da entrada em vigor da Lei n.º 12-A/2008, de 27 de Fevereiro.
+
+2 - O disposto no número anterior não prejudica a prevalência de sistemas de avaliação específicos, desde que respeitem os princípios, objectivos e critérios de diferenciação de desempenhos estabelecidos no SIADAP-RAM.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 75.º-A — Avaliação com base nas competências
+
+1 - Em casos excecionais, a avaliação dos desempenhos pode incidir apenas sobre o parâmetro 'Competências', previsto na alínea b) do artigo 42.º, mediante decisão fundamentada do dirigente máximo do serviço, ouvido o Conselho Coordenador da Avaliação e com observância do disposto nos números seguintes.
+
+2 - A avaliação a efetuar nos termos do número anterior apenas é admissível no caso de estarem cumulativamente reunidas as seguintes condições:
+
+a) Se trate de trabalhadores a quem, no recrutamento para a respetiva carreira, é exigida habilitação literária ao nível da escolaridade obrigatória ou equivalente;
+
+b) Se trate de trabalhadores a desenvolver atividades ou tarefas caracterizadas maioritariamente como de rotina, com caráter de permanência, padronizadas, previamente determinadas e executivas.
+
+3 - As 'Competências' são previamente escolhidas para cada trabalhador, em número não inferior a oito.
+
+4 - Na escolha das 'Competências' aplica-se o disposto nos n.os 6 e 7 do artigo 33.º e no artigo 64.º, sendo, contudo, obrigatória uma competência que sublinhe a capacidade de realização e orientação para resultados.
+
+5 - Sempre que para o exercício das suas funções o trabalhador estiver em contacto profissional regular com outros trabalhadores ou utilizadores, o avaliador deve ter em conta a perceção por eles obtida sobre o desempenho, como contributo para a avaliação, devendo registá-la no processo de avaliação e refleti-la na avaliação das 'Competências'.
+
+6 - À avaliação de cada competência ao abrigo do presente artigo aplica-se o disposto no n.º 1 do artigo 46.º
+
+7 - A cada competência pode ser atribuída ponderação diversa por forma a destacar a respetiva importância no exercício de funções e assegurar a diferenciação de desempenhos.
+
+8 - A avaliação final é a média aritmética simples ou ponderada das pontuações atribuídas às competências escolhidas para cada trabalhador.
+
+9 - É aplicável à avaliação realizada nos termos do presente artigo, com as necessárias adaptações, o disposto nos títulos IV e V.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2015/M - Diário da República n.º 248/2015, Série I de 2015-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2015-72942084), em vigor a partir de 2015-12-22
+
+###### Artigo 76.º — Critérios de desempate
+
+Quando, para os efeitos previstos na lei, for necessário proceder a desempate entre trabalhadores ou dirigentes que tenham a mesma classificação final na avaliação de desempenho, releva consecutivamente a avaliação obtida no parâmetro «Resultados», a avaliação de desempenho imediatamente anterior na vertente quantitativa, o tempo de serviço relevante na carreira e no exercício de funções públicas.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 77.º — Avaliações anteriores e conversão de resultados
+
+1 - Nas situações previstas na lei em que seja necessário ter em conta a avaliação de desempenho ou a classificação de serviço e, em concreto, devam ser tidos em conta os resultados da aplicação de diversos sistemas de avaliação, é usada, para conversão de valores quantitativos, a escala do SIADAP-RAM, devendo ser convertidas proporcionalmente para esta quaisquer outras escalas utilizadas, com aproximação por defeito, quando necessário.
+
+2 - Nas situações previstas no número anterior, em que só tenha havido atribuição de menção qualitativa ou atribuição de valores quantitativos não sujeitos a percentagens de diferenciação de desempenhos, é realizada ponderação curricular, nos termos do artigo 40.º, por avaliador designado pelo dirigente máximo do serviço.
+
+3 - No caso previsto nos n.os 5 e 6 do artigo 39.º releva ainda, para efeitos da respectiva carreira, a última avaliação atribuída nos termos:
+
+a) Do SIADAP aprovado pela Lei n.º 10/2004, de 22 de Março, e regulamentado pelo Decreto Legislativo Regional n.º 11/2005/M, de 29 de Junho;
+
+b) Dos sistemas de avaliação aprovados ao abrigo do artigo 21.º da lei referida na alínea anterior que estabeleçam percentagens de diferenciação em observância do princípio de diferenciação de desempenhos consagrado no artigo 15.º do mesmo diploma legal;
+
+c) Do n.º 3 do artigo 2.º da Lei n.º 15/2006, de 26 de Abril.
+
+4 - No caso de quem não tenha avaliação do desempenho por motivo que não lhe seja imputável, pode ser requerida a ponderação curricular, nos termos do artigo 40.º, a realizar por avaliador designado pelo dirigente máximo do serviço.
+
+5 - (Revogado.)
+
+###### Artigo 78.º — Remissão
+
+Os modelos de fichas de autoavaliação, de avaliação, de monitorização do desempenho, de reformulação de objetivos, bem como as listas de competências, são os constantes da Portaria n.º 236/2024/1, de 27 de setembro, considerando-se reportadas aos departamentos do Governo Regional, as referências a Ministérios ou a entidades da administração central.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2024/M - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2024-901536099), em vigor a partir de 2025-01-01
+
+###### Artigo 79.º — Revogação
+
+1 - São revogados:
+
+a) O Decreto Legislativo Regional n.º 11/2005/M, de 29 de Junho;
+
+b) A Portaria n.º 54/2006, de 24 de Maio.
+
+2 - As revogações referidas no número anterior produzem-se aquando da aplicação da avaliação do desempenho na administração regional autónoma da Madeira, nos termos previstos no presente diploma.
+
+3 - O disposto nos números anteriores não prejudica a aplicação dos diplomas ali referidos relativamente aos desempenhos prestados até 2011, no caso de serviços que disponham de sistemas de avaliação específicos derivados daquele decreto legislativo regional.
+
+###### Artigo 80.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Julho de 2009.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 11 de Agosto de 2009.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

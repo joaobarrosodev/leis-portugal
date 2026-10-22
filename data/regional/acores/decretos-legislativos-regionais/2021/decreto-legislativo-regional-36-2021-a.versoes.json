@@ -1,0 +1,898 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175129349:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-175128403",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/36-2021-175129349",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175122638",
+    "175122639",
+    "175122640",
+    "175122641",
+    "175122642",
+    "175122643",
+    "175122644",
+    "175122645",
+    "175122646",
+    "175122647",
+    "175122648",
+    "175122649",
+    "175122650",
+    "175122651",
+    "175122652",
+    "175122653",
+    "175122654",
+    "175122655",
+    "175122656",
+    "175122657",
+    "175122658",
+    "175122659",
+    "175122660",
+    "175122661",
+    "175122662",
+    "175122663",
+    "175122664",
+    "175122665",
+    "175122666",
+    "175122667",
+    "175122668",
+    "175122669",
+    "175122670",
+    "175122671",
+    "175122672",
+    "175122673",
+    "175122674",
+    "175214675",
+    "175214676",
+    "175214677",
+    "175214678",
+    "175214679",
+    "175214680",
+    "175214681",
+    "175214682",
+    "175214683",
+    "175214684",
+    "175214685",
+    "175214686",
+    "175214687",
+    "175214688",
+    "175214689",
+    "175214690",
+    "175214691",
+    "175214692",
+    "175214693",
+    "175214694",
+    "175214695",
+    "175214696",
+    "175214697",
+    "175214698",
+    "175214699",
+    "175214700",
+    "175214701",
+    "175214702",
+    "175214703",
+    "175214704",
+    "175214705",
+    "175214706",
+    "175214707"
+   ]
+  },
+  {
+   "date": "2022-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184306939:por",
+     "title": "Decreto Legislativo Regional n.º 15/2022/A",
+     "published": "2022-06-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2022-184306939"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 34.º"
+   ],
+   "fragments": [
+    "175122638",
+    "175122639",
+    "175122640",
+    "175122641",
+    "175122642",
+    "175122643",
+    "175122644",
+    "175122645",
+    "175122646",
+    "175122647",
+    "175122648",
+    "175122649",
+    "175122650",
+    "175122651",
+    "175122652",
+    "175122653",
+    "175122654",
+    "175122655",
+    "175122656",
+    "175122657",
+    "175122658",
+    "175122659",
+    "175122660",
+    "175122661",
+    "175122662",
+    "175122663",
+    "175122664",
+    "175122665",
+    "175122666",
+    "175122667",
+    "175122668",
+    "175122669",
+    "175122670",
+    "175122671",
+    "175122672",
+    "175122673",
+    "175122674",
+    "175214675",
+    "175214676",
+    "175214677",
+    "175214678",
+    "175214679",
+    "175214680",
+    "175214681",
+    "175214682",
+    "175214683",
+    "175214684",
+    "175214685",
+    "184350831",
+    "175214687",
+    "175214688",
+    "175214689",
+    "175214690",
+    "175214691",
+    "175214692",
+    "175214693",
+    "175214694",
+    "175214695",
+    "175214696",
+    "175214697",
+    "175214698",
+    "175214699",
+    "175214700",
+    "175214701",
+    "175214702",
+    "175214703",
+    "175214704",
+    "175214705",
+    "175214706",
+    "175214707",
+    "175214708"
+   ]
+  },
+  {
+   "date": "2025-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:917107827:por",
+     "title": "Decreto Legislativo Regional n.º 16/2025/A",
+     "published": "2025-05-07",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2025-917107827"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 47.º"
+   ],
+   "fragments": [
+    "175122638",
+    "175122639",
+    "175122640",
+    "175122641",
+    "175122642",
+    "175122643",
+    "175122644",
+    "175122645",
+    "175122646",
+    "175122647",
+    "175122648",
+    "175122649",
+    "175122650",
+    "175122651",
+    "175122652",
+    "175122653",
+    "175122654",
+    "175122655",
+    "175122656",
+    "175122657",
+    "175122658",
+    "175122659",
+    "175122660",
+    "175122661",
+    "175122662",
+    "175122663",
+    "175122664",
+    "175122665",
+    "175122666",
+    "175122667",
+    "175122668",
+    "917251638",
+    "175122670",
+    "175122671",
+    "175122672",
+    "175122673",
+    "175122674",
+    "175214675",
+    "175214676",
+    "175214677",
+    "175214678",
+    "175214679",
+    "175214680",
+    "175214681",
+    "175214682",
+    "175214683",
+    "175214684",
+    "917251639",
+    "917251640",
+    "175214687",
+    "175214688",
+    "175214689",
+    "175214690",
+    "175214691",
+    "175214692",
+    "175214693",
+    "175214694",
+    "175214695",
+    "175214696",
+    "175214697",
+    "175214698",
+    "175214699",
+    "175214700",
+    "917251641",
+    "175214702",
+    "917251642",
+    "175214704",
+    "175214705",
+    "175214706",
+    "175214707",
+    "175214708"
+   ]
+  }
+ ],
+ "fragments": {
+  "175122638": {
+   "fragment_id": "175128404",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 36/2021/A\n\nSumário: Orgânica dos Serviços da Assembleia Legislativa da Região Autónoma dos Açores.\n\nOrgânica dos serviços da Assembleia Legislativa da Região Autónoma dos Açores\n\nConsiderando o atual quadro pluripartidário inovador da Assembleia Legislativa da Região Autónoma dos Açores, que encerra em si um novo paradigma político na cena da democracia açoriana, urge proceder à atualização dos procedimentos, organização, estruturação e tramitação dos seus serviços e instrumentos de gestão administrativa e financeira, com vista à sua eficiência, racionalização e otimização, por forma a garantir uma maior transparência.\n\nConsiderando a evolução das políticas laborais no contexto regional, com vista ao combate à precariedade laboral, reforçando os direitos dos trabalhadores, garantindo maior estabilidade e produtividade, bem como segurança no trabalho e reforço das expectativas de vida destes, considera-se urgente promover a atualização da orgânica dos serviços da Assembleia Legislativa da Região Autónoma dos Açores.\n\nConsiderando a crescente precisão de rigor técnico na apreciação das matérias em discussão, e atendendo ao grau de responsabilidade das decisões e respetivo impacto, verifica-se uma necessidade de atualizar os serviços da Assembleia Legislativa aos desafios contemporâneos, proporcionando, de forma igualitária, proporcional, justa e equitativa, o apoio parlamentar a todos os Deputados, salvaguardando-se a dignidade laboral de todos e respeito pelas atividades parlamentares desenvolvidas.\n\nConsiderando que desde o início desta legislatura se tem assistido, ainda que de forma gradual, a uma atualização dos diversos mecanismos de funcionamento e organização da Assembleia Legislativa da Região Autónoma dos Açores.\n\nConsiderando que a orgânica dos serviços da Assembleia Legislativa da Região Autónoma dos Açores, aprovada pelo Decreto Legislativo Regional n.º 54/2006/A, de 22 de dezembro, sem prejuízo das posteriores alterações, está desatualizada, sobretudo no que respeita à organização e estruturação dos respetivos serviços, é determinante proceder à sua revisão e incitar à modernização da sua transição, essencialmente no que respeita à organização e governação do funcionamento deste órgão de governo próprio.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, conjugada com o n.º 4 do artigo 112.º da Constituição da República Portuguesa e no artigo 37.º, conjugado com o n.º 1 e a alínea b) do n.º 2 do artigo 49.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "175122639": {
+   "fragment_id": "175128405",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "175122640": {
+   "fragment_id": "175128406",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma tem por objeto a organização e a estruturação dos serviços e instrumentos de gestão administrativa e financeira da Assembleia Legislativa da Região Autónoma dos Açores e o estatuto do respetivo pessoal, bem como do pessoal do gabinete do Presidente da Assembleia Legislativa e dos grupos e representações parlamentares.\n\n2 - A Assembleia Legislativa tem um regime financeiro privativo, sendo dotada de personalidade jurídica e autonomia administrativa e financeira, nos termos do presente diploma."
+  },
+  "175122641": {
+   "fragment_id": "175128407",
+   "type": 1,
+   "heading": "Capítulo II — Sede, delegações e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sede, delegações e segurança"
+  },
+  "175122642": {
+   "fragment_id": "175128408",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A Assembleia Legislativa tem a sua sede na cidade da Horta, ilha do Faial.\n\n2 - A sede comporta espaços próprios para os grupos e representações parlamentares, Deputados independentes e reuniões de comissões parlamentares e disponibiliza, sempre que necessário, espaços de apoio aos Deputados à Assembleia da República e ao Parlamento Europeu."
+  },
+  "175122643": {
+   "fragment_id": "175128409",
+   "type": 11,
+   "heading": "Artigo 3.º — Delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Delegações\n\n1 - A Assembleia Legislativa dispõe de delegações em todas as outras ilhas da Região.\n\n2 - As delegações comportam, sempre que possível, os espaços referidos no n.º 2 do artigo anterior."
+  },
+  "175122644": {
+   "fragment_id": "175128410",
+   "type": 11,
+   "heading": "Artigo 4.º — Outras instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Outras instalações\n\nA Assembleia Legislativa pode requisitar ao Governo Regional, tomar de arrendamento ou adquirir as instalações indispensáveis ao seu funcionamento."
+  },
+  "175122645": {
+   "fragment_id": "175128411",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviço de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviço de segurança\n\n1 - A Assembleia Legislativa dispõe de um serviço de segurança, com as competências e organização definidas no decreto legislativo regional que aprova as competências e estrutura das unidades orgânicas dos Serviços da Assembleia Legislativa.\n\n2 - O serviço de segurança é coordenado por oficial da Polícia de Segurança Pública, indicado pelo Ministério competente mediante protocolo entre este e a Assembleia Legislativa.\n\n3 - O pessoal auxiliar, no exercício de funções de vigilância, colabora com o serviço de segurança, sem prejuízo do seu enquadramento orgânico nos serviços."
+  },
+  "175122646": {
+   "fragment_id": "175128412",
+   "type": 1,
+   "heading": "Capítulo III — Administração da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Administração da Assembleia Legislativa"
+  },
+  "175122647": {
+   "fragment_id": "175128413",
+   "type": 8,
+   "heading": "Secção I — Órgãos de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos de administração"
+  },
+  "175122648": {
+   "fragment_id": "175128414",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos\n\nSão órgãos de administração da Assembleia Legislativa:\n\na) O Presidente;\n\nb) A Mesa;\n\nc) O Conselho Administrativo."
+  },
+  "175122649": {
+   "fragment_id": "175128415",
+   "type": 8,
+   "heading": "Secção II — Presidente da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Presidente da Assembleia Legislativa"
+  },
+  "175122650": {
+   "fragment_id": "175128416",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências\n\n1 - O Presidente da Assembleia Legislativa tem as competências que lhe são atribuídas pela Constituição, pelo Estatuto Político-Administrativo da Região Autónoma dos Açores, pelo Regimento da Assembleia Legislativa e pelo presente diploma.\n\n2 - O Presidente da Assembleia Legislativa superintende na administração dos serviços.\n\n3 - Para efeitos do número anterior compete ao Presidente da Assembleia Legislativa praticar os atos que a legislação atribui aos membros do Governo Regional, sem prejuízo do disposto no presente diploma."
+  },
+  "175122651": {
+   "fragment_id": "175128417",
+   "type": 11,
+   "heading": "Artigo 8.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Delegação de competências\n\nO Presidente da Assembleia Legislativa pode delegar, num dos membros da Mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma."
+  },
+  "175122652": {
+   "fragment_id": "175128418",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete do Presidente\n\n1 - O Presidente da Assembleia Legislativa dispõe de um gabinete constituído por um chefe de gabinete, dois adjuntos e dois secretários pessoais.\n\n2 - O pessoal de gabinete é de livre nomeação e exoneração do Presidente da Assembleia Legislativa.\n\n3 - As funções de motorista, de apoio administrativo e auxiliar são asseguradas por trabalhadores da Assembleia Legislativa, designados para o efeito por despacho do Presidente da Assembleia Legislativa."
+  },
+  "175122653": {
+   "fragment_id": "175128419",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime aplicável aos membros do gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime aplicável aos membros do gabinete\n\n1 - Aplica-se aos membros do Gabinete do Presidente da Assembleia Legislativa o regime estabelecido para os membros dos gabinetes do Governo Regional, com as especificidades constantes no presente artigo.\n\n2 - Ao chefe de gabinete e aos adjuntos do Presidente da Assembleia Legislativa pode ser atribuído um abono para despesas de representação, a fixar por despacho do Presidente da Assembleia Legislativa, ouvida a Mesa, nos limites em vigor para o chefe de gabinete e assessores do gabinete do Presidente do Governo Regional, respetivamente.\n\n3 - O pessoal do Gabinete do Presidente da Assembleia Legislativa mantém o regime de segurança social de que já disponha, sendo obrigatoriamente inscrito no regime geral de segurança social se não se encontrar abrangido por qualquer outro.\n\n4 - O pessoal que tenha exercido as funções referidas no n.º 1 com a qualidade de subscritor da Caixa Geral de Aposentações, mantém válida, para todos os efeitos, a respetiva inscrição, podendo efetuar os correspondentes descontos pelo cargo que presentemente exerce, mediante a respetiva reinscrição naquele organismo, no caso de a nomeação ter sido efetuada em regime de requisição, comissão de serviço ou outro."
+  },
+  "175122654": {
+   "fragment_id": "175128420",
+   "type": 8,
+   "heading": "Secção III — A Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — A Mesa"
+  },
+  "175122655": {
+   "fragment_id": "175128421",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\nCompete à Mesa, para além do previsto no Regimento da Assembleia Legislativa:\n\na) Pronunciar-se sobre a política geral da administração dos serviços da Assembleia Legislativa e os meios necessários à sua execução;\n\nb) Aprovar o regime especial de trabalho dos trabalhadores da Assembleia Legislativa;\n\nc) Promover inquéritos e sindicâncias aos serviços;\n\nd) Estabelecer o regulamento de entrada e frequência dos recintos destinados ao público;\n\ne) Aprovar o regulamento de concursos de admissão de pessoal;\n\nf) Aprovar a proposta de orçamento da Assembleia Legislativa, a submeter a Plenário;\n\ng) Aprovar o relatório e a conta da gerência da Assembleia Legislativa, a submeter a Plenário;\n\nh) Aprovar a proposta de estrutura orgânica da Secretaria-Geral, a submeter a Plenário;\n\ni) Autorizar a realização de despesas nos termos do presente diploma;\n\nj) Acompanhar a gestão orçamental, financeira e patrimonial da Assembleia Legislativa;\n\nk) Fixar e regulamentar o montante de apoio logístico a atribuir aos grupos e representações parlamentares, nos termos do presente diploma;\n\nl) Dar parecer sobre a nomeação e a exoneração do secretário-geral;\n\nm) Em geral, coadjuvar o Presidente da Assembleia Legislativa no exercício das suas funções e pronunciar-se sobre os assuntos que este apresente."
+  },
+  "175122656": {
+   "fragment_id": "175128422",
+   "type": 11,
+   "heading": "Artigo 12.º — Cessações de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cessações de funções\n\nNo termo da legislatura ou em caso de dissolução da Assembleia Legislativa, os membros da Mesa mantêm-se em funções até ao início da primeira reunião da Assembleia da nova legislatura."
+  },
+  "175122657": {
+   "fragment_id": "175128423",
+   "type": 8,
+   "heading": "Secção IV — Conselho Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho Administrativo"
+  },
+  "175122658": {
+   "fragment_id": "175128424",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\nCompõem o Conselho Administrativo:\n\na) O secretário-geral;\n\nb) O dirigente da unidade orgânica a quem compete a área financeira dos serviços da Assembleia Legislativa;\n\nc) Um elemento a designar pelo Presidente da Assembleia Legislativa, ouvida a Mesa."
+  },
+  "175122659": {
+   "fragment_id": "175128425",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nCompete ao Conselho Administrativo:\n\na) Elaborar a anteproposta de orçamento da Assembleia Legislativa, submetendo-a à Mesa;\n\nb) Elaborar a anteproposta de relatório e da conta de gerência, submetendo-os à Mesa;\n\nc) Aprovar os planos e os relatórios de atividade dos serviços da Assembleia Legislativa;\n\nd) Aprovar transferências de verbas, inter-rubricas orçamentais, que não impliquem aumento ou diminuição global da despesa ou da receita do orçamento da Assembleia Legislativa;\n\ne) A gestão orçamental e financeira da Assembleia Legislativa;\n\nf) Pronunciar-se sobre a criação, extinção, denominação e definição de competências e a estrutura das unidades orgânicas dos serviços da Assembleia Legislativa;\n\ng) Pronunciar-se sobre o regime especial de trabalho dos trabalhadores da Assembleia Legislativa;\n\nh) Aprovar o mapa de pessoal dos serviços da Assembleia Legislativa;\n\ni) Autorizar a realização de despesas com os limites previstos neste diploma;\n\nj) Exercer os atos de administração relativos ao património da Assembleia Legislativa no que diz respeito aos bens móveis e, relativamente aos bens imóveis, assegurar a sua conservação e beneficiação, bem como propor a sua aquisição, alienação, troca, cedência e arrendamento;\n\nk) Pronunciar-se, sob proposta do secretário-geral, sobre a designação de trabalhadores para o exercício dos cargos de direção especifica dos serviços da Assembleia Legislativa;\n\nl) Dar parecer sobre a mobilidade e cedência de interesse público de pessoal da administração pública e de empresas públicas e privadas;\n\nm) Pronunciar-se sobre outros assuntos suscitados pelo Presidente da Assembleia Legislativa, pela Mesa ou pelo secretário-geral."
+  },
+  "175122660": {
+   "fragment_id": "175128426",
+   "type": 11,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n1 - O Conselho Administrativo é presidido pelo secretário-geral, o qual goza de voto de qualidade em caso de empate.\n\n2 - O Presidente do Conselho Administrativo é substituído nas suas faltas ou impedimentos pelo membro do Conselho Administrativo designado nos termos da alínea c) do artigo 13.º\n\n3 - O Conselho Administrativo reúne ordinariamente pelo menos uma vez por mês e extraordinariamente quando convocado pelo seu Presidente, por sua iniciativa ou a solicitação de dois dos seus membros, com a antecedência mínima de vinte e quatro horas, devendo, neste caso, fazer-se a indicação da agenda da reunião.\n\n4 - As deliberações do Conselho Administrativo são válidas desde que se verifique a presença de dois dos seus membros, devendo ser lavradas em ata."
+  },
+  "175122661": {
+   "fragment_id": "175128427",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamento\n\nO Conselho Administrativo elabora o seu regulamento interno."
+  },
+  "175122662": {
+   "fragment_id": "175128428",
+   "type": 11,
+   "heading": "Artigo 17.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Remuneração\n\nNo caso do membro do Conselho Administrativo designado ao abrigo da alínea c) do artigo 13.º, não ser remunerado pela Assembleia Legislativa, o mesmo tem direito a uma senha de presença por cada reunião correspondente a 10 % do vencimento ilíquido mensal do secretário-geral, bem como, em caso de deslocação, ao pagamento das despesas de alojamento, viagem e abonos de ajudas de custo."
+  },
+  "175122663": {
+   "fragment_id": "175128429",
+   "type": 11,
+   "heading": "Artigo 18.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cessação de funções\n\n1 - No termo da legislatura ou em caso de dissolução da Assembleia Legislativa da Região Autónoma dos Açores, os membros do Conselho Administrativo mantêm-se em funções até à primeira reunião da Assembleia da nova legislatura.\n\n2 - Desde a reunião referida no número anterior e até à nomeação do membro, designado nos termos da alínea c) do artigo 13.º, a gestão corrente é assegurada pelo secretário-geral."
+  },
+  "175122664": {
+   "fragment_id": "175128430",
+   "type": 1,
+   "heading": "Capítulo IV — Serviços da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Serviços da Assembleia Legislativa"
+  },
+  "175122665": {
+   "fragment_id": "175128431",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "175122666": {
+   "fragment_id": "175128432",
+   "type": 11,
+   "heading": "Artigo 19.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atribuições\n\nOs serviços da Assembleia Legislativa têm por finalidade prestar apoio técnico, administrativo e de segurança aos órgãos de administração e aos Deputados, devendo garantir, nomeadamente:\n\na) O suporte técnico e administrativo no domínio das atividades de secretariado e de apoio direto ao Plenário e às comissões;\n\nb) A elaboração de estudos técnicos especializados necessários à atividade da Assembleia Legislativa;\n\nc) A gestão administrativa, financeira e de recursos humanos da Assembleia Legislativa;\n\nd) A disponibilização e a gestão dos sistemas de informação e infraestruturas tecnológicas da Assembleia Legislativa;\n\ne) O apoio na área das relações externas, protocolo e comunicação social da Assembleia Legislativa;\n\nf) O apoio na área Museológica e de Documentação da Assembleia Legislativa;\n\ng) A segurança das instalações e dos bens da Assembleia Legislativa, dos seus serviços e das pessoas que nela exercem funções e permanecem, respeitando o disposto no artigo 5.º;\n\nh) A execução das demais tarefas necessárias à atividade da Assembleia Legislativa."
+  },
+  "175122667": {
+   "fragment_id": "175128433",
+   "type": 11,
+   "heading": "Artigo 20.º — Organização interna dos serviços da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Organização interna dos serviços da Assembleia Legislativa\n\n1 - A Assembleia Legislativa compreende as unidades orgânicas necessárias e adequadas ao seu funcionamento.\n\n2 - A proposta de criação, extinção, denominação e definição de competências, bem como de estrutura das unidades orgânicas é elaborada pelo secretário-geral obtido o parecer favorável do Conselho Administrativo."
+  },
+  "175122668": {
+   "fragment_id": "175128434",
+   "type": 8,
+   "heading": "Secção II — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Secretário-geral"
+  },
+  "175122669": {
+   "fragment_id": "175128435",
+   "type": 11,
+   "heading": "Artigo 21.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estatuto\n\n1 - A Secretaria-Geral é dirigida pelo secretário-geral, equiparado a diretor regional para todos os efeitos legais, cargo de direção superior de 1.º grau, com as especificidades constantes dos números seguintes.\n\n2 - O secretário-geral é nomeado por despacho do Presidente da Assembleia Legislativa, em comissão de serviço e pelo período da legislatura, e permanece em funções até à nomeação do novo secretário-geral.\n\n3 - O secretário-geral pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa.\n\n4 - A nomeação e a exoneração do secretário-geral dependem do parecer favorável da Mesa.\n\n5 - O secretário-geral não pode exercer atividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem da inerência ou de atividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia Legislativa.\n\n6 - O secretário-geral é substituído nas suas faltas e impedimentos por quem o Presidente da Assembleia Legislativa designar, sob proposta daquele."
+  },
+  "175122670": {
+   "fragment_id": "175128436",
+   "type": 11,
+   "heading": "Artigo 22.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atribuições e competências\n\n1 - O secretário-geral dirige e coordena a Secretaria-Geral submetendo a despacho do Presidente da Assembleia Legislativa, da Mesa ou do Conselho Administrativo os assuntos cuja decisão não esteja no âmbito da sua competência.\n\n2 - Ao secretário-geral, para além das competências decorrentes da lei nas áreas da gestão geral, gestão dos recursos humanos, gestão orçamental e realização de despesas e de gestão de instalações e equipamentos, compete:\n\na) Propor, obtido o parecer favorável do Conselho Administrativo, a criação, extinção, denominação e definição de competências e a estrutura das unidades orgânicas;\n\nb) Propor a abertura de concursos de pessoal;\n\nc) Propor, obtido o parecer favorável do Conselho Administrativo, o regime especial de trabalho dos trabalhadores da Assembleia Legislativa;\n\nd) Propor o mapa de pessoal;\n\ne) Coordenar a elaboração das propostas referentes ao orçamento, ao relatório de atividades e à conta;\n\nf) Autorizar a realização de despesas, com os limites fixados no presente diploma;\n\ng) Exercer outras funções que superiormente lhe sejam atribuídas."
+  },
+  "175122671": {
+   "fragment_id": "175128437",
+   "type": 11,
+   "heading": "Artigo 23.º — Estrutura Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Estrutura Orgânica\n\nA estrutura orgânica da Secretaria-Geral é definida por decreto legislativo regional."
+  },
+  "175122672": {
+   "fragment_id": "175128438",
+   "type": 11,
+   "heading": "Artigo 24.º — Coordenadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Coordenadores\n\n1 - O secretário-geral poderá ter até dois coordenadores, com a função de o coadjuvar no exercício das suas funções nos termos por este definidos.\n\n2 - Os coordenadores são nomeados por despacho do Presidente da Assembleia Legislativa de entre os trabalhadores do quadro da Assembleia Legislativa, por proposta do secretário-geral obtido o parecer favorável do Conselho Administrativo.\n\n3 - Os coordenadores auferem um complemento remuneratório correspondente a 10 % do vencimento mensal ilíquido auferido pelo secretário-geral."
+  },
+  "175122673": {
+   "fragment_id": "175128439",
+   "type": 1,
+   "heading": "Capítulo V — Pessoal dos serviços da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Pessoal dos serviços da Assembleia Legislativa"
+  },
+  "175122674": {
+   "fragment_id": "175128440",
+   "type": 8,
+   "heading": "Secção I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições Gerais"
+  },
+  "175214675": {
+   "fragment_id": "175128441",
+   "type": 11,
+   "heading": "Artigo 25.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Estatuto\n\n1 - O pessoal da Assembleia Legislativa está sujeito ao estatuto dos trabalhadores em funções públicas, salvo o disposto neste diploma.\n\n2 - O pessoal da Assembleia Legislativa tem o dever de sigilo relativamente aos factos e documentos de que tenham conhecimento no exercício das suas funções.\n\n3 - O exercício de atividades privadas pelo pessoal dirigente carece de autorização do Presidente da Assembleia Legislativa, ouvido o Conselho Administrativo, a qual será recusada ou anulada em todos os casos em que a mesma atividade se mostre suscetível de comprometer ou interferir com a isenção exigida para o seu exercício.\n\n4 - Não é permitido ao pessoal da Assembleia Legislativa o exercício de atividades privadas quando esse exercício se revele incompatível com o cumprimento dos deveres estabelecidos na lei, ou seja, suscetível de comprometer a isenção exigida ao exercício das respetivas funções."
+  },
+  "175214676": {
+   "fragment_id": "175128442",
+   "type": 11,
+   "heading": "Artigo 26.º — Mapa de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Mapa de pessoal\n\nO mapa de pessoal é aprovado anualmente pelo Conselho Administrativo, sob proposta do secretário-geral."
+  },
+  "175214677": {
+   "fragment_id": "175128443",
+   "type": 11,
+   "heading": "Artigo 27.º — Regime especial de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime especial de trabalho\n\n1 - Os trabalhadores do mapa de pessoal da Assembleia Legislativa têm um regime especial de trabalho, decorrente da natureza e das condições de funcionamento próprias da Assembleia Legislativa.\n\n2 - Este regime é fixado por regulamento a aprovar pela Mesa, ouvidos os representantes dos trabalhadores, mediante proposta a apresentar pelo secretário-geral, podendo compreender, nomeadamente, horário especial de trabalho, regime de trabalho extraordinário e de trabalho por turnos, sem prejuízo dos direitos fundamentais dos trabalhadores consignados na Constituição e na lei geral.\n\n3 - Aos trabalhadores é atribuída uma remuneração suplementar, fixada pela Mesa, ouvidos os representantes dos trabalhadores, mediante proposta a apresentar pelo secretário-geral.\n\n4 - A remuneração suplementar a que se refere o número anterior é calculada com base no vencimento, sendo paga em 12 duodécimos, e faz parte integrante do vencimento, contando para todos os efeitos, designadamente os de aposentação.\n\n5 - Por regra, as férias do pessoal devem ser gozadas fora do período de funcionamento do Plenário da Assembleia Legislativa."
+  },
+  "175214678": {
+   "fragment_id": "175128444",
+   "type": 11,
+   "heading": "Artigo 28.º — Mobilidade de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Mobilidade de pessoal\n\n1 - O Presidente da Assembleia Legislativa, ouvido o Conselho Administrativo, pode autorizar a mobilidade de pessoal entre a Assembleia Legislativa e a administração central, regional ou local, não se aplicando os limites de duração previstos na lei geral.\n\n2 - O Presidente da Assembleia Legislativa, ouvido o Conselho Administrativo, pode ainda autorizar pedidos de cedência de interesse público de técnicos de entidades públicas ou privadas, por período julgado necessário, nos termos seguintes:\n\na) Os cessionários mantêm sempre os direitos e regalias sociais adquiridos e, designadamente os emergentes de instrumentos de regulamentação coletiva de trabalho;\n\nb) Os cessionários auferem por inteiro as remunerações inerentes aos cargos que exerciam, sem prejuízo de poderem optar pelas remunerações correspondentes às funções que vão desempenhar, acrescidas, em qualquer caso, das compensações de encargos decorrentes da mobilidade que forem fixadas por despacho do Presidente da Assembleia Legislativa, ouvido o Conselho Administrativo.\n\n3 - A mobilidade do pessoal a que se referem os n.os 1 e 2 depende da concordância dos visados e dos respetivos serviços.\n\n4 - A cedência de interesse público referida no n.º 2 pode ser feita por qualquer período, mas caduca com o termo da legislatura, sem prejuízo de nova cedência, ouvido o Conselho Administrativo.\n\n5 - O pessoal referido nos números anteriores tem de possuir as habilitações académicas e profissionais exigidas, para as mesmas categorias ou funções, aos trabalhadores do mapa de pessoal da Assembleia Legislativa."
+  },
+  "175214679": {
+   "fragment_id": "175128445",
+   "type": 8,
+   "heading": "Secção II — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pessoal dirigente"
+  },
+  "175214680": {
+   "fragment_id": "175128446",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime\n\nO pessoal dirigente está sujeito ao estatuto do pessoal dirigente, com as adaptações aos serviços e organismos na administração regional e com as especificidades decorrentes do presente diploma."
+  },
+  "175214681": {
+   "fragment_id": "175128447",
+   "type": 1,
+   "heading": "Capítulo VI — Apoio à atividade parlamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Apoio à atividade parlamentar"
+  },
+  "175214682": {
+   "fragment_id": "175128448",
+   "type": 11,
+   "heading": "Artigo 30.º — Locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Locais de trabalho\n\nOs grupos parlamentares, as representações parlamentares e os Deputados independentes têm direito a dispor de locais de trabalho na sede e nas delegações, bem como a utilizar os serviços prestados pelo pessoal técnico e administrativo da Assembleia Legislativa."
+  },
+  "175214683": {
+   "fragment_id": "175128449",
+   "type": 11,
+   "heading": "Artigo 31.º — Subvenção mensal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Subvenção mensal\n\n1 - É concedido um apoio mensal a cada um dos grupos e representações parlamentares dos partidos políticos com assento na Assembleia Legislativa para encargos de assessoria, contactos com os eleitores e outras atividades correspondentes às exigências do cumprimento dos respetivos mandatos democráticos.\n\n2 - O apoio consiste num montante pecuniário equivalente ao valor de 2,5 retribuições mínimas mensais garantidas em vigor na Região Autónoma dos Açores (RMMG na RAA), multiplicado pelo número de Deputados de cada grupo ou representação parlamentar.\n\n3 - O apoio previsto nos números anteriores é entregue às direções dos grupos e às representações parlamentares.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827) A subvenção mensal prevista no n.º 2 do presente artigo é reduzida para o montante pecuniário equivalente ao valor de duas retribuições mínimas mensais garantidas em vigor na Região Autónoma dos Açores (RMMG na RAA), multiplicado pelo número de Deputados de cada grupo ou representação parlamentar, no período compreendido entre 1 de março e 31 de dezembro de 2025."
+  },
+  "175214684": {
+   "fragment_id": "175128450",
+   "type": 11,
+   "heading": "Artigo 32.º — Apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Apoio logístico\n\n1 - É atribuído um apoio ao funcionamento logístico dos grupos ou representações parlamentares, através da dotação orçamental para a realização de despesas correntes com a aquisição de material de escritório, a regular pela Mesa.\n\n2 - O apoio referido no número anterior não pode ultrapassar, em cada sessão legislativa, um montante global a fixar pela Mesa.\n\n3 - A distribuição, por cada grupo e representação parlamentar, do montante fixado pela Mesa é feita proporcionalmente, em função do número de Deputados."
+  },
+  "175214685": {
+   "fragment_id": "175128451",
+   "type": 11,
+   "heading": "Artigo 33.º — Gabinetes dos grupos e representações parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Gabinetes dos grupos e representações parlamentares\n\n1 - Os grupos e representações parlamentares dispõem de gabinetes de sua livre escolha e nomeação, os quais poderão ser constituídos por uma ou várias das seguintes categorias:\n\na) Chefe de gabinete;\n\nb) Adjuntos;\n\nc) Assessores;\n\nd) Secretários;\n\ne) Auxiliares de secretário;\n\nf) Assistentes.\n\n2 - No início de cada legislatura os grupos parlamentares e representações parlamentares indicam aos serviços da Assembleia Legislativa o quadro de pessoal de apoio, com a indicação das categorias e vencimentos, sem prejuízo de ser alterado no início de cada sessão legislativa.\n\n3 - O pessoal nomeado nos termos do n.º 1 não pode auferir, a título de remuneração base acrescida de eventuais complementos ou suplementos, um valor mensal ilíquido superior ao de Deputado em exercício de funções.\n\n4 - O pessoal dos grupos e representações parlamentares mantém o regime de segurança social de que já disponham, sendo obrigatoriamente inscritos no regime geral de segurança social, caso não se encontrem abrangidos por qualquer outro.\n\n5 - A remuneração e eventuais complementos são fixados por cada um dos grupos ou representações parlamentares no despacho de nomeação.\n\n6 - As despesas com as remunerações certas, permanentes e extraordinárias, bem como os encargos sociais e o subsídio de refeição, previstas no presente artigo não podem ultrapassar, anualmente, as verbas que resultam do seguinte:\n\na) Representação parlamentar: 11 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\nb) Grupo parlamentar até três Deputados: 13,5 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\nc) Grupo parlamentar com mais de 3 e até 16 Deputados: 18 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\nd) Grupo parlamentar com mais de 16 e até 28 Deputados: 32 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\ne) Grupo parlamentar com mais de 28 Deputados: 35 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado.\n\n7 - Os grupos e representações parlamentares podem alterar a composição do quadro de pessoal, até ao limite que lhes caiba nos termos dos números anterior.\n\n8 - A nomeação e exoneração do pessoal referido nos números anteriores são da responsabilidade da direção do respetivo grupo ou representação parlamentar, sendo-lhe aplicável o regime estabelecido para os membros dos gabinetes do Governo Regional, com as especificidades do presente artigo.\n\n9 - O pessoal dos grupos e representações parlamentares que não esteja vinculado à função pública é obrigatoriamente inscrito no regime geral de segurança social.\n\n10 - O processamento das despesas com remunerações certas e permanentes e com as deslocações do pessoal dos gabinetes dos grupos ou representações parlamentares, é da responsabilidade dos serviços da Assembleia Legislativa.\n\n11 - Para efeitos do número anterior apenas são consideradas as deslocações realizadas no âmbito de trabalhos parlamentares, nomeadamente das reuniões do Plenário, das comissões, dos grupos parlamentares ou das jornadas parlamentares."
+  },
+  "175214686": {
+   "fragment_id": "175128452",
+   "type": 11,
+   "heading": "Artigo 34.º — Apoio aos Deputados independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Apoio aos Deputados independentes\n\n1 - Aos Deputados independentes que não integrem nenhum grupo parlamentar aplica-se, com as devidas adaptações, o disposto no artigo anterior, não podendo anualmente ser ultrapassado o montante correspondente a 14 x RMMG na RAA.\n\n2 - Os Deputados independentes têm direito ao reembolso das despesas de assessoria, contactos com os eleitores e outras atividades inerentes ao cumprimento dos respetivos mandatos.\n\n3 - O reembolso previsto no número anterior não pode exceder, por sessão legislativa, o montante correspondente a 10 x RMMG na RAA."
+  },
+  "175214687": {
+   "fragment_id": "175128453",
+   "type": 11,
+   "heading": "Artigo 35.º — Jornadas parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Jornadas parlamentares\n\n1 - Os grupos parlamentares podem reunir em cada uma das ilhas da Região, nos termos definidos no Regimento da Assembleia Legislativa.\n\n2 - As despesas com viagens, alojamento e ajudas de custos dos Deputados e pessoal do gabinete de cada grupo parlamentar, inerentes à realização das reuniões referidas no número anterior, não podem ultrapassar, em cada sessão legislativa, o montante equivalente a 5 x RMMG na RAA, multiplicadas pelo número de Deputados que o integram."
+  },
+  "175214688": {
+   "fragment_id": "175128454",
+   "type": 1,
+   "heading": "Capítulo VII — Orçamento e regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Orçamento e regime financeiro"
+  },
+  "175214689": {
+   "fragment_id": "175128455",
+   "type": 8,
+   "heading": "Secção I — Processo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Processo orçamental"
+  },
+  "175214690": {
+   "fragment_id": "175128456",
+   "type": 11,
+   "heading": "Artigo 36.º — Elaboração e aprovação do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Elaboração e aprovação do orçamento\n\n1 - A anteproposta de orçamento da Assembleia Legislativa é elaborada pelo Conselho Administrativo, submetendo-a à Mesa.\n\n2 - O orçamento, sob proposta da Mesa, é aprovado pelo Plenário, no mês de setembro, exceto no último ano da legislatura, em que é aprovado até 15 dias antes da apresentação à Assembleia Legislativa da proposta de decreto legislativo regional do Orçamento da Região Autónoma dos Açores."
+  },
+  "175214691": {
+   "fragment_id": "175128457",
+   "type": 11,
+   "heading": "Artigo 37.º — Orçamento suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Orçamento suplementar\n\nAs alterações orçamentais são realizadas através de orçamentos suplementares, até ao máximo de três, os quais serão elaborados nos termos do artigo anterior, com as devidas adaptações."
+  },
+  "175214692": {
+   "fragment_id": "175128458",
+   "type": 11,
+   "heading": "Artigo 38.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Receitas\n\n1 - Constituem receitas da Assembleia Legislativa:\n\na) As dotações inscritas no orçamento da Região;\n\nb) Os saldos de anos findos;\n\nc) O produto de edições e publicações;\n\nd) Os direitos de autor;\n\ne) As demais receitas que lhe forem atribuídas por lei, resolução da Assembleia Legislativa, contrato, sucessão ou doação.\n\n2 - Os saldos positivos apurados no fim de cada ano económico constituem receita a considerar em orçamento suplementar."
+  },
+  "175214693": {
+   "fragment_id": "175128459",
+   "type": 11,
+   "heading": "Artigo 39.º — Cativações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Cativações orçamentais\n\n1 - As dotações do orçamento privativo da Assembleia Legislativa não estão sujeitas a cativações, sendo as mesmas possíveis apenas em casos excecionais devidamente fundamentados, por deliberação do Presidente da Assembleia Legislativa, ouvida a Mesa.\n\n2 - As descativações das dotações referidas no número anterior processam-se por deliberação do Presidente da Assembleia Legislativa, ouvida a Mesa, de acordo com as necessidades de execução orçamental."
+  },
+  "175214694": {
+   "fragment_id": "175128460",
+   "type": 11,
+   "heading": "Artigo 40.º — Reserva de propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Reserva de propriedade\n\n1 - A Assembleia Legislativa é a única proprietária de toda a produção material resultante do seu funcionamento, sem prejuízo dos direitos de autor dos Deputados.\n\n2 - É vedada a quaisquer órgãos da Administração Pública, empresas públicas e a entidades privadas a edição ou comercialização da produção referida no número anterior sem prévio assentimento do Conselho Administrativo, manifestado nos termos da lei ou através de contrato."
+  },
+  "175214695": {
+   "fragment_id": "175128461",
+   "type": 11,
+   "heading": "Artigo 41.º — Autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Autorização de despesas\n\nA autorização para a realização de despesas compete:\n\na) Até (euro) 25 000, ao secretário-geral;\n\nb) Até (euro) 50 000, ao Conselho Administrativo;\n\nc) Até (euro) 100 000, ao Presidente da Assembleia Legislativa;\n\nd) Sem limite, à Mesa."
+  },
+  "175214696": {
+   "fragment_id": "175128462",
+   "type": 8,
+   "heading": "Secção II — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Execução orçamental"
+  },
+  "175214697": {
+   "fragment_id": "175128463",
+   "type": 11,
+   "heading": "Artigo 42.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Execução\n\nA execução orçamental é feita através dos serviços da Assembleia Legislativa, nos termos previstos neste diploma."
+  },
+  "175214698": {
+   "fragment_id": "175128464",
+   "type": 11,
+   "heading": "Artigo 43.º — Requisição de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Requisição de fundos\n\n1 - Compete ao secretário-geral requisitar, mensalmente, ao departamento competente do Governo Regional as importâncias que forem necessárias por conta da dotação global que é consignada à Assembleia Legislativa pelo orçamento da Região.\n\n2 - As requisições de fundos para a Assembleia Legislativa processam-se, mensalmente, nos termos do disposto no presente artigo, por conta da dotação global que lhe é consignada no Orçamento da Região para despesas correntes e para despesas de capital, não estando sujeitas a cativações."
+  },
+  "175214699": {
+   "fragment_id": "175128465",
+   "type": 11,
+   "heading": "Artigo 44.º — Regime duodecimal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Regime duodecimal\n\nCompete ao Conselho Administrativo autorizar a dispensa do regime duodecimal de qualquer das dotações orçamentais e solicitar a antecipação, total ou parcial, dos respetivos duodécimos."
+  },
+  "175214700": {
+   "fragment_id": "175128466",
+   "type": 11,
+   "heading": "Artigo 45.º — Fundo permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Fundo permanente\n\nO Conselho Administrativo pode autorizar a constituição de um fundo permanente destinado ao pagamento direto de pequenas despesas, devendo fixar as regras a que obedece o seu controlo."
+  },
+  "175214701": {
+   "fragment_id": "175128467",
+   "type": 11,
+   "heading": "Artigo 46.º — Conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Conta\n\n1 - A conta é organizada pelos serviços da Assembleia Legislativa até 15 dias antes do prazo legal para submissão à Secção Regional dos Açores do Tribunal de Contas.\n\n2 - A conta é aprovada pelo Plenário, após o acórdão da Secção Regional dos Açores do Tribunal de Contas."
+  },
+  "175214702": {
+   "fragment_id": "175128468",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "175214703": {
+   "fragment_id": "175128469",
+   "type": 11,
+   "heading": "Artigo 47.º — Integração excecional de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Integração excecional de pessoal\n\nO pessoal em regime de contrato a termo resolutivo, prestação de serviços, cedência de interesse público ou mobilidade interna que, à data da entrada em vigor do presente diploma, exerça funções correspondentes a necessidades permanentes em regime de horário completo nos serviços da Assembleia Legislativa há mais de dois anos, ou que os complete até ao termo da XII Legislatura da Assembleia Legislativa, é integrado, a requerimento do interessado, no mapa de pessoal na situação de contrato de trabalho em funções públicas por tempo indeterminado, na carreira/categoria onde se encontra contratado ou a desempenhar funções, com observância do previsto na lei geral do trabalho em funções públicas relativamente ao posicionamento remuneratório, após aprovação num procedimento de seleção sumário, com respeito pelas habilitações legais exigidas."
+  },
+  "175214704": {
+   "fragment_id": "175128470",
+   "type": 11,
+   "heading": "Artigo 48.º — Integração de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Integração de pessoal\n\n1 - Aos secretários e auxiliares de secretários em serviço nos gabinetes dos grupos e representações parlamentares que tenham de ser dispensados por força da diminuição do número de Deputados e consequente diminuição do serviço de apoio aos Deputados e respetivo grupo ou representação parlamentar é reconhecido o direito à sua integração como supranumerários, desde que reúnam, cumulativamente, os seguintes requisitos:\n\na) Tenham prestado de forma continuada até ao final da IX Legislatura da Assembleia Legislativa, no mínimo, quatro anos de serviço efetivo e completo;\n\nb) Possuir as habilitações literárias exigidas para a referida categoria;\n\nc) Não ter cargo ou emprego, público ou privado, de caráter permanente.\n\n2 - A contagem de anos referida na alínea a) do número anterior resulta do somatório do serviço prestado a tempo inteiro ou parcial.\n\n3 - A integração é requerida pelo interessado ao Presidente da Assembleia Legislativa no prazo de 30 dias a contar da data da efetivação dos seus pressupostos.\n\n4 - O requerimento referido no número anterior é acompanhado de uma declaração do respetivo partido, grupo ou representação parlamentar a confirmar a sua dispensa.\n\n5 - A integração será feita para o lugar de início de carreira, de acordo com as funções desempenhadas e as respetivas habilitações, sem prejuízo do direito de acesso na respetiva carreira, nos termos e condições previstos para o pessoal do quadro."
+  },
+  "175214705": {
+   "fragment_id": "175128471",
+   "type": 11,
+   "heading": "Artigo 49.º — Regulação posterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regulação posterior\n\nA estrutura orgânica da Secretaria-Geral referida no artigo 23.º será aprovada pela Assembleia Legislativa, no prazo de 90 dias."
+  },
+  "175214706": {
+   "fragment_id": "175128472",
+   "type": 11,
+   "heading": "Artigo 50.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 54/2006/A, de 22 de dezembro;\n\nb) O Decreto Legislativo Regional n.º 3/2009/A, de 6 de março; e\n\nc) O Decreto Legislativo Regional n.º 43/2012/A, de 9 de outubro."
+  },
+  "175214707": {
+   "fragment_id": "175128473",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "184350831": {
+   "fragment_id": "175128452",
+   "type": 11,
+   "heading": "Artigo 34.º — Apoio aos Deputados independentes",
+   "in_force_from": "2022-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2022/A - Diário da República n.º 107/2022, Série I de 2022-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-184306939), em vigor a partir de 2022-06-03"
+   ],
+   "markdown": "###### Artigo 34.º — Apoio aos Deputados independentes\n\n1 - Aos Deputados independentes que não integrem nenhum grupo parlamentar aplica-se, com as devidas adaptações, o disposto no artigo anterior, não podendo anualmente ser ultrapassado o montante correspondente a 17,5 x RMMG na RAA.\n\n2 - Os Deputados independentes têm direito ao reembolso das despesas de assessoria, contactos com os eleitores e outras atividades inerentes ao cumprimento dos respetivos mandatos.\n\n3 - O reembolso previsto no número anterior não pode exceder, por sessão legislativa, o montante correspondente a 10 x RMMG na RAA.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2022/A - Diário da República n.º 107/2022, Série I de 2022-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-184306939), em vigor a partir de 2022-06-03"
+  },
+  "175214708": {
+   "fragment_id": "175128474",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 1 de outubro de 2021.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 22 de novembro de 2021.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n114756519"
+  },
+  "917251638": {
+   "fragment_id": "175128435",
+   "type": 11,
+   "heading": "Artigo 21.º — Estatuto",
+   "in_force_from": "2025-05-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+   ],
+   "markdown": "###### Artigo 21.º — Estatuto\n\n1 - A Secretaria-Geral é dirigida pelo secretário-geral, equiparado a diretor regional para todos os efeitos legais, cargo de direção superior de 1.º grau, com as especificidades constantes dos números seguintes.\n\n2 - O secretário-geral é nomeado por despacho do Presidente da Assembleia Legislativa, em comissão de serviço e pelo período da legislatura, e permanece em funções até à nomeação do novo secretário-geral.\n\n3 - O secretário-geral pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa.\n\n4 - A nomeação e a exoneração do secretário-geral dependem do parecer favorável da Mesa.\n\n5 - O secretário-geral não pode exercer atividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem da inerência ou de atividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia Legislativa.\n\n6 - O secretário-geral é substituído nas suas faltas e impedimentos por quem o Presidente da Assembleia Legislativa designar, sob proposta daquele.\n\n7 - O secretário-geral pode delegar as suas competências próprias nos dirigentes específicos de 1.º grau nos termos do artigo 9.º da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e órgãos da administração central, local e regional do Estado, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+  },
+  "917251639": {
+   "fragment_id": "175128451",
+   "type": 11,
+   "heading": "Artigo 33.º — Gabinetes dos grupos e representações parlamentares",
+   "in_force_from": "2025-05-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+   ],
+   "markdown": "###### Artigo 33.º — Gabinetes dos grupos e representações parlamentares\n\n1 - Os grupos e representações parlamentares dispõem de gabinetes de sua livre escolha e nomeação, os quais poderão ser constituídos por uma ou várias das seguintes categorias:\n\na) Chefe de gabinete;\n\nb) Adjuntos;\n\nc) Assessores;\n\nd) Secretários;\n\ne) Auxiliares de secretário;\n\nf) Assistentes.\n\n2 - No início de cada legislatura, os grupos e representações parlamentares remetem aos serviços da Assembleia Legislativa o quadro de pessoal de apoio, com a indicação das categorias e vencimentos, sem prejuízo de ser alterado no início de cada ano civil ou, a todo o tempo, por despacho da direção do respetivo grupo ou representação parlamentar.\n\n3 - O pessoal nomeado nos termos do n.º 1 não pode auferir, a título de remuneração base acrescida de eventuais complementos ou suplementos, um valor mensal ilíquido superior ao de Deputado em exercício de funções.\n\n4 - O pessoal dos grupos e representações parlamentares mantém o regime de segurança social de que já disponham, sendo obrigatoriamente inscritos no regime geral de segurança social, caso não se encontrem abrangidos por qualquer outro.\n\n5 - A remuneração e eventuais complementos são fixados por cada um dos grupos ou representações parlamentares no despacho de nomeação.\n\n6 - As despesas com as remunerações certas, permanentes e extraordinárias, bem como os encargos sociais e o subsídio de refeição, previstas no presente artigo não podem ultrapassar, anualmente, as verbas que resultam do seguinte:\n\na) Representação parlamentar: 11 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\nb) Grupo parlamentar até três Deputados: 13,5 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\nc) Grupo parlamentar com mais de 3 e até 16 Deputados: 18 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\nd) Grupo parlamentar com mais de 16 e até 28 Deputados: 32 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado;\n\ne) Grupo parlamentar com mais de 28 Deputados: 35 x 14 x RMMG na RAA + 17,5 x RMMG na RAA por Deputado.\n\n7 - Os grupos e representações parlamentares podem alterar a composição do quadro de pessoal, até ao limite que lhes caiba nos termos dos números anterior.\n\n8 - A nomeação e exoneração do pessoal referido nos números anteriores são da responsabilidade da direção do respetivo grupo ou representação parlamentar, sendo-lhe aplicável o regime estabelecido para os membros dos gabinetes do Governo Regional, com as especificidades do presente artigo.\n\n9 - O pessoal dos grupos e representações parlamentares que não esteja vinculado à função pública é obrigatoriamente inscrito no regime geral de segurança social.\n\n10 - O processamento das despesas com remunerações certas e permanentes e com as deslocações do pessoal dos gabinetes dos grupos ou representações parlamentares é da responsabilidade dos serviços da Assembleia Legislativa.\n\n11 - Para efeitos do número anterior apenas são consideradas as deslocações realizadas no âmbito de trabalhos parlamentares, nomeadamente das reuniões do Plenário, das comissões, dos grupos parlamentares ou das jornadas parlamentares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+  },
+  "917251640": {
+   "fragment_id": "175128452",
+   "type": 11,
+   "heading": "Artigo 34.º — Apoio aos Deputados independentes",
+   "in_force_from": "2025-05-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2022/A - Diário da República n.º 107/2022, Série I de 2022-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-184306939), em vigor a partir de 2022-06-03"
+   ],
+   "markdown": "###### Artigo 34.º — Apoio aos Deputados independentes\n\n1 - Aos Deputados independentes que não integrem nenhum grupo parlamentar aplica-se, com as devidas adaptações, o disposto no artigo anterior, não podendo anualmente ser ultrapassado o montante correspondente ao processamento anual das remunerações certas e permanentes, bem como os encargos sociais e o subsídio de refeição de um elemento nomeado para o respetivo gabinete com um vencimento mensal igual à RMMG na RAA.\n\n2 - Os Deputados independentes têm direito ao reembolso das despesas de assessoria, contactos com os eleitores e outras atividades inerentes ao cumprimento dos respetivos mandatos.\n\n3 - O reembolso previsto no número anterior não pode exceder, por sessão legislativa, o montante correspondente a 10 x RMMG na RAA.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2022/A - Diário da República n.º 107/2022, Série I de 2022-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-184306939), em vigor a partir de 2022-06-03"
+  },
+  "917251641": {
+   "fragment_id": "175128467",
+   "type": 11,
+   "heading": "Artigo 46.º — Conta",
+   "in_force_from": "2025-05-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+   ],
+   "markdown": "###### Artigo 46.º — Conta\n\n1 - A conta é organizada pelos serviços da Assembleia Legislativa até 15 dias antes do prazo legal para submissão ao Tribunal de Contas.\n\n2 - A conta é aprovada pelo Plenário, após o parecer do Tribunal de Contas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+  },
+  "917251642": {
+   "fragment_id": "175128469",
+   "type": 11,
+   "heading": "Artigo 47.º — Integração excecional de pessoal",
+   "in_force_from": "2025-05-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+   ],
+   "markdown": "###### Artigo 47.º — Integração excecional de pessoal\n\nO pessoal em regime de contrato a termo resolutivo, prestação de serviços, cedência de interesse público ou mobilidade interna que, à data da entrada em vigor do presente diploma, exerça funções correspondentes a necessidades permanentes em regime de horário completo nos serviços da Assembleia Legislativa há mais de dois anos, ou que os complete até ao termo da XIII Legislatura da Assembleia Legislativa, é integrado, a requerimento do interessado, no mapa de pessoal na situação de contrato de trabalho em funções públicas por tempo indeterminado, na carreira/categoria onde se encontra contratado ou a desempenhar funções, com observância do previsto na lei geral do trabalho em funções públicas relativamente ao posicionamento remuneratório, após aprovação num procedimento de seleção sumário, com respeito pelas habilitações legais exigidas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2025/A - Diário da República n.º 87/2025, Série I de 2025-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827), em vigor a partir de 2025-05-08"
+  }
+ }
+}

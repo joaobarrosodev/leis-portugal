@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:412588:por
+title: Decreto n.º 553/73
+short_title: null
+summary: Reforma a estrutura da Direcção Provincial dos Serviços de Administração Civil de Angola
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Inspecção Superior de Administração Ultramarina
+proposing_entity: null
+official_number: 553/73
+official_date: null
+publication_date: '1973-10-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 250/1973, Série I de 1973-10-25
+  number: '250'
+  series: I
+  supplement: null
+  pages: 1993 - 1994
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/10/25000/19931994.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '412588'
+  dre_path: /dr/detalhe/decreto/553-1973-412588
+  internal: pt:dre:412588:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/553-1973-412588
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/553-1973-412588
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-10-25T00:00:00Z'
+integrity:
+  source_sha256: 070e268657dd2a0576f4a35900561157acafcef9688b709974e2677fb6e5762a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-553-412588.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 553/73
+
+de 25 de Outubro
+
+Pelo Governo-Geral de Angola foi solicitada prioritariamente a reforma da estrutura da Direcção Provincial dos Serviços de Administração Civil, a fim de esta, através de uma orgânica de dimensão adequada e da capacidade de disposição de meios humanos especializados, poder responder eficientemente às solicitações de serviço que, nos múltiplos sectores das suas atribuições, permanentemente lhe são postas.
+
+Atendendo ao que pelo Governo-Geral foi proposto;
+
+Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+###### Artigo 1.º - 1. A Direcção Provincial dos Serviços de Administração Civil de Angola, como órgão dos respectivos serviços centrais, compreende quatro repartições e um Gabinete de Estudos.
+
+2. As repartições, que se compõem de secções em número total de onze, agrupam-se em dois serviços.
+
+3. O Gabinete de Estudos disporá, como elemento adjuvante, de uma secção.
+
+###### Art. 2.º - 1. O pessoal de direcção e chefia da Direcção Provincial dos Serviços de Administração Civil de Angola é o que consta do mapa anexo ao presente decreto e que dele faz parte integrante.
+
+2. O provimento dos cargos constantes do mapa anexo é feito através de nomeação em comissão ordinária de serviço, observadas as condições estabelecidas no artigo 3.º
+
+3. As nomeações são válidas por dois anos, contados da data da posse, podendo haver recondução por períodos iguais e sucessivos; salvo o caso do cargo de director provincial, não se lhes aplicará, porém, o regime prescrito nos §§ 1.º a 4.º do artigo 37.º do Estatuto do Funcionalismo Ultramarino.
+
+###### Art. 3.º - 1. O director provincial é nomeado por livre escolha do Ministro do Ultramar, em regra sob proposta do Governador-Geral de Angola, entre indivíduos habilitados com um curso superior adequado à função ou, preferentemente, entre inspectores administrativos do quadro comum do ultramar.
+
+2. Os subdirectores são nomeados por livre escolha do Ministro do Ultramar, em regra sob proposta do Governador-Geral de Angola, entre inspectores administrativos e intendentes administrativos do quadro comum do ultramar.
+
+3. A nomeação nos restantes cargos é feita pelo Governador-Geral, sob proposta do director provincial, entre:
+
+a) Intendentes administrativos do quadro comum do ultramar e administradores de concelho do quadro administrativo de Angola, para o cargo de chefe de serviço;
+
+b) Administradores de concelho e chefes de secretaria distrital dos quadros dos Serviços de Administração Civil de Angola, para o cargo de chefe de repartição;
+
+c) Primeiros-oficiais do quadro de secretaria dos Serviços de Administração Civil de Angola, para o cargo de chefe de secção.
+
+4. A nomeação de intendentes prevista na alínea a) do número anterior carece de autorização do Ministro do Ultramar e só poderá recair naqueles que à data de tal nomeação estejam colocados em Angola.
+
+###### Art. 4.º - 1. O Gabinete de Estudos poderá ser constituído por:
+
+a) Intendentes administrativos do quadro comum do ultramar e administradores de concelho do quadro privativo de Angola;
+
+b) Indivíduos estranhos aos quadros de pessoal dos Serviços de Administração Civil, especialmente qualificados.
+
+2. O número de unidades que poderão constituir o Gabinete de Estudos é o que, em cada momento, for julgado necessário pelo Governador-Geral, bastando, para cabimentação de despesa, que as verbas de pessoal atribuídas no orçamento geral aos Serviços de Administração Civil sejam suficientes à cobertura dos respectivos encargos no decurso desse ano.
+
+###### Art. 5.º - 1. Os indivíduos referidos na alínea b) do n.º 1 do artigo 4.º prestarão serviço mediante contrato a celebrar nos termos do artigo 45.º, alínea c), e do artigo 48.º do Estatuto do Funcionalismo Ultramarino.
+
+2. O estabelecimento das cláusulas especiais dos contratos de prestação de serviço que se refere o número anterior é da competência do Governador-Geral de Angola.
+
+###### Art. 6.º - 1. Os funcionários referidos na alínea a) do n.º 1 do artigo 4.º prestarão serviço no gabinete de estudos mediante simples despacho de colocação do Governador-Geral de Angola, ou, quando especialmente qualificados para os estudos a realizar, mediante contrato a celebrar nos termos do artigo 5.º
+
+2. A aplicação aos intendentes administrativos do preceituado no número anterior só é admitida com relação àqueles que estejam colocados em Angola.
+
+3. Os contratos de prestação de serviços a celebrar com funcionários dos quadros dos Serviços de Administração Civil carecem de autorização prévia do Ministro do Ultramar.
+
+4. Os contratos a celebrar nos termos do presente artigo determinam abertura imediata de vaga no grau hierárquico detido pelos funcionários em causa, sendo o tempo de serviço prestado em tal regime havido, para todos os efeitos legais, como de actividade nos quadros.
+
+###### Art. 7.º - 1. Compete ao Governador-Geral de Angola expedir os diplomas necessários à boa execução do presente decreto, nomeadamente no que respeita aos seguintes aspectos:
+
+a) Identificação das secções que constituem cada repartição e das repartições que formam cada serviço, bem como das matérias e assuntos definidores das correspondentes atribuições;
+
+b) Determinação do número de funcionários que cada uma das secções integra;
+
+c) Fixação dos regimes de substituição nos cargos de direcção e chefia, enumeração das atribuições e competências inerentes ao exercício de tais cargos, e enunciação das respectivas capacidades de delegação e subdelegação de poderes;
+
+d) Fixação das remunerações acessórias a abonar pelo exercício de funções nos cargos de direcção e chefia, bem como aos funcionários colocados nos termos da primeira parte do n.º 1 do artigo 6.º no Gabinete de Estudos.
+
+2. A secção adstrita ao Gabinete de Estudos terá a seu cargo, além do que venha determinado em diploma local, a biblioteca e o arquivo da Direcção Provincial.
+
+3. Sem prejuízo do estabelecido na alínea c) do n.º 1, um dos subdirectores, a designar por despacho do Governador-Geral, será o substituto legal do director provincial, pertencendo ao outro a chefia e orientação do Gabinete de Estudos.
+
+###### Art. 8.º O exercício de qualquer dos cargos de direcção e chefia, bem como a prestação de serviços em regime de contrato, não excepcionam em caso algum as regras estabelecidas no diploma orgânico dos quadros de pessoal dos Serviços de Administração Civil relativamente ao ingresso e promoção nos correspondentes quadros.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+**Promulgado em 9 de Outubro de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
+
+Mapa a que se refere o artigo 2.ª do Decreto n.º 553/73, de 25 de Outubro
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/25000/19931994.pdf))](https://files.diariodarepublica.pt/1s/1973/10/25000/19931994.pdf)
+
+**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**

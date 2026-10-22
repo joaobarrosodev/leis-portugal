@@ -1,0 +1,260 @@
+---
+schema_version: '1.0'
+id: pt:dre:499044:por
+title: Portaria n.º 903/87
+short_title: null
+summary: Actualiza o valor das prestações por invalidez, velhice e morte de todos os regimes contributivos e não contributivos
+  da Segurança Social
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 903/87
+official_date: null
+publication_date: '1987-11-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 273/1987, Série I de 1987-11-26
+  number: '273'
+  series: I
+  supplement: null
+  pages: 4124 - 4126
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/11/27300/41244126.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '499044'
+  dre_path: /dr/detalhe/portaria/903-1987-499044
+  internal: pt:dre:499044:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/903-1987-499044
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/903-1987-499044
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-11-26T00:00:00Z'
+integrity:
+  source_sha256: b6cc3140e3c560fedb886b466a68cde94250bb4f90c495e2745a94adea28c731
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-903-499044.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 903/87
+
+de 26 de Novembro
+
+Constitui uma preocupação primordial do Governo, como consta do seu Programa, a procura da melhoria das condições de vida e das prestações atribuídas à população beneficiária, em particular aos seus estratos mais desfavorecidos. Para tal, estabelece o mesmo Programa que o Governo actualizará as prestações pecuniárias de segurança social.
+
+É este o objectivo do presente diploma, que procede ao ajustamento do valor das prestações por invalidez, velhice e morte de todos os regimes contributivos e não contributivos de segurança social. A actualização, embora se destine fundamentalmente a operar no ano de 1988, é, porém, aplicável já às pensões e respectivo subsídio de Natal a atribuir no mês de Dezembro do corrente ano.
+
+O ajustamento do valor das pensões e outras prestações complementares tem em vista o aumento do seu efectivo poder de compra, na medida em que são actualizadas as taxas em valor bastante superior à taxa de inflação prevista para 1988.
+
+Trata-se de um esforço financeiro muito considerável, uma vez que o custo global destas actualizações atinge para o período considerado cerca de 34,2 milhões de contos, valor tanto mais significativo quanto é certo que é muito elevado o peso global das despesas com pensões no conjunto dos encargos com prestações de segurança social (cerca de 75%).
+
+É de salientar, ainda, que foram aplicadas no ajustamento dos quantitativos das pensões mínimas taxas de actualização relativamente mais elevadas, o que se insere na linha de especial protecção dos pensionistas de menor nível económico e maiores carências sociais.
+
+Assim, ao abrigo dos artigos 12.º, n.º 1, e 83.º, n.º 2, da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e do artigo 201.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Emprego e da Segurança Social, o seguinte:
+
+1.º
+
+Âmbito
+
+As prestações de invalidez, velhice e sobrevivência dos regimes de segurança social são actualizadas nas condições previstas no presente diploma.
+
+2.º
+
+Situações excluídas
+
+Excluem-se da aplicação deste diploma, sem prejuízo do disposto no n.º 2 do n.º 4.º, os seguintes grupos de beneficiários:
+
+a) Os beneficiários da Caixa de Previdência dos Empregados do Banco de Angola com direito aos benefícios constantes do instrumento de regulamentação colectiva de trabalho do sector bancário;
+
+b) Os beneficiários abrangidos pelos regulamentos especiais de segurança social de trabalhadores ferroviários e do pessoal do Serviço de Transportes Colectivos do Porto;
+
+c) Outros grupos de beneficiários não abrangidos pelo Centro Nacional de Pensões.
+
+3.º
+
+Actualização das pensões de invalidez e velhice
+
+1 - As pensões regulamentares de invalidez e de velhice do regime geral iniciadas anteriormente a 1 de Janeiro de 1987 são actualizadas para o valor resultante da aplicação de um aumento de 10% ao respectivo quantitativo mensal, sem prejuízo do disposto no n.º 1 do n.º 4.º
+
+2 - Entende-se por pensão regulamentar a que se obtém adicionando ao valor da pensão estatutária as melhorias legalmente estabelecidas.
+
+4.º
+
+Valor mínimo das pensões
+
+1 - O valor mínimo das pensões regulamentares de invalidez e de velhice do regime geral é de 13000$00.
+
+2 - Aos beneficiários dos regulamentos especiais de segurança social referidos na alínea b) do n.º 2.º é aplicável a garantia do valor mínimo das pensões estabelecido no número anterior.
+
+5.º
+
+Actualização das pensões de sobrevivência
+
+1 - As pensões de sobrevivência iniciadas anteriormente a 1 de Janeiro de 1987 são actualizadas por aplicação das percentagens regulamentares às pensões de invalidez e de velhice que lhes servem de base de cálculo, segundo o valor que para estas resulta no respectivo quantitativo mensal previsto no n.º 3.º
+
+2 - A regra de actualização definida no número anterior é igualmente aplicável:
+
+a) Às pensões de sobrevivência iniciadas a partir de 1 de Janeiro de 1987, desde que o óbito que lhes deu origem se tenha verificado em data anterior;
+
+b) Às pensões de sobrevivência resultantes de óbitos verificados em data anterior ao início de vigência do presente diploma e correspondentes a pensões de invalidez ou de velhice até 31 de Dezembro de 1986.
+
+3 - Nenhuma pensão de sobrevivência poderá ter valor inferior ao que resulta da aplicação da respectiva percentagem regulamentar ao valor mínimo das pensões de invalidez e velhice estabelecido no n.º 4.º, sem prejuízo do disposto nos n.os 6.º e 7.º
+
+6.º
+
+Actualização das pensões limitadas
+
+1 - As pensões limitadas por aplicação das normas reguladoras da acumulação de pensões de diferentes regimes obrigatórios de protecção social são actualizadas em 10%.
+
+2 - O montante total actualizado das pensões acumuladas não pode ser inferior ao valor mínimo fixado no n.º 1 do n.º 4.º
+
+3 - Consideram-se regimes obrigatórios de protecção social, para os efeitos deste n.º 6.º, os regimes de segurança social, nacionais ou de outros países, de inscrição obrigatória, o regime da Caixa Geral de Aposentações, o esquema dos antigos funcionários ultramarinos, o esquema de protecção social estabelecido na regulamentação colectiva de trabalho dos empregados bancários, bem como o regime de protecção nos riscos de acidente de trabalho.
+
+7.º
+
+Actualização das pensões reduzidas
+
+1 - As pensões reduzidas são actualizadas para o valor resultante do aumento de 10% do respectivo quantitativo mensal, sem prejuízo do valor mínimo referido no n.º 1 do n.º 4.º e nos casos seguintes:
+
+a) Por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963;
+
+b) Em consequência da aplicação de convenções internacionais de segurança social.
+
+2 - As pensões são reduzidas nos termos do número anterior pela consideração de contribuições em mais de uma instituição de inscrição obrigatória e em observância dos respectivos prazos de garantia.
+
+3 - O montante total das pensões acumuladas e o quantitativo da pensão reduzida, quando não for cumulativa, não podem, depois de actualizados, ser inferiores ao valor mínimo fixado no n.º 1 do n.º 4.º
+
+8.º
+
+Actualização das pensões do regime especial de segurança social das actividades agrícolas
+
+1 - O quantitativo mínimo mensal das pensões de invalidez e de velhice do regime especial das actividades agrícolas é fixado em 9600$00.
+
+2 - Os valores das pensões de sobrevivência são actualizados por aplicação das percentagens regulamentares em vigor no regime geral ao quantitativo das pensões referidas no número anterior
+
+9.º
+
+Acumulação de pensões
+
+Para efeitos de acumulação das pensões de invalidez, de velhice e de sobrevivência do regime especial dos trabalhadores agrícolas com pensões de outros regimes de inscrição obrigatória, os valores estatutários das pensões daquele regime especial, com referência aos anos de 1986 e de 1987, são, respectivamente, de 4030$00 e de 5150$00.
+
+10.º
+
+Actualização das pensões dos antigos fundos de reforma dos pescadores
+
+1 - As pensões dos antigos fundos de reforma dos pescadores iniciadas anteriormente a 1 de Janeiro de 1987 são actualizadas de acordo com o disposto no n.º 1 do n.º 3.º
+
+2 - São actualizadas nos mesmos termos as pensões reduzidas do regime geral iniciadas anteriormente a 1 de Janeiro de 1987 e auferidas em acumulação com as pensões a que o número anterior se refere.
+
+3 - As pensões consideradas no n.º 1 ou o total das pensões no caso previsto no n.º 2 não podem ser inferiores ao valor fixado no n.º 1 do n.º 4.º
+
+11.º
+
+Actualização das pensões do regime não contributivo
+
+1 - O quantitativo mensal das pensões de invalidez e velhice do regime não contributivo é fixado em 8600$00.
+
+2 - As pensões de viuvez e orfandade são actualizadas para o valor que resulta da aplicação das percentagens regulamentares em vigor no regime geral ao montante fixado no número anterior.
+
+12.º
+
+Actualização das pensões dos regimes transitórios dos trabalhadores agrícolas
+
+1 - O valor mensal das pensões de invalidez e velhice dos antigos regimes transitórios dos trabalhadores agrícolas, referidos no artigo 90.º do Decreto-Lei n.º 445/70, de 23 de Setembro, no [Decreto-Lei n.º 391/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1972-691622), de 13 de Outubro, e demais legislação aplicável, é fixado em 8600$00.
+
+2 - As pensões de sobrevivência dos antigos regimes transitórios dos trabalhadores agrícolas, atribuídas, nos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, aos cônjuges sobrevivos dos respectivos pensionistas, são actualizadas por aplicação da percentagem regulamentar em vigor no regime geral ao montante fixado no número anterior.
+
+13.º
+
+Regimes equiparados ao regime não contributivo
+
+As pensões e prestações equivalentes de nula ou reduzida base contributiva a cargo do Centro Nacional de Pensões, designadamente as respeitantes à extinta Caixa de Previdência da Câmara dos Despachantes Oficiais, às extintas Caixa de Previdência do Pessoal da Casa Agrícola Santos Jorge, Associação de Socorros Mútuos Inabilidade e Caixa da Marinha Mercante (antigas associações) e ao extinto Grémio dos Industriais de Fósforos, bem com as pensões atribuídas por aplicação dos regulamentos especiais da Caixa de Previdência dos Profissionais de Espectáculos, são actualizadas para o valor que resulta do aumento de 1100$00 ao respectivo quantitativo mensal.
+
+14.º
+
+Desalojados
+
+As pensões do antigo regime de protecção social a desalojados, integrado no regime geral nos termos do [Decreto-Lei n.º 351/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1981-566868), de 26 de Dezembro, se cumuladas com pensões dos esquemas obrigatórios de protecção social referidos no n.º 3 do n.º 6.º, são consideradas como melhorias das pensões estatutárias do regime geral de segurança social, com o valor correspondente ao da data da superveniência da acumulação, sem prejuízo da atribuição do quantitativo em curso em 30 de Novembro, se superior.
+
+15.º
+
+Complemento de pensão por cônjuge a cargo
+
+O valor mensal do complemento de pensão por cônjuge a cargo é de 2150$00, sem prejuízo de valores superiores que estejam a ser atribuídos.
+
+16.º
+
+Suplemento de pensão a grandes inválidos
+
+O quantitativo mensal do suplemento a grandes inválidos é fixado nos montantes seguintes:
+
+a) Para pensionistas de invalidez e velhice do regime geral, 4830$00;
+
+b) Para pensionistas de invalidez e velhice do regime especial agrícola e do regime não contributivo e regimes equiparados, 4140$00;
+
+c) Para pensionistas de sobrevivência, 2900$00.
+
+17.º
+
+Subsídio de Natal
+
+O subsídio de Natal, atribuído em Dezembro como 13.º mês de pensão aos pensionistas de invalidez, velhice e sobrevivência dos regimes de segurança social, será de valor igual ao que resultar, para as respectivas prestações, da actualização estabelecida no presente diploma.
+
+18.º
+
+Entrada em vigor
+
+O presente diploma produz efeitos a partir de 1 Dezembro de 1987.
+
+Ministério do Emprego e da Segurança Social.
+
+**Assinada em 3 de Novembro de 1987.**
+
+**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**

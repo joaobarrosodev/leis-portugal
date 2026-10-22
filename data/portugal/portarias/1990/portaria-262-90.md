@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:332044:por
+title: Portaria n.º 262/90
+short_title: null
+summary: Determina que a concessão da carta de caçador fique dependente de exame. Revoga a Portaria n.º 816-C/87, de 30 de
+  Setembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 262/90
+official_date: null
+publication_date: '1990-04-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/1990, Série I de 1990-04-09
+  number: '83'
+  series: I
+  supplement: null
+  pages: 1756 - 1757
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/04/08300/17561757.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '332044'
+  dre_path: /dr/detalhe/portaria/262-1990-332044
+  internal: pt:dre:332044:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-1990-332044
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-1990-332044
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-12-26T00:00:00Z'
+integrity:
+  source_sha256: 9034190be772a94ed95e1db8d3fcea714678f4317753cb4234254824350c4bbb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-262-332044.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:536243:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 262/90
+
+de 9 de Abril
+
+O diploma legal que actualmente rege o processo para concessão da carta de caçador é a [Portaria n.º 816-C/87](https://diariodarepublica.pt/dr/detalhe/portaria/816-c-1987-647294), de 30 de Setembro.
+
+Atendendo, porém, à filosofia e objectivos do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, e ainda à experiência obtida desde o início do processo de exame para obtenção da carta de caçador, impõe-se a definição de uma nova forma processual da realização dos exames e a simplificação de alguns procedimentos administrativos.
+
+Nestes termos, manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do disposto no artigo 7.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e no artigo 13.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, o seguinte:
+
+1.º - 1 - A concessão da carta de caçador fica dependente da aprovação em exame.
+
+2 - Poderão candidatar-se a exame e requerer a concessão da carta de caçador os indivíduos que se encontrem em qualquer das seguintes situações:
+
+a) Nunca terem sido titulares de carta de caçador;
+
+b) A carta de caçador ter caducado por falta de renovação dentro dos prazos legalmente estabelecidos;
+
+c) A carta de caçador ter caducado por o seu titular ter sido condenado por crime de caça.
+
+3 - Consideram-se aprovados no exame os candidatos que obtenham a classificação mínima de 75% do valor total da prova.
+
+2.º A matéria do exame versará sobre os seguintes temas:
+
+Fauna, ordenamento cinegético, legislação, meios e processos de caça e meios de segurança e, ainda, manejo de armas de fogo.
+
+3.º Por portaria do Ministro da Agricultura, Pescas e Alimentação, a publicar anualmente, será definida a forma e regulamento do exame.
+
+4.º - 1 - Em cada ano, haverá uma época normal de exames e duas épocas especiais.
+
+2 - A época normal tem lugar no mês de Abril e compreende uma época complementar que decorre em Junho.
+
+3 - As épocas especiais têm lugar nos meses de Agosto e de Dezembro.
+
+5.º A época complementar referida no n.º 2 do número anterior destina-se:
+
+a) Aos candidatos que tenham reprovado no exame da respectiva época normal, com classificação não inferior a 65% do valor total da prova, e requeiram o exame;
+
+b) A candidatos que, tendo faltado ao exame da respectiva época normal, requeiram novo exame no prazo de 15 dias subsequente à data indicada na convocatória para a realização daquele.
+
+6.º As épocas especiais são destinadas aos cidadãos não residentes em território nacional, sem prejuízo das restrições seguintes:
+
+a) Os cidadãos não residentes em território nacional que tenham requerido exame na época normal ficam impedidos de se candidatarem nas épocas especiais do mesmo ano;
+
+b) Os cidadãos não residentes em território nacional que tenham faltado numa das épocas especiais podem requerer, no prazo de 30 dias subsequente à data constante da convocatória de exame, a admissão à época normal ou à época especial imediatamente seguinte.
+
+7.º Os candidatos não poderão usar da faculdade prevista na alínea b) dos n.os 5.º e 6.º deste diploma mais de uma vez por cada processo de inscrição.
+
+8.º - 1 - Os exames da época normal e da respectiva época complementar serão realizados nas sedes de distrito ou nas localidades das sedes das circunscrições florestais da área de residência dos candidatos.
+
+2 - Os exames das épocas especiais serão realizados em Lisboa.
+
+9.º O exame para concessão da carta de caçador deve ser requerido ao director-geral das Florestas, em impresso próprio, a obter e a entregar directamente na Direcção-Geral das Florestas, em Lisboa, ou nos seus serviços locais e regionais e nas câmaras municipais, podendo ainda ser solicitado e enviado, depois de preenchido, pelo correio à sede da Direcção-Geral.
+
+10.º O requerente deverá juntar ao requerimento formulado no impresso referido no número anterior uma fotocópia do bilhete de identidade, devendo a remessa ser feita por carta registada com aviso de recepção.
+
+11.º - 1 - No acto de entrega do requerimento será paga a taxa de exame, no valor de 6250$00.
+
+2 - Quando o requerente envie pelo correio os documentos mencionados no n.º 10.º, remeterá, também, um cheque ou vale-postal à ordem do tesoureiro da Direcção-Geral das Florestas, correspondente ao valor da taxa de exame, e, ainda, um envelope a si endereçado e selado para o envio do recibo comprovativo do pagamento.
+
+12.º O pagamento da taxa de exame é devido em todos os actos de inscrição ou de requerimento de exames, salvo nos casos em que os requerentes usem das faculdades previstas na alínea b) dos n.os 5.º e 6.º deste diploma.
+
+13.º - 1 - O prazo de inscrição para a época normal de exames decorrerá no período compreendido entre o dia 1 de Outubro e 31 de Janeiro imediatamente anterior à época a que respeita.
+
+2 - O prazo de inscrição para a época especial de Agosto decorrerá no período compreendido entre o dia 1 de Abril e 15 de Maio e para a época especial de Dezembro entre o dia 1 de Agosto e 15 de Setembro.
+
+3 - Para os processos de inscrição enviados pelo correio, incluindo os remetidos pelas câmaras municipais e pelos serviços regionais e locais da Direcção-Geral das Florestas, atender-se-á à data do carimbo dos CTT, não sendo considerados os expedidos fora dos prazos estabelecidos nos números anteriores.
+
+14.º As provas de exames serão realizadas perante um júri composto por três elementos, sendo dois representantes da Direcção-Geral das Florestas e um representante das associações de caçadores indicado pelas respectivas federações regionais.
+
+15.º Da deliberação do júri cabe recurso, com fundamento em ilegalidade, a interpor para o director-geral das Florestas, no prazo de 15 dias a contar da data do registo da comunição, respeitada a dilação de três dias.
+
+16.º - 1 - Não terá direito à concessão da carta de caçador o examinando que, embora tenha ficado aprovado nas provas de exame, não preencha as condições previstas no artigo 5.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
+
+2 - Os candidatos abrangidos pelo disposto no número anterior não têm direito à devolução dos documentos ou valores que hajam entregue para a realização do exame ou para a concessão da carta de caçador.
+
+17.º - 1 - O requerimento para a concessão da carta de caçador deverá ser apresentado, após aprovação, até 31 de Dezembro do ano em que o exame foi efectuado.
+
+2 - Os candidatos aprovados na época especial de Dezembro poderão requerer a concessão da carta de caçador até 31 de Março do ano imediatamente a seguir.
+
+3 - Findos os prazos referidos nos números anteriores, o exame fica sem efeito.
+
+18.º - 1 - As épocas de exames para os cidadãos não residentes em território nacional a ocorrer durante os meses de Agosto e Dezembro de 1990 regem-se pelo Regulamento constante do despacho do director-geral das Florestas de 22 de Dezembro de 1987, publicado na 2.ª série do Diário da República, de 12 de Janeiro de 1988.
+
+2 - O prazo de inscrição para a época especial de Agosto de 1990 é alargado até 31 de Maio.
+
+19.º É revogada a [Portaria n.º 816-C/87](https://diariodarepublica.pt/dr/detalhe/portaria/816-c-1987-647294), de 30 de Setembro.
+
+20.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 23 de Março de 1990.**
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

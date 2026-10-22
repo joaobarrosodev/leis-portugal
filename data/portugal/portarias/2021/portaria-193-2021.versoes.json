@@ -1,0 +1,251 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:171362456:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-178124232",
+ "dre_path": "/dr/detalhe/portaria/193-2021-171362456",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178121424",
+    "178121425",
+    "178121426",
+    "178121427",
+    "178121428",
+    "178121429"
+   ]
+  },
+  {
+   "date": "2022-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178050263:por",
+     "title": "Portaria n.º 53-A/2022",
+     "published": "2022-01-24",
+     "dre_path": "/dr/detalhe/portaria/53-a-2022-178050263"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "178121424",
+    "178121425",
+    "178121426",
+    "178121431",
+    "178121428",
+    "178121429",
+    "178121430"
+   ]
+  },
+  {
+   "date": "2023-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835663443:por",
+     "title": "Portaria n.º 451-A/2023",
+     "published": "2023-12-22",
+     "dre_path": "/dr/detalhe/portaria/451-a-2023-835663443"
+    }
+   ],
+   "changes": [
+    "Adita Anexo",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "178121424",
+    "919653210",
+    "919653211",
+    "919653212",
+    "919653213",
+    "919653214",
+    "919653215",
+    "919653216"
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:919561891:por",
+     "title": "Portaria n.º 234-A/2025/1",
+     "published": "2025-05-26",
+     "dre_path": "/dr/detalhe/portaria/234-a-2025-919561891"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "178121424",
+    "919653210",
+    "919653211",
+    "919653217",
+    "919653213",
+    "919653214",
+    "919653215",
+    "919653218"
+   ]
+  }
+ ],
+ "fragments": {
+  "178121424": {
+   "fragment_id": "178124233",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 193/2021\n\nde 15 de setembro\n\nSumário: Estabelece as orientações específicas relativas ao circuito financeiro aplicável aos apoios do Plano de Recuperação e Resiliência (PRR), no âmbito do Mecanismo de Recuperação e Resiliência (MRR).\n\nO Decreto-Lei n.º 29-B/2021, de 4 de maio, estabelece o modelo de governação dos fundos europeus atribuídos a Portugal através do Plano de Recuperação e Resiliência (PRR) no âmbito do Mecanismo de Recuperação e Resiliência (MRR) da União Europeia para o período 2021-2026, bem como a estrutura orgânica relativa ao exercício das competências de gestão estratégica e operacional, acompanhamento, monitorização e avaliação, controlo, auditoria, financiamento, circuitos financeiros e sistema de informação de reporte e transmissão de dados à Comissão Europeia.\n\nEm particular, o referido diploma regula o circuito financeiro aplicável aos apoios recebidos a título de subvenção, habilitando a regulação, por portaria, das orientações específicas relativas ao circuito financeiro aplicável aos apoios recebidos a título de empréstimo.\n\nA presente portaria visa estabelecer as orientações específicas relativas ao circuito financeiro aplicável aos apoios do Plano de Recuperação e Resiliência (PRR), no âmbito do Mecanismo de Recuperação e Resiliência (MRR), recebidos da União Europeia a título de empréstimos.\n\nAssim, nos termos e em cumprimento do disposto no n.º 5 do artigo 10.º do Decreto-Lei n.º 29-B/2021, de 4 de maio, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro do Planeamento, o seguinte:"
+  },
+  "178121425": {
+   "fragment_id": "178124234",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as orientações específicas relativas ao circuito financeiro aplicável aos apoios do Plano de Recuperação e Resiliência (PRR), no âmbito do Mecanismo de Recuperação e Resiliência (MRR), recebidos da União Europeia a título de empréstimos.\n\n2 - Sem prejuízo do disposto no artigo anterior, são objeto de portaria autónoma as orientações específicas relativas ao apoio do Plano de Recuperação e Resiliência (PRR) na Componente 02, Investimento 06 Alojamento estudantil a custos acessíveis, considerando a dimensão de ação social associada a esta medida."
+  },
+  "178121426": {
+   "fragment_id": "178124235",
+   "type": 11,
+   "heading": "Artigo 2.º — Fluxos financeiros e enquadramento orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fluxos financeiros e enquadramento orçamental\n\n1 - Os financiamentos dos projetos aprovados no âmbito do PRR com apoios recebidos da União Europeia a título de empréstimos constituem financiamento do Orçamento do Estado provenientes de fundos europeus e são disponibilizados à ordem da Direção-Geral do Tesouro e Finanças (DGTF), em conta bancária específica criada na Agência de Gestão da Tesouraria e da Dívida Pública, E. P. E.\n\n2 - O membro do Governo responsável pela área das finanças, em coordenação com o membro do Governo responsável pela área do planeamento, assegura o enquadramento deste financiamento na proposta de Orçamento do Estado, ao abrigo dos artigos 59.º e 60.º da Lei de Enquadramento Orçamental, aprovada pela Lei n.º 151/2015, de 11 de setembro, na sua redação atual."
+  },
+  "178121427": {
+   "fragment_id": "178124236",
+   "type": 11,
+   "heading": "Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR\n\n1 - Os investimentos do PRR financiados por apoios recebidos da União Europeia a título de empréstimos são objeto de contratualização entre a estrutura de missão «Recuperar Portugal» e os beneficiários diretos ou intermediários e entre estes últimos e os respetivos beneficiários finais.\n\n2 - A DGTF disponibiliza o financiamento aos beneficiários diretos ou intermediários do PRR, sob proposta da estrutura de missão «Recuperar Portugal», através de contratos de empréstimo em termos compatíveis com a satisfação do serviço da dívida e integral cumprimento do plano de reembolso do empréstimo contraído pelo Estado Português junto da União Europeia.\n\n3 - O plano de reembolso dos empréstimos contraídos pelos beneficiários diretos ou intermediários do PRR junto da DGTF deve ter em consideração o perfil expectável dos fluxos de caixa dos projetos que o respetivo empréstimo visa financiar e o cumprimento do disposto na parte final do número anterior.\n\n4 - A contratualização dos termos do financiamento aos beneficiários diretos ou intermediários, nomeadamente os termos do empréstimo, deve respeitar o enquadramento orçamental estabelecido no n.º 2 do artigo anterior, sendo acompanhada de informação prévia da Direção-Geral do Orçamento.\n\n5 - A realização dos desembolsos por parte da DGTF em cumprimento dos contratos de empréstimo, previstos nos números anteriores, com os beneficiários diretos ou intermediários é realizada sob proposta fundamentada da estrutura de missão «Recuperar Portugal» à DGTF."
+  },
+  "178121428": {
+   "fragment_id": "178124237",
+   "type": 11,
+   "heading": "Artigo 4.º — Situação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Situação específica\n\n1 - Em derrogação do disposto no artigo anterior, as operações previstas no PRR destinadas ao alojamento de estudantes do ensino superior são objeto de condições específicas a estabelecer pelos membros do Governo responsáveis pelas áreas das finanças e do planeamento, considerando a dimensão de ação social associada a esta medida.\n\n2 - Os investimentos relativos às operações referidas no número anterior são objeto de contratualização entre a estrutura de missão «Recuperar Portugal» e os beneficiários diretos ou intermediários e entre estes últimos e os respetivos beneficiários finais, nos termos definidos para os apoios em subvenções no artigo 9.º do Decreto-Lei n.º 29-B/2021, de 4 de maio."
+  },
+  "178121429": {
+   "fragment_id": "178124238",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entre em vigor no dia seguinte ao da sua publicação."
+  },
+  "178121431": {
+   "fragment_id": "178124236",
+   "type": 11,
+   "heading": "Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR",
+   "in_force_from": "2022-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53-A/2022 - Diário da República n.º 16/2022, 1º Suplemento, Série I de 2022-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/53-a-2022-178050263), em vigor a partir de 2022-01-25"
+   ],
+   "markdown": "###### Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR\n\n1 - Os investimentos do PRR financiados por apoios recebidos da União Europeia a título de empréstimos são objeto de contratualização entre a estrutura de missão «Recuperar Portugal» e os beneficiários diretos ou intermediários e entre estes últimos e os respetivos beneficiários finais.\n\n2 - A DGTF disponibiliza o financiamento aos beneficiários diretos ou intermediários do PRR, sob proposta da estrutura de missão 'Recuperar Portugal', através de contratos de empréstimo em termos compatíveis com a satisfação do serviço da dívida e integral cumprimento do plano de reembolso do empréstimo contraído pelo Estado Português junto da União Europeia, sem prejuízo do disposto no número seguinte.\n\n3 - O plano de reembolso dos empréstimos, e respetivos encargos financeiros, referidos no número anterior pode ser adaptado de modo a tomar em consideração o perfil expectável dos fluxos de caixa na fase inicial dos projetos que o respetivo empréstimo visa financiar ou para ter em consideração a dimensão dos custos de conservação extraordinária mediante aprovação do membro do Governo da área das finanças.\n\n4 - A contratualização dos termos do financiamento aos beneficiários diretos ou intermediários, nomeadamente os termos do empréstimo, deve respeitar o enquadramento orçamental estabelecido no n.º 2 do artigo anterior, sendo acompanhada de informação prévia da Direção-Geral do Orçamento.\n\n5 - A realização dos desembolsos por parte da DGTF em cumprimento dos contratos de empréstimo, previstos nos números anteriores, com os beneficiários diretos ou intermediários é realizada sob proposta fundamentada da estrutura de missão «Recuperar Portugal» à DGTF.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53-A/2022 - Diário da República n.º 16/2022, 1º Suplemento, Série I de 2022-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/53-a-2022-178050263), em vigor a partir de 2022-01-25"
+  },
+  "178121430": {
+   "fragment_id": "178124239",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 1 de setembro de 2021. - O Ministro do Planeamento, Ângelo Nelson Rosário de Souza, em 7 de setembro de 2021.\n\n114554115"
+  },
+  "919653210": {
+   "fragment_id": "178124234",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as orientações específicas relativas ao circuito financeiro aplicável aos apoios do Plano de Recuperação e Resiliência (PRR), no âmbito do Mecanismo de Recuperação e Resiliência (MRR), recebidos da União Europeia a título de empréstimos.\n\n2 - Sem prejuízo do disposto no artigo anterior, são objeto de portaria autónoma as orientações específicas relativas ao apoio do Plano de Recuperação e Resiliência (PRR) na Componente 02, Investimento 06 Alojamento estudantil a custos acessíveis, considerando a dimensão de ação social associada a esta medida."
+  },
+  "919653211": {
+   "fragment_id": "178124235",
+   "type": 11,
+   "heading": "Artigo 2.º — Fluxos financeiros e enquadramento orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fluxos financeiros e enquadramento orçamental\n\n1 - Os financiamentos dos projetos aprovados no âmbito do PRR com apoios recebidos da União Europeia a título de empréstimos constituem financiamento do Orçamento do Estado provenientes de fundos europeus e são disponibilizados à ordem da Direção-Geral do Tesouro e Finanças (DGTF), em conta bancária específica criada na Agência de Gestão da Tesouraria e da Dívida Pública, E. P. E.\n\n2 - O membro do Governo responsável pela área das finanças, em coordenação com o membro do Governo responsável pela área do planeamento, assegura o enquadramento deste financiamento na proposta de Orçamento do Estado, ao abrigo dos artigos 59.º e 60.º da Lei de Enquadramento Orçamental, aprovada pela Lei n.º 151/2015, de 11 de setembro, na sua redação atual."
+  },
+  "919653212": {
+   "fragment_id": "178124236",
+   "type": 11,
+   "heading": "Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53-A/2022 - Diário da República n.º 16/2022, 1º Suplemento, Série I de 2022-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/53-a-2022-178050263), em vigor a partir de 2022-01-25"
+   ],
+   "markdown": "###### Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR\n\n1 - Os investimentos do PRR financiados por apoios recebidos da União Europeia a título de empréstimos são objeto de contratualização entre a estrutura de missão «Recuperar Portugal» e os beneficiários diretos ou intermediários e entre estes últimos e os respetivos beneficiários finais.\n\n2 - A DGTF disponibiliza o financiamento aos beneficiários diretos ou intermediários do PRR, sob proposta da estrutura de missão 'Recuperar Portugal', através de contratos de empréstimo em termos compatíveis com a satisfação do serviço da dívida e integral cumprimento do plano de reembolso do empréstimo contraído pelo Estado Português junto da União Europeia, sem prejuízo do disposto nos números seguintes.\n\n3 - O plano de reembolso dos empréstimos, e respetivos encargos financeiros, referidos no número anterior pode ser adaptado de modo a tomar em consideração o perfil expectável dos fluxos de caixa na fase inicial dos projetos que o respetivo empréstimo visa financiar ou para ter em consideração a dimensão dos custos de conservação extraordinária mediante aprovação do membro do Governo da área das finanças.\n\n4 - A contratualização dos termos do financiamento aos beneficiários diretos ou intermediários, nomeadamente os termos do empréstimo, deve respeitar o enquadramento orçamental estabelecido no n.º 2 do artigo anterior, sendo acompanhada de informação prévia da Direção-Geral do Orçamento.\n\n5 - A realização dos desembolsos por parte da DGTF em cumprimento dos contratos de empréstimo, previstos nos números anteriores, com os beneficiários diretos ou intermediários é realizada sob proposta fundamentada da estrutura de missão «Recuperar Portugal» à DGTF.\n\n6 - Os financiamentos dos investimentos do PRR financiados por apoios da União Europeia a título de empréstimos, identificados no anexo à presente portaria, e da qual fazem parte integrante, são suscetíveis de serem atribuídos aos beneficiários a título de subvenção.\n\n7 - Nos casos previstos no número anterior, as orientações específicas relativas às condições de financiamento são estabelecidas através de protocolo a celebrar entre a estrutura de missão 'Recuperar Portugal' e a DGTF.\n\n8 - Cabe à DGTF proceder aos pagamentos dos financiamentos a título de subvenção aos beneficiários diretos ou intermediários do PRR mediante ordem de pagamento da estrutura de missão 'Recuperar Portugal' que procede à sua emissão em cumprimento dos contratos referidos no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53-A/2022 - Diário da República n.º 16/2022, 1º Suplemento, Série I de 2022-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/53-a-2022-178050263), em vigor a partir de 2022-01-25"
+  },
+  "919653213": {
+   "fragment_id": "178124237",
+   "type": 11,
+   "heading": "Artigo 4.º — Situação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Situação específica\n\n1 - Em derrogação do disposto no artigo anterior, as operações previstas no PRR destinadas ao alojamento de estudantes do ensino superior são objeto de condições específicas a estabelecer pelos membros do Governo responsáveis pelas áreas das finanças e do planeamento, considerando a dimensão de ação social associada a esta medida.\n\n2 - Os investimentos relativos às operações referidas no número anterior são objeto de contratualização entre a estrutura de missão «Recuperar Portugal» e os beneficiários diretos ou intermediários e entre estes últimos e os respetivos beneficiários finais, nos termos definidos para os apoios em subvenções no artigo 9.º do Decreto-Lei n.º 29-B/2021, de 4 de maio."
+  },
+  "919653214": {
+   "fragment_id": "178124238",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entre em vigor no dia seguinte ao da sua publicação."
+  },
+  "919653215": {
+   "fragment_id": "178124239",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 1 de setembro de 2021. - O Ministro do Planeamento, Ângelo Nelson Rosário de Souza, em 7 de setembro de 2021.\n\n114554115"
+  },
+  "919653216": {
+   "fragment_id": "919674291",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Anexo I do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "## Anexo\n\n| Investimento | Nome do investimento | Tipo de beneficiário | Entidade beneficiária |\n| --- | --- | --- | --- |\n|  |  |  |  |\n| C02-i09 | Programa de apoio ao acesso à habitação (empréstimo) | Beneficiário intermediário | Instituto da Habitação e da Reabilitação Urbana, I. P. |\n| C05-i11 | Reforço: Agendas/Alianças Mobilizadoras para a Inovação Empresarial (Empréstimos). | Beneficiário intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |\n| C05-i12 | Reforço: Agendas/Alianças Verdes para a Inovação Empresarial (Empréstimos). | Beneficiário intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |\n| C06-i09.01 | Escolas novas ou renovadas - Norte... | Beneficiário intermediário | CCDR - Norte. |\n| C06-i09.02 | Escolas novas ou renovadas - Centro... | Beneficiário intermediário | CCDR - Centro. |\n| C06-i09.03 | Escolas novas ou renovadas - LVT... | Beneficiário intermediário | CCDR - LVT. |\n| C06-i09.04 | Escolas novas ou renovadas - Alentejo... | Beneficiário intermediário | CCDR - Alentejo. |\n| C06-i09.05 | Escolas novas ou renovadas - Algarve... | Beneficiário intermediário | CCDR - Algarve. |\n| C07-i03.01 | Ligações transfronteiriças - Ponte internacional sobre o Rio Sever. | Beneficiário intermediário | CCDR - Alentejo. |\n| C07-i03.02 | Ligações transfronteiriças - Ponte Alcoutim - Saluncar del Guadiana (ES). | Beneficiário intermediário | CCDR - Alentejo. |\n| C07-i03.03 | Ligações transfronteiriças - EN103. Vinhais/Bragança (variantes). | Beneficiário direto... | Infraestruturas de Portugal, S. A. |\n| C07-i03.04 | Ligações transfronteiriças - Ligação de Bragança a Puebla de Sanabria (ES). | Beneficiário intermediário | CCDR - Norte. |\n| C07-i04.01 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias. | Beneficiário direto... | Infraestruturas de Portugal, S. A. |\n| C07-i04.02 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias - EN10-4. Setúbal/Mitrena e Ligação da A8 à Área Empresarial das Palhagueiras em Torres Vedras. | Beneficiário intermediário | CCDR - LVT. |\n| C07-i04.03 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias: Ligação do Parque Empresarial do Casarão ao IC2. | Beneficiário intermediário | CCDR - Centro. |\n| C07-i04.04 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias. | Beneficiário intermediário | CCDR - Norte. |\n| C07-i04.05 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias - Rotunda na EN246 para acesso à zona industrial de Portalegre. | Beneficiário intermediário | CCDR - Alentejo. |\n| C09-i04 | Aproveitamento hidráulico de fins múltiplos do Crato - fase de construção. | Beneficiário direto... | Comunidade Intermunicipal do Alto Alentejo. |\n| C10-i03.01 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar I - Plataforma Naval Multifuncional e Pilar II - Centro de Operações. | Beneficiário direto... | Ministério da Defesa Nacional-Marinha. |\n| C10-i03.02 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar III - Academia do Arsenal do Alfeite (Academia 4.0). | Beneficiário direto... | Arsenal do Alfeite, S. A. |\n| C10-i07 | Green Shipping... | Beneficiário intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |\n| C15-i03 | Metro Ligeiro de Superfície Odivelas-Loures... | Beneficiário direto... | Metropolitano de Lisboa, E. P. E. |\n\n> Aditado pelo/a Anexo I do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23"
+  },
+  "919653217": {
+   "fragment_id": "178124236",
+   "type": 11,
+   "heading": "Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR",
+   "in_force_from": "2025-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 234-A/2025/1 - Diário da República n.º 100/2025, Suplemento, Série I de 2025-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/234-a-2025-919561891), em vigor a partir de 2025-05-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53-A/2022 - Diário da República n.º 16/2022, 1º Suplemento, Série I de 2022-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/53-a-2022-178050263), em vigor a partir de 2022-01-25"
+   ],
+   "markdown": "###### Artigo 3.º — Regra geral para a contratualização dos financiamentos e pagamentos no âmbito dos empréstimos do PRR\n\n1 - Os investimentos do PRR financiados por apoios recebidos da União Europeia a título de empréstimos são objeto de contratualização entre a estrutura de missão «Recuperar Portugal» e os beneficiários diretos ou intermediários e entre estes últimos e os respetivos beneficiários finais.\n\n2 - A DGTF disponibiliza o financiamento aos beneficiários diretos ou intermediários do PRR, sob proposta da estrutura de missão 'Recuperar Portugal', através de contratos de empréstimo em termos compatíveis com a satisfação do serviço da dívida e integral cumprimento do plano de reembolso do empréstimo contraído pelo Estado Português junto da União Europeia, sem prejuízo do disposto nos números seguintes.\n\n3 - O plano de reembolso dos empréstimos, e respetivos encargos financeiros, referidos no número anterior pode ser adaptado de modo a tomar em consideração o perfil expectável dos fluxos de caixa na fase inicial dos projetos que o respetivo empréstimo visa financiar ou para ter em consideração a dimensão dos custos de conservação extraordinária mediante aprovação do membro do Governo da área das finanças.\n\n4 - A contratualização dos termos do financiamento aos beneficiários diretos ou intermediários, nomeadamente os termos do empréstimo, deve respeitar o enquadramento orçamental estabelecido no n.º 2 do artigo anterior, sendo acompanhada de informação prévia da Direção-Geral do Orçamento.\n\n5 - A realização dos desembolsos por parte da DGTF em cumprimento dos contratos de empréstimo, previstos nos números anteriores, com os beneficiários diretos ou intermediários é realizada sob proposta fundamentada da estrutura de missão «Recuperar Portugal» à DGTF.\n\n6 - Os financiamentos dos investimentos do PRR financiados por apoios da União Europeia a título de empréstimos, identificados no anexo à presente portaria, e da qual fazem parte integrante, são suscetíveis de serem atribuídos aos beneficiários a título de subvenção.\n\n7 - Nos casos previstos no número anterior, as orientações específicas relativas às condições de financiamento são estabelecidas através de protocolo a celebrar entre a estrutura de missão 'Recuperar Portugal' e a DGTF.\n\n8 - Cabe à DGTF proceder aos pagamentos dos financiamentos a título de subvenção aos beneficiários diretos ou intermediários do PRR mediante ordem de pagamento da estrutura de missão 'Recuperar Portugal' que procede à sua emissão em cumprimento dos contratos referidos no n.º 1.\n\n9 - Os investimentos do PRR financiados por apoios recebidos da União Europeia a título de subvenção ao Estado Português e que passam a ser financiados a título de empréstimo, no âmbito da reprogramação, são objeto de restituição pela DGTF/ETF pelo valor dos montantes financiados à entidade pagadora, a AD&C, mediante ordem de transferência da DGTF/ETF para a conta bancária referida no n.º 1 do artigo 10.º do Decreto-Lei n.º 29-B/2021, de 4 de maio, na sua redação atual, determinada por despacho conjunto das áreas governativas do planeamento e das finanças, sob proposta da estrutura de missão ‘Recuperar Portugal’.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 234-A/2025/1 - Diário da República n.º 100/2025, Suplemento, Série I de 2025-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/234-a-2025-919561891), em vigor a partir de 2025-05-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53-A/2022 - Diário da República n.º 16/2022, 1º Suplemento, Série I de 2022-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/53-a-2022-178050263), em vigor a partir de 2022-01-25"
+  },
+  "919653218": {
+   "fragment_id": "919674291",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2025-05-27",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 234-A/2025/1 - Diário da República n.º 100/2025, Suplemento, Série I de 2025-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/234-a-2025-919561891), em vigor a partir de 2025-05-27",
+    "Aditado pelo/a Anexo I do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "## Anexo\n\n| Investimento | Nome do Investimento | Tipo de Beneficiário | Entidade Beneficiária |\n| --- | --- | --- | --- |\n| C01-i12 | Construção do Hospital de Lisboa Oriental | Beneficiário Intermediário | Administração Central do Sistema de Saúde, I. P. |\n| C02-i09 | Programa de apoio ao acesso à habitação (empréstimo) | Beneficiário Intermediário | Instituto da Habitação e da Reabilitação Urbana, I. P. |\n| C05-i11 | Reforço: Agendas/Alianças Mobilizadoras para a Inovação Empresarial (Empréstimos) | Beneficiário Intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |\n| C05-i12 | Reforço: Agendas/Alianças Verdes para a Inovação Empresarial (Empréstimos) | Beneficiário Intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |\n| C06-i09.01 | Escolas novas ou renovadas - Norte | Beneficiário Intermediário | CCDR - Norte |\n| C06-i09.02 | Escolas novas ou renovadas - Centro | Beneficiário Intermediário | CCDR - Centro |\n| C06-i09.03 | Escolas novas ou renovadas - LVT | Beneficiário Intermediário | CCDR - LVT |\n| C06-i09.04 | Escolas novas ou renovadas - Alentejo | Beneficiário Intermediário | CCDR - Alentejo |\n| C06-i09.05 | Escolas novas ou renovadas - Algarve | Beneficiário Intermediário | CCDR - Algarve |\n| C06-i09.06 | Escolas novas ou renovadas - Exército de Portugal | Beneficiário Intermediário | Estado Maior do Exército |\n| C07-i03.01 | Ligações transfronteiriças - Ponte internacional sobre o Rio Sever | Beneficiário Intermediário | CCDR - Alentejo |\n| C07-i03.02 | Ligações transfronteiriças - Ponte Alcoutim - Saluncar del Guadiana (ES) | Beneficiário Intermediário | CCDR - Algarve |\n| C07-i03.03 | Ligações transfronteiriças - EN103. Vinhais/Bragança (variantes) | Beneficiário Direto | Infraestruturas de Portugal, S. A. |\n| C07-i03.04 | Ligações transfronteiriças - Ligação de Bragança a Puebla de Sanabria (ES) | Beneficiário Intermediário | CCDR - Norte |\n| C07-i04.01 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias | Beneficiário Direto | Infraestruturas de Portugal, S. A. |\n| C07-i04.02 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias - EN10-4. Setúbal/ Mitrena e Ligação da A8 à Área Empresarial das Palhagueiras em Torres Vedras | Beneficiário Intermediário | CCDR - LVT |\n| C07-i04.03 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias: Ligação do Parque Empresarial do Casarão ao IC2 | Beneficiário Intermediário | CCDR - Centro |\n| C07-i04.04 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias | Beneficiário Intermediário | CCDR - Norte |\n| C07-i04.05 | Áreas de Acolhimento Empresarial (AAE) - Acessibilidades Rodoviárias - Rotunda na EN246 para acesso à zona industrial de Portalegre | Beneficiário Intermediário | CCDR - Alentejo |\n| C07-i06.01 | Áreas de acolhimento de empresas | Beneficiário Intermediário | CCDR - Norte |\n| C07-i06.02 | Áreas de acolhimento de empresas | Beneficiário Intermediário | CCDR - Centro |\n| C07-i06.03 | Áreas de acolhimento de empresas | Beneficiário Intermediário | CCDR - LVT |\n| C07-i06.04 | Áreas de acolhimento de empresas | Beneficiário Intermediário | CCDR - Alentejo |\n| C07-i06.05 | Áreas de acolhimento de empresas | Beneficiário Intermediário | CCDR - Algarve |\n| C10-i03.01 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar I - Plataforma Naval Multifuncional e Pilar II - Centro de Operações | Beneficiário Direto | Ministério da Defesa Nacional - Marinha |\n| C10-i03.02 | Centro de Operações de Defesa do Atlântico e Plataforma Naval - Pilar III - Academia do Arsenal do Alfeite (Academia 4.0) | Beneficiário Direto | Arsenal do Alfeite, S. A. |\n| C10-i07 | Green Shipping | Beneficiário Intermediário | IAPMEI - Agência para a Competitividade e Inovação, I. P. |\n| C15-i07 | Expansão da Rede de Metro de Lisboa - Linha Vermelha até Alcântara | Beneficiário Direto | Metropolitano de Lisboa, E. P. E. |\n| C15-i08 | Expansão da Rede de Metro do Porto - Casa da Música-Santo Ovídio | Beneficiário Direto | Metro do Porto S. A. |\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 234-A/2025/1 - Diário da República n.º 100/2025, Suplemento, Série I de 2025-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/234-a-2025-919561891), em vigor a partir de 2025-05-27\n\n> Aditado pelo/a Anexo I do/a [Portaria n.º 451-A/2023 - Diário da República n.º 246/2023, 2º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/451-a-2023-835663443), em vigor a partir de 2023-12-23"
+  }
+ }
+}

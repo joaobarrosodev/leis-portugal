@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:198687:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-911303010",
+ "dre_path": "/dr/detalhe/decreto-lei/29-2003-198687",
+ "source_lastmod": "2025-03-17",
+ "versions": [
+  {
+   "date": "2003-02-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "911304699",
+    "911304700",
+    "911304701",
+    "911304702",
+    "911304703",
+    "911304704",
+    "911304705",
+    "911304706",
+    "911304707",
+    "911304708"
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:911131668:por",
+     "title": "Decreto-Lei n.º 13-B/2025",
+     "published": "2025-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/13-b-2025-911131668"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "911304699",
+    "911304700",
+    "911304701",
+    "911304702",
+    "911304703",
+    "911304704",
+    "911304705",
+    "911304706",
+    "911304707",
+    "911304710",
+    "911304709"
+   ]
+  }
+ ],
+ "fragments": {
+  "911304699": {
+   "fragment_id": "911303011",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 29/2003\n\nde 12 de Fevereiro\n\nO Decreto-Lei n.º 188/2001, de 25 de Junho, instituiu a comissão liquidatária da SILOPOR - Empresa de Silos Portuários, S. A., cujo objecto principal consistia na prestação de serviços de recepção, movimentação, armazenagem, expedição e transporte de matérias-primas alimentares e produtos conexos aos operadores comerciais inseridos no seu ramo de actividade, mediante a utilização das suas infra-estruturas de armazenagem.\n\nContudo, atenta a importância do serviço de descarga e armazenagem de matérias-primas alimentares prestado pela SILOPOR - Empresa de Silos Portuários, S. A., o citado Decreto-Lei n.º 188/2001, de 25 de Junho, determinou que a exploração da sua actividade fosse concessionada a operadores privados, em regime de serviço público, precedendo concurso público.\n\nPara o efeito, o mencionado diploma estabeleceu um conjunto de regras gerais de enquadramento de dois concursos públicos a lançar para a concessão da exploração da actividade da SILOPOR, S. A.\n\nSucede que, uma vez traçado o enquadramento geral da matéria, se constatou a necessidade de se regularem aspectos fundamentais em que esse enquadramento era omisso, como seja a definição da entidade concedente, uma vez que os silos do Beato e da Trafaria se encontram implantados em terrenos sob a jurisdição da APL - Administração do Porto de Lisboa e o silo de Leixões em terreno do domínio privado da APDL - Administração dos Portos do Douro e Leixões.\n\nAdicionalmente, fez-se sentir a conveniência de introduzir uma fase de negociações nos concursos públicos a lançar e de clarificar outros aspectos do mencionado Decreto-Lei n.º 188/2001, previamente à elaboração dos textos dos programas de concurso e cadernos de encargos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "911304700": {
+   "fragment_id": "911303012",
+   "type": 11,
+   "heading": "Artigo 1.º — Concessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Concessões\n\nOs artigos 4.º e 7.º do Decreto-Lei n.º 188/2001, de 25 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - Os concessionários sucederão na posição da SILOPOR, S. A., relativamente aos trabalhadores afectos às concessões previstas no n.º 1 do artigo 7.º, os quais manterão perante aquelas entidades todos os direitos e regalias que detiverem à data da celebração do contrato de concessão.\n\n3 - O acordo de empresa vigente na SILOPOR, S. A., será mantido por um período de cinco anos a contar da data da celebração dos contratos de concessão que suportarão as concessões previstas no n.º 1 do artigo 7.º\n\nArtigo 7.º\n\n[...]\n\n1 - ...\n\na) A exploração da actividade da SILOPOR, S. A., no porto de Lisboa, com gestão integrada dos terminais da Trafaria e do Beato, e a exploração do silo do interior de Vale de Figueira;\n\nb) ...\n\n2 - Os programas dos concursos e os respectivos cadernos de encargos são aprovados por portaria dos Ministros de Estado e das Finanças, da Segurança Social e do Trabalho e das Obras Públicas, Transportes e Habitação.\n\n3 - Do programa do concurso de cada um dos concursos públicos têm de constar obrigatoriamente:\n\na) Os requisitos respeitantes à capacidade e aptidão dos concorrentes em termos financeiros, económicos e técnicos;\n\nb) Os critérios de apreciação e avaliação das propostas;\n\nc) As normas relativas à tramitação processual dos concursos;\n\nd) O montante das cauções a prestar pelos concorrentes;\n\ne) Os elementos mínimos do contrato de concessão.\n\n4 - Do caderno de encargos de cada um dos concursos públicos têm de constar obrigatoriamente:\n\na) As condições gerais de exploração e tarifárias;\n\nb) A duração da concessão;\n\nc) O montante da caução a prestar pela concessionária;\n\nd) As regras quanto às contrapartidas a pagar pela concessionária;\n\ne) A indicação dos trabalhadores da SILOPOR, S. A., afectos à concessão.\n\n5 - Dos critérios de apreciação das propostas, a que se refere a alínea b) do n.º 3 do presente artigo, constam, como factor de avaliação das mesmas, as garantias apresentadas pelos concorrentes no sentido de salvaguardar os postos de trabalho transferidos à data da adjudicação das concessões.\n\n6 - ...\n\n7 - As bases gerais da concessão estabelecem os termos em que devem ser repartidos entre o concedente Estado e as administrações portuárias as contrapartidas financeiras a pagar pela concessionária.»"
+  },
+  "911304701": {
+   "fragment_id": "911303013",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto da concessão\n\n1 - O objecto das concessões compreende o exercício das actividades de prestação de serviços de recepção, movimentação, armazenagem, expedição e transporte de matérias-primas alimentares e produtos conexos, mediante a utilização das infra-estruturas de armazenagem existentes.\n\n2 - A outorga da concessão implica o exclusivo na área afecta à exploração concessionada.\n\n3 - As concessionárias podem exercer actividades complementares das actividades de prestação de serviços referidas no n.º 1 do presente artigo a título meramente acessório e nos termos definidos nos respectivos programas de concurso e cadernos de encargos."
+  },
+  "911304702": {
+   "fragment_id": "911303014",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura dos concursos e entidade concedente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura dos concursos e entidade concedente\n\n1 - As concessões previstas no artigo 7.º do Decreto-Lei n.º 188/2001, de 25 de Junho, são atribuídas mediante dois concursos públicos internacionais distintos.\n\n2 - O Estado Português é o concedente.\n\n3 - A posição do Estado, como concedente, transmite-se para a Administração do Porto de Lisboa, S. A., em relação aos silos da Trafaria, do Beato e de Vale de Figueira, 30 dias após a data de assinatura do contrato de concessão.\n\n4 - A posição do Estado, como concedente, transmite-se para a Administração dos Portos do Douro e Leixões, S. A., em relação ao silo de Leixões, 30 dias após a data de assinatura do contrato de concessão.\n\n5 - A realização dos concursos é coordenada pela comissão de acompanhamento dos concursos públicos, prevista no artigo 8.º do Decreto-Lei n.º 188/2001, de 25 de Junho.\n\n6 - Compete à comissão referida no número anterior superintender o acto público de concurso, hierarquizar e densificar os critérios para os quais remete a alínea b) do n.º 3 do artigo 7.º do Decreto-Lei n.º 188/2001, de 25 de Junho, na redacção do presente diploma, antes de decorrido o prazo de entrega das propostas pelos concorrentes, decidir quanto à aptidão dos concorrentes, apreciar e avaliar as propostas admitidas a concurso, negociar com os concorrentes seleccionados os termos do contrato de concessão a celebrar, elaborar os relatórios e proceder às avaliações que habilitem a decisão superior."
+  },
+  "911304703": {
+   "fragment_id": "911303015",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza das entidades concorrentes e das futuras concessionárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza das entidades concorrentes e das futuras concessionárias\n\n1 - Aos concursos públicos regulados pelo presente diploma podem apresentar-se pessoas singulares ou colectivas ou agrupamentos de empresas sem qualquer modalidade jurídica de associação, desde que possuam capacidade financeira e técnica adequada às exigências especificadas no programa de concurso e no caderno de encargos.\n\n2 - Cada contrato de concessão é celebrado com uma sociedade comercial, com sede em Portugal, tendo como objecto principal as actividades inerentes à concessão, e a constituir, previamente à celebração do contrato de concessão, pelas empresas componentes do agrupamento ou pela pessoa singular ou colectiva à qual for adjudicada a concessão."
+  },
+  "911304704": {
+   "fragment_id": "911303016",
+   "type": 11,
+   "heading": "Artigo 5.º — Modo de selecção da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modo de selecção da concessionária\n\n1 - Nos termos dos programas dos concursos, o acto de escolha do concorrente é precedido, no âmbito de cada concurso, de uma fase de negociações com os dois concorrentes que no mesmo apresentem propostas susceptíveis de melhor darem satisfação ao interesse público, atentos os critérios de avaliação das propostas fixados nos programas dos concursos.\n\n2 - No caso de se apresentar a concurso um único concorrente ou de após o acto público de concurso e a fase de qualificação apenas subsistir um concorrente em concurso, a comissão negoceia com este concorrente os termos do contrato de concessão a celebrar."
+  },
+  "911304705": {
+   "fragment_id": "911303017",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito de não adjudicação da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito de não adjudicação da concessão\n\nA qualquer momento dos concursos ou na fase de negociações, o Estado reserva-se o direito de o interromper ou de dar as negociações por concluídas com qualquer dos concorrentes seleccionados para essa fase, se, de acordo com a livre apreciação dos objectivos a prosseguir, os resultados até então obtidos não se mostrarem satisfatórios para o interesse público, ou se as respostas ou contrapropostas dos concorrentes seleccionados forem manifestamente insuficientes ou evasivas, ou não forem prestadas nos prazos fixados."
+  },
+  "911304706": {
+   "fragment_id": "911303018",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência para a prática dos actos finais de cada fase dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência para a prática dos actos finais de cada fase dos concursos\n\n1 - Compete aos Ministros das Finanças, da Segurança Social e do Trabalho e das Obras Públicas, Transportes e Habitação seleccionar os concorrentes que vão negociar com a comissão de acompanhamento dos concursos públicos os termos do contrato de concessão e, a final, escolher o concessionário.\n\n2 - Os actos referidos no n.º 1 do presente artigo têm por base os relatórios apresentados pela comissão de acompanhamento dos concursos públicos e, após a fase negocial, a avaliação das propostas resultantes da negociação."
+  },
+  "911304707": {
+   "fragment_id": "911303019",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscalização da concessão\n\n1 - A fiscalização e os poderes de aprovação no âmbito da concessão são exercidos pela Administração do Porto de Lisboa, S. A., relativamente ao concurso previsto na alínea a) do n.º 1 do artigo 7.º do Decreto-Lei n.º 188/2001, de 25 de Junho, e pela Administração dos Portos do Douro e de Leixões, S. A., relativamente ao concurso previsto na alínea b) do n.º 1 do artigo 7.º do mesmo diploma, sem prejuízo do disposto nas bases gerais da concessão.\n\n2 - Compete às administrações portuárias referidas no n.º 1 do presente artigo autorizar a instalação de novos silos nas respectivas áreas de jurisdição, desde que previamente se verifique a plena exploração, com carácter continuado, das infra-estruturas que integram cada concessão."
+  },
+  "911304708": {
+   "fragment_id": "911303020",
+   "type": 11,
+   "heading": "Artigo 9.º — Jurisdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Jurisdição\n\n1 - Os silos da Trafaria e do Beato são integrados na área de jurisdição da Administração do Porto de Lisboa, S. A., e o silo de Vale de Figueira passa a integrar o domínio privado desta administração portuária.\n\n2 - O silo de Leixões passa a integrar o domínio privado da Administração dos Portos do Douro e de Leixões, S. A.\n\n3 - As alterações a que se referem os números anteriores operam-se à data da transmissão da posição de concedente do Estado para as respectivas administrações portuárias, constituindo título bastante para efeitos de registo o presente decreto-lei e o respectivo contrato de concessão.\n\n4 - A alienação ou a alteração do fim a que se destinam os silos que passam a integrar o domínio privado das administrações portuárias carecem de parecer da Direcção-Geral do Património, homologado pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Habitação."
+  },
+  "911304710": {
+   "fragment_id": "911303020",
+   "type": 11,
+   "heading": "Artigo 9.º — Jurisdição",
+   "in_force_from": "2025-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13-B/2025 - Diário da República n.º 52/2025, Suplemento, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), em vigor a partir de 2025-03-19"
+   ],
+   "markdown": "###### Artigo 9.º — Jurisdição\n\n1 - Os silos da Trafaria e do Beato são integrados na área de jurisdição da Administração do Porto de Lisboa, S. A., e o silo de Vale de Figueira passa a integrar o domínio privado desta administração portuária.\n\n2 - O silo de Leixões passa a integrar o domínio privado da Administração dos Portos do Douro e de Leixões, S. A.\n\n3 - As alterações a que se referem os números anteriores operam-se à data da transmissão da posição de concedente do Estado para a respetiva administração portuária ou na data da celebração do contrato previsto no n.º 5 do artigo 7.º-A do Decreto-Lei n.º 188/2001, de 25 de junho, na sua redação atual, constituindo título bastante para efeitos de registo o presente decreto-lei e o respetivo contrato de transmissão do estabelecimento.\n\n4 - A alienação ou a alteração do fim a que se destinam os silos que passam a integrar o domínio privado das administrações portuárias carecem de parecer da Direcção-Geral do Património, homologado pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Habitação.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13-B/2025 - Diário da República n.º 52/2025, Suplemento, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-b-2025-911131668), em vigor a partir de 2025-03-19"
+  },
+  "911304709": {
+   "fragment_id": "911303021",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix - Luís Francisco Valente de Oliveira.\n\nPromulgado em 23 de Janeiro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Janeiro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

@@ -1,0 +1,1454 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:397112:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1972-1088707575",
+ "dre_path": "/dr/detalhe/decreto-lei/126-1972-397112",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:689619:por",
+     "title": "Decreto-Lei n.º 117/93",
+     "published": "1993-04-13",
+     "dre_path": "/dr/detalhe/decreto-lei/117-1993-689619"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "1088707775",
+    "1088707975",
+    "1088708175",
+    "1088708375",
+    "1088708575",
+    "1088708775",
+    "1088708975",
+    "1088709175",
+    "1088709375",
+    "1088709575",
+    "1093621675",
+    "1093621875",
+    "1093622375",
+    "1093622775",
+    "1088710575",
+    "1088710775",
+    "1088710975",
+    "1088711175",
+    "1088711375",
+    "1088711575",
+    "1088711775",
+    "1088711975",
+    "1088712175",
+    "1088712375",
+    "1088712575",
+    "1088712775",
+    "1088712975",
+    "1088713175",
+    "1088713375",
+    "1088713575",
+    "1088713775",
+    "1088713975",
+    "1088714175",
+    "1088714375",
+    "1088714575",
+    "1088714775",
+    "1088729775",
+    "1088715175",
+    "1088715375",
+    "1088715575",
+    "1093623275",
+    "1088715975",
+    "1088716175",
+    "1088716375",
+    "1088716575",
+    "1088716775",
+    "1088716975",
+    "1088729975",
+    "1088717375",
+    "1088717575",
+    "1088717775",
+    "1088717975",
+    "1088718175",
+    "1088718375",
+    "1088718575",
+    "1088718775",
+    "1088718975",
+    "1088719175",
+    "1088719375",
+    "1090592975",
+    "1088719575",
+    "1088719775",
+    "1088719975",
+    "1088720175",
+    "1088720375",
+    "1088720575",
+    "1088720775",
+    "1088720975",
+    "1088721175"
+   ]
+  },
+  {
+   "date": "2003-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671576:por",
+     "title": "Decreto-Lei n.º 154/2003",
+     "published": "2003-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/154-2003-671576"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1095285975",
+    "1095286175",
+    "1095286275",
+    "1095286375",
+    "1095286475",
+    "1095286575",
+    "1095286675",
+    "1095288775",
+    "1095288875",
+    "1095288975",
+    "1095289075",
+    "1095289175",
+    "1095289275",
+    "1095289375",
+    "1095289475",
+    "1095289575",
+    "1095289675",
+    "1095289775",
+    "1095289875",
+    "1095289975",
+    "1095290075",
+    "1095290175",
+    "1095290275",
+    "1095290375",
+    "1095290475",
+    "1095290575",
+    "1095290675",
+    "1095290775",
+    "1095290875",
+    "1095290975",
+    "1095291075",
+    "1095291175",
+    "1095291275",
+    "1095291375",
+    "1095291475",
+    "1095291575",
+    "1095291675",
+    "1095291775",
+    "1095291875",
+    "1095291975",
+    "1095292075",
+    "1095292175",
+    "1095292275",
+    "1095292375",
+    "1095292475",
+    "1095292575",
+    "1095292675",
+    "1095292775",
+    "1095292875",
+    "1095292975",
+    "1095293075",
+    "1095293175",
+    "1095293275",
+    "1095293375",
+    "1095293475",
+    "1095293575",
+    "1095293675",
+    "1095293775",
+    "1095293875",
+    "1095293975",
+    "1095294075",
+    "1095294175",
+    "1095294275",
+    "1095294375",
+    "1095294475",
+    "1095294575",
+    "1095294675",
+    "1095294775",
+    "1095294875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1088707775": {
+   "fragment_id": "1088707675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 126/72\n\nde 22 de Abril\n\nTornando-se necessário regular a execução da Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses, assinada em Brasília em 7 de Setembro de 1971, e cujos instrumentos de ratificação foram trocados em Lisboa no dia 22 de Março de 1972, conforme na própria Convenção se prevê;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "1088707975": {
+   "fragment_id": "1088707875",
+   "type": 1,
+   "heading": "Capítulo I — Da atribuição do estatuto de igualdade, sua extinção e seu conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da atribuição do estatuto de igualdade, sua extinção e seu conteúdo"
+  },
+  "1088708175": {
+   "fragment_id": "1088708075",
+   "type": 8,
+   "heading": "Secção I — Da atribuição do estatuto de igualdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da atribuição do estatuto de igualdade"
+  },
+  "1088708375": {
+   "fragment_id": "1088708275",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs cidadãos brasileiros que queiram beneficiar em Portugal do regime previsto na Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses, assinada em Brasília em 7 de Setembro de 1971, e pretendam obter o estatuto geral de igualdade ou o estatuto especial de igualdade de direitos políticos deverão requerê-lo, conforme o previsto nos artigos 5.º e 7.º da citada Convenção."
+  },
+  "1088708575": {
+   "fragment_id": "1088708475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os pedidos de estatuto geral de igualdade e de estatuto especial de igualdade de direitos políticos são diversos e o primeiro é independente do segundo; a igualdade de direitos políticos não poderá, no entanto, ser requerida sem que se haja já pedido ou se peça, simultâneamente, o estatuto geral de igualdade, nem poderá ser atribuída antes de o ser este último estatuto.\n\n2. No caso de os dois pedidos serem cumulados, haverá um só processo."
+  },
+  "1088708775": {
+   "fragment_id": "1088708675",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs pedidos de estatuto, geral ou especial, de igualdade constituem actos pessoais, que só podem ser praticados pelo próprio, directamente ou por intermédio de procurador com poderes especiais."
+  },
+  "1088708975": {
+   "fragment_id": "1088708875",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A decisão sobre os pedidos de estatuto geral ou especial de igualdade é vinculada e pertence ao Ministro do Interior.\n\n2. Nas províncias ultramarinas, essa competência é exercida pelos governadores respectivos."
+  },
+  "1088709175": {
+   "fragment_id": "1088709075",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. São requisitos necessários e suficientes para a atribuição, regularmente requerida, do estatuto geral de igualdade a nacionalidade brasileira, a capacidade civil, de acordo com a lei pessoal, e a residência permanente em território português, devidamente autorizada, do interessado.\n\n2. Para a atribuição do estatuto especial de igualdade de direitos políticos é necessário, e também suficiente, além do preenchimento dos requisitos mencionados no número anterior, que o interessado possua residência principal e permanente em território português há, pelo menos, cinco anos e que não se encontre privado dos direitos políticos no Brasil.\n\n3. Possuindo o cidadão brasileiro outra nacionalidade, que não a portuguesa, prevalecerá sempre, para efeitos de aplicação da Convenção, a nacionalidade brasileira."
+  },
+  "1088709375": {
+   "fragment_id": "1088709275",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os requerimentos de estatuto de igualdade conterão a indicação do nome completo, data do nascimento, estado, filiação, profissão, naturalidade e residência do requerente e serão instruídos com os documentos necessários para comprovar, além da identidade do requerente, os requisitos mencionados no artigo precedente.\n\n2. Os documentos a que se refere o número anterior, que não tenham prazo de validade próprio, deverão ter sido passados com a antecedência máxima de três meses relativamente à data da entrega do requerimento.\n\n3. O pedido de igualdade de direitos políticos deverá ainda ser acompanhado de documento comprovativo de que o requerente sabe ler e escrever português, salvo se o requerimento, escrito e assinado pelo próprio, trouxer aposto o reconhecimento notarial da letra e da assinatura."
+  },
+  "1088709575": {
+   "fragment_id": "1088709475",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A prova da nacionalidade e do gozo de direitos políticos no Brasil pode fazer-se directamente pelos documentos que, segundo a lei brasileira, sejam suficientes, ou por declaração emitida por consulado brasileiro em Portugal.\n\n2. A prova da identidade, da capacidade civil, da residência permanente no território português, devidamente autorizada, e da sua duração, faz-se nos termos gerais."
+  },
+  "1093621675": {
+   "fragment_id": "1088709675",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1993-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. O requerimento do estatuto de igualdade, geral ou especial, deverá ser apresentado nas direcções regionais do Serviço de Estrangeiros e Fronteiras ou, no caso de não existirem, no governo civil do distrito da área de residência.\n\n2. Nas Regiões Autónomas da Madeira e Açores, o requerimento pode ser apresentado ao Gabinete do Ministro da República ou às direcções regionais do Serviço de Estrangeiros e Fronteiras.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1093621875": {
+   "fragment_id": "1088709875",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1993-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1. A entidade que receber o requerimento verificará se este contém as indicações necessárias e vem devidamente instruído, enviando-o em seguida aos serviços centrais do Serviço de Estrangeiros e Fronteiras, se não tiver sido aí directamente apresentado.\n\n2 - No caso de faltarem indicações ou documentos necessários, será o requerente notificado para, no prazo de 30 dias, juntar os documentos solicitados, sob pena de, não o fazendo, o processo ser arquivado.\n\n3. A remessa prevista no n.º 1 será feita no prazo máximo de oito dias; se houver lugar ao suprimento ou à junção superveniente de documentos a que se refere o número anterior, o prazo conta-se a partir da data desses factos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1093622375": {
+   "fragment_id": "1088710075",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1993-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 10.º\n\nRecebido o requerimento, com as indicações necessárias e devidamente instruído, nos serviços centrais do Serviço de Estrangeiros e Fronteiras, a decisão sobre o mesmo, devidamente fundamentada, nos termos dos artigos 124.º e 125.º do Código do Procedimento Administrativo, deve ser proferida no prazo máximo de 30 dias.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1093622775": {
+   "fragment_id": "1088710275",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1993-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 11.º\n\nAs decisões proferidas sobre os requerimentos de estatuto de igualdade, geral ou especial, serão publicadas no Diário da República.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1088710575": {
+   "fragment_id": "1088710475",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nDas decisões respeitantes à atribuição do estatuto de igualdade, geral ou especial, cabe recurso contencioso, nos termos gerais."
+  },
+  "1088710775": {
+   "fragment_id": "1088710675",
+   "type": 8,
+   "heading": "Secção II — Da extinção do estatuto de igualdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da extinção do estatuto de igualdade"
+  },
+  "1088710975": {
+   "fragment_id": "1088710875",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O estatuto geral de igualdade e o estatuto especial de igualdade de direitos políticos extinguem-se pela cessação da autorização de permanência no território português ou pela perda da nacionalidade brasileira.\n\n2. O estatuto especial de igualdade de direitos políticos extingue-se ainda, ou suspende-se, pela privação ou suspensão dos mesmos direitos no Estado da nacionalidade.\n\n3. Para o efeito do disposto no n.º 1 deste artigo considera-se que há cessação de autorização de permanência em território português quando:\n\na) A autorização de residência não seja renovada;\n\nb) O interessado seja expulso do território, nos termos da lei;\n\nc) Deixe de nele residir habitualmente pelo prazo de cinco anos."
+  },
+  "1088711175": {
+   "fragment_id": "1088711075",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA eficácia dos factos referidos no artigo anterior fica condicionada apenas pelo respectivo registo nos termos do disposto no capítulo II deste diploma."
+  },
+  "1088711375": {
+   "fragment_id": "1088711275",
+   "type": 8,
+   "heading": "Secção III — Do conteúdo do estatuto de igualdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do conteúdo do estatuto de igualdade"
+  },
+  "1088711575": {
+   "fragment_id": "1088711475",
+   "type": 3,
+   "heading": "Subsecção I — Do conteúdo do estatuto geral de igualdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Do conteúdo do estatuto geral de igualdade"
+  },
+  "1088711775": {
+   "fragment_id": "1088711675",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO cidadão brasileiro investido no estatuto geral de igualdade não estará sujeito às restrições que afectam a capacidade de gozo dos estrangeiros em Portugal, com excepção do que respeita aos direitos políticos e dos deveres com eles conexos."
+  },
+  "1088711975": {
+   "fragment_id": "1088711875",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO brasileiro investido no estatuto geral de igualdade gozará, sem limitações diferentes das sofridas pelo português originário, dos seguintes direitos, entre outros:\n\na) Do direito de exercício de actividades económicas;\n\nb) Do direito ao trabalho, sem dependência de autorização administrativa ou subordinação a limitação quantitativa;\n\nc) Do direito de desempenhar, também sem limitação quantitativa, funções nos órgãos de sociedades ou de quaisquer pessoas colectivas;\n\nd) Do direito de adquirir monumentos e objectos artísticos, bem como navios portugueses ou imóveis nas províncias ultramarinas."
+  },
+  "1088712175": {
+   "fragment_id": "1088712075",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O estatuto de igualdade não abrange, contudo, o direito à permanência no território português, nem o direito à protecção diplomática em terceiro Estado.\n\n2. O cidadão brasileiro, mesmo investido no estatuto de igualdade, não poderá prestar, com carácter permanente ou temporário, serviço militar em Portugal, incluindo a assistência religiosa às forças armadas."
+  },
+  "1088712375": {
+   "fragment_id": "1088712275",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs brasileiros investidos no estatuto de igualdade ficam sujeitos à lei penal do Estado da residência, nas mesmas condições que os portugueses."
+  },
+  "1088712575": {
+   "fragment_id": "1088712475",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os brasileiros que gozem do estatuto de igualdade não estão sujeitos à extradição, salvo se requerida pelo Governo do Estado da nacionalidade.\n\n2. Não será, porém, concedida extradição por crime político."
+  },
+  "1088712775": {
+   "fragment_id": "1088712675",
+   "type": 3,
+   "heading": "Subsecção II — Do conteúdo do estatuto especial de igualdade de direitos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Do conteúdo do estatuto especial de igualdade de direitos políticos"
+  },
+  "1088712975": {
+   "fragment_id": "1088712875",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs cidadãos brasileiros investidos no estatuto de igualdade de direitos políticos poderão exercer funções públicas, mesmo de carácter governativo, bem como designar ou participar na designação daqueles que as hão-de exercer, nos mesmos termos que os portugueses de origem, salvos os limites constantes do artigo seguinte."
+  },
+  "1088713175": {
+   "fragment_id": "1088713075",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs nacionais brasileiros nas condições do artigo anterior não poderão, todavia, exercer as funções, constitucionalmente reservadas aos portugueses originários, de Presidente da República, de Conselheiro de Estado, de Deputado e de Procurador à Câmara Corporativa, de membro do Governo, de juiz dos tribunais supremos, de procurador-geral da República, de governador das províncias ultramarinas, de agente diplomático, de oficial general das forças armadas, nem participar no colégio eleitoral para a designação do Presidente da República."
+  },
+  "1088713375": {
+   "fragment_id": "1088713275",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO gozo, por cidadãos brasileiros, de direitos políticos em Portugal importará a suspensão do exercício dos mesmos direitos no Brasil, nos termos do artigo 7.º, n.º 3, da Convenção, tal como o gozo, por portugueses, de direitos políticos no Brasil importará a suspensão do exercício dos mesmos direitos em Portugal."
+  },
+  "1088713575": {
+   "fragment_id": "1088713475",
+   "type": 3,
+   "heading": "Subsecção III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Disposições gerais"
+  },
+  "1088713775": {
+   "fragment_id": "1088713675",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO estatuto de igualdade é pessoal, não se estendendo ao cônjuge, descendentes ou outros familiares do beneficiado."
+  },
+  "1088713975": {
+   "fragment_id": "1088713875",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nSem prejuízo do disposto nos artigos 5.º, n.º 2, e 13.º, n.º 2, os requisitos da capacidade de gozo e de exercício, em Portugal, de direitos públicos pelos cidadãos brasileiros investidos no estatuto de igualdade são ùnicamente os definidos pela lei portuguesa, salvo na medida em que aquela capacidade dependa da capacidade relativa a direitos privados e esta seja regida por outra lei."
+  },
+  "1088714175": {
+   "fragment_id": "1088714075",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nO gozo pelos brasileiros em Portugal do estatuto de igualdade bem como o exercício de direitos ou o cumprimento de deveres decorrentes desse estatuto não implicam a perda da nacionalidade, nem prejudicam a aplicação da lei brasileira, como lei nacional, sempre que esta deva ser aplicada por força das normas de conflitos portuguesas."
+  },
+  "1088714375": {
+   "fragment_id": "1088714275",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs brasileiros investidos no estatuto de igualdade continuarão no exercício de todos os direitos e deveres inerentes à sua nacionalidade, salvo aqueles que ofenderem a soberania nacional e a ordem pública do Estado português."
+  },
+  "1088714575": {
+   "fragment_id": "1088714475",
+   "type": 1,
+   "heading": "Capítulo III — Do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do registo"
+  },
+  "1088714775": {
+   "fragment_id": "1088714675",
+   "type": 8,
+   "heading": "Secção I — Do registo dos factos respeitantes a cidadãos brasileiros em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do registo dos factos respeitantes a cidadãos brasileiros em Portugal"
+  },
+  "1088729775": {
+   "fragment_id": "1088714875",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1972-04-24",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+   ],
+   "markdown": "###### Artigo 27.º\n\nEstão sujeitos a registo obrigatório os factos atributivos ou extintivos do estatuto geral de igualdade de direitos e deveres e do estatuto especial de igualdade de direitos políticos dos cidadãos brasileiros em Portugal.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+  },
+  "1088715175": {
+   "fragment_id": "1088715075",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. O registo far-se-á na Conservatória dos Registos Centrais.\n\n2. Para o efeito do disposto no número anterior, haverá na referida Conservatória um livro de registo do estatuto dos cidadãos brasileiros em Portugal, do modelo aprovado pela Direcção-Geral dos Registos e do Notariado."
+  },
+  "1088715375": {
+   "fragment_id": "1088715275",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. O registo da atribuição, extinção ou suspensão do estatuto de igualdade deve ser lavrado oficiosamente, quando as autoridades portuguesas disponham dos elementos necessários, sem prejuízo de o interessado o poder ou dever requerer.\n\n2. É obrigatório o requerimento pelo interessado do registo da extinção do estatuto de igualdade por perda da nacionalidade brasileira ou em virtude de cessação da autorização de permanência no território português, no caso da alínea c) do n.º 3 do artigo 13.º"
+  },
+  "1088715575": {
+   "fragment_id": "1088715475",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO óbito dos nacionais brasileiros, a quem tenha sido atribuído o estatuto de igualdade, será averbado oficiosamente, logo que as autoridades portuguesas disponham dos elementos necessários, podendo também o registo ser requerido pelo cônjuge sobrevivo ou por qualquer descendente, ascendente, irmão, sobrinho ou herdeiro do falecido."
+  },
+  "1093623275": {
+   "fragment_id": "1088715675",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "1993-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 31.º\n\nPara o efeito do disposto no n.º 1 do artigo 29.º, o Ministério da Administração Interna comunicará à Conservatória dos Registos Centrais os factos que hajam ocorrido e enviar-lhe-á os elementos necessários para o registo no prazo de oito dias contados sobre a verificação daqueles factos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1088715975": {
+   "fragment_id": "1088715875",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nPara efeito de registo oficioso, o Ministério dos Negócios Estrangeiros comunicará à Conservatória dos Registos Centrais os factos de que tiver conhecimento, no prazo máximo de oito dias, contados a partir do momento em que aquele Ministério for informado da sua ocorrência, devendo tal comunicação ser acompanhada, se possível, dos elementos necessários ao registo."
+  },
+  "1088716175": {
+   "fragment_id": "1088716075",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO registo dos factos mencionados no artigo 29.º, n.º 2, deverá ser requerido pelo interessado no prazo máximo de um mês, a partir do momento em que se hajam verificado sendo factos pessoais, ou daquele em que o mesmo interessado deles tome conhecimento oficial."
+  },
+  "1088716375": {
+   "fragment_id": "1088716275",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nSempre que seja registado em território português o óbito de um cidadão brasileiro, o funcionário do registo civil que houver lavrado o registo enviará o respectivo boletim à Conservatória dos Registos Centrais, no prazo de oito dias."
+  },
+  "1088716575": {
+   "fragment_id": "1088716475",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. O registo da atribuição do estatuto geral de igualdade será feito em assento, lavrado por transcrição.\n\n2. O registo dos restantes factos abrangidos no artigo 27.º efectuar-se-á por averbamento ao assento de atribuição do estatuto geral de igualdade, com base na comunicação respectiva e nos documentos que a acompanhem, se os houver."
+  },
+  "1088716775": {
+   "fragment_id": "1088716675",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nO assento referido no artigo anterior deve conter as seguintes menções especiais:\n\na) O nome completo, idade, estado, filiação, profissão, naturalidade, residência permanente e nacionalidade do interessado;\n\nb) O estatuto atribuído e a decisão que o atribua."
+  },
+  "1088716975": {
+   "fragment_id": "1088716875",
+   "type": 8,
+   "heading": "Secção II — Do registo dos factos respeitantes a cidadãos portugueses no Brasil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do registo dos factos respeitantes a cidadãos portugueses no Brasil"
+  },
+  "1088729975": {
+   "fragment_id": "1088717075",
+   "type": 11,
+   "heading": "Artigo .º",
+   "in_force_from": "1972-04-24",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+   ],
+   "markdown": "###### Artigo .º\n\n1. Os factos atributivos e extintivos do estatuto geral de igualdade de direitos e deveres e do estatuto especial de igualdade de direitos políticos, de cidadãos portugueses no Brasil, serão registados, em Portugal, mediante averbamento ao assento de nascimento do interessado.\n\n2. O registo será feito oficiosamente, sem prejuízo da possibilidade de o interessado o requerer.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+  },
+  "1088717375": {
+   "fragment_id": "1088717275",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nPara o efeito da realização oficiosa do registo, o Ministério dos Negócios Estrangeiros remeterá à Conservatória dos Registos Centrais os elementos referidos no artigo 37.º, n.º 1, e os documentos comprovativos dos mesmos, no prazo de oito dias, a contar da recepção."
+  },
+  "1088717575": {
+   "fragment_id": "1088717475",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nOs factos a que se reporta esta secção deverão ser também registados nos consulados portugueses competentes, nos termos gerais."
+  },
+  "1088717775": {
+   "fragment_id": "1088717675",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "1088717975": {
+   "fragment_id": "1088717875",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nOs requerimentos de registo a que se referem as duas secções anteriores podem ser feitos por intermédio de representante, nos termos gerais."
+  },
+  "1088718175": {
+   "fragment_id": "1088718075",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1. O registo deve ser efectuado no prazo de oito dias, tratando-se de assento, ou de dois dias, caso se trate de averbamento.\n\n2. O prazo contar-se-á a partir da data em que forem recebidos, na conservatória competente, os elementos necessários para o registo oficioso, ou da data em que for apresentado o requerimento, devidamente instruído."
+  },
+  "1088718375": {
+   "fragment_id": "1088718275",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nOs averbamentos serão lavrados segundo os modelos aprovados nos termos do artigo 53.º"
+  },
+  "1088718575": {
+   "fragment_id": "1088718475",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nO registo da atribuição e da extinção do estatuto de igualdade de direitos políticos, tanto relativamente a cidadãos brasileiros em Portugal, como a cidadãos portugueses no Brasil, será comunicado à autoridade administrativa local para que esta promova a inscrição oficiosa do interessado nos cadernos eleitorais ou o cancelamento da que existir, se houver lugar para tal inscrição ou cancelamento."
+  },
+  "1088718775": {
+   "fragment_id": "1088718675",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nO registo a que se refere o presente capítulo tem o valor do registo civil, sendo-lhe subsidiàriamente aplicáveis, com as necessárias adaptações, as normas respeitantes a este último."
+  },
+  "1088718975": {
+   "fragment_id": "1088718875",
+   "type": 1,
+   "heading": "Capítulo III — Da comunicação às autoridades brasileiras dos factos que interessam à execução da Convenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da comunicação às autoridades brasileiras dos factos que interessam à execução da Convenção"
+  },
+  "1088719175": {
+   "fragment_id": "1088719075",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. O Governo Português comunicará ao Governo Brasileiro todos os factos atributivos ou extintos do estatuto geral de igualdade ou do estatuto especial de igualdade de direitos políticos relativos aos cidadãos brasileiros, bem como a perda da nacionalidade portuguesa e o óbito daqueles que beneficiem do estatuto de igualdade no Brasil, e enviar-lhe-á o boletim do respectivo registo, no prazo máximo de oito dias, a contar da recepção deste.\n\n2. Sempre que se verifique a hipótese de plurinacionalidade prevista no n.º 3 do artigo 5.º, far-se-á menção do facto na comunicação referida no número anterior."
+  },
+  "1088719375": {
+   "fragment_id": "1088719275",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nPara o efeito do disposto no artigo anterior, o serviço competente do registo civil enviará o boletim do registo ao Ministério dos Negócios Estrangeiros, no prazo máximo de oito dias."
+  },
+  "1090592975": {
+   "fragment_id": "1090592875",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "1088719575": {
+   "fragment_id": "1088719475",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1. Uma vez registada a atribuição do estatuto geral de igualdade de direitos e deveres de cidadão brasileiro em Portugal, o interessado terá direito a bilhete de identidade de modelo igual ao do que é passado aos cidadãos portugueses, mas contendo a menção da nacionalidade do titular e a referência à Convenção de 7 de Setembro de 1971.\n\n2. O pedido de bilhete de identidade deverá ser instruído, em especial, com certidão de cópia integral do assento da atribuição do estatuto."
+  },
+  "1088719775": {
+   "fragment_id": "1088719675",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nO prazo de permanência dos estrangeiros no País sem que sejam obrigados a munir-se de bilhete de identidade, a que se referem os artigos 3.º e 4.º do Decreto n.º 16386, de 18 de Janeiro de 1929, é elevado para um ano relativamente aos cidadãos brasileiros."
+  },
+  "1088719975": {
+   "fragment_id": "1088719875",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nA Embaixada e os Consulados de Portugal no Brasil, quando tiverem conhecimento dos factos mencionados nos artigos 29.º, 30.º e 37.º deverão comunicá-los à Secretaria de Estado, independentemente de comunicação que o Governo Brasileiro haja de fazer."
+  },
+  "1088720175": {
+   "fragment_id": "1088720075",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1. Os portugueses no Brasil podem obter os documentos necessários para comprovar os requisitos do estatuto, geral ou especial, de igualdade através dos respectivos consulados.\n\n2. Se a lei brasileira o permitir, ficam os consulados autorizados a certificar, para os fins do número anterior, a nacionalidade e a não privação de direitos políticos dos cidadãos portugueses, desde que disponham, para o efeito, dos documentos necessários segundo a lei portuguesa."
+  },
+  "1088720375": {
+   "fragment_id": "1088720275",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nO pedido do estatuto, geral ou especial, de igualdade por cidadãos brasileiros em Portugal, os actos do respectivo processo e a publicação da respectiva decisão, o registo dos factos atributivos e extintos do mesmo estatuto, bem como do estatuto de igualdade, geral ou especial, dos portugueses no Brasil, e a obtenção dos documentos necessários para aqueles efeitos serão gratuitos, ficando isentos de quaisquer impostos, taxas ou emolumentos."
+  },
+  "1088720575": {
+   "fragment_id": "1088720475",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1. Os prazos previstos neste diploma são aumentados para o triplo no primeiro ano de execução da Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses.\n\n2. Nos dois anos seguintes tais prazos podem também ser alargados até àquela medida, através de portaria assinada pelos Ministros do Interior, da Justiça, dos Negócios Estrangeiros e do Ultramar, depois de consultado o Governo Brasileiro."
+  },
+  "1088720775": {
+   "fragment_id": "1088720675",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nPor portaria conjunta dos Ministros da Justiça e dos Negócios Estrangeiros serão fixados os modelos do assento e dos averbamentos previstos neste diploma, da certidão do registo do estatuto de igualdade a favor de cidadãos brasileiros em Portugal, dos certificados a passar pelos consulados portugueses nos termos do artigo 50.º, n.º 2, e do bilhete de identidade referido no artigo 47.º"
+  },
+  "1088720975": {
+   "fragment_id": "1088720875",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nEste decreto-lei entra em vigor no dia 22 de Abril de 1972."
+  },
+  "1088721175": {
+   "fragment_id": "1088721075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.\n\nPublique-se.\n\nPelo Presidente da República, MARCELLO CAETANO.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "1095285975": {
+   "fragment_id": "1088707675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "Decreto-Lei n.º 126/72\n\nde 22 de Abril\n\nTornando-se necessário regular a execução da Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses, assinada em Brasília em 7 de Setembro de 1971, e cujos instrumentos de ratificação foram trocados em Lisboa no dia 22 de Março de 1972, conforme na própria Convenção se prevê;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095286175": {
+   "fragment_id": "1088707875",
+   "type": 1,
+   "heading": "Capítulo I — Da atribuição do estatuto de igualdade, sua extinção e seu conteúdo",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "### Capítulo I — Da atribuição do estatuto de igualdade, sua extinção e seu conteúdo\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095286275": {
+   "fragment_id": "1088708075",
+   "type": 8,
+   "heading": "Secção I — Da atribuição do estatuto de igualdade",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "#### Secção I — Da atribuição do estatuto de igualdade\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095286375": {
+   "fragment_id": "1088708275",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs cidadãos brasileiros que queiram beneficiar em Portugal do regime previsto na Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses, assinada em Brasília em 7 de Setembro de 1971, e pretendam obter o estatuto geral de igualdade ou o estatuto especial de igualdade de direitos políticos deverão requerê-lo, conforme o previsto nos artigos 5.º e 7.º da citada Convenção.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095286475": {
+   "fragment_id": "1088708475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Os pedidos de estatuto geral de igualdade e de estatuto especial de igualdade de direitos políticos são diversos e o primeiro é independente do segundo; a igualdade de direitos políticos não poderá, no entanto, ser requerida sem que se haja já pedido ou se peça, simultâneamente, o estatuto geral de igualdade, nem poderá ser atribuída antes de o ser este último estatuto.\n\n2. No caso de os dois pedidos serem cumulados, haverá um só processo.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095286575": {
+   "fragment_id": "1088708675",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs pedidos de estatuto, geral ou especial, de igualdade constituem actos pessoais, que só podem ser praticados pelo próprio, directamente ou por intermédio de procurador com poderes especiais.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095286675": {
+   "fragment_id": "1088708875",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. A decisão sobre os pedidos de estatuto geral ou especial de igualdade é vinculada e pertence ao Ministro do Interior.\n\n2. Nas províncias ultramarinas, essa competência é exercida pelos governadores respectivos.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095288775": {
+   "fragment_id": "1088709075",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1. São requisitos necessários e suficientes para a atribuição, regularmente requerida, do estatuto geral de igualdade a nacionalidade brasileira, a capacidade civil, de acordo com a lei pessoal, e a residência permanente em território português, devidamente autorizada, do interessado.\n\n2. Para a atribuição do estatuto especial de igualdade de direitos políticos é necessário, e também suficiente, além do preenchimento dos requisitos mencionados no número anterior, que o interessado possua residência principal e permanente em território português há, pelo menos, cinco anos e que não se encontre privado dos direitos políticos no Brasil.\n\n3. Possuindo o cidadão brasileiro outra nacionalidade, que não a portuguesa, prevalecerá sempre, para efeitos de aplicação da Convenção, a nacionalidade brasileira.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095288875": {
+   "fragment_id": "1088709275",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1. Os requerimentos de estatuto de igualdade conterão a indicação do nome completo, data do nascimento, estado, filiação, profissão, naturalidade e residência do requerente e serão instruídos com os documentos necessários para comprovar, além da identidade do requerente, os requisitos mencionados no artigo precedente.\n\n2. Os documentos a que se refere o número anterior, que não tenham prazo de validade próprio, deverão ter sido passados com a antecedência máxima de três meses relativamente à data da entrega do requerimento.\n\n3. O pedido de igualdade de direitos políticos deverá ainda ser acompanhado de documento comprovativo de que o requerente sabe ler e escrever português, salvo se o requerimento, escrito e assinado pelo próprio, trouxer aposto o reconhecimento notarial da letra e da assinatura.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095288975": {
+   "fragment_id": "1088709475",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1. A prova da nacionalidade e do gozo de direitos políticos no Brasil pode fazer-se directamente pelos documentos que, segundo a lei brasileira, sejam suficientes, ou por declaração emitida por consulado brasileiro em Portugal.\n\n2. A prova da identidade, da capacidade civil, da residência permanente no território português, devidamente autorizada, e da sua duração, faz-se nos termos gerais.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095289075": {
+   "fragment_id": "1088709675",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. O requerimento do estatuto de igualdade, geral ou especial, deverá ser apresentado nas direcções regionais do Serviço de Estrangeiros e Fronteiras ou, no caso de não existirem, no governo civil do distrito da área de residência.\n\n2. Nas Regiões Autónomas da Madeira e Açores, o requerimento pode ser apresentado ao Gabinete do Ministro da República ou às direcções regionais do Serviço de Estrangeiros e Fronteiras.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1095289175": {
+   "fragment_id": "1088709875",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1. A entidade que receber o requerimento verificará se este contém as indicações necessárias e vem devidamente instruído, enviando-o em seguida aos serviços centrais do Serviço de Estrangeiros e Fronteiras, se não tiver sido aí directamente apresentado.\n\n2 - No caso de faltarem indicações ou documentos necessários, será o requerente notificado para, no prazo de 30 dias, juntar os documentos solicitados, sob pena de, não o fazendo, o processo ser arquivado.\n\n3. A remessa prevista no n.º 1 será feita no prazo máximo de oito dias; se houver lugar ao suprimento ou à junção superveniente de documentos a que se refere o número anterior, o prazo conta-se a partir da data desses factos.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1095289275": {
+   "fragment_id": "1088710075",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 10.º\n\nRecebido o requerimento, com as indicações necessárias e devidamente instruído, nos serviços centrais do Serviço de Estrangeiros e Fronteiras, a decisão sobre o mesmo, devidamente fundamentada, nos termos dos artigos 124.º e 125.º do Código do Procedimento Administrativo, deve ser proferida no prazo máximo de 30 dias.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1095289375": {
+   "fragment_id": "1088710275",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 11.º\n\nAs decisões proferidas sobre os requerimentos de estatuto de igualdade, geral ou especial, serão publicadas no Diário da República.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1095289475": {
+   "fragment_id": "1088710475",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 12.º\n\nDas decisões respeitantes à atribuição do estatuto de igualdade, geral ou especial, cabe recurso contencioso, nos termos gerais.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095289575": {
+   "fragment_id": "1088710675",
+   "type": 8,
+   "heading": "Secção II — Da extinção do estatuto de igualdade",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "#### Secção II — Da extinção do estatuto de igualdade\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095289675": {
+   "fragment_id": "1088710875",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1. O estatuto geral de igualdade e o estatuto especial de igualdade de direitos políticos extinguem-se pela cessação da autorização de permanência no território português ou pela perda da nacionalidade brasileira.\n\n2. O estatuto especial de igualdade de direitos políticos extingue-se ainda, ou suspende-se, pela privação ou suspensão dos mesmos direitos no Estado da nacionalidade.\n\n3. Para o efeito do disposto no n.º 1 deste artigo considera-se que há cessação de autorização de permanência em território português quando:\n\na) A autorização de residência não seja renovada;\n\nb) O interessado seja expulso do território, nos termos da lei;\n\nc) Deixe de nele residir habitualmente pelo prazo de cinco anos.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095289775": {
+   "fragment_id": "1088711075",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 14.º\n\nA eficácia dos factos referidos no artigo anterior fica condicionada apenas pelo respectivo registo nos termos do disposto no capítulo II deste diploma.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095289875": {
+   "fragment_id": "1088711275",
+   "type": 8,
+   "heading": "Secção III — Do conteúdo do estatuto de igualdade",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "#### Secção III — Do conteúdo do estatuto de igualdade\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095289975": {
+   "fragment_id": "1088711475",
+   "type": 3,
+   "heading": "Subsecção I — Do conteúdo do estatuto geral de igualdade",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "##### Subsecção I — Do conteúdo do estatuto geral de igualdade\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290075": {
+   "fragment_id": "1088711675",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 15.º\n\nO cidadão brasileiro investido no estatuto geral de igualdade não estará sujeito às restrições que afectam a capacidade de gozo dos estrangeiros em Portugal, com excepção do que respeita aos direitos políticos e dos deveres com eles conexos.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290175": {
+   "fragment_id": "1088711875",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 16.º\n\nO brasileiro investido no estatuto geral de igualdade gozará, sem limitações diferentes das sofridas pelo português originário, dos seguintes direitos, entre outros:\n\na) Do direito de exercício de actividades económicas;\n\nb) Do direito ao trabalho, sem dependência de autorização administrativa ou subordinação a limitação quantitativa;\n\nc) Do direito de desempenhar, também sem limitação quantitativa, funções nos órgãos de sociedades ou de quaisquer pessoas colectivas;\n\nd) Do direito de adquirir monumentos e objectos artísticos, bem como navios portugueses ou imóveis nas províncias ultramarinas.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290275": {
+   "fragment_id": "1088712075",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 17.º\n\n1. O estatuto de igualdade não abrange, contudo, o direito à permanência no território português, nem o direito à protecção diplomática em terceiro Estado.\n\n2. O cidadão brasileiro, mesmo investido no estatuto de igualdade, não poderá prestar, com carácter permanente ou temporário, serviço militar em Portugal, incluindo a assistência religiosa às forças armadas.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290375": {
+   "fragment_id": "1088712275",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 18.º\n\nOs brasileiros investidos no estatuto de igualdade ficam sujeitos à lei penal do Estado da residência, nas mesmas condições que os portugueses.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290475": {
+   "fragment_id": "1088712475",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 19.º\n\n1. Os brasileiros que gozem do estatuto de igualdade não estão sujeitos à extradição, salvo se requerida pelo Governo do Estado da nacionalidade.\n\n2. Não será, porém, concedida extradição por crime político.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290575": {
+   "fragment_id": "1088712675",
+   "type": 3,
+   "heading": "Subsecção II — Do conteúdo do estatuto especial de igualdade de direitos políticos",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "##### Subsecção II — Do conteúdo do estatuto especial de igualdade de direitos políticos\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290675": {
+   "fragment_id": "1088712875",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 20.º\n\nOs cidadãos brasileiros investidos no estatuto de igualdade de direitos políticos poderão exercer funções públicas, mesmo de carácter governativo, bem como designar ou participar na designação daqueles que as hão-de exercer, nos mesmos termos que os portugueses de origem, salvos os limites constantes do artigo seguinte.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290775": {
+   "fragment_id": "1088713075",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 21.º\n\nOs nacionais brasileiros nas condições do artigo anterior não poderão, todavia, exercer as funções, constitucionalmente reservadas aos portugueses originários, de Presidente da República, de Conselheiro de Estado, de Deputado e de Procurador à Câmara Corporativa, de membro do Governo, de juiz dos tribunais supremos, de procurador-geral da República, de governador das províncias ultramarinas, de agente diplomático, de oficial general das forças armadas, nem participar no colégio eleitoral para a designação do Presidente da República.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290875": {
+   "fragment_id": "1088713275",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 22.º\n\nO gozo, por cidadãos brasileiros, de direitos políticos em Portugal importará a suspensão do exercício dos mesmos direitos no Brasil, nos termos do artigo 7.º, n.º 3, da Convenção, tal como o gozo, por portugueses, de direitos políticos no Brasil importará a suspensão do exercício dos mesmos direitos em Portugal.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095290975": {
+   "fragment_id": "1088713475",
+   "type": 3,
+   "heading": "Subsecção III — Disposições gerais",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "##### Subsecção III — Disposições gerais\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291075": {
+   "fragment_id": "1088713675",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 23.º\n\nO estatuto de igualdade é pessoal, não se estendendo ao cônjuge, descendentes ou outros familiares do beneficiado.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291175": {
+   "fragment_id": "1088713875",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 24.º\n\nSem prejuízo do disposto nos artigos 5.º, n.º 2, e 13.º, n.º 2, os requisitos da capacidade de gozo e de exercício, em Portugal, de direitos públicos pelos cidadãos brasileiros investidos no estatuto de igualdade são ùnicamente os definidos pela lei portuguesa, salvo na medida em que aquela capacidade dependa da capacidade relativa a direitos privados e esta seja regida por outra lei.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291275": {
+   "fragment_id": "1088714075",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 25.º\n\nO gozo pelos brasileiros em Portugal do estatuto de igualdade bem como o exercício de direitos ou o cumprimento de deveres decorrentes desse estatuto não implicam a perda da nacionalidade, nem prejudicam a aplicação da lei brasileira, como lei nacional, sempre que esta deva ser aplicada por força das normas de conflitos portuguesas.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291375": {
+   "fragment_id": "1088714275",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 26.º\n\nOs brasileiros investidos no estatuto de igualdade continuarão no exercício de todos os direitos e deveres inerentes à sua nacionalidade, salvo aqueles que ofenderem a soberania nacional e a ordem pública do Estado português.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291475": {
+   "fragment_id": "1088714475",
+   "type": 1,
+   "heading": "Capítulo III — Do registo",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "### Capítulo III — Do registo\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291575": {
+   "fragment_id": "1088714675",
+   "type": 8,
+   "heading": "Secção I — Do registo dos factos respeitantes a cidadãos brasileiros em Portugal",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "#### Secção I — Do registo dos factos respeitantes a cidadãos brasileiros em Portugal\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291675": {
+   "fragment_id": "1088714875",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+   ],
+   "markdown": "###### Artigo 27.º\n\nEstão sujeitos a registo obrigatório os factos atributivos ou extintivos do estatuto geral de igualdade de direitos e deveres e do estatuto especial de igualdade de direitos políticos dos cidadãos brasileiros em Portugal.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+  },
+  "1095291775": {
+   "fragment_id": "1088715075",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 28.º\n\n1. O registo far-se-á na Conservatória dos Registos Centrais.\n\n2. Para o efeito do disposto no número anterior, haverá na referida Conservatória um livro de registo do estatuto dos cidadãos brasileiros em Portugal, do modelo aprovado pela Direcção-Geral dos Registos e do Notariado.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291875": {
+   "fragment_id": "1088715275",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 29.º\n\n1. O registo da atribuição, extinção ou suspensão do estatuto de igualdade deve ser lavrado oficiosamente, quando as autoridades portuguesas disponham dos elementos necessários, sem prejuízo de o interessado o poder ou dever requerer.\n\n2. É obrigatório o requerimento pelo interessado do registo da extinção do estatuto de igualdade por perda da nacionalidade brasileira ou em virtude de cessação da autorização de permanência no território português, no caso da alínea c) do n.º 3 do artigo 13.º\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095291975": {
+   "fragment_id": "1088715475",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 30.º\n\nO óbito dos nacionais brasileiros, a quem tenha sido atribuído o estatuto de igualdade, será averbado oficiosamente, logo que as autoridades portuguesas disponham dos elementos necessários, podendo também o registo ser requerido pelo cônjuge sobrevivo ou por qualquer descendente, ascendente, irmão, sobrinho ou herdeiro do falecido.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292075": {
+   "fragment_id": "1088715675",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+   ],
+   "markdown": "###### Artigo 31.º\n\nPara o efeito do disposto no n.º 1 do artigo 29.º, o Ministério da Administração Interna comunicará à Conservatória dos Registos Centrais os factos que hajam ocorrido e enviar-lhe-á os elementos necessários para o registo no prazo de oito dias contados sobre a verificação daqueles factos.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/93 - Diário da República n.º 86/1993, Série I-A de 1993-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1993-689619), em vigor a partir de 1993-07-12."
+  },
+  "1095292175": {
+   "fragment_id": "1088715875",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 32.º\n\nPara efeito de registo oficioso, o Ministério dos Negócios Estrangeiros comunicará à Conservatória dos Registos Centrais os factos de que tiver conhecimento, no prazo máximo de oito dias, contados a partir do momento em que aquele Ministério for informado da sua ocorrência, devendo tal comunicação ser acompanhada, se possível, dos elementos necessários ao registo.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292275": {
+   "fragment_id": "1088716075",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 33.º\n\nO registo dos factos mencionados no artigo 29.º, n.º 2, deverá ser requerido pelo interessado no prazo máximo de um mês, a partir do momento em que se hajam verificado sendo factos pessoais, ou daquele em que o mesmo interessado deles tome conhecimento oficial.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292375": {
+   "fragment_id": "1088716275",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 34.º\n\nSempre que seja registado em território português o óbito de um cidadão brasileiro, o funcionário do registo civil que houver lavrado o registo enviará o respectivo boletim à Conservatória dos Registos Centrais, no prazo de oito dias.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292475": {
+   "fragment_id": "1088716475",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 35.º\n\n1. O registo da atribuição do estatuto geral de igualdade será feito em assento, lavrado por transcrição.\n\n2. O registo dos restantes factos abrangidos no artigo 27.º efectuar-se-á por averbamento ao assento de atribuição do estatuto geral de igualdade, com base na comunicação respectiva e nos documentos que a acompanhem, se os houver.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292575": {
+   "fragment_id": "1088716675",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 36.º\n\nO assento referido no artigo anterior deve conter as seguintes menções especiais:\n\na) O nome completo, idade, estado, filiação, profissão, naturalidade, residência permanente e nacionalidade do interessado;\n\nb) O estatuto atribuído e a decisão que o atribua.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292675": {
+   "fragment_id": "1088716875",
+   "type": 8,
+   "heading": "Secção II — Do registo dos factos respeitantes a cidadãos portugueses no Brasil",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "#### Secção II — Do registo dos factos respeitantes a cidadãos portugueses no Brasil\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292775": {
+   "fragment_id": "1088717075",
+   "type": 11,
+   "heading": "Artigo .º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+   ],
+   "markdown": "###### Artigo .º\n\n1. Os factos atributivos e extintivos do estatuto geral de igualdade de direitos e deveres e do estatuto especial de igualdade de direitos políticos, de cidadãos portugueses no Brasil, serão registados, em Portugal, mediante averbamento ao assento de nascimento do interessado.\n\n2. O registo será feito oficiosamente, sem prejuízo da possibilidade de o interessado o requerer.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 104/1972, Série I de 1972-05-03](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-680262), em vigor a partir de 1972-04-24."
+  },
+  "1095292875": {
+   "fragment_id": "1088717275",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 38.º\n\nPara o efeito da realização oficiosa do registo, o Ministério dos Negócios Estrangeiros remeterá à Conservatória dos Registos Centrais os elementos referidos no artigo 37.º, n.º 1, e os documentos comprovativos dos mesmos, no prazo de oito dias, a contar da recepção.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095292975": {
+   "fragment_id": "1088717475",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 39.º\n\nOs factos a que se reporta esta secção deverão ser também registados nos consulados portugueses competentes, nos termos gerais.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293075": {
+   "fragment_id": "1088717675",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "#### Secção III — Disposições comuns\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293175": {
+   "fragment_id": "1088717875",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 40.º\n\nOs requerimentos de registo a que se referem as duas secções anteriores podem ser feitos por intermédio de representante, nos termos gerais.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293275": {
+   "fragment_id": "1088718075",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 41.º\n\n1. O registo deve ser efectuado no prazo de oito dias, tratando-se de assento, ou de dois dias, caso se trate de averbamento.\n\n2. O prazo contar-se-á a partir da data em que forem recebidos, na conservatória competente, os elementos necessários para o registo oficioso, ou da data em que for apresentado o requerimento, devidamente instruído.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293375": {
+   "fragment_id": "1088718275",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 42.º\n\nOs averbamentos serão lavrados segundo os modelos aprovados nos termos do artigo 53.º\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293475": {
+   "fragment_id": "1088718475",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 43.º\n\nO registo da atribuição e da extinção do estatuto de igualdade de direitos políticos, tanto relativamente a cidadãos brasileiros em Portugal, como a cidadãos portugueses no Brasil, será comunicado à autoridade administrativa local para que esta promova a inscrição oficiosa do interessado nos cadernos eleitorais ou o cancelamento da que existir, se houver lugar para tal inscrição ou cancelamento.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293575": {
+   "fragment_id": "1088718675",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 44.º\n\nO registo a que se refere o presente capítulo tem o valor do registo civil, sendo-lhe subsidiàriamente aplicáveis, com as necessárias adaptações, as normas respeitantes a este último.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293675": {
+   "fragment_id": "1088718875",
+   "type": 1,
+   "heading": "Capítulo III — Da comunicação às autoridades brasileiras dos factos que interessam à execução da Convenção",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "### Capítulo III — Da comunicação às autoridades brasileiras dos factos que interessam à execução da Convenção\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293775": {
+   "fragment_id": "1088719075",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 45.º\n\n1. O Governo Português comunicará ao Governo Brasileiro todos os factos atributivos ou extintos do estatuto geral de igualdade ou do estatuto especial de igualdade de direitos políticos relativos aos cidadãos brasileiros, bem como a perda da nacionalidade portuguesa e o óbito daqueles que beneficiem do estatuto de igualdade no Brasil, e enviar-lhe-á o boletim do respectivo registo, no prazo máximo de oito dias, a contar da recepção deste.\n\n2. Sempre que se verifique a hipótese de plurinacionalidade prevista no n.º 3 do artigo 5.º, far-se-á menção do facto na comunicação referida no número anterior.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293875": {
+   "fragment_id": "1088719275",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 46.º\n\nPara o efeito do disposto no artigo anterior, o serviço competente do registo civil enviará o boletim do registo ao Ministério dos Negócios Estrangeiros, no prazo máximo de oito dias.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095293975": {
+   "fragment_id": "1090592875",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294075": {
+   "fragment_id": "1088719475",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 47.º\n\n1. Uma vez registada a atribuição do estatuto geral de igualdade de direitos e deveres de cidadão brasileiro em Portugal, o interessado terá direito a bilhete de identidade de modelo igual ao do que é passado aos cidadãos portugueses, mas contendo a menção da nacionalidade do titular e a referência à Convenção de 7 de Setembro de 1971.\n\n2. O pedido de bilhete de identidade deverá ser instruído, em especial, com certidão de cópia integral do assento da atribuição do estatuto.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294175": {
+   "fragment_id": "1088719675",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 48.º\n\nO prazo de permanência dos estrangeiros no País sem que sejam obrigados a munir-se de bilhete de identidade, a que se referem os artigos 3.º e 4.º do Decreto n.º 16386, de 18 de Janeiro de 1929, é elevado para um ano relativamente aos cidadãos brasileiros.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294275": {
+   "fragment_id": "1088719875",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 49.º\n\nA Embaixada e os Consulados de Portugal no Brasil, quando tiverem conhecimento dos factos mencionados nos artigos 29.º, 30.º e 37.º deverão comunicá-los à Secretaria de Estado, independentemente de comunicação que o Governo Brasileiro haja de fazer.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294375": {
+   "fragment_id": "1088720075",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 50.º\n\n1. Os portugueses no Brasil podem obter os documentos necessários para comprovar os requisitos do estatuto, geral ou especial, de igualdade através dos respectivos consulados.\n\n2. Se a lei brasileira o permitir, ficam os consulados autorizados a certificar, para os fins do número anterior, a nacionalidade e a não privação de direitos políticos dos cidadãos portugueses, desde que disponham, para o efeito, dos documentos necessários segundo a lei portuguesa.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294475": {
+   "fragment_id": "1088720275",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 51.º\n\nO pedido do estatuto, geral ou especial, de igualdade por cidadãos brasileiros em Portugal, os actos do respectivo processo e a publicação da respectiva decisão, o registo dos factos atributivos e extintos do mesmo estatuto, bem como do estatuto de igualdade, geral ou especial, dos portugueses no Brasil, e a obtenção dos documentos necessários para aqueles efeitos serão gratuitos, ficando isentos de quaisquer impostos, taxas ou emolumentos.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294575": {
+   "fragment_id": "1088720475",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 52.º\n\n1. Os prazos previstos neste diploma são aumentados para o triplo no primeiro ano de execução da Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses.\n\n2. Nos dois anos seguintes tais prazos podem também ser alargados até àquela medida, através de portaria assinada pelos Ministros do Interior, da Justiça, dos Negócios Estrangeiros e do Ultramar, depois de consultado o Governo Brasileiro.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294675": {
+   "fragment_id": "1088720675",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 53.º\n\nPor portaria conjunta dos Ministros da Justiça e dos Negócios Estrangeiros serão fixados os modelos do assento e dos averbamentos previstos neste diploma, da certidão do registo do estatuto de igualdade a favor de cidadãos brasileiros em Portugal, dos certificados a passar pelos consulados portugueses nos termos do artigo 50.º, n.º 2, e do bilhete de identidade referido no artigo 47.º\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294775": {
+   "fragment_id": "1088720875",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "###### Artigo 54.º\n\nEste decreto-lei entra em vigor no dia 22 de Abril de 1972.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  },
+  "1095294875": {
+   "fragment_id": "1088721075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2003-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.\n\nPublique-se.\n\nPelo Presidente da República, MARCELLO CAETANO.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nPara ser presente à Assembleia Nacional.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 154/2003 - Diário da República n.º 161/2003, Série I-A de 2003-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2003-671576), em vigor a partir de 2003-07-20."
+  }
+ },
+ "unavailable_dates": [
+  "1972-04-22",
+  "1972-04-24"
+ ]
+}

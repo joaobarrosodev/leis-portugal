@@ -1,0 +1,924 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:356373:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34482475",
+ "dre_path": "/dr/detalhe/decreto-lei/125-2006-356373",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47147375",
+    "47147475",
+    "47147575",
+    "47147675",
+    "47147775",
+    "47147875",
+    "47147975",
+    "47148075",
+    "47148175",
+    "47148275",
+    "47148375",
+    "47148475",
+    "47148575",
+    "47148675",
+    "47148775",
+    "47148875",
+    "47148975",
+    "47149075",
+    "47149175",
+    "47149275",
+    "47149375",
+    "47149475",
+    "47149575",
+    "47149675",
+    "47149775",
+    "47149875",
+    "47149975"
+   ]
+  },
+  {
+   "date": "2007-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:642051:por",
+     "title": "Decreto-Lei n.º 318/2007",
+     "published": "2007-09-26",
+     "dre_path": "/dr/detalhe/decreto-lei/318-2007-642051"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "47147375",
+    "47147475",
+    "66948550",
+    "47147675",
+    "47147775",
+    "47147875",
+    "47147975",
+    "66948551",
+    "47148175",
+    "47148275",
+    "47148375",
+    "47148475",
+    "47148575",
+    "66948558",
+    "66948559",
+    "66948560",
+    "66948572",
+    "66948573",
+    "66948574",
+    "66980875",
+    "47149275",
+    "47149375",
+    "47149475",
+    "47149575",
+    "47149675",
+    "47149775",
+    "47149875",
+    "47149975",
+    "47150275"
+   ]
+  },
+  {
+   "date": "2008-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:487360:por",
+     "title": "Decreto-Lei n.º 247-B/2008",
+     "published": "2008-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/247-b-2008-487360"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 14.º-A"
+   ],
+   "fragments": [
+    "47147375",
+    "47147475",
+    "66948550",
+    "47147675",
+    "47147775",
+    "47147875",
+    "47147975",
+    "66980876",
+    "47148175",
+    "47148275",
+    "47148375",
+    "47148475",
+    "47148575",
+    "66980877",
+    "66948559",
+    "66948560",
+    "884861897",
+    "66948573",
+    "66948574",
+    "66980875",
+    "47149275",
+    "47149375",
+    "47149475",
+    "47149575",
+    "47149675",
+    "47149775",
+    "47149875",
+    "47149975",
+    "47150275"
+   ]
+  },
+  {
+   "date": "2011-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279421:por",
+     "title": "Decreto-Lei n.º 33/2011",
+     "published": "2011-03-07",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2011-279421"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "47147375",
+    "47147475",
+    "66948550",
+    "47147675",
+    "47147775",
+    "47147875",
+    "47147975",
+    "66980919",
+    "47148175",
+    "47148275",
+    "47148375",
+    "47148475",
+    "47148575",
+    "66980877",
+    "66948559",
+    "66948560",
+    "884861897",
+    "66948573",
+    "66948574",
+    "66980875",
+    "47149275",
+    "47149375",
+    "47149475",
+    "47149575",
+    "47149675",
+    "47149775",
+    "47149875",
+    "47149975",
+    "47150275"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176071:por",
+     "title": "Decreto-Lei n.º 209/2012",
+     "published": "2012-09-19",
+     "dre_path": "/dr/detalhe/decreto-lei/209-2012-176071"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "47147375",
+    "47147475",
+    "66948550",
+    "47147675",
+    "47147775",
+    "47147875",
+    "47147975",
+    "66980919",
+    "47148175",
+    "47148275",
+    "47148375",
+    "47148475",
+    "47148575",
+    "66985904",
+    "66948559",
+    "66948560",
+    "884861897",
+    "66948573",
+    "66948574",
+    "66980875",
+    "47149275",
+    "47149375",
+    "47149475",
+    "47149575",
+    "47149675",
+    "47149775",
+    "47149875",
+    "47149975",
+    "47150275"
+   ]
+  },
+  {
+   "date": "2021-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175659839:por",
+     "title": "Decreto-Lei n.º 109-D/2021",
+     "published": "2021-12-09",
+     "dre_path": "/dr/detalhe/decreto-lei/109-d-2021-175659839"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-B",
+    "Adita Artigo 17.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "47147375",
+    "47147475",
+    "66948550",
+    "47147675",
+    "175745953",
+    "47147875",
+    "175745954",
+    "175745955",
+    "175745956",
+    "47148275",
+    "175745960",
+    "175745957",
+    "175745958",
+    "66985904",
+    "66948559",
+    "66948560",
+    "884861897",
+    "175745948",
+    "175745949",
+    "175745959",
+    "175745951",
+    "175745952",
+    "47149275",
+    "47149375",
+    "47149475",
+    "47149575",
+    "47149675",
+    "47149775",
+    "47149875",
+    "47149975",
+    "47150275"
+   ]
+  },
+  {
+   "date": "2024-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:858631717:por",
+     "title": "Decreto-Lei n.º 28/2024",
+     "published": "2024-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/28-2024-858631717"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "47147375",
+    "47147475",
+    "66948550",
+    "47147675",
+    "175745953",
+    "47147875",
+    "859194186",
+    "859194191",
+    "859194187",
+    "859194192",
+    "175745960",
+    "859194193",
+    "859194188",
+    "859194189",
+    "66948559",
+    "66948560",
+    "884861897",
+    "175745948",
+    "175745949",
+    "175745959",
+    "859194190",
+    "175745952",
+    "47149275",
+    "47149375",
+    "47149475",
+    "47149575",
+    "47149675",
+    "47149775",
+    "47149875",
+    "47149975",
+    "47150275"
+   ]
+  }
+ ],
+ "fragments": {
+  "47147375": {
+   "fragment_id": "35102275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente decreto-lei estabelece um meio de criação de empresas através da Internet, introduzindo no nosso ordenamento jurídico uma via inovadora para a constituição de sociedades comerciais e civis sob forma comercial.\n\nVisa-se, com esta iniciativa, continuar a simplificar procedimentos de acordo com o Programa SIMPLEX, contribuir para o desenvolvimento do Plano Tecnológico e reduzir significativamente os custos de contexto, melhorando as condições para investir e criar riqueza e emprego em Portugal.\n\nO regime adoptado para a criação de sociedades comerciais e civis sob a forma comercial através da Internet pode ser utilizado por qualquer interessado. Tanto pessoas singulares como pessoas colectivas, representadas pelo respectivos responsáveis para as vincular, passam a poder criar sociedades por esta via, desde que utilizando um meio de certificação electrónica adequado.\n\nTrata-se, pois, de um método de criação de sociedades comerciais com um ponto de ligação óbvio ao projecto do Cartão do Cidadão. É que, com a emissão de um cartão de identificação para o cidadão que contenha um meio de certificação electrónico da identidade, a utilização de assinaturas electrónicas pelas pessoas singulares é seguramente democratizada e, consequentemente, também promovida a utilização das funcionalidades e meios - como a criação de sociedades comerciais através da Internet - que dependam de um reconhecimento electrónico da identificação.\n\nAlém daqueles que sejam directamente interessados na constituição da sociedade comercial através da Internet, também os advogados, os solicitadores e os notários podem constituí-las, certificando a identidade, a capacidade, os poderes de representação e a vontade dos interessados, sempre com utilização de um meio de validação electrónico da sua identidade.\n\nO regime adoptado pretende ser flexível, tendo o interessado ou o seu representante um alargado conjunto de opções em matéria de escolha da firma e do pacto social da sociedade comercial que pretende constituir.\n\nAssim, quanto ao processo de escolha da firma, estão disponíveis três possibilidades: a opção por uma firma pré-aprovada e registada a favor do Estado, como na «empresa na hora», a obtenção de uma firma admissível escolhida pelos interessados por via exclusivamente electrónica e o envio de um certificado de admissibilidade da firma previamente obtido através de um meio não electrónico.\n\nQuanto ao pacto social ou acto constitutivo da sociedade comercial ou da sociedade civil sob a forma comercial, é oferecida uma dupla opção: a escolha de um pacto social ou acto constitutivo de modelo aprovado por despacho do director-geral dos Registos e do Notariado ou a apresentação do pedido com envio de pacto ou acto constitutivo elaborado e submetido pelos interessados.\n\nIgualmente se prevê a possibilidade de o cumprimento das obrigações fiscais relativas ao início da actividade da sociedade constituída ser efectuado por via exclusivamente electrónica.\n\nAlém disto, pretende-se que este processo de constituição de sociedades comerciais através da Internet seja rápido e barato. Prevê-se, por isso, que o registo da sociedade constituída se realize imediatamente, ou no prazo máximo de dois dias úteis, consoante os interessados optem por pacto ou acto constitutivo de modelo aprovado ou por submeter pacto ou acto constitutivo por si elaborado. O custo da constituição de sociedades por via electrónica é, igualmente, mais baixo que o preço da sua criação pela via tradicional.\n\nAinda é merecedora de especial referência a circunstância de este regime de constituição de sociedades comerciais pela Internet ser dotado de importantes e relevantes mecanismos de segurança e controlo, consubstanciados, por exemplo, em comunicações electrónicas obrigatórias para as entidades responsáveis pelo cumprimento das obrigações fiscais, da segurança social e dos deveres de natureza laboral da sociedade comercial criada.\n\nFinalmente, aproveita-se para adoptar o mecanismo legal que permite a concretização do projecto «marca na hora», que visa a possibilidade de obtenção, no momento da constituição de uma «empresa na hora», de uma marca pré-aprovada e pré-registada em nome do Estado, equivalente à firma escolhida.\n\nForam promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Câmara dos Técnicos Oficiais de Contas.\n\nFoi ouvida a Ordem dos Notários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "47147475": {
+   "fragment_id": "35563275",
+   "type": 1,
+   "heading": "Capítulo I — Regime especial de constituição on-line de sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regime especial de constituição on-line de sociedades"
+  },
+  "47147575": {
+   "fragment_id": "36950275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado um regime especial de constituição on-line de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima, através de sítio na Internet, regulado por portaria do Ministro da Justiça."
+  },
+  "47147675": {
+   "fragment_id": "36950375",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO regime previsto no presente decreto-lei não é aplicável:\n\na) Às sociedades cujo capital seja realizado com recurso a entradas em espécie em que, para a transmissão dos bens com que os sócios entram para a sociedade, seja exigida forma mais solene do que a forma escrita;\n\nb) Às sociedades anónimas europeias."
+  },
+  "47147775": {
+   "fragment_id": "36950475",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência\n\n1 - O procedimento de constituição de sociedades ao abrigo do regime a que se refere o artigo 1.º é da competência do Registo Nacional de Pessoas Colectivas (RNPC), independentemente da localização da sede da sociedade a constituir, sem prejuízo do disposto no número seguinte.\n\n2 - O RNPC pode distribuir por outras conservatórias do registo comercial a tramitação dos procedimentos de constituição on-line de sociedades, nos termos fixados por despacho do director-geral dos Registos e do Notariado."
+  },
+  "47147875": {
+   "fragment_id": "36950575",
+   "type": 11,
+   "heading": "Artigo 4.º — Interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Interessados\n\nPodem recorrer ao regime previsto no presente decreto-lei pessoas singulares e pessoas colectivas."
+  },
+  "47147975": {
+   "fragment_id": "36950675",
+   "type": 11,
+   "heading": "Artigo 5.º — Meios de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Meios de certificação\n\n1 - A indicação dos dados e a entrega de documentos no sítio na Internet devem ser efectuadas mediante autenticação electrónica ou aposição de uma assinatura electrónica, cujos requisitos e condições de utilização são definidos na portaria referida no artigo 1.º, em articulação com os mecanismos previstos no Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.\n\n2 - No âmbito do regime previsto no presente decreto-lei, a confirmação das assinaturas dos interessados faz-se através dos meios de certificação referidos no número anterior.\n\n3 - Caso intervenha mais de um interessado na constituição da sociedade, é possível o acesso conjunto, simultâneo ou sucessivo, dos diversos interessados ao respectivo processo de constituição on-line."
+  },
+  "47148075": {
+   "fragment_id": "36950775",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido on-line",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pedido on-line\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido on-line praticando, entre outros que se mostrem necessários, os seguintes actos:\n\na) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado ou pela verificação da admissibilidade e obtenção da firma, nos termos do n.º 3 do artigo 45.º do regime do RNPC;\n\nb) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação da firma constante de certificado de admissibilidade de firma emitido pelo RNPC, previamente obtido, ficando os interessados obrigados à inutilização do mesmo;\n\nc) Opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado ou por envio do pacto ou do acto constitutivo por eles elaborado;\n\nd) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;\n\ne) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo da constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º;\n\nf) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.\n\n2 - Nas situações previstas na primeira parte da alínea a) do número anterior, os interessados podem completar a composição da firma com qualquer expressão alusiva ao objecto social que optem por inserir entre a expressão de fantasia escolhida e os aditamentos legalmente impostos.\n\n3 - A inutilização pelos interessados prevista na alínea b) do n.º 1 faz-se mediante a inscrição do seu nome, da sua assinatura, da data e, se se tratar de advogado ou de solicitador, da aposição do respectivo carimbo profissional no espaço reservado para o efeito para os oficiais públicos.\n\n4 - Se for esse o caso, os interessados devem ainda enviar através do sítio na Internet, entre outros que se mostrem necessários, os seguintes documentos:\n\na) Documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto;\n\nb) Autorizações especiais que sejam necessárias para a constituição da sociedade;\n\nc) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.\n\n5 - Uma vez iniciado o procedimento, o pedido on-line deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.\n\n6 - Todos os documentos entregues através de sítio na Internet, desde que tenham sido correctamente digitalizados e sejam integralmente apreensíveis, têm o mesmo valor probatório dos originais."
+  },
+  "47148175": {
+   "fragment_id": "36950875",
+   "type": 11,
+   "heading": "Artigo 7.º — Intervenção de advogados e de solicitadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Intervenção de advogados e de solicitadores\n\n1 - Os advogados e os solicitadores que disponham dos meios de certificação de acordo com a portaria referida no n.º 1 do artigo 5.º enviam através do sítio na Internet o pacto ou o acto constitutivo da sociedade, com as assinaturas dos seus subscritores reconhecidas presencialmente.\n\n2 - Para o efeito previsto no número anterior, os advogados e os solicitadores reconhecem presencialmente as assinaturas dos subscritores do pacto ou do acto constitutivo, certificando a sua identidade e, se for esse o caso, a sua capacidade e os seus poderes de representação, e ainda que os mesmos manifestaram a sua vontade em constituir a sociedade.\n\n3 - As declarações dos advogados e dos solicitadores relativas à certificação referida no número anterior fazem-se através de fórmula própria disponível no sítio na Internet, não sendo necessário proceder ao registo em sistema informático previsto no n.º 3 do artigo 38.º do Decreto-Lei n.º 76-A/2006, de 29 de Março.\n\n4 - Se os interessados dispuserem dos meios de certificação de acordo com a portaria referida no n.º 1 do artigo 5.º, o advogado ou o solicitador podem enviar através do sítio na Internet o pacto ou o acto constitutivo assinados pelos interessados com esse meio de certificação.\n\n5 - Caso intervenha mais de um advogado ou solicitador na constituição da sociedade, é possível o acesso conjunto, simultâneo ou sucessivo, dos diversos interessados, estejam ou não representados por advogado ou solicitador, nos termos do n.º 1 do artigo 5.º"
+  },
+  "47148275": {
+   "fragment_id": "36950975",
+   "type": 11,
+   "heading": "Artigo 8.º — Representação dos interessados na subscrição do pacto ou do acto constitutivo da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Representação dos interessados na subscrição do pacto ou do acto constitutivo da sociedade\n\nNo caso da intervenção prevista no artigo anterior, os advogados e os solicitadores não podem agir como representantes dos interessados na subscrição do pacto ou do acto constitutivo da sociedade."
+  },
+  "47148375": {
+   "fragment_id": "36951075",
+   "type": 11,
+   "heading": "Artigo 9.º — Intervenção dos notários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Intervenção dos notários\n\n1 - Os interessados podem solicitar aos notários, que disponham dos meios de certificação de acordo com a portaria referida no n.º 1 do artigo 5.º, que a constituição de sociedade seja realizada através do procedimento previsto no presente decreto-lei.\n\n2 - Para esse efeito, os notários reconhecem presencialmente as assinaturas dos subscritores do pacto ou do acto constitutivo certificando a sua identidade e, se for esse o caso, a sua capacidade e os seus poderes de representação e, ainda, que os mesmos manifestaram a sua vontade em constituir a sociedade.\n\n3 - O disposto no n.º 4 do artigo 7.º é aplicável aos notários, com as necessárias adaptações."
+  },
+  "47148475": {
+   "fragment_id": "36951175",
+   "type": 11,
+   "heading": "Artigo 10.º — Validação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Validação do pedido\n\n1 - O pedido de constituição de sociedade apresentado nos termos do presente decreto-lei só é considerado validamente submetido após a emissão de um comprovativo electrónico, através do sítio na Internet, que indique a data e a hora em que o pedido foi concluído.\n\n2 - A não conclusão do procedimento de constituição de sociedade por facto imputável ao interessado determina a caducidade do direito ao uso da firma afecta à sociedade a constituir nos termos da primeira parte da alínea a) do n.º 1 do artigo 6.º"
+  },
+  "47148575": {
+   "fragment_id": "36951275",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo de apreciação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazo de apreciação do pedido\n\n1 - Emitido o comprovativo electrónico referido no n.º 1 do artigo anterior, o serviço competente aprecia o pedido de constituição de sociedade.\n\n2 - Se os interessados tiverem optado por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado e não tiver ocorrido a entrega dos documentos referidos nas alíneas b) e c) do n.º 4 do artigo 6.º, o serviço competente, após confirmação do pagamento efectuado pelos interessados, procede imediatamente às diligências subsequentes previstas no artigo 12.º\n\n3 - Nas restantes situações, o serviço competente procede a todas as diligências subsequentes previstas no artigo 12.º no prazo de dois dias úteis a contar da confirmação do pagamento efectuado pelos interessados."
+  },
+  "47148675": {
+   "fragment_id": "36951375",
+   "type": 11,
+   "heading": "Artigo 12.º — Diligências subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Diligências subsequentes\n\n1 - O tratamento dos dados indicados e dos documentos entregues pelos interessados bem como a apreciação do pedido de constituição da sociedade são efectuados pelos serviços competentes.\n\n2 - O serviço competente deve proceder aos seguintes actos:\n\na) Registo do pacto ou acto constitutivo da sociedade, que deve ser imediatamente comunicado aos interessados por via electrónica;\n\nb) Inscrição do facto no ficheiro central de pessoas colectivas e codificação da actividade económica (CAE) ou, se for esse o caso, comunicação do registo para aqueles efeitos.\n\n3 - O serviço competente deve ainda proceder aos seguintes actos:\n\na) Emissão e envio aos interessados do cartão de identificação de pessoa colectiva e do recibo comprovativo do pagamento dos encargos devidos, bem como comunicação aos mesmos do número de identificação da sociedade na segurança social;\n\nb) Disponibilização de prova gratuita do registo da constituição da sociedade nos termos e pelos meios previstos no artigo 75.º do Código do Registo Comercial;\n\nc) Promoção das publicações legais, as quais se devem efectuar automaticamente e por via electrónica;\n\nd) Disponibilização aos serviços competentes, por meios informáticos, dos dados necessários para o controlo das obrigações tributárias à administração tributária, dos dados necessários para efeitos de comunicação do início de actividade da sociedade à Inspecção-Geral do Trabalho, bem como dos dados necessários à inscrição oficiosa da sociedade nos serviços de segurança social e, quando for o caso, no cadastro comercial;\n\ne) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;\n\nf) Envio da pasta da sociedade à conservatória do registo comercial territorialmente competente, nos termos do Código do Registo Comercial.\n\n4 - Para os efeitos previstos na alínea d) do número anterior, os serviços da administração tributária devem notificar, por via electrónica, os serviços de segurança social dos elementos relativos ao início de actividade.\n\n5 - O envio previsto na alínea f) do n.º 3 só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.\n\n6 - A realização dos actos previstos nos n.os 2 e 3 é da competência do conservador e dos oficiais de registo."
+  },
+  "47148775": {
+   "fragment_id": "36951475",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Encargos\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente decreto-lei são devidos encargos relativos:\n\na) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado;\n\nb) Ao imposto do selo, nos termos da tabela respectiva.\n\n2 - Não são devidos emolumentos pessoais no âmbito do regime especial de constituição on-line de sociedades."
+  },
+  "47148875": {
+   "fragment_id": "36951575",
+   "type": 11,
+   "heading": "Artigo 14.º — Bolsa de firmas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Bolsa de firmas\n\n1 - A bolsa de firmas criada ao abrigo do n.º 1 do artigo 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho, é utilizada no procedimento de constituição de sociedades previsto no presente decreto-lei.\n\n2 - A bolsa de firmas reservadas e marcas registadas a favor do Estado prevista no n.º 2 do artigo 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho, é aplicável ao procedimento de constituição de sociedades previsto no presente decreto-lei, com as necessárias adaptações, em condições a prever por portaria do Ministro da Justiça."
+  },
+  "47148975": {
+   "fragment_id": "36951675",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação subsidiária\n\nO Código do Registo Comercial é aplicável subsidiariamente ao regime especial de constituição on-line de sociedades."
+  },
+  "47149075": {
+   "fragment_id": "36951775",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protocolos\n\n1 - Podem ser celebrados protocolos entre a Direcção-Geral dos Registos e do Notariado (DGRN) e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades, com vista à definição dos procedimentos administrativos de comunicação de dados.\n\n2 - A DGRN pode ainda celebrar protocolos com a Direcção-Geral dos Impostos e com a Câmara dos Técnicos Oficiais de Contas, com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de actividade e posterior comprovação destes factos."
+  },
+  "47149175": {
+   "fragment_id": "36951875",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\nDeve ser regulado por portaria do Ministro da Justiça:\n\na) A designação, o funcionamento e as funções do sítio na Internet referido no artigo 1.º;\n\nb) Os requisitos e as condições de utilização da autenticação electrónica e da assinatura electrónica na indicação dos dados e na entrega de documentos no referido sítio."
+  },
+  "47149275": {
+   "fragment_id": "35563375",
+   "type": 1,
+   "heading": "Capítulo II — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Alterações legislativas"
+  },
+  "47149375": {
+   "fragment_id": "36951975",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao regime do Registo Nacional de Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao regime do Registo Nacional de Pessoas Colectivas\n\nO artigo 45.º do regime do Registo Nacional de Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os 12/2001, de 25 de Janeiro, 323/2001, de 17 de Dezembro, 2/2005, de 4 de Janeiro, 111/2005, de 8 de Julho, e 76-A/2006, de 29 de Março, passa a ter a seguinte redacção:\n\n«Artigo 45.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A emissão do certificado de admissibilidade de firma previsto no n.º 1 pode ser substituída por uma verificação da admissibilidade e obtenção da firma, realizadas por via electrónica, em termos a regulamentar por portaria do Ministro da Justiça.»"
+  },
+  "47149475": {
+   "fragment_id": "36952075",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado\n\nOs artigos 27.º e 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178-A/2005, de 28 de Outubro, rectificado pela Declaração de Rectificação n.º 89/2005, de 27 de Dezembro, 76-A/2006, de 29 de Março, e 85/2006, de 23 de Maio, passam a ter a seguinte redacção:\n\n«Artigo 27.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Regimes especiais de constituição imediata e de constituição on-line de sociedades:\n\n3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 360.\n\n3.2 - O emolumento previsto no número anterior tem um valor único e inclui o custo da publicação obrigatória do registo.\n\n3.3 - Do emolumento previsto no n.º 3.1, deduzido da taxa devida pela publicação a que se refere o n.º 3.2, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas (RNPC).\n\n3.4 - Pela prática dos actos compreendidos no regime especial de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo de modelo aprovado - (euro) 360.\n\n3.5 - No caso de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo elaborado pelos interessados - (euro) 380.\n\n3.6 - Os emolumentos previstos nos n.os 3.4 e 3.5 têm um valor único e incluem o custo da publicação obrigatória do registo.\n\n4 - ...\n\n4.1 - ...\n\n4.2 - ...\n\n4.3 - Havendo provimento parcial, o emolumento do n.º 4.1 é reduzido a metade.\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\nArtigo 28.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - Os emolumentos devidos pelos regimes especiais de constituição imediata e de constituição on-line de sociedades são reduzidos em (euro) 60 quando a actividade principal da sociedade seja classificada como actividade informática ou conexa, ou ainda como de investigação e desenvolvimento, não sendo devida participação emolumentar pela referida redução.\n\n20 - ...\n\n21 - ...\n\n22 - ...\n\n23 - ...\n\n24 - ...\n\n25 - ...\n\n26 - ...\n\n27 - ...»"
+  },
+  "47149575": {
+   "fragment_id": "36952175",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 8-B/2002, de 15 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 8-B/2002, de 15 de Janeiro\n\nO artigo 4.º do Decreto-Lei n.º 8-B/2002, de 15 de Janeiro, com a alteração introduzida pelo Decreto-Lei n.º 111/2005, de 8 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Consideram-se oficiosamente inscritas na segurança social as entidades empregadoras criadas pelo regime especial de constituição imediata de sociedades e pelo regime especial de constituição on-line de sociedades.»"
+  },
+  "47149675": {
+   "fragment_id": "36952275",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração ao Decreto-Lei n.º 111/2005, de 8 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração ao Decreto-Lei n.º 111/2005, de 8 de Julho\n\nOs artigos 1.º, 3.º, 6.º, 8.º, 11.º, 12.º, 14.º e 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho, com a alteração introduzida pelo Decreto-Lei n.º 76-A/2006, de 29 de Março, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\nO presente diploma estabelece um regime especial de constituição imediata de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima, com ou sem a simultânea aquisição, pelas sociedades, de marca registada.\n\nArtigo 3.º\n\n[...]\n\nSão pressupostos de aplicação do presente diploma:\n\na) A opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, ou a apresentação de certificado de admissibilidade de firma emitido pelo Registo Nacional de Pessoas Colectivas; e\n\nb) ...\n\nArtigo 6.º\n\n[...]\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido junto do serviço competente, manifestando a sua opção pela firma ou firma e marca e pelo modelo de pacto ou acto constitutivo.\n\n2 - ...\n\nArtigo 8.º\n\n[...]\n\n1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:\n\na) ...\n\nb) Afectação, por via informática e a favor da sociedade a constituir, da firma escolhida ou da firma e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à firma, nos casos previstos na primeira parte da alínea a) do artigo 3.º;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\n2 - ...\n\nArtigo 11.º\n\n[...]\n\nA não conclusão do procedimento no prazo previsto no artigo 5.º por facto imputável aos interessados determina a caducidade do direito ao uso da firma, ou da firma e marca escolhidas afectas à sociedade a constituir, nos termos da alínea b) do n.º 1 do artigo 8.º, não conferindo o direito à restituição dos encargos cobrados.\n\nArtigo 12.º\n\n[...]\n\n1 - Concluído o procedimento de constituição da sociedade, o serviço competente entrega de imediato aos representantes da sociedade, a título gratuito:\n\na) Uma certidão do pacto ou acto constitutivo e do registo deste último;\n\nb) O recibo comprovativo do pagamento dos encargos devidos;\n\nc) Nos casos em que com a constituição da sociedade ocorra a simultânea aquisição do registo de marca, para além dos documentos anteriores, documento comprovativo de tal aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial (INPI).\n\n2 - Nas situações a que se refere a alínea c) do número anterior, o INPI remete posteriormente à sociedade o título de registo da marca, bem como o recibo comprovativo do pagamento das taxas devidas pelo acto de aquisição do registo de marca.\n\nArtigo 14.º\n\n[...]\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Às taxas previstas na Tabela de Taxas de Propriedade Industrial para a aquisição do registo de marca, nos casos em que este facto ocorra simultaneamente com a constituição da sociedade.\n\n2 - O Estado goza de isenção do pagamento das taxas devidas pela prática de actos junto do INPI, ao abrigo do presente diploma.\n\n3 - Sem prejuízo do disposto no artigo 11.º, não são devidos quaisquer encargos pela recusa de titulação e de registo, procedendo-se nesses casos à devolução de todas as quantias cobradas pelo procedimento de constituição de sociedades regulado neste diploma.\n\n4 - Pelo procedimento de constituição de sociedades regulado neste diploma não são devidos emolumentos pessoais.\n\nArtigo 15.º\n\nBolsas de firmas e de marcas\n\n1 - ...\n\n2 - É criada pelo RNPC e pelo INPI uma bolsa de firmas reservadas e de marcas registadas a favor do Estado, compostas por expressões de fantasia e às quais está associado um NIPC e um número de processo de marca, independentemente da localização da sede da sociedade, para o efeito de afectação às sociedades a constituir no âmbito do presente diploma.\n\n3 - As marcas constantes da bolsa referida no número anterior são registadas a favor do Estado, representado pelo RNPC, para os produtos e serviços definidos por despacho conjunto do director-geral dos Registos e do Notariado e do presidente do conselho de administração do INPI.\n\n4 - Até à sua afectação nos termos da alínea b) do n.º 1 do artigo 8.º, as firmas constantes das bolsas referidas nos n.os 1 e 2 gozam de protecção em todo o território nacional.\n\n5 - O recurso à bolsa referida no n.º 2 pressupõe a adopção conjunta das firmas e marcas que se encontram reciprocamente associadas.\n\n6 - A dependência prevista no número anterior cessa com a conclusão do procedimento de constituição imediata da sociedade, momento a partir do qual a firma e a marca passam a vigorar autonomamente.\n\n7 - A reserva a favor do Estado das firmas constantes das bolsas referidas nos n.os 1 e 2 confere o direito à sua exclusividade em todo o território nacional.»"
+  },
+  "47149775": {
+   "fragment_id": "35563475",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "47149875": {
+   "fragment_id": "36952375",
+   "type": 11,
+   "heading": "Artigo 22.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Período experimental\n\n1 - O regime especial de constituição imediata de sociedades com simultânea aquisição do registo de marca funciona a título experimental no RNPC, nos respectivos postos de atendimento junto dos Centros de Formalidades de Empresas de Lisboa, nas Conservatórias do Registo Comercial de Vila Nova de Gaia e de Coimbra e no respectivo posto de atendimento junto do Centro de Formalidades de Empresas de Coimbra, por um período de quatro meses, a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - Decorrido o período experimental previsto no número anterior, a extensão do regime a outros serviços depende de despacho do Ministro da Justiça."
+  },
+  "47149975": {
+   "fragment_id": "36952475",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 30 de Junho de 2006, com as excepções seguintes:\n\na) O disposto nos artigos 1.º e 17.º, quanto à emissão da regulamentação aí prevista, entra em vigor no dia seguinte ao da sua publicação;\n\nb) As alterações legislativas ao Decreto-Lei n.º 111/2005, de 8 de Julho, entram em vigor no dia 14 de Julho de 2006;\n\nc) A parte final da alínea c) do n.º 1 do artigo 6.º, que permite que o pedido de constituição on-line de sociedade apresentado pelos interessados seja feito através do envio de um pacto ou acto constitutivo por eles elaborado, entra em vigor no dia 31 de Outubro de 2006."
+  },
+  "66948550": {
+   "fragment_id": "36950275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado um regime especial de constituição online de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima, com ou sem a simultânea aquisição, pelas sociedades, de marca registada, através de sítio na Internet, regulado por portaria do membro do Governo responsável pela área da justiça.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66948551": {
+   "fragment_id": "36950775",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido on-line",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido on-line\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido online, praticando, entre outros que se mostrem necessários, os seguintes actos:\n\na) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, ou pela verificação da admissibilidade e obtenção de firma, nos termos do n.º 3 do artigo 45.º do regime do RNPC;\n\nb) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação da firma constante de certificado de admissibilidade de firma emitido pelo RNPC, previamente obtido, ficando os interessados obrigados à inutilização do mesmo;\n\nc) Opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado ou por envio do pacto ou do acto constitutivo por eles elaborado;\n\nd) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;\n\ne) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo da constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º;\n\nf) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.\n\n2 - Nas situações previstas na primeira parte da alínea a) do número anterior, os interessados podem completar a composição da firma com qualquer expressão alusiva ao objecto social que optem por inserir entre a expressão de fantasia escolhida e os aditamentos legalmente impostos.\n\n3 - A inutilização pelos interessados prevista na alínea b) do n.º 1 faz-se mediante a inscrição do seu nome, da sua assinatura, da data e, se se tratar de advogado ou de solicitador, da aposição do respectivo carimbo profissional no espaço reservado para o efeito para os oficiais públicos.\n\n4 - Se for esse o caso, os interessados devem ainda enviar através do sítio na Internet, entre outros que se mostrem necessários, os seguintes documentos:\n\na) Documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto;\n\nb) Autorizações especiais que sejam necessárias para a constituição da sociedade;\n\nc) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.\n\n5 - Uma vez iniciado o procedimento, o pedido on-line deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.\n\n6 - Todos os documentos entregues através de sítio na Internet, desde que tenham sido correctamente digitalizados e sejam integralmente apreensíveis, têm o mesmo valor probatório dos originais.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66948558": {
+   "fragment_id": "36951375",
+   "type": 11,
+   "heading": "Artigo 12.º — Diligências subsequentes",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 12.º — Diligências subsequentes\n\n1 - O tratamento dos dados indicados e dos documentos entregues pelos interessados bem como a apreciação do pedido de constituição da sociedade são efectuados pelos serviços competentes.\n\n2 - O serviço competente deve proceder aos seguintes actos:\n\na) Registo do pacto ou acto constitutivo da sociedade, que deve ser imediatamente comunicado aos interessados por via electrónica;\n\nb) Inscrição do facto no ficheiro central de pessoas colectivas e codificação da actividade económica (CAE) ou, se for esse o caso, comunicação do registo para aqueles efeitos.\n\n3 - O serviço competente deve ainda proceder aos seguintes actos:\n\na) Emissão e envio aos interessados do cartão de identificação de pessoa colectiva e do recibo comprovativo do pagamento dos encargos devidos, bem como comunicação aos mesmos do número de identificação da sociedade na segurança social;\n\nb) Caso tenha havido aquisição de marca registada e independentemente da qualificação do correspondente acto de registo comercial, emissão e envio do documento comprovativo dessa aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.);\n\nc) Disponibilização de prova gratuita do registo da constituição da sociedade nos termos e pelos meios previstos no artigo 75.º do Código do Registo Comercial;\n\nd) Promoção das publicações legais, as quais se devem efectuar automaticamente e por via electrónica;\n\ne) Disponibilização aos serviços competentes, por meios informáticos, dos dados necessários para o controlo das obrigações tributárias à administração tributária, dos dados necessários para efeitos de comunicação do início de actividade da sociedade à Inspecção-Geral do Trabalho, bem como dos dados necessários à inscrição oficiosa da sociedade nos serviços de segurança social e, quando for o caso, no cadastro comercial;\n\nf) Caso tenha havido aquisição de marca registada, comunicação ao INPI, I. P., por meios informáticos, da transmissão da marca, para que se proceda à sua inscrição oficiosa no processo de registo, e ao RNPC para efeitos de dispensa da prova prevista no n.º 6 do artigo 33.º do regime do RNPC;\n\ng) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;\n\nh) Envio da pasta da sociedade à conservatória do registo comercial territorialmente competente, nos termos do Código do Registo Comercial.\n\n4 - Nos casos referidos na alínea b) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.\n\n5 - Para os efeitos previstos na alínea e) do n.º 3, os serviços da administração tributária devem notificar, por via electrónica, os serviços de segurança social dos elementos relativos ao início de actividade.\n\n6 - O envio referido na alínea h) do n.º 3 só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.\n\n7 - A realização dos actos previstos nos n.os 2 e 3 é da competência do conservador e dos oficiais de registo.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66948559": {
+   "fragment_id": "36951475",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Encargos\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente decreto-lei são devidos encargos relativos:\n\na) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado;\n\nb) Ao imposto do selo, nos termos da tabela respectiva.\n\nc) Às taxas previstas em portaria do membro do Governo responsável pela área da justiça, caso tenha havido aquisição de marca registada.\n\n2 - Não são devidos emolumentos pessoais no âmbito do regime especial de constituição on-line de sociedades.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66948560": {
+   "fragment_id": "36951575",
+   "type": 11,
+   "heading": "Artigo 14.º — Bolsas de firmas e de marcas",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 14.º — Bolsas de firmas e de marcas\n\n1 - No procedimento de constituição de sociedades previsto no presente decreto-lei são utilizadas a bolsa de firmas ou a bolsa de firmas e de marcas associadas previstas no artigo 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66948572": {
+   "fragment_id": "66978750",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Declaração de intenção de uso",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 14.º-A — Declaração de intenção de uso\n\nOs titulares das marcas transmitidas através do presente regime estão dispensados da apresentação da primeira declaração de intenção de uso, prevista no n.º 1 do artigo 256.º do Código da Propriedade Industrial\n\n> Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66948573": {
+   "fragment_id": "36951675",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação subsidiária\n\nO Código do Registo Comercial é aplicável subsidiariamente ao regime especial de constituição on-line de sociedades."
+  },
+  "66948574": {
+   "fragment_id": "36951775",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protocolos\n\n1 - Podem ser celebrados protocolos entre a Direcção-Geral dos Registos e do Notariado (DGRN) e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades, com vista à definição dos procedimentos administrativos de comunicação de dados.\n\n2 - A DGRN pode ainda celebrar protocolos com a Direcção-Geral dos Impostos e com a Câmara dos Técnicos Oficiais de Contas, com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de actividade e posterior comprovação destes factos."
+  },
+  "66980875": {
+   "fragment_id": "36951875",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\nDeve ser regulado por portaria do Ministro da Justiça:\n\na) A designação, o funcionamento e as funções do sítio na Internet referido no artigo 1.º;\n\nb) Os requisitos e as condições de utilização da autenticação electrónica e da assinatura electrónica na indicação dos dados e na entrega de documentos no referido sítio."
+  },
+  "47150275": {
+   "fragment_id": "35563575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Fernando Medina Maciel Almeida Correia - José Mariano Rebelo Pires Gago.\n\nPromulgado em 22 de Junho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 26 de Junho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "66980876": {
+   "fragment_id": "36950775",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido on-line",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido on-line\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido online praticando, entre outros que se mostrem necessários, os seguintes actos:\n\na) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, pela aprovação electrónica e automática da firma nos termos do artigo 50.º-A do regime do RNPC ou pela verificação da admissibilidade e aprovação de firma;\n\nb) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação de firma constante de certificado de admissibilidade de firma previamente obtido;\n\nc) Opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado ou por envio do pacto ou do acto constitutivo por eles elaborado;\n\nd) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;\n\ne) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo da constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º;\n\nf) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.\n\n2 - Nas situações previstas na primeira parte da alínea a) do número anterior, os interessados podem completar a composição da firma com qualquer expressão alusiva ao objecto social que optem por inserir entre a expressão de fantasia escolhida e os aditamentos legalmente impostos.\n\n3 - Se se tiver requerido a verificação e aprovação de firma nos termos da parte final da alínea a) do n.º 1, o pedido deve ser apreciado no prazo máximo de um dia útil, sendo aprovada a primeira das firmas requeridas que for viável.\n\n4 - Se for esse o caso, os interessados devem ainda enviar através do sítio na Internet, entre outros que se mostrem necessários, os seguintes documentos:\n\na) Documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto;\n\nb) Autorizações especiais que sejam necessárias para a constituição da sociedade;\n\nc) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.\n\n5 - Uma vez iniciado o procedimento ou aprovada a firma nos termos da parte final da alínea a) do n.º 1, o pedido online deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.\n\n6 - Todos os documentos entregues através de sítio na Internet, desde que tenham sido correctamente digitalizados e sejam integralmente apreensíveis, têm o mesmo valor probatório dos originais.\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66980877": {
+   "fragment_id": "36951375",
+   "type": 11,
+   "heading": "Artigo 12.º — Diligências subsequentes",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 12.º — Diligências subsequentes\n\n1 - O tratamento dos dados indicados e dos documentos entregues pelos interessados bem como a apreciação do pedido de constituição da sociedade são efectuados pelos serviços competentes.\n\n2 - O serviço competente deve proceder aos seguintes actos:\n\na) Registo do pacto ou acto constitutivo da sociedade, que deve ser imediatamente comunicado aos interessados por via electrónica;\n\nb) Comunicação automática e electrónica da constituição da sociedade ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE).\n\n3 - O serviço competente deve ainda proceder aos seguintes actos:\n\na) Comunicação do código de acesso do cartão electrónico da empresa e do número de identificação da sociedade na segurança social e envio posterior do cartão da empresa a título gratuito;\n\nb) Caso tenha havido aquisição de marca registada e independentemente da qualificação do correspondente acto de registo comercial, emissão e envio do documento comprovativo dessa aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.);\n\nc) Disponibilização gratuita de código de acesso à certidão permanente da sociedade pelo período de um ano;\n\nd) Promoção das publicações legais, as quais se devem efectuar automaticamente e por via electrónica;\n\ne) Disponibilização aos serviços competentes, por meios informáticos, dos dados necessários para o controlo das obrigações tributárias à administração tributária, dos dados necessários para efeitos de comunicação do início de actividade da sociedade à Inspecção-Geral do Trabalho, bem como dos dados necessários à inscrição oficiosa da sociedade nos serviços de segurança social e, quando for o caso, no cadastro comercial;\n\nf) Caso tenha havido aquisição de marca registada, comunicação ao INPI, I. P., por meios informáticos, da transmissão da marca, para que se proceda à sua inscrição oficiosa no processo de registo, e ao RNPC para efeitos de dispensa da prova prevista no n.º 6 do artigo 33.º do regime do RNPC;\n\ng) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;\n\nh) Envio da pasta da sociedade à conservatória do registo comercial da área da respectiva sede.\n\n4 - Nos casos referidos na alínea b) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.\n\n5 - Para os efeitos previstos na alínea e) do n.º 3, os serviços da administração tributária devem notificar, por via electrónica, os serviços de segurança social dos elementos relativos ao início de actividade.\n\n6 - O envio referido na alínea h) do n.º 3 só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.\n\n7 - A realização dos actos previstos nos n.os 2 e 3 é da competência do conservador e dos oficiais de registo.\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "884861897": {
+   "fragment_id": "66978750",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Declaração de intenção de uso",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 14.º-A — Declaração de intenção de uso\n\nOs titulares das marcas transmitidas através do presente regime estão dispensados da apresentação da primeira declaração de intenção de uso, prevista no n.º 1 do artigo 256.º do Código da Propriedade Industrial\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66980919": {
+   "fragment_id": "36950775",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido on-line",
+   "in_force_from": "2011-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06",
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido on-line\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido online praticando, entre outros que se mostrem necessários, os seguintes actos:\n\na) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, pela aprovação electrónica e automática da firma nos termos do artigo 50.º-A do regime do RNPC ou pela verificação da admissibilidade e aprovação de firma;\n\nb) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação de firma constante de certificado de admissibilidade de firma previamente obtido;\n\nc) Opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado ou por envio do pacto ou do acto constitutivo por eles elaborado;\n\nd) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;\n\ne) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo de constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º ou, nos casos e termos em que a lei o permite, que as respectivas entradas em dinheiro são entregues nos cofres da sociedade, até ao final do primeiro exercício económico;\n\nf) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.\n\n2 - Nas situações previstas na primeira parte da alínea a) do número anterior, os interessados podem completar a composição da firma com qualquer expressão alusiva ao objecto social que optem por inserir entre a expressão de fantasia escolhida e os aditamentos legalmente impostos.\n\n3 - Se se tiver requerido a verificação e aprovação de firma nos termos da parte final da alínea a) do n.º 1, o pedido deve ser apreciado no prazo máximo de um dia útil, sendo aprovada a primeira das firmas requeridas que for viável.\n\n4 - Se for esse o caso, os interessados devem ainda enviar através do sítio na Internet, entre outros que se mostrem necessários, os seguintes documentos:\n\na) Documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto;\n\nb) Autorizações especiais que sejam necessárias para a constituição da sociedade;\n\nc) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.\n\n5 - Uma vez iniciado o procedimento ou aprovada a firma nos termos da parte final da alínea a) do n.º 1, o pedido online deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.\n\n6 - Todos os documentos entregues através de sítio na Internet, desde que tenham sido correctamente digitalizados e sejam integralmente apreensíveis, têm o mesmo valor probatório dos originais.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "66985904": {
+   "fragment_id": "36951375",
+   "type": 11,
+   "heading": "Artigo 12.º — Diligências subsequentes",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01",
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 12.º — Diligências subsequentes\n\n1 - O tratamento dos dados indicados e dos documentos entregues pelos interessados bem como a apreciação do pedido de constituição da sociedade são efectuados pelos serviços competentes.\n\n2 - O serviço competente deve proceder aos seguintes actos:\n\na) Registo do pacto ou acto constitutivo da sociedade, que deve ser imediatamente comunicado aos interessados por via electrónica;\n\nb) Comunicação automática e electrónica da constituição da sociedade ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE).\n\n3 - O serviço competente deve ainda proceder aos seguintes actos:\n\na) Comunicação do código de acesso do cartão electrónico da empresa e do número de identificação da sociedade na segurança social e envio posterior do cartão da empresa a título gratuito;\n\nb) Caso tenha havido aquisição de marca registada e independentemente da qualificação do correspondente acto de registo comercial, emissão e envio do documento comprovativo dessa aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.);\n\nc) Disponibilização gratuita de código de acesso à certidão permanente da sociedade, pelo período de três meses;\n\nd) Promoção das publicações legais, as quais se devem efectuar automaticamente e por via electrónica;\n\ne) Disponibilização aos serviços competentes, por meios informáticos, dos dados necessários para o controlo das obrigações tributárias à administração tributária, dos dados necessários para efeitos de comunicação do início de actividade da sociedade à Inspecção-Geral do Trabalho, bem como dos dados necessários à inscrição oficiosa da sociedade nos serviços de segurança social e, quando for o caso, no cadastro comercial;\n\nf) Caso tenha havido aquisição de marca registada, comunicação ao INPI, I. P., por meios informáticos, da transmissão da marca, para que se proceda à sua inscrição oficiosa no processo de registo, e ao RNPC para efeitos de dispensa da prova prevista no n.º 6 do artigo 33.º do regime do RNPC;\n\ng) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;\n\nh) (Revogada).\n\n4 - Nos casos referidos na alínea b) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.\n\n5 - Para os efeitos previstos na alínea e) do n.º 3, os serviços da administração tributária devem notificar, por via electrónica, os serviços de segurança social dos elementos relativos ao início de actividade.\n\n6 - (Revogado).\n\n7 - A realização dos actos previstos nos n.os 2 e 3 é da competência do conservador e dos oficiais de registo.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "175745953": {
+   "fragment_id": "36950475",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 3.º — Competência\n\n1 - O procedimento de constituição de sociedades ao abrigo do regime a que se refere o artigo 1.º é da competência do Registo Nacional de Pessoas Coletivas (RNPC) e das demais conservatórias do registo comercial que sejam determinadas por despacho do presidente do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745954": {
+   "fragment_id": "36950675",
+   "type": 11,
+   "heading": "Artigo 5.º — Autenticação e assinatura eletrónicas",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 5.º — Autenticação e assinatura eletrónicas\n\n1 - A indicação dos dados e a entrega de documentos no sítio na Internet efetuam-se mediante prévia autenticação eletrónica no sítio na Internet a que se refere o artigo 1.º e, quando não seja dispensada, mediante aposição de assinatura eletrónica, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - (Revogado.)\n\n3 - Caso intervenha mais de um interessado na constituição da sociedade, é possível o acesso conjunto, simultâneo ou sucessivo, dos diversos interessados ao respectivo processo de constituição on-line.\n\n4 - Nos casos em que os interessados sejam cidadãos de outros Estados-Membros da União Europeia, é admissível a utilização de meios de identificação eletrónica emitidos noutros Estados-Membros, desde que reconhecidos para efeitos de autenticação transfronteiriça, nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, e da portaria a que se refere o n.º 1.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745955": {
+   "fragment_id": "36950775",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido on-line",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06",
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido on-line\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido online praticando, entre outros que se mostrem necessários, os seguintes actos:\n\na) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, pela aprovação electrónica e automática da firma nos termos do artigo 50.º-A do regime do RNPC ou pela verificação da admissibilidade e aprovação de firma;\n\nb) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação de firma constante de certificado de admissibilidade de firma previamente obtido;\n\nc) Opção por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., ou por envio do pacto ou do ato constitutivo por si elaborado;\n\nd) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;\n\ne) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo de constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º ou, nos casos e termos em que a lei o permite, que as respectivas entradas em dinheiro são entregues nos cofres da sociedade, até ao final do primeiro exercício económico;\n\nf) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.\n\n2 - Nas situações previstas na primeira parte da alínea a) do número anterior, os interessados podem completar a composição da firma com qualquer expressão alusiva ao objecto social que optem por inserir entre a expressão de fantasia escolhida e os aditamentos legalmente impostos.\n\n3 - Se se tiver requerido a verificação e aprovação de firma nos termos da parte final da alínea a) do n.º 1, o pedido deve ser apreciado no prazo máximo de um dia útil, sendo aprovada a primeira das firmas requeridas que for viável.\n\n4 - Se for esse o caso, os interessados devem ainda enviar através do sítio na Internet, entre outros que se mostrem necessários, os seguintes documentos:\n\na) Documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto;\n\nb) Autorizações especiais que sejam necessárias para a constituição da sociedade;\n\nc) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.\n\nd) Declaração de aceitação dos gerentes ou administradores das sociedades por quotas ou anónimas, respetivamente, e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo, quando não constem do pacto ou do ato constitutivo a que se refere a alínea c) do n.º 1.\n\n5 - Uma vez iniciado o procedimento ou aprovada a firma nos termos da parte final da alínea a) do n.º 1, o pedido online deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.\n\n6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de constituição online de sociedades os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel.\n\n7 - Os interessados podem formular, através do sítio na Internet, pedidos de registo relativos a factos posteriores à constituição da sociedade, devendo enviar os documentos que comprovem os factos a registar.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "175745956": {
+   "fragment_id": "36950875",
+   "type": 11,
+   "heading": "Artigo 7.º — Intervenção de advogados, solicitadores e notários",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 7.º — Intervenção de advogados, solicitadores e notários\n\n1 - Os advogados, solicitadores e notários que se autentiquem através de meios de autenticação eletrónica previstos na portaria a que se refere o n.º 1 do artigo 5.º enviam, através do sítio na Internet, o pacto ou o ato constitutivo da sociedade assinado eletronicamente pelos seus subscritores ou com as assinaturas dos seus subscritores reconhecidas presencialmente.\n\n2 - Para o efeito previsto no número anterior, os advogados, os solicitadores e os notários reconhecem presencialmente as assinaturas dos subscritores do pacto ou do ato constitutivo, certificando a sua identidade e, se for esse o caso, a sua capacidade e os seus poderes de representação, e ainda que os mesmos manifestaram a sua vontade em constituir a sociedade.\n\n3 - A apresentação de reconhecimento nos termos dos números anteriores por advogado ou solicitador dispensa o registo em sistema informático previsto no n.º 3 do artigo 38.º do Decreto-Lei n.º 76-A/2006, de 29 de março, na sua redação atual.\n\n4 - (Revogado.)\n\n5 - Caso intervenha mais de um advogado ou solicitador na constituição da sociedade, é possível o acesso conjunto, simultâneo ou sucessivo, dos diversos interessados, estejam ou não representados por advogado ou solicitador, nos termos do n.º 1 do artigo 5.º\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745960": {
+   "fragment_id": "36951075",
+   "type": 11,
+   "heading": "Artigo 9.º — Intervenção dos notários",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 9.º — Intervenção dos notários\n\n1 - Os interessados podem solicitar aos notários, que disponham dos meios de certificação de acordo com a portaria referida no n.º 1 do artigo 5.º, que a constituição de sociedade seja realizada através do procedimento previsto no presente decreto-lei.\n\n2 - Para esse efeito, os notários reconhecem presencialmente as assinaturas dos subscritores do pacto ou do acto constitutivo certificando a sua identidade e, se for esse o caso, a sua capacidade e os seus poderes de representação e, ainda, que os mesmos manifestaram a sua vontade em constituir a sociedade.\n\n3 - O disposto no n.º 4 do artigo 7.º é aplicável aos notários, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745957": {
+   "fragment_id": "36951175",
+   "type": 11,
+   "heading": "Artigo 10.º — Validação do pedido",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 10.º — Validação do pedido\n\n1 - O pedido de constituição online da sociedade só é considerado validamente apresentado após a emissão pelo sistema de informação de um comprovativo eletrónico, que indique a data e a hora da submissão do pedido, por referência à hora do meridiano de Greenwich, indicada pelo acrónimo UTC (Coordinated Universal Time).\n\n2 - A não conclusão do procedimento de constituição de sociedade por facto imputável ao interessado determina a caducidade do direito ao uso da firma afecta à sociedade a constituir nos termos da primeira parte da alínea a) do n.º 1 do artigo 6.º\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745958": {
+   "fragment_id": "36951275",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo de apreciação do pedido",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 11.º — Prazo de apreciação do pedido\n\n1 - Emitido o comprovativo electrónico referido no n.º 1 do artigo anterior, o serviço competente aprecia o pedido de constituição de sociedade.\n\n2 - O serviço competente convida os interessados a enviar, através do sítio na Internet a que se refere o artigo 1.º e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles constem.\n\n3 - Se os interessados tiverem optado por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., e não se mostre necessária a entrega dos documentos referidos nas alíneas b) e c) do n.º 4 do artigo 6.º, o serviço competente procede a todas as diligências subsequentes previstas no artigo seguinte no prazo de cinco dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues todos os documentos necessários.\n\n4 - Nas restantes situações, o serviço competente procede a todas as diligências subsequentes previstas no artigo seguinte no prazo de 10 dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues todos os documentos necessários.\n\n5 - Caso não seja possível efetuar o registo no prazo a que se refere o número anterior, o serviço competente notifica os interessados por via eletrónica dos motivos do atraso.\n\n6 - Aos pedidos de registo relativos à sociedade que sejam apresentados em momento posterior à constituição da sociedade aplica-se o disposto nos n.os 2, 4 e 5, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745948": {
+   "fragment_id": "175749690",
+   "type": 11,
+   "heading": "Artigo 14.º-B — Apresentação subsequente de documentos e informações",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 14.º-B — Apresentação subsequente de documentos e informações\n\nO sítio na Internet previsto no artigo 1.º permite a entrega de documentos e a prestação de informações subsequentemente à constituição da sociedade.\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745949": {
+   "fragment_id": "36951675",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação subsidiária\n\nO Código do Registo Comercial é aplicável subsidiariamente ao regime especial de constituição on-line de sociedades."
+  },
+  "175745959": {
+   "fragment_id": "36951775",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolos",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 16.º — Protocolos\n\n1 - Podem ser celebrados protocolos entre o IRN, I. P., e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades, com vista à definição dos procedimentos administrativos de comunicação de dados.\n\n2 - O IRN, I. P., pode ainda celebrar protocolos com a Autoridade Tributária e Aduaneira e com a Ordem dos Contabilistas Certificados, com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de atividade e posterior comprovação destes factos.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745951": {
+   "fragment_id": "36951875",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\nDeve ser regulado por portaria do Ministro da Justiça:\n\na) A designação, o funcionamento e as funções do sítio na Internet referido no artigo 1.º;\n\nb) Os requisitos e as condições de utilização da autenticação electrónica e da assinatura electrónica na indicação dos dados e na entrega de documentos no referido sítio."
+  },
+  "175745952": {
+   "fragment_id": "175749691",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Disponibilização de informação",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 17.º-A — Disponibilização de informação\n\n1 - O sítio na Internet referido no artigo 1.º disponibiliza informação sobre o procedimento de constituição de sociedades ao abrigo do regime instituído pelo presente decreto-lei em linguagem clara, em língua portuguesa e em língua inglesa.\n\n2 - A informação disponibilizada abrange, pelo menos, o seguinte:\n\na) Uma descrição do procedimento de constituição de sociedades, incluindo o procedimento de constituição online;\n\nb) Os modelos, em língua portuguesa e em língua inglesa, e os requisitos relativos à sua utilização;\n\nc) Os requisitos relativos a outros documentos relacionados com a constituição da sociedade, à identificação de pessoas e à utilização de línguas estrangeiras;\n\nd) As taxas aplicáveis e o respetivo modo de pagamento;\n\ne) Uma síntese explicativa das normas aplicáveis relativas à designação de um membro de um órgão de administração, de gestão ou de fiscalização de uma sociedade, incluindo das normas relativas à inibição de administradores ou gerentes;\n\nf) Uma síntese dos poderes e das responsabilidades do órgão de administração, do órgão de gestão e do órgão de fiscalização da sociedade, incluindo o poder de representação da sociedade nas relações com terceiros, e síntese dos poderes e das responsabilidades do representante da sucursal.\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "859194186": {
+   "fragment_id": "36950675",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 5.º — Procedimento\n\n1 - Efetuam-se mediante prévia autenticação eletrónica segura no sítio na Internet a que se refere o artigo 1.º, nos termos a definir por portaria do membro do Governo responsável pela área da justiça, os seguintes atos:\n\na) A indicação dos dados e a autorização para a sua partilha para efeitos de preenchimento do pacto social ou do ato constitutivo da sociedade;\n\nb) A entrega de documentos;\n\nc) A aceitação da designação para o cargo de gerente ou administrador e a declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir da ocupação do cargo, quando não for efetuada no pacto social ou no ato constitutivo da sociedade.\n\n2 - (Revogado.)\n\n3 - Caso intervenha mais de um interessado na constituição da sociedade, cada interessado deve aceder ao processo de constituição online, para os efeitos previstos no n.º 1, designadamente para aposição da assinatura eletrónica no pacto social ou ato constitutivo da sociedade que subscreve, na sequência de notificação eletrónica desencadeada pelo requerente e automaticamente gerada pelo sistema de informação.\n\n4 - (Revogado.)\n\n5 - Para efeitos do disposto no n.º 3, o requerente fornece o nome, número de identificação civil e endereço eletrónico dos interessados.\n\n6 - Com exceção da subscrição do pacto social ou do ato constitutivo e das declarações referidas na alínea c) do n.º 1, que têm de ser efetuadas no sítio na Internet a que se refere o artigo 1.º, os documentos entregues no processo de constituição online de sociedades podem ser assinados através de assinatura eletrónica qualificada ou autógrafa.\n\n7 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de constituição online de sociedades, os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel, com exceção do pacto social ou do ato constitutivo.\n\n8 - Os interessados podem formular, através do sítio na Internet, pedidos de registo relativos a factos posteriores à constituição da sociedade, nos termos previstos no Código do Registo Comercial e respetiva regulamentação.\n\n9 - Os meios de autenticação eletrónica segura previstos no n.º 1 integram pelo menos:\n\na) A utilização de certificado digital qualificado, através de cartão de cidadão ou de Chave Móvel Digital;\n\nb) A utilização de certificado digital que comprove a qualidade profissional do utilizador, no caso de advogados, solicitadores e notários; e\n\nc) A utilização de meios de identificação eletrónica emitidos noutros Estados-Membros, desde que reconhecidos para efeitos de autenticação transfronteiriça, nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "859194191": {
+   "fragment_id": "36950775",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido on-line",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06",
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido on-line\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido online praticando, entre outros que se mostrem necessários, os seguintes actos:\n\na) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, pela aprovação electrónica e automática da firma nos termos do artigo 50.º-A do regime do RNPC ou pela verificação da admissibilidade e aprovação de firma;\n\nb) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação de firma constante de certificado de admissibilidade de firma previamente obtido;\n\nc) Opção por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., ou por envio do pacto ou do ato constitutivo por si elaborado;\n\nd) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;\n\ne) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo de constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º ou, nos casos e termos em que a lei o permite, que as respectivas entradas em dinheiro são entregues nos cofres da sociedade, até ao final do primeiro exercício económico;\n\nf) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.\n\n2 - Nas situações previstas na primeira parte da alínea a) do número anterior, os interessados podem completar a composição da firma com qualquer expressão alusiva ao objecto social que optem por inserir entre a expressão de fantasia escolhida e os aditamentos legalmente impostos.\n\n3 - Se se tiver requerido a verificação e aprovação de firma nos termos da parte final da alínea a) do n.º 1, o pedido deve ser apreciado no prazo máximo de um dia útil, sendo aprovada a primeira das firmas requeridas que for viável.\n\n4 - Se for esse o caso, os interessados devem ainda enviar através do sítio na Internet, entre outros que se mostrem necessários, os seguintes documentos:\n\na) Documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto;\n\nb) Autorizações especiais que sejam necessárias para a constituição da sociedade;\n\nc) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.\n\nd) Declaração de aceitação dos gerentes ou administradores das sociedades por quotas ou anónimas, respetivamente, e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo, quando não constem do pacto ou do ato constitutivo a que se refere a alínea c) do n.º 1.\n\n5 - Uma vez iniciado o procedimento ou aprovada a firma nos termos da parte final da alínea a) do n.º 1, o pedido online deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.\n\n6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de constituição online de sociedades os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel.\n\n7 - Os interessados podem formular, através do sítio na Internet, pedidos de registo relativos a factos posteriores à constituição da sociedade, devendo enviar os documentos que comprovem os factos a registar.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "859194187": {
+   "fragment_id": "36950875",
+   "type": 11,
+   "heading": "Artigo 7.º — Intervenção de advogados, solicitadores e notários",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 7.º — Intervenção de advogados, solicitadores e notários\n\n1 - Sem prejuízo do disposto nos n.os 5 e 6, os advogados, os solicitadores e os notários que se autentiquem através de meios de autenticação eletrónica segura, previstos na alínea b) do n.º 9 do artigo 5.º, podem:\n\na) Desencadear as notificações eletrónicas a que se refere o n.º 3 do artigo 5.º para os efeitos aí previstos; ou\n\nb) Enviar, através do sítio na Internet, o pacto social ou o ato constitutivo da sociedade, bem como as declarações referidas na alínea c) do n.º 1 do artigo 5.º, assinados pelos seus subscritores, eletronicamente ou de forma autógrafa.\n\n2 - Quando o pacto social ou o ato constitutivo da sociedade seja assinado de forma autógrafa, os advogados, os solicitadores ou os notários devem igualmente enviar o reconhecimento presencial das assinaturas dos subscritores do pacto social ou do ato constitutivo da sociedade, no qual se certifique a sua identidade e, se for o caso, a sua capacidade e os seus poderes de representação.\n\n3 - A apresentação de reconhecimento nos termos dos números anteriores por advogado ou solicitador dispensa o registo em sistema informático previsto no n.º 3 do artigo 38.º do Decreto-Lei n.º 76-A/2006, de 29 de março, na sua redação atual.\n\n4 - (Revogado.)\n\n5 - O advogado ou solicitador que se autentique nos termos do n.º 1 pode agir, no exercício de mandato, em representação dos interessados, na subscrição do pacto social ou do ato constitutivo da sociedade, mediante apresentação de procuração com poderes especiais para o ato, caso em que deve assinar, eletronicamente ou de forma autógrafa sem necessidade de reconhecimento, o pacto social ou o ato constitutivo da sociedade.\n\n6 - O notário que se autentique nos termos do n.º 1 pode subscrever o pacto social ou o ato constitutivo da sociedade, devendo assiná-lo eletronicamente ou de forma autógrafa, sem necessidade de reconhecimento, desde que declare que o ato tenha sido requerido pelos interessados e corresponde à vontade destes.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "859194192": {
+   "fragment_id": "36950975",
+   "type": 11,
+   "heading": "Artigo 8.º — Representação dos interessados na subscrição do pacto ou do acto constitutivo da sociedade",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+   ],
+   "markdown": "###### Artigo 8.º — Representação dos interessados na subscrição do pacto ou do acto constitutivo da sociedade\n\nNo caso da intervenção prevista no artigo anterior, os advogados e os solicitadores não podem agir como representantes dos interessados na subscrição do pacto ou do acto constitutivo da sociedade.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+  },
+  "859194193": {
+   "fragment_id": "36951175",
+   "type": 11,
+   "heading": "Artigo 10.º — Validação do pedido",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 10.º — Validação do pedido\n\n1 - O pedido de constituição online da sociedade só é considerado validamente apresentado após a emissão pelo sistema de informação de um comprovativo eletrónico, que indique a data e a hora da submissão do pedido, por referência à hora do meridiano de Greenwich, indicada pelo acrónimo UTC (Coordinated Universal Time).\n\n2 - A não conclusão do procedimento de constituição de sociedade por facto imputável ao interessado determina a caducidade do direito ao uso da firma afecta à sociedade a constituir nos termos da primeira parte da alínea a) do n.º 1 do artigo 6.º\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "859194188": {
+   "fragment_id": "36951275",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazos do procedimento",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 11.º — Prazos do procedimento\n\n1 - (Revogado.)\n\n2 - O serviço competente convida o requerente a enviar, através do sítio na Internet e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles devam constar.\n\n3 - Se os interessados tiverem optado por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., e não se mostre necessária a entrega de autorizações especiais para a constituição da sociedade, o serviço competente procede ao registo e às diligências subsequentes no prazo de cinco dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues os documentos previstos na portaria a que se refere o n.º 1 do artigo 5.º\n\n4 - Nas restantes situações, o serviço competente procede ao registo e às diligências subsequentes no prazo de 10 dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues todos os documentos necessários.\n\n5 - Caso não seja possível efetuar o registo nos prazos a que se referem os números anteriores, o serviço competente notifica o requerente por via eletrónica dos motivos do atraso.\n\n6 - (Revogado.)\n\n7 - A não conclusão do procedimento de constituição de sociedade por facto imputável ao requerente determina a caducidade do direito ao uso da firma previamente criada e reservada a favor do Estado afeta à sociedade a constituir.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "859194189": {
+   "fragment_id": "36951375",
+   "type": 11,
+   "heading": "Artigo 12.º — Diligências subsequentes",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01",
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 12.º — Diligências subsequentes\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Nos casos de aquisição de marca registada, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 4 do artigo 30.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 26.º do mesmo diploma.\n\n5 - Após a disponibilização aos serviços competentes dos dados necessários ao controlo das obrigações da sociedade por parte da administração tributária, os serviços da administração tributária devem notificar, por via eletrónica, os serviços de segurança social dos elementos relativos ao início de atividade.\n\n6 - (Revogado).\n\n7 - O registo do pacto social ou ato constitutivo da sociedade e a prática das diligências subsequentes são da competência do conservador e dos oficiais de registo.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "859194190": {
+   "fragment_id": "36951875",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+   ],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\nDeve ser regulado por portaria do Ministro da Justiça:\n\na) A designação, o funcionamento e as funções do sítio na Internet referido no artigo 1.º;\n\nb) O procedimento de constituição online de sociedade, designadamente os requisitos e as condições de utilização da autenticação eletrónica e da assinatura eletrónica, os documentos a entregar, a receção e validação do pedido, os atos, comunicações e notificações a efetuar, bem como os respetivos prazos de prática dos mesmos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31"
+  }
+ }
+}

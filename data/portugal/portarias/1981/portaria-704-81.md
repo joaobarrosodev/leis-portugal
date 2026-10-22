@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:576374:por
+title: Portaria n.º 704/81
+short_title: null
+summary: Autoriza a Direcção-Geral das Indústrias Transformadoras Ligeiras a realizar no ano em curso despesas até ao montante
+  de 3900 contos, referentes ao PIDDAC e relativas à execução de um estudo das indústrias de pasta e papel
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Indústria e Energia
+proposing_entity: null
+official_number: 704/81
+official_date: null
+publication_date: '1981-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/1981, Série I de 1981-08-17
+  number: '187'
+  series: I
+  supplement: null
+  pages: 2109 - 2109
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/08/18700/21092109.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '576374'
+  dre_path: /dr/detalhe/portaria/704-1981-576374
+  internal: pt:dre:576374:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/704-1981-576374
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/704-1981-576374
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-08-17T00:00:00Z'
+integrity:
+  source_sha256: cb1ec0c121a9b195c6ace7130306568173d156f7514b29cd0e0a091b85103fcd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-704-576374.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 704/81
+
+de 17 de Agosto
+
+Considerando que o projecto florestal em curso no Ministério da Agricultura e Pescas, ao abrigo da [Lei n.º 44/80](https://diariodarepublica.pt/dr/detalhe/lei/44-1980-471138), de 20 de Agosto, compreende numa das suas partes o estudo das indústrias de pasta e papel;
+
+Considerando que no Ministério da Indústria e Energia, através da Direcção-Geral das Indústrias Transformadoras Ligeiras, está igualmente em curso um estudo que servirá de base para a reorganização e desenvolvimento do sector de pasta, papel e transformados, que se desenrolará nos anos de 1981 e 1982;
+
+Considerando que há todo o interesse em que os estudos sejam coordenados por forma a servir conjuntamente os projectos do Ministério da Agricultura e Pescas e do Ministério da Indústria e Energia com o mínimo de custos;
+
+Considerando finalmente que há necessidade em garantir desde já o financiamento do projecto do Ministério da Indústria e Energia, nomeadamente a sua componente externa, sem o que se poderia pôr em risco o desenvolvimento do projecto florestal dentro dos prazos previstos;
+
+Tendo em vista as disposições constantes do artigo 10.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia, que seja autorizada a Direcção-Geral das Indústrias Transformadoras Ligeiras a realizar no ano em curso despesas até ao montante de 3900 contos, referentes ao PIDDAC e relativas à execução de um estudo das indústrias de pasta e papel.
+
+Ministérios das Finanças e do Plano e da Indústria e Energia, 23 de Julho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta.

@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:498565:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-914106017",
+ "dre_path": "/dr/detalhe/decreto-lei/109-2013-498565",
+ "source_lastmod": "2025-05-07",
+ "versions": [
+  {
+   "date": "2013-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914105916",
+    "914105917",
+    "914105918",
+    "914105919",
+    "914105920",
+    "914105921",
+    "914105922",
+    "914105923",
+    "914105924",
+    "914105925",
+    "914105926",
+    "914105927",
+    "914105928"
+   ]
+  },
+  {
+   "date": "2014-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58815300:por",
+     "title": "Decreto-Lei n.º 171/2014",
+     "published": "2014-11-10",
+     "dre_path": "/dr/detalhe/decreto-lei/171-2014-58815300"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "914105916",
+    "914105917",
+    "914105918",
+    "916935025",
+    "914105920",
+    "914105921",
+    "914105922",
+    "916935026",
+    "914105924",
+    "914105925",
+    "914105926",
+    "914105927",
+    "914105928",
+    "914105929"
+   ]
+  }
+ ],
+ "fragments": {
+  "914105916": {
+   "fragment_id": "914106018",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 109/2013, de 1 de agosto\n\nO Decreto-Lei n.º 48/2007, de 27 de fevereiro, extinguiu o Serviço Nacional Coudélico e instituiu a Fundação Alter Real (FAR), pessoa coletiva de direito privado e utilidade pública, que assumiu a missão, as atribuições e o património daquele Serviço.\n\nA FAR foi instituída com os fins principais de manter e desenvolver o património genético animal das raças Lusitana, Sorraia e Garrano, a Escola Portuguesa de Arte Equestre, bem como o Laboratório de Genética Molecular.\n\nNos termos dos estatutos aprovados em anexo ao referido decreto-lei instituidor, a FAR recebeu em delegação de serviço público, designadamente as Coudelarias Nacional e de Alter, o Serviço Nacional Coudélico, a Escola Portuguesa de Arte Equestre, o Laboratório de Genética Molecular e o Registo Nacional de Equinos, bem como a incumbência de manter e preservar o acervo documental, a Biblioteca da Coudelaria Nacional e o Arquivo e Biblioteca da Real Associação Central da Agricultura Portuguesa, ficando ainda responsável pela instalação de um Museu do Cavalo.\n\nPara o desempenho da sua missão, o Estado dotou a FAR do direito de usufruto sobre todo o património imobiliário constituído do antigo Instituto de Estruturas Agrárias e Desenvolvimento Rural, transferido através do Decreto-Lei n.º 97/97, de 26 de abril, para a titularidade do Serviço Nacional Coudélico.\n\nDeste modo, foi transferido para a FAR o direito de usufruto sobre os prédios denominados Tapada do Arneiro, no concelho de Alter do Chão, Herdade do Assumar, no concelho de Monforte, Mouchão do Salgueiral, no concelho de Azambuja, e sobre 80 ha da parte jusante do Mouchão do Esfola Vacas, no concelho de Santarém, e a Casa da Vila, no concelho de Alter do Chão, estabelecendo-se, nos respetivos estatutos, que, em caso de extinção da Fundação, o seu património reverterá para o Estado, que o deverá afetar, exclusivamente, à prossecução dos seus fins.\n\nCom o objetivo de incrementar e desenvolver o património cultural da Escola Portuguesa de Arte Equestre e a sua missão de contribuir, através da seleção, treino e exibição para a divulgação da raça Lusitana da linha genética de Alter, o Decreto-Lei n.º 205/2012, de 31 de agosto, transferiu, entretanto, para a Parques de Sintra - Monte da Lua, S.A., as atribuições de serviço público relativas a esta Escola.\n\nNa sequência do censo às fundações determinado pela Lei n.º 1/2012, de 3 de janeiro, verificou-se que o modelo adotado para a extinção do Serviço Nacional Coudélico e a transferência de competências para a Fundação Alter Real não produziram os resultados esperados, constatando-se uma dependência do financiamento público superior a 50%, pelo que a Resolução do Conselho de Ministros n.º 13-A/2013, de 8 de março, que aprova as decisões finais relativas ao processo de censo às fundações e estabelece os procedimentos e as diligências necessários à concretização das respetivas decisões de extinção, de redução ou cessação de apoios financeiros públicos e de cancelamento do estatuto de utilidade pública, determinou a extinção da FAR.\n\nAtendendo a que os fins prosseguidos e a natureza das atividades desenvolvidas pela FAR podem ser asseguradas pela Direção-Geral de Alimentação e Veterinária (DGAV), e que existem outras coudelarias que integram o sector público, em especial a Coudelaria da Companhia das Lezírias, S.A., assegura-se, no quadro de extinção da Fundação Alter Real, a transferência de atribuições para a DGAV e delegam-se na Companhia das Lezírias, S.A., as competências relativas à preservação do património genético animal das raças Lusitana, Sorraia e Garrano.\n\nA Companhia das Lezírias, S.A., é uma sociedade anónima de capitais exclusivamente públicos, compreendendo a Lezíria de Vila Franca de Xira, a Charneca do Infantado, o Catapereiro e os Pauis de Magos, de Belmonte e de Lavouras. Esta empresa, do sector empresarial do Estado, tem como objeto principal a exploração agrícola, pecuária e florestal do seu património, bem como a industrialização e comercialização dos respetivos produtos e o desenvolvimento de atividades relacionadas, como o agroturismo.\n\nOra, encontrando-se dispersos a preservação e o desenvolvimento do património genético animal da raça Lusitana das coudelarias detidas pelo Estado Português - Coudelaria de Alter, Coudelaria Nacional e Coudelaria da Companhia das Lezírias -é adequado que a coordenação dos aspetos relacionados com a preservação e o desenvolvimento do património genético, bem como do fomento e melhoramento das raças Lusitana, Sorraia e Garrano se encontre reunida apenas numa entidade pública, à qual passam a estar atribuídas as Coudelarias, facilitando, assim, a implementação e o desenvolvimento de uma política única equina.\n\nAtribui-se, pois, à Companhia das Lezírias, S.A., sem prejuízo da gestão empresarial decorrente da sua própria natureza, a preservação dos objetivos da raça, através de delegação de serviço público de competências relativas à preservação do património genético animal da raça lusitana, quer na linha genética da Coudelaria Nacional, quer na linha Alter Real, assim como das raças Sorraia e Garrano.\n\nAo mesmo tempo, centraliza-se na DGAV o controlo da gestão dos livros genealógicos das raças equinas portuguesas, permitindo, deste modo, alcançar uma uniformização das exigências, bem como uma economia dos meios humanos e financeiros necessários.\n\nA DGAV, como resulta do disposto no Decreto Regulamentar n.º 31/2012, de 13 de março, é responsável pela proteção e valorização dos recursos genéticos animais, designadamente através da coordenação da execução de ações que visem a defesa, a gestão, o melhoramento e a conservação do património genético nacional. Compete àquela Direção-Geral promover as ações de conservação dos recursos genéticos e o melhoramento animal, designadamente, aprovando as populações animais como raças puras e reconhecendo os responsáveis pela gestão dos livros genealógicos.\n\nNestes termos, atribuem-se à DGAV as competências relativas ao Laboratório de Genética Molecular, ao Registo Nacional de Equinos e à gestão dos livros genealógicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "914105917": {
+   "fragment_id": "914106019",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede à extinção da Fundação Alter Real (FAR), pessoa coletiva de direito privado e utilidade pública, instituída pelo Decreto-Lei n.º 48/2007, de 27 de fevereiro, alterado pelo Decreto-Lei n.º 205/2012, de 31 de agosto, devolvendo ao Estado a prossecução dos fins principais da Fundação.\n\n2 - O presente decreto-lei procede, ainda, à alteração do Decreto Regulamentar n.º 31/2012, de 13 de março, que aprova a orgânica da Direção-Geral de Alimentação e Veterinária (DGAV)."
+  },
+  "914105918": {
+   "fragment_id": "914106020",
+   "type": 11,
+   "heading": "Artigo 2.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Extinção\n\nÉ extinta a FAR, devolvendo-se ao Estado a prossecução dos fins principais da Fundação, diretamente através da DGAV e, mediante delegação de serviço público, à Companhia das Lezírias, S.A."
+  },
+  "914105919": {
+   "fragment_id": "914106021",
+   "type": 11,
+   "heading": "Artigo 3.º — Transferência dos fins e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transferência dos fins e atribuições\n\n1 - São transferidos para a DGAV os seguintes fins principais e atribuições delegados na FAR:\n\na) A manutenção do Registo Nacional de Equinos;\n\nb) O exercício da tutela sobre a gestão dos livros genealógicos cedidos às associações de criadores, designadamente a homologação dos secretários técnicos, a aprovação de regulamentos e o acompanhamento e verificação do seu cumprimento;\n\nc) O fomento e o melhoramento das raças equinas portuguesas;\n\nd) A criação e a manutenção de um banco universal de DNA da raça Lusitana;\n\ne) A manutenção e o desenvolvimento do Laboratório de Genética Molecular, a fim de garantir o controlo da identidade e ou a filiação dos equinos nacionais;\n\nf) A manutenção, a exploração e a preservação do acervo documental, designadamente a Biblioteca da Coudelaria Nacional e o Arquivo e Biblioteca da Real Associação Central da Agricultura Portuguesa e, ainda, o espólio de caráter arqueológico;\n\ng) A manutenção de uma rede informática, em conexão com todas as associações de criadores, nacionais e estrangeiras, capaz de recolher de forma centralizada toda a informação relevante para estudos das raças, assim como para a preparação dos livros genealógicos stud-book;\n\nh) A definição e o acompanhamento da realização de testes de performance;\n\ni) A colaboração com o Instituto Nacional de Investigação Agrária e Veterinária, I.P., designadamente através da disponibilização de informação técnica relacionada com as competências referidas nas alíneas anteriores.\n\n2 - São transferidos para a Companhia das Lezírias, S.A., por delegação do Estado, os seguintes fins principais e atribuições da FAR:\n\na) A preservação do património genético animal da raça Lusitana, nas linhas genéticas de Alter-Real e da Coudelaria Nacional, a par da preservação da linha genética da Coudelaria Companhia das Lezírias, S.A., assim como das raças Sorraia e Garrano, sem prejuízo das atribuições de preservação do património genético próprias da DGAV;\n\nb) A manutenção, a exploração e a preservação do património mobiliário e imobiliário existente, designadamente das Coudelarias Nacional e de Alter;\n\nc) O fomento e o melhoramento dos equinos da raça Lusitana, nas linhas genéticas de Alter-Real e da Coudelaria Nacional, bem como das raças Sorraia e Garrano e a divulgação da produção cavalar destas raças e linhas genéticas;\n\nd) A formação profissional na área da equitação como ferramenta essencial à divulgação da produção e utilização do cavalo e, no que se refere aos equinos da raça lusitana de linha de Alter, em articulação com a Escola Portuguesa de Arte Equestre, nos termos a definir no acordo referido no n.º 3;\n\ne) O desenvolvimento de um polo estruturante da economia regional;\n\nf) A representação do país pela colocação da Coudelaria de Alter ao serviço do protocolo do Estado.\n\n3 - A Coudelaria de Alter é explorada em articulação com a Escola Portuguesa de Arte Equestre, para divulgação do seu ferro e do Puro Sangue Lusitano, nos termos a definir em acordo a celebrar entre a Companhia das Lezírias, S.A., e a Parques de Sintra - Monte da Lua, S.A."
+  },
+  "914105920": {
+   "fragment_id": "914106022",
+   "type": 11,
+   "heading": "Artigo 4.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Património\n\n1 - O património mobiliário afeto à prossecução das atribuições referidas nos n.os 1 e 2 do artigo anterior, é afeto, por efeito do presente decreto-lei, respetivamente, à DGAV e à Companhia das Lezírias, S.A.\n\n2 - É constituído a favor da Companhia das Lezírias, S.A., até 31 de dezembro de 2037, o direito de usufruto sobre os prédios denominados Tapada do Arneiro, no Município de Alter do Chão, Herdade do Assumar, no Município de Monforte, e a Casa da Vila, no Município de Alter do Chão.\n\n3 - São transferidos para a Companhia das Lezírias, S.A., até 31 de dezembro de 2088, os poderes de gestão e de exploração sobre o imóvel do domínio público do Estado denominado «Mouchão do Salgueiral», no Município da Azambuja, e sobre 80 ha da parte jusante do imóvel do domínio público do Estado denominado «Mouchão do Esfola Vacas», no Município de Santarém.\n\n4 - Findo o usufruto e a concessão referidos nos n.os 2 e 3 pelo decurso do prazo, revertem gratuitamente para o Estado, livres de quaisquer ónus ou encargos, os imóveis identificados nos n.os 2 e 3, bem como todos os bens que integrem a concessão, não podendo a Companhia das Lezírias, S.A., reclamar qualquer indemnização ou invocar o direito de retenção."
+  },
+  "914105921": {
+   "fragment_id": "914106023",
+   "type": 11,
+   "heading": "Artigo 5.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transição de pessoal\n\n1 - Aos trabalhadores da FAR com relação jurídica de emprego público que desempenhem funções nas áreas dos fins e atribuições transferidos nos termos do n.º 1 do artigo 3.º para a DGAV é aplicável a Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, obedecendo ao procedimento previsto nos termos do artigo 13.º da mesma lei e aplicando como método de seleção a avaliação profissional.\n\n2 - Para efeitos do número anterior, constitui critério geral e abstrato de seleção do pessoal necessário à prossecução das atribuições transferidas para a DGAV o desempenho de funções nas áreas dos fins e atribuições transferidos para esta direção-geral nos termos do n.º 1 do artigo 3.º\n\n3 - Aos trabalhadores da FAR com relação jurídica de emprego público que desempenhem funções nas áreas dos fins e atribuições transferidos nos termos do n.º 2 do artigo 3.º para a Companhia das Lezírias, S.A., é aplicável a Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, obedecendo ao procedimento previsto nos termos do respetivo artigo 12.º e sendo afeto à Secretaria-Geral do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território o pessoal colocado em mobilidade especial, podendo este optar por celebrar contrato individual de trabalho com a Companhia das Lezírias, S.A., mediante prévia denúncia do respetivo contrato de trabalho em funções públicas.\n\n4 - Aos trabalhadores da FAR com relação jurídica de emprego público a que se refere o número anterior é aplicável o disposto nos artigos 35.º da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, e 58.º da Lei n.º 12-A/2008, de 27 de fevereiro.\n\n5 - A Companhia das Lezírias, S.A., sucede na posição contratual da FAR, entidade empregadora extinta, relativamente aos trabalhadores desta com contrato individual de trabalho regulado pelo Código do Trabalho, que desempenhem funções nas áreas dos fins e atribuições transferidos nos termos do n.º 2 do artigo 3.º.\n\n6 - A Secretaria-Geral do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território sucede à FAR na posição contratual de entidade cedente nos contratos de cedência celebrados ao abrigo do n.º 12 do artigo 2.º do Decreto-Lei n.º 205/2012, de 31 de agosto."
+  },
+  "914105922": {
+   "fragment_id": "914106024",
+   "type": 11,
+   "heading": "Artigo 6.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Referências legais\n\nTodas as referências legais feitas à FAR, em matérias conexas com os fins e atribuições transferidos ou delegados nos termos dos n.os 1 e 2 do artigo 3.º, consideram-se feitas, respetivamente, à DGAV e à Companhia das Lezírias, S.A., por correspondência aos fins e atribuições transferidos ou delegados."
+  },
+  "914105923": {
+   "fragment_id": "914106025",
+   "type": 11,
+   "heading": "Artigo 7.º — Liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Liquidação\n\n1 - O conselho da administração da FAR promove, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei, as diligências necessárias à liquidação da Fundação, adotando os mecanismos legais adequados, nos termos da legislação aplicável.\n\n2 - O Estado, através da Direção-Geral do Tesouro e Finanças, assume o remanescente das obrigações da FAR que vierem a ser apuradas no âmbito do processo de liquidação, no que exceder a avaliação da transferência de património operada para a Companhia das Lezírias, S.A., ao abrigo do n.º 3 do artigo 4.º."
+  },
+  "914105924": {
+   "fragment_id": "914106026",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração dos Estatutos da Companhia das Lezírias, S.A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração dos Estatutos da Companhia das Lezírias, S.A.\n\n1 - Os Estatutos da Companhia das Lezírias, S.A., devem ser adaptados em conformidade com o disposto no presente decreto-lei, no prazo máximo de 90 dias a contar da data da sua entrada em vigor.\n\n2 - O disposto no presente decreto-lei prevalece sobre os estatutos da Companhia das Lezírias, S.A., se os mesmos não forem adaptados no prazo referido no número anterior."
+  },
+  "914105925": {
+   "fragment_id": "914106027",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Decreto Regulamentar n.º 31/2012, de 13 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Decreto Regulamentar n.º 31/2012, de 13 de março\n\nO artigo 2.º do Decreto Regulamentar n.º 31/2012, de 13 de março, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) A manutenção do Registo Nacional de Equinos;\n\np) O exercício da tutela sobre a gestão dos livros genealógicos cedidos às associações de criadores, designadamente homologação dos secretários técnicos, aprovação de regulamentos e acompanhamento e verificação do seu cumprimento;\n\nq) Fomento e melhoramento das raças equinas portuguesas;\n\nr) A criação e manutenção de um banco universal de DNA da raça Lusitana;\n\ns) A manutenção e desenvolvimento do Laboratório de Genética Molecular, a fim de garantir o controlo da identidade e ou filiação dos equinos nacionais;\n\nt) A manutenção, exploração e preservação do acervo documental, designadamente a Biblioteca da Coudelaria Nacional e o Arquivo e Biblioteca da Real Associação Central da Agricultura Portuguesa e, ainda, o espólio de caráter arqueológico;\n\nu) A manutenção de uma rede informática, em conexão com todas as associações de criadores, nacionais e estrangeiras, capaz de recolher de forma centralizada toda a informação relevante para estudos de raças, assim como a sua preparação dos livros genealógicos stud-book;\n\nv) A definição e o acompanhamento da realização de testes de performance;\n\nx) A colaboração com o Instituto Nacional de Investigação Agrária e Veterinária, I.P., designadamente através da disponibilização de informação técnica relacionada com as competências referidas nas alíneas anteriores.»"
+  },
+  "914105926": {
+   "fragment_id": "914106028",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - A DGAV e a Secretaria-Geral do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território asseguram os encargos e remunerações dos trabalhadores com contrato de trabalho em funções públicas da FAR desde 1 de janeiro de 2013 até à definição da respetiva situação laboral nos termos do artigo 5.º\n\n2 - Excecionam-se do previsto no número anterior os encargos e remunerações de trabalhadores assegurados por contratos de cedência celebrados com outras entidades, bem como os encargos e remunerações que estejam ou venham a ser assegurados por contrato de cedência, a partir da data fixada nesses acordos.\n\n3 - Sem prejuízo do processo de liquidação, as obrigações contratuais, despesas e encargos com manutenção e exploração são asseguradas, até à conclusão da liquidação, pelas entidades que, nos termos do artigo 3.º, sucedem à FAR nos respetivos fins e atribuições.\n\n4 - O acordo referido no n.º 3 do artigo 3.º deve ser celebrado até 31 de agosto de 2013."
+  },
+  "914105927": {
+   "fragment_id": "914106029",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 48/2007, de 27 de fevereiro, alterado pelo Decreto-Lei n.º 205/2012, de 31 de agosto."
+  },
+  "914105928": {
+   "fragment_id": "914106030",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "916935025": {
+   "fragment_id": "914106021",
+   "type": 11,
+   "heading": "Artigo 3.º — Transferência dos fins e atribuições",
+   "in_force_from": "2014-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2014 - Diário da República n.º 217/2014, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2014-58815300), em vigor a partir de 2014-11-11"
+   ],
+   "markdown": "###### Artigo 3.º — Transferência dos fins e atribuições\n\n1 - São transferidos para a DGAV os seguintes fins principais e atribuições delegados na FAR:\n\na) A manutenção do Registo Nacional de Equinos;\n\nb) O exercício da tutela sobre a gestão dos livros genealógicos cedidos às associações de criadores, designadamente a homologação dos secretários técnicos, a aprovação de regulamentos e o acompanhamento e verificação do seu cumprimento;\n\nc) O fomento e o melhoramento das raças equinas portuguesas e a divulgação da produção cavalar das raças Sorraia e Garrano;\n\nd) A criação e a manutenção de um banco universal de DNA da raça Lusitana;\n\ne) A manutenção e o desenvolvimento do Laboratório de Genética Molecular, a fim de garantir o controlo da identidade e ou a filiação dos equinos nacionais;\n\nf) A manutenção, a exploração e a preservação do acervo documental, designadamente a Biblioteca da Coudelaria Nacional e o Arquivo e Biblioteca da Real Associação Central da Agricultura Portuguesa e, ainda, o espólio de caráter arqueológico;\n\ng) A manutenção de uma rede informática, em conexão com todas as associações de criadores, nacionais e estrangeiras, capaz de recolher de forma centralizada toda a informação relevante para estudos das raças, assim como para a preparação dos livros genealógicos stud-book;\n\nh) A definição e o acompanhamento da realização de testes de performance;\n\ni) A colaboração com o Instituto Nacional de Investigação Agrária e Veterinária, I.P., designadamente através da disponibilização de informação técnica relacionada com as competências referidas nas alíneas anteriores;\n\nj) A preservação do património genético animal das raças Sorraia e Garrano.\n\n2 - São transferidos para a Companhia das Lezírias, S.A., por delegação do Estado, os seguintes fins principais e atribuições da FAR:\n\na) A preservação do património genético animal da raça Lusitana, nas linhas genéticas de Alter-Real e da Coudelaria Nacional, a par da preservação da linha genética da Coudelaria Companhia das Lezírias, S.A., sem prejuízo das atribuições de preservação do património genético próprias da DGAV;\n\nb) A manutenção, a exploração e a preservação do património mobiliário e imobiliário existente, designadamente das Coudelarias Nacional e de Alter;\n\nc) O fomento e o melhoramento dos equinos da raça Lusitana, nas linhas genéticas de Alter-Real e da Coudelaria Nacional e a divulgação da produção cavalar destas raças e linhas genéticas;\n\nd) A formação profissional na área da equitação como ferramenta essencial à divulgação da produção e utilização do cavalo e, no que se refere aos equinos da raça lusitana de linha de Alter, em articulação com a Escola Portuguesa de Arte Equestre, nos termos a definir no acordo referido no n.º 3;\n\ne) O desenvolvimento de um polo estruturante da economia regional;\n\nf) A representação do país pela colocação da Coudelaria de Alter ao serviço do protocolo do Estado.\n\n3 - A Coudelaria de Alter é explorada em articulação com a Escola Portuguesa de Arte Equestre, para divulgação do seu ferro e do Puro Sangue Lusitano, nos termos a definir em acordo a celebrar entre a Companhia das Lezírias, S.A., e a Parques de Sintra - Monte da Lua, S.A.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2014 - Diário da República n.º 217/2014, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2014-58815300), em vigor a partir de 2014-11-11"
+  },
+  "916935026": {
+   "fragment_id": "914106025",
+   "type": 11,
+   "heading": "Artigo 7.º — Liquidação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2014 - Diário da República n.º 217/2014, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2014-58815300), produz efeitos a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 7.º — Liquidação\n\n1 - O processo de liquidação da FAR deve ser concluído até 20 de novembro de 2014, nos termos da legislação aplicável.\n\n2 - A liquidação da FAR é promovida por uma comissão liquidatária composta pelo presidente da FAR, que preside, e pelos vogais em exercício de funções.\n\n3 - A comissão liquidatária, constituída nos termos do n.º anterior, elabora o relatório pormenorizado da liquidação e a respetiva conta final de liquidação, no prazo de 15 dias, após a data referida no n.º 1.\n\n4 - O fiscal único da FAR mantém-se em funções até ao cumprimento das respetivas competências em relação ao relatório e à conta final de liquidação.\n\n5 - Com exceção do património da FAR a que se refere o artigo 4.º, todo o património restante da liquidação da FAR, é transmitido para o Estado, através da Direção-Geral do Tesouro e Finanças (DGTF).\n\n6 - O Estado, através da Direção-Geral do Tesouro e Finanças, assume o remanescente das obrigações da FAR que vierem a ser apuradas no âmbito do processo de liquidação, no que exceder a avaliação da transferência de património operada para a Companhia das Lezírias, S.A., ao abrigo do n.º 3 do artigo 4.º.\n\n7 - Compete ao inspetor-geral de Finanças emitir parecer sobre o relatório e a conta final de liquidação da FAR e propor a sua aprovação aos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n8 - O processo de liquidação da FAR considera-se encerrado com o despacho que aprovar a conta final de liquidação, que constitui título bastante para promover os atos necessários ao registo da liquidação da FAR junto da competente conservatória do registo comercial.\n\n9 - Com o despacho de aprovação da conta final de liquidação da FAR o Estado sucede automaticamente na posição desta nas ações em que seja parte perante qualquer tribunal e jurisdição, não se suspendendo a instância nem sendo necessário habilitação, constituindo o presente decreto-lei título bastante, para todos os efeitos legais, inclusive para os de registo, das transmissões de direitos e obrigações nele previstos.\n\n10 - Até à conclusão do processo de liquidação, a Companhia das Lezírias, S.A., procede à regularização das obrigações contratuais, despesas e encargos com a manutenção e exploração da FAR, cujo valor é assumido pela DGTF, após aprovação da conta final de liquidação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2014 - Diário da República n.º 217/2014, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2014-58815300), produz efeitos a partir de 2013-08-02"
+  },
+  "914105929": {
+   "fragment_id": "914106031",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 25 de julho de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 29 de julho de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

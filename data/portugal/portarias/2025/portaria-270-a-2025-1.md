@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:925934050:por
+title: Portaria n.º 270-A/2025/1
+short_title: null
+summary: Aprova a Estratégia Nacional para a Gestão da Macroalga Invasora Rugulopteryx okamurae.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Energia e Agricultura e Mar
+proposing_entity: null
+official_number: 270-A/2025/1
+official_date: null
+publication_date: '2025-07-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/2025, Suplemento, Série I de 2025-07-23
+  number: '140'
+  series: I
+  supplement: null
+  pages: 3 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/07/14001/0000300005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/270-a/2025/07/23/p/dre/pt/html
+  oj: null
+  dre: '925934050'
+  dre_path: /dr/detalhe/portaria/270-a-2025-925934050
+  internal: pt:dre:925934050:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/270-a-2025-925934050
+  metadata_url: https://data.dre.pt/eli/port/270-a/2025/07/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/270-a-2025-925934050
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-07-23T00:00:00Z'
+integrity:
+  source_sha256: 594cc2e7b5f66543e3304447e88880f75f4c175a3a446c84e04f55d9207b9805
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-270-A-925934050.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Algarve
+- Grupo de Trabalho
+- Cascais
+- Agência Portuguesa do Ambiente
+- Ministro do Ambiente e Energia
+- Ministro da Agricultura e Mar
+- Governo XXV
+- Estratégia Nacional para a Gestão da Macroalga Invasora Rugulopteryx okamurae
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/92/2019/07/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/92/2019/07/10/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 270-A/2025/1
+
+de 23 de julho
+
+A macroalga exótica Rugulopteryx okamurae, originária do Pacífico, tem-se disseminado rapidamente pelas zonas costeiras, nomeadamente na região do Algarve e, mais recentemente, em áreas do litoral da Área Metropolitana de Lisboa, como Cascais. O seu comportamento invasor, marcado por elevada resiliência e capacidade de dispersão, gera impactos significativos na biodiversidade marinha, na atividade piscatória, nos usos balneares e na economia costeira local.
+
+A persistência e expansão do fenómeno exige uma resposta estratégica e articulada entre os diferentes níveis de governação - central, regional e local - com base numa abordagem técnica, científica e territorialmente adaptada.
+
+Posto isto, importa estabelecer uma resposta eficaz, integrada e sustentável à presença da macroalga Rugulopteryx okamurae em território nacional, promovendo a proteção dos ecossistemas costeiros, a resiliência das comunidades locais e a valorização sustentável da biomassa recolhida.
+
+A Estratégia Nacional para a Gestão da Macroalga Invasora Rugulopteryx okamurae vem delinear as linhas de ação e os objetivos a alcançar na resposta à presença desta macroalga, bem como a criação de um grupo de trabalho para o acompanhamento, análise e concretização desta estratégia.
+
+Assim, manda o Governo, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+
+###### Artigo 1.º — Aprovação da Estratégia Nacional
+
+Aprova a Estratégia Nacional para a Gestão da Macroalga Invasora Rugulopteryx okamurae, constante do anexo à presente portaria.
+
+###### Artigo 2.º — Grupo de Trabalho Nacional
+
+1 - A coordenação, acompanhamento, análise e concretização da Estratégia Nacional será da competência de um grupo de trabalho a constituir, cuja coordenação fica a cargo da Agência Portuguesa do Ambiente, IP (APA).
+
+2 - O grupo de trabalho será constituído pelas entidades elencadas no anexo à presente portaria.
+
+3 - Pela participação no grupo de trabalho não é devido qualquer abono ou remuneração.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**A Ministra do Ambiente e Energia, Maria da Graça Carvalho, em 17 de julho de 2025. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 22 de julho de 2025.**
+
+## ANEXO — (a que faz referência o artigo 1.º)
+
+Estratégia Nacional para a Gestão da Macroalga Invasora Rugulopteryx okamurae
+
+1 - Objetivos Estratégicos
+
+1.1 - Monitorizar e compreender a dinâmica de expansão da espécie em diferentes regiões do país;
+
+1.2 - Mitigar os impactos negativos nas zonas balneares, na pesca e na economia local;
+
+1.3 - Valorizar a biomassa recolhida com soluções circulares e inovadoras;
+
+1.4 - Reforçar a governança multissetorial e inter-regional na gestão de espécies exóticas invasoras;
+
+1.5 - Garantir uma resposta rápida e articulada através da elaboração de Planos de controlo, contenção ou erradicação de âmbito regional e um Plano de controlo, contenção ou erradicação de âmbito nacional, tal como previsto no [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho. A estrutura destes Planos deverá atender ao modelo-tipo elaborado pelo ICNF e disponível na página deste organismo.
+
+2 - Pilares de Ação
+
+2.1 - Monitorização e Alerta Precoce
+
+Implementar sistemas de monitorização e vigilância costeira (in situ e por deteção remota) em zonas críticas como Algarve, Cascais, Costa da Caparica;
+
+Criar uma base de dados nacional georreferenciada para registo e análise da evolução da alga.
+
+Promover projetos de ciência cidadã na monitorização da alga invasora, tais como, o projeto «Algas na Praia» da UALG.
+
+2.2 - Resposta Operacional
+
+Mobilizar equipamentos e equipas para remoção mecânica dos depósitos e concentrações naturais da macroalga;
+
+Dotar as equipas dos meios adequados para a remoção nas diferentes tipologias de praia e no plano de água;
+
+Estabelecer equipas regionais de intervenção rápida com coordenação local. Implementação de projetos piloto de contenção;
+
+Implementação de equipamentos e métodos de desinfeção dos sectores infestados (embarcações, artes de pesca, estruturas flutuantes e metal de mergulho).
+
+2.3 - Valorização e Gestão de Resíduos
+
+Estudar o potencial da biomassa em aplicações como fertilizantes, rações, compostagem, biocombustíveis ou bioplásticos, farmacêutica e cosmética;
+
+Criar circuitos logísticos para transporte e tratamento da alga, aproveitando infraestruturas existentes;
+
+Estudar e implementar locais de armazenamento temporário, usando eventualmente salinas desativadas, com recuperação de areia de praia removida juntamente com as algas.
+
+2.4 - Investigação e Inovação
+
+Apoiar projetos de investigação sobre a biologia, ecologia e vetores de dispersão da espécie;
+
+Promover parcerias com universidades e centros tecnológicos para desenvolver soluções de mitigação e valorização.
+
+2.5 - Coordenação Institucional e Participação Pública
+
+Criar um Grupo de Trabalho Nacional com representantes das principais entidades públicas e científicas;
+
+Envolver autarquias, comunidades piscatórias, setor do turismo e cidadãos em campanhas de sensibilização e resposta local.
+
+Elaborar um plano de controlo, contenção e monitorização da alga;
+
+3 - Grupo de Trabalho Nacional
+
+A execução da estratégia será assegurada por um Grupo de Trabalho Interinstitucional, coordenado pela Agência Portuguesa do Ambiente (APA), com a participação das seguintes entidades:
+
+ICNF - Instituto da Conservação da Natureza e das Florestas, IP;
+
+CCDR (a designar em concreto no momento de constituição do grupo de trabalho);
+
+Área Metropolitana de Lisboa (AML);
+
+Universidades (a designar em concreto no momento de constituição do grupo de trabalho);
+
+DGRM - Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;
+
+Autarquias locais das áreas costeiras afetadas (a designar em concreto no momento de constituição do grupo de trabalho);
+
+Região de Turismo do Algarve;
+
+Turismo de Portugal, IP;
+
+Comunidade Intermunicipal do Algarve (AMAL).
+
+4 - Resultados Esperados
+
+Redução dos impactos ecológicos, sociais e económicos da Rugulopteryx okamurae em múltiplas regiões costeiras;
+
+Melhoria da capacidade de antecipação e resposta coordenada nos territórios afetados;
+
+Valorização da biomassa através de soluções circulares e economicamente viáveis;
+
+Fortalecimento da cooperação entre entidades públicas, científicas e comunitárias;
+
+Definição de um modelo nacional replicável de gestão de espécies marinhas exóticas invasoras, com eventual alteração legislativa.
+
+5 - Ativação e Avaliação
+
+A ativação imediata da estratégia é recomendada, em especial nas regiões com maior exposição e intensidade de depósitos naturais, como o Algarve e a faixa costeira entre Oeiras e Sesimbra. Será implementado um plano de ação a curto e médio prazo, com mecanismos de monitorização contínua, revisão anual e envolvimento direto das comunidades locais.

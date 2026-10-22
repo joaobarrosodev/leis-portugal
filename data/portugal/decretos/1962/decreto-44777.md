@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: pt:dre:155186:por
+title: Decreto n.º 44777
+short_title: null
+summary: Insere disposições legislativas aplicáveis aos serviços de instrução do ultramar
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Ensino
+proposing_entity: null
+official_number: '44777'
+official_date: null
+publication_date: '1962-12-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 281/1962, Série I de 1962-12-07
+  number: '281'
+  series: I
+  supplement: null
+  pages: 1667 - 1668
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/12/28100/16671668.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '155186'
+  dre_path: /dr/detalhe/decreto/44777-1962-155186
+  internal: pt:dre:155186:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44777-1962-155186
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44777-1962-155186
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-12-07T00:00:00Z'
+integrity:
+  source_sha256: 53312d6b3b14e93d7232ee505eda0977c6155ab3ede1ad072cb6dc94eefeb982
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-44777-155186.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44777
+
+Atendendo ao que representou o Governo-Geral de Angola quanto à necessidade de criação de alguns lugares de quadros complementares do ensino liceal e do quadro burocrático dos serviços de instrução da mesma província e ao que representou o Governo-Geral de Moçambique sobre a conveniência de transformar dois lugares do quadro comum do ensino profissional, correspondentes àquela província, por motivos de natureza pedagógica, e de se destrinçarem as especialidades de dois lugares de mestre do mesmo ensino ali existentes;
+
+Devendo ser esclarecida a base de contagem de tempo de serviço dos professores do ensino oficial do ultramar, para atribuição dos vencimentos que individualmente lhes competem, considerando para o efeito, como é de justiça, os serviços prestados no ensino oficial em situações anteriores;
+
+Havendo necessidade de definir a situação de algumas categorias docentes perante a disposição do artigo 2.º do Decreto n.º 43913, de 14 de Setembro de 1961, e parecendo da maior justiça aplicar aos antigos professores dos institutos referidos no artigo 29.º do mesmo decreto, que tenham ingressado nos quadros dos serviços de instrução do ultramar, o disposto no mesmo artigo quanto à contagem de tempo de serviço para efeitos de diuturnidade, licença graciosa e aposentação;
+
+Verificando-se a vantagem, em ordem à maior actualização do ensino profissional no ultramar, de permitir a inclusão de uma disciplina, designada por Língua Estrangeira, nos cursos de formação do ramo industrial do mesmo ensino;
+
+Reconhecendo-se a conveniência de regular outras situações que se apresentam nos serviços de instrução do ultramar;
+
+Ouvido o Conselho Ultramarino;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São criados os seguintes lugares, nos quadros complementares do ensino liceal correspondentes e no quadro burocrático dos serviços de instrução, na província de Angola:
+
+a) Quatro professoras de Lavores Femininos e uma de Educação Física;
+
+b) Um dactilógrafo e uma dactilógrafa.
+
+###### Art. 2.º São convertidos em lugares do 2.º grau os lugares de professor do 3.º grupo, 1.º grau, do quadro comum do ensino profissional, criados respectivamente pelo [Decreto n.º 38679](https://diariodarepublica.pt/dr/detalhe/decreto/38679-1952-598350), de 17 de Março de 1952, e [Decreto n.º 40317](https://diariodarepublica.pt/dr/detalhe/decreto/40317-1955-245751), de 14 de Setembro de 1955, com destino à Escola Industrial de Lourenço Marques, devendo os actuais ocupantes dos lugares extintos ser contratados, por delegação ministerial, nos novos lugares, sem perda da continuidade docente.
+
+###### Art. 3.º Um dos lugares de contramestre criados pelo [Decreto n.º 39295](https://diariodarepublica.pt/dr/detalhe/decreto/39295-1953-639350), de 28 de Julho de 1953, para a província de Moçambique, no quadro do mestrado da Escola Industrial de Lourenço Marques destina-se a serralharia um outro a carpintaria.
+
+###### Art. 4.º Para a atribuição dos vencimentos dos professores do ultramar, de qualquer grau de ensino, segundo os grupos estabelecidos nas competentes tabelas, é contado todo o tempo de serviço prestado no ensino oficial, na mesma modalidade, tanto em situação constante dos respectivos quadros, incluindo a de interino, como na de comissão ou de eventual, desde que tenha sido classificado de Bom, ou Suficiente quando não houver classificação de Bom.
+
+§ 1.º Aos professores do ensino liceal aproveita o serviço que tiverem prestado no técnico profissional, e vice-versa.
+
+§ 2.º Serão revistos, mediante requerimento dos interessados, os vencimentos dos actuais professores de acordo com o preceituado neste artigo, mas as melhorias de situação resultantes da mesma revisão não terão efeito senão a partir do dia 1 de Janeiro de 1963.
+
+###### Art. 5.º O aumento estabelecido pelo artigo 2.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, abrange, desde que cursados para mestres, as categorias de contramestre e auxiliar do ensino técnico profissional e a partir da data fixada pelo § 2.º do mesmo artigo.
+
+###### Art. 6.º É de livre escolha do Ministro o provimento dos lugares de inspector escolar, criados para as províncias de Cabo Verde e Guiné pelo artigo 3.º do [Decreto n.º 43880](https://diariodarepublica.pt/dr/detalhe/decreto/43880-1961-173965), de 25 de Agosto de 1961, e bem assim, até 31 de Dezembro de 1964, ouvidos os governadores, o dos lugares de subdirector escolar distrital, entre indivíduos com as habilitações que a lei exige.
+
+###### Art. 7.º A matéria do artigo 1.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, é igualmente aplicável ao pessoal dos quadros burocráticos dos serviços de instrução, e bem assim aos preparadores, contínuos e serventes dos estabelecimentos oficiais de ensino de qualquer grau.
+
+###### Art. 8.º O disposto no artigo 29.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, aproveita aos professores dos institutos nele referidos que tenham ingressado em quaisquer quadros dos serviços de instrução do ultramar.
+
+###### Art. 9.º São autorizados os órgãos legislativos das províncias ultramarinas a permitir a inclusão de uma disciplina, designada por «Língua Estrangeira», que será a francesa ou a inglesa, em regime de opção, nos cursos de formação do ramo industrial, do ensino profissional, nas seguintes condições:
+
+1.º A opção será proporcionada aos seus alunos, por cada escola ou região, de acordo com os respectivos interesses de ordem económica e cultural;
+
+2.º À disciplina de Língua Estrangeira serão atribuídos três tempos semanais no 1.º ano e dois em cada um dos restantes, até que os actuais planos de estudo beneficiem de transformação que permita ampliar aquela atribuição, com vista a mais completa aprendizagem;
+
+3.º As classificações atribuídas aos alunos na disciplina de Língua Estrangeira entrarão na avaliação das médias de ano e de curso, mas não terão valor eliminatório;
+
+4.º A disciplina de Língua Estrangeira será gradual e oportunamente introduzida no plano de estudos das várias escolas, conforme as possibilidades oferecidas por cada uma delas, para o real e efectivo ensino dessa disciplina;
+
+5.º Embora respeitando rigorosamente os princípios metodológicos que informam o ensino das línguas vivas nos cursos do ensino técnico profissional, ter-se-ão em atenção os interesses de ordem regional e as finalidades profissionais de carácter tecnológico o económico que determinam a inclusão da disciplina de Língua Estrangeira em todos os cursos de formação industrial.
+
+###### Art. 10.º É da competência dos governadores a criação dos lugares de director de curso ou grupos de cursos afins, do ensino técnico profissional, previstos no artigo 106.º do respectivo estatuto.
+
+###### Art. 11.º Nas províncias ultramarinas, onde os houver, passam os regentes escolares, integrados nos quadros dos serviços de instrução e pagos por conta de dotações dos respectivos orçamentos gerais, a ser designados por «professores de posto de ensino».
+
+§ único. Para efeitos de remuneração, os professores de posto de ensino consideram-se assim agrupados:
+
+Professores de posto de ensino com mais de 20 anos de serviço ... T
+
+Professores de posto de ensino com mais de 10 anos de serviço ... U
+
+Professores de posto de ensino com menos de 10 anos de serviço ... V
+
+###### Art. 12.º A satisfação dos encargos resultantes do artigo anterior fica sujeita às possibilidades financeiras de cada província.
+
+###### Art. 13.º Ficam sancionadas as gratificações fixadas no novo Regulamento das Escolas de Artes e Ofícios do Sexo Masculino na Província de Moçambique.
+
+###### Art. 14.º Ficam autorizados os governos das províncias ultramarinas a que se refere o presente decreto a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para satisfação dos encargos dele resultantes, servindo de contrapartida disponibilidades ou recursos orçamentais.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 7 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.

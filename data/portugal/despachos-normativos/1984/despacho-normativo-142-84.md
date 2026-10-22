@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:626406:por
+title: Despacho Normativo n.º 142/84
+short_title: null
+summary: Acrescenta vários números ao capítulo I do Despacho Normativo n.º 194-A/83, de 19 de Outubro (cursos técnico-profissionais
+  e cursos profissionais)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 142/84
+official_date: null
+publication_date: '1984-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1984, 1º Suplemento, Série I de 1984-08-22
+  number: '194'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2588-(3) a 2588-(32)
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19401/00030032.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '626406'
+  dre_path: /dr/detalhe/despacho-normativo/142-1984-626406
+  internal: pt:dre:626406:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/142-1984-626406
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/142-1984-626406
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-06-19T00:00:00Z'
+integrity:
+  source_sha256: e1ee4ce6fd01bad062acd3169ffe763b969859d7bec15a696764a415c6f4fe92
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-142-626406.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:288263:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 142/84
+
+O [Despacho Normativo n.º 194-A/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-a-1983-398556), de 19 de Outubro, procurou dar resposta a uma das prioridades do Programa do Governo que prevê a institucionalização de uma estrutura de ensino técnico-profissional.
+
+Nesse sentido, lançou-se uma experiência pedagógica, com cursos técnico-profissionais e cursos profissionais, de harmonia com os princípios e os critérios estabelecidos naquele diploma legal.
+
+O acolhimento dispensado aos novos cursos pelos jovens que os procuram, pelos pais que se preocupam com a integração sócio-profissional dos filhos, pelos professores e pelas escolas que se empenham nesta experiência, e o apoio manifestado por empresas, autarquias e outras instituições, justificam que, no próximo ano lectivo, a rede deste ensino seja ampliada com a criação de novos cursos nas mesmas ou em outras áreas ocupacionais e o respectivo alargamento a diferentes regiões do País.
+
+Na expansão desta experiência pedagógica sublinha-se o trabalho desenvolvido pelas comissões regionais para o ensino técnico-profissional e a colaboração de outras entidades, públicas e privadas, com vista à determinação das zonas mais carenciadas e à escolha das áreas tecnológicas dos cursos e dos estabelecimentos de ensino mais adequados. O crescimento que se prevê será possível, em grande parte, devido às disponibilidades ainda existentes em instalações, equipamentos e pessoal docente qualificado.
+
+Entretanto, a experiência de um ano lectivo recomenda ajustamentos, nomeadamente na estrutura de alguns cursos, nas cargas horárias e nos programas de certas disciplinas.
+
+Em relação ao [Despacho Normativo n.º 194-A/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-a-1983-398556), que no essencial se mantém e continua a servir de matriz a esta experiência pedagógica, tornam-se necessários alguns ajustamentos impostos pelo desenvolvimento das estruturas de coordenação e apoio à experiência e a substituição das disposições relativas a candidaturas e a matrículas.
+
+Assim, ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967, determino:
+
+I - Cursos técnico-profissionais e cursos profissionais
+
+1 - Ao capítulo I do [Despacho Normativo n.º 194-A/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-a-1983-398556), de 19 de Outubro, são acrescentados os seguintes números:
+
+3-A - Os cursos técnico-profissionais poderão ser complementados por cursos técnico-profissionais de especialização, os quais conferirão diplomas da respectiva especialização de sequência.
+
+7-A - O resultado da preparação profissional obtida na parte escolar e no estágio dos cursos profissionais será avaliado por meio de uma prova de aptidão profissional, cuja estrutura será determinada em função das características próprias de cada curso.
+
+II - Rede escolar
+
+2 - No ano lectivo de 1984-1985 poderão funcionar os cursos técnico-profissionais e profissionais cuja definição e organização curricular consta do anexo I do presente despacho, o qual substitui o anexo I do [Despacho Normativo n.º 194-A/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-a-1983-398556).
+
+3 - O anexo II do presente despacho indica os cursos previstos para cada escola no ano lectivo de 1984-1985.
+
+III - Estruturas de direcção e coordenação da experiência
+
+4 - A coordenação da experiência pedagógica do ensino técnico-profissional, em cada estabelecimento de ensino, obedecerá às normas fixadas nos números seguintes, os quais substituem os n.os 19 a 23 do [Despacho Normativo n.º 194-A/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-a-1983-398556).
+
+5 - Em cada estabelecimento de ensino em que funcionam os cursos técnico-profissionais e os cursos profissionais será designado, por despacho ministerial, um professor responsável pela experiência pedagógica.
+
+6 - Para cada área ocupacional será designado pelo conselho directivo da escola, sob proposta do professor responsável, um professor-coordenador dos respectivos cursos.
+
+7 - Compete ao professor responsável planificar e orientar as actividades exigidas pelo desenvolvimento da experiência pedagógica, designadamente:
+
+a) Garantir a orientação da experiência pedagógica no respectivo estabelecimento de ensino de acordo com as directrizes recebidas do Ministério da Educação, coordenando o funcionamento dos diversos cursos e disciplinas e exercendo as funções de coordenador dos cursos da área ocupacional da sua especialidade;
+
+b) Participar, como responsável pela experiência pedagógica, no conselho pedagógico do estabelecimento de ensino;
+
+c) Articular, com o conselho directivo, as actividades dos cursos técnico-profissionais e profissionais existentes na escola e dos professores que participam na experiência pedagógica;
+
+d) Solicitar ao conselho directivo todo o apoio administrativo necessário ao bom funcionamento da experiência pedagógica;
+
+e) Assegurar a ligação com a comissão regional para o ensino técnico-profissional.
+
+8 - Compete ao professor-coordenador de cursos:
+
+a) Assegurar, em colaboração com o professor responsável, a orientação e coordenação do ensino e a planificação das actividades dos diversos cursos e disciplinas da respectiva área ocupacional;
+
+b) Executar as funções de director de turma, quando haja apenas uma turma do respectivo curso;
+
+c) Coordenar as acções de acompanhamento dos estágios dos cursos integrados na respectiva área ocupacional.
+
+9 - Participam na experiência pedagógica dos cursos técnico-profissionais e profissionais os professores que, em cada escola, forem designados para leccionar as diversas disciplinas que constituem os planos de estudos daqueles cursos, bem como os professores que forem designados para acompanhar os respectivos estágios.
+
+10 - Aos professores que leccionam as diversas disciplinas dos cursos técnico-profissionais e profissionais cabe, designadamente:
+
+a) Colaborar com o professor-coordenador do curso e com o professor responsável na planificação das actividades do curso;
+
+b) Articular o ensino da sua disciplina com o das demais disciplinas que constituem o plano de estudos do curso, sob a orientação do professor-coordenador do curso e do professor responsável.
+
+11 - Aos professores acompanhantes do estágio cabe, designadamente:
+
+a) Elaborar os planos de estágio dos alunos que irão acompanhar, em colaboração com os monitores de estágio designados pelas empresas, de acordo com a orientação do professor-coordenador do curso e do professor responsável pela experiência pedagógica na escola;
+
+b) Acompanhar o desenvolvimento do estágio de cada aluno, em colaboração com o monitor, comparecendo na empresa e inteirando-se da assiduidade, do aproveitamento e de outros factos relevantes relativos à actividade do estagiário, nos termos do respectivo Regulamento e do plano de estágio aprovado;
+
+c) Participar na avaliação do aproveitamento do estagiário e fazer parte do júri de provas de aptidão profissional, nos termos do respectivo Regulamento.
+
+12 - A leccionação das diversas disciplinas dos cursos e as funções de professor responsável pela experiência pedagógica na escola, de professor-coordenador de cursos e de professor acompanhante de estágio serão atribuídas, sempre que possível, a professores profissionalizados.
+
+13 - Cada um dos professores que leccionam disciplinas dos cursos técnico-profissionais ou profissionais terá 2 horas semanais equiparadas a serviço docente e destinadas a reuniões de coordenação do curso e da experiência pedagógica.
+
+14 - Para além do previsto no número anterior, será ainda equiparado a serviço docente o exercício das seguintes funções:
+
+a) Professor responsável pela experiência pedagógica na escola, correspondendo a 5 horas o exercício das funções que lhe estão atribuídas no n.º 7;
+
+b) Professor-coordenador de cursos, correspondendo a 3 horas semanais o exercício das funções que lhe estão atribuídas no n.º 8;
+
+c) Professor acompanhante de estágio, a que corresponderá um número de horas variável, consoante o número de estagiários a seu cargo e o número de instância a que se encontrem as empresas em que se realizam os estágios, cabendo aos conselhos directivos das escolas elaborar as respectivas propostas, a submeter à aprovação da Direcção-Geral do Ensino Secundário.
+
+15 - As experiências dos cursos técnico-profissionais e dos cursos profissionais serão acompanhadas por especialistas de orientação escolar e profissional, que actuarão em estreita colaboração com os professores responsáveis e com os conselhos directivos das escolas, de acordo com as directivas emanadas do Ministério da Educação.
+
+IV - Alunos
+
+16 - As normas relativas às candidaturas, matrículas, frequência e avaliação dos cursos técnico-profissionais e profissionais são as que constam dos números seguintes, os quais substituem os n.os 24 a 43 do [Despacho Normativo n.º 194-A/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-a-1983-398556).
+
+17 - Poderão candidatar-se à primeira matrícula em cada um dos cursos técnico-profissionais e dos cursos profissionais os jovens que possuam a habilitação do 9.º ano de escolaridade, ou equivalente, e não completem os 25 anos de idade até 31 de Dezembro do ano em que pretendem efectuá-la.
+
+18 - As candidaturas serão apresentadas em boletim de modelo próprio, na escola que o aluno frequentou no ano lectivo anterior ou em que completou a habilitação do 9.º ano ou equivalente, nos prazos normais de matrícula nos cursos complementares do ensino secundário.
+
+19 - A escola referida no número anterior enviará o boletim de candidatura com a confirmação dos dados dele constantes para as escolas a que os candidatos concorrem.
+
+20 - Para o ano lectivo de 1984-1985, os candidatos deverão entregar os boletins de candidatura nas escolas em que pretendem matricular-se, entre 25 de Agosto e 15 de Setembro de 1984, devendo constar dos mesmos as classificações obtidas em cada uma das disciplinas do 9.º ano ou equivalente, a indicação do ano lectivo em que o terminaram e a confirmação destes dados pela escola que o aluno frequentou ou em que obteve a habilitação.
+
+21 - Os alunos que no ano lectivo anterior frequentaram já um curso técnico-profissional ou um curso profissional e não obtiveram a aprovação têm direito a renovar a matrícula no ano lectivo seguinte, ocupando em primeiro lugar as vagas existentes, com prioridade absoluta sobre os candidatos à primeira matrícula.
+
+22 - Em cada curso profissional não será permitida mais de uma renovação de matrícula.
+
+23 - Para efeitos de admissão, as escolas elaborarão listas relativas a cada curso, agrupando os candidatos da seguinte forma:
+
+1.º escalão: candidatos que terminaram o 9.º ano no ano lectivo imediatamente anterior;
+
+2.º escalão: candidatos que completaram a habilitação do 9.º ano em outros anos lectivos;
+
+3.º escalão: candidatos habilitados com um curso geral do ensino secundário.
+
+Os candidatos em cada um destes escalões serão seriados como se indica no número seguinte.
+
+24 - Os candidatos habilitados com um curso geral do ensino secundário serão seriados de acordo com a classificação final do respectivo curso.
+
+Os candidatos habilitados com o 2.º ano de escolaridade serão seriados por ordem decrescente do valor obtido pela soma das seguintes parcelas:
+
+a) Soma das classificações de todas as disciplinas do 9.º ano;
+
+b) Soma das classificações do conjunto de disciplinas que constam do anexo III ao presente despacho;
+
+c) Metade do valor da classificação obtida na área vocacional, quando esta corresponde ao curso a que o aluno pretende candidatar-se, nos termos que constam do anexo IV ao presente despacho.
+
+25 - Para efeito da alínea a) do número anterior, consideram-se as classificações de 10 disciplinas, excluindo-se a classificação da disciplina de Religião e Moral, e, quando o aluno não tenha realizado aquele número de disciplinas, acrescentar-se-ão à soma 3 pontos por cada disciplina em falta, subtraindo-se 3 pontos à mesma soma, por cada disciplina além de 10.
+
+26 - Quando as somas obtidas nos termos dos números anteriores forem as mesmas para 2 ou mais alunos, preferem, sucessivamente:
+
+a) Os alunos residentes no concelho em que se situa a escola;
+
+b) Os alunos mais novos.
+
+27 - Em cada curso técnico-profissional e em cada curso profissional serão admitidos, no máximo, 15 alunos em cada turma.
+
+28 - Quando os candidatos que reúnem as condições previstas nos números anteriores não preencham as vagas existentes, poderão ser admitidos candidatos com mais de 25 anos de idade, os quais serão ordenados segundo os mesmos critérios.
+
+29 - As listas elaboradas nos termos dos números anteriores serão afixadas até 25 de Setembro nas escolas em que vai funcionar cada um dos cursos, indicando os candidatos que, em princípio, sejam considerados admitidos.
+
+30 - Das listas afixadas caberá reclamação no prazo de 5 dias, a qual, se não puder ser imediatamente atendida pelo conselho directivo, será por este devidamente informada e enviada para decisão à Direcção-Geral do Ensino Secundário.
+
+31 - No prazo de 5 dias sobre a afixação das listas, o candidato deverá apresentar-se para efectuar a matrícula na respectiva escola.
+
+32 - Quando se verifique a desistência ou a falta de efectivação da matrícula no prazo fixado de um candidato que se encontre admitido, a escola notificará telegraficamente o candidato que na lista graduada se encontre na posição seguinte à do último admitido, devendo o mesmo confirmar a aceitação da matrícula no prazo de 48 horas.
+
+33 - A frequência e a avaliação do aproveitamento escolar nos cursos técnico-profissionais e nos cursos profissionais obedecerão aos princípios gerais em vigor para os cursos complementares do ensino secundário, com as adaptações que forem determinadas por despacho ministerial.
+
+34 - A frequência e a avaliação do aproveitamento nos estágios, a organização das provas de aptidão profissional e a avaliação global do aproveitamento dos cursos obedecerão a normas próprias, a estabelecer em regulamento aprovado por portaria ministerial.
+
+Ministério da Educação, 31 de Julho de 1984. - O Ministro da Educação, José Augusto Seabra.
+
+## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19401/00030032.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19401/00030032.pdf)
+
+## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19401/00030032.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19401/00030032.pdf)
+
+## ANEXO III — Grupo de disciplinas do 9.º ano referidas no n.º 24, alínea b), do presente despacho
+
+Cursos técnico-profissionais e cursos profissionais da área de estudos científico-naturais - A: Biologia, Ciências Físico-Químicas e Matemática.
+
+Cursos técnico-profissionais e cursos profissionais da área de estudos científico-tecnológicos - B: Matemática, Ciências Físico-Químicas e Desenho.
+
+Cursos técnico-profissionais e cursos profissionais da área de estudos económico-sociais - C: Matemática, língua estrangeira (tronco comum) e Geografia.
+
+Cursos técnico-profissionais e cursos profissionais da área de estudos de artes visuais - E: Matemática, Ciências Físico-Químicas e Desenho.
+
+## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/19401/00030032.pdf))](https://files.diariodarepublica.pt/1s/1984/08/19401/00030032.pdf)

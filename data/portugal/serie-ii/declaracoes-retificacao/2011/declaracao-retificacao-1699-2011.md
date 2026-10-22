@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:3673129:por
+title: Declaração de Rectificação n.º 1699/2011
+short_title: null
+summary: Rectifica o aviso n.º 21298/2011, publicado no Diário da República, 2.ª série, n.º 206, de 26 de Outubro de 2011
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Loures
+proposing_entity: null
+official_number: 1699/2011
+official_date: null
+publication_date: '2011-11-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/2011, Série II de 2011-11-08
+  number: '214'
+  series: II
+  supplement: null
+  pages: 44410 - 44411
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/11/214000000/4441044411.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3673129'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1699-2011-3673129
+  internal: pt:dre:3673129:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1699-2011-3673129
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1699-2011-3673129
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-11-08T00:00:00Z'
+integrity:
+  source_sha256: c639e911504d77137965ee61ec7c5e04e7fd416667daf6d7efd5cd33ae6929dd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-1699-3673129.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1699/2011
+
+Por ter sido publicado com inexactidão o aviso n.º 21298/2011, no Diário da República, 2.ª série, n.º 206, de 26 de Outubro de 2011, tornam-se públicas as seguintes rectificações:
+
+No parágrafo introdutório do aviso, onde se lê «Assistente Operacional/Geral, para 30 postos de trabalho.» deve ler-se «Assistente operacional/geral - acção educativa, para 30 postos de trabalho.».
+
+No n.º 2 do aviso, onde se lê:
+
+«2. Os postos de trabalho, conforme mapa de pessoal de 2011, têm a seguinte caracterização: - As actividades são de carácter auxiliar administrativo, afectas ao Departamento de Educação com grau de complexidade 1.»
+
+deve ler-se:
+
+«2 - Os postos de trabalho, conforme mapa de pessoal de 2011, têm a seguinte caracterização: as actividades integram-se no âmbito dos serviços auxiliares e de apoio às actividades educativas, afectas ao Departamento de Educação com grau de complexidade 1.»
+
+No n.º 7. do aviso, onde se lê:
+
+«7. Métodos de selecção:
+
+7.1. Considerando a urgência do presente recrutamento, perante a necessidade de repor a capacidade de intervenção e de resposta da área caracterizada, no âmbito das suas atribuições, será utilizado apenas um método de selecção obrigatório e um método de selecção facultativo, conforme previsto no n.º 4 do artigo 53.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro:
+
+a) Avaliação Curricular, a aplicar aos candidatos que reúnam as condições referidas no n.º 2 do artigo 53.º do mesmo diploma legal, desde que não tenham exercido por escrito a opção pelo método referido na alínea seguinte;
+
+b) Prova de conhecimentos, a aplicar aos restantes candidatos;
+
+c) Entrevista profissional de selecção, a aplicar a todos os candidatos aprovados nos métodos de selecção referidos nas alíneas a) e b).
+
+Nos termos do n.os 12 e 13 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, na sua actual redacção dada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 06 de Abril, cada um dos métodos de selecção, bem como cada uma das fases que comportem, é eliminatório, sendo considerados excluídos do procedimento os candidatos que tenham obtido uma valoração inferior a 9,5 valores num dos métodos ou fases, não se lhes aplicando o método ou fases seguintes.
+
+7.2 - A valoração dos métodos de selecção será convertida numa escala de 0 a 20 valores, de acordo com a especificidade de cada método:
+
+Nas condições previstas na alínea a) do ponto 7.1., a valoração final é calculada através da média ponderada, sendo:
+
+Avaliação curricular - 70 %;
+
+Entrevista Profissional de Selecção - 30 %.
+
+Nas condições previstas na alínea b) do ponto 7.1., a valoração final é calculada através da média ponderada, sendo:
+
+Prova de conhecimentos - 70 %;
+
+Entrevista Profissional de Selecção - 30 %.
+
+7.3 - A prova de conhecimentos será valorada nos termos do n.º 2 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401) de 22 de Janeiro, na sua actual redacção dada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 06 de Abril.
+
+A prova de conhecimentos assumirá a forma escrita, revestindo carácter teórico, é individual, e será efectuada em suporte de papel com duração aproximada de 90 minutos.
+
+Durante a realização da prova os candidatos poderão consultar os diplomas relativos às matérias constantes do programa, não sendo autorizado o uso de legislação comentada e ou anotada.
+
+A prova incidirá sobre o programa/bibliografia seguinte:
+
+Lei das Autarquias Locais - [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro.
+
+7.4 - A entrevista profissional de selecção terá duração aproximada de 20 minutos, será valorada conforme o disposto no n.º 6 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401) de 22 de Janeiro, alterada e republicada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 06 de Abril, e visará a avaliação dos seguintes factores:
+
+Motivação e interesses profissionais;
+
+Relacionamento interpessoal;
+
+Capacidade de comunicação.
+
+7.5 - Os critérios de classificação e ponderação da avaliação curricular, da prova de conhecimentos e da entrevista profissional de selecção, constam das actas do respectivo júri, que estarão disponíveis aos candidatos, sempre que solicitadas, dentro do horário de funcionamento dos serviços, das 9:00 às 16:30 horas.»
+
+deve ler-se:
+
+«7 - Métodos de selecção:
+
+7.1 - No presente recrutamento serão aplicados os métodos de selecção obrigatórios referidos nos n.os 1 e 2 do artigo 53.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e um método facultativo:
+
+a) Avaliação curricular e entrevista de avaliação de competências, a aplicar aos candidatos que reúnam as condições referidas no n.º 2 do artigo 53.º do mesmo diploma legal, desde que não tenham exercido por escrito a opção pelos métodos referidos na alínea seguinte;
+
+b) Prova de conhecimentos e avaliação psicológica, a aplicar aos restantes candidatos;
+
+c) Entrevista profissional de selecção, a aplicar a todos os candidatos aprovados nos métodos de selecção obrigatórios.
+
+Nos termos dos n.os 12 e 13 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, alterada e republicada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 6 de Abril, cada um dos métodos de selecção, bem como cada uma das fases que comportem, é eliminatório, sendo considerados excluídos do procedimento os candidatos que tenham obtido uma valoração inferior a 9,5 valores num dos métodos ou fases, não se lhe aplicando os métodos ou fases seguintes.
+
+7.2 - A valoração dos métodos de selecção será convertida numa escala de 0 a 20 valores, de acordo com a especificidade de cada método:
+
+Nas condições previstas na alínea a) do n.º 7.1, a valoração final é calculada através da média aritmética ponderada, sendo:
+
+Avaliação curricular - 35 %;
+
+Entrevista de avaliação de competências - 35 %;
+
+Entrevista profissional de selecção - 30 %.
+
+Nas condições previstas na alínea b) do n.º 7.1, a valoração final é calculada através da média aritmética ponderada, sendo:
+
+Prova de conhecimentos - 40 %;
+
+Avaliação psicológica - 30 %;
+
+Entrevista profissional de selecção - 30 %.
+
+7.3 - A prova de conhecimentos será valorada nos termos do n.º 2 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, na sua actual redacção dada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 6 de Abril.
+
+A prova de conhecimentos assumirá a forma escrita, revestindo carácter teórico, é individual, e será efectuada em suporte de papel com duração aproximada de noventa minutos.
+
+Durante a realização da prova os candidatos poderão consultar os diplomas relativos às matérias constantes do programa, não sendo autorizado o uso de legislação comentada e ou anotada.
+
+A prova incidirá sobre o programa/bibliografia seguinte:
+
+Lei das Autarquias Locais - [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro.
+
+7.4 - A avaliação psicológica comportará duas fases e será valorada conforme o disposto no n.º 3 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, alterada e republicada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 6 de Abril.
+
+7.5 - A entrevista de avaliação de competências terá a duração máxima de noventa minutos e será valorada conforme o disposto no n.º 5 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, alterada e republicada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 6 de Abril.
+
+7.6 - A entrevista profissional de selecção terá duração aproximada de vinte minutos, será valorada conforme o disposto no n.º 6 do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, na sua actual redacção dada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 6 de Abril, e visará a avaliação dos seguintes factores:
+
+Motivação e interesses profissionais;
+
+Relacionamento interpessoal;
+
+Capacidade de comunicação.
+
+7.7 - Os critérios de classificação e ponderação da avaliação curricular constam das actas do respectivo júri, que estarão disponíveis aos candidatos, sempre que solicitadas, dentro do horário de funcionamento dos serviços, das 9 horas às 16 horas e 30 minutos.»
+
+No n.º 12 do aviso, onde se lê:
+
+«12.2. Convocatória para o método de selecção obrigatório - consideram-se convocados para a realização da prova de conhecimentos, qu pelas 16 horas, nas instalações do Refeitório Municipal, sito na Rua Dr. António Carvalho Figueiredo, n.º 34-A, em Loures, todos os candidatos admitidos ao presente concurso.
+
+Consideram-se admitidos todos os candidatos cuja exclusão não tenha sido comunicada até àquela data.
+
+12.3 - Convocatória para o método de selecção facultativo: Os candidatos são convocados para a realização da entrevista profissional de selecção pela forma referida no ponto 12.1.»
+
+deve ler-se:
+
+«12.2 - Convocatória para a prova de conhecimentos - consideram-se convocados para a realização da prova de conhecimentos, que terá lugar no dia 2 de Dezembro de 2011, pelas 16 horas, nas instalações do refeitório municipal, sito na Rua do Dr. António Carvalho Figueiredo, 34-A, em Loures, todos os candidatos admitidos ao presente concurso.
+
+Consideram-se admitidos todos os candidatos cuja exclusão não tenha sido comunicada até àquela data.
+
+12.3 - Convocatória para os restantes métodos de selecção: os candidatos são convocados para a aplicação dos métodos de selecção pela forma referida no n.º 12.1.»
+
+O prazo para apresentação de candidaturas estabelecido no n.º 6.3 do aviso recomeça a sua contagem, pelo prazo de 10 dias úteis, contados a partir da data da publicação no Diário da República da presente rectificação.
+
+Mantêm-se válidas todas as candidaturas entretanto apresentadas.
+
+26 de Outubro de 2011. - Por delegação de competências do Presidente da Câmara, a Vereadora do Departamento de Recursos Humanos, Sónia Paixão.

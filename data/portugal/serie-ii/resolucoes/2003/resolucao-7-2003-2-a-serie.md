@@ -1,0 +1,307 @@
+---
+schema_version: '1.0'
+id: pt:dre:1923132:por
+title: Resolução n.º 7/2003 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Universidade do Porto - Reitoria
+proposing_entity: null
+official_number: 7/2003 (2.ª série)
+official_date: null
+publication_date: '2003-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/2003, Série II de 2003-02-14
+  number: '38'
+  series: II
+  supplement: null
+  pages: 2532 - 2534
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/02/038000000/0253202534.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1923132'
+  dre_path: /dr/detalhe/resolucao/7-2003-1923132
+  internal: pt:dre:1923132:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-2003-1923132
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-2003-1923132
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-02-14T00:00:00Z'
+integrity:
+  source_sha256: 7f6d0a0bc8d81e8b07c1287ef9fbb010865fdb01e3e8d8b1913b3db5ff610f24
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-7-1923132.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 22
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 7/2003 (2.ª série)
+
+Resolução n.º 7/2003 (2.ª série). - Por resolução do plenário do senado, em sua reunião de 5 de Junho de 2002, aprovadas as alterações aos Estatutos da Escola de Gestão do Porto e que se encontram incorporadas no texto dos referidos Estatutos, em anexo:
+
+Estatutos da Escola de Gestão do Porto
+
+### CAPÍTULO I — Denominação, natureza e fins
+
+###### Artigo 1.º
+
+A Escola de Gestão do Porto, adiante designada por EGP, goza de autonomia científica, pedagógica, administrativa e financeira, nos termos da lei, dos Estatutos da Universidade do Porto e dos seus próprios Estatutos.
+
+###### Artigo 2.º
+
+São atribuições específicas da EGP:
+
+a) Realizar cursos de pós-graduação em Gestão, conducentes ou não à obtenção do grau de mestre, com vista à actualização ou especialização de gestores e quadros técnicos e, em particular, levar a cabo um programa anual de cursos de alta direcção, de curta e média duração;
+
+b) Realizar projectos de investigação e desenvolvimento no domínio da Gestão, prioritariamente em cooperação com a comunidade empresarial e, no âmbito de tais projectos, apoiar a realização de doutoramentos;
+
+c) Promover a realização de projectos de consultoria no campo da Gestão;
+
+d) Promover a realização de conferências, seminários, encontros e congressos na área da Gestão;
+
+e) Assegurar o funcionamento de um centro de documentação no domínio da Gestão.
+
+###### Artigo 3.º
+
+Para assegurar o cumprimento das suas atribuições, a EGP poderá estabelecer parcerias ou receber apoios de empresários, associações empresariais ou outras associações, particularmente as que se constituam com este fim específico.
+
+### CAPÍTULO II — Da gestão
+
+###### Artigo 4.º
+
+São órgãos de gestão da EGP:
+
+a) O conselho geral;
+
+b) O conselho académico;
+
+c) A direcção;
+
+d) O conselho administrativo.
+
+###### Artigo 5.º
+
+1 - O conselho geral é constituído pelo presidente da direcção da Associação para a Escola de Gestão do Porto, adiante designada por AEGP, ou por quem este designar de entre os representantes das entidades associadas na AEGP, e por um número par de individualidades, de 4 a 10, escolhidas entre empresários, gestores, professores universitários e representantes de organismos públicos ou privados empenhados no desenvolvimento do País e da região do Norte.
+
+2 - O conselho geral é presidido pelo presidente da direcção da AEGP ou por quem este designar de entre os representantes das entidades associadas na AEGP.
+
+3 - O conselho geral tem dois vice-presidentes.
+
+4 - Os vice-presidentes e as demais individualidades que, para além do presidente, integram o conselho geral são nomeados pelo reitor da Universidade do Porto, por um período de três anos, sob proposta do presidente da direcção da AEGP.
+
+5 - Os membros do conselho geral a cuja nomeação se refere o número anterior podem ser exonerados pelo reitor da Universidade do Porto, sob proposta do presidente da direcção da AEGP.
+
+###### Artigo 6.º
+
+São atribuições do conselho geral:
+
+a) Propor a nomeação ou a exoneração dos membros da direcção;
+
+b) Definir a estratégia global da EGP;
+
+c) Aprovar os planos de actividade, orçamentos, relatórios de actividade e contas da EGP;
+
+d) Aprovar as propostas de criação ou alteração do quadro de pessoal não docente, emanadas da direcção, a submeter ao senado da Universidade do Porto.
+
+###### Artigo 7.º
+
+O conselho geral é convocado por iniciativa do seu presidente, por solicitação da maioria dos seus membros, ou a pedido do reitor da Universidade do Porto.
+
+###### Artigo 8.º
+
+O conselho geral só pode deliberar estando presente mais de metade dos seus membros, sendo as deliberações tomadas por maioria simples de votos e tendo o presidente voto de qualidade, em caso de empate.
+
+###### Artigo 9.º
+
+1 - O conselho académico é constituído por:
+
+a) Membros nomeados pelo reitor da Universidade do Porto, de entre os docentes e investigadores que, com regularidade, prestem serviço na EGP;
+
+b) Um presidente, eleito entre os seus membros, que representará e dirigirá o conselho.
+
+2 - A preceder a nomeação dos membros do conselho académico, o reitor ouvirá os órgãos de gestão de outras unidades orgânicas da Universidade do Porto que entender conveniente.
+
+3 - Os membros do conselho académico que deixem de satisfazer as condições previstas na alínea a) do n.º 1 deste artigo serão exonerados pelo reitor da Universidade do Porto.
+
+###### Artigo 10.º
+
+São atribuições do conselho académico:
+
+a) Estabelecer a orientação científica e pedagógica da EGP e proceder à gestão desta componente da actividade da Escola;
+
+b) Cooperar com a direcção na definição dos planos de actividade da EGP e dar parecer sobre os mesmos.
+
+###### Artigo 11.º
+
+O conselho académico é convocado por iniciativa do seu presidente ou por solicitação da maioria dos seus membros.
+
+###### Artigo 12.º
+
+O conselho académico só pode deliberar estando presente mais de metade dos seus membros, sendo as deliberações tomadas por maioria simples de votos e tendo o presidente voto de qualidade, em caso de empate.
+
+###### Artigo 13.º
+
+1 - A direcção é constituída por um presidente e dois vogais.
+
+2 - O presidente é um docente ou investigador da Universidade do Porto.
+
+3 - A direcção é proposta por iniciativa do presidente do conselho geral, por um período de três anos, na sequência da deliberação a que se refere a alínea a) do artigo 6.º, e homologada pelo reitor da Universidade do Porto.
+
+4 - A direcção pode ser exonerada na sequência de proposta de iniciativa do presidente do conselho geral, na sequência da deliberação a que se refere a alínea a) do artigo 6.º, e homologada pelo reitor da Universidade do Porto.
+
+###### Artigo 14.º
+
+São atribuições da direcção:
+
+a) Administrar e gerir a EGP em ordem à prossecução das suas finalidades, superintendendo em tudo o que não seja da competência específica dos outros órgãos de gestão;
+
+b) Elaborar e, após parecer do conselho académico, submeter anualmente à aprovação do conselho geral, o plano de actividades e o orçamento da EGP;
+
+c) Elaborar e, colhido o parecer do conselho administrativo, submeter anualmente à aprovação do conselho geral, o relatório de actividades e as contas da EGP;
+
+d) Assegurar a execução das deliberações dos outros órgãos de gestão da EGP no âmbito das respectivas competências;
+
+e) Submeter à aprovação do conselho geral e propor ao senado da Universidade do Porto a criação ou a alteração do quadro de pessoal não docente;
+
+f) Promover a realização de protocolos de colaboração com outras escolas, centros de investigação e instituições públicas ou privadas, nacionais ou estrangeiras;
+
+g) Promover a realização de contratos de investigação, desenvolvimento e consultoria.
+
+###### Artigo 15.º
+
+Compete ao presidente da direcção convocar e dirigir as reuniões da direcção, bem como representar a EGP em todos os actos públicos.
+
+###### Artigo 16.º
+
+1 - O conselho administrativo é constituído por:
+
+a) Um membro da direcção que seja docente ou investigador da Universidade do Porto, que presidirá;
+
+b) Dois funcionários da Universidade do Porto.
+
+2 - Os membros do conselho administrativo são nomeados pelo reitor da Universidade do Porto, por um período de três anos.
+
+3 - Os membros do conselho administrativo podem ser exonerados pelo reitor da Universidade do Porto, antes do termo do seu mandato.
+
+###### Artigo 17.º
+
+São atribuições do conselho administrativo:
+
+a) Fiscalizar a cobrança de receitas e a realização de despesas nos termos da lei;
+
+b) Fiscalizar a escrituração da contabilidade;
+
+c) Dar parecer sobre os relatórios de actividades e as contas da EGP emanados da direcção;
+
+d) Promover a elaboração do relatório anual e aprovar a conta de gerência da EGP;
+
+e) Velar pela elaboração, correcção e actualização do inventário do património móvel ou imóvel da EGP, bem como pela correcta utilização e conservação deste;
+
+f) Promover periodicamente a verificação dos fundos em cofre;
+
+g) Aceitar, ouvidos o conselho geral e a direcção, a atribuição à EGP de bens e direitos por doação, herança ou legado.
+
+###### Artigo 18.º
+
+O conselho administrativo reúne, ordinariamente, pelo menos de dois em dois meses e, extraordinariamente, sempre que convocado pelo seu presidente, por iniciativa deste, a solicitação de qualquer dos seus membros ou a pedido do presidente do conselho geral.
+
+### CAPÍTULO III — Do pessoal
+
+###### Artigo 19.º
+
+Integrarão os corpos docente e investigador da EGP:
+
+a) Docentes e investigadores oriundos das diferentes faculdades que integram a Universidade do Porto ou de outros serviços e organismos públicos, recrutados ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos, ou cedidos no âmbito de protocolos estabelecidos entre a EGP e aqueles serviços e organismos;
+
+b) Docentes, investigadores, gestores e consultores, nacionais ou estrangeiros, com sólida experiência profissional e reconhecida competência, recrutados em regime de aquisição de serviços para o exercício de funções específicas de docência ou de investigação.
+
+###### Artigo 20.º
+
+O pessoal não docente da EGP será constituído por:
+
+a) Pessoal do quadro respectivo da EGP;
+
+b) Pessoal recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos, em geral, e da Universidade do Porto, em particular;
+
+c) Pessoal contratado ao abrigo da Lei Geral do Trabalho, não conferindo, neste caso, aos prestadores de serviços a qualidade de funcionário ou agente.
+
+### CAPÍTULO IV — Dos recursos materiais
+
+###### Artigo 21.º
+
+Constituem património da EGP:
+
+a) O acervo de bens e direitos que, pela Universidade do Porto ou por quaisquer outras entidades, sejam afectados à prossecução dos seus fins;
+
+b) A titularidade de posse sobre os bens que sejam destinados pela Universidade do Porto ou por quaisquer outras entidades ao funcionamento da EGP.
+
+###### Artigo 22.º
+
+Constituem receitas da EGP:
+
+a) As dotações que lhe forem concedidas pelo Estado ou pela Universidade do Porto;
+
+b) As provenientes do pagamento de propinas;
+
+c) As cobradas pela prestação de serviços;
+
+d) O produto da alienação de bens móveis ou imóveis, quando autorizada por lei, bem como de outros elementos patrimoniais, designadamente material inservível ou dispensável;
+
+e) Os subsídios, subvenções, comparticipações, doações, heranças e legados;
+
+f) Os juros de contas de depósito;
+
+g) Os saldos da conta de gerência dos anos anteriores;
+
+h) O produto da venda de bens ou de publicações;
+
+i) As provenientes de fundos comunitários;
+
+j) Quaisquer outras que legalmente possa arrecadar.
+
+30 de Janeiro de 2003. - O Reitor, J. Novais Barbosa.

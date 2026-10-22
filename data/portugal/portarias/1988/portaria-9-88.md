@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: pt:dre:583473:por
+title: Portaria n.º 9/88
+short_title: null
+summary: Estabelece o Programa dos Centros de Formação Profissional de Agricultores, que tem como objectivo reforçar as estruturas
+  existentes de formação profissional de agricultores por forma a melhorar a sua qualificação profissional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 9/88
+official_date: null
+publication_date: '1988-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/1988, Série I de 1988-01-06
+  number: '4'
+  series: I
+  supplement: null
+  pages: 32 - 33
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/01/00400/00320033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '583473'
+  dre_path: /dr/detalhe/portaria/9-1988-583473
+  internal: pt:dre:583473:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-1988-583473
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-1988-583473
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-03-21T00:00:00Z'
+integrity:
+  source_sha256: d28f8a45b88e703ecd8438899d0dd6ed3987e722ff165fbadb321ecfa7ce2a60
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-9-583473.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:471279:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 9/88
+
+de 6 de Janeiro
+
+Considerando que no âmbito do Regulamento (CEE) n.º [3828/85](http://data.europa.eu/eli/reg/1985/3828/oj?locale=pt), que institucionalizou o Programa Específico de Desenvolvimento da Agricultura Portuguesa (PEDAP), foi aprovado pela Comissão das Comunidades Europeias um programa de centros de formação profissional de agricultores:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 9.º do Decreto-Lei n.º 96/87, de 4 de Março, o seguinte:
+
+1.º O Programa dos Centros de Formação Profissional de Agricultores, adiante designado «Programa», tem como objectivo reforçar as estruturas existentes de formação profissional de agricultores, por forma a melhorar a sua qualificação profissional, objectivo este que é também condição essencial da modernização da agricultura portuguesa.
+
+2.º As acções a empreender no âmbito deste Programa incluem:
+
+A construção de raiz de 15 novos centros de formação profissional de agricultores;
+
+A ampliação ou recuperação de 19 centros já existentes;
+
+A construção de 42 salas de formação;
+
+O equipamento de 34 centros e de 42 salas de formação;
+
+A informatização de 41 centros;
+
+O financiamento das despesas com o funcionamento de 41 centros.
+
+3.º Os investimentos efectuados com a construção e o equipamento dos centros de formação profissional de agricultores, seguidamente designados «centros», e das salas de formação, seguidamente designadas «salas», são comparticipados em 75% pelas Comunidades Europeias, sendo os restantes 25% suportados pelo Estado Português.
+
+As despesas com o funcionamento dos centros e das salas são equitativamente comparticipadas pelas Comunidades Europeias e pelo Estado Português.
+
+4.º A vigência do Programa é de seis anos.
+
+5.º O Programa é de âmbito nacional, cabendo à Direcção-Geral de Planeamento e Agricultura (DGPA) a sua coordenação.
+
+6.º O Programa concretiza-se através de sete subprogramas regionais e três subprogramas de âmbito nacional, entre os quais um de natureza florestal.
+
+7.º As direcções regionais de agricultura (DRA), a Direcção-Geral das Florestas (DGF), a DGPA e a Secretaria-Geral do MAPA (SG) são responsáveis pela execução dos respectivos subprogramas, ficando-lhes cometidas as atribuições e competências definidas no artigo 13.º do Decreto-Lei n.º 96/87, de 4 de Março.
+
+8.º Os beneficiários são os agricultores, através das suas associações ou outras organizações do domínio público, cooperativo ou privado, prevendo-se que no futuro a gestão dos centros possa ser entregue àquelas instituições.
+
+9.º Até 30 de Abril de cada ano as DRA, a DGF e a SG entregarão ao coordenador nacional o plano de actividades e o orçamento dos respectivos subprogramas para o ano seguinte, apresentado no âmbito da programação indicativa feita no Programa.
+
+10.º O coordenador nacional preparará o plano de actividades e o orçamento do Programa para o ano seguinte até 15 de Maio.
+
+11.º As obras serão executadas, conforme os casos, pelas DRA, DGF e DGPA, por adjudicação e ou por administração directa:
+
+Nas adjudicações observar-se-á o disposto no regime jurídico das empreitadas das obras públicas em vigor;
+
+Quando se trate de obras cuja especificidade o justifique, poderão os serviços referidos executá-las por administração directa.
+
+12.º A aquisição de equipamento é da competência das DRA, da DGF e da DGPA e, no caso de equipamento informático, da competência da SG.
+
+13.º Sempre que se entender conveniente, por uma questão de economia dos fundos afectos ao Programa e para uma melhor gestão dos equipamentos, poderá a DGPA proceder à aquisição de equipamentos destinados a mais de um centro.
+
+14.º Constitui excepção aos n.os 11.º, 12.º e 13.º do presente diploma a construção e o equipamento dos dois centros da Associação Portuguesa para o Desenvolvimento Rural (APDR), que são da responsabilidade da própria Associação.
+
+15.º Sempre que se torne necessário para assegurar o acompanhamento e o controle dos projectos e das obras, bem como a aquisição de equipamentos, poderão os organismos referidos no n.º 11.º desta portaria recorrer a outras entidades, nos termos da alínea f) do artigo 13.º do Decreto-Lei n.º 96/87, de 4 de Março.
+
+16.º A pedido dos gestores dos subprogramas, deverá o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) proceder à transferência, contra recibo, de uma verba inicial correspondente a um máximo de 30% do valor orçamentado para a elaboração do projecto, para a execução das obras ou para a aquisição dos equipamentos, por forma a oportunamente fazer face aos compromissos assumidos por contrato e a constituir um fundo de maneio.
+
+17.º Consideram-se elegíveis no âmbito do Programa as seguintes despesas:
+
+Estudos preliminares e projectos;
+
+Construções de raiz;
+
+Obras de adaptação, ampliação e restauro;
+
+Equipamento para as seguintes áreas:
+
+Técnico-pedagógica;
+
+Administrativa;
+
+De serviço;
+
+De internato;
+
+De informática;
+
+De maquinaria agrícola destinada especificamente à formação;
+
+De transporte.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 21 de Dezembro de 1987.**
+
+**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**

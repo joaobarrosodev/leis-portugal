@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:668312:por
+title: Portaria n.º 1255/95
+short_title: null
+summary: Altera o quadro de pessoal da Escola Nacional de Saúde Pública, da Universidade Nova de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 1255/95
+official_date: null
+publication_date: '1995-10-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 244/1995, Série I-B de 1995-10-21
+  number: '244'
+  series: I
+  supplement: null
+  pages: 6529 - 6531
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/10/244b00/65296531.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1255/1995/10/21/p/dre/pt/html
+  oj: null
+  dre: '668312'
+  dre_path: /dr/detalhe/portaria/1255-1995-668312
+  internal: pt:dre:668312:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1255-1995-668312
+  metadata_url: https://data.dre.pt/eli/port/1255/1995/10/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1255-1995-668312
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-05-18T00:00:00Z'
+integrity:
+  source_sha256: 7369bf52ca9c2db82bc1e3925669648e2645d878669b7138a4e585a26423e0d3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-1255-668312.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Escola Nacional de Saúde Pública
+- Extinção de Lugares
+- Universidade NOVA de Lisboa
+- Pessoal de BAD
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:3273894:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1255/95
+
+de 21 de Outubro
+
+Considerando que o [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, veio estabelecer o estatuto das carreiras de pessoal específicas das áreas funcionais de biblioteca e documentação e de arquivo;
+
+Ao abrigo do disposto no n.º 1 do artigo 14.º do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho:
+
+Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
+
+1.º Ao quadro de pessoal da Escola Nacional de Saúde Pública, da Universidade Nova de Lisboa, aprovado pela [Portaria n.º 31/81](https://diariodarepublica.pt/dr/detalhe/portaria/31-1981-390455), de 14 de Janeiro, com as alterações introduzidas pelas Portarias n.os [308/81](https://diariodarepublica.pt/dr/detalhe/portaria/308-1981-389384), de 31 de Março, [67/83](https://diariodarepublica.pt/dr/detalhe/portaria/67-1983-308482), de 26 de Janeiro, [1072/83](https://diariodarepublica.pt/dr/detalhe/portaria/1072-1983-432667), de 30 de Dezembro, [436/86](https://diariodarepublica.pt/dr/detalhe/portaria/436-1986-218912), de 11 de Agosto, [916/87](https://diariodarepublica.pt/dr/detalhe/portaria/916-1987-498714), de 2 de Dezembro, [147/88](https://diariodarepublica.pt/dr/detalhe/portaria/147-1988-287382), de 9 de Março, e [569/88](https://diariodarepublica.pt/dr/detalhe/portaria/569-1988-380134), de 19 de Agosto, são aditados, no que se refere à área funcional de biblioteca e documentação, os lugares constantes do mapa I anexo à presente portaria, de que faz parte integrante.
+
+2.º O quadro de pessoal da Escola Nacional de Saúde Pública, da Universidade Nova de Lisboa, no que se refere à carreira técnica superior, passa a ser o constante do mapa II anexo ao presente diploma, de que também faz parte integrante.
+
+3.º São abatidos ao quadro de pessoal da referida Escola um lugar de técnico auxiliar principal e um de técnico auxiliar de 1.ª classe da carreira de secretária-recepcionista do grupo de pessoal técnico-profissional.
+
+Ministérios das Finanças e da Educação.
+
+**Assinada em 12 de Setembro de 1995.**
+
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
+
+MAPA I
+
+Univerdade Nova de Lisboa
+
+Escola Nacional de Saúde Pública
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/244b00/65296531.pdf))](https://files.diariodarepublica.pt/1s/1995/10/244b00/65296531.pdf)
+
+MAPA II
+
+Univerdade Nova de Lisboa
+
+Escola Nacional de Saúde Pública
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/244b00/65296531.pdf))](https://files.diariodarepublica.pt/1s/1995/10/244b00/65296531.pdf)

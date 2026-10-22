@@ -1,0 +1,194 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:241396:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-154946855",
+ "dre_path": "/dr/detalhe/lei/40-1996-241396",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "1996-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922110675",
+    "154789508",
+    "154789509",
+    "154789510",
+    "154789511",
+    "154789512",
+    "154789513",
+    "154789514",
+    "154789515",
+    "154789516"
+   ]
+  },
+  {
+   "date": "1996-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215075:por",
+     "title": "Declaração de Rectificação n.º 14/96",
+     "published": "1996-09-24",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-1996-215075"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "922110675",
+    "154789508",
+    "154789509",
+    "154789510",
+    "154789511",
+    "154789512",
+    "154789513",
+    "154789514",
+    "154789515",
+    "154789516",
+    "154789517"
+   ]
+  },
+  {
+   "date": "2021-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154945778:por",
+     "title": "Lei n.º 3/2021",
+     "published": "2021-01-22",
+     "dre_path": "/dr/detalhe/lei/3-2021-154945778"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "922110675",
+    "154789508",
+    "154789509",
+    "154789510",
+    "154789511",
+    "154789512",
+    "922110730",
+    "154789514",
+    "154789515",
+    "922110731",
+    "154789517"
+   ]
+  }
+ ],
+ "fragments": {
+  "922110675": {
+   "fragment_id": "154946856",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1996-09-24",
+   "changed_by": [],
+   "markdown": "Lei n.º 40/96\n\nde 31 de Agosto\n\nRegula a audição dos órgãos de Governo próprio das Regiões Autónomas\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "154789508": {
+   "fragment_id": "154946857",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei regula a audição dos órgãos de governo próprio das Regiões Autónomas, nos termos do artigo 231.º, n.º 2, da Constituição da República Portuguesa."
+  },
+  "154789509": {
+   "fragment_id": "154946858",
+   "type": 11,
+   "heading": "Artigo 2.º — Audição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Audição\n\n1 - A Assembleia da República e o Governo ouvem os órgãos de governo próprio das Regiões Autónomas sempre que exerçam poder legislativo ou regulamentar em matérias da respectiva competência que às Regiões digam respeito.\n\n2 - Estão igualmente sujeitos a audição outros actos do Governo sobre questões de natureza política e administrativa que sejam de relevante interesse para as Regiões Autónomas."
+  },
+  "154789510": {
+   "fragment_id": "154946859",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma\n\n1 - Os órgãos de soberania solicitam a audição do competente órgão de governo próprio das Regiões Autónomas.\n\n2 - O competente órgão de governo próprio da Região Autónoma pronuncia-se através do parecer fundamentado, especialmente emitido para o efeito.\n\n3 - Sem prejuízo do disposto no número anterior, podem ser acordadas, entre os órgãos de soberania e os órgãos de governo próprio das Regiões, outras formas complementares de participação."
+  },
+  "154789511": {
+   "fragment_id": "154946860",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\nOs órgãos de soberania ouvem os órgãos de governo próprio das Regiões da forma seguinte:\n\na) Quanto aos actos legislativos e regulamentares, as assembleias legislativas regionais;\n\nb) Quanto às questões de natureza política e administrativa, os governos regionais."
+  },
+  "154789512": {
+   "fragment_id": "154946861",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informação\n\nCom os pedidos de audição devem ser remetidos elementos, trabalhos preparatórios e informações que possam habilitar os órgãos de governo próprio das regiões a pronunciarem-se."
+  },
+  "154789513": {
+   "fragment_id": "154946862",
+   "type": 11,
+   "heading": "Artigo 6.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prazo\n\nOs pareceres devem ser emitidos no prazo de 15 ou 10 dias, consoante a emissão do parecer seja da competência respectivamente da assembleia legislativa regional ou do governo regional, sem prejuízo do disposto nos estatutos político-administrativos das Regiões Autónomas ou de prazo mais dilatado previsto no pedido de audição ou mais reduzido, em caso de urgência."
+  },
+  "154789514": {
+   "fragment_id": "154946863",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações\n\nSempre que a audição tenha incidido sobre proposta concreta à qual venham a ser introduzidas alterações que a torne substancialmente diferente ou inovatória devem ser remetidas aos órgãos de governo próprio cópia das mesmas e a respectiva justificação."
+  },
+  "154789515": {
+   "fragment_id": "154946864",
+   "type": 11,
+   "heading": "Artigo 8.º — Menção obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Menção obrigatória\n\nOs actos normativos devem conter expressa referência à consulta feita à Região Autónoma e qual o sentido do parecer, quando emitido."
+  },
+  "154789516": {
+   "fragment_id": "154946865",
+   "type": 11,
+   "heading": "Artigo 9.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incumprimento\n\nA não observância do dever de audição, nos termos da presente lei, por parte dos órgãos de soberania, determina, conforme a natureza dos actos, a sua inconstitucionalidade ou ilegalidade."
+  },
+  "154789517": {
+   "fragment_id": "154946866",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Julho de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 10 de Agosto de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 14 de Agosto de 1996.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "922110730": {
+   "fragment_id": "154946862",
+   "type": 11,
+   "heading": "Artigo 6.º — Prazo",
+   "in_force_from": "2021-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/3-2021-154945778), em vigor a partir de 2021-01-23"
+   ],
+   "markdown": "###### Artigo 6.º — Prazo\n\n1 - Os pareceres devem ser emitidos no prazo de 20 ou 15 dias, consoante a emissão do parecer seja da competência respetivamente da Assembleia Legislativa ou do governo regional, sem prejuízo do disposto nos estatutos político-administrativos das Regiões Autónomas.\n\n2 - O prazo previsto no número anterior pode ser dilatado, sempre que a complexidade da matéria em questão assim o justifique, ou reduzido, em caso de urgência devidamente fundamentada e declarada pelo órgão de soberania, não podendo ser inferior a cinco dias.\n\n3 - Os órgãos de governo próprio das Regiões Autónomas podem, mediante decisão devidamente fundamentada, solicitar a prorrogação do prazo para emissão do parecer.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/3-2021-154945778), em vigor a partir de 2021-01-23"
+  },
+  "922110731": {
+   "fragment_id": "154946865",
+   "type": 11,
+   "heading": "Artigo 9.º — Incumprimento",
+   "in_force_from": "2021-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/3-2021-154945778), em vigor a partir de 2021-01-23"
+   ],
+   "markdown": "###### Artigo 9.º — Incumprimento\n\nA não observância do dever de audição ou o desrespeito dos prazos, nos termos da presente lei, por parte dos órgãos de soberania, determina a sua inconstitucionalidade ou ilegalidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/3-2021-154945778), em vigor a partir de 2021-01-23"
+  }
+ }
+}

@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:462241:por
+title: Decreto-Lei n.º 458/80
+short_title: null
+summary: Altera o texto da Pauta dos Direitos de Importação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 458/80
+official_date: null
+publication_date: '1980-10-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 235/1980, Série I de 1980-10-10
+  number: '235'
+  series: I
+  supplement: null
+  pages: 3308 - 3308
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23500/33083308.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '462241'
+  dre_path: /dr/detalhe/decreto-lei/458-1980-462241
+  internal: pt:dre:462241:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1980-462241
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1980-462241
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-06-28T00:00:00Z'
+integrity:
+  source_sha256: de8772f66dfc79b42c49c7793b0dcabed2459a27af542a19b88c281f69dc18cc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-458-462241.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:452568:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 1
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 458/80
+
+de 10 de Outubro
+
+Tendo em vista o regime previsto no artigo 3.º do Protocolo Complementar ao Acordo entre Portugal e a Comunidade Económica Europeia o disposto na Decisão do Conselho da AECL n.º 11 de 1979 e nas alíneas a) e c) do artigo 17.º do anexo P ao Acordo entre os países da Associação Europeia de Comércio Livre e a Espanha, autorizando Portugal a introduzir ou a aumentar direitos para produtos destinados às indústrias novas;
+
+Considerando o disposto no artigo 18.º do anexo P ao Acordo entre os países da AECL e a Espanha
+
+Considerando a modificação da Pauta de Importação resultante da substituição das taxas específicas por taxas ad valorem operada pelo [Decreto-Lei n.º 204-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1980-201634), de 28 de Junho;
+
+Usando da autorização conferida pela alínea a) do artigo 22.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio:
+
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O texto da Pauta dos Direitos de Importação é alterado como segue:
+
+1) Ao capítulo 70.º («Vidro e suas obras») é aditada a nota *5, com a seguinte redacção:
+
+### CAPÍTULO 70.º
+
+Notas:
+
+...
+
+*5 - Na acepção do artigo pautal 70.20.02 considera-se:
+
+a) Mat - manta em filamentos cortados e aglomerados com um aglutinante;
+
+b) Roving - mecha de filamentos contínuos, não torcidos, enrolados em bobinas ou carretéis.
+
+2) As actuais subposições 70.20.02 a 70.20.05 passam, respectivamente, a 70.20.03 a 70.20.06.
+
+3) A subposição 70.20.01 é alterada pela forma seguinte:
+
+70.20 ...
+
+01 Em rama, em manta, em pasta, em mecha, em fio, em fita e em tecido, acondicionadas ou não em carretéis, próprias para reforçar resinas, com excepção do mat e do roving, definidos na nota *5 a este capítulo:
+
+Pauta máxima - 3$20 por quilograma;
+
+Pauta mínima - 1$60 por quilograma.
+
+Nota. - ...
+
+4) É introduzida a subposição 70.20.02, com a seguinte redacção:
+
+70.20 ...
+
+02 Mat e roving:
+
+Pauta máxima - 40% ad valorem;
+
+Pauta mínima - 20% ad valorem.
+
+5) A posição 76.02 é desdobrada em duas subposições, como segue:
+
+76.02 ...
+
+01 Fio-máquina:
+
+Pauta máxima - 40% ad valorem;
+
+Pauta mínima - 20% ad valorem.
+
+02 Não especificados:
+
+Pauta máxima - 40% ad valorem;
+
+Pauta mínima - 20% ad valorem.
+
+###### Art. 2.º - 1 - As taxas dos novos artigos pautais 70.20.02 e 76.02.01 passam a constituir direitos de base para os produtos originários da Comunidade Económica Europeia, da Associação Europeia de Comércio Livre e da Espanha.
+
+2 - Quanto aos restantes artigos pautais indicados no presente diploma, mantêm-se os direitos de base que lhes correspondiam.
+
+###### Art. 3.º - 1 - Os direitos dos artigos pautais 70.20.02 e 76.02.01, quando aplicados aos produtos originários da CEE e da AECL, serão eliminados nas proporções e segundo o calendário seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23500/33083308.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23500/33083308.pdf)
+
+2 - O direito do artigo pautal 70.20.02, quando aplicado aos produtos originários da Espanha, será reduzido nas proporções e segundo o calendário seguintes:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23500/33083308.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23500/33083308.pdf)
+
+3 - O direito do artigo pautal 76.02.01, quando aplicado aos produtos originários da Espanha, será reduzido de 5% em 1 de Julho de 1983.
+
+4 - A eliminação do remanescente dos direitos, após as reduções referidas nos n.os 2 e 3, será efectuada a partir de 30 de Junho de 1984, em condições a negociar nos termos do anexo P ao Acordo AECL/Espanha.
+
+###### Art. 4.º O presente diploma entra em vigor no décimo dia a partir da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 30 de Setembro de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

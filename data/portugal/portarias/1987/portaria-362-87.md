@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:421201:por
+title: Portaria n.º 362/87
+short_title: null
+summary: Regulamenta o novo sistema de crédito à aquisição de habitação. Revoga a Portaria n.º 562-A/86, de 30 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 362/87
+official_date: null
+publication_date: '1987-05-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 100/1987, Série I de 1987-05-02
+  number: '100'
+  series: I
+  supplement: null
+  pages: 1818 - 1821
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421201'
+  dre_path: /dr/detalhe/portaria/362-1987-421201
+  internal: pt:dre:421201:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1987-421201
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1987-421201
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-08-10T00:00:00Z'
+integrity:
+  source_sha256: 59f3a815f421cf02c12984de9f31a9276cabd169117d7b7dd417ee753e230267
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-362-421201.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:573521:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 362/87
+
+de 2 de Maio
+
+O novo sistema de crédito à aquisição, construção, beneficiação, recuperação e ampliação de casa própria para habitação permanente, secundária ou para arrendamento e à aquisição de terreno para a construção de habitação própria permanente, instituído pelo [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, e regulado pela [Portaria n.º 562-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/562-a-1986-148781), de 30 de Setembro, entrou em vigor há seis meses, período mínimo adequado para aferir da sua eficácia e introduzir os ajustamentos que eventualmente se tenham verificado necessários.
+
+Reconhecendo os parceiro sociais como adequados os princípios que fundamentam o novo sistema instituído, consideraram, no entanto, os parâmetros de acesso aos regimes apoiados como limitativos em alguns escalões.
+
+A este propósito, e sem prejuízo de ajustamentos que o Governo entende ser necessário introduzir tendentes à sua melhoria e eficácia, registe-se que o sistema de crédito à habitação deve desempenhar o papel fundamental de regulador do mercado, sobretudo em períodos de desequilíbrio, sob pena de se comprometer toda uma política de habitação que se pretende orientada numa perspectiva social.
+
+O reajustamento dos índices de localização a utilizar para as áreas metropolitanas de Lisboa e do Porto e concelhos sede de distrito, bem como a melhoria das condições de acesso aos jovens, constituem os principais objectivos da presente portaria.
+
+Assim:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, nos termos e em execução do disposto no artigo 8.º, n.º 2, do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, o seguinte:
+
+1.º - a) O valor das habitações que permite o acesso ao regime bonificado, a que se refere o n.º 2 do artigo 8.º, depende do preço de construção, da localização da habitação e da dimensão de cada agregado familiar, sendo determinado de acordo com a seguinte fórmula:
+
+VH = 4200 contos x IL x IC
+
+b) Sendo:
+
+VH = valor da habitação, em função da localização e dimensão do agregado familiar, em contos, arredondado para a centena imediatamente superior;
+
+IL = índice de localização da habitação, consoante a zona do País;
+
+IC = índice de correcção, em função da dimensão do agregado familiar.
+
+c) Os índices de localização e de correcção são definidos, respectivamente, nas tabelas I e II anexas a presente portaria.
+
+2.º O valor da taxa de esforço máxima que condiciona o montante dos empréstimos a conceder para a aquisição de casa própria permanente no regime de crédito bonificado, a que se refere o n.º 1 do artigo 10.º, é estabelecido em um terço.
+
+3.º - a) O regime de amortizarão em prestações progressivas com capitalização parcial de juros e respectivos modelos de cálculo, nos termos do n.º 3 do artigo 10.º, é o seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+
+b) A percentagem z é fixada em 43%, à excepção do último ano do contrato, em que será igual a 100%.
+
+c) A percentagem z referida na alínea anterior será revista para um valor superior a partir de 1 de Outubro de 1987 ou antes, se as alterações da taxa de juro assim o justificarem.
+
+4.º - a) O regime de bonificação e respectivas condições para os empréstimos a conceder para a aquisição de habitação própria permanente no regime de crédito bonificado, a que se refere o n.º 4 do artigo 10.º, é definido de acordo com a tabela III anexa ao presente diploma.
+
+b) Os rendimentos anuais brutos corrigidos dos agregados familiares consoante a sua dimensão, a que se refere o n.º 4 do artigo 10.º, são os constantes da tabela IV anexa ao presente diploma.
+
+5.º Nos termos do n.º 1 do artigo 12.º, a comprovação do rendimento anual bruto e da dimensão do agregado familiar deverá ser comunicada à instituição de crédito mutuante, acompanhada das declarações conforme os modelos anexos ao presente diploma, até dois meses antes da data do início do período anual seguinte do empréstimo.
+
+6.º O reajustamento a que se refere o n.º 6 do artigo 10.º ocorrerá a partir do início do período anual seguinte da vida do empréstimo, tendo, no entanto, em conta, para efeitos de determinação do valor da bonificação a aplicar, o prazo do empréstimo já decorrido, de acordo com as condições definidas na tabela III anexa ao presente diploma.
+
+7.º O regime de bonificação e respectivas condições dos empréstimos a conceder para a aquisição de habitação própria permanente no regime de crédito jovem bonificado, a que se refere a alínea c) do artigo 15.º, é definido de acordo com a tabela III anexa ao presente diploma.
+
+8.º O montante dos empréstimos a conceder pelas instituições de crédito para a aquisição de terrenos, a que se refere o n.º 1 do artigo 20.º, não pode ser superior a 10% do valor da habitação a construir, calculado nos termos do n.º 1.º da presente portaria, nem a 40% do valor do contrato-promessa de compra e venda.
+
+9.º Sempre que os mutuários reúnam as condições previstas no artigo 13.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, os limites fixados no número anterior são, respectivamente, de 15% ou 60%.
+
+10.º - a) Os parâmetros e valores a seguir discriminados serão objecto de sucessivas revisões por portaria, de modo a ter em devida conta a evolução da política de habitação e as restrições da política orçamental:
+
+4200000$00 referidos na alínea a) do n.º 1.º;
+
+120000$00, 240000$00, 360000$00 e 480000$00 referidos na tabela IV;
+
+Os escalões de rendimento anual referidos na tabela III;
+
+A percentagem de bonificação b(índice k) referida na tabela III;
+
+O coeficiente z referido no n.º 3.º
+
+b) As alterações referidas na alínea anterior só produzirão efeitos para os pedidos de empréstimo autorizados após a data em que ocorram aquelas alterações.
+
+11.º As condições estabelecidas na presente portaria só se aplicam aos pedidos de crédito autorizados a partir da data da sua publicação.
+
+12.º É revogada a [Portaria n.º 562-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/562-a-1986-148781), de 30 de Setembro.
+
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 10 de Abril de 1987.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+
+TABELA I
+
+Índices de localização segundo as zonas do País, a que se refere a alínea c) do n.º 1.º da Portaria n.º 362/87, de 2 de Maio.
+
+Índices de localização
+
+Zona I:
+
+Concelhos de Lisboa e do Porto ... 1,00
+
+Zona II:
+
+Concelhos sedes de distrito não incluídos na zona I ... 1,00
+
+Concelhos de Amadora, Oeiras, Loures, Cascais, Sintra, Vila Franca de Xira, Matosinhos, Gondomar, Vila Nova de Gaia, Valongo, Maia, Vila do Conde, Póvoa do Varzim, Almada, Barreiro, Seixal, Moita e Montijo ... 1,00
+
+Concelhos de Torres Vedras, Alenquer, Santiago do Cacém, Sines, Espinho, Ílhavo, São João da Madeira, Guimarães, Covilhã, Figueira da Foz, Lagos, Olhão, Loulé, Albufeira, Vila Real de Santo António, Portimão, Caldas da Rainha, Peniche, Elvas, Entroncamento, Torres Novas, Tomar, Chaves, Peso da Régua, Sesimbra, Palmela, Silves, Abrantes e Estremoz ... 0,88
+
+Zona III:
+
+Restantes concelhos do continente ... 0,80
+
+TABELA II
+
+Índices de correcção em função da dimensão do agregado familiar, a que se refere a alínea c) do n.º 1 da Portaria n.º 362/87, de 2 de Maio.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+
+TABELA III
+
+Regime de bonificação e condições de acesso, a que se referem os n.os 4.º e 7.º da Portaria n.º 362/87, de 2 de Maio
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+
+TABELA IV
+
+Rendimentos anuais brutos corrigidos dos agregados familiares consoante a sua dimensão, a que se refere a alínea b) do n.º 4.º da Portaria n.º 362/87, de 2 de Maio.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf))](https://files.diariodarepublica.pt/1s/1987/05/10000/18181821.pdf)
+
+Modelo de declaração a que se refere o n.º 5.º da Portaria n.º 362/87, de 2 de Maio
+
+(Carta registada com aviso de recepção ou com protocolo de recepção)
+
+(Instituição de crédito mutuante)
+
+Exmos. Senhores:
+
+Para efeitos do disposto no n.º 5.º da Portaria n.º .../87, de ... de ..., eu, abaixo assinado, ..., declaro que:
+
+1) O meu agregado familiar é composto, nos termos das alíneas b) e c) do artigo 4.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, por:
+
+... (nome), ... (parentesco);
+
+2) O rendimento anual bruto do agregado familiar, nos termos definidos na alínea f) do artigo 4.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, foi de ...$... no ano de ..., conforme fotocópia da declaração do imposto complementar (ou conforme fotocópia dos elementos oficiais adequados);
+
+3) ...
+
+... (local e data).
+
+... (assinatura reconhecida).
+
+Elementos que fazem parte do agregado familiar que não sejam descendentes menores
+
+(Instituição de crédito mutuante)
+
+Exmos. Senhores:
+
+Eu, abaixo assinado, ..., declaro que faço parte integrante do agregado familiar de ..., vivendo em regime de comunhão de mesa e habitação.
+
+Mais declaro, para os devidos efeitos, que o meu rendimento anual bruto, nos termos definidos na alínea f) do artigo 4.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, foi de ...$... no ano de ..., conforme fotocópia da declaração do imposto complementar (ou conforme fotocópia dos elementos oficiais adequados).
+
+... (local e data).
+
+... (assinatura reconhecida).

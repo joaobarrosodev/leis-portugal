@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:297853:por
+title: Decreto-Lei n.º 174/78
+short_title: null
+summary: Reforça o efectivo do Posto da Polícia de Segurança Pública da vila de Moncorvo e aumenta o quadro da Polícia de
+  Segurança Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna - Comando-Geral da Polícia de Segurança Pública
+proposing_entity: null
+official_number: 174/78
+official_date: null
+publication_date: '1978-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/1978, Série I de 1978-07-10
+  number: '156'
+  series: I
+  supplement: null
+  pages: 1277 - 1277
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15600/12771277.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '297853'
+  dre_path: /dr/detalhe/decreto-lei/174-1978-297853
+  internal: pt:dre:297853:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1978-297853
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1978-297853
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: d0f3d2a4be9fb6d1e63d526a43913ff9b98aafbb7818299d5ce154a3362d11f9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-174-297853.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 174/78
+
+de 10 de Julho
+
+Considerando o actual grau de desenvolvimento industrial e populacional da vila de Moncorvo;
+
+Considerando que na localidade poderá a PSP contar com instalações capazes de suportar um maior efectivo policial;
+
+Considerando de prioridade dotar a referida vila com um efectivo policial compatível com o estudo em curso sobre reestruturação da Polícia de Segurança Pública;
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O efectivo do Posto da Polícia de Segurança Pública da vila de Moncorvo passa a ser de:
+
+Dois subchefes;
+
+Vinte guardas.
+
+###### Art. 2.º Para o efeito, o quadro actual da Polícia de Segurança Pública é aumentado dos elementos seguintes:
+
+Um subchefe;
+
+Catorze guardas.
+
+###### Art. 3.º Para satisfação dos encargos resultantes deste diploma utilizar-se-ão, no corrente ano, as disponibilidades que venham a verificar-se nas respectivas dotações orçamentais.
+
+Mário Soares - Vítor Manuel Ribeiro Constâncio - Jaime José Matos da Gama.
+
+**Promulgado em 21 de Junho de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Cálculo dos encargos anuais a haver com o reforço de efectivos do Posto da PSP na vila de Moncorvo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/15600/12771277.pdf))](https://files.diariodarepublica.pt/1s/1978/07/15600/12771277.pdf)
+
+**O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Administração Interna, Jaime José Matos da Gama.**

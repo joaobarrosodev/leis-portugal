@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:474146:por
+title: Decreto-Lei n.º 150/80
+short_title: null
+summary: Proíbe os cortes e arrancamentos de árvores e arvoredo em prédios rústicos expropriados e nacionalizados ao abrigo
+  da Reforma Agrária
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 150/80
+official_date: null
+publication_date: '1980-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/1980, Série I de 1980-05-23
+  number: '119'
+  series: I
+  supplement: null
+  pages: 1130 - 1131
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11900/11301131.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '474146'
+  dre_path: /dr/detalhe/decreto-lei/150-1980-474146
+  internal: pt:dre:474146:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-03-03T00:00:00Z'
+integrity:
+  source_sha256: 9f7e4b16e4fdb160391f6a3534c2784865f579a5a30b661b44a1a594693bf5fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-150-474146.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:612834:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 150/80
+
+de 23 de Maio
+
+A conservação e desenvolvimento do património florestal nacional é tarefa de que o Governo não pode alhear-se, importando prevenir, enquanto não se ultima a revisão global do regime jurídico que as realidades nacionais impõem no âmbito florestal, as situações em que com mais facilidade esse património possa ser degradado e destruído.
+
+Face à publicação de novas medidas legislativas referentes à alienação de cortiças extraídas dos montados de sobro nacionalizados e expropriados, importa articular correctamente os instrumentos legais em vigor.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:
+
+###### Artigo 1.º São proibidos os cortes ou arrancamento de árvores e arvoredo em prédios rústicos expropriados ou nacionalizados ao abrigo da Reforma Agrária.
+
+###### Art. 2.º - 1 - A proibição do número anterior poderá ser afastada, caso a caso, mediante autorização especial dos serviços regionais dependentes da Direcção-Geral do Ordenamento e Gestão Florestal, a solicitação devidamente fundamentada por quem tenha interesse legítimo nas operações requeridas.
+
+2 - A autorização a que se refere o número anterior será precedida de informação da direcção regional de agricultura da região em causa.
+
+###### Art. 3.º Aqueles que infringirem o disposto no artigo 1.º do presente diploma incorrerão em responsabilidade civil, sem prejuízo da responsabilidade penal que ao caso couber.
+
+###### Art. 4.º - 1 - Compete à Direcção-Geral do Ordenamento e Gestão Florestal assegurar o cumprimento do determinado neste diploma.
+
+2 - As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro da Agricultura e Pescas.
+
+###### Art. 5.º - 1 - É revogado o [Decreto-Lei n.º 266/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1978-299222), de 30 de Agosto.
+
+2 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 24 de Abril de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 9 de Maio de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

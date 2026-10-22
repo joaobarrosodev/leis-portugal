@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:139719:por
+title: Decreto-Lei n.º 128/77
+short_title: null
+summary: Redefine o âmbito da actividade do Fundo de Fomento Florestal no que diz respeito à natureza dos seus beneficiários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 128/77
+official_date: null
+publication_date: '1977-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 78/1977, Série I de 1977-04-02
+  number: '78'
+  series: I
+  supplement: null
+  pages: 682 - 683
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/04/07800/06820683.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '139719'
+  dre_path: /dr/detalhe/decreto-lei/128-1977-139719
+  internal: pt:dre:139719:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1977-139719
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1977-139719
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-04-02T00:00:00Z'
+integrity:
+  source_sha256: fa71459abed1e5aed78f5807620bf609939eb5ca85b5abab5ad746adb232d525
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-128-139719.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 128/77
+
+de 2 de Abril
+
+Dadas as alterações nas estruturas da propriedade dos meios de produção introduzidas pela Constituição, com largo reflexo, ao nível do sector agrário, em vastas regiões do País, torna-se necessário redefinir o âmbito da actividade do Fundo de Fomento Florestal no que diz respeito à natureza dos seus beneficiários. É este o propósito do presente diploma.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O Fundo de Fomento Florestal pode conceder apoio técnico, financeiro e executivo à arborização e ao estabelecimento de pastagens em regime silvo-pastoril, em terrenos de aptidão não agrícola, bem como à constituição das correspondentes infra-estruturas, seja público, cooperativo ou privado o sector de propriedade em que esses terrenos se encontrem integrados.
+
+###### Art. 2.º - 1. Para efeitos do disposto no artigo anterior, os custos da instalação de povoamentos florestais e da construção das infra-estruturas respectivas em áreas do sector público geridas pelo Estado ou entregues, para exploração, a qualquer das entidades enumeradas no artigo 97.º da Constituição constituem auto-investimento do próprio Estado.
+
+2. Para a concessão de crédito destinado à instalação ou melhoramentos de pastagens em regime de silvo-pastorícia nas áreas do sector público referidas no número anerior, o Fundo de Fomento Florestal aceitará garantias dos tipos previstos na lei que regulamentar as operações creditícias a favor das entidades mencionadas no mesmo número.
+
+###### Art. 3.º - 1. O crédito a conceder pelo Fundo de Fomento Florestal a autarquias locais para beneficiação, nos termos do artigo 1.º, de prédios sob sua gestão não carece de aprovação do Governo, pelo Ministério das Finanças, e é dispensado do limite estabelecido no artigo 674.º do Código Administrativo.
+
+2. O crédito referido no número anterior será reembolsado nas condições acordadas entre a autarquia e o Fundo de Fomento Florestal, ficando garantido pelos rendimentos provenientes das benfeitorias financiadas.
+
+###### Art. 4.º - 1. Sempre que a assembleia de compartes de um baldio opte pela forma de administração prevista na alínea a) do artigo 9.º do [Decreto-Lei n.º 39/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1976-506039), de 19 de Janeiro, é o Fundo de Fomento Florestal o serviço competente do Ministério da Agricultura e Pescas para as acções de arborização e de fomento silvo-pastoril cometidas ao Estado pela alínea b) do artigo 12.º daquele decreto-lei.
+
+2. A pedido dos conselhos directivos dos baldios sujeitos à forma de administração referida no número anterior, pode o Fundo de Fomento Florestal financiar e executar as acções referidas no mesmo número.
+
+3. O reembolso ao Estado das despesas havidas na hipótese referida no n.º 2 será efectuado pelo processo constante da alínea a) do artigo 15.º do [Decreto-Lei n.º 39/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1976-506039).
+
+###### Art. 5.º - 1. Quando os terrenos baldios sejam administrados de acordo com a modalidade da alínea b) do artigo 9.º do [Decreto-Lei n.º 39/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1976-506039), é o Fundo de Fomento Florestal o serviço do Ministério da Agricultura e Pescas ao qual compete, nos termos da alínea b) do artigo 13.º do mesmo decreto-lei, propor os planos de arborização e de fomento silvo-pastoril e executar os programas anuais destinados a dar-lhes cumprimento.
+
+2. As despesas efectuadas pelo Fundo de Fomento Florestal na sua missão executora serão, neste caso, reembolsadas ao Estado nas condições expressas na alínea b) do artigo 15.º do [Decreto-Lei n.º 39/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1976-506039).
+
+###### Art. 6.º - 1. Os trabalhos de arborização ou de beneficiação silvo-pastoril, a executar nos terrenos baldios sujeitos ao regime florestal relativamente aos quais se não encontre ainda cumprido o disposto no n.º 1 do artigo 18.º do [Decreto-Lei n.º 39/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1976-506039), serão custeados e realizados pelo Fundo de Fomento Florestal.
+
+2. O reembolso ao Estado das despesas efectuadas ao abrigo do n.º 1 far-se-á de acordo com as modalidades previstas no diploma nele citado.
+
+###### Art. 7.º - Em qualquer dos casos especificados nos artigos 4.º, 5.º e 6.º, o mecanismo de reembolso previsto considera-se suficiente para assegurar os créditos concedidos pelo Estado, dispensando-se a prestação de quaisquer outras garantias.
+
+###### Art. 8.º - 1. A título transitório, enquanto não forem promulgadas as disposições legais eventualmente necessárias nos termos do n.º 2 do artigo 2.º deste diploma, o Fundo de Fomento Florestal pode conceder às entidades especificadas no mesmo artigo crédito para instalação ou melhoramento de pastagens em regime silvo-pastoril, independentemente da prestação imediata de qualquer tipo de garantia.
+
+2. Os contratos celebrados nos termos do n.º 1 ficam, todavia, sujeitos, quanto a garantias, às condições que vierem a ser previstas no regulamento referido no n.º 2 do artigo 2.º, tendo os mutuários o direito de optar pela modalidade da sua preferência.
+
+Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - António Miguel Morais Barreto.
+
+**Promulgado em 22 de Março de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:313045:por
+title: Despacho Normativo n.º 84/83
+short_title: null
+summary: Fixa os preços máximos do café bebida e do carioca de café em 12$50 e 15$00, respectivamente ao balcão e à mesa
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, Comércio e Pescas - Secretaria de Estado do Comércio
+proposing_entity: null
+official_number: 84/83
+official_date: null
+publication_date: '1983-04-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/1983, Série I de 1983-04-09
+  number: '82'
+  series: I
+  supplement: null
+  pages: 1236 - 1236
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/04/08200/12361236.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '313045'
+  dre_path: /dr/detalhe/despacho-normativo/84-1983-313045
+  internal: pt:dre:313045:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1983-313045
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1983-313045
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-04-09T00:00:00Z'
+integrity:
+  source_sha256: a68c96bb4fd344d79cb66156f156492abb78b523825d6d7140f26a04476a94a8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-84-313045.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 84/83
+
+Ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e no n.º 1.º da [Portaria n.º 414/83](https://diariodarepublica.pt/dr/detalhe/portaria/414-1983-313039), de 9 de Abril, determina-se o seguinte:
+
+1.º Os preços máximos do café bebida e do carioca de café, confeccionados com café puro e servidos nos estabelecimentos do quadro I anexo à [Portaria n.º 414/83](https://diariodarepublica.pt/dr/detalhe/portaria/414-1983-313039), de 9 de Abril, são os seguintes:
+
+Ao balcão (com ou sem bancos) - 12$50.
+
+À mesa - 15$00.
+
+2.º Os preços fixados no número anterior abrangem todo e qualquer processo de preparação.
+
+3.º É considerada recusa de venda, nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a recusa de prestação do serviço de café bebida aos preços indicados no n.º 1.º só podendo ser servidos a bica dupla e o serviço de café desde que expressamente solicitados pelo consumidor.
+
+Secretaria de Estado do Comércio, 23 de Março de 1983. - O Secretário de Estado do Comércio, António Escaja Gonçalves.

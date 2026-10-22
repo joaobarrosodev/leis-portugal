@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: pt:dre:170893:por
+title: Acórdão doutrinário
+short_title: null
+summary: Proferido no processo n.º 57786
+jurisdiction: portugal
+territory: null
+document_type: acordao-doutrinario
+document_type_label: Acórdão Doutrinário
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1961-05-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 118/1961, Série I de 1961-05-20
+  number: '118'
+  series: I
+  supplement: null
+  pages: 616 - 618
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/05/11800/06160618.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '170893'
+  dre_path: /dr/detalhe/acordao-doutrinario/1961-170893
+  internal: pt:dre:170893:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1961-170893
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1961-170893
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1961-05-20T00:00:00Z'
+integrity:
+  source_sha256: 0e4cbf23729fbf76e53e31190de07eae0aa4b4c1023ed2d84ec7caf4d1713616
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-170893.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão doutrinário
+
+Processo n.º 57786. - Autos de revista vindos da Relação de Lisboa. Recorrente para o tribunal pleno, A Pátria, Companhia Alentejana de Seguros. Recorrida, massa falida de José de Matos Cosme Pereira.
+
+A massa falida de José de Matos Cosme Pereira veio a juízo pedir que A Pátria, Companhia Alentejana de Seguros, seja condenada no pagamento da quantia de 2806314$90, total do montante dos prejuízos resultantes do incêndio ocorrido no dia 25 de Agosto de 1953 na fábrica do falido, segura na Companhia recorrente pela apólice n.º 133885. A recorrente não fez o pagamento dos prejuízos indicados, sob a alegação de o contrato de seguro estar nulo.
+
+A Companhia ré contestou o pedido, alegando:
+
+O contrato de seguro em que a autora baseia o seu pedido não se encontrava em vigor à data do sinistro em virtude de o segurado, o falido Cosme Pereira, não ter pago a anuidade do prémio vencido em 29 de Janeiro de 1953. Propôs ao segurado, por carta de 3 de Julho de 1953, para o prémio em dívida, bem como de outros seguros, ser pago em três prestações, mas esta carta e uma outra que remeteu em 22 de Julho do dito ano ficaram sem resposta, pelo que avisou o segurado, por carta registada de 3 de Agosto de 1953, de que ia usar da faculdade conferida pela cláusula 3.ª das condições gerais da apólice, em conformidade com o preceituado no Código Comercial e nas condições gerais da apólice.
+
+À data do incêndio encontravam-se suspensos todos os efeitos do contrato de seguro, em harmonia com a citada cláusula 3.ª, aplicável por força do disposto no artigo 427.º do Código Comercial.
+
+Na réplica a autora impugna a tese da ré sobre a validade da cláusula 3.ª da apólice, em face do preceituado no artigo 445.º do Código Comercial.
+
+A ré na tréplica diz que a citada cláusula não contraria o disposto no artigo 445.º, e por ela devem regular-se as relações entre seguradora e segurado, nos termos do artigo 427.º do Código Comercial.
+
+A acção foi julgada procedente em parte. Esta sentença foi confirmada pela Relação, excepto quanto a custas. Este Supremo Tribunal no acórdão de fl. 724 negou a revista. Deste acórdão recorreu A Pátria para o tribunal pleno, com o fundamento de existir oposição entre ele e o proferido em 20 de Dezembro de 1949, publicado na Revista dos Tribunais, ano 68, p. 89.
+
+No acórdão de fl. 773 este tribunal julgou existir a oposição alegada.
+
+As partes minutaram e contraminutaram.
+
+A recorrente, na sua alegação, formula as seguintes conclusões:
+
+1.ª A disposição legal contida no artigo 445.º e seu parágrafo do Código Comercial é de natureza supletiva, e não preceptiva;
+
+2.ª Ainda que se entenda ter a referida disposição legal natureza preceptiva, a mesma não proíbe que, contratualmente, se estabeleça a interrupção dos efeitos de um contrato de seguro enquanto o prémio não estiver pago, hipótese esta que não é proibida nem mesmo contemplada naquele artigo 445.º Consequentemente:
+
+3.ª É válida a cláusula 3.ª da apólice de seguro a que os autos se referem, pelo que:
+
+4.ª Em virtude da carta registada que a recorrente enviou ao segurado em 3 de Agosto de 1953, e visto que na data em que ocorreu o sinistro o prémio do seguro se não encontrava pago, o contrato de seguro achava-se suspenso, pelo que nenhuma indemnização era nem é exigível à recorrente em consequência do contrato.
+
+No final da alegação pede a recorrente para se proferir assento que decida em harmonia com as conclusões 1.ª e 2.ª, revogando-se o acórdão de fl. 724 e, consequentemente, julgando-se a acção improcedente.
+
+A recorrida, na conclusão da sua contraminuta, diz que entre os dois acórdãos não existe oposição e que, se assim se não entender, deve lavrar-se assento que julgue que o artigo 445.º do Código Comercial é uma norma de carácter preceptivo, que não pode ser contrariada por qualquer cláusula contratual.
+
+O Ministério Público, no seu parecer de fl. 797, opina pelo não provimento do recurso e formula o seu projecto de assento.
+
+O acórdão recorrido, publicado no Boletim do Ministério da Justiça n.º 91, p. 520, e o de 20 de Dezembro de 1949, este publicado no Boletim do Ministério da Justiça n.º 18, p. 347, e na Revista dos Tribunais, ano 68, p. 89, foram proferidos no domínio da mesma lei - artigo 445.º do Código Comercial - em processos diferentes, sendo de presumir o trânsito em julgado do invocado.
+
+Insiste a recorrida, na contraminuta, na afirmação de que entre os dois acórdãos não existe oposição.
+
+Não tem razão.
+
+Enquanto o acórdão de fl. 724 decidiu que a cláusula ou condição 3.ª das condições gerais da apólice n.º 133885 era nula na parte referente à suspensão dos efeitos do seguro durante o prazo do pagamento do prémio em mora, por contrariar o disposto no artigo 445.º do Código Comercial, o Acórdão de 20 de Dezembro de 1949, por seu lado, pronunciou-se sobre a legalidade ou validade da referida cláusula, isto é, julgou que a suspensão da responsabilidade do seguro até pagamento do prémio em débito não ofendia o disposto no citado artigo 445.º É manifesta, inequìvocamente, a contradição entre as duas decisões.
+
+O artigo 427.º do Código Comercial, de acordo com o princípio estabelecido anteriormente pelo artigo 672.º do Código Civil, dispõe: «O contrato de seguro regular-se-á pelas estipulações da respectiva, apólice não proibidas pela lei e, na sua falta ou insuficiência, pelas disposições deste código».
+
+Em harmonia com esta norma legal, a recorrente inseriu nas condições gerais da apólice n.º 133885, junta aos autos, sob o n.º 3.º, a seguinte condição: «O prémio será pago: no primeiro ano, no acto de entrega da apólice, e nos anos consecutivos, nos primeiros 30 dias de cada novo período anual, a contar da data da apólice, sendo devido por inteiro desde o primeiro dia e hora que começar o risco; não se cumprindo esta condição, o segurado será avisado, por carta registada ou por algum dos meios usados em direito, a pagar o prémio em atraso dentro de 30 dias posteriores ao aviso, suspendendo-se os efeitos do seguro enquanto o pagamento se não realizar, considerando-se insubsistente depois de decorrido o referido prazo de 30 dias». Segundo diz a recorrente, esta cláusula foi inserida nas condições gerais da apólice, ao abrigo do artigo 427.º do Código Comercial, e não ofende o disposto no artigo 445.º do dito código, norma que classifica de supletiva. Não é assim, pois o preceito é expresso e categórico nas regras que estabelece para o caso de o prémio do seguro não ter sido pago no prazo convencionado no contrato.
+
+O artigo 445.º prevê claramente o caso de o segurado não pagar no prazo fixado na apólice o respectivo prémio e estabelece que nesta hipótese considerar-se-á insubsistente o contrato se, depois de avisado o segurado, por carta registada ou por algum dos meios usados em direito, este, dentro de 30 dias posteriores ao aviso, não satisfizer aquele prémio. O § único do artigo 445.º contempla o facto de o segurador não usar da faculdade concedida no artigo, e se proceder desta forma o contrato considera-se subsistente, ficando-lhe salvo o direito ao prémio atrasado e aos juros de mora.
+
+Não pressupõe o artigo 445.º a suspensão dos efeitos do seguro durante o prazo de 30 dias que estabelece para pagamento do prémio em atraso, e daqui inferir-se que o contrato de seguro legalmente celebrado, ou está em pleno vigor a produzir todos os seus efeitos, ou considera-se insubsistente por o segurado, depois de avisado por carta registada ou interpelação judicial, não liquidar o prémio em dívida. Em regime de suspensão temporária é que o contrato de seguro nunca pode estar, em virtude de a lei nem tácita nem expressamente admitir tal regime.
+
+Durante o prazo de 30 dias posteriores ao aviso ou interpelação o segurado pode efectuar o pagamento do prémio em débito em qualquer dia do mencionado prazo sem consequências para si, mas, passado esse prazo sem ter feito o pagamento, então o contrato considera-se insubsistente.
+
+A letra do artigo 445.º deixa ver que se trata de uma norma preceptiva, e por isso mesmo não é admissível qualquer alteração ao seu conteúdo por simples vontade das partes.
+
+No caso dos autos tem aplicação a ressalva do artigo 427.º sobre as estipulações da respectiva apólice proibidas por lei.
+
+Em face da natureza preceptiva deste preceito, não podem deixar de classificar-se de nulas as cláusulas das apólices de seguro que determinam a suspensão dos efeitos do seguro enquanto não for pago o prémio em dívida.
+
+Como consequência do que fica exposto, a condição 3.ª das condições gerais da apólice n.º 133885, que estabelece a suspensão dos efeitos do seguro durante o prazo para pagamento do prémio atrasado, é nula na parte referente à aludida suspensão, por ofender a regra fixada do artigo 445.º do Código Comercial.
+
+Nestes termos, negam provimento ao recurso e formularam o seguinte assento:
+
+É nula, por contrária à norma preceptiva do artigo 445.º do Código Comercial, a cláusula da apólice de seguro que declara suspensos os efeitos do contrato durante o prazo de 30 dias a que esse artigo se refere.
+
+Condenam nas custas a recorrente, A Pátria, Companhia Alentejana de Seguros.
+
+Lisboa, 28 de Abril de 1961. - Morais Cabral - Sousa Monteiro - Pinto de Vasconcelos - Fernando Toscano Pessoa - Carlos de Miranda - Dá Mesquita - Eduardo Coimbra - Amorim Girão - Amílcar Ribeiro - Mário Cardoso - José Avelino Moreira - Alfredo José da Fonseca - Lopes Cardoso (vencido. Votei que a disposição do artigo 445.º é puramente supletiva perante a letra clara do artigo 427.º do Código Comercial. Aí diz que o contrato de seguro se regula, em primeiro lugar, pelas cláusulas da apólice não proibidas por lei e que só na falta ou insuficiência delas se pode recorrer às disposições do código. Argumentar que a cláusula em questão é proibida pelo artigo 445.º é nítida petição de princípio - Barbosa Viana (vencido. Votei no sentido da opinião sustentada no voto precedente do Exmo. Conselheiro Lopes Cardoso).
+
+Está conforme.
+
+Lisboa, 15 de Maio de 1961. - O Secretário, Joaquim Múrias de Freitas.

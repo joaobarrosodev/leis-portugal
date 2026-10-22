@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:205314085:por
+title: Portaria n.º 307/2022
+short_title: null
+summary: Aprova a DMR (declaração mensal de remunerações - AT) e respetivas instruções de preenchimento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças
+proposing_entity: null
+official_number: 307/2022
+official_date: null
+publication_date: '2022-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/2022, Série I de 2022-12-27
+  number: '248'
+  series: I
+  supplement: null
+  pages: 2 - 13
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24800/0000200013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/307/2022/12/27/p/dre/pt/html
+  oj: null
+  dre: '205314085'
+  dre_path: /dr/detalhe/portaria/307-2022-205314085
+  internal: pt:dre:205314085:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-2022-205314085
+  metadata_url: https://data.dre.pt/eli/port/307/2022/12/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/307-2022-205314085
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-01-31T00:00:00Z'
+integrity:
+  source_sha256: 5e747b70f0bf96d43f53bcb4ad15a69b89127fb1cd10b73bc584759bcde93bcc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-307-205314085.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Tributária e Aduaneira
+- Código do IRS
+- Declaração de Rendimentos
+- Regulamentação de Atos Legislativos
+- Formulário Eletrónico
+- Contribuições e Impostos
+- IRS
+- Documento Eletrónico
+- Internet
+- Remuneração
+- Retenção na Fonte
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:839799721:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/34/2021/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/34/2021/02/12/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 307/2022
+
+de 27 de dezembro
+
+A [Portaria n.º 34/2021](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), de 12 de fevereiro, procedeu à aprovação do último modelo da declaração mensal de remunerações (DMR) e respetivas instruções de preenchimento destinada a declarar os rendimentos do trabalho dependente auferidos por sujeitos passivos residentes em território português e respetivas retenções na fonte, entre outros elementos relativos a esta categoria de rendimentos, que deve ser entregue pelas entidades devedoras daqueles rendimentos, nos termos do disposto na subalínea i) da alínea c) e na alínea d) do n.º 1 do artigo 119.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS).
+
+Considerando em especial as alterações introduzidas pela [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho (Lei do Orçamento do Estado para o ano de 2022), ao regime fiscal aplicável a ex-residentes (artigo 12.º-A do Código do IRS), ao regime do IRS jovem (artigo 12.º-B do Código do IRS) e ao artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, relativo ao justo impedimento de curta duração, mostra-se necessário proceder ao ajustamento da DMR e respetivas instruções de preenchimento a vigorar no ano de 2023 e seguintes.
+
+Assim, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de novembro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - É aprovada a declaração mensal de remunerações - AT, e respetivas instruções de preenchimento, anexas à presente portaria, para cumprimento da obrigação declarativa a que se refere a subalínea i) da alínea c) e a alínea d) do n.º 1 do artigo 119.º do Código do IRS.
+
+2 - Esta declaração deve ser entregue à Autoridade Tributária e Aduaneira (AT) pelas entidades devedoras de rendimentos do trabalho dependente sujeitos a IRS, ainda que dele isentos, bem como os que se encontrem excluídos de tributação, nos termos dos artigos 2.º, 2.º-A, 2.º-B, 12.º, 12.º-A e 12.º-B do Código do IRS, para comunicação daqueles rendimentos e respetivas retenções de imposto, das deduções efetuadas relativamente a contribuições obrigatórias para regimes de proteção social e subsistemas legais de saúde e a quotizações sindicais, relativas ao mês anterior.
+
+###### Artigo 2.º — Cumprimento da obrigação
+
+1 - A declaração referida no artigo anterior deve ser enviada por transmissão eletrónica de dados, sem prejuízo do referido no n.º 5.
+
+2 - As entidades e pessoas singulares que procedam ao envio da declaração mensal de remunerações através de transmissão eletrónica de dados podem fazê-lo através do Portal das Finanças ou da Segurança Social, devendo para o efeito:
+
+a) Efetuar o registo, caso ainda não disponham de senha de acesso, no Portal das Finanças, no endereço www.portaldasfinancas.gov.pt, e ou no Portal da Segurança Social, no endereço www.seg-social.pt;
+
+b) Efetuar o envio de acordo com os procedimentos indicados nas referidas páginas.
+
+3 - A declaração mensal de remunerações - AT considera-se apresentada na data da respetiva submissão, sob condição da correção de eventuais erros no prazo de 30 dias.
+
+4 - Se, findo o prazo referido no número anterior, não forem corrigidos os erros detetados, a declaração é considerada sem efeito.
+
+5 - As pessoas singulares devedoras de rendimentos do trabalho dependente que não se encontrem inscritas para o exercício de atividade empresarial ou profissional ou, encontrando-se, tais rendimentos não se relacionem exclusivamente com essa atividade, podem optar por declarar esses rendimentos na declaração anual modelo 10.
+
+6 - A opção referida no número anterior não pode ser exercida no caso de ter sido efetuada retenção na fonte.
+
+###### Artigo 3.º — Norma revogatória
+
+É revogada a [Portaria n.º 34/2021](https://diariodarepublica.pt/dr/detalhe/portaria/34-2021-157236757), de 12 de fevereiro.
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor a 1 de janeiro de 2023.
+
+**O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 20 de dezembro de 2022.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/24800/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2022/12/24800/0000200013.pdf)

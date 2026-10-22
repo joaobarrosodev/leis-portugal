@@ -1,0 +1,292 @@
+---
+schema_version: '1.0'
+id: pt:dre:671657:por
+title: Portaria n.º 557/2003
+short_title: null
+summary: Aprova o Programa de Acção para a Zona Vulnerável n.º 2, constituída pela área de protecção do aquífero quaternário
+  de Aveiro. Revoga a Portaria n.º 705/2001, de 11 de Julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 557/2003
+official_date: null
+publication_date: '2003-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/2003, Série I-B de 2003-07-14
+  number: '160'
+  series: I
+  supplement: null
+  pages: 4004 - 4007
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/07/160b00/40044007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/557/2003/07/14/p/dre/pt/html
+  oj: null
+  dre: '671657'
+  dre_path: /dr/detalhe/portaria/557-2003-671657
+  internal: pt:dre:671657:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/557-2003-671657
+  metadata_url: https://data.dre.pt/eli/port/557/2003/07/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/557-2003-671657
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-02-10T00:00:00Z'
+integrity:
+  source_sha256: 16421933b9815983b583871ded9246a050a4efa24ecb2b37d8d46bf6a09a7f32
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-557-671657.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Aveiro
+- Recursos Hídricos
+- Controlo Sanitário
+- Saúde Pública
+- Proteção do Ambiente
+- Fertilizante
+- Programa de Acção
+- Poluição da água
+- Produção Agrícola
+- Pesticida
+- Agricultura
+relationships:
+- type: amended_by
+  target: pt:dre:617076:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31991L0676
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/676/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/705/2001/07/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/705/2001/07/11/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 557/2003
+
+de 14 de Julho
+
+O Decreto-Lei n.º 235/97, de 3 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 68/99, de 11 de Março, transpôs para o direito interno a Directiva n.º [91/676/CEE](https://data.europa.eu/eli/dir/1991/676/oj?locale=pt), do Conselho, de 12 de Dezembro, e visa reduzir a poluição das águas causada ou induzida por nitratos de origem agrícola, bem como impedir a propagação desta poluição, tendo para o efeito determinado, em particular, a identificação de zonas vulneráveis.
+
+Na sequência da definição, pela Portaria n.º 258/2003, de 19 de Março, da zona vulnerável de Aveiro, ZV n.º 2, que integra parte do concelho de Aveiro, importa agora aprovar o novo programa de acção, tendo em conta que durante a execução do programa de acção aprovado pela Portaria n.º 705/2001, de 11 de Julho, se constatou que as medidas nele previstas eram insuficientes ou careciam de clarificação, por forma a obter-se o cabal cumprimento das obrigações comunitárias.
+
+Tendo em conta que a zona vulnerável abrange uma superfície total de 35,6 km2;
+
+Considerando que se integra na zona do Baixo Vouga da região da Beira Litoral, apresentando um relevo muito heterogéneo;
+
+Considerando a pequena dimensão das parcelas orientadas para a produção de hortícolas ao ar livre, ocupando uma área cultivada de 40% e cerca de 20% da área pela sucessão de culturas de milho mais forragem e a restante por floresta;
+
+Considerando que as manchas de solos predominantes correspondem aos solos litólicos não húmicos normais (cambissolos), de materiais arenáceos de textura mediana e ligeira;
+
+Considerando que a precipitação média anual observada na estação de São Jacinto é de 960,6 mm, repartindo-se num semestre chuvoso (com 77,1% da precipitação média anual) que coincide com a estação fria e num semestre seco (com 22,9% da precipitação média anual) na época quente;
+
+Considerando que a temperatura média anual se situa nos 14,2ºC, apresentando uma variação regular ao longo do ano, atingindo os valores médios mensais mínimo e máximo respectivamente em Janeiro (10ºC) e em Julho (18,6ºC):
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 235/97, de 3 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 68/99, de 11 de Março:
+
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+
+1.º É aprovado o Programa de Acção para a Zona Vulnerável n.º 2, constituída pela área de protecção do aquífero quaternário de Aveiro, em anexo ao presente diploma e que dele faz parte integrante.
+
+2.º É revogada a Portaria n.º 705/2001, de 11 de Julho.
+
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 23 de Junho de 2003.
+
+## ANEXO — Programa de Acção para a Zona Vulnerável n.º 2, área de protecção do aquífero quaternário de Aveiro
+
+###### Artigo 1.º — Objectivos
+
+O presente Programa de Acção tem como objectivo reduzir a poluição das águas causada ou induzida por nitratos de origem agrícola, bem como impedir a propagação desta poluição na zona vulnerável n.º 2, constituída pela área de protecção do aquífero quaternário de Aveiro, delimitada pela EN 109, caminho de ferro Aveiro-Pampilhosa, IP 1 e caminho de ferro Sernada do Vouga-Aveiro até à EN 109.
+
+###### Artigo 2.º — Época de aplicação
+
+1 - Tendo em conta as necessidades das culturas durante o seu ciclo vegetativo e o risco de perdas de azoto por lixiviação, sobretudo no período outono-invernal, e considerando, ainda, que não deverão ser aplicados fertilizantes nas épocas em que as culturas não estão em crescimento activo e que na zona predominam as culturas hortícolas de ar livre e milho-grão ou silagem, seguidas de ferrejos de Outono-Inverno, as épocas em que não é permitido aplicar às terras determinados tipos de fertilizantes constam no anexo I a este Programa, do qual faz parte integrante.
+
+2 - Sem prejuízo do disposto no número anterior, deverá ser evitada a aplicação de fertilizantes em períodos de fortes chuvadas que originem a lavagem do azoto, sobretudo quando os solos estão escassamente cobertos ou nus, não permitindo às plantas absorver os nitratos fornecidos pelos fertilizantes.
+
+3 - É proibida a aplicação de chorumes de Novembro a Janeiro.
+
+###### Artigo 3.º — Aplicação de fertilizantes em solos inundados ou inundáveis
+
+É proibida a aplicação ao solo de fertilizantes e ou correctivos orgânicos sempre que, durante o ciclo vegetativo das culturas, ocorram situações de excesso de água no solo, devendo, neste caso, aguardar-se que o solo retome o seu estado de humidade característico do período de sazão, sem prejuízo do disposto no n.º 2 do artigo 2.º
+
+###### Artigo 4.º — Aplicação de fertilizantes em terrenos declivosos
+
+1 - Sem prejuízo do disposto no artigo 2.º, a aplicação de fertilizantes azotados em terrenos declivosos deverá ter em conta o risco de escorrimentos superficiais de molde a minorar o risco de erosão e consequentemente as perdas de azoto e de outros nutrientes nas águas de escoamento.
+
+2 - As limitações às culturas e às práticas agrícolas de acordo com o declive constam no anexo II a este Programa, do qual faz parte integrante.
+
+###### Artigo 5.º — Aplicação de fertilizantes em terrenos adjacentes a cursos de água e a captações de água potável
+
+1 - É proibido cultivar numa faixa de protecção de 2 m a contar da linha de margem dos cursos de água, incluindo as linhas de água temporárias, sem prejuízo do disposto no Decreto-Lei n.º 46/94, de 22 de Fevereiro.
+
+2 - É proibida a deposição de estrumes e chorumes a menos de 5 m de uma fonte, poço ou captação de água quando esta não se destine a consumo humano, sem prejuízo do disposto no Decreto-Lei n.º 382/99, de 22 de Setembro, e demais legislação aplicável.
+
+###### Artigo 6.º — Plano e balanço de fertilização
+
+1 - Considerando a complexidade dos factores que condicionam a determinação da quantidade tecnicamente correcta de azoto a aplicar, o agricultor deverá recorrer a laboratórios especializados, nomeadamente aos serviços oficiais do Ministério da Agricultura, Desenvolvimento Rural e Pescas, que, em função da análise da terra, da água e ou da análise foliar, e tendo em conta a produção esperada para a cultura que pretende fazer, recomendarão a fertilização mais adequada, incluindo a quantidade e forma de azoto a aplicar e a época e a técnica de aplicação.
+
+2 - Com base nos conhecimentos técnicos e científicos disponíveis, a quantidade de azoto a aplicar não deverá exceder as quantidades máximas indicadas no artigo 7.º
+
+3 - No cálculo da quantidade de azoto a aplicar a qualquer cultura é obrigatório entrar em linha de conta com a quantidade veiculada na água de rega, nos fertilizantes orgânicos, nos adubos e nos resíduos das culturas.
+
+4 - Em todas as explorações com parcelas superiores a 2 ha, os agricultores são obrigados a manter um registo das fertilizações por parcela ou grupos de parcelas homogéneas, preenchendo para o efeito a ficha constante no anexo III a este Programa, do qual faz parte integrante.
+
+5 - Nas explorações hortícolas com parcelas com mais de 0,5 ha, os agricultores são obrigados a manter um registo das fertilizações por parcela ou grupos de parcelas homogéneas, preenchendo para o efeito a ficha constante no anexo III a este Programa, do qual faz parte integrante.
+
+6 - Exceptuam-se destes procedimentos de registo, conforme o definido nos n.os 4 e 5, as parcelas ou grupo de parcelas homogéneas cuja área localizada dentro da zona vulnerável seja inferior a 2 ha e 0,5 ha, respectivamente.
+
+###### Artigo 7.º — Quantidade máxima de azoto a aplicar às culturas
+
+1 - As quantidades máximas de azoto em quilogramas por hectare a aplicar nas culturas são as seguintes:
+
+... Quilogramas de azoto por hectare
+
+1) Forragens:
+
+Gramíneas estremes ou consociadas (azevém x aveia) ... 80-100
+
+Consociação (gramínea/leguminosa) ... 30-60
+
+Leguminosas ... 0
+
+2) Milho:
+
+Forragem (para uma produção de 50000 kg/ha; para produções superiores, o acréscimo de azoto a aplicar ao milho forrageiro é de 60 kg por 10000 kg de forragem) ... 180
+
+Grão (para uma produção de 6000 kg/ha; por cada 2000 kg de aumento de produção a quantidade máxima acresce 40 kg de azoto) ... 130
+
+3) Hortícolas (ao ar livre):
+
+Abóbora ... 100
+
+Alface (quando a cultura é feita durante o Outono-Inverno; durante a Primavera-Verão e desde que as produções atinjam de 40 t/ha a 50 t/ha é permitido aplicar até 120 kg de azoto por hectare) ... 100
+
+Batata (para uma produção de 50 t/ha) ... 160
+
+Couve-brócolo ... 200
+
+Couve-flor ... 180
+
+Couve-repolho ... 200
+
+Ervilha ... 40
+
+Fava ... 60
+
+Feijão-verde ... 100
+
+Pimento (para uma produção de 40000 kg/ha; por cada 10000 kg de aumento de produção a quantidade máxima acresce 20 kg de azoto) ... 150
+
+2 - Na aplicação dos fertilizantes minerais deverá considerar-se o estabelecido no Código das Boas Práticas Agrícolas.
+
+###### Artigo 8.º — Fertilizantes orgânicos
+
+1 - A quantidade de fertilizantes orgânicos a aplicar por hectare e ano não poderá conter mais de 170 kg de azoto.
+
+2 - Na construção de nitreiras é obrigatória a impermeabilização do pavimento e a sua capacidade calculada para um período mínimo de 120 dias de armazenamento.
+
+3 - Antes da aplicação de efluentes orgânicos, é obrigatório estes serem analisados, pelo menos, quanto ao seu teor em azoto.
+
+4 - Os boletins de análise e respectivos pareceres técnicos acompanham a ficha de registo de fertilização.
+
+5 - Os tanques de armazenamento de efluentes zootécnicos, destinados a fins agrícolas, deverão ser construídos com capacidade para o período mais prolongado em que não é permitida a aplicação às terras. A capacidade do depósito de chorumes é calculada de acordo com a seguinte fórmula:
+
+V = d.n.y
+
+em que:
+
+V = capacidade do reservatório;
+
+d = número de dias de retenção do efluente, nunca inferior a 150 dias;
+
+n = número de cabeças de gado;
+
+y = volume de efluente diário/cabeça.
+
+6 - O chorume será aplicado à superfície do solo, sempre que possível, com recurso a equipamento que funcione a baixa pressão, a fim de reduzir as perdas de azoto por volatilização e a libertação de maus cheiros, devendo a sua incorporação no solo efectuar-se, tanto quanto possível, imediatamente após a sua distribuição.
+
+###### Artigo 9.º — Gestão da rega
+
+1 - Tendo em vista prevenir a poluição das águas superficiais e ou subterrâneas com nitratos em terrenos de regadio e, por outro lado, assegurar a produção agrícola, deverá garantir-se uma correcta gestão da água no sentido de evitar ou reduzir ao mínimo as suas perdas por escorrimento superficial ou por infiltração profunda, devendo ainda ser criadas condições favoráveis para uma eficiente absorção dos nitratos pelo raizame das culturas.
+
+2 - Para garantir a realização dos objectivos fixados no número anterior, os agricultores poderão informar-se junto dos serviços do Ministério da Agricultura, Desenvolvimento Rural e Pescas, nomeadamente junto dos respectivos serviços regionais, quanto a uma correcta gestão da água de rega através, essencialmente, da determinação da oportunidade e dotação de rega, por forma a prevenir a degradação da água subterrânea e a manter a produtividade das culturas.
+
+3 - Nas áreas identificadas como de elevada infiltração (taxa de infiltração básica superior a 4 cm/h) é exigida uma maior repartição dos fertilizantes azotados durante o ciclo cultural e impedido o uso de métodos de rega por alagamento.
+
+4 - É obrigatório o revestimento dos canais de rega ou o uso de tubagem estanque para evitar perdas de água durante o transporte.
+
+###### Artigo 10.º — Controlo dos nitratos
+
+1 - O controlo da concentração de nitratos nas águas subterrâneas será efectuado pelo Instituto da Água e pela Direcção Regional do Ambiente e do Ordenamento do Território - Centro, através da rede de monitorização a operar na zona vulnerável, nos termos do n.º 3 do artigo 5.º do Decreto-Lei n.º 235/97, de 3 de Setembro, com a nova redacção dada pelo Decreto-Lei n.º 68/99, de 11 de Março.
+
+2 - O controlo, a nível da parcela, será efectuado pela Direcção Regional de Agricultura da Beira Litoral, através da comparação dos elementos constantes na ficha de registo da fertilização para cada parcela com as doses máximas a aplicar indicadas para as culturas referidas nesta portaria ou para outras, neste caso mediante parecer da Direcção Regional de Agricultura da Beira Litoral.
+
+3 - As análises ao solo, água de rega e efluentes orgânicos, quanto ao teor em nitratos, deverão ser efectuadas anualmente, quando aplicável.
+
+4 - Os boletins de análise e respectivos pareceres técnicos devem acompanhar a ficha de registo de fertilização.
+
+5 - A Direcção Regional de Agricultura da Beira Litoral deverá proceder à colheita de amostras de água de poços e de amostras de solo a duas profundidades (0 cm-25 cm e 25 cm-50 cm) em todas as explorações agrícolas com parcelas de 2 ha ou mais, para determinação do valor de nitratos.
+
+6 - O controlo nas restantes parcelas será feito, aleatoriamente, por classe de área (0 ha a 0,5 ha-0,5 ha a (menor que) 1 ha e 1 ha a (menor que) 2 ha).
+
+7 - As amostras, referidas no número anterior, são colhidas, aleatoriamente, de Abril a Setembro, sendo analisadas no campo por um método colorimétrico expedito, e nos casos em que se registem, por este método, valores superiores a 50 mg/l será feito o doseamento em laboratório pelos métodos normalizados.
+
+8 - Os resultados obtidos serão disponibilizados aos interessados.
+
+## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40044007.pdf)
+
+## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40044007.pdf)
+
+## ANEXO III — (a que se refere os n.os 4 e 5 do artigo 6.º)
+
+[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/07/160b00/40044007.pdf)

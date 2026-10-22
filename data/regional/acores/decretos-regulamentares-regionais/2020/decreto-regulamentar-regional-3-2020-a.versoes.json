@@ -1,0 +1,1307 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:128515586:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-170567620",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2020-128515586",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-01-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216491500",
+    "170516063",
+    "170516064",
+    "170516065",
+    "170516067",
+    "170516068",
+    "170516069",
+    "170516070",
+    "170516071",
+    "170516072",
+    "170516073",
+    "170516074",
+    "170567675",
+    "170567676",
+    "170567677",
+    "170567678",
+    "170567679",
+    "170567680",
+    "170567681",
+    "170567682",
+    "170567683",
+    "170567684",
+    "170567685",
+    "170567686",
+    "170567687",
+    "170567688",
+    "170567689",
+    "170567690",
+    "170567691",
+    "170567692",
+    "170567693",
+    "170567694",
+    "170567695",
+    "170567696",
+    "170567697",
+    "170567698",
+    "170567699",
+    "170567700",
+    "170567701",
+    "170567702",
+    "170567703"
+   ]
+  },
+  {
+   "date": "2021-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170514957:por",
+     "title": "Decreto Regulamentar Regional n.º 21/2021/A",
+     "published": "2021-08-31",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957"
+    }
+   ],
+   "changes": [
+    "Adita Secção III-A",
+    "Adita Artigo 21.º-A",
+    "Adita Artigo 21.º-B",
+    "Adita Artigo 21.º-C",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "170516062",
+    "170516063",
+    "170516064",
+    "170516065",
+    "170516066",
+    "170516067",
+    "170516068",
+    "170567704",
+    "170516070",
+    "170516071",
+    "170567715",
+    "170516073",
+    "170567705",
+    "170567706",
+    "170567707",
+    "170567677",
+    "170567678",
+    "170567679",
+    "170567680",
+    "170567681",
+    "170567682",
+    "170567716",
+    "170567708",
+    "170567685",
+    "170567686",
+    "170567687",
+    "170567688",
+    "170567689",
+    "170567717",
+    "170567709",
+    "170567692",
+    "170567693",
+    "170567718",
+    "170567719",
+    "170567720",
+    "170567721",
+    "170567714",
+    "170567695",
+    "170567696",
+    "170567697",
+    "170567698",
+    "170567699",
+    "170567700",
+    "170567701",
+    "170567702",
+    "170567703"
+   ]
+  },
+  {
+   "date": "2023-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207417313:por",
+     "title": "Decreto Regulamentar Regional n.º 4/2023/A",
+     "published": "2023-02-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 21.º-A",
+    "Revoga Artigo 21.º-B",
+    "Revoga Artigo 21.º-C"
+   ],
+   "fragments": [
+    "170516062",
+    "170516063",
+    "170516064",
+    "170516065",
+    "170516066",
+    "170516067",
+    "170516068",
+    "170567704",
+    "170516070",
+    "170516071",
+    "170567715",
+    "170516073",
+    "170567705",
+    "170567706",
+    "170567707",
+    "170567677",
+    "170567678",
+    "170567679",
+    "170567680",
+    "170567681",
+    "170567682",
+    "170567716",
+    "170567708",
+    "170567685",
+    "170567686",
+    "170567687",
+    "170567688",
+    "170567689",
+    "170567717",
+    "170567709",
+    "170567692",
+    "170567693",
+    "170567718",
+    "207630526",
+    "207630527",
+    "207630528",
+    "170567714",
+    "170567695",
+    "170567696",
+    "170567697",
+    "170567698",
+    "170567699",
+    "170567700",
+    "170567701",
+    "170567702",
+    "170567703"
+   ]
+  },
+  {
+   "date": "2023-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:210518832:por",
+     "title": "Decreto Regulamentar Regional n.º 7/2023/A",
+     "published": "2023-03-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2023-210518832"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "170516062",
+    "170516063",
+    "170516064",
+    "170516065",
+    "170516066",
+    "170516067",
+    "170516068",
+    "210847015",
+    "170516070",
+    "170516071",
+    "170567715",
+    "170516073",
+    "170567705",
+    "170567706",
+    "170567707",
+    "170567677",
+    "170567678",
+    "170567679",
+    "170567680",
+    "170567681",
+    "170567682",
+    "170567716",
+    "170567708",
+    "170567685",
+    "170567686",
+    "170567687",
+    "170567688",
+    "170567689",
+    "170567717",
+    "170567709",
+    "170567692",
+    "170567693",
+    "170567718",
+    "207630526",
+    "207630527",
+    "207630528",
+    "170567714",
+    "170567695",
+    "170567696",
+    "170567697",
+    "170567698",
+    "170567699",
+    "170567700",
+    "170567701",
+    "170567702",
+    "170567703"
+   ]
+  },
+  {
+   "date": "2023-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216406850:por",
+     "title": "Decreto Regulamentar Regional n.º 18/2023/A",
+     "published": "2023-07-31",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "216491500",
+    "216491501",
+    "216491502",
+    "216491503",
+    "216491504",
+    "216491505",
+    "216491506",
+    "216491507",
+    "216491508",
+    "216491509",
+    "216491510",
+    "216491511",
+    "216491512",
+    "216491513",
+    "216491514",
+    "216491515",
+    "216491516",
+    "216491517",
+    "216491518",
+    "216491519",
+    "216491520",
+    "216491521",
+    "216491522",
+    "216491523",
+    "216491524",
+    "216491525",
+    "216491526",
+    "216491527",
+    "216491528",
+    "216491529",
+    "216491530",
+    "216491531",
+    "216491532",
+    "216491533",
+    "216491534",
+    "216491535",
+    "216491536",
+    "216491537",
+    "216491538",
+    "216491539",
+    "216491540",
+    "216491541",
+    "216491542",
+    "216491543",
+    "216491544",
+    "216491545"
+   ]
+  }
+ ],
+ "fragments": {
+  "216491500": {
+   "fragment_id": "170567621",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-08-01",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 3/2020/A\n\nSumário: Aprova a orgânica e o quadro de pessoal dirigente dos serviços externos da Direção Regional da Cultura.\n\nAprova a orgânica e o quadro de pessoal dirigente dos serviços externos da Direção Regional da Cultura\n\nA Direção Regional da Cultura é o serviço executivo da Secretaria Regional da Educação e Cultura com funções de conceção, coordenação e avaliação no âmbito da cultura.\n\nA sua estrutura nuclear integra, entre outras unidades orgânicas, serviços externos que o Decreto Regulamentar Regional n.º 13/2001/A, de 7 de novembro, com a alteração introduzida pelo Decreto Regulamentar Regional n.º 3/2006/A, de 10 de janeiro, identifica como sendo os museus regionais e de ilha e as bibliotecas públicas e arquivos regionais.\n\nConsiderando o Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro, que aprova o Regime Jurídico dos Museus da Região Autónoma dos Açores e define e enquadra as políticas museológicas da Região e visa assegurar as boas práticas de gestão do património museológico.\n\nConsiderando, ainda, que, no âmbito da política cultural seguida pelo Governo Regional dos Açores nos últimos anos, destacam-se dois novos projetos dependentes da Direção Regional da Cultura - o Ecomuseu do Corvo, localizado na Ilha do Corvo, e o Arquipélago - Centro de Artes Contemporâneas, situado na Ribeira Grande, Ilha de São Miguel - torna-se imprescindível formalizar os dois novos projetos, garantindo-lhes a dignidade institucional que os mesmos merecem por via do trabalho que têm desenvolvido e que enriquecem o panorama museológico arquipelágico pela especificidade que apresentam.\n\nCom efeito, o Ecomuseu caracteriza-se por uma atividade que inclui recursos culturais e naturais in situ, designadamente na Ilha do Corvo, e por uma estratégia de desenvolvimento sustentável, atenta aos interesses e à participação da comunidade, com o pressuposto de que o modelo de museu tradicional não é o que melhor traduz a identidade cultural da ilha e dos Corvinos.\n\nPor seu lado, o Arquipélago - Centro de Artes Contemporâneas caracteriza-se por ser um centro de criação e de difusão das artes visuais e performativas contemporâneas, privilegiando as perspetivas transdisciplinares. O seu principal objetivo é a criação de instrumentos de produção e de entendimento das artes contemporâneas, contribuindo para a formação de uma massa crítica que possa inserir-se, através da sua participação como cidadãos ativos e criadores - sejam eles produtores ou espetadores -, no horizonte cultural do Mundo de hoje.\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa, da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 3 do artigo 31.º do Anexo I do Decreto Regulamentar Regional n.º 8/2013/A, de 17 de julho, o Governo Regional decreta o seguinte:"
+  },
+  "170516063": {
+   "fragment_id": "170567622",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada a orgânica dos serviços externos da Direção Regional da Cultura e o quadro de pessoal dirigente, constantes dos Anexos I e II ao presente diploma, do qual fazem parte integrante."
+  },
+  "170516064": {
+   "fragment_id": "170567623",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nO presente diploma revoga o Decreto Regulamentar Regional n.º 13/2001/A, de 7 de novembro."
+  },
+  "170516065": {
+   "fragment_id": "170567624",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "170516067": {
+   "fragment_id": "170567626",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "170516068": {
+   "fragment_id": "170567627",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e natureza"
+  },
+  "170516069": {
+   "fragment_id": "170567628",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão serviços externos da Direção Regional da Cultura, adiante designada por DRC:\n\na) Os museus regionais, os museus de ilha e o ecomuseu;\n\nb) As bibliotecas públicas e os arquivos regionais;\n\nc) O Arquipélago - Centro de Artes Contemporâneas."
+  },
+  "170516070": {
+   "fragment_id": "170567629",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nOs serviços externos da DRC são serviços dotados de autonomia administrativa, nos termos da lei, e funcionam na dependência direta do diretor regional com competência em matéria de cultura."
+  },
+  "170516071": {
+   "fragment_id": "170567630",
+   "type": 1,
+   "heading": "Capítulo II — Competências, órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competências, órgãos e serviços"
+  },
+  "170516072": {
+   "fragment_id": "170567631",
+   "type": 8,
+   "heading": "Secção I — Museus regionais, de ilha e ecomuseu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Museus regionais, de ilha e ecomuseu"
+  },
+  "170516073": {
+   "fragment_id": "170567632",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação\n\nPara efeitos do disposto no presente diploma os museus são:\n\na) «Regionais» quando abranjam o património cultural insular de cariz transversal e transdisciplinar e abordem as dinâmicas patrimoniais independentemente da sua origem e tema;\n\nb) «De ilha» quando aglutinem aspetos representativos das atividades culturais, económicas e sociais da ilha onde se localizam;\n\nc) «Ecomuseu» quando a sua atividade inclua recursos culturais e naturais, privilegiadamente in situ, bem como uma estratégia de desenvolvimento sustentável, atenta aos interesses e à participação da comunidade."
+  },
+  "170516074": {
+   "fragment_id": "170567633",
+   "type": 11,
+   "heading": "Artigo 4.º — Museus regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Museus regionais\n\n1 - São museus regionais:\n\na) O Museu Carlos Machado, que compreende o núcleo de Santo André na qualidade de sede, o núcleo de Arte Sacra e o núcleo de Santa Bárbara, localizados em Ponta Delgada;\n\nb) O Museu de Angra do Heroísmo, que compreende o núcleo sede e o núcleo de História Militar Batista de Lima, localizados em Angra do Heroísmo;\n\nc) O Museu da Horta, que compreende o núcleo sede e a Casa Manuel de Arriaga, localizados na Horta;\n\nd) O Museu do Pico, que compreende o Museu dos Baleeiros, localizado nas Lajes do Pico, o Museu da Indústria Baleeira, localizado em São Roque, e o Museu do Vinho, localizado na Madalena.\n\n2 - Sempre que se justifique os museus regionais podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura."
+  },
+  "170567675": {
+   "fragment_id": "170567634",
+   "type": 11,
+   "heading": "Artigo 5.º — Museus de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Museus de ilha\n\n1 - São museus de ilha:\n\na) O Museu de Santa Maria;\n\nb) O Museu da Graciosa;\n\nc) O Museu Francisco de Lacerda;\n\nd) O Museu das Flores.\n\n2 - Sempre que se justifique os museus de ilha podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura."
+  },
+  "170567676": {
+   "fragment_id": "170567635",
+   "type": 11,
+   "heading": "Artigo 6.º — Ecomuseu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ecomuseu\n\nO Ecomuseu do Corvo localiza-se na Vila do Corvo."
+  },
+  "170567677": {
+   "fragment_id": "170567636",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências\n\n1 - Os museus regionais, os museus de ilha e o ecomuseu têm competências no âmbito da recolha, conservação e exposição dos testemunhos materiais e intangíveis do homem e do seu meio ambiente, para fins de estudo, preservação, educação e recreio.\n\n2 - Compete aos museus regionais, aos museus de ilha e ao ecomuseu:\n\na) Conservar e inventariar as espécies que se encontram à sua guarda;\n\nb) Expor ao público, de forma sistematizada, os seus bens, privilegiando o acesso aos investigadores;\n\nc) Promover o enriquecimento das respetivas coleções;\n\nd) Estudar o homem e o meio ambiente;\n\ne) Estudar e pesquisar o seu acervo, visando a sua identificação e conhecimento;\n\nf) Estudar e pesquisar as técnicas de preservação e conservação dos bens à sua guarda;\n\ng) Promover a divulgação das suas coleções através dos meios técnicos adequados;\n\nh) Propiciar mecanismos de interação com pessoas ou com instituições públicas ou privadas, privilegiando o relacionamento com os estabelecimentos de ensino e de investigação;\n\ni) Impulsionar as relações dos serviços com a comunidade e com o público em geral, através de atividades pedagógicas de animação e de extensão cultural;\n\nj) Recolher registos e fontes do património cultural material e imaterial, promovendo ações de estudo, salvaguarda e divulgação dos mesmos;\n\nk) Colaborar no inventário dos bens de interesse museológico, públicos ou privados, existentes na Região;\n\nl) Promover a classificação de bens museológicos;\n\nm) Cooperar com as autarquias e outras instituições no desenvolvimento de planos de ação na área da cultura;\n\nn) Promover e apoiar as atividades de reconhecido interesse cultural."
+  },
+  "170567678": {
+   "fragment_id": "170567637",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências específicas dos museus regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências específicas dos museus regionais\n\nCompete, em especial, aos museus regionais:\n\na) Participar na elaboração de propostas de planos regionais de tratamento, preservação, conservação, difusão e valorização do património museológico;\n\nb) Contribuir para a fixação de critérios e normas que visem a conveniente salvaguarda de espécies museológicas;\n\nc) Exercer, em representação da Região, o direito de preferência na alienação de bens móveis de valor cultural e patrimonial;\n\nd) Apoiar a execução do plano de atividades da DRC;\n\ne) Apoiar, quando necessário, outras entidades públicas ou privadas na definição de critérios museológicos de recolha, conservação ou exposição de bens de interesse cultural."
+  },
+  "170567679": {
+   "fragment_id": "170567638",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências específicas dos museus de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências específicas dos museus de ilha\n\nCompete, em especial, aos museus de ilha:\n\na) Promover a valorização do património local, quer de cariz material móvel e imóvel, quer intangível;\n\nb) Salvaguardar, estudar e divulgar o património específico da ilha, destacando a sua singularidade no contexto da atlanticidade;\n\nc) Promover uma estreita ligação entre o museu de ilha e a comunidade residente, por via de atividades colaborativas que garantam o sentido de pertença patrimonial;\n\nd) Apoiar, quando necessário, outras entidades públicas no processo de recolha, conservação ou exposição de bens de interesse cultural da ilha."
+  },
+  "170567680": {
+   "fragment_id": "170567639",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências específicas do ecomuseu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências específicas do ecomuseu\n\nCompete, em especial, ao ecomuseu:\n\na) Assegurar o envolvimento e a participação efetiva do ecomuseu com a comunidade e demais instituições da administração pública na preservação e gestão do património, tendo em vista o desenvolvimento sustentável do seu território;\n\nb) Promover a salvaguarda e valorização do património cultural e natural in situ;\n\nc) Promover ações de interdisciplinaridade com outras entidades regionais e com outros ecomuseus;\n\nd) Elaborar estratégias e propostas de ação para a reabilitação e divulgação do património móvel e imaterial."
+  },
+  "170567681": {
+   "fragment_id": "170567640",
+   "type": 11,
+   "heading": "Artigo 11.º — Diretores dos museus regionais, de ilha e do ecomuseu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Diretores dos museus regionais, de ilha e do ecomuseu\n\n1 - Os museus regionais, de ilha e o ecomuseu são dirigidos por um diretor.\n\n2 - O cargo de diretor dos museus regionais é equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - O cargo de diretor dos museus de ilha é equiparado para todos os efeitos legais a chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n4 - O cargo de diretor do ecomuseu é equiparado para todos os efeitos legais a chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "170567682": {
+   "fragment_id": "170567641",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências dos diretores dos museus regionais, de ilha e do ecomuseu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências dos diretores dos museus regionais, de ilha e do ecomuseu\n\nCompete aos diretores dos museus regionais, de ilha e do ecomuseu:\n\na) Promover a adoção das medidas necessárias à prossecução das atribuições da sua entidade;\n\nb) Dirigir os serviços, orientar as atividades e projetos e representar a instituição;\n\nc) Assegurar a administração e a gestão dos recursos humanos e materiais que lhe estão afetos, promovendo o melhor aproveitamento e desenvolvimento dos mesmos;\n\nd) Promover a aquisição, o depósito e a permuta de espécies museológicas;\n\ne) Promover e incentivar, em colaboração com os estabelecimentos de ensino, as visitas de estudo e as sessões de trabalho individuais ou coletivas com pessoal docente e alunos de qualquer nível de ensino."
+  },
+  "170567683": {
+   "fragment_id": "170567642",
+   "type": 8,
+   "heading": "Secção II — Bibliotecas públicas e arquivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Bibliotecas públicas e arquivos regionais"
+  },
+  "170567684": {
+   "fragment_id": "170567643",
+   "type": 11,
+   "heading": "Artigo 13.º — Âmbito territorial das bibliotecas públicas e arquivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Âmbito territorial das bibliotecas públicas e arquivos regionais\n\nSão bibliotecas públicas e arquivos regionais, com o seguinte âmbito territorial, nomeadamente para efeitos de incorporação de documentos:\n\na) A Biblioteca Pública e Arquivo Regional de Ponta Delgada, que abrange as ilhas de São Miguel e Santa Maria;\n\nb) A Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro, que abrange as ilhas Terceira, Graciosa e São Jorge;\n\nc) A Biblioteca Pública e Arquivo Regional João José da Graça, que abrange as ilhas do Faial, Pico, Flores e Corvo."
+  },
+  "170567685": {
+   "fragment_id": "170567644",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nCompete às bibliotecas públicas e arquivos regionais:\n\na) Promover a execução da política arquivística e biblioteconómica regional, em conformidade com as orientações da DRC;\n\nb) Valorizar e divulgar o património cultural da Região, nomeadamente através da organização dos acervos documentais locais;\n\nc) Proporcionar condições que permitam a reflexão, o debate e a crítica, nomeadamente através das atividades de intervenção cultural;\n\nd) Assegurar o tratamento, a conservação e a difusão do património documental à sua guarda;\n\ne) Prestar apoio técnico e logístico às bibliotecas integradas na rede de leitura pública;\n\nf) Coordenar o acesso às suas coleções e prosseguir estratégias concretas de preservação, nomeadamente na promoção de transferência de suportes e sua difusão;\n\ng) Promover a qualidade dos arquivos enquanto recurso fundamental da atividade administrativa;\n\nh) Exercer, em representação da Região, o direito de preferência na alienação de bens bibliográficos e arquivísticos de valor cultural;\n\ni) Promover diligências junto das câmaras municipais e de outras entidades públicas e privadas na posse de fundos documentais com valor cultural para que estes sejam convenientemente conservados e tratados segundo regras uniformes de inventário, classificação e indexação;\n\nj) Organizar e fomentar ações de formação, com vista a melhorar o nível científico, técnico e profissional dos seus trabalhadores."
+  },
+  "170567686": {
+   "fragment_id": "170567645",
+   "type": 11,
+   "heading": "Artigo 15.º — Diretores e serviços das bibliotecas públicas e arquivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Diretores e serviços das bibliotecas públicas e arquivos regionais\n\n1 - As bibliotecas públicas e arquivos regionais são dirigidas por um diretor, equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n2 - As bibliotecas públicas e arquivos regionais compreendem uma divisão de bibliotecas públicas e documentação e uma divisão de arquivos, dirigidas por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "170567687": {
+   "fragment_id": "170567646",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do diretor\n\nCompete ao diretor das bibliotecas públicas e arquivos regionais:\n\na) Promover a adoção das medidas necessárias à prossecução das atribuições da biblioteca pública e arquivo regional;\n\nb) Adquirir as espécies, de acordo com o seu próprio critério e autorizar o depósito, a permuta e o empréstimo;\n\nc) Dirigir os serviços, orientar as atividades e projetos e representar a instituição;\n\nd) Assegurar a administração e a gestão dos recursos humanos e materiais que lhe estão afetos, promovendo o melhor aproveitamento e desenvolvimento dos mesmos;\n\ne) Promover e coordenar a elaboração dos projetos de orçamento e acompanhar a sua execução, bem como no respeitante ao plano de atividades;\n\nf) Emitir os pareceres de natureza biblioteconómica, arquivística, cultural e administrativa que lhe forem solicitados;\n\ng) Promover e incentivar, em colaboração com os estabelecimentos de ensino, as visitas de estudo e as sessões de trabalho individuais ou coletivas com pessoal docente e alunos de qualquer nível de ensino."
+  },
+  "170567688": {
+   "fragment_id": "170567647",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências da divisão de bibliotecas públicas e documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências da divisão de bibliotecas públicas e documentação\n\n1 - Compete à divisão de bibliotecas públicas e documentação:\n\na) Adquirir, tratar, conservar e difundir a documentação;\n\nb) Coordenar, manter e atualizar os catálogos bibliográficos;\n\nc) Coordenar as ações de conversão retrospetiva dos catálogos da biblioteca;\n\nd) Prestar apoio técnico às bibliotecas integradas na rede de leitura pública localizadas no seu âmbito territorial de ação;\n\ne) Executar estratégias de preservação e conservação das espécies à sua guarda, sem descurar a transferência de suportes e a sua difusão;\n\nf) Executar e dinamizar as políticas conducentes à utilização, de modo integrado e flexível, das tecnologias de informação e comunicação nas bibliotecas públicas, de forma a proporcionar o acesso a fontes de informação diversificada e a disponibilização dos conteúdos informáticos das bibliotecas ao grande público;\n\ng) Facilitar o acesso da população, através do empréstimo ou consulta local, a livros, periódicos, documentos audiovisuais e outros tipos de documentação, independentemente do seu suporte;\n\nh) Facultar e estimular o acesso às coleções, assegurando meios de apoio à pesquisa dos utilizadores, nomeadamente através do empréstimo entre bibliotecas ou da consulta à distância, para o que se requer a utilização das tecnologias mais modernas de transmissão de dados;\n\ni) Implementar o apoio à aprendizagem não formal e à autoformação;\n\nj) Proporcionar condições que permitam a reflexão, o debate e a crítica, nomeadamente através das atividades de intervenção cultural da biblioteca;\n\nk) Organizar iniciativas de difusão cultural dos fundos da biblioteca e apoiar as que forem solicitadas por outras entidades;\n\nl) Criar e fortalecer os hábitos de leitura e estimular a imaginação e criatividade das crianças e dos jovens;\n\nm) Valorizar e divulgar o património cultural da Região, nomeadamente através da organização de fundos locais;\n\nn) Promover o acesso dos cidadãos a todos os tipos de informação de interesse para a comunidade local.\n\n2 - À Divisão de Bibliotecas Públicas e Documentação da Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro compete ainda conferir, tratar, acondicionar, conservar e difundir a documentação recebida por depósito legal."
+  },
+  "170567689": {
+   "fragment_id": "170567648",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências da divisão de arquivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências da divisão de arquivos\n\nCompete à divisão de arquivos:\n\na) Elaborar e propor planos de conservação, organização, descrição e comunicação do património arquivístico recorrendo às novas tecnologias, nomeadamente no processamento de dados e na transferência de suportes;\n\nb) Tratar os fundos documentais de acordo com regras uniformes de inventário, classificação e indexação e zelar pela sua conservação e segurança;\n\nc) Propor e promover a aquisição dos fundos arquivísticos, nomeadamente a título de compra, dação, depósito, doação, incorporação, herança, legado, permuta ou reintegração;\n\nd) Zelar pelo cumprimento das normas legais que regulam as incorporações obrigatórias;\n\ne) Integrar a documentação relativa à administração regional, local e central descentralizada;\n\nf) Aplicar critérios de gestão de documentos;\n\ng) Assegurar ao público a consulta dos seus fundos, sempre que o estado de conservação dos documentos o permita;\n\nh) Fornecer aos utilizadores certidões e cópias das suas espécies documentais, nos termos da legislação em vigor;\n\ni) Elaborar guias, inventários e catálogos e organizar bases de dados com informação de interesse científico-cultural;\n\nj) Organizar iniciativas de difusão cultural dos fundos do arquivo e apoiar as que forem solicitadas por outras entidades;\n\nk) Promover o conhecimento público dos acervos documentais;\n\nl) Promover o acesso dos cidadãos a todos os tipos de informação de interesse local."
+  },
+  "170567690": {
+   "fragment_id": "170567649",
+   "type": 8,
+   "heading": "Secção III — Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Arquipélago - Centro de Artes Contemporâneas"
+  },
+  "170567691": {
+   "fragment_id": "170567650",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências do Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências do Arquipélago - Centro de Artes Contemporâneas\n\nCompete ao Arquipélago - Centro de Artes Contemporâneas:\n\na) Promover a criação artística nas suas diversas expressões;\n\nb) Estimular o intercâmbio artístico com instituições regionais, nacionais e estrangeiras;\n\nc) Assegurar a realização de residências artísticas como forma de incentivar a criação artística;\n\nd) Divulgar em todo o arquipélago a arte contemporânea, nas suas diversas expressões;\n\ne) Conceber, planear e realizar ações educativas no âmbito das expressões artísticas;\n\nf) Assegurar a incorporação de bens culturais artísticos representativos de expressões artísticas contemporâneas;\n\ng) Estudar, inventariar e conservar o acervo de arte contemporânea que integra;\n\nh) Promover a ampliação do acervo artístico;\n\ni) Conceber e organizar ações no âmbito das várias expressões artísticas contemporâneas;\n\nj) Estabelecer parcerias com entidades vocacionadas para a arte contemporânea, a nível regional, nacional e internacional, com vista à realização de projetos comuns;\n\nk) Estabelecer parcerias com instituições culturais, de ensino e de solidariedade social, visando a formação, promoção e divulgação da arte contemporânea."
+  },
+  "170567692": {
+   "fragment_id": "170567651",
+   "type": 11,
+   "heading": "Artigo 20.º — Diretor do Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Diretor do Arquipélago - Centro de Artes Contemporâneas\n\nO Arquipélago - Centro de Artes Contemporâneas é dirigido por um diretor, equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau."
+  },
+  "170567693": {
+   "fragment_id": "170567652",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências do diretor\n\nCompete ao diretor do Arquipélago - Centro de Artes Contemporâneas:\n\na) Dirigir o serviço, orientar as atividades e projetos e representar a instituição;\n\nb) Assegurar a administração financeira e a gestão dos recursos humanos e materiais que lhe estão afetos, promovendo o melhor aproveitamento e desenvolvimento dos mesmos;\n\nc) Promover a qualidade do Arquipélago - Centro de Artes Contemporâneas enquanto espaço artístico e cultural, bem como espaço de conhecimento, de comunicação e de responsabilidade social, promovendo a aproximação à comunidade açoriana, nacional e internacional e aos diferentes serviços públicos;\n\nd) Dar continuidade às políticas de aquisição e de divulgação da coleção de arte contemporânea do Arquipélago - Centro de Artes Contemporâneas que tem como objetivo final representar a história da arte contemporânea regional, nacional e internacional;\n\ne) Fomentar a colaboração com diferentes entidades públicas e privadas, nacionais e internacionais, tendo em vista o estabelecimento de redes e parcerias;\n\nf) Promover, coordenar e dinamizar projetos nas diferentes áreas artísticas do Arquipélago - Centro de Artes Contemporâneas, incluídos os desenvolvidos pela Blackbox;\n\ng) Incentivar, estimular e desenvolver a criação na Região;\n\nh) Incentivar a comunidade para a participação nas diferentes atividades do programa cultural e artístico do Arquipélago - Centro de Artes Contemporâneas;\n\ni) Fomentar o estreitamento das relações do Arquipélago - Centro de Artes Contemporâneas com o tecido académico regional, nacional e internacional e a rede escolar dos Açores, ativando o intercâmbio de valências no sentido de potenciar a criação de públicos e a produção e valores culturais e científicos."
+  },
+  "170567694": {
+   "fragment_id": "170567653",
+   "type": 8,
+   "heading": "Secção IV — Organização interna e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Organização interna e funcionamento"
+  },
+  "170567695": {
+   "fragment_id": "170567654",
+   "type": 11,
+   "heading": "Artigo 22.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regulamentos\n\n1 - A organização interna e funcionamento geral de cada um dos serviços externos consta de regulamento aprovado por portaria do membro do Governo Regional competente em matéria de cultura, tendo em conta o seu âmbito, dimensão e localização.\n\n2 - O regulamento previsto no número anterior deve conter igualmente as disposições gerais aplicáveis aos horários de funcionamento e aos preços a cobrar pelos ingressos e pela prestação de serviços, incluindo as situações de isenção.\n\n3 - Sem prejuízo do disposto nos números anteriores, os serviços externos devem dispor de regulamento interno, no qual constam as regras de funcionamento específico."
+  },
+  "170567696": {
+   "fragment_id": "170567655",
+   "type": 1,
+   "heading": "Capítulo III — Administração financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Administração financeira"
+  },
+  "170567697": {
+   "fragment_id": "170567656",
+   "type": 11,
+   "heading": "Artigo 23.º — Orçamentos e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Orçamentos e despesas\n\n1 - Os orçamentos dos serviços externos são integrados no orçamento da DRC.\n\n2 - As despesas dos serviços externos são satisfeitas por conta de divisões próprias inseridas no orçamento da DRC."
+  },
+  "170567698": {
+   "fragment_id": "170567657",
+   "type": 11,
+   "heading": "Artigo 24.º — Destino das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Destino das receitas\n\nAs receitas cobradas pelos serviços externos da DRC constituem receita do Fundo Regional de Ação Cultural, sendo depositadas à sua ordem nos termos legalmente estabelecidos."
+  },
+  "170567699": {
+   "fragment_id": "170567658",
+   "type": 11,
+   "heading": "Artigo 25.º — Doações ou legados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Doações ou legados\n\nA aceitação de doações ou legados onerados com quaisquer encargos, ou suscetíveis de os causar, carece sempre de autorização do diretor regional com competência em matéria de cultura, do membro do Governo Regional com competência em matéria de cultura ou do Conselho do Governo Regional, conforme a competência legalmente fixada para a autorização de despesas."
+  },
+  "170567700": {
+   "fragment_id": "170567659",
+   "type": 11,
+   "heading": "Artigo 26.º — Plano e relatório de atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Plano e relatório de atividades\n\n1 - Os serviços externos estão obrigados à elaboração de um plano anual de atividades e de um relatório anual da gestão efetuada.\n\n2 - Os serviços externos devem fornecer os elementos que lhes digam respeito para integração no plano e relatório anual da DRC."
+  },
+  "170567701": {
+   "fragment_id": "170567660",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "170567702": {
+   "fragment_id": "170567661",
+   "type": 11,
+   "heading": "Artigo 27.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pessoal\n\n1 - O pessoal afeto aos serviços externos consta dos quadros regionais de ilha em vigor.\n\n2 - O pessoal dirigente dos serviços externos é o constante do Anexo II do presente diploma, do qual faz parte integrante."
+  },
+  "170567703": {
+   "fragment_id": "170567662",
+   "type": 14,
+   "heading": "Anexo II — Quadro de pessoal dirigente dos serviços externos da DRC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Quadro de pessoal dirigente dos serviços externos da DRC\n\n[a que se refere o artigo 1.º e o n.º 2 do artigo 27.º do Anexo I]\n\n(ver documento original)\n\n112933379"
+  },
+  "170516062": {
+   "fragment_id": "170567621",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Direção Regional da Cultura é o serviço executivo da Secretaria Regional da Educação e Cultura com funções de conceção, coordenação e avaliação no âmbito da cultura.\n\nA sua estrutura nuclear integra, entre outras unidades orgânicas, serviços externos que o Decreto Regulamentar Regional n.º 13/2001/A, de 7 de novembro, com a alteração introduzida pelo Decreto Regulamentar Regional n.º 3/2006/A, de 10 de janeiro, identifica como sendo os museus regionais e de ilha e as bibliotecas públicas e arquivos regionais.\n\nConsiderando o Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro, que aprova o Regime Jurídico dos Museus da Região Autónoma dos Açores e define e enquadra as políticas museológicas da Região e visa assegurar as boas práticas de gestão do património museológico.\n\nConsiderando, ainda, que, no âmbito da política cultural seguida pelo Governo Regional dos Açores nos últimos anos, destacam-se dois novos projetos dependentes da Direção Regional da Cultura - o Ecomuseu do Corvo, localizado na Ilha do Corvo, e o Arquipélago - Centro de Artes Contemporâneas, situado na Ribeira Grande, Ilha de São Miguel - torna-se imprescindível formalizar os dois novos projetos, garantindo-lhes a dignidade institucional que os mesmos merecem por via do trabalho que têm desenvolvido e que enriquecem o panorama museológico arquipelágico pela especificidade que apresentam.\n\nCom efeito, o Ecomuseu caracteriza-se por uma atividade que inclui recursos culturais e naturais in situ, designadamente na Ilha do Corvo, e por uma estratégia de desenvolvimento sustentável, atenta aos interesses e à participação da comunidade, com o pressuposto de que o modelo de museu tradicional não é o que melhor traduz a identidade cultural da ilha e dos Corvinos.\n\nPor seu lado, o Arquipélago - Centro de Artes Contemporâneas caracteriza-se por ser um centro de criação e de difusão das artes visuais e performativas contemporâneas, privilegiando as perspetivas transdisciplinares. O seu principal objetivo é a criação de instrumentos de produção e de entendimento das artes contemporâneas, contribuindo para a formação de uma massa crítica que possa inserir-se, através da sua participação como cidadãos ativos e criadores - sejam eles produtores ou espetadores -, no horizonte cultural do Mundo de hoje.\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa, da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 3 do artigo 31.º do Anexo I do Decreto Regulamentar Regional n.º 8/2013/A, de 17 de julho, o Governo Regional decreta o seguinte:"
+  },
+  "170516066": {
+   "fragment_id": "170567625",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de dezembro de 2019.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 16 de janeiro de 2020.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\nANEXO I\n\n[a que se refere o artigo 1.º]\n\nOrgânica dos serviços externos da Direção Regional da Cultura"
+  },
+  "170567704": {
+   "fragment_id": "170567628",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão serviços externos da Direção Regional da Cultura, adiante designada por DRC:\n\na) Os museus regionais, os museus de ilha e o ecomuseu;\n\nb) As bibliotecas públicas e os arquivos regionais;\n\nc) O Arquipélago - Centro de Artes Contemporâneas.\n\nd) O Centro Histórico e Documental da Autonomia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567715": {
+   "fragment_id": "170567631",
+   "type": 8,
+   "heading": "Secção I — Museus regionais, de ilha e ecomuseu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Museus regionais, de ilha e ecomuseu"
+  },
+  "170567705": {
+   "fragment_id": "170567633",
+   "type": 11,
+   "heading": "Artigo 4.º — Museus regionais",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Museus regionais\n\n1 - São museus regionais:\n\na) O Museu Carlos Machado, que compreende o núcleo de Santo André, antigo Convento de Santo André, na qualidade de sede, o núcleo de Arte Sacra, antiga Igreja do Colégio dos Jesuítas, e o núcleo de Santa Bárbara, antigo Recolhimento de Santa Bárbara, localizados em Ponta Delgada;\n\nb) O Museu de Angra do Heroísmo, que compreende o antigo Convento de São Francisco, núcleo sede, a Igreja de Nossa Senhora da Guia, a antiga Fábrica de Tabaco Âncora, o núcleo de História Militar Manuel Coelho Batista de Lima, antigo Hospital Militar, a Ermida da Boa Nova, a Bateria Antiaérea do Monte Brasil, o Armazém da Canada de Belém, a Ermida de Santo Espírito, o Império de São Pedro, localizados em Angra do Heroísmo, a Carmina Galeria de Arte Contemporânea Dimas Simas Lopes, localizada na freguesia da Ribeirinha, Angra do Heroísmo, e o Forte de São Pedro, localizado nos Biscoitos, Praia da Vitória;\n\nc) O Museu da Horta, que compreende o núcleo sede, edifício do Colégio, antigo Colégio dos Jesuítas, a Casa Manuel de Arriaga e a 'Trinity House', antigo edifício dos cabos submarinos, localizados na Horta;\n\nd) O Museu do Pico, que compreende o Museu dos Baleeiros, antigo Barracão dos Botes Baleeiros, Núcleo de Construção Naval, localizado nas Lajes do Pico, o Museu da Indústria Baleeira, antiga Fábrica da Baleia e anexos, localizado em São Roque, e o Museu do Vinho, antiga Casa Conventual dos Carmelitas e anexos, localizado na Madalena.\n\n2 - Sempre que se justifique os museus regionais podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567706": {
+   "fragment_id": "170567634",
+   "type": 11,
+   "heading": "Artigo 5.º — Museus de ilha",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Museus de ilha\n\n1 - São museus de ilha:\n\na) O Museu de Santa Maria, que compreende o núcleo sede de Santo Espírito, o núcleo de Vila do Porto, o núcleo do Aeroporto, o Atlântida Cine (antigo Cinema) e o 'Quonset-Hut', localizados em Vila do Porto;\n\nb) O Museu da Graciosa, que compreende o núcleo sede, Moinho de Vento, o Barracão dos Botes Baleeiros, a Tenda do Ferreiro, a Casa da Debulhadora, localizados em Santa Cruz da Graciosa, e o Barracão dos Botes Baleeiros, na Praia, São Mateus;\n\nc) O Museu Francisco de Lacerda, que compreende o núcleo sede, na Calheta, e a Oficina de conservação e restauro, antigas instalações;\n\nd) O Museu das Flores, que compreende o núcleo sede, no edifício do Convento, o antigo Convento de São Boaventura, a antiga Fábrica da Baleia do Boqueirão, e Reservas, localizados em Santa Cruz das Flores.\n\n2 - Sempre que se justifique os museus de ilha podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567707": {
+   "fragment_id": "170567635",
+   "type": 11,
+   "heading": "Artigo 6.º — Ecomuseu",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Ecomuseu\n\nO Ecomuseu do Corvo, compreende a Casa do Tempo, o Pavilhão Multiúsos, o Gabinete Técnico e a Casa da Partida, localizados na Vila do Corvo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567716": {
+   "fragment_id": "170567642",
+   "type": 8,
+   "heading": "Secção II — Bibliotecas públicas e arquivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Bibliotecas públicas e arquivos regionais"
+  },
+  "170567708": {
+   "fragment_id": "170567643",
+   "type": 11,
+   "heading": "Artigo 13.º — Âmbito territorial das bibliotecas públicas e arquivos regionais",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 13.º — Âmbito territorial das bibliotecas públicas e arquivos regionais\n\nSão bibliotecas públicas e arquivos regionais, com o seguinte âmbito territorial, nomeadamente para efeitos de incorporação de documentos:\n\na) A Biblioteca Pública e Arquivo Regional de Ponta Delgada, que abrange as ilhas de São Miguel e Santa Maria, localizada no edifício do antigo Colégio dos Jesuítas de Ponta Delgada;\n\nb) A Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro, que abrange as ilhas Terceira, Graciosa e São Jorge, localizada em Angra do Heroísmo;\n\nc) A Biblioteca Pública e Arquivo Regional João José da Graça, que abrange as ilhas do Faial, Pico, Flores e Corvo, localizada no edifício da antiga Casa Bensaúde, na Horta.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567717": {
+   "fragment_id": "170567649",
+   "type": 8,
+   "heading": "Secção III — Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Arquipélago - Centro de Artes Contemporâneas"
+  },
+  "170567709": {
+   "fragment_id": "170567650",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências do Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 19.º — Competências do Arquipélago - Centro de Artes Contemporâneas\n\n1 - O Arquipélago - Centro de Artes Contemporâneas, integra os espaços seguintes:\n\na) Os espaços visitáveis, designadamente:\n\ni) O edifício A, que integra a Loja-Livraria;\n\nii) O edifício D, que integra a receção, as salas expositivas, as células e as caves, o serviço educativo, a biblioteca e o centro documental;\n\niii) O edifício E, que integra a 'Blackbox' - auditório.\n\nb) As dependências, designadamente:\n\ni) O edifício B, que integra as reservas;\n\nii) O edifício C, que integra as residências artísticas e oficinas;\n\niii) O edifício D, que integra os serviços administrativos;\n\niv) O edifício E, que integra a 'Blackbox' - gabinetes de audiovisual e multimédia.\n\n2 - Ao Arquipélago - Centro de Artes Contemporâneas, compete:\n\na) Promover a criação artística nas suas diversas expressões;\n\nb) Estimular o intercâmbio artístico com instituições regionais, nacionais e estrangeiras;\n\nc) Assegurar a realização de residências artísticas como forma de incentivar a criação artística;\n\nd) Divulgar em todo o arquipélago a arte contemporânea, nas suas diversas expressões;\n\ne) Conceber, planear e realizar ações educativas no âmbito das expressões artísticas;\n\nf) Assegurar a incorporação de bens culturais artísticos representativos de expressões artísticas contemporâneas;\n\ng) Estudar, inventariar e conservar o acervo de arte contemporânea que integra;\n\nh) Promover a ampliação do acervo artístico;\n\ni) Conceber e organizar ações no âmbito das várias expressões artísticas contemporâneas;\n\nj) Estabelecer parcerias com entidades vocacionadas para a arte contemporânea, a nível regional, nacional e internacional, com vista à realização de projetos comuns;\n\nk) Estabelecer parcerias com instituições culturais, de ensino e de solidariedade social, visando a formação, promoção e divulgação da arte contemporânea.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567718": {
+   "fragment_id": "170567663",
+   "type": 8,
+   "heading": "Secção III-A — Centro Histórico e Documental da Autonomia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "#### Secção III-A — Centro Histórico e Documental da Autonomia\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567719": {
+   "fragment_id": "170567664",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Centro Histórico e Documental da Autonomia",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-A — Centro Histórico e Documental da Autonomia\n\nO Centro Histórico e Documental da Autonomia tem como objeto o estudo e a divulgação do adquirido autonómico, privilegiando a promoção da história dos Açores e da açorianidade.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567720": {
+   "fragment_id": "170567665",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia\n\n1 - Ao Centro Histórico e Documental da Autonomia compete:\n\na) Promover o conhecimento sobre o processo histórico da autonomia dos Açores;\n\nb) Valorizar e divulgar a história política dos Açores;\n\nc) Contribuir para a afirmação da cultura e da identidade açorianas, dos valores da autonomia e dos princípios da democracia;\n\nd) Promover a reflexão científica sobre o regime autonómico e as suas envolventes culturais, sociais e identitárias, como forma de incentivar a consciencialização coletiva da autonomia;\n\ne) Desenvolver programas de mediação cultural e atividades que contribuam para o acesso ao património político e histórico da autonomia dos Açores, numa ótica de promoção da cultura açoriana e da literacia política;\n\nf) Conceber, planear e realizar ações educativas que estimulem o interesse do público infantojuvenil pelo património identitário da autonomia dos Açores;\n\ng) Estudar, inventariar e conservar o acervo de bens e documentos que integra, promovendo a sua ampliação e articulação;\n\nh) Promover, propor e coordenar projetos de digitalização e disponibilização online de coleções digitais, que tenham relevância para o conhecimento e divulgação da história dos Açores e do processo autonómico;\n\ni) Recolher registos e fontes do património cultural material e imaterial, promovendo ações direcionadas para o seu estudo, salvaguarda e divulgação;\n\nj) Assegurar a recolha, o estudo e o registo de testemunhos de interesse histórico, pessoais e institucionais, sobre a autonomia dos Açores;\n\nk) Constituir um acervo documental centrado na história da autonomia;\n\nl) Assegurar a disponibilização pública de obras sobre o conhecimento dos Açores, designadamente sobre a construção do percurso autonómico;\n\nm) Produzir conteúdos documentais sobre a temática autonómica, destinados a públicos diversificados;\n\nn) Cooperar com outras entidades na desmaterialização e disponibilização de obras sobre o conhecimento dos Açores, história da autonomia e açorianidade;\n\no) Estabelecer parcerias com instituições culturais, educativas e sociais, visando a formação, promoção e divulgação da autonomia e cidadania;\n\np) Estabelecer parcerias com instituições regionais, nacionais e internacionais, públicas ou privadas, tendo em vista o estudo e a divulgação da história política da autonomia dos Açores;\n\nq) Lançar as bases de cooperação e intercâmbio com entidade análoga da Região Autónoma da Madeira, bem como de outras regiões europeias de equiparado estatuto político, para trabalho conjunto de acervo similar.\n\n2 - O Centro Histórico e Documental da Autonomia é dirigido por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - O Centro Histórico e Documental da Autonomia integra a Rede do Conhecimento dos Açores.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567721": {
+   "fragment_id": "170567666",
+   "type": 11,
+   "heading": "Artigo 21.º-C — Rede do Conhecimento dos Açores",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-C — Rede do Conhecimento dos Açores\n\n1 - À Rede do Conhecimento dos Açores, compete:\n\na) Facultar ao público o acesso à informação sobre os Açores e estimular a pesquisa nos domínios da investigação e do saber, correlacionando fontes históricas e científicas, através dos meios que as novas tecnologias facultam;\n\nb) Organizar e partilhar a informação existente nos serviços do Centro Histórico e Documental da Autonomia, difundindo os conteúdos dos registos, inventários, arquivos e documentação relativos à história e cultura dos Açores;\n\nc) Preparar e manter atualizada uma agenda cultural dos Açores, abrangendo iniciativas públicas e privadas, assegurando a sua divulgação em ambiente virtual;\n\nd) Garantir a atualização permanente dos conteúdos do Portal do Centro Histórico e Documental da Autonomia/Direção Regional da Cultura;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A Rede do Conhecimento dos Açores é dirigida por um diretor, cargo de direção específica de 1.º grau.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "170567714": {
+   "fragment_id": "170567653",
+   "type": 8,
+   "heading": "Secção IV — Organização interna e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Organização interna e funcionamento"
+  },
+  "207630526": {
+   "fragment_id": "170567664",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Centro Histórico e Documental da Autonomia",
+   "in_force_from": "2023-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-A — Centro Histórico e Documental da Autonomia\n\nO Centro Histórico e Documental da Autonomia tem como objeto o estudo e a divulgação do adquirido autonómico, privilegiando a promoção da história dos Açores e da açorianidade.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "207630527": {
+   "fragment_id": "170567665",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia",
+   "in_force_from": "2023-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia\n\n1 - Ao Centro Histórico e Documental da Autonomia compete:\n\na) Promover o conhecimento sobre o processo histórico da autonomia dos Açores;\n\nb) Valorizar e divulgar a história política dos Açores;\n\nc) Contribuir para a afirmação da cultura e da identidade açorianas, dos valores da autonomia e dos princípios da democracia;\n\nd) Promover a reflexão científica sobre o regime autonómico e as suas envolventes culturais, sociais e identitárias, como forma de incentivar a consciencialização coletiva da autonomia;\n\ne) Desenvolver programas de mediação cultural e atividades que contribuam para o acesso ao património político e histórico da autonomia dos Açores, numa ótica de promoção da cultura açoriana e da literacia política;\n\nf) Conceber, planear e realizar ações educativas que estimulem o interesse do público infantojuvenil pelo património identitário da autonomia dos Açores;\n\ng) Estudar, inventariar e conservar o acervo de bens e documentos que integra, promovendo a sua ampliação e articulação;\n\nh) Promover, propor e coordenar projetos de digitalização e disponibilização online de coleções digitais, que tenham relevância para o conhecimento e divulgação da história dos Açores e do processo autonómico;\n\ni) Recolher registos e fontes do património cultural material e imaterial, promovendo ações direcionadas para o seu estudo, salvaguarda e divulgação;\n\nj) Assegurar a recolha, o estudo e o registo de testemunhos de interesse histórico, pessoais e institucionais, sobre a autonomia dos Açores;\n\nk) Constituir um acervo documental centrado na história da autonomia;\n\nl) Assegurar a disponibilização pública de obras sobre o conhecimento dos Açores, designadamente sobre a construção do percurso autonómico;\n\nm) Produzir conteúdos documentais sobre a temática autonómica, destinados a públicos diversificados;\n\nn) Cooperar com outras entidades na desmaterialização e disponibilização de obras sobre o conhecimento dos Açores, história da autonomia e açorianidade;\n\no) Estabelecer parcerias com instituições culturais, educativas e sociais, visando a formação, promoção e divulgação da autonomia e cidadania;\n\np) Estabelecer parcerias com instituições regionais, nacionais e internacionais, públicas ou privadas, tendo em vista o estudo e a divulgação da história política da autonomia dos Açores;\n\nq) Lançar as bases de cooperação e intercâmbio com entidade análoga da Região Autónoma da Madeira, bem como de outras regiões europeias de equiparado estatuto político, para trabalho conjunto de acervo similar.\n\n2 - O Centro Histórico e Documental da Autonomia é dirigido por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - O Centro Histórico e Documental da Autonomia integra a Rede do Conhecimento dos Açores.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "207630528": {
+   "fragment_id": "170567666",
+   "type": 11,
+   "heading": "Artigo 21.º-C — Rede do Conhecimento dos Açores",
+   "in_force_from": "2023-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-C — Rede do Conhecimento dos Açores\n\n1 - À Rede do Conhecimento dos Açores, compete:\n\na) Facultar ao público o acesso à informação sobre os Açores e estimular a pesquisa nos domínios da investigação e do saber, correlacionando fontes históricas e científicas, através dos meios que as novas tecnologias facultam;\n\nb) Organizar e partilhar a informação existente nos serviços do Centro Histórico e Documental da Autonomia, difundindo os conteúdos dos registos, inventários, arquivos e documentação relativos à história e cultura dos Açores;\n\nc) Preparar e manter atualizada uma agenda cultural dos Açores, abrangendo iniciativas públicas e privadas, assegurando a sua divulgação em ambiente virtual;\n\nd) Garantir a atualização permanente dos conteúdos do Portal do Centro Histórico e Documental da Autonomia/Direção Regional da Cultura;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A Rede do Conhecimento dos Açores é dirigida por um diretor, cargo de direção específica de 1.º grau.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "210847015": {
+   "fragment_id": "170567628",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 7/2023/A - Diário da República n.º 57/2023, Série I de 2023-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2023-210518832), em vigor a partir de 2023-03-22",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão serviços externos da Direção Regional da Cultura, adiante designada por DRC:\n\na) Os museus regionais, os museus de ilha e o ecomuseu;\n\nb) As bibliotecas públicas e os arquivos regionais;\n\nc) O Arquipélago - Centro de Artes Contemporâneas.\n\nd) [Revogada.]\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 7/2023/A - Diário da República n.º 57/2023, Série I de 2023-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2023-210518832), em vigor a partir de 2023-03-22\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491501": {
+   "fragment_id": "170567622",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada a orgânica dos serviços externos da Direção Regional da Cultura e o quadro de pessoal dirigente, constantes dos Anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491502": {
+   "fragment_id": "170567623",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nO presente diploma revoga o Decreto Regulamentar Regional n.º 13/2001/A, de 7 de novembro.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491503": {
+   "fragment_id": "170567624",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491504": {
+   "fragment_id": "170567625",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de dezembro de 2019.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 16 de janeiro de 2020.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\nANEXO I\n\n[a que se refere o artigo 1.º]\n\nOrgânica dos serviços externos da Direção Regional da Cultura\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491505": {
+   "fragment_id": "170567626",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "## Anexo\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491506": {
+   "fragment_id": "170567627",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e natureza",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo I — Objeto e natureza\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491507": {
+   "fragment_id": "170567628",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 7/2023/A - Diário da República n.º 57/2023, Série I de 2023-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2023-210518832), em vigor a partir de 2023-03-22",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão serviços externos da Direção Regional da Cultura, adiante designada por DRC:\n\na) Os museus regionais, os museus de ilha e o ecomuseu;\n\nb) As bibliotecas públicas e os arquivos regionais;\n\nc) O Arquipélago - Centro de Artes Contemporâneas.\n\nd) [Revogada.]\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 7/2023/A - Diário da República n.º 57/2023, Série I de 2023-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2023-210518832), em vigor a partir de 2023-03-22\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491508": {
+   "fragment_id": "170567629",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\nOs serviços externos da DRC são serviços dotados de autonomia administrativa, nos termos da lei, e funcionam na dependência direta do diretor regional com competência em matéria de cultura.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491509": {
+   "fragment_id": "170567630",
+   "type": 1,
+   "heading": "Capítulo II — Competências, órgãos e serviços",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo II — Competências, órgãos e serviços\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491510": {
+   "fragment_id": "170567631",
+   "type": 8,
+   "heading": "Secção I — Museus regionais, de ilha e ecomuseu",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção I — Museus regionais, de ilha e ecomuseu\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491511": {
+   "fragment_id": "170567632",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Classificação\n\nPara efeitos do disposto no presente diploma os museus são:\n\na) «Regionais» quando abranjam o património cultural insular de cariz transversal e transdisciplinar e abordem as dinâmicas patrimoniais independentemente da sua origem e tema;\n\nb) «De ilha» quando aglutinem aspetos representativos das atividades culturais, económicas e sociais da ilha onde se localizam;\n\nc) «Ecomuseu» quando a sua atividade inclua recursos culturais e naturais, privilegiadamente in situ, bem como uma estratégia de desenvolvimento sustentável, atenta aos interesses e à participação da comunidade.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491512": {
+   "fragment_id": "170567633",
+   "type": 11,
+   "heading": "Artigo 4.º — Museus regionais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Museus regionais\n\n1 - São museus regionais:\n\na) O Museu Carlos Machado, que compreende o núcleo de Santo André, antigo Convento de Santo André, na qualidade de sede, o núcleo de Arte Sacra, antiga Igreja do Colégio dos Jesuítas, e o núcleo de Santa Bárbara, antigo Recolhimento de Santa Bárbara, localizados em Ponta Delgada;\n\nb) O Museu de Angra do Heroísmo, que compreende o antigo Convento de São Francisco, núcleo sede, a Igreja de Nossa Senhora da Guia, a antiga Fábrica de Tabaco Âncora, o núcleo de História Militar Manuel Coelho Batista de Lima, antigo Hospital Militar, a Ermida da Boa Nova, a Bateria Antiaérea do Monte Brasil, o Armazém da Canada de Belém, a Ermida de Santo Espírito, o Império de São Pedro, localizados em Angra do Heroísmo, a Carmina Galeria de Arte Contemporânea Dimas Simas Lopes, localizada na freguesia da Ribeirinha, Angra do Heroísmo, e o Forte de São Pedro, localizado nos Biscoitos, Praia da Vitória;\n\nc) O Museu da Horta, que compreende o núcleo sede, edifício do Colégio, antigo Colégio dos Jesuítas, a Casa Manuel de Arriaga e a 'Trinity House', antigo edifício dos cabos submarinos, localizados na Horta;\n\nd) O Museu do Pico, que compreende o Museu dos Baleeiros, antigo Barracão dos Botes Baleeiros, Núcleo de Construção Naval, localizado nas Lajes do Pico, o Museu da Indústria Baleeira, antiga Fábrica da Baleia e anexos, localizado em São Roque, e o Museu do Vinho, antiga Casa Conventual dos Carmelitas e anexos, localizado na Madalena.\n\n2 - Sempre que se justifique os museus regionais podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491513": {
+   "fragment_id": "170567634",
+   "type": 11,
+   "heading": "Artigo 5.º — Museus de ilha",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Museus de ilha\n\n1 - São museus de ilha:\n\na) O Museu de Santa Maria, que compreende o núcleo sede de Santo Espírito, o núcleo de Vila do Porto, o núcleo do Aeroporto, o Atlântida Cine (antigo Cinema) e o 'Quonset-Hut', localizados em Vila do Porto;\n\nb) O Museu da Graciosa, que compreende o núcleo sede, Moinho de Vento, o Barracão dos Botes Baleeiros, a Tenda do Ferreiro, a Casa da Debulhadora, localizados em Santa Cruz da Graciosa, e o Barracão dos Botes Baleeiros, na Praia, São Mateus;\n\nc) O Museu Francisco de Lacerda, que compreende o núcleo sede, na Calheta, e a Oficina de conservação e restauro, antigas instalações;\n\nd) O Museu das Flores, que compreende o núcleo sede, no edifício do Convento, o antigo Convento de São Boaventura, a antiga Fábrica da Baleia do Boqueirão, e Reservas, localizados em Santa Cruz das Flores.\n\n2 - Sempre que se justifique os museus de ilha podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491514": {
+   "fragment_id": "170567635",
+   "type": 11,
+   "heading": "Artigo 6.º — Ecomuseu",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Ecomuseu\n\nO Ecomuseu do Corvo, compreende a Casa do Tempo, o Pavilhão Multiúsos, o Gabinete Técnico e a Casa da Partida, localizados na Vila do Corvo.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491515": {
+   "fragment_id": "170567636",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Competências\n\n1 - Os museus regionais, os museus de ilha e o ecomuseu têm competências no âmbito da recolha, conservação e exposição dos testemunhos materiais e intangíveis do homem e do seu meio ambiente, para fins de estudo, preservação, educação e recreio.\n\n2 - Compete aos museus regionais, aos museus de ilha e ao ecomuseu:\n\na) Conservar e inventariar as espécies que se encontram à sua guarda;\n\nb) Expor ao público, de forma sistematizada, os seus bens, privilegiando o acesso aos investigadores;\n\nc) Promover o enriquecimento das respetivas coleções;\n\nd) Estudar o homem e o meio ambiente;\n\ne) Estudar e pesquisar o seu acervo, visando a sua identificação e conhecimento;\n\nf) Estudar e pesquisar as técnicas de preservação e conservação dos bens à sua guarda;\n\ng) Promover a divulgação das suas coleções através dos meios técnicos adequados;\n\nh) Propiciar mecanismos de interação com pessoas ou com instituições públicas ou privadas, privilegiando o relacionamento com os estabelecimentos de ensino e de investigação;\n\ni) Impulsionar as relações dos serviços com a comunidade e com o público em geral, através de atividades pedagógicas de animação e de extensão cultural;\n\nj) Recolher registos e fontes do património cultural material e imaterial, promovendo ações de estudo, salvaguarda e divulgação dos mesmos;\n\nk) Colaborar no inventário dos bens de interesse museológico, públicos ou privados, existentes na Região;\n\nl) Promover a classificação de bens museológicos;\n\nm) Cooperar com as autarquias e outras instituições no desenvolvimento de planos de ação na área da cultura;\n\nn) Promover e apoiar as atividades de reconhecido interesse cultural.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491516": {
+   "fragment_id": "170567637",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências específicas dos museus regionais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Competências específicas dos museus regionais\n\nCompete, em especial, aos museus regionais:\n\na) Participar na elaboração de propostas de planos regionais de tratamento, preservação, conservação, difusão e valorização do património museológico;\n\nb) Contribuir para a fixação de critérios e normas que visem a conveniente salvaguarda de espécies museológicas;\n\nc) Exercer, em representação da Região, o direito de preferência na alienação de bens móveis de valor cultural e patrimonial;\n\nd) Apoiar a execução do plano de atividades da DRC;\n\ne) Apoiar, quando necessário, outras entidades públicas ou privadas na definição de critérios museológicos de recolha, conservação ou exposição de bens de interesse cultural.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491517": {
+   "fragment_id": "170567638",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências específicas dos museus de ilha",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 9.º — Competências específicas dos museus de ilha\n\nCompete, em especial, aos museus de ilha:\n\na) Promover a valorização do património local, quer de cariz material móvel e imóvel, quer intangível;\n\nb) Salvaguardar, estudar e divulgar o património específico da ilha, destacando a sua singularidade no contexto da atlanticidade;\n\nc) Promover uma estreita ligação entre o museu de ilha e a comunidade residente, por via de atividades colaborativas que garantam o sentido de pertença patrimonial;\n\nd) Apoiar, quando necessário, outras entidades públicas no processo de recolha, conservação ou exposição de bens de interesse cultural da ilha.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491518": {
+   "fragment_id": "170567639",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências específicas do ecomuseu",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Competências específicas do ecomuseu\n\nCompete, em especial, ao ecomuseu:\n\na) Assegurar o envolvimento e a participação efetiva do ecomuseu com a comunidade e demais instituições da administração pública na preservação e gestão do património, tendo em vista o desenvolvimento sustentável do seu território;\n\nb) Promover a salvaguarda e valorização do património cultural e natural in situ;\n\nc) Promover ações de interdisciplinaridade com outras entidades regionais e com outros ecomuseus;\n\nd) Elaborar estratégias e propostas de ação para a reabilitação e divulgação do património móvel e imaterial.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491519": {
+   "fragment_id": "170567640",
+   "type": 11,
+   "heading": "Artigo 11.º — Diretores dos museus regionais, de ilha e do ecomuseu",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Diretores dos museus regionais, de ilha e do ecomuseu\n\n1 - Os museus regionais, de ilha e o ecomuseu são dirigidos por um diretor.\n\n2 - O cargo de diretor dos museus regionais é equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - O cargo de diretor dos museus de ilha é equiparado para todos os efeitos legais a chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n4 - O cargo de diretor do ecomuseu é equiparado para todos os efeitos legais a chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491520": {
+   "fragment_id": "170567641",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências dos diretores dos museus regionais, de ilha e do ecomuseu",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Competências dos diretores dos museus regionais, de ilha e do ecomuseu\n\nCompete aos diretores dos museus regionais, de ilha e do ecomuseu:\n\na) Promover a adoção das medidas necessárias à prossecução das atribuições da sua entidade;\n\nb) Dirigir os serviços, orientar as atividades e projetos e representar a instituição;\n\nc) Assegurar a administração e a gestão dos recursos humanos e materiais que lhe estão afetos, promovendo o melhor aproveitamento e desenvolvimento dos mesmos;\n\nd) Promover a aquisição, o depósito e a permuta de espécies museológicas;\n\ne) Promover e incentivar, em colaboração com os estabelecimentos de ensino, as visitas de estudo e as sessões de trabalho individuais ou coletivas com pessoal docente e alunos de qualquer nível de ensino.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491521": {
+   "fragment_id": "170567642",
+   "type": 8,
+   "heading": "Secção II — Bibliotecas públicas e arquivos regionais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção II — Bibliotecas públicas e arquivos regionais\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491522": {
+   "fragment_id": "170567643",
+   "type": 11,
+   "heading": "Artigo 13.º — Âmbito territorial das bibliotecas públicas e arquivos regionais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 13.º — Âmbito territorial das bibliotecas públicas e arquivos regionais\n\nSão bibliotecas públicas e arquivos regionais, com o seguinte âmbito territorial, nomeadamente para efeitos de incorporação de documentos:\n\na) A Biblioteca Pública e Arquivo Regional de Ponta Delgada, que abrange as ilhas de São Miguel e Santa Maria, localizada no edifício do antigo Colégio dos Jesuítas de Ponta Delgada;\n\nb) A Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro, que abrange as ilhas Terceira, Graciosa e São Jorge, localizada em Angra do Heroísmo;\n\nc) A Biblioteca Pública e Arquivo Regional João José da Graça, que abrange as ilhas do Faial, Pico, Flores e Corvo, localizada no edifício da antiga Casa Bensaúde, na Horta.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491523": {
+   "fragment_id": "170567644",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Competências\n\nCompete às bibliotecas públicas e arquivos regionais:\n\na) Promover a execução da política arquivística e biblioteconómica regional, em conformidade com as orientações da DRC;\n\nb) Valorizar e divulgar o património cultural da Região, nomeadamente através da organização dos acervos documentais locais;\n\nc) Proporcionar condições que permitam a reflexão, o debate e a crítica, nomeadamente através das atividades de intervenção cultural;\n\nd) Assegurar o tratamento, a conservação e a difusão do património documental à sua guarda;\n\ne) Prestar apoio técnico e logístico às bibliotecas integradas na rede de leitura pública;\n\nf) Coordenar o acesso às suas coleções e prosseguir estratégias concretas de preservação, nomeadamente na promoção de transferência de suportes e sua difusão;\n\ng) Promover a qualidade dos arquivos enquanto recurso fundamental da atividade administrativa;\n\nh) Exercer, em representação da Região, o direito de preferência na alienação de bens bibliográficos e arquivísticos de valor cultural;\n\ni) Promover diligências junto das câmaras municipais e de outras entidades públicas e privadas na posse de fundos documentais com valor cultural para que estes sejam convenientemente conservados e tratados segundo regras uniformes de inventário, classificação e indexação;\n\nj) Organizar e fomentar ações de formação, com vista a melhorar o nível científico, técnico e profissional dos seus trabalhadores.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491524": {
+   "fragment_id": "170567645",
+   "type": 11,
+   "heading": "Artigo 15.º — Diretores e serviços das bibliotecas públicas e arquivos regionais",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 15.º — Diretores e serviços das bibliotecas públicas e arquivos regionais\n\n1 - As bibliotecas públicas e arquivos regionais são dirigidas por um diretor, equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n2 - As bibliotecas públicas e arquivos regionais compreendem uma divisão de bibliotecas públicas e documentação e uma divisão de arquivos, dirigidas por um chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491525": {
+   "fragment_id": "170567646",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do diretor",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 16.º — Competências do diretor\n\nCompete ao diretor das bibliotecas públicas e arquivos regionais:\n\na) Promover a adoção das medidas necessárias à prossecução das atribuições da biblioteca pública e arquivo regional;\n\nb) Adquirir as espécies, de acordo com o seu próprio critério e autorizar o depósito, a permuta e o empréstimo;\n\nc) Dirigir os serviços, orientar as atividades e projetos e representar a instituição;\n\nd) Assegurar a administração e a gestão dos recursos humanos e materiais que lhe estão afetos, promovendo o melhor aproveitamento e desenvolvimento dos mesmos;\n\ne) Promover e coordenar a elaboração dos projetos de orçamento e acompanhar a sua execução, bem como no respeitante ao plano de atividades;\n\nf) Emitir os pareceres de natureza biblioteconómica, arquivística, cultural e administrativa que lhe forem solicitados;\n\ng) Promover e incentivar, em colaboração com os estabelecimentos de ensino, as visitas de estudo e as sessões de trabalho individuais ou coletivas com pessoal docente e alunos de qualquer nível de ensino.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491526": {
+   "fragment_id": "170567647",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências da divisão de bibliotecas públicas e documentação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 17.º — Competências da divisão de bibliotecas públicas e documentação\n\n1 - Compete à divisão de bibliotecas públicas e documentação:\n\na) Adquirir, tratar, conservar e difundir a documentação;\n\nb) Coordenar, manter e atualizar os catálogos bibliográficos;\n\nc) Coordenar as ações de conversão retrospetiva dos catálogos da biblioteca;\n\nd) Prestar apoio técnico às bibliotecas integradas na rede de leitura pública localizadas no seu âmbito territorial de ação;\n\ne) Executar estratégias de preservação e conservação das espécies à sua guarda, sem descurar a transferência de suportes e a sua difusão;\n\nf) Executar e dinamizar as políticas conducentes à utilização, de modo integrado e flexível, das tecnologias de informação e comunicação nas bibliotecas públicas, de forma a proporcionar o acesso a fontes de informação diversificada e a disponibilização dos conteúdos informáticos das bibliotecas ao grande público;\n\ng) Facilitar o acesso da população, através do empréstimo ou consulta local, a livros, periódicos, documentos audiovisuais e outros tipos de documentação, independentemente do seu suporte;\n\nh) Facultar e estimular o acesso às coleções, assegurando meios de apoio à pesquisa dos utilizadores, nomeadamente através do empréstimo entre bibliotecas ou da consulta à distância, para o que se requer a utilização das tecnologias mais modernas de transmissão de dados;\n\ni) Implementar o apoio à aprendizagem não formal e à autoformação;\n\nj) Proporcionar condições que permitam a reflexão, o debate e a crítica, nomeadamente através das atividades de intervenção cultural da biblioteca;\n\nk) Organizar iniciativas de difusão cultural dos fundos da biblioteca e apoiar as que forem solicitadas por outras entidades;\n\nl) Criar e fortalecer os hábitos de leitura e estimular a imaginação e criatividade das crianças e dos jovens;\n\nm) Valorizar e divulgar o património cultural da Região, nomeadamente através da organização de fundos locais;\n\nn) Promover o acesso dos cidadãos a todos os tipos de informação de interesse para a comunidade local.\n\n2 - À Divisão de Bibliotecas Públicas e Documentação da Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro compete ainda conferir, tratar, acondicionar, conservar e difundir a documentação recebida por depósito legal.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491527": {
+   "fragment_id": "170567648",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências da divisão de arquivos",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 18.º — Competências da divisão de arquivos\n\nCompete à divisão de arquivos:\n\na) Elaborar e propor planos de conservação, organização, descrição e comunicação do património arquivístico recorrendo às novas tecnologias, nomeadamente no processamento de dados e na transferência de suportes;\n\nb) Tratar os fundos documentais de acordo com regras uniformes de inventário, classificação e indexação e zelar pela sua conservação e segurança;\n\nc) Propor e promover a aquisição dos fundos arquivísticos, nomeadamente a título de compra, dação, depósito, doação, incorporação, herança, legado, permuta ou reintegração;\n\nd) Zelar pelo cumprimento das normas legais que regulam as incorporações obrigatórias;\n\ne) Integrar a documentação relativa à administração regional, local e central descentralizada;\n\nf) Aplicar critérios de gestão de documentos;\n\ng) Assegurar ao público a consulta dos seus fundos, sempre que o estado de conservação dos documentos o permita;\n\nh) Fornecer aos utilizadores certidões e cópias das suas espécies documentais, nos termos da legislação em vigor;\n\ni) Elaborar guias, inventários e catálogos e organizar bases de dados com informação de interesse científico-cultural;\n\nj) Organizar iniciativas de difusão cultural dos fundos do arquivo e apoiar as que forem solicitadas por outras entidades;\n\nk) Promover o conhecimento público dos acervos documentais;\n\nl) Promover o acesso dos cidadãos a todos os tipos de informação de interesse local.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491528": {
+   "fragment_id": "170567649",
+   "type": 8,
+   "heading": "Secção III — Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção III — Arquipélago - Centro de Artes Contemporâneas\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491529": {
+   "fragment_id": "170567650",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências do Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 19.º — Competências do Arquipélago - Centro de Artes Contemporâneas\n\n1 - O Arquipélago - Centro de Artes Contemporâneas, integra os espaços seguintes:\n\na) Os espaços visitáveis, designadamente:\n\ni) O edifício A, que integra a Loja-Livraria;\n\nii) O edifício D, que integra a receção, as salas expositivas, as células e as caves, o serviço educativo, a biblioteca e o centro documental;\n\niii) O edifício E, que integra a 'Blackbox' - auditório.\n\nb) As dependências, designadamente:\n\ni) O edifício B, que integra as reservas;\n\nii) O edifício C, que integra as residências artísticas e oficinas;\n\niii) O edifício D, que integra os serviços administrativos;\n\niv) O edifício E, que integra a 'Blackbox' - gabinetes de audiovisual e multimédia.\n\n2 - Ao Arquipélago - Centro de Artes Contemporâneas, compete:\n\na) Promover a criação artística nas suas diversas expressões;\n\nb) Estimular o intercâmbio artístico com instituições regionais, nacionais e estrangeiras;\n\nc) Assegurar a realização de residências artísticas como forma de incentivar a criação artística;\n\nd) Divulgar em todo o arquipélago a arte contemporânea, nas suas diversas expressões;\n\ne) Conceber, planear e realizar ações educativas no âmbito das expressões artísticas;\n\nf) Assegurar a incorporação de bens culturais artísticos representativos de expressões artísticas contemporâneas;\n\ng) Estudar, inventariar e conservar o acervo de arte contemporânea que integra;\n\nh) Promover a ampliação do acervo artístico;\n\ni) Conceber e organizar ações no âmbito das várias expressões artísticas contemporâneas;\n\nj) Estabelecer parcerias com entidades vocacionadas para a arte contemporânea, a nível regional, nacional e internacional, com vista à realização de projetos comuns;\n\nk) Estabelecer parcerias com instituições culturais, de ensino e de solidariedade social, visando a formação, promoção e divulgação da arte contemporânea.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491530": {
+   "fragment_id": "170567651",
+   "type": 11,
+   "heading": "Artigo 20.º — Diretor do Arquipélago - Centro de Artes Contemporâneas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Diretor do Arquipélago - Centro de Artes Contemporâneas\n\nO Arquipélago - Centro de Artes Contemporâneas é dirigido por um diretor, equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491531": {
+   "fragment_id": "170567652",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências do diretor",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 21.º — Competências do diretor\n\nCompete ao diretor do Arquipélago - Centro de Artes Contemporâneas:\n\na) Dirigir o serviço, orientar as atividades e projetos e representar a instituição;\n\nb) Assegurar a administração financeira e a gestão dos recursos humanos e materiais que lhe estão afetos, promovendo o melhor aproveitamento e desenvolvimento dos mesmos;\n\nc) Promover a qualidade do Arquipélago - Centro de Artes Contemporâneas enquanto espaço artístico e cultural, bem como espaço de conhecimento, de comunicação e de responsabilidade social, promovendo a aproximação à comunidade açoriana, nacional e internacional e aos diferentes serviços públicos;\n\nd) Dar continuidade às políticas de aquisição e de divulgação da coleção de arte contemporânea do Arquipélago - Centro de Artes Contemporâneas que tem como objetivo final representar a história da arte contemporânea regional, nacional e internacional;\n\ne) Fomentar a colaboração com diferentes entidades públicas e privadas, nacionais e internacionais, tendo em vista o estabelecimento de redes e parcerias;\n\nf) Promover, coordenar e dinamizar projetos nas diferentes áreas artísticas do Arquipélago - Centro de Artes Contemporâneas, incluídos os desenvolvidos pela Blackbox;\n\ng) Incentivar, estimular e desenvolver a criação na Região;\n\nh) Incentivar a comunidade para a participação nas diferentes atividades do programa cultural e artístico do Arquipélago - Centro de Artes Contemporâneas;\n\ni) Fomentar o estreitamento das relações do Arquipélago - Centro de Artes Contemporâneas com o tecido académico regional, nacional e internacional e a rede escolar dos Açores, ativando o intercâmbio de valências no sentido de potenciar a criação de públicos e a produção e valores culturais e científicos.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491532": {
+   "fragment_id": "170567663",
+   "type": 8,
+   "heading": "Secção III-A — Centro Histórico e Documental da Autonomia",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "#### Secção III-A — Centro Histórico e Documental da Autonomia\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491533": {
+   "fragment_id": "170567664",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Centro Histórico e Documental da Autonomia",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-A — Centro Histórico e Documental da Autonomia\n\nO Centro Histórico e Documental da Autonomia tem como objeto o estudo e a divulgação do adquirido autonómico, privilegiando a promoção da história dos Açores e da açorianidade.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491534": {
+   "fragment_id": "170567665",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia\n\n1 - Ao Centro Histórico e Documental da Autonomia compete:\n\na) Promover o conhecimento sobre o processo histórico da autonomia dos Açores;\n\nb) Valorizar e divulgar a história política dos Açores;\n\nc) Contribuir para a afirmação da cultura e da identidade açorianas, dos valores da autonomia e dos princípios da democracia;\n\nd) Promover a reflexão científica sobre o regime autonómico e as suas envolventes culturais, sociais e identitárias, como forma de incentivar a consciencialização coletiva da autonomia;\n\ne) Desenvolver programas de mediação cultural e atividades que contribuam para o acesso ao património político e histórico da autonomia dos Açores, numa ótica de promoção da cultura açoriana e da literacia política;\n\nf) Conceber, planear e realizar ações educativas que estimulem o interesse do público infantojuvenil pelo património identitário da autonomia dos Açores;\n\ng) Estudar, inventariar e conservar o acervo de bens e documentos que integra, promovendo a sua ampliação e articulação;\n\nh) Promover, propor e coordenar projetos de digitalização e disponibilização online de coleções digitais, que tenham relevância para o conhecimento e divulgação da história dos Açores e do processo autonómico;\n\ni) Recolher registos e fontes do património cultural material e imaterial, promovendo ações direcionadas para o seu estudo, salvaguarda e divulgação;\n\nj) Assegurar a recolha, o estudo e o registo de testemunhos de interesse histórico, pessoais e institucionais, sobre a autonomia dos Açores;\n\nk) Constituir um acervo documental centrado na história da autonomia;\n\nl) Assegurar a disponibilização pública de obras sobre o conhecimento dos Açores, designadamente sobre a construção do percurso autonómico;\n\nm) Produzir conteúdos documentais sobre a temática autonómica, destinados a públicos diversificados;\n\nn) Cooperar com outras entidades na desmaterialização e disponibilização de obras sobre o conhecimento dos Açores, história da autonomia e açorianidade;\n\no) Estabelecer parcerias com instituições culturais, educativas e sociais, visando a formação, promoção e divulgação da autonomia e cidadania;\n\np) Estabelecer parcerias com instituições regionais, nacionais e internacionais, públicas ou privadas, tendo em vista o estudo e a divulgação da história política da autonomia dos Açores;\n\nq) Lançar as bases de cooperação e intercâmbio com entidade análoga da Região Autónoma da Madeira, bem como de outras regiões europeias de equiparado estatuto político, para trabalho conjunto de acervo similar.\n\n2 - O Centro Histórico e Documental da Autonomia é dirigido por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - O Centro Histórico e Documental da Autonomia integra a Rede do Conhecimento dos Açores.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491535": {
+   "fragment_id": "170567666",
+   "type": 11,
+   "heading": "Artigo 21.º-C — Rede do Conhecimento dos Açores",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 21.º-C — Rede do Conhecimento dos Açores\n\n1 - À Rede do Conhecimento dos Açores, compete:\n\na) Facultar ao público o acesso à informação sobre os Açores e estimular a pesquisa nos domínios da investigação e do saber, correlacionando fontes históricas e científicas, através dos meios que as novas tecnologias facultam;\n\nb) Organizar e partilhar a informação existente nos serviços do Centro Histórico e Documental da Autonomia, difundindo os conteúdos dos registos, inventários, arquivos e documentação relativos à história e cultura dos Açores;\n\nc) Preparar e manter atualizada uma agenda cultural dos Açores, abrangendo iniciativas públicas e privadas, assegurando a sua divulgação em ambiente virtual;\n\nd) Garantir a atualização permanente dos conteúdos do Portal do Centro Histórico e Documental da Autonomia/Direção Regional da Cultura;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A Rede do Conhecimento dos Açores é dirigida por um diretor, cargo de direção específica de 1.º grau.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 4/2023/A - Diário da República n.º 32/2023, Série I de 2023-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2023-207417313), em vigor a partir de 2023-02-15\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 21/2021/A - Diário da República n.º 169/2021, Série I de 2021-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957), em vigor a partir de 2021-09-01"
+  },
+  "216491536": {
+   "fragment_id": "170567653",
+   "type": 8,
+   "heading": "Secção IV — Organização interna e funcionamento",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "#### Secção IV — Organização interna e funcionamento\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491537": {
+   "fragment_id": "170567654",
+   "type": 11,
+   "heading": "Artigo 22.º — Regulamentos",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 22.º — Regulamentos\n\n1 - A organização interna e funcionamento geral de cada um dos serviços externos consta de regulamento aprovado por portaria do membro do Governo Regional competente em matéria de cultura, tendo em conta o seu âmbito, dimensão e localização.\n\n2 - O regulamento previsto no número anterior deve conter igualmente as disposições gerais aplicáveis aos horários de funcionamento e aos preços a cobrar pelos ingressos e pela prestação de serviços, incluindo as situações de isenção.\n\n3 - Sem prejuízo do disposto nos números anteriores, os serviços externos devem dispor de regulamento interno, no qual constam as regras de funcionamento específico.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491538": {
+   "fragment_id": "170567655",
+   "type": 1,
+   "heading": "Capítulo III — Administração financeira",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo III — Administração financeira\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491539": {
+   "fragment_id": "170567656",
+   "type": 11,
+   "heading": "Artigo 23.º — Orçamentos e despesas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 23.º — Orçamentos e despesas\n\n1 - Os orçamentos dos serviços externos são integrados no orçamento da DRC.\n\n2 - As despesas dos serviços externos são satisfeitas por conta de divisões próprias inseridas no orçamento da DRC.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491540": {
+   "fragment_id": "170567657",
+   "type": 11,
+   "heading": "Artigo 24.º — Destino das receitas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 24.º — Destino das receitas\n\nAs receitas cobradas pelos serviços externos da DRC constituem receita do Fundo Regional de Ação Cultural, sendo depositadas à sua ordem nos termos legalmente estabelecidos.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491541": {
+   "fragment_id": "170567658",
+   "type": 11,
+   "heading": "Artigo 25.º — Doações ou legados",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 25.º — Doações ou legados\n\nA aceitação de doações ou legados onerados com quaisquer encargos, ou suscetíveis de os causar, carece sempre de autorização do diretor regional com competência em matéria de cultura, do membro do Governo Regional com competência em matéria de cultura ou do Conselho do Governo Regional, conforme a competência legalmente fixada para a autorização de despesas.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491542": {
+   "fragment_id": "170567659",
+   "type": 11,
+   "heading": "Artigo 26.º — Plano e relatório de atividades",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 26.º — Plano e relatório de atividades\n\n1 - Os serviços externos estão obrigados à elaboração de um plano anual de atividades e de um relatório anual da gestão efetuada.\n\n2 - Os serviços externos devem fornecer os elementos que lhes digam respeito para integração no plano e relatório anual da DRC.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491543": {
+   "fragment_id": "170567660",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo IV — Pessoal\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491544": {
+   "fragment_id": "170567661",
+   "type": 11,
+   "heading": "Artigo 27.º — Pessoal",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 27.º — Pessoal\n\n1 - O pessoal afeto aos serviços externos consta dos quadros regionais de ilha em vigor.\n\n2 - O pessoal dirigente dos serviços externos é o constante do Anexo II do presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  },
+  "216491545": {
+   "fragment_id": "170567662",
+   "type": 14,
+   "heading": "Anexo II — Quadro de pessoal dirigente dos serviços externos da DRC",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "## Anexo II — Quadro de pessoal dirigente dos serviços externos da DRC\n\n[a que se refere o artigo 1.º e o n.º 2 do artigo 27.º do Anexo I]\n\n(ver documento original)\n\n112933379\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 18/2023/A - Diário da República n.º 147/2023, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2023-216406850), em vigor a partir de 2023-08-01"
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:497804:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-129341467",
+ "dre_path": "/dr/detalhe/portaria/228-2013-497804",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "129341494",
+    "129341495",
+    "129341496",
+    "129341497",
+    "129341498"
+   ]
+  },
+  {
+   "date": "2020-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129341448:por",
+     "title": "Portaria n.º 46/2020",
+     "published": "2020-02-19",
+     "dre_path": "/dr/detalhe/portaria/46-2020-129341448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "129341494",
+    "129341495",
+    "129341505",
+    "129341497",
+    "129341498",
+    "129341499"
+   ]
+  }
+ ],
+ "fragments": {
+  "129341494": {
+   "fragment_id": "129341468",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 228/2013\n\nde 15 de julho\n\nO Decreto-Lei n.º 240/2012, de 6 de novembro, procedeu à reorganização orgânica do Serviço de Estrangeiros e Fronteiras (SEF) criando as condições para uma utilização mais eficiente dos recursos humanos e financeiros, de acordo com as linhas traçadas no Plano de Redução e Melhoria da Administração Central.\n\nDe acordo com os n.os 5 e 6 do artigo 11.º do Decreto-Lei n.º 252/2000, de 16 de outubro, republicado em anexo ao Decreto-Lei n.º 240/2012, de 6 de novembro, o SEF pode dispor de núcleos a criar por portaria do membro do Governo responsável pela área da Administração Interna, num máximo de 21 núcleos.\n\nAssim:\n\nAo abrigo do n.º 5 do artigo 11.º do Decreto-Lei n.º 252/2000, de 16 de outubro, republicado em anexo ao Decreto-Lei n.º 240/2012, de 6 de novembro, manda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "129341495": {
+   "fragment_id": "129341469",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nPela presente portaria são criados e distribuídos os núcleos das unidades orgânicas do SEF."
+  },
+  "129341496": {
+   "fragment_id": "129341470",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação e distribuição dos núcleos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação e distribuição dos núcleos\n\n1 - São criados 21 núcleos no SEF distribuídos pelas seguintes unidades orgânicas:\n\na) Gabinete de Estudos, Planeamento e Formação: 2 núcleos;\n\nb) Gabinete de Relações Internacionais, Cooperação e Relações Públicas (GRICRP): 1 núcleo;\n\nc) Gabinete de Apoio às Direções Regionais: 1 núcleo;\n\nd) Gabinete de Recursos Humanos: 1 núcleo;\n\ne) Gabinete de Sistemas de Informação: 3 núcleos;\n\nf) Direção Central de Gestão e Administração: 4 núcleos;\n\ng) Direção Regional de Lisboa, Vale do Tejo e Alentejo: 4 núcleos;\n\nh) Direção Regional do Norte: 1 núcleo;\n\ni) Direção Regional do Algarve: 1 núcleo;\n\nj) Direção Regional do Centro: 1 núcleo;\n\nk) Gabinete Jurídico: 1 núcleo;\n\nl) Gabinete de Asilo e Refugiados: 1 núcleo.\n\n2 - O núcleo do GRICRP funciona na dependência direta do Diretor Nacional."
+  },
+  "129341497": {
+   "fragment_id": "129341471",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências dos núcleos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências dos núcleos\n\n1 - Compete aos núcleos prestar apoio operacional, técnico e administrativo às atividades prosseguidas pelas unidades orgânicas em que se encontram inseridos.\n\n2 - Os núcleos das Direções Regionais do Norte, Algarve e Centro, designados núcleos regionais de administração, desenvolvem, no âmbito da respetiva direção regional, os procedimentos relativos ao pessoal, contabilidade, economato e património.\n\n3 - Na Direção Regional de Lisboa, Vale do Tejo e Alentejo, um dos núcleos será o núcleo regional de administração que desenvolve os procedimentos referidos no número anterior."
+  },
+  "129341498": {
+   "fragment_id": "129341472",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "129341505": {
+   "fragment_id": "129341470",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação e distribuição dos núcleos",
+   "in_force_from": "2020-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2020 - Diário da República n.º 35/2020, Série I de 2020-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/46-2020-129341448), em vigor a partir de 2020-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Criação e distribuição dos núcleos\n\n1 - São criados 21 núcleos no SEF distribuídos pelas seguintes unidades orgânicas:\n\na) Gabinete de Estudos, Planeamento e Formação: 2 núcleos;\n\nb) Gabinete de Relações Internacionais, Cooperação e Relações Públicas (GRICRP): 2 núcleos;\n\nc) Gabinete de Apoio às Direções Regionais: 1 núcleo;\n\nd) Gabinete de Recursos Humanos: 1 núcleo;\n\ne) Gabinete de Sistemas de Informação: 2 núcleos;\n\nf) Direção Central de Gestão e Administração: 4 núcleos;\n\ng) Direção Regional de Lisboa, Vale do Tejo e Alentejo: 4 núcleos;\n\nh) Direção Regional do Norte: 1 núcleo;\n\ni) Direção Regional do Algarve: 1 núcleo;\n\nj) Direção Regional do Centro: 1 núcleo;\n\nk) Gabinete Jurídico: 1 núcleo;\n\nl) Gabinete de Asilo e Refugiados: 1 núcleo.\n\n2 - O núcleo do GRICRP funciona na dependência direta do Diretor Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2020 - Diário da República n.º 35/2020, Série I de 2020-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/46-2020-129341448), em vigor a partir de 2020-02-20"
+  },
+  "129341499": {
+   "fragment_id": "129341473",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 9 de julho de 2013."
+  }
+ }
+}

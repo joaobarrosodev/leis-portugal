@@ -1,0 +1,475 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321736:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-34474175",
+ "dre_path": "/dr/detalhe/decreto-lei/324-1994-321736",
+ "source_lastmod": "2024-11-25",
+ "versions": [
+  {
+   "date": "1994-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "50211075",
+    "50211175",
+    "50211275",
+    "50211375",
+    "50211475",
+    "50211575",
+    "50211675",
+    "50211775",
+    "50211875",
+    "50211975",
+    "50212075",
+    "50212175",
+    "50212275",
+    "50212375",
+    "50212475",
+    "50212575",
+    "50212675",
+    "50212775",
+    "50212875",
+    "50212975",
+    "50213075",
+    "50213175",
+    "50213275",
+    "50213375",
+    "50213475",
+    "50213575",
+    "50213675",
+    "50213775",
+    "50213875",
+    "50213975",
+    "50214075",
+    "50214175",
+    "50214275",
+    "50214375",
+    "50214475",
+    "50214575",
+    "50214675",
+    "50214775",
+    "50214875",
+    "50214975",
+    "50215075",
+    "50215175"
+   ]
+  },
+  {
+   "date": "2024-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:897543549:por",
+     "title": "Decreto-Lei n.º 92/2024",
+     "published": "2024-11-25",
+     "dre_path": "/dr/detalhe/decreto-lei/92-2024-897543549"
+    }
+   ],
+   "changes": [
+    "Altera Base XIII"
+   ],
+   "fragments": [
+    "50211075",
+    "50211175",
+    "50211275",
+    "50211375",
+    "50215275",
+    "50211475",
+    "50211575",
+    "50211675",
+    "50211775",
+    "50211875",
+    "50211975",
+    "50212075",
+    "50212175",
+    "50212275",
+    "50212375",
+    "50212475",
+    "50212575",
+    "50212675",
+    "50212775",
+    "50212875",
+    "50212975",
+    "50213075",
+    "897726700",
+    "50213275",
+    "50213375",
+    "50213475",
+    "50213575",
+    "50213675",
+    "50213775",
+    "50213875",
+    "50213975",
+    "50214075",
+    "50214175",
+    "50214275",
+    "50214375",
+    "50214475",
+    "50214575",
+    "50214675",
+    "50214775",
+    "50214875",
+    "50214975",
+    "50215075",
+    "50215175"
+   ]
+  }
+ ],
+ "fragments": {
+  "50211075": {
+   "fragment_id": "35093975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Na sequência da aprovação do novo regime jurídico da operação portuária, operada pelo Decreto-Lei n.º 298/93, de 28 de Agosto, torna-se necessário estabelecer as bases gerais das concessões do serviço público de movimentação de cargas nos cais e terminais portuários, como tal definidas naquele diploma.\n\nCom efeito, a participação de agentes privados na gestão comercial de cais, terminais, instalações e equipamentos portuários contribui, significativamente, para melhorar a eficiência, a qualidade dos serviços prestados e a redução dos custos, importando por isso promover a sua dinamização.\n\nDo mesmo passo, criam-se as condições para que as administrações portuárias e as juntas autónomas dos portos se libertem, tanto quanto possível, do envolvimento em actividades operacionais e de gestão comercial, concentrando a sua acção, fundamentalmente, no exercício das funções de autoridade portuária, que melhor correspondem à sua natureza de institutos públicos e à sua vocação prioritária.\n\nImporta, por outro lado, prorrogar o disposto no artigo 36.º do referido decreto-lei, por forma a permitir, no quadro da reestruturação em curso, os ajustamentos necessários de situações existentes, com vista a atingir com eficácia os objectivos pretendidos.\n\nConsiderando o disposto no artigo 27.º do Decreto-Lei n.º 298/93, de 28 de Agosto:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "50211175": {
+   "fragment_id": "35980275",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão aprovadas as bases gerais das concessões do serviço público de movimentação de cargas em áreas portuárias, constantes do anexo ao presente diploma e que dele fazem parte integrante."
+  },
+  "50211275": {
+   "fragment_id": "35980375",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - As concessões são atribuídas pela administração portuária ou pela junta autónoma com jurisdição na área da concessão, mediante contrato administrativo precedido de concurso cujos programa e caderno de encargos carecem de prévia aprovação pelos Ministros do Comércio e Turismo e do Mar.\n\n2 - Ao concurso referido no número anterior aplica-se, com as devidas adaptações, o regime dos concurso das empreitadas de obras públicas.\n\n3 - Os fins específicos da concessão e as actividades permitidas na respectiva área constam do caderno de encargos e do contrato, em conformidade com os regimes legais dos bens do domínio público e do serviço de movimentação de cargas portuárias.\n\n4 - A aprovação a que se refere o n.º 1 compete, nas Regiões Autónomas, aos respectivos governos regionais."
+  },
+  "50211375": {
+   "fragment_id": "35980475",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O artigo 36.º do Decreto-Lei n.º 298/93, de 28 de Agosto, passa a ter a seguinte redacção:\n\nArtigo 36.º\n\n[...]\n\n1 - Os contratos de concessão de serviço público ou de obras públicas, bem como outros títulos que fundem direitos de uso privativo de terrenos integrados no domínio público, na zona portuária, poderão, quando o interesse público o determine, o qual deve ser declarado por despacho fundamentado do Ministro do Mar, ser objecto de convolação ou de revisão pela autoridade portuária até 30 de Junho de 1995, nos casos em que o concessionário pretenda exercer, no âmbito da concessão ou da área privativa, o serviço público de movimentação de cargas.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n2 - O disposto no artigo 36.º do Decreto-Lei n.º 298/93, de 28 de Agosto, não prejudica a aplicabilidade do regime instituído pelo Decreto-Lei n.º 468/71, de 5 de Novembro, aos casos não especialmente previstos no primeiro diploma."
+  },
+  "50211475": {
+   "fragment_id": "35980575",
+   "type": 14,
+   "heading": "Anexo — Bases das concessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Bases das concessões"
+  },
+  "50211575": {
+   "fragment_id": "37515575",
+   "type": 1,
+   "heading": "Capítulo I — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Concessão"
+  },
+  "50211675": {
+   "fragment_id": "39125375",
+   "type": 2,
+   "heading": "Base I — Objecto e âmbito da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Objecto e âmbito da concessão\n\n1 - A concessão tem por objecto o direito de exploração comercial, em regime de serviço público, da actividade de movimentação de cargas, incluindo o respectivo estabelecimento.\n\n2 - A outorga da concessão implica o exclusivo da exploração comercial concessionada, sem prejuízo, quando aplicável, da possibilidade de realização de operações de movimentação de cargas por parte de entidades estranhas à empresa concessionada, nas áreas afectas à concessão, nos termos e condições previstos no Decreto-Lei n.º 298/93, de 28 de Agosto, e nos que venham a ser estabelecidos no contrato de concessão."
+  },
+  "50211775": {
+   "fragment_id": "39125475",
+   "type": 2,
+   "heading": "Base II — Área afecta à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Área afecta à concessão\n\nA área afecta à concessão consta de planta obrigatoriamente anexa ao caderno de encargos, com a identificação precisa das parcelas que a compõem."
+  },
+  "50211875": {
+   "fragment_id": "39125575",
+   "type": 2,
+   "heading": "Base III — Plano geral da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III — Plano geral da concessão\n\nDas propostas apresentadas pelos concorrentes deve constar o plano geral da concessão compreendendo todas as obras, instalações e bens de apetrechamento existentes e a implantar futuramente, um plano de funcionamento contendo o sistema de operações e as soluções técnicas que serão adoptadas para a sua exploração e um plano financeiro de investimentos e exploração."
+  },
+  "50211975": {
+   "fragment_id": "37515675",
+   "type": 1,
+   "heading": "Capítulo II — Estabelecimento e obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estabelecimento e obras"
+  },
+  "50212075": {
+   "fragment_id": "39125675",
+   "type": 2,
+   "heading": "Base IV — Estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV — Estabelecimento\n\n1 - Compreendem-se no estabelecimento da concessão:\n\na) O conjunto de bens, instalações e equipamentos postos à disposição da concessionária pela concedente tendo em vista a respectiva exploração no âmbito da concessão;\n\nb) As obras e bens de apetrechamento que venham a ser realizados e implantados pela concessionária de harmonia com o plano geral da concessão.\n\n2 - Presume-se como integrando os bens do estabelecimento referidos na alínea b) do número anterior o conjunto de coisas móveis e a universalidade das coisas móveis ligadas ao solo com carácter de permanência ou afectos de forma duradoura à exploração da concessão, quando não se incluam no conjunto de bens a que se refere a alínea a) do mesmo número.\n\n3 - A concessionária deve elaborar e manter permanentemente actualizado o registo discriminado do conjunto dos bens afectos ao estabelecimento da concessão, por ela construídos ou adquiridos, com indicação dos respectivos valores, presumindo-se, na falta de registo, como propriedade da concedente.\n\n4 - Os bens referidos no número anterior, desde que devidamente registados, constituem propriedade da concessionária até ao termo da concessão."
+  },
+  "50212175": {
+   "fragment_id": "39125775",
+   "type": 2,
+   "heading": "Base V — Obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V — Obras\n\n1 - São da responsabilidade da concessionária todas as obras de construção, reparação e conservação dos bens que integram o estabelecimento.\n\n2 - A responsabilidade por obras especiais, designadamente a execução de dragagens e realização de obras marítimas, é regulada nos termos do contrato de concessão.\n\n3 - As obras da concessionária ficam sujeitas à aprovação dos projectos e à emissão das respectivas licenças pela concedente e serão por esta fiscalizadas, sendo facultado aos seus agentes ou representantes o livre acesso ao local dos trabalhos.\n\n4 - As licenças e a fiscalização acima referidas não dispensam as que, por lei, sejam da competência de outros serviços oficiais."
+  },
+  "50212275": {
+   "fragment_id": "39125875",
+   "type": 2,
+   "heading": "Base VI — Conservação e renovação dos equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI — Conservação e renovação dos equipamentos\n\n1 - A concessionária mantém, por sua conta e risco, em permanente estado de bom funcionamento, conservação e segurança, até ao termo da concessão, todos os bens de equipamento, obrigando-se a substituí-los sempre que, por desgaste físico, avaria ou obsolescência, se mostrem inadequados aos fins a que se destinam.\n\n2 - No reapetrechamento da concessão, a concessionária deve optar, precedendo consulta à concedente, pela aquisição dos equipamentos cuja tecnologia e padrão de qualidade melhor sirvam a eficiência, segurança e economia das operações."
+  },
+  "50212375": {
+   "fragment_id": "37515775",
+   "type": 1,
+   "heading": "Capítulo III — Exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Exploração"
+  },
+  "50212475": {
+   "fragment_id": "39125975",
+   "type": 2,
+   "heading": "Base VII — Regime de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VII — Regime de exploração\n\n1 - A exploração da concessão é levada a cabo sob a responsabilidade da concessionária, em regime de serviço público e em conformidade com os regulamentos aprovados e as disposições aplicáveis da lei e do contrato.\n\n2 - A concedente pode intervir na organização e no funcionamento das operações sempre que tal se mostre indispensável para garantir a regularidade ou a qualidade da prestação do serviço público.\n\n3 - As instalações e o equipamento da concessão não podem, sem o consentimento da concedente, ser utilizados para fins diferentes dos previstos no contrato.\n\n4 - A exploração do estabelecimento só pode iniciar-se quando a concessionária estiver munida das licenças exigidas por lei para o exercício da sua actividade."
+  },
+  "50212575": {
+   "fragment_id": "39126075",
+   "type": 2,
+   "heading": "Base VIII — Regulamento de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VIII — Regulamento de exploração\n\n1 - A concessionária deve submeter à aprovação da concedente, dentro do prazo que esta indicar ou o contrato estabelecer, o conjunto de normas a observar na exploração da concessão, o qual compreenderá a generalidade dos procedimentos conexos com a realização das operações e a prestação dos serviços próprios da actividade concessionada, no respeito pelas disposições constantes do regulamento do porto.\n\n2 - A concedente, ouvida a titular da concessão ou a pedido desta, pode a todo o tempo determinar, por motivo justificado, a modificação das normas estabelecidas no regulamento de exploração.\n\n3 - Em casos omissos, e sem prejuízo do referido no número anterior, tornar-se-á em conta o estabelecido pelo regulamento de exploração do porto."
+  },
+  "50212675": {
+   "fragment_id": "39126175",
+   "type": 2,
+   "heading": "Base IX — Regulamento de tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IX — Regulamento de tarifas\n\n1 - As taxas máximas a praticar, dentro da área afecta à concessão, na realização das operações, prestação de serviços e uso das instalações, constarão de regulamento a elaborar pela concessionária, nos termos contratualmente definidos, o qual entra em vigor após a respectiva aprovação pela concedente, nos termos e data que esta indicar.\n\n2 - O valor das tarifas e respectivos regimes de vigência e actualização tomarão em conta os interesses gerais do porto onde a concessão se integra, o equilíbrio económico da exploração e os princípios tarifários básicos em vigor na generalidade dos portos nacionais."
+  },
+  "50212775": {
+   "fragment_id": "39126275",
+   "type": 2,
+   "heading": "Base X — Publicidade das normas relativas à exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base X — Publicidade das normas relativas à exploração\n\n1 - A concessionária deve adoptar um sistema eficiente de tratamento e consulta de elementos informativos relativos à exploração, de modo a poder facultá-los à concedente, aos utentes, ao Instituto de Trabalho Portuário ou a quaisquer outras entidades com legitimidade para os solicitar.\n\n2 - Às tarifas, normas regulamentares de exploração ou outras informações necessárias ao bom desenvolvimento das operações deve ser conferida publicidade no interior da área afecta à concessão, de modo a permitir o seu conhecimento expedito e claro pelos utentes.\n\n3 - Nos impressos utilizados pela concessionária no seu tráfego comercial deve ser feita menção, de forma simplificada, às condições gerais de contratação e às normas regulamentares que interessam directamente aos clientes, em termos a aprovar pela concedente."
+  },
+  "50212875": {
+   "fragment_id": "39126375",
+   "type": 2,
+   "heading": "Base XI — Pessoal da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XI — Pessoal da concessão\n\n1 - Os trabalhadores utilizados na exploração da concessão devem estar vinculados à concessionária por contrato individual de trabalho, ou ser por ela recrutados de harmonia com o regime jurídico do trabalho portuário, quando aplicável.\n\n2 - A concessionária dá trimestralmente conhecimento à concedente e ao Instituto de Trabalho Portuário da composição do seu quadro de pessoal portuário.\n\n3 - A concessionária elabora anualmente um balanço social, nos termos da lei, do qual dá conhecimento às entidades referidas no número anterior.\n\n4 - O contrato pode prever a afectação ao serviço da concessionária de pessoal dos quadros da concedente, condicionado à aceitação dos interessados e à salvaguarda dos direitos adquiridos pelos trabalhadores."
+  },
+  "50212975": {
+   "fragment_id": "39126475",
+   "type": 2,
+   "heading": "Base XII — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Segurança\n\n1 - A concessionária fica obrigada a adoptar medidas e a instalar equipamentos contra incêndios, bem como a introduzir os meios adequados à prevenção de acidentes pessoais, materiais e de poluição decorrentes da actividade exercida na área da concessão, devendo submeter um plano de segurança à aprovação da concedente.\n\n2 - A concessionária fica obrigada a constituir seguros e mantê-los actualizados, envolvendo todas as instalações e equipamentos que utilize no âmbito da concessão, contra os riscos de incêndio, explosão e danos devidos a terramoto ou temporal."
+  },
+  "50213075": {
+   "fragment_id": "37515875",
+   "type": 1,
+   "heading": "Capítulo IV — Vigência, modificação ou extinção do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Vigência, modificação ou extinção do contrato"
+  },
+  "50213175": {
+   "fragment_id": "39126575",
+   "type": 2,
+   "heading": "Base XIII — Prazo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIII — Prazo do contrato\n\nO contrato de concessão é outorgado por prazo determinado, não superior a 30 anos, e deve ser estabelecido em função dos investimentos em equipamentos fixos ou em obras portuárias."
+  },
+  "50213275": {
+   "fragment_id": "39126675",
+   "type": 2,
+   "heading": "Base XIV — Modificação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Modificação do contrato\n\nA modificação do contrato determinada unilateralmente pela concedente implicará, na medida em que afecte o equilíbrio económico da exploração, a revisão das contrapartidas financeiras da concessão."
+  },
+  "50213375": {
+   "fragment_id": "39126775",
+   "type": 2,
+   "heading": "Base XV — Decurso do prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Decurso do prazo\n\n1 - Decorrido o prazo da concessão, a concedente entra de imediato na posse dos bens que integram o estabelecimento, os quais para ela revertem gratuitamente, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, não podendo a concessionária reclamar por esse facto indemnização nem invocar, a qualquer título, direito de retenção.\n\n2 - Exceptuam-se do disposto no número anterior, quanto ao direito de indemnização, os investimentos em equipamentos de substituição ou de actualização tecnológica realizados pela concessionária durante os últimos 10 anos de vigência do contrato mediante aprovação expressa da concedente, no caso em que esta tenha assumido o compromisso de indemnizar aquela, no termo do prazo de concessão, pelo respectivo valor contabilístico actualizado líquido de amortizações.\n\n3 - O contrato de concessão prevê obrigatoriamente os termos e modos pelos quais se procederá à reversão e entrega dos bens, à transferência para a concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público."
+  },
+  "50213475": {
+   "fragment_id": "39126875",
+   "type": 2,
+   "heading": "Base XVI — Rescisão e caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Rescisão e caducidade\n\n1 - O não cumprimento das obrigações essenciais da concessão constitui fundamento para rescisão do contrato.\n\n2 - Constituem especiais causas de rescisão por parte da concedente:\n\na) O desvio do objecto e fins da concessão;\n\nb) A interrupção injustificada da exploração do estabelecimento;\n\nc) A reiterada desobediência às determinações das entidades competentes, quando se mostrem ineficazes outras sanções;\n\nd) A aplicação e cobrança de taxas não previstas ou superiores às constantes do Regulamento de Tarifas;\n\ne) A oposição repetida ao exercício da fiscalização pela concedente, pelo Instituto de Trabalho Portuário ou outras entidades competentes;\n\nf) A verificação de situações repetidas de indisciplina do pessoal ou dos utentes da concessão que tenham sido determinadas por culpa grave da concessionária e das quais resultem perturbações graves no funcionamento dos serviços.\n\n3 - Não constituem causa de rescisão os factos devidos a caso de força maior.\n\n4 - A rescisão do contrato, quando as faltas da concessionária sejam meramente culposas e susceptíveis de correcção, não será declarada se forem integralmente cumpridas as obrigações violadas, ou reparados os danos causados, dentro do prazo estabelecido pela concedente ou pela entidade a quem esteja cometida a tutela dos interesses lesados pela conduta ilícita da concessionária.\n\n5 - Em caso algum será a rescisão declarada sem prévia audiência da concessionária, mas uma vez declarada produzirá imediatamente efeitos, sem precedência de qualquer outra formalidade, logo que comunicada àquela por escrito.\n\n6 - A falência da concessionária determina a caducidade do contrato, salvo se a concedente autorizar que os credores assumam os direitos e encargos do contrato de concessão.\n\n7 - A rescisão e a caducidade do contrato implicam a reversão gratuita do estabelecimento para a concedente e a perda das cauções prestadas em garantia do bom e pontual cumprimento do contrato."
+  },
+  "50213575": {
+   "fragment_id": "39126975",
+   "type": 2,
+   "heading": "Base XVII — Resgate da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Resgate da concessão\n\n1 - A concedente pode resgatar a concessão quando motivos de interesse público o justifiquem, desde que decorrido metade do prazo, mediante aviso comunicado por escrito à concessionária com, pelo menos, um ano de antecedência.\n\n2 - Em caso de resgate, a concessionária tem direito a uma indemnização igual ao valor contabilístico actualizado líquido de amortizações, referido às obras e bens por ela incorporados no estabelecimento.\n\n3 - Aplica-se aos casos de resgate o disposto no contrato em cumprimento do n.º 3 da base XV."
+  },
+  "50213675": {
+   "fragment_id": "39127075",
+   "type": 2,
+   "heading": "Base XVIII — Extinção do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVIII — Extinção do serviço\n\n1 - O Governo pode extinguir o serviço público concessionado, sob expressa invocação de interesse público, o qual deve ser fundamentado.\n\n2 - A extinção do serviço público faz caducar automaticamente a concessão e confere à concessionária o direito de ser indemnizada nos termos estabelecidos para o resgate.\n\n3 - Aplica-se ao caso previsto na presente base o disposto no contrato em cumprimento do n.º 3 da base XV."
+  },
+  "50213775": {
+   "fragment_id": "39127175",
+   "type": 2,
+   "heading": "Base XIX — Emergência grave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Emergência grave\n\n1 - Em caso de guerra, estado de sítio ou emergência grave, poderá a concedente assumir transitoriamente a exploração dos serviços da concessão, de harmonia com as normas aplicáveis a ocorrências dessa natureza, e sem precedência de qualquer formalidade.\n\n2 - Enquanto tiver lugar a situação prevista no número anterior suspende-se a contagem do prazo da concessão, ficando a concessionária exonerada do cumprimento das obrigações decorrentes do contrato de concessão."
+  },
+  "50213875": {
+   "fragment_id": "39127275",
+   "type": 2,
+   "heading": "Base XX — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XX — Sequestro\n\n1 - A concedente pode assumir a exploração dos serviços de concessão se, por facto imputável à concessionária, estiver iminente a cessação da actividade ou ocorrer perturbação grave que ponha em causa a regularidade da exploração.\n\n2 - Na vigência do sequestro, a concessionária responde pelos encargos e despesas inerentes à manutenção e restabelecimento da exploração que não possam, ser cobertos pelas receitas cobradas."
+  },
+  "50213975": {
+   "fragment_id": "37515975",
+   "type": 1,
+   "heading": "Capítulo V — Obrigações especiais da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Obrigações especiais da concessionária"
+  },
+  "50214075": {
+   "fragment_id": "39127375",
+   "type": 2,
+   "heading": "Base XXI — Deliberações da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXI — Deliberações da concessionária\n\n1 - Sem prejuízo de outras limitações que sejam. especialmente previstas no contrato de concessão, ficam sujeitas à aprovação da concedente as deliberações da concessionária relativas à alteração do respectivo objecto social, à transformação, fusão ou dissolução da sociedade, ou à redução do capital social.\n\n2 - A concessionária não pode, sem prévia e expressa autorização da concedente, alienar, hipotecar ou alterar no todo ou em parte as instalações, os equipamentos, o objecto ou os fins da concessão."
+  },
+  "50214175": {
+   "fragment_id": "39127475",
+   "type": 2,
+   "heading": "Base XXII — Taxa a pagar pela concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXII — Taxa a pagar pela concessionária\n\n1 - Pela utilização dos bens dominiais, instalações e equipamentos afectos à concessão são devidas, pela concessionária, as taxas estabelecidas no contrato, o qual disporá sobre o regime da respectiva aplicação, actualização e cobrança.\n\n2 - As referidas taxas não dispensam o pagamento de outras previstas nos regulamentos e normas tarifárias do porto, que lhe sejam aplicáveis, nem daquelas que, por determinação da lei, sejam devidas a outras entidades.\n\n3 - No caso das concessões revistas e atribuídas nos termos do n.º 1 do artigo 36.º do Decreto-Lei n.º 298/93, de 28 de Agosto, com a redacção que lhe foi dada pelo presente diploma, a alteração das contrapartidas e taxas cobradas deve ter em conta o equilíbrio das condições de concorrência no porto."
+  },
+  "50214275": {
+   "fragment_id": "37516075",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização, sanções e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fiscalização, sanções e garantias"
+  },
+  "50214375": {
+   "fragment_id": "39127575",
+   "type": 2,
+   "heading": "Base XXIII — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIII — Fiscalização\n\n1 - O estabelecimento da concessão e as actividades exercidas ficam sujeitos à fiscalização da concedente, sem prejuízo do exercício de fiscalização por outros serviços oficiais que para o efeito sejam competentes.\n\n2 - A concessionária não pode, sob qualquer pretexto, contrariar ou dificultar o acesso à área de concessão para os fins previstos no número anterior e deve pôr à disposição dos agentes fiscalizadores os meios adequados ao desempenho da sua função.\n\n3 - A concessionária deve facultar todos os livros e registos respeitantes ao estabelecimento e actividades concessionadas que as entidades competentes considerem necessários à acção fiscalizadora, bem como prestar os esclarecimentos que lhe forem solicitados."
+  },
+  "50214475": {
+   "fragment_id": "39127675",
+   "type": 2,
+   "heading": "Base XXIV — Vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIV — Vistorias\n\nConstituem encargo da concessionária todas as despesas resultantes de vistorias extraordinárias, nomeadamente as devidas a reclamações de terceiros, desde que se conclua pela existência de irregularidades imputáveis à concessionária."
+  },
+  "50214575": {
+   "fragment_id": "39127775",
+   "type": 2,
+   "heading": "Base XXV — Multas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXV — Multas\n\n1 - Pelo incumprimento das obrigações da concessão, a que não corresponda sanção mais grave, será a concessionária punida com multa cujos limites mínimo e máximo constam obrigatoriamente do contrato de concessão.\n\n2 - As sanções são graduadas em função da gravidade dos actos ou omissões e, uma vez comunicada à concessionária a respectiva aplicação pela concedente, tornam-se imediatamente eficazes, com dispensa de outra formalidade."
+  },
+  "50214675": {
+   "fragment_id": "39127875",
+   "type": 2,
+   "heading": "Base XXVI — Cauções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVI — Cauções\n\n1 - Como garantia do pontual pagamento de taxas, do bom cumprimento do contrato e da cobrança de multas aplicadas, a concessionária depositará à ordem da concedente uma caução no valor que for estabelecido no contrato.\n\n2 - A caução poderá ser substituída por outros meios de garantia idóneos e será actualizada de harmonia com os critérios e periodicidade estabelecidos no contrato."
+  },
+  "50214775": {
+   "fragment_id": "39127975",
+   "type": 2,
+   "heading": "Base XXVII — Responsabilidade civil da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVII — Responsabilidade civil da concessionária\n\nA concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos ocasionados à concedente ou a terceiros no exercício da actividade concessionada."
+  },
+  "50214875": {
+   "fragment_id": "37516175",
+   "type": 1,
+   "heading": "Capítulo VII — Transmissão de direitos e responsabilidades da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Transmissão de direitos e responsabilidades da concessionária"
+  },
+  "50214975": {
+   "fragment_id": "39128075",
+   "type": 2,
+   "heading": "Base XXVIII — Oneração ou transmissão de direitos e exploração de serviços por terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVIII — Oneração ou transmissão de direitos e exploração de serviços por terceiros\n\n1 - A concessionária não pode, sem prévio consentimento da concedente, onerar, transmitir, subconceder ou por qualquer forma fazer-se substituir, no todo ou em parte, na titularidade ou exercício dos direitos e bens da concessão.\n\n2 - São nulos os actos que contrariem o disposto no número anterior.\n\n3 - A exploração, devidamente autorizada, dos serviços de concessão por terceiros, fica subordinada ao regime estabelecido pelo contrato de concessão, sendo a concessionária solidariamente responsável pelas faltas ocorridas na prestação desses serviços."
+  },
+  "50215075": {
+   "fragment_id": "37516275",
+   "type": 1,
+   "heading": "Capítulo VIII — Contencioso do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Contencioso do contrato"
+  },
+  "50215175": {
+   "fragment_id": "39128175",
+   "type": 2,
+   "heading": "Base XXIX — Foro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIX — Foro\n\nSobre as questões de interpretação e de aplicação do contrato de concessão, podem a concedente e a concessionária acordar a respectiva resolução por tribunal arbitral a constituir nos termos gerais de direito, o qual julgará segundo as normas legais aplicáveis, ou segundo a equidade, na situação prevista na base XIV, ou quando o contrato o preveja expressamente."
+  },
+  "50215275": {
+   "fragment_id": "35980675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Outubro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Fernando Manuel Barbosa Faria de Oliveira - Eduardo Eugénio Castro de Azevedo Soares.\n\nPromulgado em 1 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Dezembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "897726700": {
+   "fragment_id": "39126575",
+   "type": 2,
+   "heading": "Base XIII — Prazo do contrato",
+   "in_force_from": "2024-11-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 92/2024 - Diário da República n.º 228/2024, Série I de 2024-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2024-897543549), em vigor a partir de 2024-11-30"
+   ],
+   "markdown": "###### Base XIII — Prazo do contrato\n\n1 - O contrato de concessão é outorgado por prazo determinado estabelecido em função do período de tempo necessário para amortização e remuneração, em normais condições de rendibilidade da exploração, do capital investido pelo concessionário, não podendo ser superior a 75 anos.\n\n2 - O prazo inicial da concessão pode ser prorrogado com fundamento na necessidade de assegurar a amortização e remuneração, em normais condições de rendibilidade da exploração, do capital investido pelo concessionário, nos termos previstos no artigo 282.º do Código dos Contratos Públicos.\n\n3 - O prazo inicial da concessão acrescido de eventuais prorrogações não pode ultrapassar o prazo máximo de 75 anos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 92/2024 - Diário da República n.º 228/2024, Série I de 2024-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2024-897543549), em vigor a partir de 2024-11-30"
+  }
+ }
+}

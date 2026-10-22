@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "leis-portugal"
+version = "0.1.0"
+description = "Recolha, normalização e validação de legislação portuguesa e europeia"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [
+  {name = "João Barroso"}
+]
+keywords = ["portugal", "legislação", "direito", "dados-abertos", "eur-lex"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12"
+]
+dependencies = [
+  "requests>=2.31",
+  "PyYAML>=6.0",
+  "jsonschema>=4.0",
+  "beautifulsoup4>=4.12"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "ruff>=0.8",
+  "pytest-cov>=6.0"
+]
+
+[project.scripts]
+leis-portugal = "leis_portugal.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = [
+  "integration: testes que dependem de acesso à rede ou serviços externos"
+]
+
+[tool.ruff]
+line-length = 140
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["F", "E9", "B", "UP", "I"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["leis_portugal"]
+lines-after-imports = 2

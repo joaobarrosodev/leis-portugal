@@ -1,0 +1,184 @@
+---
+schema_version: '1.0'
+id: pt:dre:899204481:por
+title: Resolução do Conselho de Ministros n.º 179/2024
+short_title: null
+summary: Nomeia o diretor e subdiretores do Centro Jurídico do Estado.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 179/2024
+official_date: null
+publication_date: '2024-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 237/2024, Série I de 2024-12-06
+  number: '237'
+  series: I
+  supplement: null
+  pages: 10 - 12
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23700/0001000012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/179/2024/12/06/p/dre/pt/html
+  oj: null
+  dre: '899204481'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/179-2024-899204481
+  internal: pt:dre:899204481:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-2024-899204481
+  metadata_url: https://data.dre.pt/eli/resolconsmin/179/2024/12/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-2024-899204481
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-12-06T00:00:00Z'
+integrity:
+  source_sha256: 8d230f3ed98580303cf3a850bb7949ef53fc7cd89df642b507aa91570899e5af
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-179-899204481.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Diretor
+- Nomeação
+- Subdiretor
+- Centro Jurídico do Estado
+- CEJURE
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/68/2024/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/68/2024/10/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/52/2019/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/52/2019/07/31/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 179/2024
+
+No âmbito da reforma da organização, governação e prestação do setor público, o Programa do XXIV Governo Constitucional prevê o objetivo da «agregação, aquisição e desenvolvimento de centros de competência de excelência», no qual se inclui o centro de competências jurídicas. Neste contexto, foi aprovado o [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, no qual se estabelece o alargamento do âmbito de atividade, serviços e intervenção do Centro Jurídico do Estado (CEJURE).
+
+Esse alargamento de atividade e reforço de excelência veio a ser concretizado através do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, que aprovou a orgânica do CEJURE, cujos diretor e subdiretores cumpre agora designar.
+
+Nos termos do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, conjugado com o n.º 2 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, o diretor e os subdiretores do CEJURE são designados mediante resolução do Conselho de Ministros.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 68/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2024-890194535), de 8 de outubro, dos n.<sup>os</sup>2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar Joaquim Pedro Formigal Cardoso da Costa, Virgínia Maria Barbosa da Silva e Raul Relvas Moreira respetivamente para os cargos de diretor e subdiretores do CEJURE, cujas idoneidade, experiência e competência profissionais são patentes nas notas curriculares que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar o subdiretor Raul Relvas Moreira a acumular as respetivas funções com a atividade de docência em estabelecimento de ensino superior e participação em conferências, palestras e ações de formação de curta duração, nos termos da alínea a) do n.º 3 do artigo 22.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e com os limites fixados na alínea c) do n.º 2 do artigo 21.º da mesma lei, aplicáveis por força do disposto no n.º 2 do artigo 16.º e no n.º 2 do artigo 17.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual, conjugados com a alínea f) do n.º 1 do artigo 3.º e a alínea c) do n.º 2 do artigo 6.º da [Lei n.º 52/2019](https://diariodarepublica.pt/dr/detalhe/lei/52-2019-123610180), de 31 de julho.
+
+3 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 28 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Notas curriculares
+
+1 - Dados pessoais:
+
+Joaquim Pedro Formigal Cardoso da Costa.
+
+2 - Formação académica:
+
+Licenciado (1988) e mestre (1995) em Direito (Ciências Jurídico-Políticas) pela Faculdade de Direito da Universidade de Coimbra.
+
+3 - Atividade profissional:
+
+Jurista, desde 1991, da carreira de investigação tributária do Centro de Estudos Fiscais da Autoridade Tributária, e, desde 2023, «Of Counsel» da Pragma, Sociedade de Advogados.
+
+Foi provedor-adjunto de justiça (2017-2022) e Secretário de Estado para a Modernização Administrativa do XIX Governo Constitucional (2013-2015).
+
+Foi assessor jurídico do Presidente da República (2006-2008), de Presidentes da Assembleia da República (2002-2005 e 2011-2013), do Presidente do Tribunal Constitucional (1998-2002), do Representante da República para a Região Autónoma da Madeira (2011), do Gabinete dos Juízes do Tribunal Constitucional (1990-1991) e dos Ministros do Mar (1993-1995) e da Justiça (1988-1990).
+
+Foi assistente convidado da Faculdade de Direito da Universidade de Lisboa (1997-2022), assistente convidado da Universidade Católica Portuguesa, em Lisboa (2010-2011), professor convidado da Academia Militar (2008-2010), professor convidado do Instituto Superior de Ciências Policiais e Segurança Interna (1998-2006) e assistente da Universidade Autónoma de Lisboa (1990-1998).
+
+Foi membro da Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens (2018-2022), presidente do Conselho Superior de Estatística (2013-2015) e fundador e diretor da revista Jurisprudência Constitucional.
+
+Foi fundador e vice-presidente do partido político Movimento Esperança Portugal (2008-2011).
+
+É árbitro (arbitragem administrativa) do CAAD - Centro de Arbitragem Administrativa.
+
+1 - Dados pessoais:
+
+Virgínia Maria Barbosa da Silva.
+
+2 - Formação académica:
+
+Licenciatura em Direito (Ciências Jurídico-Económicas) da Faculdade de Direito da Universidade de Lisboa (curso 1984-1989).
+
+3 - Atividade profissional:
+
+Diretora em gestão corrente do Centro Jurídico do Estado - CEJURE (outubro-novembro 2024); diretora do Centro de Competências Jurídicas do Estado - JurisAPP (julho de 2018-outubro de 2024); diretora de serviços de Apoio Jurídico e Contencioso, da Secretaria-Geral do Ministério das Finanças (fevereiro de 2009-junho de 2018 e abril de 2007-março de 2008); chefe do Gabinete da Secretária de Estado dos Transportes do XVII Governo Constitucional (março de 2008-janeiro de 2009); técnica superior do Gabinete Jurídico da Secretaria-Geral do Ministério das Finanças (outubro de 2005-março de 2007); técnica superior da Direção-Geral dos Registos e do Notariado (abril-outubro de 2005); diretora dos Serviços Administrativos e Financeiros do Supremo Tribunal Administrativo (novembro de 2002-março de 2005); chefe da Divisão dos Serviços Administrativos e Financeiros do Gabinete de Auditoria e Modernização do Ministério da Justiça (abril de 2001-outubro de 2002); técnica superior da Secção de Fiscalização Sucessiva da Direção-Geral do Tribunal de Contas (julho de 2000-abril de 2001); assessora jurídica do Secretário-Adjunto para a Comunicação, Turismo e Cultura do Governo de Macau (agosto de 1994-dezembro de 1999); assessora do Presidente do Tribunal de Contas de Macau (julho de 1993-julho de 1994); técnica superior do Gabinete de Estudos da Direção dos Serviços de Finanças de Macau (novembro de 1991-julho de 1993); técnica superior do Gabinete dos Assuntos Legislativos de Macau (novembro de 1990-novembro de 1991); monitora das disciplinas de Finanças Públicas I e II, na Faculdade de Direito da Universidade de Lisboa (1988-1990). Cédula profissional da Ordem dos Advogados suspensa por exercício de funções públicas desde 1991.
+
+1 - Dados pessoais:
+
+Raul Relvas Moreira.
+
+2 - Formação académica:
+
+Doutoramento em Direito pela Faculdade de Direito da Universidade Católica Portuguesa, na área do Direito Administrativo (2024); mestrado científico em Direito Administrativo pela Faculdade de Direito da Universidade de Lisboa (2014); Curso de Extensão Universitária em Contratação Pública e Concorrência pela Faculdade de Direito da Universidade Nova de Lisboa (2011); licenciatura em Direito pela Faculdade de Direito da Universidade Nova de Lisboa (2009).
+
+3 - Atividade profissional:
+
+Assessor jurídico do Gabinete do Presidente do Tribunal Constitucional desde 2023, especialmente dedicado a matérias de direito administrativo, incluindo direito administrativo geral, direito dos contratos públicos, direito do emprego público e direito financeiro público. Docente convidado da Faculdade de Direito (Escola de Lisboa) da Universidade Católica Portuguesa desde 2018. Integra o corpo docente dos cursos de licenciatura em Direito e de mestrado em Direito Administrativo, sendo responsável por disciplinas nas áreas do Direito Administrativo e do Direito dos Contratos Públicos. Tem lecionado também em cursos de pós-graduação e noutros cursos de formação especializada. As suas áreas de investigação incluem o Direito Administrativo, o Direito Processual Administrativo, o Direito da Arbitragem Administrativa e o Direito dos Contratos Públicos, com publicação de artigos científicos e participação em obras coletivas. Foi orador em diversas conferências e tem colaborado nos concursos de ingresso no Centro de Estudos Judiciários como membro do júri das provas de avaliação da fase oral. Bolseiro do Católica Research Centre for the Future of Law - Centro de Estudos e Investigação em Direito da Faculdade de Direito da Universidade Católica Portuguesa entre 2019 e 2023, com vista à preparação da sua tese de doutoramento. Advogado, entre 2009 e 2019, na sociedade de advogados Linklaters LLP, onde fez o seu estágio e da qual foi associado e, posteriormente, consultor, tendo integrado os Departamentos de Resolução de Litígios e de Direito Público, especialmente dedicado a matérias de direito administrativo, incluindo nos domínios da composição de litígios perante tribunais estaduais e arbitrais e da prestação de assessoria especializada no âmbito da formação e da execução de contratos e de operações jurídicas em setores regulados. Integra a lista de árbitros do CAAD - Centro de Arbitragem Administrativa desde 2015 (atualmente com a menção de indisponível), tendo intervindo como árbitro único em litígios jurídico-administrativos.

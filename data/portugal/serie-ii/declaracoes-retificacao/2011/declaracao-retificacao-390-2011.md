@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:2360945:por
+title: Declaração de Rectificação n.º 390/2011
+short_title: null
+summary: Rectifica o procedimento concursal comum para ocupação de um posto de trabalho da carreira e categoria de técnico
+  superior (geografia) - aviso n.º 23 978/2010
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Lousada
+proposing_entity: null
+official_number: 390/2011
+official_date: null
+publication_date: '2011-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/2011, Série II de 2011-02-15
+  number: '32'
+  series: II
+  supplement: null
+  pages: 8124 - 8124
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/02/032000000/0812408124.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2360945'
+  dre_path: /dr/detalhe/declaracao-rectificacao/390-2011-2360945
+  internal: pt:dre:2360945:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/390-2011-2360945
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/390-2011-2360945
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-02-15T00:00:00Z'
+integrity:
+  source_sha256: 064eeb126416892558da17a2f241d00b2b2f49fc7dbb01f0f57155ee4b5c6a3c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-390-2360945.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 390/2011
+
+Torna-se público, para os devidos efeitos, que, por lapso, no aviso n.º 23 978/2010, publicado no Diário da República, 2.ª série, n.º 244, de 18 de Novembro de 2010, referente ao procedimento concursal comum para ocupação de um posto de trabalho da carreira e categoria de técnico superior (geografia), por tempo indeterminado, no ponto 6, onde se lê:
+
+«6 - Caracterização dos postos de trabalho: As actividades serão desenvolvidas no âmbito das competências definidas para o Departamento de Urbanismo, nos termos do Regulamento Interno de Serviços do Município de Lousada, nomeadamente: Concepção, preparação, orientação e execução, no âmbito da sua qualificação profissional, de levantamentos geodésicos, topográficos, fotograméticos e outros; Orientação e verificação da execução de cartas, mapas e planos elaborados a partir dos elementos obtidos, tendo em consideração títulos de propriedade e outros dados cadastrais; Elaboração de relatórios pormenorizados e de pareceres sobre questões da sua especialidade; Desenvolvimento, apoio, orientação e manutenção de cartografia de base do concelho em suporte de papel ou digital, recorrendo nomeadamente a tecnologias CAD (desenho assistido por computador) ou SIG (sistemas de informação geográfica), conjugado com as funções constantes no Anexo à [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro a que corresponde o grau de complexidade 3.»
+
+deve ler-se:
+
+«6 - Caracterização dos postos de trabalho: As actividades serão desenvolvidas no âmbito das competências definidas para o Departamento de Urbanismo, nos termos do Regulamento Interno de Serviços do Município de Lousada, nomeadamente: Estuda fenómenos físicos e humanos do território no que respeita às suas distribuições espaciais e interligações às escalas local, regional e nacional; Efectua estudos sobre o ambiente natural, o povoamento, as actividades dos grupos humanos e os equipamentos sociais nas suas relações mútuas e fazendo observações directas ou interpretando e aplicando resultados obtidos por ciências conexas; Efectua estudos em diversos domínios, nomeadamente localização e distribuição espacial de infra-estruturas, população, actividade e equipamentos, ordenamento do território, desenvolvimento regional e urbano, planeamento biofísico e riscos ambientais, defesa e salvaguarda do património natural ou construído com vista ao arranjo do espaço e à melhoria de vida das populações; Recorre, com frequência, a tecnologias informáticas, como no caso dos sistemas de informação geográfica que permitem obter, armazenar, manipular e analisar informação especialmente referenciada, produzindo diversos tipos de documentos geográficos de relacionamento dos fenómenos, conjugado com as funções constantes no anexo à [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, a que corresponde o grau de complexidade 3.»
+
+Mais se torna público que o prazo de candidatura ao procedimento concursal supracitado foi dilatado por mais 10 dias úteis a contar do dia seguinte ao da publicação da presente declaração de rectificação no Diário da República,
+
+26 de Janeiro de 2011. - O Presidente da Câmara, Jorge Manuel Fernandes Malheiro de Magalhães.

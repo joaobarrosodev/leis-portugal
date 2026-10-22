@@ -1,0 +1,380 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:344401:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-160149431",
+ "dre_path": "/dr/detalhe/decreto-lei/413-1991-344401",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160152694",
+    "160149367",
+    "160149368",
+    "160149369",
+    "160149370",
+    "160149371",
+    "160149372",
+    "160149373",
+    "160149374"
+   ]
+  },
+  {
+   "date": "1992-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:217925:por",
+     "title": "Lei n.º 5/92",
+     "published": "1992-04-21",
+     "dre_path": "/dr/detalhe/lei/5-1992-217925"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "160149366",
+    "160152680",
+    "160149368",
+    "160149369",
+    "160149370",
+    "160149371",
+    "160149372",
+    "160149373",
+    "160149374",
+    "160152681",
+    "160152682"
+   ]
+  },
+  {
+   "date": "1998-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197751:por",
+     "title": "Decreto-Lei n.º 70/98",
+     "published": "1998-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/70-1998-197751"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "160149366",
+    "160152680",
+    "160149368",
+    "160149369",
+    "160149370",
+    "160152685",
+    "160149372",
+    "160149373",
+    "160149374",
+    "160152681",
+    "160152682"
+   ]
+  },
+  {
+   "date": "1999-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:684063:por",
+     "title": "Decreto-Lei n.º 489/99",
+     "published": "1999-11-17",
+     "dre_path": "/dr/detalhe/decreto-lei/489-1999-684063"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "160149366",
+    "160152680",
+    "160149368",
+    "160149369",
+    "160149370",
+    "160152693",
+    "160149372",
+    "160149373",
+    "160149374",
+    "160152681",
+    "160152682"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    },
+    {
+     "id": "pt:dre:217925:por",
+     "title": "Lei n.º 5/92",
+     "published": "1992-04-21",
+     "dre_path": "/dr/detalhe/lei/5-1992-217925"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma",
+    "Adita Artigo 9.º"
+   ],
+   "fragments": [
+    "160152694",
+    "160152695",
+    "160152696",
+    "160152697",
+    "160152698",
+    "160152699",
+    "160152700",
+    "160152701",
+    "160152702",
+    "160152703",
+    "160152704"
+   ]
+  }
+ ],
+ "fragments": {
+  "160152694": {
+   "fragment_id": "160149432",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 413/91\n\nde 19 de Outubro\n\nTêm vindo a detectar-se no âmbito dos serviços dos municípios inúmeras situações em que as admissões de pessoal para lugares do quadro ou as promoções de funcionários resultaram de actos nulos ou juridicamente inexistentes.\n\nPor outro lado, e ainda que, para a solução de muitas situações, a jurisprudência e a doutrina tenham recorrido à figura jurídica do «agente putativo», segundo a qual o decurso de tempo de exercício pacífico, contínuo e público de funções, legitima a situação do agente ou funcionário, com provimento afectado de nulidade ou inexistência jurídica, este expediente não se revela suficiente para a resolução da problemática, à qual importa pôr termo por via legislativa.\n\nCom o presente diploma visa-se regularizar a situação dos agentes admitidos naquelas condições, para lugares dos quadros e dos funcionários dos serviços dos municípios que venham desempenhando funções, em regime de tempo completo, com sujeição à disciplina, herarquia e horário do respectivo serviço e de forma pacífica, pública e ininterrupta, cuja admissão ou promoção esteja afectada de nulidade ou inexistência jurídica.\n\nTornando-se necessário evitar que ocorram situações idênticas às que agora se regularizam, prevêem-se ainda medidas sancionatórias.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses, bem como as associações sindicais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "160149367": {
+   "fragment_id": "160149433",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma define o regime de regularização da situação do pessoal do quadro dos serviços de municípios que tenha sido admitido para lugares de ingresso ou de acesso ou promovido com violação de disposições legais geradora de nulidade ou inexistência jurídica."
+  },
+  "160149368": {
+   "fragment_id": "160149434",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - O pessoal que tenha sido admitido para lugares de ingresso ou de acesso há mais de três anos, à data da entrada em vigor do presente diploma, e desempenhe funções em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do respectivo serviço, e de forma pacífica, pública e ininterrupta, considera-se provido nos respectivos lugares, sem prejuízo do disposto no número seguinte.\n\n2 - Quando do provimento em lugar de acesso resultar tratamento mais favorável do que o que decorreria do normal acesso na carreira, o provimento efectua-se, sem prejuízo das habilitações legais exigíveis, para a categoria que integre as funções que o funcionário efectivamente desempenha, no escalão 1 de categoria inferior, a determinar consoante os anos de serviço prestado, agrupados de acordo com os módulos de tempo de serviço exigíveis para a promoção na carreira."
+  },
+  "160149369": {
+   "fragment_id": "160149435",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Os funcionários que tenham sido promovidos com violação de disposições legais geradora de nulidade ou inexistência jurídica consideram-se providos nessa categoria, sem prejuízo do disposto no número seguinte.\n\n2 - Nos casos em que do provimento a que se refere o número anterior resulte um tratamento mais favorável do que o normal acesso na carreira, o provimento considera-se feito no escalão 1 de categoria inferior, a determinar consoante os anos de serviço prestado, agrupados de harmonia com os módulos de tempo de serviço exigíveis para promoção na carreira."
+  },
+  "160149370": {
+   "fragment_id": "160149436",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNa aplicação do presente diploma devem ser consideradas as agregações de categorias decorrentes do Decreto-Lei n.º 353-A/89, de 16 de Outubro, operando-se, nestes casos, a integração nos escalões de acordo com os módulos de tempo exigidos para progressão na categoria."
+  },
+  "160149371": {
+   "fragment_id": "160149437",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Os provimentos decorrentes da aplicação do presente diploma são feitos por deliberação da câmara municipal ou do conselho de administração dos serviços municipalizados, mediante iniciativa do respectivo serviço, do interessado ou das entidades a quem compete o exercício da tutela inspectiva sobre as autarquias locais.\n\n2 - Nas câmaras municipais, e existindo delegação de competência, o provimento é feito por decisão do presidente da câmara.\n\n3 - O tempo de serviço prestado antes da regularização releva para efeitos de progressão e promoção na carreira, bem como para efeitos de aposentação ou sobrevivência, mediante o pagamento dos respectivos descontos.\n\n4 - O pessoal provido nos termos do presente diploma só pode ser promovido na respectiva carreira desde que seja possuidor das habilitações literárias e demais requisitos exigidos por lei."
+  },
+  "160149372": {
+   "fragment_id": "160149438",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Os membros da câmara municipal e do conselho de administração dos serviços municipalizados que tomem parte em deliberação relativa a acto de admissão ou promoção, com violação dos preceitos legais aplicáveis, resultando dessa violação a nulidade ou inexistência jurídica do acto, são pessoalmente responsáveis pelas quantias pagas.\n\n2 - São igualmente responsáveis nos termos do número anterior os membros da câmara municipal ou do conselho de administração dos serviços municipalizados que tomem parte em deliberação relativa aos processos de regularização que viole o disposto no presente diploma.\n\n3 - O disposto nos números anteriores não é aplicável aos membros da câmara municipal ou do conselho de administração dos serviços municipalizados que tenham votado contra ou não tenham participado nas deliberações ali aludidas.\n\n4 - O pessoal dirigente ou de chefia dos serviços de apoio instrumental informa obrigatoriamente os processos de regularização, sendo pessoal e solidariamente responsável por eventual reposição de quantias indevidamente pagas."
+  },
+  "160149373": {
+   "fragment_id": "160149439",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara efeitos de excução do disposto no presente diploma são criados, nos termos do Decreto-Lei n.º 100/84, de 29 de Março, os lugares necessários, os quais são extintos à medida que vagarem."
+  },
+  "160149374": {
+   "fragment_id": "160149440",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSão nulas e de nenhum efeito as deliberações que violem o disposto no presente decreto-lei."
+  },
+  "160149366": {
+   "fragment_id": "160149432",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 413/91\n\nde 19 de Outubro\n\nTêm vindo a detectar-se no âmbito dos serviços dos municípios inúmeras situações em que as admissões de pessoal para lugares do quadro ou as promoções de funcionários resultaram de actos nulos ou juridicamente inexistentes.\n\nPor outro lado, e ainda que, para a solução de muitas situações, a jurisprudência e a doutrina tenham recorrido à figura jurídica do «agente putativo», segundo a qual o decurso de tempo de exercício pacífico, contínuo e público de funções, legitima a situação do agente ou funcionário, com provimento afectado de nulidade ou inexistência jurídica, este expediente não se revela suficiente para a resolução da problemática, à qual importa pôr termo por via legislativa.\n\nCom o presente diploma visa-se regularizar a situação dos agentes admitidos naquelas condições, para lugares dos quadros e dos funcionários dos serviços dos municípios que venham desempenhando funções, em regime de tempo completo, com sujeição à disciplina, herarquia e horário do respectivo serviço e de forma pacífica, pública e ininterrupta, cuja admissão ou promoção esteja afectada de nulidade ou inexistência jurídica.\n\nTornando-se necessário evitar que ocorram situações idênticas às que agora se regularizam, prevêem-se ainda medidas sancionatórias.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses, bem como as associações sindicais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "160152680": {
+   "fragment_id": "160149433",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1992-04-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 1992-04-26"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma define o regime de regularização da situação do pessoal do quadro dos serviços de municípios e freguesias que tenha sido admitido para lugares de ingresso ou de acesso ou promovido com violação de disposições legais geradora de nulidade ou inexistência jurídica.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 1992-04-26"
+  },
+  "160152681": {
+   "fragment_id": "160149457",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 9.º\n\nPara efeitos da aplicação do presente diploma às freguesias, dever-se-ão considerar também referidas aos competentes órgãos da freguesia as menções nele reportadas aos órgãos municipais.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 2021-03-28"
+  },
+  "160152682": {
+   "fragment_id": "160149441",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira.\n\nPromulgado em 3 de Outubro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Outubro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "160152685": {
+   "fragment_id": "160149437",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1998-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 70/98 - Diário da República n.º 72/1998, Série I-A de 1998-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1998-197751), em vigor a partir de 1998-03-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os provimentos decorrentes da aplicação do presente diploma são feitos por deliberação da câmara municipal ou do conselho de administração dos serviços municipalizados, mediante iniciativa do respectivo serviço, do interessado ou das entidades a quem compete o exercício da tutela inspectiva sobre as autarquias locais.\n\n2 - Nas câmaras municipais, e existindo delegação de competência, o provimento é feito por decisão do presidente da câmara.\n\n3 - O tempo de serviço prestado antes da regularização releva para efeitos de progressão e promoção na carreira, bem como para efeitos de aposentação ou sobrevivência, mediante o pagamento dos respectivos descontos.\n\n4 - Ao pessoal provido nos termos do presente diploma apenas são requeridas, para efeitos de promoção nas respectivas carreiras, as habilitações legais exigíveis no momento em que se efectuou o provimento nos termos previstos no artigo 1.º\n\n> Alterado pelo/a [Decreto-Lei n.º 70/98 - Diário da República n.º 72/1998, Série I-A de 1998-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1998-197751), em vigor a partir de 1998-03-31"
+  },
+  "160152693": {
+   "fragment_id": "160149437",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1999-11-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 489/99 - Diário da República n.º 268/1999, Série I-A de 1999-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1999-684063), em vigor a partir de 1999-11-22",
+    "Alterado pelo/a [Decreto-Lei n.º 70/98 - Diário da República n.º 72/1998, Série I-A de 1998-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1998-197751), em vigor a partir de 1998-03-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os provimentos decorrentes da aplicação do presente diploma são feitos por deliberação da câmara municipal ou do conselho de administração dos serviços municipalizados, mediante iniciativa do respectivo serviço, do interessado ou das entidades a quem compete o exercício da tutela inspectiva sobre as autarquias locais.\n\n2 - Nas câmaras municipais, e existindo delegação de competência, o provimento é feito por decisão do presidente da câmara.\n\n3 - O tempo de serviço prestado antes da regularização releva para efeitos de progressão e promoção na carreira, bem como para efeitos de aposentação ou sobrevivência, mediante o pagamento dos respectivos descontos.\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 489/99 - Diário da República n.º 268/1999, Série I-A de 1999-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1999-684063), em vigor a partir de 1999-11-22\n\n> Alterado pelo/a [Decreto-Lei n.º 70/98 - Diário da República n.º 72/1998, Série I-A de 1998-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1998-197751), em vigor a partir de 1998-03-31"
+  },
+  "160152695": {
+   "fragment_id": "160149433",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 1992-04-26"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma define o regime de regularização da situação do pessoal do quadro dos serviços de municípios e freguesias que tenha sido admitido para lugares de ingresso ou de acesso ou promovido com violação de disposições legais geradora de nulidade ou inexistência jurídica.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 1992-04-26"
+  },
+  "160152696": {
+   "fragment_id": "160149434",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - O pessoal que tenha sido admitido para lugares de ingresso ou de acesso há mais de três anos, à data da entrada em vigor do presente diploma, e desempenhe funções em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do respectivo serviço, e de forma pacífica, pública e ininterrupta, considera-se provido nos respectivos lugares, sem prejuízo do disposto no número seguinte.\n\n2 - Quando do provimento em lugar de acesso resultar tratamento mais favorável do que o que decorreria do normal acesso na carreira, o provimento efectua-se, sem prejuízo das habilitações legais exigíveis, para a categoria que integre as funções que o funcionário efectivamente desempenha, no escalão 1 de categoria inferior, a determinar consoante os anos de serviço prestado, agrupados de acordo com os módulos de tempo de serviço exigíveis para a promoção na carreira.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160152697": {
+   "fragment_id": "160149435",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Os funcionários que tenham sido promovidos com violação de disposições legais geradora de nulidade ou inexistência jurídica consideram-se providos nessa categoria, sem prejuízo do disposto no número seguinte.\n\n2 - Nos casos em que do provimento a que se refere o número anterior resulte um tratamento mais favorável do que o normal acesso na carreira, o provimento considera-se feito no escalão 1 de categoria inferior, a determinar consoante os anos de serviço prestado, agrupados de harmonia com os módulos de tempo de serviço exigíveis para promoção na carreira.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160152698": {
+   "fragment_id": "160149436",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\nNa aplicação do presente diploma devem ser consideradas as agregações de categorias decorrentes do Decreto-Lei n.º 353-A/89, de 16 de Outubro, operando-se, nestes casos, a integração nos escalões de acordo com os módulos de tempo exigidos para progressão na categoria.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160152699": {
+   "fragment_id": "160149437",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 489/99 - Diário da República n.º 268/1999, Série I-A de 1999-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1999-684063), em vigor a partir de 1999-11-22",
+    "Alterado pelo/a [Decreto-Lei n.º 70/98 - Diário da República n.º 72/1998, Série I-A de 1998-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1998-197751), em vigor a partir de 1998-03-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os provimentos decorrentes da aplicação do presente diploma são feitos por deliberação da câmara municipal ou do conselho de administração dos serviços municipalizados, mediante iniciativa do respectivo serviço, do interessado ou das entidades a quem compete o exercício da tutela inspectiva sobre as autarquias locais.\n\n2 - Nas câmaras municipais, e existindo delegação de competência, o provimento é feito por decisão do presidente da câmara.\n\n3 - O tempo de serviço prestado antes da regularização releva para efeitos de progressão e promoção na carreira, bem como para efeitos de aposentação ou sobrevivência, mediante o pagamento dos respectivos descontos.\n\n4 - (Revogado).\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 489/99 - Diário da República n.º 268/1999, Série I-A de 1999-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1999-684063), em vigor a partir de 1999-11-22\n\n> Alterado pelo/a [Decreto-Lei n.º 70/98 - Diário da República n.º 72/1998, Série I-A de 1998-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1998-197751), em vigor a partir de 1998-03-31"
+  },
+  "160152700": {
+   "fragment_id": "160149438",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Os membros da câmara municipal e do conselho de administração dos serviços municipalizados que tomem parte em deliberação relativa a acto de admissão ou promoção, com violação dos preceitos legais aplicáveis, resultando dessa violação a nulidade ou inexistência jurídica do acto, são pessoalmente responsáveis pelas quantias pagas.\n\n2 - São igualmente responsáveis nos termos do número anterior os membros da câmara municipal ou do conselho de administração dos serviços municipalizados que tomem parte em deliberação relativa aos processos de regularização que viole o disposto no presente diploma.\n\n3 - O disposto nos números anteriores não é aplicável aos membros da câmara municipal ou do conselho de administração dos serviços municipalizados que tenham votado contra ou não tenham participado nas deliberações ali aludidas.\n\n4 - O pessoal dirigente ou de chefia dos serviços de apoio instrumental informa obrigatoriamente os processos de regularização, sendo pessoal e solidariamente responsável por eventual reposição de quantias indevidamente pagas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160152701": {
+   "fragment_id": "160149439",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 7.º\n\nPara efeitos de excução do disposto no presente diploma são criados, nos termos do Decreto-Lei n.º 100/84, de 29 de Março, os lugares necessários, os quais são extintos à medida que vagarem.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160152702": {
+   "fragment_id": "160149440",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\nSão nulas e de nenhum efeito as deliberações que violem o disposto no presente decreto-lei.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160152703": {
+   "fragment_id": "160149457",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 9.º\n\nPara efeitos da aplicação do presente diploma às freguesias, dever-se-ão considerar também referidas aos competentes órgãos da freguesia as menções nele reportadas aos órgãos municipais.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 5/92 - Diário da República n.º 93/1992, Série I-A de 1992-04-21](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), em vigor a partir de 2021-03-28"
+  },
+  "160152704": {
+   "fragment_id": "160149441",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira.\n\nPromulgado em 3 de Outubro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Outubro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

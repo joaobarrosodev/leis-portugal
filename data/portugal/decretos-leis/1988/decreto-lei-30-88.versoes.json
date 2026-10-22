@@ -1,0 +1,123 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:282708:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-1060895422",
+ "dre_path": "/dr/detalhe/decreto-lei/30-1988-282708",
+ "source_lastmod": "2026-10-16",
+ "versions": [
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "1061724875",
+    "1179290175",
+    "1179250175",
+    "1179250375",
+    "1179249975",
+    "1179290875",
+    "1179291075",
+    "1183018575",
+    "1061725075",
+    "1061725275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1061724875": {
+   "fragment_id": "1061724775",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em conformidade com os actos comunitários sobre liberdade de estabelecimento e livre prestação de serviços, torna-se necessário proceder à definição legal das entidades competentes para a emissão e recebimento dos certificados comprovativos de actividades industriais, comerciais e agrícolas, bem como designar o organismo público ao qual serão cometidos poderes funcionais para atestar o exercício destas actividades, em Portugal, por trabalhadores por conta de outrem, para efeito do seu exercício noutros Estados membros das Comunidades.\n\nA solução encontrada quanto à emissão dos certificados acompanha de perto as experiências, neste domínio, de significativa parte dos Estados membros, sem deixar de se prever um mecanismo de subsidiariedade, atribuindo aos governadores civis o poder de suprir a inércia ou, em casos justificáveis, o indeferimento por parte das entidades privadas escolhidas como competentes, em razão do seu conhecimento das realidades e do seu elevado grau institucional na sociedade civil.\n\nA preocupação de se encontrar um esquema garantidamente viável norteou a atribuição à Inspecção-Geral do Trabalho dos poderes necessários à passagem dos certificados, quando em causa estejam trabalhadores por conta de outrem que tenham exercido tais actividades, a esse título, no território nacional.\n\nEstas soluções correspondem, em significativa parte, ao contributo das confederações que, em conjunto com o Ministério da Justiça, participaram activamente na elaboração do presente diploma.\n\nCom vista a adequar os procedimentos previstos neste diploma às realidades insulares, foram ouvidos os competentes órgãos regionais, que se pronunciaram sobre a matéria.\n\nFinalmente, pareceu de salutar metodologia legislativa conferir ao presente diploma um carácter transitório, permitindo assim colher os resultados que a experiência for aconselhando.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "1179290175": {
+   "fragment_id": "1179290075",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Confederação da Indústria Portuguesa, a Confederação do Comércio Português e a Confederação dos Agricultores de Portugal são, respectivamente, competentes para emitirem certificados comprovativos do exercício de actividades industriais, comerciais ou agrícolas por profissionais independentes sempre que actos comunitários os prevejam como condição para o exercício das referidas actividades noutro Estado membro das Comunidades.\n\n2 - A competência da Confederação do Comércio Português é exercida, conforme os casos, através da Federação do Comércio Retalhista Português ou da Federação do Comércio Grossista Português.\n\n3 - Nas Regiões Autónomas dos Açores e da Madeira, as competências fixadas no n.º 1 são, respectivamente, exercidas, consoante as actividades, pela Câmara de Comércio e Indústria dos Açores ou pela Associação Agrícola dos Açores e pela Associação Comercial e Industrial do Funchal ou pela Associação dos Agricultores da Madeira."
+  },
+  "1179250175": {
+   "fragment_id": "1179290275",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Em caso de demora ou de recusa de emissão dos certificados referidos no artigo anterior, estes podem ser emitidos, quando tal se justifique, pelos membros do Governo responsáveis pelas áreas da economia ou da agricultura, consoante se trate de actividades industriais e comerciais, ou de actividades agrícolas, respectivamente.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, nos casos previstos no número anterior, os certificados são emitidos pelos serviços competentes dos respectivos Governos Regionais.\n\n3 - Entende-se haver demora quando o certificado não for entregue no prazo de 30 dias a contar da data da entrada do requerimento.\n\n4 - A recusa será fundamentada, nos termos da lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+  },
+  "1179250375": {
+   "fragment_id": "1179290475",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+   ],
+   "markdown": "###### Artigo 3.º\n\nPara os efeitos previstos nos n.os 1 e 2 do artigo anterior, as entidades aí referidas ouvem a entidade competente, referida no artigo 1.º, que deverá pronunciar-se no prazo de 20 dias.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01."
+  },
+  "1179249975": {
+   "fragment_id": "1179249875",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Tratando-se de actividades exercidas por trabalhadores por conta de outrem, compete à Inspecção-Geral do Trabalho a emissão dos certificados.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, a competência que refere o número anterior é exercida, respectivamente, pela Inspecção Regional do Trabalho e pela Direcção Regional do Trabalho."
+  },
+  "1179290875": {
+   "fragment_id": "1179290775",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os certificados são emitidos segundo o modelo anexo, que constitui exclusivo da Imprensa Nacional, a apresentar em duplicado pelo interessado, que fornecerá os elementos necessários ao respectivo preenchimento, servindo o duplicado de recibo.\n\n2 - As entidades referidas nos artigos anteriores podem cobrar emolumentos, nos termos a aprovar por portaria conjunta dos Ministros da Administração Interna, da Justiça e do Emprego e da Segurança Social."
+  },
+  "1179291075": {
+   "fragment_id": "1179290975",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNos casos em que a lei portuguesa exija o preenchimento de certas condições para o exercício em Portugal de uma actividade, o certificado emitido por outro Estado membro das Comunidades é recebido pela entidade competente para a verificação dessas condições."
+  },
+  "1183018575": {
+   "fragment_id": "1183018475",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente diploma será revisto no prazo de um ano a contar da data da sua publicação."
+  },
+  "1061725075": {
+   "fragment_id": "1061724975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1987. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 20 de Janeiro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Janeiro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1061725275": {
+   "fragment_id": "1061725175",
+   "type": 14,
+   "heading": "Anexo — (MODELO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (MODELO)\n\n(ver documento original)"
+  }
+ }
+}

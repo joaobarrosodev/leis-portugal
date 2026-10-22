@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:183877149:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/louvor/2022-1177973775",
+ "dre_path": "/dr/detalhe/louvor/1000-2022-183877149",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2022-05-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177974975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177974975": {
+   "fragment_id": "1177973875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ao cessar funções como Presidente da Assembleia da República, é-me grato louvar a Dr.ª Raquel Maria Teixeira da Silva, secretária do meu Gabinete, desde a XIII Legislatura, pela lealdade, solicitude, disponibilidade e dedicação com que sempre desempenhou as suas funções, contribuindo, assim, para o excelente trabalho realizado."
+  }
+ }
+}

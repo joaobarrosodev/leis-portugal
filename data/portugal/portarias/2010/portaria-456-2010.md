@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:334974:por
+title: Portaria n.º 456/2010
+short_title: null
+summary: Estabelece os requisitos técnicos e financeiros a que fica sujeita a atribuição de licença para o exercício da actividade
+  de comercialização de electricidade para a mobilidade eléctrica, bem como algumas regras procedimentais aplicáveis à instrução
+  do respectivo requerimento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 456/2010
+official_date: null
+publication_date: '2010-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/2010, Série I de 2010-07-01
+  number: '126'
+  series: I
+  supplement: null
+  pages: 2447 - 2449
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/07/12600/0244702449.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/456/2010/07/01/p/dre/pt/html
+  oj: null
+  dre: '334974'
+  dre_path: /dr/detalhe/portaria/456-2010-334974
+  internal: pt:dre:334974:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-2010-334974
+  metadata_url: https://data.dre.pt/eli/port/456/2010/07/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/456-2010-334974
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-07-01T00:00:00Z'
+integrity:
+  source_sha256: 7973728bf86da66f3f88a08cc205f4dc966027008badc67342b3d4db0989b7d4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-456-334974.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Garantia
+- Energia Elétrica
+- Direção Geral de Energia e Geologia
+- Mobilidade Elétrica
+- Licenciamento
+- Comércio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 456/2010
+
+de 1 de Julho
+
+O [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, veio regular a organização, o acesso e o exercício das actividades de mobilidade eléctrica e criar as condições jurídicas indispensáveis para o estabelecimento de uma rede piloto de mobilidade eléctrica que visa permitir, testar e validar soluções, de âmbito nacional, para a mobilidade eléctrica.
+
+Constituindo uma das actividades principais de mobilidade eléctrica, a comercialização de electricidade para a mobilidade eléctrica destina-se a assegurar, mediante a compra a grosso e a venda a retalho de energia eléctrica, o carregamento das baterias dos veículos eléctricos nos pontos de carregamento integrados na rede de mobilidade eléctrica.
+
+Trata-se, por isso, de uma actividade que desempenha uma função estrutural no modelo de mobilidade eléctrica consagrado no citado diploma legal, em virtude da ligação que o comercializador de mobilidade eléctrica estabelece entre, por um lado, os operadores do sector eléctrico e, por outro, os utilizadores de veículos eléctricos e os demais agentes económicos relacionados com a mobilidade eléctrica.
+
+Esta função conduziu a que no n.º 1 do artigo 7.º do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, se exigisse a observância de requisitos de natureza técnica e financeira apropriados, a definir por portaria do membro do Governo responsável pela área da energia, para que fosse autorizado o exercício da actividade de comercialização de electricidade para a mobilidade eléctrica.
+
+Dando execução à citada disposição legal, a presente portaria define os requisitos de natureza técnica e financeira que as pessoas colectivas que preencham os critérios de autonomia previstos no n.º 3 do artigo 7.º do regime da mobilidade eléctrica devem observar para a atribuição de licença de comercialização de electricidade para a mobilidade eléctrica pela Direcção-Geral de Energia e Geologia (DGEG).
+
+Em conformidade com o n.º 2 do mesmo preceito legal, a atribuição de licença de comercialização de electricidade para a mobilidade eléctrica aos comercializadores de electricidade devidamente autorizados nos termos do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de Agosto, na redacção em vigor, fica sujeita a um regime de comunicação prévia, em face dos requisitos aplicáveis no sector eléctrico. Esse regime é igualmente objecto de regulamentação pela presente portaria.
+
+Assim:
+
+Nos termos e ao abrigo do disposto no n.º 8 do artigo 5.º e no n.º 1 do artigo 7.º, ambos do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, e da alínea c) do artigo 199.º da Constituição, manda o Governo, pelo Secretário de Estado da Energia e da Inovação, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - A presente portaria estabelece os requisitos técnicos e financeiros a que fica sujeita a atribuição de licença para o exercício da actividade de comercialização de electricidade para a mobilidade eléctrica, bem como algumas regras procedimentais aplicáveis à instrução do respectivo requerimento.
+
+2 - É ainda definido na presente portaria o procedimento de comunicação prévia para o exercício da actividade de comercialização de electricidade para a mobilidade eléctrica, aplicável aos comercializadores de electricidade devidamente autorizados nos termos do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de Agosto, na redacção em vigor.
+
+###### Artigo 2.º — Requisitos técnicos e financeiros
+
+1 - O exercício da actividade de comercialização de electricidade para a mobilidade eléctrica e a atribuição da respectiva licença dependem da verificação dos seguintes requisitos técnicos e financeiros:
+
+a) Adopção de uma estrutura organizativa adequada às funções e deveres aplicáveis, nos termos legais e regulamentares, aos comercializadores de electricidade para a mobilidade eléctrica;
+
+b) Disponibilidade de recursos humanos com as qualificações, conhecimentos e capacidade técnica necessários para a execução das funções que lhe sejam atribuídas;
+
+c) Utilização de plataforma informática e outros meios técnicos apropriados ao cumprimento das funções e deveres aplicáveis, nos termos legais e regulamentares, aos comercializadores de electricidade para a mobilidade eléctrica e que observem os requisitos de compatibilidade da ligação com os sistemas técnicos utilizados pela sociedade gestora de operações da rede de mobilidade eléctrica;
+
+d) Contratação de caução a favor da sociedade gestora de operações da rede de mobilidade eléctrica, no montante de 250 mil euros, para garantia do cumprimento das obrigações emergentes do exercício da actividade de comercialização de electricidade para a mobilidade eléctrica.
+
+2 - O cumprimento dos requisitos estabelecidos nas alíneas b) e c) do número anterior pode ser assegurado mediante contratação de meios e recursos a terceiros.
+
+3 - A caução a que se refere a alínea d) do n.º 1 deve ser prestada mediante uma das seguintes modalidades:
+
+a) Garantia bancária autónoma à primeira solicitação, emitida por instituição de crédito de primeira ordem;
+
+b) Linha de crédito irrevogável, susceptível de mobilização à primeira solicitação da sociedade gestora de operações da rede de mobilidade eléctrica, emitida por instituição de crédito de primeira ordem;
+
+c) Seguro-caução, susceptível de mobilização à primeira solicitação da sociedade gestora de operações da rede de mobilidade eléctrica, emitida por instituição seguradora de primeira ordem.
+
+4 - A DGEG estabelece na licença de comercialização de electricidade para a mobilidade eléctrica, no momento da sua emissão, o montante da caução a apresentar pela entidade licenciada à sociedade gestora de operações da rede de mobilidade eléctrica no prazo de 10 dias após a emissão da licença, ficando a validade da aludida licença dependente da efectiva apresentada da citada caução.
+
+5 - A caução prestada nos termos dos números anteriores só pode ser cancelada no prazo de um ano após a data da caducidade ou revogação da respectiva licença de comercialização de electricidade para a mobilidade eléctrica.
+
+###### Artigo 3.º — Instrução do requerimento
+
+1 - Para o efeito de demonstração do cumprimento dos requisitos estabelecidos no artigo anterior, o requerimento para atribuição da licença de comercialização de electricidade para a mobilidade eléctrica deve ser apresentado, através do portal da empresa, mediante comunicação por via electrónica dirigida à DGEG, devidamente instruído com os seguintes documentos:
+
+a) Identificação completa do requerente, que deve ser uma pessoa colectiva autónoma nos termos previstos no n.º 3 do artigo 7.º do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril;
+
+b) Descrição dos accionistas ou de outras entidades que, directa ou indirectamente, disponham do exercício do direito de voto em órgão competente do requerente;
+
+c) Certidões de inexistência de dívidas à administração fiscal e à segurança social emitidas pelos serviços de finanças e da segurança social competentes;
+
+d) Prova da existência da apólice de seguro prevista no n.º 2 do artigo 11.º do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril;
+
+e) Descrição da respectiva estrutura organizativa;
+
+f) Identificação dos gestores e apresentação dos respectivos currículos profissionais;
+
+g) Descrição dos meios humanos disponíveis, das suas qualificações e respectivas funções;
+
+h) Memória descritiva da plataforma informática e outros meios técnicos a utilizar para o exercício da actividade;
+
+i) Apresentação de compromisso de instituição de crédito ou seguradora em relação à emissão de caução a favor da sociedade gestora de operações da rede de mobilidade eléctrica nos termos do disposto no artigo anterior.
+
+2 - Os elementos apresentados nos termos do número anterior devem conter uma clara identificação dos recursos próprios e dos recursos alheios, com identificação do respectivo titular, que o requerente pretende afectar ao exercício da actividade de comercialização de electricidade para a mobilidade eléctrica, com vista a assegurar o cumprimento dos requisitos estabelecidos nos termos do artigo anterior e nos demais termos legais aplicáveis.
+
+###### Artigo 4.º — Comunicação prévia
+
+1 - A comunicação prévia prevista no n.º 2 do artigo 7.º do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, deve ser efectuada mediante comunicação electrónica dirigida pelo requerente à DGEG, através do portal da empresa.
+
+2 - A comunicação a que se refere o número anterior deve ser instruída com os seguintes elementos:
+
+a) Identificação completa do requerente, que deve ser uma pessoa colectiva autónoma nos termos previstos no n.º 3 do artigo 7.º do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril;
+
+b) Prova da existência da apólice de seguro prevista no n.º 2 do artigo 11.º do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril;
+
+c) Apresentação de compromisso de instituição de crédito ou seguradora em relação à emissão de caução a favor da sociedade gestora de operações da rede de mobilidade eléctrica nos termos do disposto no artigo 1.º
+
+3 - Os comercializadores de electricidade devidamente autorizados nos termos do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de Agosto, que realizem a comunicação prévia para o exercício da actividade prevista no n.º 2 do artigo 7.º do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de Abril, ficam sujeitos ao cumprimento dos requisitos estabelecidos no artigo 2.º da presente portaria.
+
+4 - A validade da licença de comercialização de mobilidade eléctrica atribuída ao abrigo do regime de comunicação prévia fica dependente da efectiva apresentação de caução à sociedade gestora de operações da rede de mobilidade eléctrica, em conformidade com o disposto na alínea d) do n.º 1 do artigo 2.º e nos n.os 3 e seguintes do artigo 3.º
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
+
+**O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho, em 23 de Junho de 2010.**

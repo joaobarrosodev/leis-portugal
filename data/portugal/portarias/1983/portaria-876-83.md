@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:439429:por
+title: Portaria n.º 876/83
+short_title: null
+summary: Fixa o custo de cada inseminação artificial a pagar pelos criadores de gado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Florestas e Alimentação - Secretaria de Estado da Agricultura
+proposing_entity: null
+official_number: 876/83
+official_date: null
+publication_date: '1983-09-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 208/1983, Série I de 1983-09-09
+  number: '208'
+  series: I
+  supplement: null
+  pages: 3207 - 3208
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/09/20800/32073208.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '439429'
+  dre_path: /dr/detalhe/portaria/876-1983-439429
+  internal: pt:dre:439429:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/876-1983-439429
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/876-1983-439429
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-02-25T00:00:00Z'
+integrity:
+  source_sha256: 2c2bf306dc3f40e7b3cd991610a44199d533c8e5fe9e0b601d5b4557a04fccbf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-876-439429.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:661349:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 876/83
+
+de 9 de Setembro
+
+A inseminação artificial é um método de reprodução altamente eficaz e adoptado em todos os países de pecuária desenvolvida, sobretudo no que diz respeito à bovinicultura.
+
+Em Portugal a aplicação do referido método teve início nos fins da década de 40, mas a sua difusão significativa só se começou a verificar a partir dos anos 60, com a utilização de sémen congelado.
+
+Actualmente esse sistema de reprodução encontra-se bem implantado, cifrando-se em aproximadamente 160000 as vacas inseminadas, das quais 85% de castas leiteiras.
+
+Nestas condições, e, ainda, porque as organizações cooperativas da lavoura relacionadas com a produção de leite abrangem presentemente a maior parte do efectivo leiteiro nacional, dispondo muitas delas de meios técnicos específicos, considera-se agora oportuno e muito aconselhável transferir progressivamente para a alçada daquelas organizações a responsabilidade da execução da inseminação artificial, que até ao presente tem estado exclusivamente a cargo dos serviços oficiais.
+
+Assim, não só se dá cumprimento ao que legalmente se encontra disposto como também se adopta, em tal matéria, a orientação seguida em todos os países, uma vez que os serviços oficiais, pelos condicionalismos que lhes são inerentes, não têm capacidade de responder sempre e atempadamente a inadiáveis imperativos fisiológicos dos animais, que se situam em limites de poucas horas.
+
+Desta forma, espera-se que o encargo que resulta para os criadores com o pagamento do respectivo serviço será recompensado com o aumento da fertilidade dos seus animais.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, ao abrigo do disposto na alínea e) do artigo 9.º do [Decreto-Lei n.º 37/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1975-159360), de 31 de Janeiro, e no n.º 21.º da [Portaria n.º 974/82](https://diariodarepublica.pt/dr/detalhe/portaria/974-1982-376215), de 16 de Outubro, o seguinte:
+
+1.º O custo de cada inseminação artificial a pagar pelos criadores à entidade que efectuar a aplicação do sémen será determinado em função do serviço prestado, do valor do sémen utilizado e das despesas verificadas com o transporte em cada subcentro, pelo seguinte modo:
+
+a) 200$00, pela aplicação do sémen, com direito a segunda intervenção, no caso de retorno do cio;
+
+b) 50$00, por dose de sémen produzido em centros oficiais, sendo o seu custo variável se tiver outra origem;
+
+c) As despesas com o transporte serão calculadas segundo a fórmula v = x/y x z
+
+sendo:
+
+x o número de quilómetros percorridos com a execução do serviço de inseminação durante o ano transacto na área abrangida pelo respectivo subcentro;
+
+y o número de inseminações efectuadas no mesmo período e na mesma área;
+
+z o preço por quilómetro que se encontre fixado para o Estado à data em que tiver lugar a aplicação do sémen.
+
+2.º Os valores indicados nas alíneas a) e b) do número anterior serão revistos, sempre que as condições o justifiquem, por despacho do Secretário de Estado da Agricultura, sob proposta da Direcção-Geral da Pecuária.
+
+Secretaria de Estado da Agricultura.
+
+**Assinada em 25 de Agosto de 1983.**
+
+**O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho.**

@@ -1,0 +1,1041 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66970721:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-107714219",
+ "dre_path": "/dr/detalhe/portaria/107-2015-66970721",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-04-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "107713556",
+    "107713557",
+    "107713558",
+    "107713559",
+    "107713560",
+    "107713561",
+    "107713562",
+    "107713563",
+    "107713564",
+    "107713565",
+    "107713566",
+    "107713567",
+    "107713568",
+    "107713569",
+    "107713570",
+    "107713571",
+    "107713572",
+    "107713573",
+    "107713574",
+    "107717775",
+    "107717776",
+    "107717777",
+    "107717778",
+    "107717779",
+    "107717780",
+    "107717781",
+    "107717782",
+    "107717784",
+    "107717785",
+    "107717786",
+    "107717787"
+   ]
+  },
+  {
+   "date": "2016-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75341997:por",
+     "title": "Portaria n.º 249/2016",
+     "published": "2016-09-15",
+     "dre_path": "/dr/detalhe/portaria/249-2016-75341997"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "107713556",
+    "107713557",
+    "107713558",
+    "107713559",
+    "107713560",
+    "107713561",
+    "107713562",
+    "107713563",
+    "107713564",
+    "107713565",
+    "107713566",
+    "107713567",
+    "107713568",
+    "107713569",
+    "107713570",
+    "107717795",
+    "107713572",
+    "107713573",
+    "107713574",
+    "107717775",
+    "107717776",
+    "107717777",
+    "107717778",
+    "107717779",
+    "107717780",
+    "107717781",
+    "107717782",
+    "107717783",
+    "107717784",
+    "107717785",
+    "107717786",
+    "107717787"
+   ]
+  },
+  {
+   "date": "2017-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107709527:por",
+     "title": "Portaria n.º 213-A/2017",
+     "published": "2017-07-19",
+     "dre_path": "/dr/detalhe/portaria/213-a-2017-107709527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "107713556",
+    "107717796",
+    "107713558",
+    "107713559",
+    "107717797",
+    "107717798",
+    "107713562",
+    "107713563",
+    "107717799",
+    "107713565",
+    "107713566",
+    "107713567",
+    "107713568",
+    "107713569",
+    "107713570",
+    "107717795",
+    "107713572",
+    "107713573",
+    "107713574",
+    "107717775",
+    "107717776",
+    "107717777",
+    "107717778",
+    "107717779",
+    "107717780",
+    "107717781",
+    "107717782",
+    "107717783",
+    "107717784",
+    "107717785",
+    "107717786",
+    "107717787"
+   ]
+  },
+  {
+   "date": "2018-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114561724:por",
+     "title": "Portaria n.º 34/2018",
+     "published": "2018-01-24",
+     "dre_path": "/dr/detalhe/portaria/34-2018-114561724"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Revoga Anexo I"
+   ],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "107713556",
+    "107717796",
+    "107713558",
+    "107713559",
+    "114546819",
+    "114546820",
+    "107713562",
+    "107713563",
+    "114546821",
+    "107713565",
+    "107713566",
+    "107713567",
+    "107713568",
+    "107713569",
+    "107713570",
+    "107717795",
+    "107713572",
+    "107713573",
+    "107713574",
+    "107717775",
+    "107717776",
+    "107717777",
+    "107717778",
+    "107717779",
+    "107717780",
+    "107717781",
+    "107717782",
+    "107717783",
+    "114546822",
+    "107717785",
+    "107717786",
+    "107717787"
+   ]
+  },
+  {
+   "date": "2018-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 23.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "107713556",
+    "107717796",
+    "107713558",
+    "107713559",
+    "114546819",
+    "114546820",
+    "107713562",
+    "107713563",
+    "114546821",
+    "117124016",
+    "107713566",
+    "107713567",
+    "107713568",
+    "107713569",
+    "107713570",
+    "107717795",
+    "107713572",
+    "107713573",
+    "107713574",
+    "107717775",
+    "107717776",
+    "107717777",
+    "117124017",
+    "107717779",
+    "107717780",
+    "107717781",
+    "107717782",
+    "107717783",
+    "114546822",
+    "117124018",
+    "107717786",
+    "107717787"
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117114264:por",
+     "title": "Portaria n.º 303/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/303-2018-117114264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "107713556",
+    "107717796",
+    "107713558",
+    "107713559",
+    "114546819",
+    "114546820",
+    "107713562",
+    "107713563",
+    "114546821",
+    "117124019",
+    "107713566",
+    "107713567",
+    "107713568",
+    "107713569",
+    "107713570",
+    "107717795",
+    "107713572",
+    "107713573",
+    "117124020",
+    "107717775",
+    "107717776",
+    "107717777",
+    "117124021",
+    "107717779",
+    "107717780",
+    "107717781",
+    "107717782",
+    "107717783",
+    "114546822",
+    "117124018",
+    "107717786",
+    "107717787"
+   ]
+  },
+  {
+   "date": "2021-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160510574:por",
+     "title": "Portaria n.º 73/2021",
+     "published": "2021-03-30",
+     "dre_path": "/dr/detalhe/portaria/73-2021-160510574"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 26.º",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "160508233",
+    "107717796",
+    "107713558",
+    "107713559",
+    "160508234",
+    "160508235",
+    "107713562",
+    "160508245",
+    "160508236",
+    "117124019",
+    "160508237",
+    "107713567",
+    "107713568",
+    "160508238",
+    "107713570",
+    "160508239",
+    "160508240",
+    "160508241",
+    "117124020",
+    "107717775",
+    "107717776",
+    "107717777",
+    "117124021",
+    "107717779",
+    "107717780",
+    "107717781",
+    "160508244",
+    "107717783",
+    "114546822",
+    "160508242",
+    "160508243",
+    "107717787"
+   ]
+  },
+  {
+   "date": "2023-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214100368:por",
+     "title": "Portaria n.º 159/2023",
+     "published": "2023-06-07",
+     "dre_path": "/dr/detalhe/portaria/159-2023-214100368"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "107713552",
+    "107713553",
+    "107713554",
+    "107713555",
+    "160508233",
+    "107717796",
+    "107713558",
+    "107713559",
+    "214172728",
+    "160508235",
+    "107713562",
+    "160508245",
+    "160508236",
+    "117124019",
+    "160508237",
+    "107713567",
+    "107713568",
+    "160508238",
+    "107713570",
+    "160508239",
+    "160508240",
+    "160508241",
+    "117124020",
+    "107717775",
+    "107717776",
+    "107717777",
+    "117124021",
+    "107717779",
+    "107717780",
+    "107717781",
+    "160508244",
+    "107717783",
+    "114546822",
+    "160508242",
+    "160508243",
+    "107717787"
+   ]
+  }
+ ],
+ "fragments": {
+  "107713552": {
+   "fragment_id": "107714220",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 107/2015\n\nde 13 de abril\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), e determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural, um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nNa arquitetura do PDR 2020, à área relativa à «Competitividade e organização da produção», corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio do apoio às empresas, que tem como princípio determinante a concentração dos apoios no sector e na produção de bens transacionáveis dirigidos aos agentes económicos diretamente envolvidos na criação de valor, a partir de atividades agrícolas e agroalimentares assentes numa gestão eficiente dos recursos. A prossecução desses objetivos inclui o apoio a investimentos de pequena dimensão.\n\nEstes investimentos, acessíveis a qualquer agricultor, interessam a um número importante de promotores com o objetivo de contribuir para a melhoria das condições de vida, de trabalho e de produção, com reflexo no desempenho das explorações agrícolas. Trata-se de investimentos de natureza pontual que, pelos baixos montantes envolvidos, justificam um processo de candidatura simplificado. Por outro lado, a renovação da estrutura produtiva agroindustrial, através do apoio a iniciativas orientadas para a criação de valor, é determinante para o reforço da competitividade dos sistemas de produção agrícola. As intervenções de criação e modernização das unidades de transformação e comercialização de produtos agrícolas de pequena ou média dimensão assumem relevância, particularmente na dinamização dos territórios rurais, permitindo às empresas modernizar ou expandir linhas de produção.\n\nAs operações 3.2.2, «Pequenos investimentos na exploração agrícola», e 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas» destinam-se a apoiar candidaturas cujas áreas geográficas não são ou não venham a ser abrangidas por Estratégias de Desenvolvimento Local apoiadas no âmbito da área de apoio do regime simplificado de pequenos investimentos nas explorações agrícolas e da área de apoio dos pequenos investimentos na transformação e comercialização da operação 10.2.1, «Implementação das estratégias de desenvolvimento local» da medida 10, «Leader» do PDR 2020.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "107713553": {
+   "fragment_id": "107714221",
+   "type": 1,
+   "heading": "Capítulo I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições Gerais"
+  },
+  "107713554": {
+   "fragment_id": "107714222",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação da operação 3.2.2, «Pequenos investimentos na exploração agrícola»», e da operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», ambas da medida 3, «Valorização da produção agrícola», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "107713555": {
+   "fragment_id": "107714223",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos no presente capítulo prosseguem os seguintes objetivos:\n\na) Melhorar as condições de vida, de trabalho e de produção dos agricultores;\n\nb) Contribuir para o processo de modernização e capacitação das empresas do sector agrícola e da transformação e comercialização de produtos agrícolas."
+  },
+  "107713556": {
+   "fragment_id": "107714224",
+   "type": 11,
+   "heading": "Artigo 3.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área geográfica de aplicação\n\nOs apoios previstos na presente portaria são aplicáveis na área geográfica correspondente aos territórios não abrangidos por uma Estratégia de Desenvolvimento Local (EDL) apoiada no âmbito da ação 10.2., «Implementação das estratégias de desenvolvimento local» da medida 10, «Leader» do PDR 2020."
+  },
+  "107713557": {
+   "fragment_id": "107714225",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais e a detenção de animais para fins de produção;\n\nb) «Exploração agrícola», o conjunto de unidades produtivas utilizadas para o exercício de atividades agrícolas, submetidas a uma gestão única;\n\nc) «Produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado de Funcionamento da União Europeia, com exceção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro;\n\nd) «Titular de uma exploração agrícola», o detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas e gestor do respetivo aparelho produtivo."
+  },
+  "107713558": {
+   "fragment_id": "107714226",
+   "type": 1,
+   "heading": "Capítulo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II\n\nOperação 3.2.2, «Pequenos investimentos na exploração agrícola», e operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas»."
+  },
+  "107713559": {
+   "fragment_id": "107714227",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente portaria as pessoas singulares ou coletivas que exerçam atividade agrícola ou que se dediquem à transformação ou comercialização de produtos agrícolas."
+  },
+  "107713560": {
+   "fragment_id": "107714228",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, além dos critérios de elegibilidade constantes do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;\n\nc) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 5 do presente artigo;\n\nd) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER ou do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ne) Não terem sido condenados em processo-crime por factos que envolvem disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nf) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, no caso do apoio à ação 3.2.2, «Pequenos investimentos na exploração agrícola».\n\n2 - Os candidatos aos apoios à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:\n\na) Possuírem situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré-projeto igual ou superior a 20 %, devendo o indicador utilizado ter por base o exercício anterior ao ano da apresentação da candidatura;\n\nb) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou acionistas, que contribuam para garantir o indicador referido na alínea anterior, seja integrado em capitais próprios, até à data de aceitação da concessão do apoio.\n\n3 - O indicador referido na alínea a) do número anterior pode ser comprovado com informação mais recente, desde que se reporte a uma data anterior à da apresentação da candidatura, devendo para o efeito ser apresentados os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.\n\n4 - A disposição da alínea a) do n.º 2 não se aplica aos candidatos que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer atividade, desde que suportem com capitais próprios pelo menos 25 % do custo total do investimento elegível.\n\n5 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.\n\n6 - As condições previstas nas alíneas f) e g) do n.º 1 podem ser demonstradas até à data de aceitação da concessão do apoio, quando o candidato não tenha desenvolvido qualquer atividade."
+  },
+  "107713561": {
+   "fragment_id": "107714229",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios à operação 3.2.2, «Pequenos investimentos na exploração agrícola», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e tenham um custo total elegível, apurado em sede de análise, igual ou superior a 1.000 euros e inferior ou igual a 25.000 euros.\n\n2 - Podem beneficiar dos apoios à ação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e que reúnam as seguintes condições:\n\na) Se enquadrem num dos sectores identificados no anexo I à presente portaria da qual faz parte integrante, ou se insiram no âmbito da comercialização dos produtos desses sectores ou na comercialização de produtos agrícolas;\n\nb) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a 10.000 euros e inferior ou igual a 200.000 euros;\n\nc) Contribuam para o desenvolvimento da produção ou do valor acrescentado da produção agrícola, com a devida demonstração na memória descritiva;\n\nd) Assegurem, quando aplicável, as fontes de financiamento de capital alheio;\n\ne) Evidenciem viabilidade económica e financeira, medida através do valor atualizado líquido (VAL), tendo a atualização como referência a taxa de refinanciamento (REFI) do Banco Central Europeu, em vigor à data de submissão da candidatura.\n\n3 - Os projetos de investimento previstos nos n.os 1 e 2 do presente artigo devem ainda reunir as seguintes condições:\n\na) Não se enquadrem na mesma tipologia de operações previstas e aprovadas no âmbito de regimes de apoio ao abrigo da OCM única e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;\n\nb) Tenham início após a data de apresentação da candidatura;\n\nc) Apresentem coerência técnica, económica e financeira;\n\nd) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento.\n\n4 - O método de cálculo dos indicadores de viabilidade económica e financeira, incluindo o VAL quando aplicável, quantifica o máximo de 30 % dos custos inerentes às seguintes componentes:\n\na) Intervenção de natureza ambiental;\n\nb) Eficiência energética."
+  },
+  "107713562": {
+   "fragment_id": "107714230",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo II à presente portaria da qual faz parte integrante."
+  },
+  "107713563": {
+   "fragment_id": "107714231",
+   "type": 11,
+   "heading": "Artigo 9.º — Custos simplificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Custos simplificados\n\nAs operações referentes a culturas agrícolas com determinação do valor padrão objeto da modalidade de custos simplificados são definidas pelo Gabinete de Planeamento, Políticas e Administração Geral e divulgadas no portal do PDR 2020, em www.pdr-2020.pt."
+  },
+  "107713564": {
+   "fragment_id": "107714232",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de seleção das candidaturas\n\n1 - Para efeito de seleção de candidaturas à operação 3.2.2, «Pequenos investimentos na exploração agrícola», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por membro de agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Candidatura apresentada por jovem agricultor em primeira instalação;\n\nc) Candidatura com investimento em melhoramentos fundiários e plantações;\n\nd) Candidatura com investimento relacionado com proteção e utilização eficiente dos recursos.\n\n2 - Para efeito de seleção de candidaturas à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Criação de novos postos de trabalho.\n\n3 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas e ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "107713565": {
+   "fragment_id": "107714233",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos;\n\nh) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas.\n\n2 - Os beneficiários do apoio à operação 3.2.2, «Pequenos investimentos na exploração agrícola», devem ainda manter o registo da respetiva exploração no Sistema de Identificação Parcelar, até à data da conclusão da operação.\n\n3 - Os beneficiários do apoio à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda possuir uma situação económica e financeira equilibrada, com uma AF pós-projeto igual ou superior a 20 %, aferida no momento do último pagamento."
+  },
+  "107713566": {
+   "fragment_id": "107714234",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma, nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Forma, nível e limites dos apoios\n\n1 - Os apoios previstos na presente portaria são concedidos sob as seguintes formas e limites:\n\na) No caso dos apoios à operação 3.2.2, «Pequenos investimentos na exploração agrícola», subvenção não reembolsável até ao limite máximo de 25.000 euros de apoio por beneficiário, durante o período de programação;\n\nb) No caso dos apoios à operação 3.3.2 «Pequenos investimentos na transformação e comercialização de produtos agrícolas», subvenção não reembolsável até ao limite máximo de 150.000 euros de apoio por beneficiário, durante o período de programação.\n\n2 - Os níveis de apoio a conceder, por beneficiário, constam do anexo III à presente portaria da qual faz parte integrante."
+  },
+  "107713567": {
+   "fragment_id": "107714235",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "107713568": {
+   "fragment_id": "107714236",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "107713569": {
+   "fragment_id": "107714237",
+   "type": 11,
+   "heading": "Artigo 14.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A área geográfica elegível;\n\nd) A dotação orçamental a atribuir;\n\ne) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\nf) A forma e o nível dos apoios a conceder, respeitando o disposto no artigo 12.º\n\n2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.\n\n3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.pt-2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social."
+  },
+  "107713570": {
+   "fragment_id": "107714238",
+   "type": 11,
+   "heading": "Artigo 15.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão ou as Direções Regionais de Agricultura e Pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, bem como o apuramento do montante do custo total elegível e o nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 do presente artigo é emitido num prazo máximo de 45 dias úteis a contar da data limite para a apresentação das candidaturas e, quando emitido pelas DRAP, é remetido à autoridade de gestão.\n\n4 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete à decisão do gestor a aprovação das candidaturas.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo gestor no prazo de sessenta dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "107713571": {
+   "fragment_id": "107714239",
+   "type": 11,
+   "heading": "Artigo 16.º — Transição de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transição de candidaturas\n\n1 - As candidaturas que tenham sido objeto de parecer favorável e que não tenham sido aprovadas por razões de insuficiência orçamental transitam para o período de apresentação de candidaturas seguinte, sendo sujeitas à aplicação dos critérios de seleção deste novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida."
+  },
+  "107713572": {
+   "fragment_id": "107714240",
+   "type": 11,
+   "heading": "Artigo 17.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "107713573": {
+   "fragment_id": "107714241",
+   "type": 11,
+   "heading": "Artigo 18.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução das operações\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações são, respetivamente, de 6 e 24 meses contados a partir da data da submissão autenticada do termo de aceitação.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "107713574": {
+   "fragment_id": "107714242",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.pt-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.\n\n6 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O disposto nos n.os 2, 3, 5 e 6 não é aplicável aos projetos ou componentes dos projetos com custos simplificados, sendo neste caso apresentado um único pedido de pagamento após a execução da operação sujeita a custo simplificado.\n\n8 - Nas operações referentes às explorações agrícolas, e relativamente a instalações pecuárias, o último pagamento do apoio só pode ser efetuado quando o beneficiário demonstrar ser detentor de título de exploração atualizado, nos termos da legislação aplicável.\n\n9 - Nas operações referentes à transformação e comercialização, o último pagamento do apoio só pode ser efetuado quando o beneficiário demonstrar:\n\na) Ser detentor da respetiva licença de exploração industrial atualizada, tratando-se do exercício de atividades sujeitas a licenciamento industrial;\n\nb) Ser detentor de alvará de licença de utilização atualizado ou de licença sanitária, tratando-se de estabelecimentos comerciais."
+  },
+  "107717775": {
+   "fragment_id": "107714243",
+   "type": 11,
+   "heading": "Artigo 20.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro."
+  },
+  "107717776": {
+   "fragment_id": "107714244",
+   "type": 11,
+   "heading": "Artigo 21.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária, para a conta referida na alínea i) do n.º 1 do artigo 11.º"
+  },
+  "107717777": {
+   "fragment_id": "107714245",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo\n\nA operação, incluindo a candidatura e os pedidos de pagamento, está sujeita a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável."
+  },
+  "107717778": {
+   "fragment_id": "107714246",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "107717779": {
+   "fragment_id": "107714247",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "107717780": {
+   "fragment_id": "107714248",
+   "type": 11,
+   "heading": "Artigo 24.º — Investimentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Investimentos excluídos\n\nNão são abrangidos pelos apoios previstos na presente portaria os seguintes investimentos na operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas»:\n\na) Relativos à transformação e comercialização de produtos agrícolas provenientes de países terceiros;\n\nb) Relativos ao comércio a retalho;\n\nc) Relativos à armazenagem frigorífica dos produtos, na parte que exceda as capacidades necessárias ao normal funcionamento da unidade de transformação;\n\nd) Relativos à utilização de subprodutos e resíduos agropecuários tendo em vista a produção de energias renováveis, na parte que excede as capacidades provenientes do normal funcionamento da atividade objeto de apoio."
+  },
+  "107717781": {
+   "fragment_id": "107714249",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma transitória\n\n1 - As candidaturas apresentadas, entre 19 de fevereiro e 30 de junho de 2014, à ação n.º 1.1.2, «Investimentos de pequena dimensão» da medida n.º 1.1, «Inovação e Desenvolvimento Empresarial», integrada no subprograma n.º 1, «Promoção da Competitividade» do PRODER que ainda não foram objeto de decisão, são analisadas e decididas com base nos critérios estabelecidos na presente portaria, mantendo, para todos os efeitos, as respetivas data de apresentação e ordem de submissão.\n\n2 - Para efeitos do disposto no número anterior, podem ser solicitados aos candidatos os elementos complementares que se revelem necessários à adequação da candidatura para efeitos de monitorização do programa.\n\n3 - A autoridade de gestão prevê uma dotação específica para as operações relativas às candidaturas referidas no n.º 1."
+  },
+  "107717782": {
+   "fragment_id": "107714250",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O artigo 9.º produz efeitos a partir da publicação da tabela de custos simplificados e respetivas operações."
+  },
+  "107717784": {
+   "fragment_id": "107714252",
+   "type": 14,
+   "heading": "Anexo I — Sectores industriais enquadrados no PDR 2020",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Sectores industriais enquadrados no PDR 2020\n\n[a que se refere a alínea a) do n.º 2 do artigo 7.º]\n\nCAE constantes do Decreto-Lei n.º 381/2007, de 14 de novembro\n\n(ver documento original)"
+  },
+  "107717785": {
+   "fragment_id": "107714253",
+   "type": 14,
+   "heading": "Anexo II — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\nDespesas elegíveis operação 3.2.2 - Pequenos investimentos na exploração agrícola\n\n(ver documento original)\n\n3. As despesas gerais - nomeadamente no domínio da eficiência energética e energias renováveis, software aplicacional, propriedade industrial, diagnósticos, auditorias, planos de marketing e branding e estudos de viabilidade, acompanhamento, projetos de arquitetura, engenharia associados aos investimentos, até 5 % do custo total elegível aprovado daquelas despesas.\n\n(ver documento original)\n\nDespesas não elegíveis operação 3.2.2 - Pequenos investimentos na exploração agrícola\n\n(ver documento original)\n\nDespesas elegíveis operação 3.3.2 - Pequenos investimentos na transformação e comercialização de produtos agrícolas\n\n(ver documento original)\n\nDespesas não elegíveis operação 3.3.2 - Pequenos investimentos na transformação e comercialização de produtos agrícolas\n\n(ver documento original)"
+  },
+  "107717786": {
+   "fragment_id": "107714254",
+   "type": 14,
+   "heading": "Anexo III — Níveis de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Níveis de apoio\n\n(a que se refere o n.º 2 do artigo 12.º)\n\n(ver documento original)"
+  },
+  "107717787": {
+   "fragment_id": "107714255",
+   "type": 14,
+   "heading": "Anexo IV — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 23.º)\n\n1 - O incumprimento das obrigações previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt."
+  },
+  "107717795": {
+   "fragment_id": "107714239",
+   "type": 11,
+   "heading": "Artigo 16.º — Transição de candidaturas",
+   "in_force_from": "2016-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+   ],
+   "markdown": "###### Artigo 16.º — Transição de candidaturas\n\n1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+  },
+  "107717783": {
+   "fragment_id": "107714251",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 8 de abril de 2015."
+  },
+  "107717796": {
+   "fragment_id": "107714225",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2017-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais e a detenção de animais para fins de produção;\n\nb) «Exploração agrícola», o conjunto de unidades produtivas utilizadas para o exercício de atividades agrícolas, submetidas a uma gestão única;\n\nc) «Produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado de Funcionamento da União Europeia, com exceção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro;\n\nd) «Titular de uma exploração agrícola», o detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas e gestor do respetivo aparelho produtivo.\n\ne) 'Membro de agrupamento ou de organização de produtores reconhecido' a pessoa singular ou coletiva associada da entidade reconhecida como agrupamento ou organização de produtores ou, ainda, no caso do setor leiteiro, os associados de cooperativas associadas da entidade reconhecida;\n\nf) 'Catástrofe natural' um acontecimento natural, biótico ou abiótico, que perturba gravemente os sistemas de produção agrícola ou as estruturas florestais, provocando, a prazo, prejuízos económicos importantes para os setores agrícola ou florestal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "107717797": {
+   "fragment_id": "107714228",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2017-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, além dos critérios de elegibilidade constantes do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;\n\nc) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 5 do presente artigo;\n\nd) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER ou do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ne) Não terem sido condenados em processo-crime por factos que envolvem disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nf) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, no caso do apoio à ação 3.2.2, «Pequenos investimentos na exploração agrícola».\n\nh) Terem um volume de negócios igual ou inferior a 50 000 euros no ano anterior ao da apresentação da candidatura;\n\ni) Não terem recebido pagamentos diretos ou terem recebido pagamentos de valor igual ou inferior a 5000 euros, no ano anterior ao da apresentação da candidatura.\n\n2 - Para efeitos do disposto na alínea i) do n.º 1, consideram-se 'pagamentos diretos' os previstos nas alíneas a) a e) do n.º 1 do artigo 1.º da Portaria n.º 57/2015, de 27 de fevereiro, na sua atual redação, nas alíneas a) e b) do n.º 1 do artigo 4.º do Despacho Normativo n.º 2/2015, de 20 de janeiro, na sua atual redação, e nas alíneas a) a c) do n.º 1 do artigo 3.º do Despacho Normativo n.º 14/2014, de 29 de outubro, na sua atual redação.\n\n3 - Os candidatos aos apoios à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:\n\na) Possuírem situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré-projeto igual ou superior a 20 %, devendo o indicador utilizado ter por base o exercício anterior ao ano da apresentação da candidatura;\n\nb) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou acionistas, que contribuam para garantir o indicador referido na alínea anterior, seja integrado em capitais próprios, até à data de aceitação da concessão do apoio.\n\n4 - O indicador referido na alínea a) do número anterior pode ser comprovado com informação mais recente, desde que se reporte a uma data anterior à da apresentação da candidatura, devendo para o efeito ser apresentados os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.\n\n5 - A disposição da alínea a) do n.º 2 não se aplica aos candidatos que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer atividade, desde que suportem com capitais próprios pelo menos 25 % do custo total do investimento elegível.\n\n6 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "107717798": {
+   "fragment_id": "107714229",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2017-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e tenham um custo total elegível, apurado em sede de análise, igual ou superior a 1000 euros e inferior ou igual a 40 000 euros.\n\n2 - Podem beneficiar dos apoios à ação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e que reúnam as seguintes condições:\n\na) Se enquadrem num dos sectores identificados no anexo I à presente portaria da qual faz parte integrante, ou se insiram no âmbito da comercialização dos produtos desses sectores ou na comercialização de produtos agrícolas;\n\nb) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a 10.000 euros e inferior ou igual a 200.000 euros;\n\nc) Contribuam para o desenvolvimento da produção ou do valor acrescentado da produção agrícola, com a devida demonstração na memória descritiva;\n\nd) Assegurem, quando aplicável, as fontes de financiamento de capital alheio;\n\ne) Evidenciem viabilidade económica e financeira, medida através do valor atualizado líquido (VAL), tendo a atualização como referência a taxa de refinanciamento (REFI) do Banco Central Europeu, em vigor à data de submissão da candidatura.\n\n3 - Os projetos de investimento previstos nos n.os 1 e 2 do presente artigo devem ainda reunir as seguintes condições:\n\na) (Revogada);\n\nb) Tenham início após a data de apresentação da candidatura;\n\nc) Apresentem coerência técnica, económica e financeira;\n\nd) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento.\n\n4 - O método de cálculo dos indicadores de viabilidade económica e financeira, incluindo o VAL quando aplicável, quantifica o máximo de 30 % dos custos inerentes às seguintes componentes:\n\na) Intervenção de natureza ambiental;\n\nb) Eficiência energética.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "107717799": {
+   "fragment_id": "107714232",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção das candidaturas",
+   "in_force_from": "2017-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 10.º — Critérios de seleção das candidaturas\n\n1 - Para efeito de seleção de candidaturas à operação 3.2.2, «Pequenos investimentos na exploração agrícola», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por membro de agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Candidatura apresentada por jovem agricultor em primeira instalação;\n\nc) Candidatura com investimento em melhoramentos fundiários e plantações;\n\nd) Candidatura com investimento relacionado com proteção e utilização eficiente dos recursos.\n\n2 - Para efeito de seleção de candidaturas à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Criação de novos postos de trabalho.\n\n3 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas e ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.\n\n4 - Os critérios de seleção são avaliados com base em informação disponível à data de submissão da candidatura, podendo o aviso de abertura definir momento distinto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "114546819": {
+   "fragment_id": "107714228",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2018-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, além dos critérios de elegibilidade constantes do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;\n\nc) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 7 do presente artigo;\n\nd) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER ou do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ne) Não terem sido condenados em processo-crime por factos que envolvem disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nf) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\n2 - Os candidatos aos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', devem ainda reunir as seguintes condições:\n\na) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar;\n\nb) Terem um volume de negócios ou de pagamentos diretos, cuja soma seja igual ou inferior a 100.000 euros, no ano anterior ao da apresentação de candidaturas.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, consideram-se 'pagamentos diretos' os previstos nas alíneas a) a e) do n.º 1 do artigo 1.º da Portaria n.º 57/2015, de 27 de fevereiro, na sua atual redação, nas alíneas a) e b) do n.º 1 do artigo 4.º do Despacho Normativo n.º 2/2015, de 20 de janeiro, na sua atual redação, e nas alíneas a) a c) do n.º 1 do artigo 3.º do Despacho Normativo n.º 14/2014, de 29 de outubro, na sua atual redação.\n\n4 - Os candidatos aos apoios à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:\n\na) Possuírem situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré-projeto igual ou superior a 20 %, devendo o indicador utilizado ter por base o exercício anterior ao ano da apresentação da candidatura;\n\nb) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou acionistas, que contribuam para garantir o indicador referido na alínea anterior, seja integrado em capitais próprios, até à data de aceitação da concessão do apoio.\n\n5 - O indicador referido na alínea a) do número anterior pode ser comprovado com informação mais recente, desde que se reporte a uma data anterior à da apresentação da candidatura, devendo para o efeito ser apresentados os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.\n\n6 - A disposição da alínea a) do n.º 4 não se aplica aos candidatos que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer atividade, desde que suportem com capitais próprios pelo menos 25 % do custo total do investimento elegível.\n\n7 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.\n\n8 - As condições previstas na alínea f) do n.º 1 e na alínea a) do n.º 2 podem ser demonstradas até à data de aceitação da concessão do apoio, quando o candidato não tenha desenvolvido qualquer atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "114546820": {
+   "fragment_id": "107714229",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2018-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e tenham um custo total elegível, apurado em sede de análise, igual ou superior a 1000 euros e inferior ou igual a 40 000 euros.\n\n2 - Podem beneficiar dos apoios à ação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e que reúnam as seguintes condições:\n\na) Incidam sobre a conservação, preparação e comercialização ou transformação de produtos agrícolas, cujo produto final resultante seja um produto agrícola;\n\nb) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a 10.000 euros e inferior ou igual a 200.000 euros;\n\nc) Contribuam para o desenvolvimento da produção ou do valor acrescentado da produção agrícola, com a devida demonstração na memória descritiva;\n\nd) Assegurem, quando aplicável, as fontes de financiamento de capital alheio;\n\ne) Evidenciem viabilidade económica e financeira, medida através do valor atualizado líquido (VAL), tendo a atualização como referência a taxa de refinanciamento (REFI) do Banco Central Europeu, em vigor à data de submissão da candidatura.\n\n3 - Os projetos de investimento previstos nos n.os 1 e 2 do presente artigo devem ainda reunir as seguintes condições:\n\na) (Revogada);\n\nb) Tenham início após a data de apresentação da candidatura;\n\nc) Apresentem coerência técnica, económica e financeira;\n\nd) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento.\n\n4 - O método de cálculo dos indicadores de viabilidade económica e financeira, incluindo o VAL quando aplicável, quantifica o máximo de 30 % dos custos inerentes às seguintes componentes:\n\na) Intervenção de natureza ambiental;\n\nb) Eficiência energética.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "114546821": {
+   "fragment_id": "107714232",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção das candidaturas",
+   "in_force_from": "2018-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 10.º — Critérios de seleção das candidaturas\n\n1 - Para efeito de seleção de candidaturas à operação 3.2.2, «Pequenos investimentos na exploração agrícola», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por membro de agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Candidatura apresentada por jovem agricultor em primeira instalação;\n\nc) Candidatura com investimento em melhoramentos fundiários e plantações;\n\nd) Candidatura com investimento relacionado com proteção e utilização eficiente dos recursos.\n\ne) Montante de pagamentos diretos recebidos pelo beneficiário, no ano anterior ao da candidatura.\n\n2 - Para efeito de seleção de candidaturas à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Criação de novos postos de trabalho.\n\n3 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas e ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.\n\n4 - Os critérios de seleção são avaliados com base em informação disponível à data de submissão da candidatura, podendo o aviso de abertura definir momento distinto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "114546822": {
+   "fragment_id": "107714252",
+   "type": 14,
+   "heading": "Anexo I — Sectores industriais enquadrados no PDR 2020",
+   "in_force_from": "2018-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25"
+   ],
+   "markdown": "## Anexo I — Sectores industriais enquadrados no PDR 2020\n\n[a que se refere a alínea a) do n.º 2 do artigo 7.º]\n\nCAE constantes do Decreto-Lei n.º 381/2007, de 14 de novembro\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25"
+  },
+  "117124016": {
+   "fragment_id": "107714233",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos;\n\nh) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas.\n\nj) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.\n\n2 - Os beneficiários do apoio à operação 3.2.2, «Pequenos investimentos na exploração agrícola», devem ainda manter o registo da respetiva exploração no Sistema de Identificação Parcelar, até à data da conclusão da operação.\n\n3 - Os beneficiários do apoio à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda possuir uma situação económica e financeira equilibrada, com uma AF pós-projeto igual ou superior a 20 %, aferida no momento do último pagamento.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "117124017": {
+   "fragment_id": "107714246",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável\n\n6 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "117124018": {
+   "fragment_id": "107714253",
+   "type": 14,
+   "heading": "Anexo II — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "## Anexo II — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\nDespesas elegíveis operação 3.2.2 - Pequenos investimentos na exploração agrícola\n\n(ver documento original)\n\n3. As despesas gerais - nomeadamente no domínio da eficiência energética e energias renováveis, software aplicacional, propriedade industrial, diagnósticos, auditorias, planos de marketing e branding e estudos de viabilidade, acompanhamento, projetos de arquitetura, engenharia associados aos investimentos, até 5 % do custo total elegível aprovado daquelas despesas.\n\n(ver documento original)\n\nDespesas não elegíveis operação 3.2.2 - Pequenos investimentos na exploração agrícola\n\n(ver documento original)\n\nDespesas elegíveis operação 3.3.2 - Pequenos investimentos na transformação e comercialização de produtos agrícolas\n\n(ver documento original)\n\nDespesas não elegíveis operação 3.3.2 - Pequenos investimentos na transformação e comercialização de produtos agrícolas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "117124019": {
+   "fragment_id": "107714233",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos;\n\nh) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas.\n\nj) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.\n\nk) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento e exceto no caso de operação inteiramente sujeita a custos simplificados.\n\n2 - Os beneficiários do apoio à operação 3.2.2, «Pequenos investimentos na exploração agrícola», devem ainda manter o registo da respetiva exploração no Sistema de Identificação Parcelar, até à data da conclusão da operação.\n\n3 - Os beneficiários do apoio à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda possuir uma situação económica e financeira equilibrada, com uma AF pós-projeto igual ou superior a 20 %, aferida no momento do último pagamento.\n\n4 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea k) do n.º 1.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "117124020": {
+   "fragment_id": "107714242",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 19.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.pt-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.\n\n6 - Podem ser apresentados até cinco pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O disposto nos n.os 2, 3, 5 e 6 não é aplicável aos projetos ou componentes dos projetos com custos simplificados, sendo neste caso apresentado um único pedido de pagamento após a execução da operação sujeita a custo simplificado.\n\n8 - Nas operações referentes às explorações agrícolas, e relativamente a instalações pecuárias, o último pagamento do apoio só pode ser efetuado quando o beneficiário demonstrar ser detentor de título de exploração atualizado, nos termos da legislação aplicável.\n\n9 - Nas operações referentes à transformação e comercialização, o último pagamento do apoio só pode ser efetuado quando o beneficiário demonstrar:\n\na) Ser detentor da respetiva licença de exploração industrial atualizada, tratando-se do exercício de atividades sujeitas a licenciamento industrial;\n\nb) Ser detentor de alvará de licença de utilização atualizado ou de licença sanitária, tratando-se de estabelecimentos comerciais.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117124021": {
+   "fragment_id": "107714246",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável\n\n6 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n7 - A não comprovação do início da execução física da operação no prazo previsto na alínea k) do n.º 1 do artigo 11.º ou no n.º 4 do artigo 11.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "160508233": {
+   "fragment_id": "107714224",
+   "type": 11,
+   "heading": "Artigo 3.º — Área geográfica de aplicação",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 3.º — Área geográfica de aplicação\n\n1 - Sem prejuízo do disposto nos números seguintes, os apoios previstos na presente portaria são aplicáveis na área geográfica correspondente aos territórios não abrangidos por uma Estratégia de Desenvolvimento Local (EDL) apoiada no âmbito da ação 10.2., 'Implementação das estratégias de desenvolvimento local', da medida 10, 'Leader', do PDR 2020.\n\n2 - O disposto no número anterior não é aplicável às candidaturas com investimentos em explorações agrícolas abrangidas por medidas extraordinárias adotadas no âmbito de catástrofes naturais.\n\n3 - Os apoios previstos na presente portaria e inseridos no âmbito do artigo 58.º-A do Regulamento (UE) 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, na redação introduzida pelo Regulamento (UE) 2020/2220, do Parlamento Europeu e do Conselho, de 23 de dezembro de 2020, adiante designados por apoios 'Next Generation', são aplicáveis na área geográfica correspondente a todo o território de Portugal continental.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "160508234": {
+   "fragment_id": "107714228",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, além dos critérios de elegibilidade constantes do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;\n\nc) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 7 do presente artigo;\n\nd) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER ou do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ne) Não terem sido condenados em processo-crime por factos que envolvem disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nf) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\n2 - Os candidatos aos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', devem ainda reunir as seguintes condições:\n\na) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar;\n\nb) Terem um volume de negócios ou de pagamentos diretos, cuja soma seja igual ou inferior a 100.000 euros, no ano anterior ao da apresentação de candidaturas.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, consideram-se 'pagamentos diretos' os previstos nas alíneas a) a e) do n.º 1 do artigo 1.º da Portaria n.º 57/2015, de 27 de fevereiro, na sua atual redação, nas alíneas a) e b) do n.º 1 do artigo 4.º do Despacho Normativo n.º 2/2015, de 20 de janeiro, na sua atual redação, e nas alíneas a) a c) do n.º 1 do artigo 3.º do Despacho Normativo n.º 14/2014, de 29 de outubro, na sua atual redação.\n\n4 - Os candidatos aos apoios à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:\n\na) Possuírem situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré-projeto igual ou superior a 20 %, devendo o indicador utilizado ter por base o exercício anterior ao ano da apresentação da candidatura;\n\nb) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou acionistas, que contribuam para garantir o indicador referido na alínea anterior, seja integrado em capitais próprios, até à data de aceitação da concessão do apoio.\n\n5 - O indicador referido na alínea a) do número anterior pode ser comprovado com informação mais recente, desde que se reporte a uma data anterior à da apresentação da candidatura, devendo para o efeito ser apresentados os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.\n\n6 - A disposição da alínea a) do n.º 4 não se aplica aos candidatos que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer atividade, desde que suportem com capitais próprios pelo menos 25 % do custo total do investimento elegível.\n\n7 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.\n\n8 - As condições previstas na alínea f) do n.º 1 e na alínea a) do n.º 2 podem ser demonstradas até à data de aceitação da concessão do apoio, quando o candidato não tenha desenvolvido qualquer atividade.\n\n9 - A condição referida na alínea b) do n.º 2 não é aplicável às candidaturas com investimentos em explorações agrícolas abrangidas por medidas extraordinárias adotadas no âmbito de catástrofes naturais, nem aos apoios 'Next Generation'.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "160508235": {
+   "fragment_id": "107714229",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e tenham um custo total elegível, apurado em sede de análise, igual ou superior a 1000 euros e inferior ou igual a 50 000 euros.\n\n2 - Podem beneficiar dos apoios à ação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e que reúnam as seguintes condições:\n\na) Incidam sobre a conservação, preparação e comercialização ou transformação de produtos agrícolas, cujo produto final resultante seja um produto agrícola;\n\nb) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a 10.000 euros e inferior ou igual a 200.000 euros;\n\nc) Contribuam para o desenvolvimento da produção ou do valor acrescentado da produção agrícola, com a devida demonstração na memória descritiva;\n\nd) Assegurem, quando aplicável, as fontes de financiamento de capital alheio;\n\ne) Evidenciem viabilidade económica e financeira, medida através do valor atualizado líquido (VAL), tendo a atualização como referência a taxa de refinanciamento (REFI) do Banco Central Europeu, em vigor à data de submissão da candidatura.\n\nf) Apresentem coerência económica e financeira.\n\n3 - Os projetos de investimento previstos nos n.os 1 e 2 do presente artigo devem ainda reunir as seguintes condições:\n\na) (Revogada);\n\nb) Tenham início após a data de apresentação da candidatura;\n\nc) Apresentem coerência técnica;\n\nd) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento.\n\n4 - O método de cálculo dos indicadores de viabilidade económica e financeira, incluindo o VAL quando aplicável, quantifica o máximo de 30 % dos custos inerentes às seguintes componentes:\n\na) Intervenção de natureza ambiental;\n\nb) Eficiência energética;\n\nc) Produção de energias renováveis.\n\n5 - No caso de projetos que respeitem exclusivamente às componentes referidas no número anterior, os anúncios dos períodos de apresentação das candidaturas podem estabelecer que o critério de elegibilidade previsto na alínea e) do n.º 2 não é aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "160508245": {
+   "fragment_id": "107714231",
+   "type": 11,
+   "heading": "Artigo 9.º — Custos simplificados",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 9.º — Custos simplificados\n\nAs operações referentes a culturas agrícolas com determinação do valor padrão objeto da modalidade de custos simplificados são definidas pelo Gabinete de Planeamento, Políticas e Administração Geral e divulgadas no portal do PDR 2020, em www.pdr-2020.pt.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "160508236": {
+   "fragment_id": "107714232",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção das candidaturas",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 10.º — Critérios de seleção das candidaturas\n\n1 - Para efeito de seleção de candidaturas à operação 3.2.2, «Pequenos investimentos na exploração agrícola», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por membro de agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Candidatura apresentada por jovem agricultor em primeira instalação;\n\nc) Candidatura com investimento em melhoramentos fundiários e plantações;\n\nd) Candidatura com investimento relacionado com proteção e utilização eficiente dos recursos.\n\ne) Montante de pagamentos diretos recebidos pelo beneficiário, no ano anterior ao da candidatura.\n\n2 - Para efeito de seleção de candidaturas à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», são considerados, designadamente, os seguintes critérios:\n\na) Candidatura apresentada por agrupamento ou organização de produtores reconhecidos no sector do investimento;\n\nb) Criação de novos postos de trabalho.\n\n3 - Os anúncios dos períodos de apresentação das candidaturas podem indicar critérios de seleção diversos dos referidos nos números anteriores.\n\n4 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas e ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.\n\n5 - Os critérios de seleção são avaliados com base em informação disponível à data de submissão da candidatura, podendo o aviso de abertura definir momento distinto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  },
+  "160508237": {
+   "fragment_id": "107714234",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma, nível e limites dos apoios",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 12.º — Forma, nível e limites dos apoios\n\n1 - Os apoios previstos na presente portaria revestem a forma de subvenção não reembolsável, podendo assumir as seguintes modalidades:\n\na) Reembolso de custos elegíveis efetivamente incorridos e pagos;\n\nb) Custos simplificados, sob a forma de tabelas normalizadas de custos unitários.\n\n2 - As tabelas normalizadas de custos unitários são publicadas em Orientação Técnica Específica (OTE) e divulgadas no portal do PDR 2020, em www.pdr-2020.pt.\n\n3 - Os níveis de apoio a conceder, por beneficiário, constam do anexo III à presente portaria da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "160508238": {
+   "fragment_id": "107714237",
+   "type": 11,
+   "heading": "Artigo 14.º — Anúncios",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 14.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A área geográfica elegível;\n\nd) A dotação orçamental a atribuir;\n\ne) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\nf) A forma e o nível dos apoios a conceder, respeitando o disposto no artigo 12.º\n\ng) Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações, quando sejam mais restritivos do que os previstos no artigo 18.º da presente portaria.\n\n2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.\n\n3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.pt-2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "160508239": {
+   "fragment_id": "107714239",
+   "type": 11,
+   "heading": "Artigo 16.º — Termo de aceitação",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+   ],
+   "markdown": "###### Artigo 16.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+  },
+  "160508240": {
+   "fragment_id": "107714240",
+   "type": 11,
+   "heading": "Artigo 17.º — Execução das operações",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 17.º — Execução das operações\n\nOs prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações são, respetivamente, de 6 e 24 meses contados a partir da data da submissão autenticada do termo de aceitação, podendo os anúncios dos períodos de apresentação das candidaturas, nos apoios 'Next Generation', fixar prazos máximos inferiores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "160508241": {
+   "fragment_id": "107714241",
+   "type": 11,
+   "heading": "Artigo 18.º — Pedidos de alteração",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 18.º — Pedidos de alteração\n\n1 - Após a data da submissão autenticada do termo de aceitação, caso se verifique qualquer circunstância excecional e impossível de prever aquando da apresentação da candidatura, que justifique a necessidade de proceder a alterações ao projeto aprovado, nomeadamente no que diz respeito à sua titularidade, localização, componentes de investimento e prazos de execução, os beneficiários podem apresentar pedido de alteração, nos termos previstos em Orientação Técnica Geral (OTG) divulgada no portal do PDR 2020, em www.pdr-2020.pt.\n\n2 - A alteração proposta não pode alterar substancialmente a natureza do projeto aprovado, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "160508244": {
+   "fragment_id": "107714250",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 26.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n2 - Revogado.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "160508242": {
+   "fragment_id": "107714253",
+   "type": 14,
+   "heading": "Anexo II — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "## Anexo II — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\nDespesas elegíveis operação 3.2.2 - Pequenos investimentos na exploração agrícola\n\nInvestimentos materiais e imateriais\n\n1 - Bens imóveis - Construção e melhoramento, designadamente:\n\n1.1 - Preparação de terrenos;\n\n1.2 - Edifícios e outras construções diretamente ligados às atividades a desenvolver;\n\n1.3 - Adaptação de instalações existentes relacionada com a execução do investimento;\n\n1.4 - Plantações plurianuais;\n\n1.5 - Instalação de pastagens permanentes, nomeadamente operações de regularização e preparação do solo, desmatação e consolidação do terreno;\n\n1.6 - Sistemas de rega - instalação ou modernização, nomeadamente captação, condução e distribuição de água desde que promovam o uso eficiente da água - e sistemas de monitorização;\n\n1.7 - Despesas de consolidação - durante o período de execução da operação.\n\n2 - Bens móveis - compra ou locação - compra de novas máquinas e equipamentos, designadamente:\n\n2.1 - Máquinas e equipamentos novos, incluindo equipamentos de prevenção contra roubos;\n\n2.2 - Equipamentos de transporte interno, de movimentação de cargas e as caixas e paletes com duração de vida superior a um ano;\n\n2.3 - Equipamentos visando a valorização dos subprodutos e resíduos da atividade.\n\n3 - As despesas gerais - nomeadamente no domínio da eficiência energética e energias renováveis, software aplicacional, propriedade industrial, diagnósticos, auditorias, planos de marketing e branding e estudos de viabilidade, acompanhamento, projetos de arquitetura, engenharia associados aos investimentos, até 5 % do custo total elegível aprovado daquelas despesas, e com exceção dos projetos a executar exclusivamente com custos simplificados, em que as despesas gerais não são elegíveis.\n\nLimites às elegibilidades\n\n4 - As caixas e paletes são elegíveis na condição de se tratar de uma primeira aquisição ou de uma aquisição suplementar proporcional ao aumento de capacidade projetada.\n\n5 - Contribuições em espécie desde que se refiram ao fornecimento de equipamento próprio ou de trabalho voluntário não remunerado.\n\n6 - As despesas em instalações e equipamentos financiadas através de contratos de locação financeira ou de aluguer de longa duração só são elegíveis se for exercida a opção de compra e a duração desses contratos for compatível com o prazo para apresentação do pedido de pagamento da última parcela do apoio.\n\n7 - Para investimentos em sistemas de rega é obrigatória a existência ou instalação de contadores de medição de consumo de água.\n\nDespesas não elegíveis operação 3.2.2 - Pequenos investimentos na exploração agrícola\n\n(ver documento original)\n\nOutras despesas não elegíveis\n\n24 - IVA recuperável;\n\n25 - (Revogado.)\n\nDespesas elegíveis operação 3.3.2 - Pequenos investimentos na transformação e comercialização de produtos agrícolas\n\n(ver documento original)\n\nLimites às elegibilidades\n\n4 - As caixas e paletes são elegíveis na condição de se tratar de uma primeira aquisição ou de uma aquisição suplementar proporcional ao aumento de capacidade projetada, não podendo ser vendidas conjuntamente com a mercadoria;\n\n5 - Quando houver componentes de investimento comuns a investimentos excluídos e a investimentos elegíveis, as despesas elegíveis são calculadas proporcionalmente, em função do peso das quantidades/valores das matérias-primas/produtos de base afetos aos investimentos elegíveis nos correspondentes totais utilizados.\n\n6 - Deslocalização - na mudança de localização de uma unidade existente, ao montante do investimento elegível da nova unidade, independentemente de nesta virem também a ser desenvolvidas outras atividades, será deduzido o montante resultante da soma do valor líquido, real ou presumido, da unidade abandonada com o valor das indemnizações eventualmente recebidas, depois de deduzido o valor, real ou presumido, do terreno onde a nova unidade vai ser implantada; contudo, se o investimento em causa for justificado por imperativos legais ou se o PDM estipular para o local utilização diferente da atividade a abandonar, não será feita qualquer dedução relativamente às despesas elegíveis. Em nenhuma situação o investimento elegível corrigido poderá ser superior ao investimento elegível da nova unidade.\n\n7 - As despesas com estudos de viabilidade, projetos de arquitetura, engenharia associados aos investimentos, e a elaboração de estudos podem ser elegíveis se efetuados até seis meses antes da data de apresentação da candidatura.\n\n8 - As despesas em instalações e equipamentos financiadas através de contratos de locação financeira ou de aluguer de longa duração só são elegíveis se for exercida a opção de compra e a duração desses contratos for compatível com o prazo para apresentação do pedido de pagamento da última parcela do apoio.\n\nDespesas não elegíveis operação 3.3.2 - Pequenos investimentos na transformação e comercialização de produtos agrícolas\n\n(ver documento original)\n\nOutras despesas não elegíveis\n\n26 - Contribuições em espécie.\n\n27 - IVA.\n\n28 - Despesas realizadas antes da data de apresentação dos pedidos de apoio, exceto as despesas gerais referidas em 3.\n\n29 - Despesas com pessoal, inerentes à execução da operação, quando esta seja efetuada por administração direta e sem recurso a meios humanos excecionais e temporários.\n\n30 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "160508243": {
+   "fragment_id": "107714254",
+   "type": 14,
+   "heading": "Anexo III — Níveis de apoio",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "## Anexo III — Níveis de apoio\n\n(a que se refere o n.º 3 do artigo 12.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31"
+  },
+  "214172728": {
+   "fragment_id": "107714228",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2023-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/159-2023-214100368), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, além dos critérios de elegibilidade constantes do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;\n\nc) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 7 do presente artigo;\n\nd) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER ou do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ne) Não terem sido condenados em processo-crime por factos que envolvem disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nf) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\n2 - Os candidatos aos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', devem ainda reunir as seguintes condições:\n\na) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar;\n\nb) Terem um volume de negócios ou de pagamentos diretos, cuja soma seja igual ou inferior a 100.000 euros, no ano anterior ao da apresentação de candidaturas.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, consideram-se 'pagamentos diretos' os previstos nas alíneas a) a e) do n.º 1 do artigo 1.º da Portaria n.º 57/2015, de 27 de fevereiro, na sua atual redação, nas alíneas a) e b) do n.º 1 do artigo 4.º do Despacho Normativo n.º 2/2015, de 20 de janeiro, na sua atual redação, e nas alíneas a) a c) do n.º 1 do artigo 3.º do Despacho Normativo n.º 14/2014, de 29 de outubro, na sua atual redação.\n\n4 - Os candidatos aos apoios à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:\n\na) Possuírem situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré-projeto igual ou superior a 20 %, devendo o indicador utilizado ter por base o exercício anterior ao ano da apresentação da candidatura;\n\nb) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou acionistas, que contribuam para garantir o indicador referido na alínea anterior, seja integrado em capitais próprios, até à data de aceitação da concessão do apoio.\n\n5 - O indicador referido na alínea a) do número anterior pode ser comprovado com informação mais recente, desde que se reporte a uma data anterior à da apresentação da candidatura, devendo para o efeito ser apresentados os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.\n\n6 - A disposição da alínea a) do n.º 4 não se aplica aos candidatos que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer atividade, desde que suportem com capitais próprios pelo menos 25 % do custo total do investimento elegível.\n\n7 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.\n\n8 - As condições previstas na alínea f) do n.º 1 e na alínea a) do n.º 2 podem ser demonstradas até à data de aceitação da concessão do apoio, quando o candidato não tenha desenvolvido qualquer atividade.\n\n9 - A condição referida na alínea b) do n.º 2 não é aplicável às candidaturas com investimentos em explorações agrícolas abrangidas por medidas extraordinárias adotadas no âmbito de catástrofes naturais, ou quando se trate de investimentos para melhoria das condições de segurança e prevenção de acidentes no trabalho agrícola, nem aos apoios 'Next Generation'.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/159-2023-214100368), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2018 - Diário da República n.º 17/2018, Série I de 2018-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/34-2018-114561724), em vigor a partir de 2018-01-25\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 213-A/2017 - Diário da República n.º 138/2017, 1º Suplemento, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-a-2017-107709527), em vigor a partir de 2017-07-20"
+  }
+ }
+}

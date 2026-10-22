@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:298390:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao/1978-919825980",
+ "dre_path": "/dr/detalhe/resolucao/104-1978-298390",
+ "source_lastmod": "2025-05-29",
+ "versions": [
+  {
+   "date": "1978-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919708844"
+   ]
+  },
+  {
+   "date": "1978-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:299640:por",
+     "title": "Declaração",
+     "published": "1978-08-08",
+     "dre_path": "/dr/detalhe/declaracao/1978-299640"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "919708844",
+    "919708840"
+   ]
+  }
+ ],
+ "fragments": {
+  "919708844": {
+   "fragment_id": "919825981",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1978-08-08",
+   "changed_by": [],
+   "markdown": "Resolução n.º 104/78\n\nNo sentido de se criarem as condições indispensáveis à inventariação, estudo e apresentação das medidas convenientes à criação no País dos terminais julgados prioritários, face ao tráfego internacional existente e previsto por via terrestre, entendeu o Governo criar a Comissão Coordenadora para a Instalação dos Terminais TIR/TIF (CCIT), através da Resolução do Conselho de Ministros n.º 164/77, de 6 de Julho, cujo relatório definitivo será apresentado até 30 de Junho de 1978.\n\nA referida Comissão Coordenadora apresentou, entretanto, um relatório intercalar, em Dezembro de 1977, no qual se propunham os princípios gerais a que deverá obedecer o regime de exploração dos futuros terminais, assim como as localizações seleccionadas no que respeita aos tetrminais de Lisboa e Porto.\n\nMereceu a proposta o acordo do Ministro dos Transportes e Comunicações, através do seu despacho de 13 de Março de 1978.\n\nA aprovação do relatório preliminar, do qual constam os princípios gerais posteriormente desenvolvidos, torna possível que, independentemente da apreciação do relatório definitivo, possam, desde já, prosseguir acções conducentes à implantação, a curto prazo, das empresas exploradoras dos terminais de Lisboa e Porto.\n\nPor outro lado, os estudos efectuados pela CCIT permitiram verificar a inexistência de uma entidade responsável pela concepção e planeamento das infra-estruturas do tráfego internacional de mercadorias por via terrestre, designadamente as instalações das estâncias aduaneiras habilitadas a receber e a expedir aquele tráfego.\n\nNestas condições, considera-se necessária a criação de estruturas que permitam não só o prosseguimento das acções acima referidas, sem soluções de continuidade relativamente ao trabalho desenvolvido pela CCIT, mas também o aproveitamento da experiência adquirida e o suprimento da lacuna atrás mencionada.\n\nNestes termos, o Conselho de Ministros, reunido em 7 de Junho de 1978, resolveu:\n\n1 - Criar, na dependência da Secretaria de Estado dos Transportes, a Comissão Instaladora dos Terminais Terrestres Internacionais (CITTI).\n\n2 - Competirá à CITTI:\n\na) Iniciar as negociações com as entidades interessadas com vista à constituição das empresas exploradoras dos terminais terrestres internacionais de Lisboa e Porto;\n\nb) Preparar o clausulado respeitante aos contratos de concessão das referidas explorações;\n\nc) Promover as acções necessárias à aquisição dos terrenos escolhidos para implantação dos terminais de Lisboa e Porto, preparando a legislação que porventura venha a ser necessária para tal efeito;\n\nd) Aprofundar os estudos realizados pela Comissão Coordenadora para a Instalação dos Terminais TIR/TIF, no tocante à eventual criação de outros terminais e melhoramento das instalações das estâncias aduaneiras com tráfego terrestre internacional de mercadorias, de molde a permitir uma harmonização dos procedimentos aduaneiros quanto ao tratamento deste tráfego.\n\n3 - A CITTI terá a seguinte constituição:\n\na) Um presidente e dois vogais a designar por despacho do Secretário de Estado dos Transportes;\n\nb) Um representante da Direcção-Geral dos Transportes Terrestres;\n\nc) Um representante da Direcção-Geral das Alfândegas;\n\nd) Um representante da Direcção-Geral dos Edifícios e Monumentos Nacionais.\n\n4 - A CITTI poderá solicitar a quaisquer entidades públicas os elementos necessários ao desempenho das suas atribuições, bem como corresponder-se com quaisquer entidades públicas ou privadas, nacionais ou estrangeiras, e estabelecer com elas os contactos que considerar necessários.\n\n5 - A CITTI poderá propor ao Secretário de Estado dos Transportes o destacamento de pessoal dos serviços da Secretaria de Estado ou a sua requisição ao quadro geral de adidos, bem como contratar, em regime eventual ou de tarefa, técnicos de reconhecida competência e os elementos administrativos necessários ao funcionamento da Comissão.\n\n6 - As despesas com o funcionamento da CITTI serão suportadas por conta de orçamento a propor por esta e a aprovar por despacho do Secretário de Estado dos Transportes.\n\n7 - A emissão da CITTI iniciar-se-á em 1 de Julho de 1978, devendo estar concluída em 31 de Dezembro do mesmo ano."
+  },
+  "919708840": {
+   "fragment_id": "919825982",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 7 de Junho de 1978. - O Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

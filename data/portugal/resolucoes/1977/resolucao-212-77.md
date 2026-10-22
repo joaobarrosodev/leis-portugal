@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:286370:por
+title: Resolução n.º 212/77
+short_title: null
+summary: Determina que, precedendo a cessação da intervenção do Estado instituída na empresa Fundição e Construção Mecânicas,
+  S. A. R. L., esta seja transformada em empresa de economia mista
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 212/77
+official_date: null
+publication_date: '1977-09-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/1977, Série I de 1977-09-07
+  number: '207'
+  series: I
+  supplement: null
+  pages: 2177 - 2178
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20700/21772178.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '286370'
+  dre_path: /dr/detalhe/resolucao/212-1977-286370
+  internal: pt:dre:286370:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/212-1977-286370
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/212-1977-286370
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-12-26T00:00:00Z'
+integrity:
+  source_sha256: d26a519056f2d9fdf4bcf10a0919500c06e922117499f7707cd89d1a9ed04215
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-212-286370.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:280005:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 212/77
+
+Considerando que por resolução do Conselho de Ministros de 20 de Maio de 1975, publicada no Diário do Governo, 1.ª série, n.º 126, de 2 de Junho de 1975, foi determinada a intervenção do Estado na Fundição e Construção Mecânicas, S. A. R. L. (Fundição de Oeiras), ao abrigo do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro;
+
+Considerando que, para os efeitos do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro, por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e da Indústria e Tecnologia, publicado no Diário da República, 2.ª série, n.º 73, de 28 de Março de 1977, foi nomeada uma comissão interministerial que apresentou um relatório sobre a empresa, nos termos previstos no diploma citado e para elaboração do qual procedeu à audição das partes interessadas, nomeadamente dos trabalhadores, através da respectiva comissão;
+
+Considerando que o relatório atrás referido destaca os seguintes pontos:
+
+Se trata de uma empresa de relevante importância para a economia nacional;
+
+Uma das suas principais actividades actuais se enquadra na indústria do armamento;
+
+Durante o período de intervenção do Estado a empresa registou notável desenvolvimento, tendo realizado investimentos superiores a 100000 contos, com o que mais que duplicou o volume das suas vendas e aumentou em cerca de 60% o número de postos de trabalho que assegura;
+
+Ainda durante o período de intervenção do Estado se verificou uma reabertura à exportação, o que se traduz numa significativa entrada de divisas no País;
+
+A Inspecção-Geral de Finanças, no exame que realizou à escrita da empresa, se referiu à inoperância da administração presentemente suspensa e detectou indícios da prática de irregularidades, cujo apuramento e definição das responsabilidades implicadas se encontra, porém, cometida às instâncias competentes;
+
+O capital social actual é de 6345 contos, encontrando-se manifestamente desajustado para uma empresa desta dimensão e características;
+
+Através da Caixa Geral de Depósitos e da banca comercial o Estado é credor da empresa pelo montante de 460000 contos;
+
+É possível viabilizar económica e financeiramente a empresa;
+
+Considerando ainda que, do conjunto dos aspectos focados, resulta manifesto interesse e conveniência de o Estado continuar a participar na gestão da empresa;
+
+Considerando que a comissão de trabalhadores, apontando para a transformação da Fundição de Oeiras em empresa pública, aceitaria, porém, embora com reservas, a sua transformação em empresa de economia mista;
+
+Considerando, por último, que, não obstante o disposto na parte final do artigo 8.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, se justifica que o Estado assuma posição maioritária na empresa;
+
+O Conselho de Ministros, reunido em 10 de Agosto de 1977, resolveu:
+
+a) Nos termos dos artigos 20.º e 21.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, na redacção que lhes foi dada pelo [Decreto-Lei n.º 543/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1976-430443), de 10 de Julho, fazer preceder a cessação da intervenção do Estado, instituída na empresa Fundição e Construção Mecânicas, S. A. R. L., em 20 de Maio de 1975, por resolução do Conselho de Ministros tomada ao abrigo do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, da sua transformação em empresa de economia mista, com o simultâneo aumento do seu capital social para 150000 contos, sendo esse aumento reservado ao Estado, cabendo ao Instituto das Participações do Estado o desenvolvimento das acções necessárias para assegurar a participação maioritária dos capitais públicos na empresa.
+
+b) Fixar o prazo de noventa dias para a comissão administrativa proceder, com a assistência de um representante dos actuais sócios, às operações seguintes:
+
+Reavaliação do activo da empresa, nos termos do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril;
+
+Proposta concreta da repartição dos capitais próprios da empresa, na sequência do aumento referido na alínea a) da presente resolução, que deverá ser aprovada pelo Conselho de Ministros;
+
+Apresentação do projecto dos futuros estatutos da Fundição e Construção Mecânicas, S. A. R. L., como empresa de economia mista, conforme estabelecido na presente resolução, para devida aprovação do Conselho de Ministros, nos termos legais;
+
+c) Convocação de uma assembleia geral para eleição, nos termos dos novos estatutos entretanto aprovados, dos órgãos sociais que deverão assumir funções na data da cessação da intervenção do Estado;
+
+d) No caso de, para realização das operações descritas na alínea b), se vir a considerar necessário o reforço da actual comissão administrativa, poderá o Ministro da Indústria e Tecnologia, por despacho, nomear um terceiro elemento;
+
+e) Fixar o prazo de cento e vinte dias para, realizadas as medidas atrás discriminadas na alínea b), a cessação da intervenção do Estado na empresa Fundição e Construção Mecânicas, S. A. R. L., instituída ao abrigo do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, e sua entrega aos respectivos titulares à data, conforme previsto na alínea d) do n.º 1 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio;
+
+f) Exonerar a comissão administrativa em funções, com efeitos a partir da cessação da intervenção, data em que deverão ser empossados os novos órgãos sociais entretanto eleitos nos termos da alínea c).
+
+Presidência do Conselho de Ministros, 10 de Agosto de 1977. - O Primeiro-Ministro, Mário Soares.

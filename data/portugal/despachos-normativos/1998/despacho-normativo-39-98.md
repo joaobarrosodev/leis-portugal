@@ -1,0 +1,256 @@
+---
+schema_version: '1.0'
+id: pt:dre:472717:por
+title: Despacho Normativo n.º 39/98
+short_title: null
+summary: Altera o Regulamento dos Projectos Industrialmente Orientados, aprovado pelo Despacho Normativo n.º 11-F/95, de 6
+  de Março
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 39/98
+official_date: null
+publication_date: '1998-06-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/1998, Série I-B de 1998-06-08
+  number: '132'
+  series: I
+  supplement: null
+  pages: 2603 - 2604
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/06/132b00/26032604.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/39/1998/06/08/p/dre/pt/html
+  oj: null
+  dre: '472717'
+  dre_path: /dr/detalhe/despacho-normativo/39-1998-472717
+  internal: pt:dre:472717:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717
+  metadata_url: https://data.dre.pt/eli/despnorm/39/1998/06/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-06-08T00:00:00Z'
+integrity:
+  source_sha256: edab52ddfa5ec8c5a1463d1fdd4786a59aa004db32bec626abcd17677eb7ece1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-39-472717.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Empresa
+- Definição de Competências
+- Desenvolvimento Industrial
+- Política Industrial
+- Apoio ao Investimento
+- Projeto de Investimento
+- Indústria
+- QCA
+- Gabinete de Estudos e Planeamento
+- Ministério da Indústria e Energia
+- Modernização Industrial
+- Regime de Apoio
+- Regulamento
+- Regulamento dos Projectos Industrialmente Orientados
+- Pedip II
+- Sistema de Incentivos Pedip
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/11-f/1995/03/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/11-f/1995/03/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/555/1994/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/555/1994/07/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/622/1994/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/622/1994/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/9-a/1995/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/9-a/1995/02/16/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 39/98
+
+O [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II.
+
+No âmbito do PEDIP II prevêem-se acções de natureza voluntarista, cujo modo de implementação é disciplinado pelo [Despacho Normativo n.º 622/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/622-1994-218698), de 23 de Agosto, e, entre elas, o apoio a projectos industrialmente orientados a realizar por infra-estruturas tecnológicas, regulamentado pelo [Despacho Normativo n.º 11-F/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-f-1995-263700), de 6 de Março.
+
+Através do referido [Despacho Normativo n.º 11-F/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-f-1995-263700), foi aprovado o Regulamento dos Projectos Industrialmente Orientados, que dele faz parte integrante.
+
+Tendo em atenção que algumas das alterações recentemente introduzidas no [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882), de 29 de Julho, que regulamenta o Regime de Apoio à Consolidação das Infra-Estruturas Tecnológicas, deverão ser extensivas aos projectos industrialmente orientados, torna-se necessário consagrá-las legalmente, aproveitando-se a oportunidade para proceder a alguns ajustamentos e reformulações que a experiência colhida ao longo de mais de três anos aconselha.
+
+Assim, determina-se o seguinte:
+
+Os artigos 2.º, 3.º, 4.º e 6.º a 10.º do Regulamento dos Projectos Industrialmente Orientados, aprovado pelo [Despacho Normativo n.º 11-F/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-f-1995-263700), de 6 de Março, e que dele faz parte integrante, passam a ter a seguinte redacção:
+
+«Regulamento dos Projectos Industrialmente Orientados
+
+###### Artigo 2.º — Âmbito
+
+1 - ...
+
+2 - ...
+
+3 - Dado o carácter supletivo das actividades a apoiar relativamente aos vários regimes de apoio do PEDIP II, os projectos serão dinamizados pela equipa de projecto através da promoção, junto do universo dos potenciais promotores, de apresentação de propostas de ideias que possam conduzir à realização de projectos enquadráveis no âmbito do presente diploma, tendo em conta os estudos de diagnóstico e análise estratégica que tiverem sido aprovados no âmbito do Sistema de Incentivos à Consolidação das Infra-Estruturas Tecnológicas e da Qualidade, regulamentado pelo [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882), de 29 de Julho.
+
+4 - Decorrente da apreciação das propostas de ideias apresentadas e da sua selecção por uma comissão de apreciação presidida pelo gestor do PEDIP, com base em parecer prévio emitido pelo organismo gestor, os potenciais promotores serão convidados a apresentar as respectivas candidaturas, nos termos que vierem a ser definidos pela comissão atrás referida.
+
+5 - (Redacção do anterior n.º 4.)
+
+###### Artigo 3.º — Organismo gestor
+
+O organismo gestor das acções previstas no presente diploma é a Direcção-Geral da Indústria (DGI).
+
+###### Artigo 4.º — Comissão de selecção
+
+1 - ...
+
+a) ...
+
+b) Direcção-Geral da Indústria;
+
+c) ...
+
+2 - ...
+
+###### Artigo 6.º — Condições de acesso do promotor
+
+1 - As entidades beneficiárias deverão cumprir as seguintes condições gerais de acesso:
+
+a) Ter sido convidadas nos termos previstos no n.º 3 do artigo 2.º, no âmbito de iniciativas voluntaristas da Administração;
+
+b) Comprovar, através da natureza dos serviços que prestam, que desenvolvem dominantemente actividades de interesse para a indústria;
+
+c) Ter uma composição dos órgãos sociais que assegure a intervenção dos diferentes tipos de interesses, nomeadamente científicos, tecnológicos e empresariais, na definição da estratégia e no prosseguimento das actividades que desenvolvem;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+2 - ...
+
+###### Artigo 7.º — Condições de acesso do projecto
+
+1 - Os projectos a apoiar deverão cumprir as seguintes condições gerais de acesso:
+
+a) Corresponder aos requisitos constantes do convite formulado;
+
+b) Não ter sido iniciado antes da data de apresentação da candidatura, com excepção dos estudos prévios concluídos há menos de 120 dias úteis;
+
+c) ...
+
+d) ...
+
+2 - ...
+
+###### Artigo 8.º — Critérios de selecção
+
+1 - Constituem critérios de selecção, designadamente, os seguintes:
+
+Critério C(índice 1): valia tecnológica do projecto;
+
+Critério C(índice 2): grau de participação de empresas industriais na execução do projecto;
+
+Critério C(índice 3): potencial impacte do projecto num número significativo de beneficiários;
+
+Critério C(índice 4): mecanismos de transferência, apresentados pelo promotor, dos resultados potenciais do projecto.
+
+2 - Cada um dos critérios referidos no número anterior será valorado em cinco níveis: 0, 25, 50, 75 e 100.
+
+3 - A pontuação final (PF) será obtida pela aplicação da seguinte fórmula:
+
+PF = 0,3 C(índice 1) + 0,2 C(índice 2) + 0,2 C(índice 3) + 0,3 C(índice 4)
+
+Apenas serão apoiados os projectos em que o valor PF for igual ou superior a 50 e, cumulativamente, nenhum dos critérios tenha obtido valoração nula.
+
+###### Artigo 9.º — Aplicações relevantes
+
+1 - Consideram-se aplicações relevantes, para efeitos do cálculo dos incentivos, os seguintes custos:
+
+a) Pessoal técnico do promotor afecto ao projecto;
+
+b) Deslocações e estadas;
+
+c) Matérias-primas e componentes indispensáveis às actividades a desenvolver;
+
+d) Subcontratação de especialistas;
+
+e) Subcontratação de serviços;
+
+f) Estudos de tendências e impactes realizados por entidades externas;
+
+g) Custos associados à promoção e divulgação dos resultados do projecto.
+
+2 - ...
+
+3 - Para efeitos da determinação do incentivo a atribuir em cada projecto, os custos aceites das aplicações relevantes da alínea f) do n.º 1 serão considerados em função da correspondência com os respectivos custos médios de mercado.
+
+4 - Os limites máximos a considerar nos custos a que se referem as alíneas a), b), d) e relativos a consultoria externa no âmbito da alínea e) do n.º 1 são os constantes do [Despacho Normativo n.º 9-A/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-a-1995-143719), de 16 de Fevereiro.
+
+###### Artigo 10.º — Incentivo
+
+1 - ...
+
+2 - A taxa de incentivo a atribuir corresponde à aplicação de uma percentagem sobre as aplicações relevantes, que varia em função da pontuação final atribuída ao projecto, de acordo com o quadro seguinte:
+
+Pontuação final: 75 > PF >= 50 PF >= 75;
+
+Taxa de incentivo: 65% 75%.
+
+3 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá ser excepcionalmente majorado, com fundamento no grande interesse do projecto, reconhecido por despacho do Ministro da Economia, desde que existam disponibilidades orçamentais complementares ao Programa.»
+
+Ministério da Economia, 12 de Maio de 1998. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.

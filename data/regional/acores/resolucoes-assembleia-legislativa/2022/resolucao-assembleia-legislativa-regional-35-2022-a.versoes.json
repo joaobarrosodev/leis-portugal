@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:202015537:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-acores/2022-202455907",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/35-2022-202015537",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-10-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202404327"
+   ]
+  }
+ ],
+ "fragments": {
+  "202404327": {
+   "fragment_id": "202455908",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 35/2022/A\n\nSumário: Orçamento da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2023.\n\nOrçamento da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2023\n\nA Assembleia Legislativa da Região Autónoma dos Açores, nos termos do n.º 2 do artigo 36.º do Decreto Legislativo Regional n.º 36/2021/A, de 30 de novembro, alterado e republicado pelo Decreto Legislativo Regional n.º 15/2022/A, de 2 de junho, aprova o Orçamento da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2023, constante dos mapas em anexo."
+  }
+ }
+}

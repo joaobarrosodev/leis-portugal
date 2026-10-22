@@ -1,0 +1,198 @@
+---
+schema_version: '1.0'
+id: pt:dre:239808:por
+title: Resolução da Assembleia da República n.º 49/98
+short_title: null
+summary: Aprova, para ratificação, o Protocolo de Adesão da República da Hungria ao Tratado do Altântico Norte, assinado em
+  Bruxelas em 16 de Dezembro de 1997
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 49/98
+official_date: null
+publication_date: '1998-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/1998, Série I-A de 1998-10-28
+  number: '249'
+  series: I
+  supplement: null
+  pages: 5579 - 5582
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/10/249a00/55795582.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/49/1998/10/28/p/dre/pt/html
+  oj: null
+  dre: '239808'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/49-1998-239808
+  internal: pt:dre:239808:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-1998-239808
+  metadata_url: https://data.dre.pt/eli/resolassrep/49/1998/10/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/49-1998-239808
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-10-28T00:00:00Z'
+integrity:
+  source_sha256: 71b50cd8e729fad702fa3c3be4e9a21a9d64d972d7eac5459a1a667c0fa3c708
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-49-239808.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- NATO
+- Convenção
+- Portugal
+- Política de Defesa
+- Hungria
+- Segurança Internacional
+- Tratado do Atlântico Norte
+- Cooperação Internacional
+- Cooperação Militar
+- Bruxelas
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 49/98
+
+Aprova, para ratificação, o Protocolo de Adesão da República da Hungria ao Tratado do Atlântico Norte, assinado em Bruxelas em 16 de Dezembro de 1997.
+
+A Assembleia da República resolve, nos termos dos artigos 161.º, alínea i), e 166.º, n.º 5, da Constituição, aprovar, para ratificação, o Protocolo de Adesão da República da Hungria ao Tratado do Atlântico Norte, assinado em Bruxelas em 16 de Dezembro de 1997, cujo texto original em inglês e francês e respectiva tradução em português segue em anexo ao presente diploma.
+
+Aprovada em 16 de Setembro de 1998.
+
+**O Presidente da Assembleia da República, António de Almeida Santos.**
+
+PROTOCOL TO THE NORTH ATLANTIC TREATY ON THE ACCESSION OF THE REPUBLIC OF HUNGARY
+
+The Parties to the North Atlantic Treaty, signed at Washington on April 4, 1949, being satisfied that the security of the North Atlantic area will be enhanced by the accession of the Republic of Hungary to that Treaty, agree as follows:
+
+Article I
+
+Upon the entry into force of this Protocol, the Secretary General of the North Atlantic Treaty Organization shall, on behalf of all the Parties, communicate to the Government of the Republic of Hungary an invitation to accede to the North Atlantic Treaty. In accordance with article 10 of the Treaty, the Republic of Hungary shall become a Party on the date when it deposits its instrument of accession with the Government of the United States of America.
+
+Article II
+
+The present Protocol shall enter into force when each of the Parties to the North Atlantic Treaty has notified the Government of the United States of America of its acceptance thereof. The Government of the United States of America shall inform all the Parties to the North Atlantic Treaty of the date of receipt of each such notification and of the date of the entry into force of the present Protocol.
+
+Article III
+
+The present Protocol, of which the English and French texts are equally authentic, shall be deposited in the archives of the Government of the United States of America. Duly certified copies thereof shall be transmitted by that Government to the Governments of all the Parties to the North Atlantic Treaty.
+
+In witness whereof the undersigned plenipotentiaries have signed the present Protocol.
+
+Signed at Brussels on the 16th day of December 1997.
+
+[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55795582.pdf)
+
+PROTOCOLE AU TRAITÉ DE L'ATLANTIQUE NORD SUR L'ACCESSION DE LA RÉPUBLIQUE DE HONGRIE
+
+Les Parties au Traité de l'Atlantique Nord, signé le 4 avril 1949 à Washington, assurées que l'accession de la République de Hongrie au Traité de l'Atlantique Nord permettra d'augmenter la sécurité de la région de l'Atlantique Nord, conviennent ce qui suit:
+
+Article I
+
+Dès l'entrée en vigueur de ce Protocole, le Secrétaire général de l'Organisation du Traité de l'Atlantique Nord enverra, au nom de toutes les Parties, au Gouvernement de la République de Hongrie une invitation à adhérer au Traité de l'Atlantique Nord. Conformément à l'article 10 du Traité, la République de Hongrie deviendra Partie à ce Traité à la date du dépôt de son instrument d'accession auprès du Gouvernement des Etats-Unis d'Amérique.
+
+Article II
+
+Le présent Protocole entrera en vigueur lorsque toutes les Parties au Traité de l'Atlantique Nord auront notifié leur approbation au Gouvernement des Etats-Unis d'Amérique. Le Gouvernement des Etats-Unis d'Amérique informera toutes les Parties au Traité de l'Atlantique Nord de la date de réception de chacune de ces notifications et de la date d'entrée en vigueur du présent Protocole.
+
+Article III
+
+Le présent Protocole, dont les textes en français et anglais font également foi, sera déposé dans les archives du Gouvernement des Etats-Unis d'Amérique. Des copies certifiées conformes seront transmises par celui-ci aux Gouvernements de toutes les autres Parties au Traité de l'Atlantique Nord.
+
+En foi de quoi les plénipotentiaires désignés ci-dessous ont signé le présent Protocole.
+
+Signé à Bruxelles le 16 décembre 1997.
+
+[(ver assinaturas no documento original)](https://files.diariodarepublica.pt/1s/1998/10/249a00/55795582.pdf)
+
+PROTOCOLO DE ADESÃO DA REPÚBLICA DA HUNGRIA AO TRATADO DO ATLÂNTICO NORTE
+
+As Partes no Tratado do Atlântico Norte, assinado em Washington a 4 de Abril de 1949, convictas de que a adesão da República da Hungria ao Tratado do Atlântico Norte permitirá reforçar a segurança na área do Atlântico Norte, acordam o seguinte:
+
+Artigo I
+
+Com a entrada em vigor do presente Protocolo, o Secretário-Geral da Organização do Tratado do Atlântico Norte, em nome de todas as Partes, enviará ao Governo da República da Hungria um convite para aderir ao Tratado do Atlântico Norte. Nos termos do artigo 10.º do Tratado, a República da Hungria tornar-se-á Parte no referido Tratado na data de depósito do seu instrumento de adesão junto do Governo dos Estados Unidos da América.
+
+Artigo II
+
+O presente Protocolo entrará em vigor quando todas as Partes no Tratado do Atlântico Norte notificarem o Governo dos Estados Unidos da América da sua aceitação. O Governo dos Estados Unidos da América informará todas as Partes no Tratado do Atlântico Norte da data de recepção de cada notificação e da data de entrada em vigor do presente Protocolo.
+
+Artigo III
+
+O presente Protocolo, cujos textos em inglês e francês fazem igualmente fé, será depositado nos arquivos do Governo dos Estados Unidos da América. Cópias do mesmo, devidamente autenticadas, serão transmitidas, por este último Governo, aos Governos de todas as Partes no Tratado do Atlântico Norte.
+
+Em fé do que os plenipotenciários abaixo designados assinaram o presente Protocolo.
+
+**Assinado em Bruxelas, aos 16 dias de Dezembro de 1997.**
+
+Pelo Reino da Bélgica:
+
+Pelo Canadá:
+
+Pelo Reino da Dinamarca:
+
+Pela República Francesa:
+
+Pela República Federal da Alemanha:
+
+Pela República Helénica:
+
+Pela República da Islândia:
+
+Pela República Italiana:
+
+Pelo Grão-Ducado do Luxemburgo:
+
+Pelo Reino dos Países Baixos:
+
+Pelo Reino da Noruega:
+
+Pela República Portuguesa:
+
+Pelo Reino de Espanha:
+
+Pela República da Turquia:
+
+Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte:
+
+Pelos Estados Unidos da América:

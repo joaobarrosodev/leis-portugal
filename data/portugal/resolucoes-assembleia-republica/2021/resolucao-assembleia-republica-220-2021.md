@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:168561724:por
+title: Resolução da Assembleia da República n.º 220/2021
+short_title: null
+summary: Recomenda ao Governo que acompanhe a resposta económica e social ao ecossistema do vestuário, têxtil, calçado e moda,
+  no âmbito do Plano de Recuperação e Resiliência de Portugal e do plano de reindustrialização europeia
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 220/2021
+official_date: null
+publication_date: '2021-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/2021, Série I de 2021-07-29
+  number: '146'
+  series: I
+  supplement: null
+  pages: 4 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14600/0000400004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/220/2021/07/29/p/dre/pt/html
+  oj: null
+  dre: '168561724'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/220-2021-168561724
+  internal: pt:dre:168561724:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/220-2021-168561724
+  metadata_url: https://data.dre.pt/eli/resolassrep/220/2021/07/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/220-2021-168561724
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-07-29T00:00:00Z'
+integrity:
+  source_sha256: 3c58690cac149af66fb7729a0b26d6b81180d9a074709faf50233cdac8940c66
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-220-168561724.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Indústria Têxtil
+- Indústria do Calçado
+- Indústria do Vestuário e Confecção
+- Investimento
+- Investimento Público
+- Qualificação Profissional
+- Recomendação
+- Governo
+- Trabalhador por Conta de Outrem
+- Plano de Recuperação e Resiliência
+- Mecanismo de Recuperação e Resiliência da União Europeia
+- Fundo de Capitalização e Resiliência
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 220/2021
+
+Recomenda ao Governo que acompanhe a resposta económica e social ao ecossistema do vestuário, têxtil, calçado e moda, no âmbito do Plano de Recuperação e Resiliência de Portugal e do plano de reindustrialização europeia
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que acompanhe o trabalho já desenvolvido e em curso nos setores do calçado, vestuário, têxtil e moda, na economia regional do Norte e do País em geral, visando nomeadamente:
+
+1 - A avaliação e o eventual reforço das medidas já preconizadas nos pactos setoriais para a competitividade e internacionalização, de forma a salvaguardar uma total articulação com as oportunidades a nível nacional, da União Europeia e internacional.
+
+2 - A manutenção dos postos de trabalho, com vista à capacitação e requalificação dos trabalhadores, à reorganização e inovação dos setores, em alinhamento com os programas de apoio, empreendendo esforços para a participação ativa na reindustrialização da Europa.
+
+Aprovada em 9 de julho de 2021.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**

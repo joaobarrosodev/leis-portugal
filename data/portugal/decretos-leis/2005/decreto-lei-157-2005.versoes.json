@@ -1,0 +1,134 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:150714:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-936542254",
+ "dre_path": "/dr/detalhe/decreto-lei/157-2005-150714",
+ "source_lastmod": "2025-09-25",
+ "versions": [
+  {
+   "date": "2005-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "936542354",
+    "936542355",
+    "936542356",
+    "936542357",
+    "936542358",
+    "936542359",
+    "936542360"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "936542354",
+    "936542355",
+    "936542356",
+    "936542357",
+    "936542363",
+    "936542359",
+    "936542360",
+    "936542361",
+    "936542362"
+   ]
+  }
+ ],
+ "fragments": {
+  "936542354": {
+   "fragment_id": "936542255",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 157/2005\n\nde 20 de Setembro\n\nPela Resolução do Conselho de Ministros n.º 110/2005, de 2 de Junho, determinou o Governo que se procedesse à revisão dos regimes especiais de reforma e de aposentação, que estabelecem idades de aposentação, tempos mínimos de serviço ou regimes de contagem do tempo de serviço diferentes do regime geral aplicável aos servidores do Estado.\n\nO regime de aposentação e de pré-aposentação do pessoal com funções policiais da PSP passou a prever, depois da Lei n.º 1/2004, de 15 de Janeiro, a aposentação aos 60 anos de idade e 36 anos de serviço, por referência ao regime já aplicável aos funcionários públicos.\n\nTodavia, subsistem dois importantes aspectos distintivos. Por um lado, o tempo de serviço é contado com uma bonificação de 25%; por outro, a aposentação é antecedida por um período de pré-aposentação, caracterizado na prática pela ausência de prestação de serviço. Podendo ser requerido aos 55 anos de idade ou 36 anos de serviço, este regime passou a ter relevância a partir do momento em que a Lei n.º 1/2004, de 15 de Janeiro, elevou a idade de aposentação para os 60 anos, tendo a prática seguida pela PSP sido a de deferir apenas os requerimentos de pré-aposentação do pessoal com 55 anos de idade.\n\nO presente diploma não altera a idade mínima de aposentação, que se mantém nos 60 anos, elevando, contudo, para 40 anos o número mínimo de anos de serviço necessário para a aposentação com a pensão por inteiro, uma vez mais tendo em consideração o regime geral aplicável aos funcionários públicos, sendo os referidos 40 anos contados com uma bonificação destinada a assegurar que, numa carreira normal, os 40 anos podem decorrer entre as idades de admissão e de aposentação.\n\nEsta excepção ao futuro regime geral da aposentação na função pública justifica-se pelas características especiais da actividade de segurança interna, não apenas porque o desgaste sofrido justifica uma idade mais reduzida de aposentação, mas também porque as próprias características da função tornam inviável que, na generalidade dos casos, ela seja exercida por pessoal com mais de 60 anos de idade.\n\nAs mesmas razões justificam também a existência de um regime de pré-aposentação aos 55 anos de idade. A pré-aposentação não será, contudo, ao contrário do que acontece hoje, caracterizada pela ausência da prestação de serviço, mas antes por um regime de desempenho de funções e regime horário adequados ao desgaste sofrido e às capacidades do pessoal em causa.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "936542355": {
+   "fragment_id": "936542256",
+   "type": 11,
+   "heading": "Artigo 1.º — Alterações ao Estatuto do Pessoal da Polícia de Segurança Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações ao Estatuto do Pessoal da Polícia de Segurança Pública\n\nOs artigos 16.º, 17.º, 19.º e 62.º do Estatuto do Pessoal da Polícia de Segurança Pública, aprovado pelo Decreto-Lei n.º 511/99, de 24 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 16.º\n\nSituação de pré-aposentação\n\n1 - ...\n\na) ...\n\nb) Tenha pelo menos 55 anos de idade e 36 anos de serviço e requeira a passagem a essa condição;\n\nc) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 17.º\n\nRegime\n\n1 - Na situação de pré-aposentação, o pessoal presta serviço compatível com o seu estado físico ou intelectual, em conformidade com os respectivos conhecimentos e experiência e com as necessidades e conveniências dos serviços, não lhe podendo ser cometidas, salvo em casos excepcionais, funções de comando ou de direcção.\n\n2 - O regime de prestação de serviço previsto no número anterior é definido por portaria do Ministro da Administração Interna.\n\n3 - ...\n\na) ...\n\nb) Direito de promoção.\n\n4 - A remuneração do pessoal na situação de pré-aposentação é igual à remuneração base média do último ano, acrescida dos suplementos a que porventura tenham direito.\n\nArtigo 19.º\n\nPassagem à aposentação\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Tenha pelo menos 60 anos de idade e a requeira;\n\ne) Complete cinco anos na situação de pré-aposentação.\n\nArtigo 62.º\n\nAumento do tempo de serviço\n\n1 - O pessoal com funções policiais, enquanto se mantiver em serviço de carácter operacional, beneficia de um aumento de 15% em relação a todo o tempo de serviço efectivo prestado na PSP.\n\n2 - ...»"
+  },
+  "936542356": {
+   "fragment_id": "936542257",
+   "type": 11,
+   "heading": "Artigo 2.º — Aditamento ao Estatuto do Pessoal da Polícia de Segurança Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamento ao Estatuto do Pessoal da Polícia de Segurança Pública\n\nÉ aditado ao Estatuto do Pessoal da Polícia de Segurança Pública, aprovado pelo Decreto-Lei n.º 511/99, de 24 de Novembro, o artigo 17.º-A, com a seguinte redacção:\n\n«Artigo 17.º-A\n\nContingente em efectividade de serviço\n\n1 - É fixado anualmente, por despacho do Ministro da Administração Interna, o contingente a colocar na situação de pré-aposentação na efectividade de serviço.\n\n2 - Se o número de pessoal em situação de pré-aposentação exceder o contingente definido nos termos do número anterior, é colocado fora da efectividade de serviço, na quantidade excedente, o pessoal que o tenha requerido.\n\n3 - As regras de prioridade no deferimento dos requerimentos são estabelecidas por despacho do director nacional da PSP, tendo em conta a idade e o tempo de serviço.»"
+  },
+  "936542357": {
+   "fragment_id": "936542258",
+   "type": 11,
+   "heading": "Artigo 3.º — Conciliação com o regime da aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conciliação com o regime da aposentação\n\n1 - Ao cálculo da pensão de aposentação do pessoal com funções policiais da PSP é aplicável o disposto no regime geral da aposentação e respectivos regimes transitórios, com as adaptações decorrentes da idade de aposentação definida na alínea d) do n.º 2 do artigo 19.º do Estatuto do Pessoal da Polícia de Segurança Pública.\n\n2 - O tempo de serviço na PSP relevante para o cálculo referido no número anterior inclui todo o período no qual sejam efectuados descontos, incluindo o decorrido na situação de pré-aposentação, com as bonificações decorrentes da lei."
+  },
+  "936542358": {
+   "fragment_id": "936542259",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime transitório\n\n1 - O pessoal com funções policiais da PSP que, até 31 de Dezembro de 2005, reúna as condições nesse momento em vigor para requerer o acesso à pré-aposentação pode fazê-lo a qualquer tempo, sendo o requerimento decidido nos termos do regime em vigor até àquela data.\n\n2 - Até 31 de Dezembro de 2014, pode ainda aceder ao regime de pré-aposentação o pessoal que complete as idades previstas na tabela anexa ao presente diploma, que dele faz parte integrante, sem que lhes seja aplicável o regime previsto nos artigos 17.º e 17.º-A do Estatuto do Pessoal da Polícia de Segurança Pública, na redacção introduzida pelo presente diploma.\n\n3 - É garantida a passagem à aposentação, sem redução de pensão, nos termos vigentes até 31 de Dezembro de 2005, ao pessoal que complete cinco anos na situação de pré-aposentação, quando a tenham requerido ao abrigo do disposto nos números anteriores e lhes tenha sido deferido.\n\n4 - O tempo de serviço efectivo prestado até 31 de Dezembro de 2005 é contado, para efeitos de acesso à situação de pré-aposentação e de aposentação, com o aumento previsto no artigo 62.º do Estatuto do Pessoal da Polícia de Segurança Pública, na redacção vigente até àquela data."
+  },
+  "936542359": {
+   "fragment_id": "936542260",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados os artigos 19.º e 20.º do Decreto-Lei n.º 58/90, de 14 de Fevereiro."
+  },
+  "936542360": {
+   "fragment_id": "936542261",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor a 1 de Janeiro de 2006."
+  },
+  "936542363": {
+   "fragment_id": "936542259",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime transitório",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Regime transitório\n\n1 - O pessoal com funções policiais da PSP que, até 31 de Dezembro de 2005, reúna as condições nesse momento em vigor para requerer o acesso à pré-aposentação pode fazê-lo a qualquer tempo, sendo o requerimento decidido nos termos do regime em vigor até àquela data.\n\n2 - (Revogado);\n\n3 - É garantida a passagem à aposentação, sem redução de pensão, nos termos vigentes até 31 de Dezembro de 2005, ao pessoal que complete cinco anos na situação de pré-aposentação, quando a tenham requerido ao abrigo do disposto nos números anteriores e lhes tenha sido deferido.\n\n4 - O tempo de serviço efectivo prestado até 31 de Dezembro de 2005 é contado, para efeitos de acesso à situação de pré-aposentação e de aposentação, com o aumento previsto no artigo 62.º do Estatuto do Pessoal da Polícia de Segurança Pública, na redacção vigente até àquela data.\n\n> Alterado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "936542361": {
+   "fragment_id": "936542262",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Agosto de 2005. - António Luís Santos Costa - António Luís Santos Costa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.\n\nPromulgado em 24 de Agosto de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 25 de Agosto de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "936542362": {
+   "fragment_id": "936542263",
+   "type": 14,
+   "heading": "Anexo — Idade de acesso ao regime de pré-aposentação da PSP nos termos vigentes até 31 de Dezembro de 2005, com cessação da prestação regular de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Idade de acesso ao regime de pré-aposentação da PSP nos termos vigentes até 31 de Dezembro de 2005, com cessação da prestação regular de serviço\n\nTabela anexa a que se refere o artigo 4.º\n\n(ver tabela no documento original)"
+  }
+ }
+}

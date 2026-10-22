@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:221723:por
+title: Decreto Regulamentar n.º 49/86
+short_title: null
+summary: Cria a Região Demarcada do Queijo de Azeitão, que abrange os concelhos de Palmela, Sesimbra e Setúbal
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 49/86
+official_date: null
+publication_date: '1986-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/1986, Série I de 1986-10-02
+  number: '227'
+  series: I
+  supplement: null
+  pages: 2849 - 2850
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22700/28492850.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221723'
+  dre_path: /dr/detalhe/decreto-regulamentar/49-1986-221723
+  internal: pt:dre:221723:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1986-221723
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1986-221723
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-10-02T00:00:00Z'
+integrity:
+  source_sha256: e60190505eb212a152ce2ebf198adc6427d857f4165935010d6eb4b5345ab94e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-49-221723.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 49/86
+
+de 2 de Outubro
+
+Na sequência do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio, que veio regulamentar a criação das regiões demarcadas do queijo, estabelece-se no presente diploma legal a Região Demarcada do Queijo de Azeitão.
+
+Os factores naturais edafo-climáticos próprios das serras da Arrábida e de São Luís e seus contrafortes, o factor humano e uma longa experiência quanto à utilização do solo da zona de produção e do maneio do gado ali localizado permitem e exigem a delimitação de uma região demarcada com o objectivo de defender a tipicidade deste queijo.
+
+Além disso, factores de ordem social, económica, cultural e histórica, que definem a região, contribuíram também para caracterizar de forma especial esta actividade agro-pecuária, bem como para criar e difundir uma mais correcta informação no público consumidor sobre os genuínos produtos tradicionais.
+
+Justifica-se, pois, a adopção de medidas que protejam a tipicidade deste queijo, sem que se perca no essencial a pureza das práticas ancestrais, com o objectivo de se obter um produto final da mais alta qualidade, potencializando os recursos naturais existentes.
+
+O queijo de Azeitão oferece ainda grandes possibilidades de se afirmar em mercados internacionais, designadamente o da Comunidade Europeia, desde que sejam implementadas as acções indispensáveis, de entre as quais se destacam a delimitação da zona de produção e a fixação de padrões de qualidade. Para o referido efeito foram ouvidas as autarquias locais, que deram o seu acordo à regulamentação objecto do presente diploma legal.
+
+Assim:
+
+Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - É criada a Região Demarcada do Queijo de Azeitão, que abrange os concelhos de Palmela, Sesimbra e Setúbal.
+
+2 - O queijo de Azeitão só pode ser fabricado com leite de ovelha produzido na Região Demarcada a que se refere o número anterior.
+
+###### Art. 2.º A denominação de origem ou a marca de queijo de Azeitão são exclusivamente aplicáveis ao queijo fabricado na Região Demarcada que satisfaça as condições constantes do anexo do presente decreto regulamentar e seja devidamente certificado.
+
+###### Art. 3.º - 1 - A obtenção do estatuto de entidade certificadora, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 164/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1984-384009), deve ser requerida pelos interessados no prazo de 180 dias a contar da data da publicação do presente diploma.
+
+2 - O Ministro da Agricultura, Pescas e Alimentação, depois de ouvido o instituto de Qualidade Alimentar, determinará, mediante despacho, quem poderá beneficiar do estatuto referido no número anterior.
+
+###### Art. 4.º Os produtores de queijo de Azeitão carecem de autorização da entidade certificadora referida no artigo anterior para usarem a marca ou denominação de origem, ficando sujeitos às respectivas acções de controle e ao disposto no seu regulamento técnico.
+
+###### Art. 5.º - 1 - O Ministério da Agricultura, Pescas e Alimentação, através da Direcção Regional de Agricultura do Ribatejo e Oeste, promoverá acções que visem o melhoramento das raças ovinas vocacionadas para a produção de leite utilizado no fabrico de queijo de Azeitão.
+
+2 - As acções referidas no número anterior deverão integrar-se num programa de desenvolvimento da ovinicultura da Região Demarcada que contemple, entre outros, os seguintes aspectos:
+
+a) Controle sanitário;
+
+b) Registo genealógico;
+
+c) Sistema de alimentação nomeadamente, no que se refere à instalação de pastagens, parqueamento e melhoramento de infra-estruturas dos estabelecimentos agrícolas vocacionados para este tipo de produção.
+
+###### Art. 6.º A Direcção Regional de Agricultura do Ribatejo e Oeste promoverá acções que visem a melhoria quantitativa e qualitativa dos produtos certificáveis.
+
+###### Art. 7.º As acções de controle e disciplina da actividade da entidade certificadora do queijo de Azeitão são da competência do Instituto de Qualidade Alimentar, que poderá delegá-la na Direcção Regional de Agricultura do Ribatejo e Oeste.
+
+Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
+
+**Promulgado em 1 de Setembro de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Setembro de 1986.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+## ANEXO — Condicções a que terá de satisfazer o queijo de Azeitão
+
+1 - O queijo de Azeitão é um queijo curado, de pau semimole, amanteigada, com poucos ou nenhuns olhos, ligeiramente amarelada, obtido por esgotamento lento da coalhada após a coagulação de leite cru de ovelha, estreme, por acção de uma infusão de cardo (Cynara cardunculus, L.), e proveniente da Região Demarcada a que se refere o artigo 1.º deste decreto regulamentar.
+
+2 - Características - queijo curado, de paste semimole, com teor de humidade de 63% a 69%, referido ao queijo isento de matéria gorda, e com um teor do gordura de 45% a menos de 60% (NP-2105 e NP-2934), referido ao resíduo seco.
+
+2.1 - Forma - cilindro baixo (prato), regular, com abaulamento lateral e também na face superior, sem bordos perfeitamente definidos.
+
+2.2 - Crosta:
+
+2.2.1 - Consistência - maleável, bastante mole;
+
+2.2.2 - Aspecto - inteira, bem formada, lisa e fina;
+
+2.2.3 - Cor - amarelada, uniforme.
+
+2.3 - Pasta:
+
+2.3.1 - Textura - fechada, amanteigada, com zona de corte facilmente deformável, chegando mesmo a escorrer;
+
+2.3.2 - Aspecto - cremosa, untuosa, com poucos ou nenhuns olhos;
+
+2.3.3 - Cor - branca ou ligeiramente amarelada, uniforme.
+
+2.4 - Aroma e sabor - aroma e sabor característicos, sabor ligeiramente picante, misto de acidificado e salgado.
+
+2.5 - Dimensões e pesos - são admitidas dois tamanhos, com as seguintes dimensões e pesos:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22700/28492850.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22700/28492850.pdf)
+
+3 - Maturação:
+
+3.1 - Condições de ambiente:
+
+Temperatura - entre 10ºC e 15ºC;
+
+Humidade relativa - entre 85% e 95%.
+
+3.2 - Tempo mínimo - 20 dias.
+
+3.3 - Coeficiente de maturação - 35.
+
+4 - Conservação - temperatura do produto:
+
+Na armazenagem - inferior a 5ºC;
+
+No transporte - máximo, 10ºC;
+
+No retalhista - inferior a 5ºC;

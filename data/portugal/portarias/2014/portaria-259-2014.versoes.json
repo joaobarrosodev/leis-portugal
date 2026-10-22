@@ -1,0 +1,1087 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:64797337:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-115389834",
+ "dre_path": "/dr/detalhe/portaria/259-2014-64797337",
+ "source_lastmod": "2025-06-05",
+ "versions": [
+  {
+   "date": "2014-12-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115374643",
+    "115374644",
+    "115374645",
+    "115374646",
+    "115374647",
+    "115374648",
+    "115374649",
+    "115374650",
+    "115374651",
+    "115374652",
+    "115374653",
+    "115374654",
+    "115374655",
+    "115374656",
+    "115374657",
+    "115374658",
+    "115374659",
+    "115374660",
+    "115374661",
+    "115374662",
+    "115374663",
+    "115374664",
+    "115374665",
+    "115374666",
+    "115374667",
+    "115374668",
+    "115374669",
+    "115374670",
+    "115374672"
+   ]
+  },
+  {
+   "date": "2016-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105602342:por",
+     "title": "Portaria n.º 331-B/2016",
+     "published": "2016-12-22",
+     "dre_path": "/dr/detalhe/portaria/331-b-2016-105602342"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 26.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115374643",
+    "115374644",
+    "920636943",
+    "115374646",
+    "921113242",
+    "921113233",
+    "115374649",
+    "921113234",
+    "921113235",
+    "921113236",
+    "115374653",
+    "115374654",
+    "115374655",
+    "115374656",
+    "115374657",
+    "921113243",
+    "921113244",
+    "921113237",
+    "115374661",
+    "921113238",
+    "115374663",
+    "921113239",
+    "115374665",
+    "115374666",
+    "115374667",
+    "115374668",
+    "921113240",
+    "115374670",
+    "115374671",
+    "921113245"
+   ]
+  },
+  {
+   "date": "2018-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115392186:por",
+     "title": "Portaria n.º 151/2018",
+     "published": "2018-05-25",
+     "dre_path": "/dr/detalhe/portaria/151-2018-115392186"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 22.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115374643",
+    "115374644",
+    "920636943",
+    "115374646",
+    "921113242",
+    "921113246",
+    "115374649",
+    "921113247",
+    "921113235",
+    "921113248",
+    "115374653",
+    "115374654",
+    "115374655",
+    "115374656",
+    "921113249",
+    "921113243",
+    "921113244",
+    "921113237",
+    "115374661",
+    "921113238",
+    "115374663",
+    "921113239",
+    "921113250",
+    "115374666",
+    "115374667",
+    "115374668",
+    "921113240",
+    "115374670",
+    "115374671",
+    "921113251"
+   ]
+  },
+  {
+   "date": "2019-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122050355:por",
+     "title": "Portaria n.º 103/2019",
+     "published": "2019-04-09",
+     "dre_path": "/dr/detalhe/portaria/103-2019-122050355"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 21.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115374643",
+    "921194645",
+    "920636943",
+    "115374646",
+    "921113242",
+    "921330881",
+    "115374649",
+    "921194652",
+    "921194647",
+    "921194653",
+    "115374653",
+    "115374654",
+    "115374655",
+    "115374656",
+    "921113249",
+    "921113243",
+    "921113244",
+    "921113237",
+    "115374661",
+    "921113238",
+    "115374663",
+    "921194648",
+    "921113250",
+    "115374666",
+    "115374667",
+    "115374668",
+    "921113240",
+    "115374670",
+    "115374671",
+    "921194649"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:130211648:por",
+     "title": "Portaria n.º 69/2020",
+     "published": "2020-03-13",
+     "dre_path": "/dr/detalhe/portaria/69-2020-130211648",
+     "date": "2020-03-01"
+    }
+   ]
+  },
+  {
+   "date": "2024-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887665685:por",
+     "title": "Portaria n.º 210/2024/1",
+     "published": "2024-09-13",
+     "dre_path": "/dr/detalhe/portaria/210-2024-887665685"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "115374643",
+    "921194645",
+    "920636943",
+    "922252886",
+    "922252887",
+    "922252898",
+    "922252899",
+    "922252900",
+    "922252901",
+    "922252902",
+    "922252903",
+    "922252904",
+    "922252905",
+    "922252906",
+    "922252907",
+    "922252908",
+    "922252909",
+    "922252910",
+    "922252911",
+    "922252912",
+    "922252913",
+    "922252914",
+    "922252915",
+    "922252916",
+    "922252917",
+    "922252918",
+    "922252919",
+    "922252920",
+    "922252921",
+    "922252922",
+    "922252923"
+   ]
+  }
+ ],
+ "fragments": {
+  "115374643": {
+   "fragment_id": "115389835",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 259/2014\n\nde 15 de dezembro\n\nO Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, estabelece o regime jurídico do Programa de Estágios Profissionais na Administração Pública, que permite aos estagiários o desempenho de funções no contexto da Administração Pública correspondentes à carreira de técnico superior.\n\nNos termos do n.º 3 do artigo 5.º do referido diploma, prevê-se a possibilidade de serem criados programas específicos de estágio em função das condições especiais de determinados órgãos e serviços na prossecução das respetivas missões e atividades. O n.º 4 da referida disposição remete para portaria a criação, as condições e os requisitos destes programas específicos de estágios, bem como a respetiva regulamentação a que estes devem obedecer.\n\nAo abrigo do referido n.º 4 do artigo 5.º do citado diploma, é, assim, criado o Programa de Estágios Profissionais na Administração Central do Estado, específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros, adiante designado PEPAC-MNE.\n\nA implementação do PEPAC-MNE está prevista na Iniciativa Emprego Jovem que, promovida pela Comissão Europeia e apoiada pelo Conselho Europeu, está assegurada por um dos eixos do Programa Operacional Inclusão Social e Emprego. O inegável carácter prioritário da Iniciativa Emprego Jovem no combate ao desemprego jovem tem tradução na taxa de financiamento do Fundo Social Europeu, que é superior a 90%.\n\nO PEPAC-MNE pretende assegurar a criação de estágios nos serviços periféricos externos do Ministério dos Negócios Estrangeiros, no sentido de apoiar a formação de jovens com qualificação superior em contexto real de trabalho em ambiente internacional, nas principais áreas de atuação da política externa portuguesa, com especial incidência na (i) diplomacia económica, (ii) política comercial, e (iii) diplomacia política e apoio consular.\n\nO enfoque dado pelo PEPAC-MNE nas três referidas áreas, bem como a estrutura integrada do estágio, pretendem facilitar a inserção de jovens quadros no mercado de trabalho em áreas potenciadoras de processos de mudança e desenvolvimento organizacional, designadamente em empresas com potencial de internacionalização em mercados prioritários para Portugal e em sectores chave de atividade.\n\nIndependentemente da área selecionada, e em função de cada realidade política, empresarial e comercial, o plano de estágio será desenhado de forma a incluir sempre uma forte componente de diplomacia económica e comercial, possibilitando aos estagiários prestar apoio direto na promoção das empresas portuguesas no mercado de destino, identificar tendências de mercado e oportunidades empresariais, bem como aprofundar contactos com entidades e autoridades locais.\n\nNo final do programa de estágio, pretende-se que os jovens melhorem o seu conhecimento sobre a realidade política e económica em diferentes ambientes e realidades, tenham a oportunidade de apreender melhores práticas e métodos de trabalho, criem redes de contactos e identifiquem oportunidades, contribuindo para melhorar e diversificar as condições da sua integração no mercado de trabalho e potenciando o grau de empregabilidade futura.\n\nPelo exposto e atendendo à dispersão geográfica dos serviços periféricos externos do Ministério dos Negócios Estrangeiros e às particulares exigências daqueles serviços, estabelece-se, por um lado, um processo de seleção de estagiários mais exigente e, por outro lado, procede-se à fixação do valor da bolsa de estágio, tendo em conta o índice do custo de vida do país onde decorre o estágio.\n\nAssim, ao abrigo do disposto nos n.os 3 e 4 do artigo 5.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro de Estado e dos Negócios Estrangeiros, o seguinte:"
+  },
+  "115374644": {
+   "fragment_id": "115389836",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria o Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros, adiante designado por PEPAC-MNE, e procede à respetiva regulamentação.\n\n2 - A Secretaria-Geral do Ministério dos Negócios Estrangeiros é a entidade promotora do programa aprovado pela presente portaria."
+  },
+  "115374645": {
+   "fragment_id": "115389837",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicitação e processamento em suporte eletrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Publicitação e processamento em suporte eletrónico\n\n1 - O lançamento dos estágios é publicitado na bolsa de emprego público (BEP) e em, pelo menos, dois órgãos de comunicação social de expansão nacional, sendo ainda comunicado, para efeitos de divulgação, ao Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.).\n\n2 - A publicitação inclui, obrigatoriamente, informação sobre as entidades promotoras em que os estágios decorrem, as áreas de formação exigidas, o prazo e a forma de apresentação da candidatura, o procedimento de seleção, a legislação aplicável e outros requisitos e elementos julgados relevantes.\n\n3 - A apresentação e o processamento das candidaturas são integralmente realizados em suporte eletrónico no sítio da Internet do PEPAC-MNE, em https://pp-www.bep.gov.pt/pages/PEPAC/MNE/Default.aspx, acessível no portal da Bolsa de Emprego Público (BEP), em www.bep.gov.pt."
+  },
+  "115374646": {
+   "fragment_id": "115389838",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo, candidatura e código de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo, candidatura e código de acesso\n\n1 - As candidaturas à frequência dos estágios do PEPAC-MNE são apresentadas exclusivamente através do preenchimento de formulário de candidatura online, disponível no sítio da Internet do PEPAC-MNE, nos termos dos números seguintes.\n\n2 - A apresentação de candidatura é precedida de registo no sítio do PEPAC-MNE, no portal da BEP, mediante o qual o candidato obtém um código de acesso para acompanhamento do processo.\n\n3 - No formulário de candidatura, o candidato indica os seus dados de identificação pessoal e fornece os elementos para a sua avaliação curricular, de acordo com o disposto nos artigos seguintes.\n\n4 - O formulário previsto no n.º 1 contém:\n\na) Declaração de cumprimento, à data do fim do prazo de candidatura, dos requisitos legais da mesma, nomeadamente que se encontra nas condições referidas no artigo 4.º e no n.º 4 do artigo 8.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro;\n\nb) Declaração de disponibilidade para realizar estágio em qualquer dos serviços periféricos externos do Ministério dos Negócios Estrangeiros.\n\nc) A seguinte indicação: «Declaro, sob compromisso de honra, que as informações prestadas são verdadeiras».\n\n5 - A prestação de informações falsas determina a exclusão do candidato de qualquer edição do PEPAC-MNE.\n\n6 - O número máximo de estagiários a selecionar anualmente e o prazo durante o qual decorrem as candidaturas são definidos pela portaria prevista no artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n7 - Após o preenchimento do formulário de candidatura e a sua submissão, o candidato recebe no endereço de correio eletrónico indicado nos termos da alínea d) do n.º 1 do artigo seguinte a confirmação da mesma, bem como dos dados introduzidos."
+  },
+  "115374647": {
+   "fragment_id": "115389839",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação relativa ao candidato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informação relativa ao candidato\n\n1 - São considerados dados de identificação de preenchimento obrigatório no formulário de candidatura:\n\na) O nome;\n\nb) A data de nascimento;\n\nc) O número de identificação fiscal;\n\nd) O endereço de correio eletrónico e o número telefónico, a utilizar para os contactos posteriores no âmbito do procedimento de candidatura.\n\ne) A área de estágio a que se refere a candidatura.\n\n2 - O candidato que seja portador de incapacidade igual ou superior a 60% e pretenda beneficiar do regime previsto no n.º 5 do artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, deve assinalar no campo respetivo.\n\n3 - O candidato indica ainda obrigatoriamente no formulário de candidatura, para efeitos de avaliação curricular, os seguintes elementos:\n\na) A área de formação académica, com indicação da respetiva licenciatura e referência à respetiva classificação final, arredondada à unidade;\n\nb) Outras habilitações académicas de grau superior à licenciatura e referência à respetiva classificação final, arredondada à unidade;\n\nc) Classificação final do 12.º ano ou equivalente, arredondada à primeira casa decimal;\n\nd) Competências linguísticas;\n\ne) Experiência profissional.\n\n4 - Para efeitos do disposto na alínea a) do número anterior, o candidato indica a sua área de educação e formação correspondente ao elenco da Classificação Nacional das Áreas de Educação e Formação (CNAEF), aprovada pela Portaria n.º 256/2005, de 16 de março.\n\n5 - O registo das informações e dados referidos nos números anteriores apenas pode ser alterado dentro do prazo fixado para apresentação de candidaturas.\n\n6 - Ao candidato pode ser solicitada, na proposta prevista no artigo 11.º, informação adicional, nomeadamente com vista à confirmação da idoneidade do candidato para o estágio."
+  },
+  "115374648": {
+   "fragment_id": "115389840",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação relativa aos estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informação relativa aos estágios\n\n1 - A oferta de estágios é distribuída por 3 áreas, com base nas funções a desempenhar nos serviços periféricos externos e das áreas de educação e formação exigidas.\n\n2 - Cada candidato pode concorrer a uma única área de estágio.\n\n3 - As áreas de estágio e respetivas áreas de educação e formação, correspondentes ao elenco da CNAEF, são as seguintes:\n\na) Estágio em Diplomacia Económica:\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia;\n\n- Cód. 342 - Marketing e Publicidade;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 380 - Direito.\n\nb) Estágio em Política Comercial:\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 380 - Direito.\n\nc) Estágio em Diplomacia Política e Apoio Consular\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 225 - História e Arqueologia;\n\n- Cód. 311 - Psicologia;\n\n- Cód. 312 - Sociologia e outros estudos;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 346 - Secretariado e Trabalho Administrativo\n\n- Cód. 380 - Direito.\n\n4 - Por cada área de estágio, é divulgada no sítio do PEPAC-MNE, a lista de serviços periféricos externos onde os estágios poderão decorrer e o número total de vagas."
+  },
+  "115374649": {
+   "fragment_id": "115389841",
+   "type": 11,
+   "heading": "Artigo 6.º — Métodos de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Métodos de seleção\n\n1 - Os métodos de seleção a aplicar são a avaliação curricular e a entrevista de seleção.\n\n2 - Compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros fixar os parâmetros de avaliação, a sua ponderação, a grelha classificativa e o sistema de valoração final de cada método de seleção, providenciando a sua publicitação no sítio do PEPAC-MNE no início do prazo para apresentação de candidaturas.\n\n3 - As fórmulas de avaliação utilizadas, por cada área de estágio, permanecem disponíveis no sítio do PEPAC-MNE até ao final da respetiva edição."
+  },
+  "115374650": {
+   "fragment_id": "115389842",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação curricular\n\n1 - A avaliação curricular tem ponderação de 60% da valoração final e visa analisar a qualificação dos candidatos.\n\n2 - Na avaliação curricular são ponderados obrigatoriamente os seguintes elementos, de acordo com a percentagem indicada:\n\na) Habilitação académica: 60%;\n\nb) Experiência profissional: 20%;\n\nc) Competência linguística: 20%.\n\n3 - Na habilitação académica são avaliados o grau académico e a classificação final de licenciatura.\n\n4 - Na experiência profissional são avaliados os seguintes elementos:\n\na) Experiência de estágio ou voluntariado no Ministério dos Negócios Estrangeiros ou organização internacional;\n\nb) Experiência de trabalho no estrangeiro;\n\nc) Outra experiência laboral ou de voluntariado.\n\n5 - Na competência linguística é avaliado o domínio da língua inglesa, bem como de outras línguas estrangeiras.\n\n6 - A ordenação dos candidatos na lista a que se refere o n.º 2 do artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da titularidade de grau académico mais elevado;\n\nb) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico mais elevado;\n\nc) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior, até à classificação final obtida no ensino secundário ou equivalente;\n\nd) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura."
+  },
+  "115374651": {
+   "fragment_id": "115389843",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrevista de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrevista de seleção\n\n1 - A entrevista de seleção tem a ponderação de 40% da valoração final e visa avaliar, de forma objetiva e sistemática, a experiência profissional, a competência linguística e aspetos comportamentais do candidato, nomeadamente, a capacidade de comunicação e de relacionamento interpessoal.\n\n2 - As entrevistas de seleção são conduzidas por uma comissão de seleção e avaliação, designada para cada uma das áreas de estágio, nos termos do artigo 15.º.\n\n3 - A entrevista consiste na realização de um conjunto de perguntas previamente determinadas pela comissão de seleção e avaliação.\n\n4 - Na avaliação da entrevista são ponderados os seguintes elementos:\n\na) Demonstração de adequação às funções a exercer de acordo com a área de estágio da candidatura;\n\nb) Demonstração de apetência pela vida em missão e experiência em ambientes multiculturais;\n\nc) Apresentação e clareza na exposição oral.\n\n5 - No contexto da entrevista, são ainda aferidas as competências nas línguas em que o candidato alegou fluência."
+  },
+  "115374652": {
+   "fragment_id": "115389844",
+   "type": 11,
+   "heading": "Artigo 9.º — Ordenação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ordenação final\n\n1 - Os métodos de seleção são eliminatórios, sendo excluídos os candidatos cuja classificação seja inferior a 14 valores na avaliação curricular e inferior a 10 valores na entrevista de seleção.\n\n2 - Sempre que da aplicação do disposto no número anterior resulte, uma vez concluído o método de avaliação curricular, um número de candidatos aprovados inferior ao número de vagas disponível para a respetiva área de estágio, é alterada a classificação de exclusão para o valor imediatamente inferior.\n\n3 - Depois de concluídas e avaliadas as entrevistas de seleção, a comissão de seleção e avaliação elabora a ordenação final dos candidatos, em cada área de estágio, de acordo com uma escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada das classificações obtidas em cada método de seleção.\n\n4 - Na lista final referida no número anterior, a ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da classificação mais elevada obtida no método da entrevista de seleção;\n\nb) Subsistindo o empate, em função da classificação mais elevada obtida no método da avaliação curricular;\n\nc) Subsistindo o empate, em função da titularidade de grau académico mais elevado;\n\nd) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior, até à classificação final obtida no ensino secundário ou equivalente;\n\ne) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura."
+  },
+  "115374653": {
+   "fragment_id": "115389845",
+   "type": 11,
+   "heading": "Artigo 10.º — Colocação nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Colocação nos serviços periféricos externos\n\nA colocação dos candidatos nos serviços periféricos externos é realizada de acordo com as listas de ordenação final, relativamente a cada área de estágio, considerando as vagas existentes e as necessidades dos serviços periféricos externos definidas pela Secretaria-Geral do Ministério dos Negócios Estrangeiros."
+  },
+  "115374654": {
+   "fragment_id": "115389846",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazos e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazos e notificações\n\n1 - No prazo máximo de 10 dias úteis após o encerramento do período das candidaturas, os candidatos admitidos são listados alfabeticamente no sítio do PEPAC-MNE, agrupados pelas áreas de estágio indicadas nos termos do disposto no n.º 3 do artigo 5.º.\n\n2 - No prazo máximo de 10 dias úteis após o decurso do prazo previsto no número anterior, os candidatos são classificados através dos parâmetros de avaliação curricular previstos no artigo 7.º, sendo as listas com a ordenação decrescente das suas classificações, dentro de cada área de estágio publicitadas no sítio do PEPAC-MNE.\n\n3 - No decurso dos 30 dias subsequentes ao termo do prazo mencionado no número anterior, decorre a aplicação do segundo método avaliativo, a entrevista de seleção.\n\n4 - No prazo máximo de 5 dias úteis após o termo das entrevistas de seleção, os candidatos aprovados são ordenados de acordo com a proposta de classificação final obtida, nos termos do n.º 4 do artigo 9.º, por cada área de estágio, de acordo com o critério definido no artigo 10.º.\n\n5 - Os candidatos são notificados da proposta de classificação final, para efeitos de audiência prévia dos interessados, nos termos do Código do Procedimento Administrativo.\n\n6 - Finda a audiência prévia dos interessados, é publicada a classificação final, sendo os candidatos notificados da mesma.\n\n7 - A notificação referida no número anterior deve conter ainda, para os candidatos classificados em posição elegível, a proposta de estágio a realizar nos serviços periféricos externos do Ministério dos Negócios Estrangeiros.\n\n8 - A proposta de estágio contém:\n\na) A descrição sumária do conteúdo funcional do estágio;\n\nb) A indicação do local de realização do estágio;\n\nc) O eventual pedido de informação adicional referida no n.º 6 do artigo 4.º.\n\n9 - A resposta à proposta de estágio referida nos números anteriores é enviada on-line, no prazo máximo de dois dias úteis.\n\n10 - A recusa ou ausência de resposta no prazo previsto no n.º 9 determina a exclusão do candidato do PEPAC-MNE.\n\n11 - As vagas deverão estar preenchidas até 15 dias antes da data de início dos estágios fixada pela portaria prevista no artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n12 - Uma vez preenchidas as vagas disponíveis, no termos do disposto no número anterior, são divulgadas no sítio do PEPAC-MNE as listas dos estagiários colocados.\n\n13 - Para efeitos do disposto no presente artigo, todas as notificações aos candidatos são efetuadas mediante o envio de mensagens padronizadas para o endereço de correio eletrónico indicado nos termos da alínea d) do n.º 1 do artigo 4.º.\n\n14 - As listas referidas no presente artigo ficam disponíveis no sítio do PEPAC-MNE até ao final da respetiva edição."
+  },
+  "115374655": {
+   "fragment_id": "115389847",
+   "type": 11,
+   "heading": "Artigo 12.º — Candidatos portadores de deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Candidatos portadores de deficiência\n\n1 - Para efeitos do Decreto-Lei n.º 29/2001, de 3 de fevereiro, em cada edição do PEPAC-MNE, é assegurada uma quota de 5% da totalidade dos estágios a ser preenchida por pessoas portadoras de deficiência, com um grau de incapacidade igual ou superior a 60%.\n\n2 - O processamento referido no artigo 2.º assegura o cumprimento da quota referida no número anterior em cada área de estágio."
+  },
+  "115374656": {
+   "fragment_id": "115389848",
+   "type": 11,
+   "heading": "Artigo 13.º — Comprovação dos requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comprovação dos requisitos\n\n1 - No prazo de 2 dias úteis após a divulgação das listas previstas no n.º 2 do artigo 11.º, o candidato deve efetuar, no sítio do PEPAC-MNE, prova documental do cumprimento:\n\na) Dos requisitos previstos no artigo 4.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro;\n\nb) Dos restantes elementos constantes no formulário de candidatura;\n\nc) Sendo o caso, da informação adicional solicitada nos termos do n.º 6 do artigo 4.º.\n\n2 - Na data da entrevista o candidato deverá entregar junto da comissão de seleção e avaliação, para validação, os documentos originais referidos no n.º1.\n\n3 - A não comprovação dos requisitos nos termos da alínea a) do n.º1 constitui motivo de exclusão do candidato."
+  },
+  "115374657": {
+   "fragment_id": "115389849",
+   "type": 11,
+   "heading": "Artigo 14.º — Contrato de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contrato de estágio\n\n1 - No início do estágio, a Secretaria-Geral do Ministério dos Negócios Estrangeiros celebra com o estagiário um contrato de estágio nos termos previstos no artigo 11.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, que obedece ao modelo previsto na subalínea ii) da alínea c) do artigo 23.º da presente portaria, onde se prevejam os correspondentes direitos e deveres funcionais do estagiário.\n\n2 - O contrato previsto no número anterior é assinado, em duplicado, pelo estagiário e pelo Secretário-Geral do Ministério dos Negócios Estrangeiros."
+  },
+  "115374658": {
+   "fragment_id": "115389850",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissão de seleção e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comissão de seleção e avaliação\n\n1 - Para cada área de estágio é constituída uma comissão de seleção e avaliação.\n\n2 - As comissões de seleção e avaliação são compostas por cinco membros, três efetivos e dois suplentes.\n\n3 - Compete ao Ministério dos Negócios Estrangeiros designar dois membros efetivos e um membro suplente, em razão da área de estágio e ao Ministério das Finanças, designar um membro efetivo e um membro suplente.\n\n4 - Os membros da comissão de seleção e avaliação indicados pelo Ministério dos Negócios Estrangeiros são designados:\n\na) Pelo Instituto Diplomático, um membro efetivo de entre trabalhadores do Ministério dos Negócios Estrangeiros, que preside;\n\nb) Pela Secretaria-Geral do Ministério dos Negócios Estrangeiros, um membro efetivo e um membro suplente, de entre trabalhadores do Ministério dos Negócios Estrangeiros, com comprovada habilitação e experiência em funções similares no estrangeiro.\n\n5 - Os membros efetivo e suplente da comissão de seleção e avaliação indicados pelo Ministério das Finanças são designados pela Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (INA) de entre os seus trabalhadores.\n\n6 - Compete às comissões de seleção e avaliação:\n\na) Elaborar um guião de perguntas para realização da entrevista de seleção;\n\nb) Validar os documentos apresentados pelos candidatos aprovados na fase de avaliação curricular;\n\nc) Realizar as entrevistas de seleção dos candidatos aprovados na fase de avaliação curricular e avaliá-los de acordo com os critérios definidos no artigo 8.º;\n\nd) Elaborar o modelo de formulário de avaliação do estágio;\n\ne) Receber os relatórios dos estagiários.\n\n7 - Sempre que o número de candidatos o justifique podem ser constituídas comissões de seleção e avaliação adicionais para cada uma das áreas de estágio."
+  },
+  "115374659": {
+   "fragment_id": "115389851",
+   "type": 11,
+   "heading": "Artigo 16.º — Início dos estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Início dos estágios\n\n1 - A data de início dos estágios é fixada pela portaria prevista no artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n2 - O plano de estágio integra uma sessão de formação inicial, a decorrer nas instalações do Ministério dos Negócios Estrangeiros, em Lisboa, por um período máximo de 22 dias úteis."
+  },
+  "115374660": {
+   "fragment_id": "115389852",
+   "type": 11,
+   "heading": "Artigo 17.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Duração\n\nO estágio tem a duração de 12 meses, não prorrogável."
+  },
+  "115374661": {
+   "fragment_id": "115389853",
+   "type": 11,
+   "heading": "Artigo 18.º — Seminário final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Seminário final\n\n1 - Com o objetivo de promover o sucesso da integração no mercado de trabalho, os estagiários participam num seminário de divulgação de resultados e promoção de emprego que decorre no final do período do estágio e que conta com a participação de empresas e outras potenciais entidades empregadoras.\n\n2 - Cabe à Secretaria-Geral do Ministério dos Negócios Estrangeiros promover a calendarização, organização e preparação do referido seminário."
+  },
+  "115374662": {
+   "fragment_id": "115389854",
+   "type": 11,
+   "heading": "Artigo 19.º — Bolsa de estágio e outros apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Bolsa de estágio e outros apoios\n\n1 - Aos estagiários são pagos, por cada um dos 12 meses de duração do estágio, os seguintes montantes:\n\na) Bolsa de estágio em função do país onde o mesmo se desenvolve, no montante fixado na tabela anexa à presente Portaria, por referência ao Indexante dos Apoios Sociais (IAS) e tendo em conta o índice do custo de vida do respetivo país;\n\nb) Subsídio de refeição, no valor correspondente ao praticado para a generalidade dos trabalhadores que exercem funções públicas.\n\n2 - Durante o período do estágio que decorrer em Portugal, o montante da bolsa de estágio, referida na alínea a) do número anterior, é de 1,65 vezes o valor correspondente ao IAS.\n\n3 - Aos contratos de estágio celebrados ao abrigo da presente portaria é aplicável o disposto no artigo 14.º-A do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n4 - Aos estagiários são ainda concedidos os seguintes apoios:\n\na) Seguro que cubra os riscos de eventualidades que possam ocorrer e por causa das atividades correspondentes ao estágio profissional, bem como nas deslocações entre a residência e o local de estágio;\n\nb) Viagem de ida e volta entre Portugal e o país onde se realiza o estágio.\n\n5 - A bolsa de estágio e o subsídio de refeição não são devidos em caso de:\n\na) Suspensão do estágio, nos termos do artigo 11.º-A do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro;\n\nb) Faltas injustificadas;\n\nc) Faltas justificadas por motivo de acidente, desde que a responsabilidade civil daí decorrente se encontre coberta pelo contrato de seguro previsto no número anterior.\n\n6 - O processamento dos pagamentos referidos no presente artigo é efetuado pela Secretaria-Geral do Ministério dos Negócios Estrangeiros.\n\n7 - A negociação centralizada do seguro referido na alínea a) do n.º 4 compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros, nos termos a regulamentar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e dos negócios estrangeiros."
+  },
+  "115374663": {
+   "fragment_id": "115389855",
+   "type": 11,
+   "heading": "Artigo 20.º — Informação sobre o estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Informação sobre o estágio\n\nCompete ao Ministério dos Negócios Estrangeiros registar no sítio do PEPAC-MNE, em área apenas acessível ao INA e ao MNE, todos os dados relevantes para o acompanhamento e avaliação dos estágios, nomeadamente:\n\na) Data de início dos estágios;\n\nb) Períodos de suspensão e cessação dos estágios, com a respetiva justificação;\n\nc) Relatórios de avaliação dos estagiários;\n\nd) Relatório do estágio efetuado pela entidade promotora;\n\ne) Seminário final."
+  },
+  "115374664": {
+   "fragment_id": "115389856",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação e certificação dos estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Avaliação e certificação dos estagiários\n\n1 - Os estagiários são avaliados de acordo com as regras, as componentes e os critérios da avaliação definidos pelo INA, sob proposta do Ministério dos Negócios Estrangeiros, nos termos da alínea b) do artigo 23.º, tendo por base a realização de dois relatórios de avaliação quadrimestral e um relatório final.\n\n2 - As componentes referidas no número anterior integram obrigatoriamente os objetivos dos estágios e as competências individuais.\n\n3 - Aos estagiários aprovados são entregues certificados comprovativos da frequência e aprovação final no estágio, de acordo com o modelo definido pelo INA nos termos da subalínea v) da alínea c) do artigo 23.º.\n\n4 - Compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros anexar ao certificado referido no número anterior uma descrição das atividades desenvolvidas e dos conhecimentos adquiridos."
+  },
+  "115374665": {
+   "fragment_id": "115389857",
+   "type": 11,
+   "heading": "Artigo 22.º — Responsabilidade do orientador do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Responsabilidade do orientador do estágio\n\n1 - O orientador do estágio, que é, em regra, o chefe de missão ou de posto, é o responsável, no serviço periférico externo, pelo acompanhamento do estágio e respetiva avaliação.\n\n2 - O chefe de missão ou de posto pode delegar noutro funcionário diplomático colocado na respetiva missão ou posto a competência referida no número anterior.\n\n3 - Compete ao orientador de estágio a elaboração da proposta de um plano de estágio e respetivos objetivos, designadamente para efeitos de aplicação do Sistema Integrado de Gestão e Avaliação de Desempenho na Administração Pública (SIADAP), em que são descritas de forma sumária as responsabilidades e funções a desempenhar no serviço pelo estagiário, que deverá ser aprovado pelo dirigente máximo do serviço.\n\n4 - Compete ao orientador de estágio o preenchimento das fichas de avaliação quadrimestral e final do estagiário, tendo em atenção o plano de estágio."
+  },
+  "115374666": {
+   "fragment_id": "115389858",
+   "type": 11,
+   "heading": "Artigo 23.º — Gestão e coordenação do PEPAC-MNE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Gestão e coordenação do PEPAC-MNE\n\nPara efeitos do disposto no artigo 17.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, a Secretaria-Geral do Ministério dos Negócios Estrangeiros, enquanto corresponsável pela gestão e coordenação do PEPAC-MNE, e em colaboração com o INA, disponibiliza no sítio da Internet do programa:\n\na) Os parâmetros de avaliação a aplicar a todas as candidaturas;\n\nb) As regras, as componentes e os critérios de avaliação final dos estagiários;\n\nc) Os seguintes instrumentos:\n\ni) Formulário de candidatura;\n\nii) Modelo do contrato de estágio;\n\niii) Modelo do relatório de avaliação do estagiário;\n\niv) Modelo do relatório de avaliação dos estágios;\n\nv) Modelo do certificado de frequência e aprovação do estagiário;\n\nvi) Instruções de preenchimento dos modelos previstos nas subalíneas anteriores."
+  },
+  "115374667": {
+   "fragment_id": "115389859",
+   "type": 11,
+   "heading": "Artigo 24.º — Frequência e assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Frequência e assiduidade\n\n1 - É aplicável ao estagiário, com as devidas adaptações, o regime de faltas e de descanso diário e semanal dos trabalhadores vinculados por contrato de trabalho em funções públicas.\n\n2 - O controlo da pontualidade e da assiduidade dos estagiários é efetuado pelo dirigente máximo do serviço periférico externo onde decorre o estágio, que o transmite à entidade responsável pelo processamento e pagamento dos valores pecuniários devidos aos estagiários."
+  },
+  "115374668": {
+   "fragment_id": "115389860",
+   "type": 11,
+   "heading": "Artigo 25.º — Suspensão e cessação do contrato de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Suspensão e cessação do contrato de estágio\n\n1 - O contrato de estágio suspende-se ou cessa nos termos dos artigos 11.º-A e 11.º-B do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, com as adaptações decorrentes do número seguinte.\n\n2 - A resolução do contrato de estágio, por iniciativa do estagiário, prevista nos n.os 5 a 7 do artigo 11.º-B do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, implica a restituição da totalidade dos encargos com viagens despendidos com o estagiário no âmbito do PEPAC-MNE.\n\n3 - A denúncia do contrato de estágio por parte do estagiário impede a apresentação de nova candidatura no âmbito do PEPAC-MNE.\n\n4 - Se o contrato de estágio cessar nos primeiros 30 dias seguidos após o início da sua execução, e sem prejuízo do disposto no número anterior, a Secretaria-Geral do Ministério dos Negócios Estrangeiros pode celebrar novo contrato de estágio, observando-se as regras de colocação previstas no artigo 10.º."
+  },
+  "115374669": {
+   "fragment_id": "115389861",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma supletiva\n\nEm tudo o que não estiver especialmente previsto na presente portaria aplicam-se as disposições do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro."
+  },
+  "115374670": {
+   "fragment_id": "115389862",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115374672": {
+   "fragment_id": "115389864",
+   "type": 14,
+   "heading": "Anexo — (referido no Artigo 19.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (referido no Artigo 19.º)\n\n(ver documento original)"
+  },
+  "920636943": {
+   "fragment_id": "115389837",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicitação e processamento em suporte eletrónico",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 2/2015 - Diário da República n.º 8/2015, Série I de 2015-01-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2015-66145327), produz efeitos a partir de 2014-12-16"
+   ],
+   "markdown": "###### Artigo 2.º — Publicitação e processamento em suporte eletrónico\n\n1 - O lançamento dos estágios é publicitado na bolsa de emprego público (BEP) e em, pelo menos, dois órgãos de comunicação social de expansão nacional, sendo ainda comunicado, para efeitos de divulgação, ao Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.).\n\n2 - A publicitação inclui, obrigatoriamente, informação sobre as entidades promotoras em que os estágios decorrem, as áreas de formação exigidas, o prazo e a forma de apresentação da candidatura, o procedimento de seleção, a legislação aplicável e outros requisitos e elementos julgados relevantes.\n\n3 - A apresentação e o processamento das candidaturas são integralmente realizados em suporte eletrónico no sítio da Internet do PEPAC-MNE, em https://www.bep.gov.pt/pages/PEPAC/MNE/Default.aspx, acessível no portal da Bolsa de Emprego Público (BEP), em www.bep.gov.pt.\n\n> Retificado pelo/a [Declaração de Retificação n.º 2/2015 - Diário da República n.º 8/2015, Série I de 2015-01-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2015-66145327), produz efeitos a partir de 2014-12-16"
+  },
+  "921113242": {
+   "fragment_id": "115389839",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação relativa ao candidato",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 4.º — Informação relativa ao candidato\n\n1 - São considerados dados de identificação de preenchimento obrigatório no formulário de candidatura:\n\na) O nome;\n\nb) A data de nascimento;\n\nc) O número de identificação fiscal;\n\nd) O endereço de correio eletrónico e o número telefónico, a utilizar para os contactos posteriores no âmbito do procedimento de candidatura.\n\ne) A área de estágio a que se refere a candidatura.\n\n2 - O candidato que seja portador de incapacidade igual ou superior a 60% e pretenda beneficiar do regime previsto no n.º 5 do artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, deve assinalar no campo respetivo.\n\n3 - O candidato indica ainda obrigatoriamente no formulário de candidatura, para efeitos de avaliação curricular, os seguintes elementos:\n\na) A área de formação académica, com indicação da respetiva licenciatura e referência à respetiva classificação final, arredondada à unidade;\n\nb) Outras habilitações académicas de grau superior à licenciatura e referência à respetiva classificação final, arredondada à unidade;\n\nc) (Revogada.);\n\nd) Competências linguísticas;\n\ne) Experiência profissional.\n\n4 - Para efeitos do disposto na alínea a) do número anterior, o candidato indica a sua área de educação e formação correspondente ao elenco da Classificação Nacional das Áreas de Educação e Formação (CNAEF), aprovada pela Portaria n.º 256/2005, de 16 de março.\n\n5 - O registo das informações e dados referidos nos números anteriores apenas pode ser alterado dentro do prazo fixado para apresentação de candidaturas.\n\n6 - Ao candidato pode ser solicitada, na proposta prevista no artigo 11.º, informação adicional, nomeadamente com vista à confirmação da idoneidade do candidato para o estágio.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113233": {
+   "fragment_id": "115389840",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação relativa aos estágios",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Informação relativa aos estágios\n\n1 - A oferta de estágios é distribuída por 2 áreas, com base nas funções a desempenhar nos serviços periféricos externos e das áreas de educação e formação exigidas.\n\n2 - Cada candidato pode concorrer a uma única área de estágio.\n\n3 - As áreas de estágio e respetivas áreas de educação e formação, correspondentes ao elenco da CNAEF, são as seguintes:\n\na) Estágio em Diplomacia Económica:\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia;\n\n- Cód. 342 - Marketing e Publicidade;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 380 - Direito.\n\nb) (Revogada.)\n\nc) Estágio em Diplomacia Política e Apoio Consular\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 225 - História e Arqueologia;\n\n- Cód. 311 - Psicologia;\n\n- Cód. 312 - Sociologia e outros estudos;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 346 - Secretariado e Trabalho Administrativo\n\n- Cód. 380 - Direito.\n\n4 - Por cada área de estágio, é divulgada no sítio do PEPAC-MNE, a lista de serviços periféricos externos onde os estágios poderão decorrer e o número total de vagas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113234": {
+   "fragment_id": "115389842",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação curricular",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Avaliação curricular\n\n1 - A avaliação curricular tem ponderação de 60% da valoração final e visa analisar a qualificação dos candidatos.\n\n2 - Na avaliação curricular são ponderados obrigatoriamente os seguintes elementos, de acordo com a percentagem indicada:\n\na) Habilitação académica: 60%;\n\nb) Experiência profissional: 20%;\n\nc) Competência linguística: 20%.\n\n3 - Na habilitação académica são avaliados o grau académico e a classificação final de licenciatura.\n\n4 - Na experiência profissional são avaliados os seguintes elementos:\n\na) Experiência de estágio ou voluntariado no Ministério dos Negócios Estrangeiros ou organização internacional;\n\nb) Experiência de trabalho no estrangeiro;\n\nc) Outra experiência laboral ou de voluntariado.\n\n5 - Na competência linguística é avaliado o domínio das línguas portuguesa e inglesa, bem como de outras línguas estrangeiras.\n\n6 - A ordenação dos candidatos na lista a que se refere o n.º 2 do artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da titularidade de grau académico mais elevado;\n\nb) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico mais elevado;\n\nc) (Revogada.)\n\nd) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113235": {
+   "fragment_id": "115389843",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrevista de seleção",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 8.º — Entrevista de seleção\n\n1 - A entrevista de seleção tem a ponderação de 40% da valoração final e visa avaliar, de forma objetiva e sistemática, a experiência profissional, a competência linguística e aspetos comportamentais do candidato, nomeadamente, a capacidade de comunicação e de relacionamento interpessoal.\n\n2 - As entrevistas de seleção são conduzidas por uma comissão de seleção e avaliação, designada para cada uma das áreas de estágio, nos termos do artigo 15.º.\n\n3 - A entrevista consiste na realização de um conjunto de perguntas previamente determinadas pela comissão de seleção e avaliação, com a duração mínima de 15 e máxima de 30 minutos.\n\n4 - Na avaliação da entrevista são ponderados os seguintes elementos:\n\na) Demonstração de adequação às funções a exercer de acordo com a área de estágio da candidatura;\n\nb) Demonstração de apetência pela vida em missão e experiência em ambientes multiculturais;\n\nc) Apresentação e clareza na exposição oral.\n\n5 - No contexto da entrevista, são ainda aferidas as competências nas línguas em que o candidato alegou fluência.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113236": {
+   "fragment_id": "115389844",
+   "type": 11,
+   "heading": "Artigo 9.º — Ordenação final",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Ordenação final\n\n1 - Os métodos de seleção são eliminatórios, sendo excluídos os candidatos cuja classificação seja inferior a 14 valores na avaliação curricular e inferior a 10 valores na entrevista de seleção.\n\n2 - Sempre que da aplicação do disposto no número anterior resulte, uma vez concluído o método de avaliação curricular, um número de candidatos aprovados inferior ao dobro do número de vagas disponível para a respetiva área de estágio, é alterada a classificação de exclusão para um valor de 0,5 pontos imediatamente inferior.\n\n3 - Depois de concluídas e avaliadas as entrevistas de seleção, a comissão de seleção e avaliação elabora a ordenação final dos candidatos, em cada área de estágio, de acordo com uma escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada das classificações obtidas em cada método de seleção.\n\n4 - Na lista final referida no número anterior, a ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da classificação mais elevada obtida no método da entrevista de seleção;\n\nb) Subsistindo o empate, em função da classificação mais elevada obtida no método da avaliação curricular;\n\nc) Subsistindo o empate, em função da titularidade de grau académico mais elevado;\n\nd) (Revogada.);\n\ne) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113243": {
+   "fragment_id": "115389850",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissão de seleção e avaliação",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 15.º — Comissão de seleção e avaliação\n\n1 - Para cada área de estágio é constituída uma comissão de seleção e avaliação.\n\n2 - As comissões de seleção e avaliação são compostas por cinco membros, três efetivos e dois suplentes.\n\n3 - Compete ao Ministério dos Negócios Estrangeiros designar dois membros efetivos e um membro suplente, em razão da área de estágio e ao Ministério das Finanças, designar um membro efetivo e um membro suplente.\n\n4 - Os membros da comissão de seleção e avaliação indicados pelo Ministério dos Negócios Estrangeiros são designados:\n\na) Pelo Instituto Diplomático, um membro efetivo de entre trabalhadores do Ministério dos Negócios Estrangeiros, que preside;\n\nb) Pela Secretaria-Geral do Ministério dos Negócios Estrangeiros, um membro efetivo e um membro suplente, de entre trabalhadores do Ministério dos Negócios Estrangeiros, com comprovada habilitação e experiência em funções similares no estrangeiro.\n\n5 - Os membros efetivo e suplente da comissão de seleção e avaliação indicados pelo Ministério das Finanças são designados pela Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (INA) de entre os seus trabalhadores.\n\n6 - Compete às comissões de seleção e avaliação:\n\na) Elaborar um guião de perguntas para realização da entrevista de seleção;\n\nb) Validar os documentos apresentados pelos candidatos aprovados na fase de avaliação curricular;\n\nc) Realizar as entrevistas de seleção dos candidatos aprovados na fase de avaliação curricular e avaliá-los de acordo com os critérios definidos no artigo 8.º;\n\nd) Elaborar o modelo de formulário de avaliação do estágio;\n\ne) (Revogada.)\n\n7 - Sempre que o número de candidatos o justifique podem ser constituídas comissões de seleção e avaliação adicionais para cada uma das áreas de estágio.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113244": {
+   "fragment_id": "115389851",
+   "type": 11,
+   "heading": "Artigo 16.º — Início dos estágios",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 16.º — Início dos estágios\n\n1 - A data de início dos estágios é fixada pela portaria prevista no artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113237": {
+   "fragment_id": "115389852",
+   "type": 11,
+   "heading": "Artigo 17.º — Duração e estrutura do estágio",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 17.º — Duração e estrutura do estágio\n\n1 - O estágio tem a duração de 12 meses, não prorrogável.\n\n2 - O estágio compreende as seguintes fases sequenciais, todas de frequência obrigatória:\n\na) Fase de formação inicial em local a designar pela Secretaria-Geral do Ministério dos Negócios Estrangeiros, por um período máximo de 22 dias úteis;\n\nb) Fase de estágio no serviço periférico externo de colocação do estagiário, pelo período que intermedeia a primeira e a terceira fases;\n\nc) Fase de formação final, que consiste na participação num seminário final, nos termos do previsto no artigo seguinte.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113238": {
+   "fragment_id": "115389854",
+   "type": 11,
+   "heading": "Artigo 19.º — Bolsa de estágio e outros apoios",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 19.º — Bolsa de estágio e outros apoios\n\n1 - Aos estagiários são pagos, por cada um dos 12 meses de duração do estágio, os seguintes montantes:\n\na) Bolsa de estágio em função do país onde o mesmo se desenvolve, no montante fixado na tabela anexa à presente Portaria, por referência ao Indexante dos Apoios Sociais (IAS) e tendo em conta o índice do custo de vida do respetivo país;\n\nb) Subsídio de refeição, no valor correspondente ao praticado para a generalidade dos trabalhadores que exercem funções públicas.\n\n2 - Durante o período do estágio que decorrer em Portugal, o montante da bolsa de estágio, referida na alínea a) do número anterior, é de 1,65 vezes o valor correspondente ao IAS.\n\n3 - Aos contratos de estágio celebrados ao abrigo da presente portaria é aplicável o disposto no artigo 14.º-A do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n4 - Aos estagiários são ainda concedidos os seguintes apoios:\n\na) Seguro que cubra os riscos de eventualidades que possam ocorrer e por causa das atividades correspondentes ao estágio profissional, bem como nas deslocações entre a residência e o local de estágio;\n\nb) Viagem de ida e volta entre Portugal e o local onde se realiza o estágio;\n\nc) Consulta de medicina para viajantes e vacinas.\n\n5 - A bolsa de estágio e o subsídio de refeição não são devidos em caso de:\n\na) Suspensão do estágio, nos termos do artigo 11.º-A do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro;\n\nb) Faltas injustificadas;\n\nc) Faltas justificadas por motivo de acidente, desde que a responsabilidade civil daí decorrente se encontre coberta pelo contrato de seguro previsto no número anterior.\n\n6 - O processamento dos pagamentos referidos no presente artigo é efetuado pela Secretaria-Geral do Ministério dos Negócios Estrangeiros.\n\n7 - A negociação centralizada do seguro referido na alínea a) do n.º 4 compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros, nos termos a regulamentar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e dos negócios estrangeiros.\n\n8 - A Secretaria-Geral do Ministério dos Negócios Estrangeiros presta apoio aos estagiários na procura de alojamento, quando solicitado, por referência à informação prestada pelos serviços periféricos externos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113239": {
+   "fragment_id": "115389856",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação e certificação dos estagiários",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 21.º — Avaliação e certificação dos estagiários\n\n1 - Compete ao Secretário-Geral do Ministério dos Negócios Estrangeiros avaliar os estagiários.\n\n2 - A avaliação dos estagiários é fundamentada e de acordo com as regras, as componentes e os critérios da avaliação definidos pelo INA, sob proposta do Ministério dos Negócios Estrangeiros, nos termos da alínea b) do artigo 23.º, tendo por base a realização de um relatório semestral e de um relatório final.\n\n3 - As componentes referidas no número anterior integram obrigatoriamente os objetivos dos estágios e as competências individuais.\n\n4 - Os resultados obtidos na avaliação são classificados numa escala de 0 a 20 valores.\n\n5- Aos estagiários aprovados são entregues certificados comprovativos da frequência e aprovação final no estágio, de acordo com o modelo definido pelo INA nos termos da subalínea v) da alínea c) do artigo 23.º.\n\n6 - Os certificados comprovativos da frequência e aprovação final no estágio são registados no sítio do PEPAC-MNE a que se refere o artigo anterior.\n\n7 - Compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros anexar ao certificado referido no número anterior uma descrição das atividades desenvolvidas e dos conhecimentos adquiridos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113240": {
+   "fragment_id": "115389861",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma supletiva e regulamentação",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 26.º — Norma supletiva e regulamentação\n\n1 - Em tudo o que não estiver especialmente previsto na presente portaria aplicam-se as disposições do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n2 - Sem prejuízo do disposto no número anterior, o Secretário-Geral do Ministério dos Negócios Estrangeiros aprova, por regulamento, as demais regras relativas ao processo de recrutamento e seleção e à frequência do PEPAC-MNE que, nos termos da presente portaria, sejam da sua competência.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "115374671": {
+   "fragment_id": "115389863",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 3 de dezembro de 2014. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete, em 4 de dezembro de 2014."
+  },
+  "921113245": {
+   "fragment_id": "115389864",
+   "type": 14,
+   "heading": "Anexo — (referido no Artigo 19.º)",
+   "in_force_from": "2016-12-23",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "## Anexo — (referido no Artigo 19.º)\n\n(ver documento original)\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113246": {
+   "fragment_id": "115389840",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação relativa aos estágios",
+   "in_force_from": "2018-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Informação relativa aos estágios\n\n1 - A oferta de estágios é distribuída por 2 áreas, com base nas funções a desempenhar nos serviços periféricos externos e das áreas de educação e formação exigidas.\n\n2 - Cada candidato pode concorrer a uma única área de estágio.\n\n3 - As áreas de estágio e respetivas áreas de educação e formação, correspondentes ao elenco da CNAEF, são as seguintes:\n\na) Estágio em Diplomacia Económica:\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia;\n\n- Cód. 342 - Marketing e Publicidade;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 380 - Direito.\n\nb) (Revogada.)\n\nc) Estágio em Diplomacia Política e Apoio Consular\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 225 - História e Arqueologia;\n\n- Cód. 226 - Filosofia e Ética;\n\n- Cód. 311 - Psicologia;\n\n- Cód. 312 - Sociologia e outros estudos;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia\n\n- Cód. 321 - Jornalismo e Reportagem;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 346 - Secretariado e Trabalho Administrativo\n\n- Cód. 380 - Direito.\n\n4 - Por cada área de estágio, é divulgada no sítio do PEPAC-MNE, a lista de serviços periféricos externos onde os estágios poderão decorrer e o número total de vagas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113247": {
+   "fragment_id": "115389842",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação curricular",
+   "in_force_from": "2018-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Avaliação curricular\n\n1 - A avaliação curricular tem ponderação de 60% da valoração final e visa analisar a qualificação dos candidatos.\n\n2 - Na avaliação curricular são ponderados obrigatoriamente os seguintes elementos, de acordo com a percentagem indicada:\n\na) Habilitação académica: 60%;\n\nb) Experiência profissional: 20%;\n\nc) Competência linguística: 20%.\n\n3 - Na habilitação académica são avaliados o grau académico e a classificação final de licenciatura.\n\n4 - Na experiência profissional são avaliados os seguintes elementos:\n\na) Experiência de estágio ou voluntariado no Ministério dos Negócios Estrangeiros ou organização internacional;\n\nb) Experiência de trabalho no estrangeiro;\n\nc) Outra experiência laboral ou de voluntariado.\n\n5 - Na competência linguística é avaliado o domínio das línguas portuguesa e inglesa, bem como de outras línguas estrangeiras.\n\n6 - A ordenação dos candidatos na lista a que se refere o n.º 2 do artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da titularidade de grau académico mais elevado;\n\nb) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico mais elevado;\n\nc) (Revogada.)\n\nd) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior;\n\ne) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113248": {
+   "fragment_id": "115389844",
+   "type": 11,
+   "heading": "Artigo 9.º — Ordenação final",
+   "in_force_from": "2018-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Ordenação final\n\n1 - Os métodos de seleção são eliminatórios, sendo excluídos os candidatos cuja classificação seja inferior a 14 valores na avaliação curricular e inferior a 10 valores na entrevista de seleção.\n\n2 - Sempre que da aplicação do disposto no número anterior resulte, uma vez concluído o método de avaliação curricular, um número de candidatos aprovados inferior ao dobro do número de vagas disponível para a respetiva área de estágio, a classificação de exclusão é alterada sucessivamente para um valor de 0,5 pontos imediatamente inferior.\n\n3 - Depois de concluídas e avaliadas as entrevistas de seleção, a comissão de seleção e avaliação elabora a ordenação final dos candidatos, em cada área de estágio, de acordo com uma escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada das classificações obtidas em cada método de seleção.\n\n4 - Na lista final referida no número anterior, a ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da classificação mais elevada obtida no método da entrevista de seleção;\n\nb) Subsistindo o empate, em função da classificação mais elevada obtida no método da avaliação curricular;\n\nc) Subsistindo o empate, em função da titularidade de grau académico mais elevado;\n\nd) (Revogada.);\n\ne) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior;\n\nf) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921113249": {
+   "fragment_id": "115389849",
+   "type": 11,
+   "heading": "Artigo 14.º — Contrato de estágio",
+   "in_force_from": "2018-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+   ],
+   "markdown": "###### Artigo 14.º — Contrato de estágio\n\n1 - No início do estágio, a Secretaria-Geral do Ministério dos Negócios Estrangeiros celebra com o estagiário um contrato de estágio nos termos previstos no artigo 11.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, que obedece ao modelo previsto na subalínea ii) da alínea c) do artigo 23.º da presente portaria, onde se prevejam os correspondentes direitos e deveres funcionais do estagiário.\n\n2 - O contrato previsto no número anterior é assinado, até 15 dias antes da data de início dos estágios, em duplicado, pelo estagiário e pelo Secretário-Geral do Ministério dos Negócios Estrangeiros.\n\n3 - Após a assinatura do contrato de estágio, os estagiários ficam obrigados a cumprir todos os procedimentos preparatórios necessários ao início do estágio, segundo instruções da Entidade Promotora.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+  },
+  "921113250": {
+   "fragment_id": "115389857",
+   "type": 11,
+   "heading": "Artigo 22.º — Responsabilidade do orientador do estágio",
+   "in_force_from": "2018-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+   ],
+   "markdown": "###### Artigo 22.º — Responsabilidade do orientador do estágio\n\n1 - O orientador do estágio, que é, em regra, o chefe de missão ou de posto, é o responsável, no serviço periférico externo, pelo acompanhamento do estágio e respetiva avaliação.\n\n2 - O chefe de missão ou de posto pode delegar noutro funcionário diplomático colocado na respetiva missão ou posto a competência referida no número anterior.\n\n3 - Compete ao orientador de estágio a elaboração da proposta de um plano de estágio e respetivos objetivos, designadamente para efeitos de aplicação do Sistema Integrado de Gestão e Avaliação de Desempenho na Administração Pública (SIADAP), em que são descritas de forma sumária as responsabilidades e funções a desempenhar no serviço pelo estagiário, que deverá ser aprovado pelo dirigente máximo do serviço.\n\n4 - Compete ao orientador de estágio o preenchimento das fichas de avaliação semestral e final do estagiário, tendo em atenção o plano de estágio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+  },
+  "921113251": {
+   "fragment_id": "115389864",
+   "type": 14,
+   "heading": "Anexo — (referido no Artigo 19.º)",
+   "in_force_from": "2018-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "## Anexo — (referido no Artigo 19.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921194645": {
+   "fragment_id": "115389836",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2019-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria o Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros, adiante designado por PEPAC-MNE, e procede à respetiva regulamentação.\n\n2 - A Secretaria-Geral do Ministério dos Negócios Estrangeiros é a entidade promotora do programa aprovado pela presente portaria.\n\n3 - O Secretário-Geral do Ministério dos Negócios Estrangeiros pode delegar nos titulares dos órgãos dos serviços que integram a Secretaria-Geral a competência para a prática dos atos necessários à execução, implementação e conclusão dos estágios.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10"
+  },
+  "921330881": {
+   "fragment_id": "115389840",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação relativa aos estágios",
+   "in_force_from": "2019-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Informação relativa aos estágios\n\n1 - A oferta de estágios é distribuída por 2 áreas, com base nas funções a desempenhar nos serviços periféricos externos e das áreas de educação e formação exigidas.\n\n2 - Cada candidato pode concorrer a uma única área de estágio.\n\n3 - As áreas de estágio e respetivas áreas de educação e formação, correspondentes ao elenco da CNAEF, são as seguintes:\n\na) Estágio em Diplomacia Económica:\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 225 - História e Arqueologia;\n\n- Cód. 226 - Filosofia e Ética;\n\n- Cód. 312 - Sociologia e outros estudos;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia;\n\n- Cód. 321 - Jornalismo e Reportagem;\n\n- Cód. 342 - Marketing e Publicidade;\n\n- Cód. 343 - Finanças, Banca e Seguros;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 346 - Secretariado e Trabalho Administrativo;\n\n- Cód. 380 - Direito.\n\nb) (Revogada.)\n\nc) Estágio em Diplomacia Política e Apoio Consular\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 225 - História e Arqueologia;\n\n- Cód. 226 - Filosofia e Ética;\n\n- Cód. 311 - Psicologia;\n\n- Cód. 312 - Sociologia e outros estudos;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia\n\n- Cód. 321 - Jornalismo e Reportagem;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 346 - Secretariado e Trabalho Administrativo\n\n- Cód. 380 - Direito.\n\n4 - Por cada área de estágio, é divulgada no sítio do PEPAC-MNE, a lista de serviços periféricos externos onde os estágios poderão decorrer e o número total de vagas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921194652": {
+   "fragment_id": "115389842",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação curricular",
+   "in_force_from": "2019-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Avaliação curricular\n\n1 - A avaliação curricular tem ponderação de 60% da valoração final e visa analisar a qualificação dos candidatos.\n\n2 - Na avaliação curricular são ponderados obrigatoriamente os seguintes elementos, de acordo com a percentagem indicada:\n\na) Habilitação académica: 60%;\n\nb) Experiência profissional: 20%;\n\nc) Competência linguística: 20%.\n\n3 - Na habilitação académica são avaliados o grau académico e a classificação final de licenciatura.\n\n4 - Na experiência profissional são avaliados os seguintes elementos:\n\na) Experiência de estágio ou voluntariado no Ministério dos Negócios Estrangeiros ou organização internacional;\n\nb) Experiência de trabalho no estrangeiro;\n\nc) Outra experiência laboral ou de voluntariado.\n\n5 - Na competência linguística é avaliado o domínio das línguas portuguesa e inglesa, bem como de outras línguas estrangeiras.\n\n6 - A ordenação dos candidatos na lista a que se refere o n.º 2 do artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da titularidade de grau académico mais elevado;\n\nb) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico mais elevado;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921194647": {
+   "fragment_id": "115389843",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrevista de seleção",
+   "in_force_from": "2019-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 8.º — Entrevista de seleção\n\n1 - A entrevista de seleção tem a ponderação de 40% da valoração final e visa avaliar, de forma objetiva e sistemática, a experiência profissional, a competência linguística e aspetos comportamentais do candidato, nomeadamente, a capacidade de comunicação e de relacionamento interpessoal.\n\n2 - As entrevistas de seleção são conduzidas por uma comissão de seleção e avaliação, designada para cada uma das áreas de estágio, nos termos do artigo 15.º.\n\n3 - A entrevista consiste na realização de um conjunto de perguntas previamente determinadas pela comissão de seleção e avaliação, com a duração mínima de 15 e máxima de 30 minutos.\n\n4 - Na avaliação da entrevista são ponderados os seguintes elementos:\n\na) Demonstração de adequação às funções a exercer de acordo com a área de estágio da candidatura;\n\nb) Demonstração de apetência pela vida em missão e experiência em ambientes multiculturais;\n\nc) Apresentação e clareza na exposição oral.\n\n5 - No contexto da entrevista, são ainda aferidas as competências nas línguas em que o candidato alegou fluência.\n\n6 - A entrevista de seleção ocorre presencialmente, sem possibilidade de ser substituída por recurso a meios de comunicação à distância.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921194653": {
+   "fragment_id": "115389844",
+   "type": 11,
+   "heading": "Artigo 9.º — Ordenação final",
+   "in_force_from": "2019-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Ordenação final\n\n1 - Os métodos de seleção são eliminatórios, sendo excluídos os candidatos cuja classificação seja inferior a 14 valores na avaliação curricular e inferior a 10 valores na entrevista de seleção.\n\n2 - Sempre que da aplicação do disposto no número anterior resulte, uma vez concluído o método de avaliação curricular, um número de candidatos aprovados inferior ao dobro do número de vagas disponível para a respetiva área de estágio, a classificação de exclusão é alterada sucessivamente para um valor de 0,5 pontos imediatamente inferior.\n\n3 - Depois de concluídas e avaliadas as entrevistas de seleção, a comissão de seleção e avaliação elabora a ordenação final dos candidatos, em cada área de estágio, de acordo com uma escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada das classificações obtidas em cada método de seleção.\n\n4 - Na lista final referida no número anterior, a ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da classificação mais elevada obtida no método da entrevista de seleção;\n\nb) Subsistindo o empate, em função da classificação mais elevada obtida no método da avaliação curricular;\n\nc) Subsistindo o empate, em função da titularidade de grau académico mais elevado;\n\nd) (Revogada.);\n\ne) (Revogada.)\n\nf) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921194648": {
+   "fragment_id": "115389856",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação e certificação dos estagiários",
+   "in_force_from": "2019-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 21.º — Avaliação e certificação dos estagiários\n\n1 - Compete ao Secretário-Geral do Ministério dos Negócios Estrangeiros avaliar os estagiários.\n\n2 - A avaliação dos estagiários é fundamentada e de acordo com as regras, as componentes e os critérios da avaliação definidos pelo INA, sob proposta do Ministério dos Negócios Estrangeiros, nos termos da alínea b) do artigo 23.º, tendo por base a realização de um relatório semestral e de um relatório final.\n\n3 - As componentes referidas no número anterior integram obrigatoriamente os objetivos dos estágios e as competências individuais.\n\n4 - Os resultados obtidos na avaliação são classificados numa escala de 0 a 20 valores.\n\n5- Aos estagiários aprovados são entregues certificados comprovativos da frequência e aprovação final no estágio, de acordo com o modelo definido pelo INA nos termos da subalínea v) da alínea c) do artigo 23.º.\n\n6 - Os certificados comprovativos da frequência e aprovação final no estágio são registados no sítio do PEPAC-MNE a que se refere o artigo anterior.\n\n7 - (Revogado.)\n\n8 - É dever do estagiário entregar o relatório de autoavaliação no prazo determinado pela entidade promotora.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "921194649": {
+   "fragment_id": "115389864",
+   "type": 14,
+   "heading": "Anexo — (referido no Artigo 19.º)",
+   "in_force_from": "2019-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "## Anexo — (referido no Artigo 19.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252886": {
+   "fragment_id": "115389838",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo, candidatura e código de acesso",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Registo, candidatura e código de acesso\n\n1 - As candidaturas à frequência dos estágios do PEPAC-MNE são apresentadas exclusivamente através do preenchimento de formulário de candidatura online, disponível no sítio da Internet do PEPAC-MNE, nos termos dos números seguintes.\n\n2 - A apresentação de candidatura é precedida de registo no sítio do PEPAC-MNE, no portal da BEP, mediante o qual o candidato obtém um código de acesso para acompanhamento do processo.\n\n3 - No formulário de candidatura, o candidato indica os seus dados de identificação pessoal e fornece os elementos para a sua avaliação curricular, de acordo com o disposto nos artigos seguintes.\n\n4 - O formulário previsto no n.º 1 contém:\n\na) Declaração de cumprimento, à data do fim do prazo de candidatura, dos requisitos legais da mesma, nomeadamente que se encontra nas condições referidas no artigo 4.º e no n.º 4 do artigo 8.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro;\n\nb) Declaração de disponibilidade para realizar estágio em qualquer dos serviços periféricos externos do Ministério dos Negócios Estrangeiros.\n\nc) A seguinte indicação: «Declaro, sob compromisso de honra, que as informações prestadas são verdadeiras».\n\n5 - No ato de submissão da candidatura, o candidato indica obrigatoriamente 10 serviços periféricos externos, ordenados por ordem de preferência e de acordo com as áreas geográficas onde os mesmos se inserem.\n\n6 - A prestação de informações falsas determina a exclusão do candidato de qualquer edição do PEPAC-MNE.\n\n7 - O número máximo de estagiários a selecionar anualmente, o prazo durante o qual decorrem as candidaturas e a repartição territorial por NUTS, no caso de o Programa ser objeto de financiamento europeu, são definidos pela portaria prevista no artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n8 - Após o preenchimento do formulário de candidatura e a sua submissão, o candidato recebe no endereço de correio eletrónico indicado nos termos da alínea d) do n.º 1 do artigo seguinte a confirmação da mesma, bem como dos dados introduzidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01"
+  },
+  "922252887": {
+   "fragment_id": "115389839",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação relativa ao candidato",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 4.º — Informação relativa ao candidato\n\n1 - São considerados dados de identificação de preenchimento obrigatório no formulário de candidatura:\n\na) O nome completo, de acordo com o documento de identificação do qual seja titular;\n\nb) A data de nascimento;\n\nc) O número e residência fiscais;\n\nd) O endereço de correio eletrónico e o número telefónico, a utilizar para os contactos posteriores no âmbito do procedimento de candidatura.\n\ne) As nacionalidades das quais o candidato seja titular;\n\nf) A área de estágio a que se refere a candidatura.\n\n2 - Para candidatos com deficiência e/ou incapacidades devidamente comprovadas, aplica-se o disposto no Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual.\n\n3 - Para efeitos de validação da candidatura, o candidato deve submeter eletronicamente o formulário de candidatura até ao termo do prazo definido pela portaria prevista no artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, em conjunto com os documentos comprovativos de:\n\na) Jovem à procura do primeiro emprego, jovem desempregado à procura de novo emprego ou jovem à procura de emprego correspondente à sua área de formação e nível de qualificação;\n\nb) Habilitação académica de nível superior conferida por estabelecimento de ensino superior nacional ou estrangeiro, devidamente reconhecida, correspondendo no mínimo ao grau de licenciado, indicando a área de formação e respetiva classificação final, arredondada à unidade;\n\nc) Outras habilitações académicas de grau superior a licenciado, se for o caso, conferidas por estabelecimento de ensino superior nacional ou estrangeiro, devidamente reconhecidas, e respetivas classificações finais arredondadas à unidade;\n\nd) Competências linguísticas de nível B2, ou superior, tendo por referência o Quadro Europeu Comum de Referência para Línguas;\n\ne) Experiência profissional.\n\n4 - Para efeitos do disposto na alínea b) do número anterior, o candidato indica a sua área de educação e formação correspondente por referência à Classificação Nacional das Áreas de Educação e Formação (CNAEF), aprovado pela Portaria n.º 256/2005, de 16 de março.\n\n5 - A não entrega dos documentos indicados nas alíneas a) e b) do n.º 3, até ao termo do prazo de candidaturas fixado pela Portaria prevista no n.º 7 do artigo 3.º, é fundamento de exclusão da candidatura.\n\n6 - Só são considerados os documentos previstos nas alíneas c), d) e e) do n.º 3 quando sejam entregues até ao termo do prazo de candidatura.\n\n7 - O registo das informações e dados referidos nos números anteriores apenas pode ser alterado dentro do prazo fixado para apresentação de candidaturas.\n\n8 - Ao candidato pode ser solicitada, na proposta prevista no artigo 11.º, informação adicional, nomeadamente com vista à confirmação da idoneidade do candidato para o estágio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252898": {
+   "fragment_id": "922231855",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Comprovação de requisitos",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "###### Artigo 4.º-A — Comprovação de requisitos\n\n1 - Na convocatória para a entrevista, o candidato é notificado do dever de exibir à comissão de seleção e avaliação, na data marcada para a sua realização, os originais dos documentos entregues aquando da respetiva candidatura, para efeitos de conferência e realização da avaliação curricular.\n\n2 - A não exibição dos originais dos documentos indicados nas alíneas a) e b) do n.º 3 do artigo anterior constitui motivo de exclusão da candidatura do PEPAC-MNE.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14"
+  },
+  "922252899": {
+   "fragment_id": "115389840",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação relativa aos estágios",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Informação relativa aos estágios\n\n1 - A oferta de estágios é distribuída por 2 áreas, com base nas funções a desempenhar nos serviços periféricos externos e das áreas de educação e formação exigidas.\n\n2 - Cada candidato pode concorrer a uma única área de estágio.\n\n3 - As áreas de estágio e respetivas áreas de educação e formação, correspondentes ao elenco da CNAEF, são as seguintes:\n\na) Estágio em Diplomacia Económica:\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 225 - História e Arqueologia;\n\n- Cód. 226 - Filosofia e Ética;\n\n- Cód. 312 - Sociologia e outros estudos;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia;\n\n- Cód. 321 - Jornalismo e Reportagem;\n\n- Cód. 342 - Marketing e Publicidade;\n\n- Cód. 343 - Finanças, Banca e Seguros;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 346 - Secretariado e Trabalho Administrativo;\n\n- Cód. 380 - Direito.\n\nb) (Revogada.)\n\nc) Estágio em Diplomacia Política e Apoio Consular\n\n- Cód. 222 - Línguas e Literaturas Estrangeiras;\n\n- Cód. 225 - História e Arqueologia;\n\n- Cód. 226 - Filosofia e Ética;\n\n- Cód. 311 - Psicologia;\n\n- Cód. 312 - Sociologia e outros estudos;\n\n- Cód. 313 - Ciência Política e Cidadania;\n\n- Cód. 314 - Economia\n\n- Cód. 321 - Jornalismo e Reportagem;\n\n- Cód. 345 - Gestão e Administração;\n\n- Cód. 346 - Secretariado e Trabalho Administrativo\n\n- Cód. 380 - Direito.\n\n4 - Por cada área de estágio, é divulgada no sítio do PEPAC-MNE, a lista de serviços periféricos externos onde os estágios poderão decorrer e o número total de vagas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252900": {
+   "fragment_id": "115389841",
+   "type": 11,
+   "heading": "Artigo 6.º — Métodos de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Métodos de seleção\n\n1 - Os métodos de seleção a aplicar são a avaliação curricular e a entrevista de seleção.\n\n2 - Compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros fixar os parâmetros de avaliação, a sua ponderação, a grelha classificativa e o sistema de valoração final de cada método de seleção, providenciando a sua publicitação no sítio do PEPAC-MNE no início do prazo para apresentação de candidaturas.\n\n3 - As fórmulas de avaliação utilizadas, por cada área de estágio, permanecem disponíveis no sítio do PEPAC-MNE até ao final da respetiva edição."
+  },
+  "922252901": {
+   "fragment_id": "115389842",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação curricular",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Avaliação curricular\n\n1 - A avaliação curricular tem ponderação de 60% da valoração final e visa analisar a qualificação dos candidatos.\n\n2 - Na avaliação curricular são ponderados obrigatoriamente os seguintes elementos, de acordo com a percentagem indicada:\n\na) Habilitação académica: 60%;\n\nb) Experiência profissional: 20%;\n\nc) Competência linguística: 20%.\n\n3 - Na habilitação académica são avaliados o grau académico e a classificação final de licenciatura.\n\n4 - Na experiência profissional são avaliados os seguintes elementos:\n\na) Experiência de estágio no Ministério dos Negócios Estrangeiros ou voluntariado/estágio em organização internacional;\n\nb) Experiência de trabalho no estrangeiro;\n\nc) Outra experiência laboral ou de voluntariado.\n\n5 - Na competência linguística é avaliado o domínio das línguas portuguesa e inglesa, bem como de outras línguas estrangeiras.\n\n6 - A ordenação dos candidatos na lista a que se refere o artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial é efetuada de forma decrescente:\n\na) Em função da titularidade de grau académico mais elevado;\n\nb) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico mais elevado;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252902": {
+   "fragment_id": "115389843",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrevista de seleção",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 8.º — Entrevista de seleção\n\n1 - A entrevista de seleção tem a ponderação de 40 % da valoração final e visa avaliar, de forma objetiva e sistemática, a experiência profissional, a fluência linguística oral em língua portuguesa e aspetos comportamentais do candidato, nomeadamente, a capacidade de comunicação e de relacionamento interpessoal.\n\n2 - As entrevistas de seleção são conduzidas por uma comissão de seleção e avaliação, designada para cada uma das áreas de estágio, nos termos do artigo 15.º.\n\n3 - A entrevista consiste na realização de um conjunto de perguntas previamente determinadas pela comissão de seleção e avaliação, com a duração mínima de 15 e máxima de 30 minutos.\n\n4 - Na avaliação da entrevista são ponderados os seguintes elementos:\n\na) Demonstração de adequação às funções a exercer de acordo com a área de estágio da candidatura;\n\nb) Demonstração de apetência pela vida em missão e experiência em ambientes multiculturais;\n\nc) Apresentação e clareza na exposição oral.\n\n5 - (Revogado.)\n\n6 - A entrevista de seleção ocorre presencialmente, sem possibilidade de ser substituída por recurso a meios de comunicação à distância.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252903": {
+   "fragment_id": "115389844",
+   "type": 11,
+   "heading": "Artigo 9.º — Ordenação final",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Ordenação final\n\n1 - Os métodos de seleção são eliminatórios, sendo excluídos os candidatos cuja classificação seja inferior a 14 valores na avaliação curricular e inferior a 10 valores na entrevista de seleção.\n\n2 - Sempre que da aplicação do disposto no número anterior resulte, uma vez concluído o método de avaliação curricular, um número de candidatos aprovados inferior ao dobro do número de vagas disponível para a respetiva área de estágio, a classificação de exclusão é alterada sucessivamente para um valor de 0,5 pontos imediatamente inferior.\n\n3 - Depois de concluídas e avaliadas as entrevistas de seleção, a comissão de seleção e avaliação elabora a ordenação final dos candidatos, em cada área de estágio, de acordo com uma escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada das classificações obtidas em cada método de seleção.\n\n4 - Na lista final referida no número anterior, a ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:\n\na) Em função da classificação mais elevada obtida no método da entrevista de seleção;\n\nb) Subsistindo o empate, em função da classificação mais elevada obtida no método da avaliação curricular;\n\nc) Subsistindo o empate, em função da titularidade de grau académico mais elevado;\n\nd) (Revogada.);\n\ne) (Revogada.)\n\nf) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252904": {
+   "fragment_id": "115389845",
+   "type": 11,
+   "heading": "Artigo 10.º — Colocação nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Colocação nos serviços periféricos externos\n\nA colocação dos candidatos nos serviços periféricos externos é realizada de acordo com as listas de ordenação final, relativamente a cada área de estágio, considerando as vagas existentes e as necessidades dos serviços periféricos externos definidas pela Secretaria-Geral do Ministério dos Negócios Estrangeiros."
+  },
+  "922252905": {
+   "fragment_id": "115389846",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazos e notificações",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Prazos e notificações\n\n1 - No prazo máximo de 10 dias úteis após o encerramento do período das candidaturas, os candidatos admitidos são listados alfabeticamente no sítio do PEPAC-MNE, agrupados pelas áreas de estágio indicadas nos termos do disposto no n.º 3 do artigo 5.º.\n\n2 - Os candidatos são notificados da admissão ou exclusão da edição do Programa, para efeitos de pronúncia em sede audiência dos interessados, nos termos do Código do Procedimento Administrativo (CPA).\n\n3 - Concluída a audiência dos interessados, os candidatos são classificados por ordem decrescente de classificação, de acordo com os parâmetros de avaliação curricular, sendo as listas de ordenação, dentro de cada área de estágio, publicitadas no sítio do Programa.\n\n4 - No decurso dos 30 dias úteis subsequentes ao termo do prazo mencionado no número anterior, decorre a aplicação do segundo método avaliativo, a entrevista de seleção.\n\n5 - No prazo de 10 dias úteis após o termo das entrevistas de seleção, os candidatos são ordenados de acordo com a proposta de classificação final provisória obtida por cada área de estágio e notificados em sede de audiência prévia dos interessados.\n\n6 - Finda a audiência prévia dos interessados, é publicada a classificação final, sendo os candidatos notificados da mesma.\n\n7 - A notificação referida no número anterior deve conter ainda, para os candidatos classificados em posição elegível, a proposta de estágio a realizar nos serviços periféricos externos do Ministério dos Negócios Estrangeiros.\n\n8 - A proposta de estágio contém:\n\na) A descrição sumária do conteúdo funcional do estágio;\n\nb) A indicação do local de realização do estágio;\n\nc) O eventual pedido de informação adicional referida no n.º 7 do artigo 4.º\n\n9 - A resposta à proposta de estágio referida nos números anteriores é enviada on-line, no prazo máximo de dois dias úteis.\n\n10 - A recusa ou ausência de resposta no prazo previsto no n.º 9 determina a exclusão do candidato do PEPAC-MNE.\n\n11 - Após a aceitação da vaga de estágio, o candidato fica obrigado ao cumprimento de todos os procedimentos necessários, que antecedem a formalização do contrato de estágio, de acordo com a calendarização indicada pelo MNE.\n\n12 - O incumprimento pelo candidato do disposto no número anterior tem como consequência a atribuição da vaga de estágio ao candidato subsequente na lista de ordenação final.\n\n13 - As vagas são preenchidas até 10 dias seguidos antes da data prevista para o início dos estágios.\n\n14 - Uma vez preenchidas as vagas disponíveis, nos termos do disposto no número anterior, são divulgadas no sítio do Programa as listas dos estagiários colocados.\n\n15 - Para efeitos do disposto no presente artigo, todas as notificações aos candidatos são efetuadas mediante o envio de mensagens padronizadas para o endereço de correio eletrónico indicado nos termos da alínea d) do n.º 1 do artigo 4.º.\n\n16 - As listas referidas no presente artigo ficam disponíveis no sítio do Programa até ao final da respetiva edição.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01"
+  },
+  "922252906": {
+   "fragment_id": "115389847",
+   "type": 11,
+   "heading": "Artigo 12.º — Candidatos portadores de deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Candidatos portadores de deficiência\n\n1 - Para efeitos do Decreto-Lei n.º 29/2001, de 3 de fevereiro, em cada edição do PEPAC-MNE, é assegurada uma quota de 5% da totalidade dos estágios a ser preenchida por pessoas portadoras de deficiência, com um grau de incapacidade igual ou superior a 60%.\n\n2 - O processamento referido no artigo 2.º assegura o cumprimento da quota referida no número anterior em cada área de estágio."
+  },
+  "922252907": {
+   "fragment_id": "115389848",
+   "type": 11,
+   "heading": "Artigo 13.º — Comprovação dos requisitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2020-03-01"
+   ],
+   "markdown": "###### Artigo 13.º — Comprovação dos requisitos\n\n1 - No prazo de 2 dias úteis após a divulgação das listas previstas no n.º 2 do artigo 11.º, o candidato deve efetuar, no sítio do PEPAC-MNE, prova documental do cumprimento:\n\na) Dos requisitos previstos no artigo 4.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro;\n\nb) Dos restantes elementos constantes no formulário de candidatura;\n\nc) Sendo o caso, da informação adicional solicitada nos termos do n.º 6 do artigo 4.º.\n\n2 - Na data da entrevista o candidato deverá entregar junto da comissão de seleção e avaliação, para validação, os documentos originais referidos no n.º1.\n\n3 - A não comprovação dos requisitos nos termos da alínea a) do n.º1 constitui motivo de exclusão do candidato.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2020-03-01"
+  },
+  "922252908": {
+   "fragment_id": "115389849",
+   "type": 11,
+   "heading": "Artigo 14.º — Contrato de estágio",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+   ],
+   "markdown": "###### Artigo 14.º — Contrato de estágio\n\n1 - No início do estágio, a Secretaria-Geral do Ministério dos Negócios Estrangeiros celebra com o estagiário um contrato de estágio nos termos previstos no artigo 11.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, que obedece ao modelo previsto na subalínea ii) da alínea c) do artigo 23.º da presente portaria, onde se prevejam os correspondentes direitos e deveres funcionais do estagiário.\n\n2 - O contrato previsto no número anterior é assinado nas instalações do MNE, sitas em Lisboa, até cinco dias antes da data de início do estágio, em duplicado, pelo estagiário e pelo secretário-geral do MNE, ou quem ele delegar esta competência.\n\n3 - Após a assinatura do contrato de estágio, os estagiários ficam obrigados a cumprir todos os procedimentos preparatórios necessários ao início do estágio, segundo instruções da Entidade Promotora.\n\n4 - O estagiário deve cumprir escrupulosamente os procedimentos preparatórios definidos e agendados pela entidade promotora, sob pena de aquele ter de suportar as despesas inerentes ao reagendamento de marcações de exames, consultas, entrevistas e viagens.\n\n5 - Excetuam-se do disposto no número anterior as situações de força maior não imputáveis ao estagiário, devidamente comprovadas e apreciadas pela entidade promotora.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+  },
+  "922252909": {
+   "fragment_id": "115389850",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissão de seleção e avaliação",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 15.º — Comissão de seleção e avaliação\n\n1 - Para cada área de estágio é constituída uma comissão de seleção e avaliação.\n\n2 - As comissões de seleção e avaliação são compostas por cinco membros, três efetivos e dois suplentes.\n\n3 - Compete ao Ministério dos Negócios Estrangeiros designar dois membros efetivos e um membro suplente, em razão da área de estágio e ao Ministério das Finanças, designar um membro efetivo e um membro suplente.\n\n4 - Os membros da comissão de seleção e avaliação indicados pelo Ministério dos Negócios Estrangeiros são designados:\n\na) Pelo Instituto Diplomático, um membro efetivo de entre trabalhadores do Ministério dos Negócios Estrangeiros, que preside;\n\nb) Pela Secretaria-Geral do Ministério dos Negócios Estrangeiros, um membro efetivo e um membro suplente, de entre trabalhadores do Ministério dos Negócios Estrangeiros, com comprovada habilitação e experiência em funções similares no estrangeiro.\n\n5 - Os membros efetivo e suplente da comissão de seleção e avaliação indicados pelo Ministério das Finanças são designados pela Direção-Geral da Administração e do Emprego Público (DGAEP) de entre os seus trabalhadores.\n\n6 - Compete às comissões de seleção e avaliação:\n\na) Elaborar um guião de perguntas para realização da entrevista de seleção;\n\nb) Validar os documentos apresentados pelos candidatos aprovados na fase de avaliação curricular;\n\nc) Realizar as entrevistas de seleção dos candidatos aprovados na fase de avaliação curricular e avaliá-los de acordo com os critérios definidos no artigo 8.º;\n\nd) Elaborar o modelo de formulário de avaliação do estágio;\n\ne) (Revogada.)\n\n7 - Sempre que o número de candidatos o justifique podem ser constituídas comissões de seleção e avaliação adicionais para cada uma das áreas de estágio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252910": {
+   "fragment_id": "115389851",
+   "type": 11,
+   "heading": "Artigo 16.º — Início dos estágios",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 16.º — Início dos estágios\n\n1 - A data de início dos estágios é fixada pela portaria prevista no artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252911": {
+   "fragment_id": "115389852",
+   "type": 11,
+   "heading": "Artigo 17.º — Duração e estrutura do estágio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 17.º — Duração e estrutura do estágio\n\n1 - O estágio tem a duração de 12 meses, não prorrogável.\n\n2 - O estágio compreende as seguintes fases sequenciais, todas de frequência obrigatória:\n\na) Fase de formação inicial em local a designar pela Secretaria-Geral do Ministério dos Negócios Estrangeiros, por um período máximo de 22 dias úteis;\n\nb) Fase de estágio no serviço periférico externo de colocação do estagiário, pelo período que intermedeia a primeira e a terceira fases;\n\nc) Fase de formação final, que consiste na participação num seminário final, nos termos do previsto no artigo seguinte.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252912": {
+   "fragment_id": "115389853",
+   "type": 11,
+   "heading": "Artigo 18.º — Seminário final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Seminário final\n\n1 - Com o objetivo de promover o sucesso da integração no mercado de trabalho, os estagiários participam num seminário de divulgação de resultados e promoção de emprego que decorre no final do período do estágio e que conta com a participação de empresas e outras potenciais entidades empregadoras.\n\n2 - Cabe à Secretaria-Geral do Ministério dos Negócios Estrangeiros promover a calendarização, organização e preparação do referido seminário."
+  },
+  "922252913": {
+   "fragment_id": "115389854",
+   "type": 11,
+   "heading": "Artigo 19.º — Bolsa de estágio e outros apoios",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 19.º — Bolsa de estágio e outros apoios\n\n1 - Aos estagiários são pagos, por cada um dos 12 meses de duração do estágio, os seguintes montantes:\n\na) Bolsa de estágio em função do país onde o mesmo se desenvolve, no montante fixado na tabela anexa à presente Portaria, por referência ao Indexante dos Apoios Sociais (IAS) e tendo em conta o índice do custo de vida do respetivo país;\n\nb) Subsídio de refeição, no valor correspondente ao praticado para a generalidade dos trabalhadores que exercem funções públicas.\n\n2 - Durante o período do estágio que decorrer em Portugal, o montante da bolsa de estágio, referida na alínea a) do número anterior, é de 1,65 vezes o valor correspondente ao IAS.\n\n3 - Aos contratos de estágio celebrados ao abrigo da presente portaria é aplicável o disposto no artigo 14.º-A do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro.\n\n4 - Aos estagiários são ainda concedidos os seguintes apoios:\n\na) Seguro de saúde, quando colocados fora da UE, que cubra a totalidade do tempo de permanência em posto, deslocações entre a residência e o local de estágio e as atividades correspondentes ao estágio profissional;\n\nb) Viagem de ida e volta entre Portugal e o país de destino, por via aérea e/ou outro transporte público em classe económica;\n\nc) Consulta de medicina para viajantes e vacinas.\n\nd) Emissão e concessão de passaporte especial, nos casos admitidos por lei, quando necessário para assegurar a entrada e permanência no país de colocação.\n\n5 - A bolsa de estágio e o subsídio de refeição não são devidos em caso de:\n\na) Suspensão do estágio, nos termos do artigo 11.º-A do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro;\n\nb) Faltas injustificadas;\n\nc) Faltas justificadas por motivo de acidente, desde que a responsabilidade civil daí decorrente se encontre coberta pelo contrato de seguro previsto no número anterior.\n\n6 - O processamento dos pagamentos referidos no presente artigo é efetuado pela Secretaria-Geral do Ministério dos Negócios Estrangeiros.\n\n7 - A negociação centralizada do seguro referido na alínea a) do n.º 4 compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros, nos termos a regulamentar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e dos negócios estrangeiros.\n\n8 - A Secretaria-Geral do Ministério dos Negócios Estrangeiros presta apoio aos estagiários na procura de alojamento, quando solicitado, por referência à informação prestada pelos serviços periféricos externos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252914": {
+   "fragment_id": "115389855",
+   "type": 11,
+   "heading": "Artigo 20.º — Informação sobre o estágio",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "###### Artigo 20.º — Informação sobre o estágio\n\nCompete ao MNE registar no sítio do Programa, em área apenas acessível ao MNE e à DGAEP, todos os dados relevantes para o acompanhamento e avaliação dos estágios, nomeadamente:\n\na) Data de início dos estágios;\n\nb) Períodos de suspensão e cessação dos estágios, com a respetiva justificação;\n\nc) Relatórios de avaliação dos estagiários;\n\nd) Relatório do estágio efetuado pela entidade promotora;\n\ne) Seminário final.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14"
+  },
+  "922252915": {
+   "fragment_id": "115389856",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação e certificação dos estagiários",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 21.º — Avaliação e certificação dos estagiários\n\n1 - Compete ao Secretário-Geral do Ministério dos Negócios Estrangeiros avaliar os estagiários.\n\n2 - A avaliação dos estagiários é fundamentada e de acordo com as regras, as componentes e os critérios da avaliação definidos pela DGAEP, sob proposta do MNE, nos termos da alínea b) do artigo 23.º, tendo por base a realização de um relatório semestral e de um relatório final.\n\n3 - As componentes referidas no número anterior integram obrigatoriamente os objetivos dos estágios e as competências individuais.\n\n4 - Os resultados obtidos na avaliação são classificados numa escala de 0 a 20 valores.\n\n5 - Aos estagiários que concluíram na íntegra o estágio PEPAC-MNE são entregues certificados comprovativos da frequência e aprovação final, de acordo com o modelo definido pela DGAEP nos termos da subalínea v) da alínea c) do artigo 23.º\n\n6 - A entrega do certificado comprovativo da frequência e aprovação final está sujeita ao preenchimento da avaliação do estágio, de acordo com a alínea a) do n.º 8 do presente artigo, e devolução do passaporte especial, caso este tenha sido atribuído.\n\n7 - Os certificados comprovativos da frequência e aprovação final no estágio são registados no sítio do PEPAC-MNE a que se refere o artigo anterior.\n\n8 - No final do estágio, o estagiário entrega à entidade promotora, no prazo por esta definido, os seguintes relatórios:\n\na) Avaliação do estágio;\n\nb) Inquérito de satisfação de vida em posto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252916": {
+   "fragment_id": "115389857",
+   "type": 11,
+   "heading": "Artigo 22.º — Responsabilidade do orientador do estágio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+   ],
+   "markdown": "###### Artigo 22.º — Responsabilidade do orientador do estágio\n\n1 - O orientador do estágio, que é, em regra, o chefe de missão ou de posto, é o responsável, no serviço periférico externo, pelo acompanhamento do estágio e respetiva avaliação.\n\n2 - O chefe de missão ou de posto pode delegar noutro funcionário diplomático colocado na respetiva missão ou posto a competência referida no número anterior.\n\n3 - Compete ao orientador de estágio a elaboração da proposta de um plano de estágio e respetivos objetivos, designadamente para efeitos de aplicação do Sistema Integrado de Gestão e Avaliação de Desempenho na Administração Pública (SIADAP), em que são descritas de forma sumária as responsabilidades e funções a desempenhar no serviço pelo estagiário, que deverá ser aprovado pelo dirigente máximo do serviço.\n\n4 - Compete ao orientador de estágio o preenchimento das fichas de avaliação semestral e final do estagiário, tendo em atenção o plano de estágio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26"
+  },
+  "922252917": {
+   "fragment_id": "115389858",
+   "type": 11,
+   "heading": "Artigo 23.º — Gestão e coordenação do PEPAC-MNE",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "###### Artigo 23.º — Gestão e coordenação do PEPAC-MNE\n\nPara efeitos do disposto no artigo 17.º do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, a Secretaria-Geral do MNE, enquanto corresponsável pela gestão e coordenação do Programa, e em colaboração com a DGAEP, disponibiliza no sítio da Internet do Programa:\n\na) Os parâmetros de avaliação a aplicar a todas as candidaturas;\n\nb) As regras, as componentes e os critérios de avaliação final dos estagiários;\n\nc) Os seguintes instrumentos:\n\ni) Formulário de candidatura;\n\nii) Modelo do contrato de estágio;\n\niii) Modelo do relatório de avaliação do estagiário;\n\niv) Modelo do relatório de avaliação dos estágios;\n\nv) Modelo do certificado de frequência e aprovação do estagiário;\n\nvi) Instruções de preenchimento dos modelos previstos nas subalíneas anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14"
+  },
+  "922252918": {
+   "fragment_id": "115389859",
+   "type": 11,
+   "heading": "Artigo 24.º — Frequência e assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Frequência e assiduidade\n\n1 - É aplicável ao estagiário, com as devidas adaptações, o regime de faltas e de descanso diário e semanal dos trabalhadores vinculados por contrato de trabalho em funções públicas.\n\n2 - O controlo da pontualidade e da assiduidade dos estagiários é efetuado pelo dirigente máximo do serviço periférico externo onde decorre o estágio, que o transmite à entidade responsável pelo processamento e pagamento dos valores pecuniários devidos aos estagiários."
+  },
+  "922252919": {
+   "fragment_id": "115389860",
+   "type": 11,
+   "heading": "Artigo 25.º — Suspensão e cessação do contrato de estágio",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01"
+   ],
+   "markdown": "###### Artigo 25.º — Suspensão e cessação do contrato de estágio\n\n1 - O contrato de estágio suspende-se ou cessa nos termos dos artigos 11.º-A e 11.º-B do Decreto-Lei n.º 18/2010, de 19 de março, alterado pelo Decreto-Lei n.º 214/2012, de 28 de setembro, e pelo Decreto-Lei n.º 134/2014, de 8 de setembro, com as adaptações decorrentes do número seguinte.\n\n2 - A resolução do contrato de estágio, por iniciativa do estagiário, prevista nos n.os 5 a 7 do artigo 11.º-B do Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual, assim como a não conclusão do estágio, por motivo imputável ao estagiário, implica a restituição por este da totalidade dos encargos com viagens, consulta do viajante, emissão do passaporte especial e visto, despendidos com o estagiário no âmbito do PEPAC-MNE.\n\n3 - A denúncia do contrato de estágio por parte do estagiário impede a apresentação de nova candidatura no âmbito do PEPAC-MNE.\n\n4 - Sem prejuízo do disposto no número anterior, se o contrato de estágio cessar nos primeiros 30 dias seguidos após o início da sua execução, a Secretaria-Geral do MNE pode celebrar novo contrato de estágio, observando-se as regras de colocação previstas na presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01"
+  },
+  "922252920": {
+   "fragment_id": "115389861",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma supletiva e regulamentação",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "###### Artigo 26.º — Norma supletiva e regulamentação\n\n1 - Em tudo o que não estiver especialmente previsto na presente portaria aplicam-se as disposições conjugadas do Decreto-Lei n.º 18/2010, de 19 de março, do Decreto-Lei n.º 137/2014, de 12 de setembro, e do Código do Procedimento Administrativo, nas suas redações atuais.\n\n2 - Sem prejuízo do disposto no número anterior, o Secretário-Geral do Ministério dos Negócios Estrangeiros aprova, por regulamento, as demais regras relativas ao processo de recrutamento e seleção e à frequência do PEPAC-MNE que, nos termos da presente portaria, sejam da sua competência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/210-2024-887665685), em vigor a partir de 2024-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  },
+  "922252921": {
+   "fragment_id": "115389862",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "922252922": {
+   "fragment_id": "115389863",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 3 de dezembro de 2014. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete, em 4 de dezembro de 2014."
+  },
+  "922252923": {
+   "fragment_id": "115389864",
+   "type": 14,
+   "heading": "Anexo — (referido no Artigo 19.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+   ],
+   "markdown": "## Anexo — (referido no Artigo 19.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 69/2020 - Diário da República n.º 52/2020, Série I de 2020-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/69-2020-130211648), em vigor a partir de 2020-03-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 103/2019 - Diário da República n.º 70/2019, Série I de 2019-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2019-122050355), em vigor a partir de 2019-04-10\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 151/2018 - Diário da República n.º 101/2018, Série I de 2018-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/151-2018-115392186), em vigor a partir de 2018-05-26\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 331-B/2016 - Diário da República n.º 244/2016, 2º Suplemento, Série I de 2016-12-22](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2016-105602342), em vigor a partir de 2016-12-23"
+  }
+ }
+}

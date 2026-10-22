@@ -1,0 +1,226 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:333292:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-160900528",
+ "dre_path": "/dr/detalhe/decreto-lei/94-1990-333292",
+ "source_lastmod": "2025-06-30",
+ "versions": [
+  {
+   "date": "1990-03-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923294285",
+    "160900831",
+    "160900834",
+    "160900835"
+   ]
+  },
+  {
+   "date": "1990-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182449:por",
+     "title": "Declaração",
+     "published": "1990-04-30",
+     "dre_path": "/dr/detalhe/declaracao/1990-182449"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 4.º",
+    "Retifica Assinatura"
+   ],
+   "fragments": [
+    "160900830",
+    "923028732",
+    "923033141",
+    "923028730",
+    "923028733",
+    "160900835",
+    "923028734"
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "923294285",
+    "923294286",
+    "923294287",
+    "923294288",
+    "923294289",
+    "923294290",
+    "923294291"
+   ]
+  }
+ ],
+ "fragments": {
+  "923294285": {
+   "fragment_id": "160900529",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 94/90\n\nde 20 de Março\n\nA reestruturação da organização interna e a recomposição do XI Governo implicam a adaptação de várias normas da sua Lei Orgânica, aprovada pelo Decreto-Lei n.º 329/87, de 23 de Setembro.\n\nAssim:\n\nNos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "160900831": {
+   "fragment_id": "160900530",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º, 18.º, 22.º, 24.º, 25.º, 28.º, e 31.º do Decreto-Lei n.º 329/87, de 23 de Setembro, com a forma que lhe foi dada pelos Decretos-Leis n.os 253-A/88, de 18 de Julho, 401/88, de 9 de Novembro, e 217/89, de 3 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nO Governo é constituído pelo Primeiro-Ministro, pelos ministros, pelos secretários de Estado e pelos subsecretários de Estado.\n\nArt. 2.º Integram o Governo os seguintes ministros:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) Ministro do Ambiente e dos Recursos Naturais.\n\nArt. 3.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\na) ...\n\nb) ...\n\nc) Diário de Notícias, E. P.\n\nArt. 4.º - 1 - A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro da Presidência, do Ministro dos Assuntos Parlamentares e do Ministro Adjunto e da Juventude.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Secretário de Estado Adjunto do Ministro dos Assuntos Parlamentares;\n\nf) Secretário de Estado da Juventude;\n\ng) Subsecretário de Estado da Presidência do Conselho de Ministros.\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Instituto da Juventude;\n\ng) ...\n\nh) ...\n\ni) Centro de Gestão da Rede Informática do Governo;\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\n4 - ...\n\nArt. 6.º - 1 - ...\n\n2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Subsecretário de Estado da Presidência do Conselho de Ministros.\n\nArt. 7.º - 1 - Ao Ministro dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos, exercendo ainda os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - O Ministro dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro dos Assuntos Parlamentares.\n\nArt. 8.º - 1 - ...\n\n2 - O Ministro Adjunto e da Juventude é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e da Juventude e pelo Secretário de Estado da Juventude.\n\n3 - O Instituto da Juventude e o Gabinete do Serviço Cívico dos Objectores de Consciência dependem directamente do Ministro Adjunto e da Juventude.\n\nArt. 10.º - 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Orçamento, pelo Secretário de Estado do Tesouro e pelo Secretário de Estado das Finanças.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nArt. 11.º - 1 - O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Local e do Ordenamento do Território, pelo Secretário de Estado do Planeamento e do Desenvolvimento Regional e pelo Secretário de Estado da Ciência e Tecnologia.\n\n2 - ...\n\na) ...\n\nb) Instituto Geográfico e Cadastral;\n\nc) Instituto Nacional de Estatística;\n\nd) Instituto de Investigação Científica Tropical;\n\ne) Instituto António Sérgio do Sector Cooperativo;\n\nf) Junta Nacional de Investigação Científica e Tecnológica.\n\nArt. 12.º O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.\n\nArt. 13.º O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Justiça e pelo Secretário de Estado da Administração Judiciária.\n\nArt. 15.º - 1 - O Ministro da Agricultura, Pescas e Alimentação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado da Alimentação e pelo Secretário de Estado das Pescas.\n\n2 - ...\n\nArt. 18.º O Ministro das Obras Públicas, Transportes e Comunicações é coadjuvado no exercício das suas funções pelo Secretário de Estado da Construção e Vias Terrestres, pelo Secretário de Estado dos Transportes Exteriores, pelo Secretário de Estado da Habitação e dos Transportes Interiores e pelo Secretário de Estado Adjunto e das Comunicações.\n\nArt. 22.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O Ministro da Saúde e o Ministro do Ambiente e dos Recursos Naturais exercem conjuntamente a tutela sobre o Conselho de Prevenção do Tabagismo.\n\n5 - O Ministro da Defesa Nacional e o Ministro do Ambiente e dos Recursos Naturais exercem conjuntamente a tutela sobre a Comissão Nacional contra a Poluição do Mar.\n\n6 - O Ministro do Planeamento e da Administração do Território e o Ministro do Ambiente e dos Recursos Naturais exercem conjuntamente a tutela sobre as comissões de coordenação regional, em matérias ligadas ao ambiente e recursos naturais, até à estruturação orgânica do Ministério do Ambiente e dos Recursos Naturais.\n\nArt. 24.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArt. 25.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, o Ministro da Presidência, o Ministro dos Assuntos Parlamentares, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, Pescas e Alimentação, o Ministro da Indústria e Energia, o Ministro das Obras Públicas, Transportes e Comunicações, o Ministro do Emprego e da Segurança Social, o Ministro do Comércio e Turismo e o Ministro do Ambiente e dos Recursos Naturais.\n\n2 - ...\n\n3 - ...\n\nArt. 28.º - 1 - ...\n\n2 - ...\n\n3 - A Secretaria-Geral, o Gabinete de Estudos e Planeamento da Administração do Território e a Auditoria Jurídica do Ministério do Planeamento e da Administração do Território asseguram, até à entrada em vigor do diploma que estabeleça a estrutura orgânica do novo Ministério do Ambiente e dos Recursos Naturais, o respectivo apoio técnico-administrativo, ficando, durante esse período transitório, na dependência conjunta dos respectivos ministros.\n\n4 - O pessoal do quadro único do Ministério do Planeamento e da Administração do Território afecto aos serviços que passaram a integrar o Ministério do Ambiente e dos Recursos Naturais mantém-se nos mesmos serviços, sem perda de quaisquer direitos.\n\nArt. 31.º O Conselho Superior de Obras Públicas e Transportes detém as competências para se pronunciar sobre os problemas técnicos e económicos do Ministério do Planeamento e da Administração do Território, do Ministério da Educação, do Ministério das Obras Públicas, Transportes e Comunicações, do Ministério da Saúde e do Ministério do Ambiente e dos Recursos Naturais, nos termos do disposto no Decreto-Lei n.º 488/71, de 9 de Novembro, que os respectivos ministros lhe submeterem.»"
+  },
+  "160900834": {
+   "fragment_id": "160900533",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão aditados ao Decreto-Lei n.º 329/87, de 23 de Setembro, os artigos 21.º-A e 26.º-A, com a seguinte redacção:\n\nArt. 21.º-A - 1 - O Ministro do Ambiente e dos Recursos Naturais é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ambiente e Defesa do Consumidor.\n\n2 - O Ministro do Ambiente e dos Recursos Naturais exerce a tutela sobre a Empresa Pública das Águas Livres, E. P.\n\n3 - Ficam integrados ou dependentes do Ministério do Ambiente e dos Recursos Naturais os seguintes serviços e organismos, anteriormente integrados ou dependentes do Ministério do Planeamento e da Administração do Território:\n\na) Direcção-Geral da Qualidade do Ambiente;\n\nb) Direcção-Geral dos Recursos Naturais;\n\nc) Serviço Natural de Parques, Reservas e Conservação da Natureza;\n\nd) Instituto Nacional do Ambiente:\n\ne) Instituto Nacional da Defesa do Consumidor;\n\nf) Gabinete de Protecção e Segurança Nuclear;\n\ng) Gabinete de Saneamento Básico da Costa do Estoril;\n\nh) Área de Paisagem Protegida Sintra/Cascais;\n\ni) Conselho de Publicidade;\n\nj) Comissão Interministerial do Ambiente e dos Recursos Naturais.\n\nArt. 26.º-A - 1 - É criado o Conselho de Ministros para os Assuntos Comunitários, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros, pelos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e pelo Secretário de Estado da Integração Europeia ou pelo membro do Governo que, não sendo ministro, tenha a seu cargo a integração europeia.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - O Conselho de Ministros para os Assuntos Comunitários realiza a coordenação política global nas vertentes interna e externa, no quadro da participação de Portugal na Comunidade Europeia, competindo-lhe, nomeadamente:\n\na) Estabelecer as grandes linhas de orientação política de integração europeia;\n\nb) Assegurar a coordenação, a nível político, das matérias de maior relevância no domínio comunitário;\n\nc) Acompanhar, de um modo geral, a evolução da integração europeia;\n\nd) Aprovar o relatório anual relativo ao processo da integração europeia;\n\ne) Discutir todas as matérias que lhe sejam submetidas pelo Primeiro-Ministro."
+  },
+  "160900835": {
+   "fragment_id": "160900534",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma produz efeitos desde 5 de Janeiro de 1990."
+  },
+  "160900830": {
+   "fragment_id": "160900529",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 94/90\n\nde 20 de Março\n\nA reestruturação da organização interna e a recomposição do XI Governo implicam a adaptação de várias normas da sua Lei Orgânica, aprovada pelo Decreto-Lei n.º 329/87, de 23 de Setembro.\n\nAssim:\n\nNos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "923028732": {
+   "fragment_id": "160900530",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1990-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º, 18.º, 22.º, 24.º, 25.º, 28.º, e 31.º do Decreto-Lei n.º 329/87, de 23 de Setembro, com a forma que lhe foi dada pelos Decretos-Leis n.os 253-A/88, de 18 de Julho, 401/88, de 9 de Novembro, e 217/89, de 3 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nO Governo é constituído pelo Primeiro-Ministro, pelos ministros, pelos secretários de Estado e pelos subsecretários de Estado.\n\nArt. 2.º Integram o Governo os seguintes ministros:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) Ministro do Ambiente e Recursos Naturais.\n\nArt. 3.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\na) ...\n\nb) ...\n\nc) Diário de Notícias, E. P.\n\nArt. 4.º - 1 - A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro da Presidência, do Ministro dos Assuntos Parlamentares e do Ministro Adjunto e da Juventude.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Secretário de Estado Adjunto do Ministro dos Assuntos Parlamentares;\n\nf) Secretário de Estado da Juventude;\n\ng) Subsecretário de Estado da Presidência do Conselho de Ministros.\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Instituto da Juventude;\n\ng) ...\n\nh) ...\n\ni) Centro de Gestão da Rede Informática do Governo;\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\n4 - ...\n\nArt. 6.º - 1 - ...\n\n2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Subsecretário de Estado da Presidência do Conselho de Ministros.\n\nArt. 7.º - 1 - Ao Ministro dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos, exercendo ainda os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - O Ministro dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro dos Assuntos Parlamentares.\n\nArt. 8.º - 1 - ...\n\n2 - O Ministro Adjunto e da Juventude é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e da Juventude e pelo Secretário de Estado da Juventude.\n\n3 - O Instituto da Juventude e o Gabinete do Serviço Cívico dos Objectores de Consciência dependem directamente do Ministro Adjunto e da Juventude.\n\nArt. 10.º - 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Orçamento, pelo Secretário de Estado do Tesouro e pelo Secretário de Estado das Finanças.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nArt. 11.º - 1 - O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Local e do Ordenamento do Território, pelo Secretário de Estado do Planeamento e do Desenvolvimento Regional e pelo Secretário de Estado da Ciência e Tecnologia.\n\n2 - ...\n\na) ...\n\nb) Instituto Geográfico e Cadastral;\n\nc) Instituto Nacional de Estatística;\n\nd) Instituto de Investigação Científica Tropical;\n\ne) Instituto António Sérgio do Sector Cooperativo;\n\nf) Junta Nacional de Investigação Científica e Tecnológica.\n\nArt. 12.º O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.\n\nArt. 13.º O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Justiça e pelo Secretário de Estado da Administração Judiciária.\n\nArt. 15.º - 1 - O Ministro da Agricultura, Pescas e Alimentação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado da Alimentação e pelo Secretário de Estado das Pescas.\n\n2 - ...\n\nArt. 18.º O Ministro das Obras Públicas, Transportes e Comunicações é coadjuvado no exercício das suas funções pelo Secretário de Estado da Construção e Vias Terrestres, pelo Secretário de Estado dos Transportes Exteriores, pelo Secretário de Estado da Habitação e dos Transportes Interiores e pelo Secretário de Estado Adjunto e das Comunicações.\n\nArt. 22.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O Ministro da Saúde e o Ministro do do Ambiente e Recursos Naturais exercem conjuntamente a tutela sobre o Conselho de Prevenção do Tabagismo.\n\n5 - O Ministro da Defesa Nacional e o Ministro do do Ambiente e Recursos Naturais exercem conjuntamente a tutela sobre a Comissão Nacional contra a Poluição do Mar.\n\n6 - O Ministro do Planeamento e da Administração do Território e o Ministro do do Ambiente e Recursos Naturais exercem conjuntamente a tutela sobre as comissões de coordenação regional, em matérias ligadas ao ambiente e recursos naturais, até à estruturação orgânica do Ministério do do Ambiente e Recursos Naturais.\n\nArt. 24.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArt. 25.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, o Ministro da Presidência, o Ministro dos Assuntos Parlamentares, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, Pescas e Alimentação, o Ministro da Indústria e Energia, o Ministro das Obras Públicas, Transportes e Comunicações, o Ministro do Emprego e da Segurança Social, o Ministro do Comércio e Turismo e o Ministro do do Ambiente e Recursos Naturais.\n\n2 - ...\n\n3 - ...\n\nArt. 28.º - 1 - ...\n\n2 - ...\n\n3 - A Secretaria-Geral, o Gabinete de Estudos e Planeamento da Administração do Território e a Auditoria Jurídica do Ministério do Planeamento e da Administração do Território asseguram, até à entrada em vigor do diploma que estabeleça a estrutura orgânica do novo Ministério do do Ambiente e Recursos Naturais, o respectivo apoio técnico-administrativo, ficando, durante esse período transitório, na dependência conjunta dos respectivos ministros.\n\n4 - O pessoal do quadro único do Ministério do Planeamento e da Administração do Território afecto aos serviços que passaram a integrar o Ministério do do Ambiente e Recursos Naturais mantém-se nos mesmos serviços, sem perda de quaisquer direitos.\n\nArt. 31.º O Conselho Superior de Obras Públicas e Transportes detém as competências para se pronunciar sobre os problemas técnicos e económicos do Ministério do Planeamento e da Administração do Território, do Ministério da Educação, do Ministério das Obras Públicas, Transportes e Comunicações, do Ministério da Saúde e do Ministério dodo Ambiente e Recursos Naturais, nos termos do disposto no Decreto-Lei n.º 488/71, de 9 de Novembro, que os respectivos ministros lhe submeterem.»\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  },
+  "923033141": {
+   "fragment_id": "160900533",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1990-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nSão aditados ao Decreto-Lei n.º 329/87, de 23 de Setembro, os artigos 21.º-A e 26.º-A, com a seguinte redacção:\n\nArt. 21.º-A - 1 - O Ministro do Ambiente e Recursos Naturais é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ambiente e Defesa do Consumidor.\n\n2 - O Ministro do Ambiente e Recursos Naturais exerce a tutela sobre a Empresa Pública das Águas Livres, E. P.\n\n3 - Ficam integrados ou dependentes do Ministério do Ambiente e Recursos Naturais os seguintes serviços e organismos, anteriormente integrados ou dependentes do Ministério do Planeamento e da Administração do Território:\n\na) Direcção-Geral da Qualidade do Ambiente;\n\nb) Direcção-Geral dos Recursos Naturais;\n\nc) Serviço Natural de Parques, Reservas e Conservação da Natureza;\n\nd) Instituto Nacional do Ambiente:\n\ne) Instituto Nacional da Defesa do Consumidor;\n\nf) Gabinete de Protecção e Segurança Nuclear;\n\ng) Gabinete de Saneamento Básico da Costa do Estoril;\n\nh) Área de Paisagem Protegida Sintra/Cascais;\n\ni) Conselho de Publicidade;\n\nj) Comissão Interministerial do Ambiente e Recursos Naturais.\n\nArt. 26.º-A - 1 - É criado o Conselho de Ministros para os Assuntos Comunitários, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros, pelos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e pelo Secretário de Estado da Integração Europeia ou pelo membro do Governo que, não sendo ministro, tenha a seu cargo a integração europeia.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - O Conselho de Ministros para os Assuntos Comunitários realiza a coordenação política global nas vertentes interna e externa, no quadro da participação de Portugal na Comunidade Europeia, competindo-lhe, nomeadamente:\n\na) Estabelecer as grandes linhas de orientação política de integração europeia;\n\nb) Assegurar a coordenação, a nível político, das matérias de maior relevância no domínio comunitário;\n\nc) Acompanhar, de um modo geral, a evolução da integração europeia;\n\nd) Aprovar o relatório anual relativo ao processo da integração europeia;\n\ne) Discutir todas as matérias que lhe sejam submetidas pelo Primeiro-Ministro.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  },
+  "923028730": {
+   "fragment_id": "922901865",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ revogado o artigo 5.º do Decreto-Lei n.º 329/87, de 23 de Setembro."
+  },
+  "923028733": {
+   "fragment_id": "922901866",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1990-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O Ministro das Finanças providenciará a efectiva transferência das verbas necessárias ao funcionamento dos novos gabinetes de membros do Governo.\n\n2 - Os encargos relativos aos serviços e organismos que transitam do Ministério do Planeamento e da Administração do Território para o Ministério do Ambiente e Recursos Naturais continuam a ser processados por conta das verbas que lhes estão afectas.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  },
+  "923028734": {
+   "fragment_id": "160900535",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1990-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eugénio Manuel dos Santos Ramos - Manuel Joaquim Dias Loureiro - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira - Joaquim Fernando Nogueira - José Manuel Durão Barroso - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos - Fernando Nunes Ferreira Real.\n\nPromulgado em 6 de Março de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Março de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  },
+  "923294286": {
+   "fragment_id": "160900530",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28",
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 15.º, 18.º, 22.º, 24.º, 25.º, 28.º, e 31.º do Decreto-Lei n.º 329/87, de 23 de Setembro, com a forma que lhe foi dada pelos Decretos-Leis n.os 253-A/88, de 18 de Julho, 401/88, de 9 de Novembro, e 217/89, de 3 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nO Governo é constituído pelo Primeiro-Ministro, pelos ministros, pelos secretários de Estado e pelos subsecretários de Estado.\n\nArt. 2.º Integram o Governo os seguintes ministros:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) Ministro do Ambiente e Recursos Naturais.\n\nArt. 3.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\na) ...\n\nb) ...\n\nc) Diário de Notícias, E. P.\n\nArt. 4.º - 1 - A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro da Presidência, do Ministro dos Assuntos Parlamentares e do Ministro Adjunto e da Juventude.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Secretário de Estado Adjunto do Ministro dos Assuntos Parlamentares;\n\nf) Secretário de Estado da Juventude;\n\ng) Subsecretário de Estado da Presidência do Conselho de Ministros.\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Instituto da Juventude;\n\ng) ...\n\nh) ...\n\ni) Centro de Gestão da Rede Informática do Governo;\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\n4 - ...\n\nArt. 6.º - 1 - ...\n\n2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Subsecretário de Estado da Presidência do Conselho de Ministros.\n\nArt. 7.º - 1 - Ao Ministro dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos, exercendo ainda os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - O Ministro dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro dos Assuntos Parlamentares.\n\nArt. 8.º - 1 - ...\n\n2 - O Ministro Adjunto e da Juventude é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e da Juventude e pelo Secretário de Estado da Juventude.\n\n3 - O Instituto da Juventude e o Gabinete do Serviço Cívico dos Objectores de Consciência dependem directamente do Ministro Adjunto e da Juventude.\n\nArt. 10.º - 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Orçamento, pelo Secretário de Estado do Tesouro e pelo Secretário de Estado das Finanças.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nArt. 11.º - 1 - O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Local e do Ordenamento do Território, pelo Secretário de Estado do Planeamento e do Desenvolvimento Regional e pelo Secretário de Estado da Ciência e Tecnologia.\n\n2 - ...\n\na) ...\n\nb) Instituto Geográfico e Cadastral;\n\nc) Instituto Nacional de Estatística;\n\nd) Instituto de Investigação Científica Tropical;\n\ne) Instituto António Sérgio do Sector Cooperativo;\n\nf) Junta Nacional de Investigação Científica e Tecnológica.\n\nArt. 12.º O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.\n\nArt. 13.º O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Justiça e pelo Secretário de Estado da Administração Judiciária.\n\nArt. 15.º - 1 - O Ministro da Agricultura, Pescas e Alimentação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado da Alimentação e pelo Secretário de Estado das Pescas.\n\n2 - ...\n\nArt. 18.º O Ministro das Obras Públicas, Transportes e Comunicações é coadjuvado no exercício das suas funções pelo Secretário de Estado da Construção e Vias Terrestres, pelo Secretário de Estado dos Transportes Exteriores, pelo Secretário de Estado da Habitação e dos Transportes Interiores e pelo Secretário de Estado Adjunto e das Comunicações.\n\nArt. 22.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O Ministro da Saúde e o Ministro do do Ambiente e Recursos Naturais exercem conjuntamente a tutela sobre o Conselho de Prevenção do Tabagismo.\n\n5 - O Ministro da Defesa Nacional e o Ministro do do Ambiente e Recursos Naturais exercem conjuntamente a tutela sobre a Comissão Nacional contra a Poluição do Mar.\n\n6 - O Ministro do Planeamento e da Administração do Território e o Ministro do do Ambiente e Recursos Naturais exercem conjuntamente a tutela sobre as comissões de coordenação regional, em matérias ligadas ao ambiente e recursos naturais, até à estruturação orgânica do Ministério do do Ambiente e Recursos Naturais.\n\nArt. 24.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArt. 25.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, o Ministro da Presidência, o Ministro dos Assuntos Parlamentares, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, Pescas e Alimentação, o Ministro da Indústria e Energia, o Ministro das Obras Públicas, Transportes e Comunicações, o Ministro do Emprego e da Segurança Social, o Ministro do Comércio e Turismo e o Ministro do do Ambiente e Recursos Naturais.\n\n2 - ...\n\n3 - ...\n\nArt. 28.º - 1 - ...\n\n2 - ...\n\n3 - A Secretaria-Geral, o Gabinete de Estudos e Planeamento da Administração do Território e a Auditoria Jurídica do Ministério do Planeamento e da Administração do Território asseguram, até à entrada em vigor do diploma que estabeleça a estrutura orgânica do novo Ministério do do Ambiente e Recursos Naturais, o respectivo apoio técnico-administrativo, ficando, durante esse período transitório, na dependência conjunta dos respectivos ministros.\n\n4 - O pessoal do quadro único do Ministério do Planeamento e da Administração do Território afecto aos serviços que passaram a integrar o Ministério do do Ambiente e Recursos Naturais mantém-se nos mesmos serviços, sem perda de quaisquer direitos.\n\nArt. 31.º O Conselho Superior de Obras Públicas e Transportes detém as competências para se pronunciar sobre os problemas técnicos e económicos do Ministério do Planeamento e da Administração do Território, do Ministério da Educação, do Ministério das Obras Públicas, Transportes e Comunicações, do Ministério da Saúde e do Ministério dodo Ambiente e Recursos Naturais, nos termos do disposto no Decreto-Lei n.º 488/71, de 9 de Novembro, que os respectivos ministros lhe submeterem.»\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  },
+  "923294287": {
+   "fragment_id": "160900533",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28",
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nSão aditados ao Decreto-Lei n.º 329/87, de 23 de Setembro, os artigos 21.º-A e 26.º-A, com a seguinte redacção:\n\nArt. 21.º-A - 1 - O Ministro do Ambiente e Recursos Naturais é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ambiente e Defesa do Consumidor.\n\n2 - O Ministro do Ambiente e Recursos Naturais exerce a tutela sobre a Empresa Pública das Águas Livres, E. P.\n\n3 - Ficam integrados ou dependentes do Ministério do Ambiente e Recursos Naturais os seguintes serviços e organismos, anteriormente integrados ou dependentes do Ministério do Planeamento e da Administração do Território:\n\na) Direcção-Geral da Qualidade do Ambiente;\n\nb) Direcção-Geral dos Recursos Naturais;\n\nc) Serviço Natural de Parques, Reservas e Conservação da Natureza;\n\nd) Instituto Nacional do Ambiente:\n\ne) Instituto Nacional da Defesa do Consumidor;\n\nf) Gabinete de Protecção e Segurança Nuclear;\n\ng) Gabinete de Saneamento Básico da Costa do Estoril;\n\nh) Área de Paisagem Protegida Sintra/Cascais;\n\ni) Conselho de Publicidade;\n\nj) Comissão Interministerial do Ambiente e Recursos Naturais.\n\nArt. 26.º-A - 1 - É criado o Conselho de Ministros para os Assuntos Comunitários, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros, pelos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e pelo Secretário de Estado da Integração Europeia ou pelo membro do Governo que, não sendo ministro, tenha a seu cargo a integração europeia.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - O Conselho de Ministros para os Assuntos Comunitários realiza a coordenação política global nas vertentes interna e externa, no quadro da participação de Portugal na Comunidade Europeia, competindo-lhe, nomeadamente:\n\na) Estabelecer as grandes linhas de orientação política de integração europeia;\n\nb) Assegurar a coordenação, a nível político, das matérias de maior relevância no domínio comunitário;\n\nc) Acompanhar, de um modo geral, a evolução da integração europeia;\n\nd) Aprovar o relatório anual relativo ao processo da integração europeia;\n\ne) Discutir todas as matérias que lhe sejam submetidas pelo Primeiro-Ministro.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  },
+  "923294288": {
+   "fragment_id": "922901865",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nÉ revogado o artigo 5.º do Decreto-Lei n.º 329/87, de 23 de Setembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28"
+  },
+  "923294289": {
+   "fragment_id": "922901866",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28",
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O Ministro das Finanças providenciará a efectiva transferência das verbas necessárias ao funcionamento dos novos gabinetes de membros do Governo.\n\n2 - Os encargos relativos aos serviços e organismos que transitam do Ministério do Planeamento e da Administração do Território para o Ministério do Ambiente e Recursos Naturais continuam a ser processados por conta das verbas que lhes estão afectas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  },
+  "923294290": {
+   "fragment_id": "160900534",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma produz efeitos desde 5 de Janeiro de 1990.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28"
+  },
+  "923294291": {
+   "fragment_id": "160900535",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28",
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eugénio Manuel dos Santos Ramos - Manuel Joaquim Dias Loureiro - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira - Joaquim Fernando Nogueira - José Manuel Durão Barroso - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos - Fernando Nunes Ferreira Real.\n\nPromulgado em 6 de Março de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Março de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2025-03-28\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182449), em vigor a partir de 1990-04-30"
+  }
+ }
+}

@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:435867:por
+title: Decreto Regulamentar Regional n.º 2/2000/A
+short_title: null
+summary: Define normas relativas à criação de incentivos à fixação de pessoal docente
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Secretaria Regional da Educação e Assuntos Sociais
+proposing_entity: null
+official_number: 2/2000/A
+official_date: null
+publication_date: '2000-01-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/2000, Série I-B de 2000-01-22
+  number: '18'
+  series: I
+  supplement: null
+  pages: 228 - 229
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/01/018b00/02280229.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/2/2000/01/22/a/dre/pt/html
+  oj: null
+  dre: '435867'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/2-2000-435867
+  internal: pt:dre:435867:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2000-435867
+  metadata_url: https://data.dre.pt/eli/decregulreg/2/2000/01/22/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2000-435867
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-04-20T00:00:00Z'
+integrity:
+  source_sha256: c3b79bdb94e216d89b3e36b8627ea6a2bf5f6436fe890f4c41f8fd56368b4c0c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2000/DRE-2000-2-435867.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Tempo de Serviço
+- Formação Profissional
+- Educador de Infância
+- JURO Bonificado
+- Pessoal Docente
+- Ensino Básico
+- Habitação
+- Açores
+- Subsídio de Fixação
+relationships:
+- type: amended_by
+  target: pt:dre:603770:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/16/1998/11/06/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/16/1998/11/06/a/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 2/2000/A
+
+O regime de incentivos à fixação de docentes em vigor foi criado num período de grande expansão da rede escolar durante o qual o número de docentes era claramente insuficiente. Interessava trazer até às escolas dos Açores os docentes necessários, não sendo então a estabilidade do corpo docente considerada uma prioridade. A evolução entretanto verificada no mercado de trabalho, com a crescente disponibilidade de recursos humanos habilitados para a docência, e a evolução verificada nas escolas, com clara aposta na qualidade pedagógica, algo que só pode ser atingido com um corpo docente estável e devidamente habilitado, implicam uma profunda alteração na filosofia que preside ao estabelecimento do regime de incentivos à fixação.
+
+Neste novo enquadramento há que privilegiar a estabilidade do corpo docente, abandonando-se os incentivos à mobilidade e criando-se um sistema que premeie aqueles docentes que queiram fixar-se por períodos longos nas áreas consideradas carenciadas. A criação de incentivos para fixar docentes em determinadas zonas, considerando as realidades actuais da Região, é um passo determinante para a melhoria da qualidade pedagógica do sistema educativo, pelo que, ao adaptar-se à Região a alteração do Estatuto da Carreira Docente, através do [Decreto Legislativo Regional n.º 16/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1998-223192), de 6 de Novembro, ficou, desde logo, contemplado que, por decreto regulamentar regional, seriam definidos os subsídios e outros benefícios de carácter não remuneratório destinados a criar condições de fixação de docentes.
+
+Com efeito, a situação actual de acentuada mobilidade de docentes prejudica a qualidade do ensino na medida em que é um forte constrangimento à personalização e humanização da escola, gerando impedimentos à prossecução integral dos projectos educativos planeados para vários anos lectivos.
+
+Os subsídios actuais constam de regulamentação que se ancorou em «lei geral», designadamente o [Decreto Legislativo Regional n.º 2/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1984-660284), de 13 de Janeiro, e não contempla as necessárias especificidades que decorrem do exercício da docência, com particularidades muito próprias, desde logo no recrutamento de pessoal, o que não acontece em geral com outras carreiras profissionais. Essa regulamentação, no que se refere ao subsídio de fixação, nunca cumpriu o fixado no [Decreto Legislativo Regional n.º 2/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1984-660284), de 13 de Janeiro, relativamente ao carácter periódico que deve presidir à sua atribuição, devidamente adequado às reais condições do mercado de trabalho.
+
+Por outro lado, os motivos que levaram à atribuição de subsídios de fixação, que tiveram por base a carência de docentes em determinadas ilhas e concelhos, derivada sobretudo do isolamento, alteraram-se substancialmente com o alargamento dos meios de comunicação e com as ligações aéreas entre todas as ilhas.
+
+Também interessa alterar a situação dos docentes a quem, por acumularem com outra actividade, docente ou não, lhes é suspenso o abono do subsídio de fixação.
+
+Pretende-se, pois, definir a atribuição de um subsídio de fixação por períodos de três anos escolares, bem como fixar incentivos de carácter não remuneratório, em função da carência de docentes em determinadas ilhas, concelhos ou grupos disciplinares, privilegiando aqueles docentes que optem pela permanência nas escolas que apresentem tais carências.
+
+Assim, ao abrigo do disposto no artigo 63.º do Estatuto da Carreira Docente, na redacção dada pelo [Decreto Legislativo Regional n.º 16/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1998-223192), de 6 de Novembro, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+1 - Os incentivos criados pelo presente diploma destinam-se a educadores de infância e professores dos ensinos básico e secundário, dos quadros de escola e de zona pedagógica, desde que os mesmos se encontrem no desempenho efectivo de funções lectivas ou integrem o órgão executivo da respectiva escola.
+
+2 - Poderão também ser abrangidos docentes contratados, portadores de habilitação própria ou profissional, em situações excepcionais, definidas como tal por portaria do Secretário com tutela da educação.
+
+###### Artigo 2.º — Incentivos à estabilidade
+
+Constituem incentivos à estabilidade do pessoal docente:
+
+a) Subsídio de fixação;
+
+b) Bonificação de juros bancários;
+
+c) Acesso prioritário à formação;
+
+d) Compensação de tempo de serviço.
+
+###### Artigo 3.º — Subsídio de fixação
+
+1 - A atribuição do subsídio de fixação faz-se por módulos de três anos, de acordo com o disposto no número seguinte.
+
+2 - O subsídio de fixação corresponde a 25%, 35% e 45% do índice 108 do estatuto remuneratório da carreira de educadores de infância e professores dos ensinos básico e secundário.
+
+3 - Nos anos referentes ao primeiro módulo, o subsídio corresponde a 25%, sendo de 35% para o segundo módulo e de 45% para o terceiro módulo e seguintes.
+
+###### Artigo 4.º — Bonificação de juros bancários
+
+1 - Serão concedidas bonificações nos juros bancários em empréstimos para aquisição e ou beneficiação de casa própria, que constitua a residência permanente do docente, quando a mesma se localize na área do território educativo de influência da escola, excepto para as escolas situadas em cidades, para as quais o limite será o concelho.
+
+2 - A comparticipação da Região corresponde à taxa Lisbor a seis meses, taxa esta a substituir, aquando da sua implementação, pela Eurobor correspondente.
+
+3 - O valor a bonificar não pode ser superior a 20000 contos e a bonificação será concedida pelo período máximo de 15 anos.
+
+4 - A bonificação prevista no presente artigo apenas pode ser utilizada uma vez por cada docente ou casal de docentes.
+
+5 - A casa abrangida pelo disposto no presente artigo não poderá ser vendida antes de decorridos cinco anos após o termo da bonificação, excepto se forem integralmente devolvidas as quantias recebidas a título de bonificação.
+
+6 - O disposto no número anterior deve constar do registo do imóvel.
+
+###### Artigo 5.º — Prioridade na formação
+
+Em caso de igualdade para o acesso à formação, preferem os docentes abrangidos pelo presente diploma.
+
+###### Artigo 6.º — Compensação de tempo de serviço
+
+Para além do subsídio de fixação, os docentes que durante três anos lectivos consecutivos não concorram ao concurso interno, mantendo-se no mesmo quadro de escola ou de zona pedagógica, beneficiam de uma bonificação de 2 valores a somar à respectiva graduação profissional, para valer só para aquele concurso.
+
+###### Artigo 7.º — Incidência de incentivos
+
+1 - No 1.º trimestre de cada ano escolar, o Secretário Regional com tutela na educação, ouvidos os conselhos locais de educação, definirá, por portaria, quais os níveis de ensino ou grupos de docência mais carenciados, bem como as escolas, concelhos ou ilhas a abranger pelos incentivos à estabilidade no ano escolar seguinte.
+
+2 - Constitui indicador de nível de ensino ou grupo de docência carenciados, designadamente, a relação entre candidatos aos concursos e os lugares vagos dos quadros inferior a 1,25, em média em três anos sucessivos, e dois anos consecutivos de acumulação ou de contratação, consoante se trate, respectivamente, da educação pré-escolar e do 1.º ciclo do ensino básico ou dos 2.º e 3.º ciclos do ensino básico e do ensino secundário.
+
+3 - Constitui ainda indicador de nível de ensino ou grupo de docência carenciado uma taxa de mobilidade, definida como a razão entre o número de professores que abandonam a escola e os que ficam na escola, superior a 50% ao longo de três anos consecutivos.
+
+4 - Podem ainda ser acordados com o respectivo conselho local de educação outros indicadores aplicáveis apenas a uma ou mais escolas que apresentem características específicas.
+
+###### Artigo 8.º — Cumprimento
+
+1 - Para aceder aos incentivos previstos no presente diploma, no boletim de concurso o docente deve declarar, em local apropriado, que opta por permanecer na escola onde obtiver colocação durante três anos.
+
+2 - O docente que opte nos termos do número anterior fica impossibilitado de se propor a qualquer instrumento de mobilidade.
+
+3 - O não cumprimento determina o devolução, no prazo máximo de 90 dias após notificação, das quantias de subsídio já recebidas a qualquer título.
+
+4 - A não devolução implica a cobrança coerciva nos termos legalmente estabelecidos para as execuções fiscais.
+
+###### Artigo 9.º — Norma transitória
+
+1 - Sem prejuízo do disposto no número seguinte, os docentes que vêm recebendo subsídio de fixação ao abrigo da Resolução n.º 120/86, de 8 de Julho, passam a ser abrangidos pela disciplina constante do presente diploma a partir do corrente ano escolar.
+
+2 - A atribuição do subsídio de fixação aos docentes que dele vinham beneficiando, desde que o docente permaneça na mesma escola, mantém-se durante cinco anos escolares, a contar da data de entrada em vigor do presente diploma.
+
+3 - Se o nível de ensino ou grupo de docência se mantiver carenciado, decorrido o prazo de cinco anos referido no n.º 2, o docente continua abrangido pelos incentivos à estabilidade, correspondendo o subsídio a atribuir ao terceiro módulo, de acordo com o n.º 3 do artigo 3.º do presente diploma.
+
+4 - Até 180 dias após a entrada em vigor do presente diploma podem os docentes a que se refere o n.º 2 deste artigo optar pela utilização do regime de bonificação de juros para aquisição e ou beneficiação de casa própria estabelecido no artigo 4.º, ficando desde logo abrangidos pelo regime de incentivos agora criado, sendo o subsídio a atribuir correspondente ao número de anos de serviço que o docente já tenha prestado na escola onde se encontre.
+
+5 - Podem ainda aceder ao regime de bonificação de juros, nos termos estabelecidos no artigo 4.º do presente diploma, os educadores de infância e os professores do 1.º ciclo do ensino básico que à data de entrada em vigor do presente diploma prestem serviço nas escolas localizadas em qualquer dos concelhos onde seja aplicável o regime de incentivos ora extinto.
+
+###### Artigo 10.º — Norma final
+
+As dúvidas que surjam com a aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da tutela da educação.
+
+Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 2 de Dezembro de 1999.
+
+**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+
+**Assinado em Angra do Heroísmo em 23 de Dezembro de 1999.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**

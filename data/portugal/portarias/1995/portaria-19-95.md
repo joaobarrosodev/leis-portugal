@@ -1,0 +1,309 @@
+---
+schema_version: '1.0'
+id: pt:dre:366816:por
+title: Portaria n.º 19/95
+short_title: null
+summary: Aprova o Regulamento do Conselho Geral do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho (IDICT)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 19/95
+official_date: null
+publication_date: '1995-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/1995, Série I-B de 1995-01-07
+  number: '6'
+  series: I
+  supplement: null
+  pages: 82 - 84
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/01/006b00/00820084.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/19/1995/01/07/p/dre/pt/html
+  oj: null
+  dre: '366816'
+  dre_path: /dr/detalhe/portaria/19-1995-366816
+  internal: pt:dre:366816:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-1995-366816
+  metadata_url: https://data.dre.pt/eli/port/19/1995/01/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-1995-366816
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-01-07T00:00:00Z'
+integrity:
+  source_sha256: 185da30c95c42fac0f8110145ff9a028ffb59052643a92932744824f6dffcaed
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-19-366816.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Geral
+- Definição de Competências
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
+article_structure:
+  article_count: 23
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19/95
+
+de 7 de Janeiro
+
+O conselho geral do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho (IDICT) tem competência para elaborar a proposta do seu regulamento interno, cabendo ao Ministro do Emprego e da Segurança Social proceder à sua aprovação por portaria. No uso desta sua competência, o conselho geral do IDICT, nas suas reuniões de 14 de Julho, 9 de Agosto e 16 de Setembro de 1994, elaborou o regulamento que agora se aprova.
+
+Assim, nos termos do n.º 6 do artigo 8.º do [Decreto-Lei n.º 219/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1993-265699), de 16 de Junho:
+
+Manda o Governo, pelo Ministro do Emprego e da Segurança Social, que seja aprovado o Regulamento do Conselho Geral do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, que constitui o anexo à presente portaria.
+
+Ministério do Emprego e da Segurança Social.
+
+**Assinada em 9 de Dezembro de 1994.**
+
+**O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.**
+
+## ANEXO — Regulamento do Conselho Geral do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento contém as disposições por que se rege o conselho geral do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho (IDICT).
+
+###### Artigo 2.º — Natureza e composição
+
+1 - O conselho geral, de composição tripartida, integra:
+
+a) O presidente da direcção do IDICT;
+
+b) Um representante do Ministro da Agricultura;
+
+c) Um representante do Ministro da Indústria e Energia;
+
+d) Um representante do Ministro da Educação;
+
+e) Um representante do Ministro da Saúde;
+
+f) Um representante do Ministro do Emprego e da Segurança Social;
+
+g) Um representante do Ministro do Comércio e Turismo;
+
+h) Um representante do Ministro do Ambiente e Recursos Naturais;
+
+i) Quatro representantes das confederações sindicais;
+
+j) Quatro representantes das confederações patronais.
+
+2 - Os membros do conselho geral são nomeados por despacho do Ministro do Emprego e da Segurança Social, sob proposta das entidades representadas.
+
+3 - Os membros referidos nas alíneas i) e j) do número anterior serão indicados pelas confederações com assento na Comissão Permanente da Concertação Social.
+
+4 - O conselho geral será ainda integrado por membros suplentes a nomear nos termos previstos no n.º 2.
+
+5 - Os membros suplentes poderão participar nas reuniões do conselho geral conjuntamente com os membros efectivos, embora, nestes casos, sem direito a voto.
+
+###### Artigo 3.º — Competências
+
+1 - O conselho geral tem competência consultiva, sendo obrigatoriamente sujeito a seu parecer:
+
+a) O plano de actividades e o orçamento do ano seguinte;
+
+b) O relatório e contas anual;
+
+c) Os programas de acção e respectivos regulamentos;
+
+d) Os relatórios de actividades.
+
+2 - Os pareceres referidos no número anterior serão emitidos no prazo de 30 dias a contar da data da entrega dos documentos nele referidos aos membros do conselho geral, findo o qual a direcção do IDICT poderá decidir sobre os mesmos.
+
+3 - O conselho geral pode apreciar a actividade desenvolvida pelo IDICT, formular propostas ou sugestões e solicitar esclarecimentos à direcção sobre quaisquer matérias relativas às atribuições do IDICT.
+
+###### Artigo 4.º — Orgânica interna
+
+1 - O conselho geral é dirigido pelo presidente, que é o presidente da direcção do IDICT.
+
+2 - O conselho geral terá ainda um secretário a eleger pelos membros que o compõem de entre os seus pares.
+
+3 - O presidente é substituído por um dos vice-presidentes da direcção do IDICT nas suas ausências e impedimentos relativamente à direcção do Instituto, de acordo com as regras do Código de Procedimento Administrativo.
+
+###### Artigo 5.º — Competências do presidente
+
+Compete ao presidente do conselho geral:
+
+a) Coordenar a actividade do conselho, convocar e presidir às reuniões e fazer cumprir a ordem de trabalhos;
+
+b) Exercer o voto de qualidade em caso de empate nas votações;
+
+c) Assegurar o cumprimento das leis e a regularidade das deliberações;
+
+d) Suspender ou encerrar antecipadamente as reuniões, quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a incluir na acta da reunião.
+
+###### Artigo 6.º — Faltas
+
+As faltas às reuniões dos membros do conselho geral devem, quando previsíveis, ser previamente comunicadas e justificadas ao presidente e, sendo imprevisíveis, logo que possível.
+
+###### Artigo 7.º — Substituições
+
+Quando uma das entidades que compõem o conselho geral não se fizer representar em três reuniões ordinárias seguidas, o presidente promoverá as diligências adequadas para que a entidade se faça representar.
+
+###### Artigo 8.º — Reuniões ordinárias
+
+1 - O conselho geral reúne ordinariamente uma vez por mês, sob convocação do presidente com a antecedência mínima de oito dias, devendo a convocatória mencionar o dia e a hora.
+
+2 - Quaisquer alterações ao dia e à hora fixados para as reuniões devem ser comunicadas a todos os membros do conselho, com a maior antecedência possível, de forma a garantir o seu conhecimento seguro e oportuno.
+
+###### Artigo 9.º — Reuniões extraordinárias
+
+1 - O conselho geral reunirá extraordinariamente sempre que o presidente o convoque:
+
+a) Por iniciativa do presidente;
+
+b) A pedido, por escrito, de pelo menos um terço dos vogais;
+
+c) A pedido, por escrito, do conjunto dos representantes referidos nas alíneas i) ou j) do artigo 2.º
+
+2 - A convocatória da reunião deve ser feita para um dos 15 dias seguintes à apresentação do pedido, mas sempre com a antecedência mínima de quarenta e oito horas sobre a data da reunião extraordinária.
+
+3 - Da convocatória devem constar, de forma expressa e especificada, os assuntos a tratar na reunião.
+
+4 - Nas reuniões extraordinárias, os assuntos a tratar são exclusivamente os constantes da respectiva ordem do dia.
+
+###### Artigo 10.º — Peritos
+
+Para as reuniões do conselho geral podem ser convidados pelo presidente especialistas das áreas que façam parte da ordem de trabalhos, sem direito a voto.
+
+###### Artigo 11.º — Local das reuniões
+
+1 - O conselho geral reunirá, em regra, na sede do IDICT.
+
+2 - O conselho geral poderá reunir em qualquer outro local que se mostre conveniente, desde que o conselho assim o delibere.
+
+###### Artigo 12.º — Ordem do dia
+
+1 - A ordem do dia de cada reunião é estabelecida pelo presidente, devendo incluir os assuntos que para esse fim lhe forem indicados por qualquer vogal, desde que caibam nas competências do conselho e o pedido seja apresentado por escrito com a antecedência mínima de 10 dias úteis sobre a data da reunião.
+
+2 - A ordem do dia deve ser entregue a todos os membros com a antecedência de, pelo menos, cinco dias úteis sobre a data da reunião.
+
+3 - O período antes da ordem do dia não deverá exceder trinta minutos, sendo destinado a:
+
+a) Leitura de expediente;
+
+b) Leitura, discussão e aprovação da acta da reunião anterior;
+
+c) Informação de assuntos de interesse para o conselho.
+
+4 - O presidente, ouvido o conselho geral, poderá prorrogar o período antes da ordem do dia até ao limite de sessenta minutos.
+
+###### Artigo 13.º — Objecto das deliberações
+
+Só podem ser objecto de deliberação os assuntos incluídos na ordem do dia salvo se, tratando-se de reunião ordinária, pelo menos dois terços dos membros presentes reconhecerem a urgência de deliberação imediata sobre outros assuntos.
+
+###### Artigo 14.º — Quórum
+
+1 - O conselho geral só pode deliberar em primeira convocação quando esteja presente a maioria dos seus membros com direito a voto.
+
+2 - Não comparecendo o número de membros exigido, será convocada nova reunião, com intervalo de, pelo menos, setenta e duas horas.
+
+3 - Nesta segunda reunião o conselho poderá deliberar desde que esteja presente um terço dos membros com direito a voto.
+
+###### Artigo 15.º — Delegação de voto
+
+1 - Os membros do conselho podem delegar o seu voto noutro membro do conselho.
+
+2 - Os poderes conferidos para o exercício do direito de voto ao membro mandatário reportam-se a cada reunião convocada e devem constar de credencial escrita e assinada pelo mandante, dirigida ao presidente do conselho geral e da qual se fará expressa menção na acta da reunião.
+
+###### Artigo 16.º — Formas de votação
+
+1 - As deliberações são tomadas por votação nominal.
+
+2 - São tomadas por voto secreto as deliberações que envolvam a apreciação do comportamento ou das qualidades de qualquer pessoa.
+
+###### Artigo 17.º — Deliberações
+
+1 - As deliberações são tomadas por maioria absoluta de votos dos membros presentes às reuniões.
+
+2 - O presidente deve exercer, em caso de empate, voto de qualidade.
+
+###### Artigo 18.º — Actas
+
+1 - De cada reunião será lavrada acta, que conterá um resumo de tudo o que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes, os assuntos apreciados, as deliberações tomadas e a forma e o resultado das respectivas votações.
+
+2 - As actas são submetidas à aprovação de todos os membros no final da respectiva reunião ou no início da seguinte, sendo assinadas, após a aprovação, pelo presidente e pelo secretário.
+
+3 - Nos casos em que o conselho assim o delibere, a acta será aprovada em minuta logo na reunião a que disser respeito.
+
+4 - As deliberações do conselho só são eficazes depois de assinadas as respectivas actas ou minutas, nos termos dos números anteriores.
+
+###### Artigo 19.º — Registo na acta do voto de vencido
+
+Os membros do conselho podem fazer constar da acta o seu voto de vencido e as razões que o justifiquem.
+
+###### Artigo 20.º — Direitos dos membros do conselho
+
+Constituem direitos dos membros do conselho:
+
+a) Participar nas reuniões e votações;
+
+b) Apresentar propostas, requerimentos e reclamações;
+
+c) Solicitar, através do presidente, esclarecimentos aos demais órgãos do IDICT, no âmbito da competência do conselho.
+
+###### Artigo 21.º — Deveres
+
+São deveres dos membros do conselho:
+
+a) Comparecer às reuniões do conselho para que tenham sido convocados;
+
+b) Participar nos debates e nas votações.
+
+###### Artigo 22.º — Abonos
+
+1 - Os membros do conselho que não sejam representantes de instituições públicas têm direito, por participação nas reuniões, a senhas de presença, em montante a fixar por despacho conjunto dos Ministros da Finanças e do Emprego e da Segurança Social.
+
+2 - Os membros do conselho têm direito, por participação nas reuniões, a transporte e ajudas de custo, nos termos da legislação aplicável à Administração Pública.
+
+3 - As ajudas de custo a considerar no caso de os membros do conselho não serem representantes de instituições públicas são as referentes ao escalão aplicável aos funcionários e agentes do Estado de categoria mais elevada.
+
+###### Artigo 23.º — Apoio técnico-administrativo e auxiliar
+
+A direcção do IDICT assegurará o apoio técnico-administrativo e auxiliar às actividades do conselho, assegurando, designadamente, o encaminhamento e tratamento do expediente e a organização do arquivo.

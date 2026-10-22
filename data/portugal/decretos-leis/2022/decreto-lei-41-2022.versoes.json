@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:184830277:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-912464652",
+ "dre_path": "/dr/detalhe/decreto-lei/41-2022-184830277",
+ "source_lastmod": "2025-03-26",
+ "versions": [
+  {
+   "date": "2022-06-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "912357710",
+    "912357711",
+    "912357712",
+    "912357713",
+    "912357714",
+    "912357715",
+    "912357716",
+    "912357717",
+    "912357718",
+    "912357719",
+    "912357720",
+    "912357721",
+    "912357722",
+    "912357723",
+    "912357724",
+    "912357725"
+   ]
+  },
+  {
+   "date": "2025-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912444915:por",
+     "title": "Decreto-Lei n.º 43/2025",
+     "published": "2025-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/43-2025-912444915"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "912357710",
+    "912357711",
+    "912357712",
+    "912357713",
+    "912357747",
+    "912357734",
+    "912357748",
+    "912357736",
+    "912357749",
+    "912357750",
+    "912357751",
+    "912357752",
+    "912357753",
+    "912357754",
+    "912357743",
+    "912357744",
+    "912357745",
+    "912357746"
+   ]
+  }
+ ],
+ "fragments": {
+  "912357710": {
+   "fragment_id": "912464653",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 41/2022\n\nde 17 de junho\n\nSumário: Estabelece o regime de mobilidade de docentes por motivo de doença.\n\nO Programa do XXIII Governo Constitucional assumiu como compromisso garantir à escola pública, de forma sustentável, os professores em número e qualidade necessários à prossecução da sua missão.\n\nO regime de mobilidade previsto no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, aplicável aos educadores de infância e aos professores dos quadros de agrupamento de escolas, escola não agrupada e de zona pedagógica, que pretendam exercer transitoriamente funções docentes noutro agrupamento de escolas ou escola não agrupada exige que o docente aí se mantenha até ao limite de quatro anos, diferentemente do que acontece com a generalidade dos trabalhadores que exercem funções públicas.\n\nTal regime, atentos os seus mecanismos de colocação, não permite dar resposta aos docentes que, por motivo de doença dos próprios ou dos seus familiares, necessitem de ser deslocalizados para agrupamento de escolas ou escola não agrupada que se situem perto do local de prestação de cuidados médicos ou dos apoios que devam ser prestados a familiares a seu cargo.\n\nNeste âmbito, reconhece-se a necessidade de se continuar a garantir a proteção e apoio na doença aos docentes, e aos familiares que se encontrem a seu cargo, quando se verifique a imperiosa e comprovada circunstância de necessitarem de se deslocar para agrupamento de escolas ou escola não agrupada que se situem perto do local de prestação de cuidados médicos ou dos apoios a prestar, cumprindo introduzir critérios que permitem apurar a capacidade de acolhimento por parte do agrupamento de escolas ou escola não agrupada e garantir uma gestão e utilização mais equilibrada, eficiente e racional do pessoal docente, garantindo o provimento de professores nas escolas, mitigando a escassez de professores nalguns territórios e escolas que poderia resultar da ausência de critérios definidos.\n\nAssim, justifica-se a criação de um regime específico de mobilidade. Tal regime tem subjacente a promoção do equilíbrio entre a necessidade de prestação de cuidados médicos ou apoios aos docentes ou aos seus familiares e a melhor utilização dos recursos humanos, de modo a contribuir para garantir à escola pública os professores necessários à prossecução da sua missão.\n\nNestes termos, o presente decreto-lei estabelece um regime especial de mobilidade por motivo de doença aplicável aos docentes de carreira cujo vínculo de emprego público é titulado por contrato de trabalho em funções públicas por tempo indeterminado.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e o Conselho das Escolas.\n\nForam observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "912357711": {
+   "fragment_id": "912464654",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de mobilidade de docentes por motivo de doença."
+  },
+  "912357712": {
+   "fragment_id": "912464655",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nO presente decreto-lei aplica-se aos educadores de infância e aos professores do ensino básico e secundário com contrato de trabalho em funções públicas por tempo indeterminado, doravante designados por «docentes»."
+  },
+  "912357713": {
+   "fragment_id": "912464656",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\n1 - O presente decreto-lei aplica-se ao território de Portugal continental.\n\n2 - O presente decreto-lei é, ainda, aplicável aos docentes vinculados às Regiões Autónomas que pretendam requerer a mobilidade por motivo de doença para agrupamento de escolas ou escola não agrupada situado em Portugal continental."
+  },
+  "912357714": {
+   "fragment_id": "912464657",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos da mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos da mobilidade\n\n1 - Os docentes podem requerer a mobilidade por motivo de doença para agrupamento de escolas ou escola não agrupada diverso daquele em que se encontram providos ou colocados, quando se verifique uma das seguintes situações:\n\na) Sejam portadores de doença incapacitante;\n\nb) Tenham a seu cargo e residam no mesmo domicílio fiscal com doença incapacitante:\n\ni) Cônjuge ou pessoa com quem vivem em união de facto;\n\nii) Filho ou equiparado;\n\niii) Parente ou afim no 1.º grau da linha reta ascendente.\n\n2 - As doenças incapacitantes a considerar para efeitos do presente decreto-lei são definidas por despacho, nos termos do artigo 37.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual."
+  },
+  "912357715": {
+   "fragment_id": "912464658",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições da mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições da mobilidade\n\n1 - Os docentes dos quadros de agrupamento de escolas, de escola não agrupada e de zona pedagógica que cumpram os requisitos previstos no artigo anterior podem requerer a mobilidade por motivo de doença quando:\n\na) A mobilidade se mostre necessária para assegurar a prestação dos cuidados médicos de que carecem ou assegurar o apoio às pessoas previstas na alínea b) do n.º 1 do artigo anterior;\n\nb) A deslocação se realize para agrupamento de escolas ou escola não agrupada cuja sede esteja situada num raio de 50 km, medidos em linha reta, da sede do concelho onde se localiza a entidade prestadora dos cuidados médicos ou a residência familiar.\n\n2 - Sem prejuízo do disposto no número anterior, os docentes dos quadros de agrupamento de escolas ou de escola não agrupada só podem requerer a mobilidade por motivo de doença para agrupamento de escolas ou escola não agrupada cuja sede diste mais de 20 km, medidos em linha reta, da sede do concelho em que se situa o agrupamento de escolas ou escola não agrupada de provimento.\n\n3 - O disposto no número anterior não se aplica aos docentes a que se refere o n.º 2 do artigo 3.º"
+  },
+  "912357716": {
+   "fragment_id": "912464659",
+   "type": 11,
+   "heading": "Artigo 6.º — Limites da mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limites da mobilidade\n\n1 - A mobilidade por motivo de doença não pode originar insuficiência ou inexistência de componente letiva dos docentes do quadro do agrupamento de escola ou da escola não agrupada de destino.\n\n2 - Os docentes colocados ao abrigo do presente decreto-lei são considerados na distribuição de serviço, aquando da determinação das necessidades a declarar no âmbito do procedimento de preenchimento de necessidades temporárias."
+  },
+  "912357717": {
+   "fragment_id": "912464660",
+   "type": 11,
+   "heading": "Artigo 7.º — Intervenção das escolas de destino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Intervenção das escolas de destino\n\n1 - Para efeitos de determinação da capacidade de acolhimento dos docentes em mobilidade por motivo de doença, o diretor do agrupamento de escolas ou escola não agrupada, ouvido o conselho pedagógico, define e comunica à Direção-Geral da Administração Escolar (DGAE) o número de docentes a acolher por grupo de recrutamento, dando prioridade aos grupos de recrutamento em que seja possível atribuir, pelo menos seis horas de componente letiva, com turma ou grupo de alunos durante o período de lecionação de disciplina ou área curricular não disciplinar.\n\n2 - Quando da aplicação do disposto no número anterior resulte uma capacidade de acolhimento inferior a 10 % da dotação global do quadro de pessoal docente do agrupamento de escolas ou escola não agrupada de destino, o diretor, ouvido o conselho pedagógico, comunica à DGAE o número de docentes a acolher, por grupo de recrutamento, até perfazer essa percentagem."
+  },
+  "912357718": {
+   "fragment_id": "912464661",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de colocação\n\n1 - A colocação dos docentes em mobilidade por motivo de doença efetua-se após o apuramento da capacidade de acolhimento de cada agrupamento de escolas ou escola não agrupada, de acordo com os seguintes critérios de preferência:\n\na) Grau de incapacidade, comprovado por atestado médico de incapacidade multiuso do docente ou das pessoas a que se refere a alínea b) do n.º 1 do artigo 4.º;\n\nb) Idade do docente;\n\nc) Preferências manifestadas, por ordem decrescente de prioridade, por códigos de agrupamento de escolas ou escola não agrupada situados na área geográfica definida nos termos previstos nos n.os 1 e 2 do artigo 5.º\n\n2 - Para efeitos do disposto na alínea a) do número anterior, prefere o docente com maior grau de incapacidade ou maior grau de incapacidade das pessoas a que se refere a alínea b) do n.º 1 do artigo 4.º\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, prefere o docente de maior idade.\n\n4 - Na manifestação de preferências a que se refere o n.º 1, os docentes podem ordenar a totalidade ou parte dos códigos de agrupamento de escolas ou escola não agrupada situados na área geográfica definida nos termos previstos nos n.os 1 e 2 do artigo 5.º"
+  },
+  "912357719": {
+   "fragment_id": "912464662",
+   "type": 11,
+   "heading": "Artigo 9.º — Situações supervenientes de doença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Situações supervenientes de doença\n\nQuando a situação de doença ocorra no decurso do ano letivo os docentes que requeiram a mobilidade por motivo de doença são colocados em função da capacidade de acolhimento que subsista nos agrupamentos de escolas ou escola não agrupada para os quais manifestem preferências, determinada nos termos do artigo 7.º"
+  },
+  "912357720": {
+   "fragment_id": "912464663",
+   "type": 11,
+   "heading": "Artigo 10.º — Duração da mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Duração da mobilidade\n\nSalvo nas situações previstas no artigo anterior, a mobilidade por motivo de doença tem a duração de um ano escolar."
+  },
+  "912357721": {
+   "fragment_id": "912464664",
+   "type": 11,
+   "heading": "Artigo 11.º — Verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Verificação\n\n1 - A verificação das mobilidades por motivo de doença autorizadas ao abrigo do presente decreto-lei concretiza-se através de:\n\na) Submissão às juntas médicas regionais, a funcionar junto da Direção-Geral dos Estabelecimentos Escolares, para comprovação das declarações prestadas;\n\nb) Ações de fiscalização pela Inspeção-Geral da Educação e Ciência para comprovação das situações de facto e das relações de dependência de auxílio e apoio declaradas.\n\n2 - A não comprovação das declarações prestadas pelos docentes determina a revogação da mobilidade por motivo de doença, bem como a instauração de procedimento disciplinar e a comunicação ao Ministério Público para efeitos de eventual responsabilidade criminal a que haja lugar."
+  },
+  "912357722": {
+   "fragment_id": "912464665",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação\n\nO regime de mobilidade de docentes por motivo de doença previsto no presente decreto-lei é objeto de avaliação no prazo de dois anos após a sua entrada em vigor, tendo em vista a apreciação da sua implementação e eventual revisão."
+  },
+  "912357723": {
+   "fragment_id": "912464666",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nO procedimento da mobilidade por motivo de doença, incluindo a comprovação dos requisitos e condições previstos no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º, é regulado por despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da educação."
+  },
+  "912357724": {
+   "fragment_id": "912464667",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Despacho n.º 9004-A/2016, de 13 de julho, publicado no Diário da República, 2.ª série, n.º 133, de 13 de julho de 2016."
+  },
+  "912357725": {
+   "fragment_id": "912464668",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "912357747": {
+   "fragment_id": "912464657",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos da mobilidade",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos da mobilidade\n\n1 - Os docentes podem requerer a mobilidade por motivo de doença para agrupamento de escolas ou escola não agrupada diverso daquele em que se encontram providos ou colocados, quando se verifique uma das seguintes situações:\n\na) Sejam portadores de doença incapacitante, ou tenham a seu cargo filho ou equiparado com doença incapacitante com o mesmo domicílio fiscal, em situação de monoparentalidade, comprovado mediante certificado de constituição do agregado familiar emitido pela Autoridade Tributária e Aduaneira;\n\nb) Tenham a seu cargo, no mesmo domicílio fiscal, certificado pela Autoridade Tributária e Aduaneira, com doença incapacitante:\n\ni) Cônjuge ou pessoa com quem vivem em união de facto;\n\nii) Filho ou equiparado não abrangido pela alínea anterior; ou\n\niii) Parente no primeiro grau da linha reta ascendente.\n\n2 - As doenças incapacitantes a considerar para efeitos do presente decreto-lei são definidas por despacho, nos termos do artigo 37.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357734": {
+   "fragment_id": "912653878",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Incapacidade para o exercício de funções docentes e letivas",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 4.º-A — Incapacidade para o exercício de funções docentes e letivas\n\n1 - Os docentes com incapacidade para o exercício de funções docentes e letivas podem apresentar-se ao procedimento de mobilidade por doença estabelecido no presente decreto-lei.\n\n2 - A declaração de incapacidade para o exercício de funções docentes pode ser declarada:\n\na) Por junta médica a que se refere o artigo 33.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual;\n\nb) Nos termos do Decreto-Lei n.º 224/2006, de 13 de novembro, alterado e republicado pelo Decreto-Lei n.º 124/2008, de 15 de julho; ou\n\nc) Por junta médica a que se refere a alínea a) do n.º 1 do artigo 11.º, realizada no âmbito da medicina do trabalho.\n\n3 - À colocação dos docentes a que se refere o n.º 1 não se aplica o disposto no n.º 1 do artigo 7.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357748": {
+   "fragment_id": "912464658",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições da mobilidade",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 5.º — Condições da mobilidade\n\n1 - Os docentes dos quadros de agrupamento de escolas, de escola não agrupada e de zona pedagógica que cumpram os requisitos previstos no artigo anterior podem requerer a mobilidade por motivo de doença quando:\n\na) A mobilidade se mostre necessária para assegurar a prestação dos cuidados médicos de que carecem ou para assegurar o apoio às pessoas referidas no n.º 1 do artigo anterior;\n\nb) A deslocação se realize para agrupamento de escolas ou para escola não agrupada cuja sede esteja situada a uma distância máxima de 50 km, contados por estrada, considerando o percurso mais próximo, da localização da entidade prestadora dos cuidados médicos ou da residência familiar.\n\n2 - Sem prejuízo do disposto no número anterior, os docentes dos quadros de agrupamento de escolas ou de escolas não agrupadas só podem requerer a mobilidade por motivo de doença para agrupamento de escolas ou para escola não agrupada cuja sede diste mais de 15 km, contados por estrada, considerando o percurso mais próximo, da escola sede do agrupamento de escolas ou da escola não agrupada de provimento.\n\n3 - O disposto no número anterior não se aplica aos docentes a que se refere o n.º 2 do artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357736": {
+   "fragment_id": "912464659",
+   "type": 11,
+   "heading": "Artigo 6.º — Limites da mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limites da mobilidade\n\n1 - A mobilidade por motivo de doença não pode originar insuficiência ou inexistência de componente letiva dos docentes do quadro do agrupamento de escola ou da escola não agrupada de destino.\n\n2 - Os docentes colocados ao abrigo do presente decreto-lei são considerados na distribuição de serviço, aquando da determinação das necessidades a declarar no âmbito do procedimento de preenchimento de necessidades temporárias."
+  },
+  "912357749": {
+   "fragment_id": "912464660",
+   "type": 11,
+   "heading": "Artigo 7.º — Determinação da capacidade de acolhimento e colocação dos docentes",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 7.º — Determinação da capacidade de acolhimento e colocação dos docentes\n\n1 - A determinação da capacidade de acolhimento dos agrupamentos de escolas e das escolas não agrupadas é realizada pela Direção-Geral da Administração Escolar, não podendo exceder 10 % da dotação global do quadro de pessoal docente do agrupamento de escolas ou da escola não agrupada de destino.\n\n2 - A colocação dos docentes é realizada pela Direção-Geral da Administração Escolar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357750": {
+   "fragment_id": "912464661",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de colocação",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de colocação\n\n1 - A colocação dos docentes em mobilidade por motivo de doença efetua-se de acordo com os seguintes critérios de preferência:\n\na) Grau de incapacidade, comprovado por atestado médico de incapacidade multiúso do docente, ou do filho ou equiparado a que se refere a alínea a) do n.º 1 do artigo 4.º;\n\nb) Grau de incapacidade, comprovado por atestado médico de incapacidade multiúso das pessoas a que se refere a alínea b) do n.º 1 do artigo 4.º;\n\nc) Idade do docente;\n\nd) Preferências manifestadas, por ordem decrescente de prioridade, por códigos de agrupamento de escolas ou escola não agrupada situados na área geográfica definida nos termos previstos nos n.os 1 e 2 do artigo 5.º\n\n2 - Para o efeito do disposto na alínea a) do número anterior, prefere o docente com maior grau de incapacidade ou com maior grau de incapacidade do filho ou equiparado.\n\n3 - Para o efeito do disposto na alínea b) do n.º 1, prefere o docente cujas pessoas a que se refere a alínea b) do n.º 1 do artigo 4.º tenham maior grau de incapacidade.\n\n4 - Para o efeito do disposto na alínea c) do n.º 1, prefere o docente com maior idade.\n\n5 - Na manifestação de preferências a que se refere o n.º 1, os docentes podem ordenar a totalidade ou parte dos códigos de agrupamento de escolas ou escola não agrupada situados na área geográfica definida nos termos previstos nos n.os 1 e 2 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357751": {
+   "fragment_id": "912464662",
+   "type": 11,
+   "heading": "Artigo 9.º — Situações supervenientes de doença",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 9.º — Situações supervenientes de doença\n\n1 - Quando a situação de doença ocorra no decurso do ano letivo os docentes que requeiram a mobilidade por motivo de doença são colocados em função da capacidade de acolhimento que subsista nos agrupamentos de escolas ou escola não agrupada para os quais manifestem preferências, determinada nos termos do artigo 7.º\n\n2 - Sempre que um docente comprove ter-se verificado um agravamento da sua condição de saúde, no decurso do ano letivo, pode instruir novo pedido de mobilidade, sendo colocado em função da capacidade de acolhimento que subsista nos agrupamentos de escolas e nas escolas não agrupadas para os quais manifeste preferência, determinada nos termos do artigo 7.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357752": {
+   "fragment_id": "912464663",
+   "type": 11,
+   "heading": "Artigo 10.º — Duração da mobilidade",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 10.º — Duração da mobilidade\n\nSem prejuízo das situações previstas no artigo anterior, a mobilidade por motivo de doença tem a duração de um ano escolar, podendo ser renovada por mais dois anos escolares, desde que se mantenham os requisitos e as condições previstos no presente decreto-lei, independentemente da existência ou não de componente letiva e sem prejuízo da capacidade de acolhimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357753": {
+   "fragment_id": "912464664",
+   "type": 11,
+   "heading": "Artigo 11.º — Verificação",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 11.º — Verificação\n\n1 - A verificação do cumprimento dos requisitos e das condições da mobilidade por motivo de doença concretiza-se através de:\n\na) Submissão a junta médica, para comprovação das declarações prestadas, a ocorrer na fase de candidatura ou após a autorização da mobilidade;\n\nb) Ações de fiscalização pela Inspeção-Geral da Educação e Ciência para comprovação das situações de facto e das relações de dependência de auxílio e apoio declaradas.\n\n2 - A não comprovação das declarações prestadas pelos docentes determina, consoante o caso, a exclusão do procedimento de mobilidade por motivo de doença ou a anulação da mobilidade autorizada, bem como a instauração de procedimento disciplinar e a comunicação ao Ministério Público para o efeito de eventual responsabilidade criminal a que haja lugar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357754": {
+   "fragment_id": "912464665",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação",
+   "in_force_from": "2025-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+   ],
+   "markdown": "###### Artigo 12.º — Avaliação\n\nO regime de mobilidade de docentes por motivo de doença estabelecido no presente decreto-lei é objeto de avaliação até ao final do ano escolar de 2025/2026, tendo em vista a apreciação da sua aplicação e a sua eventual revisão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2025-912444915), em vigor a partir de 2025-03-27"
+  },
+  "912357743": {
+   "fragment_id": "912464666",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nO procedimento da mobilidade por motivo de doença, incluindo a comprovação dos requisitos e condições previstos no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º, é regulado por despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da educação."
+  },
+  "912357744": {
+   "fragment_id": "912464667",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Despacho n.º 9004-A/2016, de 13 de julho, publicado no Diário da República, 2.ª série, n.º 133, de 13 de julho de 2016."
+  },
+  "912357745": {
+   "fragment_id": "912464668",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "912357746": {
+   "fragment_id": "912464669",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de junho de 2022. - António Luís Santos da Costa - Inês Pacheco Ramires Ferreira - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 7 de junho de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 7 de junho de 2022.\n\nPelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.\n\n115408877"
+  }
+ }
+}

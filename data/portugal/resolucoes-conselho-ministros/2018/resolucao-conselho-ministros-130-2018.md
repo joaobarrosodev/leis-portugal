@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:116607940:por
+title: Resolução do Conselho de Ministros n.º 130/2018
+short_title: null
+summary: Estabelece medidas preventivas para áreas de cordões dunares frontais a abranger pelo Programa da Orla Costeira Espichel-Odeceixe
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 130/2018
+official_date: null
+publication_date: '2018-10-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/2018, Série I de 2018-10-08
+  number: '193'
+  series: I
+  supplement: null
+  pages: 4897 - 4898
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19300/0489704898.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/130/2018/10/08/p/dre/pt/html
+  oj: null
+  dre: '116607940'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/130-2018-116607940
+  internal: pt:dre:116607940:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2018-116607940
+  metadata_url: https://data.dre.pt/eli/resolconsmin/130/2018/10/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2018-116607940
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2020-10-09T00:00:00Z'
+integrity:
+  source_sha256: c983e9595bd0933164e36536d2f278b9e4adc6b7190ebb753d5d68d37fae0c66
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2018/DRE-2018-130-116607940.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aljezur
+- Cabo Espichel
+- Ordenamento do Território
+- Orla Costeira
+- Protecção do Litoral
+- Medidas Preventivas
+- Estratégia Nacional para a Gestão Integrada da Zona Costeira
+- Proteção do Ambiente
+- Rio Sado
+- Plano de Ordenamento da Orla Costeira
+- Política de Solos
+- Sines
+relationships:
+- type: amended_by
+  target: pt:dre:145012227:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/136/1999/10/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/136/1999/10/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/82/2009/09/08/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 130/2018
+
+A orla costeira entre o Cabo Espichel e Odeceixe contém uma grande diversidade de condições fisiográficas, paisagísticas e ecológicas, alternando entre troços rochosos e arenosos, onde existem estuários, lagoas costeiras, restingas arenosas, cordões dunares extensos e arribas. Nesta orla costeira encontram-se alguns dos trechos melhor conservados da costa continental portuguesa, integrados em áreas de conservação da natureza com estatuto de proteção nacional e internacional que concorrem para a preservação dos valores naturais aí existentes. Trata-se, assim, de uma costa de importante representatividade, pautada por diversas áreas com significativos valores e funções ecológicas de elevada fragilidade ambiental, na qual qualquer alteração de carga pode ter consequências graves e onde se regista já uma significativa ocupação humana. Apresenta, também, algumas áreas de elevada vulnerabilidade e exposição ao risco em litoral baixo arenoso e em litoral de arriba.
+
+Com vista à salvaguarda e valorização destes valores e sistemas costeiros, bem como à proteção de pessoas e bens em áreas de risco, foram desenvolvidos três planos especiais para abranger toda aquela extensão.
+
+Sucede, porém, que as soluções inicialmente preconizadas para a proteção e valorização desta orla costeira têm-se vindo a revelar insuficientes face às dinâmicas territoriais e à evolução do conhecimento científico.
+
+Acresce que a Estratégia Nacional para a Gestão Integrada da Zona Costeira (ENGIZC), aprovada pela [Resolução do Conselho de Ministros n.º 82/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/82-2009-489264), de 8 de setembro, estabelece um referencial para uma gestão global, integrada e participada, incluindo um quadro de opções, objetivos e medidas a considerar no planeamento e gestão da orla costeira.
+
+A ENGIZC considera a zona costeira como um espaço tampão de proteção ao avanço do mar, assumindo-a como um recurso que deverá ser considerado às diversas escalas dos instrumentos de gestão territorial. Neste sentido, preconiza a adoção de medidas sustentáveis e cautelares que previnam ou reduzam o impacto negativo dos fenómenos naturais e promovam modelos adequados de uso dos recursos costeiros e de ocupação do solo. Medidas que se justificam, por um lado, pela extrema vulnerabilidade da zona costeira, de equilíbrio frágil e de dinâmica muito complexa, ameaçada por elevados riscos agravados pelas alterações climáticas e crescente pressão antrópica e, por outro lado, pelo reconhecimento da necessidade de melhor a conhecer para a sua devida preservação e valorização - enquanto património natural, paisagístico e cultural, singular e irrepetível.
+
+Neste contexto, foi determinada pelo Despacho n.º 7734/2011, de 27 de maio, da Secretária de Estado do Ordenamento do Território e das Cidades, a revisão do Plano de Ordenamento da Orla Costeira (POOC) Sintra-Sado, na área compreendida entre o Cabo Espichel e Sado, do POOC Sado-Sines, na sua totalidade, e do POOC Sines-Burgau, na área compreendida entre Sines e Odeceixe, bem como a fusão dos três POOC num único plano especial de ordenamento do território, designado POOC Espichel-Odeceixe, passando, também, a incluir as áreas portuárias.
+
+O mencionado despacho estabeleceu como um dos objetivos a adequação dos diferentes usos e atividades específicos da orla costeira à dinâmica do troço costeiro em observância dos princípios da precaução e da prevenção.
+
+Estes princípios encontram hoje expressa consagração na [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, que aprovou as bases gerais da política pública de solos, de ordenamento do território e de urbanismo, e conduzem à adoção de medidas antecipatórias com o objetivo de obviar ou minorar os impactes adversos no ambiente.
+
+Com a revisão do regime jurídico dos instrumentos de gestão territorial operada pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, os trabalhos de elaboração do plano especial foram reorientados para a aprovação de um programa, o Programa da Orla Costeira Espichel-Odeceixe (POC Espichel-Odeceixe).
+
+O conhecimento adquirido nos últimos anos reforça a necessidade de se adotarem novas opções de ordenamento do território e os estudos desenvolvidos até ao momento, no âmbito de elaboração do POC Espichel-Odeceixe, permitem já identificar situações de relevante valor ecológico e elevada fragilidade ambiental, bem como de significativa exposição ao risco, que urge acautelar. Estão, sobretudo, nesta situação, os sistemas dunares litorais frontais, bem como as áreas de risco em litoral baixo e arenoso.
+
+Com efeito, foram identificados sistemas dunares litorais frontais que constituem importantes reservas aluvionares e em que, para além do elevado valor ecológico, paisagístico e científico a salvaguardar, é imprescindível garantir a manutenção de cordões dunares robustos que constituam uma primeira linha de proteção face aos fenómenos de erosão costeira e galgamentos oceânicos, protegendo, assim, o território mais interior. Estes sistemas são frágeis e de sensibilidade elevada, muito vulneráveis à pressão antrópica que afeta gravemente a sua capacidade de resiliência e agudiza a sua vulnerabilidade biofísica - o que impede de forma irreversível a sua funcionalidade e a salvaguarda dos seus valores.
+
+No que respeita aos riscos, há que considerar que os impactos decorrentes das alterações climáticas, designadamente a subida do nível médio do mar e a modificação do regime de agitação marítima, da sobre-elevação meteorológica e da precipitação, poderão traduzir-se no estabelecimento ou variação da intensidade da erosão e na modificação da frequência e intensidade das inundações costeiras, aumentando ainda mais a exposição de pessoas, bens e sistemas naturais a situações de risco.
+
+É neste sentido que se impõe a adoção de medidas que permitam suster ações futuras ou em curso que prejudiquem, de forma grave e irreversível, umas das principais finalidades do programa em elaboração: a prevenção do risco e a salvaguarda de valores naturais. A adoção destas medidas permite evitar alterações das circunstâncias e das condições existentes, de forma a não coartar a liberdade das opções de planeamento nem a comprometer a execução do programa ou torná-la mais onerosa para o erário público.
+
+Assim:
+
+Nos termos dos n.os 2 e 3 do artigo 52.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, dos n.os 5, 6 e 8 do artigo 134.º, do n.º 3 do artigo 137.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Sujeitar a medidas preventivas as áreas identificadas em planta anexa, que faz parte integrante da presente resolução.
+
+2 - Estabelecer que, nas áreas mencionadas no número anterior, são proibidas as ações referidas no n.º 4 do artigo 134.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio.
+
+3 - Estipular que as medidas preventivas abrangem também as ações referidas no n.º 5 do artigo 134.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio.
+
+4 - Determinar a suspensão da eficácia do Plano de Ordenamento da Orla Costeira Sado-Sines, aprovado pela [Resolução do Conselho de Ministros n.º 136/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/136-1999-692070), de 29 de outubro, nas áreas abrangidas pelas medidas preventivas.
+
+5 - Fixar o prazo de vigência das medidas preventivas em dois anos, sem prejuízo da cessação da sua vigência em momento anterior, nas situações previstas no n.º 3 do artigo 141.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio.
+
+6 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 27 de setembro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se refere o n.º 1)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2018/10/19300/0489704898.pdf))](https://files.diariodarepublica.pt/1s/2018/10/19300/0489704898.pdf)

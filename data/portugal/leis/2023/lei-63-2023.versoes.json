@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224366836:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2023-224400083",
+ "dre_path": "/dr/detalhe/lei/63-2023-224366836",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-11-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224331215",
+    "224331216",
+    "224331217",
+    "224331218",
+    "224331219"
+   ]
+  }
+ ],
+ "fragments": {
+  "224331215": {
+   "fragment_id": "224400084",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 63/2023\n\nde 16 de novembro\n\nSumário: Revê o modelo de cogestão de áreas protegidas, para melhorar a sua eficácia e garantir maior responsabilização, alterando o Decreto-Lei n.º 116/2019, de 21 de agosto.\n\nRevê o modelo de cogestão de áreas protegidas, para melhorar a sua eficácia e garantir maior responsabilização, alterando o Decreto-Lei n.º 116/2019, de 21 de agosto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "224331216": {
+   "fragment_id": "224400085",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei reforça a eficácia do modelo de cogestão das áreas protegidas e garante uma maior operacionalidade em face dos objetivos para que foi estabelecido, procedendo à primeira alteração ao Decreto-Lei n.º 116/2019, de 21 de agosto, que define o modelo de cogestão das áreas protegidas, e prevendo a criação do cargo de diretor de área protegida."
+  },
+  "224331217": {
+   "fragment_id": "224400086",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 116/2019, de 21 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 116/2019, de 21 de agosto\n\nOs artigos 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 12.º e 17.º do Decreto-Lei n.º 116/2019, de 21 de agosto, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - Nas áreas protegidas de âmbito nacional deve ser adotado o modelo de cogestão estabelecido no presente decreto-lei.\n\n2 - [...]\n\n3 - [...]\n\n4 - As áreas protegidas de âmbito regional ou local podem, sob proposta dos municípios que as integram, adotar o modelo de cogestão, nos termos a regulamentar por portaria conjunta dos membros do Governo responsáveis pelas áreas da conservação da natureza e da administração local, devendo neste caso ser consideradas preferencialmente para efeitos de integração na RNAP, nos termos previstos no n.º 5 do artigo 15.º do RJCNB.\n\n5 - Nos casos em que, pelo menos, 50 % dos municípios abrangidos por uma área protegida de âmbito nacional, que perfaçam mais do que 50 % do total do respetivo território, proponham junto do ICNF, I. P., a adoção do modelo de cogestão, e após emissão de parecer prévio favorável do respetivo conselho estratégico, o mesmo deve ser concretizado em prazo não superior a 120 dias.\n\nArtigo 5.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) Contribuir, ao nível da devida articulação entre entidades presentes na área protegida, para os objetivos de conservação da natureza, de proteção da biodiversidade e de restauro ecológico;\n\ne) Contribuir para a resiliência do território onde se insere a área protegida e para a gestão efetiva dos seus riscos naturais, reforçando a coordenação e a articulação institucional.\n\n2 - [...]\n\nArtigo 6.º\n\n[...]\n\n1 - [...]\n\n2 - Para o caso dos monumentos naturais que não estejam integrados em áreas protegidas de âmbito nacional, as entidades envolvidas na cogestão da área protegida são a comissão de cogestão e o respetivo presidente.\n\n3 - (Anterior n.º 2.)\n\nArtigo 7.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) Um representante da Comissão de Coordenação de Desenvolvimento Regional (CCDR) territorialmente competente;\n\ng) Um representante das associações de pesca local, apenas no caso de se tratar de uma área marinha protegida.\n\n2 - [...]\n\n3 - O ICNF, I. P., indica o seu representante através do diretor regional territorialmente competente em função da área protegida ou do diretor da área protegida, quando tal seja aplicável e de acordo com o previsto em portaria que aprova os estatutos deste Instituto.\n\n4 - A representação das entidades referidas nas alíneas a) a f) e g) do n.º 1, a última apenas no caso de se tratar de uma área marinha protegida, é assegurada pelos seus responsáveis máximos, com possibilidade de delegação.\n\n5 - A integração na comissão de cogestão dos representantes das entidades referidas nas alíneas c), e) e g) do n.º 1, a última apenas no caso de se tratar de uma área marinha protegida, depende de pareceres prévios favoráveis do conselho estratégico e do ICNF, I. P., sob proposta dos municípios abrangidos pela área protegida.\n\n6 - [...]\n\n7 - A CCDR territorialmente competente indica o seu representante ao presidente da comissão de cogestão, nos termos da alínea a) do n.º 1.\n\n8 - Os membros da comissão de cogestão previstos nas alíneas b), c), e), f) e g), do n.º 1, a última apenas no caso de se tratar de uma área marinha protegida, são designados por despacho dos membros do Governo responsáveis pelas áreas da conservação da natureza e do ensino superior, que indica também o seu presidente, conforme previsto na alínea a) do n.º 1, o representante das entidades referidas na alínea d) do n.º 1 e a duração do mandato da comissão de cogestão, que não deve ser inferior a quatro anos.\n\n9 - (Anterior n.º 8.)\n\n10 - (Anterior n.º 9.)\n\n11 - A comissão de cogestão reúne, preferencialmente, todos os meses, a título ordinário, e sempre que seja convocada pelo seu presidente, mediante solicitação de qualquer um dos seus membros, a título extraordinário, com um mínimo obrigatório de seis reuniões anuais.\n\n12 - (Anterior n.º 11.)\n\n13 - (Anterior n.º 12.)\n\n14 - Concluído o mandato da comissão de cogestão, a sua renovação opera-se nos moldes estabelecidos nos n.os 2 a 9.\n\n15 - (Anterior n.º 14.)\n\n16 - Os restantes presidentes de câmara municipal dos municípios abrangidos pela área protegida podem participar nas reuniões de comissão de cogestão, sem direito a voto.\n\nArtigo 8.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) Viabilizar ações de promoção ambiental, económica e social, de sensibilização e comunicação, através da elaboração e execução dos instrumentos de gestão na área protegida;\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\n2 - [...]\n\nArtigo 11.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) Apreciar e emitir parecer nos casos em que, pelo menos, 50 % dos municípios abrangidos por uma área protegida de âmbito nacional proponham junto do ICNF, I. P., a adoção do modelo de cogestão.\n\n2 - [...]\n\nArtigo 12.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) Outros instrumentos consensualizados pela comissão de cogestão da área protegida que obtenham parecer prévio favorável do respetivo conselho estratégico.\n\nArtigo 17.º\n\n[...]\n\n1 - A comissão de cogestão publicita, de forma atualizada, nos sítios na Internet das entidades públicas nela representadas, o despacho referido no n.º 8 do artigo 7.º e os instrumentos de gestão referidos no artigo 12.º\n\n2 - [...]»"
+  },
+  "224331218": {
+   "fragment_id": "224400087",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração da Portaria n.º 166/2019, de 29 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração da Portaria n.º 166/2019, de 29 de maio\n\nO Governo altera a Portaria n.º 166/2019, de 29 de maio, que aprova os estatutos do Instituto da Conservação da Natureza e das Florestas, I. P., prevendo a criação do cargo de diretor de área protegida, no prazo de 120 dias a contar da publicação da presente lei."
+  },
+  "224331219": {
+   "fragment_id": "224400088",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  }
+ }
+}

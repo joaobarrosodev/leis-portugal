@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:570492:por
+title: Portaria n.º 7/81
+short_title: null
+summary: Define atribuições e competências aos diversos serviços e entidades da Secretaria de Estado da Segurança Social participantes
+  no processo de elaboração e execução dos programas incluídos nos Programas de Investimento e Despesas de Desenvolvimento
+  da Administração Central (PIDDAC)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 7/81
+official_date: null
+publication_date: '1981-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/1981, Série I de 1981-01-05
+  number: '3'
+  series: I
+  supplement: null
+  pages: 12 - 14
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/00300/00120014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '570492'
+  dre_path: /dr/detalhe/portaria/7-1981-570492
+  internal: pt:dre:570492:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-1981-570492
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-1981-570492
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-01-05T00:00:00Z'
+integrity:
+  source_sha256: 050c81831610fd918bc9346e7a59b7e4c02b85fd06e8c6ae7f02b464acb11356
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-7-570492.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 7/81
+
+de 5 de Janeiro
+
+1. O conjunto das actividades relacionadas com os Programas de Investimento e Despesas de Desenvolvimento da Administração Central (PIDDAC), da responsabilidade da Secretaria de Estado da Segurança Social, assume já expressivo significado no quadro dos objectivos e acções do sector, com especial relevância para os investimentos em equipamentos sociais que se pretendem ver adequadamente inseridos no meio que pretendem servir, nuns casos a executar directamente pelos serviços, noutros por instituições privadas de solidariedade social. Este facto envolve a imperiosa necessidade de um tratamento controlado, uniforme e coerente aos diferentes níveis de actuação e responsabilidade e ao longo das suas sucessivas fases.
+
+2. O processo de reestruturação a nível central e regional que tem vindo a ser levado a cabo e que aponta para uma necessária descentralização veio fazer ressaltar a premência de eliminar sobreposições de atribuições, paralelismos de poderes e indefinição de responsabilidades, situação que se tem reflectido negativamente em termos de prazos de execução e de agravamento de custos. A superação desta situação implica a consciência clara da dimensão executiva mas descentralizada dos centros regionais de segurança social e acarreta, ainda, a reconversão imediata da Comissão de Equipamentos Colectivos da Secretaria de Estado da Segurança Social, a qual será objecto de diploma a publicar para o efeito.
+
+3. Na sequência do relatório elaborado pelo grupo de trabalho criado pelo Despacho n.º 27/80, de 24 de Abril, importa, portanto, definir as atribuições e competências dos diversos serviços e entidades participantes no processo de elaboração e execução dos programas incluídos no PIDDAC.
+
+À presente portaria, a que se seguirão outros normativos de âmbito mais específico, presidiram os princípios da unidade do planeamento, da unificação dos órgãos financiadores a nível central e regional e da descentralização da execução.
+
+Nestes termos, ao abrigo do artigo 1.º do [Decreto-Lei n.º 170/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1979-383410), de 6 de Junho:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, o seguinte:
+
+1.º Como responsável pela gestão global do PIDDAC, da Secretaria de Estado da Segurança Social, o Departamento de Planeamento da Segurança Social assegurará, a nível nacional, o planeamento e a coordenação das acções relativas à construção, ampliação e remodelação dos equipamentos sociais a incluir no referido plano, competindo-lhe, nomeadamente, no âmbito executivo:
+
+a) Preparar e difundir a metodologia, calendário e objectivos a que deve obedecer a elaboração do PIDDAC de cada ano;
+
+b) Proceder à análise e integração das propostas dos centros regionais de segurança social e dos pareceres dos serviços centrais;
+
+c) Elaborar o projecto de PIDDAC do sector, articulando-o com o orçamento da Segurança Social.
+
+2.º Para a elaboração do PIDDAC competirá, nomeadamente, aos centros regionais de segurança social:
+
+a) Proceder ao levantamento e caracterização das necessidades nos distritos em matéria de equipamentos sociais, em ligação com os órgãos autárquicos e com as instituições privadas de solidariedade social e de harmonia com os critérios técnicos estabelecidos pela Direcção-Geral da Segurança Social;
+
+b) Definir e caracterizar os equipamentos sociais adequados àquelas necessidades;
+
+c) Formular as propostas de investimento de acordo com os resultados, levantamento e caracterização referidos;
+
+d) Enviar a proposta regional do PIDDAC ao Departamento de Planeamento da Segurança Social, com cópia à Direcção-Geral da Segurança Social;
+
+e) Elaborar a programação material e financeira detalhada dos empreendimentos;
+
+f) Propor ao Departamento de Planeamento da Segurança Social, após a aprovação do plano, as reformulações do PIDDAC, dentro do limite do plafond regional.
+
+3.º Quanto às obras a incluir no PIDDAC que correspondam a iniciativas das instituições privadas de solidariedade social, observar-se-á a seguinte delimitação de competência:
+
+a) Às instituições privadas de solidariedade social caberá, nomeadamente:
+
+1) Assegurar a disponibilidade de terreno adequado à respectiva implantação, bem como o financiamento correspondente à respectiva comparticipação no custo do empreendimento;
+
+2) Promover a elaboração do programa preliminar do empreendimento de acordo com os programas funcionais existentes e submetê-lo à aprovação do centro regional de segurança social;
+
+3) Promover a elaboração do projecto de execução e submetê-lo à aprovação do centro regional de segurança social;
+
+4) Assegurar as ligações técnicas e administrativas com a respectiva autarquia local;
+
+5) Instruir e abrir o concurso de adjudicação;
+
+6) Apreciar as propostas do concurso e adjudicar as empreitadas, após parecer favorável do centro regional de segurança social;
+
+7) Celebrar os contratos escritos com os empreiteiros, elaborar os autos de consignação dos trabalhos e liquidar os pagamentos antecipados;
+
+8) Adquirir, respeitando as especificações técnicas e administrativas dimanadas do centro regional de segurança social, o equipamento móvel previsto no programa preliminar;
+
+9) Liquidar as despesas com empreiteiros e outros fornecedores;
+
+10) Fundamentar e propor ao centro regional de segurança social a execução de trabalhos a mais, a correcção de erros ou omissões do projecto e as revisões de preços;
+
+11) Receber provisoriamente a obra e dar conhecimento do facto ao centro regional de segurança social;
+
+12) Seleccionar e admitir o pessoal e utentes dos equipamentos de harmonia com os requisitos técnicos estabelecidos e dar conhecimento atempado ao centro regional de segurança social da data prevista para entrada em funcionamento do estabelecimento;
+
+13) Receber definitivamente a obra e elaborar o respectivo auto, enviando cópia ao centro regional de segurança social;
+
+14) Elaborar a conta final da empreitada e solicitar à autarquia respectiva o inquérito administrativo;
+
+b) Aos centros regionais de segurança social caberá:
+
+1) Apoiar as instituições privadas de solidariedade social na elaboração dos programas preliminares e dos projectos de execução, na instrução do concurso de adjudicação, na apreciação das propostas apresentadas a concurso, na formalização dos contratos com os empreiteiros, na elaboração dos autos de consignação dos trabalhos, na aquisição de equipamento móvel e na selecção e admissão de pessoal e dos utentes dos equipamentos sociais;
+
+2) Aprovar os programas preliminares dos equipamentos sociais;
+
+3) Aprovar os projectos de execução dos equipamentos sociais;
+
+4) Emitir parecer sobre as adjudicações propostas pelas instituições privadas de solidariedade social;
+
+5) Designar a entidade responsável pela fiscalização técnica exigida pelos empreendimentos a coberto do PIDDAC;
+
+6) Apreciar os pedidos de financiamento relativos ao empreendimento apresentados pelas instituições privadas de solidariedade social e satisfazê-los dentro dos limites de competência fixados na legislação aplicável;
+
+7) Promover, através do Instituto de Gestão Financeira da Segurança Social, a aprovação superior para autorização de despesas que excedam as competências fixadas aos centros regionais de segurança social;
+
+8) Aprovar as propostas apresentadas pelas instituições privadas de solidariedade social sobre revisão de preços e de erros de omissões de projecto e sobre a execução de trabalhos a mais.
+
+4.º As disposições do presente despacho aplicar-se-ão, com as necessárias adaptações, aos empreendimentos relativos a equipamentos sociais oficiais, sendo, nesse caso, da responsabilidade dos centros regionais de segurança social as acções a que se referem os n.os 2.º e 3.º
+
+5.º A Comissão de Equipamentos Colectivos, até à sua extinção, prestará aos centros regionais de segurança social o apoio técnico supletivo que se revelar necessário nas várias fases do ciclo do investimento e, em especial, na apreciação de projectos de execução e de propostas de adjudicação, bem como na execução da fiscalização técnica.
+
+6.º A Direcção-Geral da Organização e Recursos Humanos, em colaboração com a Direcção-Geral da Segurança Social, assumirá, nos termos da respectiva lei orgânica e de acordo, ainda, com o que vier a ser fixado no diploma que reconverter a Comissão de Equipamentos Colectivos, as funções de natureza técnico-normativa relativas as obras.
+
+7.º As disposições da presente portaria não são aplicáveis aos empreendimentos já adjudicados, salvo em situações excepcionais, a avaliar caso a caso.
+
+8.º Os serviços centrais assegurarão a execução da presente portaria, mediante o desenvolvimento dos princípios aqui definidos, ao nível de orientação administrativa corrente.
+
+9.º As dúvidas que resultarem da presente portaria serão resolvidas por despacho do Secretário de Estado da Segurança Social.
+
+Ministério dos Assuntos Sociais, 2 de Dezembro de 1980. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.

@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:1395822:por
+title: Declaração de Rectificação n.º 462/2009
+short_title: null
+summary: Regulamento do Plano de Urbanização para o Centro Urbano de Perafita, em Matosinhos
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Câmara Municipal de Matosinhos
+proposing_entity: null
+official_number: 462/2009
+official_date: null
+publication_date: '2009-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/2009, Série II de 2009-02-13
+  number: '31'
+  series: II
+  supplement: null
+  pages: 6323 - 6323
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/02/031000000/0632306323.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1395822'
+  dre_path: /dr/detalhe/declaracao-rectificacao/462-2009-1395822
+  internal: pt:dre:1395822:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/462-2009-1395822
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/462-2009-1395822
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-13T00:00:00Z'
+integrity:
+  source_sha256: 4b19a811fba26cda0f6d1b4ed546f0c226c2a743506995c8cce3f94c9b8b0575
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-462-1395822.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 462/2009
+
+Declaração de rectificação n.º 462/2009
+
+Regulamento do Plano de Urbanização para o Centro Urbano de Perafita, em Matosinhos
+
+Guilherme Manuel Lopes Pinto, torna público que no aviso n.º 2201/2009, publicado no Diário da República 2.ª série, n.º 16 de 23 de Janeiro de 2009, não foi transcrito na íntegra o artigo n.º 45.º do Regulamento do Plano de Urbanização para o Centro Urbano de Perafita, que é agora devidamente publicado em anexo:
+
+«Artigo 45.º
+
+Estacionamento privado
+
+1 - Além das baias de estacionamento público existente e ou propostas e dos Parques de Estacionamento públicos ou privados indicados na Planta de Zonamento, qualquer nova construção deve assegurar dentro do lote ou parcela que ocupa, o estacionamento privado suficiente para responder às suas próprias necessidades, no mínimo de um lugar de estacionamento por cada 150 m2 de área bruta total de pisos acima do solo, originando pelo menos um lugar de estacionamento por fracção, obrigatoriamente a ela afecto em propriedade.
+
+2 - Se necessário, para satisfação do disposto no número anterior, devem ser construídas caves, não podendo, em termos de propriedade, interferir com os espaços públicos, nem podendo as áreas destinadas a estacionamento serem utilizadas para outros fins.
+
+3 - Exceptuam-se do previsto nos números anteriores, os casos em que, pela localização, morfologia ou dimensão da parcela que ocupam, se verifique inequivocamente tal ser impossível, em especial quando a sua largura mínima seja inferior a 10,00 m, ou desaconselhável por razões geotécnicas, quando comprovadamente demonstrado.»
+
+28 de Janeiro de 2009. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.

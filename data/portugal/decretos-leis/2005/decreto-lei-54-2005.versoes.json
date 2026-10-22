@@ -1,0 +1,932 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:589934:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-128021130",
+ "dre_path": "/dr/detalhe/decreto-lei/54-2005-589934",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128098993",
+    "128098994",
+    "128098995",
+    "128098996",
+    "128098997",
+    "128098998",
+    "128098999",
+    "128099001",
+    "128099002",
+    "128099003",
+    "128099004",
+    "128099005",
+    "128099006",
+    "128099007",
+    "128099008",
+    "128099009",
+    "128099010",
+    "128099011",
+    "128099012",
+    "128099013",
+    "128099014",
+    "128099015",
+    "128099016",
+    "128099017",
+    "128099018",
+    "128099019",
+    "128099020",
+    "128099021",
+    "128099022",
+    "128099023",
+    "128099024"
+   ]
+  },
+  {
+   "date": "2009-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608684:por",
+     "title": "Decreto-Lei n.º 112/2009",
+     "published": "2009-05-18",
+     "dre_path": "/dr/detalhe/decreto-lei/112-2009-608684"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo III",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "128098993",
+    "128104310",
+    "128104311",
+    "128099056",
+    "128104312",
+    "128098998",
+    "128098999",
+    "128099000",
+    "128099001",
+    "128099002",
+    "128104313",
+    "128104314",
+    "128104315",
+    "128099006",
+    "128104316",
+    "128099008",
+    "128099061",
+    "128099010",
+    "128099062",
+    "128099012",
+    "128099013",
+    "128099014",
+    "128099015",
+    "128099016",
+    "128099017",
+    "128099018",
+    "128099019",
+    "128104320",
+    "128104324",
+    "128104325",
+    "128104326",
+    "128104327",
+    "128104328",
+    "128104329",
+    "128104321",
+    "128104322",
+    "128104323",
+    "128104318",
+    "128104319"
+   ]
+  },
+  {
+   "date": "2010-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344242:por",
+     "title": "Lei n.º 46/2010",
+     "published": "2010-09-07",
+     "dre_path": "/dr/detalhe/lei/46-2010-344242"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "128098993",
+    "128104310",
+    "128104311",
+    "128099056",
+    "128104312",
+    "128098998",
+    "128098999",
+    "128099000",
+    "128099001",
+    "128099002",
+    "128104313",
+    "128104330",
+    "128104331",
+    "128099006",
+    "128104316",
+    "128099008",
+    "128099061",
+    "128099010",
+    "128099062",
+    "128099012",
+    "128099013",
+    "128099014",
+    "128099015",
+    "128099016",
+    "128099017",
+    "128099018",
+    "128099019",
+    "128104320",
+    "128104332",
+    "128104325",
+    "128104326",
+    "128104327",
+    "128104333",
+    "128104334",
+    "128104321",
+    "128104322",
+    "128104323",
+    "128104318",
+    "128104319"
+   ]
+  },
+  {
+   "date": "2020-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128071719:por",
+     "title": "Decreto-Lei n.º 2/2020",
+     "published": "2020-01-14",
+     "dre_path": "/dr/detalhe/decreto-lei/2-2020-128071719"
+    }
+   ],
+   "changes": [
+    "Adita Anexo V",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º",
+    "Altera Capítulo II",
+    "Altera Artigo 10.º",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "128098993",
+    "128104310",
+    "128104311",
+    "128099056",
+    "128104312",
+    "128098998",
+    "128098999",
+    "128099000",
+    "128099001",
+    "128099002",
+    "128104313",
+    "128104330",
+    "128104335",
+    "128099006",
+    "128104336",
+    "128099008",
+    "128099061",
+    "128099010",
+    "128104337",
+    "128104339",
+    "128104338",
+    "128099014",
+    "128099015",
+    "128099016",
+    "128099017",
+    "128099018",
+    "128099019",
+    "128104320",
+    "128104332",
+    "128104325",
+    "128104326",
+    "128104327",
+    "128104333",
+    "128104334",
+    "128104321",
+    "128104322",
+    "128104323",
+    "128104318",
+    "128104341",
+    "128104342"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "128098993",
+    "128104310",
+    "156697096",
+    "128099056",
+    "156697097",
+    "128098998",
+    "128098999",
+    "128099000",
+    "128099001",
+    "128099002",
+    "128104313",
+    "128104330",
+    "128104335",
+    "128099006",
+    "128104336",
+    "128099008",
+    "128099061",
+    "128099010",
+    "128104337",
+    "128104339",
+    "128104338",
+    "128099014",
+    "128099015",
+    "128099016",
+    "128099017",
+    "128099018",
+    "128099019",
+    "128104320",
+    "128104332",
+    "128104325",
+    "128104326",
+    "128104327",
+    "128104333",
+    "128104334",
+    "128104321",
+    "128104322",
+    "128104323",
+    "128104318",
+    "128104341",
+    "128104342"
+   ]
+  }
+ ],
+ "fragments": {
+  "128098993": {
+   "fragment_id": "128021131",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 54/2005\n\nde 3 de Março\n\nAs actuais séries de matrícula dos automóveis encontram-se praticamente esgotadas, impondo-se assim proceder à alteração da disposição dos caracteres que constituem a chapa de matrícula de forma a dar continuidade às séries de matrícula em uso.\n\nAs características das chapas de matrícula e a respectiva instalação são adaptadas ao progresso técnico, sendo ainda regulamentadas as condições em que as mesmas são produzidas.\n\nPor outro lado, a importância e a especificidade da matéria justificam que se proceda à compilação num único diploma de matéria anteriormente dispersa no Regulamento do Código da Estrada.\n\nO Regulamento aprovado regulamenta o n.º 6 do artigo 117.º e o n.º 8 do artigo 118.º do Código da Estrada.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 8.º, Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719) Todas as referências legais feitas ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), e ao presidente do conselho diretivo do IMTT, I. P., constantes do Decreto-Lei n.º 54/2005, de 3 de março, na sua redação atual, devem considerar-se feitas, respetivamente, ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), e ao presidente do conselho diretivo do IMT, I. P.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124) As disposições do Regulamento relativas ao número de matrícula e ao modelo de chapa de matrícula dos motociclos de cilindrada não superior a 50 cm3 e dos ciclomotores entram em vigor conjuntamente com a regulamentação relativa ao registo de propriedade destes veículos. As disposições relativas à chapa de matrícula das máquinas industriais e máquinas industriais rebocáveis entram em vigor conjuntamente com a sua regulamentação."
+  },
+  "128098994": {
+   "fragment_id": "128021132",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o Regulamento do Número e Chapa de Matrícula dos Automóveis, Seus Reboques, Motociclos, Triciclos e Quadriciclos de Cilindrada Superior a 50 cm3, cujo texto se publica em anexo ao presente diploma e dele faz parte integrante."
+  },
+  "128098995": {
+   "fragment_id": "128021133",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime sancionatório\n\n1 - As infracções ao presente diploma constituem contra-ordenações, puníveis com as seguintes coimas:\n\na) De (euro) 50 a (euro) 250:\n\ni) Circulação de veículo com chapa de matrícula não obedecendo às características estabelecidas no Regulamento ora aprovado;\n\nii) Circulação de veículo com chapa de matrícula não colocada de forma inamovível ou não obedecendo às condições de instalação;\n\niii) Colocação sobre a chapa de matrícula de emblemas, insígnias, inscrições ou qualquer elemento não autorizado, permitindo no entanto a leitura completa do número de matrícula;\n\niv) Circulação de automóvel ou reboque com chapa de matrícula colocada em moldura especial prejudicando as dimensões prescritas ou a sua visibilidade;\n\nv) Circulação de automóvel ou de reboque importado temporariamente com chapa de matrícula provisória não possuindo caracteres, traço e rebordo periférico de cor azul;\n\nvi) Circulação de veículo matriculado, quando obrigatório, com chapa de modelo não permitido nos termos regulamentares para a data da sua matrícula;\n\nvii) Circulação de veículo matriculado, quando obrigatório, com chapa de matrícula de modelo não aprovado;\n\nviii) O não cumprimento do estabelecido no artigo 15.º do Regulamento ora aprovado;\n\nix) O incumprimento por parte de uma entidade detentora da autorização a que se refere o artigo 13.º do Regulamento ora aprovado de qualquer das disposições constantes no artigo 16.º do mesmo Regulamento;\n\nb) De (euro) 250 a (euro) 1250:\n\ni) Circulação de veículos com a chapa de matrícula total ou parcialmente encoberta, ou tendo sobre ela colocado qualquer elemento que não permita a leitura completa do número de matrícula, directamente ou através de equipamentos de controlo rodoviário;\n\nii) A aplicação deliberada de dispositivos, materiais ou produtos com o fim de não permitir a leitura completa do número de matrícula, directamente ou através de equipamentos de controlo rodoviário;\n\niii) A circulação de veículo com a chapa de matrícula dobrada;\n\nc) De (euro) 500 a (euro) 2500:\n\ni) A comercialização de chapas de matrícula por entidade que não obedeça ao estabelecido no artigo 11.º do Regulamento ora aprovado;\n\nii) A comercialização de chapas de matrícula de modelo não homologado;\n\niii) A fabricação de chapas de matrícula sem a homologação prevista no n.º 1 do artigo 9.º do Regulamento ora aprovado.\n\n2 - Em caso de reincidência no incumprimento por parte de uma entidade detentora da autorização a que se refere o artigo 13.º de qualquer das disposições constantes no capítulo II do Regulamento ora aprovado, ou sempre que se verifique incumprimento das instruções da Direcção-Geral de Viação relativas à comercialização de chapas de matrícula, pode o director-geral de Viação cancelar a referida autorização."
+  },
+  "128098996": {
+   "fragment_id": "128021134",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\n1 - A fiscalização do cumprimento das disposições do presente diploma incumbe à Guarda Nacional Republicana, Polícia de Segurança Pública e Direcção-Geral de Viação.\n\n2 - É cometida à Inspecção-Geral das Actividades Económicas a fiscalização do cumprimento do presente diploma no que se refere à comercialização de chapas de matrícula."
+  },
+  "128098997": {
+   "fragment_id": "128021135",
+   "type": 11,
+   "heading": "Artigo 4.º — Processamento das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processamento das contra-ordenações\n\n1 - Ao procedimento pelas contra-ordenações previstas no artigo anterior é aplicável, com as necessárias adaptações, o disposto no Código da Estrada quanto ao processamento das contra-ordenações rodoviárias, competindo ao director-geral de Viação a aplicação das respectivas sanções.\n\n2 - A distribuição das receitas provenientes da aplicação das coimas rege-se pelo disposto no artigo 1.º do Decreto-Lei n.º 369/99, de 18 de Setembro."
+  },
+  "128098998": {
+   "fragment_id": "128021136",
+   "type": 11,
+   "heading": "Artigo 5.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Revogação\n\nSão revogados os artigos 1.º, 2.º e 3.º do Decreto Regulamentar n.º 13/98, de 15 de Junho, bem como os artigos 35.º e 37.º do Regulamento do Código da Estrada, aprovado pelo Decreto Regulamentar n.º 39987, de 22 de Dezembro de 1954."
+  },
+  "128098999": {
+   "fragment_id": "128021137",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nOs artigos 11.º, 15.º e 16.º do Regulamento em anexo entram em vigor em 1 de Janeiro de 2006."
+  },
+  "128099001": {
+   "fragment_id": "128021139",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "128099002": {
+   "fragment_id": "128021140",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I"
+  },
+  "128099003": {
+   "fragment_id": "128021141",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente Regulamento aplica-se ao número e à chapa de matrícula dos automóveis e seus reboques, motociclos, triciclos e quadriciclos de cilindrada superior a 50 cm3."
+  },
+  "128099004": {
+   "fragment_id": "128021142",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento e legislação complementar, os seguintes termos têm o significado que aqui lhes é atribuído:\n\na) «Número de matrícula» o número atribuído pela entidade competente a um veículo correspondente à sua matrícula;\n\nb) «Chapa de matrícula» o dispositivo aprovado para ser afixado num veículo com o seu número de matrícula;\n\nc) «Fabricante» a pessoa ou entidade responsável perante a entidade que concede a homologação por todos os aspectos do processo de homologação e por assegurar a conformidade de produção;\n\nd) «Manipulador» a pessoa ou entidade responsável pela inscrição do número de matrícula de um veículo numa chapa de matrícula;\n\ne) «Ponto de venda autorizado» o estabelecimento onde são vendidas ao público as chapas de matrícula, devidamente autorizado nos termos do presente Regulamento."
+  },
+  "128099005": {
+   "fragment_id": "128021143",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNúmero de matrícula dos automóveis, motociclos, triciclos e quadriciclos com cilindrada superior a 50 cm3\n\n1 - O número de matrícula dos automóveis, motociclos, triciclos e quadriciclos com cilindrada superior a 50 cm3 é constituído por dois grupos de dois algarismos e um grupo de duas letras, sendo os grupos separados entre si por traços.\n\n2 - O grupo de duas letras posiciona-se da seguinte forma:\n\na) Matrículas atribuídas até 29 de Fevereiro de 1992 - AA-00-00;\n\nb) Matrículas atribuídas a partir de 1 de Março de 1992 - 00-00-AA;\n\nc) Matrículas atribuídas a partir do fim da utilização do modelo referido na alínea anterior - 00-AA-00.\n\n3 - Após o esgotamento dos números de matrícula correspondentes à alínea c) do número anterior, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos, sendo os grupos separados entre si por traços."
+  },
+  "128099006": {
+   "fragment_id": "128021144",
+   "type": 11,
+   "heading": "Artigo 4.º — Número de matrícula dos reboques e dos veículos para exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Número de matrícula dos reboques e dos veículos para exportação\n\n1 - O número de matrícula dos reboques é constituído por uma ou duas letras identificadoras do serviço regional que procedeu à matrícula, seguidas de um número de ordem.\n\n2 - Os dígitos identificadores dos serviços regionais da Direcção-Geral de Viação e dos serviços das Regiões Autónomas a que se refere o número anterior são os da tabela constante do anexo I ao presente diploma e que dele faz parte integrante.\n\n3 - O número de matrícula dos veículos destinados à exportação é constituído por um número de ordem, seguido da letra inicial de Lisboa, Porto, Açores ou Madeira, consoante o serviço alfandegário que a processe."
+  },
+  "128099007": {
+   "fragment_id": "128021145",
+   "type": 11,
+   "heading": "Artigo 5.º — Chapa de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Chapa de matrícula\n\n1 - As chapas de matrícula dos veículos referidos nos artigos anteriores devem obedecer aos modelos constantes dos anexos seguintes, do presente Regulamento, para matrículas atribuídas:\n\na) Até 31 de Dezembro de 1991 - anexo II;\n\nb) Entre 1 de Janeiro de 1992 e 31 de Dezembro de 1997 - anexo III;\n\nc) Após 1 de Janeiro de 1998 - anexo IV.\n\n2 - As chapas de matrícula dos modelos constantes do anexo II têm fundo de cor preta e letras, algarismos e traços de cor branca, conforme os modelos I a V constantes do referido anexo.\n\n3 - As chapas de matrícula constantes do anexo III devem ser revestidas de material retroreflector, apresentando fundo de cor branca e letras, algarismos, traços e rebordo periférico a preto, conforme os modelos I a IV, constantes do mesmo anexo.\n\n4 - As chapas de matrícula dos modelos I e II do anexo IV, para além das características referidas no número anterior, devem ainda conter, na extremidade direita, a indicação do ano e mês de atribuição da primeira matrícula do veículo.\n\n5 - As chapas de matrícula dos veículos matriculados até 31 de Dezembro de 1991 podem ser substituídas por chapas dos modelos constantes dos anexos III e IV, podendo as chapas de matrícula dos automóveis matriculados entre 1 de Janeiro de 1992 e 31 de Dezembro de 1997 ser substituídas por chapas do modelo constante no anexo IV."
+  },
+  "128099008": {
+   "fragment_id": "128021146",
+   "type": 11,
+   "heading": "Artigo 6.º — Casos particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Casos particulares\n\n1 - Nos veículos destinados à exportação, a chapa de matrícula é de um dos modelos constantes do anexo V, tendo cor amarela e letras, algarismos, traços e rebordo periférico a preto.\n\n2 - Nas chapas de matrícula dos automóveis, reboques e motociclos com cilindrada superior a 50 cm3, pertencentes aos membros do corpo diplomático e cônsules de carreira acreditados junto do Governo Português, aos membros do pessoal administrativo e técnico de missões estrangeiras que não sejam portugueses nem tenham residência permanente em território nacional e às entidades abrangidas pelo Protocolo sobre Privilégios e Imunidades das Comunidades Europeias, os caracteres, traços e rebordo periférico das chapas de matrícula são de cor vermelha."
+  },
+  "128099009": {
+   "fragment_id": "128021147",
+   "type": 11,
+   "heading": "Artigo 7.º — Instalação das chapas de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instalação das chapas de matrícula\n\n1 - Os automóveis devem possuir duas chapas de matrícula, uma à frente e outra à retaguarda.\n\n2 - Nos motociclos, triciclos e quadriciclos com cilindrada superior a 50 cm3 e nos reboques, a chapa de matrícula é colocada apenas à retaguarda.\n\n3 - A chapa deve apresentar o seu eixo principal em posição horizontal relativamente ao solo, sendo montada perpendicularmente e centrada relativamente ao plano longitudinal médio do veículo, ou, se tal não for possível, à esquerda deste plano.\n\n4 - O bordo inferior desta chapa não deve distar do solo menos de 200 mm e o bordo superior mais de 1200 mm.\n\n5 - Quando as características construtivas dos veículos não permitam a colocação das chapas de matrícula da forma prevista, pode a Direcção-Geral de Viação autorizar a sua colocação de forma adaptada àquelas características, desde que não prejudique o disposto no número seguinte.\n\n6 - A chapa deve ser fixada ao veículo de forma inamovível, não podendo, em circunstância alguma, ficar total ou parcialmente encoberta por elemento do veículo ou por qualquer carga transportada.\n\n7 - Para efeitos do número anterior, considera-se como inamovível uma chapa de matrícula que não possa ser retirada sem o auxílio de uma ferramenta."
+  },
+  "128099010": {
+   "fragment_id": "128021148",
+   "type": 11,
+   "heading": "Artigo 8.º — Número de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Número de matrícula\n\n1 - A cada veículo em condições de circular só pode ser atribuído um número de matrícula.\n\n2 - A pedido das forças e serviços de segurança, de entidades militares e diplomáticas e de autoridades judiciais, a Direcção-Geral de Viação pode atribuir aos veículos de índole inequivocamente operacional ou para a segurança pessoal do utilizador, e com carácter de excepção, desde que afectos ao exercício das competências daqueles serviços, números de matrícula suplementares.\n\n3 - O número máximo de números de matrícula a considerar para cada veículo, para além da sua matrícula base, não pode ser simultaneamente superior a quatro.\n\n4 - Por razões de segurança e a pedido das entidades referidas no n.º 2, pode ser atribuída uma matrícula suplementar a veículos matriculados noutro país."
+  },
+  "128099011": {
+   "fragment_id": "128021149",
+   "type": 11,
+   "heading": "Artigo 9.º — Chapas de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Chapas de matrícula\n\n1 - As chapas de matrícula dos modelos constantes dos anexos III e IV ao presente Regulamento que sejam instaladas nos veículos devem corresponder a um modelo homologado pela Direcção-Geral de Viação.\n\n2 - Por despacho do director-geral de Viação, são estabelecidas as características técnicas a que devem obedecer as chapas de matrícula, bem como as suas condições de aprovação.\n\n3 - Nos casos em que, por razões construtivas, não possam ser colocadas nos veículos chapas com as dimensões previstas no presente Regulamento, a Direcção-Geral de Viação pode autorizar a colocação de chapas de matrícula com dimensões inferiores.\n\n4 - Sobre as chapas de matrícula não podem ser colocados quaisquer emblemas ou insígnias, bem como qualquer material que altere as suas características de homologação."
+  },
+  "128099012": {
+   "fragment_id": "128021150",
+   "type": 1,
+   "heading": "Capítulo II — Emissão de chapas de matrícula dos modelos constantes dos anexos III e IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Emissão de chapas de matrícula dos modelos constantes dos anexos III e IV"
+  },
+  "128099013": {
+   "fragment_id": "128021151",
+   "type": 11,
+   "heading": "Artigo 10.º — Manipuladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Manipuladores\n\n1 - A inscrição de números de matrícula em chapas de matrícula dos modelos constantes dos anexos III e IV só pode ser efectuada por manipuladores que possuam uma autorização para o efeito, concedida pelo fabricante das chapas de matrícula, titular da respectiva homologação.\n\n2 - Os manipuladores têm de respeitar integralmente todas as instruções referentes ao processo de fabrico das chapas de matrícula que lhes sejam determinadas pelos respectivos fabricantes.\n\n3 - O fabricante da chapa é responsável pela sua conformidade com o modelo homologado, incluindo subsidiariamente as operações de inscrição do número de matrícula realizadas pelos manipuladores.\n\n4 - Os fabricantes de chapas de matrícula homologadas devem dar conhecimento à Direcção-Geral de Viação dos manipuladores por si autorizados.\n\n5 - Os fabricantes de chapas de matrícula homologadas devem retirar a autorização concedida a um manipulador, nos termos do n.º 1, sempre que verifiquem que o mesmo não respeita as suas instruções relativas ao processo de fabrico, devendo do facto dar conhecimento à Direcção-Geral de Viação."
+  },
+  "128099014": {
+   "fragment_id": "128021152",
+   "type": 11,
+   "heading": "Artigo 11.º — Venda de chapas de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Venda de chapas de matrícula\n\nA venda ao público de chapas de matrícula nos termos do presente Regulamento é feita exclusivamente por entidades autorizadas para o efeito, que podem ser simultaneamente fabricantes ou manipuladores de chapas de matrícula."
+  },
+  "128099015": {
+   "fragment_id": "128021153",
+   "type": 11,
+   "heading": "Artigo 12.º — Candidatos à autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Candidatos à autorização\n\nA autorização referida no artigo anterior só pode ser concedida a pessoas singulares ou colectivas, nacionais ou estrangeiras, que se encontrem regularmente estabelecidas em território nacional."
+  },
+  "128099016": {
+   "fragment_id": "128021154",
+   "type": 11,
+   "heading": "Artigo 13.º — Autorização para a emissão de chapas de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autorização para a emissão de chapas de matrícula\n\nA autorização para o exercício da actividade de venda de chapas de matrícula é concedida por despacho do director-geral de Viação, que fixará os elementos necessários para a instrução dos pedidos."
+  },
+  "128099017": {
+   "fragment_id": "128021155",
+   "type": 11,
+   "heading": "Artigo 14.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Idoneidade\n\nConsideram-se idóneas para os efeitos previstos no artigo anterior as entidades cujos sócios, gerentes ou administradores não estejam judicialmente interditos do exercício de actividade relacionada com a emissão de chapas de matrícula, na sequência de condenação com trânsito em julgado, por infracção cometida no exercício da mesma actividade.\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719) O disposto na alínea c) do n.º 1 do artigo 14.º, aplica-se aos processos que se encontram pendentes no IMT, I. P., a 2020-01-15."
+  },
+  "128099018": {
+   "fragment_id": "128021156",
+   "type": 11,
+   "heading": "Artigo 15.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Identificação\n\nOs pontos de venda autorizados de chapas de matrícula devem apresentar, de forma claramente visível para o público, símbolo identificativo da Direcção-Geral de Viação, a estabelecer através de despacho do respectivo director-geral."
+  },
+  "128099019": {
+   "fragment_id": "128021157",
+   "type": 11,
+   "heading": "Artigo 16.º — Venda de chapas de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Venda de chapas de matrícula\n\n1 - A venda de chapas de matrícula ao público só é efectuada mediante a apresentação do livrete do veículo ou documento emitido pela Direcção-Geral de Viação que o substitua, e ainda de documento de identificação do requerente da chapa.\n\n2 - Os pontos de venda autorizados devem anotar em livro de registo, de modelo aprovado por despacho do director-geral de Viação, a identidade dos requerentes de todas as chapas de matrícula produzidas, bem como o respectivo número de matrícula inscrito.\n\n3 - Os pontos de venda autorizados devem manter os registos referidos no número anterior por um período mínimo de cinco anos."
+  },
+  "128099020": {
+   "fragment_id": "128021158",
+   "type": 14,
+   "heading": "Anexo I — Tabela de dígitos identificadores dos serviços emissores de matrículas de reboques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela de dígitos identificadores dos serviços emissores de matrículas de reboques\n\n(referente ao n.º 2 do artigo 4.º)\n\nAveiro - AV.\n\nBeja - BE.\n\nBraga - BR.\n\nBragança - BN.\n\nCastelo Branco - CB.\n\nCoimbra - C.\n\nÉvora - E.\n\nFaro - FA.\n\nGuarda - GD.\n\nLeiria - LE.\n\nLisboa - L.\n\nPortalegre - PT.\n\nPorto - P.\n\nSantarém - SA.\n\nSetúbal - SE.\n\nViana do Castelo - VC.\n\nVila Real - VR.\n\nViseu - VS.\n\nAngra do Heroísmo - AN.\n\nHorta - H.\n\nPonta Delgada - A.\n\nFunchal - M."
+  },
+  "128099021": {
+   "fragment_id": "128021159",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver modelos no documento original)"
+  },
+  "128099022": {
+   "fragment_id": "128021160",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\n(ver modelos no documento original)\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719) As homologações de modelo de chapas de matrícula concedidas pelo IMT, I. P., para as chapas de matrícula dos modelos constantes deste anexo mantêm-se válidas, até ao termo da sua vigência, para a produção de chapas de matrícula dos modelos correspondentes, constantes do anexo v a este Regulamento."
+  },
+  "128099023": {
+   "fragment_id": "128021161",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV\n\n(ver modelos no documento original)\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719) As homologações de modelo de chapas de matrícula concedidas pelo IMT, I. P., para as chapas de matrícula dos modelos constantes deste anexo mantêm-se válidas, até ao termo da sua vigência, para a produção de chapas de matrícula dos modelos correspondentes, constantes do anexo v a este Regulamento."
+  },
+  "128099024": {
+   "fragment_id": "128021162",
+   "type": 14,
+   "heading": "Anexo V — (ver modelos no documento original)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (ver modelos no documento original)"
+  },
+  "128104310": {
+   "fragment_id": "128021132",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É aprovado o Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, adiante designado 'Regulamento', cujo texto se publica em anexo ao presente decreto-lei e dele faz parte integrante.\n\n2 - Os anexos do Regulamento fazem dele parte integrante.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104311": {
+   "fragment_id": "128021133",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime sancionatório",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 2.º — Regime sancionatório\n\n1 - As infracções ao Regulamento constituem contra-ordenações rodoviárias, com excepção das previstas nas alíneas c) e d) do número seguinte.\n\n2 - Constituem contra-ordenações puníveis com coima de (euro) 250 a (euro) 1250 as seguintes infracções ao Regulamento:\n\na) O incumprimento do estabelecido no artigo 15.º;\n\nb) O incumprimento, por parte de uma entidade detentora da autorização a que se refere o artigo 13.º, de qualquer das disposições constantes no artigo 16.º;\n\nc) A comercialização de chapas de matrícula por entidade que não obedeça ao estabelecido no artigo 11.º;\n\nd) A comercialização de chapas de matrícula de modelo não homologado.\n\n3 - Em caso de reincidência no incumprimento por parte de uma entidade detentora da autorização a que se refere o artigo 13.º, de qualquer das disposições constantes do capítulo ii do Regulamento ora aprovado, ou sempre que se verifique incumprimento das instruções do Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), relativas à comercialização de chapas de matrícula, pode o IMTT, I. P., cancelar a referida autorização.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128099056": {
+   "fragment_id": "128021134",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nÉ cometida à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do Regulamento no que se refere à comercialização de chapas de matrícula, sem prejuízo da competência das entidades a quem cabe a fiscalização do trânsito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104312": {
+   "fragment_id": "128021135",
+   "type": 11,
+   "heading": "Artigo 4.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 4.º — Instrução dos processos e aplicação das coimas\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a instrução dos processos de contra-ordenação previstos no n.º 2 do artigo 2.º\n\n2 - Compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) a aplicação das respectivas coimas e sanções acessórias.\n\n3 - O produto das coimas é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 30 % para a ASAE;\n\nc) 10 % para a CACMEP.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128099000": {
+   "fragment_id": "128021138",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - Daniel Viegas Sanches - José Pedro Aguiar Branco.\n\nPromulgado em 18 de Fevereiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Fevereiro de 2005.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes.\n\nREGULAMENTO DO NÚMERO E CHAPA DE MATRÍCULA DOS AUTOMÓVEIS, SEUS REBOQUES, MOTOCICLOS, TRICICLOS E QUADRICICLOS DE CILINDRADA SUPERIOR A 50 CM3."
+  },
+  "128104313": {
+   "fragment_id": "128021141",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente Regulamento aplica-se ao número de matrícula, chapa de matrícula e dispositivo electrónico de matrícula dos automóveis e seus reboques, dos motociclos, bem como dos triciclos autorizados a circular em auto-estradas ou vias equiparadas, e ainda ao número e chapa de matrícula dos ciclomotores, dos quadriciclos, das máquinas industriais e máquinas industriais rebocáveis, e dos veículos antes referidos que não estejam autorizados a circular naquelas infra-estruturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104314": {
+   "fragment_id": "128021142",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento e legislação complementar, os seguintes termos têm o significado que aqui lhes é atribuído:\n\na) «Matrícula» é o elemento de identificação do veículo constituído pelo número de matrícula que consta da chapa de matrícula e, no que respeita a automóveis e seus reboques, a motociclos, bem como a triciclos autorizados a circular em auto-estradas ou vias equiparadas, de um dispositivo electrónico de matrícula;\n\nb) «Número de matrícula» o número atribuído pela entidade competente a um veículo correspondente à sua matrícula;\n\nc) «Dispositivo electrónico de matrícula» é o dispositivo electrónico instalado no veículo onde se inscrevem, de forma electrónica, um código que permite a detecção e identificação automáticas, por entidades legalmente autorizadas, do referido dispositivo, a classe do veículo, bem como, se os proprietários do veículo assim o entenderem, outras características do veículo, devendo obedecer aos requisitos técnicos legais previstos na portaria a que se refere o artigo 20.º do presente Regulamento;\n\nd) «Chapa de matrícula» o dispositivo aprovado para ser afixado num veículo com o seu número de matrícula;\n\ne) «Fabricante» a pessoa ou entidade responsável perante a entidade que concede a homologação por todos os aspectos do processo de homologação e por assegurar a conformidade de produção;\n\nf) «Manipulador» a pessoa ou entidade responsável pela inscrição do número de matrícula de um veículo numa chapa de matrícula;\n\ng) «Ponto de venda autorizado» o estabelecimento onde são vendidas ao público as chapas de matrícula, devidamente autorizado nos termos do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104315": {
+   "fragment_id": "128021143",
+   "type": 11,
+   "heading": "Artigo 3.º — Número de matrícula",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 3.º — Número de matrícula\n\n1 - O número de matrícula dos automóveis, motociclos, ciclomotores, triciclos e quadriciclos, atribuído pela Direcção-Geral de Viação, é constituído por dois grupos de dois algarismos e um grupo de duas letras, sendo os grupos separados entre si por traços.\n\n2 - O grupo de duas letras posiciona-se da seguinte forma:\n\na) Matrículas atribuídas até 29 de Fevereiro de 1992 - AA-00-00;\n\nb) Matrículas atribuídas a partir de 1 de Março de 1992 - 00-00-AA;\n\nc) Matrículas atribuídas a partir do fim da utilização do modelo referido na alínea anterior - 00-AA-00.\n\n3 - A composição do número de matrícula das máquinas industriais e das máquinas industriais rebocáveis obedece ao disposto nos números anteriores, sendo o número de matrícula seguido de uma letra identificativa da classe de circulação definida nos termos do anexo II do regulamento para atribuição de matrícula a máquinas industriais com motor de propulsão ou rebocáveis.\n\n4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos, sendo os grupos separados entre si por traços.\n\n5 - A cada número de matrícula dos veículos abrangidos pelo número seguinte corresponde um dispositivo electrónico de matrícula a instalar no veículo, com excepção das situações a que se referem os n.os 2 e 4 do artigo 8.º\n\n6 - A instalação do dispositivo electrónico de matrícula é obrigatória para todos os automóveis e seus reboques, para todos os motociclos, bem como para os triciclos autorizados a circular em auto-estradas ou vias equiparadas, podendo, por despacho do membro do Governo responsável pelas obras públicas e transportes, esta obrigação ser alargada às restantes categorias de veículos previstas no âmbito do presente Regulamento.\n\n7 - O dispositivo electrónico de matrícula transmite um código, para efeitos da sua detecção e identificação automáticas.\n\n8 - A pedido das forças e serviços de segurança de entidades militares e diplomáticas e de autoridades judiciais, o IMTT, I. P., pode autorizar, com carácter de excepção, a utilização de dispositivos electrónicos de matrícula suplementares em veículos de índole inequivocamente operacional ou para a segurança pessoal do utilizador, desde que afectos ao exercício das competências daqueles serviços.\n\n9 - Por razões de segurança e a pedido das entidades referidas no número anterior, pode ser atribuído um dispositivo electrónico de matrícula suplementar a veículos matriculados noutro país.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104316": {
+   "fragment_id": "128021145",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de chapa de matrícula",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 5.º — Modelo de chapa de matrícula\n\n1 - As chapas de matrícula dos automóveis, seus reboques, motociclos com cilindrada superior a 50 cm3 e triciclos devem obedecer aos modelos constantes dos anexos seguintes do presente Regulamento, para matrículas atribuídas:\n\na) Até 31 de Dezembro de 1991 - anexo II;\n\nb) Entre 1 de Janeiro de 1992 e 31 de Dezembro de 1997 - anexo III;\n\nc) Após 1 de Janeiro de 1998 - anexo IV.\n\n2 - As chapas de matrícula dos modelos constantes do anexo II têm fundo de cor preta e letras, algarismos e traços de cor branca, conforme os modelos I a V constantes do referido anexo.\n\n3 - As chapas de matrícula constantes do anexo III devem ser revestidas de material retroreflector, apresentando fundo de cor branca e letras, algarismos, traços e rebordo periférico a preto, conforme os modelos I a IV, constantes do mesmo anexo.\n\n4 - As chapas de matrícula dos modelos I e II do anexo IV, para além das características referidas no número anterior, devem ainda conter, na extremidade direita, a indicação do ano e mês de atribuição da primeira matrícula do veículo.\n\n5 - As chapas de matrícula dos veículos matriculados até 31 de Dezembro de 1991 podem ser substituídas por chapas dos modelos constantes dos anexos III e IV, podendo as chapas de matrícula dos automóveis matriculados entre 1 de Janeiro de 1992 e 31 de Dezembro de 1997 ser substituídas por chapas do modelo constante no anexo IV.\n\n6 - As chapas de matrícula dos motociclos com cilindrada superior a 50 cm3 e dos triciclos, matriculados a partir de 1 de Janeiro de 2007, devem obedecer ao modelo v do anexo iv do presente Regulamento, sendo constituídas por material plástico.\n\n7 - As chapas de matrícula dos motociclos com cilindrada superior a 50 cm3 e dos triciclos, matriculados antes de 1 de Janeiro de 2007, podem ser substituídas por chapa do modelo referido no número anterior.\n\n8 - A chapa de matrícula dos motociclos de cilindrada não superior a 50 cm3, dos ciclomotores e dos quadriciclos, matriculados pela Direcção-Geral de Viação, deve obedecer às características e dimensões do modelo VI do anexo IV do presente Regulamento, apresentando fundo a amarelo e letras, algarismos, traços e rebordo periférico a preto.\n\n9 - Nos ciclomotores de três rodas e nos quadriciclos que apresentem largura adequada ou possuam espaço próprio para a colocação da chapa de matrícula pode ser instalada chapa do modelo VII do anexo IV.\n\n10 - Nos triciclos que possuam as características referidas no número anterior pode ser instalada chapa do modelo I do anexo IV.\n\n11 - As chapas de matrícula das máquinas industriais e das máquinas industriais rebocáveis devem obedecer aos modelos VIII e IX do anexo IV do presente Regulamento, apresentando fundo a vermelho e letras, algarismos, traços e rebordo periférico a preto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128099061": {
+   "fragment_id": "128021147",
+   "type": 11,
+   "heading": "Artigo 7.º — Instalação de chapa de matrícula",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 7.º — Instalação de chapa de matrícula\n\n1 - Os automóveis e as máquinas industriais devem possuir duas chapas de matrícula, uma à frente e outra à retaguarda.\n\n2 - Nos motociclos, ciclomotores, triciclos, quadriciclos, reboques e máquinas industriais rebocáveis, a chapa de matrícula é colocada apenas à retaguarda.\n\n3 - As chapas devem ser fixadas em posição vertical, perpendicular e centrada relativamente ao plano longitudinal médio do veículo ou, se tal não for possível, à esquerda deste plano, não devendo o seu bordo inferior distar do solo menos de 200 mm e o bordo superior mais de 1200 mm.\n\n4 - Quando as características construtivas dos veículos não permitam a colocação das chapas de matrícula da forma prevista, pode a Direcção-Geral de Viação autorizar a sua colocação de forma adaptada àquelas características, desde que não prejudique o disposto no número seguinte.\n\n5 - A chapa deve ser fixada ao veículo de forma inamovível, não podendo, em circunstância alguma, ficar total ou parcialmente encoberta por elemento do veículo ou por qualquer carga transportada.\n\n6 - Para efeitos do número anterior, considera-se como inamovível uma chapa de matrícula que não possa ser retirada sem o auxílio de uma ferramenta.\n\n7 - Nas máquinas industriais e máquinas industriais rebocáveis em que, por razões construtivas ou funcionais, não seja possível colocar as chapas de matrícula conforme estabelecido nos números anteriores, pode ser colocada uma só chapa de matrícula lateralmente, do lado direito da máquina e ser autorizada a utilização de chapas amovíveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128099062": {
+   "fragment_id": "128021149",
+   "type": 11,
+   "heading": "Artigo 9.º — Chapas de matrícula",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 9.º — Chapas de matrícula\n\n1 - As chapas de matrícula dos modelos constantes dos anexos III e IV do presente Regulamento devem corresponder a um modelo homologado pela Direcção-Geral de Viação.\n\n2 - Por despacho do director-geral de Viação, são estabelecidas as características técnicas a que devem obedecer as chapas de matrícula, bem como as suas condições de aprovação.\n\n3 - Nos casos em que, por razões construtivas, não possam ser colocadas nos veículos chapas com as dimensões previstas no presente Regulamento, a Direcção-Geral de Viação pode autorizar a colocação de chapas de matrícula com dimensões inferiores.\n\n4 - As características de homologação das chapas de matrícula não podem ser alteradas, não podendo ser efectuadas quaisquer dobragens, nem sobre elas ser colocados emblemas, insígnias ou qualquer outro elemento ou material que impeça ou dificulte a leitura completa do número de matrícula, directamente ou através de equipamentos de controlo rodoviário.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104320": {
+   "fragment_id": "128101841",
+   "type": 1,
+   "heading": "Capítulo III — Finalidade e regras de emissão do dispositivo electrónico de matrícula",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "### Capítulo III — Finalidade e regras de emissão do dispositivo electrónico de matrícula\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104324": {
+   "fragment_id": "128101843",
+   "type": 11,
+   "heading": "Artigo 17.º — Finalidade do dispositivo electrónico de matrícula",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 17.º — Finalidade do dispositivo electrónico de matrícula\n\n1 - A identificação ou detecção electrónica de veículos através do dispositivo electrónico de matrícula, nos termos previstos nos n.os 5, 6 e 7 do artigo 3.º do presente Regulamento, destina-se à cobrança electrónica de portagens em conformidade com o Serviço Electrónico Europeu de Portagem.\n\n2 - O modo de utilização do dispositivo electrónico de matrícula para a finalidade prevista no número anterior é definido por portaria do membro do Governo responsável pelas áreas das obras públicas e transportes, nos termos e com os limites definidos no presente Regulamento.\n\n3 - As bases de dados a constituir para a finalidade prevista no n.º 1 são criadas, desenvolvidas e mantidas nos termos da Lei n.º 67/98, de 26 de Outubro, sendo as seguintes:\n\na) Base de dados de dispositivos electrónicos de matrícula;\n\nb) Base de dados de eventos públicos de tráfego, para efeitos de cobrança de portagens;\n\nc) Bases de dados de estado de adequação do dispositivo para efeitos de cobrança electrónica de portagens.\n\n4 - Os responsáveis pelo tratamento das bases de dados referidas no número anterior são os seguintes:\n\na) O responsável pelo tratamento da base de dados referida na alínea a) do número anterior é o IMTT, I. P.;\n\nb) O responsável pelo tratamento da base de dados referida na alínea b) do número anterior é a SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.);\n\nc) Os responsáveis pelo tratamento das bases de dados referidas na alínea c) do número anterior são as entidades prestadoras de serviço de cobrança de portagens.\n\n5 - Sem prejuízo do referido na alínea a) do número anterior, nas Regiões Autónomas, os serviços que exercem as competências cometidas ao IMTT, I. P., acedem aos dados contidos na base de dados a que se refere a alínea a) do n.º 3, nos exactos termos e com as mesmas competências previstos no artigo 31.º do Decreto-Lei n.º 128/2006, de 5 de Julho.\n\n6 - A base de dados a que se refere a alínea b) do n.º 3 não prejudica a existência, o funcionamento e a natureza privada das bases de dados de eventos de tráfego detidas, tratadas e da responsabilidade das concessionárias, subconcessionárias ou entidades incumbidas da cobrança de portagens, ou das que venham a ser constituídas por estas entidades ao abrigo da Lei n.º 67/98, de 26 de Outubro, para a prossecução das suas atribuições.\n\n7 - Sem prejuízo do disposto em outra legislação aplicável, estão legalmente autorizadas a aceder aos dados constantes de bases de dados constituídas com a finalidade prevista no n.º 1, e tendo em vista a prossecução das suas atribuições, as seguintes entidades:\n\na) As forças de segurança, relativamente a todas as bases de dados a que se refere o n.º 3;\n\nb) As concessionárias e as subconcessionárias de infra-estruturas rodoviárias, relativamente às bases de dados a que se referem as alíneas b) e c) do n.º 3;\n\nc) A SIEV, S. A., relativamente às bases de dados a que se referem as alíneas a) e c) do n.º 3;\n\nd) O Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), relativamente à base de dados a que se refere a alínea b) do n.º 3;\n\ne) Entidades de cobrança de portagens, relativamente às bases de dados referida na alínea b) do n.º 3.\n\n8 - Os meios e o modo de acesso aos dados pelas entidades referidas no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da justiça, das obras públicas e transportes, devendo aquela portaria assegurar que o acesso concedido àquelas entidades é apenas o estritamente indispensável ao eficaz desempenho das suas competências.\n\n9 - Os dispositivos de identificação ou detecção electrónica de veículos, através do dispositivo electrónico de matrícula, são dotados de um alcance meramente local, de forma a permitir a simples detecção dos dispositivos electrónicos de matrícula que se encontrem nas proximidades, não podendo, em caso algum, essa identificação permitir a localização geral e permanente dos veículos a partir da leitura electrónica do dispositivo electrónico de matrícula dos veículos em circulação.\n\n10 - Os dados obtidos em violação do disposto no presente artigo não podem servir de prova perante quaisquer entidades públicas ou privadas, sem prejuízo da responsabilidade civil, criminal, contra-ordenacional ou disciplinar que dessa violação possa resultar.\n\n11 - O disposto no presente artigo não prejudica a possibilidade de os proprietários dos veículos, de forma livre e voluntária, utilizarem as funcionalidades do dispositivo electrónico de matrícula para a cobrança de outros serviços, nos termos a acordar com as respectivas entidades prestadoras de serviços de cobrança.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104325": {
+   "fragment_id": "128101844",
+   "type": 11,
+   "heading": "Artigo 18.º — Eficácia legal",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 18.º — Eficácia legal\n\nO dispositivo electrónico de matrícula, quando detectado nos termos legais, constitui, para efeitos do presente Regulamento, título bastante para provar a identificação do respectivo veículo, em conformidade com o registo oficial do mesmo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104326": {
+   "fragment_id": "128101845",
+   "type": 11,
+   "heading": "Artigo 19.º — Tecnologia",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 19.º — Tecnologia\n\nA tecnologia de comunicação a utilizar nos dispositivos electrónicos de matrícula e nos equipamentos de detecção automática daqueles é a tecnologia microondas a 5.8GHz, especificamente a DSRC (Dedicated Short Range Communications), utilizando o formato MDR (Medium Data Rate) em conformidade, designadamente, com a norma europeia EN15509 EFC - Interoperability application profile for DSRC, bem como, nos termos e prazos definidos na portaria a que se refere o artigo seguinte, o formato LDR (Low Data Rate).\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104327": {
+   "fragment_id": "128101846",
+   "type": 11,
+   "heading": "Artigo 20.º — Modelos, requisitos e garantias de segurança",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 20.º — Modelos, requisitos e garantias de segurança\n\nSão definidos por portaria do membro do Governo responsável pelas áreas das obras públicas e transportes, nomeadamente, os seguintes aspectos:\n\na) Normas e especificações do dispositivo electrónico de matrícula e dos dispositivos de detecção e identificação automática;\n\nb) Requisitos legais relativos à distribuição, manutenção e controlo técnico periódico do dispositivo electrónico de matrícula;\n\nc) Normas de instalação do dispositivo electrónico de matrícula nos veículos;\n\nd) Condições de acreditação e certificação de entidades e tecnologias no âmbito do sistema de identificação electrónica de veículos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104328": {
+   "fragment_id": "128101847",
+   "type": 11,
+   "heading": "Artigo 21.º — Salvaguarda do direito à privacidade",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 21.º — Salvaguarda do direito à privacidade\n\n1 - As portarias a que se referem os n.os 2 e 8 do artigo 17.º e o artigo anterior devem expressamente salvaguardar:\n\na) A não existência de um cruzamento automático e permanente entre as bases de dados dos dispositivos electrónicos de matrícula e os dados relativos aos proprietários constantes do registo automóvel;\n\nb) Que o IMTT, I. P., é a única entidade que pode associar em permanência o código do dispositivo electrónico de matrícula ao registo nacional de matrículas, não tendo, contudo, acesso a qualquer informação da base de dados relativa a eventos de tráfego obtida através dos equipamentos de detecção dos dispositivos electrónicos de matrícula;\n\nc) A existência de sistemas de pagamento, no âmbito da cobrança electrónica de portagens, que assegurem e preservem o anonimato do utente, bem como que permitam o pagamento em numerário;\n\nd) Que é vedado qualquer emprego da identificação e detecção electrónica dos veículos para efectuar uma vigilância em tempo real ou a partir de registos sucessivos dos movimentos dos veículos.\n\n2 - Sem prejuízo do disposto no número anterior, em caso de infracção ao Código da Estrada, à Lei n.º 25/2006, de 30 de Junho, alterada pela Lei n.º 67-A/2007, de 31 de Dezembro, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas podem proceder ao relacionamento de dados nos termos da legislação aplicável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104329": {
+   "fragment_id": "128101848",
+   "type": 11,
+   "heading": "Artigo 22.º — Publicitação da localização de dispositivos de detecção e identificação automáticas",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 22.º — Publicitação da localização de dispositivos de detecção e identificação automáticas\n\nA entidade gestora do sistema de identificação electrónica de veículos publicita, no prazo máximo de vinte e quatro horas, no seu sítio da Internet, a localização dos dispositivos instalados de detecção e identificação automáticas, devendo a informação prestada encontrar-se permanentemente actualizada.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104321": {
+   "fragment_id": "128021158",
+   "type": 14,
+   "heading": "Anexo I — Tabela de dígitos identificadores dos serviços emissores de matrículas de reboques",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "## Anexo I — Tabela de dígitos identificadores dos serviços emissores de matrículas de reboques\n\nAveiro - AV.\n\nBeja - BE.\n\nBraga - BR.\n\nBragança - BN.\n\nCastelo Branco - CB.\n\nCoimbra - C.\n\nÉvora - E.\n\nFaro - FA.\n\nGuarda - GD.\n\nLeiria - LE.\n\nLisboa - L.\n\nPortalegre - PT.\n\nPorto - P.\n\nSantarém - SA.\n\nSetúbal - SE.\n\nViana do Castelo - VC.\n\nVila Real - VR.\n\nViseu - VI.\n\nAngra do Heroísmo - AN.\n\nHorta - H.\n\nPonta Delgada - A.\n\nFunchal - M.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104322": {
+   "fragment_id": "128021159",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver modelos no documento original)"
+  },
+  "128104323": {
+   "fragment_id": "128021160",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "## Anexo III\n\n(ver modelos no documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104318": {
+   "fragment_id": "128021161",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "## Anexo IV\n\n(ver modelos no documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104319": {
+   "fragment_id": "128021162",
+   "type": 14,
+   "heading": "Anexo V — (ver modelos no documento original)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (ver modelos no documento original)"
+  },
+  "128104330": {
+   "fragment_id": "128021142",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2010-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento e legislação complementar, os seguintes termos têm o significado que aqui lhes é atribuído:\n\na) «Matrícula» é o elemento de identificação do veículo constituído pelo número de matrícula que consta da chapa de matrícula, sem prejuízo da possibilidade de associação de um dispositivo electrónico de matrícula nos termos e para os efeitos previstos na lei;\n\nb) «Número de matrícula» o número atribuído pela entidade competente a um veículo correspondente à sua matrícula;\n\nc) «Dispositivo electrónico de matrícula» é o dispositivo electrónico instalado no veículo onde se inscrevem, de forma electrónica, um código que permite a detecção e identificação automáticas, por entidades legalmente autorizadas, do referido dispositivo, a classe do veículo, bem como, se os proprietários do veículo assim o entenderem, outras características do veículo, e, se for o caso, os elementos relativos às formas de isenção ou de desconto aplicáveis, devendo obedecer aos requisitos técnicos legais previstos na portaria a que se refere o artigo 20.º do presente Regulamento;\n\nd) «Chapa de matrícula» o dispositivo aprovado para ser afixado num veículo com o seu número de matrícula;\n\ne) «Fabricante» a pessoa ou entidade responsável perante a entidade que concede a homologação por todos os aspectos do processo de homologação e por assegurar a conformidade de produção;\n\nf) «Manipulador» a pessoa ou entidade responsável pela inscrição do número de matrícula de um veículo numa chapa de matrícula;\n\ng) «Ponto de venda autorizado» o estabelecimento onde são vendidas ao público as chapas de matrícula, devidamente autorizado nos termos do presente Regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104331": {
+   "fragment_id": "128021143",
+   "type": 11,
+   "heading": "Artigo 3.º — Número de matrícula",
+   "in_force_from": "2010-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 3.º — Número de matrícula\n\n1 - O número de matrícula dos automóveis, motociclos, ciclomotores, triciclos e quadriciclos, atribuído pela Direcção-Geral de Viação, é constituído por dois grupos de dois algarismos e um grupo de duas letras, sendo os grupos separados entre si por traços.\n\n2 - O grupo de duas letras posiciona-se da seguinte forma:\n\na) Matrículas atribuídas até 29 de Fevereiro de 1992 - AA-00-00;\n\nb) Matrículas atribuídas a partir de 1 de Março de 1992 - 00-00-AA;\n\nc) Matrículas atribuídas a partir do fim da utilização do modelo referido na alínea anterior - 00-AA-00.\n\n3 - A composição do número de matrícula das máquinas industriais e das máquinas industriais rebocáveis obedece ao disposto nos números anteriores, sendo o número de matrícula seguido de uma letra identificativa da classe de circulação definida nos termos do anexo II do regulamento para atribuição de matrícula a máquinas industriais com motor de propulsão ou rebocáveis.\n\n4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos, sendo os grupos separados entre si por traços.\n\n5 - A instalação do dispositivo electrónico de matrícula nos veículos automóveis e seus reboques, motociclos e triciclos autorizados a circular em auto-estradas ou vias equiparadas é facultativa e depende de adesão voluntária do respectivo proprietário.\n\n6 - No caso de ser instalado o dispositivo electrónico de matrícula, deve este ser associado ao número de matrícula do veículo.\n\n7 - O dispositivo electrónico de matrícula transmite um código, para efeitos da sua detecção e identificação automáticas, no âmbito da cobrança electrónica de portagens.\n\n8 - A pedido das forças e serviços de segurança de entidades militares e diplomáticas e de autoridades judiciais, o IMTT, I. P., pode autorizar, com carácter de excepção, a utilização de dispositivos electrónicos de matrícula suplementares em veículos de índole inequivocamente operacional ou para a segurança pessoal do utilizador, desde que afectos ao exercício das competências daqueles serviços.\n\n9 - Por razões de segurança e a pedido das entidades referidas no número anterior, pode ser atribuído um dispositivo electrónico de matrícula suplementar a veículos matriculados noutro país.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104332": {
+   "fragment_id": "128101843",
+   "type": 11,
+   "heading": "Artigo 17.º — Finalidade do dispositivo electrónico de matrícula",
+   "in_force_from": "2010-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 17.º — Finalidade do dispositivo electrónico de matrícula\n\n1 - A identificação ou detecção electrónica de veículos através do dispositivo electrónico de matrícula, nos termos previstos nos n.os 5, 6 e 7 do artigo 3.º do presente Regulamento, destina-se exclusivamente à cobrança electrónica de portagens em conformidade com o Serviço Electrónico Europeu de Portagem, ficando vedada a utilização do dispositivo electrónico de matrícula para quaisquer outras finalidades, sem prejuízo do disposto no n.º 11.\n\n2 - O modo de utilização do dispositivo electrónico de matrícula para a finalidade prevista no número anterior é definido por portaria do membro do Governo responsável pelas áreas das obras públicas e transportes, nos termos e com os limites definidos no presente Regulamento.\n\n3 - As bases de dados a constituir para a finalidade prevista no n.º 1 são criadas, desenvolvidas e mantidas nos termos da Lei n.º 67/98, de 26 de Outubro, sendo as seguintes:\n\na) Base de dados de dispositivos electrónicos de matrícula;\n\nb) Base de dados de eventos públicos de tráfego, para efeitos de cobrança de portagens;\n\nc) Bases de dados de estado de adequação do dispositivo para efeitos de cobrança electrónica de portagens.\n\n4 - Os responsáveis pelo tratamento das bases de dados referidas no número anterior são os seguintes:\n\na) O responsável pelo tratamento da base de dados referida na alínea a) do número anterior é o IMTT, I. P.;\n\nb) O responsável pelo tratamento da base de dados referida na alínea b) do número anterior é a SIEV - Sistema de Identificação Electrónica de Veículos, S. A. (SIEV, S. A.);\n\nc) Os responsáveis pelo tratamento das bases de dados referidas na alínea c) do número anterior são as entidades prestadoras de serviço de cobrança de portagens.\n\n5 - Sem prejuízo do referido na alínea a) do número anterior, nas Regiões Autónomas, os serviços que exercem as competências cometidas ao IMTT, I. P., acedem aos dados contidos na base de dados a que se refere a alínea a) do n.º 3, nos exactos termos e com as mesmas competências previstos no artigo 31.º do Decreto-Lei n.º 128/2006, de 5 de Julho.\n\n6 - A base de dados a que se refere a alínea b) do n.º 3 não prejudica a existência, o funcionamento e a natureza privada das bases de dados de eventos de tráfego detidas, tratadas e da responsabilidade das concessionárias, subconcessionárias ou entidades incumbidas da cobrança de portagens, ou das que venham a ser constituídas por estas entidades ao abrigo da Lei n.º 67/98, de 26 de Outubro, para a prossecução das suas atribuições.\n\n7 - Sem prejuízo do disposto em outra legislação aplicável, estão legalmente autorizadas a aceder aos dados constantes de bases de dados constituídas com a finalidade prevista no n.º 1, e tendo em vista a prossecução das suas atribuições, as seguintes entidades:\n\na) As forças de segurança, relativamente a todas as bases de dados a que se refere o n.º 3;\n\nb) As concessionárias e as subconcessionárias de infra-estruturas rodoviárias, relativamente às bases de dados a que se referem as alíneas b) e c) do n.º 3;\n\nc) A SIEV, S. A., relativamente às bases de dados a que se refere a alínea c) do n.º 3;\n\nd) O Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), relativamente à base de dados a que se refere a alínea b) do n.º 3;\n\ne) Entidades de cobrança de portagens, relativamente às bases de dados referida na alínea b) do n.º 3.\n\n8 - Os meios e o modo de acesso aos dados pelas entidades referidas no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da justiça, das obras públicas e transportes, devendo aquela portaria assegurar que o acesso concedido àquelas entidades é apenas o estritamente indispensável ao eficaz desempenho das suas competências.\n\n9 - Os dispositivos de detecção e identificação electrónica de veículos são dotados de um alcance meramente local, de forma a permitir a simples detecção dos dispositivos electrónicos de matrícula que se encontrem na zona de implantação das praças ou dos pórticos de portagem, não podendo, em caso algum, essa identificação permitir a localização geral e permanente dos veículos a partir da leitura electrónica do dispositivo electrónico de matrícula dos veículos em circulação.\n\n10 - Os dados obtidos em violação do disposto no presente artigo não podem servir de prova perante quaisquer entidades públicas ou privadas, sem prejuízo da responsabilidade civil, criminal, contra-ordenacional ou disciplinar que dessa violação possa resultar.\n\n11 - O disposto no presente artigo não prejudica a possibilidade de os proprietários dos veículos, de forma livre e voluntária, utilizarem as funcionalidades do dispositivo electrónico de matrícula para a cobrança de outros serviços, nos termos a acordar com as respectivas entidades prestadoras de serviços de cobrança.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104333": {
+   "fragment_id": "128101847",
+   "type": 11,
+   "heading": "Artigo 21.º — Salvaguarda do direito à privacidade",
+   "in_force_from": "2010-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 21.º — Salvaguarda do direito à privacidade\n\n1 - As portarias a que se referem os n.os 2 e 8 do artigo 17.º e o artigo anterior devem expressamente salvaguardar:\n\na) A não existência de um cruzamento automático e permanente entre as bases de dados dos dispositivos electrónicos de matrícula e os dados relativos aos proprietários constantes do registo automóvel;\n\nb) Que o IMTT, I. P., é a única entidade que pode associar em permanência o código do dispositivo electrónico de matrícula ao registo nacional de matrículas, não tendo, contudo, acesso a qualquer informação da base de dados relativa a eventos de tráfego obtida através dos equipamentos de detecção dos dispositivos electrónicos de matrícula;\n\nc) A existência de sistemas de pagamento, no âmbito da cobrança electrónica de portagens, que assegurem e preservem o anonimato do utente, bem como que permitam o pagamento em numerário;\n\nd) Que é vedado qualquer emprego da identificação e detecção electrónica dos veículos para efectuar uma vigilância em tempo real ou a partir de registos sucessivos dos movimentos dos veículos.\n\n2 - Sem prejuízo do disposto no número anterior, em caso de infracção à Lei n.º 25/2006, de 30 de Junho, na sua redacção actual, e demais legislação rodoviária, as entidades com atribuições de fiscalização daquelas normas podem proceder ao relacionamento de dados nos termos da legislação aplicável.\n\n3 - A identificação ou detecção electrónica confina-se à zona de implantação das praças ou dos pórticos de portagens e destina-se exclusivamente ao pagamento electrónico de portagens em infra-estruturas rodoviárias, sem prejuízo do disposto no n.º 11 do artigo 17.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104334": {
+   "fragment_id": "128101848",
+   "type": 11,
+   "heading": "Artigo 22.º — Publicitação da localização de dispositivos de detecção e identificação automáticas",
+   "in_force_from": "2010-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 22.º — Publicitação da localização de dispositivos de detecção e identificação automáticas\n\nA entidade gestora do sistema de identificação electrónica de veículos publicita, no prazo máximo de vinte e quatro horas, no seu sítio da Internet, a localização dos dispositivos instalados, nas praças ou nos pórticos de portagem, de detecção e identificação automáticos, devendo a informação prestada encontrar-se permanentemente actualizada.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19"
+  },
+  "128104335": {
+   "fragment_id": "128021143",
+   "type": 11,
+   "heading": "Artigo 3.º — Número de matrícula",
+   "in_force_from": "2020-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 3.º — Número de matrícula\n\n1 - O número de matrícula dos automóveis, motociclos, ciclomotores, triciclos e quadriciclos, atribuído pela Direcção-Geral de Viação, é constituído por dois grupos de dois algarismos e um grupo de duas letras, sendo os grupos separados entre si por traços.\n\n2 - O grupo de duas letras posiciona-se da seguinte forma:\n\na) Matrículas atribuídas até 29 de Fevereiro de 1992 - AA-00-00;\n\nb) Matrículas atribuídas a partir de 1 de Março de 1992 - 00-00-AA;\n\nc) Matrículas atribuídas a partir do fim da utilização do modelo referido na alínea anterior - 00-AA-00.\n\n3 - A composição do número de matrícula das máquinas industriais e das máquinas industriais rebocáveis obedece ao disposto nos números anteriores, sendo o número de matrícula seguido de uma letra identificativa da classe de circulação definida nos termos do anexo II do regulamento para atribuição de matrícula a máquinas industriais com motor de propulsão ou rebocáveis.\n\n4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos.\n\n5 - A instalação do dispositivo electrónico de matrícula nos veículos automóveis e seus reboques, motociclos e triciclos autorizados a circular em auto-estradas ou vias equiparadas é facultativa e depende de adesão voluntária do respectivo proprietário.\n\n6 - No caso de ser instalado o dispositivo electrónico de matrícula, deve este ser associado ao número de matrícula do veículo.\n\n7 - O dispositivo electrónico de matrícula transmite um código, para efeitos da sua detecção e identificação automáticas, no âmbito da cobrança electrónica de portagens.\n\n8 - A pedido das forças e serviços de segurança de entidades militares e diplomáticas e de autoridades judiciais, o IMTT, I. P., pode autorizar, com carácter de excepção, a utilização de dispositivos electrónicos de matrícula suplementares em veículos de índole inequivocamente operacional ou para a segurança pessoal do utilizador, desde que afectos ao exercício das competências daqueles serviços.\n\n9 - Por razões de segurança e a pedido das entidades referidas no número anterior, pode ser atribuído um dispositivo electrónico de matrícula suplementar a veículos matriculados noutro país.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104336": {
+   "fragment_id": "128021145",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de chapa de matrícula",
+   "in_force_from": "2020-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 5.º — Modelo de chapa de matrícula\n\n1 - As chapas de matrícula dos automóveis, seus reboques, motociclos com cilindrada superior a 50 cm3 e triciclos devem obedecer aos modelos constantes dos anexos seguintes do presente Regulamento, para matrículas atribuídas:\n\na) Até 31 de Dezembro de 1991 - anexo II;\n\nb) Entre 1 de Janeiro de 1992 e 31 de Dezembro de 1997 - anexo III;\n\nc) Entre 1 de janeiro de 1998 e a data de início da emissão de números de matrícula do formato previsto no n.º 4 do artigo 3.º - anexo iv;\n\nd) A partir da data de início da emissão de números de matrícula do formato previsto no n.º 4 do artigo 3.º - anexo v.\n\n2 - As chapas de matrícula dos modelos constantes do anexo II têm fundo de cor preta e letras, algarismos e traços de cor branca, conforme os modelos I a V constantes do referido anexo.\n\n3 - As chapas de matrícula dos modelos i a iv dos anexos iii e v devem ser revestidas de material retrorrefletor, apresentando fundo de cor branca e letras, algarismos, traços e rebordo periférico a preto.\n\n4 - As chapas de matrícula dos modelos I e II do anexo IV, para além das características referidas no número anterior, devem ainda conter, na extremidade direita, a indicação do ano e mês de atribuição da primeira matrícula do veículo.\n\n5 -  (Revogado.)\n\n6 - A chapa de matrícula dos ciclomotores, motociclos de cilindrada não superior a 50 cm3 e dos quadriciclos, matriculados pelo IMT, I. P., deve obedecer às características e dimensões do modelo vi do anexo iv, apresentando fundo amarelo e letras, algarismos, traços e rebordo periférico a preto, sendo substituído pelo modelo v do anexo v, a partir da data a que se refere a alínea d) do n.º 1.\n\n7 - (Revogado.)\n\n8 - Nos ciclomotores de três rodas e nos quadriciclos que apresentem largura adequada ou possuam espaço próprio para a colocação da chapa de matrícula, pode ser instalada chapa do modelo vii do anexo iv até à data a que se refere a alínea d) do n.º 1 e do modelo vi do anexo v, a partir daquela data.\n\n9 - Nos triciclos que possuam as características referidas no número anterior pode ser instalada chapa do modelo i do anexo iv até à data a que se refere a alínea d) do n.º 1, e do modelo i do anexo v, a partir daquela data.\n\n10 - As chapas de matrícula dos motociclos com cilindrada superior a 50 cm3 e dos triciclos, matriculados a partir de 1 de janeiro de 2007, devem obedecer ao modelo v do anexo iv, sendo o referido modelo substituído pelo modelo iv do anexo v, a partir da data a que se refere a alínea d) do n.º 1, e devem ser constituídas por material plástico.\n\n11 - As chapas de matrícula das máquinas industriais e máquinas industriais rebocáveis devem obedecer aos modelos viii e ix do anexo iv, apresentando fundo vermelho e letras, algarismos, traços e rebordo periférico a preto, sendo os referidos modelos substituídos pelos modelos vii e viii do anexo v, a partir da data a que se refere a alínea d) do n.º 1.\n\n12 - As chapas de matrícula dos veículos matriculados antes da data a que se refere a alínea d) do n.º 1, correspondentes aos modelos previstos nos anexos ii, iii e iv, mantêm-se válidas para os veículos em circulação, podendo ser substituídas por chapas do modelo correspondente, constante do anexo v.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104337": {
+   "fragment_id": "128021149",
+   "type": 11,
+   "heading": "Artigo 9.º — Chapas de matrícula",
+   "in_force_from": "2020-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 9.º — Chapas de matrícula\n\n1 - As chapas de matrícula dos modelos constantes dos anexos iii, iv e v devem corresponder a um modelo homologado pelo IMT, I. P.\n\n2 - Por despacho do director-geral de Viação, são estabelecidas as características técnicas a que devem obedecer as chapas de matrícula, bem como as suas condições de aprovação.\n\n3 - Nos casos em que, por razões construtivas ou funcionais, não possam ser colocadas nos veículos chapas com as dimensões previstas no presente Regulamento, o IMT, I. P., pode autorizar a colocação de chapas de matrícula com dimensões inferiores, não podendo os carateres apresentar altura inferior a 60 mm.\n\n4 - As características de homologação das chapas de matrícula não podem ser alteradas, não podendo ser efectuadas quaisquer dobragens, nem sobre elas ser colocados emblemas, insígnias ou qualquer outro elemento ou material que impeça ou dificulte a leitura completa do número de matrícula, directamente ou através de equipamentos de controlo rodoviário.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "128104339": {
+   "fragment_id": "128021150",
+   "type": 1,
+   "heading": "Capítulo II — Emissão de chapas de matrícula dos modelos constantes dos anexos iii, iv e v",
+   "in_force_from": "2020-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+   ],
+   "markdown": "### Capítulo II — Emissão de chapas de matrícula dos modelos constantes dos anexos iii, iv e v\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+  },
+  "128104338": {
+   "fragment_id": "128021151",
+   "type": 11,
+   "heading": "Artigo 10.º — Manipuladores",
+   "in_force_from": "2020-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+   ],
+   "markdown": "###### Artigo 10.º — Manipuladores\n\n1 - A inscrição de números de matrícula em chapas de matrícula dos modelos constantes dos anexos iii, iv e v só pode ser efetuada por manipuladores que possuam uma autorização para o efeito, concedida pelo fabricante das chapas de matrícula, titular da respetiva homologação.\n\n2 - Os manipuladores têm de respeitar integralmente todas as instruções referentes ao processo de fabrico das chapas de matrícula que lhes sejam determinadas pelos respectivos fabricantes.\n\n3 - O fabricante da chapa é responsável pela sua conformidade com o modelo homologado, incluindo subsidiariamente as operações de inscrição do número de matrícula realizadas pelos manipuladores.\n\n4 - Os fabricantes de chapas de matrícula homologadas devem dar conhecimento à Direcção-Geral de Viação dos manipuladores por si autorizados.\n\n5 - Os fabricantes de chapas de matrícula homologadas devem retirar a autorização concedida a um manipulador, nos termos do n.º 1, sempre que verifiquem que o mesmo não respeita as suas instruções relativas ao processo de fabrico, devendo do facto dar conhecimento à Direcção-Geral de Viação.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+  },
+  "128104341": {
+   "fragment_id": "128101850",
+   "type": 14,
+   "heading": "Anexo V",
+   "in_force_from": "2020-01-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+   ],
+   "markdown": "## Anexo V\n\nModelo I - Automóveis (frente e retaguarda)\n\n(ver documento original)\n\nModelo II - Automóveis (retaguarda)\n\n(ver documento original)\n\nModelo III - Reboques\n\n(ver documento original)\n\nModelo IV - Motociclos de cilindrada superior a 50 cm3 e triciclos\n\n(ver documento original)\n\nModelo V - Ciclomotores, motociclos de cilindrada não superior a 50 cm3 e quadriciclos\n\n(ver documento original)\n\nModelo VI - Ciclomotores de três rodas e quadriciclos\n\n(ver documento original)\n\nModelo VII - Máquinas industriais e máquinas industriais rebocáveis (frente, retaguarda ou lateral)\n\n(ver documento original)\n\nModelo VIII - Máquinas industriais e máquinas industriais rebocáveis (retaguarda ou lateral)\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+  },
+  "128104342": {
+   "fragment_id": "128021162",
+   "type": 14,
+   "heading": "Anexo VI — (ver modelos no documento original)",
+   "in_force_from": "2020-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+   ],
+   "markdown": "## Anexo VI — (ver modelos no documento original)\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 2/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719), em vigor a partir de 2020-01-15"
+  },
+  "156697096": {
+   "fragment_id": "128021133",
+   "type": 11,
+   "heading": "Artigo 2.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 2.º — Contraordenações\n\n1 - As infrações ao Regulamento constituem contraordenações rodoviárias, com exceção das previstas no número seguinte.\n\n2 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a prática dos seguintes atos:\n\na) O incumprimento do estabelecido no artigo 15.º;\n\nb) O incumprimento, por parte de uma entidade detentora da autorização a que se refere o artigo 13.º, de qualquer das disposições constantes no artigo 16.º;\n\nc) A comercialização de chapas de matrícula por entidade que não obedeça ao estabelecido no artigo 11.º;\n\nd) A comercialização de chapas de matrícula de modelo não homologado.\n\n3 - Em caso de reincidência no incumprimento por parte de uma entidade detentora da autorização a que se refere o artigo 13.º, de qualquer das disposições constantes do capítulo ii do Regulamento ora aprovado, ou sempre que se verifique incumprimento das instruções do Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), relativas à comercialização de chapas de matrícula, pode o IMTT, I. P., cancelar a referida autorização.\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  },
+  "156697097": {
+   "fragment_id": "128021135",
+   "type": 11,
+   "heading": "Artigo 4.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+   ],
+   "markdown": "###### Artigo 4.º — Instrução dos processos e aplicação das coimas\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a instrução dos processos de contra-ordenação previstos no n.º 2 do artigo 2.º\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2006 - Diário da República n.º 111/2006, Série I-A de 2006-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124)"
+  }
+ }
+}

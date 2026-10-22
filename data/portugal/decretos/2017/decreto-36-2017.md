@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:114205523:por
+title: Decreto n.º 36/2017
+short_title: null
+summary: Promove à categoria de Embaixador o Ministro Plenipotenciário de 1.ª classe Júlio José de Oliveira Carranca Vilela
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho de Ministros e Negócios Estrangeiros
+proposing_entity: null
+official_number: 36/2017
+official_date: null
+publication_date: '2017-11-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/2017, Série I de 2017-11-15
+  number: '220'
+  series: I
+  supplement: null
+  pages: 6041 - 6041
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22000/0604106041.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/36/2017/11/15/p/dre/pt/html
+  oj: null
+  dre: '114205523'
+  dre_path: /dr/detalhe/decreto/36-2017-114205523
+  internal: pt:dre:114205523:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-2017-114205523
+  metadata_url: https://data.dre.pt/eli/dec/36/2017/11/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-2017-114205523
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-11-15T00:00:00Z'
+integrity:
+  source_sha256: f8ae9515a5372c6bb11393e62f287075ae0bb78e2def8034448bcd18bf048132
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-36-114205523.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Diplomática
+- Embaixador
+- Nomeação
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/121/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/204/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 36/2017
+
+de 15 de novembro
+
+O Governo decreta, nos termos da alínea e) do artigo 199.º da Constituição, o seguinte:
+
+Considerando o disposto no n.º 2 do artigo 24.º do [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/545648/details/normal?l=1), de 27 de outubro, conjugado com o disposto no artigo 30.º do [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/145192/details/normal?l=1), de 29 de dezembro, e no artigo 20.º do [Decreto-Lei n.º 40-A/98](https://diariodarepublica.pt/web/guest/pesquisa/-/search/399178/details/normal?l=1), de 27 de fevereiro;
+
+**O Ministro Plenipotenciário de 1.ª classe Júlio José de Oliveira Carranca Vilela é promovido a Embaixador, na vaga resultante da nomeação do Embaixador Francisco António Duarte Lopes como Representante Permanente junto das Nações Unidas.**
+
+Em 4 de outubro de 2017. - O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
+
+**Assinado em 18 de outubro de 2017.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 7 de novembro de 2017.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**
+
+## ANEXO — Fundamentação da promoção à categoria de Embaixador do Ministro Plenipotenciário de 1.ª Classe Júlio José de Oliveira Carranca Vilela
+
+A promoção à categoria de Embaixador do Ministro Plenipotenciário de 1.ª Classe Júlio José de Oliveira Carranca Vilela fundamenta-se num vasto percurso de 30 anos de atividade diplomática pautada pelo rigor e excelência da atuação e pelo compromisso incondicional na defesa e representação do Estado Português.
+
+A diversidade das áreas de responsabilidade exercidas ao longo da sua carreira, tanto nos serviços internos como externos do MNE, marcadas por um profundo conhecimento das matérias, a par de uma criteriosa ponderação e ação no cumprimento dos objetivos politicamente definidos em matéria de política externa do Estado Português, constituem fatores decisivos para esta promoção à categoria superior da carreira diplomática, assegurando-se, por esta via, uma continuidade plena dos critérios de excelência que devem pautar a representação do Estado Português ao mais alto nível, em território nacional ou no estrangeiro, os quais são integralmente refletidos infra no percurso profissional deste diplomata.
+
+Júlio José de Oliveira Carranca Vilela - Nascido em 5 de dezembro de 1962, no Lobito, Angola; licenciado em Direito pela Faculdade de Direito da Universidade Clássica de Lisboa; pós-graduações em Estudos Europeus pelo Instituto Europeu da Faculdade de Direito da Universidade Clássica de Lisboa, nas vertentes Jurídica e Económica; antigo advogado; aprovado no concurso de admissão aos lugares de adido de embaixada, aberto em 11 de setembro de 1986; adido de embaixada, na Secretaria de Estado, em 30 de junho de 1987; terceiro-secretário de embaixada, em 19 de abril de 1990; representante da Direção-Geral dos Assuntos Consulares, no Grupo de Trabalho de Organização e Logística, que preparou a Presidência Portuguesa das Comunidades Europeias, em março de 1991; Chefe de Divisão da Direção de Serviços de Vistos e Contabilidade Consular, em 2 de fevereiro de 1992; na Embaixada em Caracas, em 26 de maio de 1993; Cônsul-Geral em Barcelona, em 2 de janeiro de 1998; primeiro secretário de embaixada, em 2 de março de 1998; na Secretaria de Estado, em 25 de outubro de 2001; conselheiro de embaixada em 18 de abril de 2002; Chefe de Divisão do Gabinete de Assuntos Económicos da Direção-Geral de Política Externa, em 1 de novembro de 2001; Diretor de Serviços dos Recursos Humanos do Departamento Geral de Administração, em 19 de abril de 2002; nos grupos de trabalho criados por despachos ministeriais, destinados a preparar a revisão da Lei Orgânica do MNE, a revisão do Estatuto da Carreira Diplomática e da avaliação de desempenho dos funcionários diplomáticos, a aplicação da reforma da Administração Pública no MNE, a revisão do Estatuto do Pessoal dos Serviços Externos e a revisão do sistema dos abonos de representação; representante do MNE nas reuniões informais dos Diretores de Formação da U.E.; Training Diretor para o European Diplomatic Program (EDP), no âmbito do COADM; Diretor Adjunto do Departamento Geral de Administração em 20 de abril de 2005; Cônsul-Geral em Genebra, em 24 de agosto de 2005; ministro plenipotenciário de 2.ª classe, em 10 de setembro de 2009; Cônsul-Geral em Toronto, em 24 de agosto de 2010; ministro plenipotenciário de 1.ª classe, em 10 de setembro de 2012; na Embaixada em Zagrebe, com credenciais de Embaixador, em 20 de março de 2014; Diretor-Geral dos Assuntos Consulares e das Comunidades Portuguesas, em 1 de setembro de 2016.

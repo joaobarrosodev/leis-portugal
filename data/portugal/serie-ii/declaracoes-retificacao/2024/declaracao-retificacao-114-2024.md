@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:840716081:por
+title: Declaração de Retificação n.º 114/2024
+short_title: null
+summary: Retifica o Aviso (extrato) n.º 2091/2024, publicado no Diário da República, 2.ª série, n.º 19, de 26 de janeiro de
+  2024
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Unidade Local de Saúde de Santa Maria, E. P. E.
+proposing_entity: null
+official_number: 114/2024
+official_date: null
+publication_date: '2024-02-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2024, Série II de 2024-02-08
+  number: '28'
+  series: II
+  supplement: null
+  pages: 371 - 371
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/02/028000000/0037100371.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '840716081'
+  dre_path: /dr/detalhe/declaracao-retificacao/114-2024-840716081
+  internal: pt:dre:840716081:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/114-2024-840716081
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/114-2024-840716081
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-02-08T00:00:00Z'
+integrity:
+  source_sha256: af7ff70a625ddb9f76590299c867c5f17a3a2e701121f364eec8c5741e897f1c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-114-840716081.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 114/2024
+
+Por ter sido publicada com inexatidão no Diário da República, 2.ª série, n.º 19, de 26 de janeiro de 2024, retifica-se o [Aviso (extrato) n.º 2091/2024](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/2091-2024-839220222), respeitante ao procedimento concursal comum para ocupação de dois postos de trabalho na categoria de assistente principal da carreira de técnico superior de saúde - ramo de laboratório, da Unidade Local de Saúde de Santa Maria, E. P. E., nos seguintes termos:
+
+Onde se lê:
+
+«5 - Caraterização do posto de trabalho:
+
+a) A execução de técnicas laboratoriais de citogenética, bioquímica e genética molecular;
+
+b) O aperfeiçoamento de técnicas existentes e introdução de novas técnicas no domínio da genética humana;
+
+c) A orientação e formação do pessoal adstrito aos respetivos serviços;
+
+d) O estudo teórico e prático de métodos de análise laboratorial, sua validação e, se necessário, execução de técnicas altamente diferenciadas;
+
+e) A avaliação e interpretação de resultados e seu controlo de qualidade;
+
+f) A participação na seleção de reagentes e equipamentos;
+
+g) A integração em equipas de serviço de urgência conjuntamente com os outros profissionais de saúde do seu departamento ou serviço, quando este regime se pratique;
+
+h) A responsabilidade por sectores ou unidades de serviço;
+
+i) A cooperação em protocolos de investigação;
+
+j) A participação em programas de investigação científica relacionados com a sua área profissional;
+
+k) A participação em júris de concursos e de avaliação»
+
+deve ler-se:
+
+«5 - Caraterização do posto de trabalho:
+
+a) O estudo teórico e prático de métodos de análise laboratorial, sua validação e se necessário execução de técnicas altamente diferenciadas;
+
+b) A avaliação, interpretação e validação de resultados e seu controlo da qualidade;
+
+c) A participação na seleção de reagentes e equipamentos;
+
+d) A integração em equipas de serviço de urgência, conjuntamente com os outros profissionais de saúde do seu departamento, ou serviço, quando este regime se pratique;
+
+e) A responsabilidade por sectores ou unidades de serviço;
+
+f) A cooperação em protocolos de estudo e investigação;
+
+g) A participação em programas de investigação científica relacionados com a sua área profissional;
+
+h) A participação em júris de concursos e de avaliação.»
+
+29 de janeiro de 2024. - O Diretor do Serviço de Recursos Humanos, Rogério Fernandes Costa.

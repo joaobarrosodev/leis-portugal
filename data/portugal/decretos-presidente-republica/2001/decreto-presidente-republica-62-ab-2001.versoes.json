@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374018:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2001-949827564",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/62-ab-2001-374018",
+ "source_lastmod": "2025-11-24",
+ "versions": [
+  {
+   "date": "2001-12-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "949908475"
+   ]
+  }
+ ],
+ "fragments": {
+  "949908475": {
+   "fragment_id": "949827565",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 62-AB/2001\n\nde 21 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:\n\nA pena acessória de expulsão do País aplicada a Mário Pereira Fernandes, de 46 anos de idade, no processo n.º 15/97 do 2.º Juízo do Tribunal de Círculo do Funchal é revogada, por indulto.\n\nO presente indulto é concedido sob as seguintes condições resolutivas:\n\na) Não se ter o indultado constituído em ausência ilegítima do estabelecimento prisional à data da concessão do indulto;\n\nb) Não se constituir o indultado em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto."
+  }
+ }
+}

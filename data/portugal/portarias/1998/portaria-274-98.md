@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:176514:por
+title: Portaria n.º 274/98
+short_title: null
+summary: Estabelece medidas temporárias adicionais contra a propagação do Thrips palmi Karny em flores cortadas de Orchideacea
+  originárias da Tailândia
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 274/98
+official_date: null
+publication_date: '1998-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/1998, Série I-B de 1998-04-29
+  number: '99'
+  series: I
+  supplement: null
+  pages: 1907 - 1907
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/04/099b00/19071907.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/274/1998/04/29/p/dre/pt/html
+  oj: null
+  dre: '176514'
+  dre_path: /dr/detalhe/portaria/274-1998-176514
+  internal: pt:dre:176514:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/274-1998-176514
+  metadata_url: https://data.dre.pt/eli/port/274/1998/04/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/274-1998-176514
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-09-06T00:00:00Z'
+integrity:
+  source_sha256: 7d08a062bb5bfafb8851b2c699358889abd30b9bbc7a06f6f9689ad9c04ed4a8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-274-176514.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Nacional de Protecção da Produção Agrícola
+- Multa
+- Comunidade Europeia
+- Doença Vegetal
+- Definição de Competências
+- Controlo Sanitário
+- Fiscalização
+- Importação
+- Proteção Fitossanitária
+- Tailândia
+- Vegetais
+relationships:
+- type: amended_by
+  target: pt:dre:141854:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31998D0109
+  label: null
+  source: http://data.europa.eu/eli/dec/1998/109/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 274/98
+
+de 29 de Abril
+
+Na sequência de intercepções de Thrips palmi Karny em flores cortadas de Orchideacea originárias da Tailândia, foi aprovada a Decisão da Comissão n.º [98/109/CE](http://data.europa.eu/eli/dec/1998/109/oj?locale=pt), de 2 de Fevereiro, que autoriza os Estados membros a adoptar temporariamente medidas adicionais contra a propagação daquele organismo nocivo no que diz respeito à Tailândia.
+
+Para a defesa fitossanitária do território nacional, é de todo o interesse que essas medidas sejam oficialmente divulgadas e aplicadas.
+
+Assim, ao abrigo do n.º 1 do artigo 2.º do Decreto-Lei n.º 154/94, de 28 de Maio:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º As flores cortadas de Orchideacea originárias da Tailândia só podem ser introduzidas no território nacional desde que se observe uma das seguintes medidas de emergência estabelecidas na Decisão da Comissão n.º [98/109/CE](http://data.europa.eu/eli/dec/1998/109/oj?locale=pt), de 2 de Fevereiro, publicada em 3 de Fevereiro de 1998 no Jornal Oficial das Comunidades Europeias:
+
+a) Terem sido produzidas num local considerado isento de Thrips palmi Karny em resultado de inspecções oficiais realizadas pelo menos mensalmente durante os três meses anteriores à exportação;
+
+b) Enquanto constituintes de uma remessa, terem sido submetidas, antes da exportação, a um tratamento de fumigação adequado para assegurar a isenção de Thysanoptera.
+
+2.º As flores cortadas de Orchideacea devem ser acompanhadas de um certificado fitossanitário emitido na Tailândia em conformidade com o disposto na Portaria n.º 344/94, de 1 de Junho.
+
+Do certificado constará, na parte «Declaração suplementar», qual das opções referidas no número anterior foi aplicada e, além disso, nos casos de aplicação da opção b), na parte «Desinfestação e ou tratamento de desinfecção», a especificação do tratamento de fumigação aplicado anteriormente à exportação.
+
+3.º As flores cortadas de Orchideacea destinadas a ser introduzidas na Comunidade devem ser inspeccionadas em conformidade com o disposto na Portaria n.º 344/94, de 1 de Junho.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+**Assinada em 3 de Abril de 1998.**
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.

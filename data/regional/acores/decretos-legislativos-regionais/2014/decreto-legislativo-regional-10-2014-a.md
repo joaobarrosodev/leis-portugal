@@ -1,0 +1,295 @@
+---
+schema_version: '1.0'
+id: pt:dre:25345669:por
+title: Decreto Legislativo Regional n.º 10/2014/A
+short_title: null
+summary: Cria medidas para a redução do consumo de sacos de plástico e aprova o regime jurídico da taxa ambiental pela utilização
+  de sacos de plástico distribuídos ao consumidor final
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 10/2014/A
+official_date: null
+publication_date: '2014-07-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/2014, Série I de 2014-07-03
+  number: '126'
+  series: I
+  supplement: null
+  pages: 3680 - 3682
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12600/0368003682.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-03-05'
+version_history:
+  file: decreto-legislativo-regional-10-2014-a.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-28'
+    amending: pt:dre:67085605:por
+    amending_title: Decreto Legislativo Regional n.º 13/2015/A
+    changes:
+    - Altera Artigo 4.º
+  - date: '2022-03-05'
+    amending: pt:dre:179993087:por
+    amending_title: Decreto Legislativo Regional n.º 5/2022/A
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/10/2014/a/cons/20220304/pt/html
+  oj: null
+  dre: '25345669'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/10-2014-25345669
+  internal: pt:dre:25345669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2014-25345669
+  metadata_url: https://data.dre.pt/eli/declegreg/10/2014/a/cons/20220304/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-180031456
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-180031456
+  retrieved_at: '2026-10-22T12:49:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b52195950d5042edb5332aa29962317f4f74b424de8dce15f5fd44235e9eeeb5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:49:45Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-10-2014-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão de Resíduos
+- Publicidade
+- Campanha de Sensibilização
+- Estabelecimento Comercial
+- Comércio a Retalho
+- Governo Regional
+- Consumidor
+- Consumo
+- Contra-ordenação
+- Definição de Competências
+- Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
+- Embalagem
+- Resíduo
+- Proteção do Ambiente
+- Gestão do Ambiente
+- Receita Própria
+- Regime Geral das Infracções Tributárias
+- Regime Jurídico
+- Açores
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:67085605:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2015-67085605
+  date: '2015-04-27'
+- type: amended_by
+  target: pt:dre:179993087:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087
+  date: '2022-03-04'
+- type: cites
+  target: celex:32011R0010
+  label: null
+  source: http://data.europa.eu/eli/reg/2011/10/oj
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:49:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 10/2014/A
+
+Decreto Legislativo Regional n.º 10/2014/A
+
+Cria medidas para a redução do consumo de sacos de plástico
+
+A distribuição gratuita de sacos de plástico nos estabelecimentos de comércio a retalho cria sérios problemas ambientais.
+
+A abundância, fácil disponibilidade e baixo custo fazem com que uma parte significativa dos sacos de plástico seja descartada sem reutilização, contribuindo para criar enormes volumes de resíduos não biodegradáveis.
+
+A reciclagem deste material, quando possível, implica elevados custos energéticos e outros, aumentando de forma significativa a despesa associada aos sistemas de recolha, tratamento e reciclagem de resíduos.
+
+Uma parte muito significativa dos sacos de plástico distribuídos tem como destino final a deposição em aterro ou, lamentavelmente, a deposição ilegal. A presença do plástico nos ambientes naturais contamina os solos, os cursos de água e o ambiente marinho durante muitos anos, afetando a biodiversidade e integrando as cadeias tróficas, com resultados muito negativos para o bom estado de conservação ambiental.
+
+Os impactos ambientais dos resíduos de plástico são ainda mais graves numa região com as características da Região Autónoma dos Açores, tendo em conta a fragilidade dos seus ecossistemas terrestres e marinhos e os perigos que representam para um conjunto de espécies existentes no nosso arquipélago.
+
+Igualmente, os sacos de plástico constituem, nos Açores, um custo agravado para os sistemas de recolha, triagem e processamento de resíduos, tendo em conta a situação insular e a necessidade de exportação dos resíduos para reciclagem.
+
+Impõe-se, assim, a tomada de medidas urgentes com vista a reduzir a quantidade destes resíduos na nossa Região, aliás, dando cumprimento às linhas de orientação estratégicas previstas no Plano Estratégico de Gestão de Resíduos dos Açores (PEGRA), que consagram a prevenção dos resíduos como a primeira prioridade e base estratégica para a gestão de resíduos.
+
+Igualmente, importa implementar a filosofia do poluidor pagador, tal como é enunciada nos princípios socioeconómicos do PEGRA: "O princípio da recuperação de custos associado ao utilizador-pagador deve estar direcionado para a aplicação de um efetivo regime económico-financeiro, sendo que o serviço de proteção ambiental deve ser pago pelos utilizadores na justa medida e proporção."
+
+Assim, a introdução de uma Ecotaxa, associada a cada saco de plástico distribuído pelos estabelecimentos de comércio a retalho visa, em primeiro lugar, desincentivar o uso dos sacos de plástico descartáveis, responsabilizando o seu utilizador e motivando a utilização de outras alternativas.
+
+Igualmente pretende-se "compensar as maiores despesas regionais decorrentes de atividades privadas desgastantes ou agressoras dos bens públicos ou do ambiente regional", tal como é enunciado no artigo 57.º da Lei de Finanças das Regiões Autónomas, tendo em conta os sobrecustos a que estão sujeitos os sistemas de gestão de resíduos no nosso arquipélago.
+
+Desta forma, são inteiramente cumpridos os princípios gerais estabelecidos no artigo 55.º da mencionada Lei de Finanças das Regiões Autónomas, em termos da coerência entre o sistema fiscal nacional e os sistemas fiscais regionais e em termos da flexibilidade e adaptação do sistema fiscal às especificidades regionais.
+
+Isentam-se desta taxa os sacos destinados a entrar em contacto com géneros alimentícios, para os quais não há alternativas.
+
+Pretende-se, através da utilização dos mecanismos autonómicos, reforçar a proteção do património ambiental da Região Autónoma dos Açores, contribuir para a sensibilização dos cidadãos e compensar os sobrecustos que a recolha e processamento dos sacos de plástico representam para a Região.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos das disposições conjugadas do n.º 4 do artigo 112.º e da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, do artigo 37.º, do n.º 1 e da alínea a) do n.º 2 do artigo 50.º e do n.º 1 e alíneas a), m) e n) do n.º 2 do artigo 57.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do artigo 57.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma cria medidas para a redução do consumo de sacos de plástico e aprova o regime jurídico da taxa ambiental pela utilização de sacos de plástico distribuídos ao consumidor final, adiante designada de Ecotaxa.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) «Estabelecimentos de comércio a retalho», todos os estabelecimentos fixos e permanentes que se encontrem no âmbito da secção G, divisão 45, grupo 453, classe 4532 e classe 4540 e, ainda, da secção G, divisão 47 da CAE - Rev. 3, estabelecida no Decreto-Lei n.º 381/2007, de 14 de novembro;
+
+b) «Grande superfície comercial», estabelecimento de comércio a retalho, que disponha de uma área de venda contínua superior a 2 000 m2 ou conjuntos de estabelecimentos de comércio a retalho ou por grosso que, não dispondo daquela área contínua, integrem no mesmo espaço uma área de venda superior a 3 000 m2;
+
+c) «Saco de plástico», toda e qualquer embalagem de transporte ou embalagem terciária, como definida nos termos do disposto na alínea c) do n.º 3 do artigo 4.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, cujo componente estrutural principal seja em plástico;
+
+d) «Saco de plástico leve», saco de matéria plástica, em conformidade com a definição constante do n.º 1 do artigo 3.º do Regulamento (UE) n.º <a href="eurlex.asp?ano=2011&id=311R0010" title="Link para Regulamento da Comunidade Europeia">10/2011</a>, da Comissão, de 14 de janeiro de 2011, com espessura de parede inferior a 50 (mi)m.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 3.º — Incidência e valores
+
+1 - Sobre cada saco de plástico distribuído ao consumidor final nos estabelecimentos de comércio a retalho incide uma taxa, no valor máximo de 0,05 euros, a fixar pelo Governo Regional.
+
+2 - A taxa cobrada ao consumidor final pela aquisição de sacos de plástico é obrigatoriamente discriminada no recibo entregue ao mesmo.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 4.º — Liquidação
+
+As pessoas singulares ou coletivas que exerçam as atividades mencionadas na alínea a) do artigo 2.º submetem anualmente aos serviços competentes da Administração Regional uma declaração da qual consta a quantidade de sacos de plástico adquiridos e a quantidade de sacos de plástico distribuídos aos consumidores finais no ano civil anterior, para fins de cálculo da taxa a liquidar, devendo proceder ao seu pagamento num prazo não superior a noventa dias, a contar da data da declaração.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2015/A - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2015-67085605), em vigor a partir de 2015-04-28
+
+###### Artigo 5.º — Isenções
+
+Estão isentos do pagamento da Ecotaxa os sacos de plástico que se destinem a entrar em contacto com géneros alimentícios, abrangidos pelo Decreto-Lei n.º 62/2008, de 31 de março, com as alterações que lhe foram posteriormente introduzidas.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 6.º — Titularidade da receita
+
+A Ecotaxa constitui uma receita própria da Região Autónoma dos Açores, ao abrigo do artigo 19.º da Lei n.º 2/2009, de 12 de janeiro, que aprovou a terceira revisão do Estatuto Político-Administrativo.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 7.º — Competência
+
+Compete ao departamento do Governo Regional com competência em matéria de finanças a cobrança e arrecadação da Ecotaxa, assim como todas as ações de verificação e fiscalização das declarações apresentadas pelos sujeitos passivos.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 8.º — Dever de colaboração
+
+Para efeitos do disposto no presente diploma, nomeadamente para confirmação ou controlo dos valores em causa, todas as entidades públicas e privadas estão obrigadas a colaborar com o departamento do Governo Regional competente, nomeadamente fornecendo toda a informação ou documentação que lhes seja solicitada.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 9.º — Proibição de publicidade
+
+É proibida a inserção de publicidade em sacos de plástico leves, com exceção do logótipo ou denominação comercial ou social do estabelecimento que fornece o saco, em área não superior a 20 % da superfície total do saco.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 10.º — Ações de sensibilização
+
+1 - É obrigatória a inserção em todos os sacos de plástico que contenham publicidade, ou a inscrição permitida nos termos do artigo anterior, de mensagens de sensibilização no âmbito da prevenção da produção e da gestão de resíduos, em termos a definir pelo Governo Regional.
+
+2 - A Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores realiza, pelo menos uma vez por ano e em todas as ilhas do arquipélago, uma campanha de sensibilização para a redução do consumo de sacos de plástico.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 11.º — Ilícitos
+
+1 - A prestação de falsas declarações, bem como a falta ou atraso na entrega da declaração ou da liquidação da Ecotaxa, nos termos referidos no artigo 4.º, constitui infração punível nos termos do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho, na redação atual.
+
+2 - Constitui contraordenação ambiental muito grave, nos termos do disposto na Lei Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, a violação do disposto no artigo 3.º
+
+3 - Constitui contraordenação ambiental grave, nos termos do disposto na Lei Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, a prática dos seguintes atos:
+
+a) A violação do dever de colaboração e informação a que se refere o artigo 8.º;
+
+b) A violação do disposto no artigo 9.º;
+
+c) A violação do disposto no n.º 1 do artigo 10.º
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 12.º — Regulamentação
+
+Compete ao Governo Regional, no prazo máximo de cento e oitenta dias, o estabelecimento das normas regulamentares necessárias à execução do presente diploma.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 13.º — Norma transitória
+
+A primeira campanha de sensibilização a que se refere o n.º 2 do artigo 10.º deverá ser realizada no prazo máximo de trinta dias após a entrada em vigor da regulamentação a que se refere o artigo anterior.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação, aplicando-se aos estabelecimentos de comércio a retalho nos termos seguintes:
+
+a) Às grandes superfícies comerciais um ano após a entrada em vigor da regulamentação a que se refere o artigo 12.º;
+
+b) Aos restantes estabelecimentos comerciais dois anos após a entrada em vigor da regulamentação a que se refere o artigo 12.º
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de maio de 2014.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 6 de junho de 2014.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 5/2022/A - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2022-179993087), em vigor a partir de 2022-03-05

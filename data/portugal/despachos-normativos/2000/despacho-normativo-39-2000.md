@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: pt:dre:582032:por
+title: Despacho Normativo n.º 39/2000
+short_title: null
+summary: Aprova o Regulamento do Regime de Apoio à Divulgação e Promoção dos Produtos da Pesca para os Anos 2000-2001
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 39/2000
+official_date: null
+publication_date: '2000-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/2000, Série I-B de 2000-09-06
+  number: '206'
+  series: I
+  supplement: null
+  pages: 4743 - 4745
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/09/206b00/47434745.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/39/2000/09/06/p/dre/pt/html
+  oj: null
+  dre: '582032'
+  dre_path: /dr/detalhe/despacho-normativo/39-2000-582032
+  internal: pt:dre:582032:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-2000-582032
+  metadata_url: https://data.dre.pt/eli/despnorm/39/2000/09/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-2000-582032
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-11-30T00:00:00Z'
+integrity:
+  source_sha256: ef7dce0c79e08e549fdf859622b7eee3b977673c5b1fd85844345e916da1c7df
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-39-582032.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Direcção Geral das Pescas e Aquicultura
+- Pesca
+- Pagamento
+- Regime de Apoio à Divulgação e Promoção dos Produtos da Pesca
+- Piddac
+- Desenvolvimento Económico
+- Produtos de Pesca
+- Regulamento
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:660500:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31992R2081
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2081/oj
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 39/2000
+
+Dada a importante contribuição das acções de promoção dos produtos da pesca no aumento do respectivo consumo, quer através da divulgação de espécies menos conhecidas ou de novos produtos transformados, quer através do fornecimento ao consumidor de uma correcta informação sobre as características dos produtos em oferta, considera-se de interesse a criação em 2000, através de verbas do PIDDAC, de medidas de apoio financeiro destinadas a projectos que visem a divulgação dos produtos da pesca nos mercados interno e externo.
+
+Assim, tendo em consideração que o Orçamento do Estado para 2000, aprovado pela Lei n.º 3-B/2000 de 4 de Abril, contempla verbas do PIDDAC para este tipo de projectos, determino o seguinte:
+
+1 - É aprovado o Regulamento do Regime de Apoio à Divulgação e Promoção dos Produtos da Pesca para os anos 2000 e 2001;
+
+2 - Este Regulamento, anexo ao presente despacho e que dele faz parte integrante, entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 30 de Junho de 2000. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas.
+
+REGULAMENTO DO REGIME DE APOIO À DIVULGAÇÃO E PROMOÇÃO DOS PRODUTOS DA PESCA
+
+###### Artigo 1.º — Objectivos
+
+Este regime tem como objectivo apoiar:
+
+a) A promoção dos produtos da pesca e da aquicultura nos mercados interno e externo, divulgando as suas qualidades e variedades;
+
+b) A divulgação de novos produtos;
+
+c) A prospecção de novos mercados.
+
+2.º
+
+Condições de acesso
+
+1 - Podem apresentar candidaturas a este apoio as pessoas individuais ou colectivas, públicas ou privadas, que estejam legalmente constituídas à data de apresentação da candidatura.
+
+2 - As candidaturas são formalizadas através do preenchimento de impressos próprios, que são entregues na Direcção-Geral das Pescas e Aquicultura (DGPA) ou nas respectivas direcções regionais e postos de atendimento, acompanhados de requerimento, dirigido ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e dos documentos constantes da listagem anexa aos referidos impressos.
+
+3.º
+
+Critérios de prioridade
+
+Para efeitos de concessão de apoio financeiro é dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
+
+a) Sejam apresentadas colectivamente ou por organizações de produtores;
+
+b) Estimulem o consumo de espécies abundantes, subaproveitadas ou comercialmente menos valorizadas;
+
+c) Contribuam para a penetração em novos mercados;
+
+d) Visem a realização de operações de certificação de qualidade e atribuição de etiquetagem dos produtos;
+
+e) Desenvolvam uma política de qualidade dos produtos da pesca e da aquicultura.
+
+4.º
+
+Candidaturas não admissíveis
+
+São excluídas as candidaturas que:
+
+a) Digam respeito à promoção de produtos específicos de determinadas empresas;
+
+b) Façam referência a marcas comerciais ou a regiões, excepto no caso de se tratar de um produto cuja origem ou processo de fabrico foi reconhecido nos termos do Regulamento (CE) n.º [2081/92](http://data.europa.eu/eli/reg/1992/2081/oj?locale=pt), de 14 de Julho.
+
+5.º
+
+Despesas não elegíveis
+
+Não são elegíveis, para efeitos de atribuição de apoio financeiro, as seguintes despesas:
+
+a) Despesas de funcionamento do beneficiário;
+
+b) Despesas consideradas desnecessárias à eficácia do projecto;
+
+c) Despesas não comprovadas documentalmente e insusceptíveis de verificação;
+
+d) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário;
+
+e) Despesas realizadas antes da data de apresentação da candidatura.
+
+6.º
+
+Montante dos apoios
+
+Os apoios a conceder correspondem a uma comparticipação do Estado de 75% do investimento elegível e revestem a forma de subsídio a fundo perdido.
+
+7.º
+
+Apresentação das candidaturas e decisão
+
+1 - As candidaturas entregues na DGPA até 1 de Março serão objecto de decisão até 31 de Maio e as entregues até 31 de Agosto serão decididas até 31 de Outubro do ano a que respeitam.
+
+2 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
+
+3 - A comunicação da decisão que venha a recair sobre as candidaturas será efectuada pela DGPA no prazo máximo de 10 dias úteis sobre a sua emissão.
+
+8.º
+
+Prazos para a execução dos projectos
+
+Os projectos aprovados têm de ser executados no prazo máximo de um ano contado a partir da comunicação ao beneficiário da concessão do apoio.
+
+9.º
+
+Pagamento dos apoios
+
+1 - A DGPA tem de concluir os processos de pagamento até à data limite de 31 de Janeiro do ano seguinte ao da autorização de atribuição dos apoios financeiros, podendo os beneficiários optar por uma das seguintes modalidades:
+
+a) O apoio atribuído é pago ao beneficiário após a conclusão do projecto mediante a confirmação pela DGPA da respectiva execução material e a apresentação pelo beneficiário dos documentos de despesa definitivos que comprovam o investimento realizado;
+
+b) O apoio atribuído é pago antes da conclusão material e financeira do projecto contra a apresentação de garantia bancária ou seguro-caução válidos pelo período de um ano contado a partir da notificação da aprovação do projecto, prestado pelo beneficiário, fornecedores ou associações/organizações de produtores ou de industriais.
+
+10.º
+
+Libertação de garantias bancárias e seguros-caução
+
+A libertação das garantias bancárias ou dos seguros-caução tem lugar após a confirmação pela DGPA de que os projectos a que respeitam se encontram concluídos, mediante a confirmação da execução material e a verificação dos documentos definitivos de despesa apresentados pelos beneficiários.
+
+11.º
+
+Incumprimento
+
+1 - A não utilização dos subsídios concedidos sem justificação aceite pelo membro do Governo responsável pelo sector das pescas determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste regime no período da sua vigência.
+
+2 - Nos casos em que se tenha verificado a libertação dos apoios e o incumprimento dos projectos por parte dos beneficiários, devem os mesmos repor nos cofres do Estado o subsídio não aplicado, acrescido dos respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
+
+3 - A entrega destas verbas deve efectuar-se no prazo máximo de 15 dias úteis após a notificação do beneficiário explicitando a quantia a devolver.
+
+4 - A não reposição deste montante no prazo indicado implica o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.
+
+12.º
+
+Disposições transitórias
+
+No ano 2000 todas as candidaturas deverão ser entregues até 31 de Agosto, devendo as mesmas ser objecto de decisão até 31 de Outubro.

@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:388601:por
+title: Despacho Normativo n.º 73/81
+short_title: null
+summary: Esclarece dúvidas sobre os contratos de viabilização celebrados ao abrigo do Decreto-Lei n.º 124/77, de 1 de Abril
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Gabinete do Ministro
+proposing_entity: null
+official_number: 73/81
+official_date: null
+publication_date: '1981-03-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/1981, Série I de 1981-03-02
+  number: '51'
+  series: I
+  supplement: null
+  pages: 571 - 572
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05100/05710572.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '388601'
+  dre_path: /dr/detalhe/despacho-normativo/73-1981-388601
+  internal: pt:dre:388601:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1981-388601
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1981-388601
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-03-02T00:00:00Z'
+integrity:
+  source_sha256: d7db2e8304a82b2928dc0f5947e9c4712c0db2f744e02b5db252bd6574b1b960
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-73-388601.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 73/81
+
+O [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, ao criar a figura jurídica dos contratos de viabilização, pretendeu dotar o Estado de um instrumento de política económica que permitisse apoiar as empresas que foram seriamente afectadas pela conjuntura económica verificada durante os anos de 1974, 1975 e 1976. O cerne da viabilização consiste na concessão, às empresas carenciadas que se encontrem em determinadas condições, de benefícios de índole vária, expressos nomeadamente no artigo 4.º do referido [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729). Dada a natural diversidade de situações possíveis e tendo em conta a natureza essencialmente variada das próprias empresas a viabilizar, não pôde o legislador prever taxativamente todos os benefícios a conceder. Teve, por isso, a cautela de consagrar uma lista exemplificativa de benefícios - nas alíneas do artigo 4.º, n.º 1, do referido diploma e, por remissão, no artigo 6.º permitindo expressamente que outros benefícios fossem atribuídos quando a especificidade da situação a corrigir o exigisse; é o que resulta do disposto no artigo 4.º, n.os 1 e 2, do aludido [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729).
+
+A existência de contratos de viabilização acarreta encargos e pode, eventualmente, originar prejuízos. Caso o Estado não previsse uma forma de lhes fazer face, todo o esquema da viabilização ficaria sem conteúdo. O que é dizer: a quaisquer benefícios deve corresponder um esforço financeiro de uma entidade, caso contrário os benefícios serão puramente aparentes. Tal foi a ideia do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729) quando, no seu artigo 14.º, criou o Fundo de Compensação. O Fundo de Compensação tem, pelo menos, seguramente, a função de cobrir os eventuais prejuízos resultantes dos contratos de viabilização, como expressamente manda o artigo 14.º, n.º 1, do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729). Na impossibilidade de prever todas as hipóteses, novamente o legislador recorreu à técnica legislativa comum e actual de exemplificar situações, acrescentando depois uma cláusula geral susceptível de dotar o esquema da necessária elasticidade. Assim, o artigo 14.º, n.º 1, em causa, que define em termos inequívocos a competência genérica do Fundo, menciona, a título exemplificativo, alguns dos prejuízos a que o Fundo poderá ter de fazer face.
+
+O Fundo de Compensação é, portanto, competente para cobrir, nos termos legislados, todos os prejuízos genericamente referidos no artigo 14.º, n.º 1, quer por ser essa a letra da lei, quer porque, de outra forma, ficariam sem conteúdo todos os benefícios genericamente permitidos pelo disposto no artigo 4.º, n.os 1 e 2, do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729).
+
+Os contratos de viabilização devem ser entendidos como um instrumento transitório; nessa linha de orientação, veio o [Decreto-Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1981-390001), de 29 de Janeiro, criar condições para a rápida conclusão de todos os processos ainda em curso. No âmbito limitado para que foram criados, devem, contudo, cumprir cabalmente e até ao fim todos os objectivos que justificaram a sua criação.
+
+Nesse sentido, sempre se tem entendido que, nos termos acima justificados, os contratos de viabilização podem, ao abrigo do disposto no artigo 4.º, n.os 1 e 2, do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), conceder benefícios não expressamente mencionados nas diversas alíneas do referido artigo 4.º, n.º 1, e, por remissão, do artigo 6.º do mesmo diploma. E, paralelamente, tem sido entendimento pacífico que, por imposição do artigo 14.º, n.º 1, princípio, do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), conjuntamente com a lógica do sistema, o Fundo de Compensação é competente para cobrir todos os prejuízos emergentes dos contratos de viabilização.
+
+Já na fase final da vigência do sistema dos contratos de viabilização suscitaram-se, porém, dúvidas quanto aos aspectos acima referidos. Tais dúvidas não têm razão de ser e não devem subsistir.
+
+Assim, tendo em conta o disposto nos artigos 4.º, n.os 1 e 2, e 14.º, n.º 1, primeira parte, todos do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e tendo presente o artigo 16.º do mesmo diploma, esclareço:
+
+1.º Os contratos de viabilização celebrados ao abrigo do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e legislação complementar podem compreender outros benefícios para além dos referidos nas alíneas do seu artigo 4.º, n.º 1, e no artigo 6.º, desde que a especificidade das situações empresariais o justifique;
+
+2.º As bonificações de juros e os eventuais prejuízos resultantes dos contratos de viabilização são cobertos pelo Fundo de Compensação criado pelo artigo 14.º, n.º 1, do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), o qual fica vinculado a essa cobertura nos precisos termos que forem definidos no despacho ministerial de homologação ou, no caso de homologação tácita, nos termos do parecer formulado pelo Banco de Portugal;
+
+3.º O presente despacho aplica-se a todos os contratos de viabilização celebrados ou a celebrar, nos termos legais e regulamentares.
+
+Ministério das Finanças e do Plano, 10 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.

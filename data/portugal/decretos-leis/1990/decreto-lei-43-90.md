@@ -1,0 +1,322 @@
+---
+schema_version: '1.0'
+id: pt:dre:334594:por
+title: Decreto-Lei n.º 43/90
+short_title: null
+summary: Altera o Decreto-Lei n.º 274-A/88, de 3 de Agosto (regulamenta a Lei da Caça), e aprova a lista de espécies animais
+  que constituem fauna cinegética
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 43/90
+official_date: null
+publication_date: '1990-02-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/1990, Série I de 1990-02-08
+  number: '33'
+  series: I
+  supplement: null
+  pages: 534 - 536
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03300/05340536.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '334594'
+  dre_path: /dr/detalhe/decreto-lei/43-1990-334594
+  internal: pt:dre:334594:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1990-334594
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1990-334594
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-05-18T00:00:00Z'
+integrity:
+  source_sha256: 5bb462dee5021341bbef16b09d3d0fef64fad6af457ded63054f3d8cb613f50f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-43-334594.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43/90
+
+de 8 de Fevereiro
+
+Em conformidade com o consignado no artigo 2.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, a qualificação de uma espécie como pertencente à fauna cinegética encontra-se condicionada à sua integração na lista de espécies cinegéticas publicada anualmente, com vista à regulamentação da Lei da Caça.
+
+Verifica-se que as listas em vigor já não correspondem à realidade actual, nomeadamente em consequência da promulgação da [Lei n.º 90/88](https://diariodarepublica.pt/dr/detalhe/lei/90-1988-376832), de 13 de Agosto, no respeitante ao lobo.
+
+Relativamente ao gato-bravo, e segundo os dados disponíveis, a sua população em Portugal está em declínio, com a agravante de apresentar localmente índices elevados de hibridação com o gato doméstico.
+
+Como justificação da exclusão do corvo e da gralha-de-nuca-cinzenta da lista, refere-se o seu nulo valor cinegético, as suas populações de reduzido número - caso do corvo - ou a distribuição bastante localizada - caso da gralha - e, para ambos os casos, a inexistência ou baixa frequência de ocorrência de prejuízos imputáveis a estas espécies.
+
+Por outro lado, entende-se conveniente incluir na lista de espécies cinegéticas o muflão, espécie de caça maior oriunda da Córsega, que no presente século tem vindo a ser introduzida para exploração cinegética por quase toda a Europa Ocidental, Central e Meridional.
+
+Com efeito, a elevada capacidade de adaptação, rusticidade, capacidade de reprodução e ainda o facto de dispor de troféus durante todo o ano são características que justificam o seu grande interesse cinegético.
+
+Em Portugal, face às suas características, o muflão irá certamente aclimatar-se com êxito, contribuindo assim para o enriquecimento do património cinegético nacional.
+
+Tendo em atenção as dúvidas surgidas quanto ao regime de caça aplicável aos terrenos e águas do domínio público fluvial e lacustre situados no interior ou no limite de zonas de regime cinegético especial, o presente diploma prevê a possibilidade de as mesmas serem abrangidas pelas respectivas zonas de caça.
+
+Outra alteração que se impõe advém do reconhecimento de que, para além das zonas militares, existem outras áreas que devem ser sujeitas a regime de caça que tenham em consideração os especiais fins a que estão adstritas. Neste sentido é alterado o n.º 4 do artigo 28.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
+
+No que respeita às coimas aplicáveis às contra-ordenações de caça, estabelece-se que parte do seu montante passará a constituir receita própria do organismo a que pertença o autuante ou participante - solução que se revela propiciadora de uma mais correcta e eficaz fiscalização da actividade venatória.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º As listas I e II anexas ao [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, são substituídas, nos termos do n.º 1 do artigo 2.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, pelas listas anexas ao presente diploma, que dele fazem parte integrante.
+
+###### Art. 2.º Os artigos 28.º, 39.º, 55.º, 56.º e 113.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, passam a ter a seguinte redacção:
+
+###### Art. 28.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O exercício da caça em zonas militares e de forças de segurança, terrenos de estabelecimentos escolares, hospitalares, prisionais ou tutelares de menores, científicos ou onde decorram acções de investigação ou experimentação que possam ser prejudicadas pela fauna silvestre ou pelo livre exercício da caça, situadas para além do âmbito previsto no n.º 2, será regulamentado por portaria conjunta do Ministro da Agricultura, Pescas e Alimentação e dos ministros competentes em razão da matéria.
+
+5 - ...
+
+6 - A portaria a que se refere o n.º 4 definirá, caso a caso, qual o regime a que, para efeitos de policiamento e fiscalização da caça, ficam sujeitas as respectivas áreas.
+
+###### Art. 39.º - 1 - A caça ao veado, gamo, corço e muflão pode ser exercida nas zonas de regime cinegético especial nos períodos, pelos processos e com os meios e instrumentos definidos nos respectivos planos de exploração.
+
+2 - ...
+
+###### Art. 55.º É permitido caçar a gralha-preta, a pega-rabuda e o gaio nos locais e períodos e pelos processos e demais condições definidos para as restantes espécies cinegéticas de caça menor.
+
+###### Art. 56.º - 1 - ...
+
+2 - ...
+
+3 - Salvo determinação em contrário, as águas e terrenos do domínio público fluvial e lacustre existentes no interior das zonas de regime cinegético especial consideram-se abrangidas pelo mesmo, independentemente de qualquer formalidade.
+
+4 - O diploma que instituir uma zona de regime cinegético especial pode determinar que as águas e terrenos do domínio público fluvial e lacustre existentes no seu perímetro sejam abrangidos na totalidade ou em parte pela respectiva zona de caça.
+
+###### Art. 113.º - 1 - Para fazer face aos encargos e despesas resultantes da execução da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, do presente diploma e demais disposições legais e regulamentares sobre a caça, são atribuídas à DGF, sem prejuízo do disposto nos números seguintes, as receitas previstas no artigo 39.º da referida lei e o produto das coimas resultantes de contra-ordenações de caça, a qual fará a sua gestão nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
+
+2 - ...
+
+3 - O produto das coimas constitui receita própria da DGF e do organismo a que pertença o autuante ou participante, na proporção de 75% para a primeira e de 25% para o segundo.
+
+4 - O disposto nos números anteriores aplica-se a todos os casos de infracção à Lei da Caça, excepto quando a aplicação da coima pertença em primeira instância às entidades judiciais, caso em que lhes pertencerá a respectiva receita.
+
+###### Art. 3.º É revogado o artigo 44.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
+
+Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+**Promulgado em 30 de Janeiro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 31 de Janeiro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Lista I a que se refere o artigo 1.º
+
+Espécies cinegéticas
+
+1 - Caça maior:
+
+Sus scrofa - javali.
+
+Cervus elaphus - veado.
+
+Dama dama - gamo.
+
+Capreolus capreolus - corço.
+
+Ovis ammon - muflão.
+
+2 - Caça menor:
+
+2.1 - Espécies sedentárias:
+
+Lepus capensis - lebre.
+
+Oryctolagus cuniculus - coelho.
+
+Vulpes vulpes - raposa.
+
+Mustela nivalis - doninha (ver nota a).
+
+Mustela putorius - toirão (ver nota a).
+
+Martes martes - marta (ver nota a).
+
+Martes foina - fuinha (ver nota a).
+
+Meles meles - texugo (ver nota a)
+
+Genetta genetta - gineto (ver nota a).
+
+Herpestes ichneumon - saca-rabos.
+
+Alectoris rufa - perdiz-vermelha.
+
+Phasianus colchicus - faisão.
+
+Otis tetrax - sisão (ver nota a).
+
+Columba livia - pomba-da-rocha.
+
+Streptopelia decaocto - rola-turca.
+
+Sturnus unicolor - estorninho-preto.
+
+Garrulus glandarius - gaio.
+
+Pica pica - pega-rabuda.
+
+Corvus corone - gralha-preta.
+
+2.2 - Espécies de arribação ou migradoras (ver nota a):
+
+2.2.1:
+
+Coturnix coturnix - codorniz (ver nota *).
+
+Scolopax rusticola - galinhola.
+
+Gallinago gallinago - narceja-comum (ver nota *).
+
+Lymnocryptes minumus - narceja-galega.
+
+Columba palumbus - pombo-turcaz (ver nota *).
+
+Columba oenas - pombo-bravo (ver nota *).
+
+Streptopelia turtur - rola-comum.
+
+Sturnus vulgaris - estorninho-malhado.
+
+Turdus pilaris - tordo-zornal.
+
+Turdus merula - melro-preto (ver nota *).
+
+Turdus iliacus - tordo-ruivo-comum.
+
+Turdus philomelos - tordo-comum.
+
+Turdus viscivorus - tordeia (ver nota *).
+
+2.2.2 - Aves aquáticas:
+
+Grupo A:
+
+Anas platyrhynchos - pato-real (ver nota *).
+
+Anas crecca - marrequinha (ver nota *).
+
+Anas strepera - frisada.
+
+Anas penelope - piadeira.
+
+Anas acuta - arrabio.
+
+Anas querquedula - marreco.
+
+Anas clypeata - pato-trombeteiro.
+
+Aythya ferina - zarro-comum.
+
+Aythya fuligula - zarro-negrinha.
+
+Gallinula chloropus - galinha-d'água (ver nota *).
+
+Fulica atra - galeirão-comum (ver nota *).
+
+Grupo B:
+
+Pluvialis aplicaria - tarambola-dourada.
+
+Vanellus vanellus - abibe.
+
+Limosa limosa - maçarico-de-bico-direito.
+
+(nota a) Espécies sujeitas a regulamentação específica, conforme as convenções e directivas internacionais que obrigam o Estado Português.
+
+(nota *) Espécies com população parcialmente sedentária.
+
+Lista II a que se refere o n.º 3 do artigo 88.º
+
+Espécies cinegéticas cujo comércio está sujeito a autorização e condicionantes especiais
+
+Mustela nivalis - doninha.
+
+Mustela putorius - toirão.
+
+Martes martes - marta.
+
+Martes foina - fuinha.
+
+Meles meles - texugo.
+
+Genetta genetta - gineto.
+
+Otis tetrax - sisão.
+
+Anas crecca - marrequinha.
+
+Anas penepole - piadeira.
+
+Anas acuta - arrabio.
+
+Aythya ferina - zarro-comum.
+
+Aythya fuligula - zarro-negrinha.
+
+Fulica atra - galeirão-comum.

@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:616450:por
+title: Decreto-Lei n.º 275/92
+short_title: null
+summary: Altera o Decreto-Lei n.º 315/87, de 20 de Agosto (cria o Gabinete do Nó Ferroviário de Lisboa)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 275/92
+official_date: null
+publication_date: '1992-12-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 286/1992, Série I-A de 1992-12-12
+  number: '286'
+  series: I
+  supplement: null
+  pages: 5686 - 5686
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/12/286a00/56865686.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/275/1992/12/12/p/dre/pt/html
+  oj: null
+  dre: '616450'
+  dre_path: /dr/detalhe/decreto-lei/275-1992-616450
+  internal: pt:dre:616450:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1992-616450
+  metadata_url: https://data.dre.pt/eli/dec-lei/275/1992/12/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1992-616450
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-12-12T00:00:00Z'
+integrity:
+  source_sha256: bacc04e07294f0edcb67730e31b037ba7aac6a5150d37cbb41204c6d1b895dd5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-275-616450.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Transporte Ferroviário
+- Definição de Competências
+- Gabinete do Nó Ferroviário de Lisboa
+- Orgânica
+- Remuneração
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 275/92
+
+de 12 de Dezembro
+
+A criação, pelo [Decreto-Lei n.º 315/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1987-418191), de 20 de Agosto, do Gabinete do Nó Ferroviário de Lisboa foi motivada pela especial relevância dos empreendimentos ferroviários a realizar na Região de Lisboa, que exigiam a existência de um órgão com funções de coordenação, acompanhamento e controlo dos meios e acções inerentes.
+
+O referido diploma prevê, no seu artigo 5.º, que o Gabinete seja dirigido por um conselho directivo constituído por um presidente e quatro vogais.
+
+Decorridos mais de quatro anos desde a sua criação, a experiência tem demonstrado que a actual composição do conselho directivo do Gabinete do Nó Ferroviário de Lisboa não se afigura a mais adequada do ponto de vista operacional e de eficácia, nomeadamente atentos os empreendimentos a lançar a muito curto prazo, e dos quais se destaca o atravessamento ferroviário da ponte sobre o Tejo, pelo que se impõe a sua alteração.
+
+No que respeita ao estatuto remuneratório, o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, previa que os titulares de cargos dirigentes com exercício de competência de chefia transitassem para o novo sistema retributivo estabelecido naquele diploma legal, o qual se veio impor sobre quaisquer normas gerais ou especiais previstas nas leis orgânicas dos serviços.
+
+No entanto, os vogais do conselho directivo do Gabinete do Nó Ferroviário de Lisboa, dado pertencerem a um organismo de carácter eventual, têm mantido o vencimento na base daquele que lhe foi fixado pelos despachos conjuntos dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações de 9 de Dezembro de 1987 e de 20 de Maio de 1988, publicados, respectivamente, no Diário da República, 2.ª série, de 22 de Dezembro de 1987 e de 6 de Junho de 1988, actualizável unicamente com os aumentos que foram atribuídos para a função pública.
+
+Considerando-se hoje aquele vencimento bastante degradado face ao vencimento atribuído a director-geral, quando em tempo aqueles tinham um vencimento superior ao estabelcido para aquele cargo, impõe-se corrigir tal situação.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. Os artigos 5.º, 6.º e 10.º do [Decreto-Lei n.º 315/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1987-418191), de 20 de Agosto, passam a ter a seguinte redacção:
+
+###### Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente, um vice-presidente e três vogais.
+
+2 - ...
+
+3 - O vice-presidente e os vogais são nomeados por despacho do Ministro das Obras Públicas, Transportes e Comunicações, sendo aqueles últimos indicados:
+
+a) Um pelo Ministro das Finanças;
+
+b) Um pelo Ministro do Planeamento e da Administração do Território;
+
+c) Um pela CP.
+
+4 - O mandato do vice-presidente e dos vogais é de três anos.
+
+###### Art. 6.º - 1 - Ao presidente cabe representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
+
+2 - O presidente poderá delegar no vice-presidente, com carácter permanente ou ocasional, no todo ou em parte, quaisquer das suas atribuições e toda ou parte da sua competência própria ou delegada, respeitadas as restrições da lei geral em matéria de delegações.
+
+3 - Nas suas faltas e impedimentos, o presidente é substituído pelo vice-presidente.
+
+4 - (Anterior n.º 2.)
+
+5 - (Anterior n.º 3.)
+
+6 - (Anterior n.º 4.)
+
+###### Art. 10.º - 1 - O vice-presidente auferirá remuneração correspondente a 90% do vencimento base mensal do presidente do conselho directivo.
+
+2 - O cargo de vogal do conselho directivo é equiparado, para efeitos remuneratórios, ao cargo de director-geral.
+
+3 - O montante das senhas de presença a atribuir aos membros do conselho técnico consultivo é fixado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 24 de Novembro de 1992.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 25 de Novembro de 1992.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

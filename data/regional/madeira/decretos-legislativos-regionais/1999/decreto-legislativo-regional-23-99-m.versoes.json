@@ -1,0 +1,525 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:428651:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1999-935752346",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-1999-428651",
+ "source_lastmod": "2025-09-18",
+ "versions": [
+  {
+   "date": "1999-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "935751418",
+    "935751419",
+    "935751420",
+    "935751421",
+    "935751422",
+    "935751423",
+    "935751424",
+    "935751425",
+    "935751426",
+    "935751427",
+    "935751428",
+    "935751429",
+    "935751430",
+    "935751431",
+    "935751432",
+    "935751433",
+    "935751434",
+    "935751435",
+    "935751436",
+    "935751437",
+    "935751438",
+    "935751439",
+    "935751440",
+    "935751441",
+    "935751442",
+    "935751443",
+    "935751444",
+    "935751445",
+    "935751446",
+    "935751447",
+    "935751448",
+    "935751449",
+    "935751450",
+    "935751452"
+   ]
+  },
+  {
+   "date": "2000-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:320088:por",
+     "title": "Decreto Legislativo Regional n.º 16/2000/M",
+     "published": "2000-07-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2000-320088"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "935751418",
+    "935751419",
+    "935751420",
+    "935751421",
+    "935751422",
+    "935751423",
+    "935751424",
+    "935751425",
+    "935751426",
+    "935751427",
+    "935751428",
+    "935751429",
+    "935751430",
+    "935751431",
+    "935751432",
+    "935751433",
+    "935751434",
+    "935751435",
+    "935751436",
+    "935751437",
+    "935751438",
+    "935751439",
+    "935751440",
+    "935751441",
+    "935751442",
+    "935751443",
+    "935751444",
+    "935751445",
+    "935751446",
+    "935751447",
+    "935751448",
+    "935751449",
+    "935751450",
+    "935751451",
+    "935751470"
+   ]
+  },
+  {
+   "date": "2002-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:437828:por",
+     "title": "Decreto Legislativo Regional n.º 23/2002/M",
+     "published": "2002-12-04",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-2002-437828"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "935751418",
+    "935751419",
+    "935751420",
+    "935751421",
+    "935751422",
+    "935751423",
+    "935751424",
+    "935751425",
+    "935751426",
+    "935751427",
+    "935751428",
+    "935751429",
+    "935751430",
+    "935751431",
+    "935751432",
+    "935751433",
+    "935751434",
+    "935751435",
+    "935751436",
+    "935751437",
+    "935751438",
+    "935751439",
+    "935751440",
+    "935751441",
+    "935751442",
+    "935751443",
+    "935751444",
+    "935751445",
+    "935751446",
+    "935751447",
+    "935751448",
+    "935751449",
+    "935751450",
+    "935751451",
+    "935894827"
+   ]
+  },
+  {
+   "date": "2005-04-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:547063:por",
+     "title": "Decreto Legislativo Regional n.º 4/2005/M",
+     "published": "2005-04-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-2005-547063"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "935751418",
+    "935751419",
+    "935751420",
+    "935751421",
+    "935751422",
+    "935751423",
+    "935751424",
+    "935751425",
+    "935751426",
+    "935751427",
+    "935751428",
+    "935751429",
+    "935751430",
+    "935751431",
+    "935751432",
+    "935751433",
+    "935751434",
+    "935751435",
+    "935751436",
+    "935751437",
+    "935751438",
+    "935751439",
+    "935751440",
+    "935751441",
+    "935751442",
+    "935751443",
+    "935751444",
+    "935751445",
+    "935751446",
+    "935751447",
+    "935751448",
+    "935751449",
+    "935751450",
+    "935751451",
+    "935953338"
+   ]
+  }
+ ],
+ "fragments": {
+  "935751418": {
+   "fragment_id": "935752347",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 23/99/M\n\nEstabelece regras sobre a adaptação às categorias específicas da Região Autónoma da Madeira do regime consagrado no Decreto-Lei n.º 404-A/98, de 18 de Dezembro.\n\nA entrada em vigor do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, que procedeu à reestruturação de carreiras do regime geral da função pública, deve, por imperativos de justiça, tornar-se extensiva às categorias específicas da Região Autónoma da Madeira, estabelecidas nos Decretos Regulamentares Regionais n.os 21/91/M e 20/92/M, de 17 de Setembro e de 17 de Agosto, respectivamente.\n\nPor outro lado, o decurso dos anos fez que tivessem sido criadas outras carreiras específicas da administração regional autónoma em diplomas dispersos, pelo que, por uma questão sistemática, importa agora tentar agrupar num único acervo normativo todas as carreiras regionais.\n\nContudo, feito o levantamento de todas as carreiras existentes ao nível da administração regional, concluiu-se que, em certos casos, não se justifica a manutenção de algumas carreiras regionais com conteúdo funcional e regras de recrutamento idênticas a outras de âmbito nacional, previstas nos anexos n.os 1 a 3 do Decreto-Lei n.º 353-A/89, de 16 de Outubro. Nestes casos optou-se, sempre que possível, pela aproximação às regras de recrutamento e tabelas remuneratórias de carreira equivalente a nível nacional.\n\nSaliente-se, no entanto, que o objectivo primordial do presente diploma é actualizar as estruturas remuneratórias das carreiras e categorias específicas da Região, não se pretendendo, para além das regras constantes do articulado, alterar as regras sobre o ingresso, acesso e progressão daquelas carreiras e categorias.\n\nAssim, dado o interesse específico da Região nesta matéria:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição e na alínea c) do n.º 1 do artigo 29.º da Lei n.º 13/91, de 5 de Junho, o seguinte:"
+  },
+  "935751419": {
+   "fragment_id": "935752348",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito de aplicação"
+  },
+  "935751420": {
+   "fragment_id": "935752349",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define as regras sobre o estatuto remuneratório dos funcionários e agentes e a estrutura das remunerações base das carreiras e categorias da administração pública regional nele contempladas, estabelecendo o seu ordenamento, condições de ingresso e de acesso e o sistema de recrutamento e selecção aplicável."
+  },
+  "935751421": {
+   "fragment_id": "935752350",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime estabelecido neste diploma aplica-se a todos os departamentos sob a tutela e jurisdição do Governo Regional, incluindo institutos públicos que revistam a natureza de serviços personalizados e de fundos públicos.\n\n2 - O presente diploma aplica-se também à administração local, no âmbito territorial desta Região."
+  },
+  "935751422": {
+   "fragment_id": "935752351",
+   "type": 1,
+   "heading": "Capítulo II — Carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Carreiras"
+  },
+  "935751423": {
+   "fragment_id": "935752352",
+   "type": 8,
+   "heading": "Secção I — Regras de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regras de transição"
+  },
+  "935751424": {
+   "fragment_id": "935752353",
+   "type": 11,
+   "heading": "Artigo 3.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regra geral\n\n1 - A transição para as novas escalas salariais faz-se para a mesma carreira, categoria e escalão que os funcionários e agentes detinham à data de produção de efeitos do presente diploma, salvo o disposto nos números seguintes.\n\n2 - Os funcionários e agentes que tenham mudado de categoria ou escalão após 1 de Janeiro de 1998 transitam para a nova escala salarial de acordo com a categoria e escalão de que eram titulares naquela data, sem prejuízo do reposicionamento decorrente das alterações subsequentes, de acordo com as regras aplicáveis.\n\n3 - Nos reposicionamentos efectuados nos termos do número anterior seguem-se as regras gerais de transição previstas no n.º 1 do presente artigo.\n\n4 - As carreiras e categorias constantes dos mapas anexos ao presente diploma que à data da sua entrada em vigor pertenciam aos grupos de pessoal técnico-profissional, administrativo e operário não qualificado transitam para as novas carreiras e categorias, de acordo com as regras estabelecidas para os referidos grupos de pessoal no Decreto-Lei n.º 404-A/98, de 18 de Dezembro."
+  },
+  "935751425": {
+   "fragment_id": "935752354",
+   "type": 11,
+   "heading": "Artigo 4.º — Contagem de tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contagem de tempo\n\n1 - A aplicação do presente diploma não prejudica a antiguidade do funcionário e agente, para efeitos de promoção.\n\n2 - No que concerne à antiguidade no escalão, para efeitos de futuras progressões, aplicam-se as regras constantes do artigo 23.º, n.º 3, do Decreto-Lei n.º 404-A/98, de 18 de Dezembro."
+  },
+  "935751426": {
+   "fragment_id": "935752355",
+   "type": 8,
+   "heading": "Secção II — Requisitos de provimento e recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Requisitos de provimento e recrutamento"
+  },
+  "935751427": {
+   "fragment_id": "935752356",
+   "type": 11,
+   "heading": "Artigo 5.º — Encarregado de centro de trabalho protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Encarregado de centro de trabalho protegido\n\nO provimento na categoria de encarregado de centro de trabalho protegido far-se-á de entre auxiliares de centro de trabalho protegido com pelo menos três anos de serviço na categoria classificados de Bom."
+  },
+  "935751428": {
+   "fragment_id": "935752357",
+   "type": 11,
+   "heading": "Artigo 6.º — Encarregado de armazém e chefe de armazém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Encarregado de armazém e chefe de armazém\n\n1 - O recrutamento para as categorias de encarregado de armazém e de chefe de armazém far-se-á, mediante concurso, de entre fiéis de armazém posicionados no 4.º escalão ou superior.\n\n2 - Poderão ainda ser recrutados para as categorias de encarregado de armazém e de chefe de armazém, mediante concurso, os indivíduos que estejam habilitados com o 9.º ano de escolaridade ou equivalente, sempre que o concurso realizado nos termos do número anterior fique deserto ou sem efeito útil."
+  },
+  "935751429": {
+   "fragment_id": "935752358",
+   "type": 11,
+   "heading": "Artigo 7.º — Chefe de armazém do Instituto do Vinho da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Chefe de armazém do Instituto do Vinho da Madeira\n\n1 - O recrutamento para as categorias de chefe de armazém principal, de 1.ª classe e de 2.ª classe far-se-á, mediante concurso, de entre pessoal integrado nas categorias de, respectivamente, chefe de armazém de 1.ª classe de 2.ª classe e de 3.ª classe com o mínimo de três anos classificados de Bom.\n\n2 - O recrutamento para a categoria de chefe de armazém de 3.ª classe far-se-á, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "935751430": {
+   "fragment_id": "935752359",
+   "type": 11,
+   "heading": "Artigo 8.º — Mestre marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mestre marítimo\n\n1 - O recrutamento para as categorias de mestre marítimo de 1.ª classe e de 2.ª classe far-se-á, mediante prestação de provas práticas, de entre pessoal integrado nas categorias de, respectivamente, mestre marítimo de 2.ª classe e de 3.ª classe com pelo menos três anos de bom e efectivo serviço na categoria.\n\n2 - O recrutamento para ingresso na categoria de mestre marítimo de 3.ª classe far-se-á de entre marinheiros de 1.ª classe com pelo menos quatro anos de bom e efectivo serviço na categoria e que tenham adquirido carta de mestre de tráfego local."
+  },
+  "935751431": {
+   "fragment_id": "935752360",
+   "type": 11,
+   "heading": "Artigo 9.º — Marinheiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Marinheiro\n\n1 - O recrutamento para a categoria de marinheiro de 1.ª classe far-se-á, mediante provas práticas, de entre marinheiros de 2.ª classe com quatro anos de bom e efectivo serviço na categoria habilitados com a carta de marinheiro de 1.ª classe.\n\n2 - O recrutamento para ingresso na categoria de marinheiro de 2.ª classe far-se-á, mediante prestação de provas, de entre indivíduos possuidores da escolaridade obrigatória que possuam a carta de marinheiro de 2.ª classe, nos termos do artigo 69.º do Regulamento de Inscrição Marítima, Matrícula e Lotação dos Navios da Marinha Mercante e da Pesca (RIM)."
+  },
+  "935751432": {
+   "fragment_id": "935752361",
+   "type": 11,
+   "heading": "Artigo 10.º — Auxiliar de centro de trabalho protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Auxiliar de centro de trabalho protegido\n\nO provimento na categoria de auxiliar de centro de trabalho protegido far-se-á, mediante concurso de prestação de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "935751433": {
+   "fragment_id": "935752362",
+   "type": 11,
+   "heading": "Artigo 11.º — Encarregado de parques desportivos e recreativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Encarregado de parques desportivos e recreativos\n\nO provimento na categoria de encarregado de parques desportivos e recreativos far-se-á, mediante concurso, de entre pessoal auxiliar posicionado no 2.º escalão ou superior das respectivas carreiras com experiência profissional adequada ao exercício das funções."
+  },
+  "935751434": {
+   "fragment_id": "935752363",
+   "type": 11,
+   "heading": "Artigo 12.º — Encarregado de instalações e equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Encarregado de instalações e equipamentos\n\n1 - O provimento na categoria de encarregado de instalações e equipamentos far-se-á, mediante concurso, de entre pessoal auxiliar posicionado no 2.º escalão ou superior das respectivas carreiras com experiência profissional adequada ao exercícios das funções.\n\n2 - A progressão faz-se em módulos de três anos."
+  },
+  "935751435": {
+   "fragment_id": "935752364",
+   "type": 11,
+   "heading": "Artigo 13.º — Técnico monitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Técnico monitor\n\nO recrutamento para a categoria da carreira de técnico monitor, integrada no grupo de pessoal técnico-profissional, obedece às regras gerais de ingresso e acesso desta carreira."
+  },
+  "935751436": {
+   "fragment_id": "935752365",
+   "type": 11,
+   "heading": "Artigo 14.º — Operário especializado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Operário especializado\n\n1 - O recrutamento para as categorias de operário especializado principal, de 1.ª classe e de 2.ª classe far-se-á, mediante concurso, de entre pessoal integrado nas categorias de, respectivamente, operário especializado de 1.ª classe, de 2.ª classe e de 3.ª classe com o mínimo de três anos classificados de Bom.\n\n2 - O recrutamento para a categoria de operário especializado de 3.ª classe far-se-á, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "935751437": {
+   "fragment_id": "935752366",
+   "type": 11,
+   "heading": "Artigo 15.º — Empregado agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Empregado agrícola\n\n1 - O recrutamento para as categorias de empregado agrícola principal e de 1.ª classe far-se-á, mediante prestação de provas práticas, de entre pessoal integrado nas categorias de, respectivamente, empregado agrícola de 1.ª classe e de 2.ª classe com pelo menos três anos de bom e efectivo serviço na categoria.\n\n2 - O recrutamento para a categoria de empregado agrícola de 2.ª classe far-se-á, mediante prestação de provas, de entre indivíduos possuidores da escolaridade obrigatória."
+  },
+  "935751438": {
+   "fragment_id": "935752367",
+   "type": 11,
+   "heading": "Artigo 16.º — Operário indiferenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Operário indiferenciado\n\n1 - O recrutamento para a categoria de operário indiferenciado principal, de 1.ª classe e de 2.ª classe far-se-á, mediante prestação de provas práticas, de entre, respectivamente, operários indiferenciados de 1.ª classe, de 2.ª classe e de 3.ª classe com pelo menos três anos de bom e efectivo serviço na categoria.\n\n2 - O recrutamento para a categoria de operário indiferenciado de 3.ª classe far-se-á, mediante prestação de provas, de entre indivíduos possuidores da escolaridade obrigatória."
+  },
+  "935751439": {
+   "fragment_id": "935752368",
+   "type": 11,
+   "heading": "Artigo 17.º — Empregado auxiliar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Empregado auxiliar\n\nO recrutamento para ingresso na categoria de empregado auxiliar far-se-á, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "935751440": {
+   "fragment_id": "935752369",
+   "type": 11,
+   "heading": "Artigo 18.º — Encarregado de arquivo e economato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encarregado de arquivo e economato\n\n1 - O provimento na categoria de encarregado de arquivo e economato far-se-á, mediante concurso, de entre operadores de reprografia posicionados no 6.º escalão ou superior com experiência profissional adequada ao exercício das respectivas funções.\n\n2 - A progressão faz-se em módulos de três anos."
+  },
+  "935751441": {
+   "fragment_id": "935752370",
+   "type": 11,
+   "heading": "Artigo 19.º — Encarregado da Secretaria Regional de Agricultura, Florestas e Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Encarregado da Secretaria Regional de Agricultura, Florestas e Pescas\n\nA categoria de encarregado da Secretaria Regional de Agricultura, Florestas e Pescas terá o desenvolvimento indiciário constante do anexo ao presente diploma."
+  },
+  "935751442": {
+   "fragment_id": "935752371",
+   "type": 11,
+   "heading": "Artigo 20.º — Operador de som e imagem, operador de fotografia e artesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Operador de som e imagem, operador de fotografia e artesão\n\n1 - O ingresso em cada uma das carreiras fica condicionado a concurso de prestação de adequadas provas práticas de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O acesso à categoria de principal de cada uma das carreiras far-se-á, mediante concurso, de entre os funcionários das respectivas carreiras com, pelo menos, seis anos na categoria e classificação de serviço não inferior a Bom."
+  },
+  "935751443": {
+   "fragment_id": "935752372",
+   "type": 11,
+   "heading": "Artigo 21.º — Chefe de departamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Chefe de departamento\n\n1 - O provimento na categoria de chefe de departamento far-se-á de entre chefes de repartição, bem como de entre funcionários que detinham aquela categoria à data da entrada em vigor do Decreto-Lei n.º 404-A/98, de 18 de Dezembro.\n\n2 - Para execução do disposto no número anterior, nos quadros de pessoal dos respectivos serviços e organismos serão criados os correspondentes lugares, os quais serão extintos à medida que vagarem."
+  },
+  "935751444": {
+   "fragment_id": "935752373",
+   "type": 8,
+   "heading": "Secção III — Estruturas remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Estruturas remuneratórias"
+  },
+  "935751445": {
+   "fragment_id": "935752374",
+   "type": 11,
+   "heading": "Artigo 22.º — Carreiras e categorias da administração regional autónoma e da administração local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Carreiras e categorias da administração regional autónoma e da administração local\n\nAs escalas salariais das carreiras e categorias da administração regional autónoma e da administração local cujas regras sobre o estatuto remuneratório e a estrutura das remunerações base ainda não foram objecto de regulamentação própria são as constantes do anexo deste diploma, do qual fazem parte integrante."
+  },
+  "935751446": {
+   "fragment_id": "935878275",
+   "type": 11,
+   "heading": "Artigo 23.º — Coincidência de índices",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Coincidência de índices\n\nAs carreiras e categorias constantes do mapa anexo ao presente diploma que possuírem desenvolvimento indiciário idêntico ao de carreiras constantes do anexo ao Decreto-Lei n.º 404-A/98, de 18 de Dezembro, e dos anexos II e III do Decreto-Lei n.º 412-A/98, de 31 de Dezembro, serão automaticamente revalorizadas sempre que estas últimas sofram qualquer incremento remuneratório."
+  },
+  "935751447": {
+   "fragment_id": "935878276",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "935751448": {
+   "fragment_id": "935878277",
+   "type": 11,
+   "heading": "Artigo 24.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Produção de efeitos\n\n1 - O presente diploma produz efeitos reportados a 1 de Janeiro de 1998.\n\n2 - Os funcionários e agentes que se aposentem durante o ano de 1998 terão a sua pensão de aposentação calculada com base no índice que resultar da valorização prevista no presente diploma."
+  },
+  "935751449": {
+   "fragment_id": "935878278",
+   "type": 11,
+   "heading": "Artigo 25.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Legislação revogada\n\nSão revogados os Decretos Regulamentares Regionais n.os 21/91/M e 20/92/M, de 17 de Setembro e de 17 de Agosto, respectivamente."
+  },
+  "935751450": {
+   "fragment_id": "935878279",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "935751452": {
+   "fragment_id": "935878281",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver anexo no documento original)\n\n> Nota: [Artigo 18.º, Decreto Legislativo Regional n.º 23/2002/M - Diário da República n.º 280/2002, Série I-A de 2002-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2002-437828) São revogadas as referências relativamente às carreiras de monitor de museografia, de técnico profissional de conservação e restauro, de artífice de conservação e restauro e de guarda de museu.\n\n> Nota: [Artigo 9.º, Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088) São revogadas as disposições referentes à estrutura remuneratória das carreiras de monitor de formação profissional e de técnico de emprego.\n\n> Nota: [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818) 1. No grupo de pessoal de chefia, nos escalões correspondentes à categoria de tesoureiro-chefe, onde se lê «450 - 460 - 475 - 495 - 520 - 545» deve ler-se «510 - 550 - 580 - 640 - 650 - 660». 2. No grupo de pessoal operário, no elenco das categorias da carreira de cozinheiro, onde se lê «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210» deve ler-se «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175». 3. No grupo de pessoal auxiliar, onde se lê «Chefe de armazém/encarregado do armazém» deve ler-se «Chefe de armazém/encarregado de armazém». 4. No grupo de pessoal auxiliar, na coluna de observações da categoria de chefe de armazém/encarregado de armazém, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 5. No grupo de pessoal auxiliar, nos escalões correspondentes à categoria de chefe de economato, onde se lê «270 - 280 - 290 - 300» deve ler-se «260 - 270 - 280 - 290» e na coluna de observações da referida categoria, actualmente sem comentários, deve fundir-se com a observação da categoria de chefe de armazém/encarregado de armazém. 6. No grupo de pessoal auxiliar, onde se lê «Encarregado de armazém (2)» deve ler-se «Encarregado de armazéns (2)». 7. No grupo de pessoal auxiliar, na coluna de observações da categoria de preparador de anatomia patológica auxiliar, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 8. No grupo de pessoal auxiliar, na categoria de radiologista auxiliar, a coluna de observações, actualmente sem comentários, deve fundir-se com a observação da categoria de preparador de anatomia patológica auxiliar."
+  },
+  "935751451": {
+   "fragment_id": "935878280",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 21 de Julho de 1999.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 6 de Agosto de 1999.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "935751470": {
+   "fragment_id": "935878281",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2000-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), em vigor a partir de 2000-07-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), produz efeitos a partir de 1999-08-27"
+   ],
+   "markdown": "## Anexo\n\n(ver anexo no documento original)\n\n> Nota: [Artigo 9.º, Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088) São revogadas as disposições referentes à estrutura remuneratória das carreiras de monitor de formação profissional e de técnico de emprego.\n\n> Nota: [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818) 1. No grupo de pessoal de chefia, nos escalões correspondentes à categoria de tesoureiro-chefe, onde se lê «450 - 460 - 475 - 495 - 520 - 545» deve ler-se «510 - 550 - 580 - 640 - 650 - 660». 2. No grupo de pessoal operário, no elenco das categorias da carreira de cozinheiro, onde se lê «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210» deve ler-se «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175». 3. No grupo de pessoal auxiliar, onde se lê «Chefe de armazém/encarregado do armazém» deve ler-se «Chefe de armazém/encarregado de armazém». 4. No grupo de pessoal auxiliar, na coluna de observações da categoria de chefe de armazém/encarregado de armazém, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 5. No grupo de pessoal auxiliar, nos escalões correspondentes à categoria de chefe de economato, onde se lê «270 - 280 - 290 - 300» deve ler-se «260 - 270 - 280 - 290» e na coluna de observações da referida categoria, actualmente sem comentários, deve fundir-se com a observação da categoria de chefe de armazém/encarregado de armazém. 6. No grupo de pessoal auxiliar, onde se lê «Encarregado de armazém (2)» deve ler-se «Encarregado de armazéns (2)». 7. No grupo de pessoal auxiliar, na coluna de observações da categoria de preparador de anatomia patológica auxiliar, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 8. No grupo de pessoal auxiliar, na categoria de radiologista auxiliar, a coluna de observações, actualmente sem comentários, deve fundir-se com a observação da categoria de preparador de anatomia patológica auxiliar.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), em vigor a partir de 2000-07-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), produz efeitos a partir de 1999-08-27"
+  },
+  "935894827": {
+   "fragment_id": "935878281",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2002-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 23/2002/M - Diário da República n.º 280/2002, Série I-A de 2002-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2002-437828), em vigor a partir de 2002-12-05",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), em vigor a partir de 2000-07-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), produz efeitos a partir de 1999-08-27"
+   ],
+   "markdown": "## Anexo\n\n(ver anexo no documento original)\n\n> Nota: [Artigo 18.º, Decreto Legislativo Regional n.º 23/2002/M - Diário da República n.º 280/2002, Série I-A de 2002-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2002-437828) São revogadas as referências relativamente às carreiras de monitor de museografia, de técnico profissional de conservação e restauro, de artífice de conservação e restauro e de guarda de museu.\n\n> Nota: [Artigo 9.º, Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088) São revogadas as disposições referentes à estrutura remuneratória das carreiras de monitor de formação profissional e de técnico de emprego.\n\n> Nota: [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818) 1. No grupo de pessoal de chefia, nos escalões correspondentes à categoria de tesoureiro-chefe, onde se lê «450 - 460 - 475 - 495 - 520 - 545» deve ler-se «510 - 550 - 580 - 640 - 650 - 660». 2. No grupo de pessoal operário, no elenco das categorias da carreira de cozinheiro, onde se lê «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210» deve ler-se «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175». 3. No grupo de pessoal auxiliar, onde se lê «Chefe de armazém/encarregado do armazém» deve ler-se «Chefe de armazém/encarregado de armazém». 4. No grupo de pessoal auxiliar, na coluna de observações da categoria de chefe de armazém/encarregado de armazém, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 5. No grupo de pessoal auxiliar, nos escalões correspondentes à categoria de chefe de economato, onde se lê «270 - 280 - 290 - 300» deve ler-se «260 - 270 - 280 - 290» e na coluna de observações da referida categoria, actualmente sem comentários, deve fundir-se com a observação da categoria de chefe de armazém/encarregado de armazém. 6. No grupo de pessoal auxiliar, onde se lê «Encarregado de armazém (2)» deve ler-se «Encarregado de armazéns (2)». 7. No grupo de pessoal auxiliar, na coluna de observações da categoria de preparador de anatomia patológica auxiliar, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 8. No grupo de pessoal auxiliar, na categoria de radiologista auxiliar, a coluna de observações, actualmente sem comentários, deve fundir-se com a observação da categoria de preparador de anatomia patológica auxiliar.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 23/2002/M - Diário da República n.º 280/2002, Série I-A de 2002-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2002-437828), em vigor a partir de 2002-12-05\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), em vigor a partir de 2000-07-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), produz efeitos a partir de 1999-08-27"
+  },
+  "935953338": {
+   "fragment_id": "935878281",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2005-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 4/2005/M - Diário da República n.º 74/2005, Série I-A de 2005-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2005-547063), em vigor a partir de 2005-04-16, produz efeitos a partir de 1999-11-11",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 23/2002/M - Diário da República n.º 280/2002, Série I-A de 2002-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2002-437828), em vigor a partir de 2002-12-05",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), em vigor a partir de 2000-07-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), produz efeitos a partir de 1999-08-27"
+   ],
+   "markdown": "## Anexo\n\n(ver anexo no documento original)\n\n> Nota: [Artigo 18.º, Decreto Legislativo Regional n.º 23/2002/M - Diário da República n.º 280/2002, Série I-A de 2002-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2002-437828) São revogadas as referências relativamente às carreiras de monitor de museografia, de técnico profissional de conservação e restauro, de artífice de conservação e restauro e de guarda de museu.\n\n> Nota: [Artigo 9.º, Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088) São revogadas as disposições referentes à estrutura remuneratória das carreiras de monitor de formação profissional e de técnico de emprego.\n\n> Nota: [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818) 1. No grupo de pessoal de chefia, nos escalões correspondentes à categoria de tesoureiro-chefe, onde se lê «450 - 460 - 475 - 495 - 520 - 545» deve ler-se «510 - 550 - 580 - 640 - 650 - 660». 2. No grupo de pessoal operário, no elenco das categorias da carreira de cozinheiro, onde se lê «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210» deve ler-se «Cozinheiro-chefe - 185 - 190 - 195 - 205 - 215 - 230; Cozinheiro - 150 - 160 - 170 - 180 - 195 - 210; Ajudante de cozinha - 125 - 135 - 145 - 155 - 165 - 175». 3. No grupo de pessoal auxiliar, onde se lê «Chefe de armazém/encarregado do armazém» deve ler-se «Chefe de armazém/encarregado de armazém». 4. No grupo de pessoal auxiliar, na coluna de observações da categoria de chefe de armazém/encarregado de armazém, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 5. No grupo de pessoal auxiliar, nos escalões correspondentes à categoria de chefe de economato, onde se lê «270 - 280 - 290 - 300» deve ler-se «260 - 270 - 280 - 290» e na coluna de observações da referida categoria, actualmente sem comentários, deve fundir-se com a observação da categoria de chefe de armazém/encarregado de armazém. 6. No grupo de pessoal auxiliar, onde se lê «Encarregado de armazém (2)» deve ler-se «Encarregado de armazéns (2)». 7. No grupo de pessoal auxiliar, na coluna de observações da categoria de preparador de anatomia patológica auxiliar, onde se lê «Categoria com o mesmo desenvolvimento» deve ler-se «Categorias com o mesmo desenvolvimento». 8. No grupo de pessoal auxiliar, na categoria de radiologista auxiliar, a coluna de observações, actualmente sem comentários, deve fundir-se com a observação da categoria de preparador de anatomia patológica auxiliar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 4/2005/M - Diário da República n.º 74/2005, Série I-A de 2005-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2005-547063), em vigor a partir de 2005-04-16, produz efeitos a partir de 1999-11-11\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 23/2002/M - Diário da República n.º 280/2002, Série I-A de 2002-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2002-437828), em vigor a partir de 2002-12-05\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 16/2000/M - Diário da República n.º 162/2000, Série I-A de 2000-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), em vigor a partir de 2000-07-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-I/99 - Diário da República n.º 229/1999, 2º Suplemento, Série I-A de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), produz efeitos a partir de 1999-08-27"
+  }
+ }
+}

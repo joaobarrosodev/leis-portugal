@@ -1,0 +1,91 @@
+---
+schema_version: '1.0'
+id: pt:dre:369474:por
+title: Portaria n.º 492/79
+short_title: null
+summary: Mantém em vigor para o ano de 1979 o disposto na Portaria n.º 560/77, de 8 de Setembro (vinhos e seus derivados)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo - Secretaria de Estado do Comércio Interno
+proposing_entity: null
+official_number: 492/79
+official_date: null
+publication_date: '1979-09-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/1979, Série I de 1979-09-12
+  number: '211'
+  series: I
+  supplement: null
+  pages: 2290 - 2290
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21100/22902290.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '369474'
+  dre_path: /dr/detalhe/portaria/492-1979-369474
+  internal: pt:dre:369474:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1979-369474
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1979-369474
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-09-12T00:00:00Z'
+integrity:
+  source_sha256: 39ad9fd2d44491aa61f27ae50737ba312c1005a584a167f6aec9707926e9addf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-492-369474.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 492/79
+
+de 12 de Setembro
+
+Em conformidade com a alínea a) do artigo 16.º do [Decreto n.º 27977](https://diariodarepublica.pt/dr/detalhe/decreto/27977-1937-428071), de 19 de Agosto de 1937, e para execução do disposto no [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, designadamente no seu artigo 1.º:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, manter para o ano de 1979 o disposto na [Portaria n.º 560/77](https://diariodarepublica.pt/dr/detalhe/portaria/560-1977-286331), de 8 de Setembro, sendo igualmente mantido para o mesmo ano o quantitativo da taxa fixado no n.º 1.º daquela portaria.
+
+Secretaria de Estado do Comércio Interno, 23 de Agosto de 1979. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

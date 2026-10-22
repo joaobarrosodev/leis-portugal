@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543880:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-868778833",
+ "dre_path": "/dr/detalhe/decreto-lei/20-2012-543880",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868689461",
+    "868689462",
+    "868689463",
+    "868689464",
+    "868689465",
+    "868689466",
+    "868689467",
+    "868689468",
+    "868689469",
+    "868689470",
+    "868689471",
+    "868689472",
+    "868689473",
+    "868689474",
+    "868786675",
+    "868786676"
+   ]
+  },
+  {
+   "date": "2023-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211499216:por",
+     "title": "Decreto-Lei n.º 25/2023",
+     "published": "2023-04-06",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2023-211499216"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "868689461",
+    "868689462",
+    "868689463",
+    "868689464",
+    "868689465",
+    "868689466",
+    "868689467",
+    "868689468",
+    "868689469",
+    "868689470",
+    "868689471",
+    "868689472",
+    "868786685",
+    "868689474",
+    "868786675",
+    "868786676",
+    "868786677"
+   ]
+  }
+ ],
+ "fragments": {
+  "868689461": {
+   "fragment_id": "868778834",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 20/2012\n\nde 27 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNo cumprimento destas orientações procede-se, nos termos do presente diploma, à reestruturação do Centro Científico e Cultural de Macau, I. P., o qual alarga o âmbito da sua missão, mantendo, no essencial, as atribuições, o modelo organizacional e a estrutura que já detinha, procurando orientar a actuação para a sua afirmação enquanto centro de investigação científica, de formação contínua e avançada, de alta divulgação cultural e de especializada informação, bem como para a sua consolidação como um espaço de estudo e de ensino da língua, cultura e história da China e como ponte da cooperação Portugal-China.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 25/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2023-211499216) A referência legal a «Ministério da Educação e Ciência» constante do Decreto-Lei n.º 20/2012, de 27 de janeiro, deve considerar-se feita à «área governativa da ciência, tecnologia e ensino superior"
+  },
+  "868689462": {
+   "fragment_id": "868778835",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Centro Científico e Cultural de Macau, I. P., abreviadamente designado por CCCM, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa e património próprio.\n\n2 - O CCCM, I. P., prossegue atribuições do Ministério da Educação e Ciência, sob superintendência e tutela do respectivo Ministro."
+  },
+  "868689463": {
+   "fragment_id": "868778836",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O CCCM, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O CCCM, I. P., tem sede em Lisboa."
+  },
+  "868689464": {
+   "fragment_id": "868778837",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O CCCM, I. P., tem por missão produzir, promover e divulgar o conhecimento sobre Macau e sobre as relações de Portugal com Macau e com a República Popular da China, bem como sobre as relações da Europa com a região Ásia-Pacífico, centradas, respectivamente, em Portugal e em Macau, promovendo, nomeadamente, através do Museu e da Biblioteca, seus instrumentos fundamentais, a investigação e a cooperação científica, cultural e artística nas áreas da Sinologia, dos estudos sobre Macau, da Japonologia, dos estudos de Ásia do Sueste e das Relações Eurasiáticas.\n\n2 - São atribuições do CCCM, I. P.:\n\na) Contribuir para um melhor conhecimento científico sobre a presença histórica e cultural portuguesa em Macau, bem como estimular os contactos e o diálogo com as culturas orientais;\n\nb) Promover, incentivar e apoiar manifestações científicas e culturais ligadas à vivência intercultural luso-chinesa;\n\nc) Contribuir para a preservação do património existente em Portugal que atesta a presença portuguesa em Macau e na região Ásia-Pacífico, em particular na República Popular da China;\n\nd) Promover a investigação em áreas relativas às relações entre Portugal e a região Ásia-Pacífico, especialmente as que respeitem à República Popular da China ou que interessem ao conhecimento e à preservação da herança cultural de Macau;\n\ne) Realizar programas de divulgação científica e animação cultural e promover estudos sobre a história e cultura de Macau e a presença dos Portugueses neste território, bem como sobre outros temas ligados à região Ásia-Pacífico e ao diálogo com a cultura portuguesa;\n\nf) Recolher, conservar e divulgar fontes históricas disponíveis relacionadas com o passado do território de Macau, utilizando o Museu e a Biblioteca como instrumentos essenciais ao cumprimento desta atribuição;\n\ng) Editar e co-editar, em suporte papel e digital, estudos científicos, fontes documentais inéditas e outros tipos de estudos sobre Macau e sobre as relações de Portugal, no presente e no passado, com Macau e as regiões da Ásia do Sueste e da Ásia Oriental, em particular com a República Popular da China;\n\nh) Celebrar acordos, protocolos e contratos com pessoas singulares ou colectivas, de natureza pública ou privada, nacionais e estrangeiras, para a realização conjunta de acções e de actividades que se enquadrem na missão do CCCM, I. P.\n\n3 - No domínio das suas atribuições, o CCCM, I. P., atribui bolsas de investigação científica, orientadas e aplicadas nas áreas de estudos sobre Macau e sobre as relações entre Portugal e a República Popular da China e entre a Europa e a Ásia Oriental.\n\n4 - O CCCM, I. P., pode, ainda, acolher bolseiros e estabelecer ou colaborar em programas de formação, remunerados por bolsas, dirigidos a indivíduos com habilitações adequadas.\n\n5 - O CCCM, I. P., exerce as suas atribuições em articulação, sempre que necessário, com os serviços e instituições de outras áreas da Administração Pública ou do sector privado, nomeadamente, no âmbito da investigação científica e da cultura, e, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros, sempre que as referidas atribuições se integrem no seu âmbito da actuação."
+  },
+  "868689465": {
+   "fragment_id": "868778838",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - O CCCM, I. P., é dirigido por um presidente, cargo de direcção superior de 1.º grau.\n\n2 - São ainda órgãos do CCCM, I. P.:\n\na) O conselho científico;\n\nb) A unidade de acompanhamento;\n\nc) O fiscal único."
+  },
+  "868689466": {
+   "fragment_id": "868778839",
+   "type": 11,
+   "heading": "Artigo 5.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Presidente\n\n1 - Compete ao presidente dirigir e orientar os serviços do CCCM, I. P., nos termos das competências que lhe sejam conferidas por lei ou nos estatutos, ou que nele sejam delegadas ou subdelegadas, designadamente:\n\na) Elaborar os planos anuais e plurianuais de actividades e assegurar a respectiva execução;\n\nb) Acompanhar e avaliar sistematicamente a actividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos;\n\nc) Elaborar o relatório de actividades;\n\nd) Exercer os poderes de direcção, gestão e disciplina do pessoal;\n\ne) Aprovar os projectos dos regulamentos previstos nos estatutos e os que sejam necessários ao desempenho das atribuições do CCCM, I. P.;\n\nf) Praticar os demais actos de gestão decorrentes da aplicação dos estatutos e necessários ao bom funcionamento dos serviços;\n\ng) Nomear os representantes do CCCM, I. P., em entidades externas;\n\nh) Constituir mandatários do CCCM, I. P., em juízo e fora dele, incluindo com o poder de substabelecer.\n\n2 - Compete ainda ao presidente, no domínio da gestão financeira e patrimonial:\n\na) Elaborar o orçamento anual e assegurar a respectiva execução;\n\nb) Arrecadar e gerir as receitas e autorizar as despesas;\n\nc) Elaborar a conta de gerência;\n\nd) Gerir o património;\n\ne) Aceitar doações, heranças ou legados;\n\nf) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;\n\ng) Exercer os demais poderes previstos nos estatutos e que não estejam atribuídos a outro órgão.\n\n3 - O CCCM, I. P., é representado, designadamente, em juízo ou na prática de actos jurídicos, pelo presidente.\n\n4 - O presidente identifica o titular do cargo de direcção intermédia de 2.º grau que o substitui nas suas faltas e impedimentos."
+  },
+  "868689467": {
+   "fragment_id": "868778840",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho científico\n\n1 - O conselho científico é constituído por todos os que, a qualquer título, incluindo o de bolseiro, sejam cidadãos nacionais ou estrangeiros, exerçam actividade no CCCM, I. P., desde que estejam habilitados com o grau de doutor ou equivalente, tenham obtido aprovação nas provas a que se refere o artigo 10.º do Decreto-Lei n.º 124/99, de 20 de Abril, alterado pelo Decreto-Lei n.º 373/99, de 18 de Setembro, e pela Lei n.º 157/99, de 14 de Setembro, ou, ainda, os que, não possuindo qualquer dessas qualificações, integrem a carreira de investigação científica em categoria igual ou superior à de investigador auxiliar ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.\n\n2 - O presidente do conselho científico é eleito pelo período de três anos, directamente de entre os seus membros, por escrutínio secreto e maioria simples dos votos expressos.\n\n3 - O número mínimo de membros que determina o início de funções do conselho científico é definido por despacho do membro do Governo responsável pela área da ciência.\n\n4 - O conselho científico é o órgão responsável pela apreciação e pelo acompanhamento da actividade de investigação científica do CCCM, I. P.\n\n5 - Compete ao conselho científico, em especial:\n\na) Emitir parecer sobre o orçamento, plano e relatório anuais ou plurianuais de actividades, no que respeita às actividades de investigação científica;\n\nb) Colaborar com outras instituições em todos os assuntos relacionados com a avaliação e formação de pessoal de investigação;\n\nc) Pronunciar-se sobre todas as questões que lhe sejam submetidas pelo presidente;\n\nd) Elaborar e aprovar o seu regulamento interno.\n\n6 - O conselho científico funciona em plenário e em secções, nos termos a fixar no regulamento interno.\n\n7 - A participação no conselho científico não é remunerada."
+  },
+  "868689468": {
+   "fragment_id": "868778841",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidade de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidade de acompanhamento\n\n1 - A unidade de acompanhamento é constituída por cinco individualidades exteriores ao CCCM, I. P., a quem seja reconhecida competência na área da sua actividade, devendo, sempre que possível, pelo menos dois deles exercer a sua actividade em instituições não nacionais, nomeadas pelo membro do Governo responsável pela área da ciência, sob proposta do presidente.\n\n2 - A unidade de acompanhamento exerce funções de avaliação e de aconselhamento interno, de acordo com os parâmetros definidos pelo presidente do CCCM, I. P.\n\n3 - Compete, em especial, à unidade de acompanhamento:\n\na) Analisar regularmente e emitir parecer sobre o funcionamento do CCCM, I. P.;\n\nb) Emitir parecer sobre o plano e relatório anuais ou plurianuais de actividades do CCCM, I. P.;\n\nc) Emitir parecer sobre todas as questões que lhe sejam submetidas pelo presidente.\n\n4 - O mandato dos membros da unidade de acompanhamento tem a duração de três anos, renovável por iguais períodos.\n\n5 - A participação na unidade de acompanhamento não é remunerada."
+  },
+  "868689469": {
+   "fragment_id": "868778842",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos."
+  },
+  "868689470": {
+   "fragment_id": "868778843",
+   "type": 11,
+   "heading": "Artigo 9.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organização interna\n\nA organização interna do CCCM, I. P., é a prevista nos respectivos Estatutos."
+  },
+  "868689471": {
+   "fragment_id": "868778844",
+   "type": 11,
+   "heading": "Artigo 10.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Receitas\n\n1 - O CCCM, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento de Estado.\n\n2 - O CCCM, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As quantias que lhe sejam devidas em resultado do exercício da sua actividade, nomeadamente as cobradas pelos serviços;\n\nb) O produto da venda de publicações, impressos e outros documentos por si editados;\n\nc) As verbas resultantes da realização de estudos e outros trabalhos de carácter museológico, técnico e científico;\n\nd) As doações, heranças e legados concedidos por quaisquer entidades, públicas ou privadas;\n\ne) As comparticipações ou subsídios concedidos por quaisquer entidades;\n\nf) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título."
+  },
+  "868689472": {
+   "fragment_id": "868778845",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas\n\nConstituem despesas do CCCM, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições."
+  },
+  "868689473": {
+   "fragment_id": "868778846",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Património\n\nO património do CCCM, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "868689474": {
+   "fragment_id": "868778847",
+   "type": 11,
+   "heading": "Artigo 13.º — Criação e Participação em Outras Entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Criação e Participação em Outras Entidades\n\n1 - O CCCM, I. P., pode, mediante autorização dos membros do Governo responsáveis pelas áreas das finanças e da ciência, criar, participar na criação ou adquirir participações em instituições privadas sem fins lucrativos de ciência e tecnologia, assegurando, ainda, a continuidade das participações que detém.\n\n2 - O CCCM, I. P., pode filiar-se ou participar em instituições ou organismos afins, nacionais ou internacionais.\n\n3 - O CCCM, I. P., nos termos do n.º 1, pode participar noutras entidades de natureza privada, relevantes para a prossecução das suas actividades, assegurando, ainda, a continuidade das participações que detém."
+  },
+  "868786675": {
+   "fragment_id": "868778848",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 154/2007, de 27 de Abril."
+  },
+  "868786676": {
+   "fragment_id": "868778849",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "868786685": {
+   "fragment_id": "868778846",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": "2023-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2023-211499216), em vigor a partir de 2023-04-07"
+   ],
+   "markdown": "###### Artigo 12.º — Património\n\n1 - O património do CCCM, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.\n\n2 - O imóvel denominado «Vila de Santo António» sito na Rua da Junqueira, n.os 20 a 40, em Lisboa, inscrito na matriz predial urbana da freguesia de Alcântara sob o artigo n.º 452 e descrito na 6.ª Conservatória do Registo Predial de Lisboa sob os n.os 6999, 7000 e 7001, propriedade do CCCM, I. P., pode ser dado em arrendamento, nos termos da lei, a entidades que, independentemente da sua natureza, cooperem e apoiem o CCCM, I. P., na prossecução da sua missão e atribuições, para fins relacionados com as relações culturais e de cooperação Portugal-China, considerando-se nesse caso observada a finalidade que fundamentou a cessão do imóvel pelo Estado, nos termos do Decreto-Lei n.º 97/70, de 13 de março.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2023-211499216), em vigor a partir de 2023-04-07"
+  },
+  "868786677": {
+   "fragment_id": "868778850",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 19 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:1892047:por
+title: Declaração de Rectificação n.º 1924/2010
+short_title: null
+summary: Rectifica o Regulamento de Propinas, Emolumentos e Prémios da Universidade de Coimbra, publicado através do regulamento
+  n.º 679/2010, de 12 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade de Coimbra
+proposing_entity: null
+official_number: 1924/2010
+official_date: null
+publication_date: '2010-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/2010, Série II de 2010-09-20
+  number: '183'
+  series: II
+  supplement: null
+  pages: 47673 - 47674
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/09/183000000/4767347674.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1892047'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1924-2010-1892047
+  internal: pt:dre:1892047:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1924-2010-1892047
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1924-2010-1892047
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-09-20T00:00:00Z'
+integrity:
+  source_sha256: 5300cb50103dcc4cd8be29bda63104d6f882416344230daa30fca1387a39a399
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-1924-1892047.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1924/2010
+
+Declaração de rectificação n.º 1924/2010
+
+Por ter sido publicado com inexactidão, rectifica-se o artigo 4.º do Regulamento de Propinas, Emolumentos e Prémios da Universidade de Coimbra, publicado no Diário da República, 2.ª série, n.º 156, através do regulamento n.º 679/2010, de 12 de Agosto.
+
+Assim, onde lê:
+
+«Artigo 4.º
+
+Tempo Parcial
+
+1 - A propina anual a pagar pelo estudante inscrito em regime de tempo parcial é 70 % da propina devida pelo estudante em regime de tempo integral.
+
+2 - Caso o estudante se inscreva a tempo parcial apenas num dos semestres do ano lectivo, a propina a pagar é 35 % da propina anual devida pelo estudante em regime de tempo integral.»
+
+deve ler-se:
+
+«Artigo 4.º
+
+Tempo parcial
+
+1 - A propina anual a pagar pelo estudante inscrito em regime de tempo parcial é 60 % da propina devida pelo estudante em regime de tempo integral.
+
+2 - Caso o estudante se inscreva a tempo parcial apenas num dos semestres do ano lectivo, a propina a pagar é 30 % da propina anual devida pelo estudante em regime de tempo integral.»
+
+14 de Setembro de 2010. - O Reitor, Fernando Seabra Santos.

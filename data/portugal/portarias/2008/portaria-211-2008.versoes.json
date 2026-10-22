@@ -1,0 +1,154 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247430:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-207925480",
+ "dre_path": "/dr/detalhe/portaria/211-2008-247430",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-02-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207925437",
+    "207925438",
+    "207925439",
+    "207925440",
+    "207925441"
+   ]
+  },
+  {
+   "date": "2023-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207756384:por",
+     "title": "Portaria n.º 53/2023",
+     "published": "2023-02-23",
+     "dre_path": "/dr/detalhe/portaria/53-2023-207756384"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "207925437",
+    "207925438",
+    "207925453",
+    "207925454",
+    "207925455",
+    "207925456",
+    "207925457",
+    "207925458",
+    "207925459"
+   ]
+  }
+ ],
+ "fragments": {
+  "207925437": {
+   "fragment_id": "207925481",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 211/2008\n\nde 29 de Fevereiro\n\nO Decreto-Lei n.º 26/2008, de 22 de Fevereiro, regulou a constituição e o funcionamento do regime público de capitalização que visa o reforço da protecção social dos beneficiários abrangidos por regime de protecção social de inscrição obrigatória.\n\nO referido diploma legal estabelece que as particularidades do cumprimento da obrigação contributiva e o formulário de modelo próprio para adesão ao regime público de capitalização sejam aprovados por portaria do membro do Governo responsável pela área da segurança social.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 dos artigos 14.º e 44.º do Decreto-Lei n.º 26/2008, de 22 de Fevereiro, manda o Governo, pelo Ministro da Trabalho e da Solidariedade Social, o seguinte:"
+  },
+  "207925438": {
+   "fragment_id": "207925482",
+   "type": 11,
+   "heading": "Artigo 1.º — Modelo de adesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Modelo de adesão\n\nÉ aprovado o modelo de adesão ao regime público de capitalização, modelo RPC01-DGSS, publicado como anexo i à presente portaria e que dela faz parte integrante."
+  },
+  "207925439": {
+   "fragment_id": "207925483",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamento das contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pagamento das contribuições\n\nO pagamento das contribuições para o regime público de capitalização é efectuado no dia 8 de cada mês e reporta-se ao mês em que é pago."
+  },
+  "207925440": {
+   "fragment_id": "207925484",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização de débito em conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização de débito em conta\n\n1 - A obrigação contributiva é cumprida através de transferência bancária mediante autorização de débito conferida pelo aderente, através de formulário de modelo próprio, que acompanha o requerimento de adesão.\n\n2 - Para efeitos do número anterior é aprovado o modelo RPC 02-DGSS, publicado como anexo ii à presente portaria e que dela faz parte integrante."
+  },
+  "207925441": {
+   "fragment_id": "207925485",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de Março de 2008."
+  },
+  "207925453": {
+   "fragment_id": "207925483",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamento das contribuições",
+   "in_force_from": "2023-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+   ],
+   "markdown": "###### Artigo 2.º — Pagamento das contribuições\n\nO pagamento das contribuições para o regime público de capitalização é efetuado no dia 13 de cada mês e reporta-se ao mês em que é pago.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+  },
+  "207925454": {
+   "fragment_id": "207925484",
+   "type": 11,
+   "heading": "Artigo 3.º — Utilização de conta bancária",
+   "in_force_from": "2023-02-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+   ],
+   "markdown": "###### Artigo 3.º — Utilização de conta bancária\n\n1 - A obrigação contributiva é cumprida através de transferência de conta bancária do sistema SEPA mediante autorização de débito conferida pelo aderente, através de formulário de modelo próprio contendo identificação do International Bank Account Number (IBAN), que acompanha o requerimento de adesão.\n\n2 - O pagamento do resgate e da renda vitalícia são efetuados através de crédito na conta bancária do sistema SEPA identificada através de formulário de modelo próprio que acompanha o requerimento de pagamento.\n\n3 - Para efeitos do número anterior é aprovado o modelo RPC 02-DGSS, publicado como anexo ii à presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+  },
+  "207925455": {
+   "fragment_id": "207925498",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Meios de prova",
+   "in_force_from": "2023-02-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+   ],
+   "markdown": "###### Artigo 3.º-A — Meios de prova\n\nPara efeitos do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 26/2008, de 22 de fevereiro, na redação atual, a prova da inscrição em regime de segurança social obrigatório ou da data da passagem à situação de pensionista é efetuada mediante a apresentação de declaração da entidade gestora do regime de segurança social ou de pensões que abrange o aderente, sem prejuízo das situações em que seja possível a troca de dados entre as instituições competentes dos países aos quais Portugal se encontra vinculado por instrumento internacional de segurança social.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 53/2023 - Diário da República n.º 39/2023, Série I de 2023-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/53-2023-207756384), em vigor a partir de 2023-02-24"
+  },
+  "207925456": {
+   "fragment_id": "207925485",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de Março de 2008."
+  },
+  "207925457": {
+   "fragment_id": "207925486",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 25 de Fevereiro de 2008."
+  },
+  "207925458": {
+   "fragment_id": "207925487",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver documento original)"
+  },
+  "207925459": {
+   "fragment_id": "207925488",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver documento original)"
+  }
+ }
+}

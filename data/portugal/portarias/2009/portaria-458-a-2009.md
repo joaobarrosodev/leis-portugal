@@ -1,0 +1,279 @@
+---
+schema_version: '1.0'
+id: pt:dre:333330:por
+title: Portaria n.º 458-A/2009
+short_title: null
+summary: Primeira alteração à Portaria n.º 143/2009, de 5 de Fevereiro, que define os condicionalismos específicos ao exercício
+  da pesca lúdica no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV), e à Portaria n.º 144/2009, de 5 de
+  Fevereiro, que define as áreas e condicionalismos ao exercício da pesca lúdica, incluindo a apanha lúdica, em águas oceânicas
+  da subárea da zona económica exclusiva do continente, águas interiores marítimas e águas interiores não marítimas sob jurisdição
+  da autonomia marítima, e revoga a Portaria n.º 868/2006, de 29 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Defesa Nacional, do Ambiente, do Ordenamento do Território e do Desenvolvimento
+  Regional, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 458-A/2009
+official_date: null
+publication_date: '2009-05-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/2009, 1º Suplemento, Série I de 2009-05-04
+  number: '85'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2524-(2) a 2524-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/05/08501/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/458-a/2009/05/04/p/dre/pt/html
+  oj: null
+  dre: '333330'
+  dre_path: /dr/detalhe/portaria/458-a-2009-333330
+  internal: pt:dre:333330:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/458-a-2009-333330
+  metadata_url: https://data.dre.pt/eli/port/458-a/2009/05/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/458-a-2009-333330
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-01-23T00:00:00Z'
+integrity:
+  source_sha256: dab10f10620ca13c072e184bc6a69568d4aa4815900ca9de47a87f4aede76f4c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-458-A-333330.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA Submarina
+- Proteção dos Animais
+- Pesca
+- Gestão dos Recursos
+- Licenciamento
+- Licença de Pesca
+- Parque Natural do Sudoeste Alentejano e Costa Vicentina
+- Proteção do Ambiente
+- Pesca Desportiva
+- Zona de Proteção
+- ZONA de Pesca
+relationships:
+- type: amended_by
+  target: pt:dre:571046:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/112/2005/07/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2005/07/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/56/2007/03/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/2007/03/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/143/2009/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/143/2009/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/144/2009/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/144/2009/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/868/2006/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/868/2006/08/29/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 458-A/2009
+
+de 4 de Maio
+
+A Portaria n.º 144/2009, de 5 de Fevereiro, definiu áreas e condicionalismos ao exercício da pesca lúdica, incluindo a apanha lúdica, em águas oceânicas da subárea da zona económica exclusiva do continente, águas interiores marítimas e águas interiores não marítimas sob jurisdição da autoridade marítima.
+
+Nos termos do artigo 5.º, o regime instituído excluiu a utilização de engodos na pesca apeada, restringindo-a à utilização apenas de iscos, diferenciando-se assim do regime instituído para a pesca a partir de embarcação, para a qual se permite a utilização tanto de iscos como de engodos. Tal diferenciação carece, todavia, de um fundamento justificativo, no pressuposto de os engodos cuja utilização se permite respeitem, escrupulosamente, em qualquer caso, as condições indicadas no n.º 1 do artigo 5.º, designadamente a insusceptibilidade de provocar danos ambientais. Por essa razão, procede-se à alteração dos correspondentes números do artigo 5.º no sentido de uniformização, quanto a este ponto, do regime da pesca apeada e a partir de embarcação.
+
+Por outro lado, a expressão «organismos distintos dos referidos no número anterior» utilizada no número n.º 2 do artigo 11.º da Portaria n.º 144/2009, de 5 de Fevereiro, suscitou dúvidas quanto ao tipo de organismos a que se refere, designadamente de saber se se reporta apenas a outros organismos animais ou a quaisquer organismos, animais ou não. Aproveita-se assim para remover quaisquer dúvidas, estabelecendo-se claramente que os limites diários se referem apenas aos animais. Atendendo a que a actividade de pesca submarina é praticada de forma individual e não a partir de embarcação, importa clarificar que a esta actividade não se aplica o limite previsto no n.º 3 do artigo 11.º, no que respeita aos limites máximos de captura diária, quando a bordo estejam três ou mais pescadores, ficando os praticantes apenas sujeitos, individualmente, aos limites fixados no n.º 1 desse artigo.
+
+Por fim, no que respeita ainda à Portaria n.º 144/2009, de 5 de Fevereiro, será necessário dispor, transitoriamente, sobre a validade das licenças emitidas ao abrigo da Portaria n.º 1399/2006, de 15 de Dezembro, esclarecendo a sua correspondência com as novas denominações.
+
+A Portaria n.º 143/2009, de 5 de Fevereiro, definiu os condicionalismos específicos ao exercício da pesca lúdica no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV), tendo por objectivo a preservação dos valores naturais e dos recursos haliêuticos existentes na extensa faixa de litoral e meio marinho daquela área protegida.
+
+Assim, entre outros aspectos, a referida portaria introduziu áreas de interdição à pesca lúdica, correspondentes a zonas importantes do ponto de vista ecológico, por constituírem locais privilegiados de desova e crescimento de juvenis, de refúgio, protecção a predadores e alimentação de inúmeras espécies marinhas. Introduziu a limitação da pesca lúdica a quatro dias semanais, a limitação temporal da apanha e captura, períodos de defeso, a lista de espécies passíveis de apanha e o princípio da discriminação positiva dos naturais e residentes na apanha.
+
+Sem prejuízo da necessidade dos condicionalismos definidos pela portaria em apreço, verifica-se que a limitação da pesca lúdica a quatro dias semanais não teve suficientemente em consideração as condições adversas frequentes do estado do mar específicas da zona que constituem, por si só, um factor limitativo ao exercício da pesca lúdica. Neste sentido, procede-se à alteração do limite temporal do exercício da pesca lúdica que passa de quatro para seis dias semanais, mantendo a inibição de um dia por semana como princípio apropriado numa actividade lúdica, e como factor de limitação independente das condições do estado do mar.
+
+No que se refere à limitação do exercício da pesca lúdica entre o pôr e o nascer do Sol, procede-se ao alargamento das áreas onde a mesma é permitida, garantindo que se mantêm as restrições por motivos de segurança dos praticantes que a fundamentam, mas compatibilizando o regime com o previsto na alínea d) do n.º 1 do artigo 7.º da Portaria n.º 144/2009, de 5 de Fevereiro.
+
+Procede-se ainda a um ajuste do período fixado para a interdição da captura dos sargos, que passa a ser entre 15 de Janeiro e 15 de Março.
+
+Por outro lado, efectua-se um acerto no limite de captura diário de peixes e cefalópodes no sentido de não contabilizar o peso do exemplar maior, à semelhança do previsto na Portaria n.º 144/2009, de 5 de Fevereiro, relativa ao exercício da pesca lúdica geral.
+
+São ainda corrigidas as tabelas n.os 1 e 2 do anexo i, apresentando-se as coordenadas dos pontos de referência relativos aos limites das áreas de interdição e dos pontos centrais das áreas de protecção a ilhéus e pedras ilhadas no sistema de coordenadas WGS 84, o qual apresenta maior facilidade de utilização.
+
+Procede-se, assim, à alteração das Portarias n.os 143/2009 e 144/2009, ambas de 5 de Fevereiro, nos termos acima expostos.
+
+Assim:
+
+Manda o Governo, pelos Ministros da Presidência, da Defesa Nacional, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no artigo 10.º do [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [112/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), de 8 de Julho, e [56/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), de 13 de Março, o seguinte:
+
+###### Artigo 1.º — Alteração à Portaria n.º 144/2009, de 5 de Fevereiro
+
+Os artigos 5.º, 11.º, 12.º e 14.º da Portaria n.º 144/2009, de 5 de Fevereiro, que define o regime geral da pesca lúdica, passam a ter a seguinte redacção:
+
+«Artigo 5.º
+
+[...]
+
+1 - ...
+
+2 - Na pesca apeada e na pesca a partir de embarcação podem ser utilizados iscos e engodos.
+
+3 - (Revogado.)
+
+4 - ...
+
+###### Artigo 11.º — [...]
+
+1 - ...
+
+2 - O peso de capturas diárias de crustáceos e outros animais distintos dos referidos no número anterior não pode, no seu conjunto, exceder os 2 kg, não sendo contabilizado para o efeito o exemplar de maior peso, com excepção dos percebes, cujo peso máximo é de 0,5 kg.
+
+3 - Sem prejuízo do disposto nos números anteriores, quando a bordo de uma embarcação existam três ou mais praticantes, o limite máximo de capturas não pode exceder 25 kg, com excepção da pesca submarina e das embarcações registadas na actividade marítimo-turística.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+###### Artigo 12.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+5 - As licenças emitidas para a pesca submarina equivalem, para todos os efeitos legais, a licenças de pesca lúdica geral, mantendo-se válidas nos respectivos termos, até à entrada em vigor da portaria que vier a fixar novas taxas.
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+###### Artigo 14.º — [...]
+
+1 - Os operadores marítimo-turísticos, bem como qualquer praticante de pesca lúdica, devem proceder ao registo de actividade quando realizem capturas de espécies constantes do anexo iv, no formulário, fornecido pela DGPA, constante do anexo vi do presente diploma, que dele faz parte integrante.
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 2.º — Alteração à Portaria n.º 143/2009, de 5 de Fevereiro
+
+1 - Os artigos 4.º e 7.º da Portaria n.º 143/2009, de 5 de Fevereiro, que define os condicionalismos específicos ao exercício da pesca lúdica no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV), passam a ter a seguinte redacção:
+
+«Artigo 4.º
+
+[...]
+
+1 - ...
+
+a) Todos os dias da semana, com excepção da quarta-feira, e aos dias feriados;
+
+b) ...
+
+2 - Exceptua-se do disposto na alínea b) do número anterior a pesca à linha nos molhes, para lá do limite de 300 m da linha da costa em frente a áreas de praia concessionadas durante a época balnear, nas áreas de praia concessionadas fora da época balnear, nas áreas de praia não concessionadas, e nos pesqueiros autorizados pelo Instituto da Conservação da Natureza e da Biodiversidade (ICNB, I. P.), sem prejuízo do disposto na regulamentação da pesca lúdica.
+
+3 - ...
+
+a) Sargos, Diplodus sargus e Diplodus vulgaris, entre 15 de Janeiro e 15 de Março;
+
+b) ...
+
+###### Artigo 7.º — [...]
+
+1 - Para as espécies de peixes e cefalópodes, o peso máximo total permitido de pesca diária é de 7,5 kg, não sendo contabilizado para o efeito o peso do exemplar maior.
+
+2 - ...
+
+3 - ...
+
+4 - ...»
+
+2 - As tabelas n.os 1 e 2 do anexo i da Portaria n.º 143/2009, de 5 de Fevereiro, passam a ter a seguinte redacção:
+
+TABELA N.º 1
+
+Coordenadas geográficas (WGS 84) de pontos de referência relativos aos limites das áreas de interdição à pesca lúdica referidas no n.º 1 do artigo 2.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/08501/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2009/05/08501/0000200004.pdf)
+
+TABELA N.º 2
+
+Coordenadas geográficas (WGS 84) de pontos centrais das áreas de protecção a ilhéus e pedras ilhadas referidas no n.º 2 do artigo 2.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/08501/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2009/05/08501/0000200004.pdf)
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 28 de Abril de 2009.
+
+Pelo Ministro da Presidência, Laurentino José Monteiro Castro Dias, Secretário de Estado da Juventude e do Desporto. - Pelo Ministro da Defesa Nacional, João António da Costa Mira Gomes, Secretário de Estado da Defesa Nacional e dos Assuntos do Mar. - Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente. - Pelo Ministro da Economia e da Inovação, Bernardo Luís Amador Trindade, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas.

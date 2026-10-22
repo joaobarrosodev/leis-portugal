@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:485611:por
+title: Decreto-Lei n.º 3/2011
+short_title: null
+summary: Institui o procedimento especial de obtenção do grau de especialista, por equiparação ao estágio da carreira dos
+  técnicos superiores de saúde a que se refere o Decreto-Lei n.º 414/91, de 22 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 3/2011
+official_date: null
+publication_date: '2011-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2011, Série I de 2011-01-06
+  number: '4'
+  series: I
+  supplement: null
+  pages: 144 - 147
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/01/00400/0014400147.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/3/2011/01/06/p/dre/pt/html
+  oj: null
+  dre: '485611'
+  dre_path: /dr/detalhe/decreto-lei/3-2011-485611
+  internal: pt:dre:485611:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2011-485611
+  metadata_url: https://data.dre.pt/eli/dec-lei/3/2011/01/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2011-485611
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-01-06T00:00:00Z'
+integrity:
+  source_sha256: bcd1e438ee5c7ce322094bff9f8b1922a7236867c0907541e49d88dbde198c58
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-3-485611.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal de Saúde
+- Carreira de Técnico Superior de Saúde
+- Carreira Técnica Superior
+- Serviço Nacional de Saúde
+- Administração Central do Sistema de Saúde
+- Página na Internet
+- Pessoal Técnico Superior
+- Avaliação de Conhecimentos
+- Avaliação do Pessoal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/229/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/229/2005/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/240/1993/07/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/240/1993/07/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/38/2002/02/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/38/2002/02/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/501/1999/11/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/501/1999/11/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/9/1998/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/9/1998/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 3/2011
+
+de 6 de Janeiro
+
+A carreira dos técnicos superiores de saúde, prevista no [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, alterado pelos Decretos-Leis n.os [240/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), de 8 de Julho, [241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, [9/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), de 16 de Janeiro, [501/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), de 19 de Novembro, e [229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), de 29 de Dezembro, integra ramos de actividade profissional diversos, como nutrição, psicologia ou farmácia, a que correspondem licenciaturas adequadas ao exercício das correspondentes funções.
+
+Nos termos deste regime, as categorias da carreira dos técnicos superiores resultam da conjugação da formação académica com um estágio profissional. O estágio profissional de especialidade, com uma duração entre dois a quatro anos, é, pois, condição para a atribuição do grau de especialista.
+
+Colhendo os ensinamentos da aplicação do regime extraordinário de equiparação a estágio, aprovado pelo [Decreto-Lei n.º 38/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2002-261318), de 26 de Fevereiro, o presente decreto-lei institui um novo procedimento de equiparações ao estágio, de modo a assegurar a satisfação das necessidades do Serviço Nacional de Saúde.
+
+O regime que agora se aprova consagra um processo de reconhecimento de competências assente na valorização da experiência profissional obtida, complementada, quando necessário, por formação específica adequada. Este procedimento permite a obtenção do grau de especialista, através do reconhecimento da experiência profissional de cada técnico, por equiparação ao estágio da carreira dos técnicos superiores de saúde.
+
+Deste modo, mediante um processo rigoroso de avaliação conduzido por júris constituídos para o efeito, poder-se-á aproveitar experiências e capacidades adquiridas, o que possibilitará aos profissionais em causa concorrerem para a categoria de assistente.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei institui o procedimento especial de obtenção do grau de especialista, por equiparação ao estágio da carreira dos técnicos superiores de saúde a que se refere o artigo 5.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, alterado pelos Decretos-Leis n.os [240/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1993-375434), de 8 de Julho, [241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, [9/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1998-239580), de 16 de Janeiro, [501/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), de 19 de Novembro, e [229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), de 29 de Dezembro.
+
+2 - O procedimento visa o reconhecimento da experiência profissional detida como equivalente à frequência, com aproveitamento, do período de estágio legalmente exigido num dos ramos de actividade previstos na carreira.
+
+###### Artigo 2.º — Prazo e requisitos de candidatura
+
+1 - Durante o prazo de 20 dias úteis contados a partir da data da entrada em vigor do presente decreto-lei podem candidatar-se ao procedimento especial os profissionais que, cumulativamente, satisfaçam as seguintes condições:
+
+a) Possuam, no mínimo, licenciatura adequada de acordo com o disposto no artigo 9.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, com a redacção dada pelo [Decreto-Lei n.º 501/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/501-1999-634934), de 19 de Novembro;
+
+b) Detenham experiência profissional em serviços públicos de saúde de duração não inferior à do estágio do ramo da carreira a que respeitam as funções desempenhadas, contada até ao final do prazo referido no n.º 2 do artigo 8.º;
+
+c) Exerçam funções, em regime de contrato de trabalho em funções públicas, independentemente da sua modalidade, nos serviços ou organismos integrados no Serviço Nacional de Saúde.
+
+2 - A experiência profissional a que se refere a alínea b) do número anterior deve corresponder às funções legalmente fixadas para o respectivo ramo profissional, as quais devem ter sido exercidas com subordinação à hierarquia e disciplina do serviço e em regime de trabalho de tempo completo.
+
+###### Artigo 3.º — Competência para avaliar
+
+A avaliação das candidaturas incumbe a júris organizados por cada ramo de actividade, nomeados por despacho do membro do Governo responsável pela área da saúde.
+
+###### Artigo 4.º — Constituição e funcionamento dos júris
+
+1 - Cada júri é constituído por um presidente e dois vogais, todos pertencentes à carreira dos técnicos superiores de saúde e ramo respectivo.
+
+2 - O presidente e os vogais devem possuir categoria não inferior, respectivamente, a assessor e a assistente principal.
+
+3 - No acto de constituição de cada júri é designado o vogal que substitui o presidente nas suas faltas e impedimentos, bem como os vogais suplentes, em número de dois.
+
+4 - Os júris só podem funcionar quando estiverem presentes todos os seus membros, devendo as respectivas deliberações ser tomadas por maioria e sempre por votação nominal.
+
+5 - Os júris fixam as suas regras de funcionamento na primeira reunião, que tem lugar nos cinco dias úteis subsequentes à sua nomeação.
+
+6 - Das reuniões são lavradas actas.
+
+7 - Os júris funcionam na Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), e as despesas com deslocação e ajudas de custo dos técnicos superiores de saúde que os integram são suportadas pelos respectivos serviços.
+
+8 - A tramitação e critérios de avaliação a aplicar nas duas fases do processo de avaliação, incluindo a duração mínima da prova pública, bem como as respectivas grelhas de classificação, constam de acta a aprovar pelo júri, no prazo de 10 dias úteis, contados desde o momento da sua nomeação.
+
+9 - Podem ser constituídos vários júris para cada ramo, quando seja previsível que o elevado número de candidatos torne inviável a tramitação célere do procedimento por um único júri.
+
+10 - Sendo constituídos vários júris por ramo, as suas regras de funcionamento, bem como a tramitação e critérios de avaliação a que se alude no n.º 8, são objecto de definição conjunta.
+
+###### Artigo 5.º — Processo de candidatura
+
+1 - A admissão ao procedimento é solicitada através de requerimento dirigido ao presidente do júri do ramo respectivo, remetido à ACSS, I. P., pelo correio, com aviso de recepção, ou entregue pessoalmente, até ao final do prazo previsto no n.º 1 do artigo 2.º, acompanhado dos seguintes documentos:
+
+a) Comprovativo da licenciatura adequada;
+
+b) Declaração comprovativa da experiência profissional, emitida pelo órgão máximo de gestão do estabelecimento ou serviço, acompanhada de cópia do contrato ou de outro documento que titule a existência do vínculo jurídico contratual que lhe deu origem;
+
+c) Curriculum vitae, que, embora elaborado em modelo europeu, proceda a uma descrição das actividades desenvolvidas.
+
+2 - Os candidatos podem apresentar outros elementos que entendam de interesse para a apreciação do pedido.
+
+3 - A não apresentação de qualquer dos documentos referidos nas diversas alíneas do n.º 1 do presente artigo determina a exclusão do candidato.
+
+###### Artigo 6.º — Avaliação dos candidatos
+
+1 - A avaliação dos candidatos compreende duas fases:
+
+a) Avaliação curricular;
+
+b) Prova pública.
+
+2 - A avaliação curricular consiste na apreciação da experiência dos candidatos, com vista ao apuramento das competências já adquiridas, por confronto com os conteúdos de cada programa de estágio, e à determinação das actividades a desenvolver, sempre que necessário, no âmbito do processo formativo.
+
+3 - A prova pública consiste na discussão do curriculum vitae e, quando seja o caso, do relatório de actividades decorrente da frequência do processo formativo.
+
+4 - A classificação da prova pública é de natureza qualitativa, com menção de Aprovado ou Não aprovado.
+
+###### Artigo 7.º — Avaliação curricular
+
+1 - Findo o prazo para apresentação de candidaturas, o júri elabora, no prazo de dois dias úteis, lista de candidatos admitidos e excluídos, a qual é publicada na página da Internet da ACSS, I. P.
+
+2 - Da exclusão apenas cabe recurso administrativo para o conselho directivo da ACSS, I. P., a interpor no prazo de 5 dias úteis, sem efeito suspensivo, e a decidir no prazo de 10 dias úteis.
+
+3 - A fase de avaliação curricular inicia-se no dia seguinte à elaboração da lista de candidatos admitidos e excluídos e deve estar concluída no prazo de 15 dias úteis.
+
+4 - No final da fase de avaliação curricular, o júri, no prazo de três dias úteis, ordena os candidatos em duas listas, consoante os candidatos careçam, ou não, da frequência de módulos formativos, as quais são publicitadas na página oficial da ACSS, I. P.
+
+5 - A lista de candidatos a submeter a processo formativo contém a definição dos trajectos formativos em falta, com a indicação dos conteúdos programáticos por adquirir e dos locais onde deve ser frequentada a fase formativa.
+
+6 - Da colocação na lista de candidatos a submeter a processo formativo não cabe reclamação nem recurso administrativo.
+
+###### Artigo 8.º — Processo formativo
+
+1 - A identificação dos módulos formativos e respectivos conteúdos programáticos a que se refere o n.º 5 do artigo anterior tem na sua base os programas de formação já ministrados no âmbito dos estágios da carreira dos técnicos superiores de saúde.
+
+2 - O processo formativo deve estar concluído até ao dia 30 de Junho de 2011.
+
+3 - Durante o processo formativo, os candidatos são supervisionados por um orientador, a designar pelo órgão competente do serviço onde decorra a formação, que deve deter a categoria de assistente ou superior, e estar integrado no ramo respectivo da carreira técnica superior.
+
+4 - No prazo de cinco dias úteis contados a partir do final da frequência do processo formativo, os candidatos devem elaborar um relatório de actividades e remetê-lo ao orientador.
+
+5 - O orientador, no prazo de 15 dias úteis, contados do final da frequência do processo formativo, elabora e remete ao júri informação final de carácter qualitativo, com menção de Apto ou Não apto.
+
+6 - Para efeitos de frequência do processo formativo, são considerados idóneos os organismos de saúde constantes de lista proposta pelo Conselho de Coordenação de Estágios da Carreira de Técnico Superior de Saúde e aprovada pela ACSS, I. P.
+
+###### Artigo 9.º — Prova pública
+
+1 - A fase de provas públicas inicia-se no dia seguinte à elaboração das listas referidas no n.º 4 do artigo 7.º e deve estar concluída até ao dia 15 de Julho de 2011.
+
+2 - Finda a fase de provas públicas, o júri elabora lista de candidatos aprovados e não aprovados, no prazo de dois dias úteis, e remete-a ao conselho directivo da ACSS, I. P., para homologação, no prazo de três dias úteis.
+
+3 - Da homologação de não aprovação apenas cabe reclamação para o conselho directivo da ACSS, I. P., a interpor no prazo de 5 dias úteis, sem efeito suspensivo, e a decidir no prazo de 10 dias úteis.
+
+###### Artigo 10.º — Equiparação ao grau de especialista
+
+A homologação da lista de aprovação no final da fase de provas públicas confere a equiparação ao grau de especialista, a qual é objecto de publicação na página da Internet da ACSS, I. P.
+
+###### Artigo 11.º — Dispensa de audiência prévia
+
+Por razões de celeridade, no presente procedimento não há lugar a audiência de interessados.
+
+###### Artigo 12.º — Direitos dos formandos
+
+1 - A indicação dos locais de formação constitui as unidades de saúde escolhidas na obrigação de proporcionar as condições necessárias à realização do processo formativo.
+
+2 - Os empregadores públicos a que pertençam os candidatos admitidos ao processo formativo devem permitir, salvo razões devidamente fundamentadas, o acesso à realização do processo formativo.
+
+###### Artigo 13.º — Conclusão do procedimento
+
+1 - O procedimento previsto no presente decreto-lei conclui-se no dia 31 de Julho de 2011.
+
+2 - Exceptua-se do disposto no número anterior os casos que, por motivos devidamente justificados, sejam prorrogados, por despacho dos membros do Governo responsáveis pelas áreas da administração pública e da saúde.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
+
+**Promulgado em 26 de Dezembro de 2010.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 3 de Janeiro de 2011.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:453574:por
+title: Portaria n.º 760/83
+short_title: null
+summary: Aprova o Regulamento do Sistema de Classificação de Serviço dos Funcionários da Carreira Diplomática
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios dos Negócios Estrangeiros e da Reforma Administrativa
+proposing_entity: null
+official_number: 760/83
+official_date: null
+publication_date: '1983-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/1983, Série I de 1983-07-15
+  number: '161'
+  series: I
+  supplement: null
+  pages: 2600 - 2604
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16100/26002604.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '453574'
+  dre_path: /dr/detalhe/portaria/760-1983-453574
+  internal: pt:dre:453574:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/760-1983-453574
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/760-1983-453574
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-07-15T00:00:00Z'
+integrity:
+  source_sha256: fd40b5c617547b6bbc4b0dc2c719f29c593e0f7725e59c7ebde9a4792449c1e0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-760-453574.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 760/83
+
+de 15 de Julho
+
+Considerando o previsto no n.º 1 do artigo 26.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 235-G/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-g-1983-245348), de 1 de Junho;
+
+Tendo em conta que a classificação de serviço é obrigatoriamente considerada nos casos de promoção e progressão na carreira diplomática e na confirmação dos adidos de embaixada:
+
+Manda o Governo da República Portuguesa, ao abrigo do disposto no artigo 41.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho, pelos Ministros dos Negócios Estrangeiros e da Reforma Administrativa, aprovar o Regulamento do Sistema de Classificação de Serviço dos Funcionários da Carreira Diplomática, anexo à presente portaria e que dela faz parte integrante.
+
+Ministérios dos Negócios Estrangeiros e da Reforma Administrativa.
+
+**Assinada em 8 de Junho de 1983.**
+
+**O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.**
+
+Regulamento do Sistema de Classificação de Serviço dos Funcionários da Carreira Diplomática
+
+###### Artigo 1.º Todos os funcionários da carreira diplomática até à categoria de ministros plenipotenciários de 2.ª classe, inclusive, serão objecto de classificação anual de serviço, que terá por base as informações individuais de serviço do modelo junto ao presente Regulamento.
+
+2 - As informações individuais de serviço serão elaboradas até 31 de Dezembro de cada ano ou sempre e quando o funcionário, ou o responsável pela elaboração da informação, for transferido de serviço, devendo ser enviadas ao secretário-geral, em envelope fechado com a indicação de confidencial, no primeiro caso até 15 de Janeiro e nos restantes até 15 dias após a cessação das respectivas funções.
+
+3 - As informações individuais de serviço serão prestadas pelos chefes das missões diplomáticas e dos postos consulares, ou dos serviços da secretaria de Estado em que cada funcionário tiver estado colocado durante o período de tempo a que a informação respeitar.
+
+4 - Nos casos dos funcionários com a categoria de ministro plenipotenciário de 2.ª classe, ou inferior, colocados como embaixadores ou encarregados de negócios, as respectivas informações individuais de serviço serão prestadas por 2 funcionários, colocados na Secretaria de Estado, de categoria não inferior a ministros plenipotenciários de 1.ª classe, a designar pelo secretário-geral, tendo em conta o grau de relacionamento funcional existente entre o funcionário a classificar e os serviços dirigidos pelos funcionários que o avaliarão.
+
+5 - No caso de funcionários diplomáticos colocados como gerentes de consulados, é aplicável o disposto no número anterior, devendo ainda prestar informações individuais de serviço a respeito daqueles funcionários os chefes das missões diplomáticas acreditadas no país onde eles prestem serviço.
+
+6 - Os chefes das missões diplomáticas poderão escusar-se a prestar as informações individuais de serviço, devendo nesse caso fundamentar os motivos por que não dispõem ainda de elementos bastantes para as elaborarem com o necessário rigor.
+
+7 - Quando não for possível a elaboração da informação individual de serviço, a falta desta será suprida por adequada ponderação do currículo profissional.
+
+8 - Antes de serem entregues ou enviadas ao secretário-geral, as informações individuais de serviço deverão ser dadas a conhecer aos funcionários a quem dizem respeito, os quais, caso não tenham comentários a fazer-lhes, o deverão declarar ao assiná-las. Os funcionários que julguem terem sido avaliados de modo inexacto ou injusto poderão, no prazo de 5 dias úteis a contar da data em que a informação tiver chegado ao seu conhecimento, apresentar por escrito os comentários e esclarecimentos que a informação lhes suscitar, com indicação dos motivos que em seu entender aconselham a revisão da classificação atribuída.
+
+9 - As reclamações a que se refere o número anterior serão objecto de apreciação fundamentada pelos respectivos avaliadores, que deverão dela dar conhecimento ao interessado, por escrito, no prazo máximo de 5 dias úteis contados do recebimento da reclamação.
+
+10 - Os eventuais comentários dos funcionários referidos no n.º 8, bem como a decisão do avaliador referida no número anterior, deverão ser anexados à informação individual de serviço a que se refiram e com esta transmitidos ao secretário-geral.
+
+###### Art. 2.º - 1 - É criada a comissão permanente de classificação, constituída pelos seguintes elementos:
+
+a) Secretário-geral ou um embaixador em quem ele delegar;
+
+b) 2 embaixadores ou ministros plenipotenciários de 1.ª classe designados pelo Ministro e que poderão ser escolhidos entre os que se encontram na situação de disponibilidade em serviço;
+
+c) Inspector diplomático e consular;
+
+d) 2 membros do conselho do Ministério eleitos anualmente por este órgão de entre os representantes das diversas categorias; em caso de impedimento, serão substituídos por 2 suplentes, também eleitos pelo conselho do Ministério;
+
+e) 1 funcionário diplomático designado pelo secretário-geral, sem direito de voto, que secretariará a comissão.
+
+2 - A comissão permanente de classificação julgará, até ao termo do mês de Abril, e com base nas informações referidas no artigo anterior, os méritos profissionais e pessoais dos funcionários, classificando-os de Muito bom (9 e 10), Bom (6, 7 e 8), Regular (4 e 5) ou Não satisfatório (inferior a 4).
+
+3 - Para além dos elementos de avaliação constantes ou anexos à informação individual de serviço, a comissão permanente de classificação poderá ter em conta e mencionar outros elementos complementares, que todos os seus membros considerem fidedignos, relativos aos méritos ou à conduta dos funcionários a classificar, e alterar em conformidade a classificação resultante da informação individual de serviço.
+
+4 - Se uma informação individual de serviço prestada suscitar quaisquer dúvidas ou se afastar de modo significativo de outras informações ou classificações relativas ao funcionário, a comissão deverá solicitar a quem a elaborou os esclarecimentos que entender convenientes e decidir de modo fundamentado sobre a classificação final.
+
+5 - Cada funcionário terá direito ao conhecimento da sua classificação anual, e dela poderá recorrer hierarquicamente no prazo de 10 dias úteis contados da data do conhecimento desta. Para os funcionários colocados no estrangeiro a interposição do recurso considera-se feita na data da sua expedição para a Secretaria de Estado. O Ministro proferirá a sua decisão no prazo de 15 dias contados da data de entrada do recurso na Secretaria de Estado.
+
+6 - O processo de classificação tem carácter confidencial, devendo todas as informações individuais de serviço e demais documentos que sirvam de base à classificação dos funcionários ser arquivados nos respectivos processos pessoais, à guarda do secretário-geral, que autorizará a sua consulta pelos próprios interessados sempre que estes lha solicitem por escrito.
+
+7 - Todos os intervenientes no processo de classificação ficam obrigados ao dever do sigilo sobre esta matéria.
+
+**O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16100/26002604.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16100/26002604.pdf)

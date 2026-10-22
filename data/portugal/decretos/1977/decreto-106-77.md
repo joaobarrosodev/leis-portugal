@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:255393:por
+title: Decreto n.º 106/77
+short_title: null
+summary: Autoriza as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba
+  de despesas de anos findos inscrita nos orçamentos do actual ano económico, diversas quantias
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 106/77
+official_date: null
+publication_date: '1977-08-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 184/1977, Série I de 1977-08-10
+  number: '184'
+  series: I
+  supplement: null
+  pages: 1955 - 1956
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18400/19551956.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '255393'
+  dre_path: /dr/detalhe/decreto/106-1977-255393
+  internal: pt:dre:255393:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1977-255393
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/106-1977-255393
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-08-10T00:00:00Z'
+integrity:
+  source_sha256: 347cdfd43abdc63371026628b8d6893f2f03fedabd593cec3b442616eed57d8b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-106-255393.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 106/77
+
+de 10 de Agosto
+
+Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, e mediante propostas aprovadas nos termos do mesmo artigo:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+
+Encargos Gerais da Nação
+
+Encargos do ano de 1976, respeitantes a outras despesas correntes e de capital, e comunicações, contraídos pelo Museu Monográfico de Conímbriga, Academia Portuguesa da História e Serviço de Estudos do Ambiente ... 261682$30
+
+Ministério da Justiça
+
+Despesas dos anos de 1974, 1975 e 1976, respeitantes a encargos com a saúde, combustíveis e lubrificantes, encargos próprios das instalações, material de educação, cultura e recreio, comunicações, consumos de secretaria, encargos não especificados, transferências - Instituições particulares, alimentação, roupas e calçado, deslocações e outras despesas correntes, contraídas pelos Instituto de Reeducação do Padre António de Oliveira, Direcção-Geral dos Serviços Prisionais, Conselho Superior Judiciário, Relações de Lisboa e de Évora, Cadeia Central de Mulheres, Prisão-Sanatório da Guarda, Instituto de S. Domingos de Benfica, Secretaria de Estado da Justiça, Directoria e Inspecção da Polícia Judiciária de Ponta Delgada ... 1532016$80
+
+Ministério das Obras Públicas
+
+Encargos do ano de 1976, referentes a telefones individuais, comunicações e publicidade e propaganda, pertencentes às Direcções-Gerais dos Edifícios e Monumentos Nacionais e dos Recursos e Aproveitamentos Hidráulicos e Gabinete de Planeamento e Contrôle do Ministério ... 188990$00
+
+Ministério da Educação e Investigação Científica
+
+Despesas dos anos de 1973 a 1976, respeitantes a outras despesas correntes, deslocações, maquinaria e equipamento, consumos de secretaria, conservação e aproveitamento de bens, locação de bens, equipamento de secretaria, comunicações, outros bens não duradouros, encargos próprios das instalações, trabalhos especiais diversos, encargos não especificados e combustíveis e lubrificantes, contraídas pela Secretaria de Estado da Administração e Equipamento Escolar, Serviço Cívico Estudantil, Direcções-Gerais do Ensino Básico e Secundário, Escolas Preparatórias de D. Pedro I (Melgaço) e de António Sérgio (Agualva-Cacém), Instituto Superior de Economia, Faculdade de Medicina da Universidade do Porto, Direcção do Distrito Escolar de Castelo Branco, Liceu Nacional de D. Filipa de Lencastre, Escolas Industriais e Comerciais de Torres Vedras e de Viseu, Escolas Comerciais de Ferreira Borges e de D. Filipa de Vilhena e Escolas Secundárias de Fafe, Tondela, Palmela, Pombal e Vila Nova de Paiva ... 1913669$70
+
+Ministério da Indústria e Tecnologia
+
+Encargos do ano de 1976, referentes a combustíveis e lubrificantes e comunicações, pertencentes ao Gabinete do Secretário de Estado da Indústria Ligeira e Gabinete de Planeamento da Secretaria de Estado da Indústria e Tecnologia ... 46305$20
+
+###### Art. 2.º São igualmente autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das verbas que vão indicadas, inscritas nos orçamentos em vigor, as seguintes quantias:
+
+Defesa Nacional - Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
+
+Despesas do ano de 1975, respeitantes a aquisição de serviços, a satisfazer pela Comissão de Manutenção de Infra-Estruturas NATO - COMIN, em conta da verba inscrita no cap. 07, div. 01, C. E. 02.31 «Aquisição de serviços - Não especificados» ... 500$00
+
+Ministério das Finanças
+
+Encargo do ano de 1976, referente a despesas reembolsáveis e a processar pela Direcção-Geral das Alfândegas, em conta da verba inscrita no cap. 10, C. E. 27.00 «Bens não duradouros - Outros» ... 729610$50
+
+Ministério da Indústria e Tecnologia
+
+Outras despesas correntes do ano de 1976, a satisfazer pela Direcção-Geral de Minas e Serviços Geológicos, em conta da verba inscrita no cap. 50, C. E. 30.00 «Aquisição de serviços - Transportes e comunicações» ... 8603$30
+
+###### Art. 3.º Fica também autorizada a Colónia Penal Agrícola de Sintra a satisfazer, pela verba de despesas de anos findos, inscrita no seu actual orçamento privativo, a importância de 148982$70, do ano de 1976, referente a remuneração de reclusos e rações para animais.
+
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Mário Firmino Miguel - António Francisco Barroso de Sousa Gomes - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - José Manuel de Medeiros Ferreira - António Miguel Morais Barreto - Alfredo Jorge Nobre da Costa - Carlos Alberto da Mota Pinto - António Manuel Maldonado Gonelha - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar - Emílio Rui da Veiga Peixoto Vilar - João Orlindo de Almeida Pina - Eduardo Ribeiro Pereira.
+
+**Promulgado em 22 de Julho de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

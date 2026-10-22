@@ -1,0 +1,535 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:156546167:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-159992477",
+ "dre_path": "/dr/detalhe/decreto-lei/10-b-2021-156546167",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "186019908",
+    "159836342",
+    "159836343",
+    "159836344",
+    "159836345",
+    "159836346",
+    "159836347"
+   ]
+  },
+  {
+   "date": "2021-03-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159869158:por",
+     "title": "Decreto-Lei n.º 22-D/2021",
+     "published": "2021-03-22",
+     "dre_path": "/dr/detalhe/decreto-lei/22-d-2021-159869158"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Artigo 3.º-C",
+    "Adita Artigo 3.º-D",
+    "Adita Artigo 3.º-E",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "159836341",
+    "159836342",
+    "159836343",
+    "159836344",
+    "159836350",
+    "159836355",
+    "159836360",
+    "159836365",
+    "159836370",
+    "159836371",
+    "159836372",
+    "159836373",
+    "159836374"
+   ]
+  },
+  {
+   "date": "2021-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:163994107:por",
+     "title": "Lei n.º 31-A/2021",
+     "published": "2021-05-25",
+     "dre_path": "/dr/detalhe/lei/31-a-2021-163994107"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-C"
+   ],
+   "fragments": [
+    "159836341",
+    "159836342",
+    "159836343",
+    "159836344",
+    "159836350",
+    "159836355",
+    "163987650",
+    "159836365",
+    "159836370",
+    "159836371",
+    "159836372",
+    "159836373",
+    "159836374"
+   ]
+  },
+  {
+   "date": "2021-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172153527:por",
+     "title": "Decreto-Lei n.º 78-A/2021",
+     "published": "2021-09-29",
+     "dre_path": "/dr/detalhe/decreto-lei/78-a-2021-172153527"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-F"
+   ],
+   "fragments": [
+    "159836341",
+    "159836342",
+    "159836343",
+    "159836344",
+    "159836350",
+    "159836355",
+    "163987650",
+    "159836365",
+    "159836370",
+    "172070651",
+    "172070652",
+    "172070653",
+    "172070654",
+    "172070655"
+   ]
+  },
+  {
+   "date": "2021-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175043500:por",
+     "title": "Decreto-Lei n.º 104/2021",
+     "published": "2021-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/104-2021-175043500"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "175123918",
+    "159836342",
+    "159836343",
+    "159836344",
+    "159836350",
+    "159836355",
+    "163987650",
+    "159836365",
+    "159836370",
+    "172070651",
+    "172070652",
+    "172070653",
+    "172070654",
+    "172070655"
+   ]
+  },
+  {
+   "date": "2022-07-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185971763:por",
+     "title": "Decreto-Lei n.º 48/2022",
+     "published": "2022-07-12",
+     "dre_path": "/dr/detalhe/decreto-lei/48-2022-185971763"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "186019908",
+    "186019909",
+    "186019910",
+    "186019911",
+    "186019912",
+    "186019913",
+    "186019914",
+    "186019915",
+    "186019916",
+    "186019917",
+    "186019918",
+    "186019919",
+    "186019920",
+    "186019921"
+   ]
+  }
+ ],
+ "fragments": {
+  "186019908": {
+   "fragment_id": "159992478",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-07-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-B/2021\n\nde 4 de fevereiro\n\nSumário: Estabelece medidas excecionais e temporárias na área da educação, no âmbito da pandemia da doença COVID-19, para 2021.\n\nDesde novembro de 2020 que tem vindo a ser sucessivamente renovada a declaração do estado de emergência com fundamento na verificação de uma situação de calamidade pública provocada pela pandemia da doença COVID-19. Findo mais um período de 15 dias em que vigorou o Decreto do Presidente da República n.º 6-B/2021, de 13 de janeiro, a situação epidemiológica verificada em Portugal justificava que o mesmo fosse novamente renovado, o que ocorreu por via do Decreto do Presidente da República n.º 9-A/2021, de 28 de janeiro.\n\nEsta situação de calamidade pública tem exigido do Governo a aprovação de medidas excecionais, temporárias e de caráter urgente, com vista a reduzir o risco de contágio e executar as medidas de prevenção e combate à epidemia.\n\nPese embora seja consensual que as escolas são locais seguros, não sendo focos privilegiados de propagação da doença COVID-19, o Governo aprovou o Decreto n.º 3-C/2021, de 22 de janeiro, que alterou o Decreto n.º 3-A/2021, de 14 de janeiro, determinando a suspensão das atividades educativas e letivas dos estabelecimentos de ensino públicos, particulares e cooperativos e do setor social e solidário, de educação pré-escolar e dos ensinos básico e secundário, a partir do dia 22 de janeiro, e, posteriormente, através do Decreto n.º 3-D/2021, de 29 de janeiro, a retoma dessas atividades, a partir do dia 8 de fevereiro, em regime não presencial.\n\nEsta suspensão insere-se no esforço global de alteração de comportamentos e de promoção do respeito pelo dever geral de recolhimento domiciliário, reduzindo ainda a circulação inerente ao normal funcionamento das escolas. Esta opção assenta ainda no facto de estarmos no início do segundo período letivo, sendo possível compensar estes dias de suspensão no calendário escolar.\n\nNeste contexto, existindo situações que carecem de regulamentação, o Governo, à semelhança do que ocorreu em abril de 2020, decide aprovar um conjunto de medidas excecionais e temporárias na área da educação, para 2021, relativo à realização das aprendizagens, ao adiamento, alteração ou prolongamento de períodos letivos, e ao pessoal docente, de modo a assegurar a continuidade das atividades educativas e letivas, de uma forma justa, equitativa e de forma mais normalizada possível. Ainda na esteira do previsto no Decreto do Presidente da República n.º 9-A/2021, de 28 de janeiro, dispõe-se que pode haver lugar ao tratamento de dados pessoais em caso de ensino não presencial e na medida do indispensável à realização das aprendizagens por meios telemáticos.\n\nFoi ouvido o Conselho das Escolas.\n\nForam observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "159836342": {
+   "fragment_id": "159992479",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 para 2021."
+  },
+  "159836343": {
+   "fragment_id": "159992480",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O disposto no presente decreto-lei aplica-se à educação pré-escolar, incluindo os estabelecimentos das instituições do setor social e solidário que integram a rede nacional da educação pré-escolar regulada pelo Decreto-Lei n.º 147/97, de 11 de junho, e às ofertas educativas e formativas dos ensinos básico e secundário, ministradas em estabelecimentos de ensino público, particular e cooperativo de nível não superior, incluindo escolas profissionais, públicas e privadas, sem prejuízo do previsto no Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro.\n\n2 - O disposto no presente decreto-lei aplica-se ainda, com as necessárias adaptações, ao ensino a distância, regulado pela Portaria n.º 359/2019, de 8 de outubro, e aos ensinos individual e doméstico, regulados pela Portaria n.º 69/2019, de 26 de fevereiro."
+  },
+  "159836344": {
+   "fragment_id": "159992481",
+   "type": 11,
+   "heading": "Artigo 3.º — Calendário escolar e atividades educativas e letivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Calendário escolar e atividades educativas e letivas\n\n1 - O calendário escolar é alterado por despacho do membro do Governo responsável pela área da educação, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho, por forma a acomodar a suspensão das atividades educativas e letivas prevista no Decreto n.º 3-A/2021, de 14 de janeiro, na redação atual, e no Decreto n.º 3-D/2021, de 29 de janeiro.\n\n2 - Durante o período em que haja lugar à aplicação do regime não presencial, nos termos previstos na Resolução do Conselho de Ministros n.º 53-D/2020, de 20 de julho, o tratamento de dados pessoais é efetuado na medida do indispensável à realização das aprendizagens por meios telemáticos"
+  },
+  "159836345": {
+   "fragment_id": "159992482",
+   "type": 11,
+   "heading": "Artigo 4.º — Carreira docente e funções análogas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Carreira docente e funções análogas\n\n1 - O dever de apresentação na sequência de colocação, contratação ou regresso ao serviço, prevista no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, considera-se cumprido mediante contacto por correio eletrónico com a direção do agrupamento de escolas ou escolas não agrupadas de colocação, nos termos a ser indicados pelo respetivo dirigente.\n\n2 - A marcação de férias, para efeitos do disposto no artigo 88.º do Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, é ajustada pela direção da escola ao calendário escolar, de forma a garantir as necessidades decorrentes do calendário de provas e exames.\n\n3 - O disposto no número anterior não prejudica o direito ao gozo de férias por parte dos docentes.\n\n4 - Os prazos do ciclo avaliativo previsto no Decreto Regulamentar n.º 26/2012, de 21 de fevereiro, e no Despacho n.º 12567/2012, publicado no Diário da República, 2.ª série, n.º 187, de 26 de setembro, são adequados de forma a permitir o cumprimento dos requisitos de progressão, sem prejuízo para os docentes, nos termos a definir por despacho do membro do Governo responsável pela área da educação.\n\n5 - Em 2021, para efeitos do concurso de contratação de escola previsto no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, as necessidades temporárias de serviço docente podem ser asseguradas pelos agrupamentos de escolas ou escolas não agrupadas, mediante contratos de trabalho a termo resolutivo a celebrar com pessoal docente, nas seguintes condições:\n\na) As resultantes de uma não colocação na reserva de recrutamento, referentes ao mesmo horário;\n\nb) As resultantes de uma não aceitação, referentes ao mesmo horário, nas colocações da reserva de recrutamento.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500) É prorrogado, até ao final do ano letivo 2021/2022, o período de vigência do n.º 5 do artigo 4.º do Decreto-Lei n.º 10-B/2021, de 4 de fevereiro, na sua redação atual."
+  },
+  "159836346": {
+   "fragment_id": "159992483",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\n1 - As disposições constantes do presente decreto-lei produzem efeitos a partir do dia 8 de fevereiro de 2021.\n\n2 - As disposições constantes dos n.os 1 a 4 do artigo 4.º vigoram no ano letivo 2020/2021."
+  },
+  "159836347": {
+   "fragment_id": "159992484",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "159836341": {
+   "fragment_id": "159992478",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-B/2021\n\nde 4 de fevereiro\n\nSumário: Estabelece medidas excecionais e temporárias na área da educação, no âmbito da pandemia da doença COVID-19, para 2021.\n\nDesde novembro de 2020 que tem vindo a ser sucessivamente renovada a declaração do estado de emergência com fundamento na verificação de uma situação de calamidade pública provocada pela pandemia da doença COVID-19. Findo mais um período de 15 dias em que vigorou o Decreto do Presidente da República n.º 6-B/2021, de 13 de janeiro, a situação epidemiológica verificada em Portugal justificava que o mesmo fosse novamente renovado, o que ocorreu por via do Decreto do Presidente da República n.º 9-A/2021, de 28 de janeiro.\n\nEsta situação de calamidade pública tem exigido do Governo a aprovação de medidas excecionais, temporárias e de caráter urgente, com vista a reduzir o risco de contágio e executar as medidas de prevenção e combate à epidemia.\n\nPese embora seja consensual que as escolas são locais seguros, não sendo focos privilegiados de propagação da doença COVID-19, o Governo aprovou o Decreto n.º 3-C/2021, de 22 de janeiro, que alterou o Decreto n.º 3-A/2021, de 14 de janeiro, determinando a suspensão das atividades educativas e letivas dos estabelecimentos de ensino públicos, particulares e cooperativos e do setor social e solidário, de educação pré-escolar e dos ensinos básico e secundário, a partir do dia 22 de janeiro, e, posteriormente, através do Decreto n.º 3-D/2021, de 29 de janeiro, a retoma dessas atividades, a partir do dia 8 de fevereiro, em regime não presencial.\n\nEsta suspensão insere-se no esforço global de alteração de comportamentos e de promoção do respeito pelo dever geral de recolhimento domiciliário, reduzindo ainda a circulação inerente ao normal funcionamento das escolas. Esta opção assenta ainda no facto de estarmos no início do segundo período letivo, sendo possível compensar estes dias de suspensão no calendário escolar.\n\nNeste contexto, existindo situações que carecem de regulamentação, o Governo, à semelhança do que ocorreu em abril de 2020, decide aprovar um conjunto de medidas excecionais e temporárias na área da educação, para 2021, relativo à realização das aprendizagens, ao adiamento, alteração ou prolongamento de períodos letivos, e ao pessoal docente, de modo a assegurar a continuidade das atividades educativas e letivas, de uma forma justa, equitativa e de forma mais normalizada possível. Ainda na esteira do previsto no Decreto do Presidente da República n.º 9-A/2021, de 28 de janeiro, dispõe-se que pode haver lugar ao tratamento de dados pessoais em caso de ensino não presencial e na medida do indispensável à realização das aprendizagens por meios telemáticos.\n\nFoi ouvido o Conselho das Escolas.\n\nForam observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "159836350": {
+   "fragment_id": "159992487",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Avaliação externa",
+   "in_force_from": "2021-03-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-A — Avaliação externa\n\nNo ano letivo de 2020-2021, é cancelada a realização:\n\na) Das provas de aferição do 2.º, 5.º e 8.º anos de escolaridade do ensino básico;\n\nb) Das provas finais do ensino básico do 9.º ano de escolaridade;\n\nc) Dos exames finais nacionais, quando realizados por alunos internos, para efeitos de aprovação de disciplinas e conclusão do ensino secundário.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "159836355": {
+   "fragment_id": "159992488",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Avaliação e conclusão do ensino básico",
+   "in_force_from": "2021-03-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-B — Avaliação e conclusão do ensino básico\n\n1 - Para efeitos de avaliação e conclusão do ensino básico geral, dos cursos artísticos especializados e de outras ofertas formativas e educativas, apenas é considerada a avaliação interna.\n\n2 - As classificações a atribuir em cada disciplina têm por referência o conjunto das aprendizagens realizadas até ao final do ano letivo, independentemente do regime em que foram desenvolvidas, garantindo-se o juízo globalizante sobre as aprendizagens desenvolvidas pelos alunos.\n\n3 - Os alunos ficam dispensados da realização de provas finais de ciclo, nos casos em que a respetiva realização se encontre prevista apenas para efeitos de prosseguimento de estudos.\n\n4 - A conclusão de qualquer ciclo do ensino básico pelos alunos autopropostos, incluindo os alunos que se encontram na modalidade de ensino individual ou de ensino doméstico, é efetuada mediante a realização de provas de equivalência à frequência.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "159836360": {
+   "fragment_id": "159992489",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Avaliação, aprovação de disciplinas e conclusão do ensino secundário",
+   "in_force_from": "2021-03-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-C — Avaliação, aprovação de disciplinas e conclusão do ensino secundário\n\n1 - Para efeitos de avaliação, aprovação de disciplinas e conclusão do ensino secundário, incluindo disciplinas em que haja lugar à realização de exames finais nacionais, é apenas considerada a avaliação interna.\n\n2 - As classificações a atribuir em cada disciplina têm por referência o conjunto das aprendizagens realizadas até ao final do ano letivo, independentemente do regime em que foram desenvolvidas, garantindo-se o juízo globalizante sobre as aprendizagens desenvolvidas pelos alunos.\n\n3 - Os alunos realizam exames finais nacionais apenas nas disciplinas que elejam como provas de ingresso para efeitos de acesso ao ensino superior, sendo ainda permitida a realização desses exames para melhoria de nota, relevando o seu resultado apenas como classificação de prova de ingresso.\n\n4 - Sem prejuízo do disposto no número anterior, nos casos em que se encontre prevista a realização de exames finais nacionais apenas para apuramento da classificação final do curso para efeitos de prosseguimento de estudos no ensino superior, os alunos ficam dispensados da sua realização.\n\n5 - Sem prejuízo do disposto nos n.os 3 e 4, os alunos autopropostos, incluindo os que se encontram na modalidade de ensino individual ou de ensino doméstico, realizam provas de equivalência à frequência, as quais são substituídas por exames finais nacionais quando exista essa oferta.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "159836365": {
+   "fragment_id": "159992490",
+   "type": 11,
+   "heading": "Artigo 3.º-D — Avaliação, conclusão e certificação dos cursos de dupla certificação e dos cursos artísticos especializados",
+   "in_force_from": "2021-03-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-D — Avaliação, conclusão e certificação dos cursos de dupla certificação e dos cursos artísticos especializados\n\n1 - Nos anos terminais dos cursos profissionais, cursos de educação e formação de jovens, cursos artísticos especializados e cursos com planos próprios, as provas de aptidão profissional, avaliação final e aptidão artística podem ser realizadas através de meios não presenciais, competindo a cada escola, no âmbito da sua autonomia, organizar os procedimentos mais adequados para o efeito.\n\n2 - Nos anos terminais dos cursos referidos no número anterior, quando, esgotadas todas as possibilidades de cumprimento do previsto na alínea e) do n.º 17 e na alínea d) do n.º 18 da Resolução do Conselho de Ministros n.º 53-D/2020, de 20 de julho, não for possível cumprir a totalidade das horas previstas nos respetivos referenciais de formação, cabe aos órgãos próprios de cada escola decidir sobre a avaliação final e correspondente conclusão e certificação, a conceder a cada aluno, tendo por referência o nível de competências evidenciado face ao perfil de competências definidos para cada curso e ao Perfil dos Alunos à Saída da Escolaridade Obrigatória, homologado pelo Despacho n.º 6478/2017, publicado no Diário da República, 2.ª série, n.º 143, de 26 de julho de 2017.\n\n3 - O disposto nos números anteriores aplica-se, também, ao 3.º ano do ciclo formativo de nível secundário ou ao 12.º ano de escolaridade, consoante se trate ou não de uma organização dos cursos em ciclos formativos, bem como, com as devidas adaptações, ao ano terminal do ciclo formativo de nível básico dos cursos de educação e formação.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "159836370": {
+   "fragment_id": "159992491",
+   "type": 11,
+   "heading": "Artigo 3.º-E — Estudo de diagnóstico",
+   "in_force_from": "2021-03-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-E — Estudo de diagnóstico\n\n1 - Face ao impacto decorrente da suspensão das atividades educativas e letivas em regime presencial, é realizado um estudo amostral com vista à aferição do desenvolvimento das aprendizagens, podendo ser utilizadas, para este efeito, provas referidas na alínea a) do artigo 3.º-A, nos termos previstos no Despacho n.º 6906-B/2020, publicado no Diário da República, 2.ª série, n.º 128, de 3 de julho de 2020, na sua redação atual.\n\n2 - O Instituto de Avaliação Educativa, I. P., em articulação com a Direção-Geral de Estatísticas da Educação e Ciência, procede à definição da amostra, conducente à realização do estudo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "159836371": {
+   "fragment_id": "159992482",
+   "type": 11,
+   "heading": "Artigo 4.º — Carreira docente e funções análogas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Carreira docente e funções análogas\n\n1 - O dever de apresentação na sequência de colocação, contratação ou regresso ao serviço, prevista no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, considera-se cumprido mediante contacto por correio eletrónico com a direção do agrupamento de escolas ou escolas não agrupadas de colocação, nos termos a ser indicados pelo respetivo dirigente.\n\n2 - A marcação de férias, para efeitos do disposto no artigo 88.º do Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, é ajustada pela direção da escola ao calendário escolar, de forma a garantir as necessidades decorrentes do calendário de provas e exames.\n\n3 - O disposto no número anterior não prejudica o direito ao gozo de férias por parte dos docentes.\n\n4 - Os prazos do ciclo avaliativo previsto no Decreto Regulamentar n.º 26/2012, de 21 de fevereiro, e no Despacho n.º 12567/2012, publicado no Diário da República, 2.ª série, n.º 187, de 26 de setembro, são adequados de forma a permitir o cumprimento dos requisitos de progressão, sem prejuízo para os docentes, nos termos a definir por despacho do membro do Governo responsável pela área da educação.\n\n5 - Em 2021, para efeitos do concurso de contratação de escola previsto no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, as necessidades temporárias de serviço docente podem ser asseguradas pelos agrupamentos de escolas ou escolas não agrupadas, mediante contratos de trabalho a termo resolutivo a celebrar com pessoal docente, nas seguintes condições:\n\na) As resultantes de uma não colocação na reserva de recrutamento, referentes ao mesmo horário;\n\nb) As resultantes de uma não aceitação, referentes ao mesmo horário, nas colocações da reserva de recrutamento."
+  },
+  "159836372": {
+   "fragment_id": "159992483",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": "2021-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\n1 - As disposições constantes do presente decreto-lei produzem efeitos a partir do dia 8 de fevereiro de 2021.\n\n2 - Os artigos 3.º-A a 3.º-D e as disposições constantes dos n.os 1 a 4 do artigo 4.º vigoram no ano letivo de 2020-2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "159836373": {
+   "fragment_id": "159992484",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "159836374": {
+   "fragment_id": "159992485",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de fevereiro de 2021. - António Luís Santos da Costa - Tiago Brandão Rodrigues.\n\nPromulgado em 4 de fevereiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 4 de fevereiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113953996"
+  },
+  "163987650": {
+   "fragment_id": "159992489",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Avaliação, aprovação de disciplinas e conclusão do ensino secundário",
+   "in_force_from": "2021-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 31-A/2021 - Diário da República n.º 101/2021, 1º Suplemento, Série I de 2021-05-25](https://diariodarepublica.pt/dr/detalhe/lei/31-a-2021-163994107), em vigor a partir de 2021-05-26",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-C — Avaliação, aprovação de disciplinas e conclusão do ensino secundário\n\n1 - Para efeitos de avaliação, aprovação de disciplinas e conclusão do ensino secundário, incluindo disciplinas em que haja lugar à realização de exames finais nacionais, é apenas considerada a avaliação interna.\n\n2 - As classificações a atribuir em cada disciplina têm por referência o conjunto das aprendizagens realizadas até ao final do ano letivo, independentemente do regime em que foram desenvolvidas, garantindo-se o juízo globalizante sobre as aprendizagens desenvolvidas pelos alunos.\n\n3 - Os alunos realizam exames finais nacionais apenas para efeitos de acesso ao ensino superior e nas disciplinas que elejam como provas:\n\na) De ingresso para efeitos de acesso ao ensino superior;\n\nb) Para efeitos de melhoria de nota da classificação de prova de ingresso já realizada;\n\nc) Para efeitos de melhoria de nota da classificação final da disciplina.\n\n4 - Sem prejuízo do disposto no número anterior, nos casos em que se encontre prevista a realização de exames finais nacionais apenas para apuramento da classificação final do curso para efeitos de prosseguimento de estudos no ensino superior, os alunos ficam dispensados da sua realização.\n\n5 - Sem prejuízo do disposto nos n.os 3 e 4, os alunos autopropostos, incluindo os que se encontram na modalidade de ensino individual ou de ensino doméstico, realizam provas de equivalência à frequência, as quais são substituídas por exames finais nacionais quando exista essa oferta.\n\n6 - Cabe ao Governo regulamentar as situações previstas na alínea c) do n.º 3.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31-A/2021 - Diário da República n.º 101/2021, 1º Suplemento, Série I de 2021-05-25](https://diariodarepublica.pt/dr/detalhe/lei/31-a-2021-163994107), em vigor a partir de 2021-05-26\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "172070651": {
+   "fragment_id": "172121598",
+   "type": 11,
+   "heading": "Artigo 3.º-F — Gratuitidade de manuais escolares",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30, produz efeitos a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 3.º-F — Gratuitidade de manuais escolares\n\n1 - No início do ano letivo de 2021/2022 é garantido a todos os alunos que frequentam a escolaridade obrigatória na rede pública do Ministério da Educação o acesso gratuito a manuais escolares, complementados por licenças digitais.\n\n2 - Os manuais escolares em suporte físico são disponibilizados aos alunos pelos agrupamentos de escolas ou escolas não agrupadas, mediante comprovativo de receção e compromisso de devolução assinado pelos respetivos encarregados de educação e efetiva devolução do manual nos casos em que no ano anterior o aluno tiver recebido manual gratuito, sem prejuízo do disposto no número seguinte.\n\n3 - Para efeitos do disposto no número anterior, os encarregados de educação responsabilizam-se pelo eventual extravio ou deterioração do manual recebido, ressalvado o desgaste proveniente do seu uso normal, prudente e adequado, face ao tipo de uso e disciplina para que foram concebidos, estado em que foi recebido pelo aluno, idade do aluno e outras circunstâncias subjetivas e objetivas que tornem inexigível esta mesma responsabilidade.\n\n4 - Cada aluno tem direito a um único exemplar dos manuais adotados, por disciplina e por ano letivo, sempre que possível a partir da reutilização de manuais escolares recolhidos no ano anterior na mesma escola ou em qualquer outra escola ou agrupamento que o tenha adotado.\n\n5 - Em cada agrupamento de escolas ou escola não agrupada é constituída uma bolsa de manuais escolares, composta pelos manuais utilizados pelos alunos no ano letivo anterior que se encontrem em estado de conservação adequado à sua reutilização, bem como por aqueles que sejam doados ou adquiridos pela escola ou agrupamentos de escolas para suprir necessidades do ano seguinte.\n\n6 - O membro do Governo responsável pela área da educação define os procedimentos e condições de disponibilização gratuita e de aquisição através de vale, uso, devolução e reutilização dos manuais escolares.\n\n7 - O membro do Governo responsável pela área da educação define ainda, nos termos da legislação aplicável, as condições de adoção e certificação de manuais escolares que potenciem a reutilização de manuais em todos os graus de ensino.\n\n8 - O disposto no n.º 1 não se aplica aos alunos que frequentam a escolaridade obrigatória na rede pública do Ministério da Educação abrangidos pelo projeto-piloto de desmaterialização dos manuais escolares, aos quais é garantido o acesso gratuito aos manuais em formato digital bem como a outros recursos didático-pedagógicos.\n\n9 - No início do ano letivo 2021/2022, são distribuídos gratuitamente manuais escolares novos a todos os alunos do 1.º ciclo do ensino básico da rede pública do Ministério da Educação.\n\n10 - O processo de faturação dos manuais escolares adotados pelos estabelecimentos de ensino público e pelos estabelecimentos de ensino particular e cooperativo com contrato de associação é centralizado no Instituto de Gestão Financeira da Educação, I. P., que emite os compromissos aos fornecedores e efetua o correspondente pagamento a estes.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30, produz efeitos a partir de 2021-06-01"
+  },
+  "172070652": {
+   "fragment_id": "159992482",
+   "type": 11,
+   "heading": "Artigo 4.º — Carreira docente e funções análogas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Carreira docente e funções análogas\n\n1 - O dever de apresentação na sequência de colocação, contratação ou regresso ao serviço, prevista no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, considera-se cumprido mediante contacto por correio eletrónico com a direção do agrupamento de escolas ou escolas não agrupadas de colocação, nos termos a ser indicados pelo respetivo dirigente.\n\n2 - A marcação de férias, para efeitos do disposto no artigo 88.º do Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, é ajustada pela direção da escola ao calendário escolar, de forma a garantir as necessidades decorrentes do calendário de provas e exames.\n\n3 - O disposto no número anterior não prejudica o direito ao gozo de férias por parte dos docentes.\n\n4 - Os prazos do ciclo avaliativo previsto no Decreto Regulamentar n.º 26/2012, de 21 de fevereiro, e no Despacho n.º 12567/2012, publicado no Diário da República, 2.ª série, n.º 187, de 26 de setembro, são adequados de forma a permitir o cumprimento dos requisitos de progressão, sem prejuízo para os docentes, nos termos a definir por despacho do membro do Governo responsável pela área da educação.\n\n5 - Em 2021, para efeitos do concurso de contratação de escola previsto no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, as necessidades temporárias de serviço docente podem ser asseguradas pelos agrupamentos de escolas ou escolas não agrupadas, mediante contratos de trabalho a termo resolutivo a celebrar com pessoal docente, nas seguintes condições:\n\na) As resultantes de uma não colocação na reserva de recrutamento, referentes ao mesmo horário;\n\nb) As resultantes de uma não aceitação, referentes ao mesmo horário, nas colocações da reserva de recrutamento."
+  },
+  "172070653": {
+   "fragment_id": "159992483",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\n1 - As disposições constantes do presente decreto-lei produzem efeitos a partir do dia 8 de fevereiro de 2021.\n\n2 - Os artigos 3.º-A a 3.º-D e as disposições constantes dos n.os 1 a 4 do artigo 4.º vigoram no ano letivo de 2020-2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "172070654": {
+   "fragment_id": "159992484",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "172070655": {
+   "fragment_id": "159992485",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de fevereiro de 2021. - António Luís Santos da Costa - Tiago Brandão Rodrigues.\n\nPromulgado em 4 de fevereiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 4 de fevereiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113953996"
+  },
+  "175123918": {
+   "fragment_id": "159992478",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-11-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-30"
+   ],
+   "markdown": "Decreto-Lei n.º 10-B/2021\n\nde 4 de fevereiro\n\nSumário: Estabelece medidas excecionais e temporárias na área da educação, no âmbito da pandemia da doença COVID-19, para 2021.\n\nDesde novembro de 2020 que tem vindo a ser sucessivamente renovada a declaração do estado de emergência com fundamento na verificação de uma situação de calamidade pública provocada pela pandemia da doença COVID-19. Findo mais um período de 15 dias em que vigorou o Decreto do Presidente da República n.º 6-B/2021, de 13 de janeiro, a situação epidemiológica verificada em Portugal justificava que o mesmo fosse novamente renovado, o que ocorreu por via do Decreto do Presidente da República n.º 9-A/2021, de 28 de janeiro.\n\nEsta situação de calamidade pública tem exigido do Governo a aprovação de medidas excecionais, temporárias e de caráter urgente, com vista a reduzir o risco de contágio e executar as medidas de prevenção e combate à epidemia.\n\nPese embora seja consensual que as escolas são locais seguros, não sendo focos privilegiados de propagação da doença COVID-19, o Governo aprovou o Decreto n.º 3-C/2021, de 22 de janeiro, que alterou o Decreto n.º 3-A/2021, de 14 de janeiro, determinando a suspensão das atividades educativas e letivas dos estabelecimentos de ensino públicos, particulares e cooperativos e do setor social e solidário, de educação pré-escolar e dos ensinos básico e secundário, a partir do dia 22 de janeiro, e, posteriormente, através do Decreto n.º 3-D/2021, de 29 de janeiro, a retoma dessas atividades, a partir do dia 8 de fevereiro, em regime não presencial.\n\nEsta suspensão insere-se no esforço global de alteração de comportamentos e de promoção do respeito pelo dever geral de recolhimento domiciliário, reduzindo ainda a circulação inerente ao normal funcionamento das escolas. Esta opção assenta ainda no facto de estarmos no início do segundo período letivo, sendo possível compensar estes dias de suspensão no calendário escolar.\n\nNeste contexto, existindo situações que carecem de regulamentação, o Governo, à semelhança do que ocorreu em abril de 2020, decide aprovar um conjunto de medidas excecionais e temporárias na área da educação, para 2021, relativo à realização das aprendizagens, ao adiamento, alteração ou prolongamento de períodos letivos, e ao pessoal docente, de modo a assegurar a continuidade das atividades educativas e letivas, de uma forma justa, equitativa e de forma mais normalizada possível. Ainda na esteira do previsto no Decreto do Presidente da República n.º 9-A/2021, de 28 de janeiro, dispõe-se que pode haver lugar ao tratamento de dados pessoais em caso de ensino não presencial e na medida do indispensável à realização das aprendizagens por meios telemáticos.\n\nFoi ouvido o Conselho das Escolas.\n\nForam observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-30"
+  },
+  "186019909": {
+   "fragment_id": "159992479",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 para 2021.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+  },
+  "186019910": {
+   "fragment_id": "159992480",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O disposto no presente decreto-lei aplica-se à educação pré-escolar, incluindo os estabelecimentos das instituições do setor social e solidário que integram a rede nacional da educação pré-escolar regulada pelo Decreto-Lei n.º 147/97, de 11 de junho, e às ofertas educativas e formativas dos ensinos básico e secundário, ministradas em estabelecimentos de ensino público, particular e cooperativo de nível não superior, incluindo escolas profissionais, públicas e privadas, sem prejuízo do previsto no Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro.\n\n2 - O disposto no presente decreto-lei aplica-se ainda, com as necessárias adaptações, ao ensino a distância, regulado pela Portaria n.º 359/2019, de 8 de outubro, e aos ensinos individual e doméstico, regulados pela Portaria n.º 69/2019, de 26 de fevereiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+  },
+  "186019911": {
+   "fragment_id": "159992481",
+   "type": 11,
+   "heading": "Artigo 3.º — Calendário escolar e atividades educativas e letivas",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+   ],
+   "markdown": "###### Artigo 3.º — Calendário escolar e atividades educativas e letivas\n\n1 - O calendário escolar é alterado por despacho do membro do Governo responsável pela área da educação, nos termos do Decreto-Lei n.º 55/2018, de 6 de julho, por forma a acomodar a suspensão das atividades educativas e letivas prevista no Decreto n.º 3-A/2021, de 14 de janeiro, na redação atual, e no Decreto n.º 3-D/2021, de 29 de janeiro.\n\n2 - Durante o período em que haja lugar à aplicação do regime não presencial, nos termos previstos na Resolução do Conselho de Ministros n.º 53-D/2020, de 20 de julho, o tratamento de dados pessoais é efetuado na medida do indispensável à realização das aprendizagens por meios telemáticos\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+  },
+  "186019912": {
+   "fragment_id": "159992487",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Avaliação externa",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-A — Avaliação externa\n\nNo ano letivo de 2020-2021, é cancelada a realização:\n\na) Das provas de aferição do 2.º, 5.º e 8.º anos de escolaridade do ensino básico;\n\nb) Das provas finais do ensino básico do 9.º ano de escolaridade;\n\nc) Dos exames finais nacionais, quando realizados por alunos internos, para efeitos de aprovação de disciplinas e conclusão do ensino secundário.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "186019913": {
+   "fragment_id": "159992488",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Avaliação e conclusão do ensino básico",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-B — Avaliação e conclusão do ensino básico\n\n1 - Para efeitos de avaliação e conclusão do ensino básico geral, dos cursos artísticos especializados e de outras ofertas formativas e educativas, apenas é considerada a avaliação interna.\n\n2 - As classificações a atribuir em cada disciplina têm por referência o conjunto das aprendizagens realizadas até ao final do ano letivo, independentemente do regime em que foram desenvolvidas, garantindo-se o juízo globalizante sobre as aprendizagens desenvolvidas pelos alunos.\n\n3 - Os alunos ficam dispensados da realização de provas finais de ciclo, nos casos em que a respetiva realização se encontre prevista apenas para efeitos de prosseguimento de estudos.\n\n4 - A conclusão de qualquer ciclo do ensino básico pelos alunos autopropostos, incluindo os alunos que se encontram na modalidade de ensino individual ou de ensino doméstico, é efetuada mediante a realização de provas de equivalência à frequência.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "186019914": {
+   "fragment_id": "159992489",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Avaliação, aprovação de disciplinas e conclusão do ensino secundário",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 31-A/2021 - Diário da República n.º 101/2021, 1º Suplemento, Série I de 2021-05-25](https://diariodarepublica.pt/dr/detalhe/lei/31-a-2021-163994107), em vigor a partir de 2021-05-26",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-C — Avaliação, aprovação de disciplinas e conclusão do ensino secundário\n\n1 - Para efeitos de avaliação, aprovação de disciplinas e conclusão do ensino secundário, incluindo disciplinas em que haja lugar à realização de exames finais nacionais, é apenas considerada a avaliação interna.\n\n2 - As classificações a atribuir em cada disciplina têm por referência o conjunto das aprendizagens realizadas até ao final do ano letivo, independentemente do regime em que foram desenvolvidas, garantindo-se o juízo globalizante sobre as aprendizagens desenvolvidas pelos alunos.\n\n3 - Os alunos realizam exames finais nacionais apenas para efeitos de acesso ao ensino superior e nas disciplinas que elejam como provas:\n\na) De ingresso para efeitos de acesso ao ensino superior;\n\nb) Para efeitos de melhoria de nota da classificação de prova de ingresso já realizada;\n\nc) Para efeitos de melhoria de nota da classificação final da disciplina.\n\n4 - Sem prejuízo do disposto no número anterior, nos casos em que se encontre prevista a realização de exames finais nacionais apenas para apuramento da classificação final do curso para efeitos de prosseguimento de estudos no ensino superior, os alunos ficam dispensados da sua realização.\n\n5 - Sem prejuízo do disposto nos n.os 3 e 4, os alunos autopropostos, incluindo os que se encontram na modalidade de ensino individual ou de ensino doméstico, realizam provas de equivalência à frequência, as quais são substituídas por exames finais nacionais quando exista essa oferta.\n\n6 - Cabe ao Governo regulamentar as situações previstas na alínea c) do n.º 3.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31-A/2021 - Diário da República n.º 101/2021, 1º Suplemento, Série I de 2021-05-25](https://diariodarepublica.pt/dr/detalhe/lei/31-a-2021-163994107), em vigor a partir de 2021-05-26\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "186019915": {
+   "fragment_id": "159992490",
+   "type": 11,
+   "heading": "Artigo 3.º-D — Avaliação, conclusão e certificação dos cursos de dupla certificação e dos cursos artísticos especializados",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-D — Avaliação, conclusão e certificação dos cursos de dupla certificação e dos cursos artísticos especializados\n\n1 - Nos anos terminais dos cursos profissionais, cursos de educação e formação de jovens, cursos artísticos especializados e cursos com planos próprios, as provas de aptidão profissional, avaliação final e aptidão artística podem ser realizadas através de meios não presenciais, competindo a cada escola, no âmbito da sua autonomia, organizar os procedimentos mais adequados para o efeito.\n\n2 - Nos anos terminais dos cursos referidos no número anterior, quando, esgotadas todas as possibilidades de cumprimento do previsto na alínea e) do n.º 17 e na alínea d) do n.º 18 da Resolução do Conselho de Ministros n.º 53-D/2020, de 20 de julho, não for possível cumprir a totalidade das horas previstas nos respetivos referenciais de formação, cabe aos órgãos próprios de cada escola decidir sobre a avaliação final e correspondente conclusão e certificação, a conceder a cada aluno, tendo por referência o nível de competências evidenciado face ao perfil de competências definidos para cada curso e ao Perfil dos Alunos à Saída da Escolaridade Obrigatória, homologado pelo Despacho n.º 6478/2017, publicado no Diário da República, 2.ª série, n.º 143, de 26 de julho de 2017.\n\n3 - O disposto nos números anteriores aplica-se, também, ao 3.º ano do ciclo formativo de nível secundário ou ao 12.º ano de escolaridade, consoante se trate ou não de uma organização dos cursos em ciclos formativos, bem como, com as devidas adaptações, ao ano terminal do ciclo formativo de nível básico dos cursos de educação e formação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "186019916": {
+   "fragment_id": "159992491",
+   "type": 11,
+   "heading": "Artigo 3.º-E — Estudo de diagnóstico",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 3.º-E — Estudo de diagnóstico\n\n1 - Face ao impacto decorrente da suspensão das atividades educativas e letivas em regime presencial, é realizado um estudo amostral com vista à aferição do desenvolvimento das aprendizagens, podendo ser utilizadas, para este efeito, provas referidas na alínea a) do artigo 3.º-A, nos termos previstos no Despacho n.º 6906-B/2020, publicado no Diário da República, 2.ª série, n.º 128, de 3 de julho de 2020, na sua redação atual.\n\n2 - O Instituto de Avaliação Educativa, I. P., em articulação com a Direção-Geral de Estatísticas da Educação e Ciência, procede à definição da amostra, conducente à realização do estudo.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "186019917": {
+   "fragment_id": "172121598",
+   "type": 11,
+   "heading": "Artigo 3.º-F — Gratuitidade de manuais escolares",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13",
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30, produz efeitos a partir de 2021-06-01"
+   ],
+   "markdown": "###### Artigo 3.º-F — Gratuitidade de manuais escolares\n\n1 - No início do ano letivo de 2021/2022 é garantido a todos os alunos que frequentam a escolaridade obrigatória na rede pública do Ministério da Educação o acesso gratuito a manuais escolares, complementados por licenças digitais.\n\n2 - Os manuais escolares em suporte físico são disponibilizados aos alunos pelos agrupamentos de escolas ou escolas não agrupadas, mediante comprovativo de receção e compromisso de devolução assinado pelos respetivos encarregados de educação e efetiva devolução do manual nos casos em que no ano anterior o aluno tiver recebido manual gratuito, sem prejuízo do disposto no número seguinte.\n\n3 - Para efeitos do disposto no número anterior, os encarregados de educação responsabilizam-se pelo eventual extravio ou deterioração do manual recebido, ressalvado o desgaste proveniente do seu uso normal, prudente e adequado, face ao tipo de uso e disciplina para que foram concebidos, estado em que foi recebido pelo aluno, idade do aluno e outras circunstâncias subjetivas e objetivas que tornem inexigível esta mesma responsabilidade.\n\n4 - Cada aluno tem direito a um único exemplar dos manuais adotados, por disciplina e por ano letivo, sempre que possível a partir da reutilização de manuais escolares recolhidos no ano anterior na mesma escola ou em qualquer outra escola ou agrupamento que o tenha adotado.\n\n5 - Em cada agrupamento de escolas ou escola não agrupada é constituída uma bolsa de manuais escolares, composta pelos manuais utilizados pelos alunos no ano letivo anterior que se encontrem em estado de conservação adequado à sua reutilização, bem como por aqueles que sejam doados ou adquiridos pela escola ou agrupamentos de escolas para suprir necessidades do ano seguinte.\n\n6 - O membro do Governo responsável pela área da educação define os procedimentos e condições de disponibilização gratuita e de aquisição através de vale, uso, devolução e reutilização dos manuais escolares.\n\n7 - O membro do Governo responsável pela área da educação define ainda, nos termos da legislação aplicável, as condições de adoção e certificação de manuais escolares que potenciem a reutilização de manuais em todos os graus de ensino.\n\n8 - O disposto no n.º 1 não se aplica aos alunos que frequentam a escolaridade obrigatória na rede pública do Ministério da Educação abrangidos pelo projeto-piloto de desmaterialização dos manuais escolares, aos quais é garantido o acesso gratuito aos manuais em formato digital bem como a outros recursos didático-pedagógicos.\n\n9 - No início do ano letivo 2021/2022, são distribuídos gratuitamente manuais escolares novos a todos os alunos do 1.º ciclo do ensino básico da rede pública do Ministério da Educação.\n\n10 - O processo de faturação dos manuais escolares adotados pelos estabelecimentos de ensino público e pelos estabelecimentos de ensino particular e cooperativo com contrato de associação é centralizado no Instituto de Gestão Financeira da Educação, I. P., que emite os compromissos aos fornecedores e efetua o correspondente pagamento a estes.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30, produz efeitos a partir de 2021-06-01"
+  },
+  "186019918": {
+   "fragment_id": "159992482",
+   "type": 11,
+   "heading": "Artigo 4.º — Carreira docente e funções análogas",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+   ],
+   "markdown": "###### Artigo 4.º — Carreira docente e funções análogas\n\n1 - O dever de apresentação na sequência de colocação, contratação ou regresso ao serviço, prevista no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, considera-se cumprido mediante contacto por correio eletrónico com a direção do agrupamento de escolas ou escolas não agrupadas de colocação, nos termos a ser indicados pelo respetivo dirigente.\n\n2 - A marcação de férias, para efeitos do disposto no artigo 88.º do Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, é ajustada pela direção da escola ao calendário escolar, de forma a garantir as necessidades decorrentes do calendário de provas e exames.\n\n3 - O disposto no número anterior não prejudica o direito ao gozo de férias por parte dos docentes.\n\n4 - Os prazos do ciclo avaliativo previsto no Decreto Regulamentar n.º 26/2012, de 21 de fevereiro, e no Despacho n.º 12567/2012, publicado no Diário da República, 2.ª série, n.º 187, de 26 de setembro, são adequados de forma a permitir o cumprimento dos requisitos de progressão, sem prejuízo para os docentes, nos termos a definir por despacho do membro do Governo responsável pela área da educação.\n\n5 - Em 2021, para efeitos do concurso de contratação de escola previsto no Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, as necessidades temporárias de serviço docente podem ser asseguradas pelos agrupamentos de escolas ou escolas não agrupadas, mediante contratos de trabalho a termo resolutivo a celebrar com pessoal docente, nas seguintes condições:\n\na) As resultantes de uma não colocação na reserva de recrutamento, referentes ao mesmo horário;\n\nb) As resultantes de uma não aceitação, referentes ao mesmo horário, nas colocações da reserva de recrutamento.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500) É prorrogado, até ao final do ano letivo 2021/2022, o período de vigência do n.º 5 do artigo 4.º do Decreto-Lei n.º 10-B/2021, de 4 de fevereiro, na sua redação atual.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+  },
+  "186019919": {
+   "fragment_id": "159992483",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+   ],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\n1 - As disposições constantes do presente decreto-lei produzem efeitos a partir do dia 8 de fevereiro de 2021.\n\n2 - Os artigos 3.º-A a 3.º-D e as disposições constantes dos n.os 1 a 4 do artigo 4.º vigoram no ano letivo de 2020-2021.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-D/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-d-2021-159869158), em vigor a partir de 2021-03-23"
+  },
+  "186019920": {
+   "fragment_id": "159992484",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+   ],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+  },
+  "186019921": {
+   "fragment_id": "159992485",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-07-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de fevereiro de 2021. - António Luís Santos da Costa - Tiago Brandão Rodrigues.\n\nPromulgado em 4 de fevereiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 4 de fevereiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113953996\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2022 - Diário da República n.º 133/2022, Série I de 2022-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2022-185971763), em vigor a partir de 2022-07-13"
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249976:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-34457875",
+ "dre_path": "/dr/detalhe/lei/19-2008-249976",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-04-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48357775",
+    "48357875",
+    "48357975",
+    "48358075",
+    "48358175",
+    "48358275",
+    "48358375",
+    "48358475"
+   ]
+  },
+  {
+   "date": "2015-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67051302:por",
+     "title": "Lei n.º 30/2015",
+     "published": "2015-04-22",
+     "dre_path": "/dr/detalhe/lei/30-2015-67051302"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "48357775",
+    "48357875",
+    "48357975",
+    "48358075",
+    "67056494",
+    "48358275",
+    "48358375",
+    "48358475",
+    "48358575"
+   ]
+  }
+ ],
+ "fragments": {
+  "48357775": {
+   "fragment_id": "35077675",
+   "type": 15,
+   "heading": "Diploma — Aprova medidas de combate à corrupção e procede à primeira alteração à Lei n.º 5/2002, de 11 de Janeiro, à décima sétima alteração à lei geral tributária e à terceira alteração à Lei n.º 4/83, de 2 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "48357875": {
+   "fragment_id": "35747375",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de procurações irrevogáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Registo de procurações irrevogáveis\n\nÉ criada no âmbito do Ministério da Justiça uma base de dados de procurações, sendo de registo obrigatório as procurações irrevogáveis que contenham poderes de transferência da titularidade de imóveis, a regulamentar pelo Governo no prazo de 90 dias a contar da data da entrada em vigor da presente lei."
+  },
+  "48357975": {
+   "fragment_id": "35747475",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 5/2002, de 11 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 5/2002, de 11 de Janeiro\n\nO artigo 1.º da Lei n.º 5/2002, de 11 de Janeiro (Estabelece medidas de combate à criminalidade organizada e económico-financeira e procede à segunda alteração à Lei n.º 36/94, de 29 de Setembro, alterada pela Lei n.º 90/99, de 10 de Julho, e quarta alteração ao Decreto-Lei n.º 325/95, de 2 de Dezembro, alterado pela Lei n.º 65/98, de 2 de Setembro, pelo Decreto-Lei n.º 275-A/2000, de 9 de Novembro, e pela Lei n.º 104/2001, de 25 de Agosto), passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Tráfico de influência;\n\ne) Corrupção activa e passiva;\n\nf) Peculato;\n\ng) Participação económica em negócio;\n\nh) [Actual alínea e).]\n\ni) [Actual alínea f).]\n\nj) [Actual alínea g).]\n\nl) [Actual alínea h).]\n\nm) [Actual alínea i).]\n\nn) [Actual alínea j).]\n\n2 - O disposto na presente lei só é aplicável aos crimes previstos nas alíneas j) a n) do número anterior se o crime for praticado de forma organizada.\n\n3 - ...»"
+  },
+  "48358075": {
+   "fragment_id": "35747575",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à lei geral tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento à lei geral tributária\n\nÉ aditado o n.º 10 ao artigo 89.º-A da lei geral tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de Dezembro, com a seguinte redacção:\n\n«Artigo 89.º-A\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - A decisão de avaliação da matéria colectável com recurso ao método indirecto constante deste artigo, após tornar-se definitiva, deve ser comunicada pelo director de finanças ao Ministério Público e, tratando-se de funcionário ou titular de cargo sob tutela de entidade pública, também à tutela destes para efeitos de averiguações no âmbito da respectiva competência.»"
+  },
+  "48358175": {
+   "fragment_id": "35747675",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantias dos denunciantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Garantias dos denunciantes\n\n1 - Os trabalhadores da Administração Pública e de empresas do sector empresarial do Estado que denunciem o cometimento de infracções de que tiverem conhecimento no exercício das suas funções ou por causa delas não podem, sob qualquer forma, incluindo a transferência não voluntária, ser prejudicados.\n\n2 - Presume-se abusiva, até prova em contrário, a aplicação de sanção disciplinar aos trabalhadores referidos no número anterior, quando tenha lugar até um ano após a respectiva denúncia.\n\n3 - Os trabalhadores referidos nos números anteriores têm direito a:\n\na) Anonimato, excepto para os investigadores, até à dedução de acusação;\n\nb) Transferência a seu pedido, sem faculdade de recusa, após dedução de acusação."
+  },
+  "48358275": {
+   "fragment_id": "35747775",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição de assistente por associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Constituição de assistente por associações\n\n1 - A constituição de assistente nos crimes referidos na alínea e) do n.º 1 do artigo 68.º do Código de Processo Penal das associações sem fins lucrativos cujo objecto principal seja o combate à corrupção não está sujeita ao pagamento de qualquer taxa de justiça.\n\n2 - O juiz decide procuradoria a favor das associações referidas no número anterior."
+  },
+  "48358375": {
+   "fragment_id": "35747875",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório sobre os crimes de corrupção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório sobre os crimes de corrupção\n\nO relatório a que se refere o n.º 2 do artigo 14.º da Lei n.º 17/2006, de 23 de Maio, que aprova a Lei Quadro da Política Criminal, deve conter uma parte específica relativa aos crimes associados à corrupção, da qual constarão obrigatoriamente os seguintes pontos:\n\na) Mapas estatísticos dos processos distribuídos, arquivados, objecto de acusação, pronúncia ou não pronúncia, bem como condenações e absolvições e respectiva pendência em cada uma das fases, incluindo os factos resultantes da aplicação das Leis n.os 5/2002, de 11 de Janeiro, e 11/2004, de 27 de Março, devendo também ser produzido, nestes últimos casos, mapa estatístico das comunicações à Procuradoria-Geral da República discriminado segundo a norma específica e as entidades que estiveram na sua origem;\n\nb) Áreas de incidência da corrupção activa e passiva;\n\nc) Análise da duração da fase da investigação e exercício da acção penal, instrução e julgamento com especificação das causas;\n\nd) Análise das causas do não exercício da acção penal, da não pronúncia e da absolvição;\n\ne) Indicação do valor dos bens apreendidos e dos perdidos a favor do Estado;\n\nf) Principais questões jurisprudenciais e seu tratamento pelo Ministério Público;\n\ng) Avaliação da coadjuvação dos órgãos de polícia criminal em termos quantitativos e qualitativos;\n\nh) Apreciação, em termos quantitativos e qualitativos, da colaboração dos organismos e instituições interpelados para disponibilização de peritos;\n\ni) Referência à cooperação internacional, com especificação do período de tempo necessário à satisfação dos pedidos;\n\nj) Formação específica dos magistrados, com identificação das entidades formadoras e dos cursos disponibilizados, bem como dos eventuais constrangimentos à sua realização;\n\nl) Elenco das directivas do Ministério Público;\n\nm) Propostas relativas a meios materiais e humanos do Ministério Público e dos órgãos de polícia criminal e medidas legislativas, resultantes da análise da prática judiciária."
+  },
+  "48358475": {
+   "fragment_id": "35747975",
+   "type": 11,
+   "heading": "Artigo 7.º — Aditamento à Lei n.º 4/83, de 2 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aditamento à Lei n.º 4/83, de 2 de Abril\n\nÉ aditado à Lei n.º 4/83, de 2 de Abril (Controlo público da riqueza dos titulares de cargos políticos), alterada pelas Leis n.os 38/83, de 25 de Outubro, e 25/95, de 18 de Agosto, o artigo 5.º-A, com a seguinte redacção:\n\n«Artigo 5.º-A\n\nFiscalização\n\nO Ministério Público junto do Tribunal Constitucional procede anualmente à análise das declarações apresentadas após o termo dos mandatos ou a cessação de funções dos respectivos titulares.»"
+  },
+  "67056494": {
+   "fragment_id": "35747675",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantias dos denunciantes",
+   "in_force_from": "2015-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 4.º — Garantias dos denunciantes\n\n1 - Os trabalhadores da Administração Pública e de empresas do sector empresarial do Estado, assim como os trabalhadores do sector privado, que denunciem o cometimento de infrações de que tiverem conhecimento no exercício das suas funções ou por causa delas não podem, sob qualquer forma, incluindo a transferência não voluntária ou o despedimento, ser prejudicados.\n\n2 - Presume-se abusiva, até prova em contrário, a aplicação de sanção disciplinar aos trabalhadores referidos no número anterior, quando tenha lugar até um ano após a respectiva denúncia.\n\n3 - Os trabalhadores referidos nos números anteriores têm direito a:\n\na) Anonimato, excepto para os investigadores, até à dedução de acusação;\n\nb) Transferência a seu pedido, sem faculdade de recusa, após dedução de acusação.\n\nc) Beneficiar, com as devidas adaptações, das medidas previstas na Lei n.º 93/99, de 14 de julho, que regula a aplicação de medidas para a proteção de testemunhas em processo penal, alterada pelas Leis n.os 29/2008, de 4 de julho, e 42/2010, de 3 de setembro.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "48358575": {
+   "fragment_id": "35748075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de Fevereiro de 2008.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 2 de Abril de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 2 de Abril de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

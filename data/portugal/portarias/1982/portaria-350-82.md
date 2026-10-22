@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:608257:por
+title: Portaria n.º 350/82
+short_title: null
+summary: Actualiza as letras de vencimento dos chefes de clínica e dos especialistas do quadro de pessoal do Instituto de
+  Oftalmologia do Dr. Gama Pinto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Educação e das Universidades, dos Assuntos Sociais e da Reforma Administrativa
+proposing_entity: null
+official_number: 350/82
+official_date: null
+publication_date: '1982-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/1982, Série I de 1982-04-02
+  number: '77'
+  series: I
+  supplement: null
+  pages: 759 - 760
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/04/07700/07590760.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '608257'
+  dre_path: /dr/detalhe/portaria/350-1982-608257
+  internal: pt:dre:608257:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1982-608257
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1982-608257
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-04-02T00:00:00Z'
+integrity:
+  source_sha256: a9b7393206df72d25d6dea618db8d24c4b9ab7ced1f949df16f06f391b46d075
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-350-608257.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 350/82
+
+de 2 de Abril
+
+O quadro de pessoal do Instituto de Oftalmologia do Dr. Gama Pinto foi aprovado pelo [Decreto-Lei n.º 226/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1978-296980), de 5 de Agosto. O referido Instituto, dadas as suas atribuições, compreende, nesse quadro, vários lugares de médico.
+
+O Estatuto Médico, aprovado pelo [Decreto-Lei n.º 373/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639), de 8 de Setembro, altera as remunerações dos médicos, ao mesmo tempo que regula a situação de todos os médicos dos serviços oficiais de saúde, como expressamente determina o n.º 1 do seu artigo 19.º
+
+Há, pois, que aplicar o Estatuto do Médico ao Instituto de Oftalmologia do Dr. Gama Pinto.
+
+Assim, nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e tendo em atenção os artigos 21.º e 28.º do [Decreto-Lei n.º 373/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639), de 8 de Setembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades, dos Assuntos Sociais e da Reforma Administrativa, o seguinte:
+
+1.º Aos chefes de clínica e aos especialistas do quadro de pessoal do Instituto de Oftalmologia do Dr. Gama Pinto, anexo ao [Decreto-Lei n.º 226/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1978-296980), de 5 de Agosto, são atribuídas, respectivamente, as letras de vencimento C e E.
+
+2.º O estabelecido no número anterior produz efeitos a partir de 1 de Julho de 1979.
+
+3.º Os encargos resultantes da aplicação deste diploma são suportados pelas verbas destinadas a pessoal e inscritas no orçamento do Instituto de Oftalmologia do Dr. Gama Pinto.
+
+Ministérios das Finanças e do Plano, da Educação e das Universidades, dos Assuntos Sociais e da Reforma Administrativa, 16 de Março de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

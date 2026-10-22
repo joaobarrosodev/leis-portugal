@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:158472:por
+title: Decreto-Lei n.º 309-A/88
+short_title: null
+summary: Cria uma compensação eventual de emergência para substituição de rendimentos dos trabalhadores que exerciam a sua
+  actividade na zona de Lisboa sinistrada pelo incêndio de 25 de Agosto de 1988
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 309-A/88
+official_date: null
+publication_date: '1988-09-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/1988, 1º Suplemento, Série I de 1988-09-03
+  number: '204'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3664-(2) a 3664-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20401/00020004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '158472'
+  dre_path: /dr/detalhe/decreto-lei/309-a-1988-158472
+  internal: pt:dre:158472:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-1988-158472
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-1988-158472
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: f74ebd01d582186ba7752d4a7220675dfdb3f85a7b7f57c87398d544b579af07
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-309-A-158472.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 309-A/88
+
+de 3 de Setembro
+
+O violento incêndio que destruiu, quase por completo, na manhã do passado dia 25 de Agosto, parte considerável de uma zona de interesse histórico e urbanístico da Baixa da cidade de Lisboa determinou de imediato a necessidade de adoptar medidas de intervenção, nomeadamente no campo social, que permitissem atenuar as consequências do sinistro em relação às pessoas atingidas.
+
+Para além de outras soluções de conjunto, as quais envolvem forçosamente o conhecimento, nos seus vários aspectos, da situação real resultante do sinistro e estudos complexos, de natureza pluridisciplinar, com o concurso de vários sectores e especialidades, torna-se agora necessário, como foi enunciado publicamente, criar uma compensação eventual de emergência que permita, nas condições estabelecidas, substituir, imediata e transitoriamente, as remunerações ou rendimentos do trabalho devidos pelas empresas directamente afectadas pelo incêndio.
+
+Deverá, no entanto, comprovar-se a efectiva impossibilidade de as mesmas empresas garantirem, elas próprias, aquelas remunerações.
+
+A compensação a atribuir configura, pois, uma resposta excepcional, de natureza eventual e transitória, com limites temporais bem definidos, e não pode abrir qualquer precedente de aplicação, atenta a especificidade das situações que determinam a sua criação, resultantes da dimensão excepcional de um sinistro de proporções anómalas, que só encontra paralelo em outras catástrofes que a história regista raramente ao longo dos séculos.
+
+Assim:
+
+Nos termos da alínea a) do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito, natureza e objectivos
+
+1 - O presente diploma cria um subsídio eventual de emergência para compensação dos rendimentos do trabalho e regulamenta as condições da sua atribuição aos trabalhadores por conta das entidades empregadoras directamente afectadas pelo incêndio ocorrido na Baixa de Lisboa, no dia 25 de Agosto de 1988, e com actividade na zona sinistrada.
+
+2 - Este subsídio tem natureza excepcional e transitória e só é aplicável quando as entidades empregadoras se encontrem comprovadamente impossibilitadas de assegurar o pagamento das remunerações do pessoal ao seu serviço à data do sinistro.
+
+3 - Pode ainda ser atribuído o subsídio eventual a trabalhadores das referidas entidades, mesmo que exercessem a sua actividade fora da zona sinistrada, quando, em consequência do sinistro, se verifique comprovada impossibilidade de assegurar o pagamento das respectivas remunerações.
+
+###### Artigo 2.º — Situações excluídas
+
+1 - Não têm direito ao subsídio previsto neste diploma os trabalhadores das entidades empregadoras abrangidas por quaisquer esquemas de seguros que garantam o pagamento das respectivas remunerações.
+
+2 - Sempre que, nas situações referidas no número anterior, seja reconhecida a obrigação de indemnizar por parte das entidades seguradoras, as instituições de segurança social terão direito ao reembolso dos subsídios que tenham sido pagos, até ao limite do seu valor.
+
+###### Artigo 3.º — Condições de atribuição
+
+A atribuição do subsídio depende da verificação das seguintes condições:
+
+a) Inscrição do trabalhador no regime geral de segurança social;
+
+b) Prestação efectiva de trabalho nas entidades empregadoras referidas no artigo 1.º;
+
+c) Comprovada impossibilidade de a entidade empregadora assegurar o pagamento das remunerações em consequência do sinistro verificado.
+
+###### Artigo 4.º — Montante
+
+O montante do subsídio mensal a atribuir é igual a 80% da remuneração mensal do trabalhador líquida da taxa social única, comunicada à Segurança Social através da folha de remunerações.
+
+###### Artigo 5.º — Início e período de concessão
+
+1 - A compensação tem início com referência ao mês de Agosto de 1988 ou, posteriormente, com referência ao primeiro mês em que se verifique comprovada impossibilidade de a entidade empregadora assegurar o pagamento das remunerações.
+
+2 - A compensação será atribuída até ao mês de Dezembro de 1988, inclusive.
+
+###### Artigo 6.º — Compensação do subsídio de férias e do subsídio de Natal
+
+1 - Haverá igualmente lugar à compensação do subsídio de férias devido em 1988 e que não tenha sido ainda atribuído, bem como do subsídio de Natal a que o trabalhador tenha direito, desde que em qualquer dos casos se verifique comprovada impossibilidade do seu pagamento.
+
+2 - Os montantes a atribuir nos termos do número anterior são calculados com base no disposto no artigo 4.º do presente diploma.
+
+###### Artigo 7.º — Princípio da não acumulação
+
+A compensação prevista no presente diploma não é acumulável com rendimentos do trabalho supervenientes, com outras prestações compensatórias da perda temporária da remuneração de trabalho, com compensações remuneratórias devidas pela frequência de cursos de formação profissional, ou com outras prestações de idêntica natureza.
+
+###### Artigo 8.º — Garantia de direitos
+
+1 - Durante o período de atribuição da compensação, os trabalhadores mantêm todos os direitos decorrentes da sua qualidade de beneficiários do regime geral de segurança social.
+
+2 - O registo de remunerações correspondentes ao período de atribuição é equiparado, para todos os efeitos, ao registo de remunerações por trabalho efectivamente prestado.
+
+###### Artigo 9.º — Requerimento
+
+A compensação deverá ser requerida ao Centro Regional de Segurança Social de Lisboa (CRSSL) até ao final do mês seguinte ao da publicação do presente diploma ou, em caso de impossibilidade superveniente de pagamento pelas empresas das remunerações de trabalho devidas, até ao termo do mês seguinte àquele em que se verifique esta impossibilidade.
+
+###### Artigo 10.º — Meios de prova
+
+1 - Os elementos de identificação e os factos determinantes da atribuição da compensação são declarados pelo trabalhador, sob compromisso de honra, no requerimento da prestação.
+
+2 - O requerimento é instruído com uma declaração da entidade empregadora comprovativa das condições de atribuição da compensação.
+
+3 - O CRSSL procede oficiosamente, sempre que necessário, por si ou solicitando a intervenção da Inspecção-Geral do Trabalho, à confirmação dos elementos de identificação e inscrição declarados pelos requerentes e entidades empregadoras e dos demais requisitos de atribuição.
+
+4 - O Centro Regional pode solicitar os meios de prova complementares que considere necessários, nomeadamente declarações das associações patronais ou sindicais.
+
+###### Artigo 11.º — Deveres dos trabalhadores, das entidades empregadoras e de outras entidades
+
+1 - Durante o período de atribuição da compensação, quer os trabalhadores quer as entidades empregadoras são obrigados a comunicar ao CRSSL qualquer facto susceptível de determinar a perda do direito à prestação, a sua redução ou a suspensão ou cessação do respectivo pagamento.
+
+2 - Em idêntica obrigação se constituem as entidades seguradoras nas condições do artigo 2.º e as entidades a quem compete licenciar ou autorizar a reabertura ou reinício de funcionamento das empresas afectadas pelo sinistro.
+
+3 - Nas condições do artigo 2.º, as entidades seguradoras atribuem directamente às instituições de segurança social os valores das indemnizações correspondentes ao reembolso das compensações atribuídas até ao limite destas.
+
+###### Artigo 12.º — Penalidades
+
+Qualquer comportamento fraudulento, por acção ou omissão, que tenha influência na atribuição do subsídio determina, para além do procedimento criminal que no caso couber, cumulativamente as seguintes consequências:
+
+a) Constitui o infractor no dever de repor as importâncias indevidamente recebidas;
+
+b) Suspensão de benefícios da Segurança Social por um período de seis a dezoito meses.
+
+###### Artigo 13.º — Trabalhadores por conta própria
+
+Podem igualmente beneficiar da compensação prevista no presente diploma os trabalhadores por conta própria, inscritos no regime geral de segurança social dos trabalhadores independentes, que, em consequência do sinistro, tenham ficado privados da correspondente remuneração do trabalho, em condições idênticas às que determinam a atribuição da compensação aos trabalhadores por conta de outrem.
+
+###### Artigo 14.º — Situações especiais
+
+As normas do presente diploma podem ainda ser tornadas extensivas a situações especiais de carência de trabalhadores ao serviço das entidades referidas no artigo 1.º
+
+###### Artigo 15.º — Normas regulamentares
+
+Por portaria do Ministro do Emprego e da Segurança Social serão estabelecidas as normas de execução que se revelem necessárias à eficaz aplicação deste diploma, nomeadamente em relação à previsão dos artigos 13.º e 14.º
+
+###### Artigo 16.º — Outros apoios
+
+Tendo em vista a consecução dos objectivos do presente diploma, poderá o Ministro do Emprego e da Segurança Social, no âmbito das políticas de emprego e formação profissional, tomar as providências que se tornem necessárias, designadamente no que se refere às condições de acesso ao programa de apoio à contratação e de formação profissional do IEFP.
+
+###### Artigo 17.º — Natureza transitória
+
+1 - O esquema previsto no presente diploma tem natureza excepcional e transitória.
+
+2 - Serão definidas pelo Governo as medidas necessárias à articulação com outras modalidades de protecção social e as condições excepcionais em que poderá ser prorrogada a atribuição da compensação.
+
+###### Artigo 18.º — Início de vigência
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988.
+
+Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - António José de Castro Bagão Félix.
+
+**Promulgado em 2 de Setembro de 1988.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 2 de Setembro de 1988.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

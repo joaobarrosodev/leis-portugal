@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:366613:por
+title: Decreto Regional n.º 25/79/A
+short_title: null
+summary: Regulamenta o arrendamento de fogos habitualmente não habitados
+jurisdiction: regional
+territory: acores
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 25/79/A
+official_date: null
+publication_date: '1979-12-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 282/1979, Série I de 1979-12-07
+  number: '282'
+  series: I
+  supplement: null
+  pages: 3173 - 3174
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28200/31733174.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '366613'
+  dre_path: /dr/detalhe/decreto-regional/25-1979-366613
+  internal: pt:dre:366613:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-366613
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-366613
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-12-07T00:00:00Z'
+integrity:
+  source_sha256: 7e0a0c64d225ff63f6fd3d4fa104ef0a1ca89079a963f874edbf2e64266dd858
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1979/DRE-1979-25-366613.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 25/79/A
+
+Arrendamento de fogos habitualmente não habitados
+
+1. A Região Autónoma dos Açores vem a perder população há mais de duas décadas. A tendência emigratória, hoje bastante atenuada, continua em qualquer caso a verificar-se, não sendo de prever que termine, ou se inverta, a curto prazo.
+
+Todavia, a procura de casas de habitação é um fenómeno de conhecimento público praticamente em todas as ilhas, e está naturalmente relacionado com o surto de desenvolvimento material que vem a verificar-se nos últimos anos, bem como com a necessidade de fixação de quadros nos centros urbanos ou seus arredores.
+
+Estes dois factos harmonizam-se, sem dificuldade de pensarmos que muitos emigrantes deixam as suas casas fechadas, no receio - inteiramente compreensível - de, facultando-as de arrendamento, as não poderem recuperar quando delas careçam. Este receio, hoje menos justificado em face dos Decretos-Leis n.os [583/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1974-471511), de 22 de Julho, e [293/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1977-250830), de 20 de Julho, ainda existe, seja por ignorância, seja pelas formalidades e custos que implica o exercício do direito previsto pelo artigo 1096.º, n.º 1, alínea a), do Código Civil, de novo em vigor, com as limitações da [Lei n.º 55/79](https://diariodarepublica.pt/dr/detalhe/lei/55-1979-369858), de 15 de Setembro.
+
+2. O [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), de 12 de Setembro, estabeleceu medidas ditas de emergência relativas aos arrendamentos para habitação. Volvidos cinco anos, tais medidas continuam em vigor, mau grado a tentativa do IV Governo da República, que aprovou um decreto-lei, recentemente promulgado e ainda não completado com as necessárias providências regulamentares e tributárias, sobre rendas de casa e suas actualizações ([Decreto-Lei n.º 387/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1979-369828), de 19 de Setembro).
+
+Na parte que neste momento interessa tratar, apresenta relevância o artigo 5.º do citado [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), que tornava compulsório o arrendamento de casas de habitação devolutas.
+
+Crê-se que esta injunção teve pouco uso na Região. E muito provavelmente mercê das excepções previstas no seu n.º 4, que excluem «os fogos destinados a habitação própria ou do agregado familiar, ainda que como habitação secundária».
+
+Não é difícil ver-se que se encontram abrangidas por esta excepção a quase totalidade das casas de campo, bem como as casas de emigrantes e de outras pessoas ausentes da Região - ou de cada ilha - por períodos consideráveis. Estes fogos, só aproveitados dois ou três meses por ano, ascendem a cerca de alguns milhares, segundo apurado por esta Assembleia, conforme adiante se refere.
+
+3. Com efeito, louvando-nos no relatório que a Comissão Permanente para os Assuntos Sociais produziu já este ano, em cumprimento da resolução do Plenário da Assembleia, encontramos alguns números elucidativos.
+
+Assim, estima-se em cerca de 89000 a totalidade das casas existentes na Região.
+
+Destas, cerca de 20000 (22%) acham-se ocupadas ao abrigo de arrendamento.
+
+12% da totalidade das casas existentes (cerca de 10500) não são permanentemente utilizadas. Destas casas não permanentemente utilizadas, 91% situam-se em freguesias rurais.
+
+Informações colhidas junto das 19 câmaras municipais da Região indicam que 2295 casas se encontram declaradas como destinadas a habitação secundária, o que não esgota o seu número, dada a conhecida pouca receptividade do [Decreto-Lei n.º 445/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), abonada pelo facto de, em cinco municípios, não haver uma única declaração de casas nesta situação.
+
+Também se estima que 60% das casas não ocupadas (cerca de 6300) pertencem a emigrantes.
+
+Igualmente se estima que 60% dessas casas não ocupadas (6300, como acaba de se indicar) se acham em tal estado de degradação que não parecem economicamente recuperáveis.
+
+Fica-se, assim, com um total de mais de 4000 casas não utilizadas, e aproveitáveis.
+
+O relatório que temos vindo a seguir aponta-nos, entre muitos outros elementos, estes dois:
+
+Necessidade de habitação motivada por novos empregos até 1980 - 7168 fogos;
+
+Estimativa das necessidades para o período de 1977-1980 - 16709 fogos.
+
+Estas necessidades terão sido atenuadas, durante o corrente ano, em 20%.
+
+O que é dizer faltarem ainda 12800.
+
+Em face destes dados, a Comissão extraiu várias conclusões e formulou recomendações, que vão desde o estímulo à construção e à recuperação de edifícios degradados, até medidas legislativas.
+
+Uma destas medidas - precisamente apontadas em primeiro lugar - traduzir-se-ia na criação de um regime jurídico que, permitindo arrendamentos a prazo, facultasse a utilização de casas desocupadas durante longos períodos.
+
+É a tal medida que visa corresponder este decreto regional.
+
+4. O presente diploma propõe-se não contrariar as disposições que, por ora, impedem o contrato de arrendamento urbano a prazo, mas antes permitir que os fogos desaproveitados ou subaproveitados ao abrigo do n.º 4, alínea b), do já referido artigo 5.º do [Decreto-Lei n.º 445/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1977-277304), deixem de o estar. Porque, pela aplicação cega de tal excepção, a hipótese de arrendamento e a correlativa função económico-social do fogo nem chegarão a pôr-se.
+
+Por outro lado, existem antigas disposições, ainda hoje vigentes, na ordem jurídica portuguesa que podem dar-nos critérios a seguir na solução preconizada, que é a do arrendamento a título precário.
+
+Trata-se do [Decreto n.º 15289](https://diariodarepublica.pt/dr/detalhe/decreto/15289-1928-646313), artigo 29.º, alínea b), de 30 de Março de 1928, e do [Decreto-Lei n.º 22661](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22661-1933-320525), de 13 de Junho de 1933, artigo 5.º, que permitiram os arrendamentos, sem residência permanente, das casas de campo, termas e praias, relativamente aos quais se aceitava o princípio da ocupação temporária (e daí se concluía pela liberdade de fixação de rendas).
+
+Por seu lado, o Código Civil veio ampliar esta excepção, nomeadamente nas alíneas b) e c) do n.º 2 do artigo 1083.º
+
+Neste contexto, o que se pretende é:
+
+a) Facilitar a habitação, por períodos limitados, a quem a não conseguiria por período nenhum, segundo o princípio do mal menor, e independentemente de as ilhas serem consideradas lugar de férias - que aliás são para muita gente;
+
+b) Garantir ao senhorio, ausente temporariamente, a sua habitação na terra de origem - sendo que, como é sabido e próprio da Região, as ausências duram frequentemente muito mais de um ano, com vantagem para o dono da casa e, caso regresse de vez, para a economia regional;
+
+c) Assegurar ao emigrante os laços que o prendem à sua terra.
+
+5. A natureza precária do arrendamento é compatível com um regime que faculte a desocupação periódica, em termos a estabelecer, ou simplesmente o fim do contrato em data predeterminada.
+
+O que tudo torna absolutamente imperativo, no interesse do senhorio, a redução do contrato a escrito, sob pena de se cair no regime geral da falta de prova escrita, e do arrendamento para habitação, nos termos genéricos previstos na lei civil.
+
+Uma das vantagens do arrendamento escrito é a inclusão do compromisso de desocupação em data certa, o que - aliás de acordo com os princípios de direito processual - lhe dá a natureza de título executivo que agora se estabelece em termos expressos.
+
+6. O carácter excepcional do presente normativo justifica que a possibilidade com ele criada fique dependente da anuência do proprietário, evitando-se a aparente violência de uma imposição a que nem a legislação revolucionária se atrevera.
+
+Não se exclui, a priori, que um regime destes possa vir a generalizar-se injuntivamente. Mas parece arriscado enveredar já por este caminho.
+
+Antes de mais, pelo carácter experimental que medidas como as ora estabelecidas apresentam.
+
+Depois, por respeito para com os cidadãos, em cujo sentido cívico se deve confiar, uma vez que apenas agora se criam mecanismos que permitam, nesta área, exercitá-lo.
+
+Só uma resposta negativa, expressa no comportamento dos proprietários, poderá vir a justificar, o que se espera nunca suceda, medidas mais radicais:
+
+como seria a sujeição de todas as residências secundárias ao arrendamento sob simples pedido dos candidatos a inquilino, e mesmo com as garantias de precariedade que se estabelecem.
+
+Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Na Região Autónoma dos Açores, os fogos habitualmente não habitados, mas que se destinam a habitação própria ou de agregado familiar do respectivo dono, ainda que como residência secundária, podem ser objecto de arrendamento por períodos limitados.
+
+2 - Entende-se por dono, para os efeitos do número anterior, quem tiver a posse material do prédio ao abrigo de qualquer direito real que a confira, ou ao abrigo de contrato de arrendamento que autorize a sublocação, nos termos da lei civil.
+
+###### Art. 2.º Os arrendamentos dos prédios a que se refere este diploma podem ser feitos segundo uma das seguintes modalidades:
+
+a) Arrendamento por períodos renováveis, com desocupação temporária em tempo certo;
+
+b) Arrendamento por períodos renováveis, com desocupação temporária em condições genéricas pré-fixadas e a concretizar mediante notificação postal, com aviso de recepção, efectuada com a antecedência mínima de seis meses;
+
+c) Arrendamento por período certo, findo o qual caducará automaticamente.
+
+###### Art. 3.º Os arrendamentos feitos ao abrigo do presente diploma terão o regime de rendas estabelecido para casas de campo, termas e praias previsto na alínea b) do artigo 29.º do [Decreto n.º 15289](https://diariodarepublica.pt/dr/detalhe/decreto/15289-1928-646313), de 30 de Março de 1928, e bem assim as condições e limitações decorrentes da lei civil, em caso de sublocação.
+
+###### Art. 4.º - 1 - Os contratos previstos neste diploma serão obrigatoriamente reduzidos a escrito, com especificação de todos os seus elementos essenciais e garantias, e com assinatura dos respectivos sujeitos reconhecida notariamente.
+
+2 - A não redução a escrito, em conformidade com o número anterior, faz presumir a existência de um contrato de arrendamento urbano nos termos da lei civil.
+
+3 - A presunção pode ser, porém, elidida por sentença que, apreciando livremente a prova produzida, declare o arrendamento feito de harmonia com o presente diploma e supra a falta de título.
+
+###### Art. 5.º O exemplar do contrato escrito - completado com o documento comprovativo de notificação postal, no caso da alínea b) do artigo 2.º - é título executivo, para efeito de obtenção de mandado de despejo.
+
+Aprovado pela Assembleia Regional, na Horta, em 7 de Novembro de 1979.
+
+**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+
+**Assinado em Angra do Heroísmo em 19 de Novembro de 1979.**
+
+**Publique-se.**
+
+**O Ministro da República, Henrique Afonso da Silva Horta.**

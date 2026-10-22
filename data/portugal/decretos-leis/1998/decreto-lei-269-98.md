@@ -1,0 +1,798 @@
+---
+schema_version: '1.0'
+id: pt:dre:566629:por
+title: Decreto-Lei n.º 269/98
+short_title: null
+summary: Aprova o regime dos procedimentos para cumprimento de obrigações pecuniárias emergentes de contratos de valor não
+  superior à alçada do tribunal de 1.ª Instância
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 269/98
+official_date: null
+publication_date: '1998-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/1998, Série I-A de 1998-09-01
+  number: '201'
+  series: I
+  supplement: null
+  pages: 4527 - 4530
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/09/201a00/45274530.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-01-01'
+version_history:
+  file: decreto-lei-269-98.versoes.json
+  count: 11
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-23'
+    amending: pt:dre:556239:por
+    amending_title: Decreto-Lei n.º 383/99
+    changes:
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 1.º-A
+    - Adita Artigo 12.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 1.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+  - date: '2001-01-01'
+    amending: pt:dre:339847:por
+    amending_title: Decreto-Lei n.º 183/2000
+    changes:
+    - Altera Artigo 1.º-A
+    - Altera Artigo 12.º-A
+  - date: '2002-01-01'
+    amending: pt:dre:540216:por
+    amending_title: Decreto-Lei n.º 323/2001
+    changes:
+    - Altera Artigo 19.º
+  - date: '2003-03-20'
+    amending: pt:dre:189484:por
+    amending_title: Decreto-Lei n.º 32/2003
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 12.º-A
+    - Altera Artigo 19.º
+  - date: '2004-01-01'
+    amending: pt:dre:424101:por
+    amending_title: Decreto-Lei n.º 324/2003
+    changes:
+    - Altera Artigo 19.º
+  - date: '2005-09-15'
+    amending: pt:dre:233745:por
+    amending_title: Decreto-Lei n.º 107/2005
+    changes:
+    - Adita Artigo 13.º-A
+    - Adita Artigo 15.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Revoga Artigo 22.º
+  - date: '2006-05-01'
+    amending: pt:dre:661170:por
+    amending_title: Lei n.º 14/2006
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+  - date: '2008-01-01'
+    amending: pt:dre:529450:por
+    amending_title: Lei n.º 67-A/2007; Decreto-Lei n.º 303/2007
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 1.º
+  - date: '2008-11-21'
+    amending: pt:dre:439815:por
+    amending_title: Decreto-Lei n.º 226/2008
+    changes:
+    - Altera Artigo 14.º
+  - date: '2020-01-01'
+    amending: pt:dre:124680589:por
+    amending_title: Lei n.º 117/2019
+    changes:
+    - Adita Artigo 14.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/269/1998/p/cons/20190913/pt/html
+  oj: null
+  dre: '566629'
+  dre_path: /dr/detalhe/decreto-lei/269-1998-566629
+  internal: pt:dre:566629:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1998-566629
+  metadata_url: https://data.dre.pt/eli/dec-lei/269/1998/p/cons/20190913/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-121277212
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-121277212
+  retrieved_at: '2026-10-22T12:25:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8a377e0e5cf9fa45d0e5dac7403926ba32afbc9f34a0ada5f75498d536fd99ad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:25:21Z'
+  notes: 11 versão(ões); histórico completo em decreto-lei-269-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Processo Declarativo
+- Processo Civil
+- Código das Custas Judiciais
+- Código do Processo Civil
+- Injunção
+- Execução de Sentença
+- Prazo
+- Cobrança de Dívidas
+- Regime Jurídico
+- Execução por Dívidas
+- Processo de Execução
+- Secretaria Judicial
+- Taxa
+- Custas Judiciais
+- Tribunal Judicial
+relationships:
+- type: amended_by
+  target: pt:dre:556239:por
+  label: Adita Artigo 2.º; Adita Artigo 3.º; Adita Artigo 1.º-A; Adita Artigo 12.º-A; Altera Artigo 2.º; Altera Artigo 3.º;
+    Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 1.º; Altera Artigo 10.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239
+  date: '1999-09-23'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: Altera Artigo 1.º-A; Altera Artigo 12.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:189484:por
+  label: Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 12.º-A; Altera Artigo
+    19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484
+  date: '2003-02-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 12.º-A; Altera Artigo
+    19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:424101:por
+  label: Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101
+  date: '2003-12-27'
+- type: amended_by
+  target: pt:dre:233745:por
+  label: Adita Artigo 13.º-A; Adita Artigo 15.º-A; Altera Artigo 1.º; Altera Artigo 6.º; Altera Artigo 3.º; Altera Artigo
+    4.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    14.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º; Revoga Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745
+  date: '2005-07-01'
+- type: amended_by
+  target: pt:dre:661170:por
+  label: Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-2006-661170
+  date: '2006-04-26'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: Altera Artigo 19.º; Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: Altera Artigo 19.º; Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:124680589:por
+  label: Adita Artigo 14.º-A; Altera Artigo 10.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589
+  date: '2019-09-13'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/1998/05/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1998/05/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/274/1997/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/274/1997/10/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/404/1993/12/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/404/1993/12/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/4/1994/01/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/4/1994/01/03/p/dre
+article_structure:
+  article_count: 35
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:25:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 269/98
+
+Decreto-Lei n.º 269/98
+
+de 1 de Setembro
+
+A instauração de acções de baixa densidade que tem crescentemente ocupado os tribunais, erigidos em órgãos para reconhecimento e cobrança de dívidas por parte dos grandes utilizadores, está a causar efeitos perversos, que é inadiável contrariar.
+
+Na verdade, colocados, na prática, ao serviço de empresas que negoceiam com milhares de consumidores, os tribunais correm o risco de se converter, sobretudo nos grandes meios urbanos, em órgãos que são meras extensões dessas empresas, com o que se postergam decisões, em tempo útil, que interessam aos cidadãos, fonte legitimadora do seu poder soberano. Acresce, como já alguém observou, que, a par de um aumento explosivo da litigiosidade, esta se torna repetitiva, rotineira, indutora da «funcionalização» dos magistrados, que gastam o seu tempo e as suas aptidões técnicas na prolação mecânica de despachos e de sentenças.
+
+É impossível uma melhoria do sistema sem se atacarem a montante as causas que o asfixiam, de que se destaca a concessão indiscriminada de crédito, sem averiguação da solvabilidade daqueles a quem é concedido.
+
+Não podendo limitar-se o direito de acção, importa que se encarem vias de desjudicialização consensual de certo tipo de litígios, máxime do que acima se apontou. Com efeito, a solução não é a de um quotidiano aumento de tribunais, de magistrados, de oficiais de justiça, na certeza de que sempre ficariam aquém das necessidades.
+
+É elevadíssimo o número de acções propostas para cumprimento de obrigações pecuniárias, sobretudo nos tribunais dos grandes centros urbanos.
+
+Como ilustração, atente-se em que, apenas nos tribunais de pequena instância cível de Lisboa, deram entrada nos anos de 1995, 1996 e 1997 respectivamente 46760, 56667 e 88523 acções, quase todas com o referido objecto.
+
+O artigo 7.º do Decreto-Lei n.º 329-A/95, de 12 de Dezembro, previu a possibilidade da criação de processos com tramitação própria no âmbito da competência daqueles tribunais.
+
+É oportuno concretizar esse propósito, mas generalizando-o ao conjunto dos tribunais judiciais, pelo que se avança, no domínio do cumprimento de obrigações pecuniárias emergentes de contratos que não excedam o valor da alçada dos tribunais de 1.ª instância, com medida legislativa que, baseada no modelo da acção sumaríssima, o simplifica, aliás em consonância com a normal simplicidade desse tipo de acções, em que é frequente a não oposição do demandado.
+
+Paralelamente, a injunção, instituída pelo Decreto-Lei n.º 404/93, de 10 de Dezembro, no intuito de permitir ao credor de obrigação pecuniária a obtenção, «de forma célere e simplificada», de um título executivo, no mesmo triénio mereceu uma aceitação inexpressiva, que se cifra, em todo o País, em cerca de 2500 providências por ano.
+
+À margem da sensibilização dos grandes utilizadores para o preocupante fenómeno que se verifica, e que está a contar com a sua adesão, deu-se um passo relevante com o Decreto-Lei n.º 114/98, de 4 de Maio, que alterou o artigo 71.º do Código do Imposto sobre o Valor Acrescentado, permitindo retirar dos tribunais a tarefa de meras entidades certificadoras de incobrabilidade de dívidas de montante já significativo, apenas para que os credores pudessem conseguir a dedução do IVA.
+
+Procura-se agora incentivar o recurso à injunção, em especial pelas possibilidades abertas pelas modernas tecnologias ao seu tratamento informatizado e pela remoção de obstáculos de natureza processual que a doutrina opôs ao Decreto-Lei n.º 404/93, nomeadamente no difícil, senão impraticável, enlace entre a providência e certas questões incidentais nela suscitadas, a exigirem decisão judicial, caso em que a injunção passará a seguir como acção.
+
+Ao mesmo tempo que se eleva até à alçada dos tribunais de 1.ª instância o valor do procedimento de injunção, diminuem-se sensivelmente os montantes da taxa de justiça a pagar pelo requerente, não obstante o período já decorrido sobre a sua fixação, em Janeiro de 1994.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
+
+Diploma preambular
+
+###### Artigo 1.º — Procedimentos especiais
+
+É aprovado o regime dos procedimentos destinados a exigir o cumprimento de obrigações pecuniárias emergentes de contratos de valor não superior a (euro) 15 000, publicado em anexo, que faz parte integrante do presente diploma.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 303/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2007-640911), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 2.º — Fixação de domicílio das partes
+
+1 - Nos contratos reduzidos a escrito que sejam susceptíveis de desencadear os procedimentos a que se refere o artigo anterior podem as partes convencionar o local onde se consideram domiciliadas, para efeito de realização da citação ou da notificação, em caso de litígio.
+
+2 - A alteração do domicílio convencionado nos termos do número anterior está sujeita, com as necessárias adaptações, ao regime de oponibilidade do n.º 2 do artigo 237.º-A do Código de Processo Civil.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 3.º — Recusa de assinatura do aviso ou de recebimento da carta
+
+Se o citando ou o notificando recusarem a assinatura do aviso de recepção ou o recebimento da carta, o distribuidor postal lavra nota do incidente antes de a devolver, considerando-se efectuada a citação ou a notificação pessoal face à certificação da ocorrência.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 4.º — Contagem de prazos
+
+À contagem dos prazos constantes das disposições do regime aprovado pelo presente diploma são aplicáveis as regras do Código de Processo Civil, sem qualquer dilação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 5.º — Alteração ao Código de Processo Civil
+
+O artigo 222.º do Código de Processo Civil passa a ter a seguinte redacção:
+
+«Artigo 222.º
+
+[...]
+
+Na distribuição há as seguintes espécies:
+
+1.ª ...
+
+2.ª ...
+
+3.ª Acções de processo sumaríssimo e acções especiais para cumprimento de obrigações pecuniárias emergentes de contratos;
+
+4.ª ...
+
+5.ª ...
+
+6.ª ...
+
+7.ª Execuções nos termos do Decreto-Lei n.º 274/97, de 8 de Outubro, e provenientes de procedimento de injunção;
+
+8.ª Inventários;
+
+9.ª Processos especiais de recuperação de empresa e de falência;
+
+10.ª Cartas precatórias ou rogatórias, recursos de conservadores, notários e outros funcionários, reclamações e quaisquer outros papéis não classificados.»
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 6.º — Pagamento de taxa de justiça
+
+Mediante portaria do Ministro da Justiça, podem ser aprovadas outras formas de pagamento da taxa de justiça diversas das previstas no Código das Custas Judiciais.
+
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 7.º — Revogação
+
+São revogados o Decreto-Lei n.º 404/93, de 10 de Dezembro, e a Portaria n.º 4/94, de 3 de Janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do 2.º mês posterior ao da sua publicação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - José Manuel da Costa Monteiro Consiglieri Pedroso - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 31 de Julho de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 20 de Agosto de 1998.
+
+Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
+
+## Anexo
+
+REGIME DOS PROCEDIMENTOS A QUE SE REFERE O ARTIGO 1.º DO DIPLOMA PREAMBULAR
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-A/98 - Diário da República n.º 226/1998, 3º Suplemento, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-a-1998-513628), produz efeitos a partir de 1998-11-01
+
+### Capítulo I — Acção declarativa
+
+###### Artigo 1.º — Petição e contestação
+
+1 - Na petição, o autor exporá sucintamente a sua pretensão e os respectivos fundamentos, devendo mencionar se o local indicado para citação do réu é o de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular.
+
+2 - O réu é citado para contestar no prazo de 15 dias, se o valor da acção não exceder a alçada do tribunal de 1.ª instância, ou no prazo de 20 dias, nos restantes casos.
+
+3 - A petição e a contestação não carecem de forma articulada, devendo ser apresentadas em duplicado, nos termos do n.º 1 do artigo 152.º do Código de Processo Civil.
+
+4 - O duplicado da contestação será remetido ao autor simultaneamente com a notificação da data da audiência de julgamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 1.º-A — Convenção de domicílio
+
+Nos casos de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular, a citação efectua-se nos termos dos n.os 3 a 5 do artigo 237.º-A do Código de Processo Civil, com o efeito disposto no n.º 2 do artigo 238.º do mesmo Código.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 183/2000 - Diário da República n.º 184/2000, Série I-A de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2000-339847), em vigor a partir de 2001-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 2.º — Falta de contestação
+
+Se o réu, citado pessoalmente, não contestar, o juiz, com valor de decisão condenatória, limitar-se-á a conferir força executiva à petição, a não ser que ocorram, de forma evidente, excepções dilatórias ou que o pedido seja manifestamente improcedente.
+
+###### Artigo 3.º — Termos posteriores aos articulados
+
+1 - Se a acção tiver de prosseguir, pode o juiz julgar logo procedente alguma excepção dilatória ou nulidade que lhe cumpra conhecer ou decidir do mérito da causa.
+
+2 - A audiência de julgamento realiza-se dentro de 30 dias, não sendo aplicável o disposto nos n.os 1 a 3 do artigo 155.º do Código de Processo Civil às acções de valor não superior à alçada do tribunal de 1.ª instância.
+
+3 - Quando a decisão final admita recurso ordinário, pode qualquer das partes requerer a gravação da audiência.
+
+4 - As provas são oferecidas na audiência, podendo cada parte apresentar até três testemunhas, se o valor da acção não exceder a alçada do tribunal de 1.ª instância, ou até cinco testemunhas, nos restantes casos.
+
+5 - Em qualquer dos casos previstos no número anterior, não pode a parte produzir mais de três testemunhas sobre cada um dos factos que se propõe provar, não se contando as que tenham declarado nada saber.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 4.º — Audiência de julgamento
+
+1 - Se as partes estiverem presentes ou representadas, o juiz procurará conciliá-las; frustrando-se a conciliação, produzem-se as provas que ao caso couber.
+
+2 - Não é motivo de adiamento a falta, ainda que justificada, de qualquer das partes e, nas acções de valor não superior à alçada do tribunal de 1.ª instância, também a dos seus mandatários.
+
+3 - Nas acções de valor superior à alçada do tribunal de 1.ª instância, em caso de adiamento, a audiência de julgamento deve efectuar-se num dos 30 dias imediatos, não podendo haver segundo adiamento.
+
+4 - Nas acções de valor não superior à alçada do tribunal de 1.ª instância, quando as partes não tenham constituído mandatário judicial ou este não comparecer, a inquirição das testemunhas é efectuada pelo juiz.
+
+5 - Se ao juiz parecer indispensável, para boa decisão da causa, que se proceda a alguma diligência, suspenderá a audiência na altura que reputar mais conveniente e marcará logo dia para a sua realização, devendo o julgamento concluir-se dentro de 30 dias; a prova pericial é sempre realizada por um único perito.
+
+6 - Finda a produção de prova, pode cada um dos mandatários fazer uma breve alegação oral.
+
+7 - A sentença, sucintamente fundamentada, é logo ditada para a acta.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 5.º — Depoimento apresentado por escrito
+
+1 - Se a testemunha tiver conhecimento de factos por virtude do exercício das suas funções, pode o depoimento ser prestado através de documento escrito, datado e assinado pelo seu autor, com indicação da acção a que respeita e do qual conste relação discriminada dos factos e das razões de ciência invocadas.
+
+2 - O escrito a que se refere o número anterior será acompanhado de cópia de documento de identificação do depoente e indicará se existe alguma relação de parentesco, afinidade, amizade ou dependência com as partes ou qualquer interesse na acção.
+
+3 - Quando o entenda necessário, poderá o juiz, oficiosamente ou a requerimento das partes, determinar, sendo ainda possível, a renovação do depoimento na sua presença.
+
+###### Artigo 6.º — Execução
+
+A execução corre nos próprios autos.
+
+### Capítulo II — Injunção
+
+###### Artigo 7.º — Noção
+
+Considera-se injunção a providência que tem por fim conferir força executiva a requerimento destinado a exigir o cumprimento das obrigações a que se refere o artigo 1.º do diploma preambular, ou das obrigações emergentes de transacções comerciais abrangidas pelo Decreto-Lei n.º 32/2003, de 17 de Fevereiro.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 32/2003 - Diário da República n.º 40/2003, Série I-A de 2003-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484), em vigor a partir de 2003-03-20
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-A/98 - Diário da República n.º 226/1998, 3º Suplemento, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-a-1998-513628), produz efeitos a partir de 1998-11-01
+
+###### Artigo 8.º — Secretaria judicial competente
+
+1 - O requerimento de injunção é apresentado, à escolha do credor, na secretaria do tribunal do lugar do cumprimento da obrigação ou na secretaria do tribunal do domicílio do devedor.
+
+2 - No caso de existirem tribunais de competência especializada ou de competência específica, a apresentação do requerimento na secretaria deve respeitar as respectivas regras de competência.
+
+3 - Havendo mais de um secretário judicial, o requerimento é averbado segundo escala iniciada pelo secretário do 1.º juízo.
+
+4 - Podem ser criadas secretarias judiciais ou secretarias-gerais destinadas a assegurar a tramitação do procedimento de injunção.
+
+###### Artigo 9.º — Apresentação do requerimento de injunção
+
+1 - O requerimento de injunção é apresentado, num único exemplar, na secretaria judicial.
+
+2 - As formas de apresentação do requerimento são aprovadas por portaria do Ministro da Justiça.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 10.º — Forma e conteúdo do requerimento
+
+1 - O modelo de requerimento de injunção é aprovado por portaria do Ministro da Justiça.
+
+2 - No requerimento, deve o requerente:
+
+a) Identificar a secretaria do tribunal a que se dirige;
+
+b) Identificar as partes;
+
+c) Indicar o lugar onde deve ser feita a notificação, devendo mencionar se se trata de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular;
+
+d) Expor sucintamente os factos que fundamentam a pretensão;
+
+e) Formular o pedido, com discriminação do valor do capital, juros vencidos e outras quantias devidas;
+
+f) Indicar a taxa de justiça paga;
+
+g) Indicar, quando for caso disso, que se trata de transação comercial abrangida pelo Decreto-Lei n.º 32/2003, de 17 de fevereiro, na sua redação atual, ou pelo Decreto-Lei n.º 62/2013, de 10 de maio;
+
+h) Indicar o seu domicílio;
+
+i) Indicar o endereço de correio electrónico, se o requerente pretender receber comunicações ou ser notificado por este meio;
+
+j) Indicar se pretende que o processo seja apresentado à distribuição, no caso de se frustrar a notificação;
+
+l) Indicar o tribunal competente para apreciação dos autos se forem apresentados à distribuição;
+
+m) Indicar se pretende a notificação por solicitador de execução ou mandatário judicial e, em caso afirmativo, indicar o seu nome e o respectivo domicílio profissional;
+
+n) Indicar, tratando-se de contrato celebrado com consumidor, se o mesmo comporta cláusulas contratuais gerais, sob pena de ser considerado litigante de má-fé;
+
+o) Assinar o requerimento.
+
+3 - Durante o procedimento de injunção não é permitida a alteração dos elementos constantes do requerimento, designadamente o pedido formulado.
+
+4 - Se o requerente indicar endereço de correio electrónico, nos termos e para os efeitos da alínea i) do n.º 2, as comunicações e notificações pela secretaria ao requerente são efectuadas por meios electrónicos, em termos a definir por portaria do Ministro da Justiça.
+
+5 - O requerimento pode ser subscrito por mandatário judicial, bastando para o efeito a menção da existência do mandato e do domicílio profissional do mandatário.
+
+6 - A subscrição do requerimento por mandatário judicial não o exime da necessidade de preenchimento de todos os elementos relativos ao representado, nomeadamente a indicação do respectivo domicílio.
+
+7 - O disposto na alínea n) do n.º 2 não é aplicável quando o requerimento de injunção for apresentado por meios electrónicos, assegurando o sistema informático a identificação do requerente ou mandatário que procede à apresentação do requerimento.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 14/2006 - Diário da República n.º 81/2006, Série I-A de 2006-04-26](https://diariodarepublica.pt/dr/detalhe/lei/14-2006-661170), em vigor a partir de 2006-05-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 32/2003 - Diário da República n.º 40/2003, Série I-A de 2003-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484), em vigor a partir de 2003-03-20
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 11.º — Recusa do requerimento
+
+1 - O requerimento só pode ser recusado se:
+
+a) Não estiver endereçado à secretaria judicial competente ou não respeitar o disposto na alínea l) do n.º 2 do artigo anterior;
+
+b) Omitir a identificação das partes, o domicílio do requerente ou o lugar da notificação do devedor;
+
+c) Não estiver assinado, excepto nos casos previstos no n.º 7 do artigo anterior;
+
+d) Não estiver redigido em língua portuguesa;
+
+e) Não constar do modelo a que se refere o n.º 1 do artigo anterior;
+
+f) Não se mostrar paga a taxa de justiça devida;
+
+g) O valor ultrapassar o referido no artigo 1.º do diploma preambular, sem que dele conste a indicação prevista na alínea g) do n.º 2 do artigo anterior;
+
+h) O pedido não se ajustar ao montante ou finalidade do procedimento.
+
+2 - Do acto de recusa cabe reclamação para o juiz ou, no caso de tribunais com mais de um juiz, para o que estiver de turno à distribuição.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 14/2006 - Diário da República n.º 81/2006, Série I-A de 2006-04-26](https://diariodarepublica.pt/dr/detalhe/lei/14-2006-661170), em vigor a partir de 2006-05-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 32/2003 - Diário da República n.º 40/2003, Série I-A de 2003-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484), em vigor a partir de 2003-03-20
+
+###### Artigo 12.º — Notificação do requerimento
+
+1 - No prazo de 5 dias, o secretário judicial notifica o requerido, por carta registada com aviso de recepção, para, em 15 dias, pagar ao requerente a quantia pedida, acrescida da taxa de justiça por ele paga, ou para deduzir oposição à pretensão.
+
+2 - À notificação é aplicável, com as devidas adaptações, o disposto nos artigos 231.º e 232.º, nos n.os 2 a 5 do artigo 236.º e no artigo 237.º do Código de Processo Civil.
+
+3 - No caso de se frustrar a notificação por via postal, nos termos do número anterior, a secretaria obtém, oficiosamente, informação sobre residência, local de trabalho ou, tratando-se de pessoa colectiva ou sociedade, sobre sede ou local onde funciona normalmente a administração do notificando, nas bases de dados dos serviços de identificação civil, da segurança social, da Direcção-Geral dos Impostos e da Direcção-Geral de Viação.
+
+4 - Se a residência, local de trabalho, sede ou local onde funciona normalmente a administração do notificando, para o qual se endereçou a carta registada com aviso de recepção, coincidir com o local obtido junto de todos os serviços enumerados no número anterior, procede-se à notificação por via postal simples, dirigida ao notificando e endereçada para esse local, aplicando-se o disposto nos n.os 2 a 4 do artigo seguinte.
+
+5 - Se a residência, local de trabalho, sede ou local onde funciona normalmente a administração do notificando, para o qual se endereçou a notificação, não coincidir com o local obtido nas bases de dados de todos os serviços enumerados no n.º 3, ou se nestas constarem várias residências, locais de trabalho ou sedes, procede-se à notificação por via postal simples para cada um desses locais.
+
+6 - Se qualquer das pessoas referidas no n.º 2 do artigo 236.º do Código de Processo Civil, diversa do notificando, recusar a assinatura do aviso de recepção ou o recebimento da carta, o distribuidor postal lavra nota do incidente antes de a devolver.
+
+7 - Não sendo possível a notificação nos termos dos números anteriores, a secretaria procederá conforme considere mais conveniente, tentando, designadamente, a notificação noutro local conhecido ou aguardando o regresso do requerido.
+
+8 - Não se aplica o disposto nos n.os 1 e 2 se o requerente indicar que pretende a notificação por solicitador de execução ou mandatário judicial, caso em que se aplica, com as necessárias adaptações, o disposto no Código de Processo Civil para a citação por solicitador de execução ou mandatário judicial.
+
+9 - No caso de se frustrar a notificação por solicitador de execução ou mandatário judicial, procede-se à notificação nos termos dos n.os 3 a 7.
+
+10 - Por despacho conjunto do ministro com a tutela do serviço público de correios e do Ministro da Justiça, pode ser aprovado modelo próprio de carta registada com aviso de recepção para o efeito do n.º 1, nos casos em que o volume de serviço o justifique.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 32/2003 - Diário da República n.º 40/2003, Série I-A de 2003-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484), em vigor a partir de 2003-03-20
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 12.º-A — Convenção de domicílio
+
+1 - Nos casos de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular, a notificação do requerimento é efectuada mediante o envio de carta simples, dirigida ao notificando e endereçada para o domicílio ou sede convencionado.
+
+2 - O funcionário judicial junta ao processo duplicado da notificação enviada.
+
+3 - O distribuidor do serviço postal procede ao depósito da referida carta na caixa de correio do notificando e certifica a data e o local exacto em que a depositou, remetendo de imediato a certidão à secretaria.
+
+4 - Não sendo possível o depósito da carta na caixa do correio do notificando, o distribuidor do serviço postal lavra nota do incidente, datando-a e remetendo-a de imediato à secretaria, excepto no caso de o depósito ser inviável em virtude das dimensões da carta, caso em que deixa um aviso nos termos do n.º 5 do artigo 236.º do Código de Processo Civil.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 32/2003 - Diário da República n.º 40/2003, Série I-A de 2003-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484), em vigor a partir de 2003-03-20
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 183/2000 - Diário da República n.º 184/2000, Série I-A de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2000-339847), em vigor a partir de 2001-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/99 - Diário da República n.º 223/1999, Série I-A de 1999-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239), em vigor a partir de 1999-10-23
+
+###### Artigo 13.º — Conteúdo e efeito das notificações
+
+1 - A notificação deve conter:
+
+a) Os elementos referidos nas alíneas a) a i) do n.º 2 do artigo 10.º;
+
+b) A indicação do prazo para a oposição e a respetiva forma de contagem, bem como da preclusão resultante da falta de tempestiva dedução de oposição, nos termos previstos no artigo 14.º-A;
+
+c) A indicação de que, na falta de pagamento ou de oposição dentro do prazo legal, será aposta fórmula executória ao requerimento, facultando-se ao requerente a possibilidade de intentar acção executiva;
+
+d) A indicação de que, na falta de pagamento da quantia pedida e da taxa de justiça paga pelo requerente, são ainda devidos juros de mora desde a data da apresentação do requerimento e juros à taxa de 5% ao ano a contar da data da aposição da fórmula executória.
+
+e) A indicação de que a dedução de oposição cuja falta de fundamento o requerido não deva ignorar determina a condenação em multa de valor igual a duas vezes a taxa de justiça devida na acção declarativa.´
+
+2 - As notificações efectuadas nos termos do número e dos artigos anteriores interrompem a prescrição nos termos do disposto no artigo 323.º do Código Civil.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2009-03-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 13.º-A — Frustração da notificação
+
+No caso de se frustrar a notificação do requerido e o requerente não tiver indicado que pretende que os autos sejam apresentados à distribuição, nos termos da alínea j) do n.º 2 do artigo 10.º, a secretaria devolve ao requerente o expediente respeitante ao procedimento de injunção.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 14.º — Aposição da fórmula executória
+
+1 - Se, depois de notificado, o requerido não deduzir oposição, o secretário aporá no requerimento de injunção a seguinte fórmula: «Este documento tem força executiva.»
+
+2 - O despacho de aposição da fórmula executória é datado, rubricado e selado ou, em alternativa, autenticado com recurso a assinatura electrónica avançada.
+
+3 - O secretário só pode recusar a aposição da fórmula executória quando o pedido não se ajuste ao montante ou finalidade do procedimento.
+
+4 - Do acto de recusa cabe reclamação nos termos previstos no n.º 2 do artigo 11.º
+
+5 - Aposta a fórmula executória, a secretaria disponibiliza ao requerente, preferencialmente por meios electrónicos, em termos a definir por portaria do Ministro da Justiça, o requerimento de injunção no qual tenha sido aposta a fórmula executória.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 226/2008 - Diário da República n.º 226/2008, Série I de 2008-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815), em vigor a partir de 2008-11-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 14.º-A — Efeito cominatório da falta de dedução da oposição
+
+1 - Se o requerido, pessoalmente notificado por alguma das formas previstas nos n.os 2 a 5 do artigo 225.º do Código de Processo Civil e devidamente advertido do efeito cominatório estabelecido no presente artigo, não deduzir oposição, ficam precludidos os meios de defesa que nela poderiam ter sido invocados, sem prejuízo do disposto no número seguinte.
+
+2 - A preclusão prevista no número anterior não abrange:
+
+a) A alegação do uso indevido do procedimento de injunção ou da ocorrência de outras exceções dilatórias de conhecimento oficioso;
+
+b) A alegação dos fundamentos de embargos de executado enumerados no artigo 729.º do Código de Processo Civil, que sejam compatíveis com o procedimento de injunção;
+
+c) A invocação da existência de cláusulas contratuais gerais ilegais ou abusivas;
+
+d) Qualquer exceção perentória que teria sido possível invocar na oposição e de que o tribunal possa conhecer oficiosamente.
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 117/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589), em vigor a partir de 2020-01-01
+
+###### Artigo 15.º — Oposição
+
+À oposição é aplicável o disposto no n.º 3 do artigo 1.º
+
+###### Artigo 15.º-A — Desistência do pedido
+
+1 - Até à dedução de oposição ou, na sua falta, até ao termo do prazo de oposição, o requerente pode desistir do procedimento.
+
+2 - No caso de desistência do pedido, a secretaria devolve ao requerente o expediente respeitante ao procedimento de injunção e notifica o requerido daquele facto, se este já tiver sido notificado do requerimento de injunção.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 16.º — Distribuição
+
+1 - Deduzida oposição ou frustrada a notificação do requerido, no caso em que o requerente tenha indicado que pretende que o processo seja apresentado à distribuição, nos termos da alínea j) do n.º 2 do artigo 10.º, o secretário apresenta os autos à distribuição que imediatamente se seguir.
+
+2 - Salvo o disposto no n.º 2 do artigo 11.º e no n.º 4 do artigo 14.º, os autos são também imediatamente apresentados à distribuição sempre que se suscite questão sujeita a decisão judicial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 17.º — Termos posteriores à distribuição
+
+1 - Após a distribuição a que se refere o n.º 1 do artigo anterior, segue-se, com as necessárias adaptações, o disposto no n.º 4 do artigo 1.º e nos artigos 3.º e 4.º
+
+2 - Tratando-se de caso em que se tenha frustrado a notificação do requerido, os autos só são conclusos ao juiz depois de efectuada a citação do réu para contestar, nos termos do n.º 2 do artigo 1.º
+
+3 - Recebidos os autos, o juiz pode convidar as partes a aperfeiçoar as peças processuais.
+
+4 - Se os autos forem apresentados à distribuição em virtude de dedução de oposição cuja falta de fundamento o réu não devesse ignorar, é este condenado, na sentença referida no n.º 7 do artigo 4.º, em multa de montante igual a duas vezes o valor da taxa de justiça devida na acção declarativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+###### Artigo 18.º — Valor processual
+
+O valor processual da injunção e da acção declarativa que se lhe seguir é o do pedido, atendendo-se, quanto aos juros, apenas aos vencidos até à data da apresentação do requerimento.
+
+###### Artigo 19.º — Entrega do requerimento de injunção
+
+1 - A entrega do requerimento de injunção por advogado ou solicitador é efectuada apenas por via electrónica.
+
+2 - O requerente que, sendo representado por advogado ou solicitador, não cumprir o disposto no número anterior fica sujeito ao pagamento imediato de uma multa no valor de metade de unidade de conta, salvo alegação e prova de justo impedimento, nos termos previstos no artigo 146.º do Código de Processo Civil.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20
+
+> Alterado pelo/a Artigo 133.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 303/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2007-640911), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15
+
+> Retificado pelo/a [Declaração de Rectificação n.º 26/2004 - Diário da República n.º 46/2004, Série I-A de 2004-02-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2004-569313), produz efeitos a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 324/2003 - Diário da República n.º 298/2003, Série I-A de 2003-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 32/2003 - Diário da República n.º 40/2003, Série I-A de 2003-02-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2003-189484), em vigor a partir de 2003-03-20
+
+> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01
+
+###### Artigo 20.º — Documento comprovativo do pagamento da taxa de justiça
+
+Na falta de junção do documento comprovativo do pagamento da taxa de justiça, é desentranhada a respectiva peça processual.
+
+> Nota: [Acórdão do Tribunal Constitucional n.º 760/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/760-2013-503838) Declara a inconstitucionalidade do art. 20.º do presente artigo, quando interpretado no sentido de que o "não pagamento da taxa de justiça devida pelo réu, na sequência da notificação da distribuição do procedimento de injunção em tribunal judicial para continuar a ser tramitado como ação declarativa especial, constitui causa de desentranhamento liminar da oposição à injunção sem se conceder ao réu as opções previstas no artigo 486.º-A do Código de Processo Civil
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20
+
+###### Artigo 21.º — Execução fundada em injunção
+
+1 - A execução fundada em requerimento de injunção segue, com as necessárias adaptações, a forma de processo comum.
+
+2 - A execução tem como limites as importâncias a que se refere a alínea d) do artigo 13.º
+
+3 - Revertem, em partes iguais, para o exequente e para o Instituto de Gestão Financeira e das Infra-Estruturas da Justiça, I. P., os juros que acrescem aos juros de mora.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15
+
+###### Artigo 22.º — Forma de entrega do requerimento e modelo de carta registada
+
+1 - Mediante portaria do Ministro da Justiça, podem ser aprovadas outras formas de entrega do requerimento para além das previstas no artigo 9.º
+
+2 - Por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Justiça, pode ser aprovado modelo próprio de carta registada com aviso de recepção para o efeito do n.º 1 do artigo 12.º, nos casos em que o volume de serviço o justifique.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2005 - Diário da República n.º 125/2005, Série I-A de 2005-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745), em vigor a partir de 2005-09-15

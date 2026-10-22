@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1050874166:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2026-1051076680",
+ "dre_path": "/dr/detalhe/decreto-lei/40-b-2026-1050874166",
+ "source_lastmod": "2026-08-18",
+ "versions": [
+  {
+   "date": "2026-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154275219:por",
+     "title": "Decreto-Lei n.º 162/2026",
+     "published": "2026-08-04",
+     "dre_path": "/dr/detalhe/decreto-lei/162-2026-1154275219"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "1051092475",
+    "1051092675",
+    "1051092875",
+    "1154813475",
+    "1154813775",
+    "1154813975",
+    "1154814075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1051092475": {
+   "fragment_id": "1051092375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No seguimento dos nefastos danos causados pela tempestade «Kristin», através da Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, foi declarada a situação de calamidade, até às 23h59 do dia 1 de fevereiro de 2026, a um conjunto de concelhos do país especialmente afetados, dentro da zona de impacto da ciclogénese explosiva. Através da Resolução do Conselho de Ministros n.º 15-C/2026, de 1 de fevereiro, e da Resolução do Conselho de Ministros n.º 24-A/2026, de 5 de fevereiro, a situação de calamidade foi, entretanto, prorrogada até às 23h59 do dia 15 de fevereiro de 2026, tendo ainda sido alargada a um conjunto adicional de concelhos, em razão da ocorrência ou do risco elevado de ocorrência de cheias graves.\n\nNo quadro das resoluções referidas, foram estabelecidas algumas medidas excecionais, bem como definidos apoios a atribuir às populações afetadas, considerando o XXV Governo Constitucional necessário, em razão da extensão e gravidade da situação que se verifica, alargar o referido conjunto de medidas e apoios.\n\nNeste contexto, justifica-se a adoção de medidas excecionais e temporárias, orientadas para o apoio à mobilidade nas zonas mais afetadas, através da aplicação de um regime temporário de isenção do pagamento de taxas de portagem.\n\nConsiderando o momento de calamidade e a situação vivida pelas populações afetadas, as concessionárias que detêm a receita de portagem das autoestradas da zona afetada - a Autoestradas do Atlântico Concessões Rodoviárias de Portugal, S. A., a Brisa Concessão Rodoviária, S. A., a Brisal Autoestradas do Litoral, S. A., e a Infraestruturas de Portugal, S. A. -, assumem uma parte do custo resultante da adoção da presente medida, que reflete um esforço nacional.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1051092675": {
+   "fragment_id": "1051092575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à criação de um regime excecional e temporário, no quadro da situação de calamidade declarada pela Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, e prorrogada pela Resolução do Conselho de Ministros n.º 15-C/2026, de 1 de fevereiro, e pela Resolução do Conselho de Ministros n.º 24-A/2026, de 5 de fevereiro, de isenção do pagamento das taxas de portagem cobradas aos utilizadores de um conjunto de autoestradas situadas em zonas do território nacional afetadas pela tempestade «Kristin»."
+  },
+  "1051092875": {
+   "fragment_id": "1051092775",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional e temporário de isenção de taxas de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excecional e temporário de isenção de taxas de portagem\n\n1 - Estão isentos do pagamento de taxas de portagem os veículos cuja circulação tenha como origem ou destino os seguintes nós de autoestrada:\n\na) A8: entre o nó de Valado de Frades e o nó de Leiria Nascente (COL);\n\nb) A17: entre o nó da A8 e o nó de Mira;\n\nc) A14: entre Santa Eulália e o nó de Ança;\n\nd) A19: entre o nó de Azoia e o nó de São Jorge;\n\n2 - Os veículos que atravessem as autoestradas para além dos nós referidos no número anterior não estão abrangidos pela isenção."
+  },
+  "1154813475": {
+   "fragment_id": "1051092975",
+   "type": 11,
+   "heading": "Artigo 3.º — Impacto financeiro",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2026-1154275219), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-02-04."
+   ],
+   "markdown": "###### Artigo 3.º — Impacto financeiro\n\n1 - O impacto financeiro resultante da aplicação do regime previsto no artigo anterior é suportado conjuntamente pelo Estado e pelas concessionárias titulares das receitas de portagem dos troços de autoestrada identificados no n.º 1 do artigo anterior, cabendo a estas suportar 30 % do custo total da presente isenção.\n\n2 - Os encargos resultantes dos pagamentos devidos às concessionárias resultantes da atribuição da isenção de portagens a cargo do Estado são suportados diretamente pelo Orçamento do Estado, a processar pela Entidade do Tesouro e Finanças (ETF).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2026-1154275219), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-02-04."
+  },
+  "1154813775": {
+   "fragment_id": "1154813675",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Apuramento e pagamento",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 162/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2026-1154275219), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-02-04."
+   ],
+   "markdown": "###### Artigo 3.º-A — Apuramento e pagamento\n\n1 - As concessionárias afetadas procedem, após o final do período abrangido pela isenção, e até 210 dias depois dessa data, ao apuramento do valor do pagamento a realizar pelo Estado, remetendo esta informação juntamente com o respetivo suporte documental e a fatura respetiva à Infraestruturas de Portugal, S. A. (IP, S. A.).\n\n2 - A IP, S. A., remete a informação das concessionárias referida no número anterior, juntamente com a informação dos valores que lhe são devidos, à ETF, solicitando o respetivo reembolso.\n\n3 - A ETF transfere para a IP, S. A., os valores a pagar, no prazo de 30 dias a partir da comunicação prevista no número anterior.\n\n4 - A IP, S. A., depois de receber os valores transferidos pela ETF, procede, em nome do Estado, ao pagamento das faturas das concessionárias, no prazo máximo de 10 dias úteis, e arrecada a parte que lhe correspondente.\n\n5 - Cabe à Inspeção-Geral de Finanças fiscalizar o apuramento dos valores mencionados nos números anteriores, estando tais apuramentos, bem como os correspondentes pagamentos efetuados às concessionárias, sujeitos a auditoria e aos eventuais acertos daí resultantes.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 162/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2026-1154275219), em vigor a partir de 2026-08-05, com efeitos a partir de 2026-02-04."
+  },
+  "1154813975": {
+   "fragment_id": "1051093175",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos entre as 00h00 do dia 4 de fevereiro de 2026 e as 24h do dia 15 de fevereiro de 2026."
+  },
+  "1154814075": {
+   "fragment_id": "1051093375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.\n\nPromulgado em 12 de fevereiro de 2026.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de fevereiro de 2026.\n\nO Primeiro-Ministro, Luís Montenegro."
+  }
+ }
+}

@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:279792:por
+title: Portaria n.º 75/2011
+short_title: null
+summary: Primeira alteração à Portaria n.º 1358/2007, de 15 de Outubro, que define a composição e funcionamento das equipas
+  de intervenção permanente dos corpos de bombeiros detidos por associações humanitárias de bombeiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 75/2011
+official_date: null
+publication_date: '2011-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/2011, Série I de 2011-02-15
+  number: '32'
+  series: I
+  supplement: null
+  pages: 813 - 814
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/02/03200/0081300814.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/75/2011/02/15/p/dre/pt/html
+  oj: null
+  dre: '279792'
+  dre_path: /dr/detalhe/portaria/75-2011-279792
+  internal: pt:dre:279792:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792
+  metadata_url: https://data.dre.pt/eli/port/75/2011/02/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-12-29T00:00:00Z'
+integrity:
+  source_sha256: 7b2a01f933f120b84a34d61e5206ca9d6b9c1e071c378fa663131f050dab44c3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-75-279792.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação Humanitária dos Bombeiros Voluntários
+- Financiamento
+- Definição de Competências
+- Direcção Nacional de Bombeiros
+- Recrutamento de Pessoal
+- Bombeiro
+- Câmara Municipal
+- Remuneração
+- Autoridade Nacional de Protecção Civil
+relationships:
+- type: amended_by
+  target: pt:dre:176714556:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1358/2007/10/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1358/2007/10/15/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 75/2011
+
+de 15 de Fevereiro
+
+A [Portaria n.º 1358/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1358-2007-641436), de 15 de Outubro, veio regular os procedimentos a adoptar na criação, nos corpos de bombeiros detidos por associações humanitárias, de equipas de intervenção permanente (EIP) constituídas ao abrigo do disposto no n.º 5 do artigo 17.º do [Decreto-Lei n.º 247/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2007-635841), de 27 de Junho. Decorridos três anos sobre a vigência dos primeiros protocolos celebrados entre a Autoridade Nacional de Protecção Civil, câmaras municipais e associações humanitárias, importa consolidar o modelo, que se relevou adequado, garantindo prontidão na resposta às ocorrências que impliquem intervenções de socorro às populações e de defesa dos seus bens, designadamente em caso de incêndio, inundações, desabamentos, abalroamentos, naufrágios, ou outras intervenções no âmbito da protecção civil. O Programa do XVIII Governo reafirma o objectivo de apoio à criação de equipas de intervenção permanente, sendo clara a determinação fixada no n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2010, já citado, no sentido de manter tais equipas «nos municípios em que se justifique», associando a sua existência e continuidade às necessidades do serviço operacional. Assim, importa introduzir alguns ajustamentos à [Portaria n.º 1358/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1358-2007-641436), de 15 de Outubro, no sentido de permitir às associações humanitárias de bombeiros manter os elementos contratados para integrar as EIP para além do período de três anos previsto no n.º 1 do artigo 7.º daquela portaria.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Liga dos Bombeiros Portugueses.
+
+Assim:
+
+Ao abrigo do disposto no n.º 5 do artigo 17.º do [Decreto-Lei n.º 247/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2007-635841), de 27 de Junho:
+
+Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
+
+###### Artigo 1.º — Alteração à [Portaria n.º 1358/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1358-2007-641436), de 15 de Outubro
+
+O artigo 7.º da [Portaria n.º 1358/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1358-2007-641436), de 15 de Outubro, passa a ter a seguinte redacção:
+
+«Artigo 7.º
+
+[...]
+
+1 - Os candidatos seleccionados para integrarem as EIP celebrarão com a entidade detentora a que pertencem um contrato individual de trabalho.
+
+2 - A remuneração destes elementos é a que vier a ficar determinada no protocolo a que se refere o n.º 1 do artigo 7.º-A.
+
+3 - No caso de denúncia do protocolo nos termos do n.º 3 do artigo 7.º-A, a entidade denunciante assume todos os encargos decorrentes da cessação dos contratos de trabalho dos elementos que integram a EIP.»
+
+###### Artigo 2.º — Aditamento do artigo 7.º-A
+
+À [Portaria n.º 1358/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1358-2007-641436), de 15 de Outubro, é aditado o artigo 7.º-A, o qual tem a seguinte redacção:
+
+«Artigo 7.º-A
+
+Protocolo
+
+1 - Sem prejuízo do disposto na presente portaria, as condições de contratação e funcionamento da EIP são estabelecidas em protocolo a subscrever entre a Autoridade Nacional de Protecção Civil, a respectiva câmara municipal e a associação humanitária de bombeiros.
+
+2 - O protocolo previsto no número anterior vigorará por um período de três anos, renovável automática e sucessivamente por igual período, sem prejuízo do disposto no número seguinte.
+
+3 - As entidades subscritoras podem denunciar o protocolo previsto no n.º 1, com a antecedência mínima de 60 dias sobre o final da sua vigência ou de qualquer uma das suas renovações.»
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Administração Interna, Vasco Seixas Duarte Franco, Secretário de Estado da Protecção Civil, em 8 de Fevereiro de 2011.

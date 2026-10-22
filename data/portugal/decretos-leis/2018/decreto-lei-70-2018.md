@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:116237018:por
+title: Decreto-Lei n.º 70/2018
+short_title: null
+summary: Estabelece as medidas excecionais de contratação pública por ajuste direto relacionadas com os danos causados pelos
+  incêndios florestais ocorridos em agosto de 2018 nos concelhos de Monchique, Silves, Portimão e Odemira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Adjunto
+official_number: 70/2018
+official_date: null
+publication_date: '2018-08-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2018, Série I de 2018-08-30
+  number: '167'
+  series: I
+  supplement: null
+  pages: 4391 - 4392
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16700/0439104392.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/70/2018/08/30/p/dre/pt/html
+  oj: null
+  dre: '116237018'
+  dre_path: /dr/detalhe/decreto-lei/70-2018-116237018
+  internal: pt:dre:116237018:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2018-116237018
+  metadata_url: https://data.dre.pt/eli/dec-lei/70/2018/08/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2018-116237018
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-08-30T00:00:00Z'
+integrity:
+  source_sha256: 0806a7ebfed3c7e03ba9632a1d4ed62379cdfd9fb38d7734ad47718b6ca227cb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2018/DRE-2018-70-116237018.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjudicação de Obras Públicas
+- Ajuste Direto
+- BENS Imóveis
+- Aquisição de Bens e Serviços
+- Incêndio
+- Autorização de Despesas
+- BEM Móvel
+- Contrato Administrativo
+- Contrato de Prestação de Serviços
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Algarve
+- Locação Financeira
+- Monchique
+- Odemira
+- Portimão
+- Silves
+- Contratação Pública
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/33/2018/05/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/33/2018/05/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 70/2018
+
+de 30 de agosto
+
+No dia 3 de agosto de 2018 deflagrou um incêndio de grandes dimensões que veio a afetar com gravidade os concelhos de Monchique, Silves, Portimão e Odemira, causando danos e prejuízos consideráveis em habitações, explorações agrícolas, empreendimentos turísticos, estruturas camarárias e em áreas florestais.
+
+O Governo entende que este incêndio florestal configura uma situação excecional que exige a aplicação de medidas extraordinárias, considerando como prioritário o apoio à recuperação imediata das infraestruturas, dos equipamentos e dos bens localizados nas áreas afetadas, cuja recuperação seja essencial à vida das populações ou cuja reposição do funcionamento revista caráter urgente e inadiável, nomeadamente nos domínios das comunicações, circulação, energia e abastecimento de água.
+
+Tendo em consideração a urgência na execução da recuperação da região afetada, torna-se necessário adotar um regime excecional de contratação de empreitadas de obras públicas, de locação ou aquisição de bens e de aquisição de serviços que concilie a celeridade procedimental exigida pela gravidade dos danos causados, com a defesa dos interesses do Estado e a rigorosa transparência nos gastos públicos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente decreto-lei estabelece as medidas excecionais de contratação pública aplicáveis aos procedimentos de ajuste direto destinados à formação de contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços relacionados com os danos causados pelo incêndio florestal que teve início no dia 3 de agosto de 2018, nos concelhos de Monchique, Silves, Portimão e Odemira.
+
+2 - Os procedimentos de contratação pública adotados ao abrigo das medidas excecionais previstas neste artigo são aplicáveis às intervenções necessárias à recuperação dos danos causados nas áreas afetadas pelo incêndio florestal.
+
+3 - As medidas excecionais, visando exclusivamente prosseguir as finalidades previstas no número anterior, são aplicáveis aos procedimentos de contratação pública da responsabilidade:
+
+a) Da administração direta e indireta do Estado, incluindo o setor público empresarial, com respeito pelo disposto no n.º 1 do artigo 4.º;
+
+b) Dos municípios afetados pelos incêndios que atingiram os concelhos de Monchique, Silves, Portimão e Odemira com início no passado dia 3 de agosto de 2018.
+
+###### Artigo 2.º — Regime dos procedimentos de ajuste direto
+
+Para efeitos de escolha do procedimento de ajuste direto nos termos do n.º 1 do artigo anterior para a celebração de contratos de empreitada de obras públicas, de contratos de locação ou aquisição de bens móveis e de aquisição de serviços, independentemente da natureza da entidade adjudicante, aplica-se o disposto na alínea c) do n.º 1 do artigo 24.º do Código dos Contratos Públicos (CCP), aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, na medida do estritamente necessário e por motivos de urgência imperiosa.
+
+###### Artigo 3.º — Escolha das entidades convidadas
+
+1 - Para efeitos de aplicação do artigo 112.º do CCP, nos procedimentos de ajuste direto adotados ao abrigo do regime estabelecido no artigo anterior, deve a entidade adjudicante convidar pelo menos três entidades distintas para apresentação de propostas.
+
+2 - Aos procedimentos abrangidos pelo presente decreto-lei não se aplicam as limitações constantes dos n.os 2 a 5 do artigo 113.º do CCP.
+
+###### Artigo 4.º — Regime excecional de autorização da despesa
+
+1 - Compete ao membro do Governo responsável pela área das finanças reconhecer, mediante parecer favorável a emitir no prazo de 10 dias, que determinada entidade, serviço ou organismo da administração do Estado prossegue as finalidades identificadas no artigo 1.º, por forma a beneficiar do regime excecional de autorização da despesa previsto no presente artigo.
+
+2 - O reconhecimento considera-se atribuído ao fim de 10 dias, na falta do parecer referido no número anterior.
+
+3 - Às aquisições realizadas ao abrigo do presente decreto-lei aplicam-se, a título excecional, as seguintes regras de autorização de despesa:
+
+a) Os pedidos resultantes da aplicação das regras constantes do artigo 58.º da [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, consideram-se tacitamente deferidos 10 dias após remessa para a respetiva entidade pública com competência para os autorizar;
+
+b) Entendem-se fundamentadas as aquisições realizadas no âmbito do presente decreto-lei para efeito do disposto nos n.os 3 e 5 do artigo 58.º da [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro;
+
+c) As despesas plurianuais que resultam do presente decreto-lei consideram-se tacitamente deferidas após apresentação de portaria de extensão de encargos junto do Ministério das Finanças, desde que sob o mesmo não recaia despacho de indeferimento no prazo de 10 dias, competindo ao Ministério das Finanças os normais procedimentos de publicação;
+
+d) As alterações orçamentais, não incluindo as que envolvam descativos que se encontram abrangidas pela alínea seguinte, que envolvam reforço, por contrapartida de outras rubricas de despesa efetiva excluindo despesas com pessoal, do agrupamento 02 a que se refere a alínea f) do artigo 9.º do [Decreto-Lei n.º 33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, são autorizadas pelo membro do Governo responsável pela respetiva área setorial;
+
+e) Nos casos devidamente justificados, quando seja necessária a descativação de verbas para o cumprimento dos objetivos do presente decreto-lei, as mesmas consideram-se tacitamente deferidas 10 dias após a respetiva apresentação do pedido.
+
+###### Artigo 5.º — Regime excecional de autorização administrativa
+
+Às aquisições realizadas ao abrigo do presente decreto-lei pelos órgãos, serviços e entidades da administração do Estado aplicam-se, a título excecional, as seguintes regras de autorização administrativa:
+
+a) A decisão de contratar a aquisição de serviços cujo objeto sejam estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer trabalhos especializados é da competência do membro do Governo responsável pela respetiva área setorial, dispensando-se os requisitos constantes do n.º 2 do artigo 59.º da [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro;
+
+b) Os pareceres necessários à decisão de contratar consideram-se tacitamente deferidos 10 dias após a sua receção pela respetiva entidade administrativa com competência para o efeito, quando a mesma não se oponha.
+
+###### Artigo 6.º — Aplicação subsidiária do Código dos Contratos Públicos
+
+Em tudo o que não esteja especialmente previsto no presente decreto-lei, é aplicável subsidiariamente o disposto no CCP.
+
+###### Artigo 7.º — Produção de efeitos e vigência
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2019.
+
+Visto e aprovado em Conselho de Ministros de 23 de agosto de 2018. - António Luís Santos da Costa - Ricardo Emanuel Martins Mourinho Félix - Pedro Siza Vieira - Pedro Manuel Dias de Jesus Marques.
+
+**Promulgado em 28 de agosto de 2018.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 29 de agosto de 2018.**
+
+Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.

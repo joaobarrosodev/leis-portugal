@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:376868:por
+title: Decreto Regulamentar n.º 87/82
+short_title: null
+summary: Regulamenta as condições em que se efectua o controle da condução sob a influência do álcool
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministérios da Administração Interna, da Justiça, dos Assuntos Sociais e da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 87/82
+official_date: null
+publication_date: '1982-11-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 268/1982, Série I de 1982-11-19
+  number: '268'
+  series: I
+  supplement: null
+  pages: 3878 - 3879
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/11/26800/38783879.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '376868'
+  dre_path: /dr/detalhe/decreto-regulamentar/87-1982-376868
+  internal: pt:dre:376868:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1982-376868
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1982-376868
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-05-14T00:00:00Z'
+integrity:
+  source_sha256: 6f39e15a7eae51c64af0f04fd8c389d13a759594850696c4df50b69b57ce815c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-87-376868.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:571417:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 87/82
+
+de 19 de Novembro
+
+Tornando-se necessário desenvolver os princípios gerais do regime jurídico da condução sob influência do álcool, contidos na [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490), de 29 de Março:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - A detecção da presença de álcool no sangue pode ser feita por meio de analisadores qualitativos ou quantitativos de ar expirado.
+
+2 - A determinação da taxa de álcool é feita por meio de analisador quantitativo de ar expirado ou por métodos biológicos.
+
+3 - Os métodos biológicos são, fundamentalmente, análises de sangue ou de urina.
+
+###### Art. 2.º - 1 - Quando o agente da autoridade utilizar o analisador qualitativo e os resultados forem positivos, deve submeter o suspeito, no prazo máximo de 2 horas, ao analisador quantitativo, a fim de determinar a taxa de álcool.
+
+2 - O recurso aos métodos biológicos impõe que se recolha o mais rapidamente possível a amostra a analisar.
+
+###### Art. 3.º Para garantir a eficácia técnica de detecção da presença de álcool no sangue pode o agente da autoridade, sempre que suspeite de utilização de meios susceptíveis de alterar momentaneamente o resultado do exame, reter, até ao limite máximo de tempo de 30 minutos, o suspeito, a fim de o submeter aos exames tidos por convenientes.
+
+###### Art. 4.º - 1 - Para a colheita de sangue é utilizado material adequado, fornecido pelo agente da autoridade.
+
+2 - O sangue colhido deve ser vazado em 2 recipientes adequados, que, depois de devidamente selados e referenciados, com aposição da hora da colheita, das assinaturas do dador, do agente da autoridade e do responsável pela colheita, devem ser entregues ao agente da autoridade.
+
+3 - A entidade fiscalizadora deve enviar a laboratório autorizado, o mais rapidamente possível, nunca ultrapassando o prazo de 24 horas, as amostras, que se destinam uma à contraprova e a outra a eventual recurso.
+
+4 - As amostras devem ser conservadas à temperatura de cerca de 4ºC, de modo a possibilitar em boas condições quer a contraprova quer eventual recurso.
+
+5 - O disposto nos números anteriores deste artigo aplica-se, com as devidas adaptações, às análises de urina eventualmente feitas ao abrigo do n.º 3 do artigo 4.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490), de 29 de Março.
+
+###### Art. 5.º - 1 - O pagamento voluntário das multas constantes da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490) é feito sempre pelo mínimo e nos termos do disposto no n.º 1 do artigo 70.º do Código da Estrada.
+
+2 - O suspeito, ao requerer a contraprova, tem de entregar, contra recibo, ao agente da autoridade, 5000$00, para pagamento dos exames a realizar para determinar o estado de influenciado pelo álcool.
+
+3 - Outras despesas e prejuízos, designadamente os previstos no n.º 5 do artigo 9.º deste diploma, serão liquidados, contra recibo, em qualquer posto policial, conjuntamente com a multa.
+
+4 - Na decisão judicial por qualquer das contravenções previstas no artigo 7.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490), o tribunal terá em conta, sempre que for o caso, o constante do n.º 3 deste artigo.
+
+###### Art. 6.º Os resultados laboratoriais e os relatórios dos exames feitos nos termos do n.º 3 do artigo 4.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490), quando os houver, devem acompanhar sempre o auto de notícia, para os efeitos do artigo 9.º da mesma lei.
+
+###### Art. 7.º - 1 - Sem prejuízo do previsto no n.º 1 do artigo 6.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490), o laboratório deve enviar à entidade fiscalizadora, no prazo de 72 horas, os resultados dos exames.
+
+2 - Para efeitos do disposto no n.º 2 do artigo 6.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490), o recorrente deve entregar no laboratório escolhido a notificação e este requisitar ao laboratório que procedeu ao exame relativo à contraprova o duplicado da amostra.
+
+3 - O laboratório de recurso deve, no prazo de 72 horas, dar conhecimento do resultado do exame, quer ao recorrente, quer à entidade fiscalizadora a que pertença o agente autuante.
+
+###### Art. 8.º Os aparelhos utilizados na detecção e determinação de álcool no ar expirado devem ser aprovados nos termos e para os efeitos do disposto no n.º 5 do artigo 64.º do Código da Estrada.
+
+###### Art. 9.º - 1 - O impedimento referido nos n.os 2 e 3 do artgo 2.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490) implica que da guia de substituição, passada por motivo da apreensão da licença de condução pelas autoridades com competência para fiscalizar o trânsito ou seus agentes e válida pelo tempo julgado necessário para a regularização do assunto e renovável, quando ocorra motivo justificado, conste que só pode ser reiniciada a condução 12 horas após a ocorrência, salvo se, entretanto, do exame requerido pelo condutor se provar a inexistência de qualquer suspeita de influência de álcool.
+
+2 - O referido impedimento implica também a imobilização do veículo, salvo se a sua condução puder ser assegurada, em condições de segurança, por condutor legalmente habilitado para o efeito.
+
+3 - O agente da autoridade que tiver determinado a imobilização do veículo deve providenciar para que o mesmo fique estacionado de acordo com a lei.
+
+4 - Nas auto-estradas, o veículo imobilizado poderá ser arrumado na berma, sendo devidamente sinalizado nos termos que o agente da autoridade indicar.
+
+5 - Todos os prejuízos e despesas derivados da imobilização do veículo são sempre da responsabilidade do influenciado pelo álcool.
+
+6 - Em nenhum caso, porém, o condutor submetido a exame de ar expirado que apresente resultados positivos poderá continuar a conduzir qualquer veículo, ainda que seja para o arrumar convenientemente, enquanto durar o impedimento previsto nos n.os 2 e 3 do artigo 2.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490).
+
+7 - O exame a que faz referência o n.º 2 do artigo 2.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490) só pode ser requerido pelo condutor 4 horas após o exame de pesquisa de álcool no ar expirado; se os resultados deste ainda forem positivos, o condutor poderá requerer novos exames, de 2 em 2 horas, até que se verifique a inexistência de qualquer suspeita de influência de álcool.
+
+###### Art. 10.º - 1 - A reabilitação referida no n.º 1 do artigo 10.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490) consegue-se quando o alcoólico habitual provar, em tribunal, que se encontra curado.
+
+2 - As entidades indicadas no n.º 2 do artigo 10.º da [Lei n.º 3/82](https://diariodarepublica.pt/dr/detalhe/lei/3-1982-608490), para além das conclusões periciais, devem, quando a soma dos períodos de inibição de conduzir perfizer 90 ou mais dias, num período de 2 anos, a contar da data de aplicação de qualquer das sanções previstas no n.º 1 do artigo 7.º da mesma lei, requerer a inibição da faculdade de conduzir aplicável aos alcoólicos habituais.
+
+###### Art. 11.º São determinados através de portaria conjunta dos Ministros da Administração Interna, da Justiça, dos Assuntos Sociais e da Habitação, Obras Públicas e Transportes:
+
+a) Os métodos a utilizar para a determinação do doseamento do álcool no sangue;
+
+b) O modelo de impresso a utilizar no exame directo;
+
+c) As tabelas dos preços dos exames realizados;
+
+d) Os laboratórios que poderão efectuar a análise do sangue.
+
+Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia - José Manuel Meneres Sampaio Pimentel - Luís Eduardo da Silva Barbosa - José Carlos Pinto Soromenho Viana Baptista.
+
+**Promulgado em 9 de Novembro de 1982.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

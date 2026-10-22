@@ -1,0 +1,323 @@
+---
+schema_version: '1.0'
+id: pt:dre:546846:por
+title: Portaria n.º 1078/95
+short_title: null
+summary: Autoriza o funcionamento do curso de estudos superiores especializados em Ciências da Informação no Instituto Superior
+  de Tecnologias Avançadas - ISTEC, em Lisboa, conferente de diploma de estudos superiores especializados, e regulamenta as
+  respectivas condições de acesso
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 1078/95
+official_date: null
+publication_date: '1995-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/1995, Série I-B de 1995-09-01
+  number: '202'
+  series: I
+  supplement: null
+  pages: 5531 - 5534
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/09/202b00/55315534.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1078/1995/09/01/p/dre/pt/html
+  oj: null
+  dre: '546846'
+  dre_path: /dr/detalhe/portaria/1078-1995-546846
+  internal: pt:dre:546846:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1995-546846
+  metadata_url: https://data.dre.pt/eli/port/1078/1995/09/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1995-546846
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-09-01T00:00:00Z'
+integrity:
+  source_sha256: 6508cba58b0cbdae83e92833d96cb6510e9bb559be96af93f648b3142c571915
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-1078-546846.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano de Estudos
+- Curso de Estudos Superiores Especializados em Ciências da Informação
+- Ensino Particular
+- Lisboa
+- Instituto Superior de Tecnologias Avançadas
+- Licenciatura
+- Numerus Clausus
+- Ensino Superior
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1078/95
+
+de 1 de Setembro
+
+A requerimento do ITA - Instituto de Tecnologias Avançadas para a Formação, Lda., entidade titular do Instituto Superior de Tecnologias Avançadas - ISTEC, em Lisboa, reconhecido pela [Portaria n.º 990/89](https://diariodarepublica.pt/dr/detalhe/portaria/990-1989-549806), de 16 de Novembro;
+
+Instruído e organizado o respectivo processo em conformidade com o preceituado no n.º 1 do artigo 57.º e nos n.os 1 e 2 do artigo 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro;
+
+Tendo em consideração os critérios estabelecidos para a apreciação dos pedidos de autorização de funcionamento de cursos de estudos superiores especializados;
+
+Considerando o disposto no artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo);
+
+Em cumprimento do determinado no artigo 30.º do Estatuto acima referido;
+
+Nos termos do artigo 64.º do mesmo Estatuto:
+
+Manda o Governo, pela Ministra da Educação, o seguinte:
+
+1.º
+
+Criação
+
+É autorizado o funcionamento do curso de estudos superiores especializados em Ciências da Informação no Instituto Superior de Tecnologias Avançadas - ISTEC, em Lisboa, com o reconhecimento do diploma de estudos superiores especializados pela conclusão do curso.
+
+2.º
+
+Objectivo
+
+O curso de estudos superiores especializados em Ciências da Informação, adiante designado por CESE, visa proporcionar uma formação especializada no domínio, concepção e implementação de sistemas de informação baseados em computador a diplomados com o grau mínimo de bacharel, com formação na área da Informática.
+
+3.º
+
+Habilitações de acesso
+
+1 - São habilitações de acesso ao CESE em Ciências da Informação, autorizado pelo presente diploma:
+
+a) Titularidade do grau de bacharel em Informática ([Portaria n.º 990/89](https://diariodarepublica.pt/dr/detalhe/portaria/990-1989-549806), de 16 de Novembro);
+
+b) Titularidade do grau de bacharel ou de licenciado na área de Informática;
+
+c) Titularidade do grau de bacharel ou de licenciado noutras áreas de conhecimento, desde que o respectivo currículo académico e profissional demonstre adequada preparação de base no domínio da arquitectura técnica e funcional dos computadores e das técnicas de linguagem de programação.
+
+2 - Os bacharéis e licenciados a que se referem as alíneas b) e c) do n.º 1 deverão ainda satisfazer uma das seguintes condições:
+
+a) Classificação mínima de Bom;
+
+b) Experiência profissional adquirida num período mínimo de dois anos.
+
+4.º
+
+Limitações quantitativas
+
+1 - A matrícula e inscrição no CESE está sujeita às limitações quantitativas que forem fixadas anualmente pelo Ministério da Educação, nas condições estabelecidas no n.º 2 do artigo 30.º do Estatuto do Ensino Superior Particular e Cooperativo.
+
+2 - Para o ano lectivo de 1994-1995 é fixado em 50 o número de vagas para a matrícula e inscrição no CESE.
+
+5.º
+
+Contingentes
+
+1 - As vagas fixadas nos termos do n.º 4.º distribuem-se pelos seguintes contingentes:
+
+a) Candidatos a que se refere a alínea a) do n.º 1 do n.º 3.º - 60%;
+
+b) Candidatos a que se referem as alíneas b) e c) do n.º 1 do n.º 3.º, com prioridade aos titulares do grau de bacharel - 40%.
+
+2 - As percentagens de vagas a afectar aos candidatos referidos no n.º 2 do n.º 3.º são as seguintes:
+
+a) Bacharéis nas condições previstas na alínea a) - 50%;
+
+b) Bacharéis nas condições previstas na alínea b) - 50%.
+
+3 - As vagas eventualmente não ocupadas de um contingente reverterão, se necessário, para outro contingente.
+
+4 - As vagas eventualmente sobrantes deste processo não serão utilizáveis para qualquer fim.
+
+6.º
+
+Concurso de acesso
+
+A selecção dos candidatos a admitir à matrícula e inscrição no CESE é feita através de concurso, válido apenas para o ano a que se diz respeito.
+
+7.º
+
+Candidatura
+
+1 - A candidatura à matrícula e inscrição deverá ser obrigatoriamente acompanhada de certidão comprovativa da titularidade do curso com que se candidata, donde conste a classificação final.
+
+2 - Os candidatos a que se referem as alíneas b) e c) do n.º 1 do n.º 3.º deverão ainda entregar currículo, eventualmente complementado pela documentação que considerem relevante para a apreciação respectiva.
+
+3 - Para efeitos de apreciação da condição estabelecida na alínea b) do n.º 2 do n.º 3.º, é exigida a apresentação de documento(s) comprovativo(s).
+
+8.º
+
+Selecção e seriação
+
+1 - As regras e critérios de selecção e seriação dos candidatos serão fixados pelo órgão directivo do ISTEC, sob proposta do conselho científico, e divulgados através de edital a afixar anualmente nas instalações do estabelecimento de ensino.
+
+2 - As regras a fixar poderão incluir a realização de provas de avaliação em domínios considerados necessários ao ingresso no CESE, bem como a realização de entrevistas.
+
+3 - Com vista a realizar as operações referentes ao processo de candidatura, poderá o órgão directivo do ISTEC, sob proposta do conselho científico, nomear um júri próprio.
+
+9.º
+
+Resultados da selecção e seriação
+
+Os resultados do processo de selecção e seriação serão tornados públicos através de afixação de edital nas instalações do ISTEC, donde conste, para cada contingente:
+
+a) A lista ordenada dos candidatos seleccionados, indicando os admitidos e não admitidos à matrícula e inscrição;
+
+b) A lista dos candidatos não seleccionados.
+
+10.º
+
+Reclamações
+
+1 - Do resultado final da candidatura, divulgado nos termos do n.º 9.º, poderão os candidatos apresentar reclamação, devidamente fundamentada, no prazo fixado nos termos do n.º 12.º da presente portaria.
+
+2 - As decisões sobre as reclamações são da competência do órgão directivo do ISTEC, ouvido o júri, quando aplicável.
+
+3 - Quando, na sequência do provimento de uma reclamação, um candidato não colocado venha a ficar situado na lista ordenada em posição de colocado, terá direito à colocação, mesmo que para tal seja necessário criar uma vaga adicional.
+
+4 - A rectificação da colocação abrange apenas o candidato cuja reclamação foi provida, não tendo qualquer efeito sobre os restantes.
+
+11.º
+
+Matrículas e inscrições
+
+1 - Os candidatos colocados deverão proceder à matrícula e inscrição no prazo fixado nos termos do n.º 12.º
+
+2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição ou não compareça a realizar a mesma, será convocado o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos do respectivo contingente.
+
+3 - A decisão de admissão apenas tem efeito para o semestre lectivo a que se refere.
+
+12.º
+
+Prazos
+
+Os prazos para a apresentação de candidaturas, selecção, afixação de listas, reclamações, matrícula e inscrição serão fixados anualmente pelo órgão directivo do ISTEC e objecto de afixação pública nas instalações do estabelecimento de ensino.
+
+13.º
+
+Plano de estudos
+
+O plano de estudos aprovados para o CESE em Ciências da Informação é publicado em anexo à presente portaria.
+
+14.º
+
+Duração
+
+1 - A duração do CESE é de quatro semestres, sendo lectivos os três primeiros e o quarto destinado à realização de trabalho de projecto.
+
+2 - As regras de funcionamento do 4.º semestre serão fixadas pelo conselho científico do ISTEC.
+
+15.º
+
+Regimes escolares
+
+Os regimes de inscrição (incluindo o de prescrição do direito de inscrição e o das condições de reingresso), frequência, avaliação de conhecimentos e transição de semestre, bem como o de precedências, serão fixados pelo ISTEC, através do seu órgão competente.
+
+16.º
+
+Classificação final do curso
+
+1 - A classificação final do CESE em Ciências da Informação será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas unidades curriculares que integram o plano de estudos, incluindo o trabalho de projecto.
+
+2 - Os coeficientes de ponderação serão aprovados pelos órgãos científico e pedagógico do ISTEC, de modo a assegurar a uniformidade de critérios entre os vários cursos.
+
+17.º
+
+Diploma de estudos superiores especializados
+
+Aos alunos aprovados em todas as unidades curriculares que integram o plano de estudos do CESE, incluindo o trabalho de projecto, será emitido de estudos superiores especializados em Ciências da Informação, com efeitos previstos no n.º 6 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.
+
+18.º
+
+Grau de licenciado
+
+1 - Aos titulares do diploma referido no número anterior que hajam ingressado no CESE com a habilitação referida na alínea a) do n.º 1 do n.º 3.º será conferido o grau de licenciado.
+
+2 - Quando for caso disso, nos termos do n.º 7 do artigo 13.º da [Lei n.º 14/86](https://diariodarepublica.pt/dr/detalhe/lei/14-1986-226980), de 14 de Outubro, aos titulares do diploma referido no n.º 17.º que hajam ingressado no CESE com um curso de bacharelato previsto na alínea b) do n.º 1 do n.º 3.º poderá ser conferido o grau de licenciado.
+
+3 - Para efeitos do disposto no número anterior, compete ao conselho científico do ISTEC verificar, caso a caso, da satisfação das condições impostas pelo citado n.º 7 do artigo 13.º da [Lei n.º 14/86](https://diariodarepublica.pt/dr/detalhe/lei/14-1986-226980).
+
+19.º
+
+Classificação do grau
+
+A classificação do grau de licenciado é a resultante do cálculo de expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
+
+(3B + 2D)/5
+
+em que:
+
+B é a classificação final do curso de bacharelato;
+
+D é a classificação final do CESE.
+
+20.º
+
+Mudança de curso e transferência
+
+Ao curso regulado pela presente portaria não são aplicáveis os regimes de mudança de curso e de transferência.
+
+21.º
+
+Início de funcionamento
+
+O CESE inicia o respectivo funcionamento no ano lectivo de 1994-1995, nas instalações afectas ao Instituto Superior de Tecnologias Avançadas - ISTEC, sitas na Avenida do Engenheiro Arantes e Oliveira, 3, rés-do-chão.
+
+22.º
+
+Correcções e adaptações
+
+A autorização e reconhecimento estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigatoriedade do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelos serviços competentes do Ministério da Educação, quer em função de pareceres especializados, quer no âmbito das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro.
+
+Ministério da Educação.
+
+**Assinada em 10 de Agosto de 1995.**
+
+Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
+
+## ANEXO — Instituto Superior de Tecnologias Avançadas - ISTEC
+
+Curso de estudos superiores especializados em Ciências da Informação
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/202b00/55315534.pdf))](https://files.diariodarepublica.pt/1s/1995/09/202b00/55315534.pdf)

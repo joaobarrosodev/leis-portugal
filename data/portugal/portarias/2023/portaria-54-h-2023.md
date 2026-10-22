@@ -1,0 +1,571 @@
+---
+schema_version: '1.0'
+id: pt:dre:207942902:por
+title: Portaria n.º 54-H/2023
+short_title: null
+summary: Estabelece as regras nacionais complementares da intervenção «Promoção e comunicação nos países terceiros» do domínio
+  «B.3 - Programa Nacional para apoio ao setor da vitivinicultura» do eixo «B - Abordagem sectorial integrada» do Plano Estratégico
+  da Política Agrícola Comum para Portugal (PEPAC Portugal)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 54-H/2023
+official_date: null
+publication_date: '2023-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
+  number: '41'
+  series: I
+  supplement: 1º Suplemento
+  pages: 332-(318) a 332-(326)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0031800326.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-26'
+version_history:
+  file: portaria-54-h-2023.versoes.json
+  count: 4
+  source_lastmod: '2026-08-25'
+  versions:
+  - date: '2023-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-01-03'
+    amending: pt:dre:901693816:por
+    amending_title: Portaria n.º 3/2025/1
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+  - date: '2026-04-29'
+    amending: pt:dre:1095232810:por
+    amending_title: Portaria n.º 203/2026/1
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+  - date: '2026-08-26'
+    amending: pt:dre:1161801441:por
+    amending_title: Portaria n.º 384/2026/1
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/54-h/2023/p/cons/20260428/pt/html
+  oj: null
+  dre: '207942902'
+  dre_path: /dr/detalhe/portaria/54-h-2023-207942902
+  internal: pt:dre:207942902:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-h-2023-207942902
+  metadata_url: https://data.dre.pt/eli/port/54-h/2023/p/cons/20260428/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-901965460
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-901965460
+  retrieved_at: '2026-10-22T13:50:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-25T00:00:00Z'
+integrity:
+  source_sha256: 50b1601226b33b4209854615700ddd278b81854167a8f2369de582c071cf8336
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:50:54Z'
+  notes: 4 versão(ões); histórico completo em portaria-54-h-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Regulamentação de Atos Legislativos
+- Fundos CE
+- IFAP
+- Apicultura
+- Regulamento CE
+- Subsídio
+- Plano Estratégico da Política Agrícola Comum de Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:901693816:por
+  label: Altera Artigo 14.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/3-2025-901693816
+  date: '2025-01-02'
+- type: amended_by
+  target: pt:dre:1095232810:por
+  label: Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/203-2026-1095232810
+  date: '2026-04-28'
+- type: amended_by
+  target: pt:dre:1161801441:por
+  label: Altera Artigo 9.º; Altera Artigo 20.º; Altera Artigo 22.º; Revoga Artigo 19.º; Revoga Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441
+  date: '2026-08-25'
+- type: cites
+  target: celex:32021R2115
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2115/oj
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2116/oj
+- type: cites
+  target: celex:32022R0126
+  label: null
+  source: http://data.europa.eu/eli/reg/2022/126/oj
+- type: cites
+  target: celex:32022R1475
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/94/2012/04/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94/2012/04/20/p/dre
+article_structure:
+  article_count: 24
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:50:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 54-H/2023
+
+Portaria n.º 54-H/2023
+
+de 27 de fevereiro
+
+Sumário: Estabelece as regras nacionais complementares da intervenção «Promoção e comunicação nos países terceiros» do domínio «B.3 - Programa Nacional para apoio ao setor da vitivinicultura» do eixo «B - Abordagem sectorial integrada» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal).
+
+A reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).
+
+O PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.
+
+O Plano Estratégico da Política Agrícola Comum de Portugal, «PEPAC Portugal», foi aprovado pela Comissão Europeia, através da Decisão da Comissão n.º C (2022) 6019, de 31 de agosto de 2022, vigorando no período de 2023-2027.
+
+Neste âmbito, a intervenção «B.3.2 - Promoção e comunicação nos países terceiros» do domínio «B.3 - Programa Nacional para apoio ao setor da vitivinicultura», do eixo «B - Abordagem setorial integrada», do PEPAC Portugal, cujo financiamento se encontra assegurado pelo FEAGA, tem como objetivo, no setor vitivinícola, melhorar a competitividade dos produtos vitivinícolas da União nos países terceiros, incluindo a abertura e diversificação dos mercados vitivinícolas, através de ações que promovam a visibilidade e notoriedade dos vinhos portugueses com Denominação de Origem (DO), com Indicação Geográfica (IG) ou com indicação de casta.
+
+Pela presente Portaria prevê-se o quadro normativo que institucionaliza e efetiva a intervenção setorial acima referida e identifica as entidades intervenientes e respetivas competências, designadamente, da autoridade de gestão nacional (AGN), o Gabinete de Planeamento, Políticas e Administração Geral (GPP), que nos termos do n.º 3 do artigo 56.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, mediante a celebração de acordo escrito, delega funções no Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), na qualidade de organismo intermédio, continuando a ser plenamente responsável pela eficiência e rigor da gestão e execução das funções em causa.
+
+Não obstante o pagamento das candidaturas aprovadas só poder ocorrer a partir de 16 de outubro de 2023, correspondendo ao início do exercício do ano orçamental do FEAGA, no quadro financeiro 2024-2027, prevê-se na presente Portaria, que as candidaturas à intervenção «Promoção e Comunicação nos Países Terceiros» possam vir a ser aprovadas a partir de 1 de janeiro de 2023, permitindo que a respetiva execução material possa ocorrer logo a partir dessa data.
+
+Assim:
+
+Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as regras nacionais complementares da intervenção «Promoção e comunicação nos países terceiro» do domínio «B.3 - Programa Nacional para apoio ao setor da vitivinicultura» do eixo «B - Abordagem setorial integrada» do Plano Estratégico da Política Agrícola Comum, para Portugal (PEPAC Portugal), nos termos do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, do Regulamento Delegado (UE) 2022/126, da Comissão e do Regulamento de Execução (UE) 2022/1475, da Comissão.
+
+###### Artigo 2.º — Âmbito
+
+O apoio previsto na presente portaria abrange as ações que visam a promoção de vinhos com «Denominação de Origem» (DO), vinhos com «Indicação Geográfica» (IG) e vinhos com indicação de casta, produzidos no território nacional e que se destinem ao consumo direto, as quais são as seguintes:
+
+a) Campanhas de relações públicas, de promoção ou de publicidade, que destaquem, designadamente as normas a que obedecem os produtos produzidos no território nacional, especialmente em termos de qualidade, segurança dos alimentos ou ambiente;
+
+b) Participação em eventos, feiras ou exposições de importância internacional;
+
+c) Campanhas de informação, especialmente sobre os regimes de qualidade da União Europeia relativos às denominações de origem, às indicações geográficas e à produção biológica;
+
+d) Estudos de novos mercados ou de mercados existentes, que sejam necessários para o aumento e a consolidação das saídas comerciais;
+
+e) Estudos de avaliação dos resultados das operações de informação e promoção;
+
+f) Preparação de dossiês técnicos, que incluam testes laboratoriais e avaliações, relativos às práticas enológicas, às regras fitossanitárias e de higiene, bem como a outros requisitos impostos por países terceiros para a importação de produtos do setor vitivinícola, a fim de evitar a limitação do acesso ou de permitir o acesso aos mercados desses países.
+
+###### Artigo 3.º — Beneficiários
+
+Podem ser beneficiários do apoio previsto na presente portaria, as seguintes entidades:
+
+a) Associações e organizações profissionais do setor do vinho;
+
+b) Empresas, grupos de empresas ou associações destas, de qualquer natureza e forma jurídica, desde que relacionadas com o setor do vinho;
+
+c) Organizações interprofissionais do setor do vinho;
+
+d) Organizações de produtores reconhecidas no setor do vinho;
+
+e) Organismos públicos diretamente relacionados com o setor do vinho, nos termos da regulamentação europeia aplicável.
+
+###### Artigo 4.º — Critérios de elegibilidade
+
+1 - Podem beneficiar do apoio previsto na presente portaria, os beneficiários que cumpram, cumulativamente, as seguintes condições:
+
+a) Estarem legalmente constituídos e terem sede, representação permanente ou estabelecimento estável no território nacional;
+
+b) Cumprirem as condições legais necessárias ao exercício da atividade no setor vitivinícola, nomeadamente, a inscrição no Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), ou na entidade competente das regiões autónomas;
+
+c) Não terem dívidas constituídas a favor do IVV, I. P. ou a entidade competente das regiões autónomas;
+
+d) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;
+
+e) Terem um sistema de contabilidade organizada, de acordo com o legalmente exigido.
+
+###### Artigo 5.º — Entidades competentes
+
+1 - Sem prejuízo das competências do Gabinete de Planeamento, Políticas e Administração Geral (GPP) relativamente à supervisão do exercício das funções de gestão dos apoios previstos na presente portaria e da respetiva gestão orçamental, compete ao IVV, I. P.:
+
+a) Proceder à abertura de concursos;
+
+b) Fixar as taxas de apoio;
+
+c) Definir, através de Orientação Técnica Específica (OTE), os requisitos da submissão, análise e decisão das candidaturas e pedidos de alteração;
+
+d) Avaliar, selecionar e decidir a aprovação, a aprovação com restrições ou limitações ou não aprovação das candidaturas submetidas;
+
+e) Analisar e decidir o pedido de alteração à candidatura apresentada pelos beneficiários;
+
+f) Comunicar aos candidatos a decisão relativa às candidaturas apresentadas e pedidos de alteração;
+
+g) Transmitir ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) a informação necessária à celebração do termo de aceitação com o beneficiário e proceder à divulgação dos elementos relativos às candidaturas aprovadas em cada concurso.
+
+2 - Compete ao IFAP, I. P.:
+
+a) Comunicar ao beneficiário a disponibilização do termo de aceitação para assinatura;
+
+b) Definir, através de OTE, os requisitos para instrução dos pedidos de pagamento e do controlo;
+
+c) Disponibilizar ao IVV, I. P. a informação relativa aos termos de aceitação;
+
+d) Proceder aos controlos administrativos e no local dos pedidos de pagamento, nos termos da regulamentação europeia aplicável;
+
+e) Analisar e decidir os pedidos de pagamentos apresentados;
+
+f) Efetuar o pagamento dos apoios.
+
+###### Artigo 6.º — Objetivos
+
+A intervenção prevista na presente portaria visa melhorar a competitividade dos produtos vitivinícolas nos países terceiros, incluindo a abertura e a diversificação dos mercados vinícolas.
+
+###### Artigo 7.º — Duração do apoio
+
+1 - A duração máxima do apoio por mercado é de um ano.
+
+2 - O apoio das ações de promoção e comunicação nos países terceiros é limitado à duração máxima de três anos prorrogável por duas vezes, não podendo ultrapassar uma duração máxima total de nove anos consecutivos por beneficiário e por mercado.
+
+3 - A duração máxima do apoio é contabilizada a partir do ano de pagamento e com base na última decisão proferida de aprovação da candidatura ou do pedido de alteração.
+
+> Nota: [Artigo 4.º, Portaria n.º 203/2026/1 - Diário da República n.º 82/2026, Série I de 2026-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/203-2026-1095232810) As alterações realizadas pela Portaria n.º 203/2026/1, de 28 de abril, aplicam-se às candidaturas no âmbito do Concurso n.º 1/2026 e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 203/2026/1 - Diário da República n.º 82/2026, Série I de 2026-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/203-2026-1095232810), em vigor a partir de 2026-04-29.
+
+###### Artigo 8.º — Duração do projeto
+
+1 - A duração máxima de um projeto é de um ano, cujas datas de início e de fim para a sua execução material e financeira são fixadas no aviso de abertura do respetivo concurso.
+
+2 - O apoio concedido incide sobre as despesas elegíveis diretamente relacionadas com a realização das ações aprovadas e executadas no período temporal fixado para a sua execução material, exceto nas situações definidas no aviso de abertura do concurso.
+
+###### Artigo 9.º — Obrigações dos beneficiários
+
+Os beneficiários do apoio previsto na presente portaria devem cumprir as seguintes obrigações:
+
+a) [Revogada];
+
+b) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;
+
+c) [Revogada];
+
+d) [Revogada];
+
+e) [Revogada];
+
+f) [Revogada];
+
+g) [Revogada];
+
+h) Garantir que todos os pagamentos e recebimentos referentes à candidatura são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto nas situações definidas em OTE;
+
+i) Cumprir as regras da contratação pública, caso o beneficiário seja uma entidade adjudicante, nos termos do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro ou cumprir as regras relativas ao Acordo da Contratação Publica da Organização Mundial de Comércio;
+
+j) Apresentar ao IFAP, I. P., juntamente com o pedido de pagamento, um relatório de execução final, que detalhe todas as ações desenvolvidas nos diversos mercados, datas, locais, objetivos e pessoas ou entidades envolvidas e presentes, no âmbito de todas as ações de promoção e comunicação nos países terceiros.
+
+> Nota: [Artigo 9.º, Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441) A revogação das alíneas a), c), d), e), f) e g) do presente artigo produz efeitos a 1 de janeiro de 2023.
+
+> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+###### Artigo 10.º — Forma, nível e limite do apoio
+
+1 - O apoio é concedido sob a forma de custos unitários, montantes fixos ou reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário.
+
+2 - [Revogado.]
+
+3 - O nível máximo de apoio da União Europeia pode ser majorado por fundos nacionais, conforme definido no aviso de abertura de cada concurso, em respeito pelas disposições legais da União Europeia aplicáveis em matéria de auxílios de Estado.
+
+4 - A comparticipação de fundos nacionais a que se reporta o número anterior resulta da disponibilidade orçamental proveniente das receitas geradas ao abrigo do disposto no Decreto-Lei n.º 94/2012, de 20 de abril, e não pode exceder:
+
+a) 30 % das despesas elegíveis para as micro, pequenas e médias empresas, ativas no setor vitivinícola, na aceção da Recomendação 2003/361/CE da Comissão, de 6 de maio;
+
+b) 20 % das despesas elegíveis para os restantes beneficiários.
+
+5 - Os níveis máximos do apoio da União Europeia e da comparticipação de fundos nacionais são definidos no aviso de abertura de cada concurso.
+
+6 - O disposto nos n.os 3 e 4 não se aplica às ações que visem a promoção de produtos com a DO "Porto" e produtos originários da Região Autónoma dos Açores, devendo estas ações ser apresentadas através de candidatura individualizada.
+
+> Nota: [Artigo 4.º, Portaria n.º 203/2026/1 - Diário da República n.º 82/2026, Série I de 2026-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/203-2026-1095232810) As alterações realizadas pela Portaria n.º 203/2026/1, de 28 de abril, aplicam-se às candidaturas no âmbito do Concurso n.º 1/2026 e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 203/2026/1 - Diário da República n.º 82/2026, Série I de 2026-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/203-2026-1095232810), em vigor a partir de 2026-04-29.
+
+###### Artigo 11.º — Despesas elegíveis e não elegíveis
+
+1 - São elegíveis, nomeadamente, as seguintes despesas:
+
+a) Arrendamento de espaços, aluguer de equipamentos, aquisição de material promocional e informativo e a contratação de serviços especializados;
+
+b) Contratação de serviços de comunicação;
+
+c) Viagens, alojamentos e despesas diárias;
+
+d) Transporte de bens e dos produtos promovidos e demais despesas acessórias;
+
+e) Criação, reestruturação ou tradução de portais eletrónicos;
+
+f) Custos administrativos;
+
+g) O imposto sobre o valor acrescentado (IVA) suportado e não recuperável, devidamente comprovado pelo contabilista certificado do beneficiário.
+
+2 - A elegibilidade da despesa no âmbito das ações é avaliada com base em tabelas de custos unitários, montantes fixos e valores máximos de referência, conforme definido em OTE.
+
+3 - Não são elegíveis as seguintes despesas:
+
+a) Valor dos vinhos consumidos nas ações de promoção;
+
+b) Aquisição de patentes, licenças, copyrights e registo de marcas coletivas;
+
+c) Descontos comerciais ou com efeito equivalente;
+
+d) Provisões a títulos de eventuais perdas ou dívidas futuras;
+
+e) Despesas bancárias, juros bancários e prémios de seguros;
+
+f) Perdas resultantes do câmbio de moedas;
+
+g) O IVA suportado e recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário.
+
+###### Artigo 12 — Abertura de concursos e submissão de candidaturas
+
+1 - O aviso de abertura é publicado anualmente e deve conter:
+
+a) O prazo para apresentação das candidaturas;
+
+b) Os objetivos e as prioridades constantes do anexo da presente portaria, da qual faz parte integrante, e respetivos critérios de desempate;
+
+c) Os mercados prioritários, as ações elegíveis e as rubricas de despesa não elegíveis;
+
+d) Os beneficiários, dentro dos listados no artigo 3.º;
+
+e) O prazo de execução material da candidatura aprovada;
+
+f) O período de elegibilidade da despesa, de acordo com o n.º 2 do artigo 8.º;
+
+g) O prazo para a decisão das candidaturas;
+
+h) A dotação orçamental disponível e as taxas de apoio;
+
+i) O prazo para a submissão do pedido de alteração;
+
+j) Os níveis máximos do apoio da União Europeia e da comparticipação de fundos nacionais.
+
+2 - No aviso de abertura podem, ainda, ser fixados montantes mínimos e máximos para o investimento elegível por candidatura e rubrica de despesa.
+
+3 - O aviso de abertura de concurso é divulgado no sítio da internet do IVV, I. P., em www.ivv.gov.pt e do IFAP, I. P., em www.ifap.pt.
+
+4 - As candidaturas, bem como todos os documentos necessários à sua formalização, são submetidas eletronicamente através do preenchimento de um formulário online constante da aplicação disponibilizada no sítio da internet do IVV, I. P.
+
+> Nota: [Artigo 4.º, Portaria n.º 203/2026/1 - Diário da República n.º 82/2026, Série I de 2026-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/203-2026-1095232810) As alterações realizadas pela Portaria n.º 203/2026/1, de 28 de abril, aplicam-se às candidaturas no âmbito do Concurso n.º 1/2026 e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a , em vigor a partir de 2026-04-29.
+
+###### Artigo 13.º — Processo de análise, seleção e decisão
+
+1 - As candidaturas são analisadas pelo IVV, I. P., de acordo com os critérios de elegibilidade definidos no artigo 4.º
+
+2 - O IVV, I. P. procede à hierarquização das candidaturas elegíveis com base na pontuação obtida, após a aplicação dos critérios de prioridade constantes do anexo à presente portaria, da qual faz parte integrante e dos critérios de desempate definidos no aviso de abertura do concurso.
+
+3 - Os critérios de prioridade definidos no aviso de abertura do concurso devem contemplar, pelo menos, um dos previstos no anexo da presente portaria, da qual faz parte integrante.
+
+4 - O IVV, I. P. decide a aprovação, a aprovação com restrições ou limitações ou não aprovação das candidaturas submetidas, no prazo de 90 dias seguidos contados a partir do momento em que a candidatura está completa e bem instruída e comunica-a ao beneficiário e ao IFAP, I. P.
+
+5 - No caso das candidaturas não aprovadas ou das candidaturas aprovadas com alguma restrição ou limitação, a notificação prevista no número anterior, é realizada nos termos e para os efeitos do disposto nos artigos 121.º e seguintes do Código Procedimento Administrativo, devendo conter os fundamentos, de facto e de direito, da não aprovação ou da aprovação com restrições ou limitações.
+
+###### Artigo 14.º — Gestão orçamental
+
+1 - Caso, o valor global das candidaturas de um concurso exceda a correspondente dotação orçamental prevista no aviso de abertura do concurso, o IVV, I. P. hierarquiza as candidaturas por ordem decrescente da pontuação, até esgotar o orçamento disponível.
+
+2 - Se, após a hierarquização efetuada nos termos descritos no número anterior, ainda subsistirem situações de candidaturas que obtenham a mesma pontuação e para as quais não exista dotação orçamental comunitária disponível suficiente, aplica-se, a essas candidaturas, uma distribuição numa base pro rata.
+
+3 - São excluídas as candidaturas que, após a aplicação do número anterior, deixem de cumprir com o montante mínimo do investimento elegível, caso este tenha sido previsto no aviso de abertura do concurso.
+
+4 - A gestão orçamental é realizada, após decisão inicial das candidaturas, sem necessidade de alteração do PEPAC, conforme o disposto no artigo 101.º do Regulamento (UE) 2021/2115.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 3/2025/1 - Diário da República n.º 1/2025, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-2025-901693816), em vigor a partir de 2025-01-03
+
+###### Artigo 15.º — Formalização da concessão do apoio
+
+1 - A aceitação do apoio é formalizada através de termo de aceitação assinado pelo beneficiário, o qual inclui, nomeadamente, a indicação do apoio máximo aprovado no âmbito da candidatura aprovada, bem como o prazo para a sua realização.
+
+2 - O IFAP, I. P. remete ao beneficiário o termo de aceitação no prazo de 15 dias úteis após a notificação a que se refere o n.º 4 do artigo 13.º
+
+3 - A não assinatura, por parte do beneficiário, do termo de aceitação, no prazo de 30 dias úteis, após a remessa referida no número anterior, determina a caducidade da decisão de aprovação da candidatura.
+
+###### Artigo 16.º — Alterações à candidatura
+
+1 - O beneficiário pode apresentar eletronicamente, através do preenchimento de um formulário online constante da aplicação disponibilizada no sítio da Internet do IVV, I. P., um pedido de alteração da candidatura aprovada, no prazo estipulado no aviso de abertura de cada concurso e previamente à apresentação do último ou do único pedido de pagamento, podendo esta ser de natureza financeira ou material, nos termos definidos em OTE.
+
+2 - Não são aceites pedidos de alteração que:
+
+a) Modifiquem a atribuição da pontuação dos critérios de prioridade e de desempate em concursos onde se tenha verificado a situação prevista no n.º 1 do artigo 14.º;
+
+b) Excedam o montante aprovado na candidatura.
+
+c) Reduzam o montante aprovado na candidatura em mais de 20 %.
+
+3 - A decisão do IVV, I. P. é comunicada ao beneficiário e ao IFAP, I. P., no prazo máximo de 45 dias seguidos, após a data de submissão do pedido de alteração completo, devidamente fundamentado e corretamente instruído.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 3/2025/1 - Diário da República n.º 1/2025, Série I de 2025-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/3-2025-901693816), em vigor a partir de 2025-01-03
+
+###### Artigo 17.º — Pedido de adiantamento e pedido de pagamento
+
+1 - O beneficiário pode apresentar ao IFAP, I. P. apenas um pedido de adiantamento e um pedido de pagamento, para o que deve cumprir as obrigações constantes do artigo 9.º, quando aplicáveis.
+
+2 - O beneficiário só pode apresentar um pedido de adiantamento, até ao montante correspondente a 80 % do valor do apoio aprovado na candidatura, mediante a entrega de uma garantia constituída a favor do IFAP, I. P., de montante não inferior ao do adiantamento solicitado.
+
+3 - O pedido de adiantamento a que se refere o número anterior deve ser apresentado até à data limite do período de execução material da candidatura aprovada e previamente à apresentação do primeiro pedido de pagamento.
+
+4 - Sem prejuízo do disposto no n.º 1, são admissíveis dois pedidos de pagamento para os beneficiários previstos nas alíneas a), c) e e) do artigo 3.º, caso o primeiro pedido de pagamento corresponda a um montante mínimo de 200.000 (euro) de montante aprovado e deve ser apresentado até à data limite fixada para a execução material da candidatura aprovada.
+
+5 - O último ou o único pedido de pagamento deve ser apresentado no prazo máximo de 90 dias seguidos, após o fim do período de execução material da candidatura aprovada.
+
+6 - Apenas é aceite o pedido de pagamento relativo a despesas efetivamente executadas e pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e em OTE.
+
+###### Artigo 18.º — Pagamentos
+
+1 - O pagamento do apoio é efetuado por transferência bancária para a conta referida na alínea g) do artigo 9.º
+
+2 - Em função da disponibilidade orçamental e da verificação realizada, o IFAP, I. P. efetua o pagamento do apoio no prazo de seis meses a contar da data de apresentação de um pedido de pagamento ou 30 dias seguidos a contar da data de apresentação do pedido de adiantamento, ambos completos e corretamente instruídos.
+
+3 - Caso o pedido de pagamento seja selecionado na amostra de controlo no local, a contagem do prazo de seis meses para pagamento inicia-se com a conclusão do relatório de controlo.
+
+4 - Ao valor do pedido de pagamento deve ser descontado, quando aplicável, o montante de apoio já pago a título do adiantamento já realizado.
+
+5 - A garantia referida no n.º 2 do artigo anterior é liberada no prazo máximo de 60 dias seguidos, contados da data do pagamento do apoio.
+
+###### Artigo 19.º — Resolução e denúncia do termo de aceitação
+
+1 - O termo de aceitação pode ser resolvido, unilateralmente, pelo IFAP, I. P., consultado o IVV, I. P., ou por indicação deste, nos casos de prestação de informações falsas sobre a situação do beneficiário ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento da execução da candidatura.
+
+2 - O termo de aceitação só pode ser denunciado por iniciativa do beneficiário até à data limite da execução material da candidatura aprovada e antes da submissão do pedido de adiantamento ou do primeiro pedido de pagamento, através de comunicação ao IFAP, I. P., dando conhecimento ao IVV, I. P.
+
+3 - Salvo nos casos de força maior previstos no n.º 1 do artigo 3.º do Regulamento (UE) n.º 2021/2116, do Parlamento Europeu e do Conselho, a resolução ou a denúncia do termo de aceitação implica a devolução dos montantes já recebidos pelo beneficiário, no prazo de 30 dias seguidos a contar da data de notificação da decisão, findo o qual são devidos juros de mora sobre o montante a devolver.
+
+> Nota: [Artigo 9.º, Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441) A revogação do presente artigo produz efeitos a 1 de janeiro de 2023.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+###### Artigo 20.º — Controlo
+
+1 - As candidaturas apresentadas no âmbito da presente portaria estão sujeitas a controlos administrativos e no local, nos termos do Regulamento (UE) n.º 2021/2116.
+
+2 - No âmbito do controlo administrativo e no local do pedido de pagamento podem ser solicitados elementos complementares, definidos em OT, que comprovem a execução das ações e das atividades nelas inseridas e que suportem as despesas apresentadas.
+
+3 - [Revogado.]
+
+> Nota: [Artigo 9.º, Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441) A revogação do n.º 3 do presente artigo produz efeitos a 1 de janeiro de 2023.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+###### Artigo 21.º — Execução da candidatura
+
+1 - O grau de execução financeira da candidatura aprovada corresponde à percentagem entre o montante do apoio financeiro apurado pelo IFAP, I. P. e o montante do apoio aprovado em candidatura ou em pedido de alteração, se aplicável, e antes da aplicação de qualquer redução prevista na presente portaria.
+
+2 - Os beneficiários devem garantir um grau mínimo de execução financeira da candidatura aprovada ou pedido de alteração, se aplicável, de 50 %, ficando sujeitos ao disposto no n.º 1 do artigo seguinte, caso esse limiar não seja cumprido.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+###### Artigo 22.º — Reduções e exclusões
+
+1 - Em caso de incumprimento ou de qualquer irregularidade detetada são aplicáveis as disposições nacionais em conjugação com o previsto no título iv do Regulamento (UE) 2021/2116.
+
+2 - Para efeitos de aplicação do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, são aplicáveis as reduções e exclusões dos apoios concedidos ou a conceder nos seguintes termos:
+
+a) O incumprimento das obrigações previstas nas alíneas a), d) e g), do n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, e nas alíneas b) e h) do artigo 9.º determina a exclusão dos pagamentos do apoio realizados ou a realizar, das ações relativamente às quais se verificou o incumprimento;
+
+b) O incumprimento da obrigação prevista na alínea f) do n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, determina a exclusão dos pagamentos do apoio realizados ou a realizar;
+
+c) O incumprimento da obrigação prevista na alínea i) do artigo 9.º determina a exclusão dos pagamentos do apoio realizados ou a realizar, relativas às despesas do contrato, de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos;
+
+d) O incumprimento da obrigação prevista na alínea j) do artigo 9.º determina a resolução do termo de aceitação e redução a 100 % dos pagamentos do apoio, já realizados ou a realizar;
+
+e) O incumprimento da obrigação prevista no n.º 5 do artigo 17.º determina a resolução do termo de aceitação, perda do direito ao apoio referente às despesas em causa e a recuperação dos montantes já pagos.
+
+3 - Quando o IFAP, I. P., após análise do último ou o único pedido de pagamento, verifique um desvio entre o montante do apoio solicitado e o montante do apoio apurado, é aplicável o seguinte:
+
+a) Caso o desvio seja inferior a 10 % o pagamento é efetuado na totalidade do montante do apoio apurado;
+
+b) Caso o desvio seja igual ou superior a 10 % e até 50 % inclusivamente, é aplicável uma redução no montante do apoio apurado, de valor igual à diferença detetada;
+
+c) Caso o desvio seja superior a 50 % não há lugar a qualquer pagamento.
+
+4 - Salvo os casos de força maior previstos no n.º 1 do artigo 3.º do Regulamento (UE) 2021/2116, a resolução do termo de aceitação implica a devolução dos montantes já recebidos pelo beneficiário, no prazo de 30 dias seguidos a contar da data de notificação da decisão, findo o qual são devidos juros de mora sobre o montante a devolver.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.
+
+###### Artigo 23.º — Acompanhamento e avaliação
+
+1 - O IFAP, I. P. remete ao GPP a informação necessária ao cumprimento das comunicações obrigatórias à Comissão Europeia.
+
+2 - A comunicação estabelecida entre o IFAP, I. P. e o IVV, I. P. para efeitos de acompanhamento das candidaturas aprovadas e pagas, é efetuada com recurso a sistemas de informação que garantam a interoperabilidade das duas entidades e que evitem duplicação de registos.
+
+###### Artigo 24.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023.
+
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
+
+## Anexo — (a que se referem os artigos 12.º e 13.º)
+
+Critérios de prioridade e ponderação
+
+(ver documento original)
+
+116207074

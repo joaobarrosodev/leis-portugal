@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:399641:por
+title: Portaria n.º 750/84
+short_title: null
+summary: Estabelece disposições quanto à fiscalização do cumprimento das normas relativas à interdição de fumar em meios de
+  transporte e sua sinalização
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento Social
+proposing_entity: null
+official_number: 750/84
+official_date: null
+publication_date: '1984-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 222/1984, Série I de 1984-09-24
+  number: '222'
+  series: I
+  supplement: null
+  pages: 2931 - 2932
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/09/22200/29312932.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '399641'
+  dre_path: /dr/detalhe/portaria/750-1984-399641
+  internal: pt:dre:399641:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-1984-399641
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-1984-399641
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-09-24T00:00:00Z'
+integrity:
+  source_sha256: 2cb8f3d28d83daed3b9ca955855d05550ff24f5789a928e90021a9c5808817a9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-750-399641.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 750/84
+
+de 24 de Setembro
+
+Tornando-se necessário precisar quais as entidades a quem incumbe a fiscalização do cumprimento das normas relativas à interdição de fumar em meios de transporte e sua sinalização, nos termos dos artigos 3.º a 5.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio;
+
+Reafirmando a competência própria, quer das autoridades policiais, quer da Direcção-Geral de Transportes Terrestres;
+
+Considerando a conveniência em repor a competência específica anteriormente conferida aos agentes dos operadores de transporte, cuja intervenção encontra meios de acção mais eficazes através da qualificação das infracções à proibição do uso do tabaco como contra-ordenações, e consequente aplicação do respectivo regime, definido pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, nos termos do artigo 5.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, o seguinte:
+
+1.º A fiscalização do disposto nos artigos 3.º e 4.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, será exercida, sem prejuízo da competência própria das autoridades policiais:
+
+a) Pelos operadores, nos respectivos meios de transporte, através de agentes seus devidamente credenciados, mediante cartão próprio passado pela entidade patronal;
+
+b) Pela Direcção-Geral de Transportes Terrestres, como entidade incumbida de fiscalização do cumprimento das leis e regulamentos aplicáveis aos transportes terrestres.
+
+2.º Esta portaria entra imediatamente em vigor.
+
+Ministério do Equipamento Social.
+
+**Assinada em 4 de Setembro de 1984.**
+
+**O Ministro do Equipamento Social, João Rosado Correia.**

@@ -1,0 +1,133 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75158990:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-163442563",
+ "dre_path": "/dr/detalhe/decreto-lei/46-2016-75158990",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "163397195",
+    "163397196",
+    "163397197",
+    "163397198",
+    "163397199"
+   ]
+  },
+  {
+   "date": "2021-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:163442522:por",
+     "title": "Decreto-Lei n.º 34-A/2021",
+     "published": "2021-05-14",
+     "dre_path": "/dr/detalhe/decreto-lei/34-a-2021-163442522"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "163397195",
+    "163397196",
+    "163397214",
+    "163397210",
+    "163397211",
+    "163397212",
+    "163397213"
+   ]
+  }
+ ],
+ "fragments": {
+  "163397195": {
+   "fragment_id": "163442564",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 46/2016\n\nde 18 de agosto\n\nO Decreto-Lei n.º 38/2015, de 12 de março, alterado pelo Decreto-Lei n.º 139/2015, de 30 de julho, desenvolveu as bases da política de ordenamento e de gestão do espaço marítimo nacional, tendo definido, entre outros aspetos, o regime de utilização privativa dos recursos hídricos em águas de transição para fins aquícolas. De acordo com o artigo 97.º do citado diploma, encontra-se prevista a criação de um plano específico para a aquicultura em águas de transição.\n\nEste plano visa integrar a atividade da aquicultura no ordenamento do território marítimo, contribuindo para a diversificação e melhoria da qualidade de vida dos produtores nas regiões costeiras. Assim, a atribuição de novos títulos de utilização, para além de acautelar a conservação ambiental e económica dos recursos hídricos, deve ainda garantir uma segurança razoável aos operadores de aquicultura no que diz respeito ao acesso a esses recursos.\n\nTendo em consideração que o prazo das licenças concedidas em muitas das áreas abrangidas se encontra a caducar num curto espaço de tempo, considera-se essencial a adoção de uma medida que assegure a sustentabilidade social e o incremento da empregabilidade numa área em que a atividade aquícola é exercida maioritariamente por pequenos produtores.\n\nNeste contexto, entende-se pertinente prorrogar o prazo das licenças nesta área por seis anos, o que possibilitará, desde logo, a apresentação de candidaturas aos apoios comunitários previstos no Programa Operacional Mar 2020.\n\nPor outro lado, este período de tempo afigura-se suficiente para a conclusão do plano de aquicultura para águas de transição, garantindo-se, assim, a sua implementação efetiva.\n\nFinalmente, importa referir que esta medida enquadra-se num dos objetivos do XXI Governo Constitucional, que se traduz na promoção da atividade da aquicultura.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "163397196": {
+   "fragment_id": "163442565",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define o regime jurídico transitório aplicável às águas de transição para fins aquícolas, incluindo a Ria Formosa, Ria do Alvor, Lagoa de Santo André, Lagoa de Albufeira, Lagoa de Óbidos e Barrinha de Esmoriz, classificadas como lagoas costeiras."
+  },
+  "163397197": {
+   "fragment_id": "163442566",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação da validade dos títulos de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prorrogação da validade dos títulos de utilização\n\nOs títulos de utilização privativa dos recursos hídricos para fins aquícolas em águas de transição, vigentes à data de entrada em vigor do Decreto-Lei n.º 38/2015, de 12 de março, alterado pelo Decreto-Lei n.º 139/2015, de 30 de julho, são válidos por seis anos, tendo em consideração a aprovação e implementação do plano para a aquicultura em águas de transição a que se refere o artigo 97.º do referido decreto-lei."
+  },
+  "163397198": {
+   "fragment_id": "163442567",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nO disposto no artigo anterior produz efeitos a partir da data de entrada em vigor do Decreto-Lei n.º 38/2015, de 12 de março, alterado pelo Decreto-Lei n.º 139/2015, de 30 de julho."
+  },
+  "163397199": {
+   "fragment_id": "163442568",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte à data da sua publicação."
+  },
+  "163397214": {
+   "fragment_id": "163442566",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação da validade dos títulos de utilização",
+   "in_force_from": "2021-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 34-A/2021 - Diário da República n.º 94/2021, 3º Suplemento, Série I de 2021-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-2021-163442522), em vigor a partir de 2021-05-15"
+   ],
+   "markdown": "###### Artigo 2.º — Prorrogação da validade dos títulos de utilização\n\nOs títulos de utilização privativa dos recursos hídricos para fins aquícolas em águas de transição, vigentes à data de entrada em vigor do Decreto-Lei n.º 38/2015, de 12 de março, na redação dada pelo Decreto-Lei n.º 139/2015, de 30 de julho, mantêm-se válidos até 30 de junho de 2022.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 34-A/2021 - Diário da República n.º 94/2021, 3º Suplemento, Série I de 2021-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-2021-163442522), em vigor a partir de 2021-05-15"
+  },
+  "163397210": {
+   "fragment_id": "163551380",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Transmissão de títulos",
+   "in_force_from": "2021-05-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 34-A/2021 - Diário da República n.º 94/2021, 3º Suplemento, Série I de 2021-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-2021-163442522), em vigor a partir de 2021-05-15"
+   ],
+   "markdown": "###### Artigo 2.º-A — Transmissão de títulos\n\n1 - Os títulos de utilização privativa dos recursos hídricos para fins aquícolas em águas de transição, cuja validade é prorrogada nos termos do disposto no artigo anterior, não podem ser transmitidos.\n\n2 - A proibição prevista no número anterior, aplica-se às situações de transmissão de participações sociais que assegurem o domínio de sociedade detentora do título.\n\n3 - Exceciona-se da proibição prevista no n.º 1, a transmissão em caso de morte do titular nos termos do disposto nos n.os 3 a 6 do artigo 68.º do Decreto-Lei n.º 38/2015, na sua redação atual.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 34-A/2021 - Diário da República n.º 94/2021, 3º Suplemento, Série I de 2021-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-2021-163442522), em vigor a partir de 2021-05-15"
+  },
+  "163397211": {
+   "fragment_id": "163442567",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nO disposto no artigo anterior produz efeitos a partir da data de entrada em vigor do Decreto-Lei n.º 38/2015, de 12 de março, alterado pelo Decreto-Lei n.º 139/2015, de 30 de julho."
+  },
+  "163397212": {
+   "fragment_id": "163442568",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte à data da sua publicação."
+  },
+  "163397213": {
+   "fragment_id": "163442569",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - José Fernando Gomes Mendes - Ana Paula Mendes Vitorino.\n\nPromulgado em 9 de agosto de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 10 de agosto de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

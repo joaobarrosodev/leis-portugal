@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:646714:por
+title: Portaria n.º 755/2003
+short_title: null
+summary: Extingue o posto fiscal anexo ao entreposto franco da empresa DELCO-REMI - Componentes Electrónicos, Lda., actualmente
+  denominada DELPHI - Automotive Systems - Portugal (Sociedade Unipessoal), Lda., sito em Paio Pires, Seixal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Interna
+proposing_entity: null
+official_number: 755/2003
+official_date: null
+publication_date: '2003-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/2003, Série I-B de 2003-08-09
+  number: '183'
+  series: I
+  supplement: null
+  pages: 4758 - 4758
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/08/183b00/47584758.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/755/2003/08/09/p/dre/pt/html
+  oj: null
+  dre: '646714'
+  dre_path: /dr/detalhe/portaria/755-2003-646714
+  internal: pt:dre:646714:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-2003-646714
+  metadata_url: https://data.dre.pt/eli/port/755/2003/08/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-2003-646714
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-08-09T00:00:00Z'
+integrity:
+  source_sha256: 335214bb1b1e806edcf7a5a4837de7c3292695625bde54fbc87ad1ded35f9391
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-755-646714.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Depósito Franco
+- Equipamento de Escritório
+- Extinção de Serviços
+- Posto Fiscal
+- Seixal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/230/1993/06/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/230/1993/06/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/20/1991/06/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/20/1991/06/04/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 755/2003
+
+de 9 de Agosto
+
+Considerando que a empresa DELCO-REMI - Componentes Electrónicos, Lda., actualmente denominada DELPHI - Automotive Systems - Portugal (Sociedade Unipessoal), Lda., solicitou a extinção do seu entreposto franco, sito em Paio Pires, Seixal, criado pela [Resolução do Conselho de Ministros n.º 20/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-1991-629460), publicada no Diário da República, 1.ª série-B, n.º 127, de 4 de Junho de 1991, por já não se justificar economicamente a sua manutenção;
+
+Considerando que, consequentemente, se tornou desnecessária a manutenção do posto fiscal que funcionava junto do referido entreposto franco, por carecer de objecto o exercício das funções de fiscalização a que estava adstrito:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Administração Interna, ao abrigo do disposto no n.º 1 do artigo 12.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho, que seja extinto o posto fiscal anexo ao entreposto franco da empresa DELCO-REMI - Componentes Electrónicos, Lda., actualmente denominada DELPHI - Automotive Systems - Portugal (Sociedade Unipessoal), Lda., sita em Paio Pires, Seixal.
+
+Em 13 de Junho de 2003.
+
+Pela Ministra de Estado e das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais. - O Ministro da Administração Interna, António Jorge de Figueiredo Lopes.

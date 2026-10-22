@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:214560909:por
+title: Resolução da Assembleia da República n.º 69/2023
+short_title: null
+summary: Recomenda ao Governo o reforço da inovação e modernização da gestão pública, para um Estado mais simples, célere
+  e eficiente ao serviço das pessoas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 69/2023
+official_date: null
+publication_date: '2023-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/2023, Série I de 2023-06-20
+  number: '118'
+  series: I
+  supplement: null
+  pages: 3 - 3
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11800/0000300003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/69/2023/06/20/p/dre/pt/html
+  oj: null
+  dre: '214560909'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/69-2023-214560909
+  internal: pt:dre:214560909:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/69-2023-214560909
+  metadata_url: https://data.dre.pt/eli/resolassrep/69/2023/06/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/69-2023-214560909
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-06-20T00:00:00Z'
+integrity:
+  source_sha256: 316e9b0dfcc5b55bc21b4bb7e7757831c066225cc11a51c36c8ca621395b0eb8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-69-214560909.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Modernização Administrativa
+- Administração Pública
+- Recomendação
+- Governo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 69/2023
+
+Recomenda ao Governo o reforço da inovação e modernização da gestão pública, para um Estado mais simples, célere e eficiente ao serviço das pessoas
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Aprove um diploma para a modernização administrativa que atualize e reúna as disposições transversais a toda a Administração Pública neste domínio, incluindo a promoção, a inovação, a transparência e a participação de partes interessadas, com o objetivo de preparar os organismos públicos para prestar serviços crescentemente digitais, mas acessíveis por suporte omnicanal, automatizados e proativos.
+
+2 - Codifique, sempre que possível por matérias, o acervo legislativo relativo à gestão pública que não envolva procedimento administrativo, integrando, designadamente, as dimensões de gestão financeira e não financeira, desde o planeamento de atividades à monitorização e à avaliação de resultados.
+
+3 - Prossiga e reforce a disponibilização no portal Mais Transparência, em formato aberto, dos dados constantes dos instrumentos de gestão dos serviços públicos, designadamente os planos estratégicos e operacionais, os indicadores do balanço social, os relatórios de sustentabilidade e outros instrumentos relevantes, para a cabal prestação de contas aos cidadãos em face das missões de cada entidade e dos serviços a cidadãos e empresas pelos quais são responsáveis.
+
+4 - Aprove o «Guia de boas práticas administrativas» previsto no artigo 5.º do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, que aprova o novo Código do Procedimento Administrativo, numa ótica de promoção da boa gestão pública.
+
+Aprovada em 12 de maio de 2023.
+
+**O Presidente da Assembleia da República, Augusto Santos Silva.**

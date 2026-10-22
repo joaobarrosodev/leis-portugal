@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:307414:por
+title: Portaria n.º 552/75
+short_title: null
+summary: Subordina ao regime de margens de comercialização fixadas a venda de peças e acessórios de veículos automóveis
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio Interno
+proposing_entity: null
+official_number: 552/75
+official_date: null
+publication_date: '1975-09-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 212/1975, Série I de 1975-09-13
+  number: '212'
+  series: I
+  supplement: null
+  pages: 1379 - 1380
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21200/13791380.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '307414'
+  dre_path: /dr/detalhe/portaria/552-1975-307414
+  internal: pt:dre:307414:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-1975-307414
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-1975-307414
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-07-20T00:00:00Z'
+integrity:
+  source_sha256: 09092056cdd830a526a2ee933d84b15be687aac7ec7cbd9420ab00bbdf1e005a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-552-307414.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:579765:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 552/75
+
+de 13 de Setembro
+
+As medidas consignadas na presente portaria visam corrigir as anomalias detectadas no sector de comercialização de peças e acessórios de veículos automóveis, anomalias essas que têm invalidado as tabelas emitidas quer pelo importador quer pelo retalhista.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Comércio Interno, ao abrigo do preceituado no n.º 1 do artigo 2.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o seguinte:
+
+1.º Fica subordinada ao regime de margens de comercialização fixadas, a que se refere a alínea e) do n.º 1 do artigo 1.º do citado [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), a venda, pelos grossistas (importador e/ou distribuidor de produtos nacionais) e pelos retalhistas, de peças e acessórios de veículos automóveis, com exclusão dos destinados à montagem destes.
+
+2.º - 1. As margens máximas de comercialização a que se refere o número anterior são as seguintes:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/21200/13791380.pdf))](https://files.diariodarepublica.pt/1s/1975/09/21200/13791380.pdf)
+
+2. Entende-se como custo em armazém:
+
+a) No caso do importador: o somatório do preço FOB, direitos de importação, despesas de despacho, seguro e transporte;
+
+b) No caso do distribuidor de produtos nacionais: o preço de aquisição ao fabricante.
+
+3. A aplicação das margens máximas acima referidas implica a concessão dos seguintes descontos mínimos, calculados sobre o preço de tabela de retalhista:
+
+a) Nas vendas a oficinas de reparação:
+
+20%, em relação a peças e acessórios com custo em armazém inferior a 10000$00;
+
+10%, em relação a peças e acessórios com custo em armazém igual ou superior a 10000$00 e inferior a 20000$00;
+
+5%, em relação a peças e acessórios com custo em armazém igual ou superior a 20000$00;
+
+b) Nas vendas efectuadas por retalhistas a outros retalhistas, quando o preço de venda ao público das peças e acessórios for inferior a 10000$00:
+
+20% mais 10%, quando o vendedor não for simultaneamente importador;
+
+20% mais 20%, quando o vendedor for simultaneamente importador.
+
+3.º Sempre que uma entidade seja simultaneamente grossista e retalhista poderá acumular as margens correspondentes a cada um destes estádios.
+
+4.º - 1. No caso de haver intervenção de mais agentes, além dos referidos nos estádios de comercialização previstos no n.º 2.º, não lhes é permitida a utilização de margens que, em conjunto, ultrapassem as fixadas para aqueles estádios.
+
+2. O disposto neste número é aplicável à intervenção de oficinas de reparação de veículos automóveis, não podendo as peças e acessórios utilizados nos trabalhos que efectuem ser facturados a preços superiores aos da tabela de retalhista.
+
+5.º - 1. Todos os grossistas, retalhistas e oficinas de reparação são obrigados a possuir tabelas de preços que deverão estar patentes e disponíveis para consulta nos respectivos estabelecimentos de venda e oficinas.
+
+2. São ainda os grossistas obrigados a possuir a decomposição do custo em armazém das peças e acessórios.
+
+6.º - 1. Os grossistas com volume de facturação anual superior a 30000000$00, sempre que pretendam emitir novas tabelas de preços, são obrigados a enviar dois exemplares destas à Direcção-Geral de Preços, mediante carta registada com aviso de recepção, indicando ainda a margem de comercialização utilizada e os descontos a que se refere o n.º 2.º, 3.
+
+2. As tabelas entrarão em vigor quinze dias após a sua recepção na Direcção-Geral de Preços.
+
+3. A Direcção-Geral de Preços pode, a todo o momento e sempre que o julgue necessário, solicitar o envio de elementos comprovativos do custo em armazém, concedendo ao grossista o prazo máximo de quinze dias para o envio desses elementos.
+
+4. Cada grossista não poderá estabelecer mais de três tabelas em cada ano.
+
+5. No caso de lançamento de novas peças e acessórios, cada grossista deverá proceder ao aditamento dos respectivos preços.
+
+6. Ao aditamento de preços de novas peças e acessórios aplica-se, com as necessárias adaptações, o disposto em 1, 2 e 3 deste número.
+
+7.º - 1. Os grossistas com um volume de facturação anual superior a 30000000$00 são obrigados a elaborar tabelas de revenda e de preços máximos de venda ao público, de acordo com o preceituado em 1 do número anterior, e a enviá-las à Direcção-Geral de Preços no prazo máximo de sessenta dias, contados a partir da data da publicação desta portaria.
+
+2. São aplicáveis a estas tabelas o disposto em 2 e 3 do n.º 6.º
+
+8.º - 1. A infracção ao disposto no n.º 5 é punida nos termos do artigo 28.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+
+2. As infracções ao disposto em 4 do n.º 6.º e em 1 do n.º 7.º são punidas com multa de 5000$00 a 10000$00.
+
+3. Os grossistas que não forneçam, dentro do prazo referido em 3 do n.º 6.º, os elementos que lhe forem solicitados incorrerão na pena de multa de 5000$00 a 10000$00, ficando ainda suspensa a tabela de preços a que se referem os elementos pedidos, até integral cumprimento do solicitado pela Direcção-Geral de Preços.
+
+4. A infracção ao disposto em 5 do n.º 6.º é punida nos termos do n.º 6 do artigo 15.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+9.º Em casos excepcionais, devidamente justificados perante a Direcção-Geral de Preços, poderá o Secretário de Estado do Comércio Interno autorizar, por despacho, a prática de margens de comercialização diferentes das constantes do n.º 2.º, 1.
+
+10.º As dúvidas suscitadas na aplicação desta portaria serão esclarecidas por despacho do Secretário de Estado do Comércio Interno.
+
+11.º Esta portaria entra imediatamente em vigor.
+
+Ministério do Comércio Interno, 1 de Setembro de 1975. - O Ministro do Comércio Interno, Manuel Luís Macaísta Malheiros.

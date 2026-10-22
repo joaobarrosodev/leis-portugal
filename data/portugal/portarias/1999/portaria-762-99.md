@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:533797:por
+title: Portaria n.º 762/99
+short_title: null
+summary: Aprova o modelo de certificado do grau de especialista dos diferentes ramos da carreira dos técnicos superiores de
+  saúde
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 762/99
+official_date: null
+publication_date: '1999-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/1999, Série I-B de 1999-08-27
+  number: '200'
+  series: I
+  supplement: null
+  pages: 5925 - 5925
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/200b00/59255925.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/762/1999/08/27/p/dre/pt/html
+  oj: null
+  dre: '533797'
+  dre_path: /dr/detalhe/portaria/762-1999-533797
+  internal: pt:dre:533797:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-1999-533797
+  metadata_url: https://data.dre.pt/eli/port/762/1999/08/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-1999-533797
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-08-27T00:00:00Z'
+integrity:
+  source_sha256: 855c21811bf07aa616e91a6ab3371435df4ac49688a9248b16cabdb755b7e4f0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-762-533797.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificado de Aptidão Profissional
+- Pessoal de Saúde
+- Carreira Técnica Superior
+- Estágio de Formação
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/796/1994/09/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/796/1994/09/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/931/1994/10/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/931/1994/10/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 762/99
+
+de 27 de Agosto
+
+O [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, veio reformular o regime legal da carreira dos técnicos superiores de saúde, com vista à valorização dos profissionais e à melhoria da rentabilização equilibrada dos serviços a prestar, definindo a obrigatoriedade de habilitação profissional conferente do grau de especialista, cujos programas de estágio, específicos para cada ramo de actividade, foram aprovados pela [Portaria n.º 931/94](https://diariodarepublica.pt/dr/detalhe/portaria/931-1994-625993), de 20 de Outubro.
+
+Os primeiros técnicos superiores de saúde submetidos a este regime de formação e avaliação de conhecimentos estão actualmente a finalizar o seu estágio de especialidade, pelo que se torna urgente a aprovação do modelo de certificado do grau de especialista.
+
+Assim, ao abrigo do artigo 42.º do Regulamento do Estágio da Carreira dos Técnicos Superiores de Saúde, aprovado pela [Portaria n.º 796/94](https://diariodarepublica.pt/dr/detalhe/portaria/796-1994-657244), de 7 de Setembro:
+
+Manda o Governo, pela Ministra da Saúde, que o modelo de certificado do grau de especialista dos diferentes ramos da carreira dos técnicos superiores de saúde seja o constante do anexo à presente portaria, da qual constitui parte integrante.
+
+Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 23 de Julho de 1999.
+
+R. P.
+
+MINISTÉRIO DA SAÚDE
+
+Departamento de Recursos Humanos da Saúde
+
+(ver nota 1) ...
+
+O(A) licenciado(a) em ..., portador(a) do bilhete de identidade n.º ..., emitido pelos Serviços de Identificação Civil de ..., em .../.../..., foi aprovado(a) na avaliação final do estágio de especialidade - ramo de ... (ver nota 2), em ..., de ... de ..., tendo obtido o grau de especialista em ..., a que se referem os n.os 1, 2 e 3 do artigo 5.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, pelo que, nos termos do artigo 42.º do Regulamento do Estágio da Carreira dos Técnicos Superiores de Saúde, aprovado pela [Portaria n.º 796/94](https://diariodarepublica.pt/dr/detalhe/portaria/796-1994-657244), de 7 de Setembro, lhe é emitido o presente certificado.
+
+A entidade que confere (ver nota 3).
+
+..., ... de ... de ...
+
+...
+
+A entidade que homologa (ver nota 4).
+
+..., ... de ... de ...
+
+...
+
+(nota 1) Entidade onde se realizou o estágio.
+
+(nota 2) Ramo em que é conferido o grau de especialista.
+
+(nota 3) Conselho de Coordenação dos Estágios.
+
+(nota 4) Departamento de Recursos Humanos de Saúde.

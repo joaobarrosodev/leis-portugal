@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:296866:por
+title: Portaria n.º 438/78
+short_title: null
+summary: Regula os estágios pedagógicos dos bacharelatos em ensino das Universidades de Aveiro e Minho, dos Institutos Universitários
+  dos Açores e Évora e dos Institutos Politécnicos da Covilhã e Vila Real
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 438/78
+official_date: null
+publication_date: '1978-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1978, Série I de 1978-08-04
+  number: '178'
+  series: I
+  supplement: null
+  pages: 1605 - 1607
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/08/17800/16051607.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '296866'
+  dre_path: /dr/detalhe/portaria/438-1978-296866
+  internal: pt:dre:296866:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/438-1978-296866
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/438-1978-296866
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-08-04T00:00:00Z'
+integrity:
+  source_sha256: 84789b27201dcfcc3e1f1a88c08e3c69ec81a84e82b361c878eaaa6899cd4b20
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-438-296866.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 438/78
+
+de 4 de Agosto
+
+Nos termos do artigo 2.º do [Decreto-Lei n.º 210/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1978-296998), de 27 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, o seguinte:
+
+1.º Os estágios pedagógicos dos bacharelatos em ensino das Universidades de Aveiro e Minho, dos Institutos Universitários dos Açores e de Évora e dos Institutos Politécnicos da Covilhã e Vila Real realizar-se-ão nos ensinos preparatório e secundário, nos grupos e subgrupos a fixar por despacho do Ministro da Educação e Cultura.
+
+2.º Os estágios para cada um dos grupos e subgrupos a que se refere o número anterior funcionarão em núcleos que serão coordenados por professores do ensino superior, respectivamente da especialidade a que o estágio respeita e da área de ciência da educação, e serão orientados por um ou dois professores do ensino preparatório ou secundário, consoante o estágio englobar, respectivamente, uma ou duas disciplinas.
+
+3.º Em casos devidamente justificados, poderá a Universidade, Instituto Universitário ou Instituto Politécnico respectivo propor à Direcção-Geral do Ensino Superior que, quando necessário, o mesmo professor coordene mais do que um núcleo, podendo, se tal for imprescindível, ser propostos para coordenadores de núcleo assistentes do ensino superior encarregados de regência.
+
+4.º O orientador de estágio será um professor profissionalizado do grupo ou subgrupo a que o bacharelato em ensino dará acesso.
+
+5.º A distribuição do serviço docente de cada orientador obedecerá às seguintes regras:
+
+a) No ensino preparatório, um número máximo de turmas que não ultrapasse as seis horas semanais;
+
+b) No ensino secundário, duas turmas da disciplina ou disciplinas que oriente, sempre que possível uma do curso geral e outra do curso complementar.
+
+6.º Em cada Universidade, Instituto Universitário ou Instituto Politécnico onde se conferem os bacharelatos em ensino funcionará um conselho coordenador de estágios, a que competirá a planificação do trabalho dos diferentes núcleos, composto por:
+
+a) Todos os docentes coordenadores e orientadores de estágio;
+
+b) Um representante dos alunos estagiários por núcleo.
+
+7.º Na planificação do trabalho dos diferentes núcleos o conselho coordenador terá em atenção as normas gerais definidas pelas direcções-gerais de ensino respectivas, atendendo, no entanto, às características específicas destes estágios.
+
+8.º O conselho coordenador dos estágios poderá funcionar em comissões, que reunirão coordenadores e orientadores de núcleos afins.
+
+9.º O conselho coordenador reúne obrigatoriamente, pelo menos, uma vez por período lectivo, sendo uma das reuniões realizada antes do início do ano escolar.
+
+10.º As funções que incumbem aos docentes do ensino superior como coordenadores devem ter em vista um plano de integração total dos trabalhos a realizar no ano escolar, reunindo os mesmos periodicamente com os orientadores e representantes dos alunos estagiários, de acordo com as actividades programadas pelo conselho coordenador.
+
+11.º Os coordenadores de estágio dedicarão aos seus trabalhos o período de tempo que vier a ser definido, não sendo este inferior a duas horas semanais.
+
+12.º Os horários dos estagiários devem ser organizados por tal forma que lhes deixem disponível o tempo necessário para actividades no estabelecimento que lhes confere o bacharelato, segundo esquema elaborado pelo conselho coordenador, de acordo com aquelas instituições e as escolas onde se efectuam os estágios.
+
+13.º O aluno estagiário deverá, para além de assistir a aulas leccionadas pelo orientador ou orientadores, de acordo com planificação prévia, realizar outros trabalhos que forem determinados pelo conselho coordenador, sendo ouvido o órgão responsável pela gestão do estabelecimento de ensino quando os mesmos ali se realizem.
+
+14.º A inscrição nos estágios pedagógicos dos bacharelatos em ensino será efectuada nos serviços académicos das Universidades, Institutos Universitários ou Institutos Politécnicos respectivos até ao dia 8 de Julho anterior ao ano lectivo em que aqueles se irão realizar.
+
+15.º Só podem frequentar o último ano do curso os alunos que tenham concluído com aprovação todas as disciplinas do plano de estudos dos anos anteriores.
+
+16.º Os estágios pedagógicos dos bacharelatos em ensino terão lugar em estabelecimentos de ensino preparatório e secundário, prioritariamente da região em que se situa a Universidade, Instituto Universitário ou Instituto Politécnico respectivo, que disponham ou venham a dispor de recursos materiais e humanos indispensáveis e que constarão de lista anual elaborada pelos estabelecimentos de ensino superior, ouvidas as direcções-gerais pedagógicas.
+
+17.º No acto de inscrição o aluno estagiário deve indicar o grau e ramo de ensino em que prefere realizar o estágio, bem como, e por ordem de preferência, as localidades onde tenha interesse em estagiar, de entre as que constem da lista referida no número anterior.
+
+18.º Terminado o período de inscrições, cada estabelecimento de ensino superior elaborará a lista de colocações, por cada núcleo, dos respectivos alunos estagiários, dando dela conhecimento à Direcção-Geral de Pessoal e, conforme os casos, às direcções-gerais de ensino.
+
+19.º Sem prejuízo do disposto no número anterior, são consideradas deslocações em serviço oficial as que tiverem de ser feitas em cumprimento de funções previstas na presente portaria, devendo os encargos resultantes dessas deslocações ser pagos pela entidade que as solicitar.
+
+20.º O número de alunos estagiários por núcleo deverá ser, normalmente, de quatro, nunca excedendo, em qualquer caso, seis.
+
+21.º As escolas que forem escolhidas para a realização dos estágios pedagógicos passarão a dispor de apoio científico e pedagógico das respectivas instituições de ensino superior, nos termos de um acordo a celebrar entre as duas entidades, ratificado pelas direcções-gerais respectivas.
+
+22.º Os alunos estagiários terão obrigatoriamente serviço docente distribuído até um máximo de três turmas no ensino preparatório e duas turmas no ensino secundário.
+
+23.º Os alunos estagiários terão, enquanto tal, para todos os efeitos legais, o estatuto de professor eventual, atribuindo-se-lhes por um período de doze meses o vencimento previsto na tabela anexa ao [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+
+24.º O regime de faltas dos alunos estagiários é, em relação às actividades na escola preparatória ou secundária, o mesmo que é aplicado aos professores estagiários de acordo com o disposto no artigo 10.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril, e restantes disposições complementares.
+
+25.º O regime de faltas dos alunos estagiários em relação às actividades da Universidade, Instituto Universitário ou Instituto Politécnico onde estão inscritos, previstas no programa do último ano dos bacharelatos de ensino, será o que vigorar nessa instituição para os restantes alunos.
+
+26.º As Universidades, Institutos Universitários ou Institutos Politécnicos que conferem bacharelatos de ensino elaborarão, sob proposta do respectivo conselho coordenador, um regulamento dos estágios pedagógicos, que será submetido a despacho do director-geral do Ensino Superior, ouvidas as Direcções-Gerais do Ensino Básico e Secundário.
+
+27.º A classificação global do último ano dos bacharelatos de ensino será expressa na escala de 0 a 20, aproximada às décimas.
+
+28.º A classificação do estágio pedagógico é da responsabilidade conjunta dos respectivos coordenadores e orientadores.
+
+29.º A classificação final do aluno dos bacharelatos em ensino, aproximada às décimas, será a correspondente à média ponderada das seguintes classificações parciais:
+
+a) Classificação do último ano com coeficiente 2;
+
+b) Média da classificação de todas as disciplinas do plano de estudo dos restantes anos com o coeficiente 3.
+
+30.º O plano de estudos do último ano dos bacharelatos de ensino será definido por despacho ministerial, bem como o método de obtenção da sua classificação.
+
+31.º A classificação profissional corresponde à classificação prevista no n.º 29.º desta portaria.
+
+Ministério da Educação e Cultura, 24 de Julho de 1978. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.

@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:668302:por
+title: Portaria n.º 1271/95
+short_title: null
+summary: Autoriza o Instituto Superior de Educação e Ciências a ministrar o curso superior de Design e Produção Gráfica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 1271/95
+official_date: null
+publication_date: '1995-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/1995, Série I-B de 1995-10-25
+  number: '247'
+  series: I
+  supplement: null
+  pages: 6626 - 6626
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/10/247b00/66266626.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1271/1995/10/25/p/dre/pt/html
+  oj: null
+  dre: '668302'
+  dre_path: /dr/detalhe/portaria/1271-1995-668302
+  internal: pt:dre:668302:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1271-1995-668302
+  metadata_url: https://data.dre.pt/eli/port/1271/1995/10/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1271-1995-668302
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-10-25T00:00:00Z'
+integrity:
+  source_sha256: c9f0355e79cb8c885019168e44dfc79a8cb88738d956eeeecc5bc889669656ce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-1271-668302.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bacharelato
+- Plano de Estudos
+- Curso Superior de Design e Produção Gráfica
+- Ensino Particular
+- Instituto Superior de Educação e Ciências
+- Ensino Superior
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/794/1991/08/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/794/1991/08/09/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1271/95
+
+de 25 de Outubro
+
+A requerimento da UNIVERSITAS - Cooperativa de Ensino Superior e Investigação Científica, C. R. L., entidade titular do Instituto Superior de Educação e Ciências, reconhecido como estabelecimento de ensino superior particular pela [Portaria n.º 794/91](https://diariodarepublica.pt/dr/detalhe/portaria/794-1991-679847), de 9 de Agosto;
+
+Instruído e analisado o respectivo processo;
+
+Nos termos e ao abrigo do n.º 1 do artigo 64.º do Estatuto do Ensino Superior Particular e Cooperativo, publicado em anexo ao [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro:
+
+Manda o Governo, pela Ministra da Educação, o seguinte:
+
+1.º É autorizado o Instituto Superior de Educação e Ciências a ministrar o curso superior de Design e Produção Gráfica.
+
+2.º O plano de estudos do curso ora autorizado é o constante do quadro publicado em anexo à presente portaria.
+
+3.º O curso referido no número anterior iniciará as actividades escolares no ano lectivo de 1995-1996 e funcionará nas instalações do Instituto Superior de Educação e Ciências, sitas na Rua da Cidade de Benguela, lote 564, 1800 Lisboa;
+
+4.º Aos diplomas emitidos pela conclusão do curso ora autorizado é reconhecido o grau de bacharel.
+
+5.º As condições e habilitações mínimas que permitem o ingresso no curso atrás referido são as legalmente fixadas, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno daquele estabelecimento de ensino.
+
+6.º A autorização de funcionamento conferida pela presente portaria não prejudica, sob pena de revogação, a obrigatoriedade do cumprimento das correcções ou adaptações que sejam determinadas pelo Ministério da Educação, quer em aplicação das informações e pareceres especializados solicitados para apreciação do processo quer em resultado de informações dos serviços de inspecção, de acordo com a legislação em vigor.
+
+Ministério da Educação.
+
+**Assinada em 27 de Setembro de 1995.**
+
+Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
+
+## ANEXO — Curso Superior de Design e Produção Gráfica
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247b00/66266626.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247b00/66266626.pdf)

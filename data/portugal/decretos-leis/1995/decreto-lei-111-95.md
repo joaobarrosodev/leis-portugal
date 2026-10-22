@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:505068:por
+title: Decreto-Lei n.º 111/95
+short_title: null
+summary: Autoriza a cunhagem de quatro moedas comemorativas, alusivas à conquista de Malaca, às primeiras expedições e viagens
+  às ilhas Molucas, às ilhas de Solor e de Timor e às costas da Austrália
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 111/95
+official_date: null
+publication_date: '1995-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/1995, Série I-A de 1995-05-23
+  number: '119'
+  series: I
+  supplement: null
+  pages: 3180 - 3182
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/05/119a00/31803182.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/111/1995/05/23/p/dre/pt/html
+  oj: null
+  dre: '505068'
+  dre_path: /dr/detalhe/decreto-lei/111-1995-505068
+  internal: pt:dre:505068:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1995-505068
+  metadata_url: https://data.dre.pt/eli/dec-lei/111/1995/05/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1995-505068
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-05-23T00:00:00Z'
+integrity:
+  source_sha256: 2d00760c4f942fd4874d66757005dbaf20920347fe8b4cc42fe5ad62bb586e9d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-111-505068.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Descobrimentos Portugueses
+- Moeda Comemorativa
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 111/95
+
+de 23 de Maio
+
+Em continuação do programa monetário e numismático alusivo aos Descobrimentos Portugueses, iniciado em 1987 no âmbito do plano de acções da Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, a 6.ª série destas moedas comemorativas é alusiva às navegações e explorações marítimas nos mares de Java e de Banda, que conduziram à chegada dos primeiros portugueses às ilhas Molucas (1512), às ilhas de Solor e de Timor (1515) e às costas da Austrália (1522-1525).
+
+Após a conquista de Malaca em 1511 por Afonso de Albuquerque, as navegações portuguesas dividiram-se em duas grandes rotas marítimas, a primeira em busca das famosas ilhas das especiarias e a segunda visando o encontro com o Celeste Império. Em 1512, António de Abreu e Francisco Serrão chegam às Molucas, as ilhas produtoras das especiarias raras, e três anos depois os Portugueses visitam pela primeira vez as ilhas de Solor e de Timor, donde provinha o melhor sândalo que aparecia nos mercados da Índia.
+
+A presença dos Portugueses nos mares da Insulíndia incrementou a busca da lendária ilha do Ouro e da mítica Terra Australis da cartografia ptolemaica. Entre as expedições que estão hoje suficientemente bem documentadas, as de Cristóvão de Mendonça, em 1522, e de Gomes de Sequeira, em 1525, deixaram evidentes registos cartográficos das suas visitas às costas do Noroeste Australiano, 80 anos antes das primeiras expedições de outros povos europeus.
+
+Considera-se, assim, oportuno assinalar esses eventos dos Portugueses com a emissão de uma série de moedas comemorativas alusivas à conquista de Malaca, às expedições marítimas às ilhas Molucas, às ilhas de Solor e de Timor e ao continente australiano.
+
+Foi ouvido o Banco de Portugal, nos termos do n.º 3 do artigo 8.º da sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma série de quatro moedas comemorativas, com o valor facial de 200$00, alusivas à conquista de Malaca, às primeiras expedições e viagens às ilhas Molucas, às ilhas de Solor e de Timor e às costas da Austrália.
+
+2 - Cada uma das moedas referidas no número anterior será cunhada em liga de cuproníquel de toque 75/25, com 36 mm de diâmetro e 21 g de peso, com uma tolerância de mais ou menos 1,5% do peso e no toque, e terá bordo serrilhado.
+
+###### Art. 2.º - 1 - A gravura do anverso da moeda alusiva à conquista de Malaca apresenta, no lado direito do campo, uma representação da nau-capitania de Afonso de Albuquerque, cujo nome, Flor de la Mar, aparece inscrito ao nível da linha de água, no lado esquerdo, o escudo das armas nacionais, tendo por baixo a data «1995», na orla superior, a legenda «República Portuguesa» e, na orla inferior, o valor facial «200 Esc.».
+
+2 - A gravura do reverso apresenta, no lado direito do campo, a figura de Afonso de Albuquerque, de pé e corpo inteiro, inspirada na iconografia do século XVI, no lado esquerdo, uma representação da Porta de Santiago da muralha da Fortaleza de Malaca, na orla inferior, a legenda «Afonso de Albuquerque» e, na orla superior, com separadores de flores-de-lis, a legenda «Melaka. 1511. Malaca».
+
+###### Art. 3.º - 1 - A gravura do anverso da moeda alusiva à chegada às ilhas Molucas apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo o valor facial de «200 Esc.» em duas linhas, no centro e lado direito, a legenda «República/Portuguesa/1995», em três linhas, na parte superior do campo, uma representação da planta do cravinho e, na parte inferior, uma representação da planta e do fruto da noz-moscada.
+
+2 - A gravura do reverso apresenta, no lado direito do campo, uma representação do arquipélago das Molucas, tendo assinalado em inscrição os nomes das ilhas de Ternate e de Tidore, na parte inferior do campo, uma nau portuguesa navegando ao encontro das ilhas e, na parte superior, a legenda «Ilhas das Especiarias/Molucas/1512», em três arcos de círculo concêntricos.
+
+###### Art. 4.º - 1 - A gravura do anverso da moeda alusiva à chegada às ilhas de Solor e de Timor apresenta, na parte superior do campo, o escudo das armas nacionais, no lado direito, o valor facial «200 Esc.», em duas linhas, na parte inferior, uma nau portuguesa quinhentista, no lado esquerdo, uma representação da árvore do sândalo, na orla superior, a legenda «República Portuguesa», na orla inferior, a era «1995» e, junto ao rebordo, uma dupla cercadura de triângulos.
+
+2 - A gravura do reverso apresenta, no centro do campo, uma representação cartográfica das ilhas de Solor, Atauro e Timor, tendo sobreposta ao centro a cruz da Ordem de Cristo, rodeada por diversos elementos alegóricos e representativos dos mitos, tradições, usos e costumes do povo maubere, designadamente a cobra, símbolo das forças primordiais geradoras de vida, o búfalo, símbolo de riqueza, o cavalo timorense, o crocodilo, da lenda da criação de Timor, e o diadema, insígnia de chefia, no lado inferior direito, a representação de um régulo de meio corpo de perfil à esquerda, com as suas insígnias e panos tradicionais e, junto ao rebordo, uma dupla cercadura de triângulos.
+
+###### Art. 5.º - 1 - A gravura do anverso da moeda alusiva ao reconhecimento da Austrália apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo a data «1995», no lado direito, uma esfera armilar de recorte quinhentista, na parte inferior do campo, o valor facial «200 Esc.», na orla superior, uma cercadura de pérolas e, na orla inferior, a legenda «República Portuguesa».
+
+2 - A gravura do reverso apresenta, no centro do campo, o contorno do mapa da Austrália tendo sobreposto um perfil da costa, na metade inferior, três caravelas redondas portuguesas navegando para leste, na parte inferior direita, as datas «1522/1525», em duas linhas, na orla superior, uma cercadura de pérolas e, na orla inferior, a legenda «Austrália».
+
+###### Art. 6.º O limite de emissão de cada uma destas moedas comemorativas é fixado em 159200000$00.
+
+###### Art. 7.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 20000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC), até 20000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), até 1000 espécimes numismáticos de paládio com acabamento «prova numismática» (proof), até 4000 espécimes numismáticos de ouro com acabamento «prova numismática» (proof) e até 1000 espécimes numismáticos de platina com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+
+2 - Os espécimes numismáticos de prata serão cunhados em liga de prata de toque 925/1000, com diâmetro de 36 mm, peso de 26,5 g e bordo serrilhado, sendo as tolerâncias no peso e no toque de mais ou menos 1/1000.
+
+3 - Os espécimes numismáticos de paládio serão cunhados em metal fino 999,5/1000, com diâmetro de 36 mm, peso de 31,119 g e bordo serrilhado, sendo as tolerâncias no peso de mais ou menos 2/1000.
+
+4 - Os espécimes numismáticos de ouro serão cunhados em liga de ouro de toque 916,6/1000, com diâmetro de 36 mm, peso de 27,2 g e bordo serrilhado, sendo as tolerâncias no peso de mais ou menos 3/1000 e no toque de mais ou menos 1/1000.
+
+5 - Os espécimes numismáticos de platina serão cunhados em metal fino 999,5/1000, com diâmetro de 36 mm, peso de 31,119 g e bordo serrilhado, sendo as tolerâncias no peso de mais ou menos 2/1000.
+
+###### Art. 8.º As moedas destinadas à distribuição pública pelo respectivo valor facial são postas em circulação por intermédio e sob requisição do Banco de Portugal.
+
+###### Art. 9.º O diferencial entre o valor facial e os correspondentes custos de produção, relativamente às moedas efectivamente colocadas junto do público, será afecto nos termos do artigo 8.º do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, com a redacção que lhe foi dada pelo artigo 3.º do [Decreto-Lei n.º 260/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1987-419474), de 29 de Junho.
+
+###### Art. 10.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 10000$00 nestas moedas.
+
+Visto e aprovado em Conselho de Ministros de 20 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
+
+**Promulgado em 4 de Maio de 1995.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 10 de Maio de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:237098:por
+title: Portaria n.º 21220
+short_title: null
+summary: Reforça verbas inscritas na tabela de despesa do orçamento privativo das forças aéreas ultramarinas da província
+  de Angola para o ano de 1964 - Anula a Portaria n.º 21118
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '21220'
+official_date: null
+publication_date: '1965-04-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 80/1965, Série I de 1965-04-13
+  number: '80'
+  series: I
+  supplement: null
+  pages: 431 - 432
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/04/08000/04310432.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '237098'
+  dre_path: /dr/detalhe/portaria/21220-1965-237098
+  internal: pt:dre:237098:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21220-1965-237098
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21220-1965-237098
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1965-04-13T00:00:00Z'
+integrity:
+  source_sha256: 545b1bf2455a4bc5b9df649c383d3a8fcf1dc219d8e42f3638153e93d32e3d5e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-21220-237098.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 43
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21220
+
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+
+Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42559-1959-429862), de 3 de Outubro de 1959, reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa do orçamento privativo das forças aéreas ultramarinas da província de Angola para o ano de 1964:
+
+Despesas com o pessoal
+
+Pessoal permanente e não permanente privativo da Força Aérea
+
+###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificação a militares dos quadros - De especialidade» ... 300000$00
+
+Pessoal privativo equiparado a militar e civil
+
+###### Artigo 5.º, n.º 1), alínea a) «Outras despesas com o pessoal - Ajudas de custo - Dentro e fora da província» ... 200000$00
+
+###### Artigo 5.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque» ... 200000$00
+
+###### Artigo 5.º, n.º 2), alínea c) «Outras despesas com o pessoal - Alimentação - Rações complementares, de combate, de voo, etc.» ... 100000$00
+
+###### Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 200000$00
+
+Despesas com o material
+
+###### Artigo 6.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 100000$00
+
+###### Artigo 6.º, n.º 1), alínea c) «Aquisições de utilização permanente - Móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, de educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e de oficinas» ... 160000$00
+
+###### Artigo 6.º, n.º 1), alínea d) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilização, de desenhar, de reprodução de escritos e desenhos, ficheiros e outros móveis de escritório, de gabinete técnico e de arquivo» ... 50000$00
+
+###### Artigo 6.º, n.º 2), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Aviões e helicópteros, incluindo sobresselentes; viaturas, equipamentos de radiolocalização, meteorologia, circulação aérea, ajudas rádio, comunicações por e sem fios e de criptografia, incluindo sobresselentes; viaturas e equipamentos de abastecimento e de arranque de aviões e helicópteros e contra incêndios; outras viaturas e equipamentos de apoio no solo a aviões e helicópteros, incluindo sobresselentes» ... 400000$00
+
+###### Artigo 6.º-A, n.º 1) «Construções e obras novas - Construções e obras novas» ... 100000$00
+
+###### Artigo 7.º, n.º 1), «Despesas de conservação e aproveitamento do material - De imóveis» ... 100000$00
+
+###### Artigo 7.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 60000$00
+
+###### Artigo 7.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 5000$00
+
+###### Artigo 7.º, n.º 4), alínea a) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança e pública - Aviões e helicópteros, incluindo sobresselentes; viaturas, equipamentos de radiolocalização, meteorologia, circulação aérea, ajudas rádio, comunicações por e sem fios e de criptografia, incluindo sobresselentes; viaturas e equipamentos de abastecimento e de arranque de aviões e helicópteros e contra incêndios; outras viaturas e equipamentos de apoio no solo a aviões e helicópteros, incluindo sobresselentes» ... 22000$00
+
+###### Artigo 8.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados para usos laboratoriais, oficinais e de estaleiro de obras» ... 58000$00
+
+###### Artigo 8.º, n.º 2) «Material de consumo corrente - Impressos» ... 15000$00
+
+###### Artigo 8.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 170000$00
+
+###### Artigo 8.º, n.º 4) «Material de consumo corrente - Material para a elaboração de compêndios, apontamentos, desenhos e outros elementos didácticos» ... 10000$00
+
+Pagamento de serviços e diversos encargos
+
+###### Artigo 9.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 512000$00
+
+###### Artigo 9.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 10000$00
+
+###### Artigo 10.º, n.º 3) «Despesas de comunicações - Transportes» ... 20000$00
+
+###### Artigo 12.º, n.º 1) «Encargos administrativos - Subvenção de família» ... 900000$00
+
+###### Artigo 14.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 1000000$00
+
+... 4682000$00
+
+tomando como contrapartida as seguintes disponibilidades da mesma tabela de despesas:
+
+Despesas com o pessoal
+
+Pessoal militar permanente e não permanente privativo da Força Aérea
+
+###### Artigo 2.º, n.º 1), alínea d) «Remunerações acidentais - Gratificação a militares dos quadros - Por funções especiais» ... 12000$00
+
+###### Artigo 2.º, n.º 1), alínea e) «Remunerações acidentais - Gratificação a militares dos quadros - De isolamento» ... 300000$00
+
+Pessoal privativo equiparado a militar e civil
+
+###### Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal graduado» ... 100000$00
+
+###### Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 1100000$00
+
+###### Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 150000$00
+
+###### Artigo 5.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 1600000$00
+
+###### Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 300000$00
+
+Despesas com o material
+
+###### Artigo 6.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Livros, revistas, boletins técnicos, outras publicações e suas encadernações» ... 56000$00
+
+###### Artigo 7.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Alimentação de cães de guerra» ... 48000$00
+
+###### Artigo 7.º, n.º 3), alínea b) «Despesas de conservação e aproveitamento do material - De móveis - Máquinas de escrever, de calcular, de contabilização, de desenhar, de reprodução de escritos e desenhos, ficheiros e outros móveis de escritório, de gabinete técnico e de arquivo» ... 20000$00
+
+###### Artigo 7.º, n.º 3), alínea c) «Despesas de conservação e aproveitamento do material - De móveis - Equipamento de instrução e de treino operacional, material de assistência religiosa, sanitário, de educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e de oficinas» ... 5000$00
+
+###### Artigo 7.º, n.º 3), alínea d) «Despesas de conservação e aproveitamento do material - De móveis - Equipamento para execução de obras» ... 5000$00
+
+###### Artigo 7.º, n.º 4), alínea b) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública - Armamento, pára-quedas e equipamento individual e colectivo do pessoal navegante e terrestre, incluindo sobresselentes» ... 20000$00
+
+###### Artigo 7.º, n.º 4), alínea c) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública - Combustíveis, lubrificantes, oxigénio e outros compostos e elementos» ... 180000$00
+
+Pagamento de serviços e diversos encargos
+
+###### Artigo 10.º, n.º 2) «Despesas de Comunicações Telefones» ... 36000$00
+
+###### Artigo 11.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 71000$00
+
+###### Artigo 13.º, n.º 2) «Outros encargos - Subsídios a estabelecimentos e instituições oficiais, escolas e organizações civis de posição e tirocínio de pilotos aviadores e pára-quedistas (artigo 9.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961)» ... 380000$00
+
+###### Artigo 13.º, n.º 3) «Outros encargos - Força motriz» ... 207000$00
+
+###### Artigo 13.º, n.º 4) «Outros encargos - Subsídios para funerais» ... 100000$00
+
+###### Artigo 13.º, n.º 5) «Outros encargos - Tratamento e outras despesas com sinistrados, bem como indemnização para compensação de danos causados em semoventes, propriedades, etc.» ... 2000$00
+
+... 4692000$00
+
+Esta portaria anula a [Portaria n.º 21118](https://diariodarepublica.pt/dr/detalhe/portaria/21118-1965-238815), de 20 de Fevereiro de 1965.
+
+Presidência do Conselho, 13 de Abril de 1965. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

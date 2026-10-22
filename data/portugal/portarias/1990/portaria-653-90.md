@@ -1,0 +1,2115 @@
+---
+schema_version: '1.0'
+id: pt:dre:573493:por
+title: Portaria n.º 653/90
+short_title: null
+summary: Fixa os mapas do pessoal assalariado das embaixadas e consulados, com efeitos a partir de 1 de Janeiro de 1990
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 653/90
+official_date: null
+publication_date: '1990-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/1990, Série I de 1990-08-09
+  number: '183'
+  series: I
+  supplement: null
+  pages: 3283 - 3292
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18300/32833292.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '573493'
+  dre_path: /dr/detalhe/portaria/653-1990-573493
+  internal: pt:dre:573493:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-1990-573493
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-1990-573493
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-08-09T00:00:00Z'
+integrity:
+  source_sha256: 2275a9d7ddd9d405364149abe9965f9fdc61994b0c999ceac15dfc1798b53f54
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-653-573493.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 653/90
+
+de 9 de Agosto
+
+Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º do artigo 158.º do Regulamento do Ministério dos Negócios Estrangeiros, com a redacção, dada pelo [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), de 3 de Novembro, que os mapas de pessoal assalariado das embaixadas e consulados, com efeitos a partir de 1 de Janeiro de 1990, passem a ser os seguintes:
+
+Embaixada em Abijão:
+
+Dois tradutores - intérpretes;
+
+Um motorista;
+
+Dois porteiros;
+
+Um contínuo;
+
+Três Guardas;
+
+Três auxiliares de serviço.
+
+Embaixada em Angora:
+
+Dois chanceleres;
+
+Um secretário de 1.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Três auxiliares de serviço.
+
+Embaixada em Argel:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Três auxiliares de serviço.
+
+Embaixada em Atenas:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois tradutores-intérpretes;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um porteiro;
+
+Um motorista;
+
+Dois auxiliares de serviço.
+
+Embaixada em Bagdade:
+
+Dois chanceleres (ver nota b);
+
+Um tradutor-intérprete;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Banguecoque:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe.
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Três auxiliares de serviço.
+
+Embaixada em Belgrado:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Três secretários de 1.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Berlim:
+
+Um vice-cônsul;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um jardineiro;
+
+Três auxiliares de serviço.
+
+Embaixada em Berna:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Dois secretários de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Três secretários de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Bissau:
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Dois jardineiros;
+
+Dois guardas;
+
+Três auxiliares de serviço.
+
+Embaixada em Bogotá:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Dois auxiliares de serviço.
+
+Embaixada em Bona:
+
+Um chefe do serviço social;
+
+Um chanceler;
+
+Um empregado;
+
+Quatro tradutores-intérpretes;
+
+Dois técnicos do serviço social;
+
+Três secretários de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um telefonista;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Quatro auxiliares de serviço.
+
+Embaixada em Brasília:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Três secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe;
+
+Três secretários de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Dois contínuos;
+
+Um zelador;
+
+Cinco guardas;
+
+Dois jardineiros;
+
+Cinco auxiliares de serviço.
+
+Embaixada em Bruxelas:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Dois tradutores-intérpretes (ver nota c);
+
+Cinco secretários de 1.ª classe (ver nota d);
+
+Quatro secretários de 2.ª classe (ver nota c);
+
+Um telefonista;
+
+Um motorista;
+
+Dois contínuos (ver nota c);
+
+Um porteiro;
+
+Três auxiliares de serviço (ver nota c).
+
+Embaixada em Budapeste:
+
+Um vice-cônsul;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Buenos Aires:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada no Cairo:
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Camberra:
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Dois auxiliares de serviço.
+
+Embaixada em Caracas:
+
+Dois chanceleres;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe (ver nota b);
+
+Dois motoristas (ver nota b);
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Copenhaga:
+
+Um chanceler;
+
+Dois tradutores-intépretes;
+
+Dois secretários de 1.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Dacar:
+
+Um vice-cônsul;
+
+Um tradutor-intéprete;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Um guarda;
+
+Dois auxiliares de serviço.
+
+Embaixada em Dublim:
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Estocolmo:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Dois tradutores-intérpretes;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada na Haia:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Harare:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Dois guardas;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Havana:
+
+Um secretário de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Três auxiliares de serviço.
+
+Embaixada em Helsínquia:
+
+Dois tradutores-intérpretes;
+
+Dois secretários de 1.ª classe (ver nota b);
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Islamabade:
+
+Um vice-cônsul;
+
+Dois secretários de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Cinco guardas;
+
+Quatro auxiliares de serviço.
+
+Embaixada em Kinshasa:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Três secretários de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Dois contínuos;
+
+Dois guardas;
+
+Um jardineiro;
+
+Três auxiliares de serviço.
+
+Embaixada em Lagos:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Quatro guardas;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Lima:
+
+Um vice-cônsul;
+
+Um tradutor-intérprete;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Londres:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Cinco secretários de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um zelador;
+
+Um jardineiro;
+
+Seis auxiliares de serviço (ver nota b).
+
+Embaixada em Luanda:
+
+Um chanceler;
+
+Um consultor médico;
+
+Um empregado;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Quatro secretários de 3.ª classe;
+
+Um telefonista;
+
+Quatro motoristas;
+
+Dois porteiros;
+
+Um zelador;
+
+Sete guardas;
+
+Dois contínuos;
+
+Um jardineiro;
+
+Nove auxiliares de serviço.
+
+Embaixada em Lusaka:
+
+Um chanceler;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um guarda;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada no Luxemburgo:
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Madrid:
+
+Um chanceler;
+
+Um empregado;
+
+Dois secretários de 1.ª classe;
+
+Cinco secretários de 2.ª classe;
+
+Um telefonista;
+
+Um motorista;
+
+Um porteiro;
+
+Três contínuos;
+
+Quatro auxiliares de serviço.
+
+Embaixada no Maputo:
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Cinco secretários de 2.ª classe;
+
+Um telefonista;
+
+Dois motoristas;
+
+Duas guardas;
+
+Dois contínuos;
+
+Um jardineiro;
+
+Um porteiro.
+
+Nove auxiliares de serviço.
+
+Embaixada no México:
+
+Dois chanceleres;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Um guarda;
+
+Um jardineiro;
+
+Um auxiliar de serviço.
+
+Embaixada em Montevideu:
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Dois auxiliares de serviço.
+
+Embaixada em Moscovo:
+
+Um chanceler;
+
+Dois tradutores-intérpretes;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Três motoristas;
+
+Um contínuo;
+
+Um jardineiro;
+
+Três auxiliares de serviço.
+
+Embaixada em Nairobi:
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe (ver nota b);
+
+Dois secretários de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um porteiro;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Nova Deli:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe (ver nota g);
+
+Seis secretários de 3.ª classe (ver nota g);
+
+Um motorista;
+
+Um porteiro;
+
+Um jardineiro;
+
+Quatro guardas;
+
+Cinco auxiliares de serviço.
+
+Embaixada em Oslo:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um motorista;
+
+Três auxiliares de serviço.
+
+Embaixada em Otava:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Paris:
+
+Um vice-cônsul;
+
+Um tradutor-intérprete;
+
+Cinco secretários de 1.ª classe;
+
+11 secretários de 2.ª classe;
+
+Um telefonista;
+
+Um motorista;
+
+Um porteiro;
+
+Quatro contínuos;
+
+Cinco auxiliares de serviço.
+
+Embaixada em Pequim:
+
+Dois secretários de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Dois telefonistas;
+
+Dois motoristas;
+
+Um porteiro;
+
+Um contínuo;
+
+Três auxiliares de serviço.
+
+Embaixada em Praga:
+
+Um chanceler.
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Dois auxiliares de serviço.
+
+Embaixada na Praia:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Dois contínuos;
+
+Um zelador;
+
+Três guardas;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Pretória:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Dois contínuos;
+
+Um jardineiro;
+
+Três auxiliares de serviço.
+
+Embaixada em Rabat:
+
+Um vice-cônsul;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Dois guardas;
+
+Dois jardineiros;
+
+Dois auxiliares de serviço.
+
+Embaixada em Riad:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Três secretários de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Roma:
+
+Um vice-cônsul;
+
+Dois tradutores-intérpretes;
+
+Três secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Dois contínuos;
+
+Dois jardineiros;
+
+Três auxiliares de serviço.
+
+Embaixada em Santiago do Chile:
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Seul:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Três auxiliares de serviço.
+
+Embaixada em Sófia:
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um contínuo;
+
+Um porteiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em São Tomé:
+
+Um vice-cônsul;
+
+Um chanceler (ver nota a);
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Teerão:
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Dois jardineiros;
+
+Três auxiliares de serviço.
+
+Embaixada em Tóquio:
+
+Um vice-cônsul;
+
+Um tradutor-intérprete;
+
+Dois secretários de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Quatro secretários de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Três auxiliares de serviço.
+
+Embaixada em Tunes:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 3.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Um guarda;
+
+Um jardineiro;
+
+Dois auxiliares de serviço.
+
+Embaixada em Varsóvia:
+
+Um vice-cônsul;
+
+Dois tradutores-intérpretes;
+
+Um secretário de 2.ª classe;
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Três auxiliares de serviço.
+
+Embaixada no Vaticano:
+
+Um secretário de 1.ª classe;
+
+Um motorista;
+
+Dois porteiros;
+
+Um contínuo;
+
+Um zelador;
+
+Dois jardineiros;
+
+Quatro auxiliares de serviço.
+
+Embaixada em Viena:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois tradutores-intérpretes;
+
+Três secretários de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Dois motoristas;
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Embaixada em Washinton:
+
+Um vice-cônsul;
+
+Um chefe de serviço social;
+
+Dois chanceleres;
+
+Um empregado (ver nota a);
+
+Quatro tradutores-intérpretes;
+
+Cinco secretários de 1.ª classe;
+
+Oito secretários de 2.ª classe;
+
+Um secretário de 3.ª classe (ver nota a);
+
+Um motorista;
+
+Um porteiro;
+
+Um contínuo;
+
+Um jardineiro;
+
+Cinco auxiliares de serviço.
+
+Consulado-Geral em Barcelona:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado-Geral na Beira:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Três secretários de 3.ª classe;
+
+Um porteiro;
+
+Dois auxiliares de serviço.
+
+Consulado-Geral em Benguela:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe.
+
+Consulado-Geral em Bordéus:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Quatro secretários de 1.ª classe;
+
+Três secretários de 2.ª classe.
+
+Consulado-Geral em Boston:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Caracas:
+
+Dois vice-cônsules;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Cinco secretários de 2.ª classe;
+
+Oito secretários de 3.ª classe;
+
+Um porteiro;
+
+Dois contínuos;
+
+Um auxiliar de serviço (ver nota a).
+
+Consulado-Geral em Capetown:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Dusseldórfia:
+
+Um vice-cônsul;
+
+Um chefe de serviço social;
+
+Dois chanceleres;
+
+Um tradutor-intérprete;
+
+Três técnicos de serviço social;
+
+Três secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe.
+
+Consulado-Geral em Estrasburgo:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe.
+
+Consulado-Geral em Estugarda:
+
+Um chefe de serviço social;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Dois técnicos de serviço social (ver nota b);
+
+Dois secretários de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Frankfurt:
+
+Um vice-cônsul;
+
+Um chefe de serviço social;
+
+Um tradutor-intérprete;
+
+Um técnico de serviço social;
+
+Dois secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe.
+
+Consulado-Geral em Genebra:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Três secretários de 1.ª classe;
+
+Oito secretários de 2.ª classe;
+
+Um contínuo;
+
+Um telefonista.
+
+Consulado-Geral em Hamburgo:
+
+Um vice-cônsul;
+
+Um chefe de serviço social;
+
+Um técnico de serviço social;
+
+Três secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe.
+
+Consulado-Geral em Hong-Kong:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Três secretários de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Joanesburgo:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Um tradutor-intérprete;
+
+Três secretários de 1.ª classe;
+
+Cinco secretários de 2.ª classe;
+
+Doze secretários de 3.ª classe;
+
+Dois contínuos.
+
+Consulado-Geral em Lião:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Sete secretários de 1.ª classe;
+
+Onze secretários de 2.ª classe.
+
+Consulado-Geral em Londres:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Um secretário de 1.ª classe;
+
+Nove secretários de 2.ª classe;
+
+Um porteiro.
+
+Consulado-Geral em Luanda:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Três secretários de 1.ª classe;
+
+Cinco secretários de 2.ª classe;
+
+Oito secretários de 3.ª classe;
+
+Um porteiro;
+
+Um contínuo;
+
+Dois auxiliares de serviço.
+
+Consulado-Geral no Luxemburgo:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Madrid:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Três secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe;
+
+Dois contínuos.
+
+Consulado-Geral no Maputo:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um técnico de serviço social;
+
+Quatro secretários de 1.ª classe;
+
+Sete secretários de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um telefonista;
+
+Um motorista;
+
+Dois porteiros;
+
+Dois contínuos;
+
+Um guarda;
+
+Um auxiliar de serviço.
+
+Consulado-Geral em Marselha:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe.
+
+Consulado-Geral em Milão:
+
+Um vice-cônsul;
+
+Um secretário de 2.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Montreal:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe (ver nota b);
+
+Dois secretários de 2.ª classe;
+
+Um secretário de 3.ª classe.
+
+Consulado-Geral de Nova Iorque:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um contínuo;
+
+Dois empregados;
+
+Um auxiliar de serviço.
+
+Consulado-Geral em Osnabruck:
+
+Um vice-cônsul;
+
+Um chefe de serviço social;
+
+Um chanceler;
+
+Um empregado (ver nota a);
+
+Um tradutor-intérprete;
+
+Um técnico de serviço social;
+
+Um secretário de 1.ª classe;
+
+Três secretários de 3.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Paris:
+
+Três vice-cônsules;
+
+Quatro chanceleres;
+
+Três tradutores-intérpretes;
+
+Quinze secretários de 1.ª classe;
+
+Treze secretários de 2.ª classe;
+
+Dez secretários de 3.ª classe;
+
+Um porteiro;
+
+Um contínuo.
+
+Consulado-Geral no Rio de Janeiro:
+
+Um vice-cônsul;
+
+Um chefe de serviço social;
+
+Um chanceler;
+
+Quatro secretários de 1.ª classe;
+
+Sete secretários de 2.ª classe;
+
+Nove secretários de 3.ª classe;
+
+Um telefonista;
+
+Um motorista;
+
+Um contínuo;
+
+Um jardineiro;
+
+Dois guardas;
+
+Quatro auxiliares de serviço.
+
+Consulado-Geral em Roterdão:
+
+Um vice-cônsul;
+
+Um chefe de serviço social;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em São Francisco:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Um secretário de 1.ª classe;
+
+Dois contínuos.
+
+Consulado-Geral em São Paulo:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Quatro secretários de 1.ª classe;
+
+Seis secretários de 2.ª classe;
+
+Sete secretários de 3.ª classe;
+
+Um telefonista;
+
+Um porteiro;
+
+Dois contínuos.
+
+Consulado-Geral em Toronto:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Três secretários de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Cinco secretários de 3.ª classe;
+
+Um contínuo.
+
+Consulado-Geral em Zurique:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Quatro secretários de 1.ª classe (ver nota b);
+
+Três secretários de 2.ª classe;
+
+Um telefonista;
+
+Um contínuo.
+
+Consulado em Baiona:
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Belo Horizonte:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um contínuo.
+
+Consulado em Clermon-Ferrand:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Três secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Curitiba:
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Um secretário de 3.ª classe;
+
+Um contínuo.
+
+Consulado em Durban:
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Hamilton:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 3.ª classe.
+
+Consulado em Lille:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Nanci:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe.
+
+Consulado em Nantes:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um empregado (ver nota a);
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe.
+
+Consulado em Newark:
+
+Dois vice-cônsules (ver nota b);
+
+Um chanceler;
+
+Quatro secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em New Bedford:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Nogent-sur-Marne:
+
+Dois vice-cônsules;
+
+Dois chanceleres;
+
+Onze secretários de 1.ª classe;
+
+Dezanove secretários de 2.ª classe;
+
+Quatro secretários de 3.ª classe;
+
+Um porteiro;
+
+Dois contínuos.
+
+Consulado em Orleães:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe.
+
+Consulado em Pará - Belém:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 3.ª classe;
+
+Um contínuo;
+
+Um auxiliar de serviço.
+
+Consulado em Porto Alegre:
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Providence:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um tradutor-intérprete;
+
+Dois secretários de 1.ª classe (ver nota b);
+
+Dois secretários de 2.ª classe.
+
+Consulado no Recife:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Reims:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe.
+
+Consulado em Ruão:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Três secretários de 2.ª classe.
+
+Consulado em San Sebastián:
+
+Um empregado;
+
+Um secretário de 1.ª classe;
+
+Três secretários de 2.ª classe.
+
+Consulado em Salvador - Baia:
+
+Um vice-cônsul;
+
+Um secretário de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um contínuo.
+
+Consulado em Santos:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Três secretários de 3.ª classe;
+
+Um contínuo;
+
+Um auxiliar de serviço.
+
+Consulado em Sevilha:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Dois secretários de 3.ª classe;
+
+Um contínuo.
+
+Consulado em Sydney:
+
+Um vice-cônsul;
+
+Dois secretários de 1.ª classe;
+
+Dois secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Toulouse:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Três secretários de 1.ª classe;
+
+Seis secretários de 2.ª classe (ver nota e);
+
+Um secretário de 3.ª classe.
+
+Consulado em Tours:
+
+Um vice-cônsul;
+
+Dois secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe;
+
+Um contínuo.
+
+Consulado em Valência:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Dois secretários de 1.ª classe;
+
+Quatro secretários de 2.ª classe;
+
+Dez secretários de 3.ª classe (ver nota f);
+
+Dois auxiliares de serviço;
+
+Um contínuo.
+
+Consulado em Vancôver:
+
+Um chanceler;
+
+Um secretário de 1.ª classe;
+
+Dois secretários de 2.ª classe.
+
+Consulado em Versalhes:
+
+Um vice-cônsul;
+
+Dois chanceleres;
+
+Um tradutor-intérprete;
+
+Nove secretários de 1.ª classe;
+
+Nove secretários de 2.ª classe;
+
+Três secretários de 3.ª classe;
+
+Dois contínuos.
+
+Consulado em Vigo:
+
+Um vice-cônsul;
+
+Um chanceler;
+
+Um empregado (ver nota a);
+
+Um secretário de 1.ª classe;
+
+Três secretários de 2.ª classe;
+
+Um auxiliar de serviço.
+
+Consulado em Windhoek:
+
+Um vice-cônsul;
+
+Um secretário de 1.ª classe;
+
+Um secretário de 2.ª classe;
+
+Um contínuo.
+
+(nota a) Lugar a extinguir quando vagar.
+
+(nota b) Um lugar a extinguir quando vagar.
+
+(nota c) Uma unidade contratada nos termos e ao abrigo do Protocolo com o Governo de Macau, publicado no Diário da República, 2.ª série, n.º 273, de 26 de Novembro de 1987.
+
+(nota d) Três unidades contratadas nos termos e ao abrigo do Protocolo com o Governo de Macau acima referido.
+
+(nota e) Dois lugares a exinguir quando vagarem.
+
+(nota f) Três lugares a exinguir quando vagarem.
+
+(nota g) Uma unidade contratada nos termos e ao abrigo do n.º 4.2 do Protocolo de Cooperação entre o Ministério dos Negócios Estrangeiros e o Governo de Macau, publicado no Diário da República, 2.ª série, n.º 181, de 8 de Agosto de 1989.
+
+Ministério dos Negócios Estrangeiros.
+
+**Assinada em 20 de Julho de 1990.**
+
+Pelo Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.

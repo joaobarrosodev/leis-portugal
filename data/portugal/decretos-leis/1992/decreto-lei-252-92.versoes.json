@@ -1,0 +1,1383 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:584790:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-868735827",
+ "dre_path": "/dr/detalhe/decreto-lei/252-1992-584790",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1992-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868583389",
+    "868583390",
+    "868583391",
+    "868583392",
+    "868583393",
+    "868583394",
+    "868583395",
+    "868583396",
+    "868583397",
+    "868583398",
+    "868583399",
+    "868583400",
+    "868583401",
+    "868583402",
+    "868583403",
+    "868583404",
+    "868583405",
+    "868583406",
+    "868583407",
+    "868583408",
+    "868583409",
+    "868583410",
+    "868583411",
+    "868583412",
+    "868583413",
+    "868583414",
+    "868583415",
+    "868583416",
+    "868583417",
+    "868583418",
+    "868583419",
+    "868583420",
+    "868583421",
+    "868583422",
+    "868583423",
+    "868583424",
+    "868583425",
+    "868583426",
+    "868583427",
+    "868583428"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:626589:por",
+     "title": "Decreto-Lei n.º 316/95",
+     "published": "1995-11-28",
+     "dre_path": "/dr/detalhe/decreto-lei/316-1995-626589",
+     "date": "1995-10-01"
+    }
+   ]
+  },
+  {
+   "date": "2001-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:379708:por",
+     "title": "Decreto-Lei n.º 213/2001",
+     "published": "2001-08-02",
+     "dre_path": "/dr/detalhe/decreto-lei/213-2001-379708"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Artigo 4.º-C",
+    "Adita Artigo 4.º-D",
+    "Adita Artigo 4.º-E",
+    "Adita Artigo 4.º-F",
+    "Altera Capítulo I",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Altera Capítulo V",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "868583389",
+    "869608779",
+    "869608780",
+    "869608781",
+    "868583393",
+    "868583394",
+    "869608782",
+    "869608788",
+    "869608790",
+    "869608792",
+    "869608794",
+    "869608796",
+    "869608798",
+    "869608799",
+    "868583397",
+    "868583398",
+    "869608274",
+    "868583400",
+    "868583401",
+    "868583402",
+    "869608820",
+    "868583404",
+    "868583405",
+    "869608783",
+    "869608784",
+    "869608785",
+    "868583409",
+    "869608786",
+    "868583411",
+    "868583412",
+    "869608825",
+    "869608826",
+    "868583415",
+    "868583416",
+    "868583417",
+    "868583418",
+    "868583419",
+    "868583420",
+    "869608775",
+    "868583422",
+    "868583423",
+    "868583424",
+    "868583425",
+    "868583426",
+    "868583427",
+    "868583428",
+    "868583429"
+   ]
+  },
+  {
+   "date": "2003-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448163:por",
+     "title": "Decreto-Lei n.º 264/2002",
+     "published": "2002-11-25",
+     "dre_path": "/dr/detalhe/decreto-lei/264-2002-448163"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-C",
+    "Altera Artigo 4.º-F",
+    "Revoga Artigo 4.º-B"
+   ],
+   "fragments": [
+    "868583389",
+    "869608779",
+    "869608780",
+    "869608781",
+    "868583393",
+    "868583394",
+    "869608782",
+    "869608788",
+    "869608837",
+    "869608832",
+    "869608794",
+    "869608796",
+    "869608835",
+    "869608799",
+    "868583397",
+    "868583398",
+    "869608274",
+    "868583400",
+    "868583401",
+    "868583402",
+    "869608820",
+    "868583404",
+    "868583405",
+    "869608783",
+    "869608784",
+    "869608785",
+    "868583409",
+    "869608786",
+    "868583411",
+    "868583412",
+    "869608825",
+    "869608826",
+    "868583415",
+    "868583416",
+    "868583417",
+    "868583418",
+    "868583419",
+    "868583420",
+    "869608775",
+    "868583422",
+    "868583423",
+    "868583424",
+    "868583425",
+    "868583426",
+    "868583427",
+    "868583428",
+    "868583429"
+   ]
+  },
+  {
+   "date": "2005-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485267:por",
+     "title": "Lei n.º 52-A/2005",
+     "published": "2005-10-10",
+     "dre_path": "/dr/detalhe/lei/52-a-2005-485267"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "868583389",
+    "869608779",
+    "869608780",
+    "869608781",
+    "868583393",
+    "868583394",
+    "869608782",
+    "869608788",
+    "869608837",
+    "869608832",
+    "869608794",
+    "869608796",
+    "869608835",
+    "869608799",
+    "868583397",
+    "868583398",
+    "869608274",
+    "868583400",
+    "868583401",
+    "868583402",
+    "869608820",
+    "868583404",
+    "868583405",
+    "869608783",
+    "869608784",
+    "869608785",
+    "868583409",
+    "869608786",
+    "868583411",
+    "869608839",
+    "869608825",
+    "869608826",
+    "869608840",
+    "869608838",
+    "869608841",
+    "869608842",
+    "868583419",
+    "868583420",
+    "869608775",
+    "868583422",
+    "868583423",
+    "868583424",
+    "868583425",
+    "868583426",
+    "868583427",
+    "868583428",
+    "868583429"
+   ]
+  },
+  {
+   "date": "2007-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640908:por",
+     "title": "Lei n.º 40/2007",
+     "published": "2007-08-24",
+     "dre_path": "/dr/detalhe/lei/40-2007-640908"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-F"
+   ],
+   "fragments": [
+    "868583389",
+    "869608779",
+    "869608780",
+    "869608781",
+    "868583393",
+    "868583394",
+    "869608782",
+    "869608788",
+    "869608837",
+    "869608832",
+    "869608794",
+    "869608796",
+    "869608843",
+    "869608799",
+    "868583397",
+    "868583398",
+    "869608274",
+    "868583400",
+    "868583401",
+    "868583402",
+    "869608820",
+    "868583404",
+    "868583405",
+    "869608783",
+    "869608784",
+    "869608785",
+    "868583409",
+    "869608786",
+    "868583411",
+    "869608839",
+    "869608825",
+    "869608826",
+    "869608840",
+    "869608838",
+    "869608841",
+    "869608842",
+    "868583419",
+    "868583420",
+    "869608775",
+    "868583422",
+    "868583423",
+    "868583424",
+    "868583425",
+    "868583426",
+    "868583427",
+    "868583428",
+    "868583429"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 4.º-A",
+    "Revoga Artigo 4.º-C",
+    "Revoga Artigo 4.º-D",
+    "Revoga Artigo 4.º-E",
+    "Revoga Artigo 4.º-F",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º"
+   ],
+   "fragments": [
+    "868583389",
+    "869608779",
+    "869608857",
+    "869608858",
+    "869608859",
+    "868583394",
+    "869608860",
+    "869608861",
+    "869608837",
+    "869608862",
+    "869608863",
+    "869608864",
+    "869608865",
+    "869608866",
+    "868583397",
+    "869608867",
+    "869608868",
+    "869608869",
+    "868583401",
+    "869608870",
+    "869608871",
+    "869608872",
+    "869608873",
+    "869608783",
+    "869608874",
+    "869571675",
+    "868583409",
+    "869571676",
+    "868583411",
+    "869571677",
+    "869608825",
+    "869608826",
+    "869608840",
+    "869571678",
+    "869608841",
+    "869608842",
+    "868583419",
+    "869571679",
+    "869571680",
+    "869571681",
+    "868583423",
+    "869571682",
+    "869571683",
+    "869571684",
+    "869571685",
+    "869571686",
+    "868583429"
+   ]
+  }
+ ],
+ "fragments": {
+  "868583389": {
+   "fragment_id": "868735828",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 252/92\n\nde 19 de Novembro\n\nO artigo 291.º da Constituição estabelece que, enquanto as regiões administrativas não estiverem instituídas, o governador civil se mantém como representante do Governo e como órgão encarregado do exercício da tutela na área do distrito.\n\nTem de reconhecer-se, porém, que o actual estatuto do governador civil não está claramente definido, havendo todas as vantagens em homogeneizar, tanto quanto possível, o conjunto variado e difuso de diplomas em que se traduz a moldura legal da sua actuação e das suas competências.\n\nSimultaneamente, entende o Governo dever reforçar o papel de estímulo à cooperação exercida pelo governador civil relativamente aos serviços desconcentrados que se localizem no distrito. É por esta razão que se cria um órgão de carácter consultivo, cujas funções e composição são de natureza a permitir a consecução daquele objectivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "868583390": {
+   "fragment_id": "868735829",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "868583391": {
+   "fragment_id": "868735830",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o estatuto orgânico e pessoal, as competências e o regime dos actos praticados pelo governador civil, bem como a composição e as competências dos órgãos consultivos e a organização dos serviços dos governos civis."
+  },
+  "868583392": {
+   "fragment_id": "868735831",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nO governador civil é o órgão que representa o Governo na área do distrito, para além de outras competências que lhe são atribuídas."
+  },
+  "868583393": {
+   "fragment_id": "868735832",
+   "type": 11,
+   "heading": "Artigo 3.º — Nomeação e exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Nomeação e exoneração\n\n1 - O governador civil é nomeado e exonerado pelo Governo, em Conselho de Ministros, por proposta do Ministro da Administração Interna, de quem depende hierárquica e organicamente.\n\n2 - O Ministro da Administração Interna pode propor um vice-governador civil para os distritos em que tal seja considerado conveniente pelo Conselho de Ministros, o qual será nomeado e exonerado nos termos do número anterior."
+  },
+  "868583394": {
+   "fragment_id": "868735833",
+   "type": 1,
+   "heading": "Capítulo II — Das competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Das competências"
+  },
+  "868583395": {
+   "fragment_id": "868735834",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências do governador civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do governador civil\n\n1 - Compete ao governador civil, como representante do Governo:\n\na) Exercer as funções de representação do Governo na área do distrito;\n\nb) Prestar informações ao Governo acerca de quaisquer asssuntos com interesse para o distrito ou que com aquele tenham relação;\n\nc) Enviar aos membros do Governo ou a quaisquer órgãos administrativos a quem se dirijam os requerimentos, exposições e petições que sejam entregues no governo civil, nos termos do n.º 3 do artigo 77.º do Código do Procedimento Administrativo;\n\nd) Desenvolver todas as diligências necessárias e convenientes a uma adequada cooperação entre os serviços públicos desconcentrados, de acordo com as orientações dos respectivos membros do Governo, e entre aqueles e outros órgãos administrativos localizados na circunscrição distrital.\n\n2 - Compete ao governador civil, no exercício de poderes de tutela:\n\na) Velar pelo cumprimentos das leis e regulamentos por parte dos órgãos autárquicos;\n\nb) Promover a realização de inquéritos aos órgãos e serviços das autarquias locais e associações de municípios do respectivo distrito, mediante solicitação dos respectivos órgãos deliberativos aprovada pela maioria dos membros em efectividade de funções;\n\nc) Participar ao agente do Ministério Público junto dos tribunais competentes as irregularidades de que indiciariamente enfermem os actos dos órgãos e serviços das autarquias locais e associações de município ou dos seus titulares.\n\n3 - Compete ao governador civil, no exercício de funções de polícia:\n\na) Tomar as providências necessárias para manter a ordem e a segurança públicas, requisitando, quando necessária, a intervenção das forças de segurança, aos comandantes da PSP e da GNR, instaladas no distrito;\n\nb) Conceder, nos termos da lei, autorizações ou licenças para o exercício de actividades, tendo sempre em conta a segurança dos cidadãos, a prevenção de riscos ou de perigos vários que àqueles sejam inerentes;\n\nc) Elaborar regulamentos obrigatórios em todo o distrito sobre matérias da sua competência policial que não sejam objecto de lei ou regulamento geral, a publicar no Diário da República, após aprovação do Governo, que pode ser efectuada por despacho do Ministro da Administração Interna.\n\n4 - Compete ao governador civil, no exercício de funções de protecção civil, desencadear e coordenar, na iminência ou ocorrência de acidente grave, catástrofe ou calamidade, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso, com a coadjuvação do chefe da delegação distrital de protecção civil e a colaboração dos agentes de protecção civil competentes, nos termos legais.\n\n5 - Além de outros poderes que lhe sejam atribuídos por lei, regulamento ou delegação do Ministro da Administração Interna, compete ao governador civil:\n\na) Presidir ao conselho consultivo do distrito;\n\nb) Exercer as funções legalmente estabelecidas no âmbito de processos eleitorais;\n\nc) Dirigir e coordenar os serviços do governo civil;\n\nd) Superintender na gestão e direcção do pessoal do governo civil;\n\ne) Aplicar aos funcionários e agentes que prestem serviço no governo civil penas disciplinares, nos termos do Estatuto Disciplinar dos Funcionários da Administração Central, Regional e Local;\n\nf) Aplicar as coimas e sanções acessórias a que haja lugar por violações dos regulamentos a que se refere a alínea c) do n.º 3."
+  },
+  "868583396": {
+   "fragment_id": "868735835",
+   "type": 11,
+   "heading": "Artigo 5.º — Vice-governador civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vice-governador civil\n\n1 - O vice-governador civil coadjuva o governador civil, substituindo-o nas suas faltas e impedimentos, e tem a competência que o governador civil nele delegar, por despacho publicado no Diáro da República.\n\n2 - O vice-governador civil só pode subdelegar os poderes cujo exercício lhe foi delegado quando expressamente autorizado por despacho do governador civil."
+  },
+  "868583397": {
+   "fragment_id": "868735836",
+   "type": 1,
+   "heading": "Capítulo III — Dos actos praticados pelo governador civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos actos praticados pelo governador civil"
+  },
+  "868583398": {
+   "fragment_id": "868735837",
+   "type": 11,
+   "heading": "Artigo 6.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Recursos\n\nDos actos do governador civil cabe recurso contencioso, nos termos da lei geral, e ainda, facultativamente, recurso hierárquico para o Ministro da Administração Interna."
+  },
+  "868583399": {
+   "fragment_id": "868735838",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\nA violação dos regulamentos da competência do governador civil constitui contra-ordenação punível com coima nos termos da lei geral."
+  },
+  "868583400": {
+   "fragment_id": "868735839",
+   "type": 11,
+   "heading": "Artigo 8.º — Urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Urgência\n\nSempre que o exijam circunstâncias excepcionais e urgentes de interesse público, o governador civil pode praticar todos os actos ou tomar todas as providências adminstrativas indispensáveis, solicitando, logo que lhe seja possível, a ratificação pelo órgão normalmente competente."
+  },
+  "868583401": {
+   "fragment_id": "868735840",
+   "type": 1,
+   "heading": "Capítulo IV — Da secretaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da secretaria"
+  },
+  "868583402": {
+   "fragment_id": "868735841",
+   "type": 11,
+   "heading": "Artigo 9.º — Expediente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Expediente\n\nO expediente do governo civil corre por uma secretaria privativa, dirigida por um secretário."
+  },
+  "868583403": {
+   "fragment_id": "868735842",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do secretário\n\n1 - Compete ao secretário:\n\na) Dirigir, sob as ordens do governador civil e em conformidade com o regulamento interno, o expediente e os trabalhos da secretaria;\n\nb) Exercer as funções de instrução nos procedimentos administrativos tendentes à prática de actos da competência do governador civil, nos termos do Código do Procedimento Administrativo;\n\nc) Receber e dar andamento a toda a correspondência ou quaisquer documentos que entrarem na secretaria, apresentando ao governador civil a correspondência fechada que tiver a indicação «Confidencial» ou «Reservada»;\n\nd) Autenticar todos os documentos e assinar todas as certidões expedidas pela secretaria e subscrever quaisquer termos oficiais;\n\ne) Conservar sob sua responsabilidade o arquivo do governo civil;\n\nf) Dar parecer relativo à interpretação e aplicação das leis, nas consultas que pelas autarquias locais sejam submetidas à apreciação do Governo, por intermédio do governo civil;\n\ng) Exercer quaisquer outras competências que lhe sejam impostas por lei, regulamento ou decisão do Governo.\n\n2 - O governador civil pode delegar no secretário o exercício de funções incluídas na sua competência por despacho publicado no Diário da República.\n\n3 - No impedimento simultâneo do governador civil e do vice-governador civil, exercerá as respectivas funções o secretário.\n\n4 - Em cada governo civil existirá um regulamento interno da respectiva secretaria, aprovado pelo Ministro da Administração Interna."
+  },
+  "868583404": {
+   "fragment_id": "868735843",
+   "type": 11,
+   "heading": "Artigo 11.º — Estatuto e forma de provimento do secretário do governo civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estatuto e forma de provimento do secretário do governo civil\n\n1 - O cargo de secretário do governo civil é equiparado ao de director de serviços, para efeitos do disposto no Decreto-Lei n.º 323/89, de 26 de Setembro.\n\n2 - O cargo de secretário do governo civil será provido por despacho do Ministro da Administração Interna de entre licenciados em Direito de reconhecida competência, de acordo com o disposto no artigo 4.º do Decreto-Lei n.º 323/89, de 26 de Setembro."
+  },
+  "868583405": {
+   "fragment_id": "868735844",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime jurídico do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime jurídico do pessoal\n\n1 - Ao pessoal que presta serviço na secretaria do governo civil é aplicável o regime jurídico dos funcionários e agentes da administração central.\n\n2 - Os quadros e categorias do pessoal do governo civil são fixados em portaria conjunta dos Ministros das Finanças e da Administração Interna."
+  },
+  "868583406": {
+   "fragment_id": "868735845",
+   "type": 1,
+   "heading": "Capítulo V — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Conselho consultivo"
+  },
+  "868583407": {
+   "fragment_id": "868735846",
+   "type": 11,
+   "heading": "Artigo 13.º — Definição e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Definição e composição\n\n1 - O conselho consultivo é um órgão de consulta do governador civil, que deverá reunir sempre que este entenda conveniente.\n\n2 - São membros do conselho consultivo:\n\na) O governador civil, que preside;\n\nb) O vice-governador civil, quando existir;\n\nc) Os responsáveis pelos serviços desconcentrados do Estado localizados na área do distrito, incluindo os das forças de segurança e o chefe da delegação distrital de protecção civil.\n\n3 - O governador civil solicitará ao ministro responsável por cada serviço a indicação do representante respectivo, sendo essa solicitação, quanto às forças de segurança, dirigida ao comando respectivo ou, nos casos em que tal não seja possível, ao ministro da tutela."
+  },
+  "868583408": {
+   "fragment_id": "868735847",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nCompete ao conselho consultivo pronunciar-se sobre qualquer assunto que o governador submeta à sua apreciação, nomeadamente em matérias que requeiram uma adequada cooperação entre os serviços públicos desconcentrados, ou entre estes e outros órgãos administrativos localizados na circunscrição distrital, nos termos previstos na alínea d) do n.º 1 do artigo 4.º."
+  },
+  "868583409": {
+   "fragment_id": "868735848",
+   "type": 1,
+   "heading": "Capítulo VI — Do gabinete de apoio pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Do gabinete de apoio pessoal"
+  },
+  "868583410": {
+   "fragment_id": "868735849",
+   "type": 11,
+   "heading": "Artigo 15.º — Constituição e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Constituição e composição\n\n1 - O governador civil poderá constituir um gabinete de apoio pessoal, composto por um máximo de dois adjuntos e um secretário, com remuneração a fixar pelo governador civil, não podendo exceder, respectivamente, os índices fixados para as categorias de técnico superior principal e de técnico-adjunto especialista de 1.ª classe.\n\n2 - Quando houver vice-governador civil, o gabinete mencionado no número anterior poderá ter dois secretários.\n\n3 - Os membros do referido gabinete são livremente nomeados e exonerados pelo governador civil, com efeitos desde a data do despacho respectivo.\n\n4 - Aos membros do gabinete são aplicáveis as disposições dos n.os 2, 3 e 4 do artigo 6.º do Decreto-Lei n.º 262/88, de 23 de Julho.\n\n5 - Os membros do gabinete a que refere o n.º 1 não podem beneficiar de quaisquer gratificações ou abonos suplementares, nomeadamente por trabalho extraordinário.\n\n6 - O governador civil pode delegar no adjunto do gabinete, quando não exista vice-governador civil, competências que não se insiram no âmbito da actividade dos serviços da secretaria, bem como a representação oficial em actos e cerimónias."
+  },
+  "868583411": {
+   "fragment_id": "868735850",
+   "type": 1,
+   "heading": "Capítulo VII — Estatuto pessoal e remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Estatuto pessoal e remuneratório"
+  },
+  "868583412": {
+   "fragment_id": "868735851",
+   "type": 11,
+   "heading": "Artigo 16.º — Direitos e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direitos e incompatibilidades\n\n1 - Ao governador civil e vice-governador civil é aplicável o regime de incompatibilidades fixado na lei.\n\n2 - O governador civil e o vice-governador civil que tenham exercido os seus cargos após o 25 de Abril de 1974 têm direito a um subsídio mensal de reintegração, durante tantos meses quantos os semestres em que tiverem exercido esses cargos, de montante igual ao vencimento mensal do cargo à data da cessação de funções.\n\n3 - Os beneficiários do subsídio de reintegração que reassumam ou tenham reassumido funções inerentes ao exercício de cargo político ou alto cargo público, antes de decorrido o dobro do período de reintegração, devolverão ou receberão, respectivamente, metade dos subsídios que houverem percebido, ou deveriam auferir, entre a cessação do cargo e o início das novas funções.\n\n4 - O governador civil e o vice-governador civil têm direito a utilizar viatura automóvel do Estado."
+  },
+  "868583413": {
+   "fragment_id": "868735852",
+   "type": 11,
+   "heading": "Artigo 17.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Remuneração\n\n1 - O governador civil e o vice-governador civil recebem mensalmente um vencimento correspondente, respectivamente, a 70% e 56% do vencimento de ministro.\n\n2 - O governador civil e o vice-governador civil têm direito a um abono mensal para despesas de representação no valor correspondente a 20% do respectivo vencimento."
+  },
+  "868583414": {
+   "fragment_id": "868735853",
+   "type": 11,
+   "heading": "Artigo 18.º — Ajudas de custo e subsídios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ajudas de custo e subsídios\n\n1 - Nas suas deslocações oficiais fora do distrito, no País ou no estrangeiro, o governador civil e o vice-governador civil têm direito a ajudas de custo fixadas na lei.\n\n2 - Quando o governador civil e o vice-governador civil, à data da nomeação, residirem fora do município sede do distrito e a uma distância superior a 30 km, poderão, mediante despacho do Ministro da Administração Interna, auferir subsídio mensal para despesas de alojamento e alimentação correspondente a 20% do seu vencimento."
+  },
+  "868583415": {
+   "fragment_id": "868735854",
+   "type": 11,
+   "heading": "Artigo 19.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contagem de tempo de serviço\n\n1 - O tempo de serviço prestado pelos governadores e vice-governadores civis em regime de permanência é contado a dobrar, como se tivesse sido prestado nos quadros do Estado ou entidade patronal, até um limite máximo de 20 anos, desde que sejam cumpridos 6 anos seguidos ou interpolados no exercício das respectivas funções.\n\n2 - Sem prejuízo do disposto no número anterior, todo o tempo de serviço efectivamente prestado para além do período de tempo de 10 anos será contado em singelo para efeitos de reforma ou de aposentação.\n\n3 - Os governadores e vice-governadores civis que beneficiem do regime dos números anteriores têm de fazer, junto da entidade competente, os descontos correspondentes, de acordo com as normas e modalidades previstas no regime aplicável.\n\n4 - Os governadores e vice-governadores civis que exercerem as suas funções em regime de permanência poderão, por sua iniciativa e independentemente de submissão a junta médica, requerer a aposentação ou reforma desde que tenham cumprido, no mínimo, seis anos seguidos ou interpolados no desempenho daquelas funções e que, em acumulação com o exercício das respectivas actividades profissionais, se encontrem numa das seguintes condições:\n\na) Contem mais de 60 anos de idade e 20 anos de serviço;\n\nb) Reúnam 30 anos de serviço, independentemente da respectiva idade."
+  },
+  "868583416": {
+   "fragment_id": "868735855",
+   "type": 11,
+   "heading": "Artigo 20.º — Direito de opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direito de opção\n\n1 - Aos governadores e vice-governadores civis em regime de permanência é aplicável o regime de segurança social para o funcionalismo público, se não optarem pelo regime da sua actividade profissional.\n\n2 - Sempre que ocorra a opção prevista na parte final do n.º 1, compete ao governo civil satisfazer os encargos que seriam da entidade patronal.\n\n3 - Sempre que os governadores ou vice-governadores civis optem pelo regime da Caixa Geral de Aposentações, devem, se for caso disso, ser efectuadas as respectivas transferências de valores de outras instituições de previdência ou de segurança social para onde hajam sido pagas as correspondentes contribuições."
+  },
+  "868583417": {
+   "fragment_id": "868735856",
+   "type": 11,
+   "heading": "Artigo 21.º — Exercício do direito de opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Exercício do direito de opção\n\n1 - Os governadores e vice-governadores civis podem exercer o direito de opção a que se refere o n.º 1 do artigo anterior no prazo de 90 dias a contar do início da respectiva actividade ou da entrada em vigor do presente diploma, consoante os casos.\n\n2 - Em caso de opção pelo regime de protecção social da função pública, a transferência dos valores relativos aos períodos contributivos registados no âmbito do sistema de segurança social pelo exercício do cargo de governador civil ou de vice-governador civil é feita pelos centros regionais de segurança social, de acordo com os números seguintes.\n\n3 - No prazo de 30 dias a contar da data da opção prevista no número anterior, ou da data da entrada em vigor deste diploma, quando a opção já tenha sido feita, o governo civil deve requerer ao respectivo centro regional de segurança social a transferência das contribuições pagas, no exercício das funções de governador ou de vice-governador civil, que digam respeito às eventualidades de invalidez, velhice e morte.\n\n4 - A referida transferência será efectuada no prazo de 90 dias, findo o qual o governo civil dispõe de um prazo de 30 dias para remeter as respectivas quantias à Caixa Nacional de Previdência.\n\n5 - Os valores a transferir pelos centros regionais são os que resultarem da aplicação das taxas das quotizações para a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado aos montantes das remunerações registadas na segurança social pela actividade de governador ou de vice-governador civil.\n\n6 - As taxas a que se refere o número anterior são as vigentes à data do pedido de transferência.\n\n7 - A transferência de valores a que se referem os números anteriores determina a alteração dos correspondentes registos nas instituições de segurança social."
+  },
+  "868583418": {
+   "fragment_id": "868735857",
+   "type": 11,
+   "heading": "Artigo 22.º — Termos da bonificação do tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Termos da bonificação do tempo de serviço\n\n1 - Em caso de opção pelo regime geral de segurança social, a bonificação do tempo de serviço pressupõe o pagamento das contribuições acrescidas, relativas ao período invocado, correspondentes a períodos de 12 meses civis, seguidos ou interpolados, a cada um dos quais corresponderá um ano bonificado.\n\n2 - As contribuições a que se refere o número anterior são calculadas por aplicação da taxa definida em portaria do Ministro do Emprego e da Segurança Social à remuneração mensal mais elevada registada em cada um dos períodos de 12 meses válidos para a bonificação.\n\n3 - A taxa a estabelecer nos termos do artigo anterior será igual à parcela das contribuições devidas para ao regime geral de segurança social correspondente, em termos actuariais, ao financiamento das pensões de invalidez, velhice e morte.\n\n4 - O requerimento da contagem do período invocado para a bonificação deve ser apresentado, e o correspondente pagamento de contribuições deve estar acordado, até entrega do requerimento da respectiva pensão de invalidez ou velhice.\n\n5 - No caso de o pagamento das contribuições correspondentes à bonificação se efectuar em prestações, tal facto não impede a passagem do beneficiário à situação de pensionista, se reunir as condições exigidas, mas tal pagamento só produzirá todos os seus efeitos a partir do momento em que se encontre liquidada a totalidade das contribuições referentes ao período de bonificação invocado, circunstância que dá lugar ao recálculo do valor da pensão.\n\n6 - Caso o governador ou vice-governador civil tenha falecido sem ter requerido a contagem do período invocado para a bonificação, podem os requerentes das prestações por morte fazê-lo por ocasião da entrega do respectivo requerimento, sem prejuízo do prévio pagamento das contribuições acrescidas a que se referem os números anteriores."
+  },
+  "868583419": {
+   "fragment_id": "868735858",
+   "type": 1,
+   "heading": "Capítulo VIII — Regime financeiro dos governos civis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Regime financeiro dos governos civis"
+  },
+  "868583420": {
+   "fragment_id": "868735859",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime de autonomia administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime de autonomia administrativa\n\nO governo civil, enquanto serviço desconcentrado da administração central, dispõe de autonomia administrativa nos actos de gestão corrente, traduzida na competência do governador civil, ou seu substituto, para autorizar a realização de despesas e o seu pagamento e para praticar, no mesmo âmbito, os actos administrativos necessários."
+  },
+  "868583421": {
+   "fragment_id": "868735860",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime de receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime de receitas e despesas\n\n1 - Constituem receitas consignadas às despesas enumeradas no n.º 2:\n\na) O produto das taxas a aplicar por petições ou requerimentos de interesse particular;\n\nb) O produto das taxas aplicadas em virtude da atribuição de autorizações da competência do governador civil, bem como da concessão de passaportes;\n\nc) 40% do produto das coimas aplicadas por força dos regulamentos de polícia previstos na alínea c) do n.º 3 do artigo 4.º, revertendo os restantes 60% para os cofres do Estado;\n\nd) Todas as que lhe venham a ser destinadas.\n\n2 - São despesas a considerar para os efeitos do número anterior as que constituem encargos do governo civil que, não tendo dotação estabelecida ou tendo dotação insuficiente no Orçamento do Estado, sejam inerentes ao normal funcionamento da secretaria do governo civil ou ao desempenho das funções de governador civil, bem como todas as que sejam impostas por lei."
+  },
+  "868583422": {
+   "fragment_id": "868735861",
+   "type": 11,
+   "heading": "Artigo 25.º — Saldos anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Saldos anuais\n\nOs saldos resultantes das receitas consignadas transitam para o ano seguinte, nos termos da lei de execução orçamental."
+  },
+  "868583423": {
+   "fragment_id": "868735862",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições finais e transitórias"
+  },
+  "868583424": {
+   "fragment_id": "868735863",
+   "type": 11,
+   "heading": "Artigo 26.º — Dispensa de visto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dispensa de visto\n\nNão estão sujeitos a visto do Tribunal de Contas os diplomas de nomeação dos governadores civis e vice-governadores civis e do pessoal dos gabinetes de apoio pessoal."
+  },
+  "868583425": {
+   "fragment_id": "868735864",
+   "type": 11,
+   "heading": "Artigo 27.º — Cessação das funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cessação das funções\n\nOs actuais secretários dos governos civis cessam funções a partir da entrada em vigor do presente diploma."
+  },
+  "868583426": {
+   "fragment_id": "868735865",
+   "type": 11,
+   "heading": "Artigo 28.º — Administração dos cofres privativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Administração dos cofres privativos\n\nMantém-se em vigor o actual regime de administração financeira dos governos civis até à integração definitiva dos seus cofres privativos no novo sistema de administração financeira do Estado."
+  },
+  "868583427": {
+   "fragment_id": "868735866",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nSão revogados os artigos 404.º, 406.º a 411.º e 413.º a 415.º do Código Administrativo."
+  },
+  "868583428": {
+   "fragment_id": "868735867",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "869608779": {
+   "fragment_id": "868735829",
+   "type": 1,
+   "heading": "Capítulo I — Do governador civil",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "### Capítulo I — Do governador civil\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608780": {
+   "fragment_id": "868735830",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece a definição da missão, o estatuto orgânico e pessoal, as competências e o regime dos actos praticados pelo governador civil, bem como a composição e as competências dos respectivos órgãos de apoio e a organização dos serviços do governo civil.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608781": {
+   "fragment_id": "868735831",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nO governador civil é, nos termos da Constituição, o representante do Governo na área do distrito, exercendo no mesmo as funções e competências que lhe são conferidas por lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "869608782": {
+   "fragment_id": "868735834",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\nO governador civil, sem prejuízo de outras consagradas em legislação avulsa, exerce competências nos seguintes domínios:\n\na) Representação do Governo;\n\nb) Aproximação entre o cidadão e a Administração;\n\nc) Segurança pública;\n\nd) Protecção civil.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "869608788": {
+   "fragment_id": "869609437",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Competências como representante do Governo",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Competências como representante do Governo\n\n1 - Compete ao governador civil, na área do distrito e enquanto representante do Governo:\n\na) Exercer as funções de representação do Governo;\n\nb) Colaborar na divulgação das políticas sectoriais do Governo, designadamente através de acções de informação e formação, diligenciando a sua melhor implementação;\n\nc) Prestar ao membro do Governo competente em razão da matéria informação periódica e sistematizada por áreas sobre assuntos de interesse para o distrito;\n\nd) Preparar informação relativamente aos requerimentos, exposições e petições que lhe sejam entregues para envio aos membros do Governo ou a outros órgãos de decisão;\n\ne) Atribuir financiamentos a associações no âmbito do distrito.\n\n2 - Para efeitos da alínea c) do número anterior são áreas estratégicas de prestação de informação, na área do distrito, todas as referentes a protecção civil, segurança interna e, em particular, o policiamento de proximidade, questões económico-sociais, investimentos a realizar no distrito, bem como outras acções de interesse para o distrito.\n\n3 - Compete ainda ao governador civil desenvolver todas as diligências necessárias e convenientes a uma adequada cooperação na articulação entre os serviços públicos desconcentrados de âmbito distrital e entre aqueles e outros órgãos administrativos localizados na circunscrição distrital, de acordo com as orientações dos respectivos membros do Governo.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608790": {
+   "fragment_id": "869609438",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Competências na aproximação entre o cidadão e a Administração",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-B — Competências na aproximação entre o cidadão e a Administração\n\nCompete ao governador civil na sua função de personalização da relação entre o cidadão e a Administração, na área do distrito:\n\na) Promover, através da organização de balcões de atendimento próprios, a prestação de informação ao cidadão, bem como o encaminhamento para os serviços competentes;\n\nb) Centralizar o acompanhamento da sequência das questões ou procedimentos multissectoriais, fomentando e assegurando a oportunidade da intervenção de cada serviço ou entidade desconcentrada de âmbito distrital interveniente nos mesmos, para potenciar a emissão de decisões globais, céleres e oportunas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608792": {
+   "fragment_id": "869609439",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Competências no exercício de poderes de tutela",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-C — Competências no exercício de poderes de tutela\n\nCompete ao governador civil, no distrito e no exercício de poderes de tutela do Governo:\n\na) Dar conhecimento às instâncias competentes das situações de incumprimento da lei, dos regulamentos e dos actos administrativos por parte dos órgãos autárquicos;\n\nb) Acompanhar junto dos serviços desconcentrados de âmbito distrital o andamento de processos ou o tratamento de questões suscitadas no distrito ou com interesse para o mesmo, devendo dar conhecimento ao Governo nos termos da alínea c) do n.º 1 do artigo 4.º-A.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608794": {
+   "fragment_id": "869609440",
+   "type": 11,
+   "heading": "Artigo 4.º-D — Competências no exercício de funções de segurança e de polícia",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-D — Competências no exercício de funções de segurança e de polícia\n\nCompete ao governador civil, no distrito e no exercício de funções de segurança e de polícia:\n\n1 - Conceder, nos termos da lei, licenças ou autorizações para o exercício de actividades, tendo sempre em conta a segurança dos cidadãos e a prevenção de riscos ou de perigos vários que àqueles sejam inerentes.\n\n2 - Promover, após parecer do conselho coordenador e com fundamento em política definida pelo Ministro da Administração Interna, a articulação das seguintes actividades em matéria de segurança interna:\n\na) Das forças de segurança quanto ao policiamento de proximidade, ouvido o respectivo responsável máximo no distrito;\n\nb) Das forças de segurança com as polícias municipais, ouvido o respectivo responsável máximo no distrito;\n\nc) Das acções de fiscalização que se inserem no âmbito do Ministério da Administração Interna.\n\n3 - Providenciar pela manutenção ou reposição da ordem, da segurança e tranquilidades públicas, podendo, para o efeito:\n\na) Requisitar, quando necessária, a intervenção das forças de segurança, aos comandos da PSP e da GNR, instaladas no distrito;\n\nb) Propor ao Ministro da Administração Interna para aprovação os regulamentos necessários à execução das leis que estabelecem o modo de exercício das suas competências;\n\nc) Aplicar as medidas de polícia e as sanções contra-ordenacionais previstas na lei.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608796": {
+   "fragment_id": "869609441",
+   "type": 11,
+   "heading": "Artigo 4.º-E — Competências no âmbito da protecção e socorro",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-E — Competências no âmbito da protecção e socorro\n\nCompete ao governador civil, no exercício de funções de protecção e socorro, desencadear e coordenar, na iminência ou ocorrência de acidente grave, catástrofe ou calamidade, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso, com a coadjuvação do director do centro coordenador de socorro distrital e do chefe da delegação distrital de protecção civil e a colaboração dos agentes de protecção civil competentes, nos termos legais.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608798": {
+   "fragment_id": "869609442",
+   "type": 11,
+   "heading": "Artigo 4.º-F — Outras competências",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-F — Outras competências\n\nAlém de outras competências que lhe sejam atribuídas por lei, compete ainda ao governador civil:\n\na) Presidir ao conselho coordenador consultivo do distrito;\n\nb) Exercer as funções legalmente estabelecidas no âmbito dos processos eleitorais;\n\nc) Dirigir e coordenar os serviços do governo civil;\n\nd) Superintender na gestão e direcção do pessoal do governo civil;\n\ne) Aplicar aos funcionários e agentes que prestem serviço no governo civil penas disciplinares, nos termos do Estatuto dos Funcionários da Administração Central, Regional e Local;\n\nf) Emitir, quando lhe for solicitado, parecer para efeitos de reconhecimento de fundações, constituídas no respectivo distrito;\n\ng) Emitir, quando lhe for solicitado, parecer sobre o pedido de reconhecimento da utilidade pública administrativa de pessoas colectivas constituídas nos respectivos distritos;\n\nh) Emitir, quando lhe for solicitado, parecer em sede de investimentos ao nível do distrito;\n\ni) Elaborar o cadastro das associações desportivas, recreativas e culturais para efeitos de gestão dos subsídios a atribuir.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608799": {
+   "fragment_id": "868735835",
+   "type": 11,
+   "heading": "Artigo 5.º — Vice-governador civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vice-governador civil\n\n1 - O vice-governador civil coadjuva o governador civil, substituindo-o nas suas faltas e impedimentos, e tem a competência que o governador civil nele delegar, por despacho publicado no Diáro da República.\n\n2 - O vice-governador civil só pode subdelegar os poderes cujo exercício lhe foi delegado quando expressamente autorizado por despacho do governador civil."
+  },
+  "869608274": {
+   "fragment_id": "868735838",
+   "type": 11,
+   "heading": "Artigo 7.º — Desobediência",
+   "in_force_from": "1995-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Desobediência\n\nA desobediência às ordens e aos actos praticados pelo governador civil constitui crime punido nos termos do Código Penal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "869608820": {
+   "fragment_id": "868735842",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do secretário",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Competência do secretário\n\n1 - Compete ao secretário:\n\na) Dirigir, sob as ordens do governador civil e em conformidade com o regulamento interno, o expediente e os trabalhos da secretaria;\n\nb) Exercer as funções de instrução nos procedimentos administrativos tendentes à prática de actos da competência do governador civil, nos termos do Código do Procedimento Administrativo;\n\nc) [Revogada.]\n\nd) Autenticar todos os documentos e assinar todas as certidões expedidas pela secretaria e subscrever quaisquer termos oficiais;\n\ne) Conservar sob sua responsabilidade o arquivo do governo civil;\n\nf) Dar parecer relativo à interpretação e aplicação das leis, nas consultas que pelas autarquias locais sejam submetidas à apreciação do Governo, por intermédio do governo civil;\n\ng) Exercer quaisquer outras competências que lhe sejam impostas por lei, regulamento ou decisão do Governo.\n\n2 - O governador civil pode delegar no secretário o exercício de funções incluídas na sua competência por despacho publicado no Diário da República.\n\n3 - (Revogado.)\n\n4 - Em cada governo civil existirá um regulamento interno da respectiva secretaria, aprovado pelo Ministro da Administração Interna.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608783": {
+   "fragment_id": "868735845",
+   "type": 1,
+   "heading": "Capítulo V — Conselho coordenador da administração central de âmbito distrital",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "### Capítulo V — Conselho coordenador da administração central de âmbito distrital\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608784": {
+   "fragment_id": "868735846",
+   "type": 11,
+   "heading": "Artigo 13.º — Definição e composição",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 13.º — Definição e composição\n\n1 - O conselho coordenador é um órgão de consulta do governador civil que reúne obrigatoriamente uma vez em cada trimestre, e sempre que o governador civil o convoque.\n\n2 - São membros do conselho coordenador:\n\na) O governador civil, que preside;\n\nb) O vice-governador civil, quando existir;\n\nc) Os responsáveis pelos serviços desconcentrados de âmbito distrital que exercem competências na área do distrito;\n\nd) Os responsáveis máximos das forças de segurança da área do distrito;\n\ne) O chefe da delegação distrital da protecção civil.\n\n3 - Para efeitos dos números anteriores, e tendo em conta a matéria a analisar, o governador civil pode:\n\na) Convidar outras entidades representativas no distrito;\n\nb) Limitar a convocação dos representantes às áreas sectoriais a abordar.\n\n4 - A convocação para cada reunião do conselho coordenador será dirigida directamente pelo governador civil ao representante dos serviços indicados no n.º 2.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608785": {
+   "fragment_id": "868735847",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 14.º — Competências\n\n1 - Compete ao conselho coordenador, sob proposta e no âmbito das competências do governador civil, pronunciar-se sobre as seguintes matérias relativas ao respectivo distrito:\n\na) Protecção civil;\n\nb) Segurança pública, designadamente sobre policiamento de proximidade;\n\nc) Prevenção e segurança rodoviárias;\n\nd) Outras matérias de interesse para a administração de âmbito distrital.\n\n2 - A análise das matérias referidas nos números anteriores visa promover a cooperação entre os serviços públicos desconcentrados ou entre estes e outros órgãos administrativos localizados na circunscrição distrital.\n\n3 - As conclusões finais das reuniões realizadas pelo conselho coordenador serão transmitidas ao membro do Governo competente em razão da matéria.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608786": {
+   "fragment_id": "868735849",
+   "type": 11,
+   "heading": "Artigo 15.º — Constituição e composição",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Constituição e composição\n\n1 - O governador civil é apoiado por um gabinete pessoal nomeado por despacho do Ministro da Administração Interna, sob proposta do governador civil.\n\n2 - Aos membros do gabinete de apoio pessoal é aplicável o disposto nos n.os 2, 3 e 4 do artigo 6.º do Decreto-Lei n.º 262/88, de 23 de Julho.\n\n3 - A composição e o regime remuneratório do gabinete de cada governador civil são definidos por portaria dos Ministros da Administração Interna, das Finanças e da Reforma do Estado e da Administração Pública.\n\n4 - O Ministro da Administração Interna pode delegar a competência prevista no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608825": {
+   "fragment_id": "868735852",
+   "type": 11,
+   "heading": "Artigo 17.º — Remuneração",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 17.º — Remuneração\n\n1 - O governador civil e o vice-governador civil recebem mensalmente um vencimento correspondente, respectivamente, a 70% e 56% do vencimento de ministro.\n\n2 - O governador civil e o vice-governador civil têm direito a um abono mensal para despesas de representação no valor correspondente a 20% do respectivo vencimento.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608826": {
+   "fragment_id": "868735853",
+   "type": 11,
+   "heading": "Artigo 18.º — Ajudas de custo e subsídios",
+   "in_force_from": "2001-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 18.º — Ajudas de custo e subsídios\n\n1 - Nas suas deslocações oficiais fora do distrito, no País ou no estrangeiro, o governador civil e o vice-governador civil têm direito a ajudas de custo fixadas na lei.\n\n2 - Quando o governador civil e o vice-governador civil, à data da nomeação, residirem fora do município sede do distrito e a uma distância superior a 30 km, poderão, mediante despacho do Ministro da Administração Interna, auferir subsídio mensal para despesas de alojamento e alimentação correspondente a 20% do seu vencimento.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608775": {
+   "fragment_id": "868735860",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime de receitas e despesas",
+   "in_force_from": "1995-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 24.º — Regime de receitas e despesas\n\n1 - Constituem receitas consignadas às despesas enumeradas no n.º 2:\n\na) O produto das taxas a aplicar por petições ou requerimentos de interesse particular;\n\nb) O produto das taxas aplicadas em virtude da atribuição de autorizações da competência do governador civil, bem como da concessão de passaportes;\n\nc) 40% do produto das coimas aplicadas, revertendo os restantes 60% para o Estado;\n\nd) Todas as que lhe venham a ser destinadas.\n\n2 - São despesas a considerar para os efeitos do número anterior as que constituem encargos do governo civil que, não tendo dotação estabelecida ou tendo dotação insuficiente no Orçamento do Estado, sejam inerentes ao normal funcionamento da secretaria do governo civil ou ao desempenho das funções de governador civil, bem como todas as que sejam impostas por lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "868583429": {
+   "fragment_id": "868735868",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - José Albino da Silva Peneda.\n\nPromulgado em 31 de Outubro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Novembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "869608837": {
+   "fragment_id": "869609438",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Competências na aproximação entre o cidadão e a Administração",
+   "in_force_from": "2003-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-B — Competências na aproximação entre o cidadão e a Administração\n\nCompete ao governador civil na sua função de personalização da relação entre o cidadão e a Administração, na área do distrito:\n\na) Promover, através da organização de balcões de atendimento próprios, a prestação de informação ao cidadão, bem como o encaminhamento para os serviços competentes;\n\nb) Centralizar o acompanhamento da sequência das questões ou procedimentos multissectoriais, fomentando e assegurando a oportunidade da intervenção de cada serviço ou entidade desconcentrada de âmbito distrital interveniente nos mesmos, para potenciar a emissão de decisões globais, céleres e oportunas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608832": {
+   "fragment_id": "869609439",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Poderes junto dos serviços desconcentrados",
+   "in_force_from": "2003-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-C — Poderes junto dos serviços desconcentrados\n\nCompete ao governador civil acompanhar junto dos serviços desconcentrados de âmbito distrital o andamento de processos ou o tratamento de questões suscitadas no distrito ou com interesse para o mesmo, devendo dar conhecimento ao Governo, nos termos do n.º 1 do artigo 4.º-A.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608835": {
+   "fragment_id": "869609442",
+   "type": 11,
+   "heading": "Artigo 4.º-F — Outras competências",
+   "in_force_from": "2003-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-F — Outras competências\n\nAlém de outras competências que lhe sejam atribuídas por lei, compete ainda ao governador civil:\n\na) Presidir ao conselho coordenador consultivo do distrito;\n\nb) Exercer as funções legalmente estabelecidas no âmbito dos processos eleitorais;\n\nc) Dirigir e coordenar os serviços do governo civil;\n\nd) Superintender na gestão e direcção do pessoal do governo civil;\n\ne) Aplicar aos funcionários e agentes que prestem serviço no governo civil penas disciplinares, nos termos do Estatuto dos Funcionários da Administração Central, Regional e Local;\n\nf) [Revogada.]\n\ng) [Revogada.]\n\nh) Emitir, quando lhe for solicitado, parecer em sede de investimentos ao nível do distrito;\n\ni) Elaborar o cadastro das associações desportivas, recreativas e culturais para efeitos de gestão dos subsídios a atribuir.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608839": {
+   "fragment_id": "868735851",
+   "type": 11,
+   "heading": "Artigo 16.º — Direitos e incompatibilidades",
+   "in_force_from": "2005-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+   ],
+   "markdown": "###### Artigo 16.º — Direitos e incompatibilidades\n\n1 - Ao governador civil e vice-governador civil é aplicável o regime de incompatibilidades fixado na lei.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O governador civil e o vice-governador civil têm direito a utilizar viatura automóvel do Estado.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+  },
+  "869608840": {
+   "fragment_id": "868735854",
+   "type": 11,
+   "heading": "Artigo 19.º — Contagem de tempo de serviço",
+   "in_force_from": "2005-10-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+   ],
+   "markdown": "###### Artigo 19.º — Contagem de tempo de serviço\n\n1 - O tempo de serviço prestado pelos governadores e vice-governadores civis em regime de permanência é contado a dobrar, como se tivesse sido prestado nos quadros do Estado ou entidade patronal, até um limite máximo de 20 anos, desde que sejam cumpridos 6 anos seguidos ou interpolados no exercício das respectivas funções.\n\n2 - Sem prejuízo do disposto no número anterior, todo o tempo de serviço efectivamente prestado para além do período de tempo de 10 anos será contado em singelo para efeitos de reforma ou de aposentação.\n\n3 - Os governadores e vice-governadores civis que beneficiem do regime dos números anteriores têm de fazer, junto da entidade competente, os descontos correspondentes, de acordo com as normas e modalidades previstas no regime aplicável.\n\n4 - Os governadores e vice-governadores civis que exercerem as suas funções em regime de permanência poderão, por sua iniciativa e independentemente de submissão a junta médica, requerer a aposentação ou reforma desde que tenham cumprido, no mínimo, seis anos seguidos ou interpolados no desempenho daquelas funções e que, em acumulação com o exercício das respectivas actividades profissionais, se encontrem numa das seguintes condições:\n\na) Contem mais de 60 anos de idade e 20 anos de serviço;\n\nb) Reúnam 30 anos de serviço, independentemente da respectiva idade.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+  },
+  "869608838": {
+   "fragment_id": "868735855",
+   "type": 11,
+   "heading": "Artigo 20.º — Segurança social",
+   "in_force_from": "2005-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+   ],
+   "markdown": "###### Artigo 20.º — Segurança social\n\nOs governadores e vice-governadores civis em regime de permanência beneficiam do regime geral de segurança social.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+  },
+  "869608841": {
+   "fragment_id": "868735856",
+   "type": 11,
+   "heading": "Artigo 21.º — Exercício do direito de opção",
+   "in_force_from": "2005-10-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+   ],
+   "markdown": "###### Artigo 21.º — Exercício do direito de opção\n\n1 - Os governadores e vice-governadores civis podem exercer o direito de opção a que se refere o n.º 1 do artigo anterior no prazo de 90 dias a contar do início da respectiva actividade ou da entrada em vigor do presente diploma, consoante os casos.\n\n2 - Em caso de opção pelo regime de protecção social da função pública, a transferência dos valores relativos aos períodos contributivos registados no âmbito do sistema de segurança social pelo exercício do cargo de governador civil ou de vice-governador civil é feita pelos centros regionais de segurança social, de acordo com os números seguintes.\n\n3 - No prazo de 30 dias a contar da data da opção prevista no número anterior, ou da data da entrada em vigor deste diploma, quando a opção já tenha sido feita, o governo civil deve requerer ao respectivo centro regional de segurança social a transferência das contribuições pagas, no exercício das funções de governador ou de vice-governador civil, que digam respeito às eventualidades de invalidez, velhice e morte.\n\n4 - A referida transferência será efectuada no prazo de 90 dias, findo o qual o governo civil dispõe de um prazo de 30 dias para remeter as respectivas quantias à Caixa Nacional de Previdência.\n\n5 - Os valores a transferir pelos centros regionais são os que resultarem da aplicação das taxas das quotizações para a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado aos montantes das remunerações registadas na segurança social pela actividade de governador ou de vice-governador civil.\n\n6 - As taxas a que se refere o número anterior são as vigentes à data do pedido de transferência.\n\n7 - A transferência de valores a que se referem os números anteriores determina a alteração dos correspondentes registos nas instituições de segurança social.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+  },
+  "869608842": {
+   "fragment_id": "868735857",
+   "type": 11,
+   "heading": "Artigo 22.º — Termos da bonificação do tempo de serviço",
+   "in_force_from": "2005-10-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+   ],
+   "markdown": "###### Artigo 22.º — Termos da bonificação do tempo de serviço\n\n1 - Em caso de opção pelo regime geral de segurança social, a bonificação do tempo de serviço pressupõe o pagamento das contribuições acrescidas, relativas ao período invocado, correspondentes a períodos de 12 meses civis, seguidos ou interpolados, a cada um dos quais corresponderá um ano bonificado.\n\n2 - As contribuições a que se refere o número anterior são calculadas por aplicação da taxa definida em portaria do Ministro do Emprego e da Segurança Social à remuneração mensal mais elevada registada em cada um dos períodos de 12 meses válidos para a bonificação.\n\n3 - A taxa a estabelecer nos termos do artigo anterior será igual à parcela das contribuições devidas para ao regime geral de segurança social correspondente, em termos actuariais, ao financiamento das pensões de invalidez, velhice e morte.\n\n4 - O requerimento da contagem do período invocado para a bonificação deve ser apresentado, e o correspondente pagamento de contribuições deve estar acordado, até entrega do requerimento da respectiva pensão de invalidez ou velhice.\n\n5 - No caso de o pagamento das contribuições correspondentes à bonificação se efectuar em prestações, tal facto não impede a passagem do beneficiário à situação de pensionista, se reunir as condições exigidas, mas tal pagamento só produzirá todos os seus efeitos a partir do momento em que se encontre liquidada a totalidade das contribuições referentes ao período de bonificação invocado, circunstância que dá lugar ao recálculo do valor da pensão.\n\n6 - Caso o governador ou vice-governador civil tenha falecido sem ter requerido a contagem do período invocado para a bonificação, podem os requerentes das prestações por morte fazê-lo por ocasião da entrega do respectivo requerimento, sem prejuízo do prévio pagamento das contribuições acrescidas a que se referem os números anteriores.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+  },
+  "869608843": {
+   "fragment_id": "869609442",
+   "type": 11,
+   "heading": "Artigo 4.º-F — Outras competências",
+   "in_force_from": "2007-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/lei/40-2007-640908), em vigor a partir de 2007-10-31",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-F — Outras competências\n\nAlém de outras competências que lhe sejam atribuídas por lei, compete ainda ao governador civil:\n\na) Presidir ao conselho coordenador consultivo do distrito;\n\nb) Exercer as funções legalmente estabelecidas no âmbito dos processos eleitorais;\n\nc) Dirigir e coordenar os serviços do governo civil;\n\nd) Superintender na gestão e direcção do pessoal do governo civil;\n\ne) Aplicar aos funcionários e agentes que prestem serviço no governo civil penas disciplinares, nos termos do Estatuto dos Funcionários da Administração Central, Regional e Local;\n\nf) [Revogada.]\n\ng) [Revogada.]\n\nh) Emitir, quando lhe for solicitado, parecer em sede de investimentos ao nível do distrito;\n\ni) [Revogada.]\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/lei/40-2007-640908), em vigor a partir de 2007-10-31\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608857": {
+   "fragment_id": "868735830",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece a definição da missão, o estatuto orgânico e pessoal, as competências e o regime dos actos praticados pelo governador civil, bem como a composição e as competências dos respectivos órgãos de apoio e a organização dos serviços do governo civil.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608858": {
+   "fragment_id": "868735831",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nO governador civil é, nos termos da Constituição, o representante do Governo na área do distrito, exercendo no mesmo as funções e competências que lhe são conferidas por lei.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "869608859": {
+   "fragment_id": "868735832",
+   "type": 11,
+   "heading": "Artigo 3.º — Nomeação e exoneração",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Nomeação e exoneração\n\n1 - O governador civil é nomeado e exonerado pelo Governo, em Conselho de Ministros, por proposta do Ministro da Administração Interna, de quem depende hierárquica e organicamente.\n\n2 - O Ministro da Administração Interna pode propor um vice-governador civil para os distritos em que tal seja considerado conveniente pelo Conselho de Ministros, o qual será nomeado e exonerado nos termos do número anterior.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869608860": {
+   "fragment_id": "868735834",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\nO governador civil, sem prejuízo de outras consagradas em legislação avulsa, exerce competências nos seguintes domínios:\n\na) Representação do Governo;\n\nb) Aproximação entre o cidadão e a Administração;\n\nc) Segurança pública;\n\nd) Protecção civil.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "869608861": {
+   "fragment_id": "869609437",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Competências como representante do Governo",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Competências como representante do Governo\n\n1 - Compete ao governador civil, na área do distrito e enquanto representante do Governo:\n\na) Exercer as funções de representação do Governo;\n\nb) Colaborar na divulgação das políticas sectoriais do Governo, designadamente através de acções de informação e formação, diligenciando a sua melhor implementação;\n\nc) Prestar ao membro do Governo competente em razão da matéria informação periódica e sistematizada por áreas sobre assuntos de interesse para o distrito;\n\nd) Preparar informação relativamente aos requerimentos, exposições e petições que lhe sejam entregues para envio aos membros do Governo ou a outros órgãos de decisão;\n\ne) Atribuir financiamentos a associações no âmbito do distrito.\n\n2 - Para efeitos da alínea c) do número anterior são áreas estratégicas de prestação de informação, na área do distrito, todas as referentes a protecção civil, segurança interna e, em particular, o policiamento de proximidade, questões económico-sociais, investimentos a realizar no distrito, bem como outras acções de interesse para o distrito.\n\n3 - Compete ainda ao governador civil desenvolver todas as diligências necessárias e convenientes a uma adequada cooperação na articulação entre os serviços públicos desconcentrados de âmbito distrital e entre aqueles e outros órgãos administrativos localizados na circunscrição distrital, de acordo com as orientações dos respectivos membros do Governo.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608862": {
+   "fragment_id": "869609439",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Poderes junto dos serviços desconcentrados",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-C — Poderes junto dos serviços desconcentrados\n\nCompete ao governador civil acompanhar junto dos serviços desconcentrados de âmbito distrital o andamento de processos ou o tratamento de questões suscitadas no distrito ou com interesse para o mesmo, devendo dar conhecimento ao Governo, nos termos do n.º 1 do artigo 4.º-A.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608863": {
+   "fragment_id": "869609440",
+   "type": 11,
+   "heading": "Artigo 4.º-D — Competências no exercício de funções de segurança e de polícia",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-D — Competências no exercício de funções de segurança e de polícia\n\nCompete ao governador civil, no distrito e no exercício de funções de segurança e de polícia:\n\n1 - Conceder, nos termos da lei, licenças ou autorizações para o exercício de actividades, tendo sempre em conta a segurança dos cidadãos e a prevenção de riscos ou de perigos vários que àqueles sejam inerentes.\n\n2 - Promover, após parecer do conselho coordenador e com fundamento em política definida pelo Ministro da Administração Interna, a articulação das seguintes actividades em matéria de segurança interna:\n\na) Das forças de segurança quanto ao policiamento de proximidade, ouvido o respectivo responsável máximo no distrito;\n\nb) Das forças de segurança com as polícias municipais, ouvido o respectivo responsável máximo no distrito;\n\nc) Das acções de fiscalização que se inserem no âmbito do Ministério da Administração Interna.\n\n3 - Providenciar pela manutenção ou reposição da ordem, da segurança e tranquilidades públicas, podendo, para o efeito:\n\na) Requisitar, quando necessária, a intervenção das forças de segurança, aos comandos da PSP e da GNR, instaladas no distrito;\n\nb) Propor ao Ministro da Administração Interna para aprovação os regulamentos necessários à execução das leis que estabelecem o modo de exercício das suas competências;\n\nc) Aplicar as medidas de polícia e as sanções contra-ordenacionais previstas na lei.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608864": {
+   "fragment_id": "869609441",
+   "type": 11,
+   "heading": "Artigo 4.º-E — Competências no âmbito da protecção e socorro",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-E — Competências no âmbito da protecção e socorro\n\nCompete ao governador civil, no exercício de funções de protecção e socorro, desencadear e coordenar, na iminência ou ocorrência de acidente grave, catástrofe ou calamidade, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso, com a coadjuvação do director do centro coordenador de socorro distrital e do chefe da delegação distrital de protecção civil e a colaboração dos agentes de protecção civil competentes, nos termos legais.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608865": {
+   "fragment_id": "869609442",
+   "type": 11,
+   "heading": "Artigo 4.º-F — Outras competências",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/lei/40-2007-640908), em vigor a partir de 2007-10-31",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 4.º-F — Outras competências\n\nAlém de outras competências que lhe sejam atribuídas por lei, compete ainda ao governador civil:\n\na) Presidir ao conselho coordenador consultivo do distrito;\n\nb) Exercer as funções legalmente estabelecidas no âmbito dos processos eleitorais;\n\nc) Dirigir e coordenar os serviços do governo civil;\n\nd) Superintender na gestão e direcção do pessoal do governo civil;\n\ne) Aplicar aos funcionários e agentes que prestem serviço no governo civil penas disciplinares, nos termos do Estatuto dos Funcionários da Administração Central, Regional e Local;\n\nf) [Revogada.]\n\ng) [Revogada.]\n\nh) Emitir, quando lhe for solicitado, parecer em sede de investimentos ao nível do distrito;\n\ni) [Revogada.]\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/lei/40-2007-640908), em vigor a partir de 2007-10-31\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 264/2002 - Diário da República n.º 272/2002, Série I-A de 2002-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), em vigor a partir de 2003-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608866": {
+   "fragment_id": "868735835",
+   "type": 11,
+   "heading": "Artigo 5.º — Vice-governador civil",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 5.º — Vice-governador civil\n\n1 - O vice-governador civil coadjuva o governador civil, substituindo-o nas suas faltas e impedimentos, e tem a competência que o governador civil nele delegar, por despacho publicado no Diáro da República.\n\n2 - O vice-governador civil só pode subdelegar os poderes cujo exercício lhe foi delegado quando expressamente autorizado por despacho do governador civil.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869608867": {
+   "fragment_id": "868735837",
+   "type": 11,
+   "heading": "Artigo 6.º — Recursos",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Recursos\n\nDos actos do governador civil cabe recurso contencioso, nos termos da lei geral, e ainda, facultativamente, recurso hierárquico para o Ministro da Administração Interna.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869608868": {
+   "fragment_id": "868735838",
+   "type": 11,
+   "heading": "Artigo 7.º — Desobediência",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Desobediência\n\nA desobediência às ordens e aos actos praticados pelo governador civil constitui crime punido nos termos do Código Penal.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "869608869": {
+   "fragment_id": "868735839",
+   "type": 11,
+   "heading": "Artigo 8.º — Urgência",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 8.º — Urgência\n\nSempre que o exijam circunstâncias excepcionais e urgentes de interesse público, o governador civil pode praticar todos os actos ou tomar todas as providências adminstrativas indispensáveis, solicitando, logo que lhe seja possível, a ratificação pelo órgão normalmente competente.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869608870": {
+   "fragment_id": "868735841",
+   "type": 11,
+   "heading": "Artigo 9.º — Expediente",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 9.º — Expediente\n\nO expediente do governo civil corre por uma secretaria privativa, dirigida por um secretário.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869608871": {
+   "fragment_id": "868735842",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do secretário",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Competência do secretário\n\n1 - Compete ao secretário:\n\na) Dirigir, sob as ordens do governador civil e em conformidade com o regulamento interno, o expediente e os trabalhos da secretaria;\n\nb) Exercer as funções de instrução nos procedimentos administrativos tendentes à prática de actos da competência do governador civil, nos termos do Código do Procedimento Administrativo;\n\nc) [Revogada.]\n\nd) Autenticar todos os documentos e assinar todas as certidões expedidas pela secretaria e subscrever quaisquer termos oficiais;\n\ne) Conservar sob sua responsabilidade o arquivo do governo civil;\n\nf) Dar parecer relativo à interpretação e aplicação das leis, nas consultas que pelas autarquias locais sejam submetidas à apreciação do Governo, por intermédio do governo civil;\n\ng) Exercer quaisquer outras competências que lhe sejam impostas por lei, regulamento ou decisão do Governo.\n\n2 - O governador civil pode delegar no secretário o exercício de funções incluídas na sua competência por despacho publicado no Diário da República.\n\n3 - (Revogado.)\n\n4 - Em cada governo civil existirá um regulamento interno da respectiva secretaria, aprovado pelo Ministro da Administração Interna.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869608872": {
+   "fragment_id": "868735843",
+   "type": 11,
+   "heading": "Artigo 11.º — Estatuto e forma de provimento do secretário do governo civil",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 11.º — Estatuto e forma de provimento do secretário do governo civil\n\n1 - O cargo de secretário do governo civil é equiparado ao de director de serviços, para efeitos do disposto no Decreto-Lei n.º 323/89, de 26 de Setembro.\n\n2 - O cargo de secretário do governo civil será provido por despacho do Ministro da Administração Interna de entre licenciados em Direito de reconhecida competência, de acordo com o disposto no artigo 4.º do Decreto-Lei n.º 323/89, de 26 de Setembro.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869608873": {
+   "fragment_id": "868735844",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime jurídico do pessoal",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 12.º — Regime jurídico do pessoal\n\n1 - Ao pessoal que presta serviço na secretaria do governo civil é aplicável o regime jurídico dos funcionários e agentes da administração central.\n\n2 - Os quadros e categorias do pessoal do governo civil são fixados em portaria conjunta dos Ministros das Finanças e da Administração Interna.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869608874": {
+   "fragment_id": "868735846",
+   "type": 11,
+   "heading": "Artigo 13.º — Definição e composição",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 13.º — Definição e composição\n\n1 - O conselho coordenador é um órgão de consulta do governador civil que reúne obrigatoriamente uma vez em cada trimestre, e sempre que o governador civil o convoque.\n\n2 - São membros do conselho coordenador:\n\na) O governador civil, que preside;\n\nb) O vice-governador civil, quando existir;\n\nc) Os responsáveis pelos serviços desconcentrados de âmbito distrital que exercem competências na área do distrito;\n\nd) Os responsáveis máximos das forças de segurança da área do distrito;\n\ne) O chefe da delegação distrital da protecção civil.\n\n3 - Para efeitos dos números anteriores, e tendo em conta a matéria a analisar, o governador civil pode:\n\na) Convidar outras entidades representativas no distrito;\n\nb) Limitar a convocação dos representantes às áreas sectoriais a abordar.\n\n4 - A convocação para cada reunião do conselho coordenador será dirigida directamente pelo governador civil ao representante dos serviços indicados no n.º 2.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869571675": {
+   "fragment_id": "868735847",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 14.º — Competências\n\n1 - Compete ao conselho coordenador, sob proposta e no âmbito das competências do governador civil, pronunciar-se sobre as seguintes matérias relativas ao respectivo distrito:\n\na) Protecção civil;\n\nb) Segurança pública, designadamente sobre policiamento de proximidade;\n\nc) Prevenção e segurança rodoviárias;\n\nd) Outras matérias de interesse para a administração de âmbito distrital.\n\n2 - A análise das matérias referidas nos números anteriores visa promover a cooperação entre os serviços públicos desconcentrados ou entre estes e outros órgãos administrativos localizados na circunscrição distrital.\n\n3 - As conclusões finais das reuniões realizadas pelo conselho coordenador serão transmitidas ao membro do Governo competente em razão da matéria.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869571676": {
+   "fragment_id": "868735849",
+   "type": 11,
+   "heading": "Artigo 15.º — Constituição e composição",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Constituição e composição\n\n1 - O governador civil é apoiado por um gabinete pessoal nomeado por despacho do Ministro da Administração Interna, sob proposta do governador civil.\n\n2 - Aos membros do gabinete de apoio pessoal é aplicável o disposto nos n.os 2, 3 e 4 do artigo 6.º do Decreto-Lei n.º 262/88, de 23 de Julho.\n\n3 - A composição e o regime remuneratório do gabinete de cada governador civil são definidos por portaria dos Ministros da Administração Interna, das Finanças e da Reforma do Estado e da Administração Pública.\n\n4 - O Ministro da Administração Interna pode delegar a competência prevista no n.º 1.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 213/2001 - Diário da República n.º 178/2001, Série I-A de 2001-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), em vigor a partir de 2001-09-01"
+  },
+  "869571677": {
+   "fragment_id": "868735851",
+   "type": 11,
+   "heading": "Artigo 16.º — Direitos e incompatibilidades",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+   ],
+   "markdown": "###### Artigo 16.º — Direitos e incompatibilidades\n\n1 - Ao governador civil e vice-governador civil é aplicável o regime de incompatibilidades fixado na lei.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O governador civil e o vice-governador civil têm direito a utilizar viatura automóvel do Estado.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+  },
+  "869571678": {
+   "fragment_id": "868735855",
+   "type": 11,
+   "heading": "Artigo 20.º — Segurança social",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+   ],
+   "markdown": "###### Artigo 20.º — Segurança social\n\nOs governadores e vice-governadores civis em regime de permanência beneficiam do regime geral de segurança social.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 52-A/2005 - Diário da República n.º 194/2005, 1º Suplemento, Série I-A de 2005-10-10](https://diariodarepublica.pt/dr/detalhe/lei/52-a-2005-485267), em vigor a partir de 2005-10-15"
+  },
+  "869571679": {
+   "fragment_id": "868735859",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime de autonomia administrativa",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 23.º — Regime de autonomia administrativa\n\nO governo civil, enquanto serviço desconcentrado da administração central, dispõe de autonomia administrativa nos actos de gestão corrente, traduzida na competência do governador civil, ou seu substituto, para autorizar a realização de despesas e o seu pagamento e para praticar, no mesmo âmbito, os actos administrativos necessários.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869571680": {
+   "fragment_id": "868735860",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime de receitas e despesas",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+   ],
+   "markdown": "###### Artigo 24.º — Regime de receitas e despesas\n\n1 - Constituem receitas consignadas às despesas enumeradas no n.º 2:\n\na) O produto das taxas a aplicar por petições ou requerimentos de interesse particular;\n\nb) O produto das taxas aplicadas em virtude da atribuição de autorizações da competência do governador civil, bem como da concessão de passaportes;\n\nc) 40% do produto das coimas aplicadas, revertendo os restantes 60% para o Estado;\n\nd) Todas as que lhe venham a ser destinadas.\n\n2 - São despesas a considerar para os efeitos do número anterior as que constituem encargos do governo civil que, não tendo dotação estabelecida ou tendo dotação insuficiente no Orçamento do Estado, sejam inerentes ao normal funcionamento da secretaria do governo civil ou ao desempenho das funções de governador civil, bem como todas as que sejam impostas por lei.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 316/95 - Diário da República n.º 275/1995, Série I-A de 1995-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), em vigor a partir de 1995-10-01"
+  },
+  "869571681": {
+   "fragment_id": "868735861",
+   "type": 11,
+   "heading": "Artigo 25.º — Saldos anuais",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 25.º — Saldos anuais\n\nOs saldos resultantes das receitas consignadas transitam para o ano seguinte, nos termos da lei de execução orçamental.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869571682": {
+   "fragment_id": "868735863",
+   "type": 11,
+   "heading": "Artigo 26.º — Dispensa de visto",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 26.º — Dispensa de visto\n\nNão estão sujeitos a visto do Tribunal de Contas os diplomas de nomeação dos governadores civis e vice-governadores civis e do pessoal dos gabinetes de apoio pessoal.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869571683": {
+   "fragment_id": "868735864",
+   "type": 11,
+   "heading": "Artigo 27.º — Cessação das funções",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 27.º — Cessação das funções\n\nOs actuais secretários dos governos civis cessam funções a partir da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869571684": {
+   "fragment_id": "868735865",
+   "type": 11,
+   "heading": "Artigo 28.º — Administração dos cofres privativos",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 28.º — Administração dos cofres privativos\n\nMantém-se em vigor o actual regime de administração financeira dos governos civis até à integração definitiva dos seus cofres privativos no novo sistema de administração financeira do Estado.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869571685": {
+   "fragment_id": "868735866",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nSão revogados os artigos 404.º, 406.º a 411.º e 413.º a 415.º do Código Administrativo.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "869571686": {
+   "fragment_id": "868735867",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  }
+ }
+}

@@ -1,0 +1,286 @@
+---
+schema_version: '1.0'
+id: pt:dre:517669:por
+title: Portaria n.º 202/2007
+short_title: null
+summary: Aprova o modelo oficial e exclusivo do cartão de cidadão para os cidadãos nacionais e para os beneficiários do estatuto
+  referido no n.º 2 do artigo 3.º da Lei n.º 7/2007, de 5 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Justiça
+proposing_entity: null
+official_number: 202/2007
+official_date: null
+publication_date: '2007-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/2007, Série I de 2007-02-13
+  number: '31'
+  series: I
+  supplement: null
+  pages: 1131 - 1133
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03100/11311133.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/202/2007/02/13/p/dre/pt/html
+  oj: null
+  dre: '517669'
+  dre_path: /dr/detalhe/portaria/202-2007-517669
+  internal: pt:dre:517669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/202-2007-517669
+  metadata_url: https://data.dre.pt/eli/port/202/2007/02/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/202-2007-517669
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-09-28T00:00:00Z'
+integrity:
+  source_sha256: 60176f1dda04a6f7fe5c3fecebfcd5e8fe7a58f95ed8b94624b25433fac00f09
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-202-517669.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cartão de Cidadão
+- Cidadão Estrangeiro
+- Certificação Electrónica
+- Cidadão Nacional
+- Administração Pública
+- Impresso
+- Instalação de Serviços
+- Segurança da Informação
+- Dados Pessoais
+- Atendimento Público
+relationships:
+- type: amended_by
+  target: pt:dre:108228008:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/120/2006/09/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/120/2006/09/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 202/2007
+
+de 13 de Fevereiro
+
+A [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, que criou o cartão de cidadão e rege a sua emissão e utilização, prevê que, por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da administração interna e da justiça, sejam definidos os modelos oficiais e exclusivos do cartão de cidadão, os elementos de segurança física que o compõem, os requisitos técnicos e de segurança a observar na captação da imagem facial e das impressões digitais do titular do respectivo pedido e ainda as medidas concretas de inclusão de cidadãos com necessidades especiais na sociedade de informação, a observar na disponibilização do serviço de apoio ao cidadão.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e da Administração Interna e da Justiça, ao abrigo do disposto no n.º 2 do artigo 25.º e no n.º 1 do artigo 63.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, o seguinte:
+
+###### Artigo 1.º — Modelo
+
+É aprovado o modelo oficial e exclusivo do cartão de cidadão para os cidadãos nacionais e para os beneficiários do estatuto referido no n.º 2 do artigo 3.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, o qual consta do anexo I do presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º — Elementos de segurança física
+
+Os elementos de segurança física que compõem o cartão de cidadão constam do anexo II do presente diploma, do qual faz parte integrante.
+
+###### Artigo 3.º — Captação da imagem facial e impressões digitais
+
+Os requisitos técnicos e de segurança a observar na captação da imagem facial e das impressões digitais do titular do pedido do cartão de cidadão constam do anexo III do presente diploma, do qual faz parte integrante.
+
+###### Artigo 4.º — Cidadãos com necessidades especiais
+
+1 - Os serviços de recepção dos pedidos do cartão de cidadão devem funcionar em condições que favoreçam o respeito pelos termos das Resoluções do Conselho de Ministros n.os [97/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-1999-428656), de 26 de Agosto, e [120/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2006-541782), de 21 de Setembro.
+
+2 - Durante o ciclo de expansão progressiva dos serviços de recepção dos pedidos do cartão de cidadão a todo o território nacional, deve ser providenciada a disponibilidade de equipamentos adequados aos cidadãos com necessidades especiais.
+
+3 - Os planos de organização e funcionamento do serviço de apoio ao cidadão, previsto no artigo 21.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de Fevereiro, devem ser elaborados ou revistos tendo em conta os resultados que forem disponibilizados, pelos ministérios responsáveis, com a execução das medidas de prevenção da estratégia n.º 1.2, «Promover o acesso à comunicação e à informação», do eixo n.º 1, «Acessibilidades e informação», da parte II, n.º 1, «Intervenção e estratégias para a qualidade de vida», da [Resolução do Conselho de Ministros n.º 120/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2006-541782), de 21 de Setembro.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 8 de Fevereiro de 2007.
+
+**O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça.**
+
+## ANEXO I — Modelo do cartão de cidadão
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03100/11311133.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03100/11311133.pdf)
+
+## ANEXO II — Elementos de segurança física que compõem o cartão de cidadão
+
+1 - Âmbito. - Nas operações de produção e de personalização do cartão de cidadão deve ser garantido o cumprimento dos requisitos técnicos necessários e adequados a cada um dos seguintes elementos de segurança física:
+
+a) Materiais de base utilizados no fabrico do documento;
+
+b) Técnicas de impressão;
+
+c) Protecção anticópia;
+
+d) Técnicas de emissão;
+
+e) Técnicas de integração dos dados biográficos nos materiais de base utilizados no fabrico do documento.
+
+2 - Referências para verificação dos requisitos. - Além do respeito pelas normas jurídicas aplicáveis, as instruções de operação relativas a elementos de segurança física devem observar os parâmetros e critérios constantes das normas técnicas internacionalmente aceites como melhores técnicas disponíveis, nomeadamente:
+
+a) ISO/IEC 9798 (device-authentication/secure messaging);
+
+b) ISO 7810;
+
+c) ISO 7811;
+
+d) ISO 7816;
+
+e) ISO 10373;
+
+f) ISO/IEC 10373;
+
+g) EN 742:1993;
+
+h) CECC 90000;
+
+i) MIL STD-883C;
+
+j) Pr CEN/TS 15480 1,2 (European Citizen Card - draft);
+
+l) ICAO 9303 (travel documents).
+
+## ANEXO III — Requisitos técnicos e de segurança na captação da imagem facial e das impressões digitais do titular do pedido do cartão de cidadão
+
+1 - Requisitos mínimos dos equipamentos de captação de dados biométricos:
+
+1.1 - Quanto ao equipamento de digitalização de fotografia:
+
+a) Digitalização de 256 níveis reais de cinzento (8 bit) e a cores;
+
+b) Suporte a fotografias de formato «tipo passe» (até 45 mm x 35 mm, segundo as recomendações ICAO);
+
+c) Geração de imagem em formato JPEG e JPEG2000;
+
+d) Calibração automática;
+
+e) Resolução mínima de 500 ppp (pontos por polegada);
+
+1.2 - Quanto ao equipamento de digitalização de impressões digitais:
+
+a) Captação de 256 níveis reais de cinzento (8 bit);
+
+b) Geração de imagem em formato JPEG e WSQ e template biométricos;
+
+c) Calibração automática;
+
+d) Resolução mínima de 500 ppp (pontos por polegada);
+
+2 - Requisitos técnicos da fotografia captada pelos equipamentos de recolha de dados biométricos:
+
+2.1 - O formato da fotografia do cidadão (imagem facial) deve estar de acordo com a norma ISO/IEC 19794-5: «Face image data»;
+
+2.2 - Os requisitos da imagem recolhida são os seguintes (a descrição completa deve ser obtida por consulta da norma ISO/IEC 19794-5: «Face image data»):
+
+a) A dimensão mínima da imagem deve ser de 240 pixels x 320 pixels (largura x altura), tendo, pelo menos, 120 pixels de distância entre o centro dos dois olhos do cidadão;
+
+b) A imagem deve ter uma resolução mínima de 500 ppp;
+
+c) A imagem deve cumprir um conjunto de características, definidas nas recomendações ICAO, ao nível de contraste, área ocupada pela face, visibilidade dos olhos, entre outras;
+
+2.3 - A fotografia deve seguir as recomendações do documento «ICAO NTWG: Biometrics deployment of machine readable travel documents, technical report, version 2.0», de 21 de Maio de 2004;
+
+2.4 - Deve ser utilizado preferencialmente o método de compressão JPEG2000, seguindo as orientações comuns definidas pela União Europeia para os passaportes dos Estados membros.
+
+3 - Requisitos técnicos das impressões digitais captadas pelos equipamentos de recolha de dados biométricos:
+
+3.1 - O formato da imagem captada das impressões digitais deve cumprir as normas ISO/IEC 19794-4: «Finger image data»;
+
+3.2 - O formato de armazenamento da imagem deve ter preferencialmente a forma de uma estrutura CBEFF;
+
+3.3 - Requisitos da imagem captada das impressões digitais (a descrição completa deve ser obtida por consulta da norma ISO/IEC 19794-4: «Finger image data»):
+
+a) Resolução de, pelo menos, 500 ppp (pontos por polegada), com 256 tons de cinza (8 bit) e calibração automática;
+
+b) Meta-informação contida num cabeçalho de ficheiro compatível preferencialmente com o formato CBEFF (norma ISO/IEC 19785);
+
+c) A imagem pode ser comprimida para diminuir espaço de armazenamento necessário, conforme definido na proposta de standard (usando o algoritmo DCT do formato JPEG para imagens de 500 ppp e 256 tons de cinza, com um rácio máximo de compressão de 5:1 ou o algoritmo baseado em tecnologia wavelet do formato JPEG ou JPEG2000 para imagens com 1000 ppp, caso em que o rácio de compressão pode ser mais elevado);
+
+d) Deve ainda ser seguida a norma ANSI/NIST ITL-1 2000, «Data format for the interchange of fingerprint, facial, scarmark & tattoo (SMT) information», FBI: Wavelet scalar quantization (WSQ), a qual define o algoritmo WSQ que deve ser utilizado para a compressão de imagens das impressões digitais.
+
+4 - Requisitos de pré-processamento e validação da imagem facial recolhida:
+
+4.1 - Funcionalidades automáticas mínimas:
+
+a) Correcção da posição da imagem original;
+
+b) Ajuste da dimensão da face relativamente à dimensão total da imagem;
+
+c) Ajuste de contraste e brilho;
+
+d) Extracção da zona da face e eliminação de fundo;
+
+e) Execução de validações completas de qualidade de imagem conforme recomendações da ICAO para fotografia full frontal (conforme anexo A do documento «Biometrics deployment of machine readable travel documents» e requisitos da norma ISO/IEC 19794-5);
+
+4.2 - Possibilidade de opção por captação de fotografia no momento, no caso de a imagem digitalizada não permitir a qualidade mínima exigida (ou de não existir fotografia para digitalizar) ou no caso de não existir fotografia na base de dados de carregamento prévio;
+
+4.3 - Possibilidade de captação de múltiplas fotografias, para mais fácil obtenção da qualidade mínima exigida;
+
+4.4 - Possibilidade de correcções e ajustes manuais;
+
+4.5 - Interacção simples com o funcionário, baseada em interface gráfica amigável, adoptando o look and feel do front office do sistema informático «Ciclo de vida do cartão de cidadão»;
+
+4.6 - Geração de ficheiro com imagem full frontal a cores e meta-informação em formato CBEFF compatível com normas ISO e ICAO (LDS);
+
+4.7 - Geração de ficheiro com imagem apropriada para personalização do cartão (imagem original, optimizada segundo os requisitos definidos para o sistema de personalização);
+
+4.8 - Geração de ficheiro com imagem comprimida com JPEG2000 e meta-informação em formato CBEFF compatível com normas ISO e ICAO (LDS) e um máximo de 6 K.
+
+5 - Requisitos de pré-processamento e validação da imagem das impressões digitais:
+
+5.1 - Ajustes automáticos à qualidade de imagem obtida;
+
+5.2 - Detecção automática de situações de má qualidade (por exemplo, cortes, feridas, desgaste causado por químicos);
+
+5.3 - Extracção de templates biométricos;
+
+5.4 - Geração de ficheiros com imagens de impressões digitais (comprimidos utilizando standard JPEG2000 ou WSQ) e meta-informação em formato CBEFF;
+
+5.5 - Desenvolvimento de API (application programming interface) e ou framework para interligação de equipamentos de dados biométricos.

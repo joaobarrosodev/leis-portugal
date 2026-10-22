@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:196258:por
+title: Decreto-Lei n.º 44995
+short_title: null
+summary: Determina que podem continuar no serviço activo os militares dos quadros permanentes das forças armadas mutilados
+  em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública ou em serviço
+  directamente relacionado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '44995'
+official_date: null
+publication_date: '1963-04-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 97/1963, Série I de 1963-04-24
+  number: '97'
+  series: I
+  supplement: null
+  pages: 401 - 402
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/04/09700/04010402.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '196258'
+  dre_path: /dr/detalhe/decreto-lei/44995-1963-196258
+  internal: pt:dre:196258:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-05-09T00:00:00Z'
+integrity:
+  source_sha256: 44aa9c9cbf16ba081682f9d862434d811ee40499ae7a1652e3435f93c17a4d14
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-44995-196258.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:421985:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44995
+
+Pela legislação actualmente em vigor, os militares dos quadros permanentes das forças armadas quando, por ferimentos ou acidentes ocorridos em serviço, mesmo tratando-se de serviço de campanha ou de manutenção da ordem pública, ficam diminuídos na sua capacidade física são afastados do serviço activo.
+
+A realidade, porém, é que o desempenho de alguns dos cargos que competem aos militares do activo, por vezes cargos da maior relevância, dispensa plena validez física. Por outro lado, o afastamento da carreira das armas imposto aos militares que, em defesa da Pátria, sofreram diminuição de capacidade física, mas que dispõem ainda de validez suficiente para continuarem a desempenhar, de forma útil, funções para as quais foram especialmente preparados e às quais dedicaram a sua vida ao escolherem a carreira das armas, é procedimento que não se coaduna com o reconhecimento que a Nação deve àqueles que, no cumprimento dos seus deveres militares, por ela se sacrificaram.
+
+Torna-se, assim, imperioso, à semelhança do que se verifica nas forças armadas de outros países, permitir que continuem ao serviço activo os militares nas condições referidas, com benefício para o Estado, que, dessa forma, continuará a aproveitar a capacidade e a actividade desses militares, e com benefício para eles próprios, não só material, como moral.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Os militares dos quadros permanentes das forças armadas mutilados em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública ou em serviço directamente relacionado podem, se assim o desejarem, continuar no serviço activo ainda que a sua capacidade física apenas lhes permita o seu desempenho em cargos ou funções que dispensam plena validez.
+
+§ 1.º Para efeitos do disposto neste diploma, consideram-se mutilados os militares que, em consequência dos ferimentos ou acidentes referidos, hajam sofrido perda anatómica, prejuízo ou perda de qualquer órgão ou função.
+
+§ 2.º Ficam exceptuados do âmbito definido no corpo do artigo os ferimentos ou acidentes intencionalmente provocados pelo próprio mutilado ou provenientes de acções ou omissões por ele cometidas contra ordens expressas superiores ou em desrespeito das condições de segurança determinadas por autoridade competente.
+
+###### Art. 2.º Os militares nas condições do artigo anterior, logo que esteja concluído o respectivo tratamento, são presentes a uma junta médica, que julgará se se encontram aptos para todo o serviço activo ou apenas para o desempenho de cargos que dispensem plena validez, segundo normas a estabelecer para cada departamento por portaria do titular respectivo.
+
+§ 1.º Os militares que, nos termos deste artigo, forem considerados aptos para todo o serviço activo continuam ao serviço nas mesmas condições e circunstâncias como se não tivessem sofrido mutilação.
+
+2.º Os militares que forem considerados aptos apenas para o desempenho de cargos ou funções que dispensem plena validez são colocados na situação de adidos aos respectivos quadros.
+
+§ 3.º Os militares nas condições do § 1.º podem ser de novo presentes à junta, para serem colocados na situação referida no § 2.º, quando as consequências da respectiva mutilação venham posteriormente a ser agravadas por motivos de saúde, mesmo que não decorrentes de razões de serviço.
+
+###### Art. 3.º Os mutilados na situação referida no § 2.º do artigo anterior são dispensados das condições especiais de promoção que a junta que os examinou tenha reconhecido serem incompatíveis com o seu grau de invalidez. Em caso algum, porém, será dispensada a realização de cursos, estágios ou provas que constituam condições especiais de promoção.
+
+§ único. Na promoção dos militares de que trata este artigo, a verificação da aptidão física será feita tendo em conta as limitações naturalmente decorrentes da sua condição de mutilados.
+
+###### Art. 4.º Os militares nas condições do artigo 1.º do presente diploma que, em resultado do tratamento a que tenham de ser submetidos, não hajam completado as condições de promoção quando esta lhes competir, não serão preteridos e a sua promoção terá lugar logo que o seu estado físico permitir a realização dessas condições ou delas venham a ser dispensados nos termos do artigo anterior.
+
+§ 1.º Os militares abrangidos pelo preceituado no corpo deste artigo, ao serem promovidos, vão ocupar na escala o lugar que lhes caberia se a promoção tivesse sido feita na devida altura, contando, para todos os efeitos, a respectiva antiguidade, e percebem o aumento de vencimentos correspondente ao novo posto a partir da data em que o teriam percebido se não fora a demora, a qual será fixada sempre no instrumento legal respectivo.
+
+§ 2.º O disposto neste artigo aplica-se igualmente aos militares que hajam sido feridos ou sofrido acidentes nas condições expressas no artigo 1.º, mesmo que de tal não haja resultado mutilação.
+
+###### Art. 5.º A apreciação da capacidade física dos mutilados para o efeito de continuarem no serviço activo, de que trata o artigo 2.º, compete à Junta Hospitalar de Inspecção, que funciona no Hospital Militar Principal, para os militares do Exército, à Junta de Saúde Naval, para os militares da Armada, e à Junta de Saúde da Aeronáutica, para os militares da Força Aérea.
+
+§ 1.º As deliberações das referidas Juntas carecem de ser homologadas pelo titular do departamento respectivo, ainda que não envolvam mudanças de situação - reserva ou reforma.
+
+§ 2.º Das deliberações das Juntas referidas no corpo deste artigo cabe recurso para as juntas de revisão ou de recurso.
+
+§ 3.º Os recursos são interpostos por determinação superior ou a requerimento do interessado apresentado até oito dias após lhe ter sido feita a notificação da opinião da junta recorrida.
+
+§ 4.º É permitido ao recorrente juntar ao processo atestados, relatórios ou outros elementos clínicos que julgue convenientes.
+
+###### Art. 6.º O disposto neste diploma aplica-se aos militares com posto ou graduação igual ou superior a primeiro-cabo no Exército e na Força Aérea e a marinheiro na Armada que façam parte dos respectivos quadros permanentes.
+
+###### Art. 7.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho conjunto do Ministro da Defesa Nacional e do titular ou titulares dos departamentos militares interessados.
+
+###### Art. 8.º As disposições do presente diploma são aplicáveis aos militares feridos ou vítimas de acidentes posteriormente a 1 de Janeiro de 1961, ainda que, por virtude da incapacidade sofrida, hajam já mudado de situação anteriormente à sua entrada em vigor.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 24 de Abril de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Ferrando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Francisco António das Chagas.
+
+Para ser presente à Assembleia Nacional.

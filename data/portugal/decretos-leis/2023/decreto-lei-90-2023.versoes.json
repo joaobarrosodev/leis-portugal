@@ -1,0 +1,939 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222645050:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-222694073",
+ "dre_path": "/dr/detalhe/decreto-lei/90-2023-222645050",
+ "source_lastmod": "2026-04-15",
+ "versions": [
+  {
+   "date": "2026-04-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1085738183:por",
+     "title": "Decreto-Lei n.º 87/2026",
+     "published": "2026-04-15",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2026-1085738183"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "222694677",
+    "222694678",
+    "222694679",
+    "222694680",
+    "222694681",
+    "222694682",
+    "222694683",
+    "222694684",
+    "222694685",
+    "222694686",
+    "222694687",
+    "222694688",
+    "222694689",
+    "222694690",
+    "222694691",
+    "222694692",
+    "1086134175",
+    "222694694",
+    "222694695",
+    "222694876",
+    "222694877",
+    "222694697",
+    "222694698",
+    "222694699",
+    "222694700",
+    "222694701",
+    "222694702",
+    "222694703",
+    "222694704",
+    "222694705",
+    "222694706",
+    "222694707",
+    "222694708",
+    "222694709",
+    "222694710",
+    "222694711",
+    "222694712",
+    "222694713",
+    "222694714",
+    "222694715",
+    "222694716",
+    "222694717",
+    "222694718",
+    "222694719",
+    "222694720",
+    "222694721",
+    "222694722",
+    "222694723",
+    "222694724",
+    "222694725",
+    "222694726",
+    "222694727",
+    "222694728",
+    "222694729",
+    "222694730",
+    "222694731",
+    "222694732",
+    "222694733",
+    "222694734",
+    "222694735",
+    "222694736",
+    "222694737",
+    "222694738",
+    "222694739",
+    "222694740",
+    "222694741",
+    "222694742",
+    "222694879",
+    "222694743",
+    "222694744",
+    "222694745",
+    "222694746",
+    "222694747",
+    "222694748",
+    "222694749",
+    "222694750",
+    "222694751",
+    "222694752",
+    "222694753",
+    "222694754",
+    "222694755",
+    "222694756",
+    "222694757",
+    "222694758",
+    "222694759",
+    "222694760",
+    "222694761",
+    "222694762",
+    "222694763",
+    "222694764",
+    "222694765",
+    "222694766",
+    "222694767",
+    "222694768",
+    "222694769",
+    "222694770",
+    "222694771",
+    "222694772",
+    "222694773",
+    "222694774",
+    "222694875"
+   ]
+  }
+ ],
+ "fragments": {
+  "222694677": {
+   "fragment_id": "222694074",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O conhecimento dos limites e da titularidade da propriedade é imprescindível para as atividades de planeamento, gestão e apoio à decisão sobre a ocupação e uso do território, para a regulação da repartição das mais-valias fundiárias e para a gestão, controlo e planeamento territorial.\n\nO desconhecimento da identidade dos titulares de muitos terrenos rústicos tem impedido uma melhor execução das políticas de prevenção de riscos e combate dos incêndios rurais. Ultrapassar este constrangimento implica que, de forma ágil, rápida e eficaz, se consiga aumentar o conhecimento efetivo dos titulares de direitos de propriedade de uma determinada área geográfica, garantindo a harmonização entre o registo predial, a matriz predial e a informação georreferenciada relativa a um dado prédio, permitindo conhecer a localização e delimitação dos prédios rústicos existentes, com claros benefícios para o aumento do conhecimento do território, mas também para a segurança do comércio jurídico.\n\nAtravés da Lei n.º 78/2017, de 17 de agosto, foi criado o sistema de informação cadastral simplificada, criando condições para a identificação da estrutura fundiária e da titularidade dos prédios rústicos e mistos e criou o Balcão Único do Prédio (BUPi), que se constituiu como um balcão físico e virtual que agrega a informação registal, matricial e georreferenciada relacionada com os prédios e como plataforma de articulação do cidadão com a Administração Pública no âmbito do cadastro predial, implementados num conjunto de 10 municípios como projeto-piloto.\n\nEm 2019, a Assembleia da República aprovou a Lei n.º 65/2019, de 23 de agosto, que veio manter em vigor e generalizar a aplicação do sistema de informação cadastral simplificada, promovendo-se igualmente a universalização do BUPi, enquanto plataforma nacional de registo e cadastro do território, tendo sido realizadas as necessárias alterações ao Decreto Regulamentar n.º 9-A/2017, de 3 de novembro, introduzindo-se ajustes e adaptações decorrentes do regime de expansão, por via do Decreto Regulamentar n.º 4/2019, de 20 de setembro.\n\nO Programa do XXIII Governo Constitucional estabeleceu como um dos eixos estratégicos valorizar o território, designadamente «dar continuidade à implementação do sistema de informação cadastral simplificada e à universalização do BUPi, de modo a identificar todos os proprietários, à reorganização do sistema de cadastro da propriedade rústica».\n\nAtenta a respetiva relevância estratégica e a sua centralidade em termos de administração pública, o projeto de expansão do sistema de informação cadastral simplificada está previsto nos principais programas de desenvolvimento dos territórios do interior, como seja o Programa de Valorização do Interior e Programa de Revitalização do Pinhal Interior, no Plano de Modernização da Justiça, no Plano de Ação para a Transição Digital e no Plano Nacional de Gestão Integrada de Fogos Rurais. O BUPi enquanto solução inovadora, assente no digital, enquadra-se no âmbito da Recomendação específica por país (para Portugal) da Comissão Europeia relativa a 2020, que visava a focalização do investimento na transição ecológica e digital e na inovação, bem como na Estratégia PT2030, promovendo a inovação no conhecimento e identificação do território e a competitividade e coesão na baixa densidade.\n\nAtentas as suas características estruturais e de reforma profunda do conhecimento do território, o projeto encontra-se integrado no Plano de Recuperação e Resiliência na componente C08 - Florestas, no âmbito do investimento designado por «Cadastro da Propriedade Rústica e Sistema de Monitorização da Ocupação do Solo», que compreende o subinvestimento «Sistema Nacional de Cadastro Predial», no valor de 55 milhões de euros, e que tem como objetivo operacionalizar o BUPi enquanto plataforma única de relacionamento com os cidadãos e empresas e destes com a Administração Pública e o sistema de cadastro simplificado assente nos três pilares de promoção do registo da propriedade, de aquisição expedita de dados relativos à geometria dos prédios e de harmonização da informação tributária.\n\nAtenta a complexidade e dimensão das tarefas de que depende, o investimento que suporta a referida reforma irá prosseguir até 2025, tendo sido cometida à Estrutura de Missão para a Expansão do Sistema de Informação Cadastral Simplificada (eBUPi) a responsabilidade de coordenar a execução física e material do supraidentificado investimento, com cronograma de execução até 2025, tendo, pela Resolução do Conselho de Ministros n.º 2/2023, de 13 de janeiro, sido prorrogado o mandato da Estrutura de Missão, compatibilizando-o com o período do investimento, por forma a assegurar a implementação integral da reforma e a execução do investimento dentro dos prazos e de acordo com as metas e marcos acordados com a Estrutura de Missão «Recuperar Portugal».\n\nDando cumprimento ao estatuído no n.º 2 do artigo 17.º da Lei n.º 65/2019, de 23 de agosto, o Governo apresentou à Assembleia da República o Relatório de avaliação da aplicação do regime de expansão do sistema de informação cadastral simplificada a todo o território nacional, com vista à eventual extensão dos prazos previstos para a sua implementação, o qual procede a uma descrição estruturada da evolução da implementação do projeto, nomeadamente quanto às ações desencadeadas, avaliações intercalares, opções tomadas e resultados obtidos, e conclui no sentido da necessidade de extensão dos prazos previstos para implementação do projeto a todo o território nacional.\n\nAssim, o presente decreto-lei procede à alteração à Lei n.º 78/2017, de 17 de agosto, e à Lei n.º 65/2019, de 23 de agosto, que estabelecem o regime jurídico do sistema de informação cadastral simplificada e do BUPi, promovendo, entre outros: i) A faculdade dos técnicos habilitados verificarem a conformidade dos documentos que lhe são apresentados no procedimento de representação gráfica georreferenciada (RGG), para utilização pelos serviços de registo na promoção, instrução e tramitação dos procedimentos especiais de registo; ii) A criação do procedimento de conciliação administrativa, que se destina a possibilitar aos proprietários alcançarem um acordo relativamente ao limite das estremas de prédios confinantes, corrigindo os polígonos sobrepostos nos procedimentos de RGG, que passa a ser dirigido por técnico de cadastro predial; iii) O recurso ao procedimento de consulta pública, nos casos em que não se encontrem ainda identificadas todas as estremas dos prédios confinantes; iv) A promoção da anexação de prédios rústicos por via da realização de uma única RGG, onde se incluem as matrizes dos prédios rústicos que se pretendem anexar, que serve de suporte à tramitação da realização de todos os registos, e procedimentos prévios e necessários à concretização da pretendida anexação; v) O estabelecimento de procedimentos de harmonização da informação matricial e registal, nos prédios situados em concelhos que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor; vi) O alargamento do âmbito de aplicação do procedimento especial de registo e do procedimento especial de justificação de prédio rústico ou misto, aos prédios descritos; vii) O alargamento do regime de gratuidade emolumentar; viii) O estabelecimento do alargamento do período excecional durante o qual os proprietários, a título gratuito e sem sanções, as autarquias locais e outras entidades públicas com competência de natureza territorial procederão ao levantamento e comunicação de informação cadastral simplificada; e ix) A previsão que o BUPi integra uma plataforma de serviços geográficos de alta disponibilidade que se enquadra como uma Infraestrutura de Dados Espaciais e tem como objetivo fornecer conteúdos ao visualizador BUPi e a entidades parceiras, assegurando os necessários atributos de segurança, escalabilidade e resiliência.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias, a Comissão Nacional de Proteção de Dados.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "222694678": {
+   "fragment_id": "222694775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei revê o regime jurídico do sistema de informação cadastral simplificado e do Balcão Único do Prédio, prevendo a criação de novos procedimentos, o alargamento do âmbito de aplicação dos procedimentos já existentes e a extensão e alargamento do regime de gratuitidade.\n\n2 - Para efeitos do número anterior, o presente decreto-lei procede à:\n\na) Alteração ao Código do Registo Predial, aprovado em anexo ao Decreto-Lei n.º 224/84, de 6 de julho, na sua redação atual (Código do Registo Predial);\n\nb) Primeira alteração à Lei n.º 78/2017, de 17 de agosto, que cria um sistema de informação cadastral simplificada;\n\nc) Primeira alteração à Lei n.º 65/2019, de 23 de agosto, que mantém em vigor e generaliza a aplicação do sistema de informação cadastral simplificada."
+  },
+  "222694679": {
+   "fragment_id": "222694776",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código do Registo Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do Registo Predial\n\nOs artigos 8.º-A e 8.º-B do Código do Registo Predial passam a ter a seguinte redação:\n\n«Artigo 8.º-A\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) A identificação dos terrenos baldios e dos bens imóveis do domínio público.\n\n2 - [...]\n\nArtigo 8.º-B\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) O conselho diretivo do universo de compartes, no que respeita aos terrenos baldios;\n\ne) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, no que respeita aos respetivos bens imóveis do domínio público.\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]»"
+  },
+  "222694680": {
+   "fragment_id": "222694777",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração à Lei n.º 78/2017, de 17 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração à Lei n.º 78/2017, de 17 de agosto\n\nOs artigos 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 13.º, 16.º, 17.º, 19.º, 20.º, 22.º, 25.º e 27.º da Lei n.º 78/2017, de 17 de agosto, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) O procedimento especial de registo de prédio rústico e misto;\n\nc) (Revogada.)\n\nArtigo 3.º\n\n[...]\n\n1 - [...]\n\n2 - A articulação do NIP com o sistema de identificação do prédio usado para efeitos cadastrais, registais e matriciais é definida por decreto regulamentar.\n\nArtigo 4.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) 'Interessados', todos aqueles que figurem como detentores de posições ativas no registo predial, que tenham legitimidade para solicitar atos de registo ou que sejam o sujeito passivo inscrito nas matrizes prediais;\n\nc) [...]\n\nArtigo 5.º\n\n[...]\n\n1 - [...]\n\n2 - A informação resultante da representação gráfica georreferenciada do prédio rústico ou misto que seja validada nos termos da presente lei, no que se refere à área e à localização geográfica do mesmo, releva para efeitos de natureza cadastral, registal e matricial, sem prejuízo do n.º 5.\n\n3 - A informação resultante da representação gráfica georreferenciada do prédio rústico ou misto que seja validada por todos os proprietários dos prédios confinantes assume a natureza de cadastro predial para todos os efeitos legais a partir da sua comunicação, por interoperabilidade de dados, à Direção-Geral do Território (DGT) para efeitos de integração da informação geométrica dos prédios na carta cadastral, com referência ao NIP.\n\n4 - Em caso de litígio emergente de sobreposição de polígonos, a representação gráfica georreferenciada dos prédios em causa é apresentada no BUPi pelos respetivos polígonos com evidência das estremas em sobreposição, sendo o prédio identificado pelo centroide até à resolução do conflito.\n\n5 - [...]\n\n6 - Para efeitos tributários, a informação resultante da representação gráfica georreferenciada do prédio produz os efeitos previstos nos n.os 4 e 5 do artigo 14.º da Lei n.º 65/2019, de 23 de agosto.\n\n7 - A informação que nos termos do n.º 3 integre a carta cadastral deve obedecer às normas e procedimentos previstos no Regime Jurídico de Cadastro Predial, aprovado pelo Decreto-Lei n.º 72/2023, de 23 de agosto.\n\nArtigo 6.º\n\n[...]\n\n1 - As operações de representação gráfica georreferenciada de prédios podem ser promovidas por iniciativa dos interessados ou por entidade pública competente, desde que realizadas por técnico habilitado para o efeito.\n\n2 - [...]\n\na) [...]\n\nb) DGT;\n\nc) [...]\n\nd) (Revogada.)\n\ne) Do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.);\n\nf) Do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ng) Da Agência Portuguesa do Ambiente, I. P.;\n\nh) Da Direção-Geral da Agricultura e do Desenvolvimento Rural (DGADR);\n\ni) Das Infraestruturas de Portugal, S. A.;\n\nj) Das Comissões de Coordenação de Desenvolvimento Regional (CCDR);\n\nk) Da ESTAMO, Participações Imobiliárias, S. A.;\n\nl) Da Autoridade Nacional de Emergência e Proteção Civil;\n\nm) Da Agência para a Gestão Integrada de Fogos Rurais, I. P.;\n\nn) Da Guarda Nacional Republicana;\n\no) Do Instituto de Gestão Financeira da Segurança Social, I. P.;\n\np) Nas Regiões Autónomas dos Açores e da Madeira, das entidades das respetivas administrações regionais com atribuições e competências em matéria de cadastro predial.\n\n3 - [...]\n\n4 - [...]\n\n5 - Nas áreas sob gestão de entidades com competências para a gestão territorial agrupada, designadamente as entidades de gestão florestal, as entidades gestoras nas áreas delimitadas como zonas de intervenção florestal, as organizações de agricultores e produtores florestais, respetivas associações e as entidades promotoras e gestoras de áreas integradas de gestão da paisagem (AIGP), as operações de representação gráfica georreferenciada de prédios podem ser promovidas e realizadas por estas entidades e, no âmbito dos procedimentos de expropriação por utilidade pública, pelas entidades expropriantes.\n\n6 - [...]\n\n7 - Nos procedimentos tributários de inscrição, atualização ou correção das matrizes prediais, a atuação da Autoridade Tributária e Aduaneira (AT) depende da prévia realização da representação gráfica georreferenciada pelos interessados ou pelos promotores.\n\nArtigo 7.º\n\n[...]\n\n1 - O procedimento administrativo da representação gráfica georreferenciada a realizar no BUPi, bem como as especificações técnicas a observar na elaboração da representação gráfica georreferenciada e a respetiva estrutura de atributos, são estabelecidos por decreto regulamentar.\n\n2 - (Revogado.)\n\n3 - [...]\n\nArtigo 8.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) (Revogada.)\n\nb) Habilitados nos termos das alíneas a) a c) do n.º 2 do artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, e diplomas complementares;\n\nc) [...]\n\n3 - As entidades públicas podem ainda recorrer a quaisquer pessoas habilitadas à realização de avaliações prediais no âmbito de procedimentos administrativos legalmente previstos.\n\n4 - [...]\n\n5 - [...]\n\n6 - Os técnicos habilitados devem assegurar, ao longo de todos os procedimentos em que intervêm, o respeito pelos princípios da celeridade, independência, imparcialidade, legalidade e transparência.\n\nArtigo 9.º\n\n[...]\n\n1 - As entidades públicas referidas no n.º 2 do artigo 6.º promovem oficiosamente a representação gráfica georreferenciada dos prédios rústicos ou mistos sempre que, no âmbito do exercício das suas competências, tramitem um procedimento que implique a delimitação ou alteração da delimitação das parcelas de terreno nos seus sistemas.\n\n2 - [...]\n\n3 - [...]\n\nArtigo 10.º\n\n[...]\n\nNos casos em que os interessados disponham de documento ou registo da delimitação do prédio feito junto de qualquer entidade pública, a representação gráfica georreferenciada do prédio é promovida mediante solicitação do interessado a qualquer das entidades referidas no n.º 2 do artigo 6.º, ou à entidade pública em causa, se diferente destas, em termos a definir por decreto regulamentar, sendo neste caso dispensado o recurso a técnico habilitado.\n\nArtigo 13.º\n\n[...]\n\nO procedimento especial de registo de prédio rústico e misto cabe aos serviços de registo com competência para a prática de atos de registo predial que forem designados por deliberação do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).\n\nArtigo 16.º\n\n[...]\n\n1 - A área constante da representação gráfica georreferenciada do prédio é considerada, para efeitos de registo, se o interessado expressamente o declarar.\n\n2 - [...]\n\n3 - (Revogado.)\n\n4 - Tratando-se de prédio descrito, quando exista divergência entre a descrição e a representação gráfica georreferenciada quanto à área do prédio, dentro das percentagens fixadas no artigo 28.º-A do Código de Registo Predial, a descrição pode ser atualizada com a área que consta daquela representação gráfica georreferenciada, não se aplicando, nesse caso o disposto no n.º 1 do artigo 28.º-B do mesmo diploma.\n\n5 - Tratando-se de prédio descrito, quando exista divergência de áreas entre a descrição e o título, em percentagens superiores às previstas no artigo 28.º-A do Código de Registo Predial, a representação gráfica georreferenciada substitui a planta prevista na subalínea i) da alínea b) do n.º 2 do artigo 28.º-C do mesmo diploma.\n\nArtigo 17.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - Para efeitos do disposto no número anterior, as entidades referidas nos n.os 2 e 7 do artigo 6.º e as demais entidades públicas têm o dever especial de colaboração com o interessado.\n\n6 - [...]\n\nArtigo 19.º\n\n[...]\n\n1 - Nos registos de aquisição, nos procedimentos previstos nos artigos 7.º-D e 7.º-E da Lei n.º 65/2019, de 23 de agosto, e nos procedimentos administrativos requeridos perante qualquer entidade pública que tenham por efeito uma alteração na configuração geométrica de prédios rústicos ou mistos, é obrigatória a indicação do número de representação gráfica georreferenciada, exceto nos casos em que mediante consulta oficiosa no BUPi se verifique que a mesma já tenha sido entregue ou se verifique que o prédio já está inscrito na carta cadastral.\n\n2 - O disposto no número anterior não se aplica às aquisições decorrentes de atos praticados no processo executivo ou de insolvência.\n\nArtigo 20.º\n\n[...]\n\n1 - Os eventuais litígios de natureza civil emergentes da representação gráfica georreferenciada relacionados com os limites dos prédios podem ser submetidos pelas partes a resolução por arbitragem, devendo para o efeito ser designados como árbitros os conservadores de registos ou os oficiais de registos licenciados em Direito, nos termos definidos pelo conselho diretivo do IRN, I. P.\n\n2 - [...]\n\n3 - [...]\n\n4 - O tribunal arbitral, por sua iniciativa ou a pedido das partes, pode nomear um ou mais peritos, designadamente os técnicos habilitados, para elaborarem um relatório, escrito ou oral, sobre pontos específicos a determinar pelo tribunal arbitral.\n\nArtigo 22.º\n\n[...]\n\n1 - O BUPi é um balcão físico e virtual, da responsabilidade do IRN, I. P., que agrega a informação registal, matricial e georreferenciada relacionada com os prédios.\n\n2 - [...]\n\n3 - O BUPi constitui-se como a plataforma de articulação do cidadão com a Administração Pública no âmbito do cadastro predial, estando integrado no portal único de serviços públicos, sendo assegurada a autenticação eletrónica partilhada bem como quaisquer outros mecanismos que garantam uma experiência de utilização uniforme entre ambos os portais.\n\nArtigo 25.º\n\n[...]\n\n1 - [...]\n\na) O procedimento administrativo da representação gráfica georreferenciada;\n\nb) [...]\n\nc) (Revogada.)\n\nd) [...]\n\ne) [...]\n\nf) As diligências, tramitação e meios de impugnação do procedimento especial de registo de prédio rústico e misto;\n\ng) As especificações técnicas do ajuste automático de estremas.\n\n2 - (Revogado.)\n\nArtigo 27.º\n\nInterconexão de dados e dados em formato aberto\n\n1 - Com vista à expansão do sistema de informação cadastral simplificado e do BUPi, a AT, o IRN, I. P., a DGT, o IFAP, I. P., o ICNF, I. P., e a DGADR procedem à partilha entre si, e com os municípios e com as CCDR, através do BUPi, da informação relevante sobre os elementos caracterizadores e de identificação dos prédios rústicos e mistos e dos seus titulares, para efeitos de localização geográfica e demais efeitos de identificação do prédio.\n\n2 - A informação a que se refere o número anterior pode ser também partilhada, nos termos previstos no artigo 23.º da Lei n.º 58/2019, de 8 de agosto, com as demais entidades públicas para prossecução das suas atribuições\n\n3 - Com vista à expansão do sistema de informação cadastral simplificado e do BUPi, as entidades públicas da administração central, regional, local, do setor empresarial do Estado, ou outras entidades que, independentemente da natureza pública ou privada, dispõem de informação predial no exercício das suas atribuições e competências, designadamente as entidades referidas no n.º 5 do artigo 6.º, podem proceder à partilha entre si, através do BUPi, da informação relevante sobre os elementos caracterizadores e de identificação dos prédios urbanos, rústicos e mistos e dos dados pessoais dos seus titulares, para efeitos de localização geográfica e demais efeitos de identificação do prédio, incluindo para efeitos do Regime Jurídico de Cadastro Predial, aprovado pelo Decreto-Lei n.º 72/2023, de 23 de agosto.\n\n4 - Os termos da interconexão de dados prevista nos números anteriores são definidos por protocolo estabelecido entre as entidades detentoras dos dados, o IRN, I. P., e o Centro de Coordenação Técnica.\n\n5 - Os dados pessoais objeto de tratamento ao abrigo do disposto nos números anteriores são conservados enquanto se revelarem necessários para a prossecução das finalidades a que se destina o seu tratamento.\n\n6 - São disponibilizados no BUPi e no Portal Dados.Gov, cumpridas as especificações técnicas e formatos digitais previstos no Regulamento Nacional de Interoperabilidade Digital, dados em formato aberto sobre os elementos caracterizadores e de identificação dos prédios urbanos, rústicos e mistos que podem ser utilizados, reutilizados e partilhados por qualquer pessoa e para qualquer finalidade, nos termos da Lei n.º 26/2016, de 22 de agosto, na sua redação atual.\n\n7 - Os documentos apresentados e a informação prestada pelos cidadãos e operadores económicos no âmbito dos procedimentos tramitados através do BUPi podem ser utilizados pelos serviços e organismos da Administração Pública central, regional e local no âmbito de outros procedimentos promovidos pelos mesmos interessados, sem necessidade de nova submissão de dados, informação ou documentos, desde que nestes procedimentos seja dado consentimento expresso para tal ou o tratamento for necessário ao exercício de funções de interesse público ou ao exercício da autoridade pública.»"
+  },
+  "222694681": {
+   "fragment_id": "222694778",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 65/2019, de 23 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 65/2019, de 23 de agosto\n\nOs artigos 1.º, 2.º, 5.º a 9.º, 12.º, 14.º, 15.º e 17.º da Lei n.º 65/2019, de 23 de agosto, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) O procedimento especial de registo, previsto nos artigos 13.º a 15.º da Lei n.º 78/2017, de 17 de agosto, aplicável, com as especificidades constantes da presente lei:\n\ni) Aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional;\n\nii) Aos prédios rústicos ou mistos descritos no registo, desde que situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor, cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG.\n\n2 - A presente lei cria ainda, no âmbito do sistema de informação cadastral simplificada:\n\na) O procedimento especial de justificação de prédio rústico e misto;\n\nb) O procedimento de consulta pública destinado à resolução das situações de validação de RGG com reserva de geometria; e\n\nc) Os procedimentos de inscrição de prédio rústico omisso na matriz predial não cadastral e de alteração de área de prédio rústico inscrito na matriz predial não cadastral.\n\n3 - O procedimento a que se refere a alínea a) do número anterior aplica-se aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional, e ainda aos prédios rústicos ou mistos descritos no registo cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG, situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor.\n\n4 - Os procedimentos a que se referem as alíneas b) e c) do n.º 2 aplicam-se na área dos municípios que não dispõem de CGPR ou cadastro predial em vigor identificados no anexo i e no anexo ii à presente lei e da qual fazem parte integrante.\n\n5 - A operacionalização do regime previsto na alínea a) do n.º 1 depende da celebração de um acordo de colaboração interinstitucional entre o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), o Centro de Coordenação Técnica e cada município, que regula:\n\na) As ações a desenvolver com vista à expansão do sistema de informação cadastral simplificado e do Balcão Único do Prédio (BUPi);\n\nb) O modo de partilha de informação de caracterização e identificação dos prédios rústicos ou mistos e dos seus titulares e de caracterização do território nacional.\n\n6 - Para a realização das ações a que se refere a alínea a) do número anterior, o Centro de Coordenação Técnica, o IRN, I. P., os municípios e as entidades intermunicipais podem estabelecer protocolos de cooperação com outras entidades públicas e privadas.\n\n7 - No quadro do Centro de Coordenação Técnica referido no n.º 5, mediante protocolo a celebrar entre a Autoridade Tributária e Aduaneira (AT) e o IRN, I. P., a AT transmite à plataforma BUPi a informação relativa aos prédios inscritos nas matrizes prediais rústica e urbana, localizados no respetivo município, bem como a identificação dos seus titulares, através do nome e número de identificação fiscal, e respetivo domicílio fiscal.\n\n8 - O Centro de Coordenação Técnica, os municípios e as entidades intermunicipais colaboram entre si na expansão do sistema de informação cadastral simplificado e do BUPi.\n\n9 - (Anterior n.º 3.)\n\n10 - A presente lei promove igualmente a universalização do BUPi, criado pela Lei n.º 78/2017, de 17 de agosto, enquanto plataforma nacional de registo e cadastro do território (PNRCT), abrangendo os prédios urbanos, rústicos e mistos de todo o território nacional.\n\nArtigo 2.º\n\nSistema de informação cadastral simplificado\n\n1 - [...]\n\na) Garantir a todo o tempo a atualização e a interoperabilidade dos dados detidos pelas entidades referidas nos n.os 2 e 7 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto;\n\nb) Assegurar a harmonização da informação relevante sobre os elementos caracterizadores e de identificação dos prédios usados para efeitos cadastrais, registais e matriciais;\n\nc) (Revogada.)\n\nd) [...]\n\n2 - [...]\n\nArtigo 5.º\n\n[...]\n\n1 - O modelo de organização e desenvolvimento do sistema de informação cadastral simplificado e do BUPi desenvolve-se em três níveis:\n\na) [...]\n\nb) Ao nível regional, através de Centros de Competências Regionais, a estabelecer por resolução do Conselho de Ministros, com competências e recursos para a partilha e articulação de conhecimentos e de capacidades instaladas no domínio da informação geoespacial;\n\nc) [Anterior alínea b).]\n\n2 - As competências dos municípios referidas na alínea c) do número anterior podem ser delegadas na entidade intermunicipal que estes integram, podendo ser exercidas exclusivamente pela entidade intermunicipal ou em conjunto com cada município.\n\n3 - Para efeitos do previsto na alínea c) do n.º 1 compete às Unidades de Competência Locais:\n\na) Partilhar com o BUPi informação sobre os elementos caracterizadores e de identificação dos prédios rústicos ou mistos, dos seus titulares e de caracterização do território nacional de que o município disponha, para efeitos de identificação dos prédios e supressão de omissão no registo predial;\n\nb) Assegurar a elaboração no BUPi, pelos técnicos habilitados, das operações de RGG dos prédios;\n\nc) Disponibilizar balcões de atendimento ao cidadão.\n\n4 - (Anterior n.º 3.)\n\nArtigo 6.º\n\n[...]\n\n1 - [...]\n\n2 - O NIP é atribuído a cada prédio sempre que seja confirmada a coincidência entre a informação constante das bases de dados das descrições prediais do IRN, I. P., e das bases de dados que contêm as inscrições matriciais da AT, associando-se a RGG ou a configuração geométrica do prédio (CGP) dependendo da informação constar no BUPi ou na carta cadastral.\n\n3 - A informação predial única subjacente ao NIP integra designadamente:\n\na) A descrição e as inscrições do registo predial;\n\nb) A inscrição matricial, quando aplicável;\n\nc) A RGG do prédio, quando não cadastrado, ou a CGP que consta da carta cadastral;\n\nd) Outros dados e elementos relativos à caracterização do prédio e à identificação dos seus titulares que possam ser partilhados no BUPi.\n\nArtigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - Não sendo corrigida a sobreposição de polígonos de prédios confinantes nos termos do número anterior, o conflito é objeto do procedimento de conciliação administrativa.\n\nArtigo 8.º\n\nProcedimento especial de registo de prédio rústico e misto\n\n1 - (Revogado.)\n\n2 - Sem prejuízo do disposto no artigo 14.º da Lei n.º 78/2017, de 17 de agosto, o procedimento especial de registo de prédio rústico e misto pode ser promovido por iniciativa dos interessados, desde que:\n\na) Disponham de documento comprovativo do seu direito de propriedade e;\n\nb) Ocorra na sequência de RGG, quando se trate de prédio rústico inscrito na matriz não cadastral, ou seja apresentada a CGP, quando o prédio esteja inscrito na matriz cadastral.\n\nArtigo 9.º\n\nProcedimento especial de justificação de prédio rústico e misto\n\n1 - (Revogado.)\n\n2 - Ao procedimento especial de justificação de prédio rústico e misto aplica-se, em matéria de competência, o disposto no artigo 13.º da Lei n.º 78/2017, de 17 de agosto.\n\n3 - O procedimento especial de justificação de prédio rústico e misto pode ser promovido pelo interessado que não disponha de documento para prova do seu direito de propriedade, desde que se verifique por consulta ao BUPi:\n\na) A existência de RGG, quando se trate de prédio rústico inscrito na matriz não cadastral; ou\n\nb) A existência de CGP, quando se trate de prédio inscrito na matriz cadastral.\n\n4 - (Anterior n.º 3.)\n\nArtigo 12.º\n\n[...]\n\nO regime aplicável aos baldios e aos demais meios de produção comunitários, previsto na Lei n.º 75/2017, de 17 de agosto, é tramitado, com as necessárias adaptações, no âmbito do sistema de informação cadastral simplificado previsto na presente lei, sendo integrados no registo predial, assumindo o BUPi, para todos os efeitos legais, as funções da plataforma eletrónica nacional prevista no artigo 9.º do referido diploma.\n\nArtigo 14.º\n\n[...]\n\n1 - São gratuitos os atos e procedimentos previstos na presente lei que abranjam prédios rústicos ou mistos, com área igual ou inferior a 50 hectares, bem como:\n\na) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir o procedimento de RGG e a instruir e suprir as deficiências no âmbito dos procedimentos especialmente previstos na presente lei;\n\nb) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do pedido de registo de aquisição, efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto não descrito ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\nc) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do primeiro pedido de registo de aquisição efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto descrito, após a realização da RGG, desde que instruído com esta;\n\nd) As certidões negativas de registos que digam respeito a prédios rústicos ou mistos necessárias a instruir atos de titulação, desde que seja apresentada RGG ou CGP;\n\ne) As RGG de prédios efetuadas pelas entidades públicas ou a pedido dos interessados junto daquelas, destinadas a instruir os procedimentos especialmente previstos na presente lei ou qualquer ato de registo efetuado nos termos gerais do Código de Registo Predial;\n\nf) Os procedimentos simplificados de sucessão hereditária, celebrados nos serviços de registo, que sejam necessários à regularização da situação registal dos prédios rústicos ou mistos não descritos ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP e de prédios rústicos ou mistos descritos, desde que instruídos com RGG e de que resulte a realização do primeiro registo de aquisição após a realização da RGG;\n\ng) Os atos de atualização da descrição predial em conformidade com a RGG ou com a CGP;\n\nh) Os atos de registo relativos a prédios rústicos ou mistos não descritos, ou descritos sem inscrição de aquisição ou reconhecimentos de direto de propriedade ou de mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\ni) O primeiro pedido de registo de aquisição de prédio rústico ou misto descrito com inscrição de aquisição ou reconhecimento de direito de propriedade ou de mera posse em vigor, efetuado após a realização da RGG e instruído com esta;\n\nj) Os processos de justificação, nos termos do artigo 116.º e seguintes do Código de Registo Predial, desde que instruídos com RGG ou que apresentem CGP;\n\nk) Os atos praticados no âmbito de procedimento de inscrição de prédio omisso na matriz;\n\nl) Os atos praticados no âmbito de procedimento de alteração de áreas de prédio rústico na matriz, desde que instruídos com RGG.\n\n2 - Quando o título sujeito a registo ou o procedimento simplificado de sucessão hereditária abranjam prédios urbanos, rústicos ou mistos, os atos e procedimentos previstos no número anterior são igualmente gratuitos.\n\n3 - Quando os prédios se encontrem integrados em terrenos baldios, a gratuitidade prevista no presente artigo aplica-se independentemente da área dos prédios.\n\n4 - A inscrição dos prédios rústicos omissos na matriz não dá lugar à aplicação de coimas, à instauração de processo de infração tributária ou à liquidação de impostos e juros devidos à data da regularização.\n\n5 - O disposto no número anterior é aplicável às situações em que, para efeitos de atualização das matrizes rústicas, se verificou o incumprimento da obrigação de declaração das alterações ou das modificações ao prédio rústico.\n\n6 - Na alteração de área de prédio rústico previamente inscrito na matriz, nos termos do artigo 130.º do Código do Imposto Municipal sobre Imóveis, a informação da RGG resultante do procedimento previsto no artigo 5.º da Lei n.º 78/2017, de 17 de agosto, sobre prédios previamente inscritos na matriz não releva para efeitos de liquidação de impostos sobre o respetivo prédio, mantendo-se, para esse efeito, o recurso à informação previamente existente na matriz.\n\nArtigo 15.º\n\n[...]\n\nSão definidas por decreto regulamentar as seguintes matérias:\n\na) A articulação do NIP com o sistema de identificação usado para efeitos cadastrais, registais e matriciais;\n\nb) A metodologia de identificação e delimitação do domínio público;\n\nc) Os termos da efetivação da promoção oficiosa da RGG;\n\nd) O procedimento de conciliação administrativa;\n\ne) As demais matérias cuja regulamentação deva revestir essa forma, nos termos da presente lei.\n\nArtigo 17.º\n\n[...]\n\n1 - O Governo publica um relatório anual sobre a aplicação do regime previsto na presente lei, o qual contém, nomeadamente, informação relativa à área conhecida.\n\n2 - Sem prejuízo do disposto no número anterior, até 31 de julho de 2025, o Governo apresenta à Assembleia da República um relatório de avaliação da aplicação do presente regime ao território nacional.»"
+  },
+  "222694682": {
+   "fragment_id": "222694779",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento ao Código do Registo Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento ao Código do Registo Predial\n\nSão aditados ao Código do Registo Predial os artigos 3.º-A e 33.º-A a 33.º-E, com a seguinte redação:\n\n«Artigo 3.º-A\n\nBaldios e bens imóveis do domínio público\n\nOs terrenos baldios e os bens imóveis do domínio público são identificados no registo predial mediante a abertura da respetiva descrição.\n\nArtigo 33.º-A\n\nIdentificação de baldios e bens imóveis do domínio público\n\nÀ identificação no registo predial dos terrenos baldios e dos bens imóveis do domínio público são aplicáveis, com as necessárias adaptações, as disposições do presente código.\n\nArtigo 33.º-B\n\nAbertura da descrição\n\n1 - A descrição dos terrenos baldios e dos bens imóveis do domínio público tem por fim a identificação física e, no caso dos terrenos baldios, também a identificação fiscal.\n\n2 - A abertura da descrição depende da existência da representação gráfica georreferenciada ou da configuração geométrica do prédio cadastrado e, no caso dos terrenos baldios, também da inscrição na matriz.\n\n3 - O extrato da descrição deve conter:\n\na) A menção de terreno baldio ou de bem imóvel do domínio público;\n\nb) A menção da existência da representação gráfica georreferenciada ou da configuração geométrica de prédio cadastrado;\n\nc) Os demais elementos constantes das alíneas a) e c) a f) do n.º 1 do artigo 82.º, com as necessárias adaptações.\n\nArtigo 33.º-C\n\nLegitimidade\n\nTêm legitimidade para requerer a abertura da descrição, bem como para efetuar pedidos de alteração ou retificação desta:\n\na) O conselho diretivo do universo de compartes, quanto aos terrenos baldios;\n\nb) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, quanto aos respetivos bens imóveis do domínio público.\n\nArtigo 33.º-D\n\nInutilização da descrição\n\nA descrição deve ser inutilizada sempre que se verifique:\n\na) Uma das causas de extinção da aplicação do regime comunitário, previstas na Lei n.º 75/2017, de 17 de agosto, quanto aos terrenos baldios;\n\nb) A desafetação das utilidades que justificam a sujeição ao regime da dominialidade, no caso dos bens imóveis do domínio público.\n\nArtigo 33.º-E\n\nCertidões\n\nA identificação no registo predial dos terrenos baldios e dos bens imóveis do domínio público prova-se por meio de certidões.»"
+  },
+  "222694683": {
+   "fragment_id": "222694780",
+   "type": 11,
+   "heading": "Artigo 6.º — Aditamento à Lei n.º 78/2017, de 17 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aditamento à Lei n.º 78/2017, de 17 de agosto\n\nSão aditados à Lei n.º 78/2017, de 17 de agosto, os artigos 5.º-A, 5.º-B, 8.º-A e 19.º-A, com a seguinte redação:\n\n«Artigo 5.º-A\n\nBens do domínio público\n\n1 - Os bens do domínio público estão sujeitos a identificação georreferenciada no BUPi, em termos a definir por decreto regulamentar.\n\n2 - Estão ainda sujeitos a identificação georreferenciada os edifícios ou construções incorporados ou assentes em domínio público do Estado, com carácter de permanência, que façam parte do património de uma pessoa singular ou coletiva e que sejam dotados de autonomia económica em relação ao terreno onde se encontrem implantados.\n\n3 - O disposto no número anterior aplica-se independentemente da edificação ou construção reverter subsequentemente, ao abrigo do contrato de concessão ou do respetivo regime legal, para o domínio público ou para o domínio privado do Estado, nos termos dos artigos 4.º e 5.º do Decreto-Lei n.º 477/80, de 15 de outubro.\n\n4 - A identificação georreferenciada das estremas de prédio de domínio privado ou comunitário constante de representação gráfica georreferenciada não pode sobrepor-se a bens do domínio público, nomeadamente águas territoriais e os seus leitos, lagoas e cursos de águas navegáveis e seus leitos, linhas férreas nacionais e estradas da rede rodoviária nacional, regional e municipal, salvo nos casos a que se refere o n.º 2.\n\n5 - Para efeitos dos números anteriores, considera-se promotor o titular da concessão ou licença ao abrigo da qual tenham sido efetuadas as construções.\n\nArtigo 5.º-B\n\nAcerto de estremas e confrontações\n\n1 - Quando o prédio a georreferenciar confronte com outros prédios submetidos no BUPi, prédios cadastrados inscritos na carta cadastral, ou elementos geográficos naturais ou artificiais, o desenho das respetivas estremas deve, sempre que possível, respeitar essas confrontações acertando as mesmas à representação daqueles confinantes, evitando sobreposições ou lacunas na representação geográfica.\n\n2 - Sempre que não seja possível acertar as confrontações com a representação dos confinantes, mantendo-se a sobreposição, o procedimento transita para a fase de conciliação administrativa.\n\n3 - Excetuam-se do disposto no número anterior as situações em que a sobreposição verificada não configura um conflito entre proprietários, resultando de desfasamentos geométricos gerados pelos métodos de medição utilizados para obtenção da RGG.\n\n4 - Na situação referida no número anterior, a identificação e correção das sobreposições é realizada no BUPi por métodos de ajuste automático de acertos de estremas, nos termos e de acordo com os critérios a estabelecer por decreto regulamentar.\n\n5 - Nas situações em que a área sobreposta incida sobre prédio cadastrado, aplica-se nessa área o procedimento de conservação do Regime Jurídico de Cadastro Predial, aprovado pelo Decreto-Lei n.º 72/2023, de 23 de agosto.\n\nArtigo 8.º-A\n\nConferência de documentos\n\n1 - Para efeitos de instrução do procedimento especial de registo e do procedimento especial de justificação, previsto na Lei n.º 65/2019, de 23 de agosto, os técnicos habilitados que forem designados pelas entidades a que se refere o n.º 2 do artigo 6.º podem efetuar a conferência dos documentos depositados no procedimento de representação gráfica georreferenciada com os documentos originais que lhes sejam apresentados.\n\n2 - Deve ser junto ao processo de representação gráfica georreferenciada a declaração de conformidade com o original, a identificação do documento original, a menção dos selos que constem do documento, a menção de que se encontra assinado, a data da conferência dos documentos, a identificação do técnico habilitado, bem como a entidade pública para a qual exerce funções.\n\n3 - Os documentos conferidos nos termos dos números anteriores têm o valor probatório dos originais para efeitos de instrução do procedimento especial de registo e do procedimento especial de justificação.\n\nArtigo 19.º-A\n\nRepresentação gráfica georreferenciada que abrange vários prédios\n\n1 - Pode ser elaborada uma representação gráfica georreferenciada que abranja várias descrições prediais ou vários artigos matriciais que correspondam a prédios distintos, quando o interessado pretenda proceder à anexação dos prédios assim georreferenciados.\n\n2 - A representação gráfica georreferenciada a que se refere o número anterior é aceite para a realização de todos os registos e procedimentos necessários à concretização do registo de anexação dos prédios.\n\n3 - A anotação prevista no artigo 18.º é efetuada no prédio resultante da anexação.»"
+  },
+  "222694684": {
+   "fragment_id": "222694781",
+   "type": 11,
+   "heading": "Artigo 7.º — Aditamento à Lei n.º 65/2019, de 23 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aditamento à Lei n.º 65/2019, de 23 de agosto\n\nSão aditados à Lei n.º 65/2019, de 23 de agosto, os artigos 6.º-A, 7.º-A a 7.º-E e 16.º-A, com a seguinte redação:\n\n«Artigo 6.º-A\n\nPlataforma de serviços geográficos Balcão Único do Prédio\n\n1 - O BUPi integra uma plataforma de serviços geográficos de alta disponibilidade que se enquadra como uma Infraestrutura de Dados Espaciais (IDE) e tem como objetivo fornecer conteúdos ao visualizador BUPi e a entidades parceiras, assegurando os necessários atributos de segurança, escalabilidade e resiliência.\n\n2 - Os conjuntos de dados geográficos disponibilizados na plataforma de serviços geográficos BUPi que configurem cartografia ou informação geográfica oficial ou homologada cumprem as obrigações de inscrição no Registo Nacional de Dados Geográficos do Sistema Nacional de Informação Geográfica (SNIG), nos termos do Decreto-Lei n.º 193/95, de 28 de julho, e do Decreto-Lei n.º 180/2009, de 7 de agosto, ambos na sua redação atual.\n\nArtigo 7.º-A\n\nConciliação administrativa\n\n1 - O procedimento da conciliação administrativa é um mecanismo de conciliação que se destina a possibilitar aos interessados alcançarem um acordo relativamente ao limite das estremas de prédios confinantes resultante de procedimentos de RGG, corrigindo os polígonos sobrepostos.\n\n2 - O recurso à conciliação administrativa não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo nem à instauração do procedimento especial de registo ou de justificação, ou à sua conclusão, caso este se encontre pendente.\n\n3 - Podem ser conciliadores, no âmbito do procedimento de conciliação administrativa:\n\na) Os técnicos habilitados que sejam trabalhadores dos municípios ou lhes prestem serviços e se encontrem inscritos no BUPI para prestarem apoio ao cidadão, designados por despacho do Presidente da Câmara Municipal;\n\nb) Os técnicos de cadastro predial a que se referem as alíneas a) a c) do n.º 2 do artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, e que estejam inscritos na lista oficial de técnicos de cadastro predial.\n\n4 - O conciliador assegura, ao longo de todo o procedimento, o respeito pelos princípios da celeridade, independência, imparcialidade, legalidade e transparência.\n\n5 - O conciliador não pode intervir no procedimento caso se encontre em alguma das situações previstas nas alíneas a) a e) do n.º 1 do artigo 69.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, sob pena de nulidade.\n\n6 - O conciliador fica sujeito a segredo profissional relativamente aos factos de que tenha conhecimento no exercício das suas funções e por causa delas.\n\n7 - O dever de segredo não cessa com o termo das funções ou da prestação de serviços.\n\n8 - Em tudo o que seja omisso aplica-se subsidiariamente ao procedimento de conciliação administrativa o Código do Procedimento Administrativo.\n\nArtigo 7.º-B\n\nRGG validada com reserva\n\n1 - A RGG é validada com reserva de geometria sempre que:\n\na) O interessado declare que não conhece ou que não é possível determinar algum dos limites do prédio;\n\nb) Exista sobreposição de polígonos;\n\nc) Não esteja identificada a totalidade dos polígonos dos prédios confinantes sem conflito de estremas comuns.\n\n2 - A reserva quanto à geometria do prédio na RGG pode ser resolvida das seguintes formas:\n\na) Com recurso ao procedimento de conciliação administrativa, nos casos em que exista conflito de estremas com prédios confinantes;\n\nb) Com recurso ao procedimento de consulta pública, nos casos em que não se encontrem ainda identificadas todas as estremas dos prédios confinantes.\n\n3 - A RGG validada com reserva de geometria não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo, nem à instauração do procedimento especial de registo ou de justificação.\n\n4 - Uma vez validada por todos os proprietários dos prédios confinantes nos termos do artigo 7.º, a RGG é convertida em CGP, passando a integrar a carta cadastral por referência ao NIP.\n\nArtigo 7.º-C\n\nProcedimento de consulta pública\n\n1 - Para efeitos da alínea b) do n.º 2 do artigo anterior, é realizado um procedimento de consulta pública com periodicidade anual.\n\n2 - Compete ao Centro de Coordenação Técnica promover a publicitação da consulta pública, com indicação de todos os elementos disponíveis relativos aos prédios em causa, relevantes para a sua identificação por parte dos interessados, mediante anúncio de acesso livre a publicitar no seu sítio na Internet, durante 60 dias, e ainda através:\n\na) Do município e da freguesia onde se localizem os prédios, nomeadamente por divulgação do anúncio em sítio oficial da autarquia na Internet e por afixação de editais nas respetivas sedes;\n\nb) Do envio da informação ao Ministério dos Negócios Estrangeiros, para que este assegure a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular.\n\n3 - As reclamações que forem apresentadas durante a consulta pública são apreciadas por uma comissão administrativa, que integra um representante da AT, do IRN, I. P., e da DGT, sendo o representante do IRN, I. P., um conservador de registos designado por deliberação do respetivo conselho diretivo, exercendo a função de presidente.\n\n4 - Os prédios confinantes que não forem identificados no âmbito do procedimento de consulta pública ficam sujeitos ao procedimento de identificação e reconhecimento de prédio rústico ou misto sem dono conhecido, aprovado pelo Decreto-Lei n.º 15/2019, de 21 de janeiro, na sua redação atual.\n\n5 - Inicia-se o procedimento de reconhecimento de prédio sem dono conhecido previsto no Decreto-Lei n.º 15/2019, de 21 de janeiro, se:\n\na) Os prédios confinantes não forem identificados no âmbito do procedimento de consulta pública e não estiverem descritos no registo predial;\n\nb) Os prédios estiverem inscritos na matriz; e\n\nc) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de Coordenação Técnica, para no prazo de 90 dias promover o procedimento especial de RGG e de registo ou declarar a quem pertence o prédio sem que o tenham efetuado.\n\n6 - Se o notificado declarar que não é o proprietário do prédio, mas indicar a quem o mesmo pertence, notifica-se a pessoa identificada, para os efeitos do número anterior.\n\nArtigo 7.º-D\n\nProcedimento de inscrição de prédio rústico omisso na matriz\n\n1 - O procedimento de inscrição de prédio rústico omisso na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de qualquer regime de cadastro predial em vigor.\n\n2 - Em cumprimento do princípio da colaboração previsto no artigo 59.º da lei geral tributária (LGT) e no n.º 2 do artigo 48.º do Código do Procedimento e de Processo Tributário (CPPT), para inscrição de prédio rústico omisso na matriz predial, o interessado deve fazer a entrega de:\n\na) RGG, pendente de finalização, elaborada por técnico habilitado;\n\nb) Declaração de participação de inscrição de prédio rústico omisso.\n\n3 - Quando a RGG não se encontre validada nos termos previstos no n.º 1 do artigo 7.º, é necessário apresentar declaração de aceitação dos limites do prédio efetuada por, pelo menos, um confinante, devidamente identificado com o NIF e a indicação do artigo matricial do seu prédio.\n\n4 - Após a entrega da declaração para inscrição de prédio rústico omisso, acompanhada dos elementos instrutórios, há lugar à inscrição matricial do prédio, com a atribuição do correspondente artigo matricial, ainda que condicionada à fixação do valor patrimonial tributário, nos termos do Código do Imposto Municipal sobre Imóveis, aplicando-se para o efeito o previsto no n.º 4 do artigo 14.º\n\n5 - Após a inscrição matricial do prédio rústico, o promotor deve concluir o procedimento de RGG, retomando o processo que está pendente de finalização no BUPi, com associação do artigo matricial que tenha sido atribuído ao prédio em causa.\n\nArtigo 7.º-E\n\nProcedimento de alteração de área de prédio rústico inscrito na matriz\n\n1 - O procedimento de alteração de área de prédio rústico inscrito na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de CGPR ou cadastro predial em vigor.\n\n2 - Enquanto a RGG não produzir os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, transitoriamente, subsistem simultaneamente na matriz predial rústica a área relevante para efeitos de liquidação de impostos sobre o respetivo prédio, com recurso à informação previamente existente na matriz, e a área resultante da RGG, que não tem quaisquer efeitos de liquidação de imposto sobre o respetivo prédio.\n\n3 - Para os efeitos previstos no número anterior, as RGG elaboradas são comunicadas pelo BUPi à AT, informando-se, simultaneamente o IRN, I. P., da realização daquela comunicação que, assim, equivale ao pedido de alteração ou retificação de área na matriz a que se refere o n.º 1 do artigo 31.º do Código do Registo Predial, sempre que o interessado pretenda que a descrição predial seja aberta ou atualizada com a área constante da RGG, nos termos previstos no artigo 16.º da Lei n.º 78/2017, de 17 de agosto.\n\nArtigo 16.º-A\n\nIndicador 'área conhecida'\n\n1 - Para efeitos de monitorização e avaliação de resultados em matéria de informação de caracterização e identificação dos prédios rústicos e mistos e dos seus titulares e de caracterização do território nacional é utilizado o indicador 'área conhecida'.\n\n2 - Considera-se 'área conhecida', no território continental, o somatório das áreas dos 153 municípios do território continental que não dispõem de CGPR ou cadastro predial em vigor, indicados no anexo i à presente lei, e no território das regiões autónomas, o somatório das áreas dos municípios das Regiões Autónomas que não dispõem de CGPR ou cadastro predial em vigor, indicados no anexo ii à presente lei, que se encontrem delimitadas e sem sobreposições e que estejam devidamente identificadas e caracterizadas de acordo com grupos de informação temáticos relativos à sua dominialidade, ocupação do solo, gestão e uso da propriedade, com base na compilação de dados geográficos produzidos por várias entidades públicas e dos procedimentos de RGG.\n\n3 - A 'área conhecida' é calculada em percentagem e em hectares.»"
+  },
+  "222694685": {
+   "fragment_id": "222694782",
+   "type": 11,
+   "heading": "Artigo 8.º — Aditamento dos anexos i e ii à Lei n.º 65/2019, de 23 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aditamento dos anexos i e ii à Lei n.º 65/2019, de 23 de agosto\n\nSão aditados os anexos i e ii à Lei n.º 65/2019, de 23 de agosto, com a redação constante do anexo i ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "222694686": {
+   "fragment_id": "222694783",
+   "type": 11,
+   "heading": "Artigo 9.º — Alterações sistemáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alterações sistemáticas\n\n1 - A secção ii do capítulo ii da Lei n.º 78/2017, de 17 de agosto, passa a denominar-se «Procedimento especial de registo de prédio rústico e misto».\n\n2 - O capítulo i da Lei n.º 65/2019, de 23 de agosto, passa a integrar os artigos a 1.º a 7.º-E.\n\n3 - A secção i do capítulo ii da Lei n.º 65/2019, de 23 de agosto, passa a denominar-se «Procedimento especial de registo de prédio rústico e misto».\n\n4 - A secção ii do capítulo ii da Lei n.º 65/2019, de 23 de agosto, passa a denominar-se «Procedimento especial de justificação de prédio rústico e misto».\n\n5 - É aditado ao título ii do Código do Registo Predial, o capítulo iv, denominado «Baldios e bens imóveis do domínio público», que integra os artigos 33.º-A a 33.º-E."
+  },
+  "222694687": {
+   "fragment_id": "222694784",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogados:\n\na) A alínea c) do n.º 2 do artigo 1.º, a alínea d) do n.º 2 do artigo 6.º, o n.º 2 do artigo 7.º, a alínea a) do n.º 2 do artigo 8.º, o n.º 3 do artigo 16.º, o artigo 21.º, o artigo 24.º, a alínea c) do n.º 1 e o n.º 2 do artigo 25.º, os artigos 28.º e 29.º e os artigos 31.º e 32.º da Lei n.º 78/2017, de 17 de agosto;\n\nb) A alínea c) do n.º 1 do artigo 2.º, o artigo 3.º, o n.º 1 do artigo 8.º e o n.º 1 do artigo 9.º da Lei n.º 65/2019, de 23 de agosto."
+  },
+  "222694688": {
+   "fragment_id": "222694785",
+   "type": 11,
+   "heading": "Artigo 11.º — Gratuitidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gratuitidade\n\nA gratuidade prevista no artigo 14.º da Lei n.º 65/2019, de 23 de agosto, na redação original, mantém-se durante o período compreendido entre 25 de agosto de 2023 e a data de entrada em vigor do presente decreto-lei."
+  },
+  "222694689": {
+   "fragment_id": "222694786",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação aos procedimentos em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicação aos procedimentos em curso\n\nAs alterações introduzidas pelo presente decreto-lei, aplicam-se aos procedimentos especiais de justificação de prédio rústico e misto omisso que se encontrem em vigor do presente decreto-lei."
+  },
+  "222694690": {
+   "fragment_id": "222694787",
+   "type": 11,
+   "heading": "Artigo 13.º — Terrenos baldios e bens imóveis do domínio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Terrenos baldios e bens imóveis do domínio público\n\nAs entidades referidas nas alíneas d) e e) do n.º 3 do artigo 8.º-B do Código do Registo Predial, na redação dada pelo presente decreto-lei, promovem o registo dos terrenos baldios e dos bens imóveis do domínio público existentes à data da entrada em vigor do presente decreto-lei prazo de um ano."
+  },
+  "222694691": {
+   "fragment_id": "222694788",
+   "type": 11,
+   "heading": "Artigo 14.º — Disponibilização no Balcão Único do Prédio dos elementos cadastrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disponibilização no Balcão Único do Prédio dos elementos cadastrais\n\nA Direção-Geral do Território disponibiliza no BUPi a informação sobre os elementos cadastrais existentes, procedendo para o efeito à respetiva informatização e vectorização, até ao primeiro dia útil do mês seguinte ao da publicação do presente decreto-lei."
+  },
+  "222694692": {
+   "fragment_id": "222694789",
+   "type": 11,
+   "heading": "Artigo 15.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Republicação\n\n1 - É republicada no anexo ii ao presente decreto-lei e do qual faz parte integrante a Lei n.º 78/2017, de 17 de agosto, com a redação introduzida pelo presente decreto-lei.\n\n2 - É republicada no anexo iii ao presente decreto-lei e do qual faz parte integrante a Lei n.º 65/2019, de 23 de agosto, com a redação introduzida pelo presente decreto-lei.\n\n3 - Para efeitos das republicações referidas nos números anteriores, onde se lê «sistema de informação cadastral simplificada» deve ler-se «sistema de informação cadastral simplificado»."
+  },
+  "1086134175": {
+   "fragment_id": "222694790",
+   "type": 11,
+   "heading": "Artigo 16.º — Vigência",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16."
+   ],
+   "markdown": "###### Artigo 16.º — Vigência\n\nO artigo 14.º da Lei n.º 65/2019, de 23 de agosto, vigora até 31 de dezembro de 2025.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16."
+  },
+  "222694694": {
+   "fragment_id": "222694791",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação."
+  },
+  "222694695": {
+   "fragment_id": "222694792",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de agosto de 2023. - António Luís Santos da Costa - André Moz Caldas - Catarina Teresa Rola Sarmento e Castro - Sofia Alves de Aguiar Batalha - Hugo Alexandre Polido Pires - Isabel Cristina Fernandes Rodrigues Ferreira - Gonçalo Pereira Fernandes Caleia Rodrigues.\n\nPromulgado em 25 de setembro de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de setembro de 2023.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "222694876": {
+   "fragment_id": "222694975",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 8.º)\n\n«ANEXO I\n\nListagem dos 153 municípios do território continental que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor\n\n(a que se refere o n.º 4 do artigo 1.º e o n.º 2 do artigo 16.º-A)\n\nConcelhos\n\nÁgueda.\n\nAguiar da Beira.\n\nAlbergaria-a-Velha.\n\nAlcobaça.\n\nAlfândega da Fé.\n\nAlijó.\n\nAlmeida.\n\nAlvaiázere.\n\nAmarante.\n\nAmares.\n\nAnadia.\n\nAnsião.\n\nArcos de Valdevez.\n\nArganil.\n\nArmamar.\n\nArouca.\n\nAveiro.\n\nBaião.\n\nBarcelos.\n\nBatalha.\n\nBelmonte.\n\nBoticas.\n\nBraga.\n\nBragança.\n\nCabeceiras de Basto.\n\nCaldas da Rainha.\n\nCaminha.\n\nCantanhede.\n\nCarrazeda de Ansiães.\n\nCarregal do Sal.\n\nCastanheira de Pera.\n\nCastro Daire.\n\nCelorico da Beira.\n\nCelorico de Basto.\n\nCinfães.\n\nCoimbra.\n\nCondeixa-a-Nova.\n\nCovilhã.\n\nEspinho.\n\nEsposende.\n\nEstarreja.\n\nFafe.\n\nFelgueiras.\n\nFigueira da Foz.\n\nFigueira de Castelo Rodrigo.\n\nFigueiró dos Vinhos.\n\nFornos de Algodres.\n\nFreixo de Espada à Cinta.\n\nFundão.\n\nGóis.\n\nGondomar.\n\nGouveia.\n\nGuarda.\n\nGuimarães.\n\nÍlhavo.\n\nLeiria.\n\nLousã.\n\nLousada.\n\nMacedo de Cavaleiros.\n\nMangualde.\n\nManteigas.\n\nMarco de Canaveses.\n\nMarinha Grande.\n\nMealhada.\n\nMêda.\n\nMelgaço.\n\nMira.\n\nMiranda do Corvo.\n\nMiranda do Douro.\n\nMirandela.\n\nMoimenta da Beira.\n\nMonção.\n\nMondim de Basto.\n\nMontalegre.\n\nMontemor-o-Velho.\n\nMortágua.\n\nMurça.\n\nMurtosa.\n\nNelas.\n\nOleiros.\n\nOliveira de Azeméis.\n\nOliveira de Frades.\n\nOliveira do Bairro.\n\nOurém.\n\nOvar.\n\nPaços de Ferreira.\n\nPampilhosa da Serra.\n\nParedes de Coura.\n\nPedrógão Grande.\n\nPenacova.\n\nPenalva do Castelo.\n\nPenedono.\n\nPenela.\n\nPinhel.\n\nPombal.\n\nPonte da Barca.\n\nPonte de Lima.\n\nPóvoa de Lanhoso.\n\nPóvoa de Varzim.\n\nProença-a-Nova.\n\nRibeira de Pena.\n\nSabrosa.\n\nSabugal.\n\nSanta Comba Dão.\n\nSanta Maria da Feira.\n\nSanto Tirso.\n\nSão João da Pesqueira.\n\nSão Pedro do Sul.\n\nSátão.\n\nSernancelhe.\n\nSertã.\n\nSever do Vouga.\n\nSoure.\n\nTábua.\n\nTarouca.\n\nTerras de Bouro.\n\nTondela.\n\nTorre de Moncorvo.\n\nTrancoso.\n\nVagos.\n\nVale de Cambra.\n\nValença.\n\nValongo.\n\nValpaços.\n\nViana do Castelo.\n\nVieira do Minho.\n\nVila de Rei.\n\nVila do Conde.\n\nVila Flor.\n\nVila Nova de Cerveira.\n\nVila Nova de Famalicão.\n\nVila Nova de Foz Côa.\n\nVila Nova de Gaia.\n\nVila Nova de Paiva.\n\nVila Nova de Poiares.\n\nVila Pouca de Aguiar.\n\nVila Real.\n\nVila Verde.\n\nVimioso.\n\nVinhais.\n\nViseu.\n\nVizela.\n\nVouzela.\n\nCastelo de Paiva.\n\nChaves.\n\nLisboa.\n\nMaia.\n\nMatosinhos.\n\nPorto.\n\nResende.\n\nSão João da Madeira.\n\nTabuaço.\n\nTrofa.\n\nANEXO II\n\nListagem dos 19 municípios das Regiões Autónomas dos Açores e da Madeira que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor\n\n(a que se refere o n.º 4 do artigo 1.º e o n.º 2 do artigo 16.º-A)\n\nConcelhos\n\nAngra do Heroísmo.\n\nCalheta.\n\nCalheta.\n\nCorvo.\n\nHorta.\n\nLajes das Flores.\n\nLajes do Pico.\n\nMadalena.\n\nNordeste.\n\nPonta do Sol.\n\nPorto Moniz.\n\nPovoação.\n\nPraia da Vitória.\n\nRibeira Brava.\n\nSanta Cruz da Graciosa.\n\nSanta Cruz das Flores.\n\nSão Roque do Pico.\n\nSão Vicente.\n\nVila do Porto.»"
+  },
+  "222694877": {
+   "fragment_id": "222694976",
+   "type": 14,
+   "heading": "Anexo II — Republicação da Lei n.º 78/2017, de 17 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Republicação da Lei n.º 78/2017, de 17 de agosto\n\n(a que se refere o n.º 1 do artigo 15.º)"
+  },
+  "222694697": {
+   "fragment_id": "222694794",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "222694698": {
+   "fragment_id": "222694795",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei cria:\n\na) Um sistema de informação cadastral simplificado, adotando medidas para a imediata identificação da estrutura fundiária e da titularidade dos prédios rústicos e mistos;\n\nb) O Balcão Único do Prédio (BUPi).\n\n2 - Para efeitos da alínea a) do número anterior, são criados:\n\na) O procedimento de representação gráfica georreferenciada;\n\nb) O procedimento especial de registo de prédio rústico e misto;\n\nc) (Revogada.)"
+  },
+  "222694699": {
+   "fragment_id": "222694796",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente lei aplica-se:\n\na) Para efeitos da alínea a) do n.º 1 do artigo anterior, aos prédios rústicos e mistos;\n\nb) Para efeitos da alínea b) do n.º 1 do artigo anterior, aos prédios urbanos, rústicos e mistos."
+  },
+  "222694700": {
+   "fragment_id": "222694797",
+   "type": 11,
+   "heading": "Artigo 3.º — Número de identificação de prédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Número de identificação de prédio\n\n1 - O prédio tem um identificador único, designado por número de identificação de prédio (NIP).\n\n2 - A articulação do NIP com o sistema de identificação do prédio usado para efeitos cadastrais, registais e matriciais é definida por decreto regulamentar."
+  },
+  "222694701": {
+   "fragment_id": "222694798",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Entidades públicas», os serviços e organismos da Administração Pública, as autarquias locais e outras pessoas coletivas públicas que não sejam qualificadas como entidades privadas e exerçam poderes de autoridade;\n\nb) «Interessados», todos aqueles que figurem como detentores de posições ativas no registo predial, que tenham legitimidade para solicitar atos de registo ou que sejam o sujeito passivo inscrito nas matrizes prediais;\n\nc) «Promotores», os interessados ou a entidade pública responsável pela promoção do procedimento de representação gráfica georreferenciada."
+  },
+  "222694702": {
+   "fragment_id": "222694799",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de informação cadastral simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de informação cadastral simplificado"
+  },
+  "222694703": {
+   "fragment_id": "222694800",
+   "type": 8,
+   "heading": "Secção I — Procedimento de representação gráfica georreferenciada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento de representação gráfica georreferenciada"
+  },
+  "222694704": {
+   "fragment_id": "222694801",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação gráfica georreferenciada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação gráfica georreferenciada\n\n1 - A representação gráfica georreferenciada constitui a configuração geométrica dos prédios constantes da base cartográfica acessível através do BUPi, sendo efetuada através de delimitação do prédio, mediante representação cartográfica das estremas do prédio, unidas através de uma linha poligonal fechada, obtida por processos diretos de medição, nomeadamente com recurso a sistemas de posicionamento global, ou de forma indireta, designadamente, através de recurso à fotointerpretação sobre os ortofotomapas disponíveis no BUPi.\n\n2 - A informação resultante da representação gráfica georreferenciada do prédio rústico ou misto que seja validada nos termos da presente lei, no que se refere à área e à localização geográfica do mesmo, releva para efeitos de natureza cadastral, registal e matricial, sem prejuízo do n.º 5.\n\n3 - A informação resultante da representação gráfica georreferenciada do prédio rústico ou misto que seja validada por todos os proprietários dos prédios confinantes assume a natureza de cadastro predial para todos os efeitos legais a partir da sua comunicação, por interoperabilidade de dados, à Direção-Geral do Território (DGT) para efeitos de integração da informação geométrica dos prédios, na carta cadastral, com referência ao NIP.\n\n4 - Em caso de litígio emergente de sobreposição de polígonos, a representação gráfica georreferenciada dos prédios em causa é apresentada no BUPi pelos respetivos polígonos com evidência das estremas em sobreposição, sendo o prédio identificado pelo centroide até à resolução do conflito.\n\n5 - Nos casos em que exista a sobreposição de polígonos, a informação constante do BUPi não pode ser usada como meio de prova, nem para invocação de aquisição de direitos por usucapião sobre os prédios.\n\n6 - Para efeitos tributários, a informação resultante da representação gráfica georreferenciada do prédio produz os efeitos previstos nos n.os 4 e 5 do artigo 14.º da Lei n.º 65/2019, de 23 de agosto.\n\n7 - A informação que nos termos do n.º 3 integre a carta cadastral deve obedecer às normas e procedimentos previstos no Regime Jurídico de Cadastro Predial, aprovado pelo Decreto-Lei n.º 72/2023, de 23 de agosto."
+  },
+  "222694705": {
+   "fragment_id": "222694802",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Bens do domínio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — Bens do domínio público\n\n1 - Os bens do domínio público estão sujeitos a identificação georreferenciada no BUPi, em termos a definir por decreto regulamentar.\n\n2 - Estão ainda sujeitos a identificação georreferenciada os edifícios ou construções incorporados ou assentes em domínio público do Estado, com carácter de permanência, que façam parte do património de uma pessoa singular ou coletiva e que sejam dotados de autonomia económica em relação ao terreno onde se encontrem implantados.\n\n3 - O disposto no número anterior aplica-se independentemente da edificação ou construção reverter subsequentemente, ao abrigo do contrato de concessão ou do respetivo regime legal, para o domínio privado ou para o domínio público do Estado, nos termos dos artigos 4.º e 5.º do Decreto-Lei n.º 477/80, de 15 de outubro.\n\n4 - A identificação georreferenciada das estremas de prédio de domínio privado ou comunitário constante de representação gráfica georreferenciada não pode sobrepor-se a bens do domínio público, nomeadamente águas territoriais e os seus leitos, lagoas e cursos de águas navegáveis e seus leitos, linhas férreas nacionais e estradas da rede rodoviária nacional, regional e municipal, salvo nos casos a que se refere o n.º 2.\n\n5 - Para efeitos dos números anteriores, considera-se promotor o titular da concessão ou licença ao abrigo da qual tenham sido efetuadas as construções."
+  },
+  "222694706": {
+   "fragment_id": "222694803",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Acerto de estremas e confrontações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-B — Acerto de estremas e confrontações\n\n1 - Quando o prédio a georreferenciar confronte com outros prédios submetidos no BUPi, prédios cadastrados inscritos na carta cadastral, ou elementos geográficos naturais ou artificiais, o desenho das respetivas estremas deve, sempre que possível, respeitar essas confrontações acertando as mesmas à representação daqueles confinantes, evitando sobreposições ou lacunas na representação geográfica.\n\n2 - Sempre que não seja possível acertar as confrontações com a representação dos confinantes, mantendo-se a sobreposição, o procedimento transita para a fase de conciliação administrativa.\n\n3 - Excetuam-se do disposto no número anterior as situações em que a sobreposição verificada não configura um conflito entre proprietários, resultando de desfasamentos geométricos gerados pelos métodos de medição utilizados para obtenção da RGG.\n\n4 - Na situação referida no número anterior, a identificação e correção das sobreposições é realizada no BUPi por métodos de ajuste automático de acertos de estremas, nos termos e de acordo com os critérios a estabelecer por decreto regulamentar.\n\n5 - Nas situações em que a área sobreposta incida sobre prédio cadastrado, aplica-se nessa área o procedimento de conservação do Regime Jurídico de Cadastro Predial, aprovado pelo Decreto-Lei n.º 72/2023, de 23 de agosto."
+  },
+  "222694707": {
+   "fragment_id": "222694804",
+   "type": 11,
+   "heading": "Artigo 6.º — Legitimidade e competência para a promoção do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Legitimidade e competência para a promoção do procedimento\n\n1 - As operações de representação gráfica georreferenciada de prédios podem ser promovidas por iniciativa dos interessados ou por entidade pública competente, desde que realizadas por técnico habilitado para o efeito.\n\n2 - As operações de representação gráfica georreferenciada promovidas por iniciativa de entidades públicas, nos termos do número anterior, são da competência:\n\na) Do município ou freguesia territorialmente competente;\n\nb) Da DGT;\n\nc) Das entidades públicas com competência de natureza territorial que promovam operações fundiárias ou exerçam competências na área do ordenamento do território;\n\nd) (Revogada.)\n\ne) Do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.);\n\nf) Do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ng) Da Agência Portuguesa do Ambiente, I. P.;\n\nh) Da Direção-Geral da Agricultura e do Desenvolvimento Rural (DGADR);\n\ni) Das Infraestruturas de Portugal, S. A.;\n\nj) Das Comissões de Coordenação de Desenvolvimento Regional, (CCDR);\n\nk) Da ESTAMO, Participações Imobiliárias, S. A.;\n\nl) Da Autoridade Nacional de Emergência e Proteção Civil;\n\nm) Da Agência para a Gestão Integrada de Fogos Rurais, I. P.;\n\nn) Da Guarda Nacional Republicana;\n\no) Do Instituto de Gestão Financeira da Segurança Social, I. P.;\n\np) Nas Regiões Autónomas dos Açores e da Madeira, das entidades das respetivas administrações regionais com atribuições e competências em matéria de cadastro predial.\n\n3 - As competências próprias dos municípios referidas na alínea a) do número anterior podem ser executadas em conjunto através das respetivas entidades intermunicipais.\n\n4 - Os promotores previstos no n.º 1, aquando da submissão da representação gráfica georreferenciada no BUPi, assumem responsabilidade pela informação prestada, nos termos a estabelecer por decreto regulamentar.\n\n5 - Nas áreas sob gestão de entidades com competências para a gestão territorial agrupada, designadamente as entidades de gestão florestal, as entidades gestoras nas áreas delimitadas como zonas de intervenção florestal, as organizações de agricultores e produtores florestais, respetivas associações e as entidades promotoras e gestoras de áreas integradas de gestão da paisagem (AIGP), as operações de representação gráfica georreferenciada de prédios podem ser promovidas e realizadas por estas entidades e, no âmbito dos procedimentos de expropriação por utilidade pública, pelas entidades expropriantes.\n\n6 - Nas operações de representação gráfica georreferenciada promovidas pelas autarquias compete-lhes definir as áreas prioritárias de intervenção.\n\n7 - Nos procedimentos tributários de inscrição, atualização ou correção das matrizes prediais, a atuação da Autoridade Tributária e Aduaneira (AT) depende da prévia realização da representação gráfica georreferenciada pelos interessados ou pelos promotores."
+  },
+  "222694708": {
+   "fragment_id": "222694805",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimentos\n\n1 - O procedimento administrativo da representação gráfica georreferenciada a realizar no BUPi, bem como as especificações técnicas a observar na elaboração da representação gráfica georreferenciada e a respetiva estrutura de atributos, são estabelecidos por decreto regulamentar.\n\n2 - (Revogado.)\n\n3 - O suporte cartográfico a utilizar para efeitos de carregamento da representação gráfica georreferenciada dos prédios é disponibilizado no BUPi."
+  },
+  "222694709": {
+   "fragment_id": "222694806",
+   "type": 11,
+   "heading": "Artigo 8.º — Habilitação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Habilitação técnica\n\n1 - As entidades públicas recorrem preferencialmente aos seus recursos próprios para a elaboração da representação gráfica georreferenciada e apresentação no BUPi.\n\n2 - Os interessados e as entidades públicas recorrem a entidades e técnicos:\n\na) (Revogada.)\n\nb) Habilitados nos termos das alíneas a) a c) do n.º 2 do artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, e diplomas complementares;\n\nc) Com cursos tecnológicos de nível secundário de educação, regulados pela Portaria n.º 550-A/2004, de 21 de maio, alterada pelas Portarias n.os 260/2006, de 14 de março, e 207/2008, de 25 de fevereiro, ou habilitação superior nas áreas da arquitetura, das ciências geográficas, das ciências jurídicas, da engenharia, do planeamento territorial e da topografia.\n\n3 - As entidades públicas podem ainda recorrer a quaisquer pessoas habilitadas à realização de avaliações prediais no âmbito de procedimentos administrativos legalmente previstos.\n\n4 - O técnico é responsável por todos os atos que pratique no exercício das suas funções, incluindo os dos seus colaboradores, estando obrigado à subscrição de termo de responsabilidade pela correta elaboração da representação gráfica georreferenciada, obedecendo às especificações a definir por decreto regulamentar.\n\n5 - A lista de entidades e de técnicos habilitados é objeto de divulgação no BUPi e publicada nos sítios eletrónicos das entidades públicas com atribuições nesta área.\n\n6 - Os técnicos habilitados devem assegurar, ao longo de todos os procedimentos em que intervêm, o respeito pelos princípios da celeridade, independência, imparcialidade, legalidade e transparência."
+  },
+  "222694710": {
+   "fragment_id": "222694807",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Conferência de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Conferência de documentos\n\n1 - Para efeitos de instrução do procedimento especial de registo e do procedimento especial de justificação, previsto na Lei n.º 65/2019, de 23 de agosto, os técnicos habilitados que forem designados pelas entidades a que se refere o n.º 2 do artigo 6.º podem efetuar a conferência dos documentos depositados no procedimento de representação gráfica georreferenciada com os documentos originais que lhes sejam apresentados.\n\n2 - Deve ser junto ao processo de representação gráfica georreferenciada a declaração de conformidade com o original, a identificação do documento original, a menção dos selos que constem do documento, a menção de que se encontra assinado, a data da conferência dos documentos, a identificação do técnico habilitado, bem como a entidade pública para a qual exerce funções.\n\n3 - Os documentos conferidos nos termos dos números anteriores têm o valor probatório dos originais para efeitos de instrução do procedimento especial de registo e do procedimento especial de justificação."
+  },
+  "222694711": {
+   "fragment_id": "222694808",
+   "type": 11,
+   "heading": "Artigo 9.º — Promoção oficiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Promoção oficiosa\n\n1 - As entidades públicas referidas no n.º 2 do artigo 6.º promovem oficiosamente a representação gráfica georreferenciada dos prédios rústicos ou mistos sempre que, no âmbito do exercício das suas competências, tramitem um procedimento que implique a delimitação ou alteração da delimitação das parcelas de terreno nos seus sistemas.\n\n2 - O disposto no número anterior não prejudica os demais casos de promoção oficiosa previstos na presente lei, nem a promoção por parte dos próprios particulares.\n\n3 - Os termos da efetivação da promoção prevista nos números anteriores são definidos por decreto regulamentar."
+  },
+  "222694712": {
+   "fragment_id": "222694809",
+   "type": 11,
+   "heading": "Artigo 10.º — Dispensa de apresentação por técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dispensa de apresentação por técnico\n\nNos casos em que os interessados disponham de documento ou registo da delimitação do prédio feito junto de qualquer entidade pública, a representação gráfica georreferenciada do prédio é promovida mediante solicitação do interessado a qualquer das entidades referidas no n.º 2 do artigo 6.º, ou à entidade pública em causa, se diferente destas, em termos a definir por decreto regulamentar, sendo neste caso dispensado o recurso a técnico habilitado."
+  },
+  "222694713": {
+   "fragment_id": "222694810",
+   "type": 11,
+   "heading": "Artigo 11.º — Cadastro geométrico da propriedade rústica e predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cadastro geométrico da propriedade rústica e predial\n\nNas áreas submetidas a cadastro geométrico da propriedade rústica ou a cadastro predial em vigor compete à DGT proceder à informatização dos elementos cadastrais existentes e assegurar a disponibilização desses dados no BUPi."
+  },
+  "222694714": {
+   "fragment_id": "222694811",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazos e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazos e notificações\n\nÀ contagem dos prazos e às notificações no âmbito do procedimento especial de representação gráfica georreferenciada são aplicáveis as regras do Código do Procedimento Administrativo."
+  },
+  "222694715": {
+   "fragment_id": "222694812",
+   "type": 8,
+   "heading": "Secção II — Procedimento especial de registo de prédio rústico e misto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento especial de registo de prédio rústico e misto"
+  },
+  "222694716": {
+   "fragment_id": "222694813",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência\n\nO procedimento especial de registo de prédio rústico e misto cabe aos serviços de registo com competência para a prática de atos de registo predial que forem designados por deliberação do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)."
+  },
+  "222694717": {
+   "fragment_id": "222694814",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimento oficioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento oficioso\n\n1 - Para efeito de instauração do procedimento especial de registo de prédio rústico e misto omisso, a AT comunica ao serviço de registo competente, por intermédio do BUPi, a identificação dos prédios rústicos na matriz e dos seus titulares, através dos nomes, números de identificação fiscal e respetivos domicílios fiscais, bem como informação sobre a pendência de pedido de retificação da matriz.\n\n2 - Na comunicação referida no número anterior são indicados, sempre que forem conhecidos, os anteriores artigos matriciais, bem como os anteriores titulares.\n\n3 - Com base nos elementos fornecidos pela AT e sempre que os prédios não estiverem descritos ou, estando, não tiverem registo em vigor de aquisição, de reconhecimento de direito de propriedade ou de mera posse, o titular da inscrição matricial é notificado, sendo as subsequentes diligências, tramitação e meios de impugnação estabelecidas por decreto regulamentar."
+  },
+  "222694718": {
+   "fragment_id": "222694815",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito subsidiário\n\nÀs notificações, contagem dos prazos e qualificação dos atos de registo a praticar no âmbito do procedimento especial de registo previsto na presente lei são aplicáveis, em tudo o que não estiver especialmente regulado, as disposições do Código do Registo Predial."
+  },
+  "222694719": {
+   "fragment_id": "222694816",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "222694720": {
+   "fragment_id": "222694817",
+   "type": 11,
+   "heading": "Artigo 16.º — Conjugação do registo com a representação gráfica georreferenciada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conjugação do registo com a representação gráfica georreferenciada\n\n1 - A área constante da representação gráfica georreferenciada do prédio é considerada, para efeitos de registo, se o interessado expressamente o declarar.\n\n2 - Tratando-se de prédio não descrito, quando exista divergência entre o título e a representação gráfica georreferenciada quanto à área do prédio dentro das percentagens fixadas no artigo 28.º-A do Código do Registo Predial, a descrição pode ser aberta com a área que consta daquela representação gráfica, não se aplicando, nesse caso, o disposto no n.º 2 do artigo 28.º-B do mesmo diploma.\n\n3 - (Revogado.)\n\n4 - Tratando-se de prédio descrito, quando exista divergência entre a descrição e a representação gráfica georreferenciada quanto à área do prédio, dentro das percentagens fixadas no artigo 28.º-A do Código de Registo Predial, a descrição pode ser atualizada com a área que consta daquela representação gráfica georreferenciada, não se aplicando, nesse caso o disposto no n.º 1 do artigo 28.º-B do mesmo diploma.\n\n5 - Tratando-se de prédio descrito, quando exista divergência de áreas entre a descrição e o título, em percentagens superiores às previstas no artigo 28.º-A do Código de Registo Predial, a representação gráfica georreferenciada substitui a planta prevista na subalínea i) da alínea b) do n.º 2 do artigo 28.º-C do mesmo diploma."
+  },
+  "222694721": {
+   "fragment_id": "222694818",
+   "type": 11,
+   "heading": "Artigo 17.º — Prédios descritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prédios descritos\n\n1 - No caso de prédios com descrição em vigor compete aos serviços de registo obter a representação gráfica georreferenciada do prédio, utilizando para o efeito a informação pública disponível e partilhada nos termos do artigo 27.º\n\n2 - Os serviços de registo tomam as diligências necessárias junto das autarquias e demais entidades públicas na obtenção da informação necessária à representação gráfica georreferenciada.\n\n3 - O titular que consta da descrição predial em vigor tem o dever geral de colaborar com os serviços de registo na obtenção da representação gráfica georreferenciada e na identificação dos proprietários confinantes.\n\n4 - No caso de prédios com descrição de aquisição, de reconhecimento de direito de propriedade ou de mera posse, e em que a informação disponível se revele insuficiente, o titular é convidado a apresentar ou a obter a representação gráfica georreferenciada do prédio, nos termos previstos na presente lei.\n\n5 - Para efeitos do disposto no número anterior, as entidades referidas nos n.os 2 e 7 do artigo 6.º e as demais entidades públicas têm o dever especial de colaboração com o interessado.\n\n6 - O regime previsto nos n.os 4 e 5 não é aplicável aos prédios rústicos e mistos situados nas áreas submetidas a cadastro geométrico da propriedade rústica ou a cadastro predial, referidas no artigo 11.º"
+  },
+  "222694722": {
+   "fragment_id": "222694819",
+   "type": 11,
+   "heading": "Artigo 18.º — Anotação à descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Anotação à descrição\n\n1 - No âmbito de um pedido de registo relativo a prédio rústico e misto compete ao serviço de registo verificar, por consulta ao BUPi, a existência de representação gráfica georreferenciada.\n\n2 - Caso exista representação gráfica georreferenciada a respetiva referência é oficiosamente anotada à descrição predial."
+  },
+  "222694723": {
+   "fragment_id": "222694820",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de apresentação de representação gráfica georreferenciada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dever de apresentação de representação gráfica georreferenciada\n\n1 - Nos registos de aquisição, nos procedimentos previstos nos artigos 7.º-D e 7.º-E da Lei n.º 65/2019, de 23 de agosto, e nos procedimentos administrativos requeridos perante qualquer entidade pública que tenham por efeito uma alteração na configuração geométrica de prédios rústicos ou mistos, é obrigatória a indicação do número de representação gráfica georreferenciada, exceto nos casos em que mediante consulta oficiosa no BUPi se verifique que a mesma já tenha sido entregue ou se verifique que o prédio já está inscrito na carta cadastral.\n\n2 - O disposto no número anterior não se aplica às aquisições decorrentes de atos praticados no processo executivo ou de insolvência."
+  },
+  "222694724": {
+   "fragment_id": "222694821",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Representação gráfica georreferenciada que abrange vários prédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-A — Representação gráfica georreferenciada que abrange vários prédios\n\n1 - Pode ser elaborada uma representação gráfica georreferenciada que abranja várias descrições prediais ou vários artigos matriciais que correspondam a prédios distintos, quando o interessado pretenda proceder à anexação dos prédios assim georreferenciados.\n\n2 - A representação gráfica georreferenciada a que se refere o número anterior é aceite para a realização de todos os registos e procedimentos necessários à concretização do registo de anexação dos prédios.\n\n3 - A anotação prevista no artigo 18.º é efetuada no prédio resultante da anexação."
+  },
+  "222694725": {
+   "fragment_id": "222694822",
+   "type": 11,
+   "heading": "Artigo 20.º — Arbitragem relativa aos litígios de natureza civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Arbitragem relativa aos litígios de natureza civil\n\n1 - Os eventuais litígios de natureza civil emergentes da representação gráfica georreferenciada relacionados com os limites dos prédios podem ser submetidos pelas partes a resolução por arbitragem, devendo para o efeito ser designados como árbitros os conservadores de registos ou os oficiais de registos licenciados em Direito, nos termos definidos pelo conselho diretivo do IRN, I. P.\n\n2 - Da decisão arbitral cabe recurso para o Tribunal da Relação competente, com efeito meramente devolutivo.\n\n3 - O não exercício da faculdade prevista no n.º 1 não preclude a possibilidade de invocação dos direitos de natureza civil sobre prédios objeto de procedimento especial de representação gráfica georreferenciada, mediante recurso aos tribunais judiciais, nos termos gerais de direito.\n\n4 - O tribunal arbitral, por sua iniciativa ou a pedido das partes, pode nomear um ou mais peritos, designadamente os técnicos habilitados, para elaborarem um relatório, escrito ou oral, sobre pontos específicos a determinar pelo tribunal arbitral."
+  },
+  "222694726": {
+   "fragment_id": "222694823",
+   "type": 8,
+   "heading": "Secção IV — Procedimento de identificação, inscrição e registo de prédio sem dono conhecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Procedimento de identificação, inscrição e registo de prédio sem dono conhecido"
+  },
+  "222694727": {
+   "fragment_id": "222694824",
+   "type": 11,
+   "heading": "Artigo 21.º — Definição do procedimento de identificação, inscrição e registo de prédio sem dono conhecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Definição do procedimento de identificação, inscrição e registo de prédio sem dono conhecido\n\n(Revogado.)"
+  },
+  "222694728": {
+   "fragment_id": "222694825",
+   "type": 1,
+   "heading": "Capítulo III — Balcão Único do Prédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Balcão Único do Prédio"
+  },
+  "222694729": {
+   "fragment_id": "222694826",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Âmbito\n\n1 - O BUPi é um balcão físico e virtual, da responsabilidade do IRN, I. P., que agrega a informação registal, matricial e georreferenciada relacionada com os prédios.\n\n2 - O BUPi opera através de uma plataforma integrada que comunica com todas as bases de dados e aplicações que contêm informações prediais, utilizando para o efeito, no que se aplicar, a Plataforma de Interoperabilidade da Administração Pública (iAP).\n\n3 - O BUPi constitui-se como a plataforma de articulação do cidadão com a Administração Pública no âmbito do cadastro predial, estando integrado no portal único de serviços públicos, sendo assegurada a autenticação eletrónica partilhada bem como quaisquer outros mecanismos que garantam uma experiência de utilização uniforme entre ambos os portais."
+  },
+  "222694730": {
+   "fragment_id": "222694827",
+   "type": 11,
+   "heading": "Artigo 23.º — Cooperação administrativa no domínio da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cooperação administrativa no domínio da informação\n\n1 - O IRN, I. P., é a entidade detentora dos conjuntos de dados geográficos adquiridos no âmbito do BUPi.\n\n2 - As entidades públicas referidas no artigo 27.º têm o dever de colaborar com o IRN, I. P., na partilha da informação relevante sobre os elementos caracterizadores e de identificação dos prédios rústicos e mistos, designadamente para cumprimento das obrigações previstas no artigo anterior, nos termos e prazos a estabelecer por decreto regulamentar."
+  },
+  "222694731": {
+   "fragment_id": "222694828",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "222694732": {
+   "fragment_id": "222694829",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime emolumentar e tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime emolumentar e tributário\n\n(Revogado.)"
+  },
+  "222694733": {
+   "fragment_id": "222694830",
+   "type": 11,
+   "heading": "Artigo 25.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regulamentação\n\n1 - São definidos por decreto regulamentar:\n\na) O procedimento administrativo da representação gráfica georreferenciada;\n\nb) As especificações técnicas a observar na elaboração da representação gráfica georreferenciada e a respetiva estrutura de atributos;\n\nc) (Revogada.)\n\nd) A instalação, condições de funcionamento, interoperabilidade e funcionalidades do BUPi;\n\ne) As demais matérias cuja regulamentação deva revestir essa forma, nos termos da presente lei;\n\nf) As diligências, tramitação e meios de impugnação do procedimento especial de registo de prédio rústico e misto;\n\ng) As especificações técnicas do ajuste automático de estremas.\n\n2 - (Revogado.)"
+  },
+  "222694734": {
+   "fragment_id": "222694831",
+   "type": 11,
+   "heading": "Artigo 26.º — Informação cadastral simplificada e sistema nacional de informação geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Informação cadastral simplificada e sistema nacional de informação geográfica\n\nAos conjuntos e serviços de dados geográficos adquiridos, produzidos e disponibilizados no âmbito da presente lei não se aplica o disposto no artigo 8.º-A do Decreto-Lei n.º 180/2009, de 7 de agosto, alterado e republicado pelo Decreto-Lei n.º 29/2017, de 16 de março."
+  },
+  "222694735": {
+   "fragment_id": "222694832",
+   "type": 11,
+   "heading": "Artigo 27.º — Interconexão de dados e dados em formato aberto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Interconexão de dados e dados em formato aberto\n\n1 - Com vista à expansão do sistema de informação cadastral simplificado e do BUPi, a AT, o IRN, I. P., a DGT, o IFAP, I. P., o ICNF, I. P., e a DGADR procedem à partilha entre si, e com os municípios e com as CCDR, através do BUPi, da informação relevante sobre os elementos caracterizadores e de identificação dos prédios rústicos e mistos e dos seus titulares, para efeitos de localização geográfica e demais efeitos de identificação do prédio.\n\n2 - A informação a que se refere o número anterior pode ser também partilhada, nos termos previstos no artigo 23.º da Lei n.º 58/2019, de 8 de agosto, com as demais entidades públicas para prossecução das suas atribuições\n\n3 - Com vista à expansão do sistema de informação cadastral simplificado e do BUPi, as entidades públicas da administração central, regional, local, do setor empresarial do Estado, ou outras entidades que, independentemente da natureza pública ou privada, dispõem de informação predial no exercício das suas atribuições e competências, designadamente as entidades referidas no n.º 5 do artigo 6.º, podem proceder à partilha entre si, através do BUPi, da informação relevante sobre os elementos caracterizadores e de identificação dos prédios urbanos, rústicos e mistos e dos dados pessoais dos seus titulares, para efeitos de localização geográfica e demais efeitos de identificação do prédio, incluindo para efeitos do Regime Jurídico de Cadastro Predial, aprovado pelo Decreto-Lei n.º 72/2023, de 23 de agosto.\n\n4 - Os termos da interconexão de dados prevista nos números anteriores são definidos por protocolo estabelecido entre as entidades detentoras dos dados, o IRN, I. P., e o Centro de Coordenação Técnica.\n\n5 - Os dados pessoais objeto de tratamento ao abrigo do disposto nos números anteriores são conservados enquanto se revelarem necessários para a prossecução das finalidades a que se destina o seu tratamento.\n\n6 - São disponibilizados no BUPi e no Portal Dados.Gov, cumpridas as especificações técnicas e formatos digitais previstos no Regulamento Nacional de Interoperabilidade Digital, dados em formato aberto sobre os elementos caracterizadores e de identificação dos prédios urbanos, rústicos e mistos que podem ser utilizados, reutilizados e partilhados por qualquer pessoa e para qualquer finalidade, nos termos da Lei n.º 26/2016, de 22 de agosto, na sua redação atual.\n\n7 - Os documentos apresentados e a informação prestada pelos cidadãos e operadores económicos no âmbito dos procedimentos tramitados através do BUPi podem ser utilizados pelos serviços e organismos da Administração Pública central, regional e local no âmbito de outros procedimentos promovidos pelos mesmos interessados, sem necessidade de nova submissão de dados, informação ou documentos, desde que nestes procedimentos seja dado consentimento expresso para tal ou o tratamento for necessário ao exercício de funções de interesse público ou ao exercício da autoridade pública."
+  },
+  "222694736": {
+   "fragment_id": "222694833",
+   "type": 11,
+   "heading": "Artigo 28.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Disposição transitória\n\n(Revogado.)"
+  },
+  "222694737": {
+   "fragment_id": "222694834",
+   "type": 11,
+   "heading": "Artigo 29.º — Efeitos tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Efeitos tributários\n\n(Revogado.)"
+  },
+  "222694738": {
+   "fragment_id": "222694835",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma revogatória\n\nÉ revogada a Lei n.º 152/2015, de 14 de setembro."
+  },
+  "222694739": {
+   "fragment_id": "222694836",
+   "type": 11,
+   "heading": "Artigo 31.º — Aplicabilidade territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Aplicabilidade territorial\n\n(Revogado.)"
+  },
+  "222694740": {
+   "fragment_id": "222694837",
+   "type": 11,
+   "heading": "Artigo 32.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Avaliação\n\n(Revogado.)"
+  },
+  "222694741": {
+   "fragment_id": "222694838",
+   "type": 11,
+   "heading": "Artigo 33.º — Produção de efeitos e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Produção de efeitos e vigência\n\nA presente lei produz efeitos a partir do primeiro dia do terceiro mês seguinte ao da sua publicação e vigora durante um ano contado a partir da data da respetiva produção de efeitos."
+  },
+  "222694742": {
+   "fragment_id": "222694839",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "222694879": {
+   "fragment_id": "222694979",
+   "type": 14,
+   "heading": "Anexo III — Republicação da Lei n.º 65/2019, de 23 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Republicação da Lei n.º 65/2019, de 23 de agosto\n\n(a que se refere o n.º 2 do artigo 15.º)"
+  },
+  "222694743": {
+   "fragment_id": "222694840",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "222694744": {
+   "fragment_id": "222694841",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente lei mantém em vigor e generaliza a aplicação do sistema de informação cadastral simplificado, instituído pela Lei n.º 78/2017, de 17 de agosto, integrando os seguintes procedimentos:\n\na) O procedimento de representação gráfica georreferenciada (RGG), previsto nos artigos 5.º a 12.º da Lei n.º 78/2017, de 17 de agosto, aplicável aos prédios rústicos e mistos, nos municípios que não dispõem de cadastro geométrico da propriedade rústica (CGPR) ou cadastro predial em vigor;\n\nb) O procedimento especial de registo, previsto nos artigos 13.º a 15.º da Lei n.º 78/2017, de 17 de agosto, aplicável, com as especificidades constantes da presente lei:\n\ni) Aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional;\n\nii) Aos prédios rústicos ou mistos descritos no registo, desde que situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor, cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG.\n\n2 - A presente lei cria ainda, no âmbito do sistema de informação cadastral simplificada:\n\na) O procedimento especial de justificação de prédio rústico e misto;\n\nb) O procedimento de consulta pública destinado à resolução das situações de validação de RGG com reserva de geometria; e\n\nc) Os procedimentos de inscrição de prédio rústico omisso na matriz predial não cadastral e de alteração de área de prédio rústico inscrito na matriz predial não cadastral.\n\n3 - O procedimento a que se refere a alínea a) do número anterior aplica-se aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional, e ainda aos prédios rústicos ou mistos descritos no registo cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG, situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor.\n\n4 - Os procedimentos a que se referem as alíneas b) e c) do n.º 2 aplicam-se na área dos municípios que não dispõem de CGPR ou cadastro predial em vigor identificados no anexo i e no anexo ii à presente lei e da qual fazem parte integrante.\n\n5 - A operacionalização do regime previsto na alínea a) do n.º 1 depende da celebração de um acordo de colaboração interinstitucional entre o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), o Centro de Coordenação Técnica e cada município, que regula:\n\na) As ações a desenvolver com vista à expansão do sistema de informação cadastral simplificado e do Balcão Único do Prédio (BUPi);\n\nb) O modo de partilha de informação de caracterização e identificação dos prédios rústicos ou mistos e dos seus titulares e de caracterização do território nacional.\n\n6 - Para a realização das ações a que se refere a alínea a) do número anterior, o Centro de Coordenação Técnica, o IRN, I. P., os municípios e as entidades intermunicipais podem estabelecer protocolos de cooperação com outras entidades públicas e privadas.\n\n7 - No quadro do Centro de Coordenação Técnica referido no n.º 5, mediante protocolo a celebrar entre a Autoridade Tributária e Aduaneira (AT) e o IRN, I. P., a AT transmite à plataforma BUPi a informação relativa aos prédios inscritos nas matrizes prediais rústica e urbana, localizados no respetivo município, bem como a identificação dos seus titulares, através do nome e número de identificação fiscal, e respetivo domicílio fiscal.\n\n8 - O Centro de Coordenação Técnica, os municípios e as entidades intermunicipais colaboram entre si na expansão do sistema de informação cadastral simplificado e do BUPi.\n\n9 - O novo sistema de informação cadastral simplificado concorre para a elaboração do cadastro predial rústico no plano nacional.\n\n10 - A presente lei promove igualmente a universalização do BUPi, criado pela Lei n.º 78/2017, de 17 de agosto, enquanto plataforma nacional de registo e cadastro do território (PNRCT), abrangendo os prédios urbanos, rústicos e mistos de todo o território nacional."
+  },
+  "222694745": {
+   "fragment_id": "222694842",
+   "type": 11,
+   "heading": "Artigo 2.º — Sistema de informação cadastral simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sistema de informação cadastral simplificado\n\n1 - O IRN, I. P., é a entidade responsável pelo sistema de informação cadastral simplificado e pelo BUPi, competindo-lhe:\n\na) Garantir a todo o tempo a atualização e a interoperabilidade dos dados detidos pelas entidades referidas nos n.os 2 e 7 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto;\n\nb) Assegurar a harmonização da informação relevante sobre os elementos caracterizadores e de identificação dos prédios usados para efeitos cadastrais, registais e matriciais;\n\nc) (Revogada.)\n\nd) Assegurar a supervisão do procedimento de RGG.\n\n2 - Compete aos serviços de registo realizar os procedimentos especiais de registo e de justificação previstos na presente lei."
+  },
+  "222694746": {
+   "fragment_id": "222694843",
+   "type": 11,
+   "heading": "Artigo 3.º — Cadastro geométrico da propriedade rústica e cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cadastro geométrico da propriedade rústica e cadastro predial\n\n(Revogado.)"
+  },
+  "222694747": {
+   "fragment_id": "222694844",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1 - O regime constante da presente lei obedece aos princípios da:\n\na) Coordenação, assegurando a partilha de informação entre as entidades competentes sobre os elementos caracterizadores e de identificação dos prédios rústicos e mistos e dos seus titulares, para efeitos de localização geográfica e de supressão da omissão no registo predial e demais efeitos de identificação do prédio;\n\nb) Complementaridade, assegurando que a harmonização das informações da competência das diversas entidades salvaguarda os efeitos jurídicos respetivos, nos termos da legislação aplicável;\n\nc) Subsidiariedade, no sentido de a informação ser recolhida e transmitida pelas entidades competentes que mais adequadamente o possam efetuar, tendo em conta fatores de proximidade;\n\nd) Participação, reforçando a atuação cívica dos cidadãos, através do acesso à informação e à participação nos procedimentos de RGG e de registo especial de prédio rústico e misto omisso;\n\ne) Publicitação, garantindo a transparência e o caráter público dos procedimentos e das informações cadastrais, com garantia da proteção dos dados pessoais envolvidos.\n\n2 - De acordo com a alínea b) do número anterior, as relações entre o cadastro, o registo predial e a matriz predial regem-se por um princípio de complementaridade, nos termos do qual a situação jurídica e fiscal dos prédios constante do registo predial e da matriz predial produz os efeitos previstos na legislação respetiva.\n\n3 - Sem prejuízo do regime legal relativo à proteção dos dados pessoais, o acesso à informação cadastral por parte dos particulares e das entidades e serviços da Administração Pública do Estado e de outras pessoas coletivas públicas efetua-se nos termos previstos na Lei n.º 78/2017, de 17 de agosto, e na presente lei."
+  },
+  "222694748": {
+   "fragment_id": "222694845",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de organização e desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modelo de organização e desenvolvimento\n\n1 - O modelo de organização e desenvolvimento do sistema de informação cadastral simplificado e do BUPi desenvolve-se em três níveis:\n\na) Ao nível central, através de um Centro de Coordenação Técnica, com competências de coordenação, decisão e apoio, integrado no Ministério da Justiça;\n\nb) Ao nível regional, através de Centros de Competências Regionais, a estabelecer por resolução do Conselho de Ministros, com competências e recursos para a partilha e articulação de conhecimentos e de capacidades instaladas no domínio da informação geoespacial;\n\nc) Ao nível municipal, através de Unidades de Competência Locais, que formam a rede de balcões de atendimento, para atendimento ao cidadão, identificação, tratamento e partilha da informação respeitante ao território, seus titulares e limites.\n\n2 - As competências dos municípios referidas na alínea c) do número anterior podem ser delegadas na entidade intermunicipal que estes integram, podendo ser exercidas exclusivamente pela entidade intermunicipal ou em conjunto com cada município.\n\n3 - Para efeitos do previsto na alínea c) do n.º 1 compete às Unidades de Competência Locais:\n\na) Partilhar com o BUPi informação sobre os elementos caracterizadores e de identificação dos prédios rústicos ou mistos, dos seus titulares e de caracterização do território nacional de que o município disponha, para efeitos de identificação dos prédios e supressão de omissão no registo predial;\n\nb) Assegurar a elaboração no BUPi, pelos técnicos habilitados, das operações de RGG dos prédios;\n\nc) Disponibilizar balcões de atendimento ao cidadão.\n\n4 - É aprovado, por portaria dos membros do Governo responsáveis pelas áreas das finanças, da modernização administrativa, da justiça, das autarquias locais, do ordenamento do território e da agricultura e florestas, o regime de funcionamento e financiamento do modelo de organização e desenvolvimento do regime instituído pela Lei n.º 78/2017, de 17 de agosto, com as especificidades constantes da presente lei."
+  },
+  "222694749": {
+   "fragment_id": "222694846",
+   "type": 11,
+   "heading": "Artigo 6.º — Número de identificação de prédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número de identificação de prédio\n\n1 - O número de identificação de prédio (NIP), a que se refere o artigo 3.º da Lei n.º 78/2017, de 17 de agosto, é um identificador numérico, sequencial, com dígito de controlo e sem significado lógico, destinado ao tratamento e harmonização da informação de índole predial, visando a prossecução dos seguintes objetivos:\n\na) Assegurar a identificação unívoca dos prédios, mediante a atribuição de um número único de identificação, de utilização comum a toda a Administração Pública, possibilitando a criação da informação predial única;\n\nb) Unificar e permitir uma gestão uniforme e informática dos conteúdos cadastrais num único sistema de informação;\n\nc) Assegurar o acesso à informação pela Administração Pública, pelos cidadãos e pelas empresas, designadamente por via eletrónica e com a garantia da proteção de dados pessoais envolvidos.\n\n2 - O NIP é atribuído a cada prédio sempre que seja confirmada a coincidência entre a informação constante das bases de dados das descrições prediais do IRN, I. P., e das bases de dados que contêm as inscrições matriciais da AT, associando-se a RGG ou a configuração geométrica do prédio (CGP) dependendo da informação constar no BUPi ou na carta cadastral.\n\n3 - A informação predial única subjacente ao NIP integra designadamente:\n\na) A descrição e as inscrições do registo predial;\n\nb) A inscrição matricial, quando aplicável;\n\nc) A RGG do prédio, quando não cadastrado, ou a CGP que consta da carta cadastral;\n\nd) Outros dados e elementos relativos à caracterização do prédio e à identificação dos seus titulares que possam ser partilhados no BUPi."
+  },
+  "222694750": {
+   "fragment_id": "222694847",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Plataforma de serviços geográficos Balcão Único do Prédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A — Plataforma de serviços geográficos Balcão Único do Prédio\n\n1 - O BUPi integra uma plataforma de serviços geográficos de alta disponibilidade que se enquadra como uma Infraestrutura de Dados Espaciais (IDE) e tem como objetivo fornecer conteúdos ao visualizador BUPi e a entidades parceiras, assegurando os necessários atributos de segurança, escalabilidade e resiliência.\n\n2 - Os conjuntos de dados geográficos disponibilizados na plataforma de serviços geográficos BUPi que configurem cartografia ou informação geográfica oficial ou homologada cumprem as obrigações de inscrição no Registo Nacional de Dados Geográficos do Sistema Nacional de Informação Geográfica (SNIG), nos termos do Decreto-Lei n.º 193/95, de 28 de julho, e do Decreto-Lei n.º 180/2009, de 7 de agosto, ambos na sua redação atual."
+  },
+  "222694751": {
+   "fragment_id": "222694848",
+   "type": 11,
+   "heading": "Artigo 7.º — Confirmação de confinantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Confirmação de confinantes\n\n1 - Para os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, considera-se validada por todos os proprietários confinantes a informação resultante da RGG nas seguintes situações:\n\na) Declaração de aceitação de todos os proprietários dos prédios confinantes, conforme formulário constante do anexo ii ao Decreto Regulamentar n.º 9-A/2017, de 3 de novembro, no caso de não haver conflito quanto aos confinantes;\n\nb) Existência, no BUPi, da totalidade dos polígonos dos prédios confinantes sem conflito de estremas comuns.\n\n2 - No caso de existir conflito quanto aos confinantes pode ser assinada uma declaração de aceitação de todos os proprietários dos prédios confinantes, desde que seja corrigida a sobreposição de polígonos e assinada a declaração presencialmente perante técnico habilitado para o efeito, conforme formulário constante do anexo ii ao Decreto Regulamentar n.º 9-A/2017, de 3 de novembro.\n\n3 - Não sendo corrigida a sobreposição de polígonos de prédios confinantes nos termos do número anterior, o conflito é objeto do procedimento de conciliação administrativa."
+  },
+  "222694752": {
+   "fragment_id": "222694849",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Conciliação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-A — Conciliação administrativa\n\n1 - O procedimento da conciliação administrativa é um mecanismo de conciliação que se destina a possibilitar aos interessados alcançarem um acordo relativamente ao limite das estremas de prédios confinantes resultante de procedimentos de RGG, corrigindo os polígonos sobrepostos.\n\n2 - O recurso à conciliação administrativa não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo nem à instauração do procedimento especial de registo ou de justificação, ou à sua conclusão, caso este se encontre pendente.\n\n3 - Podem ser conciliadores, no âmbito do procedimento de conciliação administrativa:\n\na) Os técnicos habilitados que sejam trabalhadores dos municípios ou lhes prestem serviços e se encontrem inscritos no BUPI para prestarem apoio ao cidadão, designados por despacho do Presidente da Câmara Municipal;\n\nb) Os técnicos de cadastro predial a que se referem as alíneas a) a c) do n.º 2 do artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, e que estejam inscritos na lista oficial de técnicos de cadastro predial.\n\n4 - O conciliador assegura, ao longo de todo o procedimento, o respeito pelos princípios da celeridade, independência, imparcialidade, legalidade e transparência.\n\n5 - O conciliador não pode intervir no procedimento caso se encontre em alguma das situações previstas nas alíneas a) a e) do n.º 1 do artigo 69.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, sob pena de nulidade.\n\n6 - O conciliador fica sujeito a segredo profissional relativamente aos factos de que tenha conhecimento no exercício das suas funções e por causa delas.\n\n7 - O dever de segredo não cessa com o termo das funções ou da prestação de serviços.\n\n8 - Em tudo o que seja omisso aplica-se subsidiariamente ao procedimento de conciliação administrativa o Código do Procedimento Administrativo."
+  },
+  "222694753": {
+   "fragment_id": "222694850",
+   "type": 11,
+   "heading": "Artigo 7.º-B — RGG validada com reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-B — RGG validada com reserva\n\n1 - A RGG é validada com reserva de geometria sempre que:\n\na) O interessado declare que não conhece ou que não é possível determinar algum dos limites do prédio;\n\nb) Exista sobreposição de polígonos;\n\nc) Não esteja identificada a totalidade dos polígonos dos prédios confinantes sem conflito de estremas comuns.\n\n2 - A reserva quanto à geometria do prédio na RGG pode ser resolvida das seguintes formas:\n\na) Com recurso ao procedimento de conciliação administrativa, nos casos em que exista conflito de estremas com prédios confinantes;\n\nb) Com recurso ao procedimento de consulta pública, nos casos em que não se encontrem ainda identificadas todas as estremas dos prédios confinantes.\n\n3 - A RGG validada com reserva de geometria não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo, nem à instauração do procedimento especial de registo ou de justificação.\n\n4 - Uma vez validada por todos os proprietários dos prédios confinantes nos termos do artigo 7.º, a RGG é convertida em CGP, passando a integrar a carta cadastral por referência ao NIP."
+  },
+  "222694754": {
+   "fragment_id": "222694851",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Procedimento de consulta pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-C — Procedimento de consulta pública\n\n1 - Para efeitos da alínea b) do n.º 2 do artigo anterior, é realizado um procedimento de consulta pública com periodicidade anual.\n\n2 - Compete ao Centro de Coordenação Técnica promover a publicitação da consulta pública, com indicação de todos os elementos disponíveis relativos aos prédios em causa, relevantes para a sua identificação por parte dos interessados, mediante anúncio de acesso livre a publicitar no seu sítio na Internet, durante 60 dias, e ainda através:\n\na) Do município e da freguesia onde se localizem os prédios, nomeadamente por divulgação do anúncio em sítio oficial da autarquia na Internet e por afixação de editais nas respetivas sedes;\n\nb) Do envio da informação ao Ministério dos Negócios Estrangeiros, para que este assegure a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular.\n\n3 - As reclamações que forem apresentadas durante a consulta pública são apreciadas por uma comissão administrativa, que integra um representante da AT, do IRN, I. P., e da DGT, sendo o representante do IRN, I. P., um conservador de registos designado por deliberação do respetivo conselho diretivo, exercendo a função de presidente.\n\n4 - Os prédios confinantes que não forem identificados no âmbito do procedimento de consulta pública ficam sujeitos ao procedimento de identificação e reconhecimento de prédio rústico ou misto sem dono conhecido, aprovado pelo Decreto-Lei n.º 15/2019, de 21 de janeiro, na sua redação atual.\n\n5 - Inicia-se o procedimento de reconhecimento de prédio sem dono conhecido previsto no Decreto-Lei n.º 15/2019, de 21 de janeiro, se:\n\na) Os prédios confinantes não forem identificados no âmbito do procedimento de consulta pública e não estiverem descritos no registo predial;\n\nb) Os prédios estiverem inscritos na matriz; e\n\nc) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de Coordenação Técnica, para no prazo de 90 dias promover o procedimento especial de RGG e de registo ou declarar a quem pertence o prédio sem que o tenham efetuado.\n\n6 - Se o notificado declarar que não é o proprietário do prédio, mas indicar a quem o mesmo pertence, notifica-se a pessoa identificada, para os efeitos do número anterior."
+  },
+  "222694755": {
+   "fragment_id": "222694852",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Procedimento de inscrição de prédio rústico omisso na matriz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-D — Procedimento de inscrição de prédio rústico omisso na matriz\n\n1 - O procedimento de inscrição de prédio rústico omisso na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de qualquer regime de cadastro predial em vigor.\n\n2 - Em cumprimento do princípio da colaboração previsto no artigo 59.º da lei geral tributária (LGT) e no n.º 2 do artigo 48.º do Código do Procedimento e de Processo Tributário (CPPT), para inscrição de prédio rústico omisso na matriz predial, o interessado deve fazer a entrega de:\n\na) RGG, pendente de finalização, elaborada por técnico habilitado;\n\nb) Declaração de participação de inscrição de prédio rústico omisso.\n\n3 - Quando a RGG não se encontre validada nos termos previstos no n.º 1 do artigo 7.º, é necessário apresentar declaração de aceitação dos limites do prédio efetuada por, pelo menos, um confinante, devidamente identificado com o NIF e a indicação do artigo matricial do seu prédio.\n\n4 - Após a entrega da declaração para inscrição de prédio rústico omisso, acompanhada dos elementos instrutórios, há lugar à inscrição matricial do prédio, com a atribuição do correspondente artigo matricial, ainda que condicionada à fixação do valor patrimonial tributário, nos termos do Código do Imposto Municipal sobre Imóveis, aplicando-se para o efeito o previsto no n.º 4 do artigo 14.º\n\n5 - Após a inscrição matricial do prédio rústico, o promotor deve concluir o procedimento de RGG, retomando o processo que está pendente de finalização no BUPi, com associação do artigo matricial que tenha sido atribuído ao prédio em causa."
+  },
+  "222694756": {
+   "fragment_id": "222694853",
+   "type": 11,
+   "heading": "Artigo 7.º-E — Procedimento de alteração de área de prédio rústico inscrito na matriz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-E — Procedimento de alteração de área de prédio rústico inscrito na matriz\n\n1 - O procedimento de alteração de área de prédio rústico inscrito na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de CGPR ou cadastro predial em vigor.\n\n2 - Enquanto a RGG não produzir os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, transitoriamente, subsistem simultaneamente na matriz predial rústica a área relevante para efeitos de liquidação de impostos sobre o respetivo prédio, com recurso à informação previamente existente na matriz, e a área resultante da RGG, que não tem quaisquer efeitos de liquidação de imposto sobre o respetivo prédio.\n\n3 - Para os efeitos previstos no número anterior, as RGG elaboradas são comunicadas pelo BUPi à AT, informando-se, simultaneamente o IRN, I. P., da realização daquela comunicação que, assim, equivale ao pedido de alteração ou retificação de área na matriz a que se refere o n.º 1 do artigo 31.º do Código do Registo Predial, sempre que o interessado pretenda que a descrição predial seja aberta ou atualizada com a área constante da RGG, nos termos previstos no artigo 16.º da Lei n.º 78/2017, de 17 de agosto."
+  },
+  "222694757": {
+   "fragment_id": "222694854",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de informação cadastral simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de informação cadastral simplificado"
+  },
+  "222694758": {
+   "fragment_id": "222694855",
+   "type": 8,
+   "heading": "Secção I — Procedimento especial de registo de prédio rústico e misto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento especial de registo de prédio rústico e misto"
+  },
+  "222694759": {
+   "fragment_id": "222694856",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento especial de registo de prédio rústico e misto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento especial de registo de prédio rústico e misto\n\n1 - (Revogado.)\n\n2 - Sem prejuízo do disposto no artigo 14.º da Lei n.º 78/2017, de 17 de agosto, o procedimento especial de registo de prédio rústico e misto pode ser promovido por iniciativa dos interessados, desde que:\n\na) Disponham de documento comprovativo do seu direito de propriedade e;\n\nb) Ocorra na sequência de RGG, quando se trate de prédio rústico inscrito na matriz não cadastral, ou seja apresentada a CGP, quando o prédio esteja inscrito na matriz cadastral."
+  },
+  "222694760": {
+   "fragment_id": "222694857",
+   "type": 8,
+   "heading": "Secção II — Procedimento especial de justificação de prédio rústico e misto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento especial de justificação de prédio rústico e misto"
+  },
+  "222694761": {
+   "fragment_id": "222694858",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento especial de justificação de prédio rústico e misto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento especial de justificação de prédio rústico e misto\n\n1 - (Revogado.)\n\n2 - Ao procedimento especial de justificação de prédio rústico e misto aplica-se, em matéria de competência, o disposto no artigo 13.º da Lei n.º 78/2017, de 17 de agosto.\n\n3 - O procedimento especial de justificação de prédio rústico e misto pode ser promovido pelo interessado que não disponha de documento para prova do seu direito de propriedade, desde que se verifique por consulta ao BUPi:\n\na) A existência de RGG, quando se trate de prédio rústico inscrito na matriz não cadastral; ou\n\nb) A existência de CGP, quando se trate de prédio inscrito na matriz cadastral.\n\n4 - As formalidades prévias, a tramitação e os meios de impugnação do processo especial de justificação são estabelecidos por decreto regulamentar."
+  },
+  "222694762": {
+   "fragment_id": "222694859",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito subsidiário\n\nAo procedimento especial de justificação previsto na presente secção são aplicáveis, em tudo o que não estiver especialmente regulado, as disposições do Código do Registo Predial e do Código do Notariado."
+  },
+  "222694763": {
+   "fragment_id": "222694860",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "222694764": {
+   "fragment_id": "222694861",
+   "type": 11,
+   "heading": "Artigo 11.º — Anotação à descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Anotação à descrição\n\nPara efeitos do previsto no artigo 18.º da Lei n.º 78/2017, de 17 de agosto, no caso de prédios descritos, a existência de RGG é comunicada por via eletrónica ao sistema de informação de registo predial."
+  },
+  "222694765": {
+   "fragment_id": "222694862",
+   "type": 11,
+   "heading": "Artigo 12.º — Baldios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Baldios\n\nO regime aplicável aos baldios e aos demais meios de produção comunitários, previsto na Lei n.º 75/2017, de 17 de agosto, é tramitado, com as necessárias adaptações, no âmbito do sistema de informação cadastral simplificado previsto na presente lei, sendo integrados no registo predial, assumindo o BUPi, para todos os efeitos legais, as funções da plataforma eletrónica nacional prevista no artigo 9.º do referido diploma."
+  },
+  "222694766": {
+   "fragment_id": "222694863",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicitação\n\nO sistema de informação cadastral simplificado e as medidas a adotar para a identificação da estrutura fundiária, através dos limites georreferenciados dos prédios rústicos e mistos e da titularidade, previstos na presente lei e demais legislação aplicável, devem ser objeto de publicitação e ampla divulgação, nomeadamente pelo IRN, I. P., mediante anúncio de acesso livre em sítio próprio do Ministério da Justiça, pelos municípios e freguesias, bem como pelo Ministério dos Negócios Estrangeiros, que deve assegurar a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular."
+  },
+  "222694767": {
+   "fragment_id": "222694864",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "222694768": {
+   "fragment_id": "222694865",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime emolumentar e tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime emolumentar e tributário\n\n1 - São gratuitos os atos e procedimentos previstos na presente lei que abranjam prédios rústicos ou mistos, com área igual ou inferior a 50 hectares, bem como:\n\na) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir o procedimento de RGG e a instruir e suprir as deficiências no âmbito dos procedimentos especialmente previstos na presente lei;\n\nb) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do pedido de registo de aquisição, efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto não descrito ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\nc) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do primeiro pedido de registo de aquisição efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto descrito, após a realização da RGG, desde que instruído com esta;\n\nd) As certidões negativas de registos que digam respeito a prédios rústicos ou mistos necessárias a instruir atos de titulação, desde que seja apresentada RGG ou CGP;\n\ne) As RGG de prédios efetuadas pelas entidades públicas ou a pedido dos interessados junto daquelas, destinadas a instruir os procedimentos especialmente previstos na presente lei ou qualquer ato de registo efetuado nos termos gerais do Código de Registo Predial;\n\nf) Os procedimentos simplificados de sucessão hereditária, celebrados nos serviços de registo, que sejam necessários à regularização da situação registal dos prédios rústicos ou mistos não descritos ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP e de prédios rústicos ou mistos descritos, desde que instruídos com RGG e de que resulte a realização do primeiro registo de aquisição após a realização da RGG;\n\ng) Os atos de atualização da descrição predial em conformidade com a RGG ou com a CGP;\n\nh) Os atos de registo relativos a prédios rústicos ou mistos não descritos, ou descritos sem inscrição de aquisição ou reconhecimentos de direto de propriedade ou de mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\ni) O primeiro pedido de registo de aquisição de prédio rústico ou misto descrito com inscrição de aquisição ou reconhecimento de direito de propriedade ou de mera posse em vigor, efetuado após a realização da RGG e instruído com esta;\n\nj) Os processos de justificação, nos termos do artigo 116.º e seguintes do Código de Registo Predial, desde que instruídos com RGG ou que apresentem CGP;\n\nk) Os atos praticados no âmbito de procedimento de inscrição de prédio omisso na matriz;\n\nl) Os atos praticados no âmbito de procedimento de alteração de áreas de prédio rústico na matriz, desde que instruídos com RGG.\n\n2 - Quando o título sujeito a registo ou o procedimento simplificado de sucessão hereditária abranjam prédios urbanos, rústicos ou mistos, os atos e procedimentos previstos no número anterior são igualmente gratuitos.\n\n3 - Quando os prédios se encontrem integrados em terrenos baldios, a gratuitidade prevista no presente artigo aplica-se independentemente da área dos prédios.\n\n4 - A inscrição dos prédios rústicos omissos na matriz não dá lugar à aplicação de coimas, à instauração de processo de infração tributária ou à liquidação de impostos e juros devidos à data da regularização.\n\n5 - O disposto no número anterior é aplicável às situações em que, para efeitos de atualização das matrizes rústicas, se verificou o incumprimento da obrigação de declaração das alterações ou das modificações ao prédio rústico.\n\n6 - Na alteração de área de prédio rústico previamente inscrito na matriz, nos termos do artigo 130.º do Código do Imposto Municipal sobre Imóveis, a informação da RGG resultante do procedimento previsto no artigo 5.º da Lei n.º 78/2017, de 17 de agosto, sobre prédios previamente inscritos na matriz não releva para efeitos de liquidação de impostos sobre o respetivo prédio, mantendo-se, para esse efeito, o recurso à informação previamente existente na matriz."
+  },
+  "222694769": {
+   "fragment_id": "222694866",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nSão definidas por decreto regulamentar as seguintes matérias:\n\na) A articulação do NIP com o sistema de identificação usado para efeitos cadastrais, registais e matriciais;\n\nb) A metodologia de identificação e delimitação do domínio público;\n\nc) Os termos da efetivação da promoção oficiosa da RGG;\n\nd) O procedimento de conciliação administrativa;\n\ne) As demais matérias cuja regulamentação deva revestir essa forma, nos termos da presente lei."
+  },
+  "222694770": {
+   "fragment_id": "222694867",
+   "type": 11,
+   "heading": "Artigo 16.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produção de efeitos\n\nA presente lei produz efeitos a partir de 1 de novembro de 2018, considerando-se ratificados todos os atos praticados ao abrigo do regime previsto na Lei n.º 78/2017, de 17 de agosto, até à data de entrada em vigor da presente lei."
+  },
+  "222694771": {
+   "fragment_id": "222694868",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Indicador «área conhecida»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-A — Indicador «área conhecida»\n\n1 - Para efeitos de monitorização e avaliação de resultados em matéria de informação de caracterização e identificação dos prédios rústicos e mistos e dos seus titulares e de caracterização do território nacional é utilizado o indicador «área conhecida».\n\n2 - Considera-se «área conhecida», no território continental, o somatório das áreas dos 153 municípios do território continental que não dispõem de CGPR ou cadastro predial em vigor, indicados no anexo i à presente lei, e no território das regiões autónomas, o somatório das áreas dos municípios das regiões autónomas que não dispõem de CGPR ou cadastro predial em vigor, indicados no anexo ii à presente lei, que se encontrem delimitadas e sem sobreposições e que estejam devidamente identificadas e caracterizadas de acordo com grupos de informação temáticos relativos à sua dominialidade, ocupação do solo, gestão e uso da propriedade, com base na compilação de dados geográficos produzidos por várias entidades públicas e dos procedimentos de RGG.\n\n3 - A «área conhecida» é calculada em percentagem e em hectares."
+  },
+  "222694772": {
+   "fragment_id": "222694869",
+   "type": 11,
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1 - O Governo publica um relatório anual sobre a aplicação do regime previsto na presente lei, o qual contém, nomeadamente, informação relativa à área conhecida.\n\n2 - Sem prejuízo do disposto no número anterior, até 31 de julho de 2025, o Governo apresenta à Assembleia da República um relatório de avaliação da aplicação do presente regime ao território nacional"
+  },
+  "222694773": {
+   "fragment_id": "222694870",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "222694774": {
+   "fragment_id": "222694871",
+   "type": 14,
+   "heading": "Anexo I — Listagem dos 153 municípios do território continental que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Listagem dos 153 municípios do território continental que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor\n\n(a que se refere o n.º 4 do artigo 1.º e o n.º 2 do artigo 16.º-A)\n\nConcelhos\n\nÁgueda.\n\nAguiar da Beira.\n\nAlbergaria-a-Velha.\n\nAlcobaça.\n\nAlfândega da Fé.\n\nAlijó.\n\nAlmeida.\n\nAlvaiázere.\n\nAmarante.\n\nAmares.\n\nAnadia.\n\nAnsião.\n\nArcos de Valdevez.\n\nArganil.\n\nArmamar.\n\nArouca.\n\nAveiro.\n\nBaião.\n\nBarcelos.\n\nBatalha.\n\nBelmonte.\n\nBoticas.\n\nBraga.\n\nBragança.\n\nCabeceiras de Basto.\n\nCaldas da Rainha.\n\nCaminha.\n\nCantanhede.\n\nCarrazeda de Ansiães.\n\nCarregal do Sal.\n\nCastanheira de Pera.\n\nCastro Daire.\n\nCelorico da Beira.\n\nCelorico de Basto.\n\nCinfães.\n\nCoimbra.\n\nCondeixa-a-Nova.\n\nCovilhã.\n\nEspinho.\n\nEsposende.\n\nEstarreja.\n\nFafe.\n\nFelgueiras.\n\nFigueira da Foz.\n\nFigueira de Castelo Rodrigo.\n\nFigueiró dos Vinhos.\n\nFornos de Algodres.\n\nFreixo de Espada à Cinta.\n\nFundão.\n\nGóis.\n\nGondomar.\n\nGouveia.\n\nGuarda.\n\nGuimarães.\n\nÍlhavo.\n\nLeiria.\n\nLousã.\n\nLousada.\n\nMacedo de Cavaleiros.\n\nMangualde.\n\nManteigas.\n\nMarco de Canaveses.\n\nMarinha Grande.\n\nMealhada.\n\nMêda.\n\nMelgaço.\n\nMira.\n\nMiranda do Corvo.\n\nMiranda do Douro.\n\nMirandela.\n\nMoimenta da Beira.\n\nMonção.\n\nMondim de Basto.\n\nMontalegre.\n\nMontemor-o-Velho.\n\nMortágua.\n\nMurça.\n\nMurtosa.\n\nNelas.\n\nOleiros.\n\nOliveira de Azeméis.\n\nOliveira de Frades.\n\nOliveira do Bairro.\n\nOurém.\n\nOvar.\n\nPaços de Ferreira.\n\nPampilhosa da Serra.\n\nParedes de Coura.\n\nPedrógão Grande.\n\nPenacova.\n\nPenalva do Castelo.\n\nPenedono.\n\nPenela.\n\nPinhel.\n\nPombal.\n\nPonte da Barca.\n\nPonte de Lima.\n\nPóvoa de Lanhoso.\n\nPóvoa de Varzim.\n\nProença-a-Nova.\n\nRibeira de Pena.\n\nSabrosa.\n\nSabugal.\n\nSanta Comba Dão.\n\nSanta Maria da Feira.\n\nSanto Tirso.\n\nSão João da Pesqueira.\n\nSão Pedro do Sul.\n\nSátão.\n\nSernancelhe.\n\nSertã.\n\nSever do Vouga.\n\nSoure.\n\nTábua.\n\nTarouca.\n\nTerras de Bouro.\n\nTondela.\n\nTorre de Moncorvo.\n\nTrancoso.\n\nVagos.\n\nVale de Cambra.\n\nValença.\n\nValongo.\n\nValpaços.\n\nViana do Castelo.\n\nVieira do Minho.\n\nVila de Rei.\n\nVila do Conde.\n\nVila Flor.\n\nVila Nova de Cerveira.\n\nVila Nova de Famalicão.\n\nVila Nova de Foz Côa.\n\nVila Nova de Gaia.\n\nVila Nova de Paiva.\n\nVila Nova de Poiares.\n\nVila Pouca de Aguiar.\n\nVila Real.\n\nVila Verde.\n\nVimioso.\n\nVinhais.\n\nViseu.\n\nVizela.\n\nVouzela.\n\nCastelo de Paiva.\n\nChaves.\n\nLisboa.\n\nMaia.\n\nMatosinhos.\n\nPorto.\n\nResende.\n\nSão João da Madeira.\n\nTabuaço.\n\nTrofa."
+  },
+  "222694875": {
+   "fragment_id": "222694872",
+   "type": 14,
+   "heading": "Anexo II — Listagem dos 19 municípios das Regiões Autónomas dos Açores e da Madeira que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Listagem dos 19 municípios das Regiões Autónomas dos Açores e da Madeira que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor\n\n(a que se refere o n.º 4 do artigo 1.º e o n.º 2 do artigo 16.º-A)\n\nConcelhos\n\nAngra do Heroísmo.\n\nCalheta.\n\nCalheta.\n\nCorvo.\n\nHorta.\n\nLajes das Flores.\n\nLajes do Pico.\n\nMadalena.\n\nNordeste\n\nPonta do Sol.\n\nPorto Moniz.\n\nPovoação.\n\nPraia da Vitória.\n\nRibeira Brava.\n\nSanta Cruz da Graciosa.\n\nSanta Cruz das Flores.\n\nSão Roque do Pico.\n\nSão Vicente.\n\nVila do Porto.\n\n116926688"
+  }
+ }
+}

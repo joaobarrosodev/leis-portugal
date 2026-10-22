@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:381749:por
+title: Decreto-Lei n.º 260/84
+short_title: null
+summary: Estabelece os novos termos, para além dos já previstos no Decreto-Lei n.º 31/82, de 1 de Fevereiro, em que podem
+  ser alienadas as habitações arrendadas, geridas por ou propriedade do Instituto de Gestão Financeira da Segurança Social
+  e as da propriedade do Estado afectas à Comissão Liquidatária do Fundo de Fomento da Habitação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna, da Justiça, das Finanças e do Plano, do Trabalho e Segurança Social e do Equipamento
+  Social
+proposing_entity: null
+official_number: 260/84
+official_date: null
+publication_date: '1984-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1984, Série I de 1984-07-31
+  number: '176'
+  series: I
+  supplement: null
+  pages: 2320 - 2321
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/07/17600/23202321.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '381749'
+  dre_path: /dr/detalhe/decreto-lei/260-1984-381749
+  internal: pt:dre:381749:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1984-381749
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1984-381749
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-08-20T00:00:00Z'
+integrity:
+  source_sha256: e056a8b29131da0a44c8c2ebda88a86e61b856d3b1cda1f2f38a5f3b43a7b751
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-260-381749.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:324488:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 260/84
+
+de 31 de Julho
+
+Pelo [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro, foram sistematizadas as condições - então alargadas ao património locativo em geral do Estado - em que os respectivos inquilinos habitacionais podiam adquirir a propriedade dos respectivos fogos.
+
+Acontece, porém, que o valor fixado pelo referido diploma para o preço da alienação representava e representa, para alguns moradores, um esforço, nuns casos, desproporcionado à sua capacidade de endividamento e, noutros, inadequado ao benefício que para os mesmos representa o acesso à propriedade, sendo certo que o Estado - com estruturas descentralizadas ou não - é sempre um senhorio distante e, por isso, cómodo.
+
+Pareceu ao Governo que o desejável acesso dos inquilinos à propriedade dos fogos das instituições de previdência e do extinto Fundo de Fomento da Habitação se poderia processar com menor esforço de investimento daqueles, criando-se duas componentes no preço: uma inicial, a pagar no momento da transmissão da propriedade e calculada com base na capitalização da renda, após terem sido feitas as actualizações legais correspondentes ao fogo, e outra final, a pagar só no caso da venda do fogo pelo adquirente ou quando por motivo de morte não lhe sucederem descendentes ou outros herdeiros legitimários, repondo, assim, o preço ao nível do valor real e justo do fogo.
+
+Este mecanismo, agora introduzido, dispensa, em muitos casos, a intervenção das instituições de crédito e liberta meios para investimentos produtivos, ao mesmo tempo que não sobrecarrega as famílias com o pagamento de encargos bancários.
+
+Impõe-se, porém, como contrapartida dos benefícios sociais oferecidos, que o adquirente não use o bem para fins especulativos. Daí a imposição de que o fogo deve continuar a ser usado pelo prazo mínimo de 5 anos para sua residência permanente e no caso de arrendamento deste deverá ter lugar no regime de renda condicionada.
+
+Aposta ainda o Governo em que os novos proprietários consagrarão os cuidados necessários à conservação do património habitacional, podendo vir a utilizar os regimes especiais de crédito já postos à sua disposição para o efeito.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - As habitações arrendadas propriedade do Instituto de Gestão Financeira da Segurança Social, ou por este geridas, bem como os fogos habitacionais propriedade do Estado afectos à comissão liquidatária do Fundo de Fomento da Habitação, podem ser alienados nos termos do presente diploma, sem prejuízo do regime instituído pelo [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro.
+
+2 - As alienações a que se refere o n.º 1 só podem ser feitas às pessoas referidas nos n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro.
+
+###### Art. 2.º - 1 - O preço da compra e venda do fogo poderá integrar um preço base, e um preço complementar, devido nos termos dos n.os 4 e 5 do artigo 3.º
+
+2 - A propriedade do fogo transmite-se mediante o pagamento do preço base e com a celebração da escritura de compra e venda.
+
+###### Art. 3.º - 1 - O preço base será determinado pela aplicação da seguinte fórmula:
+
+P(índice b) = R x 12 : (0,8 x t)
+
+sendo P(índice b) o preço base, R o valor correspondente a uma renda, calculada nos termos da legislação em vigor para a habitação social, tendo como limite máximo o valor de 1/12 de 20% do rendimento anual do agregado familiar, e t a taxa de juro de depósitos a prazo superior a 1 ano.
+
+2 - Para efeito da determinação da valor R, as pessoas a que se referem os n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961) deverão fazer prova actualizada da composição e dos rendimentos do seu agregado familiar, incluindo a prova do pagamento do imposto complementar ou da sua isenção.
+
+3 - Quando, por aplicação do n.º 1, o preço calculado for inferior a 20% do valor calculado nos termos do artigo 4.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), o preço base da alienação será o resultante da aplicação da referida percentagem àquele valor.
+
+4 - Com a primeira transmissão inter vivos, ou com a adjudicação do fogo no caso de transmissão mortis causa, quando os herdeiros não sejam legitimários, será devido às entidades referidas no artigo 1.º o preço complementar P(índice c), determinado de acordo com a seguinte fórmula:
+
+P(índice c) = V(índice t)(1 - P(índice b)/V) x (1 - n x 0,02)
+
+sendo V(índice t) o valor pago ou declarado nas transmissões onerosas e, nos restantes casos, o valor que então resultar da aplicação do artigo 4.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), P(índice b) o preço base, V o valor do fogo determinado nos termos do artigo 4.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), reportado à data da aquisição às entidades referidas no artigo 1.º deste diploma, e n o número de anos contados a partir da alienação efectivada nos termos do presente diploma, com o máximo de 50.
+
+5 - O preço complementar é também devido na primeira transmissão inter vivos posterior a uma transmissão mortis causa a favor de herdeiros legitimários.
+
+###### Art. 4.º A dívida correspondente ao preço complementar referido no artigo anterior extingue-se 50 anos após a data da escritura de compra e venda.
+
+###### Art. 5.º - 1 - Na primeira transmissão inter vivos dos fogos adquiridos ao abrigo do presente diploma gozam, sucessivamente, do direito de preferência o anterior proprietário referido no artigo 1.º e o município da área da situação do prédio, os quais terão, cada um, um prazo de 30 dias para declarar que o pretendem exercer e mais 90 dias para o efectivar, aplicando-se o n.º 1 do artigo 416.º do Código Civil.
+
+2 - As habitações adquiridas pelo preferente por força do número anterior poderão ser vendidas sem as limitações de preço constantes deste diploma ou do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro.
+
+###### Art. 6.º - 1 - Sobre os fogos adquiridos nos termos do presente diploma incide um ónus de inalienabilidade, que cessará no prazo de 5 anos a contar da data da aquisição ou, decorrido este prazo, provado que for o pagamento do preço complementar previsto nos n.os 4 e 5 do artigo 3.º deste diploma, quando for devido.
+
+2 - A prova do pagamento do preço complementar deverá ser feita por documento emitido pelas entidades referidas no artigo 1.º e terá um prazo de validade de 6 meses.
+
+3 - O ónus de inalienabilidade extingue-se automaticamente no prazo de 50 anos contados da data da aquisição referida no número anterior.
+
+4 - O ónus de inalienabilidade está sujeito a registo e não cessa com a morte ou invalidez do adquirente.
+
+5 - O registo e cancelamento do ónus serão requeridos pelas entidades referidas no artigo 1.º, não sendo devidos quaisquer encargos a qualquer título.
+
+###### Art. 7.º É dispensado o trato sucessivo em relação aos fogos e respectivos terrenos das entidades referidas no artigo 1.º a alienar nos termos deste diploma.
+
+###### Art. 8.º A constituição da propriedade horizontal far-se-á mediante declaração da entidade proprietária referida no artigo 1.º de que estão verificados os respectivos requisitos legais.
+
+###### Art. 9.º - 1 - Quando o terreno em que estão implantados os fogos não pertencer ao proprietário destes, a transmissão far-se-á mediante declaração de concordância do dono do solo, manifestada na própria escritura de compra e venda ou em documento autêntico.
+
+2 - Conforme as infra-estruturas tenham sido executadas pelo proprietário dos fogos ou do terreno, caberá ao proprietário do solo, respectivamente, 5% ou 15% dos valores dos preços calculados de acordo com o artigo 3.º deste diploma ou com o artigo 4.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), conforme a venda se faça nos termos daquele artigo 3.º ou deste artigo 4.º
+
+3 - Na falta de acordo aplicam-se as regras da acessão industrial imobiliária.
+
+4 - A parcela de preço devida ao dono do terreno nos termos dos n.os 2 e 3 deste artigo será determinada da seguinte forma:
+
+a) A percentagem referida no n.º 2 deste artigo aplicada ao valor P(índice b), calculado nos termos do n.º 1 do artigo 3.º, a pagar no momento de alienação pelas entidades proprietárias;
+
+b) A mesma percentagem aplicada ao valor P(índice c) calculada nos termos do n.º 4 do artigo 3.º, a liquidar no momento da transmissão referida naquele artigo.
+
+###### Art. 10.º A competência para a prática dos actos a celebrar ao abrigo deste diploma é atribuída ao cartório privativo para serviços de protesto de letras e outros títulos de crédito, previsto nos n.os 4 e 5 do artigo 13.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro.
+
+###### Art. 11.º Por despacho conjunto dos Ministros do Trabalho e Segurança Social e do Equipamento Social, pode ser cometida à comissão liquidatária do Fundo de Fomento da Habitação ou ao Instituto de Gestão Financeira da Segurança Social, a gestão e venda do património sob gestão ou propriedade dos organismos referidos alienável nos termos do presente diploma.
+
+###### Art. 12.º - 1 - Os fogos adquiridos pelos arrendatários nos termos do presente diploma destinam-se exclusivamente a residência permanente dos adquirentes pelo prazo de 5 anos, contado da data da aquisição.
+
+2 - Decorrido o prazo referido no número anterior, os mesmos fogos, bem como os que forem transmitidos ao abrigo do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), só poderão ser arrendados em regime de renda condicionada.
+
+###### Art. 13.º A iniciativa para as transmissões a efectuar nos termos do presente diploma poderá partir do proprietário ou do arrendatário, devendo, neste último caso, ser junta ao requerimento a prova referida no n.º 2 do artigo 3.º deste diploma.
+
+###### Art. 14.º - 1 - O preço calculado nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961) poderá ser corrigido por iniciativa do interessado, nos termos do n.º 4 do referido artigo, ou por iniciativa do proprietário, quando o valor corrente do fogo, de acordo com a sua situação e suas condições de habitação, deva ser substancialmente acrescido ou diminuído.
+
+2 - A correcção por iniciativa do proprietário deverá ser homologada por despacho do respectivo ministro da tutela.
+
+###### Art. 15.º São nulas as transmissões feitas contra o disposto no presente diploma ou contra o estabelecido no [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961), de 1 de Fevereiro.
+
+###### Art. 16.º O disposto no presente diploma pode ser mandado aplicar a outros casos de habitações arrendadas propriedade do Estado ou de institutos ou de serviços personalizados do Estado, por diploma legal adequado.
+
+###### Art. 17.º As casas de função não poderão ser objecto de alienação aos arrendatários, podendo, porém, ser transmitidas ao respectivo município pelo preço determinado nos termos do [Decreto-Lei n.º 31/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1982-600961).
+
+###### Art. 18.º O presente diploma não se aplica aos fogos arrendados, provenientes do regime de atribuição em propriedade resolúvel.
+
+Visto e aprovado em Conselho de Ministros de 5 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - João Rosado Correia.
+
+**Promulgado em 11 de Julho de 1984.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 16 de Julho de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

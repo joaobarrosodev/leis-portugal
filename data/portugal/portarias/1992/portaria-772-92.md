@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:283899:por
+title: Portaria n.º 772/92
+short_title: null
+summary: Estabelece a forma de designação dos representantes dos interesses sócio-económicos e culturais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 772/92
+official_date: null
+publication_date: '1992-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/1992, Série I-B de 1992-08-07
+  number: '181'
+  series: I
+  supplement: null
+  pages: 3728 - 3729
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/08/181b00/37283729.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/772/1992/08/07/p/dre/pt/html
+  oj: null
+  dre: '283899'
+  dre_path: /dr/detalhe/portaria/772-1992-283899
+  internal: pt:dre:283899:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-1992-283899
+  metadata_url: https://data.dre.pt/eli/port/772/1992/08/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-1992-283899
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-08-07T00:00:00Z'
+integrity:
+  source_sha256: 3bd8cb0e83594c57ab9357ad15a360ea7a7c34bb5382dbf27fe124655e1f2c49
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-772-283899.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração do Ensino
+- Conselho de Gestão
+- Gestão Escolar
+- Conselho Diretivo
+- Estabelecimento de Ensino
+- Ensino Básico
+- Educação Pré-escolar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 772/92
+
+de 7 de Agosto
+
+O novo regime de direcção, administração e gestão dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, consagra uma perspectiva de desenvolvimento educativo global assente na óptica integrada do desenvolvimento local e regional, o que implica o reforço da articulação da escola com a comunidade educativa em que se insere.
+
+Considera-se, assim, que o conselho de escola ou de área escolar, conforme o caso, devem passar a integrar representantes designados pelas próprias associações sócio-económicas e culturais que desenvolvem as suas actividades na localidade onde se situa a escola, limitando-se a escola a dinamizar e promover o processo para tal designação.
+
+Por outro lado, as confederações ou associações de âmbito nacional ou regional não podem deixar de ser consideradas para o efeito sempre que, independentemente da sua esfera de acção directa, tenham a sua sede na área geográfica da escola, não sendo de menosprezar a contribuição e influência que, em tal caso, representam para a comunidade educativa.
+
+Assim, ao abrigo do disposto na alínea e) do n.º 2 do artigo 49.º do [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Objecto
+
+1 - A presente portaria estabelece a forma de designação dos representantes dos interesses sócio-económicos e culturais, previstos nas alíneas f) e g) do artigo 9.º do [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, no conselho de escola.
+
+2 - As referências à escola, conselho de escola, ou ao presidente do conselho de escola, constantes da presente portaria, consideram-se extensivas à área escolar, conselho de área escolar, ou ao presidente do conselho de área escolar, respectivamente.
+
+2.º
+
+Representante dos interesses sócio-económicos
+
+1 - É representante dos interesses sócio-económicos no conselho de escola o elemento designado para o efeito pelos organismos representativos de interesses sócio-económicos que tenham a sua sede, ou desenvolvam a sua actividade, no espaço geográfico servido pela escola.
+
+2 - Para efeitos do disposto no número anterior consideram-se, designadamente, os seguintes organismos representativos:
+
+a) Associações de empresas e cooperativas industriais, comerciais e agrícolas;
+
+b) Associações de defesa do ambiente;
+
+c) Associações de defesa dos consumidores;
+
+d) Instituições particulares de solidariedade social;
+
+e) Pessoas colectivas de utilidade pública administrativa;
+
+f) Associações e institutos religiosos.
+
+3.º
+
+Representante dos interesses culturais
+
+1 - É representante dos interesses culturais no órgão de direcção da escola o elemento designado para o efeito pelos organismos representativos de interesses morais e culturais que tenham a sua sede, ou desenvolvam a sua actividade, no espaço geográfico servido pela escola.
+
+2 - Para efeitos do disposto no número anterior, consideram-se representativas, designadamente, as pessoas colectivas de mera utilidade pública, tais como clubes desportivos, colectividades de cultura e recreio e associações científicas.
+
+4.º
+
+Publicitação
+
+1 - Ao presidente do conselho de escola em exercício, ou ao seu substituto legal, compete promover as acções tendentes à designação do representante dos interesses sócio-económicos e culturais no conselho de escola.
+
+2 - Para efeitos do disposto no número anterior, o presidente do conselho de escola providenciará a publicação de edital nos principais órgãos de comunicação social de expansão local ou regional, onde se convidem as organizações representativas dos interesses sócio-económicos e culturais, na área geográfico da escola, a apresentar a sua candidatura à designação de representantes no conselho de escola.
+
+3 - As respostas devem ser enviadas à escola pelas organizações interessadas dentro do prazo fixado no edital referido no número anterior, o qual não deve ser inferior a 15 dias.
+
+4 - Simultaneamente com a publicação do edital, o presidente do conselho de escola dirigirá, para os mesmos efeitos, convite escrito às organizações mais representativas no âmbito da área geográfica da escola, esclarecendo quanto à configuração e importância da participação no órgão de direcção da escola.
+
+5 - Para efeitos do disposto nos números anteriores, o presidente do conselho de escola pode solicitar a colaboração dos órgãos administrativos e pedagógicos da escola.
+
+5.º
+
+Designação
+
+1 - No caso de, no termo do prazo estabelecido, apenas uma entidade se ter candidatado à representação do mesmo tipo de interesses, o presidente do conselho de escola notificá-la-á para, no prazo de 10 dias, proceder à designação do representante no conselho de escola.
+
+2 - Havendo mais de uma entidade candidata à representação do mesmo tipo de interesses, o presidente do conselho de escola promoverá a realização de um encontro entre as diversas entidades envolvidas, tendo em vista obter uma designação consensual.
+
+3 - Na falta de designação dos representantes sócio-económicos e culturais nos 15 dias posteriores à designação dos restantes membros do conselho de escola, deve o seu presidente comunicar o facto à direcção regional competente, a fim de esta promover diligências adicionais tendentes àquela designação.
+
+4 - O processo a que se referem os números anteriores deve orientar-se por critérios de alternância e representatividade, aferindo-se esta através da ponderação, designadamente, dos seguintes factores:
+
+a) Número de associados;
+
+b) Peso específico na vida sócio-económica e cultural local;
+
+c) Participação em projectos de desenvolvimento local;
+
+d) Cooperação estabelecida anteriormente com a escola.
+
+6.º
+
+Posse
+
+Os representantes dos interesses sócio-económicos e culturais tomam posse perante o presidente do conselho de escola no prazo de sete dias após a comunicação à escola da sua designação.
+
+7.º
+
+Norma transitória
+
+Até à constituição do conselho de escola nos termos do [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, as funções atribuídas pelo presente diploma ao presidente do conselho de escola serão desempenhadas pelos delegados escolares e presidentes dos conselhos directivos ou comissões instaladoras em exercício.
+
+8.º
+
+Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Educação.
+
+**Assinada em 20 de Julho de 1992.**
+
+**O Ministro da Educação, António Fernando Couto dos Santos.**

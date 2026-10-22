@@ -1,0 +1,1254 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:911303063:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-911486583",
+ "dre_path": "/dr/detalhe/decreto-lei/21-2025-911303063",
+ "source_lastmod": "2026-05-04",
+ "versions": [
+  {
+   "date": "2026-05-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1102472595:por",
+     "title": "Decreto-Lei n.º 93/2026",
+     "published": "2026-04-30",
+     "dre_path": "/dr/detalhe/decreto-lei/93-2026-1102472595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 52.º",
+    "Altera Artigo 53.º"
+   ],
+   "fragments": [
+    "911487575",
+    "911487576",
+    "911487577",
+    "911487578",
+    "911487579",
+    "911487580",
+    "911487581",
+    "911487582",
+    "911487583",
+    "911487584",
+    "911487585",
+    "911487586",
+    "1104044275",
+    "911487588",
+    "911487589",
+    "911487590",
+    "911487591",
+    "911487592",
+    "911487593",
+    "911487594",
+    "911487595",
+    "911487596",
+    "911487597",
+    "911487598",
+    "911487599",
+    "911487600",
+    "911487601",
+    "911487602",
+    "911487603",
+    "911487604",
+    "911487605",
+    "911487606",
+    "911487607",
+    "911487608",
+    "911487609",
+    "911487610",
+    "911487611",
+    "911487612",
+    "911487613",
+    "911487614",
+    "911487615",
+    "911487616",
+    "911487617",
+    "911487618",
+    "911487619",
+    "911487620",
+    "911487621",
+    "911487622",
+    "911487623",
+    "911487624",
+    "911487625",
+    "911487626",
+    "911487627",
+    "911487628",
+    "911487629",
+    "911487630",
+    "911487631",
+    "911487632",
+    "911487633",
+    "911487634",
+    "911487635",
+    "911487636",
+    "1104044475",
+    "911487638",
+    "911487639",
+    "911487640",
+    "1104044675",
+    "1104044875",
+    "911487643",
+    "911487644",
+    "911487645",
+    "911487646",
+    "911487647",
+    "911487648",
+    "911487649",
+    "911487650",
+    "911487651",
+    "915239868",
+    "911487652",
+    "911487653",
+    "911487654",
+    "911487655",
+    "911487656",
+    "911487657",
+    "911487658",
+    "911487659",
+    "911487660",
+    "911487661",
+    "911487662",
+    "911487663",
+    "911487664",
+    "911487665",
+    "911487666",
+    "911487667",
+    "911487668",
+    "911487669",
+    "911487670",
+    "911487671",
+    "911487672",
+    "911487673",
+    "911487674",
+    "911487775",
+    "911487776",
+    "911487777",
+    "911487778",
+    "911487779",
+    "911487780",
+    "911487781",
+    "911487782",
+    "911487783",
+    "911487784",
+    "911487785",
+    "911487786",
+    "911487787",
+    "911487788",
+    "911487789",
+    "911487790",
+    "911487791",
+    "911487792",
+    "911487793",
+    "911487794",
+    "911487795",
+    "911487796",
+    "911487797",
+    "911487798",
+    "911487799",
+    "911487800",
+    "911487801",
+    "911487802",
+    "911487803",
+    "911487804",
+    "911487805",
+    "911487806",
+    "911487807",
+    "911487808"
+   ]
+  }
+ ],
+ "fragments": {
+  "911487575": {
+   "fragment_id": "911486584",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 21/2025\n\nde 18 de março\n\nAs alterações que se verificaram no último quarto de século, desde que foi aprovado o Decreto-Lei n.º 40-A/98, de 27 de fevereiro, que define o estatuto profissional dos funcionários do quadro do serviço diplomático, determinam a necessidade de proceder a uma reforma global do conjunto de regras aplicável à carreira diplomática.\n\nNo plano externo, destaca-se o reforço da ação externa da União Europeia, consagrada de forma decisiva pelo Tratado de Lisboa, particularmente com a inovação traduzida na criação do Serviço Europeu para a Ação Externa. Por outro lado, tem-se assistido ao desenvolvimento das competências e raio de ação das diversas organizações internacionais e a forte presença portuguesa em termos de representantes eleitos para cargos de destaque nas mesmas. Ora, estas dimensões têm representado uma crescente necessidade de dispor de mais funcionários diplomáticos para desempenharem funções, ainda que temporariamente, nessas organizações.\n\nAcresce que a evolução dos serviços prestados pelo Estado aos seus cidadãos, a maior exigência na prestação desses serviços e o aumento das funções que passaram a estar confiadas aos funcionários diplomáticos determinam, também, uma muito maior exigência a estes funcionários, especialmente quando colocados na rede externa.\n\nOra, a conjugação destas duas vertentes - externa e interna - determinam a necessidade de revisitar as regras aplicáveis à carreira diplomática, de forma a assegurar um quadro de recursos humanos que permita implementar os objetivos decorrentes desta nova conjuntura e as garantias daí decorrentes em termos da melhor utilização dos recursos públicos.\n\nForam ouvidos a Associação Sindical dos Diplomatas Portugueses e o Conselho Diplomático.\n\nO presente decreto-lei foi publicado na separata do Boletim do Trabalho e Emprego, n.º 26, de 17 de dezembro de 2024.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 22-A/2025, de 6 de março, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "911487576": {
+   "fragment_id": "911486585",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "911487577": {
+   "fragment_id": "911486586",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei define o estatuto profissional dos trabalhadores integrados na carreira diplomática (estatuto), adiante designados por diplomatas.\n\n2 - O estatuto prevê uma política de igualdade de oportunidades no acesso à carreira diplomática e na respetiva progressão e promoção profissional, contribuindo para a prevenção, combate e eliminação de todas e quaisquer formas de discriminação, designadamente entre homens e mulheres."
+  },
+  "911487578": {
+   "fragment_id": "911486587",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO estatuto aplica-se a todos os diplomatas, qualquer que seja a situação em que se encontrem."
+  },
+  "911487579": {
+   "fragment_id": "911486588",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidade e especificidade da carreira diplomática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Unidade e especificidade da carreira diplomática\n\nA carreira diplomática é uma carreira especial dos trabalhadores em funções públicas, que assegura a unidade da ação externa e que se caracteriza:\n\na) Pelo seu conteúdo funcional específico necessário à adequada defesa, proteção e promoção dos interesses de Portugal no plano europeu e internacional;\n\nb) Pelos especiais deveres funcionais de representação dos interesses de Portugal e das comunidades portuguesas no estrangeiro a que se encontram sujeitos os diplomatas, nos termos do presente decreto-lei;\n\nc) Pela mobilidade que caracteriza o exercício das funções diplomáticas indistintamente em Portugal e no estrangeiro;\n\nd) Pela sua natureza pluricategorial;\n\ne) Por regras específicas de recrutamento e de acesso a categoria superior, independentemente das funções que os diplomatas sejam chamados a desempenhar;\n\nf) Pela exigência de aprovação em curso de formação específico no decurso do período experimental, para efeitos de integração definitiva."
+  },
+  "911487580": {
+   "fragment_id": "911486589",
+   "type": 11,
+   "heading": "Artigo 4.º — Categorias da carreira diplomática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Categorias da carreira diplomática\n\n1 - A carreira diplomática integra as seguintes categorias:\n\na) Embaixador/a;\n\nb) Ministro/a plenipotenciário/a;\n\nc) Conselheiro/a de embaixada;\n\nd) Secretário/a de embaixada;\n\ne) Adido/a de embaixada.\n\n2 - Os ministros plenipotenciários:\n\na) Com três ou mais anos de categoria são designados ministros plenipotenciários de 1.ª classe;\n\nb) Com menos de três anos de categoria são designados ministros plenipotenciários de 2.ª classe.\n\n3 - Os secretários de embaixada:\n\na) Com seis ou mais anos de categoria são designados primeiros-secretários de embaixada;\n\nb) Entre três e cinco anos de categoria são designados segundos-secretários de embaixada;\n\nc) Com menos de três anos de categoria são designados terceiros-secretários de embaixada."
+  },
+  "911487581": {
+   "fragment_id": "911486590",
+   "type": 11,
+   "heading": "Artigo 5.º — Funções diplomáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funções diplomáticas\n\n1 - À carreira diplomática corresponde um conteúdo funcional comum, de apoio à formulação, de coordenação e de execução da política externa de Portugal, que se diferencia pelo aumento da autonomia, da complexidade funcional e da responsabilidade em cada uma das categorias, aos quais são atribuídos conteúdos funcionais específicos, exercidos no respeito pela Constituição e pela lei.\n\n2 - Sem prejuízo das atribuições próprias do serviço interno ou periférico externo ou organismo em que estejam colocados, compete aos diplomatas, no âmbito da preparação, coordenação e execução da política externa do Estado:\n\na) A promoção e defesa dos interesses do Estado e da sua representação no plano internacional;\n\nb) A proteção, no estrangeiro, dos direitos dos cidadãos portugueses;\n\nc) A negociação para a promoção e defesa dos interesses nacionais;\n\nd) A recolha e o tratamento de informação para apoio à formulação e execução da política externa portuguesa;\n\ne) A promoção da língua e da cultura portuguesas no estrangeiro;\n\nf) A promoção dos interesses económicos nacionais no estrangeiro.\n\n3 - O exercício de funções de caráter técnico e especializado, em qualquer serviço ou organismo dirigido, tutelado ou coordenado pelo Ministério dos Negócios Estrangeiros (MNE), pode ser também confiado aos diplomatas, de harmonia com as disposições do presente decreto-lei.\n\n4 - Os diplomatas podem ainda exercer funções diplomáticas ou ocupar cargos no Serviço Europeu para a Ação Externa (SEAE) e em organismos e instituições internacionais, nos termos do presente decreto-lei."
+  },
+  "911487582": {
+   "fragment_id": "911486591",
+   "type": 11,
+   "heading": "Artigo 6.º — Exercício de funções diplomáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exercício de funções diplomáticas\n\n1 - Os diplomatas estão sujeitos a uma obrigação de mobilidade global, desempenhando, indistintamente, as suas funções em Portugal e no estrangeiro, de acordo com os objetivos e interesses da política externa e em harmonia com as disposições do presente decreto-lei.\n\n2 - Os diplomatas podem ser colocados em qualquer serviço ou organismo dirigido, tutelado ou coordenado pelo MNE, sem necessidade de atribuição de lugares de direção.\n\n3 - Os cargos de secretário-geral e de direção superior de 1.º grau ou equiparados dos serviços internos do MNE são preenchidos por diplomatas, com exceção dos casos previstos na lei.\n\n4 - O exercício de funções diplomáticas nos serviços periféricos externos cabe aos diplomatas, com exceção dos casos previstos no presente decreto-lei e na lei.\n\n5 - Os diplomatas podem ainda, nos termos do presente decreto-lei, exercer funções em gabinetes de membros do Governo, junto de outros órgãos de soberania, outros serviços ou organismos da administração central, direta e indireta, e demais entidades de natureza pública.\n\n6 - Os diplomatas que exerçam funções nos termos do número anterior continuam, com as necessárias adaptações, vinculados aos deveres e princípios específicos da carreira diplomática previstos no presente decreto-lei."
+  },
+  "911487583": {
+   "fragment_id": "911486592",
+   "type": 11,
+   "heading": "Artigo 7.º — Exclusividade e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exclusividade e incompatibilidades\n\n1 - Os diplomatas no ativo, na situação de disponibilidade ou jubilados ficam sujeitos ao regime de exclusividade, sem prejuízo do direito à gestão de bens próprios, no quadro da qual podem, exceto se se encontrarem no ativo, desempenhar funções não executivas em órgãos de sociedades comerciais.\n\n2 - Mediante autorização do secretário-geral, os diplomatas podem exercer, a tempo parcial, atividades de investigação ou de natureza docente em estabelecimentos de ensino superior e universitário e em instituições de investigação, nos termos da lei.\n\n3 - Os diplomatas em exercício de cargos ou funções nos serviços periféricos externos estão sujeitos à regra de exclusividade enunciada no presente artigo, com as especiais exigências impostas pelo direito internacional público.\n\n4 - Sem prejuízo do disposto no número anterior, os cargos de chefe de missão ou de posto consular exercidos por diplomatas ficam sujeitos ao regime do exercício de funções por titulares de altos cargos públicos."
+  },
+  "911487584": {
+   "fragment_id": "911486593",
+   "type": 1,
+   "heading": "Capítulo II — DA CARREIRA DIPLOMÁTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — DA CARREIRA DIPLOMÁTICA"
+  },
+  "911487585": {
+   "fragment_id": "911486594",
+   "type": 8,
+   "heading": "Secção I — ÓRGÃOS DE GESTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — ÓRGÃOS DE GESTÃO"
+  },
+  "911487586": {
+   "fragment_id": "911486595",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos de gestão da carreira diplomática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos de gestão da carreira diplomática\n\nSão órgãos de gestão da carreira diplomática:\n\na) O Conselho Diplomático;\n\nb) O secretário-geral."
+  },
+  "1104044275": {
+   "fragment_id": "911486596",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho Diplomático",
+   "in_force_from": "2026-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+   ],
+   "markdown": "###### Artigo 9.º — Conselho Diplomático\n\n1 - O Conselho Diplomático é um órgão colegial composto por diplomatas membros por inerência e por membros eleitos.\n\n2 - São membros por inerência do Conselho Diplomático, para além do secretário-geral que a ele preside, os diplomatas que exercem a direção dos seguintes serviços:\n\na) Direção-Geral de Política Externa;\n\nb) Inspeção-Geral Diplomática e Consular;\n\nc) Direção-Geral dos Assuntos Europeus;\n\nd) Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas;\n\ne) Protocolo do Estado;\n\nf) Departamento Geral de Administração;\n\ng) Instituto Diplomático.\n\n3 - São também membros por inerência do Conselho Diplomático o diplomata que integra o conselho de administração da Agência para o Investimento e o Comércio Externo, E. P. E., e o diplomata que integra o conselho diretivo do Camões - Instituto da Cooperação e da Língua, I. P.\n\n4 - São membros eleitos do Conselho Diplomático:\n\na) Um representante eleito pela categoria de embaixador;\n\nb) Dois representantes eleitos pela categoria de ministro plenipotenciário;\n\nc) Dois representantes eleitos pela categoria de conselheiro de embaixada;\n\nd) Dois representantes eleitos pela categoria de secretário de embaixada;\n\ne) Um representante eleito pela categoria de adido de embaixada.\n\n5 - Os membros do Conselho Diplomático referidos no número anterior são eleitos por sufrágio secreto e universal, em eleições realizadas nos termos do regulamento interno a aprovar por despacho do membro do Governo responsável pela área dos negócios estrangeiros.\n\n6 - Só podem integrar o Conselho Diplomático os diplomatas colocados nos serviços internos ou em organismos dirigidos, tutelados ou coordenados pelo membro do Governo responsável pela área dos negócios estrangeiros.\n\n7 - Os membros por inerência do Conselho Diplomático só podem ser substituídos por diplomatas que sejam seus substitutos legais e titulares de cargos de direção superior de 2.º grau ou de direção intermédia de 1.º grau.\n\n8 - O membro do Governo responsável pela área dos negócios estrangeiros convoca e preside, anualmente, a uma reunião dedicada à análise da política externa e das suas orientações.\n\n9 - O secretário-geral pode, sempre que tal se justifique em razão da ordem de trabalhos, convidar para participar no Conselho Diplomático, sem direito a voto, titulares de cargos de direção superior ou de direção intermédia de 1.º grau ou equiparados de serviço ou organismo dirigido, tutelado ou coordenado pelo membro do Governo responsável pela área dos negócios estrangeiros.\n\n10 - O Conselho Diplomático é secretariado por um diplomata e pode ser assessorado por um trabalhador do mapa de pessoal do MNE, detentor de licenciatura em Direito, ambos designados pelo secretário-geral e sem direito a voto.\n\n11 - As deliberações do Conselho Diplomático são tomadas por votação nominal e maioria simples, salvo se o próprio Conselho decidir em sentido diferente.\n\n12 - Das reuniões do Conselho Diplomático são obrigatoriamente lavradas atas.\n\n13 - O funcionamento do Conselho Diplomático rege-se por regulamento interno, aprovado por despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do Conselho Diplomático.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+  },
+  "911487588": {
+   "fragment_id": "911486597",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do Conselho Diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do Conselho Diplomático\n\n1 - Compete ao Conselho Diplomático:\n\na) Emitir parecer sobre o plano de gestão anual da carreira diplomática elaborado pelo secretário-geral;\n\nb) Dar parecer, tendo em atenção as necessidades de pessoal diplomático do MNE, sobre a oportunidade de abertura de procedimento concursal de ingresso na carreira diplomática e sobre o número de vagas a preencher;\n\nc) Dar parecer sobre a proposta do Instituto Diplomático de confirmação dos adidos de embaixada ao membro do Governo responsável pela área dos negócios estrangeiros e respetiva ordenação para efeitos de nomeação definitiva como secretários de embaixada, bem como, se assim for o caso, a cessação da nomeação transitória no termo do período experimental;\n\nd) Dar parecer sobre o plano anual de formação diplomática do Instituto Diplomático;\n\ne) Estabelecer a lista de promoções a ministro plenipotenciário;\n\nf) Dar parecer sobre a suspensão de funções de diplomatas para o desempenho de funções suscetíveis de revestirem interesse público;\n\ng) Propor ao membro do Governo responsável pela área dos negócios estrangeiros os cargos diplomáticos e consulares que devem ser equiparados a chefia de missão;\n\nh) Elaborar propostas de colocação e transferência de diplomatas, com exceção dos chefes de missão diplomática ou diretores-gerais ou equiparados;\n\ni) Propor ao membro do Governo responsável pela área dos negócios estrangeiros, até 31 de agosto, a classificação dos serviços periféricos externos, a cada cinco anos ou sempre que a alteração de condições o justifique;\n\nj) Dar parecer sobre as propostas de alteração das redes diplomática e consular;\n\nk) Dar parecer sobre a proposta anual do secretário-geral de abonos para os diplomatas colocados nos serviços externos.\n\n2 - Cabe ainda ao Conselho Diplomático propor ou dar parecer sobre iniciativas legislativas respeitantes ao MNE e à carreira diplomática, bem como pronunciar-se sobre quaisquer outras questões que lhe sejam submetidas para apreciação."
+  },
+  "911487589": {
+   "fragment_id": "911486598",
+   "type": 11,
+   "heading": "Artigo 11.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Secretário-geral\n\n1 - O secretário-geral é o mais elevado cargo dirigente na hierarquia do MNE, cabendo-lhe exercer as competências que decorrem do presente decreto-lei, bem como as que lhe sejam atribuídas pela lei e as que lhe sejam delegadas ou subdelegadas.\n\n2 - O secretário-geral é designado de entre diplomatas com a categoria de embaixador."
+  },
+  "911487590": {
+   "fragment_id": "911486599",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do secretário-geral\n\nSem prejuízo de outras competências previstas na lei, compete ao secretário-geral como órgão de gestão da carreira diplomática:\n\na) Prestar o apoio necessário ao membro do Governo responsável pela área dos negócios estrangeiros;\n\nb) Dirigir e supervisionar a atividade de gestão dos recursos humanos, patrimoniais e financeiros do Ministério, de modo a garantir o seu normal funcionamento;\n\nc) Convocar e presidir ao Conselho Coordenador Político-Diplomático;\n\nd) Convocar e presidir ao Conselho Diplomático;\n\ne) Apresentar anualmente ao membro do Governo responsável pela área dos negócios estrangeiros um plano de gestão, visando uma repartição equilibrada dos recursos afetos aos serviços internos e periféricos externos, nos termos do artigo 53.º;\n\nf) Propor ao membro do Governo responsável pela área dos negócios estrangeiros, ouvido o Conselho Diplomático, a abertura de procedimento concursal de ingresso na carreira diplomática;\n\ng) Propor ao membro do Governo responsável pela área dos negócios estrangeiros a abertura de procedimento concursal de acesso à categoria de conselheiro de embaixada;\n\nh) Apresentar ao membro do Governo responsável pela área dos negócios estrangeiros a lista de promoções a ministro plenipotenciário;\n\ni) Propor ao membro do Governo responsável pela área dos negócios estrangeiros a colocação de diplomatas para missões extraordinárias de serviço diplomático;\n\nj) Propor ao membro do Governo responsável pela área dos negócios estrangeiros, ouvido o Conselho Diplomático, o encurtamento ou a prorrogação dos prazos de permanência dos diplomatas nos serviços internos ou periféricos externos;\n\nk) Aprovar o plano anual de formação diplomática do Instituto Diplomático;\n\nl) Autorizar os diplomatas a apresentarem candidaturas para o exercício de cargos e funções no SEAE;\n\nm) Dar posse aos diplomatas nos casos legalmente previstos e sempre que a competência não se encontre atribuída a outro órgão;\n\nn) Exercer as competências no âmbito disciplinar previstas na lei e no presente decreto-lei;\n\no) Exercer as competências no âmbito da avaliação do desempenho dos diplomatas previstas na lei e no presente decreto-lei."
+  },
+  "911487591": {
+   "fragment_id": "911486600",
+   "type": 8,
+   "heading": "Secção II — RECRUTAMENTO, SELEÇÃO E INGRESSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — RECRUTAMENTO, SELEÇÃO E INGRESSO"
+  },
+  "911487592": {
+   "fragment_id": "911486601",
+   "type": 11,
+   "heading": "Artigo 13.º — Condições de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições de ingresso\n\n1 - O ingresso na carreira diplomática realiza-se sempre pela categoria de adido de embaixada, mediante procedimento concursal composto por provas públicas, aberto nos termos da lei, do regulamento e do aviso de abertura aprovados por despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do secretário-geral, ouvido o Conselho Diplomático.\n\n2 - Ao procedimento concursal podem candidatar-se todos os cidadãos portugueses que preencham os requisitos exigidos para a constituição do vínculo de emprego público na modalidade de nomeação e sejam titulares de licenciatura ou de grau académico superior conferidos por instituições de ensino universitário portuguesas, ou diploma estrangeiro legalmente equiparado.\n\n3 - O prazo de validade do procedimento concursal esgota-se com o preenchimento das vagas postas a concurso ou, no caso de o número de candidatos aprovado ter sido inferior ao número daquelas vagas, com a nomeação dos candidatos aprovados.\n\n4 - Do regulamento do procedimento concursal constam, designadamente, a composição do júri, os parâmetros de avaliação, os fatores de ponderação atribuídos a cada uma das provas escritas, orais e de avaliação psicológica que o compõem, os métodos e critérios de seleção, os prazos e o regime de garantias impugnatórias.\n\n5 - Pela apresentação da candidatura é devido o pagamento de comparticipação no custo do procedimento, em montante a fixar no regulamento previsto no número anterior."
+  },
+  "911487593": {
+   "fragment_id": "911486602",
+   "type": 11,
+   "heading": "Artigo 14.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Período experimental\n\n1 - Os candidatos aprovados no procedimento concursal de ingresso são nomeados, em período experimental, por dois anos, como adidos de embaixada, segundo a ordem da respetiva classificação e dentro do limite do número de vagas postas a concurso.\n\n2 - Cabe ao membro do Governo responsável pela área dos negócios estrangeiros homologar os resultados do procedimento concursal de ingresso como adidos de embaixada, devendo a nomeação individual dos candidatos aprovados ser efetuada mediante lista conjunta publicada no Diário da República, com a assinatura do secretário-geral.\n\n3 - O período experimental inclui a frequência de um curso de formação diplomática e o desempenho de funções em, pelo menos, dois serviços ou organismos dirigidos, tutelados ou coordenados pelo MNE e pode ser complementado pelo exercício de funções de duração acumulada não superior a 60 dias em missões diplomáticas, representações permanentes ou postos consulares.\n\n4 - O curso referido no número anterior é ministrado pelo Instituto Diplomático e regulamentado por despacho do membro do Governo responsável pela área dos negócios estrangeiros.\n\n5 - O exercício de funções em gabinetes de membros do Governo e junto de outros órgãos de soberania, outros serviços ou organismos da administração central, direta e indireta, e demais entidades de natureza pública não dirigidas, tuteladas ou coordenadas pelo MNE suspende a contagem do período experimental."
+  },
+  "911487594": {
+   "fragment_id": "911486603",
+   "type": 11,
+   "heading": "Artigo 15.º — Confirmação ou exoneração dos adidos de embaixada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Confirmação ou exoneração dos adidos de embaixada\n\n1 - Concluído o período experimental, o Conselho Diplomático pronuncia-se, sob proposta do Instituto Diplomático, no prazo máximo de 30 dias, fundamentando a sua apreciação sobre a aptidão e adequação de cada adido de embaixada ao exercício de funções diplomáticas, tomando em consideração os resultados da formação e o respetivo desempenho.\n\n2 - Cabe ao membro do Governo responsável pela área dos negócios estrangeiros homologar a proposta de confirmação dos adidos de embaixada apresentada pelo Conselho Diplomático no prazo de 10 dias, devendo a nomeação individual dos candidatos aprovados ser efetuada mediante lista conjunta publicada no Diário da República, com a assinatura do secretário-geral.\n\n3 - Sob proposta do secretário-geral, ouvido o Conselho Diplomático, podem ser imediatamente exonerados pelo membro do Governo responsável pela área dos negócios estrangeiros os adidos de embaixada que não sejam aprovados no curso de formação diplomática ministrado pelo Instituto Diplomático ou cujo perfil não seja considerado apto ou adequado ao exercício de funções diplomáticas pelo Conselho Diplomático.\n\n4 - A exoneração de adidos de embaixada nos termos do número anterior determina a cessação automática do vínculo de emprego público, sem direito a qualquer indemnização ou compensação, ou, caso sejam titulares de relação jurídica de emprego público, o regresso à situação jurídico-funcional de origem."
+  },
+  "911487595": {
+   "fragment_id": "911486604",
+   "type": 11,
+   "heading": "Artigo 16.º — Nomeação definitiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Nomeação definitiva\n\n1 - Os adidos de embaixada que sejam confirmados nos termos do disposto no artigo anterior são nomeados definitivamente como secretários de embaixada.\n\n2 - A ordenação dos secretários de embaixada nomeados definitivamente de harmonia com o disposto no número anterior é estabelecida pelo Conselho Diplomático, atendendo à classificação obtida no procedimento concursal de ingresso, aos resultados alcançados no curso de formação diplomática e às menções qualitativas de avaliação do desempenho de que foram objeto enquanto adidos de embaixada."
+  },
+  "911487596": {
+   "fragment_id": "911486605",
+   "type": 8,
+   "heading": "Secção III — PROGRESSÃO E PROMOÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — PROGRESSÃO E PROMOÇÃO"
+  },
+  "911487597": {
+   "fragment_id": "911486606",
+   "type": 11,
+   "heading": "Artigo 17.º — Regra geral de progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regra geral de progressão\n\n1 - A progressão processa-se dentro de cada categoria, com exceção da categoria de adido de embaixada, pela passagem à posição remuneratória imediatamente seguinte nos termos do sistema próprio da avaliação de desempenho dos diplomatas, a definir nos termos da lei em vigor.\n\n2 - A atribuição de classificação negativa no âmbito da avaliação de desempenho determina a não consideração do tempo de serviço prestado com essa classificação para efeitos de progressão."
+  },
+  "911487598": {
+   "fragment_id": "911486607",
+   "type": 11,
+   "heading": "Artigo 18.º — Formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Formalidades\n\n1 - A progressão é automática e oficiosa, não dependendo de requerimento do diplomata interessado e devendo os serviços processá-la oficiosamente.\n\n2 - A alteração do posicionamento remuneratório por progressão reporta-se a 1 de janeiro do ano em que ocorre, dependendo o seu abono da confirmação das condições legais por parte dos serviços competentes do MNE."
+  },
+  "911487599": {
+   "fragment_id": "911486608",
+   "type": 11,
+   "heading": "Artigo 19.º — Regra geral de promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regra geral de promoção\n\n1 - A alteração de categoria na carreira diplomática faz-se mediante procedimento de promoção que visa apurar o mérito dos diplomatas da categoria anterior, que reúnam as condições de acesso à categoria seguinte, procurando promover uma representação equilibrada entre homens e mulheres.\n\n2 - A atribuição de classificação negativa no âmbito da avaliação de desempenho determina a não consideração do tempo de serviço prestado com essa classificação para efeitos de contagem de tempo para acesso à categoria seguinte."
+  },
+  "911487600": {
+   "fragment_id": "911486609",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso à categoria de conselheiro de embaixada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso à categoria de conselheiro de embaixada\n\n1 - O procedimento concursal de acesso à categoria de conselheiro de embaixada é aberto anualmente, no decurso do segundo semestre, para o número de vagas fixado por despacho do membro do Governo responsável pela área dos negócios estrangeiros, até ao limite das vagas existentes.\n\n2 - Ao procedimento concursal podem candidatar-se os secretários de embaixada que não se encontrem na disponibilidade e que:\n\na) Detenham um mínimo de 12 anos de tempo de serviço efetivo na carreira diplomática;\n\nb) Tenham exercido funções nos serviços periféricos externos por período não inferior a seis anos.\n\n3 - O procedimento concursal compreende a avaliação do mérito dos secretários de embaixada candidatos, com base na análise dos respetivos processos individuais, que incluem a avaliação de desempenho, os percursos curriculares, uma entrevista pessoal e a frequência com aproveitamento de formação profissional na área da gestão de equipas, disponibilizada pelo MNE.\n\n4 - O júri é composto por um número ímpar de membros e é presidido pelo diplomata que dirige o Instituto Diplomático ou por um diplomata designado pelo secretário-geral, com a categoria de embaixador ou de ministro plenipotenciário.\n\n5 - Do regulamento do procedimento concursal, a aprovar por portaria do membro do Governo responsável pela área dos negócios estrangeiros, mediante proposta do secretário-geral, ouvido o Conselho Diplomático, constam, nomeadamente, a composição do júri, os prazos de apresentação de candidaturas e os documentos a apresentar, os critérios de avaliação, os fatores de ponderação do mérito e o sistema de classificação final.\n\n6 - Os secretários de embaixada aprovados são nomeados na categoria de conselheiro de embaixada segundo a ordem da sua classificação, preenchendo as vagas existentes postas a concurso.\n\n7 - Em caso de igualdade de classificações prevalece na ordenação o critério da maior antiguidade na categoria de secretário de embaixada.\n\n8 - Cabe ao membro do Governo responsável pela área dos negócios estrangeiros homologar os resultados do procedimento concursal de acesso à categoria de conselheiro de embaixada, devendo a nomeação individual dos candidatos aprovados ser efetuada mediante lista conjunta publicada no Diário da República, com a assinatura do secretário-geral."
+  },
+  "911487601": {
+   "fragment_id": "911486610",
+   "type": 11,
+   "heading": "Artigo 21.º — Acesso à categoria de ministro plenipotenciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acesso à categoria de ministro plenipotenciário\n\n1 - O procedimento de promoção à categoria de ministro plenipotenciário é realizado anualmente, no decurso do primeiro semestre, para o número de vagas abertas no decurso do ano anterior.\n\n2 - O acesso à categoria de ministro plenipotenciário é aberto aos conselheiros de embaixada que não se encontrem na disponibilidade e que, em 31 de dezembro do ano anterior, reúnam os seguintes requisitos:\n\na) Deter cinco anos de serviço efetivo na categoria de conselheiro de embaixada;\n\nb) Ter exercido funções nos serviços periféricos externos por período não inferior a oito anos;\n\nc) Ter exercido funções em serviço periférico externo de classe C ou D ou em serviço equiparado do SEAE;\n\nd) Ter frequentado com aproveitamento uma formação profissional na área da liderança, disponibilizada pelo MNE.\n\n3 - O mérito de todos os conselheiros de embaixada em condições de promoção é apreciado pelo Conselho Diplomático com base na análise dos respetivos processos individuais, que incluem a avaliação de desempenho, dos percursos curriculares e da apresentação de uma carta de motivação.\n\n4 - A classificação final do procedimento de promoção a ministro plenipotenciário é estabelecida pelo Conselho Diplomático, devendo tal proposta ser objeto de fundamentação e publicação.\n\n5 - As promoções a ministro plenipotenciário são efetuadas por despacho do membro do Governo responsável pela área dos negócios estrangeiros.\n\n6 - Os critérios de avaliação do mérito dos conselheiros de embaixada a que o Conselho Diplomático deve atender na elaboração da lista anual de promoções à categoria de ministro plenipotenciário são fixados por portaria do membro do Governo responsável pela área dos negócios estrangeiros, mediante proposta do secretário-geral, ouvido o Conselho Diplomático.\n\n7 - Em caso de igualdade de classificações prevalece na ordenação o critério da maior antiguidade na categoria de conselheiro de embaixada."
+  },
+  "911487602": {
+   "fragment_id": "911486611",
+   "type": 11,
+   "heading": "Artigo 22.º — Acesso à categoria de embaixador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acesso à categoria de embaixador\n\n1 - O acesso à categoria de embaixador efetua-se de entre todos os ministros plenipotenciários que tenham 4 anos de experiência na respetiva categoria, tenham exercido funções nos serviços periféricos externos por mais de 10 anos e tenham ocupado um cargo de direção superior de 1.º grau, ou equiparado, ou de chefe de missão por um período mínimo de 2 anos.\n\n2 - O acesso à categoria de embaixador efetua-se por proposta do membro do Governo responsável pela área dos negócios estrangeiros, ouvido o secretário-geral sobre as competências e o mérito dos diplomatas e dos serviços prestados, e só pode ter lugar quando se verifique a existência de vagas na categoria.\n\n3 - O acesso à categoria de embaixador é efetuado por despacho do Primeiro-Ministro e do membro do Governo responsável pela área dos negócios estrangeiros."
+  },
+  "911487603": {
+   "fragment_id": "911486612",
+   "type": 11,
+   "heading": "Artigo 23.º — Equiparação a tempo prestado nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Equiparação a tempo prestado nos serviços periféricos externos\n\n1 - Para efeitos de transição de categoria é equiparado a tempo prestado nos serviços periféricos externos:\n\na) O tempo de serviço prestado em serviço periférico externo pelos diplomatas em missão extraordinária de serviço diplomático, ou ao abrigo do regime do pessoal especializado;\n\nb) O tempo de serviço prestado no SEAE, até ao limite de seis anos;\n\nc) O tempo de serviço prestado em outros organismos e instituições internacionais, até ao limite de quatro anos;\n\nd) O tempo de serviço prestado nos gabinetes dos membros do Governo ou junto de outros órgãos de soberania, até ao limite de dois anos.\n\n2 - Os diplomatas não podem beneficiar cumulativamente das equiparações a tempo prestado nos serviços externos previstas no número anterior para além dos limites temporais ali fixados."
+  },
+  "911487604": {
+   "fragment_id": "911486613",
+   "type": 11,
+   "heading": "Artigo 24.º — Diplomatas na situação de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Diplomatas na situação de disponibilidade\n\nOs diplomatas na situação de disponibilidade não podem ser promovidos, podendo, contudo, progredir na respetiva categoria quando chamados a desempenhar as funções a que se refere o artigo 31.º ou outras de relevante interesse público, em território nacional ou no estrangeiro."
+  },
+  "911487605": {
+   "fragment_id": "911486614",
+   "type": 8,
+   "heading": "Secção IV — NOMEAÇÃO E ACEITAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — NOMEAÇÃO E ACEITAÇÃO"
+  },
+  "911487606": {
+   "fragment_id": "911486615",
+   "type": 11,
+   "heading": "Artigo 25.º — Nomeação e aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Nomeação e aceitação\n\n1 - A nomeação nas categorias de adido de embaixada e de secretário de embaixada e o acesso às categorias de conselheiro de embaixada, de ministro plenipotenciário e de embaixador dependem de aceitação e posse.\n\n2 - O prazo para aceitação é de 20 dias, a contar, de forma contínua, da data de publicação no Diário da República do ato de nomeação, salvo ocorrência de justo impedimento."
+  },
+  "911487607": {
+   "fragment_id": "911486616",
+   "type": 11,
+   "heading": "Artigo 26.º — Efeitos da aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Efeitos da aceitação\n\nA aceitação determina o início de funções para todos os efeitos legais, designadamente os de perceção de remuneração, de abonos, de contagem de tempo de serviço e de título inerente à respetiva categoria, permitindo a nomeação para os cargos reservados à mesma categoria."
+  },
+  "911487608": {
+   "fragment_id": "911486617",
+   "type": 11,
+   "heading": "Artigo 27.º — Posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Posse\n\n1 - A posse dos diplomatas nomeados para exercerem os cargos de secretário-geral e de direção superior de 1.º grau é conferida pelo membro do Governo responsável pela área dos negócios estrangeiros.\n\n2 - A posse dos diplomatas nomeados para exercerem outros cargos dirigentes nos serviços internos ou nos organismos dirigidos ou tutelados pelo MNE é conferida pelo secretário-geral.\n\n3 - Os cargos de chefia nos serviços periféricos externos não dependem de posse, sendo a respetiva assunção e cessação de funções registada por comunicação formal para os serviços internos.\n\n4 - Na assunção e cessação dos cargos referidos no número anterior, é lavrado um termo de transferência de poderes e termo de inventário, ambos assinados pelo diplomata nomeado e por aquele a quem estiver confiada a gerência do serviço periférico externo."
+  },
+  "911487609": {
+   "fragment_id": "911486618",
+   "type": 8,
+   "heading": "Secção V — SUSPENSÃO DE FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — SUSPENSÃO DE FUNÇÕES"
+  },
+  "911487610": {
+   "fragment_id": "911486619",
+   "type": 11,
+   "heading": "Artigo 28.º — Suspensão de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Suspensão de funções\n\n1 - Os diplomatas suspendem as respetivas funções por força:\n\na) Do exercício de cargos políticos;\n\nb) Do desempenho de outras funções de interesse público, como tal reconhecidas pelo membro do Governo responsável pela área dos negócios estrangeiros, ouvido o Conselho Diplomático, desde que de natureza transitória ou com prazo certo de duração;\n\nc) Nos demais casos previstos na lei.\n\n2 - A suspensão de funções para exercício de cargos políticos ou de funções de reconhecido interesse público não pode determinar quaisquer prejuízos profissionais aos diplomatas."
+  },
+  "911487611": {
+   "fragment_id": "911486620",
+   "type": 8,
+   "heading": "Secção VI — DISPONIBILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — DISPONIBILIDADE"
+  },
+  "911487612": {
+   "fragment_id": "911486621",
+   "type": 11,
+   "heading": "Artigo 29.º — Disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Disponibilidade\n\nOs diplomatas no ativo podem transitar para a situação de disponibilidade, abrindo vaga no mapa de pessoal da carreira diplomática, nos termos do presente decreto-lei."
+  },
+  "911487613": {
+   "fragment_id": "911486622",
+   "type": 11,
+   "heading": "Artigo 30.º — Condições de passagem à disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Condições de passagem à disponibilidade\n\n1 - Transitam para a situação de disponibilidade:\n\na) Todos os diplomatas na data em que perfizerem a idade normal para acesso à pensão de velhice;\n\nb) Os diplomatas com a categoria de conselheiro de embaixada que não sejam promovidos à categoria de ministro plenipotenciário decorridos 20 anos na categoria de conselheiro de embaixada, exceto quando tenham já passado à disponibilidade por efeito da aplicação da alínea anterior;\n\nc) Os diplomatas com a categoria de secretário de embaixada que não sejam promovidos à categoria de conselheiro de embaixada decorridos 25 anos na categoria de secretário de embaixada, exceto quando tenham já passado à disponibilidade por efeito da aplicação da alínea a);\n\nd) Os diplomatas com mais de 20 anos de serviço, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, a requerimento do interessado;\n\ne) Os diplomatas que obtenham do membro do Governo responsável pela área dos negócios estrangeiros licença para acompanhar o cônjuge diplomata português colocado nos serviços periféricos externos ou no SEAE ou em outros organismos e instituições internacionais.\n\n2 - O disposto na alínea a) do número anterior não se aplica ao embaixador nomeado para as funções de secretário-geral.\n\n3 - O número de diplomatas na situação de disponibilidade por força da alínea d) do n.º 1 não pode ser superior a 20.\n\n4 - Os diplomatas na situação de disponibilidade prevista na alínea e) do n.º 1 podem, a todo o tempo, regressar à efetividade do serviço diplomático e ser candidatos aos processos de colocação previstos nos artigos 51.º e 52.º, caso em que o regresso à efetividade do serviço diplomático se verifica com a apresentação no serviço periférico externo em que venham a ser colocados."
+  },
+  "911487614": {
+   "fragment_id": "911486623",
+   "type": 11,
+   "heading": "Artigo 31.º — Funções dos diplomatas na situação de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funções dos diplomatas na situação de disponibilidade\n\n1 - Os diplomatas na situação de disponibilidade podem:\n\na) Desempenhar funções nos serviços internos, serviços periféricos externos ou organismos dirigidos, tutelados ou coordenados pelo MNE;\n\nb) Ser nomeados, com o seu consentimento, para o exercício de funções ao abrigo do regime do pessoal especializado, nos serviços externos, até ao limite de idade previsto no artigo 50.º;\n\nc) Participar em missões extraordinárias de serviço diplomático em Portugal e no estrangeiro.\n\n2 - O disposto na alínea b) do número anterior depende de despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do secretário-geral, ficando os diplomatas sujeitos ao regime jurídico aplicável ao pessoal especializado do MNE.\n\n3 - O disposto na alínea c) do n.º 1 depende de despacho do secretário-geral."
+  },
+  "911487615": {
+   "fragment_id": "911486624",
+   "type": 8,
+   "heading": "Secção VII — CESSAÇÃO DE FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — CESSAÇÃO DE FUNÇÕES"
+  },
+  "911487616": {
+   "fragment_id": "911486625",
+   "type": 11,
+   "heading": "Artigo 32.º — Formas de cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Formas de cessação de funções\n\nA nomeação do diplomata cessa nas seguintes situações:\n\na) Conclusão sem sucesso do período experimental;\n\nb) Exoneração a pedido do diplomata;\n\nc) Aposentação ou reforma;\n\nd) Mudança do diplomata para outra carreira;\n\ne) Aplicação de pena disciplinar expulsiva."
+  },
+  "911487617": {
+   "fragment_id": "911486626",
+   "type": 11,
+   "heading": "Artigo 33.º — Aposentação, reforma e jubilação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Aposentação, reforma e jubilação\n\n1 - A aposentação e reforma dos diplomatas rege-se pelo disposto na lei geral, com as especificidades previstas nos números seguintes.\n\n2 - São considerados jubilados os diplomatas com a categoria de embaixador ou de ministro plenipotenciário que, reunindo os requisitos legalmente exigíveis para a aposentação e reforma e contando com pelo menos 30 anos de serviço efetivo na carreira diplomática, passem àquela situação por motivos não disciplinares.\n\n3 - Os diplomatas jubilados ou na situação de aposentados ou reformados gozam de todas as regalias, títulos e honras inerentes à sua categoria.\n\n4 - Os diplomatas jubilados continuam vinculados aos deveres estatutários e podem ser chamados a colaborar com o Ministério em termos a definir por despacho do membro do Governo responsável pela área dos negócios estrangeiros.\n\n5 - As pensões de aposentação ou reforma dos diplomatas jubilados são automaticamente atualizadas em percentagem igual à do aumento das remunerações dos diplomatas no ativo de categoria e escalão correspondentes aos detidos por aqueles no momento da jubilação.\n\n6 - Os diplomatas nas condições previstas no n.º 2 podem fazer declarações de renúncia à condição de jubilação, ficando sujeitos, em tal caso, ao regime geral da aposentação ou reforma."
+  },
+  "911487618": {
+   "fragment_id": "911486627",
+   "type": 11,
+   "heading": "Artigo 34.º — Bonificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Bonificações\n\n1 - A requerimento do interessado, nas contagens do tempo de serviço efetivamente prestado para efeitos de jubilação, aposentação ou reforma, são consideradas as seguintes bonificações:\n\na) 20 % em serviços periféricos externos de classe C;\n\nb) 25 % em serviços periféricos externos de classe D ou em país em situação de guerra, conflito interno ou de crise humanitária ou sanitária de reconhecida dimensão.\n\n2 - A percentagem referida na alínea b) do número anterior não é acumulável com a da alínea a), prevalecendo sobre esta.\n\n3 - Compete ao Conselho Diplomático atestar o preenchimento dos requisitos previstos no n.º 1, mediante apresentação de requerimento por parte do interessado, no prazo de um ano a contar da data de cessação da respetiva comissão no serviço periférico externo.\n\n4 - O MNE procede ao pagamento das contribuições correspondentes à bonificação calculada nos termos do n.º 1 devidas à segurança social, na parte respeitante à entidade empregadora."
+  },
+  "911487619": {
+   "fragment_id": "911486628",
+   "type": 8,
+   "heading": "Secção VIII — ANTIGUIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — ANTIGUIDADE"
+  },
+  "911487620": {
+   "fragment_id": "911486629",
+   "type": 11,
+   "heading": "Artigo 35.º — Lista de antiguidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Lista de antiguidade\n\n1 - É elaborada, anualmente, uma lista de antiguidade dos diplomatas no ativo e na situação de disponibilidade, da qual devem constar, entre outros elementos, as seguintes contagens de tempo:\n\na) Em funções públicas;\n\nb) Na carreira diplomática;\n\nc) Na categoria;\n\nd) Nos serviços internos e periféricos externos;\n\ne) Dos dias descontados no ano a que a lista se reporta.\n\n2 - A antiguidade na categoria conta-se desde a data da aceitação.\n\n3 - Não conta, para efeitos de antiguidade na carreira diplomática, o tempo decorrido na situação de inatividade temporária na situação de disponibilidade, salvo se se verificar qualquer das situações de prestação de serviço efetivo de funções previstas no n.º 1 do artigo 31.º, ou noutra situação a que a lei atribua esse efeito.\n\n4 - A lista de antiguidade é tornada pública por aviso publicado no Diário da República e levada ao conhecimento de todos os diplomatas pelos serviços competentes do MNE até ao final do 1.º trimestre do ano civil seguinte àquele a que a lista se reporta.\n\n5 - Da lista de antiguidade cabem as reclamações e os recursos previstos na lei geral."
+  },
+  "911487621": {
+   "fragment_id": "911486630",
+   "type": 11,
+   "heading": "Artigo 36.º — Ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Ordenação\n\n1 - As publicações de despachos de nomeação no Diário da República devem respeitar a respetiva ordenação, efetuada nos termos do presente decreto-lei.\n\n2 - No caso de as publicações dos atos de ingresso ou de transição de categoria ocorrerem na mesma data, observa-se o seguinte:\n\na) No ingresso, na confirmação e nas transições para as categorias de conselheiro de embaixada e de ministro plenipotenciário, a antiguidade é determinada pela respetiva ordem de classificação;\n\nb) Na transição para a categoria de embaixador, a antiguidade detida na categoria de ministro plenipotenciário."
+  },
+  "911487622": {
+   "fragment_id": "911486631",
+   "type": 11,
+   "heading": "Artigo 37.º — Alteração da antiguidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Alteração da antiguidade\n\nA lista de antiguidade dos diplomatas na carreira diplomática e nas respetivas categorias só pode ser alterada em função:\n\na) Da ordenação estabelecida pelo Conselho Diplomático, nos termos do n.º 2 do artigo 16.º;\n\nb) Da ordenação decorrente do procedimento concursal de acesso à categoria de conselheiro de embaixada;\n\nc) Da ordenação decorrente da promoção à categoria de ministro plenipotenciário;\n\nd) Da transição para a categoria de embaixador;\n\ne) Do provimento de reclamações ou recursos;\n\nf) Da observância do n.º 3 do artigo 35.º"
+  },
+  "911487623": {
+   "fragment_id": "911486632",
+   "type": 8,
+   "heading": "Secção IX — COLOCAÇÃO NA SITUAÇÃO DE SUPRANUMERÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — COLOCAÇÃO NA SITUAÇÃO DE SUPRANUMERÁRIO"
+  },
+  "911487624": {
+   "fragment_id": "911486633",
+   "type": 11,
+   "heading": "Artigo 38.º — Situação de supranumerário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Situação de supranumerário\n\n1 - Consideram-se na situação de supranumerário, a aguardar lugar no mapa de pessoal da carreira diplomática, os diplomatas que:\n\na) Regressem à efetividade de funções no serviço diplomático, nos termos do n.º 4 do artigo 30.º;\n\nb) Regressem de colocação no SEAE ou em organismos e instituições internacionais;\n\nc) Os adidos de embaixada confirmados para os quais não haja vaga na categoria de secretário de embaixada;\n\nd) Os diplomatas que transitoriamente deixaram de ocupar vaga no mapa de origem.\n\n2 - Os diplomatas na situação de supranumerário ocupam as vagas que ocorrerem na respetiva categoria segundo a ordem de antiguidade.\n\n3 - A situação de supranumerário não importa qualquer limitação ao exercício de funções, nem prejuízo em termos de antiguidade, transição, remuneração, suplementos e abonos e implica a sujeição do diplomata aos deveres previstos no presente decreto-lei."
+  },
+  "911487625": {
+   "fragment_id": "911486634",
+   "type": 1,
+   "heading": "Capítulo III — DO SERVIÇO DIPLOMÁTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — DO SERVIÇO DIPLOMÁTICO"
+  },
+  "911487626": {
+   "fragment_id": "911486635",
+   "type": 8,
+   "heading": "Secção I — CHEFIA DE MISSÕES, REPRESENTAÇÕES PERMANENTES E POSTOS CONSULARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — CHEFIA DE MISSÕES, REPRESENTAÇÕES PERMANENTES E POSTOS CONSULARES"
+  },
+  "911487627": {
+   "fragment_id": "911486636",
+   "type": 11,
+   "heading": "Artigo 39.º — Chefia de missões diplomáticas e representações permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Chefia de missões diplomáticas e representações permanentes\n\n1 - A chefia de missões diplomáticas é confiada aos embaixadores e ministros plenipotenciários que, para esse efeito, são nomeados nos termos previstos na Constituição e na lei.\n\n2 - A chefia de representações permanentes é exercida nos termos do presente estatuto e da legislação respetiva.\n\n3 - Tendo em consideração o interesse público e os objetivos da política externa portuguesa, a chefia de missões diplomáticas de classe C e D pode ser assegurada, a título excecional, por conselheiros de embaixada com, pelo menos, cinco anos na categoria.\n\n4 - Por conveniência de serviço e a título excecional, a chefia de missões diplomáticas pode ser assegurada por conselheiros de embaixada com, pelo menos, cinco anos na categoria, na qualidade de encarregados de negócios com cartas de gabinete.\n\n5 - A chefia interina de missões diplomáticas e representações permanentes, a título de encarregatura de negócios, é sempre exercida por diplomatas.\n\n6 - Os diplomatas com a categoria de embaixador ou ministro plenipotenciário podem ser nomeados embaixadores não residentes ou ser acreditados junto de organizações internacionais sediadas em Portugal, exercendo essas funções a partir da Secretaria-Geral do MNE.\n\n7 - No quadro da missão que lhe foi confiada, o chefe de missão diplomática, no prazo de seis meses a contar do início de funções, apresenta ao membro do Governo responsável pela área dos negócios estrangeiros um relatório sobre a missão diplomática de que constam os objetivos a que se propõe, bem como uma avaliação dos meios humanos e materiais necessários para os atingir no decurso do respetivo exercício de funções, sem prejuízo de posterior atualização quando tal se revele necessário.\n\n8 - O chefe de missão diplomática ou representante permanente deve iniciar funções no prazo máximo de 60 dias contínuos após a publicação do decreto de nomeação.\n\n9 - O secretário-geral pode prorrogar por um período máximo de 30 dias contínuos o prazo referido no número anterior."
+  },
+  "911487628": {
+   "fragment_id": "911486637",
+   "type": 11,
+   "heading": "Artigo 40.º — Equiparação a chefe de missão diplomática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Equiparação a chefe de missão diplomática\n\n1 - A título excecional, os cargos de substituto legal do chefe de missão ou de cônsul-geral podem ser equiparados a chefia de missão diplomática.\n\n2 - A equiparação prevista no número anterior é determinada por despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do Conselho Diplomático."
+  },
+  "911487629": {
+   "fragment_id": "911486638",
+   "type": 11,
+   "heading": "Artigo 41.º — Chefia de missões diplomáticas por individualidades externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Chefia de missões diplomáticas por individualidades externas\n\n1 - A título excecional, a chefia de uma missão diplomática ou de uma representação permanente pode ser confiada a individualidades não pertencentes ao mapa de pessoal da carreira diplomática cujas particulares qualificações as recomendem de forma especial para o exercício de funções em determinado serviço periférico externo, as quais são nomeadas nos termos previstos no artigo 39.º\n\n2 - As individualidades designadas nos termos do número anterior exercem as suas funções em regime de comissão de serviço, fora do quadro do pessoal diplomático, sendo-lhes aplicável, com as necessárias adaptações e excetuando o disposto no artigo 50.º, o presente decreto-lei."
+  },
+  "911487630": {
+   "fragment_id": "911486639",
+   "type": 11,
+   "heading": "Artigo 42.º — Chefia de postos consulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Chefia de postos consulares\n\n1 - Os postos consulares são chefiados por diplomatas.\n\n2 - A chefia dos consulados-gerais é confiada a diplomatas de categoria igual ou superior a conselheiro de embaixada.\n\n3 - Por conveniência de serviço e a título excecional, pode o Conselho Diplomático propor a nomeação de secretários de embaixada com, pelo menos, seis anos de antiguidade na categoria para o cargo de cônsul-geral.\n\n4 - O disposto no número anterior não se aplica a chefias de consulados que, ao abrigo do disposto no artigo 40.º, sejam equiparadas a chefias de missão.\n\n5 - Os consulados-gerais, sempre que as circunstâncias o justifiquem, podem ter cônsules-gerais-adjuntos, cargo que é exercido por conselheiros ou secretários de embaixada."
+  },
+  "911487631": {
+   "fragment_id": "911486640",
+   "type": 8,
+   "heading": "Secção II — COLOCAÇÕES E TRANSFERÊNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — COLOCAÇÕES E TRANSFERÊNCIAS"
+  },
+  "911487632": {
+   "fragment_id": "911486641",
+   "type": 11,
+   "heading": "Artigo 43.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Competência\n\nAs nomeações que envolvam a colocação de diplomatas nos serviços periféricos externos ou a sua transferência para os serviços internos são da competência do membro do Governo responsável pela área dos negócios estrangeiros, com base em proposta elaborada pelo Conselho Diplomático, exceto no que respeita aos chefes de missão diplomática e equiparados."
+  },
+  "911487633": {
+   "fragment_id": "911486642",
+   "type": 11,
+   "heading": "Artigo 44.º — Das chefias de missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Das chefias de missão\n\n1 - Até 31 de dezembro de cada ano, o secretário-geral apresenta ao membro do Governo responsável pela área dos negócios estrangeiros uma lista de chefias de missão diplomática que podem vagar no ano seguinte que, após a sua aprovação, é divulgada pelos diplomatas que reúnam as condições exigíveis para preencher aqueles lugares.\n\n2 - Os diplomatas referidos no número anterior podem, assim querendo, manifestar e justificar as suas preferências junto do secretário-geral.\n\n3 - Salvo situações excecionais devidamente fundamentadas, os nomeados para as chefias de missão diplomática assumem funções até 1 de setembro do ano em que são nomeados."
+  },
+  "911487634": {
+   "fragment_id": "911486643",
+   "type": 11,
+   "heading": "Artigo 45.º — Colocação nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Colocação nos serviços periféricos externos\n\nA colocação do diplomata nos serviços periféricos externos efetua-se em regime de comissão de serviço e por tempo determinado, tendo sempre em consideração o interesse público e os objetivos da política externa portuguesa."
+  },
+  "911487635": {
+   "fragment_id": "911486644",
+   "type": 11,
+   "heading": "Artigo 46.º — Critérios de colocação e transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Critérios de colocação e transferência\n\n1 - Sem prejuízo do disposto na presente secção, o Conselho Diplomático, tendo sempre em consideração o interesse público e os objetivos da política externa portuguesa, observa, sucessiva e cumulativamente, os seguintes critérios na elaboração das propostas de colocações e transferências:\n\na) As qualidades profissionais e a adequação do perfil pessoal dos diplomatas ao serviço periférico externo considerado;\n\nb) A classe dos serviços periféricos externos em que os diplomatas estiveram anteriormente colocados;\n\nc) As preferências expressas pelos diplomatas;\n\nd) A sua antiguidade na categoria.\n\n2 - Na elaboração das propostas de colocações e transferências, o Conselho Diplomático pondera, na medida do possível e sem prejuízo da prevalência do interesse do serviço, aspetos da vida pessoal dos diplomatas, designadamente a reunificação ou aproximação familiares, que possam justificar um atendimento especial das preferências manifestadas no âmbito da alínea c) do número anterior.\n\n3 - Atendendo ao interesse público e aos objetivos da política externa portuguesa, o Conselho Diplomático, a requerimento do interessado, pode propor a colocação sucessiva do mesmo diplomata em serviços periféricos externos de classe C ou D."
+  },
+  "911487636": {
+   "fragment_id": "911486645",
+   "type": 11,
+   "heading": "Artigo 47.º — Classificação dos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Classificação dos serviços periféricos externos\n\n1 - Os serviços periféricos externos são classificados em quatro classes - A, B, C e D -, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do Conselho Diplomático.\n\n2 - Na elaboração da proposta de classificação dos serviços periféricos externos, o Conselho Diplomático deve ter em consideração:\n\na) As condições e a qualidade de vida do país onde se situa o serviço periférico externo;\n\nb) Os riscos para a saúde e segurança;\n\nc) A distância e o isolamento.\n\n3 - A classificação dos serviços periféricos externos é necessariamente atualizada a cada cinco anos ou sempre que a alteração de condições o justifique.\n\n4 - A reclassificação dos serviços periféricos externos deve ser tida em conta na colocação seguinte do diplomata que nele preste serviço.\n\n5 - Por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, sob proposta do Conselho Diplomático, é estabelecido um regime especial para ser aplicado aos serviços periféricos externos considerados particularmente difíceis, designadamente quando se situem em países em situação de guerra, conflito interno ou de crise humanitária ou sanitária de reconhecida dimensão."
+  },
+  "1104044475": {
+   "fragment_id": "911486646",
+   "type": 11,
+   "heading": "Artigo 48.º — Permanência nos serviços periféricos externos",
+   "in_force_from": "2026-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+   ],
+   "markdown": "###### Artigo 48.º — Permanência nos serviços periféricos externos\n\n1 - Os diplomatas devem ser transferidos no decurso do ano em que perfaçam:\n\na) Um mínimo de três ou um máximo de quatro anos de permanência em serviço periférico externo de classe A ou B;\n\nb) Um mínimo de dois ou um máximo de três anos de permanência em serviço periférico externo de classe C;\n\nc) Dois anos de permanência em serviço periférico externo de classe D.\n\n2 - Com exceção dos serviços periféricos externos de classe D, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, mediante proposta devidamente fundamentada do secretário-geral, os prazos previstos no número anterior podem ser prorrogados por um ano, por razões de reconhecido interesse público ou a pedido do interessado.\n\n3 - Por despacho do membro do Governo responsável pela área dos negócios estrangeiros, mediante proposta devidamente fundamentada do Conselho Diplomático, os prazos previstos no n.º 1 podem ser encurtados por razões de interesse público ou a pedido do interessado.\n\n4 - O requerimento para a prorrogação a pedido do interessado prevista no número anterior deve ser apresentado ao Secretário-Geral até 31 de agosto do ano precedente.\n\n5 - Nenhum diplomata pode permanecer nos serviços periféricos externos por um período ininterrupto superior a oito anos.\n\n6 - O disposto nos números anteriores não se aplica aos chefes de missão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+  },
+  "911487638": {
+   "fragment_id": "911486647",
+   "type": 11,
+   "heading": "Artigo 49.º — Permanência nos serviços internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Permanência nos serviços internos\n\n1 - A permanência dos diplomatas nos serviços internos é de um mínimo de três anos e de um máximo de quatro anos, podendo o secretário-geral prorrogar esse prazo, até um máximo de 12 meses, a requerimento do interessado.\n\n2 - Por conveniência de serviço ou imperiosa conveniência pessoal, e a título excecional, o membro do Governo responsável pela área dos negócios estrangeiros pode prorrogar, por despacho, sob proposta fundamentada do secretário-geral, ouvido o Conselho Diplomático, por períodos de 12 meses, o prazo máximo referido no número anterior.\n\n3 - O prazo mínimo de permanência nos serviços internos não se aplica aos diplomatas que já tenham desempenhado funções de chefe de missão diplomática ou que tenham sido, entretanto, nomeados para a chefia de missão diplomática.\n\n4 - O prazo mínimo de permanência nos serviços internos é encurtado para dois anos quando o diplomata, em colocação imediatamente anterior, exerceu funções em serviço periférico externo de classe D.\n\n5 - O prazo máximo de permanência nos serviços internos não se aplica aos diplomatas que sejam titulares de cargos de direção superior ou aos diplomatas que se encontrem na situação de disponibilidade.\n\n6 - Os membros dos conselhos diretivos das associações profissionais representativas dos diplomatas não podem, sem a sua anuência, ser colocados nos serviços periféricos externos durante o respetivo mandato."
+  },
+  "911487639": {
+   "fragment_id": "911486648",
+   "type": 11,
+   "heading": "Artigo 50.º — Limite de idade para o exercício de funções nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Limite de idade para o exercício de funções nos serviços periféricos externos\n\nO limite de idade dos diplomatas para o exercício de funções nos serviços periféricos externos corresponde ao da idade máxima para o exercício de funções públicas."
+  },
+  "911487640": {
+   "fragment_id": "911486649",
+   "type": 11,
+   "heading": "Artigo 51.º — Processo de colocação ordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Processo de colocação ordinária\n\n1 - Até 15 de outubro de cada ano, o secretário-geral torna pública a lista dos cargos e lugares vagos nos serviços periféricos externos a preencher no ano seguinte com as seguintes indicações:\n\na) Classificação dos serviços periféricos externos;\n\nb) Categoria dos diplomatas que podem candidatar-se;\n\nc) Abonos a receber na colocação nos serviços periféricos externos;\n\nd) Lista dos diplomatas que estejam em condições de transferência ou colocação, considerando-se o dia 31 de agosto do ano seguinte para efeitos de contagem dos prazos de permanência nos serviços internos.\n\n2 - As vagas que, entre 15 e 31 de outubro de cada ano, venham a ocorrer em cargos e lugares nos serviços periféricos externos são acrescentadas à lista a que se refere o número anterior, cuja alteração é divulgada.\n\n3 - Os diplomatas incluídos na lista referida na alínea d) do n.º 1 podem apresentar por escrito ao secretário-geral, até 31 de outubro, a sua candidatura a cinco serviços periféricos externos correspondentes à sua categoria, por ordem decrescente de preferência, devendo essa candidatura incluir três serviços periféricos externos de classe diferente.\n\n4 - Até 15 de novembro de cada ano, o Conselho Diplomático torna pública uma proposta provisória de colocações e transferências de diplomatas para o ano seguinte que, após audiência dos interessados, é submetida para homologação do membro do Governo responsável pela área dos negócios estrangeiros no prazo de cinco dias úteis, para os efeitos do artigo 43.º\n\n5 - As colocações e transferências de diplomatas decorrentes da aplicação do presente artigo devem ser publicadas no Diário da República até 30 de junho do ano seguinte.\n\n6 - Os diplomatas colocados ou transferidos entre serviços periféricos externos ou transferidos destes para os serviços internos devem apresentar-se nos serviços periféricos externos ou nos serviços internos no prazo máximo de 60 dias contínuos a contar da publicação no Diário da República referida no número anterior.\n\n7 - O secretário-geral pode prorrogar, por um período máximo de 60 dias contínuos, o prazo referido no número anterior, por conveniência de serviço ou a pedido do interessado.\n\n8 - Os diplomatas colocados ou transferidos nos termos deste artigo têm direito a uma dispensa de serviço pelo período de 15 dias, para efeitos de mudança e instalação.\n\n9 - A dispensa de serviço prevista no número anterior pode ser gozada de forma repartida, antes da partida ou após a chegada do diplomata ao serviço periférico externo ou interno e tendo em conta a conveniência de serviço."
+  },
+  "1104044675": {
+   "fragment_id": "911486650",
+   "type": 11,
+   "heading": "Artigo 52.º — Processo de colocação extraordinário",
+   "in_force_from": "2026-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+   ],
+   "markdown": "###### Artigo 52.º — Processo de colocação extraordinário\n\n1 - Sem prejuízo do disposto na presente secção, as vagas abertas em serviços periféricos externos já existentes ou em consequência da criação de novos serviços periféricos externos, subsequentes a 31 de outubro de cada ano, são preenchidas sob indicação do Conselho Diplomático, por meio de um processo de colocação extraordinário.\n\n2 - Ao processo de colocação extraordinário aplicam-se, com as necessárias adaptações, os procedimentos estabelecidos no artigo anterior.\n\n3 - Os cargos e lugares vagos a que se refere o n.º 1 podem ser temporariamente providos por diplomatas nomeados pelo membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do secretário-geral, ouvido o Conselho Diplomático, em missão extraordinária de serviço diplomático, por um período não superior a 365 dias.\n\n4 - Com exceção do tempo de serviço prestado em serviço periférico externo de classe D, o tempo de serviço prestado em serviço periférico externo, nos termos do número anterior, por diplomatas colocados nos serviços internos é contado, para os efeitos previstos no artigo 49.º, como tendo sido prestado nos serviços internos.\n\n5 - O exercício de funções em missão extraordinária de serviço diplomático por diplomatas colocados em serviço periférico externo diferente daquele em que se encontra colocado não se considera como uma nova colocação, contando-se o período daquela missão como de permanência no serviço periférico externo de origem.\n\n6 - O tempo de serviço prestado num serviço periférico externo, nos termos do n.º 3 do presente artigo, por um diplomata colocado nos serviços internos é contado, para os efeitos previstos no artigo 48.º, como de permanência nesse serviço periférico externo caso o diplomata venha a ser nele colocado no decurso da missão extraordinária de serviço diplomático.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+  },
+  "1104044875": {
+   "fragment_id": "911486651",
+   "type": 11,
+   "heading": "Artigo 53.º — Regra de gestão",
+   "in_force_from": "2026-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+   ],
+   "markdown": "###### Artigo 53.º — Regra de gestão\n\n1 - No processo de colocações e transferências deve ser observado o equilíbrio entre o número de diplomatas colocados nos serviços internos e periféricos externos, de forma que seja sempre assegurado o adequado funcionamento de todos eles.\n\n2 - O Secretário-Geral, ouvido o Conselho Diplomático, apresenta ao membro do Governo responsável pela área dos negócios estrangeiros, até 30 de setembro de cada ano, um plano visando a repartição equilibrada do número de diplomatas a colocar nos serviços internos e periféricos externos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2026 - Diário da República n.º 84/2026, Série I de 2026-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2026-1102472595), em vigor a partir de 2026-05-05."
+  },
+  "911487643": {
+   "fragment_id": "911486652",
+   "type": 8,
+   "heading": "Secção III — OUTRAS MISSÕES DE SERVIÇO DIPLOMÁTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — OUTRAS MISSÕES DE SERVIÇO DIPLOMÁTICO"
+  },
+  "911487644": {
+   "fragment_id": "911486653",
+   "type": 11,
+   "heading": "Artigo 54.º — Missões extraordinárias de serviço diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Missões extraordinárias de serviço diplomático\n\n1 - Os diplomatas no ativo e na situação de disponibilidade podem, a todo o tempo, ser nomeados pelo membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do secretário-geral, para o desempenho de missões extraordinárias de serviço diplomático nos serviços periféricos externos por um período não superior a 180 dias consecutivos, prorrogáveis.\n\n2 - Os diplomatas colocados nos serviços periféricos externos podem ser chamados a desempenhar missões extraordinárias em Portugal por um período de 30 dias, prorrogável pelo máximo de duas vezes.\n\n3 - Os diplomatas chamados nos termos do número anterior mantêm a totalidade dos abonos nos primeiros 30 dias e sofrem reduções, respetivamente, de 50 % e 70 % do montante do abono de atividade diplomática nas primeira e segunda prorrogações.\n\n4 - A título excecional, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, os diplomatas chamados nos termos do n.º 2 por um período superior a 45 dias podem manter a totalidade dos abonos.\n\n5 - Nas situações de demora em serviço, quando o diplomata já se encontra em Portugal, não são abonadas despesas de transporte.\n\n6 - Os diplomatas que sejam transferidos para os serviços internos nos termos do n.º 3 do artigo 48.º podem ser chamados em serviço sem regresso ao serviço periférico externo, na pendência do respetivo processo de transferência."
+  },
+  "911487645": {
+   "fragment_id": "911486654",
+   "type": 11,
+   "heading": "Artigo 55.º — Missões extraordinárias e temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Missões extraordinárias e temporárias\n\n1 - A título excecional, as missões diplomáticas extraordinárias e temporárias criadas para assegurar a representação do Estado em atos ou reuniões internacionais de especial importância podem ser chefiadas por individualidades não pertencentes ao mapa de pessoal diplomático, às quais se aplicam os direitos e deveres próprios dos diplomatas enquanto se mantiverem no desempenho da sua missão.\n\n2 - O processo de colocação de diplomatas em missões extraordinárias e temporárias obedece, caso não seja possível ou conveniente o provimento dos lugares existentes nos termos do n.º 3 do artigo 52.º, às regras que, caso a caso, o Conselho Diplomático estabeleça para esse efeito."
+  },
+  "911487646": {
+   "fragment_id": "911486655",
+   "type": 11,
+   "heading": "Artigo 56.º — Representantes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Representantes especiais\n\n1 - Os diplomatas com a categoria de embaixador, ministro plenipotenciário ou conselheiro de embaixada podem ser nomeados pelo membro do Governo responsável pela área dos negócios estrangeiros para o desempenho de funções específicas, em sua representação, por períodos de 365 dias, renováveis.\n\n2 - No exercício destas funções, os nomeados atuam sob a orientação do membro do Governo responsável pela área dos negócios estrangeiros e dos departamentos do MNE competentes nas matérias em causa.\n\n3 - Para todos os efeitos, incluindo remuneratórios, os representantes especiais com a categoria de embaixador, ministro plenipotenciário e conselheiro de embaixada são respetivamente equiparados a dirigente superior de 1.º grau, dirigente superior de 2.º grau e dirigente intermédio de 1.º grau."
+  },
+  "911487647": {
+   "fragment_id": "911486656",
+   "type": 11,
+   "heading": "Artigo 57.º — Representação diplomática itinerante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Representação diplomática itinerante\n\n1 - Os diplomatas com a categoria de embaixador, ministro plenipotenciário ou conselheiro de embaixada, ainda que na situação de disponibilidade, podem ser nomeados para o desempenho de funções de representação diplomática itinerante.\n\n2 - Estes diplomatas são acreditados num ou mais Estados como representantes diplomáticos portugueses, exercendo funções a partir dos serviços internos do MNE e não estando permanentemente deslocados na área de jurisdição de um desses países.\n\n3 - A nomeação de diplomatas como representantes diplomáticos itinerantes é feita nos termos previstos no artigo 39.º\n\n4 - O apoio técnico, administrativo e financeiro aos diplomatas é assegurado pelos serviços competentes do MNE, em função da matéria.\n\n5 - Os representantes diplomáticos itinerantes são remunerados nas mesmas condições que os funcionários diplomáticos colocados nos serviços internos do MNE, sendo igualmente considerados colocados naqueles serviços para os efeitos previstos no presente estatuto, designadamente de promoção na carreira.\n\n6 - Os diplomatas itinerantes têm direito a receber abono de atividade diplomática, em montante proporcional ao período durante o qual estejam em missão nos Estados nos quais se encontrem acreditados."
+  },
+  "911487648": {
+   "fragment_id": "911486657",
+   "type": 8,
+   "heading": "Secção IV — SERVIÇO DIPLOMÁTICO EM INSTITUIÇÕES INTERNACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — SERVIÇO DIPLOMÁTICO EM INSTITUIÇÕES INTERNACIONAIS"
+  },
+  "911487649": {
+   "fragment_id": "911486658",
+   "type": 11,
+   "heading": "Artigo 58.º — Colocação no Serviço Europeu para a Ação Externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Colocação no Serviço Europeu para a Ação Externa\n\n1 - Os diplomatas podem, por proposta do secretário-geral e ouvido o Conselho Diplomático, ser designados, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, para exercer cargos ou funções no SEAE.\n\n2 - A apresentação de candidatura para o exercício de cargos ou funções no SEAE depende de autorização do secretário-geral, devidamente fundamentada.\n\n3 - Sem prejuízo das normas e regulamentos internos do SEAE, os diplomatas ali colocados continuam vinculados, com as necessárias adaptações, aos princípios e deveres previstos no presente decreto-lei.\n\n4 - Os diplomatas autorizados a exercer cargos ou funções no SEAE mantêm, com as necessárias adaptações, os direitos e regalias previstos no presente decreto-lei, designadamente à contagem de tempo de serviço para efeitos de:\n\na) Antiguidade;\n\nb) Transição de categoria e alteração do posicionamento remuneratório;\n\nc) Efeitos de aposentação ou reforma, desde que efetuado o pagamento das correspondentes quotizações.\n\n5 - Para efeitos de candidatura e permanência no SEAE, aplica-se o limite temporal previsto no n.º 5 do artigo 48.º, podendo esse limite ser prorrogado por um prazo máximo de 12 meses para efeitos de cumprimento das obrigações contratuais estabelecidas por aquele Serviço.\n\n6 - O tempo de serviço prestado no SEAE ao abrigo do presente artigo é equiparado a tempo de serviço prestado nos serviços periféricos externos para todos os efeitos previstos no presente decreto-lei, incluindo, com as necessárias adaptações, os inerentes ao exercício de funções em serviço periférico externo de classe C e D ou em serviço equiparado do SEAE, sem prejuízo do limite previsto no artigo 23.º\n\n7 - No respeito pelo Direito da União Europeia aplicável, e mediante proposta do secretário-geral, os diplomatas que desempenhem funções no SEAE, ao abrigo do n.º 1 do presente artigo, têm direito a receber um abono de montante igual à diferença entre o vencimento líquido que auferem nesse Serviço e o vencimento e abonos a que teriam direito, nos termos dos artigos 71.º e 76.º, se colocados num serviço periférico externo na mesma localidade.\n\n8 - Caso não seja assegurado pelo SEAE, os diplomatas que exercem funções nos termos do presente artigo têm direito a auferir o abono de instalação previsto no artigo 74.º, bem como ao pagamento das despesas de viagem e de transporte de bens, nos termos do artigo 80.º"
+  },
+  "911487650": {
+   "fragment_id": "911486659",
+   "type": 11,
+   "heading": "Artigo 59.º — Colocação em organismos e instituições internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Colocação em organismos e instituições internacionais\n\n1 - Os diplomatas podem, por proposta do secretário-geral, ouvido o Conselho Diplomático, ser designados, por despacho do membro do Governo responsável pela área dos negócios estrangeiros, para desempenhar funções em organismos e instituições internacionais cujo exercício seja considerado de interesse público.\n\n2 - Aos diplomatas colocados em organismos e instituições internacionais aplica-se, com as necessárias adaptações, o disposto no artigo anterior."
+  },
+  "911487651": {
+   "fragment_id": "911486660",
+   "type": 1,
+   "heading": "Capítulo IV — DOS DEVERES E DOS DIREITOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — DOS DEVERES E DOS DIREITOS"
+  },
+  "915239868": {
+   "fragment_id": "915373549",
+   "type": 11,
+   "heading": "Artigo 60.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Princípio geral\n\n1 - Os diplomatas gozam dos direitos e estão sujeitos aos deveres dos trabalhadores que exercem funções públicas, sem prejuízo dos previstos no presente decreto-lei.\n\n2 - Em nenhuma circunstância podem os diplomatas ser prejudicados por, ao abrigo do presente decreto-lei, estarem em serviço no estrangeiro."
+  },
+  "911487652": {
+   "fragment_id": "911486661",
+   "type": 8,
+   "heading": "Secção I — DOS DEVERES ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — DOS DEVERES ESPECIAIS"
+  },
+  "911487653": {
+   "fragment_id": "911486662",
+   "type": 11,
+   "heading": "Artigo 61.º — Dever de defesa do interesse nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Dever de defesa do interesse nacional\n\n1 - Os diplomatas devem promover e defender o interesse nacional e a imagem de Portugal, em obediência ao dever de prossecução do interesse público e ao princípio da unidade da ação externa do Estado.\n\n2 - Os diplomatas devem adotar um comportamento e desenvolver uma ação consentâneos com a dignidade do Estado Português e com a sua categoria e cargo, de harmonia com os poderes de representação e a autoridade de Estado."
+  },
+  "911487654": {
+   "fragment_id": "911486663",
+   "type": 11,
+   "heading": "Artigo 62.º — Dever de sigilo e reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Dever de sigilo e reserva\n\n1 - Os diplomatas não podem revelar informações ou documentos a que tenham tido acesso no exercício das suas funções que, nos termos da lei, se encontrem sujeitos ao regime de segredo.\n\n2 - Os diplomatas não podem pronunciar-se, por qualquer meio, publicamente sobre orientações em matéria de política externa determinadas pelo Governo, salvo quando autorizados pelo secretário-geral.\n\n3 - Não são abrangidas pelo dever de reserva as declarações e informações que, em matéria não coberta por segredo de justiça, sigilo profissional ou proteção de dados, visem a realização de direitos ou interesses legítimos, nomeadamente o acesso à informação e a realização de trabalhos técnico-científicos, académicos ou de formação."
+  },
+  "911487655": {
+   "fragment_id": "911486664",
+   "type": 11,
+   "heading": "Artigo 63.º — Residência e domicílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Residência e domicílio\n\n1 - Os diplomatas colocados em serviço periférico externo devem residir na área de jurisdição do serviço onde exercem funções, salvo em situações extraordinárias, desde que não haja prejuízo para o exercício de funções, devidamente fundamentadas e autorizadas pelo secretário-geral.\n\n2 - Sem prejuízo do disposto no número anterior, os diplomatas colocados em serviço periférico externo mantêm o seu domicílio em Portugal para todos os efeitos, designadamente fiscais.\n\n3 - As colocações dos diplomatas nos serviços periféricos externos são sempre efetuadas em regime de comissão de serviço, por tempo determinado."
+  },
+  "911487656": {
+   "fragment_id": "911486665",
+   "type": 11,
+   "heading": "Artigo 64.º — Dever de correção e urbanidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Dever de correção e urbanidade\n\nOs diplomatas devem proceder com a maior correção e urbanidade para com todos os com quem contactem no exercício das suas funções, consentâneas com a dignidade do Estado e com a sua categoria e cargo, de harmonia com o exercício da função de representação externa do Estado."
+  },
+  "911487657": {
+   "fragment_id": "911486666",
+   "type": 11,
+   "heading": "Artigo 65.º — Dever de solidariedade e cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Dever de solidariedade e cooperação\n\nOs diplomatas devem pautar-se por uma relação de confiança e cooperação entre si."
+  },
+  "911487658": {
+   "fragment_id": "911486667",
+   "type": 11,
+   "heading": "Artigo 66.º — Dever de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Dever de disponibilidade\n\nOs diplomatas no ativo e na situação de disponibilidade estão sujeitos ao dever de disponibilidade permanente."
+  },
+  "911487659": {
+   "fragment_id": "911486668",
+   "type": 11,
+   "heading": "Artigo 67.º — Dever especial de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Dever especial de informação\n\nOs diplomatas titulares de cargos dirigentes do MNE, incluindo os dirigentes máximos dos serviços periféricos externos do MNE, devem manter informado o MNE, através da via hierárquica competente, sobre todas as questões relevantes referentes aos serviços."
+  },
+  "911487660": {
+   "fragment_id": "911486669",
+   "type": 11,
+   "heading": "Artigo 68.º — Outros deveres especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Outros deveres especiais\n\n1 - Com as devidas adaptações, os diplomatas titulares de cargos de direção superior do MNE e os chefes de missão ou de postos consulares exercem as competências previstas no artigo 7.º da Lei n.º 2/2004, de 15 de janeiro, na sua redação atual, as quais podem ser delegadas nos termos do artigo 9.º da referida lei.\n\n2 - Com as devidas adaptações, os diplomatas titulares de cargos de direção intermédia do MNE, os substitutos legais dos chefes de missão, os cônsules-gerais-adjuntos e encarregados de secção consular exercem, para além das que lhes forem delegadas, as competências previstas no artigo 8.º da Lei n.º 2/2004, de 15 de janeiro, na sua redação atual.\n\n3 - As competências previstas no presente artigo não prejudicam as previstas nos diplomas orgânicos do MNE."
+  },
+  "911487661": {
+   "fragment_id": "911486670",
+   "type": 8,
+   "heading": "Secção II — DO DIREITO À AVALIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — DO DIREITO À AVALIAÇÃO"
+  },
+  "911487662": {
+   "fragment_id": "911486671",
+   "type": 11,
+   "heading": "Artigo 69.º — Direito à avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Direito à avaliação\n\nOs diplomatas têm direito a verem o seu desempenho avaliado e a repercussão da avaliação no desenvolvimento da respetiva carreira."
+  },
+  "911487663": {
+   "fragment_id": "911486672",
+   "type": 11,
+   "heading": "Artigo 70.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Avaliação do desempenho\n\n1 - Todos os diplomatas estão sujeitos a avaliação do desempenho, regulada por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da Administração Pública.\n\n2 - As competências de coordenação do sistema de avaliação dos diplomatas são exercidas pelo Conselho Diplomático.\n\n3 - A avaliação engloba uma autoavaliação obrigatória, que não constitui componente vinculativa da avaliação de desempenho, e envolve uma componente de avaliação pelos seus subordinados, pares e superiores hierárquicos.\n\n4 - Na situação de falta da avaliação de desempenho, o diplomata pode requerer ser avaliado por ponderação curricular.\n\n5 - Os diplomatas que exerçam funções ou cargos no SEAE ou em instituições e organismos internacionais com sistemas de avaliação do desempenho próprios devem requerer ao Conselho Diplomático a integração das avaliações obtidas no exercício daquelas funções ou cargos."
+  },
+  "911487664": {
+   "fragment_id": "911486673",
+   "type": 8,
+   "heading": "Secção III — REMUNERAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — REMUNERAÇÕES"
+  },
+  "911487665": {
+   "fragment_id": "911486674",
+   "type": 11,
+   "heading": "Artigo 71.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Estatuto remuneratório\n\n1 - Os níveis remuneratórios da tabela remuneratória única correspondentes às posições remuneratórias da carreira diplomática constam do anexo iii do presente decreto-lei e do qual faz parte integrante.\n\n2 - Ao diplomata titular de cargo de direção em Portugal são abonadas despesas de representação nos montantes fixados para os cargos dirigentes da Administração Pública."
+  },
+  "911487666": {
+   "fragment_id": "911487675",
+   "type": 11,
+   "heading": "Artigo 72.º — Remuneração na disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Remuneração na disponibilidade\n\n1 - Os diplomatas na situação de disponibilidade têm direito a uma remuneração igual à dos diplomatas de idêntica categoria e tempo de serviço no ativo.\n\n2 - Os diplomatas que se encontrem na situação de disponibilidade, nos termos da alínea d) do n.º 1 do artigo 30.º, e não estiverem no exercício de funções ao abrigo do artigo 31.º têm direito a uma remuneração de montante igual à pensão de aposentação ou reforma que for correspondente, na sua categoria e escalão, ao número de anos de serviço que lhes devam ser contados para efeitos de aposentação na data da passagem àquela situação, podendo o tempo aí passado contar para efeitos de aposentação ou reforma se o diplomata tiver procedido ao pagamento da correspondente quota legal.\n\n3 - Os diplomatas na situação de disponibilidade, nos termos da alínea e) do n.º 1 do artigo 30.º, têm direito a uma remuneração igual à dos de idêntica categoria e tempo de serviço no ativo à data da colocação na disponibilidade, podendo o tempo passado nessa situação contar para efeitos de aposentação se o diplomata tiver procedido ao pagamento da correspondente quota legal."
+  },
+  "911487667": {
+   "fragment_id": "911487676",
+   "type": 8,
+   "heading": "Secção IV — ABONOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — ABONOS"
+  },
+  "911487668": {
+   "fragment_id": "911487677",
+   "type": 11,
+   "heading": "Artigo 73.º — Abonos mensais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Abonos mensais\n\n1 - Os diplomatas colocados nos serviços periféricos externos têm direito a receber os seguintes abonos mensais, de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças:\n\na) De atividade diplomática, destinado a suportar as despesas inerentes às exigências das funções que desempenham em nome e no interesse do Estado;\n\nb) De habitação, para subsídio de renda de casa e encargos permanentes derivados da habitação, sempre que não dispuserem de residência do Estado sem encargos.\n\n2 - Os abonos previstos no número anterior têm a natureza de ajudas de custo e são devidos aos diplomatas, independentemente da forma que revestiu a respetiva nomeação, desde o dia em que assumem funções nos serviços periféricos externos para que foram nomeados e cessam na data do termo dessas funções.\n\n3 - Em circunstâncias especiais impostas pelo Estado recetor ou em situações decorrentes do interesse da política externa, o secretário-geral pode autorizar o chefe de missão diplomática a arrendar habitação para o diplomata, em nome e por conta do MNE, não devendo a respetiva renda ultrapassar o valor do abono de habitação a que o diplomata tem direito.\n\n4 - Os diplomatas num serviço periférico externo que sejam nomeados, nos termos do n.º 3 do artigo 52.º, para prestar serviço noutro serviço periférico externo em missão extraordinária de serviço diplomático podem continuar a receber, para além dos abonos indicados no n.º 1 que sejam aplicáveis ao serviço periférico externo em questão, o abono de habitação que se encontravam a receber no serviço periférico externo de origem desde que seja reconhecida a necessidade de manutenção da residência junto deste serviço periférico externo, por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças."
+  },
+  "911487669": {
+   "fragment_id": "911487678",
+   "type": 11,
+   "heading": "Artigo 74.º — Abono de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Abono de instalação\n\n1 - Os diplomatas colocados nos serviços periféricos externos ou transferidos entre estes, desde que situados em localidades diferentes, têm direito a receber um abono para despesas de instalação igual a três vezes o somatório dos abonos mensais referidos no n.º 1 do artigo anterior a que têm direito quando sejam colocados em serviços periféricos externos de classe A e B.\n\n2 - Os diplomatas colocados nos serviços periféricos externos ou transferidos entre estes, desde que situados em localidades diferentes, têm direito a receber um abono para despesas de instalação igual a quatro vezes o somatório dos abonos mensais referidos no n.º 1 do artigo anterior a que têm direito quando sejam colocados em serviços periféricos externos de classe C e D.\n\n3 - O abono de instalação é reduzido em 25 % quando o diplomata for residir em habitação do Estado devidamente equipada.\n\n4 - No caso de colocação de cônjuges diplomatas no mesmo serviço periférico externo ou em serviços periféricos externos na mesma localidade, apenas um deles recebe abono de instalação.\n\n5 - Se o diplomata em missão extraordinária de serviço diplomático no estrangeiro for colocado no mesmo serviço periférico externo em que se encontra a desempenhar funções, tem direito a receber o correspondente abono de instalação.\n\n6 - Os diplomatas transferidos para os serviços internos, quando tenham estado colocados ao abrigo dos artigos 44.º, 51.º, 52.º, 58.º ou 59.º, por período igual ou superior a dois anos, têm direito a um abono para despesas de instalação igual a cinco vezes a remuneração ilíquida correspondente à primeira posição remuneratória da categoria de conselheiro de embaixada.\n\n7 - Ao valor referido no número anterior deve ser aplicada majoração de 5 % por cada acompanhante autorizado que tenha comprovadamente residido com o diplomata no estrangeiro, para efeitos do número anterior, até ao limite de 20 % de majoração sobre aquele valor."
+  },
+  "911487670": {
+   "fragment_id": "911487679",
+   "type": 11,
+   "heading": "Artigo 75.º — Abono a título de encarregaturas de negócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Abono a título de encarregaturas de negócios\n\n1 - A título de encarregatura de negócios, os diplomatas colocados nos serviços periféricos externos a quem compete a substituição interina dos chefes de missão têm direito a auferir 95 % do abono mensal de atividade diplomática fixado para o respetivo chefe de missão:\n\na) A partir do 30.º dia consecutivo da substituição, na ausência do chefe de missão diplomática;\n\nb) A partir do 1.º dia de gerência da missão, na vacatura do lugar do chefe de missão diplomática.\n\n2 - Aos diplomatas que exercem funções de encarregatura de negócios em serviços periféricos externos onde não estão acreditados chefes de missão diplomática residentes devem ser abonados os montantes que seriam fixados para o chefe de missão diplomática residente."
+  },
+  "911487671": {
+   "fragment_id": "911487680",
+   "type": 11,
+   "heading": "Artigo 76.º — Abonos recebidos nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Abonos recebidos nos serviços periféricos externos\n\n1 - Os montantes a abonar aos diplomatas colocados nos serviços periféricos externos são fixados por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, sob proposta do secretário-geral, ouvidos o Conselho Diplomático e as associações representativas dos diplomatas.\n\n2 - Na fixação dos abonos de atividade diplomática deve ter-se em conta:\n\na) Os índices de custo de vida nas diferentes cidades e países, de acordo com as estatísticas das principais organizações internacionais, nomeadamente as que servem de referência para o SEAE, ou de outras entidades credíveis, na ausência daquelas;\n\nb) As dificuldades e custos familiares e sociais acrescidos, o risco de insalubridade ou isolamento ou as situações de guerra, conflito interno ou insegurança generalizada associadas aos serviços periféricos externos de classe C ou D;\n\nc) A categoria de carreira do diplomata.\n\n3 - O abono de atividade diplomática inclui, quando aplicável, as seguintes componentes:\n\na) De dependentes, quando comprovadamente residam com o diplomata no serviço periférico externo;\n\nb) De colocação em serviços periféricos externos de classe C ou D, quando o diplomata já esteve colocado pelo menos três anos em postos de qualquer daquelas duas classes.\n\n4 - Na fixação dos abonos de habitação deve ter-se em conta:\n\na) Os índices de custo de vida nas diferentes cidades e países, de acordo com as estatísticas das principais organizações internacionais, nomeadamente as que servem de referência para o SEAE, ou de outras entidades credíveis, na ausência daquelas;\n\nb) Os acompanhantes autorizados.\n\n5 - A fixação e revisão dos abonos deve ter em conta a necessidade de assegurar a estabilidade das condições de vida e a manutenção do poder de compra dos diplomatas e respetivo agregado familiar nos diferentes serviços periféricos externos.\n\n6 - Com periodicidade anual ou sempre que haja uma alteração das circunstâncias a ter em conta na fixação dos abonos, o secretário-geral apresenta, nos termos do n.º 1, uma proposta de revisão ou atualização dos montantes a abonar no ano seguinte."
+  },
+  "911487672": {
+   "fragment_id": "911487681",
+   "type": 11,
+   "heading": "Artigo 77.º — Suplemento de colocação nos serviços internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Suplemento de colocação nos serviços internos\n\n1 - Aos diplomatas colocados nos serviços internos ou em organismos dirigidos, tutelados ou coordenados pelo MNE e em efetividade de funções, incluindo os que ocupam cargos dirigentes, mas excetuando os que se encontram a desempenhar funções em gabinetes ministeriais ou junto de órgãos de soberania, é atribuído um suplemento mensal para despesas inerentes à função diplomática.\n\n2 - O montante do suplemento referido no número anterior é, independentemente do regime remuneratório a que o diplomata se encontra sujeito, igual a 20 % do vencimento ilíquido da respetiva categoria e posição remuneratória.\n\n3 - Para efeitos de aplicação do presente artigo, considera-se que não está em efetividade de funções o diplomata que, encontrando-se colocado nos serviços internos ou que para aí seja transferido, esteja sem afetação a um serviço ou sem prestar funções por um período superior a 90 dias."
+  },
+  "911487673": {
+   "fragment_id": "911487682",
+   "type": 11,
+   "heading": "Artigo 78.º — Pagamento de despesas e subsídio por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Pagamento de despesas e subsídio por morte\n\n1 - Sem prejuízo de outros subsídios por morte devidos aos trabalhadores que exercem funções públicas, em caso de falecimento de diplomata colocado nos serviços periféricos externos, constituem encargo do MNE:\n\na) As despesas com o funeral, a trasladação do féretro para Portugal e o acompanhamento deste pelo cônjuge ou unido de facto sobrevivo e pelos descendentes a seu cargo;\n\nb) O retorno do cônjuge ou unido de facto sobrevivo e dos descendentes a seu cargo ao serviço periférico externo, bem como o seu regresso definitivo e dos eventuais acompanhantes autorizados a Portugal;\n\nc) O transporte dos seus bens;\n\nd) O pagamento de um montante correspondente aos abonos mensais referidos nas alíneas a) e b) do n.º 1 do artigo 73.º;\n\ne) O pagamento de um montante igual a cinco vezes a remuneração ilíquida da respetiva categoria.\n\n2 - Os montantes a que se referem as alíneas d) e e) do número anterior são liquidados pelo MNE em favor dos herdeiros, por uma só vez.\n\n3 - Caso o falecimento se verifique no decurso do ano letivo, os filhos dependentes têm direito a 50 % do montante do abono a que se refere a alínea a) do n.º 1 do artigo 73.º e à totalidade do abono referido no n.º 5 do artigo 81.º, até conclusão daquele no estabelecimento escolar em que se encontrem inscritos.\n\n4 - Em caso de falecimento no estrangeiro de diplomata que, embora colocado nos serviços internos, se haja deslocado ao estrangeiro em missão extraordinária de serviço diplomático ou missão diplomática extraordinária e temporária, constituem encargo do MNE as despesas com o funeral, a trasladação do féretro para Portugal e as viagens do cônjuge ou unido de facto sobrevivo ou de um acompanhante autorizado, para acompanhamento do féretro no seu regresso a Portugal.\n\n5 - Em caso de falecimento no estrangeiro de um dos acompanhantes autorizados do diplomata, o MNE assume as despesas previstas nas alíneas a) e b) do n.º 1, com as devidas adaptações.\n\n6 - Consideram-se acompanhantes autorizados do diplomata:\n\na) As pessoas indicadas no n.º 4 do artigo 13.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro, na sua redação atual;\n\nb) Os ascendentes que vivam em economia comum com o diplomata."
+  },
+  "911487674": {
+   "fragment_id": "911487683",
+   "type": 8,
+   "heading": "Secção V — OUTROS DIREITOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — OUTROS DIREITOS"
+  },
+  "911487775": {
+   "fragment_id": "911487684",
+   "type": 11,
+   "heading": "Artigo 79.º — Direito de associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Direito de associação\n\n1 - É reconhecido aos diplomatas o direito de participarem em associações representativas próprias para a defesa e promoção dos seus interesses, nos termos da lei.\n\n2 - As associações representativas dos diplomatas são consultadas sobre todas as matérias relativas à legislação e regulamentação que digam respeito aos diplomatas e respetiva carreira.\n\n3 - Sem prejuízo das competências dos órgãos próprios do MNE, as associações referidas nos números anteriores podem apresentar propostas de revisão da legislação respeitante à carreira diplomática."
+  },
+  "911487776": {
+   "fragment_id": "911487685",
+   "type": 11,
+   "heading": "Artigo 80.º — Viagens e transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Viagens e transportes\n\n1 - Os diplomatas colocados nos serviços periféricos externos ou transferidos para os serviços internos têm direito ao pagamento das despesas de viagem.\n\n2 - As despesas a que se refere o número anterior compreendem a deslocação dos diplomatas e dos seus acompanhantes autorizados, bem como, dentro dos limites a estabelecer por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, o custeio do transporte dos seus bens pessoais e respetivo seguro de transporte.\n\n3 - Em casos excecionais e devidamente justificados, pode o secretário-geral, quando o diplomata é transferido entre serviços periféricos externos, autorizar o transporte antecipado dos seus bens pessoais para território nacional.\n\n4 - Durante a sua permanência nos serviços periféricos externos de classe A ou B, os diplomatas e os seus acompanhantes autorizados têm direito ao pagamento de uma viagem a Portugal em cada período de 12 meses.\n\n5 - Durante a sua permanência nos serviços periféricos externos de classe C ou D, os diplomatas e os seus acompanhantes autorizados têm direito ao pagamento de duas viagens a Portugal em cada período de 12 meses.\n\n6 - O diplomata nomeado para prestar funções em missão extraordinária de serviço diplomático por um período superior a 120 dias num serviço periférico externo, nos termos do n.º 1 do artigo 54.º, tem direito ao pagamento das despesas de viagem do seu agregado familiar."
+  },
+  "911487777": {
+   "fragment_id": "911487686",
+   "type": 11,
+   "heading": "Artigo 81.º — Ação social complementar e seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Ação social complementar e seguros\n\n1 - Complementarmente ao regime geral dos trabalhadores que exercem funções públicas, o MNE assegura o financiamento de assistência na doença:\n\na) Para todos os diplomatas colocados nos serviços periféricos externos, cônjuge ou unido de facto e descendentes quando comprovadamente residam com o diplomata no serviço periférico externo;\n\nb) Para o cônjuge ou unido de facto sobrevivo e filhos menores ou filhos maiores total ou parcialmente incapacitados.\n\n2 - Os termos da participação referida no número anterior são definidos por portaria do membro do Governo responsável pela área dos negócios estrangeiros.\n\n3 - Em todas as deslocações custeadas pelo Estado, o MNE proporciona um seguro de assistência médica e acidentes pessoais para os diplomatas e acompanhantes autorizados.\n\n4 - Nas deslocações que se revistam de reconhecida perigosidade e que sejam suportadas pelo Estado, o MNE assegura um seguro de vida e acidentes pessoais para os diplomatas cujo capital seguro em caso de morte ou invalidez permanente não pode ser inferior ao quíntuplo do vencimento anual ilíquido do diplomata.\n\n5 - O MNE comparticipa as despesas de educação dos filhos dependentes dos diplomatas em efetividade de funções ou na situação de disponibilidade, nos termos a fixar por despacho do membro do Governo responsável pela área dos negócios estrangeiros.\n\n6 - Os cônjuges ou unidos de facto sobrevivos que venham a contrair novo casamento ou a constituir nova união de facto perdem os direitos previstos na alínea b) do n.º 1 e no número anterior."
+  },
+  "911487778": {
+   "fragment_id": "911487687",
+   "type": 11,
+   "heading": "Artigo 82.º — Importação de bens próprios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Importação de bens próprios\n\n1 - Os diplomatas que são transferidos dos serviços periféricos externos para os internos podem importar os seus bens pessoais, incluindo um veículo automóvel, ou, sendo casados ou unidos de facto, dois veículos, devendo neste caso um dos veículos ficar registado em nome do cônjuge ou unido de facto.\n\n2 - A importação dos veículos automóveis a que se refere o número anterior é efetuada com as isenções fiscais e a periodicidade previstas na legislação aplicável."
+  },
+  "911487779": {
+   "fragment_id": "911487688",
+   "type": 8,
+   "heading": "Secção VI — FORMAÇÃO DIPLOMÁTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — FORMAÇÃO DIPLOMÁTICA"
+  },
+  "911487780": {
+   "fragment_id": "911487689",
+   "type": 11,
+   "heading": "Artigo 83.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Princípio geral\n\n1 - A formação profissional contínua constitui um direito e um dever dos diplomatas, em ordem à valorização pessoal e da sua carreira e ao constante aperfeiçoamento no exercício das suas funções.\n\n2 - As ações de formação profissional são ministradas no âmbito do Instituto Diplomático, diretamente ou recorrendo à colaboração de quaisquer entidades nacionais ou estrangeiras consideradas idóneas e adequadas.\n\n3 - As ações de formação referidas no número anterior incluem cursos de atualização e aperfeiçoamento em todas as matérias com relevância para o exercício de funções diplomáticas, incluindo no SEAE.\n\n4 - As necessidades de formação ao longo da carreira são definidas pelo secretário-geral, sob proposta do Instituto Diplomático, devendo ser assegurada a realização anual de cursos de preparação para a assunção de funções, incluindo em liderança e gestão pública."
+  },
+  "911487781": {
+   "fragment_id": "911487690",
+   "type": 11,
+   "heading": "Artigo 84.º — Aprendizagem de línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Aprendizagem de línguas\n\nO MNE custeia as despesas com a aprendizagem e o aperfeiçoamento dos conhecimentos linguísticos dos diplomatas, quer em Portugal quer no estrangeiro, atendendo ao interesse desses conhecimentos para o exercício das respetivas funções."
+  },
+  "911487782": {
+   "fragment_id": "911487691",
+   "type": 8,
+   "heading": "Secção VII — LICENÇAS E FÉRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — LICENÇAS E FÉRIAS"
+  },
+  "911487783": {
+   "fragment_id": "911487692",
+   "type": 11,
+   "heading": "Artigo 85.º — Licenças do serviço diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Licenças do serviço diplomático\n\n1 - Aplica-se aos diplomatas o regime geral de licenças dos trabalhadores que exercem funções públicas, sem prejuízo do previsto no presente decreto-lei.\n\n2 - Os diplomatas colocados nos serviços periféricos externos têm anualmente direito a um complemento de licença, sem perda de remuneração, para efeitos de viagem a Portugal, para gozo de férias, consoante a distância geográfica entre o serviço periférico externo e Portugal:\n\na) Entre 0 km e 2000 km: dois dias úteis;\n\nb) Entre 2001 km e 5000 km: três dias úteis;\n\nc) Entre 5001 km e 10 000 km: quatro dias úteis;\n\nd) Mais de 10 001 km: cinco dias úteis."
+  },
+  "911487784": {
+   "fragment_id": "911487693",
+   "type": 11,
+   "heading": "Artigo 86.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Férias\n\n1 - Os diplomatas colocados em serviços periféricos externos de classe C ou D têm ainda anualmente direito a um complemento de licença para férias de 22 dias úteis.\n\n2 - O complemento de licença para férias a que se refere o número anterior pode ser gozado imediatamente após a assunção de funções, preferencialmente no ano a que respeita ou durante o ano seguinte, nos termos da lei, e não confere o direito a qualquer abono ou subsídio suplementar."
+  },
+  "911487785": {
+   "fragment_id": "911487694",
+   "type": 11,
+   "heading": "Artigo 87.º — Efeitos de inatividade temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Efeitos de inatividade temporária\n\n1 - As faltas justificadas por doença ou acidente em serviço regem-se pelo disposto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP).\n\n2 - Em casos excecionais, devidamente fundamentados, o membro do Governo responsável pela área dos negócios estrangeiros pode autorizar, mediante parecer prévio de junta médica, a prorrogação do limite máximo de faltas por acidente em serviço ou por doença adquirida ou agravada em serviço, ou por motivo do mesmo."
+  },
+  "911487786": {
+   "fragment_id": "911487695",
+   "type": 8,
+   "heading": "Secção VIII — DO CÔNJUGE OU UNIDO DE FACTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — DO CÔNJUGE OU UNIDO DE FACTO"
+  },
+  "911487787": {
+   "fragment_id": "911487696",
+   "type": 11,
+   "heading": "Artigo 88.º — Cônjuges ou unidos de facto de diplomata nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Cônjuges ou unidos de facto de diplomata nos serviços periféricos externos\n\n1 - O MNE valoriza e enquadra adequadamente o papel da família, em particular do cônjuge ou unido de facto, que acompanham o diplomata em serviço externo periférico, reconhecendo o apoio que podem fornecer às funções de representação do Estado.\n\n2 - Sempre que da colocação do diplomata em serviço periférico externo decorra a interrupção da atividade profissional do seu cônjuge ou unido de facto, o MNE assume os encargos com a continuidade do pagamento dos descontos para os regimes de proteção social a que estes se encontrem vinculados.\n\n3 - Sempre que da colocação do diplomata em serviço periférico externo decorra a impossibilidade de exercício de atividade profissional do seu cônjuge ou unido de facto, o MNE assume os encargos com a sua inscrição no Seguro Social Voluntário, tomando como referência o 5.º escalão.\n\n4 - Os cônjuges ou unidos de facto vinculados a entidades públicas sujeitas ao regime jurídico do contrato individual de trabalho sem termo podem solicitar a concessão de licença sem remuneração para acompanhamento de diplomata colocado no estrangeiro em representação do Estado, pelo período de duração da colocação no serviço periférico externo.\n\n5 - A licença referida no número anterior confere ao trabalhador o direito à contagem do tempo para efeitos de antiguidade e ao restabelecimento dos direitos, deveres e garantias decorrentes da efetiva prestação de trabalho, quando terminar a colocação do diplomata no serviço periférico externo."
+  },
+  "911487788": {
+   "fragment_id": "911487697",
+   "type": 11,
+   "heading": "Artigo 89.º — Desenvolvimento profissional dos cônjuges ou unidos de facto de diplomata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Desenvolvimento profissional dos cônjuges ou unidos de facto de diplomata\n\n1 - O cônjuge ou unido de facto de diplomata que integre o mapa de pessoal do MNE com vínculo de emprego público pode requerer ao secretário-geral a sua colocação para desempenho de funções no serviço periférico externo em que o respetivo cônjuge ou unido de facto é colocado ou em serviço periférico externo na mesma localidade.\n\n2 - No caso de o cônjuge ou unido de facto de diplomata não integrar o mapa de pessoal do MNE, pode apresentar requerimento idêntico ao referido no número anterior desde que, em simultâneo, seja apresentado requerimento de mobilidade interna ou de cedência de interesse público.\n\n3 - Na decisão sobre o requerimento apresentado nos termos dos números anteriores são ponderados fatores de oportunidade e de dimensão do serviço periférico externo, habilitações académicas, experiência profissional, perfil do requerente, bem como as disponibilidades orçamentais do MNE.\n\n4 - A colocação do trabalhador ao abrigo dos números anteriores é efetuada através da modalidade adequada de constituição da relação jurídica de emprego público pelo mesmo período em que o diplomata estiver colocado no serviço periférico externo.\n\n5 - A colocação do trabalhador nos termos do presente artigo não confere o direito ao pagamento de abono de habitação ou despesas de viagem para além dos previstos para o cônjuge ou unido de facto do diplomata colocado em serviço periférico externo."
+  },
+  "911487789": {
+   "fragment_id": "911487698",
+   "type": 1,
+   "heading": "Capítulo V — REGIME DISCIPLINAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — REGIME DISCIPLINAR"
+  },
+  "911487790": {
+   "fragment_id": "911487699",
+   "type": 11,
+   "heading": "Artigo 90.º — Infração disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Infração disciplinar\n\n1 - Constitui infração disciplinar o comportamento do diplomata, por ação ou omissão, ainda que meramente culposo, que viole deveres gerais ou especiais inerentes à função que exerce.\n\n2 - É aplicável aos diplomatas o regime disciplinar dos trabalhadores que exercem funções públicas."
+  },
+  "911487791": {
+   "fragment_id": "911487700",
+   "type": 11,
+   "heading": "Artigo 91.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Competência disciplinar\n\nSem prejuízo de outras competências estabelecidas por lei, compete ao inspetor-geral diplomático e consular:\n\na) A instauração de processos disciplinares contra diplomatas, salvo os contra diplomatas titulares dos cargos de direção superior de 1.º grau ou equiparados, incluindo os dirigentes máximos dos serviços periféricos externos;\n\nb) Submeter a decisão ministerial os processos disciplinares contra diplomatas titulares de cargos de direção superior de 1.º grau, incluindo os dirigentes máximos dos serviços periféricos externos;\n\nc) Apreciar as questões relativas a suspeições, impedimentos e incompatibilidades suscitadas no âmbito dos processos disciplinares instruídos pela Inspeção-Geral Diplomática e Consular;\n\nd) Avocar, quando tal se justifique, os processos de natureza disciplinar em curso em qualquer órgão ou serviço dirigido, tutelado ou coordenado pelo membro do Governo responsável pela área dos negócios estrangeiros;\n\ne) Nomear instrutores de processos de natureza disciplinar por si instaurados ou decididos;\n\nf) Designar peritos e técnicos, quando a atuação da Inspeção-Geral Diplomática e Consular carecer de especiais conhecimentos técnicos ou científicos;\n\ng) Determinar a suspensão preventiva dos diplomatas no âmbito de processos disciplinares ou submeter ao membro do Governo responsável pela área dos negócios estrangeiros proposta de suspensão preventiva quando se trate de diplomata titular de cargo de direção superior do 1.º grau, incluindo os dirigentes máximos dos serviços periféricos externos do MNE;\n\nh) Determinar, ouvido o secretário-geral, na sequência das ações disciplinares desenvolvidas, as recomendações e orientações adequadas à adoção de medidas destinadas à melhoria da estrutura, organização e funcionamento dos órgãos e serviços do MNE, tendentes a assegurar ou restabelecer a legalidade dos atos, o bom desempenho e a boa gestão administrativa e financeira, acompanhando a respetiva execução e evolução."
+  },
+  "911487792": {
+   "fragment_id": "911487701",
+   "type": 11,
+   "heading": "Artigo 92.º — Suspensão de diplomatas em funções nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Suspensão de diplomatas em funções nos serviços periféricos externos\n\nSem prejuízo do disposto na LTFP, a sanção de suspensão, quando aplicada a diplomata em exercício de funções nos serviços periféricos externos, é acompanhada do seu regresso imediato aos serviços internos."
+  },
+  "911487793": {
+   "fragment_id": "911487702",
+   "type": 11,
+   "heading": "Artigo 93.º — Regresso preventivo aos serviços internos por violação dos deveres funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Regresso preventivo aos serviços internos por violação dos deveres funcionais\n\nSem prejuízo do disposto na LTFP, a suspensão preventiva do diplomata em exercício de funções nos serviços periféricos externos é acompanhada do seu regresso imediato aos serviços internos, sem perda de remuneração base, com exceção da componente de atividade diplomática, até decisão do procedimento, e por prazo não superior a 90 dias."
+  },
+  "911487794": {
+   "fragment_id": "911487703",
+   "type": 11,
+   "heading": "Artigo 94.º — Notificações a diplomatas colocados nos serviços periféricos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Notificações a diplomatas colocados nos serviços periféricos externos\n\nAs notificações aos diplomatas colocados nos serviços periféricos externos são efetuadas pessoalmente, por via postal, por mala diplomática, para o respetivo domicílio necessário ou para morada indicada para o efeito pelo diplomata, incluindo morada digital, bem como, não sendo isso possível, por edital afixado no lugar de estilo de acesso público do serviço periférico externo em que se encontrar colocado e que produz efeitos no 3.º dia útil seguinte ao da sua afixação."
+  },
+  "911487795": {
+   "fragment_id": "911487704",
+   "type": 11,
+   "heading": "Artigo 95.º — Regra especial sobre prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Regra especial sobre prazos\n\n1 - Sem prejuízo do disposto na LTFP, o prazo de prescrição do procedimento disciplinar suspende-se pelo período necessário à obtenção de tradução de documento redigido em língua estrangeira, que não pode ser superior a três meses.\n\n2 - No caso de utilização da mala diplomática, são aplicáveis as dilações previstas no Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual."
+  },
+  "911487796": {
+   "fragment_id": "911487705",
+   "type": 1,
+   "heading": "Capítulo VI — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+  },
+  "911487797": {
+   "fragment_id": "911487706",
+   "type": 11,
+   "heading": "Artigo 96.º — Reposicionamento remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Reposicionamento remuneratório\n\n1 - Os diplomatas são reposicionados na mesma categoria e posição remuneratória detida à data da entrada em vigor do presente decreto-lei.\n\n2 - Para os efeitos previstos no número anterior, considera-se que a posição remuneratória corresponde ao anterior escalão.\n\n3 - Os ministros plenipotenciários no 5.º índice transitam para o 4.º nível remuneratório da categoria de ministro plenipotenciário.\n\n4 - Da aplicação do presente decreto-lei não pode resultar a diminuição do estatuto remuneratório de qualquer diplomata."
+  },
+  "911487798": {
+   "fragment_id": "911487707",
+   "type": 11,
+   "heading": "Artigo 97.º — Tabela remuneratória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Tabela remuneratória\n\nA tabela remuneratória da carreira diplomática entra em vigor de forma faseada, nos seguintes termos:\n\na) Entre 1 de janeiro e 31 de dezembro de 2025, aplica-se a tabela remuneratória da carreira diplomática constante do anexo i do presente decreto-lei e do qual faz parte integrante;\n\nb) Entre 1 de janeiro e 31 de dezembro de 2026, aplica-se a tabela remuneratória da carreira diplomática constante do anexo ii do presente decreto-lei e do qual faz parte integrante;\n\nc) A partir de 1 de janeiro de 2027, aplica-se a tabela remuneratória da carreira diplomática constante do anexo iii do decreto-lei e do qual faz parte integrante."
+  },
+  "911487799": {
+   "fragment_id": "911487708",
+   "type": 11,
+   "heading": "Artigo 98.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Disposições finais e transitórias\n\n1 - O disposto na alínea c) do n.º 2 do artigo 21.º não é aplicado aos diplomatas com a categoria de secretário de embaixada ou conselheiro de embaixada à data da entrada em vigor do presente decreto-lei.\n\n2 - Sem prejuízo do disposto no artigo 5.º do Decreto-Lei n.º 55/2006, de 15 de março, na sua redação atual, a matéria complementar necessária à concretização do regime especial dos diplomatas face ao regime geral de segurança social é objeto de regulamentação, através de portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da segurança social, no prazo de seis meses a contar da data da entrada em vigor do presente decreto-lei.\n\n3 - O limite temporal previsto no n.º 5 do artigo 48.º é prolongado em um ano para os diplomatas que, estando colocados num serviço periférico externo à data da entrada em vigor do presente decreto-lei, necessitem deste período para cumprir os tempos de permanência mínimos ou máximos previstos no n.º 1 do mesmo artigo.\n\n4 - Para os diplomatas colocados nos serviços internos à data da entrada em vigor do presente decreto-lei, atender-se-á à data 30 de setembro para efeitos da aplicação dos períodos previstos no artigo 49.º\n\n5 - O limite de idade para o exercício de funções nos serviços periféricos externos, previsto no artigo 50.º, é alargado progressivamente, acrescendo, a partir de 2025 e em cada ano civil, mais quatro meses à idade normal para acesso à pensão de velhice aplicável em cada ano, até se atingir a idade máxima para o exercício de funções públicas.\n\n6 - O diplomata só pode beneficiar uma vez do alargamento previsto no número anterior.\n\n7 - Nos termos e para os efeitos do n.º 6 do artigo 58.º e do n.º 2 do artigo 59.º, atender-se-á ao tempo de serviço prestado no SEAE e em organismos e instituições internacionais anterior à entrada em vigor do presente decreto-lei.\n\n8 - Sem prejuízo do disposto no n.º 1 do presente artigo, os diplomatas que, à data de entrada em vigor do presente decreto-lei, preencham os requisitos previstos no n.º 3 do artigo 18.º, no n.º 1 do artigo 19.º e no n.º 1 do artigo 20.º do Decreto-Lei n.º 40-A/98, de 27 de fevereiro, na sua redação atual, podem aceder às categorias de conselheiro, ministro plenipotenciário e embaixador nas promoções realizadas nos termos do presente decreto-lei.\n\n9 - Os diplomatas que, à data da entrada em vigor do presente decreto-lei, se encontrem na situação de disponibilidade mantêm-se nessa situação.\n\n10 - Aos diplomatas com as categorias de conselheiro de embaixada e secretário de embaixada que, com a entrada em vigor do presente decreto-lei, ao abrigo do disposto no artigo 30.º, vejam antecipada a sua data de transição para a situação de disponibilidade aplicar-se-ão os limites de idade previstos nas alíneas c) e d) do n.º 1 do artigo 30.º do Decreto-Lei n.º 40-A/98, de 27 de fevereiro, na sua redação atual.\n\n11 - Sem prejuízo do disposto no presente decreto-lei, é mantida inalterada a antiguidade dos diplomatas existente à data da sua entrada em vigor."
+  },
+  "911487800": {
+   "fragment_id": "911487709",
+   "type": 11,
+   "heading": "Artigo 99.º — Direito transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Direito transitório\n\n1 - A entrada em vigor do presente decreto-lei não prejudica procedimentos em curso com reflexo na gestão do serviço diplomático e nas carreiras dos funcionários diplomáticos, designadamente concursos de ingresso e promoção, colocações ordinárias e extraordinárias, prosseguindo estes nos termos das normas anteriormente vigentes até à sua conclusão.\n\n2 - Até à entrada em vigor dos despachos e portarias previstos no presente decreto-lei, mantêm-se em vigor as respetivas normas habilitantes constantes do Decreto-Lei n.º 40-A/98, de 27 de fevereiro, na sua redação atual, e os atos normativos delas decorrentes."
+  },
+  "911487801": {
+   "fragment_id": "911487710",
+   "type": 11,
+   "heading": "Artigo 100.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Regime supletivo\n\nEm tudo o que não esteja expressamente previsto no presente decreto-lei, é aplicável, subsidiariamente, aos diplomatas o regime previsto para os trabalhadores que exercem funções públicas."
+  },
+  "911487802": {
+   "fragment_id": "911487711",
+   "type": 11,
+   "heading": "Artigo 101.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Publicação\n\nOs despachos referidos no presente decreto-lei são publicados na 2.ª série do Diário da República."
+  },
+  "911487803": {
+   "fragment_id": "911487712",
+   "type": 11,
+   "heading": "Artigo 102.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 40-A/98, de 27 de fevereiro, na sua redação atual."
+  },
+  "911487804": {
+   "fragment_id": "911487713",
+   "type": 11,
+   "heading": "Artigo 103.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor 60 dias após a sua publicação.\n\n2 - A tabela remuneratória prevista no anexo i, a que faz referência a alínea a) do artigo 97.º, produz efeitos a 1 de janeiro de 2025."
+  },
+  "911487805": {
+   "fragment_id": "911487714",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Rosário Palma Ramalho.\n\nPromulgado em 10 de março de 2025.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 12 de março de 2025.\n\nO Primeiro-Ministro, Luís Montenegro."
+  },
+  "911487806": {
+   "fragment_id": "911487715",
+   "type": 14,
+   "heading": "Anexo I — Tabela remuneratória a aplicar entre 1 de janeiro e 31 de dezembro de 2025",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela remuneratória a aplicar entre 1 de janeiro e 31 de dezembro de 2025\n\n[a que se referem a alínea a) do artigo 97.º e o n.º 2 do artigo 103.º]\n\n| Categorias | Posições/níveis remuneratórios |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 |  |\n| Embaixador | 75 | 79 | 83 |  |  |\n| Ministro plenipotenciário | 60 | 64 | 67 | 71 |  |\n| Conselheiro de embaixada | 43 | 45 | 47 | 51 | 55 |\n| Secretário | 30 | 33 | 35 | 37 | 40 |\n| Adido | 26 |  |  |  |  |"
+  },
+  "911487807": {
+   "fragment_id": "911487716",
+   "type": 14,
+   "heading": "Anexo II — Tabela remuneratória a aplicar entre 1 de janeiro e 31 de dezembro de 2026",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tabela remuneratória a aplicar entre 1 de janeiro e 31 de dezembro de 2026\n\n[a que se refere a alínea b) do artigo 97.º]\n\n| Categorias | Posições/níveis remuneratórios |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 |  |\n| Embaixador | 77 | 82 | 87 |  |  |\n| Ministro plenipotenciário | 62 | 66 | 69 | 73 |  |\n| Conselheiro de embaixada | 45 | 47 | 49 | 53 | 57 |\n| Secretário | 32 | 35 | 37 | 39 | 42 |\n| Adido | 28 |  |  |  |  |"
+  },
+  "911487808": {
+   "fragment_id": "911487717",
+   "type": 14,
+   "heading": "Anexo III — Tabela remuneratória a aplicar a partir de 1 de janeiro de 2027",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Tabela remuneratória a aplicar a partir de 1 de janeiro de 2027\n\n[a que se referem o n.º 1 do artigo 71.º e a alínea c) do artigo 97.º]\n\n| Categorias | Posições/níveis remuneratórios |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 |  |\n| Embaixador | 82 | 86 | 91 |  |  |\n| Ministro plenipotenciário | 64 | 68 | 71 | 75 |  |\n| Conselheiro de embaixada | 47 | 49 | 51 | 55 | 59 |\n| Secretário | 34 | 37 | 39 | 41 | 44 |\n| Adido | 30 |  |  |  |  |\n\n118810244"
+  }
+ }
+}

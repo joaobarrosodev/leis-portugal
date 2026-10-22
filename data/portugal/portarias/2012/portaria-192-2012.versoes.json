@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178826:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-960670720",
+ "dre_path": "/dr/detalhe/portaria/192-2012-178826",
+ "source_lastmod": "2026-02-12",
+ "versions": [
+  {
+   "date": "2012-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "961862975",
+    "961863175",
+    "961863375",
+    "961863575",
+    "961863775",
+    "961863975",
+    "961864175",
+    "961864375",
+    "961864575",
+    "961864775",
+    "961864975",
+    "961865175",
+    "961865375",
+    "961865575"
+   ]
+  },
+  {
+   "date": "2026-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1047287416:por",
+     "title": "Portaria n.º 68/2026/1",
+     "published": "2026-02-12",
+     "dre_path": "/dr/detalhe/portaria/68-2026-1047287416"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 9.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "961862975",
+    "1046809999",
+    "961863375",
+    "1046810000",
+    "961863775",
+    "961863975",
+    "961864175",
+    "961864375",
+    "961864575",
+    "1046810001",
+    "1046809989",
+    "1046809994",
+    "1046810002",
+    "1046809996",
+    "1046809997",
+    "1046809998"
+   ]
+  }
+ ],
+ "fragments": {
+  "961862975": {
+   "fragment_id": "961862875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 103/2012, de 16 de maio, definiu a missão, atribuições e o tipo de organização interna da Direção-Geral do Livro, dos Arquivos e das Bibliotecas. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços, estabelecer o número máximo de unidades orgânicas flexíveis e definir as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo dos n.os 4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, e considerando as competências delegadas nos termos do n.º 11 do artigo 10.º do Decreto-Lei n.º 86-A/2011, de 12 de julho, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de Estado da Cultura, o seguinte:"
+  },
+  "961863175": {
+   "fragment_id": "961863075",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral do Livro, dos Arquivos e das Bibliotecas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral do Livro, dos Arquivos e das Bibliotecas\n\n1 - A Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB) estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) A Direção de Serviços do Livro;\n\nb) A Direção de Serviços de Arquivística e Normalização;\n\nc) A Direção de Serviços de Inovação e Administração Eletrónica;\n\nd) O Arquivo Nacional Torre do Tombo;\n\ne) O Centro Português de Fotografia;\n\nf) O Arquivo Distrital do Porto;\n\ng) A Direção de Serviços de Bibliotecas;\n\nh) A Direção de Serviços de Planeamento, Gestão e Informação.\n\n2 - As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviço, cargos de direção intermédia de 1.º grau."
+  },
+  "961863375": {
+   "fragment_id": "961863275",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços do Livro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direção de Serviços do Livro\n\nÀ Direção de Serviços do Livro, abreviadamente designada por DSL, compete:\n\na) Apoiar e incentivar a atividade criadora dos autores, através de programas e projetos que reconheçam a sua importância fundamental no quadro do setor do livro;\n\nb) Apoiar e promover a edição de obras de relevante interesse literário e cultural, através de programas que contribuam para incrementar a oferta editorial e possibilitem um maior conhecimento do património literário nacional;\n\nc) Produzir e disponibilizar informação sobre escritores e ilustradores portugueses, mantendo atualizada a base de dados do Centro de Documentação de Autores Portugueses;\n\nd) Produzir e disponibilizar informação sobre editoras e livrarias, mantendo atualizada as respetivas bases de dados e divulgando as suas atividades;\n\ne) Apoiar iniciativas e atividades de editores e livrarias;\n\nf) Incentivar a ilustração de livros para crianças e jovens, através da atribuição do Prémio Nacional de Ilustração e do apoio à participação de ilustradores em eventos, tanto em Portugal como no estrangeiro;\n\ng) Organizar o Prémio Camões, em conformidade com o estabelecido no respetivo Protocolo, em articulação com o Gabinete de Estratégia, Planeamento e Avaliação Culturais (GEPAC);\n\nh) Desenvolver um programa nacional de promoção da leitura, através de projetos próprios ou em articulação com entidades dos setores público e privado, de forma a que contribua decisivamente para combater a iliteracia e a exclusão social;\n\ni) Estimular a realização de estudos, em particular sobre o mercado do livro e hábitos de leitura, em articulação com o GEPAC;\n\nj) Definir, planear e executar programas e ações de divulgação dos autores portugueses e das respetivas obras no estrangeiro, contribuindo para uma crescente difusão e reconhecimento da literatura e dos autores portugueses junto dos diferentes públicos e mercados editoriais;\n\nk) Viabilizar o acesso ao livro em português nos países africanos de língua oficial portuguesa e Timor-Leste, através do apoio técnico e financeiro a projetos propostos pelos países parceiros, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros."
+  },
+  "961863575": {
+   "fragment_id": "961863475",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Arquivística e Normalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Arquivística e Normalização\n\nÀ Direção de Serviços de Arquivística e Normalização, abreviadamente designada por DSAN, compete:\n\na) Elaborar e propor políticas e planos nacionais de proteção, valorização e promoção do património arquivístico;\n\nb) Assegurar os procedimentos e formalidades necessários à proteção legal dos bens culturais arquivísticos, nos termos da lei;\n\nc) Assegurar a gestão dos registos patrimoniais de inventário e de classificação;\n\nd) Elaborar e propor políticas de aquisição, descrição, preservação e conservação, e ainda de comunicação e divulgação do património arquivístico à guarda dos arquivos dependentes;\n\ne) Elaborar normas e orientações técnicas para o tratamento arquivístico e promover a sua aplicação;\n\nf) Propor regras para o exercício dos direitos patrimoniais relativos ao acervo de que são depositários os arquivos dependentes;\n\ng) Acompanhar o comércio e exportação de património arquivístico protegido;\n\nh) Prestar serviços de consultadoria e apoio técnico no âmbito da gestão de arquivos, independentemente do formato, suporte ou idade dos documentos;\n\ni) Promover, em articulação com a Secretaria-Geral da Presidência do Conselho de Ministros, a oferta de formação nas áreas da arquivística, da preservação, da conservação e do restauro de documentos gráficos e da transferência de suportes, tendo em vista a generalização de boas práticas e gestão de arquivos;\n\nj) Emitir parecer sobre qualidade de serviços e sistemas de arquivo;\n\nk) Emitir parecer sobre os projetos de portarias de gestão de documentos, bem como sobre propostas de conservação e eliminação de documentos, identificadas pelas administrações produtoras;\n\nl) Assegurar a aplicação do programa de auditorias e fiscalização sobre arquivos, colaborando, sempre que adequado, com as entidades competentes;\n\nm) Realizar diagnósticos destinados a garantir um conhecimento sobre o património arquivístico nacional e manter atualizado um sistema de referenciação de entidades detentoras do património arquivístico;\n\nn) Emitir parecer sobre a criação de serviços de arquivo públicos, de âmbito nacional, regional e local."
+  },
+  "961863775": {
+   "fragment_id": "961863675",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Inovação e Administração Eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Inovação e Administração Eletrónica\n\nÀ Direção de Serviços de Inovação e Administração Eletrónica, abreviadamente designada por DSIAE, compete:\n\na) Acompanhar as iniciativas de governo eletrónico, desenvolvendo estudos e projetos que contribuam para a preservação do património arquivístico digital;\n\nb) Participar em programas que visem a racionalização da produção documental, da sua gestão e do acesso à informação do setor público;\n\nc) Elaborar normas e orientações técnicas para gestão de informação, nomeadamente nas áreas de governo eletrónico;\n\nd) Apoiar os organismos produtores e detentores de arquivos na conceção, desenvolvimento e implementação de sistemas de arquivo eletrónico e de preservação digital;\n\ne) Desenvolver metodologias e projetos conducentes à aplicação intensiva de novas tecnologias para a comunicação de conteúdos culturais;\n\nf) Assegurar a gestão do Ficheiro Nacional de Autoridade Arquivística;\n\ng) Promover a qualidade dos arquivos da administração em tudo o que respeite a preservação digital e racionalização de gestão de informação eletrónica;\n\nh) Participar em projetos internacionais na área da gestão e preservação de arquivos digitais, em articulação com o GEPAC;\n\ni) Conceber e desenvolver projetos transversais em áreas funcionais de arquivo, aplicação de novas tecnologias e modernização administrativa;\n\nj) Coordenar a promoção e exploração dos meios web para o acesso ao património arquivístico nacional e a prestação de serviços aos utilizadores;\n\nk) Promover a investigação, publicação e divulgação relativas à salvaguarda e valorização do património arquivístico e património fotográfico;\n\nl) Gerir e qualificar a rede nacional de arquivos, incluindo o desenvolvimento de estruturas de informação e comunicação destinadas a manter e ampliar os serviços oferecidos;\n\nm) Contribuir para a eficiência e qualidade dos serviços prestados pela DGLAB, elaborando e mantendo atualizados manuais de procedimentos internos e propondo medidas visando a desmaterialização de documentos;\n\nn) Assegurar o desenvolvimento e a gestão do sistema de arquivo da organização, em suporte tradicional ou eletrónico;\n\no) Assegurar a receção, registo, classificação, distribuição, expedição e arquivo de toda a correspondência da DGLAB."
+  },
+  "961863975": {
+   "fragment_id": "961863875",
+   "type": 11,
+   "heading": "Artigo 5.º — Arquivo Nacional Torre do Tombo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Arquivo Nacional Torre do Tombo\n\nAo Arquivo Nacional Torre do Tombo, abreviadamente designado por ANTT, compete:\n\na) Proceder ao tratamento arquivístico da documentação à sua guarda e elaborar os respetivos instrumentos de descrição e pesquisa;\n\nb) Assegurar as incorporações previstas, nos termos da lei, e promover outras aquisições de património arquivístico de interesse;\n\nc) Promover o acesso aos fundos documentais de que é depositário, implementando sistemas de descrição, pesquisa e acesso aos documentos;\n\nd) Promover o conhecimento e a fruição do património arquivístico de que é depositário;\n\ne) Proceder ao levantamento e diagnóstico do estado físico da documentação de que é depositário e assegurar a implementação das políticas de preservação e conservação;\n\nf) Assegurar o funcionamento do núcleo local de conservação e restauro."
+  },
+  "961864175": {
+   "fragment_id": "961864075",
+   "type": 11,
+   "heading": "Artigo 6.º — Centro Português de Fotografia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Centro Português de Fotografia\n\n1 - Ao Centro Português de Fotografia, abreviadamente designado por CPF, compete:\n\na) Promover a salvaguarda e valorização do património fotográfico, garantindo a aplicação de diretivas técnicas, apoiando as entidades detentoras, públicas e privadas, e incentivando o crescente acesso aos espólios;\n\nb) Assegurar todos os procedimentos técnicos e formalidades relativos à aquisição de património arquivístico;\n\nc) Assegurar os procedimentos e formalidades necessários à proteção legal do património fotográfico;\n\nd) Elaborar normas e orientações técnicas para o tratamento de arquivos fotográficos;\n\ne) Proceder ao tratamento arquivístico de todas as espécies, coleções e espólios fotográficos classificados ou em vias de classificação como integrando o património nacional à sua guarda e elaborar os respetivos instrumentos de descrição e pesquisa;\n\nf) Colaborar com os serviços da DGLAB na promoção da qualidade dos arquivos fotográficos, incentivando e apoiando as instituições a que pertencem ou de que dependem na implantação de sistemas de gestão, garantindo a aplicação de diretivas técnicas e incentivando o crescente acesso aos espólios;\n\ng) Promover o acesso aos arquivos fotográficos de que é depositário, implementando sistemas de descrição, pesquisa e acesso aos documentos;\n\nh) Assegurar a conservação e gestão da Coleção Nacional de Fotografia;\n\ni) Promover o conhecimento e a fruição do património fotográfico de que é depositário;\n\nj) Proceder ao levantamento e diagnóstico do estado físico da documentação de que é depositário e assegurar a implementação das políticas de preservação e conservação.\n\n2 - O CPF funciona no Porto."
+  },
+  "961864375": {
+   "fragment_id": "961864275",
+   "type": 11,
+   "heading": "Artigo 7.º — Arquivo Distrital do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Arquivo Distrital do Porto\n\nAo Arquivo Distrital do Porto, abreviadamente designada por ADP, compete:\n\na) Apoiar e colaborar com os demais arquivos distritais na preservação, conservação e restauro do património arquivístico, bem como dos domínios das tecnologias da informação, comunicação e transferência de suportes, de acordo com as orientações da DGLAB;\n\nb) Proceder ao levantamento e diagnóstico do estado físico da documentação de que é depositário e assegurar a implementação das políticas de preservação e conservação;\n\nc) Proceder ao tratamento arquivístico da documentação à sua guarda e elaborar os respetivos instrumentos de descrição e pesquisa;\n\nd) Promover o acesso aos fundos documentais de que é depositário, implementando sistemas de descrição, pesquisa e acesso aos documentos;\n\ne) Assegurar a prestação de serviços de consulta, de reprodução, de certificação e de pesquisa sobre a documentação de que é depositário;\n\nf) Efetuar averbamentos sobre documentação incorporada, quando solicitada pelas entidades competentes;\n\ng) Promover o conhecimento e a fruição do património arquivístico de que é depositário, bem como do existente na respetiva área geográfica de intervenção, autonomamente ou em colaboração com outras entidades;\n\nh) Prestar serviços de consultoria e apoio técnico e apoiar os serviços da DGLAB na gestão de programas e na promoção de iniciativas e projetos, na respetiva área geográfica de intervenção."
+  },
+  "961864575": {
+   "fragment_id": "961864475",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Serviços de Planeamento, Gestão e Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direção de Serviços de Planeamento, Gestão e Informação\n\nÀ Direção de Serviços de Planeamento, Gestão e Informação, abreviadamente designada por DSPGI, compete:\n\na) Elaborar os documentos de gestão estratégica e planeamento, nomeadamente o orçamento, o plano e relatório anual de atividades, os mapas de pessoal, o QUAR, o balanço social, a conta de gerência, ou outros, e acompanhar a sua execução;\n\nb) Preparar candidaturas, designadamente a fundos comunitários, e assegurar o seu acompanhamento e controlo;\n\nc) Propor e desenvolver estratégias de captação de apoios mecenáticos para a realização de iniciativas da DGLAB e serviços dependentes;\n\nd) Instruir os processos relativos à cobrança e arrecadação de receitas e à realização de despesas e executar o respetivo ciclo;\n\ne) Gerir o fundo permanente e de maneio;\n\nf) Assegurar a execução dos procedimentos administrativos relacionados com os trabalhadores da DGLAB, incluindo acompanhar as ações de seleção e recrutamento; manter atualizado o cadastro, bem como o registo e controlo da assiduidade e garantir o processamento dos vencimentos, abonos e outras remunerações, assim como os descontos devidos;\n\ng) Promover e organizar o processo de avaliação do desempenho dos trabalhadores da DGLAB (SIADAP);\n\nh) Garantir o cumprimento das normas relativas às condições de higiene, saúde e segurança no trabalho;\n\ni) Executar e manter atualizado o inventário de todos os bens afetos à DGLAB, assegurando a manutenção das instalações e equipamentos;\n\nj) Identificar as necessidades de aquisição de bens necessários ao funcionamento das unidades orgânicas e assegurar a sua distribuição em articulação com a Secretaria-Geral da Presidência do Conselho de Ministros;\n\nk) Coordenar de acordo com as normas de contratação pública o processo de aquisições de serviços;\n\nl) Acompanhar medidas no âmbito do governo eletrónico promovendo a sua aplicação, a fim de alcançar objetivos de racionalização e modernização administrativa;\n\nm) Efetuar o planeamento de sistemas de informação, no âmbito de atuação da DGLAB;\n\nn) Apoiar administrativamente a definição e desenvolvimento de projetos de informação;\n\no) Assegurar a gestão e exploração dos sistemas e equipamentos informáticos da DGLAB, bem como a gestão e exploração da rede de comunicações;\n\np) Gerir a imagem institucional da DGLAB promovendo a difusão da informação, incluindo a relativa ao património cultural que lhe está afeto;\n\nq) Dar parecer sobre os pedidos de utilização da imagem e dos espaços da DGLAB e dos serviços dependentes;\n\nr) Participar na preparação e execução de relatórios e informações estatísticas das atividades e projetos da DGLAB."
+  },
+  "961864775": {
+   "fragment_id": "961864675",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção de Serviços de Bibliotecas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direção de Serviços de Bibliotecas\n\nÀ Direção de Serviços de Bibliotecas, abreviadamente designada por DSB, compete:\n\na) Gerir o programa da Rede Nacional de Bibliotecas Públicas, planeando e acompanhando as medidas da política para o setor;\n\nb) Elaborar e promover a aplicação de orientações técnicas e normativas de caráter nacional e internacional, aplicáveis ao setor das bibliotecas públicas;\n\nc) Elaborar e colaborar na elaboração de diplomas legais na área das bibliotecas públicas;\n\nd) Acompanhar, em articulação com o GEPAC, a adoção de medidas legislativas no domínio do direito de autor, aplicáveis ao setor das bibliotecas públicas;\n\ne) Promover a qualidade do serviço de biblioteca pública, através da sua monitorização e avaliação regular;\n\nf) Constituir e orientar equipas de consulta técnica para acompanhamento de projetos nas suas diversas vertentes;\n\ng) Promover a cooperação e o trabalho em rede entre bibliotecas, em colaboração com outras entidades;\n\nh) Incentivar e apoiar a criação de novos serviços, com recurso às tecnologias de informação e comunicação e participar em projetos e iniciativas que promovam a inovação e a qualidade nesse domínio;\n\ni) Cooperar com outras entidades, no plano nacional e internacional, na conceção e execução de projetos e programas específicos da área, incluindo os relativos à formação e qualificação dos técnicos de bibliotecas;\n\nj) Participar em iniciativas, a nível local, regional, nacional e internacional que contribuam para a inovação no sector."
+  },
+  "961864975": {
+   "fragment_id": "961864875",
+   "type": 11,
+   "heading": "Artigo 10.º — Estrutura flexível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estrutura flexível\n\nO número máximo de unidades orgânicas flexíveis da DGLAB é fixado em 19, neste se incluindo os serviços identificados nas alíneas d) a q) do anexo i ao Decreto-Lei n.º 103/2012, de 16 de maio."
+  },
+  "961865175": {
+   "fragment_id": "961865075",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogadas as Portaria n.os 371/2007, 372/2007, 393/2007 e 394/2007, todas de 30 de março."
+  },
+  "961865375": {
+   "fragment_id": "961865275",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "961865575": {
+   "fragment_id": "961865475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 6 de junho de 2012. - O Secretário de Estado da Cultura, Francisco José Viegas, em 5 de junho de 2012."
+  },
+  "1046809999": {
+   "fragment_id": "961863075",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral do Livro, dos Arquivos e das Bibliotecas",
+   "in_force_from": "2026-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral do Livro, dos Arquivos e das Bibliotecas\n\n1 - A Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB) estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) A Direção de Serviços do Livro;\n\nb) A Direção de Serviços de Arquivística e Normalização;\n\nc) A Direção de Serviços de Inovação e Administração Eletrónica;\n\nd) O Arquivo Nacional Torre do Tombo;\n\ne) O Centro Português de Fotografia;\n\nf) O Arquivo Distrital do Porto;\n\ng) A Direção de Serviços de Bibliotecas;\n\nh) A Direção de Serviços de Planeamento, Gestão e Informação;\n\ni) O Arquivo Nacional do Som;\n\nj) O Arquivo Geral da Administração Central.\n\n2 - As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviço, cargos de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+  },
+  "1046810000": {
+   "fragment_id": "961863475",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Arquivística e Normalização",
+   "in_force_from": "2026-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Arquivística e Normalização\n\nÀ Direção de Serviços de Arquivística e Normalização, abreviadamente designada por DSAN, compete:\n\na) Elaborar e propor políticas e planos nacionais de proteção, valorização e promoção do património arquivístico;\n\nb) Assegurar os procedimentos e formalidades necessários à proteção legal dos bens culturais arquivísticos, nos termos da lei;\n\nc) Assegurar a gestão dos registos patrimoniais de inventário e de classificação;\n\nd) Elaborar e propor políticas de aquisição, descrição, preservação e conservação, e ainda de comunicação e divulgação do património arquivístico à guarda dos arquivos dependentes;\n\ne) Elaborar normas e orientações técnicas para o tratamento arquivístico e promover a sua aplicação;\n\nf) Propor regras para o exercício dos direitos patrimoniais relativos ao acervo de que são depositários os arquivos dependentes;\n\ng) Acompanhar o comércio e exportação de património arquivístico protegido;\n\nh) Prestar serviços de consultadoria e apoio técnico no âmbito da gestão de arquivos, independentemente do formato, suporte ou idade dos documentos;\n\ni) Promover, em articulação com a Secretaria-Geral do Governo, a oferta de formação nas áreas arquivísticas, da preservação, da conservação e do restauro de documentos gráficos e da transferência de suportes, tendo em vista a generalização de boas práticas e gestão de arquivos;\n\nj) Emitir parecer sobre qualidade de serviços e sistemas de arquivo;\n\nk) Emitir parecer sobre os projetos de portarias de gestão de documentos, bem como sobre propostas de conservação e eliminação de documentos, identificadas pelas administrações produtoras;\n\nl) Assegurar a aplicação do programa de auditorias e fiscalização sobre arquivos, colaborando, sempre que adequado, com as entidades competentes;\n\nm) Realizar diagnósticos destinados a garantir um conhecimento sobre o património arquivístico nacional e manter atualizado um sistema de referenciação de entidades detentoras do património arquivístico;\n\nn) Emitir parecer sobre a criação de serviços de arquivo públicos, de âmbito nacional, regional e local.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+  },
+  "1046810001": {
+   "fragment_id": "961864675",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção de Serviços de Bibliotecas",
+   "in_force_from": "2026-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+   ],
+   "markdown": "###### Artigo 9.º — Direção de Serviços de Bibliotecas\n\nÀ Direção de Serviços de Bibliotecas, abreviadamente designada por DSB, compete:\n\na) Gerir o programa da Rede Nacional de Bibliotecas Públicas, planeando e acompanhando as medidas da política para o setor;\n\nb) Elaborar e promover a aplicação de orientações técnicas e normativas de caráter nacional e internacional, aplicáveis ao setor das bibliotecas públicas;\n\nc) Elaborar e colaborar na elaboração de diplomas legais na área das bibliotecas públicas;\n\nd) Acompanhar, em articulação com o GEPAC, a adoção de medidas legislativas no domínio do direito de autor, aplicáveis ao setor das bibliotecas públicas;\n\ne) Promover a qualidade do serviço de biblioteca pública, através da sua monitorização e avaliação regular;\n\nf) Constituir e orientar equipas de consulta técnica para acompanhamento de projetos nas suas diversas vertentes;\n\ng) Promover a cooperação e o trabalho em rede entre bibliotecas, em colaboração com outras entidades;\n\nh) Incentivar e apoiar a criação de novos serviços, com recurso às tecnologias de informação e comunicação e participar em projetos e iniciativas que promovam a inovação e a qualidade nesse domínio;\n\ni) Cooperar com outras entidades, no plano nacional e internacional, na conceção e execução de projetos e programas específicos da área, incluindo os relativos à formação e qualificação dos técnicos de bibliotecas;\n\nj) Participar em iniciativas, a nível local, regional, nacional e internacional que contribuam para a inovação no sector;\n\nk) Efetuar a gestão da biblioteca e centro de documentação da Secretaria-Geral do Governo e das entidades públicas localizadas no Campus XXI.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+  },
+  "1046809989": {
+   "fragment_id": "1047509047",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Arquivo Nacional do Som",
+   "in_force_from": "2026-02-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+   ],
+   "markdown": "###### Artigo 9.º-A — Arquivo Nacional do Som\n\na) Elaborar, ajudar a implementar normas e orientações técnicas sectoriais, disponibilizando documentação técnica, prestando serviços de consultadoria técnica, e realizando visitas técnicas a entidades públicas com funções arquivísticas que custodiem conjuntos documentais sonoros ou quaisquer outras entidades públicas;\n\nb) Colaborar e apoiar tecnicamente todas as entidades detentoras, públicas e privadas, na preservação, no acesso e na promoção dos fundos documentais sonoros;\n\nc) Promover e participar em formações na sua área da gestão, conservação, preservação e transferência de suportes;\n\nd) Elaborar e propor políticas de constituição de fundos documentais sonoros;\n\ne) Planear e executar programas e ações de divulgação do património documental sonoro no estrangeiro, contribuindo para uma crescente difusão e reconhecimento da cultura e práticas musicais em Portugal no estrangeiro;\n\nf) Promover o acesso aos fundos sonoros de que é depositário, implementando sistemas de descrição, pesquisa e acesso aos documentos\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+  },
+  "1046809994": {
+   "fragment_id": "1047509048",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Arquivo Geral da Administração Central",
+   "in_force_from": "2026-02-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+   ],
+   "markdown": "###### Artigo 9.º-B — Arquivo Geral da Administração Central\n\nAo Arquivo Geral da Administração Central, abreviadamente designado por AGAC, compete:\n\na) Proceder ao levantamento e diagnóstico do estado físico da documentação de arquivo de que é depositário e assegurar a implementação das políticas de preservação e conservação;\n\nb) Desenvolver os processos de avaliação da documentação de arquivo à sua guarda, nos casos necessários, com vista à adequada definição do património arquivístico a salvaguardar e valorizar;\n\nc) Proceder à gestão, recolha, tratamento, conservação e comunicação dos arquivos intermédios por parte dos serviços produtores, designadamente da Secretaria-Geral do Governo, assegurando a otimização dos custos globais de ocupação e funcionamento e a sua preservação, sempre que esta competência não esteja acometida a outro serviço ou entidade;\n\nd) Proceder à transferência e substituição de suporte da documentação de arquivo, de acordo com a legislação em vigor e as normas e orientações técnicas preconizadas pela DGLAB;\n\ne) Garantir a adequada eliminação da documentação de arquivo nos termos fixados pela legislação em vigor e pelas normas e orientações técnicas preconizadas pela DGLAB;\n\nf) Efetuar a gestão integrada do arquivo intermédio e gerir e disponibilizar o acervo de documentos, nomeadamente da Secretaria-Geral do Governo;\n\ng) Promover a elaboração e cumprimento de planos de preservação digital.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+  },
+  "1046810002": {
+   "fragment_id": "961864875",
+   "type": 11,
+   "heading": "Artigo 10.º — Estrutura flexível",
+   "in_force_from": "2026-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+   ],
+   "markdown": "###### Artigo 10.º — Estrutura flexível\n\nO número máximo de unidades orgânicas flexíveis da DGLAB é fixado em 25, neste se incluindo os serviços identificados nas alíneas d) a q) do anexo i ao Decreto-Lei n.º 103/2012, de 16 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 68/2026/1 - Diário da República n.º 30/2026, Série I de 2026-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/68-2026-1047287416), em vigor a partir de 2026-02-13"
+  },
+  "1046809996": {
+   "fragment_id": "961865075",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogadas as Portaria n.os 371/2007, 372/2007, 393/2007 e 394/2007, todas de 30 de março."
+  },
+  "1046809997": {
+   "fragment_id": "961865275",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1046809998": {
+   "fragment_id": "961865475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 6 de junho de 2012. - O Secretário de Estado da Cultura, Francisco José Viegas, em 5 de junho de 2012."
+  }
+ }
+}

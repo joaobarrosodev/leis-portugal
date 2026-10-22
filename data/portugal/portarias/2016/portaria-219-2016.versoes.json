@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75120530:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-117851056",
+ "dre_path": "/dr/detalhe/portaria/219-2016-75120530",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117850960",
+    "117850961",
+    "117850962",
+    "117850963",
+    "117850964",
+    "117850965",
+    "117850966",
+    "117850968",
+    "117850969"
+   ]
+  },
+  {
+   "date": "2019-01-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117821817:por",
+     "title": "Portaria n.º 19/2019",
+     "published": "2019-01-15",
+     "dre_path": "/dr/detalhe/portaria/19-2019-117821817"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "117850960",
+    "117850961",
+    "117850962",
+    "117854175",
+    "117854176",
+    "117850965",
+    "117850966",
+    "117850967",
+    "117850968",
+    "117854186"
+   ]
+  }
+ ],
+ "fragments": {
+  "117850960": {
+   "fragment_id": "117851057",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 219/2016\n\nde 9 de agosto\n\nA Lei n.º 111/2015, de 27 de agosto - Regime Jurídico da Estruturação Fundiária, que alterou o Código Civil, teve como objetivo criar melhores condições para o desenvolvimento das atividades agrícolas e florestais, de modo compatível com a sua gestão sustentável nos domínios económico, social e ambiental, através da intervenção na configuração, dimensão, qualificação e utilização produtiva das parcelas e prédios rústicos.\n\nA necessidade de tornar mais eficazes as ações de estruturação fundiária radicou na importância de aperfeiçoar, criar e desenvolver instrumentos que promovessem e facilitassem a criação de empresas ou explorações agrícolas sustentáveis, de dinamização do mercado da terra, em ordem à qualificação e valorização dos territórios rurais e ao desenvolvimento sustentável.\n\nCom o emparcelamento rural, pretende-se concentrar e corrigir a configuração dos prédios rústicos, garantir o aproveitamento dos recursos e dos valores naturais, bem como valorizar a biodiversidade e a paisagem, potenciando a melhoria da qualidade de vida da população rural e o correto ordenamento fundiário.\n\nNeste sentido, a Lei n.º 111/2015, de 27 de agosto, veio permitir a clarificação das regras sobre o emparcelamento de prédios rústicos, distinguindo a valorização fundiária, nos casos em que o desenvolvimento económico, ambiental e social das zonas rurais se encontra condicionado pela insuficiência ou deficiência das infraestruturas de suporte, ao desenvolvimento das atividades agrícolas. O diploma legal veio também reforçar, no que diz respeito aos limites ao fracionamento dos prédios rústicos, o impedimento dos atos jurídicos que contrariem os limites da unidade de cultura, inalterado desde 1970, prevendo desde logo a sua revisão, com o objetivo de se garantir a sustentabilidade das estruturas fundiárias.\n\nPelo que, e nos termos do disposto no n.º 3 do artigo 4.º e artigo 49.º da Lei n.º 111/2015, de 27 de agosto, a par da revisão da superfície mínima, correspondente à unidade de cultura, pretende-se também fixar a superfície máxima resultante do redimensionamento de explorações agrícolas com vista à melhoria da estruturação fundiária da exploração.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 4.º e do artigo 49.º da Lei n.º 111/2015, de 27 de agosto, e através das competências delegadas pelo Despacho n.º 2243/2016, de 1 de fevereiro de 2016, manda o Governo, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, o seguinte:"
+  },
+  "117850961": {
+   "fragment_id": "117851058",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria fixa a superfície máxima resultante do redimensionamento de explorações agrícolas com vista à melhoria da estruturação fundiária da exploração e a unidade de cultura a que se refere o artigo 1376.º do Código Civil."
+  },
+  "117850962": {
+   "fragment_id": "117851059",
+   "type": 11,
+   "heading": "Artigo 2.º — Superfície máxima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Superfície máxima\n\nA superfície máxima resultante do redimensionamento de explorações agrícolas com vista à melhoria da estruturação fundiária da exploração para Portugal continental, por NUT III nos termos do Regulamento (UE) n.º 868/2014 da Comissão, de 8 de agosto de 2014, que altera os anexos do Regulamento (CE) n.º 1059/2003 do Parlamento Europeu e do Conselho relativo à instituição de uma Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS), é a constante do anexo i da presente portaria e que dela faz parte integrante."
+  },
+  "117850963": {
+   "fragment_id": "117851060",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidade de cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Unidade de cultura\n\nA unidade de cultura a que se refere o artigo 1376.º do Código Civil, para Portugal continental e por NUT III nos termos do Regulamento (UE) n.º 868/2014 da Comissão, de 8 de agosto de 2014, é a constante do anexo ii da presente portaria e que dela faz parte integrante."
+  },
+  "117850964": {
+   "fragment_id": "117851061",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma transitória\n\n1 - Aos instrumentos de gestão territorial aprovados antes da entrada em vigor da presente portaria que tenham como referência, para efeitos da edificabilidade, os valores constantes do artigo 1.º do Regulamento aprovado pela Portaria n.º 202/70, de 21 de abril, não são aplicáveis os valores previstos no artigo 3.º da presente portaria.\n\n2 - Para os instrumentos de gestão territorial mencionados no número anterior e enquanto não forem alterados ou revistos mantêm-se em vigor os valores constantes do artigo 1.º do Regulamento aprovado pela Portaria n.º 202/70, de 21 de abril."
+  },
+  "117850965": {
+   "fragment_id": "117851062",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogada a Portaria n.º 202/70, de 21 de abril."
+  },
+  "117850966": {
+   "fragment_id": "117851063",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "117850968": {
+   "fragment_id": "117851065",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 2.º)\n\nSuperfície máxima resultante do redimensionamento de explorações agrícolas com vista à melhoria da estruturação fundiária da exploração para Portugal continental\n\n(ver documento original)"
+  },
+  "117850969": {
+   "fragment_id": "117851066",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 3.º)\n\nUnidade de cultura para Portugal continental\n\n(ver documento original)"
+  },
+  "117854175": {
+   "fragment_id": "117851060",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidade de cultura",
+   "in_force_from": "2019-01-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/19-2019-117821817), em vigor a partir de 2019-01-16"
+   ],
+   "markdown": "###### Artigo 3.º — Unidade de cultura\n\nA unidade de cultura a que se refere o artigo 1376.º e para efeitos do disposto no n.º 1 do artigo 1379.º do Código Civil, na redação atual, para Portugal continental e por NUT III nos termos do Regulamento (UE) n.º 868/2014 da Comissão, de 8 de agosto de 2014, é a constante do anexo ii da presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/19-2019-117821817), em vigor a partir de 2019-01-16"
+  },
+  "117854176": {
+   "fragment_id": "117851061",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma transitória",
+   "in_force_from": "2019-01-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/19-2019-117821817), em vigor a partir de 2019-01-16"
+   ],
+   "markdown": "###### Artigo 4.º — Norma transitória\n\n1 - Aos instrumentos de gestão territorial aprovados antes da entrada em vigor da presente portaria que tenham como referência, para efeitos da edificabilidade, os valores constantes do artigo 1.º do Regulamento aprovado pela Portaria n.º 202/70, de 21 de abril, não são aplicáveis os valores previstos no artigo 3.º da presente portaria.\n\n2 - Para os instrumentos de gestão territorial mencionados no número anterior, se entretanto não forem alterados ou revistos, mantêm-se em vigor, até 13 de julho de 2020, os valores constantes do artigo 1.º do Regulamento aprovado pela Portaria n.º 202/70, de 21 de abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/19-2019-117821817), em vigor a partir de 2019-01-16"
+  },
+  "117850967": {
+   "fragment_id": "117851064",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado das Florestas e do Desenvolvimento Rural, Amândio José de Oliveira Torres, em 2 de agosto de 2016."
+  },
+  "117854186": {
+   "fragment_id": "117851066",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 3.º)",
+   "in_force_from": "2019-01-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/19-2019-117821817), em vigor a partir de 2019-01-16"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 3.º)\n\nUnidade de cultura para Portugal continental\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/19-2019-117821817), em vigor a partir de 2019-01-16"
+  }
+ }
+}

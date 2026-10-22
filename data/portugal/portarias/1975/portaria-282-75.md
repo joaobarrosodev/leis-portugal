@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:158441:por
+title: Portaria n.º 282/75
+short_title: null
+summary: Autoriza os conselhos administrativos de vários departamentos da Força Aérea a sacar importâncias do orçamento ordinário
+  do Departamento da Força Aérea em vigor
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Força Aérea
+proposing_entity: null
+official_number: 282/75
+official_date: null
+publication_date: '1975-04-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 98/1975, Série I de 1975-04-28
+  number: '98'
+  series: I
+  supplement: null
+  pages: 623 - 624
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/04/09800/06230624.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '158441'
+  dre_path: /dr/detalhe/portaria/282-1975-158441
+  internal: pt:dre:158441:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-1975-158441
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-1975-158441
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-04-28T00:00:00Z'
+integrity:
+  source_sha256: 77be9db8444ff2f4fe4cb970760d5c00f843ed0e242359a8bbc5c514d40de5cf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-282-158441.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 282/75
+
+de 28 de Abril
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, que, nos termos do § 4.º do artigo 48.º do [Decreto-Lei n.º 41758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41758-1958-351557), de 25 de Julho de 1958, os conselhos administrativos dos departamentos da Força Aérea a seguir mencionados sejam autorizados a sacar, em conta do capítulo 6.º do orçamento ordinário do Departamento da Força Aérea em vigor, a importância que lhes vai indicada:
+
+###### Artigo 150.º, n.º 1 «Remunerações por serviços auxiliares»:
+
+Comando da 1.ª Região Aérea ... 300000$00
+
+Estado-Maior da Força Aérea ... 260000$00
+
+Grupo Detecção Alerta e Conduta da Intercepção ... 450000$00
+
+Base Aérea n.º 2 ... 230000$00
+
+Base Aérea n.º 6 ... 120000$00
+
+Depósito Geral de Adidos da Força Aérea ... 300000$00
+
+###### Artigo 158.º, n.º 1 «Encargos próprios das instalações»:
+
+Comando da 1.ª Região Aérea ... 120000$00
+
+Depósito Geral de Material da Força Aérea ... 170000$00
+
+Depósito Geral de Adidos da Força Aérea ... 200000$00
+
+Base Aérea n.º 2 ... 390000$00
+
+Base Aérea n.º 5 ... 20000$00
+
+Base Aérea n.º 7 ... 300000$00
+
+###### Artigo 158.º, n.º 4 «Comunicações»:
+
+Comando da 1.ª Região Aérea ... 75000$00
+
+Direcção do Serviço de Material ... 40000$00
+
+Depósito Geral de Material da Força Aérea ... 15000$00
+
+Depósito Geral de Adidos da Força Aérea ... 30000$00
+
+Base Aérea n.º 1 ... 20000$00
+
+Base Aérea n.º 2 ... 75000$00
+
+Base Aérea n.º 3 ... 35000$00
+
+Base Aérea n.º 7 ... 170000$00
+
+Estado-Maior da Força Aérea, 24 de Março de 1975. - O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias, general.

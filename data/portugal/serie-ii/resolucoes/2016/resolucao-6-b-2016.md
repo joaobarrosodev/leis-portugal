@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:73833507:por
+title: Resolução n.º 6-B/2016
+short_title: null
+summary: Nomeia os membros do conselho de administração do Centro Hospitalar do Algarve, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 6-B/2016
+official_date: null
+publication_date: '2016-03-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 49/2016, 1º Suplemento, Série II de 2016-03-10
+  number: '49'
+  series: II
+  supplement: 1º Suplemento
+  pages: 8660-(3) a 8660-(5)
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/03/049000001/0000300005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '73833507'
+  dre_path: /dr/detalhe/resolucao/6-b-2016-73833507
+  internal: pt:dre:73833507:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-b-2016-73833507
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-b-2016-73833507
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-03-10T00:00:00Z'
+integrity:
+  source_sha256: 5ac413bc9636484dcdfc6303b9d04b4a05117622e6ed88bee7db068359502adb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-6-B-73833507.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 6-B/2016
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, e alterado pelo [Decreto-Lei n.º 183/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), de 31 de agosto, aplicável por força do [Decreto-Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2013-261078), de 17 de maio, que criou o Centro Hospitalar do Algarve, E. P. E., por fusão do Centro Hospitalar do Barlavento Algarvio, E. P. E., e do Hospital de Faro, E. P. E., conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração do Centro Hospitalar do Algarve, E. P. E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração do Centro Hospitalar do Algarve, E. P. E., cessaram os respetivos mandatos a 31 de dezembro de 2015, torna-se necessário proceder à nomeação de um novo conselho de administração, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre a nomeação constante da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, alterado pelo [Decreto-Lei n.º 183/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), de 31 de agosto, dos n.os 2 e 3 do artigo 13.º, da alínea c) do n.º 3 do artigo 20.º e do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros das Finanças e da Saúde, Joaquim Grave Ramalho, Helena Cristina Gil Cardeira dos Santos Leitão, Maria Teresa da Silveira Bretão Machado Luciano, Carlos Alberto Rosário dos Santos (diretor clínico) e Nuno Álvaro Caneca Murcho (enfermeiro diretor), respetivamente, para os cargos de presidente e vogais executivos do conselho de administração do Centro Hospitalar do Algarve, E. P. E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas notas curriculares, que constam dos anexos à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar o nomeado Carlos Alberto Rosário dos Santos a optar pelo vencimento do lugar de origem.
+
+3 - Autorizar os nomeados Maria Teresa da Silveira Bretão Machado Luciano e Nuno Álvaro Caneca Murcho a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
+
+3 de março de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — Notas curriculares
+
+Joaquim Grave Ramalho
+
+Data de nascimento: 29 de abril de 1952
+
+Naturalidade: Santiago Maior, Alandroal, Évora.
+
+Licenciado em Gestão e Organização de Empresas pela Escola Superior de Estudos Sociais e Económicos - Bento de Jesus, em Évora.
+
+Experiência Profissional:
+
+Diretor do Departamento de Contratualização da ARS Algarve, I. P., desde janeiro de 2012.
+
+Assessor do Conselho Diretivo da ARS Algarve, I. P., de outubro de 2011 a janeiro 2012.
+
+Vogal do Conselho Diretivo da ARS Algarve, I. P., de maio de 2005 a outubro de 2011.
+
+Chefe de Projeto Estrutura de Apoio Técnico para a gestão do Fundo Social Europeu do PROALGARVE - Programa Operacional da Região do Algarve, de fevereiro de 2003 a maio de 2005.
+
+Chefe de Projeto da Estrutura de Apoio Técnico de Controlo de 1.º nível do PROALGARVE - Programa Operacional da Região do Algarve, de maio de 2002 a fevereiro de 2003.
+
+Vogal do Conselho de Administração da Sociedade de Conceção, Execução e Gestão do Parque das Cidades Loulé/Faro - Empresa Intermunicipal, EIM - para desenvolvimento do projeto de construção do Parque das Cidades Loulé/Faro, de junho de 2000 a abril de 2002.
+
+Administrador da Comissão de Coordenação e Desenvolvimento Regional do Algarve (CCDR Algarve), de maio de 1996 a maio de 2000.
+
+Técnico Superior da Direção Regional de Agricultura do Algarve e Chefe de Divisão de Programação e Gestão Financeira, entre 1993 e 1996.
+
+Coordenador da UNICAMA - União das Caixas de Crédito Agrícola Mútuo do Algarve (Faro),em regime de destacamento, de junho de 1988 a junho de 1991.
+
+Técnico Superior da Direção-Geral de Planeamento e Agricultura (ex- DGA) - Divisão de Apoio à Gestão da Empresa Agrícola, Lisboa, de outubro de 1982 a junho de 1988.
+
+Assessor do Gabinete do Secretário de Estado para o Algodão, República Popular de Moçambique, ao abrigo de um programa de Cooperação com Portugal, de outubro de 1980 a outubro de 1982.
+
+Técnico Superior Instituto de Reorganização Agrária (IRA) e IGEF (Instituto de Gestão e Estruturação Fundiária) -Ministério da Agricultura, Lisboa, de dezembro de 1976 a outubro de 1980.
+
+Início de carreira como Técnico Superior 3.ª classe do Centro Regional de Reforma Agrária de Évora, em agosto de 1975.
+
+Outras atividades relevantes
+
+Participação em grupos de trabalho, enquanto diretor do departamento de contratualização: Equipa de projeto para o estudo e lançamento de uma nova parceria para a gestão do Centro de Medicina Física e Reabilitação do Sul ([Despacho n.º 9794/2013](https://diariodarepublica.pt/dr/detalhe/despacho/9794-2013-1438776), do Coordenador da UTAP); Grupo Técnico para a compatibilização dos planos estratégicos dos hospitais com os planos de reorganização da Rede Hospitalar, apresentados pelas ARS ([Despacho n.º 9495/2013](https://diariodarepublica.pt/dr/detalhe/despacho/9495-2013-3095781), de 19 de julho, do SES); Grupo de trabalho para o desenvolvimento da contratualização no âmbito dos cuidados continuados integrados ([Despacho n.º 1981/2014](https://diariodarepublica.pt/dr/detalhe/despacho/1981-2014-2460881), de 7 de fevereiro, do SEAMS).
+
+Enquanto Vogal do Conselho Diretivo da ARS Algarve, I. P. - Gestor do Contrato de Gestão do Centro de Medicina Física e Reabilitação do Sul, em regime de PPP.
+
+Membro da Comissão de Avaliação de Propostas do concurso para a contratação da Parceria Público-Privada para a construção e operação do Edifício do Hospital Central do Algarve, e coordenador da mesma a partir de abril de 2009 ([Despacho n.º 9621/2009](https://diariodarepublica.pt/dr/detalhe/despacho/9621-2009-1821414), do Ministro de Estado e das Finanças e Ministra da Saúde).
+
+Helena Cristina Gil Cardeira dos Santos Leitão
+
+Data de nascimento: 26 de novembro de 1974.
+
+Doutorada em 2013 em Biociências, especialização em Biotecnologia, pela Faculdade de Ciências e Tecnologia, Universidade de Coimbra. Tese: Novel Noninvasive Imaging Biomarkers for Liver Steatosis, Inflammation and Fibrosis. Grau de Especialista e Assistente em Radiologia em 2009.
+
+Em 2008, subespecialização em radiologia da cabeça e pescoço no Instituto Português de Oncologia de Lisboa e, em 2006, em Radiologia Pulmonar no Hospital Pneumológico Albert Calmette, Centro Hospitalar Universitário de Lille.
+
+Certificação de Investigador em 2006. Licenciada em Medicina em 1998, Faculdade de Medicina da Universidade de Lisboa.
+
+Experiência Profissional
+
+Investigadora Convidada no Laboratório de Biomarcadores em Imagem, Centro de Investigação em Inflamação, UMR 1149, Escola Doutoral MTCI, Universidade Sorbonne Paris Cité e Departamento de Radiologia, Hospital Universitário Beaujon Paris Nord, desde 2015.
+
+Professora Auxiliar, Membro do Núcleo Coordenador e da Comissão de Curso do Mestrado Integrado em Medicina e Membro do Conselho Científico do Departamento de Ciências Biomédicas e Medicina, Universidade do Algarve, desde 2014.
+
+Radiologista Clínica em Grupos de Saúde privados, de 2013 a 2015.
+
+Bolseira e Investigadora Convidada no Athinoula A. Martinos Center, Massachusetts General Hospital e Harvard Medical School, Boston, em 2011. Bolseira, Radiologista/Investigadora Convidada no Serviço de Radiologia do Centro Hospitalar e Universitário de Coimbra e no Centro de Neurociências e Biologia, de 2009 a 2013.
+
+Celular de Coimbra, no âmbito do Programa Doutoral em Biologia Experimental e Biomedicina. Durante este período foi Bolseira da Fundação para a Ciência e Tecnologia. Professora Adjunta Convidada na Escola Superior de Tecnologia da Saúde de Lisboa e Membro do Conselho Pedagógico (este último de 2009 a 2011), desde 2009.
+
+Interna do Internato Complementar de Radiologia no Hospital Garcia de Orta, Almada, de 2002 a 2009.
+
+Assistente Convidada na Escola Superior de Saúde Egas Moniz, Monte de Caparica, de 2007 a 2009.
+
+Medical Advisor para a área de anti-infeciosos e VIH da Pfizer-Portugal, de 2006 a 2008.
+
+Maria Teresa da Silveira Bretão Machado Luciano
+
+Data de nascimento: 10 de outubro de 1966, em Lisboa.
+
+Licenciada em Ciências Farmacêuticas pela Universidade de Coimbra. Pós-Graduada em Marketing e Negócios Internacionais pelo INDEG/ISCTE.
+
+Pós-Graduada em Saúde e Desenvolvimento pelo IHMT da UNL. Doutoranda em Saúde Internacional no IHMT da UNL.
+
+Experiência Profissional
+
+Membro do Departamento Internacional - Grupo Tecnimede, de setembro de 2014 a fevereiro de 2015. Membro da administração da Altadis Colombia (joint-venture: 50 % Portuguesa/50 % Colombiana). Diretora executiva do ACES da Amadora, de dezembro de 2012 a agosto de 2014.
+
+Diretora executiva do ACES Oeste Norte, de janeiro de 2009 a dezembro de 2012.
+
+Presidente do conselho de administração da Saudaçor S. A. - Governo Regional dos Açores, de outubro de 2006 a dezembro de 2008.
+
+Advisor do Diretor-Geral do SAMES em Dili, Timor-Leste (Serviço Autónomo dos Medicamentos e Equipamentos da Saúde), que depende diretamente do Ministério da Saúde de Timor-Leste - Projeto do World Bank no âmbito do Second Health Setor Rehabilitation and Development Project, de setembro de 2005 a setembro de 2006.
+
+Professora convidada de Farmacologia ESS, Setúbal, de setembro de 2003 a setembro de 2005.
+
+Organon Portuguesa, de abril de 2002 a setembro de 2005.
+
+Product Manager e Coordenadora de Informação Estratégica - Market Intelligence. INFARMED, coordenadora do projeto Medicamentos Genéricos, de novembro de 2001 a abril 2002. Roche Farmacêutica, Product Manager com equipa, de abril de 1998 a novembro de 2001. Farmacêutica responsável da Clínica de S. Lucas (função que exerce, em part-time e pós-hora laboral), de 1994 a 2005. Janssen Cilag - Product Manager, de 1991 a 1998. Estágio em Farmácia Hospitalar (farmácia do Hospital Distrital de Setúbal), em 1990.
+
+Carlos Alberto Rosário dos Santos
+
+Data de nascimento: 24 de agosto de 1953, em Lisboa.
+
+Licenciado em Medicina em 1978, Faculdade de Medicina da Universidade de Lisboa. Assistente de Medicina de Medicina Interna, em 1989; Assistente graduado em Medicina Interna, em 1995; Assistente Graduado Sénior, em 2008.
+
+Experiência Profissional
+
+Chefe de equipa de urgência de 1989 a 1996; Direção clínica de 1996 a 2000; Direção de serviços de Medicina; Direção de Setor do serviço de medicina há cerca de 10 anos; Responsável pela consulta e hospital de dia de imunodeficiência desde 1993; Criador e primeiro responsável pelo Núcleo Médico de Formação; Membro fundador e vogal da primeira direção do Núcleo de VIH da Sociedade Portuguesa de Medicina Interna; Membro da Direção do MAPS (Movimento de apoio à problemática da SIDA) durante cerca de 10 anos,
+
+Formador de internos do internato geral e complementar de medicina.
+
+Nuno Álvaro Caneca Murcho
+
+Data de nascimento: 17 de abril de 1974, em Lisboa.
+
+Doutorado e mestre em Psicologia, na especialização em Psicologia da Saúde.
+
+Pós-Graduado em Gestão de Recursos Humanos e em Toxicodependências.
+
+Licenciado e Bacharel em Enfermagem, Diplomado em Abordagem Sistémica e Familiar e Especializado em Enfermagem de Saúde Mental e Psiquiátrica.
+
+Experiência Profissional
+
+Enfermeiro generalista - Hospital de St.º António dos Capuchos, em Lisboa; Hospital Distrital de Faro e Centro de Saúde Mental de Faro, de 1986 a 1998; Enfermeiro Especialista em Enfermagem de Saúde Mental e Psiquiátrica - Hospital Distrital de Faro e Serviço de Prevenção e Tratamento da Toxicodependência, de 1998 a 1999;
+
+Enfermeiro-Chefe - Serviço de Prevenção e Tratamento da Toxicodependência, Instituto da Droga e da Toxicodependência, I. P., e Administração Regional de Saúde do Algarve, I. P., desde 1999; Responsável do Serviço de Coordenação e Apoio Técnico (cargo dirigente) - Instituto da Droga e da Toxicodependência, I. P., de 2003 a 2006; Responsável do Núcleo de Apoio Técnico (cargo dirigente) - Instituto da Droga e da Toxicodependência, I. P., em 2007; Diretor do Centro de Respostas Integradas (cargo dirigente) - Instituto da Droga e da Toxicodependência, I. P., e Administração Regional de Saúde do Algarve, I. P., de 2007 a 2013; Coordenador da Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências (cargo dirigente) - Administração Regional de Saúde do Algarve, I. P., desde 2014;
+
+Experiência clínica nas áreas da Medicina Interna, Urgência, Saúde Mental e Psiquiatria e Comportamentos Aditivos e Dependências;
+
+Colaborador, desde 2013, de diversos Estabelecimentos do Ensino Superior, como professor convidado, nomeadamente, nas áreas da Enfermagem, da Saúde Mental e Psiquiatria e da Gestão de Serviços de Saúde, desenvolvendo ainda investigação nos domínios da Saúde Mental Ocupacional e nas Dependências, entre outros; com mais de 40 artigos publicados em publicações nacionais e internacionais, para além de comunicações apresentadas em eventos científicos.

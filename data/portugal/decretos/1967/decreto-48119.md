@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:401701:por
+title: Decreto n.º 48119
+short_title: null
+summary: Transfere uma verba dentro do orçamento do Ministério das Comunicações e abre créditos no Ministério das Finanças
+  destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor - Altera uma rubrica no orçamento
+  do Ministério da Saúde e Assistência
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '48119'
+official_date: null
+publication_date: '1967-12-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 293/1967, Série I de 1967-12-19
+  number: '293'
+  series: I
+  supplement: null
+  pages: 2332 - 2333
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/12/29300/23322333.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401701'
+  dre_path: /dr/detalhe/decreto/48119-1967-401701
+  internal: pt:dre:401701:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48119-1967-401701
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48119-1967-401701
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1967-12-19T00:00:00Z'
+integrity:
+  source_sha256: b3f31d30b13ee767928e5aa20dc3ca0468addc969637da456dc36cd04fa39429
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-48119-401701.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 10
+  section_count: 14
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48119
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, na alínea c) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), e no artigo 2.º e seu § único do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério das Comunicações:
+
+No capítulo 1.º, artigo 5.º:
+
+Do n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... -7500$00
+
+Para o n.º 2) «De móveis» ... +7500$00
+
+###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 39093958$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+
+Ministério das Finanças
+
+### Capítulo 12.º «Direcção-Geral das Alfândegas»:
+
+###### Artigo 155.º, n.º 1) «Restituições» ... 22000000$00
+
+### Capítulo 13.º «Guarda Fiscal»:
+
+###### Artigo 162.º «Despesas de conservação ...»:
+
+N.º 2), alínea 1 «Veículos com motor» ... 100000$00
+
+N.º 3) «De móveis» ... 20000$00
+
+###### Artigo 165.º, n.º 2) «Telefones» ... 5000$00
+
+... 22125000$00
+
+Ministério do Exército
+
+### Capítulo 12.º «Subsídio eventual de custo de vida»:
+
+###### Artigo 370.º «Para satisfação dos encargos desta natureza ...» ... 2800000$00
+
+Ministério da Educação Nacional
+
+### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes - Instrução artística - Teatro Nacional de S. Carlos»:
+
+###### Artigo 681.º, n.º 1) «Subsídios não reembolsáveis»:
+
+Alínea 2 «Temporada de ópera» ... 80569$30
+
+Alínea 3 «Temporada de baile» ... 151192$40
+
+Alínea 6 «Espectáculos populares de ópera» ... 254496$30
+
+... 486258$00
+
+Ministério da Economia
+
+### Capítulo 1.º «Gabinete do Ministro»:
+
+###### Artigo 5.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 125700$00
+
+###### Artigo 8.º, n.º 2) «Telefones» ... 42000$00
+
+... 167700$00
+
+Ministério das Comunicações
+
+### Capítulo 1.º «Gabinete do Ministro»:
+
+###### Artigo 4.º, n.º 1) «Móveis» ... 15000$00
+
+Ministério da Saúde e Assistência
+
+### Capítulo 4.º «Direcção-Geral da Assistência»:
+
+###### Artigo 65.º, n.º 1) «Subsídios a cofres ...»:
+
+Alínea 4 «Assistência à família: ...» ... 3000000$00
+
+Alínea 7 «Fundo de Socorro Social» ... 10500000$00
+
+... 13500000$00
+
+... 39093958$00
+
+###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+### Capítulo 2.º, artigo 15.º «Direitos de importação de vários géneros e mercadorias» ... 22000000$00
+
+### Capítulo 2.º, artigo 19.º «Taxa de salvação nacional» ... 13500000$00
+
+... 35500000$00
+
+Ministério das Finanças
+
+### Capítulo 7.º, artigo 61.º, n.º 1) ... 125000$00
+
+### Capítulo 20.º, artigo 216.º ... 2800000$00
+
+... 2925000$00
+
+Ministério da Educação Nacional
+
+### Capítulo 5.º, artigo 833.º, n.º 1) ... 486258$00
+
+Ministério da Economia
+
+### Capítulo 15.º, artigo 280.º, n.º 3) ... 167700$00
+
+Ministério das Comunicações
+
+### Capítulo 1.º, artigo 9.º, n.º 1) ... 15000$00
+
+... 39093958$00
+
+###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Saúde e Assistência:
+
+A observação (c) aposta à dotação do capítulo 4.º, artigo 65.º, n.º 1), alínea 7, é alterada para:
+
+Compreende 2500000$00 que representam metade do subsídio a distribuir pelo Fundo à Caritas Portuguesa no corrente ano.
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 19 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

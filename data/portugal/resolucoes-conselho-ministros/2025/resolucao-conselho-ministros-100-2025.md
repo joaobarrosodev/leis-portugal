@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:920339815:por
+title: Resolução do Conselho de Ministros n.º 100/2025
+short_title: null
+summary: Autoriza o conselho diretivo do Instituto da Segurança Social, I. P., a realizar a despesa relativa à aquisição de
+  serviços de gestão operacional do Centro de Contacto.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 100/2025
+official_date: null
+publication_date: '2025-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2025, Série I de 2025-06-03
+  number: '106'
+  series: I
+  supplement: null
+  pages: 9 - 10
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/06/10600/0000900010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/100/2025/06/03/p/dre/pt/html
+  oj: null
+  dre: '920339815'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/100-2025-920339815
+  internal: pt:dre:920339815:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2025-920339815
+  metadata_url: https://data.dre.pt/eli/resolconsmin/100/2025/06/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-2025-920339815
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-06-03T00:00:00Z'
+integrity:
+  source_sha256: 694e52fb3ceb150266376bf19eaad98674cb15c3d9a69ba67c93a8f101a5fc27
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-100-920339815.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Autorização de Despesas
+- Delegação de Competências
+- Conselho Diretivo
+- Ministro do Trabalho Solidariedade e Segurança Social
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/83/2012/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/83/2012/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 100/2025
+
+O Instituto da Segurança Social, I. P., adiante designado ISS, I. P., é um instituto público de regime especial, integrado na administração indireta do Estado, dotado de autonomia administrativa, financeira e património próprio, tendo como missão a gestão dos regimes de segurança social, o reconhecimento dos direitos e o cumprimento das obrigações decorrentes dos regimes de segurança social e, bem assim, assegurar a aplicação dos acordos internacionais nesta área, tal como previsto nos artigos 1.º e 3.º do [Decreto-Lei n.º 83/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2012-553887), de 30 de março, na sua redação atual.
+
+O ISS, I. P., desenvolve a sua atividade em todo o território nacional continental, detendo, além dos serviços centrais, 18 centros distritais, o Centro Nacional de Pensões e uma rede de mais de 300 serviços de atendimento.
+
+No âmbito das atribuições consagradas nos respetivos estatutos, o ISS, I. P., carece de ter ao dispor instrumentos devidamente adaptados às especificidades da sua atuação, designadamente ao nível do contacto com os cidadãos e as empresas, respondendo às suas necessidades de acesso a informação de forma simples, rápida e eficaz, garantindo a qualidade de serviço ao nível da informação geral e sobre o processo prestado, bem como um atendimento integrado, através de ferramentas e tecnologias adequadas, inovadoras e eficazes.
+
+Desde a implementação do modelo do Centro de Contacto da Segurança Social que se tem verificado uma grande melhoria no circuito de comunicação entre a segurança social e os cidadãos e empresas, denotando-se uma acentuada transferência da procura para os canais não presenciais, razões pelas quais é necessário dar continuidade e desenvolvimento aos canais de atendimento adequados ao perfil da procura, de modo a assegurar atendimento telefónico mais completo e aprofundado, vocacionado para a prestação de informação genérica e de processo, apoio ao canal online e efetiva resolução das situações de relacionamento, dimensionado para comportar um elevado volume de contactos, com acesso rápido e simples.
+
+Neste contexto, com vista a assegurar o desenvolvimento e a gestão de todos os canais de atendimento, numa ótica integrada e de prestação de um serviço de qualidade, pretende o ISS, I. P., desenvolver um procedimento pré-contratual para a aquisição de serviços de gestão operacional do Centro de Contacto, para o período de 36 meses, até ao montante máximo global de € 10 897 913,75, valor ao qual acresce o imposto sobre o valor acrescentado à taxa legal em vigor.
+
+Ora, atentas as finalidades do Centro de Contacto da Segurança Social e considerando que o contrato de aquisição de serviços de gestão da operação daquele Centro termina a sua vigência em 30 de setembro de 2025, torna-se necessário e imprescindível para o regular funcionamento e desenvolvimento do Centro de Contacto da Segurança Social junto dos cidadãos e das empresas, que o ISS, I. P., desenvolva, desde já, o procedimento pré-contratual para aquisição dos referidos serviços, atentos os prazos legais a respeitar.
+
+Neste contexto, o adiamento da celebração de novo contrato arrisca o prosseguimento das atribuições a que o ISS, I. P., se encontra adstrito, causando prejuízo no normal funcionamento da atividade do referido Instituto, com impactos negativos para os cidadãos e empresas.
+
+Com efeito, a autorização da presente despesa é necessária e imprescindível para garantir o interesse público, evitar o comprometimento dos objetivos essenciais da Administração Pública e garantir os direitos dos cidadãos, garantindo a continuidade e desenvolvimento dos canais de atendimento adequados ao perfil da procura, e dimensionados ao elevado volume de contactos, com acesso rápido e simples, pelo que se mostra urgente e inadiável para prevenir impactos adversos e prejuízos significativos, tornando fundamental e indispensável assegurar a sua obtenção.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar o conselho diretivo do Instituto da Segurança Social, I. P., a realizar a despesa relativa à aquisição de serviços de gestão operacional do Centro de Contacto, para um período de 36 meses, até ao montante global máximo de € 10 897 913,75, acrescido de imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+
+2 - Determinar que os encargos orçamentais resultantes do disposto no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+
+a) 2025 - € 813 843,80;
+
+b) 2026 - € 3 424 599,85;
+
+c) 2027 - € 3 685 501,93;
+
+d) 2028 - € 2 973 968,17.
+
+3 - Estabelecer que os encargos financeiros decorrentes da presente resolução são suportados por verbas adequadas inscritas no ano de 2025 e a inscrever nos anos de 2026, 2027 e 2028 na fonte de financiamento 319 - transferências de receitas de impostos entre organismos dos orçamentos do ISS, I. P.
+
+4 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área do trabalho, solidariedade e segurança social, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+5 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 29 de maio de 2025. - O Primeiro-Ministro, Luís Montenegro.

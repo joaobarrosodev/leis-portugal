@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:279187:por
+title: Portaria n.º 635/77
+short_title: null
+summary: Estabelece, ao abrigo do artigo 15.º do Decreto-Lei n.º 282/76, de 20 de Abril, o funcionamento dos concursos e as
+  condições de promoção do pessoal do grupo 6 - Faroleiros - do quadro do pessoal militarizado da Marinha (QPMM)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 635/77
+official_date: null
+publication_date: '1977-10-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/1977, Série I de 1977-10-06
+  number: '231'
+  series: I
+  supplement: null
+  pages: 2438 - 2441
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23100/24382441.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '279187'
+  dre_path: /dr/detalhe/portaria/635-1977-279187
+  internal: pt:dre:279187:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-1977-279187
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-1977-279187
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-11-05T00:00:00Z'
+integrity:
+  source_sha256: bf8c627b6d092c9f01d830a77f850f5d9293dac303465c02fdadd20c5ac011fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-635-279187.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:457466:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 635/77
+
+de 6 de Outubro
+
+Tornando-se necessário, ao abrigo do artigo 15.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, estabelecer o funcionamento dos concursos e as condições de promoção do pessoal do grupo 6 - faroleiros - do quadro do pessoal militarizado da Marinha (QPMM):
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
+
+1.º O pessoal do grupo 6 - faroleiros - do quadro do pessoal militarizado da Marinha (QPMM) ascende às categorias referidas no artigo 14.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, pela forma estabelecida nesta portaria.
+
+2.º As promoções, de acordo com o artigo 14.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), podem ser por:
+
+a) Diuturnidade, que consiste no acesso automático à categoria imediata, quando satisfeitas as condições gerais e especiais de promoção, mantendo-se na nova categoria a antiguidade relativa da categoria anterior, salvo nos casos de preterição;
+
+b) Antiguidade, que consiste no acesso à categoria imediata por ordem de antiguidade na categoria anterior e dentro da respectiva secção, salvo nos casos de preterição, e apenas para o preenchimento de vacaturas no quadro daquela categoria;
+
+c) Concurso, que consiste no acesso à categoria superior, independentemente da posição ocupada na escala de antiguidades, nos termos estabelecidos nesta portaria, tendo em vista a vantagem de acelerar a promoção dos considerados mais competentes e que ofereçam maior garantia de bom desempenho das respectivas funções.
+
+3.º As condições gerais de promoção, comuns a todas as categorias, são as seguintes:
+
+a) Bom comportamento;
+
+b) Boas qualidades morais;
+
+c) Qualidades intelectuais e profissionais necessárias para o desempenho das funções que lhe estão cometidas;
+
+d) Aptidão física adequada.
+
+4.º A verificação das condições gerais de promoção referidas nas alíneas a), b) e c) do número anterior pertence, em primeira análise, ao director de Faróis, que baseia a sua apreciação nos seguintes elementos:
+
+a) Informações periódicas;
+
+b) Registo disciplinar;
+
+c) Outros elementos que constem do processo individual do funcionário.
+
+5.º Nos casos em que o director de Faróis considere que não são satisfeitas as condições referidas no n.º 3.º ou tenha dúvida sobre essa satisfação, deverá o assunto ser presente ao director do Serviço do Pessoal.
+
+6.º A verificação da condição geral de promoção referida na alínea d) do n.º 3.º deverá ser feita:
+
+a) Nas promoções por diuturnidade e por antiguidade, pelo médico da Direcção de Faróis (DF) ou outro designado pela capitania do porto ou delegação marítima em cuja área exerça funções o faroleiro a promover ou ainda por competente junta médica, quando qualquer daqueles médicos o entender necessário;
+
+b) Nas promoções por concurso, por competente junta médica.
+
+7.º A verificação da aptidão física dos funcionários que se encontram nas situações de doentes em casa, hospitalizados ou com licença da junta é sempre feita nas condições referidas na alínea b) do número anterior.
+
+8.º As condições especiais de promoção são as seguintes:
+
+a) Para promoção a faroleiro de 3.ª classe:
+
+1) Ter sido aprovado no curso elementar de faroleiro;
+
+2) Ter, pelo menos, um ano de serviço efectivo na categoria de faroleiro auxiliar;
+
+3) Ter cumprido, em faroleiro auxiliar, o tirocínio de um ano de serviço em faróis vigiados em regime de quartos, com instalação eléctrica própria e sinal sonoro;
+
+b) Para promoção a faroleiro de 2.ª classe:
+
+Ter quatro anos de serviço efectivo na categoria de faroleiro de 3.ª classe;
+
+c) Para promoção a faroleiro de 1.ª classe:
+
+1) Ter sido aprovado no curso complementar de faroleiro;
+
+2) Ter, pelo menos, um ano de serviço efectivo na categoria de faroleiro de 2.ª classe;
+
+3) Ter cumprido, em faroleiro de 3.ª e 2.ª classes, o tirocínio de quatro anos de serviço em faróis vigiados em regime de quartos, com instalação eléctrica própria e sinal sonoro, ou dois anos em farol vigiado em regime de quartos, quer com instalação eléctrica própria, quer com eclipsores, quer de rotação, e outros dois anos em farol vigiado em regime de quartos com sinal sonoro;
+
+d) Para promoção a faroleiro-subchefe:
+
+1) Ter, pelo menos, dois anos de serviço efectivo na categoria de farolerio de 1.ª classe;
+
+2) Ter cumprido, em faroleiro de 1.ª classe, o tirocínio de dois anos de serviço na chefia de um ou mais dos faróis a que se reporta o n.º 10.º;
+
+e) Para promoção a faroleiro-chefe:
+
+Ter, pelo menos, um ano de serviço efectivo na categoria de faroleiro-subchefe.
+
+9.º A condição expressa na alínea e) do número anterior não é taxativa. Caso as circunstâncias o imponham, pode recorrer-se, primeiro, aos faroleiros-subchefes com menos de um ano de serviço efectivo nessa categoria e, por último, aos faroleiros de 1.ª classe situados no terço superior dos efectivos desta categoria que reúnam condições de promoção à categoria imediata.
+
+10.º Para os efeitos do n.º 8.º, deve entender-se por:
+
+a) Farol com instalação eléctrica própria, um farol de incandescência eléctrica com recursos próprios para produzir a energia necessária ao normal funcionamento de todo o complexo que o constitui;
+
+b) Farol com sinal sonoro, um farol detentor de um sinal sonoro cuja condução, conservação, manutenção e reparação atingem um certo grau de complexidade.
+
+11.º Os faróis que correspondem às características expressas no número anterior são definidos pelo director-geral dos Serviços de Fomento Marítimo, ouvido o director de Faróis.
+
+12.º A preterição nas promoções verifica-se quando:
+
+a) Não são satisfeitas uma ou mais das condições gerais de promoção;
+
+b) Não são satisfeitas uma ou mais das condições especiais de promoção, desde que, na categoria e secção, existam funcionários mais modernos que já as reúnam.
+
+13.º A situação de preterição terminará quando cessarem os motivos que a determinaram, salvo se da mesma resultar outro procedimento que, de acordo com o determinado nesta portaria e demais legislação em vigor, seja impeditivo da promoção.
+
+14.º Conta-se como tempo de serviço efectivo na categoria todo o tempo de permanência na mesma, com a exclusão dos períodos relativos às situações seguintes:
+
+a) Licença ilimitada;
+
+b) Licença registada;
+
+c) Ausência ilegítima;
+
+d) Cumprimento de penas que impliquem suspensão de funções.
+
+15.º Não são igualmente computados como serviço efectivo, relativamente aos impedimentos por motivo de doença ou de licença das juntas, os períodos para além de doze meses, salvo quando se trate de casos de tuberculose ou de doença adquirida em serviço ou por motivo do mesmo.
+
+16.º Nos casos em que se verifiquem intervalos nos impedimentos referidos no número anterior, para determinação da sua extensão são contados todos os períodos consecutivos cujos intervalos sejam inferiores a trinta dias.
+
+17.º Na contagem dos tempos de tirocínio referidos nas condições especiais de promoção não são incluídos:
+
+a) Os períodos de tempo relativos às situações referidas no n.º 14.º;
+
+b) Todos os períodos de doença ou de licença das juntas médicas;
+
+c) Os períodos de licença de férias.
+
+18.º Os planos dos cursos elementar e complementar de faroleiro a frequentar, respectivamente, pelos faroleiros auxiliares e de 2.ª classe serão elaborados pela Direcção de Faróis de acordo com a legislação aplicável a este organismo.
+
+19.º Os cursos referidos no número anterior serão ministrados na sede da Direcção de Faróis, em Lisboa, sob a orientação do director de Faróis.
+
+20.º Os cursos referidos no n.º 18.º podem, por falta de aproveitamento, ser repetidos apenas uma vez.
+
+21.º Os cursos são todos documentais e válidos apenas para o preenchimento das vagas existentes à data da publicação no Diário da República da lista dos candidatos aprovados.
+
+Em regra, os concursos destinam-se aos faroleiros da secção onde as vagas se situam, podendo ser extensivos aos faroleiros de outras secções quando as necessidades do serviço assim o exigirem.
+
+22.º As normas relativas à abertura dos concursos de promoção são as seguintes:
+
+a) Os concursos são abertos na 6.ª Repartição da Direcção do Serviço do Pessoal (DSP), fixando-se, para entrega dos requerimentos, o prazo de quinze dias, a contar da publicação da sua abertura no Diário da República;
+
+b) Os candidatos devem entregar nos locais referidos no n.º 26.º um requerimento em papel selado, dirigido ao director do Serviço do Pessoal, solicitando a admissão ao concurso e do qual constem o nome, a categoria, o organismo onde prestam serviço e a categoria a que pretendem concorrer;
+
+c) Os candidatos poderão juntar ao requerimento quaisquer documentos comprovativos de habilitações possuídas e que não constem dos seus processos individuais.
+
+23.º Só serão admitidos a concurso os candidatos que satisfaçam as condições gerais de promoção, com excepção da referida na alínea d) do n.º 3.º, e as condições especiais de promoção referentes à categoria a que o concurso se destina.
+
+24.º A constituição dos júris dos concursos obedecerá às seguintes regras:
+
+a) Os membros que os compõem serão:
+
+Presidente - director de Faróis.
+
+1.º vogal - chefe do Serviço do Pessoal da Direcção de Faróis.
+
+2.º vogal - um faroleiro-chefe nomeado pelo director de Faróis, de preferência da secção para a qual se efectua o concurso;
+
+b) Quando se verificar o impedimento de qualquer dos membros referidos na alínea anterior, com excepção do 2.º vogal, estes serão substituídos pelas entidades que, à data, se encontrarem a desempenhar as respectivas funções;
+
+c) Os júris serão secretariados por um funcionário do quadro do pessoal civil da Marinha em serviço na Direcção de Faróis e nomeado pelo respectivo director.
+
+25.º Os júris referidos no número anterior atribuirão a cada candidato uma cota de mérito, calculada de acordo com normas a estabelecer em despacho do Chefe do Estado-Maior da Armada e com base nos seguintes elementos de apreciação:
+
+a) Registo disciplinar;
+
+b) Informações periódicas;
+
+c) Classificações obtidas nos cursos frequentados;
+
+d) Tempo de serviço efectivo prestado nas diversas categorias;
+
+e) Situações onde serviu, cargos que desempenhou e respectivas permanências;
+
+f) Outra documentação constante nos processos individuais dos concorrentes comprovativa de habilitações que possam valorizá-los, sobretudo no âmbito profissional.
+
+26.º A documentação a que se refere o n.º 22.º é apresentada na Direcção de Faróis quando se trata de pessoal que aí presta serviço ou nas áreas da Capitania do Porto de Lisboa e da Capitania do Porto de Cascais e, nos restantes casos, na capitania ou delegação marítima em cuja área o candidato exerça as suas funções.
+
+27.º Além de remeterem à Direcção de Faróis, pela via mais rápida, a documentação acima mencionada, as capitanias ou delegações marítimas devem também comunicar-lhe por mensagem os requerimentos recebidos.
+
+28.º Quando não se conseguirem candidatos suficientes para o preenchimento das vagas em aberto e o serviço o exigir, realizar-se-á novo concurso obrigatório para todos os faroleiros com as necessárias condições gerais e especiais de promoção, sem prejuízo do disposto no número seguinte.
+
+29.º Serão excluídos dos concursos referidos no número anterior os faroleiros que, dentro do prazo estipulado pelo aviso no Diário da República e através da via indicada no n.º 26.º, apresentarem declarações escritas a desistirem definitivamente do acesso às categorias superiores.
+
+30.º Aos concursos obrigatórios não se aplica o estabelecido no n.º 22.º
+
+31.º Na altura em que competir promoção a funcionários concursados, estes deverão preencher as condições a seguir indicadas:
+
+a) Condição geral de promoção referida na alínea d) do n.º 3.º;
+
+b) Não ter nos registos criminal e disciplinar penas que, pelos seus efeitos, sejam impeditivas de promoção.
+
+32.º Nas promoções por diuturnidades a verificação das condições gerais de promoção deverá ser feita no período que decorre entre noventa e setenta dias antes de serem satisfeitas as condições especiais de promoção.
+
+33.º Os funcionários que não satisfaçam as condições gerais de promoção referidas nas alíneas a), b) e c) do n.º 3.º serão objecto dos seguintes procedimentos:
+
+a) Aos funcionários de categorias equiparadas a segundo-sargento ou superior será aplicado o determinado no Regulamento de Disciplina Militar;
+
+b) Aos funcionários de categorias equiparadas a cabo ou inferior será denunciado o contrato de provimento nos termos da legislação em vigor para esta forma. de provimento.
+
+34.º Nas promoções por concurso a recusa da tomada de posse implicará, quando da primeira vez, a passagem do concursado para o fim da lista de ordenamento; a segunda recusa será considerada desistência e implica a sua eliminação da referida lista. Tanto as recusas como as desistências devem ser manifestadas por escrito.
+
+35.º A prorrogação dos contratos de provimento dos funcionários militarizados é considerada equivalente à recondução do pessoal militar no respeitante a efeitos das penas disciplinares.
+
+36.º A Direcção de Faróis providenciará para que, em tempo normal, exista sempre com as condições de promoção o número de faroleiros necessário ao preenchimento das prováveis vacaturas nos quadros.
+
+37.º Pertence à Direcção de Faróis movimentar o pessoal de forma a verificar-se o disposto no número anterior.
+
+38.º Se os faroleiros a movimentar com vista à obtenção das condições especiais de promoção preferirem permanecer nas situações onde se encontram, devem requerê-lo fundamentadamente, ficando, em caso de deferimento, sujeitos aos consequentes prejuízos no acesso.
+
+39.º O voluntário não cumprimento dos tirocínios e cursos na altura em que são facultados, bem como as desistências aos concursos nos termos do n.º 29.º, desobrigam a Direcção de Faróis do expresso no n.º 37.º, sem contudo se garantir aos funcionários abrangidos o direito de permanência nos lugares que ocupam.
+
+40.º Enquanto nos Açores e na Madeira não existirem sinais sonoros com os requisitos expressos no n.º 10.º, alínea b), os faroleiros daquelas secções são dispensados dos tirocínios que se relacionam com este tipo de equipamentos.
+
+41.º Quando os condicionamentos e necessidades do serviço o justifiquem e por proposta da Direcção de Faróis, pode, por despacho do Chefe do Estado-Maior da Armada, ser reduzida a título provisório a duração dos tirocínios expressos nas condições especiais de promoção.
+
+Estado-Maior da Armada, 20 de Setembro de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.

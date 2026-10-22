@@ -1,0 +1,908 @@
+---
+schema_version: '1.0'
+id: pt:dre:67429780:por
+title: Portaria n.º 172-A/2015
+short_title: null
+summary: Fixa as regras e procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino
+  particular e cooperativo de nível não superior
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação e Ciência
+proposing_entity: null
+official_number: 172-A/2015
+official_date: null
+publication_date: '2015-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/2015, 1º Suplemento, Série I de 2015-06-05
+  number: '109'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3636-(2) a 3636-(10)
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10901/0000200010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-18'
+version_history:
+  file: portaria-172-a-2015.versoes.json
+  count: 5
+  source_lastmod: '2026-08-18'
+  versions:
+  - date: '2015-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-05-20'
+    amending: pt:dre:107038204:por
+    amending_title: Portaria n.º 165/2017
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Artigo 13.º
+    - Revoga Artigo 21.º
+  - date: '2024-07-31'
+    amending: pt:dre:873920265:por
+    amending_title: Portaria n.º 176-A/2024/1
+    changes:
+    - Altera Artigo 16.º
+  - date: '2025-08-14'
+    amending: pt:dre:928936484:por
+    amending_title: Portaria n.º 285-A/2025/1
+    changes:
+    - Altera Artigo 16.º
+  - date: '2026-08-18'
+    amending: pt:dre:1159784841:por
+    amending_title: Portaria n.º 348-A/2026/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Artigo 6.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/172-a/2015/p/cons/20260817/pt/html
+  oj: null
+  dre: '67429780'
+  dre_path: /dr/detalhe/portaria/172-a-2015-67429780
+  internal: pt:dre:67429780:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/172-a-2015-67429780
+  metadata_url: https://data.dre.pt/eli/port/172-a/2015/p/cons/20260817/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-868812166
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-868812166
+  retrieved_at: '2026-10-22T13:49:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-18T00:00:00Z'
+integrity:
+  source_sha256: 03b307103dcb473ec9b444f7ee68b784ea096273e681e9b087dc8830aa7112be
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:49:13Z'
+  notes: 5 versão(ões); histórico completo em portaria-172-a-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Ensino não Superior
+- Comissão de Análise
+- Definição de Competências
+- Direção Geral da Administração Escolar
+- Ensino Cooperativo
+- Ensino Particular
+- Ministério da Educação e Ciência
+- Ensino Secundário
+- Direção Geral dos Estabelecimentos Escolares
+- Estabelecimento de Ensino
+- Ensino Básico
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:107038204:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 9.º; Altera Artigo 11.º;
+    Altera Artigo 14.º; Altera Artigo 17.º; Altera Anexo I; Altera Anexo II; Revoga Artigo 13.º; Revoga Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204
+  date: '2017-05-19'
+- type: amended_by
+  target: pt:dre:873920265:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2024-873920265
+  date: '2024-07-30'
+- type: amended_by
+  target: pt:dre:928936484:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/285-a-2025-928936484
+  date: '2025-08-13'
+- type: amended_by
+  target: pt:dre:1159784841:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º;
+    Altera Anexo I; Altera Anexo II; Revoga Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841
+  date: '2026-08-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/2012/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/2012/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1324-a/2010/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1324-a/2010/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/277/2011/10/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/277/2011/10/13/p/dre
+article_structure:
+  article_count: 24
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:49:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 172-A/2015
+
+Portaria n.º 172-A/2015
+
+de 5 de junho
+
+O Decreto-Lei n.º 152/2013, de 4 de novembro, que aprova o Estatuto do Ensino Particular e Cooperativo (EEPC), prevê a fixação através de portaria dos montantes a atribuir aos contratos de associação a celebrar, bem como, os critérios e formalidades a seguir.
+
+Considerando a necessidade de desenvolver todos os mecanismos que permitam assegurar o início do ano letivo de acordo com o calendário escolar estabelecido, aos alunos que frequentam o ensino particular e cooperativo em condições iguais àquelas que são garantidas pelas escolas do ensino público, conforme o n.º 1 do artigo 16.º do EEPC;
+
+Considerando que os contratos de associação integram a rede de oferta pública de ensino, fazendo parte das opções oferecidas às famílias no âmbito da sua liberdade de escolha no ensino do seu educando;
+
+Considerando que a regulamentação dos procedimentos destinados à formação e celebração dos contratos, segundo o n.º 1 do artigo 17.º do EEPC, para os efeitos acima referidos, é fixada por portaria;
+
+Ouvidas as organizações do setor, nos termos do Decreto-Lei n.º 152/2013, de 4 de novembro,
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, nos termos do disposto na alínea c) do n.º 1 do artigo 9.º, no n.º 6 do artigo 10.º e do artigo 17.º, todos do Decreto-Lei n.º 152/2013, de 4 de novembro, Estatuto do Ensino Particular e Cooperativo, o seguinte:
+
+#### Secção I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria fixa as regras e procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior, nos termos dos artigos 16.º e seguintes do Estatuto do Ensino Particular e Cooperativo (EEPC), aprovado pelo Decreto-Lei n.º 152/2013, de 4 de novembro.
+
+2 - A atribuição de apoio financeiro referido no número anterior é formalizada através da celebração de contratos de associação, da extensão do contrato a um novo ciclo de ensino ou da sua renovação entre o Ministério da Educação, Ciência e Inovação (MECI), através da Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), e entidades titulares de estabelecimentos de ensino particular e cooperativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 2.º — Entidades beneficiárias
+
+Podem beneficiar do apoio financeiro a que se refere o artigo anterior as entidades titulares de estabelecimentos do ensino particular e cooperativo de nível não superior que, nos termos do EEPC, apresentem candidaturas que concorram para a prossecução dos objetivos previstos nos artigos 10.º e 16.º do EEPC e que sejam selecionadas pelo MECI na sequência do procedimento de apresentação, apreciação e seleção de candidaturas, ou cujos contratos em execução sejam objeto de extensão ou renovação, nos termos da presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 3.º — Oferta educativa
+
+1 - Tendo em conta a necessidade de garantir a oferta educativa aos alunos que, em sede de análise anual da rede escolar, se demonstre não disporem de oferta pública de ensino adequada, realiza-se um procedimento administrativo nos termos da presente portaria, destinado à celebração de contratos de associação, extensão dos contratos existentes a um novo ciclo de ensino ou a sua renovação, com estabelecimentos do ensino particular e cooperativo assegurando condições de frequência idênticas às do ensino ministrado nas escolas públicas.
+
+2 - (Revogado.)
+
+3 - Os procedimentos visam salvaguardar os princípios da transparência, da igualdade e da concorrência nos termos do EEPC e Código do Procedimento Administrativo (CPA).
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 4.º — Requisitos gerais das entidades beneficiárias
+
+Ao abrigo da presente Portaria, o apoio financeiro é destinado às entidades titulares de estabelecimentos do ensino particular e cooperativo que:
+
+a) Sejam detentoras de uma autorização de funcionamento;
+
+b) Tenham a situação contributiva regularizada perante a administração fiscal e a segurança social e Caixa Geral de Aposentações;
+
+c) Não tenham sido alvo, nos últimos três anos, de qualquer rescisão de apoio financeiro concedido por entidades públicas por incumprimento das suas obrigações na execução do contrato de apoio financeiro.
+
+#### Secção II — Intervenientes e competências
+
+###### Artigo 5.º — Competências em geral
+
+1 - Compete ao membro do Governo responsável pela área do ensino particular e cooperativo (doravante, designado ‘membro do Governo’):
+
+a) Autorizar a abertura dos concursos;
+
+b) Aprovar os subcritérios de análise;
+
+c) Aprovar as ponderações dos critérios previstos no n.º 3 do artigo 9.º da presente portaria e dos subcritérios, mediante proposta da AGSE, I. P.;
+
+d) Homologar a lista final de avaliação e de seleção das candidaturas.
+
+2 - Ao referido membro do Governo cabe ainda, homologar todos os apoios financeiros a conceder nos termos das modalidades previstas na presente portaria.
+
+3 - Compete à AGSE, I. P., desenvolver os procedimentos necessários à formação e à celebração dos contratos, à sua extensão e à sua renovação.
+
+4 - Os contratos de associação são celebrados entre o Estado, através da AGSE, I. P., e as entidades titulares de estabelecimentos do ensino particular e cooperativo, selecionadas nos termos da presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 6.º — Comissão de Análise
+
+1 - É criada uma comissão que analisa as candidaturas e propostas apresentadas pelas entidades interessadas nos procedimentos abertos nos termos da presente portaria, tendo a seguinte constituição:
+
+a) O Diretor-geral da Administração Escolar, que preside;
+
+b) O Presidente do Instituto de Gestão Financeira da Educação, I. P.;
+
+c) O Diretor-geral dos Estabelecimentos Escolares;
+
+d) Dois elementos não pertencentes aos serviços centrais ou regionais do MEC, designados pelo Ministro da Educação e Ciência.
+
+2 - Aos membros da comissão é dada a faculdade de delegação.
+
+3 - O apoio técnico e logístico à comissão é assegurado pela DGAE.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+###### Artigo 7.º — Competências da Agência para a Gestão do Sistema Educativo, I. P.
+
+Compete à AGSE, I. P.:
+
+a) Propor ao membro do Governo os subcritérios de análise;
+
+b) Propor ao membro do Governo as ponderações dos critérios e subcritérios a constarem no aviso de abertura dos procedimentos;
+
+c) Analisar as candidaturas admitidas a concurso e elaborar a proposta de lista final de avaliação e de seleção;
+
+d) Analisar as propostas de renovação e extensão apresentadas por entidades titulares de contratos de associação;
+
+e) Tornar público o resultado do procedimento e da aprovação do montante de financiamento por entidade a contratar, através de lista divulgada no sítio na Internet da AGSE, I. P.;
+
+f) Tornar pública a lista das extensões e das renovações autorizadas nos termos da presente portaria e o respetivo montante de financiamento por entidade, através da divulgação no sítio na Internet da AGSE, I. P.;
+
+g) Acompanhar globalmente a execução dos contratos;
+
+h) No final dos contratos, da sua renovação ou da extensão, elaborar parecer sobre o seu cumprimento e enviar ao membro do Governo para homologação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+#### Secção III — Procedimentos e formalidades
+
+###### Artigo 8.º — Subcritérios de seleção
+
+Os subcritérios de seleção das candidaturas são definidos em função dos objetivos estabelecidos no Estatuto do Ensino Particular e Cooperativo para o apoio financeiro nos termos da presente portaria, afirmados de modo concreto, objetivo e adequado ao procedimento em causa.
+
+###### Artigo 9.º — Procedimentos
+
+1 - Os procedimentos com vista à celebração de contratos são abertos pelo presidente do conselho diretivo da AGSE, I. P., mediante aviso de abertura publicado no sítio na Internet da referida agência.
+
+2 - O aviso de abertura dos procedimentos fixa as condições e os termos em que podem ser apresentadas as candidaturas, contendo, obrigatoriamente:
+
+a) Os prazos para o procedimento;
+
+b) O número de vagas para alunos ou turmas postas a concurso;
+
+c) Os ciclos de ensino abrangidos, com a correspondência com o número de turmas postas a concurso;
+
+d) A área geográfica de implantação da oferta;
+
+e) A duração do contrato;
+
+f) Os critérios e subcritérios de seleção das candidaturas e as correspondentes ponderações.
+
+3 - Os critérios referidos na alínea f) do número anterior são os seguintes:
+
+a) Os resultados escolares dos alunos, aferidos através da taxa de retenção e desistência e da taxa de conclusão no tempo esperado;
+
+b) O projeto educativo para os alunos e para as turmas a concurso, com especial ênfase para as estratégias de promoção do sucesso escolar e a implementação de medidas para uma escola inclusiva;
+
+c) Estabilidade do corpo docente do estabelecimento de ensino;
+
+d) A qualidade e adequação das instalações e dos equipamentos.
+
+4 - As candidaturas são dirigidas ao presidente do conselho diretivo da AGSE, I. P., através de formulário próprio disponibilizado pela referida agência.
+
+5 - As listas referidas nas alíneas e) e f) do artigo 7.º são divulgadas no sítio na Internet da AGSE, I. P.
+
+6 - À extensão dos contratos existentes a um novo ciclo de ensino, aplicam-se os procedimentos previstos no presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 10.º — Apresentação e instrução das candidaturas
+
+1 - O processo de candidatura deve ser formalizado, dentro do prazo indicado no aviso de abertura, por via eletrónica, mediante o preenchimento de formulário próprio disponível no sítio na Internet da AGSE, I. P.
+
+2 - A candidatura considera-se apresentada e é objeto de registo no momento em que a entidade a submete eletronicamente, não sendo permitidas alterações posteriores às candidaturas.
+
+3 - Caso a candidatura não se encontre instruída com os documentos indicados no aviso de abertura, a AGSE, I. P., notifica a entidade candidata para, no prazo de cinco dias úteis, suprir as omissões e deficiências ou apresentar as informações consideradas necessárias, sob pena de exclusão da candidatura.
+
+4 - Todas as comunicações entre a AGSE, I. P., e as entidades candidatas, designadamente em matéria de notificações, são efetuadas para o endereço eletrónico indicado por estas
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+###### Artigo 11.º — Exclusão de candidaturas
+
+Constituem motivos de exclusão da candidatura:
+
+a) A apresentação da candidatura fora do prazo fixado no Aviso de Abertura do procedimento;
+
+b) A prestação de falsas declarações pela entidade candidata, sem prejuízo da responsabilidade civil e penal a que houver lugar;
+
+c) A não verificação dos elementos de ponderação de candidaturas e/ou dos critérios ou subcritérios de avaliação;
+
+d) A não apresentação dos elementos previstos na presente portaria ou no Aviso de Abertura.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 12.º — Avaliação e seleção das candidaturas
+
+1 - A avaliação e a seleção das candidaturas são feitas pela AGSE, I. P., nos termos da presente portaria e do aviso de abertura.
+
+2 - A AGSE, I. P., elabora uma proposta de lista final de avaliação e de seleção das candidaturas, com a respetiva fundamentação, que submete ao membro do Governo, para o efeito da sua homologação.
+
+3 - As entidades candidatas ao apoio financeiro são notificadas da decisão de atribuição ou não do apoio financeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+#### Secção IV — Contratualização
+
+###### Artigo 13.º — Contrato
+
+1 - A concessão do apoio financeiro é formalizada através de contrato celebrado entre a DGAE e a entidade beneficiária do apoio.
+
+2 - No final do contrato, os seus efeitos mantêm-se até à conclusão do correspondente ciclo de ensino.
+
+> Revogado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 14.º — Obrigações das entidades titulares dos estabelecimentos de ensino
+
+1 - Sem prejuízo das obrigações previstas no EEPC e no contrato, as entidades titulares dos estabelecimentos de ensino estão sujeitas às seguintes obrigações:
+
+a) Celebrar o contrato com a AGSE, I. P., no prazo máximo de 60 dias, a contar da data da notificação da decisão de atribuição do apoio financeiro, sob pena da caducidade do direito ao apoio;
+
+b) Entregar, nos prazos estabelecidos, todos os elementos que lhes forem solicitados pela AGSE, I. P.;
+
+c) Comunicar à AGSE, I. P., qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à atribuição do apoio financeiro;
+
+d) Divulgar o contrato celebrado, a modalidade do ensino ministrado, a gratuitidade do ensino e inserir a menção ‘Estabelecimento de ensino integrante da rede pública. Financiado pelo Ministério da Educação, Ciência e Inovação ao abrigo de contrato de associação’, com a inclusão do logótipo do Ministério da Educação, Ciência e Inovação em todos os suportes de divulgação relativos à oferta de ensino beneficiária do financiamento;
+
+e) Garantir a matrícula efetuada nos termos gerais aos interessados até ao limite da lotação estabelecido no respetivo contrato de associação, de acordo com os critérios definidos no despacho que estabelece os procedimentos da matrícula e respetiva renovação;
+
+f) Cumprir as normas estabelecidas pelo MECI para a constituição de turmas;
+
+g) Submeter, para validação da AGSE, I. P., por via eletrónica e até ao dia 15 de julho, as propostas de turmas a constituir para o ano seguinte;
+
+h) Enviar à AGSE, I. P., até 15 de setembro de cada ano, a lista com os alunos abrangidos pelo contrato de associação e a respetiva turma.
+
+2 - As entidades titulares dos estabelecimentos de ensino devem, também, cumprir as demais obrigações previstas no artigo 18.º do EEPC.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+#### Secção V — Renovação dos contratos de associação
+
+###### Artigo 15.º — Procedimentos de renovação
+
+1 - Os contratos de associação podem ser renovados uma vez.
+
+2 - As entidades titulares de estabelecimentos do ensino particular e cooperativo que tenham celebrado contratos de associação e que os pretendam renovar devem manifestar essa intenção por via eletrónica junto da AGSE, I. P., até ao final do mês de fevereiro do ano em que ocorrerá o termo do contrato.
+
+3 - A proposta de renovação referida no número anterior deve ser instruída com os seguintes elementos:
+
+a) Número de alunos e de turmas a constituir relativos ao ano letivo seguinte;
+
+b) Resultados escolares obtido pelos alunos abrangidos pelo contrato proposto para renovação.
+
+4 - As propostas de renovação apresentadas são objeto de análise pela AGSE, I. P., que tem em conta os resultados obtidos pelos alunos.
+
+5 - O número de turmas constantes na proposta de renovação não pode ser superior ao do contrato a renovar.
+
+6 - A decisão de proceder à renovação do contrato é comunicada pela AGSE, I. P., à entidade candidata, após homologação pelo membro do Governo.
+
+7 - A comunicação a que se refere o número anterior é feita no prazo de 60 dias, contados a partir da receção da candidatura mencionada no n.º 2 deste artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+#### Secção VI — Financiamento
+
+###### Artigo 16.º — Apoio financeiro
+
+1 - O valor do apoio financeiro a conceder, no âmbito dos contratos de associação, é fixado no montante de 90 097,61 €, por turma e por ano escolar.
+
+2 - O valor fixado pode ser revisto pela entidade pública, caso se verifiquem as alterações das circunstâncias presentes no momento da celebração do contrato, ouvidas as associações representativas do ensino particular e cooperativo.
+
+> Nota: [Artigo 5.º, Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841) O valor do apoio financeiro a conceder, por turma e por ano escolar, nos termos do n.º 1 do presente artigo, na redação introduzida pela presente Portaria n.º 348-A/2026/1, de 17 de agosto, aplica-se às turmas cujo ciclo de ensino se inicie a partir de 18 de agosto de 2026.
+
+> Nota: [Artigo 3.º, Portaria n.º 285-A/2025/1 - Diário da República n.º 155/2025, Suplemento, Série I de 2025-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/285-a-2025-928936484) O valor do apoio financeiro a conceder, por turma e por ano escolar, nos termos do n.º 1 do presente artigo, na redação conferida pela presente portaria, aplica-se às turmas cujo ciclo de ensino se inicie a partir de 14 de agosto de 2025.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285-A/2025/1 - Diário da República n.º 155/2025, Suplemento, Série I de 2025-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/285-a-2025-928936484), em vigor a partir de 2025-08-14
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 176-A/2024/1 - Diário da República n.º 146/2024, Suplemento, Série I de 2024-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/176-a-2024-873920265), em vigor a partir de 2024-07-31
+
+###### Artigo 17.º — Processamento do apoio financeiro
+
+1 - O apoio financeiro é pago pela AGSE, I. P., mensalmente, através de transferência bancária.
+
+2 - O pagamento do apoio fica sujeito à verificação da manutenção dos requisitos necessários à sua atribuição, definidos no EEPC, na presente portaria, no Aviso de Abertura e no contrato outorgado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+#### Secção VII — Incumprimento contratual
+
+###### Artigo 18.º — Incumprimento do contrato de associação
+
+1 - O incumprimento do contrato pelas entidades titulares dos estabelecimentos de ensino confere à entidade pública o direito de resolução, constituindo o infrator em responsabilidade contratual nos termos gerais do direito.
+
+2 - A resolução implica a caducidade dos apoios financeiros concedidos, ficando a entidade beneficiária obrigada a restituir proporcionalmente as importâncias já recebidas.
+
+###### Artigo 19.º — Resolução do contrato de apoio financeiro
+
+1 - A resolução do contrato, verificada nos termos do artigo anterior, obriga a entidade infratora a assegurar aos alunos abrangidos pelo contrato o cumprimento do ano letivo.
+
+2 - A AGSE, I. P., notifica a entidade beneficiária do apoio da decisão que põe termo à atribuição do apoio financeiro e do montante que deve ser restituído, com a respetiva fundamentação
+
+3 - Antes da prática do ato previsto no número anterior, a entidade beneficiária é notificada nos termos dos artigos 121.º e seguintes do Código do Procedimento Administrativo.
+
+4 - A restituição deve ser efetuada no prazo de 30 dias, contados a partir da notificação da resolução do contrato, sob pena de pagamento de juros de mora à taxa legal em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+#### Secção VIII — Disposições finais e transitórias
+
+###### Artigo 20.º — Minutas
+
+As minutas do contrato e da extensão são publicadas em anexo I e II à presente portaria, fazendo dela parte integrante.
+
+###### Artigo 21.º — Direito subsidiário
+
+No que respeita aos aspetos procedimentais regulados na presente portaria é subsidiariamente aplicado o CPA.
+
+> Revogado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+###### Artigo 22.º — Norma transitória
+
+1 - Os contratos de associação em vigor à data da publicação da presente portaria consideram-se, nos termos da alínea d) do n.º 3 do artigo 17.º do EEPC, em execução até ao final do respetivo ciclo, sem prejuízo do número seguinte.
+
+2 - O número de turmas autorizadas para cada estabelecimento de ensino nos contratos em execução referidos no número anterior, pode ser alterado desde que devidamente fundamentado.
+
+3 - Ao procedimento concursal a realizar em 2015, não são aplicados os prazos gerais previstos na presente portaria.
+
+###### Artigo 23.º — Norma revogatória
+
+São revogadas as Portarias n.º 1324-A/2010, de 29 de dezembro e n.º 277/2011, de 13 de outubro.
+
+###### Artigo 24.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia da sua publicação.
+
+Em 4 de junho de 2015.
+
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - Pelo Ministro da Educação e Ciência, João Casanova de Almeida, Secretário de Estado do Ensino e da Administração Escolar.
+
+## Anexo I — Minuta de Contrato de Associação (a que se refere o artigo 20.º)
+
+CONTRATO DE ASSOCIAÇÃO
+
+I - Identificação das partes
+
+O Estado Português, através da Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), com sede na Avenida Infante Santo, 2, 1350-178 Lisboa, pessoa coletiva n.º 518985024, neste ato representado por (*nome do/a titular do cargo*), nomeado/a pelo Despacho n.º (*indicar o diploma legal de nomeação*), publicado em (*indicar o Diário da República, n.º, série e data*), doravante designado por PRIMEIRO OUTORGANTE, e *(nome da entidade)*, com sede em *(morada completa)*, concelho de *(indicar o concelho)*, pessoa coletiva número *(indicar o número)*, titular da autorização de funcionamento para o(a) *(indicar o nome do estabelecimento de ensino)*, localizado em *(indicar a morada completa)*, neste ato representado(a) por *(indicar o nome do/a representante legal)*, residente em *(indicar a morada completa)*, portador do bilhete de identidade/cartão de cidadão n.º *(indicar o número)*, na qualidade de representante legal da entidade titular, com poderes para o ato nos termos de (Certidão Comercial Permanente da Sociedade, com o código de acesso [...], válida até [...]/[...]/(indicar documento de representação quando não aplicável) doravante designado por SEGUNDO OUTORGANTE,
+
+Em conjunto designados por PARTES.
+
+II - Considerandos
+
+1 - Nos termos do n.º 6 do artigo 10.º do Estatuto do Ensino Particular e Cooperativo, publicado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro, os contratos de associação têm como finalidade possibilitar aos alunos a frequência de escolas do ensino particular e cooperativo em condições idênticas às verificadas no ensino ministrado nas escolas públicas, no respeito pela especificidade do respetivo projeto educativo.
+
+2 - A análise de rede efetuada para o ano letivo [.../...] revelou a necessidade de prover por oferta educativa pública na área geográfica de implantação da oferta em que se encontra o estabelecimento de ensino do segundo outorgante.
+
+3 - O segundo outorgante foi selecionado, ao abrigo de procedimento lançado pela AGSE, I. P., nos termos da Portaria n.º 172-A/2015, de 5 de junho, na sua redação atual, para prover por oferta educativa pública nos termos do respetivo aviso de abertura e do presente contrato.
+
+4 - Por despacho [...] foi autorizada a realização da despesa correspondente ao presente contrato.
+
+5 - A assunção do encargo plurianual correspondente ao presente contrato foi autorizada por [...].
+
+6 - A despesa prevista, em execução do presente contrato, durante o ano económico em curso, é satisfeita por verba inscrita na fonte de financiamento 311, atividade 513, classificação económica [...], com o cabimento prévio n.º [...]. Os encargos nos anos económicos seguintes serão objeto de adequada inscrição orçamental
+
+7 - O SEGUNDO OUTORGANTE fez prova da situação regularizada relativamente a impostos, a contribuições para a Segurança Social e para a Caixa Geral de Aposentações.
+
+III - Celebração do contrato
+
+As Partes celebram o presente Contrato de Associação, ao abrigo do disposto nos artigos 16.º a 18.º do Decreto-Lei n.º 152/2013, de 4 de novembro, o qual se rege pelas estipulações das cláusulas seguintes:
+
+Cláusula 1.ª
+
+Objeto
+
+1 - O presente Contrato de Associação tem por objeto a concessão, pelo PRIMEIRO OUTORGANTE ao SEGUNDO OUTORGANTE, do apoio financeiro necessário à constituição do número máximo de (indicar o número de turmas) turmas, do (indicar o/s nível/níveis de ensino) a funcionarem no (indicar o nome do estabelecimento), nos anos letivos (indicar os anos letivos a que respeitam o contrato), nas mesmas condições de gratuitidade do ensino público.
+
+2 - Constitui anexo ao presente contrato, dele fazendo parte integrante, quadro com os números parciais das turmas financiadas, discriminados por anos letivos.
+
+3 - O apoio a conceder durante a execução do contrato é atribuído ao número de turmas que efetivamente venham a ser constituídas e validadas, em cada ano letivo.
+
+Cláusula 2.ª
+
+Obrigações do PRIMEIRO OUTORGANTE
+
+1 - São obrigações do PRIMEIRO OUTORGANTE:
+
+a) Proceder à análise dos elementos necessários à organização dos processos de concessão do apoio financeiro decorrente do presente contrato;
+
+b) Desencadear os mecanismos correspondentes à execução do contrato de financiamento por parte do Estado;
+
+c) Pagar ao segundo outorgante, através de transferência bancária o apoio financeiro contratado por este instrumento, no valor de (euro) *(indicar o valor - numeral e por extenso)* em prestações mensais, correspondente a *(indicar o número)* turmas, relativo ao período de *(indicar a data de início)* a *(indicar a data de fim)* para o número de identificação bancária (NIB) indicado pelo SEGUNDO OUTORGANTE;
+
+d) Solicitar a intervenção da Inspeção-Geral da Educação e Ciência ou de outros serviços e órgãos de controlo, para que, no uso das atribuições e competências que lhe são legalmente cometidas, proceda à fiscalização do cumprimento dos termos do presente contrato, sempre que tal se afigure necessário.
+
+2 - Nos termos do n.º 2 do artigo 17.º do EEPC, o PRIMEIRO OUTORGANTE garante a manutenção do contrato até à conclusão do ciclo de ensino das turmas por ele abrangido.
+
+Cláusula 3.ª
+
+Obrigações do SEGUNDO OUTORGANTE
+
+1 - São obrigações do SEGUNDO OUTORGANTE:
+
+a) Garantir o acesso ao ensino ministrado nos ciclos de ensino abrangidos pelo contrato de associação por todas as crianças e jovens em idade escolar, no respeito pelos princípios da igualdade e da não discriminação e das normas aplicáveis às matrículas e renovações de matrícula;
+
+b) Cumprir os programas e planos de estudos e demais legislação e regulamentação aplicável ao ensino particular e cooperativo com contrato de associação;
+
+c) Aceitar, a título condicional, as matrículas que ultrapassem a sua capacidade, comunicando-as aos serviços competentes do MEC;
+
+d) Divulgar o regime de contrato e a gratuitidade do ensino ministrado e inserir a menção «Estabelecimento de ensino integrante da rede pública. Financiado pelo Ministério da Educação, Ciência e Inovação ao abrigo de contrato de associação», com inclusão do logótipo do Ministério da Educação, Ciência e Inovação, em todos os suportes de divulgação relativos à oferta de ensino beneficiária do financiamento;
+
+e) Manter atualizada a informação respeitante ao número de identificação bancária (NIB) para onde se processam as transferências bancárias referidas na alínea c) da Cláusula 2.ª;
+
+f) Facultar ao primeiro outorgante, em formato eletrónico, os seguintes elementos:
+
+i) Até 31 de maio, o balanço e contas anuais do ano anterior, legalmente aprovados;
+
+ii) No decorrer dos meses de outubro e agosto de cada ano e sempre que a aplicação de disposição legal o determine, através da AGSE, I. P., todos os elementos necessários ao cálculo do montante do financiamento e aos respetivos ajustes anuais e reduções, designadamente a identificação das turmas e dos alunos, no respeito pela legislação aplicável em matéria de proteção de dados pessoais.
+
+g) Colaborar com a Inspeção-Geral da Educação e Ciência e com outros serviços e órgãos de controlo com competência para a fiscalização do cumprimento dos termos do presente contrato.
+
+2 - Nos termos do n.º 2 do artigo 17.º do EEPC, o SEGUNDO OUTORGANTE compromete-se a assegurar o cumprimento do contrato até à conclusão do ciclo de ensino das turmas por ele abrangido.
+
+Lido e achado conforme, o presente contrato é assinado em dois exemplares, rubricados pelos respetivos OUTORGANTES, ficando um exemplar na posse do PRIMEIRO OUTORGANTE e outro na posse do SEGUNDO OUTORGANTE.
+
+Cláusula 4.ª
+
+Faculdade do SEGUNDO OUTORGANTE
+
+Constitui faculdade do SEGUNDO OUTORGANTE cobrar aos alunos que integram as turmas financiadas ao abrigo do presente contrato, montantes referentes à prestação de serviços não cobertos pelo apoio financeiro concedido ao abrigo do presente contrato de associação, designadamente, de atividades de complemento curricular, de prolongamento de horário e de transporte, desde que cumpridas as condições estabelecidas no n.º 3 do artigo 57.º do Decreto-Lei n.º 152/2013, de 4 de novembro, e demais legislação aplicável à prestação daqueles serviços.
+
+Cláusula 5.ª
+
+Cessação e Resolução do contrato
+
+1 - O contrato pode cessar por acordo das Partes antes do prazo estabelecido.
+
+2 - O contrato é resolvido pelo PRIMEIRO OUTORGANTE, nos seguintes casos;
+
+a) Se o SEGUNDO OUTORGANTE violar de forma grave ou reiterada qualquer das obrigações dele emergentes, designadamente:
+
+i) Incumprimento das obrigações estabelecidas no Estatuto do Ensino Particular e Cooperativo, na portaria identificada na cláusula 4.ª e no presente contrato;
+
+ii) Incumprimento, por facto imputável ao SEGUNDO OUTORGANTE, das correspondentes obrigações legais e fiscais;
+
+iii) Utilização dos montantes do apoio financeiro para fins diversos dos aprovados;
+
+iv) Recusa ou prestação de informações falsas sobre a situação da entidade beneficiária do apoio;
+
+v) Verificando-se a cessão a terceiros da posição contratual detida pelo SEGUNDO OUTORGANTE.
+
+b) Constituem, ainda, causa de resolução unilateral do contrato pelo PRIMEIRO OUTORGANTE as situações em que se verifique a aplicação das sanções previstas nas alíneas c) e d) do n.º 1 do artigo 99.º do Decreto-Lei n.º 553/80, de 21 de novembro, na redação que lhe foi conferida pela Lei n.º 33/2012, de 23 de agosto, expressamente mantida em vigor pelo Decreto-Lei n.º 152/2013, de 4 de novembro.
+
+3 - O direito de resolução referido no número anterior exerce-se mediante declaração escrita dirigida ao SEGUNDO OUTORGANTE, com a indicação dos fundamentos da resolução, produzindo efeitos na data da sua receção por este.
+
+4 - O contrato pode ser resolvido pelo SEGUNDO OUTORGANTE se o PRIMEIRO OUTORGANTE violar de forma grave ou reiterada qualquer das obrigações que lhe incumbem no âmbito do contrato, designadamente se se verificar um atraso no pagamento previsto na alínea c) da cláusula 2.ª, superior a 45 dias.
+
+5 - O direito de resolução referido no número anterior exerce-se mediante declaração escrita dirigida ao PRIMEIRO OUTORGANTE e produz efeitos no prazo de 30 dias após a respetiva receção, mas é suspenso se este pagar ao SEGUNDO OUTORGANTE, nesse mesmo prazo, o montante em dívida acrescido dos juros de mora a que houver lugar.
+
+6 - O incumprimento do contrato por parte do SEGUNDO OUTORGANTE confere-lhe o estatuto de infrator com responsabilidade contratual nos termos gerais do direito, obrigando-o a restituir proporcionalmente as importâncias já recebidas.
+
+Cláusula 6.ª
+
+Comunicações
+
+1 - A comunicação formal entre as Partes é efetuada em língua portuguesa, de preferência por via eletrónica.
+
+2 - As comunicações efetuadas por carta registada com aviso de receção, consideram-se recebidas na data em que o mesmo for assinado.
+
+3 - As comunicações efetuadas por telefax consideram-se recebidas na data constante do respetivo relatório de transmissão, salvo se o documento enviado por telefax for recebido depois das 16 horas e 30 minutos locais ou em dia não útil, casos em que a comunicação assim efetuada se considera como tendo sido recebida às 9 horas do dia útil seguinte.
+
+4 - As comunicações efetuadas por correio eletrónico consideram-se recebidas na data constante da respetiva comunicação de receção, transmitida do recetor para o emissor. As comunicações por correio eletrónico só são consideradas válidas se forem efetuadas por intermédio de dispositivos informáticos certificados com assinatura digital.
+
+5 - As notificações ou comunicações realizadas entre as Partes devem ser dirigidas para os seguintes endereços:
+
+PRIMEIRO OUTORGANTE [Avenida 24 de julho, n.º 142, 1399-024 Lisboa, dsepc@dgae.mec.pt]
+
+SEGUNDO OUTORGANTE [*indicar morada completa e endereço de correio eletrónico*]
+
+Cláusula 7.ª
+
+Legislação aplicável
+
+O contrato é regulado pela legislação portuguesa.
+
+Cláusula 8.ª
+
+Resolução de litígios
+
+Para a resolução de quaisquer litígios emergentes do contrato, designadamente os relativos à sua interpretação, execução, incumprimento, invalidade, resolução ou redução, é competente o foro da comarca de Lisboa, com expressa renúncia a qualquer outro.
+
+Cláusula 9.ª
+
+Contagem de Prazos
+
+1 - Os prazos previstos no contrato são contínuos, correndo nos sábados, domingos e dias feriados e não se suspendem nem interrompem em férias, salvo disposição em contrário.
+
+2 - Os prazos que terminem em sábados, domingos ou dias feriados transferem-se para o primeiro dia útil seguinte.
+
+Cláusula 10.ª
+
+Produção de efeitos
+
+Este contrato produz efeitos de (*data de início*) a (*data final*).
+
+Lido e achado conforme, o presente contrato é assinado em dois exemplares, autenticados pelos respetivos OUTORGANTES, ficando um exemplar na posse do PRIMEIRO OUTORGANTE e outro na posse do SEGUNDO OUTORGANTE e homologado pelo membro do Governo com competência para o ato.
+
+Lisboa, (*data*)
+
+(ver documento original)
+
+HOMOLOGO em... de... de 20...
+
+... (Assinatura do membro do Governo)
+
+QUADRO DO ANEXO I
+
+Números parciais das turmas financiadas, por anos letivos
+
+(a que se refere o n.º 2 da Cláusula 1.ª)
+
+(ver documento original)
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+> Retificado pelo/a [Declaração de Retificação n.º 32/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2015-69782191), produz efeitos a partir de 2015-06-06
+
+## Anexo II — Minuta de Contrato de Extensão do Contrato de Associação (a que se refere o artigo 20.º)
+
+Contrato de extensão do contrato de associação
+
+I - Identificação das partes
+
+O Estado Português, através da Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), com sede na Avenida Infante Santo, 2, 1350-178 Lisboa, pessoa coletiva n.º 518985024, neste ato representado por (*nome do/a titular do cargo*), nomeado/a pelo Despacho n.º (*indicar o diploma legal de nomeação*), publicado em (*indicar o Diário da República, n.º, série e data*), doravante designado por PRIMEIRO OUTORGANTE, e *(nome da entidade)*, com sede em *(morada completa)*, concelho de *(indicar o concelho)*, pessoa coletiva número *(indicar o número)*, titular da autorização de funcionamento para o(a) *(indicar o nome do estabelecimento de ensino)*, localizado em *(indicar a morada completa)*, neste ato representado(a) por *(indicar o nome do/a representante legal)*, residente em *(indicar a morada completa)*, portador do bilhete de identidade/cartão de cidadão n.º *(indicar o número)*, na qualidade de representante legal da entidade titular, com poderes para o ato nos termos de (Certidão Comercial Permanente da Sociedade com o código de acesso [...], válida até [...]/(indicar documento de representação quando não aplicável a CCP), doravante designado por SEGUNDO OUTORGANTE,
+
+Em conjunto designados por PARTES.
+
+II - Considerandos
+
+1 - Nos termos do n.º 6 do artigo 10.º do Estatuto do Ensino Particular e Cooperativo, publicado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro, os contratos de associação têm como finalidade possibilitar aos alunos a frequência de escolas do ensino particular e cooperativo em condições idênticas às verificadas no ensino ministrado nas escolas públicas, no respeito pela especificidade do respetivo projeto educativo.
+
+2 - A análise de rede efetuada para o ano letivo [.../...] revelou a necessidade de prover por oferta educativa pública na área geográfica de implantação da oferta em que se encontra o estabelecimento de ensino do segundo outorgante.
+
+3 - O segundo outorgante foi selecionado, ao abrigo de procedimento lançado pela AGSE, I. P., nos termos da Portaria n.º 172-A/2015, de 5 de junho, na sua redação atual, para prover por oferta educativa pública nos termos do respetivo aviso de abertura e do presente contrato.
+
+4 - Por despacho [...] foi autorizada a realização da despesa correspondente ao presente contrato.
+
+5 - A assunção do encargo plurianual correspondente ao presente contrato foi autorizada por [...].
+
+6 - A despesa prevista, em execução do presente contrato, durante o ano económico em curso, é satisfeita por verba inscrita na fonte de financiamento 311, atividade 513, classificação económica [...], com o cabimento prévio n.º [...]. Os encargos nos anos económicos seguintes serão objeto de adequada inscrição orçamental.
+
+7 - O SEGUNDO OUTORGANTE fez prova da situação regularizada relativamente a impostos, a contribuições para a Segurança Social e para a Caixa Geral de Aposentações
+
+III. CELEBRAÇÃO DO CONTRATO
+
+As Partes celebram o presente Contrato de Extensão do Contrato de Associação, ao abrigo do disposto nos artigos 16.º a 18.º do Decreto-Lei n.º 152/2013, de 4 de novembro, o qual se rege pelas estipulações das cláusulas seguintes:
+
+Cláusula 1.ª
+
+Objeto
+
+1 - O presente Contrato de Associação tem por objeto a concessão, pelo PRIMEIRO OUTORGANTE ao SEGUNDO OUTORGANTE, do apoio financeiro necessário à constituição do número máximo de (indicar o número de turmas) turmas, do (indicar o nível de ensino) a funcionarem no (indicar o nome do estabelecimento), nos anos letivos (indicar os anos letivos a que respeitam o contrato), nas mesmas condições de gratuitidade do ensino público.
+
+2 - Constitui anexo ao presente contrato, dele fazendo parte integrante, quadro com os números parciais das turmas financiadas, discriminados por anos letivos.
+
+3 - O apoio a conceder durante a execução do contrato é atribuído ao número de turmas que efetivamente venham a ser constituídas e validadas, em cada ano letivo.
+
+Cláusula 2.ª
+
+Obrigações do PRIMEIRO OUTORGANTE
+
+1 - São obrigações do PRIMEIRO OUTORGANTE:
+
+a) Proceder à análise dos elementos necessários à organização dos processos de concessão do apoio financeiro decorrente do presente contrato;
+
+b) Desencadear os mecanismos correspondentes à execução do contrato de financiamento por parte do Estado;
+
+c) Pagar ao segundo outorgante, através de transferência bancária o apoio financeiro contratado por este instrumento, no valor de (euro) *(indicar o valor - numeral e por extenso)* em prestações mensais, correspondente a *(indicar o número)* turmas, relativo ao período de *(indicar a data de início)* a *(indicar a data de fim) * para o número de identificação bancária (NIB) indicado pelo SEGUNDO OUTORGANTE;
+
+d) Solicitar a intervenção da Inspeção-Geral da Educação e Ciência ou de outros serviços e órgãos de controlo, para que, no uso das atribuições e competências que lhe são legalmente cometidas, proceda à fiscalização do cumprimento dos termos do presente contrato, sempre que tal se afigure necessário.
+
+2 - Nos termos do n.º 2 do artigo 17.º do EEPC, o PRIMEIRO OUTORGANTE garante a manutenção do contrato até à conclusão do ciclo de ensino das turmas por ele abrangido.
+
+Cláusula 3.ª
+
+Obrigações do SEGUNDO OUTORGANTE
+
+1 - São obrigações do SEGUNDO OUTORGANTE:
+
+a) Garantir no âmbito do presente Contrato de Extensão, o acesso ao ensino ministrado nos ciclos de ensino abrangidos pelo contrato por todas as crianças e jovens em idade escolar, no respeito pelos princípios da igualdade e da não discriminação e das normas gerais aplicáveis às matrículas e renovações de matrícula;
+
+b) Cumprir os programas e planos de estudos e demais legislação e regulamentação aplicável ao ensino particular e cooperativo com contrato de associação;
+
+c) Aceitar, a título condicional, as matrículas que ultrapassem a sua capacidade, comunicando-as aos serviços competentes do MEC;
+
+d) Divulgar o regime de contrato e a gratuitidade do ensino ministrado e inserir a menção "Estabelecimento de ensino integrante da rede pública. Financiado pelo Ministério da Educação e Ciência ao abrigo de contrato de associação", com inclusão do logótipo do Ministério da Educação e Ciência, em todos os suportes de divulgação relativos à oferta de ensino beneficiária do financiamento;
+
+e) Manter atualizada a informação respeitante ao número de identificação bancária (NIB) para onde se processam as transferências bancárias referidas na alínea c) da Cláusula 2.ª;
+
+f) Facultar ao primeiro outorgante, em formato eletrónico, os seguintes elementos:
+
+i) Até 31 de maio, balanço e contas anuais do ano anterior, legalmente aprovados;
+
+ii) No decorrer dos meses de outubro e agosto de cada ano e sempre que a aplicação de disposição legal o determine, através da AGSE, I. P., todos os elementos necessários ao cálculo do montante do financiamento e aos respetivos ajustes anuais e reduções, designadamente a identificação das turmas e dos alunos, no respeito pela legislação aplicável em matéria de proteção de dados pessoais.
+
+g) Colaborar com a Inspeção-Geral da Educação e Ciência e com outros serviços e órgãos de controlo com competência para a fiscalização do cumprimento dos termos do presente contrato.
+
+2 - Nos termos do n.º 2 do artigo 17.º do EEPC, o SEGUNDO OUTORGANTE compromete-se a assegurar o cumprimento do contrato até à conclusão do ciclo de ensino das turmas por ele abrangido.
+
+Lido e achado conforme, o presente contrato é assinado em dois exemplares, rubricados pelos respetivos OUTORGANTES, ficando um exemplar na posse do PRIMEIRO OUTORGANTE e outro na posse do SEGUNDO OUTORGANTE.
+
+Cláusula 4.ª
+
+Faculdade do SEGUNDO OUTORGANTE
+
+Constitui faculdade do SEGUNDO OUTORGANTE cobrar aos alunos que integram as turmas financiadas ao abrigo do presente contrato, montantes referentes à prestação de serviços não cobertos pelo apoio financeiro concedido ao abrigo do presente contrato de associação, designadamente, de atividades de complemento curricular, de prolongamento de horário e de transporte, desde que cumpridas as condições estabelecidas no n.º 3 do artigo 57.º do Decreto-Lei n.º 152/2013, de 4 de novembro, e demais legislação aplicável à prestação daqueles serviços.
+
+Cláusula 5.ª
+
+Resolução do contrato
+
+1 - O contrato pode cessar por acordo das Partes, antes da data prevista.
+
+2 - O contrato é resolvido pelo PRIMEIRO OUTORGANTE, nos seguintes casos;
+
+a) Se o SEGUNDO OUTORGANTE violar de forma grave ou reiterada qualquer das obrigações dele emergentes, designadamente:
+
+i) Incumprimento das obrigações estabelecidas no Estatuto do Ensino Particular e Cooperativo e na portaria identificada na cláusula 4.ª e no presente contrato;
+
+ii) Incumprimento, por facto imputável ao SEGUNDO OUTORGANTE, das correspondentes obrigações legais e fiscais;
+
+iii) Utilização dos montantes do apoio financeiro para fins diversos dos aprovados;
+
+iv) Recusa ou prestação de informações falsas sobre a situação da entidade beneficiária do apoio;
+
+v) Verificação da cessão a terceiros da posição contratual detida pelo SEGUNDO OUTORGANTE;
+
+b) Constitui, ainda, causa de resolução do contrato pelo PRIMEIRO OUTORGANTE nas situações em que se verifique a aplicação das sanções previstas nas alíneas c) e d) do n.º 1 do artigo 99.º do Decreto-Lei n.º 553/80, de 21 de novembro, na redação que lhe foi conferida pela Lei n.º 33/2012, de 23 de agosto, expressamente mantida em vigor pelo Decreto-Lei n.º 152/2013, de 4 de novembro.
+
+3 - O direito de resolução referido no número anterior é exercido mediante declaração escrita dirigida ao SEGUNDO OUTORGANTE, com a indicação dos fundamentos da resolução, produzindo efeitos na data da sua receção por este.
+
+4 - O contrato pode ser resolvido pelo SEGUNDO OUTORGANTE se o PRIMEIRO OUTORGANTE violar de forma grave ou reiterada qualquer das obrigações que lhe incumbem no âmbito do contrato, designadamente se se verificar um atraso no pagamento previsto na alínea c) da cláusula 2.ª, superior a 45 dias.
+
+5 - O direito de resolução referido no número anterior exerce-se mediante declaração escrita dirigida ao PRIMEIRO OUTORGANTE e produz efeitos no prazo de 30 dias após a respetiva receção, mas é suspenso se este pagar ao SEGUNDO OUTORGANTE, nesse mesmo prazo, o montante em dívida acrescido dos juros de mora a que houver lugar.
+
+6 - O incumprimento do contrato por parte do SEGUNDO OUTORGANTE confere-lhe o estatuto de infrator com responsabilidade contratual nos termos gerais do direito, obrigando-o a restituir proporcionalmente as importâncias já recebidas.
+
+Cláusula 6.ª
+
+Comunicações
+
+1 - A comunicação formal entre as Partes é efetuada em língua portuguesa, de preferência por via eletrónica.
+
+2 - As comunicações efetuadas por carta registada com aviso de receção, consideram-se recebidas na data em que o mesmo for assinado.
+
+3 - As comunicações efetuadas por telefax consideram-se recebidas na data constante do respetivo relatório de transmissão, salvo se o documento enviado por telefax for recebido depois das 16 horas e 30 minutos locais ou em dia não útil, casos em que a comunicação assim efetuada se considera como tendo sido recebida às 9 horas do dia útil seguinte.
+
+4 - As comunicações efetuadas por correio eletrónico consideram-se recebidas na data constante da respetiva comunicação de receção, transmitida do recetor para o emissor. As comunicações por correio eletrónico só são consideradas válidas se forem efetuadas por intermédio de dispositivos informáticos certificados com assinatura digital.
+
+5 - As notificações ou comunicações realizadas entre as Partes devem ser dirigidas para os seguintes endereços:
+
+PRIMEIRO OUTORGANTE [Avenida 24 de julho, n.º 142, 1399-024 Lisboa, dsepc@dgae.mec.pt]
+
+SEGUNDO OUTORGANTE [*indicar morada completa e endereço de correio eletrónico*]
+
+Cláusula 7.ª
+
+Legislação aplicável
+
+Ao contrato é aplicada a lei portuguesa.
+
+Cláusula 8.ª
+
+Resolução de litígios
+
+Para a resolução de quaisquer litígios emergentes do contrato, designadamente os relativos à sua interpretação, execução, incumprimento, invalidade, resolução ou redução, é competente o foro da comarca de Lisboa, com expressa renúncia a qualquer outro.
+
+Cláusula 9.ª
+
+Contagem de Prazos
+
+1 - Os prazos previstos no contrato são contínuos, correndo nos sábados, domingos e dias feriados, e não se suspendem nem interrompem em férias, salvo disposição em contrário.
+
+2 - Os prazos que terminem em sábados, domingos ou dias feriados transferem-se para o primeiro dia útil seguinte.
+
+Cláusula 10.ª
+
+Produção de efeitos
+
+Este contrato produz efeitos de (*data de início*) a (*data final*).
+
+Lido e achado conforme, é o presente contrato assinado em dois exemplares, autenticados pelos respetivos OUTORGANTES, ficando um exemplar na posse do PRIMEIRO OUTORGANTE e outro na posse do SEGUNDO OUTORGANTE e homologado pelo membro do Governo com competência para o ato.
+
+Lisboa, (*data*)
+
+(ver documento original)
+
+HOMOLOGO em... de... de 20...
+
+... (Assinatura do membro do Governo)
+
+QUADRO DO ANEXO II
+
+Números parciais das turmas financiadas, por anos letivos
+
+(a que se refere o n.º 2 da Cláusula 1.ª)
+
+(ver documento original)
+
+> Alterado pelo/a Anexo II do/a [Portaria n.º 348-A/2026/1 - Diário da República n.º 158/2026, Suplemento, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/348-a-2026-1159784841), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a [Portaria n.º 165/2017 - Diário da República n.º 97/2017, Série I de 2017-05-19](https://diariodarepublica.pt/dr/detalhe/portaria/165-2017-107038204), em vigor a partir de 2017-05-20
+
+> Retificado pelo/a [Declaração de Retificação n.º 32/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/32-2015-69782191), produz efeitos a partir de 2015-06-06

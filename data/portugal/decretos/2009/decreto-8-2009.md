@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:604646:por
+title: Decreto n.º 8/2009
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e a República de São Tomé e Príncipe para o Reconhecimento Mútuo de
+  Títulos de Condução, assinado em Lisboa a 22 de Abril de 2008
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 8/2009
+official_date: null
+publication_date: '2009-03-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2009, Série I de 2009-03-02
+  number: '42'
+  series: I
+  supplement: null
+  pages: 1402 - 1403
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04200/0140201403.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/8/2009/03/02/p/dre/pt/html
+  oj: null
+  dre: '604646'
+  dre_path: /dr/detalhe/decreto/8-2009-604646
+  internal: pt:dre:604646:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2009-604646
+  metadata_url: https://data.dre.pt/eli/dec/8/2009/03/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8-2009-604646
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-03-02T00:00:00Z'
+integrity:
+  source_sha256: 27c0d900ffac781c975f58a6065f9c592369429ba1e42c7f1b76bbe9c77e6bbf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-8-604646.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carta de Condução
+- Convenção
+- Portugal
+- Lisboa
+relationships: []
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 8/2009
+
+de 2 de Março
+
+Considerando a cooperação existente entre a República Portuguesa e a República de São Tomé e Príncipe no domínio do Direito rodoviário, o desejo de fortalecimento das relações bilaterais nesta matéria e o benefício recíproco na celebração do presente Acordo, garantindo-se a mobilidade rodoviária de pessoas e bens de cada uma das Partes no território da outra Parte;
+
+Considerando que o presente Acordo consagra o princípio de reconhecimento mútuo e troca automática de títulos de condução emitidos pelas respectivas entidades competentes e estabelece o reconhecimento recíproco das decisões condenatórias definitivas nos processos de contra-ordenação rodoviária instaurados por uma das Partes aos condutores com título de condução emitido pela outra Parte, prevendo ainda o estabelecimento de mecanismos de troca de comunicações entre as partes que garantam maior eficácia na execução do Acordo:
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo entre a República Portuguesa e a República de São Tomé e Príncipe para o Reconhecimento Mútuo de Títulos de Condução, assinado em Lisboa em 22 de Abril de 2008, cujo texto, na versão autenticada, na língua portuguesa se publica em anexo.
+
+Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Mário Lino Soares Correia.
+
+**Assinado em 13 de Fevereiro de 2009.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 17 de Fevereiro de 2009.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE SÃO TOMÉ E PRÍNCIPE PARA O RECONHECIMENTO MÚTUO DE TÍTULOS DE CONDUÇÃO
+
+A República Portuguesa e a República de São Tomé e Príncipe, doravante designadas por Partes;
+
+Animadas pelo espírito de cooperação e de amizade mútua que caracteriza as históricas relações entre a República Portuguesa e a República de São Tomé e Príncipe;
+
+Decididos a manter e reforçar tais relações;
+
+Reconhecendo as vantagens recíprocas que possam advir da cooperação e facilitação na circulação rodoviária no território de cada um dos países;
+
+Acordam no seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente Acordo tem por objecto o reconhecimento mútuo de títulos de condução emitidos pelas autoridades competentes das duas Partes aos seus nacionais.
+
+###### Artigo 2.º — Validade dos títulos de condução
+
+1 - As Partes reconhecem os títulos de condução válidos referidos no artigo 1.º para as categorias de veículos para que sejam concedidos pela autoridade competente e por um prazo até 185 dias após a entrada no território da outra Parte.
+
+2 - Decorrido o prazo referido no número anterior, os titulares de títulos de condução devem requerer a troca do título, bastando para o efeito a confirmação da autenticidade do mesmo pela entidade competente.
+
+###### Artigo 3.º — Requisitos internos
+
+1 - As Partes garantem que os títulos de condução emitidos pelas autoridades competentes respeitam as normas de Direito interno de cada uma das Partes, nomeadamente os requisitos legais para a obtenção de títulos de condução.
+
+2 - Em caso de dúvida sobre a autenticidade dos títulos de condução emitidos pelas Partes, as respectivas autoridades competentes podem solicitar mutuamente a confirmação dessa autenticidade.
+
+###### Artigo 4.º — Menções especiais
+
+Quando o título de condução possuir menções especiais, nomeadamente restrições ou adaptações à condução do seu titular, estas são observadas pelas Partes nos termos estabelecidos pelos respectivos Direitos internos para restrições e adaptações idênticas.
+
+###### Artigo 5.º — Títulos de condução caducados
+
+Os títulos de condução caducados nos termos do Direito interno das Partes são insusceptíveis de reconhecimento.
+
+###### Artigo 6.º — Comunicações recíprocas
+
+1 - As Partes comprometem-se a comunicar reciprocamente, a solicitação das autoridades competentes, a informação necessária à identificação do titular de título de condução que seja alvo de processo de contra-ordenação na outra Parte.
+
+2 - Ressalvada a situação de troca de títulos de condução, as Partes comprometem-se ainda a comunicar reciprocamente as medidas restritivas definitivas ou transitadas em julgado do direito de conduzir, aplicadas ao condutor no território da outra Parte, designadamente:
+
+a) Proibição ou interdição de conduzir;
+
+b) Cassação de título de condução;
+
+c) Aplicação de sanção acessória de inibição de conduzir;
+
+d) Apreensão de títulos de condução, nos termos definidos pelo Direito interno das Partes.
+
+3 - As Partes obrigam-se, ainda, a comunicar entre si quaisquer ocorrências susceptíveis de dificultar a aplicação do presente Acordo.
+
+###### Artigo 7.º — Reconhecimento de decisões condenatórias
+
+As Partes comprometem-se a recusar a troca de título de condução a condutor cujo título tenha sido objecto de restrição, suspensão ou retirada nos termos do Direito interno das Partes, e ainda a reconhecer as decisões condenatórias definitivas, proferidas em processos de contra-ordenação rodoviária e a executar a parte não cumprida da sanção acessória de inibição de conduzir aplicada pela outra Parte.
+
+###### Artigo 8.º — Autoridades competentes
+
+Para efeitos de implementação do presente Acordo, as Partes estabelecem que são autoridades competentes:
+
+a) Pela República Portuguesa, o Instituto da Mobilidade e dos Transportes Terrestres, I. P., em coordenação com a Autoridade Nacional de Segurança Rodoviária;
+
+b) Pela República de São Tomé e Príncipe, a Direcção dos Transportes Terrestres.
+
+###### Artigo 9.º — Consultas
+
+No processo de implementação do presente Acordo, qualquer uma das Partes poderá a qualquer momento e sempre que se revele pertinente, solicitar consultas à outra Parte, para maior eficácia do mesmo.
+
+###### Artigo 10.º — Salvaguarda do Direito interno das Partes
+
+Nenhuma das disposições do presente Acordo pode ser interpretada no sentido de impedir qualquer das Partes de tomar as medidas legalmente previstas no seu Direito interno relativamente a um titular de título de condução que transgrida as regras de trânsito vigentes ou pratique quaisquer actos susceptíveis de prejudicar o exercício de condução em segurança.
+
+###### Artigo 11.º — Solução de controvérsias
+
+Qualquer controvérsia relativa à interpretação, implementação ou aplicação do presente Acordo será solucionada pelas Partes, através de negociação, por via diplomática.
+
+###### Artigo 12.º — Revisão
+
+1 - O presente Acordo pode ser objecto de revisão a pedido de qualquer das Partes.
+
+2 - As emendas entrarão em vigor nos termos previstos no artigo 14.º do presente Acordo.
+
+###### Artigo 13.º — Vigência e denúncia
+
+1 - O presente Acordo permanecerá em vigor por um período de tempo ilimitado.
+
+2 - Qualquer das Partes poderá, a qualquer momento, denunciar o presente Acordo mediante notificação prévia, por escrito e por via diplomática.
+
+3 - O presente Acordo cessa a sua vigência seis meses após a data da recepção da respectiva notificação.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente Acordo entrará em vigor 30 dias após a data da recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos de Direito interno das Partes necessários para o efeito.
+
+###### Artigo 15.º — Registo
+
+A Parte em cujo território o presente Acordo for assinado, no mais breve prazo possível após a sua entrada em vigor, submetê-lo-á para registo junto do Secretariado das Nações Unidas, nos termos do artigo 102.º da Carta das Nações Unidas, devendo, igualmente, notificar a outra Parte da conclusão deste procedimento e indicar-lhe o número de registo atribuído.
+
+Feito em Lisboa, a 22 de Abril de 2008, em dois originais, na língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+Mário Lino, Ministro das Obras Públicas, Transportes e Comunicações.
+
+Pela República de São Tomé e Príncipe:
+
+Arzemiro dos Prazeres, Ministro das Obras Públicas, Infra-Estruturas e Urbanismo.

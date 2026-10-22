@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:504321:por
+title: Decreto-Lei n.º 42995
+short_title: null
+summary: Dá nova redacção ao n.º 2 do artigo 4.º do Decreto-Lei n.º 41306 (Laboratório da Polícia Científica) e regula o provimento
+  de vários lugares criados pelo Decreto-Lei n.º 42647 - Permite que os lugares de inspector dos serviços prisionais sejam
+  preenchidos, em regime de comissão de serviço, tanto por directores dos estabelecimentos prisionais como por magistrados
+  do Ministério Público
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: '42995'
+official_date: null
+publication_date: '1960-05-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 127/1960, Série I de 1960-05-31
+  number: '127'
+  series: I
+  supplement: null
+  pages: 1291 - 1292
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/05/12700/12911292.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '504321'
+  dre_path: /dr/detalhe/decreto-lei/42995-1960-504321
+  internal: pt:dre:504321:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42995-1960-504321
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42995-1960-504321
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-05-31T00:00:00Z'
+integrity:
+  source_sha256: 3702cfe6631b4554e494579c341d2c0616a8661a7e07285a03649a2607ef1fc9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-42995-504321.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 42995
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 41306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41306-1957-253445), de 2 de Outubro de 1957, passa a ter a seguinte redacção:
+
+###### Art. 4.º - 1. ...
+
+2. Quando o provimento do lugar de director recair num dos adjuntos, a este será abonada, em acumulação, a respectiva gratificação.
+
+Na falta ou ausência do director, exercerá as respectivas funções o adjunto que for designado pelo Ministro da Justiça, sob proposta do director da Polícia Judiciária.
+
+3. ...
+
+###### Art. 2.º O lugar de electricista criado pelo artigo 4.º, n.º 1, do [Decreto-Lei n.º 42647](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42647-1959-438961), de 16 de Novembro de 1959, será provido por contrato e recairá em profissional de reconhecida competência com as habilitações mínimas do exame de 2.º grau.
+
+###### Art. 3.º O pessoal a admitir nos termos do artigo 4.º, n.º 3, do [Decreto-Lei n.º 42647](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42647-1959-438961), de 16 de Novembro de 1959, não poderá ter idade inferior a 14 anos.
+
+###### Art. 4.º Quando as circunstâncias o justifiquem, poderão os lugares de inspector dos serviços prisionais, a que se refere o artigo 42.º do [Decreto n.º 40877](https://diariodarepublica.pt/dr/detalhe/decreto/40877-1956-298635), de 24 de Novembro de 1956, ser preenchidos, em regime de comissão de serviço, tanto por directores dos estabelecimentos prisionais como por magistrados do Ministério Público.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 31 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

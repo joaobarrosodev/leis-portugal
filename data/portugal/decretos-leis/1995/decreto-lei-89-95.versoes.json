@@ -1,0 +1,1344 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:514445:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-107541425",
+ "dre_path": "/dr/detalhe/decreto-lei/89-1995-514445",
+ "source_lastmod": "2025-07-03",
+ "versions": [
+  {
+   "date": "1995-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923684859",
+    "107545998",
+    "107545999",
+    "107546000",
+    "107546001",
+    "107546002",
+    "107546003",
+    "107546004",
+    "107546005",
+    "107546006",
+    "107546007",
+    "107546008",
+    "107546009",
+    "107546010",
+    "107546011",
+    "107546012",
+    "107546013",
+    "107546014",
+    "107546015",
+    "107546016",
+    "107546017",
+    "107546018",
+    "107546019",
+    "107546020",
+    "107546021",
+    "107546022",
+    "107546023",
+    "107546024",
+    "107546025",
+    "107546026",
+    "107546027",
+    "107546028",
+    "107546029",
+    "107546030",
+    "107546031",
+    "107546032",
+    "107546033",
+    "107546034",
+    "107546035",
+    "107546036",
+    "107546037",
+    "107546038",
+    "107546039",
+    "107546040"
+   ]
+  },
+  {
+   "date": "1995-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:259771:por",
+     "title": "Declaração de Rectificação n.º 97/95",
+     "published": "1995-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/97-1995-259771"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 9.º",
+    "Retifica Artigo 15.º",
+    "Retifica Artigo 30.º"
+   ],
+   "fragments": [
+    "107545997",
+    "107545998",
+    "107545999",
+    "107546000",
+    "107546001",
+    "107546002",
+    "107546003",
+    "107546004",
+    "107546005",
+    "107546006",
+    "107546007",
+    "107546008",
+    "923678277",
+    "107546010",
+    "107546011",
+    "107546012",
+    "107546013",
+    "107546014",
+    "107546015",
+    "923678278",
+    "107546017",
+    "107546018",
+    "107546019",
+    "107546020",
+    "107546021",
+    "107546022",
+    "107546023",
+    "107546024",
+    "107546025",
+    "107546026",
+    "107546027",
+    "107546028",
+    "107546029",
+    "107546030",
+    "107546031",
+    "107546032",
+    "107546033",
+    "107546034",
+    "107546035",
+    "923678279",
+    "107546037",
+    "107546038",
+    "107546039",
+    "107546040",
+    "107546041"
+   ]
+  },
+  {
+   "date": "1996-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571651:por",
+     "title": "Decreto-Lei n.º 34/96",
+     "published": "1996-04-18",
+     "dre_path": "/dr/detalhe/decreto-lei/34-1996-571651"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 31.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º"
+   ],
+   "fragments": [
+    "107545997",
+    "107545998",
+    "923684846",
+    "923684848",
+    "107546001",
+    "107546002",
+    "107546003",
+    "107546004",
+    "107546005",
+    "107546006",
+    "107546007",
+    "107546008",
+    "923678277",
+    "107546010",
+    "107546011",
+    "107546012",
+    "107546013",
+    "107546014",
+    "107546015",
+    "923684844",
+    "923684845",
+    "107546017",
+    "923684849",
+    "923684850",
+    "923684851",
+    "107546021",
+    "107546022",
+    "107546023",
+    "107546024",
+    "107546025",
+    "107546026",
+    "107546027",
+    "107546028",
+    "107546029",
+    "107546030",
+    "923684852",
+    "923684853",
+    "107546033",
+    "107546034",
+    "107546035",
+    "923678279",
+    "923684847",
+    "107546038",
+    "107546039",
+    "107546040",
+    "107546041"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490249:por",
+     "title": "Lei n.º 110/2009",
+     "published": "2009-09-16",
+     "dre_path": "/dr/detalhe/lei/110-2009-490249"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "107545997",
+    "107545998",
+    "923684846",
+    "923684848",
+    "107546001",
+    "107546002",
+    "107546003",
+    "107546004",
+    "107546005",
+    "107546006",
+    "923684854",
+    "107546008",
+    "923684855",
+    "923684856",
+    "923684857",
+    "923684858",
+    "107546013",
+    "107546014",
+    "107546015",
+    "923684844",
+    "923684845",
+    "107546017",
+    "923684849",
+    "923684850",
+    "923684851",
+    "107546021",
+    "107546022",
+    "107546023",
+    "107546024",
+    "107546025",
+    "107546026",
+    "107546027",
+    "107546028",
+    "107546029",
+    "107546030",
+    "923684852",
+    "923684853",
+    "107546033",
+    "107546034",
+    "107546035",
+    "923678279",
+    "923684847",
+    "107546038",
+    "107546039",
+    "107546040",
+    "107546041"
+   ]
+  },
+  {
+   "date": "2017-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107541408:por",
+     "title": "Decreto-Lei n.º 72/2017",
+     "published": "2017-06-21",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2017-107541408"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "923684859",
+    "923684860",
+    "923684861",
+    "923684862",
+    "923684863",
+    "923684864",
+    "923684865",
+    "923684866",
+    "923684867",
+    "923684868",
+    "923684869",
+    "923684870",
+    "923684871",
+    "923684872",
+    "923684873",
+    "923684874",
+    "923680475",
+    "923680476",
+    "923680477",
+    "923680478",
+    "923680479",
+    "923680480",
+    "923680481",
+    "923680482",
+    "923680483",
+    "923680484",
+    "923680485",
+    "923680486",
+    "923680487",
+    "923680488",
+    "923680489",
+    "923680490",
+    "923680491",
+    "923680492",
+    "923680493",
+    "923680494",
+    "923680495",
+    "923680496",
+    "923680497",
+    "923680498",
+    "923680499",
+    "923680500",
+    "923680501",
+    "923680502",
+    "923680503",
+    "923680504"
+   ]
+  }
+ ],
+ "fragments": {
+  "923684859": {
+   "fragment_id": "107541426",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-08-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 89/95\n\nde 6 de Maio\n\nO combate ao desemprego constitui um dos objectivos prioritários a prosseguir na actual conjuntura do mercado de emprego que, tanto a nível interno como a nível comunitário, em especial para as pessoas que, pela primeira vez, pretendem integrar-se na vida activa ou para os trabalhadores que se encontrem em situação de desemprego prolongado, se apresenta ainda com características desfavoráveis.\n\nNo primeiro caso, releva para uma maior dificuldade na inserção no mercado de emprego a natural inexperiência dos candidatos. No segundo caso, fazem-se sentir, com impacte negativo, razões de idade e outros factores, culturais e sociológicos, todos eles determinantes de uma desadaptação às novas exigências da prestação do trabalho, mais difíceis de superar quanto maior for a permanência na situação de desemprego.\n\nImporta, portanto, desenvolver esforços no sentido de motivar as empresas para a criação de postos de trabalho que permitam a inserção de jovens ou de desempregados de longa duração na vida activa.\n\nCom esse objectivo, destacam-se as medidas que têm em vista a concessão de incentivos, traduzidos na dispensa temporária da obrigação contributiva para a segurança social e no apoio financeiro à contratação, às entidades empregadoras que tenham a situação contributiva regularizada e contratem jovens à procura do primeiro emprego ou desempregados de longa duração.\n\nAtravés da concessão dessas isenções e apoios procura-se contribuir, enquanto se mantiver a actual conjuntura do mercado de emprego, não só para a criação de novos empregos, mas também para a estabilidade do emprego em geral.\n\nAmbas as medidas previstas no presente diploma foram acolhidas no âmbito das discussões sobre a promoção do emprego na União Europeia, constando do Livro Branco sobre Crescimento e Emprego.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107545998": {
+   "fragment_id": "107541427",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107545999": {
+   "fragment_id": "107541428",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula a atribuição de incentivos à contratação de jovens à procura do primeiro emprego e de desempregados de longa duração."
+  },
+  "107546000": {
+   "fragment_id": "107541429",
+   "type": 11,
+   "heading": "Artigo 2.º — Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incentivos\n\n1 - Os incentivos previstos no presente diploma compreendem:\n\na) Dispensa temporária do pagamento de contribuições para o regime geral de segurança social, na parte relativa à entidade empregadora;\n\nb) Apoio financeiro não reembolsável por cada trabalhador admitido.\n\n2 - Sem prejuízo do número seguinte, os incentivos à contratação previstos neste diploma são cumuláveis entre si, mas não são cumuláveis com outros incentivos de apoio ao emprego previstos noutros diplomas, quando aplicáveis ao mesmo posto de trabalho.\n\n3 - As dispensas do pagamento de contribuições previstas nos artigos 5.º e 13.º não são cumuláveis."
+  },
+  "107546001": {
+   "fragment_id": "107541430",
+   "type": 11,
+   "heading": "Artigo 3.º — Jovens à procura do primeiro emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Jovens à procura do primeiro emprego\n\n1 - Para efeitos do presente diploma, consideram-se jovens à procura do primeiro emprego as pessoas, com idade superior a 16 anos e inferior a 30 anos, que nunca tenham prestado a sua actividade ao abrigo de contrato de trabalho por tempo indeterminado.\n\n2 - Não releva para efeitos da atribuição da qualificação de jovens à procura do primeiro emprego a anterior celebração de contratos de trabalho a termo.\n\n3 - Para efeito do disposto no n.º 1, a idade do trabalhador é aferida na data da celebração do contrato de trabalho."
+  },
+  "107546002": {
+   "fragment_id": "107541431",
+   "type": 11,
+   "heading": "Artigo 4.º — Desempregados de longa duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Desempregados de longa duração\n\n1 - Para efeitos do presente diploma, consideram-se desempregados de longa duração os trabalhadores disponíveis para o trabalho, nos termos do Decreto-Lei n.º 79-A/89, de 13 de Março, que se encontrem desempregados e inscritos nos centros de emprego há mais de 12 meses.\n\n2 - A qualificação como desempregado de longa duração não é prejudicada pela celebração de contratos a termo, por período inferior a 6 meses, cuja duração conjunta não ultrapasse os 12 meses."
+  },
+  "107546003": {
+   "fragment_id": "107541432",
+   "type": 1,
+   "heading": "Capítulo II — Dispensa do pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dispensa do pagamento de contribuições"
+  },
+  "107546004": {
+   "fragment_id": "107541433",
+   "type": 8,
+   "heading": "Secção I — Contratos de trabalho sem termo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Contratos de trabalho sem termo"
+  },
+  "107546005": {
+   "fragment_id": "107541434",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito à dispensa temporária do pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito à dispensa temporária do pagamento de contribuições\n\n1 - As entidades empregadoras contribuintes do regime geral de segurança social dos trabalhadores por conta de outrem adquirem o direito à dispensa temporária do pagamento de contribuições para a segurança social desde que se verifiquem cumulativamente os seguintes requisitos:\n\na) Terem a respectiva situação contributiva regularizada;\n\nb) Celebrem contratos de trabalho sem termo, a tempo inteiro ou parcial, com trabalhadores nas condições do artigo 1.º;\n\nc) Tenham ao seu serviço um número de trabalhadores subordinados superior ao que se verificava no último mês do ano civil anterior.\n\n2 - A celebração de contrato de trabalho por tempo indeterminado que tenha cessado durante o período experimental e as situações de estágio profissional e de inserção em programas ocupacionais anteriores à celebração de contrato sem termo não impedem a aplicação da dispensa de contribuições prevista neste diploma.\n\n3 - As entidades empregadoras que contratem por tempo indeterminado os trabalhadores a elas já vinculados por contrato a termo, ou cujos contratos a termo se convertam em contratos sem termo por força do artigo 47.º do Decreto-Lei n.º 64-A/89, de 27 de Fevereiro, podem requerer a dispensa temporária do pagamento de contribuições, nos termos deste artigo, desde que a contratação do trabalhador não tenha já beneficiado de qualquer incentivo, designadamente do previsto no artigo 13.º"
+  },
+  "107546006": {
+   "fragment_id": "107541435",
+   "type": 11,
+   "heading": "Artigo 6.º — Período de dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Período de dispensa\n\nA dispensa do pagamento de contribuições é concedida por 36 meses."
+  },
+  "107546007": {
+   "fragment_id": "107541436",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades empregadoras excluídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades empregadoras excluídas\n\nNão têm direito à dispensa temporária do pagamento de contribuições previsto neste diploma as entidades empregadoras a cujas actividades correspondam, no âmbito do regime geral de segurança social, esquemas contributivos com taxas inferiores à estabelecida para a generalidade dos trabalhadores por conta de outrem ou com bases de incidência fixadas em valores inferiores às remunerações mínimas fixadas para os respectivos sectores de actividade."
+  },
+  "107546008": {
+   "fragment_id": "107541437",
+   "type": 11,
+   "heading": "Artigo 8.º — Suspensão da dispensa de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Suspensão da dispensa de contribuições\n\n1 - As situações de incapacidade ou indisponibilidade temporária para o trabalho por parte do trabalhador, devidamente comprovadas, que impliquem a suspensão do contrato de trabalho, de acordo com a legislação laboral, determinam igualmente a suspensão da contagem do período relativo à dispensa de pagamento de contribuições, concedida ao abrigo do presente diploma.\n\n2 - A suspensão da contagem do período relativo à dispensa temporária de contribuições efectiva-se, para efeitos administrativos, em termos de meses civis completos."
+  },
+  "107546009": {
+   "fragment_id": "107541438",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessão da dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cessão da dispensa\n\n1 - A dispensa do pagamento de contribuições cessa nos seguintes casos:\n\na) Termo do período de concessão;\n\nb) Falta de entrega, no prazo legal, das folhas de remunerações ou falta de inclusão de quaisquer trabalhadores nas referidas folhas;\n\nc) Cessação do contrato de trabalho ou sua suspensão nos casos não previstos no artigo 8.º\n\n2 - Não há lugar à cessação de dispensa nos casos de transmissão de estabelecimento em que se verifique a manutenção dos contratos de trabalho celebrados com a anterior entidade empregadora."
+  },
+  "107546010": {
+   "fragment_id": "107541439",
+   "type": 11,
+   "heading": "Artigo 10.º — Exigibilidade de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exigibilidade de contribuições\n\nA cessação do contrato de trabalho por iniciativa do empregador, com base em despedimento sem justa causa, despedimento colectivo, extinção do posto de trabalho ou despedimento por inadaptação, torna exigíveis as contribuições relativas ao período durante o qual tenha vigorado a dispensa."
+  },
+  "107546011": {
+   "fragment_id": "107541440",
+   "type": 11,
+   "heading": "Artigo 11.º — Juros de mora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Juros de mora\n\nNos casos em que haja lugar à exigência de contribuições, nos termos do artigo anterior, não são devidos juros de mora relativos aos períodos a que as mesmas se referem, desde que sejam pagas no prazo de 60 dias após a cessação do contrato."
+  },
+  "107546012": {
+   "fragment_id": "107541441",
+   "type": 11,
+   "heading": "Artigo 12.º — Condicionamento à concessão de novas dispensas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condicionamento à concessão de novas dispensas\n\nAs entidades empregadoras não têm direito à concessão de novas dispensas do pagamento de contribuições ao abrigo do presente diploma nos 12 meses seguintes à cessação do contrato por algum dos motivos constantes do artigo 10.º"
+  },
+  "107546013": {
+   "fragment_id": "107541442",
+   "type": 8,
+   "heading": "Secção II — Contratos de trabalho a termo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Contratos de trabalho a termo"
+  },
+  "107546014": {
+   "fragment_id": "107541443",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito à dispensa parcial do pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito à dispensa parcial do pagamento de contribuições\n\nAs entidades empregadoras contribuintes do regime geral de segurança social dos trabalhadores por conta de outrem adquirem o direito à dispensa temporária e parcial do pagamento de contribuições para a segurança social, nos termos do artigo seguinte, se celebrarem contratos de trabalho a termo com trabalhadores nas condições do artigo 1.º e preencherem também os requisitos constantes das alíneas a) e c) do n.º 1 do artigo 5.º"
+  },
+  "107546015": {
+   "fragment_id": "107541444",
+   "type": 11,
+   "heading": "Artigo 14.º — Montante e duração da dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Montante e duração da dispensa\n\nÀs entidades empregadoras referidas no artigo anterior é concedida a dispensa do pagamento de 50% das contribuições devidas pelo período de duração do contrato."
+  },
+  "107546016": {
+   "fragment_id": "107541445",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime aplicável\n\nÀ dispensa de contribuições nos casos de contrato de trabalho a termo são aplicáveis os artigos 7.º e 12.º"
+  },
+  "107546017": {
+   "fragment_id": "107541446",
+   "type": 1,
+   "heading": "Capítulo III — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Apoio financeiro"
+  },
+  "107546018": {
+   "fragment_id": "107541447",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito ao apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito ao apoio financeiro\n\nAs entidades empregadoras que celebrem contratos de trabalho sem termo com jovens à procura do primeiro emprego ou com desempregados de longa duração adquirem o direito a um apoio financeiro não reembolsável, de montante igual a 12 vezes o salário mínimo mensal legalmente fixado para o tipo de actividade em causa por cada trabalhador admitido."
+  },
+  "107546019": {
+   "fragment_id": "107541448",
+   "type": 11,
+   "heading": "Artigo 17.º — Criação líquida de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Criação líquida de emprego\n\n1 - O apoio financeiro referido no artigo anterior é pago, em todo o território nacional, pelo Instituto do Emprego e Formação Profissional verificando-se criação líquida de emprego nos termos dos números seguintes.\n\n2 - Para efeitos do apoio financeiro, considera-se criação líquida de emprego a admissão de trabalhadores com contrato sem termo que exceda, em percentagem igual ou superior a 10%, o número de trabalhadores em igual condição existentes no quadro de pessoal da empresa no último mês do ano imediatamente anterior.\n\n3 - Tratando-se de empresa que só tenha iniciado a sua actividade nos últimos seis meses do ano anterior ou durante o ano em que é requerido o apoio, a criação líquida de emprego afere-se relativamente ao mês anterior ao da admissão de novo trabalhador."
+  },
+  "107546020": {
+   "fragment_id": "107541449",
+   "type": 11,
+   "heading": "Artigo 18.º — Reposição do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reposição do apoio\n\n1 - A entidade empregadora constitui-se na obrigação de repor os montantes recebidos do Instituto do Emprego e Formação Profissional se o número de postos de trabalho permanentes que fundamentou o apoio financeiro não se mantiver preenchido durante o período de 36 meses, através da contratação de jovens à procura do primeiro emprego ou de desempregados de longa duração.\n\n2 - A reposição far-se-á na parte correspondente ao número de postos de trabalho não preenchidos por jovens à procura do primeiro emprego ou por desempregados de longa duração."
+  },
+  "107546021": {
+   "fragment_id": "107541450",
+   "type": 1,
+   "heading": "Capítulo IV — Requerimento e procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Requerimento e procedimento"
+  },
+  "107546022": {
+   "fragment_id": "107541451",
+   "type": 8,
+   "heading": "Secção I — Dispensa de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dispensa de contribuições"
+  },
+  "107546023": {
+   "fragment_id": "107541452",
+   "type": 11,
+   "heading": "Artigo 19.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Requerimento\n\n1 - As entidades empregadoras que pretendam beneficiar da dispensa de contribuições devem apresentar na instituição de segurança social que as abranja requerimento para o efeito, a entregar no mês seguinte ao da celebração do contrato de trabalho a que se refere o pedido de incentivo.\n\n2 - O requerimento referirá que a entidade patronal não concorreu à concessão nem beneficia de incentivos de apoio ao emprego para aquele posto de trabalho diversos dos previstos no presente diploma."
+  },
+  "107546024": {
+   "fragment_id": "107541453",
+   "type": 11,
+   "heading": "Artigo 20.º — Instrução do requerimento relativo a trabalhadores não inscritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Instrução do requerimento relativo a trabalhadores não inscritos\n\n1 - O requerimento deve ser acompanhado de cópia do contrato de trabalho e do boletim de identificação do trabalhador, no caso de este não ser ainda beneficiário da segurança social.\n\n2 - No caso de admissão de jovens à procura do primeiro emprego, o requerimento deve ser acompanhado de declaração do trabalhador de que não esteve anteriormente vinculado por contrato de trabalho sem termo e declaração do centro de emprego da área da residência do trabalhador que confirme a sua inscrição e a respectiva duração.\n\n3 - No caso de desemprego de longa duração, o requerimento deve ser instruído com a declaração do centro de emprego da área de residência do trabalhador que confirme a situação de desempregado e a respectiva duração.\n\n4 - O requerimento deve, ainda, ser acompanhado de declaração do Instituto do Emprego e Formação Profissional, relativa ao trabalhador em causa, referindo se a entidade empregadora teve direito ao apoio financeiro previsto no capítulo III."
+  },
+  "107546025": {
+   "fragment_id": "107541454",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução do requerimento relativo a trabalhador já inscrito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução do requerimento relativo a trabalhador já inscrito\n\nNos casos em que o trabalhador já tivesse inscrição anterior como beneficiário da segurança social, o requerimento deve ser acompanhado de elementos que comprovem que os períodos contributivos anteriores à data do requerimento correspondem a situações que não prejudicam o reconhecimento da qualificação de jovem à procura do primeiro emprego."
+  },
+  "107546026": {
+   "fragment_id": "107541455",
+   "type": 11,
+   "heading": "Artigo 22.º — Prazo para apreciação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prazo para apreciação do pedido\n\nAs instituições de segurança social devem apreciar o pedido no prazo de 30 dias a contar da apresentação do requerimento, devidamente instruído."
+  },
+  "107546027": {
+   "fragment_id": "107541456",
+   "type": 11,
+   "heading": "Artigo 23.º — Efeitos de dispensa de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Efeitos de dispensa de contribuições\n\n1 - A dispensa de contribuições produz efeitos desde a data de celebração do contrato.\n\n2 - Nos casos em que o requerimento seja apresentado fora do prazo referido no n.º 1 do artigo 19.º, a dispensa produz efeitos a partir do início do mês em que o mesmo dê entrada na instituição competente e vigora pelo remanescente do período legalmente previsto."
+  },
+  "107546028": {
+   "fragment_id": "107541457",
+   "type": 11,
+   "heading": "Artigo 24.º — Efeitos do indeferimento do pedido de dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Efeitos do indeferimento do pedido de dispensa\n\n1 - O indeferimento do requerimento implica a exigência das contribuições relativas à entidade empregadora desde o início do contrato de trabalho.\n\n2 - Não são exigíveis juros de mora pelo valor das contribuições da entidade empregadora não pagas, desde que sejam pagas no prazo de 30 dias sobre a data em que lhe tenha sido dado conhecimento do indeferimento do requerimento."
+  },
+  "107546029": {
+   "fragment_id": "107541458",
+   "type": 11,
+   "heading": "Artigo 25.º — Efeitos da regularização da situação contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Efeitos da regularização da situação contributiva\n\n1 - Nos casos em que seja indeferido o pedido de dispensa contributiva com base no facto de a entidade empregadora não ter a respectiva situação contributiva regularizada, pode ser concedida a dispensa a partir do mês seguinte àquele em que a regularização tenha lugar e pelo remanescente do período legalmente previsto.\n\n2 - O reconhecimento do direito à dispensa nos termos do número anterior é feito a solicitação da entidade empregadora."
+  },
+  "107546030": {
+   "fragment_id": "107541459",
+   "type": 8,
+   "heading": "Secção II — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Apoio financeiro"
+  },
+  "107546031": {
+   "fragment_id": "107541460",
+   "type": 11,
+   "heading": "Artigo 26.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Requerimento\n\nPara efeitos de concessão do apoio, as entidades empregadoras devem formular o pedido junto dos centros de emprego, que os enviarão ao Instituto do Emprego e Formação Profissional, em requerimento, com junção de cópia do contrato de trabalho sem termo."
+  },
+  "107546032": {
+   "fragment_id": "107541461",
+   "type": 11,
+   "heading": "Artigo 27.º — Prazo para apreciação do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Prazo para apreciação do requerimento\n\nO Instituto do Emprego e Formação Profissional deve apreciar o pedido no prazo de 30 dias a contar da apresentação do requerimento, devidamente instruído."
+  },
+  "107546033": {
+   "fragment_id": "107541462",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "107546034": {
+   "fragment_id": "107541463",
+   "type": 11,
+   "heading": "Artigo 28.º — Folhas de remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Folhas de remunerações\n\nOs trabalhadores abrangidos pelo presente diploma são incluídos em suporte autónomo da folha de remunerações, o qual levará aposta a menção do presente diploma e a situação de jovem à procura do primeiro emprego ou de desempregado de longa duração."
+  },
+  "107546035": {
+   "fragment_id": "107541464",
+   "type": 11,
+   "heading": "Artigo 29.º — Guias de pagamento das contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Guias de pagamento das contribuições\n\nO pagamento das contribuições referentes aos trabalhadores abrangidos pelo presente diploma é efectuado através de guia autónoma, que levará aposta a menção ao presente diploma e a situação de jovem à procura do primeiro emprego ou de desempregado de longa duração."
+  },
+  "107546036": {
+   "fragment_id": "107541465",
+   "type": 11,
+   "heading": "Artigo 30.º — Declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Declaração\n\nEm todos os casos de cessação de contrato de trabalho, as entidades empregadoras devem, em anexo à folha de remunerações realtiva ao mês em que tiver ocorrido a cessação, declarar a respectiva causa."
+  },
+  "107546037": {
+   "fragment_id": "107541466",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime subsidiário\n\nEm tudo o que não se encontre expressamente regulado neste diploma aplicam-se as disposições vigentes do regime geral de segurança social dos trabalhadores por conta de outrem e as relativas a apoios ao emprego e formação profissional."
+  },
+  "107546038": {
+   "fragment_id": "107541467",
+   "type": 11,
+   "heading": "Artigo 32.º — Manutenção de dispensas anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Manutenção de dispensas anteriores\n\nAs dispensas do pagamento de contribuições concedidas ao abrigo do Decreto-Lei n.º 257/86, de 27 de Agosto, mantêm-se em vigor até ao final dos respectivos períodos de concessão."
+  },
+  "107546039": {
+   "fragment_id": "107541468",
+   "type": 11,
+   "heading": "Artigo 33.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Revogação\n\nFica revogado o Decreto-Lei n.º 257/86, de 27 de Agosto."
+  },
+  "107546040": {
+   "fragment_id": "107541469",
+   "type": 11,
+   "heading": "Artigo 34.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Vigência\n\n1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n2 - O incentivo previsto no artigo 13.º vigora até 31 de Dezembro de 1996.\n\n3 - O termo da vigência do incentivo referido no número anterior não afecta a manutenção das dispensas parciais do pagamento de contribuições requeridas até ao termo dos respectivos prazos de concessão."
+  },
+  "107545997": {
+   "fragment_id": "107541426",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O combate ao desemprego constitui um dos objectivos prioritários a prosseguir na actual conjuntura do mercado de emprego que, tanto a nível interno como a nível comunitário, em especial para as pessoas que, pela primeira vez, pretendem integrar-se na vida activa ou para os trabalhadores que se encontrem em situação de desemprego prolongado, se apresenta ainda com características desfavoráveis.\n\nNo primeiro caso, releva para uma maior dificuldade na inserção no mercado de emprego a natural inexperiência dos candidatos. No segundo caso, fazem-se sentir, com impacte negativo, razões de idade e outros factores, culturais e sociológicos, todos eles determinantes de uma desadaptação às novas exigências da prestação do trabalho, mais difíceis de superar quanto maior for a permanência na situação de desemprego.\n\nImporta, portanto, desenvolver esforços no sentido de motivar as empresas para a criação de postos de trabalho que permitam a inserção de jovens ou de desempregados de longa duração na vida activa.\n\nCom esse objectivo, destacam-se as medidas que têm em vista a concessão de incentivos, traduzidos na dispensa temporária da obrigação contributiva para a segurança social e no apoio financeiro à contratação, às entidades empregadoras que tenham a situação contributiva regularizada e contratem jovens à procura do primeiro emprego ou desempregados de longa duração.\n\nAtravés da concessão dessas isenções e apoios procura-se contribuir, enquanto se mantiver a actual conjuntura do mercado de emprego, não só para a criação de novos empregos, mas também para a estabilidade do emprego em geral.\n\nAmbas as medidas previstas no presente diploma foram acolhidas no âmbito das discussões sobre a promoção do emprego na União Europeia, constando do Livro Branco sobre Crescimento e Emprego.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "923678277": {
+   "fragment_id": "107541438",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação da dispensa",
+   "in_force_from": "1995-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação da dispensa\n\n1 - A dispensa do pagamento de contribuições cessa nos seguintes casos:\n\na) Termo do período de concessão;\n\nb) Falta de entrega, no prazo legal, das folhas de remunerações ou falta de inclusão de quaisquer trabalhadores nas referidas folhas;\n\nc) Cessação do contrato de trabalho ou sua suspensão nos casos não previstos no artigo 8.º\n\n2 - Não há lugar à cessação de dispensa nos casos de transmissão de estabelecimento em que se verifique a manutenção dos contratos de trabalho celebrados com a anterior entidade empregadora.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "923678278": {
+   "fragment_id": "107541445",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime aplicável",
+   "in_force_from": "1995-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 15.º — Regime aplicável\n\nÀ dispensa de contribuições nos casos de contrato de trabalho a termo são aplicáveis os artigos 7.º a 12.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "923678279": {
+   "fragment_id": "107541465",
+   "type": 11,
+   "heading": "Artigo 30.º — Declaração",
+   "in_force_from": "1995-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 30.º — Declaração\n\nEm todos os casos de cessação de contrato de trabalho, as entidades empregadoras devem, em anexo à folha de remunerações relativa ao mês em que tiver ocorrido a cessação, declarar a respectiva causa.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "107546041": {
+   "fragment_id": "107541470",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal António Cavaco Silva - José Bernardo Veloso Falcão e Cunha - Luís Manuel Gonçalves Marques Mendes.\n\nPromulgado em 26 de Abril de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Abril de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "923684846": {
+   "fragment_id": "107541428",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula a atribuição de dispensa temporária do pagamento de contribuições para o regime geral de segurança social, na parte relativa à entidade empregadora, como forma de incentivo à contratação de jovens à procura de primeiro emprego e de desempregados de longa duração.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684848": {
+   "fragment_id": "107541429",
+   "type": 11,
+   "heading": "Artigo 2.º — Incentivos",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 2.º — Incentivos\n\n1 - Os incentivos previstos no presente diploma compreendem:\n\na) Dispensa temporária do pagamento de contribuições para o regime geral de segurança social, na parte relativa à entidade empregadora;\n\nb) Apoio financeiro não reembolsável por cada trabalhador admitido.\n\n2 - Sem prejuízo do número seguinte, os incentivos à contratação previstos neste diploma são cumuláveis entre si, mas não são cumuláveis com outros incentivos de apoio ao emprego previstos noutros diplomas, quando aplicáveis ao mesmo posto de trabalho.\n\n3 - As dispensas do pagamento de contribuições previstas nos artigos 5.º e 13.º não são cumuláveis.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684844": {
+   "fragment_id": "923684764",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Acumulação de incentivos",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 14.º-A — Acumulação de incentivos\n\nAs dispensas de pagamento de contribuições previstas nos artigos 5.º e 13.º não são cumuláveis.\n\n> Aditado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684845": {
+   "fragment_id": "107541445",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 15.º — Regime aplicável\n\nÀ dispensa de contribuições nos casos de contrato de trabalho a termo são aplicáveis os artigos 7.º a 12.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "923684849": {
+   "fragment_id": "107541447",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito ao apoio financeiro",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 16.º — Direito ao apoio financeiro\n\nAs entidades empregadoras que celebrem contratos de trabalho sem termo com jovens à procura do primeiro emprego ou com desempregados de longa duração adquirem o direito a um apoio financeiro não reembolsável, de montante igual a 12 vezes o salário mínimo mensal legalmente fixado para o tipo de actividade em causa por cada trabalhador admitido.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684850": {
+   "fragment_id": "107541448",
+   "type": 11,
+   "heading": "Artigo 17.º — Criação líquida de emprego",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 17.º — Criação líquida de emprego\n\n1 - O apoio financeiro referido no artigo anterior é pago, em todo o território nacional, pelo Instituto do Emprego e Formação Profissional verificando-se criação líquida de emprego nos termos dos números seguintes.\n\n2 - Para efeitos do apoio financeiro, considera-se criação líquida de emprego a admissão de trabalhadores com contrato sem termo que exceda, em percentagem igual ou superior a 10%, o número de trabalhadores em igual condição existentes no quadro de pessoal da empresa no último mês do ano imediatamente anterior.\n\n3 - Tratando-se de empresa que só tenha iniciado a sua actividade nos últimos seis meses do ano anterior ou durante o ano em que é requerido o apoio, a criação líquida de emprego afere-se relativamente ao mês anterior ao da admissão de novo trabalhador.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684851": {
+   "fragment_id": "107541449",
+   "type": 11,
+   "heading": "Artigo 18.º — Reposição do apoio",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 18.º — Reposição do apoio\n\n1 - A entidade empregadora constitui-se na obrigação de repor os montantes recebidos do Instituto do Emprego e Formação Profissional se o número de postos de trabalho permanentes que fundamentou o apoio financeiro não se mantiver preenchido durante o período de 36 meses, através da contratação de jovens à procura do primeiro emprego ou de desempregados de longa duração.\n\n2 - A reposição far-se-á na parte correspondente ao número de postos de trabalho não preenchidos por jovens à procura do primeiro emprego ou por desempregados de longa duração.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684852": {
+   "fragment_id": "107541460",
+   "type": 11,
+   "heading": "Artigo 26.º — Requerimento",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 26.º — Requerimento\n\nPara efeitos de concessão do apoio, as entidades empregadoras devem formular o pedido junto dos centros de emprego, que os enviarão ao Instituto do Emprego e Formação Profissional, em requerimento, com junção de cópia do contrato de trabalho sem termo.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684853": {
+   "fragment_id": "107541461",
+   "type": 11,
+   "heading": "Artigo 27.º — Prazo para apreciação do requerimento",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 27.º — Prazo para apreciação do requerimento\n\nO Instituto do Emprego e Formação Profissional deve apreciar o pedido no prazo de 30 dias a contar da apresentação do requerimento, devidamente instruído.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684847": {
+   "fragment_id": "107541466",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime subsidiário",
+   "in_force_from": "1996-04-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 31.º — Regime subsidiário\n\nEm tudo o que não se encontre expressamente regulado neste diploma aplicam-se as disposições vigentes do regime geral de segurança social dos trabalhadores por conta de outrem.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684854": {
+   "fragment_id": "107541436",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades empregadoras excluídas",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Entidades empregadoras excluídas\n\nNão têm direito à dispensa temporária do pagamento de contribuições previsto neste diploma as entidades empregadoras a cujas actividades correspondam, no âmbito do regime geral de segurança social, esquemas contributivos com taxas inferiores à estabelecida para a generalidade dos trabalhadores por conta de outrem ou com bases de incidência fixadas em valores inferiores às remunerações mínimas fixadas para os respectivos sectores de actividade.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923684855": {
+   "fragment_id": "107541438",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação da dispensa",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação da dispensa\n\n1 - A dispensa do pagamento de contribuições cessa nos seguintes casos:\n\na) Termo do período de concessão;\n\nb) Falta de entrega, no prazo legal, das folhas de remunerações ou falta de inclusão de quaisquer trabalhadores nas referidas folhas;\n\nc) Cessação do contrato de trabalho ou sua suspensão nos casos não previstos no artigo 8.º\n\n2 - Não há lugar à cessação de dispensa nos casos de transmissão de estabelecimento em que se verifique a manutenção dos contratos de trabalho celebrados com a anterior entidade empregadora.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "923684856": {
+   "fragment_id": "107541439",
+   "type": 11,
+   "heading": "Artigo 10.º — Exigibilidade de contribuições",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Exigibilidade de contribuições\n\nA cessação do contrato de trabalho por iniciativa do empregador, com base em despedimento sem justa causa, despedimento colectivo, extinção do posto de trabalho ou despedimento por inadaptação, torna exigíveis as contribuições relativas ao período durante o qual tenha vigorado a dispensa.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923684857": {
+   "fragment_id": "107541440",
+   "type": 11,
+   "heading": "Artigo 11.º — Juros de mora",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Juros de mora\n\nNos casos em que haja lugar à exigência de contribuições, nos termos do artigo anterior, não são devidos juros de mora relativos aos períodos a que as mesmas se referem, desde que sejam pagas no prazo de 60 dias após a cessação do contrato.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923684858": {
+   "fragment_id": "107541441",
+   "type": 11,
+   "heading": "Artigo 12.º — Condicionamento à concessão de novas dispensas",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Condicionamento à concessão de novas dispensas\n\nAs entidades empregadoras não têm direito à concessão de novas dispensas do pagamento de contribuições ao abrigo do presente diploma nos 12 meses seguintes à cessação do contrato por algum dos motivos constantes do artigo 10.º\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923684860": {
+   "fragment_id": "107541427",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684861": {
+   "fragment_id": "107541428",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula a atribuição de dispensa temporária do pagamento de contribuições para o regime geral de segurança social, na parte relativa à entidade empregadora, como forma de incentivo à contratação de jovens à procura de primeiro emprego e de desempregados de longa duração.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684862": {
+   "fragment_id": "107541429",
+   "type": 11,
+   "heading": "Artigo 2.º — Incentivos",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 2.º — Incentivos\n\n1 - Os incentivos previstos no presente diploma compreendem:\n\na) Dispensa temporária do pagamento de contribuições para o regime geral de segurança social, na parte relativa à entidade empregadora;\n\nb) Apoio financeiro não reembolsável por cada trabalhador admitido.\n\n2 - Sem prejuízo do número seguinte, os incentivos à contratação previstos neste diploma são cumuláveis entre si, mas não são cumuláveis com outros incentivos de apoio ao emprego previstos noutros diplomas, quando aplicáveis ao mesmo posto de trabalho.\n\n3 - As dispensas do pagamento de contribuições previstas nos artigos 5.º e 13.º não são cumuláveis.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923684863": {
+   "fragment_id": "107541430",
+   "type": 11,
+   "heading": "Artigo 3.º — Jovens à procura do primeiro emprego",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Jovens à procura do primeiro emprego\n\n1 - Para efeitos do presente diploma, consideram-se jovens à procura do primeiro emprego as pessoas, com idade superior a 16 anos e inferior a 30 anos, que nunca tenham prestado a sua actividade ao abrigo de contrato de trabalho por tempo indeterminado.\n\n2 - Não releva para efeitos da atribuição da qualificação de jovens à procura do primeiro emprego a anterior celebração de contratos de trabalho a termo.\n\n3 - Para efeito do disposto no n.º 1, a idade do trabalhador é aferida na data da celebração do contrato de trabalho.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684864": {
+   "fragment_id": "107541431",
+   "type": 11,
+   "heading": "Artigo 4.º — Desempregados de longa duração",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Desempregados de longa duração\n\n1 - Para efeitos do presente diploma, consideram-se desempregados de longa duração os trabalhadores disponíveis para o trabalho, nos termos do Decreto-Lei n.º 79-A/89, de 13 de Março, que se encontrem desempregados e inscritos nos centros de emprego há mais de 12 meses.\n\n2 - A qualificação como desempregado de longa duração não é prejudicada pela celebração de contratos a termo, por período inferior a 6 meses, cuja duração conjunta não ultrapasse os 12 meses.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684865": {
+   "fragment_id": "107541432",
+   "type": 1,
+   "heading": "Capítulo II — Dispensa do pagamento de contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "### Capítulo II — Dispensa do pagamento de contribuições\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684866": {
+   "fragment_id": "107541433",
+   "type": 8,
+   "heading": "Secção I — Contratos de trabalho sem termo",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "#### Secção I — Contratos de trabalho sem termo\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684867": {
+   "fragment_id": "107541434",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito à dispensa temporária do pagamento de contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 5.º — Direito à dispensa temporária do pagamento de contribuições\n\n1 - As entidades empregadoras contribuintes do regime geral de segurança social dos trabalhadores por conta de outrem adquirem o direito à dispensa temporária do pagamento de contribuições para a segurança social desde que se verifiquem cumulativamente os seguintes requisitos:\n\na) Terem a respectiva situação contributiva regularizada;\n\nb) Celebrem contratos de trabalho sem termo, a tempo inteiro ou parcial, com trabalhadores nas condições do artigo 1.º;\n\nc) Tenham ao seu serviço um número de trabalhadores subordinados superior ao que se verificava no último mês do ano civil anterior.\n\n2 - A celebração de contrato de trabalho por tempo indeterminado que tenha cessado durante o período experimental e as situações de estágio profissional e de inserção em programas ocupacionais anteriores à celebração de contrato sem termo não impedem a aplicação da dispensa de contribuições prevista neste diploma.\n\n3 - As entidades empregadoras que contratem por tempo indeterminado os trabalhadores a elas já vinculados por contrato a termo, ou cujos contratos a termo se convertam em contratos sem termo por força do artigo 47.º do Decreto-Lei n.º 64-A/89, de 27 de Fevereiro, podem requerer a dispensa temporária do pagamento de contribuições, nos termos deste artigo, desde que a contratação do trabalhador não tenha já beneficiado de qualquer incentivo, designadamente do previsto no artigo 13.º\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684868": {
+   "fragment_id": "107541435",
+   "type": 11,
+   "heading": "Artigo 6.º — Período de dispensa",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Período de dispensa\n\nA dispensa do pagamento de contribuições é concedida por 36 meses.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684869": {
+   "fragment_id": "107541436",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades empregadoras excluídas",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Entidades empregadoras excluídas\n\nNão têm direito à dispensa temporária do pagamento de contribuições previsto neste diploma as entidades empregadoras a cujas actividades correspondam, no âmbito do regime geral de segurança social, esquemas contributivos com taxas inferiores à estabelecida para a generalidade dos trabalhadores por conta de outrem ou com bases de incidência fixadas em valores inferiores às remunerações mínimas fixadas para os respectivos sectores de actividade.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923684870": {
+   "fragment_id": "107541437",
+   "type": 11,
+   "heading": "Artigo 8.º — Suspensão da dispensa de contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Suspensão da dispensa de contribuições\n\n1 - As situações de incapacidade ou indisponibilidade temporária para o trabalho por parte do trabalhador, devidamente comprovadas, que impliquem a suspensão do contrato de trabalho, de acordo com a legislação laboral, determinam igualmente a suspensão da contagem do período relativo à dispensa de pagamento de contribuições, concedida ao abrigo do presente diploma.\n\n2 - A suspensão da contagem do período relativo à dispensa temporária de contribuições efectiva-se, para efeitos administrativos, em termos de meses civis completos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923684871": {
+   "fragment_id": "107541438",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação da dispensa",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação da dispensa\n\n1 - A dispensa do pagamento de contribuições cessa nos seguintes casos:\n\na) Termo do período de concessão;\n\nb) Falta de entrega, no prazo legal, das folhas de remunerações ou falta de inclusão de quaisquer trabalhadores nas referidas folhas;\n\nc) Cessação do contrato de trabalho ou sua suspensão nos casos não previstos no artigo 8.º\n\n2 - Não há lugar à cessação de dispensa nos casos de transmissão de estabelecimento em que se verifique a manutenção dos contratos de trabalho celebrados com a anterior entidade empregadora.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "923684872": {
+   "fragment_id": "107541439",
+   "type": 11,
+   "heading": "Artigo 10.º — Exigibilidade de contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Exigibilidade de contribuições\n\nA cessação do contrato de trabalho por iniciativa do empregador, com base em despedimento sem justa causa, despedimento colectivo, extinção do posto de trabalho ou despedimento por inadaptação, torna exigíveis as contribuições relativas ao período durante o qual tenha vigorado a dispensa.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923684873": {
+   "fragment_id": "107541440",
+   "type": 11,
+   "heading": "Artigo 11.º — Juros de mora",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Juros de mora\n\nNos casos em que haja lugar à exigência de contribuições, nos termos do artigo anterior, não são devidos juros de mora relativos aos períodos a que as mesmas se referem, desde que sejam pagas no prazo de 60 dias após a cessação do contrato.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923684874": {
+   "fragment_id": "107541441",
+   "type": 11,
+   "heading": "Artigo 12.º — Condicionamento à concessão de novas dispensas",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Condicionamento à concessão de novas dispensas\n\nAs entidades empregadoras não têm direito à concessão de novas dispensas do pagamento de contribuições ao abrigo do presente diploma nos 12 meses seguintes à cessação do contrato por algum dos motivos constantes do artigo 10.º\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 110/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), em vigor a partir de 2010-01-01"
+  },
+  "923680475": {
+   "fragment_id": "107541442",
+   "type": 8,
+   "heading": "Secção II — Contratos de trabalho a termo",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "#### Secção II — Contratos de trabalho a termo\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680476": {
+   "fragment_id": "107541443",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito à dispensa parcial do pagamento de contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Direito à dispensa parcial do pagamento de contribuições\n\nAs entidades empregadoras contribuintes do regime geral de segurança social dos trabalhadores por conta de outrem adquirem o direito à dispensa temporária e parcial do pagamento de contribuições para a segurança social, nos termos do artigo seguinte, se celebrarem contratos de trabalho a termo com trabalhadores nas condições do artigo 1.º e preencherem também os requisitos constantes das alíneas a) e c) do n.º 1 do artigo 5.º\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680477": {
+   "fragment_id": "107541444",
+   "type": 11,
+   "heading": "Artigo 14.º — Montante e duração da dispensa",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Montante e duração da dispensa\n\nÀs entidades empregadoras referidas no artigo anterior é concedida a dispensa do pagamento de 50% das contribuições devidas pelo período de duração do contrato.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680478": {
+   "fragment_id": "923684764",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Acumulação de incentivos",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Aditado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 14.º-A — Acumulação de incentivos\n\nAs dispensas de pagamento de contribuições previstas nos artigos 5.º e 13.º não são cumuláveis.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Aditado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923680479": {
+   "fragment_id": "107541445",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime aplicável",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 15.º — Regime aplicável\n\nÀ dispensa de contribuições nos casos de contrato de trabalho a termo são aplicáveis os artigos 7.º a 12.º\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "923680480": {
+   "fragment_id": "107541446",
+   "type": 1,
+   "heading": "Capítulo III — Apoio financeiro",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "### Capítulo III — Apoio financeiro\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680481": {
+   "fragment_id": "107541447",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito ao apoio financeiro",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 16.º — Direito ao apoio financeiro\n\nAs entidades empregadoras que celebrem contratos de trabalho sem termo com jovens à procura do primeiro emprego ou com desempregados de longa duração adquirem o direito a um apoio financeiro não reembolsável, de montante igual a 12 vezes o salário mínimo mensal legalmente fixado para o tipo de actividade em causa por cada trabalhador admitido.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923680482": {
+   "fragment_id": "107541448",
+   "type": 11,
+   "heading": "Artigo 17.º — Criação líquida de emprego",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 17.º — Criação líquida de emprego\n\n1 - O apoio financeiro referido no artigo anterior é pago, em todo o território nacional, pelo Instituto do Emprego e Formação Profissional verificando-se criação líquida de emprego nos termos dos números seguintes.\n\n2 - Para efeitos do apoio financeiro, considera-se criação líquida de emprego a admissão de trabalhadores com contrato sem termo que exceda, em percentagem igual ou superior a 10%, o número de trabalhadores em igual condição existentes no quadro de pessoal da empresa no último mês do ano imediatamente anterior.\n\n3 - Tratando-se de empresa que só tenha iniciado a sua actividade nos últimos seis meses do ano anterior ou durante o ano em que é requerido o apoio, a criação líquida de emprego afere-se relativamente ao mês anterior ao da admissão de novo trabalhador.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923680483": {
+   "fragment_id": "107541449",
+   "type": 11,
+   "heading": "Artigo 18.º — Reposição do apoio",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 18.º — Reposição do apoio\n\n1 - A entidade empregadora constitui-se na obrigação de repor os montantes recebidos do Instituto do Emprego e Formação Profissional se o número de postos de trabalho permanentes que fundamentou o apoio financeiro não se mantiver preenchido durante o período de 36 meses, através da contratação de jovens à procura do primeiro emprego ou de desempregados de longa duração.\n\n2 - A reposição far-se-á na parte correspondente ao número de postos de trabalho não preenchidos por jovens à procura do primeiro emprego ou por desempregados de longa duração.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923680484": {
+   "fragment_id": "107541450",
+   "type": 1,
+   "heading": "Capítulo IV — Requerimento e procedimento",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "### Capítulo IV — Requerimento e procedimento\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680485": {
+   "fragment_id": "107541451",
+   "type": 8,
+   "heading": "Secção I — Dispensa de contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "#### Secção I — Dispensa de contribuições\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680486": {
+   "fragment_id": "107541452",
+   "type": 11,
+   "heading": "Artigo 19.º — Requerimento",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 19.º — Requerimento\n\n1 - As entidades empregadoras que pretendam beneficiar da dispensa de contribuições devem apresentar na instituição de segurança social que as abranja requerimento para o efeito, a entregar no mês seguinte ao da celebração do contrato de trabalho a que se refere o pedido de incentivo.\n\n2 - O requerimento referirá que a entidade patronal não concorreu à concessão nem beneficia de incentivos de apoio ao emprego para aquele posto de trabalho diversos dos previstos no presente diploma.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680487": {
+   "fragment_id": "107541453",
+   "type": 11,
+   "heading": "Artigo 20.º — Instrução do requerimento relativo a trabalhadores não inscritos",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Instrução do requerimento relativo a trabalhadores não inscritos\n\n1 - O requerimento deve ser acompanhado de cópia do contrato de trabalho e do boletim de identificação do trabalhador, no caso de este não ser ainda beneficiário da segurança social.\n\n2 - No caso de admissão de jovens à procura do primeiro emprego, o requerimento deve ser acompanhado de declaração do trabalhador de que não esteve anteriormente vinculado por contrato de trabalho sem termo e declaração do centro de emprego da área da residência do trabalhador que confirme a sua inscrição e a respectiva duração.\n\n3 - No caso de desemprego de longa duração, o requerimento deve ser instruído com a declaração do centro de emprego da área de residência do trabalhador que confirme a situação de desempregado e a respectiva duração.\n\n4 - O requerimento deve, ainda, ser acompanhado de declaração do Instituto do Emprego e Formação Profissional, relativa ao trabalhador em causa, referindo se a entidade empregadora teve direito ao apoio financeiro previsto no capítulo III.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680488": {
+   "fragment_id": "107541454",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução do requerimento relativo a trabalhador já inscrito",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 21.º — Instrução do requerimento relativo a trabalhador já inscrito\n\nNos casos em que o trabalhador já tivesse inscrição anterior como beneficiário da segurança social, o requerimento deve ser acompanhado de elementos que comprovem que os períodos contributivos anteriores à data do requerimento correspondem a situações que não prejudicam o reconhecimento da qualificação de jovem à procura do primeiro emprego.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680489": {
+   "fragment_id": "107541455",
+   "type": 11,
+   "heading": "Artigo 22.º — Prazo para apreciação do pedido",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 22.º — Prazo para apreciação do pedido\n\nAs instituições de segurança social devem apreciar o pedido no prazo de 30 dias a contar da apresentação do requerimento, devidamente instruído.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680490": {
+   "fragment_id": "107541456",
+   "type": 11,
+   "heading": "Artigo 23.º — Efeitos de dispensa de contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 23.º — Efeitos de dispensa de contribuições\n\n1 - A dispensa de contribuições produz efeitos desde a data de celebração do contrato.\n\n2 - Nos casos em que o requerimento seja apresentado fora do prazo referido no n.º 1 do artigo 19.º, a dispensa produz efeitos a partir do início do mês em que o mesmo dê entrada na instituição competente e vigora pelo remanescente do período legalmente previsto.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680491": {
+   "fragment_id": "107541457",
+   "type": 11,
+   "heading": "Artigo 24.º — Efeitos do indeferimento do pedido de dispensa",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 24.º — Efeitos do indeferimento do pedido de dispensa\n\n1 - O indeferimento do requerimento implica a exigência das contribuições relativas à entidade empregadora desde o início do contrato de trabalho.\n\n2 - Não são exigíveis juros de mora pelo valor das contribuições da entidade empregadora não pagas, desde que sejam pagas no prazo de 30 dias sobre a data em que lhe tenha sido dado conhecimento do indeferimento do requerimento.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680492": {
+   "fragment_id": "107541458",
+   "type": 11,
+   "heading": "Artigo 25.º — Efeitos da regularização da situação contributiva",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 25.º — Efeitos da regularização da situação contributiva\n\n1 - Nos casos em que seja indeferido o pedido de dispensa contributiva com base no facto de a entidade empregadora não ter a respectiva situação contributiva regularizada, pode ser concedida a dispensa a partir do mês seguinte àquele em que a regularização tenha lugar e pelo remanescente do período legalmente previsto.\n\n2 - O reconhecimento do direito à dispensa nos termos do número anterior é feito a solicitação da entidade empregadora.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680493": {
+   "fragment_id": "107541459",
+   "type": 8,
+   "heading": "Secção II — Apoio financeiro",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "#### Secção II — Apoio financeiro\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680494": {
+   "fragment_id": "107541460",
+   "type": 11,
+   "heading": "Artigo 26.º — Requerimento",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 26.º — Requerimento\n\nPara efeitos de concessão do apoio, as entidades empregadoras devem formular o pedido junto dos centros de emprego, que os enviarão ao Instituto do Emprego e Formação Profissional, em requerimento, com junção de cópia do contrato de trabalho sem termo.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923680495": {
+   "fragment_id": "107541461",
+   "type": 11,
+   "heading": "Artigo 27.º — Prazo para apreciação do requerimento",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 27.º — Prazo para apreciação do requerimento\n\nO Instituto do Emprego e Formação Profissional deve apreciar o pedido no prazo de 30 dias a contar da apresentação do requerimento, devidamente instruído.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923680496": {
+   "fragment_id": "107541462",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680497": {
+   "fragment_id": "107541463",
+   "type": 11,
+   "heading": "Artigo 28.º — Folhas de remunerações",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 28.º — Folhas de remunerações\n\nOs trabalhadores abrangidos pelo presente diploma são incluídos em suporte autónomo da folha de remunerações, o qual levará aposta a menção do presente diploma e a situação de jovem à procura do primeiro emprego ou de desempregado de longa duração.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680498": {
+   "fragment_id": "107541464",
+   "type": 11,
+   "heading": "Artigo 29.º — Guias de pagamento das contribuições",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 29.º — Guias de pagamento das contribuições\n\nO pagamento das contribuições referentes aos trabalhadores abrangidos pelo presente diploma é efectuado através de guia autónoma, que levará aposta a menção ao presente diploma e a situação de jovem à procura do primeiro emprego ou de desempregado de longa duração.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680499": {
+   "fragment_id": "107541465",
+   "type": 11,
+   "heading": "Artigo 30.º — Declaração",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+   ],
+   "markdown": "###### Artigo 30.º — Declaração\n\nEm todos os casos de cessação de contrato de trabalho, as entidades empregadoras devem, em anexo à folha de remunerações relativa ao mês em que tiver ocorrido a cessação, declarar a respectiva causa.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 97/95 - Diário da República n.º 175/1995, 2º Suplemento, Série I-A de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1995-259771), em vigor a partir de 1995-07-31"
+  },
+  "923680500": {
+   "fragment_id": "107541466",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime subsidiário",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+   ],
+   "markdown": "###### Artigo 31.º — Regime subsidiário\n\nEm tudo o que não se encontre expressamente regulado neste diploma aplicam-se as disposições vigentes do regime geral de segurança social dos trabalhadores por conta de outrem.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 34/96 - Diário da República n.º 92/1996, Série I-A de 1996-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), em vigor a partir de 1996-04-19"
+  },
+  "923680501": {
+   "fragment_id": "107541467",
+   "type": 11,
+   "heading": "Artigo 32.º — Manutenção de dispensas anteriores",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 32.º — Manutenção de dispensas anteriores\n\nAs dispensas do pagamento de contribuições concedidas ao abrigo do Decreto-Lei n.º 257/86, de 27 de Agosto, mantêm-se em vigor até ao final dos respectivos períodos de concessão.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680502": {
+   "fragment_id": "107541468",
+   "type": 11,
+   "heading": "Artigo 33.º — Revogação",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 33.º — Revogação\n\nFica revogado o Decreto-Lei n.º 257/86, de 27 de Agosto.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680503": {
+   "fragment_id": "107541469",
+   "type": 11,
+   "heading": "Artigo 34.º — Vigência",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "###### Artigo 34.º — Vigência\n\n1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n2 - O incentivo previsto no artigo 13.º vigora até 31 de Dezembro de 1996.\n\n3 - O termo da vigência do incentivo referido no número anterior não afecta a manutenção das dispensas parciais do pagamento de contribuições requeridas até ao termo dos respectivos prazos de concessão.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  },
+  "923680504": {
+   "fragment_id": "107541470",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal António Cavaco Silva - José Bernardo Veloso Falcão e Cunha - Luís Manuel Gonçalves Marques Mendes.\n\nPromulgado em 26 de Abril de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Abril de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 72/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2017-107541408), em vigor a partir de 2017-08-01"
+  }
+ }
+}

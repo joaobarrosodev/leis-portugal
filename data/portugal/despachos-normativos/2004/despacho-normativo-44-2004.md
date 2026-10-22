@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:566619:por
+title: Despacho Normativo n.º 44/2004
+short_title: null
+summary: Aprova as normas que estabelecem os critérios de atribuição e a tramitação dos pedidos relativos às medidas e apoios
+  excepcionais previstos na alínea c) do n.º 2 do anexo à Resolução do Conselho de Ministros n.º 126/2004, de 28 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Agricultura, Pescas e Florestas
+proposing_entity: null
+official_number: 44/2004
+official_date: null
+publication_date: '2004-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 253/2004, Série I-B de 2004-10-27
+  number: '253'
+  series: I
+  supplement: null
+  pages: 6423 - 6424
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/10/253b00/64236424.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/44/2004/10/27/p/dre/pt/html
+  oj: null
+  dre: '566619'
+  dre_path: /dr/detalhe/despacho-normativo/44-2004-566619
+  internal: pt:dre:566619:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/44-2004-566619
+  metadata_url: https://data.dre.pt/eli/despnorm/44/2004/10/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/44-2004-566619
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-10-27T00:00:00Z'
+integrity:
+  source_sha256: 972a8ff9704f81f15d6c0d5879e254a3df81159ed4bf7f2a046a526f53e3ce1a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-44-566619.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Incêndio
+- Financiamento
+- Catástrofe
+- Agricultor
+- Região Agrária
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/126/2004/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/126/2004/08/28/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 44/2004
+
+A [Resolução do Conselho de Ministros n.º 126/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-2004-626252), de 28 de Agosto, aprovou um conjunto de medidas e apoios excepcionais, bem como regras e critérios para a respectiva atribuição, na sequência dos incêndios ocorridos desde Junho.
+
+Os procedimentos administrativos adequados para pôr em prática as medidas e apoios previstos nas alíneas a) e b) do n.º 2 do anexo à mencionada resolução foram já objecto de despacho normativo.
+
+Cumpre agora estabelecer os procedimentos administrativos adequados para pôr em prática outras medidas previstas no referido anexo.
+
+Assim, ao abrigo da [Resolução do Conselho de Ministros n.º 126/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-2004-626252), de 28 de Agosto, determina-se:
+
+1 - São aprovadas as normas que estabelecem os critérios de atribuição e a tramitação dos pedidos relativos ao financiamento da reposição do potencial produtivo para investimentos até (euro) 250 em explorações agrícolas, nomeadamente instalações, infra-estruturas e culturas permanentes, nos termos da alínea c) do n.º 2 do anexo à [Resolução do Conselho de Ministros n.º 126/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/126-2004-626252), de 28 de Agosto.
+
+2 - O presente despacho normativo aplica-se, exclusivamente, às situações ocorridas entre Junho de 2004 e a presente data.
+
+3 - São atribuídas ajudas aos agricultores que procedam à declaração das respectivas perdas, em impresso próprio, que sejam confirmadas pelas zonas agrárias (ZA) do Ministério da Agricultura, Pescas e Florestas (MAPF).
+
+4 - Os agricultores devem dirigir-se à ZA respectiva para solicitar a confirmação das perdas.
+
+5 - Para confirmação ou infirmação das declarações dos agricultores, as ZA adoptam o processo que se lhes afigure mais fiável, designadamente conhecimento pessoal, testemunhos credíveis, junto das organizações de produtores pecuários ou pelo presidente da junta de freguesia.
+
+6 - A declaração das ZA prestada em impresso próprio indica, obrigatoriamente, a modalidade de confirmação adoptada.
+
+7 - Os pagamentos aos agricultores são efectuados através de qualquer balcão da Caixa de Crédito Agrícola Mútuo pelo montante confirmado pelos serviços competentes do MAPF.
+
+8 - Na avaliação dos montantes a atribuir nos termos do presente despacho normativo é considerada a existência de seguro que cubra os prejuízos verificados.
+
+9 - A apresentação de pedidos de financiamento é efectuada, obrigatoriamente, até 31 de Outubro de 2004.
+
+10 - Quaisquer reclamações de pagamento no âmbito do presente despacho são efectuadas até 31 de Dezembro de 2004.
+
+11 - O prazo para a confirmação ou infirmação prevista no n.º 5 é de dois dias úteis, o qual pode ser prorrogado por mais três dias úteis em caso de necessidade de verificação de dados no terreno.
+
+12 - Os beneficiários devem assegurar os investimentos para reposição do potencial produtivo a que se refere o presente despacho:
+
+a) Até 15 de Dezembro de 2004, no caso de investimentos em instalações e infra-estruturas;
+
+b) Até 30 de Setembro de 2005, no caso de investimentos referentes a culturas permanentes.
+
+13 - Nos casos em que os beneficiários não tenham dado cumprimento ao disposto no número anterior, devem os mesmos repor nos cofres do Estado a totalidade ou parte do financiamento não aplicado.
+
+14 - A reposição das verbas referidas no número anterior deve efectuar-se voluntariamente ou no prazo máximo de 15 dias úteis após a notificação do beneficiário explicitando a quantia a devolver.
+
+15 - A não reposição desse montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário, para efeitos de execução fiscal.
+
+16 - Não há lugar a incumprimento caso os beneficiários justificada e antecipadamente o requeiram e a direcção regional de agricultura correspondente aceite a devolução das ajudas.
+
+17 - As direcções regionais de agricultura definem, em normativo técnico comum, as regras e circuitos a observar na formalização e análise das candidaturas, bem como todos os mecanismos de controlo necessários ao cumprimento do presente despacho.
+
+Ministérios das Finanças e da Administração Pública e da Agricultura, Pescas e Florestas, 18 de Outubro de 2004. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves.

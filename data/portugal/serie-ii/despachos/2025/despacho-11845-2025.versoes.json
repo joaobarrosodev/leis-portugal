@@ -1,0 +1,48 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:938604560:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho/2025-1183465975",
+ "dre_path": "/dr/detalhe/despacho/11845-2025-938604560",
+ "source_lastmod": "2026-10-21",
+ "versions": [
+  {
+   "date": "2026-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1180906198:por",
+     "title": "Despacho n.º 12554/2026 - 2.ª Série",
+     "published": "2026-10-15",
+     "dre_path": "/dr/detalhe/despacho/12554-2026-1180906198"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "1183474875",
+    "1183466375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1183474875": {
+   "fragment_id": "1183466075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-10-16",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 12554/2026 - Diário da República n.º 200/2026, Série II de 2026-10-15](https://diariodarepublica.pt/dr/detalhe/despacho/12554-2026-1180906198), em vigor a partir de 2026-10-16."
+   ],
+   "markdown": "A Portaria n.º 121/2025/1, de 20 de março, aprovou o Regulamento do Programa Bolsas Anuais de Criação em Banda Desenhada e Literatura Infantil e Juvenil.\n\nAssim, nos termos conjugados dos artigos 8.º e 13.º do Regulamento do Programa Bolsas Anuais de Criação em Banda Desenhada e Literatura Infantil e Juvenil, aprovado em anexo à Portaria n.º 121/2025/1, de 20 de março, da qual faz parte integrante, determino o seguinte:\n\n1 - Torna-se pública a abertura, para o ano de 2026, do Programa Bolsas Anuais de Criação em Banda Desenhada e Literatura Infantil e Juvenil.\n\n2 - O montante financeiro disponível para este Programa é de € 270 000, distribuído por 18 bolsas anuais e no montante de € 15 000 cada uma.\n\n3 - São atribuídas, de modo equitativo, bolsas nas seguintes modalidades:\n\na) Banda desenhada;\n\nb) Literatura infantil e juvenil.\n\n4 - A avaliação e seleção das candidaturas admitidas a concurso cabe a um júri constituído pelos seguintes membros:\n\na) João Ramalho-Santos;\n\nb) Dora Batalim;\n\nc) Andreia Brites.\n\n5 - A remuneração de cada um dos membros do júri referidos no número anterior é de 900 €.\n\n6 - As transferências dos montantes financeiros atribuídos são efetuadas para contas bancárias abertas em instituições bancárias nacionais (IBAN PT50), nas quais os candidatos selecionados devem constar como titulares, identificadas no contrato a celebrar com os referidos candidatos nos termos do artigo 18.º do Regulamento do Programa Bolsas Anuais de Criação em Banda Desenhada e Literatura Infantil e Juvenil.\n\n7 - O processo de submissão de candidaturas ao abrigo do presente Programa deve iniciar-se, a título excecional, quando estiver concluída a apreciação do júri das candidaturas referentes ao ano de 2025, em data a fixar pela Direção-Geral do Livro, dos Arquivos e das Bibliotecas.\n\n8 - O presente despacho produz efeitos na data da sua assinatura e entra em vigor no dia seguinte ao da sua publicação.\n\n> Alterado pelo/a [Despacho n.º 12554/2026 - Diário da República n.º 200/2026, Série II de 2026-10-15](https://diariodarepublica.pt/dr/detalhe/despacho/12554-2026-1180906198), em vigor a partir de 2026-10-16."
+  },
+  "1183466375": {
+   "fragment_id": "1183466275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "30 de setembro de 2025. - A Ministra da Cultura, Juventude e Desporto, Margarida Balseiro Lopes.\n\n319614737"
+  }
+ }
+}

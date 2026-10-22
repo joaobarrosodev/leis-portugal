@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:557596:por
+title: Decreto-Lei n.º 287/90
+short_title: null
+summary: Altera o Decreto-Lei n.º 132/88, de 20 de Abril (protecção na doença dos beneficiários do regime geral de segurança
+  social dos trabalhadores por conta de outrem)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 287/90
+official_date: null
+publication_date: '1990-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1990, Série I de 1990-09-19
+  number: '217'
+  series: I
+  supplement: null
+  pages: 3864 - 3866
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21700/38643866.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '557596'
+  dre_path: /dr/detalhe/decreto-lei/287-1990-557596
+  internal: pt:dre:557596:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1990-557596
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1990-557596
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-02-04T00:00:00Z'
+integrity:
+  source_sha256: 83759f32d31c4e3fc05011953101c6bd2d5a236092735fc0801496f0e0efa01c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-287-557596.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:592342:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 287/90
+
+de 19 de Setembro
+
+O [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), de 20 de Abril, procedeu à reformulação global das prestações de doença aos beneficiários do regime geral de segurança social dos trabalhadores por conta de outrem.
+
+A institucionalização, entretanto efectuada pelo [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), de 25 de Fevereiro, do regime das contra-ordenações no âmbito da Segurança Social, com a revogação de anteriores disposições sancionatórias, baseadas exclusivamente na suspensão de beneficiários, torna necessário proceder a alguns ajustamentos no referido [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), tendo em vista melhorar as condições do controlo da atribuição das prestações, prevenindo ou combatendo situações de utilização indevida de benefícios.
+
+Assim, mostra-se conveniente não fazer depender a cessação do direito ao subsídio de doença, por acumulação deste com o exercício de actividade profissional, da decisão final do processo contra-ordenacional instaurado por esse ilícito.
+
+De facto, a aplicação de coima resulta, pelo menos, de negligência do beneficiário, ao contrário do que sucede no reconhecimento do direito à prestação em que o exercício de actividade profissional é, em si mesmo, em termos objectivos, incompatível com a incapacidade total, ainda que temporária, para o trabalho, que dá direito ao subsídio. Isto é, a cumulação de prestação de trabalho com uma situação de baixa é uma actuação merecedora de sanção pecuniária, através da coima, mas ao mesmo tempo evidencia que caducou a condição de atribuição do subsídio, ou seja, a indisponibilidade do beneficiário para a prestação de trabalho. Daí a necessidade de fazer cessar imediatamente a concessão do subsídio.
+
+Por outro lado, importa impedir um vazio legislativo, existente nalguns casos, quanto aos efeitos da falta de comparência sem justificação dos beneficiários que tenham sido convocados para exames médicos de verificação de incapacidades para o trabalho. Procedeu-se, assim, ao alargamento a outras situações da disposição actual do [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), que estabelece a cessação do subsídio.
+
+Aproveita-se o ensejo para proceder a outros ajustamentos tendentes ao aperfeiçoamento do diploma, com alterações que a experiência adquirida no decurso dos seus dois anos de aplicação mostrou conveniente introduzir.
+
+É, designadamente, o que acontece com a relevância da prestação do serviço militar no preenchimento do prazo de garantia, com a concessão do subsídio havendo situação cumulativa de acidente de trabalho ou doença profissional, em matéria de atribuição da pensão provisória de invalidez e com a atribuição do subsídio aos trabalhadores do serviço doméstico.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º Os artigos 11.º, 12.º, 19.º, 22.º, 23.º, 24.º, 26.º, 27.º, 28.º, 30.º, 34.º, 35.º e 38.º do [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), de 20 de Abril, passam a ter a seguinte redação:
+
+###### Artigo 11.º — Índice de profissionalidade
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os registos de remunerações correspondentes a situações de equivalência por prestação de serviço militar obrigatório, bem como por prestação de serviço cívico dos objectores de consciência, são equiparados ao registo de remunerações por trabalho efectivamente prestado para efeitos de preenchimento do índice de profissionalidade, desde que os mesmos tenham ocorrido no período relevante para a verificação deste requisito.
+
+###### Artigo 12.º — Nova contagem do prazo de garantia
+
+Nas situações em que os beneficiários não apresentem registo de remunerações durante seis meses consecutivos ou em que, tendo esgotado o período máximo de atribuição do subsídio estabelecido no artigo 21.º, venham a ser considerados pelos serviços de verificação de incapacidades permanentes em situação não invalidante, contagem do prazo de garantia para atribuição, de novo, do subsídio de doença é feita a partir do mês em que haja registo de remunerações.
+
+###### Artigo 19.º — Início do subsídio
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O período de espera a que se refere o n.º 1 dá sempre lugar ao registo de remunerações por equivalência à entrada de contribuições.
+
+###### Artigo 22.º — Cessação
+
+1 - ...
+
+a) No período de incapacidade temporária haja exercício de uma actividade profissional, independentemente de prova da não existência de remuneração;
+
+b) O beneficiário não compareça sem motivo justificado ao exame médico para que tenha sido convocado nos termos dos artigos 33.º, 34.º e 35.º;
+
+c) O beneficiário seja considerado em situação de incapacidade permanente no âmbito das diligências efectuadas ao abrigo dos artigos 34.º e 35.º
+
+2 - ...
+
+###### Artigo 23.º — Efeitos da cessação
+
+1 - A cessação do direito ao subsídio pelos motivos referidos nas alíneas a) e b) do n.º 1 e no n.º 2 do artigo 22.º implica a impossibilidade de atribuição do mesmo durante 60 dias a contar da data em que o beneficiário foi encontrado em situação de sobreposição de incapacidade temporária para o trabalho subsidiado com o exercício de actividade profissional, faltou ao exame ou não foi encontrado no domicílio, respectivamente.
+
+2 - A suspensão do direito ao subsídio compreende as situações de incapacidade temporária que se verifiquem dentro do período de 60 dias a que se refere o n.º 1.
+
+3 - A suspensão do direito ao subsídio dá lugar, em qualquer caso, ao registo de remunerações por equivalência à entrada de contribuições.
+
+###### Artigo 24.º — Prescrição
+
+O direito ao subsídio de doença prescreve a favor das instituições devedoras no prazo de cinco anos contados a partir da data em que a prestação é posta a pagamento.
+
+###### Artigo 26.º — Acumulação em caso de riscos profissionais
+
+1 - Sempre que se sobreponham situações de incapacidade temporária por doença profissional ou por acidente de trabalho que dêem lugar a indemnização e situações que confiram direito ao subsídio de doença, este só é concedido quando o valor daquela indemnização lhe for inferior.
+
+2 - ...
+
+###### Artigo 27.º — Atribuição da pensão provisória de invalidez
+
+1 - ...
+
+2 - ...
+
+3 - A pensão provisória é atribuída oficiosamente a partir do dia seguinte ao da cessação do subsídio de doença.
+
+4 - ...
+
+###### Artigo 28.º — Cessação da pensão provisória de invalidez
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Se o beneficiário não comparecer sem motivo justificado ao exame para que tenha sido convocado nos termos do n.º 4 do artigo 27.º
+
+2 - Nas situações previstas nas alíneas b) e c) do número anterior não há lugar à restituição das pensões provisórias que foram concedidas.
+
+###### Artigo 30.º — Requerimento
+
+1 - ...
+
+2 - ...
+
+3 - O requerimento deve ser apresentado no prazo de seis meses, contado a partir de 1 de Janeiro do ano subsequente àquele em que os subsídios eram devidos, salvo no caso de cessação do contrato de trabalho, em que o prazo se inicia a contar da data da cessação.
+
+4 - ...
+
+###### Artigo 34.º — Incapacidades superiores a 730 dias
+
+1 - Nas situações de incapacidade subsidiadas que atinjam 730 dias, as instituições podem promover oficiosamente a verificação de eventual incapacidade permanente do beneficiário, desde que este preencha o prazo de garantia legalmente estabelecido para a atribuição da pensão de invalidez.
+
+2 - ...
+
+###### Artigo 35.º — Incapacidades reiteradas
+
+As entidades empregadoras podem requerer às instituições de segurança social a verificação da eventual incapacidade permanente dos trabalhadores que, satisfazendo o prazo de garantia legalmente estabelecido para a atribuição da pensão de invalidez, apresentem, nos últimos três anos, incapacidades temporárias que, pelo seu carácter prolongado e reiterado, façam supor a existência de situações invalidantes.
+
+###### Artigo 38.º — Direito ao subsídio dos trabalhadores do serviço doméstico
+
+A atribuição do subsídio de doença aos trabalhadores do serviço doméstico depende de, em nome do beneficiário, haver registo de remunerações por trabalho prestado correspondente a 12 dias no decurso dos quatro meses imediatamente anteriores ao começo do mês que antecede o da data do início da incapacidade.
+
+###### Art. 2.º Ao [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), de 20 de Abril, é aditado o artigo 27.º-A, com a seguinte redacção:
+
+###### Artigo 27.º-A — Condicionamentos à atribuição da pensão provisória de invalidez
+
+1 - Não há lugar à atribuição da pensão provisória de invalidez, nos termos do n.º 1 do artigo 27.º, nos casos em que o período máximo de concessão do subsídio de doença for atingido sem que tenha decorrido um ano sobre a data de anterior decisão da instituição de segurança social que tenha considerado o beneficiário em situação de não incapacidade permanente.
+
+2 - O princípio estabelecido no número anterior não é, porém, aplicável aos casos em que tenha sido requerida nova verificação de incapacidade permanente por agravamento do estado de saúde do beneficiário, comprovado por informação médica, de harmonia com o disposto no n.º 3 do artigo 35.º do [Decreto Regulamentar n.º 57/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1987-417662), de 11 de Agosto.
+
+###### Art. 3.º O presente diploma entra em vigor no dia 1 do segundo mês subsequente ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Aníbal António Cavaco Silva - José Albino da Silva Peneda - Arlindo Gomes de Carvalho.
+
+**Promulgado em 7 de Setembro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 11 de Setembro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

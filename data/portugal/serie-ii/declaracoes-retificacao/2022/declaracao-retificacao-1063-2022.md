@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:205103215:por
+title: Declaração de Retificação n.º 1063/2022
+short_title: null
+summary: Retifica o Aviso n.º 23116/2022, publicado no Diário da República, 2.ª série, n.º 233, de 5 de dezembro de 2022
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Centro Hospitalar do Tâmega e Sousa, E. P. E.
+proposing_entity: null
+official_number: 1063/2022
+official_date: null
+publication_date: '2022-12-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/2022, Série II de 2022-12-22
+  number: '245'
+  series: II
+  supplement: null
+  pages: 55 - 55
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/12/245000000/0005500055.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '205103215'
+  dre_path: /dr/detalhe/declaracao-retificacao/1063-2022-205103215
+  internal: pt:dre:205103215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1063-2022-205103215
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1063-2022-205103215
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-12-22T00:00:00Z'
+integrity:
+  source_sha256: 3410ed66718329ea87ae866d4b75877cc536f90ce0f744ccce82489be4c16015
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-1063-205103215.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 1063/2022
+
+Por ter sido publicado com inexatidão o [Aviso n.º 23116/2022](https://diariodarepublica.pt/dr/detalhe/aviso/23116-2022-204311792), no Diário da República, 2.ª série, n.º 233, de 5 de dezembro de 2022, retifica-se que onde se lê:
+
+«21 - Constituição do júri:
+
+[...]
+
+Vogais suplentes:
+
+1.ª vogal: Dr.ª Isabel Castro Ribeiro Guimarães [...]
+
+2.ª vogal: Teresa Margarida Oliveira Maia [...]»
+
+deve ler-se:
+
+«21 - Constituição do júri:
+
+[...]
+
+Vogais suplentes:
+
+1.ª vogal suplente: Prof.ª Doutora Isabel Maria Pereira Monteiro Castro Ribeiro [...]
+
+2.ª vogal suplente: Dr.ª Teresa Margarida de Oliveira Maia [...]»
+
+O prazo de candidatura inicia-se após a publicação desta declaração de retificação. As candidaturas efetuadas dentro do prazo anterior são válidas.
+
+7 de dezembro de 2022. - O Presidente do Conselho de Administração, Dr. Carlos Alberto Couto Silva.

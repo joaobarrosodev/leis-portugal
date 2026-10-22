@@ -1,0 +1,683 @@
+---
+schema_version: '1.0'
+id: pt:dre:152356:por
+title: Portaria n.º 253/85
+short_title: null
+summary: Aprova as normas de funcionamento dos Conselhos de Classes de Oficiais e de Sargentos da Armada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 253/85
+official_date: null
+publication_date: '1985-05-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/1985, Série I de 1985-05-07
+  number: '104'
+  series: I
+  supplement: null
+  pages: 1190 - 1196
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10400/11901196.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1990-12-20'
+version_history:
+  file: portaria-253-85.versoes.json
+  count: 4
+  source_lastmod: '2024-10-10'
+  versions:
+  - date: '1985-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-05-31'
+    amending: pt:dre:495134:por
+    amending_title: Declaração
+    changes:
+    - Retifica II
+    - Retifica III
+    - Retifica IV
+  - date: '1988-03-27'
+    amending: pt:dre:285745:por
+    amending_title: Portaria n.º 174/88
+    changes:
+    - Altera II
+    - Altera III
+    - Altera IV
+  - date: '1990-12-20'
+    amending: pt:dre:563263:por
+    amending_title: Portaria n.º 1207/90
+    changes:
+    - Altera I
+    - Altera II
+    - Altera III
+    - Altera IV
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/253/1985/p/cons/19901215/pt/html
+  oj: null
+  dre: '152356'
+  dre_path: /dr/detalhe/portaria/253-1985-152356
+  internal: pt:dre:152356:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1985-152356
+  metadata_url: https://data.dre.pt/eli/port/253/1985/p/cons/19901215/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-890389105
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-890389105
+  retrieved_at: '2026-10-22T13:17:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-10-10T00:00:00Z'
+integrity:
+  source_sha256: 92ca57d3f6e07d7ead3bdd0ca91a8ced4ba61b4b77cac3120f1a6cf692c41122
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:17:46Z'
+  notes: 4 versão(ões); histórico completo em portaria-253-85.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Classes de Oficiais
+- Conselho de Classes de Sargentos
+- Marinha
+- Militar
+- Promoção por Mérito
+- Sargento
+relationships:
+- type: amended_by
+  target: pt:dre:495134:por
+  label: Retifica II; Retifica III; Retifica IV
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495134
+  date: '1985-05-31'
+- type: amended_by
+  target: pt:dre:285745:por
+  label: Altera II; Altera III; Altera IV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/174-1988-285745
+  date: '1988-03-22'
+- type: amended_by
+  target: pt:dre:563263:por
+  label: Altera I; Altera II; Altera III; Altera IV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1207-1990-563263
+  date: '1990-12-15'
+article_structure:
+  article_count: 8
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:17:46Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 253/85
+
+Portaria n.º 253/85
+
+de 7 de Maio
+
+Tornando-se necessário regulamentar o funcionamento dos conselhos de classes da Armada, a que se referem os n.os 2 e 3 do artigo 58.º da Lei n.º 29/82, de 11 de Dezembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, ao abrigo do artigo 5.º do Decreto-Lei n.º 66/85, de 18 de Março, o seguinte:
+
+1.º São aprovadas as normas de funcionamento dos conselhos de classes de oficiais e de sargentos anexas à presente portaria.
+
+2.º As normas referidas no número anterior são postas imediatamente em execução.
+
+Ministério da Defesa Nacional.
+
+## Normas de funcionamento do Conselho de Classes de Oficiais
+
+###### I — Atribuição
+
+1 - Ao Conselho de Classes de Oficiais (CCO) compete escalonar os oficiais dos quadros do activo, até ao posto de capitão-de-mar-e-guerra, em mérito relativo, para efeitos de promoção por escolha estatutariamente estabelecida.
+
+2 - O CCO é um órgão consultivo do Chefe do Estado-Maior da Armada.
+
+3 - O CCO, no uso das suas atribuições, deverá atender a eventuais orientações que receber do Chefe do Estado-Maior da Armada e, prioritariamente, aos seguintes aspectos:
+
+a) A promoção por escolha tem por objectivo acelerar a promoção dos oficiais considerados mais competentes e que ofereçam mais garantia de melhor servirem a Armada;
+
+b) Não existe qualquer interdependência ou paralelismo entre os conceitos de promoção por escolha e de promoção por distinção expressos nos estatutos próprios.
+
+###### II — Constituição
+
+1 - O CCO é presidido pelo Vice-Chefe do Estado-Maior da Armada e tem a seguinte constituição:
+
+a) Membros por inerência:
+
+Vice-Chefe do Estado-Maior da Armada;
+
+Superintendente dos Serviços do Pessoal da Armada;
+
+Director do Serviço do Pessoal;
+
+Oficial general ou superior mais antigo dos quadros de oficiais do activo das diversas classes, excepto marinha, prestando serviço na Marinha;
+
+Chefe da 1.ª Repartição da Direcção do Serviço do Pessoal.
+
+b) Membros eleitos:
+
+Capitão-de-mar-e-guerra - 1 de cada classe;
+
+Capitão-de-fragata - 1 de cada classe;
+
+Capitão-tenente - 1 de cada classe;
+
+Primeiro-tenente - 1 de cada classe.
+
+2 - O CCO funciona em comissões de 12 membros, dos quais 6 são membros eleitos, com a composição que para cada caso se indica:
+
+a) Promoção a capitão-de-mar-e-guerra:
+
+1) Membros por inerência:
+
+Vice-Chefe do Estado-Maior da Armada;
+
+Superintendente dos Serviços do Pessoal da Armada;
+
+Contra-almirante - 1 da classe do oficial a promover (ver nota a);
+
+Chefe da 1.ª Repartição da Direcção do Serviço do Pessoal;
+
+Capitão-de-mar-e-guerra - 2 (1 da classe do oficial a promover, se houver).
+
+(nota a) Se não houver contra-almirante da classe, este será substituído pelo director do Serviço do Pessoal.
+
+2) Membros eleitos:
+
+Capitão-de-mar-e-guerra - 2 (1 da classe do oficial a promover, se houver);
+
+Capitão-tenente - 2 (1 da classe do oficial a promover, se houver);
+
+Primeiro-tenente - 2 (1 da classe do oficial a promover, se houver).
+
+b) Promoção a capitão-de-fragata das várias classes, excepto da classe do serviço geral/oficiais técnicos:
+
+1) Membros por inerência:
+
+Vice-Chefe do Estado-Maior da Armada;
+
+Superintendente dos Serviços do Pessoal da Armada;
+
+Contra-almirante - 1 da classe do oficial a promover (ver nota a);
+
+Chefe da 1.ª Repartição da Direcção do Serviço do Pessoal;
+
+Capitão-de-mar-e-guerra, - 2 (1 da classe do oficial a promover).
+
+(nota a) Se não houver contra-almirante da classe, este será substituído pelo director do Serviço do Pessoal.
+
+2) Membros eleitos:
+
+Capitão-de-mar-e-guerra. - 2 (1 da classe do oficial a promover, se houver);
+
+Capitão-de-fragata - 2 (1 da classe do oficial a promover, se houver);
+
+Primeiro-tenente - 2 (1 da classe do oficial a promover, se houver).
+
+c) Promoção a capitão-de-fragata da classe do serviço geral/oficiais técnicos:
+
+1) Membros por inerência:
+
+Vice-Chefe do Estado-Maior da Armada;
+
+Superintendente dos Serviços do Pessoal da Armada;
+
+Director do Serviço do Pessoal;
+
+Chefe da 1.ª Repartição da Direcção do Serviço do Pessoal;
+
+Capitão-de-mar-e-guerra - 1 de qualquer classe;
+
+Capitão-de-fragata - 1 (SG/OT).
+
+2) Membros eleitos:
+
+Capitão-de-mar-e-guerra - 2 de qualquer classe;
+
+Capitão-de-fragata - 2 de qualquer classe;
+
+Primeiro-tenente - 2 (1 SG/OT).
+
+d) Promoção a capitão-tenente:
+
+1) Membros por inerência:
+
+Vice-Chefe do Estado-Maior da Armada;
+
+Superintendente dos Serviços do Pessoal da Armada;
+
+Contra-almirante - 1 da classe do oficial a promover, se houver (ver nota a);
+
+Chefe da 1.ª Repartição da Direcção do Serviço do Pessoal;
+
+Capitão-de-mar-e-guerra - 1 da classe do oficial a promover, se houver;
+
+Capitão-de-fragata - 1 (SG/OT).
+
+(nota a) Se não houver, será substituído pelo director do Serviço do Pessoal.
+
+2) Membros eleitos:
+
+Capitão-de-mar-e-guerra - 2 (1 da classe do oficial a promover, se houver);
+
+Capitão-de-fragata - 2 (1 da classe do oficial a promover, se houver);
+
+Capitão-tenente - 2 (1 da classe do oficial a promover, se houver).
+
+3 - As funções de relator serão desempenhadas, em cada comissão, pelo membro de menor graduação ou antiguidade.
+
+4 - Nos casos em que houver mais de um oficial do mesmo posto, quer entre os membros por inerência, quer entre os eleitos, em condições de participar numa dada comissão, de acordo com os critérios decorrentes do n.º 2, será determinado por sorteio, a efectuar separadamente entre membros designados e eleitos, o oficial ou oficiais a incluir na referida comissão, até todos serem contemplados; os apurados irão sendo excluídos dos sorteios seguintes.
+
+5 - Sem nenhum caso poderá uma comissão deliberar com falta de mais de 3 dos seus membros ou haver substituição de membros eleitos por membros por inerência ou vice-versa.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495134), em vigor a partir de 1985-05-31
+
+###### III — Funcionamento
+
+1 - O CCO reúne normalmente por convocação do seu presidente, por comissões, com a ordem de trabalhos previamente estabelecida por este.
+
+2 - Relativamente a cada comissão, na primeira reunião efectuada em cada ano serão estabelecidos pelo respectivo presidente, ouvidos os membros da comissão e atento o fixado nas disposições legais aplicáveis, o estabelecido nas presentes normas e ainda as eventuais orientações que o Chefe do Estado-Maior da Armada tenha previamente definido, os critérios pelos quais os membros da comissão se guiarão nos seus trabalhos.
+
+3 - Para as promoções a realizar a cada posto e classe será organizado pela 1.ª Repartição da Direcção do Serviço do Pessoal um processo de escolha, que compreenderá:
+
+a) Previsão do número total de vagas a considerar para cada semestre e das datas em que ocorrem e indicação dos motivos que as originam; as vagas a considerar serão acrescidas de um número a atribuir pela DSP, tendo em vista situações inopinadas;
+
+b) Relação do número de vagas a preencher nas promoções por escolha e antiguidade e correspondente ordenamento sequencial, de acordo com os critérios de ponderação distributiva fixados para o efeito;
+
+c) Relação dos oficiais presentes à escolha com indicação, para cada um:
+
+1) Da situação em relação ao respectivo quadro, quer no actual posto, quer no posto imediato;
+
+2) Da data de passagem à reserva ou a adido ao quadro por limite de idade no actual posto;
+
+d) Processos individuais dos oficiais presentes à escolha.
+
+4 - Do processo de cada oficial deverão constar:
+
+a) Informações periódicas;
+
+b) Registos disciplinares;
+
+c) Classificações obtidas em cursos, instruções e exames;
+
+d) Outros elementos que constem do processo individual do oficial e os que superiormente hajam sido mandados incluir no processo.
+
+5 - O número de oficiais a incluir em cada relação é função do número de vacaturas previstas para cada semestre e do disposto nos estatutos próprios.
+
+6 - As reuniões de cada comissão compreendem:
+
+a) Apreciação e discussão sobre os oficiais presentes à escolha;
+
+b) Votação.
+
+7 - A apreciação é feita individualmente e em plena consciência por cada um dos membros do CCO chamados a pronunciar-se e baseia-se nos elementos que constituem o processo de escolha e no conhecimento pessoal do oficial.
+
+8 - A discussão será orientada pelo presidente e nela intervêm todos os membros da respectiva comissão, cada um dos quais emitirá a opinião que tenha formado acerca dos oficiais que são presentes à escolha.
+
+9 - A votação, da qual se obtém o escalonamento referido em I, n.º 1, realiza-se, em função dos oficiais que concorrem, por escrutínio secreto. Cada membro da comissão escreve o nome do oficial que em sua opinião deve ser promovido em primeiro lugar, reiniciando-se o processo tantas vezes quanto as necessárias face às vagas indicadas no n.º 3, alínea a), e à situação no quadro do novo posto dos oficiais que forem sendo sucessivamente ordenados.
+
+10 - O oficial que tiver obtido a maioria absoluta dos votos expressos será considerado escalonado na ordem a que essa votação disser respeito.
+
+11 - Se numa primeira votação nenhum oficial atingir o número de votos requerido, proceder-se-á a um máximo de mais duas votações, também por escrutínio secreto. Se ainda assim não for atingido o número de votos requerido, a escolha recairá sobre o oficial que tiver obtido maioria relativa de votos na última votação.
+
+12 - No caso de na última votação se verificar que os dois oficiais mais votados têm o mesmo número de votos, será escolhido o oficial mais antigo.
+
+13 - Quando aconteça algum membro do CCO ser parente ou afim até ao 3.º grau de qualquer dos oficiais acerca dos quais deva pronunciar-se, não poderá apreciar o seu parente ou afim e só intervirá na votação depois de o mesmo ter definida a posição que deve ocupar na escala de mérito relativo dos oficiais em apreciação.
+
+14 - A apreciação, a discussão e a votação iniciam-se sempre pelo membro mais moderno, seguindo-se a ordem de antiguidade.
+
+15 - Os oficiais serão ordenados de acordo com o resultado da votação, até estarem preenchidas as vagas referidas no n.º 3, alínea a), tendo em conta a situação no quadro do posto a que são promovidos, o que será registado pelo relator em impresso adequado.
+
+16 - O relator elaborará também uma acta da reunião, da qual deverão constar os aspectos relevantes que estiveram presentes na apreciação e discussão dos oficiais presentes à escolha e que conduziram ao resultado da votação.
+
+17 - Do impresso do ordenamento e da acta será elaborada uma cópia. Os originais e as cópias, uma vez assinados pelos membros da comissão (por ordem de antiguidade, com início no mais antigo), destinam-se:
+
+a) Os originais do impresso do ordenamento e da acta, a serem entregues ao Chefe do Estado-Maior da Armada pelo membro mais antigo da comissão;
+
+b) As cópias dos mesmos documentos, a serem arquivadas juntamente com os elementos do processo.
+
+18 - O escalonamento que se refere em I, n.º 1, constituirá elemento informativo do Chefe do Estado-Maior da Armada para efeitos de decisão no que concerne às promoções indicadas em II, n.º 2, para preenchimento das vagas que ocorram em cada semestre.
+
+19 - O escalonamento a que se refere o número anterior perde eficácia em 1 de Julho e 1 de Janeiro ou em datas anteriores sempre que superiormente determinado por motivo de alteração significativa dos elementos de apreciação do oficial ou dos oficiais escalonados.
+
+20 - Os processos de escolha e de promoção e as reuniões do CCO são confidenciais. A confidencialidade destes elementos implica que os mesmos só devam ser do conhecimento dos membros das respectivas comissões e dos oficiais que, no exercício das funções que lhes são próprias nos cargos que ocupem, a eles necessitem de ter acesso.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495134), em vigor a partir de 1985-05-31
+
+###### IV — Eleição dos membros
+
+1 - A eleição dos membros para o CCO realiza-se normalmente de 2 em 2 anos, no mês de Janeiro, podendo ser antecipada quando se verifiquem condições que não permitam assegurar o seu funcionamento de acordo com as presentes normas e demais legislação específica.
+
+2 - Participam nas eleições, como eleitores, os oficiais de cada classe e posto indicados em II, n.º 1, alínea b), que pertençam aos quadros do activo ou da RAa na efectividade do serviço.
+
+3 - Cada eleitor votará apenas na eleição do membro do seu posto e classe, salvo no caso dos guardas-marinhas, subtenentes e segundos-tenentes, que votarão na eleição do primeiro-tenente da respectiva classe, em conjunto com os oficiais deste posto e classe.
+
+4 - Serão elegíveis os oficiais do activo, em comissão normal, que não sejam membros por inerência nem desempenhem funções em órgãos de soberania.
+
+5 - Os primeiros-tenentes só são elegíveis desde que tenham, pelo menos, 3 anos de posto.
+
+6 - Só serão repersentados os postos de cada classe, referidos em II, n.º 1, alínea b), nos quais existam, pelo menos, 4 oficiais elegíveis.
+
+7 - Serão publicados na OP1, com antecedência, a lista nominal dos membros por inerência, a lista dos representantes a eleger, as datas e horas para as eleições e os esclarecimentos complementares necessários.
+
+8:
+
+a) A eleição, por escrutínio secreto e pessoal, será feita em todas as unidades e estabelecimentos, sob a supervisão dos respectivos comandantes;
+
+b) As unidades e estabelecimentos de Marinha da área de Lisboa onde funcionem mesas de voto, uma vez terminado o escrutínio, limitar-se-ão a encerrar os votos em sobrescrito lacrado e assinado exteriormente por todos os elementos da mesa. Este sobrescrito será imediatamente encaminhado para a 1.ª Repartição da Direcção do Serviço do Pessoal, onde será entregue, em mão, por um oficial componente da mesa de voto respectiva. No exterior do sobrescrito deverá ser indicado o número de oficiais eleitores e o número de oficiais votantes;
+
+c) As unidades e estabelecimentos de Marinha fora da área de Lisboa comunicarão, por mensagem, dirigida à 1.ª Repartição da Direcção do Serviço do Pessoal, os resultados do escrutínio nas respectivas mesas de voto; a mensagem a enviar à 1.ª Repartição da Direcção do Serviço de Pessoal terá o seguinte formato:
+
+PN/C
+
+FM
+
+TO PESSOALMARUM
+
+ELEIÇÕES CCO (posto e classe)
+
+1 x UNIDADES/SERVIÇOS QUE PARTICIPAM NA VOTAÇÃO
+
+2 x NÚMERO DE ELEITORES
+
+3 x NÚMERO DE VOTANTES
+
+4 x RESULTADOS
+
+d) Os comandantes, directores ou chefes das unidades, serviços ou estabelecimentos em que decorrem votações poderão aceitar votos por carta, desde que os oficiais votantes, na impossibilidade de comparecerem pessoalmente, enviem, por outro oficial, o respectivo voto, encerrado em sobrescrito fechado e tendo no exterior o seu posto e nome, bem legíveis, além da assinatura autenticada, pelo comando, direcção ou chefia, com o selo branco da unidade, serviço ou estabelecimento a que pertencem;
+
+e) Os comandantes, directores ou chefes são autorizados a agrupar unidades ou serviços deles dependentes, a fim de garantir o sigilo do voto em unidades ou serviços com poucos oficiais;
+
+f) Os presidentes das mesas de voto constituídas elaborarão uma acta da forma como decorreu a votação, donde conste obrigatoriamente a lista nominal dos oficiais votantes, que submeterão à homologação dos comandantes, directores ou chefes sob cuja responsabilidade se efectuou o acto eleitoral e que será enviada à 1.ª Repartição da Direcção do Serviço do Pessoal com a possível brevidade;
+
+g) Cabe à 1.ª Repartição da Direcção do Serviço do Pessoal realizar o apuramento, cujos resultados serão publicados na OP1;
+
+h) A contagem de votos será realizada na 1.ª Repartição da Direcção do Serviço do Pessoal, por dois oficiais da mesma Repartição (sendo um o chefe da repartição) e pelo oficial mais antigo, em serviço na área de Lisboa, de cada posto e classe a que corresponder a votação;
+
+i) Os oficiais que se encontrem em diligência votam nas unidades em que prestam serviço;
+
+i) Os oficiais em acumulação optam pela unidade ou serviço que mais lhes convier;
+
+l) Os oficiais que prestam serviço fora do Departamento da Marinha, com excepção do Estado-Maior-General das Forças Armadas, votam na 1.ª Repartição da Direcção do Serviço do Pessoal.
+
+9 - Será considerado eleito, em cada caso, o oficial que receber maior número de votos. Havendo igualdade, terá preferência o mais antigo.
+
+10 - Serão considerados nulos os votos que não respeitem o disposto em IV, n.os 3, 4 e 5.
+
+11 - Em caso de impedimento definitivo de qualquer dos membros eleitos, aquele será substituído pelo oficial que se lhe seguir em número de votos na eleição realizada, desempatando a maior antiguidade.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495134), em vigor a partir de 1985-05-31
+
+## Normas de funcionamento do Conselho de Classes de Sargentos
+
+###### I — Atribuição
+
+1 - Ao Conselho de Classes de Sargentos (CCS) compete escalonar os sargentos-chefes e os sargentos-ajudantes em mérito relativo para efeitos de promoção por escolha estatutariamente estabelecida.
+
+2 - O CCS é um órgão consultivo do superintendente dos Serviços do Pessoal da Armada para as promoções ao posto de sargento-mor em todas as classes.
+
+3 - O CCS, no uso das suas atribuições, deverá atender a eventuais orientações que receber do superintendente dos Serviços do Pessoal da Armada e, prioritariamente, aos seguintes aspectos:
+
+a) A promoção por escolha tem por objectivo acelerar a promoção dos sargentos considerados mais competentes e que ofereçam mais garantia de melhor servirem a Armada;
+
+b) Não existe qualquer interdependência ou paralelismo entre os conceitos de promoção por escolha e de promoção por distinção expressos nos estatutos próprios.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 1207/90 - Diário da República n.º 288/1990, Série I de 1990-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/1207-1990-563263), em vigor a partir de 1990-12-20
+
+###### II — Constituição
+
+1 - O CCS é presidido pelo director do Serviço do Pessoal e tem a seguinte constituição:
+
+a) Membros por inerência:
+
+Director do Serviço do Pessoal;
+
+Chefe da 2.ª Repartição da Direcção do Serviço do Pessoal;
+
+Chefe da 8.ª Repartição da Direcção do Serviço do Pessoal;
+
+Comandante do Grupo n.º 1 de Escolas da Armada;
+
+Comandante do Grupo n.º 2 de Escolas da Armada;
+
+Sargento-mor mais antigo, dos quadros do activo, de cada classe.
+
+b) Membros eleitos:
+
+Sargentos-chefes - um de cada classe;
+
+Sargentos-ajudantes - um de cada classe;
+
+Primeiros-sargentos - dois de cada classe.
+
+2 - O CCS funciona por comissões, normalmente de doze membros, correspondentes às várias classes dos sargentos, dos quais seis são membros eleitos, com a seguinte composição para cada caso:
+
+a) Promoção a sargento-mor:
+
+1) Membros por inerência:
+
+Director do Serviço do Pessoal;
+
+Chefe da 2.ª Repartição da Direcção do Serviço do Pessoal;
+
+Chefe da 2.ª Repartição da Direcção do Serviço do Pessoal;
+
+Chefe da 8.ª Repartição da Direcção do Serviço do Pessoal;
+
+Comandante do Grupo n.º 1 de Escolas da Armada;
+
+Comandante do Grupo n.º 2 de Escolas da Armada;
+
+Sargento-mor - um (da classe do sargento a promover, se houver);
+
+2) Membros eleitos:
+
+Sargentos-ajudantes - dois (um da classe do sargento a promover, se houver);
+
+Primeiros-sargentos - quatro (dois da classe do sargento a promover, se houver):
+
+b) Promoção a sargento-chefe:
+
+1) Membros por inerência:
+
+Director do Serviço do Pessoal;
+
+Chefe da 2.ª Repartição da Direcção do Serviço de Pessoal;
+
+Chefe da 8.ª Repartição da Direcção do Serviço de Pessoal;
+
+Comandante do Grupo n.º 1 de Escolas da Armada;
+
+Comandante do Grupo n.º 2 de Escolas da Armada;
+
+Sargento-mor - um (da classe do sargento a promover, se houver);
+
+2) Membros eleitos:
+
+Sargentos-chefes - dois (um da classe do sargento a promover, se houver);
+
+Primeiros-sargentos - quatro (dois da classe do sargento a promover, se houver).
+
+3 - Tomará parte nos trabalhos das comissões a que se refere o número anterior, como membro agregado, sem direito a voto nem intervenção ao nível de apreciação dos sargentos-chefes presentes à escolha, consoante a classe em causa, o chefe da Secção de Efectivos e Carreira Naval da 2.ª Repartição da Direcção do Serviço do Pessoal ou um oficial da 8.ª Repartição da Direcção do Serviço do Pessoal, competindo-lhe assistir o presidente do CCS como seu secretário, para efeitos do conveniente tratamento processual.
+
+4 - As funções de relator serão desempenhadas, em cada comissão, pelo membro de menor graduação ou antiguidade.
+
+5 - Nos casos em que houver mais de um sargento do mesmo posto entre os eleitos em condições de participar numa dada comissão, de acordo com o critério decorrente do n.º 2, será determinado por sorteio, a efectuar separadamente, entre membros eleitos, o sargento ou sargentos a incluir na referida comissão, até todos serem contemplados; os apurados irão sendo excluídos dos sorteios seguintes.
+
+6 - Em nenhum caso poderá uma comissão deliberar com falta de mais de 3 dos seus membros ou haver substituição de membros eleitos por membros por inerência ou vice-versa.
+
+> Alterado pelo/a 2.º do/a [Portaria n.º 1207/90 - Diário da República n.º 288/1990, Série I de 1990-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/1207-1990-563263), em vigor a partir de 1990-12-20
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 174/88 - Diário da República n.º 68/1988, Série I de 1988-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/174-1988-285745), em vigor a partir de 1988-03-27
+
+###### III — Funcionamento
+
+1 - O CCS reúne normalmente por convocação do seu presidente, por comissões, com a ordem de trabalhos previamente estabelecida por este.
+
+2 - Relativamente a cada comissão, na primeira reunião efectuada em cada ano serão estabelecidos pelo respectivo presidente, ouvidos os membros da comissão e atento o fixado nas disposições legais aplicáveis, o estabelecido nas presentes normas e ainda as eventuais orientações que o superintendente dos Serviços do Pessoal da Armada tenha previamente definido, os critérios pelos quais os membros da comissão se guiarão nos seus trabalhos.
+
+3 - Para as promoções a realizar ao posto de sargento-chefe de cada classe será organizado, consoante a classe em causa, pela 2.ª ou 8.ª Repartição da Direcção do Serviço do Pessoal um processo de escolha, que compreenderá:
+
+a) Previsão do número total de vagas a considerar para cada semestre e das datas em que ocorrem e indicação dos motivos que as originam; as vagas a considerar serão acrescidas de um número a atribuir pela DSP, tendo em vista situações inopinadas;
+
+b) Relação dos sargentos-ajudantes presentes à escolha, com indicação, para cada um:
+
+1) Da situação em relação ao respectivo quadro, quer no actual posto, quer no posto imediato;
+
+2) Da data da passagem à reserva por limite de idade no actual posto;
+
+c) Processos individuais dos sargentos-ajudantes presentes à escolha.
+
+4 - Do processo de cada sargento-chefe deverão constar:
+
+a) Informações periódicas;
+
+b) Registos disciplinares;
+
+c) Classificações obtidas em cursos, instruções e exames;
+
+d) Outros elementos que constem do processo individual do sargento e os que superiormente hajam sido mandados incluir no processo.
+
+5 - O número de sargentos-ajudantes a incluir em cada relação é função do número de vacaturas previstas para cada semestre e do disposto nos estatutos próprios.
+
+6 - As reuniões de cada comissão compreendem:
+
+a) Apreciação e discussão sobre os sargentos-ajudantes presentes à escolha;
+
+b) Votação.
+
+7 - A apreciação é feita individualmente e em plena consciência por cada um dos membros do CCS chamados a pronunciar-se e baseia-se nos elementos que constituem o processo de escolha e no conhecimento pessoal do sargento-chefe.
+
+8 - A discussão será orientada pelo presidente e nela intervêm todos os membros da respectiva comissão, cada um dos quais emitirá a opinião que tenha formado acerca dos sargentos-ajudantes que são presentes à escolha.
+
+9 - A votação, da qual se obtém o escalonamento referido em I, n.º 1, realiza-se, em função dos sargentos-ajudantes que concorrem, por escrutínio secreto. Cada membro da comissão escreve o nome do sargento-chefe que em sua opinião deve ser promovido em primeiro lugar, reiniciando-se o processo tantas vezes quantas a necessárias face às vagas indicadas no n.º 3, alínea a), e à situação no quadro do novo posto dos sargentos-ajudantes que forem sendo sucessivamente ordenados.
+
+10 - O sargento-chefe que tiver obtido a maioria absoluta dos votos expressos será considerado escalonado na ordem a que essa votação disser respeito.
+
+11 - Se numa primeira votação nenhum sargento-chefe atingir o número de votos requerido, proceder-se-á a um máximo de mais duas votações, também por escrutínio secreto. Se ainda assim não for atingido o número de votos requerido, a escolha recairá sobre o sargento-chefe que tiver obtido maioria relativa de votos na última votação.
+
+12 - No caso de na última votação se verificar que os dois sargentos-ajudantes mais votados têm o mesmo número de votos, será escolhido o sargento-chefe mais antigo.
+
+13 - Quando aconteça algum membro do CCS ser parente ou afim até ao 3.º grau de qualquer dos sargentos-ajudantes acerca dos quais deva pronunciar-se, não poderá apreciar o seu parente ou afim e só intervirá na votação depois de o mesmo ter definida a posição que deve ocupar na escala de mérito relativo dos sargentos-ajudantes em apreciação.
+
+14 - A apreciação, a discussão e a votação iniciam-se sempre pelo membro mais moderno, seguindo-se a ordem de antiguidade.
+
+15 - Os sargentos-ajudantes serão ordenados de acordo com o resultado da votação, até estarem preenchidas as vagas referidas no n.º 3, alínea a), tendo em conta a situação no quadro do posto a que são promovidos, o que será registado pelo relator em impresso adequado.
+
+16 - O relator elaborará também uma acta da reunião, da qual deverá constar os aspectos relevantes que estiveram presentes na apreciação e discussão dos sargentos-ajudantes presentes à escolha e que conduziram ao resultado da votação.
+
+17 - Do impresso do ordenamento e da acta será elaborada uma cópia. Os originais e as cópias, uma vez assinados pelos membros da comissão (por ordem de antiguidade, com início no mais antigo), destinam-se:
+
+a) Os originais do impresso do ordenamento e da acta, a serem entregues ao superintendente dos Serviços do Pessoal da Armada pelo membro mais antigo da comissão;
+
+b) As cópias dos mesmos documentos, a serem arquivadas juntamente com os elementos do processo.
+
+18 - O escalonamento que se refere em I, n.º 1, constituirá elemento informativo do superintendente dos Serviços do Pessoal da Armada para efeitos de decisão no que concerne as promoções ao posto de sargento-chefe das diversas classes, para preenchimento das vagas que ocorram em cada semestre.
+
+19 - O escalonamento a que se refere o número anterior perde eficácia em 1 de Julho e 1 de Janeiro ou em datas anteriores sempre que superiormente determinado por motivo de alteração significativa dos elementos de apreciação do sargento ou sargentos escalonados.
+
+20 - Os processos de escolha e de promoção e as reuniões do CCS são confidenciais. A confidencialidade destes elementos implica que os mesmos só devam ser do conhecimento dos membros das respectivas comissões e dos oficiais que, no exercício das funções que lhes são próprias nos cargos que ocupem, a eles necessitem de ter acesso.
+
+> Alterado pelo/a 3.º do/a [Portaria n.º 1207/90 - Diário da República n.º 288/1990, Série I de 1990-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/1207-1990-563263), em vigor a partir de 1990-12-20
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 174/88 - Diário da República n.º 68/1988, Série I de 1988-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/174-1988-285745), em vigor a partir de 1988-03-27
+
+> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495134), em vigor a partir de 1985-05-31
+
+###### IV — Eleição dos membros
+
+1 - A eleição dos membros para o CCS realiza-se normalmente de 2 em 2 anos, no mês de Janeiro, podendo ser antecipada quando se verifiquem condições que não permitam assegurar o seu funcionamento de acordo com as presentes normas e demais legislação específica.
+
+2 - Participam nas eleições, como eleitores, os sargentos de cada classe e posto indicados em II, n.º 1, alínea b), que pertençam aos quadros do activo ou da RAa na efectividade do serviço.
+
+3 - Cada eleitor votará apenas na eleição do membro do seu posto e classe, salvo no caso dos segundos-sargentos, que votarão na eleição dos primeiros-sargentos da respectiva classe, em conjunto com os sargentos deste posto e classe.
+
+4 - Serão elegíveis os sargentos dos quadros do activo na situação de comissão normal.
+
+5 - Os primeiros-sargentos só são elegíveis desde que tenham, pelo menos, 3 anos de posto.
+
+6 - Só serão representados os postos, de cada classe, referidos em II, n.º 1, alínea b), quando existir um mínimo de sargentos elegíveis em número de três nos postos de sargento-chefe ou de sargento-ajudante e de seis no posto de primeiro-sargento.
+
+7 - Serão publicados na OP2 e OP8, com antecedência, a lista nominal dos membros por inerência, a lista dos representantes a eleger, as datas e horas para as eleições e os esclarecimentos complementares necessários.
+
+8:
+
+a) A eleição, por escrutínio secreto e pessoal, será feita em todos as unidades e estabelecimentos, sob a supervisão dos respectivos comandantes;
+
+b) As unidades e estabelecimentos de Marinha na área de Lisboa onde funcionem mesas de voto, uma vez terminado o escrutínio, limitar-se-ão a encerrar os votos em sobrescrito lacrado e assinado exteriormente por todos os elementos da mesa. Este sobrescrito será imediatamente encaminhado para a 2.ª Repartição da Direcção do Serviço do Pessoal, onde será entregue, em mão, por um sargento componente da mesa de voto respectiva. No exterior deverá ser indicado o número de sargentos eleitores e o número de sargentos votantes;
+
+c) As unidades e estabelecimentos de Marinha fora da área de Lisboa comunicarão por mensagem, dirigida à 2.ª Repartição da Direcção do Serviço do Pessoal, os resultados do escrutínio nas respectivas mesas de voto; a mensagem a enviar terá o seguinte formato:
+
+P. N/C
+
+FM
+
+TO PESSOAL MAR DOIS
+
+ELEIÇÕES CCS (posto e classe)
+
+1 x UNIDADES/SERVIÇOS QUE PARTICIPAM NA VOTAÇÃO
+
+2 x NÚMERO DE ELEITORES
+
+3 x NÚMERO DE VOTANTES
+
+4 x RESULTADOS
+
+d) Os comandantes, directores ou chefes das unidades, serviços ou estabelecimentos em que decorrem votações poderão aceitar votos por carta desde que os sargentos votantes, na impossibilidade de comparecerem pessoalmente, enviem, por outro sargento, o respectivo voto, encerrado em sobrescrito fechado e tendo no exterior o seu posto e nome, bem legíveis, além da assinatura autenticada pelo comando, direcção ou chefia com o selo branco da unidade, serviço ou estabelecimento a que pertencem;
+
+e) Os comandantes, directores ou chefes são autorizados a agrupar unidades ou serviços deles dependentes, a fim de garantir o sigilo do voto em unidades ou serviços com poucos sargentos;
+
+f) Os presidentes das mesas de voto constituídas elaborarão uma acta da forma como decorreu a votação, donde conste obrigatoriamente a lista nominal dos sargentos votantes, que submeterão à homologação dos comandantes, directores ou chefes sob cuja responsabilidade se efectuou o acto eleitoral e que será enviada à 2.ª Repartição da Direcção do Serviço do Pessoal com a possível brevidade;
+
+g) Cabe à Direcção do Serviço do Pessoal realizar o apuramento dos resultados, os quais serão publicados na OP2 e OP8;
+
+h) A contagem dos votos será realizada na Direcção do Serviço do Pessoal, por dois oficiais, designados respectivamente pelos chefes da 2.ª e 8.ª Repartições, e pelo sargento mais antigo, em serviço na área de Lisboa, de cada posto e classe a que corresponder a votação;
+
+i) Os sargentos que se encontrem em diligência votam nas unidades em que prestam serviço;
+
+i) Os sargentos em acumulação optam pela unidade ou serviço que mais lhes convier;
+
+l) Os sargentos que prestam serviço fora do Departamento da Marinha, com excepção do Estado-Maior-General das Forças Armadas, votam na 2.ª Repartição da Direcção do Serviço do Pessoal.
+
+9 - Será considerado eleito, em cada caso, o sargento que receber maior número de votos, salvo para os primeiros-sargentos, em que serão considerados os dois mais votados. Em caso de igualdade de votos, será eleito o mais antigo.
+
+10 - Serão considerados nulos os votos que não respeitem o disposto em IV, n.os 3, 4 e 5.
+
+11 - Em caso de impedimento definitivo de qualquer dos membros eleitos, será aquele substituído pelo sargento que se lhe seguir em número de votos na eleição realizada, desempatando a maior antiguidade.
+
+> Alterado pelo/a 4.º do/a [Portaria n.º 1207/90 - Diário da República n.º 288/1990, Série I de 1990-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/1207-1990-563263), em vigor a partir de 1990-12-20
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 174/88 - Diário da República n.º 68/1988, Série I de 1988-03-22](https://diariodarepublica.pt/dr/detalhe/portaria/174-1988-285745), em vigor a partir de 1988-03-27
+
+> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495134), em vigor a partir de 1985-05-31
+
+Assinada em 4 de Abril de 1985.
+
+O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete.

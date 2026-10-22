@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:344225:por
+title: Portaria n.º 842/2010
+short_title: null
+summary: Mantém a praia da Aguda, no concelho de Sintra, como praia de uso suspenso
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional e do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 842/2010
+official_date: null
+publication_date: '2010-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/2010, Série I de 2010-09-06
+  number: '173'
+  series: I
+  supplement: null
+  pages: 3930 - 3930
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/09/17300/0393003930.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/842/2010/09/06/p/dre/pt/html
+  oj: null
+  dre: '344225'
+  dre_path: /dr/detalhe/portaria/842-2010-344225
+  internal: pt:dre:344225:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/842-2010-344225
+  metadata_url: https://data.dre.pt/eli/port/842/2010/09/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/842-2010-344225
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-09-06T00:00:00Z'
+integrity:
+  source_sha256: f9079389a10c5172099ceb1f3e20953ad09167695dba577bb24660ee77c7a675
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-842-344225.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Segurança Pública
+- Sintra
+- ZONA Balnear
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 842/2010
+
+de 6 de Setembro
+
+Considerando que a praia da Aguda, no concelho de Sintra, foi classificada pelo Plano de Ordenamento da Orla Costeira Sintra-Sado, aprovado pela [Resolução do Conselho de Ministros n.º 86/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2003-692252), de 25 de Junho, como praia equipada com uso condicionado;
+
+Considerando a manutenção da grave situação de instabilidade das arribas na zona da praia da Aguda sujeita a derrocadas que colocam em perigo os utentes da praia, a qual motivou a declaração da praia como praia de uso suspenso;
+
+Considerando que a escadaria de acesso à praia da Aguda se mantém em elevado estado de degradação;
+
+Considerando, ainda, que não estando o uso balnear concessionado esta praia não é vigiada;
+
+Considerando, por último, que estando em risco a segurança de pessoas e bens e que se mantêm os fundamentos que determinaram a suspensão do uso da praia da Aguda através da Portaria n.º 1108/2009, publicada no Diário da República, 1.ª série, de 25 de Setembro de 2009;
+
+Foi ouvida a Câmara Municipal de Sintra, a Capitania do Porto de Cascais, o Instituto da Conservação da Natureza e da Biodiversidade, I. P., e a Administração da Região Hidrográfica do Tejo, I. P.:
+
+Assim:
+
+Ao abrigo do disposto no n.º 3 do artigo 5.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, na redacção dada pelo [Decreto-Lei n.º 218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto:
+
+Manda o Governo, pelos Ministros da Defesa Nacional e do Ambiente e do Ordenamento do Território, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+Pela presente portaria declara-se manter a praia da Aguda, no concelho de Sintra, como praia de uso suspenso.
+
+###### Artigo 2.º — Duração e produção de efeitos da suspensão
+
+A suspensão referida no artigo anterior produz efeitos desde o dia 17 de Julho de 2010 e vigora pelo prazo de um ano.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva, em 31 de Agosto de 2010. - Pela Ministra do Ambiente e do Ordenamento do Território, Fernanda Maria Rosa do Carmo Julião, Secretária de Estado do Ordenamento do Território e das Cidades, em 25 de Agosto de 2010.**

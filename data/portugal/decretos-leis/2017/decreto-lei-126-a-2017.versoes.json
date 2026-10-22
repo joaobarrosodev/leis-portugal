@@ -1,0 +1,1448 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108269605:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-108269655",
+ "dre_path": "/dr/detalhe/decreto-lei/126-a-2017-108269605",
+ "source_lastmod": "2026-08-20",
+ "versions": [
+  {
+   "date": "2017-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108255860",
+    "108255861",
+    "108255862",
+    "108255863",
+    "108255864",
+    "108255865",
+    "108255866",
+    "108255867",
+    "108255868",
+    "108255869",
+    "108255870",
+    "108255871",
+    "108255872",
+    "108255873",
+    "108255874",
+    "108276775",
+    "108276776",
+    "108276777",
+    "108276778",
+    "108276779",
+    "108276780",
+    "108276781",
+    "108276782",
+    "108276783",
+    "108276784",
+    "108276785",
+    "108276786",
+    "108276787",
+    "108276788",
+    "108276789",
+    "108276790",
+    "108276791",
+    "108276792",
+    "108276793",
+    "108276794",
+    "108276795",
+    "108276796",
+    "108276797",
+    "108276798",
+    "108276799",
+    "108276800",
+    "108276801",
+    "108276802",
+    "108276803",
+    "108276804",
+    "108276805",
+    "108276806",
+    "108276807",
+    "108276808",
+    "108276809",
+    "108276810",
+    "108276811",
+    "108276812",
+    "108276813",
+    "108276814",
+    "108276815",
+    "108276816",
+    "108276817",
+    "108276818",
+    "108276819",
+    "108276820",
+    "108276821",
+    "108276822"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:114223835:por",
+     "title": "Declaração de Retificação n.º 39/2017",
+     "published": "2017-11-21",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/39-2017-114223835",
+     "date": "2017-10-07"
+    }
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "108255860",
+    "108255861",
+    "108255862",
+    "108255863",
+    "108255864",
+    "108255865",
+    "108255866",
+    "108255867",
+    "108255868",
+    "108255869",
+    "108255870",
+    "108255871",
+    "108255872",
+    "108255873",
+    "108255874",
+    "108276775",
+    "108276776",
+    "115324998",
+    "108276778",
+    "108276779",
+    "108276780",
+    "108276781",
+    "108276782",
+    "108276783",
+    "108276784",
+    "108276785",
+    "108276786",
+    "114215532",
+    "108276788",
+    "108276789",
+    "108276790",
+    "114215533",
+    "114215534",
+    "108276793",
+    "108276794",
+    "108276795",
+    "108276796",
+    "108276797",
+    "108276798",
+    "108276799",
+    "108276800",
+    "108276801",
+    "108276802",
+    "108276803",
+    "108276804",
+    "108276805",
+    "108276806",
+    "108276807",
+    "108276808",
+    "108276809",
+    "108276810",
+    "108276811",
+    "108276812",
+    "108276813",
+    "108276814",
+    "114215535",
+    "108276816",
+    "108276817",
+    "108276818",
+    "108276819",
+    "108276820",
+    "108276821",
+    "108276822",
+    "108276823"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 52.º"
+   ],
+   "fragments": [
+    "108255860",
+    "108255861",
+    "108255862",
+    "108255863",
+    "108255864",
+    "108255865",
+    "108255866",
+    "108255867",
+    "108255868",
+    "108255869",
+    "108255870",
+    "108255871",
+    "108255872",
+    "108255873",
+    "108255874",
+    "108276775",
+    "108276776",
+    "115324999",
+    "108276778",
+    "108276779",
+    "108276780",
+    "108276781",
+    "108276782",
+    "108276783",
+    "108276784",
+    "108276785",
+    "108276786",
+    "114215532",
+    "108276788",
+    "115325000",
+    "108276790",
+    "114215533",
+    "114215534",
+    "108276793",
+    "115325001",
+    "108276795",
+    "108276796",
+    "108276797",
+    "108276798",
+    "108276799",
+    "108276800",
+    "108276801",
+    "108276802",
+    "108276803",
+    "108276804",
+    "108276805",
+    "108276806",
+    "108276807",
+    "108276808",
+    "108276809",
+    "108276810",
+    "108276811",
+    "108276812",
+    "108276813",
+    "108276814",
+    "114215535",
+    "108276816",
+    "115325002",
+    "108276818",
+    "108276819",
+    "115325003",
+    "108276821",
+    "108276822",
+    "108276823"
+   ]
+  },
+  {
+   "date": "2019-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124500726:por",
+     "title": "Decreto-Lei n.º 136/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/136-2019-124500726"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 10.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 49.º"
+   ],
+   "fragments": [
+    "108255860",
+    "108255861",
+    "108255862",
+    "108255863",
+    "108255864",
+    "108255865",
+    "108255866",
+    "108255867",
+    "108255868",
+    "108255869",
+    "108255870",
+    "124533017",
+    "108255872",
+    "108255873",
+    "108255874",
+    "108276775",
+    "108276776",
+    "124533018",
+    "124533019",
+    "108276779",
+    "108276780",
+    "108276781",
+    "124533027",
+    "124602901",
+    "124602902",
+    "124602903",
+    "124602904",
+    "108276786",
+    "124533020",
+    "108276788",
+    "115325000",
+    "108276790",
+    "114215533",
+    "124533021",
+    "108276793",
+    "124533022",
+    "108276795",
+    "108276796",
+    "124533023",
+    "124533024",
+    "108276799",
+    "108276800",
+    "108276801",
+    "124533025",
+    "108276803",
+    "108276804",
+    "108276805",
+    "108276806",
+    "108276807",
+    "108276808",
+    "108276809",
+    "108276810",
+    "108276811",
+    "108276812",
+    "108276813",
+    "108276814",
+    "114215535",
+    "108276816",
+    "124533026",
+    "108276818",
+    "108276819",
+    "115325003",
+    "108276821",
+    "108276822",
+    "108276823"
+   ]
+  },
+  {
+   "date": "2021-02-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:156720777:por",
+     "title": "Decreto-Lei n.º 11/2021",
+     "published": "2021-02-08",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2021-156720777"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 36.º"
+   ],
+   "fragments": [
+    "108255860",
+    "108255861",
+    "108255862",
+    "108255863",
+    "108255864",
+    "108255865",
+    "108255866",
+    "108255867",
+    "108255868",
+    "108255869",
+    "108255870",
+    "124533017",
+    "108255872",
+    "108255873",
+    "108255874",
+    "108276775",
+    "108276776",
+    "156696383",
+    "124533019",
+    "108276779",
+    "108276780",
+    "108276781",
+    "124533027",
+    "124602901",
+    "124602902",
+    "124602903",
+    "124602904",
+    "108276786",
+    "124533020",
+    "108276788",
+    "115325000",
+    "108276790",
+    "114215533",
+    "124533021",
+    "108276793",
+    "156696384",
+    "108276795",
+    "108276796",
+    "124533023",
+    "124533024",
+    "108276799",
+    "108276800",
+    "108276801",
+    "156696385",
+    "108276803",
+    "108276804",
+    "108276805",
+    "108276806",
+    "108276807",
+    "108276808",
+    "108276809",
+    "108276810",
+    "108276811",
+    "108276812",
+    "108276813",
+    "108276814",
+    "114215535",
+    "108276816",
+    "124533026",
+    "108276818",
+    "108276819",
+    "115325003",
+    "108276821",
+    "108276822",
+    "108276823"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901667918:por",
+     "title": "Lei n.º 45-A/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/lei/45-a-2024-901667918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "108255860",
+    "108255861",
+    "108255862",
+    "108255863",
+    "108255864",
+    "108255865",
+    "108255866",
+    "108255867",
+    "108255868",
+    "108255869",
+    "108255870",
+    "124533017",
+    "108255872",
+    "108255873",
+    "108255874",
+    "108276775",
+    "108276776",
+    "156696383",
+    "124533019",
+    "108276779",
+    "108276780",
+    "108276781",
+    "124533027",
+    "124602901",
+    "124602902",
+    "124602903",
+    "124602904",
+    "108276786",
+    "902104195",
+    "108276788",
+    "115325000",
+    "108276790",
+    "902104196",
+    "124533021",
+    "108276793",
+    "156696384",
+    "108276795",
+    "108276796",
+    "124533023",
+    "124533024",
+    "108276799",
+    "108276800",
+    "108276801",
+    "156696385",
+    "108276803",
+    "108276804",
+    "108276805",
+    "108276806",
+    "108276807",
+    "108276808",
+    "108276809",
+    "108276810",
+    "108276811",
+    "108276812",
+    "108276813",
+    "108276814",
+    "114215535",
+    "108276816",
+    "124533026",
+    "108276818",
+    "108276819",
+    "115325003",
+    "108276821",
+    "108276822",
+    "108276823"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1156670556:por",
+     "title": "Decreto-Lei n.º 166/2026",
+     "published": "2026-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/166-2026-1156670556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 49.º"
+   ],
+   "fragments": [
+    "108255860",
+    "108255861",
+    "108255862",
+    "108255863",
+    "108255864",
+    "108255865",
+    "108255866",
+    "108255867",
+    "108255868",
+    "108255869",
+    "108255870",
+    "124533017",
+    "108255872",
+    "108255873",
+    "108255874",
+    "108276775",
+    "108276776",
+    "156696383",
+    "124533019",
+    "108276779",
+    "108276780",
+    "108276781",
+    "124533027",
+    "124602901",
+    "124602902",
+    "124602903",
+    "124602904",
+    "913450658",
+    "108276786",
+    "902104195",
+    "108276788",
+    "115325000",
+    "108276790",
+    "902104196",
+    "124533021",
+    "108276793",
+    "156696384",
+    "108276795",
+    "108276796",
+    "124533023",
+    "124533024",
+    "108276799",
+    "108276800",
+    "108276801",
+    "156696385",
+    "108276803",
+    "108276804",
+    "108276805",
+    "108276806",
+    "108276807",
+    "108276808",
+    "108276809",
+    "108276810",
+    "108276811",
+    "108276812",
+    "108276813",
+    "108276814",
+    "114215535",
+    "108276816",
+    "1158029175",
+    "108276818",
+    "108276819",
+    "115325003",
+    "108276821",
+    "108276822",
+    "108276823"
+   ]
+  }
+ ],
+ "fragments": {
+  "108255860": {
+   "fragment_id": "108269656",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 126-A/2017\n\nde 6 de outubro\n\nO XXI Governo Constitucional assumiu a inclusão das pessoas com deficiência como uma das prioridades da ação governativa e enquanto corolário de uma sociedade que se quer mais justa, mais solidária, que respeita a diversidade e a encara como um fator de riqueza e de progresso.\n\nEsta ambição tem expressão vinculativa no plano internacional, designadamente no âmbito das Nações Unidas, com a ratificação da Convenção sobre os Direitos das Pessoas com Deficiência, em julho de 2009, tendo o Estado Português assumido o compromisso de promover condições de vida dignas às pessoas com deficiência ou incapacidade e a responsabilidade pela adoção das medidas que visem garantir às pessoas com deficiência o pleno reconhecimento e o exercício dos seus direitos num quadro de igualdade de oportunidades.\n\nÉ convicção do XXI Governo Constitucional que a reformulação das prestações sociais e a concretização de um modelo de prestação única para a deficiência/incapacidade são estruturais para o desígnio da inclusão, conforme definido no Programa do Governo.\n\nÉ com este enquadramento que o Governo reafirma o seu compromisso através da criação da «Prestação Social para a Inclusão» que visa melhorar a proteção social das pessoas com deficiência, promover o combate às situações de pobreza, fomentar a participação social e laboral e contribuir para autonomização das pessoas com deficiência. Esta medida introduz simplificação, modernização e maior eficácia ao quadro das prestações sociais na área da deficiência.\n\nA «Prestação Social para a Inclusão» traduz uma inovação de significativa importância ao agregar um conjunto de prestações dispersas, e também pela forma como se encontra estruturada. Esta prestação é constituída por três componentes: a componente base, o complemento e a majoração. A componente base destina-se a compensar os encargos gerais acrescidos que resultam da condição de deficiência e visa substituir o subsídio mensal vitalício e a pensão social de invalidez, sendo igualmente destinada aos demais cidadãos e cidadãs que requeiram a nova prestação e que cumpram as condições de atribuição. O complemento é aplicável na eventualidade de carência ou insuficiência de recursos, constituindo um instrumento de combate à pobreza das pessoas com deficiência. A majoração visa substituir as prestações que, no atual regime de proteção na deficiência, se destinam a compensar encargos específicos acrescidos resultantes da deficiência e será regulamentada numa fase subsequente.\n\nDada a complexidade da mudança no modelo de proteção na deficiência, esta medida terá uma implementação faseada, assumindo a progressiva substituição das prestações sociais e delimitação de grupos prioritários, com uma gradual extensão a todo o ciclo de vida.\n\nNuma primeira fase, a prestação dá resposta à especial debilidade na proteção social das pessoas com deficiência em idade ativa, fundando um novo paradigma em domínios essenciais como a relação das prestações na área da deficiência com o exercício de atividade profissional, a acumulação do montante da prestação com rendimentos próprios da pessoa com deficiência e a articulação entre sistema de segurança social e sistema fiscal no apoio ao rendimento.\n\nA possibilidade de acesso a esta medida pelas pessoas com deficiência, independentemente da sua situação laboral, é porventura a conquista com maior impacto na vida das pessoas com deficiência, efetivando direitos fundamentais.\n\nCom esta realidade, o exercício de uma atividade profissional deixa de constituir um obstáculo no acesso à proteção social, rompendo com uma matriz de apoio social quase exclusivo a situações de inatividade. Ao permitir condições favoráveis de acumulação de rendimentos profissionais com o montante da prestação, esta medida afirma-se como uma mudança de suma importância na promoção da participação laboral e autonomização das pessoas com deficiência.\n\nEm simultâneo, é adotada uma modelação inovadora nas condições de acumulação de rendimentos que permite uma articulação com benefícios fiscais para pessoas com deficiência em sede de imposto sobre pessoas singulares, de modo a reforçar a complementaridade nos apoios públicos nesta matéria.\n\nPor outro lado, e no que respeita à componente base, ao considerar-se exclusivamente os rendimentos da pessoa com deficiência, circunscreve-se a influência do estado civil e dos demais rendimentos do agregado familiar no direito à compensação por encargos gerais no domínio da deficiência.\n\nPor último, é instituído um reconhecimento particular das pessoas com graus de incapacidade mais elevados, através da diferenciação positiva na atribuição da componente base da prestação, que assume um valor de referência independentemente do nível de rendimento da pessoa com deficiência, com a única exceção dos beneficiários de complementos sociais nas pensões de invalidez ou de velhice.\n\nPosteriormente, e numa segunda fase, são reforçados os níveis de proteção social das pessoas com deficiência face à falta ou insuficiência de recursos económicos próprios e do agregado familiar, através da segunda componente da prestação, o complemento. Deve salientar-se que esta componente inclui mecanismos de diferenciação positiva com o objetivo de promover um combate mais eficaz às situações de pobreza.\n\nNuma terceira fase, serão regulamentadas a proteção dos encargos na deficiência para os cidadãos e cidadãs com idade até aos 18 anos e também a terceira componente da prestação, a majoração.\n\nOutra inovação respeita à certificação da deficiência que constitui um critério central de elegibilidade para a prestação, dispondo-se que a pessoa com deficiência tenha um grau de incapacidade igual ou superior a 60 %, comprovado através do atestado médico de incapacidade multiúso, emitido por juntas médicas constituídas no âmbito das administrações regionais de saúde.\n\nPretende-se, assim, em primeira instância, contribuir para a simplificação e harmonização do método de certificação da deficiência na atribuição das prestações sociais e, num segundo plano, para o alinhamento das práticas sectoriais da política pública no âmbito dos apoios à pessoa com deficiência.\n\nOs objetivos que nortearam a criação da prestação social para a inclusão determinam igualmente o alargamento do complemento solidário para idosos aos titulares de pensão de invalidez, que não sejam titulares da prestação social para a inclusão. Esta alteração do complemento solidário para idosos concorre para definição de um novo patamar de proteção social no âmbito do combate à pobreza, ao abranger uma população especialmente fragilizada, e constitui um marco da política pública Portuguesa do reforço dos rendimentos das famílias e na construção de uma sociedade mais justa e mais digna.\n\nPor outro lado, com a criação da prestação social para a inclusão, torna-se necessário proceder à adequação dos diplomas que regulam os regimes jurídicos das eventualidades de encargos familiares, dependência, rendimento social de inserção, pensão social, complemento extraordinário de solidariedade e complemento solidário para idosos, face ao que consta do regime jurídico da nova prestação social para a inclusão.\n\nUm dos impactos mais relevantes é a extinção da pensão social de invalidez, que é substituída pela nova prestação social para a inclusão e que passa a ser automaticamente atribuída aos atuais titulares da pensão social de invalidez. No que concerne ao regime que regula o complemento extraordinário de solidariedade procede-se às alterações decorrentes da extinção da pensão social de invalidez.\n\nO subsídio mensal vitalício também é automaticamente convertido para esta prestação, isto, para os titulares abrangidos pelo sistema de segurança social, mantendo-se, transitoriamente, a sua atribuição, até 31 de dezembro de 2023, relativamente aos titulares do subsídio mensal vitalício abrangidos pelo regime de proteção social convergente. Deste modo, procede-se às adequações decorrentes da eliminação do subsídio mensal vitalício, e da alteração da forma de certificação da deficiência da nova prestação social para a inclusão, no âmbito do regime jurídico que regula a proteção na eventualidade encargos no domínio da deficiência.\n\nImporta destacar que, durante o período transitório, os titulares do subsídio mensal vitalício abrangidos pelo regime de proteção social convergente devem requerer, junto dos serviços das entidades gestoras da prestação social para a inclusão, a conversão daquele subsídio nesta prestação.\n\nUma outra consequência a assinalar é o alargamento do âmbito pessoal do complemento por dependência aos titulares da prestação social para a inclusão que, assim, deixam de ter acesso ao subsídio por assistência de terceira pessoa quando se encontrem em situação de dependência, salvaguardando-se a situação dos atuais beneficiários.\n\nPor último, no âmbito do rendimento social de inserção, estabelece-se que para efeitos de determinação dos rendimentos e consequente cálculo do montante da prestação, passa a ser considerado o valor do complemento da prestação social para a inclusão.\n\nAssim, o Governo cria a «Prestação Social para a Inclusão» enquanto recurso fundamental para a inclusão das pessoas com deficiência e para a melhoria da sua qualidade de vida e das suas famílias e procede às necessárias alterações legislativas decorrentes da criação desta nova prestação.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 4/2007, de 16 de janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108255861": {
+   "fragment_id": "108269657",
+   "type": 1,
+   "heading": "Capítulo I — Objeto, natureza e âmbito da proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto, natureza e âmbito da proteção"
+  },
+  "108255862": {
+   "fragment_id": "108269658",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei institui a Prestação Social para a Inclusão, doravante designada por prestação.\n\n2 - O presente decreto-lei define e regulamenta:\n\na) A proteção na eventualidade de encargos no domínio da deficiência, no âmbito do subsistema de proteção familiar;\n\nb) A eventualidade de insuficiência de recursos das pessoas com deficiência, no âmbito do subsistema de solidariedade.\n\n3 - O presente decreto-lei procede:\n\na) À sexta alteração à Lei n.º 13/2003, de 21 de maio, alterada pela Lei n.º 45/2005, de 29 de agosto, pelos Decretos-Leis n.os 70/2010, de 16 de junho, 133/2012, de 27 de junho, 1/2016, de 6 de janeiro, e 90/2017, de 28 de julho, que revoga o rendimento mínimo garantido previsto na Lei n.º 19-A/96, de 29 de junho, e cria o rendimento social de inserção;\n\nb) À terceira alteração ao Decreto-Lei n.º 160/80, de 27 de maio, alterado pelos Decretos-Leis n.os 133-C/97, de 30 de maio, e 265/99, de 14 de julho, que estabelece um esquema de prestações de segurança social a não beneficiários do sistema contributivo;\n\nc) À sétima alteração ao Decreto-Lei n.º 133-B/97, de 30 de maio, alterado pelos Decretos-Leis n.os 248/99, de 2 de julho, 341/99, de 25 de agosto, 250/2001, de 21 de setembro, e 176/2003, de 2 de agosto, pela Lei n.º 82-B/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 25/2017, de 3 de março, que altera o regime jurídico das prestações familiares;\n\nd) À quinta alteração ao Decreto-Lei n.º 265/99, de 14 de julho, alterado pelos Decretos-Leis n.os 309-A/2000, de 30 de novembro, 13/2013, de 25 de janeiro, e 246/2015, de 20 de outubro, e pela Lei n.º 6/2016, de 17 de março, que procede à criação de uma nova prestação destinada a complementar a proteção concedida aos pensionistas de invalidez, velhice e sobrevivência dos regimes de segurança social em situação de dependência;\n\ne) À primeira alteração ao Decreto-Lei n.º 208/2001, de 27 de julho, que define as regras a observar na atribuição do complemento extraordinário de solidariedade;\n\nf) À sexta alteração ao Decreto-Lei n.º 232/2005, alterado pelos Decretos-Leis n.os 236/2006, de 11 de dezembro, 151/2009, de 30 de junho, 167-E/2013, de 31 de dezembro, e 254-B/2015, de 31 de dezembro, e pela Lei n.º 7-A/2016, de 30 de março, que cria o complemento solidário para idosos;\n\ng) À quarta alteração ao Decreto Regulamentar n.º 3/2006, de 6 de fevereiro, alterado pelos Decretos Regulamentares n.os 14/2007, de 20 de março, e 17/2008, de 26 de agosto, e pelo Decreto-Lei n.º 151/2009, de 30 de junho, que regulamenta o Decreto-Lei n.º 232/2005, de 29 de dezembro, que institui o complemento solidário para idosos no âmbito do subsistema de solidariedade;\n\nh) À primeira alteração à Portaria n.º 764/99, de 27 de agosto, que estabelece as normas de execução necessárias à aplicação do regime jurídico do complemento por dependência fixado no Decreto-Lei n.º 265/99, de 14 de julho."
+  },
+  "108255863": {
+   "fragment_id": "108269659",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - A proteção prevista na alínea a) do n.º 2 do artigo anterior visa compensar os encargos acrescidos no domínio da deficiência, com vista a promover a autonomia e inclusão social da pessoa com deficiência.\n\n2 - A proteção prevista na alínea b) do n.º 2 do artigo anterior visa combater a pobreza das pessoas com deficiência."
+  },
+  "108255864": {
+   "fragment_id": "108269660",
+   "type": 11,
+   "heading": "Artigo 3.º — Caracterização da deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Caracterização da deficiência\n\nPara efeitos do presente decreto-lei considera-se deficiência a perda ou anomalia, congénita ou adquirida, de funções ou de estruturas do corpo, incluindo as funções psicológicas, causadoras de dificuldades específicas suscetíveis de, em conjugação com os fatores do meio, limitar ou dificultar a atividade e a participação na sociedade em condições de igualdade com as demais pessoas."
+  },
+  "108255865": {
+   "fragment_id": "108269661",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito pessoal\n\nEstão abrangidos pela proteção prevista no presente decreto-lei os cidadãos nacionais e os estrangeiros, refugiados e apátridas, que satisfaçam as condições de atribuição da prestação."
+  },
+  "108255866": {
+   "fragment_id": "108269662",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito material\n\n1 - Para efeitos do disposto no artigo 1.º, a prestação inclui uma componente base, uma majoração e um complemento.\n\n2 - A componente base e a majoração consubstanciam a proteção na eventualidade de encargos no domínio da deficiência e destinam-se, respetivamente, a compensar os encargos gerais e os encargos específicos acrescidos resultantes da deficiência.\n\n3 - O complemento consubstancia a proteção na eventualidade de insuficiência de recursos das pessoas com deficiência e destina-se a apoiar a pessoa com deficiência que se encontre em situação de falta ou insuficiência de recursos económicos, nos termos previstos no presente decreto-lei.\n\n4 - A majoração referida no n.º 2 é regulamentada em diploma próprio."
+  },
+  "108255867": {
+   "fragment_id": "108269663",
+   "type": 11,
+   "heading": "Artigo 6.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Certificação\n\nA certificação da deficiência e a determinação do grau de incapacidade, para efeitos de atribuição da proteção prevista no presente decreto-lei, compete às juntas médicas dos serviços de saúde, através da emissão de atestado médico de incapacidade multiúso."
+  },
+  "108255868": {
+   "fragment_id": "108269664",
+   "type": 11,
+   "heading": "Artigo 7.º — Titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Titularidade\n\nA titularidade do direito à prestação é reconhecida à pessoa com deficiência que integre o âmbito pessoal e que satisfaça as condições de atribuição previstas no presente decreto-lei."
+  },
+  "108255869": {
+   "fragment_id": "108269665",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade civil de terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade civil de terceiro\n\n1 - Existindo responsabilidade civil de terceiro por facto determinante da deficiência, com incapacidade igual ou superior a 60 %, não há lugar ao pagamento do complemento a que o beneficiário teria direito, até que o somatório do complemento devido atinja o valor da indemnização por perda da capacidade de ganho.\n\n2 - Quando não seja discriminado o valor da indemnização por perda da capacidade de ganho, presume-se que a mesma corresponde a dois terços do valor total da indemnização atribuída."
+  },
+  "108255870": {
+   "fragment_id": "108269666",
+   "type": 11,
+   "heading": "Artigo 9.º — Residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Residência\n\n1 - Sem prejuízo do estabelecido em instrumento internacional a que Portugal se encontre vinculado ou de legislação especial aplicável, o reconhecimento do direito à prestação depende de o titular ter residência legal em Portugal.\n\n2 - Para efeitos do disposto no número anterior consideram-se residentes legais em Portugal:\n\na) Os cidadãos nacionais com residência habitual em Portugal;\n\nb) Os nacionais de Estado membro da União Europeia, de Estado que faça parte do Espaço Económico Europeu ou de um Estado terceiro que tenha celebrado um acordo de livre circulação de pessoas com a União Europeia, que possuam certificado de registo de cidadãos comunitários emitida pela câmara municipal da área de residência do interessado;\n\nc) Os apátridas e os nacionais de Estados não mencionados na alínea anterior, detentores de visto de estada temporária, visto de residência, autorização de residência temporária e autorização de residência permanente, concedidos ao abrigo do regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, desde que se encontrem em território nacional e nele tenham permanecido com qualquer dos títulos atrás mencionados pelo menos durante um ano, salvo se ao titular tiver sido concedido o estatuto de refugiado."
+  },
+  "108255871": {
+   "fragment_id": "108269667",
+   "type": 11,
+   "heading": "Artigo 10.º — Rendimentos de referência para a componente base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Rendimentos de referência para a componente base\n\n1 - O rendimento de referência a considerar para a modelação do valor da componente base da prestação a atribuir é o que resulta da soma das categorias de rendimentos da pessoa com deficiência, previstos nas alíneas a), b), c), d), e) e f) do artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, 133/2012, de 27 de junho, e 90/2017, de 28 de julho.\n\n2 - Para efeitos do disposto no número anterior, são aplicáveis as normas do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, 133/2012, de 27 de junho, e 90/2017, de 28 de julho, apenas referentes aos rendimentos a considerar e à sua caraterização, sem prejuízo do disposto nos números seguintes.\n\n3 - Os rendimentos de trabalho dependente reportam-se ao segundo mês anterior ao da data da apresentação do requerimento, não sendo considerados os rendimentos registados por equivalência à entrada de contribuições em resultado da atribuição de prestações substitutivas da perda de rendimento de trabalho.\n\n4 - Os montantes das remunerações auferidas no segundo mês anterior ao da apresentação do requerimento que se reportem a atividades exercidas em período anterior, não são considerados no cálculo da prestação.\n\n5 - Os rendimentos empresariais e profissionais correspondem ao rendimento, mensualizado, não podendo, no entanto, ser inferior à base de incidência contributiva para o regime geral de segurança social dos trabalhadores independentes, correspondendo a 50 % do indexante dos apoios sociais (IAS) nas situações de início de atividade sem enquadramento no respetivo regime.\n\n6 - Os rendimentos de prestações sociais correspondem às prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção.\n\n7 - Os rendimentos de pensões e das prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção reportam-se ao segundo mês anterior ao da data da apresentação do requerimento, não sendo considerados os montantes correspondentes a retroativos relativos a meses anteriores.\n\n8 - Na determinação dos rendimentos de trabalho dependente e de pensões são considerados os duodécimos do subsídio de férias e de Natal.\n\n9 - Os rendimentos de capitais e prediais reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal não se verifique, reportam-se ao ano imediatamente anterior àquele, devendo ser mensualizados.\n\n10 - Sempre que a entidade gestora da prestação disponha de informação mais atualizada sobre rendimentos de trabalho dependente, rendimentos empresariais e profissionais, de pensões e de prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção, podem ser estes os rendimentos a ter em conta."
+  },
+  "108255872": {
+   "fragment_id": "108269668",
+   "type": 11,
+   "heading": "Artigo 11.º — Rendimento de referência para o complemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Rendimento de referência para o complemento\n\n1 - O rendimento de referência a considerar para o cálculo do complemento é igual à soma dos rendimentos, previstos no número seguinte, dos elementos do agregado familiar do titular da prestação, definido nos termos do artigo 14.º\n\n2 - Para efeitos do disposto no número anterior, os rendimentos a considerar são:\n\na) Uma percentagem do valor da componente base, a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social;\n\nb) Os previstos no artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, 133/2012, de 27 de junho, e 90/2017, de 28 de julho, com exceção das prestações no âmbito das eventualidades de desemprego e maternidade, paternidade e adoção do subsistema de solidariedade, do rendimento social de inserção, do complemento solidário para idosos, do complemento por dependência, da prestação suplementar da pensão por riscos profissionais para assistência de terceira pessoa e do complemento por cônjuge a cargo, sem prejuízo do disposto no número seguinte.\n\n3 - Para efeitos da alínea b) do número anterior, os rendimentos de trabalho dependente, os rendimentos empresariais e profissionais e as prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção do sistema previdencial são considerados de acordo com a percentagem a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n4 - Para efeitos do disposto na alínea b) do n.º 2 é aplicável o previsto nos n.os 2 a 8 do artigo anterior."
+  },
+  "108255873": {
+   "fragment_id": "108269669",
+   "type": 11,
+   "heading": "Artigo 12.º — Autorização para acesso a informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autorização para acesso a informação\n\n1 - Para comprovação dos rendimentos do titular e do seu agregado familiar, e das demais condições de atribuição, a entidade gestora competente da segurança social pode solicitar a entrega de declaração de autorização concedida de forma livre, específica e inequívoca para acesso a informação detida por terceiros, designadamente informação fiscal e bancária.\n\n2 - A falta de entrega da declaração referida no número anterior no prazo concedido para o efeito, constitui causa de suspensão do procedimento de atribuição ou do pagamento da prestação em curso, com perda do direito à prestação até à entrega da declaração."
+  },
+  "108255874": {
+   "fragment_id": "108269670",
+   "type": 11,
+   "heading": "Artigo 13.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Falsas declarações\n\nA prestação de falsas declarações por parte do titular ou das pessoas referidas no artigo 32.º, no âmbito da avaliação das condições de atribuição e de manutenção da prestação, de que resulte ou possa resultar a atribuição ou o pagamento indevido da prestação, para além de outras consequências legalmente previstas, determina a inibição no acesso ao direito à prestação, durante o período de 24 meses após o conhecimento do facto."
+  },
+  "108276775": {
+   "fragment_id": "108269671",
+   "type": 11,
+   "heading": "Artigo 14.º — Agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Agregado familiar\n\n1 - O agregado familiar relevante para atribuição do complemento é o constante do artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, 133/2012, de 27 de junho, e 90/2017, de 28 de julho, sem prejuízo do disposto no número seguinte.\n\n2 - Integram o agregado familiar do titular da prestação, para além do próprio, as pessoas previstas no n.º 1 do artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, 133/2012, de 27 de junho, e 90/2017, de 28 de julho, que com ele vivam em economia comum, com exceção do disposto na alínea b), em que são considerados os parentes e afins maiores, em linha reta até ao 1.º grau."
+  },
+  "108276776": {
+   "fragment_id": "108269672",
+   "type": 1,
+   "heading": "Capítulo II — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Condições de atribuição"
+  },
+  "108276777": {
+   "fragment_id": "108269673",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições gerais de atribuição da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições gerais de atribuição da prestação\n\n1 - O reconhecimento do direito à prestação depende de a pessoa com deficiência cumprir as seguintes condições de atribuição:\n\na) Ter residência em território nacional nos termos do artigo 9.º;\n\nb) Ter idade compreendida entre os 18 anos e a idade normal de acesso à pensão de velhice do regime geral, sem prejuízo do disposto no n.º 3;\n\nc) Ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º, sem prejuízo do disposto no número seguinte.\n\n2 - Caso a pessoa com deficiência seja beneficiária de pensão de invalidez do sistema previdencial de segurança social, do regime de proteção social convergente ou de outro regime de proteção social de inscrição obrigatória nacional ou estrangeiro, o reconhecimento do direito à prestação depende daquela ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 80 %.\n\n3 - Para efeito do disposto na alínea b) do n.º 1, a idade do titular é aferida à data da apresentação do requerimento devidamente instruído.\n\n4 - O reconhecimento do direito à prestação entre os 55 anos e a idade normal de acesso à pensão de velhice em vigor depende de, comprovadamente, a certificação da deficiência ter sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente àquela idade.\n\n5 - Sem prejuízo do disposto no número anterior, o direito à prestação é, ainda, reconhecido nas situações em que comprovadamente, a pessoa com deficiência tenha interposto recurso da avaliação da incapacidade da junta médica requerida antes dos 55 anos, desde que o grau de incapacidade que resulte da decisão seja igual ou superior a 60 %.\n\n6 - O agravamento do grau de incapacidade para um valor igual ou superior a 80 % só releva se, comprovadamente, a certificação da deficiência que atesta o agravamento do grau de incapacidade tiver sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente.\n\n7 - Salvo o disposto em instrumento internacional a que Portugal se encontre vinculado ou em legislação especial, a prestação não é transferível para fora do território nacional."
+  },
+  "108276778": {
+   "fragment_id": "108269674",
+   "type": 11,
+   "heading": "Artigo 16.º — Condições específicas de atribuição do complemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Condições específicas de atribuição do complemento\n\nSão condições específicas de atribuição do complemento:\n\na) O titular da prestação não se encontrar institucionalizado em equipamento social financiado pelo Estado ou em família de acolhimento;\n\nb) Não estar em situação de prisão preventiva nem a cumprir pena de prisão em estabelecimento prisional."
+  },
+  "108276779": {
+   "fragment_id": "108276875",
+   "type": 1,
+   "heading": "Capítulo III — Determinação do montante da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Determinação do montante da prestação"
+  },
+  "108276780": {
+   "fragment_id": "108276876",
+   "type": 11,
+   "heading": "Artigo 17.º — Valor da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Valor da prestação\n\nO valor da prestação resulta da soma dos montantes da componente base, da majoração e do complemento."
+  },
+  "108276781": {
+   "fragment_id": "108276877",
+   "type": 11,
+   "heading": "Artigo 18.º — Valor de referência anual da componente base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Valor de referência anual da componente base\n\n1 - O valor de referência anual da componente base da prestação é fixado em portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n2 - O valor de referência anual da componente base da prestação é atualizado nos termos previstos no n.º 2 do artigo 6.º da Lei n.º 53-B/2006, de 29 de dezembro, alterada pela Lei n.º 3-B/2010, de 28 de abril, pelo Decreto-Lei n.º 254-B/2015, de 31 de dezembro, e pela Lei n.º 42/2016, de 28 de dezembro."
+  },
+  "108276782": {
+   "fragment_id": "108276878",
+   "type": 11,
+   "heading": "Artigo 19.º — Valor mensal da componente base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Valor mensal da componente base\n\n1 - Na situação de o titular da prestação não ter qualquer rendimento, o valor mensal da componente base da prestação é igual ao valor de referência anual da componente base em vigor, mensualizado.\n\n2 - Na situação de o titular da prestação com grau de incapacidade igual ou superior a 60 % e inferior a 80 %, ter rendimentos previstos no artigo 10.º, o montante da componente base da prestação é igual ao diferencial entre o limiar de acumulação aplicável nos termos do artigo seguinte e o montante dos rendimentos, tendo como montante máximo o montante mensualizado do valor de referência anual da componente base da prestação.\n\n3 - Na situação de o titular da prestação ter um grau de incapacidade igual ou superior a 80 %, o montante da componente base da prestação é igual ao montante mensualizado do valor de referência anual da componente base em vigor, independentemente do valor dos seus rendimentos, sem prejuízo do disposto no número seguinte.\n\n4 - No caso de o titular da prestação ser pensionista de invalidez ou de velhice do sistema de segurança social, ao montante da componente base calculado nos termos dos números anteriores é deduzido, até à sua concorrência, o montante do complemento social.\n\n5 - O disposto no número anterior é aplicável, com as devidas adaptações, nas situações em que o titular da prestação é pensionista do regime de proteção social convergente e de pensões de invalidez atribuídas por outros sistemas de proteção social nacionais ou estrangeiros."
+  },
+  "108276783": {
+   "fragment_id": "108276879",
+   "type": 11,
+   "heading": "Artigo 20.º — Limiar de acumulação da componente base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Limiar de acumulação da componente base\n\n1 - Nas situações em que o titular não tenha rendimentos de trabalho, o limiar de acumulação anual da componente base da prestação com rendimentos é igual ao valor de referência anual do complemento.\n\n2 - Nas situações em que o titular tenha rendimentos de trabalho o limiar de acumulação anual da prestação é o menor dos seguintes valores:\n\na) O valor de referência anual do complemento acrescido dos rendimentos de trabalho do titular;\n\nb) O limite máximo anual de acumulação previsto no número seguinte.\n\n3 - Nas situações em que o titular tenha rendimentos de trabalho o limite máximo anual de acumulação da prestação com rendimentos é definido e atualizado, periodicamente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n4 - Para efeitos do disposto no presente artigo são equiparados a rendimentos de trabalho os montantes das prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção, quando atribuídas no âmbito do sistema previdencial.\n\n5 - O disposto nos números anteriores é aplicável às pessoas com um grau de incapacidade igual ou superior a 60 % e inferior a 80 %."
+  },
+  "108276784": {
+   "fragment_id": "108276880",
+   "type": 11,
+   "heading": "Artigo 21.º — Valor de referência e limiar do complemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Valor de referência e limiar do complemento\n\n1 - O valor de referência anual do complemento é definido, periodicamente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n2 - O valor de referência anual do complemento é atualizado, anualmente, com efeitos a 1 de janeiro de cada ano, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n3 - O limiar do complemento resulta da multiplicação do valor de referência anual do complemento pelo valor resultante da aplicação, ao agregado familiar do titular, da escala de equivalência definida por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social."
+  },
+  "108276785": {
+   "fragment_id": "108276881",
+   "type": 11,
+   "heading": "Artigo 22.º — Valor do complemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Valor do complemento\n\n1 - O valor do complemento corresponde à diferença entre o limiar do complemento, calculado nos termos do artigo anterior, e o rendimento de referência do complemento, definido nos termos do artigo 11.º, sem prejuízo do disposto nos números seguintes.\n\n2 - Nas situações em que exista apenas um titular da prestação no mesmo agregado familiar, o valor do complemento tem como limite máximo o montante mensualizado do valor de referência anual do complemento.\n\n3 - Nas situações em que existam mais de um titular da prestação no mesmo agregado familiar, o valor do complemento tem como limite máximo o montante mensualizado do valor de referência anual do complemento, majorado numa percentagem por cada titular da prestação, além do primeiro.\n\n4 - A percentagem referida no número anterior é definida por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n5 - Nas situações em que existam mais do que um titular da prestação no mesmo agregado familiar, o montante do complemento a atribuir a cada titular resulta da divisão do valor do complemento calculado nos termos dos números anteriores, pelo número de titulares no agregado familiar."
+  },
+  "108276786": {
+   "fragment_id": "108276882",
+   "type": 1,
+   "heading": "Capítulo IV — Duração da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Duração da prestação"
+  },
+  "108276787": {
+   "fragment_id": "108276883",
+   "type": 11,
+   "heading": "Artigo 23.º — Início do direito à prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Início do direito à prestação\n\n1 - A prestação é devida a partir do início do mês em que foi apresentado o requerimento, devidamente instruído, sem prejuízo do disposto no n.º 5.\n\n2 - Considera-se que o requerimento está devidamente instruído na data em que é apresentado o último documento comprovativo das condições de atribuição necessárias ao reconhecimento do direito, sem prejuízo do disposto no número seguinte.\n\n3 - Nas situações em que o titular, na data em que apresenta o requerimento, junta comprovativo do pedido de certificação da deficiência antes de perfazer 55 anos, o requerimento considera-se devidamente instruído se não faltar qualquer outro documento comprovativo das condições de atribuição da prestação, desde que venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 %, sem prejuízo do disposto no número seguinte.\n\n4 - O requerimento considera-se, ainda, devidamente instruído nas situações em que o titular, com 55 ou mais anos de idade, junte comprovativo da interposição do recurso da avaliação da incapacidade da junta médica, desde que não falte qualquer outro documento comprovativo das condições de atribuição da prestação e que venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 % em sede de avaliação de junta médica de recurso.\n\n5 - Nas situações em que o titular junta comprovativo do pedido de certificação da deficiência, o deferimento fica dependente da apresentação do original do atestado médico de incapacidade multiúso, sendo a prestação devida a partir do mês de entrega do documento de certificação.\n\n6 - Nas situações em que o grau de incapacidade igual ou superior a 60 % tenha resultado de junta médica de recurso, a prestação é devida desde o início do mês em que ocorreu a certificação objeto de recurso."
+  },
+  "108276788": {
+   "fragment_id": "108276884",
+   "type": 11,
+   "heading": "Artigo 24.º — Período de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Período de concessão\n\nA prestação é concedida enquanto se mantiverem as condições que deram origem à sua atribuição."
+  },
+  "108276789": {
+   "fragment_id": "108276885",
+   "type": 11,
+   "heading": "Artigo 25.º — Reavaliação da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reavaliação da prestação\n\n1 - A prestação é reavaliada, oficiosamente, após o decurso de 12 meses da data do seu início ou da data da reavaliação.\n\n2 - A prestação é ainda reavaliada sempre que o titular da prestação comunique à entidade gestora competente da segurança social a alteração:\n\na) Da composição do agregado familiar;\n\nb) Dos rendimentos do agregado familiar;\n\nc) Dos valores de referência e dos limites máximos de acumulação previstos nos artigos 18.º, 20.º e 21.º;\n\nd) Do grau de incapacidade."
+  },
+  "108276790": {
+   "fragment_id": "108276886",
+   "type": 11,
+   "heading": "Artigo 26.º — Efeitos da reavaliação da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Efeitos da reavaliação da prestação\n\n1 - Da reavaliação da prestação pode resultar a alteração do seu montante, bem como a sua suspensão ou cessação.\n\n2 - Os efeitos da reavaliação previstos no número anterior ocorrem no mês seguinte àquele em que se verifiquem as circunstâncias determinantes daquelas situações, salvo o disposto nos números seguintes.\n\n3 - Sempre que a comunicação da alteração das circunstâncias não seja efetuada no prazo previsto no artigo 32.º, os respetivos efeitos só se verificam no mês seguinte ao da comunicação, nos casos em que a reavaliação da prestação determine um aumento do respetivo montante.\n\n4 - A reavaliação da prestação determinada pela alteração dos valores de referência da componente base ou do complemento ou dos limites de acumulação produz efeitos no mês em que estas alterações se verifiquem."
+  },
+  "108276791": {
+   "fragment_id": "108276887",
+   "type": 11,
+   "heading": "Artigo 27.º — Suspensão e retoma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Suspensão e retoma\n\n1 - O direito à componente base da prestação suspende-se quando se verifique uma das seguintes situações:\n\na) No termo da validade do atestado médico de incapacidade multiúso, salvo se o titular apresentar comprovativo de que requereu a reavaliação até 180 dias antes daquela data ou se se encontrava impossibilitado por motivos de doença de requerer a reavaliação durante aquele período ou em período posterior;\n\nb) O titular da prestação deixe de ter residência habitual em Portugal se for cidadão nacional ou deixe de ter residência legal em Portugal se for cidadão estrangeiro ou apátrida;\n\nc) Ausência do território nacional por período superior a 30 dias por ano, salvo se a ausência for motivada por razões de saúde, estudos ou formação profissional;\n\nd) O titular da prestação não faculte a informação requerida pelos serviços relativamente aos seus rendimentos próprios, caso tenha um grau de incapacidade inferior a 80 %;\n\ne) Não sejam disponibilizados pelo titular os elementos comprovativos das condições de atribuição relevantes para a avaliação do direito à manutenção da prestação;\n\nf) Não haver provas da existência de falsas declarações por parte do titular ou da pessoa referida no artigo 31.º\n\n2 - O direito ao complemento suspende-se quando se verifique uma das seguintes situações:\n\na) Suspensão da componente base;\n\nb) Não disponibilização pelo titular dos elementos comprovativos das condições de atribuição relevantes para a avaliação do direito à manutenção do complemento;\n\nc) Cumprimento de prisão preventiva ou de pena de prisão em estabelecimento prisional;\n\nd) Institucionalização em equipamento social financiado pelo Estado ou em família de acolhimento.\n\n3 - A suspensão do direito à prestação, nos termos dos números anteriores, não prejudica a sua retoma, oficiosamente ou por solicitação do interessado, quando se voltem a verificar os condicionalismos de atribuição.\n\n4 - A suspensão e a retoma da prestação têm lugar no mês seguinte àquele em que a entidade gestora competente da segurança social tem conhecimento dos factos que determinaram aquelas situações, ou do pedido de retoma apresentado pelo interessado."
+  },
+  "108276792": {
+   "fragment_id": "108276888",
+   "type": 11,
+   "heading": "Artigo 28.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cessação\n\n1 - O direito à componente base e ao complemento da prestação cessa quando, relativamente a cada uma, se verifique uma das seguintes situações:\n\na) Deixe de se verificar alguma das condições de atribuição que não dê lugar à suspensão;\n\nb) Alteração do grau de incapacidade para percentagem inferior aos valores previstos na alínea c) do n.º 1 e no n.º 2 do artigo 15.º;\n\nc) Decorridos 180 dias após o início da suspensão sem que tenha sido suprida ou deixe de se verificar a causa da suspensão;\n\nd) Por desistência;\n\ne) Por morte do titular.\n\n2 - A cessação da componente base implica a cessação do complemento.\n\n3 - Os efeitos da cessação reportam-se ao início do mês seguinte àquele em que ocorra a causa da cessação, sem prejuízo do disposto no número seguinte.\n\n4 - A cessação do direito à prestação decorrente da alteração do grau de incapacidade produz efeitos a partir do início do mês seguinte ao do termo do prazo previsto no artigo 33.º"
+  },
+  "108276793": {
+   "fragment_id": "108276889",
+   "type": 1,
+   "heading": "Capítulo V — Acumulação da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Acumulação da prestação"
+  },
+  "108276794": {
+   "fragment_id": "108276890",
+   "type": 11,
+   "heading": "Artigo 29.º — Acumulação com outras prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Acumulação com outras prestações\n\nA prestação pode acumular com as seguintes prestações, sem prejuízo da aplicação das regras de atribuição de cada uma das componentes da prestação:\n\na) Pensões do sistema previdencial, do regime de proteção social convergente e pensões de regimes estrangeiros;\n\nb) Pensões de viuvez;\n\nc) Prestações por encargos familiares;\n\nd) Subsídio por frequência de estabelecimento de educação especial;\n\ne) Complemento por dependência;\n\nf) Complemento por cônjuge a cargo,\n\ng) Rendimento social de inserção;\n\nh) Prestações substitutivas de rendimentos de trabalho do sistema previdencial;\n\ni) Prestações de desemprego e de parentalidade do subsistema de solidariedade;\n\nj) Indemnizações e pensões por acidente de trabalho e doença profissional;\n\nk) Indemnizações por responsabilidade civil de terceiro."
+  },
+  "108276795": {
+   "fragment_id": "108276891",
+   "type": 1,
+   "heading": "Capítulo VI — Processamento e administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Processamento e administração"
+  },
+  "108276796": {
+   "fragment_id": "108276892",
+   "type": 11,
+   "heading": "Artigo 30.º — Requerimento da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Requerimento da prestação\n\n1 - A atribuição da prestação depende da apresentação de requerimento, em modelo próprio, junto das entidades gestoras competentes da segurança social, devidamente instruído com os elementos de prova relativos às condições de atribuição.\n\n2 - O titular da prestação deve declarar se foi requerida ou atribuída prestação destinada à proteção social na deficiência e, em caso afirmativo, por que regime de proteção social nacional ou estrangeiro e, caso a esteja a receber, respetivo montante.\n\n3 - O titular da prestação deve declarar os seus rendimentos, bem como a composição do seu agregado familiar e respetivos rendimentos."
+  },
+  "108276797": {
+   "fragment_id": "108276893",
+   "type": 11,
+   "heading": "Artigo 31.º — Legitimidade para requerer a prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Legitimidade para requerer a prestação\n\n1 - A prestação pode ser requerida pelo próprio ou pelo seu representante legal, sem prejuízo do disposto no número seguinte.\n\n2 - Tem ainda legitimidade para requerer a prestação outra pessoa que preste ou se disponha a prestar assistência à pessoa com deficiência, sempre que esta seja incapaz e se encontre a aguardar a nomeação do respetivo representante legal, sem prejuízo do disposto no número seguinte.\n\n3 - A pessoa referida no número anterior deve instruir o requerimento da prestação com documento comprovativo de que interpôs processo judicial de suprimento da incapacidade da pessoa com deficiência."
+  },
+  "108276798": {
+   "fragment_id": "108276894",
+   "type": 11,
+   "heading": "Artigo 32.º — Deveres dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Deveres dos beneficiários\n\n1 - O titular da prestação ou a pessoa prevista no artigo anterior devem declarar aos serviços da entidade gestora competente da segurança social, no prazo de 10 dias úteis a contar da data da respetiva ocorrência, as situações determinantes de alteração, suspensão ou cessação da prestação, que se reportem, designadamente:\n\na) À composição do agregado familiar;\n\nb) Aos rendimentos;\n\nc) Ao grau de incapacidade;\n\nd) À residência;\n\ne) Ao início ou fim da atividade profissional;\n\nf) Ao início ou fim da frequência de resposta social, prevista na alínea a) do artigo 16.º\n\n2 - O titular da prestação ou a pessoa prevista no artigo anterior estão obrigados a comunicar à entidade gestora competente da segurança social os períodos de ausência do território nacional, bem como os motivos justificativos da ausência, para efeitos do disposto na alínea c) do n.º 1 do artigo 27.º"
+  },
+  "108276799": {
+   "fragment_id": "108276895",
+   "type": 11,
+   "heading": "Artigo 33.º — Meios de prova em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Meios de prova em geral\n\n1 - A identidade, o estado civil e o parentesco comprovam-se por apresentação do documento de identificação civil ou de certidão do registo civil.\n\n2 - As restantes provas devem fazer-se por declaração ou constar, conforme os casos, de certidões, atestados ou documentos certificados pelas entidades competentes.\n\n3 - A comprovação dos rendimentos é efetuada através da interconexão de dados entre os serviços da administração fiscal e as instituições da segurança social, nos termos definidos na lei.\n\n4 - As provas necessárias ao reconhecimento ou manutenção do direito à prestação devem ser apresentadas pelo requerente ou titular ou pela pessoa prevista no artigo 31.º"
+  },
+  "108276800": {
+   "fragment_id": "108276896",
+   "type": 11,
+   "heading": "Artigo 34.º — Prova de deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Prova de deficiência\n\n1 - A prova de deficiência e a atribuição do grau de incapacidade, para efeitos do presente decreto-lei, é efetuada através de atestado médico de incapacidade multiúso, previsto no Decreto-Lei n.º 202/96, de 23 de outubro, alterado pelos Decretos-Leis n.os 174/97, de 19 de julho, e 291/2009, de 12 de outubro.\n\n2 - A prova de deficiência e a atribuição do grau de incapacidade pode, ainda, ser efetuada pela apresentação de declaração de incapacidade, emitida pelas autoridades de saúde, desde que a certificação da deficiência seja anterior à data da entrada em vigor do modelo de atestado médico de incapacidade multiúso, aprovado pelo Despacho n.º 26432/2009, de 4 de dezembro.\n\n3 - A prova de deficiência e do grau de incapacidade dos deficientes das forças armadas faz-se através da apresentação do respetivo cartão de identificação, desde que obtido em data anterior à entrada em vigor do presente decreto-lei."
+  },
+  "108276801": {
+   "fragment_id": "108276897",
+   "type": 11,
+   "heading": "Artigo 35.º — Falta de provas ou declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Falta de provas ou declarações\n\n1 - Sempre que a entidade gestora competente da segurança social verifique a falta de algum documento probatório necessário ao reconhecimento do direito, comunica o facto ao interessado.\n\n2 - Da referida comunicação deve constar que a não apresentação do documento em falta, no prazo de 10 dias úteis a contar da data da notificação, determina a suspensão do procedimento de atribuição da prestação, nos termos do Código do Procedimento Administrativo, sem prejuízo do disposto no número seguinte.\n\n3 - Quando o documento em falta for o atestado médico de incapacidade multiúso, a comunicação referida no número anterior só deve ocorrer se não tiver sido entregue o documento comprovativo do pedido de certificação, sem prejuízo do disposto no número seguinte.\n\n4 - Findo o prazo de um ano após a data da apresentação do pedido de certificação de incapacidade, sem que o atestado médico de incapacidade multiúso seja junto ao processo, suspende-se o procedimento administrativo de atribuição da prestação, nos termos e para os efeitos previstos no Código do Procedimento Administrativo."
+  },
+  "108276802": {
+   "fragment_id": "108276898",
+   "type": 11,
+   "heading": "Artigo 36.º — Pagamento da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Pagamento da prestação\n\n1 - O pagamento da prestação é efetuado mensalmente ao respetivo titular ou ao seu representante legal, sem prejuízo do disposto nos números seguintes.\n\n2 - A prestação pode ser paga diretamente à pessoa que preste ou se disponha a prestar assistência ao titular do direito, quando este seja incapaz e, desde que aquela comprove, ter interposto ação judicial de suprimento da incapacidade da pessoa com deficiência.\n\n3 - Sempre que o montante mensal da prestação a atribuir seja inferior a (euro) 5, só há lugar a pagamento quando os valores mensais acumulados atinjam aquele valor.\n\n4 - Sempre que o montante mensal da prestação a atribuir seja inferior a (euro) 1, considera-se este como o valor mensal da prestação a atribuir."
+  },
+  "108276803": {
+   "fragment_id": "108276899",
+   "type": 11,
+   "heading": "Artigo 37.º — Prazo de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Prazo de prescrição\n\n1 - O prazo de prescrição do direito às prestações vencidas é de cinco anos, findo o qual revertem a favor da entidade gestora competente da segurança social.\n\n2 - Para efeito do disposto no número anterior, considera-se que a contagem do prazo se inicia no dia seguinte àquele em que as prestações foram colocadas a pagamento, com conhecimento do credor.\n\n3 - São equiparadas a prestações colocadas a pagamento as que se encontrem legalmente suspensas por incumprimento de obrigações imputável ao titular do direito ou à pessoa a quem a prestação é paga."
+  },
+  "108276804": {
+   "fragment_id": "108276900",
+   "type": 11,
+   "heading": "Artigo 38.º — Compensação da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Compensação da prestação\n\nNas situações de pagamento indevido da prestação pode haver compensação com outras prestações ou com a própria prestação, nos termos do regime jurídico da responsabilidade emergente do recebimento de prestações indevidas."
+  },
+  "108276805": {
+   "fragment_id": "108276901",
+   "type": 1,
+   "heading": "Capítulo VII — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Alterações legislativas"
+  },
+  "108276806": {
+   "fragment_id": "108276902",
+   "type": 11,
+   "heading": "Artigo 39.º — Alteração à Lei n.º 13/2003, de 21 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Alteração à Lei n.º 13/2003, de 21 de maio\n\nO artigo 15.º da Lei n.º 13/2003, de 21 de maio, alterada pela Lei n.º 45/2005, de 29 de agosto, e pelos Decretos-Leis n.os 70/2010, de 16 de junho, 133/2012, de 27 de junho, 1/2016, de 6 de janeiro, e 90/2017, de 28 de julho, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\n15 - Para efeitos de determinação dos rendimentos e consequente cálculo do montante da prestação de rendimento social de inserção, é ainda considerado o valor do complemento da prestação social para a inclusão.»"
+  },
+  "108276807": {
+   "fragment_id": "108276903",
+   "type": 11,
+   "heading": "Artigo 40.º — Alteração ao Decreto-Lei n.º 160/80, de 27 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Alteração ao Decreto-Lei n.º 160/80, de 27 de maio\n\nOs artigos 2.º e 13.º do Decreto-Lei n.º 160/80, de 27 de maio, alterado pelos Decretos-Leis n.os 133-C/97, de 30 de maio, e 265/99, de 14 de julho, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n[...]:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) Pensão social de velhice;\n\ne) [...]\n\nf) [...].\n\nArtigo 13.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - A pensão social de velhice não é cumulável com as restantes prestações pecuniárias previstas no presente decreto-lei, com exceção do subsídio por assistência de terceira pessoa, nem com a prestação social para a inclusão.»"
+  },
+  "108276808": {
+   "fragment_id": "108276904",
+   "type": 11,
+   "heading": "Artigo 41.º — Alteração ao Decreto-Lei n.º 133-B/97, de 30 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Alteração ao Decreto-Lei n.º 133-B/97, de 30 de maio\n\nOs artigos 5.º, 10.º, 23.º e 61.º do Decreto-Lei n.º 133-B/97, de 30 de maio, alterado pelos Decretos-Leis n.os 248/99, de 2 de julho, 341/99, de 25 de agosto, 250/2001, de 21 de setembro, e 176/2003, de 2 de agosto, pela Lei n.º 82-B/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 25/2017, de 3 de março, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\nAs prestações enunciadas nas alíneas b) e d) do n.º 1 do artigo anterior atribuem-se de forma continuada.\n\nArtigo 10.º\n\n[...]\n\nO subsídio por assistência de terceira pessoa é uma prestação mensal que se destina a compensar o acréscimo de encargos familiares resultantes da situação de dependência dos titulares de subsídio familiar a crianças e jovens, com bonificação por deficiência que exijam o acompanhamento permanente de terceira pessoa.\n\nArtigo 23.º\n\n[...]\n\nSão condições especiais de atribuição do subsídio por assistência de terceira pessoa que o titular de subsídio familiar a crianças e jovens beneficie de bonificação por deficiência e se encontre em situação de dependência.\n\nArtigo 61.º\n\n[...]\n\n1 - A prova da deficiência para atribuição da bonificação por deficiência do subsídio familiar a crianças e jovens é efetuada:\n\na) No âmbito da segurança social, através de certificação por equipas multidisciplinares de avaliação médico-pedagógica ou, não as havendo, por médico especialista da deficiência em causa, ou pelo médico assistente, se não for possível o recurso às primeiras modalidades referidas;\n\nb) [...].\n\n2 - [...].»"
+  },
+  "108276809": {
+   "fragment_id": "108276905",
+   "type": 11,
+   "heading": "Artigo 42.º — Alteração ao Decreto-Lei n.º 265/99, de 14 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Alteração ao Decreto-Lei n.º 265/99, de 14 de julho\n\nOs artigos 2.º, 5.º, 10.º e 17.º do Decreto-Lei n.º 265/99, de 14 de julho, alterado pelos Decretos-Leis n.os 309-A/2000, de 30 de novembro, 13/2013, de 25 de janeiro, e 246/2015, de 20 de outubro, e pela Lei n.º 6/2016, de 17 de março, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - São abrangidos pelo presente diploma, desde que se encontrem em situação de dependência:\n\na) Os pensionistas de invalidez, velhice e sobrevivência do regime geral de segurança social e do regime do seguro social voluntário;\n\nb) Os pensionistas de velhice e de sobrevivência do regime não contributivo e equiparados;\n\nc) Os titulares da prestação social para a inclusão;\n\nd) Os aposentados por invalidez do regime de proteção social convergente no âmbito do regime especial de proteção na invalidez.\n\n2 - [...].\n\nArtigo 5.º\n\n[...]\n\n1 - A assistência às pessoas que integram o âmbito pessoal do presente diploma pode ser assegurada através da participação, sucessiva e conjugada, de várias pessoas, incluindo a prestada no âmbito de apoio domiciliário ou de outros serviços de ajuda a pessoas em situação de dependência, tais como os serviços de telealarme.\n\n2 - [...].\n\n3 - [...].\n\nArtigo 10.º\n\n[...]\n\nA concessão do complemento por dependência é suspensa quando:\n\na) Ocorra uma das causas determinantes da suspensão da concessão das prestações previstas no artigo 2.º, nos termos dos respetivos regimes jurídicos;\n\nb) [...]\n\nc) [...].\n\nArtigo 17.º\n\n[...]\n\n1 - [...].\n\n2 - O requerimento pode ser apresentado conjuntamente com o das prestações previstas no artigo 2.º a que o interessado tenha direito ou, a todo o tempo, se posteriormente.\n\n3 - [...].»"
+  },
+  "108276810": {
+   "fragment_id": "108276906",
+   "type": 11,
+   "heading": "Artigo 43.º — Alteração ao Decreto-Lei n.º 208/2001, de 27 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Alteração ao Decreto-Lei n.º 208/2001, de 27 de julho\n\nOs artigos 2.º, 3.º e 6.º do Decreto-Lei n.º 208/2001, de 27 de julho, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - São abrangidos pelo presente diploma os titulares das prestações dos regimes não contributivos e equiparados, com exclusão dos titulares que beneficiem de pensões cujo montante corresponda ao valor da pensão mínima do regime geral.\n\n2 - (Revogado.)\n\nArtigo 3.º\n\n[...]\n\n1 - O complemento extraordinário de solidariedade acresce ao montante da pensão social de velhice do regime não contributivo e de regimes equiparados, ainda que reduzidas por aplicação do disposto no artigo 9.º do Decreto-Lei n.º 464/80, de 13 de outubro.\n\n2 - (Revogado.)\n\nArtigo 6.º\n\nValores indexados à pensão social de velhice\n\n[...]:\n\na) Na determinação do quantitativo de quaisquer outras prestações, cujo montante seja indexado ao valor da pensão social de velhice do regime não contributivo;\n\nb) Na fixação de quaisquer valores referenciais, indexados à pensão referida na alínea anterior, designadamente para acesso ou acumulação de prestações;\n\nc) [...].»"
+  },
+  "108276811": {
+   "fragment_id": "108276907",
+   "type": 11,
+   "heading": "Artigo 44.º — Alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro\n\nOs artigos 2.º, 4.º e 11.º do Decreto-Lei n.º 232/2005, alterado pelos Decretos-Leis n.os 236/2006, de 11 de dezembro, 151/2009, de 30 de junho, 167-E/2013, de 31 de dezembro, e 254-B/2015, de 31 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - Têm direito ao complemento solidário para idosos os titulares de pensões de invalidez, velhice e sobrevivência ou equiparadas de qualquer sistema de proteção social nacional ou estrangeiro, que residam legalmente em território nacional e satisfaçam as condições previstas no presente decreto-lei.\n\n2 - [...].\n\nArtigo 4.º\n\n[...]\n\n1 - [...]:\n\na) Ser pensionista de velhice ou de sobrevivência e ter idade igual ou superior à idade normal de acesso à pensão do regime geral de segurança social, sem prejuízo do disposto na alínea seguinte;\n\nb) Ser pensionista de invalidez e não ser titular da prestação social para a inclusão;\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\n2 - A condição prevista na alínea c) do número anterior não é aplicável aos cidadãos nacionais que tenham exercido a sua última atividade profissional no estrangeiro, desde que preencham, cumulativamente, as seguintes condições:\n\na) [...]\n\nb) [...]\n\nc) [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\nArtigo 11.º\n\n[...]\n\n1 - [...]:\n\na) Não verificação da condição estabelecida na alínea d) do n.º 1 do artigo 4.º, nos termos do disposto no artigo 20.º;\n\nb) [...]\n\nc) [...]\n\nd) [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].»"
+  },
+  "108276812": {
+   "fragment_id": "108276908",
+   "type": 11,
+   "heading": "Artigo 45.º — Alteração ao Decreto Regulamentar n.º 3/2006, de 6 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Alteração ao Decreto Regulamentar n.º 3/2006, de 6 de fevereiro\n\nOs artigos 4.º e 10.º do Decreto Regulamentar n.º 3/2006, de 6 de fevereiro, alterado pelos Decretos Regulamentares n.os 14/2007, de 20 de março, e 17/2008, de 26 de agosto, e pelo Decreto-Lei n.º 151/2009, de 30 de junho, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - A contagem do prazo referido na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, faz-se de forma contínua e ininterrupta, observando-se a condição de residência em território nacional de, pelo menos, 270 dias em cada ano civil.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\nArtigo 10.º\n\n[...]\n\nA condição de recursos do requerente para acesso ao complemento solidário para idosos prevista na alínea d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, verifica-se sempre que:\n\na) [...]\n\nb) [...]\n\nc) [...].»"
+  },
+  "108276813": {
+   "fragment_id": "108276909",
+   "type": 11,
+   "heading": "Artigo 46.º — Alteração à Portaria n.º 764/99, de 27 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Alteração à Portaria n.º 764/99, de 27 de agosto\n\nO artigo 3.º da Portaria n.º 764/99, de 27 de agosto, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\nO complemento por dependência é atribuído às pessoas previstas no artigo 2.º que se encontrem em situação de dependência determinante da necessidade de assistência de outrem, certificada por comissão de verificação constituída nos termos do artigo 18.º do Decreto-Lei n.º 360/97, de 27 de dezembro.»"
+  },
+  "108276814": {
+   "fragment_id": "108276910",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições complementares, finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições complementares, finais e transitórias"
+  },
+  "108276815": {
+   "fragment_id": "108276911",
+   "type": 11,
+   "heading": "Artigo 47.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Contraordenações\n\n1 - As falsas declarações ou omissões relativas às situações previstas nos artigos 27.º, 28.º e 32.º, de que resulte concessão indevida de prestações, constituem contraordenação punível com coima de (euro) 100 a (euro) 250.\n\n2 - As falsas declarações relativas às situações previstas nos artigos 32.º e 34.º constituem contraordenação punível com coima de (euro) 250 a (euro) 2.494."
+  },
+  "108276816": {
+   "fragment_id": "108276912",
+   "type": 11,
+   "heading": "Artigo 48.º — Conversão das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Conversão das prestações\n\n1 - Ao titular de subsídio mensal vitalício e respetivo complemento extraordinário de solidariedade do sistema de segurança social passa a ser atribuída, oficiosamente, a prestação, com garantia do valor de referência anual da componente base, independentemente do grau de incapacidade ou da inexistência de atestado médico de incapacidade multiúso e do nível de rendimentos, a partir da data prevista no n.º 1 do artigo 54.º\n\n2 - Aos titulares de pensão social de invalidez e pensão de invalidez dos regimes transitórios dos trabalhadores agrícolas e respetivo complemento extraordinário de solidariedade passa a ser atribuída, oficiosamente, a prestação, com garantia do valor de referência anual da componente base, independentemente do grau de incapacidade ou da inexistência de atestado médico de incapacidade multiúso e do nível de rendimentos, a partir de 1 de janeiro de 2018, sem prejuízo do disposto no número seguinte.\n\n3 - Os rendimentos dos titulares da prestação, cuja atribuição oficiosa resultou da conversão da pensão social de invalidez, são objeto de reavaliação oficiosa, após o decurso de três anos a contar da data da atribuição oficiosa e, posteriormente, anualmente, salvo se aqueles comprovarem, através de atestado médico de incapacidade multiúso, que o seu grau de incapacidade é igual ou superior a 80 %.\n\n4 - A atribuição e manutenção do complemento previsto no n.º 3 do artigo 5.º, nas situações previstas nos números anteriores, dependem de certificação de deficiência com grau de incapacidade igual ou superior a 60 % e de avaliação de rendimentos nos termos do artigo 11.º\n\n5 - Aos requerentes de subsídio mensal vitalício do sistema de segurança social e de pensão social de invalidez, cujos requerimentos estejam dependentes de decisão à data da entrada em vigor do presente decreto-lei, em caso de deferimento, é garantido o direito às respetivas prestações, as quais são convertidas, oficiosamente, na prestação, imediatamente após a sua atribuição, com produção de efeitos a partir da data prevista no n.º 1 do artigo 54.º, no caso de requerentes de subsídio mensal vitalício e a partir de 1 de janeiro de 2018, no caso de requerentes de pensão social de invalidez."
+  },
+  "108276817": {
+   "fragment_id": "108276913",
+   "type": 11,
+   "heading": "Artigo 49.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Salvaguarda de direitos\n\n1 - Os titulares da prestação em resultado da conversão prevista n.º 1 do artigo anterior e n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do complemento solidário para idosos podem manter o direito a este complemento, o qual é revisto nos termos previstos no respetivo regime jurídico.\n\n2 - Os titulares da prestação em resultado da conversão prevista no n.º 1 do artigo anterior e no n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio.\n\n3 - Os titulares da prestação em resultado da conversão do subsídio mensal vitalício e da pensão de invalidez dos regimes transitórios dos trabalhadores agrícolas mantêm os direitos adquiridos no que respeita ao pagamento da componente base da prestação fora do território nacional.\n\n4 - Os titulares da prestação em resultado da conversão prevista no n.º 2 do artigo anterior, mantêm o direito a legarem pensão de viuvez e de orfandade nos termos do respetivo regime jurídico, por referência ao valor da pensão social.\n\n5 - Aos titulares da prestação, em resultado da conversão prevista no n.º 5 do artigo anterior, aplica-se a salvaguarda de direitos, prevista nos n.os 1, 2, 3 e 4.\n\n6 - Os requerentes da prestação que sejam titulares de bonificação por deficiência mantêm o direito à bonificação enquanto não lhes for deferida a prestação, sendo esta devida a partir do mês seguinte ao do seu deferimento.\n\n7 - Os titulares da bonificação por deficiência que cumpram as condições de atribuição da prestação podem requerer esta prestação, a qual é devida a partir do mês seguinte ao do seu deferimento.\n\n8 - Os titulares da bonificação por deficiência que sejam também titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio após o deferimento da prestação social para a inclusão."
+  },
+  "108276818": {
+   "fragment_id": "108276914",
+   "type": 11,
+   "heading": "Artigo 50.º — Interconexão de dados entre a segurança social e a saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Interconexão de dados entre a segurança social e a saúde\n\n1 - Com vista à atribuição da prestação, o Governo pode estabelecer a interconexão de dados entre os serviços da segurança social e os serviços da saúde, por forma a facilitar o acesso a dados registados nas suas bases de dados.\n\n2 - As categorias dos titulares e dos dados a analisar, bem como o acesso, a comunicação e o tratamento de dados entre as entidades referidas no número anterior, realiza-se nos termos do protocolo estabelecido entre as mesmas, sujeito a autorização da Comissão Nacional de Proteção de Dados."
+  },
+  "108276819": {
+   "fragment_id": "108276915",
+   "type": 11,
+   "heading": "Artigo 51.º — Remissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Remissão\n\nAs referências feitas na legislação às prestações objeto da conversão prevista no artigo 48.º devem entender-se como feitas para a prestação regulada no presente decreto-lei."
+  },
+  "108276820": {
+   "fragment_id": "108276916",
+   "type": 11,
+   "heading": "Artigo 52.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Norma transitória\n\n1 - Aos beneficiários do regime de proteção social convergente que à data da entrada em vigor do presente decreto-lei sejam titulares do subsídio mensal vitalício e respetivo complemento extraordinário de solidariedade, continua a manter-se a atribuição destas prestações, até 31 de dezembro de 2023.\n\n2 - Os titulares do subsídio mensal vitalício e respetivo complemento extraordinário de solidariedade atribuídos no âmbito do regime de proteção social convergente, devem, no prazo de seis anos a partir da data prevista no n.º 1 do artigo 54.º, solicitar a conversão daquelas prestações na prestação social para a inclusão, junto das entidades gestoras competentes da segurança social, considerando-se oficiosamente cumpridas as condições de atribuição relativas ao grau de incapacidade e ao nível de rendimentos para efeito de atribuição e manutenção da componente base.\n\n3 - Na situação prevista no número anterior, a prestação social para a inclusão é devida a partir do mês seguinte ao do deferimento do requerimento da conversão das prestações, devendo a entidade gestora competente da segurança social informar o respetivo serviço processador da data a partir da qual passa a ser paga ao requerente a prestação social para a inclusão, para efeitos de cessação daquelas prestações.\n\n4 - Aos titulares do subsídio mensal vitalício e do complemento extraordinário de solidariedade previstos no n.º 1 é garantido o valor de referência anual da componente base da prestação até à conversão prevista no n.º 2.\n\n5 - Os titulares da prestação podem requerer o complemento solidário para idosos, até 30 de setembro de 2018, desde que cumpram as condições de atribuição previstas no regime jurídico que regula o complemento solidário para idosos, sem prejuízo do disposto no número seguinte.\n\n6 - A partir de 1 de outubro de 2018, os titulares da prestação que acumulem esta prestação com o complemento solidário para idosos e pretendam requerer o complemento da prestação, devem optar por um deles.\n\n7 - Durante o primeiro semestre de execução da prestação, é dada precedência na atribuição da prestação aos requerentes que apresentem um grau de incapacidade igual ou superior a 80 %."
+  },
+  "108276821": {
+   "fragment_id": "108276917",
+   "type": 11,
+   "heading": "Artigo 53.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 2 do artigo 8.º do Decreto-Lei n.º 160/80, de 27 de maio, alterado pelos Decretos-Leis n.os 133-C/97, de 30 de maio, e 265/99, de 14 de julho;\n\nb) Os artigos 5.º e 6.º do Decreto-Lei n.º 464/80, de 13 de outubro, alterado pelos Decretos-Leis n.os 141/91, de 10 de abril, e 18/2002, de 29 de janeiro, pela Lei n.º 3-B/2010, de 28 de abril, e pelo Decreto-Lei n.º 167-E/2013, de 31 de dezembro;\n\nc) A alínea c) do n.º 1 do artigo 4.º, os artigos 9.º e 22.º, a alínea a) do artigo 29.º e o n.º 3 do artigo 45.º do Decreto-Lei n.º 133-B/97, de 30 de maio, alterado pelos Decretos-Leis n.os 248/99, de 2 de julho, 341/99, de 25 de agosto, 250/2001, de 21 de setembro, e 176/2003, de 2 de agosto, pela Lei n.º 82-B/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 25/2017, de 3 de março;\n\nd) A alínea d) do n.º 1 do artigo 1.º do Decreto-Lei n.º 360/97, de 17 de dezembro, alterado pelos Decretos-Leis n.os 165/99, de 13 de maio, e 377/2007, de 9 de novembro;\n\ne) O n.º 2 do artigo 2.º e o n.º 2 do artigo 3.º do Decreto-Lei n.º 208/2001, de 27 de julho."
+  },
+  "108276822": {
+   "fragment_id": "108276918",
+   "type": 11,
+   "heading": "Artigo 54.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de outubro de 2017, sem prejuízo do disposto nos números seguintes.\n\n2 - As normas relativas à atribuição do complemento da prestação social para a inclusão entram em vigor em 1 de outubro de 2018.\n\n3 - Os artigos 44.º e 45.º do presente decreto-lei entram em vigor no dia 1 de outubro de 2018 e produzem efeitos nos termos a definir por decreto regulamentar."
+  },
+  "115324998": {
+   "fragment_id": "108269673",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições gerais de atribuição da prestação",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Condições gerais de atribuição da prestação\n\n1 - O reconhecimento do direito à prestação depende de a pessoa com deficiência cumprir as seguintes condições de atribuição:\n\na) Ter residência em território nacional nos termos do artigo 9.º;\n\nb) Ter 18 anos ou idade superior, sem prejuízo do disposto no n.º 4;\n\nc) Ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º, sem prejuízo do disposto no número seguinte.\n\n2 - Caso a pessoa com deficiência seja beneficiária de pensão de invalidez do sistema previdencial de segurança social, do regime de proteção social convergente ou de outro regime de proteção social de inscrição obrigatória nacional ou estrangeiro, o reconhecimento do direito à prestação depende daquela ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 80 %.\n\n3 - Para efeito do disposto na alínea b) do n.º 1, a idade do titular é aferida à data da apresentação do requerimento devidamente instruído.\n\n4 - O reconhecimento do direito à prestação entre os 55 anos e a idade normal de acesso à pensão de velhice em vigor depende de, comprovadamente, a certificação da deficiência ter sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente àquela idade.\n\n5 - Sem prejuízo do disposto no número anterior, o direito à prestação é, ainda, reconhecido nas situações em que comprovadamente, a pessoa com deficiência tenha interposto recurso da avaliação da incapacidade da junta médica requerida antes dos 55 anos, desde que o grau de incapacidade que resulte da decisão seja igual ou superior a 60 %.\n\n6 - O agravamento do grau de incapacidade para um valor igual ou superior a 80 % só releva se, comprovadamente, a certificação da deficiência que atesta o agravamento do grau de incapacidade tiver sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente.\n\n7 - Salvo o disposto em instrumento internacional a que Portugal se encontre vinculado ou em legislação especial, a prestação não é transferível para fora do território nacional.\n\n> Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "114215532": {
+   "fragment_id": "108276883",
+   "type": 11,
+   "heading": "Artigo 23.º — Início do direito à prestação",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 23.º — Início do direito à prestação\n\n1 - A prestação é devida a partir do início do mês em que foi apresentado o requerimento, devidamente instruído, sem prejuízo do disposto nos n.os 5 e 6.\n\n2 - Considera-se que o requerimento está devidamente instruído na data em que é apresentado o último documento comprovativo das condições de atribuição necessárias ao reconhecimento do direito, sem prejuízo do disposto no número seguinte.\n\n3 - Nas situações em que o titular, na data em que apresenta o requerimento, junta comprovativo do pedido de certificação da deficiência antes de perfazer 55 anos, o requerimento considera-se devidamente instruído se não faltar qualquer outro documento comprovativo das condições de atribuição da prestação, desde que venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 %, sem prejuízo do disposto no número seguinte.\n\n4 - O requerimento considera-se, ainda, devidamente instruído nas situações em que o titular, com 55 ou mais anos de idade, junte comprovativo da interposição do recurso da avaliação da incapacidade da junta médica, desde que não falte qualquer outro documento comprovativo das condições de atribuição da prestação e que venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 % em sede de avaliação de junta médica de recurso.\n\n5 - Nas situações em que o titular junta comprovativo do pedido de certificação da deficiência, o deferimento fica dependente da apresentação do original do atestado médico de incapacidade multiúso, sendo a prestação devida a partir do mês de entrega do documento de certificação.\n\n6 - Nas situações em que o grau de incapacidade igual ou superior a 60 % tenha resultado de junta médica de recurso, a prestação é devida desde o início do mês em que ocorreu a certificação objeto de recurso.\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "114215533": {
+   "fragment_id": "108276887",
+   "type": 11,
+   "heading": "Artigo 27.º — Suspensão e retoma",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 27.º — Suspensão e retoma\n\n1 - O direito à componente base da prestação suspende-se quando se verifique uma das seguintes situações:\n\na) No termo da validade do atestado médico de incapacidade multiúso, salvo se o titular apresentar comprovativo de que requereu a reavaliação até 180 dias antes daquela data ou se se encontrava impossibilitado por motivos de doença de requerer a reavaliação durante aquele período ou em período posterior;\n\nb) O titular da prestação deixe de ter residência habitual em Portugal se for cidadão nacional ou deixe de ter residência legal em Portugal se for cidadão estrangeiro ou apátrida;\n\nc) Ausência do território nacional por período superior a 30 dias por ano, salvo se a ausência for motivada por razões de saúde, estudos ou formação profissional;\n\nd) O titular da prestação não faculte a informação requerida pelos serviços relativamente aos seus rendimentos próprios, caso tenha um grau de incapacidade inferior a 80 %;\n\ne) Não sejam disponibilizados pelo titular os elementos comprovativos das condições de atribuição relevantes para a avaliação do direito à manutenção da prestação;\n\nf) Quando haja provas da existência de falsas declarações por parte do titular ou da pessoa referida no artigo 31.º\n\n2 - O direito ao complemento suspende-se quando se verifique uma das seguintes situações:\n\na) Suspensão da componente base;\n\nb) Não disponibilização pelo titular dos elementos comprovativos das condições de atribuição relevantes para a avaliação do direito à manutenção do complemento;\n\nc) Cumprimento de prisão preventiva ou de pena de prisão em estabelecimento prisional;\n\nd) Institucionalização em equipamento social financiado pelo Estado ou em família de acolhimento.\n\n3 - A suspensão do direito à prestação, nos termos dos números anteriores, não prejudica a sua retoma, oficiosamente ou por solicitação do interessado, quando se voltem a verificar os condicionalismos de atribuição.\n\n4 - A suspensão e a retoma da prestação têm lugar no mês seguinte àquele em que a entidade gestora competente da segurança social tem conhecimento dos factos que determinaram aquelas situações, ou do pedido de retoma apresentado pelo interessado.\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "114215534": {
+   "fragment_id": "108276888",
+   "type": 11,
+   "heading": "Artigo 28.º — Cessação",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 28.º — Cessação\n\n1 - O direito à componente base e ao complemento da prestação cessa quando, relativamente a cada uma, se verifique uma das seguintes situações:\n\na) Deixe de se verificar alguma das condições de atribuição que não dê lugar à suspensão;\n\nb) Alteração do grau de incapacidade para percentagem inferior aos valores previstos na alínea c) do n.º 1 e no n.º 2 do artigo 15.º;\n\nc) Decorridos 180 dias após o início da suspensão sem que tenha sido suprida ou deixe de se verificar a causa da suspensão;\n\nd) Por desistência;\n\ne) Por morte do titular.\n\n2 - A cessação da componente base implica a cessação do complemento.\n\n3 - Os efeitos da cessação reportam-se ao início do mês seguinte àquele em que ocorra a causa da cessação, sem prejuízo do disposto no número seguinte.\n\n4 - A cessação do direito à prestação decorrente da alteração do grau de incapacidade produz efeitos a partir do início do mês seguinte ao do termo do prazo previsto no artigo 32.º\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "114215535": {
+   "fragment_id": "108276911",
+   "type": 11,
+   "heading": "Artigo 47.º — Contraordenações",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 47.º — Contraordenações\n\n1 - As falsas declarações ou omissões relativas às situações previstas nos artigos 27.º, 28.º, 30.º e 33.º, de que resulte concessão indevida de prestações, constituem contraordenação punível com coima de (euro)100 a (euro)250.\n\n2 - As falsas declarações relativas às situações previstas nos artigos 32.º e 34.º constituem contraordenação punível com coima de (euro) 250 a (euro) 2.494.\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "108276823": {
+   "fragment_id": "108276919",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - José António Fonseca Vieira da Silva - Fernando Manuel Ferreira Araújo.\n\nPromulgado em 29 de setembro de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 3 de outubro de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "115324999": {
+   "fragment_id": "108269673",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições gerais de atribuição da prestação",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Condições gerais de atribuição da prestação\n\n1 - O reconhecimento do direito à prestação depende de a pessoa com deficiência cumprir as seguintes condições de atribuição:\n\na) Ter residência em território nacional nos termos do artigo 9.º;\n\nb) Ter 18 anos ou idade superior, sem prejuízo do disposto no n.º 4;\n\nc) Ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º, sem prejuízo do disposto no número seguinte.\n\n2 - Caso a pessoa com deficiência seja beneficiária de pensão de invalidez do sistema previdencial de segurança social, do regime de proteção social convergente ou de outro regime de proteção social de inscrição obrigatória nacional ou estrangeiro, o reconhecimento do direito à prestação depende daquela ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 80 %.\n\n3 - Para efeito do disposto na alínea b) do n.º 1, a idade do titular é aferida à data da apresentação do requerimento devidamente instruído.\n\n4 - O reconhecimento do direito à prestação às pessoas com 55 ou mais anos de idade depende de, comprovadamente, a certificação da deficiência da qual resulte um grau de incapacidade igual ou superior a 60 % ter sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente àquela idade.\n\n5 - Sem prejuízo do disposto no número anterior, o direito à prestação é, ainda, reconhecido nas situações em que comprovadamente, a pessoa com deficiência tenha interposto recurso da avaliação da incapacidade da junta médica requerida antes dos 55 anos, desde que o grau de incapacidade que resulte da decisão seja igual ou superior a 60 %.\n\n6 - O agravamento do grau de incapacidade para um valor igual ou superior a 80 % só releva se, comprovadamente, a certificação da deficiência que atesta o agravamento do grau de incapacidade tiver sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente.\n\n7 - Salvo o disposto em instrumento internacional a que Portugal se encontre vinculado ou em legislação especial, a prestação não é transferível para fora do território nacional.\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "115325000": {
+   "fragment_id": "108276885",
+   "type": 11,
+   "heading": "Artigo 25.º — Reavaliação da prestação",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 25.º — Reavaliação da prestação\n\n1 - A prestação é reavaliada, oficiosamente, após o decurso de 12 meses da data do seu início ou da data da reavaliação.\n\n2 - A prestação é ainda reavaliada sempre que o titular da prestação comunique à entidade gestora competente da segurança social a alteração:\n\na) Da composição do agregado familiar;\n\nb) Dos rendimentos do agregado familiar;\n\nc) [Revogada];\n\nd) Do grau de incapacidade.\n\n3 - A prestação é igualmente reavaliada sempre que haja alteração dos valores de referência e dos limites máximos de acumulação previstos nos artigos 18.º, 20.º e 21.º\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "115325001": {
+   "fragment_id": "108276890",
+   "type": 11,
+   "heading": "Artigo 29.º — Acumulação com outras prestações",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 29.º — Acumulação com outras prestações\n\nA prestação pode acumular com as seguintes prestações, sem prejuízo da aplicação das regras de atribuição de cada uma das componentes da prestação:\n\na) Pensões do sistema previdencial, do regime de proteção social convergente e pensões de regimes estrangeiros;\n\nb) Pensões de viuvez;\n\nc) Prestações por encargos familiares;\n\nd) Subsídio por frequência de estabelecimento de educação especial;\n\ne) Complemento por dependência;\n\nf) Complemento por cônjuge a cargo,\n\ng) Rendimento social de inserção;\n\nh) Prestações substitutivas de rendimentos de trabalho do sistema previdencial;\n\ni) Prestações de desemprego e de parentalidade do subsistema de solidariedade;\n\nj) Indemnizações e pensões por acidente de trabalho e doença profissional;\n\nk) Indemnizações por responsabilidade civil de terceiro.\n\nl) Subsídio por morte, do sistema previdencial.\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "115325002": {
+   "fragment_id": "108276913",
+   "type": 11,
+   "heading": "Artigo 49.º — Salvaguarda de direitos",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 49.º — Salvaguarda de direitos\n\n1 - Os titulares da prestação em resultado da conversão prevista n.º 1 do artigo anterior e n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do complemento solidário para idosos podem manter o direito a este complemento, o qual é revisto nos termos previstos no respetivo regime jurídico.\n\n2 - Os titulares da prestação em resultado da conversão prevista no n.º 1 do artigo anterior e no n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio.\n\n3 - Os titulares da prestação em resultado da conversão do subsídio mensal vitalício e da pensão de invalidez dos regimes transitórios dos trabalhadores agrícolas mantêm os direitos adquiridos no que respeita ao pagamento da componente base da prestação fora do território nacional.\n\n4 - Os titulares da prestação em resultado da conversão prevista no n.º 2 do artigo anterior, mantêm o direito a legarem pensão de viuvez e de orfandade nos termos do respetivo regime jurídico, por referência ao valor da pensão social.\n\n5 - Aos titulares da prestação, em resultado da conversão prevista no n.º 5 do artigo anterior, aplica-se a salvaguarda de direitos, prevista nos n.os 1, 2, 3 e 4.\n\n6 - Os requerentes da prestação que sejam titulares de bonificação por deficiência mantêm o direito à bonificação enquanto não lhes for deferida a prestação, sendo esta devida a partir do mês seguinte ao do seu deferimento.\n\n7 - Os titulares da bonificação por deficiência que cumpram as condições de atribuição da prestação podem requerer esta prestação, a qual é devida a partir do mês seguinte ao do seu deferimento.\n\n8 - Os titulares da bonificação por deficiência que sejam também titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio após o deferimento da prestação social para a inclusão.\n\n9 - Os titulares da bonificação por deficiência, bem como os titulares de pensão social de velhice, os titulares do complemento solidário para idosos e os titulares de pensão social de invalidez do regime especial de proteção na invalidez que requeiram a prestação, podem optar no requerimento inicial por manter as suas prestações, caso o valor da prestação social para a inclusão a que tenham direito seja de montante inferior.\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "115325003": {
+   "fragment_id": "108276916",
+   "type": 11,
+   "heading": "Artigo 52.º — Norma transitória",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 52.º — Norma transitória\n\n1 - Aos beneficiários do regime de proteção social convergente que à data da entrada em vigor do presente decreto-lei sejam titulares do subsídio mensal vitalício e respetivo complemento extraordinário de solidariedade, continua a manter-se a atribuição destas prestações, até 31 de dezembro de 2023.\n\n2 - Os titulares do subsídio mensal vitalício e respetivo complemento extraordinário de solidariedade atribuídos no âmbito do regime de proteção social convergente, devem, no prazo de seis anos a partir da data prevista no n.º 1 do artigo 54.º, solicitar a conversão daquelas prestações na prestação social para a inclusão, junto das entidades gestoras competentes da segurança social, considerando-se oficiosamente cumpridas as condições de atribuição relativas ao grau de incapacidade e ao nível de rendimentos para efeito de atribuição e manutenção da componente base.\n\n3 - Na situação prevista no número anterior, a prestação social para a inclusão é devida a partir do mês seguinte ao do deferimento do requerimento da conversão das prestações, devendo a entidade gestora competente da segurança social informar o respetivo serviço processador da data a partir da qual passa a ser paga ao requerente a prestação social para a inclusão, para efeitos de cessação daquelas prestações.\n\n4 - Aos titulares do subsídio mensal vitalício e do complemento extraordinário de solidariedade previstos no n.º 1 é garantido o valor de referência anual da componente base da prestação até à conversão prevista no n.º 2.\n\n5 - Os titulares da prestação podem requerer o complemento solidário para idosos, até 30 de setembro de 2018, desde que cumpram as condições de atribuição previstas no regime jurídico que regula o complemento solidário para idosos, sem prejuízo do disposto no n.º 7.\n\n6 - Os requerentes da prestação que sejam titulares do complemento social para idosos podem manter a atribuição deste complemento até 30 de setembro de 2018, no caso de lhes vir a ser reconhecido o direito àquela prestação, sem prejuízo do disposto no número seguinte.\n\n7 - A partir de 1 de outubro de 2018, os titulares da prestação que acumulem esta com o complemento solidário para idosos e requeiram o complemento da prestação podem optar por manter o complemento social para idosos, caso o valor do complemento da prestação a que tenham direito seja de montante inferior.\n\n8 - A partir de 1 de outubro de 2018, os titulares da prestação que não sejam titulares do complemento solidário para idosos apenas podem requerer o complemento da prestação.\n\n9 - Durante o primeiro semestre de execução da prestação, é dada precedência na atribuição da prestação aos requerentes que apresentem um grau de incapacidade igual ou superior a 80 %.\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "124533017": {
+   "fragment_id": "108269667",
+   "type": 11,
+   "heading": "Artigo 10.º — Rendimentos de referência para a componente base",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Rendimentos de referência para a componente base\n\n1 - O rendimento de referência a considerar para a modelação do valor da componente base da prestação a atribuir é o que resulta da soma das categorias de rendimentos da pessoa com deficiência, previstos nas alíneas a), b), c), d), e) e f) do artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, 133/2012, de 27 de junho, e 90/2017, de 28 de julho.\n\n2 - Para efeitos do disposto no número anterior, são aplicáveis as normas do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, 133/2012, de 27 de junho, e 90/2017, de 28 de julho, apenas referentes aos rendimentos a considerar e à sua caraterização, sem prejuízo do disposto nos números seguintes.\n\n3 - Os rendimentos de trabalho dependente reportam-se ao segundo mês anterior ao da data da apresentação do requerimento, não sendo considerados os rendimentos registados por equivalência à entrada de contribuições em resultado da atribuição de prestações substitutivas da perda de rendimento de trabalho.\n\n4 - Os montantes das remunerações auferidas no segundo mês anterior ao da apresentação do requerimento que se reportem a atividades exercidas em período anterior, não são considerados no cálculo da prestação.\n\n5 - Os rendimentos empresariais e profissionais correspondem ao rendimento a que se refere o artigo 7.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, mensualizado.\n\n6 - Os rendimentos de prestações sociais correspondem às prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção.\n\n7 - Os rendimentos de pensões e das prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção reportam-se ao segundo mês anterior ao da data da apresentação do requerimento, não sendo considerados os montantes correspondentes a retroativos relativos a meses anteriores.\n\n8 - Na determinação dos rendimentos de trabalho dependente e de pensões são considerados os duodécimos do subsídio de férias e de Natal.\n\n9 - Os rendimentos de capitais e prediais reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal não se verifique, reportam-se ao ano imediatamente anterior àquele, devendo ser mensualizados.\n\n10 - Sempre que a entidade gestora da prestação disponha de informação mais atualizada sobre rendimentos de trabalho dependente, rendimentos empresariais e profissionais, de pensões e de prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção, podem ser estes os rendimentos a ter em conta.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "124533018": {
+   "fragment_id": "108269673",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições gerais de atribuição da prestação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Condições gerais de atribuição da prestação\n\n1 - O reconhecimento do direito à prestação depende de a pessoa residir em território nacional nos termos do artigo 9.º, e ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º, sem prejuízo do disposto nos números seguintes.\n\n2 - Caso a pessoa com deficiência seja beneficiária de pensão de invalidez do sistema previdencial de segurança social, do regime de proteção social convergente ou de outro regime de proteção social de inscrição obrigatória nacional ou estrangeiro, o reconhecimento do direito à prestação depende daquela ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 80 %.\n\n3 - (Revogado).\n\n4 - O reconhecimento do direito à prestação às pessoas com 55 ou mais anos de idade depende de, comprovadamente, a certificação da deficiência da qual resulte um grau de incapacidade igual ou superior a 60 % ter sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente àquela idade.\n\n5 - Sem prejuízo do disposto no número anterior, o direito à prestação é, ainda, reconhecido nas situações em que comprovadamente, a pessoa com deficiência tenha interposto recurso da avaliação da incapacidade da junta médica requerida antes dos 55 anos, desde que o grau de incapacidade que resulte da decisão seja igual ou superior a 60 %.\n\n6 - O agravamento do grau de incapacidade para um valor igual ou superior a 80 % só releva se, comprovadamente, a certificação da deficiência que atesta o agravamento do grau de incapacidade tiver sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente.\n\n7 - Sem prejuízo do disposto nos números anteriores, o direito à prestação é, ainda, reconhecido às pessoas com 55 ou mais anos de idade, desde que a data de início da deficiência com grau de incapacidade igual ou superior a 60 % seja anterior àquela idade.\n\n8 - A comprovação de que a deficiência é congénita ou foi adquirida antes dos 55 anos, bem como se a correspondente incapacidade se situava entre os 60 % e os 80 %, ou era igual ou superior a 80 %, é da competência de entidade certificadora a definir em diploma próprio.\n\n9 - Salvo o disposto em instrumento internacional a que Portugal se encontre vinculado ou em legislação especial, a prestação não é transferível para fora do território nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "124533019": {
+   "fragment_id": "108269674",
+   "type": 11,
+   "heading": "Artigo 16.º — Condições específicas de atribuição do complemento",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 16.º — Condições específicas de atribuição do complemento\n\nSão condições específicas de atribuição do complemento:\n\na) Ter idade igual ou superior a 18 anos;\n\nb) O titular da prestação não se encontrar institucionalizado em equipamento social financiado pelo Estado ou em família de acolhimento;\n\nc) Não estar em situação de prisão preventiva nem a cumprir pena de prisão em estabelecimento prisional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "124533027": {
+   "fragment_id": "108276878",
+   "type": 11,
+   "heading": "Artigo 19.º — Valor mensal da componente base",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 19.º — Valor mensal da componente base\n\n1 - Na situação do titular da prestação não ter qualquer rendimento, o valor mensal da componente base da prestação é igual ao valor de referência anual da componente base em vigor, mensualizado, sem prejuízo do disposto nos números seguintes.\n\n2 - O valor mensal da componente base da prestação dos titulares com idade até 18 anos, é igual a 50 % do valor de referência anual da componente base em vigor, mensualizado, independentemente do valor dos seus rendimentos próprios.\n\n3 - Na situação de o titular da prestação com grau de incapacidade igual ou superior a 60 % e inferior a 80 %, ter rendimentos previstos no artigo 10.º, o montante da componente base da prestação é igual ao diferencial entre o limiar de acumulação aplicável nos termos do artigo seguinte e o montante dos rendimentos, tendo como montante máximo o montante mensualizado do valor de referência anual da componente base da prestação.\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n6 - Na situação de o titular da prestação ter um grau de incapacidade igual ou superior a 80 %, o montante da componente base da prestação é igual ao montante mensualizado do valor de referência anual da componente base em vigor, independentemente do valor dos seus rendimentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "124602901": {
+   "fragment_id": "124574123",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Acréscimo da componente base por monoparentalidade",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 19.º-A — Acréscimo da componente base por monoparentalidade\n\n1 - O valor mensal da componente base da prestação dos titulares com idade inferior a 18 anos é acrescido de 35 % nas situações em que aqueles se encontrem inseridos num agregado familiar em que o exercício das responsabilidades parentais esteja a cargo de uma única pessoa maior que seja parente ou afim em linha reta ascendente até ao 3.º grau, ou em linha colateral até ao 3.º grau, adotante, tutor, padrinho civil, ou pessoa a quem o titular esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito.\n\n2 - O disposto no número anterior não é aplicável nas situações em que os titulares da prestação se encontrem confiados por decisão judicial ou administrativa, no âmbito de resposta de natureza residencial.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "124602902": {
+   "fragment_id": "108276879",
+   "type": 11,
+   "heading": "Artigo 20.º — Limiar de acumulação da componente base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Limiar de acumulação da componente base\n\n1 - Nas situações em que o titular não tenha rendimentos de trabalho, o limiar de acumulação anual da componente base da prestação com rendimentos é igual ao valor de referência anual do complemento.\n\n2 - Nas situações em que o titular tenha rendimentos de trabalho o limiar de acumulação anual da prestação é o menor dos seguintes valores:\n\na) O valor de referência anual do complemento acrescido dos rendimentos de trabalho do titular;\n\nb) O limite máximo anual de acumulação previsto no número seguinte.\n\n3 - Nas situações em que o titular tenha rendimentos de trabalho o limite máximo anual de acumulação da prestação com rendimentos é definido e atualizado, periodicamente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n4 - Para efeitos do disposto no presente artigo são equiparados a rendimentos de trabalho os montantes das prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção, quando atribuídas no âmbito do sistema previdencial.\n\n5 - O disposto nos números anteriores é aplicável às pessoas com um grau de incapacidade igual ou superior a 60 % e inferior a 80 %."
+  },
+  "124602903": {
+   "fragment_id": "108276880",
+   "type": 11,
+   "heading": "Artigo 21.º — Valor de referência e limiar do complemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Valor de referência e limiar do complemento\n\n1 - O valor de referência anual do complemento é definido, periodicamente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n2 - O valor de referência anual do complemento é atualizado, anualmente, com efeitos a 1 de janeiro de cada ano, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n3 - O limiar do complemento resulta da multiplicação do valor de referência anual do complemento pelo valor resultante da aplicação, ao agregado familiar do titular, da escala de equivalência definida por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social."
+  },
+  "124602904": {
+   "fragment_id": "108276881",
+   "type": 11,
+   "heading": "Artigo 22.º — Valor do complemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Valor do complemento\n\n1 - O valor do complemento corresponde à diferença entre o limiar do complemento, calculado nos termos do artigo anterior, e o rendimento de referência do complemento, definido nos termos do artigo 11.º, sem prejuízo do disposto nos números seguintes.\n\n2 - Nas situações em que exista apenas um titular da prestação no mesmo agregado familiar, o valor do complemento tem como limite máximo o montante mensualizado do valor de referência anual do complemento.\n\n3 - Nas situações em que existam mais de um titular da prestação no mesmo agregado familiar, o valor do complemento tem como limite máximo o montante mensualizado do valor de referência anual do complemento, majorado numa percentagem por cada titular da prestação, além do primeiro.\n\n4 - A percentagem referida no número anterior é definida por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.\n\n5 - Nas situações em que existam mais do que um titular da prestação no mesmo agregado familiar, o montante do complemento a atribuir a cada titular resulta da divisão do valor do complemento calculado nos termos dos números anteriores, pelo número de titulares no agregado familiar."
+  },
+  "124533020": {
+   "fragment_id": "108276883",
+   "type": 11,
+   "heading": "Artigo 23.º — Início do direito à prestação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 23.º — Início do direito à prestação\n\n1 - A prestação é devida a partir do início do mês em que foi apresentado o requerimento, devidamente instruído.\n\n2 - Considera-se que o requerimento está devidamente instruído na data em que é apresentado o último documento comprovativo das condições de atribuição necessárias ao reconhecimento do direito, sem prejuízo do disposto nos números seguintes.\n\n3 - Nas situações em que o titular, na data em que apresenta o requerimento, junta comprovativo do pedido de certificação da deficiência antes de perfazer 55 anos, o requerimento considera-se devidamente instruído se não faltar qualquer outro documento comprovativo das condições de atribuição da prestação, desde que venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 %.\n\n4 - O requerimento considera-se, ainda, devidamente instruído nas situações em que não falte qualquer outro documento comprovativo das condições de atribuição da prestação e o titular, com 55 ou mais anos de idade, junte comprovativo de que a deficiência é congénita ou foi adquirida antes dos 55 anos, ou de que interpôs recurso da avaliação da incapacidade da junta médica, desde que, neste caso, lhe venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 %.\n\n5 - Nas situações em que o titular junta comprovativo do pedido de certificação da deficiência, o deferimento fica dependente da apresentação do original do atestado médico de incapacidade multiúso, sendo a prestação devida a partir do mês de entrega do documento de certificação.\n\n6 - Nas situações em que o grau de incapacidade igual ou superior a 60 % tenha resultado de junta médica de recurso, a prestação é devida desde o início do mês em que ocorreu a certificação objeto de recurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "124533021": {
+   "fragment_id": "108276888",
+   "type": 11,
+   "heading": "Artigo 28.º — Cessação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 28.º — Cessação\n\n1 - O direito à componente base e ao complemento da prestação cessa quando, relativamente a cada uma, se verifique uma das seguintes situações:\n\na) Deixe de se verificar alguma das condições de atribuição que não dê lugar à suspensão;\n\nb) Alteração do grau de incapacidade para percentagem inferior aos valores previstos nos n.os 1 e 2 do artigo 15.º;\n\nc) Decorridos 180 dias após o início da suspensão sem que tenha sido suprida ou deixe de se verificar a causa da suspensão;\n\nd) Por desistência;\n\ne) Por morte do titular.\n\n2 - A cessação da componente base implica a cessação do complemento.\n\n3 - Os efeitos da cessação reportam-se ao início do mês seguinte àquele em que ocorra a causa da cessação, sem prejuízo do disposto no número seguinte.\n\n4 - A cessação do direito à prestação decorrente da alteração do grau de incapacidade produz efeitos a partir do início do mês seguinte ao do termo do prazo previsto no artigo 32.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "124533022": {
+   "fragment_id": "108276890",
+   "type": 11,
+   "heading": "Artigo 29.º — Acumulação com outras prestações",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 29.º — Acumulação com outras prestações\n\nA prestação pode acumular com as seguintes prestações, sem prejuízo da aplicação das regras de atribuição de cada uma das componentes da prestação:\n\na) Pensões do sistema previdencial, do regime de proteção social convergente e pensões de regimes estrangeiros;\n\nb) Pensões de viuvez;\n\nc) Prestações por encargos familiares, com exceção da bonificação por deficiência;\n\nd) Subsídio por frequência de estabelecimento de educação especial;\n\ne) Complemento por dependência;\n\nf) Complemento por cônjuge a cargo,\n\ng) Rendimento social de inserção;\n\nh) Prestações substitutivas de rendimentos de trabalho do sistema previdencial;\n\ni) Prestações de desemprego e de parentalidade do subsistema de solidariedade;\n\nj) Indemnizações e pensões por acidente de trabalho e doença profissional;\n\nk) Indemnizações por responsabilidade civil de terceiro.\n\nl) Subsídio por morte, do sistema previdencial;\n\nm) Pensão de orfandade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "124533023": {
+   "fragment_id": "108276893",
+   "type": 11,
+   "heading": "Artigo 31.º — Legitimidade para requerer a prestação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 31.º — Legitimidade para requerer a prestação\n\n1 - A prestação pode ser requerida pelo próprio, sendo maior, ou pelo seu representante legal, sem prejuízo do disposto no número seguinte.\n\n2 - Tem ainda legitimidade para requerer a prestação outra pessoa que preste ou se disponha a prestar assistência à pessoa com deficiência, sempre que esta se encontre a aguardar a nomeação de acompanhante, devendo instruir o requerimento da prestação com documento comprovativo de que interpôs ação de acompanhamento de maior relativamente à pessoa com deficiência.\n\n3 - (Revogado.)\n\n4 - Nas situações em que a pessoa com deficiência é menor, a prestação pode ser requerida por uma das pessoas referidas no n.º 1 do artigo 19.º-A, que exerça as responsabilidades parentais ou a quem o menor esteja confiado administrativa ou judicialmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "124533024": {
+   "fragment_id": "108276894",
+   "type": 11,
+   "heading": "Artigo 32.º — Deveres dos beneficiários",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 32.º — Deveres dos beneficiários\n\n1 - O titular da prestação ou a pessoa prevista no artigo anterior devem declarar aos serviços da entidade gestora competente da segurança social, no prazo de 10 dias úteis a contar da data da respetiva ocorrência, as situações determinantes de alteração, suspensão ou cessação da prestação, que se reportem, designadamente:\n\na) À composição do agregado familiar;\n\nb) Aos rendimentos;\n\nc) Ao grau de incapacidade;\n\nd) À residência;\n\ne) Ao início ou fim da atividade profissional;\n\nf) Ao início ou fim da frequência de resposta social, prevista na alínea b) do artigo 16.º\n\n2 - O titular da prestação ou a pessoa prevista no artigo anterior estão obrigados a comunicar à entidade gestora competente da segurança social os períodos de ausência do território nacional, bem como os motivos justificativos da ausência, para efeitos do disposto na alínea c) do n.º 1 do artigo 27.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "124533025": {
+   "fragment_id": "108276898",
+   "type": 11,
+   "heading": "Artigo 36.º — Pagamento da prestação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 36.º — Pagamento da prestação\n\n1 - O pagamento da prestação é efetuado mensalmente ao respetivo titular, ou ao seu acompanhante ou representante legal, podendo ainda ser efetuado diretamente à pessoa que preste ou se disponha a prestar assistência ao titular do direito, sempre que este se encontre a aguardar a nomeação de acompanhante, desde que comprove que interpôs ação de acompanhamento de maior relativamente ao titular da prestação.\n\n2 - Nas situações em que a pessoa com deficiência é menor, o pagamento da prestação é efetuado mensalmente à pessoa que requereu a prestação, salvo nas situações em que o menor não integre o seu agregado familiar, caso em que a prestação é paga à pessoa a quem o menor se encontre confiado administrativa ou judicialmente.\n\n3 - Sempre que o montante mensal da prestação a atribuir seja inferior a (euro) 5, só há lugar a pagamento quando os valores mensais acumulados atinjam aquele valor.\n\n4 - Sempre que o montante mensal da prestação a atribuir seja inferior a (euro) 1, considera-se este como o valor mensal da prestação a atribuir.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "124533026": {
+   "fragment_id": "108276913",
+   "type": 11,
+   "heading": "Artigo 49.º — Salvaguarda de direitos",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 49.º — Salvaguarda de direitos\n\n1 - Os titulares da prestação em resultado da conversão prevista n.º 1 do artigo anterior e n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do complemento solidário para idosos podem manter o direito a este complemento, o qual é revisto nos termos previstos no respetivo regime jurídico.\n\n2 - Os titulares da prestação em resultado da conversão prevista no n.º 1 do artigo anterior e no n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio.\n\n3 - Os titulares da prestação em resultado da conversão do subsídio mensal vitalício e da pensão de invalidez dos regimes transitórios dos trabalhadores agrícolas mantêm os direitos adquiridos no que respeita ao pagamento da componente base da prestação fora do território nacional.\n\n4 - Os titulares da prestação em resultado da conversão prevista no n.º 2 do artigo anterior, mantêm o direito a legarem pensão de viuvez e de orfandade nos termos do respetivo regime jurídico, por referência ao valor da pensão social.\n\n5 - Aos titulares da prestação, em resultado da conversão prevista no n.º 5 do artigo anterior, aplica-se a salvaguarda de direitos, prevista nos n.os 1, 2, 3 e 4.\n\n6 - Os requerentes da prestação que sejam titulares de bonificação por deficiência mantêm o direito à bonificação enquanto não lhes for deferida a prestação, sendo esta devida a partir do mês seguinte ao do seu deferimento.\n\n7 - Os titulares da bonificação por deficiência que cumpram as condições de atribuição da prestação podem requerer esta prestação, a qual é devida a partir do mês seguinte ao do seu deferimento.\n\n8 - Os titulares da bonificação por deficiência que sejam também titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio após o deferimento da prestação social para a inclusão.\n\n9 - Os titulares da bonificação por deficiência, bem como os titulares de pensão social de velhice, os titulares do complemento solidário para idosos e os titulares de pensão social de invalidez do regime especial de proteção na invalidez que requeiram a prestação, podem optar no requerimento inicial por manter as suas prestações, caso o valor da prestação social para a inclusão a que tenham direito seja de montante inferior.\n\n10 - A atribuição da prestação social para inclusão aos requerentes titulares de pensão social de velhice, ou de pensão social de invalidez do regime especial de proteção na invalidez, faz cessar o direito à atribuição destas pensões nos termos previstos nos respetivos regimes jurídicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "156696383": {
+   "fragment_id": "108269673",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições gerais de atribuição da prestação",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Condições gerais de atribuição da prestação\n\n1 - O reconhecimento do direito à prestação depende de a pessoa residir em território nacional nos termos do artigo 9.º, e ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º, sem prejuízo do disposto nos números seguintes.\n\n2 - Caso a pessoa com deficiência seja beneficiária de pensão de invalidez do sistema previdencial de segurança social, do regime de proteção social convergente ou de outro regime de proteção social de inscrição obrigatória nacional ou estrangeiro, o reconhecimento do direito à prestação depende daquela ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 80 %.\n\n3 - (Revogado).\n\n4 - O reconhecimento do direito à prestação às pessoas com 55 ou mais anos de idade depende de, comprovadamente, a certificação da deficiência da qual resulte um grau de incapacidade igual ou superior a 60 % ter sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente àquela idade.\n\n5 - Sem prejuízo do disposto no número anterior, o direito à prestação é, ainda, reconhecido nas situações em que comprovadamente, a pessoa com deficiência tenha interposto recurso da avaliação da incapacidade da junta médica requerida antes dos 55 anos, desde que o grau de incapacidade que resulte da decisão seja igual ou superior a 60 %.\n\n6 - O agravamento do grau de incapacidade para um valor igual ou superior a 80 % só releva se, comprovadamente, a certificação da deficiência que atesta o agravamento do grau de incapacidade tiver sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente.\n\n7 - Sem prejuízo do disposto nos números anteriores, o direito à prestação é, ainda, reconhecido às pessoas com 55 ou mais anos de idade, desde que a data de início da deficiência com grau de incapacidade igual ou superior a 60 % seja anterior àquela idade.\n\n8 - A comprovação de que a deficiência é congénita ou foi adquirida antes dos 55 anos, bem como se a correspondente incapacidade se situava entre os 60 % e os 80 %, ou era igual ou superior a 80 %, é da competência de entidade certificadora a definir em diploma próprio.\n\n9 - Podem, ainda, requerer a prestação os bombeiros, profissionais ou voluntários, as forças de segurança, as Forças Armadas, a polícia marítima, os profissionais do INEM, I. P., e os sapadores florestais com idade compreendida entre 55 anos e a idade normal de acesso à pensão de velhice, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, cuja deficiência resulte direta e exclusivamente de acidente ocorrido entre aquelas idades, por força e no exercício de missão em operação de proteção e socorro, devidamente registada nos sistemas próprios da Autoridade Nacional de Emergência e Proteção Civil, e da qual resulte uma incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º e verificado pelos serviços competentes da segurança social.\n\n10 - Salvo o disposto em instrumento internacional a que Portugal se encontre vinculado ou em legislação especial, a prestação não é transferível para fora do território nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a Artigo 126.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "156696384": {
+   "fragment_id": "108276890",
+   "type": 11,
+   "heading": "Artigo 29.º — Acumulação com outras prestações",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 29.º — Acumulação com outras prestações\n\nA prestação pode acumular com as seguintes prestações, sem prejuízo da aplicação das regras de atribuição de cada uma das componentes da prestação:\n\na) Pensões do sistema previdencial, do regime de proteção social convergente e pensões de regimes estrangeiros;\n\nb) Pensões de viuvez;\n\nc) Prestações por encargos familiares, com exceção da bonificação por deficiência;\n\nd) Subsídio por frequência de estabelecimento de educação especial;\n\ne) Complemento por dependência;\n\nf) Complemento por cônjuge a cargo,\n\ng) Rendimento social de inserção;\n\nh) Prestações substitutivas de rendimentos de trabalho do sistema previdencial;\n\ni) Prestações de desemprego e de parentalidade do subsistema de solidariedade;\n\nj) Indemnizações e pensões por acidente de trabalho e doença profissional;\n\nk) Indemnizações por responsabilidade civil de terceiro.\n\nl) Subsídio por morte, do sistema previdencial;\n\nm) Pensão de orfandade;\n\nn) Subsídio de apoio ao cuidador informal principal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "156696385": {
+   "fragment_id": "108276898",
+   "type": 11,
+   "heading": "Artigo 36.º — Pagamento da prestação",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 36.º — Pagamento da prestação\n\n1 - O pagamento da prestação é efetuado mensalmente ao respetivo titular, ou ao seu acompanhante ou representante legal, podendo ainda ser efetuado diretamente à pessoa singular que preste ou se disponha a prestar assistência ao titular do direito, desde que comprove que interpôs ação de acompanhamento de maior relativamente ao titular da prestação.\n\n2 - Nas situações em que a pessoa com deficiência é menor, o pagamento da prestação é efetuado mensalmente à pessoa que requereu a prestação, salvo nas situações em que o menor não integre o seu agregado familiar, caso em que a prestação é paga à pessoa a quem o menor se encontre confiado administrativa ou judicialmente.\n\n3 - Sem prejuízo do disposto nos números anteriores, a prestação social para a inclusão pode ainda ser paga, a título excecional, à pessoa coletiva que comprove ter a seu cargo o titular da prestação, sempre que este se encontre a aguardar a nomeação de acompanhante, e desde que tenha sido interposta ação de acompanhamento de maior relativamente ao respetivo titular.\n\n4 - Sempre que o montante mensal da prestação a atribuir seja inferior a (euro) 5, só há lugar a pagamento quando os valores mensais acumulados atinjam aquele valor.\n\n5 - Sempre que o montante mensal da prestação a atribuir seja inferior a (euro) 1, considera-se este como o valor mensal da prestação a atribuir.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "902104195": {
+   "fragment_id": "108276883",
+   "type": 11,
+   "heading": "Artigo 23.º — Início do direito à prestação",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 327.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 23.º — Início do direito à prestação\n\n1 - A prestação é devida a partir do início do mês em que foi apresentado o requerimento, devidamente instruído.\n\n2 - Considera-se que o requerimento está devidamente instruído na data em que é apresentado o último documento comprovativo das condições de atribuição necessárias ao reconhecimento do direito, sem prejuízo do disposto nos números seguintes.\n\n3 - Nas situações em que o titular, na data em que apresenta o requerimento, junta comprovativo do pedido de certificação da deficiência antes de perfazer 55 anos, o requerimento considera-se devidamente instruído se não faltar qualquer outro documento comprovativo das condições de atribuição da prestação, desde que venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 %.\n\n4 - O requerimento considera-se, ainda, devidamente instruído nas situações em que não falte qualquer outro documento comprovativo das condições de atribuição da prestação e o titular, com 55 ou mais anos de idade, junte comprovativo de que a deficiência é congénita ou foi adquirida antes dos 55 anos, ou de que interpôs recurso da avaliação da incapacidade da junta médica, desde que, neste caso, lhe venha a ser certificada a situação de deficiência com um grau de incapacidade igual ou superior a 60 %.\n\n5 - Nas situações em que o titular junta comprovativo do pedido de certificação da deficiência, o deferimento fica dependente da apresentação do original do atestado médico de incapacidade multiúso, sendo o direito à prestação adquirido a partir do início do mês em que foi apresentado o requerimento com comprovativo de pedido de junta médica.\n\n6 - Nas situações em que o grau de incapacidade igual ou superior a 60 % tenha resultado de junta médica de recurso, o direito à prestação é adquirido a partir do início do mês em que foi apresentado o requerimento com comprovativo de pedido de junta médica.\n\n> Alterado pelo/a Artigo 327.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "902104196": {
+   "fragment_id": "108276887",
+   "type": 11,
+   "heading": "Artigo 27.º — Suspensão e retoma",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 327.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 27.º — Suspensão e retoma\n\n1 - O direito à componente base da prestação suspende-se quando se verifique uma das seguintes situações:\n\na) No termo da validade do atestado médico de incapacidade multiúso, salvo se o titular apresentar comprovativo de que requereu a reavaliação até 90 dias antes daquela data ou se se encontrava impossibilitado por motivos de doença de requerer a reavaliação durante aquele período ou em período posterior;\n\nb) O titular da prestação deixe de ter residência habitual em Portugal se for cidadão nacional ou deixe de ter residência legal em Portugal se for cidadão estrangeiro ou apátrida;\n\nc) Ausência do território nacional por período superior a 30 dias por ano, salvo se a ausência for motivada por razões de saúde, estudos ou formação profissional;\n\nd) O titular da prestação não faculte a informação requerida pelos serviços relativamente aos seus rendimentos próprios, caso tenha um grau de incapacidade inferior a 80 %;\n\ne) Não sejam disponibilizados pelo titular os elementos comprovativos das condições de atribuição relevantes para a avaliação do direito à manutenção da prestação;\n\nf) Quando haja provas da existência de falsas declarações por parte do titular ou da pessoa referida no artigo 31.º\n\n2 - O direito ao complemento suspende-se quando se verifique uma das seguintes situações:\n\na) Suspensão da componente base;\n\nb) Não disponibilização pelo titular dos elementos comprovativos das condições de atribuição relevantes para a avaliação do direito à manutenção do complemento;\n\nc) Cumprimento de prisão preventiva ou de pena de prisão em estabelecimento prisional;\n\nd) Institucionalização em equipamento social financiado pelo Estado ou em família de acolhimento.\n\n3 - A suspensão do direito à prestação, nos termos dos números anteriores, não prejudica a sua retoma, oficiosamente ou por solicitação do interessado, quando se voltem a verificar os condicionalismos de atribuição.\n\n4 - A suspensão e a retoma da prestação têm lugar no mês seguinte àquele em que a entidade gestora competente da segurança social tem conhecimento dos factos que determinaram aquelas situações, ou do pedido de retoma apresentado pelo interessado.\n\n> Alterado pelo/a Artigo 327.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2017 - Diário da República n.º 224/2017, Série I de 2017-11-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2017-114223835), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "913450658": {
+   "fragment_id": "913465661",
+   "type": 11,
+   "heading": "Artigo 22.º-A — Equiparação dos valores de referência do complemento da prestação social para a inclusão e do complemento solidário para idosos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 40/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/lei/40-2025-913223400)"
+   ],
+   "markdown": "###### Artigo 22.º-A — Equiparação dos valores de referência do complemento da prestação social para a inclusão e do complemento solidário para idosos\n\nOs valores de referência do complemento da prestação social para a inclusão, definido nos termos dos n.os 1 e 2 do artigo 21.º do presente diploma, e do complemento solidário para idosos, estatuído no n.º 1 do artigo 9.º do Decreto-Lei n.º 232/2005, de 29 de dezembro, passam a ser equiparados, a partir de dia 1 de janeiro de 2026, com caráter permanente e definitivo, devendo qualquer atualização no valor de um deles refletir-se, com efeitos imediatos, no valor do outro, independentemente dessa alteração resultar de atualização ordinária ou extraordinária.\n\n> Nota: [Artigo 3.º, Lei n.º 40/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/lei/40-2025-913223400) O presente artigo, aditado pela Lei n.º 40/2025, de 1 de abril, entra em vigor na data de entrada em vigor do Orçamento do Estado subsequente.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 40/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/lei/40-2025-913223400)"
+  },
+  "1158029175": {
+   "fragment_id": "108276913",
+   "type": 11,
+   "heading": "Artigo 49.º — Salvaguarda de direitos",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 49.º — Salvaguarda de direitos\n\n1 - Os titulares da prestação em resultado da conversão prevista n.º 1 do artigo anterior e n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do complemento solidário para idosos podem manter o direito a este complemento, o qual é revisto nos termos previstos no respetivo regime jurídico.\n\n2 - Os titulares da prestação em resultado da conversão prevista no n.º 1 do artigo anterior e no n.º 2 do artigo 52.º que, à data de entrada em vigor do presente decreto-lei, sejam titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio.\n\n3 - Os titulares da prestação em resultado da conversão do subsídio mensal vitalício e da pensão de invalidez dos regimes transitórios dos trabalhadores agrícolas mantêm os direitos adquiridos no que respeita ao pagamento da componente base da prestação fora do território nacional.\n\n4 - [Revogado.]\n\n5 - Aos titulares da prestação, em resultado da conversão prevista no n.º 5 do artigo anterior, aplica-se a salvaguarda de direitos, prevista nos n.os 1, 2 e 3.\n\n6 - Os requerentes da prestação que sejam titulares de bonificação por deficiência mantêm o direito à bonificação enquanto não lhes for deferida a prestação, sendo esta devida a partir do mês seguinte ao do seu deferimento.\n\n7 - Os titulares da bonificação por deficiência que cumpram as condições de atribuição da prestação podem requerer esta prestação, a qual é devida a partir do mês seguinte ao do seu deferimento.\n\n8 - Os titulares da bonificação por deficiência que sejam também titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio após o deferimento da prestação social para a inclusão.\n\n9 - Os titulares da bonificação por deficiência, os titulares da prestação social única com idade igual ou superior à idade de pensão de velhice do regime geral de segurança social e os titulares do complemento solidário para idosos que requeiram a prestação podem optar, no requerimento inicial, por manter as suas prestações, caso o valor da prestação social para a inclusão a que tenham direito seja de montante inferior.\n\n10 - [Revogado.]\n\n> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 166.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  }
+ }
+}

@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:67507923:por
+title: Resolução do Conselho de Ministros n.º 41/2015
+short_title: null
+summary: Reconhece o interesse público, de natureza cultural, científica e histórica, da parte do imóvel ocupada pela Sociedade
+  de Geografia de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 41/2015
+official_date: null
+publication_date: '2015-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/2015, Série I de 2015-06-17
+  number: '116'
+  series: I
+  supplement: null
+  pages: 3902 - 3903
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11600/0390203903.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/41/2015/06/17/p/dre/pt/html
+  oj: null
+  dre: '67507923'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/41-2015-67507923
+  internal: pt:dre:67507923:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2015-67507923
+  metadata_url: https://data.dre.pt/eli/resolconsmin/41/2015/06/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2015-67507923
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-06-17T00:00:00Z'
+integrity:
+  source_sha256: effe74e01f47578783f1e6f493cfe4f2c80e2459f6a1a0a907b1629406aadeec
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2015/DRE-2015-41-67507923.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património Cultural
+- Expropriação
+- Lisboa
+- Interesse Público
+- Património Documental
+- Património Arquitectónico
+- Protecção do Património
+- Sociedade de Geografia
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec/2/1996/03/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec/2/1996/03/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 41/2015
+
+A Sociedade de Geografia de Lisboa (SGL) foi criada em 1875, sendo uma associação privada, com fins científico-culturais, instituição benemérita de utilidade pública e grã-cruz da Ordem de Cristo (decreto de 3 de abril de 1928), Grã-Cruz da Ordem de Instrução Pública (24 de novembro 1950), membro honorário da Ordem do Infante D. Henrique (2 de maio de 1964) e membro honorário da Ordem de Sant'Iago da Espada (16 de agosto de 1983). O Chefe de Estado é o seu Presidente de Honra.
+
+Fundada por Luciano Cordeiro, desenvolveu um papel histórico ao longo de 140 anos, nomeadamente na exploração do continente africano, nos contributos cartográficos e geográficos para a delimitação e defesa das fronteiras internacionais dos atuais países lusófonos desse continente, na recolha etnográfica e de património cultural, assim como na divulgação científica, através do seu boletim, que se publica ininterruptamente desde 1876. Entre outras, organizou as expedições de Hermenegildo Capelo e Roberto Ivens, Serpa Pinto e Henrique Carvalho, ou a primeira expedição científica à Serra da Estrela, dirigida por José de Sousa Martins e que contribuiu para as ciências médicas e meteorológicas portuguesas.
+
+Em 1880 o Governo decide integrar, na SGL, a Comissão Central Permanente de Geografia, um organismo governamental, anteriormente na dependência do Ministério dos Negócios Estrangeiros, delegando as suas funções de interesse nacional na SGL.
+
+Com a referida Comissão Central Permanente de Geografia, decidiu o governo, por Decreto de 19 de janeiro de 1893, criar a Comissão de Cartografia, com funções respeitantes à Geografia Política e à Geografia Física. Esta Comissão de Cartografia conduziu à Junta das Missões Geográficas e Investigações Coloniais, depois Junta de Investigações do Ultramar - JIU, cujo nome mudou para Junta de Investigações Científicas do Ultramar - JICU, e a partir de 1983, para Instituto de Investigação Científica Tropical - IICT. Foi também criada, na SGL, a Escola Colonial, onde funcionou até 1936, antecessora do atual Instituto Superior de Ciências Sociais e Políticas, da Universidade de Lisboa.
+
+A importância da sua atividade cultural e científica é sobejamente conhecida e está patente na sua existência com mais de um século e que atravessou todos os regimes políticos distintos da história contemporânea e recente de Portugal, tendo hoje a preocupação fundamental da manutenção e reforço dos laços culturais e científicos com os países de língua oficial portuguesa.
+
+Desde 1897 a SGL está instalada e desenvolve a sua atividade em amplo edifício classificado situado na Rua das Portas de Santo Antão, no n.º 100, concelho de Lisboa, que incorpora a fachada do Coliseu dos Recreios.
+
+Ali existem, entre outros, um museu, uma biblioteca e um espólio assinalável sob o ponto de vista cultural, científico e histórico. A biblioteca, aberta ao público, possui um espólio bibliográfico composto por cerca de 62.000 obras e cerca de 6.000 manuscritos, incluindo os cadernos e diários de viagem de Gago Coutinho, Silva Porto, Hermenegildo Capelo, Serpa Pinto e Roberto Ivens, além de uma valiosa coleção de cartografia. O museu, os padrões de Diogo Cão, a urna de Afonso de Albuquerque, as coleções etnográficas, são o património do encontro de culturas e povos, desde os Descobrimentos.
+
+O interior do edifício foi construído, desde o início, para corresponder às necessidades e missão da SGL, com o projeto da autoria do arquiteto municipal José Luis Monteiro e apoio financeiro público, no âmbito das celebrações do IV centenário da viagem de D. Vasco da Gama. Toda a construção interior foi projetada para a atividade da SGL, e o seu museu, sendo de destacar as Salas Portugal, Algarve e Índia.
+
+Este imóvel foi classificado como imóvel de interesse público em 1996, pelo [Decreto n.º 2/96](https://diariodarepublica.pt/dre/detalhe/decreto/2-1996-621157), de 6 de março, sendo há muito indissociável do mesmo a SGL e vice-versa. Tanto o património imóvel como o património móvel integrado, são partes inseparáveis da história, missão e funções da SGL.
+
+A presença da SGL naquele edifício desde 1897 até à presente data tem sido salvaguardada por um vínculo contratual de natureza privada correspondente ao contrato de arrendamento, estabelecido entre a SGL e uma entidade de natureza privada.
+
+De acordo com os estatutos da SGL, homologados por Decreto de 12 de agosto de 1880, incumbe ao Estado providenciar «casa adequada à sua sede, instalações e serviços», tendo, ao longo de mais de um século, vários organismos do Estado cumprido esta obrigação, através do apoio financeiro para o pagamento do arrendamento.
+
+Cabe ao Estado a permanência do património cultural e do interesse público presente e assegurar a presença da SGL naquele edifício e afetação do mesmo à utilização e atividades que ali são desenvolvidas há mais de um século. Nesse sentido foram desenvolvidas nos dois últimos anos negociações tendentes à aquisição do edifício ocupado pela SGL com a proprietária, sem sucesso.
+
+O interesse público presente, em particular do Património Cultural, permite ao Estado operar a aquisição do imóvel através da declaração de utilidade pública e da expropriação, nos termos do Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dre/detalhe/lei/168-1999-569885), de 18 de setembro, e do disposto na alínea b) do n.º 1 do artigo 50.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dre/detalhe/lei/107-2001-629790), de 8 de setembro.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve o seguinte:
+
+1 - Reconhecer o interesse público, de natureza cultural, científico e histórico, da parte do imóvel ocupada pela Sociedade de Geografia de Lisboa (SGL), sito no n.º 100, da Rua das Portas de Santo Antão, concelho de Lisboa.
+
+2 - Reconhecer o idêntico interesse público na salvaguarda da afetação daquele imóvel à atividade que ali vem sido desenvolvida pela SGL desde 1897.
+
+3 - Determinar o desenvolvimento dos procedimentos necessários à salvaguarda dos interesses públicos presentes, nos termos do Código das Expropriações e da alínea b) do n.º 1 do artigo 50.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dre/detalhe/lei/107-2001-629790), de 8 de setembro, e à definição dos termos da presença da SGL no edifício.
+
+4 - Assegurar aos serviços competentes os recursos financeiros subjacentes ao procedimento previsto no número anterior e os necessários à salvaguarda no imediato dos interesses públicos.
+
+Presidência do Conselho de Ministros, 28 de maio de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.

@@ -1,0 +1,184 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249814:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-214846028",
+ "dre_path": "/dr/detalhe/decreto-lei/68-2008-249814",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-04-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214847571",
+    "214847572",
+    "214847573",
+    "214847574",
+    "214849575",
+    "214849577",
+    "214849578"
+   ]
+  },
+  {
+   "date": "2009-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:603260:por",
+     "title": "Decreto-Lei n.º 85/2009",
+     "published": "2009-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/85-2009-603260"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "214847571",
+    "214847572",
+    "214847573",
+    "214847574",
+    "214849575",
+    "214849576",
+    "214849583",
+    "214849584"
+   ]
+  },
+  {
+   "date": "2010-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343580:por",
+     "title": "Lei n.º 21/2010",
+     "published": "2010-08-23",
+     "dre_path": "/dr/detalhe/lei/21-2010-343580"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "214847571",
+    "214847572",
+    "214847573",
+    "214847574",
+    "214849575",
+    "214849576",
+    "214849593",
+    "214849594"
+   ]
+  }
+ ],
+ "fragments": {
+  "214847571": {
+   "fragment_id": "214846029",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 68/2008\n\nde 14 de Abril\n\nNos termos do Programa do XVII Governo Constitucional considera-se prioritário construir uma estrutura coerente de governabilidade das várias escalas territoriais e definir, com clareza, em cada uma delas, as instituições intervenientes, os fundamentos da sua legitimidade e as respectivas competências e responsabilidades. Por isso, a coordenação, desconcentração e descentralização da gestão territorial, em consonância com a reorganização territorial da administração autárquica e a reforma administrativa do Estado, são fundamentais, no respeito pelos princípios da subsidiariedade e da coesão.\n\nO associativismo municipal reveste-se de grande importância para que possam ser enfrentados, à escala adequada, problemas comuns a diferentes autarquias. Assim sendo, como define o Programa do XVII Governo Constitucional, o associativismo municipal deverá ter sempre um papel muito relevante na desejável articulação de políticas e acções ao nível supramunicipal.\n\nA Resolução do Conselho de Ministros n.º 39/2006, de 21 de Abril, que aprova o Programa para a Reestruturação da Administração Central do Estado (PRACE), estabelece que certas competências, pela sua natureza e escala de intervenção, devem ser descentralizadas para as áreas metropolitanas de Lisboa e do Porto ou para associações de municípios, e que estas devem ser correspondentes a NUTS III ou à agregação da NUTS III. Igualmente o Decreto-Lei n.º 312/2007, de 17 de Setembro, que definiu o modelo de governação do QREN e dos respectivos programas operacionais, consubstancia o mesmo entendimento, dado que valoriza o papel das associações de municípios ao nível de NUTS III nos órgãos de aconselhamento estratégico dos programas operacionais regionais, bem como na previsão da execução descentralizada ou na contratualização de parcerias para gestão de parcelas dos programas operacionais regionais.\n\nO conceito de nomenclatura das unidades territoriais estatísticas (NUTS) foi introduzido pelo EUROSTAT com o propósito de criar um padrão único e uniforme para a produção de estatísticas e de repartição de fundos ao nível regional na União Europeia. Este conceito trouxe uma classificação única para as várias tipologias regionais existentes nos Estados membros, visando a harmonização de critérios para efeitos informativos e estatísticos comuns a todos os países da União Europeia.\n\nMas foi apenas em 2003 que foi aprovado o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2003&id=303R1059\" title=\"Link para Regulamento da Comunidade Europeia\">1059/2003</a>, do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, publicado no Jornal Oficial n.º L 154 de 21 de Junho de 2003, referente a NUTS.\n\nO presente decreto-lei adopta o conceito de unidades territoriais, definidas com base nas NUTS III existentes ajustadas com dinâmicas territoriais já estabilizadas.\n\nNos municípios e nas respectivas associações estão criadas expectativas de que a mudança no modelo institucional e territorial se opera por referência às NUTS III. Assim, numa lógica de ganho de escala e de coerência de políticas públicas, muitas associações de municípios já iniciaram um trabalho de referência, no âmbito de políticas estratégicas e de planeamento, a uma escala intermunicipal. Essa política estratégica e de planeamento foi, em grande parte dos casos, resultado da vontade expressa dos municípios, mas também dos conselhos regionais das comissões de coordenação e desenvolvimento regional, como órgãos consultivos e representativos dos interesses regionais, que incluem representantes dos municípios, organizações não governamentais, universidades e institutos politécnicos, associações patronais e sindicais, organismos desconcentrados da administração central e representantes de entidades regionais e nacionais relevantes e individualidades de reconhecido mérito nas respectivas regiões.\n\nAssim, o presente decreto-lei confere coerência a unidades territoriais definidas com base nas NUTS III, reflectindo uma lógica económica, social, histórica, geográfica, cultural, ambiental e de representação institucional, conferindo racionalidade e harmonia à relação do Estado com a administração local.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "214847572": {
+   "fragment_id": "214846030",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede à definição das unidades territoriais para efeitos de organização territorial das associações de municípios e das áreas metropolitanas e para a participação em estruturas administrativas do Estado e nas estruturas de governação do Quadro de Referência Estratégico Nacional 2007-2013 (QREN)."
+  },
+  "214847573": {
+   "fragment_id": "214846031",
+   "type": 11,
+   "heading": "Artigo 2.º — Áreas geográficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Áreas geográficas\n\n1 - As unidades territoriais previstas no presente decreto-lei são definidas com base nas nomenclaturas das unidades territoriais estatísticas de nível 3 (NUTS III) com as seguintes alterações:\n\na) Os municípios de Cabeceiras de Basto e Mondim de Basto da NUTS III do Tâmega integram a unidade territorial do Ave;\n\nb) Os municípios da Trofa e Santo Tirso da NUTS III do Ave integram a unidade territorial do Grande Porto;\n\nc) O município de Murça da NUTS III do Alto-Trás-os-Montes integra a unidade territorial do Douro;\n\nd) O município de Vila Flor da NUTS III do Douro integra a unidade territorial do Alto-Trás-os-Montes;\n\ne) O município de Ribeira de Pena da NUTS III do Tâmega integra a unidade territorial do Alto-Trás-os-Montes;\n\nf) O município da Mealhada da NUTS III do Baixo Vouga integra a unidade territorial do Baixo Mondego;\n\ng) O município de Mortágua da NUTS III do Dão-Lafões integra a unidade territorial do Baixo Mondego.\n\n2 - As unidades territoriais, para efeitos do disposto no presente decreto-lei, são as estabelecidas no anexo i e no mapa do anexo ii."
+  },
+  "214847574": {
+   "fragment_id": "214846032",
+   "type": 11,
+   "heading": "Artigo 3.º — Tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tratamento de dados\n\nA Direcção-Geral das Autarquias Locais procede ao tratamento dos dados relativos às unidades territoriais estabelecidas no presente decreto-lei."
+  },
+  "214849575": {
+   "fragment_id": "214846033",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte à sua publicação."
+  },
+  "214849577": {
+   "fragment_id": "214846035",
+   "type": 14,
+   "heading": "Anexo I — Unidades territoriais no continente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Unidades territoriais no continente\n\nRegião do Norte\n\nUnidade territorial do Minho-Lima\n\nArcos de Valdevez, Caminha, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.\n\nUnidade territorial do Cávado\n\nAmares, Barcelos, Braga, Esposende, Terras de Bouro e Vila Verde.\n\nUnidade territorial do Ave\n\nCabeceiras de Basto, Fafe, Guimarães, Mondim de Basto, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Vizela.\n\nUnidade territorial do Grande Porto\n\nEspinho, Gondomar, Maia, Matosinhos, Porto, Póvoa de Varzim, Santo Tirso, Trofa, Valongo, Vila do Conde e Vila Nova de Gaia.\n\nUnidade territorial do Tâmega\n\nAmarante, Baião, Castelo de Paiva, Celorico de Basto, Cinfães, Felgueiras, Lousada, Marco de Canaveses, Paços de Ferreira, Paredes, Penafiel e Resende.\n\nUnidade territorial do Entre Douro e Vouga\n\nArouca, Santa Maria da Feira, Oliveira de Azeméis, São João da Madeira e Vale de Cambra.\n\nUnidade territorial do Douro\n\nAlijó, Armamar, Carrazeda de Ansiães, Freixo de Espada à Cinta, Lamego, Mesão Frio, Moimenta da Beira, Murça, Penedono, Peso da Régua, Sabrosa, Santa Marta de Penaguião, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Torre de Moncorvo, Vila Real e Vila Nova de Foz Côa.\n\nUnidade territorial do Alto Trás-os-Montes\n\nAlfândega da Fé, Boticas, Bragança, Chaves, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Montalegre, Ribeira de Pena, Valpaços, Vila Flor, Vila Pouca de Aguiar, Vimioso e Vinhais.\n\nRegião do Centro\n\nUnidade territorial do Baixo Vouga\n\nÁgueda, Albergaria-a-Velha, Anadia, Aveiro, Estarreja, Ílhavo, Murtosa, Oliveira do Bairro, Ovar, Sever do Vouga e Vagos.\n\nUnidade territorial do Baixo Mondego\n\nCantanhede, Coimbra, Condeixa-a-Nova, Figueira da Foz, Mealhada, Mira, Montemor-o-Velho, Mortágua, Penacova e Soure.\n\nUnidade territorial do Pinhal Litoral\n\nBatalha, Leiria, Marinha Grande, Pombal e Porto de Mós.\n\nUnidade territorial do Pinhal Interior Norte\n\nAlvaiázere, Ansião, Arganil, Castanheira de Pêra, Figueiró dos Vinhos, Góis, Lousã, Miranda do Corvo, Oliveira do Hospital, Pampilhosa da Serra, Pedrógão Grande, Penela, Tábua e Vila Nova de Poiares.\n\nUnidade territorial do Pinhal Interior Sul\n\nMação, Oleiros, Proença-a-Nova, Sertã e Vila de Rei.\n\nUnidade territorial do Dão-Lafões\n\nAguiar da Beira, Carregal do Sal, Castro Daire, Mangualde, Nelas, Oliveira de Frades, Penalva do Castelo, Santa Comba Dão, São Pedro do Sul, Sátão, Tondela, Vila Nova de Paiva, Viseu e Vouzela.\n\nUnidade territorial da Serra da Estrela\n\nFornos de Algodres, Gouveia e Seia.\n\nUnidade territorial da Beira Interior Norte\n\nAlmeida, Celorico da Beira, Figueira de Castelo Rodrigo, Guarda, Manteigas, Meda, Pinhel, Sabugal e Trancoso.\n\nUnidade territorial da Beira Interior Sul\n\nCastelo Branco, Idanha-a-Nova, Penamacor e Vila Velha de Ródão.\n\nUnidade territorial da Cova da Beira\n\nBelmonte, Covilhã e Fundão.\n\nRegião de Lisboa e Vale do Tejo\n\nUnidade territorial da Grande Lisboa\n\nAmadora, Cascais, Lisboa, Loures, Odivelas, Oeiras, Sintra, Vila Franca de Xira e Mafra.\n\nUnidade territorial da Península de Setúbal\n\nAlcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal.\n\nUnidade territorial da Lezíria do Tejo\n\nAlmeirim, Alpiarça, Azambuja, Benavente, Cartaxo, Chamusca, Coruche, Golegã, Rio Maior, Salvaterra de Magos e Santarém.\n\nUnidade territorial do Médio Tejo\n\nAbrantes, Alcanena, Constância, Entroncamento, Ferreira do Zêzere, Ourém, Sardoal, Tomar, Torres Novas e Vila Nova da Barquinha.\n\nUnidade territorial do Oeste\n\nAlcobaça, Alenquer, Arruda dos Vinhos, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Óbidos, Peniche, Sobral de Monte Agraço e Torres Vedras.\n\nRegião do Alentejo\n\nUnidade territorial do Alentejo Litoral\n\nAlcácer do Sal, Grândola, Odemira, Santiago do Cacém e Sines.\n\nUnidade territorial do Alto Alentejo\n\nAlter do Chão, Arronches, Avis, Campo Maior, Castelo de Vide, Crato, Elvas, Fronteira, Gavião, Marvão, Monforte, Mora, Nisa, Ponte de Sor e Portalegre.\n\nUnidade territorial do Alentejo Central\n\nAlandroal, Arraiolos, Borba, Estremoz, Évora, Montemor-o-Novo, Mourão, Portel, Redondo, Reguengos de Monsaraz, Sousel, Vendas Novas, Viana do Alentejo e Vila Viçosa.\n\nUnidade territorial do Baixo Alentejo\n\nAljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa e Vidigueira.\n\nRegião do Algarve\n\nUnidade territorial do Algarve\n\nAlbufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa, Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António."
+  },
+  "214849578": {
+   "fragment_id": "214846036",
+   "type": 14,
+   "heading": "Anexo II — Municípios do continente por unidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Municípios do continente por unidades territoriais\n\n(ver documento original)"
+  },
+  "214849576": {
+   "fragment_id": "214846034",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa. - Francisco Carlos da Graça Nunes Correia.\n\nPromulgado em 3 de Abril de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 4 de Abril de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "214849583": {
+   "fragment_id": "214846035",
+   "type": 14,
+   "heading": "Anexo I — Unidades territoriais no continente",
+   "in_force_from": "2009-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+   ],
+   "markdown": "## Anexo I — Unidades territoriais no continente\n\nRegião do Norte\n\nUnidade territorial do Minho-Lima\n\nArcos de Valdevez, Caminha, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.\n\nUnidade territorial do Cávado\n\nAmares, Barcelos, Braga, Esposende, Terras de Bouro e Vila Verde.\n\nUnidade territorial do Ave\n\nCabeceiras de Basto, Fafe, Guimarães, Mondim de Basto, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Vizela.\n\nUnidade territorial do Grande Porto\n\nEspinho, Gondomar, Maia, Matosinhos, Porto, Póvoa de Varzim, Santo Tirso, Trofa, Valongo, Vila do Conde e Vila Nova de Gaia.\n\nUnidade territorial do Tâmega\n\nAmarante, Baião, Castelo de Paiva, Celorico de Basto, Cinfães, Felgueiras, Lousada, Marco de Canaveses, Paços de Ferreira, Paredes, Penafiel e Resende.\n\nUnidade territorial do Entre Douro e Vouga\n\nArouca, Santa Maria da Feira, Oliveira de Azeméis, São João da Madeira e Vale de Cambra.\n\nUnidade territorial do Douro\n\nAlijó, Armamar, Carrazeda de Ansiães, Freixo de Espada à Cinta, Lamego, Mesão Frio, Moimenta da Beira, Murça, Penedono, Peso da Régua, Sabrosa, Santa Marta de Penaguião, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Torre de Moncorvo, Vila Real e Vila Nova de Foz Côa.\n\nUnidade territorial do Alto Trás-os-Montes\n\nAlfândega da Fé, Boticas, Bragança, Chaves, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Montalegre, Ribeira de Pena, Valpaços, Vila Flor, Vila Pouca de Aguiar, Vimioso e Vinhais.\n\nRegião do Centro\n\nUnidade territorial do Baixo Vouga\n\nÁgueda, Albergaria-a-Velha, Anadia, Aveiro, Estarreja, Ílhavo, Murtosa, Oliveira do Bairro, Ovar, Sever do Vouga e Vagos.\n\nUnidade territorial do Baixo Mondego\n\nCantanhede, Coimbra, Condeixa-a-Nova, Figueira da Foz, Mealhada, Mira, Montemor-o-Velho, Mortágua, Penacova e Soure.\n\nUnidade territorial do Pinhal Litoral\n\nBatalha, Leiria, Marinha Grande, Pombal e Porto de Mós.\n\nUnidade territorial do Pinhal Interior Norte\n\nAlvaiázere, Ansião, Arganil, Castanheira de Pêra, Figueiró dos Vinhos, Góis, Lousã, Miranda do Corvo, Oliveira do Hospital, Pampilhosa da Serra, Pedrógão Grande, Penela, Tábua e Vila Nova de Poiares.\n\nUnidade territorial do Pinhal Interior Sul\n\nMação, Oleiros, Proença-a-Nova, Sertã e Vila de Rei.\n\nUnidade territorial do Dão-Lafões\n\nAguiar da Beira, Carregal do Sal, Castro Daire, Mangualde, Nelas, Oliveira de Frades, Penalva do Castelo, Santa Comba Dão, São Pedro do Sul, Sátão, Tondela, Vila Nova de Paiva, Viseu e Vouzela.\n\nUnidade territorial da Serra da Estrela\n\nFornos de Algodres, Gouveia e Seia.\n\nUnidade territorial da Beira Interior Norte\n\nAlmeida, Celorico da Beira, Figueira de Castelo Rodrigo, Guarda, Manteigas, Meda, Pinhel, Sabugal e Trancoso.\n\nUnidade territorial da Beira Interior Sul\n\nCastelo Branco, Idanha-a-Nova, Penamacor e Vila Velha de Ródão.\n\nUnidade territorial da Cova da Beira\n\nBelmonte, Covilhã e Fundão.\n\nRegião de Lisboa e Vale do Tejo\n\nUnidade territorial da Grande Lisboa\n\nAmadora, Cascais, Lisboa, Loures, Odivelas, Oeiras, Sintra, Vila Franca de Xira e Mafra.\n\nUnidade territorial da Península de Setúbal\n\nAlcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal.\n\nUnidade territorial da Lezíria do Tejo\n\nAlmeirim, Alpiarça, Azambuja, Benavente, Cartaxo, Chamusca, Coruche, Golegã, Rio Maior, Salvaterra de Magos e Santarém.\n\nUnidade territorial do Médio Tejo\n\nAbrantes, Alcanena, Constância, Entroncamento, Ferreira do Zêzere, Ourém, Sardoal, Tomar, Torres Novas e Vila Nova da Barquinha.\n\nUnidade territorial do Oeste\n\nAlcobaça, Alenquer, Arruda dos Vinhos, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Óbidos, Peniche, Sobral de Monte Agraço e Torres Vedras.\n\nRegião do Alentejo\n\nUnidade territorial do Alentejo Litoral\n\nAlcácer do Sal, Grândola, Odemira, Santiago do Cacém e Sines.\n\nUnidade territorial do Alto Alentejo\n\nAlter do Chão, Arronches, Avis, Campo Maior, Castelo de Vide, Crato, Elvas, Fronteira, Gavião, Marvão, Monforte, Nisa, Ponte de Sor, Portalegre e Sousel.\n\nUnidade territorial do Alentejo Central\n\nAlandroal, Arraiolos, Borba, Estremoz, Évora, Montemor-o-Novo, Mora, Mourão, Portel, Redondo, Reguengos de Monsaraz, Vendas Novas, Viana do Alentejo e Vila Viçosa.\n\nUnidade territorial do Baixo Alentejo\n\nAljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa e Vidigueira.\n\nRegião do Algarve\n\nUnidade territorial do Algarve\n\nAlbufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa, Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+  },
+  "214849584": {
+   "fragment_id": "214846036",
+   "type": 14,
+   "heading": "Anexo II — Municípios do continente por unidades territoriais",
+   "in_force_from": "2009-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+   ],
+   "markdown": "## Anexo II — Municípios do continente por unidades territoriais\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+  },
+  "214849593": {
+   "fragment_id": "214846035",
+   "type": 14,
+   "heading": "Anexo I — Unidades territoriais no continente",
+   "in_force_from": "2010-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 21/2010 - Diário da República n.º 163/2010, Série I de 2010-08-23](https://diariodarepublica.pt/dr/detalhe/lei/21-2010-343580), em vigor a partir de 2010-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+   ],
+   "markdown": "## Anexo I — Unidades territoriais no continente\n\nUnidades territoriais no continente\n\nRegião do Norte\n\nUnidade territorial do Minho-Lima\n\nArcos de Valdevez, Caminha, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.\n\nUnidade territorial do Cávado\n\nAmares, Barcelos, Braga, Esposende, Terras de Bouro e Vila Verde.\n\nUnidade territorial do Ave\n\nCabeceiras de Basto, Fafe, Guimarães, Mondim de Basto, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Vizela.\n\nUnidade territorial do Grande Porto\n\nEspinho, Gondomar, Maia, Matosinhos, Porto, Póvoa de Varzim, Santo Tirso, Trofa, Valongo, Vila do Conde e Vila Nova de Gaia.\n\nUnidade territorial do Tâmega\n\nAmarante, Baião, Castelo de Paiva, Celorico de Basto, Cinfães, Felgueiras, Lousada, Marco de Canaveses, Paços de Ferreira, Paredes, Penafiel e Resende.\n\nUnidade territorial do Entre Douro e Vouga\n\nArouca, Santa Maria da Feira, Oliveira de Azeméis, São João da Madeira e Vale de Cambra.\n\nUnidade territorial do Douro\n\nAlijó, Armamar, Carrazeda de Ansiães, Freixo de Espada à Cinta, Lamego, Mesão Frio, Moimenta da Beira, Murça, Penedono, Peso da Régua, Sabrosa, Santa Marta de Penaguião, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Torre de Moncorvo, Vila Real e Vila Nova de Foz Côa.\n\nUnidade territorial do Alto Trás-os-Montes\n\nAlfândega da Fé, Boticas, Bragança, Chaves, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Montalegre, Ribeira de Pena, Valpaços, Vila Flor, Vila Pouca de Aguiar, Vimioso e Vinhais.\n\nRegião do Centro\n\nUnidade territorial do Baixo Vouga\n\nÁgueda, Albergaria-a-Velha, Anadia, Aveiro, Estarreja, Ílhavo, Murtosa, Oliveira do Bairro, Ovar, Sever do Vouga e Vagos.\n\nUnidade territorial do Baixo Mondego\n\nCantanhede, Coimbra, Condeixa-a-Nova, Figueira da Foz, Mealhada, Mira, Montemor-o-Velho, Mortágua, Penacova e Soure.\n\nUnidade territorial do Pinhal Litoral\n\nBatalha, Leiria, Marinha Grande, Pombal e Porto de Mós.\n\nUnidade territorial do Pinhal Interior Norte\n\nAlvaiázere, Ansião, Arganil, Castanheira de Pêra, Figueiró dos Vinhos, Góis, Lousã, Miranda do Corvo, Oliveira do Hospital, Pampilhosa da Serra, Pedrógão Grande, Penela, Tábua e Vila Nova de Poiares.\n\nUnidade territorial do Pinhal Interior Sul\n\nOleiros, Proença-a-Nova, Sertã e Vila de Rei.\n\nUnidade territorial do Dão-Lafões\n\nAguiar da Beira, Carregal do Sal, Castro Daire, Mangualde, Nelas, Oliveira de Frades, Penalva do Castelo, Santa Comba Dão, São Pedro do Sul, Sátão, Tondela, Vila Nova de Paiva, Viseu e Vouzela.\n\nUnidade territorial da Serra da Estrela\n\nFornos de Algodres, Gouveia e Seia.\n\nUnidade territorial da Beira Interior Norte\n\nAlmeida, Celorico da Beira, Figueira de Castelo Rodrigo, Guarda, Manteigas, Meda, Pinhel, Sabugal e Trancoso.\n\nUnidade territorial da Beira Interior Sul\n\nCastelo Branco, Idanha-a-Nova, Penamacor e Vila Velha de Ródão.\n\nUnidade territorial da Cova da Beira\n\nBelmonte, Covilhã e Fundão.\n\nRegião de Lisboa e Vale do Tejo\n\nUnidade territorial da Grande Lisboa\n\nAmadora, Cascais, Lisboa, Loures, Odivelas, Oeiras, Sintra, Vila Franca de Xira e Mafra.\n\nUnidade territorial da Península de Setúbal\n\nAlcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal.\n\nUnidade territorial da Lezíria do Tejo\n\nAlmeirim, Alpiarça, Azambuja, Benavente, Cartaxo, Chamusca, Coruche, Golegã, Rio Maior, Salvaterra de Magos e Santarém.\n\nUnidade territorial do Médio Tejo\n\nAbrantes, Alcanena, Constância, Entroncamento, Ferreira do Zêzere, Mação, Ourém, Sardoal, Tomar, Torres Novas e Vila Nova da Barquinha.\n\nUnidade territorial do Oeste\n\nAlcobaça, Alenquer, Arruda dos Vinhos, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Óbidos, Peniche, Sobral de Monte Agraço e Torres Vedras.\n\nRegião do Alentejo\n\nUnidade territorial do Alentejo Litoral\n\nAlcácer do Sal, Grândola, Odemira, Santiago do Cacém e Sines.\n\nUnidade territorial do Alto Alentejo\n\nAlter do Chão, Arronches, Avis, Campo Maior, Castelo de Vide, Crato, Elvas, Fronteira, Gavião, Marvão, Monforte, Nisa, Ponte de Sor, Portalegre e Sousel.\n\nUnidade territorial do Alentejo Central\n\nAlandroal, Arraiolos, Borba, Estremoz, Évora, Montemor-o-Novo, Mora, Mourão, Portel, Redondo, Reguengos de Monsaraz, Vendas Novas, Viana do Alentejo e Vila Viçosa.\n\nUnidade territorial do Baixo Alentejo\n\nAljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa e Vidigueira.\n\nRegião do Algarve\n\nUnidade territorial do Algarve\n\nAlbufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa, Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 21/2010 - Diário da República n.º 163/2010, Série I de 2010-08-23](https://diariodarepublica.pt/dr/detalhe/lei/21-2010-343580), em vigor a partir de 2010-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+  },
+  "214849594": {
+   "fragment_id": "214846036",
+   "type": 14,
+   "heading": "Anexo II — Municípios do continente por unidades territoriais",
+   "in_force_from": "2010-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 21/2010 - Diário da República n.º 163/2010, Série I de 2010-08-23](https://diariodarepublica.pt/dr/detalhe/lei/21-2010-343580), em vigor a partir de 2010-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+   ],
+   "markdown": "## Anexo II — Municípios do continente por unidades territoriais\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 21/2010 - Diário da República n.º 163/2010, Série I de 2010-08-23](https://diariodarepublica.pt/dr/detalhe/lei/21-2010-343580), em vigor a partir de 2010-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 85/2009 - Diário da República n.º 66/2009, Série I de 2009-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2009-603260), em vigor a partir de 2009-04-04"
+  }
+ }
+}

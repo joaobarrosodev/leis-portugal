@@ -1,0 +1,1462 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222477692:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2023-222471959",
+ "dre_path": "/dr/detalhe/lei/56-2023-222477692",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "222367167",
+    "222367168",
+    "222367169",
+    "222367170",
+    "222367171",
+    "222367172",
+    "222367173",
+    "222367174",
+    "222515875",
+    "222515876",
+    "222515877",
+    "222515878",
+    "222515879",
+    "222515880",
+    "222515881",
+    "222515882",
+    "222515883",
+    "222515884",
+    "222515885",
+    "222515886",
+    "222515887",
+    "222515888",
+    "222515889",
+    "222515890",
+    "222515891",
+    "222515892",
+    "222515893",
+    "222515894",
+    "222515895",
+    "222515896",
+    "222515897",
+    "222515898",
+    "222515899",
+    "222515900",
+    "222515901",
+    "222515902",
+    "222515903",
+    "222515904",
+    "222515905",
+    "222515906",
+    "222515907",
+    "222515908",
+    "222515909",
+    "222515910",
+    "222515911",
+    "222515912",
+    "222515913",
+    "222515914",
+    "222515915",
+    "222515916",
+    "222515917",
+    "222515918",
+    "222515919",
+    "222515920",
+    "222515921",
+    "222515922",
+    "222515923",
+    "222515924",
+    "222515925",
+    "222515926",
+    "222515927",
+    "222515928",
+    "222515929",
+    "222515930",
+    "222515931",
+    "222515932",
+    "222515933",
+    "222515934",
+    "222515935",
+    "222515936",
+    "222515937",
+    "222515938",
+    "222515939",
+    "222515940",
+    "838758706",
+    "838758707",
+    "838758708",
+    "838758709",
+    "838758710",
+    "838758711",
+    "838758712",
+    "838758713",
+    "838758714",
+    "838758715",
+    "838758716",
+    "838758717",
+    "838758718",
+    "838758719",
+    "838758720",
+    "838758721",
+    "838758722"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 50.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "222367167",
+    "222367168",
+    "222367169",
+    "222367170",
+    "222367171",
+    "222367172",
+    "222367173",
+    "222367174",
+    "222515875",
+    "222515876",
+    "222515877",
+    "222515878",
+    "222515879",
+    "222515880",
+    "222515881",
+    "222515882",
+    "222515883",
+    "222515884",
+    "222515885",
+    "222515886",
+    "222515887",
+    "222515888",
+    "222515889",
+    "222515890",
+    "222515891",
+    "222515892",
+    "222515893",
+    "222515894",
+    "222515895",
+    "222515896",
+    "222515897",
+    "222515898",
+    "222515899",
+    "222515900",
+    "222515901",
+    "222515902",
+    "222515903",
+    "222515904",
+    "222515905",
+    "222515906",
+    "222515907",
+    "222515908",
+    "222515909",
+    "222515910",
+    "222515911",
+    "222515912",
+    "222515913",
+    "222515914",
+    "222515915",
+    "222515916",
+    "222515917",
+    "222515918",
+    "222515919",
+    "222515920",
+    "222515921",
+    "222515922",
+    "222515923",
+    "222515924",
+    "222515925",
+    "222515926",
+    "222515927",
+    "222515928",
+    "222515929",
+    "222515930",
+    "222515931",
+    "222515932",
+    "222515933",
+    "222515934",
+    "838758723",
+    "222515936",
+    "222515937",
+    "222515938",
+    "222515939",
+    "222515940",
+    "222515941",
+    "838758705",
+    "838758706",
+    "838758707",
+    "838758724",
+    "838758709",
+    "838758710",
+    "838758711",
+    "838758712",
+    "838758713",
+    "838758714",
+    "838758715",
+    "838758716",
+    "838758717",
+    "838758718",
+    "838758719",
+    "838758720",
+    "838758721",
+    "838758722"
+   ]
+  },
+  {
+   "date": "2024-09-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887319191:por",
+     "title": "Decreto-Lei n.º 57/2024",
+     "published": "2024-09-10",
+     "dre_path": "/dr/detalhe/decreto-lei/57-2024-887319191"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 22.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "222367167",
+    "222367168",
+    "887317268",
+    "222367170",
+    "222367171",
+    "222367172",
+    "222367173",
+    "222367174",
+    "222515875",
+    "222515876",
+    "222515877",
+    "222515878",
+    "222515879",
+    "222515880",
+    "222515881",
+    "222515882",
+    "222515883",
+    "222515884",
+    "222515885",
+    "222515886",
+    "222515887",
+    "222515888",
+    "222515889",
+    "222515890",
+    "222515891",
+    "222515892",
+    "222515893",
+    "222515894",
+    "222515895",
+    "222515896",
+    "222515897",
+    "222515898",
+    "887317269",
+    "222515900",
+    "222515901",
+    "222515902",
+    "222515903",
+    "222515904",
+    "222515905",
+    "222515906",
+    "222515907",
+    "222515908",
+    "222515909",
+    "222515910",
+    "222515911",
+    "222515912",
+    "222515913",
+    "222515914",
+    "222515915",
+    "222515916",
+    "222515917",
+    "222515918",
+    "222515919",
+    "222515920",
+    "222515921",
+    "222515922",
+    "222515923",
+    "222515924",
+    "222515925",
+    "222515926",
+    "222515927",
+    "222515928",
+    "222515929",
+    "222515930",
+    "222515931",
+    "222515932",
+    "222515933",
+    "222515934",
+    "838758723",
+    "222515936",
+    "222515937",
+    "222515938",
+    "222515939",
+    "222515940",
+    "222515941",
+    "887317270",
+    "887317271",
+    "887317272",
+    "887317273",
+    "887317274",
+    "887423275",
+    "887423276",
+    "887423277",
+    "887423278",
+    "887423279",
+    "887423280",
+    "887423281",
+    "887423282",
+    "887423283",
+    "887423284",
+    "887423285",
+    "887423286",
+    "887423287"
+   ]
+  },
+  {
+   "date": "2024-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:892301177:por",
+     "title": "Decreto-Lei n.º 76/2024",
+     "published": "2024-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/76-2024-892301177"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 52.º"
+   ],
+   "fragments": [
+    "222367167",
+    "222367168",
+    "887317268",
+    "222367170",
+    "222367171",
+    "222367172",
+    "222367173",
+    "222367174",
+    "222515875",
+    "222515876",
+    "222515877",
+    "222515878",
+    "222515879",
+    "222515880",
+    "222515881",
+    "222515882",
+    "222515883",
+    "222515884",
+    "222515885",
+    "222515886",
+    "222515887",
+    "222515888",
+    "222515889",
+    "222515890",
+    "222515891",
+    "222515892",
+    "222515893",
+    "222515894",
+    "892448521",
+    "892448522",
+    "892448523",
+    "892448524",
+    "887317269",
+    "222515900",
+    "222515901",
+    "222515902",
+    "222515903",
+    "222515904",
+    "222515905",
+    "222515906",
+    "222515907",
+    "222515908",
+    "222515909",
+    "222515910",
+    "222515911",
+    "222515912",
+    "222515913",
+    "222515914",
+    "222515915",
+    "222515916",
+    "222515917",
+    "222515918",
+    "222515919",
+    "222515920",
+    "222515921",
+    "222515922",
+    "222515923",
+    "222515924",
+    "222515925",
+    "222515926",
+    "222515927",
+    "222515928",
+    "222515929",
+    "222515930",
+    "222515931",
+    "222515932",
+    "222515933",
+    "222515934",
+    "838758723",
+    "222515936",
+    "892448525",
+    "222515938",
+    "222515939",
+    "222515940",
+    "222515941",
+    "887317270",
+    "887317271",
+    "887317272",
+    "887317273",
+    "887317274",
+    "887423275",
+    "887423276",
+    "887423277",
+    "887423278",
+    "887423279",
+    "887423280",
+    "887423281",
+    "887423282",
+    "887423283",
+    "887423284",
+    "887423285",
+    "887423286",
+    "887423287"
+   ]
+  }
+ ],
+ "fragments": {
+  "222367167": {
+   "fragment_id": "222471960",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 56/2023\n\nde 6 de outubro\n\nSumário: Aprova medidas no âmbito da habitação, procedendo a diversas alterações legislativas.\n\nAprova medidas no âmbito da habitação, procedendo a diversas alterações legislativas\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "222367168": {
+   "fragment_id": "222471961",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "222367169": {
+   "fragment_id": "222471962",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece medidas com o objetivo de garantir mais habitação.\n\n2 - Para efeitos do disposto no número anterior, a presente lei procede:\n\na) À criação de um apoio à promoção de habitação para arrendamento acessível;\n\nb) Ao desenvolvimento de uma Nova Geração de Cooperativismo para a Promoção de Habitação Acessível;\n\nc) À definição de regras excecionais e transitórias quanto ao valor das rendas nos novos contratos de arrendamento, subsequentes a contratos celebrados nos últimos cinco anos;\n\nd) À definição de mecanismos de proteção dos inquilinos com contratos de arrendamento anteriores a 1990 e à garantia da justa compensação do senhorio;\n\ne) À integração da tramitação do procedimento especial de despejo e da injunção em matéria de arrendamento junto do Balcão do Arrendatário e do Senhorio (BAS), para simplificação e melhoria do seu funcionamento e reforço das garantias das partes;\n\nf) À aprovação de várias medidas fiscais de incentivo e apoio ao arrendamento;\n\ng) Ao incentivo à transferência de apartamentos em alojamento local para o arrendamento habitacional;\n\nh) À criação de uma contribuição extraordinária sobre apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício em alojamento local;\n\ni) À revogação das autorizações de residência para atividade de investimento imobiliário;\n\nj) Ao alargamento do âmbito de isenções de fiscalização prévia do Tribunal de Contas.\n\n3 - Para concretizar o disposto no número anterior, a presente lei procede:\n\na) À alteração ao Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT), aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro;\n\nb) À segunda alteração ao Decreto-Lei n.º 159/2006, de 8 de agosto, que aprova a definição do conceito fiscal de prédio devoluto, alterado pelo Decreto-Lei n.º 67/2019, de 21 de maio;\n\nc) À quinta alteração ao Regime Jurídico da Reabilitação Urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro, alterado pela Lei n.º 32/2012, de 14 de agosto, e pelos Decretos-Leis n.os 136/2014, de 9 de setembro, 88/2017, de 27 de julho, e 66/2019, de 21 de maio;\n\nd) À quinta alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto, que aprova o regime jurídico da exploração dos estabelecimentos de alojamento local, alterado pelo Decreto-Lei n.º 63/2015, de 23 de abril, pelas Leis n.os 62/2018, de 22 de agosto, e 71/2018, de 31 de dezembro, e pelo Decreto-Lei n.º 9/2021, de 29 de janeiro;\n\ne) À alteração ao Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro;\n\nf) À primeira alteração ao Decreto-Lei n.º 89/2021, de 3 de novembro, que regulamenta normas da Lei de Bases da Habitação relativas à garantia de alternativa habitacional, ao direito legal de preferência e à fiscalização de condições de habitabilidade;\n\ng) À alteração ao Código do Imposto sobre o Valor Acrescentado (IVA), aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro;\n\nh) À alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro;\n\ni) À alteração ao Estatuto dos Benefícios Fiscais (EBF), aprovado em anexo ao Decreto-Lei n.º 215/89, de 1 de julho;\n\nj) À alteração ao Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro;\n\nk) À alteração ao Código do Imposto Municipal sobre Imóveis (IMI), aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro;\n\nl) À terceira alteração à Lei n.º 19/2022, de 21 de outubro, que determina o coeficiente de atualização de rendas para 2023, cria um apoio extraordinário ao arrendamento, reduz o IVA no fornecimento de eletricidade, estabelece um regime transitório de atualização das pensões, estabelece um regime de resgate de planos de poupança e determina a impenhorabilidade de apoios às famílias, alterada pela Leis n.os 24-D/2022, de 30 de dezembro, e 24/2023, de 29 de maio;\n\nm) À oitava alteração ao Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, 79/2014, de 19 de dezembro, 42/2017, de 14 de junho, 43/2017, de 14 de junho, 12/2019, de 12 de fevereiro, 13/2019, de 12 de fevereiro, e 2/2020, de 31 de março;\n\nn) À primeira alteração ao Decreto-Lei n.º 1/2013, de 7 de janeiro, que procede à instalação e à definição das regras do funcionamento do Balcão Nacional do Arrendamento e do procedimento especial de despejo;\n\no) À primeira alteração ao Decreto-Lei n.º 34/2021, de 14 de maio, que procede à aprovação do Regime do Procedimento de Injunção em Matéria de Arrendamento;\n\np) À décima terceira alteração à Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, alterada pelas Leis n.os 29/2012, de 9 de agosto, 56/2015, de 23 de junho, 63/2015, de 30 de junho, 59/2017, de 31 de julho, 102/2017, de 28 de agosto, 26/2018, de 5 de julho, e 28/2019, de 29 de março, pelo Decreto-Lei n.º 14/2021, de 12 de fevereiro, pela Lei n.º 18/2022, de 25 de agosto, pelo Decreto-Lei n.º 41/2023, de 2 de junho, e pelas Leis n.os 41/2023, de 10 de agosto, e 53/2023, de 31 de agosto;\n\nq) À décima quarta alteração à Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de agosto, alterada pelas Leis n.os 87-B/98, de 31 de dezembro, 1/2001, de 4 de janeiro, 55-B/2004, de 30 de dezembro, 48/2006, de 29 de agosto, 35/2007, de 13 de agosto, 3-B/2010, de 28 de abril, 61/2011, de 7 de dezembro, 2/2012, de 6 de janeiro, 20/2015, de 9 de março, 42/2016, de 28 de dezembro, 2/2020, de 31 de março, 27-A/2020, de 24 de julho, e 12/2022, de 27 de junho;\n\nr) À primeira alteração ao Decreto-Lei n.º 20-B/2023, de 22 de março, que cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito."
+  },
+  "222367170": {
+   "fragment_id": "222471963",
+   "type": 1,
+   "heading": "Capítulo II — Promoção de habitação acessível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Promoção de habitação acessível"
+  },
+  "222367171": {
+   "fragment_id": "222471964",
+   "type": 8,
+   "heading": "Secção I — Habitação para arrendamento acessível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Habitação para arrendamento acessível"
+  },
+  "222367172": {
+   "fragment_id": "222471965",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "222367173": {
+   "fragment_id": "222471966",
+   "type": 11,
+   "heading": "Artigo 2.º — Promoção de habitação acessível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Promoção de habitação acessível\n\nÉ criado um apoio à promoção de habitação para arrendamento acessível."
+  },
+  "222367174": {
+   "fragment_id": "222471967",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nPodem ter acesso ao apoio previsto na presente secção as seguintes entidades:\n\na) As cooperativas de habitação e construção, que cumpram as condições de acesso previstas no artigo 4.º do Decreto-Lei n.º 145/97, de 11 de junho, que regula a concessão de financiamentos a cooperativas de habitação e construção para construção de habitações a custos controlados;\n\nb) As sociedades comerciais que se dediquem à construção civil, em consórcio ou sob outra forma de associação com sociedades comerciais cujo objeto social inclua o arrendamento para habitação e a gestão de património, que cumpram as condições de acesso previstas no artigo 4.º do Decreto-Lei n.º 165/93, de 7 de maio, que regula a concessão de financiamentos a empresas privadas de construção civil para a construção de habitação de custos controlados ao abrigo de contratos de desenvolvimento para habitação, ou sociedades em cujo capital aquelas participem, bem como entidades que se dediquem à promoção e ao investimento imobiliário;\n\nc) A IHM - Investimentos Habitacionais da Madeira, EPERAM, e a Direção Regional da Habitação dos Açores, isoladamente ou em parceria com as entidades referidas nas alíneas anteriores;\n\nd) Os municípios e as juntas de freguesia, isoladamente ou em parceria com as entidades referidas nas alíneas anteriores;\n\ne) As misericórdias, as instituições particulares de solidariedade social e as pessoas coletivas de utilidade pública administrativa ou de reconhecido interesse público."
+  },
+  "222515875": {
+   "fragment_id": "222471968",
+   "type": 11,
+   "heading": "Artigo 4.º — Extensão do regime ao alojamento estudantil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Extensão do regime ao alojamento estudantil\n\n1 - O disposto na presente secção é aplicável, com as necessárias adaptações, ao alojamento estudantil.\n\n2 - A adesão a este regime está sujeita à aplicação de valores máximos de preços mensais de alojamento para estudantes, definidos em portaria pelos membros do Governo responsáveis pelas áreas do ensino superior e da habitação."
+  },
+  "222515876": {
+   "fragment_id": "222471969",
+   "type": 3,
+   "heading": "Subsecção II — Modelo e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Modelo e financiamento"
+  },
+  "222515877": {
+   "fragment_id": "222471970",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidades de apoio\n\n1 - Para a promoção de habitação para arrendamento acessível, os beneficiários podem aceder aos incentivos previstos na legislação fiscal, bem como às seguintes modalidades de apoio:\n\na) Linha de financiamento;\n\nb) Cedência de terrenos e edifícios públicos.\n\n2 - Os fogos promovidos e disponibilizados ao abrigo do apoio previsto na presente secção ficam sujeitos, por todo o período de concessão e eventuais renovações, ao regime fiscal aplicável ao arrendamento acessível em vigor no início da concessão, sem prejuízo de regime fiscal mais favorável que vier a ser definido."
+  },
+  "222515878": {
+   "fragment_id": "222471971",
+   "type": 11,
+   "heading": "Artigo 6.º — Linha de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Linha de financiamento\n\n1 - Para efeitos do disposto na presente secção, é disponibilizada uma linha de financiamento, com garantia mútua e bonificação da taxa de juro, para projetos na área da habitação acessível, nomeadamente para construção ou reabilitação, incluindo a aquisição do imóvel para este efeito, e posterior arrendamento, no montante global máximo de 250 000 000 (euro).\n\n2 - A linha de financiamento é promovida pelo Banco Português de Fomento, S. A., no prazo de 45 dias a contar da entrada em vigor da presente lei ou, quando posterior, na data da aprovação das condições legalmente exigidas.\n\n3 - Os termos e as condições da linha de financiamento são regulamentados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia e da habitação, mediante proposta do Banco Português de Fomento, S. A., em colaboração com o Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.)\n\n4 - É admitido o arrendamento a entidades públicas para subsequente subarrendamento a candidatos que cumpram os critérios de elegibilidade no âmbito dos programas promovidos por aquelas entidades na área da habitação acessível.\n\n5 - Para os efeitos previstos no n.º 1, o Governo fica autorizado a conceder garantia pelo Estado a favor do Fundo de Contragarantia Mútuo, considerando, para esse efeito, o limite previsto no n.º 3 do artigo 106.º da Lei n.º 24-D/2022, de 30 de dezembro, aplicando-se com as necessárias adaptações o disposto na Lei n.º 112/97, de 16 de setembro."
+  },
+  "222515879": {
+   "fragment_id": "222471972",
+   "type": 11,
+   "heading": "Artigo 7.º — Cedência de terrenos e edifícios públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cedência de terrenos e edifícios públicos\n\n1 - O Governo identifica o património imobiliário público para cedência ao abrigo do presente apoio, com vista à promoção, disponibilização e gestão de arrendamento acessível.\n\n2 - A afetação do património é realizada através de cedência do direito de superfície, por um prazo máximo de 90 anos, renovável mediante acordo entre as partes para o mesmo fim.\n\n3 - O direito de superfície previsto no número anterior é transmissível, desde que salvaguardados todos os direitos e deveres inerentes, nomeadamente o dever de afetação dos fogos à promoção de habitação para arrendamento acessível.\n\n4 - Não é permitida a transferência da propriedade plena para os beneficiários."
+  },
+  "222515880": {
+   "fragment_id": "222471973",
+   "type": 3,
+   "heading": "Subsecção III — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Limites"
+  },
+  "222515881": {
+   "fragment_id": "222471974",
+   "type": 11,
+   "heading": "Artigo 8.º — Limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Limites dos apoios\n\n1 - As habitações construídas com financiamentos concedidos ao abrigo da alínea a) do n.º 1 do artigo 5.º estão sujeitas aos parâmetros e valores em vigor para a habitação de custos controlados, nomeadamente quanto ao custo de promoção por metro quadrado.\n\n2 - Os limites de preço de renda fixados ao abrigo do Decreto-Lei n.º 68/2019, de 22 de maio, servem de cálculo e são aplicáveis aos contratos de arrendamento celebrados pelas entidades previstas no artigo 3.º"
+  },
+  "222515882": {
+   "fragment_id": "222515975",
+   "type": 11,
+   "heading": "Artigo 9.º — Inalienabilidade e preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inalienabilidade e preferência\n\n1 - Os fogos promovidos ao abrigo da presente secção ficam afetos ao arrendamento acessível, pelo período mínimo de:\n\na) 90 anos, renovável, quando haja cedência do direito de superfície;\n\nb) 25 anos nos restantes casos.\n\n2 - Decorrido o prazo de arrendamento previsto no número anterior, e em caso de venda, os municípios e o IHRU, I. P., têm direito de preferência na aquisição dos fogos promovidos ao abrigo do presente apoio, por valor calculado de acordo com a legislação aplicável à promoção de habitações a custos controlados, reportados à data de conclusão do empreendimento e atualizado pelo fator de correção monetária."
+  },
+  "222515883": {
+   "fragment_id": "222515976",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação dos apoios\n\n1 - O IHRU, I. P., assegura a realização de uma avaliação externa aos apoios de linha de financiamento e cedência de terrenos e edifícios públicos, após 18 meses de execução deste programa.\n\n2 - Após a primeira avaliação, os apoios referidos no número anterior são avaliados por cada ano de execução."
+  },
+  "222515884": {
+   "fragment_id": "222515977",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regulamentação\n\nOs termos e condições do apoio previsto na presente secção são regulamentados por portaria do membro do Governo responsável pela área da habitação, no prazo de 90 dias a contar da data de entrada em vigor da presente lei."
+  },
+  "222515885": {
+   "fragment_id": "222515978",
+   "type": 8,
+   "heading": "Secção II — Parcerias entre o Estado, as autarquias locais e o setor cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Parcerias entre o Estado, as autarquias locais e o setor cooperativo"
+  },
+  "222515886": {
+   "fragment_id": "222515979",
+   "type": 11,
+   "heading": "Artigo 12.º — Nova Geração de Cooperativismo para a Promoção de Habitação Acessível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Nova Geração de Cooperativismo para a Promoção de Habitação Acessível\n\n1 - É permitida a cedência de imóveis públicos através de protocolo entre as entidades do setor cooperativo e o IHRU, I. P., no âmbito da criação de um conjunto de projetos-piloto a integrar na Nova Geração de Cooperativismo para a Promoção de Habitação Acessível.\n\n2 - No protocolo referido no número anterior devem, sempre que possível, participar o município territorialmente competente e as entidades representativas das juntas de freguesia.\n\n3 - No caso de reabilitação do parque habitacional existente, a Nova Geração de Cooperativismo para a Promoção de Habitação Acessível é assegurada através de financiamento público, a fundo perdido, no valor de 25 % do custo total de construção.\n\n4 - O protocolo referido no n.º 1 é celebrado no prazo de 30 dias após a entrada em vigor da presente lei e pressupõe:\n\na) A identificação dos imóveis públicos a ceder;\n\nb) Os instrumentos de financiamento disponíveis e a criar;\n\nc) Os atos de execução necessários até ao início dos projetos-piloto; e\n\nd) As obrigações assumidas entre as partes na promoção e apoio técnico, legislativo e institucional, às cooperativas de habitação participantes e aos cidadãos interessados na sua constituição.\n\n5 - As entidades do setor cooperativo subscritoras do protocolo referido no n.º 1 devem criar um registo de cooperadores, com especial enfoque nos jovens, e dinamizar a constituição de novas cooperativas.\n\n6 - A Nova Geração de Cooperativismo para a Promoção de Habitação Acessível baseia-se nos seguintes princípios:\n\na) Construir a partir da utilização de um lote ou edifício de propriedade coletiva e não divisível;\n\nb) Assentar numa cedência do direito de superfície nunca inferior a 75 anos, finda a qual o lote e edifício revertem para o Estado;\n\nc) Assentar num modelo económico não lucrativo;\n\nd) Desenvolver os projetos de forma aberta, democrática e intergeracional, com enfoque em modelos de habitação colaborativa e espaços de organização partilhada e/ou comum;\n\ne) Promover modelos de projeto e construção inovadores e sustentáveis;\n\nf) Favorecer, sempre que possível, a mobilidade suave dos seus habitantes;\n\ng) Fomentar a replicabilidade e colaboração entre projetos cooperativos.\n\n7 - No prazo de seis meses após a entrada em vigor da presente lei, devem ser desenvolvidos e acelerados modelos cooperativos a realizar em propriedade pública ao abrigo de modelos de direito de superfície a longo termo.\n\n8 - Os municípios referidos no n.º 2 podem enquadrar os projetos-piloto nas respetivas Estratégias Locais de Habitação, ao abrigo do Decreto-Lei n.º 37/2018, de 4 de junho.\n\n9 - As despesas com a definição e implementação do disposto no presente artigo são suportadas pelo IHRU, I. P., enquanto entidade coordenadora do projeto-piloto."
+  },
+  "222515887": {
+   "fragment_id": "222515980",
+   "type": 1,
+   "heading": "Capítulo III — Incentivos ao arrendamento habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Incentivos ao arrendamento habitacional"
+  },
+  "222515888": {
+   "fragment_id": "222515981",
+   "type": 8,
+   "heading": "Secção I — Aquisição e utilização de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Aquisição e utilização de imóveis"
+  },
+  "222515889": {
+   "fragment_id": "222515982",
+   "type": 11,
+   "heading": "Artigo 13.º — Aquisição de bens imóveis por entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aquisição de bens imóveis por entidades públicas\n\n1 - É permitida a aquisição onerosa do direito de propriedade ou de outros direitos reais sobre bens imóveis, para arrendamento acessível, por entidades públicas, devendo, em qualquer caso, o valor da aquisição ser compatível com o que resulte do procedimento de avaliação.\n\n2 - É ainda permitida a aquisição, no todo ou em parte, de empreendimentos habitacionais de custos controlados, incluindo as partes acessórias das habitações, construídos ou a construir.\n\n3 - O regime previsto no número anterior aplica-se, com as necessárias alterações, ao arrendamento para posterior subarrendamento habitacional."
+  },
+  "222515890": {
+   "fragment_id": "222515983",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração ao Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração ao Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis\n\nOs artigos 7.º e 11.º do Código do IMT passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Quando o prédio tenha sido revendido sem ser novamente para revenda, no prazo de um ano, e haja sido pago imposto, este é anulado pelo chefe de finanças, a requerimento do interessado, acompanhado de documento comprovativo da transação, considerando-se como facto superveniente nos termos e para os efeitos do disposto no n.º 4 do artigo 70.º do Código de Procedimento e de Processo Tributário.\n\nArtigo 11.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - A aquisição a que se refere o artigo 7.º deixa de beneficiar de isenção logo que se verifique que aos prédios adquiridos para revenda foi dado destino diferente ou que os mesmos não foram revendidos dentro do prazo de um ano ou o foram novamente para revenda.\n\n6 - Nos casos previstos no número anterior, o imposto é devido desde a aquisição, acrescendo juros compensatórios nos termos do artigo 33.º\n\n7 - (Anterior n.º 6.)\n\n8 - (Anterior n.º 7.)\n\n9 - (Anterior n.º 8.)\n\n10 - Para efeitos do disposto no n.º 5, considera-se destino diferente a conclusão de obras, de edificação ou de melhoramento, ou outras alterações que possam determinar variação do seu valor patrimonial tributário.»"
+  },
+  "222515891": {
+   "fragment_id": "222515984",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração ao Decreto-Lei n.º 159/2006, de 8 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração ao Decreto-Lei n.º 159/2006, de 8 de agosto\n\nOs artigos 3.º e 5.º do Decreto-Lei n.º 159/2006, de 8 de agosto, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) Adquirido para revenda por pessoas singulares ou coletivas, nas mesmas condições do artigo 7.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de novembro, bem como adquirido pelas entidades e nas condições referidas no artigo 8.º do mesmo Código, desde que, em qualquer dos casos, tenham beneficiado ou venham a beneficiar da isenção do imposto municipal sobre as transmissões onerosas de imóveis e durante o período de um ano a contar da data da aquisição;\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\nArtigo 5.º\n\n[...]\n\n1 - [...]\n\n2 - As empresas de telecomunicações e as empresas distribuidoras de gás, eletricidade e água enviam obrigatoriamente aos municípios, até ao dia 1 de outubro de cada ano, uma lista atualizada da ausência de contratos de fornecimento ou de consumos ou de consumos baixos, por cada prédio urbano ou fração autónoma, através de comunicação eletrónica ou outro suporte informático.\n\n3 - A lista referida no número anterior inclui obrigatoriamente a identificação matricial de cada prédio.»"
+  },
+  "222515892": {
+   "fragment_id": "222515985",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração ao Decreto-Lei n.º 307/2009, de 23 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração ao Decreto-Lei n.º 307/2009, de 23 de outubro\n\nO artigo 15.º do Decreto-Lei n.º 307/2009, de 23 de outubro, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - A caducidade prevista no número anterior não produz efeitos relativamente a proprietários e titulares de outros direitos, ónus e encargos sobre os edifícios ou frações, aos quais tenham sido concedidos benefícios fiscais ao abrigo do artigo 14.º»"
+  },
+  "222515893": {
+   "fragment_id": "222515986",
+   "type": 8,
+   "heading": "Secção II — Alojamento local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Alojamento local"
+  },
+  "222515894": {
+   "fragment_id": "222515987",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto\n\nOs artigos 5.º, 6.º, 7.º, 9.º e 21.º do Decreto-Lei n.º 128/2014, de 29 de agosto, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Sempre que o estabelecimento de alojamento local seja registado em fração autónoma de edifício em regime de propriedade horizontal que se destine, no título constitutivo, a habitação, deve o registo ser precedido de decisão do condomínio para uso diverso de exercício da atividade de alojamento local.\n\n5 - A decisão é tomada nos termos do n.º 1 do artigo 1419.º do Código Civil.\n\nArtigo 6.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) Período de sazonalidade, sempre que se trate de habitação própria e permanente utilizada para este fim por período não superior a 120 dias.\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) Ata da assembleia de condóminos autorizando a instalação, no caso dos hostels, e dos alojamentos locais aprovados nos termos dos n.os 4 e 5 do artigo anterior;\n\ng) [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\nArtigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - O número de registo do estabelecimento de alojamento local é pessoal e intransmissível, ainda que na titularidade ou propriedade de pessoa coletiva.\n\n3 - [...]\n\na) [...]\n\nb) Transmissão de qualquer parte do capital social da pessoa coletiva titular do registo, independentemente da percentagem.\n\n4 - O disposto nos n.os 2 e 3 não se aplica em caso de sucessão.\n\nArtigo 9.º\n\n[...]\n\n1 - [...]\n\n2 - No caso de a atividade de alojamento local ser exercida numa fração autónoma de edifício ou parte de prédio urbano suscetível de utilização independente, a assembleia de condóminos, por deliberação de pelo menos dois terços da permilagem do edifício, pode opor-se ao exercício da atividade de alojamento local na referida fração, salvo quando o título constitutivo expressamente preveja a utilização da fração para fins de alojamento local ou tiver havido deliberação expressa da assembleia de condóminos a autorizar a utilização da fração para aquele fim.\n\n3 - (Revogado.)\n\n4 - Para efeitos do cancelamento do registo, a assembleia de condóminos dá conhecimento da sua deliberação ao presidente da câmara municipal territorialmente competente, produzindo efeitos no prazo de 60 dias após envio da deliberação.\n\n5 - O cancelamento do registo determina a imediata cessação da exploração do estabelecimento.\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior proémio do n.º 6.)\n\na) [Anterior alínea a) do n.º 6.]\n\nb) Quando esteja em causa o cancelamento nos termos do n.º 2, a impossibilidade de o imóvel em questão ser explorado como alojamento local, independentemente da respetiva entidade, até deliberação em contrário da assembleia de condóminos.\n\n8 - (Anterior n.º 7.)\n\n9 - A assembleia de condóminos pode determinar, por deliberação aprovada por maioria dos votos representativos do capital investido, que os estabelecimentos de alojamento local disponham de um número de contacto telefónico permanente de emergência, o qual deve ser facultado aos demais condóminos.\n\n10 - Os titulares de estabelecimentos de alojamento local instalados em frações autónomas de edifício constituído em propriedade horizontal devem afixar em local bem visível no interior dos seus estabelecimentos uma sinalética com os horários previstos no Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 9/2007, de 17 de janeiro.\n\nArtigo 21.º\n\n[...]\n\n1 - Compete à ASAE, à câmara municipal e à junta de freguesia territorialmente competentes fiscalizar o cumprimento do disposto no presente decreto-lei, competindo à ASAE e à câmara municipal territorialmente competente instruir os respetivos processos e aplicar as respetivas coimas e sanções acessórias.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - Findo o prazo fixado nos termos do número anterior sem que o estabelecimento tenha iniciado o processo de autorização de utilização para fins turísticos, o Turismo de Portugal, I. P., informa a ASAE, a câmara municipal e a junta de freguesia territorialmente competentes e a AT.»"
+  },
+  "222515895": {
+   "fragment_id": "222515988",
+   "type": 11,
+   "heading": "Artigo 18.º — Aditamento ao Decreto-Lei n.º 128/2014, de 29 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aditamento ao Decreto-Lei n.º 128/2014, de 29 de agosto\n\nÉ aditado ao Decreto-Lei n.º 128/2014, de 29 de agosto, o artigo 6.º-A, com a seguinte redação:\n\n«Artigo 6.º-A\n\nRenovação do registo de estabelecimento de alojamento local\n\n1 - O registo de estabelecimento de alojamento local tem a duração de cinco anos, renovável por iguais períodos.\n\n2 - A primeira renovação é contada a partir da data de emissão do título de abertura ao público.\n\n3 - As renovações do registo carecem de deliberação expressa da câmara municipal territorialmente competente, com faculdade de delegação e subdelegação, no prazo definido em regulamento municipal, podendo opor-se, com base nos requisitos de funcionamento dos estabelecimentos ou, quando aplicável, com o previsto na respetiva Carta Municipal de Habitação.»"
+  },
+  "222515896": {
+   "fragment_id": "222515989",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão de novos registos de alojamento local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão de novos registos de alojamento local\n\n1 - A emissão de novos registos de estabelecimento de alojamento local, ao abrigo do Decreto-Lei n.º 128/2014, de 29 de agosto, nas modalidades de apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício, fica suspensa em todo o território nacional, com exceção dos territórios do interior identificados no anexo à Portaria n.º 208/2017, de 13 de julho, nos termos previstos nos números seguintes.\n\n2 - Os municípios definem, expressamente, nas respetivas Cartas Municipais de Habitação, aprovadas nos termos previstos no artigo 22.º da Lei n.º 83/2019, de 3 de setembro, o adequado equilíbrio de oferta de habitações e alojamento estudantil no respetivo território, que permita o termo da suspensão prevista no número anterior, sem prejuízo da identificação das regras e dos limites da utilização de frações habitacionais para alojamento local.\n\n3 - A suspensão prevista no n.º 1 mantém-se na totalidade ou parte da área do município em que tenha sido declarada a situação de carência habitacional, nos termos do artigo 62.º da Lei n.º 83/2019, de 3 de setembro.\n\n4 - O disposto no presente artigo não se aplica à exploração de imóveis integrados no Fundo Revive Natureza, nos termos do Decreto-Lei n.º 161/2019, de 25 de outubro.\n\n5 - O disposto no presente artigo não se aplica às Regiões Autónomas."
+  },
+  "222515897": {
+   "fragment_id": "222515990",
+   "type": 11,
+   "heading": "Artigo 20.º — Reapreciação de registos de alojamento local emitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reapreciação de registos de alojamento local emitidos\n\n1 - Os registos de alojamento local emitidos à data da entrada em vigor da presente lei são reapreciados durante o ano de 2030, nos termos previstos no artigo 6.º-A do Decreto-Lei n.º 128/2014, de 29 de agosto.\n\n2 - Os registos referidos no número anterior são, a partir da primeira reapreciação, renováveis por cinco anos.\n\n3 - Excetuam-se do disposto no n.º 1 os estabelecimentos de alojamento local que constituam garantia real de contratos de mútuo celebrados até 16 de fevereiro de 2023, que ainda não tenham sido integralmente liquidados a 31 de dezembro de 2029, cuja primeira reapreciação só tem lugar após a amortização integral inicialmente contratada."
+  },
+  "222515898": {
+   "fragment_id": "222515991",
+   "type": 11,
+   "heading": "Artigo 21.º — Caducidade de registos inativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Caducidade de registos inativos\n\n1 - No prazo de dois meses a contar da data de entrada em vigor da presente lei, os titulares do registo de alojamento local são obrigados a efetuar prova, mediante apresentação de declaração contributiva, da manutenção da atividade de exploração, comunicando efetividade de exercício na plataforma RNAL - Registo Nacional de Alojamento Local, através do Balcão Único Eletrónico previsto no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - O incumprimento do disposto no número anterior implica o cancelamento dos respetivos registos, por decisão do presidente da câmara municipal territorialmente competente.\n\n3 - O disposto nos números anteriores não é aplicável à exploração de unidades de alojamento local em habitação própria e permanente, desde que essa exploração não ultrapasse 120 dias por ano."
+  },
+  "222515899": {
+   "fragment_id": "222515992",
+   "type": 11,
+   "heading": "Artigo 22.º — Contribuição extraordinária sobre os apartamentos em alojamento local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Contribuição extraordinária sobre os apartamentos em alojamento local\n\nÉ criada uma contribuição extraordinária sobre os apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício em alojamento local, cujo regime é aprovado no anexo à presente lei e da qual faz parte integrante."
+  },
+  "222515900": {
+   "fragment_id": "222515993",
+   "type": 8,
+   "heading": "Secção III — Habitabilidade e arrendamento de imóveis devolutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Habitabilidade e arrendamento de imóveis devolutos"
+  },
+  "222515901": {
+   "fragment_id": "222515994",
+   "type": 11,
+   "heading": "Artigo 23.º — Linha de financiamento para obras coercivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Linha de financiamento para obras coercivas\n\n1 - É aprovada uma linha de financiamento, com garantia mútua e bonificação da taxa de juro, de apoio à execução, pelos municípios, de obras coercivas ao abrigo dos artigos 89.º e seguintes do Regime Jurídico da Urbanização e da Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, no montante global máximo de 150 000 000 (euro).\n\n2 - A linha de financiamento prevista no número anterior é promovida pelo Banco Português de Fomento, S. A., no prazo máximo de 45 dias a contar da entrada em vigor da presente lei ou, quando posterior, na data da aprovação das condições legalmente exigidas.\n\n3 - Os termos e condições da linha de financiamento são regulamentados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia e da habitação, mediante proposta do Banco Português de Fomento, S. A., em colaboração com o IHRU, I. P.\n\n4 - Para os efeitos previstos no n.º 1, o Governo fica autorizado a conceder garantia pelo Estado a favor do Fundo de Contragarantia Mútuo, considerando, para esse efeito, o limite previsto no n.º 3 do artigo 106.º da Lei n.º 24-D/2022, de 30 de dezembro, aplicando-se com as necessárias adaptações o disposto na Lei n.º 112/97, de 16 de setembro."
+  },
+  "222515902": {
+   "fragment_id": "222515995",
+   "type": 11,
+   "heading": "Artigo 24.º — Aditamento ao Regime Jurídico da Urbanização e Edificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aditamento ao Regime Jurídico da Urbanização e Edificação\n\nSão aditados ao RJUE os artigos 88.º-A e 108.º-C, com a seguinte redação:\n\n«Artigo 88.º-A\n\nDever de utilização\n\n1 - As edificações devem ser objeto de fiscalização periódica quanto às condições de habitabilidade, por parte da respetiva câmara municipal.\n\n2 - Sem prejuízo do disposto no número anterior, a câmara municipal pode, oficiosamente ou a requerimento de qualquer interessado, determinar a fiscalização sobre as condições de utilização do imóvel.\n\n3 - No âmbito da fiscalização é verificado o cumprimento das normas legais relativas às condições de habitabilidade que constituam situações irregulares de arrendamento ou subarrendamento habitacional.\n\n4 - Sempre que forem identificadas situações irregulares, a câmara municipal intima o proprietário para a reposição da utilização nos termos autorizados, ao abrigo dos artigos 102.º e seguintes.\n\nArtigo 108.º-C\n\nArrendamento forçado de habitações devolutas\n\n1 - O regime previsto no artigo anterior é aplicável, com as necessárias adaptações, às frações autónomas e às partes de prédio urbano suscetíveis de utilização independente, de uso habitacional, classificadas como devolutas, nos termos do Decreto-Lei n.º 159/2006, de 8 de agosto, que estejam há mais de dois anos com essa classificação, quando localizadas fora dos territórios do interior, como tal identificados no anexo à Portaria n.º 208/2017, de 13 de julho.\n\n2 - Findo o prazo de dois anos referido no número anterior, o município territorialmente competente remete ao respetivo proprietário, consoante os casos:\n\na) Notificação do dever de conservação, previsto no n.º 2 do artigo 89.º, promovendo a execução das obras necessárias, em caso de incumprimento daquela notificação, ao abrigo do artigo 91.º; ou\n\nb) Notificação do dever de dar uso à fração autónoma e, querendo, apresentação de proposta de arrendamento, nos termos previstos no artigo 5.º do Decreto-Lei n.º 89/2021, de 3 de novembro.\n\n3 - O valor da renda na proposta de arrendamento prevista na alínea b) do número anterior não pode exceder em 30 % os limites gerais de preço de renda por tipologia em função do concelho onde se localiza o imóvel, previstos na alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio.\n\n4 - Nos casos em que, efetuada a notificação prevista na alínea b) do n.º 2, o proprietário recuse a proposta ou não se pronuncie no prazo de 90 dias a contar da sua receção, e mantendo-se o imóvel devoluto, o município territorialmente competente, sempre que se revele necessário para garantir a função social da habitação, prevista no artigo 4.º da Lei n.º 83/2019, de 3 de setembro, que aprova a lei de bases da habitação, pode, excecional e supletivamente, proceder ao arrendamento forçado do imóvel.\n\n5 - Caso os municípios não pretendam proceder ao arrendamento do imóvel e o mesmo não careça de obras de conservação, remetem a informação sobre o imóvel ao IHRU, I. P., para que este possa, querendo, notificar o proprietário, nos termos e para os efeitos previstos na alínea b) do n.º 2 e no n.º 4.\n\n6 - O disposto no presente artigo não se aplica às Regiões Autónomas.»"
+  },
+  "222515903": {
+   "fragment_id": "222515996",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração ao Decreto-Lei n.º 89/2021, de 3 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração ao Decreto-Lei n.º 89/2021, de 3 de novembro\n\nO artigo 9.º do Decreto-Lei n.º 89/2021, de 3 de novembro, passa a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - O IHRU, I. P., quando tenha conhecimento, por denúncia ou através de documentos que lhe sejam remetidos, de factos que possam consubstanciar a existência de deficiências nos fogos arrendados ou subarrendados, pode solicitar à câmara municipal:\n\na) A determinação do nível de conservação do respetivo locado, ao abrigo da alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 266-B/2012, de 31 de dezembro;\n\nb) A verificação das condições de habitabilidade.\n\n2 - Quando da determinação a que se refere a alínea a) do número anterior resulte um nível de conservação mau ou péssimo, a câmara municipal ou a entidade a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 266-B/2012, de 31 de dezembro, consoante os casos, deve aplicar o disposto nos artigos 89.º e seguintes do RJUE.\n\n3 - A verificação das condições de habitabilidade segue os termos previstos no artigo 88.º-A do RJUE.\n\n4 - A câmara municipal territorialmente competente remete ao IHRU, I. P., para conhecimento, cópia do auto de vistoria e respetiva ficha de avaliação do imóvel, bem como, nos casos previstos nos números anteriores, da notificação subsequente e demais diligências efetuadas no âmbito do respetivo processo.»"
+  },
+  "222515904": {
+   "fragment_id": "222515997",
+   "type": 8,
+   "heading": "Secção IV — Benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Benefícios fiscais"
+  },
+  "222515905": {
+   "fragment_id": "222515998",
+   "type": 11,
+   "heading": "Artigo 26.º — Alteração à lista i anexa ao Código do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Alteração à lista i anexa ao Código do Imposto sobre o Valor Acrescentado\n\nSão alteradas as verbas 2.18 e 2.23 da lista i anexa ao Código do IVA, que passam a ter a seguinte redação:\n\n«2.18 - As empreitadas de construção ou reabilitação de imóveis de habitações económicas, habitações de custos controlados ou habitações para arrendamento acessível nos termos definidos em portaria do membro do Governo responsável pela área da habitação, independentemente do promotor, desde que pelo menos 700/1000 dos prédios em propriedade horizontal ou a totalidade dos prédios em propriedade total ou frações autónomas sejam afetos a um dos referidos fins e certificadas pelo IHRU, I. P., ou, quando promovidas na Região Autónoma da Madeira ou na Região Autónoma dos Açores, pela IHM - Investimentos Habitacionais da Madeira, EPERAM, ou pela Direção Regional da Habitação dos Açores, respetivamente.\n\n2.23 - As empreitadas de reabilitação de edifícios e as empreitadas de construção ou reabilitação de equipamentos de utilização coletiva de natureza pública, localizados em áreas de reabilitação urbana (áreas críticas de recuperação e reconversão urbanística, zonas de intervenção das sociedades de reabilitação urbana e outras) delimitadas nos termos legais, ou realizadas no âmbito de operações de requalificação e reabilitação de reconhecido interesse público nacional.»"
+  },
+  "222515906": {
+   "fragment_id": "222515999",
+   "type": 11,
+   "heading": "Artigo 27.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares\n\nOs artigos 10.º, 41.º e 72.º do Código do IRS passam a ter a seguinte redação:\n\n«Artigo 10.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) O imóvel transmitido tenha sido destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, comprovada através do respetivo domicílio fiscal, nos 24 meses anteriores à data da transmissão;\n\nf) Os sujeitos passivos não tenham beneficiado, no ano da obtenção dos ganhos e nos três anos anteriores, do presente regime de exclusão, sem prejuízo da comprovação pelo sujeito passivo, efetuada em procedimento de liquidação, de que a não observância da presente condição se deveu a circunstâncias excecionais.\n\n6 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) O sujeito passivo ou o seu agregado familiar não tenham fixado no imóvel o seu domicílio fiscal.\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\n17 - [...]\n\n18 - [...]\n\n19 - [...]\n\n20 - [...]\n\n21 - [...]\n\n22 - [...]\n\nArtigo 41.º\n\n[...]\n\n1 - Aos rendimentos brutos referidos no artigo 8.º deduzem-se, relativamente a cada prédio ou parte de prédio, todos os gastos efetivamente suportados e pagos pelo sujeito passivo para obter ou garantir tais rendimentos, incluindo os seguros de renda, com exceção dos gastos de natureza financeira, dos relativos a depreciações e dos relativos a mobiliário, eletrodomésticos e artigos de conforto ou decoração, bem como do adicional ao imposto municipal sobre imóveis.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\nArtigo 72.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Os rendimentos prediais decorrentes de arrendamento não habitacional;\n\nf) [...]\n\n2 - Os rendimentos prediais decorrentes de arrendamento habitacional, incluindo os referidos na alínea b) do n.º 5 do artigo 8.º, são tributados à taxa autónoma de 25 %.\n\n3 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a cinco anos e inferior a 10 anos é aplicada uma redução de 10 pontos percentuais na respetiva taxa autónoma, sendo, por cada renovação com igual duração, aplicada uma redução de dois pontos percentuais, estando as reduções relativas à renovação do contrato sujeitas ao limite de 10 pontos percentuais.\n\n4 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a 10 anos e inferior a 20 anos é aplicada uma redução de 15 pontos percentuais na respetiva taxa autónoma.\n\n5 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a 20 anos e aos rendimentos prediais decorrentes de contratos de direito real de habitação duradoura, na parte respeitante ao pagamento da prestação pecuniária mensal, é aplicada uma redução de 20 pontos percentuais da respetiva taxa autónoma.\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\n17 - [...]\n\n18 - [...]\n\n19 - [...]\n\n20 - Sempre que os contratos de arrendamento previstos nos n.os 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, ou, no caso do direito real de habitação duradoura, por acordo das partes, extingue-se o direito às reduções das taxas aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago com base na taxa aplicável à duração efetivamente decorrida, acrescida de juros compensatórios.\n\n21 - [...]\n\n22 - [...]\n\n23 - O disposto nos n.os 3 a 5 não se aplica a rendimentos prediais decorrentes de contratos de arrendamento habitacional celebrados a partir de 1 de janeiro de 2024, cuja renda mensal exceda em 50 % os limites gerais de preço de renda por tipologia em função do concelho onde se localiza o imóvel, previstos nas tabelas 1 e 2 do anexo i à Portaria n.º 176/2019, de 6 de junho.\n\n24 - Aos novos contratos de arrendamento que beneficiem do disposto nos n.os 3 a 5, é aplicada uma redução adicional de cinco pontos percentuais na respetiva taxa autónoma sempre que a renda seja inferior, em pelo menos cinco pontos percentuais, à renda do contrato de arrendamento anterior sobre o mesmo imóvel.»"
+  },
+  "222515907": {
+   "fragment_id": "222516000",
+   "type": 11,
+   "heading": "Artigo 28.º — Alteração ao Estatuto dos Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Alteração ao Estatuto dos Benefícios Fiscais\n\nOs artigos 46.º e 71.º do EBF passam a ter a seguinte redação:\n\n«Artigo 46.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é de três anos, aplicável a prédios urbanos cujo valor patrimonial tributário não exceda 125 000 (euro), prorrogáveis por mais dois, mediante deliberação da assembleia municipal, que deve ser comunicada à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, até 31 de dezembro, para vigorar no ano seguinte.\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\nArtigo 71.º\n\nIncentivos à reabilitação urbana\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - [...]\n\n5 - (Revogado.)\n\n6 - [...]\n\n7 - (Revogado.)\n\n8 - [...]\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - (Revogado.)\n\n14 - (Revogado.)\n\n15 - (Revogado.)\n\n16 - (Revogado.)\n\n17 - (Revogado.)\n\n18 - [...]\n\n19 - [...]\n\n20 - [...]\n\n21 - (Revogado.)\n\n22 - [...]\n\n23 - [...]\n\n24 - [...]\n\n25 - [...]\n\n26 - [...]\n\n27 - (Revogado.)\n\n28 - (Revogado.)\n\n29 - (Revogado.)\n\n30 - (Revogado.)»"
+  },
+  "222515908": {
+   "fragment_id": "222516001",
+   "type": 11,
+   "heading": "Artigo 29.º — Aditamento ao Estatuto dos Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Aditamento ao Estatuto dos Benefícios Fiscais\n\nSão aditados ao EBF os artigos 45.º-A, 71.º-A e 74.º-A, com a seguinte redação:\n\n«Artigo 45.º-A\n\nPrédios urbanos destinados ao Programa de Apoio ao Arrendamento\n\n1 - Ficam isentas de imposto municipal sobre as transmissões onerosas de imóveis as aquisições de terrenos para construção destinados à construção de imóveis habitacionais que preencham, cumulativamente, os seguintes requisitos:\n\na) Pelo menos 700/1000 dos prédios em propriedade horizontal, ou a totalidade dos prédios em propriedade total ou frações autónomas, sejam afetos ao Programa de Apoio ao Arrendamento, independentemente do promotor, desde que certificadas pelo IHRU, I. P., ou, quando promovidas na Região Autónoma da Madeira ou na Região Autónoma dos Açores, pela IHM - Investimentos Habitacionais da Madeira, EPERAM, ou pela Direção Regional da Habitação dos Açores, respetivamente;\n\nb) O procedimento de controlo prévio para obras de construção, nos termos definidos na alínea b) do artigo 2.º do Regime Jurídico da Urbanização e da Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, de imóveis com afetação habitacional seja iniciado junto da entidade competente no prazo de dois anos após a aquisição.\n\n2 - Aos prédios urbanos ou frações autónomas adquiridos, reabilitados ou construídos para afetação ao Programa de Apoio ao Arrendamento são aplicáveis os seguintes benefícios fiscais:\n\na) Isenção do imposto municipal sobre imóveis por um período de três anos a contar do ano da aquisição, inclusive, podendo ser renovado, a requerimento do proprietário, por mais cinco anos; e\n\nb) Isenção de imposto municipal sobre as transmissões onerosas de imóveis.\n\n3 - As isenções previstas nos números anteriores ficam sem efeito se:\n\na) Aos imóveis for dado destino diferente daquele em que assentou o benefício, no prazo de cinco anos a contar da data da transmissão, ou, no caso de renovação do benefício previsto na parte final da alínea a) do n.º 2, no prazo de 10 anos; ou\n\nb) Os imóveis não forem objeto da celebração de um contrato de arrendamento no âmbito do Programa de Apoio ao Arrendamento no prazo de seis meses a contar da data da transmissão.\n\n4 - Para efeitos da contagem dos prazos previstos na alínea a) do número anterior, considera-se que o imóvel mantém a sua afetação ao Programa de Apoio ao Arrendamento se, em caso de cessação do contrato de arrendamento, for celebrado novo contrato no âmbito do mesmo programa no prazo de três meses.\n\n5 - Aos benefícios referidos nos n.os 1 e 2 aplica-se o disposto nos n.os 3, 5, 7 e 8 do artigo anterior.\n\n6 - Os benefícios fiscais previstos nos n.os 1 e 2 aplicam-se ainda a imóveis adquiridos, reabilitados ou construídos, afetos ao arrendamento, no âmbito de programas habitacionais promovidos pelas entidades com competência na área da habitação nas Regiões Autónomas.\n\nArtigo 71.º-A\n\nIncentivos ao arrendamento habitacional a custos acessíveis e à venda de imóveis ao Estado\n\n1 - Beneficiam do incentivo previsto no número seguinte os fundos de investimento imobiliário e as sociedades de investimento imobiliário que operem de acordo com a legislação nacional, desde que pelo menos 75 % dos seus ativos sejam bens imóveis afetos a arrendamento habitacional a custos acessíveis.\n\n2 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de unidades de participação nos organismos referidos no número anterior é tributado à taxa de 10 % quando os titulares sejam entidades não residentes a que não seja aplicável a isenção prevista no artigo 27.º ou sujeitos passivos de IRS residentes em território português que obtenham os rendimentos fora do âmbito de uma atividade comercial, industrial ou agrícola e não optem pelo respetivo englobamento.\n\n3 - Ficam isentos de tributação em IRS e em IRC, pelo período de duração dos respetivos contratos, os rendimentos prediais obtidos no âmbito dos programas municipais de oferta para arrendamento habitacional a custos acessíveis e para alojamento estudantil, sendo os rendimentos isentos englobados, em sede de IRS, para efeitos de determinação da taxa a aplicar aos restantes rendimentos, quando o sujeito passivo opte pelo englobamento dos rendimentos prediais.\n\n4 - Para efeitos do disposto no número anterior, consideram-se:\n\na) 'Programas municipais de oferta para arrendamento habitacional a custos acessíveis', os programas de iniciativa municipal que tenham por objeto contratos de arrendamento e subarrendamento habitacional por um prazo mínimo de arrendamento não inferior a cinco anos e cujo limite geral de preço de renda por tipologia não exceda o definido nas tabelas 1 e 2 do anexo i à Portaria n.º 176/2019, de 6 de junho;\n\nb) 'Programas municipais de oferta para alojamento estudantil', os programas de iniciativa municipal que tenham por objeto contratos de arrendamento e subarrendamento dirigido a estudantes deslocados e cujo limite geral de preço de renda por tipologia não exceda o definido pela portaria a que se refere alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio.\n\n5 - Em tudo o que não esteja previsto nos números anteriores aplica-se o regime do Decreto-Lei n.º 68/2019, de 22 de maio, com as necessárias adaptações.\n\n6 - A isenção prevista no n.º 3 depende de reconhecimento pelo membro do Governo responsável pela área das finanças.\n\n7 - Ficam isentos de tributação em IRS e IRC os ganhos provenientes da alienação onerosa, ao Estado, às Regiões Autónomas, às entidades públicas empresariais na área da habitação ou às autarquias locais, de imóveis para habitação, com exceção:\n\na) Dos ganhos realizados por residentes com domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças;\n\nb) Dos ganhos decorrentes de alienações onerosas através do exercício de direito de preferência.\n\n8 - Os rendimentos isentos nos termos dos números anteriores são englobados, em sede de IRS, para efeitos de determinação da taxa a aplicar aos restantes rendimentos.\n\nArtigo 74.º-A\n\nTransferência de imóveis de alojamento local para arrendamento\n\n1 - Ficam isentos de tributação em IRS e IRC os rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente, desde que verificadas, cumulativamente, as seguintes condições:\n\na) Os rendimentos resultem da transferência para arrendamento, para habitação permanente, de imóveis afetos à exploração de estabelecimentos de alojamento local;\n\nb) O estabelecimento de alojamento local tenha sido registado e estivesse afeto a esse fim até 31 de dezembro de 2022;\n\nc) A celebração do contrato de arrendamento e respetiva inscrição no Portal das Finanças ocorra até 31 de dezembro de 2024.\n\n2 - A isenção prevista no número anterior é aplicável aos rendimentos prediais obtidos até 31 de dezembro de 2029.»"
+  },
+  "222515909": {
+   "fragment_id": "222516002",
+   "type": 11,
+   "heading": "Artigo 30.º — Alteração ao Código do Imposto do Selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Alteração ao Código do Imposto do Selo\n\nOs artigos 7.º e 60.º do Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de setembro, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) [...]\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) [...]\n\nv) [...]\n\nw) [...]\n\nx) [...]\n\ny) Os contratos de arrendamento habitacional enquadrados no Programa de Apoio ao Arrendamento, nos termos do Decreto-Lei n.º 68/2019, de 22 de maio, e os contratos celebrados no âmbito de programas públicos de habitação promovidos pelas entidades competentes na área da habitação nas Regiões Autónomas.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\nArtigo 60.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Caso os locadores ou sublocadores não comuniquem à Autoridade Tributária e Aduaneira os elementos previstos no n.º 1, os locatários e sublocatários podem fazê-lo, em declaração de modelo oficial, nos prazos e termos a regulamentar por portaria do membro do Governo responsável pela área das finanças.\n\n5 - (Anterior n.º 4.)»"
+  },
+  "222515910": {
+   "fragment_id": "222516003",
+   "type": 11,
+   "heading": "Artigo 31.º — Alteração ao Código do Imposto Municipal sobre Imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alteração ao Código do Imposto Municipal sobre Imóveis\n\nOs artigos 6.º, 13.º, 38.º, 44.º, 112.º, 112.º-A, 112.º-B, 125.º, 135.º-B e 135.º-C do Código do IMI passam a ter a seguinte redação:\n«Artigo 6.º\n[...]\n1 - [...]\n2 - [...]\n3 - Consideram-se terrenos para construção os terrenos situados dentro ou fora de um aglomerado urbano:\na) Para os quais tenha sido concedida licença ou comunicação prévia favorável de operação de loteamento ou de construção; ou\nb) Que tenham sido comunicados pelos municípios à Autoridade Tributária e Aduaneira como aptos para construção nos termos dos instrumentos de gestão territorial aplicáveis.\n4 - Excetuam-se do número anterior os terrenos em que as entidades competentes vedem qualquer das operações referidas na alínea a) no número anterior, designadamente os localizados em zonas verdes, áreas protegidas ou que, de acordo com os planos municipais de ordenamento do território, estejam afetos a espaços, infraestruturas ou equipamentos públicos.\n5 - A comunicação a que se refere a alínea b) do n.º 3 é feita exclusivamente por via eletrónica, através de declaração de modelo oficial, aprovada por portaria do membro do Governo responsável pela área das finanças.\n6 - Enquadram-se na previsão da alínea d) do n.º 1:\na) Os terrenos situados dentro de um aglomerado urbano que não sejam terrenos para construção nem se encontrem abrangidos pelo disposto no n.º 2 do artigo 3.º;\nb) Os edifícios e construções licenciados ou, na falta de licença, que tenham como destino normal outros fins que não os referidos no n.º 2; e\nc) Os terrenos excecionados pelo n.º 4.\nArtigo 13.º\n[...]\n1 - [...]\na) [...]\nb) [...]\nc) [...]\nd) [...]\ne) [...]\nf) [...]\ng) [...]\nh) [...]\ni) [...]\nj) Verificar-se a ocorrência prevista no n.º 3 do artigo 11.º-B;\nl) [...]\n2 - [...]\n3 - O diretor-geral da Autoridade Tributária e Aduaneira procede, oficiosamente:\na) [...]\nb) [...]\nc) [...]\nd) [...]\ne) [...]\nf) À atualização da matriz nos casos da comunicação por parte do município prevista na alínea b) do n.º 3 do artigo 6.º\n4 - [...]\n5 - [...]\n6 - [...]\n7 - [...]\nArtigo 38.º\nDeterminação do valor patrimonial tributário\n1 - [...]\n2 - [...]\n3 - [...]\n4 - [...]\n5 - Os municípios podem requerer que os prédios urbanos devolutos que não constituam uma fração autónoma de prédio em regime de propriedade horizontal, bem como os prédios urbanos em ruínas, sejam avaliados como terrenos para construção, mediante indicação das áreas brutas previstas pelo município, prevalecendo, entre a avaliação nos termos do n.º 1 e a avaliação nos termos do artigo 45.º, a que tiver um VPT mais elevado.\nArtigo 44.º\n[...]\n1 - [...]\n2 - [...]\n3 - Para efeitos da liquidação, o coeficiente de vetustez dos prédios que constituam, total ou parcialmente, estabelecimentos de alojamento local na aceção do n.º 1 do artigo 2.º do Decreto-Lei n.º 128/2014, de 29 de agosto, é sempre 1.\nArtigo 112.º\n[...]\n1 - [...]\n2 - [...]\n3 - [...]\n4 - [...]\n5 - [...]\n6 - [...]\n7 - [...]\n8 - [...]\n9 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até ao triplo a taxa aplicável aos prédios rústicos com áreas florestais que se encontrem em situação de abandono, não podendo da aplicação desta majoração resultar uma coleta de imposto inferior a 20 (euro) por cada prédio abrangido.\n10 - [...]\n11 - [...]\n12 - [...]\n13 - [...]\n14 - [...]\n15 - [...]\n16 - [...]\n17 - [...]\n18 - [...]\n19 - [...]\n20 - [...]\nArtigo 112.º-A\n[...]\n1 - [...]\n\n| Número de dependentes a cargo | Dedução fixa<br>(em euros) |\n| --- | --- |\n|  |  |\n| 1... | [30] |\n| 2... | [70] |\n| 3 ou mais... | [140] |\n\n2 - [...]\n3 - [...]\n4 - [...]\n5 - [...]\n6 - [...]\nArtigo 112.º-B\n[...]\n1 - Os prédios urbanos ou frações autónomas que se encontrem devolutos há mais de um ano, os prédios em ruínas e os terrenos para construção inseridos no solo urbano e cuja qualificação em plano municipal de ordenamento do território atribua aptidão para o uso habitacional, sempre que se localizem em zonas de pressão urbanística, como tal definidas em diploma próprio, estão sujeitos ao seguinte agravamento, em substituição do previsto no n.º 3 do artigo 112.º:\na) A taxa prevista na alínea c) do n.º 1 do artigo 112.º é elevada ao décuplo, agravada, em cada ano subsequente, em mais 20 %;\nb) O agravamento referido tem como limite máximo o valor de 20 vezes a taxa prevista na alínea c) do n.º 1 do artigo 112.º\n2 - [...]\n3 - O limite previsto na alínea b) do n.º 1 pode, mediante deliberação da assembleia municipal, ser aumentado em:\na) 50 % sempre que o prédio urbano ou fração autónoma se destine a habitação e, no ano a que respeita o imposto, não se encontre arrendado para habitação ou afeto a habitação própria e permanente do sujeito passivo;\nb) 100 % sempre que o sujeito passivo do imposto seja uma pessoa coletiva ou outra entidade fiscalmente equiparada.\nArtigo 125.º\nEntidades distribuidoras de água, energia e telecomunicações\n1 - As entidades distribuidoras de água, energia e telecomunicações fixas devem, até ao dia 15 de abril, 15 de julho, 15 de outubro e 15 de janeiro, comunicar à Autoridade Tributária e Aduaneira os contratos celebrados com clientes finais e as suas alterações, que se tenham verificado no trimestre anterior, relativamente ao consumo nos respetivos códigos de ponto de entrega, código universal da instalação ou equivalente.\n2 - Da comunicação referida no número anterior deve constar a identificação fiscal do cliente final e a indicação do artigo matricial do prédio urbano, nos termos descritos no número seguinte, ou, nos casos em que o prédio urbano não esteja identificado, a informação georreferenciada do local da prestação do serviço na rede de distribuição.\n3 - As empresas de distribuição de água e energia devem, através da comunicação referida no n.º 1, apresentar uma lista atualizada da ausência de consumos ou de consumos baixos, por cada prédio urbano ou fração autónoma, utilizando obrigatoriamente a identificação matricial dos prédios.\nArtigo 135.º-B\n[...]\n1 - [...]\n2 - São excluídos do adicional ao imposto municipal sobre imóveis os prédios urbanos classificados como 'comerciais, industriais ou para serviços' e 'outros' nos termos das alíneas b) e d) do n.º 1 do artigo 6.º, bem como os prédios urbanos classificados como 'habitacionais' enquadrados no Programa de Apoio ao Arrendamento, nos termos do Decreto-Lei n.º 68/2019, de 22 de maio.\n3 - [...]\nArtigo 135.º-C\n[...]\n1 - [...]\n2 - [...]\n3 - [...]\n4 - Não é aplicável a dedução prevista no n.º 2 à soma dos valores patrimoniais tributários dos prédios previstos nas alíneas a) e b) do n.º 3 do artigo 112.º»"
+  },
+  "222515911": {
+   "fragment_id": "222516004",
+   "type": 11,
+   "heading": "Artigo 32.º — Aditamento ao Código do Imposto Municipal sobre Imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Aditamento ao Código do Imposto Municipal sobre Imóveis\n\nÉ aditado ao Código do IMI o artigo 11.º-B, com a seguinte redação:\n\n«Artigo 11.º-B\n\nIsenção aplicável a terrenos para construção de habitações e prédios destinados a uso habitacional\n\n1 - Ficam isentos de imposto municipal sobre imóveis os terrenos para construção cujo procedimento de controlo prévio para obras de construção, tal como definidas na alínea b) do artigo 2.º do Regime Jurídico da Urbanização e da Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, de imóveis com afetação habitacional tenha sido iniciado junto da entidade competente, e para os quais ainda não tenha havido decisão final, expressa ou tácita, do procedimento.\n\n2 - Ficam isentos de imposto municipal sobre imóveis os prédios em que o procedimento de controlo prévio para utilização habitacional, nos termos do n.º 5 do artigo 4.º do Regime Jurídico da Urbanização e da Edificação, tenha sido iniciado junto da entidade competente, e para os quais ainda não tenha havido decisão final, expressa ou tácita, do procedimento.\n\n3 - Nas situações previstas nos números anteriores, caso ao prédio seja dada utilização diversa de fins habitacionais, liquida-se o imposto por todo o período decorrido desde a sua aquisição.\n\n4 - Para efeitos da aplicação das isenções previstas nos n.os 1 e 2, os sujeitos passivos apresentam ao serviço de finanças da área da situação dos prédios documento comprovativo do início do procedimento de controlo prévio.\n\n5 - As isenções previstas nos n.os 1 e 2 iniciam-se a partir da data da apresentação referida no número anterior.\n\n6 - Para efeitos da caducidade das isenções previstas nos n.os 1 e 2, devem os municípios, ou os sujeitos passivos, comunicar à Autoridade Tributária e Aduaneira a decisão final, expressa ou tácita, dos procedimentos de controlo prévio relativos aos imóveis em causa, no prazo de 60 dias a contar da referida decisão.\n\n7 - Se a comunicação a que se refere o número anterior for apresentada após o prazo, o imposto é devido pelo tempo entretanto decorrido, acrescendo-lhe os juros compensatórios, nos termos do artigo 117.º\n\n8 - Não gozam do regime previsto n.os 1 e 2 os sujeitos passivos que tenham adquirido o prédio a entidade que dele já tenha beneficiado.\n\n9 - O disposto nos n.os 1 e 2 não é aplicável aos sujeitos passivos que:\n\na) Tenham domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças;\n\nb) Sejam, nos termos previstos no n.º 8 do artigo 17.º do Código do IMT, uma entidade dominada ou controlada, direta ou indiretamente, por entidade que tenha domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante da lista referida na alínea anterior.»"
+  },
+  "222515912": {
+   "fragment_id": "222516005",
+   "type": 11,
+   "heading": "Artigo 33.º — Alteração à Lei n.º 19/2022, de 21 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Alteração à Lei n.º 19/2022, de 21 de outubro\n\nO artigo 3.º da Lei n.º 19/2022, de 21 de outubro, passa a ter a seguinte redação:\n«Artigo 3.º\n[...]\n1 - Para efeitos de imposto sobre o rendimento das pessoas singulares, a determinação dos rendimentos prediais decorrentes de contratos de arrendamento enquadráveis na categoria F, aos quais se aplicam as taxas previstas no n.º 1 do artigo 68.º ou no n.º 2 do artigo 72.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro, obtém-se através da aplicação do coeficiente de 0,90 após as deduções a que se refere o artigo 41.º do mesmo Código.\n2 - Aos rendimentos aos quais se aplique uma das taxas especiais previstas nos n.os 3 a 5 do artigo 72.º do CIRS, são aplicáveis os coeficientes de apoio constantes da tabela seguinte, após as deduções a que se refere o artigo 41.º do mesmo Código:\n\n| Taxa aplicável | Coeficiente<br>de apoio |\n| --- | --- |\n|  |  |\n| 26 %... | 0,90 |\n| 24 %... | 0,89 |\n| 23 %... | 0,89 |\n| 22 %... | 0,88 |\n| 21 %... | 0,87 |\n| 20 %... | 0,87 |\n| 19 %... | 0,86 |\n| 18 %... | 0,85 |\n| 16 %... | 0,82 |\n| 15 %... | 0,81 |\n| 14 %... | 0,79 |\n| 10 %... | 0,70 |\n| 5 %... | 0,45 |\n\n3 - [...]\n4 - [...]\n5 - [...]\n6 - [...]»"
+  },
+  "222515913": {
+   "fragment_id": "222516006",
+   "type": 1,
+   "heading": "Capítulo IV — Segurança no mercado de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Segurança no mercado de arrendamento"
+  },
+  "222515914": {
+   "fragment_id": "222516007",
+   "type": 8,
+   "heading": "Secção I — Proteção dos inquilinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Proteção dos inquilinos"
+  },
+  "222515915": {
+   "fragment_id": "222516008",
+   "type": 11,
+   "heading": "Artigo 34.º — Renda dos novos contratos de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Renda dos novos contratos de arrendamento\n\n1 - A renda inicial dos novos contratos de arrendamento para fins habitacionais que incidam sobre imóveis relativamente aos quais tenham vigorado contratos de arrendamento celebrados nos cinco anos anteriores à entrada em vigor da presente lei não pode exceder o valor da última renda praticada sobre o mesmo imóvel em contrato anterior, aplicado o coeficiente de 1,02.\n\n2 - O disposto no presente artigo aplica-se aos contratos que excedam os limites gerais de preço de renda por tipologia previstos nas tabelas 1 e 2 do anexo i à Portaria n.º 176/2019, de 6 de junho.\n\n3 - Quando o contrato de arrendamento imediatamente anterior não tenha sido objeto de uma ou mais atualizações legalmente permitidas, ao valor da renda inicial podem, ainda, ser aplicados os coeficientes anuais ao abrigo do artigo 24.º da Lei n.º 6/2006, de 27 de fevereiro, desde que não tenham passado mais de três anos sobre a data em que teria sido inicialmente possível a sua aplicação.\n\n4 - Para efeitos do disposto no número anterior, o coeficiente a considerar para o ano de 2023 é de 1,0543.\n\n5 - No caso de imóveis que sejam objeto de obras de remodelação ou restauro profundos, devidamente atestadas pela Câmara Municipal, à renda inicial dos novos contratos de arrendamento pode acrescer o valor relativo às correspondentes despesas suportadas pelo senhorio, até ao limite anual de 15 %.\n\n6 - Os coeficientes previstos no presente artigo só podem ser aplicados uma vez em cada ano civil."
+  },
+  "222515916": {
+   "fragment_id": "222516009",
+   "type": 11,
+   "heading": "Artigo 35.º — Contratos anteriores a 1990",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contratos anteriores a 1990\n\n1 - Os contratos abrangidos pelos artigos 35.º e 36.º do NRAU, não transitam para o mesmo.\n\n2 - Na sequência do relatório previsto no n.º 2 do artigo 228.º da Lei n.º 12/2022, de 27 de junho, procede-se à definição das medidas fiscais, incluindo isenção de IRS e de IMI, dos montantes e dos limites da compensação a atribuir ao senhorio e da renda a fixar para o arrendatário a aplicar a partir de 2024."
+  },
+  "222515917": {
+   "fragment_id": "222516010",
+   "type": 8,
+   "heading": "Secção II — Alterações legislativas no âmbito do arrendamento e para celeridade dos processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Alterações legislativas no âmbito do arrendamento e para celeridade dos processos judiciais"
+  },
+  "222515918": {
+   "fragment_id": "222516011",
+   "type": 11,
+   "heading": "Artigo 36.º — Alteração ao Novo Regime do Arrendamento Urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Alteração ao Novo Regime do Arrendamento Urbano\n\nOs artigos 14.º, 15.º, 15.º-A, 15.º-B, 15.º-C, 15.º-D, 15.º-E, 15.º-F, 15.º-G, 15.º-H, 15.º-I, 15.º-J, 15.º-K, 15.º-M, 15.º-S, 35.º, 36.º e 37.º do NRAU, passam a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - Em caso de incumprimento pelo arrendatário do disposto no número anterior, o senhorio pode requerer o despejo imediato, devendo, em caso de deferimento do requerimento, o juiz pronunciar-se sobre a autorização de entrada no domicílio, independentemente de ter sido requerida, aplicando-se com as necessárias adaptações os artigos 15.º-J, 15.º-K e 15.º-M.\n\nArtigo 15.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Nas situações previstas no n.º 2 do artigo 1084.º do Código Civil é ainda admissível o recurso ao procedimento especial de despejo quando se tenha frustrado a comunicação ao arrendatário.\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\n7 - (Revogado.)\n\n8 - (Anterior n.º 6.)\n\n9 - Os autos são distribuídos ao tribunal da situação do locado no primeiro momento processual em que se suscite uma questão sujeita a decisão judicial.\n\n10 - (Anterior n.º 8.)\n\nArtigo 15.º-A\n\nBalcão do Arrendatário e do Senhorio\n\n1 - É criado, junto da Direção-Geral da Administração da Justiça, o Balcão do Arrendatário e do Senhorio (BAS), destinado a assegurar a tramitação do procedimento especial de despejo e da injunção em matéria de arrendamento.\n\n2 - O BAS tem competência em todo o território nacional.\n\nArtigo 15.º-B\n\n[...]\n\n1 - O requerimento de despejo é apresentado em modelo próprio no BAS.\n\n2 - [...]\n\na) Identificar as partes, indicando, consoante os casos, os seus nomes ou denominações, domicílios ou sedes e os respetivos números de identificação civil, fiscal ou de pessoa coletiva;\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) Indicar o número internacional de identificação bancária (IBAN) de conta por si titulada, juntando o respetivo documento comprovativo;\n\nm) [Anterior alínea l).]\n\n3 - Havendo pluralidade de arrendatários ou constituindo o local arrendado casa de morada de família, o requerente deve indicar como requeridos todos os arrendatários e ambos os cônjuges, consoante o caso, e identificar os respetivos domicílios.\n\n4 - No caso do cônjuge do arrendatário que não seja parte no contrato de arrendamento, o respetivo domicílio corresponde à morada do locado.\n\n5 - Sem prejuízo do disposto no n.º 8 do artigo 15.º, durante o procedimento especial de despejo não é permitida a alteração dos elementos constantes do requerimento, designadamente do pedido formulado.\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior n.º 6.)\n\n8 - (Anterior n.º 7.)\n\n9 - (Anterior n.º 8.)\n\n10 - Se o requerente indicar endereço de correio eletrónico, nos termos da alínea b) do n.º 2, as comunicações e notificações são efetuadas por meios eletrónicos, nos termos de portaria do membro do Governo responsável pela área da justiça.\n\nArtigo 15.º-C\n\n[...]\n\n1 - [...]\n\na) Não estiver endereçado ao BAS;\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Omitir a identificação das partes, o domicílio do requerente, os números de identificação civil e fiscal, ou o lugar da notificação do requerido;\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\n2 - A omissão do número de identificação civil do requerido, quando este seja pessoa singular, não constitui motivo de recusa do requerimento, sempre que o requerente declare que desconhece aquele número.\n\n3 - (Anterior n.º 2.)\n\nArtigo 15.º-D\n\n[...]\n\n1 - O BAS expede imediatamente notificação para o requerido, por carta registada com aviso de receção, para, em 15 dias, este:\n\na) [...]\n\nb) Deduzir oposição à pretensão e ou requerer o diferimento da desocupação do locado, nos termos do disposto no artigo 15.º-M.\n\n2 - [...]\n\n3 - A notificação é expedida para o local indicado no requerimento de despejo, aplicando-se, com as necessárias adaptações, o disposto no artigo 228.º, nos n.os 3 a 5 do artigo 229.º, no n.º 2 do artigo 230.º e nos artigos 231.º, 232.º, 237.º, 238.º e 246.º do Código de Processo Civil, não havendo lugar à advertência prevista no artigo 233.º do mesmo Código.\n\n4 - [...]\n\na) [...]\n\nb) [...]\n\nc) A indicação de que, na falta de desocupação do locado, de oposição dentro do prazo legal ou do pagamento ou depósito das rendas que se venceram na pendência do procedimento especial de despejo, será proferida decisão judicial para entrada imediata no domicílio, com a faculdade de o requerente a efetivar imediatamente;\n\nd) [...]\n\ne) [...]\n\nf) A indicação de que deve efetuar o pagamento ou proceder ao depósito das rendas que se forem vencendo na pendência do procedimento especial de despejo;\n\ng) Nos casos do n.º 4 do artigo 15.º, a indicação de que o requerido pode pôr fim à mora no prazo da oposição, exceto quando se verifique a situação prevista no n.º 4 do artigo 1084.º do Código Civil.\n\n5 - [...]\n\nArtigo 15.º-E\n\n[...]\n\n1 - O BAS converte o requerimento de despejo em título para desocupação do locado se:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\n2 - [...]\n\n3 - Constituído o título de desocupação do locado, o BAS disponibiliza o requerimento de despejo no qual tenha sido colocada a fórmula de título para desocupação do locado ao requerente e ao agente de execução, notário ou oficial de justiça designado, consoante os casos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.\n\nArtigo 15.º-F\n\n[...]\n\n1 - [...]\n\n2 - A oposição é apresentada no BAS por via eletrónica.\n\n3 - Com a oposição, o arrendatário identifica:\n\na) As pessoas a quem, nos termos da lei, o respetivo direito seja comunicável;\n\nb) O respetivo regime de bens vigente, quando aplicável;\n\nc) Outras pessoas que, licitamente, se encontrem a residir no locado;\n\nd) Qualquer das situações que motivem a suspensão e ou diferimento da desocupação do locado nos termos do artigo 15.º-M; e\n\ne) Se o locado corresponde à casa de morada de família.\n\n4 - No prazo para a oposição, pode o requerido deduzir incidente de intervenção principal provocada, nos termos dos artigos 316.º a 320.º do Código de Processo Civil, verificados os respetivos pressupostos.\n\n5 - (Anterior n.º 3.)\n\n6 - (Anterior n.º 4.)\n\n7 - (Anterior n.º 5.)\n\nArtigo 15.º-G\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - Nos casos previstos nos números anteriores, o BAS devolve a pedido do requerente o expediente respeitante ao procedimento especial de despejo e notifica o requerido daquele facto se este já tiver sido notificado do requerimento de despejo.\n\nArtigo 15.º-H\n\n[...]\n\n1 - Deduzida a oposição, o BAS apresenta os autos à distribuição ou fá-los conclusos, conforme o caso, e remete ao requerente cópia da oposição.\n\n2 - Nos 10 dias após a notificação da oposição, pode o requerente deduzir incidente de intervenção principal provocada, nos termos dos artigos 316.º a 320.º do Código de Processo Civil, verificados os respetivos pressupostos.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - Os autos são igualmente conclusos sempre que se suscite questão sujeita a decisão judicial.\n\nArtigo 15.º-I\n\n[...]\n\n1 - A audiência de julgamento realiza-se no prazo de 20 dias a contar da distribuição ou da conclusão dos autos, conforme o caso.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - A audiência de julgamento é sempre gravada, sendo aplicável com as devidas adaptações o disposto no artigo 155.º do Código de Processo Civil.\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - Quando a oposição seja julgada improcedente, a decisão condena o requerido a proceder à entrega do imóvel no prazo de 30 dias, valendo tal decisão como autorização de entrada imediata no domicílio.\n\n12 - As partes podem livremente acordar prazo diferente do previsto no número anterior para a entrega do locado.\n\n13 - A sentença é notificada às partes, ao agente de execução ou ao notário.\n\nArtigo 15.º-J\n\n[...]\n\n1 - Conferida autorização judicial para entrada no domicílio, o agente de execução ou o notário desloca-se imediatamente ao locado para tomar a posse do imóvel.\n\n2 - (Revogado.)\n\n3 - O agente de execução ou o notário podem solicitar diretamente o auxílio das autoridades policiais sempre que seja necessário o arrombamento da porta e a substituição da fechadura para efetivar a posse do imóvel, aplicando-se, com as necessárias adaptações, o disposto no n.º 6 do artigo 757.º do Código de Processo Civil.\n\n4 - Quando a desocupação do locado deva efetuar-se em domicílio, a mesma só pode realizar-se entre as 7 e as 21 horas, devendo o agente de execução ou o notário entregar cópia da decisão judicial a quem tiver a disponibilidade do lugar em que a diligência se realiza, o qual pode assistir à diligência e fazer-se acompanhar ou substituir por pessoa da sua confiança que, sem delonga, se apresente no local.\n\n5 - A sentença que ordene a desocupação do locado e que condene o requerido no pagamento das rendas, encargos ou despesas em atraso, quando tal tenha sido peticionado, constitui título executivo para pagamento de quantia certa.\n\n6 - [...]\n\nArtigo 15.º-K\n\n[...]\n\n1 - O agente de execução ou o notário procede ao arrolamento dos bens encontrados no locado.\n\n2 - O agente de execução ou o notário notifica o arrendatário para, no prazo de 15 dias após a tomada da posse do imóvel, remover todos os seus bens móveis, sob pena de estes serem considerados abandonados.\n\n3 - Quando não tenha sido possível proceder à notificação do requerido, prevista no número anterior, o agente de execução ou o notário afixa, na data em que procede ao arrolamento dos bens encontrados, notificação na porta do imóvel, considerando-se o requerido notificado para efeitos do disposto no número anterior.\n\nArtigo 15.º-M\n\nSuspensão e diferimento da desocupação do locado\n\n1 - À suspensão e diferimento da desocupação do locado aplicam-se, com as devidas adaptações, o regime previsto nos artigos 863.º a 865.º do Código de Processo Civil.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\nArtigo 15.º-S\n\n[...]\n\n1 - [...]\n\na) O prazo previsto para a propositura da ação é reduzido para 10 dias;\n\nb) O prazo identificado na alínea anterior não pode ser prorrogado;\n\nc) Sendo requerido apoio judiciário para dispensa de pagamento ou pagamento faseado das taxas e demais encargos, equivale ao pagamento da taxa a que alude o n.º 8 do artigo 15.º-B a junção do documento comprovativo da apresentação do respetivo pedido;\n\nd) O requerimento de apoio judiciário é processado com caráter de urgência.\n\n2 - Em caso de indeferimento do pedido de apoio judiciário na modalidade de dispensa ou de pagamento faseado de taxa e demais encargos com o processo, o requerente deve efetuar o pagamento da taxa devida no prazo de cinco dias a contar da data da notificação da decisão definitiva de indeferimento, sob pena de extinção do procedimento ou, caso já tenha sido proferida decisão de desocupação do locado, de pagamento do valor igual a 10 vezes o valor da taxa devida.\n\n3 - [...]\n\n4 - [...]\n\n5 - Aos prazos do procedimento especial de despejo aplicam-se as regras previstas no Código de Processo Civil, não havendo lugar a qualquer dilação.\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - [...]\n\na) [...]\n\nb) [...]\n\nc) (Revogada.)\n\nd) [...]\n\ne) [...]\n\nf) Modo de designação, substituição e destituição do agente de execução ou do notário;\n\ng) Forma de disponibilização da decisão de desocupação do locado;\n\nh) [...]\n\ni) [...]\n\nj) Remuneração do agente de execução ou notário.\n\n10 - O procedimento especial de despejo tem natureza urgente.\n\nArtigo 35.º\n\n[...]\n\n1 - Caso o arrendatário invoque e comprove que o RABC do seu agregado familiar é inferior a cinco RMNA, o contrato não transita para o NRAU.\n\n2 - A renda pode ser atualizada nos termos do artigo 24.º\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\nArtigo 36.º\n\n[...]\n\n1 - Os contratos de arrendamento não transitam para o NRAU, aplicando-se, no que respeita ao valor da renda, o disposto nos números seguintes, caso o arrendatário invoque e comprove que:\n\na) [...]\n\nb) [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - Se o senhorio não aceitar o valor da renda proposto pelo arrendatário, a atualização da renda é apurada nos termos do artigo 24.º\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - Em caso de transição de contrato para o NRAU nos termos dos artigos 30.º e seguintes, sem que tenha sido exercido o direito à aplicação do disposto no n.º 1, se o arrendatário residir há mais de 15 anos no locado e o demonstrar mediante atestado emitido pela junta de freguesia da sua área de residência, e tiver, à data da transição do contrato, idade igual ou superior a 65 anos de idade ou grau comprovado de deficiência igual ou superior a 60 %, o senhorio apenas pode opor-se à renovação do contrato com o fundamento previsto na alínea b) do artigo 1101.º do Código Civil, aplicando-se com as devidas adaptações os requisitos estabelecidos no artigo 1102.º do mesmo código.\n\n11 - (Revogado.)\n\n12 - (Revogado.)\n\n13 - (Revogado.)\n\nArtigo 37.º\n\n[...]\n\nSe o valor da renda apurado nos termos da alínea b) do n.º 5 do artigo 33.º, do n.º 2 do artigo 35.º ou do n.º 6 do artigo 36.º for inferior ao valor que resultaria da atualização anual prevista no n.º 1 do artigo 24.º, é este o aplicável.»"
+  },
+  "222515919": {
+   "fragment_id": "222516012",
+   "type": 11,
+   "heading": "Artigo 37.º — Aditamento ao Novo Regime do Arrendamento Urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Aditamento ao Novo Regime do Arrendamento Urbano\n\nSão aditados ao NRAU, os artigos 14.º-B, 15.º-EA e 15.º-LA, com a seguinte redação:\n\n«Artigo 14.º-B\n\nApoio e proteção nas situações do procedimento de despejo\n\nA notificação de procedimento de despejo contém informação relativa aos serviços públicos a quem o arrendatário se possa dirigir caso não tenha alternativa de habitação.\n\nArtigo 15.º-EA\n\nNão oposição ao procedimento\n\n1 - O processo é imediatamente concluso ao juiz para proferir decisão judicial para entrada imediata no domicílio nos casos em que:\n\na) Depois de notificado, o requerido não deduzir oposição no respetivo prazo;\n\nb) A oposição se tiver por não deduzida nos termos do disposto nos n.os 6 e 7 do artigo 15.º-F;\n\nc) Na pendência do procedimento especial de despejo, o requerido não proceder ao pagamento ou depósito das rendas que se forem vencendo, nos termos previstos no n.º 10 do artigo 15.º\n\n2 - Nas situações da alínea a) do número anterior, aplica-se, com as necessárias adaptações, o disposto nos artigos 566.º a 568.º do Código de Processo Civil.\n\n3 - Quando tenha sido efetuado o pedido de pagamento das rendas, encargos ou despesas em atraso, a decisão referida no n.º 1 pronuncia-se igualmente sobre aquele pedido.\n\n4 - À decisão judicial que condene o requerido nos termos do número anterior é aplicável o regime previsto nos n.os 5 e 6 do artigo 15.º-J.\n\n5 - A sentença é notificada às partes, ao agente de execução ou ao notário, aplicando-se, com as necessárias adaptações, o regime previsto nos n.os 11 e 12 do artigo 15.º-I.\n\nArtigo 15.º-LA\n\nGarantia de pagamento\n\n1 - O Estado assume o pagamento das rendas que se vençam após o termo do prazo da oposição quando:\n\na) Esteja em causa resolução do contrato de arrendamento para fins habitacionais fundada em mora do arrendatário;\n\nb) O requerente tenha feito uso da faculdade prevista no n.º 6 do artigo 15.º;\n\nc) O arrendatário não tenha posto termo à mora nos termos do n.º 3 do artigo 1084.º do Código Civil; e\n\nd) O arrendatário mantenha a ocupação do locado.\n\n2 - Para os efeitos previstos no número anterior, o pagamento é efetuado para a conta bancária identificada pelo requerente nos termos da alínea l) do n.º 2 do artigo 15.º-B, a qual será comunicada pelo BAS ao IHRU, I. P., no prazo de cinco dias a contar do termo do prazo de oposição.\n\n3 - O arrendatário comunica imediatamente no procedimento a desocupação do locado quando esta ocorra antes do encerramento do processo.\n\n4 - O BAS comunica ao IHRU, I. P., a extinção do procedimento, bem como os requerimentos apresentados nos termos do número anterior, para efeitos de cessação dos pagamentos previstos no n.º 1.\n\n5 - Com o pagamento das rendas referidas no n.º 1, fica o Estado automaticamente sub-rogado nos direitos do requerente, os quais poderão ser exercidos através de execução fiscal.\n\n6 - O pagamento referido no n.º 1 tem como valor máximo mensal 1,5 vezes, com o limite total de 9 vezes, a remuneração mínima mensal garantida.\n\n7 - Quando exista carência de meios do arrendatário a sua aferição e o respetivo encaminhamento junto das entidades competentes na matéria são efetuados nos termos do procedimento a definir em portaria conjunta dos membros do Governo responsáveis pelas áreas da justiça, segurança social e habitação.\n\n8 - O requerente que tenha beneficiado do pagamento da renda previsto nos números anteriores não pode desistir do pedido ou da instância.\n\n9 - O BAS presta as informações que lhe forem solicitadas pelo IHRU, I. P., designadamente para efeitos de comprovação da pendência de procedimento especial de despejo.»"
+  },
+  "222515920": {
+   "fragment_id": "222516013",
+   "type": 11,
+   "heading": "Artigo 38.º — Alteração ao Decreto-Lei n.º 1/2013, de 7 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alteração ao Decreto-Lei n.º 1/2013, de 7 de janeiro\n\nOs artigos 1.º, 2.º, 3.º, 4.º, 5.º, 9.º, 10.º, 12.º, 13.º, 17.º, 18.º, 20.º e 21.º do Decreto-Lei n.º 1/2013, de 7 de janeiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\nO presente decreto-lei procede à instalação e à definição das regras do funcionamento do Balcão do Arrendatário e do Senhorio, adiante designado por BAS, e do procedimento especial de despejo, previstos nos artigos 15.º a 15.º-S da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, retificada pela Declaração de Retificação n.º 59-A/2012, de 12 de outubro.\n\nArtigo 2.º\n\nBalcão do Arrendatário e do Senhorio\n\nO Balcão do Arrendatário e do Senhorio (BAS), criado pelo artigo 15.º-A da Lei n.º 6/2006, de 27 de fevereiro, é a secretaria judicial com competência exclusiva para a tramitação do procedimento especial de despejo em todo o território nacional.\n\nArtigo 3.º\n\n[...]\n\nO mapa de pessoal do BAS é definido por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\nArtigo 4.º\n\n[...]\n\nCabe ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), arrecadar e administrar as verbas provenientes das taxas de justiça e multas, bem como de outro tipo de receita, respeitantes ao BAS.\n\nArtigo 5.º\n\n[...]\n\n1 - [...]\n\n2 - O requerimento deve ser acompanhado dos documentos previstos nos n.os 2 e 3 do artigo 15.º da Lei n.º 6/2006, de 27 de fevereiro, bem como da comunicação prevista no n.º 6 do mesmo artigo, sob pena de recusa.\n\nArtigo 9.º\n\n[...]\n\n1 - [...]\n\n2 - Compete exclusivamente ao tribunal, para o qual o BAS remete o processo após a apresentação da oposição, a análise dos requisitos da oposição, nomeadamente os previstos no n.º 6 do artigo 15.º-F da Lei n.º 6/2006, de 27 de fevereiro.\n\nArtigo 10.º\n\n[...]\n\n1 - São definidas por portaria do membro do Governo responsável pela área da justiça as formas de apresentação das seguintes peças processuais, as quais devem ser apresentadas exclusivamente junto do BAS:\n\na) (Revogada.)\n\nb) [...]\n\nc) [...]\n\nd) (Revogada.)\n\ne) [...]\n\nf) Outro requerimento ou ato processual que deva ser apresentado quando o procedimento esteja a correr junto do BAS.\n\n2 - É da responsabilidade do BAS a remessa para tribunal, quando for caso disso, das peças processuais referidas no número anterior, devendo tal remessa, nos casos das alíneas b) e c) do número anterior, ser efetuada por via eletrónica e de forma automatizada.\n\nArtigo 12.º\n\n[...]\n\n1 - Tendo o requerente, no requerimento de despejo, formulado pedido de pagamento de rendas, encargos ou despesas, o BAS, proferida decisão judicial para desocupação do locado, notifica o requerente desta para, em 10 dias, juntar ao processo comprovativo de pagamento de justiça da taxa respeitante à execução para pagamento de quantia certa.\n\n2 - A não apresentação, no prazo de 10 dias, do documento previsto no número anterior, é havida como desistência da instância quanto ao pedido de pagamento das rendas, encargos ou despesas.\n\n3 - Recebidos os elementos previstos no n.º 1, o BAS remete, por via eletrónica, o requerimento de despejo para o tribunal nele indicado, juntamente com a decisão judicial proferida, a procuração forense e o documento comprovativo do pagamento de taxa de justiça, valendo o conjunto destes documentos como requerimento executivo idóneo a iniciar a execução para pagamento de quantia certa.\n\n4 - Efetuado o envio do requerimento executivo para o tribunal, o BAS remete ao requerente o comprovativo desse envio, juntamente com as referências necessárias para efetuar o pagamento dos honorários devidos ao agente de execução designado, nos termos da regulamentação relativa à remuneração do agente de execução nas execuções cíveis.\n\n5 - Caso a designação do agente de execução tenha sido efetuada pelo BAS, são remetidos ao requerente, juntamente com elementos referidos no número anterior, os elementos de identificação e de contacto do agente de execução.\n\n6 - (Revogado.)\n\nArtigo 13.º\n\n[...]\n\n1 - [...]\n\n2 - O BAS procede à designação eletrónica e automática do agente de execução quando:\n\na) [...]\n\nb) [...]\n\n3 - [...]\n\n4 - [...]\n\nArtigo 17.º\n\n[...]\n\n1 - [...]\n\n2 - São ainda efetuadas por via eletrónica, nos termos definidos por portaria do membro do Governo responsável pela área da justiça, as notificações realizadas pelo BAS e as comunicações entre o BAS, os tribunais, os mandatários e os agentes de execução, notários ou oficiais de justiça.\n\nArtigo 18.º\n\n[...]\n\nA forma de consulta do processo e o modo de disponibilização da decisão judicial para desocupação do locado são definidos por portaria do membro do Governo responsável pela área da justiça.\n\nArtigo 20.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) Designação do agente de execução ou notário pelo BAS;\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\nArtigo 21.º\n\n[...]\n\nAo procedimento especial de despejo, quer quando esteja a correr no BAS, quer quando esteja a correr no tribunal, aplica-se o Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro, com as especificidades previstas nos artigos seguintes.»"
+  },
+  "222515921": {
+   "fragment_id": "222516014",
+   "type": 11,
+   "heading": "Artigo 39.º — Alteração ao Decreto-Lei n.º 34/2021, de 14 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Alteração ao Decreto-Lei n.º 34/2021, de 14 de maio\n\nOs artigos 3.º, 6.º, 19.º e 20.º do Regime dos Procedimentos Especiais em Matéria de Arrendamento, aprovado em anexo ao Decreto-Lei n.º 34/2021, de 14 de maio, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\nO requerimento de injunção em matéria de arrendamento é apresentado junto do Balcão do Arrendatário e do Senhorio (BAS).\n\nArtigo 6.º\n\n[...]\n\n1 - Recebido o requerimento, o BAS expede imediatamente notificação para o requerido, por carta registada com aviso de receção, para, em 15 dias, este:\n\na) [...]\n\nb) [...]\n\n2 - [...]\n\n3 - A notificação é expedida para o local indicado no requerimento, aplicando-se, com as necessárias adaptações, o disposto no artigo 228.º, nos n.os 3 a 5 do artigo 229.º, no n.º 2 do artigo 230.º e nos artigos 231.º, 232.º, 237.º, 238.º e 246.º, não havendo lugar à advertência prevista no artigo 233.º, todos do Código de Processo Civil.\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\nArtigo 19.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) O requerimento de apoio judiciário é processado com caráter de urgência.\n\n2 - [...]\n\nArtigo 20.º\n\n[...]\n\n1 - [...]\n\n2 - O procedimento de injunção em matéria de arrendamento tem natureza urgente.»"
+  },
+  "222515922": {
+   "fragment_id": "222516015",
+   "type": 11,
+   "heading": "Artigo 40.º — Alterações sistemáticas ao Decreto-Lei n.º 1/2013, de 7 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Alterações sistemáticas ao Decreto-Lei n.º 1/2013, de 7 de janeiro\n\nSão introduzidas as seguintes alterações sistemáticas ao Decreto-Lei n.º 1/2013, de 7 de janeiro:\n\na) O capítulo ii passa a ter como epígrafe «Balcão do Arrendatário e do Senhorio».\n\nb) A secção iii do capítulo iii passa a ter como epígrafe «Decisão de desocupação do locado e pedido de pagamento de rendas, encargos ou despesas»."
+  },
+  "222515923": {
+   "fragment_id": "222516016",
+   "type": 11,
+   "heading": "Artigo 41.º — Sistema integrado de acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Sistema integrado de acesso à informação\n\nO Governo implementa, no prazo de 60 dias, um sistema integrado de acesso à informação relativa ao arrendamento, na ótica do senhorio e do arrendatário."
+  },
+  "222515924": {
+   "fragment_id": "222516017",
+   "type": 1,
+   "heading": "Capítulo V — Autorizações de residência para atividade de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Autorizações de residência para atividade de investimento"
+  },
+  "222515925": {
+   "fragment_id": "222516018",
+   "type": 11,
+   "heading": "Artigo 42.º — Autorizações de residência para atividade de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Autorizações de residência para atividade de investimento\n\n1 - Não são admitidos novos pedidos de autorização de residência para atividade de investimento, concedidos ao abrigo do disposto nas subalíneas i), iii) e iv) da alínea d) do n.º 1 do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na redação anterior à entrada em vigor da presente lei, nos termos previstos no seu artigo 90.º-A, a partir da data da entrada em vigor da presente lei.\n\n2 - O disposto no número anterior não prejudica a possibilidade de renovação das autorizações de residência para atividade de investimento quando essas autorizações tenham sido concedidas ao abrigo do regime legal aplicável até à data da entrada em vigor da presente lei.\n\n3 - O disposto no número anterior é igualmente aplicável à concessão ou renovação de autorizações de residência para reagrupamento familiar previstas no artigo 98.º da Lei n.º 23/2007, de 4 de julho.\n\n4 - O disposto no n.º 2 é ainda aplicável aos cidadãos titulares de autorização de residência para atividade de investimento e seus familiares que cumpram os requisitos previstos no artigo 80.º da Lei n.º 23/2007, de 4 de julho, e pretendam requerer a concessão de uma autorização de residência para atividade de investimento permanente, excecionando a este regime o previsto na alínea b) do n.º 2 e nos n.os 3 e 4 do artigo 85.º do mesmo diploma.\n\n5 - Nos casos previstos nos números anteriores, a renovação determina a conversão da autorização de residência numa autorização de residência para imigrantes empreendedores, nos termos do n.º 4 do artigo 89.º da Lei n.º 23/2007, de 4 de julho, devendo os seus titulares cumprir o prazo mínimo de permanência de sete dias, seguidos ou interpolados, no primeiro ano e de 14 dias, seguidos ou interpolados, nos subsequentes períodos de dois anos."
+  },
+  "222515926": {
+   "fragment_id": "222516019",
+   "type": 11,
+   "heading": "Artigo 43.º — Pedidos de autorização de residência para atividade de investimento pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Pedidos de autorização de residência para atividade de investimento pendentes\n\n1 - Mantêm-se válidos os pedidos de concessão e de renovação de autorização de residência para atividade de investimento previstos nas subalíneas i), iii) e iv) da alínea d) do n.º 1 do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na redação anterior à entrada em vigor da presente lei, solicitados ao abrigo do disposto nos n.os 1 e 2 do artigo 90.º-A da Lei n.º 23/2007, de 4 de julho, que se encontrem a aguardar decisão junto das entidades competentes na data de entrada em vigor da presente lei.\n\n2 - O disposto no número anterior é ainda aplicável aos pedidos que se encontrem pendentes de procedimentos de controlo prévio nas câmaras municipais, na data da entrada em vigor da presente lei.\n\n3 - Aos pedidos referidos nos números anteriores aplica-se, com as necessárias adaptações, o previsto no n.º 5 do artigo 42.º\n\n4 - Para efeitos do disposto no número anterior, devem as entidades competentes verificar a adequação do investimento ao respetivo projeto empreendedor.\n\n5 - São competentes para a verificação da adequação do investimento ao respetivo projeto empreendedor, consoante a matéria:\n\na) A Agência para o Investimento e Comércio Externo de Portugal, E. P. E.;\n\nb) O Banco Português de Fomento, S. A.;\n\nc) O IAPMEI - Agência para a Competitividade e Inovação, I. P.;\n\nd) A Agência Nacional de Inovação (ANI);\n\ne) O Gabinete de Estratégia, Planeamento e Avaliação Culturais (GEPAC);\n\nf) Outras entidades que se revelem adequadas em razão da matéria."
+  },
+  "222515927": {
+   "fragment_id": "222516020",
+   "type": 11,
+   "heading": "Artigo 44.º — Alteração à Lei n.º 23/2007, de 4 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Alteração à Lei n.º 23/2007, de 4 de julho\n\nOs artigos 3.º, 77.º e 85.º da Lei n.º 23/2007, de 4 de julho, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ni) (Revogada.)\n\nii) [...]\n\niii) (Revogada.)\n\niv) (Revogada.)\n\nv) [...]\n\nvi) [...]\n\nvii) Transferência de capitais no montante igual ou superior a 500 000 (euro), destinados à aquisição de partes de organismos de investimento coletivo não imobiliários, que sejam constituídos ao abrigo da legislação portuguesa, cuja maturidade, no momento do investimento, seja de, pelo menos, cinco anos e, pelo menos, 60 % do valor dos investimentos seja concretizado em sociedades comerciais sediadas em território nacional;\n\nviii) Transferência de capitais no montante igual ou superior a 500 000 (euro), destinados à constituição de uma sociedade comercial com sede em território nacional, conjugada com a criação de cinco postos de trabalho permanentes, ou para reforço de capital social de uma sociedade comercial com sede em território nacional, já constituída, com a criação de, pelo menos, cinco postos de trabalho permanentes ou manutenção de, pelo menos, dez postos de trabalho, com um mínimo de cinco permanentes, e por um período mínimo de três anos;\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) [...]\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) [...]\n\nv) [...]\n\nx) [...]\n\ny) [...]\n\nz) [...]\n\naa) [...]\n\nbb) [...]\n\ncc) [...]\n\ndd) [...]\n\nee) [...]\n\nff) [...]\n\ngg) [...]\n\nhh) [...]\n\nii) [...]\n\njj) [...]\n\nkk) [...]\n\nll) [...]\n\nmm) [...]\n\nnn) [...]\n\noo) [...]\n\npp) [...]\n\nqq) [...]\n\nrr) [...]\n\nss) [...]\n\ntt) [...]\n\nuu) [...]\n\nvv) [...]\n\nww) [...]\n\nxx) [...]\n\n2 - O montante ou requisito quantitativo mínimo da atividade de investimento prevista nas subalíneas ii), v) e vi) da alínea d) do número anterior pode ser inferior em 20 %, quando a atividade seja efetuada em territórios de baixa densidade.\n\n3 - Para efeitos do disposto no número anterior, consideram-se territórios de baixa densidade os definidos na Portaria n.º 208/2017, de 13 de julho, com menos de 100 habitantes por km2 ou um produto interno bruto (PIB) per capita inferior a 75 % da média nacional.\n\n4 - As atividades de investimento previstas nas subalíneas ii) e v) a viii) da alínea d) do n.º 1 carecem de avaliação a cada dois anos quanto aos seus impactos na atividade científica, cultural e na promoção do investimento direto estrangeiro e criação de postos de trabalho.\n\n5 - As atividades de investimento previstas nas subalíneas referidas no número anterior não se podem destinar, direta ou indiretamente, ao investimento imobiliário.\n\nArtigo 77.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - Pode ser recusada a concessão ou a renovação de autorização de residência a nacionais de países terceiros, alvo de medidas restritivas da União Europeia.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior n.º 6.)\n\nArtigo 85.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Se concluir que o seu titular está sujeito a uma medida restritiva da União Europeia.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]»"
+  },
+  "222515928": {
+   "fragment_id": "222516021",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições complementares"
+  },
+  "222515929": {
+   "fragment_id": "222516022",
+   "type": 11,
+   "heading": "Artigo 45.º — Emprego no setor da construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Emprego no setor da construção\n\nDurante o ano de 2023, o Governo desenvolve um plano de reforço da formação e requalificação de trabalhadores e desempregados para o setor da construção civil através da promoção da oferta formativa dos centros de gestão direta e dos centros protocolares do Instituto do Emprego e Formação Profissional, I. P., de forma a prevenir o desemprego, promover a manutenção dos postos de trabalho e estimular a criação de emprego no setor da construção civil."
+  },
+  "222515930": {
+   "fragment_id": "222516023",
+   "type": 11,
+   "heading": "Artigo 46.º — Reabilitação térmica de habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Reabilitação térmica de habitações\n\nNo desenho de futuros avisos do Fundo Ambiental, dedicados à melhoria de eficiência energética do parque habitacional existente, são obrigatoriamente considerados mecanismos de avaliação que alavanquem candidaturas dedicadas à reabilitação térmica de habitações que se destinem a arrendamento acessível."
+  },
+  "222515931": {
+   "fragment_id": "222516024",
+   "type": 11,
+   "heading": "Artigo 47.º — Seguros de falta de pagamento de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Seguros de falta de pagamento de renda\n\nA Autoridade de Supervisão de Seguros e Fundos de Pensões avalia junto do setor segurador a existência de desincentivos ou barreiras à contratação de seguros de falta de pagamento de renda subscritos pelos senhorios, comunicando as conclusões da sua análise à Assembleia da República e ao Governo até ao final de 2023."
+  },
+  "222515932": {
+   "fragment_id": "222516025",
+   "type": 11,
+   "heading": "Artigo 48.º — Alteração à Lei n.º 98/97, de 26 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Alteração à Lei n.º 98/97, de 26 de agosto\n\nO artigo 47.º da Lei n.º 98/97, de 26 de agosto, passa a ter a seguinte redação:\n\n«Artigo 47.º\n\nIsenções de fiscalização prévia\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) Os contratos de arrendamento, e as correspondentes prestações complementares, nomeadamente de promoção, elaboração ou gestão dos mesmos, bem como os de fornecimento de água, gás e eletricidade ou celebrados com empresas de limpeza, de segurança de instalações e de assistência técnica;\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) Os contratos interadministrativos;\n\nj) [Anterior alínea i).]\n\n2 - [...]»"
+  },
+  "222515933": {
+   "fragment_id": "222516026",
+   "type": 11,
+   "heading": "Artigo 49.º — Aditamento ao Decreto-Lei n.º 20-B/2023, de 22 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Aditamento ao Decreto-Lei n.º 20-B/2023, de 22 de março\n\nÉ aditado o artigo 5.º-A ao Decreto-Lei n.º 20-B/2023, de 22 de março, com a seguinte redação:\n\n«Artigo 5.º-A\n\nImpenhorabilidade dos apoios extraordinários\n\nOs apoios extraordinários atribuídos nos termos do presente decreto-lei são impenhoráveis.»"
+  },
+  "222515934": {
+   "fragment_id": "222516027",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições transitórias e finais"
+  },
+  "222515935": {
+   "fragment_id": "222516028",
+   "type": 11,
+   "heading": "Artigo 50.º — Norma transitória em matéria fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Norma transitória em matéria fiscal\n\n1 - São excluídos de tributação em IRS os ganhos provenientes da transmissão onerosa de terrenos para construção ou de imóveis habitacionais que não sejam destinados a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, desde que verificadas, cumulativamente, as seguintes condições:\n\na) O valor de realização, deduzido da amortização de eventual empréstimo contraído para aquisição do imóvel, seja aplicado na amortização de capital em dívida em crédito à habitação destinado a habitação própria e permanente do sujeito passivo ou dos seus descendentes;\n\nb) A amortização referida na alínea anterior seja concretizada num prazo de três meses contados da data de realização.\n\n2 - Sempre que o valor de realização, deduzido da amortização de eventual empréstimo contraído para aquisição do imóvel transmitido, for superior ao capital em dívida no crédito à habitação contraído para a aquisição do imóvel destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, o valor remanescente é sujeito a tributação de acordo com as disposições gerais do Código do IRS.\n\n3 - A Autoridade Tributária e Aduaneira pode exigir que os sujeitos passivos apresentem documentos comprovativos, após a entrega da declaração modelo 3 de IRS de 2023 e 2024, da amortização de capital em dívida em crédito à habitação destinado à habitação própria e permanente.\n\n4 - O disposto nos números anteriores aplica-se às transmissões realizadas entre 1 de janeiro de 2022 e 31 de dezembro de 2024.\n\n5 - Nas transmissões efetuadas até à entrada em vigor da presente lei, a amortização referida na alínea b) do n.º 1 tem de ser concretizada até três meses após a entrada em vigor da presente lei.\n\n6 - Fica suspensa a contagem do prazo para o reinvestimento previsto na alínea b) do n.º 5 do artigo 10.º do Código do IRS, durante um período de dois anos, com efeitos a 1 de janeiro de 2020.\n\n7 - O disposto nos n.os 2 a 5 do artigo 72.º do Código do IRS, na redação introduzida pela presente lei, aplica-se a novos contratos de arrendamento e respetivas renovações contratuais, bem como às renovações dos contratos de arrendamento em vigor verificadas a partir da data de entrada em vigor da presente lei.\n\n8 - O disposto no n.º 2 do artigo 72.º do Código do IRS, na redação introduzida pela presente lei, não é aplicável aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração inferior a cinco anos que beneficiem de uma taxa de IRS inferior à nele prevista.\n\n9 - A verba 2.23 da lista i anexa ao Código do Imposto sobre o Valor Acrescentado, na redação introduzida pela presente lei, não é aplicável aos seguintes casos:\n\na) Pedidos de licenciamento, de comunicação prévia ou pedido de informação prévia respeitantes a operações urbanísticas submetidos junto da câmara municipal territorialmente competente antes da data da entrada em vigor da presente lei;\n\nb) Pedidos de licenciamento ou de comunicação prévia submetidas junto da câmara municipal territorialmente competente após a entrada em vigor da presente lei, desde que submetidas ao abrigo de uma informação prévia favorável em vigor."
+  },
+  "222515936": {
+   "fragment_id": "222516029",
+   "type": 11,
+   "heading": "Artigo 51.º — Norma transitória no âmbito do Estatuto dos Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Norma transitória no âmbito do Estatuto dos Benefícios Fiscais\n\nO disposto no n.º 5 do artigo 46.º do EBF, na redação dada pela presente lei, aplica-se aos prédios ou parte de prédios urbanos habitacionais cuja construção, ampliação, melhoramento ou aquisição a título oneroso tenha ocorrido no ano de 2022 ou que, tendo ocorrido em momento anterior, tenham beneficiado da isenção prevista no n.º 1 do artigo 46.º do EBF em 2022, sendo nesses casos deduzido ao período de duração da isenção os anos já transcorridos."
+  },
+  "222515937": {
+   "fragment_id": "222516030",
+   "type": 11,
+   "heading": "Artigo 52.º — Norma transitória em matéria de alojamento local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Norma transitória em matéria de alojamento local\n\nO disposto nos n.os 4 e 5 do artigo 5.º e na parte final da alínea f) do n.º 2 do artigo 6.º do Decreto-Lei n.º 128/2014, de 29 de agosto, na redação dada pela presente lei, apenas se aplica aos registos efetuados após a entrada em vigor da mesma."
+  },
+  "222515938": {
+   "fragment_id": "222516031",
+   "type": 11,
+   "heading": "Artigo 53.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Norma revogatória\n\nSão revogados:\n\na) Os n.os 1, 2, 3, 5, 7, 9 a 17, 21 e 27 a 30 do artigo 71.º do EBF;\n\nb) As alíneas d) e e) do n.º 1 e os n.os 2 a 7 do artigo 9.º do Código do IMI;\n\nc) O n.º 7 do artigo 15.º, o n.º 2 do artigo 15.º-J, o artigo 15.º-L, os n.os 2, 3 e 4 do artigo 15.º-M, os artigos 15.º-N a 15.º-P, os n.os 6, 7 e 8 e a alínea c) do n.º 9 do artigo 15.º-S, o artigo 15.º-U, os n.os 3 a 6 do artigo 35.º e os n.os 7, 8, 9, 11, 12 e 13 do artigo 36.º do NRAU;\n\nd) As subalíneas i), iii) e iv) da alínea d) do n.º 1 do artigo 3.º da Lei n.º 23/2007, de 4 de julho;\n\ne) Os artigos 6.º e 7.º, o n.º 4 do artigo 8.º, as alíneas a) e d) do n.º 1 do artigo 10.º, o artigo 11.º, o n.º 6 do artigo 12.º, os artigos 14.º e 16.º, o n.º 3 e a alínea c) do n.º 4 do artigo 22.º e o artigo 25.º do Decreto-Lei n.º 1/2013, de 7 de janeiro; e\n\nf) O n.º 3 do artigo 9.º do Decreto-Lei n.º 128/2014, de 29 de agosto."
+  },
+  "222515939": {
+   "fragment_id": "222516032",
+   "type": 11,
+   "heading": "Artigo 54.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Produção de efeitos\n\n1 - Produzem efeitos 120 dias após a entrada em vigor da presente lei:\n\na) A secção ii do capítulo iv, com exceção do disposto nos artigos 35.º, 36.º e 37.º do NRAU, na redação que lhes foi dada pela presente lei;\n\nb) As alíneas c) e e) do artigo 53.º\n\n2 - O disposto no artigo 34.º produz efeitos até 31 de dezembro de 2029.\n\n3 - O disposto no artigo 15.º-LA do NRAU produz efeitos a 1 de janeiro de 2024."
+  },
+  "222515940": {
+   "fragment_id": "222516033",
+   "type": 11,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "838758706": {
+   "fragment_id": "838972813",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regime cria uma contribuição extraordinária sobre os apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício em alojamento local (CEAL)."
+  },
+  "838758707": {
+   "fragment_id": "838972814",
+   "type": 11,
+   "heading": "Artigo 2.º — Incidência subjetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incidência subjetiva\n\n1 - São sujeitos passivos da CEAL os titulares da exploração dos estabelecimentos de alojamento local, na aceção do artigo 2.º do Decreto-Lei n.º 128/2014, de 29 de agosto.\n\n2 - Os proprietários de imóveis que não sejam titulares da exploração nos quais se desenvolva a exploração de alojamento local são subsidiariamente responsáveis pelo pagamento da CEAL relativamente aos respetivos imóveis."
+  },
+  "838758708": {
+   "fragment_id": "838972815",
+   "type": 11,
+   "heading": "Artigo 3.º — Incidência objetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Incidência objetiva\n\n1 - A CEAL incide sobre a afetação de imóveis habitacionais a alojamento local, a 31 de dezembro de cada ano civil.\n\n2 - Consideram-se imóveis habitacionais, para efeitos do presente regime, as suas frações autónomas e as partes ou divisões de prédios urbanos suscetíveis de utilização independente de natureza habitacional nos termos do n.º 2 do artigo 6.º do Código do Imposto Municipal sobre Imóveis.\n\n3 - Consideram-se afetos a alojamento local os imóveis habitacionais que integrem uma licença de alojamento local válida.\n\n4 - Excluem-se da incidência objetiva da CEAL os imóveis localizados nos territórios do interior como tal identificados no anexo à Portaria n.º 208/2017, de 13 de julho, bem como os imóveis localizados em freguesias que preencham, cumulativamente, os seguintes critérios:\n\na) Sejam abrangidas por Carta Municipal de Habitação em vigor que evidencie o adequado equilíbrio de oferta de habitações e alojamento estudantil no município, aprovada ao abrigo do n.º 2 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro;\n\nb) Integrem municípios nos quais não tenha sido declarada a situação de carência habitacional, ao abrigo do n.º 5 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro; e\n\nc) Não tenham qualquer parte do seu território como zona de pressão urbanística, definida nos termos do Decreto-Lei n.º 159/2006, de 8 de agosto.\n\n5 - Para efeitos do disposto no número anterior, os municípios comunicam à Autoridade Tributária e Aduaneira até 31 de janeiro do ano seguinte ao facto tributário, por transmissão eletrónica de dados, as freguesias que preenchem cumulativamente os critérios ali definidos."
+  },
+  "838758709": {
+   "fragment_id": "838972816",
+   "type": 11,
+   "heading": "Artigo 4.º — Isenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Isenção\n\n1 - Estão isentos da CEAL os imóveis habitacionais que não constituam frações autónomas, nem partes ou divisões suscetíveis de utilização independente.\n\n2 - Estão ainda isentos da CEAL as unidades de alojamento local em habitação própria e permanente, desde que a exploração não ultrapasse 120 dias por ano."
+  },
+  "838758710": {
+   "fragment_id": "838972817",
+   "type": 11,
+   "heading": "Artigo 5.º — Base tributável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Base tributável\n\nA base tributável da CEAL é constituída pela aplicação do coeficiente económico do alojamento local e do coeficiente de pressão urbanística à área bruta privativa dos imóveis habitacionais, sobre os quais incida a CEAL."
+  },
+  "838758711": {
+   "fragment_id": "838972818",
+   "type": 11,
+   "heading": "Artigo 6.º — Coeficiente económico do alojamento local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coeficiente económico do alojamento local\n\nO coeficiente económico do alojamento local é calculado através do quociente entre:\n\na) O rendimento médio anual por quarto disponível em alojamento local apurado pelo Instituto Nacional de Estatística, I. P., relativamente ao ano anterior ao facto tributário;\n\nb) A área bruta mínima de um fogo habitacional de tipologia T1, nos termos previstos no artigo 67.º do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38 382/1951, de 7 de agosto."
+  },
+  "838758712": {
+   "fragment_id": "838972819",
+   "type": 11,
+   "heading": "Artigo 7.º — Coeficiente de pressão urbanística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coeficiente de pressão urbanística\n\n1 - O coeficiente de pressão urbanística é calculado, para cada zona, através do quociente entre:\n\na) A variação positiva da renda de referência por m2, na zona do estabelecimento de alojamento local, entre 2015 e o ano anterior ao facto tributário;\n\nb) A variação positiva da renda de referência por m2, apurada nos termos da alínea anterior, na zona em que tal variação seja mais elevada a nível nacional.\n\n2 - Para efeitos do presente artigo, considera-se como «zona»:\n\na) A freguesia de localização do imóvel, desde que entre os anos de referência tenham sido comunicados através da declaração do modelo 2 do imposto do selo previsto no Código do Imposto de Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro, pelo menos, 50 contratos de arrendamento habitacional permanente naquela freguesia; ou\n\nb) Não sendo atingido o limite previsto na alínea anterior, o concelho de localização do imóvel, desde que entre os anos de referência tenham sido comunicados através da declaração modelo 2 do imposto do selo, pelo menos, 50 contratos de arrendamento habitacional permanente naquele concelho; ou\n\nc) Não sendo atingido o limite previsto na alínea anterior, o distrito de localização do imóvel, desde que entre os anos de referência tenham sido comunicados através da declaração modelo 2 do imposto do selo, pelo menos, 50 contratos de arrendamento habitacional permanente naquele distrito;\n\nd) Nos demais casos, Portugal continental, a Região Autónoma dos Açores ou a Região Autónoma da Madeira, consoante o caso.\n\n3 - A renda de referência por m2 é apurada:\n\na) Quando a zona seja determinada pela freguesia de localização do imóvel, nos termos da alínea a) do número anterior, através da mediana da renda por m2 dos contratos de arrendamento habitacional permanente comunicados através do modelo 2 do imposto do selo naquela circunscrição administrativa;\n\nb) Quando a zona seja determinada por outra circunscrição administrativa, nos termos das alíneas b) a d) do número anterior, através da mediana da renda por m2 do primeiro quartil dos contratos de arrendamento habitacional permanente comunicados através da declaração modelo 2 do imposto do selo naquela circunscrição administrativa.\n\n4 - Ao coeficiente de pressão urbanística aplica-se os seguintes limites:\n\na) Quando na área de um mesmo concelho existam imóveis cuja zona seja determinada pela freguesia, nos termos da alínea a) do n.º 2, e imóveis cuja zona seja determinada pelo concelho, nos termos das alíneas b) a d) do n.º 2, o coeficiente aplicável a nível concelhio não pode exceder 75 % do coeficiente mais baixo aplicável de entre as freguesias autonomizadas nesse concelho nos termos da alínea a) do n.º 2;\n\nb) Quando na área de um mesmo distrito existam imóveis cuja zona seja determinada pelo concelho e imóveis cuja zona seja determinada pelo distrito, o coeficiente aplicável a nível distrital não pode exceder 75 % do coeficiente mais baixo aplicável de entre os concelhos autonomizados nesse distrito nos termos da alínea b) do n.º 2."
+  },
+  "838758713": {
+   "fragment_id": "838972820",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicidade dos coeficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicidade dos coeficientes\n\n1 - Os coeficientes apurados nos termos dos artigos 6.º e 7.º são publicados anualmente por portaria do membro do Governo responsável pela área das finanças.\n\n2 - Os coeficientes aplicáveis ao ano de 2023 são publicados por portaria do membro do Governo responsável pela área das finanças no prazo de 60 dias após a publicação da presente lei."
+  },
+  "838758714": {
+   "fragment_id": "838972821",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxa\n\nA taxa aplicável à base tributável é de 15 %."
+  },
+  "838758715": {
+   "fragment_id": "838972822",
+   "type": 11,
+   "heading": "Artigo 10.º — Liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Liquidação\n\n1 - A contribuição é liquidada pelo sujeito passivo, através de declaração de modelo oficial, aprovada por portaria do membro do Governo responsável pela área das finanças.\n\n2 - A declaração referida no número anterior é enviada anualmente à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, até ao dia 20 do mês junho do ano seguinte ao facto tributário.\n\n3 - A liquidação prevista no n.º 1 pode ser corrigida oficiosamente pela Autoridade Tributária e Aduaneira, nos prazos previstos na Lei Geral Tributária, aprovada em anexo ao Decreto-Lei n.º 398/98, de 17 de dezembro, caso sejam verificados erros ou omissões que determinem a exigência de um valor de contribuição superior ao liquidado pelo sujeito passivo.\n\n4 - Na falta de liquidação da contribuição nos termos do n.º 1, a mesma é efetuada oficiosamente pela Autoridade Tributária e Aduaneira, com base nos elementos de que esta disponha, ao proprietário do imóvel inscrito na matriz à data do facto tributário."
+  },
+  "838758716": {
+   "fragment_id": "838972823",
+   "type": 11,
+   "heading": "Artigo 11.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pagamento\n\n1 - A contribuição liquidada é paga até ao dia 25 do mês de junho do ano seguinte ao facto tributário, nos locais de cobrança legalmente autorizados.\n\n2 - Não sendo efetuado o pagamento da contribuição até ao termo do prazo previsto no número anterior, começam a correr imediatamente juros de mora e a cobrança da dívida é promovida pela Autoridade Tributária e Aduaneira, nos termos do Código de Procedimento e de Processo Tributário, aprovado em anexo ao Decreto-Lei n.º 433/99, de 26 de outubro."
+  },
+  "838758717": {
+   "fragment_id": "838972824",
+   "type": 11,
+   "heading": "Artigo 12.º — Consignação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Consignação\n\n1 - A receita obtida com a CEAL é consignada ao Instituto da Habitação e da Reabilitação Urbana, I. P., tendo em vista os programas definidos pelo Governo para as áreas da habitação, do arrendamento habitacional e da reabilitação urbana, em articulação com as políticas regionais e locais de habitação.\n\n2 - A receita obtida com a CEAL cobrada nas Regiões Autónomas da Madeira e dos Açores é consignada, respetivamente, à IHM - Investimentos Habitacionais da Madeira, EPERAM, e à Direção Regional da Habitação dos Açores."
+  },
+  "838758718": {
+   "fragment_id": "838972825",
+   "type": 11,
+   "heading": "Artigo 13.º — Não dedutibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Não dedutibilidade\n\nA CEAL não é dedutível para efeitos de determinação do lucro tributável em IRC, mesmo quando contabilizada como gasto do período de tributação."
+  },
+  "838758719": {
+   "fragment_id": "838972826",
+   "type": 11,
+   "heading": "Artigo 14.º — Infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Infrações\n\nAo incumprimento das obrigações tributárias previstas nesta lei é aplicável o Regime Geral das Infrações Tributárias, aprovado em anexo à Lei n.º 15/2001, de 5 de junho."
+  },
+  "838758720": {
+   "fragment_id": "838972827",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Garantias especiais\n\nA CEAL goza das garantias especiais previstas no Código Civil, aprovado em anexo ao Decreto-Lei n.º 47 344/66, de 25 de novembro."
+  },
+  "838758721": {
+   "fragment_id": "838972828",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito subsidiário\n\nSão subsidiariamente aplicáveis ao presente regime as disposições da lei geral tributária e do Código de Procedimento e de Processo Tributário."
+  },
+  "838758722": {
+   "fragment_id": "838972829",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\nNa contribuição a liquidar em 2024, relativa a 31 de dezembro de 2023, são considerados, para efeitos da alínea a) do artigo 6.º, os dados do Instituto Nacional de Estatística, I. P., referentes ao ano de 2019.\n\n116920758"
+  },
+  "838758723": {
+   "fragment_id": "222516028",
+   "type": 11,
+   "heading": "Artigo 50.º — Norma transitória em matéria fiscal",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 314.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 50.º — Norma transitória em matéria fiscal\n\n1 - São excluídos de tributação em IRS os ganhos provenientes da transmissão onerosa de terrenos para construção ou de imóveis habitacionais que não sejam destinados a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, desde que verificadas, cumulativamente, as seguintes condições:\n\na) O valor de realização, deduzido da amortização de eventual empréstimo contraído para aquisição do imóvel, seja aplicado na amortização de capital em dívida em crédito à habitação destinado a habitação própria e permanente do sujeito passivo, do seu agregado familiar ou dos seus descendentes;\n\nb) A amortização referida na alínea anterior seja concretizada num prazo de três meses contados da data de realização.\n\n2 - Sempre que o valor de realização, deduzido da amortização de eventual empréstimo contraído para aquisição do imóvel transmitido, for parcialmente reinvestido na amortização de capital em dívida em crédito à habitação destinado a habitação própria e permanente do sujeito passivo, do seu agregado familiar ou dos seus descendentes, o valor remanescente é sujeito a tributação de acordo com as disposições gerais do Código do IRS.\n\n3 - A Autoridade Tributária e Aduaneira pode exigir que os sujeitos passivos apresentem documentos comprovativos, após a entrega da declaração modelo 3 de IRS de 2023 e 2024, da amortização de capital em dívida em crédito à habitação destinado à habitação própria e permanente.\n\n4 - O disposto nos números anteriores aplica-se às transmissões realizadas entre 1 de janeiro de 2022 e 31 de dezembro de 2024.\n\n5 - Nas transmissões efetuadas até à entrada em vigor da presente lei, a amortização referida na alínea b) do n.º 1 tem de ser concretizada até três meses após a entrada em vigor da presente lei.\n\n6 - Fica suspensa a contagem do prazo para o reinvestimento previsto na alínea b) do n.º 5 do artigo 10.º do Código do IRS, durante um período de dois anos, com efeitos a 1 de janeiro de 2020.\n\n7 - O disposto nos n.os 2 a 5 do artigo 72.º do Código do IRS, na redação introduzida pela presente lei, aplica-se a novos contratos de arrendamento e respetivas renovações contratuais, bem como às renovações dos contratos de arrendamento em vigor verificadas a partir da data de entrada em vigor da presente lei.\n\n8 - O disposto no n.º 2 do artigo 72.º do Código do IRS, na redação introduzida pela presente lei:\n\na) Não é aplicável aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração inferior a cinco anos que já beneficiassem de uma taxa de IRS inferior à nele prevista, mantendo-se a taxa anteriormente aplicável até ao termo da duração do contrato ou até à sua renovação, dependendo do que ocorrer em primeiro lugar;\n\nb) É aplicável aos rendimentos prediais decorrentes de contratos de arrendamento para habitação que não beneficiassem de uma taxa de IRS inferior à nele prevista.\n\n9 - A verba 2.23 da lista i anexa ao Código do Imposto sobre o Valor Acrescentado, na redação introduzida pela presente lei, não é aplicável aos seguintes casos:\n\na) Pedidos de licenciamento, de comunicação prévia ou pedido de informação prévia respeitantes a operações urbanísticas submetidos junto da câmara municipal territorialmente competente antes da data da entrada em vigor da presente lei;\n\nb) Pedidos de licenciamento ou de comunicação prévia submetidas junto da câmara municipal territorialmente competente após a entrada em vigor da presente lei, desde que submetidas ao abrigo de uma informação prévia favorável em vigor.\n\n10 - Para efeitos do disposto no n.º 6, os contribuintes que possam aproveitar da suspensão do prazo aí referido, para além dos meios gerais de reação legalmente previstos, têm a faculdade de apresentar uma declaração de rendimentos de substituição do ano em que foi concretizado o reinvestimento, ou do ano em que foi efetuada a alienação no caso do objeto do reinvestimento se ter verificado nos 24 meses anteriores, devendo esta declaração de substituição ser apresentada até ao final do ano de 2024 nas situações em que já tenha havido a tributação das mais valias, que devem estar excluídas de tributação, por ato de reliquidação da Autoridade Tributária e Aduaneira.\n\n11 - Para efeitos dos n.os 1 e 2 do artigo 3.º da Lei n.º 19/2022, de 21 de outubro, são igualmente considerados os rendimentos prediais de contratos de arrendamento enquadráveis na categoria F, aos quais fossem aplicáveis, à data de entrada em vigor da presente lei, as taxas previstas na alínea e) do n.º 1 e no n.º 2 do artigo 72.º do Código do IRS, na redação anterior à dada pela presente lei.\n\n12 - O disposto no número anterior é igualmente aplicável entre 7 de outubro e 31 de dezembro de 2023, aos rendimentos de contratos de arrendamento não habitacional e de contratos de arrendamento habitacional a que se refere o n.º 8, que se renovem após a entrada em vigor da presente lei.\n\n> Alterado pelo/a Artigo 314.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "222515941": {
+   "fragment_id": "222516034",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de julho de 2023.\n\nO Presidente da Assembleia da República, Augusto Santos Silva.\n\nPromulgada em 26 de setembro de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 3 de outubro de 2023.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "838758705": {
+   "fragment_id": "838972812",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 22.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 22.º)"
+  },
+  "838758724": {
+   "fragment_id": "838972815",
+   "type": 11,
+   "heading": "Artigo 3.º — Incidência objetiva",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 314.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Incidência objetiva\n\n1 - A CEAL incide sobre a afetação de imóveis habitacionais a alojamento local, a 31 de dezembro de cada ano civil.\n\n2 - Consideram-se imóveis habitacionais, para efeitos do presente regime, as suas frações autónomas e as partes ou divisões de prédios urbanos suscetíveis de utilização independente de natureza habitacional nos termos do n.º 2 do artigo 6.º do Código do Imposto Municipal sobre Imóveis.\n\n3 - Consideram-se afetos a alojamento local os imóveis habitacionais que integrem uma licença de alojamento local válida.\n\n4 - Excluem-se da incidência objetiva da CEAL os imóveis localizados nos territórios do interior como tal identificados no anexo à Portaria n.º 208/2017, de 13 de julho, nas freguesias das regiões autónomas identificadas por decreto legislativo regional das respetivas Assembleias Legislativas e nas freguesias que preencham, cumulativamente, os seguintes critérios:\n\na) Sejam abrangidas por Carta Municipal de Habitação em vigor que evidencie o adequado equilíbrio de oferta de habitações e alojamento estudantil no município, aprovada ao abrigo do n.º 2 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro;\n\nb) Integrem municípios nos quais não tenha sido declarada a situação de carência habitacional, ao abrigo do n.º 5 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro; e\n\nc) Não tenham qualquer parte do seu território como zona de pressão urbanística, definida nos termos do Decreto-Lei n.º 159/2006, de 8 de agosto.\n\n5 - Para efeitos do disposto no número anterior, os municípios comunicam à Autoridade Tributária e Aduaneira até 31 de janeiro do ano seguinte ao facto tributário, por transmissão eletrónica de dados, as freguesias que preenchem cumulativamente os critérios ali definidos.\n\n> Alterado pelo/a Artigo 314.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "887317268": {
+   "fragment_id": "222471962",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece medidas com o objetivo de garantir mais habitação.\n\n2 - Para efeitos do disposto no número anterior, a presente lei procede:\n\na) À criação de um apoio à promoção de habitação para arrendamento acessível;\n\nb) Ao desenvolvimento de uma Nova Geração de Cooperativismo para a Promoção de Habitação Acessível;\n\nc) À definição de regras excecionais e transitórias quanto ao valor das rendas nos novos contratos de arrendamento, subsequentes a contratos celebrados nos últimos cinco anos;\n\nd) À definição de mecanismos de proteção dos inquilinos com contratos de arrendamento anteriores a 1990 e à garantia da justa compensação do senhorio;\n\ne) À integração da tramitação do procedimento especial de despejo e da injunção em matéria de arrendamento junto do Balcão do Arrendatário e do Senhorio (BAS), para simplificação e melhoria do seu funcionamento e reforço das garantias das partes;\n\nf) À aprovação de várias medidas fiscais de incentivo e apoio ao arrendamento;\n\ng) Ao incentivo à transferência de apartamentos em alojamento local para o arrendamento habitacional;\n\nh) [Revogada.]\n\ni) À revogação das autorizações de residência para atividade de investimento imobiliário;\n\nj) Ao alargamento do âmbito de isenções de fiscalização prévia do Tribunal de Contas.\n\n3 - Para concretizar o disposto no número anterior, a presente lei procede:\n\na) À alteração ao Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT), aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro;\n\nb) À segunda alteração ao Decreto-Lei n.º 159/2006, de 8 de agosto, que aprova a definição do conceito fiscal de prédio devoluto, alterado pelo Decreto-Lei n.º 67/2019, de 21 de maio;\n\nc) À quinta alteração ao Regime Jurídico da Reabilitação Urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro, alterado pela Lei n.º 32/2012, de 14 de agosto, e pelos Decretos-Leis n.os 136/2014, de 9 de setembro, 88/2017, de 27 de julho, e 66/2019, de 21 de maio;\n\nd) À quinta alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto, que aprova o regime jurídico da exploração dos estabelecimentos de alojamento local, alterado pelo Decreto-Lei n.º 63/2015, de 23 de abril, pelas Leis n.os 62/2018, de 22 de agosto, e 71/2018, de 31 de dezembro, e pelo Decreto-Lei n.º 9/2021, de 29 de janeiro;\n\ne) À alteração ao Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro;\n\nf) À primeira alteração ao Decreto-Lei n.º 89/2021, de 3 de novembro, que regulamenta normas da Lei de Bases da Habitação relativas à garantia de alternativa habitacional, ao direito legal de preferência e à fiscalização de condições de habitabilidade;\n\ng) À alteração ao Código do Imposto sobre o Valor Acrescentado (IVA), aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro;\n\nh) À alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro;\n\ni) À alteração ao Estatuto dos Benefícios Fiscais (EBF), aprovado em anexo ao Decreto-Lei n.º 215/89, de 1 de julho;\n\nj) À alteração ao Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro;\n\nk) À alteração ao Código do Imposto Municipal sobre Imóveis (IMI), aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro;\n\nl) À terceira alteração à Lei n.º 19/2022, de 21 de outubro, que determina o coeficiente de atualização de rendas para 2023, cria um apoio extraordinário ao arrendamento, reduz o IVA no fornecimento de eletricidade, estabelece um regime transitório de atualização das pensões, estabelece um regime de resgate de planos de poupança e determina a impenhorabilidade de apoios às famílias, alterada pela Leis n.os 24-D/2022, de 30 de dezembro, e 24/2023, de 29 de maio;\n\nm) À oitava alteração ao Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, 79/2014, de 19 de dezembro, 42/2017, de 14 de junho, 43/2017, de 14 de junho, 12/2019, de 12 de fevereiro, 13/2019, de 12 de fevereiro, e 2/2020, de 31 de março;\n\nn) À primeira alteração ao Decreto-Lei n.º 1/2013, de 7 de janeiro, que procede à instalação e à definição das regras do funcionamento do Balcão Nacional do Arrendamento e do procedimento especial de despejo;\n\no) À primeira alteração ao Decreto-Lei n.º 34/2021, de 14 de maio, que procede à aprovação do Regime do Procedimento de Injunção em Matéria de Arrendamento;\n\np) À décima terceira alteração à Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, alterada pelas Leis n.os 29/2012, de 9 de agosto, 56/2015, de 23 de junho, 63/2015, de 30 de junho, 59/2017, de 31 de julho, 102/2017, de 28 de agosto, 26/2018, de 5 de julho, e 28/2019, de 29 de março, pelo Decreto-Lei n.º 14/2021, de 12 de fevereiro, pela Lei n.º 18/2022, de 25 de agosto, pelo Decreto-Lei n.º 41/2023, de 2 de junho, e pelas Leis n.os 41/2023, de 10 de agosto, e 53/2023, de 31 de agosto;\n\nq) À décima quarta alteração à Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de agosto, alterada pelas Leis n.os 87-B/98, de 31 de dezembro, 1/2001, de 4 de janeiro, 55-B/2004, de 30 de dezembro, 48/2006, de 29 de agosto, 35/2007, de 13 de agosto, 3-B/2010, de 28 de abril, 61/2011, de 7 de dezembro, 2/2012, de 6 de janeiro, 20/2015, de 9 de março, 42/2016, de 28 de dezembro, 2/2020, de 31 de março, 27-A/2020, de 24 de julho, e 12/2022, de 27 de junho;\n\nr) À primeira alteração ao Decreto-Lei n.º 20-B/2023, de 22 de março, que cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887317269": {
+   "fragment_id": "222515992",
+   "type": 11,
+   "heading": "Artigo 22.º — Contribuição extraordinária sobre os apartamentos em alojamento local",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 22.º — Contribuição extraordinária sobre os apartamentos em alojamento local\n\nÉ criada uma contribuição extraordinária sobre os apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício em alojamento local, cujo regime é aprovado no anexo à presente lei e da qual faz parte integrante.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887317270": {
+   "fragment_id": "838972812",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 22.º)",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 22.º)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887317271": {
+   "fragment_id": "838972813",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regime cria uma contribuição extraordinária sobre os apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício em alojamento local (CEAL).\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887317272": {
+   "fragment_id": "838972814",
+   "type": 11,
+   "heading": "Artigo 2.º — Incidência subjetiva",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Incidência subjetiva\n\n1 - São sujeitos passivos da CEAL os titulares da exploração dos estabelecimentos de alojamento local, na aceção do artigo 2.º do Decreto-Lei n.º 128/2014, de 29 de agosto.\n\n2 - Os proprietários de imóveis que não sejam titulares da exploração nos quais se desenvolva a exploração de alojamento local são subsidiariamente responsáveis pelo pagamento da CEAL relativamente aos respetivos imóveis.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887317273": {
+   "fragment_id": "838972815",
+   "type": 11,
+   "heading": "Artigo 3.º — Incidência objetiva",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31",
+    "Alterado pelo/a Artigo 314.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Incidência objetiva\n\n1 - A CEAL incide sobre a afetação de imóveis habitacionais a alojamento local, a 31 de dezembro de cada ano civil.\n\n2 - Consideram-se imóveis habitacionais, para efeitos do presente regime, as suas frações autónomas e as partes ou divisões de prédios urbanos suscetíveis de utilização independente de natureza habitacional nos termos do n.º 2 do artigo 6.º do Código do Imposto Municipal sobre Imóveis.\n\n3 - Consideram-se afetos a alojamento local os imóveis habitacionais que integrem uma licença de alojamento local válida.\n\n4 - Excluem-se da incidência objetiva da CEAL os imóveis localizados nos territórios do interior como tal identificados no anexo à Portaria n.º 208/2017, de 13 de julho, nas freguesias das regiões autónomas identificadas por decreto legislativo regional das respetivas Assembleias Legislativas e nas freguesias que preencham, cumulativamente, os seguintes critérios:\n\na) Sejam abrangidas por Carta Municipal de Habitação em vigor que evidencie o adequado equilíbrio de oferta de habitações e alojamento estudantil no município, aprovada ao abrigo do n.º 2 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro;\n\nb) Integrem municípios nos quais não tenha sido declarada a situação de carência habitacional, ao abrigo do n.º 5 do artigo 22.º da Lei n.º 83/2019, de 3 de setembro; e\n\nc) Não tenham qualquer parte do seu território como zona de pressão urbanística, definida nos termos do Decreto-Lei n.º 159/2006, de 8 de agosto.\n\n5 - Para efeitos do disposto no número anterior, os municípios comunicam à Autoridade Tributária e Aduaneira até 31 de janeiro do ano seguinte ao facto tributário, por transmissão eletrónica de dados, as freguesias que preenchem cumulativamente os critérios ali definidos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31\n\n> Alterado pelo/a Artigo 314.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "887317274": {
+   "fragment_id": "838972816",
+   "type": 11,
+   "heading": "Artigo 4.º — Isenção",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Isenção\n\n1 - Estão isentos da CEAL os imóveis habitacionais que não constituam frações autónomas, nem partes ou divisões suscetíveis de utilização independente.\n\n2 - Estão ainda isentos da CEAL as unidades de alojamento local em habitação própria e permanente, desde que a exploração não ultrapasse 120 dias por ano.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423275": {
+   "fragment_id": "838972817",
+   "type": 11,
+   "heading": "Artigo 5.º — Base tributável",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Base tributável\n\nA base tributável da CEAL é constituída pela aplicação do coeficiente económico do alojamento local e do coeficiente de pressão urbanística à área bruta privativa dos imóveis habitacionais, sobre os quais incida a CEAL.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423276": {
+   "fragment_id": "838972818",
+   "type": 11,
+   "heading": "Artigo 6.º — Coeficiente económico do alojamento local",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 6.º — Coeficiente económico do alojamento local\n\nO coeficiente económico do alojamento local é calculado através do quociente entre:\n\na) O rendimento médio anual por quarto disponível em alojamento local apurado pelo Instituto Nacional de Estatística, I. P., relativamente ao ano anterior ao facto tributário;\n\nb) A área bruta mínima de um fogo habitacional de tipologia T1, nos termos previstos no artigo 67.º do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38 382/1951, de 7 de agosto.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423277": {
+   "fragment_id": "838972819",
+   "type": 11,
+   "heading": "Artigo 7.º — Coeficiente de pressão urbanística",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 7.º — Coeficiente de pressão urbanística\n\n1 - O coeficiente de pressão urbanística é calculado, para cada zona, através do quociente entre:\n\na) A variação positiva da renda de referência por m2, na zona do estabelecimento de alojamento local, entre 2015 e o ano anterior ao facto tributário;\n\nb) A variação positiva da renda de referência por m2, apurada nos termos da alínea anterior, na zona em que tal variação seja mais elevada a nível nacional.\n\n2 - Para efeitos do presente artigo, considera-se como «zona»:\n\na) A freguesia de localização do imóvel, desde que entre os anos de referência tenham sido comunicados através da declaração do modelo 2 do imposto do selo previsto no Código do Imposto de Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro, pelo menos, 50 contratos de arrendamento habitacional permanente naquela freguesia; ou\n\nb) Não sendo atingido o limite previsto na alínea anterior, o concelho de localização do imóvel, desde que entre os anos de referência tenham sido comunicados através da declaração modelo 2 do imposto do selo, pelo menos, 50 contratos de arrendamento habitacional permanente naquele concelho; ou\n\nc) Não sendo atingido o limite previsto na alínea anterior, o distrito de localização do imóvel, desde que entre os anos de referência tenham sido comunicados através da declaração modelo 2 do imposto do selo, pelo menos, 50 contratos de arrendamento habitacional permanente naquele distrito;\n\nd) Nos demais casos, Portugal continental, a Região Autónoma dos Açores ou a Região Autónoma da Madeira, consoante o caso.\n\n3 - A renda de referência por m2 é apurada:\n\na) Quando a zona seja determinada pela freguesia de localização do imóvel, nos termos da alínea a) do número anterior, através da mediana da renda por m2 dos contratos de arrendamento habitacional permanente comunicados através do modelo 2 do imposto do selo naquela circunscrição administrativa;\n\nb) Quando a zona seja determinada por outra circunscrição administrativa, nos termos das alíneas b) a d) do número anterior, através da mediana da renda por m2 do primeiro quartil dos contratos de arrendamento habitacional permanente comunicados através da declaração modelo 2 do imposto do selo naquela circunscrição administrativa.\n\n4 - Ao coeficiente de pressão urbanística aplica-se os seguintes limites:\n\na) Quando na área de um mesmo concelho existam imóveis cuja zona seja determinada pela freguesia, nos termos da alínea a) do n.º 2, e imóveis cuja zona seja determinada pelo concelho, nos termos das alíneas b) a d) do n.º 2, o coeficiente aplicável a nível concelhio não pode exceder 75 % do coeficiente mais baixo aplicável de entre as freguesias autonomizadas nesse concelho nos termos da alínea a) do n.º 2;\n\nb) Quando na área de um mesmo distrito existam imóveis cuja zona seja determinada pelo concelho e imóveis cuja zona seja determinada pelo distrito, o coeficiente aplicável a nível distrital não pode exceder 75 % do coeficiente mais baixo aplicável de entre os concelhos autonomizados nesse distrito nos termos da alínea b) do n.º 2.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423278": {
+   "fragment_id": "838972820",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicidade dos coeficientes",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 8.º — Publicidade dos coeficientes\n\n1 - Os coeficientes apurados nos termos dos artigos 6.º e 7.º são publicados anualmente por portaria do membro do Governo responsável pela área das finanças.\n\n2 - Os coeficientes aplicáveis ao ano de 2023 são publicados por portaria do membro do Governo responsável pela área das finanças no prazo de 60 dias após a publicação da presente lei.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423279": {
+   "fragment_id": "838972821",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxa",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Taxa\n\nA taxa aplicável à base tributável é de 15 %.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423280": {
+   "fragment_id": "838972822",
+   "type": 11,
+   "heading": "Artigo 10.º — Liquidação",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Liquidação\n\n1 - A contribuição é liquidada pelo sujeito passivo, através de declaração de modelo oficial, aprovada por portaria do membro do Governo responsável pela área das finanças.\n\n2 - A declaração referida no número anterior é enviada anualmente à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, até ao dia 20 do mês junho do ano seguinte ao facto tributário.\n\n3 - A liquidação prevista no n.º 1 pode ser corrigida oficiosamente pela Autoridade Tributária e Aduaneira, nos prazos previstos na Lei Geral Tributária, aprovada em anexo ao Decreto-Lei n.º 398/98, de 17 de dezembro, caso sejam verificados erros ou omissões que determinem a exigência de um valor de contribuição superior ao liquidado pelo sujeito passivo.\n\n4 - Na falta de liquidação da contribuição nos termos do n.º 1, a mesma é efetuada oficiosamente pela Autoridade Tributária e Aduaneira, com base nos elementos de que esta disponha, ao proprietário do imóvel inscrito na matriz à data do facto tributário.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423281": {
+   "fragment_id": "838972823",
+   "type": 11,
+   "heading": "Artigo 11.º — Pagamento",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 11.º — Pagamento\n\n1 - A contribuição liquidada é paga até ao dia 25 do mês de junho do ano seguinte ao facto tributário, nos locais de cobrança legalmente autorizados.\n\n2 - Não sendo efetuado o pagamento da contribuição até ao termo do prazo previsto no número anterior, começam a correr imediatamente juros de mora e a cobrança da dívida é promovida pela Autoridade Tributária e Aduaneira, nos termos do Código de Procedimento e de Processo Tributário, aprovado em anexo ao Decreto-Lei n.º 433/99, de 26 de outubro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423282": {
+   "fragment_id": "838972824",
+   "type": 11,
+   "heading": "Artigo 12.º — Consignação",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 12.º — Consignação\n\n1 - A receita obtida com a CEAL é consignada ao Instituto da Habitação e da Reabilitação Urbana, I. P., tendo em vista os programas definidos pelo Governo para as áreas da habitação, do arrendamento habitacional e da reabilitação urbana, em articulação com as políticas regionais e locais de habitação.\n\n2 - A receita obtida com a CEAL cobrada nas Regiões Autónomas da Madeira e dos Açores é consignada, respetivamente, à IHM - Investimentos Habitacionais da Madeira, EPERAM, e à Direção Regional da Habitação dos Açores.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423283": {
+   "fragment_id": "838972825",
+   "type": 11,
+   "heading": "Artigo 13.º — Não dedutibilidade",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 13.º — Não dedutibilidade\n\nA CEAL não é dedutível para efeitos de determinação do lucro tributável em IRC, mesmo quando contabilizada como gasto do período de tributação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423284": {
+   "fragment_id": "838972826",
+   "type": 11,
+   "heading": "Artigo 14.º — Infrações",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 14.º — Infrações\n\nAo incumprimento das obrigações tributárias previstas nesta lei é aplicável o Regime Geral das Infrações Tributárias, aprovado em anexo à Lei n.º 15/2001, de 5 de junho.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423285": {
+   "fragment_id": "838972827",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias especiais",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 15.º — Garantias especiais\n\nA CEAL goza das garantias especiais previstas no Código Civil, aprovado em anexo ao Decreto-Lei n.º 47 344/66, de 25 de novembro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423286": {
+   "fragment_id": "838972828",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito subsidiário",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 16.º — Direito subsidiário\n\nSão subsidiariamente aplicáveis ao presente regime as disposições da lei geral tributária e do Código de Procedimento e de Processo Tributário.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "887423287": {
+   "fragment_id": "838972829",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+   ],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\nNa contribuição a liquidar em 2024, relativa a 31 de dezembro de 2023, são considerados, para efeitos da alínea a) do artigo 6.º, os dados do Instituto Nacional de Estatística, I. P., referentes ao ano de 2019.\n\n116920758\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2024-887319191), em vigor a partir de 2024-09-11, produz efeitos a partir de 2024-12-31"
+  },
+  "892448521": {
+   "fragment_id": "222515988",
+   "type": 11,
+   "heading": "Artigo 18.º — Aditamento ao Decreto-Lei n.º 128/2014, de 29 de agosto",
+   "in_force_from": "2024-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 18.º — Aditamento ao Decreto-Lei n.º 128/2014, de 29 de agosto\n\nÉ aditado ao Decreto-Lei n.º 128/2014, de 29 de agosto, o artigo 6.º-A, com a seguinte redação:\n\n«Artigo 6.º-A\n\nRenovação do registo de estabelecimento de alojamento local\n\n1 - O registo de estabelecimento de alojamento local tem a duração de cinco anos, renovável por iguais períodos.\n\n2 - A primeira renovação é contada a partir da data de emissão do título de abertura ao público.\n\n3 - As renovações do registo carecem de deliberação expressa da câmara municipal territorialmente competente, com faculdade de delegação e subdelegação, no prazo definido em regulamento municipal, podendo opor-se, com base nos requisitos de funcionamento dos estabelecimentos ou, quando aplicável, com o previsto na respetiva Carta Municipal de Habitação.»\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+  },
+  "892448522": {
+   "fragment_id": "222515989",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão de novos registos de alojamento local",
+   "in_force_from": "2024-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 19.º — Suspensão de novos registos de alojamento local\n\n1 - A emissão de novos registos de estabelecimento de alojamento local, ao abrigo do Decreto-Lei n.º 128/2014, de 29 de agosto, nas modalidades de apartamentos e estabelecimentos de hospedagem integrados numa fração autónoma de edifício, fica suspensa em todo o território nacional, com exceção dos territórios do interior identificados no anexo à Portaria n.º 208/2017, de 13 de julho, nos termos previstos nos números seguintes.\n\n2 - Os municípios definem, expressamente, nas respetivas Cartas Municipais de Habitação, aprovadas nos termos previstos no artigo 22.º da Lei n.º 83/2019, de 3 de setembro, o adequado equilíbrio de oferta de habitações e alojamento estudantil no respetivo território, que permita o termo da suspensão prevista no número anterior, sem prejuízo da identificação das regras e dos limites da utilização de frações habitacionais para alojamento local.\n\n3 - A suspensão prevista no n.º 1 mantém-se na totalidade ou parte da área do município em que tenha sido declarada a situação de carência habitacional, nos termos do artigo 62.º da Lei n.º 83/2019, de 3 de setembro.\n\n4 - O disposto no presente artigo não se aplica à exploração de imóveis integrados no Fundo Revive Natureza, nos termos do Decreto-Lei n.º 161/2019, de 25 de outubro.\n\n5 - O disposto no presente artigo não se aplica às Regiões Autónomas.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+  },
+  "892448523": {
+   "fragment_id": "222515990",
+   "type": 11,
+   "heading": "Artigo 20.º — Reapreciação de registos de alojamento local emitidos",
+   "in_force_from": "2024-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 20.º — Reapreciação de registos de alojamento local emitidos\n\n1 - Os registos de alojamento local emitidos à data da entrada em vigor da presente lei são reapreciados durante o ano de 2030, nos termos previstos no artigo 6.º-A do Decreto-Lei n.º 128/2014, de 29 de agosto.\n\n2 - Os registos referidos no número anterior são, a partir da primeira reapreciação, renováveis por cinco anos.\n\n3 - Excetuam-se do disposto no n.º 1 os estabelecimentos de alojamento local que constituam garantia real de contratos de mútuo celebrados até 16 de fevereiro de 2023, que ainda não tenham sido integralmente liquidados a 31 de dezembro de 2029, cuja primeira reapreciação só tem lugar após a amortização integral inicialmente contratada.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+  },
+  "892448524": {
+   "fragment_id": "222515991",
+   "type": 11,
+   "heading": "Artigo 21.º — Caducidade de registos inativos",
+   "in_force_from": "2024-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 21.º — Caducidade de registos inativos\n\n1 - No prazo de dois meses a contar da data de entrada em vigor da presente lei, os titulares do registo de alojamento local são obrigados a efetuar prova, mediante apresentação de declaração contributiva, da manutenção da atividade de exploração, comunicando efetividade de exercício na plataforma RNAL - Registo Nacional de Alojamento Local, através do Balcão Único Eletrónico previsto no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - O incumprimento do disposto no número anterior implica o cancelamento dos respetivos registos, por decisão do presidente da câmara municipal territorialmente competente.\n\n3 - O disposto nos números anteriores não é aplicável à exploração de unidades de alojamento local em habitação própria e permanente, desde que essa exploração não ultrapasse 120 dias por ano.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+  },
+  "892448525": {
+   "fragment_id": "222516030",
+   "type": 11,
+   "heading": "Artigo 52.º — Norma transitória em matéria de alojamento local",
+   "in_force_from": "2024-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 52.º — Norma transitória em matéria de alojamento local\n\nO disposto nos n.os 4 e 5 do artigo 5.º e na parte final da alínea f) do n.º 2 do artigo 6.º do Decreto-Lei n.º 128/2014, de 29 de agosto, na redação dada pela presente lei, apenas se aplica aos registos efetuados após a entrada em vigor da mesma.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 76/2024 - Diário da República n.º 206/2024, Série I de 2024-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2024-892301177), em vigor a partir de 2024-11-01"
+  }
+ }
+}

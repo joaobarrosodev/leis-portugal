@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:646303:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-886137913",
+ "dre_path": "/dr/detalhe/decreto-lei/347-1993-646303",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1993-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886155672",
+    "886155673",
+    "886155674",
+    "886138775",
+    "886138776",
+    "886138777",
+    "886138778"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345124:por",
+     "title": "Lei n.º 113/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/113-1999-345124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "886155672",
+    "886155673",
+    "886155674",
+    "886138775",
+    "886138776",
+    "886138777",
+    "886138780",
+    "886138779"
+   ]
+  }
+ ],
+ "fragments": {
+  "886155672": {
+   "fragment_id": "886137914",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 347/93\n\nde 1 de Outubro\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, estabelece o regime jurídico do enquadramento da segurança, higiene e saúde no trabalho, referindo-se expressamente, no n.º 2 do seu artigo 23.º, à regulamentação derivada da transposição para direito interno das directivas comunitárias.\n\nNestes termos, o presente diploma visa transpor para o direito interno a Directiva n.º 89/654/CEE, do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde para os locais de trabalho, que constitui a primeira directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva n.º 89/391/CEE, do Conselho, de 12 de Junho.\n\nTrata-se de um instrumento de acção destinado a orientar actuações quando se trate de conceber, projectar e instalar locais destinados a postos de trabalho, integrando especificações e exigências com vista a prevenir riscos profissionais e a garantir a protecção da segurança e da saúde, tal como são enunciadas no artigo 4.º do Decreto-Lei n.º 441/91, de 14 de Novembro, acima referido.\n\nPretende-se, assim, corresponder à exigência de fixação de prescrições mínimas de segurança e de saúde nos postos de trabalho, no quadro da dimensão social do mercado interno, com vista à melhoria dos níveis de prevenção e de protecção dos trabalhadores.\n\nO presente diploma foi apreciado em sede do Conselho Nacional de Segurança, Higiene e Saúde no Trabalho, reflectindo os consensos ali alcançados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886155673": {
+   "fragment_id": "886137915",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º 89/654/CEE, do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde nos locais de trabalho."
+  },
+  "886155674": {
+   "fragment_id": "886137916",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma tem o âmbito de aplicação estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n2 - O presente diploma não se aplica aos estaleiros temporários e móveis, indústrias extractivas, barcos de pesca, locais de trabalho no interior de meios de transporte nem a terrenos que façam parte de uma empresa agrícola ou florestal mas situados fora da zona construída dessa empresa."
+  },
+  "886138775": {
+   "fragment_id": "886137917",
+   "type": 11,
+   "heading": "Artigo 3.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definição\n\nPara efeitos de aplicação do presente diploma entende-se por local de trabalho todo o local destinado à implantação de postos de trabalho situados quer em edifícios quer noutros locais da empresa ou do estabelecimento a que o trabalhador tenha acesso no desempenho das suas funções."
+  },
+  "886138776": {
+   "fragment_id": "886137918",
+   "type": 11,
+   "heading": "Artigo 4.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regulamentação\n\nAs normas técnicas de execução do presente diploma são objecto de portaria do Ministro do Emprego e da Segurança Social."
+  },
+  "886138777": {
+   "fragment_id": "886137919",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma e da respectiva regulamentação, assim como a aplicação das correspondentes sanções, compete ao Instituto do Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades, conforme o disposto no artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138778": {
+   "fragment_id": "886137920",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contra-ordenação o funcionamento de locais de trabalho com desrespeito pelas regras relativas às prescrições mínimas de segurança e saúde nos locais de trabalho estabelecidas nos termos previstos no presente diploma e nas normas técnicas a que se refere o artigo 4.º\n\n2 - As contra-ordenações previstas no número anterior são puníveis com coima nos seguintes termos:\n\na) De 50000$00 a 100000$00, quando o número de trabalhadores expostos for inferior a 20;\n\nb) De 80000$00 a 150000$00, quando o número de trabalhadores expostos for de 21 a 50;\n\nc) De 100000$00 a 200000$00, quando o número de trabalhadores expostos for de 51 a 100;\n\nd) De 150000$00 a 250000$00, quando o número de trabalhadores expostos for superior a 100.\n\n2 - Metade do produto das coimas reverte para o Fundo de Garantia e Actualização de Pensões, destinando-se a outra metade à entidade que as aplica, em conformidade com o disposto no artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto."
+  },
+  "886138780": {
+   "fragment_id": "886137920",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação das normas técnicas referidas no artigo 4.º quando respeitem a:\n\na) Instalações eléctricas;\n\nb) Meios de detecção e combate de incêndios.\n\n2 - Constitui contra-ordenação grave a violação das demais normas técnicas referidas no artigo 4.º\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+  },
+  "886138779": {
+   "fragment_id": "886137921",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe Alves Monteiro - José Martins Nunes - José Albino da Silva Peneda.\n\nPromulgado em 3 de Setembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Setembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

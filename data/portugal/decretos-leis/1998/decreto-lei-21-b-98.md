@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:235348:por
+title: Decreto-Lei n.º 21-B/98
+short_title: null
+summary: Prorroga até 31 de Dezembro de 1998 o funcionamento em regime de instalação da Escola Superior de Tecnologia, Gestão,
+  Arte e Design das Caldas da Rainha
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 21-B/98
+official_date: null
+publication_date: '1998-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/1998, 1º Suplemento, Série I-A de 1998-02-03
+  number: '28'
+  series: I
+  supplement: 1º Suplemento
+  pages: 450-(2) a 450-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/02/028a01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/21-b/1998/02/03/p/dre/pt/html
+  oj: null
+  dre: '235348'
+  dre_path: /dr/detalhe/decreto-lei/21-b-1998-235348
+  internal: pt:dre:235348:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-1998-235348
+  metadata_url: https://data.dre.pt/eli/dec-lei/21-b/1998/02/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-1998-235348
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-11-23T00:00:00Z'
+integrity:
+  source_sha256: 1d82ad393602ba5f914b116e4dbb4e9fc590c4b1ecc0208ebc9000a285b2ebcb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-21-B-235348.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caldas da Rainha
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia Gestão ARTE e Design
+- Instituto Politécnico
+- Leiria
+relationships:
+- type: amended_by
+  target: pt:dre:642750:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/368/1996/08/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/368/1996/08/19/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 21-B/98
+
+de 3 de Fevereiro
+
+Pelo artigo 8.º do [Decreto-Lei n.º 304/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1994-571177), de 19 de Dezembro, foi criada nas Caldas da Rainha, como sucessora da até então existente Escola Superior de Arte e Design, a Escola Superior de Tecnologia, Gestão, Arte e Design (ESTGAD), a qual iniciou e foi mantendo o respectivo funcionamento a coberto do regime de instalação constante do [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), de 27 de Janeiro.
+
+Sucede, porém, que, estando quase integralmente decorrido o triénio fixado para a vigência do referido regime, a ESTGAD continua a não reunir as condições mínimas necessárias à transição para o regime normal de funcionamento. Tal revela-se, nomeadamente, na manifesta exiguidade do respectivo corpo docente, consubstanciada, quanto a professores de carreira, e não obstante os lugares inscritos no quadro aprovado pela [Portaria n.º 368/96](https://diariodarepublica.pt/dr/detalhe/portaria/368-1996-406698), de 19 de Agosto, na existência de apenas 2 professores-adjuntos e de 20 docentes, em situação de equiparação a assistente, nuns casos, e de requisição ou acumulação, noutros casos.
+
+Urge, pois, adoptar medidas que permitam obviar aos inconvenientes acarretados pelo condicionalismo que fica descrito.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Regime de instalação
+
+1 - É prorrogado até 31 de Dezembro de 1998 o funcionamento em regime de instalação da Escola Superior de Tecnologia, Gestão, Arte e Design das Caldas da Rainha, criada, no Instituto Politécnico de Leiria, pelo n.º 2 do artigo 8.º do [Decreto-Lei n.º 304/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1994-571177), de 19 de Dezembro.
+
+2 - Com a entrada em vigor do presente diploma cessa a comissão de serviço do director da ESTGAD, sem prejuízo de o titular cessante do cargo permanecer no exercício das respectivas funções até à nomeação do novo titular do mesmo cargo.
+
+###### Artigo 2.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação, produzindo, porém, o disposto no n.º 1 do artigo 1.º efeitos a partir de 24 de Dezembro de 1997.
+
+Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1998. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
+
+**Promulgado em 30 de Janeiro de 1998.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 2 de Fevereiro de 1998.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

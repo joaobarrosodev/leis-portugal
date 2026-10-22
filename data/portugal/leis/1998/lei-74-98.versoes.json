@@ -1,0 +1,689 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234316:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-34448175",
+ "dre_path": "/dr/detalhe/lei/74-1998-234316",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52618675",
+    "52618775",
+    "52618875",
+    "52618975",
+    "52619075",
+    "52619175",
+    "52619275",
+    "52619375",
+    "52619475",
+    "52619575",
+    "52619675",
+    "52619775",
+    "52619875",
+    "52619975",
+    "52620075",
+    "52620175",
+    "52620275",
+    "52620375",
+    "52620475"
+   ]
+  },
+  {
+   "date": "2005-01-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:623841:por",
+     "title": "Lei n.º 2/2005",
+     "published": "2005-01-24",
+     "dre_path": "/dr/detalhe/lei/2-2005-623841"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "52618675",
+    "52618775",
+    "52629475",
+    "52629675",
+    "52619075",
+    "52619175",
+    "52619275",
+    "52629775",
+    "52629875",
+    "52630075",
+    "52619675",
+    "52630275",
+    "52630375",
+    "52630475",
+    "52620075",
+    "52630575",
+    "52630775",
+    "52630875",
+    "52631075",
+    "52620675"
+   ]
+  },
+  {
+   "date": "2006-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:357350:por",
+     "title": "Lei n.º 26/2006",
+     "published": "2006-06-30",
+     "dre_path": "/dr/detalhe/lei/26-2006-357350"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "52618675",
+    "52632175",
+    "52632275",
+    "52632575",
+    "52619075",
+    "52632775",
+    "52632875",
+    "52629775",
+    "52632975",
+    "52630075",
+    "52619675",
+    "52630275",
+    "52630375",
+    "52633075",
+    "52633175",
+    "52630575",
+    "52630775",
+    "869770526",
+    "52631075",
+    "52620675"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640909:por",
+     "title": "Lei n.º 42/2007",
+     "published": "2007-08-24",
+     "dre_path": "/dr/detalhe/lei/42-2007-640909"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "52618675",
+    "52632175",
+    "52632275",
+    "52632575",
+    "52619075",
+    "52632775",
+    "52635375",
+    "52629775",
+    "52632975",
+    "52630075",
+    "52619675",
+    "52630275",
+    "52630375",
+    "52633075",
+    "52633175",
+    "52630575",
+    "52630775",
+    "869770526",
+    "52631075",
+    "52620675"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:623841:por",
+     "title": "Lei n.º 2/2005",
+     "published": "2005-01-24",
+     "dre_path": "/dr/detalhe/lei/2-2005-623841",
+     "date": "2009-01-29"
+    }
+   ]
+  },
+  {
+   "date": "2014-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345900:por",
+     "title": "Lei n.º 43/2014",
+     "published": "2014-07-11",
+     "dre_path": "/dr/detalhe/lei/43-2014-25345900"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A"
+   ],
+   "fragments": [
+    "52618675",
+    "52632175",
+    "52632275",
+    "52632575",
+    "52619075",
+    "52632775",
+    "52635375",
+    "52629775",
+    "52632975",
+    "52630075",
+    "52619675",
+    "52630275",
+    "56934503",
+    "56934504",
+    "56934505",
+    "56934506",
+    "56934507",
+    "56934508",
+    "56934509",
+    "56934510",
+    "56934511"
+   ]
+  }
+ ],
+ "fragments": {
+  "52618675": {
+   "fragment_id": "35067975",
+   "type": 15,
+   "heading": "Diploma — Publicação, identificação e formulário dos diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "52618775": {
+   "fragment_id": "36229575",
+   "type": 11,
+   "heading": "Artigo 1.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Publicação\n\n1 - A eficácia jurídica dos actos a que se refere a presente lei depende da publicação.\n\n2 - A data do diploma é a da sua publicação.\n\n3 - O Diário da República é distribuído no dia correspondente ao da sua data."
+  },
+  "52618875": {
+   "fragment_id": "36229675",
+   "type": 11,
+   "heading": "Artigo 2.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Vigência\n\n1 - Os actos legislativos e os outros actos de conteúdo genérico entram em vigor no dia neles fixado, não podendo, em caso algum, o início da vigência verificar-se no próprio dia da publicação.\n\n2 - Na falta de fixação do dia, os diplomas referidos no número anterior entram em vigor no 5.º dia após a publicação.\n\n3 - A entrada em vigor dos mesmos diplomas ocorrerá, nas Regiões Autónomas dos Açores e da Madeira, no 15.º dia após a publicação e, em Macau e no estrangeiro, no 30.º dia.\n\n4 - Os prazos referidos nos números anteriores contam-se a partir do dia imediato ao da publicação do diploma, ou da sua efectiva distribuição, se esta tiver sido posterior."
+  },
+  "52618975": {
+   "fragment_id": "36229775",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicação na 1.ª série do Diário da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicação na 1.ª série do Diário da República\n\n1 - A 1.ª série do Diário da República compreende a parte A e a parte B.\n\n2 - São objecto de publicação na parte A da 1.ª série do Diário da República:\n\na) As leis constitucionais;\n\nb) As convenções internacionais, os respectivos decretos presidenciais e avisos de ratificação, bem como os restantes avisos a elas respeitantes;\n\nc) As leis orgânicas, as leis, os decretos-leis e os decretos legislativos regionais;\n\nd) Os decretos do Presidente da República;\n\ne) As resoluções da Assembleia da República;\n\nf) Os decretos dos Ministros da República de nomeação e exoneração dos Presidentes e membros dos Governos Regionais dos Açores e da Madeira;\n\ng) Os regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Legislativas Regionais;\n\nh) As decisões e as declarações do Tribunal Constitucional que a lei mande publicar na 1.ª série do Diário da República;\n\ni) As decisões de uniformização de jurisprudência do Supremo Tribunal de Justiça e do Tribunal de Contas e as decisões do Supremo Tribunal Administrativo a que a lei confira força obrigatória geral;\n\nj) Os resultados dos referendos e das eleições para o Presidente da República, a Assembleia da República, as Assembleias Legislativas Regionais e o Parlamento Europeu, nos termos da respectiva legislação aplicável;\n\nl) A mensagem de renúncia do Presidente da República;\n\nm) As moções de rejeição do Programa do Governo, de confiança e de censura;\n\nn) Os pareceres do Conselho de Estado previstos nas alíneas a) a e) do artigo 145.º da Constituição e aqueles que o próprio Conselho delibere fazer publicar.\n\n3 - São objecto de publicação na parte B da 1.ª série do Diário da República:\n\na) Os demais decretos do Governo;\n\nb) As resoluções do Conselho de Ministros e as portarias que contenham disposições genéricas;\n\nc) As resoluções das Assembleias Legislativas Regionais e os decretos regulamentares regionais;\n\nd) Os despachos normativos dos membros do Governo;\n\ne) As decisões de outros tribunais não mencionados no número anterior às quais a lei confira força obrigatória geral;\n\nf) Os resultados das eleições para os órgãos das autarquias locais;\n\ng) Os orçamentos dos serviços do Estado que a lei mande publicar na 1.ª série e as declarações sobre transferências de verbas;\n\nh) As declarações relativas à renúncia ou à perda de mandato dos deputados à Assembleia da República e às Assembleias Legislativas Regionais dos Açores e da Madeira."
+  },
+  "52619075": {
+   "fragment_id": "36229875",
+   "type": 11,
+   "heading": "Artigo 4.º — Envio dos textos para publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Envio dos textos para publicação\n\nO texto dos diplomas é enviado para publicação no Diário da República, depois de cumpridos os requisitos constitucionais ou legais, por intermédio dos serviços competentes dos órgãos donde provenha."
+  },
+  "52619175": {
+   "fragment_id": "36229975",
+   "type": 11,
+   "heading": "Artigo 5.º — Rectificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rectificações\n\n1 - As rectificações são admissíveis exclusivamente para correcção de erros materiais provenientes de divergências entre o texto original e o texto impresso de qualquer diploma publicado na 1.ª série do Diário da República e são feitas mediante declaração do órgão que aprovou o texto original, publicada na mesma série e parte.\n\n2 - As declarações de rectificação devem ser publicadas até 60 dias após a publicação do texto rectificando.\n\n3 - A não observância do prazo previsto no número anterior determina a nulidade do acto de rectificação.\n\n4 - As declarações de rectificação reportam os efeitos à data da entrada em vigor do texto rectificado."
+  },
+  "52619275": {
+   "fragment_id": "36230075",
+   "type": 11,
+   "heading": "Artigo 6.º — Alterações e republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alterações e republicação\n\n1 - Os diplomas que alterem outros devem indicar o número de ordem da alteração introduzida e, caso tenha havido alterações anteriores, identificar aqueles diplomas que procederam a essas alterações, ainda que incidam sobre outras normas.\n\n2 - Quando a natureza ou a extensão da alteração o justificar, deve proceder-se à republicação integral do diploma, em anexo."
+  },
+  "52619375": {
+   "fragment_id": "36230175",
+   "type": 11,
+   "heading": "Artigo 7.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação\n\n1 - Todos os actos são identificados por um número e pela data da respectiva publicação no Diário da República.\n\n2 - Os actos normativos devem ter um título que traduza sinteticamente o seu objecto.\n\n3 - Os diplomas de cada uma das Regiões Autónomas têm numeração própria e são ainda identificados pelas letras A (Açores) e M (Madeira), a acrescentar à indicação do ano.\n\n4 - Os diplomas que tenham a mesma designação genérica devem ser identificados pela indicação da entidade emitente."
+  },
+  "52619475": {
+   "fragment_id": "36230275",
+   "type": 11,
+   "heading": "Artigo 8.º — Numeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Numeração\n\n1 - Há numeração distinta para cada uma das seguintes categorias de actos:\n\na) Leis constitucionais;\n\nb) Leis orgânicas;\n\nc) Leis;\n\nd) Decretos-leis;\n\ne) Decretos legislativos regionais;\n\nf) Decretos do Presidente da República;\n\ng) Resoluções da Assembleia da República;\n\nh) Resoluções do Conselho de Ministros;\n\ni) Resoluções das Assembleias Legislativas Regionais;\n\nj) Decisões de tribunais;\n\nl) Decretos;\n\nm) Decretos regulamentares;\n\nn) Decretos regulamentares regionais;\n\no) Decretos dos Ministros da República para as Regiões Autónomas;\n\np) Portarias;\n\nq) Despachos normativos;\n\nr) Pareceres;\n\ns) Avisos;\n\nt) Declarações.\n\n2 - As decisões de tribunais têm numeração distinta para cada um deles."
+  },
+  "52619575": {
+   "fragment_id": "36230375",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições gerais sobre formulário dos diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições gerais sobre formulário dos diplomas\n\n1 - No início de cada diploma indicam-se o órgão donde emana e a disposição da Constituição ou da lei ao abrigo da qual foi aprovado e é publicado.\n\n2 - Quando no procedimento tiverem participado, a título consultivo ou deliberativo, por força da Constituição ou da lei, outro ou outros órgãos além do órgão de aprovação final, ou tenha decorrido uma consulta aos cidadãos eleitores, faz-se referência expressa a tal facto.\n\n3 - As leis constitucionais e as leis orgânicas declaram expressamente a sua natureza, na fórmula do diploma correspondente.\n\n4 - As leis e os decretos-leis cuja razão de ser envolva a sua aplicação a todo o território nacional devem decretá-lo, incluindo, na parte final da fórmula, a expressão «para valer como lei geral da República».\n\n5 - Tratando-se de diploma de transposição de directiva comunitária, deve ser indicada expressamente a directiva a transpor.\n\n6 - Os regulamentos devem indicar expressamente as leis que visam regulamentar ou que definem a competência subjectiva e objectiva para a sua emissão.\n\n7 - Após o texto de cada diploma, deverão constar a data da sua aprovação e de outros actos complementares, constitucional ou legalmente exigidos, bem como a assinatura das entidades competentes, nos termos da Constituição ou da lei.\n\n8 - Sempre que o presente diploma se refere a ministros competentes, deve entender-se que são abrangidos aqueles cujos departamentos tenham, em razão da matéria, interferência na execução do acto."
+  },
+  "52619675": {
+   "fragment_id": "36230475",
+   "type": 11,
+   "heading": "Artigo 10.º — Decretos do Presidente da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decretos do Presidente da República\n\n1 - Os decretos do Presidente da República obedecem ao formulário seguinte:\n\n«O Presidente da República decreta, nos termos do artigo ... da Constituição, o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Tratando-se de decretos de ratificação de tratados internacionais, o texto é composto do seguinte modo:\n\n«É ratificado o ... (segue-se a identificação do tratado, com indicação da matéria a que respeita, do local e data da assinatura e do número e data da resolução da Assembleia da República que o aprovou para ratificação).»\n\n3 - Tratando-se de decretos de nomeação e exoneração dos membros do Governo, deve ser feita menção expressa à proposta do Primeiro-Ministro.\n\n4 - Após o texto de decreto, seguem-se, sucessivamente, a assinatura do Presidente da República, com a menção da respectiva data e do local onde foi feita, caso não tenha sido em Lisboa, bem como, se estiver abrangido pelo n.º 1 do artigo 140.º da Constituição, a data da referenda e a assinatura do Primeiro-Ministro."
+  },
+  "52619775": {
+   "fragment_id": "36230575",
+   "type": 11,
+   "heading": "Artigo 11.º — Diplomas da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Diplomas da Assembleia da República\n\n1 - As leis da Assembleia da República obedecem ao formulário seguinte:\n\n«A Assembleia da República decreta, nos termos da alínea ... do artigo 161.º da Constituição, [(se for caso disso) para valer como lei geral da República,] o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Tratando-se de lei constitucional ou orgânica, deve mencionar-se expressamente o termo correspondente, na parte final da fórmula.\n\n3 - Após o texto, seguem-se, sucessivamente, a data da aprovação, a assinatura do Presidente da Assembleia da República, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro.\n\n4 - As resoluções da Assembleia da República obedecem ao formulário seguinte:\n\n«A Assembleia da República resolve, nos termos da alínea ... do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, o seguinte:\n\n(Segue-se o texto.)»\n\n5 - Tratando-se de resoluções de aprovação de tratados ou acordos internacionais, o texto é composto do seguinte modo:\n\n«Aprovar (para ratificação, no caso dos tratados) o ... (segue-se a identificação do tratado ou do acordo internacional em forma simplificada, com indicação da matéria a que respeita, do local e data da assinatura, sendo o teor do respectivo instrumento publicado em anexo).»\n\n6 - Após o texto das resoluções seguem-se, sucessivamente, a data da aprovação e a assinatura do Presidente da Assembleia da República.\n\n7 - Tratando-se de uma resolução de aprovação de um acordo internacional em forma simplificada, à assinatura do Presidente da Assembleia da República seguem-se a ordem de publicação, a assinatura do Presidente da República, com a menção da respectiva data, a data da referenda e a assinatura do Primeiro-Ministro."
+  },
+  "52619875": {
+   "fragment_id": "36230675",
+   "type": 11,
+   "heading": "Artigo 12.º — Diplomas legislativos do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Diplomas legislativos do Governo\n\n1 - Os decretos-leis obedecem ao formulário seguinte:\n\na) Decretos-leis previstos na alínea a) do n.º 1 do artigo 198.º da Constituição:\n\n«Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta [(se for caso disso), para valer como lei geral da República,] o seguinte:\n\n(Segue-se o texto.)»\n\nb) Decretos-leis previstos na alínea b) do n.º 1 do artigo 198.º da Constituição:\n\n«No uso da autorização legislativa concedida pelo artigo ... da Lei n.º.../..., de ... de ..., e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta [(se for caso disso), para valer como lei geral da República,] o seguinte:\n\n(Segue-se o texto.)»\n\nc) Decretos-leis previstos na alínea c) do n.º 1 do artigo 198.º da Constituição:\n\n«No desenvolvimento do regime jurídico estabelecido pela Lei (ou Decreto-Lei) n.º.../..., de ... de ..., e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta [(se for caso disso), para valer como lei geral da República,] o seguinte:\n\n(Segue-se o texto.)»\n\nd) Decretos-leis previstos no n.º 2 do artigo 198.º da Constituição:\n\n«Nos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Após o texto seguem-se, sucessivamente, a data de aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro."
+  },
+  "52619975": {
+   "fragment_id": "36230775",
+   "type": 11,
+   "heading": "Artigo 13.º — Propostas de lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Propostas de lei\n\n1 - As propostas de lei do Governo devem conter uma exposição de motivos e obedecem ao formulário seguinte:\n\n«Nos termos da alínea d) do artigo 197.º da Constituição, o Governo apresenta à Assembleia da República a seguinte proposta de lei [(se for caso disso), para ser aprovada e valer como lei geral da República,] (com pedido de prioridade e urgência, se for o caso):\n\n(Segue-se o texto.)»\n\n2 - Tratando-se de uma proposta de lei de autorização legislativa, o correspondente pedido especifica, se for o caso, que o decreto-lei a autorizar se destina a valer como lei geral da República.\n\n3 - Após o texto seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros e a assinatura do Primeiro-Ministro e dos ministros competentes."
+  },
+  "52620075": {
+   "fragment_id": "36230875",
+   "type": 11,
+   "heading": "Artigo 14.º — Outros diplomas do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Outros diplomas do Governo\n\n1 - Os outros diplomas do Governo obedecem ao formulário seguinte:\n\na) Decretos regulamentares:\n\n«Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)»\n\nb) Decretos previstos na alínea c) do n.º 1 do artigo 197.º da Constituição:\n\n«Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o ... (segue-se a identificação do acordo internacional em forma simplificada, com indicação da matéria a que respeita, do local e da data da assinatura, sendo o teor do respectivo instrumento publicado em anexo).»\n\nc) Decretos previstos na alínea c) do artigo 199.º da Constituição:\n\n«Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)»\n\nd) Resoluções do Conselho de Ministros:\n\n«Nos termos da alínea ... do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n(Segue-se o texto.)»\n\ne) Portarias:\n\n«Manda o Governo, pelo ... (indicar o membro ou membros competentes), o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Após o texto dos decretos mencionados na alínea a) do número anterior seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro.\n\n3 - Após o texto dos decretos mencionados nas alíneas b) e c) do n.º 1 seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a assinatura do Presidente da República, com a menção da respectiva data, a data da referenda e a assinatura do Primeiro-Ministro.\n\n4 - Após o texto das resoluções mencionadas na alínea d) do n.º 1 seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros e a assinatura do Primeiro-Ministro.\n\n5 - Após o texto dos diplomas mencionados na alínea e) do n.º 1 segue-se a assinatura do membro ou membros do Governo que os emitem, com a indicação da respectiva data.\n\n6 - Sendo vários os membros do Governo a assinar os diplomas aludidos no número anterior, a data que releva é a da última assinatura."
+  },
+  "52620175": {
+   "fragment_id": "36230975",
+   "type": 11,
+   "heading": "Artigo 15.º — Decretos de nomeação e exoneração dos membros dos Governos Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decretos de nomeação e exoneração dos membros dos Governos Regionais\n\n1 - Os decretos de nomeação e exoneração dos Presidentes dos Governos Regionais obedecem ao seguinte formulário:\n\n«Ao abrigo do n.º 3 do artigo 231.º da Constituição, nomeio (ou exonero):\n\n(Segue-se o texto.)\n\nAssinado em ...\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma ..., (assinatura).»\n\n2 - Os decretos de nomeação e exoneração dos membros dos Governos Regionais obedecem ao seguinte formulário:\n\n«Ao abrigo do n.º 4 do artigo 231.º da Constituição, nomeio (ou exonero), sob proposta do Presidente do Governo Regional:\n\n(Segue-se o texto.)\n\nAssinado em ...\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma ..., (assinatura).»"
+  },
+  "52620275": {
+   "fragment_id": "36231075",
+   "type": 11,
+   "heading": "Artigo 16.º — Diplomas dos órgãos de governo próprio das Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Diplomas dos órgãos de governo próprio das Regiões Autónomas\n\n1 - No início de cada diploma das Assembleias Legislativas Regionais ou dos Governos Regionais indica-se, para além do órgão donde emana e da disposição constitucional ao abrigo da qual é aprovado, o correspondente preceito do respectivo Estatuto Político-Administrativo e, se for caso disso, o acto legislativo a regulamentar.\n\n2 - Os decretos legislativos regionais que procedam a adaptações de normas de leis gerais da República devem indicar expressamente o diploma legal e os preceitos objecto de adaptação.\n\n3 - Os decretos legislativos regionais aprovados ao abrigo de uma autorização legislativa ou que desenvolvam leis de bases da Assembleia da República devem invocar expressamente as respectivas leis de autorização ou leis de bases.\n\n4 - Nos decretos legislativos regionais e nos decretos regulamentares regionais da competência das Assembleias Legislativas Regionais, após o texto seguem-se, sucessivamente, a data da aprovação, a assinatura do seu Presidente, a data da assinatura pelo Ministro da República, a ordem de publicação e a assinatura deste.\n\n5 - Nos decretos regulamentares regionais da competência dos Governos Regionais, após o texto seguem-se, sucessivamente, a menção da aprovação pelo Governo Regional e da respectiva data, a assinatura do seu Presidente, a data da assinatura pelo Ministro da República, a ordem de publicação e a assinatura deste."
+  },
+  "52620375": {
+   "fragment_id": "36231175",
+   "type": 11,
+   "heading": "Artigo 17.º — Macau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Macau\n\n1 - Os actos emanados dos órgãos de soberania da República que hajam de ter aplicação em Macau, de acordo com a Constituição e o estatuto do território, contêm a menção de que devem ser publicados no Boletim Oficial e aí serão obrigatoriamente inseridos, mantendo, porém, a data da publicação no Diário da República.\n\n2 - Tratando-se de actos destinados a produzir efeitos apenas em Macau, consideram-se em vigor nesse território no 5.º dia posterior à publicação no Boletim Oficial de Macau, ainda que não tenham decorrido os 30 dias previstos no n.º 3 do artigo 2.º"
+  },
+  "52620475": {
+   "fragment_id": "36231275",
+   "type": 11,
+   "heading": "Artigo 18.º — Registo da distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Registo da distribuição\n\n1 - A versão electrónica do Diário da República inclui um registo de acesso livre e gratuito, do qual constam as datas da sua efectiva distribuição.\n\n2 - O registo faz prova para todos os efeitos legais e deve abranger as edições do Diário da República desde 25 de Abril de 1974."
+  },
+  "52629475": {
+   "fragment_id": "36229675",
+   "type": 11,
+   "heading": "Artigo 2.º — Vigência",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 2.º — Vigência\n\n1 - Os actos legislativos e os outros actos de conteúdo genérico entram em vigor no dia neles fixado, não podendo, em caso algum, o início da vigência verificar-se no próprio dia da publicação.\n\n2 - Na falta de fixação do dia, os diplomas referidos no número anterior entram em vigor no 5.º dia após a publicação.\n\n3 - A entrada em vigor dos mesmos diplomas ocorrerá, nas Regiões Autónomas dos Açores e da Madeira, no 15.º dia após a publicação e, no estrangeiro, no 30.º dia.\n\n4 - Os prazos referidos nos números anteriores contam-se a partir do dia imediato ao da publicação do diploma, ou da sua efectiva distribuição, se esta tiver sido posterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52629675": {
+   "fragment_id": "36229775",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicação na 1.ª série do Diário da República",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 3.º — Publicação na 1.ª série do Diário da República\n\n1 - A 1.ª série do Diário da República compreende a parte A e a parte B.\n\n2 - São objecto de publicação na parte A da 1.ª série do Diário da República:\n\na) As leis constitucionais;\n\nb) As convenções internacionais, os respectivos decretos presidenciais e avisos de ratificação, bem como os restantes avisos a elas respeitantes;\n\nc) As leis orgânicas, as leis, os decretos-leis e os decretos legislativos regionais;\n\nd) Os decretos do Presidente da República;\n\ne) As resoluções da Assembleia da República;\n\nf) Os decretos dos Representantes da República de nomeação e exoneração dos Presidentes e membros dos Governos Regionais dos Açores e da Madeira;\n\ng) Os regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Legislativas das Regiões Autónomas;\n\nh) As decisões e as declarações do Tribunal Constitucional que a lei mande publicar na 1.ª série do Diário da República;\n\ni) As decisões de uniformização de jurisprudência do Supremo Tribunal de Justiça e do Tribunal de Contas e as decisões do Supremo Tribunal Administrativo a que a lei confira força obrigatória geral;\n\nj) Os resultados dos referendos e das eleições para o Presidente da República, a Assembleia da República, as Assembleias Legislativas das Regiões Autónomas e o Parlamento Europeu, nos termos da respectiva legislação aplicável;\n\nl) A mensagem de renúncia do Presidente da República;\n\nm) As moções de rejeição do Programa do Governo, de confiança e de censura;\n\nn) Os pareceres do Conselho de Estado previstos nas alíneas a) a e) do artigo 145.º da Constituição e aqueles que o próprio Conselho delibere fazer publicar.\n\n3 - São objecto de publicação na parte B da 1.ª série do Diário da República:\n\na) Os demais decretos do Governo;\n\nb) As resoluções do Conselho de Ministros e as portarias que contenham disposições genéricas;\n\nc) As resoluções das Assembleias Legislativas das Regiões Autónomas e os decretos regulamentares regionais;\n\nd) Os despachos normativos dos membros do Governo;\n\ne) As decisões de outros tribunais não mencionados no número anterior às quais a lei confira força obrigatória geral;\n\nf) Os resultados das eleições para os órgãos das autarquias locais;\n\ng) Os orçamentos dos serviços do Estado que a lei mande publicar na 1.ª série e as declarações sobre transferências de verbas;\n\nh) As declarações relativas à renúncia ou à perda de mandato dos deputados à Assembleia da República e às Assembleias Legislativas das Regiões Autónomas.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52629775": {
+   "fragment_id": "36230175",
+   "type": 11,
+   "heading": "Artigo 7.º — Identificação",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 7.º — Identificação\n\n1 - Todos os actos são identificados por um número e pela data da respectiva publicação no Diário da República.\n\n2 - Os actos normativos devem ter um título que traduza sinteticamente o seu objecto.\n\n3 - Os diplomas de cada uma das Regiões Autónomas têm numeração própria e são ainda identificados pelas letras A (Açores) e M (Madeira), a acrescentar à indicação do ano.\n\n4 - Os diplomas que tenham a mesma designação genérica devem ser identificados pela indicação da entidade emitente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52629875": {
+   "fragment_id": "36230275",
+   "type": 11,
+   "heading": "Artigo 8.º — Numeração",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 8.º — Numeração\n\n1 - Há numeração distinta para cada uma das seguintes categorias de actos:\n\na) Leis constitucionais;\n\nb) Leis orgânicas;\n\nc) Leis;\n\nd) Decretos-leis;\n\ne) Decretos legislativos regionais;\n\nf) Decretos do Presidente da República;\n\ng) Resoluções da Assembleia da República;\n\nh) Resoluções do Conselho de Ministros;\n\ni) Resoluções das Assembleias Legislativas das Regiões Autónomas;\n\nj) Decisões de tribunais;\n\nl) Decretos;\n\nm) Decretos regulamentares;\n\nn) Decretos regulamentares regionais;\n\no) Decretos dos Representantes da República para as Regiões Autónomas;\n\np) Portarias;\n\nq) Despachos normativos;\n\nr) Pareceres;\n\ns) Avisos;\n\nt) Declarações.\n\n2 - As decisões de tribunais têm numeração distinta para cada um deles.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52630075": {
+   "fragment_id": "36230375",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições gerais sobre formulário dos diplomas",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 9.º — Disposições gerais sobre formulário dos diplomas\n\n1 - No início de cada diploma indicam-se o órgão donde emana e a disposição da Constituição ou da lei ao abrigo da qual foi aprovado e é publicado.\n\n2 - Quando no procedimento tiverem participado, a título consultivo ou deliberativo, por força da Constituição ou da lei, outro ou outros órgãos além do órgão de aprovação final, ou tenha decorrido uma consulta aos cidadãos eleitores, faz-se referência expressa a tal facto.\n\n3 - As leis constitucionais e as leis orgânicas declaram expressamente a sua natureza, na fórmula do diploma correspondente.\n\n4 - Tratando-se de diploma de transposição de directiva comunitária, deve ser indicada expressamente a directiva a transpor.\n\n5 - Os regulamentos devem indicar expressamente as leis que visam regulamentar ou que definem a competência subjectiva e objectiva para a sua emissão.\n\n6 - Após o texto de cada diploma, deverão constar a data da sua aprovação e de outros actos complementares, constitucional ou legalmente exigidos, bem como a assinatura das entidades competentes, nos termos da Constituição ou da lei.\n\n7 - Sempre que o presente diploma se refere a ministros competentes, deve entender-se que são abrangidos aqueles cujos departamentos tenham, em razão da matéria, interferência na execução do acto.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52630275": {
+   "fragment_id": "36230575",
+   "type": 11,
+   "heading": "Artigo 11.º — Diplomas da Assembleia da República",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 11.º — Diplomas da Assembleia da República\n\n1 - As leis da Assembleia da República obedecem ao formulário seguinte:\n\n'A Assembleia da República decreta, nos termos da alínea ... do artigo 161.º da Constituição, o seguinte:\n\n(Segue-se o texto.)'\n\n2 - Tratando-se de lei constitucional ou orgânica, deve mencionar-se expressamente o termo correspondente, na parte final da fórmula.\n\n3 - Após o texto, seguem-se, sucessivamente, a data da aprovação, a assinatura do Presidente da Assembleia da República, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro.\n\n4 - As resoluções da Assembleia da República obedecem ao formulário seguinte:\n\n«A Assembleia da República resolve, nos termos da alínea ... do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, o seguinte:\n\n(Segue-se o texto.)»\n\n5 - Tratando-se de resoluções de aprovação de tratados ou acordos internacionais, o texto é composto do seguinte modo:\n\n«Aprovar (para ratificação, no caso dos tratados) o ... (segue-se a identificação do tratado ou do acordo internacional em forma simplificada, com indicação da matéria a que respeita, do local e data da assinatura, sendo o teor do respectivo instrumento publicado em anexo).»\n\n6 - Após o texto das resoluções seguem-se, sucessivamente, a data da aprovação e a assinatura do Presidente da Assembleia da República.\n\n7 - Tratando-se de uma resolução de aprovação de um acordo internacional em forma simplificada, à assinatura do Presidente da Assembleia da República seguem-se a ordem de publicação, a assinatura do Presidente da República, com a menção da respectiva data, a data da referenda e a assinatura do Primeiro-Ministro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52630375": {
+   "fragment_id": "36230675",
+   "type": 11,
+   "heading": "Artigo 12.º — Diplomas legislativos do Governo",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 12.º — Diplomas legislativos do Governo\n\n1 - Os decretos-leis obedecem ao formulário seguinte:\n\na) Decretos-leis previstos na alínea a) do n.º 1 do artigo 198.º da Constituição:\n\n'Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nb) Decretos-leis previstos na alínea b) do n.º 1 do artigo 198.º da Constituição:\n\n'No uso da autorização legislativa concedida pelo artigo ... da Lei n.º .../..., de ... de ..., e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nc) Decretos-leis previstos na alínea c) do n.º 1 do artigo 198.º da Constituição:\n\n'No desenvolvimento do regime jurídico estabelecido pela Lei (ou Decreto-Lei) n.º .../..., de ... de ..., e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nd) Decretos-leis previstos no n.º 2 do artigo 198.º da Constituição:\n\n«Nos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Após o texto seguem-se, sucessivamente, a data de aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52630475": {
+   "fragment_id": "36230775",
+   "type": 11,
+   "heading": "Artigo 13.º — Propostas de lei",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 13.º — Propostas de lei\n\n1 - As propostas de lei do Governo devem conter uma exposição de motivos e obedecem ao formulário seguinte:\n\n'Nos termos da alínea d) do artigo 197.º da Constituição, o Governo apresenta à Assembleia da República a seguinte proposta de lei (com pedido de prioridade e urgência, se for o caso):\n\n(Segue-se o texto.)'\n\n2 - Após o texto seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros e a assinatura do Primeiro-Ministro e dos ministros competentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52630575": {
+   "fragment_id": "36230975",
+   "type": 11,
+   "heading": "Artigo 15.º — Decretos de nomeação e exoneração dos membros dos Governos Regionais",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 15.º — Decretos de nomeação e exoneração dos membros dos Governos Regionais\n\n1 - Os decretos de nomeação e exoneração dos Presidentes dos Governos Regionais obedecem ao seguinte formulário:\n\n'Ao abrigo do n.º 3 do artigo 231.º da Constituição, nomeio (ou exonero):\n\n(Segue-se o texto.)\n\nAssinado em ...\n\nPublique-se.\n\nO Representante da República para a Região Autónoma ..., (assinatura).'\n\n2 - Os decretos de nomeação e exoneração dos membros dos Governos Regionais obedecem ao seguinte formulário:\n\n'Ao abrigo do n.º 4 do artigo 231.º da Constituição, nomeio (ou exonero), sob proposta do Presidente do Governo Regional:\n\n(Segue-se o texto.)\n\nAssinado em ...\n\nPublique-se.\n\nO Representante da República para a Região Autónoma ..., (assinatura).'\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52630775": {
+   "fragment_id": "36231075",
+   "type": 11,
+   "heading": "Artigo 16.º — Diplomas dos órgãos de governo próprio das Regiões Autónomas",
+   "in_force_from": "2005-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 16.º — Diplomas dos órgãos de governo próprio das Regiões Autónomas\n\n1 - No início de cada diploma das Assembleias Legislativas das Regiões Autónomas ou dos Governos Regionais indica-se, para além do órgão donde emana e da disposição constitucional ao abrigo da qual é aprovado, o correspondente preceito do respectivo estatuto político-administrativo e, se for caso disso, o acto legislativo a regulamentar.\n\n2 - Os decretos legislativos regionais aprovados ao abrigo de uma autorização legislativa, ou que desenvolvam para o âmbito regional princípios ou bases gerais de regimes jurídicos contidos em leis que a eles se circunscrevam, devem invocar expressamente as respectivas leis de autorização ou as leis cujos princípios ou bases desenvolvam.\n\n3 - Nos decretos legislativos regionais e nos decretos regulamentares regionais da competência das Assembleias Legislativas das Regiões Autónomas, após o texto seguem-se, sucessivamente, a data da aprovação, a assinatura do seu Presidente, a data da assinatura pelo Representante da República, a ordem de publicação e a assinatura deste.\n\n4 - Nos decretos regulamentares regionais da competência dos Governos Regionais, após o texto seguem-se, sucessivamente, a menção da aprovação pelo Governo Regional e da respectiva data, a assinatura do seu Presidente, a data da assinatura pelo Representante da República, a ordem de publicação e a assinatura deste.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52630875": {
+   "fragment_id": "36231175",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo da distribuição",
+   "in_force_from": "2009-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29, produz efeitos a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 17.º — Registo da distribuição\n\n1 - A versão electrónica do Diário da República inclui um registo de acesso livre e gratuito, do qual constam as datas da sua efectiva distribuição.\n\n2 - O registo faz prova para todos os efeitos legais e deve abranger as edições do Diário da República desde 25 de Abril de 1974.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29, produz efeitos a partir de 2005-01-29"
+  },
+  "52631075": {
+   "fragment_id": "36231275",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": "2009-01-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29"
+   ],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogados os seguintes diplomas:\n\na) Lei n.º 6/83, de 29 de Julho;\n\nb) Decreto-Lei n.º 337/87, de 21 de Outubro;\n\nc) Decreto-Lei n.º 113/88, de 8 de Abril;\n\nd) Decreto-Lei n.º 1/91, de 2 de Janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29"
+  },
+  "52620675": {
+   "fragment_id": "36231475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Outubro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 23 de Outubro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 28 de Outubro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "52632175": {
+   "fragment_id": "36229575",
+   "type": 11,
+   "heading": "Artigo 1.º — Publicação e registo da distribuição",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Publicação e registo da distribuição\n\n1 - A eficácia jurídica dos actos a que se refere a presente lei depende da sua publicação no Diário da República.\n\n2 - A data do diploma é a da sua publicação, entendendo-se como tal a data do dia em que o Diário da República se torna disponível no sítio da Internet gerido pela Imprensa Nacional-Casa da Moeda, S. A.\n\n3 - Com respeito pelo disposto no número anterior, a edição electrónica do Diário da República inclui um registo das datas da sua efectiva disponibilização no sítio da Internet referido no mesmo número.\n\n4 - O registo faz prova para todos os efeitos legais e abrange as edições do Diário da República desde 25 de Abril de 1974.\n\n5 - A edição electrónica do Diário da República faz fé plena e a publicação dos actos através dela realizada vale para todos os efeitos legais, devendo ser utilizado mecanismo que assinale, quando apropriado, a respectiva data e hora de colocação em leitura pública.\n\n6 - Sem prejuízo do disposto no número anterior, os exemplares impressos do Diário da República podem ser objecto de autenticação da sua conformidade com a edição oficial electrónica, nos termos legais aplicáveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+  },
+  "52632275": {
+   "fragment_id": "36229675",
+   "type": 11,
+   "heading": "Artigo 2.º — Vigência",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 2.º — Vigência\n\n1 - Os actos legislativos e os outros actos de conteúdo genérico entram em vigor no dia neles fixado, não podendo, em caso algum, o início da vigência verificar-se no próprio dia da publicação.\n\n2 - Na falta de fixação do dia, os diplomas referidos no número anterior entram em vigor, em todo o território nacional e no estrangeiro, no 5.º dia após a publicação.\n\n3 - (Revogado).\n\n4 - O prazo referido no n.º 2 conta-se a partir do dia imediato ao da sua disponibilização no sítio da Internet gerido pela Imprensa Nacional-Casa da Moeda, S. A.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52632575": {
+   "fragment_id": "36229775",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicação no Diário da República",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 3.º — Publicação no Diário da República\n\n1 - O Diário da República compreende a 1.ª e a 2.ª séries.\n\n2 - São objecto de publicação na 1.ª série do Diário da República:\n\na) As leis constitucionais;\n\nb) As convenções internacionais, os respectivos decretos presidenciais, os avisos de depósito de instrumento de vinculação, designadamente os de ratificação, e demais avisos a elas respeitantes;\n\nc) As leis orgânicas, as leis, os decretos-leis e os decretos legislativos regionais;\n\nd) Os decretos do Presidente da República;\n\ne) As resoluções da Assembleia da República;\n\nf) Os decretos dos Representantes da República de nomeação e exoneração dos Presidentes e membros dos Governos Regionais dos Açores e da Madeira;\n\ng) Os regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Legislativas das Regiões Autónomas;\n\nh) As decisões e as declarações do Tribunal Constitucional que a lei mande publicar na 1.ª série do Diário da República;\n\ni) As decisões de uniformização de jurisprudência do Supremo Tribunal de Justiça e do Tribunal de Contas e as decisões do Supremo Tribunal Administrativo a que a lei confira força obrigatória geral;\n\nj) Os resultados dos referendos e das eleições para o Presidente da República, a Assembleia da República, as Assembleias Legislativas das Regiões Autónomas e o Parlamento Europeu, nos termos da respectiva legislação aplicável;\n\nl) A mensagem de renúncia do Presidente da República;\n\nm) As moções de rejeição do Programa do Governo, de confiança e de censura;\n\nn) Os pareceres do Conselho de Estado previstos nas alíneas a) a e) do artigo 145.º da Constituição e aqueles que o próprio Conselho delibere fazer publicar.\n\no) Os demais decretos do Governo;\n\np) As resoluções do Conselho de Ministros e as portarias que contenham disposições genéricas;\n\nq) As resoluções das Assembleias Legislativas das Regiões Autónomas e os decretos regulamentares regionais;\n\nr) As decisões de outros tribunais não mencionados nas alíneas anteriores às quais a lei confira força obrigatória geral;\n\ns) As declarações relativas à renúncia ou à perda de mandato dos deputados à Assembleia da República e às Assembleias Legislativas das Regiões Autónomas.\n\n3 - Sem prejuízo dos demais actos sujeitos a dever de publicação oficial na 2.ª série, são nela publicados:\n\na) Os despachos normativos dos membros do Governo;\n\nb) Os resultados das eleições para os órgãos das autarquias locais;\n\nc) Os orçamentos dos serviços do Estado cuja publicação no Diário da República seja exigida por lei e as declarações sobre transferências de verbas.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52632775": {
+   "fragment_id": "36229975",
+   "type": 11,
+   "heading": "Artigo 5.º — Rectificações",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Rectificações\n\n1 - As rectificações são admissíveis exclusivamente para correcção de lapsos gramaticais, ortográficos, de cálculo ou de natureza análoga ou para correcção de erros materiais provenientes de divergências entre o texto original e o texto de qualquer diploma publicado na 1.ª série do Diário da República e são feitas mediante declaração do órgão que aprovou o texto original, publicada na mesma série.\n\n2 - As declarações de rectificação devem ser publicadas até 60 dias após a publicação do texto rectificando.\n\n3 - A não observância do prazo previsto no número anterior determina a nulidade do acto de rectificação.\n\n4 - As declarações de rectificação reportam os efeitos à data da entrada em vigor do texto rectificado.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+  },
+  "52632875": {
+   "fragment_id": "36230075",
+   "type": 11,
+   "heading": "Artigo 6.º — Alterações e republicação",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alterações e republicação\n\n1 - Os diplomas que alterem outros devem indicar o número de ordem da alteração introduzida e, caso tenha havido alterações anteriores, identificar aqueles diplomas que procederam a essas alterações, ainda que incidam sobre outras normas.\n\n2 - Sempre que sejam introduzidas alterações, independentemente da sua natureza ou extensão, à Constituição, aos estatutos político-administrativos das Regiões Autónomas, a leis orgânicas, a leis de bases, a leis quadro e à lei relativa à publicação, identificação e formulário dos diplomas, deve proceder-se à republicação integral dos correspondentes diplomas legislativos, em anexo às referidas alterações.\n\n3 - Deve ainda proceder-se à republicação integral do diploma em anexo sempre que:\n\na) Se somem alterações que afectem substancialmente o preceituado de um acto legislativo em vigor, atenta a sua versão originária ou a última versão republicada;\n\nb) Se registem alterações que modifiquem substancialmente o pensamento legislativo das leis em vigor;\n\nc) O legislador assim o determinar, atendendo à natureza do acto.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+  },
+  "52632975": {
+   "fragment_id": "36230275",
+   "type": 11,
+   "heading": "Artigo 8.º — Numeração e apresentação",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 8.º — Numeração e apresentação\n\n1 - Há numeração distinta para cada uma das seguintes categorias de actos:\n\na) Leis constitucionais;\n\nb) Leis orgânicas;\n\nc) Leis;\n\nd) Decretos-leis;\n\ne) Decretos legislativos regionais;\n\nf) Decretos do Presidente da República;\n\ng) Resoluções da Assembleia da República;\n\nh) Resoluções do Conselho de Ministros;\n\ni) Resoluções das Assembleias Legislativas das Regiões Autónomas;\n\nj) Decisões de tribunais;\n\nl) Decretos;\n\nm) Decretos regulamentares;\n\nn) Decretos regulamentares regionais;\n\no) Decretos dos Representantes da República para as Regiões Autónomas;\n\np) Portarias;\n\nq) (Revogada);\n\nr) Pareceres;\n\ns) Avisos;\n\nt) Declarações.\n\n2 - As decisões de tribunais têm numeração distinta para cada um deles.\n\n3 - Os actos referidos no n.º 1 são editados na 1.ª série do Diário da República segundo a ordenação das respectivas entidades emitentes.\n\n4 - Para efeitos do número anterior, é seguida a sequência constitucional de órgãos e, no caso dos actos do Governo, a ordenação resultante da respectiva lei orgânica.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52633075": {
+   "fragment_id": "36230775",
+   "type": 11,
+   "heading": "Artigo 13.º — Propostas de lei",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 13.º — Propostas de lei\n\n1 - As propostas de lei do Governo devem conter uma exposição de motivos e obedecem ao formulário seguinte:\n\n'Nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, o Governo apresenta à Assembleia da República a seguinte proposta de lei (com pedido de prioridade e urgência, se for o caso):\n\n(Segue-se o texto.)'\n\n2 - Após o texto seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros e a assinatura do Primeiro-Ministro e dos ministros competentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "52633175": {
+   "fragment_id": "36230875",
+   "type": 11,
+   "heading": "Artigo 14.º — Outros diplomas do Governo",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Outros diplomas do Governo\n\n1 - Os outros diplomas do Governo obedecem ao formulário seguinte:\n\na) Decretos regulamentares:\n\n'Nos termos da alínea c) do artigo 199.º da Constituição e ... (segue-se a identificação do acto legislativo a regulamentar), o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\n'Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nb) Decretos previstos na alínea c) do n.º 1 do artigo 197.º da Constituição:\n\n«Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o ... (segue-se a identificação do acordo internacional em forma simplificada, com indicação da matéria a que respeita, do local e da data da assinatura, sendo o teor do respectivo instrumento publicado em anexo).»\n\nc) Decretos:\n\n'Nos termos do ... (segue-se a identificação do acto e da respectiva norma que estabelece a exigência de decreto) e da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\n'Nos termos do ... (segue-se a identificação do acto e da respectiva norma que estabelece a exigência de decreto) e da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\n'Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nd) Resoluções do Conselho de Ministros:\n\n'Nos termos da alínea ... do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n(Segue-se o texto.)'\n\n'Nos termos do ... (segue-se a identificação do acto e da respectiva norma que estabelece a exigência de resolução) e da alínea ... do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n(Segue-se o texto.)'\n\ne) Portarias:\n\n«Manda o Governo, pelo ... (indicar o membro ou membros competentes), o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Após o texto dos decretos mencionados na alínea a) do número anterior seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro.\n\n3 - Após o texto dos decretos mencionados nas alíneas b) e c) do n.º 1 seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a assinatura do Presidente da República, com a menção da respectiva data, a data da referenda e a assinatura do Primeiro-Ministro.\n\n4 - Após o texto das resoluções mencionadas na alínea d) do n.º 1 seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros e a assinatura do Primeiro-Ministro.\n\n5 - Após o texto dos diplomas mencionados na alínea e) do n.º 1 segue-se a assinatura do membro ou membros do Governo que os emitem, com a indicação da respectiva data.\n\n6 - Sendo vários os membros do Governo a assinar os diplomas aludidos no número anterior, a data que releva é a da última assinatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+  },
+  "869770526": {
+   "fragment_id": "36231175",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo da distribuição",
+   "in_force_from": "2006-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29, produz efeitos a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 17.º — Registo da distribuição\n\n1 - A versão electrónica do Diário da República inclui um registo de acesso livre e gratuito, do qual constam as datas da sua efectiva distribuição.\n\n2 - O registo faz prova para todos os efeitos legais e deve abranger as edições do Diário da República desde 25 de Abril de 1974.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29, produz efeitos a partir de 2005-01-29"
+  },
+  "52635375": {
+   "fragment_id": "36230075",
+   "type": 11,
+   "heading": "Artigo 6.º — Alterações e republicação",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 42/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/lei/42-2007-640909), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Alterações e republicação\n\n1 - Os diplomas que alterem outros devem indicar o número de ordem da alteração introduzida e, caso tenha havido alterações anteriores, identificar aqueles diplomas que procederam a essas alterações, ainda que incidam sobre outras normas.\n\n2 - Sempre que sejam introduzidas alterações, independentemente da sua natureza ou extensão, à Constituição, aos estatutos político-administrativos das Regiões Autónomas, a leis orgânicas, a leis de bases, a leis quadro e à lei relativa à publicação, identificação e formulário dos diplomas, deve proceder-se à republicação integral dos correspondentes diplomas legislativos, em anexo às referidas alterações.\n\n3 - Deve ainda proceder-se à republicação integral dos diplomas que revistam forma de lei, em anexo, sempre que:\n\na) Existam mais de três alterações ao acto legislativo em vigor, salvo se se tratar de alterações a Códigos;\n\nb) Se somem alterações que abranjam mais de 20 % do articulado do acto legislativo em vigor, atenta a sua versão originária ou a última versão republicada.\n\n4 - Deve também proceder-se à republicação integral dos diplomas, em anexo, sempre que:\n\na) Se registem alterações que modifiquem substancialmente o pensamento legislativo das leis em vigor;\n\nb) O legislador assim o determinar, atendendo à natureza do acto.\n\n5 - As alterações legislativas constantes da lei do Orçamento do Estado, independentemente da sua natureza ou extensão, não são objecto de republicação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 42/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24](https://diariodarepublica.pt/dr/detalhe/lei/42-2007-640909), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+  },
+  "56934503": {
+   "fragment_id": "56934602",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Leis consolidantes",
+   "in_force_from": "2014-07-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 43/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/lei/43-2014-25345900), em vigor a partir de 2014-07-12"
+   ],
+   "markdown": "###### Artigo 11.º-A — Leis consolidantes\n\n1 - As leis consolidantes reúnem num único ato legislativo normas relativas a determinada área do ordenamento jurídico regulada por legislação diversa.\n\n2 - As leis consolidantes não afetam o conteúdo material da legislação consolidada, salvo quando, nomeadamente, haja necessidade de:\n\na) Atualizar e uniformizar linguagem normativa e conceitos legais;\n\nb) Uniformizar realidade fática idêntica.\n\n3 - As leis consolidantes:\n\na) Podem conter organização sistemática e numeração distintas da legislação consolidada;\n\nb) Mantêm as normas revogatórias constantes das leis consolidadas e indicam ainda as normas revogadas por efeito da lei consolidante;\n\nc) Salvaguardam a regulamentação aprovada ao abrigo da legislação consolidada revogada, salvo disposição expressa em contrário.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 43/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/lei/43-2014-25345900), em vigor a partir de 2014-07-12"
+  },
+  "56934504": {
+   "fragment_id": "36230675",
+   "type": 11,
+   "heading": "Artigo 12.º — Diplomas legislativos do Governo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 12.º — Diplomas legislativos do Governo\n\n1 - Os decretos-leis obedecem ao formulário seguinte:\n\na) Decretos-leis previstos na alínea a) do n.º 1 do artigo 198.º da Constituição:\n\n'Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nb) Decretos-leis previstos na alínea b) do n.º 1 do artigo 198.º da Constituição:\n\n'No uso da autorização legislativa concedida pelo artigo ... da Lei n.º .../..., de ... de ..., e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nc) Decretos-leis previstos na alínea c) do n.º 1 do artigo 198.º da Constituição:\n\n'No desenvolvimento do regime jurídico estabelecido pela Lei (ou Decreto-Lei) n.º .../..., de ... de ..., e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nd) Decretos-leis previstos no n.º 2 do artigo 198.º da Constituição:\n\n«Nos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Após o texto seguem-se, sucessivamente, a data de aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "56934505": {
+   "fragment_id": "36230775",
+   "type": 11,
+   "heading": "Artigo 13.º — Propostas de lei",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 13.º — Propostas de lei\n\n1 - As propostas de lei do Governo devem conter uma exposição de motivos e obedecem ao formulário seguinte:\n\n'Nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, o Governo apresenta à Assembleia da República a seguinte proposta de lei (com pedido de prioridade e urgência, se for o caso):\n\n(Segue-se o texto.)'\n\n2 - Após o texto seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros e a assinatura do Primeiro-Ministro e dos ministros competentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "56934506": {
+   "fragment_id": "36230875",
+   "type": 11,
+   "heading": "Artigo 14.º — Outros diplomas do Governo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Outros diplomas do Governo\n\n1 - Os outros diplomas do Governo obedecem ao formulário seguinte:\n\na) Decretos regulamentares:\n\n'Nos termos da alínea c) do artigo 199.º da Constituição e ... (segue-se a identificação do acto legislativo a regulamentar), o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\n'Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nb) Decretos previstos na alínea c) do n.º 1 do artigo 197.º da Constituição:\n\n«Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o ... (segue-se a identificação do acordo internacional em forma simplificada, com indicação da matéria a que respeita, do local e da data da assinatura, sendo o teor do respectivo instrumento publicado em anexo).»\n\nc) Decretos:\n\n'Nos termos do ... (segue-se a identificação do acto e da respectiva norma que estabelece a exigência de decreto) e da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\n'Nos termos do ... (segue-se a identificação do acto e da respectiva norma que estabelece a exigência de decreto) e da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\n'Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n(Segue-se o texto.)'\n\nd) Resoluções do Conselho de Ministros:\n\n'Nos termos da alínea ... do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n(Segue-se o texto.)'\n\n'Nos termos do ... (segue-se a identificação do acto e da respectiva norma que estabelece a exigência de resolução) e da alínea ... do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n(Segue-se o texto.)'\n\ne) Portarias:\n\n«Manda o Governo, pelo ... (indicar o membro ou membros competentes), o seguinte:\n\n(Segue-se o texto.)»\n\n2 - Após o texto dos decretos mencionados na alínea a) do número anterior seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a data da promulgação, a ordem de publicação e a assinatura do Presidente da República, a data da referenda e a assinatura do Primeiro-Ministro.\n\n3 - Após o texto dos decretos mencionados nas alíneas b) e c) do n.º 1 seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros, a assinatura do Primeiro-Ministro e dos ministros competentes, a assinatura do Presidente da República, com a menção da respectiva data, a data da referenda e a assinatura do Primeiro-Ministro.\n\n4 - Após o texto das resoluções mencionadas na alínea d) do n.º 1 seguem-se, sucessivamente, a data da aprovação em Conselho de Ministros e a assinatura do Primeiro-Ministro.\n\n5 - Após o texto dos diplomas mencionados na alínea e) do n.º 1 segue-se a assinatura do membro ou membros do Governo que os emitem, com a indicação da respectiva data.\n\n6 - Sendo vários os membros do Governo a assinar os diplomas aludidos no número anterior, a data que releva é a da última assinatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01"
+  },
+  "56934507": {
+   "fragment_id": "36230975",
+   "type": 11,
+   "heading": "Artigo 15.º — Decretos de nomeação e exoneração dos membros dos Governos Regionais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 15.º — Decretos de nomeação e exoneração dos membros dos Governos Regionais\n\n1 - Os decretos de nomeação e exoneração dos Presidentes dos Governos Regionais obedecem ao seguinte formulário:\n\n'Ao abrigo do n.º 3 do artigo 231.º da Constituição, nomeio (ou exonero):\n\n(Segue-se o texto.)\n\nAssinado em ...\n\nPublique-se.\n\nO Representante da República para a Região Autónoma ..., (assinatura).'\n\n2 - Os decretos de nomeação e exoneração dos membros dos Governos Regionais obedecem ao seguinte formulário:\n\n'Ao abrigo do n.º 4 do artigo 231.º da Constituição, nomeio (ou exonero), sob proposta do Presidente do Governo Regional:\n\n(Segue-se o texto.)\n\nAssinado em ...\n\nPublique-se.\n\nO Representante da República para a Região Autónoma ..., (assinatura).'\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "56934508": {
+   "fragment_id": "36231075",
+   "type": 11,
+   "heading": "Artigo 16.º — Diplomas dos órgãos de governo próprio das Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 16.º — Diplomas dos órgãos de governo próprio das Regiões Autónomas\n\n1 - No início de cada diploma das Assembleias Legislativas das Regiões Autónomas ou dos Governos Regionais indica-se, para além do órgão donde emana e da disposição constitucional ao abrigo da qual é aprovado, o correspondente preceito do respectivo estatuto político-administrativo e, se for caso disso, o acto legislativo a regulamentar.\n\n2 - Os decretos legislativos regionais aprovados ao abrigo de uma autorização legislativa, ou que desenvolvam para o âmbito regional princípios ou bases gerais de regimes jurídicos contidos em leis que a eles se circunscrevam, devem invocar expressamente as respectivas leis de autorização ou as leis cujos princípios ou bases desenvolvam.\n\n3 - Nos decretos legislativos regionais e nos decretos regulamentares regionais da competência das Assembleias Legislativas das Regiões Autónomas, após o texto seguem-se, sucessivamente, a data da aprovação, a assinatura do seu Presidente, a data da assinatura pelo Representante da República, a ordem de publicação e a assinatura deste.\n\n4 - Nos decretos regulamentares regionais da competência dos Governos Regionais, após o texto seguem-se, sucessivamente, a menção da aprovação pelo Governo Regional e da respectiva data, a assinatura do seu Presidente, a data da assinatura pelo Representante da República, a ordem de publicação e a assinatura deste.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2005-01-29"
+  },
+  "56934509": {
+   "fragment_id": "36231175",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo da distribuição",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29, produz efeitos a partir de 2005-01-29"
+   ],
+   "markdown": "###### Artigo 17.º — Registo da distribuição\n\n1 - A versão electrónica do Diário da República inclui um registo de acesso livre e gratuito, do qual constam as datas da sua efectiva distribuição.\n\n2 - O registo faz prova para todos os efeitos legais e deve abranger as edições do Diário da República desde 25 de Abril de 1974.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 26/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/26-2006-357350), em vigor a partir de 2006-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29, produz efeitos a partir de 2005-01-29"
+  },
+  "56934510": {
+   "fragment_id": "36231275",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29"
+   ],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogados os seguintes diplomas:\n\na) Lei n.º 6/83, de 29 de Julho;\n\nb) Decreto-Lei n.º 337/87, de 21 de Outubro;\n\nc) Decreto-Lei n.º 113/88, de 8 de Abril;\n\nd) Decreto-Lei n.º 1/91, de 2 de Janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2005 - Diário da República n.º 16/2005, Série I-A de 2005-01-24](https://diariodarepublica.pt/dr/detalhe/lei/2-2005-623841), em vigor a partir de 2009-01-29"
+  },
+  "56934511": {
+   "fragment_id": "36231475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Outubro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 23 de Outubro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 28 de Outubro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

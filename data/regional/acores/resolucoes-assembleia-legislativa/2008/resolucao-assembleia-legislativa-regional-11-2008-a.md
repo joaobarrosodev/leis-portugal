@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:449451:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 11/2008/A
+short_title: null
+summary: Encarrega a Comissão Especializada Permanente de Assuntos Parlamentares, Ambiente e Trabalho da Assembleia Legislativa
+  da Região Autónoma dos Açores de, nas suas funções de acompanhamento de actividade política e administrativa, se ocupar
+  especificamente da verificação das condições em que estão a ser exercidas as obrigações de serviço público de rádio e televisão
+  nos Açores
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 11/2008/A
+official_date: null
+publication_date: '2008-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/2008, Série I de 2008-06-18
+  number: '116'
+  series: I
+  supplement: null
+  pages: 3511 - 3512
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11600/0351103512.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/11/2008/06/18/a/dre/pt/html
+  oj: null
+  dre: '449451'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/11-2008-449451
+  internal: pt:dre:449451:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/11-2008-449451
+  metadata_url: https://data.dre.pt/eli/resolalraa/11/2008/06/18/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/11-2008-449451
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-06-18T00:00:00Z'
+integrity:
+  source_sha256: a6f3444440b4e7824b88609d628a4f07fbfd23512c1a38ab1cdddfd316f6fb88
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2008/DRE-2008-11-449451.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- RDP
+- Comissão Especializada Permanente de Assuntos Parlamentares Ambiente e Trabalho
+- Fiscalização
+- Informação
+- Direito à Informação
+- Assembleia Legislativa
+- Radiodifusão
+- Serviço Público
+- Radio e Televisão de Portugal
+- Açores
+- Televisão
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27/2007/07/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2007/07/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/8/2007/02/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2007/02/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 11/2008/A
+
+Encarrega a Comissão Especializada Permanente de Assuntos Parlamentares, Ambiente e Trabalho da Assembleia Legislativa da Região Autónoma dos Açores de, nas suas funções de acompanhamento da actividade política e administrativa, se ocupar especificamente da verificação das condições em que estão a ser exercidas as obrigações de serviço público de rádio e televisão nos Açores.
+
+A [Lei n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/lei/8-2007-517998), de 14 de Fevereiro, aprovou os Estatutos da Rádio e Televisão de Portugal, S. A., os quais definem como objecto da sociedade a prestação dos serviços públicos de rádio e de televisão.
+
+Os referidos Estatutos também definem que a sociedade tem centros regionais nas Regiões Autónomas, com capacidade necessária para a produção.
+
+O n.º 5 do artigo 5.º dos mesmos Estatutos sujeitou os directores dos centros regionais a uma audição anual na respectiva assembleia legislativa da região.
+
+A Assembleia Legislativa da Região Autónoma dos Açores exerceu, pela primeira vez, esse poder de audição parlamentar no mês de Fevereiro de 2008.
+
+O director do Centro Regional dos Açores declarou, então, à Comissão de Assuntos Parlamentares, Ambiente e Trabalho que «lamenta a falta de autonomia financeira do Centro Regional», que «dispõe de um orçamento 'muito limitado' já que ponderado pela administração da Rádio e Televisão de Portugal, S. A., olhando essencialmente aos aspectos demográficos e esquecendo uma realidade arquipelágica, composta por nove ilhas».
+
+O director do Centro manifestou concordância quanto às críticas dos Deputados relativamente à cobertura noticiosa deficiente da actividade parlamentar e considerou como «sua aposta» a «generalização da cobertura de todas as parcelas do arquipélago».
+
+O director do Centro transmitiu ainda à Comissão Parlamentar que nos Açores e quanto ao respectivo Centro Regional «há questões essenciais que foram abandonadas ao longo dos tempos, como seja a aquisição de equipamentos» e que «a televisão atingiu, hoje, a rotura no que respeita aos equipamentos». Disse ainda pretender aceder à «criação de melhores condições de trabalho, por via da disponibilização de instalações, em cooperação com os municípios».
+
+Na sequência da audição, tendo em vista procurar solucionar os problemas constatados, a Assembleia Legislativa dos Açores aprovou, em 21 de Fevereiro de 2008, uma resolução recomendando ao conselho de administração da Rádio e Televisão de Portugal, S. A., um conjunto de diligências, das quais se realçam a de dotar o Centro Regional dos Açores de infra-estruturas físicas, equipamentos e recursos humanos, em quantidade e qualidade, bem como de acautelar que, nos acordos de colaboração com entes públicos e privados, o Centro Regional não transfira para outros deveres, custos e responsabilidades que são da empresa.
+
+Avulta como preocupação central da referida resolução o cumprimento, por parte do Centro Regional dos Açores, dos critérios cruciais de qualidade, rigor, isenção, pluralismo, eficiência e eficácia, bem como a consideração do especial dever de realização da sua vocação de canal próprio, essencial à garantia de serviço público nos Açores.
+
+Há, também, outras entidades que detêm competências legais importantes, relativamente ao serviço público de comunicação social que incumbe a Rádio e Televisão de Portugal, S. A., designadamente:
+
+A Entidade Reguladora para a Comunicação Social, criada pela [Lei n.º 53/2005](https://diariodarepublica.pt/dr/detalhe/lei/53-2005-583192), de 8 de Novembro, que exerce poderes de regulação e supervisão, assegurando, nomeadamente, que a informação se paute por critérios de exigência e rigor jornalísticos, zelando pela independência das entidades que prossigam actividades de comunicação social, salvaguardando a diversidade e o pluralismo e garantindo a efectiva expressão e o confronto das diversas correntes de opinião. A ERC assume mesmo os direitos e obrigações atribuídos ao Estado, no que se refere à fiscalização do cumprimento das obrigações de serviço público no sector da comunicação social;
+
+O Conselho de Opinião, que tem, entre outras, a competência de acompanhar a actividade, assim como pronunciar-se sobre o cumprimento do serviço público de rádio e televisão;
+
+E ainda, o Provedor do Ouvinte e o Provedor do Telespectador, que têm muitas competências, entre as quais avultam as de receberem e avaliarem queixas e sugestões e as de indagarem e formularem conclusões sobre a programação e informação difundidas pelos serviços públicos de rádio e televisão.
+
+Não obstante, a Assembleia Legislativa da Região Autónoma dos Açores não se pode eximir do exercício do seu dever de acompanhamento do serviço público de rádio e televisão nos Açores. Não só, mas também, porque ele assume especificidades e exigências próprias num território insular como é o nosso. Não só, mas também, porque a [Lei n.º 27/2007](https://diariodarepublica.pt/dr/detalhe/lei/27-2007-636409), de 30 de Julho (Lei da Televisão), estabelece no n.º 3 do seu artigo 56.º que as assembleias legislativas podem definir obrigações complementares específicas do serviço público de televisão. Não só, mas principalmente, porque aprovou uma resolução sobre a matéria e importa agora acompanhar se ela está, e em que medida, a ser concretizada.
+
+Aliás, a Assembleia Legislativa tem a competência política de se pronunciar, por sua iniciativa, depois de habilitada com elementos que o justifiquem, sobre questões que digam respeito à Região.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da alínea a) do artigo 32.º do Estatuto Político-Administrativo, encarrega a Comissão Especializada Permanente de Assuntos Parlamentares, Ambiente e Trabalho, de:
+
+1 - Proceder à verificação e avaliação da forma como estão a ser exercidas as obrigações de serviço público de rádio e televisão, por parte da Rádio e Televisão de Portugal, S. A., nos Açores.
+
+2 - Analisar e especificar os entraves ou dificuldades, sejam eles ao nível de infra-estruturas, equipamentos, meios humanos, meios financeiros ou de gestão, que eventualmente se estejam a colocar e que contribuam para que o referido serviço público não atinja os objectivos considerados adequados na Região.
+
+3 - Avaliar sobre o grau de cumprimento das recomendações constantes da resolução aprovada pela Assembleia Legislativa da Região Autónoma dos Açores em 21 de Fevereiro de 2008.
+
+4 - Especificar as medidas concretas tomadas tendo em vista a melhoria da generalização da cobertura informativa de todas as parcelas da Região.
+
+5 - Obter outros elementos que possam ser considerados úteis para que a Assembleia Legislativa possa cumprir os seus deveres estatutários e regimentais nesta matéria.
+
+6 - Apresentar um relatório, ao plenário da Assembleia Legislativa, com o resultado do trabalho realizado, os elementos recolhidos e as respectivas conclusões, no prazo de cinco meses.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de Maio de 2008.
+
+Pelo Presidente da Assembleia Legislativa, o Vice-Presidente, Jorge Alberto da Costa Pereira.

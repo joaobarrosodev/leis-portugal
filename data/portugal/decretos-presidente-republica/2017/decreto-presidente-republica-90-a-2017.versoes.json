@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108174106:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2017-902263468",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/90-a-2017-108174106",
+ "source_lastmod": "2025-01-08",
+ "versions": [
+  {
+   "date": "2017-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902223857"
+   ]
+  }
+ ],
+ "fragments": {
+  "902223857": {
+   "fragment_id": "902263469",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 90-A/2017\n\nde 18 de setembro\n\nO Presidente da República decreta, nos termos da alínea h) do n.º 2 do artigo 9.º da Lei Orgânica n.º 1-B/2009, de 7 de julho, alterada e republicada pela Lei Orgânica n.º 5/2014, de 29 de agosto, o seguinte:\n\nÉ nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas, o Vice-Almirante Henrique Eduardo Passaláqua de Gouveia e Melo para o cargo de Comandante da EUROMARFOR, por um período de 2 anos, com efeitos à data da tomada de posse."
+  }
+ }
+}

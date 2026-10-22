@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:129208004:por
+title: Decreto-Lei n.º 5/2020
+short_title: null
+summary: Aplica ao pessoal dos corpos especiais do Sistema de Informações da República Portuguesa o regime de aposentação
+  aplicável às forças e serviços de segurança previstas na Lei de Segurança Interna
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 5/2020
+official_date: null
+publication_date: '2020-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/2020, Série I de 2020-02-14
+  number: '32'
+  series: I
+  supplement: null
+  pages: 2 - 3
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/02/03200/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/5/2020/02/14/p/dre/pt/html
+  oj: null
+  dre: '129208004'
+  dre_path: /dr/detalhe/decreto-lei/5-2020-129208004
+  internal: pt:dre:129208004:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004
+  metadata_url: https://data.dre.pt/eli/dec-lei/5/2020/02/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2020-02-14T00:00:00Z'
+integrity:
+  source_sha256: fd47117d0e7929f2ad4692698debf956e3ff3c2d05dc338e2ee7c2e04d5ae017
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-5-129208004.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Função Pública
+- Aposentação
+- Cálculo de Pensões
+- Contribuições da Segurança Social
+- Administração Pública
+- Proteção Social
+- Regime Geral da Segurança Social
+- Sistema de Informações da República Portuguesa
+- Funcionário Público
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/143/2019/09/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/143/2019/09/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/229/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/229/2005/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/4/2017/01/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2017/01/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/55/2006/03/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/55/2006/03/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/87/2019/07/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87/2019/07/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/60/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/60/2005/12/29/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 5/2020
+
+de 14 de fevereiro
+
+A [Lei n.º 60/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066), de 29 de dezembro, na sua redação atual, estabeleceu mecanismos de convergência do regime de proteção social da função pública com o regime geral de segurança social no que respeita às condições de acesso e ao cálculo das pensões de aposentação, tendo ainda determinado a cessação da inscrição de novos subscritores na Caixa Geral de Aposentações a partir de 1 de janeiro de 2006.
+
+Neste contexto, o [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), de 29 de dezembro, na sua redação atual, procedeu à revisão dos regimes que consagram desvios ao regime geral de aposentação em matéria de tempo de serviço, idade de acesso à aposentação, fórmula de cálculo e atualização das pensões, de forma a compatibilizá-los com a convergência acima referida, onde ficou incluído o regime aplicável ao Sistema de Informações da República Portuguesa (SIRP).
+
+As características específicas da atividade de produção de informações de segurança justificam, em paridade com as Forças Armadas e as forças e serviços de segurança, a manutenção do regime de exceção ao regime geral da aposentação da Administração Pública.
+
+Nesse contexto, procede-se à aplicação ao pessoal do SIRP do regime preceituado no [Decreto-Lei n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), de 6 de janeiro, que veio rever o regime da aposentação para as forças e serviços de segurança previstas na Lei de Segurança Interna, onde tem assento o SIRP, bem como à alteração do [Decreto-Lei n.º 55/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2006-667345), de 15 de março, na sua redação atual, que define as regras de execução da [Lei n.º 60/2005](https://diariodarepublica.pt/dr/detalhe/lei/60-2005-469066), de 29 de dezembro, na sua redação atual, por forma a assegurar o financiamento do regime previsto no presente decreto-lei.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aplica ao pessoal dos corpos especiais do Sistema de Informações da República Portuguesa o regime de aposentação aplicável às forças e serviços de segurança previstas na Lei de Segurança Interna, procedendo à quarta alteração ao [Decreto-Lei n.º 55/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2006-667345), de 15 de março, alterado pelos [Decretos-Leis n.os 4/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), de 6 de janeiro, [87/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), de 2 de julho, e [143/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306), de 20 de setembro, e a primeira alteração ao [Decreto-Lei n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), de 6 de janeiro.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 55/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2006-667345), de 15 de março
+
+O artigo 5.º do [Decreto-Lei n.º 55/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2006-667345), de 15 de março, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - No caso da legislação especial aplicável aos militares das Forças Armadas, da Guarda Nacional Republicana, do pessoal militarizado da Marinha, da Polícia Marítima e do Exército, do pessoal com funções policiais da Polícia de Segurança Pública, do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, do pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária, do pessoal do corpo da Guarda Prisional, do pessoal das carreiras de bombeiro sapador e de bombeiro municipal, e do pessoal dos corpos especiais do Sistema de Informações da República Portuguesa, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.
+
+4 - [...].
+
+5 - [...].»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), de 6 de janeiro
+
+O artigo 1.º do [Decreto-Lei n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), de 6 de janeiro, passa a ter a seguinte redação:
+
+«Artigo 1.º
+
+[...]
+
+[...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) Funcionários e agentes integrados nos corpos especiais do Sistema de Informações da República Portuguesa, desde que contem, pelo menos, oito anos de serviço nestes organismos.»
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+**Promulgado em 5 de fevereiro de 2020.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 7 de fevereiro de 2020.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

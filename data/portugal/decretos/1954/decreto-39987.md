@@ -1,0 +1,2307 @@
+---
+schema_version: '1.0'
+id: pt:dre:290839:por
+title: Decreto n.º 39987
+short_title: null
+summary: Aprova o Regulamento do Código da Estrada - Revoga os Decretos n.os 19545 e 32110 e as Portarias n.os 9504, 9964,
+  12056, 12447 e 12592
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministérios do Interior e das Comunicações
+proposing_entity: null
+official_number: '39987'
+official_date: null
+publication_date: '1954-12-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 285/1954, 1º Suplemento, Série I de 1954-12-22
+  number: '285'
+  series: I
+  supplement: null
+  pages: 1547 - 1617
+  pdf_url: https://files.diariodarepublica.pt/1s/1954/12/28501/15471617.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1975-01-19'
+version_history:
+  file: decreto-39987.versoes.json
+  count: 1
+  source_lastmod: '2026-10-12'
+  versions:
+  - date: '1975-01-19'
+    amending: pt:dre:158969:por
+    amending_title: Portaria n.º 31/75
+    changes:
+    - Altera Artigo 31.º
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '290839'
+  dre_path: /dr/detalhe/decreto/39987-1954-290839
+  internal: pt:dre:290839:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1954-1178267775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1954-1178267775
+  retrieved_at: '2026-10-22T14:01:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-12T00:00:00Z'
+integrity:
+  source_sha256: 84381f6967fbed344c70e6b97519d66dba405038142576617bd93a408e13ed20
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T14:01:24Z'
+  notes: 1 versão(ões); histórico completo em decreto-39987.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Estrada
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções, não causais de acidentes, contidas no Regulamento do Código da Estrada, pelo DEC LEI.720/74.18.12.1974.MESA,\
+    \ DG.IS [294] de 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: amended_by
+  target: pt:dre:158969:por
+  label: "Alterado o art. 31º, nº 3 do Regulamento, pela PORT.31/75.1975.01.18.MESA DG.IS [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-1975-158969
+  date: '1975-01-18'
+- type: amended_by
+  target: pt:dre:502215:por
+  label: Alterados o n.º 6 do art. 3.º e o art. 6.º do Regulamento pelo(a) Portaria n.º 254/76 - Diário da República n.º 95/1976,
+    Série I de 1976-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-1976-502215
+  date: '1976-04-22'
+- type: amended_by
+  target: pt:dre:407677:por
+  label: Alterado o art. 8.º do Regulamento do Código da Estrada, aprovado pelo presente diploma pelo(a) Portaria n.º 761/76
+    - Diário da República n.º 298/1976, Série I de 1976-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/761-1976-407677
+  date: '1976-12-23'
+- type: amended_by
+  target: pt:dre:138344:por
+  label: Alterado o n.º 1 do art. 48.º do Regulamento pelo(a) Portaria n.º 46/77 - Diário da República n.º 23/1977, Série
+    I de 1977-01-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-1977-138344
+  date: '1977-01-28'
+- type: amended_by
+  target: pt:dre:252266:por
+  label: Alterado o n.º 4 do art. 14.º do Regulamento do Código da Estrada, aprovado pelo presente diploma, pelo(a) Portaria
+    n.º 268/77 - Diário da República n.º 111/1977, Série I de 1977-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-1977-252266
+  date: '1977-05-13'
+- type: amended_by
+  target: pt:dre:250036:por
+  label: Alterado com excepção das multas previstas nos arts. 31.º e 43.º, todas as multas fixadas no Regulamento do Código
+    da Estrada, aprovado pelo presente diploma, pelo(a) Portaria n.º 391/77 - Diário da República n.º 146/1977, Série I de
+    1977-06-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1977-250036
+  date: '1977-06-27'
+- type: amended_by
+  target: pt:dre:294720:por
+  label: Alterados o n.º 1 do art. 13.º, os n.ºs 2 e 9 do art. 20.º e o n.º 2 do art. 24.º do Regulamento do Código da Estrada
+    pelo(a) Portaria n.º 300/78 - Diário da República n.º 126/1978, Série I de 1978-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-1978-294720
+  date: '1978-06-02'
+- type: amended_by
+  target: pt:dre:383464:por
+  label: "Dada nova redacção ao n.º 2 do art. 43.º do Regulamento aprovado pelo presente diploma, pela PORT.282/79.16.06.1979.MTC,\
+    \ DR.IS [137] de 16.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1979-383464
+  date: '1979-06-16'
+- type: amended_by
+  target: pt:dre:383578:por
+  label: "Alterado o nº 1 do art. 44º do Regulamento do Código da Estrada aprovado pelo presente diploma, pela PORT.283/79.18.06.1979.MTC,\
+    \ DR.IS [138] de 18.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1979-383578
+  date: '1979-06-18'
+- type: amended_by
+  target: pt:dre:508775:por
+  label: "Alterado o n.º 4 do artigo 20.º e o n.º 2.º da alínea a) do n.º 2 do artigo 27.º do Regulamento, pela PORT.26-V1/80.09.01.1980.MTC,\
+    \ DR.IS [7]3ºSupl de 09.01.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-v1-1980-508775
+  date: '1980-01-09'
+- type: amended_by
+  target: pt:dre:461591:por
+  label: "Acrescentada a alínea h) ao n.º 1 do artigo 30.º do Regulamento, pela PORT.773/80.02.10.1980.PCM, DR.IS [228] de\
+    \ 02.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-1980-461591
+  date: '1980-10-02'
+- type: amended_by
+  target: pt:dre:461592:por
+  label: "Alterado o n.º 2 do artigo 32.º e n.º 12 do artigo 33.º do Regulamento, pela PORT.774/80.02.10.1980.PCM, DR.IS [228]\
+    \ de 02.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-1980-461592
+  date: '1980-10-02'
+- type: amended_by
+  target: pt:dre:459638:por
+  label: "Alterado o artigo 31.º do Regulamento do Código da Estrada, bem como substituída a figura constante do quadro n.º\
+    \ 9 anexo ao citado Regulamento, pela PORT.1046/80.10.12.1980.MTC, DR.IS [284] de 10.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-1980-459638
+  date: '1980-12-10'
+- type: amended_by
+  target: pt:dre:390208:por
+  label: "Alterados os artigos 32.º e 33.º (na redacção da Portaria 774/80, de 02 de Outubro ) do Regulamento aprovado pelo\
+    \ presente diploma, pela PORT.86/81.20.01.1981.PCM, DR.IS [16] de 20.01.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-1981-390208
+  date: '1981-01-20'
+- type: amended_by
+  target: pt:dre:579893:por
+  label: "Alterado o n.º 6 do artigo 31.º do Regulamento, pela PORT.625/81.21.07.1981.MTC, DR.IS [165] de 21.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/625-1981-579893
+  date: '1981-07-21'
+- type: amended_by
+  target: pt:dre:393036:por
+  label: "Alterados os arts. 14º, 17º, 20º, 21º, 23º, 24º, 25º, 29º e 30º pela PORT.464/82.1982.05.04.MHOPT, DR.IS [102]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/464-1982-393036
+  date: '1982-05-04'
+- type: amended_by
+  target: pt:dre:395367:por
+  label: "Alterado o n.º 41 do Regulamento pela PORT.635/82.1982.06.24.MAS DR.IS [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/635-1982-395367
+  date: '1982-06-24'
+- type: amended_by
+  target: pt:dre:546821:por
+  label: "Alteradas as als. e) e f) do nº 1 do art. 41º do Regulamento do Código da Estrada aprovado pelo presente diploma,\
+    \ com a redacção dada pela Port 635/82 de 24-Jun, pela PORT.266/85.09.05.1985.MS, DR.IS [106-SUPL] de 09.05.1985\085\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1985-546821
+  date: '1985-05-09'
+- type: amended_by
+  target: pt:dre:177851:por
+  label: "Dada nova redacção ao n.º 7 do art. 33.º do Regulamento aprovado pelo presente diploma, pela PORT.812/85.26.10.1985.MES,\
+    \ DR.IS [247] de 26.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/812-1985-177851
+  date: '1985-10-26'
+- type: amended_by
+  target: pt:dre:177861:por
+  label: "Dada nova redacção à al. f) do n.º 3 do art. 33.º, n.º 2 do art. 36.º e n.º 3 do art. 28.º do Regulamento aprovado\
+    \ pelo presente diploma, pela PORT.814/85.26.10.1985.MES, DR.IS [247] de 26.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-1985-177861
+  date: '1985-10-26'
+- type: amended_by
+  target: pt:dre:220917:por
+  label: "Dada nova redacção ao nº. 2 do art. 36º e ao nº. 3 do art. 38º do Regulamento do Código da Estrada, pela PORT.701/86.21.11.1986.MOPTC,\
+    \ DR.IS [269] de 21.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-1986-220917
+  date: '1986-11-21'
+- type: amended_by
+  target: pt:dre:417248:por
+  label: "Alteradas as als. e) e f) do nº 1 do art. 41º e o nº 1 do art. 44º do Regulamento do Código da Estrada aprovado\
+    \ pelo presente diploma, com a redacção dada pelas Port 283/79 de 18-Jun e 266/85 de 09-Mai; e revogados os nºs 4 e 5\
+    \ do art. 44º do mesmo Regulamento pela PORT.664/87.29.07.1987.MOPTC, DR.IS [172] de 29.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1987-417248
+  date: '1987-07-29'
+- type: amended_by
+  target: pt:dre:333569:por
+  label: "Alterados os n.ºs 5, 7 e aditado um n.º 8 ao artigo 2.º do Regulamento, pela PORT.53/90.22.01.1990.MOPTC, DR.IS\
+    \ [18] de 22.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1990-333569
+  date: '1990-01-22'
+- type: amended_by
+  target: pt:dre:607498:por
+  label: "Alterado o quadro II do Regulamento do Código da Estrada, pelo DEC LEI.254-A/90.1990.08.06.MOPTC, DR.IS [180]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-a-1990-607498
+  date: '1990-08-06'
+- type: amended_by
+  target: pt:dre:644363:por
+  label: "Alterados os n.ºs 2, 3 e 4 do artigo 27.º do Regulamento, pela PORT.429/91.24.05.1991.MOPTC, DR.IS-B [119] de 24.05.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/429-1991-644363
+  date: '1991-05-24'
+- type: amended_by
+  target: pt:dre:403919:por
+  label: "Alterados os artigos 35.º e 37.º do Regulamento, pela PORT.884/91.28.08.1991.MOPTC, DR.IS-B [197] de 28.08.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-1991-403919
+  date: '1991-08-28'
+- type: amended_by
+  target: pt:dre:656415:por
+  label: "Alterado o artigo 6.º (sinais marcados no pavimento) do Regulamento PORT.194/93.18.02.1993.MAI, DR.IS-B [41] de\
+    \ 18.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-1993-656415
+  date: '1993-02-18'
+- type: amended_by
+  target: pt:dre:283556:por
+  label: "Alterado o artigo 17.º do Regulamento pela PORT.550/93.29.05.1993.MAI, DR.IS-B [125] de 29.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-1993-283556
+  date: '1993-05-29'
+- type: amended_by
+  target: pt:dre:265709:por
+  label: "Alterado o artigo 20.º do Regulamento, pela PORT.603/93.28.06.1993.MAI, DR.IS-B [149] de 28.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-1993-265709
+  date: '1993-06-28'
+- type: amended_by
+  target: pt:dre:406289:por
+  label: "Alterados os artigos 2.º, 3.º, 4.º e 5.º e aditados os artigos 3.º-A, 4.º-A e 5.º-A ao Regulamento pela PORT.46-A/94.17.01.1994.MAI,\
+    \ DR.IS-B [13]Supl de 17.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-a-1994-406289
+  date: '1994-01-17'
+- type: amended_by
+  target: pt:dre:355949:por
+  label: "Alterados os quadros anexos V-A e XVI-A e, aditados os sinais verticais H40, H41 e H42 à alínea a) do n.º 2 do artigo\
+    \ 5.º, bem como aos quadros XV e XVI-A os símbolos e sinais constantes dos quadros II e I respectivamente, anexos à PORT.881-A/94.30.09.1994.MAI,\
+    \ DR.IS-B [227]Supl de 30.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/881-a-1994-355949
+  date: '1994-09-30'
+- type: amended_by
+  target: pt:dre:138313:por
+  label: "Alterado o § 4 do n.° 2 do artigo 16.° do Regulamento, na redacção dada no Decreto n.° 47165, de 25 de Agosto de\
+    \ 1966, pela PORT.99/95.02.02.1995.MAI, DR.IS-B [28] de 02.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-1995-138313
+  date: '1995-02-02'
+- type: amended_by
+  target: pt:dre:668156:por
+  label: "Reordenados os sinais H40 e H41, constantes no n.º 2 do artigo 5.º do Regulamento, que passam a constar com os n.ºs\
+    \ 2.26 e 2.27 da parte I, «Apoio ao utente» do quadro XV anexo, bem como símbolos 2.23 e 2.24, introduzidos pela Portaria\
+    \ n.º 881-A/94, passam a símbolos 2.28 e 2.29 respectivamente, pela PORT.1257/95.24.10.1995.MAI, DR.IS-B [246] de 24.10.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1257-1995-668156
+  date: '1995-10-24'
+- type: amended_by
+  target: pt:dre:198083:por
+  label: "Alterado o nº 4 do art. 20º do Regulamento, pela PORT.682/96.1996.11.21.MAI, DR.IS-B [270]\00]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/682-1996-198083
+  date: '1996-11-21'
+- type: amended_by
+  target: pt:dre:290977:por
+  label: "Alterado o art. 37º, pela PORT.1174-A/97.1997.11.17.MAI DR.IS-B [266]Suupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-a-1997-290977
+  date: '1997-11-17'
+- type: amended_by
+  target: pt:dre:231765:por
+  label: "Aditados diversos sinais, relativos à EXPO 98, aos arts 4º, 5º, e 5º-A do Regulamento do Código da Estrada, aprovado\
+    \ pelo presente diploma, na redacção dada pela Port 46-A/94 de 17-Jan, pela PORT.65/98.1998.02.16.MAI DR.IS-B [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1998-231765
+  date: '1998-02-16'
+- type: corrected_by
+  target: pt:dre:298257:por
+  label: Retificada a Port 300/78 de 02-jun, na redação que conferiu ao n.º 2 do art. 24.º do Regulamento do Código da Estrada,
+    pelo(a) Declaração - Diário da República n.º 148/1978, Série I de 1978-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-298257
+  date: '1978-06-30'
+- type: repealed_by
+  target: pt:dre:625412:por
+  label: Revogado o n.º 2 do art. 16.º do Regulamento, no respeitante aos transportes de mercadorias perigosas, pelo(a) Decreto-Lei
+    n.º 210-C/84 - Diário da República n.º 149/1984, 3º Suplemento, Série I de 1984-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-c-1984-625412
+  date: '1984-06-29'
+- type: repealed_by
+  target: pt:dre:332002:por
+  label: Revogado o nº 1 do art. 48º do Regulamento do Código da Estrada, pelo DEC LEI.123/90.14.04.1990.MOPTC, DR.IS [87]
+    de 14.04.1990 nos termos do n.º 2 do art. 12.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1990-332002
+  date: '1990-04-14'
+- type: repealed_by
+  target: pt:dre:475366:por
+  label: "Revogado o n.º 1 do artigo 48.º do Regulamento, pelo PORT.203/91.13.03.1991.MF, DR.IS-B [60] de 13.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/203-1991-475366
+  date: '1991-03-13'
+- type: repealed_by
+  target: pt:dre:477818:por
+  label: "Revogado o art. 44º pela PORT.508-A/97.1997.07.21.MAI DR.IS-B [166]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/508-a-1997-477818
+  date: '1997-07-21'
+- type: repealed_by
+  target: pt:dre:406320:por
+  label: "Revogados os arts. 39º a 42º do Cap VI, Secção I, do Regulamento do Código da Estrada pelo DEC LEI.336/97.02.12.1997.MAI,\
+    \ DR.IS-A [278] de 02.12.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/336-1997-406320
+  date: '1997-12-02'
+- type: repealed_by
+  target: pt:dre:475096:por
+  label: "Revogados os arts. 36º e 38º do Regulamento aprovado pelo presente diploma, pelo DR.13/98.1998.06.15.MAI. DR.IS-B\
+    \ [135]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-1998-475096
+  date: '1998-06-15'
+- type: repealed_by
+  target: pt:dre:302974:por
+  label: "Revogados os arts. 1.º a 11.º do Regulamento do Código da Estrada, na redacção dada pela Port 46-A/94 de 17-Jan\
+    \ DG.IS [285]Supl, pelo DR.22-A/98.1998.10.01.MAI DR.IS-B [227]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-a-1998-302974
+  date: '1998-10-01'
+- type: repealed_by
+  target: pt:dre:324285:por
+  label: "Revogado o art. 18º do Regulamento do Código da Estrada, (aprovado pelo presente diploma), pelo DEC LEI.195/2000.2000.08.22.MAI,\
+    \ DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2000-324285
+  date: '2000-08-22'
+- type: repealed_by
+  target: pt:dre:589934:por
+  label: "Revogados os arts. 35.º e 37.º do Regulamento do Código da Estrada, aprovado pelo presente diploma, pelo DEC LEI.54/2005.03.03.2005.MAI,\
+    \ DR.IS-A [44] de 03.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2005-589934
+  date: '2005-03-03'
+- type: repealed_by
+  target: pt:dre:383020:por
+  label: "Revogado o art. 12.º do Regulamento do Código da Estrada, pelo DR.2-B/2005.24.03.2005.MAI, DR.IS-B [59-2ºSupl] de\
+    \ 24.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-b-2005-383020
+  date: '2005-03-24'
+- type: repealed_by
+  target: pt:dre:537984:por
+  label: "Revogados os n.os 1 e 3 do artigo 34.º do Regulamento do Código da Estrada, pelo DEC LEI.128/2006.05.07.2006.MAI,\
+    \ DR.IS [128] de 05.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2006-537984
+  date: '2006-07-05'
+- type: repealed_by
+  target: pt:dre:572149:por
+  label: "Revogadas as als a) e c) do art. 30.º do Regulamento do Código da Estrada, pela PORT.56/2014.06.03.2014.MECO, DR.IS\
+    \ [46] de 06.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2014-572149
+  date: '2014-03-06'
+article_structure:
+  article_count: 52
+  section_count: 26
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:01:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 39987
+
+Decreto n.º 39 987
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º
+
+É aprovado o Regulamento do Código da Estrada, que faz parte integrante do presente decreto e baixa assinado pelos Ministros do Interior e das Comunicações.
+
+###### Artigo 2.º
+
+Podem ser alteradas por portaria do Ministro das Comunicações as matérias constantes do presente regulamento. Exceptuam-se as matérias constantes da secção I do capítulo VI, que podem ser alteradas por portaria do Ministro do Interior.
+
+###### Artigo 3.º
+
+Este decreto entra em vigor em 1 de Janeiro de 1955 e revoga os diplomas seguintes:
+
+Decreto n.º 19 545, de 31 de Março de 1931.
+
+Portaria n.º 9504, de 10 de Abril de 1940.
+
+Portaria n.º 9964, de 19 de Dezembro de 1941.
+
+Decreto n.º 32 110, de 27 de Junho de 1942.
+
+Portaria n.º 12 056, de 4 de Outubro de 1947.
+
+Portaria n.º 12 447, de 18 de Junho de 1948.
+
+Portaria n.º 12 592, de 14 de Outubro de 1948.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 22 de Dezembro de 1954. — Francisco Higino Craveiro Lopes — António de Oliveira Salazar — Joaquim Trigo de Negreiros — Manuel Gomes de Araújo.
+
+## Anexo — Regulamento do Código da Estrada
+
+ÍNDICE
+
+(ver documento original)
+
+### Capítulo I — Sinalização do trânsito
+
+#### Secção I — Disposições gerais
+
+###### Artigo 1.º
+
+1. Nos locais que possam oferecer perigo para o trânsito ou em que este deva obedecer a precauções especiais, e sempre que se mostre aconselhável dar aos condutores quaisquer indicações úteis, serão utilizados os sinais constantes do presente regulamento.
+
+A alteração destes sinais ou a colocação nas vias públicas de sinais diferentes dependerá, em todos os casos, de aprovação do Ministro das Comunicações.
+
+2. Fora das localidades o eixo dos sinais gráficos não deverá estar colocado a uma distância superior a 2 m do extremo da faixa de rodagem. Dentro das localidades ou em regiões montanhosas a distância entre a extremidade do sinal mais próxima da faixa de rodagem e a vertical do limite desta não será inferior a 60 cm.
+
+Em casos excepcionais poderão, porém, observar-se distâncias diferentes das estabelecidas no parágrafo anterior.
+
+O reverso destes sinais será pintado de uma cor neutra. Os materiais reflectores neles empregados não deverão causar encadeamento nem diminuir a visibilidade do símbolo ou da inscrição.
+
+3. Os sinais de perigo e de regulamentação serão colocados do lado direito da via, no sentido do trânsito, e poderão ser repetidos do outro lado da faixa de rodagem. A sua altura acima do solo não deverá exceder 2,20 m e, fora das localidades, não será inferior a 60 cm.
+
+Estes sinais devem ser colocados de forma a não poderem ficar encobertos e a não causarem embaraço ao trânsito de peões.
+
+A inobservância, por parte dos condutores de veículos ou de animais, do sinal de paragem feito pelos agentes reguladores do trânsito ou do sinal luminoso a que se refere a alínea a) do n.º 2 do artigo 3.º será punida nos termos do n.º 4 do artigo 2.º do Código da Estrada. A falta de cumprimento das demais indicações daqueles agentes, ou dos sinais luminosos previstos no artigo 3.º, e bem assim dos sinais gráficos a que se referem os artigos 4.º e 5.º do presente regulamento, será punida com a multa de 50$.
+
+Serão punidos com a multa de 2$50 os peões que não observarem as indicações ou sinais que lhes digam respeito. Esta multa será elevada para 25$ no caso de o contraventor, por não a pagar voluntàriamente, vir a ser condenado em juízo.
+
+#### Secção II — Sinais dos agentes reguladores do trânsito
+
+###### Artigo 2.º
+
+1.º Os sinais dos agentes reguladores do trânsito (quadro n.º 1) são os seguintes:
+
+a) Paragem do tráfego que venha da frente: braço levantado verticalmente, com a palma da mão para a frente (fig. 1);
+
+b) Paragem do tráfego que venha da retaguarda: braço estendido horizontalmente, do lado do tráfego a que o sinal se destina, com a palma da mão para a frente (fig. 2).
+
+Estes sinais podem ser realizados simultâneamente (fig. 3).
+
+2. Poderá ser feito um sinal com a mão para fazer avançar o tráfego (figs. 4, 5 e 6).
+
+3. Os sinais serão executados no momento mais oportuno para uma boa coordenação do trânsito, por forma a evitar demoras ou acumulações excessivas do tráfego e a não deixar dúvidas sobre o seu significado aos peões e aos condutores de veículos ou de animais a que respeitarem.
+
+Os locais em que se encontrem os agentes reguladores do trânsito serão sempre bem visíveis e, durante a noite, devidamente iluminados.
+
+#### Secção III — Sinais luminosos
+
+###### Artigo 8.º
+
+1. Os sinais a que se refere o artigo anterior poderão ser substituídos por sinais luminosos de comando manual ou automático instalados nas vias públicas, nos termos constantes dos números seguintes.
+
+2. As luzes de regulamentação do trânsito nas vias públicas são das cores vermelha, verde e amarela e serão utilizadas para dar as seguintes indicações:
+
+a) Luz vermelha: passagem proibida; obriga a parar antes de atingir a zona protegida pelo sinal;
+
+b) Luz verde: passagem autorizada;
+
+c) Luz amarela:
+
+1.º Constante: transição entre as luzes verde e vermelha; proíbe a entrada na zona protegida aos que ainda a não tiverem atingido, a não ser que, estando já muito perto, lhes não seja possível parar em condições de segurança; obriga a prosseguir a marcha aos que estiverem dentro da zona protegida; quando aparecer imediatamente depois da luz vermelha, anuncia o aparecimento iminente da luz verde, mas não que tenha terminado já a proibição de avançar.
+
+2.º Intermitente: prudência; exige a maior atenção por parte dos condutores.
+
+3. Os sinais luminosos a observar pelos condutores de veículos e de animais devem ser colocados do lado direito da via, no sentido do trânsito, a uma altura do solo compreendida entre 2 e 3,5 m e apresentar-se-ão em fila vertical, de cima para baixo, pela seguinte ordem: vermelho, amarelo e verde.
+
+Sempre que possível, deverão repetir-se estas luzes na saída da zona protegida.
+
+É também permitida a colocação destas luzes em suspensão, no meio dos cruzamentos ou entroncamentos, a uma altura de 5 m, contada entre o solo e a extremidade inferior do dispositivo.
+
+4. Os sinais a que se refere o presente artigo poderão também ser dados por meio de lanternas manuais, a utilizar pelos agentes reguladores do trânsito. Estas lanternas poderão emitir somente luzes das cores vermelha e verde.
+
+#### Secção IV — Sinais gráficos
+
+###### Artigo 4.º — Sinais de perigo
+
+1. Os sinais de perigo (quadro n.º 2) têm a forma de um triângulo equilátero, com, pelo menos, 60 cm de lado, e são os seguintes:
+
+a) Pavimento irregular: indicação de estrada ou troço de estrada com depressões ou ressaltos susceptíveis de constituírem perigo para o trânsito (fig. 7);
+
+b) Curvas perigosas: indicação de curva ou curvas perigosas pelas características de construção ou pela sua reduzida visibilidade (fig. 8);
+
+c) Curva à direita (fig. 9);
+
+d) Curva à esquerda (fig. 10);
+
+e) Curva à direita e contracurva (fig. 11);
+
+f) ·Curva à esquerda e contracurva (fig. 12);
+
+g) Cruzamento ou entroncamento: só excepcionalmente será usado no interior das localidades (fig. 13);
+
+h) Passagem de nível com guarda (fig. 14);
+
+i) Passagem de nível sem guarda (fig. 15);
+
+j) Descida perigosa: indicação de estar próxima uma descida que, pela sua inclinação ou quaisquer outras circunstâncias, constitui perigo para o trânsito; este sinal poderá indicar, em inscrição, a inclinação da via (fig. 16);
+
+l) Passagem estreita (fig. 17);
+
+m) Ponte móvel (fig. 18);
+
+n) Trabalhos na estrada (fig. 19);
+
+o) Pavimento escorregadio (fig. 20);
+
+p) Travessia de peões (fig. 21);
+
+q) Animais: indicação de uma área especial em que podem ser encontrados animais com ou sem condutor (fig. 22);
+
+r) Crianças: indicação de estar próximo um lugar frequentado por crianças, como uma escola ou um parque de jogos (fig. 23);
+
+s) Cruzamento com estrada sem prioridade (fig. 24);
+
+t) Perigos vários: indicação de um perigo não previsto em qualquer das alíneas anteriores (fig. 25);
+
+u) Aproximação de estrada com prioridade: indicação de que o condutor deve dar passagem aos veículos em trânsito na estrada de que se aproxima. Na parte inferior deste sinal poderá ser colocada uma placa rectangular de 20 cm × 30 cm, com um número que indicará, em metros, a distância a que se encontra o cruzamento (fig. 26).
+
+2. Os sinais destinados a assinalar as passagens de nível, com ou sem guarda, serão iluminados, munidos de reflectores ou revestidos de materiais de efeito semelhante, nas vias onde o tráfego for muito intenso durante a noite.
+
+As cancelas e barreiras existentes nas passagens de nível deverão ser pintadas com faixas, alternadamente nas cores vermelha e branca, e, durante a noite, iluminadas ou munidas de reflectores de cor vermelha.
+
+3. Os sinais a que se refere este artigo serão brancos, com uma orla vermelha, e os símbolos ou inscrições pintados a preto. A orla terá uma largura igual a 1/15 do lado do triângulo.
+
+Não serão colocados a menos de 150 m nem a mais de 250 m do ponto da via a que se referem, a não ser que as condições locais o não permitam.
+
+Exceptuam-se desta última disposição os sinais de travessia de peões e de crianças.
+
+###### Artigo 5.º — Sinais de regulamentação
+
+Os sinais de regulamentação (quadro n.º 3) consistem num círculo de diâmetro não inferior a 40 cm e são os seguintes:
+
+a) Sinais de proibição:
+
+1.º Trânsito proibido (fig. 27);
+
+2.º Sentido proibido (fig. 28);
+
+3.º Proibição de voltar à direita: indica a proibição de entrar na primeira via que se apresente à direita (fig. 29);
+
+4.º Proibição de voltar à esquerda: indica a proibição de entrar na primeira via que se apresente à esquerda (fig. 30);
+
+5.º Proibição de ultrapassar: indica a proibição de os veículos serem ultrapassados (fig. 31);
+
+6.º Trânsito proibido a todos os veículos automóveis (fig. 32);
+
+7.º Trânsito proibido a automóveis e motociclos com carro (fig. 33);
+
+8.º Trânsito proibido a motociclos simples (fig. 34);
+
+9.º Trânsito proibido a velocípedes (fig. 35);
+
+10.º Trânsito proibido a veículos de tração animal (fig. 36);
+
+11.º Trânsito proibido a automóveis de mercadorias e a veículos de tracção animal (fig. 37);
+
+12.º Trânsito proibido a veículos de carga de peso superior a …t (fig. 38);
+
+13.º Trânsito proibido a veículos de largura superior a ... m (fig. 39);
+
+14.º Trânsito proibido a veículos de altura superior a ... m (fig. 40);
+
+15.º Trânsito proibido a veículos de peso superior a ... t (fig. 41);
+
+16.º Transito proibido a veículos de peso por eixo superior a ... t (fig. 42);
+
+17.º Trânsito proibido a animais (fig. 43);
+
+18.º Trânsito proibido a peões, animais e veículos não automóveis (fig. 44);
+
+19.º Proibição de sinais sonoros (fig. 45);
+
+20.º Velocidade máxima autorizada (fig. 46);
+
+21.º Paragem obrigatória: indica a obrigação de interromper a marcha ao chegar a uma via com prioridade de passagem (fig. 47);
+
+22.º Outras paragens obrigatórias: o motivo da paragem é indicado em português ou em português e francês, se o sinal interessar particularmente aos condutores de nacionalidade estrangeira (figs. 48 e 49);
+
+23.º Parque proibido (fig. 50);
+
+24.º Estacionamento proibido (figs. 51 e 52);
+
+25.º Estacionamento condicionado: o sinal deve ser acompanhado de uma inscrição em que se especifiquem os dias ou as horas em que se aplica a proibição ou a duração do estacionamento autorizado; esta inscrição pode constar de uma placa adicional ou do próprio sinal, desde que não colida com o seu sentido genérico, tornando-o ambíguo ou pouco claro (figs. 53 a 58).
+
+b) Sinais de obrigação:
+
+1.º Sentido obrigatório (fig. 59);
+
+2.º Sentidos autorizados (fig. 60);
+
+3.º Pista para velocípedes: indica a existência de pista especial obrigatória para velocípedes (fig. 61);
+
+4.º Pista para cavaleiros: indica a existência de pista especial obrigatória para cavaleiros (fig. 62).
+
+Com excepção dos referidos nos n.os 2.º, 23.º, 24.º e 25.º da alínea a), os sinais de proibição são de fundo branco, com uma orla vermelha. Os símbolos e as inscrições, quando os houver, serão pintados a preto.
+
+A orla terá uma largura igual a 1/6 do diâmetro do círculo.
+
+O sinal referido no n.º 2.º da alínea a) será vermelho, com um traço horizontal branco, de largura igual a 1/ 5 do diâmetro do circulo. Os sinais referidos nos n.os 23.º, 24.º e 25.º da alínea a) serão de fundo azul com uma orla vermelha. As letras, quando as houver, serão pintadas a branco.
+
+Os sinais de obrigação serão de cor azul com as figuras a branco.
+
+Os limites indicados nos sinais a que se referem os n.os 12.º, 15.º e 16.º da alínea a) incluem o peso do veículo e, bem assim, da carga e dos passageiros que transporte.
+
+###### Artigo 6.º — Sinais de orientação
+
+Os sinais de orientação (quadro n.º 4) são os seguintes:
+
+a) Sinais de pré-aviso: indicam a proximidade de um cruzamento ou entroncamento e, esquemàticamente, as vias que dele conduzem as localidades indicadas no sinal (figs. 63 e 64);
+
+b) Sinais de direção:
+
+1.º Placa de direção (fig. 65);
+
+2.º Seta de direção (fig. 66);
+
+3.º Sinais de identificação:
+
+1.º Estrada (figs. 68 e 69);
+
+2.º Localidade (fig. 70);
+
+3.º Curso de água (fig. 71).
+
+Os sinais de direção servirão para indicar a via que dá acesso a determinada localidade e poderão também ser colocados nas proximidades de locais de interesse turístico (fig. 67). Neste caso, a palavra que indique a natureza da informação será acrescida de um símbolo.
+
+2. Os sinais de pré-aviso terão forma rectangular, serão de cor branca com as letras pintadas a preto, e estarão colocados a uma distância de 100 a 250 m do cruzamento ou entroncamento a que se referem, excepto nas auto-estradas, em que essa distância poderá atingir 500 m.
+
+Os sinais de direção serão constituídos por um rectângulo branco, com o lado maior horizontal, e os números e letras pintados a preto. Quando se indiquem as distâncias, o número será inscrito a frente do nome da localidade.
+
+As setas de direcção, pontas incluídas, terão as dimensões máximas de 1,30 m × 0,40 m e mínimas de 0,80 m × 0,25 m. As setas de dimensões mínimas só poderão utilizar-se -dentro das localidades.
+
+Os sinais de identificação serão constituídos por um rectângulo branco, com o lado maior horizontal, e os números e letras pintados a preto.
+
+###### Artigo 7.º — Sinais de informação
+
+Os sinais de informação (quadro n.º 5) são os seguintes:
+
+a) Parque autorizado (fig. 72);
+
+b) Parque de automóveis de aluguer (fig. 73);
+
+c) Hospital (fig. 74);
+
+d) Posto de primeiros socorros (fis. 75);
+
+e) Estação de serviço ou oficinas (fig. 76);
+
+f) Telefone (fig. 77);
+
+g) Posto de abastecimento de combustível (fig. 78).
+
+Os sinais referidos nas alíneas a), b) e c) serão constituídos por um quadrado, cujo lado não será inferior a 40 cm. O quadrado será de cor azul e as letras de cor branca.
+
+Os sinais referidos nas alíneas d), e), f) e g) serão rectangulares e terão o lado menor horizontal. Os sinais serão de cor azul, com as figuras a preto sobre fundo branco. Exceptua-se o sinal referido na alínea d), cuja figura será pintada a vermelho.
+
+O lado do quadrado inscrito no rectângulo nunca será inferior a 30 cm.
+
+#### Secção V — Sinais marcados no pavimento
+
+###### Artigo 8.º
+
+1. No pavimento das faixas de rodagem podem ser traçadas linhas de demarcação destinadas a indicar aos condutores a posição do veículo mais conveniente à segurança e ao bom ordenamento do trânsito, a existência de passagens para peões ou a forma como deve fazer-se o estacionamento dos veículos.
+
+2. Quando um condutor transite por uma via cuja faixa de rodagem se encontre dividida longitudinalmente por uma linha de demarcação contínua, deve manter-se sempre na parte situada à direita daquela linha, não devendo ultrapassá-la mesmo para a realização de qualquer manobra.
+
+Quando a linha de demarcação for descontínua, o condutor deve conservar-se na parte da faixa de rodagem situada à direita desta, só podendo ultrapassá-la para efectuar manobras que de outro modo não possa realizar.
+
+O contraventor incorrerá no disposto nos artigos 5.º, n.º 6, e 61.º do Código da Estrada.
+
+#### Secção VI — Sinais dos condutores
+
+###### Artigo 9.º — Disposição geral
+
+Os sinais dos condutores (quadro n.º 6) devem ser feitos com a necessária antecipação, por forma bem visível e a não deixarem dúvidas aos demais utentes das vias ou aos agentes reguladores do trânsito sobre o seu significado.
+
+###### Artigo 10.º — Sinais para o restante tráfego
+
+1. Os sinais dos condutores, quando se dirijam aos condutores dos outros veículos ou dos animais, serão feitos de acordo com as alíneas seguintes:
+
+a) Afrouxe: estende-se horizontalmente o braço esquerdo com a palma da mão voltada para o solo e faz-se oscilar lentamente, repetidas vezes, no plano vertical, de cima para baixo (figs. 79 e 80);
+
+b) Pode ultrapassar-me: estende-se horizontalmente o braço esquerdo e, inclinando-o para o solo, com a palma da mão para a frente, move-se repetidas vezes de trás para diante e de diante para trás (figs. 81 e 82);
+
+c) Pare: estende-se horizontalmente o braço esquerdo com a palma da mão voltada para trás (figs. 83 e 84);
+
+d) Vou voltar para o lado esquerdo: estende-se horizontalmente o braço esquerdo com a palma da mão voltada para a frente (fig. 86);
+
+e) Vou voltar para o lado direito: estende-se horizontalmente o braço direito com a palma da mão voltada para a frente (fig. 87).
+
+O sinal referido na alínea b) é facultativo.
+
+2. Sempre que se trate de automóveis ligeiros ou pesados, os sinais a que se referem as alíneas a), b) e c) do número anterior serão feitos com o braço do lado do volante (figs. 79, 81 e 83). Os condutores destes veículos farão os sinais previstos nas alíneas d) e e) por meio dos indicadores luminosos de direcção a que se refere o n.º 5 do artigo 30.º do Código da Estrada e, em caso de avaria destes, da forma seguinte:
+
+a) Vou voltar para o lado do volante: estende-se horizontalmente o braço do lado do volante, com a palma da mão voltada para a frente (fig. 85);
+
+b) Vou voltar para o lado oposto ao do volante: ergue-se o braço do lado do volante, fazendo-o oscilar da direita para a esquerda e da esquerda para a direita, com a mão inclinada para o lado oposto ao do volante (fig. 88).
+
+Nestes veículos os sinais de afrouxar e de paragem podem ser dados apenas pelo aparelho luminoso a que se refere o n.º 4 do artigo 30.º do Código da Estrada.
+
+###### Artigo 11.º — Sinais para os agentes reguladores do trânsito
+
+1. Nos locais em que o trânsito seja dirigido por agentes da autoridade, os condutores deverão indicar-lhes pela forma seguinte o caminho que pretendem tomar:
+
+a) Sigo em frente: braço direito estendido para a frente (fig. 89);
+
+b) Vou voltar para o lado esquerdo: braço estendido apontado para a esquerda (fig. 90);
+
+c) Vou voltar para o lado direito: braço estendido apontado para a direita (fig. 91).
+
+2. Sempre que se trate de automóveis ligeiros ou pesados, os sinais a que se refere o número anterior serão feitos do seguinte modo:
+
+a) Sigo em frente: o condutor estenderá o braço do lado oposto ao do volante e colocará a mão verticalmente no pára-brisas (fig. 92) ;
+
+b) Vou voltar para o lado esquerdo: o sinal será feito por meio do indicador luminoso de direcção, ou, no caso de avaria deste, com o braço esquerdo estendido horizontalmente (fig. 93); neste caso, a mão apoiar-se-á sobre a parte superior esquerda do pára-brisas, se o volante for à direita;
+
+c) Vou voltar para o lado direito: o sinal será feito por meio do indicador luminoso de direcção ou, no caso de avaria deste, com o braço direito estendido horizontalmente; neste caso, a mão apoiar-se-á sobre a parte superior direita do pára-brisas, se o volante for à esquerda (fig. 94).
+
+### Capítulo II — Parques de estacionamento
+
+###### Artigo 12.º
+
+1. O tempo de estacionamento a que se refere o n.º 4 do artigo 25.º do Código da Estrada nunca será inferior a 24 horas, contadas entre as 2 horas de um dia e as 2 horas do dia seguinte, cobrando-se por cada período uma única taxa, que dará direito a utilizar todos os parques existentes na mesma localidade.
+
+2. O estabelecimento de parques de estacionamento em terrenos do domínio privado carece de autorização da Direcção-Geral de Transportes Terrestres. O requerimento em que a mesma for pedida será acompanhado duma planta indicativa da localização do parque, seus limites e ligações com a via pública, e indicará o número de veículos a que o mesmo se destina, a respectiva distribuição, as normas de acesso e saída e a taxa que o proprietário se propõe cobrar pelo estacionamento. A Direcção-Geral de Transportes Terrestres só poderá autorizar o estabelecimento dos parques que ofereçam aos usuários condições mínimas de segurança e comodidade e não sejam susceptíveis de causar embaraços ao trânsito nas vias públicas.
+
+O terreno dos parques deverá oferecer condições razoáveis ao trânsito dos veículos e assegurar o escoamento das águas das chuvas. A ligação dos parques com as vias públicas será da conta dos respectivos proprietários e deverá ser feita por forma a evitar que a entrada ou saída dos veículos cause embaraço ao trânsito e que o escoamento das águas das valetas seja prejudicado.
+
+Nos dias em que haja elevada concentração de veículos o parque será guardado. Os guardas trarão uma braçadeira com a palavra «guarda», competindo-lhes cobrar as taxas devidas pelo estacionamento e orientar o arrumo dos veículos.
+
+A contravenção do disposto neste número envolve o cancelamento da autorização concedida.
+
+### Capítulo III — Veículos automóveis e reboques
+
+#### Secção I — Disposições gerais
+
+###### Artigo 13.º — Aprovação de marcas e modelos
+
+1. Salvo os casos especiais devidamente autorizados pela Direcção-Geral de Transportes Terrestres, os interessados entregarão na mesma Direcção-Geral, para cumprimento do preceituado no n.º 10 do artigo 27.º do Código da Estrada, catálogos iguais aos distribuídos no país de origem, dos quais constem todos os elementos de ordem técnica dos veículos. Acompanharão os referidos catálogos desenhos cotados e à escala, representando, pelo menos, o alçado lateral e a planta dos veículos, bem como quaisquer outros elementos que a Direcção-Geral de Transportes Terrestres considere indispensáveis.
+
+Dos desenhos referentes aos veículos importados em quadro deverá constar sempre o comprimento máximo da caixa ou o espaço carroçável, quer o veículo se destine ao transporte de mercadorias quer ao de passageiros.
+
+A. Direcção-Geral de Transportes Terrestres fixará o número de catálogos e desenhos a entregar, bem como as condições a que deverá obedecer a documentação a apresentar pelos requerentes.
+
+2. Nenhum veículo automóvel ou reboque poderá ser matriculado antes de aprovadas as respectivas marcas e modelos pela Direcção-Geral de Transportes Terrestres, excepção feita ao veículo destinado a inspecção necessária para tal fim.
+
+3. A. Direcção-Geral de Transportes Terrestres fixará as condições em que, para os fins indicados neste artigo, os veículos deverão ser presentes a inspecção.
+
+###### Artigo 14.º — Lotação e peso bruto
+
+1. A Direcção-Geral de Transportes Terrestres determinará, no acto da aprovação das marcas e modelos, a lotação, o peso bruto e as demais características dos veículos automóveis e reboques.
+
+Por lotação compreender-se-á o número de pessoas que o veículo pode transportar, incluindo o condutor. Por peso bruto compreender-se-á o conjunto da tara e da carga que o veículo pode transportar.
+
+2. A lotação dos automóveis ligeiros para o transporte de passageiros que não possuam lugares individuais será fixada de harmonia com as dimensões dos respetivos bancos, nos termos seguintes:
+
+a) No banco da frente só haverá dois lugares ao lado do condutor se o plano que passa pelo eixo do volante de direcção, paralelamente ao eixo longitudinal do veículo, distar, pelo menos, 30 cm da porta mais próximo e 1 m ou 1,10 m da outra, medidos a meia altura das costas do banco, conforme a alavanca das mudanças de velocidades estiver ou não situada na coluna do volante ou no painel fronteiro ao condutor, e desde que de tal não resultem para este dificuldades na utilização do travão de estacionamento;
+
+b) No banco da retaguarda a cada passageiro corresponderá um espaço mínimo de 40 cm da largura do assento; pode, no entanto, o mesmo comportar três ou quatro lugares, quando a largura da almofada não seja inferior a 1,15 m, ou 1,55 m, respectivamente, e existam nos seus extremos apoios para os braços ou quaisquer dispositivos semelhantes;
+
+c) Os bancos móveis só poderão comportar três lugares quando se justaponham sem descontinuidade do assento e perfaçam a largura total mínima de 1,20 m.
+
+3. A lotação dos automóveis pesados de passageiros e dos automóveis mistos será fixada de harmonia com o projecto apresentado pelos interessados, nos termos do n.º 2 do artigo 20.º, tendo em atenção o peso bruto fixado para o veículo e as disposições aplicáveis dos artigos 20.º, 23.º, 24.º, 25.º e 30.º do presente regulamento. Para este efeito atribuir-se-á a cada lugar o peso de 80, 70 ou 40 kg, conforme o veículo se destine, respectivamente, ao transporte de passageiros com ou sem bagagem ou ao transporte exclusivo de crianças em idade escolar.
+
+A lotação que for fixada na inspecção inicial não pode sofrer alteração, salvo se os veículos tiverem sido submetidos a reparações ou a alterações que a justifiquem. Carecem, porém, os respectivos projectos de prévia aprovação da Direcção-Geral de Transportes Terrestres.
+
+4. A lotação dos motociclos será fixada nos termos seguintes:
+
+a) Os motociclos com motor de cilindrada inferior a 120 cm3 terão apenas o lugar para o condutor;
+
+b) Os motociclos com motor de cilindrada igual ou superior a 120 cm3 terão a lotação que for indicada pelo construtor na documentação a que se refere o artigo antecedente, desde que o motor desenvolva a potência necessária para fazer arrancar o veículo carregado em rampas de declive não inferior a 9 por cento.
+
+5. A lotação das cabinas dos automóveis pesados ou dos automóveis ligeiros destinados ao transporte de mercadorias será fixada de harmonia com as dimensões dos respectivos bancos, nos termos seguintes:
+
+a) No banco da frente só poderá haver dois lugares ao lado do do condutor se o plano que passa pelo eixo do volante de direcção, paralelamente ao eixo longitudinal do veículo, distar, pelo menos, 30 cm da porta mais próxima e 1,10 m ou 1,30 m da outra, conforme a alavanca das mudanças de velocidades estiver ou não situada na coluna do volante ou no painel fronteiro ao condutor, e desde que de tal não resultem para este dificuldades na utilização do travão de estacionamento;
+
+b) Nos bancos à retaguarda do do condutor, se os houver, a cada passageiro corresponderá um espaço mínimo de 40 cm da largura do assento.
+
+6. O peso bruto dos veículos automóveis e reboques será o que for indicado pelo construtor na documentação a que se refere o artigo 13.º, desde que se verifiquem as limitações impostas no Código da Estrada e no presente regulamento.
+
+No caso de ser ultrapassada qualquer limitação será o peso bruto reduzido para o valor conveniente.
+
+O peso bruto a rebocar pelos tractores agrícolas será fixado pela Direcção-Geral de Transportes Terrestres em função da cilindrada dos respectivos motores.
+
+7. O peso bruto dos automóveis de carga resultantes da transformação para este transporte dos automóveis ligeiros de passageiros será o que for fixado pela Direcção-Geral de Transportes Terrestres para o respectivo modelo, tendo em atenção a lotação máxima para que o veículo foi construído ou, quando não seja possível identificar convenientemente o quadro, a lotação do veículo antes da transformação. Em qualquer dos casos, computar-se-á à razão de 80 kg por cada lugar o valor da carga útil correspondente à lotação de passageiros.
+
+#### Secção II — Órgãos e acessórios
+
+###### Artigo 15.º — Quadros
+
+1. Quadro de um veículo automóvel é a parte do veículo susceptível de transitar que não inclua qualquer adaptação para efeitos de transporte.
+
+2. Quando o quadro tenha de ser acrescentado à retaguarda, deve o aumento fazer-se com material metálico apropriado e sem prejuízo das boas condições de resistência, segurança e equilíbrio do veículo.
+
+Salvo o disposto neste número e o corte da extremidade das longarinas, não será autorizada qualquer modificação do quadro que respeite à sua estrutura e dimensões.
+
+A contravenção do disposto neste número será punida com a multa de 1.000$.
+
+###### Artigo 16.º — Motores
+
+1. O dispositivo a que se refere o n.º 2 do artigo 29.º do Código da Estrada considera-se em bom estado de funcionamento sempre que a intensidade dos ruídos de escape, medida a 10 m do extremo do tubo com o motor acelerado ao máximo, não exceda 95 fons.
+
+O tubo de escape deve estar dirigido para a retaguarda ou para a esquerda, devendo nos automóveis de passageiros ser prolongado até à extremidade da caixa.
+
+O silencioso e o tubo de escape devem estar afastados, pelo menos, 10 cm de qualquer material combustível.
+
+Nos automóveis empregados exclusivamente no transporte de explosivos ou de combustíveis líquidos o tubo de escape deve estar dirigido para a esquerda, sob a cabina do condutor, e ter a extremidade protegida por um guarda-chamas.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+2. É vedada a utilização de combustíveis diferentes dos mencionados nos respectivos livretes, bem como o uso de misturas de combustíveis.
+
+A contravenção do disposto neste número será punida com a multa de 5.000$.
+
+3. Quando num veículo automóvel se verificar a substituição do respectivo motor por outro de marca ou combustível diferente, alterar-se-á, na matrícula, a característica marca e acrescentar-se-á a palavra «reconstruído».
+
+4. Os modelos dos motores de substituição carecem de prévia aprovação da Direcção-Geral de Transportes Terrestres, para o que os interessados deverão entregar, na mesma Direcção-Geral, com o respectivo requerimento, catálogos de que constem todas as características dos motores, diagramas relativos a potência, binário motor e consumo e, bem assim, quaisquer outros elementos que forem considerados indispensáveis.
+
+A Direcção-Geral de Transportes Terrestres fixará o número de catálogos a entregar, bem como as condições a que deverá obedecer a documentação a apresentar pelos requerentes.
+
+5. Por cada motor inspeccionado e registado pelas direções de viação, nos termos do n.º 4 do artigo 29.º do Código da Estrada, será passada uma ficha, de modelo anexo a este regulamento, que deverá acompanhar o livrete do veículo, sempre que seja utilizado o motor de substituição.
+
+A contravenção do disposto neste número será punida com a multa de 40$. Se dentro de oito dias a ficha não for presente à autoridade indicada ao transgressor, a multa será elevada para 200$.
+
+6. A instalação nos motores dos veículos automóveis de aparelhos destinados a alterar qualquer das suas características regulamentares só poderá fazer-se depois de os respectivos modelos terem sido aprovados pela Direcção-Geral de Transportes Terrestres, que indicará a documentação a entregar para tal fim e as condições a que a mesma deverá obedecer.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+###### Artigo 17.º — Iluminação
+
+1. As luzes a que se refere o artigo 30.º do Código da Estrada devem obedecer à convenção de cores, possuir as correspondentes tonalidades bem definidas e uniformes, ser emitidas por dispositivos luminosos bem regulados e limpos e, exceptuados os máximos, não ter intensidade susceptível de causar encandeamento. A coloração, quando, exigida, não deverá resultar de pintura ou aplicações superficiais, mas estar impregnada nos elementos transparentes ou translúcidos.
+
+A orientação das luzes deve ser horizontal, com exceção dos médios e dos casos especialmente autorizados pela Direcção-Geral de Transportes Terrestres.
+
+2. Cada dispositivo luminoso poderá emitir mais do que uma luz regulamentar, desde que todas as luzes sejam distintas. Os reflectores poderão estar incorporados nos dispositivos da luz vermelha.
+
+3. As luzes simétricas serão da mesma cor e de igual intensidade.
+
+4. As luzes a que se referem os n.os 1 e 6 do artigo 30.º do Código da Estrada devem estar colocadas, à frente, a uma altura do solo não superior a 1,55 m e, à retaguarda, a uma altura do solo compreendida entre 40 cm e 1,90 m e, em qualquer dos casos, nunca a mais de 40 cm dos bordos que limitam as dimensões máximas do veículo, salvo o disposto no n.º 7 do referido artigo.
+
+Os mínimos dos automóveis ligeiros e pesados não podem em caso algum estar colocados a menos de 30 cm do plano longitudinal de simetria do veículo.
+
+5. As luzes a que se refere a alínea b) do n.º 2 do artigo 30.º do Código da Estrada devem estar colocadas a uma altura do solo compreendida entre 60 cm e 1,20 m e a sua montagem deve ser feita por forma a permitir uma regulação fácil, rápida e segura. Esta será feita com o veículo totalmente carregado, na base do peso bruto ou da lotação constantes do respectivo livrete. Estas luzes consideram-se bem reguladas e não susceptíveis de encandear quando, incidindo sobre um alvo colocado em frente e à distância de 10 m, a zona de transição entre a parte directamente iluminada e a não iluminada ficar a uma altura máxima igual a 2/3 da altura do farol acima do solo.
+
+6. Nos automóveis ligeiros e pesados os reflectores da retaguarda serão colocados verticalmente a uma altura do solo compreendida entre 40 cm e 1,20 m e a uma distância nunca superior a 40 cm dos bordos que limitam as dimensões máximas do veículo, nem inferior a 30 cm do seu plano longitudinal de simetria.
+
+Os reflectores que se destinem a assinalar a parte posterior dos painéis laterais dos automóveis pesados serão colocados a uma altura do solo compreendida entre 40 cm e 1,20 m e a uma distância nunca superior a 40 cm do bordo posterior do veículo.
+
+Nos motociclos com carro à retaguarda, além da luz vermelha a que se refere o n.º 1 do artigo 30.º do Código da Estrada, serão colocados dois reflectores ,da mesma cor, um de cada lado do carro.
+
+7. Os reflectores dos reboques e semi-reboques, de qualquer· dos modelos anexos ao presente regulamento (quadro n.º 8), serão colocados com um dos vértices para cima e o lado oposto horizontal e deverão obedecer ao disposto no número anterior para os dos automóveis.
+
+8. O sinal de travagem a que se refere o n.º 4 do artigo 30.º do Código da Estrada será constituído por uma ou duas luzes de cor vermelha ou alaranjada colocadas à retaguarda, a uma altura do solo compreendida entre 40 cm e 1,55 m. Quando o sinal for constituído por duas luzes, estas serão colocadas simetricamente, em relação ao plano longitudinal de simetria do veículo.
+
+9. Os indicadores de mudança de direcção a que se refere o n.º 5 do artigo 30.º do Código da Estrada poderão ser de qualquer dos seguintes tipos:
+
+a) Dois braços móveis com o comprimento mínimo de 15 cm, dotados de luz contínua alaranjada e colocados, um de cada lado do veículo, a uma altura do solo compreendida entre 50 cm e 1,90 m;
+
+b) Duas luzes intermitentes de cor branca ou alaranjada, para a frente, e vermelha ou alaranjada, para a retaguarda, colocadas, uma de cada lado do veículo, a uma altura do solo compreendida entre 50 cm e 1,90 m;
+
+c) Duas luzes intermitentes de cor branca ou alaranjada, para a frente, e duas luzes intermitentes de cor vermelha ou alaranjada, para a retaguarda, em qualquer dos casos a uma altura do solo compreendida entre 40 cm e 1,90 m e a uma distância mínima de 30 cm do plano longitudinal de simetria do veículo.
+
+10. As luzes de instalação facultativa devem ser colocadas ao mesmo nível ou em nível inferior ao das luzes regulamentares que lhes correspondem.
+
+11. As lanternas de iluminação das chapas de matrícula da retaguarda, bem como do sinal de reboque, serão colocadas de modo a iluminarem unicamente essas chapas.
+
+12. As medidas indicadas nos números anteriores para a colocação dos dispositivos luminosos não incluem o diâmetro dos vidros, com excepção das que se referem às alturas máximas.
+
+13. A contravenção do disposto neste artigo será punida com a multa de 200$ ou de 100$, consoante se trate, respectivamente, de luzes ou de reflectores.
+
+###### Artigo 18.º — Travões
+
+Os travões dos veículos automóveis devem ter a eficiência bastante para, rodando o veículo em patamar a velocidade de V km por hora, o imobilizarem nas condições seguintes:
+
+a) O travão de serviço deve fazer parar o veículo numa distância máxima de V(elevado a 2)/100 m;
+
+b) O travão de estacionamento deve fazer parar o veículo numa distância máxima de V(elevado a 2)/50 m.
+
+A contravenção do disposto neste artigo será punida com a multa de 500$, ficando o veículo impedido de transitar até ser aprovado e inspecção.
+
+###### Artigo 19.º — Rodados
+
+1. Quando o número de rodados for de três, um à frente e dois à retaguarda, considerar-se-á como distância entre eixos a distância entre o eixo do primeiro rodado e o meio dos eixos dos rodados da retaguarda.
+
+Havendo dois rodados à frente e um à retaguarda, a distância entre eixos será a distância entre o eixo do primeiro rodado e o da retaguarda.
+
+Se o número de rodados for de quatro, dois à frente e dois À retaguarda, será considerada como distância entre eixos a distância entre o primeiro eixo da frente e o meio dos dois eixos da retaguarda.	.
+
+2. O peso bruto que incide sobre o rodado dianteiro não poderá ser inferior a 20 por cento ou 15 por cento do peso bruto total, conforme os veículos tiverem à retaguarda, respectivamente, um ou mais eixos.
+
+3. Ao requererem a aprovação dos modelos de pneumáticos os respectivos fabricantes, seus representantes ou importadores fornecerão à Direcção-Geral de Transportes Terrestres tabelas donde constem as características que sirvam para a perfeita identificação dos vários tipos e modelos e para a fixação do peso que podem suportar e ainda quaisquer outros elementos que a mesma Direcção-Geral considere indispensáveis.
+
+A Direcção-Geral de Transportes Terrestres fixará o número de tabelas necessárias assim como as condições a que deverá obedecer a documentação a apresentar pelos requerentes.
+
+###### Artigo 20.º — Caixas
+
+1. Caixa é a parte do veículo colocada sobre o quadro paira alojamento das pessoas ou das mercadorias a cujo transporte o mesmo se destina.
+
+2. Com excepção das caixas de tipo aberto destinadas a automóveis pesados de carga ou a reboques, nenhuma caixa poderá ser construída sem que o respectivo projecto tenha sido previamente aprovado pela Direcção-Geral de Transportes Terrestres.
+
+Para esse fim deverão os interessados apresentar desenhos em duplicado, devidamente cotados, na escala de 1/10, representando, pelo menos, a planta e os alçados lateral e posterior da caixa a construir.
+
+Sempre que se julgue necessário poderão ser exigidos com os projectos quaisquer pormenores de construção, memória descritiva e maior número de desenhos.
+
+A contravenção do disposto no primeiro parágrafo deste número será punida com a multa de 5.000$.
+
+3. Quaisquer que sejam as dimensões das caixas dos veículos automóveis ou dos reboques não devem as mesmas prejudicar as suas boas condições de equilíbrio. Nos automóveis pesados a linha vertical que passa pelo centro de gravidade da caixa deve estar situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5 por cento da distância entre os eixos. Nos automóveis ligeiros bastará que a referida linha não fique situada à retaguarda do eixo traseiro.
+
+4. As caixas dos veículos automóveis só poderão prolongar-se para além do eixo da retaguarda até uma distância deste igual a 50 por cento da distância entre os eixos. Pode, no entanto, a Direcção-Geral de Transportes Terrestres autorizar que, nos automóveis pesados de carga de cabina avançada e nos automóveis pesados de passageiros e mistos, aquele limite seja excedido até uma distância indicada pelo construtor, e não superior a 60 por cento da distância entre eixos. Quanto aos automóveis pesados de passageiros e mistos, esta autorização só pode, porém, ser dada desde que o veículo se possa inscrever na curva de menor raio que pode descrever, considerando a caixa prolongada para a retaguarda apenas em 50 por cento da distância entre eixos.
+
+Em qualquer caso, a caixa não poderá exceder em mais de 60 cm o comprimento das longarinas de ferro. A distância entre o eixo traseiro e a vertical que passa pelas costas do último banco não pode exceder 55 por cento da distância entre os eixos do veículo.
+
+5. Nos automóveis destinados ao transporte simultâneo de carga e passageiros o comprimento do leito da caixa reservado ao transporte das mercadorias não poderá ser inferior a 40 por cento da distância entre eixos.
+
+6. Nos automóveis de carga e reboques, de caixa aberta, os taipais não podem ter altura inferior a 45 cm e, quando abertos, devem ficar perpendiculares ao solo.
+
+A contravenção do disposto neste número será punida com a multa de 200$.
+
+7. A altura interior das caixas fechadas dos automóveis pesados empregados no transporte particular de passageiros, bem como dos veículos dos tipos ambulância e funerário, não poderá ser inferior, respectivamente, a 1,60 m, 1,20 m e 1,30 m. Nos automóveis ligeiros do tipo misto esta altura não poderá ser inferior a 1,15 m, sendo 90 cm do tecto ao assento e 25 cm do assento ao leito da caixa.
+
+8. As caixas fechadas dos automóveis pesados destinados ao transporte de passageiros e, bem assim, as dos veículos dos tipos ambulância, funerário e transporte de carnes deverão ser dotadas de ventiladores.
+
+As caixas fechadas dos automóveis pesados destinados ao transporte de passageiros deverão ser estanques ao vento e à chuva.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+9. O leito das caixas não deverá apresentar saliências que prejudiquem a comodidade dos passageiros.
+
+10. O orifício de enchimento do reservatório do combustível deve ficar situado no exterior da caixa e, nos automóveis pesados, do lado direito.
+
+11. Não poderão ser aprovadas caixas para veículos do tipo misto quando os automóveis tenham a coluna de direção do lado direito, salvo se for aberta uma porta no painel direito, à retaguarda da do condutor.
+
+12. Salvo os casos especiais autorizados pelo Ministro das Comunicações, os automóveis pesados para o transporte de mercadorias devem ser pintados em qualquer das seguintes cores, sem brilho: cinzento-escuro, verde-azeitona, ou terra-de-siena-queimada.
+
+Nestes veículos os reclamos ou dísticos indicadores da propriedade ou utilização só poderão ser inscritos em placas amovíveis.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+###### Artigo 21.º — Portas e janelas
+
+1. As portas e as janelas dos automóveis e dos reboques devem ser perfeitamente estanques ao vento e à chuva.
+
+2. Nas janelas e nas portas só poderão empregar-se vidros inquebráveis ou inestilhaçáveis ou material plástico.
+
+O material plástico só poderá ser utilizado quando incolor, perfeitamente transparente e desde que não seja inflamável a uma temperatura inferior a 300 ºC.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+3. Todas as portas devem ser munidas de fecho com punhos no interior e no exterior, bem visíveis, de fácil alcance e rápido manejo.
+
+As portas de correr ou de dobrar só serão permitidas desde que facilmente manobráveis e de perfeita segurança.
+
+As portas comandadas por sistema eléctrico ou pneumático devem ter um dispositivo que permita a sua abertura em caso de avaria do sistema.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+4. Nos automóveis ligeiros de passageiros devem existir portas dum e doutro lado da caixa.
+
+5. Nos automóveis pesados destinados ao transporte de passageiros e misto a largura mínima dos vãos das portas de entrada e saída dos passageiros será de 80 cm e a sua altura de 1,70 m.
+
+A altura acima do solo do primeiro degrau de acesso ao interior da caixa não poderá exceder 45 cm estando o veículo vazio. A altura de quaisquer outros degraus que o veículo tenha não poderá ser superior a 30 cm.
+
+Sempre que for julgado necessário serão os veículos munidos de dispositivos destinados a auxiliar a subida e descida dos passageiros, deixando-se, porém, um espaço livre para a entrada e saída destes, não inferior a 60 cm.
+
+Nos automóveis destinados exclusivamente ao transporte de crianças haverá uma única porta para a entrada e saída destas, situada à direita do condutor e pelo mesmo comandada do seu lugar. A parte inferior desta porta será feita com material que permita ao condutor ver do seu lugar, através dela, o pavimento da via em que transita.
+
+6. Nos automóveis a que se refere o número anterior haverá pelo menos uma saída a utilizar em caso de emergência. Esta saída será de fácil acesso e estará dotada de uma porta com fecho de segurança, abrindo para o exterior, de preferência no sentido oposto ao da marcha. A largura mínima desta porta será de 65 cm e a sua altura de 1,40 m. Por cima da porta e a toda a sua largura será aposta, em letras de altura não inferior a 3 cm, a indicação «Abrir só em caso de emergência».
+
+Nos automóveis pesados empregados exclusivamente no transporte de crianças em idade escolar a porta de emergência será colocada na parte posterior do painel esquerdo.
+
+Além da porta de emergência, estes veículos só poderão ter, no painel esquerdo, uma porta com as mesmas dimensões mínimas, destinada á entrada e saída do condutor.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+7. Os automóveis pesados de caixa fechada destinados ao transporte de mercadorias terão no painel direito ou à retaguarda as portas destinadas a carga e descarga.
+
+No painel esquerdo só poderá haver a porta destinada a entrada e saída do condutor, excepção feita aos veículos destinados ao transporte de carnes.
+
+As portas laterais destinadas à carga e descarga, quando abertas, devem poder fixar-se ao painel onde estão colocadas.
+
+As portas da retaguarda, quando abertas, não poderão ultrapassar a largura máxima do veículo.
+
+A largura mínima da porta destinada ao acesso ao lugar do condutor será de 65 em, medidos a meia altura da porta.
+
+A contravenção do disposto neste número será punida com a multa de 100$.
+
+8. Nos automóveis pesados de passageiros e mistos de caixa fechada a cada banco deverá, sempre que possível, corresponder uma janela. As janelas serão de abrir e deverão ser providas de cortinas e de dispositivos destinados a evitar que os passageiros se debrucem.
+
+A contravenção do disposto neste número será punida com a multa de 100$.
+
+9. A janela da retaguarda dos automóveis pesados pode ser fixa e deve ter as dimensões mínimas de 70 cm × 30 cm nos destinados ao transporte de passageiros e de 50 cm × 25 cm nos destinados ao transporte de mercadorias.
+
+###### Artigo 22.º — Pára-brisas
+
+1. Os pára-brisas dos automóveis ligeiros e pesados serão constituídos por vidros inquebráveis ou inestilhaçáveis, não susceptíveis de provocar deformações dos objectos vistos por transparência.	.
+
+A contravenção do disposto neste número será punida com a multa de 500$.
+
+2. O vidro do pára-brisas dos automóveis pesados terá uma altura não inferior a 40 cm, devendo permitir ao condutor ver o pavimento da via a uma distância mínima de 3,50 m, contados a partir do plano vertical que passa pela frente do veículo.
+
+Nestes veículos os pilares laterais do pára-brisas, conjuntamente com os caixilhos que neles se apoiam, devem ser construídos por forma a não cortarem a visibilidade do condutor numa largura superior a 11 cm, medida a meia altura do pilar.
+
+3. Os pára-brisas deverão ter a inclinação necessária para que a iluminação interior dos veículos, neles se refletindo, não prejudique a visibilidade do condutor.
+
+Os pára-brisas devem possuir um dispositivo destinado a impedir o encandeamento do condutor pela luz do sol, bem como um limpador automático cuja superfície de acção seja suficiente para que o condutor possa ver através dela a via em que transita.
+
+A contravenção do disposto neste número será punida com a multa de 100$.
+
+###### Artigo 23.º — Lugar do condutor
+
+1. O lugar do condutor deve estar colocado por forma a permitir que este disponha de visibilidade e maneje e todos os comandos com facilidade e sem prejuízo da vigilância contínua do caminho.
+
+O banco do condutor será estofado e poderá ter posição regulável.
+
+2. Nos automóveis pesados devem observar-se as seguintes distâncias mínimas na colocação do banco do condutor:
+
+a) 95 cm entre os pedais da união de engate e do travão e o meio da altura das costas do banco;
+
+b) 95 cm entre a parte mais elevada do assento e o tecto do veículo;
+
+c) 32 cm entre o ponto mais recuado do volante de direcção e as costas do banco;
+
+d) 20 cm entre o bordo inferior do aro do volante de direcção e o plano horizontal que passa pelo ponto mais elevado do assento.
+
+3. Com excepção dos tractores agrícolas e dos veículos destinados a limpeza urbana ou pronto-socorro, os tractores e os automóveis destinados ao transporte de mercadorias e de passageiros devem ter cabinas para resguardar devidamente o lugar do condutor, sempre que este lugar não esteja situado no interior da caixa do veículo.
+
+As cabinas serão rígidas e, quando independentes das caixas, estarão afastadas destas um espaço mínimo de 3 cm.
+
+###### Artigo 24.º — Lugares dos passageiros
+
+1. Os lugares para os passageiros deverão distribuir-se no interior dos veículos por forma a assegurar a maior estabilidade e de tal modo que a resultante das forças representadas pelos pesos dos passageiros fique situada a frente do eixo traseiro e a uma distância deste não inferior a 5 por cento da distancia entre os eixos do veículo.
+
+2. Nos automóveis pesados de passageiros e nos automóveis mistos os lugares destinados aos passageiros devem ter assentos fixos, salvo nas plataformas dos automóveis pesados destinados ao transporte público em carreiras urbanas, onde podem ser transportados passageiros em pé, reservando-se para cada um o espaço mínimo de 50 cm × 30 cm.
+
+Os bancos não poderão ser fixos às portas nem colocados por forma a reduzirem o espaço livre destinado à entrada e saída dos passageiros.
+
+Os bancos colocados junto das portas não poderão ficar a uma distância destas inferior a 25 cm.
+
+O espaço mínimo entre os bancos será de 77 cm, medido entre os planos verticais que passam pela parte posterior das costas dos bancos. As dimensões mínimas da almofada do assento serão de 40 cm × 40 cm. Quando os veículos se destinem exclusivamente ao transporte de crianças em idade escolar, podem estas dimensões ser reduzidas, respectivamente, para 65 cm e 40 cm × 35 cm, sendo de 40 cm a largura do assento.
+
+3. Os bancos destinados aos passageiros serão cómodos e convenientemente estofados.
+
+Nos casos especiais em que os automóveis de mercadorias estejam autorizados a transportar pessoas podem os bancos ser desprovidos de estofo, mas necessitam de ter encosto. Neste caso os bancos, que estarão convenientemente fixos à caixa do veículo, devem ser colocados na parte da frente da mesma, sempre que não ocupem todo o seu comprimento.
+
+4. Os bancos móveis deverão ser munidos de um dispositivo apropriado que permita a sua fácil recolha ou desmontagem.
+
+5. Nos motociclos o banco destinado ao transporte do passageiro deverá ter suficiente comodidade e segurança e ser dotado de um apoio para as mãos, devendo possuir também um descanso ou estribo para os pés do passageiro.
+
+A contravenção do disposto neste número será punida com a multa de 200$.
+
+###### Artigo 25.º — Coxias
+
+As coxias situadas em frente das portas devem ter, pelo menos, 60 cm de largura. As restantes coxias não podem ter largura inferior a 36 cm, excepção feita às dos automóveis pesados empregados nas carreiras urbanas, em que esta largura não poderá ser inferior a 40 cm.
+
+###### Artigo 26.º — Acessórios
+
+1. Em todos os automóveis de carga e nos automóveis pesados de passageiros e mistos o indicador de velocidades a que se refere o n.º 1 do artigo 35.º do Código da Estrada terá assinalados com linhas vermelhas bem distintas os limites de velocidade a que se refere o n.º 3 do artigo 7.º do mesmo diploma.
+
+2. O dispositivo a que se refere o n.º 3 do artigo 35.º do Código da Estrada será constituído por um gancho que possa receber uma argola com 7,62 cm de diâmetro interior e 4,12 cm de espessura.
+
+O gancho deverá ser solidamente fixado ao quadro e possuir:
+
+a) Um dispositivo de segurança que não deixe o reboque desatrelar com as trepidações da marcha;
+
+b) Uma mola amortecedora que absorva os choques provenientes das variações de velocidade;
+
+c) Resistência suficiente para rebocar, pelo menos, outro veículo do mesmo tipo;
+
+d) Um mínimo de articulação para cada lado da posição central, de 45º no plano vertical e de 60º no plano horizontal.
+
+3. A contravenção do disposto neste artigo será punida com a multa de 100$.
+
+#### Secção III — Inspecções
+
+###### Artigo 27.º
+
+1. As inspecções dos veículos automóveis e reboques serão feitas pelo pessoal técnico da Direcção-Geral de Transportes Terrestres para algum dos fins seguintes:
+
+a) Identificação dos veículos pela conferência das características regulamentares;
+
+b) Verificação das condições de segurança e sua conformidade com os requisitos exigidos pelo Código da Estrada e pelo presente regulamento;
+
+c) Exame especial a realizar por qualquer motivo de interesse público.
+
+2. As características regulamentares dos veículos automóveis são as seguintes:
+
+a) Classificação:
+
+1.ª Classe:
+
+Automóvel ligeiro.
+
+Automóvel pesado.
+
+Motociclo.
+
+2.º Tipo:
+
+Passageiros.
+
+Mercadorias.
+
+Misto (passageiros e mercadorias transportados alternada ou simultaneamente).
+
+Ambulância:
+
+Com macas.
+
+Sem macas.
+
+Sanitária.
+
+Especial para:
+
+Animais.
+
+Carnes.
+
+Cinema.
+
+Correio.
+
+Emissão de som.
+
+Filmagem.
+
+Funerário.
+
+Garrafas.
+
+Leite.
+
+Limpeza urbana.
+
+Lixo.
+
+Pronto-socorro:
+
+Para extinção de incêndios:
+
+Com bomba.
+
+Com escada.
+
+Auxiliar.
+
+Com escada.
+
+Com estrado de subir
+
+Com guindaste-tractor.
+
+Com oficina.
+
+Para rebocar.
+
+Para náufragos.
+
+Tanque.
+
+Telecomunicações.
+
+3.º Caixa:
+
+Aberta (pode ser seguida das palavras «com cobertura rígida» ou «com cobertura flexível»).
+
+Fechada (pode ser seguida das palavras «com janelas»).
+
+Transformável.
+
+Estrado.
+
+Prateleiras.
+
+Reclamo.
+
+4.º Peso bruto.
+
+5.º Peso bruto por eixo:
+
+À frente.
+
+À retaguarda.
+
+6.º Peso bruto a rebocar.
+
+7.º Tara.
+
+8.º Lotação.
+
+9.º Peso do quadro sem cabina.
+
+10.º Serviço:
+
+Particular.
+
+Público:
+
+Aluguer.
+
+Aluguer e colectivo.
+
+Urbano.
+
+Instrução.
+
+Oficial.
+
+Venda.
+
+b) Identificação:
+
+1.º Marca.
+
+2.º Modelo.
+
+3.º Número do quadro.
+
+4.º Distância entre os eixos.
+
+5.º Número de eixos.
+
+6.º Número de eixos motores.
+
+7.º Número de rodas.
+
+8.º Medida dos pneumáticos.
+
+9.º Motor:
+
+Marca.
+
+Modelo.
+
+Sistema.
+
+Número.
+
+Cilindros:
+
+Número.
+
+Diâmetro e curso.
+
+Cilindrada.
+
+Combustível.
+
+Potência.
+
+Número de rotações.
+
+Localização.
+
+10.º Situação da direcção.
+
+11.º Dimensões da caixa.
+
+12.º Gasogénio:
+
+Marca.
+
+Tipo do gerador.
+
+Número.
+
+Localização.
+
+13.º Ano.
+
+14.° Cor.
+
+15.º País de origem.
+
+16.º Data da primeira matrícula.
+
+3. As características regulamentares dos reboques são as seguintes:
+
+a) Classificação:
+
+1.ª Classe:
+
+Reboque.
+
+Semi-reboque.
+
+2.º Tipo:
+
+Carga.
+
+Campismo.
+
+Desporto. Bagagens.
+
+3.º Caixa:
+
+Aberta (pode ser seguida das palavras «com cobertura rígida» ou «com cobertura flexível»).
+
+Fechada (pode ser seguida das palavras «com janelas»).
+
+Transformável.
+
+Estrado.
+
+Prateleiras.
+
+Reclamo.
+
+4.º Peso bruto.
+
+5.º Peso bruto por eixo:
+
+À frente.
+
+À retaguarda.
+
+6.º Tara.
+
+7.º Peso do quadro.
+
+8.º Serviço:
+
+Particular.
+
+Público:
+
+Aluguer.
+
+Instrução.
+
+Oficial.
+
+Venda.
+
+b) Identificação:
+
+1.º Marca.
+
+2.º Modelo.
+
+3.º Número do quadro.
+
+4.º Distância entre os eixos.
+
+5.º Número de eixos.
+
+6.º Número de rodas.
+
+7.º Medida dos pneumáticos.
+
+8.º Dimensões da caixa.
+
+9.º Ano.
+
+10.° Cor.
+
+11.º País de origem.
+
+12.º Data da primeira matrícula.
+
+4. Com excepção dos automóveis pesados destinados ao transporte de mercadorias e reboques, de caixa aberta, nenhum veículo poderá ser inspeccionado sem que o plano da respectiva caixa tenha sido aprovado pela Direcção-Geral de Transportes Terrestres.
+
+5.º Os veículos automóveis e reboques serão inspeccionados nas sedes das direcções de viação ou nas capitais de distrito.
+
+Nas sedes das direcções de viação as inspecções realizar-se-ão diàriamente, a horas prèviamente fixadas pelos respectivos serviços.
+
+Nas capitais de distrito as inspecções efectuar-se-ão em locais, datas e horas fixados com a necessária antecedência pela direcção de viação competente.
+
+6. Excepcionalmente poderá o director-geral de Transportes Terrestres autorizar, a requerimento dos interessados, que a inspecção se realize em qualquer outra localidade por eles indicada, sendo pagas pelo requerente, além das taxas devidas, as despesas de deslocação do técnico inspector e as respectivas ajudas de custo, se a elas tiver direito.
+
+A inspecção periódica dos automóveis pesados empregados em carreiras de serviço público, nos termos do n.º 3 do artigo 36.º do Código da Estrada, quando não possa realizar-se nos lugares a que se refere o número anterior efetuar-se-á nos locais de início e termo das carreiras a cuja exploração estão adstritos.
+
+#### Secção IV — Automóveis com reboques
+
+###### Artigo 28.º
+
+1.º O sinal a que se refere o n.º 4 do artigo 35.º do Código da Estrada será constituído por um quadrado azul de 25 cm de lado, tendo inscrito um triângulo de cor amarela, de 20 cm de lado, com um dos vértices para cima e o lado oposto horizontal (quadro n.º 8).
+
+O sinal terá duas faces e será colocado por forma a poder ser retirado ou ocultado quando o veículo transite sem o reboque.
+
+A contravenção do disposto neste número será punida com a multa de 100$.
+
+2. Dos requerimentos em que for pedida autorização para transitar com mais de um reboque ou com um conjunto que exceda 14 m de comprimento, deverá constar o peso bruto a rebocar pelo veículo tractor, o peso bruto de cada um dos reboques, o número destes, o comprimento total, o sistema de travagem do conjunto e o itinerário a percorrer.
+
+#### Secção V — Disposições especiais aplicáveis aos automóveis empregados em transportes públicos de passageiros
+
+###### Artigo 29.º — Disposições comuns a automóveis ligeiros e pesados
+
+1. Os automóveis ligeiros e pesados empregados em transportes públicos de passageiros devem ter:
+
+a) Pelo menos uma roda completa de reserva em condições de imediata utilização;
+
+b) Extintores de incêndio, em condições de imediato funcionamento, colocados em locais bem visíveis e de fácil alcance; nos automóveis pesados haverá um extintor à frente e outro à retaguarda;
+
+c) Um relógio colocado à vista do condutor;
+
+d) Dois limpadores automáticos do pára-brisas;
+
+e) O ferramental e acessórios que pela Direcção-Geral de Transportes Terrestres forem julgados indispensáveis.
+
+Exceptuam-se do disposto neste número os automóveis pesados empregados em transportes urbanos, em que apenas será obrigatória a instalação dos extintores de incêndio nas condições da alínea b) e de um limpador automático do pára-brisas.
+
+As características dos extintores e demais disposições regulamentares serão fixadas pelo Conselho Nacional dos Serviços de Incêndios, competindo às inspecções dos serviços de incêndios a aprovação dos respectivos modelos.
+
+2. O interior dos veículos será forrado de pele, pergamóide ou qualquer outro material que reúna as mesmas condições de higiene e estará sempre, bem como o exterior das caixas, em perfeito estado de asseio e conservação.
+
+3. Além dos dispositivos luminosos exigidos no artigo 30.º do Código da Estrada é obrigatória a instalação no interior dos automóveis empregados no transporte público de passageiros de um sistema de iluminação, que nos automóveis pesados será permanente e deverá permitir a fácil leitura em todos os lugares, sem, no entanto, prejudicar a boa visibilidade do condutor nem encandear os condutores dos outros veículos que por ele passem.
+
+Nos automóveis ligeiros o interruptor desta luz estará ao alcance dos passageiros.
+
+A contravenção do disposto neste artigo será punida com a multa de 500$.
+
+###### Artigo 30.º — Disposições especiais aplicáveis a automóveis pesados
+
+1. Os automóveis pesados destinados ao transporte público de passageiros deverão obedecer às condições seguintes:
+
+a) Os quadros serão dos modelos especialmente construídos para esse fim, não podendo ter sido anteriormente empregados no transporte de mercadorias, e deverão ter à retaguarda um eixo com rodas duplas ou dois eixos com rodas simples; a Direcção-Geral de Transportes Terrestres poderá, porém, admitir que o rodado traseiro dos veículos com dois eixos seja simples, desde que as características dos veículos e a segurança dos pneumáticos o permitam;
+
+b) As caixas só poderão exceder a largura do rodado mais largo em 12 cm para cada lado; serão fechadas, se os veículos se destinarem a transportes colectivos, e terão ao longo da coxia central a altura mínima de 1,80 m; se os veículos se destinarem a transportes urbanos, essa altura será de 2 m, excepto se se tratar de veículos de dois pisos, que poderão ter nesse local a altura de 1,75 m;
+
+c) Os dispositivos de comando e os órgãos de direção e de segurança devem ficar fora do alcance dos passageiros;
+
+d) O comando do sinal sonoro estará colocado por forma a poder ser manejado pelo condutor sem que tenha necessidade de tirar qualquer das mãos do volante;
+
+e) O reservatório principal do combustível líquido deve estar colocado sob o quadro ou a caixa, com a parte inferior completamente livre e isolado por uma divisória metálica ou de qualquer material incombustível; quando estiver colocado a um nível superior ao do carburador, haverá na conduta situada entre este e o reservatório uma torneira disposta por forma a que o condutor a possa manobrar fàcilmente; a existência de uma torneira automática de interrupção da passagem do combustível não dispensa a presença da torneira referida nesta alínea;
+
+f) As baterias de acumuladores e os gasogénios, quando os haja, devem estar colocados fora do espago destinado ao condutor e aos passageiros e convenientemente isolados;
+
+g) As instalações eléctricas devem estar correctamente dispostas sob cabos convenientemente isolados e protegidos contra curto-circuitos.
+
+2. Salvo os casos especiais autorizados pela Direcção-Geral de Transportes Terrestres, os automóveis a que se refere este artigo terão duas portas no painel direito, uma à retaguarda para a entrada dos passageiros e outra à frente para a saída.
+
+Nos automóveis destinados à exploração de carreiras interurbanas, quando houver uma única porta, esta ficará situada a meio do painel direito e o respectivo vão não poderá ser inferior a 1 m. O espaço livre para a entrada e saída dos passageiros terá, porém, no mínimo, 80 cm.
+
+3. O lugar destinado ao condutor deve ficar separado dos passageiros e convenientemente isolado.
+
+4. Nos automóveis destinados a transportes interurbanos o lugar a que se refere o artigo 132.º do Regulamento de Transportes em Automóveis será sempre ao lado do do condutor ou o mais próximo possível dele. No banco, no lado de trás do respectivo encosto e na sua parte superior, será colocada uma chapa tendo a vermelho, sobre fundo branco, a palavra «Fiscalização». A chapa e as letras devem ter, respectivamente, as dimensões de 20 cm × 2,5 cm e 2,5 cm × 1,25 cm.
+
+5. O lugar a que se refere o artigo 198.º do Regulamento de Transportes em Automóveis poderá ficar situado na coxia, em frente da porta de entrada dos passageiros. Neste caso o banco será móvel e provido de dispositivo que permita a sua fácil recolha ou desmontagem.
+
+6. Os bancos terão um comprimento mínimo de 42 cm, medido perpendicularmente ao respectivo encosto, uma largura mínima de 43 cm e almofadas com a espessura mínima de 9 cm.
+
+A altura mínima das costas dos bancos será de 50 cm e a do assento ao leito da caixa de 40 cm. Os planos das costas dos bancos e dos respectivos assentos formarão entre si um ângulo mínimo de 94º.
+
+A distância do assento do último banco ao painel traseiro, medida no plano que passa pelas costas do banco, não poderá ser inferior a 85 cm.
+
+7. Nas lanternas existentes na parte da caixa compreendida entre as janelas e o tejadilho devem ser usados vidros inestilhaçáveis ou material plástico, incolor ou de cor devidamente aprovada pela Direcção-Geral de Transportes Terrestres.
+
+8. Para o transporte de bagagens os veículos deverão ter no interior redes ou dispositivos semelhantes, podendo para o mesmo fim os automóveis empregados em carreiras interurbanas ter também grades no tejadilho, devendo, neste caso, possuir a respectiva escada de acesso.
+
+9. Os veículos serão providos de um sinal acústico para ser usado pelos passageiros e pelo cobrador para determinarem a paragem — um toque — e o recomeço da marcha do veículo — dois toques.
+
+10. Com excepção dos veículos exclusivamente utilizados em transportes urbanos, todos os automóveis pesados destinados ao transporte público de passageiros deverão trazer uma caixa contendo:
+
+a) Medicamentos:
+
+1.º Álcool a 90º — um frasco de 250 g;
+
+2.º Soluto de mercurocromo a 2 por cento — um frasco de 50 g;
+
+3.º Pomada de peróxido de zinco — uma bisnaga;
+
+4.º Sulfanilamida em pó — uma caixa;
+
+5.º Óleo canforado a 10 por cento — uma caixa de ampolas de 5 cm3; ou
+
+Coramina — uma caixa de ampolas de 1,5 cm3
+
+b) Material de penso:
+
+1.º Algodão hidrófilo — dois pacotes;
+
+2.º Gaze esterilizada — uma caixa de compressas de 5 cm × 5 cm e uma caixa de compressas de 15 cm × 15 cm;·
+
+3.º Ligaduras de gaze — três de diferentes tamanhos;
+
+4.º Ligaduras de pano — cinco de diferentes tamanhos;
+
+5.º Adesivo — um carreto.
+
+c) Material cirúrgico:
+
+1.º Pinça de dissecção;
+
+2.º Pinça hemostática;
+
+3.º Tesoura recta;
+
+4.° Compressor hemostático para membros;
+
+5.º Seringas para injecção hipodérmica com canhão e agulhas de 20 × 5/10 e 20 × 8/10 esterilizadas e acondicionadas em invólucro apropriado — uma de 5 cm3 e outra de 3 cm3.
+
+6.º Lâmpada de álcool com tampa de atarraxar.
+
+A caixa estará colocada junto do lugar do condutor, será perfeitamente estanque e estará pintada de branco, tendo no exterior uma cruz vermelha.
+
+11. A afixação de anúncios só pode ser feita na parte imediatamente superior às janelas, no intervalo destas ou em quaisquer outros locais devidamente aprovados pela Direcção-Geral de Transportes Terrestres, que pode mandar retirar os anúncios sempre que, pelo seu deficiente estado de conservação, prejudiquem a boa apresentação do veículo.
+
+12. A contravenção do disposto nos n.os 1 a 9 e 11 será punida com a multa de 500$ e a contravenção do disposto no n.º 10 com a multa de 1.000$.
+
+#### Secção VI — Veículos automóveis destinados a instrução remunerada
+
+###### Artigo 31.º
+
+1. Só poderão ser empregados na instrução remunerada os veículos automóveis que satisfaçam as condições constantes dos números seguintes.
+
+2. Os automóveis ligeiros e pesados devem ter:
+
+a) Travão de estacionamento ao alcance do instrutor;
+
+b) Comandos duplos de direcção, de travão· de serviço, de engate e de acelerador;
+
+c) Dois espelhos retrovisores e dois limpadores automáticos do pára-brisas.
+
+3. Os automóveis ligeiros serão de caixa fechada e terão uma lotação mínima de cinco lugares.
+
+4. Os automóveis pesados de passageiros devem ser de caixa fechada e ter uma lotação mínima de vinte e oito lugares.
+
+Os automóveis pesados de carga devem ter cabina fechada, um peso bruto não inferior a 8000 kg e as dimensões mínimas, em comprimento e largura, de, respectivamente, 7 m e 2,20 m.
+
+5. Os motociclos simples devem ter cilindrada não inferior a 120 cm3 e os motociclos com carro cilindrada não inferior a 350 cm3.
+
+6. Os veículos automóveis de que trata o presente artigo devem ter à frente e à retaguarda uma chapa com a palavra «Instrução» em letras pretas sobre fundo branco. A chapa, bem como as letras, números e traços nela inscritos, e respectivos espaços terão a forma e dimensões indicadas no quadro n.º 9 anexo a este regulamento.
+
+Nos motociclos as chapas, bem como as letras nelas inscritas, e respectivos espaços terão metade das dimensões acima indicadas.
+
+7. A contravenção do disposto nos n.os 2 e 6 deste artigo será punida com a multa de 200$.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 31/75 - Diário do Governo n.º 15/1975, Série I de 1975-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/31-1975-158969), em vigor a partir de 1975-01-19.
+
+### Capítulo IV — Velocípedes
+
+###### Artigo 32.º
+
+1. A lotação dos velocípedes será expressa pelo número de pares de pedais que accionam as rodas dos mesmos.
+
+2. A intensidade dos ruídos de escape do motor auxiliar, a que se refere o n.º 3 do artigo 38.º do Código da Estrada, medida a 10 m do extremo do tubo com o motor acelerado ao máximo, não deverá exceder 95 fons.
+
+A contravenção do disposto neste número será punida com a multa de 200$.
+
+3. A carga útil de 50 kg a que se refere o n.º 11 do artigo 38.º do Código da Estrada poderá ser transportada em carro atrelado a um velocípede de duas rodas, devendo neste caso observar-se o seguinte:
+
+a) A ligação do carro ao velocípede deverá ser feita por forma a não provocar o desequilíbrio do conjunto;
+
+b) O peso bruto do carro não deverá, em caso algum, incidir total ou parcialmente sobre o velocípede; se o carro tiver um só eixo, a vertical que passa pelo respectivo centro de gravidade deverá cair sobre o eixo;
+
+c) A largura máxima do carro, incluindo a carga, não deverá exceder 70 cm;
+
+d) O carro deverá levar, no lado esquerdo da retaguarda, uma luz e um reflector de cor vermelha, sempre que não sejam visíveis os do velocípede.
+
+A contravenção do disposto neste número será punida com a multa de 100$.
+
+### Capítulo V — Matrícula dos veículos
+
+#### Secção I — Condições da matrícula
+
+###### Artigo 33.º — Disposições gerais
+
+1. Para efeitos da matrícula, os interessados apresentarão, devidamente preenchidos:
+
+a) Nas direcções de viação, os impressos referidos nas alíneas g) e h) do n.º 6 do artigo 47.º, quando se tratar da matrícula de veículos automóveis ou de reboques;
+
+b) Nas câmaras municipais, os boletins respeitantes à matrícula dos veículos de tracção animal e dos velocípedes, de modelo anexo a este regulamento.
+
+No caso da matrícula a que se refere o n.º 9 do artigo 44.º do Código da Estrada será também entregue o livrete do veículo.
+
+2. O requerimento pedindo o cancelamento da matrícula, nos termos do n.º 2 do artigo 41.º do Código da Estrada, será acompanhado do livrete do veículo. Se aquele se tiver extraviado, far-se-á menção dessa circunstância no requerimento.
+
+Verificando-se a impossibilidade de o cancelamento da matrícula ser requerido pelo proprietário do veículo, por se desconhecer o seu paradeiro, ou ser já falecido, ou por qualquer outra circunstância atendível, qualquer pessoa idónea poderá fazê-lo, desde que declare assumir a responsabilidade por todas as consequências que daí possam resultar.
+
+A Direcção-Geral de Transportes Terrestres poderá mandar cancelar a matrícula de qualquer veículo sempre que verifique, em inspecção ou em resultado de averiguações a que mande proceder, achar-se este definitivamente inutilizado, não podendo do mesmo efectuar-se nova matrícula.
+
+3. Devem ser reconhecidas por notário as assinaturas de todos os requerimentos entregues nas direcções de viação ou nas câmaras municipais para quaisquer efeitos previstos neste capítulo.
+
+###### Artigo 34.º — Matrícula dos veículos automóveis e dos reboques
+
+O número de matrícula dos veículos automóveis será constituído por um grupo de duas letras e dois grupos de dois algarismos.
+
+O número de matrícula dos reboques será constituído pelas letras P, C, L, E, A, AN, HO, correspondentes à direcção de viação que a tenha efectuado, seguidas de um número de ordem.
+
+###### Artigo 35.º — Matrícula dos veículos de tracção animal e dos velocípedes
+
+1. Os boletins de matrícula a que se refere a alínea b) do n.º 1 do artigo 33.º ficarão arquivados por ordem numérica na respectiva câmara municipal.
+
+No verso dos boletins far-se-á o averbamento dos factos que forem participados pelos proprietários, nos termos do Código da Estrada.
+
+2. A matrícula dos veículos de tracção animal exclusivamente utilizados em serviços agrícolas será solicitada em papel comum e efectuada sem qualquer encargo para os interessados.
+
+#### Secção II — Chapas de matrícula
+
+###### Artigo 36.º — Disposição geral
+
+As chapas de matrícula dos veículos automóveis, dos reboques, dos veículos de tracção animal e dos velocípedes serão constituídas por placas a colocar de modo inamovível nos veículos, quanto possível em posição vertical e por forma a não ficarem total ou parcialmente encobertas.
+
+A contravenção do disposto neste artigo será punida com a multa de 100$ ou 40$, consoante se trate, respectivamente, de veículos automóveis e reboques ou de outros veículos.
+
+###### Artigo 37.º — Chapas de matrícula dos veículos automóveis e dos reboques
+
+1. As chapas de matrícula dos veículos automóveis e reboques (quadros n.os 10 e 11) serão constituídas por placas metálicas, a colocar a uma altura do solo não inferior a 25 cm à frente e a 30 cm à retaguarda.
+
+A Direcção-Geral de Transportes Terrestres poderá autorizar, nos veículos automóveis que as possuam, a utilização de molduras especiais destinadas à aposição do número de matrícula, desde que não haja prejuízo das dimensões prescritas e da visibilidade.
+
+2. As chapas de matrícula dos veículos automóveis e dos reboques terão fundo preto e letras, algarismos e traços a branco.
+
+A forma e dimensões das chapas, bem como das letras, algarismos e traços, a espessura uniforme destes e os respectivos espaços terão as dimensões constantes dos modelos anexos ao presente regulamento.
+
+Na chapa da retaguarda dos automóveis o grupo de letras ficará na mesma linha dos grupos de algarismos se a chapa tiver as dimensões de 52 cm × 12 cm; quando a chapa tiver as dimensões de 34 cm × 23 cm, o grupo de letras ficará numa linha superior à dos grupos de algarismos.
+
+Nos motociclos a chapa da frente deverá ser colocada no plano da roda dianteira e acima desta, com o número de matrícula inscrito nos dois lados. Quando tal não for possível, haverá duas chapas, uma de cada lado do veículo, ou uma única, de forma rectangular, à frente. A chapa da retaguarda será colocada no guarda-lama da roda traseira ou, nos motociclos com carro à retaguarda, no painel traseiro do carro.
+
+3. Nas chapas de matrícula dos veículos automóveis matriculados provisoriamente, nos termos do n.º 1 do artigo 44.º do Código da Estrada, o fundo será vermelho e as letras, algarismos e traços a branco.
+
+Nas chapas de matrícula dos veículos automóveis pertencentes aos membros do corpo diplomático acreditado em Portugal o fundo será branco e as letras, algarismos e traços a vermelho.
+
+4. Quando o número de matrícula for directamente inscrito no veículo, será pintado a branco sobre um fundo preto e terá a forma e as dimensões fixadas neste artigo para a chapa de matrícula. Nos motociclos, à frente, o número será pintado dum e doutro lado do veículo.
+
+5. A contravenção do disposto neste artigo será punida com a multa de 100$.
+
+###### Artigo 38.º — Chapas de matrícula dos veículos de tracção animal e dos velocípedes
+
+O número de matrícula dos veículos de tracção animal e velocípedes será inscrito em chapas metálicas esmaltadas, pintadas ou litografadas, com o fundo em branco e as letras a preto ou vermelho, e terão a indicação do concelho respectivo (quadro n.º 12).
+
+### Capítulo VI — Condutores de veículos automóveis
+
+#### Secção I — Inspecções médico-sanitárias
+
+###### Artigo 39.º — Disposições gerais
+
+1. O examinando, ao requerer a inspecção, apresentará o seu bilhete de identidade e os impressos a que se refere o n.º 7 do artigo 47.º do presente regulamento.
+
+2. A fim de darem cumprimento ao disposto no n.º 8 do artigo 47.º do Código da Estrada, todos os condutores devem solicitar a inspecção médico-sanitária até ao dia 25 do mês anterior àquele em que deverá ter lugar a apresentação do atestado a que se refere o n.º 7. Será entregue a cada condutor, no momento de requerer a inspecção, uma guia, devidamente autenticada pela delegação, inspecção ou subdelegação de saúde competente, na qual será indicada pelos serviços respectivos a data em que a inspecção poderá realizar-se, salvo se o atestado puder ser passado nos dois dias seguintes. Esta guia justificará, até dez dias úteis depois da data nela indicada para a inspecção, a falta de renovação da carta.
+
+Proceder-se-á de forma idêntica se o condutor requerer a inspecção depois da data indicada no parágrafo antecedente, mas aquele incorrerá no pagamento de uma taxa adicional de 100$ e a guia não poderá ser entregue se a inspecção for requerida depois das 12 horas do último dia útil do mesmo mês. Sempre que a inspecção tenha sido requerida entre o dia 25 e as 12 horas do último dia útil do mês haverá lugar à passagem da guia, mesmo que exista a possibilidade de o atestado ser entregue nos dois dias seguintes.
+
+3. Aplicar-se-á o disposto no número anterior às inspeções periódicas previstas no presente regulamento para a execução do estabelecido no n.º 4 do artigo 50.º do Código da Estrada.
+
+4. Sempre que o interessado declarar ter sido já reprovado em inspecção anterior terá de ser sujeito a junta médica, requerida à Direcção-Geral de Saúde, a qual se fará comunicação do facto, indicando-se a delegação, inspecção ou subdelegação de saúde que o reprovou.	.
+
+5. A cada inspecção corresponderá um boletim do modelo anexo a este regulamento, o qual servirá de base à passagem do atestado.
+
+6. Quando o médico examinador tiver dúvidas sobre a aptidão física ou psíquica do candidato, deverá propor à Direcção-Geral de Saúde a sua apresentação a junta médica.
+
+Com a proposta será sempre enviado um duplicado do boletim de inspecção a que se refere o número anterior.
+
+Nos distritos de Lisboa e Porto a proposta será feita directamente ao delegado de saúde e nos do Funchal e Ponta Delgada ao inspector de saúde.
+
+7. Os atestados médico-sanitários a que se refere o n.º 3 do artigo 50.º do Código da Estrada serão passados no prazo de dois dias, a contar do da inspecção.
+
+8. Sempre que o examinado tiver sido reprovado dar-se-á, no prazo de dois dias, conhecimento do facto à Direcção-Geral de Saúde, remetendo-se duplicado do respectivo boletim de inspecção medica.
+
+O candidato ou condutor reprovado será avisado pelo respectivo serviço de que pode recorrer para o director--geral de Saúde que designará o dia, hora e local em que terá lugar a nova inspecção, a realizar por junta medica.
+
+9. Serão solicitados à Direcção-Geral de Saúde exames psicotécnicos nos casos previstos no n.º 2 do artigo 41.º e ainda naqueles em que, pela junta médica, seja reconhecida a necessidade de qualquer adaptação do veículo ou de realizar exame prático para avaliar da sua eficiência. O pedido será acompanhado de duplicado do boletim a que se refere o n.º 5.
+
+###### Artigo 40.º — Motivos de reprovação
+
+Sem prejuízo do disposto no n.º 1 do artigo 41.º, a inaptidão do candidato será declarada por algum dos motivos seguintes e ainda como consequência da verificação de outros que, embora não previstos no presente regulamento, se julgue serem susceptíveis de diminuir a capacidade do candidato:
+
+a) Todas as lesões ou deformidades, em especial a dos membros, que reduzam, com carácter duradouro ou progressivo, a capacidade para conduzir;
+
+b) Todas as doenças crónicas ou com carácter progressivo que determinem o mesmo efeito;
+
+c) Todas as doenças, afecções ou estados neuropsiquiátricos que se traduzam pela redução apreciável do nível mental ou de algum modo impliquem diminuição da eficiência ou segurança da condução;
+
+d) Todas as afecções cardiovasculares graves;
+
+e) A redução da acuidade visual abaixo de 8/10 em cada olho, ou 7/10 ou 6/10 num com 9/10 ou 10/10, respectivamente, noutro, medida esta acuidade na escala universal, apos correcção dos defeitos de refracção, se os houver, por meio de vidros ópticos utilizáveis, isto é, que sejam bem tolerados e que permitam uma perfeita fusão das imagens dos dois olhos;
+
+f) As perturbações notáveis do senso cromático e luminoso, o estrabismo, o nistagmo, a diplopia, a hemaralopia, os olhos afacos, a perda de visão de um dos olhos, a ausência de visão binocular, a redução pronunciada da visão em profundidade ou do campo visual binocular, designadamente quando este abranja um ângulo inferior a 150º na horizontal;
+
+g) As inflamações crónicas dos olhos que reduzam habitualmente a capacidade visual abaixo dos limites estabelecidos ou que tenham a possibilidade de a reduzir nas exacerbações ou complicações, nomeadamente a conjuntivite granulosa;
+
+h) A acuidade auditiva em cada ouvido inferior a 1/2, equivalente à voz ciciada a 3 m;
+
+i) Os estados vertiginosos contínuos ou paroxísticos, qualquer que seja a sua origem;
+
+j) O alcoolismo e outras toxicomanias.
+
+Não devem ser considerados na apreciação da acuidade auditiva os aparelhos de prótese.
+
+No caso previsto na alínea e) será exigido o uso dos vidros ópticos na mesma referidos, devendo esta obrigação constar do atestado médico-sanitário e da própria carta de condução.
+
+###### Artigo 41.º — Tolerâncias
+
+1. Não se consideram abrangidos pelas disposições do artigo anterior os candidatos que possam beneficiar de alguma das seguintes tolerâncias:
+
+a) Condutores de automóveis ligeiros, com excepção dos referidos na alínea d):
+
+1.º Membros superiores:
+
+Ausência de três dedos, desde que haja um polegar íntegro e os restantes permitam presa suficiente.
+
+Ausência de uma das mãos, desde que haja aparelho de prótese eficiente e o outro membro seja íntegro.
+
+Sindactilia e polidactilia, desde que haja potência funcional suficiente.
+
+2.º Membros inferiores:
+
+Ausência ou impotência total de um, desde que o veículo seja eficientemente adaptado, de modo que o condutor em nenhum momento tenha de largar o volante de direcção.
+
+3.º Coluna vertebral:
+
+Rigidez ou malformações que não impeçam a boa condução ou possam ser eficientemente corrigidas por adaptação especial do veículo.
+
+4.º Audição:
+
+Redução da acuidade biauricular à voz ciciada a 2 m ou a 3 m num ouvido e 1 m no outro.
+
+Surdez total de um ouvido, com o outro normal, condicionada à localização do volante de direcção.
+
+5.º Visão:
+
+Acuidade mínima de 6/10 num olho e 2/10 no outro.
+
+Ausência de visão num olho.
+
+b) Condutores de automóveis pesados, com excepção dos referidos na alínea e)::
+
+1.º Membros superiores:
+
+Ausências de dois dedos numa das mãos, desde que não seja do polegar, a aposição deste com os restantes se faça perfeitamente, haja potência funcional suficiente e a outra mão esteja íntegra.
+
+Sindactilia e polidactilia, desde que haja potência funcional suficiente.
+
+2.º Membros inferiores:
+
+Ausência de dedos.
+
+c) Condutores de motociclos:
+
+1.º Membros superiores:
+
+Ausência de três dedos, desde que haja um polegar íntegro e os restantes permitam presa suficiente.
+
+Sindactilia e polidactilia, desde que haja potência funcional suficiente.
+
+2.º Membros inferiores:
+
+Ausência de dedos.
+
+3.º Coluna vertebral:
+
+Rigidez ou malformações que não impeçam a boa condução ou possam ser eficientemente corrigidas por adaptação especial do veículo.
+
+4.º Audição:
+
+Redução da acuidade biauricular à voz ciciada a 2 m ou a 3 m num ouvido e 1 m no outro.
+
+Surdez total de um ouvido, com o outro normal.
+
+5.º Visão:
+
+Acuidade mínima de 6/10 num olho e 2/10 no outro.
+
+Ausência de visão num olho.
+
+d) Condutores profissionais de automóveis ligeiros:
+
+1.º Membros superiores:
+
+Ausência de dois dedos, desde que não sejam os polegares, estes façam perfeita oposição com os restantes e haja potência funcional suficiente.
+
+Sindactilia e polidactilia, desde que haja potência funcional suficiente.
+
+2.º Membros inferiores:
+
+Ausência de dedos.
+
+e) Condutores de tractores agrícolas:
+
+1.º Membros superiores:
+
+Ausência de três dedos, desde que haja um polegar íntegro e os restantes permitam presa suficiente.
+
+Ausência de uma das mãos, desde que haja aparelho de prótese eficiente e o outro membro seja normal.
+
+Sindactilia e polidactilia, desde que haja potência funcional suficiente.
+
+2.º Membros inferiores:
+
+Ausência de dedos.
+
+3.º Audição:
+
+Redução da acuidade biauricular á voz ciciada a 2 m ou a 3 m num ouvido e 1 m no outro.
+
+Surdez total de um ouvido, com o outro normal.
+
+4.º Visão:
+
+Acuidade mínima de 6/10 num olho e 2/10 no outro.
+
+Ausência de visão num olho.
+
+Os indivíduos com acuidade igual ou inferior a 1/10 num olho serão considerados como monoculares.
+
+2. A inspecção será realizada por junta médica proposta pelo médico examinador, segundo a forma estabelecida no n.º 6 do artigo 39.º, e precedida de exame psicotécnico, sempre que se trate de alguma das tolerâncias seguintes:
+
+a) Condutores de automóveis ligeiros, com excepção dos profissionais:
+
+1.º Membros superiores:
+
+Ausência de uma das mãos, desde que haja aparelho de prótese eficiente e o outro membro seja íntegro.
+
+2.º Membros inferiores:
+
+Ausência ou impotência total de um, desde que o veículo seja eficientemente adaptado, de modo que o condutor em nenhum momento tenha de largar o volante de direcção.
+
+3.º Coluna vertebral:
+
+Rigidez ou malformações que não impeçam a boa condução ou possam ser eficientemente corrigidas por adaptação especial do veículo.
+
+4.º Audição:
+
+Surdez total de um ouvido, com o outro normal, condicionada a localização do volante de direcção.
+
+5.º Ausência de visão num olho.
+
+b) Condutores de motociclos:
+
+1.º Coluna vertebral:
+
+Rigidez ou malformações que não impeçam a boa condução ou possam ser eficientemente corrigidas por adaptação especial do veículo.
+
+2.º Audição:
+
+Surdez total de um ouvido, com o outro normal.
+
+3.º Visão:
+
+Ausência de visão num olho.
+
+c) Condutores de tractores agrícolas:
+
+1.º Membros superiores:
+
+Ausência de uma das mãos, desde que haja aparelho de prótese eficiente e o outro membro seja normal.
+
+2.º Visão:
+
+Ausência de visão num olho.
+
+O exame psicotécnico pode ser dispensado nos casos de surdez.
+
+3. Os indivíduos abrangidos pelo número anterior ficarão ainda sujeitos aos seguintes condicionamentos:
+
+a) Visão monocular:
+
+1.º Exame oftalmológico;
+
+2.º A perda da visão do olho inútil deve datar de há, pelo menos, um ano;
+
+3.º A visão do olho útil deve ser, pelo menos, de 8/10, ou 10/10 se houver necessidade de a corrigir com lentes, desde que esta correcção seja feita de maneira a não prejudicar o campo visual e o senso cromático;
+
+4.º Os sensos luminoso e cromático, o campo visual e o sentido de profundidade e avaliação das distâncias devem ser normais;
+
+5.º Revisão médica periódica, de três em três anos, por junta medica, com exames oftalmológico e psicotécnico, se necessários·;
+
+6.º Proibição de exceder a velocidade de 50 km por hora;
+
+7.º Interdição de conduzir qualquer veículo que não tenha pára-brisas inamovível.
+
+b) Surdez parcial — Revisão médica periódica.
+
+c) Mutilação ou impotência funcional dos membros — Segundo os casos, a todos ou alguns dos seguintes condicionamentos:
+
+1.º Uso obrigatório de prótese eficiente;
+
+2.º Adaptação eficiente do veículo;
+
+3.º Proibição de exceder a velocidade de 50 km por hora;
+
+4.º Revisão médica periódica;
+
+5.º Qualquer outro julgado necessário.
+
+###### Artigo 42.º — Juntas médicas
+
+1. As juntas médicas realizar-se-ão nas Delegações de Saúde de Lisboa e Porto e Inspecções de Saúde do Funchal e Ponta Delgada, serão constituídas por três médicos do respectivo quadro e efectuar-se-ão:
+
+a) A requerimento do interessado, nos termos do n.º 4 do artigo 39.º;
+
+b) Por proposta do médico examinador, nos termos do n.º 6 do artigo 39.º e do n.º 2 do artigo 41.º;
+
+c) Mediante recurso do interessado contra a reprovação pelo médico examinador;
+
+d) Mediante recurso do interessado, quando devidamente fundamentado, contra a reprovação por junta médica;
+
+e) Por determinação da Direcção-Geral de Saúde;
+
+f) Por requisição da Direcção-Geral de Transportes Terrestres à Direcção-Geral de Saúde.
+
+No caso previsto na alínea b), sempre que o exame se realizar nas sedes dos distritos de Lisboa, Porto, Funchal ou Ponta Delgada, o médico examinador fará parte da junta.
+
+No caso previsto na alínea c) o médico examinador não poderá fazer parte da junta.
+
+No caso previsto na alínea d) a nova junta será constituída pelo delegado de saúde, no continente, e inspector de saúde, nas ilhas adjacentes, e por dois médicos que não tenham votado as reprovações anteriores.
+
+2. As juntas médicas poderão solicitar a Direcção-Geral de Saúde os seguintes exames:
+
+a) Oftalmológico;
+
+b) Otológico;
+
+c) Neurológico;
+
+d) Psiquiátrico;
+
+e) Psicotécnico;
+
+f) Prático, para avaliar da adaptação a condução.
+
+Quaisquer outros elementos julgados necessários deverão ser solicitados ao interessado pela junta médica e só serão de considerar quando provenientes de serviços oficiais.
+
+3. Os pareceres formulados pelas juntas médicas serão sempre comunicados à Direcção-Geral de Saúde, à qual será enviado duplicado do boletim a que se refere o n.º 5 do artigo 39.º
+
+A deliberação dependerá de homologação da Direcção-Geral de Saúde, quando não haja parecer unânime dos membros da junta ou desta e dos especialistas.
+
+#### Secção II — Instrução
+
+###### Artigo 48.º
+
+1. As licenças para a utilização de veículos automóveis no serviço de instrução serão concedidas pela Direcção-Geral de Transportes Terrestres, de harmonia com o disposto no n.º 4 do artigo 51.º do Código da Estrada, competindo às direcções de viação a passagem dos respectivos títulos e o averbamento dos mesmos na matrícula dos veículos.
+
+2. Os instrutores ou as escolas de condução, consoante os casos, elaborarão por cada instruendo uma ficha do modelo anexo a este regulamento.
+
+Será sempre fornecida uma cópia desta ficha ao instruendo que deseje mudar de instrutor ou de escola. A contravenção do disposto neste número será punida com a multa de 1.000$.
+
+3. Os exames para instrutor só podem realizar-se nas localidades sede das direcções de viação.
+
+4. Para a concessão do alvará a que se refere o n.º 1 do artigo 53.º do Código da Estrada deverá a entidade requerente indicar:
+
+a) A identidade do proprietário e do director;
+
+b) A designação do estabelecimento que pretende abrir, a qual será sempre seguida ou precedida das palavras «Escola de Condução».
+
+O requerimento será acompanhado da planta das instalações, na escala de 1/100, devidamente cotada, e de uma cópia do regulamento da escola, a qual só poderá abrir depois de prévia vistoria feita pela Direcção-Geral de Transportes Terrestres, com vista a verificar se reúne as condições exigidas neste artigo.
+
+A mudança de direcção fica subordinada a aprovação da Direcção-Geral de Transportes Terrestres.
+
+5. As escolas de condução terão instalações apropriadas e possuirão as necessárias condições higiénicas e o material que a Direcção-Geral de Transportes Terrestres julgue indispensável à boa habilitação dos alunos para as provas práticas, teóricas e técnicas que constituem os exames para condutor.
+
+Todas as escolas deverão possuir um amplo compartimento contendo as peças indispensáveis à boa compreensão da mecânica do veículo automóvel, quadros elucidativos e planos ou plantas para problemas de trânsito.
+
+As salas das aulas não poderão ter superfície e cubagem inferiores, respectivamente, a 1,25 m2 e 3,5 m3 por aluno.
+
+As janelas terão bandeiras móveis ou ventiladores, devendo estar dispostas por forma a permitir que os instruendos recebam a luz pelo lado esquerdo ou por este e pela retaguarda ou ainda pelos dois lados, direito e esquerdo, mas neste caso com maior intensidade do lado esquerdo.
+
+As escolas deverão possuir vestiários e as necessárias instalações sanitárias, nas quais se deverá sempre observar uma rigorosa higiene e um asseio perfeito.
+
+A contravenção do disposto neste número será punida com a multa de 5.000$.
+
+6. A Direcção-Geral de Transportes Terrestres fixará o número mínimo de veículos que a escola deverá possuir para fins de instrução, o qual nunca será inferior a dois por cada classe de veículos automóveis cujo ensino pretenda ministrar.
+
+7. As escolas de condução organizarão os seus serviços de cadastro por forma a poderem fornecer à Direcção-Geral de Transportes Terrestres os elementos estatísticos que por esta lhe forem exigidos.
+
+A contravenção do disposto neste número será punida com a multa de 1.000$.
+
+8. Os directores das escolas de condução, bem como os respectivos instrutores, deverão tratar com a maior urbanidade todas as pessoas que solicitarem os seus serviços, cumprindo com honestidade e correção os deveres inerentes à função que exercem.
+
+Pelas infracções que cometam no exercício dessa função e que não estejam especialmente previstas ficam sujeitos às seguintes penalidades:
+
+a) Advertência;
+
+b) Multa de 1.000$ a 5.000$;
+
+c) Suspensão de funções por período não inferior a trinta dias;
+
+d) Interdição definitiva de funções.
+
+Estas realidades serão aplicadas, mediante processo em que será ouvido o acusado, por decisão do director-geral de Transportes Terrestres, da qual poderá haver recurso para o Ministro das Comunicações e a sua imposição não prejudica a das que forem aplicadas aos proprietários da escola, cujo alvará poderá ser retirado quando se mostre que a mesma não reúne as condições estabelecidas no Código da Estrada e no presente diploma para o seu funcionamento.
+
+#### Secção III — Exames
+
+###### Artigo 44.º
+
+1. A prova prática de condução a que se refere a alínea a) do n.º 1 do artigo 49.º do Código da Estrada será prestada pelo candidato em veículo da classe para que tenha requerido a carta..
+
+Nos exames para condutor de tractor agrícola ou de motociclo deverá o candidato fornecer o automóvel ligeiro de passageiros necessário para que o examinador possa acompanhar devidamente a realização da prova.
+
+Os exames para condutor de automóveis ligeiros e pesados só poderão realizar-se em veículos que possuam as características referidas na alínea a) do n.º 2 e nos n.os 3 e 4 do artigo 31.º do presente regulamento.
+
+Os exames para condutor de motociclos realizar-se-ão em veículos de cilindrada igual ou superior a 250 cm3. Será permitido que se realizem em veículos de menor cilindrada, quando assim tenha sido requerido pelos interessados, mas estes não poderão conduzir motociclos de cilindrada superior à daquele em que tenham prestado a prova de condução enquanto não realizarem novo exame.
+
+Os automóveis pesados estarão carregados como for fixado pela Direcção-Geral de Transportes Terrestres.
+
+2. Na prova prática de condução, durante a qual se verificará o conhecimento do candidato sobre as regras e os sinais do trânsito, aquele deverá efectuar com a necessária presteza e sem hesitações, as manobras que lhe forem indicadas.
+
+3. São causas de reprovação no exame mostrar imperícia ou imprudência nas manobras constantes da prova de condução e, em especial:
+
+a) Ir de encontro a qualquer obstáculo;
+
+b) Deixar de arrancar numa rampa após três tentativas;
+
+c) Deixar recuar o veículo mais de 1 m ao tentar arrancar numa rampa;
+
+d) Deixar, por imperícia, parar o motor mais de três vezes;
+
+e) Não entrar com as devidas cautelas em cruzamentos ou curvas de visibilidade reduzida;
+
+f) Deixar de proceder à sinalização necessária;
+
+g) Não realizar com a necessária rapidez e perícia a manobra de inversão do sentido de marcha;
+
+h) Desconhecer a forma de descer sem o auxílio de travões.
+
+4. A prova técnica para condutor profissional constará de:
+
+a) Nomenclatura e noções gerais sobre o funcionamento e os órgãos de todos os tipos de veículos automóveis;
+
+b) Descrição do funcionamento do motor do veículo em que for efectuado o exame e dos seus sistemas de distribuição, refrigeração, alimentação, lubrificação, inflamação, instalação eléctrica, iluminação, baterias, motor de arranque, dínamo, etc.; cuidados que requerem para o seu regular funcionamento;
+
+c) Uniões de engate de vários tipos, caixa de velocidades, sistemas de transmissão e diferencial; cuidados que requerem;
+
+d) Direcção e travões;
+
+e) Quadro, suspensão e rodados;
+
+f) Afinações e lubrificações em geral;
+
+g) Ferramentas e sobresselentes necessários;
+
+h) Avarias, sua localização e reparação corrente;
+
+i) Montagem e desmontagem dos pneumáticos, reparações de câmaras-de-ar; cuidados que requerem;
+
+j) Incêndio do veículo, suas causas e forma de o atacar.
+
+5. Para os condutores profissionais de automóveis pesados a prova técnica compreenderá, além das noções previstas no número anterior:
+
+a) Noções de velocidades médias e máximas e cálculo elementar da sua variação com o tempo;
+
+b) Precauções a tomar quanto à variação da velocidade, consoante a natureza, posição e distribuição da carga ou das bagagens;
+
+c) Resvalamentos, suas causas e sua neutralização;
+
+d) Perigos inevitáveis do trânsito; forma de reduzir ao mínimo as suas consequências;
+
+e) Regulação e afinação dos motores de todos os sistemas, nomeadamente do comando das válvulas, dos carburadores ou sistemas de injecção, da inflamação e de toda a aparelhagem eléctrica.
+
+#### Secção IV — Apreensão das licenças de condução
+
+###### Artigo 45.º
+
+1. As autoridades ou agentes da autoridade que, nos termos do n.º 1 do artigo 55.º do Código da Estrada, procederem à apreensão de licenças de condução enviá-las-ão no prazo de vinte e quatro horas à Direcção-Geral de Transportes Terrestres, acompanhadas do auto de notícia ou participação, consoante os casos, bem como de quaisquer outros documentos que possam interessar à instrução do respectivo processo.
+
+2. No momento da apreensão o condutor será avisado de que pode apresentar no prazo de cinco dias, na Direcção-Geral de Transportes Terrestres, a sua reclamação por escrito.
+
+Quando do cometimento de qualquer das infracções referidas na alínea b) do n.º 2 do artigo 61.º do Código da Estrada não resultar acidente com consequências graves, em troca da carta apreendida será entregue uma guia de condução válida pelo prazo de trinta dias.
+
+3. As decisões do director-geral de Transportes Terrestres tomadas nos termos do n.º 3 do artigo 65.º do Código da Estrada serão precedidas de parecer de uma comissão técnica, composta por um director de serviços da Direcção-Geral de Transportes Terrestres, pelo consultor jurídico da mesma Direcção-Geral e pelo comandante da Polícia de Viação e Trânsito. Será regulada por despacho do Ministro das Comunicações a composição desta comissão, no caso de falta ou impedimento de qualquer destas entidades.
+
+O parecer da comissão terá por base não só o auto de notícia ou participação, mas também a reclamação apresentada pelo condutor, nos termos do número antecedente.
+
+4. No acto da notificação a que se refere o n.º 3 do artigo 55.º do Código da Estrada, o condutor será avisado de que poderá interpor, no prazo de dez dias, recurso para o Ministro das Comunicações da decisão que impôs a interdição de conduzir. O processo de recurso será sempre instruído com o da comissão referida no número anterior.
+
+5. A restituição das licenças apreendidas nos casos previstos nas alíneas b) e c) do n.º 2 do artigo 61.º do Código da Estrada dependerá de exame psicotécnico, pago pelo interessado, sempre que a apreensão tenha sido determinada por período não inferior a três meses.
+
+### Capítulo VII — Disposições diversas e transitórias
+
+###### Artigo 46.º — Fiscalização
+
+A fiscalização do cumprimento das disposições deste diploma será feita nos termos do n.º 3 do artigo 2.º do Código da Estrada.
+
+###### Artigo 47.º — Expediente
+
+1. Todos os requerimentos e petições que não sejam obrigatòriamente feitos em impressos e a correspondência dirigida por particulares aos diversos serviços da Direcção-Geral de Transportes Terrestres, quando não tiver origem em obrigações impostas pela legislação em vigor ou não diga respeito a informações pedidas pelos serviços sobre pretensões em curso, devem ser feitos em papel selado e devidamente datados e assinados.
+
+2. Em nenhum requerimento, ofício, informação ou representação poderá ser tratado mais de um assunto.
+
+3. Depois de registada a respectiva entrada na Direcção-Geral de Transportes Terrestres ou em qualquer dos seus serviços, não poderão ser restituídos aos interessados os requerimentos, representações, pretensões ou ofícios, podendo, no entanto, ser-lhes passada certidão dos referidos documentos, bem como dos despachos que sobre eles incidirem.
+
+A restituição de documentos que tenham sido entregues para a instrução de qualquer processo só poderá ser feita mediante recibo. No processo ficará certidão de teor dos mesmos documentos, a qual será extraída a requerimento e à custa dos interessados.
+
+4. As pretensões relativas a averbamentos e substituições de cartas de condução e livretes podem ser dirigidas a qualquer direcção de viação.
+
+Quando a pretensão não for presente na direcção de viação onde tiver sido passada a carta ou onde o veiculo tiver sido matriculado, será requerida em duplicado, sendo selado apenas o original. A direcção de viação que a receber fará o averbamento ou substituição requeridos, remetendo o original á direcção de viação onde se encontra o processo do condutor ou do veículo.
+
+As taxas devidas serão cobradas pela direcção de viação que receber as pretensões.
+
+Quando um condutor de veículos automóveis for titular de mais de uma carta de condução passada pelo mesmo serviço ou por serviços diferentes, far-se-á a substituição de todas as cartas por uma única, à qual será dado o número da mais antiga, nela se mencionando todos os averbamentos que figuram nas restantes e remetendo-se os originais das cartas substituídas aos serviços que as emitiram.
+
+Quando o condutor for titular de carta passada em qualquer direcção de viação do continente ou das ilhas adjacentes e naquele ou nestas residir, serão sempre feitos na mesma os averbamentos constantes das outras cartas de que for titular.
+
+5. Serão arquivadas, independentemente de aviso, as pretensões que estejam paradas por mais de sessenta dias, em virtude da inércia dos interessados.
+
+6. Para efeito do disposto no Código da Estrada e no presente regulamento sobre a matrícula de veículos automóveis e reboques, inspecções, obtenção e troca de cartas de condução, averbamentos de serviço público e mudanças de residência, os interessados, além da documentação exigida para cada caso, deverão apresentar na competente direcção de viação, devidamente preenchidos, os seguintes impressos do catalogo «Diversos», exclusivos da Imprensa Nacional de Lisboa:
+
+a) Para exame de condutor de veículos automóveis:
+
+1.º Um impresso modelo 762;
+
+2.º Quatro impressos modelo 767;
+
+3.º Dois impressos modelo 768;
+
+4.º Dois impressos modelo 769.
+
+b) Para exame de condutor profissional:
+
+1.º Um impresso modelo 844;
+
+2.º Quatro impressos modelo 845;
+
+3.º Dois impressos modelo 846;
+
+4.º Dois impressos modelo 847.
+
+c) Para exame de instrutor:
+
+1.º Um impresso modelo 848;
+
+2.º Quatro impressos modelo 849;
+
+3.º Dois impressos modelo 850;
+
+4.º Dois impressos modelo 851;
+
+5.º Um impresso modelo 852.
+
+d) Para aposição em cartas de condutor de automóveis pesados do averbamento «serviço público»:
+
+1.º Um impresso modelo 764;
+
+2.º Quatro impressos modelo 767;
+
+3.º Um impresso modelo 769.
+
+e) Para troca da carta de condução pela carta de condutor profissional:
+
+1.º Quatro impressos modelo 845-A;
+
+2.º Dois impressos modelo 846;
+
+3.º Dois impressos modelo 847;
+
+4.º Um impresso modelo 853.
+
+f) Para troca do boletim de condução militar pela carta de condução:
+
+1.º Um impresso modelo 766;
+
+2.º Quatro impressos modelo 767;
+
+3.º Dois impressos modelo 768;
+
+4.º Dois impressos modelo 769.
+
+g) Para matrícula de veículos automóveis:
+
+1.º Um impresso modelo 769;
+
+2.º Um impresso modelo 770;
+
+3.º Um impresso modelo 771;
+
+4.º Um impresso modelo 772;
+
+5.º Um impresso modelo 773;
+
+6.º Três impressos modelo 774;
+
+7.º Um impresso modelo 775.
+
+h) Para matrícula de reboques:
+
+1.º Um impresso modelo 769;
+
+2.º Um impresso modelo 854;
+
+3.º Um impresso modelo 855;
+
+4.º Um impresso modelo 856;
+
+5.º Um impresso modelo 857;
+
+6.º Três impressos modelo 858;
+
+7.º Um impresso modelo 859.
+
+i) Para transferência de propriedade de reboques:
+
+1.º Um impresso modelo 769;
+
+2.º Um impresso modelo 857;
+
+3.º Um impresso modelo 861.
+
+j) Para participação da mudança de residência de condutores e proprietários de reboques: um impresso modelo 778.
+
+l) Para participação da mudança de residência das províncias ultramarinas para a metrópole, dos titulares de cartas passadas naquelas províncias:
+
+1.º Quatro impressos modelo 767;
+
+2.º Dois impressos modelo 768;
+
+3.º Um impresso modelo 769;
+
+4.º Um impresso modelo 778.
+
+m) Para pedidos de inspecção de veículos automóveis:
+
+1.º Um impresso modelo 772;
+
+2.º Três impressos modelo 774;
+
+3.º Um impresso modelo 779.
+
+n) Para pedidos de inspecção de reboques:
+
+1.º Um impresso modelo 856;
+
+2.º Três impressos modelo 858;
+
+3.º Um impresso modelo 860.
+
+o) Para pedidos de substituição ou de duplicados de livretes de veículos automóveis: um impresso modelo 773;
+
+p) Para pedidos de substituição ou de duplicados de livretes de reboques: um impresso modelo 857.
+
+Aos cidadãos nacionais titulares de cartas passadas nas províncias ultramarinas, quando transfiram a sua residência para a metrópole, será também exigido o impresso m/14 da Inspecção do Serviço Automóvel do Exército, devidamente visado.
+
+Serão recusados os impressos que não estejam preenchidos com toda a clareza ou apresentem rasuras ou emendas não devidamente ressalvadas.
+
+7. Para efeitos do disposto no Código da Estrada e no presente regulamento sobre inspecções médico-sanitárias, todos os candidatos e condutores de veículos automóveis devem apresentar na delegação, inspecção ou subdelegação de saúde competente os seguintes impressos do catalogo «Diversos» exclusivos da Imprensa Nacional de Lisboa:
+
+a) Para a inspecção médico-sanitária dos candidatos a condutor:
+
+1.º Um impresso modelo 842;
+
+2.º Um impresso modelo 862;
+
+3.º Um impresso modelo 863;
+
+4.º Um impresso modelo 864.
+
+b) Para a inspecção médico-sanitária periódica dos condutores:
+
+1.º Um impresso modelo 842-A;
+
+2.º Um impresso modelo 862;
+
+3.º Um impresso modelo 863-A;
+
+4.º Um impresso modelo 864.
+
+###### Artigo 48.º — Penalidades
+
+1. Salvo disposição especial em contrário, pelas contravenções do disposto no Código da Estrada e no presente regulamento serão declarados responsáveis:
+
+a) Os condutores dos veículos, quando se trate de infracções às regras e sinais do trânsito;
+
+b) Os proprietários dos veículos, ainda que não sejam os seus condutores, quando se trate de infracções às disposições que condicionam a admissão dos veículos ao trânsito nas vias públicas.
+
+Quando o condutor, transgredindo as ordens ou instruções do proprietário do veículo, der causa a alguma infracção compreendida na alínea b), terá o proprietário direito de regresso contra ele para o efeito de ser reembolsado da importância das multas e imposto de justiça.
+
+Presumir-se-á, até prova em contrário, o conhecimento pelo proprietário do veículo da identidade do condutor, sendo aquele responsável pelas transgressões por este cometidas quando se recusar a colaborar com a autoridade na identificação do transgressor.
+
+2. As penalidades fixadas no presente regulamento para a falta dos órgãos, aparelhos, acessórios e instrumentos nele previstos para os veículos aplicar-se-ão igualmente ao seu não funcionamento, excepto se este for devido a avarias ocasionais e imprevisíveis devidamente justificadas.
+
+3. As contravenções do disposto no presente regulamento a que não corresponder pena especial serão punidas com a multa de 40$.
+
+4. Na cobrança das multas aplicadas nos termos deste diploma observar-se-á o disposto no n.º 2 do artigo 62.º e no artigo 70.º do Código da Estrada.
+
+###### Artigo 49.º — Disposições transitórias
+
+1. Os reflectores dos reboques e semi-reboques só a partir de 1 de Abril de 1955 deverão obedecer aos modelos constantes do quadro n.º 8.
+
+Nos reboques ou semi-reboques matriculados ou em utilização antes daquela data podem ser instalados reflectores de qualquer outro modelo, desde que obedeçam ao disposto no n.º 2 do artigo 20.º do Código da Estrada.
+
+2. Até 1 de Abril de 1955 não será exigível o cumprimento do disposto no n.º 10 do artigo 30.º do presente diploma.
+
+3. Até 1 de Julho de 1955 os proprietários das escolas de condução existentes à data da entrada em vigor do presente regulamento deverão legalizar a situação daquelas de harmonia com o disposto no artigo 43.º
+
+Ministérios do Interior e das Comunicações, 22 de Dezembro de 1954. — O Ministro do Interior, Joaquim Trigo de Negreiros. — O Ministro das Comunicações, Manuel Gomes de Araújo.
+
+(ver documento original)

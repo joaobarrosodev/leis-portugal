@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1086140525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2026-1086223975",
+ "dre_path": "/dr/detalhe/lei/12-b-2026-1086140525",
+ "source_lastmod": "2026-10-21",
+ "versions": [
+  {
+   "date": "2026-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1182082463:por",
+     "title": "Lei n.º 64/2026",
+     "published": "2026-10-19",
+     "dre_path": "/dr/detalhe/lei/64-2026-1182082463"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "1086224175",
+    "1086224375",
+    "1086224575",
+    "1183459175",
+    "1086224975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1086224175": {
+   "fragment_id": "1086224075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "1086224375": {
+   "fragment_id": "1086224275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à alteração temporária e excecional dos limites mínimos das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) estabelecidos nos artigos 92.º, 94.º e 95.º do Código dos Impostos Especiais de Consumo (Código dos IEC), aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, aplicáveis à gasolina sem chumbo e ao gasóleo."
+  },
+  "1086224575": {
+   "fragment_id": "1086224475",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração dos limites mínimos das taxas do impostosobre os produtos petrolíferos e energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração dos limites mínimos das taxas do impostosobre os produtos petrolíferos e energéticos\n\n1 - Os limites mínimos das taxas unitárias do ISP, determinados nos termos dos artigos 92.º, 94.º e 95.º do Código dos IEC, relativos à gasolina sem chumbo, classificada pelos códigos NC 2710 12 41 a 2710 12 49, e ao gasóleo, classificado pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19, são fixados em 199,89 € e 156,66 €, respetivamente.\n\n2 - Sem prejuízo do disposto no número anterior, são aplicáveis todas as disposições legais e regulamentares relativas aos intervalos de valores das taxas unitárias do ISP referentes aos artigos 92.º, 94.º e 95.º do Código dos IEC."
+  },
+  "1183459175": {
+   "fragment_id": "1086224675",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e vigência",
+   "in_force_from": "2026-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2026 - Diário da República n.º 202/2026, Série I de 2026-10-19](https://diariodarepublica.pt/dr/detalhe/lei/64-2026-1182082463), em vigor a partir de 2026-10-20, com efeitos a partir de 2026-06-30."
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2026.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2026 - Diário da República n.º 202/2026, Série I de 2026-10-19](https://diariodarepublica.pt/dr/detalhe/lei/64-2026-1182082463), em vigor a partir de 2026-10-20, com efeitos a partir de 2026-06-30."
+  },
+  "1086224975": {
+   "fragment_id": "1086224875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de abril de 2026.\n\nO Presidente da Assembleia da República, José Pedro Aguiar Branco.\n\nPromulgada em 10 de abril de 2026.\n\nPublique-se.\n\nO Presidente da República, António José Martins Seguro.\n\nReferendada em 14 de abril de 2026.\n\nO Primeiro-Ministro, Luís Montenegro."
+  }
+ }
+}

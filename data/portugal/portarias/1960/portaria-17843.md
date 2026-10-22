@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:502008:por
+title: Portaria n.º 17843
+short_title: null
+summary: Estabelece as normas para a elaboração da escala única de intercalação dos oficiais admitidos para preenchimento
+  inicial dos quadros dos serviços técnicos de manutenção, nos termos das alíneas a) e b) do artigo 11.º do Decreto-Lei n.º
+  40880 (serviço de material)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete
+proposing_entity: null
+official_number: '17843'
+official_date: null
+publication_date: '1960-07-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 168/1960, Série I de 1960-07-21
+  number: '168'
+  series: I
+  supplement: null
+  pages: 1764 - 1766
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/07/16800/17641766.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '502008'
+  dre_path: /dr/detalhe/portaria/17843-1960-502008
+  internal: pt:dre:502008:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17843-1960-502008
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17843-1960-502008
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-07-21T00:00:00Z'
+integrity:
+  source_sha256: 7e8b45de3d02ddb69455a7c6c3f631dca2538ecd93ae03f43e4b593080b88dd9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-17843-502008.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17843
+
+I) O [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956, que criou o serviço de material, estabeleceu como fórmula de preenchimento inicial do respectivo quadro dos serviços técnicos de manutenção de material o recurso a:
+
+Oficiais do quadro dos serviços auxiliares do Exército (actualmente quadro do serviço geral do Exército), com especialidades afins do serviço de material;
+
+Oficiais de complemento das diversas armas e serviços, satisfazendo a determinadas condições.
+
+II) Sucede que nem o [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638) nem as portarias que, a partir de 12 de Abril de 1957, sancionaram a transferência de diversos oficiais do quadro permanente e o ingresso de vários oficiais de complemento no quadro dos serviços técnicos de manutenção estabeleceram concretamente as condições inerentes à posição de tais oficiais na escala respectiva.
+
+III) A precedência dos respectivos oficiais e os vários aspectos de serviço com ela relacionados têm vindo, assim, a ser encarados de forma precária. No que se refere, particularmente, aos oficiais oriundos do quadro de complemento, tem-se, para o efeito, recorrido à relação, publicada a título provisório, na lista geral de antiguidade dos oficiais do Exército.
+
+Torna-se, por isso, indispensável regular, de forma definitiva, aquela precedência, da qual depende, em boa parte, a possibilidade de dar solução urgente a alguns problemas de acesso referentes ao quadro dos serviços técnicos de manutenção e aos seus ramos.
+
+IV) Na presente portaria prescrevem-se normas regulamentares respeitantes ao disposto na alínea b) do artigo 11.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956.
+
+Nela foram tomadas em consideração as seguintes circunstâncias:
+
+a) Revestiram carácter diferente as condições em que os oficiais do quadro permanente e os oficiais de complemento preencheram inicialmente as vagas do quadro dos serviços técnicos de manutenção.
+
+Deu-se uma simples transferência nos quadros permanentes no primeiro caso; verificou-se um ingresso num quadro permanente do Exército no segundo.
+
+b) O ingresso destes últimos oficiais no quadro dos serviços técnicos de manutenção teve um carácter excepcional, não só porque, de futuro, o recrutamento normal para tal quadro será feito entre sargentos habilitados com o curso adequado da Escola Central de Sargentos, mas, também, porque ele diferiu de qualquer dos tipos previstos no Estatuto do Oficial do Exército para o ingresso num quadro permanente, ou seja como nesse estatuto se indica:
+
+Por frequência da Academia Militar (artigo 65.º do Estatuto do Oficial do Exército);
+
+Por frequência da Escola Central de Sargentos (artigo 66.º do Estatuto do Oficial do Exército);
+
+Por concurso (artigo 67.º do Estatuto do Oficial do Exército), exclusivo aos casos de habilitação com título universitário afim da respectiva especialidade militar.
+
+De assinalar que, quando qualquer destes tipos de possível ingresso no quadro permanente envolve oficiais de complemento, o Estatuto do Oficial do Exército não lhes confere o direito de conservarem, na nova escala do quadro permanente onde sejam colocados, as suas antiguidades como oficiais de complemento.
+
+c) Diferentes também se apresentam as condições dos oficiais do quadro permanente e dos oficiais oriundos do quadro de complemento quanto a habilitações técnicas relativamente às especialidades do quadro dos serviços técnicos de manutenção, quanto a serviço militar e quanto a obrigações normais e a interesses particulares que levaram ao ingresso no dito quadro.
+
+d) Aos oficiais do quadro permanente correspondia uma longa carreira militar, despendida, de há bastante tempo, no exercício de actividades absorvidas pelo serviço de material, quando da publicação do diploma que organizou esse serviço, actividades para as quais receberam a preparação adequada, nalguns casos até pela frequência de cursos no estrangeiro.
+
+Razões de ordem moral impuseram-lhes o requerimento de transferência para o quadro dos serviços técnicos de manutenção, mas, além disso, os interesses do Exército difìcilmente os poderiam dispensar de tal ingresso.
+
+e) Os oficiais oriundos do quadro de complemento não possuíam, na generalidade dos casos, nem preparação técnica nem experiência relacionadas com as especialidades onde ingressaram.
+
+O estágio que frequentaram forneceu-lhes apenas uma preparação inicial a valorizar pela experiência a adquirir no exercício das respectivas especialidades. Esse estágio não poderá ser assemelhado a um concurso, já porque nem lhe foi dada tal índole na sua organização, já porque a publicação das portarias de ingresso dos respectivos oficiais no quadro dos serviços técnicos de manutenção foi anterior ao final do citado estágio.
+
+A admissão dos oficiais de complemento fundamentou-se, em especial, na conveniência de fazer o aproveitamento de pessoal com serviços já prestados ao Exército, há um certo número de anos, em diversas actividades, embora estranhas ao serviço de material, pessoal cujas qualidades militares e um desejo legítimo de ingressar no quadro permanente se tinha manifestado, francamente, do antecedente.
+
+V) Ponderadas as considerações anteriores e tendo em conta, por um lado, que não pode deixar de ser inalterável a posição relativa que hoje mantêm entre si os oficiais transferidos do quadro permanente, e, por outro lado, que é anómala e não tem verdadeiro significado, para o efeito, a relação dos oficiais oriundos do quadro de complemento publicada a título provisório na lista geral de antiguidade dos oficiais do Exército; tendo ainda presentes os factores de natureza ético-militar que envolvem o problema, poderá concluir-se que o critério mais aceitável para estabelecer uma escala única de intercalação dos oficiais do quadro permanente e dos oriundos do quadro de complemento, ingressados inicialmente no quadro dos serviços técnicos de manutenção, terá por base o tempo de serviço efectivamente prestado por cada um, corrigido esse tempo, para os oficiais oriundos do quadro de complemento, pela classificação obtida no estágio que frequentaram ao ingressar no novo quadro. De certo modo, e abstraindo das condições que neste caso não se verificaram, tal critério tem o seu precedente no que se estabelece no artigo 19.º da [Portaria n.º 11332](https://diariodarepublica.pt/dr/detalhe/portaria/11332-1946-341379), de 6 de Março de 1946, onde se incluem, como elementos de apreciação para classificação final respeitante a uma modalidade de ingresso no quadro permanente, os serviços profissionais ou militares que os candidatos tenham prestado e as classificações obtidas nos cursos militares frequentados.
+
+VI) Nestes termos, tornando-se indispensável estabelecer a escala única de intercalação dos oficiais nos quadros dos serviços técnicos de manutenção do serviço de material, e bem assim regular os problemas com essa escala relacionados ou dela decorrentes, em consequência do disposto no artigo 11.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, que se observe o seguinte, relativamente aos oficiais do quadro do serviço técnico de manutenção do serviço de material, considerados para o preenchimento inicial dos mesmos quadros:
+
+1.º A escala única de intercalação dos oficiais admitidos para preenchimento inicial dos quadros dos serviços técnicos de manutenção, nos termos das alíneas a) e b) do artigo 11.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), de 24 de Novembro de 1956, será elaborada em obediência às seguintes normas:
+
+a) Serão considerados:
+
+Os oficiais transferidos do quadro permanente que, à data da publicação do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), já tinham sido promovidos a alferes;
+
+Os oficiais de complemento admitidos.
+
+b) Estabelecem-se, prèviamente, duas listas:
+
+Para os oficiais transferidos do quadro permanente. - A lista é obtida a partir da escala de antiguidade existente;
+
+Para os oficiais oriundos do complemento. - A lista é obtida, independentemente dos postos, colocando-se os oficiais por ordem do tempo de serviço efectivo prestado e corrigindo-se a ordenação em função das classificações obtidas no estágio que frequentaram. Para tanto, a lista será organizada por pontuação (P), calculada pela fórmula:
+
+P = (N + (20 - C/0,3))
+
+em que:
+
+N - é o número de ordem correspondente ao tempo de serviço efectivamente prestado;
+
+C - é a classificação obtida no estágio.
+
+Em caso de igualdade de pontuação ficará à direita o oficial de maior classificação.
+
+c) O tempo de serviço efectivo dos oficiais do quadro permanente é contado a partir do seu ingresso na classe de sargentos (promoção a furriel).
+
+No tempo de serviço efectivo dos oficiais oriundos de complemento não é contado o tempo correspondente aos cursos de formação.
+
+d) Finalmente, integram-se as duas listas numa escala única, transferindo-se o oficial de complemento à cabeça da respectiva lista prèviamente elaborada para uma posição imediatamente à direita do oficial mais avançado da lista (escala) do quadro permanente com tempo de serviço efectivo inferior ao seu; e assim sucessivamente, mas por forma que na escala única definitiva as posições relativas que os oficiais ocupavam em cada uma das listas se mantenham.
+
+e) Os oficiais oriundos de complemento cuja posição na escala de intercalação seja à esquerda de oficiais de patente inferior, dentro do mesmo ramo, consideram-se graduados no actual posto.
+
+2.º A escala de intercalação definida na presente portaria servirá de base:
+
+À promoção nos quadros dos ramos de armamento e munições e material eléctrico, radioeléctrico e electrónico;
+
+À designação para o curso de promoção a oficial superior dos oficiais do serviço técnico de manutenção;
+
+À definição da posição relativa, dentro dos ramos.
+
+3.º A Direcção do Serviço de Pessoal promoverá, no mais curto prazo, a elaboração da escala única de intercalação, referida no número anterior, a submeter a despacho do Ministro do Exército, com vista à publicação oportuna em Ordem do Exército, 2.ª fase.
+
+4.º A Direcção do Serviço de Pessoal promoverá, desde já, a organização dos processos de promoção a capitão de todos os oficiais dos ramos de armamento e munições e material eléctrico, radioeléctrico e electrónico em condições de poderem ser promovidos.
+
+Para o cálculo do número de vagas dos quadros de capitães de cada um dos ramos ter-se-á em conta o estabelecido no artigo 131.º do Estatuto do Oficial do Exército relativamente aos quadros de majores e tenentes-coronéis dos serviços técnicos de manutenção.
+
+No caso de as vacaturas existentes serem em número superior aos oficiais a promover nos quadros de cada um dos ramos de armamento e munições de material eléctrico, radioeléctrico e electrónico, as promoções podem realizar-se independentemente da limitação decorrente do n.º 7.º, mas apenas para os oficiais que satisfaçam as condições gerais e especiais de promoção - estas consideradas em analogia com o que o Estatuto do Oficial do Exército estabelece para os serviços.
+
+Para efeito do estabelecido anteriormente, deduz-se ao número total de vacaturas disponível em cada ramo o número de capitães já existentes, independentemente da sua posição na lista de intercalações.
+
+5.º O Estado-Maior do Exército, pela sua 5.ª Repartição, promoverá a organização do curso de promoção a oficial superior dos serviços técnicos de manutenção do serviço de material por forma que possa ser imediatamente frequentado pelos oficiais transferidos do quadro permanente em condições de o frequentar, de harmonia com os conceitos gerais expressos no Estatuto do Oficial do Exército.
+
+O cálculo do número de oficiais que devem frequentar o curso segue os trâmites normais em casos semelhantes.
+
+6.º Até completo escoamento, por promoção a oficial superior ou por outro motivo, dos oficiais de complemento admitidos para preenchimento inicial dos quadros dos serviços técnicos de manutenção do serviço de material, a promoção a major dos mesmos quadros far-se-á nos termos do artigo 14.º do [Decreto-Lei n.º 40880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40880-1956-298638), sendo a designação para a frequência do curso de promoção organizado para o efeito feita pela ordem de colocação dos oficiais (transferidos, do quadro permanente, e ingressados, de complemento) na lista de intercalação elaborada de acordo com o estabelecido na presente portaria.
+
+7.º A partir da data da Ordem do Exército, 2.ª série, em que for publicada a lista de intercalação, é fixado o prazo de 45 dias, dentro do qual os oficiais podem apresentar reclamação em relação à exacta aplicação dos princípios estabelecidos na presente portaria.
+
+8.º As dúvidas surgidas na aplicação dos mesmos princípios serão resolvidas por despacho do Ministro do Exército.
+
+Ministério do Exército, 21 de Julho de 1960. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.

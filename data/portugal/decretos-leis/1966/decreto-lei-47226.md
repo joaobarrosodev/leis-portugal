@@ -1,0 +1,184 @@
+---
+schema_version: '1.0'
+id: pt:dre:480107:por
+title: Decreto-Lei n.º 47226
+short_title: null
+summary: Insere providências destinadas a proteger o património cinegético nacional e estabelece as modalidades de que revestirá
+  a licença de caça
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Justiça e da Economia - Secretaria de Estado da Agricultura
+proposing_entity: null
+official_number: '47226'
+official_date: null
+publication_date: '1966-09-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 228/1966, Série I de 1966-09-30
+  number: '228'
+  series: I
+  supplement: null
+  pages: 1547 - 1549
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/09/22800/15471549.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '480107'
+  dre_path: /dr/detalhe/decreto-lei/47226-1966-480107
+  internal: pt:dre:480107:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47226-1966-480107
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47226-1966-480107
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-09-30T00:00:00Z'
+integrity:
+  source_sha256: da5edfa805f3db8b50e8905994b2d0821c93a881d1780a928c85902066a7aecf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-47226-480107.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47226
+
+1. A necessidade urgente de proteger o património cinegético nacional, em face da progressiva escassez das suas espécies e da desactualização do regime jurídico sobre a caça, levou já o Governo a promover a necessária reforma legislativa, para o que submeteu à Câmara Corporativa um projecto de proposta de lei sobre a matéria.
+
+Aproxima-se, porém, nova época venatória, durante a qual, se não forem tomadas providências urgentes, mais se agravará o depauperamento das espécies cinegéticas, o que se torna imperioso evitar.
+
+Nestas condições, não podendo a Assembleia Nacional discutir a proposta em prazo que satisfaça aquele imperativo, mas tendo a Câmara Corporativa emitido já parecer sobre ela, tem-se por conveniente nova iniciativa do Governo, adoptando as providências que se lhe afiguram mais urgentes, dentro da orientação apontada pela Câmara e que corresponde, aliás, nas linhas gerais, à que estruturou o projecto governamental.
+
+É evidente, porém, que a coexistência com o regime vigente impõe certas modificações de pormenor.
+
+E desta forma se espera atenuar alguns dos males actuais, sem prejudicar as soluções que a Assembleia Nacional entender de adoptar, dentro da ampla discussão e apreciação da matéria.
+
+2. O carácter urgente das providências leva a limitá-las aos aspectos que se consideram de maior premência.
+
+Nesta ideia, agravam-se desde já as sanções, embora sòmente no que se refere às infracções mais prejudiciais para o património cinegético, e para as quais, por isso mesmo, a Câmara Corporativa prevê, específica e directamente, as penas aplicáveis.
+
+E isto porque se considera a prática desses actos ilícitos como uma das causas fundamentais da situação actual.
+
+E introduz-se também o quadro de licenças sugerido no parecer, muito semelhante, afinal, ao do projecto, como forma de se procurar desde já, embora com uma mais justa distribuição dos encargos, o volume das receitas indispensável para o fortalecimento da fiscalização e para a adopção de medidas de fomento cinegético, cuja falta tanto se faz sentir.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. A licença de caça revestirá as seguintes modalidades:
+
+a) Licença geral de caça;
+
+b) Licença regional de caça;
+
+c) Licença concelhia de caça;
+
+d) Licença de caça com fim lucrativo;
+
+e) Licença de caça sem espingarda.
+
+2. A licença de caça é geral, regional ou concelhia, consoante autoriza o exercício venatório, respectivamente, em todo o continente e ilhas adjacentes, sòmente na área de uma região venatória, ou apenas na área do concelho da residência habitual do caçador e na dos concelhos limítrofes.
+
+3. A licença de caça com fim lucrativo sòmente permite caçar na área do concelho da residência habitual do seu titular e na dos concelhos limítrofes.
+
+4. A licença de caça sem espingarda apenas permite caçar com a ajuda de cães (a corricão), com ou sem pau, na área do concelho para que for emitida e na dos concelhos limítrofes.
+
+###### Art. 2.º - 1. Pela concessão das licenças previstas no artigo anterior serão devidas as seguintes taxas:
+
+a) Licença geral de caça ... 300$00
+
+b) Licença regional de caça ... 150$00
+
+c) Licença concelhia de caça ... 75$00
+
+d) Licença de caça com fim lucrativo ... 300$00
+
+e) Licença de caça sem espingarda ... 40$00
+
+2. O produto das taxas constitui receita da Direcção-Geral dos Serviços Florestais e Aquícolas, depois de deduzidas, por cada licença, as seguintes quantias: 20$00 para a câmara municipal; 13$50 para a comissão venatória regional; e 6$50 para a comissão venatória concelhia.
+
+###### Art. 3.º As quantias atribuídas à Direcção-Geral dos Serviços Florestais e Aquícolas pelo n.º 2 do artigo anterior serão aplicadas nas despesas necessárias ao exercício da polícia e fiscalização da caça e ao fomento das espécies cinegéticas, através dos seus próprios serviços ou de subsídios às comissões venatórias regionais.
+
+###### Art. 4.º - 1. Os cartões das licenças de caça continuam a ser selados com estampilhas fiscais no valor de 5$00, mantendo-se o custo de cada um em 1$00.
+
+2. Os modelos dos cartões das diversas licenças serão aprovados mediante portaria do Secretário de Estado da Agricultura.
+
+###### Art. 5.º - 1. A caça em época de defeso ou com o emprego de meios proibidos constitui crime punível com prisão de um a seis meses e multa de 500$00 a 10000$00 e acarreta sempre a interdição do direito de caçar, bem como a perda dos instrumentos da infracção.
+
+2. Decretar-se-á a interdição definitiva quando ao infractor hajam sido impostas duas interdições temporárias, nos termos do número anterior, e volte a cometer uma das infracções nele previstas.
+
+3. A pena de prisão respeitante às infracções previstas no n.º 1 não poderá ser substituída por multa quando o infractor tenha sido já condenado por uma dessas infracções, salvo se entre a nova condenação e a anterior decorrerem mais de cinco anos.
+
+###### Art. 6.º - 1. A caça em locais proibidos constitui contravenção punível com a multa de 500$00 a 5000$00, sem prejuízo da aplicação de pena mais grave correspondente ao crime de dano, que no caso concorra, e da obrigação de indemnizar pelos prejuízos causados.
+
+2. O tribunal poderá decretar, de harmonia com a gravidade da infracção, a interdição do direito de caçar.
+
+###### Art. 7.º - 1. A interdição temporária do direito de caçar pode ser de um a cinco anos.
+
+2. O não acatamento da interdição, temporária ou definitiva, é punível com a pena de prisão até seis meses.
+
+###### Art. 8.º A perda dos instrumentos da infracção envolve a perda da espingarda, bem como do veículo que serviu à prática daquela, salvo se pertenciam a terceiro e foram utilizados para esse fim contra sua vontade ou com seu desconhecimento e sem que da infracção haja tirado vantagens.
+
+###### Art. 9.º - 1. O quantitativo das multas por infracções relativas a disposições sobre a caça terá o seguinte destino:
+
+a) 1/5 para a comissão venatória concelhia;
+
+b) 1/5 para a Misericórdia, ou, não a havendo, para quaisquer instituições de beneficência do concelho;
+
+c) 1/5 para a câmara municipal;
+
+d) Os restantes 2/5 para a Direcção-Geral dos Serviços Florestais e Aquícolas.
+
+2. A consignação estabelecida no número anterior não prejudica a atribuição ao Cofre Geral dos Tribunais da parte que lhe cabe no produto das multas, nos termos do Código Penal.
+
+###### Art. 10.º Os quantitativos atribuídos à Direcção-Geral dos Serviços Florestais e Aquícolas, ao abrigo do artigo anterior, serão reservados, em partes iguais, para fomento cinegético e atribuição de prémios a autuantes e participantes que sejam agentes de fiscalização e se tenham revelado especialmente diligentes no desempenho das suas funções.
+
+###### Art. 11.º É atribuída competência para a fiscalização do cumprimento das disposições relativas a caça aos guardas florestais da Direcção-Geral dos Serviços Florestais e Aquícolas, fazendo os respectivos autos fé em juízo, até prova em contrário, nos termos do artigo 58.º do [Decreto n.º 23461](https://diariodarepublica.pt/dr/detalhe/decreto/23461-1934-675390), de 17 de Janeiro de 1934.
+
+###### Art. 12.º As quantias atribuídas à Direcção-Geral dos Serviços Florestais e Aquícolas serão depositadas mensalmente na Caixa Geral de Depósitos, Crédito e Previdência, pelas câmaras municipais que as cobrarem.
+
+###### Art. 13.º O regime de licenças fixado no presente diploma entrará em vigor no dia 1 de Janeiro de 1967, mantendo a sua validade, até 31 de Dezembro de 1966, as licenças que tenham sido ou venham a ser concedidas ao abrigo da legislação vigente.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 30 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.
